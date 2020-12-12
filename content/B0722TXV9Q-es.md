@@ -22,7 +22,7 @@ Ahora mismo tienes [PIECES Pcjolanda LS Knit  suéter Mujer  Gris  Medium Grey M
 
 [![PIECES Pcjolanda LS Knit  suéter Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41ZdotWRBzL._SL200_.jpg)](https://www.amazon.es/dp/B0722TXV9Q/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0722TXV9Q/?tag=tolees-21)

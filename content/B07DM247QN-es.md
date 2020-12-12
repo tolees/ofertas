@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Terrex Ax2R GTX  Zapatillas de Trail Running para Hom
 
 [![adidas Terrex Ax2R GTX  Zapatillas de Tr](https://images-eu.ssl-images-amazon.com/images/I/41JTT7UyKvL._SL200_.jpg)](https://www.amazon.es/dp/B07DM247QN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DM247QN/?tag=tolees-21)

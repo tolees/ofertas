@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 3.G.MD.Bandas Contraste Pantalones   Gama Azules
 
 [![Springfield 3.G.MD.Bandas Contraste Pant](https://images-eu.ssl-images-amazon.com/images/I/41xiYnCMpcL._SL200_.jpg)](https://www.amazon.es/dp/B07KZ43WF6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KZ43WF6/?tag=tolees-21)

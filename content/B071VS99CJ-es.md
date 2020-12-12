@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Pulse Ignite XT VR  Zapatillas Deportivas para Interior
 
 [![Puma Pulse Ignite XT VR  Zapatillas Depo](https://images-eu.ssl-images-amazon.com/images/I/41cWdQgullL._SL200_.jpg)](https://www.amazon.es/dp/B071VS99CJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071VS99CJ/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans MC Queen Short para Hombre  Rojo  Jam 213   W38  
 
 [![Pepe Jeans MC Queen Short para Hombre  R](https://images-eu.ssl-images-amazon.com/images/I/41Ks9Cls0yL._SL200_.jpg)](https://www.amazon.es/dp/B07NC7WGKG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07NC7WGKG/?tag=tolees-21)

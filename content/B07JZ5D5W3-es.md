@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Forest Grove Zapatillas de Gimnasia Hombre  Blanco  C
 
 [![adidas Forest Grove Zapatillas de Gimnas](https://images-eu.ssl-images-amazon.com/images/I/41rpxk-YyzL._SL200_.jpg)](https://www.amazon.es/dp/B07JZ5D5W3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JZ5D5W3/?tag=tolees-21)

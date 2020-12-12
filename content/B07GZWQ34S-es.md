@@ -22,7 +22,7 @@ Ahora mismo tienes [Magefesa Korinto Sartén 22 cm de Aluminio con Antiadherente
 
 [![Magefesa Korinto Sartén 22 cm de Alumini](https://images-eu.ssl-images-amazon.com/images/I/31mySM8jVqL._SL200_.jpg)](https://www.amazon.es/dp/B07GZWQ34S/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GZWQ34S/?tag=tolees-21)

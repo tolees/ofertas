@@ -22,7 +22,7 @@ Ahora mismo tienes [Boccia 3561-02 - Reloj analógico de cuarzo para hombre con 
 
 [![Boccia 3561-02 - Reloj analógico de cuar](https://images-eu.ssl-images-amazon.com/images/I/41Qmoz6VOyL._SL200_.jpg)](https://www.amazon.es/dp/B0053WRE0Y/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0053WRE0Y/?tag=tolees-21)

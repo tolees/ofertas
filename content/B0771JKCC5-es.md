@@ -22,7 +22,7 @@ Ahora mismo tienes [GreeSuit pasteles giradiscos Soporte rotatorio de la placa d
 
 [![GreeSuit pasteles giradiscos Soporte rot](https://images-eu.ssl-images-amazon.com/images/I/51RREgoxufL._SL200_.jpg)](https://www.amazon.es/dp/B0771JKCC5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0771JKCC5/?tag=tolees-21)

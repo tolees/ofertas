@@ -22,7 +22,7 @@ Ahora mismo tienes [DC Shoes Evan Hi Winter  Zapatillas de Skateboard para Mujer
 
 [![DC Shoes Evan Hi Winter  Zapatillas de S](https://images-eu.ssl-images-amazon.com/images/I/416ubLoZITL._SL200_.jpg)](https://www.amazon.es/dp/B07DGMB8Q5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DGMB8Q5/?tag=tolees-21)

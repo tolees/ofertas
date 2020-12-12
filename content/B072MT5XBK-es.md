@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers You-Shine  Zapatillas sin Cordones para Mujer  Negr
 
 [![Skechers You-Shine  Zapatillas sin Cordo](https://images-eu.ssl-images-amazon.com/images/I/41i-bRfLGiL._SL200_.jpg)](https://www.amazon.es/dp/B072MT5XBK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072MT5XBK/?tag=tolees-21)

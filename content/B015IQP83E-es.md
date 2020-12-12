@@ -22,7 +22,7 @@ Ahora mismo tienes [Roccat Isku FX - Teclado Gaming  iluminación  Color Blanco]
 
 [![Roccat Isku FX - Teclado Gaming  ilumina](https://images-eu.ssl-images-amazon.com/images/I/41zEqnlEbZL._SL200_.jpg)](https://www.amazon.es/dp/B015IQP83E/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B015IQP83E/?tag=tolees-21)

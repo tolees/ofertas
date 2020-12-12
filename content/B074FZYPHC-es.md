@@ -22,7 +22,7 @@ Ahora mismo tienes [Pendientes de mujer finos de 18 K en oro blanco con circoni
 
 [![Pendientes de mujer finos de 18 K en oro](https://images-eu.ssl-images-amazon.com/images/I/419xd3tx5hL._SL200_.jpg)](https://www.amazon.es/dp/B074FZYPHC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074FZYPHC/?tag=tolees-21)

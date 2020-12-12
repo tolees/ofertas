@@ -22,7 +22,7 @@ Ahora mismo tienes [Depiladora de Vello Facial para Mujer  MEOWMEE Afeitadora si
 
 [![Depiladora de Vello Facial para Mujer  M](https://images-eu.ssl-images-amazon.com/images/I/41xG%2BpEFN4L._SL200_.jpg)](https://www.amazon.es/dp/B07CMPSJF7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CMPSJF7/?tag=tolees-21)

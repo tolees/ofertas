@@ -22,7 +22,7 @@ Ahora mismo tienes [K-Swiss Arvee 1.5  Zapatillas para Hombre  MONK S ROBE/KHAKI
 
 [![K-Swiss Arvee 1.5  Zapatillas para Hombr](https://images-eu.ssl-images-amazon.com/images/I/413Yj25nTDL._SL200_.jpg)](https://www.amazon.es/dp/B077VXC6FH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077VXC6FH/?tag=tolees-21)

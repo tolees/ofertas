@@ -22,7 +22,7 @@ Ahora mismo tienes [Superga 2750-COTROPEU  Zapatillas para Mujer   Beige Double 
 
 [![Superga 2750-COTROPEU  Zapatillas para M](https://images-eu.ssl-images-amazon.com/images/I/41doSBQVS-L._SL200_.jpg)](https://www.amazon.es/dp/B07N4LD8T1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07N4LD8T1/?tag=tolees-21)

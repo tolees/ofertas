@@ -22,7 +22,7 @@ Ahora mismo tienes [Aigostar Rob 30IGQ - Hervidor de agua de 1 7 litros  potenci
 
 [![Aigostar Rob 30IGQ - Hervidor de agua de](https://images-eu.ssl-images-amazon.com/images/I/41nGrxVSZUL._SL200_.jpg)](https://www.amazon.es/dp/B01LSEQS7U/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01LSEQS7U/?tag=tolees-21)

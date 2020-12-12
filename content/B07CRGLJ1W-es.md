@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Defy Wn s  Zapatillas de Deporte para Mujer  Blanco Whi
 
 [![Puma Defy Wn s  Zapatillas de Deporte pa](https://images-eu.ssl-images-amazon.com/images/I/41lMFhT36TL._SL200_.jpg)](https://www.amazon.es/dp/B07CRGLJ1W/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CRGLJ1W/?tag=tolees-21)

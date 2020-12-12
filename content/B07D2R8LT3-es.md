@@ -22,7 +22,7 @@ Ahora mismo tienes [Gant Lambswool Crew Top  Tank Mujer  Azul  Marine   44  Tall
 
 [![Gant Lambswool Crew Top  Tank Mujer  Azu](https://images-eu.ssl-images-amazon.com/images/I/31fJs32nH8L._SL200_.jpg)](https://www.amazon.es/dp/B07D2R8LT3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D2R8LT3/?tag=tolees-21)

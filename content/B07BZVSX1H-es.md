@@ -22,7 +22,7 @@ Ahora mismo tienes [Real Fantasy Vibrador Consolador](https://www.amazon.es/dp/B
 
 [![Real Fantasy Vibrador Consolador](https://images-eu.ssl-images-amazon.com/images/I/41rrtaAEecL._SL200_.jpg)](https://www.amazon.es/dp/B07BZVSX1H/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BZVSX1H/?tag=tolees-21)

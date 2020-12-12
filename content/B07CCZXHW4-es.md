@@ -22,7 +22,7 @@ Ahora mismo tienes [Loving Vincent - Edición Especial Coleccionista [DVD + Blu-
 
 [![Loving Vincent - Edición Especial Colecc](https://images-eu.ssl-images-amazon.com/images/I/51E6iRJ1cOL._SL200_.jpg)](https://www.amazon.es/dp/B07CCZXHW4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CCZXHW4/?tag=tolees-21)

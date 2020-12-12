@@ -22,7 +22,7 @@ Ahora mismo tienes [Karen Millen Dark Floral and Leopard Print Jumpsuit  Mono pa
 
 [![Karen Millen Dark Floral and Leopard Pri](https://images-eu.ssl-images-amazon.com/images/I/31F5Up9MmWL._SL200_.jpg)](https://www.amazon.es/dp/B07GSBJ1TF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GSBJ1TF/?tag=tolees-21)

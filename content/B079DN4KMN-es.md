@@ -22,7 +22,7 @@ Ahora mismo tienes [Sailnovo Antorcha de jardín con 96 LED a prueba de agua IP6
 
 [![Sailnovo Antorcha de jardín con 96 LED a](https://images-eu.ssl-images-amazon.com/images/I/41yHzRfKtzL._SL200_.jpg)](https://www.amazon.es/dp/B079DN4KMN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079DN4KMN/?tag=tolees-21)

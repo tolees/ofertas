@@ -22,7 +22,7 @@ Ahora mismo tienes [DIGITUS DN-95001 adaptador de cable RJ-45 CC Blanco - Adapta
 
 [![DIGITUS DN-95001 adaptador de cable RJ-4](https://images-eu.ssl-images-amazon.com/images/I/31rJdQvIizL._SL200_.jpg)](https://www.amazon.es/dp/B002NBN72C/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B002NBN72C/?tag=tolees-21)

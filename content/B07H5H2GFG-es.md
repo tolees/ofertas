@@ -22,7 +22,7 @@ Ahora mismo tienes [Estera de Barbacoa  3 Piezas Láminas de Parrilla BBQ Grill 
 
 [![Estera de Barbacoa  3 Piezas Láminas de ](https://images-eu.ssl-images-amazon.com/images/I/51YfhySRujL._SL200_.jpg)](https://www.amazon.es/dp/B07H5H2GFG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07H5H2GFG/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour Women  s Tech 2.0 Twist Corto  Mujer  Color Fo
 
 [![Under Armour Women  s Tech 2.0 Twist Cor](https://images-eu.ssl-images-amazon.com/images/I/41hrib%2B2uyL._SL200_.jpg)](https://www.amazon.es/dp/B071P39SKC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071P39SKC/?tag=tolees-21)

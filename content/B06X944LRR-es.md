@@ -22,7 +22,7 @@ Ahora mismo tienes [oodji Ultra Hombre Pantalones Chinos de Algodón  Azul  ES 4
 
 [![oodji Ultra Hombre Pantalones Chinos de ](https://images-eu.ssl-images-amazon.com/images/I/41vB%2BocqGxL._SL200_.jpg)](https://www.amazon.es/dp/B06X944LRR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06X944LRR/?tag=tolees-21)

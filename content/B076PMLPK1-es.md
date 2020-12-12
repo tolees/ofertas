@@ -22,7 +22,7 @@ Ahora mismo tienes [Trust Gaming GXT 790-SB Spectra - Pack Gaming 3 en 1: Auricu
 
 [![Trust Gaming GXT 790-SB Spectra - Pack G](https://images-eu.ssl-images-amazon.com/images/I/41LZ8jDj6zL._SL200_.jpg)](https://www.amazon.es/dp/B076PMLPK1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B076PMLPK1/?tag=tolees-21)

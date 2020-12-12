@@ -22,7 +22,7 @@ Ahora mismo tienes [SYROKAN - Sujetador Deportivo Talla Grande Alto Soporte Sin 
 
 [![SYROKAN - Sujetador Deportivo Talla Gran](https://images-eu.ssl-images-amazon.com/images/I/51yiGT-57iL._SL200_.jpg)](https://www.amazon.es/dp/B0756TF5QK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0756TF5QK/?tag=tolees-21)

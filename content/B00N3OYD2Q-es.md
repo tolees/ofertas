@@ -22,7 +22,7 @@ Ahora mismo tienes [Sony HD de s1ab 1000 GB](https://www.amazon.es/dp/B00N3OYD2
 
 [![Sony HD de s1ab 1000 GB](https://images-eu.ssl-images-amazon.com/images/I/31KSxliqH0L._SL200_.jpg)](https://www.amazon.es/dp/B00N3OYD2Q/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00N3OYD2Q/?tag=tolees-21)

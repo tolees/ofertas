@@ -22,7 +22,7 @@ Ahora mismo tienes [MONTIS ALPIZ Air 30 - Mochila de Senderismo  Deporte y Uso D
 
 [![MONTIS ALPIZ Air 30 - Mochila de Senderi](https://images-eu.ssl-images-amazon.com/images/I/416ooEUhaaL._SL200_.jpg)](https://www.amazon.es/dp/B01M1JYWGA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01M1JYWGA/?tag=tolees-21)

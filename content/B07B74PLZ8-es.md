@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance Fresh Foam Cruz v2 Deconstructed  Zapatillas de 
 
 [![New Balance Fresh Foam Cruz v2 Deconstru](https://images-eu.ssl-images-amazon.com/images/I/41SpDcgsUFL._SL200_.jpg)](https://www.amazon.es/dp/B07B74PLZ8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07B74PLZ8/?tag=tolees-21)

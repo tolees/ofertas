@@ -22,7 +22,7 @@ Ahora mismo tienes [Parker Sonnet - Set de pluma estilográfica y cuaderno  acer
 
 [![Parker Sonnet - Set de pluma estilográfi](https://images-eu.ssl-images-amazon.com/images/I/314oolyw-uL._SL200_.jpg)](https://www.amazon.es/dp/B07CRBZDW1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CRBZDW1/?tag=tolees-21)

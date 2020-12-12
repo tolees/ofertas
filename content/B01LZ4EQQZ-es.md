@@ -22,7 +22,7 @@ Ahora mismo tienes [oodji Ultra Mujer Mono con Acabado en Contraste  Gris  ES 42
 
 [![oodji Ultra Mujer Mono con Acabado en Co](https://images-eu.ssl-images-amazon.com/images/I/41v-DSx3GCL._SL200_.jpg)](https://www.amazon.es/dp/B01LZ4EQQZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01LZ4EQQZ/?tag=tolees-21)

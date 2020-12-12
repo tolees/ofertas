@@ -22,7 +22,7 @@ Ahora mismo tienes [Tyrrell s  Patata de bolsa  Saladas con Sal Marina  - 12 de 
 
 [![Tyrrell s  Patata de bolsa  Saladas con ](https://images-eu.ssl-images-amazon.com/images/I/51WkbJH89ZL._SL200_.jpg)](https://www.amazon.es/dp/B07D7T6J3L/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D7T6J3L/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Kartell Mobil Contenedores  Acero  Naranja  67x74x85 cm](htt
 
 [![Kartell Mobil Contenedores  Acero  Naran](https://images-eu.ssl-images-amazon.com/images/I/41pBqJ5GRFL._SL200_.jpg)](https://www.amazon.es/dp/B009M2NJNW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B009M2NJNW/?tag=tolees-21)

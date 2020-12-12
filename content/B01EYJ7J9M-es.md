@@ -22,7 +22,7 @@ Ahora mismo tienes [Kappa Kickoff  Zapatillas de Deporte Interior para Niñas  R
 
 [![Kappa Kickoff  Zapatillas de Deporte Int](https://images-eu.ssl-images-amazon.com/images/I/41YmZbsaANL._SL200_.jpg)](https://www.amazon.es/dp/B01EYJ7J9M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01EYJ7J9M/?tag=tolees-21)

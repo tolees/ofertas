@@ -22,7 +22,7 @@ Ahora mismo tienes [Clarks Maritsa Lara  Sandalia con Pulsera para Mujer  Beige 
 
 [![Clarks Maritsa Lara  Sandalia con Pulser](https://images-eu.ssl-images-amazon.com/images/I/41hr1U72JBL._SL200_.jpg)](https://www.amazon.es/dp/B07FSF3NW7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FSF3NW7/?tag=tolees-21)

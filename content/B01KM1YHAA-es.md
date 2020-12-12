@@ -22,7 +22,7 @@ Ahora mismo tienes [Casa descubrimientos Cotoons con luz y sonido  Smoby 110400 
 
 [![Casa descubrimientos Cotoons con luz y s](https://images-eu.ssl-images-amazon.com/images/I/41Zfd5A3EyL._SL200_.jpg)](https://www.amazon.es/dp/B01KM1YHAA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01KM1YHAA/?tag=tolees-21)

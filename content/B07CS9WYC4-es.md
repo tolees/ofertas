@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Soho Pantalones  Azul  Blueing 565   29W / 30L pa
 
 [![Pepe Jeans Soho Pantalones  Azul  Bluein](https://images-eu.ssl-images-amazon.com/images/I/31L332H%2B2aL._SL200_.jpg)](https://www.amazon.es/dp/B07CS9WYC4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CS9WYC4/?tag=tolees-21)

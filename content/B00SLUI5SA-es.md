@@ -22,7 +22,7 @@ Ahora mismo tienes [Sennheiser RS 175 - Auriculares](https://www.amazon.es/dp/B0
 
 [![Sennheiser RS 175 - Auriculares](https://images-eu.ssl-images-amazon.com/images/I/41aHkOstHeL._SL200_.jpg)](https://www.amazon.es/dp/B00SLUI5SA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00SLUI5SA/?tag=tolees-21)

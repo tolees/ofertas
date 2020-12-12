@@ -22,7 +22,7 @@ Ahora mismo tienes [Wera 950 PKL/9 BM N Juego de llaves acodadas métricas  Blac
 
 [![Wera 950 PKL/9 BM N Juego de llaves acod](https://images-eu.ssl-images-amazon.com/images/I/31UYcKZpYSL._SL200_.jpg)](https://www.amazon.es/dp/B000ZEE4T4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B000ZEE4T4/?tag=tolees-21)

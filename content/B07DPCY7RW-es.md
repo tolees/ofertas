@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma ftblNXT Vent Thermo-R Windbreaker Jacket  Hombre  Black
 
 [![Puma ftblNXT Vent Thermo-R Windbreaker J](https://images-eu.ssl-images-amazon.com/images/I/41nZCedoDGL._SL200_.jpg)](https://www.amazon.es/dp/B07DPCY7RW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DPCY7RW/?tag=tolees-21)

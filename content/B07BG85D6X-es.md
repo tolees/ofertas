@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW Bronson Service Straight Tapered  Pantalones Homb
 
 [![G-STAR RAW Bronson Service Straight Tape](https://images-eu.ssl-images-amazon.com/images/I/31xZhZRQJxL._SL200_.jpg)](https://www.amazon.es/dp/B07BG85D6X/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BG85D6X/?tag=tolees-21)

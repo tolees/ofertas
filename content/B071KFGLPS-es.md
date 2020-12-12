@@ -22,7 +22,7 @@ Ahora mismo tienes [Wilson Raqueta de tenis unisex  Para juego de ataque en la l
 
 [![Wilson Raqueta de tenis unisex  Para jue](https://images-eu.ssl-images-amazon.com/images/I/41hOj%2B7W19L._SL200_.jpg)](https://www.amazon.es/dp/B071KFGLPS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071KFGLPS/?tag=tolees-21)

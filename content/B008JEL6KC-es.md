@@ -22,7 +22,7 @@ Ahora mismo tienes [Triton 583534 - Cepilladora  tamaño: 317mm ](https://www.am
 
 [![Triton 583534 - Cepilladora  tamaño: 317](https://images-eu.ssl-images-amazon.com/images/I/516otijsXzL._SL200_.jpg)](https://www.amazon.es/dp/B008JEL6KC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B008JEL6KC/?tag=tolees-21)

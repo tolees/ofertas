@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers Outdoors Ultra  Botas Estilo Motero para Mujer  Mar
 
 [![Skechers Outdoors Ultra  Botas Estilo Mo](https://images-eu.ssl-images-amazon.com/images/I/41NPDhRSGbL._SL200_.jpg)](https://www.amazon.es/dp/B07CW1LJBW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CW1LJBW/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Asics Patriot 10 Zapatillas de Running Hombre  Multicolor  B
 
 [![Asics Patriot 10 Zapatillas de Running H](https://images-eu.ssl-images-amazon.com/images/I/41bJTY4m18L._SL200_.jpg)](https://www.amazon.es/dp/B079J4MVFK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079J4MVFK/?tag=tolees-21)

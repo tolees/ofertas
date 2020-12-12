@@ -22,7 +22,7 @@ Ahora mismo tienes [Pokèmon Sol y Luna: Unión de Aliados Español  Display de 
 
 [![Pokèmon Sol y Luna: Unión de Aliados Esp](https://images-eu.ssl-images-amazon.com/images/I/51E9Gu6cUzL._SL200_.jpg)](https://www.amazon.es/dp/B07NDFZGW1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07NDFZGW1/?tag=tolees-21)

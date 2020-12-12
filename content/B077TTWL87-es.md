@@ -22,7 +22,7 @@ Ahora mismo tienes [Oneconcept Game-Star • Mesa de Juegos • Mesa multifunci�
 
 [![Oneconcept Game-Star • Mesa de Juegos • ](https://images-eu.ssl-images-amazon.com/images/I/51YPyBJOnBL._SL200_.jpg)](https://www.amazon.es/dp/B077TTWL87/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077TTWL87/?tag=tolees-21)

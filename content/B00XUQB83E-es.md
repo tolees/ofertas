@@ -22,7 +22,7 @@ Ahora mismo tienes [Casualplay Beat Fix - Silla de auto  color negro](https://ww
 
 [![Casualplay Beat Fix - Silla de auto  col](https://images-eu.ssl-images-amazon.com/images/I/41FLAp6v0fL._SL200_.jpg)](https://www.amazon.es/dp/B00XUQB83E/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00XUQB83E/?tag=tolees-21)

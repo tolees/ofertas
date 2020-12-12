@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers D Lite Ultra-at The Top  Zapatillas para Mujer  Neg
 
 [![Skechers D Lite Ultra-at The Top  Zapati](https://images-eu.ssl-images-amazon.com/images/I/41QkQoIMXCL._SL200_.jpg)](https://www.amazon.es/dp/B07CW1JYXH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CW1JYXH/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [StarTech.com MST30C2HHPDU - Dock USB-C con MST para Monitore
 
 [![StarTech.com MST30C2HHPDU - Dock USB-C c](https://images-eu.ssl-images-amazon.com/images/I/31mZzt85U5L._SL200_.jpg)](https://www.amazon.es/dp/B078MQ92WN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078MQ92WN/?tag=tolees-21)

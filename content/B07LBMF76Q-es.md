@@ -22,7 +22,7 @@ Ahora mismo tienes [Napapijri NOTO 2 Pantalones Cortos Verde  New Olive Green Gd
 
 [![Napapijri NOTO 2 Pantalones Cortos Verde](https://images-eu.ssl-images-amazon.com/images/I/31QIy9OFiaL._SL200_.jpg)](https://www.amazon.es/dp/B07LBMF76Q/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07LBMF76Q/?tag=tolees-21)

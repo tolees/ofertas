@@ -22,7 +22,7 @@ Ahora mismo tienes [Joy.J Sets de Ping Pong  2 Raquetas de Ping Pong + 3 Pelotas
 
 [![Joy.J Sets de Ping Pong  2 Raquetas de P](https://images-eu.ssl-images-amazon.com/images/I/51X8XuUh1YL._SL200_.jpg)](https://www.amazon.es/dp/B07JLXSTG4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JLXSTG4/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [APC Surge Arrest Essential - PM5-GR - Regleta con protecció
 
 [![APC Surge Arrest Essential - PM5-GR - Re](https://images-eu.ssl-images-amazon.com/images/I/3162HDGdAOL._SL200_.jpg)](https://www.amazon.es/dp/B00TAS2E84/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00TAS2E84/?tag=tolees-21)

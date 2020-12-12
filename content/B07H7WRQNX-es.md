@@ -22,7 +22,7 @@ Ahora mismo tienes [McHaus Negra Silla Gaming Pro ergonómica  Ajustable  con re
 
 [![McHaus Negra Silla Gaming Pro ergonómica](https://images-eu.ssl-images-amazon.com/images/I/41x9tBcQmyL._SL200_.jpg)](https://www.amazon.es/dp/B07H7WRQNX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07H7WRQNX/?tag=tolees-21)

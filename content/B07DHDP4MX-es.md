@@ -22,7 +22,7 @@ Ahora mismo tienes [Carro Portamangueras  Soporte Manguera 20 m  1/2" Manguera J
 
 [![Carro Portamangueras  Soporte Manguera 2](https://images-eu.ssl-images-amazon.com/images/I/41lKDwHmZ7L._SL200_.jpg)](https://www.amazon.es/dp/B07DHDP4MX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DHDP4MX/?tag=tolees-21)

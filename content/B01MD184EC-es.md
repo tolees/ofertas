@@ -22,7 +22,7 @@ Ahora mismo tienes [Caso Centro Sous Vide Cocina al vacío  1200 W  Acero Inoxid
 
 [![Caso Centro Sous Vide Cocina al vacío  1](https://images-eu.ssl-images-amazon.com/images/I/41JVOSF3E%2BL._SL200_.jpg)](https://www.amazon.es/dp/B01MD184EC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MD184EC/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Altec Lansing Phantom 2.1 - Altavoz PC](https://www.amazon.e
 
 [![Altec Lansing Phantom 2.1 - Altavoz PC](https://images-eu.ssl-images-amazon.com/images/I/41psnl1EHrL._SL200_.jpg)](https://www.amazon.es/dp/B01IVVLB7U/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01IVVLB7U/?tag=tolees-21)

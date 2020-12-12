@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Deerupt Runner J  Zapatillas de Gimnasia Unisex Niño
 
 [![adidas Deerupt Runner J  Zapatillas de G](https://images-eu.ssl-images-amazon.com/images/I/41AzP09y85L._SL200_.jpg)](https://www.amazon.es/dp/B07JZ565BR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JZ565BR/?tag=tolees-21)

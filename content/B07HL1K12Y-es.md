@@ -22,7 +22,7 @@ Ahora mismo tienes [Marco Tozzi 2-2-23772-22  Zapatillas para Mujer  Gris  Lt.Gr
 
 [![Marco Tozzi 2-2-23772-22  Zapatillas par](https://images-eu.ssl-images-amazon.com/images/I/41%2Been5DTQL._SL200_.jpg)](https://www.amazon.es/dp/B07HL1K12Y/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07HL1K12Y/?tag=tolees-21)

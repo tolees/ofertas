@@ -22,7 +22,7 @@ Ahora mismo tienes [JJR/C H47 Drone con Control Remoto de Gravedad Wifi Cuadric�
 
 [![JJR/C H47 Drone con Control Remoto de Gr](https://images-eu.ssl-images-amazon.com/images/I/51LKBVq2xUL._SL200_.jpg)](https://www.amazon.es/dp/B077NXMVQC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077NXMVQC/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Platform Mid  Zapatillas para Mujer  Negro Black  37.5 
 
 [![Puma Platform Mid  Zapatillas para Mujer](https://images-eu.ssl-images-amazon.com/images/I/41h1VyEknjL._SL200_.jpg)](https://www.amazon.es/dp/B071LC8S4J/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071LC8S4J/?tag=tolees-21)

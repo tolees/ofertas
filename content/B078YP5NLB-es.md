@@ -22,7 +22,7 @@ Ahora mismo tienes [KINGSO 10 Pack Bombilla LED G4 3W Ahorro de Energía Equival
 
 [![KINGSO 10 Pack Bombilla LED G4 3W Ahorro](https://images-eu.ssl-images-amazon.com/images/I/518%2BUrUB6xL._SL200_.jpg)](https://www.amazon.es/dp/B078YP5NLB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078YP5NLB/?tag=tolees-21)

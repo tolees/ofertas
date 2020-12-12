@@ -22,7 +22,7 @@ Ahora mismo tienes [Sound Intone I8 Estereofonía Auriculares Bajos con micrófo
 
 [![Sound Intone I8 Estereofonía Auriculares](https://images-eu.ssl-images-amazon.com/images/I/51bOc18vZpL._SL200_.jpg)](https://www.amazon.es/dp/B073P8LDZ2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B073P8LDZ2/?tag=tolees-21)

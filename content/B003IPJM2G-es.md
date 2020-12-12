@@ -22,7 +22,7 @@ Ahora mismo tienes [Piscina Hinchable Infantil Bestway Mickey and the Roadster R
 
 [![Piscina Hinchable Infantil Bestway Micke](https://images-eu.ssl-images-amazon.com/images/I/415qfkZxiJL._SL200_.jpg)](https://www.amazon.es/dp/B003IPJM2G/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B003IPJM2G/?tag=tolees-21)

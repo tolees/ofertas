@@ -22,7 +22,7 @@ Ahora mismo tienes [Asics Fuzetora Twist  Zapatillas de Entrenamiento para Hombr
 
 [![Asics Fuzetora Twist  Zapatillas de Entr](https://images-eu.ssl-images-amazon.com/images/I/412SKaQWUsL._SL200_.jpg)](https://www.amazon.es/dp/B07D1LXSXS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D1LXSXS/?tag=tolees-21)

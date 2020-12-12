@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour UA Sway  Zapatillas de Running para Hombre  Neg
 
 [![Under Armour UA Sway  Zapatillas de Runn](https://images-eu.ssl-images-amazon.com/images/I/41XJyg2w9DL._SL200_.jpg)](https://www.amazon.es/dp/B0722VNZN6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0722VNZN6/?tag=tolees-21)

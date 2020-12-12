@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers You  Zapatillas sin cordones para Mujer  Rojo  Burg
 
 [![Skechers You  Zapatillas sin cordones pa](https://images-eu.ssl-images-amazon.com/images/I/41piKP91RML._SL200_.jpg)](https://www.amazon.es/dp/B01MRE3V1M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MRE3V1M/?tag=tolees-21)

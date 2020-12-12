@@ -22,7 +22,7 @@ Ahora mismo tienes [AJOXEL Alfombra de Baño Alfombra Antideslizante con 4 Pack 
 
 [![AJOXEL Alfombra de Baño Alfombra Antides](https://images-eu.ssl-images-amazon.com/images/I/41zSQln1NlL._SL200_.jpg)](https://www.amazon.es/dp/B07GGZY9D4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GGZY9D4/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Philips 71767/37/16 Linterna LED  Azul](https://www.amazon.e
 
 [![Philips 71767/37/16 Linterna LED  Azul](https://images-eu.ssl-images-amazon.com/images/I/41tw31iQLxL._SL200_.jpg)](https://www.amazon.es/dp/B00ZCC7W34/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00ZCC7W34/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Bosch GDR 18 V-LI - Atornillador de impacto  18V  Ión de li
 
 [![Bosch GDR 18 V-LI - Atornillador de impa](https://images-eu.ssl-images-amazon.com/images/I/41ZZtflsgaL._SL200_.jpg)](https://www.amazon.es/dp/B00FAM8DDO/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00FAM8DDO/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Bosch 2 608 641 188 - Hoja de sierra circular Optiline Wood 
 
 [![Bosch 2 608 641 188 - Hoja de sierra cir](https://images-eu.ssl-images-amazon.com/images/I/513h0QIERzL._SL200_.jpg)](https://www.amazon.es/dp/B0014GPPLI/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0014GPPLI/?tag=tolees-21)

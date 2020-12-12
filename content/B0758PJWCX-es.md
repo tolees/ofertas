@@ -22,7 +22,7 @@ Ahora mismo tienes [Clarks Hidi Holly  Zapatillas para Mujer  Rojo  Rust Nubuck 
 
 [![Clarks Hidi Holly  Zapatillas para Mujer](https://images-eu.ssl-images-amazon.com/images/I/4174o41RtWL._SL200_.jpg)](https://www.amazon.es/dp/B0758PJWCX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0758PJWCX/?tag=tolees-21)

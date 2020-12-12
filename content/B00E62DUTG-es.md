@@ -22,7 +22,7 @@ Ahora mismo tienes [Philips Sonicare Diamond Clean HX9352/04 - Cepillo de Diente
 
 [![Philips Sonicare Diamond Clean HX9352/04](https://images-eu.ssl-images-amazon.com/images/I/411LJ6Buo%2BL._SL200_.jpg)](https://www.amazon.es/dp/B00E62DUTG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00E62DUTG/?tag=tolees-21)

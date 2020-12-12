@@ -22,7 +22,7 @@ Ahora mismo tienes [Kärcher Manguera espiral basic  2.645-179.0 ](https://www.a
 
 [![Kärcher Manguera espiral basic  2.645-17](https://images-eu.ssl-images-amazon.com/images/I/414a2GNhH7L._SL200_.jpg)](https://www.amazon.es/dp/B008GTKRZU/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B008GTKRZU/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [iEGrow Ventilador Plegable Ventilador de Mano Ventilador Sil
 
 [![iEGrow Ventilador Plegable Ventilador de](https://images-eu.ssl-images-amazon.com/images/I/41e7IK-2ZrL._SL200_.jpg)](https://www.amazon.es/dp/B01F3HE4GU/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01F3HE4GU/?tag=tolees-21)

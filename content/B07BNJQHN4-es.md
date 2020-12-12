@@ -22,7 +22,7 @@ Ahora mismo tienes [Sedeta® 1PSC frente + 1PCS atrás silla de asiento de coche
 
 [![Sedeta® 1PSC frente + 1PCS atrás silla d](https://images-eu.ssl-images-amazon.com/images/I/61NGLukQUUL._SL200_.jpg)](https://www.amazon.es/dp/B07BNJQHN4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BNJQHN4/?tag=tolees-21)

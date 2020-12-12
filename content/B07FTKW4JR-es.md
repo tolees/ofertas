@@ -22,7 +22,7 @@ Ahora mismo tienes [Adidas CF Racer TR K  Zapatillas de Deporte Unisex Adulto   
 
 [![Adidas CF Racer TR K  Zapatillas de Depo](https://images-eu.ssl-images-amazon.com/images/I/41BpxXOtl-L._SL200_.jpg)](https://www.amazon.es/dp/B07FTKW4JR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FTKW4JR/?tag=tolees-21)

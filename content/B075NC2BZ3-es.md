@@ -22,7 +22,7 @@ Ahora mismo tienes [Westworld Temporada 1 Blu-Ray [Blu-ray]](https://www.amazon.
 
 [![Westworld Temporada 1 Blu-Ray [Blu-ray]](https://images-eu.ssl-images-amazon.com/images/I/51MuxBvT8ZL._SL200_.jpg)](https://www.amazon.es/dp/B075NC2BZ3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075NC2BZ3/?tag=tolees-21)

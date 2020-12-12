@@ -22,7 +22,7 @@ Ahora mismo tienes [Aingoo Cama de Metal con somier de láminas con Marco  Blanc
 
 [![Aingoo Cama de Metal con somier de lámin](https://images-eu.ssl-images-amazon.com/images/I/41cVFbgFcVL._SL200_.jpg)](https://www.amazon.es/dp/B07CM4D69D/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CM4D69D/?tag=tolees-21)

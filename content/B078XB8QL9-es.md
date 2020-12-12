@@ -22,7 +22,7 @@ Ahora mismo tienes [Arxus impermeable a prueba de golpes Funda de transporte par
 
 [![Arxus impermeable a prueba de golpes Fun](https://images-eu.ssl-images-amazon.com/images/I/61hyAS6D4AL._SL200_.jpg)](https://www.amazon.es/dp/B078XB8QL9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078XB8QL9/?tag=tolees-21)

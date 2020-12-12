@@ -22,7 +22,7 @@ Ahora mismo tienes [DKNY Intimates Litewear Fishnet Spacer Sujetador con Aros  B
 
 [![DKNY Intimates Litewear Fishnet Spacer S](https://images-eu.ssl-images-amazon.com/images/I/41ULoT2-cNL._SL200_.jpg)](https://www.amazon.es/dp/B077NGTDHG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077NGTDHG/?tag=tolees-21)

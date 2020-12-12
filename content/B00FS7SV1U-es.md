@@ -22,7 +22,7 @@ Ahora mismo tienes [Parrot AR.Drone 2.0 Elite Edition Jungle - Dron cuadricópte
 
 [![Parrot AR.Drone 2.0 Elite Edition Jungle](https://images-eu.ssl-images-amazon.com/images/I/41gUoRsawiL._SL200_.jpg)](https://www.amazon.es/dp/B00FS7SV1U/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00FS7SV1U/?tag=tolees-21)

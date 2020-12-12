@@ -22,7 +22,7 @@ Ahora mismo tienes [HIKARO AMA HAYAND camisetas  Rojo  Red   42  Talla del fabri
 
 [![HIKARO AMA HAYAND camisetas  Rojo  Red  ](https://images-eu.ssl-images-amazon.com/images/I/41naWmObDYL._SL200_.jpg)](https://www.amazon.es/dp/B077YC1NJ8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077YC1NJ8/?tag=tolees-21)

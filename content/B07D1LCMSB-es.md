@@ -22,7 +22,7 @@ Ahora mismo tienes [Asics Gel-fujirado  Zapatillas de Running para Mujer  Azul  
 
 [![Asics Gel-fujirado  Zapatillas de Runnin](https://images-eu.ssl-images-amazon.com/images/I/51uhsyppOTL._SL200_.jpg)](https://www.amazon.es/dp/B07D1LCMSB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D1LCMSB/?tag=tolees-21)

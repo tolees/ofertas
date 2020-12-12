@@ -22,7 +22,7 @@ Ahora mismo tienes [Cortefiel 1579711  Mono Para Mujer  Multicolor  Several   Me
 
 [![Cortefiel 1579711  Mono Para Mujer  Mult](https://images-eu.ssl-images-amazon.com/images/I/41Rlrz30KcL._SL200_.jpg)](https://www.amazon.es/dp/B01N4UNKXG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N4UNKXG/?tag=tolees-21)

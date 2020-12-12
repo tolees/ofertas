@@ -22,7 +22,7 @@ Ahora mismo tienes [GEEKHOM Termómetro de carne y temporizador de cocina 2 en 1
 
 [![GEEKHOM Termómetro de carne y temporizad](https://images-eu.ssl-images-amazon.com/images/I/514Ye5NpAhL._SL200_.jpg)](https://www.amazon.es/dp/B01N76C9RN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N76C9RN/?tag=tolees-21)

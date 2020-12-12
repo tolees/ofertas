@@ -22,7 +22,7 @@ Ahora mismo tienes [MyWave Batidora amasadora de 1000W  Bol Acero Inoxidable 4L 
 
 [![MyWave Batidora amasadora de 1000W  Bol ](https://images-eu.ssl-images-amazon.com/images/I/31T95MiD9IL._SL200_.jpg)](https://www.amazon.es/dp/B07NCYMZ7F/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07NCYMZ7F/?tag=tolees-21)

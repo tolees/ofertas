@@ -22,7 +22,7 @@ Ahora mismo tienes [Lámpara colgante Retro industriales  AC 230 V Candelabros 
 
 [![Lámpara colgante Retro industriales  AC ](https://images-eu.ssl-images-amazon.com/images/I/31ZxwBA-CzL._SL200_.jpg)](https://www.amazon.es/dp/B07KN2XT62/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KN2XT62/?tag=tolees-21)

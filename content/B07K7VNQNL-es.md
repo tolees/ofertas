@@ -22,7 +22,7 @@ Ahora mismo tienes [Reebok Royal Cljog 2  Zapatillas de Gimnasia para Mujer  col
 
 [![Reebok Royal Cljog 2  Zapatillas de Gimn](https://images-eu.ssl-images-amazon.com/images/I/31L%2BI%2B8eJuL._SL200_.jpg)](https://www.amazon.es/dp/B07K7VNQNL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07K7VNQNL/?tag=tolees-21)

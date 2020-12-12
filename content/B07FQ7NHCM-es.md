@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma NRGY Neko  Zapatillas de Running para Hombre  Negro Bla
 
 [![Puma NRGY Neko  Zapatillas de Running pa](https://images-eu.ssl-images-amazon.com/images/I/31Vr3E3SB-L._SL200_.jpg)](https://www.amazon.es/dp/B07FQ7NHCM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FQ7NHCM/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Ariete 5578 Centro DE Planchado STIROMATIC INSTANTO Pro 2.20
 
 [![Ariete 5578 Centro DE Planchado STIROMAT](https://images-eu.ssl-images-amazon.com/images/I/51H1qoZF3qL._SL200_.jpg)](https://www.amazon.es/dp/B016MUE1FQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B016MUE1FQ/?tag=tolees-21)

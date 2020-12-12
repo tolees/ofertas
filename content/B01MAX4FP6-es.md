@@ -22,7 +22,7 @@ Ahora mismo tienes [JBL E15 - Auriculares Intraaurales con Universal de 1 Boton
 
 [![JBL E15 - Auriculares Intraaurales con U](https://images-eu.ssl-images-amazon.com/images/I/21f0vkoJb3L._SL200_.jpg)](https://www.amazon.es/dp/B01MAX4FP6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MAX4FP6/?tag=tolees-21)

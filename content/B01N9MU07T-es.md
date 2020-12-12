@@ -22,7 +22,7 @@ Ahora mismo tienes [Bolsa de Viaje Grande Tamaño XL - Maleta de 100 Litros Extr
 
 [![Bolsa de Viaje Grande Tamaño XL - Maleta](https://images-eu.ssl-images-amazon.com/images/I/41TQFvArdfL._SL200_.jpg)](https://www.amazon.es/dp/B01N9MU07T/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N9MU07T/?tag=tolees-21)

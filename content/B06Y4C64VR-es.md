@@ -22,7 +22,7 @@ Ahora mismo tienes [edc by Esprit 067cc2c008  Pantalones Cortos Hombre  Azul  Na
 
 [![edc by Esprit 067cc2c008  Pantalones Cor](https://images-eu.ssl-images-amazon.com/images/I/41K2qoI9WLL._SL200_.jpg)](https://www.amazon.es/dp/B06Y4C64VR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06Y4C64VR/?tag=tolees-21)

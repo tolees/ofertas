@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike Racquette  17 Leather  Zapatillas para Mujer  Negro  Bl
 
 [![Nike Racquette  17 Leather  Zapatillas p](https://images-eu.ssl-images-amazon.com/images/I/41Ngbl4y-NL._SL200_.jpg)](https://www.amazon.es/dp/B06WGZ18D8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06WGZ18D8/?tag=tolees-21)

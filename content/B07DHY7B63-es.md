@@ -22,7 +22,7 @@ Ahora mismo tienes [Wrangler Canvas Belt  Cinturón para Hombre  Verde  Army Gre
 
 [![Wrangler Canvas Belt  Cinturón para Homb](https://images-eu.ssl-images-amazon.com/images/I/41b7fTV4IEL._SL200_.jpg)](https://www.amazon.es/dp/B07DHY7B63/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DHY7B63/?tag=tolees-21)

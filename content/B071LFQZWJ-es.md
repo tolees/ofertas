@@ -22,7 +22,7 @@ Ahora mismo tienes [Marco Tozzi 25026  Botas para Mujer  Azul  Navy   38 EU](htt
 
 [![Marco Tozzi 25026  Botas para Mujer  Azu](https://images-eu.ssl-images-amazon.com/images/I/41NCmDmTwUL._SL200_.jpg)](https://www.amazon.es/dp/B071LFQZWJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071LFQZWJ/?tag=tolees-21)

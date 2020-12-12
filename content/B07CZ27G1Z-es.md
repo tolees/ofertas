@@ -22,7 +22,7 @@ Ahora mismo tienes [Asics Fuzetora Twist  Zapatillas de Running para Mujer  Gris
 
 [![Asics Fuzetora Twist  Zapatillas de Runn](https://images-eu.ssl-images-amazon.com/images/I/4188XJ0IFQL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ27G1Z/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CZ27G1Z/?tag=tolees-21)

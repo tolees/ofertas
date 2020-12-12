@@ -22,7 +22,7 @@ Ahora mismo tienes [E27 Bombilla Vintage Retro 4W Equivalente a 40W Regulable Bo
 
 [![E27 Bombilla Vintage Retro 4W Equivalent](https://images-eu.ssl-images-amazon.com/images/I/41mlyCHuOgL._SL200_.jpg)](https://www.amazon.es/dp/B07DW7JK24/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DW7JK24/?tag=tolees-21)

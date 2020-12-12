@@ -22,7 +22,7 @@ Ahora mismo tienes [Joma Skin 100088 Pantalones térmicos  Hombre  Negro  4XS-3X
 
 [![Joma Skin 100088 Pantalones térmicos  Ho](https://images-eu.ssl-images-amazon.com/images/I/41FNCwdU5cL._SL200_.jpg)](https://www.amazon.es/dp/B01BQWWEZ4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01BQWWEZ4/?tag=tolees-21)

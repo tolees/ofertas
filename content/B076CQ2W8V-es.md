@@ -22,7 +22,7 @@ Ahora mismo tienes [Colours of California Espadrille EVA Sole Printed Canvas  Al
 
 [![Colours of California Espadrille EVA Sol](https://images-eu.ssl-images-amazon.com/images/I/41I%2BsBx0G5L._SL200_.jpg)](https://www.amazon.es/dp/B076CQ2W8V/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B076CQ2W8V/?tag=tolees-21)

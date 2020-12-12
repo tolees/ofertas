@@ -22,7 +22,7 @@ Ahora mismo tienes [Philips SHB4405BK/00 - Auriculares inálambricos Over Ear co
 
 [![Philips SHB4405BK/00 - Auriculares inála](https://images-eu.ssl-images-amazon.com/images/I/41TCeTKmp-L._SL200_.jpg)](https://www.amazon.es/dp/B01LWJ6EB7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01LWJ6EB7/?tag=tolees-21)

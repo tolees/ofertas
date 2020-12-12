@@ -22,7 +22,7 @@ Ahora mismo tienes [ProfiCook VK 1080 Envasadora de alimentos al vacío automát
 
 [![ProfiCook VK 1080 Envasadora de alimento](https://images-eu.ssl-images-amazon.com/images/I/31o%2BRUL4w3L._SL200_.jpg)](https://www.amazon.es/dp/B00YUWGV5W/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00YUWGV5W/?tag=tolees-21)

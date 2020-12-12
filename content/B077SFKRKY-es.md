@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers Bobs Squad-Awesome Sauce  Zapatillas para Mujer  Ne
 
 [![Skechers Bobs Squad-Awesome Sauce  Zapat](https://images-eu.ssl-images-amazon.com/images/I/41jWqdYLDAL._SL200_.jpg)](https://www.amazon.es/dp/B077SFKRKY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077SFKRKY/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [LANGRIA Silla Escritorio con Respaldo Alto Abatible y Reposa
 
 [![LANGRIA Silla Escritorio con Respaldo Al](https://images-eu.ssl-images-amazon.com/images/I/41KhS0g-FZL._SL200_.jpg)](https://www.amazon.es/dp/B07GL1TCCN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GL1TCCN/?tag=tolees-21)

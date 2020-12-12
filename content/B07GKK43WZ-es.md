@@ -22,7 +22,7 @@ Ahora mismo tienes [M MEGAWHEELS Patinete electrico  6.5 Pulgadas con Bluetooth 
 
 [![M MEGAWHEELS Patinete electrico  6.5 Pul](https://images-eu.ssl-images-amazon.com/images/I/41kZ9xbwkXL._SL200_.jpg)](https://www.amazon.es/dp/B07GKK43WZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GKK43WZ/?tag=tolees-21)

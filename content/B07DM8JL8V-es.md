@@ -22,7 +22,7 @@ Ahora mismo tienes [PIECES Pcfortuna LS Wool Knit Noos  suéter para Mujer  Rosa
 
 [![PIECES Pcfortuna LS Wool Knit Noos  suét](https://images-eu.ssl-images-amazon.com/images/I/41QB-j8fz1L._SL200_.jpg)](https://www.amazon.es/dp/B07DM8JL8V/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DM8JL8V/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [BESTOMZ Dispensador de la cinta del sellador del cuello de l
 
 [![BESTOMZ Dispensador de la cinta del sell](https://images-eu.ssl-images-amazon.com/images/I/411HYA63eDL._SL200_.jpg)](https://www.amazon.es/dp/B077TTBQPB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077TTBQPB/?tag=tolees-21)

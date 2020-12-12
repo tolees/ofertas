@@ -22,7 +22,7 @@ Ahora mismo tienes [QueenHome Máquina de Ruido Blanco Musicoterapia con 9 Sonid
 
 [![QueenHome Máquina de Ruido Blanco Musico](https://images-eu.ssl-images-amazon.com/images/I/41EIzH7aVmL._SL200_.jpg)](https://www.amazon.es/dp/B07MJP58VT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MJP58VT/?tag=tolees-21)

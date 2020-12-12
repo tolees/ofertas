@@ -22,7 +22,7 @@ Ahora mismo tienes [P-L-D-M by Palladium - Bailarinas de cuero para mujer  Pink 
 
 [![P-L-D-M by Palladium - Bailarinas de cue](https://images-eu.ssl-images-amazon.com/images/I/41YpJGzx8hL._SL200_.jpg)](https://www.amazon.es/dp/B00R9RRT92/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00R9RRT92/?tag=tolees-21)

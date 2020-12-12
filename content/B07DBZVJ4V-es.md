@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Hybrid Nx Tz  Zapatillas de Running para Mujer  Negro B
 
 [![Puma Hybrid Nx Tz  Zapatillas de Running](https://images-eu.ssl-images-amazon.com/images/I/41YJR6IWkCL._SL200_.jpg)](https://www.amazon.es/dp/B07DBZVJ4V/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DBZVJ4V/?tag=tolees-21)

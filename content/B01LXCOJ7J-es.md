@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance 410  Zapatillas para Mujer  Negro  Black/White B
 
 [![New Balance 410  Zapatillas para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41OIifLiM5L._SL200_.jpg)](https://www.amazon.es/dp/B01LXCOJ7J/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01LXCOJ7J/?tag=tolees-21)

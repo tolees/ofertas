@@ -22,7 +22,7 @@ Ahora mismo tienes [Samsung HW-MS650 - Barra de Sonido Inalámbrica Sound + MS65
 
 [![Samsung HW-MS650 - Barra de Sonido Inalá](https://images-eu.ssl-images-amazon.com/images/I/31mtzU1RHaL._SL200_.jpg)](https://www.amazon.es/dp/B071DCPJYK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071DCPJYK/?tag=tolees-21)

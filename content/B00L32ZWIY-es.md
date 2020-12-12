@@ -22,7 +22,7 @@ Ahora mismo tienes [Columbia Silver Ridge III - Pantalones Cortos para niña  Co
 
 [![Columbia Silver Ridge III - Pantalones C](https://images-eu.ssl-images-amazon.com/images/I/61mydmt4PhL._SL200_.jpg)](https://www.amazon.es/dp/B00L32ZWIY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00L32ZWIY/?tag=tolees-21)

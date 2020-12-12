@@ -22,7 +22,7 @@ Ahora mismo tienes [Adidas N-5923 J Zapatillas de Gimnasia Unisex Niños  Blanco
 
 [![Adidas N-5923 J Zapatillas de Gimnasia U](https://images-eu.ssl-images-amazon.com/images/I/41TODmqiuEL._SL200_.jpg)](https://www.amazon.es/dp/B07JYL5B5F/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JYL5B5F/?tag=tolees-21)

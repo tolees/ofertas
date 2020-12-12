@@ -22,7 +22,7 @@ Ahora mismo tienes [BYou Pencil Grips Herramienta de Corrección de Postura de A
 
 [![BYou Pencil Grips Herramienta de Correcc](https://images-eu.ssl-images-amazon.com/images/I/41MxksNJI1L._SL200_.jpg)](https://www.amazon.es/dp/B07G49RJBW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07G49RJBW/?tag=tolees-21)

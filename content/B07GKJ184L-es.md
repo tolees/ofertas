@@ -22,7 +22,7 @@ Ahora mismo tienes [Carrera Salvador Mix  Zapatillas de Cross para Hombre  Azul 
 
 [![Carrera Salvador Mix  Zapatillas de Cros](https://images-eu.ssl-images-amazon.com/images/I/41GomUvu73L._SL200_.jpg)](https://www.amazon.es/dp/B07GKJ184L/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GKJ184L/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [GORE WEAR C3 Punteras unisex GORE WINDSTOPPER  Talla: 42-47 
 
 [![GORE WEAR C3 Punteras unisex GORE WINDST](https://images-eu.ssl-images-amazon.com/images/I/412ZWHzqPrL._SL200_.jpg)](https://www.amazon.es/dp/B075S3HZW5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075S3HZW5/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Volcom FRICKN MDRN Tap JGR Pantalones  Hombre  Army  L](http
 
 [![Volcom FRICKN MDRN Tap JGR Pantalones  H](https://images-eu.ssl-images-amazon.com/images/I/31WsGoVBrOL._SL200_.jpg)](https://www.amazon.es/dp/B07KTH7FPH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KTH7FPH/?tag=tolees-21)

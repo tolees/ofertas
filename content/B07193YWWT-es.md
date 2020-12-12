@@ -22,7 +22,7 @@ Ahora mismo tienes [Dockers by Gerli 39si308-302720  Botas Desert para Mujer  Ro
 
 [![Dockers by Gerli 39si308-302720  Botas D](https://images-eu.ssl-images-amazon.com/images/I/51v9dxZor8L._SL200_.jpg)](https://www.amazon.es/dp/B07193YWWT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07193YWWT/?tag=tolees-21)

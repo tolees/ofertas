@@ -22,7 +22,7 @@ Ahora mismo tienes [PUMA Team ftblNXT Socks Calcetines  Hombre  Black/Red Blast 
 
 [![PUMA Team ftblNXT Socks Calcetines  Homb](https://images-eu.ssl-images-amazon.com/images/I/31pGpTlBwGL._SL200_.jpg)](https://www.amazon.es/dp/B07JHW52CY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JHW52CY/?tag=tolees-21)

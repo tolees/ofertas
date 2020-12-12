@@ -22,7 +22,7 @@ Ahora mismo tienes [Figura Pop Disney Nightmare Before Christmas Barrel](https:/
 
 [![Figura Pop Disney Nightmare Before Chris](https://images-eu.ssl-images-amazon.com/images/I/31yzLpeSrdL._SL200_.jpg)](https://www.amazon.es/dp/B0797NWLPN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0797NWLPN/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Oliphante - Coyote  Juego de Mesa en español  K0002 ](https
 
 [![Oliphante - Coyote  Juego de Mesa en esp](https://images-eu.ssl-images-amazon.com/images/I/61dAXSSyrsL._SL200_.jpg)](https://www.amazon.es/dp/B005M0BXNG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B005M0BXNG/?tag=tolees-21)

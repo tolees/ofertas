@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Sloane Pm210564  Pantalones Hombre  Azul  Navy   
 
 [![Pepe Jeans Sloane Pm210564  Pantalones H](https://images-eu.ssl-images-amazon.com/images/I/414lxF8UtKL._SL200_.jpg)](https://www.amazon.es/dp/B06XKGH89L/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XKGH89L/?tag=tolees-21)

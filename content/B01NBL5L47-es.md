@@ -22,7 +22,7 @@ Ahora mismo tienes [Kappa Trooper Light Sun  Zapatillas Unisex Niños  Negro  Bl
 
 [![Kappa Trooper Light Sun  Zapatillas Unis](https://images-eu.ssl-images-amazon.com/images/I/41ioUbWY38L._SL200_.jpg)](https://www.amazon.es/dp/B01NBL5L47/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01NBL5L47/?tag=tolees-21)

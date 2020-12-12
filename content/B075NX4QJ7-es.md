@@ -22,7 +22,7 @@ Ahora mismo tienes [PDP - Pixel Pals Street Fighter Bison](https://www.amazon.es
 
 [![PDP - Pixel Pals Street Fighter Bison](https://images-eu.ssl-images-amazon.com/images/I/418GvnIR71L._SL200_.jpg)](https://www.amazon.es/dp/B075NX4QJ7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075NX4QJ7/?tag=tolees-21)

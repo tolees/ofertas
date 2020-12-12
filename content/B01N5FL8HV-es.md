@@ -22,7 +22,7 @@ Ahora mismo tienes [Sorel Joan of Arctic  Botas para Mujer  Verde  Nori  Dark St
 
 [![Sorel Joan of Arctic  Botas para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/413kr0yV9GL._SL200_.jpg)](https://www.amazon.es/dp/B01N5FL8HV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N5FL8HV/?tag=tolees-21)

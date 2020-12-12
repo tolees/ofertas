@@ -22,7 +22,7 @@ Ahora mismo tienes [L Oréal Paris Máscara de Pestañas 24 h Mega Volumen Colá
 
 [![L Oréal Paris Máscara de Pestañas 24 h M](https://images-eu.ssl-images-amazon.com/images/I/412f%2BlNDVLL._SL200_.jpg)](https://www.amazon.es/dp/B007U6D4OG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B007U6D4OG/?tag=tolees-21)

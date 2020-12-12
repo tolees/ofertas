@@ -22,7 +22,7 @@ Ahora mismo tienes [DC Shoes Net  Zapatillas de Skateboard para Hombre  Gris Bla
 
 [![DC Shoes Net  Zapatillas de Skateboard p](https://images-eu.ssl-images-amazon.com/images/I/41uo-%2BApp6L._SL200_.jpg)](https://www.amazon.es/dp/B07DVW7JBG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DVW7JBG/?tag=tolees-21)

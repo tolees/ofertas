@@ -22,7 +22,7 @@ Ahora mismo tienes [Destornillador Eléctrico  DEKO inalámbrico Batería de uso
 
 [![Destornillador Eléctrico  DEKO inalámbri](https://images-eu.ssl-images-amazon.com/images/I/51Y2ykXQ7dL._SL200_.jpg)](https://www.amazon.es/dp/B07DD7FMYL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DD7FMYL/?tag=tolees-21)

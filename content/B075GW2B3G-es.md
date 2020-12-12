@@ -22,7 +22,7 @@ Ahora mismo tienes [Leyendas de Luma- Nomads  Juego de Mesa  Ludonaute LDNO0001 
 
 [![Leyendas de Luma- Nomads  Juego de Mesa ](https://images-eu.ssl-images-amazon.com/images/I/51dpdyNTzdL._SL200_.jpg)](https://www.amazon.es/dp/B075GW2B3G/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075GW2B3G/?tag=tolees-21)

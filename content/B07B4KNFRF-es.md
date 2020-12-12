@@ -22,7 +22,7 @@ Ahora mismo tienes [New Gundam Breaker](https://www.amazon.es/dp/B07B4KNFRF/?tag
 
 [![New Gundam Breaker](https://images-eu.ssl-images-amazon.com/images/I/61lJGi3OxKL._SL200_.jpg)](https://www.amazon.es/dp/B07B4KNFRF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07B4KNFRF/?tag=tolees-21)

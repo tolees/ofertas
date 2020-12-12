@@ -22,7 +22,7 @@ Ahora mismo tienes [Sennheiser HD 598Cs - Microauricular Cerrado  10 – 28000 H
 
 [![Sennheiser HD 598Cs - Microauricular Cer](https://images-eu.ssl-images-amazon.com/images/I/41u-ozaJQ2L._SL200_.jpg)](https://www.amazon.es/dp/B01JP436TS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01JP436TS/?tag=tolees-21)

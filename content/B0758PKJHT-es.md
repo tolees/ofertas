@@ -22,7 +22,7 @@ Ahora mismo tienes [Clarks Floura Mix  Zapatillas para Mujer  Azul  Ice Blue   4
 
 [![Clarks Floura Mix  Zapatillas para Mujer](https://images-eu.ssl-images-amazon.com/images/I/41xy4VCP%2BOL._SL200_.jpg)](https://www.amazon.es/dp/B0758PKJHT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0758PKJHT/?tag=tolees-21)

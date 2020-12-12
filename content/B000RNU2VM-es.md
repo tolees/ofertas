@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike Air MAX Sequent 3  GS   Zapatillas de Running Unisex Ni
 
 [![Nike Air MAX Sequent 3  GS   Zapatillas ](https://images-eu.ssl-images-amazon.com/images/I/41xLplOVCWL._SL200_.jpg)](https://www.amazon.es/dp/B000RNU2VM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B000RNU2VM/?tag=tolees-21)

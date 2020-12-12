@@ -22,7 +22,7 @@ Ahora mismo tienes [Only Onlnew Maye Flare L/s Pullover CC Knt  suéter Mujer  A
 
 [![Only Onlnew Maye Flare L/s Pullover CC K](https://images-eu.ssl-images-amazon.com/images/I/418phYVFYCL._SL200_.jpg)](https://www.amazon.es/dp/B0765ZS5ZD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0765ZS5ZD/?tag=tolees-21)

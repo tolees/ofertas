@@ -22,7 +22,7 @@ Ahora mismo tienes [Vans Sk8-hi Reissue DX  Zapatillas para Mujer  Negro  Califo
 
 [![Vans Sk8-hi Reissue DX  Zapatillas para ](https://images-eu.ssl-images-amazon.com/images/I/41URUMk6dUL._SL200_.jpg)](https://www.amazon.es/dp/B074WHZNBC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074WHZNBC/?tag=tolees-21)

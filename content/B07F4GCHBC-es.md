@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma ESS Logo FL Cl Chándal  Hombre  Medium Gray Heather  L
 
 [![Puma ESS Logo FL Cl Chándal  Hombre  Med](https://images-eu.ssl-images-amazon.com/images/I/31SakZrCsYL._SL200_.jpg)](https://www.amazon.es/dp/B07F4GCHBC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F4GCHBC/?tag=tolees-21)

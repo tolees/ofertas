@@ -22,7 +22,7 @@ Ahora mismo tienes [Ultrasport AB Roller Aparato de abdominales  práctico apara
 
 [![Ultrasport AB Roller Aparato de abdomina](https://images-eu.ssl-images-amazon.com/images/I/416LRp-uesL._SL200_.jpg)](https://www.amazon.es/dp/B00HXG6ZZ8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00HXG6ZZ8/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Columbia Backpedal Outdry  Zapatillas Casual  Impermeable pa
 
 [![Columbia Backpedal Outdry  Zapatillas Ca](https://images-eu.ssl-images-amazon.com/images/I/41Nkd0SKtzL._SL200_.jpg)](https://www.amazon.es/dp/B07DV4ZQFC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DV4ZQFC/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [LucaSng 15 Pulgadas Tamaño M General Automotriz Funda de Vo
 
 [![LucaSng 15 Pulgadas Tamaño M General Aut](https://images-eu.ssl-images-amazon.com/images/I/51eSmjpsdrL._SL200_.jpg)](https://www.amazon.es/dp/B06XTL83QN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XTL83QN/?tag=tolees-21)

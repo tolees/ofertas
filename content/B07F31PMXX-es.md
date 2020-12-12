@@ -22,7 +22,7 @@ Ahora mismo tienes [PIECES Pcsanni LS Wool Knit Noos suéter  Rosa  Rosette Deta
 
 [![PIECES Pcsanni LS Wool Knit Noos suéter ](https://images-eu.ssl-images-amazon.com/images/I/41XKm%2B7yIKL._SL200_.jpg)](https://www.amazon.es/dp/B07F31PMXX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F31PMXX/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Altasport CF K  Zapatillas de Gimnasia Unisex Niños 
 
 [![adidas Altasport CF K  Zapatillas de Gim](https://images-eu.ssl-images-amazon.com/images/I/414O9kU9PtL._SL200_.jpg)](https://www.amazon.es/dp/B07K12LZL7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07K12LZL7/?tag=tolees-21)

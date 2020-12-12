@@ -22,7 +22,7 @@ Ahora mismo tienes [Vodka Absolut Elyx 70cl](https://www.amazon.es/dp/B00IE73YP4
 
 [![Vodka Absolut Elyx 70cl](https://images-eu.ssl-images-amazon.com/images/I/41dtO6gOzuL._SL200_.jpg)](https://www.amazon.es/dp/B00IE73YP4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00IE73YP4/?tag=tolees-21)

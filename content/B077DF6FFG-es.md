@@ -22,7 +22,7 @@ Ahora mismo tienes [SD toys Set de Mini Tazas Café Diseño Star Wars EP.VIII  C
 
 [![SD toys Set de Mini Tazas Café Diseño St](https://images-eu.ssl-images-amazon.com/images/I/41Gqg2wGwCL._SL200_.jpg)](https://www.amazon.es/dp/B077DF6FFG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077DF6FFG/?tag=tolees-21)

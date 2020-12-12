@@ -22,7 +22,7 @@ Ahora mismo tienes [Banpresto- Gintoki Sakata Figura 20 Cm EP. 2 Big Size Gintam
 
 [![Banpresto- Gintoki Sakata Figura 20 Cm E](https://images-eu.ssl-images-amazon.com/images/I/31wp7JczYUL._SL200_.jpg)](https://www.amazon.es/dp/B07D47NM2S/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D47NM2S/?tag=tolees-21)

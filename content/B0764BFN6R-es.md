@@ -22,7 +22,7 @@ Ahora mismo tienes [Batman: El Enemigo Dentro - The Telltale Series](https://www
 
 [![Batman: El Enemigo Dentro - The Telltale](https://images-eu.ssl-images-amazon.com/images/I/51QryjNE4CL._SL200_.jpg)](https://www.amazon.es/dp/B0764BFN6R/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0764BFN6R/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance Summit KOM  Zapatillas de Running para Asfalto p
 
 [![New Balance Summit KOM  Zapatillas de Ru](https://images-eu.ssl-images-amazon.com/images/I/41B0TMCoNkL._SL200_.jpg)](https://www.amazon.es/dp/B07BL2XQN8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BL2XQN8/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma St Runner V2 Nl  Zapatillas de Cross Unisex adulto  Gri
 
 [![Puma St Runner V2 Nl  Zapatillas de Cros](https://images-eu.ssl-images-amazon.com/images/I/41s9-BVZVvL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ3C6K1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CZ3C6K1/?tag=tolees-21)

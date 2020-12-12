@@ -22,7 +22,7 @@ Ahora mismo tienes [Softee Equipment 0002360 Balón Micro Celular 0  Unisex  Bla
 
 [![Softee Equipment 0002360 Balón Micro Cel](https://images-eu.ssl-images-amazon.com/images/I/518O04zKiBL._SL200_.jpg)](https://www.amazon.es/dp/B00H8XHNSY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00H8XHNSY/?tag=tolees-21)

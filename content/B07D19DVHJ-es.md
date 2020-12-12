@@ -22,7 +22,7 @@ Ahora mismo tienes [SELECTED HOMME Slhslim-leediver Dk Grey Strc TRS B Noos  Pan
 
 [![SELECTED HOMME Slhslim-leediver Dk Grey ](https://images-eu.ssl-images-amazon.com/images/I/31-rW8kdbNL._SL200_.jpg)](https://www.amazon.es/dp/B07D19DVHJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D19DVHJ/?tag=tolees-21)

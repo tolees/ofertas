@@ -22,7 +22,7 @@ Ahora mismo tienes [Moleskine DHB2012WN2Y19 - Libreta semanal 12m de bolsillo ta
 
 [![Moleskine DHB2012WN2Y19 - Libreta semana](https://images-eu.ssl-images-amazon.com/images/I/41m7mItjWvL._SL200_.jpg)](https://www.amazon.es/dp/B076BJBQ16/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B076BJBQ16/?tag=tolees-21)

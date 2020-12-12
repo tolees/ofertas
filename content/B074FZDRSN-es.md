@@ -22,7 +22,7 @@ Ahora mismo tienes [Cybex Gold - Portabebé Aton M  en contra de la marcha  incl
 
 [![Cybex Gold - Portabebé Aton M  en contra](https://images-eu.ssl-images-amazon.com/images/I/41BvhrkKMCL._SL200_.jpg)](https://www.amazon.es/dp/B074FZDRSN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074FZDRSN/?tag=tolees-21)

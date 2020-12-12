@@ -22,7 +22,7 @@ Ahora mismo tienes [Superdry - Print Edition Montana  Mochilas Mujer  Gris  Silv
 
 [![Superdry - Print Edition Montana  Mochil](https://images-eu.ssl-images-amazon.com/images/I/51MNgBzi9oL._SL200_.jpg)](https://www.amazon.es/dp/B07FY4Q81K/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FY4Q81K/?tag=tolees-21)

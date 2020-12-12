@@ -22,7 +22,7 @@ Ahora mismo tienes [Reloj Inteligente Niña IP67 Impermeable - Smartwatch Niños
 
 [![Reloj Inteligente Niña IP67 Impermeable ](https://images-eu.ssl-images-amazon.com/images/I/51XsxfDhpDL._SL200_.jpg)](https://www.amazon.es/dp/B07SS3PQ1T/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07SS3PQ1T/?tag=tolees-21)

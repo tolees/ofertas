@@ -22,7 +22,7 @@ Ahora mismo tienes [Seagate Barracuda ST1000DM003 - Disco duro interno de 1 TB  
 
 [![Seagate Barracuda ST1000DM003 - Disco du](https://images-eu.ssl-images-amazon.com/images/I/51jzvyPoV6L._SL200_.jpg)](https://www.amazon.es/dp/B005T3GRNW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B005T3GRNW/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [XTI 48572  Botas Biker para Mujer  Negro  Black   37 EU](htt
 
 [![XTI 48572  Botas Biker para Mujer  Negro](https://images-eu.ssl-images-amazon.com/images/I/31k5AkDHvkL._SL200_.jpg)](https://www.amazon.es/dp/B07D98YJ2S/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D98YJ2S/?tag=tolees-21)

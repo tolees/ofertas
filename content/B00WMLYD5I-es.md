@@ -22,7 +22,7 @@ Ahora mismo tienes [Smartwares CL-1474 – Reloj despertador  retro  radio FM  p
 
 [![Smartwares CL-1474 – Reloj despertador  ](https://images-eu.ssl-images-amazon.com/images/I/419RJQ-1T7L._SL200_.jpg)](https://www.amazon.es/dp/B00WMLYD5I/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00WMLYD5I/?tag=tolees-21)

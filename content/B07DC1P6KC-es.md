@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Suede Classic  Zapatillas Unisex Adults’o  Rosa  Pale
 
 [![Puma Suede Classic  Zapatillas Unisex Ad](https://images-eu.ssl-images-amazon.com/images/I/41yecf43iUL._SL200_.jpg)](https://www.amazon.es/dp/B07DC1P6KC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DC1P6KC/?tag=tolees-21)

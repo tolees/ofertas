@@ -22,7 +22,7 @@ Ahora mismo tienes [Mi-Pac Gold  Mochila Tipo Casual  41 cm  17 litros  Cow Pock
 
 [![Mi-Pac Gold  Mochila Tipo Casual  41 cm ](https://images-eu.ssl-images-amazon.com/images/I/51AzBSzcNZL._SL200_.jpg)](https://www.amazon.es/dp/B01847IQXI/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01847IQXI/?tag=tolees-21)

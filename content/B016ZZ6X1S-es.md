@@ -22,7 +22,7 @@ Ahora mismo tienes [Timezone GerritTZ 3891 Blue Vintage Destroy Was-Azul Hombre 
 
 [![Timezone GerritTZ 3891 Blue Vintage Dest](https://images-eu.ssl-images-amazon.com/images/I/41tCD12MTcL._SL200_.jpg)](https://www.amazon.es/dp/B016ZZ6X1S/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B016ZZ6X1S/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jfwmajor Textile Mix Navy Blazer  Zapatillas Al
 
 [![JACK & JONES Jfwmajor Textile Mix Navy B](https://images-eu.ssl-images-amazon.com/images/I/41iIMTRDxdL._SL200_.jpg)](https://www.amazon.es/dp/B01M7TJBGV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01M7TJBGV/?tag=tolees-21)

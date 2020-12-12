@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jorkritterxmas Sweat Crew Neck  suéter para Ho
 
 [![JACK & JONES Jorkritterxmas Sweat Crew N](https://images-eu.ssl-images-amazon.com/images/I/41m7sz9rdGL._SL200_.jpg)](https://www.amazon.es/dp/B07FKSY4RH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FKSY4RH/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Reebok BD3365  Zapatillas de Trail Running para Mujer  Azul 
 
 [![Reebok BD3365  Zapatillas de Trail Runni](https://images-eu.ssl-images-amazon.com/images/I/41iuHX%2BFxtL._SL200_.jpg)](https://www.amazon.es/dp/B01N4GULPY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N4GULPY/?tag=tolees-21)

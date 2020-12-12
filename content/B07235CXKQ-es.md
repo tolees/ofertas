@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour UA Magnetico Select FG  Zapatillas de Fútbol p
 
 [![Under Armour UA Magnetico Select FG  Zap](https://images-eu.ssl-images-amazon.com/images/I/41yniz-ZjzL._SL200_.jpg)](https://www.amazon.es/dp/B07235CXKQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07235CXKQ/?tag=tolees-21)

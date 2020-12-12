@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Sobakov Calzado Core Black](https://www.amazon.es/dp/
 
 [![adidas Sobakov Calzado Core Black](https://images-eu.ssl-images-amazon.com/images/I/416oBkzWFmL._SL200_.jpg)](https://www.amazon.es/dp/B07F31LSBP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F31LSBP/?tag=tolees-21)

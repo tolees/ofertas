@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike Universal Arm Band Brazalete Atletismo y Running Unisex
 
 [![Nike Universal Arm Band Brazalete Atleti](https://images-eu.ssl-images-amazon.com/images/I/51MXsuk1oVL._SL200_.jpg)](https://www.amazon.es/dp/B071KF3NXS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071KF3NXS/?tag=tolees-21)

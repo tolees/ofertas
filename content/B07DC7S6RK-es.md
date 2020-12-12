@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Ignite Flash Evoknit  Zapatillas de Running para Mujer 
 
 [![Puma Ignite Flash Evoknit  Zapatillas de](https://images-eu.ssl-images-amazon.com/images/I/41LGqPgNS-L._SL200_.jpg)](https://www.amazon.es/dp/B07DC7S6RK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DC7S6RK/?tag=tolees-21)

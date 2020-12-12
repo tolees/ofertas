@@ -22,7 +22,7 @@ Ahora mismo tienes [LANGRIA Caja Joyero Octogonal de Piel Sintética  Cierre con
 
 [![LANGRIA Caja Joyero Octogonal de Piel Si](https://images-eu.ssl-images-amazon.com/images/I/41eMRxSJVLL._SL200_.jpg)](https://www.amazon.es/dp/B01LZ4OUQM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01LZ4OUQM/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance Fresh Foam Arishi Luxe  Zapatillas de Running pa
 
 [![New Balance Fresh Foam Arishi Luxe  Zapa](https://images-eu.ssl-images-amazon.com/images/I/41lr7ttNC2L._SL200_.jpg)](https://www.amazon.es/dp/B07B6ZK16B/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07B6ZK16B/?tag=tolees-21)

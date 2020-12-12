@@ -22,7 +22,7 @@ Ahora mismo tienes [oodji Ultra Hombre Suéter con Estampado Floral  Azul  ES 46
 
 [![oodji Ultra Hombre Suéter con Estampado ](https://images-eu.ssl-images-amazon.com/images/I/51ng-%2BoDn0L._SL200_.jpg)](https://www.amazon.es/dp/B07B4VHJ6Y/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07B4VHJ6Y/?tag=tolees-21)

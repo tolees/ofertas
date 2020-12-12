@@ -22,7 +22,7 @@ Ahora mismo tienes [UliX Sele Auriculares On-Ear Cable Trenzado Sin Nudos Compat
 
 [![UliX Sele Auriculares On-Ear Cable Trenz](https://images-eu.ssl-images-amazon.com/images/I/51TYrQpLGbL._SL200_.jpg)](https://www.amazon.es/dp/B07JFD7K9F/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JFD7K9F/?tag=tolees-21)

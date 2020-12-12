@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour UA W Rapid  Zapatillas de Running para Mujer  A
 
 [![Under Armour UA W Rapid  Zapatillas de R](https://images-eu.ssl-images-amazon.com/images/I/51%2Bv%2BJryefL._SL200_.jpg)](https://www.amazon.es/dp/B0777SD8LL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0777SD8LL/?tag=tolees-21)

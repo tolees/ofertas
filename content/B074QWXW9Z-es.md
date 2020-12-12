@@ -22,7 +22,7 @@ Ahora mismo tienes [AmazonBasics - Juego de fundas de edredón y de almohada de 
 
 [![AmazonBasics - Juego de fundas de edredó](https://images-eu.ssl-images-amazon.com/images/I/61HnBRr5HLL._SL200_.jpg)](https://www.amazon.es/dp/B074QWXW9Z/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074QWXW9Z/?tag=tolees-21)

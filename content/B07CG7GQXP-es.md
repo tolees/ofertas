@@ -22,7 +22,7 @@ Ahora mismo tienes [GEARGO Mochila para Portátil de 15.6 Pulgadas Backpack Impe
 
 [![GEARGO Mochila para Portátil de 15.6 Pul](https://images-eu.ssl-images-amazon.com/images/I/51eVZkFDJ6L._SL200_.jpg)](https://www.amazon.es/dp/B07CG7GQXP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CG7GQXP/?tag=tolees-21)

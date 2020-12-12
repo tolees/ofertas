@@ -22,7 +22,7 @@ Ahora mismo tienes [Guess - Badlands  Bolsos bandolera Mujer  Azul  Blue/Denim B
 
 [![Guess - Badlands  Bolsos bandolera Mujer](https://images-eu.ssl-images-amazon.com/images/I/41qrpkN66pL._SL200_.jpg)](https://www.amazon.es/dp/B07FCK7QS9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FCK7QS9/?tag=tolees-21)

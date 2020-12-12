@@ -22,7 +22,7 @@ Ahora mismo tienes [Wrangler Texas Contrast  Jeans para Hombre  Azul  Indigo Wit
 
 [![Wrangler Texas Contrast  Jeans para Homb](https://images-eu.ssl-images-amazon.com/images/I/41sAtOHHMyL._SL200_.jpg)](https://www.amazon.es/dp/B07BM3M4SH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BM3M4SH/?tag=tolees-21)

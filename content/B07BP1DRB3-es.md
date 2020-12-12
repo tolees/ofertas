@@ -22,7 +22,7 @@ Ahora mismo tienes [Cámara de Caza Cámara de Vigilancia Coolife 16MP 1080P HD 
 
 [![Cámara de Caza Cámara de Vigilancia Cool](https://images-eu.ssl-images-amazon.com/images/I/61jvs6vDlZL._SL200_.jpg)](https://www.amazon.es/dp/B07BP1DRB3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BP1DRB3/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [DC Trase TX M  Zapatillas de Skateboard para Hombre  Negro  
 
 [![DC Trase TX M  Zapatillas de Skateboard ](https://images-eu.ssl-images-amazon.com/images/I/41jPNFhZV-L._SL200_.jpg)](https://www.amazon.es/dp/B00L9DT68O/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00L9DT68O/?tag=tolees-21)

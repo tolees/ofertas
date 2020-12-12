@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour Ripple  Zapatillas de Running para Hombre  Negr
 
 [![Under Armour Ripple  Zapatillas de Runni](https://images-eu.ssl-images-amazon.com/images/I/41cPEvmvxVL._SL200_.jpg)](https://www.amazon.es/dp/B07CTQ7FKV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CTQ7FKV/?tag=tolees-21)

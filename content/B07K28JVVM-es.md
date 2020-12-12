@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Yung-96  Zapatillas de Gimnasia para Hombre  Gris Gre
 
 [![adidas Yung-96  Zapatillas de Gimnasia p](https://images-eu.ssl-images-amazon.com/images/I/41kH4ZiRRhL._SL200_.jpg)](https://www.amazon.es/dp/B07K28JVVM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07K28JVVM/?tag=tolees-21)

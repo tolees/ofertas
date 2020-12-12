@@ -22,7 +22,7 @@ Ahora mismo tienes [AFAITH Impermeable Selfie palo de aleación de aluminio Hand
 
 [![AFAITH Impermeable Selfie palo de aleaci](https://images-eu.ssl-images-amazon.com/images/I/21qNd2he1%2BL._SL200_.jpg)](https://www.amazon.es/dp/B072JJS74R/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072JJS74R/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Clarks Step Maro Wave  Zapatillas para Hombre  Rojo  Red Tex
 
 [![Clarks Step Maro Wave  Zapatillas para H](https://images-eu.ssl-images-amazon.com/images/I/41U3YwFwqxL._SL200_.jpg)](https://www.amazon.es/dp/B07FR1CYZL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FR1CYZL/?tag=tolees-21)

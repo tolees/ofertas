@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Downing suéter   Blueing 565   Large para Hombre
 
 [![Pepe Jeans Downing suéter   Blueing 565 ](https://images-eu.ssl-images-amazon.com/images/I/410aG4Wd3AL._SL200_.jpg)](https://www.amazon.es/dp/B07CS9W7L3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CS9W7L3/?tag=tolees-21)

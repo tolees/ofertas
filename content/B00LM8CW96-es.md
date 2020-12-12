@@ -22,7 +22,7 @@ Ahora mismo tienes [THE COSMETIC REPUBLIC - Keratin Fibers Castaño Oscuro - 12.
 
 [![THE COSMETIC REPUBLIC - Keratin Fibers C](https://images-eu.ssl-images-amazon.com/images/I/4177egOXVdL._SL200_.jpg)](https://www.amazon.es/dp/B00LM8CW96/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00LM8CW96/?tag=tolees-21)

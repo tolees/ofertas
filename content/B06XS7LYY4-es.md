@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers Arcade  Zapatillas de Entrenamiento para Hombre  Az
 
 [![Skechers Arcade  Zapatillas de Entrenami](https://images-eu.ssl-images-amazon.com/images/I/41-WIlI9XJL._SL200_.jpg)](https://www.amazon.es/dp/B06XS7LYY4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XS7LYY4/?tag=tolees-21)

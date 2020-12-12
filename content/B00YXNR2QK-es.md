@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike Wmns Air Vapormax 2019  Zapatillas de Atletismo para Mu
 
 [![Nike Wmns Air Vapormax 2019  Zapatillas ](https://images-eu.ssl-images-amazon.com/images/I/51LC2SFEtVL._SL200_.jpg)](https://www.amazon.es/dp/B00YXNR2QK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00YXNR2QK/?tag=tolees-21)

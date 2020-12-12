@@ -22,7 +22,7 @@ Ahora mismo tienes [Philips MyHomeOffice Flexo E27  11 W  Blanco](https://www.am
 
 [![Philips MyHomeOffice Flexo E27  11 W  Bl](https://images-eu.ssl-images-amazon.com/images/I/21gKgoOkqxL._SL200_.jpg)](https://www.amazon.es/dp/B005DWMPYE/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B005DWMPYE/?tag=tolees-21)

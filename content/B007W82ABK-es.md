@@ -22,7 +22,7 @@ Ahora mismo tienes [Cooler Master IC-Essential E1 - Pasta térmica  Alto rendimi
 
 [![Cooler Master IC-Essential E1 - Pasta té](https://images-eu.ssl-images-amazon.com/images/I/41w7XVbNPJL._SL200_.jpg)](https://www.amazon.es/dp/B007W82ABK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B007W82ABK/?tag=tolees-21)

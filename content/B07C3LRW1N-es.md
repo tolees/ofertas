@@ -22,7 +22,7 @@ Ahora mismo tienes [Kingston SUV500MS/240G - Disco Duro sólido de 240 GB  mSAT
 
 [![Kingston SUV500MS/240G - Disco Duro sóli](https://images-eu.ssl-images-amazon.com/images/I/51kb63YEJnL._SL200_.jpg)](https://www.amazon.es/dp/B07C3LRW1N/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07C3LRW1N/?tag=tolees-21)

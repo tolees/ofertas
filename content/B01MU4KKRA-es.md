@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Terrex Agravic  Zapatillas de Cross para Hombre  Negr
 
 [![adidas Terrex Agravic  Zapatillas de Cro](https://images-eu.ssl-images-amazon.com/images/I/41dVkKINv5L._SL200_.jpg)](https://www.amazon.es/dp/B01MU4KKRA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MU4KKRA/?tag=tolees-21)

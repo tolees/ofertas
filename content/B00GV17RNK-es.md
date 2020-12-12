@@ -22,7 +22,7 @@ Ahora mismo tienes [Trust Gaming GXT 280 - Teclado para Gaming  Iluminado con fu
 
 [![Trust Gaming GXT 280 - Teclado para Gami](https://images-eu.ssl-images-amazon.com/images/I/41oNVfkin1L._SL200_.jpg)](https://www.amazon.es/dp/B00GV17RNK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00GV17RNK/?tag=tolees-21)

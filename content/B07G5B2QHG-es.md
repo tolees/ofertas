@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance KJ373GUY - Zapatillas de Deporte  Unisex Adulto 
 
 [![New Balance KJ373GUY - Zapatillas de Dep](https://images-eu.ssl-images-amazon.com/images/I/31Wky6HnttL._SL200_.jpg)](https://www.amazon.es/dp/B07G5B2QHG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07G5B2QHG/?tag=tolees-21)

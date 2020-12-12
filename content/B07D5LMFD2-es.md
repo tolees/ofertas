@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Solar Glide ST M  Zapatillas de Deporte para Hombre  
 
 [![adidas Solar Glide ST M  Zapatillas de D](https://images-eu.ssl-images-amazon.com/images/I/41pJ7rxGo%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07D5LMFD2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D5LMFD2/?tag=tolees-21)

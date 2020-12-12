@@ -22,7 +22,7 @@ Ahora mismo tienes [Tequila Olmeca Blanco 70cl](https://www.amazon.es/dp/B004EAH
 
 [![Tequila Olmeca Blanco 70cl](https://images-eu.ssl-images-amazon.com/images/I/41mgW4TWP3L._SL200_.jpg)](https://www.amazon.es/dp/B004EAHJR4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B004EAHJR4/?tag=tolees-21)

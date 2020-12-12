@@ -22,7 +22,7 @@ Ahora mismo tienes [Bosch 2 608 601 116 - Plato de lija  duro  150 mm ](https://
 
 [![Bosch 2 608 601 116 - Plato de lija  dur](https://images-eu.ssl-images-amazon.com/images/I/51eWbPAjE0L._SL200_.jpg)](https://www.amazon.es/dp/B000XJ4TB4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B000XJ4TB4/?tag=tolees-21)

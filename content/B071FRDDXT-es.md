@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Nemeziz 17.4 In  Zapatillas de fútbol Sala para Homb
 
 [![adidas Nemeziz 17.4 In  Zapatillas de fú](https://images-eu.ssl-images-amazon.com/images/I/41K8Na%2B7y7L._SL200_.jpg)](https://www.amazon.es/dp/B071FRDDXT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071FRDDXT/?tag=tolees-21)

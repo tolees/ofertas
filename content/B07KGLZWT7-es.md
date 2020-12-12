@@ -22,7 +22,7 @@ Ahora mismo tienes [Cabezal de ducha  cabezal de ducha con acabado cromado para 
 
 [![Cabezal de ducha  cabezal de ducha con a](https://images-eu.ssl-images-amazon.com/images/I/51xNiuQIK-L._SL200_.jpg)](https://www.amazon.es/dp/B07KGLZWT7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KGLZWT7/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Snner - Lote de 10 adaptadores OTG de 5 Pines para Transform
 
 [![Snner - Lote de 10 adaptadores OTG de 5 ](https://images-eu.ssl-images-amazon.com/images/I/41sFKI2OKzL._SL200_.jpg)](https://www.amazon.es/dp/B01KU8UJE8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01KU8UJE8/?tag=tolees-21)

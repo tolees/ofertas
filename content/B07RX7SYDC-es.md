@@ -22,7 +22,7 @@ Ahora mismo tienes [Grey Goose Vodka Premium Gift Pack Funda Enfríador - 700 ml
 
 [![Grey Goose Vodka Premium Gift Pack Funda](https://images-eu.ssl-images-amazon.com/images/I/418Ki7IfczL._SL200_.jpg)](https://www.amazon.es/dp/B07RX7SYDC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07RX7SYDC/?tag=tolees-21)

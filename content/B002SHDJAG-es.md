@@ -22,7 +22,7 @@ Ahora mismo tienes [MASTER LOCK Caja fuerte para llaves [Extragrande] [Montaje m
 
 [![MASTER LOCK Caja fuerte para llaves [Ext](https://images-eu.ssl-images-amazon.com/images/I/419gTHXnCrL._SL200_.jpg)](https://www.amazon.es/dp/B002SHDJAG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B002SHDJAG/?tag=tolees-21)

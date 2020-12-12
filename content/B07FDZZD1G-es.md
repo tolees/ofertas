@@ -22,7 +22,7 @@ Ahora mismo tienes [Vodool Aspirador Inalámbrico  2 en 1 Aspiradora de Mano y d
 
 [![Vodool Aspirador Inalámbrico  2 en 1 Asp](https://images-eu.ssl-images-amazon.com/images/I/41%2BKb0629IL._SL200_.jpg)](https://www.amazon.es/dp/B07FDZZD1G/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FDZZD1G/?tag=tolees-21)

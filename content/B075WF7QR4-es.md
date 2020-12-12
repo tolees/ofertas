@@ -22,7 +22,7 @@ Ahora mismo tienes [oodji Ultra Mujer Falda-Lápiz  Pack de 2   34 / XXS](https:
 
 [![oodji Ultra Mujer Falda-Lápiz  Pack de 2](https://images-eu.ssl-images-amazon.com/images/I/317xP6J7TUL._SL200_.jpg)](https://www.amazon.es/dp/B075WF7QR4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075WF7QR4/?tag=tolees-21)

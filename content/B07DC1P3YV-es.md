@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Muse Satin EP Wn s  Zapatillas para Mujer  Rosa Peach B
 
 [![Puma Muse Satin EP Wn s  Zapatillas para](https://images-eu.ssl-images-amazon.com/images/I/41rQA8K0w5L._SL200_.jpg)](https://www.amazon.es/dp/B07DC1P3YV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DC1P3YV/?tag=tolees-21)

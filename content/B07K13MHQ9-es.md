@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Caflaire  Zapatillas de Tenis para Hombre  Azul FTWR 
 
 [![adidas Caflaire  Zapatillas de Tenis par](https://images-eu.ssl-images-amazon.com/images/I/41x901nrgkL._SL200_.jpg)](https://www.amazon.es/dp/B07K13MHQ9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07K13MHQ9/?tag=tolees-21)

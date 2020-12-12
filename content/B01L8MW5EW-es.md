@@ -22,7 +22,7 @@ Ahora mismo tienes [CamelBak 1110001900 Pack de hidratación  Unisex Adulto  Neg
 
 [![CamelBak 1110001900 Pack de hidratación ](https://images-eu.ssl-images-amazon.com/images/I/413M3AgV6VL._SL200_.jpg)](https://www.amazon.es/dp/B01L8MW5EW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01L8MW5EW/?tag=tolees-21)

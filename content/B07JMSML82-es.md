@@ -22,7 +22,7 @@ Ahora mismo tienes [YGJT Edredón Cama 135/200cm Suavidad Antibacterial Microfib
 
 [![YGJT Edredón Cama 135/200cm Suavidad Ant](https://images-eu.ssl-images-amazon.com/images/I/51ywELH1zdL._SL200_.jpg)](https://www.amazon.es/dp/B07JMSML82/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JMSML82/?tag=tolees-21)

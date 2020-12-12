@@ -22,7 +22,7 @@ Ahora mismo tienes [Mammut Neon Speed Mochila  Unisex Adulto  Negro  Talla Únic
 
 [![Mammut Neon Speed Mochila  Unisex Adulto](https://images-eu.ssl-images-amazon.com/images/I/41-UR09M4LL._SL200_.jpg)](https://www.amazon.es/dp/B01MZ1YBAT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MZ1YBAT/?tag=tolees-21)

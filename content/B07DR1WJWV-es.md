@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Forest Grove  Zapatillas de Deporte para Mujer  Naran
 
 [![adidas Forest Grove  Zapatillas de Depor](https://images-eu.ssl-images-amazon.com/images/I/41oSiZ1O1tL._SL200_.jpg)](https://www.amazon.es/dp/B07DR1WJWV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DR1WJWV/?tag=tolees-21)

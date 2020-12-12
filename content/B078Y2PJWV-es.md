@@ -22,7 +22,7 @@ Ahora mismo tienes [Superga 2790-leapatentw  Zapatillas de Gimnasia para Mujer  
 
 [![Superga 2790-leapatentw  Zapatillas de G](https://images-eu.ssl-images-amazon.com/images/I/41usOxEPYDL._SL200_.jpg)](https://www.amazon.es/dp/B078Y2PJWV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078Y2PJWV/?tag=tolees-21)

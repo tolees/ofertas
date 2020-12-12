@@ -22,7 +22,7 @@ Ahora mismo tienes [LG PW1500G - Proyector portátil  WXGA  LED  1280 x 800  150
 
 [![LG PW1500G - Proyector portátil  WXGA  L](https://images-eu.ssl-images-amazon.com/images/I/21LPV8yLvlL._SL200_.jpg)](https://www.amazon.es/dp/B01DE19BNS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01DE19BNS/?tag=tolees-21)

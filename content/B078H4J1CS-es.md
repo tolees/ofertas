@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 1433415 Polo  Hombre  Azul  Azul Marino   Small 
 
 [![Springfield 1433415 Polo  Hombre  Azul  ](https://images-eu.ssl-images-amazon.com/images/I/41cOLYPcK6L._SL200_.jpg)](https://www.amazon.es/dp/B078H4J1CS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078H4J1CS/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Tsugi Apex Blck  Zapatillas Unisex Adulto  Rojo  Pomegr
 
 [![Puma Tsugi Apex Blck  Zapatillas Unisex ](https://images-eu.ssl-images-amazon.com/images/I/41SivaSlkrL._SL200_.jpg)](https://www.amazon.es/dp/B07D9W2TL8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D9W2TL8/?tag=tolees-21)

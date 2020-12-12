@@ -22,7 +22,7 @@ Ahora mismo tienes [AUTSCA Mechero Eléctrico  USB Encendedor Doble Arco Eléctr
 
 [![AUTSCA Mechero Eléctrico  USB Encendedor](https://images-eu.ssl-images-amazon.com/images/I/41BvVHCqCfL._SL200_.jpg)](https://www.amazon.es/dp/B07MNW4BSS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MNW4BSS/?tag=tolees-21)

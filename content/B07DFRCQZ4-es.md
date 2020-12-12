@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance 996  Zapatillas para Hombre  Rojo  Team Red/Nimb
 
 [![New Balance 996  Zapatillas para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41tu-j3d3xL._SL200_.jpg)](https://www.amazon.es/dp/B07DFRCQZ4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DFRCQZ4/?tag=tolees-21)

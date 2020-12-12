@@ -22,7 +22,7 @@ Ahora mismo tienes [SD Games Zorros al Corral SDGZORCOR01](https://www.amazon.es
 
 [![SD Games Zorros al Corral SDGZORCOR01](https://images-eu.ssl-images-amazon.com/images/I/61AF%2BK2gKoL._SL200_.jpg)](https://www.amazon.es/dp/B078KZB7N7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078KZB7N7/?tag=tolees-21)

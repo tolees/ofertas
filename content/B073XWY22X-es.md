@@ -22,7 +22,7 @@ Ahora mismo tienes [Scuderia Ferrari Reloj Análogo clásico para Hombre de Cuar
 
 [![Scuderia Ferrari Reloj Análogo clásico p](https://images-eu.ssl-images-amazon.com/images/I/51PKLbdSBTL._SL200_.jpg)](https://www.amazon.es/dp/B073XWY22X/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B073XWY22X/?tag=tolees-21)

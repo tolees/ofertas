@@ -22,7 +22,7 @@ Ahora mismo tienes [Cortefiel 7567782  Bermuda para Hombre  Azul Claro  40](http
 
 [![Cortefiel 7567782  Bermuda para Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/41esLNoFxuL._SL200_.jpg)](https://www.amazon.es/dp/B06XCZM5KQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XCZM5KQ/?tag=tolees-21)

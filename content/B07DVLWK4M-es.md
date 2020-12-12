@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance 574  Entrenadores para Niñas  Azul Air  28.5 EU
 
 [![New Balance 574  Entrenadores para Niñas](https://images-eu.ssl-images-amazon.com/images/I/41IJkc1qx9L._SL200_.jpg)](https://www.amazon.es/dp/B07DVLWK4M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DVLWK4M/?tag=tolees-21)

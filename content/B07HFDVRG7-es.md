@@ -22,7 +22,7 @@ Ahora mismo tienes [edc by Esprit Accessoires 108ca1s005  Cinturón Mujer  Marr�
 
 [![edc by Esprit Accessoires 108ca1s005  Ci](https://images-eu.ssl-images-amazon.com/images/I/31xaqghZrYL._SL200_.jpg)](https://www.amazon.es/dp/B07HFDVRG7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07HFDVRG7/?tag=tolees-21)

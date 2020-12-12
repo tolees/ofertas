@@ -22,7 +22,7 @@ Ahora mismo tienes [Tuc Tuc 6560 - Sillas de paseo](https://www.amazon.es/dp/B00
 
 [![Tuc Tuc 6560 - Sillas de paseo](https://images-eu.ssl-images-amazon.com/images/I/51BDdwq5tWL._SL200_.jpg)](https://www.amazon.es/dp/B00SVC8XLC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00SVC8XLC/?tag=tolees-21)

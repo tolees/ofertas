@@ -22,7 +22,7 @@ Ahora mismo tienes [Gigabyte  Sabre15Wv8 GP-C106F516-ES-002 - Ordenador portáti
 
 [![Gigabyte  Sabre15Wv8 GP-C106F516-ES-002 ](https://images-eu.ssl-images-amazon.com/images/I/41XQ9gBM0DL._SL200_.jpg)](https://www.amazon.es/dp/B07CT34PLP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CT34PLP/?tag=tolees-21)

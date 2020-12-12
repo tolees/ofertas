@@ -22,7 +22,7 @@ Ahora mismo tienes [Galaxy S5 Funda  iDoer Retro Flor PU Cuero Wallet Cartera Si
 
 [![Galaxy S5 Funda  iDoer Retro Flor PU Cue](https://images-eu.ssl-images-amazon.com/images/I/61Tln3Xf0EL._SL200_.jpg)](https://www.amazon.es/dp/B06XCYVSV5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XCYVSV5/?tag=tolees-21)

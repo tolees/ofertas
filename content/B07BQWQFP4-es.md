@@ -22,7 +22,7 @@ Ahora mismo tienes [BLACK CROWN ASIA SOFT](https://www.amazon.es/dp/B07BQWQFP4/?
 
 [![BLACK CROWN ASIA SOFT](https://images-eu.ssl-images-amazon.com/images/I/41Y15RRkzDL._SL200_.jpg)](https://www.amazon.es/dp/B07BQWQFP4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BQWQFP4/?tag=tolees-21)

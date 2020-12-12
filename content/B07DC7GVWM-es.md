@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Te- KU  Zapatillas Unisex Adulto  Blanco White  39 EU](
 
 [![Puma Te- KU  Zapatillas Unisex Adulto  B](https://images-eu.ssl-images-amazon.com/images/I/317HkbFtHTL._SL200_.jpg)](https://www.amazon.es/dp/B07DC7GVWM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DC7GVWM/?tag=tolees-21)

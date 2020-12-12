@@ -22,7 +22,7 @@ Ahora mismo tienes [HYZH 6 L Contenedor de residuos con tapa deslizante  Cubo d
 
 [![HYZH 6 L Contenedor de residuos con tapa](https://images-eu.ssl-images-amazon.com/images/I/31qPhB5OQML._SL200_.jpg)](https://www.amazon.es/dp/B07BXFDF1C/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BXFDF1C/?tag=tolees-21)

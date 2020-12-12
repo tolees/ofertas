@@ -22,7 +22,7 @@ Ahora mismo tienes [Tarjetas Lexar Professional 633x 32GB  2 Paquetes  SDHC UHS-
 
 [![Tarjetas Lexar Professional 633x 32GB  2]()](https://www.amazon.es/dp/B012PL80US/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B012PL80US/?tag=tolees-21)

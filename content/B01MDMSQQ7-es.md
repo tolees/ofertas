@@ -22,7 +22,7 @@ Ahora mismo tienes [JBL E25BT  - Auriculares intraaurales inalámbricos](https:/
 
 [![JBL E25BT  - Auriculares intraaurales in](https://images-eu.ssl-images-amazon.com/images/I/31mgA%2BnIOGL._SL200_.jpg)](https://www.amazon.es/dp/B01MDMSQQ7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MDMSQQ7/?tag=tolees-21)

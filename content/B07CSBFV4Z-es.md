@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Jaime Belt  Cinturón para Hombre    Black 999  9
 
 [![Pepe Jeans Jaime Belt  Cinturón para Hom](https://images-eu.ssl-images-amazon.com/images/I/41OlIU0yB9L._SL200_.jpg)](https://www.amazon.es/dp/B07CSBFV4Z/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CSBFV4Z/?tag=tolees-21)

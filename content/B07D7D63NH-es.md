@@ -22,7 +22,7 @@ Ahora mismo tienes [DANISH ENDURANCE Bandas Elásticas de Resistencia  6 Unidade
 
 [![DANISH ENDURANCE Bandas Elásticas de Res](https://images-eu.ssl-images-amazon.com/images/I/51yEQKeCRCL._SL200_.jpg)](https://www.amazon.es/dp/B07D7D63NH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D7D63NH/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Helly Hansen W HH LIFA Active Basleayer Pant  Mujer  Graphit
 
 [![Helly Hansen W HH LIFA Active Basleayer ](https://images-eu.ssl-images-amazon.com/images/I/41g5e7in7zL._SL200_.jpg)](https://www.amazon.es/dp/B06XHC5R9J/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XHC5R9J/?tag=tolees-21)

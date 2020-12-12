@@ -22,7 +22,7 @@ Ahora mismo tienes [Anita Active Momentum - Sujetador deportivo para mujer  Beig
 
 [![Anita Active Momentum - Sujetador deport](https://images-eu.ssl-images-amazon.com/images/I/51P71S95WKL._SL200_.jpg)](https://www.amazon.es/dp/B009VAJSK8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B009VAJSK8/?tag=tolees-21)

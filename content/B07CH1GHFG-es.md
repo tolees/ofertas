@@ -22,7 +22,7 @@ Ahora mismo tienes [Xiaomi Bedside 10W Oro  Plata lámpara de Mesa](https://www.
 
 [![Xiaomi Bedside 10W Oro  Plata lámpara de](https://images-eu.ssl-images-amazon.com/images/I/21FM2F-77nL._SL200_.jpg)](https://www.amazon.es/dp/B07CH1GHFG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CH1GHFG/?tag=tolees-21)

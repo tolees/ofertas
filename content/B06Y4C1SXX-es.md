@@ -22,7 +22,7 @@ Ahora mismo tienes [Pandora Abalorios Mujer plata - 792138EN93](https://www.amaz
 
 [![Pandora Abalorios Mujer plata - 792138EN](https://images-eu.ssl-images-amazon.com/images/I/31gtbe0W2RL._SL200_.jpg)](https://www.amazon.es/dp/B06Y4C1SXX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06Y4C1SXX/?tag=tolees-21)

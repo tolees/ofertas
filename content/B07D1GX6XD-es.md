@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance Fresh Foam Cruz Sockfit  Zapatillas para Mujer  
 
 [![New Balance Fresh Foam Cruz Sockfit  Zap](https://images-eu.ssl-images-amazon.com/images/I/41XApnzU%2BpL._SL200_.jpg)](https://www.amazon.es/dp/B07D1GX6XD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D1GX6XD/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Prismáticos pequeños y potentes para Adultos y Niños  BFU
 
 [![Prismáticos pequeños y potentes para Adu](https://images-eu.ssl-images-amazon.com/images/I/51vBiZVNowL._SL200_.jpg)](https://www.amazon.es/dp/B071HPGLBJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071HPGLBJ/?tag=tolees-21)

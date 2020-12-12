@@ -22,7 +22,7 @@ Ahora mismo tienes [INFINIKIT Haven Librero alto  Blanco  79x198x28 cm](https://
 
 [![INFINIKIT Haven Librero alto  Blanco  79](https://images-eu.ssl-images-amazon.com/images/I/31NIyjGBtuL._SL200_.jpg)](https://www.amazon.es/dp/B073JJXC82/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B073JJXC82/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Bioderma  Autobronceador corporal - 40 ml.](https://www.amaz
 
 [![Bioderma  Autobronceador corporal - 40 m](https://images-eu.ssl-images-amazon.com/images/I/41qbeDdw4iL._SL200_.jpg)](https://www.amazon.es/dp/B00V5CQYGQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00V5CQYGQ/?tag=tolees-21)

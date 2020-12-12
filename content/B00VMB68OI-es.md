@@ -22,7 +22,7 @@ Ahora mismo tienes [Ice-Watch Reloj Cronógrafo para Hombre de Cuarzo con Correa
 
 [![Ice-Watch Reloj Cronógrafo para Hombre d](https://images-eu.ssl-images-amazon.com/images/I/51fh94JoH1L._SL200_.jpg)](https://www.amazon.es/dp/B00VMB68OI/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00VMB68OI/?tag=tolees-21)

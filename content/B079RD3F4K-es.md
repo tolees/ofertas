@@ -22,7 +22,7 @@ Ahora mismo tienes [IPOTCH Altavoz sin Cables Bluetooth Super Bajo para Tableta 
 
 [![IPOTCH Altavoz sin Cables Bluetooth Supe](https://images-eu.ssl-images-amazon.com/images/I/41emFK3fAGL._SL200_.jpg)](https://www.amazon.es/dp/B079RD3F4K/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079RD3F4K/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Bosch Professional - Taladro percutor a batería GSB 12V-15 
 
 [![Bosch Professional - Taladro percutor a ](https://images-eu.ssl-images-amazon.com/images/I/41X0ODpVeCL._SL200_.jpg)](https://www.amazon.es/dp/B00ABO77XI/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00ABO77XI/?tag=tolees-21)

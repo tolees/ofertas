@@ -22,7 +22,7 @@ Ahora mismo tienes [JOOMFEEN Cargador de Coche Qualcomm Quick Charge 3.0+2.4A 30
 
 [![JOOMFEEN Cargador de Coche Qualcomm Quic](https://images-eu.ssl-images-amazon.com/images/I/51oFyop1F4L._SL200_.jpg)](https://www.amazon.es/dp/B07KPWJJ7B/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KPWJJ7B/?tag=tolees-21)

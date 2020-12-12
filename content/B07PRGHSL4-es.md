@@ -22,7 +22,7 @@ Ahora mismo tienes [Paper Mate bolígrafos de gel  punta de aguja suave  0 5 mm
 
 [![Paper Mate bolígrafos de gel  punta de a](https://images-eu.ssl-images-amazon.com/images/I/41eH5-XxTjL._SL200_.jpg)](https://www.amazon.es/dp/B07PRGHSL4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07PRGHSL4/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [HIP TEC Faro Trabajo Led 5"72W Super Brighty Potentes Focos 
 
 [![HIP TEC Faro Trabajo Led 5"72W Super Bri](https://images-eu.ssl-images-amazon.com/images/I/51ybJ10s3PL._SL200_.jpg)](https://www.amazon.es/dp/B07K2XP1Z7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07K2XP1Z7/?tag=tolees-21)

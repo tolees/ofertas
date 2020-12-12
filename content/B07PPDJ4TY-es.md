@@ -22,7 +22,7 @@ Ahora mismo tienes [Mini Ventilador de Mano  Ifecco Mini Ventilador portátil co
 
 [![Mini Ventilador de Mano  Ifecco Mini Ven](https://images-eu.ssl-images-amazon.com/images/I/41LtB98B8-L._SL200_.jpg)](https://www.amazon.es/dp/B07PPDJ4TY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07PPDJ4TY/?tag=tolees-21)

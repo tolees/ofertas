@@ -22,7 +22,7 @@ Ahora mismo tienes [oodji Collection Mujer Calcetines Tobilleros  Pack de 6   Mu
 
 [![oodji Collection Mujer Calcetines Tobill](https://images-eu.ssl-images-amazon.com/images/I/310wZW5gInL._SL200_.jpg)](https://www.amazon.es/dp/B078Y2MZQ3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078Y2MZQ3/?tag=tolees-21)

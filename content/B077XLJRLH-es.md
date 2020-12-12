@@ -22,7 +22,7 @@ Ahora mismo tienes [Esprit - 028ea1o047  Carteras de mano Mujer  Rosa  Pastel Pi
 
 [![Esprit - 028ea1o047  Carteras de mano Mu](https://images-eu.ssl-images-amazon.com/images/I/31befs9%2BrsL._SL200_.jpg)](https://www.amazon.es/dp/B077XLJRLH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077XLJRLH/?tag=tolees-21)

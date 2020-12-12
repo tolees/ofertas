@@ -22,7 +22,7 @@ Ahora mismo tienes [KTcos Estuche para Samsung Gear S3 Frontier SM-R760  Soft TP
 
 [![KTcos Estuche para Samsung Gear S3 Front](https://images-eu.ssl-images-amazon.com/images/I/51BkUklFhEL._SL200_.jpg)](https://www.amazon.es/dp/B07GR1VKFM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GR1VKFM/?tag=tolees-21)

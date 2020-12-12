@@ -22,7 +22,7 @@ Ahora mismo tienes [VAIRO Short Columns Negro  S ](https://www.amazon.es/dp/B079
 
 [![VAIRO Short Columns Negro  S ](https://images-eu.ssl-images-amazon.com/images/I/41ZDiDZ%2BPSL._SL200_.jpg)](https://www.amazon.es/dp/B079ZVSX1M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079ZVSX1M/?tag=tolees-21)

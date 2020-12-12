@@ -22,7 +22,7 @@ Ahora mismo tienes [Head Tour Team Padel Paletero de Tenis  Negro  S](https://ww
 
 [![Head Tour Team Padel Paletero de Tenis  ](https://images-eu.ssl-images-amazon.com/images/I/51y-gxtMh5L._SL200_.jpg)](https://www.amazon.es/dp/B077YHGBTB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077YHGBTB/?tag=tolees-21)

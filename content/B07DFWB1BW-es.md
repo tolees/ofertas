@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance 840  Zapatillas para Mujer  Blanco  White/Classi
 
 [![New Balance 840  Zapatillas para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41OzQwZeOsL._SL200_.jpg)](https://www.amazon.es/dp/B07DFWB1BW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DFWB1BW/?tag=tolees-21)

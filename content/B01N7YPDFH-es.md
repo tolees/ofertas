@@ -22,7 +22,7 @@ Ahora mismo tienes [San Ignacio Coopper Batería de Cocina Juego de Sartenes  Ac
 
 [![San Ignacio Coopper Batería de Cocina Ju](https://images-eu.ssl-images-amazon.com/images/I/61-RRkXFR6L._SL200_.jpg)](https://www.amazon.es/dp/B01N7YPDFH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N7YPDFH/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers Go Walk 4-Attuned  Zapatillas sin Cordones para Muj
 
 [![Skechers Go Walk 4-Attuned  Zapatillas s](https://images-eu.ssl-images-amazon.com/images/I/41vhOHy4%2BoL._SL200_.jpg)](https://www.amazon.es/dp/B073GD8Q8S/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B073GD8Q8S/?tag=tolees-21)

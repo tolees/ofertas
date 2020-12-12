@@ -22,7 +22,7 @@ Ahora mismo tienes [Mustang Schnür-Boot  Botas Clasicas para Hombre  Marrón  K
 
 [![Mustang Schnür-Boot  Botas Clasicas para](https://images-eu.ssl-images-amazon.com/images/I/41TBBOGOscL._SL200_.jpg)](https://www.amazon.es/dp/B076M4NKTL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B076M4NKTL/?tag=tolees-21)

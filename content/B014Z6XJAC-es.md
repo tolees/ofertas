@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW Type C 3D Skinny  Jeans  Azul  lt aged D004-424  
 
 [![G-STAR RAW Type C 3D Skinny  Jeans  Azul](https://images-eu.ssl-images-amazon.com/images/I/41oS1lX43uL._SL200_.jpg)](https://www.amazon.es/dp/B014Z6XJAC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B014Z6XJAC/?tag=tolees-21)

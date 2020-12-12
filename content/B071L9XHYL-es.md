@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Mega NRGY Turbo  Zapatillas para Mujer  Negro  Black-Wh
 
 [![Puma Mega NRGY Turbo  Zapatillas para Mu](https://images-eu.ssl-images-amazon.com/images/I/51RufX4PxZL._SL200_.jpg)](https://www.amazon.es/dp/B071L9XHYL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071L9XHYL/?tag=tolees-21)

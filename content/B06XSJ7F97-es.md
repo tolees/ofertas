@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans POTY PL210997 Pantalones   Multi 0Aa   Medium par
 
 [![Pepe Jeans POTY PL210997 Pantalones   Mu](https://images-eu.ssl-images-amazon.com/images/I/413oSiYfx9L._SL200_.jpg)](https://www.amazon.es/dp/B06XSJ7F97/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XSJ7F97/?tag=tolees-21)

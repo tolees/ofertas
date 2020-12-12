@@ -22,7 +22,7 @@ Ahora mismo tienes [Fossil Reloj Analógico para Mujer de Cuarzo con Correa en C
 
 [![Fossil Reloj Analógico para Mujer de Cua](https://images-eu.ssl-images-amazon.com/images/I/41alL9LvGjL._SL200_.jpg)](https://www.amazon.es/dp/B07J3T3BK1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07J3T3BK1/?tag=tolees-21)

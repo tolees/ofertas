@@ -22,7 +22,7 @@ Ahora mismo tienes [find. Pantalones Chinos para Hombre  Fucsia  Fushia Red   W4
 
 [![find. Pantalones Chinos para Hombre  Fuc](https://images-eu.ssl-images-amazon.com/images/I/31GbGeSPL9L._SL200_.jpg)](https://www.amazon.es/dp/B06XPH8ZKS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XPH8ZKS/?tag=tolees-21)

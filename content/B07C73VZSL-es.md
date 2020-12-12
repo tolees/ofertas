@@ -22,7 +22,7 @@ Ahora mismo tienes [Tidylife Freidora sin Aceite  3.5L Freidora de Aire con Cont
 
 [![Tidylife Freidora sin Aceite  3.5L Freid](https://images-eu.ssl-images-amazon.com/images/I/41wG9fGF%2BzL._SL200_.jpg)](https://www.amazon.es/dp/B07C73VZSL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07C73VZSL/?tag=tolees-21)

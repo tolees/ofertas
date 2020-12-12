@@ -22,7 +22,7 @@ Ahora mismo tienes [D-Link DAP-1635 - Repetidor Amplificador Extensor de Red WiF
 
 [![D-Link DAP-1635 - Repetidor Amplificador](https://images-eu.ssl-images-amazon.com/images/I/31e1QmB5rgL._SL200_.jpg)](https://www.amazon.es/dp/B00PVE5APK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00PVE5APK/?tag=tolees-21)

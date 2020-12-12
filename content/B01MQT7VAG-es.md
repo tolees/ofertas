@@ -22,7 +22,7 @@ Ahora mismo tienes [Tristar VE-5996 - Ventilador de caja 12 pulgadas con Funció
 
 [![Tristar VE-5996 - Ventilador de caja 12 ](https://images-eu.ssl-images-amazon.com/images/I/41QZo0Yz3mL._SL200_.jpg)](https://www.amazon.es/dp/B01MQT7VAG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MQT7VAG/?tag=tolees-21)

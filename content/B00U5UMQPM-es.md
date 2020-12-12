@@ -22,7 +22,7 @@ Ahora mismo tienes [Tribe Disney Marvel - Cargador externo portátil móvil univ
 
 [![Tribe Disney Marvel - Cargador externo p](https://images-eu.ssl-images-amazon.com/images/I/41u31HEtzVL._SL200_.jpg)](https://www.amazon.es/dp/B00U5UMQPM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00U5UMQPM/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Dickies Khaki  Pantalones Hombre  Azul  Dark Navy DN   W30/L
 
 [![Dickies Khaki  Pantalones Hombre  Azul  ](https://images-eu.ssl-images-amazon.com/images/I/41XA8OlKXTL._SL200_.jpg)](https://www.amazon.es/dp/B00L5FCQYM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00L5FCQYM/?tag=tolees-21)

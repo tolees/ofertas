@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Lite Racer CLN  Zapatillas de Running para Hombre  Ne
 
 [![adidas Lite Racer CLN  Zapatillas de Run](https://images-eu.ssl-images-amazon.com/images/I/41aiKzjtLaL._SL200_.jpg)](https://www.amazon.es/dp/B07D3Q1CM3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D3Q1CM3/?tag=tolees-21)

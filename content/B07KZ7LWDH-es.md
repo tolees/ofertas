@@ -22,7 +22,7 @@ Ahora mismo tienes [DC Shoes Star T-Shirt  Hombre  Black/Snow White  L](https://
 
 [![DC Shoes Star T-Shirt  Hombre  Black/Sno](https://images-eu.ssl-images-amazon.com/images/I/41cvBOPLNTL._SL200_.jpg)](https://www.amazon.es/dp/B07KZ7LWDH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KZ7LWDH/?tag=tolees-21)

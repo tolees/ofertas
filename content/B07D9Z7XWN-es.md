@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Ignite Flash Luxe Wn s  Zapatillas de Running para Muje
 
 [![Puma Ignite Flash Luxe Wn s  Zapatillas ](https://images-eu.ssl-images-amazon.com/images/I/41DHjt1vmSL._SL200_.jpg)](https://www.amazon.es/dp/B07D9Z7XWN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D9Z7XWN/?tag=tolees-21)

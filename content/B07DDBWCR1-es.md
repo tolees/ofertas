@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma One Laser Ball  Unisex Adulto  Silver/Shocking Orange/B
 
 [![Puma One Laser Ball  Unisex Adulto  Silv](https://images-eu.ssl-images-amazon.com/images/I/419BuDylbEL._SL200_.jpg)](https://www.amazon.es/dp/B07DDBWCR1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DDBWCR1/?tag=tolees-21)

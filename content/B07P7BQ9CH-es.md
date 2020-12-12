@@ -22,7 +22,7 @@ Ahora mismo tienes [Shuzhen Dispensador de Agua para Mascotas Simple y Creativo 
 
 [![Shuzhen Dispensador de Agua para Mascota](https://images-eu.ssl-images-amazon.com/images/I/31fCg3O9eHL._SL200_.jpg)](https://www.amazon.es/dp/B07P7BQ9CH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07P7BQ9CH/?tag=tolees-21)

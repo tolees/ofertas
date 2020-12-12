@@ -22,7 +22,7 @@ Ahora mismo tienes [Valkyrie Drive: Bhikkhuni](https://www.amazon.es/dp/B01J0YC4
 
 [![Valkyrie Drive: Bhikkhuni](https://images-eu.ssl-images-amazon.com/images/I/51ubhjnOGCL._SL200_.jpg)](https://www.amazon.es/dp/B01J0YC4FK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01J0YC4FK/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jjimarco Jjenzo Navy WW 420 Noos Pantalones  Az
 
 [![JACK & JONES Jjimarco Jjenzo Navy WW 420](https://images-eu.ssl-images-amazon.com/images/I/41QboRpsyRL._SL200_.jpg)](https://www.amazon.es/dp/B01NBMB8A5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01NBMB8A5/?tag=tolees-21)

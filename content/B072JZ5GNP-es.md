@@ -22,7 +22,7 @@ Ahora mismo tienes [TRESemmé Mascarilla Liso Keratina  300 ml - Paquete de 6](h
 
 [![TRESemmé Mascarilla Liso Keratina  300 m](https://images-eu.ssl-images-amazon.com/images/I/51IqOpW9umL._SL200_.jpg)](https://www.amazon.es/dp/B072JZ5GNP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072JZ5GNP/?tag=tolees-21)

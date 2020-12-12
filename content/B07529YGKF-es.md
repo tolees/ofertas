@@ -22,7 +22,7 @@ Ahora mismo tienes [Kepmem Memoria USB 2.0 DE 32 GB Forma Corazón Llave USB Pen
 
 [![Kepmem Memoria USB 2.0 DE 32 GB Forma Co](https://images-eu.ssl-images-amazon.com/images/I/41o8I6PhLdL._SL200_.jpg)](https://www.amazon.es/dp/B07529YGKF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07529YGKF/?tag=tolees-21)

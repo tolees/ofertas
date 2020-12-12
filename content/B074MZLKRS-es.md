@@ -22,7 +22,7 @@ Ahora mismo tienes [Juego de bolos Skittles Juego de bolos para jugar al aire li
 
 [![Juego de bolos Skittles Juego de bolos p](https://images-eu.ssl-images-amazon.com/images/I/51EYUizn%2BpL._SL200_.jpg)](https://www.amazon.es/dp/B074MZLKRS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074MZLKRS/?tag=tolees-21)

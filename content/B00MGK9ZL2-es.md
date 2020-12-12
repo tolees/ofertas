@@ -22,7 +22,7 @@ Ahora mismo tienes [Rimmel Provocalips 16hr beso Lip Color Proof - Dare To Pink]
 
 [![Rimmel Provocalips 16hr beso Lip Color P](https://images-eu.ssl-images-amazon.com/images/I/31iF5mc4hNL._SL200_.jpg)](https://www.amazon.es/dp/B00MGK9ZL2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00MGK9ZL2/?tag=tolees-21)

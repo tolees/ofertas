@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Nrgy Neko Engineer Knit  Zapatillas de running para Hom
 
 [![Puma Nrgy Neko Engineer Knit  Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/51pNVvx6HcL._SL200_.jpg)](https://www.amazon.es/dp/B07CWYLY7Q/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CWYLY7Q/?tag=tolees-21)

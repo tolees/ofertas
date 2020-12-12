@@ -22,7 +22,7 @@ Ahora mismo tienes [Luces de Cortina  SOLMORE LED Luces de Cortina Carámbano de
 
 [![Luces de Cortina  SOLMORE LED Luces de C](https://images-eu.ssl-images-amazon.com/images/I/51WtvDet2JL._SL200_.jpg)](https://www.amazon.es/dp/B07GR55NLR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GR55NLR/?tag=tolees-21)

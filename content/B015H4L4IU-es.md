@@ -22,7 +22,7 @@ Ahora mismo tienes [Prisma Natural Colagen Plus Daily - 300 gr](https://www.amaz
 
 [![Prisma Natural Colagen Plus Daily - 300 ](https://images-eu.ssl-images-amazon.com/images/I/51dbBtSiz6L._SL200_.jpg)](https://www.amazon.es/dp/B015H4L4IU/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B015H4L4IU/?tag=tolees-21)

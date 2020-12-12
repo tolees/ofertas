@@ -22,7 +22,7 @@ Ahora mismo tienes [TECEVO S220 Wireless Bluetooth Speaker Compact Portable Muti
 
 [![TECEVO S220 Wireless Bluetooth Speaker C](https://images-eu.ssl-images-amazon.com/images/I/31MPLV0xtFL._SL200_.jpg)](https://www.amazon.es/dp/B00UZ96JT2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00UZ96JT2/?tag=tolees-21)

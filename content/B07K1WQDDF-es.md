@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Estro 19 JSY T-Shirt  Hombre  Solar Orange  L](https:
 
 [![adidas Estro 19 JSY T-Shirt  Hombre  Sol](https://images-eu.ssl-images-amazon.com/images/I/31DrPb7w80L._SL200_.jpg)](https://www.amazon.es/dp/B07K1WQDDF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07K1WQDDF/?tag=tolees-21)

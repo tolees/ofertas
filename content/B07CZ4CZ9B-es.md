@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma TSUGI Cage  Zapatillas Unisex Adults’o  Gris  Iron Ga
 
 [![Puma TSUGI Cage  Zapatillas Unisex Adult](https://images-eu.ssl-images-amazon.com/images/I/41Esyrpdn1L._SL200_.jpg)](https://www.amazon.es/dp/B07CZ4CZ9B/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CZ4CZ9B/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Pesadillas 2: Noche De Halloween [Blu-ray]](https://www.amaz
 
 [![Pesadillas 2: Noche De Halloween [Blu-ra](https://images-eu.ssl-images-amazon.com/images/I/51KsfE4ZZ7L._SL200_.jpg)](https://www.amazon.es/dp/B07K6Z6R1H/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07K6Z6R1H/?tag=tolees-21)

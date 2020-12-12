@@ -22,7 +22,7 @@ Ahora mismo tienes [Lico Central  Zapatillas Unisex Adulto  Gris Grau/Schwarz  3
 
 [![Lico Central  Zapatillas Unisex Adulto  ](https://images-eu.ssl-images-amazon.com/images/I/4112GM2t3aL._SL200_.jpg)](https://www.amazon.es/dp/B07DNMYQ1Q/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DNMYQ1Q/?tag=tolees-21)

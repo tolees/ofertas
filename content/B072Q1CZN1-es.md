@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour UA Slingflex Mid  Zapatillas de Entrenamiento p
 
 [![Under Armour UA Slingflex Mid  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/41vuj2SGK6L._SL200_.jpg)](https://www.amazon.es/dp/B072Q1CZN1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072Q1CZN1/?tag=tolees-21)

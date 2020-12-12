@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance Fresh Foam Cruz v2 Silent Rave Pack  Zapatillas 
 
 [![New Balance Fresh Foam Cruz v2 Silent Ra](https://images-eu.ssl-images-amazon.com/images/I/41PnV1o59hL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ3PQ1N/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DJ3PQ1N/?tag=tolees-21)

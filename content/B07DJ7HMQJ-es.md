@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance 574S v2  Zapatillas para Mujer  Negro Teal Black
 
 [![New Balance 574S v2  Zapatillas para Muj](https://images-eu.ssl-images-amazon.com/images/I/412F-g1mZrL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ7HMQJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DJ7HMQJ/?tag=tolees-21)

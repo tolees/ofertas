@@ -22,7 +22,7 @@ Ahora mismo tienes [FULARR 16 en 1 Mini Herramienta Reparación Bicicleta  Kit R
 
 [![FULARR 16 en 1 Mini Herramienta Reparaci](https://images-eu.ssl-images-amazon.com/images/I/51w6oWYva1L._SL200_.jpg)](https://www.amazon.es/dp/B07DFN4CHT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DFN4CHT/?tag=tolees-21)

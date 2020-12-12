@@ -22,7 +22,7 @@ Ahora mismo tienes [AIJEESI TWS 5.0 Auriculares Bluetooth inalámbricos con micr
 
 [![AIJEESI TWS 5.0 Auriculares Bluetooth in](https://images-eu.ssl-images-amazon.com/images/I/31XZmu1-r2L._SL200_.jpg)](https://www.amazon.es/dp/B07MYN7MMC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MYN7MMC/?tag=tolees-21)

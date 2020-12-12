@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Vs Pace  Zapatillas para Hombre  Blanco  Footwear Whi
 
 [![adidas Vs Pace  Zapatillas para Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/41br2LCyqnL._SL200_.jpg)](https://www.amazon.es/dp/B01HE5NBM2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01HE5NBM2/?tag=tolees-21)

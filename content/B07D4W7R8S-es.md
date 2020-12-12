@@ -22,7 +22,7 @@ Ahora mismo tienes [Kappa Nanook  Zapatillas Altas Unisex Niños  Verde  Army/Bl
 
 [![Kappa Nanook  Zapatillas Altas Unisex Ni](https://images-eu.ssl-images-amazon.com/images/I/41TzOsqeDPL._SL200_.jpg)](https://www.amazon.es/dp/B07D4W7R8S/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D4W7R8S/?tag=tolees-21)

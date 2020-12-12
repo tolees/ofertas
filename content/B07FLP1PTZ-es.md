@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike SB Check Suede  GS   Zapatillas de Skateboarding para N
 
 [![Nike SB Check Suede  GS   Zapatillas de ](https://images-eu.ssl-images-amazon.com/images/I/31YCb8WYqFL._SL200_.jpg)](https://www.amazon.es/dp/B07FLP1PTZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FLP1PTZ/?tag=tolees-21)

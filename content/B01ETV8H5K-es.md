@@ -22,7 +22,7 @@ Ahora mismo tienes [POP! Vinilo - Aliens: Ellen Ripley](https://www.amazon.es/dp
 
 [![POP! Vinilo - Aliens: Ellen Ripley](https://images-eu.ssl-images-amazon.com/images/I/41ibyOcfVxL._SL200_.jpg)](https://www.amazon.es/dp/B01ETV8H5K/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01ETV8H5K/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Kingston SSDNow UV400 - Disco Duro sólido de 480 GB  2.5"  
 
 [![Kingston SSDNow UV400 - Disco Duro sólid](https://images-eu.ssl-images-amazon.com/images/I/41f%2BEc7OenL._SL200_.jpg)](https://www.amazon.es/dp/B01FJ4UM9A/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01FJ4UM9A/?tag=tolees-21)

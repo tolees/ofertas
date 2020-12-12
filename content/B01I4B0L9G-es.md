@@ -22,7 +22,7 @@ Ahora mismo tienes [Vans UA ISO 2  Zapatillas para Hombre  Azul  C&l   40.5 EU](
 
 [![Vans UA ISO 2  Zapatillas para Hombre  A](https://images-eu.ssl-images-amazon.com/images/I/41%2Bz7P%2BniFL._SL200_.jpg)](https://www.amazon.es/dp/B01I4B0L9G/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01I4B0L9G/?tag=tolees-21)

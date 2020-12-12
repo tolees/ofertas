@@ -22,7 +22,7 @@ Ahora mismo tienes [Munich Massana  Zapatillas Unisex Adulto   Verde 292   45 EU
 
 [![Munich Massana  Zapatillas Unisex Adulto](https://images-eu.ssl-images-amazon.com/images/I/41tAswRpqCL._SL200_.jpg)](https://www.amazon.es/dp/B07D8C8MGB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D8C8MGB/?tag=tolees-21)

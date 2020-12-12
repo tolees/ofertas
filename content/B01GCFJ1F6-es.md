@@ -22,7 +22,7 @@ Ahora mismo tienes [Maxmer Gancho de Pared Percha Perchero Acero Inoxidable Colg
 
 [![Maxmer Gancho de Pared Percha Perchero A](https://images-eu.ssl-images-amazon.com/images/I/31ZLR-ZrxTL._SL200_.jpg)](https://www.amazon.es/dp/B01GCFJ1F6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01GCFJ1F6/?tag=tolees-21)

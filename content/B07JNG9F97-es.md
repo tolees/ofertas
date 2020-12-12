@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike Classic Cortez Nylon  Zapatillas para Hombre  Azul Deep
 
 [![Nike Classic Cortez Nylon  Zapatillas pa](https://images-eu.ssl-images-amazon.com/images/I/41MB8h12k%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07JNG9F97/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JNG9F97/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Set de bandas de resistencia para ejercicios 11PC Workout Fi
 
 [![Set de bandas de resistencia para ejerci](https://images-eu.ssl-images-amazon.com/images/I/51N7zHsXHML._SL200_.jpg)](https://www.amazon.es/dp/B07H2RM5HD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07H2RM5HD/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [DAKINE Campus Mochila  Hombre  Gris  laurelwood   25 L](http
 
 [![DAKINE Campus Mochila  Hombre  Gris  lau](https://images-eu.ssl-images-amazon.com/images/I/518bh0O%2BA8L._SL200_.jpg)](https://www.amazon.es/dp/B07BSPD64V/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BSPD64V/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Deerupt Runner W Zapatillas de Running Mujer  Blanco 
 
 [![adidas Deerupt Runner W Zapatillas de Ru](https://images-eu.ssl-images-amazon.com/images/I/41KrgX42%2BdL._SL200_.jpg)](https://www.amazon.es/dp/B07JYKP4JL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JYKP4JL/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance Fresh Foam Beacon  Zapatillas de Running para Mu
 
 [![New Balance Fresh Foam Beacon  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/41vpEGRkwdL._SL200_.jpg)](https://www.amazon.es/dp/B075R7J4HD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075R7J4HD/?tag=tolees-21)

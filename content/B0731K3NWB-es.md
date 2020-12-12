@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jjimarco Jjenzo WW 420 Noos  Pantalones para Ho
 
 [![JACK & JONES Jjimarco Jjenzo WW 420 Noos](https://images-eu.ssl-images-amazon.com/images/I/41MNSkfo3iL._SL200_.jpg)](https://www.amazon.es/dp/B0731K3NWB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0731K3NWB/?tag=tolees-21)

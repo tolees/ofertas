@@ -22,7 +22,7 @@ Ahora mismo tienes [Supra Graham CW  Zapatillas Altas para Hombre  Verde  Olive-
 
 [![Supra Graham CW  Zapatillas Altas para H](https://images-eu.ssl-images-amazon.com/images/I/4157pP75FBL._SL200_.jpg)](https://www.amazon.es/dp/B078ZKX47T/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078ZKX47T/?tag=tolees-21)

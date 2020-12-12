@@ -22,7 +22,7 @@ Ahora mismo tienes [Samsung Clear Cover - Funda para Galaxy S9 +  transparente]
 
 [![Samsung Clear Cover - Funda para Galaxy ](https://images-eu.ssl-images-amazon.com/images/I/21NZvKiqiUL._SL200_.jpg)](https://www.amazon.es/dp/B079S7CCSV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079S7CCSV/?tag=tolees-21)

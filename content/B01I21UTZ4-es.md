@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike 844898  Zapatillas de Deporte para Mujer  Verde  Seawee
 
 [![Nike 844898  Zapatillas de Deporte para ](https://images-eu.ssl-images-amazon.com/images/I/41e%2B3P32xUL._SL200_.jpg)](https://www.amazon.es/dp/B01I21UTZ4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01I21UTZ4/?tag=tolees-21)

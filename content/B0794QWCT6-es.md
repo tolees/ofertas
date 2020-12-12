@@ -22,7 +22,7 @@ Ahora mismo tienes [Scribblenauts Showdown](https://www.amazon.es/dp/B0794QWCT6/
 
 [![Scribblenauts Showdown](https://images-eu.ssl-images-amazon.com/images/I/51IVRo7JwrL._SL200_.jpg)](https://www.amazon.es/dp/B0794QWCT6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0794QWCT6/?tag=tolees-21)

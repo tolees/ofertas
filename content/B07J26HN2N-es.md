@@ -22,7 +22,7 @@ Ahora mismo tienes [Gioteck - Auriculares Tx30 Pink](https://www.amazon.es/dp/B0
 
 [![Gioteck - Auriculares Tx30 Pink](https://images-eu.ssl-images-amazon.com/images/I/41N69xzny2L._SL200_.jpg)](https://www.amazon.es/dp/B07J26HN2N/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07J26HN2N/?tag=tolees-21)

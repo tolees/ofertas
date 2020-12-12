@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance 997H  Zapatillas para Mujer  Blanco  Sea Salt/Pe
 
 [![New Balance 997H  Zapatillas para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41pqIeY-H6L._SL200_.jpg)](https://www.amazon.es/dp/B07BL17GN2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BL17GN2/?tag=tolees-21)

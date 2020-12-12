@@ -22,7 +22,7 @@ Ahora mismo tienes [LIU JO Shoes Karlie 14-Sneaker Calf Leather White  Zapatilla
 
 [![LIU JO Shoes Karlie 14-Sneaker Calf Leat](https://images-eu.ssl-images-amazon.com/images/I/41L80OeXqdL._SL200_.jpg)](https://www.amazon.es/dp/B07KTVGVH1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KTVGVH1/?tag=tolees-21)

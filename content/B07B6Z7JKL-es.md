@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance Nitrel v2  Zapatillas de Running para Asfalto pa
 
 [![New Balance Nitrel v2  Zapatillas de Run](https://images-eu.ssl-images-amazon.com/images/I/41YbtFN512L._SL200_.jpg)](https://www.amazon.es/dp/B07B6Z7JKL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07B6Z7JKL/?tag=tolees-21)

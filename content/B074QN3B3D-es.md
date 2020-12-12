@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers 52399  Zapatillas para Hombre  Azul  Navy   43 EU](
 
 [![Skechers 52399  Zapatillas para Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/41bKaPbcrYL._SL200_.jpg)](https://www.amazon.es/dp/B074QN3B3D/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074QN3B3D/?tag=tolees-21)

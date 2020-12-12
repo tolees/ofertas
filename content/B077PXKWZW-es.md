@@ -22,7 +22,7 @@ Ahora mismo tienes [tomtoc Original Bolsa de Hombro con CornerArmor Patente para
 
 [![tomtoc Original Bolsa de Hombro con Corn](https://images-eu.ssl-images-amazon.com/images/I/51M8TusHmUL._SL200_.jpg)](https://www.amazon.es/dp/B077PXKWZW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077PXKWZW/?tag=tolees-21)

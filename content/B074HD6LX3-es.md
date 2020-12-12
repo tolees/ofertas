@@ -22,7 +22,7 @@ Ahora mismo tienes [G-Star RAW Scuba Ii  Zapatillas para Hombre  Beige  Milk 111
 
 [![G-Star RAW Scuba Ii  Zapatillas para Hom](https://images-eu.ssl-images-amazon.com/images/I/41ywui6CbkL._SL200_.jpg)](https://www.amazon.es/dp/B074HD6LX3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074HD6LX3/?tag=tolees-21)

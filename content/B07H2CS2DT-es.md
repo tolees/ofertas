@@ -22,7 +22,7 @@ Ahora mismo tienes [Maison & White Paquete de 4 cajones de caja de almacenamient
 
 [![Maison & White Paquete de 4 cajones de c](https://images-eu.ssl-images-amazon.com/images/I/319lNhtz9cL._SL200_.jpg)](https://www.amazon.es/dp/B07H2CS2DT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07H2CS2DT/?tag=tolees-21)

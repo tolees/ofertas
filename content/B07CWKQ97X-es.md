@@ -22,7 +22,7 @@ Ahora mismo tienes [EasyAcc Ventilador Personal Portátil USB Mini Ventilador de
 
 [![EasyAcc Ventilador Personal Portátil USB](https://images-eu.ssl-images-amazon.com/images/I/318H9TCrbWL._SL200_.jpg)](https://www.amazon.es/dp/B07CWKQ97X/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CWKQ97X/?tag=tolees-21)

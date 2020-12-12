@@ -22,7 +22,7 @@ Ahora mismo tienes [SW-Stahl profesional alicates 180 mm  con Griffschutzisolati
 
 [![SW-Stahl profesional alicates 180 mm  co](https://images-eu.ssl-images-amazon.com/images/I/31VlXKm6-IL._SL200_.jpg)](https://www.amazon.es/dp/B008JG84KA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B008JG84KA/?tag=tolees-21)

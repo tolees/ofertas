@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers On-The-go City 3  Zapatillas de Entrenamiento para 
 
 [![Skechers On-The-go City 3  Zapatillas de](https://images-eu.ssl-images-amazon.com/images/I/41u0FEyV9CL._SL200_.jpg)](https://www.amazon.es/dp/B06Y47PBGR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06Y47PBGR/?tag=tolees-21)

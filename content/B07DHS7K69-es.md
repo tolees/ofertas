@@ -22,7 +22,7 @@ Ahora mismo tienes [Roxy Shadow Swell Mochila Mediana  Mujer  Gris  Heritage Hea
 
 [![Roxy Shadow Swell Mochila Mediana  Mujer](https://images-eu.ssl-images-amazon.com/images/I/51pWbdeeBKL._SL200_.jpg)](https://www.amazon.es/dp/B07DHS7K69/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DHS7K69/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jcomarko Polo SS  Hombre  Small  Talla del Fabr
 
 [![JACK & JONES Jcomarko Polo SS  Hombre  S](https://images-eu.ssl-images-amazon.com/images/I/41RE1Z7Z3mL._SL200_.jpg)](https://www.amazon.es/dp/B07GNH4RJ9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GNH4RJ9/?tag=tolees-21)

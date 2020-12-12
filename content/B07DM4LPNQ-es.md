@@ -22,7 +22,7 @@ Ahora mismo tienes [Michael Kors - Junie Medium Shoulder Bag  Shoppers y bolsos 
 
 [![Michael Kors - Junie Medium Shoulder Bag](https://images-eu.ssl-images-amazon.com/images/I/413VHyp304L._SL200_.jpg)](https://www.amazon.es/dp/B07DM4LPNQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DM4LPNQ/?tag=tolees-21)

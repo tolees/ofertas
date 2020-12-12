@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers Burst  Zapatillas para Mujer  Gris  Char   36 EU](h
 
 [![Skechers Burst  Zapatillas para Mujer  G](https://images-eu.ssl-images-amazon.com/images/I/51V6mWykPcL._SL200_.jpg)](https://www.amazon.es/dp/B01IVNK4NU/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01IVNK4NU/?tag=tolees-21)

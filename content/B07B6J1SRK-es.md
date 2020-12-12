@@ -22,7 +22,7 @@ Ahora mismo tienes [BQ Easy Go - Filamento de 1.75 mm  100 % PLA  resistente a l
 
 [![BQ Easy Go - Filamento de 1.75 mm  100 %](https://images-eu.ssl-images-amazon.com/images/I/41p1J1q-7LL._SL200_.jpg)](https://www.amazon.es/dp/B07B6J1SRK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07B6J1SRK/?tag=tolees-21)

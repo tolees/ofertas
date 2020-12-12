@@ -22,7 +22,7 @@ Ahora mismo tienes [Citizen Reloj Analógico para Hombre de Cuarzo con Correa en
 
 [![Citizen Reloj Analógico para Hombre de C](https://images-eu.ssl-images-amazon.com/images/I/418-qCn7zbL._SL200_.jpg)](https://www.amazon.es/dp/B0117DN8MK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0117DN8MK/?tag=tolees-21)

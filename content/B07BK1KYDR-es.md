@@ -22,7 +22,7 @@ Ahora mismo tienes [Muzili Pulsera de Actividad Inteligente Fitness Tracker Impe
 
 [![Muzili Pulsera de Actividad Inteligente ](https://images-eu.ssl-images-amazon.com/images/I/41ugJfPSFOL._SL200_.jpg)](https://www.amazon.es/dp/B07BK1KYDR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BK1KYDR/?tag=tolees-21)

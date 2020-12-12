@@ -22,7 +22,7 @@ Ahora mismo tienes [AEVOBAS Batidoras de Mano 1000W  5 en 1 Batidoras de Varilla
 
 [![AEVOBAS Batidoras de Mano 1000W  5 en 1 ](https://images-eu.ssl-images-amazon.com/images/I/41AdGFYS%2BrL._SL200_.jpg)](https://www.amazon.es/dp/B07HF6D4LD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07HF6D4LD/?tag=tolees-21)

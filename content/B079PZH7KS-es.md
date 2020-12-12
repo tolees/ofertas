@@ -22,7 +22,7 @@ Ahora mismo tienes [CRZ YOGA - Sujetador Deportivo Yoga Cruzados Almohadillas Ex
 
 [![CRZ YOGA - Sujetador Deportivo Yoga Cruz](https://images-eu.ssl-images-amazon.com/images/I/41EXKOHax7L._SL200_.jpg)](https://www.amazon.es/dp/B079PZH7KS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079PZH7KS/?tag=tolees-21)

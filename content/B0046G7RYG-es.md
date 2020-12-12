@@ -22,7 +22,7 @@ Ahora mismo tienes [Sebago TRITON THREE EYE - Náuticos de cuero para hombre  Ma
 
 [![Sebago TRITON THREE EYE - Náuticos de cu](https://images-eu.ssl-images-amazon.com/images/I/41H2reYr%2BVL._SL200_.jpg)](https://www.amazon.es/dp/B0046G7RYG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0046G7RYG/?tag=tolees-21)

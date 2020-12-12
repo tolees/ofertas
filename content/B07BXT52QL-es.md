@@ -22,7 +22,7 @@ Ahora mismo tienes [Scuderia Ferrari Reloj Analógico para Hombre de Cuarzo con 
 
 [![Scuderia Ferrari Reloj Analógico para Ho](https://images-eu.ssl-images-amazon.com/images/I/41DdCZrs7LL._SL200_.jpg)](https://www.amazon.es/dp/B07BXT52QL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BXT52QL/?tag=tolees-21)

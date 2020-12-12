@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Uprise Knit  Zapatillas Unisex Adults o  Blanco White-G
 
 [![Puma Uprise Knit  Zapatillas Unisex Adul](https://images-eu.ssl-images-amazon.com/images/I/41Y-5PhcETL._SL200_.jpg)](https://www.amazon.es/dp/B07CSCDN1N/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CSCDN1N/?tag=tolees-21)

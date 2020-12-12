@@ -22,7 +22,7 @@ Ahora mismo tienes [Superga 2750 Cotu Classic  Zapatillas Unisex Adulto  Rojo  S
 
 [![Superga 2750 Cotu Classic  Zapatillas Un](https://images-eu.ssl-images-amazon.com/images/I/41YQ9cq71PL._SL200_.jpg)](https://www.amazon.es/dp/B00G02DNWO/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00G02DNWO/?tag=tolees-21)

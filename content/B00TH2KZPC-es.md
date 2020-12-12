@@ -22,7 +22,7 @@ Ahora mismo tienes [SOLEDI lana de fieltro  lanas de colores Set de lana de fiel
 
 [![SOLEDI lana de fieltro  lanas de colores](https://images-eu.ssl-images-amazon.com/images/I/51NUXWeMSNL._SL200_.jpg)](https://www.amazon.es/dp/B00TH2KZPC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00TH2KZPC/?tag=tolees-21)

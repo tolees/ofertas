@@ -22,7 +22,7 @@ Ahora mismo tienes [ADIDAS Campus Stitch and T  Zapatillas de Running para Hombr
 
 [![ADIDAS Campus Stitch and T  Zapatillas d](https://images-eu.ssl-images-amazon.com/images/I/31sfrV8EqPL._SL200_.jpg)](https://www.amazon.es/dp/B07BJ4KYHL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BJ4KYHL/?tag=tolees-21)

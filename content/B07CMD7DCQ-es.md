@@ -22,7 +22,7 @@ Ahora mismo tienes [Bluebags 0JV7005  Shopper para Mujer   Gris   31x16x46 cm  W
 
 [![Bluebags 0JV7005  Shopper para Mujer   G](https://images-eu.ssl-images-amazon.com/images/I/51lnxFOFcCL._SL200_.jpg)](https://www.amazon.es/dp/B07CMD7DCQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CMD7DCQ/?tag=tolees-21)

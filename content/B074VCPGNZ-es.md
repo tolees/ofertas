@@ -22,7 +22,7 @@ Ahora mismo tienes [STAR WARS Figura de Base de Aventura Playskool Heroes Galact
 
 [![STAR WARS Figura de Base de Aventura Pla](https://images-eu.ssl-images-amazon.com/images/I/51zWveNICPL._SL200_.jpg)](https://www.amazon.es/dp/B074VCPGNZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074VCPGNZ/?tag=tolees-21)

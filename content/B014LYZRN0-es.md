@@ -22,7 +22,7 @@ Ahora mismo tienes [Lixada Lámpara de Techo Araña con 8 Brazos  Cada Uno con C
 
 [![Lixada Lámpara de Techo Araña con 8 Braz](https://images-eu.ssl-images-amazon.com/images/I/41BtatxvmYL._SL200_.jpg)](https://www.amazon.es/dp/B014LYZRN0/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B014LYZRN0/?tag=tolees-21)

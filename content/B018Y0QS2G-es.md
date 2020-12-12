@@ -22,7 +22,7 @@ Ahora mismo tienes [VAUDE Detergente Nikwax Tech Wash TX Direct 2 x 1 l  Transpa
 
 [![VAUDE Detergente Nikwax Tech Wash TX Dir](https://images-eu.ssl-images-amazon.com/images/I/51HseP6wvuL._SL200_.jpg)](https://www.amazon.es/dp/B018Y0QS2G/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B018Y0QS2G/?tag=tolees-21)

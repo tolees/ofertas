@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Campus Reporter PU Bolsa Deporte  Unisex Adulto  Ponder
 
 [![Puma Campus Reporter PU Bolsa Deporte  U](https://images-eu.ssl-images-amazon.com/images/I/41eJG1ouZqL._SL200_.jpg)](https://www.amazon.es/dp/B07JHJCY1L/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JHJCY1L/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Funda iPhone 6/6s  con [2X Protector de Pantalla de Vidrio T
 
 [![Funda iPhone 6/6s  con [2X Protector de ](https://images-eu.ssl-images-amazon.com/images/I/41Pg0rpB0ML._SL200_.jpg)](https://www.amazon.es/dp/B07D6L1WLQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D6L1WLQ/?tag=tolees-21)

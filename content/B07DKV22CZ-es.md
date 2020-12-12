@@ -22,7 +22,7 @@ Ahora mismo tienes [NBA 2k19 [Importación italiana]](https://www.amazon.es/dp/B
 
 [![NBA 2k19 [Importación italiana]](https://images-eu.ssl-images-amazon.com/images/I/61hh3hJIJuL._SL200_.jpg)](https://www.amazon.es/dp/B07DKV22CZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DKV22CZ/?tag=tolees-21)

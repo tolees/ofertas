@@ -22,7 +22,7 @@ Ahora mismo tienes [Wiswan Batería Externa Power Bank 24000mAh  Cargador Solar 
 
 [![Wiswan Batería Externa Power Bank 24000m](https://images-eu.ssl-images-amazon.com/images/I/419poRtUn0L._SL200_.jpg)](https://www.amazon.es/dp/B07G463HTF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07G463HTF/?tag=tolees-21)

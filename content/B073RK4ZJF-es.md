@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Refine Adapt  Zapatillas para Mujer  Negro  Core Blac
 
 [![adidas Refine Adapt  Zapatillas para Muj](https://images-eu.ssl-images-amazon.com/images/I/41ItEcNbTCL._SL200_.jpg)](https://www.amazon.es/dp/B073RK4ZJF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B073RK4ZJF/?tag=tolees-21)

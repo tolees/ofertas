@@ -22,7 +22,7 @@ Ahora mismo tienes [AGM Caja de Luz de Cine Lightbox DIY Cinematográfica A4 LED
 
 [![AGM Caja de Luz de Cine Lightbox DIY Cin](https://images-eu.ssl-images-amazon.com/images/I/51yqiWqZxaL._SL200_.jpg)](https://www.amazon.es/dp/B0752CRSLF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0752CRSLF/?tag=tolees-21)

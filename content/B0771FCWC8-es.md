@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW Dunda Polo S/s  Hombre  Azul  Sartho Blue 6067   
 
 [![G-STAR RAW Dunda Polo S/s  Hombre  Azul ](https://images-eu.ssl-images-amazon.com/images/I/31eO7BS%2B3DL._SL200_.jpg)](https://www.amazon.es/dp/B0771FCWC8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0771FCWC8/?tag=tolees-21)

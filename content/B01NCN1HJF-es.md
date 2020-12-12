@@ -22,7 +22,7 @@ Ahora mismo tienes [Tommi 05105 Acuario Natur Biotope E-25 Blanco](https://www.a
 
 [![Tommi 05105 Acuario Natur Biotope E-25 B](https://images-eu.ssl-images-amazon.com/images/I/41AOJoFPJyL._SL200_.jpg)](https://www.amazon.es/dp/B01NCN1HJF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01NCN1HJF/?tag=tolees-21)

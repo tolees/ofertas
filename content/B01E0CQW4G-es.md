@@ -22,7 +22,7 @@ Ahora mismo tienes [Piz Buin - Protección Solar  Protect & Cool Espuma Solar Re
 
 [![Piz Buin - Protección Solar  Protect & C](https://images-eu.ssl-images-amazon.com/images/I/41h7zrTIczL._SL200_.jpg)](https://www.amazon.es/dp/B01E0CQW4G/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01E0CQW4G/?tag=tolees-21)

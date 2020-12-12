@@ -22,7 +22,7 @@ Ahora mismo tienes [TECCPO Soplador de Hojas  18V 2.0Ah Soplador de Hojas a Bate
 
 [![TECCPO Soplador de Hojas  18V 2.0Ah Sopl](https://images-eu.ssl-images-amazon.com/images/I/41lJHui1ucL._SL200_.jpg)](https://www.amazon.es/dp/B07DQQ12H4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DQQ12H4/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Quiksilver Estate Snow Pant  Hombre  Grape Leaf  S](https://
 
 [![Quiksilver Estate Snow Pant  Hombre  Gra](https://images-eu.ssl-images-amazon.com/images/I/317Bj%2BUBlAL._SL200_.jpg)](https://www.amazon.es/dp/B07DHSH7GB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DHSH7GB/?tag=tolees-21)

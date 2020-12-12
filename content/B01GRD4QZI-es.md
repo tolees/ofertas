@@ -22,7 +22,7 @@ Ahora mismo tienes [Columbia Youth Redmond  Zapatillas de Deporte Exterior para 
 
 [![Columbia Youth Redmond  Zapatillas de De](https://images-eu.ssl-images-amazon.com/images/I/41Yp9NZAYsL._SL200_.jpg)](https://www.amazon.es/dp/B01GRD4QZI/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01GRD4QZI/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [AEG Voxtel M320 - Móvil libre con pantalla de 1.8" y teclas
 
 [![AEG Voxtel M320 - Móvil libre con pantal](https://images-eu.ssl-images-amazon.com/images/I/41HQUFANOYL._SL200_.jpg)](https://www.amazon.es/dp/B00KMVCY2E/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00KMVCY2E/?tag=tolees-21)

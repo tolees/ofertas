@@ -22,7 +22,7 @@ Ahora mismo tienes [Pulsera Actividad Inteligente Impermeable IP68 Pantalla 0.96
 
 [![Pulsera Actividad Inteligente Impermeabl](https://images-eu.ssl-images-amazon.com/images/I/51Zqt583hUL._SL200_.jpg)](https://www.amazon.es/dp/B07B9HGB1T/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07B9HGB1T/?tag=tolees-21)

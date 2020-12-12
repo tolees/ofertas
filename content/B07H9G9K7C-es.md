@@ -22,7 +22,7 @@ Ahora mismo tienes [Vila Clothes Viril L/s V-Neck Knit Top-Noos suéter  Azul  S
 
 [![Vila Clothes Viril L/s V-Neck Knit Top-N](https://images-eu.ssl-images-amazon.com/images/I/41SJvoeEXXL._SL200_.jpg)](https://www.amazon.es/dp/B07H9G9K7C/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07H9G9K7C/?tag=tolees-21)

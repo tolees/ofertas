@@ -22,7 +22,7 @@ Ahora mismo tienes [Greencut GGT650 9-1 - Desbrozadora a gasolina con motor de 6
 
 [![Greencut GGT650 9-1 - Desbrozadora a gas](https://images-eu.ssl-images-amazon.com/images/I/51rg3oDZHNL._SL200_.jpg)](https://www.amazon.es/dp/B072HMQ8VS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072HMQ8VS/?tag=tolees-21)

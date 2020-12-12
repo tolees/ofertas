@@ -22,7 +22,7 @@ Ahora mismo tienes [Cortefiel C5BCB Chino Tailored PPT Pantalones  Gris  Greys  
 
 [![Cortefiel C5BCB Chino Tailored PPT Panta](https://images-eu.ssl-images-amazon.com/images/I/31idIxAOR5L._SL200_.jpg)](https://www.amazon.es/dp/B01N5VTN74/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N5VTN74/?tag=tolees-21)

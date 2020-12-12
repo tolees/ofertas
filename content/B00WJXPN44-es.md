@@ -22,7 +22,7 @@ Ahora mismo tienes [Lee LF0450FZ  Cinturón Para Hombre  Marrón  Dark Cognac   
 
 [![Lee LF0450FZ  Cinturón Para Hombre  Marr](https://images-eu.ssl-images-amazon.com/images/I/41JsnPSNs2L._SL200_.jpg)](https://www.amazon.es/dp/B00WJXPN44/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00WJXPN44/?tag=tolees-21)

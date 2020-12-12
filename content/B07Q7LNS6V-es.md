@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW Dend Swimshort Pantalones Cortos  Verde  Sage 724
 
 [![G-STAR RAW Dend Swimshort Pantalones Cor](https://images-eu.ssl-images-amazon.com/images/I/41JTj%2BV3t-L._SL200_.jpg)](https://www.amazon.es/dp/B07Q7LNS6V/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07Q7LNS6V/?tag=tolees-21)

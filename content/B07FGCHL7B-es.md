@@ -22,7 +22,7 @@ Ahora mismo tienes [Columbia Backpedal  Zapatillas Casual para Hombre  Negro  Sh
 
 [![Columbia Backpedal  Zapatillas Casual pa](https://images-eu.ssl-images-amazon.com/images/I/41YKFzIn6dL._SL200_.jpg)](https://www.amazon.es/dp/B07FGCHL7B/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FGCHL7B/?tag=tolees-21)

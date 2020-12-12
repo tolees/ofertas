@@ -22,7 +22,7 @@ Ahora mismo tienes [HOMCOM Patinete Eléctrico Niño 7-14 Años Scooter Manopat�
 
 [![HOMCOM Patinete Eléctrico Niño 7-14 Años](https://images-eu.ssl-images-amazon.com/images/I/31KD0oe-1uL._SL200_.jpg)](https://www.amazon.es/dp/B07BMTXNR7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BMTXNR7/?tag=tolees-21)

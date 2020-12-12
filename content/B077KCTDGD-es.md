@@ -22,7 +22,7 @@ Ahora mismo tienes [Marca Amazon - Happy Belly Semillas de chía orgánica  1000
 
 [![Marca Amazon - Happy Belly Semillas de c](https://images-eu.ssl-images-amazon.com/images/I/51PRHbRr0OL._SL200_.jpg)](https://www.amazon.es/dp/B077KCTDGD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077KCTDGD/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Grabadora CD DVD Externo Lector Portátil USB 3.0 Lectura R�
 
 [![Grabadora CD DVD Externo Lector Portátil](https://images-eu.ssl-images-amazon.com/images/I/41kPqn3OxBL._SL200_.jpg)](https://www.amazon.es/dp/B07JHJ6BZ7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JHJ6BZ7/?tag=tolees-21)

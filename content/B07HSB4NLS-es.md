@@ -22,7 +22,7 @@ Ahora mismo tienes [Biffi Salsa con Champiňones y Ceps - 6 de 190 gr.  Total: 1
 
 [![Biffi Salsa con Champiňones y Ceps - 6 d](https://images-eu.ssl-images-amazon.com/images/I/41rctpqz4jL._SL200_.jpg)](https://www.amazon.es/dp/B07HSB4NLS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07HSB4NLS/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Topcom KF-4301 - Calientabiberones  color blanco](https://ww
 
 [![Topcom KF-4301 - Calientabiberones  colo](https://images-eu.ssl-images-amazon.com/images/I/31lfNq9NYEL._SL200_.jpg)](https://www.amazon.es/dp/B002UJFA54/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B002UJFA54/?tag=tolees-21)

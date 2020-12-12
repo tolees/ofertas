@@ -22,7 +22,7 @@ Ahora mismo tienes [Bolsa organizadora de almacenamiento de poliéster 91L  a pr
 
 [![Bolsa organizadora de almacenamiento de ](https://images-eu.ssl-images-amazon.com/images/I/51He5AxNQEL._SL200_.jpg)](https://www.amazon.es/dp/B0746CXDWJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0746CXDWJ/?tag=tolees-21)

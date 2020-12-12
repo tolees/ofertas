@@ -22,7 +22,7 @@ Ahora mismo tienes [Joma Combi - Malla larga para mujer  color negro  talla XXS]
 
 [![Joma Combi - Malla larga para mujer  col](https://images-eu.ssl-images-amazon.com/images/I/31P4SGJIk2L._SL200_.jpg)](https://www.amazon.es/dp/B00ORVF5VW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00ORVF5VW/?tag=tolees-21)

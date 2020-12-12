@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance 420  Zapatillas para Mujer  Gris  Grey NBA   40.
 
 [![New Balance 420  Zapatillas para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41oaQaUuTYL._SL200_.jpg)](https://www.amazon.es/dp/B06XXDX8XF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XXDX8XF/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Reebok Print Lite Rush  Zapatillas de Deporte para Hombre   
 
 [![Reebok Print Lite Rush  Zapatillas de De](https://images-eu.ssl-images-amazon.com/images/I/41M7cRFynzL._SL200_.jpg)](https://www.amazon.es/dp/B07DCV622R/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DCV622R/?tag=tolees-21)

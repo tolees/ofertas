@@ -22,7 +22,7 @@ Ahora mismo tienes [Chicco Balloon 2017 - Hamaca de 0 a 18 kg  con luces y sonid
 
 [![Chicco Balloon 2017 - Hamaca de 0 a 18 k](https://images-eu.ssl-images-amazon.com/images/I/41NKgA7Ls8L._SL200_.jpg)](https://www.amazon.es/dp/B01JS9F85U/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01JS9F85U/?tag=tolees-21)

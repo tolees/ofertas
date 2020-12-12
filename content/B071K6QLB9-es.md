@@ -22,7 +22,7 @@ Ahora mismo tienes [Ubisoft - Rabbids Mario Figura  8 Cm](https://www.amazon.es/
 
 [![Ubisoft - Rabbids Mario Figura  8 Cm](https://images-eu.ssl-images-amazon.com/images/I/51QjuhnjyqL._SL200_.jpg)](https://www.amazon.es/dp/B071K6QLB9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071K6QLB9/?tag=tolees-21)

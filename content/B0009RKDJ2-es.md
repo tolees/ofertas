@@ -22,7 +22,7 @@ Ahora mismo tienes [HP Q6003A - Tóner  color magenta](https://www.amazon.es/dp/
 
 [![HP Q6003A - Tóner  color magenta](https://images-eu.ssl-images-amazon.com/images/I/415CB5XQY-L._SL200_.jpg)](https://www.amazon.es/dp/B0009RKDJ2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0009RKDJ2/?tag=tolees-21)

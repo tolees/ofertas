@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas 3-Stripes Crew Sweatshirt  Hombre  Legend Marine  L](
 
 [![adidas 3-Stripes Crew Sweatshirt  Hombre](https://images-eu.ssl-images-amazon.com/images/I/41W41Fh66VL._SL200_.jpg)](https://www.amazon.es/dp/B07KQV4TZP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KQV4TZP/?tag=tolees-21)

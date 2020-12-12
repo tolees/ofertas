@@ -22,7 +22,7 @@ Ahora mismo tienes [Aingoo Estantería de Abierto 3 Niveles estantería Gabinete
 
 [![Aingoo Estantería de Abierto 3 Niveles e](https://images-eu.ssl-images-amazon.com/images/I/31tOksnOB0L._SL200_.jpg)](https://www.amazon.es/dp/B07GRZB85D/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GRZB85D/?tag=tolees-21)

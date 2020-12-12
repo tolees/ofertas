@@ -22,7 +22,7 @@ Ahora mismo tienes [Kipling - Firefly Up  Mochilas Mujer  Varios colores  Soft F
 
 [![Kipling - Firefly Up  Mochilas Mujer  Va](https://images-eu.ssl-images-amazon.com/images/I/51zWS0Q4tDL._SL200_.jpg)](https://www.amazon.es/dp/B07BHBR49J/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BHBR49J/?tag=tolees-21)

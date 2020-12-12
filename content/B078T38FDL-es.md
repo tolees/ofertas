@@ -22,7 +22,7 @@ Ahora mismo tienes [Women secret Bañador   Several 98   40  Tamaño del Fabrica
 
 [![Women secret Bañador   Several 98   40  ](https://images-eu.ssl-images-amazon.com/images/I/51tezMdXGiL._SL200_.jpg)](https://www.amazon.es/dp/B078T38FDL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078T38FDL/?tag=tolees-21)

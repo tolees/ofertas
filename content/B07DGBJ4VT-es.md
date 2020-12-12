@@ -22,7 +22,7 @@ Ahora mismo tienes [Gioseppo Zapatillas para Hombre  Azul  Marino 46628-P   41 E
 
 [![Gioseppo Zapatillas para Hombre  Azul  M](https://images-eu.ssl-images-amazon.com/images/I/31sbsTOzVCL._SL200_.jpg)](https://www.amazon.es/dp/B07DGBJ4VT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DGBJ4VT/?tag=tolees-21)

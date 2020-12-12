@@ -22,7 +22,7 @@ Ahora mismo tienes [120 Cápsulas Nespresso Surtido Compatibles con Máquinas Ne
 
 [![120 Cápsulas Nespresso Surtido Compatibl](https://images-eu.ssl-images-amazon.com/images/I/51JJfaT-ZfL._SL200_.jpg)](https://www.amazon.es/dp/B07Q22KMLR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07Q22KMLR/?tag=tolees-21)

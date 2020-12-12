@@ -22,7 +22,7 @@ Ahora mismo tienes [Correa Para Perros  5 FT Strong Dog Leads with Comfortable S
 
 [![Correa Para Perros  5 FT Strong Dog Lead](https://images-eu.ssl-images-amazon.com/images/I/51MJB2vu2pL._SL200_.jpg)](https://www.amazon.es/dp/B07QKH4VM3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07QKH4VM3/?tag=tolees-21)

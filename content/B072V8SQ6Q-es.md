@@ -22,7 +22,7 @@ Ahora mismo tienes [TopEUR 10 piezas de bloqueo de mosquetón de aleación de al
 
 [![TopEUR 10 piezas de bloqueo de mosquetón](https://images-eu.ssl-images-amazon.com/images/I/51lKsXVaQKL._SL200_.jpg)](https://www.amazon.es/dp/B072V8SQ6Q/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072V8SQ6Q/?tag=tolees-21)

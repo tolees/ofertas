@@ -22,7 +22,7 @@ Ahora mismo tienes [Ratio 5054H1 - Porta-Flexómetro Multibolsil Ratio](https://
 
 [![Ratio 5054H1 - Porta-Flexómetro Multibol](https://images-eu.ssl-images-amazon.com/images/I/51emjjzM50L._SL200_.jpg)](https://www.amazon.es/dp/B00ITVS2CU/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00ITVS2CU/?tag=tolees-21)

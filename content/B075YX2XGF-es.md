@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers Mecca-bolders  Botas Clasicas para Niños  Azul  Na
 
 [![Skechers Mecca-bolders  Botas Clasicas p](https://images-eu.ssl-images-amazon.com/images/I/41%2BHcXSzYxL._SL200_.jpg)](https://www.amazon.es/dp/B075YX2XGF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075YX2XGF/?tag=tolees-21)

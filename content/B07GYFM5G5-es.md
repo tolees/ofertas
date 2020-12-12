@@ -22,7 +22,7 @@ Ahora mismo tienes [LOVORDS Pulsera Mujer Grabado Plata de Ley 925 Árbol de la 
 
 [![LOVORDS Pulsera Mujer Grabado Plata de L](https://images-eu.ssl-images-amazon.com/images/I/41XCztlSoYL._SL200_.jpg)](https://www.amazon.es/dp/B07GYFM5G5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GYFM5G5/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance Fresh Foam Cruz Sport Pack Reflective Zapatillas
 
 [![New Balance Fresh Foam Cruz Sport Pack R](https://images-eu.ssl-images-amazon.com/images/I/518lCQ2dAGL._SL200_.jpg)](https://www.amazon.es/dp/B072QDPQH8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072QDPQH8/?tag=tolees-21)

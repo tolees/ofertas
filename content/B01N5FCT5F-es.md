@@ -22,7 +22,7 @@ Ahora mismo tienes [Only Onlcaprice 3/4 O-Neck Pullover Knt  suéter Mujer  Gris
 
 [![Only Onlcaprice 3/4 O-Neck Pullover Knt ](https://images-eu.ssl-images-amazon.com/images/I/413PC3LQKgL._SL200_.jpg)](https://www.amazon.es/dp/B01N5FCT5F/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N5FCT5F/?tag=tolees-21)

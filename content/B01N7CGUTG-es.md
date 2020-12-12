@@ -22,7 +22,7 @@ Ahora mismo tienes [Only Onlnew Bridget Rib 7/8 Pullover Knt Noos  suéter Mujer
 
 [![Only Onlnew Bridget Rib 7/8 Pullover Knt](https://images-eu.ssl-images-amazon.com/images/I/41yx8u-BoVL._SL200_.jpg)](https://www.amazon.es/dp/B01N7CGUTG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N7CGUTG/?tag=tolees-21)

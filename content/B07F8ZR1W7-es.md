@@ -22,7 +22,7 @@ Ahora mismo tienes [DROP SHOT Vulcano - Paletero  60 x 35 x 33 cm  Negro](https:
 
 [![DROP SHOT Vulcano - Paletero  60 x 35 x ](https://images-eu.ssl-images-amazon.com/images/I/41VnksxhL-L._SL200_.jpg)](https://www.amazon.es/dp/B07F8ZR1W7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F8ZR1W7/?tag=tolees-21)

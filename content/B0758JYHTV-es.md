@@ -22,7 +22,7 @@ Ahora mismo tienes [Vans_Apparel Subculture Hoodie  Capucha para Mujer  Marfil  
 
 [![Vans_Apparel Subculture Hoodie  Capucha ](https://images-eu.ssl-images-amazon.com/images/I/41L6km-OjqL._SL200_.jpg)](https://www.amazon.es/dp/B0758JYHTV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0758JYHTV/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance 928  Zapatillas de Senderismo para Mujer  Negro 
 
 [![New Balance 928  Zapatillas de Senderism](https://images-eu.ssl-images-amazon.com/images/I/41L-4epDkOL._SL200_.jpg)](https://www.amazon.es/dp/B01MRN4KAH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MRN4KAH/?tag=tolees-21)

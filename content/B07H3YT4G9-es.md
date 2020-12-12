@@ -22,7 +22,7 @@ Ahora mismo tienes [ONLY Onlcaviar L/s Pullover Knt Noos  Suéter para Mujer  Ve
 
 [![ONLY Onlcaviar L/s Pullover Knt Noos  Su](https://images-eu.ssl-images-amazon.com/images/I/41vBHilghiL._SL200_.jpg)](https://www.amazon.es/dp/B07H3YT4G9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07H3YT4G9/?tag=tolees-21)

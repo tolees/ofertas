@@ -22,7 +22,7 @@ Ahora mismo tienes [Volcom Ken  Mocasines para Hombre  Negro  Schwarz 001   40.5
 
 [![Volcom Ken  Mocasines para Hombre  Negro](https://images-eu.ssl-images-amazon.com/images/I/41c9elZZxIL._SL200_.jpg)](https://www.amazon.es/dp/B06X6B2CFP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06X6B2CFP/?tag=tolees-21)

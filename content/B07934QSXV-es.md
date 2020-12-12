@@ -22,7 +22,7 @@ Ahora mismo tienes [Supra Vaider  Zapatillas Altas Unisex Niños  Negro  Black/T
 
 [![Supra Vaider  Zapatillas Altas Unisex Ni](https://images-eu.ssl-images-amazon.com/images/I/41uM-9pIDkL._SL200_.jpg)](https://www.amazon.es/dp/B07934QSXV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07934QSXV/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Smurfs Figura de Vinilo Papa Smurf Funko 20120](https://www.
 
 [![Smurfs Figura de Vinilo Papa Smurf Funko](https://images-eu.ssl-images-amazon.com/images/I/41xKzGqGaPL._SL200_.jpg)](https://www.amazon.es/dp/B0716YVVDH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0716YVVDH/?tag=tolees-21)

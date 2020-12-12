@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Superstar J  Zapatillas Unisex Niños  Blanco Footwea
 
 [![adidas Superstar J  Zapatillas Unisex Ni](https://images-eu.ssl-images-amazon.com/images/I/41mPrC4aw%2BL._SL200_.jpg)](https://www.amazon.es/dp/B011LDHKMK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B011LDHKMK/?tag=tolees-21)

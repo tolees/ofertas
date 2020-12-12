@@ -22,7 +22,7 @@ Ahora mismo tienes [Newskill Hydra - Auriculares gaming rretroiluminados  Retroi
 
 [![Newskill Hydra - Auriculares gaming rret](https://images-eu.ssl-images-amazon.com/images/I/31S7ssgr4RL._SL200_.jpg)](https://www.amazon.es/dp/B071W7Q5HF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071W7Q5HF/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [SONGMICS Tumbona  Silla con Reposacabezas Desmontable y Para
 
 [![SONGMICS Tumbona  Silla con Reposacabeza](https://images-eu.ssl-images-amazon.com/images/I/41-CizMG%2BJL._SL200_.jpg)](https://www.amazon.es/dp/B07M8FC56C/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07M8FC56C/?tag=tolees-21)

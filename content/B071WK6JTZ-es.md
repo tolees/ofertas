@@ -22,7 +22,7 @@ Ahora mismo tienes [Lector Externo de CD de USB 3.0 Súper-Silm  Sonoka Grabador
 
 [![Lector Externo de CD de USB 3.0 Súper-Si](https://images-eu.ssl-images-amazon.com/images/I/41htXtrR9VL._SL200_.jpg)](https://www.amazon.es/dp/B071WK6JTZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071WK6JTZ/?tag=tolees-21)

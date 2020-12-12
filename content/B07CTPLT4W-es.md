@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour Micro G Pursuit  Zapatillas de Running para Hom
 
 [![Under Armour Micro G Pursuit  Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/41mgJueX1jL._SL200_.jpg)](https://www.amazon.es/dp/B07CTPLT4W/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CTPLT4W/?tag=tolees-21)

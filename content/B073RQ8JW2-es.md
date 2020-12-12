@@ -22,7 +22,7 @@ Ahora mismo tienes [RIP CURL Mirage Medina Edge 20" Boardsh Bañador  Hombre  Li
 
 [![RIP CURL Mirage Medina Edge 20" Boardsh ](https://images-eu.ssl-images-amazon.com/images/I/510u9KElXtL._SL200_.jpg)](https://www.amazon.es/dp/B073RQ8JW2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B073RQ8JW2/?tag=tolees-21)

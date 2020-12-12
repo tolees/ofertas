@@ -22,7 +22,7 @@ Ahora mismo tienes [Gargantia Soporte de Espalda y Hombros Corrector de Posturas
 
 [![Gargantia Soporte de Espalda y Hombros C](https://images-eu.ssl-images-amazon.com/images/I/51qL7alPjLL._SL200_.jpg)](https://www.amazon.es/dp/B07NM4XJSW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07NM4XJSW/?tag=tolees-21)

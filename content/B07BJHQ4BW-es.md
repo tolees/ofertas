@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW 3301 Deconstructed Skinny  Jeans para Hombre  Azu
 
 [![G-STAR RAW 3301 Deconstructed Skinny  Je](https://images-eu.ssl-images-amazon.com/images/I/413rTLy5IAL._SL200_.jpg)](https://www.amazon.es/dp/B07BJHQ4BW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BJHQ4BW/?tag=tolees-21)

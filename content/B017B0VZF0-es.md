@@ -22,7 +22,7 @@ Ahora mismo tienes [Tommy Hilfiger Underwear Shorty  lencería para Mujer  Blanc
 
 [![Tommy Hilfiger Underwear Shorty  lencerí](https://images-eu.ssl-images-amazon.com/images/I/4191tq%2BByTL._SL200_.jpg)](https://www.amazon.es/dp/B017B0VZF0/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B017B0VZF0/?tag=tolees-21)

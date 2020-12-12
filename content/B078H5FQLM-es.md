@@ -22,7 +22,7 @@ Ahora mismo tienes [Urban Classics Block Swim Shorts Bañador de natación  Verd
 
 [![Urban Classics Block Swim Shorts Bañador](https://images-eu.ssl-images-amazon.com/images/I/416%2BfDPGaqL._SL200_.jpg)](https://www.amazon.es/dp/B078H5FQLM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078H5FQLM/?tag=tolees-21)

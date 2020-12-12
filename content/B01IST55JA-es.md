@@ -22,7 +22,7 @@ Ahora mismo tienes [Lee Daren Zip Fly  Jeans Hombre  Azul  Clean Splash   W32/L3
 
 [![Lee Daren Zip Fly  Jeans Hombre  Azul  C](https://images-eu.ssl-images-amazon.com/images/I/41gP6l6lYsL._SL200_.jpg)](https://www.amazon.es/dp/B01IST55JA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01IST55JA/?tag=tolees-21)

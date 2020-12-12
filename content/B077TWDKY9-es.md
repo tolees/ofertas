@@ -22,7 +22,7 @@ Ahora mismo tienes [Reebok Sprint TR  Zapatillas de Deporte para Hombre  Azul  C
 
 [![Reebok Sprint TR  Zapatillas de Deporte ](https://images-eu.ssl-images-amazon.com/images/I/41E941D3F7L._SL200_.jpg)](https://www.amazon.es/dp/B077TWDKY9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077TWDKY9/?tag=tolees-21)

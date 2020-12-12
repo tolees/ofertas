@@ -22,7 +22,7 @@ Ahora mismo tienes [Almohadillas para el antepié  almohadillas de gel para meta
 
 [![Almohadillas para el antepié  almohadill](https://images-eu.ssl-images-amazon.com/images/I/41YaxQWukPL._SL200_.jpg)](https://www.amazon.es/dp/B07QCRNLF1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07QCRNLF1/?tag=tolees-21)

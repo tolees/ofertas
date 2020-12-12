@@ -22,7 +22,7 @@ Ahora mismo tienes [SYROKAN - Sujetador Deportivo Máximo Soporte Sin Relleno pa
 
 [![SYROKAN - Sujetador Deportivo Máximo Sop](https://images-eu.ssl-images-amazon.com/images/I/51JlOLMx4ML._SL200_.jpg)](https://www.amazon.es/dp/B01N43HANK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N43HANK/?tag=tolees-21)

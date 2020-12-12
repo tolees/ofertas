@@ -22,7 +22,7 @@ Ahora mismo tienes [Adidas CF Refresh Mid K  Zapatillas de Deporte Unisex Adulto
 
 [![Adidas CF Refresh Mid K  Zapatillas de D](https://images-eu.ssl-images-amazon.com/images/I/41pRCEssOIL._SL200_.jpg)](https://www.amazon.es/dp/B077VY1YF2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077VY1YF2/?tag=tolees-21)

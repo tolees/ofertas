@@ -22,7 +22,7 @@ Ahora mismo tienes [Polaroid IX2020 – Videocámara compacta  1080 píxeles 
 
 [![Polaroid IX2020 – Videocámara compacta  ]()](https://www.amazon.es/dp/B01GFGXDH4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01GFGXDH4/?tag=tolees-21)

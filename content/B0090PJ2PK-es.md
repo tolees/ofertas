@@ -22,7 +22,7 @@ Ahora mismo tienes [Curver 193009 - Cesta de ropa Natural Style  con tapa config
 
 [![Curver 193009 - Cesta de ropa Natural St]()](https://www.amazon.es/dp/B0090PJ2PK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0090PJ2PK/?tag=tolees-21)

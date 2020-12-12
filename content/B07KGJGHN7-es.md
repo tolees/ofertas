@@ -22,7 +22,7 @@ Ahora mismo tienes [Buff R-Loom Gorra  Unisex Adulto  Talla Unica](https://www.a
 
 [![Buff R-Loom Gorra  Unisex Adulto  Talla ](https://images-eu.ssl-images-amazon.com/images/I/41y2oX0cu7L._SL200_.jpg)](https://www.amazon.es/dp/B07KGJGHN7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KGJGHN7/?tag=tolees-21)

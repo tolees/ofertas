@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jcorotto Sweat Hood  Capucha para Hombre  Gris 
 
 [![JACK & JONES Jcorotto Sweat Hood  Capuch](https://images-eu.ssl-images-amazon.com/images/I/41Ur4OFe3VL._SL200_.jpg)](https://www.amazon.es/dp/B07GNVXM19/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GNVXM19/?tag=tolees-21)

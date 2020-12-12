@@ -22,7 +22,7 @@ Ahora mismo tienes [Motorola Moto E5 - Smartphone de 5.7"  Cámara DE 13 MP  Mem
 
 [![Motorola Moto E5 - Smartphone de 5.7"  C](https://images-eu.ssl-images-amazon.com/images/I/411NegxW7SL._SL200_.jpg)](https://www.amazon.es/dp/B07D97FBMQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D97FBMQ/?tag=tolees-21)

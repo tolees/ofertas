@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour UA W Remix  Zapatillas de Running para Mujer  B
 
 [![Under Armour UA W Remix  Zapatillas de R](https://images-eu.ssl-images-amazon.com/images/I/416mLBZ5-bL._SL200_.jpg)](https://www.amazon.es/dp/B07BHB4F96/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BHB4F96/?tag=tolees-21)

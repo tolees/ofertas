@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance Gw500v1  Zapatillas de Deporte para Mujer  Rosa 
 
 [![New Balance Gw500v1  Zapatillas de Depor](https://images-eu.ssl-images-amazon.com/images/I/41mZ32cC%2BwL._SL200_.jpg)](https://www.amazon.es/dp/B07DFSV718/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DFSV718/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Nemeziz Messi 18.4 FxG J  Zapatillas de Fútbol para 
 
 [![adidas Nemeziz Messi 18.4 FxG J  Zapatil](https://images-eu.ssl-images-amazon.com/images/I/41deMLGPwOL._SL200_.jpg)](https://www.amazon.es/dp/B07K18J7SQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07K18J7SQ/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Solac SW8230 Cotton 16.0 Máquina de Coser Mecánica con 16 
 
 [![Solac SW8230 Cotton 16.0 Máquina de Cose](https://images-eu.ssl-images-amazon.com/images/I/41npvUoEskL._SL200_.jpg)](https://www.amazon.es/dp/B07C8MX2XC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07C8MX2XC/?tag=tolees-21)

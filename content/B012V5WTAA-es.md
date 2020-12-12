@@ -22,7 +22,7 @@ Ahora mismo tienes [Vans_Apparel V56 Standard  Jeans Rectos para Hombre  Negro  
 
 [![Vans_Apparel V56 Standard  Jeans Rectos ](https://images-eu.ssl-images-amazon.com/images/I/41VvI9FiSPL._SL200_.jpg)](https://www.amazon.es/dp/B012V5WTAA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B012V5WTAA/?tag=tolees-21)

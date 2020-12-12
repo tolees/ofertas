@@ -22,7 +22,7 @@ Ahora mismo tienes [BLACK+DECKER KG115K-QS - Amoladora 750W de 115mm](https://ww
 
 [![BLACK+DECKER KG115K-QS - Amoladora 750W ](https://images-eu.ssl-images-amazon.com/images/I/41zQc3eFcnL._SL200_.jpg)](https://www.amazon.es/dp/B01CCMV1V0/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01CCMV1V0/?tag=tolees-21)

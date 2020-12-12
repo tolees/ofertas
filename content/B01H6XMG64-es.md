@@ -22,7 +22,7 @@ Ahora mismo tienes [GRÜNTEK Tijeras de podar jardín  195 mm  Tucan. Tijera de 
 
 [![GRÜNTEK Tijeras de podar jardín  195 mm ](https://images-eu.ssl-images-amazon.com/images/I/41-jI3UMNeL._SL200_.jpg)](https://www.amazon.es/dp/B01H6XMG64/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01H6XMG64/?tag=tolees-21)

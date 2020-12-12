@@ -22,7 +22,7 @@ Ahora mismo tienes [Metaltex - Juego 3 Fundas P/Abrigo 65X140 751708](https://ww
 
 [![Metaltex - Juego 3 Fundas P/Abrigo 65X14](https://images-eu.ssl-images-amazon.com/images/I/41r-wRwO46L._SL200_.jpg)](https://www.amazon.es/dp/B00WV05PAC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00WV05PAC/?tag=tolees-21)

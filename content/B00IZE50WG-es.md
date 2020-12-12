@@ -22,7 +22,7 @@ Ahora mismo tienes [Casio Collection LTP-1281PD-1A  Reloj Análogo Clásico  Ace
 
 [![Casio Collection LTP-1281PD-1A  Reloj An](https://images-eu.ssl-images-amazon.com/images/I/41F2Tb7IeHL._SL200_.jpg)](https://www.amazon.es/dp/B00IZE50WG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00IZE50WG/?tag=tolees-21)

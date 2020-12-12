@@ -22,7 +22,7 @@ Ahora mismo tienes [Raqueta de tenis junior  bastidor de aluminio de carbono de 
 
 [![Raqueta de tenis junior  bastidor de alu](https://images-eu.ssl-images-amazon.com/images/I/41bCFxCBtLL._SL200_.jpg)](https://www.amazon.es/dp/B07GZN883T/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GZN883T/?tag=tolees-21)

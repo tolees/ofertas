@@ -22,7 +22,7 @@ Ahora mismo tienes [Tuscany Silver Mujer Plata de ley  925/1000  plata](https://
 
 [![Tuscany Silver Mujer Plata de ley  925/1](https://images-eu.ssl-images-amazon.com/images/I/41jA-AfrSAL._SL200_.jpg)](https://www.amazon.es/dp/B06Y5YLWXH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06Y5YLWXH/?tag=tolees-21)

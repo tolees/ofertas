@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Balboa Short PL800695  Pantalones Cortos para Muj
 
 [![Pepe Jeans Balboa Short PL800695  Pantal](https://images-eu.ssl-images-amazon.com/images/I/41IroANDiwL._SL200_.jpg)](https://www.amazon.es/dp/B0779LLFKZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0779LLFKZ/?tag=tolees-21)

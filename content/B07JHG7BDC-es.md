@@ -22,7 +22,7 @@ Ahora mismo tienes [ABOX Envasadora al Vacío  5 en 1 Sellador al Vacío Domést
 
 [![ABOX Envasadora al Vacío  5 en 1 Sellado](https://images-eu.ssl-images-amazon.com/images/I/41rY%2B81BTxL._SL200_.jpg)](https://www.amazon.es/dp/B07JHG7BDC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JHG7BDC/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Amores Perros Edición Coleccionista Blu.Ray [Blu-ray]](http
 
 [![Amores Perros Edición Coleccionista Blu.](https://images-eu.ssl-images-amazon.com/images/I/61KZVNG2llL._SL200_.jpg)](https://www.amazon.es/dp/B06XWT2GLC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XWT2GLC/?tag=tolees-21)

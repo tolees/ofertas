@@ -22,7 +22,7 @@ Ahora mismo tienes [CEB - Calzado de protecciÃ³n de cuero para hombre MarrÃ³
 
 [![CEB - Calzado de protecciÃ³n de cuero pa](https://images-eu.ssl-images-amazon.com/images/I/410J%2BCGyUEL._SL200_.jpg)](https://www.amazon.es/dp/B000V3NSW8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B000V3NSW8/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Desigual - Bols_eden Amberes  Bolsos bandolera Mujer  Negro 
 
 [![Desigual - Bols_eden Amberes  Bolsos ban](https://images-eu.ssl-images-amazon.com/images/I/51PBQHQVwAL._SL200_.jpg)](https://www.amazon.es/dp/B079W2M2YQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079W2M2YQ/?tag=tolees-21)

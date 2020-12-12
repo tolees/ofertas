@@ -22,7 +22,7 @@ Ahora mismo tienes [Reloj Casio - Mujer W-214H-4A](https://www.amazon.es/dp/B004
 
 [![Reloj Casio - Mujer W-214H-4A](https://images-eu.ssl-images-amazon.com/images/I/51Yq3Ag53LL._SL200_.jpg)](https://www.amazon.es/dp/B004FI1Z3Y/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B004FI1Z3Y/?tag=tolees-21)

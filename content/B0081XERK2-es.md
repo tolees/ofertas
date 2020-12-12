@@ -22,7 +22,7 @@ Ahora mismo tienes [Buffalo London 11840 Crazy Horse 123852 - Botas de Cuero Nob
 
 [![Buffalo London 11840 Crazy Horse 123852 ](https://images-eu.ssl-images-amazon.com/images/I/41rA2kjEsbL._SL200_.jpg)](https://www.amazon.es/dp/B0081XERK2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0081XERK2/?tag=tolees-21)

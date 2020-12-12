@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers Performance 15200  Zapatillas Deportivas para Inter
 
 [![Skechers Performance 15200  Zapatillas D](https://images-eu.ssl-images-amazon.com/images/I/41dNNuFiEEL._SL200_.jpg)](https://www.amazon.es/dp/B073GCN1DV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B073GCN1DV/?tag=tolees-21)

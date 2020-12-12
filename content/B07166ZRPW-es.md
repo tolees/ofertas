@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s Linden Cinturón  Marrón  Dark Brown 29   90 para Ho
 
 [![Levi s Linden Cinturón  Marrón  Dark Bro](https://images-eu.ssl-images-amazon.com/images/I/4147NdIJOLL._SL200_.jpg)](https://www.amazon.es/dp/B07166ZRPW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07166ZRPW/?tag=tolees-21)

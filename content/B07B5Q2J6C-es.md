@@ -22,7 +22,7 @@ Ahora mismo tienes [Frozen Bolsa de Aseo  color Verde - 1 Pieza](https://www.ama
 
 [![Frozen Bolsa de Aseo  color Verde - 1 Pi](https://images-eu.ssl-images-amazon.com/images/I/51y-DZi3uQL._SL200_.jpg)](https://www.amazon.es/dp/B07B5Q2J6C/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07B5Q2J6C/?tag=tolees-21)

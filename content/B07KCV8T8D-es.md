@@ -22,7 +22,7 @@ Ahora mismo tienes [David Jones - Cm5081  Bolsos bolera Mujer  Verde  D.Green   
 
 [![David Jones - Cm5081  Bolsos bolera Muje](https://images-eu.ssl-images-amazon.com/images/I/41gtd44Zn5L._SL200_.jpg)](https://www.amazon.es/dp/B07KCV8T8D/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KCV8T8D/?tag=tolees-21)

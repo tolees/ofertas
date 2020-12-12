@@ -22,7 +22,7 @@ Ahora mismo tienes [Philips Afeitadora - 800 gr](https://www.amazon.es/dp/B01F7S
 
 [![Philips Afeitadora - 800 gr](https://images-eu.ssl-images-amazon.com/images/I/31kSAxW3AQL._SL200_.jpg)](https://www.amazon.es/dp/B01F7SANTM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01F7SANTM/?tag=tolees-21)

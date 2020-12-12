@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Rush Wn s  Zapatillas Deportivas para Interior para Muj
 
 [![Puma Rush Wn s  Zapatillas Deportivas pa](https://images-eu.ssl-images-amazon.com/images/I/418bo1kTyiL._SL200_.jpg)](https://www.amazon.es/dp/B01N76TTXV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N76TTXV/?tag=tolees-21)

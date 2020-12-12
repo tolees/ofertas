@@ -22,7 +22,7 @@ Ahora mismo tienes [Lorus Reloj Cronógrafo para Hombre de Cuarzo con Correa en 
 
 [![Lorus Reloj Cronógrafo para Hombre de Cu](https://images-eu.ssl-images-amazon.com/images/I/511E4HUHgpL._SL200_.jpg)](https://www.amazon.es/dp/B075ZP8CFM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075ZP8CFM/?tag=tolees-21)

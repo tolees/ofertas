@@ -22,7 +22,7 @@ Ahora mismo tienes [Gant Rugby Stripe Swim Shorts C.f Bañador  Azul  Poseidon B
 
 [![Gant Rugby Stripe Swim Shorts C.f Bañado](https://images-eu.ssl-images-amazon.com/images/I/41y9uSRSTwL._SL200_.jpg)](https://www.amazon.es/dp/B07KPQ73RX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KPQ73RX/?tag=tolees-21)

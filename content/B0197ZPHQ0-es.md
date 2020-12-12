@@ -22,7 +22,7 @@ Ahora mismo tienes [VAUDE Brenta 40 Mochila  Unisex Adulto  Negro  40/49 l](http
 
 [![VAUDE Brenta 40 Mochila  Unisex Adulto  ](https://images-eu.ssl-images-amazon.com/images/I/41dKVaIPI7L._SL200_.jpg)](https://www.amazon.es/dp/B0197ZPHQ0/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0197ZPHQ0/?tag=tolees-21)

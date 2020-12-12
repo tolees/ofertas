@@ -22,7 +22,7 @@ Ahora mismo tienes [Panasonic ES-WH90 Luz pulsada intensa  IPL  Color blanco - D
 
 [![Panasonic ES-WH90 Luz pulsada intensa  I](https://images-eu.ssl-images-amazon.com/images/I/31pIYTUx1dL._SL200_.jpg)](https://www.amazon.es/dp/B01FR382JK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01FR382JK/?tag=tolees-21)

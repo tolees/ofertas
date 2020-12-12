@@ -22,7 +22,7 @@ Ahora mismo tienes [ELINKUME® LED cadena ligera con 20 bolas de algodón  De co
 
 [![ELINKUME® LED cadena ligera con 20 bolas](https://images-eu.ssl-images-amazon.com/images/I/51wMUq%2B5ZaL._SL200_.jpg)](https://www.amazon.es/dp/B07CZZLS4X/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CZZLS4X/?tag=tolees-21)

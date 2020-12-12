@@ -22,7 +22,7 @@ Ahora mismo tienes [homgeek  Cuchillo Chef  Cuchillo de Cocina para Cocineros y 
 
 [![homgeek  Cuchillo Chef  Cuchillo de Coci](https://images-eu.ssl-images-amazon.com/images/I/41VH3znldNL._SL200_.jpg)](https://www.amazon.es/dp/B0773MSZVP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0773MSZVP/?tag=tolees-21)

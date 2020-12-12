@@ -22,7 +22,7 @@ Ahora mismo tienes [Plextone 24 colores impermeable sensor de movimiento LED ino
 
 [![Plextone 24 colores impermeable sensor d](https://images-eu.ssl-images-amazon.com/images/I/41Eq-gk%2BhGL._SL200_.jpg)](https://www.amazon.es/dp/B07MQ4FMVT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MQ4FMVT/?tag=tolees-21)

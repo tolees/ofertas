@@ -22,7 +22,7 @@ Ahora mismo tienes [Hoidokly Cargador Inalámbrico Rápido Qi  10W Fast Wireless
 
 [![Hoidokly Cargador Inalámbrico Rápido Qi ](https://images-eu.ssl-images-amazon.com/images/I/310sixc8QqL._SL200_.jpg)](https://www.amazon.es/dp/B07H2XBN2K/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07H2XBN2K/?tag=tolees-21)

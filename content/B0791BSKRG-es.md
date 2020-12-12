@@ -22,7 +22,7 @@ Ahora mismo tienes [Excelvan 3-en-1 Batidora de Mano 800W DC Motor  con Función
 
 [![Excelvan 3-en-1 Batidora de Mano 800W DC](https://images-eu.ssl-images-amazon.com/images/I/419yDUerKCL._SL200_.jpg)](https://www.amazon.es/dp/B0791BSKRG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0791BSKRG/?tag=tolees-21)

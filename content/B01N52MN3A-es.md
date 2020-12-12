@@ -22,7 +22,7 @@ Ahora mismo tienes [Dockers Washed Khaki Skinny TPR Pantalones  Gris  Steelhead 
 
 [![Dockers Washed Khaki Skinny TPR Pantalon](https://images-eu.ssl-images-amazon.com/images/I/31Zt3TGz-oL._SL200_.jpg)](https://www.amazon.es/dp/B01N52MN3A/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N52MN3A/?tag=tolees-21)

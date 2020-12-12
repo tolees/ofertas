@@ -22,7 +22,7 @@ Ahora mismo tienes [Dafunna Calcetines de Compresión Medias de Compresión Grad
 
 [![Dafunna Calcetines de Compresión Medias ](https://images-eu.ssl-images-amazon.com/images/I/41-ADa196HL._SL200_.jpg)](https://www.amazon.es/dp/B077HFNYBH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077HFNYBH/?tag=tolees-21)

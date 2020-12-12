@@ -22,7 +22,7 @@ Ahora mismo tienes [NANOCABLE 10.20.0102 - Cable de Red Ethernet RJ45 Cat.5e UTP
 
 [![NANOCABLE 10.20.0102 - Cable de Red Ethe](https://images-eu.ssl-images-amazon.com/images/I/318aGgAVv%2BL._SL200_.jpg)](https://www.amazon.es/dp/B0092DDFIA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0092DDFIA/?tag=tolees-21)

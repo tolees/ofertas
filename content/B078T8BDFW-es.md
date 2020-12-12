@@ -22,7 +22,7 @@ Ahora mismo tienes [Columbia Youth Minx Mid III WP Omni-Heat  Botas de Nieve par
 
 [![Columbia Youth Minx Mid III WP Omni-Heat](https://images-eu.ssl-images-amazon.com/images/I/41JxocS%2BP4L._SL200_.jpg)](https://www.amazon.es/dp/B078T8BDFW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078T8BDFW/?tag=tolees-21)

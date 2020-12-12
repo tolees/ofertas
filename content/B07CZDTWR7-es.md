@@ -22,7 +22,7 @@ Ahora mismo tienes [Bovon Soporte Móvil Coche  Soporte Movil Coche Universal pa
 
 [![Bovon Soporte Móvil Coche  Soporte Movil](https://images-eu.ssl-images-amazon.com/images/I/512%2BYUiKMrL._SL200_.jpg)](https://www.amazon.es/dp/B07CZDTWR7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CZDTWR7/?tag=tolees-21)

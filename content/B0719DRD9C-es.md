@@ -22,7 +22,7 @@ Ahora mismo tienes [Asics Gel-Fujitrabuco 6  Zapatillas de Running para Hombre  
 
 [![Asics Gel-Fujitrabuco 6  Zapatillas de R](https://images-eu.ssl-images-amazon.com/images/I/41vTe5i4VXL._SL200_.jpg)](https://www.amazon.es/dp/B0719DRD9C/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0719DRD9C/?tag=tolees-21)

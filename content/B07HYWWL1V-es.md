@@ -22,7 +22,7 @@ Ahora mismo tienes [Panel LED apto para exterior  IP44   a empotrar o de superfi
 
 [![Panel LED apto para exterior  IP44   a e](https://images-eu.ssl-images-amazon.com/images/I/314PwawIInL._SL200_.jpg)](https://www.amazon.es/dp/B07HYWWL1V/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07HYWWL1V/?tag=tolees-21)

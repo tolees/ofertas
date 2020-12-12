@@ -22,7 +22,7 @@ Ahora mismo tienes [Superga 2750 Cotbumpvel  Zapatillas de Gimnasia Unisex Niño
 
 [![Superga 2750 Cotbumpvel  Zapatillas de G](https://images-eu.ssl-images-amazon.com/images/I/41bVSPJVUvL._SL200_.jpg)](https://www.amazon.es/dp/B0784H1SCD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0784H1SCD/?tag=tolees-21)

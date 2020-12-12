@@ -22,7 +22,7 @@ Ahora mismo tienes [Knorr - Las Cremas - Selección de verduras - 1 l - [Pack de
 
 [![Knorr - Las Cremas - Selección de verdur](https://images-eu.ssl-images-amazon.com/images/I/51MmUIRCA7L._SL200_.jpg)](https://www.amazon.es/dp/B01MREG1GE/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MREG1GE/?tag=tolees-21)

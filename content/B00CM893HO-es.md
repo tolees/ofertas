@@ -22,7 +22,7 @@ Ahora mismo tienes [Rocks-Off Vibrador - 200 gr](https://www.amazon.es/dp/B00CM8
 
 [![Rocks-Off Vibrador - 200 gr](https://images-eu.ssl-images-amazon.com/images/I/31hbFEXPHrL._SL200_.jpg)](https://www.amazon.es/dp/B00CM893HO/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00CM893HO/?tag=tolees-21)

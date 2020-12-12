@@ -22,7 +22,7 @@ Ahora mismo tienes [Victoria](https://www.amazon.es/dp/B004N5AGJ8/?tag=tolees-21
 
 [![Victoria](https://images-eu.ssl-images-amazon.com/images/I/41aCiGBQ9xL._SL200_.jpg)](https://www.amazon.es/dp/B004N5AGJ8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B004N5AGJ8/?tag=tolees-21)

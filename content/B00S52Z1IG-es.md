@@ -22,7 +22,7 @@ Ahora mismo tienes [Smartwares 10.014.68 Extintor-2kg de Polvo seco Resistencia 
 
 [![Smartwares 10.014.68 Extintor-2kg de Pol](https://images-eu.ssl-images-amazon.com/images/I/41xeZetYjjL._SL200_.jpg)](https://www.amazon.es/dp/B00S52Z1IG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00S52Z1IG/?tag=tolees-21)

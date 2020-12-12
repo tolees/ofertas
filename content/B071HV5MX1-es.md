@@ -22,7 +22,7 @@ Ahora mismo tienes [Marco Tozzi 26213  Botas para Mujer  Amarillo  Corn Antic Co
 
 [![Marco Tozzi 26213  Botas para Mujer  Ama](https://images-eu.ssl-images-amazon.com/images/I/51x4JJIlYWL._SL200_.jpg)](https://www.amazon.es/dp/B071HV5MX1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071HV5MX1/?tag=tolees-21)

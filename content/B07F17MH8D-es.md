@@ -22,7 +22,7 @@ Ahora mismo tienes [AmazonBasics - Bridas de nailon  varias longitudes de 15 cm 
 
 [![AmazonBasics - Bridas de nailon  varias ](https://images-eu.ssl-images-amazon.com/images/I/41JQXdYH%2BQL._SL200_.jpg)](https://www.amazon.es/dp/B07F17MH8D/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F17MH8D/?tag=tolees-21)

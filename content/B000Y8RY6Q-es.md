@@ -22,7 +22,7 @@ Ahora mismo tienes [DeWalt Hoja de Sierra de calar HCS  DT2074-QZ  Negro  Gris](
 
 [![DeWalt Hoja de Sierra de calar HCS  DT20](https://images-eu.ssl-images-amazon.com/images/I/31B1wf1p%2BLL._SL200_.jpg)](https://www.amazon.es/dp/B000Y8RY6Q/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B000Y8RY6Q/?tag=tolees-21)

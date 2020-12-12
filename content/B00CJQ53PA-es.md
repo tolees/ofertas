@@ -22,7 +22,7 @@ Ahora mismo tienes [Star Wars - Disfraz de Darth Vader para mascota  Talla S per
 
 [![Star Wars - Disfraz de Darth Vader para ](https://images-eu.ssl-images-amazon.com/images/I/41rrucYPwBL._SL200_.jpg)](https://www.amazon.es/dp/B00CJQ53PA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00CJQ53PA/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Liderpapel Pizarra Negra Caballete Y Marco De Madera Con Sup
 
 [![Liderpapel Pizarra Negra Caballete Y Mar](https://images-eu.ssl-images-amazon.com/images/I/416BFGOWLCL._SL200_.jpg)](https://www.amazon.es/dp/B00K74GRG0/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00K74GRG0/?tag=tolees-21)

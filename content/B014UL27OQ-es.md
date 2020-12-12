@@ -22,7 +22,7 @@ Ahora mismo tienes [Bosch SilentMixx MMB65G0M - Batidora de vaso  800 W  2.3 lit
 
 [![Bosch SilentMixx MMB65G0M - Batidora de ](https://images-eu.ssl-images-amazon.com/images/I/41AirKDCkyL._SL200_.jpg)](https://www.amazon.es/dp/B014UL27OQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B014UL27OQ/?tag=tolees-21)

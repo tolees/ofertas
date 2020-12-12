@@ -22,7 +22,7 @@ Ahora mismo tienes [Nasjac Kit de Brochas Maquillaje 14 piezas cerdas de fibra  
 
 [![Nasjac Kit de Brochas Maquillaje 14 piez](https://images-eu.ssl-images-amazon.com/images/I/41YCjZwG5PL._SL200_.jpg)](https://www.amazon.es/dp/B07PHGWSK1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07PHGWSK1/?tag=tolees-21)

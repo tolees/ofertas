@@ -22,7 +22,7 @@ Ahora mismo tienes [Amazon Essentials Loose-Fit Short-Sleeve Stripe Crewneck T-S
 
 [![Amazon Essentials Loose-Fit Short-Sleeve](https://images-eu.ssl-images-amazon.com/images/I/41soFLmfo4L._SL200_.jpg)](https://www.amazon.es/dp/B07HH43LZL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07HH43LZL/?tag=tolees-21)

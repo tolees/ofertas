@@ -22,7 +22,7 @@ Ahora mismo tienes [Maped - Juego de sacapuntas de 1 orificio en caja expositora
 
 [![Maped - Juego de sacapuntas de 1 orifici](https://images-eu.ssl-images-amazon.com/images/I/41nFjh0q6cL._SL200_.jpg)](https://www.amazon.es/dp/B001PN1A0U/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B001PN1A0U/?tag=tolees-21)

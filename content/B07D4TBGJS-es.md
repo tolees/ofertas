@@ -22,7 +22,7 @@ Ahora mismo tienes [Kappa Moxie  Zapatillas Unisex Niños  Negro  Black 1111   3
 
 [![Kappa Moxie  Zapatillas Unisex Niños  Ne](https://images-eu.ssl-images-amazon.com/images/I/41QDr6xyK0L._SL200_.jpg)](https://www.amazon.es/dp/B07D4TBGJS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D4TBGJS/?tag=tolees-21)

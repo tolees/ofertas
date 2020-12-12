@@ -22,7 +22,7 @@ Ahora mismo tienes [Salomon Medium Impact Sujetador  Mujer  Naranja  Bird of Par
 
 [![Salomon Medium Impact Sujetador  Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/51IJyE-7a3L._SL200_.jpg)](https://www.amazon.es/dp/B0754RZMR1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0754RZMR1/?tag=tolees-21)

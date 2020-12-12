@@ -22,7 +22,7 @@ Ahora mismo tienes [Pop! Titanic - Figura de Vinilo Jack](https://www.amazon.es/
 
 [![Pop! Titanic - Figura de Vinilo Jack](https://images-eu.ssl-images-amazon.com/images/I/41-yALrtumL._SL200_.jpg)](https://www.amazon.es/dp/B07HB4VW3M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07HB4VW3M/?tag=tolees-21)

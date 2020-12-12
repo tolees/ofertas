@@ -22,7 +22,7 @@ Ahora mismo tienes [RAVPower Cargador Panel Solar 16W  Dual USB Puertos  Intelig
 
 [![RAVPower Cargador Panel Solar 16W  Dual ](https://images-eu.ssl-images-amazon.com/images/I/41nG-h5asbL._SL200_.jpg)](https://www.amazon.es/dp/B00PVQ5DXM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00PVQ5DXM/?tag=tolees-21)

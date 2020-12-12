@@ -22,7 +22,7 @@ Ahora mismo tienes [SuenosZzz Confort MAX Sillon DE Relax con Reclinación Manua
 
 [![SuenosZzz Confort MAX Sillon DE Relax co](https://images-eu.ssl-images-amazon.com/images/I/41Ok-P8xsuL._SL200_.jpg)](https://www.amazon.es/dp/B07BH2LQ5F/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BH2LQ5F/?tag=tolees-21)

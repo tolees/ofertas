@@ -22,7 +22,7 @@ Ahora mismo tienes [Etnies Scout  Zapatillas de Skateboard para Hombre  Azul  Na
 
 [![Etnies Scout  Zapatillas de Skateboard p](https://images-eu.ssl-images-amazon.com/images/I/41dpLXOKw9L._SL200_.jpg)](https://www.amazon.es/dp/B074KQGBLF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074KQGBLF/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Apple iPad Pro - Tablet de 10.5"  512 GB con Wi-Fi  oro rosa
 
 [![Apple iPad Pro - Tablet de 10.5"  512 GB](https://images-eu.ssl-images-amazon.com/images/I/41OrOw0lqUL._SL200_.jpg)](https://www.amazon.es/dp/B071GD3MVS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071GD3MVS/?tag=tolees-21)

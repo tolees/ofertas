@@ -22,7 +22,7 @@ Ahora mismo tienes [Quiksilver Time Box Woven Top  Hombre  Black  L](https://www
 
 [![Quiksilver Time Box Woven Top  Hombre  B](https://images-eu.ssl-images-amazon.com/images/I/4111E-YK4IL._SL200_.jpg)](https://www.amazon.es/dp/B07KK1TNVS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KK1TNVS/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Merrell Trail Glove 3 - Zapatillas de Running para Asfalto H
 
 [![Merrell Trail Glove 3 - Zapatillas de Ru](https://images-eu.ssl-images-amazon.com/images/I/41tiyWMALAL._SL200_.jpg)](https://www.amazon.es/dp/B00RAP4X4C/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00RAP4X4C/?tag=tolees-21)

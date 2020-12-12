@@ -22,7 +22,7 @@ Ahora mismo tienes [Reebok Royal Glide  Zapatillas de Gimnasia para Hombre  Negr
 
 [![Reebok Royal Glide  Zapatillas de Gimnas](https://images-eu.ssl-images-amazon.com/images/I/31r3itW2EBL._SL200_.jpg)](https://www.amazon.es/dp/B07K7VNQHV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07K7VNQHV/?tag=tolees-21)

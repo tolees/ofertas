@@ -22,7 +22,7 @@ Ahora mismo tienes [Converse Chuck Taylor All Star Season Ox  Zapatillas de Tela
 
 [![Converse Chuck Taylor All Star Season Ox](https://images-eu.ssl-images-amazon.com/images/I/41zJvHXrRFL._SL200_.jpg)](https://www.amazon.es/dp/B000E23WYA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B000E23WYA/?tag=tolees-21)

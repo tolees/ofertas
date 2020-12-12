@@ -22,7 +22,7 @@ Ahora mismo tienes [Rock Off 07897 - Taza  diseño U2 War](https://www.amazon.es
 
 [![Rock Off 07897 - Taza  diseño U2 War](https://images-eu.ssl-images-amazon.com/images/I/61yUdZajIUL._SL200_.jpg)](https://www.amazon.es/dp/B0038KUZPY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0038KUZPY/?tag=tolees-21)

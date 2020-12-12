@@ -22,7 +22,7 @@ Ahora mismo tienes [Podspeakers Micropod SE MK III - Altavoz inalámbrico  Negro
 
 [![Podspeakers Micropod SE MK III - Altavoz](https://images-eu.ssl-images-amazon.com/images/I/31Wbhb4RvcL._SL200_.jpg)](https://www.amazon.es/dp/B074HCQWJY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074HCQWJY/?tag=tolees-21)

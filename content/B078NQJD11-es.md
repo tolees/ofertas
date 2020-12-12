@@ -22,7 +22,7 @@ Ahora mismo tienes [Auxmir Espejo Maquillaje con Luz LED 7X de Aumento Espejo Co
 
 [![Auxmir Espejo Maquillaje con Luz LED 7X ](https://images-eu.ssl-images-amazon.com/images/I/41%2B0MNdPutL._SL200_.jpg)](https://www.amazon.es/dp/B078NQJD11/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078NQJD11/?tag=tolees-21)

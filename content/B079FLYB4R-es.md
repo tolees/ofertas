@@ -22,7 +22,7 @@ Ahora mismo tienes [South Park: La Vara De La Verdad](https://www.amazon.es/dp/B
 
 [![South Park: La Vara De La Verdad](https://images-eu.ssl-images-amazon.com/images/I/51jX3GEISdL._SL200_.jpg)](https://www.amazon.es/dp/B079FLYB4R/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079FLYB4R/?tag=tolees-21)

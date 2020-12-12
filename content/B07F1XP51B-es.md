@@ -22,7 +22,7 @@ Ahora mismo tienes [K-Swiss Bridgeport II  Zapatillas Unisex Adulto  Azul  Navy/
 
 [![K-Swiss Bridgeport II  Zapatillas Unisex](https://images-eu.ssl-images-amazon.com/images/I/319g6G52FcL._SL200_.jpg)](https://www.amazon.es/dp/B07F1XP51B/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F1XP51B/?tag=tolees-21)

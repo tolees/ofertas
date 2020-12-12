@@ -22,7 +22,7 @@ Ahora mismo tienes [ITACA - Maleta Cabina de Viaje Rígida 4 Ruedas Trolley 55 c
 
 [![ITACA - Maleta Cabina de Viaje Rígida 4 ](https://images-eu.ssl-images-amazon.com/images/I/41USKvV5UIL._SL200_.jpg)](https://www.amazon.es/dp/B079Z5JHJ8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079Z5JHJ8/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [YUECHAO - Látigo de Caballo  Color Negro](https://www.amazo
 
 [![YUECHAO - Látigo de Caballo  Color Negro](https://images-eu.ssl-images-amazon.com/images/I/41Ss9Jq5g2L._SL200_.jpg)](https://www.amazon.es/dp/B07MZ2GDB8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MZ2GDB8/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Zanmini Térmo  Botella de Agua aislada al vacío  de Acero 
 
 [![Zanmini Térmo  Botella de Agua aislada a](https://images-eu.ssl-images-amazon.com/images/I/513EmeBNlQL._SL200_.jpg)](https://www.amazon.es/dp/B076ZLTB19/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B076ZLTB19/?tag=tolees-21)

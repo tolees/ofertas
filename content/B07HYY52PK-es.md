@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike Downshifter 8  GS   Zapatillas de Deporte para Hombre  
 
 [![Nike Downshifter 8  GS   Zapatillas de D](https://images-eu.ssl-images-amazon.com/images/I/41shbbhAscL._SL200_.jpg)](https://www.amazon.es/dp/B07HYY52PK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07HYY52PK/?tag=tolees-21)

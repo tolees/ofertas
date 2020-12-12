@@ -22,7 +22,7 @@ Ahora mismo tienes [Superga 2750 Jcot Classic Zapatillas Infatil  Negro  Full Bl
 
 [![Superga 2750 Jcot Classic Zapatillas Inf](https://images-eu.ssl-images-amazon.com/images/I/41f%2BQZQSRyL._SL200_.jpg)](https://www.amazon.es/dp/B0049SQC4W/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0049SQC4W/?tag=tolees-21)

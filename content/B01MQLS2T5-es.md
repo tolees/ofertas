@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance Vazee Prism V2  Zapatillas de Running para Hombr
 
 [![New Balance Vazee Prism V2  Zapatillas d](https://images-eu.ssl-images-amazon.com/images/I/41tuSB-RAVL._SL200_.jpg)](https://www.amazon.es/dp/B01MQLS2T5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MQLS2T5/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Aurelie Pantalones    Blue 551   W32 Taille Fabri
 
 [![Pepe Jeans Aurelie Pantalones    Blue 55](https://images-eu.ssl-images-amazon.com/images/I/31tNas1Q43L._SL200_.jpg)](https://www.amazon.es/dp/B07CRCS7BD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CRCS7BD/?tag=tolees-21)

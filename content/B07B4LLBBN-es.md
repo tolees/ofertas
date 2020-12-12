@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW 5620 3D Slim Colored Jeans  Verde  Smoke Green 79
 
 [![G-STAR RAW 5620 3D Slim Colored Jeans  V](https://images-eu.ssl-images-amazon.com/images/I/41s9WsAIDnL._SL200_.jpg)](https://www.amazon.es/dp/B07B4LLBBN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07B4LLBBN/?tag=tolees-21)

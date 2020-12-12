@@ -22,7 +22,7 @@ Ahora mismo tienes [Mini Batman Gotham City](https://www.amazon.es/dp/B07745MBMB
 
 [![Mini Batman Gotham City](https://images-eu.ssl-images-amazon.com/images/I/51MVgsTC9GL._SL200_.jpg)](https://www.amazon.es/dp/B07745MBMB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07745MBMB/?tag=tolees-21)

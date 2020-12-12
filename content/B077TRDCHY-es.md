@@ -22,7 +22,7 @@ Ahora mismo tienes [Reebok Cn1968  Zapatillas de Running para Mujer  Rosa  Moong
 
 [![Reebok Cn1968  Zapatillas de Running par](https://images-eu.ssl-images-amazon.com/images/I/41y4bDpxCXL._SL200_.jpg)](https://www.amazon.es/dp/B077TRDCHY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077TRDCHY/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [SYROKAN - Sujetador Deportivo para Mujer Sujetador Sport Med
 
 [![SYROKAN - Sujetador Deportivo para Mujer](https://images-eu.ssl-images-amazon.com/images/I/51lw8ucXIQL._SL200_.jpg)](https://www.amazon.es/dp/B076ZVSBV4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B076ZVSBV4/?tag=tolees-21)

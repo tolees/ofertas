@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance 365  Zapatillas Deportivas para Interior para Ho
 
 [![New Balance 365  Zapatillas Deportivas p](https://images-eu.ssl-images-amazon.com/images/I/41XIn-x%2BgzL._SL200_.jpg)](https://www.amazon.es/dp/B01FSDAQ7U/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01FSDAQ7U/?tag=tolees-21)

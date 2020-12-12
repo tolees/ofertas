@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour Commit TR Ex  Zapatillas Deportivas para Interi
 
 [![Under Armour Commit TR Ex  Zapatillas De](https://images-eu.ssl-images-amazon.com/images/I/41lJb4E8XmL._SL200_.jpg)](https://www.amazon.es/dp/B07CTQ73MG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CTQ73MG/?tag=tolees-21)

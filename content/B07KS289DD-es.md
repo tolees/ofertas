@@ -22,7 +22,7 @@ Ahora mismo tienes [hummel First Seamless Leggings  Mujer  Negro  XS/S](https://
 
 [![hummel First Seamless Leggings  Mujer  N](https://images-eu.ssl-images-amazon.com/images/I/31RARqofs0L._SL200_.jpg)](https://www.amazon.es/dp/B07KS289DD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KS289DD/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Corsair Vengeance LPX - Módulo de Memoria XMP 2.0 de 32 Gb 
 
 [![Corsair Vengeance LPX - Módulo de Memori](https://images-eu.ssl-images-amazon.com/images/I/41Gm0U4MnKL._SL200_.jpg)](https://www.amazon.es/dp/B014UYPEXE/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B014UYPEXE/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Lupe  Suéter para Mujer  Gris  Grey Marl 933  XS
 
 [![Pepe Jeans Lupe  Suéter para Mujer  Gris](https://images-eu.ssl-images-amazon.com/images/I/41nAeWWKJaL._SL200_.jpg)](https://www.amazon.es/dp/B079RSZW97/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079RSZW97/?tag=tolees-21)

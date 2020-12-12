@@ -22,7 +22,7 @@ Ahora mismo tienes [Crucial CT204864BD160B - Memoria RAM de 16 GB  DDR3L  1600 M
 
 [![Crucial CT204864BD160B - Memoria RAM de ](https://images-eu.ssl-images-amazon.com/images/I/41AZpj9vMsL._SL200_.jpg)](https://www.amazon.es/dp/B0123BR5GA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0123BR5GA/?tag=tolees-21)

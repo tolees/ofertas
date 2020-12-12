@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour Sujetador Deportivo con Espalda Cruzada  Mujer 
 
 [![Under Armour Sujetador Deportivo con Esp](https://images-eu.ssl-images-amazon.com/images/I/41dQhPzWC0L._SL200_.jpg)](https://www.amazon.es/dp/B07DFYY7DG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DFYY7DG/?tag=tolees-21)

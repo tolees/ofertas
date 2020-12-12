@@ -22,7 +22,7 @@ Ahora mismo tienes [EBY LC123 XL Cartuchos de Tinta para Impresoras Brother DCP-
 
 [![EBY LC123 XL Cartuchos de Tinta para Imp](https://images-eu.ssl-images-amazon.com/images/I/51ty1FT9x8L._SL200_.jpg)](https://www.amazon.es/dp/B0788LPQTF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0788LPQTF/?tag=tolees-21)

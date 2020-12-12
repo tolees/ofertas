@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Pimlico PL200024 bengalas Jean  Azul  Medium Used
 
 [![Pepe Jeans Pimlico PL200024 bengalas Jea](https://images-eu.ssl-images-amazon.com/images/I/418GrY21qgL._SL200_.jpg)](https://www.amazon.es/dp/B06XP4DH7N/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XP4DH7N/?tag=tolees-21)

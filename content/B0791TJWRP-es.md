@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance Fresh Foam Lazr Sport  Zapatillas de Running par
 
 [![New Balance Fresh Foam Lazr Sport  Zapat](https://images-eu.ssl-images-amazon.com/images/I/41415P2Y9HL._SL200_.jpg)](https://www.amazon.es/dp/B0791TJWRP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0791TJWRP/?tag=tolees-21)

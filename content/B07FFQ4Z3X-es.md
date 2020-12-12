@@ -22,7 +22,7 @@ Ahora mismo tienes [Michael Kors MKT5046 - Smartwatch](https://www.amazon.es/dp/
 
 [![Michael Kors MKT5046 - Smartwatch](https://images-eu.ssl-images-amazon.com/images/I/41CHTvabs6L._SL200_.jpg)](https://www.amazon.es/dp/B07FFQ4Z3X/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FFQ4Z3X/?tag=tolees-21)

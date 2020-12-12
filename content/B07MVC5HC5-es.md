@@ -22,7 +22,7 @@ Ahora mismo tienes [Sundried Bajo Ciclismo Casco de cráneo Cycling Cap Sombrero
 
 [![Sundried Bajo Ciclismo Casco de cráneo C](https://images-eu.ssl-images-amazon.com/images/I/31C4Aq9dU6L._SL200_.jpg)](https://www.amazon.es/dp/B07MVC5HC5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MVC5HC5/?tag=tolees-21)

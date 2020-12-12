@@ -22,7 +22,7 @@ Ahora mismo tienes [David Jones - Cm3808  Bolsos totes Mujer  Azul  Peacock Blue
 
 [![David Jones - Cm3808  Bolsos totes Mujer](https://images-eu.ssl-images-amazon.com/images/I/51H1u6adpaL._SL200_.jpg)](https://www.amazon.es/dp/B07KCX4YX3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KCX4YX3/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Reebok Royal CL Jogger 2  Zapatillas de Trail Running para H
 
 [![Reebok Royal CL Jogger 2  Zapatillas de ](https://images-eu.ssl-images-amazon.com/images/I/41rhZGPaicL._SL200_.jpg)](https://www.amazon.es/dp/B077TWDBJJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077TWDBJJ/?tag=tolees-21)

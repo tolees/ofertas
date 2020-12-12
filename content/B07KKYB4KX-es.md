@@ -22,7 +22,7 @@ Ahora mismo tienes [Burton Vista Sudaderas  Hombre  Gray Heather  XS](https://ww
 
 [![Burton Vista Sudaderas  Hombre  Gray Hea](https://images-eu.ssl-images-amazon.com/images/I/41ROi7tejaL._SL200_.jpg)](https://www.amazon.es/dp/B07KKYB4KX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KKYB4KX/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [s.Oliver Reloj Analógico para Mujer de Cuarzo con Correa en
 
 [![s.Oliver Reloj Analógico para Mujer de C](https://images-eu.ssl-images-amazon.com/images/I/41gLsbad05L._SL200_.jpg)](https://www.amazon.es/dp/B07NFLQBK1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07NFLQBK1/?tag=tolees-21)

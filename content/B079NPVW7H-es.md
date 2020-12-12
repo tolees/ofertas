@@ -22,7 +22,7 @@ Ahora mismo tienes [Helly Hansen W Legendary Ins Pant  Mujer  fir Green  M](http
 
 [![Helly Hansen W Legendary Ins Pant  Mujer](https://images-eu.ssl-images-amazon.com/images/I/318Ts09COVL._SL200_.jpg)](https://www.amazon.es/dp/B079NPVW7H/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079NPVW7H/?tag=tolees-21)

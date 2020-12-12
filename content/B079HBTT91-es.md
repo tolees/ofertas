@@ -22,7 +22,7 @@ Ahora mismo tienes [Tom Tailor 5880806  Botas Clasicas para Hombre  Marrón  Rus
 
 [![Tom Tailor 5880806  Botas Clasicas para ](https://images-eu.ssl-images-amazon.com/images/I/41GzCmLePzL._SL200_.jpg)](https://www.amazon.es/dp/B079HBTT91/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079HBTT91/?tag=tolees-21)

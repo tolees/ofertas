@@ -22,7 +22,7 @@ Ahora mismo tienes [homgeek  Moderno Cocina de Huevos eléctrica  cocedor con Ca
 
 [![homgeek  Moderno Cocina de Huevos eléctr](https://images-eu.ssl-images-amazon.com/images/I/41tUYGg%2BtLL._SL200_.jpg)](https://www.amazon.es/dp/B07BPZC1YJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BPZC1YJ/?tag=tolees-21)

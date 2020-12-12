@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Smash v2 Zapatillas Unisex adulto  Azul  Peacoat-Puma T
 
 [![Puma Smash v2 Zapatillas Unisex adulto  ](https://images-eu.ssl-images-amazon.com/images/I/31Dtx-%2BXOZL._SL200_.jpg)](https://www.amazon.es/dp/B07DC1CTTG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DC1CTTG/?tag=tolees-21)

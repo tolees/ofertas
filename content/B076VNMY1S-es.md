@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW 3301 Slim  Jeans para Hombre  Azul  Ultra Dk Aged
 
 [![G-STAR RAW 3301 Slim  Jeans para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/31HrPgXhnwL._SL200_.jpg)](https://www.amazon.es/dp/B076VNMY1S/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B076VNMY1S/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance Rubix  Zapatillas de Running para Hombre  Negro 
 
 [![New Balance Rubix  Zapatillas de Running](https://images-eu.ssl-images-amazon.com/images/I/41ULAWsWsjL._SL200_.jpg)](https://www.amazon.es/dp/B07C2Y9DY8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07C2Y9DY8/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike W NSW HRTG Short FLC Shorts  Mujer  dk Grey Heather Whi
 
 [![Nike W NSW HRTG Short FLC Shorts  Mujer ](https://images-eu.ssl-images-amazon.com/images/I/412PQctqDuL._SL200_.jpg)](https://www.amazon.es/dp/B07KKNRHH7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KKNRHH7/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Lotus Reloj Analógico para Hombre de Cuarzo con Correa en A
 
 [![Lotus Reloj Analógico para Hombre de Cua](https://images-eu.ssl-images-amazon.com/images/I/41R2J50sIjL._SL200_.jpg)](https://www.amazon.es/dp/B07NGMKCP7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07NGMKCP7/?tag=tolees-21)

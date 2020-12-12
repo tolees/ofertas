@@ -22,7 +22,7 @@ Ahora mismo tienes [Only Onlbell Lisa L/s Pullover Knt  suéter Mujer   Sky Capt
 
 [![Only Onlbell Lisa L/s Pullover Knt  suét](https://images-eu.ssl-images-amazon.com/images/I/51d64tNmiIL._SL200_.jpg)](https://www.amazon.es/dp/B072JPZF26/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072JPZF26/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [New Look Muscle Fit 5876456  suéter para Hombre  Gris  Ligh
 
 [![New Look Muscle Fit 5876456  suéter para](https://images-eu.ssl-images-amazon.com/images/I/41RPK8wWgAL._SL200_.jpg)](https://www.amazon.es/dp/B07JHW4HGJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JHW4HGJ/?tag=tolees-21)

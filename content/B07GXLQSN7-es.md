@@ -22,7 +22,7 @@ Ahora mismo tienes [CMXING Botella De Agua 500 mL & 750 mL de Doble Pared con Ai
 
 [![CMXING Botella De Agua 500 mL & 750 mL d](https://images-eu.ssl-images-amazon.com/images/I/412Nm%2BfrKIL._SL200_.jpg)](https://www.amazon.es/dp/B07GXLQSN7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GXLQSN7/?tag=tolees-21)

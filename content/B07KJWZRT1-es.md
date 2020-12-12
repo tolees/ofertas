@@ -22,7 +22,7 @@ Ahora mismo tienes [Quiksilver Krandy Walk Shorts  Hombre  Blue Nights  30](http
 
 [![Quiksilver Krandy Walk Shorts  Hombre  B](https://images-eu.ssl-images-amazon.com/images/I/41OTAlA54-L._SL200_.jpg)](https://www.amazon.es/dp/B07KJWZRT1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KJWZRT1/?tag=tolees-21)

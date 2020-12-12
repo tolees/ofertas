@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas CF Hoops Mid WTR W  Zapatillas Altas para Mujer  Marr
 
 [![adidas CF Hoops Mid WTR W  Zapatillas Al](https://images-eu.ssl-images-amazon.com/images/I/51cATQnfj2L._SL200_.jpg)](https://www.amazon.es/dp/B071ZSBPBK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071ZSBPBK/?tag=tolees-21)

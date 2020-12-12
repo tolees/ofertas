@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers Elite Flex-Lochbay  Zapatillas para Hombre  Blanco 
 
 [![Skechers Elite Flex-Lochbay  Zapatillas ](https://images-eu.ssl-images-amazon.com/images/I/41CeA69vgiL._SL200_.jpg)](https://www.amazon.es/dp/B07NPD8Q2W/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07NPD8Q2W/?tag=tolees-21)

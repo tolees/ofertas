@@ -22,7 +22,7 @@ Ahora mismo tienes [Beeasy Máscara Eléctrica con Respirador Mascarilla Antipol
 
 [![Beeasy Máscara Eléctrica con Respirador ](https://images-eu.ssl-images-amazon.com/images/I/41CNIJLulAL._SL200_.jpg)](https://www.amazon.es/dp/B07GP8FV8J/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GP8FV8J/?tag=tolees-21)

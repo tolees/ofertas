@@ -22,7 +22,7 @@ Ahora mismo tienes [New Look Camilla Animal 6038618  Mono para Mujer  Marrón  B
 
 [![New Look Camilla Animal 6038618  Mono pa](https://images-eu.ssl-images-amazon.com/images/I/41AwJnGLf9L._SL200_.jpg)](https://www.amazon.es/dp/B07KPT1VMT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KPT1VMT/?tag=tolees-21)

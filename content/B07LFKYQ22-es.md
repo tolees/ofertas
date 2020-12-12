@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Verona W Greek  Zapatillas para Mujer  Plateado  
 
 [![Pepe Jeans Verona W Greek  Zapatillas pa](https://images-eu.ssl-images-amazon.com/images/I/41dmarGlClL._SL200_.jpg)](https://www.amazon.es/dp/B07LFKYQ22/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07LFKYQ22/?tag=tolees-21)

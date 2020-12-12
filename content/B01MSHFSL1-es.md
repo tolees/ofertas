@@ -22,7 +22,7 @@ Ahora mismo tienes [Speedo Boom Allover  Bañador para Mujer  multicolor  Negro/
 
 [![Speedo Boom Allover  Bañador para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/51BSFXyQDUL._SL200_.jpg)](https://www.amazon.es/dp/B01MSHFSL1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MSHFSL1/?tag=tolees-21)

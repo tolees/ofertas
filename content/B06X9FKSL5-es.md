@@ -22,7 +22,7 @@ Ahora mismo tienes [FIND Top sin Mangas para Mujer   Negro  Black   40  Talla de
 
 [![FIND Top sin Mangas para Mujer   Negro  ](https://images-eu.ssl-images-amazon.com/images/I/411kyUnm0%2BL._SL200_.jpg)](https://www.amazon.es/dp/B06X9FKSL5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06X9FKSL5/?tag=tolees-21)

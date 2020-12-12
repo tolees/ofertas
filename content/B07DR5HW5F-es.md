@@ -22,7 +22,7 @@ Ahora mismo tienes [hummel Choice  Zapatillas Unisex Adulto  Azul  Black Iris 10
 
 [![hummel Choice  Zapatillas Unisex Adulto ](https://images-eu.ssl-images-amazon.com/images/I/31mRjbmOstL._SL200_.jpg)](https://www.amazon.es/dp/B07DR5HW5F/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DR5HW5F/?tag=tolees-21)

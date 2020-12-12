@@ -22,7 +22,7 @@ Ahora mismo tienes [Salomon X-Mission 3  Zapatillas de Trail Running para Hombre
 
 [![Salomon X-Mission 3  Zapatillas de Trail](https://images-eu.ssl-images-amazon.com/images/I/41wH%2B7yn2AL._SL200_.jpg)](https://www.amazon.es/dp/B078SXZ2W3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078SXZ2W3/?tag=tolees-21)

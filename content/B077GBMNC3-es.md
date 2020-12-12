@@ -22,7 +22,7 @@ Ahora mismo tienes [Gioseppo 44870  Shopper para Mujer   Multicolor   16x55x30 c
 
 [![Gioseppo 44870  Shopper para Mujer   Mul](https://images-eu.ssl-images-amazon.com/images/I/51eifghEruL._SL200_.jpg)](https://www.amazon.es/dp/B077GBMNC3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077GBMNC3/?tag=tolees-21)

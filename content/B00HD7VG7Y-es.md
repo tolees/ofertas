@@ -22,7 +22,7 @@ Ahora mismo tienes [Wenger 600665 Developer - Mochila con compartimento acolchad
 
 [![Wenger 600665 Developer - Mochila con co](https://images-eu.ssl-images-amazon.com/images/I/41ygTrkFulL._SL200_.jpg)](https://www.amazon.es/dp/B00HD7VG7Y/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00HD7VG7Y/?tag=tolees-21)

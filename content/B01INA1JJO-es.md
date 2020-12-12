@@ -22,7 +22,7 @@ Ahora mismo tienes [Gioseppo Tatanka - Botas para Mujer  Color Negro  Talla 36](
 
 [![Gioseppo Tatanka - Botas para Mujer  Col](https://images-eu.ssl-images-amazon.com/images/I/41dMSN1gMfL._SL200_.jpg)](https://www.amazon.es/dp/B01INA1JJO/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01INA1JJO/?tag=tolees-21)

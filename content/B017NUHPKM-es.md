@@ -22,7 +22,7 @@ Ahora mismo tienes [G Star Carley belt wmn - Cinturón Mujer  Braun  cognac 559 
 
 [![G Star Carley belt wmn - Cinturón Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41k6dTuL1cL._SL200_.jpg)](https://www.amazon.es/dp/B017NUHPKM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B017NUHPKM/?tag=tolees-21)

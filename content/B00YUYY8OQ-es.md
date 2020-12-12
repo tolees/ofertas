@@ -22,7 +22,7 @@ Ahora mismo tienes [LE CREUSET Cocotte  Volcánico  Naranja   30 cm](https://www
 
 [![LE CREUSET Cocotte  Volcánico  Naranja  ](https://images-eu.ssl-images-amazon.com/images/I/41FKzXpFSGL._SL200_.jpg)](https://www.amazon.es/dp/B00YUYY8OQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00YUYY8OQ/?tag=tolees-21)

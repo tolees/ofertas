@@ -22,7 +22,7 @@ Ahora mismo tienes [El Precio Del Poder [Blu-ray]](https://www.amazon.es/dp/B008
 
 [![El Precio Del Poder [Blu-ray]](https://images-eu.ssl-images-amazon.com/images/I/41ockJNGLnL._SL200_.jpg)](https://www.amazon.es/dp/B008JBN9SM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B008JBN9SM/?tag=tolees-21)

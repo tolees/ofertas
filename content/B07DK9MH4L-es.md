@@ -22,7 +22,7 @@ Ahora mismo tienes [LiteXim Auriculares Bluetooth  Auriculares Inalámbricos Blu
 
 [![LiteXim Auriculares Bluetooth  Auricular](https://images-eu.ssl-images-amazon.com/images/I/41oNiyDxKRL._SL200_.jpg)](https://www.amazon.es/dp/B07DK9MH4L/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DK9MH4L/?tag=tolees-21)

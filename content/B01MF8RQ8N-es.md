@@ -22,7 +22,7 @@ Ahora mismo tienes [Escuadrón Suicida  4K Ultra HD + Blu-ray + Copia Digital  [
 
 [![Escuadrón Suicida  4K Ultra HD + Blu-ray](https://images-eu.ssl-images-amazon.com/images/I/5173G3Jq8RL._SL200_.jpg)](https://www.amazon.es/dp/B01MF8RQ8N/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MF8RQ8N/?tag=tolees-21)

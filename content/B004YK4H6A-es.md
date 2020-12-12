@@ -22,7 +22,7 @@ Ahora mismo tienes [Skytec SPA800R - Kit bafles karaoke](https://www.amazon.es/d
 
 [![Skytec SPA800R - Kit bafles karaoke](https://images-eu.ssl-images-amazon.com/images/I/51nnYtHXasL._SL200_.jpg)](https://www.amazon.es/dp/B004YK4H6A/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B004YK4H6A/?tag=tolees-21)

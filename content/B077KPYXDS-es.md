@@ -22,7 +22,7 @@ Ahora mismo tienes [Bovon Protector Trasero iPhone X   Dureza 9 H  Cobertura Com
 
 [![Bovon Protector Trasero iPhone X   Durez](https://images-eu.ssl-images-amazon.com/images/I/41nmMu95NeL._SL200_.jpg)](https://www.amazon.es/dp/B077KPYXDS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077KPYXDS/?tag=tolees-21)

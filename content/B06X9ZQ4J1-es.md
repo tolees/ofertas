@@ -22,7 +22,7 @@ Ahora mismo tienes [Love & Child LC218M 2017 Mochila Escolar  42 cm](https://www
 
 [![Love & Child LC218M 2017 Mochila Escolar](https://images-eu.ssl-images-amazon.com/images/I/51BYsrgMX9L._SL200_.jpg)](https://www.amazon.es/dp/B06X9ZQ4J1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06X9ZQ4J1/?tag=tolees-21)

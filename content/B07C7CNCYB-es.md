@@ -22,7 +22,7 @@ Ahora mismo tienes [MaaMgic Bañador Hombres Troncos de Natación Secado rápido
 
 [![MaaMgic Bañador Hombres Troncos de Natac](https://images-eu.ssl-images-amazon.com/images/I/519ejQx3MeL._SL200_.jpg)](https://www.amazon.es/dp/B07C7CNCYB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07C7CNCYB/?tag=tolees-21)

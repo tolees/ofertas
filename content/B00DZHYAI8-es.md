@@ -22,7 +22,7 @@ Ahora mismo tienes [L Oréal Expert Professionnel Liss Unlimited Mask 200 ml](ht
 
 [![L Oréal Expert Professionnel Liss Unlimi](https://images-eu.ssl-images-amazon.com/images/I/21IoqEgfg4L._SL200_.jpg)](https://www.amazon.es/dp/B00DZHYAI8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00DZHYAI8/?tag=tolees-21)

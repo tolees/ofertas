@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Drst Ask SPR LG Sujetador Deportivo  Mujer  Negro/Bla
 
 [![adidas Drst Ask SPR LG Sujetador Deporti](https://images-eu.ssl-images-amazon.com/images/I/41LtbbV2lAL._SL200_.jpg)](https://www.amazon.es/dp/B07DCXY1N3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DCXY1N3/?tag=tolees-21)

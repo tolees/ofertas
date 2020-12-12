@@ -22,7 +22,7 @@ Ahora mismo tienes [Plantronics .Audio 655 - Auriculares USB  negro](https://www
 
 [![Plantronics .Audio 655 - Auriculares USB](https://images-eu.ssl-images-amazon.com/images/I/41UooLPXtHL._SL200_.jpg)](https://www.amazon.es/dp/B003LBRDN2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B003LBRDN2/?tag=tolees-21)

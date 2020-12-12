@@ -22,7 +22,7 @@ Ahora mismo tienes [Diadermine - Tónico facial suave -200ml  pack de 6  Total: 
 
 [![Diadermine - Tónico facial suave -200ml ](https://images-eu.ssl-images-amazon.com/images/I/31fVd6DYiwL._SL200_.jpg)](https://www.amazon.es/dp/B071X9DZJQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071X9DZJQ/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [ALEX AND ANI Brazalete Mujer latón - A18EBSMTRG](https://ww
 
 [![ALEX AND ANI Brazalete Mujer latón - A18]()](https://www.amazon.es/dp/B07D7R6TGX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D7R6TGX/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Asics T722n 9085  Zapatillas de Running para Hombre  Negro  
 
 [![Asics T722n 9085  Zapatillas de Running ](https://images-eu.ssl-images-amazon.com/images/I/41aKVlfsdoL._SL200_.jpg)](https://www.amazon.es/dp/B01NA7N0KH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01NA7N0KH/?tag=tolees-21)

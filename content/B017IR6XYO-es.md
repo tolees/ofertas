@@ -22,7 +22,7 @@ Ahora mismo tienes [Tucano Svolta Large 15.6" Maletín Negro - Funda  Maletín  
 
 [![Tucano Svolta Large 15.6" Maletín Negro ](https://images-eu.ssl-images-amazon.com/images/I/51rfa05Z1yL._SL200_.jpg)](https://www.amazon.es/dp/B017IR6XYO/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B017IR6XYO/?tag=tolees-21)

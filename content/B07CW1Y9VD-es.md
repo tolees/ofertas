@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers Go Vulc 2  Zapatillas Altas para Hombre  Negro  Bla
 
 [![Skechers Go Vulc 2  Zapatillas Altas par](https://images-eu.ssl-images-amazon.com/images/I/31u5DcjYH0L._SL200_.jpg)](https://www.amazon.es/dp/B07CW1Y9VD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CW1Y9VD/?tag=tolees-21)

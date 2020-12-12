@@ -22,7 +22,7 @@ Ahora mismo tienes [Columbia Vapor Vent Hombre Zapatillas Multideporte Gris  Smo
 
 [![Columbia Vapor Vent Hombre Zapatillas Mu](https://images-eu.ssl-images-amazon.com/images/I/416vgCi0xaL._SL200_.jpg)](https://www.amazon.es/dp/B07K76BCJY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07K76BCJY/?tag=tolees-21)

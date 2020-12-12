@@ -22,7 +22,7 @@ Ahora mismo tienes [Lenovo LI2215s - Monitor de 21.5"  54 6cm  FullHD 1920x1080 
 
 [![Lenovo LI2215s - Monitor de 21.5"  54 6c](https://images-eu.ssl-images-amazon.com/images/I/41LDSBdjJCL._SL200_.jpg)](https://www.amazon.es/dp/B072K2BNNK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072K2BNNK/?tag=tolees-21)

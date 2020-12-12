@@ -22,7 +22,7 @@ Ahora mismo tienes [HOMIEE Funda Protectora para 13-13.3 Pulgadas  Funda Protect
 
 [![HOMIEE Funda Protectora para 13-13.3 Pul](https://images-eu.ssl-images-amazon.com/images/I/518LhqeX7dL._SL200_.jpg)](https://www.amazon.es/dp/B07G43KSNB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07G43KSNB/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Bose SoundTouch 20 Serie III  - Altavoz Inalámbrico con Wi
 
 [![Bose SoundTouch 20 Serie III  - Altavoz ](https://images-eu.ssl-images-amazon.com/images/I/31mDR1oDg8L._SL200_.jpg)](https://www.amazon.es/dp/B0117RGPV2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0117RGPV2/?tag=tolees-21)

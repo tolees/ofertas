@@ -22,7 +22,7 @@ Ahora mismo tienes [Silverline 675088 Ventosa doble 70 kg](https://www.amazon.es
 
 [![Silverline 675088 Ventosa doble 70 kg](https://images-eu.ssl-images-amazon.com/images/I/4104-1jJbdL._SL200_.jpg)](https://www.amazon.es/dp/B000LFTWA8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B000LFTWA8/?tag=tolees-21)

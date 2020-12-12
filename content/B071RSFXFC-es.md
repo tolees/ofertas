@@ -22,7 +22,7 @@ Ahora mismo tienes [Dockers by Gerli 41mc104-610410  Zapatillas Altas para Hombr
 
 [![Dockers by Gerli 41mc104-610410  Zapatil](https://images-eu.ssl-images-amazon.com/images/I/41rH2tsVXvL._SL200_.jpg)](https://www.amazon.es/dp/B071RSFXFC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071RSFXFC/?tag=tolees-21)

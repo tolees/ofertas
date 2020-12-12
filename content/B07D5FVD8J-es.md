@@ -22,7 +22,7 @@ Ahora mismo tienes [San Ignacio Set Master Batería De Cocina Gourmet  Aluminio 
 
 [![San Ignacio Set Master Batería De Cocina](https://images-eu.ssl-images-amazon.com/images/I/51eff28rytL._SL200_.jpg)](https://www.amazon.es/dp/B07D5FVD8J/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D5FVD8J/?tag=tolees-21)

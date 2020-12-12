@@ -22,7 +22,7 @@ Ahora mismo tienes [Lee Rider Short Pantalones Cortos  Marfil  Medium Stone KL  
 
 [![Lee Rider Short Pantalones Cortos  Marfi](https://images-eu.ssl-images-amazon.com/images/I/41EFaN9UHgL._SL200_.jpg)](https://www.amazon.es/dp/B07FTL98G5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FTL98G5/?tag=tolees-21)

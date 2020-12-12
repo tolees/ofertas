@@ -22,7 +22,7 @@ Ahora mismo tienes [Auriculares Bluetooth para niños  Hisonic Auriculares Plega
 
 [![Auriculares Bluetooth para niños  Hisoni](https://images-eu.ssl-images-amazon.com/images/I/51JGXABC2aL._SL200_.jpg)](https://www.amazon.es/dp/B07D71PV2G/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D71PV2G/?tag=tolees-21)

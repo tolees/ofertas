@@ -22,7 +22,7 @@ Ahora mismo tienes [Osram 816947 Bombilla LED E27  Blanco  6 Unidades](https://w
 
 [![Osram 816947 Bombilla LED E27  Blanco  6](https://images-eu.ssl-images-amazon.com/images/I/319rbyjPkNL._SL200_.jpg)](https://www.amazon.es/dp/B073QS4SKS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B073QS4SKS/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [San Ignacio Gourmet Wok  Aluminio  Gris  28 cm](https://www.
 
 [![San Ignacio Gourmet Wok  Aluminio  Gris ](https://images-eu.ssl-images-amazon.com/images/I/31zo8x0jkXL._SL200_.jpg)](https://www.amazon.es/dp/B01N8OO5FX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N8OO5FX/?tag=tolees-21)

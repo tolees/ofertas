@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers Equalizer Mind Game  Zapatillas De Deporte Para Ext
 
 [![Skechers Equalizer Mind Game  Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/41PUs1lJNXL._SL200_.jpg)](https://www.amazon.es/dp/B00N29J0EI/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00N29J0EI/?tag=tolees-21)

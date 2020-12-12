@@ -22,7 +22,7 @@ Ahora mismo tienes [Superga 2730-NAPPALEAU  Zapatillas para Mujer  Beige  Nude N
 
 [![Superga 2730-NAPPALEAU  Zapatillas para ](https://images-eu.ssl-images-amazon.com/images/I/31sArCOdLfL._SL200_.jpg)](https://www.amazon.es/dp/B07N4MKNPR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07N4MKNPR/?tag=tolees-21)

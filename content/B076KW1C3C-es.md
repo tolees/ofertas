@@ -22,7 +22,7 @@ Ahora mismo tienes [Funko Pop!- TMNT Figura de Vinilo  22983 ](https://www.amazo
 
 [![Funko Pop!- TMNT Figura de Vinilo  22983](https://images-eu.ssl-images-amazon.com/images/I/411MIlTIw9L._SL200_.jpg)](https://www.amazon.es/dp/B076KW1C3C/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B076KW1C3C/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [YUNTAB K98 Tablet de 9.6 pulgadas   3G  Auard-core Android 5
 
 [![YUNTAB K98 Tablet de 9.6 pulgadas   3G  ](https://images-eu.ssl-images-amazon.com/images/I/41D80Q8RVWL._SL200_.jpg)](https://www.amazon.es/dp/B0759DR5SG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0759DR5SG/?tag=tolees-21)

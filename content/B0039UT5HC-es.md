@@ -22,7 +22,7 @@ Ahora mismo tienes [Casio Reloj de Pulsera LTP-1302PD-7A1VEF](https://www.amazon
 
 [![Casio Reloj de Pulsera LTP-1302PD-7A1VEF](https://images-eu.ssl-images-amazon.com/images/I/51nIXdWlDzL._SL200_.jpg)](https://www.amazon.es/dp/B0039UT5HC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0039UT5HC/?tag=tolees-21)

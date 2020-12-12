@@ -22,7 +22,7 @@ Ahora mismo tienes [Auriculares Bluetooth 4.1 SoundPEATS Cascos Deportivos Inal�
 
 [![Auriculares Bluetooth 4.1 SoundPEATS Cas](https://images-eu.ssl-images-amazon.com/images/I/31bLd7eDXVL._SL200_.jpg)](https://www.amazon.es/dp/B07D6J64LN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D6J64LN/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [GORE RUNNING WEAR Mallas cortas para correr  Hombre  GORE Se
 
 [![GORE RUNNING WEAR Mallas cortas para cor](https://images-eu.ssl-images-amazon.com/images/I/41FhwJvUFML._SL200_.jpg)](https://www.amazon.es/dp/B00B35T9GC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00B35T9GC/?tag=tolees-21)

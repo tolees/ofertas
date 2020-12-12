@@ -22,7 +22,7 @@ Ahora mismo tienes [Adidas Predator 19.3 TF J  Botas de fútbol Unisex niño  Ne
 
 [![Adidas Predator 19.3 TF J  Botas de fútb](https://images-eu.ssl-images-amazon.com/images/I/31Nxpun70FL._SL200_.jpg)](https://www.amazon.es/dp/B07M9BV1YW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07M9BV1YW/?tag=tolees-21)

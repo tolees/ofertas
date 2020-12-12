@@ -22,7 +22,7 @@ Ahora mismo tienes [Cable Micro USB Carga Rápida 1M [2-Unidades] GARANTÍA DE p
 
 [![Cable Micro USB Carga Rápida 1M [2-Unida](https://images-eu.ssl-images-amazon.com/images/I/41tyHmcUWlL._SL200_.jpg)](https://www.amazon.es/dp/B01H2W0A8U/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01H2W0A8U/?tag=tolees-21)

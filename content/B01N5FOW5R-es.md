@@ -22,7 +22,7 @@ Ahora mismo tienes [find. 13649 vestidos mujer  Negro  Black   40  Talla del Fab
 
 [![find. 13649 vestidos mujer  Negro  Black](https://images-eu.ssl-images-amazon.com/images/I/41tB6UGINmL._SL200_.jpg)](https://www.amazon.es/dp/B01N5FOW5R/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N5FOW5R/?tag=tolees-21)

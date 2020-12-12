@@ -22,7 +22,7 @@ Ahora mismo tienes [Woxter Big Bass 70 - Altavoces para PC  Mando de control de 
 
 [![Woxter Big Bass 70 - Altavoces para PC  ](https://images-eu.ssl-images-amazon.com/images/I/41rmcgy6HaL._SL200_.jpg)](https://www.amazon.es/dp/B01DF4PA0W/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01DF4PA0W/?tag=tolees-21)

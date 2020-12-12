@@ -22,7 +22,7 @@ Ahora mismo tienes [Yocitoy Soft Bullet rotaciš®n vibra-dor de silicona empuja
 
 [![Yocitoy Soft Bullet rotaciš®n vibra-dor ](https://images-eu.ssl-images-amazon.com/images/I/41LwFB1B9KL._SL200_.jpg)](https://www.amazon.es/dp/B07CXV6L7D/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CXV6L7D/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Delonghi Magnifica ESAM3000B Maquina De Espresso  1350 W  1.
 
 [![Delonghi Magnifica ESAM3000B Maquina De ](https://images-eu.ssl-images-amazon.com/images/I/41AqBGlA7VL._SL200_.jpg)](https://www.amazon.es/dp/B000OC7SZ4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B000OC7SZ4/?tag=tolees-21)

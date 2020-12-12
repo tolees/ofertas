@@ -22,7 +22,7 @@ Ahora mismo tienes [Tescoma 420516 - Pinza cocina  multifunción](https://www.am
 
 [![Tescoma 420516 - Pinza cocina  multifunc](https://images-eu.ssl-images-amazon.com/images/I/31c81sBv%2BOL._SL200_.jpg)](https://www.amazon.es/dp/B00CTMN572/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00CTMN572/?tag=tolees-21)

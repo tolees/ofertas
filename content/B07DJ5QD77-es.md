@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance 500  Zapatillas para Hombre  Naranja  Iron Oxide
 
 [![New Balance 500  Zapatillas para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41BGT5xCvML._SL200_.jpg)](https://www.amazon.es/dp/B07DJ5QD77/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DJ5QD77/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Suunto - Spartan Trainer Wrist HR - SS023408000 - Amber  Ám
 
 [![Suunto - Spartan Trainer Wrist HR - SS02](https://images-eu.ssl-images-amazon.com/images/I/41LOpG80EGL._SL200_.jpg)](https://www.amazon.es/dp/B077TNDRVX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077TNDRVX/?tag=tolees-21)

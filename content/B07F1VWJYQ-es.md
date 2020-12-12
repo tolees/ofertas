@@ -22,7 +22,7 @@ Ahora mismo tienes [K-Swiss Aeronaut  Zapatillas para Hombre  Azul  Navy/White 4
 
 [![K-Swiss Aeronaut  Zapatillas para Hombre](https://images-eu.ssl-images-amazon.com/images/I/416FsIxptvL._SL200_.jpg)](https://www.amazon.es/dp/B07F1VWJYQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F1VWJYQ/?tag=tolees-21)

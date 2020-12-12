@@ -22,7 +22,7 @@ Ahora mismo tienes [Devolo dLAN 1200+ - Kit de adaptadores de red](https://www.a
 
 [![Devolo dLAN 1200+ - Kit de adaptadores d](https://images-eu.ssl-images-amazon.com/images/I/31VhK6sjR6L._SL200_.jpg)](https://www.amazon.es/dp/B00NB0BLH2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00NB0BLH2/?tag=tolees-21)

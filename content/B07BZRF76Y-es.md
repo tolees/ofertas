@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike Air Huarache Run  Zapatillas de Running para Mujer   Pa
 
 [![Nike Air Huarache Run  Zapatillas de Run](https://images-eu.ssl-images-amazon.com/images/I/41y7Uwko2oL._SL200_.jpg)](https://www.amazon.es/dp/B07BZRF76Y/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BZRF76Y/?tag=tolees-21)

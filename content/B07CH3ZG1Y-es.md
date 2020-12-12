@@ -22,7 +22,7 @@ Ahora mismo tienes [AmazonBasics - Filtro de agua de repuesto para frigorífico 
 
 [![AmazonBasics - Filtro de agua de repuest](https://images-eu.ssl-images-amazon.com/images/I/41PZ38HMjdL._SL200_.jpg)](https://www.amazon.es/dp/B07CH3ZG1Y/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CH3ZG1Y/?tag=tolees-21)

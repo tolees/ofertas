@@ -22,7 +22,7 @@ Ahora mismo tienes [APALUS Cortina Mosquitera Para Puertas. Tejido Súper Fino P
 
 [![APALUS Cortina Mosquitera Para Puertas. ](https://images-eu.ssl-images-amazon.com/images/I/31AXYYOA2jL._SL200_.jpg)](https://www.amazon.es/dp/B07DC63HV4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DC63HV4/?tag=tolees-21)

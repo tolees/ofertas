@@ -22,7 +22,7 @@ Ahora mismo tienes [Kipling CLAS SEOUL Mochila escolar  45 cm  25 liters  Rojo  
 
 [![Kipling CLAS SEOUL Mochila escolar  45 c](https://images-eu.ssl-images-amazon.com/images/I/41alXDXo57L._SL200_.jpg)](https://www.amazon.es/dp/B07DRM76LT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DRM76LT/?tag=tolees-21)

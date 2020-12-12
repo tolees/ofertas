@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Hoops 2.0 Mid  Zapatillas de Gimnasia para Hombre  Ne
 
 [![adidas Hoops 2.0 Mid  Zapatillas de Gimn](https://images-eu.ssl-images-amazon.com/images/I/41LtSI9%2BtSL._SL200_.jpg)](https://www.amazon.es/dp/B07D9YMN7V/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D9YMN7V/?tag=tolees-21)

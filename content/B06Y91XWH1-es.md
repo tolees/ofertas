@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour 1289538-003  Zapatillas de Fútbol Hombre  Mult
 
 [![Under Armour 1289538-003  Zapatillas de ](https://images-eu.ssl-images-amazon.com/images/I/41l4DXqQybL._SL200_.jpg)](https://www.amazon.es/dp/B06Y91XWH1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06Y91XWH1/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Los extraños: Cacería nocturna [Blu-ray]](https://www.amaz
 
 [![Los extraños: Cacería nocturna [Blu-ray]](https://images-eu.ssl-images-amazon.com/images/I/516Q7bmJu0L._SL200_.jpg)](https://www.amazon.es/dp/B07J4VX6ZJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07J4VX6ZJ/?tag=tolees-21)

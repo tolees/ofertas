@@ -22,7 +22,7 @@ Ahora mismo tienes [Asics Aaron  Zapatillas Unisex Adulto  Verde  Aloe/Aloe   39
 
 [![Asics Aaron  Zapatillas Unisex Adulto  V](https://images-eu.ssl-images-amazon.com/images/I/41eK-A1iDpL._SL200_.jpg)](https://www.amazon.es/dp/B072JHZK5T/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072JHZK5T/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Tamaris 25100  Botas para Mujer  Marrón  Pepper   39 EU](ht
 
 [![Tamaris 25100  Botas para Mujer  Marrón ](https://images-eu.ssl-images-amazon.com/images/I/41loaCdj55L._SL200_.jpg)](https://www.amazon.es/dp/B06XFSBMX2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XFSBMX2/?tag=tolees-21)

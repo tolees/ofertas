@@ -22,7 +22,7 @@ Ahora mismo tienes [SELECTEC Power Bank 24000mAh Cargador Móvil Portátil Bater
 
 [![SELECTEC Power Bank 24000mAh Cargador Mó](https://images-eu.ssl-images-amazon.com/images/I/31PwbsahH4L._SL200_.jpg)](https://www.amazon.es/dp/B07H4LQJWC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07H4LQJWC/?tag=tolees-21)

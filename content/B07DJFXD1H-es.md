@@ -22,7 +22,7 @@ Ahora mismo tienes [Dockers by Gerli 41ch207  Botas Estilo Motero para Mujer  Ve
 
 [![Dockers by Gerli 41ch207  Botas Estilo M](https://images-eu.ssl-images-amazon.com/images/I/41o3urLiWdL._SL200_.jpg)](https://www.amazon.es/dp/B07DJFXD1H/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DJFXD1H/?tag=tolees-21)

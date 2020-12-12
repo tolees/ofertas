@@ -22,7 +22,7 @@ Ahora mismo tienes [Portwest 2085 - Pantalones Wakefield  color Armada  talla 28
 
 [![Portwest 2085 - Pantalones Wakefield  co](https://images-eu.ssl-images-amazon.com/images/I/414GgD2urkL._SL200_.jpg)](https://www.amazon.es/dp/B00TU6CA44/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00TU6CA44/?tag=tolees-21)

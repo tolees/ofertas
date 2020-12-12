@@ -22,7 +22,7 @@ Ahora mismo tienes [PIECES - Pcroberta Shopper  Mujer  Rot  Port Royale   18x29x
 
 [![PIECES - Pcroberta Shopper  Mujer  Rot  ](https://images-eu.ssl-images-amazon.com/images/I/51VgF6U8aCL._SL200_.jpg)](https://www.amazon.es/dp/B076FC1WJP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B076FC1WJP/?tag=tolees-21)

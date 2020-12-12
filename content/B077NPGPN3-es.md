@@ -22,7 +22,7 @@ Ahora mismo tienes [Adidas Nemeziz Tango 17.4 In  Zapatillas de fútbol Sala par
 
 [![Adidas Nemeziz Tango 17.4 In  Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/41yt0I%2BwzgL._SL200_.jpg)](https://www.amazon.es/dp/B077NPGPN3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077NPGPN3/?tag=tolees-21)

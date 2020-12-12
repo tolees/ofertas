@@ -22,7 +22,7 @@ Ahora mismo tienes [SELECTED HOMME Slhslim-mylocreed Navy Check TRS B Noos  Pant
 
 [![SELECTED HOMME Slhslim-mylocreed Navy Ch](https://images-eu.ssl-images-amazon.com/images/I/31xZkjiCc-L._SL200_.jpg)](https://www.amazon.es/dp/B07D1HSTJN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D1HSTJN/?tag=tolees-21)

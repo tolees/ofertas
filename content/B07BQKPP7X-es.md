@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance Fresh Foam Zante Pursuit  Zapatillas Deportivas 
 
 [![New Balance Fresh Foam Zante Pursuit  Za](https://images-eu.ssl-images-amazon.com/images/I/41bs0WleMkL._SL200_.jpg)](https://www.amazon.es/dp/B07BQKPP7X/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BQKPP7X/?tag=tolees-21)

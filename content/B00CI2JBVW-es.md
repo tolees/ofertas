@@ -22,7 +22,7 @@ Ahora mismo tienes [NANOCABLE 10.01.0401 - Cable USB 2.0 a Mini USB  Uso Princip
 
 [![NANOCABLE 10.01.0401 - Cable USB 2.0 a M](https://images-eu.ssl-images-amazon.com/images/I/41lxVUkg-1L._SL200_.jpg)](https://www.amazon.es/dp/B00CI2JBVW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00CI2JBVW/?tag=tolees-21)

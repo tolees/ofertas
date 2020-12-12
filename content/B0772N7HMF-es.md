@@ -22,7 +22,7 @@ Ahora mismo tienes [Asics Aaron  Zapatillas para Hombre  Negro  Black/Meerkat 90
 
 [![Asics Aaron  Zapatillas para Hombre  Neg](https://images-eu.ssl-images-amazon.com/images/I/31swigog5HL._SL200_.jpg)](https://www.amazon.es/dp/B0772N7HMF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0772N7HMF/?tag=tolees-21)

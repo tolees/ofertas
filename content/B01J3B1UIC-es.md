@@ -22,7 +22,7 @@ Ahora mismo tienes [Reacher - Altavoz Bluetooth estéreo Premium 10W con radiado
 
 [![Reacher - Altavoz Bluetooth estéreo Prem](https://images-eu.ssl-images-amazon.com/images/I/516tg%2Bnwy4L._SL200_.jpg)](https://www.amazon.es/dp/B01J3B1UIC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01J3B1UIC/?tag=tolees-21)

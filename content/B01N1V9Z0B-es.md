@@ -22,7 +22,7 @@ Ahora mismo tienes [RED WAGON Mermaid Stripe Swimsuit Baño para Niñas  Blanco 
 
 [![RED WAGON Mermaid Stripe Swimsuit Baño p](https://images-eu.ssl-images-amazon.com/images/I/41uvQaWY6GL._SL200_.jpg)](https://www.amazon.es/dp/B01N1V9Z0B/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N1V9Z0B/?tag=tolees-21)

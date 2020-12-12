@@ -22,7 +22,7 @@ Ahora mismo tienes [Only Onlhollie L/s Pullover Knit - Box  suéter Mujer  Gris 
 
 [![Only Onlhollie L/s Pullover Knit - Box  ](https://images-eu.ssl-images-amazon.com/images/I/417e2VFyReL._SL200_.jpg)](https://www.amazon.es/dp/B01NAUI1OT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01NAUI1OT/?tag=tolees-21)

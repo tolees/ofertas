@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jjeholmen Sweat Pants Noos Pantalones  Negro  B
 
 [![JACK & JONES Jjeholmen Sweat Pants Noos ](https://images-eu.ssl-images-amazon.com/images/I/41EoWjCwg9L._SL200_.jpg)](https://www.amazon.es/dp/B07C595KVR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07C595KVR/?tag=tolees-21)

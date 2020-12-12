@@ -22,7 +22,7 @@ Ahora mismo tienes [Diadermine - Toallitas Desmaquillantes pieles normales/mixta
 
 [![Diadermine - Toallitas Desmaquillantes p](https://images-eu.ssl-images-amazon.com/images/I/31FhYAox1iL._SL200_.jpg)](https://www.amazon.es/dp/B07N3X4P6W/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07N3X4P6W/?tag=tolees-21)

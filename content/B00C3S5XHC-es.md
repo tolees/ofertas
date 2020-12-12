@@ -22,7 +22,7 @@ Ahora mismo tienes [Plantronics 89108-01 - Almohadilla para auriculares  pack de
 
 [![Plantronics 89108-01 - Almohadilla para ](https://images-eu.ssl-images-amazon.com/images/I/41JHjIb9%2BkL._SL200_.jpg)](https://www.amazon.es/dp/B00C3S5XHC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00C3S5XHC/?tag=tolees-21)

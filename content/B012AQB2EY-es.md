@@ -22,7 +22,7 @@ Ahora mismo tienes [Money Maze: Laberinto de Dinero para un cambio divertido cua
 
 [![Money Maze: Laberinto de Dinero para un ](https://images-eu.ssl-images-amazon.com/images/I/51ho7cH62xL._SL200_.jpg)](https://www.amazon.es/dp/B012AQB2EY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B012AQB2EY/?tag=tolees-21)

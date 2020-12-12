@@ -22,7 +22,7 @@ Ahora mismo tienes [Ariston 3700497 Termo Eléctrico 1800 W  220 V  Slim 80 l](h
 
 [![Ariston 3700497 Termo Eléctrico 1800 W  ](https://images-eu.ssl-images-amazon.com/images/I/312wDS295zL._SL200_.jpg)](https://www.amazon.es/dp/B0788BNKGH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0788BNKGH/?tag=tolees-21)

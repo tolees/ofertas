@@ -22,7 +22,7 @@ Ahora mismo tienes [Joma - Set Basket Space Marino-Turquesa s/m w. para Mujer](h
 
 [![Joma - Set Basket Space Marino-Turquesa ](https://images-eu.ssl-images-amazon.com/images/I/31HTbS63U8L._SL200_.jpg)](https://www.amazon.es/dp/B010FY49MA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B010FY49MA/?tag=tolees-21)

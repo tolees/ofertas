@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Suede Bow Wn s  Zapatillas para Mujer  Blanco Whisper W
 
 [![Puma Suede Bow Wn s  Zapatillas para Muj](https://images-eu.ssl-images-amazon.com/images/I/31XmqLevKxL._SL200_.jpg)](https://www.amazon.es/dp/B07DD14VR2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DD14VR2/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Adidas Superstar Cm8073  Zapatillas de Deporte para Hombre  
 
 [![Adidas Superstar Cm8073  Zapatillas de D](https://images-eu.ssl-images-amazon.com/images/I/41oJ905kNqL._SL200_.jpg)](https://www.amazon.es/dp/B077QNK21P/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077QNK21P/?tag=tolees-21)

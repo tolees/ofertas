@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers Go Step Lite-Redefine  Entrenadores para Mujer  Neg
 
 [![Skechers Go Step Lite-Redefine  Entrenad](https://images-eu.ssl-images-amazon.com/images/I/41%2BqIqCJPHL._SL200_.jpg)](https://www.amazon.es/dp/B01N4O2U1R/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N4O2U1R/?tag=tolees-21)

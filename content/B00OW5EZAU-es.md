@@ -22,7 +22,7 @@ Ahora mismo tienes [Safety 1st Soft Dreams Cuna de viaje compacta  fácil de tra
 
 [![Safety 1st Soft Dreams Cuna de viaje com](https://images-eu.ssl-images-amazon.com/images/I/412B28%2BlrLL._SL200_.jpg)](https://www.amazon.es/dp/B00OW5EZAU/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00OW5EZAU/?tag=tolees-21)

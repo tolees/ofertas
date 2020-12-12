@@ -22,7 +22,7 @@ Ahora mismo tienes [Grsta Botella de Agua para Deportes de Acero Inoxidable Dobl
 
 [![Grsta Botella de Agua para Deportes de A](https://images-eu.ssl-images-amazon.com/images/I/41gWQuluVML._SL200_.jpg)](https://www.amazon.es/dp/B07GZLKL28/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GZLKL28/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW Rovulc Denim Low Sneakers  Zapatillas para Mujer 
 
 [![G-STAR RAW Rovulc Denim Low Sneakers  Za](https://images-eu.ssl-images-amazon.com/images/I/41tTpcFE0LL._SL200_.jpg)](https://www.amazon.es/dp/B01MT6N04I/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MT6N04I/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Gioseppo 49032  Shopper para Mujer  Azul  Marino  16x34x46 c
 
 [![Gioseppo 49032  Shopper para Mujer  Azul](https://images-eu.ssl-images-amazon.com/images/I/51fwxPVWGpL._SL200_.jpg)](https://www.amazon.es/dp/B07KRG7XV3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KRG7XV3/?tag=tolees-21)

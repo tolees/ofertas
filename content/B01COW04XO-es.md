@@ -22,7 +22,7 @@ Ahora mismo tienes [A Little Lovely Company LTCW025 - Lámpara en forma de nube 
 
 [![A Little Lovely Company LTCW025 - Lámpar](https://images-eu.ssl-images-amazon.com/images/I/31BSldl6XwL._SL200_.jpg)](https://www.amazon.es/dp/B01COW04XO/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01COW04XO/?tag=tolees-21)

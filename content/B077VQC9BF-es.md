@@ -22,7 +22,7 @@ Ahora mismo tienes [Gant Summer Chinos  Short Hombre  Azul  Lava Blue    Talla d
 
 [![Gant Summer Chinos  Short Hombre  Azul  ](https://images-eu.ssl-images-amazon.com/images/I/41XAC3UaOOL._SL200_.jpg)](https://www.amazon.es/dp/B077VQC9BF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077VQC9BF/?tag=tolees-21)

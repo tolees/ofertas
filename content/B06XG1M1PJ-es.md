@@ -22,7 +22,7 @@ Ahora mismo tienes [FIND Zapatillas Estilo Bamba para Hombre  Negro  Black   40 
 
 [![FIND Zapatillas Estilo Bamba para Hombre](https://images-eu.ssl-images-amazon.com/images/I/31JlBMX9MKL._SL200_.jpg)](https://www.amazon.es/dp/B06XG1M1PJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XG1M1PJ/?tag=tolees-21)

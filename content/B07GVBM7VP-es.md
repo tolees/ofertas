@@ -22,7 +22,7 @@ Ahora mismo tienes [MagiDeal Titular de Pelota de Tenis de Bolsillo Clip de Cint
 
 [![MagiDeal Titular de Pelota de Tenis de B](https://images-eu.ssl-images-amazon.com/images/I/31Pi-S5o3rL._SL200_.jpg)](https://www.amazon.es/dp/B07GVBM7VP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GVBM7VP/?tag=tolees-21)

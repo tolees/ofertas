@@ -22,7 +22,7 @@ Ahora mismo tienes [Schleich Marvel - Figura Superhéroe Falcon  18 4 cm](https:
 
 [![Schleich Marvel - Figura Superhéroe Falc](https://images-eu.ssl-images-amazon.com/images/I/51y5yx2FCgL._SL200_.jpg)](https://www.amazon.es/dp/B01M2AA8OZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01M2AA8OZ/?tag=tolees-21)

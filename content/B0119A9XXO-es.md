@@ -22,7 +22,7 @@ Ahora mismo tienes [SAKE GEKKEIKAN](https://www.amazon.es/dp/B0119A9XXO/?tag=tol
 
 [![SAKE GEKKEIKAN](https://images-eu.ssl-images-amazon.com/images/I/418KFPrhVRL._SL200_.jpg)](https://www.amazon.es/dp/B0119A9XXO/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0119A9XXO/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Armani Exchange Cotton Linen Denim Pantalones  Azul  Navy 15
 
 [![Armani Exchange Cotton Linen Denim Panta](https://images-eu.ssl-images-amazon.com/images/I/31TRUlsGYkL._SL200_.jpg)](https://www.amazon.es/dp/B07JGT9V4X/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JGT9V4X/?tag=tolees-21)

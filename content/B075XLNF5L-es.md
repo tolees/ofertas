@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance Fresh Foam Vongo v3  Zapatillas de Running para 
 
 [![New Balance Fresh Foam Vongo v3  Zapatil](https://images-eu.ssl-images-amazon.com/images/I/41Sc%2BtRv2lL._SL200_.jpg)](https://www.amazon.es/dp/B075XLNF5L/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075XLNF5L/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Asics Patriot 10 Zapatillas de Running Hombre  Gris  Mid Gre
 
 [![Asics Patriot 10 Zapatillas de Running H](https://images-eu.ssl-images-amazon.com/images/I/511TpCkLCSL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ22MJ3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CZ22MJ3/?tag=tolees-21)

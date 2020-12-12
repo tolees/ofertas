@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Rebel Up Basic T-Shirt  Hombre  Cotton Black  M](https:
 
 [![Puma Rebel Up Basic T-Shirt  Hombre  Cot](https://images-eu.ssl-images-amazon.com/images/I/31eSO51RKEL._SL200_.jpg)](https://www.amazon.es/dp/B07DFW7MQF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DFW7MQF/?tag=tolees-21)

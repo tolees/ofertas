@@ -22,7 +22,7 @@ Ahora mismo tienes [Pioneer SE-CH5T-S - Auriculares Tipo botón Hi-Res  Airflow 
 
 [![Pioneer SE-CH5T-S - Auriculares Tipo bot](https://images-eu.ssl-images-amazon.com/images/I/41uWDHDKe7L._SL200_.jpg)](https://www.amazon.es/dp/B06XGY6RH2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XGY6RH2/?tag=tolees-21)

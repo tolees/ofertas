@@ -22,7 +22,7 @@ Ahora mismo tienes [Reebok NPC II  Zapatillas para Hombre  Negro  47 EU](https:/
 
 [![Reebok NPC II  Zapatillas para Hombre  N](https://images-eu.ssl-images-amazon.com/images/I/41Z9HcQ9tYL._SL200_.jpg)](https://www.amazon.es/dp/B000B2OSTG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B000B2OSTG/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Dockers by Gerli 43st301  Botas Militar para Mujer  Amarillo
 
 [![Dockers by Gerli 43st301  Botas Militar ](https://images-eu.ssl-images-amazon.com/images/I/41QCzbnDZsL._SL200_.jpg)](https://www.amazon.es/dp/B07DJGRG4M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DJGRG4M/?tag=tolees-21)

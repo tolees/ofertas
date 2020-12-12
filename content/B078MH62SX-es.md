@@ -22,7 +22,7 @@ Ahora mismo tienes [Asics Classic Tempo  Zapatillas de Running para Hombre   Sto
 
 [![Asics Classic Tempo  Zapatillas de Runni](https://images-eu.ssl-images-amazon.com/images/I/41dytAZY7%2BL._SL200_.jpg)](https://www.amazon.es/dp/B078MH62SX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078MH62SX/?tag=tolees-21)

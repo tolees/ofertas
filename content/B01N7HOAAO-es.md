@@ -22,7 +22,7 @@ Ahora mismo tienes [Skean Breathe-Easy  Mary Jane para Niñas  Negro  BBK   30 E
 
 [![Skean Breathe-Easy  Mary Jane para Niñas](https://images-eu.ssl-images-amazon.com/images/I/412-0bsQo2L._SL200_.jpg)](https://www.amazon.es/dp/B01N7HOAAO/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N7HOAAO/?tag=tolees-21)

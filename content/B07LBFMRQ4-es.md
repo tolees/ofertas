@@ -22,7 +22,7 @@ Ahora mismo tienes [Napapijri Nakuro 2  Pantalones Cortos para Hombre  Azul  Sky
 
 [![Napapijri Nakuro 2  Pantalones Cortos pa](https://images-eu.ssl-images-amazon.com/images/I/31Y6yGwc2JL._SL200_.jpg)](https://www.amazon.es/dp/B07LBFMRQ4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07LBFMRQ4/?tag=tolees-21)

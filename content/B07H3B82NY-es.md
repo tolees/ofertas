@@ -22,7 +22,7 @@ Ahora mismo tienes [HP Pavilion 590-p0633ng 3 5 GHz AMD Ryzen 3 2200G Plata  Neg
 
 [![HP Pavilion 590-p0633ng 3 5 GHz AMD Ryze](https://images-eu.ssl-images-amazon.com/images/I/31rWji-KHHL._SL200_.jpg)](https://www.amazon.es/dp/B07H3B82NY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07H3B82NY/?tag=tolees-21)

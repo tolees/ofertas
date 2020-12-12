@@ -22,7 +22,7 @@ Ahora mismo tienes [Kappa Trust  Zapatillas Unisex Adulto  Negro  1111 Black   3
 
 [![Kappa Trust  Zapatillas Unisex Adulto  N](https://images-eu.ssl-images-amazon.com/images/I/41DiBe4xQDL._SL200_.jpg)](https://www.amazon.es/dp/B01M07XZCO/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01M07XZCO/?tag=tolees-21)

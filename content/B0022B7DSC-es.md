@@ -22,7 +22,7 @@ Ahora mismo tienes [Cressi Shorty Kid Monoshort Infantil en Neopreno de 1.5/2mm 
 
 [![Cressi Shorty Kid Monoshort Infantil en ](https://images-eu.ssl-images-amazon.com/images/I/41F094U4%2BEL._SL200_.jpg)](https://www.amazon.es/dp/B0022B7DSC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0022B7DSC/?tag=tolees-21)

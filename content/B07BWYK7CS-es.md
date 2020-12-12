@@ -22,7 +22,7 @@ Ahora mismo tienes [Jurassic World Evolution](https://www.amazon.es/dp/B07BWYK7C
 
 [![Jurassic World Evolution](https://images-eu.ssl-images-amazon.com/images/I/51lmfpx3fEL._SL200_.jpg)](https://www.amazon.es/dp/B07BWYK7CS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BWYK7CS/?tag=tolees-21)

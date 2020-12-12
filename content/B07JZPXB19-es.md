@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Forest Grove Zapatillas de Gimnasia Hombre  Azul  Col
 
 [![adidas Forest Grove Zapatillas de Gimnas](https://images-eu.ssl-images-amazon.com/images/I/41q6Gb5ZYdL._SL200_.jpg)](https://www.amazon.es/dp/B07JZPXB19/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JZPXB19/?tag=tolees-21)

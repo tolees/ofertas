@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Jaden JR PB501315  Top de Manga Larga para Niños
 
 [![Pepe Jeans Jaden JR PB501315  Top de Man](https://images-eu.ssl-images-amazon.com/images/I/51LWzCh8vAL._SL200_.jpg)](https://www.amazon.es/dp/B06XGGRY5K/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XGGRY5K/?tag=tolees-21)

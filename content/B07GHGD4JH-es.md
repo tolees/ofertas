@@ -22,7 +22,7 @@ Ahora mismo tienes [- Vivid Purse Lh12f  Carteras Mujer  Rojo  Rot  Red    1.0x9
 
 [![- Vivid Purse Lh12f  Carteras Mujer  Roj](https://images-eu.ssl-images-amazon.com/images/I/51reHCoQxKL._SL200_.jpg)](https://www.amazon.es/dp/B07GHGD4JH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GHGD4JH/?tag=tolees-21)

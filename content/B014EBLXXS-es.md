@@ -22,7 +22,7 @@ Ahora mismo tienes [Osprey Farpoint 70 Men s Travel Pack with 13L Detachable Day
 
 [![Osprey Farpoint 70 Men s Travel Pack wit](https://images-eu.ssl-images-amazon.com/images/I/41Y2yMRLriL._SL200_.jpg)](https://www.amazon.es/dp/B014EBLXXS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B014EBLXXS/?tag=tolees-21)

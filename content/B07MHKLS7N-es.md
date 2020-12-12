@@ -22,7 +22,7 @@ Ahora mismo tienes [iTrunk Protector de Pantalla para dji Osmo Pocket  Vidrio Te
 
 [![iTrunk Protector de Pantalla para dji Os](https://images-eu.ssl-images-amazon.com/images/I/31xZfje0oXL._SL200_.jpg)](https://www.amazon.es/dp/B07MHKLS7N/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MHKLS7N/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Limpiador de poros  quita poros nariz  limpia poros facial a
 
 [![Limpiador de poros  quita poros nariz  l](https://images-eu.ssl-images-amazon.com/images/I/412jkeffmiL._SL200_.jpg)](https://www.amazon.es/dp/B07FTD424V/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FTD424V/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [MODERN LIFE Soporte de Pared Fijo para TV de 15-42" Pulgadas
 
 [![MODERN LIFE Soporte de Pared Fijo para T](https://images-eu.ssl-images-amazon.com/images/I/414FQm4Rl2L._SL200_.jpg)](https://www.amazon.es/dp/B07KWSW166/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KWSW166/?tag=tolees-21)

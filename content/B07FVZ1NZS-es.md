@@ -22,7 +22,7 @@ Ahora mismo tienes [SELECTED HOMME Slhnewseason SS Polo W Noos  Hombre  Verde  Q
 
 [![SELECTED HOMME Slhnewseason SS Polo W No](https://images-eu.ssl-images-amazon.com/images/I/41C7XVgCg9L._SL200_.jpg)](https://www.amazon.es/dp/B07FVZ1NZS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FVZ1NZS/?tag=tolees-21)

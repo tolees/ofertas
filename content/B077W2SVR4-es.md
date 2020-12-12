@@ -22,7 +22,7 @@ Ahora mismo tienes [K-Swiss Court Cheswick SDE  Zapatillas de Estar por casa par
 
 [![K-Swiss Court Cheswick SDE  Zapatillas d](https://images-eu.ssl-images-amazon.com/images/I/41AIEyxvH6L._SL200_.jpg)](https://www.amazon.es/dp/B077W2SVR4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077W2SVR4/?tag=tolees-21)

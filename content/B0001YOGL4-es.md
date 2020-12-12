@@ -22,7 +22,7 @@ Ahora mismo tienes [CK BE Eau De Toilette 50ML](https://www.amazon.es/dp/B0001YO
 
 [![CK BE Eau De Toilette 50ML](https://images-eu.ssl-images-amazon.com/images/I/410a9lhXGVL._SL200_.jpg)](https://www.amazon.es/dp/B0001YOGL4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0001YOGL4/?tag=tolees-21)

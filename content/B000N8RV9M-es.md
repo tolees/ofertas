@@ -22,7 +22,7 @@ Ahora mismo tienes [Dickies Double Knee Work Pant Pantalones  Gris  Charcoal Ch 
 
 [![Dickies Double Knee Work Pant Pantalones](https://images-eu.ssl-images-amazon.com/images/I/41lPiQxYXqL._SL200_.jpg)](https://www.amazon.es/dp/B000N8RV9M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B000N8RV9M/?tag=tolees-21)

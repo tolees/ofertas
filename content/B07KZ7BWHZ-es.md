@@ -22,7 +22,7 @@ Ahora mismo tienes [Cortefiel C5Bck Polo Oxford  Hombre   Gama Rojo 65   XX-Larg
 
 [![Cortefiel C5Bck Polo Oxford  Hombre   Ga](https://images-eu.ssl-images-amazon.com/images/I/41B%2BfeNjNGL._SL200_.jpg)](https://www.amazon.es/dp/B07KZ7BWHZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KZ7BWHZ/?tag=tolees-21)

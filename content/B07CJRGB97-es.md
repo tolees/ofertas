@@ -22,7 +22,7 @@ Ahora mismo tienes [Auriculares Diadema Bluetooth Inalambricos  30hrs de Duraci�
 
 [![Auriculares Diadema Bluetooth Inalambric](https://images-eu.ssl-images-amazon.com/images/I/41P4E5Gj%2B7L._SL200_.jpg)](https://www.amazon.es/dp/B07CJRGB97/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CJRGB97/?tag=tolees-21)

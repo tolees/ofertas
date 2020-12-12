@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike Dualtone Racer  Zapatillas de Gimnasia para Hombre  Gri
 
 [![Nike Dualtone Racer  Zapatillas de Gimna](https://images-eu.ssl-images-amazon.com/images/I/41uFdUAIU8L._SL200_.jpg)](https://www.amazon.es/dp/B00BYIV0X8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00BYIV0X8/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Walther  Libro de Visitas  Sweet Heart  GB-123  23x25 cm  14
 
 [![Walther  Libro de Visitas  Sweet Heart  ](https://images-eu.ssl-images-amazon.com/images/I/41ktd4wJBnL._SL200_.jpg)](https://www.amazon.es/dp/B008XCP0FC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B008XCP0FC/?tag=tolees-21)

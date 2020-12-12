@@ -22,7 +22,7 @@ Ahora mismo tienes [Philips SHL3265BL/00 - Auriculares de diadema cerrados tipo 
 
 [![Philips SHL3265BL/00 - Auriculares de di](https://images-eu.ssl-images-amazon.com/images/I/41BZpxByP7L._SL200_.jpg)](https://www.amazon.es/dp/B00ULOAY74/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00ULOAY74/?tag=tolees-21)

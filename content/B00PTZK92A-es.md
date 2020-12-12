@@ -22,7 +22,7 @@ Ahora mismo tienes [INSTAR 100437 Cable alargador de antena  5 metros  SMA ](htt
 
 [![INSTAR 100437 Cable alargador de antena ](https://images-eu.ssl-images-amazon.com/images/I/41-NI5FTACL._SL200_.jpg)](https://www.amazon.es/dp/B00PTZK92A/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00PTZK92A/?tag=tolees-21)

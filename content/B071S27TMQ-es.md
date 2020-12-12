@@ -22,7 +22,7 @@ Ahora mismo tienes [Gioseppo 30664  Zapatillas para Mujer  Morado  Burdeos   37 
 
 [![Gioseppo 30664  Zapatillas para Mujer  M](https://images-eu.ssl-images-amazon.com/images/I/41HyeC0Vq-L._SL200_.jpg)](https://www.amazon.es/dp/B071S27TMQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071S27TMQ/?tag=tolees-21)

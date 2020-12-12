@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Runfalcon  Zapatillas de Running para Hombre  Blanco 
 
 [![adidas Runfalcon  Zapatillas de Running ](https://images-eu.ssl-images-amazon.com/images/I/31CWP-f0EBL._SL200_.jpg)](https://www.amazon.es/dp/B07K38JZ5M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07K38JZ5M/?tag=tolees-21)

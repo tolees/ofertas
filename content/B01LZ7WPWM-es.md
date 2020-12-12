@@ -22,7 +22,7 @@ Ahora mismo tienes [Cruzcampo Cerveza - Pack de 12 Latas x 330 ml - Total: 3 96 
 
 [![Cruzcampo Cerveza - Pack de 12 Latas x 3](http://images.amazon.com/images/P/B01LZ7WPWM.01._PI_SCMZZZZZZZ_._SL200_.jpg)](https://www.amazon.es/dp/B01LZ7WPWM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01LZ7WPWM/?tag=tolees-21)

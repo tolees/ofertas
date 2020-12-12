@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance - ML574ETB - ML574ETB - El Color: Azul Marino - 
 
 [![New Balance - ML574ETB - ML574ETB - El C](https://images-eu.ssl-images-amazon.com/images/I/41vRK9mKxzL._SL200_.jpg)](https://www.amazon.es/dp/B07FFJB4MQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FFJB4MQ/?tag=tolees-21)

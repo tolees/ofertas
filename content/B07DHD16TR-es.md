@@ -22,7 +22,7 @@ Ahora mismo tienes [500W Inversor De Energía DC 12V A AC 220V 230V 240V Convert
 
 [![500W Inversor De Energía DC 12V A AC 220](https://images-eu.ssl-images-amazon.com/images/I/51lKXxsv1XL._SL200_.jpg)](https://www.amazon.es/dp/B07DHD16TR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DHD16TR/?tag=tolees-21)

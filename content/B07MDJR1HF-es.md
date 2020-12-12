@@ -22,7 +22,7 @@ Ahora mismo tienes [Maquinilla de afeitar de doble filo - Manual Adecuado para t
 
 [![Maquinilla de afeitar de doble filo - Ma](https://images-eu.ssl-images-amazon.com/images/I/41hHykf5AZL._SL200_.jpg)](https://www.amazon.es/dp/B07MDJR1HF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MDJR1HF/?tag=tolees-21)

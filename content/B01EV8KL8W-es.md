@@ -22,7 +22,7 @@ Ahora mismo tienes [Ventilador de techo Sulión 075660 modelo Westland con luz  
 
 [![Ventilador de techo Sulión 075660 modelo](https://images-eu.ssl-images-amazon.com/images/I/41ogn5jLL9L._SL200_.jpg)](https://www.amazon.es/dp/B01EV8KL8W/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01EV8KL8W/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [pediped Estella - Merceditas de sintético para niña  color
 
 [![pediped Estella - Merceditas de sintétic](https://images-eu.ssl-images-amazon.com/images/I/41OpAjYTj3L._SL200_.jpg)](https://www.amazon.es/dp/B00AYU2JFK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00AYU2JFK/?tag=tolees-21)

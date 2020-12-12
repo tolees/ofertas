@@ -22,7 +22,7 @@ Ahora mismo tienes [Cressi Rondinella Aletas  Unisex  Turquesa  47-48](https://w
 
 [![Cressi Rondinella Aletas  Unisex  Turque](https://images-eu.ssl-images-amazon.com/images/I/41zr5zEfTjL._SL200_.jpg)](https://www.amazon.es/dp/B000NRJEE8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B000NRJEE8/?tag=tolees-21)

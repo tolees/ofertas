@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Ignite Limitless 2  Zapatillas de Running Unisex Adulto
 
 [![Puma Ignite Limitless 2  Zapatillas de R](https://images-eu.ssl-images-amazon.com/images/I/41onw%2BcISPL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ91KKB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CZ91KKB/?tag=tolees-21)

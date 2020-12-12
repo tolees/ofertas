@@ -22,7 +22,7 @@ Ahora mismo tienes [BILLABONG All Day OG Stripe 18 Bañador  Hombre   Azul 20   
 
 [![BILLABONG All Day OG Stripe 18 Bañador  ](https://images-eu.ssl-images-amazon.com/images/I/41cwqlw5jJL._SL200_.jpg)](https://www.amazon.es/dp/B079KKH4BS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079KKH4BS/?tag=tolees-21)

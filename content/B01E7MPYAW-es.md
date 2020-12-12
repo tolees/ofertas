@@ -22,7 +22,7 @@ Ahora mismo tienes [Lékué Espátula Smart Tool  Silicona  Azul  0 cm](https://
 
 [![Lékué Espátula Smart Tool  Silicona  Azu](https://images-eu.ssl-images-amazon.com/images/I/21TsWcV7cwL._SL200_.jpg)](https://www.amazon.es/dp/B01E7MPYAW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01E7MPYAW/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Globe Encore-2  Zapatillas de Skateboard Hombre  Multicolor 
 
 [![Globe Encore-2  Zapatillas de Skateboard](https://images-eu.ssl-images-amazon.com/images/I/41lqXNpDT-L._SL200_.jpg)](https://www.amazon.es/dp/B01COQGT1G/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01COQGT1G/?tag=tolees-21)

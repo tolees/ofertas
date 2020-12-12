@@ -22,7 +22,7 @@ Ahora mismo tienes [Giorgi Espuma fijadora hidratante  Extra Fuerte - 210 ml](ht
 
 [![Giorgi Espuma fijadora hidratante  Extra](https://images-eu.ssl-images-amazon.com/images/I/319WWGaYSeL._SL200_.jpg)](https://www.amazon.es/dp/B071JBZGGM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071JBZGGM/?tag=tolees-21)

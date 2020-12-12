@@ -22,7 +22,7 @@ Ahora mismo tienes [Esponja Maquillaje Microfibra Velvet Sponge  Latex-Free  Tec
 
 [![Esponja Maquillaje Microfibra Velvet Spo](https://images-eu.ssl-images-amazon.com/images/I/412Mv6v5PSL._SL200_.jpg)](https://www.amazon.es/dp/B07L4N3QDD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07L4N3QDD/?tag=tolees-21)

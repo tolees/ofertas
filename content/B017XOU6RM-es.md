@@ -22,7 +22,7 @@ Ahora mismo tienes [ELEGIANT IR Infrarrojos Remoto Control Adaptador USB Extenso
 
 [![ELEGIANT IR Infrarrojos Remoto Control A](https://images-eu.ssl-images-amazon.com/images/I/41ibRmcvXJL._SL200_.jpg)](https://www.amazon.es/dp/B017XOU6RM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B017XOU6RM/?tag=tolees-21)

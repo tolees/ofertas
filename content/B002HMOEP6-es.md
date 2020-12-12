@@ -22,7 +22,7 @@ Ahora mismo tienes [Bahco 808050L - Destornillador Carraca C/Lampara](https://ww
 
 [![Bahco 808050L - Destornillador Carraca C](https://images-eu.ssl-images-amazon.com/images/I/31HYgR%2BX49L._SL200_.jpg)](https://www.amazon.es/dp/B002HMOEP6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B002HMOEP6/?tag=tolees-21)

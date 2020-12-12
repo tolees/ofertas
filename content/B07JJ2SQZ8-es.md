@@ -22,7 +22,7 @@ Ahora mismo tienes [1 par de proteína de colágeno Mascarilla para ojos Elimina
 
 [![1 par de proteína de colágeno Mascarilla](https://images-eu.ssl-images-amazon.com/images/I/41XkVOUKDkL._SL200_.jpg)](https://www.amazon.es/dp/B07JJ2SQZ8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JJ2SQZ8/?tag=tolees-21)

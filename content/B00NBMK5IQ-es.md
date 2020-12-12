@@ -22,7 +22,7 @@ Ahora mismo tienes [KOH-I-NOOR 3822 Mona Lisa Artist s Coloured Pencils - Assort
 
 [![KOH-I-NOOR 3822 Mona Lisa Artist s Colou](https://images-eu.ssl-images-amazon.com/images/I/51mQ3fFfatL._SL200_.jpg)](https://www.amazon.es/dp/B00NBMK5IQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00NBMK5IQ/?tag=tolees-21)

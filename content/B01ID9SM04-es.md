@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Basic Brief 2P - Calzoncillos para hombre  color blanco
 
 [![Puma Basic Brief 2P - Calzoncillos para ](https://images-eu.ssl-images-amazon.com/images/I/41vKiTeqj1L._SL200_.jpg)](https://www.amazon.es/dp/B01ID9SM04/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01ID9SM04/?tag=tolees-21)

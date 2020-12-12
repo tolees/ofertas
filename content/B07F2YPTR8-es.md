@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Axis  Zapatillas Unisex Adulto  Blanco White-High Rise 
 
 [![Puma Axis  Zapatillas Unisex Adulto  Bla](https://images-eu.ssl-images-amazon.com/images/I/31i9WeGIT3L._SL200_.jpg)](https://www.amazon.es/dp/B07F2YPTR8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F2YPTR8/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Reebok Club C 85  Zapatillas de Gimnasia para Mujer  Face/Ba
 
 [![Reebok Club C 85  Zapatillas de Gimnasia](https://images-eu.ssl-images-amazon.com/images/I/41wS3UWdP8L._SL200_.jpg)](https://www.amazon.es/dp/B07D2NG62F/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D2NG62F/?tag=tolees-21)

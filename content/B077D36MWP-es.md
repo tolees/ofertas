@@ -22,7 +22,7 @@ Ahora mismo tienes [Lunvon Wristband Magnético Con Los Imanes Fuertes Magnétic
 
 [![Lunvon Wristband Magnético Con Los Imane](https://images-eu.ssl-images-amazon.com/images/I/51KC0hrYbNL._SL200_.jpg)](https://www.amazon.es/dp/B077D36MWP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077D36MWP/?tag=tolees-21)

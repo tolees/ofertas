@@ -22,7 +22,7 @@ Ahora mismo tienes [Wiko Highway pure - Terminal libre de 4.8"  LTE  WiFi  Bluet
 
 [![Wiko Highway pure - Terminal libre de 4.](https://images-eu.ssl-images-amazon.com/images/I/41d8IOJU0-L._SL200_.jpg)](https://www.amazon.es/dp/B00UVHOVO8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00UVHOVO8/?tag=tolees-21)

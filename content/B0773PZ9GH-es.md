@@ -22,7 +22,7 @@ Ahora mismo tienes [Levis Footwear and Accessories Skinner  Zapatillas para Homb
 
 [![Levis Footwear and Accessories Skinner  ](https://images-eu.ssl-images-amazon.com/images/I/31QWGy10HpL._SL200_.jpg)](https://www.amazon.es/dp/B0773PZ9GH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0773PZ9GH/?tag=tolees-21)

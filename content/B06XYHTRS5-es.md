@@ -22,7 +22,7 @@ Ahora mismo tienes [iEGrow Compatible para Teclado para iPad Pro 9.7 con Bluetoo
 
 [![iEGrow Compatible para Teclado para iPad](https://images-eu.ssl-images-amazon.com/images/I/41crHorO3TL._SL200_.jpg)](https://www.amazon.es/dp/B06XYHTRS5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XYHTRS5/?tag=tolees-21)

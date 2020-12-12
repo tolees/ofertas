@@ -22,7 +22,7 @@ Ahora mismo tienes [Lijadora Excéntrica  TECCPO Lijadora Eléctrica 280W  14000
 
 [![Lijadora Excéntrica  TECCPO Lijadora Elé](https://images-eu.ssl-images-amazon.com/images/I/51dTqLavYJL._SL200_.jpg)](https://www.amazon.es/dp/B07FS8PVM2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FS8PVM2/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Women s Secret CP Flower Sbup  Sujetador básico para Mujer 
 
 [![Women s Secret CP Flower Sbup  Sujetador](https://images-eu.ssl-images-amazon.com/images/I/51peUH2qByL._SL200_.jpg)](https://www.amazon.es/dp/B07DLK25PR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DLK25PR/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Anker Power Drive 2 Elite 24 W 2 Port - Cargador de Coche
 
 [![Anker Power Drive 2 Elite 24 W 2 Port - ](https://images-eu.ssl-images-amazon.com/images/I/418edYBfVSL._SL200_.jpg)](https://www.amazon.es/dp/B01NATU2B2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01NATU2B2/?tag=tolees-21)

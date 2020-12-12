@@ -22,7 +22,7 @@ Ahora mismo tienes [Aobosi Slow Juicer Licuadora para Fruta y Verdura de Prensad
 
 [![Aobosi Slow Juicer Licuadora para Fruta ](https://images-eu.ssl-images-amazon.com/images/I/51s6ZSQVd9L._SL200_.jpg)](https://www.amazon.es/dp/B07JN4WQ3G/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JN4WQ3G/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW 3301 Slim  Jeans para Hombre  Negro  Lt Aged Dest
 
 [![G-STAR RAW 3301 Slim  Jeans para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41N81QrZr5L._SL200_.jpg)](https://www.amazon.es/dp/B07MR8B38W/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MR8B38W/?tag=tolees-21)

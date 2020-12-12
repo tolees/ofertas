@@ -22,7 +22,7 @@ Ahora mismo tienes [Fossil Reloj Analogico para Hombre de Cuarzo con Correa en C
 
 [![Fossil Reloj Analogico para Hombre de Cu](https://images-eu.ssl-images-amazon.com/images/I/41QBRdlIi9L._SL200_.jpg)](https://www.amazon.es/dp/B078RZJH5S/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078RZJH5S/?tag=tolees-21)

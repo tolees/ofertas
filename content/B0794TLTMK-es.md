@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike Air Jordan 1 Low GS  Zapatillas Unisex Niños  Negro  B
 
 [![Nike Air Jordan 1 Low GS  Zapatillas Uni](https://images-eu.ssl-images-amazon.com/images/I/419djSUnPgL._SL200_.jpg)](https://www.amazon.es/dp/B0794TLTMK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0794TLTMK/?tag=tolees-21)

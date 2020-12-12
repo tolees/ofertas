@@ -22,7 +22,7 @@ Ahora mismo tienes [LENBEST Máscara de Buceo  Máscara de Snorkel  180° Másca
 
 [![LENBEST Máscara de Buceo  Máscara de Sno](https://images-eu.ssl-images-amazon.com/images/I/51XcOJLgtFL._SL200_.jpg)](https://www.amazon.es/dp/B07PRT6Z76/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07PRT6Z76/?tag=tolees-21)

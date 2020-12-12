@@ -22,7 +22,7 @@ Ahora mismo tienes [The North Face Tekware TNF Pantalones  Mujer  Marrón  Wmrn 
 
 [![The North Face Tekware TNF Pantalones  M](https://images-eu.ssl-images-amazon.com/images/I/41EXMbe9clL._SL200_.jpg)](https://www.amazon.es/dp/B01A6XC7YC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01A6XC7YC/?tag=tolees-21)

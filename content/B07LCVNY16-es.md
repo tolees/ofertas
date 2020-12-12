@@ -22,7 +22,7 @@ Ahora mismo tienes [Lotus Reloj Cronógrafo para Hombre de Cuarzo con Correa en 
 
 [![Lotus Reloj Cronógrafo para Hombre de Cu](https://images-eu.ssl-images-amazon.com/images/I/41O4CkvwB2L._SL200_.jpg)](https://www.amazon.es/dp/B07LCVNY16/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07LCVNY16/?tag=tolees-21)

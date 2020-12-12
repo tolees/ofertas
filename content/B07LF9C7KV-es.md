@@ -22,7 +22,7 @@ Ahora mismo tienes [Grabadora de Voz Digital ADOKEY 8GB Dictáfono Grabador de S
 
 [![Grabadora de Voz Digital ADOKEY 8GB Dict](https://images-eu.ssl-images-amazon.com/images/I/411I2LOssPL._SL200_.jpg)](https://www.amazon.es/dp/B07LF9C7KV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07LF9C7KV/?tag=tolees-21)

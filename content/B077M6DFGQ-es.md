@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Basket Platform Perf Gum  Zapatillas para Mujer  Negro 
 
 [![Puma Basket Platform Perf Gum  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/415wCFsKlzL._SL200_.jpg)](https://www.amazon.es/dp/B077M6DFGQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077M6DFGQ/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour Rapid  Zapatillas de Running para Hombre  Azul 
 
 [![Under Armour Rapid  Zapatillas de Runnin](https://images-eu.ssl-images-amazon.com/images/I/41al01NF8GL._SL200_.jpg)](https://www.amazon.es/dp/B01N2OUK8N/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N2OUK8N/?tag=tolees-21)

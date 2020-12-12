@@ -22,7 +22,7 @@ Ahora mismo tienes [Braun BT3020 - Recortadora de barba recargable de precisión
 
 [![Braun BT3020 - Recortadora de barba reca](https://images-eu.ssl-images-amazon.com/images/I/41tykFm7FKL._SL200_.jpg)](https://www.amazon.es/dp/B01N1GNXBC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N1GNXBC/?tag=tolees-21)

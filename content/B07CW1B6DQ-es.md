@@ -22,7 +22,7 @@ Ahora mismo tienes [Lenovo ThinkPad L580 - Ordenador portátil de 15    Intel Co
 
 [![Lenovo ThinkPad L580 - Ordenador portáti](https://images-eu.ssl-images-amazon.com/images/I/41oeL5f%2BZRL._SL200_.jpg)](https://www.amazon.es/dp/B07CW1B6DQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CW1B6DQ/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [ASUS ROG Strix Scar II GL504GM-ES327T - Portátil Gaming de 
 
 [![ASUS ROG Strix Scar II GL504GM-ES327T - ](https://images-eu.ssl-images-amazon.com/images/I/41J94AepzJL._SL200_.jpg)](https://www.amazon.es/dp/B07N96BNM7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07N96BNM7/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [ASUS ZenFone 3 ZE552KL - Smartphone de 5.5"  WiFi  4 GB LPDD
 
 [![ASUS ZenFone 3 ZE552KL - Smartphone de 5](https://images-eu.ssl-images-amazon.com/images/I/414IXLtCosL._SL200_.jpg)](https://www.amazon.es/dp/B01M4JU3IH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01M4JU3IH/?tag=tolees-21)

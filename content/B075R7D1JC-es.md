@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance X-90  Zapatillas para Mujer  Naranja  Dark Oxide
 
 [![New Balance X-90  Zapatillas para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41Tcay681qL._SL200_.jpg)](https://www.amazon.es/dp/B075R7D1JC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075R7D1JC/?tag=tolees-21)

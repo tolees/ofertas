@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Mega Nrgy Turbo 2  Zapatillas de Cross para Hombre  Roj
 
 [![Puma Mega Nrgy Turbo 2  Zapatillas de Cr](https://images-eu.ssl-images-amazon.com/images/I/41RdQCYvSXL._SL200_.jpg)](https://www.amazon.es/dp/B077MQ6CH9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077MQ6CH9/?tag=tolees-21)

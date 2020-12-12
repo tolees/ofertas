@@ -22,7 +22,7 @@ Ahora mismo tienes [Lookdoré IB+Energy Gel Crema - Vitamina C Facial y Antioxid
 
 [![Lookdoré IB+Energy Gel Crema - Vitamina ](https://images-eu.ssl-images-amazon.com/images/I/41c-841TAgL._SL200_.jpg)](https://www.amazon.es/dp/B07D5SP95P/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D5SP95P/?tag=tolees-21)

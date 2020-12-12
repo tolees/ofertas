@@ -22,7 +22,7 @@ Ahora mismo tienes [Maclaren Ace Silla de paseo - super ligera  compacta](https:
 
 [![Maclaren Ace Silla de paseo - super lige](https://images-eu.ssl-images-amazon.com/images/I/41vtAKUzElL._SL200_.jpg)](https://www.amazon.es/dp/B01M0LB7NO/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01M0LB7NO/?tag=tolees-21)

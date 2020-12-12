@@ -22,7 +22,7 @@ Ahora mismo tienes [Casio Reloj Analógico para Hombre de Cuarzo con Correa en A
 
 [![Casio Reloj Analógico para Hombre de Cua](https://images-eu.ssl-images-amazon.com/images/I/41jAXmttPaL._SL200_.jpg)](https://www.amazon.es/dp/B07GBJP1TB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GBJP1TB/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Bosch PWS 750-115 -  Amoladora  750 W  empuñadura antivibra
 
 [![Bosch PWS 750-115 -  Amoladora  750 W  e](https://images-eu.ssl-images-amazon.com/images/I/41NUbflzepL._SL200_.jpg)](https://www.amazon.es/dp/B00CS2UJ18/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00CS2UJ18/?tag=tolees-21)

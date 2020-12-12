@@ -22,7 +22,7 @@ Ahora mismo tienes [Watch Dogs 2 - San Francisco Edition](https://www.amazon.es/
 
 [![Watch Dogs 2 - San Francisco Edition](https://images-eu.ssl-images-amazon.com/images/I/51eXJFgB7KL._SL200_.jpg)](https://www.amazon.es/dp/B01GWQRI7S/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01GWQRI7S/?tag=tolees-21)

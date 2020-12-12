@@ -22,7 +22,7 @@ Ahora mismo tienes [FRANC-TEXTIL  Kivik 3-Plazas Sofá Funda Kivik  ETNA  Beige/
 
 [![FRANC-TEXTIL  Kivik 3-Plazas Sofá Funda ](https://images-eu.ssl-images-amazon.com/images/I/31z9IS0S1PL._SL200_.jpg)](https://www.amazon.es/dp/B012D8EQV0/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B012D8EQV0/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Columbia Bajada III Winter  Zapatillas de Trail Running para
 
 [![Columbia Bajada III Winter  Zapatillas d](https://images-eu.ssl-images-amazon.com/images/I/41LwpUqJ2QL._SL200_.jpg)](https://www.amazon.es/dp/B0788BKRPV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0788BKRPV/?tag=tolees-21)

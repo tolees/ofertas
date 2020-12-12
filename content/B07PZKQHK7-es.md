@@ -22,7 +22,7 @@ Ahora mismo tienes [TWS 5.0 Auriculares Bluetooth inalámbricos con micrófono e
 
 [![TWS 5.0 Auriculares Bluetooth inalámbric](https://images-eu.ssl-images-amazon.com/images/I/31XZmu1-r2L._SL200_.jpg)](https://www.amazon.es/dp/B07PZKQHK7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07PZKQHK7/?tag=tolees-21)

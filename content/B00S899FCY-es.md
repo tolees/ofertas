@@ -22,7 +22,7 @@ Ahora mismo tienes [Collarín Cervical con Turmalina Emite Calor Soporte Cuello 
 
 [![Collarín Cervical con Turmalina Emite Ca](https://images-eu.ssl-images-amazon.com/images/I/51k9njwzS8L._SL200_.jpg)](https://www.amazon.es/dp/B00S899FCY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00S899FCY/?tag=tolees-21)

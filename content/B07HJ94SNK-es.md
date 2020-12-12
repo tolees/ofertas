@@ -22,7 +22,7 @@ Ahora mismo tienes [MaxKare Masajeador Shiatsu Inalámbrico para Cervicales  Cue
 
 [![MaxKare Masajeador Shiatsu Inalámbrico p](https://images-eu.ssl-images-amazon.com/images/I/41662yGU3aL._SL200_.jpg)](https://www.amazon.es/dp/B07HJ94SNK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07HJ94SNK/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Samsung – Carcasa de silicona para Samsung Galaxy S9 +�
 
 [![Samsung – Carcasa de silicona para Samsu](https://images-eu.ssl-images-amazon.com/images/I/31g2jXJuSUL._SL200_.jpg)](https://www.amazon.es/dp/B079G13NDQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079G13NDQ/?tag=tolees-21)

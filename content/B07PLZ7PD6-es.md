@@ -22,7 +22,7 @@ Ahora mismo tienes [NONZERS 2-Pack Vidrio Templado para Huawei Cristal Templado 
 
 [![NONZERS 2-Pack Vidrio Templado para Huaw](https://images-eu.ssl-images-amazon.com/images/I/51dh2Js9PtL._SL200_.jpg)](https://www.amazon.es/dp/B07PLZ7PD6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07PLZ7PD6/?tag=tolees-21)

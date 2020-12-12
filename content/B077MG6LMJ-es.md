@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Smash V2 L  Zapatillas Unisex Adulto  Blanco White-Peac
 
 [![Puma Smash V2 L  Zapatillas Unisex Adult](https://images-eu.ssl-images-amazon.com/images/I/41K8gZDdyML._SL200_.jpg)](https://www.amazon.es/dp/B077MG6LMJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077MG6LMJ/?tag=tolees-21)

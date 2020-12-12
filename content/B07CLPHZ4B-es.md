@@ -22,7 +22,7 @@ Ahora mismo tienes [Guardianes De La Galaxia - Vol. 2 [Blu-ray]](https://www.ama
 
 [![Guardianes De La Galaxia - Vol. 2 [Blu-r](https://images-eu.ssl-images-amazon.com/images/I/51NLkDap4CL._SL200_.jpg)](https://www.amazon.es/dp/B07CLPHZ4B/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CLPHZ4B/?tag=tolees-21)

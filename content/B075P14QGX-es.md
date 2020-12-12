@@ -22,7 +22,7 @@ Ahora mismo tienes [Hoover - Khross KS50PET- Aspirador Trineo sin Bolsa  Depósi
 
 [![Hoover - Khross KS50PET- Aspirador Trine](https://images-eu.ssl-images-amazon.com/images/I/41S14wKz1mL._SL200_.jpg)](https://www.amazon.es/dp/B075P14QGX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075P14QGX/?tag=tolees-21)

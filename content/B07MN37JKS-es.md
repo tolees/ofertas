@@ -22,7 +22,7 @@ Ahora mismo tienes [Masajeador de Cuello y Hombros  iFanze Masajeador Electrico 
 
 [![Masajeador de Cuello y Hombros  iFanze M](https://images-eu.ssl-images-amazon.com/images/I/41K1zTu9tCL._SL200_.jpg)](https://www.amazon.es/dp/B07MN37JKS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MN37JKS/?tag=tolees-21)

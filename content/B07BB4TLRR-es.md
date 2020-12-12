@@ -22,7 +22,7 @@ Ahora mismo tienes [The North Face Equipment TNF Mochila  Unisex adulto  Verde  
 
 [![The North Face Equipment TNF Mochila  Un](https://images-eu.ssl-images-amazon.com/images/I/31YtM34F4ML._SL200_.jpg)](https://www.amazon.es/dp/B07BB4TLRR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BB4TLRR/?tag=tolees-21)

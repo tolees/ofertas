@@ -22,7 +22,7 @@ Ahora mismo tienes [CRXOOX Protector de Pantalla para Huawei P20 Pro Vidrio Temp
 
 [![CRXOOX Protector de Pantalla para Huawei](https://images-eu.ssl-images-amazon.com/images/I/51o0AbmfFrL._SL200_.jpg)](https://www.amazon.es/dp/B07MFPG97Y/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MFPG97Y/?tag=tolees-21)

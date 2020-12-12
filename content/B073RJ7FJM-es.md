@@ -22,7 +22,7 @@ Ahora mismo tienes [Reebok Trainfusion Nine 2.0  Zapatillas de Deporte para Homb
 
 [![Reebok Trainfusion Nine 2.0  Zapatillas ](https://images-eu.ssl-images-amazon.com/images/I/41ub-6I6srL._SL200_.jpg)](https://www.amazon.es/dp/B073RJ7FJM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B073RJ7FJM/?tag=tolees-21)

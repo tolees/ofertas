@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Persist XT  Zapatillas de Deporte para Hombre  Negro Bl
 
 [![Puma Persist XT  Zapatillas de Deporte p](https://images-eu.ssl-images-amazon.com/images/I/41q8Z%2B1hXZL._SL200_.jpg)](https://www.amazon.es/dp/B07DC13FKT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DC13FKT/?tag=tolees-21)

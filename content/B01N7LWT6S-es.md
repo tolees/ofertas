@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance 300  Zapatillas para Mujer  Blanco  White   41.5
 
 [![New Balance 300  Zapatillas para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/31gsoUV-IxL._SL200_.jpg)](https://www.amazon.es/dp/B01N7LWT6S/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N7LWT6S/?tag=tolees-21)

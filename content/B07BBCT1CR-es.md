@@ -22,7 +22,7 @@ Ahora mismo tienes [Auntwhale 100 semillas de fresas trepadoras](https://www.ama
 
 [![Auntwhale 100 semillas de fresas trepado](https://images-eu.ssl-images-amazon.com/images/I/61kGCqp-19L._SL200_.jpg)](https://www.amazon.es/dp/B07BBCT1CR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BBCT1CR/?tag=tolees-21)

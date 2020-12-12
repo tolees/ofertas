@@ -22,7 +22,7 @@ Ahora mismo tienes [WOTEK Natación Tapones para los oídos  2 Pares de Tapones 
 
 [![WOTEK Natación Tapones para los oídos  2](https://images-eu.ssl-images-amazon.com/images/I/51UKPOhkWIL._SL200_.jpg)](https://www.amazon.es/dp/B07SQ7HR6H/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07SQ7HR6H/?tag=tolees-21)

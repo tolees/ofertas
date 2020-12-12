@@ -22,7 +22,7 @@ Ahora mismo tienes [L Oréal Paris Máscara de Pestañas False Lash Mariposa Int
 
 [![L Oréal Paris Máscara de Pestañas False ](https://images-eu.ssl-images-amazon.com/images/I/31sf2YcV%2BNL._SL200_.jpg)](https://www.amazon.es/dp/B00OUV5EXI/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00OUV5EXI/?tag=tolees-21)

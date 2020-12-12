@@ -22,7 +22,7 @@ Ahora mismo tienes [AUKEY Mini Powerbank 5000mAh  Bateria Externa para Movil iPh
 
 [![AUKEY Mini Powerbank 5000mAh  Bateria Ex](https://images-eu.ssl-images-amazon.com/images/I/31lfwumyMWL._SL200_.jpg)](https://www.amazon.es/dp/B01HBF3F4Y/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01HBF3F4Y/?tag=tolees-21)

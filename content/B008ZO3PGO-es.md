@@ -22,7 +22,7 @@ Ahora mismo tienes [Oral-B Vitality Trizone Cepillo de Dientes Eléctrico Recarg
 
 [![Oral-B Vitality Trizone Cepillo de Dient](https://images-eu.ssl-images-amazon.com/images/I/31PkOCe7pVL._SL200_.jpg)](https://www.amazon.es/dp/B008ZO3PGO/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B008ZO3PGO/?tag=tolees-21)

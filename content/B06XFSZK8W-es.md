@@ -22,7 +22,7 @@ Ahora mismo tienes [LEVIS FOOTWEAR AND ACCESSORIES New Duncan Cinturón  Marrón
 
 [![LEVIS FOOTWEAR AND ACCESSORIES New Dunca](https://images-eu.ssl-images-amazon.com/images/I/41GAXt3r7cL._SL200_.jpg)](https://www.amazon.es/dp/B06XFSZK8W/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XFSZK8W/?tag=tolees-21)

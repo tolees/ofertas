@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jfwsputnik Fusion Leather Anthracite STS  Zapat
 
 [![JACK & JONES Jfwsputnik Fusion Leather A](https://images-eu.ssl-images-amazon.com/images/I/31uoFMBMfwL._SL200_.jpg)](https://www.amazon.es/dp/B07JHPGG58/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JHPGG58/?tag=tolees-21)

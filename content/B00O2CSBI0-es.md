@@ -22,7 +22,7 @@ Ahora mismo tienes [Reloj Casio - Mujer LTP-1235PSG-7A](https://www.amazon.es/dp
 
 [![Reloj Casio - Mujer LTP-1235PSG-7A](https://images-eu.ssl-images-amazon.com/images/I/51JruPkAQ1L._SL200_.jpg)](https://www.amazon.es/dp/B00O2CSBI0/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00O2CSBI0/?tag=tolees-21)

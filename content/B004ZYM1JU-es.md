@@ -22,7 +22,7 @@ Ahora mismo tienes [Walimex Pro 14 mm 1:2.8 - Objetivo para cámara réflex Sams
 
 [![Walimex Pro 14 mm 1:2.8 - Objetivo para ](https://images-eu.ssl-images-amazon.com/images/I/51cEtkIze%2BL._SL200_.jpg)](https://www.amazon.es/dp/B004ZYM1JU/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B004ZYM1JU/?tag=tolees-21)

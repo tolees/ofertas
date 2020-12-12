@@ -22,7 +22,7 @@ Ahora mismo tienes [X-TIGER Invierno Vellón Térmico MTB Ciclismo Mangas Largas
 
 [![X-TIGER Invierno Vellón Térmico MTB Cicl](https://images-eu.ssl-images-amazon.com/images/I/41dsLLS0DAL._SL200_.jpg)](https://www.amazon.es/dp/B07JJ7JLXS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JJ7JLXS/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Vans Palomar  Zapatillas para Niños  Negro   Suede/Canvas  
 
 [![Vans Palomar  Zapatillas para Niños  Neg](https://images-eu.ssl-images-amazon.com/images/I/31ENSGu-chL._SL200_.jpg)](https://www.amazon.es/dp/B07FXRPW7F/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FXRPW7F/?tag=tolees-21)

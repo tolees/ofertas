@@ -22,7 +22,7 @@ Ahora mismo tienes [Asics Gt-2000 6  Zapatillas de Entrenamiento para Hombre  Ne
 
 [![Asics Gt-2000 6  Zapatillas de Entrenami](https://images-eu.ssl-images-amazon.com/images/I/41Zl0wl0c7L._SL200_.jpg)](https://www.amazon.es/dp/B07D1K3LVZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D1K3LVZ/?tag=tolees-21)

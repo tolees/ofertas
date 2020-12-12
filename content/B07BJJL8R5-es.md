@@ -22,7 +22,7 @@ Ahora mismo tienes [HyperX FURY Red 8GB DDR4 3200 MHz 8GB DDR4 3200MHz módulo d
 
 [![HyperX FURY Red 8GB DDR4 3200 MHz 8GB DD](https://images-eu.ssl-images-amazon.com/images/I/41CSFRF4GGL._SL200_.jpg)](https://www.amazon.es/dp/B07BJJL8R5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BJJL8R5/?tag=tolees-21)

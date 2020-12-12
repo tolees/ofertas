@@ -22,7 +22,7 @@ Ahora mismo tienes [Hajo Pullover  suéter para Mujer  Gris  Graumelange 104   5
 
 [![Hajo Pullover  suéter para Mujer  Gris  ](https://images-eu.ssl-images-amazon.com/images/I/414e41Ar34L._SL200_.jpg)](https://www.amazon.es/dp/B07F7QF9Z9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F7QF9Z9/?tag=tolees-21)

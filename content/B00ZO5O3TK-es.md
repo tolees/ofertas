@@ -22,7 +22,7 @@ Ahora mismo tienes [Schwarzkopf Igora Color10 Tinta  Tono 4-00 - 60 ml](https://
 
 [![Schwarzkopf Igora Color10 Tinta  Tono 4-](https://images-eu.ssl-images-amazon.com/images/I/41A9iJBasVL._SL200_.jpg)](https://www.amazon.es/dp/B00ZO5O3TK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00ZO5O3TK/?tag=tolees-21)

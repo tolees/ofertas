@@ -22,7 +22,7 @@ Ahora mismo tienes [Love Moschino Heart and Logo_Knitted Long Sleeve Jumper sué
 
 [![Love Moschino Heart and Logo_Knitted Lon](https://images-eu.ssl-images-amazon.com/images/I/41i4s21r4GL._SL200_.jpg)](https://www.amazon.es/dp/B07K2MBPW5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07K2MBPW5/?tag=tolees-21)

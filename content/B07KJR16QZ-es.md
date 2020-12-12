@@ -22,7 +22,7 @@ Ahora mismo tienes [REPLAY Karyna Pantalones  Verde  Military Green 30   W23/L28
 
 [![REPLAY Karyna Pantalones  Verde  Militar](https://images-eu.ssl-images-amazon.com/images/I/31hc-RfvEDL._SL200_.jpg)](https://www.amazon.es/dp/B07KJR16QZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KJR16QZ/?tag=tolees-21)

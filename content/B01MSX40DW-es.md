@@ -22,7 +22,7 @@ Ahora mismo tienes [iyuttech Sonic Cepillo de dientes eléctrico Cepillo de dien
 
 [![iyuttech Sonic Cepillo de dientes eléctr](https://images-eu.ssl-images-amazon.com/images/I/41fYPT97AuL._SL200_.jpg)](https://www.amazon.es/dp/B01MSX40DW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MSX40DW/?tag=tolees-21)

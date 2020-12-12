@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Gazelle  Zapatillas de Gimnasia para Hombre  45 1/3 E
 
 [![adidas Gazelle  Zapatillas de Gimnasia p](https://images-eu.ssl-images-amazon.com/images/I/413a%2B22b-nL._SL200_.jpg)](https://www.amazon.es/dp/B07JZPST7X/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JZPST7X/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Philips Monocromo - Memoria USB 3.0 de 32 GB  Color Plateado
 
 [![Philips Monocromo - Memoria USB 3.0 de 3](https://images-eu.ssl-images-amazon.com/images/I/419NuT8FDHL._SL200_.jpg)](https://www.amazon.es/dp/B00NN8EXD6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00NN8EXD6/?tag=tolees-21)

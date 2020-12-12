@@ -22,7 +22,7 @@ Ahora mismo tienes [Tamaris 26336  Botas para Mujer  Gris  Anthracite   37 EU](h
 
 [![Tamaris 26336  Botas para Mujer  Gris  A](https://images-eu.ssl-images-amazon.com/images/I/41nS0ug5ckL._SL200_.jpg)](https://www.amazon.es/dp/B071JHDC42/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071JHDC42/?tag=tolees-21)

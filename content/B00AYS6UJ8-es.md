@@ -22,7 +22,7 @@ Ahora mismo tienes [Dredd  Blu-ray + Blu-ray 3D  [Blu-ray]](https://www.amazon.e
 
 [![Dredd  Blu-ray + Blu-ray 3D  [Blu-ray]](https://images-eu.ssl-images-amazon.com/images/I/51mwvc3jSiL._SL200_.jpg)](https://www.amazon.es/dp/B00AYS6UJ8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00AYS6UJ8/?tag=tolees-21)

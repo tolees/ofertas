@@ -22,7 +22,7 @@ Ahora mismo tienes [Edge Entertainment Tesoros inesperados - Español Color  EDG
 
 [![Edge Entertainment Tesoros inesperados -](https://images-eu.ssl-images-amazon.com/images/I/51tvZ0dU1rL._SL200_.jpg)](https://www.amazon.es/dp/B01HJSD37C/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01HJSD37C/?tag=tolees-21)

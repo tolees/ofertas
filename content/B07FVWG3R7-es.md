@@ -22,7 +22,7 @@ Ahora mismo tienes [Ben Sherman Polo Logo Shirt  Color: Negro  Tamaño: XS](http
 
 [![Ben Sherman Polo Logo Shirt  Color: Negr](https://images-eu.ssl-images-amazon.com/images/I/31fQnbUafAL._SL200_.jpg)](https://www.amazon.es/dp/B07FVWG3R7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FVWG3R7/?tag=tolees-21)

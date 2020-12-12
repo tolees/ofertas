@@ -22,7 +22,7 @@ Ahora mismo tienes [Legrand LEG50651 - Regleta de 4 enchufes  2P  6 A  posición
 
 [![Legrand LEG50651 - Regleta de 4 enchufes](https://images-eu.ssl-images-amazon.com/images/I/41ttqZ3ycCL._SL200_.jpg)](https://www.amazon.es/dp/B00A7MD4FE/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00A7MD4FE/?tag=tolees-21)

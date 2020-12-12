@@ -22,7 +22,7 @@ Ahora mismo tienes [Wilson Raqueta de tenis  Milos 100  Principiantes y jugadore
 
 [![Wilson Raqueta de tenis  Milos 100  Prin](https://images-eu.ssl-images-amazon.com/images/I/411YUHpqOFL._SL200_.jpg)](https://www.amazon.es/dp/B079NS55VW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079NS55VW/?tag=tolees-21)

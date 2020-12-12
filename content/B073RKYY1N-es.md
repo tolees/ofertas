@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Cloudfoam Pure Db0694  Zapatillas para Mujer  Negro C
 
 [![adidas Cloudfoam Pure Db0694  Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/41lt4fpbpQL._SL200_.jpg)](https://www.amazon.es/dp/B073RKYY1N/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B073RKYY1N/?tag=tolees-21)

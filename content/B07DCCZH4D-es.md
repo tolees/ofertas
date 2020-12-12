@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Suede Classic  Zapatillas Unisex Adults o  Azul  Peacoa
 
 [![Puma Suede Classic  Zapatillas Unisex Ad](https://images-eu.ssl-images-amazon.com/images/I/41P3zrPjwEL._SL200_.jpg)](https://www.amazon.es/dp/B07DCCZH4D/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DCCZH4D/?tag=tolees-21)

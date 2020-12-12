@@ -22,7 +22,7 @@ Ahora mismo tienes [Acer Short Throw S1283HNE - Proyector](https://www.amazon.es
 
 [![Acer Short Throw S1283HNE - Proyector](https://images-eu.ssl-images-amazon.com/images/I/31OsfOKjMwL._SL200_.jpg)](https://www.amazon.es/dp/B00Q2MINHW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00Q2MINHW/?tag=tolees-21)

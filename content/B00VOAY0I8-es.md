@@ -22,7 +22,7 @@ Ahora mismo tienes [Flexi Design S Cordon 5m. Verde](https://www.amazon.es/dp/B0
 
 [![Flexi Design S Cordon 5m. Verde](https://images-eu.ssl-images-amazon.com/images/I/41S68UTBbPL._SL200_.jpg)](https://www.amazon.es/dp/B00VOAY0I8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00VOAY0I8/?tag=tolees-21)

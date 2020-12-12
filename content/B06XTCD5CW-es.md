@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s Malibu Beach S  Zapatillas para Mujer  Blanco  B Whit
 
 [![Levi s Malibu Beach S  Zapatillas para M](https://images-eu.ssl-images-amazon.com/images/I/41Jxv5pVASL._SL200_.jpg)](https://www.amazon.es/dp/B06XTCD5CW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XTCD5CW/?tag=tolees-21)

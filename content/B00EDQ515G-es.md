@@ -22,7 +22,7 @@ Ahora mismo tienes [Gigaset C430H - Teléfono inalámbrico  DECT  50 m  300 m  2
 
 [![Gigaset C430H - Teléfono inalámbrico  DE](https://images-eu.ssl-images-amazon.com/images/I/41RrCE4XwmL._SL200_.jpg)](https://www.amazon.es/dp/B00EDQ515G/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00EDQ515G/?tag=tolees-21)

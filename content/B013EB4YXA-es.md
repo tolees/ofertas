@@ -22,7 +22,7 @@ Ahora mismo tienes [Star Wars - Casco de Stormtrooper para niños  accesorio dis
 
 [![Star Wars - Casco de Stormtrooper para n](https://images-eu.ssl-images-amazon.com/images/I/41kT-gBycHL._SL200_.jpg)](https://www.amazon.es/dp/B013EB4YXA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B013EB4YXA/?tag=tolees-21)

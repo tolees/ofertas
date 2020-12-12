@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Originals Superstar  Zapatillas Unisex Adulto  Negro 
 
 [![adidas Originals Superstar  Zapatillas U](https://images-eu.ssl-images-amazon.com/images/I/41PvTcVdvYL._SL200_.jpg)](https://www.amazon.es/dp/B00UBV61R4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00UBV61R4/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [APC Instruments Luthier - Instrumento de cuerdas](https://ww
 
 [![APC Instruments Luthier - Instrumento de](https://images-eu.ssl-images-amazon.com/images/I/311WnLsu0IL._SL200_.jpg)](https://www.amazon.es/dp/B07G3JQ91Q/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07G3JQ91Q/?tag=tolees-21)

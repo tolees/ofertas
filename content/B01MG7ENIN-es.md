@@ -22,7 +22,7 @@ Ahora mismo tienes [Pulsera de Reloj Flor de Aleación Diamantes de Imitación p
 
 [![Pulsera de Reloj Flor de Aleación Diaman](https://images-eu.ssl-images-amazon.com/images/I/51a24c9jA7L._SL200_.jpg)](https://www.amazon.es/dp/B01MG7ENIN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MG7ENIN/?tag=tolees-21)

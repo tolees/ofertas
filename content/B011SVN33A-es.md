@@ -22,7 +22,7 @@ Ahora mismo tienes [The Canton Godfather. Gangster Para Un Pequeño Milagro [Blu
 
 [![The Canton Godfather. Gangster Para Un P](https://images-eu.ssl-images-amazon.com/images/I/51NS7ciWufL._SL200_.jpg)](https://www.amazon.es/dp/B011SVN33A/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B011SVN33A/?tag=tolees-21)

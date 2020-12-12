@@ -22,7 +22,7 @@ Ahora mismo tienes [HIKARO AMA SHIPLEY camisetas  Rojo  Red   40  Talla del fabr
 
 [![HIKARO AMA SHIPLEY camisetas  Rojo  Red ](https://images-eu.ssl-images-amazon.com/images/I/41xuOUmO7KL._SL200_.jpg)](https://www.amazon.es/dp/B077YDTTXB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077YDTTXB/?tag=tolees-21)

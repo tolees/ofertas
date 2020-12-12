@@ -22,7 +22,7 @@ Ahora mismo tienes [David Jones - Cm3872  Bolsos bandolera Mujer  Rojo  Red   7x
 
 [![David Jones - Cm3872  Bolsos bandolera M](https://images-eu.ssl-images-amazon.com/images/I/51PFUWZY%2BfL._SL200_.jpg)](https://www.amazon.es/dp/B07KCHDH4M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KCHDH4M/?tag=tolees-21)

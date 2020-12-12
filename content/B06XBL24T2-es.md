@@ -22,7 +22,7 @@ Ahora mismo tienes [Party Pro Washi Tape Mini Corazones  Papel  Oro  4 5 x 4 5�
 
 [![Party Pro Washi Tape Mini Corazones  Pap](https://images-eu.ssl-images-amazon.com/images/I/519bCpFb50L._SL200_.jpg)](https://www.amazon.es/dp/B06XBL24T2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XBL24T2/?tag=tolees-21)

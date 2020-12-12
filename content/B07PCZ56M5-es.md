@@ -22,7 +22,7 @@ Ahora mismo tienes [RIP CURL Switch 19   Boardshort Bañador  Hombre  Light Blue
 
 [![RIP CURL Switch 19   Boardshort Bañador ](https://images-eu.ssl-images-amazon.com/images/I/41KK5ZiiYYL._SL200_.jpg)](https://www.amazon.es/dp/B07PCZ56M5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07PCZ56M5/?tag=tolees-21)

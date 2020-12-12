@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Suede Classic Shearling  Zapatillas Unisex Adulto  Gris
 
 [![Puma Suede Classic Shearling  Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/41US86oogfL._SL200_.jpg)](https://www.amazon.es/dp/B07D9YXM4G/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D9YXM4G/?tag=tolees-21)

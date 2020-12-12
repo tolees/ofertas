@@ -22,7 +22,7 @@ Ahora mismo tienes [Princess 103050 Table Chef Hot-Zone - Plancha con Zona Super
 
 [![Princess 103050 Table Chef Hot-Zone - Pl](https://images-eu.ssl-images-amazon.com/images/I/31qDamr7W9L._SL200_.jpg)](https://www.amazon.es/dp/B01M1PADFW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01M1PADFW/?tag=tolees-21)

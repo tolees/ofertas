@@ -22,7 +22,7 @@ Ahora mismo tienes [Only & Sons Onsgarson Wash Crew Neck Knit Noos  suéter para
 
 [![Only & Sons Onsgarson Wash Crew Neck Kni](https://images-eu.ssl-images-amazon.com/images/I/41kiFQWbxmL._SL200_.jpg)](https://www.amazon.es/dp/B074XJGVQX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074XJGVQX/?tag=tolees-21)

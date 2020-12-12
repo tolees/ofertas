@@ -22,7 +22,7 @@ Ahora mismo tienes [Munich BARRU  Zapatillas Unisex Adulto   Azul/Negro 34   40 
 
 [![Munich BARRU  Zapatillas Unisex Adulto  ](https://images-eu.ssl-images-amazon.com/images/I/41joJCK6NUL._SL200_.jpg)](https://www.amazon.es/dp/B07D8BN5ZM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D8BN5ZM/?tag=tolees-21)

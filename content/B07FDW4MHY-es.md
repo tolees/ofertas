@@ -22,7 +22,7 @@ Ahora mismo tienes [Micrófono Condensador USB para Grabar Micrófonos PC con So
 
 [![Micrófono Condensador USB para Grabar Mi](https://images-eu.ssl-images-amazon.com/images/I/41dwPd5pKzL._SL200_.jpg)](https://www.amazon.es/dp/B07FDW4MHY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FDW4MHY/?tag=tolees-21)

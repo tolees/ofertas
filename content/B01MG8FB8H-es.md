@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers You  Zapatillas sin cordones para Mujer  Negro  Bkw
 
 [![Skechers You  Zapatillas sin cordones pa](https://images-eu.ssl-images-amazon.com/images/I/41ecd%2BtCw4L._SL200_.jpg)](https://www.amazon.es/dp/B01MG8FB8H/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MG8FB8H/?tag=tolees-21)

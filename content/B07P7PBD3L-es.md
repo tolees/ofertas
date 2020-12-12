@@ -22,7 +22,7 @@ Ahora mismo tienes [Auriculares Bluetooth Deportivos  Inalámbricos Magnético �
 
 [![Auriculares Bluetooth Deportivos  Inalám](https://images-eu.ssl-images-amazon.com/images/I/31LZfQitYNL._SL200_.jpg)](https://www.amazon.es/dp/B07P7PBD3L/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07P7PBD3L/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Vans Authentic  Zapatillas de Tela Unisex  Gris  Pewter/Blac
 
 [![Vans Authentic  Zapatillas de Tela Unise](https://images-eu.ssl-images-amazon.com/images/I/51OkTFatdqL._SL200_.jpg)](https://www.amazon.es/dp/B0036CEOO2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0036CEOO2/?tag=tolees-21)

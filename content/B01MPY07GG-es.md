@@ -22,7 +22,7 @@ Ahora mismo tienes [KEXIN 32GB Memoria USB 2.0 Pendrive 32GB Flash Drive Memoria
 
 [![KEXIN 32GB Memoria USB 2.0 Pendrive 32GB](https://images-eu.ssl-images-amazon.com/images/I/41VqvR2v6dL._SL200_.jpg)](https://www.amazon.es/dp/B01MPY07GG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MPY07GG/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Calvin Klein Debby Velvet  Zapatillas para Mujer  Plateado  
 
 [![Calvin Klein Debby Velvet  Zapatillas pa](https://images-eu.ssl-images-amazon.com/images/I/511nJ9gIgqL._SL200_.jpg)](https://www.amazon.es/dp/B072F5WVBK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072F5WVBK/?tag=tolees-21)

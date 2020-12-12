@@ -22,7 +22,7 @@ Ahora mismo tienes [Envasadoras al vacío  Padi Home El Aparato para envasar al 
 
 [![Envasadoras al vacío  Padi Home El Apara](https://images-eu.ssl-images-amazon.com/images/I/51i1I%2BB%2BQvL._SL200_.jpg)](https://www.amazon.es/dp/B07L3DNQ73/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07L3DNQ73/?tag=tolees-21)

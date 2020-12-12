@@ -22,7 +22,7 @@ Ahora mismo tienes [Bourjois Cc Cream CC Cream Tono 33 Rose beige - 43 gr.](http
 
 [![Bourjois Cc Cream CC Cream Tono 33 Rose ](https://images-eu.ssl-images-amazon.com/images/I/31iaYR58wkL._SL200_.jpg)](https://www.amazon.es/dp/B00HAFT8HY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00HAFT8HY/?tag=tolees-21)

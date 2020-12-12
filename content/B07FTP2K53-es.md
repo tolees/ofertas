@@ -22,7 +22,7 @@ Ahora mismo tienes [SELECTED HOMME Slhnewseason SS Polo W Noos  Hombre  Azul  Pl
 
 [![SELECTED HOMME Slhnewseason SS Polo W No](https://images-eu.ssl-images-amazon.com/images/I/41kP3%2Bw6XjL._SL200_.jpg)](https://www.amazon.es/dp/B07FTP2K53/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FTP2K53/?tag=tolees-21)

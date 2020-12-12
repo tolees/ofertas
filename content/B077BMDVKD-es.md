@@ -22,7 +22,7 @@ Ahora mismo tienes [IIIIS-F Zapatillas Hombre Zapatillas Running Hombre Zapatill
 
 [![IIIIS-F Zapatillas Hombre Zapatillas Run](https://images-eu.ssl-images-amazon.com/images/I/514DtQFdBaL._SL200_.jpg)](https://www.amazon.es/dp/B077BMDVKD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077BMDVKD/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance 1400v6 Racing Running  Zapatillas de Atletismo p
 
 [![New Balance 1400v6 Racing Running  Zapat](https://images-eu.ssl-images-amazon.com/images/I/5107cq%2BZ5GL._SL200_.jpg)](https://www.amazon.es/dp/B0751GSLF1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0751GSLF1/?tag=tolees-21)

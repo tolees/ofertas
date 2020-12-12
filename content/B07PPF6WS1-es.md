@@ -22,7 +22,7 @@ Ahora mismo tienes [TEPSMIGO Funda Barbacoa Impermeable  Funda Barbacoa  con Un 
 
 [![TEPSMIGO Funda Barbacoa Impermeable  Fun](https://images-eu.ssl-images-amazon.com/images/I/419t77oWDzL._SL200_.jpg)](https://www.amazon.es/dp/B07PPF6WS1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07PPF6WS1/?tag=tolees-21)

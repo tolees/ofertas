@@ -22,7 +22,7 @@ Ahora mismo tienes [Nclon Difusor Casa Ligero Gran capacidad 5l Led Dormitorio O
 
 [![Nclon Difusor Casa Ligero Gran capacidad](https://images-eu.ssl-images-amazon.com/images/I/31SPVOX6Q2L._SL200_.jpg)](https://www.amazon.es/dp/B079YPT5C2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079YPT5C2/?tag=tolees-21)

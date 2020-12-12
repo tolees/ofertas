@@ -22,7 +22,7 @@ Ahora mismo tienes [Tamaris 25287  Botas Militar para Mujer  Negro  Black/Pewter
 
 [![Tamaris 25287  Botas Militar para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41wGh5e0pAL._SL200_.jpg)](https://www.amazon.es/dp/B071XDNQC6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071XDNQC6/?tag=tolees-21)

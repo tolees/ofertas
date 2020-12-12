@@ -22,7 +22,7 @@ Ahora mismo tienes [iLifeSmart Subwoofer Estéreo Inalámbrico de Alto Rendimien
 
 [![iLifeSmart Subwoofer Estéreo Inalámbrico](https://images-eu.ssl-images-amazon.com/images/I/31bFcQcPwzL._SL200_.jpg)](https://www.amazon.es/dp/B07BWBQP4F/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BWBQP4F/?tag=tolees-21)

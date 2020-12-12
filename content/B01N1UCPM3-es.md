@@ -22,7 +22,7 @@ Ahora mismo tienes [Lacoste Lerond Bl 2 CAM  Zapatillas para Hombre  Blanco  Wht
 
 [![Lacoste Lerond Bl 2 CAM  Zapatillas para](https://images-eu.ssl-images-amazon.com/images/I/31mak379VEL._SL200_.jpg)](https://www.amazon.es/dp/B01N1UCPM3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N1UCPM3/?tag=tolees-21)

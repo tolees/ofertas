@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour HG Printed Leggin  Mujer  Black/White/Metallic 
 
 [![Under Armour HG Printed Leggin  Mujer  B](https://images-eu.ssl-images-amazon.com/images/I/41krMhLR-1L._SL200_.jpg)](https://www.amazon.es/dp/B0785GCRX6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0785GCRX6/?tag=tolees-21)

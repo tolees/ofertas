@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Essence  Zapatillas de Balonmano para Hombre   Core B
 
 [![adidas Essence  Zapatillas de Balonmano ](https://images-eu.ssl-images-amazon.com/images/I/41CgetdIWZL._SL200_.jpg)](https://www.amazon.es/dp/B07JQYGLR7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JQYGLR7/?tag=tolees-21)

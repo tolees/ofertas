@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Flare 2 Wn s  Zapatillas de Running para Mujer  Rosa  U
 
 [![Puma Flare 2 Wn s  Zapatillas de Running](https://images-eu.ssl-images-amazon.com/images/I/51whTKsxaML._SL200_.jpg)](https://www.amazon.es/dp/B01LZ2AW80/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01LZ2AW80/?tag=tolees-21)

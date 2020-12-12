@@ -22,7 +22,7 @@ Ahora mismo tienes [sumgott Aspirador sin Cable 9000Pa Aspiración 2 Velocidades
 
 [![sumgott Aspirador sin Cable 9000Pa Aspir](https://images-eu.ssl-images-amazon.com/images/I/413dxK%2BLpJL._SL200_.jpg)](https://www.amazon.es/dp/B07PF949VF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07PF949VF/?tag=tolees-21)

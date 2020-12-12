@@ -22,7 +22,7 @@ Ahora mismo tienes [Odeosan Clinique Corrector de Postura para Espalda  Hombro y
 
 [![Odeosan Clinique Corrector de Postura pa](https://images-eu.ssl-images-amazon.com/images/I/51m8xut1lWL._SL200_.jpg)](https://www.amazon.es/dp/B078VHGTW2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078VHGTW2/?tag=tolees-21)

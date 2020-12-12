@@ -22,7 +22,7 @@ Ahora mismo tienes [Adidas Questarstrike  Zapatillas de Deporte para Hombre  000
 
 [![Adidas Questarstrike  Zapatillas de Depo](https://images-eu.ssl-images-amazon.com/images/I/41RmgPivEeL._SL200_.jpg)](https://www.amazon.es/dp/B07KT7TGBG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KT7TGBG/?tag=tolees-21)

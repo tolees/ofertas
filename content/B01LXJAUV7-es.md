@@ -22,7 +22,7 @@ Ahora mismo tienes [Jennyfer Écru S](https://www.amazon.es/dp/B01LXJAUV7/?tag=t
 
 [![Jennyfer Écru S](https://images-eu.ssl-images-amazon.com/images/I/41EehhnZpYL._SL200_.jpg)](https://www.amazon.es/dp/B01LXJAUV7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01LXJAUV7/?tag=tolees-21)

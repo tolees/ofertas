@@ -22,7 +22,7 @@ Ahora mismo tienes [Adidas Duramo Lite 2.0  Zapatillas de Entrenamiento para Hom
 
 [![Adidas Duramo Lite 2.0  Zapatillas de En](https://images-eu.ssl-images-amazon.com/images/I/41KfgbJeZqL._SL200_.jpg)](https://www.amazon.es/dp/B0786VQV8L/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0786VQV8L/?tag=tolees-21)

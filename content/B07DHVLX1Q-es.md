@@ -22,7 +22,7 @@ Ahora mismo tienes [ALDO Faulia  Zapatillas para Mujer  Negro  Jet Black 1 98   
 
 [![ALDO Faulia  Zapatillas para Mujer  Negr](https://images-eu.ssl-images-amazon.com/images/I/310lW9alV3L._SL200_.jpg)](https://www.amazon.es/dp/B07DHVLX1Q/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DHVLX1Q/?tag=tolees-21)

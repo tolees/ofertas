@@ -22,7 +22,7 @@ Ahora mismo tienes [New Look Sparkly Tipping  suéter para Mujer  Negro  Black P
 
 [![New Look Sparkly Tipping  suéter para Mu](https://images-eu.ssl-images-amazon.com/images/I/41aGxvx2TrL._SL200_.jpg)](https://www.amazon.es/dp/B07FW7H3GR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FW7H3GR/?tag=tolees-21)

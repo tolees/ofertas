@@ -22,7 +22,7 @@ Ahora mismo tienes [Rotary AGB00074/W/04 - Reloj analógico de Cuarzo para Hombr
 
 [![Rotary AGB00074/W/04 - Reloj analógico d](https://images-eu.ssl-images-amazon.com/images/I/41R2PWaj0sL._SL200_.jpg)](https://www.amazon.es/dp/B00B9P3N2W/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00B9P3N2W/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Fred Perry Twin Tipped Shirt  Polo para Hombre  Verde  Green
 
 [![Fred Perry Twin Tipped Shirt  Polo para ](https://images-eu.ssl-images-amazon.com/images/I/41LH8vUcYUL._SL200_.jpg)](https://www.amazon.es/dp/B01N7MOUYK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N7MOUYK/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike Wmns Air Zoom Vapor X HC  Zapatillas de Deporte para Mu
 
 [![Nike Wmns Air Zoom Vapor X HC  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/319XcnoAGVL._SL200_.jpg)](https://www.amazon.es/dp/B005IHKUZU/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B005IHKUZU/?tag=tolees-21)

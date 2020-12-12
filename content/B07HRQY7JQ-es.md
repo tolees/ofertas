@@ -22,7 +22,7 @@ Ahora mismo tienes [ITSHINY Pulsera Actividad Inteligente  Monitores Actividad P
 
 [![ITSHINY Pulsera Actividad Inteligente  M](https://images-eu.ssl-images-amazon.com/images/I/51ooVU2V6vL._SL200_.jpg)](https://www.amazon.es/dp/B07HRQY7JQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07HRQY7JQ/?tag=tolees-21)

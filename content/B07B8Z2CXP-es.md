@@ -22,7 +22,7 @@ Ahora mismo tienes [Bosch TDI953022V Suela Ceranium Glissée 3000W Azul  Blanco 
 
 [![Bosch TDI953022V Suela Ceranium Glissée ](https://images-eu.ssl-images-amazon.com/images/I/41Yf4Q1o3SL._SL200_.jpg)](https://www.amazon.es/dp/B07B8Z2CXP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07B8Z2CXP/?tag=tolees-21)

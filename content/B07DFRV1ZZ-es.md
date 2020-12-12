@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma ESS+ Hoody FL Sweatshirt  Hombre  Dark Gray Heather  S]
 
 [![Puma ESS+ Hoody FL Sweatshirt  Hombre  D](https://images-eu.ssl-images-amazon.com/images/I/41PXhq8gITL._SL200_.jpg)](https://www.amazon.es/dp/B07DFRV1ZZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DFRV1ZZ/?tag=tolees-21)

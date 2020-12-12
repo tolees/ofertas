@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance 574v2  Zapatillas para Hombre  Gris Rain Cloud E
 
 [![New Balance 574v2  Zapatillas para Hombr](https://images-eu.ssl-images-amazon.com/images/I/417cZH%2BbfoL._SL200_.jpg)](https://www.amazon.es/dp/B07DFRD4DR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DFRD4DR/?tag=tolees-21)

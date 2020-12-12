@@ -22,7 +22,7 @@ Ahora mismo tienes [Salomon Trail Low Gaiters  Unisex Adulto  Negro  L](https://
 
 [![Salomon Trail Low Gaiters  Unisex Adulto](https://images-eu.ssl-images-amazon.com/images/I/51iDyRbnVtL._SL200_.jpg)](https://www.amazon.es/dp/B008JFEFJA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B008JFEFJA/?tag=tolees-21)

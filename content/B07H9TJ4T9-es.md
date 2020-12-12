@@ -22,7 +22,7 @@ Ahora mismo tienes [LUKO 12L eléctrico y portátil deshumidificador con tecnolo
 
 [![LUKO 12L eléctrico y portátil deshumidif](https://images-eu.ssl-images-amazon.com/images/I/41JF-Q5EfUL._SL200_.jpg)](https://www.amazon.es/dp/B07H9TJ4T9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07H9TJ4T9/?tag=tolees-21)

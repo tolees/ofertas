@@ -22,7 +22,7 @@ Ahora mismo tienes [K-Swiss Court Clarkson S Se  Zapatillas para Mujer  Blanco  
 
 [![K-Swiss Court Clarkson S Se  Zapatillas ](https://images-eu.ssl-images-amazon.com/images/I/31c%2BwnO-qiL._SL200_.jpg)](https://www.amazon.es/dp/B07F25QHDL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F25QHDL/?tag=tolees-21)

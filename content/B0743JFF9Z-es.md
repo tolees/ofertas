@@ -22,7 +22,7 @@ Ahora mismo tienes [Samsung Note 8 Led View Cover - Funda para Samsung Galaxy No
 
 [![Samsung Note 8 Led View Cover - Funda pa](https://images-eu.ssl-images-amazon.com/images/I/31wCIYbk3FL._SL200_.jpg)](https://www.amazon.es/dp/B0743JFF9Z/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0743JFF9Z/?tag=tolees-21)

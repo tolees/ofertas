@@ -22,7 +22,7 @@ Ahora mismo tienes [Armani Exchange - Flat Cross-body Bag  Bolsos bandolera Muje
 
 [![Armani Exchange - Flat Cross-body Bag  B](https://images-eu.ssl-images-amazon.com/images/I/31OpzCH8jEL._SL200_.jpg)](https://www.amazon.es/dp/B0794TLHWN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0794TLHWN/?tag=tolees-21)

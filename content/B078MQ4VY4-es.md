@@ -22,7 +22,7 @@ Ahora mismo tienes [Adidas Gazelle W  Zapatillas de Deporte para Mujer  Verde  V
 
 [![Adidas Gazelle W  Zapatillas de Deporte ](https://images-eu.ssl-images-amazon.com/images/I/31HLh71FsZL._SL200_.jpg)](https://www.amazon.es/dp/B078MQ4VY4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078MQ4VY4/?tag=tolees-21)

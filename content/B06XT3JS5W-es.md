@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Ballad PL401248  Impermeable para Mujer  Negro  B
 
 [![Pepe Jeans Ballad PL401248  Impermeable ](https://images-eu.ssl-images-amazon.com/images/I/41fYR0Xd5hL._SL200_.jpg)](https://www.amazon.es/dp/B06XT3JS5W/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XT3JS5W/?tag=tolees-21)

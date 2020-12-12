@@ -22,7 +22,7 @@ Ahora mismo tienes [Aspiradora de Puntos Negros  Aspiradora Eléctrica de Poros 
 
 [![Aspiradora de Puntos Negros  Aspiradora ](https://images-eu.ssl-images-amazon.com/images/I/41HYhxXE9YL._SL200_.jpg)](https://www.amazon.es/dp/B07FVN79JB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FVN79JB/?tag=tolees-21)

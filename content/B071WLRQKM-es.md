@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Nemeziz Messi 17.4 FxG  Zapatillas de Fútbol para Ho
 
 [![adidas Nemeziz Messi 17.4 FxG  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/51DR6jBdQOL._SL200_.jpg)](https://www.amazon.es/dp/B071WLRQKM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071WLRQKM/?tag=tolees-21)

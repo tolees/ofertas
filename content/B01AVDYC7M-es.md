@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike Zoom Stefan Janoski  Zapatillas de Skateboarding para H
 
 [![Nike Zoom Stefan Janoski  Zapatillas de ](https://images-eu.ssl-images-amazon.com/images/I/4149awaN%2BdL._SL200_.jpg)](https://www.amazon.es/dp/B01AVDYC7M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01AVDYC7M/?tag=tolees-21)

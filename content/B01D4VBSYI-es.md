@@ -22,7 +22,7 @@ Ahora mismo tienes [bollé Tsar Máscaras  Unisex Adulto  Rojo Mate Patch  M/L](
 
 [![bollé Tsar Máscaras  Unisex Adulto  Rojo](https://images-eu.ssl-images-amazon.com/images/I/318NSKHYxxL._SL200_.jpg)](https://www.amazon.es/dp/B01D4VBSYI/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01D4VBSYI/?tag=tolees-21)

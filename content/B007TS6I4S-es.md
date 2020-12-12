@@ -22,7 +22,7 @@ Ahora mismo tienes [Arcos 604400 - Sacacorchos  caja ](https://www.amazon.es/dp/
 
 [![Arcos 604400 - Sacacorchos  caja ](https://images-eu.ssl-images-amazon.com/images/I/41kZdPnH6BL._SL200_.jpg)](https://www.amazon.es/dp/B007TS6I4S/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B007TS6I4S/?tag=tolees-21)

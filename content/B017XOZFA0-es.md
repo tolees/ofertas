@@ -22,7 +22,7 @@ Ahora mismo tienes [Helly Hansen Salt Power Jacket  Hombre  Red  S](https://www.
 
 [![Helly Hansen Salt Power Jacket  Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/41psaeKRLmL._SL200_.jpg)](https://www.amazon.es/dp/B017XOZFA0/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B017XOZFA0/?tag=tolees-21)

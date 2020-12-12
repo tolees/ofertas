@@ -22,7 +22,7 @@ Ahora mismo tienes [Carpeta para documentos A4  carpeta archivadora  veyette Ofi
 
 [![Carpeta para documentos A4  carpeta arch](https://images-eu.ssl-images-amazon.com/images/I/51z96xjXUEL._SL200_.jpg)](https://www.amazon.es/dp/B078YPY9B2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078YPY9B2/?tag=tolees-21)

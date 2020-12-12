@@ -22,7 +22,7 @@ Ahora mismo tienes [Cuenta conmigo [Blu-ray]](https://www.amazon.es/dp/B0059DZFH
 
 [![Cuenta conmigo [Blu-ray]](https://images-eu.ssl-images-amazon.com/images/I/51ecHx7sJmL._SL200_.jpg)](https://www.amazon.es/dp/B0059DZFH6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0059DZFH6/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Petaca de Acero Inoxidable para Whisky Licor Alcohol con tap
 
 [![Petaca de Acero Inoxidable para Whisky L](https://images-eu.ssl-images-amazon.com/images/I/41WCjqdEJrL._SL200_.jpg)](https://www.amazon.es/dp/B078PB3J8L/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078PB3J8L/?tag=tolees-21)

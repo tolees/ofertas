@@ -22,7 +22,7 @@ Ahora mismo tienes [Gioseppo 43589  Zapatillas para Hombre  Verde  Kaki   44 EU]
 
 [![Gioseppo 43589  Zapatillas para Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/41qQcA8sR6L._SL200_.jpg)](https://www.amazon.es/dp/B077BJGKDC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077BJGKDC/?tag=tolees-21)

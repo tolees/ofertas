@@ -22,7 +22,7 @@ Ahora mismo tienes [Samsung Galaxy Tab S2 - Tablet de 9.7" 2K  WiFi + 4G  Proces
 
 [![Samsung Galaxy Tab S2 - Tablet de 9.7" 2](https://images-eu.ssl-images-amazon.com/images/I/414GVmxB41L._SL200_.jpg)](https://www.amazon.es/dp/B01H5FUJB2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01H5FUJB2/?tag=tolees-21)

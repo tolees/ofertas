@@ -22,7 +22,7 @@ Ahora mismo tienes [New Look Crop Cord 5937414 Pantalones  Negro  Black 1   NA /
 
 [![New Look Crop Cord 5937414 Pantalones  N](https://images-eu.ssl-images-amazon.com/images/I/310gF7PcXHL._SL200_.jpg)](https://www.amazon.es/dp/B07JWZG7MK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JWZG7MK/?tag=tolees-21)

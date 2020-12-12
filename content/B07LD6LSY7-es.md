@@ -22,7 +22,7 @@ Ahora mismo tienes [TECCPO Soplador de Hojas  Aspirador  Triturador de Eléctric
 
 [![TECCPO Soplador de Hojas  Aspirador  Tri](https://images-eu.ssl-images-amazon.com/images/I/41vu6OcJ8KL._SL200_.jpg)](https://www.amazon.es/dp/B07LD6LSY7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07LD6LSY7/?tag=tolees-21)

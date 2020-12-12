@@ -22,7 +22,7 @@ Ahora mismo tienes [K-Swiss Aero Trainer  Zapatillas para Mujer  Gris  Plum Kitt
 
 [![K-Swiss Aero Trainer  Zapatillas para Mu](https://images-eu.ssl-images-amazon.com/images/I/41c4eImUuEL._SL200_.jpg)](https://www.amazon.es/dp/B01N5UURL2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N5UURL2/?tag=tolees-21)

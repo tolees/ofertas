@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour Lanzamiento 5   SW Corto  Hombre  Black/Reflect
 
 [![Under Armour Lanzamiento 5   SW Corto  H](https://images-eu.ssl-images-amazon.com/images/I/31%2BNebFfbjL._SL200_.jpg)](https://www.amazon.es/dp/B01FH1HE9G/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01FH1HE9G/?tag=tolees-21)

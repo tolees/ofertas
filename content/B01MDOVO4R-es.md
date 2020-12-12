@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike Air Max Vision  Zapatillas de Running Hombre  Blanco  W
 
 [![Nike Air Max Vision  Zapatillas de Runni](https://images-eu.ssl-images-amazon.com/images/I/41LQHd5YHJL._SL200_.jpg)](https://www.amazon.es/dp/B01MDOVO4R/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MDOVO4R/?tag=tolees-21)

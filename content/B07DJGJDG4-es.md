@@ -22,7 +22,7 @@ Ahora mismo tienes [Dockers by Gerli 43fa302  Botas Militar para Mujer  Gris  Ic
 
 [![Dockers by Gerli 43fa302  Botas Militar ](https://images-eu.ssl-images-amazon.com/images/I/4150ZedmYHL._SL200_.jpg)](https://www.amazon.es/dp/B07DJGJDG4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DJGJDG4/?tag=tolees-21)

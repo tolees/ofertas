@@ -22,7 +22,7 @@ Ahora mismo tienes [Armani Exchange Colour Block suéter  Negro  Black/White 02a
 
 [![Armani Exchange Colour Block suéter  Neg](https://images-eu.ssl-images-amazon.com/images/I/41agZnfVWBL._SL200_.jpg)](https://www.amazon.es/dp/B07JJ217MZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JJ217MZ/?tag=tolees-21)

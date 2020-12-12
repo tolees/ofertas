@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Ariel - azul Mujer  American Blue  W32/L30](https
 
 [![Pepe Jeans Ariel - azul Mujer  American ](https://images-eu.ssl-images-amazon.com/images/I/41X4br3dP6L._SL200_.jpg)](https://www.amazon.es/dp/B014YUKWMM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B014YUKWMM/?tag=tolees-21)

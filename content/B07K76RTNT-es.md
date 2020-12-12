@@ -22,7 +22,7 @@ Ahora mismo tienes [Asics Jolt 2 GS  Zapatillas de Running Unisex Niños  Azul  
 
 [![Asics Jolt 2 GS  Zapatillas de Running U](https://images-eu.ssl-images-amazon.com/images/I/41G%2BP5JzXiL._SL200_.jpg)](https://www.amazon.es/dp/B07K76RTNT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07K76RTNT/?tag=tolees-21)

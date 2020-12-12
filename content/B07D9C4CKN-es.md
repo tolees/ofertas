@@ -22,7 +22,7 @@ Ahora mismo tienes [Adidas Nemeziz 18.2 FG  Zapatillas de Fútbol para Hombre  A
 
 [![Adidas Nemeziz 18.2 FG  Zapatillas de Fú](https://images-eu.ssl-images-amazon.com/images/I/41u9Pvr15RL._SL200_.jpg)](https://www.amazon.es/dp/B07D9C4CKN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D9C4CKN/?tag=tolees-21)

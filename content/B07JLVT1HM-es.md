@@ -22,7 +22,7 @@ Ahora mismo tienes [DOOGEE X70 Móviles y Smartphones Libres Android 8.1  Dual S
 
 [![DOOGEE X70 Móviles y Smartphones Libres ](https://images-eu.ssl-images-amazon.com/images/I/41rz9YYhREL._SL200_.jpg)](https://www.amazon.es/dp/B07JLVT1HM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JLVT1HM/?tag=tolees-21)

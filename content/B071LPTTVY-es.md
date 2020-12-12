@@ -22,7 +22,7 @@ Ahora mismo tienes [Adidas Lite Racer  Zapatillas  Negro  Negbas/Ftwbla 000   45
 
 [![Adidas Lite Racer  Zapatillas  Negro  Ne](https://images-eu.ssl-images-amazon.com/images/I/31klAWU50NL._SL200_.jpg)](https://www.amazon.es/dp/B071LPTTVY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071LPTTVY/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Jaab XT TZ Wn s  Zapatillas de Deporte para Mujer  Verd
 
 [![Puma Jaab XT TZ Wn s  Zapatillas de Depo](https://images-eu.ssl-images-amazon.com/images/I/41YuPqXP9NL._SL200_.jpg)](https://www.amazon.es/dp/B07DC832QX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DC832QX/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [3M 767i Cinta de Vinilo con Franjas de Seguridad  50 mm x 33
 
 [![3M 767i Cinta de Vinilo con Franjas de S](https://images-eu.ssl-images-amazon.com/images/I/416-vTf4B5L._SL200_.jpg)](https://www.amazon.es/dp/B008CNTE0O/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B008CNTE0O/?tag=tolees-21)

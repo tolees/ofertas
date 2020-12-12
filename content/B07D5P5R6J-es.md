@@ -22,7 +22,7 @@ Ahora mismo tienes [Merrell All out Crush 2 GTX  Zapatillas de Running para Asfa
 
 [![Merrell All out Crush 2 GTX  Zapatillas ](https://images-eu.ssl-images-amazon.com/images/I/41rjGPPKosL._SL200_.jpg)](https://www.amazon.es/dp/B07D5P5R6J/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D5P5R6J/?tag=tolees-21)

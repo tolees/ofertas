@@ -22,7 +22,7 @@ Ahora mismo tienes [Ant-Man - Edición Coleccionista [Blu-ray]](https://www.amaz
 
 [![Ant-Man - Edición Coleccionista [Blu-ray](https://images-eu.ssl-images-amazon.com/images/I/51D5%2B2t%2B4uL._SL200_.jpg)](https://www.amazon.es/dp/B075KRWWV8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075KRWWV8/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Dove Dermaspa Cashmere Confort Loción Corporal 200 ml - [Pa
 
 [![Dove Dermaspa Cashmere Confort Loción Co](https://images-eu.ssl-images-amazon.com/images/I/31zOGUEHBhL._SL200_.jpg)](https://www.amazon.es/dp/B06Y2SRLRF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06Y2SRLRF/?tag=tolees-21)

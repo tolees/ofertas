@@ -22,7 +22,7 @@ Ahora mismo tienes [Scalpers Co Pantalones  Gris  Grey   WNA Tamaño del Fabrica
 
 [![Scalpers Co Pantalones  Gris  Grey   WNA](https://images-eu.ssl-images-amazon.com/images/I/41j0CwZwMKL._SL200_.jpg)](https://www.amazon.es/dp/B072JTJ8DL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072JTJ8DL/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Ignite Dual Swan Wn s  Zapatillas de Running para Mujer
 
 [![Puma Ignite Dual Swan Wn s  Zapatillas d](https://images-eu.ssl-images-amazon.com/images/I/41%2BFrD5C%2BVL._SL200_.jpg)](https://www.amazon.es/dp/B01N1GVYMC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N1GVYMC/?tag=tolees-21)

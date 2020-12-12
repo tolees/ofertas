@@ -22,7 +22,7 @@ Ahora mismo tienes [HOMIEE Oxímetro de Pulso  Pulsioxímetro Profesional para D
 
 [![HOMIEE Oxímetro de Pulso  Pulsioxímetro ](https://images-eu.ssl-images-amazon.com/images/I/41VGyxWN5lL._SL200_.jpg)](https://www.amazon.es/dp/B07DW853GN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DW853GN/?tag=tolees-21)

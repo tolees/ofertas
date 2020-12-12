@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma One 4 Syn AG  Zapatillas de Fútbol para Hombre  Platea
 
 [![Puma One 4 Syn AG  Zapatillas de Fútbol ](https://images-eu.ssl-images-amazon.com/images/I/41boMLz672L._SL200_.jpg)](https://www.amazon.es/dp/B07CZ1D8Y7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CZ1D8Y7/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Bestway 58242 Cobertor Solar para Piscinas  100x45x115 cm](h
 
 [![Bestway 58242 Cobertor Solar para Piscin](https://images-eu.ssl-images-amazon.com/images/I/41%2BREJ0i6rL._SL200_.jpg)](https://www.amazon.es/dp/B00FQD5FSS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00FQD5FSS/?tag=tolees-21)

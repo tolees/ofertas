@@ -22,7 +22,7 @@ Ahora mismo tienes [Kinderkraft Moov silla multifuncional 3en1 silla de paseo  y
 
 [![Kinderkraft Moov silla multifuncional 3e](https://images-eu.ssl-images-amazon.com/images/I/41an3AiTLiL._SL200_.jpg)](https://www.amazon.es/dp/B07FCCP4SD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FCCP4SD/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [HOMCOM Silla de Masaje Plegable Portátil para Fisioterapia 
 
 [![HOMCOM Silla de Masaje Plegable Portátil](https://images-eu.ssl-images-amazon.com/images/I/41I%2BI%2BwD%2BSL._SL200_.jpg)](https://www.amazon.es/dp/B07D8HG2CL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D8HG2CL/?tag=tolees-21)

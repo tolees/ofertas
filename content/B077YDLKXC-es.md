@@ -22,7 +22,7 @@ Ahora mismo tienes [HIKARO Anorak con Capucha Mujer  Rojo  Burgundy   40  Talla 
 
 [![HIKARO Anorak con Capucha Mujer  Rojo  B](https://images-eu.ssl-images-amazon.com/images/I/41osfUbVxUL._SL200_.jpg)](https://www.amazon.es/dp/B077YDLKXC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077YDLKXC/?tag=tolees-21)

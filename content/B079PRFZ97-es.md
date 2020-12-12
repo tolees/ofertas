@@ -22,7 +22,7 @@ Ahora mismo tienes [Teryei Funda Samsung Galaxy S8 / S8 Plus/Note 8  PC Hard Cas
 
 [![Teryei Funda Samsung Galaxy S8 / S8 Plus](https://images-eu.ssl-images-amazon.com/images/I/318UNuwZiNL._SL200_.jpg)](https://www.amazon.es/dp/B079PRFZ97/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079PRFZ97/?tag=tolees-21)

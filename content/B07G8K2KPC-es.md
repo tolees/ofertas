@@ -22,7 +22,7 @@ Ahora mismo tienes [Russell Hobbs 24034-56 - Cafetera Colours Plus Classic Azul 
 
 [![Russell Hobbs 24034-56 - Cafetera Colour](https://images-eu.ssl-images-amazon.com/images/I/410y0zUAWHL._SL200_.jpg)](https://www.amazon.es/dp/B07G8K2KPC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07G8K2KPC/?tag=tolees-21)

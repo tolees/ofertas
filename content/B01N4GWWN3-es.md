@@ -22,7 +22,7 @@ Ahora mismo tienes [Osprey Sirrus 26  mochila de senderismo con ventilación par
 
 [![Osprey Sirrus 26  mochila de senderismo ](https://images-eu.ssl-images-amazon.com/images/I/41xGN2pUMKL._SL200_.jpg)](https://www.amazon.es/dp/B01N4GWWN3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N4GWWN3/?tag=tolees-21)

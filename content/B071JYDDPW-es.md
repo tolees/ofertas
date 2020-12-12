@@ -22,7 +22,7 @@ Ahora mismo tienes [Empire Gaming - Caja PC para juegos WarFare negra LED rojo: 
 
 [![Empire Gaming - Caja PC para juegos WarF](https://images-eu.ssl-images-amazon.com/images/I/519DSQ45Y0L._SL200_.jpg)](https://www.amazon.es/dp/B071JYDDPW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071JYDDPW/?tag=tolees-21)

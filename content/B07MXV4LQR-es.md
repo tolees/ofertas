@@ -22,7 +22,7 @@ Ahora mismo tienes [ITSHINY luz Bicicleta  Luces para Bicicleta LED Recargable e
 
 [![ITSHINY luz Bicicleta  Luces para Bicicl](https://images-eu.ssl-images-amazon.com/images/I/51-lixJK-OL._SL200_.jpg)](https://www.amazon.es/dp/B07MXV4LQR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MXV4LQR/?tag=tolees-21)

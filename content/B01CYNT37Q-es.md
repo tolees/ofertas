@@ -22,7 +22,7 @@ Ahora mismo tienes [Joma Champion II - Polo para niño de 10 años  Color Burdeo
 
 [![Joma Champion II - Polo para niño de 10 ](https://images-eu.ssl-images-amazon.com/images/I/41eBNyop0AL._SL200_.jpg)](https://www.amazon.es/dp/B01CYNT37Q/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01CYNT37Q/?tag=tolees-21)

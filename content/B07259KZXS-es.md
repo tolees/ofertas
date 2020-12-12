@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW Core R Knit L/s suéter  Gris  Grey Htr 906   X-L
 
 [![G-STAR RAW Core R Knit L/s suéter  Gris ](https://images-eu.ssl-images-amazon.com/images/I/41v3y6sp9NL._SL200_.jpg)](https://www.amazon.es/dp/B07259KZXS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07259KZXS/?tag=tolees-21)

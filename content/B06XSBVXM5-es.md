@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance M420V4  Zapatillas de Deporte Unisex Adulto  M42
 
 [![New Balance M420V4  Zapatillas de Deport](https://images-eu.ssl-images-amazon.com/images/I/41B%2BbkEBbVL._SL200_.jpg)](https://www.amazon.es/dp/B06XSBVXM5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XSBVXM5/?tag=tolees-21)

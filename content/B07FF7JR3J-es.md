@@ -22,7 +22,7 @@ Ahora mismo tienes [Bollé Millenium Cascos  Unisex Adulto  Azul Mate Flash  58-
 
 [![Bollé Millenium Cascos  Unisex Adulto  A](https://images-eu.ssl-images-amazon.com/images/I/410mpLBAM%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07FF7JR3J/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FF7JR3J/?tag=tolees-21)

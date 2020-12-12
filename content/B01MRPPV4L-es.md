@@ -22,7 +22,7 @@ Ahora mismo tienes [Dakine Cinch Mochila  Unisex Adulto  Negro  Talla Única](ht
 
 [![Dakine Cinch Mochila  Unisex Adulto  Neg](https://images-eu.ssl-images-amazon.com/images/I/51rKlwCxQ7L._SL200_.jpg)](https://www.amazon.es/dp/B01MRPPV4L/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MRPPV4L/?tag=tolees-21)

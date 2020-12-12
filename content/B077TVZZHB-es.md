@@ -22,7 +22,7 @@ Ahora mismo tienes [Reebok Astroride Soul  Zapatillas de Senderismo para Hombre 
 
 [![Reebok Astroride Soul  Zapatillas de Sen](https://images-eu.ssl-images-amazon.com/images/I/41n6h3iGM%2BL._SL200_.jpg)](https://www.amazon.es/dp/B077TVZZHB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077TVZZHB/?tag=tolees-21)

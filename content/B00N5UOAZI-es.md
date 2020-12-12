@@ -22,7 +22,7 @@ Ahora mismo tienes [Bestway 8321626 Cobertor Para Piscina Rectangular Inflable 2
 
 [![Bestway 8321626 Cobertor Para Piscina Re](https://images-eu.ssl-images-amazon.com/images/I/41qqiCdbk%2BL._SL200_.jpg)](https://www.amazon.es/dp/B00N5UOAZI/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00N5UOAZI/?tag=tolees-21)

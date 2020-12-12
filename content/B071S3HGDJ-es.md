@@ -22,7 +22,7 @@ Ahora mismo tienes [Asics Gel-Game 6  Zapatillas de Tenis Mujer  Rojo  Rouge Red
 
 [![Asics Gel-Game 6  Zapatillas de Tenis Mu](https://images-eu.ssl-images-amazon.com/images/I/411JL59zibL._SL200_.jpg)](https://www.amazon.es/dp/B071S3HGDJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071S3HGDJ/?tag=tolees-21)

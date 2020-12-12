@@ -22,7 +22,7 @@ Ahora mismo tienes [HOM Classic Mini Briefs  Bañador Hombre  Rojo  Bordeaux 00z
 
 [![HOM Classic Mini Briefs  Bañador Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41e-8rL3IYL._SL200_.jpg)](https://www.amazon.es/dp/B07CNC4JTD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CNC4JTD/?tag=tolees-21)

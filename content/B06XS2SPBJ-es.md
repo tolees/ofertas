@@ -22,7 +22,7 @@ Ahora mismo tienes [Fairy Platinum Cápsulas De Lavavajillas - Pack 24+6 unidade
 
 [![Fairy Platinum Cápsulas De Lavavajillas ](https://images-eu.ssl-images-amazon.com/images/I/51YytbTCu-L._SL200_.jpg)](https://www.amazon.es/dp/B06XS2SPBJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XS2SPBJ/?tag=tolees-21)

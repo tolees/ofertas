@@ -22,7 +22,7 @@ Ahora mismo tienes [Reebok Cn1794  Zapatillas de Running para Hombre  Negro  Bla
 
 [![Reebok Cn1794  Zapatillas de Running par](https://images-eu.ssl-images-amazon.com/images/I/41O9ESl1QAL._SL200_.jpg)](https://www.amazon.es/dp/B077TRDN9G/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077TRDN9G/?tag=tolees-21)

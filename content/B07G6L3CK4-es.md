@@ -22,7 +22,7 @@ Ahora mismo tienes [HIWEAR Hombre 5 Pack Colorido Diseño de Lujo Rich Cotton Co
 
 [![HIWEAR Hombre 5 Pack Colorido Diseño de ](https://images-eu.ssl-images-amazon.com/images/I/51sZaDsVpSL._SL200_.jpg)](https://www.amazon.es/dp/B07G6L3CK4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07G6L3CK4/?tag=tolees-21)

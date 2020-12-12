@@ -22,7 +22,7 @@ Ahora mismo tienes [Adidas CAFLAIRE  Zapatillas de Deporte para Hombre  Blanco  
 
 [![Adidas CAFLAIRE  Zapatillas de Deporte p](https://images-eu.ssl-images-amazon.com/images/I/41D9e0O1zLL._SL200_.jpg)](https://www.amazon.es/dp/B0788BN6ZQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0788BN6ZQ/?tag=tolees-21)

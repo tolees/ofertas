@@ -22,7 +22,7 @@ Ahora mismo tienes [STANLEY FATMAX FMHT1-77435 - Soporte universal FatMAX para n
 
 [![STANLEY FATMAX FMHT1-77435 - Soporte uni](https://images-eu.ssl-images-amazon.com/images/I/41FDz-QMmxL._SL200_.jpg)](https://www.amazon.es/dp/B06XCNT5MB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XCNT5MB/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Burton Deringer Mascara  Mujer  Blanco/Rosa  Sonar   Talla �
 
 [![Burton Deringer Mascara  Mujer  Blanco/R]()](https://www.amazon.es/dp/B07DPCKZG7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DPCKZG7/?tag=tolees-21)

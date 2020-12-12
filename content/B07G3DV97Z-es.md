@@ -22,7 +22,7 @@ Ahora mismo tienes [Takestop Farol Cristal con Luz 20 LED blanco cálido Gris T
 
 [![Takestop Farol Cristal con Luz 20 LED bl](https://images-eu.ssl-images-amazon.com/images/I/51GbJ0IyHbL._SL200_.jpg)](https://www.amazon.es/dp/B07G3DV97Z/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07G3DV97Z/?tag=tolees-21)

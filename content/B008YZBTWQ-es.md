@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Eggo Long  Top de Manga Larga Para Hombre  Blanco
 
 [![Pepe Jeans Eggo Long  Top de Manga Larga](https://images-eu.ssl-images-amazon.com/images/I/41HLuGdwMIL._SL200_.jpg)](https://www.amazon.es/dp/B008YZBTWQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B008YZBTWQ/?tag=tolees-21)

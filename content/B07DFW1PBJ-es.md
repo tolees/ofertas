@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance 570  Zapatillas de Running Unisex Niños  Rosa P
 
 [![New Balance 570  Zapatillas de Running U](https://images-eu.ssl-images-amazon.com/images/I/41u1QCgXNxL._SL200_.jpg)](https://www.amazon.es/dp/B07DFW1PBJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DFW1PBJ/?tag=tolees-21)

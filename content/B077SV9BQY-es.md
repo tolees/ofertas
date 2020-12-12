@@ -22,7 +22,7 @@ Ahora mismo tienes [Asics Amplica  Zapatillas de Running para Hombre  Blanco  Wh
 
 [![Asics Amplica  Zapatillas de Running par](https://images-eu.ssl-images-amazon.com/images/I/419fRKVQj4L._SL200_.jpg)](https://www.amazon.es/dp/B077SV9BQY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077SV9BQY/?tag=tolees-21)

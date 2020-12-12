@@ -22,7 +22,7 @@ Ahora mismo tienes [Reebok AHARY Runner  Zapatillas de Trail Running para Mujer 
 
 [![Reebok AHARY Runner  Zapatillas de Trail](https://images-eu.ssl-images-amazon.com/images/I/41I7zhR8cDL._SL200_.jpg)](https://www.amazon.es/dp/B0784Z1ZZF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0784Z1ZZF/?tag=tolees-21)

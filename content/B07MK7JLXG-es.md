@@ -22,7 +22,7 @@ Ahora mismo tienes [Micrófono Karaoke Bluetooth Fede con 2 Altavoces Incorporad
 
 [![Micrófono Karaoke Bluetooth Fede con 2 A](https://images-eu.ssl-images-amazon.com/images/I/51K6kM7%2BLTL._SL200_.jpg)](https://www.amazon.es/dp/B07MK7JLXG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MK7JLXG/?tag=tolees-21)

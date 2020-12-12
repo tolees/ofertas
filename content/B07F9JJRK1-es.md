@@ -22,7 +22,7 @@ Ahora mismo tienes [Hetoco - Azucarero de cerámica con tapa y cuchara de bambú
 
 [![Hetoco - Azucarero de cerámica con tapa ](https://images-eu.ssl-images-amazon.com/images/I/31vVmg5w9tL._SL200_.jpg)](https://www.amazon.es/dp/B07F9JJRK1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F9JJRK1/?tag=tolees-21)

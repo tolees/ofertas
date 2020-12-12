@@ -22,7 +22,7 @@ Ahora mismo tienes [Reebok Express Runner 2.0  Zapatillas de Entrenamiento para 
 
 [![Reebok Express Runner 2.0  Zapatillas de](https://images-eu.ssl-images-amazon.com/images/I/41dMwvF9cGL._SL200_.jpg)](https://www.amazon.es/dp/B07D2N8YYY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D2N8YYY/?tag=tolees-21)

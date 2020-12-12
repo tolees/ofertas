@@ -22,7 +22,7 @@ Ahora mismo tienes [Godmorn Tostadora 2 Rebanadas  Ranuras de Acero Inoxidable T
 
 [![Godmorn Tostadora 2 Rebanadas  Ranuras d](https://images-eu.ssl-images-amazon.com/images/I/41gIQRlKrGL._SL200_.jpg)](https://www.amazon.es/dp/B07JVFG7NG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JVFG7NG/?tag=tolees-21)

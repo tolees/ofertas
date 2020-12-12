@@ -22,7 +22,7 @@ Ahora mismo tienes [OCDAY Syma Z3 Drone con Camara HD 720P WiFi FPV  Drones para
 
 [![OCDAY Syma Z3 Drone con Camara HD 720P W](https://images-eu.ssl-images-amazon.com/images/I/41727JaAZ0L._SL200_.jpg)](https://www.amazon.es/dp/B07J16VVBB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07J16VVBB/?tag=tolees-21)

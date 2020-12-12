@@ -22,7 +22,7 @@ Ahora mismo tienes [BOSS RS Stripe CC  Calcetines para Hombre  Azul  Dark Blue 4
 
 [![BOSS RS Stripe CC  Calcetines para Hombr](https://images-eu.ssl-images-amazon.com/images/I/41Ged%2BeuHQL._SL200_.jpg)](https://www.amazon.es/dp/B07G43NBYZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07G43NBYZ/?tag=tolees-21)

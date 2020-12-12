@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas X 17.3 FG  Zapatillas de Fútbol para Hombre   FTWR W
 
 [![adidas X 17.3 FG  Zapatillas de Fútbol p](https://images-eu.ssl-images-amazon.com/images/I/51WXsnOsWoL._SL200_.jpg)](https://www.amazon.es/dp/B0719WQ9QR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0719WQ9QR/?tag=tolees-21)

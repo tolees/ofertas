@@ -22,7 +22,7 @@ Ahora mismo tienes [Creative Aurvana Live! 2 - Auriculares de diadema cerrados  
 
 [![Creative Aurvana Live! 2 - Auriculares d](https://images-eu.ssl-images-amazon.com/images/I/41AbPRHLD8L._SL200_.jpg)](https://www.amazon.es/dp/B00GFLV7V4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00GFLV7V4/?tag=tolees-21)

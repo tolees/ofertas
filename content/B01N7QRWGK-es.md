@@ -22,7 +22,7 @@ Ahora mismo tienes [Logitech MK240 Nano - Teclado  Estándar  Inalámbrico  RF i
 
 [![Logitech MK240 Nano - Teclado  Estándar ](https://images-eu.ssl-images-amazon.com/images/I/41Jxc3tkNNL._SL200_.jpg)](https://www.amazon.es/dp/B01N7QRWGK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N7QRWGK/?tag=tolees-21)

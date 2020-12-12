@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Pádel OV - Set overgrip  Color Rosa  Talla única](h
 
 [![adidas Pádel OV - Set overgrip  Color Ro](https://images-eu.ssl-images-amazon.com/images/I/51c4PgGXuuL._SL200_.jpg)](https://www.amazon.es/dp/B01DDVMZ64/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01DDVMZ64/?tag=tolees-21)

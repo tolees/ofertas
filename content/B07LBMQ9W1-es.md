@@ -22,7 +22,7 @@ Ahora mismo tienes [Tommy Jeans TJM Essential Garment Dye Polo  Verde  Dynasty G
 
 [![Tommy Jeans TJM Essential Garment Dye Po](https://images-eu.ssl-images-amazon.com/images/I/318GhMNevLL._SL200_.jpg)](https://www.amazon.es/dp/B07LBMQ9W1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07LBMQ9W1/?tag=tolees-21)

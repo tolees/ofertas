@@ -22,7 +22,7 @@ Ahora mismo tienes [Bergner Pk833 Infinity Chefs-Set de Cazo Ø16x7 5 cms  1 3 L
 
 [![Bergner Pk833 Infinity Chefs-Set de Cazo](https://images-eu.ssl-images-amazon.com/images/I/514-ZHKJ-hL._SL200_.jpg)](https://www.amazon.es/dp/B07CM6X1RW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CM6X1RW/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Lacoste Sideline 119 1 CMA  Zapatillas para Hombre  Azul  Nv
 
 [![Lacoste Sideline 119 1 CMA  Zapatillas p](https://images-eu.ssl-images-amazon.com/images/I/41Guq5t2P6L._SL200_.jpg)](https://www.amazon.es/dp/B07DHYDZ7S/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DHYDZ7S/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Vibram FiveFingers Mid-Boot New Yorker  Botas Clasicas Unise
 
 [![Vibram FiveFingers Mid-Boot New Yorker  ](https://images-eu.ssl-images-amazon.com/images/I/41sDtrH9YEL._SL200_.jpg)](https://www.amazon.es/dp/B01MT91LIF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MT91LIF/?tag=tolees-21)

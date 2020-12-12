@@ -22,7 +22,7 @@ Ahora mismo tienes [DANISH ENDURANCE Calcetines de Compresión  Negro - 1 Par  E
 
 [![DANISH ENDURANCE Calcetines de Compresió](https://images-eu.ssl-images-amazon.com/images/I/51Ar5qxeqAL._SL200_.jpg)](https://www.amazon.es/dp/B01DBQVR1U/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01DBQVR1U/?tag=tolees-21)

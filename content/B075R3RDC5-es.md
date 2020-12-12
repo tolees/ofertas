@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance Fuel Cell Impulse  Zapatillas de Running para Mu
 
 [![New Balance Fuel Cell Impulse  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/41yW5Wmr3AL._SL200_.jpg)](https://www.amazon.es/dp/B075R3RDC5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075R3RDC5/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [LE COQ SPORTIF Courtace Sport  Zapatillas para Mujer   Optic
 
 [![LE COQ SPORTIF Courtace Sport  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/41jTeGPLDFL._SL200_.jpg)](https://www.amazon.es/dp/B07DC33SD4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DC33SD4/?tag=tolees-21)

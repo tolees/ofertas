@@ -22,7 +22,7 @@ Ahora mismo tienes [SULOV Snow Bob Olympic plástico Infantil  Color púrpura  4
 
 [![SULOV Snow Bob Olympic plástico Infantil](https://images-eu.ssl-images-amazon.com/images/I/41ILiUV8KkL._SL200_.jpg)](https://www.amazon.es/dp/B01JM4YCS0/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01JM4YCS0/?tag=tolees-21)

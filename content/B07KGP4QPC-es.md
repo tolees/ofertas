@@ -22,7 +22,7 @@ Ahora mismo tienes [Calcetines de Compresión para Hombres y Mujeres  Medias de 
 
 [![Calcetines de Compresión para Hombres y ](https://images-eu.ssl-images-amazon.com/images/I/41k7DR9zY1L._SL200_.jpg)](https://www.amazon.es/dp/B07KGP4QPC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KGP4QPC/?tag=tolees-21)

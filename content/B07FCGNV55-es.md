@@ -22,7 +22,7 @@ Ahora mismo tienes [Guess - Britta  Bolsos de mano Mujer  Rosa  Nude/Nud   28.5x
 
 [![Guess - Britta  Bolsos de mano Mujer  Ro](https://images-eu.ssl-images-amazon.com/images/I/41aGuCZmxkL._SL200_.jpg)](https://www.amazon.es/dp/B07FCGNV55/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FCGNV55/?tag=tolees-21)

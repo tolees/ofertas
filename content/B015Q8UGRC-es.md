@@ -22,7 +22,7 @@ Ahora mismo tienes [G-Star 3301 Contour-Azul Mujer](https://www.amazon.es/dp/B01
 
 [![G-Star 3301 Contour-Azul Mujer](https://images-eu.ssl-images-amazon.com/images/I/41zBmYwVKdL._SL200_.jpg)](https://www.amazon.es/dp/B015Q8UGRC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B015Q8UGRC/?tag=tolees-21)

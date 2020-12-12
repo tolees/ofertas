@@ -22,7 +22,7 @@ Ahora mismo tienes [Filtro de Agua Tipo III para Depuradora de Cartucho Bestway 
 
 [![Filtro de Agua Tipo III para Depuradora ](https://images-eu.ssl-images-amazon.com/images/I/41zt1ZB3j%2BL._SL200_.jpg)](https://www.amazon.es/dp/B00FQD5TC0/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00FQD5TC0/?tag=tolees-21)

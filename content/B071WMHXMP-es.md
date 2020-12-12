@@ -22,7 +22,7 @@ Ahora mismo tienes [Ultrasport F-Rider Entrenamiento fitness  abdominales  tonif
 
 [![Ultrasport F-Rider Entrenamiento fitness](https://images-eu.ssl-images-amazon.com/images/I/31m24KN4yML._SL200_.jpg)](https://www.amazon.es/dp/B071WMHXMP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071WMHXMP/?tag=tolees-21)

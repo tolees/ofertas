@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Cell Viper  Zapatillas Unisex Adulto  Blanco White-Pond
 
 [![Puma Cell Viper  Zapatillas Unisex Adult](https://images-eu.ssl-images-amazon.com/images/I/4126BEUBh4L._SL200_.jpg)](https://www.amazon.es/dp/B07DCDJ7YW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DCDJ7YW/?tag=tolees-21)

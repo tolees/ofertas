@@ -22,7 +22,7 @@ Ahora mismo tienes [Converse Chuck Taylor CTAS WP Boot Hi  Zapatillas Unisex Adu
 
 [![Converse Chuck Taylor CTAS WP Boot Hi  Z](https://images-eu.ssl-images-amazon.com/images/I/51cH%2BLI8tnL._SL200_.jpg)](https://www.amazon.es/dp/B01NCOJ4WN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01NCOJ4WN/?tag=tolees-21)

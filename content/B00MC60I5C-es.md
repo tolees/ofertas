@@ -22,7 +22,7 @@ Ahora mismo tienes [deAO - Robot "Beast Ares" con Múltiples acciones  Sonidos  
 
 [![deAO - Robot "Beast Ares" con Múltiples ](https://images-eu.ssl-images-amazon.com/images/I/51na2I4guZL._SL200_.jpg)](https://www.amazon.es/dp/B00MC60I5C/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00MC60I5C/?tag=tolees-21)

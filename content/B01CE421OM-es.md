@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour UA Drift RN Mineral  Zapatillas de Running para
 
 [![Under Armour UA Drift RN Mineral  Zapati](https://images-eu.ssl-images-amazon.com/images/I/419icvbnISL._SL200_.jpg)](https://www.amazon.es/dp/B01CE421OM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01CE421OM/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Astan Hogar sandwichera Duo Pack hottix ah-kc8040  750 W  Ac
 
 [![Astan Hogar sandwichera Duo Pack hottix ](https://images-eu.ssl-images-amazon.com/images/I/313a9OtwacL._SL200_.jpg)](https://www.amazon.es/dp/B07B49YKTF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07B49YKTF/?tag=tolees-21)

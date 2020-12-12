@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Forest Grove J  Zapatillas de Gimnasia Unisex Niños 
 
 [![adidas Forest Grove J  Zapatillas de Gim](https://images-eu.ssl-images-amazon.com/images/I/41ylRrphGhL._SL200_.jpg)](https://www.amazon.es/dp/B07K2RTS5B/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07K2RTS5B/?tag=tolees-21)

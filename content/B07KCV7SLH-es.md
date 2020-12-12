@@ -22,7 +22,7 @@ Ahora mismo tienes [David Jones - 5940-1a  Shoppers y bolsos de hombro Mujer  Ne
 
 [![David Jones - 5940-1a  Shoppers y bolsos](https://images-eu.ssl-images-amazon.com/images/I/41w4JxtocPL._SL200_.jpg)](https://www.amazon.es/dp/B07KCV7SLH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KCV7SLH/?tag=tolees-21)

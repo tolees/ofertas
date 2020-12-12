@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Arianna Cloudfoam  Zapatillas de Gimnasia para Mujer 
 
 [![adidas Arianna Cloudfoam  Zapatillas de ](https://images-eu.ssl-images-amazon.com/images/I/41Y4JyKOc8L._SL200_.jpg)](https://www.amazon.es/dp/B071VYRNNL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071VYRNNL/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Columbia Camden Chukka  Botas Casual para Hombre  Verde  Nor
 
 [![Columbia Camden Chukka  Botas Casual par](https://images-eu.ssl-images-amazon.com/images/I/51FrVDaO0nL._SL200_.jpg)](https://www.amazon.es/dp/B0772ZBJM1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0772ZBJM1/?tag=tolees-21)

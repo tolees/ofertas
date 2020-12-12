@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers Boulder  Botas para Mujer  Gris  Charcoal  40 EU](h
 
 [![Skechers Boulder  Botas para Mujer  Gris](https://images-eu.ssl-images-amazon.com/images/I/51wPMe6QRjL._SL200_.jpg)](https://www.amazon.es/dp/B01MTFLG7Q/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MTFLG7Q/?tag=tolees-21)

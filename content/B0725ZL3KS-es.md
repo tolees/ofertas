@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepa Loves Dots Cardigan Black  Negro  38  Tamaño del Fabri
 
 [![Pepa Loves Dots Cardigan Black  Negro  3](https://images-eu.ssl-images-amazon.com/images/I/410Yckb0O3L._SL200_.jpg)](https://www.amazon.es/dp/B0725ZL3KS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0725ZL3KS/?tag=tolees-21)

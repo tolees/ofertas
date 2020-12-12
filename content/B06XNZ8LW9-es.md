@@ -22,7 +22,7 @@ Ahora mismo tienes [Joma Granada Polo  Hombre  Azul  S](https://www.amazon.es/dp
 
 [![Joma Granada Polo  Hombre  Azul  S](https://images-eu.ssl-images-amazon.com/images/I/41LU8O1glTL._SL200_.jpg)](https://www.amazon.es/dp/B06XNZ8LW9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XNZ8LW9/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Funko Pop! - Vinyl Who: 10th Doctor  4627](https://www.amazo
 
 [![Funko Pop! - Vinyl Who: 10th Doctor  462](https://images-eu.ssl-images-amazon.com/images/I/41hW8uWOZhL._SL200_.jpg)](https://www.amazon.es/dp/B00TR5TOJC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00TR5TOJC/?tag=tolees-21)

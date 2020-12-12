@@ -22,7 +22,7 @@ Ahora mismo tienes [El Ganso 1100s180025 Polo  Hombre  Marrón  Brown Único   S
 
 [![El Ganso 1100s180025 Polo  Hombre  Marró](https://images-eu.ssl-images-amazon.com/images/I/41EJ3KcW8YL._SL200_.jpg)](https://www.amazon.es/dp/B074QP6DHJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074QP6DHJ/?tag=tolees-21)

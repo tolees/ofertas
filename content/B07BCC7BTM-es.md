@@ -22,7 +22,7 @@ Ahora mismo tienes [Pandora Abalorios Mujer plata - 797037](https://www.amazon.e
 
 [![Pandora Abalorios Mujer plata - 797037](https://images-eu.ssl-images-amazon.com/images/I/41XImiWxGTL._SL200_.jpg)](https://www.amazon.es/dp/B07BCC7BTM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BCC7BTM/?tag=tolees-21)

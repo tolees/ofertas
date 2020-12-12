@@ -22,7 +22,7 @@ Ahora mismo tienes [Hot Wheels - Mutant Machine: 2 Asstd  Skullface  Color Gris 
 
 [![Hot Wheels - Mutant Machine: 2 Asstd  Sk](https://images-eu.ssl-images-amazon.com/images/I/41e8Jpw5L9L._SL200_.jpg)](https://www.amazon.es/dp/B01LYFJ0S1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01LYFJ0S1/?tag=tolees-21)

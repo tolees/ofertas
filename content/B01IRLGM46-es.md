@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers Lanson-Rometo  Zapatillas de Entrenamiento para Hom
 
 [![Skechers Lanson-Rometo  Zapatillas de En](https://images-eu.ssl-images-amazon.com/images/I/41wVs2TPYAL._SL200_.jpg)](https://www.amazon.es/dp/B01IRLGM46/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01IRLGM46/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma IGNITE XT v2 - Zapatillas de deporte Unisex Adulto  Roj
 
 [![Puma IGNITE XT v2 - Zapatillas de deport](https://images-eu.ssl-images-amazon.com/images/I/4139bXE6i1L._SL200_.jpg)](https://www.amazon.es/dp/B01B6KTI1O/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01B6KTI1O/?tag=tolees-21)

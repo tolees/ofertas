@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Urban Plus SD  Zapatillas Unisex Adults o  Verde Olivin
 
 [![Puma Urban Plus SD  Zapatillas Unisex Ad](https://images-eu.ssl-images-amazon.com/images/I/410VBP8WVXL._SL200_.jpg)](https://www.amazon.es/dp/B07DBZXT19/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DBZXT19/?tag=tolees-21)

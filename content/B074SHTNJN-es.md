@@ -22,7 +22,7 @@ Ahora mismo tienes [Tommy Hilfiger Core Cotton-Silk Cneck suéter  Negro  Flag B
 
 [![Tommy Hilfiger Core Cotton-Silk Cneck su](https://images-eu.ssl-images-amazon.com/images/I/31VIKQFBCPL._SL200_.jpg)](https://www.amazon.es/dp/B074SHTNJN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074SHTNJN/?tag=tolees-21)

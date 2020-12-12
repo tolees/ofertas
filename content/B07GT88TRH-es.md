@@ -22,7 +22,7 @@ Ahora mismo tienes [Desigual - Wallet Holi Fiona Women  Carteras Mujer  Negro  2
 
 [![Desigual - Wallet Holi Fiona Women  Cart](https://images-eu.ssl-images-amazon.com/images/I/31E3OIbInwL._SL200_.jpg)](https://www.amazon.es/dp/B07GT88TRH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GT88TRH/?tag=tolees-21)

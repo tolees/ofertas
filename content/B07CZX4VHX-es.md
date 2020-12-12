@@ -22,7 +22,7 @@ Ahora mismo tienes [Salomon XA Lite GTX  Zapatillas de Trail Running para Mujer 
 
 [![Salomon XA Lite GTX  Zapatillas de Trail](https://images-eu.ssl-images-amazon.com/images/I/51TZXDl0O6L._SL200_.jpg)](https://www.amazon.es/dp/B07CZX4VHX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CZX4VHX/?tag=tolees-21)

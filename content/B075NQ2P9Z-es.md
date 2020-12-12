@@ -22,7 +22,7 @@ Ahora mismo tienes [GORE WEAR C3 Calcetines para ciclismo unisex  Talla: 44-46  
 
 [![GORE WEAR C3 Calcetines para ciclismo un](https://images-eu.ssl-images-amazon.com/images/I/519VaLgiJ5L._SL200_.jpg)](https://www.amazon.es/dp/B075NQ2P9Z/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075NQ2P9Z/?tag=tolees-21)

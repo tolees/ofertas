@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s Malibu S  Zapatillas para Mujer  Rosa  Noir Regular F
 
 [![Levi s Malibu S  Zapatillas para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41LukOr3FGL._SL200_.jpg)](https://www.amazon.es/dp/B0773HXGCX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0773HXGCX/?tag=tolees-21)

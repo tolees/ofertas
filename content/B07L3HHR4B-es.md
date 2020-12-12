@@ -22,7 +22,7 @@ Ahora mismo tienes [TV Box Android 7.1 - VIDEN Smart TV Box Amlogic S905X Quad C
 
 [![TV Box Android 7.1 - VIDEN Smart TV Box ](https://images-eu.ssl-images-amazon.com/images/I/51OHADFfXmL._SL200_.jpg)](https://www.amazon.es/dp/B07L3HHR4B/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07L3HHR4B/?tag=tolees-21)

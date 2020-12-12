@@ -22,7 +22,7 @@ Ahora mismo tienes [Bugatti J7605pr6n  Zapatillas para Mujer  Negro  Schwarz/Wei
 
 [![Bugatti J7605pr6n  Zapatillas para Mujer](https://images-eu.ssl-images-amazon.com/images/I/41l9H1v%2BGSL._SL200_.jpg)](https://www.amazon.es/dp/B01N8TJ2AY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N8TJ2AY/?tag=tolees-21)

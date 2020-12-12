@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance 420  Zapatillas Unisex Adulto  Gris  Shale/Magne
 
 [![New Balance 420  Zapatillas Unisex Adult](https://images-eu.ssl-images-amazon.com/images/I/41pV2oZ%2BSML._SL200_.jpg)](https://www.amazon.es/dp/B07BL2QW8K/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BL2QW8K/?tag=tolees-21)

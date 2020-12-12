@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Leader Vt Sl Zapatillas de Running Unisex Adulto  Negro
 
 [![Puma Leader Vt Sl Zapatillas de Running ](https://images-eu.ssl-images-amazon.com/images/I/41zwH5Nvt%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07DC7LLL6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DC7LLL6/?tag=tolees-21)

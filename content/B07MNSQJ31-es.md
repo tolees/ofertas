@@ -22,7 +22,7 @@ Ahora mismo tienes [Calibre Digital Acero Inoxidable  Colourstone IP54 0-15MM Ac
 
 [![Calibre Digital Acero Inoxidable  Colour](https://images-eu.ssl-images-amazon.com/images/I/416%2B8XvvItL._SL200_.jpg)](https://www.amazon.es/dp/B07MNSQJ31/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MNSQJ31/?tag=tolees-21)

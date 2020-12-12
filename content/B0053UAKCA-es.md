@@ -22,7 +22,7 @@ Ahora mismo tienes [Schwarzkopf Bc Oil Miracle Finishing - Cuidado capilar  100 
 
 [![Schwarzkopf Bc Oil Miracle Finishing - C](https://images-eu.ssl-images-amazon.com/images/I/31ZHTS34zzL._SL200_.jpg)](https://www.amazon.es/dp/B0053UAKCA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0053UAKCA/?tag=tolees-21)

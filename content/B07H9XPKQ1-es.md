@@ -22,7 +22,7 @@ Ahora mismo tienes [ZIGLINT Aspirador Escoba Z8  2 en 1 Aspiradora Sin Cable y d
 
 [![ZIGLINT Aspirador Escoba Z8  2 en 1 Aspi](https://images-eu.ssl-images-amazon.com/images/I/41NqIBcsAIL._SL200_.jpg)](https://www.amazon.es/dp/B07H9XPKQ1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07H9XPKQ1/?tag=tolees-21)

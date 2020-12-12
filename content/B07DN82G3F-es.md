@@ -22,7 +22,7 @@ Ahora mismo tienes [Mascarilla para Contorno de Ojos - Liberex Mascarilla de Hid
 
 [![Mascarilla para Contorno de Ojos - Liber](https://images-eu.ssl-images-amazon.com/images/I/41YjITZCFbL._SL200_.jpg)](https://www.amazon.es/dp/B07DN82G3F/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DN82G3F/?tag=tolees-21)

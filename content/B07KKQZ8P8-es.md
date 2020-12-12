@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Classic Backpack 3 Stripes  Unisex Adulto   Shock Cya
 
 [![adidas Classic Backpack 3 Stripes  Unise](https://images-eu.ssl-images-amazon.com/images/I/41%2BULVaZQ9L._SL200_.jpg)](https://www.amazon.es/dp/B07KKQZ8P8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KKQZ8P8/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Helly Hansen Loke Backpack Mochila  Unisex  Rojo  Cherry Tom
 
 [![Helly Hansen Loke Backpack Mochila  Unis](https://images-eu.ssl-images-amazon.com/images/I/41EPKcDLzjL._SL200_.jpg)](https://www.amazon.es/dp/B07F2Q65FV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F2Q65FV/?tag=tolees-21)

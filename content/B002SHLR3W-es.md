@@ -22,7 +22,7 @@ Ahora mismo tienes [Stanley 269264 - Juego de llaves métricas  8 piezas en estu
 
 [![Stanley 269264 - Juego de llaves métrica](https://images-eu.ssl-images-amazon.com/images/I/41mfi2I42NL._SL200_.jpg)](https://www.amazon.es/dp/B002SHLR3W/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B002SHLR3W/?tag=tolees-21)

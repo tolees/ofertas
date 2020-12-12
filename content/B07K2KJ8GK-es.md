@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Galaxy 4  Zapatillas de Running para Mujer  Rosso Cor
 
 [![adidas Galaxy 4  Zapatillas de Running p](https://images-eu.ssl-images-amazon.com/images/I/41k0bePPfCL._SL200_.jpg)](https://www.amazon.es/dp/B07K2KJ8GK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07K2KJ8GK/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Funko- Justin Bieber Figura de Vinilo  seria Rocks   14351 ]
 
 [![Funko- Justin Bieber Figura de Vinilo  s](https://images-eu.ssl-images-amazon.com/images/I/413RakkCwmL._SL200_.jpg)](https://www.amazon.es/dp/B071CLTWKL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071CLTWKL/?tag=tolees-21)

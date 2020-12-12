@@ -22,7 +22,7 @@ Ahora mismo tienes [Anillo de pilates/Círculo de yoga+Bandas de resistencia+pel
 
 [![Anillo de pilates/Círculo de yoga+Bandas](https://images-eu.ssl-images-amazon.com/images/I/41iiw3i6syL._SL200_.jpg)](https://www.amazon.es/dp/B07GYBWMD4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GYBWMD4/?tag=tolees-21)

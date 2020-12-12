@@ -22,7 +22,7 @@ Ahora mismo tienes [Festina Reloj Analógico para Hombre de Cuarzo con Correa en
 
 [![Festina Reloj Analógico para Hombre de C](https://images-eu.ssl-images-amazon.com/images/I/41k3GpSp2TL._SL200_.jpg)](https://www.amazon.es/dp/B002YYKVRC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B002YYKVRC/?tag=tolees-21)

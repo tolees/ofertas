@@ -22,7 +22,7 @@ Ahora mismo tienes [Wonyered Altavoces Inalámbrico Reloj Bluetooth Portátil De
 
 [![Wonyered Altavoces Inalámbrico Reloj Blu](https://images-eu.ssl-images-amazon.com/images/I/41P9WRVr7SL._SL200_.jpg)](https://www.amazon.es/dp/B07GZC1TM3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GZC1TM3/?tag=tolees-21)

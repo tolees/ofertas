@@ -22,7 +22,7 @@ Ahora mismo tienes [Tamaris 25258-31  Zapatillas Altas para Mujer  Verde  Olive 
 
 [![Tamaris 25258-31  Zapatillas Altas para ](https://images-eu.ssl-images-amazon.com/images/I/417ZZKCPvJL._SL200_.jpg)](https://www.amazon.es/dp/B07DK1MGQN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DK1MGQN/?tag=tolees-21)

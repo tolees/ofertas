@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers 11936  Zapatillas para Mujer  Blanco  White/Silver 
 
 [![Skechers 11936  Zapatillas para Mujer  B](https://images-eu.ssl-images-amazon.com/images/I/415S7jJLKcL._SL200_.jpg)](https://www.amazon.es/dp/B014GNK4E8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B014GNK4E8/?tag=tolees-21)

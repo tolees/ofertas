@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Smash Wns v2 SD  Zapatillas para Mujer  Rosa Dusty Cora
 
 [![Puma Smash Wns v2 SD  Zapatillas para Mu](https://images-eu.ssl-images-amazon.com/images/I/41WGk4LaPiL._SL200_.jpg)](https://www.amazon.es/dp/B07CSCD1PW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CSCD1PW/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Nrgy Comet  Zapatillas de Running Unisex Adulto  Rojo  
 
 [![Puma Nrgy Comet  Zapatillas de Running U](https://images-eu.ssl-images-amazon.com/images/I/41egfiBbPBL._SL200_.jpg)](https://www.amazon.es/dp/B07DB1GKH3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DB1GKH3/?tag=tolees-21)

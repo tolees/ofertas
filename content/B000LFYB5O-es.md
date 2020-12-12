@@ -22,7 +22,7 @@ Ahora mismo tienes [Silverline 675062 - Clavadora neumática 32 mm  Calibre 18 ]
 
 [![Silverline 675062 - Clavadora neumática ](https://images-eu.ssl-images-amazon.com/images/I/51BO5T0d8ZL._SL200_.jpg)](https://www.amazon.es/dp/B000LFYB5O/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B000LFYB5O/?tag=tolees-21)

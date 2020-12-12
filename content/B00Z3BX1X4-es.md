@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW 3301 Slim Jeans  Azul  Medium Aged 6090-071   40W
 
 [![G-STAR RAW 3301 Slim Jeans  Azul  Medium](https://images-eu.ssl-images-amazon.com/images/I/41UN1VxEq8L._SL200_.jpg)](https://www.amazon.es/dp/B00Z3BX1X4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00Z3BX1X4/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour Men s Original Series 6” Boxerjock 2 PK  Ropa
 
 [![Under Armour Men s Original Series 6” Bo](https://images-eu.ssl-images-amazon.com/images/I/518TzJnoypL._SL200_.jpg)](https://www.amazon.es/dp/B014VCRAE6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B014VCRAE6/?tag=tolees-21)

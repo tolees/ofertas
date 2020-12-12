@@ -22,7 +22,7 @@ Ahora mismo tienes [Desigual - Bols_orleans To The Office. 2000. U  Mujer  Negro
 
 [![Desigual - Bols_orleans To The Office. 2](https://images-eu.ssl-images-amazon.com/images/I/51veGrxWBcL._SL200_.jpg)](https://www.amazon.es/dp/B06XPX16G1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XPX16G1/?tag=tolees-21)

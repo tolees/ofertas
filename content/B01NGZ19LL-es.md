@@ -22,7 +22,7 @@ Ahora mismo tienes [LANGRIA Manta de Sofá y Cama de Microfibra de Poliéster  S
 
 [![LANGRIA Manta de Sofá y Cama de Microfib](https://images-eu.ssl-images-amazon.com/images/I/31i2XWAoXsL._SL200_.jpg)](https://www.amazon.es/dp/B01NGZ19LL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01NGZ19LL/?tag=tolees-21)

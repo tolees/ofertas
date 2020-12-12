@@ -22,7 +22,7 @@ Ahora mismo tienes [ARBLOVE Faja Reductora Mujer Abdomen Adelgazante Postparto C
 
 [![ARBLOVE Faja Reductora Mujer Abdomen Ade](https://images-eu.ssl-images-amazon.com/images/I/3132FfJN7BL._SL200_.jpg)](https://www.amazon.es/dp/B07H2K9C2C/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07H2K9C2C/?tag=tolees-21)

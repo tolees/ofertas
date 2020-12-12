@@ -22,7 +22,7 @@ Ahora mismo tienes [Kappa Meseta  Zapatillas Unisex Adulto  Negro  Black/White 1
 
 [![Kappa Meseta  Zapatillas Unisex Adulto  ](https://images-eu.ssl-images-amazon.com/images/I/411B%2B9fwCxL._SL200_.jpg)](https://www.amazon.es/dp/B078W71YWH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078W71YWH/?tag=tolees-21)

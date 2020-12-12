@@ -22,7 +22,7 @@ Ahora mismo tienes [edc by Esprit 037cc2c002  Pantalones Cortos Hombre  Rojo  Re
 
 [![edc by Esprit 037cc2c002  Pantalones Cor](https://images-eu.ssl-images-amazon.com/images/I/41n92TKUwfL._SL200_.jpg)](https://www.amazon.es/dp/B01MZ1HDIL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MZ1HDIL/?tag=tolees-21)

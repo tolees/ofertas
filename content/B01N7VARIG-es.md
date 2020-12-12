@@ -22,7 +22,7 @@ Ahora mismo tienes [Belkin - Soporte para Rejilla de Ventilación de Coche para 
 
 [![Belkin - Soporte para Rejilla de Ventila](https://images-eu.ssl-images-amazon.com/images/I/31YMvD2YblL._SL200_.jpg)](https://www.amazon.es/dp/B01N7VARIG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N7VARIG/?tag=tolees-21)

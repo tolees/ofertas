@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW 3301 Low Waist Super Skinny Jeans Ajustados  Gris
 
 [![G-STAR RAW 3301 Low Waist Super Skinny J](https://images-eu.ssl-images-amazon.com/images/I/41-0gTBL3yL._SL200_.jpg)](https://www.amazon.es/dp/B01MFF3Y97/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MFF3Y97/?tag=tolees-21)

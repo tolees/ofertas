@@ -22,7 +22,7 @@ Ahora mismo tienes [Wild Republic 64167 Eco Expedition Dino Dig - Figuras articu
 
 [![Wild Republic 64167 Eco Expedition Dino ](https://images-eu.ssl-images-amazon.com/images/I/51%2BEKw0K-aL._SL200_.jpg)](https://www.amazon.es/dp/B000BI2NLA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B000BI2NLA/?tag=tolees-21)

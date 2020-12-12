@@ -22,7 +22,7 @@ Ahora mismo tienes [Bourjois - barra de labios  tono cherry](https://www.amazon.
 
 [![Bourjois - barra de labios  tono cherry](https://images-eu.ssl-images-amazon.com/images/I/31tXNTa%2BKJL._SL200_.jpg)](https://www.amazon.es/dp/B00O32UCJA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00O32UCJA/?tag=tolees-21)

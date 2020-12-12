@@ -22,7 +22,7 @@ Ahora mismo tienes [Helly Hansen Garibaldi V3  Botas de Nieve para Hombre  Marr�
 
 [![Helly Hansen Garibaldi V3  Botas de Niev](https://images-eu.ssl-images-amazon.com/images/I/412a1sWBByL._SL200_.jpg)](https://www.amazon.es/dp/B079GHC1PV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079GHC1PV/?tag=tolees-21)

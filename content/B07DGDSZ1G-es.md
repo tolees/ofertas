@@ -22,7 +22,7 @@ Ahora mismo tienes [DC Shoes Torstein  Zapatillas de Skateboard para Hombre  Gri
 
 [![DC Shoes Torstein  Zapatillas de Skatebo](https://images-eu.ssl-images-amazon.com/images/I/41ZtnJ4HYZL._SL200_.jpg)](https://www.amazon.es/dp/B07DGDSZ1G/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DGDSZ1G/?tag=tolees-21)

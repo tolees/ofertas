@@ -22,7 +22,7 @@ Ahora mismo tienes [Approx APPKBBT02B - Teclado Universal Bluetooth 3.0  Color N
 
 [![Approx APPKBBT02B - Teclado Universal Bl](https://images-eu.ssl-images-amazon.com/images/I/41E3wtdMWYL._SL200_.jpg)](https://www.amazon.es/dp/B00N2PJZ42/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00N2PJZ42/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Toyota SUPERJ15 - Máquina de coser  65 W  15 programas  esp
 
 [![Toyota SUPERJ15 - Máquina de coser  65 W](https://images-eu.ssl-images-amazon.com/images/I/411msLz3BmL._SL200_.jpg)](https://www.amazon.es/dp/B0065HGLNC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0065HGLNC/?tag=tolees-21)

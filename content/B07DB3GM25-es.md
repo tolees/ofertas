@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Suede Classic+  Zapatillas Unisex Adulto  Negro Black-F
 
 [![Puma Suede Classic+  Zapatillas Unisex A](https://images-eu.ssl-images-amazon.com/images/I/41Xk8-C%2BwaL._SL200_.jpg)](https://www.amazon.es/dp/B07DB3GM25/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DB3GM25/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike Wmns Downshifter 8  Zapatillas de Running para Mujer   
 
 [![Nike Wmns Downshifter 8  Zapatillas de R](https://images-eu.ssl-images-amazon.com/images/I/41pmTGUejeL._SL200_.jpg)](https://www.amazon.es/dp/B004AV1IRO/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B004AV1IRO/?tag=tolees-21)

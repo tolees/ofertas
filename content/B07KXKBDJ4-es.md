@@ -22,7 +22,7 @@ Ahora mismo tienes [Rocksoff Vibradores - 1 unidad](https://www.amazon.es/dp/B07
 
 [![Rocksoff Vibradores - 1 unidad](https://images-eu.ssl-images-amazon.com/images/I/31CdFVvJ9FL._SL200_.jpg)](https://www.amazon.es/dp/B07KXKBDJ4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KXKBDJ4/?tag=tolees-21)

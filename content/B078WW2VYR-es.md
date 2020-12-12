@@ -22,7 +22,7 @@ Ahora mismo tienes [Munich Tiga  Zapatillas de Deporte Unisex Adulto  Multicolor
 
 [![Munich Tiga  Zapatillas de Deporte Unise](https://images-eu.ssl-images-amazon.com/images/I/41n2yfj-UPL._SL200_.jpg)](https://www.amazon.es/dp/B078WW2VYR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078WW2VYR/?tag=tolees-21)

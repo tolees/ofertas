@@ -22,7 +22,7 @@ Ahora mismo tienes [Danish Design Reloj Analogico para Unisex de Cuarzo con Corr
 
 [![Danish Design Reloj Analogico para Unise](https://images-eu.ssl-images-amazon.com/images/I/41yXPN34-KL._SL200_.jpg)](https://www.amazon.es/dp/B01K3X1OLW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01K3X1OLW/?tag=tolees-21)

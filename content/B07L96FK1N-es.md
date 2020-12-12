@@ -22,7 +22,7 @@ Ahora mismo tienes [Reloj Inteligente Bluetooth  ACCEWIT Smartwatch Pantalla a T
 
 [![Reloj Inteligente Bluetooth  ACCEWIT Sma](https://images-eu.ssl-images-amazon.com/images/I/51BwSXyJCIL._SL200_.jpg)](https://www.amazon.es/dp/B07L96FK1N/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07L96FK1N/?tag=tolees-21)

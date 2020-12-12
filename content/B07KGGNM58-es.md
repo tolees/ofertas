@@ -22,7 +22,7 @@ Ahora mismo tienes [BOSS Ivitta  suéter para Mujer  Azul  Aqua 440   Large](htt
 
 [![BOSS Ivitta  suéter para Mujer  Azul  Aq](https://images-eu.ssl-images-amazon.com/images/I/319JkBCG60L._SL200_.jpg)](https://www.amazon.es/dp/B07KGGNM58/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KGGNM58/?tag=tolees-21)

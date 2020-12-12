@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance WL565  Zapatillas de Running para Mujer  Azul  T
 
 [![New Balance WL565  Zapatillas de Running](https://images-eu.ssl-images-amazon.com/images/I/41BR7Bq0LmL._SL200_.jpg)](https://www.amazon.es/dp/B072W5XPQF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072W5XPQF/?tag=tolees-21)

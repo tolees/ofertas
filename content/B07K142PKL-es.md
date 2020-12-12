@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Superstar J  Zapatillas de Gimnasia Unisex Niños  Gr
 
 [![adidas Superstar J  Zapatillas de Gimnas](https://images-eu.ssl-images-amazon.com/images/I/41MMeeIoiML._SL200_.jpg)](https://www.amazon.es/dp/B07K142PKL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07K142PKL/?tag=tolees-21)

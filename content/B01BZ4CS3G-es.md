@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers Relment-Pelmo  Botas de Senderismo para Hombre  Mar
 
 [![Skechers Relment-Pelmo  Botas de Senderi](https://images-eu.ssl-images-amazon.com/images/I/41KK%2BF8NQpL._SL200_.jpg)](https://www.amazon.es/dp/B01BZ4CS3G/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01BZ4CS3G/?tag=tolees-21)

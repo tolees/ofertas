@@ -22,7 +22,7 @@ Ahora mismo tienes [Eliminación de espinillas impermeable personal Diamond Micr
 
 [![Eliminación de espinillas impermeable pe](https://images-eu.ssl-images-amazon.com/images/I/31AZy7NUM1L._SL200_.jpg)](https://www.amazon.es/dp/B0728FVKKW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0728FVKKW/?tag=tolees-21)

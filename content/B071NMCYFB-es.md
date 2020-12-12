@@ -22,7 +22,7 @@ Ahora mismo tienes [Dockers by Gerli 41ce307-613100  Zapatillas Altas para Mujer
 
 [![Dockers by Gerli 41ce307-613100  Zapatil](https://images-eu.ssl-images-amazon.com/images/I/41VpoUTzTaL._SL200_.jpg)](https://www.amazon.es/dp/B071NMCYFB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071NMCYFB/?tag=tolees-21)

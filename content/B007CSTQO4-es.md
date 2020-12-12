@@ -22,7 +22,7 @@ Ahora mismo tienes [Remington PG180 Pilot - Cortadora para barba  bigote y patil
 
 [![Remington PG180 Pilot - Cortadora para b](http://images.amazon.com/images/P/B007CSTQO4.01._PI_SCMZZZZZZZ_._SL200_.jpg)](https://www.amazon.es/dp/B007CSTQO4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B007CSTQO4/?tag=tolees-21)

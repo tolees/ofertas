@@ -22,7 +22,7 @@ Ahora mismo tienes [Matrix 60933 - Mascarilla capilar  150 ml](https://www.amazo
 
 [![Matrix 60933 - Mascarilla capilar  150 m](https://images-eu.ssl-images-amazon.com/images/I/41HNlEQUhaL._SL200_.jpg)](https://www.amazon.es/dp/B00ILBUGH2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00ILBUGH2/?tag=tolees-21)

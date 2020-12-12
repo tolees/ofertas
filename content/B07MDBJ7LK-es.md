@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW 3301 Straight Tapered Jeans  Azul  lt Aged 6541-4
 
 [![G-STAR RAW 3301 Straight Tapered Jeans  ](https://images-eu.ssl-images-amazon.com/images/I/41t3LqOi3QL._SL200_.jpg)](https://www.amazon.es/dp/B07MDBJ7LK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MDBJ7LK/?tag=tolees-21)

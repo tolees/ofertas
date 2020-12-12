@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers 58356  Zapatillas para Hombre  Negro  Black   45.5 
 
 [![Skechers 58356  Zapatillas para Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/41DSOdc4EoL._SL200_.jpg)](https://www.amazon.es/dp/B06ZYKKQQ5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06ZYKKQQ5/?tag=tolees-21)

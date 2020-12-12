@@ -22,7 +22,7 @@ Ahora mismo tienes [Pretender Maletín de Médico con Accesorios para Juego de r
 
 [![Pretender Maletín de Médico con Accesori](https://images-eu.ssl-images-amazon.com/images/I/51PwUW6-I8L._SL200_.jpg)](https://www.amazon.es/dp/B071W6QMTT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071W6QMTT/?tag=tolees-21)

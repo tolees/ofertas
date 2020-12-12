@@ -22,7 +22,7 @@ Ahora mismo tienes [Canon cartucho 718 de tóner original magenta para impresora
 
 [![Canon cartucho 718 de tóner original mag](https://images-eu.ssl-images-amazon.com/images/I/41nOeq0AqZL._SL200_.jpg)](https://www.amazon.es/dp/B0029QJUMC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0029QJUMC/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Simón Coll - Gotas de Chocolate con Lech al 28.78 % de descuento'
-date: 2020-11-27 16:35:34
+date: 2020-12-12 14:42:37
 image: 'https://m.media-amazon.com/images/I/41FR2RnKK0L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,7 +22,11 @@ Ahora mismo tienes [Simón Coll - Gotas de Chocolate con Leche 500g](https://www
 
 [![Simón Coll - Gotas de Chocolate con Lech](https://m.media-amazon.com/images/I/41FR2RnKK0L._SL200_.jpg)](https://www.amazon.es/dp/B079Z8LL8T/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Expertos chocolateros desde 1840.
+- Cobertura y decoración repostería
+- Elaboración con ingredientes de calidad y producción bean to bar, desde el haba de cacao.
+- Sin gluten. Sin aceite de palma.
 
 [Visítala!!!](https://www.amazon.es/dp/B079Z8LL8T/?tag=tolees-21)

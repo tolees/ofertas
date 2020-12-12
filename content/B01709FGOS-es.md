@@ -22,7 +22,7 @@ Ahora mismo tienes [KAISERHOFF Tapa Universal de Vidrio  16  1 y 20 cm](https://
 
 [![KAISERHOFF Tapa Universal de Vidrio  16 ](https://images-eu.ssl-images-amazon.com/images/I/31Jf1FpHXlL._SL200_.jpg)](https://www.amazon.es/dp/B01709FGOS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01709FGOS/?tag=tolees-21)

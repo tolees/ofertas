@@ -22,7 +22,7 @@ Ahora mismo tienes [Salomon Logo Hoodie  Hombre  Rojo  Biking Red   XL](https://
 
 [![Salomon Logo Hoodie  Hombre  Rojo  Bikin](https://images-eu.ssl-images-amazon.com/images/I/41D5AfCsB4L._SL200_.jpg)](https://www.amazon.es/dp/B07MXKLC7J/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MXKLC7J/?tag=tolees-21)

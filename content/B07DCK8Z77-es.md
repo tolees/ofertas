@@ -22,7 +22,7 @@ Ahora mismo tienes [DADYPET Toallas de Baño para Mascotas  Toalla Playa para Pe
 
 [![DADYPET Toallas de Baño para Mascotas  T](https://images-eu.ssl-images-amazon.com/images/I/414Cr0LQF-L._SL200_.jpg)](https://www.amazon.es/dp/B07DCK8Z77/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DCK8Z77/?tag=tolees-21)

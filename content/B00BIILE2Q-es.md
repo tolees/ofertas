@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike Jr  Magistax  Ola  II  TF  Botas de fútbol Unisex 
 
 [![Nike Jr  Magistax  Ola  II  TF  Botas de](https://images-eu.ssl-images-amazon.com/images/I/41n4Ktldb8L._SL200_.jpg)](https://www.amazon.es/dp/B00BIILE2Q/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00BIILE2Q/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Reebok Astroride Duo Edge  Zapatillas de Running para Mujer 
 
 [![Reebok Astroride Duo Edge  Zapatillas de](https://images-eu.ssl-images-amazon.com/images/I/41Fc29i-NvL._SL200_.jpg)](https://www.amazon.es/dp/B071FTNQHK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071FTNQHK/?tag=tolees-21)

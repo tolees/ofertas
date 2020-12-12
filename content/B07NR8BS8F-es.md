@@ -22,7 +22,7 @@ Ahora mismo tienes [SYOSS Champú Color Tech para un Color Vibrante- 3 uds de 50
 
 [![SYOSS Champú Color Tech para un Color Vi](https://images-eu.ssl-images-amazon.com/images/I/41BFkIwSLjL._SL200_.jpg)](https://www.amazon.es/dp/B07NR8BS8F/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07NR8BS8F/?tag=tolees-21)

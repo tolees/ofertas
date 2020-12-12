@@ -22,7 +22,7 @@ Ahora mismo tienes [Alcachofa de Ducha LED  3 Modos Masaje Cabeza de Ducha con 7
 
 [![Alcachofa de Ducha LED  3 Modos Masaje C](https://images-eu.ssl-images-amazon.com/images/I/51FFl6hSs9L._SL200_.jpg)](https://www.amazon.es/dp/B07RB649XR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07RB649XR/?tag=tolees-21)

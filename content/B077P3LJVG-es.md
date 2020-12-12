@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW Scuba III  Zapatillas para Hombre  Verde  Smoke G
 
 [![G-STAR RAW Scuba III  Zapatillas para Ho](https://images-eu.ssl-images-amazon.com/images/I/311mpFmRsXL._SL200_.jpg)](https://www.amazon.es/dp/B077P3LJVG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077P3LJVG/?tag=tolees-21)

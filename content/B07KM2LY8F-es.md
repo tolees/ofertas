@@ -22,7 +22,7 @@ Ahora mismo tienes [Adidas Predator 19.4 In Sala J  Botas de fútbol Unisex niñ
 
 [![Adidas Predator 19.4 In Sala J  Botas de](https://images-eu.ssl-images-amazon.com/images/I/41R8g3-csGL._SL200_.jpg)](https://www.amazon.es/dp/B07KM2LY8F/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KM2LY8F/?tag=tolees-21)

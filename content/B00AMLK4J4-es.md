@@ -22,7 +22,7 @@ Ahora mismo tienes [Philips FM32FD05B - Memoria USB de 32 GB  USB 2.0  18 MB/s  
 
 [![Philips FM32FD05B - Memoria USB de 32 GB](https://images-eu.ssl-images-amazon.com/images/I/41oXegTGfLL._SL200_.jpg)](https://www.amazon.es/dp/B00AMLK4J4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00AMLK4J4/?tag=tolees-21)

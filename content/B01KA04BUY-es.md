@@ -22,7 +22,7 @@ Ahora mismo tienes [Sabrent – Soporte universal magnético para la mayoría de
 
 [![Sabrent – Soporte universal magnético pa](https://images-eu.ssl-images-amazon.com/images/I/41F5P-wuInL._SL200_.jpg)](https://www.amazon.es/dp/B01KA04BUY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01KA04BUY/?tag=tolees-21)

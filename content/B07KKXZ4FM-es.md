@@ -22,7 +22,7 @@ Ahora mismo tienes [Burton Vault Sudaderas  Hombre  Gray Heather  XXL](https://w
 
 [![Burton Vault Sudaderas  Hombre  Gray Hea](https://images-eu.ssl-images-amazon.com/images/I/41x4A898W9L._SL200_.jpg)](https://www.amazon.es/dp/B07KKXZ4FM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KKXZ4FM/?tag=tolees-21)

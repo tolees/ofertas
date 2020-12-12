@@ -22,7 +22,7 @@ Ahora mismo tienes [1776 Bourbon Whiskey 50% - 700 ml  1er Pack  1 x 700 ml ](ht
 
 [![1776 Bourbon Whiskey 50% - 700 ml  1er P](https://images-eu.ssl-images-amazon.com/images/I/417Prd4U73L._SL200_.jpg)](https://www.amazon.es/dp/B00INRQ8NU/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00INRQ8NU/?tag=tolees-21)

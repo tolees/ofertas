@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Basket Badge Wn s  Zapatillas para Mujer  Negro Black-F
 
 [![Puma Basket Badge Wn s  Zapatillas para ](https://images-eu.ssl-images-amazon.com/images/I/41sSQWzAkdL._SL200_.jpg)](https://www.amazon.es/dp/B07DC1DBFW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DC1DBFW/?tag=tolees-21)

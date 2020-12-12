@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Cali-0  Zapatillas Unisex Adulto  Blanco Amazon Green W
 
 [![Puma Cali-0  Zapatillas Unisex Adulto  B](https://images-eu.ssl-images-amazon.com/images/I/31bHYvUfTxL._SL200_.jpg)](https://www.amazon.es/dp/B07DC1BMRT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DC1BMRT/?tag=tolees-21)

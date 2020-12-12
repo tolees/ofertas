@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance 574 Core Zapatillas Hombre  Gris  Grey EGG   39.
 
 [![New Balance 574 Core Zapatillas Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/41LjiR%2BaofL._SL200_.jpg)](https://www.amazon.es/dp/B06Y2ZFSJ9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06Y2ZFSJ9/?tag=tolees-21)

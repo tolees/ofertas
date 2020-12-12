@@ -22,7 +22,7 @@ Ahora mismo tienes [Tommy Jeans Hombre Original Fine Pique   Polo Manga Corta  G
 
 [![Tommy Jeans Hombre Original Fine Pique  ](https://images-eu.ssl-images-amazon.com/images/I/41dPpe125UL._SL200_.jpg)](https://www.amazon.es/dp/B0776XXZKP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0776XXZKP/?tag=tolees-21)

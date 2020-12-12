@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour Ua Strive 7  Zapatillas Deportivas Hombre  Negr
 
 [![Under Armour Ua Strive 7  Zapatillas Dep](https://images-eu.ssl-images-amazon.com/images/I/41PkC26uO9L._SL200_.jpg)](https://www.amazon.es/dp/B01MRXHFR1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MRXHFR1/?tag=tolees-21)

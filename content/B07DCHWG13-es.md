@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike Vapor 12 Pro NJR FG  Zapatillas de Fútbol Unisex Adult
 
 [![Nike Vapor 12 Pro NJR FG  Zapatillas de ](https://images-eu.ssl-images-amazon.com/images/I/41l-Hrfy0TL._SL200_.jpg)](https://www.amazon.es/dp/B07DCHWG13/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DCHWG13/?tag=tolees-21)

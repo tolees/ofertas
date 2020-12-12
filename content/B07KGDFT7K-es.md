@@ -22,7 +22,7 @@ Ahora mismo tienes [Zapatillas Puma RS-X Toys Negro Hombre 42 Negro](https://www
 
 [![Zapatillas Puma RS-X Toys Negro Hombre 4](https://images-eu.ssl-images-amazon.com/images/I/41k1kiEAj8L._SL200_.jpg)](https://www.amazon.es/dp/B07KGDFT7K/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KGDFT7K/?tag=tolees-21)

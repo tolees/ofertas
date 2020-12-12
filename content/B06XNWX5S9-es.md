@@ -22,7 +22,7 @@ Ahora mismo tienes [Joma 100761.102 Pantalones  Hombre  Negro/Blanco  XL](https:
 
 [![Joma 100761.102 Pantalones  Hombre  Negr](https://images-eu.ssl-images-amazon.com/images/I/41wrCl0tGeL._SL200_.jpg)](https://www.amazon.es/dp/B06XNWX5S9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XNWX5S9/?tag=tolees-21)

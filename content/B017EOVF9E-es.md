@@ -22,7 +22,7 @@ Ahora mismo tienes [Huawei Elite - Smartwatch  Pantalla 1.4"  512 MB RAM  Correa
 
 [![Huawei Elite - Smartwatch  Pantalla 1.4"](https://images-eu.ssl-images-amazon.com/images/I/51FH6izPXVL._SL200_.jpg)](https://www.amazon.es/dp/B017EOVF9E/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B017EOVF9E/?tag=tolees-21)

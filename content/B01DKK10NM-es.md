@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Flare Metal - Zapatillas de Entrenamiento Hombre  Gris 
 
 [![Puma Flare Metal - Zapatillas de Entrena](https://images-eu.ssl-images-amazon.com/images/I/41wWLtYnTIL._SL200_.jpg)](https://www.amazon.es/dp/B01DKK10NM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01DKK10NM/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Krom Karry Movistar Riders 15.6" Mochila Negro  Azul  Gris -
 
 [![Krom Karry Movistar Riders 15.6" Mochila]()](https://www.amazon.es/dp/B079MQG4ZB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079MQG4ZB/?tag=tolees-21)

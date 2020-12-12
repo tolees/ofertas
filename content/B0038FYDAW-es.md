@@ -22,7 +22,7 @@ Ahora mismo tienes [HP SD412EE - Paquete de 2 cartuchos para impresora HP 350/35
 
 [![HP SD412EE - Paquete de 2 cartuchos para](https://images-eu.ssl-images-amazon.com/images/I/41RtsSFV-CL._SL200_.jpg)](https://www.amazon.es/dp/B0038FYDAW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0038FYDAW/?tag=tolees-21)

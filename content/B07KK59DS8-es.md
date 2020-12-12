@@ -22,7 +22,7 @@ Ahora mismo tienes [Quiksilver SEA STASH II Surf Backpack  Hombre  Thyme  1SZ](h
 
 [![Quiksilver SEA STASH II Surf Backpack  H](https://images-eu.ssl-images-amazon.com/images/I/31zIFLwaddL._SL200_.jpg)](https://www.amazon.es/dp/B07KK59DS8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KK59DS8/?tag=tolees-21)

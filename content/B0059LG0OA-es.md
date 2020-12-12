@@ -22,7 +22,7 @@ Ahora mismo tienes [Fred Perry M6000  Polo para Hombre](https://www.amazon.es/dp
 
 [![Fred Perry M6000  Polo para Hombre](https://images-eu.ssl-images-amazon.com/images/I/41lIAfhqq2L._SL200_.jpg)](https://www.amazon.es/dp/B0059LG0OA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0059LG0OA/?tag=tolees-21)

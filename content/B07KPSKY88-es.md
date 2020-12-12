@@ -22,7 +22,7 @@ Ahora mismo tienes [DC Apparel Square Star tee-Shirt  Hombre  Black  L](https://
 
 [![DC Apparel Square Star tee-Shirt  Hombre](https://images-eu.ssl-images-amazon.com/images/I/31yISnPhw7L._SL200_.jpg)](https://www.amazon.es/dp/B07KPSKY88/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KPSKY88/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Simon & Tom - Serum nutritivo para controlar el encrespamien
 
 [![Simon & Tom - Serum nutritivo para contr](https://images-eu.ssl-images-amazon.com/images/I/51D2hEQszsL._SL200_.jpg)](https://www.amazon.es/dp/B01NBKJEN7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01NBKJEN7/?tag=tolees-21)

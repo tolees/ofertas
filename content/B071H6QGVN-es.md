@@ -22,7 +22,7 @@ Ahora mismo tienes [Fundas para sillas Pack de 4 Fundas sillas Comedor Fundas el
 
 [![Fundas para sillas Pack de 4 Fundas sill](https://images-eu.ssl-images-amazon.com/images/I/51BQOkNioHL._SL200_.jpg)](https://www.amazon.es/dp/B071H6QGVN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071H6QGVN/?tag=tolees-21)

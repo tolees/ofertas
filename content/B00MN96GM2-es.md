@@ -22,7 +22,7 @@ Ahora mismo tienes [Suunto - Ambit3 Peak Sapphire HR - SS020673000 - Reloj GPS M
 
 [![Suunto - Ambit3 Peak Sapphire HR - SS020](https://images-eu.ssl-images-amazon.com/images/I/41UlESgUHBL._SL200_.jpg)](https://www.amazon.es/dp/B00MN96GM2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00MN96GM2/?tag=tolees-21)

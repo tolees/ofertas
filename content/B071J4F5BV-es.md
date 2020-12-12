@@ -22,7 +22,7 @@ Ahora mismo tienes [Avenzo AV6023 - Micro Cadena HiFi  Negro](https://www.amazon
 
 [![Avenzo AV6023 - Micro Cadena HiFi  Negro](https://images-eu.ssl-images-amazon.com/images/I/41JAqFrjR5L._SL200_.jpg)](https://www.amazon.es/dp/B071J4F5BV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071J4F5BV/?tag=tolees-21)

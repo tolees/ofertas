@@ -22,7 +22,7 @@ Ahora mismo tienes [BLAVOR Cargador Solar Portátil 5 Paneles Solares Desmontabl
 
 [![BLAVOR Cargador Solar Portátil 5 Paneles](https://images-eu.ssl-images-amazon.com/images/I/51lVU22XvZL._SL200_.jpg)](https://www.amazon.es/dp/B07LD4BVFF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07LD4BVFF/?tag=tolees-21)

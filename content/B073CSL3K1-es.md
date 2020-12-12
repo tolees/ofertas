@@ -22,7 +22,7 @@ Ahora mismo tienes [Medion MD 60690 - Ordenador portátil convertible de 11.6" H
 
 [![Medion MD 60690 - Ordenador portátil con](https://images-eu.ssl-images-amazon.com/images/I/31mlOV1Er%2BL._SL200_.jpg)](https://www.amazon.es/dp/B073CSL3K1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B073CSL3K1/?tag=tolees-21)

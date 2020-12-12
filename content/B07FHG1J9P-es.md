@@ -22,7 +22,7 @@ Ahora mismo tienes [Palladium Retro Lt SY U  Zapatillas Altas Unisex Adulto  Gri
 
 [![Palladium Retro Lt SY U  Zapatillas Alta](https://images-eu.ssl-images-amazon.com/images/I/41wQQ-flg5L._SL200_.jpg)](https://www.amazon.es/dp/B07FHG1J9P/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FHG1J9P/?tag=tolees-21)

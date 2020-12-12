@@ -22,7 +22,7 @@ Ahora mismo tienes [ARCTIC - Freezer i32 Plus - Refrigerador para torre CPU Inte
 
 [![ARCTIC - Freezer i32 Plus - Refrigerador](https://images-eu.ssl-images-amazon.com/images/I/51xUCq298ZL._SL200_.jpg)](https://www.amazon.es/dp/B01MRU1UK3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MRU1UK3/?tag=tolees-21)

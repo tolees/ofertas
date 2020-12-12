@@ -22,7 +22,7 @@ Ahora mismo tienes [Adidas Power III  Zapatillas de Deporte para Hombre  Negro  
 
 [![Adidas Power III  Zapatillas de Deporte ](https://images-eu.ssl-images-amazon.com/images/I/41MSpBF251L._SL200_.jpg)](https://www.amazon.es/dp/B077CNKJSM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077CNKJSM/?tag=tolees-21)

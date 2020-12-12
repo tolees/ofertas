@@ -22,7 +22,7 @@ Ahora mismo tienes [Reebok Classic Leather - Zapatillas de cuero para hombre  co
 
 [![Reebok Classic Leather - Zapatillas de c](https://images-eu.ssl-images-amazon.com/images/I/413RuU95aRL._SL200_.jpg)](https://www.amazon.es/dp/B002TXSFFI/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B002TXSFFI/?tag=tolees-21)

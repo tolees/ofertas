@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour Unstoppable 2X Knit FZ Parte Superior del Calen
 
 [![Under Armour Unstoppable 2X Knit FZ Part](https://images-eu.ssl-images-amazon.com/images/I/312s5uyn77L._SL200_.jpg)](https://www.amazon.es/dp/B0785JWQKN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0785JWQKN/?tag=tolees-21)

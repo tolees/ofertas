@@ -22,7 +22,7 @@ Ahora mismo tienes [Artero Curly - Plancha onduladora](https://www.amazon.es/dp/
 
 [![Artero Curly - Plancha onduladora](https://images-eu.ssl-images-amazon.com/images/I/31fkNey3pbL._SL200_.jpg)](https://www.amazon.es/dp/B00SA5EQCA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00SA5EQCA/?tag=tolees-21)

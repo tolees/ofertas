@@ -22,7 +22,7 @@ Ahora mismo tienes [ANEWISH USB WiFi Adaptador AC600Mbps WiFi Antena 5dbi WiFi U
 
 [![ANEWISH USB WiFi Adaptador AC600Mbps WiF](https://images-eu.ssl-images-amazon.com/images/I/41rlKE5i%2BCL._SL200_.jpg)](https://www.amazon.es/dp/B07MMZJ9Y4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MMZJ9Y4/?tag=tolees-21)

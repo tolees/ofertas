@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Stan Smith J Zapatillas Unisex Niños  Blanco  Footwe
 
 [![adidas Stan Smith J Zapatillas Unisex Ni](https://images-eu.ssl-images-amazon.com/images/I/31JJtkMHJQL._SL200_.jpg)](https://www.amazon.es/dp/B00P9DU2F6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00P9DU2F6/?tag=tolees-21)

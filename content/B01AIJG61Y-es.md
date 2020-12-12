@@ -22,7 +22,7 @@ Ahora mismo tienes [Base de refrigeración y soporte para portátil y vídeo-con
 
 [![Base de refrigeración y soporte para por](https://images-eu.ssl-images-amazon.com/images/I/41x1liPuOGL._SL200_.jpg)](https://www.amazon.es/dp/B01AIJG61Y/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01AIJG61Y/?tag=tolees-21)

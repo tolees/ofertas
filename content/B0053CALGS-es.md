@@ -22,7 +22,7 @@ Ahora mismo tienes [Punisher 2. Zona de guerra [DVD]](https://www.amazon.es/dp/B
 
 [![Punisher 2. Zona de guerra [DVD]](https://images-eu.ssl-images-amazon.com/images/I/41gfI1UZhsL._SL200_.jpg)](https://www.amazon.es/dp/B0053CALGS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0053CALGS/?tag=tolees-21)

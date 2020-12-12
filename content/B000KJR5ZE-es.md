@@ -22,7 +22,7 @@ Ahora mismo tienes [GBC WireBind Alambres de Encuadernación  12.5 mm  115 Hojas
 
 [![GBC WireBind Alambres de Encuadernación ](https://images-eu.ssl-images-amazon.com/images/I/41qAdNqosBL._SL200_.jpg)](https://www.amazon.es/dp/B000KJR5ZE/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B000KJR5ZE/?tag=tolees-21)

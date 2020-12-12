@@ -22,7 +22,7 @@ Ahora mismo tienes [Gant Cotton Cable Crew  suéter Niños  Rojo  Port Red 605  
 
 [![Gant Cotton Cable Crew  suéter Niños  Ro](https://images-eu.ssl-images-amazon.com/images/I/41QTgrKQVqL._SL200_.jpg)](https://www.amazon.es/dp/B07B8TP35G/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07B8TP35G/?tag=tolees-21)

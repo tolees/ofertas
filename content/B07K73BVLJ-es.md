@@ -22,7 +22,7 @@ Ahora mismo tienes [Asics Gel-Resolution 7 Clay  Zapatillas de Tenis para Mujer 
 
 [![Asics Gel-Resolution 7 Clay  Zapatillas ](https://images-eu.ssl-images-amazon.com/images/I/41i0QVF6k7L._SL200_.jpg)](https://www.amazon.es/dp/B07K73BVLJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07K73BVLJ/?tag=tolees-21)

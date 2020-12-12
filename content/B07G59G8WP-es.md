@@ -22,7 +22,7 @@ Ahora mismo tienes [CRZ YOGA Mujer 3/4 Malla Leggings Deportivos Pantalones Fitn
 
 [![CRZ YOGA Mujer 3/4 Malla Leggings Deport](https://images-eu.ssl-images-amazon.com/images/I/31XBp5%2BPGcL._SL200_.jpg)](https://www.amazon.es/dp/B07G59G8WP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07G59G8WP/?tag=tolees-21)

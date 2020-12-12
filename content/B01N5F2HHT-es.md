@@ -22,7 +22,7 @@ Ahora mismo tienes [Klipsch RSB-14 - Barra de Sonido  Negro](https://www.amazon.
 
 [![Klipsch RSB-14 - Barra de Sonido  Negro]()](https://www.amazon.es/dp/B01N5F2HHT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N5F2HHT/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jorjames Knit Crew Neck  suéter para Hombre  G
 
 [![JACK & JONES Jorjames Knit Crew Neck  su](https://images-eu.ssl-images-amazon.com/images/I/41G54qJ6VFL._SL200_.jpg)](https://www.amazon.es/dp/B07F44NK8M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F44NK8M/?tag=tolees-21)

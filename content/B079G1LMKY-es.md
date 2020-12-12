@@ -22,7 +22,7 @@ Ahora mismo tienes [Vanage Tumbona de Jardín  Terraza y Balcon; Plegable; en Al
 
 [![Vanage Tumbona de Jardín  Terraza y Balc](https://images-eu.ssl-images-amazon.com/images/I/51i1zbGa5pL._SL200_.jpg)](https://www.amazon.es/dp/B079G1LMKY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079G1LMKY/?tag=tolees-21)

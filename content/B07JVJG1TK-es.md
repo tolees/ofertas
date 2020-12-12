@@ -22,7 +22,7 @@ Ahora mismo tienes [Think Gizmos Coche a Control Remoto por Todo Terreno Maestro
 
 [![Think Gizmos Coche a Control Remoto por ](https://images-eu.ssl-images-amazon.com/images/I/51ZRcomSscL._SL200_.jpg)](https://www.amazon.es/dp/B07JVJG1TK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JVJG1TK/?tag=tolees-21)

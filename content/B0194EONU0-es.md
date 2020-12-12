@@ -22,7 +22,7 @@ Ahora mismo tienes [Casio Reloj Analógico para Unisex de Cuarzo con Correa en A
 
 [![Casio Reloj Analógico para Unisex de Cua](https://images-eu.ssl-images-amazon.com/images/I/41LuXVRTjmL._SL200_.jpg)](https://www.amazon.es/dp/B0194EONU0/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0194EONU0/?tag=tolees-21)

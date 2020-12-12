@@ -22,7 +22,7 @@ Ahora mismo tienes [TUCCH Funda iPhone 8 Plus  Funda iPhone 7 Plus Libro con Int
 
 [![TUCCH Funda iPhone 8 Plus  Funda iPhone ](https://images-eu.ssl-images-amazon.com/images/I/41T8qgLGpCL._SL200_.jpg)](https://www.amazon.es/dp/B07BXKT1LH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BXKT1LH/?tag=tolees-21)

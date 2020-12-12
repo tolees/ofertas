@@ -22,7 +22,7 @@ Ahora mismo tienes [Panasonic RP-BTS35E-A - Auriculares Deportivos inalámbricos
 
 [![Panasonic RP-BTS35E-A - Auriculares Depo](https://images-eu.ssl-images-amazon.com/images/I/41A6ltsV6nL._SL200_.jpg)](https://www.amazon.es/dp/B07FCX7WYF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FCX7WYF/?tag=tolees-21)

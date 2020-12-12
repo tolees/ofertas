@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance 411  Zapatillas de Running para Mujer  Azul  Ref
 
 [![New Balance 411  Zapatillas de Running p](https://images-eu.ssl-images-amazon.com/images/I/41P1vTNaZyL._SL200_.jpg)](https://www.amazon.es/dp/B079MF9C7R/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079MF9C7R/?tag=tolees-21)

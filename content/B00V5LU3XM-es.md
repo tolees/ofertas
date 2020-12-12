@@ -22,7 +22,7 @@ Ahora mismo tienes [Spalding Essential Reversible Short de Juego  Hombre  Azul R
 
 [![Spalding Essential Reversible Short de J](https://images-eu.ssl-images-amazon.com/images/I/513QoNftdBL._SL200_.jpg)](https://www.amazon.es/dp/B00V5LU3XM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00V5LU3XM/?tag=tolees-21)

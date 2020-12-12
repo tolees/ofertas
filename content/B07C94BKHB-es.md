@@ -22,7 +22,7 @@ Ahora mismo tienes [Columbia Peakfreak Venture Low Suede WP  Zapatillas de Sende
 
 [![Columbia Peakfreak Venture Low Suede WP ](https://images-eu.ssl-images-amazon.com/images/I/415KOK5GAYL._SL200_.jpg)](https://www.amazon.es/dp/B07C94BKHB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07C94BKHB/?tag=tolees-21)

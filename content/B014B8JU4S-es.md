@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike Bolsa  Talla Única  Mineral Spruce/Outdoor Green](http
 
 [![Nike Bolsa  Talla Única  Mineral Spruce/](https://images-eu.ssl-images-amazon.com/images/I/41z59KK-BAL._SL200_.jpg)](https://www.amazon.es/dp/B014B8JU4S/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B014B8JU4S/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Arppe 2092010407 New Classic Cinta](https://www.amazon.es/dp
 
 [![Arppe 2092010407 New Classic Cinta](https://images-eu.ssl-images-amazon.com/images/I/416f53h7TeL._SL200_.jpg)](https://www.amazon.es/dp/B0719VZR6S/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0719VZR6S/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers Status-Lerado  Mocasines para Hombre  Marrón  Brow
 
 [![Skechers Status-Lerado  Mocasines para H](https://images-eu.ssl-images-amazon.com/images/I/41cBkzF3QGL._SL200_.jpg)](https://www.amazon.es/dp/B076T8JQ2F/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B076T8JQ2F/?tag=tolees-21)

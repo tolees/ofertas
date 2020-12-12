@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas REAL POWER CTRL LTD](https://www.amazon.es/dp/B07BCHT
 
 [![adidas REAL POWER CTRL LTD](https://images-eu.ssl-images-amazon.com/images/I/41VsqYfbc0L._SL200_.jpg)](https://www.amazon.es/dp/B07BCHTX1C/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BCHTX1C/?tag=tolees-21)

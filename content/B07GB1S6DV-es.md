@@ -22,7 +22,7 @@ Ahora mismo tienes [DlandHome 60 * 40 cm Ajustable Mesa de Ordenador Portatil co
 
 [![DlandHome 60 * 40 cm Ajustable Mesa de O](https://images-eu.ssl-images-amazon.com/images/I/41m-H4hmLFL._SL200_.jpg)](https://www.amazon.es/dp/B07GB1S6DV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GB1S6DV/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Taladro atornillador brushless URCERI 20V  taladro sin escob
 
 [![Taladro atornillador brushless URCERI 20](https://images-eu.ssl-images-amazon.com/images/I/513pZ9pEkbL._SL200_.jpg)](https://www.amazon.es/dp/B07JJWZ55L/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JJWZ55L/?tag=tolees-21)

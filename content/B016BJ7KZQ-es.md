@@ -22,7 +22,7 @@ Ahora mismo tienes [Oregon Scientific RAR-502 Estación meteorológica multizona
 
 [![Oregon Scientific RAR-502 Estación meteo](https://images-eu.ssl-images-amazon.com/images/I/51hv2v64BdL._SL200_.jpg)](https://www.amazon.es/dp/B016BJ7KZQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B016BJ7KZQ/?tag=tolees-21)

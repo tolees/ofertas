@@ -22,7 +22,7 @@ Ahora mismo tienes [Gant Regular Twill Chino Pantalones  Marrón  Dark Khaki 248
 
 [![Gant Regular Twill Chino Pantalones  Mar](https://images-eu.ssl-images-amazon.com/images/I/31FnIluulTL._SL200_.jpg)](https://www.amazon.es/dp/B079SG7KBT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079SG7KBT/?tag=tolees-21)

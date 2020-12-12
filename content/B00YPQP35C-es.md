@@ -22,7 +22,7 @@ Ahora mismo tienes [AEG SB2500 Batidora de Vaso Good To Go  Apta para Lavavajill
 
 [![AEG SB2500 Batidora de Vaso Good To Go  ](https://images-eu.ssl-images-amazon.com/images/I/31mstgncItL._SL200_.jpg)](https://www.amazon.es/dp/B00YPQP35C/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00YPQP35C/?tag=tolees-21)

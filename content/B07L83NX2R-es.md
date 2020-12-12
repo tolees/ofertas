@@ -22,7 +22,7 @@ Ahora mismo tienes [ENKEEO LED Linterna Camping 50 Horas Portátil Plegable Impe
 
 [![ENKEEO LED Linterna Camping 50 Horas Por](https://images-eu.ssl-images-amazon.com/images/I/41R7FjUV3QL._SL200_.jpg)](https://www.amazon.es/dp/B07L83NX2R/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07L83NX2R/?tag=tolees-21)

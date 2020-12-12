@@ -22,7 +22,7 @@ Ahora mismo tienes [Clarks Glove Echo  Zapatillas para Mujer  Verde  Khaki Suede
 
 [![Clarks Glove Echo  Zapatillas para Mujer](https://images-eu.ssl-images-amazon.com/images/I/31sCwnmgSdL._SL200_.jpg)](https://www.amazon.es/dp/B07FSF9JJ1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FSF9JJ1/?tag=tolees-21)

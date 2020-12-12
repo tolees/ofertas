@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance Fuel Core 5000  Zapatillas de Running para Hombr
 
 [![New Balance Fuel Core 5000  Zapatillas d](https://images-eu.ssl-images-amazon.com/images/I/41V%2B7NbC9XL._SL200_.jpg)](https://www.amazon.es/dp/B075XLQW11/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075XLQW11/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Reebok Foster Flyer  Zapatillas de Running para Mujer  Gris 
 
 [![Reebok Foster Flyer  Zapatillas de Runni](https://images-eu.ssl-images-amazon.com/images/I/413K37gKr9L._SL200_.jpg)](https://www.amazon.es/dp/B071WCN9HB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071WCN9HB/?tag=tolees-21)

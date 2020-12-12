@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike Court Royale  Zapatillas para Mujer  Blanco  White / Me
 
 [![Nike Court Royale  Zapatillas para Mujer](https://images-eu.ssl-images-amazon.com/images/I/41PrTxx9UUL._SL200_.jpg)](https://www.amazon.es/dp/B00PZB2OS0/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00PZB2OS0/?tag=tolees-21)

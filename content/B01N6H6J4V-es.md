@@ -22,7 +22,7 @@ Ahora mismo tienes [Only Onllurex Short O-Neck Swt  suéter Mujer  Gris  Light G
 
 [![Only Onllurex Short O-Neck Swt  suéter M](https://images-eu.ssl-images-amazon.com/images/I/41TgHGODOwL._SL200_.jpg)](https://www.amazon.es/dp/B01N6H6J4V/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N6H6J4V/?tag=tolees-21)

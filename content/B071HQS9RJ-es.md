@@ -22,7 +22,7 @@ Ahora mismo tienes [Taurus DH101 Deshumificador de aire por condension](https://
 
 [![Taurus DH101 Deshumificador de aire por ](https://images-eu.ssl-images-amazon.com/images/I/31dyfRr%2BW1L._SL200_.jpg)](https://www.amazon.es/dp/B071HQS9RJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071HQS9RJ/?tag=tolees-21)

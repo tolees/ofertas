@@ -22,7 +22,7 @@ Ahora mismo tienes [Wilson Raqueta de Tenis Junior Burn - WRT508000  Anaranjado/
 
 [![Wilson Raqueta de Tenis Junior Burn - WR](https://images-eu.ssl-images-amazon.com/images/I/41MxU95p9ML._SL200_.jpg)](https://www.amazon.es/dp/B011RLXX90/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B011RLXX90/?tag=tolees-21)

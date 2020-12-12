@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance 574  Zapatillas Unisex  Blanco  Nimbus Cloud/Tea
 
 [![New Balance 574  Zapatillas Unisex  Blan](https://images-eu.ssl-images-amazon.com/images/I/4194zjnztyL._SL200_.jpg)](https://www.amazon.es/dp/B07BQV5S11/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BQV5S11/?tag=tolees-21)

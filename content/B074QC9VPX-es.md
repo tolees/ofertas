@@ -22,7 +22,7 @@ Ahora mismo tienes [Maquina Cortar Pelo Afeitadora Corporal inalámbrica para ho
 
 [![Maquina Cortar Pelo Afeitadora Corporal ](https://images-eu.ssl-images-amazon.com/images/I/51fchxSSpFL._SL200_.jpg)](https://www.amazon.es/dp/B074QC9VPX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074QC9VPX/?tag=tolees-21)

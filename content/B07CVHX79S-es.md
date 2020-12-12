@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers Status-Rolano  Botas Chukka para Hombre  Negro  Bla
 
 [![Skechers Status-Rolano  Botas Chukka par](https://images-eu.ssl-images-amazon.com/images/I/41HZnymGgrL._SL200_.jpg)](https://www.amazon.es/dp/B07CVHX79S/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CVHX79S/?tag=tolees-21)

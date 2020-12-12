@@ -22,7 +22,7 @@ Ahora mismo tienes [Pierre Cardin Reloj Analogico para Mujer de Cuarzo con Corre
 
 [![Pierre Cardin Reloj Analogico para Mujer](https://images-eu.ssl-images-amazon.com/images/I/41ZwvC82b1L._SL200_.jpg)](https://www.amazon.es/dp/B0784XJF4V/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0784XJF4V/?tag=tolees-21)

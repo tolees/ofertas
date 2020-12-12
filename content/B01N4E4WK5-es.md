@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour UA W Micro G Press TR  Zapatillas Deportivas pa
 
 [![Under Armour UA W Micro G Press TR  Zapa](https://images-eu.ssl-images-amazon.com/images/I/4148KUhxl-L._SL200_.jpg)](https://www.amazon.es/dp/B01N4E4WK5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N4E4WK5/?tag=tolees-21)

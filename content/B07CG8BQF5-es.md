@@ -22,7 +22,7 @@ Ahora mismo tienes [Samsung 55NU8505 - Smart TV de 55" 4K UHD HDR10+  Pantalla S
 
 [![Samsung 55NU8505 - Smart TV de 55" 4K UH](https://images-eu.ssl-images-amazon.com/images/I/41Gf9KID6fL._SL200_.jpg)](https://www.amazon.es/dp/B07CG8BQF5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CG8BQF5/?tag=tolees-21)

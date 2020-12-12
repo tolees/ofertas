@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Suna Suéter  Negro  Black 999   XL para Mujer](h
 
 [![Pepe Jeans Suna Suéter  Negro  Black 999](https://images-eu.ssl-images-amazon.com/images/I/416XJVZ1fkL._SL200_.jpg)](https://www.amazon.es/dp/B079RSBW7B/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079RSBW7B/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike Adultos Pro 2.0 muñeca y Pulgar Vendaje  Black/White 
 
 [![Nike Adultos Pro 2.0 muñeca y Pulgar Ven](https://images-eu.ssl-images-amazon.com/images/I/31KcC0hDH9L._SL200_.jpg)](https://www.amazon.es/dp/B00S2AYZWE/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00S2AYZWE/?tag=tolees-21)

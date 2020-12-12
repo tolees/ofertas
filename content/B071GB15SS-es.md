@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers Go Walk Joy-Rapture  Zapatillas para Mujer  Azul  N
 
 [![Skechers Go Walk Joy-Rapture  Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/41-RUYmSVzL._SL200_.jpg)](https://www.amazon.es/dp/B071GB15SS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071GB15SS/?tag=tolees-21)

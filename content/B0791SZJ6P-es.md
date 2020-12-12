@@ -22,7 +22,7 @@ Ahora mismo tienes [Etnies Barge XL  Zapatillas de Skateboard para Hombre  Negro
 
 [![Etnies Barge XL  Zapatillas de Skateboar](https://images-eu.ssl-images-amazon.com/images/I/41b62EJyz7L._SL200_.jpg)](https://www.amazon.es/dp/B0791SZJ6P/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0791SZJ6P/?tag=tolees-21)

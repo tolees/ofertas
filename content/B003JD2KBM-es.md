@@ -22,7 +22,7 @@ Ahora mismo tienes [Philips Regleta](https://www.amazon.es/dp/B003JD2KBM/?tag=to
 
 [![Philips Regleta](https://images-eu.ssl-images-amazon.com/images/I/31jJsxAt3IL._SL200_.jpg)](https://www.amazon.es/dp/B003JD2KBM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B003JD2KBM/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Oumers Kit de herramientas para bicicletas  Bicicleta kit de
 
 [![Oumers Kit de herramientas para biciclet](https://images-eu.ssl-images-amazon.com/images/I/51cSvQA5J%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07DKY8Y92/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DKY8Y92/?tag=tolees-21)

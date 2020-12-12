@@ -22,7 +22,7 @@ Ahora mismo tienes [Reebok Royal Cmplt CLN LX  Zapatillas de Deporte para Hombre
 
 [![Reebok Royal Cmplt CLN LX  Zapatillas de](https://images-eu.ssl-images-amazon.com/images/I/41d5dteddeL._SL200_.jpg)](https://www.amazon.es/dp/B072KHR2NY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072KHR2NY/?tag=tolees-21)

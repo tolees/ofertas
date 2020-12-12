@@ -22,7 +22,7 @@ Ahora mismo tienes [Mayoral 4552 Pantalones  Verde  Botella 49   5 años  Tamañ
 
 [![Mayoral 4552 Pantalones  Verde  Botella ](https://images-eu.ssl-images-amazon.com/images/I/31OFA3NMJCL._SL200_.jpg)](https://www.amazon.es/dp/B07HM4FBLF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07HM4FBLF/?tag=tolees-21)

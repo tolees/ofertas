@@ -22,7 +22,7 @@ Ahora mismo tienes [Adidas VL Court 2.0  Zapatillas para Mujer  Negro Core Black
 
 [![Adidas VL Court 2.0  Zapatillas para Muj](https://images-eu.ssl-images-amazon.com/images/I/31DsbX7jLgL._SL200_.jpg)](https://www.amazon.es/dp/B07DDX3F7S/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DDX3F7S/?tag=tolees-21)

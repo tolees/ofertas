@@ -22,7 +22,7 @@ Ahora mismo tienes [G-Star Lynn Zip-Azul Mujer](https://www.amazon.es/dp/B015Q8Y
 
 [![G-Star Lynn Zip-Azul Mujer](https://images-eu.ssl-images-amazon.com/images/I/41ziOlur2lL._SL200_.jpg)](https://www.amazon.es/dp/B015Q8YULK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B015Q8YULK/?tag=tolees-21)

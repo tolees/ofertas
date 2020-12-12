@@ -22,7 +22,7 @@ Ahora mismo tienes [RED WAGON Zapatillas Altas Metálicas Niñas  Dorado  Rose G
 
 [![RED WAGON Zapatillas Altas Metálicas Niñ](https://images-eu.ssl-images-amazon.com/images/I/31PoTfrC%2BqL._SL200_.jpg)](https://www.amazon.es/dp/B071JM36XS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071JM36XS/?tag=tolees-21)

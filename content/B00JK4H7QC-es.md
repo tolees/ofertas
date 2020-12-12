@@ -22,7 +22,7 @@ Ahora mismo tienes [Spalding Sporttasche Tube Sportbag - Bolsa para material de 
 
 [![Spalding Sporttasche Tube Sportbag - Bol](https://images-eu.ssl-images-amazon.com/images/I/51rurWiubzL._SL200_.jpg)](https://www.amazon.es/dp/B00JK4H7QC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00JK4H7QC/?tag=tolees-21)

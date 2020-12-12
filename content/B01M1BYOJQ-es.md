@@ -22,7 +22,7 @@ Ahora mismo tienes [Suunto - Spartan Ultra Cooper - SS022945000 - Reloj Multidep
 
 [![Suunto - Spartan Ultra Cooper - SS022945](https://images-eu.ssl-images-amazon.com/images/I/41FSd%2BgoreL._SL200_.jpg)](https://www.amazon.es/dp/B01M1BYOJQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01M1BYOJQ/?tag=tolees-21)

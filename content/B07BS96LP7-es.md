@@ -22,7 +22,7 @@ Ahora mismo tienes [UliX Ares Auriculares In-Ear Cable Sin Nudos Teléfono Móvi
 
 [![UliX Ares Auriculares In-Ear Cable Sin N](https://images-eu.ssl-images-amazon.com/images/I/51NHIriTWNL._SL200_.jpg)](https://www.amazon.es/dp/B07BS96LP7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BS96LP7/?tag=tolees-21)

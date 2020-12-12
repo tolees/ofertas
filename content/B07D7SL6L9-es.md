@@ -22,7 +22,7 @@ Ahora mismo tienes [AmazonBasics - Cable macho de USB 2.0 C a USB 3.1 A  1 ª g
 
 [![AmazonBasics - Cable macho de USB 2.0 C ](https://images-eu.ssl-images-amazon.com/images/I/415kZX5fViL._SL200_.jpg)](https://www.amazon.es/dp/B07D7SL6L9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D7SL6L9/?tag=tolees-21)

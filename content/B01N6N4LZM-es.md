@@ -22,7 +22,7 @@ Ahora mismo tienes [SALEWA Ultra Train 18 BP Mochila  Unisex Adulto  Azul  Royal
 
 [![SALEWA Ultra Train 18 BP Mochila  Unisex](https://images-eu.ssl-images-amazon.com/images/I/412LXyyrAxL._SL200_.jpg)](https://www.amazon.es/dp/B01N6N4LZM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N6N4LZM/?tag=tolees-21)

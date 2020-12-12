@@ -22,7 +22,7 @@ Ahora mismo tienes [edc by Esprit Accessoires - 029ca1o007  Bolsos bandolera Muj
 
 [![edc by Esprit Accessoires - 029ca1o007  ](https://images-eu.ssl-images-amazon.com/images/I/416B0mvt1QL._SL200_.jpg)](https://www.amazon.es/dp/B07MTWTWZ1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MTWTWZ1/?tag=tolees-21)

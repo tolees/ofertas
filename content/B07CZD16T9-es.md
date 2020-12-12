@@ -22,7 +22,7 @@ Ahora mismo tienes [Lacoste Straightset 318 2 Caw  Zapatillas para Mujer  Rosa  
 
 [![Lacoste Straightset 318 2 Caw  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/41GXnmhQfiL._SL200_.jpg)](https://www.amazon.es/dp/B07CZD16T9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CZD16T9/?tag=tolees-21)

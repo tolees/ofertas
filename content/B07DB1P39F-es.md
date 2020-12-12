@@ -22,7 +22,7 @@ Ahora mismo tienes [Mustang Schnür-Stiefelette  Botas Clasicas para Hombre  Neg
 
 [![Mustang Schnür-Stiefelette  Botas Clasic](https://images-eu.ssl-images-amazon.com/images/I/41-xf-f7zrL._SL200_.jpg)](https://www.amazon.es/dp/B07DB1P39F/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DB1P39F/?tag=tolees-21)

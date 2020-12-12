@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma NRGY Neko Sport  Zapatillas de Running para Hombre  Gri
 
 [![Puma NRGY Neko Sport  Zapatillas de Runn](https://images-eu.ssl-images-amazon.com/images/I/41ZreVKbY2L._SL200_.jpg)](https://www.amazon.es/dp/B07DBWVB1K/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DBWVB1K/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [AEG RA 5587 - Radiador de aceite  1500 W  7 elementos  progr
 
 [![AEG RA 5587 - Radiador de aceite  1500 W](https://images-eu.ssl-images-amazon.com/images/I/41Q487YlnaL._SL200_.jpg)](https://www.amazon.es/dp/B005FLAEFU/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B005FLAEFU/?tag=tolees-21)

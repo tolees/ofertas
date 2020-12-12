@@ -22,7 +22,7 @@ Ahora mismo tienes [Superga 2790-COTJ  Zapatillas para Niñas  Blanco  White 901
 
 [![Superga 2790-COTJ  Zapatillas para Niñas](https://images-eu.ssl-images-amazon.com/images/I/41PD0bdFbEL._SL200_.jpg)](https://www.amazon.es/dp/B00RLUCZ50/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00RLUCZ50/?tag=tolees-21)

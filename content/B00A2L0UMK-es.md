@@ -22,7 +22,7 @@ Ahora mismo tienes [El Santuario  BD 3D  [Blu-ray]](https://www.amazon.es/dp/B00
 
 [![El Santuario  BD 3D  [Blu-ray]](https://images-eu.ssl-images-amazon.com/images/I/51%2BwyZVLrCL._SL200_.jpg)](https://www.amazon.es/dp/B00A2L0UMK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00A2L0UMK/?tag=tolees-21)

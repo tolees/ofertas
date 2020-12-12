@@ -22,7 +22,7 @@ Ahora mismo tienes [Supra Titanium  Zapatillas para Hombre  Gris  Dk Grey-White 
 
 [![Supra Titanium  Zapatillas para Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/417c4cCb4IL._SL200_.jpg)](https://www.amazon.es/dp/B078ZKHT5V/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078ZKHT5V/?tag=tolees-21)

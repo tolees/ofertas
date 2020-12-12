@@ -22,7 +22,7 @@ Ahora mismo tienes [Faro Barcelona 33498 - PHUKET Ventilador de techo con luz  b
 
 [![Faro Barcelona 33498 - PHUKET Ventilador](https://images-eu.ssl-images-amazon.com/images/I/31AVIIEMLQL._SL200_.jpg)](https://www.amazon.es/dp/B01AHZGX7G/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01AHZGX7G/?tag=tolees-21)

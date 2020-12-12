@@ -22,7 +22,7 @@ Ahora mismo tienes [Flexi Design S Cinta 5m. Azul](https://www.amazon.es/dp/B00V
 
 [![Flexi Design S Cinta 5m. Azul](https://images-eu.ssl-images-amazon.com/images/I/41jo-mrbPlL._SL200_.jpg)](https://www.amazon.es/dp/B00VOAXNL8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00VOAXNL8/?tag=tolees-21)

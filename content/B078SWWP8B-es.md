@@ -22,7 +22,7 @@ Ahora mismo tienes [Gant Full Zip Hoodie  Capucha para Mujer  Gris  Light Grey M
 
 [![Gant Full Zip Hoodie  Capucha para Mujer](https://images-eu.ssl-images-amazon.com/images/I/51N41YgdwaL._SL200_.jpg)](https://www.amazon.es/dp/B078SWWP8B/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078SWWP8B/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Tsugi Apex Evoknit  Zapatillas Unisex Adulto  Gris  Lau
 
 [![Puma Tsugi Apex Evoknit  Zapatillas Unis](https://images-eu.ssl-images-amazon.com/images/I/41G-pYq9rlL._SL200_.jpg)](https://www.amazon.es/dp/B07DB16FD6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DB16FD6/?tag=tolees-21)

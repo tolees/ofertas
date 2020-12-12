@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike Pico 4  PSV   Zapatillas de Deporte Unisex  Blanco/Rosa
 
 [![Nike Pico 4  PSV   Zapatillas de Deporte](https://images-eu.ssl-images-amazon.com/images/I/31AXQGeQjBL._SL200_.jpg)](https://www.amazon.es/dp/B0083ZRKGG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0083ZRKGG/?tag=tolees-21)

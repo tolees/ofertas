@@ -22,7 +22,7 @@ Ahora mismo tienes [Feliz Día De Tu Muerte [Blu-ray]](https://www.amazon.es/dp/
 
 [![Feliz Día De Tu Muerte [Blu-ray]](https://images-eu.ssl-images-amazon.com/images/I/51iMYQ%2BKw4L._SL200_.jpg)](https://www.amazon.es/dp/B077Y8KHJ7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077Y8KHJ7/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [The North Face Piqué Polo de Manga Corta  Hombre  Verde  Ne
 
 [![The North Face Piqué Polo de Manga Corta](https://images-eu.ssl-images-amazon.com/images/I/41oGHOeBL%2BL._SL200_.jpg)](https://www.amazon.es/dp/B077Y4MB8Y/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077Y4MB8Y/?tag=tolees-21)

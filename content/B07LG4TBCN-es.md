@@ -22,7 +22,7 @@ Ahora mismo tienes [Reloj Digital Calendario LCD.](https://www.amazon.es/dp/B07L
 
 [![Reloj Digital Calendario LCD.](https://images-eu.ssl-images-amazon.com/images/I/41eVVlxA%2BaL._SL200_.jpg)](https://www.amazon.es/dp/B07LG4TBCN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07LG4TBCN/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Asics Patriot 10 SP  Zapatillas de Running para Mujer  Beige
 
 [![Asics Patriot 10 SP  Zapatillas de Runni](https://images-eu.ssl-images-amazon.com/images/I/41s6EGUOjNL._SL200_.jpg)](https://www.amazon.es/dp/B07KPZ76FN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KPZ76FN/?tag=tolees-21)

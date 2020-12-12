@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers Erupters II  Zapatillas para Niños  Negro  Black/B
 
 [![Skechers Erupters II  Zapatillas para Ni](https://images-eu.ssl-images-amazon.com/images/I/51YxPmLYy0L._SL200_.jpg)](https://www.amazon.es/dp/B0731LNDVK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0731LNDVK/?tag=tolees-21)

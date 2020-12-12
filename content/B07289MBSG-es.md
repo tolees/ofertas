@@ -22,7 +22,7 @@ Ahora mismo tienes [MTNG Templo  Zapatillas Mujer  Plateado  Metal Plata Vieja  
 
 [![MTNG Templo  Zapatillas Mujer  Plateado ](https://images-eu.ssl-images-amazon.com/images/I/41mwS75T1iL._SL200_.jpg)](https://www.amazon.es/dp/B07289MBSG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07289MBSG/?tag=tolees-21)

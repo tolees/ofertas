@@ -22,7 +22,7 @@ Ahora mismo tienes [Blend  20702534 - Bermuda para Hombre  Color Negro  70155   
 
 [![Blend  20702534 - Bermuda para Hombre  C](https://images-eu.ssl-images-amazon.com/images/I/41-8EFS-FzL._SL200_.jpg)](https://www.amazon.es/dp/B01N0TQQ7E/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N0TQQ7E/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Alessi Tonale - Ensaladera  color gris oscuro](https://www.a
 
 [![Alessi Tonale - Ensaladera  color gris o](https://images-eu.ssl-images-amazon.com/images/I/314pJXPWUVL._SL200_.jpg)](https://www.amazon.es/dp/B002QWDNYK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B002QWDNYK/?tag=tolees-21)

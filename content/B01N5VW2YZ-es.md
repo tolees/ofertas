@@ -22,7 +22,7 @@ Ahora mismo tienes [Pedro del Hierro P-5-BC-B Pima Cotton Tail Pantalones  Rojo 
 
 [![Pedro del Hierro P-5-BC-B Pima Cotton Ta](https://images-eu.ssl-images-amazon.com/images/I/41qbrrN5GhL._SL200_.jpg)](https://www.amazon.es/dp/B01N5VW2YZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N5VW2YZ/?tag=tolees-21)

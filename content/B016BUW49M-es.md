@@ -22,7 +22,7 @@ Ahora mismo tienes [BUFFALO LONDON ES 30689 Flash  Botas de Estar por casa para 
 
 [![BUFFALO LONDON ES 30689 Flash  Botas de ](https://images-eu.ssl-images-amazon.com/images/I/41QlHc0bpgL._SL200_.jpg)](https://www.amazon.es/dp/B016BUW49M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B016BUW49M/?tag=tolees-21)

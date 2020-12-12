@@ -22,7 +22,7 @@ Ahora mismo tienes [SPC Sphere - Altavoces portátiles  6 W  Alámbrico  3.5 mm 
 
 [![SPC Sphere - Altavoces portátiles  6 W  ](https://images-eu.ssl-images-amazon.com/images/I/51pf9H3YgzL._SL200_.jpg)](https://www.amazon.es/dp/B071ZHCVH9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071ZHCVH9/?tag=tolees-21)

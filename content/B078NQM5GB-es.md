@@ -22,7 +22,7 @@ Ahora mismo tienes [iClever 4 USB Wall Charger](https://www.amazon.es/dp/B078NQ
 
 [![iClever 4 USB Wall Charger](https://images-eu.ssl-images-amazon.com/images/I/313h%2BSQJ0CL._SL200_.jpg)](https://www.amazon.es/dp/B078NQM5GB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078NQM5GB/?tag=tolees-21)

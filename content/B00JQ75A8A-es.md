@@ -22,7 +22,7 @@ Ahora mismo tienes [JBL Synchros Reflect I - Auriculares in-ear para dispositivo
 
 [![JBL Synchros Reflect I - Auriculares in-](https://images-eu.ssl-images-amazon.com/images/I/31ZZKsnH8zL._SL200_.jpg)](https://www.amazon.es/dp/B00JQ75A8A/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00JQ75A8A/?tag=tolees-21)

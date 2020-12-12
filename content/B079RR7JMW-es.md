@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Monument Suéter  Gris  Grey Marl 933   XL para H
 
 [![Pepe Jeans Monument Suéter  Gris  Grey M](https://images-eu.ssl-images-amazon.com/images/I/31eQL6cd7XL._SL200_.jpg)](https://www.amazon.es/dp/B079RR7JMW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079RR7JMW/?tag=tolees-21)

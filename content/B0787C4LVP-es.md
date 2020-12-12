@@ -22,7 +22,7 @@ Ahora mismo tienes [Columbia MARAGAL Slip WP  Botas de Nieve para Mujer  Marrón
 
 [![Columbia MARAGAL Slip WP  Botas de Nieve](https://images-eu.ssl-images-amazon.com/images/I/41JS6ASh7gL._SL200_.jpg)](https://www.amazon.es/dp/B0787C4LVP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0787C4LVP/?tag=tolees-21)

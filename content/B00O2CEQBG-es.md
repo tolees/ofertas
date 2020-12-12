@@ -22,7 +22,7 @@ Ahora mismo tienes [POP! Vinilo - Game of Thrones: Jon Snow Castle Black](https:
 
 [![POP! Vinilo - Game of Thrones: Jon Snow ](https://images-eu.ssl-images-amazon.com/images/I/51EpG-NvKNL._SL200_.jpg)](https://www.amazon.es/dp/B00O2CEQBG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00O2CEQBG/?tag=tolees-21)

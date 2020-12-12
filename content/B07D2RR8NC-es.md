@@ -22,7 +22,7 @@ Ahora mismo tienes [Gant 2-Pack Trunk Flags CTN Str  Bañador Hombre  Beige  Egg
 
 [![Gant 2-Pack Trunk Flags CTN Str  Bañador](https://images-eu.ssl-images-amazon.com/images/I/41R2BQCxU%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07D2RR8NC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D2RR8NC/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Gioseppo 43524  Zapatillas para Hombre  Azul  Celeste   41 E
 
 [![Gioseppo 43524  Zapatillas para Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/413cZ4Xsn5L._SL200_.jpg)](https://www.amazon.es/dp/B077BXSJSH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077BXSJSH/?tag=tolees-21)

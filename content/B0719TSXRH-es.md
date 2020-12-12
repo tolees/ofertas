@@ -22,7 +22,7 @@ Ahora mismo tienes [SPC Bang Speaker - Altavoz bluetooth  8 watios  manos libres
 
 [![SPC Bang Speaker - Altavoz bluetooth  8 ](https://images-eu.ssl-images-amazon.com/images/I/41Btqd-PTVL._SL200_.jpg)](https://www.amazon.es/dp/B0719TSXRH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0719TSXRH/?tag=tolees-21)

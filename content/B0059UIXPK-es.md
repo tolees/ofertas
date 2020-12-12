@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike MD Runner 2 19-ao0265  Zapatillas de Running para Hombr
 
 [![Nike MD Runner 2 19-ao0265  Zapatillas d](https://images-eu.ssl-images-amazon.com/images/I/41QvPiQ6G8L._SL200_.jpg)](https://www.amazon.es/dp/B0059UIXPK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0059UIXPK/?tag=tolees-21)

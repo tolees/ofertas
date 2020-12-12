@@ -22,7 +22,7 @@ Ahora mismo tienes [Asics Roadhawk FF 2  Zapatillas de Entrenamiento para Hombre
 
 [![Asics Roadhawk FF 2  Zapatillas de Entre](https://images-eu.ssl-images-amazon.com/images/I/41W%2B-1gMRiL._SL200_.jpg)](https://www.amazon.es/dp/B079J4Q3CD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079J4Q3CD/?tag=tolees-21)

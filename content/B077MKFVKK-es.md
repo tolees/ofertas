@@ -22,7 +22,7 @@ Ahora mismo tienes [Only Onltitania L/s Pullover CC Knt  suéter para Mujer   Cl
 
 [![Only Onltitania L/s Pullover CC Knt  sué](https://images-eu.ssl-images-amazon.com/images/I/41fQ8nA%2BeYL._SL200_.jpg)](https://www.amazon.es/dp/B077MKFVKK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077MKFVKK/?tag=tolees-21)

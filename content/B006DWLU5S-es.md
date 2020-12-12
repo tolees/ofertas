@@ -22,7 +22,7 @@ Ahora mismo tienes [Superga Lamew  Zapatillas de Tela Mujer  Negro  Full Black  
 
 [![Superga Lamew  Zapatillas de Tela Mujer ](https://images-eu.ssl-images-amazon.com/images/I/51HVT9ja%2BSL._SL200_.jpg)](https://www.amazon.es/dp/B006DWLU5S/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B006DWLU5S/?tag=tolees-21)

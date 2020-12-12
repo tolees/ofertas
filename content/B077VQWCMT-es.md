@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas VL Court 2.0  Zapatillas de Skateboard para Hombre  N
 
 [![adidas VL Court 2.0  Zapatillas de Skate](https://images-eu.ssl-images-amazon.com/images/I/419DpusBINL._SL200_.jpg)](https://www.amazon.es/dp/B077VQWCMT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077VQWCMT/?tag=tolees-21)

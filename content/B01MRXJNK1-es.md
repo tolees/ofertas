@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour UA Recovery  Zapatillas Deportivas para Interio
 
 [![Under Armour UA Recovery  Zapatillas Dep](https://images-eu.ssl-images-amazon.com/images/I/41n5j3ivycL._SL200_.jpg)](https://www.amazon.es/dp/B01MRXJNK1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MRXJNK1/?tag=tolees-21)

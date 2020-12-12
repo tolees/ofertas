@@ -22,7 +22,7 @@ Ahora mismo tienes [TP-Link Archer C2 - Router Gigabit inalámbrico de doble ban
 
 [![TP-Link Archer C2 - Router Gigabit inalá](https://images-eu.ssl-images-amazon.com/images/I/41ceVLAJogL._SL200_.jpg)](https://www.amazon.es/dp/B00IU7W4NQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00IU7W4NQ/?tag=tolees-21)

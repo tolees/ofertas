@@ -22,7 +22,7 @@ Ahora mismo tienes [DC Apparel Circle Star tee-Shirt  Niños  Snow White  14/L](
 
 [![DC Apparel Circle Star tee-Shirt  Niños ](https://images-eu.ssl-images-amazon.com/images/I/31fqTwXNjKL._SL200_.jpg)](https://www.amazon.es/dp/B07KPR9C4S/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KPR9C4S/?tag=tolees-21)

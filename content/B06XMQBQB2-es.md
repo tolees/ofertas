@@ -22,7 +22,7 @@ Ahora mismo tienes [Tally Weijl -Blusa Mujer Marfil  Off White AQ  S](https://ww
 
 [![Tally Weijl -Blusa Mujer Marfil  Off Whi](https://images-eu.ssl-images-amazon.com/images/I/41NUDhUutkL._SL200_.jpg)](https://www.amazon.es/dp/B06XMQBQB2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XMQBQB2/?tag=tolees-21)

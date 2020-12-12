@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance Fuel Core 5000  Zapatillas Deportivas para Inter
 
 [![New Balance Fuel Core 5000  Zapatillas D](https://images-eu.ssl-images-amazon.com/images/I/41gwRfdlJ8L._SL200_.jpg)](https://www.amazon.es/dp/B07DJ61LXX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DJ61LXX/?tag=tolees-21)

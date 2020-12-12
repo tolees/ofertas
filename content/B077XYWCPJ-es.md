@@ -22,7 +22,7 @@ Ahora mismo tienes [Gore Wear 100374 Pantalones  Hombre  Negro  L](https://www.a
 
 [![Gore Wear 100374 Pantalones  Hombre  Neg](https://images-eu.ssl-images-amazon.com/images/I/31Fsoaxk7eL._SL200_.jpg)](https://www.amazon.es/dp/B077XYWCPJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077XYWCPJ/?tag=tolees-21)

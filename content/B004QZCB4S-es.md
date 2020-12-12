@@ -22,7 +22,7 @@ Ahora mismo tienes [Mantita"Pulpino"](https://www.amazon.es/dp/B004QZCB4S/?tag=t
 
 [![Mantita"Pulpino"](https://images-eu.ssl-images-amazon.com/images/I/51yTOFRO8sL._SL200_.jpg)](https://www.amazon.es/dp/B004QZCB4S/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B004QZCB4S/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Salter 1052 BKDR plástico  Negro](https://www.amazon.es/dp/
 
 [![Salter 1052 BKDR plástico  Negro](https://images-eu.ssl-images-amazon.com/images/I/316A0LAkrrL._SL200_.jpg)](https://www.amazon.es/dp/B01M0HRW4Y/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01M0HRW4Y/?tag=tolees-21)

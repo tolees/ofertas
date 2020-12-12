@@ -22,7 +22,7 @@ Ahora mismo tienes [AKRACING AK-K6014-BW - Silla  Negro  Color Blanco  Negro  Co
 
 [![AKRACING AK-K6014-BW - Silla  Negro  Col](https://images-eu.ssl-images-amazon.com/images/I/41GY6dAGqnL._SL200_.jpg)](https://www.amazon.es/dp/B00MJ8RUDG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00MJ8RUDG/?tag=tolees-21)

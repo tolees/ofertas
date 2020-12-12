@@ -22,7 +22,7 @@ Ahora mismo tienes [David Jones - 5926-1  Bolsos bandolera Mujer  Negro  Black  
 
 [![David Jones - 5926-1  Bolsos bandolera M](https://images-eu.ssl-images-amazon.com/images/I/41i6fYurhZL._SL200_.jpg)](https://www.amazon.es/dp/B07KCHD1QL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KCHD1QL/?tag=tolees-21)

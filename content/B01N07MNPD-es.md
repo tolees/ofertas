@@ -22,7 +22,7 @@ Ahora mismo tienes [Propel SW-0327-CX Star Wars Tie-Advanced - Quadcopter de la 
 
 [![Propel SW-0327-CX Star Wars Tie-Advanced](https://images-eu.ssl-images-amazon.com/images/I/41M8BOFRiiL._SL200_.jpg)](https://www.amazon.es/dp/B01N07MNPD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N07MNPD/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Helly Hansen TRANSAT Polo  Hombre  Azul  Navy 597   Large  T
 
 [![Helly Hansen TRANSAT Polo  Hombre  Azul ](https://images-eu.ssl-images-amazon.com/images/I/31utxCTQxcL._SL200_.jpg)](https://www.amazon.es/dp/B073RP7VJV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B073RP7VJV/?tag=tolees-21)

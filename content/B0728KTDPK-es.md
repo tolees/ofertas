@@ -22,7 +22,7 @@ Ahora mismo tienes [Only Onlmila Lacy L/s Long Pullover Knt Noos  suéter Mujer 
 
 [![Only Onlmila Lacy L/s Long Pullover Knt ](https://images-eu.ssl-images-amazon.com/images/I/41qsDkEIU4L._SL200_.jpg)](https://www.amazon.es/dp/B0728KTDPK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0728KTDPK/?tag=tolees-21)

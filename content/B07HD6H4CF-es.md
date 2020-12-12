@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas 3Mc  Zapatillas para Hombre  Negro  Black B22713   42
 
 [![adidas 3Mc  Zapatillas para Hombre  Negr](https://images-eu.ssl-images-amazon.com/images/I/31V8snmAyZL._SL200_.jpg)](https://www.amazon.es/dp/B07HD6H4CF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07HD6H4CF/?tag=tolees-21)

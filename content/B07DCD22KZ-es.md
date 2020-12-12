@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Defy TZ Wn s  Zapatillas de Deporte para Mujer  Verde  
 
 [![Puma Defy TZ Wn s  Zapatillas de Deporte](https://images-eu.ssl-images-amazon.com/images/I/41fD1SUDcxL._SL200_.jpg)](https://www.amazon.es/dp/B07DCD22KZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DCD22KZ/?tag=tolees-21)

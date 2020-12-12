@@ -22,7 +22,7 @@ Ahora mismo tienes [Funko Pop!- Movies: Elf Figura de Vinilo Buddy with Chase  2
 
 [![Funko Pop!- Movies: Elf Figura de Vinilo](https://images-eu.ssl-images-amazon.com/images/I/41BAmUZzVrL._SL200_.jpg)](https://www.amazon.es/dp/B074NJ3CRW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074NJ3CRW/?tag=tolees-21)

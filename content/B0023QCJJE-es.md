@@ -22,7 +22,7 @@ Ahora mismo tienes [PHA - Juego de paellera y Cocina de Gas portátil  Color Neg
 
 [![PHA - Juego de paellera y Cocina de Gas ](https://images-eu.ssl-images-amazon.com/images/I/51eUUTrHj-L._SL200_.jpg)](https://www.amazon.es/dp/B0023QCJJE/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0023QCJJE/?tag=tolees-21)

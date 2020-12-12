@@ -24,10 +24,10 @@ Está [WANDF Foldable Travel Bag with Shoe Compartment Lightweight Sports Bag fo
 
 ℹ️:
 
-- --- Just-In-Case Bag --- Always take this folding duffle with you on any trip, open up when you need to carry gifts for your friends, or to transfer stuffs from your damaged luggage.
-- --- Packable and Roomy --- This duffle can be fast folded into itself with a compact size of 30 x 30 x 5cm, only 1/20 of a regular size luggage. It takes a little space while have up-to 120 Litre capacity to be used as a backup bag in case your suitcase.
-- --- 100% SATISFACTION AND MONEY BACK GUARANTEE --- Please feel free to contact us whenever you meet quality problem, we provide 1 year warranty and lifetime customer service, guarantee 30 days return and money back.
 - --- Unique Durable Material --- Made from unique RipStop water-resistant fabric, ultra lightweight only 0.68kg, but wearproof, water-resistant and tear-resistant. High quality SBS metal zippers gurantee the long lasting.
+- --- Just-In-Case Bag --- Always take this folding duffle with you on any trip, open up when you need to carry gifts for your friends, or to transfer stuffs from your damaged luggage.
+- --- 100% SATISFACTION AND MONEY BACK GUARANTEE --- Please feel free to contact us whenever you meet quality problem, we provide 1 year warranty and lifetime customer service, guarantee 30 days return and money back.
 - --- Detail Oriented --- A water-resistant shoe compartment for keeping dirty clothes, shoes and clean stuffs seperate; Padded handles and an adjustable padded shoulder strap for carrying comfort and versatility; A luggage strap allows bag to slide over the luggage upright handle tube for Easy Transport.
+- --- Packable and Roomy --- This duffle can be fast folded into itself with a compact size of 30 x 30 x 5cm, only 1/20 of a regular size luggage. It takes a little space while have up-to 120 Litre capacity to be used as a backup bag in case your suitcase.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07SLYDL6X/?tag=tolees-21)

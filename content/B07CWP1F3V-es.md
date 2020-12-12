@@ -22,7 +22,7 @@ Ahora mismo tienes [Pasta Blanqueadora de Dientes con Carbón Activado Aprilis |
 
 [![Pasta Blanqueadora de Dientes con Carbón](https://images-eu.ssl-images-amazon.com/images/I/51ImYLP8G3L._SL200_.jpg)](https://www.amazon.es/dp/B07CWP1F3V/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CWP1F3V/?tag=tolees-21)

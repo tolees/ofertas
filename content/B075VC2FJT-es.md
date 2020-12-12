@@ -22,7 +22,7 @@ Ahora mismo tienes [Filomatic Filo3 Maquinilla de Afeitar - 30 Unidades](https:/
 
 [![Filomatic Filo3 Maquinilla de Afeitar - ](https://images-eu.ssl-images-amazon.com/images/I/31z8IfpAc0L._SL200_.jpg)](https://www.amazon.es/dp/B075VC2FJT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075VC2FJT/?tag=tolees-21)

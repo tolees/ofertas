@@ -22,7 +22,7 @@ Ahora mismo tienes [Quiksilver Highline Kaimana 16" Bañador  Hombre  Negro  Bla
 
 [![Quiksilver Highline Kaimana 16" Bañador ](https://images-eu.ssl-images-amazon.com/images/I/31SR3oMAxwL._SL200_.jpg)](https://www.amazon.es/dp/B07KK1V1P8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KK1V1P8/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Samsung EP-PN920 Interior Blanco - Cargador  Interior  Blanc
 
 [![Samsung EP-PN920 Interior Blanco - Carga](https://images-eu.ssl-images-amazon.com/images/I/41OcblG6isL._SL200_.jpg)](https://www.amazon.es/dp/B01N52AEJG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N52AEJG/?tag=tolees-21)

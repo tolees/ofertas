@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s Classic Icon Belt  Cinturón Mujer  Marrón  Brown   
 
 [![Levi s Classic Icon Belt  Cinturón Mujer](https://images-eu.ssl-images-amazon.com/images/I/41Jfn1zGHDL._SL200_.jpg)](https://www.amazon.es/dp/B017XHVBBO/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B017XHVBBO/?tag=tolees-21)

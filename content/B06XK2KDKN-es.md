@@ -22,7 +22,7 @@ Ahora mismo tienes [Newskill Hanshi Spectrum - Teclado mecánico gaming RGB   Es
 
 [![Newskill Hanshi Spectrum - Teclado mecán](https://images-eu.ssl-images-amazon.com/images/I/41cNZ-ZgaLL._SL200_.jpg)](https://www.amazon.es/dp/B06XK2KDKN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XK2KDKN/?tag=tolees-21)

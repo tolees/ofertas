@@ -22,7 +22,7 @@ Ahora mismo tienes [Mondaine SBB Evo Automatic 40mm A1323034811SBB Reloj de puls
 
 [![Mondaine SBB Evo Automatic 40mm A1323034](https://images-eu.ssl-images-amazon.com/images/I/41EdVyT8oqL._SL200_.jpg)](https://www.amazon.es/dp/B00AF2DBOA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00AF2DBOA/?tag=tolees-21)

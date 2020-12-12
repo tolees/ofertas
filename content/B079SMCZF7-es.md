@@ -22,7 +22,7 @@ Ahora mismo tienes [Desigual Jers_Diane  suéter para Mujer    Negro 2000  Mediu
 
 [![Desigual Jers_Diane  suéter para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/318DtVfHq9L._SL200_.jpg)](https://www.amazon.es/dp/B079SMCZF7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079SMCZF7/?tag=tolees-21)

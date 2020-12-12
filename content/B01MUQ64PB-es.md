@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance 220  Zapatillas para Mujer  Negro  Black/Nimbus 
 
 [![New Balance 220  Zapatillas para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41qiyZ%2BqRiL._SL200_.jpg)](https://www.amazon.es/dp/B01MUQ64PB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MUQ64PB/?tag=tolees-21)

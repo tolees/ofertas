@@ -22,7 +22,7 @@ Ahora mismo tienes [find. Top sin Mangas con Volante para Mujer   Rosa  Blush   
 
 [![find. Top sin Mangas con Volante para Mu](https://images-eu.ssl-images-amazon.com/images/I/41%2BNU0XTl-L._SL200_.jpg)](https://www.amazon.es/dp/B01NC28MIF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01NC28MIF/?tag=tolees-21)

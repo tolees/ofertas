@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour UA Patterson Backpack Mochila  Unisex Adulto  G
 
 [![Under Armour UA Patterson Backpack Mochi](https://images-eu.ssl-images-amazon.com/images/I/31qXjjthsEL._SL200_.jpg)](https://www.amazon.es/dp/B07KJZ7GDG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KJZ7GDG/?tag=tolees-21)

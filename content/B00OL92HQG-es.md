@@ -22,7 +22,7 @@ Ahora mismo tienes [SYROKAN - Sujetador Deportivo de Sin Aros para Mujer Negro E
 
 [![SYROKAN - Sujetador Deportivo de Sin Aro]()](https://www.amazon.es/dp/B00OL92HQG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00OL92HQG/?tag=tolees-21)

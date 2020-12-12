@@ -22,7 +22,7 @@ Ahora mismo tienes [HyperX Fury - Memoria RAM DE 16 GB DDR3L  1600 MHz  CL10  DI
 
 [![HyperX Fury - Memoria RAM DE 16 GB DDR3L](https://images-eu.ssl-images-amazon.com/images/I/41zJnCUo1yL._SL200_.jpg)](https://www.amazon.es/dp/B014R9BN6O/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B014R9BN6O/?tag=tolees-21)

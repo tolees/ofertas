@@ -22,7 +22,7 @@ Ahora mismo tienes [Quiksilver Everyday Poster M BKPK BYL0 Mochila Mediana  Homb
 
 [![Quiksilver Everyday Poster M BKPK BYL0 M](https://images-eu.ssl-images-amazon.com/images/I/51mtuGp5BNL._SL200_.jpg)](https://www.amazon.es/dp/B07DHT13ZV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DHT13ZV/?tag=tolees-21)

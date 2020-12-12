@@ -22,7 +22,7 @@ Ahora mismo tienes [Adidas Altarun K  Zapatillas de Running Unisex Niños  Negro
 
 [![Adidas Altarun K  Zapatillas de Running ](https://images-eu.ssl-images-amazon.com/images/I/41aztsxIo6L._SL200_.jpg)](https://www.amazon.es/dp/B07JYL2P5Q/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JYL2P5Q/?tag=tolees-21)

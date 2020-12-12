@@ -22,7 +22,7 @@ Ahora mismo tienes [!Solid Pants - Galo Stretch Pantalones  Hombre  Verde  Aloe 
 
 [![!Solid Pants - Galo Stretch Pantalones  ](https://images-eu.ssl-images-amazon.com/images/I/41w%2BiMoybQL._SL200_.jpg)](https://www.amazon.es/dp/B077H3P9YW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077H3P9YW/?tag=tolees-21)

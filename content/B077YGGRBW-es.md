@@ -22,7 +22,7 @@ Ahora mismo tienes [Lenovo Yoga 920-13IKB - Ordenador portátil convertible de 1
 
 [![Lenovo Yoga 920-13IKB - Ordenador portát](https://images-eu.ssl-images-amazon.com/images/I/41seL2S7fLL._SL200_.jpg)](https://www.amazon.es/dp/B077YGGRBW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077YGGRBW/?tag=tolees-21)

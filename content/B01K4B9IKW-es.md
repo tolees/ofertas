@@ -22,7 +22,7 @@ Ahora mismo tienes [Thule Atmos X3 - Funda para iPhone 7 Plus  Color Gris y Blan
 
 [![Thule Atmos X3 - Funda para iPhone 7 Plu](https://images-eu.ssl-images-amazon.com/images/I/31hvi6qHYcL._SL200_.jpg)](https://www.amazon.es/dp/B01K4B9IKW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01K4B9IKW/?tag=tolees-21)

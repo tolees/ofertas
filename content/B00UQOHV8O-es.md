@@ -22,7 +22,7 @@ Ahora mismo tienes [BRA PRIOR - Cazo  16 cm  aluminio fundido con antiadherente 
 
 [![BRA PRIOR - Cazo  16 cm  aluminio fundid](https://images-eu.ssl-images-amazon.com/images/I/31lyieMcueL._SL200_.jpg)](https://www.amazon.es/dp/B00UQOHV8O/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00UQOHV8O/?tag=tolees-21)

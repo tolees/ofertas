@@ -22,7 +22,7 @@ Ahora mismo tienes [GLOBE Motley Mid  Zapatillas de Deporte para Hombre   Partri
 
 [![GLOBE Motley Mid  Zapatillas de Deporte ](https://images-eu.ssl-images-amazon.com/images/I/41v4ALJrmzL._SL200_.jpg)](https://www.amazon.es/dp/B079D7XHFM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079D7XHFM/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [RH 170160 Martillo Peña Hr M/Fibra Cabeza 20 Mm  0 V](https
 
 [![RH 170160 Martillo Peña Hr M/Fibra Cabez](https://images-eu.ssl-images-amazon.com/images/I/31lES1xvddL._SL200_.jpg)](https://www.amazon.es/dp/B014WLPZFC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B014WLPZFC/?tag=tolees-21)

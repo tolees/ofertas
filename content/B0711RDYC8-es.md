@@ -22,7 +22,7 @@ Ahora mismo tienes [Marco Tozzi 26213  Botas para Mujer  Azul  Navy Antic Com   
 
 [![Marco Tozzi 26213  Botas para Mujer  Azu](https://images-eu.ssl-images-amazon.com/images/I/4155qsH9xiL._SL200_.jpg)](https://www.amazon.es/dp/B0711RDYC8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0711RDYC8/?tag=tolees-21)

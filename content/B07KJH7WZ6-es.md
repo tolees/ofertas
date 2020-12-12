@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas CLAS BP 3s Sports Backpack  Unisex Adulto  Black/Whit
 
 [![adidas CLAS BP 3s Sports Backpack  Unise](https://images-eu.ssl-images-amazon.com/images/I/41ZXbZmd9OL._SL200_.jpg)](https://www.amazon.es/dp/B07KJH7WZ6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KJH7WZ6/?tag=tolees-21)

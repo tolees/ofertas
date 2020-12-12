@@ -22,7 +22,7 @@ Ahora mismo tienes [Refresh 83145  Shopper para Mujer  Azul  Jeans  15x33x15 cm 
 
 [![Refresh 83145  Shopper para Mujer  Azul ](https://images-eu.ssl-images-amazon.com/images/I/41ynp0OY4oL._SL200_.jpg)](https://www.amazon.es/dp/B077NTN4D5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077NTN4D5/?tag=tolees-21)

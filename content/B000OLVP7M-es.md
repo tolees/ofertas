@@ -24,7 +24,7 @@ Está [Converse Chuck Taylor Hi - Zapatillas para mujer  color blanco  talla 45]
 
 ℹ️:
 
-- La parte superior de cuero
 - La tapa de goma del dedo del pie
+- La parte superior de cuero
 
 [Ver la oferta!!](https://www.amazon.es/dp/B000OLVP7M/?tag=tolees-21)

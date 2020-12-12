@@ -22,7 +22,7 @@ Ahora mismo tienes [Vulkan Tensión Dinámica Faja Lumbar Ligera  Unisex_Adulto 
 
 [![Vulkan Tensión Dinámica Faja Lumbar Lige](https://images-eu.ssl-images-amazon.com/images/I/51tYTNbq6ML._SL200_.jpg)](https://www.amazon.es/dp/B00AWBHD2A/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00AWBHD2A/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [MTNG Attitude 69062  Zapatillas para Mujer   Action Blanco/P
 
 [![MTNG Attitude 69062  Zapatillas para Muj](https://images-eu.ssl-images-amazon.com/images/I/41Q6ThJD7zL._SL200_.jpg)](https://www.amazon.es/dp/B07DQZ4MSG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DQZ4MSG/?tag=tolees-21)

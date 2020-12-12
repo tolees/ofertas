@@ -22,7 +22,7 @@ Ahora mismo tienes [Rizador Pelo  Planchas Del Pelo  Kealive 2 En 1 MCH Plancha 
 
 [![Rizador Pelo  Planchas Del Pelo  Kealive](https://images-eu.ssl-images-amazon.com/images/I/311PJGCna3L._SL200_.jpg)](https://www.amazon.es/dp/B07D3Y8W8M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D3Y8W8M/?tag=tolees-21)

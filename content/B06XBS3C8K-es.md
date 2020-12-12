@@ -22,7 +22,7 @@ Ahora mismo tienes [Vila Clothes VICLASS Pant-Noos  Pantalones para Mujer  Negro
 
 [![Vila Clothes VICLASS Pant-Noos  Pantalon](https://images-eu.ssl-images-amazon.com/images/I/31SdIBFhj1L._SL200_.jpg)](https://www.amazon.es/dp/B06XBS3C8K/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XBS3C8K/?tag=tolees-21)

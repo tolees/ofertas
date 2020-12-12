@@ -22,7 +22,7 @@ Ahora mismo tienes [BLACK+DECKER  DVJ315J-QW - Aspirador de mano 10.8V  610 ml]
 
 [![BLACK+DECKER  DVJ315J-QW - Aspirador de ](https://images-eu.ssl-images-amazon.com/images/I/41fzpgYnM5L._SL200_.jpg)](https://www.amazon.es/dp/B01C2JTE8K/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01C2JTE8K/?tag=tolees-21)

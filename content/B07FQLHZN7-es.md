@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jjemark Knit Crew Neck Noos  suéter para Hombr
 
 [![JACK & JONES Jjemark Knit Crew Neck Noos](https://images-eu.ssl-images-amazon.com/images/I/410TcJWSoNL._SL200_.jpg)](https://www.amazon.es/dp/B07FQLHZN7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FQLHZN7/?tag=tolees-21)

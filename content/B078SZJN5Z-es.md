@@ -22,7 +22,7 @@ Ahora mismo tienes [Maison & White Manteles de pizarra natural con posavasos | R
 
 [![Maison & White Manteles de pizarra natur](https://images-eu.ssl-images-amazon.com/images/I/41%2B9rlADKIL._SL200_.jpg)](https://www.amazon.es/dp/B078SZJN5Z/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078SZJN5Z/?tag=tolees-21)

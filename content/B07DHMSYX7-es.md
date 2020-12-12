@@ -22,7 +22,7 @@ Ahora mismo tienes [SUPORE Correa para Garmin Fenix 5X  Suave Silicona Banda de 
 
 [![SUPORE Correa para Garmin Fenix 5X  Suav](https://images-eu.ssl-images-amazon.com/images/I/4188nwk%2B5NL._SL200_.jpg)](https://www.amazon.es/dp/B07DHMSYX7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DHMSYX7/?tag=tolees-21)

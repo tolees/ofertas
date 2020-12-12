@@ -22,7 +22,7 @@ Ahora mismo tienes [Rotulador puntafina STABILO point 88 mini - Estuche con 12 c
 
 [![Rotulador puntafina STABILO point 88 min](https://images-eu.ssl-images-amazon.com/images/I/51%2BEdFo3UzL._SL200_.jpg)](https://www.amazon.es/dp/B000OZNB8O/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B000OZNB8O/?tag=tolees-21)

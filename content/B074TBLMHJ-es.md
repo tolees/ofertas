@@ -22,7 +22,7 @@ Ahora mismo tienes [1home Mesa Móvil Portátil Escritorio Ordenador Computador 
 
 [![1home Mesa Móvil Portátil Escritorio Ord](https://images-eu.ssl-images-amazon.com/images/I/31RNro%2Be6hL._SL200_.jpg)](https://www.amazon.es/dp/B074TBLMHJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074TBLMHJ/?tag=tolees-21)

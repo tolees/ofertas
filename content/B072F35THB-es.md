@@ -22,7 +22,7 @@ Ahora mismo tienes [Munich Massana 233  Zapatillas de Senderismo para Mujer  40 
 
 [![Munich Massana 233  Zapatillas de Sender](https://images-eu.ssl-images-amazon.com/images/I/51cSfoVIunL._SL200_.jpg)](https://www.amazon.es/dp/B072F35THB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072F35THB/?tag=tolees-21)

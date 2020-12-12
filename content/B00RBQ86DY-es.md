@@ -22,7 +22,7 @@ Ahora mismo tienes [New Reebok Hexride Intensity Mid Womens Running Trainers Siz
 
 [![New Reebok Hexride Intensity Mid Womens ](https://images-eu.ssl-images-amazon.com/images/I/417jMJo2z5L._SL200_.jpg)](https://www.amazon.es/dp/B00RBQ86DY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00RBQ86DY/?tag=tolees-21)

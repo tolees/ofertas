@@ -22,7 +22,7 @@ Ahora mismo tienes [ Elzle Cargador Solar 25000mAh Cargador Portátil Impermeabl
 
 [![ Elzle Cargador Solar 25000mAh Cargador](https://images-eu.ssl-images-amazon.com/images/I/51w5lyj8axL._SL200_.jpg)](https://www.amazon.es/dp/B07CSR7B3Z/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CSR7B3Z/?tag=tolees-21)

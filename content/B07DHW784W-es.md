@@ -22,7 +22,7 @@ Ahora mismo tienes [Roxy Spy Game Mallas de Entrenamiento  Mujer  Gris  Charcoal
 
 [![Roxy Spy Game Mallas de Entrenamiento  M](https://images-eu.ssl-images-amazon.com/images/I/41XZYlcwhRL._SL200_.jpg)](https://www.amazon.es/dp/B07DHW784W/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DHW784W/?tag=tolees-21)

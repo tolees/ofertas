@@ -22,7 +22,7 @@ Ahora mismo tienes [LE COQ SPORTIF Courtace Sport Black  Zapatillas para Hombre 
 
 [![LE COQ SPORTIF Courtace Sport Black  Zap](https://images-eu.ssl-images-amazon.com/images/I/41G6Hd8A3KL._SL200_.jpg)](https://www.amazon.es/dp/B07DC31FFK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DC31FFK/?tag=tolees-21)

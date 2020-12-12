@@ -22,7 +22,7 @@ Ahora mismo tienes [Samsonite Guardit Office Case 16" Maletines  12 L  Color Neg
 
 [![Samsonite Guardit Office Case 16" Maleti](https://images-eu.ssl-images-amazon.com/images/I/41k-2G0-RQL._SL200_.jpg)](https://www.amazon.es/dp/B00CC9U3R2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00CC9U3R2/?tag=tolees-21)

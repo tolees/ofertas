@@ -22,7 +22,7 @@ Ahora mismo tienes [WMF Ambiente-Cubertería  66 Piezas  12 comensales   cromarg
 
 [![WMF Ambiente-Cubertería  66 Piezas  12 c](https://images-eu.ssl-images-amazon.com/images/I/41oTcTtdSHL._SL200_.jpg)](https://www.amazon.es/dp/B01B1M3N3Q/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01B1M3N3Q/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Popsockets - Soporte y Agarre  No Intercambiable  para Telé
 
 [![Popsockets - Soporte y Agarre  No Interc](https://images-eu.ssl-images-amazon.com/images/I/416uLwxvijL._SL200_.jpg)](https://www.amazon.es/dp/B0742S4TXG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0742S4TXG/?tag=tolees-21)

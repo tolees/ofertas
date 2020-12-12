@@ -22,7 +22,7 @@ Ahora mismo tienes [ESPRIT Collection 037eo1b001  Pantalones para Mujer  Verde  
 
 [![ESPRIT Collection 037eo1b001  Pantalones](https://images-eu.ssl-images-amazon.com/images/I/41lLgmVeVmL._SL200_.jpg)](https://www.amazon.es/dp/B01N7YRKUT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N7YRKUT/?tag=tolees-21)

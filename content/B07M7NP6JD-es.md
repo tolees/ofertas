@@ -22,7 +22,7 @@ Ahora mismo tienes [2 Pieza Alcachofa de Ducha  MagicHome Mano La Cabeza de Duch
 
 [![2 Pieza Alcachofa de Ducha  MagicHome Ma](https://images-eu.ssl-images-amazon.com/images/I/51yJBXP7eLL._SL200_.jpg)](https://www.amazon.es/dp/B07M7NP6JD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07M7NP6JD/?tag=tolees-21)

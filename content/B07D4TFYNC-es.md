@@ -22,7 +22,7 @@ Ahora mismo tienes [Kappa Icon  Zapatillas para Mujer  Blanco  Offwhite/Ice 4365
 
 [![Kappa Icon  Zapatillas para Mujer  Blanc](https://images-eu.ssl-images-amazon.com/images/I/41qtWLF0DNL._SL200_.jpg)](https://www.amazon.es/dp/B07D4TFYNC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D4TFYNC/?tag=tolees-21)

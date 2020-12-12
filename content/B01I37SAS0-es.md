@@ -22,7 +22,7 @@ Ahora mismo tienes [Adidas Pace Vs Aw4594  Zapatillas para Hombre  Blanco  Footw
 
 [![Adidas Pace Vs Aw4594  Zapatillas para H](https://images-eu.ssl-images-amazon.com/images/I/41KjKu7%2BKrL._SL200_.jpg)](https://www.amazon.es/dp/B01I37SAS0/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01I37SAS0/?tag=tolees-21)

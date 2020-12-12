@@ -22,7 +22,7 @@ Ahora mismo tienes [Leathario Mochila de Mujer de Piel Bolsa Señorita Bandolera
 
 [![Leathario Mochila de Mujer de Piel Bolsa](https://images-eu.ssl-images-amazon.com/images/I/41%2BFHKhNY9L._SL200_.jpg)](https://www.amazon.es/dp/B07BLQYFZ7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BLQYFZ7/?tag=tolees-21)

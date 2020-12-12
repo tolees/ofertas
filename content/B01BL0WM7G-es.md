@@ -22,7 +22,7 @@ Ahora mismo tienes [Frozen : Papelera Para Niños](https://www.amazon.es/dp/B01B
 
 [![Frozen : Papelera Para Niños](https://images-eu.ssl-images-amazon.com/images/I/41Sn28jrTVL._SL200_.jpg)](https://www.amazon.es/dp/B01BL0WM7G/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01BL0WM7G/?tag=tolees-21)

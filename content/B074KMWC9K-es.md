@@ -22,7 +22,7 @@ Ahora mismo tienes [Supra Stacks II Vulc  Zapatillas para Hombre  Azul  Navy/Aqu
 
 [![Supra Stacks II Vulc  Zapatillas para Ho](https://images-eu.ssl-images-amazon.com/images/I/411HlszyBvL._SL200_.jpg)](https://www.amazon.es/dp/B074KMWC9K/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074KMWC9K/?tag=tolees-21)

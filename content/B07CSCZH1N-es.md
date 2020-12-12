@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Prowl Alt Satin Wn s  Zapatillas de Deporte para Mujer 
 
 [![Puma Prowl Alt Satin Wn s  Zapatillas de](https://images-eu.ssl-images-amazon.com/images/I/41TqC1yaajL._SL200_.jpg)](https://www.amazon.es/dp/B07CSCZH1N/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CSCZH1N/?tag=tolees-21)

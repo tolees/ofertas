@@ -22,7 +22,7 @@ Ahora mismo tienes [Curvy Kate Portia Bra  Sujetador para Mujer  Negro/Rosa 80FF
 
 [![Curvy Kate Portia Bra  Sujetador para Mu](https://images-eu.ssl-images-amazon.com/images/I/51CbVJ8mW8L._SL200_.jpg)](https://www.amazon.es/dp/B003VYAO44/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B003VYAO44/?tag=tolees-21)

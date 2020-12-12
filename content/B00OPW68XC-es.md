@@ -22,7 +22,7 @@ Ahora mismo tienes [Bergner BG-7009 Cacerola con Templado y Recubrimiento de cer
 
 [![Bergner BG-7009 Cacerola con Templado y ](https://images-eu.ssl-images-amazon.com/images/I/41aquO-oY2L._SL200_.jpg)](https://www.amazon.es/dp/B00OPW68XC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00OPW68XC/?tag=tolees-21)

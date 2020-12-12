@@ -22,7 +22,7 @@ Ahora mismo tienes [Cargador Inteligente de Pilas GbLife con 4 Ranuras Pantalla 
 
 [![Cargador Inteligente de Pilas GbLife con](https://images-eu.ssl-images-amazon.com/images/I/51rmfsDnEqL._SL200_.jpg)](https://www.amazon.es/dp/B07H7GLGTH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07H7GLGTH/?tag=tolees-21)

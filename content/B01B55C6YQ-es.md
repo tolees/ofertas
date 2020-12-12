@@ -22,7 +22,7 @@ Ahora mismo tienes [Funko- Moon & Luna Figura de Vinilo  colección de Pop  seri
 
 [![Funko- Moon & Luna Figura de Vinilo  col](https://images-eu.ssl-images-amazon.com/images/I/51L0ERSzJYL._SL200_.jpg)](https://www.amazon.es/dp/B01B55C6YQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01B55C6YQ/?tag=tolees-21)

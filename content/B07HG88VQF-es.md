@@ -22,7 +22,7 @@ Ahora mismo tienes [Dim Mi- chaussette Ecodim Lot De 10  Calcetines para Hombre 
 
 [![Dim Mi- chaussette Ecodim Lot De 10  Cal](https://images-eu.ssl-images-amazon.com/images/I/31b73mnjgsL._SL200_.jpg)](https://www.amazon.es/dp/B07HG88VQF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07HG88VQF/?tag=tolees-21)

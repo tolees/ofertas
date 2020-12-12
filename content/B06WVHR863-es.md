@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Vs Set Zapatillas de Deporte Hombre  Negro  Core Blac
 
 [![adidas Vs Set Zapatillas de Deporte Homb](https://images-eu.ssl-images-amazon.com/images/I/41WqobzXTsL._SL200_.jpg)](https://www.amazon.es/dp/B06WVHR863/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06WVHR863/?tag=tolees-21)

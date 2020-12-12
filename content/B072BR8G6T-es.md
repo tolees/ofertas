@@ -22,7 +22,7 @@ Ahora mismo tienes [Asics Gel-DS Trainer 22  Zapatillas de Running para Hombre  
 
 [![Asics Gel-DS Trainer 22  Zapatillas de R](https://images-eu.ssl-images-amazon.com/images/I/51dXzzEVhwL._SL200_.jpg)](https://www.amazon.es/dp/B072BR8G6T/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072BR8G6T/?tag=tolees-21)

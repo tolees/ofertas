@@ -22,7 +22,7 @@ Ahora mismo tienes [Blend Jogg Shorts Bañador  Blau  Denim Light Blue 76200   W
 
 [![Blend Jogg Shorts Bañador  Blau  Denim L](https://images-eu.ssl-images-amazon.com/images/I/41RTXW8RoKL._SL200_.jpg)](https://www.amazon.es/dp/B07FDFG4HX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FDFG4HX/?tag=tolees-21)

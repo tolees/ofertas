@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance  Zapatillas de Entrenamiento para Mujer  Gris  G
 
 [![New Balance  Zapatillas de Entrenamiento](https://images-eu.ssl-images-amazon.com/images/I/419P4T-V9hL._SL200_.jpg)](https://www.amazon.es/dp/B01LZ6SZ49/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01LZ6SZ49/?tag=tolees-21)

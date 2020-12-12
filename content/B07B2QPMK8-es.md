@@ -22,7 +22,7 @@ Ahora mismo tienes [Yasolote 22M Guirnalda de Luces Solares 8 Modos 200 LED Luce
 
 [![Yasolote 22M Guirnalda de Luces Solares ](https://images-eu.ssl-images-amazon.com/images/I/51OG70qtsHL._SL200_.jpg)](https://www.amazon.es/dp/B07B2QPMK8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07B2QPMK8/?tag=tolees-21)

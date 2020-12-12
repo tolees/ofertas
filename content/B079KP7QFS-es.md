@@ -22,7 +22,7 @@ Ahora mismo tienes [Remington Pro Power Titanium HC7130 - Máquina de cortar pel
 
 [![Remington Pro Power Titanium HC7130 - Má](https://images-eu.ssl-images-amazon.com/images/I/51nIIATk50L._SL200_.jpg)](https://www.amazon.es/dp/B079KP7QFS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079KP7QFS/?tag=tolees-21)

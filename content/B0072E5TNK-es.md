@@ -22,7 +22,7 @@ Ahora mismo tienes [Helly Hansen Sport II Salvavidas  Unisex Adulto  Rojo  Red/E
 
 [![Helly Hansen Sport II Salvavidas  Unisex](https://images-eu.ssl-images-amazon.com/images/I/51BlpNOndgL._SL200_.jpg)](https://www.amazon.es/dp/B0072E5TNK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0072E5TNK/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Giochi Preziosi – Dragon Ball Super Spin Battlers 2 Fig
 
 [![Giochi Preziosi – Dragon Ball Super Spin](https://images-eu.ssl-images-amazon.com/images/I/31Ig7FEP5AL._SL200_.jpg)](https://www.amazon.es/dp/B073DKGC37/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B073DKGC37/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike Legend 7 Pro FG  Zapatillas de Fútbol Unisex Adulto  N
 
 [![Nike Legend 7 Pro FG  Zapatillas de Fútb](https://images-eu.ssl-images-amazon.com/images/I/41Occbk9wCL._SL200_.jpg)](https://www.amazon.es/dp/B07DCJCDD7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DCJCDD7/?tag=tolees-21)

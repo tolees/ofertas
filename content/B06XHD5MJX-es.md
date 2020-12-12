@@ -22,7 +22,7 @@ Ahora mismo tienes [Helly Hansen HH LIFA Merino Basleayer Pant  Hombre  Black  2
 
 [![Helly Hansen HH LIFA Merino Basleayer Pa](https://images-eu.ssl-images-amazon.com/images/I/41JrXa5KEVL._SL200_.jpg)](https://www.amazon.es/dp/B06XHD5MJX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XHD5MJX/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Lee Pique Polo  Gris  Sharp Grey Mele 03   2XL para Hombre](
 
 [![Lee Pique Polo  Gris  Sharp Grey Mele 03](https://images-eu.ssl-images-amazon.com/images/I/31re7%2BflLsL._SL200_.jpg)](https://www.amazon.es/dp/B07FT9HLF7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FT9HLF7/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance 220  Zapatillas para Hombre  Negro Black TD  40.
 
 [![New Balance 220  Zapatillas para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41S0YaOVhML._SL200_.jpg)](https://www.amazon.es/dp/B07D86P5ZT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D86P5ZT/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Vagabond  Mujer  Azul  Denim   W29](https://www.a
 
 [![Pepe Jeans Vagabond  Mujer  Azul  Denim ](https://images-eu.ssl-images-amazon.com/images/I/41uOY3aCjtL._SL200_.jpg)](https://www.amazon.es/dp/B01MTR8T32/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MTR8T32/?tag=tolees-21)

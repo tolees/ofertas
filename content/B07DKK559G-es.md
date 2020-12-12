@@ -22,7 +22,7 @@ Ahora mismo tienes [Dainese Toga72 Leather Jacket  Negro  Talla 54](https://www.
 
 [![Dainese Toga72 Leather Jacket  Negro  Ta](https://images-eu.ssl-images-amazon.com/images/I/51Nstn4YAiL._SL200_.jpg)](https://www.amazon.es/dp/B07DKK559G/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DKK559G/?tag=tolees-21)

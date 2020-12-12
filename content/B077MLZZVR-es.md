@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Smash v2 Zapatillas Unisex adulto  Negro  Puma Black-Pu
 
 [![Puma Smash v2 Zapatillas Unisex adulto  ](https://images-eu.ssl-images-amazon.com/images/I/41RucTJ1ROL._SL200_.jpg)](https://www.amazon.es/dp/B077MLZZVR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077MLZZVR/?tag=tolees-21)

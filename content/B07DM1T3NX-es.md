@@ -22,7 +22,7 @@ Ahora mismo tienes [Adidas I-5923  Zapatillas de Deporte para Hombre  Blanco  Ti
 
 [![Adidas I-5923  Zapatillas de Deporte par](https://images-eu.ssl-images-amazon.com/images/I/31eJjFVwqGL._SL200_.jpg)](https://www.amazon.es/dp/B07DM1T3NX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DM1T3NX/?tag=tolees-21)

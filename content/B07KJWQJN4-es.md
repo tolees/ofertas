@@ -22,7 +22,7 @@ Ahora mismo tienes [Quiksilver Word Block Shorts  Hombre  Medieval Blue  L](http
 
 [![Quiksilver Word Block Shorts  Hombre  Me](https://images-eu.ssl-images-amazon.com/images/I/41LT0GWgG6L._SL200_.jpg)](https://www.amazon.es/dp/B07KJWQJN4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KJWQJN4/?tag=tolees-21)

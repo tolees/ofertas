@@ -22,7 +22,7 @@ Ahora mismo tienes [Asics Gel-Pulse 9  Zapatillas de Running para Hombre  Azul  
 
 [![Asics Gel-Pulse 9  Zapatillas de Running](https://images-eu.ssl-images-amazon.com/images/I/41AjApeYQJL._SL200_.jpg)](https://www.amazon.es/dp/B0781D4ZJB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0781D4ZJB/?tag=tolees-21)

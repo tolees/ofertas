@@ -22,7 +22,7 @@ Ahora mismo tienes [FLEX Colchón muelles continuos Habana  90 x 200 cm](https:/
 
 [![FLEX Colchón muelles continuos Habana  9](https://images-eu.ssl-images-amazon.com/images/I/31fuYSnHEWL._SL200_.jpg)](https://www.amazon.es/dp/B01B61YOQW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01B61YOQW/?tag=tolees-21)

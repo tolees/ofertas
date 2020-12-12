@@ -22,7 +22,7 @@ Ahora mismo tienes [Desigual Shoes  Canvas   Zapatillas para Mujer  Naranja  Cor
 
 [![Desigual Shoes  Canvas   Zapatillas para](https://images-eu.ssl-images-amazon.com/images/I/31wLWI-%2BpRL._SL200_.jpg)](https://www.amazon.es/dp/B07H4ZCRHJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07H4ZCRHJ/?tag=tolees-21)

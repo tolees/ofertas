@@ -22,7 +22,7 @@ Ahora mismo tienes [Calvin Klein Thong Tanga  Negro  Black 001   40  Talla del F
 
 [![Calvin Klein Thong Tanga  Negro  Black 0](https://images-eu.ssl-images-amazon.com/images/I/51xQvPspEOL._SL200_.jpg)](https://www.amazon.es/dp/B01GILW1GU/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01GILW1GU/?tag=tolees-21)

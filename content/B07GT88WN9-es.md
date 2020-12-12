@@ -22,7 +22,7 @@ Ahora mismo tienes [Desigual - Bag Lady Loverty Women  Carteras de mano con asa 
 
 [![Desigual - Bag Lady Loverty Women  Carte](https://images-eu.ssl-images-amazon.com/images/I/41XhnvliCkL._SL200_.jpg)](https://www.amazon.es/dp/B07GT88WN9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GT88WN9/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Kappa Trust 241981-1110  Zapatillas Unisex Adulto  Negro-Sch
 
 [![Kappa Trust 241981-1110  Zapatillas Unis](https://images-eu.ssl-images-amazon.com/images/I/41rrLqMof%2BL._SL200_.jpg)](https://www.amazon.es/dp/B00VUQ917Q/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00VUQ917Q/?tag=tolees-21)

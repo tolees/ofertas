@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Suede Heart Galaxy Wn s  Zapatillas para Mujer  Negro B
 
 [![Puma Suede Heart Galaxy Wn s  Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/3198v6lYqDL._SL200_.jpg)](https://www.amazon.es/dp/B07DBWXW4S/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DBWXW4S/?tag=tolees-21)

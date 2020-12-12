@@ -22,7 +22,7 @@ Ahora mismo tienes [Zhiyun Smooth 4- Estabilizador de mano para iPhone X 8 S9 + 
 
 [![Zhiyun Smooth 4- Estabilizador de mano p](https://images-eu.ssl-images-amazon.com/images/I/51HdHoDi%2BIL._SL200_.jpg)](https://www.amazon.es/dp/B07C3N1F6M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07C3N1F6M/?tag=tolees-21)

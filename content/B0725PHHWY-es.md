@@ -22,7 +22,7 @@ Ahora mismo tienes [MTNG Marina  Botas Mujer  Negro  Antil Negro   38 EU](https:
 
 [![MTNG Marina  Botas Mujer  Negro  Antil N](https://images-eu.ssl-images-amazon.com/images/I/419k6pZgnrL._SL200_.jpg)](https://www.amazon.es/dp/B0725PHHWY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0725PHHWY/?tag=tolees-21)

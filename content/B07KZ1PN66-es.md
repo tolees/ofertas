@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 5 Gym - Mochila Básica  Mujer  Gamma Marrón](h
 
 [![Springfield 5 Gym - Mochila Básica  Muje](https://images-eu.ssl-images-amazon.com/images/I/41MBPZEMzgL._SL200_.jpg)](https://www.amazon.es/dp/B07KZ1PN66/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KZ1PN66/?tag=tolees-21)

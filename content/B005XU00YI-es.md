@@ -22,7 +22,7 @@ Ahora mismo tienes [Emsa 508932 Jarra térmica  Acero Inoxidable  Negro  1 L](ht
 
 [![Emsa 508932 Jarra térmica  Acero Inoxida](https://images-eu.ssl-images-amazon.com/images/I/41mKgjGk0gL._SL200_.jpg)](https://www.amazon.es/dp/B005XU00YI/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B005XU00YI/?tag=tolees-21)

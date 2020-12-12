@@ -22,7 +22,7 @@ Ahora mismo tienes [Avengers PK1059 2018 Mochila Infantil  25 cm  Rojo](https://
 
 [![Avengers PK1059 2018 Mochila Infantil  2](https://images-eu.ssl-images-amazon.com/images/I/61GWjAL4nxL._SL200_.jpg)](https://www.amazon.es/dp/B07F67JJQQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F67JJQQ/?tag=tolees-21)

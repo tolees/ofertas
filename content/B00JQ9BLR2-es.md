@@ -22,7 +22,7 @@ Ahora mismo tienes [Superga 2750-macramew  Zapatillas de Gimnasia para Mujer  Ne
 
 [![Superga 2750-macramew  Zapatillas de Gim](https://images-eu.ssl-images-amazon.com/images/I/41TaT7-0VBL._SL200_.jpg)](https://www.amazon.es/dp/B00JQ9BLR2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00JQ9BLR2/?tag=tolees-21)

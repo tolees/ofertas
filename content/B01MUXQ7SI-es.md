@@ -22,7 +22,7 @@ Ahora mismo tienes [Sparco 00975NRAZ Silla de Despacho  Negro/Azul](https://www.
 
 [![Sparco 00975NRAZ Silla de Despacho  Negr](https://images-eu.ssl-images-amazon.com/images/I/41RUzrBYZBL._SL200_.jpg)](https://www.amazon.es/dp/B01MUXQ7SI/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MUXQ7SI/?tag=tolees-21)

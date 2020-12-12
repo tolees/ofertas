@@ -22,7 +22,7 @@ Ahora mismo tienes [David Jones - Cm5038  Bolsos de mano Mujer  Azul  L.Blue   1
 
 [![David Jones - Cm5038  Bolsos de mano Muj](https://images-eu.ssl-images-amazon.com/images/I/41lwuMUVg8L._SL200_.jpg)](https://www.amazon.es/dp/B07KCHD1QB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KCHD1QB/?tag=tolees-21)

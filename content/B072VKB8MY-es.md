@@ -22,7 +22,7 @@ Ahora mismo tienes [Decora Cuadro Cacerola de Acero Inoxidable – 1/2  32 x 
 
 [![Decora Cuadro Cacerola de Acero Inoxidab](https://images-eu.ssl-images-amazon.com/images/I/415s88acI8L._SL200_.jpg)](https://www.amazon.es/dp/B072VKB8MY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072VKB8MY/?tag=tolees-21)

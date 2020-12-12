@@ -22,7 +22,7 @@ Ahora mismo tienes [Quiksilver Estate Snow Pant  Hombre  Black Heather  L](https
 
 [![Quiksilver Estate Snow Pant  Hombre  Bla](https://images-eu.ssl-images-amazon.com/images/I/41dq%2B1hwY0L._SL200_.jpg)](https://www.amazon.es/dp/B07DHV7DSX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DHV7DSX/?tag=tolees-21)

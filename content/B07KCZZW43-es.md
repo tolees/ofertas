@@ -22,7 +22,7 @@ Ahora mismo tienes [Energy Beat Box 2+ Lightcube Granite  Beat Lights  TWS  Blue
 
 [![Energy Beat Box 2+ Lightcube Granite  Be](https://images-eu.ssl-images-amazon.com/images/I/51XaQbg59JL._SL200_.jpg)](https://www.amazon.es/dp/B07KCZZW43/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KCZZW43/?tag=tolees-21)

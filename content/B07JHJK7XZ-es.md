@@ -22,7 +22,7 @@ Ahora mismo tienes [Armani Exchange Bermuda Pantalones Cortos  Azul  Denim Indac
 
 [![Armani Exchange Bermuda Pantalones Corto](https://images-eu.ssl-images-amazon.com/images/I/31jX18N-YXL._SL200_.jpg)](https://www.amazon.es/dp/B07JHJK7XZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JHJK7XZ/?tag=tolees-21)

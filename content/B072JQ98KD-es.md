@@ -22,7 +22,7 @@ Ahora mismo tienes [Merrell Moab 2 Mid GTX  Botas de Senderismo para Hombre  Neg
 
 [![Merrell Moab 2 Mid GTX  Botas de Senderi](https://images-eu.ssl-images-amazon.com/images/I/41jIuEKt0LL._SL200_.jpg)](https://www.amazon.es/dp/B072JQ98KD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072JQ98KD/?tag=tolees-21)

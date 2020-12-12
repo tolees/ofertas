@@ -22,7 +22,7 @@ Ahora mismo tienes [Napapijri Bevora H Capucha  Verde  New Olive Green Gd6   XX-
 
 [![Napapijri Bevora H Capucha  Verde  New O](https://images-eu.ssl-images-amazon.com/images/I/41ywVQmVlnL._SL200_.jpg)](https://www.amazon.es/dp/B07L9NY7XZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07L9NY7XZ/?tag=tolees-21)

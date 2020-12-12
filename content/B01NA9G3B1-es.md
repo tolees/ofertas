@@ -22,7 +22,7 @@ Ahora mismo tienes [Asics Gel-Fujitrabuco 5  Zapatillas de Correr Mujer  Gris  M
 
 [![Asics Gel-Fujitrabuco 5  Zapatillas de C](https://images-eu.ssl-images-amazon.com/images/I/51Av7u7TmKL._SL200_.jpg)](https://www.amazon.es/dp/B01NA9G3B1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01NA9G3B1/?tag=tolees-21)

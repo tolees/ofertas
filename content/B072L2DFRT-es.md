@@ -22,7 +22,7 @@ Ahora mismo tienes [Runderwear Chafe-Free Performance Underwear Ropa Interior  H
 
 [![Runderwear Chafe-Free Performance Underw](https://images-eu.ssl-images-amazon.com/images/I/31kWkCRJ8jL._SL200_.jpg)](https://www.amazon.es/dp/B072L2DFRT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072L2DFRT/?tag=tolees-21)

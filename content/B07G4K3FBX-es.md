@@ -22,7 +22,7 @@ Ahora mismo tienes [Curtina - Cortinas con Ojales  100% poliéster  Color Ocre  
 
 [![Curtina - Cortinas con Ojales  100% poli](https://images-eu.ssl-images-amazon.com/images/I/51JzLaouz5L._SL200_.jpg)](https://www.amazon.es/dp/B07G4K3FBX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07G4K3FBX/?tag=tolees-21)

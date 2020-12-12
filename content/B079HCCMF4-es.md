@@ -22,7 +22,7 @@ Ahora mismo tienes [Tom Tailor 5872306  Botas Slouch para Niñas  Azul  Navy 000
 
 [![Tom Tailor 5872306  Botas Slouch para Ni](https://images-eu.ssl-images-amazon.com/images/I/41PGxprUBrL._SL200_.jpg)](https://www.amazon.es/dp/B079HCCMF4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079HCCMF4/?tag=tolees-21)

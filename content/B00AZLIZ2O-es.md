@@ -22,7 +22,7 @@ Ahora mismo tienes [Keter Excellence Armario XL escobero Arena/Gris](https://www
 
 [![Keter Excellence Armario XL escobero Are](https://images-eu.ssl-images-amazon.com/images/I/41dnnrZqiUL._SL200_.jpg)](https://www.amazon.es/dp/B00AZLIZ2O/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00AZLIZ2O/?tag=tolees-21)

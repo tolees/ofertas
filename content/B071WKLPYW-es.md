@@ -22,7 +22,7 @@ Ahora mismo tienes [Police Reloj Análogo clásico para Hombre de Cuarzo con Cor
 
 [![Police Reloj Análogo clásico para Hombre](https://images-eu.ssl-images-amazon.com/images/I/51-adGFSGSL._SL200_.jpg)](https://www.amazon.es/dp/B071WKLPYW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071WKLPYW/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Vans Old Skool Zip  Zapatillas Unisex Adulto  Verde  mlx  37
 
 [![Vans Old Skool Zip  Zapatillas Unisex Ad](https://images-eu.ssl-images-amazon.com/images/I/41C3IL41KeL._SL200_.jpg)](https://www.amazon.es/dp/B01LVVJ7SV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01LVVJ7SV/?tag=tolees-21)

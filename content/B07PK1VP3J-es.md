@@ -22,7 +22,7 @@ Ahora mismo tienes [GoPetee Piscina para Perros Mascotas Plegable Bañera para M
 
 [![GoPetee Piscina para Perros Mascotas Ple](https://images-eu.ssl-images-amazon.com/images/I/51emgC7Lv6L._SL200_.jpg)](https://www.amazon.es/dp/B07PK1VP3J/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07PK1VP3J/?tag=tolees-21)

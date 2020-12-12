@@ -22,7 +22,7 @@ Ahora mismo tienes [Bellota 3589-50 Tijera de poda Ligera viña](https://www.ama
 
 [![Bellota 3589-50 Tijera de poda Ligera vi](https://images-eu.ssl-images-amazon.com/images/I/31YJ09as0NL._SL200_.jpg)](https://www.amazon.es/dp/B00F2NH9PE/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00F2NH9PE/?tag=tolees-21)

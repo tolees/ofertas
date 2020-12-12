@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Axis Plus SD  Zapatillas de Deporte Unisex Adulto  Blan
 
 [![Puma Axis Plus SD  Zapatillas de Deporte](https://images-eu.ssl-images-amazon.com/images/I/41lTmRJGz8L._SL200_.jpg)](https://www.amazon.es/dp/B07JGPXP7Q/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JGPXP7Q/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Smash v2 SD V Inf  Zapatillas Unisex Niños  Azul  Peac
 
 [![Puma Smash v2 SD V Inf  Zapatillas Unise](https://images-eu.ssl-images-amazon.com/images/I/41PFshQ1lAL._SL200_.jpg)](https://www.amazon.es/dp/B077MJHZ15/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077MJHZ15/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Dockers by Gerli 41ju201  Botas Militar para Mujer  Amarillo
 
 [![Dockers by Gerli 41ju201  Botas Militar ](https://images-eu.ssl-images-amazon.com/images/I/41xVrHgmTAL._SL200_.jpg)](https://www.amazon.es/dp/B07DJG55KQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DJG55KQ/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Moschino Cheap & Chic Agua de Colonia - 30 ml](https://www.a
 
 [![Moschino Cheap & Chic Agua de Colonia - ](https://images-eu.ssl-images-amazon.com/images/I/41r4M0zOExL._SL200_.jpg)](https://www.amazon.es/dp/B0002KQGUG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0002KQGUG/?tag=tolees-21)

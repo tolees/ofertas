@@ -22,7 +22,7 @@ Ahora mismo tienes [Auriculares Bluetooth 5.0  Manos Libres Bluetooth Auriculare
 
 [![Auriculares Bluetooth 5.0  Manos Libres ](https://images-eu.ssl-images-amazon.com/images/I/31Vo2wCrqsL._SL200_.jpg)](https://www.amazon.es/dp/B07RX7FHJR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07RX7FHJR/?tag=tolees-21)

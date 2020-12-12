@@ -22,7 +22,7 @@ Ahora mismo tienes [Ultrasport  Pantalones deportivos 3/4 para Mujer  Negro/Nara
 
 [![Ultrasport  Pantalones deportivos 3/4 pa](https://images-eu.ssl-images-amazon.com/images/I/41-EUKdpAyL._SL200_.jpg)](https://www.amazon.es/dp/B008AGPOOS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B008AGPOOS/?tag=tolees-21)

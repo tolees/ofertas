@@ -22,7 +22,7 @@ Ahora mismo tienes [Columbia Peakfreak XCRSN II XCEL Low Outdry Hombre Zapatilla
 
 [![Columbia Peakfreak XCRSN II XCEL Low Out](https://images-eu.ssl-images-amazon.com/images/I/41KpbdPhINL._SL200_.jpg)](https://www.amazon.es/dp/B07K76MCF3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07K76MCF3/?tag=tolees-21)

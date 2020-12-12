@@ -22,7 +22,7 @@ Ahora mismo tienes [Therapearl Bolsa de Frio y Calor para Rodilla - 1 unidad](ht
 
 [![Therapearl Bolsa de Frio y Calor para Ro](https://images-eu.ssl-images-amazon.com/images/I/41c6mskmQOL._SL200_.jpg)](https://www.amazon.es/dp/B01BN1BW42/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01BN1BW42/?tag=tolees-21)

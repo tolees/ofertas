@@ -22,7 +22,7 @@ Ahora mismo tienes [SCHEFFLER-Home Lena 2 Fundas de sillas  Estirable Cubiertas 
 
 [![SCHEFFLER-Home Lena 2 Fundas de sillas  ](https://images-eu.ssl-images-amazon.com/images/I/31iVHez%2BszL._SL200_.jpg)](https://www.amazon.es/dp/B077HYWGQJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077HYWGQJ/?tag=tolees-21)

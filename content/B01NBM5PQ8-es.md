@@ -22,7 +22,7 @@ Ahora mismo tienes [avaner Hombres Casual cronógrafo Fecha Pantalla Cuarzo Relo
 
 [![avaner Hombres Casual cronógrafo Fecha P](https://images-eu.ssl-images-amazon.com/images/I/51vAWPVO4CL._SL200_.jpg)](https://www.amazon.es/dp/B01NBM5PQ8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01NBM5PQ8/?tag=tolees-21)

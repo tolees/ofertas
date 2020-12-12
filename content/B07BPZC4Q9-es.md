@@ -22,7 +22,7 @@ Ahora mismo tienes [homgeek  3.5L Freidora de Aire  sin Aceite  Saludable  Tempe
 
 [![homgeek  3.5L Freidora de Aire  sin Acei](https://images-eu.ssl-images-amazon.com/images/I/51pq13ZXWqL._SL200_.jpg)](https://www.amazon.es/dp/B07BPZC4Q9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BPZC4Q9/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Only Onlmira L/s Pullover Knt  suéter Mujer  Gris  Light Gr
 
 [![Only Onlmira L/s Pullover Knt  suéter Mu](https://images-eu.ssl-images-amazon.com/images/I/41eGRlUfi8L._SL200_.jpg)](https://www.amazon.es/dp/B071WFQ99C/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071WFQ99C/?tag=tolees-21)

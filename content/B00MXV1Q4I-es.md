@@ -22,7 +22,7 @@ Ahora mismo tienes [Razer DeathAdder Chroma - Ratón](https://www.amazon.es/dp/B
 
 [![Razer DeathAdder Chroma - Ratón](https://images-eu.ssl-images-amazon.com/images/I/41ORMrnBptL._SL200_.jpg)](https://www.amazon.es/dp/B00MXV1Q4I/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00MXV1Q4I/?tag=tolees-21)

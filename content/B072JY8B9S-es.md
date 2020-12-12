@@ -22,7 +22,7 @@ Ahora mismo tienes [FIND Pantalones Chino Regular Fit para Hombre  Rojo  Tawny P
 
 [![FIND Pantalones Chino Regular Fit para H](https://images-eu.ssl-images-amazon.com/images/I/4193QFx%2BVVL._SL200_.jpg)](https://www.amazon.es/dp/B072JY8B9S/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072JY8B9S/?tag=tolees-21)

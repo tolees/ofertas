@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour UA W Surge  Zapatillas de Running para Mujer  N
 
 [![Under Armour UA W Surge  Zapatillas de R](https://images-eu.ssl-images-amazon.com/images/I/41ici1Vx9uL._SL200_.jpg)](https://www.amazon.es/dp/B076S9W1XM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B076S9W1XM/?tag=tolees-21)

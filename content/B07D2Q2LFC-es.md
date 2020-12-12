@@ -22,7 +22,7 @@ Ahora mismo tienes [Gant Tonal Shield Full Zip Hoodie  Capucha Mujer  Azul  Even
 
 [![Gant Tonal Shield Full Zip Hoodie  Capuc](https://images-eu.ssl-images-amazon.com/images/I/412ydBozh9L._SL200_.jpg)](https://www.amazon.es/dp/B07D2Q2LFC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D2Q2LFC/?tag=tolees-21)

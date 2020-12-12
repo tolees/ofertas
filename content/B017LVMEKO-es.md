@@ -22,7 +22,7 @@ Ahora mismo tienes [EnGenius EnStationAC - Punto de Acceso  5GHz  802.11ac  Colo
 
 [![EnGenius EnStationAC - Punto de Acceso  ](https://images-eu.ssl-images-amazon.com/images/I/316QmPhP22L._SL200_.jpg)](https://www.amazon.es/dp/B017LVMEKO/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B017LVMEKO/?tag=tolees-21)

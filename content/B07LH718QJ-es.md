@@ -22,7 +22,7 @@ Ahora mismo tienes [MTNG Attitude 82600 - Zapatillas para hombre  Pila America N
 
 [![MTNG Attitude 82600 - Zapatillas para ho](https://images-eu.ssl-images-amazon.com/images/I/316TSuAkjmL._SL200_.jpg)](https://www.amazon.es/dp/B07LH718QJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07LH718QJ/?tag=tolees-21)

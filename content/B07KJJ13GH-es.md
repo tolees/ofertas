@@ -22,7 +22,7 @@ Ahora mismo tienes [Reebok Royal Glide  Zapatillas de Trail Running para Hombre 
 
 [![Reebok Royal Glide  Zapatillas de Trail ](https://images-eu.ssl-images-amazon.com/images/I/31fZEBNvVcL._SL200_.jpg)](https://www.amazon.es/dp/B07KJJ13GH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KJJ13GH/?tag=tolees-21)

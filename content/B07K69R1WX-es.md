@@ -22,7 +22,7 @@ Ahora mismo tienes [L Oréal Paris Rouge Signature 109 I Savor Pintalabios Mate 
 
 [![L Oréal Paris Rouge Signature 109 I Savo](https://images-eu.ssl-images-amazon.com/images/I/31-JxL8UvOL._SL200_.jpg)](https://www.amazon.es/dp/B07K69R1WX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07K69R1WX/?tag=tolees-21)

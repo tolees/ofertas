@@ -22,7 +22,7 @@ Ahora mismo tienes [Project Cars 2: Collector s Edition](https://www.amazon.es/d
 
 [![Project Cars 2: Collector s Edition](https://images-eu.ssl-images-amazon.com/images/I/51aqwuOmqAL._SL200_.jpg)](https://www.amazon.es/dp/B0722W3ZRV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0722W3ZRV/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [AEG RA 5588 N - Radiador de aceite  2000 W  9 elementos  pro
 
 [![AEG RA 5588 N - Radiador de aceite  2000](https://images-eu.ssl-images-amazon.com/images/I/413vWGFBV1L._SL200_.jpg)](https://www.amazon.es/dp/B005FLAEHI/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B005FLAEHI/?tag=tolees-21)

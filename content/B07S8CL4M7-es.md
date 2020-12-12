@@ -22,7 +22,7 @@ Ahora mismo tienes [YaYuu Correa de Reloj para Samsung Galaxy Watch Active 40mm/
 
 [![YaYuu Correa de Reloj para Samsung Galax](https://images-eu.ssl-images-amazon.com/images/I/51QLwbEoW0L._SL200_.jpg)](https://www.amazon.es/dp/B07S8CL4M7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07S8CL4M7/?tag=tolees-21)

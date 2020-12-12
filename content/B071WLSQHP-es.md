@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas X 17.2 FG  Botas de fútbol para Hombre  Negro  Negba
 
 [![adidas X 17.2 FG  Botas de fútbol para H](https://images-eu.ssl-images-amazon.com/images/I/519my6RW2RL._SL200_.jpg)](https://www.amazon.es/dp/B071WLSQHP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071WLSQHP/?tag=tolees-21)

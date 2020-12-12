@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma SHOKU Non-Knit BT  Zapatillas Unisex Adulto  Blanco Whi
 
 [![Puma SHOKU Non-Knit BT  Zapatillas Unise](https://images-eu.ssl-images-amazon.com/images/I/31rwG784uEL._SL200_.jpg)](https://www.amazon.es/dp/B07DCCHXR4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DCCHXR4/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW 3301 Deconstructed Skinny Jeans  Azul  lt Vintage
 
 [![G-STAR RAW 3301 Deconstructed Skinny Jea](https://images-eu.ssl-images-amazon.com/images/I/41htK5jPtXL._SL200_.jpg)](https://www.amazon.es/dp/B0752P6LXN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0752P6LXN/?tag=tolees-21)

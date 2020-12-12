@@ -22,7 +22,7 @@ Ahora mismo tienes [Mooer LITTLE MONSTER AC - Pedal de efectos](https://www.amaz
 
 [![Mooer LITTLE MONSTER AC - Pedal de efect](https://images-eu.ssl-images-amazon.com/images/I/51iZkrBlBKL._SL200_.jpg)](https://www.amazon.es/dp/B008LXWFRO/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B008LXWFRO/?tag=tolees-21)

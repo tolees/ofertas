@@ -22,7 +22,7 @@ Ahora mismo tienes [AVERMEDIA Live Gamer 4K  transmite vídeo y Juega con Puerto
 
 [![AVERMEDIA Live Gamer 4K  transmite vídeo](https://images-eu.ssl-images-amazon.com/images/I/518vzzUQ-8L._SL200_.jpg)](https://www.amazon.es/dp/B07DHSZC4K/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DHSZC4K/?tag=tolees-21)

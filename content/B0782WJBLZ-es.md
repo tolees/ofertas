@@ -22,7 +22,7 @@ Ahora mismo tienes [ViiNA GB Vi-brador Bolas Anales de 10 Frecuencia Pró-stata 
 
 [![ViiNA GB Vi-brador Bolas Anales de 10 Fr](https://images-eu.ssl-images-amazon.com/images/I/41qLb5dRkXL._SL200_.jpg)](https://www.amazon.es/dp/B0782WJBLZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0782WJBLZ/?tag=tolees-21)

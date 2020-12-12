@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Forest Grove  Zapatillas de Gimnasia para Hombre  43 
 
 [![adidas Forest Grove  Zapatillas de Gimna](https://images-eu.ssl-images-amazon.com/images/I/416hrB9w4sL._SL200_.jpg)](https://www.amazon.es/dp/B07JYKR7Q6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JYKR7Q6/?tag=tolees-21)

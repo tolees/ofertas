@@ -22,7 +22,7 @@ Ahora mismo tienes [Licor del Polo Dentífrico Frozen Senses Frescor Purificante
 
 [![Licor del Polo Dentífrico Frozen Senses ](https://images-eu.ssl-images-amazon.com/images/I/61xIYVKeRgL._SL200_.jpg)](https://www.amazon.es/dp/B071KCBGVB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071KCBGVB/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour HG Armour 2.0 Comp Short Pantalónes Cortos  Ho
 
 [![Under Armour HG Armour 2.0 Comp Short Pa](https://images-eu.ssl-images-amazon.com/images/I/41VBXQo1baL._SL200_.jpg)](https://www.amazon.es/dp/B077XNJV6M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077XNJV6M/?tag=tolees-21)

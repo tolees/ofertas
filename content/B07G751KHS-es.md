@@ -22,7 +22,7 @@ Ahora mismo tienes [Aspiradora Sin Cable 2 in 1 Aspirador Escoba 7500Pa Aspirado
 
 [![Aspiradora Sin Cable 2 in 1 Aspirador Es](https://images-eu.ssl-images-amazon.com/images/I/41DALJEtlCL._SL200_.jpg)](https://www.amazon.es/dp/B07G751KHS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07G751KHS/?tag=tolees-21)

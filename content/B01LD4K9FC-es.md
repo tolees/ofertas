@@ -22,7 +22,7 @@ Ahora mismo tienes [Levivo Set de Cocina con Soporte de Madera de Bambú - Conju
 
 [![Levivo Set de Cocina con Soporte de Made](https://images-eu.ssl-images-amazon.com/images/I/41PPP1zZt8L._SL200_.jpg)](https://www.amazon.es/dp/B01LD4K9FC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01LD4K9FC/?tag=tolees-21)

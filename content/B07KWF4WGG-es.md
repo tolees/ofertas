@@ -22,7 +22,7 @@ Ahora mismo tienes [Helly Hansen Tokyo T-Shirt  Hombre  Grey Mélange  L](https:
 
 [![Helly Hansen Tokyo T-Shirt  Hombre  Grey](https://images-eu.ssl-images-amazon.com/images/I/41wYRcUPLjL._SL200_.jpg)](https://www.amazon.es/dp/B07KWF4WGG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KWF4WGG/?tag=tolees-21)

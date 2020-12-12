@@ -22,7 +22,7 @@ Ahora mismo tienes [Amazon Essentials Regular-Fit 3/4 Sleeve Baseball T-Shirt no
 
 [![Amazon Essentials Regular-Fit 3/4 Sleeve](https://images-eu.ssl-images-amazon.com/images/I/31nX9kIqm0L._SL200_.jpg)](https://www.amazon.es/dp/B07HJ94C6T/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07HJ94C6T/?tag=tolees-21)

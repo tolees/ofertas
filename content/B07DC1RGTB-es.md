@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Astro Cup  Zapatillas Unisex Adulto  Marrón  Chestnut 
 
 [![Puma Astro Cup  Zapatillas Unisex Adulto](https://images-eu.ssl-images-amazon.com/images/I/417MO2K%2BpOL._SL200_.jpg)](https://www.amazon.es/dp/B07DC1RGTB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DC1RGTB/?tag=tolees-21)

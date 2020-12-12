@@ -22,7 +22,7 @@ Ahora mismo tienes [oodji Ultra Mujer Calcetines de Algodón  Pack de 6   Multic
 
 [![oodji Ultra Mujer Calcetines de Algodón ](https://images-eu.ssl-images-amazon.com/images/I/31iDWkqvRCL._SL200_.jpg)](https://www.amazon.es/dp/B07JCC4LRN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JCC4LRN/?tag=tolees-21)

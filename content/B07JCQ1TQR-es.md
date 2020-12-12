@@ -22,7 +22,7 @@ Ahora mismo tienes [COMFAST WiFi Repetidor Amplificador de WiFi 300Mbps Extensor
 
 [![COMFAST WiFi Repetidor Amplificador de W](https://images-eu.ssl-images-amazon.com/images/I/31P-eeAOVmL._SL200_.jpg)](https://www.amazon.es/dp/B07JCQ1TQR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JCQ1TQR/?tag=tolees-21)

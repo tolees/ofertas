@@ -22,7 +22,7 @@ Ahora mismo tienes [Hurley M CRONE Blocked Pullover Sudaderas  Hombre  Olive Can
 
 [![Hurley M CRONE Blocked Pullover Sudadera](https://images-eu.ssl-images-amazon.com/images/I/519nUZ-VyHL._SL200_.jpg)](https://www.amazon.es/dp/B07FF8T8WL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FF8T8WL/?tag=tolees-21)

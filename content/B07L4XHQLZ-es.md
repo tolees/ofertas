@@ -22,7 +22,7 @@ Ahora mismo tienes [Electronic-Star Takira V6 Patinete eléctrico • Plegable �
 
 [![Electronic-Star Takira V6 Patinete eléct](https://images-eu.ssl-images-amazon.com/images/I/41RAhcYS0nL._SL200_.jpg)](https://www.amazon.es/dp/B07L4XHQLZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07L4XHQLZ/?tag=tolees-21)

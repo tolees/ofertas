@@ -22,7 +22,7 @@ Ahora mismo tienes [Clarks Tri Spark  Zapatillas para Hombre  Verde  Khaki   39.
 
 [![Clarks Tri Spark  Zapatillas para Hombre](https://images-eu.ssl-images-amazon.com/images/I/41I8K09qa5L._SL200_.jpg)](https://www.amazon.es/dp/B07B94XJXW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07B94XJXW/?tag=tolees-21)

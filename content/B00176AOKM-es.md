@@ -22,7 +22,7 @@ Ahora mismo tienes [Umbra 020390-390 Aquala Bandeja para bañera Caddy Natural](
 
 [![Umbra 020390-390 Aquala Bandeja para bañ](https://images-eu.ssl-images-amazon.com/images/I/415K%2BAqeE4L._SL200_.jpg)](https://www.amazon.es/dp/B00176AOKM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00176AOKM/?tag=tolees-21)

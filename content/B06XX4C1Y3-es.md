@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance WL574EB  Zapatillas Mujer  Azul  WL574EN   37 EU
 
 [![New Balance WL574EB  Zapatillas Mujer  A](https://images-eu.ssl-images-amazon.com/images/I/41xtwGaPIUL._SL200_.jpg)](https://www.amazon.es/dp/B06XX4C1Y3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XX4C1Y3/?tag=tolees-21)

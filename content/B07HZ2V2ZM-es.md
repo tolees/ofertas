@@ -22,7 +22,7 @@ Ahora mismo tienes [TECNOCOLCHÓN Colchón Viscoelástico Visco Clinic 150 x 190
 
 [![TECNOCOLCHÓN Colchón Viscoelástico Visco](https://images-eu.ssl-images-amazon.com/images/I/51XaAYP5VoL._SL200_.jpg)](https://www.amazon.es/dp/B07HZ2V2ZM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07HZ2V2ZM/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance 928  Zapatillas para Hombre  Negro Black B3  45.
 
 [![New Balance 928  Zapatillas para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41zyCf00xNL._SL200_.jpg)](https://www.amazon.es/dp/B01MTQ8VT2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MTQ8VT2/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Element V  Zapatillas de Entrenamiento para Mujer  Ne
 
 [![adidas Element V  Zapatillas de Entrenam](https://images-eu.ssl-images-amazon.com/images/I/41H3jpk9SSL._SL200_.jpg)](https://www.amazon.es/dp/B073RL5MJ2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B073RL5MJ2/?tag=tolees-21)

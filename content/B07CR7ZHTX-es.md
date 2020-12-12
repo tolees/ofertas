@@ -22,7 +22,7 @@ Ahora mismo tienes [MY LITTLE BEAUTY Exfoliante Pies  Peeling Pies  Foot Mask Ma
 
 [![MY LITTLE BEAUTY Exfoliante Pies  Peelin](https://images-eu.ssl-images-amazon.com/images/I/51MuiKQD8JL._SL200_.jpg)](https://www.amazon.es/dp/B07CR7ZHTX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CR7ZHTX/?tag=tolees-21)

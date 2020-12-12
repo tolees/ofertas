@@ -22,7 +22,7 @@ Ahora mismo tienes [Tamaris 25742  Botas para Mujer  Negro  Black Velvet   38 EU
 
 [![Tamaris 25742  Botas para Mujer  Negro  ](https://images-eu.ssl-images-amazon.com/images/I/41%2BufJihMCL._SL200_.jpg)](https://www.amazon.es/dp/B072N8HTPB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072N8HTPB/?tag=tolees-21)

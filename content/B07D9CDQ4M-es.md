@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas X 18.4 FG  Zapatillas de Fútbol para Hombre  Amarill
 
 [![adidas X 18.4 FG  Zapatillas de Fútbol p](https://images-eu.ssl-images-amazon.com/images/I/411yWMy7GHL._SL200_.jpg)](https://www.amazon.es/dp/B07D9CDQ4M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D9CDQ4M/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Schneider Electric A9K17625 Interruptor Automático Magnetot
 
 [![Schneider Electric A9K17625 Interruptor ](https://images-eu.ssl-images-amazon.com/images/I/41lKk78zF-L._SL200_.jpg)](https://www.amazon.es/dp/B0146HZ9SU/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0146HZ9SU/?tag=tolees-21)

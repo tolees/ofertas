@@ -22,7 +22,7 @@ Ahora mismo tienes [Leds-c4 borneo - Luminaria colgante ventilador borneo e27 2x
 
 [![Leds-c4 borneo - Luminaria colgante vent]()](https://www.amazon.es/dp/B00CM36AO8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00CM36AO8/?tag=tolees-21)

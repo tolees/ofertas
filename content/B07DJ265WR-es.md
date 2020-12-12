@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance Flash v3  Zapatillas de Running para Hombre  Neg
 
 [![New Balance Flash v3  Zapatillas de Runn](https://images-eu.ssl-images-amazon.com/images/I/411-StBO22L._SL200_.jpg)](https://www.amazon.es/dp/B07DJ265WR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DJ265WR/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [UtoteBag Mochila Portátil 15.6 Pulgadas Mochilas para Orden
 
 [![UtoteBag Mochila Portátil 15.6 Pulgadas ](https://images-eu.ssl-images-amazon.com/images/I/31LtMnphXkL._SL200_.jpg)](https://www.amazon.es/dp/B07J2JB6W8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07J2JB6W8/?tag=tolees-21)

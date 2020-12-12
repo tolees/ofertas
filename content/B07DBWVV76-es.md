@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Smash Wns v2 SD  Zapatillas para Mujer  Rosa  Pale Pink
 
 [![Puma Smash Wns v2 SD  Zapatillas para Mu](https://images-eu.ssl-images-amazon.com/images/I/31V0K76ddDL._SL200_.jpg)](https://www.amazon.es/dp/B07DBWVV76/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DBWVV76/?tag=tolees-21)

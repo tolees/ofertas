@@ -22,7 +22,7 @@ Ahora mismo tienes [Berg Outdoor URRA Softshell Jacket  Hombre  Steel Grey  S](h
 
 [![Berg Outdoor URRA Softshell Jacket  Homb](https://images-eu.ssl-images-amazon.com/images/I/41PiNPRcbjL._SL200_.jpg)](https://www.amazon.es/dp/B07GT9T1FF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GT9T1FF/?tag=tolees-21)

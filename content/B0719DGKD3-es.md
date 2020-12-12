@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Suede XL Lace VR  Zapatillas para Mujer  Negro Black  4
 
 [![Puma Suede XL Lace VR  Zapatillas para M](https://images-eu.ssl-images-amazon.com/images/I/41-qzxdr0pL._SL200_.jpg)](https://www.amazon.es/dp/B0719DGKD3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0719DGKD3/?tag=tolees-21)

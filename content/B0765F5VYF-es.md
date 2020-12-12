@@ -22,7 +22,7 @@ Ahora mismo tienes [Esprit 018ee1i023  suéter Mujer   Off White 110   X-Small](
 
 [![Esprit 018ee1i023  suéter Mujer   Off Wh](https://images-eu.ssl-images-amazon.com/images/I/51O8EcK98yL._SL200_.jpg)](https://www.amazon.es/dp/B0765F5VYF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0765F5VYF/?tag=tolees-21)

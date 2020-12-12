@@ -22,7 +22,7 @@ Ahora mismo tienes [Pokemon JCC- Colección Poderes Supremos de Leyendas Luminos
 
 [![Pokemon JCC- Colección Poderes Supremos ](https://images-eu.ssl-images-amazon.com/images/I/51iHpYqa3RL._SL200_.jpg)](https://www.amazon.es/dp/B077VNVSLB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077VNVSLB/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Asics Gel-Kayano 24 GS  Zapatillas de Running Unisex niño  
 
 [![Asics Gel-Kayano 24 GS  Zapatillas de Ru](https://images-eu.ssl-images-amazon.com/images/I/51I1XFMw5eL._SL200_.jpg)](https://www.amazon.es/dp/B071GCDWQN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071GCDWQN/?tag=tolees-21)

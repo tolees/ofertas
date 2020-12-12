@@ -22,7 +22,7 @@ Ahora mismo tienes [Medisana HP 625 61140  Almohadilla Térmica  cojín de calor
 
 [![Medisana HP 625 61140  Almohadilla Térmi](https://images-eu.ssl-images-amazon.com/images/I/31b5-97%2BC-L._SL200_.jpg)](https://www.amazon.es/dp/B0188XP6LS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0188XP6LS/?tag=tolees-21)

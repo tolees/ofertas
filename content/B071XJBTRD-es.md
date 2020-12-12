@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES PREMIUM Jprstory Knit Crew Neck Noos suéter  G
 
 [![JACK & JONES PREMIUM Jprstory Knit Crew ](https://images-eu.ssl-images-amazon.com/images/I/51ZzKHSr6hL._SL200_.jpg)](https://www.amazon.es/dp/B071XJBTRD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071XJBTRD/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Emporio Armani Underwear 9p235 Tanga  Rosa Confetto 01372  3
 
 [![Emporio Armani Underwear 9p235 Tanga  Ro](https://images-eu.ssl-images-amazon.com/images/I/41IsWzdJUaL._SL200_.jpg)](https://www.amazon.es/dp/B07DQ6L7YL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DQ6L7YL/?tag=tolees-21)

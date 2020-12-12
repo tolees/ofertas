@@ -22,7 +22,7 @@ Ahora mismo tienes [Ringke Fusion-X Compatible con Funda Galaxy S10 Ergonómico 
 
 [![Ringke Fusion-X Compatible con Funda Gal](https://images-eu.ssl-images-amazon.com/images/I/41S80eDHJUL._SL200_.jpg)](https://www.amazon.es/dp/B07N8QV5XN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07N8QV5XN/?tag=tolees-21)

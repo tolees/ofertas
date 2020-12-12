@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers Side Street-tegu  Zapatillas para Mujer  Negro  Bla
 
 [![Skechers Side Street-tegu  Zapatillas pa](https://images-eu.ssl-images-amazon.com/images/I/41T4xK9lTZL._SL200_.jpg)](https://www.amazon.es/dp/B07CVGCYH1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CVGCYH1/?tag=tolees-21)

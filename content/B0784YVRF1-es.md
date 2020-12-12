@@ -22,7 +22,7 @@ Ahora mismo tienes [Reebok Astroride Future  Zapatillas de Trail Running para Ho
 
 [![Reebok Astroride Future  Zapatillas de T](https://images-eu.ssl-images-amazon.com/images/I/51AXgm%2Bnk0L._SL200_.jpg)](https://www.amazon.es/dp/B0784YVRF1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0784YVRF1/?tag=tolees-21)

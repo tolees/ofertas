@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Icra Trainer SD Zapatillas  Unisex adulto  Azul  Surf T
 
 [![Puma Icra Trainer SD Zapatillas  Unisex ](https://images-eu.ssl-images-amazon.com/images/I/41BVqbLKKNL._SL200_.jpg)](https://www.amazon.es/dp/B07DBZP43V/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DBZP43V/?tag=tolees-21)

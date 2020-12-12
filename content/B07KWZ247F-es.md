@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike Sportswear Leggings Pantalones  Mujer  Negro  Black/Uni
 
 [![Nike Sportswear Leggings Pantalones  Muj](https://images-eu.ssl-images-amazon.com/images/I/31TiWaVlhPL._SL200_.jpg)](https://www.amazon.es/dp/B07KWZ247F/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KWZ247F/?tag=tolees-21)

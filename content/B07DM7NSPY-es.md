@@ -22,7 +22,7 @@ Ahora mismo tienes [Michael Kors - Ana Medium Ew Bonded Tote  Bolsos totes Mujer
 
 [![Michael Kors - Ana Medium Ew Bonded Tote](https://images-eu.ssl-images-amazon.com/images/I/41JFEYtbLWL._SL200_.jpg)](https://www.amazon.es/dp/B07DM7NSPY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DM7NSPY/?tag=tolees-21)

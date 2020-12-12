@@ -22,7 +22,7 @@ Ahora mismo tienes [Recarga compatible multicapa con tratamiento inodoro para Sa
 
 [![Recarga compatible multicapa con tratami](https://images-eu.ssl-images-amazon.com/images/I/51woiASMLUL._SL200_.jpg)](https://www.amazon.es/dp/B00TXIC59O/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00TXIC59O/?tag=tolees-21)

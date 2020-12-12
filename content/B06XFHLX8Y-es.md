@@ -22,7 +22,7 @@ Ahora mismo tienes [La Tierra-Media: Sombras De Guerra](https://www.amazon.es/dp
 
 [![La Tierra-Media: Sombras De Guerra](http://images.amazon.com/images/P/B06XFHLX8Y.01._PI_SCMZZZZZZZ_._SL200_.jpg)](https://www.amazon.es/dp/B06XFHLX8Y/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XFHLX8Y/?tag=tolees-21)

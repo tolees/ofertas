@@ -22,7 +22,7 @@ Ahora mismo tienes [Reebok Trailgrip 6.0  Zapatillas de Senderismo para Mujer  G
 
 [![Reebok Trailgrip 6.0  Zapatillas de Send](https://images-eu.ssl-images-amazon.com/images/I/41LGs10RWKL._SL200_.jpg)](https://www.amazon.es/dp/B076GVPH1J/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B076GVPH1J/?tag=tolees-21)

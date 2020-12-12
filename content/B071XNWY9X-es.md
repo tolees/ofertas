@@ -22,7 +22,7 @@ Ahora mismo tienes [VIBOX FX-27 - Ordenador de sobremesa Gaming  USB  Intel Core
 
 [![VIBOX FX-27 - Ordenador de sobremesa Gam](https://images-eu.ssl-images-amazon.com/images/I/51kNCX7pEwL._SL200_.jpg)](https://www.amazon.es/dp/B071XNWY9X/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071XNWY9X/?tag=tolees-21)

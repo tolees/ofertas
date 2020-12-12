@@ -22,7 +22,7 @@ Ahora mismo tienes [Astan Hogar Bristol Ventilador de Sobremesa y Clip 2 In 1  A
 
 [![Astan Hogar Bristol Ventilador de Sobrem](https://images-eu.ssl-images-amazon.com/images/I/41Kdh-vRoLL._SL200_.jpg)](https://www.amazon.es/dp/B07CLXG1DV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CLXG1DV/?tag=tolees-21)

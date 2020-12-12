@@ -22,7 +22,7 @@ Ahora mismo tienes [La Toja Hidrotermal Crema de Afeitar Classic - 6 Unidades](h
 
 [![La Toja Hidrotermal Crema de Afeitar Cla](https://images-eu.ssl-images-amazon.com/images/I/41CkZHG6QVL._SL200_.jpg)](https://www.amazon.es/dp/B072N5MQNS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072N5MQNS/?tag=tolees-21)

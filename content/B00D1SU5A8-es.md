@@ -22,7 +22,7 @@ Ahora mismo tienes [Miniland Pack-2-Go Hermifresh - Herméticos de vacío con fu
 
 [![Miniland Pack-2-Go Hermifresh - Hermétic](https://images-eu.ssl-images-amazon.com/images/I/41p4UAx8INL._SL200_.jpg)](https://www.amazon.es/dp/B00D1SU5A8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00D1SU5A8/?tag=tolees-21)

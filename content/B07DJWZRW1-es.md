@@ -22,7 +22,7 @@ Ahora mismo tienes [Only Onllouisa L/s O-Neck Mix Swt  suéter Mujer   Black Det
 
 [![Only Onllouisa L/s O-Neck Mix Swt  suéte](https://images-eu.ssl-images-amazon.com/images/I/417UpAw97bL._SL200_.jpg)](https://www.amazon.es/dp/B07DJWZRW1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DJWZRW1/?tag=tolees-21)

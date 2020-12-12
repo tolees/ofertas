@@ -22,7 +22,7 @@ Ahora mismo tienes [Linternas  Enkarl Linterna LED Ultra Brillante de 400 Lúmen
 
 [![Linternas  Enkarl Linterna LED Ultra Bri](https://images-eu.ssl-images-amazon.com/images/I/51-t0a%2BF51L._SL200_.jpg)](https://www.amazon.es/dp/B07JMJH37C/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JMJH37C/?tag=tolees-21)

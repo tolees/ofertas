@@ -24,10 +24,10 @@ Tienes [CHIC&LOVE | Banda Facial Negra para Mujer con Diseño Original con Crist
 
 ℹ️:
 
+- ✅Diseñados en España y Confeccionados en Portugal bajo la norma UNE 0065.
+- 😃Calidad Máxima 100% Algodón . Mascarilla 3 capas, tejido certificado. Capa exterior / interior 100% algodón, capa intermedia TDT. Mascarilla sostenible. Tejido exterior e interior certificado por el organismo oficial CITIVE número de expediente 3969A/2020 y Oeko-tex 15000512.
 - Talla Única para Mujer
 - 💨Funcional también como Mascarillas antipolvo o cubrebocas. Apta para uso Infantil. 100% Lavables y reutilizables hasta 25 lavados.
-- 😃Calidad Máxima 100% Algodón . Mascarilla 3 capas, tejido certificado. Capa exterior / interior 100% algodón, capa intermedia TDT. Mascarilla sostenible. Tejido exterior e interior certificado por el organismo oficial CITIVE número de expediente 3969A/2020 y Oeko-tex 15000512.
-- ✅Diseñados en España y Confeccionados en Portugal bajo la norma UNE 0065.
 - 💧Lavable y Reutilizables hasta 25 lavados para Adulto. Mascara Bonita Fabricada en 100% Poliéster y algodon. Esto no es un Producto Sanitario ni de Protección Individual.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08D3G7ZBR/?tag=tolees-21)

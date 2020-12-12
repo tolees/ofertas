@@ -22,7 +22,7 @@ Ahora mismo tienes [Skip Active Clean Detergente Líquido 28 lavados - [Pack de 
 
 [![Skip Active Clean Detergente Líquido 28 ](https://images-eu.ssl-images-amazon.com/images/I/414UU8UGPxL._SL200_.jpg)](https://www.amazon.es/dp/B06Y2VHRVX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06Y2VHRVX/?tag=tolees-21)

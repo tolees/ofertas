@@ -22,7 +22,7 @@ Ahora mismo tienes [Keenstone Mochila para Portátil  Mochila Impermeable Mochil
 
 [![Keenstone Mochila para Portátil  Mochila](https://images-eu.ssl-images-amazon.com/images/I/41D5UvRqM0L._SL200_.jpg)](https://www.amazon.es/dp/B07QL5MFQ2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07QL5MFQ2/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Kärcher Pistola de riego Premium metal  2.645-270.0 ](https
 
 [![Kärcher Pistola de riego Premium metal  ](https://images-eu.ssl-images-amazon.com/images/I/41bhWt%2BosfL._SL200_.jpg)](https://www.amazon.es/dp/B017XAFXHY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B017XAFXHY/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Spaas 12 Velas Multiuso rústico Jengibre](https://www.amaz
 
 [![Spaas 12 Velas Multiuso rústico Jengibre](https://images-eu.ssl-images-amazon.com/images/I/41b7iBg7stL._SL200_.jpg)](https://www.amazon.es/dp/B07GBWWMW7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GBWWMW7/?tag=tolees-21)

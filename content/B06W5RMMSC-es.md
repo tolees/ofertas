@@ -22,7 +22,7 @@ Ahora mismo tienes [Adidas Climacool Cm By2345  Zapatillas para Hombre  Negro  B
 
 [![Adidas Climacool Cm By2345  Zapatillas p](https://images-eu.ssl-images-amazon.com/images/I/41%2BZTsguMcL._SL200_.jpg)](https://www.amazon.es/dp/B06W5RMMSC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06W5RMMSC/?tag=tolees-21)

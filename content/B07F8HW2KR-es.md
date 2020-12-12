@@ -22,7 +22,7 @@ Ahora mismo tienes [NACATIN Lámpara de Fuego Solar  1 unidad ](https://www.amaz
 
 [![NACATIN Lámpara de Fuego Solar  1 unidad](https://images-eu.ssl-images-amazon.com/images/I/51GIFEAYf-L._SL200_.jpg)](https://www.amazon.es/dp/B07F8HW2KR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F8HW2KR/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Stanley Pantalones  Verde  Dark Khaki Green 785  
 
 [![Pepe Jeans Stanley Pantalones  Verde  Da](https://images-eu.ssl-images-amazon.com/images/I/312TenzD5TL._SL200_.jpg)](https://www.amazon.es/dp/B07KDJ58BP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KDJ58BP/?tag=tolees-21)

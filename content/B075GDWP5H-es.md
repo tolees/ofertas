@@ -22,7 +22,7 @@ Ahora mismo tienes [LANGRIA Manta de Bebé Unisex Reversible de Topitos para Est
 
 [![LANGRIA Manta de Bebé Unisex Reversible ](https://images-eu.ssl-images-amazon.com/images/I/41vNuO5mqHL._SL200_.jpg)](https://www.amazon.es/dp/B075GDWP5H/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075GDWP5H/?tag=tolees-21)

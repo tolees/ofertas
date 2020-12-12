@@ -22,7 +22,7 @@ Ahora mismo tienes [Le Coq Sportif Alice S/Nylon  Zapatillas para Mujer  Blanco 
 
 [![Le Coq Sportif Alice S/Nylon  Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/41dxcvjCAbL._SL200_.jpg)](https://www.amazon.es/dp/B01N95DE8K/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N95DE8K/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [SYROKAN - Sujetador Deportivo con Aros Espalda Deportiva Sin
 
 [![SYROKAN - Sujetador Deportivo con Aros E](https://images-eu.ssl-images-amazon.com/images/I/41XFVTyDbTL._SL200_.jpg)](https://www.amazon.es/dp/B011NUJ0VA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B011NUJ0VA/?tag=tolees-21)

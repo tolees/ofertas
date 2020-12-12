@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s Linden Cinturón  Negro  R Black 59   100 para Hombre
 
 [![Levi s Linden Cinturón  Negro  R Black 5](https://images-eu.ssl-images-amazon.com/images/I/31vCCljtGjL._SL200_.jpg)](https://www.amazon.es/dp/B06ZYTTFB2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06ZYTTFB2/?tag=tolees-21)

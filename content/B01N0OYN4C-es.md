@@ -22,7 +22,7 @@ Ahora mismo tienes [Retro Gaming - Player S Kit 6 En 1  PS4 ](https://www.amazon
 
 [![Retro Gaming - Player S Kit 6 En 1  PS4 ](https://images-eu.ssl-images-amazon.com/images/I/51MCZFLH-RL._SL200_.jpg)](https://www.amazon.es/dp/B01N0OYN4C/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N0OYN4C/?tag=tolees-21)

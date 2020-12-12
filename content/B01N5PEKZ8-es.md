@@ -22,7 +22,7 @@ Ahora mismo tienes [Kempa Gecko Balón de Juego y Entrenamiento  niños  Verde  
 
 [![Kempa Gecko Balón de Juego y Entrenamien](https://images-eu.ssl-images-amazon.com/images/I/51kgkeAn5ZL._SL200_.jpg)](https://www.amazon.es/dp/B01N5PEKZ8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N5PEKZ8/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Matar A Un Ruiseñor - Edición Metálica Limitada [Blu-ray]
 
 [![Matar A Un Ruiseñor - Edición Metálica L](https://images-eu.ssl-images-amazon.com/images/I/41L5v3awwSL._SL200_.jpg)](https://www.amazon.es/dp/B074WHDCCN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074WHDCCN/?tag=tolees-21)

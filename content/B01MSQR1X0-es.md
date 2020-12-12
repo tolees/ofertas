@@ -22,7 +22,7 @@ Ahora mismo tienes [Adidas Tubular Shadow  Zapatillas para Hombre  Marrón  Clea
 
 [![Adidas Tubular Shadow  Zapatillas para H](https://images-eu.ssl-images-amazon.com/images/I/51pSy1LjmsL._SL200_.jpg)](https://www.amazon.es/dp/B01MSQR1X0/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MSQR1X0/?tag=tolees-21)

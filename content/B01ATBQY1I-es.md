@@ -22,7 +22,7 @@ Ahora mismo tienes [The North Face Hose W Exploration Convertible Pants  Pantalo
 
 [![The North Face Hose W Exploration Conver](https://images-eu.ssl-images-amazon.com/images/I/41kc9BYiAcL._SL200_.jpg)](https://www.amazon.es/dp/B01ATBQY1I/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01ATBQY1I/?tag=tolees-21)

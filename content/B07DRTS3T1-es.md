@@ -22,7 +22,7 @@ Ahora mismo tienes [Diadora Action +3 W  Zapatillas de Running para Mujer  Azul 
 
 [![Diadora Action +3 W  Zapatillas de Runni](https://images-eu.ssl-images-amazon.com/images/I/51g6NlZxpLL._SL200_.jpg)](https://www.amazon.es/dp/B07DRTS3T1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DRTS3T1/?tag=tolees-21)

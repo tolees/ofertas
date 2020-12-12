@@ -22,7 +22,7 @@ Ahora mismo tienes [San Ignacio Gourmet Grill  Aluminio  Gris  28 cm](https://ww
 
 [![San Ignacio Gourmet Grill  Aluminio  Gri](https://images-eu.ssl-images-amazon.com/images/I/31KaZETegHL._SL200_.jpg)](https://www.amazon.es/dp/B01N8P2RML/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N8P2RML/?tag=tolees-21)

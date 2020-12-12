@@ -22,7 +22,7 @@ Ahora mismo tienes [Salomon Trailster  Zapatillas de Trail Running para Hombre  
 
 [![Salomon Trailster  Zapatillas de Trail R](https://images-eu.ssl-images-amazon.com/images/I/41bFQvHOcRL._SL200_.jpg)](https://www.amazon.es/dp/B07BS1BQHP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BS1BQHP/?tag=tolees-21)

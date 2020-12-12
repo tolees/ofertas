@@ -22,7 +22,7 @@ Ahora mismo tienes [Clarks Cabrini Cove  Botas de Nieve para Mujer  Gris  Khaki 
 
 [![Clarks Cabrini Cove  Botas de Nieve para](https://images-eu.ssl-images-amazon.com/images/I/41Ghfp3P0aL._SL200_.jpg)](https://www.amazon.es/dp/B07BCQKNS1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BCQKNS1/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Quttin Cuchillo Cocinero  Acero Inoxidable  Centimeters](htt
 
 [![Quttin Cuchillo Cocinero  Acero Inoxidab](https://images-eu.ssl-images-amazon.com/images/I/21MC-jBJ6vL._SL200_.jpg)](https://www.amazon.es/dp/B00WMRMNV8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00WMRMNV8/?tag=tolees-21)

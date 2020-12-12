@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers You Define-Passion  Zapatillas sin Cordones para Mu
 
 [![Skechers You Define-Passion  Zapatillas ](https://images-eu.ssl-images-amazon.com/images/I/41LoGaQiU1L._SL200_.jpg)](https://www.amazon.es/dp/B078GN8QJD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078GN8QJD/?tag=tolees-21)

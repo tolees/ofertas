@@ -22,7 +22,7 @@ Ahora mismo tienes [Yihua estacion de soldadura digital SMD Kit del Soldador El�
 
 [![Yihua estacion de soldadura digital SMD ](https://images-eu.ssl-images-amazon.com/images/I/415hVaiQsXL._SL200_.jpg)](https://www.amazon.es/dp/B074Z84TDL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074Z84TDL/?tag=tolees-21)

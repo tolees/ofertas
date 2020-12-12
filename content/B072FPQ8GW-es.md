@@ -22,7 +22,7 @@ Ahora mismo tienes [CASUAL FRIDAY 20501298-Camiseta Hombre Blanco  Bright White 
 
 [![CASUAL FRIDAY 20501298-Camiseta Hombre B](https://images-eu.ssl-images-amazon.com/images/I/41OFKmdUo8L._SL200_.jpg)](https://www.amazon.es/dp/B072FPQ8GW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072FPQ8GW/?tag=tolees-21)

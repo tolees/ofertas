@@ -22,7 +22,7 @@ Ahora mismo tienes [New Look Core Zip Through  Capucha para Hombre  Azul  Navy  
 
 [![New Look Core Zip Through  Capucha para ](https://images-eu.ssl-images-amazon.com/images/I/41D81DPGzKL._SL200_.jpg)](https://www.amazon.es/dp/B07GBLGRT1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GBLGRT1/?tag=tolees-21)

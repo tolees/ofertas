@@ -22,7 +22,7 @@ Ahora mismo tienes [Cressi Reaction - Aletas de buceo de surf y natación  tama�
 
 [![Cressi Reaction - Aletas de buceo de sur](https://images-eu.ssl-images-amazon.com/images/I/41G3Lof6PhL._SL200_.jpg)](https://www.amazon.es/dp/B000VLOXE2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B000VLOXE2/?tag=tolees-21)

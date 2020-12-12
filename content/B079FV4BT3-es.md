@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Pacer Next SB WTR  Zapatillas Altas Unisex Adulto  Verd
 
 [![Puma Pacer Next SB WTR  Zapatillas Altas](https://images-eu.ssl-images-amazon.com/images/I/41g1Q5MQiSL._SL200_.jpg)](https://www.amazon.es/dp/B079FV4BT3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079FV4BT3/?tag=tolees-21)

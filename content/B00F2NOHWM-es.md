@@ -22,7 +22,7 @@ Ahora mismo tienes [Bellota 50101100 - Nivel tubular  560 g  1000 x 50 x 20 mm](
 
 [![Bellota 50101100 - Nivel tubular  560 g ](https://images-eu.ssl-images-amazon.com/images/I/31Xuq8RIjUL._SL200_.jpg)](https://www.amazon.es/dp/B00F2NOHWM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00F2NOHWM/?tag=tolees-21)

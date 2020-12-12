@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike Wmns Tanjun Racer  Zapatillas de Running para Mujer  Gr
 
 [![Nike Wmns Tanjun Racer  Zapatillas de Ru](https://images-eu.ssl-images-amazon.com/images/I/41GDrw64ZKL._SL200_.jpg)](https://www.amazon.es/dp/B005R45DXS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B005R45DXS/?tag=tolees-21)

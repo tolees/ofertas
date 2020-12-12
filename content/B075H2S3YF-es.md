@@ -22,7 +22,7 @@ Ahora mismo tienes [Cámara Polaroid 600](https://www.amazon.es/dp/B075H2S3YF/?t
 
 [![Cámara Polaroid 600](https://images-eu.ssl-images-amazon.com/images/I/41V%2BHWpf5ZL._SL200_.jpg)](https://www.amazon.es/dp/B075H2S3YF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075H2S3YF/?tag=tolees-21)

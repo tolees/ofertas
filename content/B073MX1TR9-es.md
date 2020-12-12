@@ -22,7 +22,7 @@ Ahora mismo tienes [Only Onlsway L/s Pullover Knt Noos  suéter para Mujer  Verd
 
 [![Only Onlsway L/s Pullover Knt Noos  suét](https://images-eu.ssl-images-amazon.com/images/I/41LIXVec41L._SL200_.jpg)](https://www.amazon.es/dp/B073MX1TR9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B073MX1TR9/?tag=tolees-21)

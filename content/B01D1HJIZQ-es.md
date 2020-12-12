@@ -22,7 +22,7 @@ Ahora mismo tienes [Samsonite  X Blade 3.0 -  Spinner  Negro  Black   L  71cm-90
 
 [![Samsonite  X Blade 3.0 -  Spinner  Negro](https://images-eu.ssl-images-amazon.com/images/I/41zYDxNE8zL._SL200_.jpg)](https://www.amazon.es/dp/B01D1HJIZQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01D1HJIZQ/?tag=tolees-21)

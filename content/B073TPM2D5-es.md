@@ -22,7 +22,7 @@ Ahora mismo tienes [Redención  Southpaw  [Blu-ray]](https://www.amazon.es/dp/B0
 
 [![Redención  Southpaw  [Blu-ray]](https://images-eu.ssl-images-amazon.com/images/I/518FbxEJq4L._SL200_.jpg)](https://www.amazon.es/dp/B073TPM2D5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B073TPM2D5/?tag=tolees-21)

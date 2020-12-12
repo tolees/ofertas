@@ -22,7 +22,7 @@ Ahora mismo tienes [Shiseido 61260 - Crema  30 ml](https://www.amazon.es/dp/B00S
 
 [![Shiseido 61260 - Crema  30 ml](https://images-eu.ssl-images-amazon.com/images/I/41qADhd0jTL._SL200_.jpg)](https://www.amazon.es/dp/B00SP77GRK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00SP77GRK/?tag=tolees-21)

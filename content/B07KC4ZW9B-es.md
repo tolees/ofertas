@@ -22,7 +22,7 @@ Ahora mismo tienes [CYOUH Raqueta Mosquitos Recargable  Raqueta Mosquitos Electr
 
 [![CYOUH Raqueta Mosquitos Recargable  Raqu](https://images-eu.ssl-images-amazon.com/images/I/51rP75GuBgL._SL200_.jpg)](https://www.amazon.es/dp/B07KC4ZW9B/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KC4ZW9B/?tag=tolees-21)

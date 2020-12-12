@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jfwstoke Leather Boot Honey  Botas Estilo Moter
 
 [![JACK & JONES Jfwstoke Leather Boot Honey](https://images-eu.ssl-images-amazon.com/images/I/41tH%2B98qBML._SL200_.jpg)](https://www.amazon.es/dp/B07C7VRDTK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07C7VRDTK/?tag=tolees-21)

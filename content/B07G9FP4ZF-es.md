@@ -22,7 +22,7 @@ Ahora mismo tienes [COMLIFE Calefactor Eléctrico Cerámico Oscilación Automát
 
 [![COMLIFE Calefactor Eléctrico Cerámico Os](https://images-eu.ssl-images-amazon.com/images/I/41v-F7KHY7L._SL200_.jpg)](https://www.amazon.es/dp/B07G9FP4ZF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07G9FP4ZF/?tag=tolees-21)

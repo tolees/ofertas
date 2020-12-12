@@ -22,7 +22,7 @@ Ahora mismo tienes [XSHL Tejido de Cortina de Ducha Sets  Resistente al Agua Dig
 
 [![XSHL Tejido de Cortina de Ducha Sets  Re](https://images-eu.ssl-images-amazon.com/images/I/51pINRuT-rL._SL200_.jpg)](https://www.amazon.es/dp/B07F1NXQJG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F1NXQJG/?tag=tolees-21)

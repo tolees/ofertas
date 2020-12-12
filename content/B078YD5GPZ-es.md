@@ -22,7 +22,7 @@ Ahora mismo tienes [Looc Cámara Deportiva 4k Cámara de Acción WiFi Sumergible
 
 [![Looc Cámara Deportiva 4k Cámara de Acció](https://images-eu.ssl-images-amazon.com/images/I/51BzhVlEFhL._SL200_.jpg)](https://www.amazon.es/dp/B078YD5GPZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078YD5GPZ/?tag=tolees-21)

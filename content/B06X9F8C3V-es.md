@@ -22,7 +22,7 @@ Ahora mismo tienes [Tuscany Silver Pendientes con plata de ley chapados en rodio
 
 [![Tuscany Silver Pendientes con plata de l](https://images-eu.ssl-images-amazon.com/images/I/41kI7CCHI1L._SL200_.jpg)](https://www.amazon.es/dp/B06X9F8C3V/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06X9F8C3V/?tag=tolees-21)

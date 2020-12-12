@@ -22,7 +22,7 @@ Ahora mismo tienes [find. Lace Up Capucha Para Mujer  Verde  Khaki   40  Talla d
 
 [![find. Lace Up Capucha Para Mujer  Verde ](https://images-eu.ssl-images-amazon.com/images/I/414XUqPWc1L._SL200_.jpg)](https://www.amazon.es/dp/B01MTYXKU4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MTYXKU4/?tag=tolees-21)

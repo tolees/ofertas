@@ -22,7 +22,7 @@ Ahora mismo tienes [smartect Protector de Pantalla para LG V30 [2 Unidades] - 9H
 
 [![smartect Protector de Pantalla para LG V](https://images-eu.ssl-images-amazon.com/images/I/41F15LbDdDL._SL200_.jpg)](https://www.amazon.es/dp/B07Q8T5PMW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07Q8T5PMW/?tag=tolees-21)

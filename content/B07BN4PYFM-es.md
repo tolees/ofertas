@@ -22,7 +22,7 @@ Ahora mismo tienes [Vans Ward Slip-on  Zapatillas Unisex Niños  Rojo   Canvas  
 
 [![Vans Ward Slip-on  Zapatillas Unisex Niñ](https://images-eu.ssl-images-amazon.com/images/I/51QIdZCjzAL._SL200_.jpg)](https://www.amazon.es/dp/B07BN4PYFM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BN4PYFM/?tag=tolees-21)

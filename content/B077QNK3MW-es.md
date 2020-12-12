@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas NMD_R2  Zapatillas para Mujer  Gris  Vapour F16/Vapou
 
 [![adidas NMD_R2  Zapatillas para Mujer  Gr](https://images-eu.ssl-images-amazon.com/images/I/41%2B9f1Q4YFL._SL200_.jpg)](https://www.amazon.es/dp/B077QNK3MW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077QNK3MW/?tag=tolees-21)

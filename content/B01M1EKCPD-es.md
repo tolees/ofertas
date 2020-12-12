@@ -22,7 +22,7 @@ Ahora mismo tienes [Alcatel Shine 5080X - Smartphone  RAM de 2 GB  Memoria Inter
 
 [![Alcatel Shine 5080X - Smartphone  RAM de](https://images-eu.ssl-images-amazon.com/images/I/41SI7WHNkFL._SL200_.jpg)](https://www.amazon.es/dp/B01M1EKCPD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01M1EKCPD/?tag=tolees-21)

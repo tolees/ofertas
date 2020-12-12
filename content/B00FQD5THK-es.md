@@ -22,7 +22,7 @@ Ahora mismo tienes [Bestway My First Fast Set Pool Piscina  150x38x75 cm](https:
 
 [![Bestway My First Fast Set Pool Piscina  ](https://images-eu.ssl-images-amazon.com/images/I/41%2BUPUDk-lL._SL200_.jpg)](https://www.amazon.es/dp/B00FQD5THK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00FQD5THK/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Wrangler Chino  Pantalones para Hombre  Marrón  Camel Washe
 
 [![Wrangler Chino  Pantalones para Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/415c25K-t2L._SL200_.jpg)](https://www.amazon.es/dp/B078HCYSJ2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078HCYSJ2/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Dafor Riazor AG  Talla: 40 ](https://www.amazon.es/dp/B07H15
 
 [![Dafor Riazor AG  Talla: 40 ](https://images-eu.ssl-images-amazon.com/images/I/417nfmqWq1L._SL200_.jpg)](https://www.amazon.es/dp/B07H15F7JB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07H15F7JB/?tag=tolees-21)

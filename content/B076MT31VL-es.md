@@ -22,7 +22,7 @@ Ahora mismo tienes [Salomon Military Flex  Gorra Hombre  Marrón  Walnut   Talla
 
 [![Salomon Military Flex  Gorra Hombre  Mar](https://images-eu.ssl-images-amazon.com/images/I/5136s8l02oL._SL200_.jpg)](https://www.amazon.es/dp/B076MT31VL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B076MT31VL/?tag=tolees-21)

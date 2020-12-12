@@ -22,7 +22,7 @@ Ahora mismo tienes [Petsure Cama para Perros Medianos y Grandes 95x70x16cm L  Ma
 
 [![Petsure Cama para Perros Medianos y Gran](https://images-eu.ssl-images-amazon.com/images/I/41a2JLZXY7L._SL200_.jpg)](https://www.amazon.es/dp/B07MKTY7SJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MKTY7SJ/?tag=tolees-21)

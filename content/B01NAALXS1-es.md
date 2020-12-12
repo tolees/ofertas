@@ -22,7 +22,7 @@ Ahora mismo tienes [Pioneer SE-MS5T-T - Auriculares de tipo diadema  HiRes  powe
 
 [![Pioneer SE-MS5T-T - Auriculares de tipo ](https://images-eu.ssl-images-amazon.com/images/I/41mqlCpQ3uL._SL200_.jpg)](https://www.amazon.es/dp/B01NAALXS1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01NAALXS1/?tag=tolees-21)

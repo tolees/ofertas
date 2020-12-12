@@ -22,7 +22,7 @@ Ahora mismo tienes [Newskill kimera v2 - Auricular de Gaming  RGB  16m Colores  
 
 [![Newskill kimera v2 - Auricular de Gaming](https://images-eu.ssl-images-amazon.com/images/I/41Dhw9lx2UL._SL200_.jpg)](https://www.amazon.es/dp/B07JCKKCS1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JCKKCS1/?tag=tolees-21)

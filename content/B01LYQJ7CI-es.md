@@ -22,7 +22,7 @@ Ahora mismo tienes [Arlo Accesorio oficial - Kit de 3 Fundas de Silicona para c�
 
 [![Arlo Accesorio oficial - Kit de 3 Fundas](https://images-eu.ssl-images-amazon.com/images/I/315fKcmrAzL._SL200_.jpg)](https://www.amazon.es/dp/B01LYQJ7CI/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01LYQJ7CI/?tag=tolees-21)

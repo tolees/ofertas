@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance 574S v2  Zapatillas para Hombre  Negro  Black/NB
 
 [![New Balance 574S v2  Zapatillas para Hom](https://images-eu.ssl-images-amazon.com/images/I/41Zxe3f51-L._SL200_.jpg)](https://www.amazon.es/dp/B07D7CWPKZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D7CWPKZ/?tag=tolees-21)

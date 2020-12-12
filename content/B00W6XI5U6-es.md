@@ -22,7 +22,7 @@ Ahora mismo tienes [Dakine Wonder Mochila Poliéster Negro - Mochila para portá
 
 [![Dakine Wonder Mochila Poliéster Negro - ](https://images-eu.ssl-images-amazon.com/images/I/41f-%2BjsNZIL._SL200_.jpg)](https://www.amazon.es/dp/B00W6XI5U6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00W6XI5U6/?tag=tolees-21)

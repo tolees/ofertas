@@ -22,7 +22,7 @@ Ahora mismo tienes [Adidas N-5923  Zapatillas de Gimnasia para Hombre  Azul Coll
 
 [![Adidas N-5923  Zapatillas de Gimnasia pa](https://images-eu.ssl-images-amazon.com/images/I/41SL498gAdL._SL200_.jpg)](https://www.amazon.es/dp/B07JZPH1DD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JZPH1DD/?tag=tolees-21)

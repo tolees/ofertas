@@ -22,7 +22,7 @@ Ahora mismo tienes [TACKLIFE Manguera de jardín Divisor  1 Way Divisor de jard�
 
 [![TACKLIFE Manguera de jardín Divisor  1 W](https://images-eu.ssl-images-amazon.com/images/I/41dkOH9ihnL._SL200_.jpg)](https://www.amazon.es/dp/B07PP9TP7Y/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07PP9TP7Y/?tag=tolees-21)

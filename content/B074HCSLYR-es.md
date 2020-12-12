@@ -22,7 +22,7 @@ Ahora mismo tienes [LPB Woman - Sac  Bolsos totes Mujer  Gris  35x29x45 cm  W x 
 
 [![LPB Woman - Sac  Bolsos totes Mujer  Gri](https://images-eu.ssl-images-amazon.com/images/I/41wL8-q6B1L._SL200_.jpg)](https://www.amazon.es/dp/B074HCSLYR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074HCSLYR/?tag=tolees-21)

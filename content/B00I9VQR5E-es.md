@@ -22,7 +22,7 @@ Ahora mismo tienes [PRINCE Antivibrador Logo P Damp  Jar 50  Varios](https://www
 
 [![PRINCE Antivibrador Logo P Damp  Jar 50 ](https://images-eu.ssl-images-amazon.com/images/I/51OsTbze5pL._SL200_.jpg)](https://www.amazon.es/dp/B00I9VQR5E/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00I9VQR5E/?tag=tolees-21)

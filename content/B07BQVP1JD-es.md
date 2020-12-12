@@ -22,7 +22,7 @@ Ahora mismo tienes [Kelme Olimpo JR  Zapatillas de fútbol Sala para Niños   Bl
 
 [![Kelme Olimpo JR  Zapatillas de fútbol Sa](https://images-eu.ssl-images-amazon.com/images/I/31z0A0jMB-L._SL200_.jpg)](https://www.amazon.es/dp/B07BQVP1JD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BQVP1JD/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW 5620 3D Tapered Colored Jeans  Beige  Khaki 8442-
 
 [![G-STAR RAW 5620 3D Tapered Colored Jeans](https://images-eu.ssl-images-amazon.com/images/I/41SrTGFVkcL._SL200_.jpg)](https://www.amazon.es/dp/B01NCKLD1C/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01NCKLD1C/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Cailler  Galleta fresca de oblea  con almendras 8% y miel 6%
 
 [![Cailler  Galleta fresca de oblea  con al](https://images-eu.ssl-images-amazon.com/images/I/41%2B2J6P2ptL._SL200_.jpg)](https://www.amazon.es/dp/B004W0Z4WI/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B004W0Z4WI/?tag=tolees-21)

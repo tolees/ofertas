@@ -22,7 +22,7 @@ Ahora mismo tienes [Reebok Speedlux 3.0  Zapatillas de Entrenamiento para Hombre
 
 [![Reebok Speedlux 3.0  Zapatillas de Entre](https://images-eu.ssl-images-amazon.com/images/I/41Gfq4LhGfL._SL200_.jpg)](https://www.amazon.es/dp/B07D2NM5WV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D2NM5WV/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Etnies Scout XT  Zapatillas de Skateboard para Hombre  Gris 
 
 [![Etnies Scout XT  Zapatillas de Skateboar](https://images-eu.ssl-images-amazon.com/images/I/41L9RO-lybL._SL200_.jpg)](https://www.amazon.es/dp/B0791RLTJV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0791RLTJV/?tag=tolees-21)

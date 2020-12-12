@@ -22,7 +22,7 @@ Ahora mismo tienes [Asics Gel-Game 6  Zapatillas de Tenis para Hombre  Blanco  W
 
 [![Asics Gel-Game 6  Zapatillas de Tenis pa](https://images-eu.ssl-images-amazon.com/images/I/414VXC19t8L._SL200_.jpg)](https://www.amazon.es/dp/B07D1K18BK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D1K18BK/?tag=tolees-21)

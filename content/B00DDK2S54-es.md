@@ -22,7 +22,7 @@ Ahora mismo tienes [Case Logic TS113 - Funda tipo sleeve para portátil de  30 c
 
 [![Case Logic TS113 - Funda tipo sleeve par](https://images-eu.ssl-images-amazon.com/images/I/41l0X73XUPL._SL200_.jpg)](https://www.amazon.es/dp/B00DDK2S54/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00DDK2S54/?tag=tolees-21)

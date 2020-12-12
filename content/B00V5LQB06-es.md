@@ -22,7 +22,7 @@ Ahora mismo tienes [Kempa Teamline - Bolsa de Deportes Negro y Azul Talla:Large]
 
 [![Kempa Teamline - Bolsa de Deportes Negro](https://images-eu.ssl-images-amazon.com/images/I/41Cg5sfSTzL._SL200_.jpg)](https://www.amazon.es/dp/B00V5LQB06/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00V5LQB06/?tag=tolees-21)

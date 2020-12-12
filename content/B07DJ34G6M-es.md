@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance 410  Zapatillas Unisex Adulto  Verde  Chalkboard
 
 [![New Balance 410  Zapatillas Unisex Adult](https://images-eu.ssl-images-amazon.com/images/I/41xP4KbG0zL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ34G6M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DJ34G6M/?tag=tolees-21)

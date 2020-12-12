@@ -22,7 +22,7 @@ Ahora mismo tienes [Cross Townsend rodio Bolígrafo - Laca Negro](https://www.am
 
 [![Cross Townsend rodio Bolígrafo - Laca Ne](https://images-eu.ssl-images-amazon.com/images/I/41-HqXo4LhL._SL200_.jpg)](https://www.amazon.es/dp/B00092HMFA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00092HMFA/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [AUTSCA Caja fuerte para llaves  Caja de seguridad Combinaci�
 
 [![AUTSCA Caja fuerte para llaves  Caja de ](https://images-eu.ssl-images-amazon.com/images/I/41OdewwACkL._SL200_.jpg)](https://www.amazon.es/dp/B0773DTSHN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0773DTSHN/?tag=tolees-21)

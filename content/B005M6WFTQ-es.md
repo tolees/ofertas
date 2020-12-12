@@ -22,7 +22,7 @@ Ahora mismo tienes [Grohe Concetto - grifo de bidé  con vaciador automático  1
 
 [![Grohe Concetto - grifo de bidé  con vaci](https://images-eu.ssl-images-amazon.com/images/I/41rUFMvKIzL._SL200_.jpg)](https://www.amazon.es/dp/B005M6WFTQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B005M6WFTQ/?tag=tolees-21)

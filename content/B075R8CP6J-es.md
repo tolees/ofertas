@@ -22,7 +22,7 @@ Ahora mismo tienes [Mizuno Ezrun LX 2 Zapatillas de Running  Hombre  Azul  Diva 
 
 [![Mizuno Ezrun LX 2 Zapatillas de Running ]()](https://www.amazon.es/dp/B075R8CP6J/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075R8CP6J/?tag=tolees-21)

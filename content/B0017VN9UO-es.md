@@ -22,7 +22,7 @@ Ahora mismo tienes [Hansgrohe 13958002 - Reguladores de agua para lavabo  2 unid
 
 [![Hansgrohe 13958002 - Reguladores de agua](https://images-eu.ssl-images-amazon.com/images/I/410scPV8IZL._SL200_.jpg)](https://www.amazon.es/dp/B0017VN9UO/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0017VN9UO/?tag=tolees-21)

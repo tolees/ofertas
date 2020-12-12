@@ -22,7 +22,7 @@ Ahora mismo tienes [POP! Vinilo - Disney: Moana: Moana & Pua](https://www.amazon
 
 [![POP! Vinilo - Disney: Moana: Moana & Pua](https://images-eu.ssl-images-amazon.com/images/I/41tMWZ3sTdL._SL200_.jpg)](https://www.amazon.es/dp/B01LAMQ13G/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01LAMQ13G/?tag=tolees-21)

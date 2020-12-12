@@ -22,7 +22,7 @@ Ahora mismo tienes [SPTA  diámetro 180 mm  Boina de pulir de lana de cordero ad
 
 [![SPTA  diámetro 180 mm  Boina de pulir de](https://images-eu.ssl-images-amazon.com/images/I/317H2MAvpbL._SL200_.jpg)](https://www.amazon.es/dp/B01K6R4EEY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01K6R4EEY/?tag=tolees-21)

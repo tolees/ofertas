@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Vikky AC PS  Zapatillas para Niñas  Azul  Fair Aqua Wh
 
 [![Puma Vikky AC PS  Zapatillas para Niñas ](https://images-eu.ssl-images-amazon.com/images/I/41Jci00dnIL._SL200_.jpg)](https://www.amazon.es/dp/B07DC1KGKR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DC1KGKR/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Capri Leather  Zapatillas Unisex Adulto  Negro Black Gu
 
 [![Puma Capri Leather  Zapatillas Unisex Ad](https://images-eu.ssl-images-amazon.com/images/I/31aeg6fYneL._SL200_.jpg)](https://www.amazon.es/dp/B07DC1D6CV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DC1D6CV/?tag=tolees-21)

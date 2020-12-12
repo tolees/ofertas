@@ -22,7 +22,7 @@ Ahora mismo tienes [The North Face T934V2 Chaquetas  Niñas  Mid Grey  L](https:
 
 [![The North Face T934V2 Chaquetas  Niñas  ](https://images-eu.ssl-images-amazon.com/images/I/41OBwOEySaL._SL200_.jpg)](https://www.amazon.es/dp/B078QT4QF7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078QT4QF7/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Orbegozo TP 2000 2000-Mesa de Planchar  Rejilla de Acero  11
 
 [![Orbegozo TP 2000 2000-Mesa de Planchar  ](https://images-eu.ssl-images-amazon.com/images/I/41cKiuhm7aL._SL200_.jpg)](https://www.amazon.es/dp/B007C3BL4W/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B007C3BL4W/?tag=tolees-21)

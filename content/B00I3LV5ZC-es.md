@@ -22,7 +22,7 @@ Ahora mismo tienes [Sony MDR-AS700BT - Auriculares de Contorno de Cuello Bluetoo
 
 [![Sony MDR-AS700BT - Auriculares de Contor](https://images-eu.ssl-images-amazon.com/images/I/41AEDYkvORL._SL200_.jpg)](https://www.amazon.es/dp/B00I3LV5ZC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00I3LV5ZC/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Asics T718N  Zapatillas Hombre  Negro  Black/Carbon/Cherry T
 
 [![Asics T718N  Zapatillas Hombre  Negro  B](https://images-eu.ssl-images-amazon.com/images/I/417ROwWE%2BHL._SL200_.jpg)](https://www.amazon.es/dp/B0722Z9WWT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0722Z9WWT/?tag=tolees-21)

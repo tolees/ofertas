@@ -22,7 +22,7 @@ Ahora mismo tienes [Bellota 951-20 CM - RASTRILLO JARDIN](https://www.amazon.es/
 
 [![Bellota 951-20 CM - RASTRILLO JARDIN](https://images-eu.ssl-images-amazon.com/images/I/316j5ftEa-L._SL200_.jpg)](https://www.amazon.es/dp/B00F2NGOEG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00F2NGOEG/?tag=tolees-21)

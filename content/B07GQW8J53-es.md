@@ -22,7 +22,7 @@ Ahora mismo tienes [Maquina de afeitar electrica para hombre barba rotativa FS36
 
 [![Maquina de afeitar electrica para hombre](https://images-eu.ssl-images-amazon.com/images/I/51aIh6WDWkL._SL200_.jpg)](https://www.amazon.es/dp/B07GQW8J53/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GQW8J53/?tag=tolees-21)

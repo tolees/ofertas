@@ -22,7 +22,7 @@ Ahora mismo tienes [14" FHD | Core i5-8250U | 2X 4GB | 256GB SSD | Intel Graphic
 
 [![14" FHD | Core i5-8250U | 2X 4GB | 256GB](https://images-eu.ssl-images-amazon.com/images/I/41fSr4qzYrL._SL200_.jpg)](https://www.amazon.es/dp/B07CXQKH4C/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CXQKH4C/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Trixie Caseta Natura Perro  S  71×77×76 cm](https://www.am
 
 [![Trixie Caseta Natura Perro  S  71×77×76 ](https://images-eu.ssl-images-amazon.com/images/I/41XpW-fp6%2BL._SL200_.jpg)](https://www.amazon.es/dp/B000OLYD62/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B000OLYD62/?tag=tolees-21)

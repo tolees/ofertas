@@ -22,7 +22,7 @@ Ahora mismo tienes [Woxter Stinger Station Rx Black - Silla Gaming  Eje de acero
 
 [![Woxter Stinger Station Rx Black - Silla ](https://images-eu.ssl-images-amazon.com/images/I/41tDehQbdpL._SL200_.jpg)](https://www.amazon.es/dp/B07166QGTP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07166QGTP/?tag=tolees-21)

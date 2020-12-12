@@ -22,7 +22,7 @@ Ahora mismo tienes [Gloss - caja de baño  caja de regalo para mujeres - Bañera
 
 [![Gloss - caja de baño  caja de regalo par](https://images-eu.ssl-images-amazon.com/images/I/515ZBbsgIFL._SL200_.jpg)](https://www.amazon.es/dp/B0166HP4UG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0166HP4UG/?tag=tolees-21)

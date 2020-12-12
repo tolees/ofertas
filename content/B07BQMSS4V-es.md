@@ -22,7 +22,7 @@ Ahora mismo tienes [Recoil - Pistola Spitfire RK45  Juego de Pistolas Laser por 
 
 [![Recoil - Pistola Spitfire RK45  Juego de](https://images-eu.ssl-images-amazon.com/images/I/51s8jTrqtLL._SL200_.jpg)](https://www.amazon.es/dp/B07BQMSS4V/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BQMSS4V/?tag=tolees-21)

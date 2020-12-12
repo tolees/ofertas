@@ -22,7 +22,7 @@ Ahora mismo tienes [Lenovo Yoga 720-13IKB- Portátil táctil convertible 13.3" F
 
 [![Lenovo Yoga 720-13IKB- Portátil táctil c](https://images-eu.ssl-images-amazon.com/images/I/416IejfxsuL._SL200_.jpg)](https://www.amazon.es/dp/B07538SMHP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07538SMHP/?tag=tolees-21)

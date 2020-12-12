@@ -22,7 +22,7 @@ Ahora mismo tienes [VICHY Homme Desodorante Anti-transpirante Triple DifusiÃ³n
 
 [![VICHY Homme Desodorante Anti-transpirant](https://images-eu.ssl-images-amazon.com/images/I/41GAsrWbSTL._SL200_.jpg)](https://www.amazon.es/dp/B00V3JX2PM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00V3JX2PM/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Pia JR PG210574  Pantalones para Niñas  Gris  Gr
 
 [![Pepe Jeans Pia JR PG210574  Pantalones p](https://images-eu.ssl-images-amazon.com/images/I/41szYN7PZ9L._SL200_.jpg)](https://www.amazon.es/dp/B079RQHK19/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079RQHK19/?tag=tolees-21)

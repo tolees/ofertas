@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance X-90  Zapatillas para Mujer  Negro  Black/Lemona
 
 [![New Balance X-90  Zapatillas para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/419uwiiGtoL._SL200_.jpg)](https://www.amazon.es/dp/B077XRSSQS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077XRSSQS/?tag=tolees-21)

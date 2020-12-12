@@ -22,7 +22,7 @@ Ahora mismo tienes [Skagen - Ernst  Carteras Hombre  Schwarz  Black   2x8.5x12 c
 
 [![Skagen - Ernst  Carteras Hombre  Schwarz](https://images-eu.ssl-images-amazon.com/images/I/411dh0Z%2BPgL._SL200_.jpg)](https://www.amazon.es/dp/B01N5T9TC5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N5T9TC5/?tag=tolees-21)

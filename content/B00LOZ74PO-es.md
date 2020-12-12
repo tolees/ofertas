@@ -22,7 +22,7 @@ Ahora mismo tienes [Volcom Full Stone Calcetines  Hombre  Blanco  O/S](https://w
 
 [![Volcom Full Stone Calcetines  Hombre  Bl](https://images-eu.ssl-images-amazon.com/images/I/319DCOx7B-L._SL200_.jpg)](https://www.amazon.es/dp/B00LOZ74PO/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00LOZ74PO/?tag=tolees-21)

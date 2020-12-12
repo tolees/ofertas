@@ -22,7 +22,7 @@ Ahora mismo tienes [Only Onljuliana L/s Pullover Knt  suéter para Mujer   Straw
 
 [![Only Onljuliana L/s Pullover Knt  suéter](https://images-eu.ssl-images-amazon.com/images/I/41LS5x%2BUNsL._SL200_.jpg)](https://www.amazon.es/dp/B075GJB2LT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075GJB2LT/?tag=tolees-21)

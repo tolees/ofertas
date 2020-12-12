@@ -22,7 +22,7 @@ Ahora mismo tienes [Vans Old Skool  Zapatillas Unisex Adulto  Azul  mlx   44 EU]
 
 [![Vans Old Skool  Zapatillas Unisex Adulto](https://images-eu.ssl-images-amazon.com/images/I/41nE4OYZrPL._SL200_.jpg)](https://www.amazon.es/dp/B01LWC4S45/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01LWC4S45/?tag=tolees-21)

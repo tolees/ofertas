@@ -22,7 +22,7 @@ Ahora mismo tienes [Ultratec CG2000/ 331400000267 Parrilla de contacto 2 en 1  2
 
 [![Ultratec CG2000/ 331400000267 Parrilla d](https://images-eu.ssl-images-amazon.com/images/I/512-E2-w3VL._SL200_.jpg)](https://www.amazon.es/dp/B019Q7QZBU/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B019Q7QZBU/?tag=tolees-21)

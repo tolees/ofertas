@@ -22,7 +22,7 @@ Ahora mismo tienes [Wenquan Dispensador de Agua para Mascotas Simple Creativo Co
 
 [![Wenquan Dispensador de Agua para Mascota](https://images-eu.ssl-images-amazon.com/images/I/31fCg3O9eHL._SL200_.jpg)](https://www.amazon.es/dp/B07PDVGP1D/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07PDVGP1D/?tag=tolees-21)

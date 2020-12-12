@@ -22,7 +22,7 @@ Ahora mismo tienes [Kamik Quinn3gtx  Botas de Nieve para Niñas  Morado  Grape-R
 
 [![Kamik Quinn3gtx  Botas de Nieve para Niñ](https://images-eu.ssl-images-amazon.com/images/I/51obIdDHEIL._SL200_.jpg)](https://www.amazon.es/dp/B078MP8MVL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078MP8MVL/?tag=tolees-21)

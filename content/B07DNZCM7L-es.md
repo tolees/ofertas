@@ -22,7 +22,7 @@ Ahora mismo tienes [Eastpak TRANVERZ L Equipaje de Mano  79 cm  121 Liters  Gris
 
 [![Eastpak TRANVERZ L Equipaje de Mano  79 ](https://images-eu.ssl-images-amazon.com/images/I/31Pd8qyHwhL._SL200_.jpg)](https://www.amazon.es/dp/B07DNZCM7L/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DNZCM7L/?tag=tolees-21)

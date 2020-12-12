@@ -22,7 +22,7 @@ Ahora mismo tienes [ESPRIT Sports 098ei1k010  Top Deportivo Mujer  Azul  Navy 5 
 
 [![ESPRIT Sports 098ei1k010  Top Deportivo ](https://images-eu.ssl-images-amazon.com/images/I/41qoC4LU%2BJL._SL200_.jpg)](https://www.amazon.es/dp/B07FQT1HRR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FQT1HRR/?tag=tolees-21)

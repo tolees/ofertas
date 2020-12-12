@@ -22,7 +22,7 @@ Ahora mismo tienes [RITUALS Samurai Cool Hair champú 250 ml](https://www.amazon
 
 [![RITUALS Samurai Cool Hair champú 250 ml](https://images-eu.ssl-images-amazon.com/images/I/41e1lg5hjyL._SL200_.jpg)](https://www.amazon.es/dp/B00NAT2LVY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00NAT2LVY/?tag=tolees-21)

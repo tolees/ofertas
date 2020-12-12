@@ -22,7 +22,7 @@ Ahora mismo tienes [AMASAVA Maletín para Maquillaje  Estuche de maquillaje  Est
 
 [![AMASAVA Maletín para Maquillaje  Estuche](https://images-eu.ssl-images-amazon.com/images/I/41xEvpa03rL._SL200_.jpg)](https://www.amazon.es/dp/B079NVGM46/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079NVGM46/?tag=tolees-21)

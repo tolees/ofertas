@@ -22,7 +22,7 @@ Ahora mismo tienes [Café Royal Espresso Forte 48 cápsulas compatibles con Nesc
 
 [![Café Royal Espresso Forte 48 cápsulas co](https://images-eu.ssl-images-amazon.com/images/I/416waGVIgZL._SL200_.jpg)](https://www.amazon.es/dp/B074P6JFQZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074P6JFQZ/?tag=tolees-21)

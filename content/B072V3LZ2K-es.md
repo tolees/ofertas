@@ -22,7 +22,7 @@ Ahora mismo tienes [RFIVER Taburetes de Bar de PU con Ruedas de Altura Ajustable
 
 [![RFIVER Taburetes de Bar de PU con Ruedas](https://images-eu.ssl-images-amazon.com/images/I/41gdaC2t9cL._SL200_.jpg)](https://www.amazon.es/dp/B072V3LZ2K/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072V3LZ2K/?tag=tolees-21)

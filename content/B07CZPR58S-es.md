@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour Graphic Script X-Back Tank Tanque  Mujer  Negro
 
 [![Under Armour Graphic Script X-Back Tank ](https://images-eu.ssl-images-amazon.com/images/I/41OP1GdScNL._SL200_.jpg)](https://www.amazon.es/dp/B07CZPR58S/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CZPR58S/?tag=tolees-21)

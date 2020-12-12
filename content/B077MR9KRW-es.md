@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Tsugi Apex Wn s  Zapatillas para Mujer  Negro Black Whi
 
 [![Puma Tsugi Apex Wn s  Zapatillas para Mu](https://images-eu.ssl-images-amazon.com/images/I/41t-KwLhW2L._SL200_.jpg)](https://www.amazon.es/dp/B077MR9KRW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077MR9KRW/?tag=tolees-21)

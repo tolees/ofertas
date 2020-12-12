@@ -22,7 +22,7 @@ Ahora mismo tienes [Leotec Smartwatch Helse Color Gris](https://www.amazon.es/dp
 
 [![Leotec Smartwatch Helse Color Gris](https://images-eu.ssl-images-amazon.com/images/I/41L7QrA4CPL._SL200_.jpg)](https://www.amazon.es/dp/B00DYVPKT8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00DYVPKT8/?tag=tolees-21)

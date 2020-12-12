@@ -22,7 +22,7 @@ Ahora mismo tienes [Panter 370101616 - TLALOC ANTIGRASA ALTA BLANCO -CE- Talla: 
 
 [![Panter 370101616 - TLALOC ANTIGRASA ALTA](https://images-eu.ssl-images-amazon.com/images/I/31o2nvLBzfL._SL200_.jpg)](https://www.amazon.es/dp/B017LDESEW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B017LDESEW/?tag=tolees-21)

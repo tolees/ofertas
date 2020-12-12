@@ -22,7 +22,7 @@ Ahora mismo tienes [NGS Lector de tarjetas - NGS Card Reader Multireader Pro](ht
 
 [![NGS Lector de tarjetas - NGS Card Reader](https://images-eu.ssl-images-amazon.com/images/I/41UpA-IC04L._SL200_.jpg)](https://www.amazon.es/dp/B0032BOZKK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0032BOZKK/?tag=tolees-21)

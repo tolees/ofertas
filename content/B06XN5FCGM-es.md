@@ -22,7 +22,7 @@ Ahora mismo tienes [LANGRIA](https://www.amazon.es/dp/B06XN5FCGM/?tag=tolees-21)
 
 [![LANGRIA](https://images-eu.ssl-images-amazon.com/images/I/41SJfHvD6qL._SL200_.jpg)](https://www.amazon.es/dp/B06XN5FCGM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XN5FCGM/?tag=tolees-21)

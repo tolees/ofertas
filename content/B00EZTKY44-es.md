@@ -22,7 +22,7 @@ Ahora mismo tienes [MyProtein Impact Whey Proteína de Suero  Sabor Latte - 1000
 
 [![MyProtein Impact Whey Proteína de Suero ](https://images-eu.ssl-images-amazon.com/images/I/4128YpH4BeL._SL200_.jpg)](https://www.amazon.es/dp/B00EZTKY44/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00EZTKY44/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Etnies Scout  Zapatillas para Hombre  Azul  46 EU](https://w
 
 [![Etnies Scout  Zapatillas para Hombre  Az](https://images-eu.ssl-images-amazon.com/images/I/41dpLXOKw9L._SL200_.jpg)](https://www.amazon.es/dp/B074KQ6S3G/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074KQ6S3G/?tag=tolees-21)

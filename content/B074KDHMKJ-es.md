@@ -22,7 +22,7 @@ Ahora mismo tienes [AmazonBasics - Caja fuerte ignífuga  35 l](https://www.amaz
 
 [![AmazonBasics - Caja fuerte ignífuga  35 ](https://images-eu.ssl-images-amazon.com/images/I/51Z2OXEwj1L._SL200_.jpg)](https://www.amazon.es/dp/B074KDHMKJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074KDHMKJ/?tag=tolees-21)

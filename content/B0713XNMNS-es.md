@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW 3301 Tapered Jeans  Azul  dk aged 9179-89   31W /
 
 [![G-STAR RAW 3301 Tapered Jeans  Azul  dk ](https://images-eu.ssl-images-amazon.com/images/I/41-VZCJQksL._SL200_.jpg)](https://www.amazon.es/dp/B0713XNMNS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0713XNMNS/?tag=tolees-21)

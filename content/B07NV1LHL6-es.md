@@ -22,7 +22,7 @@ Ahora mismo tienes [LAPPAZO Repelente Ultrasonico Mosquitos Plagas Ahuyentador d
 
 [![LAPPAZO Repelente Ultrasonico Mosquitos ](https://images-eu.ssl-images-amazon.com/images/I/41ZJW5OQ2JL._SL200_.jpg)](https://www.amazon.es/dp/B07NV1LHL6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07NV1LHL6/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Homgeek Picadoras de Carne 1200w Salchicha y Máquina de Car
 
 [![Homgeek Picadoras de Carne 1200w Salchic](https://images-eu.ssl-images-amazon.com/images/I/415yncYTxmL._SL200_.jpg)](https://www.amazon.es/dp/B071ZPPLKV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071ZPPLKV/?tag=tolees-21)

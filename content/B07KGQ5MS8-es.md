@@ -22,7 +22,7 @@ Ahora mismo tienes [AiKiddo Aseo Escalera Asiento Escalera del tocador de niños
 
 [![AiKiddo Aseo Escalera Asiento Escalera d](https://images-eu.ssl-images-amazon.com/images/I/41vydY8TMDL._SL200_.jpg)](https://www.amazon.es/dp/B07KGQ5MS8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KGQ5MS8/?tag=tolees-21)

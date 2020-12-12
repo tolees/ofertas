@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Essentials Classics Polo de Tenis  Hombre  Blanco  Wh
 
 [![adidas Essentials Classics Polo de Tenis](https://images-eu.ssl-images-amazon.com/images/I/31gh3RSb8RL._SL200_.jpg)](https://www.amazon.es/dp/B01N0KL1AO/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N0KL1AO/?tag=tolees-21)

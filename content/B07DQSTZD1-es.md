@@ -22,7 +22,7 @@ Ahora mismo tienes [MTNG Attitude 69337  Zapatillas para Mujer   Goat PU Negro P
 
 [![MTNG Attitude 69337  Zapatillas para Muj](https://images-eu.ssl-images-amazon.com/images/I/41SjbJ8CPeL._SL200_.jpg)](https://www.amazon.es/dp/B07DQSTZD1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DQSTZD1/?tag=tolees-21)

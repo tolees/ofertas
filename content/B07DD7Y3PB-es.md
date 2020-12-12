@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma ESS Logo Pants  Mujer  Peacoat  M](https://www.amazon.e
 
 [![Puma ESS Logo Pants  Mujer  Peacoat  M](https://images-eu.ssl-images-amazon.com/images/I/31nVahTRIuL._SL200_.jpg)](https://www.amazon.es/dp/B07DD7Y3PB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DD7Y3PB/?tag=tolees-21)

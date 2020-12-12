@@ -22,7 +22,7 @@ Ahora mismo tienes [Color Copy CCA4200 - Paquete 250 hojas de papel  200 g/m²  
 
 [![Color Copy CCA4200 - Paquete 250 hojas d](https://images-eu.ssl-images-amazon.com/images/I/41KUqbpsR-L._SL200_.jpg)](https://www.amazon.es/dp/B000SHOOK2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B000SHOOK2/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers Relsen  Zapatillas para Hombre  Negro Black  41.5 E
 
 [![Skechers Relsen  Zapatillas para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/31wGxjTChXL._SL200_.jpg)](https://www.amazon.es/dp/B07JHKP4VH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JHKP4VH/?tag=tolees-21)

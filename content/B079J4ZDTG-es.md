@@ -22,7 +22,7 @@ Ahora mismo tienes [Asics Patriot 10  Zapatillas de Running para Mujer  Azul  Aq
 
 [![Asics Patriot 10  Zapatillas de Running ](https://images-eu.ssl-images-amazon.com/images/I/41sM-VFa9oL._SL200_.jpg)](https://www.amazon.es/dp/B079J4ZDTG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079J4ZDTG/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s Ellis  Zapatillas para Mujer  Negro  Noir Regular Bla
 
 [![Levi s Ellis  Zapatillas para Mujer  Neg](https://images-eu.ssl-images-amazon.com/images/I/31cEFISQjML._SL200_.jpg)](https://www.amazon.es/dp/B07CBPWH1W/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CBPWH1W/?tag=tolees-21)

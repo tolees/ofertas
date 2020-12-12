@@ -22,7 +22,7 @@ Ahora mismo tienes [LED Linterna Táctica  RegeMoudal Kit de Linterna Táctica 8
 
 [![LED Linterna Táctica  RegeMoudal Kit de ](https://images-eu.ssl-images-amazon.com/images/I/51ZsuhKtL6L._SL200_.jpg)](https://www.amazon.es/dp/B07K9N7XPV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07K9N7XPV/?tag=tolees-21)

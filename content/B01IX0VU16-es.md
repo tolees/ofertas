@@ -22,7 +22,7 @@ Ahora mismo tienes [Sloggi Wow Comfort P  Sujetador para Mujer  Negro  Black 04 
 
 [![Sloggi Wow Comfort P  Sujetador para Muj](https://images-eu.ssl-images-amazon.com/images/I/41RaAQLyvpL._SL200_.jpg)](https://www.amazon.es/dp/B01IX0VU16/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01IX0VU16/?tag=tolees-21)

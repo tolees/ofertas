@@ -22,7 +22,7 @@ Ahora mismo tienes [Clarks Landry Edge  Mocasines para Hombre  Negro  Black Comb
 
 [![Clarks Landry Edge  Mocasines para Hombr](https://images-eu.ssl-images-amazon.com/images/I/31Rvpu2112L._SL200_.jpg)](https://www.amazon.es/dp/B07FR1CYWM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FR1CYWM/?tag=tolees-21)

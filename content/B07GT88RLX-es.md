@@ -22,7 +22,7 @@ Ahora mismo tienes [Desigual - Bag Colorama Reno Women  Carteras de mano con asa
 
 [![Desigual - Bag Colorama Reno Women  Cart](https://images-eu.ssl-images-amazon.com/images/I/31jG1eUQpmL._SL200_.jpg)](https://www.amazon.es/dp/B07GT88RLX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GT88RLX/?tag=tolees-21)

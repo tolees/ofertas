@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour UA HG Armr Ankle CP Leggings Capri  Mujer  Azul
 
 [![Under Armour UA HG Armr Ankle CP Legging](https://images-eu.ssl-images-amazon.com/images/I/41teyrWWk9L._SL200_.jpg)](https://www.amazon.es/dp/B072J35XPY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072J35XPY/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance 410  Zapatillas Unisex Adulto  Rojo  Red/White A
 
 [![New Balance 410  Zapatillas Unisex Adult](https://images-eu.ssl-images-amazon.com/images/I/41LTv2a1gwL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ77VZ2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DJ77VZ2/?tag=tolees-21)

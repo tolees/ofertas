@@ -22,7 +22,7 @@ Ahora mismo tienes [Hudson Horrigan  Botas Chukka para Mujer  Negro-Schwarz  Jet
 
 [![Hudson Horrigan  Botas Chukka para Mujer](https://images-eu.ssl-images-amazon.com/images/I/41mOsOi98rL._SL200_.jpg)](https://www.amazon.es/dp/B00KB34NA4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00KB34NA4/?tag=tolees-21)

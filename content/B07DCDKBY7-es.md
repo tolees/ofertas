@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike Ebernon Mid  Zapatillas Altas para Mujer  Blanco White 
 
 [![Nike Ebernon Mid  Zapatillas Altas para ](https://images-eu.ssl-images-amazon.com/images/I/31aHUlAoRRL._SL200_.jpg)](https://www.amazon.es/dp/B07DCDKBY7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DCDKBY7/?tag=tolees-21)

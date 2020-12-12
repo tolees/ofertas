@@ -22,7 +22,7 @@ Ahora mismo tienes [Funko Pop!- Disney Figura de Vinilo Snow White  21716 ](http
 
 [![Funko Pop!- Disney Figura de Vinilo Snow](https://images-eu.ssl-images-amazon.com/images/I/41zWad6nYWL._SL200_.jpg)](https://www.amazon.es/dp/B074NJ3CRT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074NJ3CRT/?tag=tolees-21)

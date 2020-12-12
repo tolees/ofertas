@@ -22,7 +22,7 @@ Ahora mismo tienes [Reloj Casio para Hombre MRW-200HC-7BVEF](https://www.amazon.
 
 [![Reloj Casio para Hombre MRW-200HC-7BVEF](https://images-eu.ssl-images-amazon.com/images/I/515Wy2rjG3L._SL200_.jpg)](https://www.amazon.es/dp/B00IAOLHR8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00IAOLHR8/?tag=tolees-21)

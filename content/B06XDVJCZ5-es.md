@@ -22,7 +22,7 @@ Ahora mismo tienes [Helly Hansen W Marion  Botas para Mujer   Negro   42 EU](htt
 
 [![Helly Hansen W Marion  Botas para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41uO9qchT3L._SL200_.jpg)](https://www.amazon.es/dp/B06XDVJCZ5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XDVJCZ5/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Fritz de madera marrón madera bastón](https://www.amazon.e
 
 [![Fritz de madera marrón madera bastón](https://images-eu.ssl-images-amazon.com/images/I/317vfhvqtcL._SL200_.jpg)](https://www.amazon.es/dp/B00EB68S9Y/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00EB68S9Y/?tag=tolees-21)

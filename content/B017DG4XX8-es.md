@@ -22,7 +22,7 @@ Ahora mismo tienes [ToyJoy Luminate Vibrador Negro - 314 gr](https://www.amazon.
 
 [![ToyJoy Luminate Vibrador Negro - 314 gr](https://images-eu.ssl-images-amazon.com/images/I/31fs%2Bhp%2By6L._SL200_.jpg)](https://www.amazon.es/dp/B017DG4XX8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B017DG4XX8/?tag=tolees-21)

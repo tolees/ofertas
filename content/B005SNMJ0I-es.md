@@ -22,7 +22,7 @@ Ahora mismo tienes [Tanita KD320WH33 - Báscula de cocina con precisión de 0 1 
 
 [![Tanita KD320WH33 - Báscula de cocina con](https://images-eu.ssl-images-amazon.com/images/I/31J1DMh1pXL._SL200_.jpg)](https://www.amazon.es/dp/B005SNMJ0I/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B005SNMJ0I/?tag=tolees-21)

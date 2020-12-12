@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Stan Smith W  Zapatillas de Gimnasia para Mujer  Nara
 
 [![adidas Stan Smith W  Zapatillas de Gimna](https://images-eu.ssl-images-amazon.com/images/I/31tmPci2VTL._SL200_.jpg)](https://www.amazon.es/dp/B07K142PKT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07K142PKT/?tag=tolees-21)

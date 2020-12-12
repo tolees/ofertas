@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jjebasic Polo SS Noos  Rojo  Jester Red Detail:
 
 [![JACK & JONES Jjebasic Polo SS Noos  Rojo](https://images-eu.ssl-images-amazon.com/images/I/41kuwS%2BYu8L._SL200_.jpg)](https://www.amazon.es/dp/B079C7Q9GG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079C7Q9GG/?tag=tolees-21)

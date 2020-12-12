@@ -22,7 +22,7 @@ Ahora mismo tienes [KRF Feel The Enemy 0016086 Bolsa Profesional para Fitness y 
 
 [![KRF Feel The Enemy 0016086 Bolsa Profesi](https://images-eu.ssl-images-amazon.com/images/I/51gEgW3UkZL._SL200_.jpg)](https://www.amazon.es/dp/B06WW5SZWX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06WW5SZWX/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Slabo Powerbank Y para Smartphone / Tablet / Smartwatch Carg
 
 [![Slabo Powerbank Y para Smartphone / Tabl](https://images-eu.ssl-images-amazon.com/images/I/41q7lAwQTXL._SL200_.jpg)](https://www.amazon.es/dp/B018F2T0VY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B018F2T0VY/?tag=tolees-21)

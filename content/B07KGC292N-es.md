@@ -22,7 +22,7 @@ Ahora mismo tienes [BOSS Ivitta suéter  Blanco  Open White 118   Medium para Mu
 
 [![BOSS Ivitta suéter  Blanco  Open White 1](https://images-eu.ssl-images-amazon.com/images/I/312Twv8flPL._SL200_.jpg)](https://www.amazon.es/dp/B07KGC292N/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KGC292N/?tag=tolees-21)

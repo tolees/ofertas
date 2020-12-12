@@ -22,7 +22,7 @@ Ahora mismo tienes [Tally Weijl Spacogoalo  Pantalones Sport Para Mujer  color n
 
 [![Tally Weijl Spacogoalo  Pantalones Sport](https://images-eu.ssl-images-amazon.com/images/I/41x-eKzXmcL._SL200_.jpg)](https://www.amazon.es/dp/B01BHVYJ34/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01BHVYJ34/?tag=tolees-21)

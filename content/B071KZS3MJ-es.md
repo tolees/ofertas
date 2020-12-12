@@ -22,7 +22,7 @@ Ahora mismo tienes [Logitech Silent M590 - Ratón inalámbrico  con Bluetooth  p
 
 [![Logitech Silent M590 - Ratón inalámbrico](https://images-eu.ssl-images-amazon.com/images/I/31rF5mwVQBL._SL200_.jpg)](https://www.amazon.es/dp/B071KZS3MJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071KZS3MJ/?tag=tolees-21)

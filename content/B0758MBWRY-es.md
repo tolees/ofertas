@@ -22,7 +22,7 @@ Ahora mismo tienes [SENSODYNE Pasta de Dientes para dientes sensibles Proesmalte
 
 [![SENSODYNE Pasta de Dientes para dientes ](https://images-eu.ssl-images-amazon.com/images/I/31hSbTl6qeL._SL200_.jpg)](https://www.amazon.es/dp/B0758MBWRY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0758MBWRY/?tag=tolees-21)

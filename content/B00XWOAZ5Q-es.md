@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike Court Royale  Zapatillas de Gimnasia para Hombre  Blanc
 
 [![Nike Court Royale  Zapatillas de Gimnasi](https://images-eu.ssl-images-amazon.com/images/I/31qM6QZ3GqL._SL200_.jpg)](https://www.amazon.es/dp/B00XWOAZ5Q/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00XWOAZ5Q/?tag=tolees-21)

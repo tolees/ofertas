@@ -22,7 +22,7 @@ Ahora mismo tienes [VIBOX Vision 2 - Ordenador para gaming  21.5"  AMD A4-6300  
 
 [![VIBOX Vision 2 - Ordenador para gaming  ](https://images-eu.ssl-images-amazon.com/images/I/51SZMplXEUL._SL200_.jpg)](https://www.amazon.es/dp/B00KEC7KX4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00KEC7KX4/?tag=tolees-21)

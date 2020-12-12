@@ -22,7 +22,7 @@ Ahora mismo tienes [Carrera Shire  Zapatillas de Cross para Hombre  Negro  Black
 
 [![Carrera Shire  Zapatillas de Cross para ](https://images-eu.ssl-images-amazon.com/images/I/4111XD8jqNL._SL200_.jpg)](https://www.amazon.es/dp/B07GJJZ7S6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GJJZ7S6/?tag=tolees-21)

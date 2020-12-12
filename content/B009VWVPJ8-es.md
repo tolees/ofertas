@@ -22,7 +22,7 @@ Ahora mismo tienes [Curver 198811 - Cama para mascotas de tamaño M  color antra
 
 [![Curver 198811 - Cama para mascotas de ta](https://images-eu.ssl-images-amazon.com/images/I/31MUvmJKtwL._SL200_.jpg)](https://www.amazon.es/dp/B009VWVPJ8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B009VWVPJ8/?tag=tolees-21)

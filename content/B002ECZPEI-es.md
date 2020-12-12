@@ -22,7 +22,7 @@ Ahora mismo tienes [Grohe Skate Cosmopolitan - Escudo dual  cromado Ref. 3873200
 
 [![Grohe Skate Cosmopolitan - Escudo dual  ](https://images-eu.ssl-images-amazon.com/images/I/31dcjFuQrUL._SL200_.jpg)](https://www.amazon.es/dp/B002ECZPEI/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B002ECZPEI/?tag=tolees-21)

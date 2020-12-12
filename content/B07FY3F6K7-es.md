@@ -22,7 +22,7 @@ Ahora mismo tienes [OtterBox Symmetry - Funda Anti caídas Fina para iPhone XS M
 
 [![OtterBox Symmetry - Funda Anti caídas Fi](https://images-eu.ssl-images-amazon.com/images/I/41%2BanseglhL._SL200_.jpg)](https://www.amazon.es/dp/B07FY3F6K7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FY3F6K7/?tag=tolees-21)

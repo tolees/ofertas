@@ -22,7 +22,7 @@ Ahora mismo tienes [Tommee Tippee Tetinas Anticólico  flujo lento  2 unidades](
 
 [![Tommee Tippee Tetinas Anticólico  flujo ](https://images-eu.ssl-images-amazon.com/images/I/41J6CdoAE6L._SL200_.jpg)](https://www.amazon.es/dp/B07CH4MXKN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CH4MXKN/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Clarks Tilden Zip  Botas Chelsea para Hombre  Negro  Black L
 
 [![Clarks Tilden Zip  Botas Chelsea para Ho](https://images-eu.ssl-images-amazon.com/images/I/41aDDcSp%2BmL._SL200_.jpg)](https://www.amazon.es/dp/B06XCHFTS2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XCHFTS2/?tag=tolees-21)

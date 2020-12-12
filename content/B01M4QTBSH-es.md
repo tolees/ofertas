@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW ZED Belt Cinturón  Marrón  Dk Cognac/Antic Silv
 
 [![G-STAR RAW ZED Belt Cinturón  Marrón  Dk](https://images-eu.ssl-images-amazon.com/images/I/51VOHWtcPFL._SL200_.jpg)](https://www.amazon.es/dp/B01M4QTBSH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01M4QTBSH/?tag=tolees-21)

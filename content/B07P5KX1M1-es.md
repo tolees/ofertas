@@ -22,7 +22,7 @@ Ahora mismo tienes [VSADEY 16Pcs Almohadillas Desmaquillantes Reutilizables Disc
 
 [![VSADEY 16Pcs Almohadillas Desmaquillante](https://images-eu.ssl-images-amazon.com/images/I/41vJF9XHRKL._SL200_.jpg)](https://www.amazon.es/dp/B07P5KX1M1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07P5KX1M1/?tag=tolees-21)

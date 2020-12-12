@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance Cypher Run  Zapatillas de Running para Mujer  Ne
 
 [![New Balance Cypher Run  Zapatillas de Ru](https://images-eu.ssl-images-amazon.com/images/I/41AYtUqWTKL._SL200_.jpg)](https://www.amazon.es/dp/B01MU4CO6X/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MU4CO6X/?tag=tolees-21)

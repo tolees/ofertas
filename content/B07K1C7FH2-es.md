@@ -22,7 +22,7 @@ Ahora mismo tienes [Cartera delgada con bloqueo de identificación por radio fre
 
 [![Cartera delgada con bloqueo de identific](https://images-eu.ssl-images-amazon.com/images/I/51AQ0FYKeHL._SL200_.jpg)](https://www.amazon.es/dp/B07K1C7FH2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07K1C7FH2/?tag=tolees-21)

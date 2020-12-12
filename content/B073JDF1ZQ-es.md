@@ -22,7 +22,7 @@ Ahora mismo tienes [Cortefiel 3.T.M.Camisero Denim Bord  Mujer  Azul  Blue   Med
 
 [![Cortefiel 3.T.M.Camisero Denim Bord  Muj](https://images-eu.ssl-images-amazon.com/images/I/41LSq%2BRd07L._SL200_.jpg)](https://www.amazon.es/dp/B073JDF1ZQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B073JDF1ZQ/?tag=tolees-21)

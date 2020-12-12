@@ -22,7 +22,7 @@ Ahora mismo tienes [Berg Outdoor FIGO Power Stretch Fleece Jacket  Hombre  Snork
 
 [![Berg Outdoor FIGO Power Stretch Fleece J](https://images-eu.ssl-images-amazon.com/images/I/51DHPmLD6SL._SL200_.jpg)](https://www.amazon.es/dp/B07GTH22HH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GTH22HH/?tag=tolees-21)

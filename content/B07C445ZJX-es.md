@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Soho  Pantalones para Mujer  Azul  Ocean 588  29W
 
 [![Pepe Jeans Soho  Pantalones para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41GtRIJX-IL._SL200_.jpg)](https://www.amazon.es/dp/B07C445ZJX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07C445ZJX/?tag=tolees-21)

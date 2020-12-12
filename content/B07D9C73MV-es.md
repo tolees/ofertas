@@ -22,7 +22,7 @@ Ahora mismo tienes [Adidas Run80S  Zapatillas para Hombre  Azul Dark Blue/Legend
 
 [![Adidas Run80S  Zapatillas para Hombre  A](https://images-eu.ssl-images-amazon.com/images/I/41lYb2xcvWL._SL200_.jpg)](https://www.amazon.es/dp/B07D9C73MV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D9C73MV/?tag=tolees-21)

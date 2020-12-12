@@ -22,7 +22,7 @@ Ahora mismo tienes [MTNG Attitude - Zapatillas para hombre  color Azul  CARBON N
 
 [![MTNG Attitude - Zapatillas para hombre  ](https://images-eu.ssl-images-amazon.com/images/I/41hPOqif2mL._SL200_.jpg)](https://www.amazon.es/dp/B01IP6D7NM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01IP6D7NM/?tag=tolees-21)

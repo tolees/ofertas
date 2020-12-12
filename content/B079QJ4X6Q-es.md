@@ -22,7 +22,7 @@ Ahora mismo tienes [Rockport Dustyn Slipon Shoe  Mocasines para Hombre  Negro  4
 
 [![Rockport Dustyn Slipon Shoe  Mocasines p](https://images-eu.ssl-images-amazon.com/images/I/31wpXe7VAqL._SL200_.jpg)](https://www.amazon.es/dp/B079QJ4X6Q/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079QJ4X6Q/?tag=tolees-21)

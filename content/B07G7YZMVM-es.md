@@ -22,7 +22,7 @@ Ahora mismo tienes [Superdry Stirling Sleek  Zapatillas Altas para Hombre  Negro
 
 [![Superdry Stirling Sleek  Zapatillas Alta](https://images-eu.ssl-images-amazon.com/images/I/419fwnlV3JL._SL200_.jpg)](https://www.amazon.es/dp/B07G7YZMVM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07G7YZMVM/?tag=tolees-21)

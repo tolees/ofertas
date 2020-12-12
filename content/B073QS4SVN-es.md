@@ -22,7 +22,7 @@ Ahora mismo tienes [Orbegozo VT 610 Vinoteca 6 botellas  17 litros  Negro](https
 
 [![Orbegozo VT 610 Vinoteca 6 botellas  17 ](https://images-eu.ssl-images-amazon.com/images/I/41LPnz0a0PL._SL200_.jpg)](https://www.amazon.es/dp/B073QS4SVN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B073QS4SVN/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Netgear RN31842E-100NES - Dispositivo de Almacenamiento en R
 
 [![Netgear RN31842E-100NES - Dispositivo de](https://images-eu.ssl-images-amazon.com/images/I/31cTrEkc82L._SL200_.jpg)](https://www.amazon.es/dp/B017NMX3DI/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B017NMX3DI/?tag=tolees-21)

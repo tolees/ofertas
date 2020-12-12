@@ -22,7 +22,7 @@ Ahora mismo tienes [Y-Step - Papel pintado 3D impermeable  autoadhesivo  0 45 x 
 
 [![Y-Step - Papel pintado 3D impermeable  a](https://images-eu.ssl-images-amazon.com/images/I/51zGfCFcgGL._SL200_.jpg)](https://www.amazon.es/dp/B07FDYD4LN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FDYD4LN/?tag=tolees-21)

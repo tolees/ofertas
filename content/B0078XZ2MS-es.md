@@ -22,7 +22,7 @@ Ahora mismo tienes [Casio Reloj Analógico para Mujer de Cuarzo con Correa en Pl
 
 [![Casio Reloj Analógico para Mujer de Cuar](https://images-eu.ssl-images-amazon.com/images/I/418n4Dg6JtL._SL200_.jpg)](https://www.amazon.es/dp/B0078XZ2MS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0078XZ2MS/?tag=tolees-21)

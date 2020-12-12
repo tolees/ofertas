@@ -22,7 +22,7 @@ Ahora mismo tienes [Deuter StepOut 12  Mochila Unisex Adulto  Rojo  Cardinal/Mar
 
 [![Deuter StepOut 12  Mochila Unisex Adulto](https://images-eu.ssl-images-amazon.com/images/I/41zm5wKZCyL._SL200_.jpg)](https://www.amazon.es/dp/B07BZ2HDC5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BZ2HDC5/?tag=tolees-21)

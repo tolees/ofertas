@@ -22,7 +22,7 @@ Ahora mismo tienes [Helly Hansen Pier 2 Pant Bib  Hombre  Navy  XL](https://www.
 
 [![Helly Hansen Pier 2 Pant Bib  Hombre  Na](https://images-eu.ssl-images-amazon.com/images/I/31rTu3brRJL._SL200_.jpg)](https://www.amazon.es/dp/B01N4ONPEW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N4ONPEW/?tag=tolees-21)

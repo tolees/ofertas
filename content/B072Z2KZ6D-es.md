@@ -22,7 +22,7 @@ Ahora mismo tienes [Marvel- Figura de Vinilo Thor  Funko 13763 ](https://www.ama
 
 [![Marvel- Figura de Vinilo Thor  Funko 137](https://images-eu.ssl-images-amazon.com/images/I/41MUD23iy2L._SL200_.jpg)](https://www.amazon.es/dp/B072Z2KZ6D/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072Z2KZ6D/?tag=tolees-21)

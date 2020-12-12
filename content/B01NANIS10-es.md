@@ -22,7 +22,7 @@ Ahora mismo tienes [Joseph Joseph Tablas de Cortar  Grafito  Mediano  4 Unidades
 
 [![Joseph Joseph Tablas de Cortar  Grafito ](https://images-eu.ssl-images-amazon.com/images/I/41bRVeUW3KL._SL200_.jpg)](https://www.amazon.es/dp/B01NANIS10/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01NANIS10/?tag=tolees-21)

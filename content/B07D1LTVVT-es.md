@@ -22,7 +22,7 @@ Ahora mismo tienes [Asics Fuzetora Twist  Zapatillas de Running para Hombre  Gri
 
 [![Asics Fuzetora Twist  Zapatillas de Runn](https://images-eu.ssl-images-amazon.com/images/I/412SKaQWUsL._SL200_.jpg)](https://www.amazon.es/dp/B07D1LTVVT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D1LTVVT/?tag=tolees-21)

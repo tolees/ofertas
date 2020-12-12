@@ -22,7 +22,7 @@ Ahora mismo tienes [Umi. Essentials - Protector de colchón acolchado ext
 
 [![Umi. Essentials - Protector de colchón a](https://images-eu.ssl-images-amazon.com/images/I/41niHYQrGkL._SL200_.jpg)](https://www.amazon.es/dp/B07F1MVLGX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F1MVLGX/?tag=tolees-21)

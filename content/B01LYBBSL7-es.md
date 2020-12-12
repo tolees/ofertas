@@ -22,7 +22,7 @@ Ahora mismo tienes [One Punch Man Temporada 1 Ep. 1 A 12. Blu-Ray Edición Colec
 
 [![One Punch Man Temporada 1 Ep. 1 A 12. Bl](https://images-eu.ssl-images-amazon.com/images/I/61q3L%2BGfZQL._SL200_.jpg)](https://www.amazon.es/dp/B01LYBBSL7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01LYBBSL7/?tag=tolees-21)

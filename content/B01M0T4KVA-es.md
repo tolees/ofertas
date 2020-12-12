@@ -22,7 +22,7 @@ Ahora mismo tienes [Luminarc Pure Box – Recipiente Rectangular 820 ml  Cris
 
 [![Luminarc Pure Box – Recipiente Rectangul](https://images-eu.ssl-images-amazon.com/images/I/41bWOYA17rL._SL200_.jpg)](https://www.amazon.es/dp/B01M0T4KVA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01M0T4KVA/?tag=tolees-21)

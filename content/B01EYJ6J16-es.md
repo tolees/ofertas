@@ -22,7 +22,7 @@ Ahora mismo tienes [Kappa Kickoff  Zapatillas para Niñas  Rosa  Pink/White   39
 
 [![Kappa Kickoff  Zapatillas para Niñas  Ro](https://images-eu.ssl-images-amazon.com/images/I/416qDemDCIL._SL200_.jpg)](https://www.amazon.es/dp/B01EYJ6J16/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01EYJ6J16/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Deik Plancha de Vapor  Plancha Ropa  2200W  Vapor Anti-Escal
 
 [![Deik Plancha de Vapor  Plancha Ropa  220](https://images-eu.ssl-images-amazon.com/images/I/419mF5bZ%2BiL._SL200_.jpg)](https://www.amazon.es/dp/B07HL9M94P/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07HL9M94P/?tag=tolees-21)

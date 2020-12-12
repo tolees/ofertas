@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s 501 Ct Jeans For Women  Mujer  Azul  Turbulent Indigo
 
 [![Levi s 501 Ct Jeans For Women  Mujer  Az](https://images-eu.ssl-images-amazon.com/images/I/41TXRkPj66L._SL200_.jpg)](https://www.amazon.es/dp/B01N6B2ZG5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N6B2ZG5/?tag=tolees-21)

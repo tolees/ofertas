@@ -22,7 +22,7 @@ Ahora mismo tienes [Deluxe Cinta de Correr Andar Plegable Running Motor 1000W So
 
 [![Deluxe Cinta de Correr Andar Plegable Ru](https://images-eu.ssl-images-amazon.com/images/I/51V7XTdTCBL._SL200_.jpg)](https://www.amazon.es/dp/B074P54KWK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074P54KWK/?tag=tolees-21)

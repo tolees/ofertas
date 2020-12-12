@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers Go Walk Joy-Hero  Zapatillas para Mujer  Negro  Bla
 
 [![Skechers Go Walk Joy-Hero  Zapatillas pa](https://images-eu.ssl-images-amazon.com/images/I/41NuA6AWOuL._SL200_.jpg)](https://www.amazon.es/dp/B078GQ5NXC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078GQ5NXC/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Cortefiel Negro S](https://www.amazon.es/dp/B06XCTGSN8/?tag=
 
 [![Cortefiel Negro S](https://images-eu.ssl-images-amazon.com/images/I/41lvKrtt8uL._SL200_.jpg)](https://www.amazon.es/dp/B06XCTGSN8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XCTGSN8/?tag=tolees-21)

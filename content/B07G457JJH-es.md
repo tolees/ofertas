@@ -22,7 +22,7 @@ Ahora mismo tienes [Diesel S-Gir-ya Sweat-Shirt Capucha  Negro  Black 900   XX-L
 
 [![Diesel S-Gir-ya Sweat-Shirt Capucha  Neg](https://images-eu.ssl-images-amazon.com/images/I/41aGsFsKpiL._SL200_.jpg)](https://www.amazon.es/dp/B07G457JJH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07G457JJH/?tag=tolees-21)

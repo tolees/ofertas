@@ -22,7 +22,7 @@ Ahora mismo tienes [Reebok Astroride Run Fire  Zapatillas de Running para Mujer 
 
 [![Reebok Astroride Run Fire  Zapatillas de](https://images-eu.ssl-images-amazon.com/images/I/51hvVAz2HnL._SL200_.jpg)](https://www.amazon.es/dp/B072M7S4NR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072M7S4NR/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Yogini Lux Strappy Top Corto  Mujer  Fucsia  L](https:/
 
 [![Puma Yogini Lux Strappy Top Corto  Mujer](https://images-eu.ssl-images-amazon.com/images/I/417e3qk9VgL._SL200_.jpg)](https://www.amazon.es/dp/B0733L7VGL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0733L7VGL/?tag=tolees-21)

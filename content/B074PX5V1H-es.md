@@ -22,7 +22,7 @@ Ahora mismo tienes [San Ignacio Q2390 Sartén Aluminio  Cobre](https://www.amazo
 
 [![San Ignacio Q2390 Sartén Aluminio  Cobre](https://images-eu.ssl-images-amazon.com/images/I/41gXg4fa-zL._SL200_.jpg)](https://www.amazon.es/dp/B074PX5V1H/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074PX5V1H/?tag=tolees-21)

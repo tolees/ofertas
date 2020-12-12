@@ -22,7 +22,7 @@ Ahora mismo tienes [Hansgrohe 14877000 Talis S² Variarc grifo monomando de coci
 
 [![Hansgrohe 14877000 Talis S² Variarc grif](https://images-eu.ssl-images-amazon.com/images/I/316NnJTx2eL._SL200_.jpg)](https://www.amazon.es/dp/B0024ZYMK8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0024ZYMK8/?tag=tolees-21)

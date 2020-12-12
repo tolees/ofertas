@@ -22,7 +22,7 @@ Ahora mismo tienes [Soft doble par Vibrador Punto G silicona vibratoren con clí
 
 [![Soft doble par Vibrador Punto G silicona](https://images-eu.ssl-images-amazon.com/images/I/51%2BlbO-QYGL._SL200_.jpg)](https://www.amazon.es/dp/B07DNVTJH7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DNVTJH7/?tag=tolees-21)

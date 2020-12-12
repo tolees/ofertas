@@ -22,7 +22,7 @@ Ahora mismo tienes [Maybelline New York Perfilador de Ojos Master Graphic Black]
 
 [![Maybelline New York Perfilador de Ojos M](https://images-eu.ssl-images-amazon.com/images/I/31o3wDuzVLL._SL200_.jpg)](https://www.amazon.es/dp/B00N44FDJM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00N44FDJM/?tag=tolees-21)

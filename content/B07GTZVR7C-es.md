@@ -22,7 +22,7 @@ Ahora mismo tienes [Desigual - Bag Candem Formigal Women  Bolsos bandolera Mujer
 
 [![Desigual - Bag Candem Formigal Women  Bo](https://images-eu.ssl-images-amazon.com/images/I/51qZD0g7qeL._SL200_.jpg)](https://www.amazon.es/dp/B07GTZVR7C/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GTZVR7C/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour UA Performance Polo  Hombre  Gris  True Gray He
 
 [![Under Armour UA Performance Polo  Hombre](https://images-eu.ssl-images-amazon.com/images/I/31VBI0XU7jL._SL200_.jpg)](https://www.amazon.es/dp/B00DCBNV32/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00DCBNV32/?tag=tolees-21)

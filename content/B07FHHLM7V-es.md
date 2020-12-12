@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jcovincent Shawl Neck  suéter para Hombre  Roj
 
 [![JACK & JONES Jcovincent Shawl Neck  suét](https://images-eu.ssl-images-amazon.com/images/I/41G-SVZoOYL._SL200_.jpg)](https://www.amazon.es/dp/B07FHHLM7V/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FHHLM7V/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Elba 100402226 - Cartera para portátil de 17"](https://www.
 
 [![Elba 100402226 - Cartera para portátil d](https://images-eu.ssl-images-amazon.com/images/I/519hx964Z9L._SL200_.jpg)](https://www.amazon.es/dp/B00HN8DHH0/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00HN8DHH0/?tag=tolees-21)

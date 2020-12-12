@@ -22,7 +22,7 @@ Ahora mismo tienes [Sebastian Volupt Volumen Acondicionador - 1000 ml](https://w
 
 [![Sebastian Volupt Volumen Acondicionador ](https://images-eu.ssl-images-amazon.com/images/I/31XIEWRDlWL._SL200_.jpg)](https://www.amazon.es/dp/B0041GNNQC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0041GNNQC/?tag=tolees-21)

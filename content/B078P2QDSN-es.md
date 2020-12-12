@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike JR Superfly 6 Academy GS TF  Zapatillas de fútbol Sala
 
 [![Nike JR Superfly 6 Academy GS TF  Zapati](https://images-eu.ssl-images-amazon.com/images/I/41Ae1iGZV3L._SL200_.jpg)](https://www.amazon.es/dp/B078P2QDSN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078P2QDSN/?tag=tolees-21)

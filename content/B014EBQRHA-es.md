@@ -22,7 +22,7 @@ Ahora mismo tienes [Salomon Skin Pro 10 Set Backpack  Unisex Adulto  Negro  Blac
 
 [![Salomon Skin Pro 10 Set Backpack  Unisex](https://images-eu.ssl-images-amazon.com/images/I/51VPaWdnpfL._SL200_.jpg)](https://www.amazon.es/dp/B014EBQRHA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B014EBQRHA/?tag=tolees-21)

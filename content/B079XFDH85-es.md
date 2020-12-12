@@ -22,7 +22,7 @@ Ahora mismo tienes [Mayoral Reservado D.O Jumilla. Vino Tinto - 6 Botellas x 750
 
 [![Mayoral Reservado D.O Jumilla. Vino Tint](https://images-eu.ssl-images-amazon.com/images/I/51Op8H7RLtL._SL200_.jpg)](https://www.amazon.es/dp/B079XFDH85/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079XFDH85/?tag=tolees-21)

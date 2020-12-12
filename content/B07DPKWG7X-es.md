@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Active Tank Top  Mujer  Black  XS](https://www.amazon.e
 
 [![Puma Active Tank Top  Mujer  Black  XS](https://images-eu.ssl-images-amazon.com/images/I/41k6ruJZ0EL._SL200_.jpg)](https://www.amazon.es/dp/B07DPKWG7X/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DPKWG7X/?tag=tolees-21)

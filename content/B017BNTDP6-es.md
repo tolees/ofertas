@@ -22,7 +22,7 @@ Ahora mismo tienes [Runtastic Moment Fun - Monitor de actividad  Bluetooth  Runt
 
 [![Runtastic Moment Fun - Monitor de activi](https://images-eu.ssl-images-amazon.com/images/I/41arcTATHiL._SL200_.jpg)](https://www.amazon.es/dp/B017BNTDP6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B017BNTDP6/?tag=tolees-21)

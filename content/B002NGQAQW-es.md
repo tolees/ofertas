@@ -22,7 +22,7 @@ Ahora mismo tienes [Eukanuba Adulto Todas las razas Rico en salmón y arroz [2 5
 
 [![Eukanuba Adulto Todas las razas Rico en ](https://images-eu.ssl-images-amazon.com/images/I/41D3Ts5XddL._SL200_.jpg)](https://www.amazon.es/dp/B002NGQAQW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B002NGQAQW/?tag=tolees-21)

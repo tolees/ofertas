@@ -22,7 +22,7 @@ Ahora mismo tienes [ORICO USB3.0 4 Puerto Mini Superspeed Transparente de 5Gbps-
 
 [![ORICO USB3.0 4 Puerto Mini Superspeed Tr](https://images-eu.ssl-images-amazon.com/images/I/41RKJZ09MEL._SL200_.jpg)](https://www.amazon.es/dp/B07R1TS3VK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07R1TS3VK/?tag=tolees-21)

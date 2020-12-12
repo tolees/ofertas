@@ -22,7 +22,7 @@ Ahora mismo tienes [Amazon Essentials 2-Pack Long-Sleeve Active tee Athletic-Shi
 
 [![Amazon Essentials 2-Pack Long-Sleeve Act](https://images-eu.ssl-images-amazon.com/images/I/41nqESnKqOL._SL200_.jpg)](https://www.amazon.es/dp/B07JY2GY2J/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JY2GY2J/?tag=tolees-21)

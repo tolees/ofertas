@@ -22,7 +22,7 @@ Ahora mismo tienes [deAO RC Carrera a Coches de Choque Teledirigidos *Verde vs R
 
 [![deAO RC Carrera a Coches de Choque Teled](https://images-eu.ssl-images-amazon.com/images/I/51ryz2GcAnL._SL200_.jpg)](https://www.amazon.es/dp/B06VVB6C5R/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06VVB6C5R/?tag=tolees-21)

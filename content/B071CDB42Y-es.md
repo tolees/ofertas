@@ -22,7 +22,7 @@ Ahora mismo tienes [Blend  Pantalones para Hombre  Negro  Black 70155   W30/L32 
 
 [![Blend  Pantalones para Hombre  Negro  Bl](https://images-eu.ssl-images-amazon.com/images/I/41FR6w4WfEL._SL200_.jpg)](https://www.amazon.es/dp/B071CDB42Y/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071CDB42Y/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Cressi Rondinella Aletas  Unisex  Amarillo  31-32](https://w
 
 [![Cressi Rondinella Aletas  Unisex  Amaril](https://images-eu.ssl-images-amazon.com/images/I/51eAnvoTBoL._SL200_.jpg)](https://www.amazon.es/dp/B004NIG7WU/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B004NIG7WU/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Inflador Manual Bestway Air Hammer Inflation Pump 30 cm](htt
 
 [![Inflador Manual Bestway Air Hammer Infla](https://images-eu.ssl-images-amazon.com/images/I/41DgHERFhrL._SL200_.jpg)](https://www.amazon.es/dp/B00F4P46QA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00F4P46QA/?tag=tolees-21)

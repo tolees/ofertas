@@ -22,7 +22,7 @@ Ahora mismo tienes [Detector de Metales  TACKLIFE-MMD03-Detector Básico  2 Modo
 
 [![Detector de Metales  TACKLIFE-MMD03-Dete](https://images-eu.ssl-images-amazon.com/images/I/51BoMdlFPvL._SL200_.jpg)](https://www.amazon.es/dp/B07H4L75GT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07H4L75GT/?tag=tolees-21)

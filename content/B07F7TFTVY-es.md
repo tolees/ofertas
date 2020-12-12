@@ -22,7 +22,7 @@ Ahora mismo tienes [ASUS Lyra Trio - Kit de 2 Sistemas de Red Wi-Fi Mesh Dual-Ba
 
 [![ASUS Lyra Trio - Kit de 2 Sistemas de Re](https://images-eu.ssl-images-amazon.com/images/I/31VIV6znY9L._SL200_.jpg)](https://www.amazon.es/dp/B07F7TFTVY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F7TFTVY/?tag=tolees-21)

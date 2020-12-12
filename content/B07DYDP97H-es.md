@@ -22,7 +22,7 @@ Ahora mismo tienes [Merrell Momentous  Zapatillas de Running para Asfalto para H
 
 [![Merrell Momentous  Zapatillas de Running](https://images-eu.ssl-images-amazon.com/images/I/51mgeebDdzL._SL200_.jpg)](https://www.amazon.es/dp/B07DYDP97H/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DYDP97H/?tag=tolees-21)

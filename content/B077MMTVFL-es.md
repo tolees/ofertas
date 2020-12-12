@@ -22,7 +22,7 @@ Ahora mismo tienes [H&S Rejuvenecido y Fuerte Champú Anticaspa - 360 ml](https
 
 [![H&S Rejuvenecido y Fuerte Champú Anticas](https://images-eu.ssl-images-amazon.com/images/I/411ewWh11jL._SL200_.jpg)](https://www.amazon.es/dp/B077MMTVFL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077MMTVFL/?tag=tolees-21)

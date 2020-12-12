@@ -22,7 +22,7 @@ Ahora mismo tienes [Tommy Hilfiger Iconic Slip on Sneaker  Zapatillas sin Cordon
 
 [![Tommy Hilfiger Iconic Slip on Sneaker  Z](https://images-eu.ssl-images-amazon.com/images/I/31aMCkTfEwL._SL200_.jpg)](https://www.amazon.es/dp/B07L3F7JY9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07L3F7JY9/?tag=tolees-21)

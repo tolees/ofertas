@@ -22,7 +22,7 @@ Ahora mismo tienes [Lenovo Ideacentre AIO 330-20AST - Ordenador de sobremesa 19.
 
 [![Lenovo Ideacentre AIO 330-20AST - Ordena](https://images-eu.ssl-images-amazon.com/images/I/41AzMVasmRL._SL200_.jpg)](https://www.amazon.es/dp/B07D7YLYL9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D7YLYL9/?tag=tolees-21)

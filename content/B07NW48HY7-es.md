@@ -22,7 +22,7 @@ Ahora mismo tienes [ELINKUME® Cubeta de Almacenamiento de Mesa Cubo de Almacena
 
 [![ELINKUME® Cubeta de Almacenamiento de Me](https://images-eu.ssl-images-amazon.com/images/I/51d0KtzUs5L._SL200_.jpg)](https://www.amazon.es/dp/B07NW48HY7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07NW48HY7/?tag=tolees-21)

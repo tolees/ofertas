@@ -22,7 +22,7 @@ Ahora mismo tienes [YoYoFit Rock Pulsómetros Pulsera de Actividad Inteligente  
 
 [![YoYoFit Rock Pulsómetros Pulsera de Acti](https://images-eu.ssl-images-amazon.com/images/I/41meQekCsCL._SL200_.jpg)](https://www.amazon.es/dp/B07C24MD4L/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07C24MD4L/?tag=tolees-21)

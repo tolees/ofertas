@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jcologan Sweat Hood Zal Capucha  Verde  Rosin P
 
 [![JACK & JONES Jcologan Sweat Hood Zal Cap](https://images-eu.ssl-images-amazon.com/images/I/41Ta4jKVYxL._SL200_.jpg)](https://www.amazon.es/dp/B07FKZ1TVJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FKZ1TVJ/?tag=tolees-21)

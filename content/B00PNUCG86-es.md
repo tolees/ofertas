@@ -22,7 +22,7 @@ Ahora mismo tienes [Gardena 18301-20 Pistola  Gris  Naranja  embalado](https://w
 
 [![Gardena 18301-20 Pistola  Gris  Naranja ](https://images-eu.ssl-images-amazon.com/images/I/41PCsYbr2AL._SL200_.jpg)](https://www.amazon.es/dp/B00PNUCG86/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00PNUCG86/?tag=tolees-21)

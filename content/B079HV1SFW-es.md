@@ -22,7 +22,7 @@ Ahora mismo tienes [Teléfono Móvil Funker - C65 Azul Easy Plus- para Personas 
 
 [![Teléfono Móvil Funker - C65 Azul Easy Pl](https://images-eu.ssl-images-amazon.com/images/I/41q7g4MNKkL._SL200_.jpg)](https://www.amazon.es/dp/B079HV1SFW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079HV1SFW/?tag=tolees-21)

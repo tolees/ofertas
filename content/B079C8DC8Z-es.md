@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jjepaulos Polo SS Noos  Rojo  Brick Red Detail:
 
 [![JACK & JONES Jjepaulos Polo SS Noos  Roj](https://images-eu.ssl-images-amazon.com/images/I/410X9xKsF5L._SL200_.jpg)](https://www.amazon.es/dp/B079C8DC8Z/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079C8DC8Z/?tag=tolees-21)

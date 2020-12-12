@@ -22,7 +22,7 @@ Ahora mismo tienes [Gel Blanqueador de Dientes Teeth Whitening Kit Profesional B
 
 [![Gel Blanqueador de Dientes Teeth Whiteni](https://images-eu.ssl-images-amazon.com/images/I/51P3fRlHs8L._SL200_.jpg)](https://www.amazon.es/dp/B07MDMKVZ1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MDMKVZ1/?tag=tolees-21)

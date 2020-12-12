@@ -22,7 +22,7 @@ Ahora mismo tienes [Asics Gel-Cumulus 20  Zapatillas de Running para Hombre  Ama
 
 [![Asics Gel-Cumulus 20  Zapatillas de Runn](https://images-eu.ssl-images-amazon.com/images/I/41evc-nJ%2BHL._SL200_.jpg)](https://www.amazon.es/dp/B07K7PTPFS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07K7PTPFS/?tag=tolees-21)

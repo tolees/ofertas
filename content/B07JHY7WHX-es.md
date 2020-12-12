@@ -22,7 +22,7 @@ Ahora mismo tienes [Aicok Báscula de Baño  Bluetooth Báscula Grasa Corporal c
 
 [![Aicok Báscula de Baño  Bluetooth Báscula](https://images-eu.ssl-images-amazon.com/images/I/51iGinxO0fL._SL200_.jpg)](https://www.amazon.es/dp/B07JHY7WHX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JHY7WHX/?tag=tolees-21)

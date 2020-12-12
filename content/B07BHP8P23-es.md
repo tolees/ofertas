@@ -22,7 +22,7 @@ Ahora mismo tienes [Topmo-plus 8W Lámpara de pared LED OSRAM SMD Aplique de par
 
 [![Topmo-plus 8W Lámpara de pared LED OSRAM](https://images-eu.ssl-images-amazon.com/images/I/31c7r84%2BxPL._SL200_.jpg)](https://www.amazon.es/dp/B07BHP8P23/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BHP8P23/?tag=tolees-21)

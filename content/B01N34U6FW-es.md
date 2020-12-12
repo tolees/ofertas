@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Cross The Line Pants  Hombre  Azul  Team Power Blue   2
 
 [![Puma Cross The Line Pants  Hombre  Azul ](https://images-eu.ssl-images-amazon.com/images/I/41wM1vCOYXL._SL200_.jpg)](https://www.amazon.es/dp/B01N34U6FW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N34U6FW/?tag=tolees-21)

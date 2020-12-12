@@ -22,7 +22,7 @@ Ahora mismo tienes [FullBerg - Estantería de Metal para Flores con Diferentes t
 
 [![FullBerg - Estantería de Metal para Flor](https://images-eu.ssl-images-amazon.com/images/I/51jYE5Eca8L._SL200_.jpg)](https://www.amazon.es/dp/B07N4L6XDY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07N4L6XDY/?tag=tolees-21)

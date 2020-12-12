@@ -22,7 +22,7 @@ Ahora mismo tienes [Aiibot Robot Aspirador Navegación Inteligente  Robot de Lim
 
 [![Aiibot Robot Aspirador Navegación Inteli](https://images-eu.ssl-images-amazon.com/images/I/41R%2BFKelcjL._SL200_.jpg)](https://www.amazon.es/dp/B07KR5J5NZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KR5J5NZ/?tag=tolees-21)

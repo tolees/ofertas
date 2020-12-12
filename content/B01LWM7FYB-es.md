@@ -22,7 +22,7 @@ Ahora mismo tienes [Samsung Scoop de Living Series - Altavoz Bluetooth Resistent
 
 [![Samsung Scoop de Living Series - Altavoz](https://images-eu.ssl-images-amazon.com/images/I/41f-vKoMc9L._SL200_.jpg)](https://www.amazon.es/dp/B01LWM7FYB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01LWM7FYB/?tag=tolees-21)

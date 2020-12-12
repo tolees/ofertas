@@ -22,7 +22,7 @@ Ahora mismo tienes [Weider 32% Protein Bar  Plátano - 24 Barras](https://www.am
 
 [![Weider 32% Protein Bar  Plátano - 24 Bar](https://images-eu.ssl-images-amazon.com/images/I/41-fYdkm79L._SL200_.jpg)](https://www.amazon.es/dp/B00GSR2XUO/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00GSR2XUO/?tag=tolees-21)

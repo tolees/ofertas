@@ -22,7 +22,7 @@ Ahora mismo tienes [MyProtein Glutamina - 1000 gr](https://www.amazon.es/dp/B00J
 
 [![MyProtein Glutamina - 1000 gr](https://images-eu.ssl-images-amazon.com/images/I/41gjm24UxuL._SL200_.jpg)](https://www.amazon.es/dp/B00JAJY65W/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00JAJY65W/?tag=tolees-21)

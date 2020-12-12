@@ -22,7 +22,7 @@ Ahora mismo tienes [FIND Botín Stretch Mujer  Rosa  Rose   37](https://www.amaz
 
 [![FIND Botín Stretch Mujer  Rosa  Rose   3](https://images-eu.ssl-images-amazon.com/images/I/41CaEdxlujL._SL200_.jpg)](https://www.amazon.es/dp/B071FJSTFN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071FJSTFN/?tag=tolees-21)

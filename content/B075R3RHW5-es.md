@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance 490  Zapatillas de Running para Mujer  Negro  Bl
 
 [![New Balance 490  Zapatillas de Running p](https://images-eu.ssl-images-amazon.com/images/I/41MY%2B-yQAPL._SL200_.jpg)](https://www.amazon.es/dp/B075R3RHW5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075R3RHW5/?tag=tolees-21)

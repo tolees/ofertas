@@ -22,7 +22,7 @@ Ahora mismo tienes [Pulidor de Uñas Aparatos eléctricos y accesorios para mani
 
 [![Pulidor de Uñas Aparatos eléctricos y ac](https://images-eu.ssl-images-amazon.com/images/I/51qZj7olopL._SL200_.jpg)](https://www.amazon.es/dp/B07H91MWTF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07H91MWTF/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [VIALMAN Colcha  Gris  Cama 90 : 180 CM X 270 CM](https://www
 
 [![VIALMAN Colcha  Gris  Cama 90 : 180 CM X](https://images-eu.ssl-images-amazon.com/images/I/61Gf5XyTraL._SL200_.jpg)](https://www.amazon.es/dp/B06XWN74CG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XWN74CG/?tag=tolees-21)

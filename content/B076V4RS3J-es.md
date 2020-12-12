@@ -22,7 +22,7 @@ Ahora mismo tienes [TTMOW Cargador USB de Pared con Pantalla LCD Visualización 
 
 [![TTMOW Cargador USB de Pared con Pantalla](https://images-eu.ssl-images-amazon.com/images/I/41VZvJouu2L._SL200_.jpg)](https://www.amazon.es/dp/B076V4RS3J/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B076V4RS3J/?tag=tolees-21)

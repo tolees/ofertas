@@ -22,7 +22,7 @@ Ahora mismo tienes [Gant Premium Trunk Yarn-dyed Stripe  Bañador para Hombre  B
 
 [![Gant Premium Trunk Yarn-dyed Stripe  Bañ](https://images-eu.ssl-images-amazon.com/images/I/51Z4kEJTuSL._SL200_.jpg)](https://www.amazon.es/dp/B07D2RXKX8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D2RXKX8/?tag=tolees-21)

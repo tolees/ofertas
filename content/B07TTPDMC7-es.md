@@ -22,10 +22,10 @@ Ahora mismo tienes [Kipling Creativity S  Cartera para Mujer  Gris  Curiosity Gr
 
 [![Kipling Creativity S  Cartera para Mujer](https://m.media-amazon.com/images/I/41ahAkiahML._SL200_.jpg)](https://www.amazon.es/dp/B07TTPDMC7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
-- Repelente al agua.
 - Logotipo de Kipling.
 - Ligero, duradero y siempre práctico.
+- Repelente al agua.
 
 [Visítala!!!](https://www.amazon.es/dp/B07TTPDMC7/?tag=tolees-21)

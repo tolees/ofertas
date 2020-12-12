@@ -22,7 +22,7 @@ Ahora mismo tienes [Adidas V Racer 2.0  Zapatillas de Running para Hombre  Azul 
 
 [![Adidas V Racer 2.0  Zapatillas de Runnin](https://images-eu.ssl-images-amazon.com/images/I/41KvrlWw2DL._SL200_.jpg)](https://www.amazon.es/dp/B07DQSKXK4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DQSKXK4/?tag=tolees-21)

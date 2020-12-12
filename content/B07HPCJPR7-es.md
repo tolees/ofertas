@@ -22,7 +22,7 @@ Ahora mismo tienes [Auriculares  Auriculares con Micrófono Auriculares Cable  S
 
 [![Auriculares  Auriculares con Micrófono A](https://images-eu.ssl-images-amazon.com/images/I/41bMbHwgbTL._SL200_.jpg)](https://www.amazon.es/dp/B07HPCJPR7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07HPCJPR7/?tag=tolees-21)

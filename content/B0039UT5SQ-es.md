@@ -22,7 +22,7 @@ Ahora mismo tienes [Casio Reloj de Pulsera MTP-1302PSG-7AVEF](https://www.amazon
 
 [![Casio Reloj de Pulsera MTP-1302PSG-7AVEF](https://images-eu.ssl-images-amazon.com/images/I/41u9FQFrAvL._SL200_.jpg)](https://www.amazon.es/dp/B0039UT5SQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0039UT5SQ/?tag=tolees-21)

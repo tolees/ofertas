@@ -22,7 +22,7 @@ Ahora mismo tienes [Aster Vi-brador con Función de Ca-lefacción y Mo-tor Dual 
 
 [![Aster Vi-brador con Función de Ca-lefacc](https://images-eu.ssl-images-amazon.com/images/I/416PyJOxxWL._SL200_.jpg)](https://www.amazon.es/dp/B07DNZJ7DZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DNZJ7DZ/?tag=tolees-21)

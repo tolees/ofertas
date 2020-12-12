@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma ESS Pique Polo T-Shirt  Hombre  Cotton Black  L](https:
 
 [![Puma ESS Pique Polo T-Shirt  Hombre  Cot](https://images-eu.ssl-images-amazon.com/images/I/41xsEW2wb9L._SL200_.jpg)](https://www.amazon.es/dp/B077HLZ57X/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077HLZ57X/?tag=tolees-21)

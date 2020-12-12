@@ -22,7 +22,7 @@ Ahora mismo tienes [Tanburo Báscula Digital para Baño  Alta Medición Precisa 
 
 [![Tanburo Báscula Digital para Baño  Alta ](https://images-eu.ssl-images-amazon.com/images/I/415UhmPOz9L._SL200_.jpg)](https://www.amazon.es/dp/B07CPMJ28L/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CPMJ28L/?tag=tolees-21)

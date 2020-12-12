@@ -22,7 +22,7 @@ Ahora mismo tienes [Reebok Royal Cl Jogger 2  Zapatillas de Running para Hombre 
 
 [![Reebok Royal Cl Jogger 2  Zapatillas de ](https://images-eu.ssl-images-amazon.com/images/I/41VeuU8lwFL._SL200_.jpg)](https://www.amazon.es/dp/B018SH5VJQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B018SH5VJQ/?tag=tolees-21)

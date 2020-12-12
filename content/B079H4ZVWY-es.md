@@ -22,7 +22,7 @@ Ahora mismo tienes [Kingston SDS/128GB - Tarjeta de Memoria SD  Micro SDS  128 G
 
 [![Kingston SDS/128GB - Tarjeta de Memoria ](https://images-eu.ssl-images-amazon.com/images/I/41z5X6rCbJL._SL200_.jpg)](https://www.amazon.es/dp/B079H4ZVWY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079H4ZVWY/?tag=tolees-21)

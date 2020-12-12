@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW Classic Trunk 3 Pack Ao  Bañador Hombre   Kit ao
 
 [![G-STAR RAW Classic Trunk 3 Pack Ao  Baña](https://images-eu.ssl-images-amazon.com/images/I/51dONQMGIcL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ7D6W3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CZ7D6W3/?tag=tolees-21)

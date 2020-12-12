@@ -22,7 +22,7 @@ Ahora mismo tienes [SYCOTEK Reposapiés Inflable Portable 1 Altura  Almohada par
 
 [![SYCOTEK Reposapiés Inflable Portable 1 A](https://images-eu.ssl-images-amazon.com/images/I/41BAPDFC%2BML._SL200_.jpg)](https://www.amazon.es/dp/B07DMTWGR7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DMTWGR7/?tag=tolees-21)

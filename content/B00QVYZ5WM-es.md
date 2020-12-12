@@ -22,7 +22,7 @@ Ahora mismo tienes [Schleich -Abrevadero. Set de animales salvales con múltiple
 
 [![Schleich -Abrevadero. Set de animales sa](https://images-eu.ssl-images-amazon.com/images/I/51uAMkgUaXL._SL200_.jpg)](https://www.amazon.es/dp/B00QVYZ5WM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00QVYZ5WM/?tag=tolees-21)

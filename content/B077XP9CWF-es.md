@@ -22,7 +22,7 @@ Ahora mismo tienes [Sujetador deportivo de alto impacto para mujer Under Armour 
 
 [![Sujetador deportivo de alto impacto para](https://images-eu.ssl-images-amazon.com/images/I/41ERNBhwKML._SL200_.jpg)](https://www.amazon.es/dp/B077XP9CWF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077XP9CWF/?tag=tolees-21)

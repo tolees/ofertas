@@ -22,7 +22,7 @@ Ahora mismo tienes [iPosible Funda Batería para iPhone 6/6S/7/8  [6000mAh] Fund
 
 [![iPosible Funda Batería para iPhone 6/6S/](https://images-eu.ssl-images-amazon.com/images/I/41hJuTeLPWL._SL200_.jpg)](https://www.amazon.es/dp/B07H59X5GD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07H59X5GD/?tag=tolees-21)

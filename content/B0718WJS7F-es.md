@@ -22,7 +22,7 @@ Ahora mismo tienes [Maidenform Casual Comfort-Convertible  Sujetador Estilo Bral
 
 [![Maidenform Casual Comfort-Convertible  S](https://images-eu.ssl-images-amazon.com/images/I/51bPIL90dML._SL200_.jpg)](https://www.amazon.es/dp/B0718WJS7F/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0718WJS7F/?tag=tolees-21)

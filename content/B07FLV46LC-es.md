@@ -22,7 +22,7 @@ Ahora mismo tienes [Finether Plancha de Vapor Portátil  Plancha Ropa Vapor Vert
 
 [![Finether Plancha de Vapor Portátil  Plan](https://images-eu.ssl-images-amazon.com/images/I/411e4Z5wU6L._SL200_.jpg)](https://www.amazon.es/dp/B07FLV46LC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FLV46LC/?tag=tolees-21)

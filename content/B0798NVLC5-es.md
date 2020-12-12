@@ -22,7 +22,7 @@ Ahora mismo tienes [Mini plegable multifunción alicates con cola hebilla y bols
 
 [![Mini plegable multifunción alicates con ](https://images-eu.ssl-images-amazon.com/images/I/418jRjiPDEL._SL200_.jpg)](https://www.amazon.es/dp/B0798NVLC5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0798NVLC5/?tag=tolees-21)

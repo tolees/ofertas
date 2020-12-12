@@ -22,7 +22,7 @@ Ahora mismo tienes [OurLeeme Presentador inalámbrico  presentación de control 
 
 [![OurLeeme Presentador inalámbrico  presen](https://images-eu.ssl-images-amazon.com/images/I/414ByfZswRL._SL200_.jpg)](https://www.amazon.es/dp/B07P5CLK8D/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07P5CLK8D/?tag=tolees-21)

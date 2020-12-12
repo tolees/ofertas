@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Falcon  Zapatillas de Entrenamiento para Hombre  FTWR
 
 [![adidas Falcon  Zapatillas de Entrenamien](https://images-eu.ssl-images-amazon.com/images/I/41mSxyMOvQL._SL200_.jpg)](https://www.amazon.es/dp/B07K2PCVR2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07K2PCVR2/?tag=tolees-21)

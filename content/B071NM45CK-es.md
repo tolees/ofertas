@@ -22,7 +22,7 @@ Ahora mismo tienes [HyperX Impact 16GB DDR4 2133MHz Kit 16GB DDR4 2133MHz módul
 
 [![HyperX Impact 16GB DDR4 2133MHz Kit 16GB](https://images-eu.ssl-images-amazon.com/images/I/519ZK9ilurL._SL200_.jpg)](https://www.amazon.es/dp/B071NM45CK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071NM45CK/?tag=tolees-21)

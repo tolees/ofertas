@@ -22,7 +22,7 @@ Ahora mismo tienes [BOSS Pike  Pantalones Cortos Hombre  Azul  Medium Blue 422  
 
 [![BOSS Pike  Pantalones Cortos Hombre  Azu](https://images-eu.ssl-images-amazon.com/images/I/4148pIQ2KGL._SL200_.jpg)](https://www.amazon.es/dp/B07G4C9XXR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07G4C9XXR/?tag=tolees-21)

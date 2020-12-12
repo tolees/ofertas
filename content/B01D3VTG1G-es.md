@@ -22,7 +22,7 @@ Ahora mismo tienes [El Puño Del Dragón [Blu-ray]](https://www.amazon.es/dp/B01
 
 [![El Puño Del Dragón [Blu-ray]](https://images-eu.ssl-images-amazon.com/images/I/51J-FElQfPL._SL200_.jpg)](https://www.amazon.es/dp/B01D3VTG1G/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01D3VTG1G/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Mannesmann - M27405 - Juego de llaves de carraca](https://ww
 
 [![Mannesmann - M27405 - Juego de llaves de](https://images-eu.ssl-images-amazon.com/images/I/41lNtyYHnTL._SL200_.jpg)](https://www.amazon.es/dp/B000K2PDSW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B000K2PDSW/?tag=tolees-21)

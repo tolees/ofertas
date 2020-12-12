@@ -22,7 +22,7 @@ Ahora mismo tienes [Kempa Niños Classic Pantalones Cortos Pantalones  Primavera
 
 [![Kempa Niños Classic Pantalones Cortos Pa](https://images-eu.ssl-images-amazon.com/images/I/31K%2BaIoJGOL._SL200_.jpg)](https://www.amazon.es/dp/B0797GJY9B/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0797GJY9B/?tag=tolees-21)

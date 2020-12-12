@@ -22,7 +22,7 @@ Ahora mismo tienes [Asics Gel-kenun Lyte MX  Zapatillas de Entrenamiento para Mu
 
 [![Asics Gel-kenun Lyte MX  Zapatillas de E](https://images-eu.ssl-images-amazon.com/images/I/41Wj6GQZS%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07CZB22RZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CZB22RZ/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Basket Platform VR  Zapatillas para Mujer  Negro Black 
 
 [![Puma Basket Platform VR  Zapatillas para](https://images-eu.ssl-images-amazon.com/images/I/410HIsw3hZL._SL200_.jpg)](https://www.amazon.es/dp/B071HQ3NVM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071HQ3NVM/?tag=tolees-21)

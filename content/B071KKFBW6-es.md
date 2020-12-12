@@ -22,7 +22,7 @@ Ahora mismo tienes [ELINKUME Lámpara de escritorio solar LED con cable USB  lá
 
 [![ELINKUME Lámpara de escritorio solar LED](https://images-eu.ssl-images-amazon.com/images/I/419bB6uek7L._SL200_.jpg)](https://www.amazon.es/dp/B071KKFBW6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071KKFBW6/?tag=tolees-21)

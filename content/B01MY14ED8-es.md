@@ -22,7 +22,7 @@ Ahora mismo tienes [Reebok Royal Classic Jog 2Tm  Zapatillas de Trail Running pa
 
 [![Reebok Royal Classic Jog 2Tm  Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/41Za6r5lXDL._SL200_.jpg)](https://www.amazon.es/dp/B01MY14ED8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MY14ED8/?tag=tolees-21)

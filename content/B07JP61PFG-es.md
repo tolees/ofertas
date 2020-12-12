@@ -22,7 +22,7 @@ Ahora mismo tienes [Guess Derren Cn Fleece suéter  Gris  Stone Heather Grey M S
 
 [![Guess Derren Cn Fleece suéter  Gris  Sto](https://images-eu.ssl-images-amazon.com/images/I/41fk357-diL._SL200_.jpg)](https://www.amazon.es/dp/B07JP61PFG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JP61PFG/?tag=tolees-21)

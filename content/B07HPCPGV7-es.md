@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans Roy Mochila Escolar 42 cm  22.79 litros  Verde](h
 
 [![Pepe Jeans Roy Mochila Escolar 42 cm  22](https://images-eu.ssl-images-amazon.com/images/I/41gklv7MO2L._SL200_.jpg)](https://www.amazon.es/dp/B07HPCPGV7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07HPCPGV7/?tag=tolees-21)

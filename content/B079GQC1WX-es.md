@@ -22,7 +22,7 @@ Ahora mismo tienes [Woxter 65 C - Alimentador de portátil  65 W con Conector US
 
 [![Woxter 65 C - Alimentador de portátil  6](https://images-eu.ssl-images-amazon.com/images/I/31knqNRuQyL._SL200_.jpg)](https://www.amazon.es/dp/B079GQC1WX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079GQC1WX/?tag=tolees-21)

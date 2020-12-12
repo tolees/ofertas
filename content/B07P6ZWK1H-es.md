@@ -22,7 +22,7 @@ Ahora mismo tienes [Amzdeal Grifo Termostático Ducha Termostato de Ducha con 38
 
 [![Amzdeal Grifo Termostático Ducha Termost](https://images-eu.ssl-images-amazon.com/images/I/31KOG3IkitL._SL200_.jpg)](https://www.amazon.es/dp/B07P6ZWK1H/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07P6ZWK1H/?tag=tolees-21)

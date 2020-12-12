@@ -22,7 +22,7 @@ Ahora mismo tienes [Linksys LAPAC1750C-EU - Punto de Acceso Inalámbrico de Dobl
 
 [![Linksys LAPAC1750C-EU - Punto de Acceso ](https://images-eu.ssl-images-amazon.com/images/I/4160p3rZdWL._SL200_.jpg)](https://www.amazon.es/dp/B07JCGQ7PN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JCGQ7PN/?tag=tolees-21)

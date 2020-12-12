@@ -22,7 +22,7 @@ Ahora mismo tienes [Clevamama Toalla Bebé con Capucha - Capa de Baño Infantil 
 
 [![Clevamama Toalla Bebé con Capucha - Capa](https://images-eu.ssl-images-amazon.com/images/I/418Hsolwy0L._SL200_.jpg)](https://www.amazon.es/dp/B000NI08KG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B000NI08KG/?tag=tolees-21)

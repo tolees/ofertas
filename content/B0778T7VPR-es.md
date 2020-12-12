@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jjivega Jjbob WW Olive Night Noos  Pantalones p
 
 [![JACK & JONES Jjivega Jjbob WW Olive Nigh](https://images-eu.ssl-images-amazon.com/images/I/41eDU669b9L._SL200_.jpg)](https://www.amazon.es/dp/B0778T7VPR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0778T7VPR/?tag=tolees-21)

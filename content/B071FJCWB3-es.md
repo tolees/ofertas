@@ -22,7 +22,7 @@ Ahora mismo tienes [FIND Mono Asimétrico para Mujer  Rojo  Red Tomato Red   Med
 
 [![FIND Mono Asimétrico para Mujer  Rojo  R](https://images-eu.ssl-images-amazon.com/images/I/41EdjBnDzEL._SL200_.jpg)](https://www.amazon.es/dp/B071FJCWB3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071FJCWB3/?tag=tolees-21)

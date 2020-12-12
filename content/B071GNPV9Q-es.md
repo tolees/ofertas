@@ -22,7 +22,7 @@ Ahora mismo tienes [Apple iPad Pro - Tablet de 10.5"  64 GB con Wi-Fi + Cellular
 
 [![Apple iPad Pro - Tablet de 10.5"  64 GB ](https://images-eu.ssl-images-amazon.com/images/I/41DS%2BFqUeIL._SL200_.jpg)](https://www.amazon.es/dp/B071GNPV9Q/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071GNPV9Q/?tag=tolees-21)

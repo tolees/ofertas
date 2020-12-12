@@ -22,7 +22,7 @@ Ahora mismo tienes [Lacoste Ph9363  Polo para Hombre  Blanco Flour B5l  XX-Large
 
 [![Lacoste Ph9363  Polo para Hombre  Blanco](https://images-eu.ssl-images-amazon.com/images/I/41Xg%2BgVwsOL._SL200_.jpg)](https://www.amazon.es/dp/B07DTL7BCB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DTL7BCB/?tag=tolees-21)

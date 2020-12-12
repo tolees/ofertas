@@ -22,7 +22,7 @@ Ahora mismo tienes [3Claveles 18 - Tijera de costura de 5.5"](https://www.amazon
 
 [![3Claveles 18 - Tijera de costura de 5.5"](https://images-eu.ssl-images-amazon.com/images/I/3191YEpVhXL._SL200_.jpg)](https://www.amazon.es/dp/B00A8G0DTE/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00A8G0DTE/?tag=tolees-21)

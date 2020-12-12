@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Te- KU  Zapatillas Unisex Adulto  Beige  Taos Taupe   4
 
 [![Puma Te- KU  Zapatillas Unisex Adulto  B](https://images-eu.ssl-images-amazon.com/images/I/41ziHjMj57L._SL200_.jpg)](https://www.amazon.es/dp/B07DCBLR4P/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DCBLR4P/?tag=tolees-21)

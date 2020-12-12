@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance 840  Zapatillas para Mujer  Rojo  NB Burgundy/Cl
 
 [![New Balance 840  Zapatillas para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41G1EDtt13L._SL200_.jpg)](https://www.amazon.es/dp/B07DFW7KGR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DFW7KGR/?tag=tolees-21)

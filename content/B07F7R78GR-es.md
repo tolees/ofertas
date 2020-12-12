@@ -22,7 +22,7 @@ Ahora mismo tienes [Rollos para Envasadora Sellador de Vacío 6 Rollos 20 x 300c
 
 [![Rollos para Envasadora Sellador de Vacío](https://images-eu.ssl-images-amazon.com/images/I/41cswNc8IgL._SL200_.jpg)](https://www.amazon.es/dp/B07F7R78GR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F7R78GR/?tag=tolees-21)

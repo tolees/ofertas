@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s Rectangular Buckle Belt - Cinturón Hombre  Negro  BL
 
 [![Levi s Rectangular Buckle Belt - Cinturó](https://images-eu.ssl-images-amazon.com/images/I/41xuCqyuoVL._SL200_.jpg)](https://www.amazon.es/dp/B00O0Y8SGU/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00O0Y8SGU/?tag=tolees-21)

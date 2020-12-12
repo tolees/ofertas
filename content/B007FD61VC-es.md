@@ -22,7 +22,7 @@ Ahora mismo tienes [VARTA CR 2016 - Pack de 2 Pilas  Litio  3V  87 mAh ](https:/
 
 [![VARTA CR 2016 - Pack de 2 Pilas  Litio  ](https://images-eu.ssl-images-amazon.com/images/I/51KroPh2paL._SL200_.jpg)](https://www.amazon.es/dp/B007FD61VC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B007FD61VC/?tag=tolees-21)

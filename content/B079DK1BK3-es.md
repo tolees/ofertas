@@ -22,7 +22,7 @@ Ahora mismo tienes [Auriculares Bluetooth 5.0  Mini Casco Control Táctil verdad
 
 [![Auriculares Bluetooth 5.0  Mini Casco Co](https://images-eu.ssl-images-amazon.com/images/I/41yEpFTh26L._SL200_.jpg)](https://www.amazon.es/dp/B079DK1BK3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079DK1BK3/?tag=tolees-21)

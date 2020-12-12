@@ -22,7 +22,7 @@ Ahora mismo tienes [Faro Barcelona Galapago 33301 - Ventilador con luz  bombilla
 
 [![Faro Barcelona Galapago 33301 - Ventilad](https://images-eu.ssl-images-amazon.com/images/I/31NiHJ5I87L._SL200_.jpg)](https://www.amazon.es/dp/B005KT78HY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B005KT78HY/?tag=tolees-21)

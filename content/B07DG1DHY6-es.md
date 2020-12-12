@@ -22,7 +22,7 @@ Ahora mismo tienes [Discos de Lijado  iTrunk 70PCS Lijadora Almohadillas de Lija
 
 [![Discos de Lijado  iTrunk 70PCS Lijadora ](https://images-eu.ssl-images-amazon.com/images/I/6170OsRzBYL._SL200_.jpg)](https://www.amazon.es/dp/B07DG1DHY6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DG1DHY6/?tag=tolees-21)

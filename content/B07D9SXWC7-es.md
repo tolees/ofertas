@@ -22,7 +22,7 @@ Ahora mismo tienes [Adidas Fortarun K  Zapatillas de Running Unisex Niños  Negr
 
 [![Adidas Fortarun K  Zapatillas de Running](https://images-eu.ssl-images-amazon.com/images/I/412vnwAjm4L._SL200_.jpg)](https://www.amazon.es/dp/B07D9SXWC7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D9SXWC7/?tag=tolees-21)

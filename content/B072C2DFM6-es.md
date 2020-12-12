@@ -22,7 +22,7 @@ Ahora mismo tienes [Adidas Tubular Shadow  Zapatillas para Hombre  Gris Grey Thr
 
 [![Adidas Tubular Shadow  Zapatillas para H](https://images-eu.ssl-images-amazon.com/images/I/41pFTc8TvVL._SL200_.jpg)](https://www.amazon.es/dp/B072C2DFM6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072C2DFM6/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa e
 
 [![Festina Reloj Cronógrafo para Hombre de ](https://images-eu.ssl-images-amazon.com/images/I/41EpNHfsjXL._SL200_.jpg)](https://www.amazon.es/dp/B07F9K1ZFF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F9K1ZFF/?tag=tolees-21)

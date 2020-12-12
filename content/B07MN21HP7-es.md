@@ -22,7 +22,7 @@ Ahora mismo tienes [MTNG 69194  Zapatillas para Mujer  Beige Rosa/Yoda Blanco Ro
 
 [![MTNG 69194  Zapatillas para Mujer  Beige](https://images-eu.ssl-images-amazon.com/images/I/316fRSu4hfL._SL200_.jpg)](https://www.amazon.es/dp/B07MN21HP7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MN21HP7/?tag=tolees-21)

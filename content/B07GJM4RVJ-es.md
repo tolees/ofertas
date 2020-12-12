@@ -22,7 +22,7 @@ Ahora mismo tienes [Lentillas Blancas - Lentes de Contacto De Color Blanco - sin
 
 [![Lentillas Blancas - Lentes de Contacto D](https://images-eu.ssl-images-amazon.com/images/I/514xN62xx6L._SL200_.jpg)](https://www.amazon.es/dp/B07GJM4RVJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GJM4RVJ/?tag=tolees-21)

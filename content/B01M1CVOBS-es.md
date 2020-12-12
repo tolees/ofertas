@@ -22,7 +22,7 @@ Ahora mismo tienes [SUENOSZZZ - Oferta!! Cabecero Dakota  Cama90  100x57 cms. Co
 
 [![SUENOSZZZ - Oferta!! Cabecero Dakota  Ca](https://images-eu.ssl-images-amazon.com/images/I/51dYcOTH-OL._SL200_.jpg)](https://www.amazon.es/dp/B01M1CVOBS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01M1CVOBS/?tag=tolees-21)

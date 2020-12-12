@@ -22,7 +22,7 @@ Ahora mismo tienes [MTNG Attitude 84214  Zapatillas para Hombre  Azul  Brisbane 
 
 [![MTNG Attitude 84214  Zapatillas para Hom](https://images-eu.ssl-images-amazon.com/images/I/41lR-TnyfSL._SL200_.jpg)](https://www.amazon.es/dp/B07M9BFM4D/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07M9BFM4D/?tag=tolees-21)

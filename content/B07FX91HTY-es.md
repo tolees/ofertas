@@ -22,7 +22,7 @@ Ahora mismo tienes [Afeitadora Eléctrica Hombre 4 en 1 Recargable 4D Mojado y S
 
 [![Afeitadora Eléctrica Hombre 4 en 1 Recar](https://images-eu.ssl-images-amazon.com/images/I/41A06Lva4ZL._SL200_.jpg)](https://www.amazon.es/dp/B07FX91HTY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FX91HTY/?tag=tolees-21)

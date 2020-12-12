@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour Rival Fleece Pant Pantalones  Mujer  Morado  Pu
 
 [![Under Armour Rival Fleece Pant Pantalone](https://images-eu.ssl-images-amazon.com/images/I/31MmJ8JVDIL._SL200_.jpg)](https://www.amazon.es/dp/B07KSR25VR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KSR25VR/?tag=tolees-21)

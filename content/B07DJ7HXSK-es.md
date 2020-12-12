@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance 220  Zapatillas Unisex Niños  Azul  Cobalt Blue
 
 [![New Balance 220  Zapatillas Unisex Niños](https://images-eu.ssl-images-amazon.com/images/I/41f5SFidziL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ7HXSK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DJ7HXSK/?tag=tolees-21)

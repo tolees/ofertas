@@ -22,7 +22,7 @@ Ahora mismo tienes [Medisana PSD 40461  Báscula de Baño de Estilo Retro  Dise�
 
 [![Medisana PSD 40461  Báscula de Baño de E](https://images-eu.ssl-images-amazon.com/images/I/31oCrD8kQtL._SL200_.jpg)](https://www.amazon.es/dp/B005S45LWK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B005S45LWK/?tag=tolees-21)

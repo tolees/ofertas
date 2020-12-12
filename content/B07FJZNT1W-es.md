@@ -22,7 +22,7 @@ Ahora mismo tienes [Eono Essentials - Mallas de yoga pirata elásticas para muje
 
 [![Eono Essentials - Mallas de yoga pirata ](https://images-eu.ssl-images-amazon.com/images/I/31aLkjYAphL._SL200_.jpg)](https://www.amazon.es/dp/B07FJZNT1W/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FJZNT1W/?tag=tolees-21)

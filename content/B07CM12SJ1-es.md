@@ -22,7 +22,7 @@ Ahora mismo tienes [Soldador Pirograbador de Madera profesional 60W CookJoy Piro
 
 [![Soldador Pirograbador de Madera profesio](https://images-eu.ssl-images-amazon.com/images/I/513G78njeiL._SL200_.jpg)](https://www.amazon.es/dp/B07CM12SJ1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CM12SJ1/?tag=tolees-21)

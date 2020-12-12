@@ -22,7 +22,7 @@ Ahora mismo tienes [ASTER-01 Masajeador de Mano para aliviar el Dolor Muscular](
 
 [![ASTER-01 Masajeador de Mano para aliviar](https://images-eu.ssl-images-amazon.com/images/I/41IO2lvMuOL._SL200_.jpg)](https://www.amazon.es/dp/B07RL7HSLC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07RL7HSLC/?tag=tolees-21)

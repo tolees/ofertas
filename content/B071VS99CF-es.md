@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Rebound Street V2  Zapatillas Altas Unisex Adults o  Ne
 
 [![Puma Rebound Street V2  Zapatillas Altas](https://images-eu.ssl-images-amazon.com/images/I/4153IzPqhxL._SL200_.jpg)](https://www.amazon.es/dp/B071VS99CF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071VS99CF/?tag=tolees-21)

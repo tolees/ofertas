@@ -22,7 +22,7 @@ Ahora mismo tienes [Asics Patriot 10  Zapatillas de Running para Mujer  Morado  
 
 [![Asics Patriot 10  Zapatillas de Running ](https://images-eu.ssl-images-amazon.com/images/I/413ZFdNgP-L._SL200_.jpg)](https://www.amazon.es/dp/B07CZ4GCB6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CZ4GCB6/?tag=tolees-21)

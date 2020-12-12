@@ -22,7 +22,7 @@ Ahora mismo tienes [OTHA Banda Elástica  Bandas de Resistencia  Ligera/Media / 
 
 [![OTHA Banda Elástica  Bandas de Resistenc](https://images-eu.ssl-images-amazon.com/images/I/41iFe6Mdt3L._SL200_.jpg)](https://www.amazon.es/dp/B07BDG6L1F/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BDG6L1F/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Reebok Cm9609  Zapatillas de Gimnasia para Hombre  Azul  Blu
 
 [![Reebok Cm9609  Zapatillas de Gimnasia pa](https://images-eu.ssl-images-amazon.com/images/I/41aJF0gSL4L._SL200_.jpg)](https://www.amazon.es/dp/B077TVPVXW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077TVPVXW/?tag=tolees-21)

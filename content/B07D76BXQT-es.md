@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s 501 Hemmed  Pantalones Cortos para Hombre  Azul  Bleu
 
 [![Levi s 501 Hemmed  Pantalones Cortos par](https://images-eu.ssl-images-amazon.com/images/I/41sgFMObmKL._SL200_.jpg)](https://www.amazon.es/dp/B07D76BXQT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D76BXQT/?tag=tolees-21)

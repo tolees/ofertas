@@ -22,7 +22,7 @@ Ahora mismo tienes [Breville VST051X - Sandwichera con platos desmontables](http
 
 [![Breville VST051X - Sandwichera con plato](https://images-eu.ssl-images-amazon.com/images/I/41TbfyIB92L._SL200_.jpg)](https://www.amazon.es/dp/B00FLJEX26/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00FLJEX26/?tag=tolees-21)

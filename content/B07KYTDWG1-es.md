@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 4.Pc.Mono Poly Lavado Mono Largo  Mujer  Verde  
 
 [![Springfield 4.Pc.Mono Poly Lavado Mono L](https://images-eu.ssl-images-amazon.com/images/I/41hAD%2B2zbhL._SL200_.jpg)](https://www.amazon.es/dp/B07KYTDWG1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KYTDWG1/?tag=tolees-21)

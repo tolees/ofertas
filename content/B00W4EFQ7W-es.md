@@ -22,7 +22,7 @@ Ahora mismo tienes [Clarks Originals Trigenic Flex  Zapatillas para Hombre  Negr
 
 [![Clarks Originals Trigenic Flex  Zapatill](https://images-eu.ssl-images-amazon.com/images/I/41Rp2kKGMpL._SL200_.jpg)](https://www.amazon.es/dp/B00W4EFQ7W/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00W4EFQ7W/?tag=tolees-21)

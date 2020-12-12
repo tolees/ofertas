@@ -22,7 +22,7 @@ Ahora mismo tienes [Cepillo Alisador  ARINO Cepillo Alisador de Pelo  Plancha de
 
 [![Cepillo Alisador  ARINO Cepillo Alisador](https://images-eu.ssl-images-amazon.com/images/I/51cwcDxl5oL._SL200_.jpg)](https://www.amazon.es/dp/B071DHTVJH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071DHTVJH/?tag=tolees-21)

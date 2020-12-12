@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas X_PLR J  Zapatillas Unisex Niños  Azul  Bright Blue/
 
 [![adidas X_PLR J  Zapatillas Unisex Niños ](https://images-eu.ssl-images-amazon.com/images/I/41Dlp-QY1dL._SL200_.jpg)](https://www.amazon.es/dp/B07D73FLNQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D73FLNQ/?tag=tolees-21)

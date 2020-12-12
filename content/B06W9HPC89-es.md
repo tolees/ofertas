@@ -22,7 +22,7 @@ Ahora mismo tienes [RFIVER Soporte Giratorio de Suelo para TV 32 A 65 Pulgadas c
 
 [![RFIVER Soporte Giratorio de Suelo para T](https://images-eu.ssl-images-amazon.com/images/I/41wLOUJz0kL._SL200_.jpg)](https://www.amazon.es/dp/B06W9HPC89/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06W9HPC89/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Weekend Peninsula 5 Pares Calcetines Running Deportivos Homb
 
 [![Weekend Peninsula 5 Pares Calcetines Run](https://images-eu.ssl-images-amazon.com/images/I/51XZLI-ev1L._SL200_.jpg)](https://www.amazon.es/dp/B07KV7BKF6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KV7BKF6/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Wangel Portarrollo Doble para Papel Higiénico  Pegamento Pa
 
 [![Wangel Portarrollo Doble para Papel Higi](https://images-eu.ssl-images-amazon.com/images/I/414j6Ue3TqL._SL200_.jpg)](https://www.amazon.es/dp/B07JVG3G7J/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JVG3G7J/?tag=tolees-21)

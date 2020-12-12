@@ -22,7 +22,7 @@ Ahora mismo tienes [Rollei City Traveler Mini - Trípode Mesa superligero de Car
 
 [![Rollei City Traveler Mini - Trípode Mesa](https://images-eu.ssl-images-amazon.com/images/I/41y1zLVlofL._SL200_.jpg)](https://www.amazon.es/dp/B0797N3CHT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0797N3CHT/?tag=tolees-21)

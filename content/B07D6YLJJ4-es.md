@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas X_PLR  Zapatillas para Hombre  Azul  Collegiate Navy/
 
 [![adidas X_PLR  Zapatillas para Hombre  Az](https://images-eu.ssl-images-amazon.com/images/I/41PDJdQ5L4L._SL200_.jpg)](https://www.amazon.es/dp/B07D6YLJJ4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D6YLJJ4/?tag=tolees-21)

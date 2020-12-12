@@ -22,7 +22,7 @@ Ahora mismo tienes [BaronHong Sport Bra Chest Binder Transpirable Mesh Corset pa
 
 [![BaronHong Sport Bra Chest Binder Transpi](https://images-eu.ssl-images-amazon.com/images/I/51FYLjRVx1L._SL200_.jpg)](https://www.amazon.es/dp/B06Y6FCS2T/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06Y6FCS2T/?tag=tolees-21)

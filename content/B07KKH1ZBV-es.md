@@ -22,7 +22,7 @@ Ahora mismo tienes [ydkj AV Varita Mágica Cargador USB Clásico G-Spot Stick Vi
 
 [![ydkj AV Varita Mágica Cargador USB Clási](https://images-eu.ssl-images-amazon.com/images/I/310U6Ny-yGL._SL200_.jpg)](https://www.amazon.es/dp/B07KKH1ZBV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KKH1ZBV/?tag=tolees-21)

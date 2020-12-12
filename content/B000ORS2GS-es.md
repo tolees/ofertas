@@ -22,7 +22,7 @@ Ahora mismo tienes [Max factor - Miracle touch creamy blush  base de maquillaje 
 
 [![Max factor - Miracle touch creamy blush ](https://images-eu.ssl-images-amazon.com/images/I/41YA6kuH-RL._SL200_.jpg)](https://www.amazon.es/dp/B000ORS2GS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B000ORS2GS/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Plancha de pelo glättb ürste Ion cerámica con infrarrojos
 
 [![Plancha de pelo glättb ürste Ion cerámic](https://images-eu.ssl-images-amazon.com/images/I/518CInk92DL._SL200_.jpg)](https://www.amazon.es/dp/B078YJYJL5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078YJYJL5/?tag=tolees-21)

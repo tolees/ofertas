@@ -22,7 +22,7 @@ Ahora mismo tienes [Buscador de Ángulo Digital 400mm/16 inch 0~225° Retroilumi
 
 [![Buscador de Ángulo Digital 400mm/16 inch](https://images-eu.ssl-images-amazon.com/images/I/413wLaHdXcL._SL200_.jpg)](https://www.amazon.es/dp/B01N7SRRKK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N7SRRKK/?tag=tolees-21)

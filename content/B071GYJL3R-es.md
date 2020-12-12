@@ -22,7 +22,7 @@ Ahora mismo tienes [Apple iPad Pro  10 5 pulgadas y 512GB con Wi-Fi  - Plata](h
 
 [![Apple iPad Pro  10 5 pulgadas y 512GB co](https://images-eu.ssl-images-amazon.com/images/I/41p3qWPPfML._SL200_.jpg)](https://www.amazon.es/dp/B071GYJL3R/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071GYJL3R/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Reebok Astroride Soul  Zapatillas de Senderismo para Mujer  
 
 [![Reebok Astroride Soul  Zapatillas de Sen](https://images-eu.ssl-images-amazon.com/images/I/41CSWRLBtvL._SL200_.jpg)](https://www.amazon.es/dp/B077TVYLZ3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077TVYLZ3/?tag=tolees-21)

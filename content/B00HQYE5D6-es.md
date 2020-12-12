@@ -22,7 +22,7 @@ Ahora mismo tienes [Eastpak Talky Riñonera  23 cm  2 L  Azul  Double Denim ](ht
 
 [![Eastpak Talky Riñonera  23 cm  2 L  Azul](https://images-eu.ssl-images-amazon.com/images/I/41vgjGv4%2BkL._SL200_.jpg)](https://www.amazon.es/dp/B00HQYE5D6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00HQYE5D6/?tag=tolees-21)

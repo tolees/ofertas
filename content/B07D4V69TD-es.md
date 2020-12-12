@@ -22,7 +22,7 @@ Ahora mismo tienes [Kappa Rescue Tex Kids  Botas Clasicas Unisex Niños  Azul  N
 
 [![Kappa Rescue Tex Kids  Botas Clasicas Un](https://images-eu.ssl-images-amazon.com/images/I/516ovDOZnzL._SL200_.jpg)](https://www.amazon.es/dp/B07D4V69TD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D4V69TD/?tag=tolees-21)

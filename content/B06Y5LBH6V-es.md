@@ -22,7 +22,7 @@ Ahora mismo tienes [Vans Sk8-hi Suede/Canvas  Zapatillas Unisex Adulto  Marrón 
 
 [![Vans Sk8-hi Suede/Canvas  Zapatillas Uni](https://images-eu.ssl-images-amazon.com/images/I/41iAujQbJrL._SL200_.jpg)](https://www.amazon.es/dp/B06Y5LBH6V/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06Y5LBH6V/?tag=tolees-21)

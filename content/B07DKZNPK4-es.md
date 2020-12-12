@@ -22,7 +22,7 @@ Ahora mismo tienes [Columbia Schooner Bank Cachalot - Gorra Unisex  Gris  Cool G
 
 [![Columbia Schooner Bank Cachalot - Gorra ](https://images-eu.ssl-images-amazon.com/images/I/31U7DDvFF4L._SL200_.jpg)](https://www.amazon.es/dp/B07DKZNPK4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DKZNPK4/?tag=tolees-21)

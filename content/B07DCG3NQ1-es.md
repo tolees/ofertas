@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Puma Smash v2 L Zapatillas Unisex Adults’o  Blanco  P
 
 [![Puma Puma Smash v2 L Zapatillas Unisex A](https://images-eu.ssl-images-amazon.com/images/I/31vDWoRnUhL._SL200_.jpg)](https://www.amazon.es/dp/B07DCG3NQ1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DCG3NQ1/?tag=tolees-21)

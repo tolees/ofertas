@@ -22,7 +22,7 @@ Ahora mismo tienes [Dickies New York Short  Pantalones Cortos de Deporte  Hombre
 
 [![Dickies New York Short  Pantalones Corto](https://images-eu.ssl-images-amazon.com/images/I/41nggCIOVdL._SL200_.jpg)](https://www.amazon.es/dp/B00H8PT3IA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00H8PT3IA/?tag=tolees-21)

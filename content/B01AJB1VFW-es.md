@@ -22,7 +22,7 @@ Ahora mismo tienes [Quick Charge 3.0 Cargador Móvil 18W QC 3.0 Cargador de Red 
 
 [![Quick Charge 3.0 Cargador Móvil 18W QC 3](https://images-eu.ssl-images-amazon.com/images/I/311OnWft74L._SL200_.jpg)](https://www.amazon.es/dp/B01AJB1VFW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01AJB1VFW/?tag=tolees-21)

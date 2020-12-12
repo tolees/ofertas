@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour Speedform Gemini 3  Zapatillas de Entrenamiento
 
 [![Under Armour Speedform Gemini 3  Zapatil](https://images-eu.ssl-images-amazon.com/images/I/41xdpRbOJTL._SL200_.jpg)](https://www.amazon.es/dp/B072F7M4PQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072F7M4PQ/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [YaYuu para Fitbit Versa Bandas  Milanese Loop Correa de Acer
 
 [![YaYuu para Fitbit Versa Bandas  Milanese](https://images-eu.ssl-images-amazon.com/images/I/61OtC9tyltL._SL200_.jpg)](https://www.amazon.es/dp/B07BTCR7SC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BTCR7SC/?tag=tolees-21)

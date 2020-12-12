@@ -22,7 +22,7 @@ Ahora mismo tienes [DC Shoes Tonik TX  Zapatillas de Skateboard para Hombre  Roj
 
 [![DC Shoes Tonik TX  Zapatillas de Skatebo](https://images-eu.ssl-images-amazon.com/images/I/41wYkOydFBL._SL200_.jpg)](https://www.amazon.es/dp/B07DW8N5GX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DW8N5GX/?tag=tolees-21)

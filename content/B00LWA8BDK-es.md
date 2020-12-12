@@ -22,7 +22,7 @@ Ahora mismo tienes [Lee Daren - Strong Hand para hombre  Azul  W30 / L30  ES 40 
 
 [![Lee Daren - Strong Hand para hombre  Azu](https://images-eu.ssl-images-amazon.com/images/I/41P%2BTsySBLL._SL200_.jpg)](https://www.amazon.es/dp/B00LWA8BDK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00LWA8BDK/?tag=tolees-21)

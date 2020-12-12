@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers Glide 2.0 Ultra  Zapatillas para Hombre  Negro  Bla
 
 [![Skechers Glide 2.0 Ultra  Zapatillas par](https://images-eu.ssl-images-amazon.com/images/I/31rokoX-e9L._SL200_.jpg)](https://www.amazon.es/dp/B0794NYLMR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0794NYLMR/?tag=tolees-21)

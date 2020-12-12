@@ -22,7 +22,7 @@ Ahora mismo tienes [G-Star RAW Rovulc Mid Aop  Zapatillas Altas para Mujer  Mult
 
 [![G-Star RAW Rovulc Mid Aop  Zapatillas Al](https://images-eu.ssl-images-amazon.com/images/I/51JsFf56WYL._SL200_.jpg)](https://www.amazon.es/dp/B0798D2QVF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0798D2QVF/?tag=tolees-21)

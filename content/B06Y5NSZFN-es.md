@@ -22,7 +22,7 @@ Ahora mismo tienes [Pikolinos Baqueira W9m_i17  Botas para Mujer  Marrón  Moss 
 
 [![Pikolinos Baqueira W9m_i17  Botas para M](https://images-eu.ssl-images-amazon.com/images/I/41CtDGBHOaL._SL200_.jpg)](https://www.amazon.es/dp/B06Y5NSZFN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06Y5NSZFN/?tag=tolees-21)

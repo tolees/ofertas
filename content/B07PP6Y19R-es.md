@@ -22,7 +22,7 @@ Ahora mismo tienes [Lavanda Aceites Esenciales de 10 ml  masaje de aromaterapia 
 
 [![Lavanda Aceites Esenciales de 10 ml  mas](https://images-eu.ssl-images-amazon.com/images/I/41WkBbeSaZL._SL200_.jpg)](https://www.amazon.es/dp/B07PP6Y19R/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07PP6Y19R/?tag=tolees-21)

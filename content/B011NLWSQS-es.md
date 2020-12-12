@@ -22,7 +22,7 @@ Ahora mismo tienes [TP-LINK Archer C50 - Router AC1200 Mbps Banda Dual WiFi  WPS
 
 [![TP-LINK Archer C50 - Router AC1200 Mbps ](https://images-eu.ssl-images-amazon.com/images/I/31vP1-WcI4L._SL200_.jpg)](https://www.amazon.es/dp/B011NLWSQS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B011NLWSQS/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Yogini Lux Strappy Top Corto  Mujer  Gris  XL](https://
 
 [![Puma Yogini Lux Strappy Top Corto  Mujer](https://images-eu.ssl-images-amazon.com/images/I/51NTo3eDAGL._SL200_.jpg)](https://www.amazon.es/dp/B071XNBCZK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071XNBCZK/?tag=tolees-21)

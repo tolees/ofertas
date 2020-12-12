@@ -22,7 +22,7 @@ Ahora mismo tienes [Asics Patriot 10 GS  Zapatillas de Running para Niños   Imp
 
 [![Asics Patriot 10 GS  Zapatillas de Runni](https://images-eu.ssl-images-amazon.com/images/I/41kE4B2Y64L._SL200_.jpg)](https://www.amazon.es/dp/B07K6ZC4ZN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07K6ZC4ZN/?tag=tolees-21)

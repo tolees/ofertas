@@ -22,7 +22,7 @@ Ahora mismo tienes [Clarks Tunsil Ace  Zapatillas para Hombre  Gris  Grey-   44.
 
 [![Clarks Tunsil Ace  Zapatillas para Hombr](https://images-eu.ssl-images-amazon.com/images/I/41Trv1JeKqL._SL200_.jpg)](https://www.amazon.es/dp/B07FQWF8Q5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FQWF8Q5/?tag=tolees-21)

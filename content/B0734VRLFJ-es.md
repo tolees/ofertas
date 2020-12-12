@@ -22,7 +22,7 @@ Ahora mismo tienes [!Solid Kris Pantalones  Hombre  Azul  Insignia Blue   W45  T
 
 [![!Solid Kris Pantalones  Hombre  Azul  In](https://images-eu.ssl-images-amazon.com/images/I/41HpiFGbYFL._SL200_.jpg)](https://www.amazon.es/dp/B0734VRLFJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0734VRLFJ/?tag=tolees-21)

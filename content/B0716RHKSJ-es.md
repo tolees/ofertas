@@ -22,7 +22,7 @@ Ahora mismo tienes [Columbia Fire Venture Waterproof  Zapatillas De Deporte para
 
 [![Columbia Fire Venture Waterproof  Zapati](https://images-eu.ssl-images-amazon.com/images/I/51bUftJlhtL._SL200_.jpg)](https://www.amazon.es/dp/B0716RHKSJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0716RHKSJ/?tag=tolees-21)

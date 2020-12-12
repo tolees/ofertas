@@ -22,7 +22,7 @@ Ahora mismo tienes [POP! Vinilo - Harry Potter: Neville Longbottom](https://www.
 
 [![POP! Vinilo - Harry Potter: Neville Long](https://images-eu.ssl-images-amazon.com/images/I/51m2xczfzgL._SL200_.jpg)](https://www.amazon.es/dp/B01BO4JUDI/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01BO4JUDI/?tag=tolees-21)

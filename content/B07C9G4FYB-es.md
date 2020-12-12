@@ -22,7 +22,7 @@ Ahora mismo tienes [Clarks - Contempo North  Bolsos bandolera Mujer  Negro  Blac
 
 [![Clarks - Contempo North  Bolsos bandoler](https://images-eu.ssl-images-amazon.com/images/I/41g0tRlEz6L._SL200_.jpg)](https://www.amazon.es/dp/B07C9G4FYB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07C9G4FYB/?tag=tolees-21)

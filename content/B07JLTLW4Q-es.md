@@ -22,7 +22,7 @@ Ahora mismo tienes [COOAU Camara Deportiva 4K WiFi Impermeable Cámara Acción c
 
 [![COOAU Camara Deportiva 4K WiFi Impermeab](https://images-eu.ssl-images-amazon.com/images/I/51SB-FKSMfL._SL200_.jpg)](https://www.amazon.es/dp/B07JLTLW4Q/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JLTLW4Q/?tag=tolees-21)

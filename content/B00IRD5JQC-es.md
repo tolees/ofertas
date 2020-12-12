@@ -22,7 +22,7 @@ Ahora mismo tienes [Shiseido 57090 - Acondicionador](https://www.amazon.es/dp/B0
 
 [![Shiseido 57090 - Acondicionador](https://images-eu.ssl-images-amazon.com/images/I/31rUgRSTm0L._SL200_.jpg)](https://www.amazon.es/dp/B00IRD5JQC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00IRD5JQC/?tag=tolees-21)

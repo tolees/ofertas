@@ -22,7 +22,7 @@ Ahora mismo tienes [Pikolin Home - Funda protector de almohada rizo  antialérgi
 
 [![Pikolin Home - Funda protector de almoha](https://images-eu.ssl-images-amazon.com/images/I/21G6dypgxrL._SL200_.jpg)](https://www.amazon.es/dp/B0151PIE7Y/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0151PIE7Y/?tag=tolees-21)

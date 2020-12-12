@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers Side Street-Core-Set  Zapatillas para Mujer  Rosa  
 
 [![Skechers Side Street-Core-Set  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/41w-lOfx52L._SL200_.jpg)](https://www.amazon.es/dp/B0742V7CJV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0742V7CJV/?tag=tolees-21)

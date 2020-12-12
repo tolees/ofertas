@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Altarun CF K  Zapatillas para Niñas  Blanco  Footwea
 
 [![adidas Altarun CF K  Zapatillas para Niñ](https://images-eu.ssl-images-amazon.com/images/I/41GubxZeluL._SL200_.jpg)](https://www.amazon.es/dp/B01N7DWFYG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N7DWFYG/?tag=tolees-21)

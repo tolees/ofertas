@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas CF Lite Racer  Zapatillas para Mujer  Azul  Tech Ink/
 
 [![adidas CF Lite Racer  Zapatillas para Mu](https://images-eu.ssl-images-amazon.com/images/I/41TbMxqNTPL._SL200_.jpg)](https://www.amazon.es/dp/B07DDWS2S5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DDWS2S5/?tag=tolees-21)

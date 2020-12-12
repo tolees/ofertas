@@ -22,7 +22,7 @@ Ahora mismo tienes [Dockers 310712-003093  Botas Militar Unisex  Beige  40 EU](h
 
 [![Dockers 310712-003093  Botas Militar Uni](https://images-eu.ssl-images-amazon.com/images/I/41EowyH1%2BQL._SL200_.jpg)](https://www.amazon.es/dp/B0083GTWG6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0083GTWG6/?tag=tolees-21)

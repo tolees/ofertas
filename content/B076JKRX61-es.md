@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike Renew Rival  Zapatillas de Entrenamiento para Hombre   
 
 [![Nike Renew Rival  Zapatillas de Entrenam](https://images-eu.ssl-images-amazon.com/images/I/41sP%2BmAJRLL._SL200_.jpg)](https://www.amazon.es/dp/B076JKRX61/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B076JKRX61/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [DeWalt DCF880M2-QW Llave Impacto XR 18V 1/2" 203Nm con 2 bat
 
 [![DeWalt DCF880M2-QW Llave Impacto XR 18V ](https://images-eu.ssl-images-amazon.com/images/I/51nlnuC%2BavL._SL200_.jpg)](https://www.amazon.es/dp/B009IWR2IE/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B009IWR2IE/?tag=tolees-21)

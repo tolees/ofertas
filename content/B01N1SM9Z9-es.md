@@ -22,7 +22,7 @@ Ahora mismo tienes [find. Tie-Up Side Suéter para Mujer  Blanco  White   40  Ta
 
 [![find. Tie-Up Side Suéter para Mujer  Bla](https://images-eu.ssl-images-amazon.com/images/I/31pGYpWB2WL._SL200_.jpg)](https://www.amazon.es/dp/B01N1SM9Z9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N1SM9Z9/?tag=tolees-21)

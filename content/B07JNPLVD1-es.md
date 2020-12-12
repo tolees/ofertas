@@ -22,7 +22,7 @@ Ahora mismo tienes [BoxLegend Bolsa de lavandería de Malla  Paquete de 6 Bolsas
 
 [![BoxLegend Bolsa de lavandería de Malla  ](https://images-eu.ssl-images-amazon.com/images/I/41PQOcz3aZL._SL200_.jpg)](https://www.amazon.es/dp/B07JNPLVD1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JNPLVD1/?tag=tolees-21)

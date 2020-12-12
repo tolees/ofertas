@@ -22,7 +22,7 @@ Ahora mismo tienes [Nest T3010IT Termostato  Acero](https://www.amazon.es/dp/B01
 
 [![Nest T3010IT Termostato  Acero](https://images-eu.ssl-images-amazon.com/images/I/41kHAxV1MIL._SL200_.jpg)](https://www.amazon.es/dp/B01N7MAAWF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N7MAAWF/?tag=tolees-21)

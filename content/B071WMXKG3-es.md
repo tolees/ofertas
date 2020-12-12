@@ -22,7 +22,7 @@ Ahora mismo tienes [Merrell All out Crush 2  Zapatillas de Running para Asfalto 
 
 [![Merrell All out Crush 2  Zapatillas de R](https://images-eu.ssl-images-amazon.com/images/I/51SrbHQ36rL._SL200_.jpg)](https://www.amazon.es/dp/B071WMXKG3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071WMXKG3/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Syming Mochila Senderismo con Cubierta De Lluvia para Aventu
 
 [![Syming Mochila Senderismo con Cubierta D](https://images-eu.ssl-images-amazon.com/images/I/51fVObSXSaL._SL200_.jpg)](https://www.amazon.es/dp/B07CSWX2R5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CSWX2R5/?tag=tolees-21)

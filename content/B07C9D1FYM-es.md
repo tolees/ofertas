@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike Air Zoom Spiridon  16  Zapatillas de Gimnasia para Homb
 
 [![Nike Air Zoom Spiridon  16  Zapatillas d](https://images-eu.ssl-images-amazon.com/images/I/41yigOPPaKL._SL200_.jpg)](https://www.amazon.es/dp/B07C9D1FYM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07C9D1FYM/?tag=tolees-21)

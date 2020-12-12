@@ -22,7 +22,7 @@ Ahora mismo tienes [Un Lugar Tranquilo  BD  [Blu-ray]](https://www.amazon.es/dp/
 
 [![Un Lugar Tranquilo  BD  [Blu-ray]](https://images-eu.ssl-images-amazon.com/images/I/41X9-WLijIL._SL200_.jpg)](https://www.amazon.es/dp/B07CXYN4GY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CXYN4GY/?tag=tolees-21)

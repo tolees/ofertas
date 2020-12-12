@@ -22,7 +22,7 @@ Ahora mismo tienes [Viñas Del Vero Merlot Colección - Vino D.O. Somontano - 3 
 
 [![Viñas Del Vero Merlot Colección - Vino D](http://images.amazon.com/images/P/B07B319JRR.01._PI_SCMZZZZZZZ_._SL200_.jpg)](https://www.amazon.es/dp/B07B319JRR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07B319JRR/?tag=tolees-21)

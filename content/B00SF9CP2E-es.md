@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW 3301 Slim  Jeans Hombre  Azul  Dk Aged 5245-89   
 
 [![G-STAR RAW 3301 Slim  Jeans Hombre  Azul](https://images-eu.ssl-images-amazon.com/images/I/31b1mfkSEDL._SL200_.jpg)](https://www.amazon.es/dp/B00SF9CP2E/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00SF9CP2E/?tag=tolees-21)

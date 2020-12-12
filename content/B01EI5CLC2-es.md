@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Originals Gazelle  Zapatillas Casual Unisex Adulto  N
 
 [![adidas Originals Gazelle  Zapatillas Cas](https://images-eu.ssl-images-amazon.com/images/I/41igAt3PLzL._SL200_.jpg)](https://www.amazon.es/dp/B01EI5CLC2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01EI5CLC2/?tag=tolees-21)

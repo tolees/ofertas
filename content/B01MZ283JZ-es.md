@@ -22,7 +22,7 @@ Ahora mismo tienes [Grace & Stella Co. Esponja limpiadora facial suave de konjac
 
 [![Grace & Stella Co. Esponja limpiadora fa](https://images-eu.ssl-images-amazon.com/images/I/319LfKCzN6L._SL200_.jpg)](https://www.amazon.es/dp/B01MZ283JZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MZ283JZ/?tag=tolees-21)

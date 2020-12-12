@@ -22,7 +22,7 @@ Ahora mismo tienes [WYBAN E-Cigarette 80W 2200mAh Batería LCD Box Mod Carrier E
 
 [![WYBAN E-Cigarette 80W 2200mAh Batería LC](https://images-eu.ssl-images-amazon.com/images/I/31YIsLgc5nL._SL200_.jpg)](https://www.amazon.es/dp/B07D19TDCJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D19TDCJ/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [cfmour Cubo de Mágico  3x3x3 Fibra de Carbono](https://www.
 
 [![cfmour Cubo de Mágico  3x3x3 Fibra de Ca](https://images-eu.ssl-images-amazon.com/images/I/51xfyjU-30L._SL200_.jpg)](https://www.amazon.es/dp/B07CG6J13G/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CG6J13G/?tag=tolees-21)

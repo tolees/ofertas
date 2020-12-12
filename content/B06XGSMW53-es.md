@@ -22,7 +22,7 @@ Ahora mismo tienes [16 Piezas Cuadrados Espejos de Pared  DIY Decoración de la 
 
 [![16 Piezas Cuadrados Espejos de Pared  DI](https://images-eu.ssl-images-amazon.com/images/I/51PLnbZEVTL._SL200_.jpg)](https://www.amazon.es/dp/B06XGSMW53/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XGSMW53/?tag=tolees-21)

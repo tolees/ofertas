@@ -22,7 +22,7 @@ Ahora mismo tienes [Hawaiian Tropic Satin Protection Ultra Radiance - Loción So
 
 [![Hawaiian Tropic Satin Protection Ultra R](https://images-eu.ssl-images-amazon.com/images/I/41gs1Hk4yuL._SL200_.jpg)](https://www.amazon.es/dp/B01D9RP7GM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01D9RP7GM/?tag=tolees-21)

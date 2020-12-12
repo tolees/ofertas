@@ -22,7 +22,7 @@ Ahora mismo tienes [Ifecco Bluetooth Estéreo Auriculares Música Sobre-oído So
 
 [![Ifecco Bluetooth Estéreo Auriculares Mús](https://images-eu.ssl-images-amazon.com/images/I/41vgVhesucL._SL200_.jpg)](https://www.amazon.es/dp/B07B4WL3FF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07B4WL3FF/?tag=tolees-21)

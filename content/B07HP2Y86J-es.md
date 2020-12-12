@@ -22,7 +22,7 @@ Ahora mismo tienes [InLife Lima de Pies Eléctrica Aparato de Pedicura Eléctric
 
 [![InLife Lima de Pies Eléctrica Aparato de](https://images-eu.ssl-images-amazon.com/images/I/416X8mrBmwL._SL200_.jpg)](https://www.amazon.es/dp/B07HP2Y86J/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07HP2Y86J/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance 574v2  Entrenadores para Hombre  Negro Black/Red
 
 [![New Balance 574v2  Entrenadores para Hom](https://images-eu.ssl-images-amazon.com/images/I/41E2M0MZX0L._SL200_.jpg)](https://www.amazon.es/dp/B07DVK1LNR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DVK1LNR/?tag=tolees-21)

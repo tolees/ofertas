@@ -22,7 +22,7 @@ Ahora mismo tienes [FIND MDR 40563 vestidos mujer casual  Multicolor  Multicolou
 
 [![FIND MDR 40563 vestidos mujer casual  Mu](https://images-eu.ssl-images-amazon.com/images/I/51AS-SylIFL._SL200_.jpg)](https://www.amazon.es/dp/B0751GD1LS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0751GD1LS/?tag=tolees-21)

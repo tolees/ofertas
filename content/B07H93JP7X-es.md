@@ -22,7 +22,7 @@ Ahora mismo tienes [SUAOKI Protector Parabrisas Reversible  Cubierta Parabrisas 
 
 [![SUAOKI Protector Parabrisas Reversible  ](https://images-eu.ssl-images-amazon.com/images/I/51stheoFsiL._SL200_.jpg)](https://www.amazon.es/dp/B07H93JP7X/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07H93JP7X/?tag=tolees-21)

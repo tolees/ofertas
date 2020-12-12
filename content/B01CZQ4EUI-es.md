@@ -22,7 +22,7 @@ Ahora mismo tienes [Menton Ezil Reina 18K Oro Blanco Pulsera con Elemento Swarov
 
 [![Menton Ezil Reina 18K Oro Blanco Pulsera](https://images-eu.ssl-images-amazon.com/images/I/41%2BA4g0KGZL._SL200_.jpg)](https://www.amazon.es/dp/B01CZQ4EUI/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01CZQ4EUI/?tag=tolees-21)

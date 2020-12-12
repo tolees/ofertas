@@ -22,7 +22,7 @@ Ahora mismo tienes [Happy Home Lodis Juego Nórdico para Cama de 150 cm  Poliés
 
 [![Happy Home Lodis Juego Nórdico para Cama](https://images-eu.ssl-images-amazon.com/images/I/414nxOaez6L._SL200_.jpg)](https://www.amazon.es/dp/B075JJG77N/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075JJG77N/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Lacoste Borneo - Reloj de cuarzo para hombre  con correa de 
 
 [![Lacoste Borneo - Reloj de cuarzo para ho](https://images-eu.ssl-images-amazon.com/images/I/416F%2BhcEIqL._SL200_.jpg)](https://www.amazon.es/dp/B00I5PKBUQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00I5PKBUQ/?tag=tolees-21)

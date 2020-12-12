@@ -22,7 +22,7 @@ Ahora mismo tienes [Samsung Flip - Funda para móvil Galaxy S3  Permite hablar c
 
 [![Samsung Flip - Funda para móvil Galaxy S](https://images-eu.ssl-images-amazon.com/images/I/41NcNMwhC9L._SL200_.jpg)](https://www.amazon.es/dp/B0080CXR6O/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0080CXR6O/?tag=tolees-21)

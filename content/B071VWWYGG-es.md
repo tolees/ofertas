@@ -22,7 +22,7 @@ Ahora mismo tienes [Hangsun Máquina de Afeitar Eléctrica IPX7 Impermeable ES10
 
 [![Hangsun Máquina de Afeitar Eléctrica IPX](https://images-eu.ssl-images-amazon.com/images/I/41%2BFoBtR4tL._SL200_.jpg)](https://www.amazon.es/dp/B071VWWYGG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071VWWYGG/?tag=tolees-21)

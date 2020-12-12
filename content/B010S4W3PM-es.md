@@ -22,7 +22,7 @@ Ahora mismo tienes [Converse Chuck Taylor All Star Ii Hi - gimnasia Unisex adult
 
 [![Converse Chuck Taylor All Star Ii Hi - g](https://images-eu.ssl-images-amazon.com/images/I/414Y7A7ZRBL._SL200_.jpg)](https://www.amazon.es/dp/B010S4W3PM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B010S4W3PM/?tag=tolees-21)

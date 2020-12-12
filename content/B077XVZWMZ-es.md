@@ -22,7 +22,7 @@ Ahora mismo tienes [Camry Báscula Digital de Cocina Balanza Electrónica para A
 
 [![Camry Báscula Digital de Cocina Balanza ](https://images-eu.ssl-images-amazon.com/images/I/51S7Q4g%2BYdL._SL200_.jpg)](https://www.amazon.es/dp/B077XVZWMZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077XVZWMZ/?tag=tolees-21)

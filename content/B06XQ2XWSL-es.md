@@ -22,7 +22,7 @@ Ahora mismo tienes [Compo 2194702011 Barrera De Insectos Vela Stop Moscas Crista
 
 [![Compo 2194702011 Barrera De Insectos Vel](https://images-eu.ssl-images-amazon.com/images/I/51FUmct8uUL._SL200_.jpg)](https://www.amazon.es/dp/B06XQ2XWSL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XQ2XWSL/?tag=tolees-21)

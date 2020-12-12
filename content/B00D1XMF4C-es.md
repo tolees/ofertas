@@ -22,7 +22,7 @@ Ahora mismo tienes [Kerastase K Laque Couture 300 ml](https://www.amazon.es/dp/B
 
 [![Kerastase K Laque Couture 300 ml](https://images-eu.ssl-images-amazon.com/images/I/31LilYc%2BgAL._SL200_.jpg)](https://www.amazon.es/dp/B00D1XMF4C/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00D1XMF4C/?tag=tolees-21)

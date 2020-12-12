@@ -22,7 +22,7 @@ Ahora mismo tienes [Protest Craig Bañador  Negro  True Black 290   Medium  Tama
 
 [![Protest Craig Bañador  Negro  True Black](https://images-eu.ssl-images-amazon.com/images/I/61G6I1UfviL._SL200_.jpg)](https://www.amazon.es/dp/B079M43SJC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079M43SJC/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Rieker 15964  Mocasines para Hombre  Negro  Schwarz/Kastanie
 
 [![Rieker 15964  Mocasines para Hombre  Neg](https://images-eu.ssl-images-amazon.com/images/I/31A2B1xYRoL._SL200_.jpg)](https://www.amazon.es/dp/B07C3TY7LT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07C3TY7LT/?tag=tolees-21)

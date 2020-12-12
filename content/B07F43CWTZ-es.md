@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jcovincent Knit Shawl Neck suéter  Rojo  Port 
 
 [![JACK & JONES Jcovincent Knit Shawl Neck ](https://images-eu.ssl-images-amazon.com/images/I/41SWg1tHD5L._SL200_.jpg)](https://www.amazon.es/dp/B07F43CWTZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F43CWTZ/?tag=tolees-21)

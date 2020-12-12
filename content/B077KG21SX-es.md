@@ -22,7 +22,7 @@ Ahora mismo tienes [Columbia Bugaboo Beanie Gorro  Unisex  Azul  Talla única](h
 
 [![Columbia Bugaboo Beanie Gorro  Unisex  A](https://images-eu.ssl-images-amazon.com/images/I/516eTvYTUFL._SL200_.jpg)](https://www.amazon.es/dp/B077KG21SX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077KG21SX/?tag=tolees-21)

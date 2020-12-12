@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance 420  Zapatillas para Mujer  Verde  Green NBB   3
 
 [![New Balance 420  Zapatillas para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/4146Us7R4SL._SL200_.jpg)](https://www.amazon.es/dp/B077SB9RMS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077SB9RMS/?tag=tolees-21)

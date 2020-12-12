@@ -22,7 +22,7 @@ Ahora mismo tienes [SYROKAN - Sujetador Deportivo con Aros Preformado Tallas Gra
 
 [![SYROKAN - Sujetador Deportivo con Aros P](https://images-eu.ssl-images-amazon.com/images/I/411qs4BG1NL._SL200_.jpg)](https://www.amazon.es/dp/B01MY77N5L/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MY77N5L/?tag=tolees-21)

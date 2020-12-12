@@ -22,7 +22,7 @@ Ahora mismo tienes [Wrangler Contrast Polo  Hombre  Rosa  Chalk Pink Wg  Medium]
 
 [![Wrangler Contrast Polo  Hombre  Rosa  Ch](https://images-eu.ssl-images-amazon.com/images/I/416fva-t37L._SL200_.jpg)](https://www.amazon.es/dp/B07BLH7WDF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BLH7WDF/?tag=tolees-21)

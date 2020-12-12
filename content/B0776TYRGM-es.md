@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Cloudfoam Element Race  Zapatillas de Trail Running p
 
 [![adidas Cloudfoam Element Race  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/41zdH48nWTL._SL200_.jpg)](https://www.amazon.es/dp/B0776TYRGM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0776TYRGM/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Aingoo Escritorio de Esquina en Forma de L  Escritorio de la
 
 [![Aingoo Escritorio de Esquina en Forma de](https://images-eu.ssl-images-amazon.com/images/I/41LzVztmZRL._SL200_.jpg)](https://www.amazon.es/dp/B07LCL4GSC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07LCL4GSC/?tag=tolees-21)

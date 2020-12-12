@@ -22,7 +22,7 @@ Ahora mismo tienes [Michael Kors - Griffin Large Hobo  Shoppers y bolsos de homb
 
 [![Michael Kors - Griffin Large Hobo  Shopp](https://images-eu.ssl-images-amazon.com/images/I/51JM2f37D2L._SL200_.jpg)](https://www.amazon.es/dp/B07DMDYWV1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DMDYWV1/?tag=tolees-21)

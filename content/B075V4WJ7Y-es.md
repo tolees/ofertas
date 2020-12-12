@@ -22,7 +22,7 @@ Ahora mismo tienes [Meidong 2110 Altavoz Bluetooth Inalámbrico Portatil 12W con
 
 [![Meidong 2110 Altavoz Bluetooth Inalámbri](https://images-eu.ssl-images-amazon.com/images/I/410VM46CCjL._SL200_.jpg)](https://www.amazon.es/dp/B075V4WJ7Y/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B075V4WJ7Y/?tag=tolees-21)

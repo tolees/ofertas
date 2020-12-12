@@ -22,7 +22,7 @@ Ahora mismo tienes [Abanderado TERMALTECH Calzón Largo Pantalones térmicos  Bl
 
 [![Abanderado TERMALTECH Calzón Largo Panta](https://images-eu.ssl-images-amazon.com/images/I/31dl11ZX4VL._SL200_.jpg)](https://www.amazon.es/dp/B01N7W3DRY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01N7W3DRY/?tag=tolees-21)

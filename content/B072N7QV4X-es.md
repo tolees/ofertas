@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas EQT Racing ADV W  Zapatillas de Deporte para Mujer   
 
 [![adidas EQT Racing ADV W  Zapatillas de D](https://images-eu.ssl-images-amazon.com/images/I/41Pl%2ByEsOqL._SL200_.jpg)](https://www.amazon.es/dp/B072N7QV4X/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072N7QV4X/?tag=tolees-21)

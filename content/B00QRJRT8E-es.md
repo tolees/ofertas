@@ -22,7 +22,7 @@ Ahora mismo tienes [s.Oliver 04.899.71.2653  Pantalones para Mujer  Blau  Blue D
 
 [![s.Oliver 04.899.71.2653  Pantalones para](https://images-eu.ssl-images-amazon.com/images/I/41FO%2BCMtgjL._SL200_.jpg)](https://www.amazon.es/dp/B00QRJRT8E/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00QRJRT8E/?tag=tolees-21)

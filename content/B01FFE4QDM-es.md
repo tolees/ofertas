@@ -22,7 +22,7 @@ Ahora mismo tienes [Rieker 30932  Zapatillas Altas para Hombre  Gris  Granit/Gra
 
 [![Rieker 30932  Zapatillas Altas para Homb](https://images-eu.ssl-images-amazon.com/images/I/411tQBGil3L._SL200_.jpg)](https://www.amazon.es/dp/B01FFE4QDM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01FFE4QDM/?tag=tolees-21)

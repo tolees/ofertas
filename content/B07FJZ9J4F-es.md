@@ -22,7 +22,7 @@ Ahora mismo tienes [HP 25 X Monitor de Gaming 24.5 pollci  FHD 1920 x 1080  1
 
 [![HP 25 X Monitor de Gaming 24.5 pollci  F](https://images-eu.ssl-images-amazon.com/images/I/51pIhHPAPlL._SL200_.jpg)](https://www.amazon.es/dp/B07FJZ9J4F/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FJZ9J4F/?tag=tolees-21)

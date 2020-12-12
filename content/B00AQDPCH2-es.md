@@ -22,7 +22,7 @@ Ahora mismo tienes [L Oreal Paris Make-up Designer Pintalabios 24H Permanente  C
 
 [![L Oreal Paris Make-up Designer Pintalabi](https://images-eu.ssl-images-amazon.com/images/I/31FR%2B9vFxRL._SL200_.jpg)](https://www.amazon.es/dp/B00AQDPCH2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00AQDPCH2/?tag=tolees-21)

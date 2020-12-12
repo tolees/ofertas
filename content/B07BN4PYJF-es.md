@@ -22,7 +22,7 @@ Ahora mismo tienes [Vans Chapman Mid Textile  Zapatillas Altas para Niños  Negr
 
 [![Vans Chapman Mid Textile  Zapatillas Alt](https://images-eu.ssl-images-amazon.com/images/I/41ZgLIa15AL._SL200_.jpg)](https://www.amazon.es/dp/B07BN4PYJF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BN4PYJF/?tag=tolees-21)

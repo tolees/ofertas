@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers Elite Flex-Hartnell  Zapatillas sin Cordones para H
 
 [![Skechers Elite Flex-Hartnell  Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/51iQZpQV5%2BL._SL200_.jpg)](https://www.amazon.es/dp/B06XB4T7BV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XB4T7BV/?tag=tolees-21)

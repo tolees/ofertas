@@ -22,7 +22,7 @@ Ahora mismo tienes [Nokia Lumia 520 - Smartphone libre Windows Phone  pantalla 4
 
 [![Nokia Lumia 520 - Smartphone libre Windo](https://images-eu.ssl-images-amazon.com/images/I/41yRTVBgaYL._SL200_.jpg)](https://www.amazon.es/dp/B00BN83WOO/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00BN83WOO/?tag=tolees-21)

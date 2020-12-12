@@ -22,7 +22,7 @@ Ahora mismo tienes [Helly Hansen Crew HH Classic LS Polo SS Polo  Hombre  Red  L
 
 [![Helly Hansen Crew HH Classic LS Polo SS ](https://images-eu.ssl-images-amazon.com/images/I/41W39Wwo84L._SL200_.jpg)](https://www.amazon.es/dp/B01IRR4NAK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01IRR4NAK/?tag=tolees-21)

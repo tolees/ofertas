@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas Predator 18.3 FG J  Zapatillas de Fútbol Unisex Niñ
 
 [![adidas Predator 18.3 FG J  Zapatillas de](https://images-eu.ssl-images-amazon.com/images/I/41-9sY3roDL._SL200_.jpg)](https://www.amazon.es/dp/B07FVWK7JS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FVWK7JS/?tag=tolees-21)

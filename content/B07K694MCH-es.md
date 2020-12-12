@@ -22,7 +22,7 @@ Ahora mismo tienes [L Oréal Paris Rouge Signature 117 I Stand Pintalabios Mate 
 
 [![L Oréal Paris Rouge Signature 117 I Stan](https://images-eu.ssl-images-amazon.com/images/I/3195k8TfYxL._SL200_.jpg)](https://www.amazon.es/dp/B07K694MCH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07K694MCH/?tag=tolees-21)

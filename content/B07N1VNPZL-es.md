@@ -22,7 +22,7 @@ Ahora mismo tienes [edc by Esprit Accessoires - 029ca1o008  Shoppers y bolsos de
 
 [![edc by Esprit Accessoires - 029ca1o008  ](https://images-eu.ssl-images-amazon.com/images/I/41jU2BGoszL._SL200_.jpg)](https://www.amazon.es/dp/B07N1VNPZL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07N1VNPZL/?tag=tolees-21)

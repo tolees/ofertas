@@ -22,7 +22,7 @@ Ahora mismo tienes [Plancha de pelo con placas profesionales de cerámica para c
 
 [![Plancha de pelo con placas profesionales](https://images-eu.ssl-images-amazon.com/images/I/3124fMB8x-L._SL200_.jpg)](https://www.amazon.es/dp/B07JCNSV94/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JCNSV94/?tag=tolees-21)

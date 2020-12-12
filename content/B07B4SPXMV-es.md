@@ -22,7 +22,7 @@ Ahora mismo tienes [unodent gbs505 bolsa de esterilización  60 mm x 100 mm  
 
 [![unodent gbs505 bolsa de esterilización  ](https://images-eu.ssl-images-amazon.com/images/I/413XuSyryML._SL200_.jpg)](https://www.amazon.es/dp/B07B4SPXMV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07B4SPXMV/?tag=tolees-21)

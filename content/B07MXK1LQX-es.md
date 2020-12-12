@@ -22,7 +22,7 @@ Ahora mismo tienes [SALOMON Discovery LT FZ Full Zip Fleece  Mujer  Azul  Night 
 
 [![SALOMON Discovery LT FZ Full Zip Fleece ](https://images-eu.ssl-images-amazon.com/images/I/31TD2-DHoTL._SL200_.jpg)](https://www.amazon.es/dp/B07MXK1LQX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07MXK1LQX/?tag=tolees-21)

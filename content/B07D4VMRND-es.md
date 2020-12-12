@@ -22,7 +22,7 @@ Ahora mismo tienes [Kappa Tex Kids  Botas Clasicas Unisex Niños  Gris  Grey/Lim
 
 [![Kappa Tex Kids  Botas Clasicas Unisex Ni](https://images-eu.ssl-images-amazon.com/images/I/41Ve6qcYMDL._SL200_.jpg)](https://www.amazon.es/dp/B07D4VMRND/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D4VMRND/?tag=tolees-21)

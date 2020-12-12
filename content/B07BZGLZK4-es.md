@@ -22,7 +22,7 @@ Ahora mismo tienes [SERMAHOME- Cabecero Andorra tapizado Polipiel Color Fucsia. 
 
 [![SERMAHOME- Cabecero Andorra tapizado Pol](https://images-eu.ssl-images-amazon.com/images/I/41OL4oyKMUL._SL200_.jpg)](https://www.amazon.es/dp/B07BZGLZK4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07BZGLZK4/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Aigostar - Bombilla LED A5 G45  E27  5 W equivalente a 40 W 
 
 [![Aigostar - Bombilla LED A5 G45  E27  5 W](https://images-eu.ssl-images-amazon.com/images/I/411XNWUmX6L._SL200_.jpg)](https://www.amazon.es/dp/B00P47MZZC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00P47MZZC/?tag=tolees-21)

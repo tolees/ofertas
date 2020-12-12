@@ -22,7 +22,7 @@ Ahora mismo tienes [Pikolinos Salamanca W3q_i17  Botas para Mujer  Rojo  Garnet 
 
 [![Pikolinos Salamanca W3q_i17  Botas para ](https://images-eu.ssl-images-amazon.com/images/I/41cyq1uQp1L._SL200_.jpg)](https://www.amazon.es/dp/B06WVX7X7W/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06WVX7X7W/?tag=tolees-21)

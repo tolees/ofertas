@@ -22,7 +22,7 @@ Ahora mismo tienes [Memoria Flash USB inalámbrica SanDisk Connect Wireless Stic
 
 [![Memoria Flash USB inalámbrica SanDisk Co](https://images-eu.ssl-images-amazon.com/images/I/3127mQ6nxoL._SL200_.jpg)](https://www.amazon.es/dp/B0198QE5MA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0198QE5MA/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [AmazonBasics Colchón 2 en 1 en espuma híbrida con 2 nivele
 
 [![AmazonBasics Colchón 2 en 1 en espuma hí](https://images-eu.ssl-images-amazon.com/images/I/31YCaEqU07L._SL200_.jpg)](https://www.amazon.es/dp/B07FFCGY22/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FFCGY22/?tag=tolees-21)

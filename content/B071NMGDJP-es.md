@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW Affni Cable R Knit L/s  suéter para Hombre  Negr
 
 [![G-STAR RAW Affni Cable R Knit L/s  suéte](https://images-eu.ssl-images-amazon.com/images/I/41Rp4nvXDUL._SL200_.jpg)](https://www.amazon.es/dp/B071NMGDJP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071NMGDJP/?tag=tolees-21)

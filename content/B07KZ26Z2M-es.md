@@ -22,7 +22,7 @@ Ahora mismo tienes [Springfield 5B Slim Wash Pv19  Pantalones para Hombre  Rojo 
 
 [![Springfield 5B Slim Wash Pv19  Pantalone](https://images-eu.ssl-images-amazon.com/images/I/41J0RVURNpL._SL200_.jpg)](https://www.amazon.es/dp/B07KZ26Z2M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KZ26Z2M/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [High School Of The Dead - Serie Completa [Blu-ray]](https://
 
 [![High School Of The Dead - Serie Completa](https://images-eu.ssl-images-amazon.com/images/I/61K22eenR4L._SL200_.jpg)](https://www.amazon.es/dp/B00GX80VG6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00GX80VG6/?tag=tolees-21)

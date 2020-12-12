@@ -22,7 +22,7 @@ Ahora mismo tienes [Genius DX-110 - Raton óptico  Color Negro](https://www.amaz
 
 [![Genius DX-110 - Raton óptico  Color Negr](https://images-eu.ssl-images-amazon.com/images/I/41tj8X2vBIL._SL200_.jpg)](https://www.amazon.es/dp/B0173I9TCG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0173I9TCG/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Canon Objetivo - 75-300mm f/4-5.6 III - Teleobjetivo para C�
 
 [![Canon Objetivo - 75-300mm f/4-5.6 III - ](https://images-eu.ssl-images-amazon.com/images/I/41cjbYuqYdL._SL200_.jpg)](https://www.amazon.es/dp/B07HB7J6X9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07HB7J6X9/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [XTI 48190  Zapatillas para Hombre  Verde  Kaki Kaki   42 EU]
 
 [![XTI 48190  Zapatillas para Hombre  Verde](https://images-eu.ssl-images-amazon.com/images/I/41OhTtht3-L._SL200_.jpg)](https://www.amazon.es/dp/B07DCBG16F/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DCBG16F/?tag=tolees-21)

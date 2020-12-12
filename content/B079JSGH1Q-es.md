@@ -22,7 +22,7 @@ Ahora mismo tienes [Far Cry 5 - Edición Limited  Edición Exclusiva Amazon ](ht
 
 [![Far Cry 5 - Edición Limited  Edición Exc](https://images-eu.ssl-images-amazon.com/images/I/61l%2B%2BGqexlL._SL200_.jpg)](https://www.amazon.es/dp/B079JSGH1Q/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B079JSGH1Q/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Duracell CR15H270 Baterías de litio CR2 3V de alta potencia
 
 [![Duracell CR15H270 Baterías de litio CR2 ](https://images-eu.ssl-images-amazon.com/images/I/51ImJ9t%2BOZL._SL200_.jpg)](https://www.amazon.es/dp/B00011PJDQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00011PJDQ/?tag=tolees-21)

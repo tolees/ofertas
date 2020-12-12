@@ -22,7 +22,7 @@ Ahora mismo tienes [Epson Tin Epson T0615 Multipack  C/Y/M/Bk  Teddy](https://ww
 
 [![Epson Tin Epson T0615 Multipack  C/Y/M/B](https://images-eu.ssl-images-amazon.com/images/I/51oCRfFRjAL._SL200_.jpg)](https://www.amazon.es/dp/B01EFQ1PGC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01EFQ1PGC/?tag=tolees-21)

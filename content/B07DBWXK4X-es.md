@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Rise XT Fuse 1  Zapatillas de Deporte Interior Unisex A
 
 [![Puma Rise XT Fuse 1  Zapatillas de Depor](https://images-eu.ssl-images-amazon.com/images/I/41FwH6fUCbL._SL200_.jpg)](https://www.amazon.es/dp/B07DBWXK4X/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DBWXK4X/?tag=tolees-21)

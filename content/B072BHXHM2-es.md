@@ -22,7 +22,7 @@ Ahora mismo tienes [SELECTED HOMME Shnskinny-Pete 1005 Grey St JNS Noos  Jeans A
 
 [![SELECTED HOMME Shnskinny-Pete 1005 Grey ](https://images-eu.ssl-images-amazon.com/images/I/41aU8hqH56L._SL200_.jpg)](https://www.amazon.es/dp/B072BHXHM2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072BHXHM2/?tag=tolees-21)

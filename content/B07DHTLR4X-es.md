@@ -22,7 +22,7 @@ Ahora mismo tienes [Quiksilver Verant  Zapatillas para Hombre  Rojo Blue/Red-Com
 
 [![Quiksilver Verant  Zapatillas para Hombr](https://images-eu.ssl-images-amazon.com/images/I/31mytlMV9ZL._SL200_.jpg)](https://www.amazon.es/dp/B07DHTLR4X/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DHTLR4X/?tag=tolees-21)

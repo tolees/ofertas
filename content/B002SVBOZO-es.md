@@ -22,7 +22,7 @@ Ahora mismo tienes [Paquete de 100 preservativos"Young 49mm" de AMOR para una se
 
 [![Paquete de 100 preservativos"Young 49mm"](https://images-eu.ssl-images-amazon.com/images/I/41VgjYCfVqL._SL200_.jpg)](https://www.amazon.es/dp/B002SVBOZO/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B002SVBOZO/?tag=tolees-21)

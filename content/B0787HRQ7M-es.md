@@ -22,7 +22,7 @@ Ahora mismo tienes [Pepe Jeans London Brompton Square  Zapatillas Mujer  Rosa  M
 
 [![Pepe Jeans London Brompton Square  Zapat](https://images-eu.ssl-images-amazon.com/images/I/41-JuA13WQL._SL200_.jpg)](https://www.amazon.es/dp/B0787HRQ7M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0787HRQ7M/?tag=tolees-21)

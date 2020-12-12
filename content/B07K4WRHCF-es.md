@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jorantwon Sweat Hood  Capucha Hombre  Gris  Lig
 
 [![JACK & JONES Jorantwon Sweat Hood  Capuc](https://images-eu.ssl-images-amazon.com/images/I/41vQ6ExpKXL._SL200_.jpg)](https://www.amazon.es/dp/B07K4WRHCF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07K4WRHCF/?tag=tolees-21)

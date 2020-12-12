@@ -22,7 +22,7 @@ Ahora mismo tienes [Columbia Silver Ridge II Cargo Short XO0663 Shorts  Hombre  
 
 [![Columbia Silver Ridge II Cargo Short XO0](https://images-eu.ssl-images-amazon.com/images/I/41sy9RvTlgL._SL200_.jpg)](https://www.amazon.es/dp/B0794VNQMG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0794VNQMG/?tag=tolees-21)

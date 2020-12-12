@@ -22,7 +22,7 @@ Ahora mismo tienes [The North Face Borealis Classic Mochila  Unisex Adulto  Urba
 
 [![The North Face Borealis Classic Mochila ](https://images-eu.ssl-images-amazon.com/images/I/41N969vZvAL._SL200_.jpg)](https://www.amazon.es/dp/B07M8QPVT2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07M8QPVT2/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Fjällräven Re-Kånken Mini - Mochila  Unisex Adulto  Azul 
 
 [![Fjällräven Re-Kånken Mini - Mochila  Uni](https://images-eu.ssl-images-amazon.com/images/I/41V3KfR30JL._SL200_.jpg)](https://www.amazon.es/dp/B01HI7JYOA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01HI7JYOA/?tag=tolees-21)

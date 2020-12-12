@@ -22,7 +22,7 @@ Ahora mismo tienes [Bellota 8054-500 MACETA GOMA BLANCA 500GR  500 g](https://ww
 
 [![Bellota 8054-500 MACETA GOMA BLANCA 500G](https://images-eu.ssl-images-amazon.com/images/I/31%2BhMvtoV0L._SL200_.jpg)](https://www.amazon.es/dp/B00F2NMAEO/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00F2NMAEO/?tag=tolees-21)

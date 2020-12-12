@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jjivega Jjbob WW Kelp Noos  Pantalones para Hom
 
 [![JACK & JONES Jjivega Jjbob WW Kelp Noos ](https://images-eu.ssl-images-amazon.com/images/I/41tg7YoBNzL._SL200_.jpg)](https://www.amazon.es/dp/B0778YD4NV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0778YD4NV/?tag=tolees-21)

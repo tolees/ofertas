@@ -22,7 +22,7 @@ Ahora mismo tienes [Subsonic - Funda estuche de almacenamiento y transporte para
 
 [![Subsonic - Funda estuche de almacenamien](https://images-eu.ssl-images-amazon.com/images/I/51wtQfm57ML._SL200_.jpg)](https://www.amazon.es/dp/B01MZAQYX7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MZAQYX7/?tag=tolees-21)

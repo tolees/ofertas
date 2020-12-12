@@ -22,7 +22,7 @@ Ahora mismo tienes [AmazonBasics - Mochila ligera plegable](https://www.amazon.e
 
 [![AmazonBasics - Mochila ligera plegable](https://images-eu.ssl-images-amazon.com/images/I/41tieZgaR1L._SL200_.jpg)](https://www.amazon.es/dp/B01AIVT7YK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01AIVT7YK/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Escaper Tech Zapatillas de deporte Unisex adulto  Negro
 
 [![Puma Escaper Tech Zapatillas de deporte ](https://images-eu.ssl-images-amazon.com/images/I/41fUwykMwFL._SL200_.jpg)](https://www.amazon.es/dp/B07B43KZSD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07B43KZSD/?tag=tolees-21)

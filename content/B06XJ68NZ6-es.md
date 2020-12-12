@@ -22,7 +22,7 @@ Ahora mismo tienes [Ballistix Sport LT BLS4C8G4D26BFSE/BLS4K8G4D26BFSE - Kit de 
 
 [![Ballistix Sport LT BLS4C8G4D26BFSE/BLS4K](https://images-eu.ssl-images-amazon.com/images/I/51OjUWA3HCL._SL200_.jpg)](https://www.amazon.es/dp/B06XJ68NZ6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XJ68NZ6/?tag=tolees-21)

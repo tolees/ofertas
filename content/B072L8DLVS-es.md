@@ -22,7 +22,7 @@ Ahora mismo tienes [Ballistix Elite BLE8G4D34AEEAK - Memoria RAM de 8 GB  DDR4  
 
 [![Ballistix Elite BLE8G4D34AEEAK - Memoria](https://images-eu.ssl-images-amazon.com/images/I/51muizbo7RL._SL200_.jpg)](https://www.amazon.es/dp/B072L8DLVS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072L8DLVS/?tag=tolees-21)

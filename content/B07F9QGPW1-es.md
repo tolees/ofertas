@@ -22,7 +22,7 @@ Ahora mismo tienes [Festina Reloj Analógico para Mujer de Cuarzo con Correa en 
 
 [![Festina Reloj Analógico para Mujer de Cu](https://images-eu.ssl-images-amazon.com/images/I/41NBQRr4i-L._SL200_.jpg)](https://www.amazon.es/dp/B07F9QGPW1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F9QGPW1/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [40L Mens impermeable al aire libre impermeable deportes moch
 
 [![40L Mens impermeable al aire libre imper](https://images-eu.ssl-images-amazon.com/images/I/518Gr4tkTOL._SL200_.jpg)](https://www.amazon.es/dp/B074T9BGCB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074T9BGCB/?tag=tolees-21)

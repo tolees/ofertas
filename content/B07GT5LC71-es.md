@@ -22,7 +22,7 @@ Ahora mismo tienes [Desigual - Bag Orangina Piadena Women  Carteras de mano con 
 
 [![Desigual - Bag Orangina Piadena Women  C](https://images-eu.ssl-images-amazon.com/images/I/41CWyZ%2B0hpL._SL200_.jpg)](https://www.amazon.es/dp/B07GT5LC71/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07GT5LC71/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [WMF Olla rápida  Acero Inoxidable Pulido  18 cm](https://ww
 
 [![WMF Olla rápida  Acero Inoxidable Pulido](https://images-eu.ssl-images-amazon.com/images/I/41VJFIPUHrL._SL200_.jpg)](https://www.amazon.es/dp/B000UAGX5Q/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B000UAGX5Q/?tag=tolees-21)

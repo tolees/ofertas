@@ -22,7 +22,7 @@ Ahora mismo tienes [ALDO Etiewen  Sandalia con Pulsera para Mujer  Beige  Nude  
 
 [![ALDO Etiewen  Sandalia con Pulsera para ](https://images-eu.ssl-images-amazon.com/images/I/41rbM24kRsL._SL200_.jpg)](https://www.amazon.es/dp/B076W22TZS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B076W22TZS/?tag=tolees-21)

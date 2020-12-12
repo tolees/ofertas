@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike Revolution 4  GS   Zapatillas de Running para Niños  G
 
 [![Nike Revolution 4  GS   Zapatillas de Ru](https://images-eu.ssl-images-amazon.com/images/I/41tl7WkHdTL._SL200_.jpg)](https://www.amazon.es/dp/B07D43GRBC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D43GRBC/?tag=tolees-21)

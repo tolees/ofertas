@@ -22,7 +22,7 @@ Ahora mismo tienes [Vans_Apparel Otw Pullover Fleece  Capucha para Hombre  Amari
 
 [![Vans_Apparel Otw Pullover Fleece  Capuch](https://images-eu.ssl-images-amazon.com/images/I/31QRXy568YL._SL200_.jpg)](https://www.amazon.es/dp/B07C8WP8PB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07C8WP8PB/?tag=tolees-21)

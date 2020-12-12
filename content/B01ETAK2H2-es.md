@@ -22,7 +22,7 @@ Ahora mismo tienes [Wurko 11060003 - Manguera  Color Amarillo](https://www.amazo
 
 [![Wurko 11060003 - Manguera  Color Amarill](https://images-eu.ssl-images-amazon.com/images/I/51T%2Bxgdo3FL._SL200_.jpg)](https://www.amazon.es/dp/B01ETAK2H2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01ETAK2H2/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Soporte para sartén 5 niveles Organizador de sartenes CookJ
 
 [![Soporte para sartén 5 niveles Organizado](https://images-eu.ssl-images-amazon.com/images/I/51pB2FpI3GL._SL200_.jpg)](https://www.amazon.es/dp/B074KCTYRZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074KCTYRZ/?tag=tolees-21)

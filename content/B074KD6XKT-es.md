@@ -22,7 +22,7 @@ Ahora mismo tienes [Muvit HD2 - Altavoz Wireless  Tela Gris](https://www.amazon.
 
 [![Muvit HD2 - Altavoz Wireless  Tela Gris](https://images-eu.ssl-images-amazon.com/images/I/411pvwOV-OL._SL200_.jpg)](https://www.amazon.es/dp/B074KD6XKT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B074KD6XKT/?tag=tolees-21)

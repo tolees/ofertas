@@ -22,7 +22,7 @@ Ahora mismo tienes [Element Blazin Crew Fleece  Hombre  Charcoal Heather  L](htt
 
 [![Element Blazin Crew Fleece  Hombre  Char](https://images-eu.ssl-images-amazon.com/images/I/41hmHQJjtDL._SL200_.jpg)](https://www.amazon.es/dp/B07DLG9M4V/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DLG9M4V/?tag=tolees-21)

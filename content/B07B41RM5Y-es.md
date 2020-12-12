@@ -22,7 +22,7 @@ Ahora mismo tienes [Relec Pulsera Repelente Antimosquitos Superhéroes Batman - 
 
 [![Relec Pulsera Repelente Antimosquitos Su](https://images-eu.ssl-images-amazon.com/images/I/51ImOKybFmL._SL200_.jpg)](https://www.amazon.es/dp/B07B41RM5Y/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07B41RM5Y/?tag=tolees-21)

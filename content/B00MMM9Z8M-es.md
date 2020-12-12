@@ -22,7 +22,7 @@ Ahora mismo tienes [Pyrex Asimetria Moldes Desmontables  26 cm](https://www.amaz
 
 [![Pyrex Asimetria Moldes Desmontables  26 ](https://images-eu.ssl-images-amazon.com/images/I/416j4s5XxEL._SL200_.jpg)](https://www.amazon.es/dp/B00MMM9Z8M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00MMM9Z8M/?tag=tolees-21)

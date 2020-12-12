@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers Meridian-charted  Zapatillas para Mujer   White Mul
 
 [![Skechers Meridian-charted  Zapatillas pa](https://images-eu.ssl-images-amazon.com/images/I/41l0aedhxDL._SL200_.jpg)](https://www.amazon.es/dp/B07FBPTXT4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FBPTXT4/?tag=tolees-21)

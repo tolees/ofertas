@@ -22,7 +22,7 @@ Ahora mismo tienes [Lacoste Pf3960 Polo  Azul Encrier-Farine 7kd  44 para Mujer]
 
 [![Lacoste Pf3960 Polo  Azul Encrier-Farine](https://images-eu.ssl-images-amazon.com/images/I/41dZQ-YLjiL._SL200_.jpg)](https://www.amazon.es/dp/B07JGC4GS9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07JGC4GS9/?tag=tolees-21)

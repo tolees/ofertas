@@ -22,7 +22,7 @@ Ahora mismo tienes [JVC HA-SR225-A-E - Auriculares de Diadema Cerrados  diseño 
 
 [![JVC HA-SR225-A-E - Auriculares de Diadem](https://images-eu.ssl-images-amazon.com/images/I/41czrhD2H9L._SL200_.jpg)](https://www.amazon.es/dp/B00VEF02FS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00VEF02FS/?tag=tolees-21)

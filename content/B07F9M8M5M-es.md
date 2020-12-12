@@ -22,7 +22,7 @@ Ahora mismo tienes [Michael Kors Reloj Analógico para Mujer de Cuarzo con Corre
 
 [![Michael Kors Reloj Analógico para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/31MiG%2BBjcdL._SL200_.jpg)](https://www.amazon.es/dp/B07F9M8M5M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F9M8M5M/?tag=tolees-21)

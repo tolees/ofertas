@@ -22,7 +22,7 @@ Ahora mismo tienes [Colgate Total Pro Gum Health cepillo de dientes suave  medio
 
 [![Colgate Total Pro Gum Health cepillo de ](https://images-eu.ssl-images-amazon.com/images/I/4188e6KijCL._SL200_.jpg)](https://www.amazon.es/dp/B07B4RH2J1/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07B4RH2J1/?tag=tolees-21)

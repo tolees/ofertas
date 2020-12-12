@@ -22,7 +22,7 @@ Ahora mismo tienes [Fallout 4 VR](https://www.amazon.es/dp/B071JRMZBV/?tag=tolee
 
 [![Fallout 4 VR](https://images-eu.ssl-images-amazon.com/images/I/51KsQNVXcUL._SL200_.jpg)](https://www.amazon.es/dp/B071JRMZBV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071JRMZBV/?tag=tolees-21)

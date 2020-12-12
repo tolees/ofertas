@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers 15350  Zapatillas para Mujer  Gris  Charcoal/Turquo
 
 [![Skechers 15350  Zapatillas para Mujer  G](https://images-eu.ssl-images-amazon.com/images/I/41KkyMfBc-L._SL200_.jpg)](https://www.amazon.es/dp/B071XDLPSB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071XDLPSB/?tag=tolees-21)

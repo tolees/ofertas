@@ -22,7 +22,7 @@ Ahora mismo tienes [Lacoste Sideline 119 1 Cfa  Zapatillas para Mujer  Azul  Lt 
 
 [![Lacoste Sideline 119 1 Cfa  Zapatillas p](https://images-eu.ssl-images-amazon.com/images/I/41hGdpbGBxL._SL200_.jpg)](https://www.amazon.es/dp/B07DHQN691/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07DHQN691/?tag=tolees-21)

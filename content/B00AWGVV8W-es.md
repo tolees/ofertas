@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike W NSW Fnl FLC Sweatshirt  Mujer  Aluminum/htr/Indigo Fo
 
 [![Nike W NSW Fnl FLC Sweatshirt  Mujer  Al](https://images-eu.ssl-images-amazon.com/images/I/414WDC341KL._SL200_.jpg)](https://www.amazon.es/dp/B00AWGVV8W/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00AWGVV8W/?tag=tolees-21)

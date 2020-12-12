@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance W420V4  Zapatillas de Running para Mujer  Rosa  
 
 [![New Balance W420V4  Zapatillas de Runnin](https://images-eu.ssl-images-amazon.com/images/I/51DBB9IgPZL._SL200_.jpg)](https://www.amazon.es/dp/B077QDMHLW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B077QDMHLW/?tag=tolees-21)

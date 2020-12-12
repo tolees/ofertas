@@ -22,7 +22,7 @@ Ahora mismo tienes [Portabebé Asiento de Cadera Cintura de Taburete Baby Waist 
 
 [![Portabebé Asiento de Cadera Cintura de T](https://images-eu.ssl-images-amazon.com/images/I/41eTd90yzML._SL200_.jpg)](https://www.amazon.es/dp/B07D2CW2PP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07D2CW2PP/?tag=tolees-21)

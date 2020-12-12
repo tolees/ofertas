@@ -22,7 +22,7 @@ Ahora mismo tienes [Tribe Disney Star Wars R2D2  Memoria USB 2.0 de 16 GB  Goma 
 
 [![Tribe Disney Star Wars R2D2  Memoria USB](https://images-eu.ssl-images-amazon.com/images/I/41RPr9QBn2L._SL200_.jpg)](https://www.amazon.es/dp/B00KG15CE2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B00KG15CE2/?tag=tolees-21)

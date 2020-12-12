@@ -22,7 +22,7 @@ Ahora mismo tienes [REPLAY Lolys  Zapatillas para Mujer  Azul  Navy   39 EU](htt
 
 [![REPLAY Lolys  Zapatillas para Mujer  Azu](https://images-eu.ssl-images-amazon.com/images/I/51eMKElloFL._SL200_.jpg)](https://www.amazon.es/dp/B0727SJ1TS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0727SJ1TS/?tag=tolees-21)

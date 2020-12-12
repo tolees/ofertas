@@ -22,7 +22,7 @@ Ahora mismo tienes [Dove Go Fresh granada Antitranspirante Desodorante Roll-On 5
 
 [![Dove Go Fresh granada Antitranspirante D](https://images-eu.ssl-images-amazon.com/images/I/41atwfgMbVL._SL200_.jpg)](https://www.amazon.es/dp/B01F8IEFL8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01F8IEFL8/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Marc O Polo Body & Beach Beach W-Tankini-Top  Pareo para Muj
 
 [![Marc O Polo Body & Beach Beach W-Tankini](https://images-eu.ssl-images-amazon.com/images/I/51KOa1FoIAL._SL200_.jpg)](https://www.amazon.es/dp/B072VPK7X4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B072VPK7X4/?tag=tolees-21)

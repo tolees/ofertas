@@ -22,7 +22,7 @@ Ahora mismo tienes [Under Armour Rapid  Zapatillas de Running para Mujer  Negro 
 
 [![Under Armour Rapid  Zapatillas de Runnin](https://images-eu.ssl-images-amazon.com/images/I/41jtPXS3kBL._SL200_.jpg)](https://www.amazon.es/dp/B01MQUEQK4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MQUEQK4/?tag=tolees-21)

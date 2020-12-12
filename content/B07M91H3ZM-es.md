@@ -22,7 +22,7 @@ Ahora mismo tienes [MTNG 69194  Zapatillas para Mujer  Negro/Yoda Blanco Roto C4
 
 [![MTNG 69194  Zapatillas para Mujer  Negro](https://images-eu.ssl-images-amazon.com/images/I/3175DbT6InL._SL200_.jpg)](https://www.amazon.es/dp/B07M91H3ZM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07M91H3ZM/?tag=tolees-21)

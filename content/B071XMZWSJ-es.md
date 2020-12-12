@@ -22,7 +22,7 @@ Ahora mismo tienes [RED WAGON Dino  Botas Unisex Niños  Verde  Green   25.5  Ta
 
 [![RED WAGON Dino  Botas Unisex Niños  Verd](https://images-eu.ssl-images-amazon.com/images/I/41wSGpiOyhL._SL200_.jpg)](https://www.amazon.es/dp/B071XMZWSJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071XMZWSJ/?tag=tolees-21)

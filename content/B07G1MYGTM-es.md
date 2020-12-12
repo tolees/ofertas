@@ -22,7 +22,7 @@ Ahora mismo tienes [Polaroid- Cámara Mint 2 en 1  con tecnología Zink sin tint
 
 [![Polaroid- Cámara Mint 2 en 1  con tecnol](https://images-eu.ssl-images-amazon.com/images/I/41tJ5MJXtNL._SL200_.jpg)](https://www.amazon.es/dp/B07G1MYGTM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07G1MYGTM/?tag=tolees-21)

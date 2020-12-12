@@ -22,7 +22,7 @@ Ahora mismo tienes [Skechers Skech Appeal 2.0-Get Em Glitt  Zapatillas Deportiva
 
 [![Skechers Skech Appeal 2.0-Get Em Glitt  ](https://images-eu.ssl-images-amazon.com/images/I/41n9Zp%2BlFFL._SL200_.jpg)](https://www.amazon.es/dp/B07CVHX76B/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CVHX76B/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Feob Pulsera Actividad Inteligente  Reloj Inteligente Podóm
 
 [![Feob Pulsera Actividad Inteligente  Relo](https://images-eu.ssl-images-amazon.com/images/I/417%2BXr3qV6L._SL200_.jpg)](https://www.amazon.es/dp/B07NQ7JJKJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07NQ7JJKJ/?tag=tolees-21)

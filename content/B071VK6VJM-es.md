@@ -22,7 +22,7 @@ Ahora mismo tienes [SYROKAN - Sujetador Deportivo de Alto Impacto con Aros y Fin
 
 [![SYROKAN - Sujetador Deportivo de Alto Im](https://images-eu.ssl-images-amazon.com/images/I/41EuuB62M9L._SL200_.jpg)](https://www.amazon.es/dp/B071VK6VJM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B071VK6VJM/?tag=tolees-21)

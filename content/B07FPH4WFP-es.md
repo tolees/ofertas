@@ -22,7 +22,7 @@ Ahora mismo tienes [Licuadora Prensado Frio  Licuadora Frutas Verduras Total con
 
 [![Licuadora Prensado Frio  Licuadora Fruta](https://images-eu.ssl-images-amazon.com/images/I/41E3OF5frpL._SL200_.jpg)](https://www.amazon.es/dp/B07FPH4WFP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07FPH4WFP/?tag=tolees-21)

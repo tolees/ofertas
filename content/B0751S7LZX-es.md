@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance Fresh Foam Arishi Sport  Zapatillas de Running p
 
 [![New Balance Fresh Foam Arishi Sport  Zap](https://images-eu.ssl-images-amazon.com/images/I/51GjY4aSgkL._SL200_.jpg)](https://www.amazon.es/dp/B0751S7LZX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0751S7LZX/?tag=tolees-21)

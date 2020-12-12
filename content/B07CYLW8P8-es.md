@@ -22,7 +22,7 @@ Ahora mismo tienes [AOAFUN Micro USB Premium Cable Paquete de 5 PCS Cable Largo 
 
 [![AOAFUN Micro USB Premium Cable Paquete d](https://images-eu.ssl-images-amazon.com/images/I/5176qmmvQ%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07CYLW8P8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CYLW8P8/?tag=tolees-21)

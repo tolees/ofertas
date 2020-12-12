@@ -22,7 +22,7 @@ Ahora mismo tienes [Asics Gel-Lyte  Zapatillas Unisex Adulto  Rojo Weinrot  37 E
 
 [![Asics Gel-Lyte  Zapatillas Unisex Adulto](https://images-eu.ssl-images-amazon.com/images/I/51tSxpr7goL._SL200_.jpg)](https://www.amazon.es/dp/B078NMDM5V/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078NMDM5V/?tag=tolees-21)

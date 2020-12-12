@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma Pulse Ignite XT Swan Wn s  Zapatillas Deportivas para I
 
 [![Puma Pulse Ignite XT Swan Wn s  Zapatill](https://images-eu.ssl-images-amazon.com/images/I/41AejF-dlQL._SL200_.jpg)](https://www.amazon.es/dp/B01MYOD7P6/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B01MYOD7P6/?tag=tolees-21)

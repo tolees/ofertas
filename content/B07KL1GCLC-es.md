@@ -22,7 +22,7 @@ Ahora mismo tienes [Safety 1st PEPS+CAPOTA  Black Chic  - Silla de paseo  color 
 
 [![Safety 1st PEPS+CAPOTA  Black Chic  - Si](https://images-eu.ssl-images-amazon.com/images/I/41fb5F92VxL._SL200_.jpg)](https://www.amazon.es/dp/B07KL1GCLC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07KL1GCLC/?tag=tolees-21)

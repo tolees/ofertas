@@ -22,7 +22,7 @@ Ahora mismo tienes [Helly Hansen HH Logo Hoodie  Hombre  Pepper Green  L](https:
 
 [![Helly Hansen HH Logo Hoodie  Hombre  Pep](https://images-eu.ssl-images-amazon.com/images/I/41f%2BCsS%2BHML._SL200_.jpg)](https://www.amazon.es/dp/B07F2QCJ2Q/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07F2QCJ2Q/?tag=tolees-21)

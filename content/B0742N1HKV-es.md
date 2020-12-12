@@ -22,7 +22,7 @@ Ahora mismo tienes [Salomon Mochila ligera para running 3L  agile 2  set  rojo y
 
 [![Salomon Mochila ligera para running 3L  ](https://images-eu.ssl-images-amazon.com/images/I/41-UJwtSjSL._SL200_.jpg)](https://www.amazon.es/dp/B0742N1HKV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B0742N1HKV/?tag=tolees-21)

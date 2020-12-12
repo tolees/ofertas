@@ -22,7 +22,7 @@ Ahora mismo tienes [Salomon XA Pro 3D W  Zapatillas de Trail Running para Mujer 
 
 [![Salomon XA Pro 3D W  Zapatillas de Trail](https://images-eu.ssl-images-amazon.com/images/I/41p4gudwISL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ5BN5G/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07CZ5BN5G/?tag=tolees-21)

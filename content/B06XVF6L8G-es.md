@@ -22,7 +22,7 @@ Ahora mismo tienes [Sundried Mallas de Deporte  de Rendimiento  para Gimnasio  p
 
 [![Sundried Mallas de Deporte  de Rendimien](https://images-eu.ssl-images-amazon.com/images/I/31Swc5E4nML._SL200_.jpg)](https://www.amazon.es/dp/B06XVF6L8G/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XVF6L8G/?tag=tolees-21)

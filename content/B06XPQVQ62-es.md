@@ -22,7 +22,7 @@ Ahora mismo tienes [Adelheid - Glücklich Umhängetasche  Shoppers y bolsos de h
 
 [![Adelheid - Glücklich Umhängetasche  Shop](https://images-eu.ssl-images-amazon.com/images/I/515zu2H4xDL._SL200_.jpg)](https://www.amazon.es/dp/B06XPQVQ62/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B06XPQVQ62/?tag=tolees-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [JACK & JONES Jjichop Jjcargo Shorts AKM 429 STS  Pantalones 
 
 [![JACK & JONES Jjichop Jjcargo Shorts AKM ](https://images-eu.ssl-images-amazon.com/images/I/41BPoAdHbKL._SL200_.jpg)](https://www.amazon.es/dp/B078H2LYDW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B078H2LYDW/?tag=tolees-21)
