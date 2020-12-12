@@ -24,9 +24,9 @@ Tienes [Toshiba HDTH320ES3CA - Disco Duro de 2 TB  Color Plata](https://www.amaz
 
 ℹ️:
 
+- Protección permanente con casos de aluminio lisas y sólidas
 - Software de copia de seguridad automática a bordo
 - Transferencia ultra rápida velocidad con USB 3.0 (compatible con USB 2.0)
-- Protección permanente con casos de aluminio lisas y sólidas
 - disco duro externo portátil con capacidad de 2 TB
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00MA3LQ0S/?tag=tolees-21)

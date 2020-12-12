@@ -24,8 +24,8 @@ Ahora mismo tienes [Ghost Recon - Figura Nomad Breakpoint](https://www.amazon.es
 
 🔎:
 
-- Material: PVC
-- Height: 23 cm
 - Detailed holster, handgun, bag pack & rifle
+- Height: 23 cm
+- Material: PVC
 
 [Visítala!!!](https://www.amazon.es/dp/B07RP1BNG9/?tag=tolees-21)

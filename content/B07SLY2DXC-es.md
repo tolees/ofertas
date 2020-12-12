@@ -24,11 +24,11 @@ Tienes [Giochi Preziosi - Pop Pop Hair  PPA01000    color/modelo surtido](https:
 
 ℹ️:
 
-- Pop pop hair es mucho más; sorpresa total. : abre la parte superior y descubrirás una bola
-- Pop pop hair - es una muñeca? - es un cepillo para tu pelo
-- Separa la parte del cuerpo del cepillo; se convierte in un pulverizador de agua
-- Pulveriza sobre la bola y pop, aparece un contenedor con una mecha larguísima y preciosa de pelo
-- Ábrelo y descubrirás en su interior un adorable personaje para coleccionar; podrás divertirte horas y horas creando peinados impresionantes
 - Es un producto surtido, que se enviará según existencias
+- Ábrelo y descubrirás en su interior un adorable personaje para coleccionar; podrás divertirte horas y horas creando peinados impresionantes
+- Pop pop hair es mucho más; sorpresa total. : abre la parte superior y descubrirás una bola
+- Pulveriza sobre la bola y pop, aparece un contenedor con una mecha larguísima y preciosa de pelo
+- Separa la parte del cuerpo del cepillo; se convierte in un pulverizador de agua
+- Pop pop hair - es una muñeca? - es un cepillo para tu pelo
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07SLY2DXC/?tag=tolees-21)

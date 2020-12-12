@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 46.47 % en Beurer BS89 - Espejo maquillaje con luz '
-date: 2020-12-11 13:17:26
+date: 2020-12-12 15:51:14
 image: 'https://m.media-amazon.com/images/I/414ezyRy1NL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,11 +24,11 @@ Tienes [Beurer BS89 - Espejo maquillaje con luz  color plata](https://www.amazon
 
 ℹ️:
 
-- 3 intensidades de luz
 - funciona con pilas AA 1,5 V
-- Espejo de pared
+- 3 intensidades de luz
+- Luz LED brillante con 36 LED y 400 Lux
 - Alta calidad, acabados cromados: fácil de fijar en pared
 - 1 cara vista con aumento (x5)
-- Luz LED brillante con 36 LED y 400 Lux
+- Espejo de pared
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00NABLZGE/?tag=tolees-21)

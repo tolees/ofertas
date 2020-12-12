@@ -24,10 +24,10 @@ Ahora mismo tienes [Moon and Back Standard Pajama Pant Sets  Impresion de pingü
 
 🔎:
 
-- Las camisetas y pantalones se ofrecen por separado para un mejor ajuste.
 - Con certificación Öko-Tex Standard 100 que garantiza la ausencia de sustancias nocivas.
-- Celebra la temporada con la familia en pijamas festivas a juego de Moon and Back por Hanna Andersson
-- Ajuste cómodo, no es resistente al fuego.
 - Puños acanalados suaves.
+- Ajuste cómodo, no es resistente al fuego.
+- Celebra la temporada con la familia en pijamas festivas a juego de Moon and Back por Hanna Andersson
+- Las camisetas y pantalones se ofrecen por separado para un mejor ajuste.
 
 [Visítala!!!](https://www.amazon.es/dp/B07WX2K8YB/?tag=tolees-21)
