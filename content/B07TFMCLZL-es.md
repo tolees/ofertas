@@ -3,6 +3,7 @@ layout: post
 title: 'Unidad Flash de Lexar JumpDrive Fingerpr al 35.81 % de descuento'
 date: 2020-11-23 14:13:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/31wF+VrptHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31wF+VrptHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31wF+VrptHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 121.92 EUR
 inStock: true
 prodname: 'Unidad Flash de Lexar JumpDrive Fingerprint F35 256GB USB 3.0'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07TFMCLZL/?tag=tolees-21'
+descuento: '35.81'
+titulo: 'Unidad Flash de Lexar JumpDrive Fingerpr'
 ---
 
 Está [Unidad Flash de Lexar JumpDrive Fingerprint F35 256GB USB 3.0](https://www.amazon.es/dp/B07TFMCLZL/?tag=tolees-21) con 35.81 de descuento por 78.26 EUR (original: 121.92 EUR) en el siguiente enlace!
 
 [![Unidad Flash de Lexar JumpDrive Fingerpr](https://m.media-amazon.com/images/I/31wF+VrptHL._SL200_.jpg)](https://www.amazon.es/dp/B07TFMCLZL/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TFMCLZL/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Alpino 654 - Lápices de colores al 56.57 % de descuento'
 date: 2020-10-22 16:09:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41SCoNCa6yL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SCoNCa6yL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41SCoNCa6yL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 4.49 EUR
 inStock: true
 prodname: 'Alpino 654 - Lápices de colores'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0144T1MXQ/?tag=tolees-21'
+descuento: '56.57'
+titulo: 'Alpino 654 - Lápices de colores'
 ---
 
 Está [Alpino 654 - Lápices de colores](https://www.amazon.es/dp/B0144T1MXQ/?tag=tolees-21) con 56.57 de descuento por 1.95 EUR (original: 4.49 EUR) en el siguiente enlace!
 
 [![Alpino 654 - Lápices de colores](https://m.media-amazon.com/images/I/41SCoNCa6yL._SL200_.jpg)](https://www.amazon.es/dp/B0144T1MXQ/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0144T1MXQ/?tag=tolees-21)
 

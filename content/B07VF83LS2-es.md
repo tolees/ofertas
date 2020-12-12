@@ -3,6 +3,7 @@ layout: post
 title: 'NYX Professional Makeup Spray fijador Ma al 30.70 % de descuento'
 date: 2020-11-09 16:52:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/41JoJlEguLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41JoJlEguLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41JoJlEguLL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 15.8 EUR
 inStock: true
 prodname: 'NYX Professional Makeup Spray fijador Makeup Setting Spray  Larga duración  Ligero  Fórmula vegana  Acabado Matte  Pack doble  60 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07VF83LS2/?tag=tolees-21'
+descuento: '30.70'
+titulo: 'NYX Professional Makeup Spray fijador Ma'
 ---
 
 Ahora mismo tienes [NYX Professional Makeup Spray fijador Makeup Setting Spray  Larga duración  Ligero  Fórmula vegana  Acabado Matte  Pack doble  60 ml](https://www.amazon.es/dp/B07VF83LS2/?tag=tolees-21) a 10.95 EUR (original: 15.8 EUR) (30.70 %  de descuento) en el siguiente enlace!
 
 [![NYX Professional Makeup Spray fijador Ma](https://m.media-amazon.com/images/I/41JoJlEguLL._SL200_.jpg)](https://www.amazon.es/dp/B07VF83LS2/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07VF83LS2/?tag=tolees-21)
 

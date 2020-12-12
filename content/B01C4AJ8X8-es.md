@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.97 % en Feliz Navidad  Mr. Lawrence [Blu-ray]'
 date: 2020-11-24 06:30:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/51zN7zdWRaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51zN7zdWRaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51zN7zdWRaL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 17.95 EUR
 inStock: true
 prodname: 'Feliz Navidad  Mr. Lawrence [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01C4AJ8X8/?tag=tolees-21'
+descuento: '49.97'
+titulo: 'Feliz Navidad  Mr. Lawrence [Blu-ray]'
 ---
 
 Tienes [Feliz Navidad  Mr. Lawrence [Blu-ray]](https://www.amazon.es/dp/B01C4AJ8X8/?tag=tolees-21) con un 49.97 % de descuento con precio de oferta de 8.98 EUR (original: 17.95 EUR) en el siguiente enlace!
 
 [![Feliz Navidad  Mr. Lawrence [Blu-ray]](https://m.media-amazon.com/images/I/51zN7zdWRaL._SL200_.jpg)](https://www.amazon.es/dp/B01C4AJ8X8/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01C4AJ8X8/?tag=tolees-21)
 

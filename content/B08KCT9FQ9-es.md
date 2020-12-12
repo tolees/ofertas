@@ -3,6 +3,7 @@ layout: post
 title: 'Funko Pop! Animación: One Punch Man- Gar al 31.61 % de descuento'
 date: 2020-12-11 15:16:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/41GnYur0oOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GnYur0oOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41GnYur0oOL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 23.38 EUR
 inStock: true
 prodname: 'Funko Pop! Animación: One Punch Man- Garou Fluyendo Agua  TRL  GITD  Serie Especialidad Edición Limitada Exclusivo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08KCT9FQ9/?tag=tolees-21'
+descuento: '31.61'
+titulo: 'Funko Pop! Animación: One Punch Man- Gar'
 ---
 
 Ahora mismo tienes [Funko Pop! Animación: One Punch Man- Garou Fluyendo Agua  TRL  GITD  Serie Especialidad Edición Limitada Exclusivo](https://www.amazon.es/dp/B08KCT9FQ9/?tag=tolees-21) a 15.99 EUR (original: 23.38 EUR) (31.61 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.44 % en Pop! Marvel: X-Men 20th- Magneto'
 date: 2020-10-27 07:05:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41jKmZHb-5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jKmZHb-5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41jKmZHb-5L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 15.82 EUR
 inStock: true
 prodname: 'Pop! Marvel: X-Men 20th- Magneto'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B082FRV6R5/?tag=tolees-21'
+descuento: '33.44'
+titulo: 'Pop! Marvel: X-Men 20th- Magneto'
 ---
 
 Tienes [Pop! Marvel: X-Men 20th- Magneto](https://www.amazon.es/dp/B082FRV6R5/?tag=tolees-21) con un 33.44 % de descuento con precio de oferta de 10.53 EUR (original: 15.82 EUR) en el siguiente enlace!
 
 [![Pop! Marvel: X-Men 20th- Magneto](https://m.media-amazon.com/images/I/41jKmZHb-5L._SL200_.jpg)](https://www.amazon.es/dp/B082FRV6R5/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B082FRV6R5/?tag=tolees-21)
 

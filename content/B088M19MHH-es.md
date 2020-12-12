@@ -3,6 +3,7 @@ layout: post
 title: 'Suhctup Funda Compatible con Xiaomi Mi 8 al 52.73 % de descuento'
 date: 2020-11-27 20:04:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/51dBo1wNHhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51dBo1wNHhL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51dBo1wNHhL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 16.88 EUR
 inStock: true
 prodname: 'Suhctup Funda Compatible con Xiaomi Mi 8 Lite Transparente Silicona TPU Gel Carcasa Dibujos Flor Crystal Suave Bumper Ultra Delgado [Soporte Carga Inalámbrica] Antigolpes Case Cover Flor 1'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B088M19MHH/?tag=tolees-21'
+descuento: '52.73'
+titulo: 'Suhctup Funda Compatible con Xiaomi Mi 8'
 ---
 
 Ahora mismo tienes [Suhctup Funda Compatible con Xiaomi Mi 8 Lite Transparente Silicona TPU Gel Carcasa Dibujos Flor Crystal Suave Bumper Ultra Delgado [Soporte Carga Inalámbrica] Antigolpes Case Cover Flor 1](https://www.amazon.es/dp/B088M19MHH/?tag=tolees-21) a 7.98 EUR (original: 16.88 EUR) (52.73 %  de descuento) en el siguiente enlace!
 
 [![Suhctup Funda Compatible con Xiaomi Mi 8](https://m.media-amazon.com/images/I/51dBo1wNHhL._SL200_.jpg)](https://www.amazon.es/dp/B088M19MHH/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B088M19MHH/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 69.98 % en Diablo III'
 date: 2020-11-14 22:50:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/51GsenvQiZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51GsenvQiZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51GsenvQiZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Diablo III'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007D1JK1E/?tag=tolees-21'
+descuento: '69.98'
+titulo: 'Diablo III'
 ---
 
 Tienes [Diablo III](https://www.amazon.es/dp/B007D1JK1E/?tag=tolees-21) con un 69.98 % de descuento con precio de oferta de 3.9 EUR (original: 12.99 EUR) en el siguiente enlace!
 
 [![Diablo III](https://m.media-amazon.com/images/I/51GsenvQiZL._SL200_.jpg)](https://www.amazon.es/dp/B007D1JK1E/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B007D1JK1E/?tag=tolees-21)
 

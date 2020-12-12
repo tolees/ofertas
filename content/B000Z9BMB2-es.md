@@ -3,6 +3,7 @@ layout: post
 title: 'HifloFiltro HF303 Filtro para Moto al 32.24 % de descuento'
 date: 2020-12-09 08:53:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/41DHPa26yaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DHPa26yaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41DHPa26yaL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 7.32 EUR
 inStock: true
 prodname: 'HifloFiltro HF303 Filtro para Moto'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000Z9BMB2/?tag=tolees-21'
+descuento: '32.24'
+titulo: 'HifloFiltro HF303 Filtro para Moto'
 ---
 
 Ahora mismo tienes [HifloFiltro HF303 Filtro para Moto](https://www.amazon.es/dp/B000Z9BMB2/?tag=tolees-21) a 4.96 EUR (original: 7.32 EUR) (32.24 %  de descuento) en el siguiente enlace!
 
 [![HifloFiltro HF303 Filtro para Moto](https://m.media-amazon.com/images/I/41DHPa26yaL._SL200_.jpg)](https://www.amazon.es/dp/B000Z9BMB2/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B000Z9BMB2/?tag=tolees-21)
 

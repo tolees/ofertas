@@ -3,6 +3,7 @@ layout: post
 title: 'WMF Loft Coctelera  2 Piezas   Acero Ino al 40.01 % de descuento'
 date: 2020-12-11 13:26:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/31vbAU0b1YL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31vbAU0b1YL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31vbAU0b1YL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'WMF Loft Coctelera  2 Piezas   Acero Inoxidable Mate'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000XG83DC/?tag=tolees-21'
+descuento: '40.01'
+titulo: 'WMF Loft Coctelera  2 Piezas   Acero Ino'
 ---
 
 Ahora mismo tienes [WMF Loft Coctelera  2 Piezas   Acero Inoxidable Mate](https://www.amazon.es/dp/B000XG83DC/?tag=tolees-21) a 23.99 EUR (original: 39.99 EUR) (40.01 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Uchorlls Bombilla de Filamento LED E27   al 30.24 % de descuento'
 date: 2020-10-26 20:59:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ZVxoDar1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ZVxoDar1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ZVxoDar1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 17.99 EUR
 inStock: true
 prodname: 'Uchorlls Bombilla de Filamento LED E27  6W  equivalente a 60W   700LM  Luz Cálida  No Regulable E27 Edison Vintage Bombilla de Filamento Antiguo LED Bombilla de Decorativa  Pack de 5'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07Q6QQ7YK/?tag=tolees-21'
+descuento: '30.24'
+titulo: 'Uchorlls Bombilla de Filamento LED E27  '
 ---
 
 Ahora mismo tienes [Uchorlls Bombilla de Filamento LED E27  6W  equivalente a 60W   700LM  Luz Cálida  No Regulable E27 Edison Vintage Bombilla de Filamento Antiguo LED Bombilla de Decorativa  Pack de 5](https://www.amazon.es/dp/B07Q6QQ7YK/?tag=tolees-21) a 12.55 EUR (original: 17.99 EUR) (30.24 %  de descuento) en el siguiente enlace!
 
 [![Uchorlls Bombilla de Filamento LED E27  ](https://m.media-amazon.com/images/I/51ZVxoDar1L._SL200_.jpg)](https://www.amazon.es/dp/B07Q6QQ7YK/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07Q6QQ7YK/?tag=tolees-21)
 

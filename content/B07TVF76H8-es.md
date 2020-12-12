@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Skech-Air Dynamight-Fast Brak   al 25.15 % de descuento'
 date: 2020-10-17 09:50:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51EE5GDyWgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51EE5GDyWgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51EE5GDyWgL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 47.96 EUR
 inStock: true
 prodname: 'Skechers Skech-Air Dynamight-Fast Brak  Zapatillas para Mujer  Morado  Mauve Mesh/Off White Trim MVE   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07TVF76H8/?tag=tolees-21'
+descuento: '25.15'
+titulo: 'Skechers Skech-Air Dynamight-Fast Brak  '
 ---
 
 Está [Skechers Skech-Air Dynamight-Fast Brak  Zapatillas para Mujer  Morado  Mauve Mesh/Off White Trim MVE   37 EU](https://www.amazon.es/dp/B07TVF76H8/?tag=tolees-21) con 25.15 de descuento por 35.9 EUR (original: 47.96 EUR) en el siguiente enlace!
 
 [![Skechers Skech-Air Dynamight-Fast Brak  ](https://m.media-amazon.com/images/I/51EE5GDyWgL._SL200_.jpg)](https://www.amazon.es/dp/B07TVF76H8/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TVF76H8/?tag=tolees-21)
 

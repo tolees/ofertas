@@ -3,6 +3,7 @@ layout: post
 title: 'Gimi Tris Carro de la compra  con 6 rued al 29.68 % de descuento'
 date: 2020-10-20 06:37:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41HvWFAIgzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41HvWFAIgzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41HvWFAIgzL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 41.24 EUR
 inStock: true
 prodname: 'Gimi Tris Carro de la compra  con 6 ruedas  Bolsa impermeable de poliéster  capacidad de 56 litros  Floral Azul  41 x 51 x 102 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00F61MRVI/?tag=tolees-21'
+descuento: '29.68'
+titulo: 'Gimi Tris Carro de la compra  con 6 rued'
 ---
 
 Está [Gimi Tris Carro de la compra  con 6 ruedas  Bolsa impermeable de poliéster  capacidad de 56 litros  Floral Azul  41 x 51 x 102 cm](https://www.amazon.es/dp/B00F61MRVI/?tag=tolees-21) con 29.68 de descuento por 29.0 EUR (original: 41.24 EUR) en el siguiente enlace!
 
 [![Gimi Tris Carro de la compra  con 6 rued](https://m.media-amazon.com/images/I/41HvWFAIgzL._SL200_.jpg)](https://www.amazon.es/dp/B00F61MRVI/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00F61MRVI/?tag=tolees-21)
 

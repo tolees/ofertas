@@ -3,6 +3,7 @@ layout: post
 title: 'Pack: Spider-Man  7 películas BD  [Blu-r al 51.75 % de descuento'
 date: 2020-12-01 07:12:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/61B1mQwtcrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61B1mQwtcrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61B1mQwtcrL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 56.99 EUR
 inStock: true
 prodname: 'Pack: Spider-Man  7 películas BD  [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07XFMC36J/?tag=tolees-21'
+descuento: '51.75'
+titulo: 'Pack: Spider-Man  7 películas BD  [Blu-r'
 ---
 
 Está [Pack: Spider-Man  7 películas BD  [Blu-ray]](https://www.amazon.es/dp/B07XFMC36J/?tag=tolees-21) con 51.75 de descuento por 27.5 EUR (original: 56.99 EUR) en el siguiente enlace!
 
 [![Pack: Spider-Man  7 películas BD  [Blu-r](https://m.media-amazon.com/images/I/61B1mQwtcrL._SL200_.jpg)](https://www.amazon.es/dp/B07XFMC36J/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07XFMC36J/?tag=tolees-21)
 

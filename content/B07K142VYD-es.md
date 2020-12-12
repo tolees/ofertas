@@ -3,6 +3,7 @@ layout: post
 title: 'Bosch Limpiador de Cristales a Batería G al 40.26 % de descuento'
 date: 2020-10-29 09:02:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/41R6wb6DsWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41R6wb6DsWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41R6wb6DsWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Bosch Limpiador de Cristales a Batería GlassVAC Solo Plus para Ventanas  Azulejos  Espejos y Ducha  Autonomía de aproximada 35 Ventanas  en Caja'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K142VYD/?tag=tolees-21'
+descuento: '40.26'
+titulo: 'Bosch Limpiador de Cristales a Batería G'
 ---
 
 Ahora mismo tienes [Bosch Limpiador de Cristales a Batería GlassVAC Solo Plus para Ventanas  Azulejos  Espejos y Ducha  Autonomía de aproximada 35 Ventanas  en Caja](https://www.amazon.es/dp/B07K142VYD/?tag=tolees-21) a 35.84 EUR (original: 59.99 EUR) (40.26 %  de descuento) en el siguiente enlace!
 
 [![Bosch Limpiador de Cristales a Batería G](https://m.media-amazon.com/images/I/41R6wb6DsWL._SL200_.jpg)](https://www.amazon.es/dp/B07K142VYD/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07K142VYD/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Sun Ridge Polo  Hombre  Rojo  T al 45.23 % de descuento'
 date: 2020-11-25 22:32:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Oyl3PkWZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Oyl3PkWZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Oyl3PkWZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Columbia Sun Ridge Polo  Hombre  Rojo  Tapestry   XS'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KRX4YQZ/?tag=tolees-21'
+descuento: '45.23'
+titulo: 'Columbia Sun Ridge Polo  Hombre  Rojo  T'
 ---
 
 Ahora mismo tienes [Columbia Sun Ridge Polo  Hombre  Rojo  Tapestry   XS](https://www.amazon.es/dp/B07KRX4YQZ/?tag=tolees-21) a 27.38 EUR (original: 49.99 EUR) (45.23 %  de descuento) en el siguiente enlace!
 
 [![Columbia Sun Ridge Polo  Hombre  Rojo  T](https://m.media-amazon.com/images/I/41Oyl3PkWZL._SL200_.jpg)](https://www.amazon.es/dp/B07KRX4YQZ/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07KRX4YQZ/?tag=tolees-21)
 

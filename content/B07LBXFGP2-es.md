@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.95 % en PIKOLIN Colchón viscoelástico HR 105x190'
 date: 2020-11-19 23:34:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/51fVtandb+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51fVtandb+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51fVtandb+L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 419.99 EUR
 inStock: true
 prodname: 'PIKOLIN Colchón viscoelástico HR 105x190 firmeza Alta  Reversible  máxima Calidad  Alto 25 cm - Colchones Iliria'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LBXFGP2/?tag=tolees-21'
+descuento: '30.95'
+titulo: 'PIKOLIN Colchón viscoelástico HR 105x190'
 ---
 
 Tienes [PIKOLIN Colchón viscoelástico HR 105x190 firmeza Alta  Reversible  máxima Calidad  Alto 25 cm - Colchones Iliria](https://www.amazon.es/dp/B07LBXFGP2/?tag=tolees-21) con un 30.95 % de descuento con precio de oferta de 289.99 EUR (original: 419.99 EUR) en el siguiente enlace!
 
 [![PIKOLIN Colchón viscoelástico HR 105x190](https://m.media-amazon.com/images/I/51fVtandb+L._SL200_.jpg)](https://www.amazon.es/dp/B07LBXFGP2/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07LBXFGP2/?tag=tolees-21)
 

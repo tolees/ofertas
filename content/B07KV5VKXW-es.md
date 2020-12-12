@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.91 % en Unicview Pandora Box X Plus 3303 Juegos '
 date: 2020-11-20 15:43:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/51LEi54AjWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51LEi54AjWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51LEi54AjWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 127.85 EUR
 inStock: true
 prodname: 'Unicview Pandora Box X Plus 3303 Juegos Retro Consola Maquina recreativa Arcade Video  Joystick Independientes  Versiones Originales Juegos Famosos  Neogeo  Capcom  Taito  Sega  Ocean  Konami y más '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KV5VKXW/?tag=tolees-21'
+descuento: '28.91'
+titulo: 'Unicview Pandora Box X Plus 3303 Juegos '
 ---
 
 Tienes [Unicview Pandora Box X Plus 3303 Juegos Retro Consola Maquina recreativa Arcade Video  Joystick Independientes  Versiones Originales Juegos Famosos  Neogeo  Capcom  Taito  Sega  Ocean  Konami y más ](https://www.amazon.es/dp/B07KV5VKXW/?tag=tolees-21) con un 28.91 % de descuento con precio de oferta de 90.89 EUR (original: 127.85 EUR) en el siguiente enlace!
 
 [![Unicview Pandora Box X Plus 3303 Juegos ](https://m.media-amazon.com/images/I/51LEi54AjWL._SL200_.jpg)](https://www.amazon.es/dp/B07KV5VKXW/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KV5VKXW/?tag=tolees-21)
 

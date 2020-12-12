@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Bounder Verkona  Zapatillas Hom al 50.04 % de descuento'
 date: 2020-11-15 15:35:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Tj6RVANLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Tj6RVANLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Tj6RVANLL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Skechers Bounder Verkona  Zapatillas Hombre  Gris  Charcoal Mesh/Gray Synthetic/Trim Ccgy   38.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07TTTSYTM/?tag=tolees-21'
+descuento: '50.04'
+titulo: 'Skechers Bounder Verkona  Zapatillas Hom'
 ---
 
 Está [Skechers Bounder Verkona  Zapatillas Hombre  Gris  Charcoal Mesh/Gray Synthetic/Trim Ccgy   38.5 EU](https://www.amazon.es/dp/B07TTTSYTM/?tag=tolees-21) con 50.04 de descuento por 32.45 EUR (original: 64.95 EUR) en el siguiente enlace!
 
 [![Skechers Bounder Verkona  Zapatillas Hom](https://m.media-amazon.com/images/I/41Tj6RVANLL._SL200_.jpg)](https://www.amazon.es/dp/B07TTTSYTM/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TTTSYTM/?tag=tolees-21)
 

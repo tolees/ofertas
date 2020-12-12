@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Peakfreak X2 Outdry  Botas de S al 50.04 % de descuento'
 date: 2020-11-08 20:32:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/415KgdjEOfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415KgdjEOfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415KgdjEOfL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 119.99 EUR
 inStock: true
 prodname: 'Columbia Peakfreak X2 Outdry  Botas de Senderismo Hombre  Grey  Monument  Pool 036   40.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07S57MBS9/?tag=tolees-21'
+descuento: '50.04'
+titulo: 'Columbia Peakfreak X2 Outdry  Botas de S'
 ---
 
 Está [Columbia Peakfreak X2 Outdry  Botas de Senderismo Hombre  Grey  Monument  Pool 036   40.5 EU](https://www.amazon.es/dp/B07S57MBS9/?tag=tolees-21) con 50.04 de descuento por 59.95 EUR (original: 119.99 EUR) en el siguiente enlace!
 
 [![Columbia Peakfreak X2 Outdry  Botas de S](https://m.media-amazon.com/images/I/415KgdjEOfL._SL200_.jpg)](https://www.amazon.es/dp/B07S57MBS9/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07S57MBS9/?tag=tolees-21)
 

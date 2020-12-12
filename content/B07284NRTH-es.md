@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.40 % en AmazonBasics - Bolsa mejorada para heces'
 date: 2020-11-27 20:33:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xxnl065tL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xxnl065tL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xxnl065tL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 24.79 EUR
 inStock: true
 prodname: 'AmazonBasics - Bolsa mejorada para heces de perro con aditivos EPI y dispensador y pinza para correa - 810 unidades'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07284NRTH/?tag=tolees-21'
+descuento: '28.40'
+titulo: 'AmazonBasics - Bolsa mejorada para heces'
 ---
 
 Tienes [AmazonBasics - Bolsa mejorada para heces de perro con aditivos EPI y dispensador y pinza para correa - 810 unidades](https://www.amazon.es/dp/B07284NRTH/?tag=tolees-21) con un 28.40 % de descuento con precio de oferta de 17.75 EUR (original: 24.79 EUR) en el siguiente enlace!
 
 [![AmazonBasics - Bolsa mejorada para heces](https://m.media-amazon.com/images/I/41xxnl065tL._SL200_.jpg)](https://www.amazon.es/dp/B07284NRTH/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07284NRTH/?tag=tolees-21)
 

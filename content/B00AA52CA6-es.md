@@ -3,6 +3,7 @@ layout: post
 title: 'Sangean DT-120  Radio  Pantalla LCD  120 al 56.48 % de descuento'
 date: 2020-10-26 15:06:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/41hiP4shJdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hiP4shJdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41hiP4shJdL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 59.95 EUR
 inStock: true
 prodname: 'Sangean DT-120  Radio  Pantalla LCD  120 W  1.5 V   Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00AA52CA6/?tag=tolees-21'
+descuento: '56.48'
+titulo: 'Sangean DT-120  Radio  Pantalla LCD  120'
 ---
 
 Está [Sangean DT-120  Radio  Pantalla LCD  120 W  1.5 V   Blanco](https://www.amazon.es/dp/B00AA52CA6/?tag=tolees-21) con 56.48 de descuento por 26.09 EUR (original: 59.95 EUR) en el siguiente enlace!
 
 [![Sangean DT-120  Radio  Pantalla LCD  120](https://m.media-amazon.com/images/I/41hiP4shJdL._SL200_.jpg)](https://www.amazon.es/dp/B00AA52CA6/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00AA52CA6/?tag=tolees-21)
 

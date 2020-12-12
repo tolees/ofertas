@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.78 % en Roxy Rock Peak-Chaqueta Acolchada Imperm'
 date: 2020-11-27 07:09:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/3128ENChN7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/3128ENChN7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/3128ENChN7L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'Roxy Rock Peak-Chaqueta Acolchada Impermeable para Mujer  True Black  S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FFQ2GYR/?tag=tolees-21'
+descuento: '47.78'
+titulo: 'Roxy Rock Peak-Chaqueta Acolchada Imperm'
 ---
 
 Tienes [Roxy Rock Peak-Chaqueta Acolchada Impermeable para Mujer  True Black  S](https://www.amazon.es/dp/B07FFQ2GYR/?tag=tolees-21) con un 47.78 % de descuento con precio de oferta de 46.99 EUR (original: 89.99 EUR) en el siguiente enlace!
 
 [![Roxy Rock Peak-Chaqueta Acolchada Imperm](https://m.media-amazon.com/images/I/3128ENChN7L._SL200_.jpg)](https://www.amazon.es/dp/B07FFQ2GYR/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FFQ2GYR/?tag=tolees-21)
 

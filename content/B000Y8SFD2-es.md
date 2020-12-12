@@ -3,6 +3,7 @@ layout: post
 title: 'STANLEY 5-16-421 - Juego de cinceles Dyn al 60.58 % de descuento'
 date: 2020-11-06 11:09:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/51EfTxt1BsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51EfTxt1BsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51EfTxt1BsL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'STANLEY 5-16-421 - Juego de cinceles Dynagrip en maletín  5 unidades '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000Y8SFD2/?tag=tolees-21'
+descuento: '60.58'
+titulo: 'STANLEY 5-16-421 - Juego de cinceles Dyn'
 ---
 
 Está [STANLEY 5-16-421 - Juego de cinceles Dynagrip en maletín  5 unidades ](https://www.amazon.es/dp/B000Y8SFD2/?tag=tolees-21) con 60.58 de descuento por 27.59 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![STANLEY 5-16-421 - Juego de cinceles Dyn](https://m.media-amazon.com/images/I/51EfTxt1BsL._SL200_.jpg)](https://www.amazon.es/dp/B000Y8SFD2/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B000Y8SFD2/?tag=tolees-21)
 

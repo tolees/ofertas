@@ -3,6 +3,7 @@ layout: post
 title: 'YAMAMAY® Triangle Bra - Nicely al 61.73 % de descuento'
 date: 2020-11-06 16:13:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/51jDPjjaeoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51jDPjjaeoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51jDPjjaeoL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 17.95 EUR
 inStock: true
 prodname: 'YAMAMAY® Triangle Bra - Nicely'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07VF74R2S/?tag=tolees-21'
+descuento: '61.73'
+titulo: 'YAMAMAY® Triangle Bra - Nicely'
 ---
 
 Ahora mismo tienes [YAMAMAY® Triangle Bra - Nicely](https://www.amazon.es/dp/B07VF74R2S/?tag=tolees-21) a 6.87 EUR (original: 17.95 EUR) (61.73 %  de descuento) en el siguiente enlace!
 
 [![YAMAMAY® Triangle Bra - Nicely](https://m.media-amazon.com/images/I/51jDPjjaeoL._SL200_.jpg)](https://www.amazon.es/dp/B07VF74R2S/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07VF74R2S/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Kipling SEOUL S Mochila tipo casual  35  al 67.38 % de descuento'
 date: 2020-10-26 11:20:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41XrAuOZaEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XrAuOZaEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41XrAuOZaEL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 85.0 EUR
 inStock: true
 prodname: 'Kipling SEOUL S Mochila tipo casual  35 cm  14 litros  Azul  Blue Bleu '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07V3M7TML/?tag=tolees-21'
+descuento: '67.38'
+titulo: 'Kipling SEOUL S Mochila tipo casual  35 '
 ---
 
 Ahora mismo tienes [Kipling SEOUL S Mochila tipo casual  35 cm  14 litros  Azul  Blue Bleu ](https://www.amazon.es/dp/B07V3M7TML/?tag=tolees-21) a 27.73 EUR (original: 85.0 EUR) (67.38 %  de descuento) en el siguiente enlace!
 
 [![Kipling SEOUL S Mochila tipo casual  35 ](https://m.media-amazon.com/images/I/41XrAuOZaEL._SL200_.jpg)](https://www.amazon.es/dp/B07V3M7TML/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07V3M7TML/?tag=tolees-21)
 

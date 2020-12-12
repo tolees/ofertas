@@ -3,6 +3,7 @@ layout: post
 title: 'L Oréal Paris París Barra de Labios Colo al 48.62 % de descuento'
 date: 2020-10-26 18:44:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/31+kX+o4gLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31+kX+o4gLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31+kX+o4gLL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 13.0 EUR
 inStock: true
 prodname: 'L Oréal Paris París Barra de Labios Color Riche 136'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00U9O31JO/?tag=tolees-21'
+descuento: '48.62'
+titulo: 'L Oréal Paris París Barra de Labios Colo'
 ---
 
 Está [L Oréal Paris París Barra de Labios Color Riche 136](https://www.amazon.es/dp/B00U9O31JO/?tag=tolees-21) con 48.62 de descuento por 6.68 EUR (original: 13.0 EUR) en el siguiente enlace!
 
 [![L Oréal Paris París Barra de Labios Colo](https://m.media-amazon.com/images/I/31+kX+o4gLL._SL200_.jpg)](https://www.amazon.es/dp/B00U9O31JO/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00U9O31JO/?tag=tolees-21)
 

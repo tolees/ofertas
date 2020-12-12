@@ -3,6 +3,7 @@ layout: post
 title: 'Bellota 228-A C.M. - Azada con mango par al 44.16 % de descuento'
 date: 2020-11-30 07:38:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/31x8CHDxNIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31x8CHDxNIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31x8CHDxNIL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 32.52 EUR
 inStock: true
 prodname: 'Bellota 228-A C.M. - Azada con mango para agricultura y jardinería'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00F2NFUPA/?tag=tolees-21'
+descuento: '44.16'
+titulo: 'Bellota 228-A C.M. - Azada con mango par'
 ---
 
 Ahora mismo tienes [Bellota 228-A C.M. - Azada con mango para agricultura y jardinería](https://www.amazon.es/dp/B00F2NFUPA/?tag=tolees-21) a 18.16 EUR (original: 32.52 EUR) (44.16 %  de descuento) en el siguiente enlace!
 
 [![Bellota 228-A C.M. - Azada con mango par](https://m.media-amazon.com/images/I/31x8CHDxNIL._SL200_.jpg)](https://www.amazon.es/dp/B00F2NFUPA/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B00F2NFUPA/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Samsung Hyperknit - Funda para Galaxy S9 al 50.00 % de descuento'
 date: 2020-11-23 21:36:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41J+BKyIXTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41J+BKyIXTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41J+BKyIXTL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 3.98 EUR
 inStock: true
 prodname: 'Samsung Hyperknit - Funda para Galaxy S9  Color Gris'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078YLK17C/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Samsung Hyperknit - Funda para Galaxy S9'
 ---
 
 Ahora mismo tienes [Samsung Hyperknit - Funda para Galaxy S9  Color Gris](https://www.amazon.es/dp/B078YLK17C/?tag=tolees-21) a 1.99 EUR (original: 3.98 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
 [![Samsung Hyperknit - Funda para Galaxy S9](https://m.media-amazon.com/images/I/41J+BKyIXTL._SL200_.jpg)](https://www.amazon.es/dp/B078YLK17C/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B078YLK17C/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'PUMA King Pro FG  Zapatillas de fútbol U al 47.44 % de descuento'
 date: 2020-10-19 13:08:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/31hc1lVXipL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31hc1lVXipL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31hc1lVXipL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'PUMA King Pro FG  Zapatillas de fútbol Unisex Adulto  Negro Black White  38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KG85NNS/?tag=tolees-21'
+descuento: '47.44'
+titulo: 'PUMA King Pro FG  Zapatillas de fútbol U'
 ---
 
 Ahora mismo tienes [PUMA King Pro FG  Zapatillas de fútbol Unisex Adulto  Negro Black White  38 EU](https://www.amazon.es/dp/B07KG85NNS/?tag=tolees-21) a 52.53 EUR (original: 99.95 EUR) (47.44 %  de descuento) en el siguiente enlace!
 
 [![PUMA King Pro FG  Zapatillas de fútbol U](https://m.media-amazon.com/images/I/31hc1lVXipL._SL200_.jpg)](https://www.amazon.es/dp/B07KG85NNS/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07KG85NNS/?tag=tolees-21)
 

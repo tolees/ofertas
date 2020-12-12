@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.93 % en Moon and Back de Hanna Andersson - Pack '
 date: 2020-11-05 19:42:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Fxg6jRGIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Fxg6jRGIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Fxg6jRGIL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 16.16 EUR
 inStock: true
 prodname: 'Moon and Back de Hanna Andersson - Pack de 3 pantalones de chándal de algodón orgánico para bebé  Púrpura  0-3 messes  46-56 CM '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07P23Y6ZT/?tag=tolees-21'
+descuento: '56.93'
+titulo: 'Moon and Back de Hanna Andersson - Pack '
 ---
 
 Tienes [Moon and Back de Hanna Andersson - Pack de 3 pantalones de chándal de algodón orgánico para bebé  Púrpura  0-3 messes  46-56 CM ](https://www.amazon.es/dp/B07P23Y6ZT/?tag=tolees-21) con un 56.93 % de descuento con precio de oferta de 6.96 EUR (original: 16.16 EUR) en el siguiente enlace!
 
 [![Moon and Back de Hanna Andersson - Pack ](https://m.media-amazon.com/images/I/41Fxg6jRGIL._SL200_.jpg)](https://www.amazon.es/dp/B07P23Y6ZT/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07P23Y6ZT/?tag=tolees-21)
 

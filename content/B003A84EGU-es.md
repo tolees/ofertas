@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.37 % en Küchenprofi 23 7000 28 12 - Cazo de Acer'
 date: 2020-10-24 07:46:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/314eteuk-HL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/314eteuk-HL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/314eteuk-HL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 18.34 EUR
 inStock: true
 prodname: 'Küchenprofi 23 7000 28 12 - Cazo de Acero Inoxidable  12 centímetros  50 cl  Color Plateado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003A84EGU/?tag=tolees-21'
+descuento: '27.37'
+titulo: 'Küchenprofi 23 7000 28 12 - Cazo de Acer'
 ---
 
 Tienes [Küchenprofi 23 7000 28 12 - Cazo de Acero Inoxidable  12 centímetros  50 cl  Color Plateado](https://www.amazon.es/dp/B003A84EGU/?tag=tolees-21) con un 27.37 % de descuento con precio de oferta de 13.32 EUR (original: 18.34 EUR) en el siguiente enlace!
 
 [![Küchenprofi 23 7000 28 12 - Cazo de Acer](https://m.media-amazon.com/images/I/314eteuk-HL._SL200_.jpg)](https://www.amazon.es/dp/B003A84EGU/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B003A84EGU/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Stanford Top  Botas Chelsea para  al 53.09 % de descuento'
 date: 2020-10-17 02:23:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/31L5IfKV0zL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31L5IfKV0zL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31L5IfKV0zL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 110.0 EUR
 inStock: true
 prodname: 'Clarks Stanford Top  Botas Chelsea para Hombre  Negro  Black SDE Black SDE   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07TLP83T4/?tag=tolees-21'
+descuento: '53.09'
+titulo: 'Clarks Stanford Top  Botas Chelsea para '
 ---
 
 Está [Clarks Stanford Top  Botas Chelsea para Hombre  Negro  Black SDE Black SDE   45 EU](https://www.amazon.es/dp/B07TLP83T4/?tag=tolees-21) con 53.09 de descuento por 51.6 EUR (original: 110.0 EUR) en el siguiente enlace!
 
 [![Clarks Stanford Top  Botas Chelsea para ](https://m.media-amazon.com/images/I/31L5IfKV0zL._SL200_.jpg)](https://www.amazon.es/dp/B07TLP83T4/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TLP83T4/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'T-LoVendo 1 Estanteria sobre Inodoro WC  al 41.35 % de descuento'
 date: 2020-11-06 21:02:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/319RKqCidvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/319RKqCidvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/319RKqCidvL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'T-LoVendo 1 Estanteria sobre Inodoro WC Lavadora Ahorra Espacio Almacenamiento Cuarto Baño  Blanco  153 x 63 x 25 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BTN7Y5L/?tag=tolees-21'
+descuento: '41.35'
+titulo: 'T-LoVendo 1 Estanteria sobre Inodoro WC '
 ---
 
 Está [T-LoVendo 1 Estanteria sobre Inodoro WC Lavadora Ahorra Espacio Almacenamiento Cuarto Baño  Blanco  153 x 63 x 25 cm](https://www.amazon.es/dp/B07BTN7Y5L/?tag=tolees-21) con 41.35 de descuento por 17.59 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![T-LoVendo 1 Estanteria sobre Inodoro WC ](https://m.media-amazon.com/images/I/319RKqCidvL._SL200_.jpg)](https://www.amazon.es/dp/B07BTN7Y5L/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07BTN7Y5L/?tag=tolees-21)
 

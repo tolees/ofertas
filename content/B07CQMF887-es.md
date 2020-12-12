@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.76 % en Timbre Inalámbrico para Puerta  Govee Ti'
 date: 2020-11-27 20:02:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/31X4qmSTMtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31X4qmSTMtL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31X4qmSTMtL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Timbre Inalámbrico para Puerta  Govee Timbre IP66 Impermeable con LED Flash  Volumen Ajustable  36 Melodías  Alcance a 300m  1 Transmisor y 2 Receptores  Blanco '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CQMF887/?tag=tolees-21'
+descuento: '27.76'
+titulo: 'Timbre Inalámbrico para Puerta  Govee Ti'
 ---
 
 Tienes [Timbre Inalámbrico para Puerta  Govee Timbre IP66 Impermeable con LED Flash  Volumen Ajustable  36 Melodías  Alcance a 300m  1 Transmisor y 2 Receptores  Blanco ](https://www.amazon.es/dp/B07CQMF887/?tag=tolees-21) con un 27.76 % de descuento con precio de oferta de 14.44 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![Timbre Inalámbrico para Puerta  Govee Ti](https://m.media-amazon.com/images/I/31X4qmSTMtL._SL200_.jpg)](https://www.amazon.es/dp/B07CQMF887/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CQMF887/?tag=tolees-21)
 

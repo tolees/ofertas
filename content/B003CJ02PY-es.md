@@ -3,6 +3,7 @@ layout: post
 title: 'Equip 129503 - Kit de herramientas para  al 30.82 % de descuento'
 date: 2020-12-05 12:00:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/514o-T8pdsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/514o-T8pdsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/514o-T8pdsL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 24.5 EUR
 inStock: true
 prodname: 'Equip 129503 - Kit de herramientas para redes'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003CJ02PY/?tag=tolees-21'
+descuento: '30.82'
+titulo: 'Equip 129503 - Kit de herramientas para '
 ---
 
 Ahora mismo tienes [Equip 129503 - Kit de herramientas para redes](https://www.amazon.es/dp/B003CJ02PY/?tag=tolees-21) a 16.95 EUR (original: 24.5 EUR) (30.82 %  de descuento) en el siguiente enlace!
 
 [![Equip 129503 - Kit de herramientas para ](https://m.media-amazon.com/images/I/514o-T8pdsL._SL200_.jpg)](https://www.amazon.es/dp/B003CJ02PY/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B003CJ02PY/?tag=tolees-21)
 

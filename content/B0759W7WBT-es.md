@@ -3,6 +3,7 @@ layout: post
 title: 'Canon CLI-581 4 Cartuchos Multipack de t al 25.90 % de descuento'
 date: 2020-12-06 10:00:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/51a8MjXoFHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51a8MjXoFHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51a8MjXoFHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 52.62 EUR
 inStock: true
 prodname: 'Canon CLI-581 4 Cartuchos Multipack de tinta original Negro/Cian/Magenta/Amarillo para impresora de inyeccion de tinta PIXMA TS9150  TS6151  TS9155  TS6150  TS8151  TR8550  TR7550  TS8150  TS8152'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0759W7WBT/?tag=tolees-21'
+descuento: '25.90'
+titulo: 'Canon CLI-581 4 Cartuchos Multipack de t'
 ---
 
 Está [Canon CLI-581 4 Cartuchos Multipack de tinta original Negro/Cian/Magenta/Amarillo para impresora de inyeccion de tinta PIXMA TS9150  TS6151  TS9155  TS6150  TS8151  TR8550  TR7550  TS8150  TS8152](https://www.amazon.es/dp/B0759W7WBT/?tag=tolees-21) con 25.90 de descuento por 38.99 EUR (original: 52.62 EUR) en el siguiente enlace!
 
 [![Canon CLI-581 4 Cartuchos Multipack de t](https://m.media-amazon.com/images/I/51a8MjXoFHL._SL200_.jpg)](https://www.amazon.es/dp/B0759W7WBT/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0759W7WBT/?tag=tolees-21)
 

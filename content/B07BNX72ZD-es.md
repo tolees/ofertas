@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Canyon Point  Zapatillas de Sen al 53.73 % de descuento'
 date: 2020-11-20 16:04:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/412N4gHwBkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412N4gHwBkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/412N4gHwBkL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'Columbia Canyon Point  Zapatillas de Senderismo Impermeables Hombre  Gris  Negro  Black  Squash   7.5'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BNX72ZD/?tag=tolees-21'
+descuento: '53.73'
+titulo: 'Columbia Canyon Point  Zapatillas de Sen'
 ---
 
 Está [Columbia Canyon Point  Zapatillas de Senderismo Impermeables Hombre  Gris  Negro  Black  Squash   7.5](https://www.amazon.es/dp/B07BNX72ZD/?tag=tolees-21) con 53.73 de descuento por 41.64 EUR (original: 89.99 EUR) en el siguiente enlace!
 
 [![Columbia Canyon Point  Zapatillas de Sen](https://m.media-amazon.com/images/I/412N4gHwBkL._SL200_.jpg)](https://www.amazon.es/dp/B07BNX72ZD/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07BNX72ZD/?tag=tolees-21)
 

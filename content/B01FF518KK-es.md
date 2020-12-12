@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.51 % en Infantino Flip Advanced - Convertible ca'
 date: 2020-11-30 23:42:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/418RyLcYuzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418RyLcYuzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/418RyLcYuzL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Infantino Flip Advanced - Convertible carrier'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01FF518KK/?tag=tolees-21'
+descuento: '27.51'
+titulo: 'Infantino Flip Advanced - Convertible ca'
 ---
 
 Tienes [Infantino Flip Advanced - Convertible carrier](https://www.amazon.es/dp/B01FF518KK/?tag=tolees-21) con un 27.51 % de descuento con precio de oferta de 36.24 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![Infantino Flip Advanced - Convertible ca](https://m.media-amazon.com/images/I/418RyLcYuzL._SL200_.jpg)](https://www.amazon.es/dp/B01FF518KK/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01FF518KK/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.85 % en Princess 492227 Crepera  termostato regu'
 date: 2020-11-19 16:13:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ZyEKNLwiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ZyEKNLwiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ZyEKNLwiL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 42.99 EUR
 inStock: true
 prodname: 'Princess 492227 Crepera  termostato regulable  1100 W  30 cm  revestimiento antiadherente  Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003O69FOY/?tag=tolees-21'
+descuento: '48.85'
+titulo: 'Princess 492227 Crepera  termostato regu'
 ---
 
 Tienes [Princess 492227 Crepera  termostato regulable  1100 W  30 cm  revestimiento antiadherente  Blanco](https://www.amazon.es/dp/B003O69FOY/?tag=tolees-21) con un 48.85 % de descuento con precio de oferta de 21.99 EUR (original: 42.99 EUR) en el siguiente enlace!
 
 [![Princess 492227 Crepera  termostato regu](https://m.media-amazon.com/images/I/31ZyEKNLwiL._SL200_.jpg)](https://www.amazon.es/dp/B003O69FOY/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B003O69FOY/?tag=tolees-21)
 

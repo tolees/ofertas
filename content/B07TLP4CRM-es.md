@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Sift Lace  Zapatillas Mujer  Negr al 60.44 % de descuento'
 date: 2020-11-13 19:51:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/317Xkhl2vbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/317Xkhl2vbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/317Xkhl2vbL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Clarks Sift Lace  Zapatillas Mujer  Negro  Black Snake Black Snake   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07TLP4CRM/?tag=tolees-21'
+descuento: '60.44'
+titulo: 'Clarks Sift Lace  Zapatillas Mujer  Negr'
 ---
 
 Ahora mismo tienes [Clarks Sift Lace  Zapatillas Mujer  Negro  Black Snake Black Snake   38 EU](https://www.amazon.es/dp/B07TLP4CRM/?tag=tolees-21) a 39.54 EUR (original: 99.95 EUR) (60.44 %  de descuento) en el siguiente enlace!
 
 [![Clarks Sift Lace  Zapatillas Mujer  Negr](https://m.media-amazon.com/images/I/317Xkhl2vbL._SL200_.jpg)](https://www.amazon.es/dp/B07TLP4CRM/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07TLP4CRM/?tag=tolees-21)
 

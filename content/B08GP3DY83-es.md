@@ -3,6 +3,7 @@ layout: post
 title: 'Auriculares Inalámbricos Bluetooth 5.1 c al 30.00 % de descuento'
 date: 2020-11-29 12:43:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41uKT7D-AOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41uKT7D-AOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41uKT7D-AOL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'Auriculares Inalámbricos Bluetooth 5.1 con Cancelación de Ruido Srhythm Soulmate S5 TWS Wireless Earbuds con 4 Mics 50 Horas de Reproducción Sensor Táctil Asistentes de Voz para TV/Móvil/PC'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08GP3DY83/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'Auriculares Inalámbricos Bluetooth 5.1 c'
 ---
 
 Está [Auriculares Inalámbricos Bluetooth 5.1 con Cancelación de Ruido Srhythm Soulmate S5 TWS Wireless Earbuds con 4 Mics 50 Horas de Reproducción Sensor Táctil Asistentes de Voz para TV/Móvil/PC](https://www.amazon.es/dp/B08GP3DY83/?tag=tolees-21) con 30.00 de descuento por 55.99 EUR (original: 79.99 EUR) en el siguiente enlace!
 
 [![Auriculares Inalámbricos Bluetooth 5.1 c](https://m.media-amazon.com/images/I/41uKT7D-AOL._SL200_.jpg)](https://www.amazon.es/dp/B08GP3DY83/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08GP3DY83/?tag=tolees-21)
 

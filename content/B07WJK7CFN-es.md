@@ -3,6 +3,7 @@ layout: post
 title: 'Dispositivo de terapia de máquina decena al 30.24 % de descuento'
 date: 2020-11-30 21:38:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41GE7a7FPuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GE7a7FPuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41GE7a7FPuL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Dispositivo de terapia de máquina decenas de doble canal JUMPER para el manejo del dolor con 5 programas de masaje  6 modos de dolor para 2 usuarios  máquina TENS para el alivio del dolor'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07WJK7CFN/?tag=tolees-21'
+descuento: '30.24'
+titulo: 'Dispositivo de terapia de máquina decena'
 ---
 
 Ahora mismo tienes [Dispositivo de terapia de máquina decenas de doble canal JUMPER para el manejo del dolor con 5 programas de masaje  6 modos de dolor para 2 usuarios  máquina TENS para el alivio del dolor](https://www.amazon.es/dp/B07WJK7CFN/?tag=tolees-21) a 20.92 EUR (original: 29.99 EUR) (30.24 %  de descuento) en el siguiente enlace!
 
 [![Dispositivo de terapia de máquina decena](https://m.media-amazon.com/images/I/41GE7a7FPuL._SL200_.jpg)](https://www.amazon.es/dp/B07WJK7CFN/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07WJK7CFN/?tag=tolees-21)
 

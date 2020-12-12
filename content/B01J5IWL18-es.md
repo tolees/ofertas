@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.25 % en ColorBaby - Futbolín madera CBGames  Del'
 date: 2020-11-15 20:32:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/51qKQN-pjqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51qKQN-pjqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51qKQN-pjqL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 36.6 EUR
 inStock: true
 prodname: 'ColorBaby - Futbolín madera CBGames  Deluxe  color azul  43312 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01J5IWL18/?tag=tolees-21'
+descuento: '30.25'
+titulo: 'ColorBaby - Futbolín madera CBGames  Del'
 ---
 
 Tienes [ColorBaby - Futbolín madera CBGames  Deluxe  color azul  43312 ](https://www.amazon.es/dp/B01J5IWL18/?tag=tolees-21) con un 30.25 % de descuento con precio de oferta de 25.53 EUR (original: 36.6 EUR) en el siguiente enlace!
 
 [![ColorBaby - Futbolín madera CBGames  Del](https://m.media-amazon.com/images/I/51qKQN-pjqL._SL200_.jpg)](https://www.amazon.es/dp/B01J5IWL18/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01J5IWL18/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'SUNLU Filamento Impresora 3d  Filamento  al 25.61 % de descuento'
 date: 2020-10-13 08:54:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/51HMwmf3WTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51HMwmf3WTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51HMwmf3WTL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'SUNLU Filamento Impresora 3d  Filamento 1.75 PLA  3D Filament PLA+  1KG Blanco puro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07R8X76GW/?tag=tolees-21'
+descuento: '25.61'
+titulo: 'SUNLU Filamento Impresora 3d  Filamento '
 ---
 
 Está [SUNLU Filamento Impresora 3d  Filamento 1.75 PLA  3D Filament PLA+  1KG Blanco puro](https://www.amazon.es/dp/B07R8X76GW/?tag=tolees-21) con 25.61 de descuento por 18.59 EUR (original: 24.99 EUR) en el siguiente enlace!
 
 [![SUNLU Filamento Impresora 3d  Filamento ](https://m.media-amazon.com/images/I/51HMwmf3WTL._SL200_.jpg)](https://www.amazon.es/dp/B07R8X76GW/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07R8X76GW/?tag=tolees-21)
 

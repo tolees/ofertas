@@ -3,6 +3,7 @@ layout: post
 title: 'Aloe Vera Puro 500ml - Cultivo controlad al 26.63 % de descuento'
 date: 2020-12-09 09:24:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51lJAvDu9IL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51lJAvDu9IL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51lJAvDu9IL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 21.97 EUR
 inStock: true
 prodname: 'Aloe Vera Puro 500ml - Cultivo controlado 100% ecológico - Hidratante natural - Loción calmante y refrescante para despues del sol - Probado dermatologicamente - Para todo tipo de piel'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PQL7J6J/?tag=tolees-21'
+descuento: '26.63'
+titulo: 'Aloe Vera Puro 500ml - Cultivo controlad'
 ---
 
 Ahora mismo tienes [Aloe Vera Puro 500ml - Cultivo controlado 100% ecológico - Hidratante natural - Loción calmante y refrescante para despues del sol - Probado dermatologicamente - Para todo tipo de piel](https://www.amazon.es/dp/B07PQL7J6J/?tag=tolees-21) a 16.12 EUR (original: 21.97 EUR) (26.63 %  de descuento) en el siguiente enlace!
 
 [![Aloe Vera Puro 500ml - Cultivo controlad](https://m.media-amazon.com/images/I/51lJAvDu9IL._SL200_.jpg)](https://www.amazon.es/dp/B07PQL7J6J/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07PQL7J6J/?tag=tolees-21)
 

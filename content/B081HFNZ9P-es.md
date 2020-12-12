@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.41 % en Pharmaton | Multivitaminas | Energía dia'
 date: 2020-11-24 18:08:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/514+Scze0xL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/514+Scze0xL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/514+Scze0xL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 12.75 EUR
 inStock: true
 prodname: 'Pharmaton | Multivitaminas | Energía diaria | Hombre 30 comprimidos | Ayuda a los hombres a mantener su vitalidad cada día'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B081HFNZ9P/?tag=tolees-21'
+descuento: '29.41'
+titulo: 'Pharmaton | Multivitaminas | Energía dia'
 ---
 
 Tienes [Pharmaton | Multivitaminas | Energía diaria | Hombre 30 comprimidos | Ayuda a los hombres a mantener su vitalidad cada día](https://www.amazon.es/dp/B081HFNZ9P/?tag=tolees-21) con un 29.41 % de descuento con precio de oferta de 9.0 EUR (original: 12.75 EUR) en el siguiente enlace!
 
 [![Pharmaton | Multivitaminas | Energía dia](https://m.media-amazon.com/images/I/514+Scze0xL._SL200_.jpg)](https://www.amazon.es/dp/B081HFNZ9P/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B081HFNZ9P/?tag=tolees-21)
 

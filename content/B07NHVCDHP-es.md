@@ -3,6 +3,7 @@ layout: post
 title: 'Yishi Pendientes Elegante Gota de Agua C al 50.04 % de descuento'
 date: 2020-11-24 12:01:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Mc9cq6jvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Mc9cq6jvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Mc9cq6jvL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 54.0 EUR
 inStock: true
 prodname: 'Yishi Pendientes Elegante Gota de Agua Cristal Blanco Joya Original Regalo Mujer Chica con Cristal de Swarovski'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NHVCDHP/?tag=tolees-21'
+descuento: '50.04'
+titulo: 'Yishi Pendientes Elegante Gota de Agua C'
 ---
 
 Está [Yishi Pendientes Elegante Gota de Agua Cristal Blanco Joya Original Regalo Mujer Chica con Cristal de Swarovski](https://www.amazon.es/dp/B07NHVCDHP/?tag=tolees-21) con 50.04 de descuento por 26.98 EUR (original: 54.0 EUR) en el siguiente enlace!
 
 [![Yishi Pendientes Elegante Gota de Agua C](https://m.media-amazon.com/images/I/31Mc9cq6jvL._SL200_.jpg)](https://www.amazon.es/dp/B07NHVCDHP/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07NHVCDHP/?tag=tolees-21)
 

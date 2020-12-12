@@ -3,6 +3,7 @@ layout: post
 title: 'Baby Tous 100ml al 59.04 % de descuento'
 date: 2020-12-11 12:37:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41B-rFfkSEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41B-rFfkSEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41B-rFfkSEL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 47.0 EUR
 inStock: true
 prodname: 'Baby Tous 100ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005KIUP9I/?tag=tolees-21'
+descuento: '59.04'
+titulo: 'Baby Tous 100ml'
 ---
 
 Ahora mismo tienes [Baby Tous 100ml](https://www.amazon.es/dp/B005KIUP9I/?tag=tolees-21) a 19.25 EUR (original: 47.0 EUR) (59.04 %  de descuento) en el siguiente enlace!
@@ -24,9 +28,9 @@ Ahora mismo tienes [Baby Tous 100ml](https://www.amazon.es/dp/B005KIUP9I/?tag=to
 
 Características:
 
-- Salida: Bergamota, mandarina, neroli
-- Fondo: cedro, almizcle y petit grain
 - Corazón: Pera, manzana y flor de naranjo
+- Fondo: cedro, almizcle y petit grain
+- Salida: Bergamota, mandarina, neroli
 
 [Visítala!!!](https://www.amazon.es/dp/B005KIUP9I/?tag=tolees-21)
 

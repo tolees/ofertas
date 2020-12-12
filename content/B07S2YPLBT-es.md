@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.16 % en Energy Sistem Outdoor Box Beast Altavoz '
 date: 2020-11-27 19:33:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+jNPExESL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+jNPExESL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+jNPExESL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 159.0 EUR
 inStock: true
 prodname: 'Energy Sistem Outdoor Box Beast Altavoz Bluetooth  60W  Bluetooth  USB y microSD MP3. Radio FM  Resistente a Golpes '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07S2YPLBT/?tag=tolees-21'
+descuento: '25.16'
+titulo: 'Energy Sistem Outdoor Box Beast Altavoz '
 ---
 
 Tienes [Energy Sistem Outdoor Box Beast Altavoz Bluetooth  60W  Bluetooth  USB y microSD MP3. Radio FM  Resistente a Golpes ](https://www.amazon.es/dp/B07S2YPLBT/?tag=tolees-21) con un 25.16 % de descuento con precio de oferta de 119.0 EUR (original: 159.0 EUR) en el siguiente enlace!
 
 [![Energy Sistem Outdoor Box Beast Altavoz ](https://m.media-amazon.com/images/I/41+jNPExESL._SL200_.jpg)](https://www.amazon.es/dp/B07S2YPLBT/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07S2YPLBT/?tag=tolees-21)
 

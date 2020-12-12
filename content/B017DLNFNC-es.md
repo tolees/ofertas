@@ -3,6 +3,7 @@ layout: post
 title: 'Arcos 805109 - Cuchillo de cocina  110 m al 69.63 % de descuento'
 date: 2020-10-27 13:39:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/31xBkENJnrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31xBkENJnrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31xBkENJnrL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 5.07 EUR
 inStock: true
 prodname: 'Arcos 805109 - Cuchillo de cocina  110 mm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B017DLNFNC/?tag=tolees-21'
+descuento: '69.63'
+titulo: 'Arcos 805109 - Cuchillo de cocina  110 m'
 ---
 
 Ahora mismo tienes [Arcos 805109 - Cuchillo de cocina  110 mm](https://www.amazon.es/dp/B017DLNFNC/?tag=tolees-21) a 1.54 EUR (original: 5.07 EUR) (69.63 %  de descuento) en el siguiente enlace!
 
 [![Arcos 805109 - Cuchillo de cocina  110 m](https://m.media-amazon.com/images/I/31xBkENJnrL._SL200_.jpg)](https://www.amazon.es/dp/B017DLNFNC/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B017DLNFNC/?tag=tolees-21)
 

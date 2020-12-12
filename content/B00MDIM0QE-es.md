@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.83 % en ORYX 23010003 Escalera Aluminio 5 Peldañ'
 date: 2020-10-31 09:00:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/31R1l-uZihL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31R1l-uZihL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31R1l-uZihL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 49.29 EUR
 inStock: true
 prodname: 'ORYX 23010003 Escalera Aluminio 5 Peldaños Plegable  Uso doméstico  Antideslizante  Ligera y Resistente'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00MDIM0QE/?tag=tolees-21'
+descuento: '28.83'
+titulo: 'ORYX 23010003 Escalera Aluminio 5 Peldañ'
 ---
 
 Tienes [ORYX 23010003 Escalera Aluminio 5 Peldaños Plegable  Uso doméstico  Antideslizante  Ligera y Resistente](https://www.amazon.es/dp/B00MDIM0QE/?tag=tolees-21) con un 28.83 % de descuento con precio de oferta de 35.08 EUR (original: 49.29 EUR) en el siguiente enlace!
 
 [![ORYX 23010003 Escalera Aluminio 5 Peldañ](https://m.media-amazon.com/images/I/31R1l-uZihL._SL200_.jpg)](https://www.amazon.es/dp/B00MDIM0QE/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00MDIM0QE/?tag=tolees-21)
 

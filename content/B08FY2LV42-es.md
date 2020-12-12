@@ -3,6 +3,7 @@ layout: post
 title: 'Axe Pack Dark Temptation Mochila Trio -  al 30.47 % de descuento'
 date: 2020-11-26 23:30:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/41y5mrwYBpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41y5mrwYBpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41y5mrwYBpL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Axe Pack Dark Temptation Mochila Trio - Desodorante 150 ml + Eau de Toilette 100 ml + Gel de Ducha 250 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08FY2LV42/?tag=tolees-21'
+descuento: '30.47'
+titulo: 'Axe Pack Dark Temptation Mochila Trio - '
 ---
 
 Está [Axe Pack Dark Temptation Mochila Trio - Desodorante 150 ml + Eau de Toilette 100 ml + Gel de Ducha 250 ml](https://www.amazon.es/dp/B08FY2LV42/?tag=tolees-21) con 30.47 de descuento por 13.9 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![Axe Pack Dark Temptation Mochila Trio - ](https://m.media-amazon.com/images/I/41y5mrwYBpL._SL200_.jpg)](https://www.amazon.es/dp/B08FY2LV42/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08FY2LV42/?tag=tolees-21)
 

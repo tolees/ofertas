@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.02 % en Xpixel Mini Avenue Blocks - Tienda de Ro'
 date: 2020-11-10 08:49:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/41oDFYkie5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41oDFYkie5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41oDFYkie5L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Xpixel Mini Avenue Blocks - Tienda de Ropa - Juguete de Construcción - Bloques Tamaño Mini - Construye tu Propia Mini Avenida'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B085Z38BBW/?tag=tolees-21'
+descuento: '30.02'
+titulo: 'Xpixel Mini Avenue Blocks - Tienda de Ro'
 ---
 
 Tienes [Xpixel Mini Avenue Blocks - Tienda de Ropa - Juguete de Construcción - Bloques Tamaño Mini - Construye tu Propia Mini Avenida](https://www.amazon.es/dp/B085Z38BBW/?tag=tolees-21) con un 30.02 % de descuento con precio de oferta de 10.49 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![Xpixel Mini Avenue Blocks - Tienda de Ro](https://m.media-amazon.com/images/I/41oDFYkie5L._SL200_.jpg)](https://www.amazon.es/dp/B085Z38BBW/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B085Z38BBW/?tag=tolees-21)
 

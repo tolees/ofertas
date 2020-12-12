@@ -3,6 +3,7 @@ layout: post
 title: 'Vans Herren OTW T-Shirt  Weiß  WHITE-BLA al 46.83 % de descuento'
 date: 2020-11-06 14:12:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ZePjTU3OL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ZePjTU3OL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ZePjTU3OL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 30.0 EUR
 inStock: true
 prodname: 'Vans Herren OTW T-Shirt  Weiß  WHITE-BLACK YB2   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003S2KHGO/?tag=tolees-21'
+descuento: '46.83'
+titulo: 'Vans Herren OTW T-Shirt  Weiß  WHITE-BLA'
 ---
 
 Ahora mismo tienes [Vans Herren OTW T-Shirt  Weiß  WHITE-BLACK YB2   Medium](https://www.amazon.es/dp/B003S2KHGO/?tag=tolees-21) a 15.95 EUR (original: 30.0 EUR) (46.83 %  de descuento) en el siguiente enlace!
 
 [![Vans Herren OTW T-Shirt  Weiß  WHITE-BLA](https://m.media-amazon.com/images/I/31ZePjTU3OL._SL200_.jpg)](https://www.amazon.es/dp/B003S2KHGO/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B003S2KHGO/?tag=tolees-21)
 

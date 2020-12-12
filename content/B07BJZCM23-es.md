@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.35 % en Dolity Interruptor Teledirigido Universa'
 date: 2020-11-23 19:02:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/310Uos1ed1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/310Uos1ed1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/310Uos1ed1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 23.99 EUR
 inStock: true
 prodname: 'Dolity Interruptor Teledirigido Universal para Frecuencia de Funcionamiento de Puerta de Garaje de Puerta eléctrica: 433mhz'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BJZCM23/?tag=tolees-21'
+descuento: '33.35'
+titulo: 'Dolity Interruptor Teledirigido Universa'
 ---
 
 Tienes [Dolity Interruptor Teledirigido Universal para Frecuencia de Funcionamiento de Puerta de Garaje de Puerta eléctrica: 433mhz](https://www.amazon.es/dp/B07BJZCM23/?tag=tolees-21) con un 33.35 % de descuento con precio de oferta de 15.99 EUR (original: 23.99 EUR) en el siguiente enlace!
 
 [![Dolity Interruptor Teledirigido Universa](https://m.media-amazon.com/images/I/310Uos1ed1L._SL200_.jpg)](https://www.amazon.es/dp/B07BJZCM23/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BJZCM23/?tag=tolees-21)
 

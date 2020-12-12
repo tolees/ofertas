@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.01 % en Regleta Inteligente Enchufe Wifi  Monito'
 date: 2020-11-28 00:01:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/31m6AunkVVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31m6AunkVVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31m6AunkVVL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Regleta Inteligente Enchufe Wifi  Monitor de Energía  Gosund Smart Power Strip con 3 Zócalos Control Individual y 3 USB  Control por Voz y Controlado por App  Temporizador  Cable 1.5 Mts'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B085RSVN89/?tag=tolees-21'
+descuento: '48.01'
+titulo: 'Regleta Inteligente Enchufe Wifi  Monito'
 ---
 
 Tienes [Regleta Inteligente Enchufe Wifi  Monitor de Energía  Gosund Smart Power Strip con 3 Zócalos Control Individual y 3 USB  Control por Voz y Controlado por App  Temporizador  Cable 1.5 Mts](https://www.amazon.es/dp/B085RSVN89/?tag=tolees-21) con un 48.01 % de descuento con precio de oferta de 20.79 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![Regleta Inteligente Enchufe Wifi  Monito](https://m.media-amazon.com/images/I/31m6AunkVVL._SL200_.jpg)](https://www.amazon.es/dp/B085RSVN89/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B085RSVN89/?tag=tolees-21)
 

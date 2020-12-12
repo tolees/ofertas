@@ -3,6 +3,7 @@ layout: post
 title: 'WD My Passport Go 500 GB  disco duro sól al 30.64 % de descuento'
 date: 2020-11-02 08:23:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ibt7PYItL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ibt7PYItL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ibt7PYItL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 112.39 EUR
 inStock: true
 prodname: 'WD My Passport Go 500 GB  disco duro sólido externo - acabado cobalto'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MVWJZVS/?tag=tolees-21'
+descuento: '30.64'
+titulo: 'WD My Passport Go 500 GB  disco duro sól'
 ---
 
 Está [WD My Passport Go 500 GB  disco duro sólido externo - acabado cobalto](https://www.amazon.es/dp/B07MVWJZVS/?tag=tolees-21) con 30.64 de descuento por 77.95 EUR (original: 112.39 EUR) en el siguiente enlace!
 
 [![WD My Passport Go 500 GB  disco duro sól](https://m.media-amazon.com/images/I/31ibt7PYItL._SL200_.jpg)](https://www.amazon.es/dp/B07MVWJZVS/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07MVWJZVS/?tag=tolees-21)
 

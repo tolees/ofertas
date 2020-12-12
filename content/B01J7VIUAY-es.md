@@ -3,6 +3,7 @@ layout: post
 title: 'X-Men: Saga Completa Blu-Ray [Blu-ray] al 51.18 % de descuento'
 date: 2020-11-24 18:42:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/51DbYbYUWcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51DbYbYUWcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51DbYbYUWcL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 40.97 EUR
 inStock: true
 prodname: 'X-Men: Saga Completa Blu-Ray [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01J7VIUAY/?tag=tolees-21'
+descuento: '51.18'
+titulo: 'X-Men: Saga Completa Blu-Ray [Blu-ray]'
 ---
 
 Ahora mismo tienes [X-Men: Saga Completa Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B01J7VIUAY/?tag=tolees-21) a 20.0 EUR (original: 40.97 EUR) (51.18 %  de descuento) en el siguiente enlace!
 
 [![X-Men: Saga Completa Blu-Ray [Blu-ray]](https://m.media-amazon.com/images/I/51DbYbYUWcL._SL200_.jpg)](https://www.amazon.es/dp/B01J7VIUAY/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B01J7VIUAY/?tag=tolees-21)
 

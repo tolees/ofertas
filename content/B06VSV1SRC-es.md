@@ -3,6 +3,7 @@ layout: post
 title: 'WMF Impulse - Jarra  1 L  acero inoxidab al 31.46 % de descuento'
 date: 2020-11-20 10:39:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xzj8hj1gL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xzj8hj1gL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xzj8hj1gL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 106.49 EUR
 inStock: true
 prodname: 'WMF Impulse - Jarra  1 L  acero inoxidable  cobre  179 mm  179 mm  285 mm '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06VSV1SRC/?tag=tolees-21'
+descuento: '31.46'
+titulo: 'WMF Impulse - Jarra  1 L  acero inoxidab'
 ---
 
 Está [WMF Impulse - Jarra  1 L  acero inoxidable  cobre  179 mm  179 mm  285 mm ](https://www.amazon.es/dp/B06VSV1SRC/?tag=tolees-21) con 31.46 de descuento por 72.99 EUR (original: 106.49 EUR) en el siguiente enlace!
 
 [![WMF Impulse - Jarra  1 L  acero inoxidab](https://m.media-amazon.com/images/I/41xzj8hj1gL._SL200_.jpg)](https://www.amazon.es/dp/B06VSV1SRC/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06VSV1SRC/?tag=tolees-21)
 

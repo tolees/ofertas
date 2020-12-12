@@ -3,6 +3,7 @@ layout: post
 title: 'SALOMON Speedcross 4 Zapatillas De Trail al 29.94 % de descuento'
 date: 2020-11-10 09:14:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/41gb419fPiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gb419fPiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41gb419fPiL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 120.0 EUR
 inStock: true
 prodname: 'SALOMON Speedcross 4 Zapatillas De Trail Running Para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07Z5H4N3F/?tag=tolees-21'
+descuento: '29.94'
+titulo: 'SALOMON Speedcross 4 Zapatillas De Trail'
 ---
 
 Está [SALOMON Speedcross 4 Zapatillas De Trail Running Para Hombre](https://www.amazon.es/dp/B07Z5H4N3F/?tag=tolees-21) con 29.94 de descuento por 84.07 EUR (original: 120.0 EUR) en el siguiente enlace!
 
 [![SALOMON Speedcross 4 Zapatillas De Trail](https://m.media-amazon.com/images/I/41gb419fPiL._SL200_.jpg)](https://www.amazon.es/dp/B07Z5H4N3F/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07Z5H4N3F/?tag=tolees-21)
 

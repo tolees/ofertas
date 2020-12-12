@@ -3,6 +3,7 @@ layout: post
 title: 'Blue Valentine [Blu-ray] al 49.06 % de descuento'
 date: 2020-11-24 06:29:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/51qhFEg+M2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51qhFEg+M2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51qhFEg+M2L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 16.0 EUR
 inStock: true
 prodname: 'Blue Valentine [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00D6BRC10/?tag=tolees-21'
+descuento: '49.06'
+titulo: 'Blue Valentine [Blu-ray]'
 ---
 
 Está [Blue Valentine [Blu-ray]](https://www.amazon.es/dp/B00D6BRC10/?tag=tolees-21) con 49.06 de descuento por 8.15 EUR (original: 16.0 EUR) en el siguiente enlace!
 
 [![Blue Valentine [Blu-ray]](https://m.media-amazon.com/images/I/51qhFEg+M2L._SL200_.jpg)](https://www.amazon.es/dp/B00D6BRC10/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00D6BRC10/?tag=tolees-21)
 

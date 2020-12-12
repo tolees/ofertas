@@ -3,6 +3,7 @@ layout: post
 title: 'Duérmete Online - Colchón Viscoelástico  al 26.67 % de descuento'
 date: 2020-11-17 12:18:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/31SnbRu7w6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31SnbRu7w6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31SnbRu7w6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 93.26 EUR
 inStock: true
 prodname: 'Duérmete Online - Colchón Viscoelástico Pocket Visco Reversible  Cara Invierno-Verano  Firmeza-dureza Alta  Muy Transpirable  90x200'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07ZJZVYWD/?tag=tolees-21'
+descuento: '26.67'
+titulo: 'Duérmete Online - Colchón Viscoelástico '
 ---
 
 Está [Duérmete Online - Colchón Viscoelástico Pocket Visco Reversible  Cara Invierno-Verano  Firmeza-dureza Alta  Muy Transpirable  90x200](https://www.amazon.es/dp/B07ZJZVYWD/?tag=tolees-21) con 26.67 de descuento por 68.39 EUR (original: 93.26 EUR) en el siguiente enlace!
 
 [![Duérmete Online - Colchón Viscoelástico ](https://m.media-amazon.com/images/I/31SnbRu7w6L._SL200_.jpg)](https://www.amazon.es/dp/B07ZJZVYWD/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07ZJZVYWD/?tag=tolees-21)
 

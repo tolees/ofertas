@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.98 % en Moon Boot Glance 14016800 - Botas para m'
 date: 2020-11-16 22:35:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41C9UKpI75L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41C9UKpI75L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41C9UKpI75L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 129.0 EUR
 inStock: true
 prodname: 'Moon Boot Glance 14016800 - Botas para mujer  Argento 002  31/34'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00FAPGU72/?tag=tolees-21'
+descuento: '61.98'
+titulo: 'Moon Boot Glance 14016800 - Botas para m'
 ---
 
 Tienes [Moon Boot Glance 14016800 - Botas para mujer  Argento 002  31/34](https://www.amazon.es/dp/B00FAPGU72/?tag=tolees-21) con un 61.98 % de descuento con precio de oferta de 49.05 EUR (original: 129.0 EUR) en el siguiente enlace!
 
 [![Moon Boot Glance 14016800 - Botas para m](https://m.media-amazon.com/images/I/41C9UKpI75L._SL200_.jpg)](https://www.amazon.es/dp/B00FAPGU72/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00FAPGU72/?tag=tolees-21)
 

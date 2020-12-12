@@ -3,6 +3,7 @@ layout: post
 title: 'Bosch PBS 75 AE - Lijadora de banda  750 al 32.25 % de descuento'
 date: 2020-10-29 08:17:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+qhdmdtpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+qhdmdtpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+qhdmdtpL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 168.35 EUR
 inStock: true
 prodname: 'Bosch PBS 75 AE - Lijadora de banda  750 W  maletín '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00938XDXQ/?tag=tolees-21'
+descuento: '32.25'
+titulo: 'Bosch PBS 75 AE - Lijadora de banda  750'
 ---
 
 Ahora mismo tienes [Bosch PBS 75 AE - Lijadora de banda  750 W  maletín ](https://www.amazon.es/dp/B00938XDXQ/?tag=tolees-21) a 114.06 EUR (original: 168.35 EUR) (32.25 %  de descuento) en el siguiente enlace!
 
 [![Bosch PBS 75 AE - Lijadora de banda  750](https://m.media-amazon.com/images/I/41+qhdmdtpL._SL200_.jpg)](https://www.amazon.es/dp/B00938XDXQ/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B00938XDXQ/?tag=tolees-21)
 

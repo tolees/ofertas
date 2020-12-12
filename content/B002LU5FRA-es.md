@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste L1312 Polo  Negro  Noir   XS  Ta al 25.76 % de descuento'
 date: 2020-12-01 04:26:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/41TFWOEJwPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41TFWOEJwPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41TFWOEJwPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.0 EUR
 inStock: true
 prodname: 'Lacoste L1312 Polo  Negro  Noir   XS  Talla del fabricante: 2  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002LU5FRA/?tag=tolees-21'
+descuento: '25.76'
+titulo: 'Lacoste L1312 Polo  Negro  Noir   XS  Ta'
 ---
 
 Está [Lacoste L1312 Polo  Negro  Noir   XS  Talla del fabricante: 2  para Hombre](https://www.amazon.es/dp/B002LU5FRA/?tag=tolees-21) con 25.76 de descuento por 73.5 EUR (original: 99.0 EUR) en el siguiente enlace!
 
 [![Lacoste L1312 Polo  Negro  Noir   XS  Ta](https://m.media-amazon.com/images/I/41TFWOEJwPL._SL200_.jpg)](https://www.amazon.es/dp/B002LU5FRA/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B002LU5FRA/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Roca A2H0416000 Columna Hidromasaje Term al 27.03 % de descuento'
 date: 2020-10-19 16:24:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/219TOOPDLWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/219TOOPDLWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/219TOOPDLWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 715.0 EUR
 inStock: true
 prodname: 'Roca A2H0416000 Columna Hidromasaje Termostática  Modelo Evolution  Acero Inox'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00KHMGO4M/?tag=tolees-21'
+descuento: '27.03'
+titulo: 'Roca A2H0416000 Columna Hidromasaje Term'
 ---
 
 Está [Roca A2H0416000 Columna Hidromasaje Termostática  Modelo Evolution  Acero Inox](https://www.amazon.es/dp/B00KHMGO4M/?tag=tolees-21) con 27.03 de descuento por 521.75 EUR (original: 715.0 EUR) en el siguiente enlace!
 
 [![Roca A2H0416000 Columna Hidromasaje Term](https://m.media-amazon.com/images/I/219TOOPDLWL._SL200_.jpg)](https://www.amazon.es/dp/B00KHMGO4M/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00KHMGO4M/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Foreo Luna mini 2 Cepillo Facial Sónico  al 30.26 % de descuento'
 date: 2020-11-26 19:17:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/51fvN4cGOYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51fvN4cGOYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51fvN4cGOYL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 119.0 EUR
 inStock: true
 prodname: 'Foreo Luna mini 2 Cepillo Facial Sónico de Silicona  Rosa  Fuchsia '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B018T7DI4A/?tag=tolees-21'
+descuento: '30.26'
+titulo: 'Foreo Luna mini 2 Cepillo Facial Sónico '
 ---
 
 Ahora mismo tienes [Foreo Luna mini 2 Cepillo Facial Sónico de Silicona  Rosa  Fuchsia ](https://www.amazon.es/dp/B018T7DI4A/?tag=tolees-21) a 82.99 EUR (original: 119.0 EUR) (30.26 %  de descuento) en el siguiente enlace!
 
 [![Foreo Luna mini 2 Cepillo Facial Sónico ](https://m.media-amazon.com/images/I/51fvN4cGOYL._SL200_.jpg)](https://www.amazon.es/dp/B018T7DI4A/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B018T7DI4A/?tag=tolees-21)
 

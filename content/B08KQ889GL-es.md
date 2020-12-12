@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.03 % en ORNARTO Funda para Xiaomi Mi 10T Lite  T'
 date: 2020-10-25 03:32:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/418Vel0yHQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418Vel0yHQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/418Vel0yHQL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'ORNARTO Funda para Xiaomi Mi 10T Lite  Transparente Delgada Silicona Flexible Ajuste Proteger Caso Absorción de Golpes Parachoques Protective Carcasa para Xiaomi Mi 10T Lite 2020  6 67"'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08KQ889GL/?tag=tolees-21'
+descuento: '55.03'
+titulo: 'ORNARTO Funda para Xiaomi Mi 10T Lite  T'
 ---
 
 Tienes [ORNARTO Funda para Xiaomi Mi 10T Lite  Transparente Delgada Silicona Flexible Ajuste Proteger Caso Absorción de Golpes Parachoques Protective Carcasa para Xiaomi Mi 10T Lite 2020  6 67"](https://www.amazon.es/dp/B08KQ889GL/?tag=tolees-21) con un 55.03 % de descuento con precio de oferta de 8.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![ORNARTO Funda para Xiaomi Mi 10T Lite  T](https://m.media-amazon.com/images/I/418Vel0yHQL._SL200_.jpg)](https://www.amazon.es/dp/B08KQ889GL/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08KQ889GL/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Converse Chuck Taylor All Star Ox  Zapat al 43.82 % de descuento'
 date: 2020-11-30 23:55:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/41L9sz1s9vL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41L9sz1s9vL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41L9sz1s9vL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 65.0 EUR
 inStock: true
 prodname: 'Converse Chuck Taylor All Star Ox  Zapatillas Hombre  Rojo  Bordeaux   51.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0057R5VMS/?tag=tolees-21'
+descuento: '43.82'
+titulo: 'Converse Chuck Taylor All Star Ox  Zapat'
 ---
 
 Ahora mismo tienes [Converse Chuck Taylor All Star Ox  Zapatillas Hombre  Rojo  Bordeaux   51.5 EU](https://www.amazon.es/dp/B0057R5VMS/?tag=tolees-21) a 36.52 EUR (original: 65.0 EUR) (43.82 %  de descuento) en el siguiente enlace!
 
 [![Converse Chuck Taylor All Star Ox  Zapat](https://m.media-amazon.com/images/I/41L9sz1s9vL._SL200_.jpg)](https://www.amazon.es/dp/B0057R5VMS/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B0057R5VMS/?tag=tolees-21)
 

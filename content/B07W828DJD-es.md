@@ -3,6 +3,7 @@ layout: post
 title: 'CMP – F.lli Campagnolo Nashira Maxi Shoe al 26.92 % de descuento'
 date: 2020-12-03 09:26:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41nqYlgTmnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nqYlgTmnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41nqYlgTmnL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 22.55 EUR
 inStock: true
 prodname: 'CMP – F.lli Campagnolo Nashira Maxi Shoe  Zapatillas de Trail Running Hombre  Verde Jungle Muschio 66ue  41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07W828DJD/?tag=tolees-21'
+descuento: '26.92'
+titulo: 'CMP – F.lli Campagnolo Nashira Maxi Shoe'
 ---
 
 Está [CMP – F.lli Campagnolo Nashira Maxi Shoe  Zapatillas de Trail Running Hombre  Verde Jungle Muschio 66ue  41 EU](https://www.amazon.es/dp/B07W828DJD/?tag=tolees-21) con 26.92 de descuento por 16.48 EUR (original: 22.55 EUR) en el siguiente enlace!
 
 [![CMP – F.lli Campagnolo Nashira Maxi Shoe](https://m.media-amazon.com/images/I/41nqYlgTmnL._SL200_.jpg)](https://www.amazon.es/dp/B07W828DJD/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07W828DJD/?tag=tolees-21)
 

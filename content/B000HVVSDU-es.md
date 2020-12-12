@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.13 % en Magna Cart MCX Carretilla Plegable  Alum'
 date: 2020-12-06 17:24:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/31hsa6kBAXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31hsa6kBAXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31hsa6kBAXL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 35.82 EUR
 inStock: true
 prodname: 'Magna Cart MCX Carretilla Plegable  Aluminio'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000HVVSDU/?tag=tolees-21'
+descuento: '37.13'
+titulo: 'Magna Cart MCX Carretilla Plegable  Alum'
 ---
 
 Tienes [Magna Cart MCX Carretilla Plegable  Aluminio](https://www.amazon.es/dp/B000HVVSDU/?tag=tolees-21) con un 37.13 % de descuento con precio de oferta de 22.52 EUR (original: 35.82 EUR) en el siguiente enlace!
 
 [![Magna Cart MCX Carretilla Plegable  Alum](https://m.media-amazon.com/images/I/31hsa6kBAXL._SL200_.jpg)](https://www.amazon.es/dp/B000HVVSDU/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000HVVSDU/?tag=tolees-21)
 

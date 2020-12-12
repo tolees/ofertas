@@ -3,6 +3,7 @@ layout: post
 title: 'ELEGOO LCD UV 405nm 3D Resina Rápida par al 26.49 % de descuento'
 date: 2020-11-24 08:21:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+xKoVPMNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+xKoVPMNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+xKoVPMNL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 37.0 EUR
 inStock: true
 prodname: 'ELEGOO LCD UV 405nm 3D Resina Rápida para LCD Impresora 3D 1000g Fotopolímero Resina Rojo Claro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07Z9CRRVK/?tag=tolees-21'
+descuento: '26.49'
+titulo: 'ELEGOO LCD UV 405nm 3D Resina Rápida par'
 ---
 
 Está [ELEGOO LCD UV 405nm 3D Resina Rápida para LCD Impresora 3D 1000g Fotopolímero Resina Rojo Claro](https://www.amazon.es/dp/B07Z9CRRVK/?tag=tolees-21) con 26.49 de descuento por 27.2 EUR (original: 37.0 EUR) en el siguiente enlace!
 
 [![ELEGOO LCD UV 405nm 3D Resina Rápida par](https://m.media-amazon.com/images/I/41+xKoVPMNL._SL200_.jpg)](https://www.amazon.es/dp/B07Z9CRRVK/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07Z9CRRVK/?tag=tolees-21)
 

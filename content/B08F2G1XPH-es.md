@@ -3,6 +3,7 @@ layout: post
 title: 'WD My Passport SSD 1TB - tecnología NVMe al 30.37 % de descuento'
 date: 2020-12-09 20:53:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/41jczZXBCcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jczZXBCcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41jczZXBCcL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 244.12 EUR
 inStock: true
 prodname: 'WD My Passport SSD 1TB - tecnología NVMe  USB-C  velocidad de lectura hasta 1050MB/s & de escritura hasta 1000MB/s - Oro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08F2G1XPH/?tag=tolees-21'
+descuento: '30.37'
+titulo: 'WD My Passport SSD 1TB - tecnología NVMe'
 ---
 
 Ahora mismo tienes [WD My Passport SSD 1TB - tecnología NVMe  USB-C  velocidad de lectura hasta 1050MB/s & de escritura hasta 1000MB/s - Oro](https://www.amazon.es/dp/B08F2G1XPH/?tag=tolees-21) a 169.99 EUR (original: 244.12 EUR) (30.37 %  de descuento) en el siguiente enlace!
 
 [![WD My Passport SSD 1TB - tecnología NVMe](https://m.media-amazon.com/images/I/41jczZXBCcL._SL200_.jpg)](https://www.amazon.es/dp/B08F2G1XPH/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B08F2G1XPH/?tag=tolees-21)
 

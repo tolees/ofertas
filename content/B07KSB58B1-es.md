@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.98 % en Sphinx and the Cursed Mummy'
 date: 2020-10-25 08:37:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/51D2JoGJ3CL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51D2JoGJ3CL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51D2JoGJ3CL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Sphinx and the Cursed Mummy'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KSB58B1/?tag=tolees-21'
+descuento: '45.98'
+titulo: 'Sphinx and the Cursed Mummy'
 ---
 
 Tienes [Sphinx and the Cursed Mummy](https://www.amazon.es/dp/B07KSB58B1/?tag=tolees-21) con un 45.98 % de descuento con precio de oferta de 16.2 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![Sphinx and the Cursed Mummy](https://m.media-amazon.com/images/I/51D2JoGJ3CL._SL200_.jpg)](https://www.amazon.es/dp/B07KSB58B1/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KSB58B1/?tag=tolees-21)
 

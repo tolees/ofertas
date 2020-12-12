@@ -3,6 +3,7 @@ layout: post
 title: 'Vans Atwood Canvas  Sneaker Hombre  Rojo al 35.88 % de descuento'
 date: 2020-11-26 15:47:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/313Ql0dsdIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/313Ql0dsdIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/313Ql0dsdIL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 46.79 EUR
 inStock: true
 prodname: 'Vans Atwood Canvas  Sneaker Hombre  Rojo  Oxblood/White 8J3   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00CJWQV1Y/?tag=tolees-21'
+descuento: '35.88'
+titulo: 'Vans Atwood Canvas  Sneaker Hombre  Rojo'
 ---
 
 Está [Vans Atwood Canvas  Sneaker Hombre  Rojo  Oxblood/White 8J3   42 EU](https://www.amazon.es/dp/B00CJWQV1Y/?tag=tolees-21) con 35.88 de descuento por 30.0 EUR (original: 46.79 EUR) en el siguiente enlace!
 
 [![Vans Atwood Canvas  Sneaker Hombre  Rojo](https://m.media-amazon.com/images/I/313Ql0dsdIL._SL200_.jpg)](https://www.amazon.es/dp/B00CJWQV1Y/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00CJWQV1Y/?tag=tolees-21)
 

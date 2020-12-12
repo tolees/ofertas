@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.97 % en Altos de Tamaron - Ribera del Duero - Ro'
 date: 2020-10-17 14:04:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/51i+5NGhBvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51i+5NGhBvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51i+5NGhBvL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 32.34 EUR
 inStock: true
 prodname: 'Altos de Tamaron - Ribera del Duero - Roble  Vino Pinto - Pack de 6 uds x 750 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B009LEOSKO/?tag=tolees-21'
+descuento: '25.97'
+titulo: 'Altos de Tamaron - Ribera del Duero - Ro'
 ---
 
 Tienes [Altos de Tamaron - Ribera del Duero - Roble  Vino Pinto - Pack de 6 uds x 750 ml](https://www.amazon.es/dp/B009LEOSKO/?tag=tolees-21) con un 25.97 % de descuento con precio de oferta de 23.94 EUR (original: 32.34 EUR) en el siguiente enlace!
 
 [![Altos de Tamaron - Ribera del Duero - Ro](https://m.media-amazon.com/images/I/51i+5NGhBvL._SL200_.jpg)](https://www.amazon.es/dp/B009LEOSKO/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B009LEOSKO/?tag=tolees-21)
 

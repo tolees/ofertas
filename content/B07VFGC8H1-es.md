@@ -3,6 +3,7 @@ layout: post
 title: 'Napapijri Enago Polo  Verde  Green Way G al 64.55 % de descuento'
 date: 2020-12-03 04:16:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/41NueeNh-pL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NueeNh-pL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41NueeNh-pL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 69.0 EUR
 inStock: true
 prodname: 'Napapijri Enago Polo  Verde  Green Way Gw11   Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07VFGC8H1/?tag=tolees-21'
+descuento: '64.55'
+titulo: 'Napapijri Enago Polo  Verde  Green Way G'
 ---
 
 Está [Napapijri Enago Polo  Verde  Green Way Gw11   Small para Hombre](https://www.amazon.es/dp/B07VFGC8H1/?tag=tolees-21) con 64.55 de descuento por 24.46 EUR (original: 69.0 EUR) en el siguiente enlace!
 
 [![Napapijri Enago Polo  Verde  Green Way G](https://m.media-amazon.com/images/I/41NueeNh-pL._SL200_.jpg)](https://www.amazon.es/dp/B07VFGC8H1/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07VFGC8H1/?tag=tolees-21)
 

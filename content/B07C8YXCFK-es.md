@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.60 % en Vans Ward Platform Canvas Zapatillas Muj'
 date: 2020-11-01 19:07:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/417lQMBt12L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417lQMBt12L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/417lQMBt12L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 75.0 EUR
 inStock: true
 prodname: 'Vans Ward Platform Canvas Zapatillas Mujer  Negro  Canvas  Black/White 187   40.5 EU  7 UK '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C8YXCFK/?tag=tolees-21'
+descuento: '33.60'
+titulo: 'Vans Ward Platform Canvas Zapatillas Muj'
 ---
 
 Tienes [Vans Ward Platform Canvas Zapatillas Mujer  Negro  Canvas  Black/White 187   40.5 EU  7 UK ](https://www.amazon.es/dp/B07C8YXCFK/?tag=tolees-21) con un 33.60 % de descuento con precio de oferta de 49.8 EUR (original: 75.0 EUR) en el siguiente enlace!
 
 [![Vans Ward Platform Canvas Zapatillas Muj](https://m.media-amazon.com/images/I/417lQMBt12L._SL200_.jpg)](https://www.amazon.es/dp/B07C8YXCFK/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07C8YXCFK/?tag=tolees-21)
 

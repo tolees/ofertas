@@ -3,6 +3,7 @@ layout: post
 title: 'Colgate Plax Multiprotección  Enjuague B al 88.47 % de descuento'
 date: 2020-12-11 15:55:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41asajl5+mL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41asajl5+mL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41asajl5+mL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 8.67 EUR
 inStock: true
 prodname: 'Colgate Plax Multiprotección  Enjuague Bucal - 250 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HFTP1YH/?tag=tolees-21'
+descuento: '88.47'
+titulo: 'Colgate Plax Multiprotección  Enjuague B'
 ---
 
 Ahora mismo tienes [Colgate Plax Multiprotección  Enjuague Bucal - 250 ml](https://www.amazon.es/dp/B07HFTP1YH/?tag=tolees-21) a 1.0 EUR (original: 8.67 EUR) (88.47 %  de descuento) en el siguiente enlace!

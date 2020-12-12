@@ -3,6 +3,7 @@ layout: post
 title: 'Lifeprint Impresora portátil de Fotos y  al 32.78 % de descuento'
 date: 2020-11-30 08:39:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/410T3+5RSBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410T3+5RSBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/410T3+5RSBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 149.95 EUR
 inStock: true
 prodname: 'Lifeprint Impresora portátil de Fotos y vídeos  2x3 para Dispositivos iOS y Android  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07VD9TXN9/?tag=tolees-21'
+descuento: '32.78'
+titulo: 'Lifeprint Impresora portátil de Fotos y '
 ---
 
 Está [Lifeprint Impresora portátil de Fotos y vídeos  2x3 para Dispositivos iOS y Android  Negro](https://www.amazon.es/dp/B07VD9TXN9/?tag=tolees-21) con 32.78 de descuento por 100.79 EUR (original: 149.95 EUR) en el siguiente enlace!
 
 [![Lifeprint Impresora portátil de Fotos y ](https://m.media-amazon.com/images/I/410T3+5RSBL._SL200_.jpg)](https://www.amazon.es/dp/B07VD9TXN9/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07VD9TXN9/?tag=tolees-21)
 

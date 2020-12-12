@@ -3,6 +3,7 @@ layout: post
 title: 'Philips 12342RVB1 Bombilla para Faros De al 33.32 % de descuento'
 date: 2020-11-17 12:01:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/51GYjsxodLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51GYjsxodLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51GYjsxodLL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Philips 12342RVB1 Bombilla para Faros Delanteros  Azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LZEXHKL/?tag=tolees-21'
+descuento: '33.32'
+titulo: 'Philips 12342RVB1 Bombilla para Faros De'
 ---
 
 Está [Philips 12342RVB1 Bombilla para Faros Delanteros  Azul](https://www.amazon.es/dp/B01LZEXHKL/?tag=tolees-21) con 33.32 de descuento por 13.33 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![Philips 12342RVB1 Bombilla para Faros De](https://m.media-amazon.com/images/I/51GYjsxodLL._SL200_.jpg)](https://www.amazon.es/dp/B01LZEXHKL/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01LZEXHKL/?tag=tolees-21)
 

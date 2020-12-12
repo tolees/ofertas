@@ -3,6 +3,7 @@ layout: post
 title: 'Animales Fantásticos y Dónde encontrarlo al 47.47 % de descuento'
 date: 2020-11-21 10:01:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/51kIQWIJkmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51kIQWIJkmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51kIQWIJkmL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Animales Fantásticos y Dónde encontrarlos 4k UHD [Blu-Ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08HQ5X66Y/?tag=tolees-21'
+descuento: '47.47'
+titulo: 'Animales Fantásticos y Dónde encontrarlo'
 ---
 
 Está [Animales Fantásticos y Dónde encontrarlos 4k UHD [Blu-Ray]](https://www.amazon.es/dp/B08HQ5X66Y/?tag=tolees-21) con 47.47 de descuento por 10.5 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![Animales Fantásticos y Dónde encontrarlo](https://m.media-amazon.com/images/I/51kIQWIJkmL._SL200_.jpg)](https://www.amazon.es/dp/B08HQ5X66Y/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08HQ5X66Y/?tag=tolees-21)
 

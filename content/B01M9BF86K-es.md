@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.69 % en Solac CE4480 Espresso-Cafetera de 19 Bar'
 date: 2020-12-07 21:11:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41WNlqSlZiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WNlqSlZiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41WNlqSlZiL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 119.99 EUR
 inStock: true
 prodname: 'Solac CE4480 Espresso-Cafetera de 19 Bares con vaporizador  850 W  1.25 litros  0 Decibeles  Acero Inoxidable'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M9BF86K/?tag=tolees-21'
+descuento: '32.69'
+titulo: 'Solac CE4480 Espresso-Cafetera de 19 Bar'
 ---
 
 Tienes [Solac CE4480 Espresso-Cafetera de 19 Bares con vaporizador  850 W  1.25 litros  0 Decibeles  Acero Inoxidable](https://www.amazon.es/dp/B01M9BF86K/?tag=tolees-21) con un 32.69 % de descuento con precio de oferta de 80.77 EUR (original: 119.99 EUR) en el siguiente enlace!
 
 [![Solac CE4480 Espresso-Cafetera de 19 Bar](https://m.media-amazon.com/images/I/41WNlqSlZiL._SL200_.jpg)](https://www.amazon.es/dp/B01M9BF86K/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01M9BF86K/?tag=tolees-21)
 

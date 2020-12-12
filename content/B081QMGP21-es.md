@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.00 % en PUMA Carina L  Zapatillas Mujer  Blanco '
 date: 2020-11-28 15:11:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/31EBnrXnxXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31EBnrXnxXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31EBnrXnxXL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 43.43 EUR
 inStock: true
 prodname: 'PUMA Carina L  Zapatillas Mujer  Blanco White Black Silver  38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B081QMGP21/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'PUMA Carina L  Zapatillas Mujer  Blanco '
 ---
 
 Tienes [PUMA Carina L  Zapatillas Mujer  Blanco White Black Silver  38 EU](https://www.amazon.es/dp/B081QMGP21/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 30.4 EUR (original: 43.43 EUR) en el siguiente enlace!
 
 [![PUMA Carina L  Zapatillas Mujer  Blanco ](https://m.media-amazon.com/images/I/31EBnrXnxXL._SL200_.jpg)](https://www.amazon.es/dp/B081QMGP21/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B081QMGP21/?tag=tolees-21)
 

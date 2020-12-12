@@ -3,6 +3,7 @@ layout: post
 title: 'Estuche Pepe Jeans Harlow Azul tre compa al 28.64 % de descuento'
 date: 2020-11-05 10:05:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41mg1BQNIBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mg1BQNIBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41mg1BQNIBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 14.0 EUR
 inStock: true
 prodname: 'Estuche Pepe Jeans Harlow Azul tre compartimento'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072QDH8H9/?tag=tolees-21'
+descuento: '28.64'
+titulo: 'Estuche Pepe Jeans Harlow Azul tre compa'
 ---
 
 Ahora mismo tienes [Estuche Pepe Jeans Harlow Azul tre compartimento](https://www.amazon.es/dp/B072QDH8H9/?tag=tolees-21) a 9.99 EUR (original: 14.0 EUR) (28.64 %  de descuento) en el siguiente enlace!
 
 [![Estuche Pepe Jeans Harlow Azul tre compa](https://m.media-amazon.com/images/I/41mg1BQNIBL._SL200_.jpg)](https://www.amazon.es/dp/B072QDH8H9/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B072QDH8H9/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Paterson [Blu-ray] al 69.30 % de descuento'
 date: 2020-11-25 02:52:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/514b8gpLZPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/514b8gpLZPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/514b8gpLZPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 21.17 EUR
 inStock: true
 prodname: 'Paterson [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XBYPLR2/?tag=tolees-21'
+descuento: '69.30'
+titulo: 'Paterson [Blu-ray]'
 ---
 
 Ahora mismo tienes [Paterson [Blu-ray]](https://www.amazon.es/dp/B06XBYPLR2/?tag=tolees-21) a 6.5 EUR (original: 21.17 EUR) (69.30 %  de descuento) en el siguiente enlace!
 
 [![Paterson [Blu-ray]](https://m.media-amazon.com/images/I/514b8gpLZPL._SL200_.jpg)](https://www.amazon.es/dp/B06XBYPLR2/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B06XBYPLR2/?tag=tolees-21)
 

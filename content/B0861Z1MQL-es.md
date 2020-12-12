@@ -3,6 +3,7 @@ layout: post
 title: 'ONE PIECE ESTAMPIDA Bluray Coleccionista al 49.98 % de descuento'
 date: 2020-12-11 09:22:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Jba56I7UL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Jba56I7UL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Jba56I7UL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 32.99 EUR
 inStock: true
 prodname: 'ONE PIECE ESTAMPIDA Bluray Coleccionista [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0861Z1MQL/?tag=tolees-21'
+descuento: '49.98'
+titulo: 'ONE PIECE ESTAMPIDA Bluray Coleccionista'
 ---
 
 Está [ONE PIECE ESTAMPIDA Bluray Coleccionista [Blu-ray]](https://www.amazon.es/dp/B0861Z1MQL/?tag=tolees-21) con 49.98 de descuento por 16.5 EUR (original: 32.99 EUR) en el siguiente enlace!

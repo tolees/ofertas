@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.64 % en Vans Ward - Zapatillas para Mujer  Negro'
 date: 2020-12-07 19:04:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41n3upoVtIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41n3upoVtIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41n3upoVtIL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 70.0 EUR
 inStock: true
 prodname: 'Vans Ward - Zapatillas para Mujer  Negro  Suede/Canvas/Black/White Iju   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078PNV3QH/?tag=tolees-21'
+descuento: '28.64'
+titulo: 'Vans Ward - Zapatillas para Mujer  Negro'
 ---
 
 Tienes [Vans Ward - Zapatillas para Mujer  Negro  Suede/Canvas/Black/White Iju   36 EU](https://www.amazon.es/dp/B078PNV3QH/?tag=tolees-21) con un 28.64 % de descuento con precio de oferta de 49.95 EUR (original: 70.0 EUR) en el siguiente enlace!
 
 [![Vans Ward - Zapatillas para Mujer  Negro](https://m.media-amazon.com/images/I/41n3upoVtIL._SL200_.jpg)](https://www.amazon.es/dp/B078PNV3QH/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B078PNV3QH/?tag=tolees-21)
 

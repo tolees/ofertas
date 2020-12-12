@@ -3,6 +3,7 @@ layout: post
 title: 'Poweradd Pilas Alcalinas AAA Baterías LR al 50.81 % de descuento'
 date: 2020-12-02 15:20:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/51re998z6YL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51re998z6YL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51re998z6YL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Poweradd Pilas Alcalinas AAA Baterías LR03 de 10 Años Larga Duración para Linternas  Relojes  Mandos a Distancia  Juguetes-20 Unidades de 1.5V'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B088KJ31ZB/?tag=tolees-21'
+descuento: '50.81'
+titulo: 'Poweradd Pilas Alcalinas AAA Baterías LR'
 ---
 
 Ahora mismo tienes [Poweradd Pilas Alcalinas AAA Baterías LR03 de 10 Años Larga Duración para Linternas  Relojes  Mandos a Distancia  Juguetes-20 Unidades de 1.5V](https://www.amazon.es/dp/B088KJ31ZB/?tag=tolees-21) a 6.39 EUR (original: 12.99 EUR) (50.81 %  de descuento) en el siguiente enlace!
 
 [![Poweradd Pilas Alcalinas AAA Baterías LR](https://m.media-amazon.com/images/I/51re998z6YL._SL200_.jpg)](https://www.amazon.es/dp/B088KJ31ZB/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B088KJ31ZB/?tag=tolees-21)
 

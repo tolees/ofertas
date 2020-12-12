@@ -3,6 +3,7 @@ layout: post
 title: 'Samsonite Cityscape Tech LP al 37.93 % de descuento'
 date: 2020-12-06 23:00:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/41BLw+arJfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BLw+arJfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41BLw+arJfL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 169.0 EUR
 inStock: true
 prodname: 'Samsonite Cityscape Tech LP'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00VPT064K/?tag=tolees-21'
+descuento: '37.93'
+titulo: 'Samsonite Cityscape Tech LP'
 ---
 
 Está [Samsonite Cityscape Tech LP](https://www.amazon.es/dp/B00VPT064K/?tag=tolees-21) con 37.93 de descuento por 104.9 EUR (original: 169.0 EUR) en el siguiente enlace!
 
 [![Samsonite Cityscape Tech LP](https://m.media-amazon.com/images/I/41BLw+arJfL._SL200_.jpg)](https://www.amazon.es/dp/B00VPT064K/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00VPT064K/?tag=tolees-21)
 

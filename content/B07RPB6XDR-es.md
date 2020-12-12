@@ -3,6 +3,7 @@ layout: post
 title: 'San Ignacio Juego de Sartenes y Batería  al 61.23 % de descuento'
 date: 2020-11-21 13:20:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/51GuU5bPVvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51GuU5bPVvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51GuU5bPVvL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 177.99 EUR
 inStock: true
 prodname: 'San Ignacio Juego de Sartenes y Batería de Cocina  Aluminio  Negro  Acero Inoxidable'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07RPB6XDR/?tag=tolees-21'
+descuento: '61.23'
+titulo: 'San Ignacio Juego de Sartenes y Batería '
 ---
 
 Está [San Ignacio Juego de Sartenes y Batería de Cocina  Aluminio  Negro  Acero Inoxidable](https://www.amazon.es/dp/B07RPB6XDR/?tag=tolees-21) con 61.23 de descuento por 69.0 EUR (original: 177.99 EUR) en el siguiente enlace!
 
 [![San Ignacio Juego de Sartenes y Batería ](https://m.media-amazon.com/images/I/51GuU5bPVvL._SL200_.jpg)](https://www.amazon.es/dp/B07RPB6XDR/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07RPB6XDR/?tag=tolees-21)
 

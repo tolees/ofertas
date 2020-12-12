@@ -3,6 +3,7 @@ layout: post
 title: 'Nespresso De Longhi Inissia EN80.B - Caf al 30.30 % de descuento'
 date: 2020-12-10 10:33:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/41eNvHhjoML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eNvHhjoML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41eNvHhjoML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.0 EUR
 inStock: true
 prodname: 'Nespresso De Longhi Inissia EN80.B - Cafetera monodosis de cápsulas Nespresso  19 bares  apagado automático  color negro  Incluye pack de bienvenida con 14 cápsulas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00G5YOVZA/?tag=tolees-21'
+descuento: '30.30'
+titulo: 'Nespresso De Longhi Inissia EN80.B - Caf'
 ---
 
 Ahora mismo tienes [Nespresso De Longhi Inissia EN80.B - Cafetera monodosis de cápsulas Nespresso  19 bares  apagado automático  color negro  Incluye pack de bienvenida con 14 cápsulas](https://www.amazon.es/dp/B00G5YOVZA/?tag=tolees-21) a 69.0 EUR (original: 99.0 EUR) (30.30 %  de descuento) en el siguiente enlace!
 
 [![Nespresso De Longhi Inissia EN80.B - Caf](https://m.media-amazon.com/images/I/41eNvHhjoML._SL200_.jpg)](https://www.amazon.es/dp/B00G5YOVZA/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B00G5YOVZA/?tag=tolees-21)
 

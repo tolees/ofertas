@@ -3,6 +3,7 @@ layout: post
 title: 'Ventilador USB  Gifort Ventilador de Mes al 45.48 % de descuento'
 date: 2020-12-04 09:02:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51zrQVoBkSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51zrQVoBkSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51zrQVoBkSL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 21.99 EUR
 inStock: true
 prodname: 'Ventilador USB  Gifort Ventilador de Mesa Mini Ventilador USB Silencioso  con Velocidad Ajustable de 180 Grados  para Coche  Oficina  Hogar  Viajes  Camping  USB Accionado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B083W5DW6G/?tag=tolees-21'
+descuento: '45.48'
+titulo: 'Ventilador USB  Gifort Ventilador de Mes'
 ---
 
 Está [Ventilador USB  Gifort Ventilador de Mesa Mini Ventilador USB Silencioso  con Velocidad Ajustable de 180 Grados  para Coche  Oficina  Hogar  Viajes  Camping  USB Accionado](https://www.amazon.es/dp/B083W5DW6G/?tag=tolees-21) con 45.48 de descuento por 11.99 EUR (original: 21.99 EUR) en el siguiente enlace!
 
 [![Ventilador USB  Gifort Ventilador de Mes](https://m.media-amazon.com/images/I/51zrQVoBkSL._SL200_.jpg)](https://www.amazon.es/dp/B083W5DW6G/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B083W5DW6G/?tag=tolees-21)
 

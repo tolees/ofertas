@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.48 % en La trinchera infinita  BD  [Blu-ray]'
 date: 2020-12-11 09:22:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Hh-M+1hpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Hh-M+1hpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Hh-M+1hpL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 7.69 EUR
 inStock: true
 prodname: 'La trinchera infinita  BD  [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B083XV6RX7/?tag=tolees-21'
+descuento: '28.48'
+titulo: 'La trinchera infinita  BD  [Blu-ray]'
 ---
 
 Tienes [La trinchera infinita  BD  [Blu-ray]](https://www.amazon.es/dp/B083XV6RX7/?tag=tolees-21) con un 28.48 % de descuento con precio de oferta de 5.5 EUR (original: 7.69 EUR) en el siguiente enlace!

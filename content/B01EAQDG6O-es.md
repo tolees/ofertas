@@ -3,6 +3,7 @@ layout: post
 title: 'The Company of Animals 0886284161527 - H al 30.27 % de descuento'
 date: 2020-11-23 19:33:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41JqeJh1DzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41JqeJh1DzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41JqeJh1DzL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 15.56 EUR
 inStock: true
 prodname: 'The Company of Animals 0886284161527 - Halti Correa All-in-One Morada Small'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01EAQDG6O/?tag=tolees-21'
+descuento: '30.27'
+titulo: 'The Company of Animals 0886284161527 - H'
 ---
 
 Está [The Company of Animals 0886284161527 - Halti Correa All-in-One Morada Small](https://www.amazon.es/dp/B01EAQDG6O/?tag=tolees-21) con 30.27 de descuento por 10.85 EUR (original: 15.56 EUR) en el siguiente enlace!
 
 [![The Company of Animals 0886284161527 - H](https://m.media-amazon.com/images/I/41JqeJh1DzL._SL200_.jpg)](https://www.amazon.es/dp/B01EAQDG6O/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01EAQDG6O/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Bosch Professional Sistema 12V Nivel Lás al 54.19 % de descuento'
 date: 2020-11-11 18:43:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/51vpNGJVFuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51vpNGJVFuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51vpNGJVFuL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 567.49 EUR
 inStock: true
 prodname: 'Bosch Professional Sistema 12V Nivel Láser GCL 2-50 CG  1 batería 12V + cargador  láser verde  c/función aplicación  soporte  alcance visible: hasta 20 m  en L-BOXX '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0727X7GJC/?tag=tolees-21'
+descuento: '54.19'
+titulo: 'Bosch Professional Sistema 12V Nivel Lás'
 ---
 
 Ahora mismo tienes [Bosch Professional Sistema 12V Nivel Láser GCL 2-50 CG  1 batería 12V + cargador  láser verde  c/función aplicación  soporte  alcance visible: hasta 20 m  en L-BOXX ](https://www.amazon.es/dp/B0727X7GJC/?tag=tolees-21) a 259.99 EUR (original: 567.49 EUR) (54.19 %  de descuento) en el siguiente enlace!
 
 [![Bosch Professional Sistema 12V Nivel Lás](https://m.media-amazon.com/images/I/51vpNGJVFuL._SL200_.jpg)](https://www.amazon.es/dp/B0727X7GJC/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B0727X7GJC/?tag=tolees-21)
 

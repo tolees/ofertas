@@ -3,6 +3,7 @@ layout: post
 title: 'Bulldog Gel Limpiador Facial - 150 ml al 50.62 % de descuento'
 date: 2020-12-11 08:05:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/414PTQaAMSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414PTQaAMSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/414PTQaAMSL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 8.0 EUR
 inStock: true
 prodname: 'Bulldog Gel Limpiador Facial - 150 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007PQD7KW/?tag=tolees-21'
+descuento: '50.62'
+titulo: 'Bulldog Gel Limpiador Facial - 150 ml'
 ---
 
 Ahora mismo tienes [Bulldog Gel Limpiador Facial - 150 ml](https://www.amazon.es/dp/B007PQD7KW/?tag=tolees-21) a 3.95 EUR (original: 8.0 EUR) (50.62 %  de descuento) en el siguiente enlace!
@@ -24,9 +28,9 @@ Ahora mismo tienes [Bulldog Gel Limpiador Facial - 150 ml](https://www.amazon.es
 
 Características:
 
-- Tipo de producto -
 - Marca - Bulldog
 - Género - Hombre
+- Tipo de producto -
 
 [Visítala!!!](https://www.amazon.es/dp/B007PQD7KW/?tag=tolees-21)
 

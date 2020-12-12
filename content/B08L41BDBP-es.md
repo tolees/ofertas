@@ -3,6 +3,7 @@ layout: post
 title: 'positions  CD  al 39.67 % de descuento'
 date: 2020-11-02 13:16:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41CBFcD-TJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41CBFcD-TJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41CBFcD-TJL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 16.99 EUR
 inStock: true
 prodname: 'positions  CD '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08L41BDBP/?tag=tolees-21'
+descuento: '39.67'
+titulo: 'positions  CD '
 ---
 
 Está [positions  CD ](https://www.amazon.es/dp/B08L41BDBP/?tag=tolees-21) con 39.67 de descuento por 10.25 EUR (original: 16.99 EUR) en el siguiente enlace!
 
 [![positions  CD ](https://m.media-amazon.com/images/I/41CBFcD-TJL._SL200_.jpg)](https://www.amazon.es/dp/B08L41BDBP/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08L41BDBP/?tag=tolees-21)
 

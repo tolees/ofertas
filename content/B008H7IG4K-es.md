@@ -3,6 +3,7 @@ layout: post
 title: 'Goma EVA APLI Hoja 22x30 cm A4 Bolsa 10  al 28.38 % de descuento'
 date: 2020-11-30 23:01:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/411Q-vB8f-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411Q-vB8f-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/411Q-vB8f-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 3.7 EUR
 inStock: true
 prodname: 'Goma EVA APLI Hoja 22x30 cm A4 Bolsa 10 Colores'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B008H7IG4K/?tag=tolees-21'
+descuento: '28.38'
+titulo: 'Goma EVA APLI Hoja 22x30 cm A4 Bolsa 10 '
 ---
 
 Está [Goma EVA APLI Hoja 22x30 cm A4 Bolsa 10 Colores](https://www.amazon.es/dp/B008H7IG4K/?tag=tolees-21) con 28.38 de descuento por 2.65 EUR (original: 3.7 EUR) en el siguiente enlace!
 
 [![Goma EVA APLI Hoja 22x30 cm A4 Bolsa 10 ](https://m.media-amazon.com/images/I/411Q-vB8f-L._SL200_.jpg)](https://www.amazon.es/dp/B008H7IG4K/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B008H7IG4K/?tag=tolees-21)
 

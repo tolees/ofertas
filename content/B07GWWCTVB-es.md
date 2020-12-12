@@ -3,6 +3,7 @@ layout: post
 title: 'TENDENCIA ÚNICA Tendedero de balcón de R al 25.00 % de descuento'
 date: 2020-11-19 19:29:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/41MD1OYd3iL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MD1OYd3iL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41MD1OYd3iL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 21.72 EUR
 inStock: true
 prodname: 'TENDENCIA ÚNICA Tendedero de balcón de Resina y Polipropileno en Blanco con Brazos Regulables. 10m de Longitud de tendido. Medidas: 98x53x5cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GWWCTVB/?tag=tolees-21'
+descuento: '25.00'
+titulo: 'TENDENCIA ÚNICA Tendedero de balcón de R'
 ---
 
 Está [TENDENCIA ÚNICA Tendedero de balcón de Resina y Polipropileno en Blanco con Brazos Regulables. 10m de Longitud de tendido. Medidas: 98x53x5cm](https://www.amazon.es/dp/B07GWWCTVB/?tag=tolees-21) con 25.00 de descuento por 16.29 EUR (original: 21.72 EUR) en el siguiente enlace!
 
 [![TENDENCIA ÚNICA Tendedero de balcón de R](https://m.media-amazon.com/images/I/41MD1OYd3iL._SL200_.jpg)](https://www.amazon.es/dp/B07GWWCTVB/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07GWWCTVB/?tag=tolees-21)
 

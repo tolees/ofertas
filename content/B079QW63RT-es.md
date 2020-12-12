@@ -3,6 +3,7 @@ layout: post
 title: 'RAVPower Cargador Inalámbrico Rápido Com al 40.01 % de descuento'
 date: 2020-11-30 12:30:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OR61zJznL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OR61zJznL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OR61zJznL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'RAVPower Cargador Inalámbrico Rápido Compatible con Samsung S8  S8+  S7  S7 Edge  S6 7.5W Anti-Deslizamiento Diseño para Samsung y Teléfonos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079QW63RT/?tag=tolees-21'
+descuento: '40.01'
+titulo: 'RAVPower Cargador Inalámbrico Rápido Com'
 ---
 
 Está [RAVPower Cargador Inalámbrico Rápido Compatible con Samsung S8  S8+  S7  S7 Edge  S6 7.5W Anti-Deslizamiento Diseño para Samsung y Teléfonos](https://www.amazon.es/dp/B079QW63RT/?tag=tolees-21) con 40.01 de descuento por 20.99 EUR (original: 34.99 EUR) en el siguiente enlace!
 
 [![RAVPower Cargador Inalámbrico Rápido Com](https://images-eu.ssl-images-amazon.com/images/I/41OR61zJznL._SL200_.jpg)](https://www.amazon.es/dp/B079QW63RT/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B079QW63RT/?tag=tolees-21)
 

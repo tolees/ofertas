@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.59 % en Fontaneda Osito Lulu - Bizcochos Relleno'
 date: 2020-11-21 22:30:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/41deucaXkNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41deucaXkNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41deucaXkNL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 2.14 EUR
 inStock: true
 prodname: 'Fontaneda Osito Lulu - Bizcochos Rellenos de Chocolate - Paquete de 150 g'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00TRG9KN6/?tag=tolees-21'
+descuento: '41.59'
+titulo: 'Fontaneda Osito Lulu - Bizcochos Relleno'
 ---
 
 Tienes [Fontaneda Osito Lulu - Bizcochos Rellenos de Chocolate - Paquete de 150 g](https://www.amazon.es/dp/B00TRG9KN6/?tag=tolees-21) con un 41.59 % de descuento con precio de oferta de 1.25 EUR (original: 2.14 EUR) en el siguiente enlace!
 
 [![Fontaneda Osito Lulu - Bizcochos Relleno](https://m.media-amazon.com/images/I/41deucaXkNL._SL200_.jpg)](https://www.amazon.es/dp/B00TRG9KN6/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00TRG9KN6/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Jata FR326E Freidora Compacta Capacidad  al 48.40 % de descuento'
 date: 2020-12-04 11:54:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/51VV+l3zjDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51VV+l3zjDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51VV+l3zjDL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 61.39 EUR
 inStock: true
 prodname: 'Jata FR326E Freidora Compacta Capacidad 1 5 litros Antiadherente Libre de PFOA y PTFE Estructura Metálica Cuerpo Inox Antihuella Termostato Regulable Cestillo Ajustado para Optimizar'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0055ZM1WU/?tag=tolees-21'
+descuento: '48.40'
+titulo: 'Jata FR326E Freidora Compacta Capacidad '
 ---
 
 Ahora mismo tienes [Jata FR326E Freidora Compacta Capacidad 1 5 litros Antiadherente Libre de PFOA y PTFE Estructura Metálica Cuerpo Inox Antihuella Termostato Regulable Cestillo Ajustado para Optimizar](https://www.amazon.es/dp/B0055ZM1WU/?tag=tolees-21) a 31.68 EUR (original: 61.39 EUR) (48.40 %  de descuento) en el siguiente enlace!
 
 [![Jata FR326E Freidora Compacta Capacidad ](https://m.media-amazon.com/images/I/51VV+l3zjDL._SL200_.jpg)](https://www.amazon.es/dp/B0055ZM1WU/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B0055ZM1WU/?tag=tolees-21)
 

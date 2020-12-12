@@ -3,6 +3,7 @@ layout: post
 title: 'Rimmel London  Hide The Blemish Correcto al 49.78 % de descuento'
 date: 2020-11-22 19:16:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/31GMLp57h7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31GMLp57h7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31GMLp57h7L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 4.5 EUR
 inStock: true
 prodname: 'Rimmel London  Hide The Blemish Corrector Tono 004 Natural Beige  4.5 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001V9LBG6/?tag=tolees-21'
+descuento: '49.78'
+titulo: 'Rimmel London  Hide The Blemish Correcto'
 ---
 
 Está [Rimmel London  Hide The Blemish Corrector Tono 004 Natural Beige  4.5 gr](https://www.amazon.es/dp/B001V9LBG6/?tag=tolees-21) con 49.78 de descuento por 2.26 EUR (original: 4.5 EUR) en el siguiente enlace!
 
 [![Rimmel London  Hide The Blemish Correcto](https://m.media-amazon.com/images/I/31GMLp57h7L._SL200_.jpg)](https://www.amazon.es/dp/B001V9LBG6/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B001V9LBG6/?tag=tolees-21)
 

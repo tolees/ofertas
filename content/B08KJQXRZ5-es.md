@@ -3,6 +3,7 @@ layout: post
 title: 'Con la muerte en los talones [Blu-ray] al 45.22 % de descuento'
 date: 2020-11-21 11:04:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51panFna6EL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51panFna6EL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51panFna6EL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 10.99 EUR
 inStock: true
 prodname: 'Con la muerte en los talones [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08KJQXRZ5/?tag=tolees-21'
+descuento: '45.22'
+titulo: 'Con la muerte en los talones [Blu-ray]'
 ---
 
 Está [Con la muerte en los talones [Blu-ray]](https://www.amazon.es/dp/B08KJQXRZ5/?tag=tolees-21) con 45.22 de descuento por 6.02 EUR (original: 10.99 EUR) en el siguiente enlace!
 
 [![Con la muerte en los talones [Blu-ray]](https://m.media-amazon.com/images/I/51panFna6EL._SL200_.jpg)](https://www.amazon.es/dp/B08KJQXRZ5/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08KJQXRZ5/?tag=tolees-21)
 

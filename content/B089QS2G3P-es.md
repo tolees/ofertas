@@ -3,6 +3,7 @@ layout: post
 title: 'adidas VS Switch 3 I  Zapatillas Unisex  al 26.33 % de descuento'
 date: 2020-10-25 18:25:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Xz7bXjPHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Xz7bXjPHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Xz7bXjPHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 28.49 EUR
 inStock: true
 prodname: 'adidas VS Switch 3 I  Zapatillas Unisex Niños  FTWBLA/ROSINT/Tinley  26 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B089QS2G3P/?tag=tolees-21'
+descuento: '26.33'
+titulo: 'adidas VS Switch 3 I  Zapatillas Unisex '
 ---
 
 Está [adidas VS Switch 3 I  Zapatillas Unisex Niños  FTWBLA/ROSINT/Tinley  26 EU](https://www.amazon.es/dp/B089QS2G3P/?tag=tolees-21) con 26.33 de descuento por 20.99 EUR (original: 28.49 EUR) en el siguiente enlace!
 
 [![adidas VS Switch 3 I  Zapatillas Unisex ](https://m.media-amazon.com/images/I/41Xz7bXjPHL._SL200_.jpg)](https://www.amazon.es/dp/B089QS2G3P/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B089QS2G3P/?tag=tolees-21)
 

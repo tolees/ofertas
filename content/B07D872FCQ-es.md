@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.25 % en Munich Massana  Zapatillas de Deporte Ho'
 date: 2020-11-21 15:18:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41jSCgrypZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jSCgrypZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41jSCgrypZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 89.0 EUR
 inStock: true
 prodname: 'Munich Massana  Zapatillas de Deporte Hombre  Negro  Negro 302   45 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D872FCQ/?tag=tolees-21'
+descuento: '50.25'
+titulo: 'Munich Massana  Zapatillas de Deporte Ho'
 ---
 
 Tienes [Munich Massana  Zapatillas de Deporte Hombre  Negro  Negro 302   45 EU](https://www.amazon.es/dp/B07D872FCQ/?tag=tolees-21) con un 50.25 % de descuento con precio de oferta de 44.28 EUR (original: 89.0 EUR) en el siguiente enlace!
 
 [![Munich Massana  Zapatillas de Deporte Ho](https://m.media-amazon.com/images/I/41jSCgrypZL._SL200_.jpg)](https://www.amazon.es/dp/B07D872FCQ/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D872FCQ/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Cybex Gold - Silla de coche Solution S-F al 36.35 % de descuento'
 date: 2020-11-20 16:16:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/31oDBOM8MFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31oDBOM8MFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31oDBOM8MFL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 219.95 EUR
 inStock: true
 prodname: 'Cybex Gold - Silla de coche Solution S-Fix  para coches con y sin Isofix  Grupo 2/3  15-36 kg   Desde los 3 hasta los 12 años aprox.  Negro  Deep Black '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07XP3Y6L4/?tag=tolees-21'
+descuento: '36.35'
+titulo: 'Cybex Gold - Silla de coche Solution S-F'
 ---
 
 Ahora mismo tienes [Cybex Gold - Silla de coche Solution S-Fix  para coches con y sin Isofix  Grupo 2/3  15-36 kg   Desde los 3 hasta los 12 años aprox.  Negro  Deep Black ](https://www.amazon.es/dp/B07XP3Y6L4/?tag=tolees-21) a 139.99 EUR (original: 219.95 EUR) (36.35 %  de descuento) en el siguiente enlace!
 
 [![Cybex Gold - Silla de coche Solution S-F](https://m.media-amazon.com/images/I/31oDBOM8MFL._SL200_.jpg)](https://www.amazon.es/dp/B07XP3Y6L4/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07XP3Y6L4/?tag=tolees-21)
 

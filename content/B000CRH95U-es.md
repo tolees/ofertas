@@ -3,6 +3,7 @@ layout: post
 title: 'Eastpak Orbit Mini Mochila  34 cm  10 L  al 65.00 % de descuento'
 date: 2020-11-16 21:18:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/318ZJbXR+7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/318ZJbXR+7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/318ZJbXR+7L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 45.0 EUR
 inStock: true
 prodname: 'Eastpak Orbit Mini Mochila  34 cm  10 L  Negro  Black   33.5 x 23 x 15 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000CRH95U/?tag=tolees-21'
+descuento: '65.00'
+titulo: 'Eastpak Orbit Mini Mochila  34 cm  10 L '
 ---
 
 Ahora mismo tienes [Eastpak Orbit Mini Mochila  34 cm  10 L  Negro  Black   33.5 x 23 x 15 cm](https://www.amazon.es/dp/B000CRH95U/?tag=tolees-21) a 15.75 EUR (original: 45.0 EUR) (65.00 %  de descuento) en el siguiente enlace!
 
 [![Eastpak Orbit Mini Mochila  34 cm  10 L ](https://m.media-amazon.com/images/I/318ZJbXR+7L._SL200_.jpg)](https://www.amazon.es/dp/B000CRH95U/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B000CRH95U/?tag=tolees-21)
 

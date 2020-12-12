@@ -3,6 +3,7 @@ layout: post
 title: 'ASUS MB169C+ - Monitor portátil  39 6 cm al 29.34 % de descuento'
 date: 2020-12-08 14:42:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/51eTkYWvFdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51eTkYWvFdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51eTkYWvFdL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 259.0 EUR
 inStock: true
 prodname: 'ASUS MB169C+ - Monitor portátil  39 6 cm  15.6"   1920 x 1080 Pixeles  Full HD  5 ms  220 cd / m²  Negro/Gris'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01B6JD88E/?tag=tolees-21'
+descuento: '29.34'
+titulo: 'ASUS MB169C+ - Monitor portátil  39 6 cm'
 ---
 
 Ahora mismo tienes [ASUS MB169C+ - Monitor portátil  39 6 cm  15.6"   1920 x 1080 Pixeles  Full HD  5 ms  220 cd / m²  Negro/Gris](https://www.amazon.es/dp/B01B6JD88E/?tag=tolees-21) a 183.0 EUR (original: 259.0 EUR) (29.34 %  de descuento) en el siguiente enlace!
 
 [![ASUS MB169C+ - Monitor portátil  39 6 cm](https://m.media-amazon.com/images/I/51eTkYWvFdL._SL200_.jpg)](https://www.amazon.es/dp/B01B6JD88E/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B01B6JD88E/?tag=tolees-21)
 

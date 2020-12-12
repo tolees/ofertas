@@ -3,6 +3,7 @@ layout: post
 title: 'Cranio Creations Blackout: Hong Kong - I al 30.28 % de descuento'
 date: 2020-11-20 18:11:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41gjCwW4kCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gjCwW4kCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41gjCwW4kCL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 24.9 EUR
 inStock: true
 prodname: 'Cranio Creations Blackout: Hong Kong - Italian'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07QLXFDLC/?tag=tolees-21'
+descuento: '30.28'
+titulo: 'Cranio Creations Blackout: Hong Kong - I'
 ---
 
 Está [Cranio Creations Blackout: Hong Kong - Italian](https://www.amazon.es/dp/B07QLXFDLC/?tag=tolees-21) con 30.28 de descuento por 17.36 EUR (original: 24.9 EUR) en el siguiente enlace!
 
 [![Cranio Creations Blackout: Hong Kong - I](https://m.media-amazon.com/images/I/41gjCwW4kCL._SL200_.jpg)](https://www.amazon.es/dp/B07QLXFDLC/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07QLXFDLC/?tag=tolees-21)
 

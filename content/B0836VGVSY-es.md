@@ -3,6 +3,7 @@ layout: post
 title: 'Platos Giradiscos de FM Monitora DLITIME al 50.31 % de descuento'
 date: 2020-11-09 12:17:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41YaWljx2kL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YaWljx2kL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41YaWljx2kL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 159.0 EUR
 inStock: true
 prodname: 'Platos Giradiscos de FM Monitora DLITIME Giradiscos Vinilo 3 Speed Record Player con Altavoces Integrados  LP  Bluetooth  USB Vinyl Turntable'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0836VGVSY/?tag=tolees-21'
+descuento: '50.31'
+titulo: 'Platos Giradiscos de FM Monitora DLITIME'
 ---
 
 Ahora mismo tienes [Platos Giradiscos de FM Monitora DLITIME Giradiscos Vinilo 3 Speed Record Player con Altavoces Integrados  LP  Bluetooth  USB Vinyl Turntable](https://www.amazon.es/dp/B0836VGVSY/?tag=tolees-21) a 79.0 EUR (original: 159.0 EUR) (50.31 %  de descuento) en el siguiente enlace!
 
 [![Platos Giradiscos de FM Monitora DLITIME](https://m.media-amazon.com/images/I/41YaWljx2kL._SL200_.jpg)](https://www.amazon.es/dp/B0836VGVSY/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B0836VGVSY/?tag=tolees-21)
 

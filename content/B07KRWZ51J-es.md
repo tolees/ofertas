@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Silver Ridge 2.0 Pantalones de  al 83.48 % de descuento'
 date: 2020-10-28 19:59:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/316rgIDV+ZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/316rgIDV+ZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/316rgIDV+ZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 74.99 EUR
 inStock: true
 prodname: 'Columbia Silver Ridge 2.0 Pantalones de Senderismo Convertibles para Mujer  Gris  Grill   2/R'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KRWZ51J/?tag=tolees-21'
+descuento: '83.48'
+titulo: 'Columbia Silver Ridge 2.0 Pantalones de '
 ---
 
 Está [Columbia Silver Ridge 2.0 Pantalones de Senderismo Convertibles para Mujer  Gris  Grill   2/R](https://www.amazon.es/dp/B07KRWZ51J/?tag=tolees-21) con 83.48 de descuento por 12.39 EUR (original: 74.99 EUR) en el siguiente enlace!
 
 [![Columbia Silver Ridge 2.0 Pantalones de ](https://m.media-amazon.com/images/I/316rgIDV+ZL._SL200_.jpg)](https://www.amazon.es/dp/B07KRWZ51J/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KRWZ51J/?tag=tolees-21)
 

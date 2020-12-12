@@ -3,6 +3,7 @@ layout: post
 title: 'Sanex  Men Active Control Desodorante  R al 25.00 % de descuento'
 date: 2020-11-23 14:13:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41eLFE+-SIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eLFE+-SIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41eLFE+-SIL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 11.4 EUR
 inStock: true
 prodname: 'Sanex  Men Active Control Desodorante  Roll-On - Pack 6 ud x 50 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08J8WZFFM/?tag=tolees-21'
+descuento: '25.00'
+titulo: 'Sanex  Men Active Control Desodorante  R'
 ---
 
 Está [Sanex  Men Active Control Desodorante  Roll-On - Pack 6 ud x 50 ml](https://www.amazon.es/dp/B08J8WZFFM/?tag=tolees-21) con 25.00 de descuento por 8.55 EUR (original: 11.4 EUR) en el siguiente enlace!
 
 [![Sanex  Men Active Control Desodorante  R](https://m.media-amazon.com/images/I/41eLFE+-SIL._SL200_.jpg)](https://www.amazon.es/dp/B08J8WZFFM/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08J8WZFFM/?tag=tolees-21)
 

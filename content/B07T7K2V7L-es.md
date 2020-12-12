@@ -3,6 +3,7 @@ layout: post
 title: 'LG 27GL850-B - Monitor Gaming de 27" QHD al 28.06 % de descuento'
 date: 2020-11-21 11:53:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Pg+9PdkOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Pg+9PdkOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Pg+9PdkOL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 499.0 EUR
 inStock: true
 prodname: 'LG 27GL850-B - Monitor Gaming de 27" QHD  2560×1440  3686k   IPS  16:9  DisplayPort x1  HDMI x1  USB x3    114 Hz  1ms  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07T7K2V7L/?tag=tolees-21'
+descuento: '28.06'
+titulo: 'LG 27GL850-B - Monitor Gaming de 27" QHD'
 ---
 
 Ahora mismo tienes [LG 27GL850-B - Monitor Gaming de 27" QHD  2560×1440  3686k   IPS  16:9  DisplayPort x1  HDMI x1  USB x3    114 Hz  1ms  Negro](https://www.amazon.es/dp/B07T7K2V7L/?tag=tolees-21) a 359.0 EUR (original: 499.0 EUR) (28.06 %  de descuento) en el siguiente enlace!
 
 [![LG 27GL850-B - Monitor Gaming de 27" QHD](https://m.media-amazon.com/images/I/41Pg+9PdkOL._SL200_.jpg)](https://www.amazon.es/dp/B07T7K2V7L/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07T7K2V7L/?tag=tolees-21)
 

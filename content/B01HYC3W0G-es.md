@@ -3,6 +3,7 @@ layout: post
 title: 'GREENCUT GGT650X-2 - Desbrozadora de gas al 27.36 % de descuento'
 date: 2020-10-26 17:12:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/41eCk-jfRGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eCk-jfRGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41eCk-jfRGL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 109.99 EUR
 inStock: true
 prodname: 'GREENCUT GGT650X-2 - Desbrozadora de gasolina de 65cc y 4 9cv 2 en 1 con Potente Disco 3 puntas  cabezal de hilo y Arnés  con Barra Divisible'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HYC3W0G/?tag=tolees-21'
+descuento: '27.36'
+titulo: 'GREENCUT GGT650X-2 - Desbrozadora de gas'
 ---
 
 Está [GREENCUT GGT650X-2 - Desbrozadora de gasolina de 65cc y 4 9cv 2 en 1 con Potente Disco 3 puntas  cabezal de hilo y Arnés  con Barra Divisible](https://www.amazon.es/dp/B01HYC3W0G/?tag=tolees-21) con 27.36 de descuento por 79.9 EUR (original: 109.99 EUR) en el siguiente enlace!
 
 [![GREENCUT GGT650X-2 - Desbrozadora de gas](https://m.media-amazon.com/images/I/41eCk-jfRGL._SL200_.jpg)](https://www.amazon.es/dp/B01HYC3W0G/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01HYC3W0G/?tag=tolees-21)
 

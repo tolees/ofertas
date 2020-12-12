@@ -3,6 +3,7 @@ layout: post
 title: 'Coolife - Maleta rígida con ruedas y cie al 29.35 % de descuento'
 date: 2020-11-18 22:32:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/4144umajwsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4144umajwsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4144umajwsL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 105.26 EUR
 inStock: true
 prodname: 'Coolife - Maleta rígida con ruedas y cierre TSA  4 ruedas  Blanco Blanco Koffer-Set'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07V6W3DX6/?tag=tolees-21'
+descuento: '29.35'
+titulo: 'Coolife - Maleta rígida con ruedas y cie'
 ---
 
 Está [Coolife - Maleta rígida con ruedas y cierre TSA  4 ruedas  Blanco Blanco Koffer-Set](https://www.amazon.es/dp/B07V6W3DX6/?tag=tolees-21) con 29.35 de descuento por 74.37 EUR (original: 105.26 EUR) en el siguiente enlace!
 
 [![Coolife - Maleta rígida con ruedas y cie](https://m.media-amazon.com/images/I/4144umajwsL._SL200_.jpg)](https://www.amazon.es/dp/B07V6W3DX6/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07V6W3DX6/?tag=tolees-21)
 

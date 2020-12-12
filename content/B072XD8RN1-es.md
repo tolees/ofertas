@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.10 % en Ginebra premium Ampersand Ginebra sabor '
 date: 2020-11-26 17:57:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/31xIC5JSMML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31xIC5JSMML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31xIC5JSMML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 14.95 EUR
 inStock: true
 prodname: 'Ginebra premium Ampersand Ginebra sabor Fresa 37.5º 70 cl'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072XD8RN1/?tag=tolees-21'
+descuento: '29.10'
+titulo: 'Ginebra premium Ampersand Ginebra sabor '
 ---
 
 Tienes [Ginebra premium Ampersand Ginebra sabor Fresa 37.5º 70 cl](https://www.amazon.es/dp/B072XD8RN1/?tag=tolees-21) con un 29.10 % de descuento con precio de oferta de 10.6 EUR (original: 14.95 EUR) en el siguiente enlace!
 
 [![Ginebra premium Ampersand Ginebra sabor ](https://m.media-amazon.com/images/I/31xIC5JSMML._SL200_.jpg)](https://www.amazon.es/dp/B072XD8RN1/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B072XD8RN1/?tag=tolees-21)
 

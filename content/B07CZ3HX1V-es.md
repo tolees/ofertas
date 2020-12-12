@@ -3,6 +3,7 @@ layout: post
 title: 'PUMA ICRA Trainer SD  Zapatillas Unisex  al 46.07 % de descuento'
 date: 2020-11-27 21:42:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41catJUTltL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41catJUTltL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41catJUTltL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'PUMA ICRA Trainer SD  Zapatillas Unisex Adulto  Azul  Peacoat White   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZ3HX1V/?tag=tolees-21'
+descuento: '46.07'
+titulo: 'PUMA ICRA Trainer SD  Zapatillas Unisex '
 ---
 
 Ahora mismo tienes [PUMA ICRA Trainer SD  Zapatillas Unisex Adulto  Azul  Peacoat White   37 EU](https://www.amazon.es/dp/B07CZ3HX1V/?tag=tolees-21) a 26.94 EUR (original: 49.95 EUR) (46.07 %  de descuento) en el siguiente enlace!
 
 [![PUMA ICRA Trainer SD  Zapatillas Unisex ](https://m.media-amazon.com/images/I/41catJUTltL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ3HX1V/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07CZ3HX1V/?tag=tolees-21)
 

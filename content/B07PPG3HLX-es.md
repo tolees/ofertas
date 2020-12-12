@@ -3,6 +3,7 @@ layout: post
 title: 'GizmoVine CamióN De FriccióN con Tractor al 31.44 % de descuento'
 date: 2020-12-08 09:08:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Psrunvd6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Psrunvd6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Psrunvd6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'GizmoVine CamióN De FriccióN con Tractor De Excavadora 2 Piezas Juguete De ConstruccióN Push and Go para NiñOs Y NiñAs con Luces Y Sonidos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PPG3HLX/?tag=tolees-21'
+descuento: '31.44'
+titulo: 'GizmoVine CamióN De FriccióN con Tractor'
 ---
 
 Está [GizmoVine CamióN De FriccióN con Tractor De Excavadora 2 Piezas Juguete De ConstruccióN Push and Go para NiñOs Y NiñAs con Luces Y Sonidos](https://www.amazon.es/dp/B07PPG3HLX/?tag=tolees-21) con 31.44 de descuento por 23.99 EUR (original: 34.99 EUR) en el siguiente enlace!
 
 [![GizmoVine CamióN De FriccióN con Tractor](https://m.media-amazon.com/images/I/51Psrunvd6L._SL200_.jpg)](https://www.amazon.es/dp/B07PPG3HLX/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07PPG3HLX/?tag=tolees-21)
 

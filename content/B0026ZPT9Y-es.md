@@ -3,6 +3,7 @@ layout: post
 title: 'Melissa & Doug- Tiger Giant Leones y Otr al 32.50 % de descuento'
 date: 2020-11-22 07:35:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/41NV4HH0JlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NV4HH0JlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41NV4HH0JlL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'Melissa & Doug- Tiger Giant Leones y Otros felinos Grandes Juguete de Pluche  Multicolor  Melissa&Doug 12103    color/modelo surtido'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0026ZPT9Y/?tag=tolees-21'
+descuento: '32.50'
+titulo: 'Melissa & Doug- Tiger Giant Leones y Otr'
 ---
 
 Ahora mismo tienes [Melissa & Doug- Tiger Giant Leones y Otros felinos Grandes Juguete de Pluche  Multicolor  Melissa&Doug 12103    color/modelo surtido](https://www.amazon.es/dp/B0026ZPT9Y/?tag=tolees-21) a 53.99 EUR (original: 79.99 EUR) (32.50 %  de descuento) en el siguiente enlace!
 
 [![Melissa & Doug- Tiger Giant Leones y Otr](https://m.media-amazon.com/images/I/41NV4HH0JlL._SL200_.jpg)](https://www.amazon.es/dp/B0026ZPT9Y/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B0026ZPT9Y/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Dim Soutien-Gorge Bandeau Sans Armatures al 60.17 % de descuento'
 date: 2020-11-12 09:09:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/41tb4WmJyHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tb4WmJyHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41tb4WmJyHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 34.9 EUR
 inStock: true
 prodname: 'Dim Soutien-Gorge Bandeau Sans Armatures INVISIFIFREE Sujetador sin Aros  Noir  Noir 0hz   85C para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N8K3BB1/?tag=tolees-21'
+descuento: '60.17'
+titulo: 'Dim Soutien-Gorge Bandeau Sans Armatures'
 ---
 
 Está [Dim Soutien-Gorge Bandeau Sans Armatures INVISIFIFREE Sujetador sin Aros  Noir  Noir 0hz   85C para Mujer](https://www.amazon.es/dp/B07N8K3BB1/?tag=tolees-21) con 60.17 de descuento por 13.9 EUR (original: 34.9 EUR) en el siguiente enlace!
 
 [![Dim Soutien-Gorge Bandeau Sans Armatures](https://m.media-amazon.com/images/I/41tb4WmJyHL._SL200_.jpg)](https://www.amazon.es/dp/B07N8K3BB1/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07N8K3BB1/?tag=tolees-21)
 

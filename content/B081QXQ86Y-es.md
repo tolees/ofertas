@@ -3,6 +3,7 @@ layout: post
 title: 'Razer Viper Ultimate - Ratón Gaming Ambi al 33.34 % de descuento'
 date: 2020-12-08 19:50:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/21t1F+8gqSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21t1F+8gqSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21t1F+8gqSL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 149.99 EUR
 inStock: true
 prodname: 'Razer Viper Ultimate - Ratón Gaming Ambidiestro  ligero y rápido  Sensor Óptico 20.000 Dpi  Tecnología Inalámbrica HyperSpeed  RGB Chroma  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B081QXQ86Y/?tag=tolees-21'
+descuento: '33.34'
+titulo: 'Razer Viper Ultimate - Ratón Gaming Ambi'
 ---
 
 Ahora mismo tienes [Razer Viper Ultimate - Ratón Gaming Ambidiestro  ligero y rápido  Sensor Óptico 20.000 Dpi  Tecnología Inalámbrica HyperSpeed  RGB Chroma  Negro](https://www.amazon.es/dp/B081QXQ86Y/?tag=tolees-21) a 99.99 EUR (original: 149.99 EUR) (33.34 %  de descuento) en el siguiente enlace!
 
 [![Razer Viper Ultimate - Ratón Gaming Ambi](https://m.media-amazon.com/images/I/21t1F+8gqSL._SL200_.jpg)](https://www.amazon.es/dp/B081QXQ86Y/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B081QXQ86Y/?tag=tolees-21)
 

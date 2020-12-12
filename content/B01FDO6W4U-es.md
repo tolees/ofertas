@@ -3,6 +3,7 @@ layout: post
 title: 'Gillette Body Recambios - 2 Unidades al 35.41 % de descuento'
 date: 2020-11-30 13:39:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/51BCxis573L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51BCxis573L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51BCxis573L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 8.5 EUR
 inStock: true
 prodname: 'Gillette Body Recambios - 2 Unidades'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01FDO6W4U/?tag=tolees-21'
+descuento: '35.41'
+titulo: 'Gillette Body Recambios - 2 Unidades'
 ---
 
 Ahora mismo tienes [Gillette Body Recambios - 2 Unidades](https://www.amazon.es/dp/B01FDO6W4U/?tag=tolees-21) a 5.49 EUR (original: 8.5 EUR) (35.41 %  de descuento) en el siguiente enlace!
 
 [![Gillette Body Recambios - 2 Unidades](https://m.media-amazon.com/images/I/51BCxis573L._SL200_.jpg)](https://www.amazon.es/dp/B01FDO6W4U/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B01FDO6W4U/?tag=tolees-21)
 

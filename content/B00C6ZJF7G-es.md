@@ -3,6 +3,7 @@ layout: post
 title: 'APLI Kids 12916 - Pizarra blanca rígida  al 61.51 % de descuento'
 date: 2020-10-19 07:25:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/51oGS4gnifL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51oGS4gnifL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51oGS4gnifL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 6.21 EUR
 inStock: true
 prodname: 'APLI Kids 12916 - Pizarra blanca rígida con borrador y rotuladores  0 3 x 0 22 m'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00C6ZJF7G/?tag=tolees-21'
+descuento: '61.51'
+titulo: 'APLI Kids 12916 - Pizarra blanca rígida '
 ---
 
 Está [APLI Kids 12916 - Pizarra blanca rígida con borrador y rotuladores  0 3 x 0 22 m](https://www.amazon.es/dp/B00C6ZJF7G/?tag=tolees-21) con 61.51 de descuento por 2.39 EUR (original: 6.21 EUR) en el siguiente enlace!
 
 [![APLI Kids 12916 - Pizarra blanca rígida ](https://m.media-amazon.com/images/I/51oGS4gnifL._SL200_.jpg)](https://www.amazon.es/dp/B00C6ZJF7G/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00C6ZJF7G/?tag=tolees-21)
 

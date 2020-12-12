@@ -3,6 +3,7 @@ layout: post
 title: 'Woxter Rock n Roller - Altavoz trolley c al 31.25 % de descuento'
 date: 2020-11-17 10:36:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Mhk6ptDAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Mhk6ptDAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Mhk6ptDAL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 144.0 EUR
 inStock: true
 prodname: 'Woxter Rock n Roller - Altavoz trolley con función karaoke  Potencia de 80W  Display Led  Bluetooth  Lector SD/USB  AUX  Prioridad Mic  Mando a distancia  Batería de alta capacidad y 2 micrófonos inalámbricos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GYHDXJC/?tag=tolees-21'
+descuento: '31.25'
+titulo: 'Woxter Rock n Roller - Altavoz trolley c'
 ---
 
 Está [Woxter Rock n Roller - Altavoz trolley con función karaoke  Potencia de 80W  Display Led  Bluetooth  Lector SD/USB  AUX  Prioridad Mic  Mando a distancia  Batería de alta capacidad y 2 micrófonos inalámbricos](https://www.amazon.es/dp/B01GYHDXJC/?tag=tolees-21) con 31.25 de descuento por 99.0 EUR (original: 144.0 EUR) en el siguiente enlace!
 
 [![Woxter Rock n Roller - Altavoz trolley c](https://m.media-amazon.com/images/I/41Mhk6ptDAL._SL200_.jpg)](https://www.amazon.es/dp/B01GYHDXJC/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01GYHDXJC/?tag=tolees-21)
 

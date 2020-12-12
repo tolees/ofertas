@@ -3,6 +3,7 @@ layout: post
 title: 'Tiger Items Escobillero Cuadriculado  Mo al 45.52 % de descuento'
 date: 2020-12-04 20:11:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/21bJ5bzuKrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21bJ5bzuKrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21bJ5bzuKrL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 73.4 EUR
 inStock: true
 prodname: 'Tiger Items Escobillero Cuadriculado  Montaje en Pared  8.4 x 11 x 40 cm  Metal  Cromo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B008CAX27I/?tag=tolees-21'
+descuento: '45.52'
+titulo: 'Tiger Items Escobillero Cuadriculado  Mo'
 ---
 
 Ahora mismo tienes [Tiger Items Escobillero Cuadriculado  Montaje en Pared  8.4 x 11 x 40 cm  Metal  Cromo](https://www.amazon.es/dp/B008CAX27I/?tag=tolees-21) a 39.99 EUR (original: 73.4 EUR) (45.52 %  de descuento) en el siguiente enlace!
 
 [![Tiger Items Escobillero Cuadriculado  Mo](https://m.media-amazon.com/images/I/21bJ5bzuKrL._SL200_.jpg)](https://www.amazon.es/dp/B008CAX27I/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B008CAX27I/?tag=tolees-21)
 

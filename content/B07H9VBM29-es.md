@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.45 % en SanDisk Extreme PRO - Tarjeta de memoria'
 date: 2020-11-24 06:25:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/51-aPXB6daL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51-aPXB6daL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51-aPXB6daL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 292.92 EUR
 inStock: true
 prodname: 'SanDisk Extreme PRO - Tarjeta de memoria SDXC de 512 GB  hasta 170 MB/s  Class 10  U3 y V30'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H9VBM29/?tag=tolees-21'
+descuento: '62.45'
+titulo: 'SanDisk Extreme PRO - Tarjeta de memoria'
 ---
 
 Tienes [SanDisk Extreme PRO - Tarjeta de memoria SDXC de 512 GB  hasta 170 MB/s  Class 10  U3 y V30](https://www.amazon.es/dp/B07H9VBM29/?tag=tolees-21) con un 62.45 % de descuento con precio de oferta de 109.98 EUR (original: 292.92 EUR) en el siguiente enlace!
 
 [![SanDisk Extreme PRO - Tarjeta de memoria](https://m.media-amazon.com/images/I/51-aPXB6daL._SL200_.jpg)](https://www.amazon.es/dp/B07H9VBM29/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07H9VBM29/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Vans Filmore Suede/Canvas  Sneaker Hombr al 34.59 % de descuento'
 date: 2020-11-27 09:32:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/414nfNITW2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414nfNITW2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/414nfNITW2L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 56.58 EUR
 inStock: true
 prodname: 'Vans Filmore Suede/Canvas  Sneaker Hombre  Retro Sport Dress Blues Chili Pepper  44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B087S3LPP1/?tag=tolees-21'
+descuento: '34.59'
+titulo: 'Vans Filmore Suede/Canvas  Sneaker Hombr'
 ---
 
 Está [Vans Filmore Suede/Canvas  Sneaker Hombre  Retro Sport Dress Blues Chili Pepper  44 EU](https://www.amazon.es/dp/B087S3LPP1/?tag=tolees-21) con 34.59 de descuento por 37.01 EUR (original: 56.58 EUR) en el siguiente enlace!
 
 [![Vans Filmore Suede/Canvas  Sneaker Hombr](https://m.media-amazon.com/images/I/414nfNITW2L._SL200_.jpg)](https://www.amazon.es/dp/B087S3LPP1/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B087S3LPP1/?tag=tolees-21)
 

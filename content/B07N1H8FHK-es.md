@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Orinoco Dusk  Botas Estilo Motero al 46.92 % de descuento'
 date: 2020-12-11 07:45:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41r9eDpIreL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41r9eDpIreL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41r9eDpIreL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 120.0 EUR
 inStock: true
 prodname: 'Clarks Orinoco Dusk  Botas Estilo Motero Mujer  Marrón  Tan Leather Tan Leather   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N1H8FHK/?tag=tolees-21'
+descuento: '46.92'
+titulo: 'Clarks Orinoco Dusk  Botas Estilo Motero'
 ---
 
 Está [Clarks Orinoco Dusk  Botas Estilo Motero Mujer  Marrón  Tan Leather Tan Leather   38 EU](https://www.amazon.es/dp/B07N1H8FHK/?tag=tolees-21) con 46.92 de descuento por 63.7 EUR (original: 120.0 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'SportPlus Trampolín Fitness con Mango Re al 37.08 % de descuento'
 date: 2020-11-24 13:48:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/41yJYlQIEuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yJYlQIEuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41yJYlQIEuL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 87.26 EUR
 inStock: true
 prodname: 'SportPlus Trampolín Fitness con Mango Regulable – Cama Elástica para Adultos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N8W1WI4/?tag=tolees-21'
+descuento: '37.08'
+titulo: 'SportPlus Trampolín Fitness con Mango Re'
 ---
 
 Ahora mismo tienes [SportPlus Trampolín Fitness con Mango Regulable – Cama Elástica para Adultos](https://www.amazon.es/dp/B01N8W1WI4/?tag=tolees-21) a 54.9 EUR (original: 87.26 EUR) (37.08 %  de descuento) en el siguiente enlace!
 
 [![SportPlus Trampolín Fitness con Mango Re](https://m.media-amazon.com/images/I/41yJYlQIEuL._SL200_.jpg)](https://www.amazon.es/dp/B01N8W1WI4/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B01N8W1WI4/?tag=tolees-21)
 

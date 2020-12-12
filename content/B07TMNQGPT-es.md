@@ -3,6 +3,7 @@ layout: post
 title: 'Superdry Classic SUPERSTATE S/S Polo  Bl al 25.01 % de descuento'
 date: 2020-11-20 10:57:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/31vqMQzmidL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31vqMQzmidL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31vqMQzmidL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 30.99 EUR
 inStock: true
 prodname: 'Superdry Classic SUPERSTATE S/S Polo  Blanco  Optic 01c   Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07TMNQGPT/?tag=tolees-21'
+descuento: '25.01'
+titulo: 'Superdry Classic SUPERSTATE S/S Polo  Bl'
 ---
 
 Está [Superdry Classic SUPERSTATE S/S Polo  Blanco  Optic 01c   Large para Hombre](https://www.amazon.es/dp/B07TMNQGPT/?tag=tolees-21) con 25.01 de descuento por 23.24 EUR (original: 30.99 EUR) en el siguiente enlace!
 
 [![Superdry Classic SUPERSTATE S/S Polo  Bl](https://m.media-amazon.com/images/I/31vqMQzmidL._SL200_.jpg)](https://www.amazon.es/dp/B07TMNQGPT/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TMNQGPT/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Superga 2750-cot3strapu  Zapatillas de G al 52.49 % de descuento'
 date: 2020-10-29 10:54:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/31oSLrQxOxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31oSLrQxOxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31oSLrQxOxL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 59.0 EUR
 inStock: true
 prodname: 'Superga 2750-cot3strapu  Zapatillas de Gimnasia Unisex Adulto  Negro  Black 999   39.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07TYQFRLH/?tag=tolees-21'
+descuento: '52.49'
+titulo: 'Superga 2750-cot3strapu  Zapatillas de G'
 ---
 
 Está [Superga 2750-cot3strapu  Zapatillas de Gimnasia Unisex Adulto  Negro  Black 999   39.5 EU](https://www.amazon.es/dp/B07TYQFRLH/?tag=tolees-21) con 52.49 de descuento por 28.03 EUR (original: 59.0 EUR) en el siguiente enlace!
 
 [![Superga 2750-cot3strapu  Zapatillas de G](https://m.media-amazon.com/images/I/31oSLrQxOxL._SL200_.jpg)](https://www.amazon.es/dp/B07TYQFRLH/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TYQFRLH/?tag=tolees-21)
 

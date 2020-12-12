@@ -3,6 +3,7 @@ layout: post
 title: 'MTNG Attitude 69635  Zapatillas para Muj al 34.90 % de descuento'
 date: 2020-11-10 09:38:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/41F9Efy+LmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41F9Efy+LmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41F9Efy+LmL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 45.99 EUR
 inStock: true
 prodname: 'MTNG Attitude 69635  Zapatillas para Mujer  Multicolor  Guepardo Piedra/Negro C47421   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07QB3XMK4/?tag=tolees-21'
+descuento: '34.90'
+titulo: 'MTNG Attitude 69635  Zapatillas para Muj'
 ---
 
 Ahora mismo tienes [MTNG Attitude 69635  Zapatillas para Mujer  Multicolor  Guepardo Piedra/Negro C47421   39 EU](https://www.amazon.es/dp/B07QB3XMK4/?tag=tolees-21) a 29.94 EUR (original: 45.99 EUR) (34.90 %  de descuento) en el siguiente enlace!
 
 [![MTNG Attitude 69635  Zapatillas para Muj](https://m.media-amazon.com/images/I/41F9Efy+LmL._SL200_.jpg)](https://www.amazon.es/dp/B07QB3XMK4/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07QB3XMK4/?tag=tolees-21)
 

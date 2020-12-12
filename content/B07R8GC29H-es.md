@@ -3,6 +3,7 @@ layout: post
 title: 'CARE OF by PUMA Zapatillas bajas informa al 27.43 % de descuento'
 date: 2020-10-20 10:53:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/31424VuyJEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31424VuyJEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31424VuyJEL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 17.79 EUR
 inStock: true
 prodname: 'CARE OF by PUMA Zapatillas bajas informales en cuero para hombre  Blanco  39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07R8GC29H/?tag=tolees-21'
+descuento: '27.43'
+titulo: 'CARE OF by PUMA Zapatillas bajas informa'
 ---
 
 Ahora mismo tienes [CARE OF by PUMA Zapatillas bajas informales en cuero para hombre  Blanco  39 EU](https://www.amazon.es/dp/B07R8GC29H/?tag=tolees-21) a 12.91 EUR (original: 17.79 EUR) (27.43 %  de descuento) en el siguiente enlace!
 
 [![CARE OF by PUMA Zapatillas bajas informa](https://m.media-amazon.com/images/I/31424VuyJEL._SL200_.jpg)](https://www.amazon.es/dp/B07R8GC29H/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07R8GC29H/?tag=tolees-21)
 

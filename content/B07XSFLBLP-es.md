@@ -3,6 +3,7 @@ layout: post
 title: 'Ufesa CE7255 Cafetera Expresso y Capucci al 41.34 % de descuento'
 date: 2020-11-20 16:15:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41pFauWLnwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pFauWLnwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41pFauWLnwL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 149.99 EUR
 inStock: true
 prodname: 'Ufesa CE7255 Cafetera Expresso y Capuccino con Panel Táctil Digital  Vaporizador Orientable  20  2 Modos: Café Molido o Monodosis  Filtros Bar Cream  Función Calienta Tazas  850 W'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07XSFLBLP/?tag=tolees-21'
+descuento: '41.34'
+titulo: 'Ufesa CE7255 Cafetera Expresso y Capucci'
 ---
 
 Está [Ufesa CE7255 Cafetera Expresso y Capuccino con Panel Táctil Digital  Vaporizador Orientable  20  2 Modos: Café Molido o Monodosis  Filtros Bar Cream  Función Calienta Tazas  850 W](https://www.amazon.es/dp/B07XSFLBLP/?tag=tolees-21) con 41.34 de descuento por 87.99 EUR (original: 149.99 EUR) en el siguiente enlace!
 
 [![Ufesa CE7255 Cafetera Expresso y Capucci](https://m.media-amazon.com/images/I/41pFauWLnwL._SL200_.jpg)](https://www.amazon.es/dp/B07XSFLBLP/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07XSFLBLP/?tag=tolees-21)
 

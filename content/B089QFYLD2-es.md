@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Lite Racer CLN  Zapatillas Hombre al 25.62 % de descuento'
 date: 2020-12-08 12:22:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/41pCaAbeblL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pCaAbeblL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41pCaAbeblL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 40.99 EUR
 inStock: true
 prodname: 'adidas Lite Racer CLN  Zapatillas Hombre  Ftwbla Ftwbla Negbás  42 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B089QFYLD2/?tag=tolees-21'
+descuento: '25.62'
+titulo: 'adidas Lite Racer CLN  Zapatillas Hombre'
 ---
 
 Está [adidas Lite Racer CLN  Zapatillas Hombre  Ftwbla Ftwbla Negbás  42 2/3 EU](https://www.amazon.es/dp/B089QFYLD2/?tag=tolees-21) con 25.62 de descuento por 30.49 EUR (original: 40.99 EUR) en el siguiente enlace!
 
 [![adidas Lite Racer CLN  Zapatillas Hombre](https://m.media-amazon.com/images/I/41pCaAbeblL._SL200_.jpg)](https://www.amazon.es/dp/B089QFYLD2/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B089QFYLD2/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Taste Of The Wild Alimentacion Humeda co al 30.01 % de descuento'
 date: 2020-11-23 16:33:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/51lTa4oSkuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51lTa4oSkuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51lTa4oSkuL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 27.99 EUR
 inStock: true
 prodname: 'Taste Of The Wild Alimentacion Humeda con Salmon pack de 12 x390 gr Pacific Stream'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078H4FLT1/?tag=tolees-21'
+descuento: '30.01'
+titulo: 'Taste Of The Wild Alimentacion Humeda co'
 ---
 
 Ahora mismo tienes [Taste Of The Wild Alimentacion Humeda con Salmon pack de 12 x390 gr Pacific Stream](https://www.amazon.es/dp/B078H4FLT1/?tag=tolees-21) a 19.59 EUR (original: 27.99 EUR) (30.01 %  de descuento) en el siguiente enlace!
 
 [![Taste Of The Wild Alimentacion Humeda co](https://m.media-amazon.com/images/I/51lTa4oSkuL._SL200_.jpg)](https://www.amazon.es/dp/B078H4FLT1/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B078H4FLT1/?tag=tolees-21)
 

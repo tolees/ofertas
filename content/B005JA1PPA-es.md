@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.67 % en Avène Eau Thermale Spring Water Crema - '
 date: 2020-12-05 21:31:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/31-+uY+kstL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31-+uY+kstL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31-+uY+kstL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 6.0 EUR
 inStock: true
 prodname: 'Avène Eau Thermale Spring Water Crema - 50 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005JA1PPA/?tag=tolees-21'
+descuento: '48.67'
+titulo: 'Avène Eau Thermale Spring Water Crema - '
 ---
 
 Tienes [Avène Eau Thermale Spring Water Crema - 50 ml](https://www.amazon.es/dp/B005JA1PPA/?tag=tolees-21) con un 48.67 % de descuento con precio de oferta de 3.08 EUR (original: 6.0 EUR) en el siguiente enlace!
 
 [![Avène Eau Thermale Spring Water Crema - ](https://m.media-amazon.com/images/I/31-+uY+kstL._SL200_.jpg)](https://www.amazon.es/dp/B005JA1PPA/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B005JA1PPA/?tag=tolees-21)
 

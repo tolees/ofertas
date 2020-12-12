@@ -3,6 +3,7 @@ layout: post
 title: 'Bresser Profesional Centro METEOROLÓGICO al 27.75 % de descuento'
 date: 2020-11-24 09:02:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41D6UKMPVJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41D6UKMPVJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41D6UKMPVJL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 145.24 EUR
 inStock: true
 prodname: 'Bresser Profesional Centro METEOROLÓGICO Color 5-EN-1 Sensor-P  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JMVG1WC/?tag=tolees-21'
+descuento: '27.75'
+titulo: 'Bresser Profesional Centro METEOROLÓGICO'
 ---
 
 Ahora mismo tienes [Bresser Profesional Centro METEOROLÓGICO Color 5-EN-1 Sensor-P  Negro](https://www.amazon.es/dp/B07JMVG1WC/?tag=tolees-21) a 104.94 EUR (original: 145.24 EUR) (27.75 %  de descuento) en el siguiente enlace!
 
 [![Bresser Profesional Centro METEOROLÓGICO](https://m.media-amazon.com/images/I/41D6UKMPVJL._SL200_.jpg)](https://www.amazon.es/dp/B07JMVG1WC/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07JMVG1WC/?tag=tolees-21)
 

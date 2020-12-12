@@ -3,6 +3,7 @@ layout: post
 title: 'W7 Spaced Out Galactic Glimmers Eye Cont al 49.92 % de descuento'
 date: 2020-12-11 09:14:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51hGYGlVzxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51hGYGlVzxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51hGYGlVzxL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 5.95 EUR
 inStock: true
 prodname: 'W7 Spaced Out Galactic Glimmers Eye Contour Palette  3.5 oz  12 piezas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B7VTMKH/?tag=tolees-21'
+descuento: '49.92'
+titulo: 'W7 Spaced Out Galactic Glimmers Eye Cont'
 ---
 
 Ahora mismo tienes [W7 Spaced Out Galactic Glimmers Eye Contour Palette  3.5 oz  12 piezas](https://www.amazon.es/dp/B07B7VTMKH/?tag=tolees-21) a 2.98 EUR (original: 5.95 EUR) (49.92 %  de descuento) en el siguiente enlace!
@@ -24,9 +28,9 @@ Ahora mismo tienes [W7 Spaced Out Galactic Glimmers Eye Contour Palette  3.5 oz 
 
 Características:
 
-- 12 piezas
-- Marca: W7 (W Siete)
 - Paleta de sombra de ojos Galactic On-Trend
+- Marca: W7 (W Siete)
+- 12 piezas
 
 [Visítala!!!](https://www.amazon.es/dp/B07B7VTMKH/?tag=tolees-21)
 

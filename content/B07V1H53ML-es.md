@@ -3,6 +3,7 @@ layout: post
 title: 'Jack & Jones Jjehill Knit Crew Neck Noos al 50.01 % de descuento'
 date: 2020-12-07 18:22:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/41THam2B74L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41THam2B74L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41THam2B74L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Jack & Jones Jjehill Knit Crew Neck Noos suéter  Marfil  Oatmealmelange   Medium para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07V1H53ML/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'Jack & Jones Jjehill Knit Crew Neck Noos'
 ---
 
 Está [Jack & Jones Jjehill Knit Crew Neck Noos suéter  Marfil  Oatmealmelange   Medium para Hombre](https://www.amazon.es/dp/B07V1H53ML/?tag=tolees-21) con 50.01 de descuento por 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![Jack & Jones Jjehill Knit Crew Neck Noos](https://m.media-amazon.com/images/I/41THam2B74L._SL200_.jpg)](https://www.amazon.es/dp/B07V1H53ML/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07V1H53ML/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.20 % en Arcos 784901 - Tijeras de cocina  195 mm'
 date: 2020-11-06 15:37:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/310+hg+XIxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/310+hg+XIxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/310+hg+XIxL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 6.95 EUR
 inStock: true
 prodname: 'Arcos 784901 - Tijeras de cocina  195 mm  blister '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005LR76KY/?tag=tolees-21'
+descuento: '28.20'
+titulo: 'Arcos 784901 - Tijeras de cocina  195 mm'
 ---
 
 Tienes [Arcos 784901 - Tijeras de cocina  195 mm  blister ](https://www.amazon.es/dp/B005LR76KY/?tag=tolees-21) con un 28.20 % de descuento con precio de oferta de 4.99 EUR (original: 6.95 EUR) en el siguiente enlace!
 
 [![Arcos 784901 - Tijeras de cocina  195 mm](https://m.media-amazon.com/images/I/310+hg+XIxL._SL200_.jpg)](https://www.amazon.es/dp/B005LR76KY/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B005LR76KY/?tag=tolees-21)
 

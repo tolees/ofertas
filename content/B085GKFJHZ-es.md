@@ -3,6 +3,7 @@ layout: post
 title: 'STARLASH Sérum Crece Pestañas 4ml - Trat al 30.00 % de descuento'
 date: 2020-11-09 03:02:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Nu8BsHw5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Nu8BsHw5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Nu8BsHw5L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 19.9 EUR
 inStock: true
 prodname: 'STARLASH Sérum Crece Pestañas 4ml - Tratamiento potenciador para pestañas más largas  densas y voluminosas - Alargador y Fortalecedor de Pestañas y Cejas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B085GKFJHZ/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'STARLASH Sérum Crece Pestañas 4ml - Trat'
 ---
 
 Está [STARLASH Sérum Crece Pestañas 4ml - Tratamiento potenciador para pestañas más largas  densas y voluminosas - Alargador y Fortalecedor de Pestañas y Cejas](https://www.amazon.es/dp/B085GKFJHZ/?tag=tolees-21) con 30.00 de descuento por 13.93 EUR (original: 19.9 EUR) en el siguiente enlace!
 
 [![STARLASH Sérum Crece Pestañas 4ml - Trat](https://m.media-amazon.com/images/I/41Nu8BsHw5L._SL200_.jpg)](https://www.amazon.es/dp/B085GKFJHZ/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B085GKFJHZ/?tag=tolees-21)
 

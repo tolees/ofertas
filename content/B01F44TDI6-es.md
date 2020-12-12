@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.38 % en TP-Link TL-WPA8630P 2 PLC - KIT Repetido'
 date: 2020-12-05 07:58:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41F3yTDxE7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41F3yTDxE7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41F3yTDxE7L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 154.9 EUR
 inStock: true
 prodname: 'TP-Link TL-WPA8630P 2 PLC - KIT Repetidor de WiFi  WiFi AC1200 Mbps  Extensor  Repetidores de Red  Amplificador de wifi  3 Puertos  Enchufe  ideal Smart TV  Ps4  Nintendo Switch '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01F44TDI6/?tag=tolees-21'
+descuento: '28.38'
+titulo: 'TP-Link TL-WPA8630P 2 PLC - KIT Repetido'
 ---
 
 Tienes [TP-Link TL-WPA8630P 2 PLC - KIT Repetidor de WiFi  WiFi AC1200 Mbps  Extensor  Repetidores de Red  Amplificador de wifi  3 Puertos  Enchufe  ideal Smart TV  Ps4  Nintendo Switch ](https://www.amazon.es/dp/B01F44TDI6/?tag=tolees-21) con un 28.38 % de descuento con precio de oferta de 110.94 EUR (original: 154.9 EUR) en el siguiente enlace!
 
 [![TP-Link TL-WPA8630P 2 PLC - KIT Repetido](https://m.media-amazon.com/images/I/41F3yTDxE7L._SL200_.jpg)](https://www.amazon.es/dp/B01F44TDI6/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01F44TDI6/?tag=tolees-21)
 

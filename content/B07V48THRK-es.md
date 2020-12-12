@@ -3,6 +3,7 @@ layout: post
 title: 'Marca Amazon - Lifelong - Mini Palitos - al 40.04 % de descuento'
 date: 2020-11-04 19:29:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/41umtYAHPmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41umtYAHPmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41umtYAHPmL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 9.99 EUR
 inStock: true
 prodname: 'Marca Amazon - Lifelong - Mini Palitos - 100g*8'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07V48THRK/?tag=tolees-21'
+descuento: '40.04'
+titulo: 'Marca Amazon - Lifelong - Mini Palitos -'
 ---
 
 Está [Marca Amazon - Lifelong - Mini Palitos - 100g*8](https://www.amazon.es/dp/B07V48THRK/?tag=tolees-21) con 40.04 de descuento por 5.99 EUR (original: 9.99 EUR) en el siguiente enlace!
 
 [![Marca Amazon - Lifelong - Mini Palitos -](https://m.media-amazon.com/images/I/41umtYAHPmL._SL200_.jpg)](https://www.amazon.es/dp/B07V48THRK/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07V48THRK/?tag=tolees-21)
 

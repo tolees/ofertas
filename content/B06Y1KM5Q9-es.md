@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.46 % en Moleskine - Bolsa para Dispositivos Elec'
 date: 2020-11-18 19:31:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/31xLd4WjMJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31xLd4WjMJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31xLd4WjMJL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.0 EUR
 inStock: true
 prodname: 'Moleskine - Bolsa para Dispositivos Electrónicos  Ordenador Portátil  Tablet  iPad de hasta 15 4"  Tamaño 29 x 39 x 6 cm  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y1KM5Q9/?tag=tolees-21'
+descuento: '44.46'
+titulo: 'Moleskine - Bolsa para Dispositivos Elec'
 ---
 
 Tienes [Moleskine - Bolsa para Dispositivos Electrónicos  Ordenador Portátil  Tablet  iPad de hasta 15 4"  Tamaño 29 x 39 x 6 cm  Negro](https://www.amazon.es/dp/B06Y1KM5Q9/?tag=tolees-21) con un 44.46 % de descuento con precio de oferta de 54.98 EUR (original: 99.0 EUR) en el siguiente enlace!
 
 [![Moleskine - Bolsa para Dispositivos Elec](https://m.media-amazon.com/images/I/31xLd4WjMJL._SL200_.jpg)](https://www.amazon.es/dp/B06Y1KM5Q9/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B06Y1KM5Q9/?tag=tolees-21)
 

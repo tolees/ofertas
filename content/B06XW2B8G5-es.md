@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.01 % en Prismáticos 10x42  de Alta Potencia de M'
 date: 2020-11-21 01:28:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/51LB6Fqi0SL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51LB6Fqi0SL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51LB6Fqi0SL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.98 EUR
 inStock: true
 prodname: 'Prismáticos 10x42  de Alta Potencia de Magnificación Prismáticos - Brillante y Claro Alcance de Vista - de Viaje  Observación de Aves  Astronomía  Deportes y Vida Silvestre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XW2B8G5/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'Prismáticos 10x42  de Alta Potencia de M'
 ---
 
 Tienes [Prismáticos 10x42  de Alta Potencia de Magnificación Prismáticos - Brillante y Claro Alcance de Vista - de Viaje  Observación de Aves  Astronomía  Deportes y Vida Silvestre](https://www.amazon.es/dp/B06XW2B8G5/?tag=tolees-21) con un 50.01 % de descuento con precio de oferta de 49.98 EUR (original: 99.98 EUR) en el siguiente enlace!
 
 [![Prismáticos 10x42  de Alta Potencia de M](https://m.media-amazon.com/images/I/51LB6Fqi0SL._SL200_.jpg)](https://www.amazon.es/dp/B06XW2B8G5/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XW2B8G5/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Misstars Glitter Funda para Xiaomi CC9 P al 50.05 % de descuento'
 date: 2020-11-06 11:02:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/61TgsCC1kaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61TgsCC1kaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61TgsCC1kaL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 9.99 EUR
 inStock: true
 prodname: 'Misstars Glitter Funda para Xiaomi CC9 Púrpura  Ultra Delgada Diamante Brillante Silicona TPU Gel Bumper con 360 Grados Rotación Anillo Antichoque Cover para Xiaomi Mi CC9/Mi 9 Lite/Mi A3 Lite'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B088PVFZKH/?tag=tolees-21'
+descuento: '50.05'
+titulo: 'Misstars Glitter Funda para Xiaomi CC9 P'
 ---
 
 Está [Misstars Glitter Funda para Xiaomi CC9 Púrpura  Ultra Delgada Diamante Brillante Silicona TPU Gel Bumper con 360 Grados Rotación Anillo Antichoque Cover para Xiaomi Mi CC9/Mi 9 Lite/Mi A3 Lite](https://www.amazon.es/dp/B088PVFZKH/?tag=tolees-21) con 50.05 de descuento por 4.99 EUR (original: 9.99 EUR) en el siguiente enlace!
 
 [![Misstars Glitter Funda para Xiaomi CC9 P](https://m.media-amazon.com/images/I/61TgsCC1kaL._SL200_.jpg)](https://www.amazon.es/dp/B088PVFZKH/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B088PVFZKH/?tag=tolees-21)
 

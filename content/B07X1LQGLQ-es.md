@@ -3,6 +3,7 @@ layout: post
 title: 'Bosch MS6CB61V1 ErgoMixx Style Batidora  al 31.96 % de descuento'
 date: 2020-11-07 10:45:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41hTFn7XB4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hTFn7XB4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41hTFn7XB4L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 58.77 EUR
 inStock: true
 prodname: 'Bosch MS6CB61V1 ErgoMixx Style Batidora de mano  1000 W  Acero Inoxidable  12 Velocidades  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07X1LQGLQ/?tag=tolees-21'
+descuento: '31.96'
+titulo: 'Bosch MS6CB61V1 ErgoMixx Style Batidora '
 ---
 
 Ahora mismo tienes [Bosch MS6CB61V1 ErgoMixx Style Batidora de mano  1000 W  Acero Inoxidable  12 Velocidades  Negro](https://www.amazon.es/dp/B07X1LQGLQ/?tag=tolees-21) a 39.99 EUR (original: 58.77 EUR) (31.96 %  de descuento) en el siguiente enlace!
 
 [![Bosch MS6CB61V1 ErgoMixx Style Batidora ](https://m.media-amazon.com/images/I/41hTFn7XB4L._SL200_.jpg)](https://www.amazon.es/dp/B07X1LQGLQ/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07X1LQGLQ/?tag=tolees-21)
 

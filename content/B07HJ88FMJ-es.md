@@ -3,6 +3,7 @@ layout: post
 title: 'Funko- Pop Vinyl: Animation: Rick & Mort al 43.64 % de descuento'
 date: 2020-12-05 20:19:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/5151OYZ2unL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/5151OYZ2unL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5151OYZ2unL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 15.95 EUR
 inStock: true
 prodname: 'Funko- Pop Vinyl: Animation: Rick & Morty: Kiara Rick and Morty Figura de vinilo - coleccionable  Multicolor  35594 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HJ88FMJ/?tag=tolees-21'
+descuento: '43.64'
+titulo: 'Funko- Pop Vinyl: Animation: Rick & Mort'
 ---
 
 Ahora mismo tienes [Funko- Pop Vinyl: Animation: Rick & Morty: Kiara Rick and Morty Figura de vinilo - coleccionable  Multicolor  35594 ](https://www.amazon.es/dp/B07HJ88FMJ/?tag=tolees-21) a 8.99 EUR (original: 15.95 EUR) (43.64 %  de descuento) en el siguiente enlace!
 
 [![Funko- Pop Vinyl: Animation: Rick & Mort](https://m.media-amazon.com/images/I/5151OYZ2unL._SL200_.jpg)](https://www.amazon.es/dp/B07HJ88FMJ/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07HJ88FMJ/?tag=tolees-21)
 

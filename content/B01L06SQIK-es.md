@@ -3,6 +3,7 @@ layout: post
 title: 'SHIMANO Palanca DCHA. Dura Ace MECANICO  al 37.52 % de descuento'
 date: 2020-12-10 11:01:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ZaDnpTmUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZaDnpTmUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ZaDnpTmUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 291.5 EUR
 inStock: true
 prodname: 'SHIMANO Palanca DCHA. Dura Ace MECANICO HIDRAULI Accesorios Bici Ciclismo  Adultos Unisex  Multicolor Multicolor   Talla Única'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01L06SQIK/?tag=tolees-21'
+descuento: '37.52'
+titulo: 'SHIMANO Palanca DCHA. Dura Ace MECANICO '
 ---
 
 Está [SHIMANO Palanca DCHA. Dura Ace MECANICO HIDRAULI Accesorios Bici Ciclismo  Adultos Unisex  Multicolor Multicolor   Talla Única](https://www.amazon.es/dp/B01L06SQIK/?tag=tolees-21) con 37.52 de descuento por 182.12 EUR (original: 291.5 EUR) en el siguiente enlace!
 
 [![SHIMANO Palanca DCHA. Dura Ace MECANICO ](https://m.media-amazon.com/images/I/41ZaDnpTmUL._SL200_.jpg)](https://www.amazon.es/dp/B01L06SQIK/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01L06SQIK/?tag=tolees-21)
 

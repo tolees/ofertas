@@ -17,6 +17,9 @@ comparePrice: 12.25 EUR
 inStock: true
 prodname: 'El Corredor Del Laberinto: La Cura Mortal Blu-Ray [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079FHJSC4/?tag=tolees-21'
+descuento: '67.35'
+titulo: 'El Corredor Del Laberinto: La Cura Morta'
 ---
 
 Ahora mismo tienes [El Corredor Del Laberinto: La Cura Mortal Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B079FHJSC4/?tag=tolees-21) a 4.0 EUR (original: 12.25 EUR) (67.35 %  de descuento) en el siguiente enlace!

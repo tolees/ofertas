@@ -3,6 +3,7 @@ layout: post
 title: 'Scottex Original Papel Higiénico - 48 Ro al 25.54 % de descuento'
 date: 2020-10-30 12:29:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Uy0sLGfSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Uy0sLGfSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Uy0sLGfSL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 13.9 EUR
 inStock: true
 prodname: 'Scottex Original Papel Higiénico - 48 Rollos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B016MKO3SQ/?tag=tolees-21'
+descuento: '25.54'
+titulo: 'Scottex Original Papel Higiénico - 48 Ro'
 ---
 
 Está [Scottex Original Papel Higiénico - 48 Rollos](https://www.amazon.es/dp/B016MKO3SQ/?tag=tolees-21) con 25.54 de descuento por 10.35 EUR (original: 13.9 EUR) en el siguiente enlace!
 
 [![Scottex Original Papel Higiénico - 48 Ro](https://m.media-amazon.com/images/I/51Uy0sLGfSL._SL200_.jpg)](https://www.amazon.es/dp/B016MKO3SQ/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B016MKO3SQ/?tag=tolees-21)
 

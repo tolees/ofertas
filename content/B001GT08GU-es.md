@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.10 % en Reebok Freestyle Hi - Zapatillas de cuer'
 date: 2020-10-25 12:31:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/41382Rl8E8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41382Rl8E8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41382Rl8E8L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Reebok Freestyle Hi - Zapatillas de cuero para mujer  Negro  Black   44'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001GT08GU/?tag=tolees-21'
+descuento: '34.10'
+titulo: 'Reebok Freestyle Hi - Zapatillas de cuer'
 ---
 
 Tienes [Reebok Freestyle Hi - Zapatillas de cuero para mujer  Negro  Black   44](https://www.amazon.es/dp/B001GT08GU/?tag=tolees-21) con un 34.10 % de descuento con precio de oferta de 59.28 EUR (original: 89.95 EUR) en el siguiente enlace!
 
 [![Reebok Freestyle Hi - Zapatillas de cuer](https://m.media-amazon.com/images/I/41382Rl8E8L._SL200_.jpg)](https://www.amazon.es/dp/B001GT08GU/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B001GT08GU/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Koch Media - Balan Wonderworld al 29.18 % de descuento'
 date: 2020-10-22 15:56:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/41P7xFyIh5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41P7xFyIh5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41P7xFyIh5L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 52.85 EUR
 inStock: true
 prodname: 'Koch Media - Balan Wonderworld'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08L7BDC88/?tag=tolees-21'
+descuento: '29.18'
+titulo: 'Koch Media - Balan Wonderworld'
 ---
 
 Está [Koch Media - Balan Wonderworld](https://www.amazon.es/dp/B08L7BDC88/?tag=tolees-21) con 29.18 de descuento por 37.43 EUR (original: 52.85 EUR) en el siguiente enlace!
 
 [![Koch Media - Balan Wonderworld](https://m.media-amazon.com/images/I/41P7xFyIh5L._SL200_.jpg)](https://www.amazon.es/dp/B08L7BDC88/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08L7BDC88/?tag=tolees-21)
 

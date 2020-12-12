@@ -3,6 +3,7 @@ layout: post
 title: 'Gorjuss CK-01A-G Set Regalo Muñeca y Des al 31.80 % de descuento'
 date: 2020-12-10 20:19:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/5166s8IFlTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/5166s8IFlTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5166s8IFlTL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 41.95 EUR
 inStock: true
 prodname: 'Gorjuss CK-01A-G Set Regalo Muñeca y Despertador You Brought Me Love'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BK92G5L/?tag=tolees-21'
+descuento: '31.80'
+titulo: 'Gorjuss CK-01A-G Set Regalo Muñeca y Des'
 ---
 
 Ahora mismo tienes [Gorjuss CK-01A-G Set Regalo Muñeca y Despertador You Brought Me Love](https://www.amazon.es/dp/B07BK92G5L/?tag=tolees-21) a 28.61 EUR (original: 41.95 EUR) (31.80 %  de descuento) en el siguiente enlace!
@@ -24,10 +28,10 @@ Ahora mismo tienes [Gorjuss CK-01A-G Set Regalo Muñeca y Despertador You Brough
 
 Características:
 
-- Con luz para poder ver la hora a oscuras
+- Producto Oficial Gorjuss
 - Set de regalo de muñeca de trapo y reloj despertador
 - Con luz para poder ver la hora a oscuras
-- Producto Oficial Gorjuss
+- Con luz para poder ver la hora a oscuras
 
 [Visítala!!!](https://www.amazon.es/dp/B07BK92G5L/?tag=tolees-21)
 

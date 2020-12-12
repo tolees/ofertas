@@ -3,6 +3,7 @@ layout: post
 title: 'Pocahontas [DVD] al 50.15 % de descuento'
 date: 2020-11-23 05:29:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/51B3ptUBs1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51B3ptUBs1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51B3ptUBs1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 9.99 EUR
 inStock: true
 prodname: 'Pocahontas [DVD]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003Z7RZMG/?tag=tolees-21'
+descuento: '50.15'
+titulo: 'Pocahontas [DVD]'
 ---
 
 Está [Pocahontas [DVD]](https://www.amazon.es/dp/B003Z7RZMG/?tag=tolees-21) con 50.15 de descuento por 4.98 EUR (original: 9.99 EUR) en el siguiente enlace!
 
 [![Pocahontas [DVD]](https://m.media-amazon.com/images/I/51B3ptUBs1L._SL200_.jpg)](https://www.amazon.es/dp/B003Z7RZMG/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B003Z7RZMG/?tag=tolees-21)
 

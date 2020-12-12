@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Un.Loop2 Strap  Mocasines para Mu al 81.57 % de descuento'
 date: 2020-10-22 13:53:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/310GpFtHSOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/310GpFtHSOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/310GpFtHSOL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 110.0 EUR
 inStock: true
 prodname: 'Clarks Un.Loop2 Strap  Mocasines para Mujer  Marrón  Dark Tan Lea   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N1J7Z7C/?tag=tolees-21'
+descuento: '81.57'
+titulo: 'Clarks Un.Loop2 Strap  Mocasines para Mu'
 ---
 
 Está [Clarks Un.Loop2 Strap  Mocasines para Mujer  Marrón  Dark Tan Lea   36 EU](https://www.amazon.es/dp/B07N1J7Z7C/?tag=tolees-21) con 81.57 de descuento por 20.27 EUR (original: 110.0 EUR) en el siguiente enlace!
 
 [![Clarks Un.Loop2 Strap  Mocasines para Mu](https://m.media-amazon.com/images/I/310GpFtHSOL._SL200_.jpg)](https://www.amazon.es/dp/B07N1J7Z7C/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07N1J7Z7C/?tag=tolees-21)
 

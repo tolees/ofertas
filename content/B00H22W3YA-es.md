@@ -3,6 +3,7 @@ layout: post
 title: 'Scheppach HA1000 Aspirador para Carpinte al 35.44 % de descuento'
 date: 2020-12-07 10:07:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Rg030jkTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Rg030jkTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Rg030jkTL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 149.99 EUR
 inStock: true
 prodname: 'Scheppach HA1000 Aspirador para Carpintería Apto para Cualquier Herramienta Eléctrica  Fácil de Transportar  50L  183m3/L  1100W'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00H22W3YA/?tag=tolees-21'
+descuento: '35.44'
+titulo: 'Scheppach HA1000 Aspirador para Carpinte'
 ---
 
 Está [Scheppach HA1000 Aspirador para Carpintería Apto para Cualquier Herramienta Eléctrica  Fácil de Transportar  50L  183m3/L  1100W](https://www.amazon.es/dp/B00H22W3YA/?tag=tolees-21) con 35.44 de descuento por 96.83 EUR (original: 149.99 EUR) en el siguiente enlace!
 
 [![Scheppach HA1000 Aspirador para Carpinte](https://m.media-amazon.com/images/I/41Rg030jkTL._SL200_.jpg)](https://www.amazon.es/dp/B00H22W3YA/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00H22W3YA/?tag=tolees-21)
 

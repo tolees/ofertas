@@ -3,6 +3,7 @@ layout: post
 title: 'Casper [Blu-ray] al 45.01 % de descuento'
 date: 2020-11-24 06:29:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/518oo-ZqMvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/518oo-ZqMvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/518oo-ZqMvL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 11.82 EUR
 inStock: true
 prodname: 'Casper [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CPC9P81/?tag=tolees-21'
+descuento: '45.01'
+titulo: 'Casper [Blu-ray]'
 ---
 
 Está [Casper [Blu-ray]](https://www.amazon.es/dp/B07CPC9P81/?tag=tolees-21) con 45.01 de descuento por 6.5 EUR (original: 11.82 EUR) en el siguiente enlace!
 
 [![Casper [Blu-ray]](https://m.media-amazon.com/images/I/518oo-ZqMvL._SL200_.jpg)](https://www.amazon.es/dp/B07CPC9P81/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07CPC9P81/?tag=tolees-21)
 

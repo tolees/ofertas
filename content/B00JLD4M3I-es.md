@@ -3,6 +3,7 @@ layout: post
 title: 'Lijadora de banda Einhell TC-BS 8038 al 32.08 % de descuento'
 date: 2020-11-21 11:53:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/41BoCjWYTQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BoCjWYTQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41BoCjWYTQL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 54.95 EUR
 inStock: true
 prodname: 'Lijadora de banda Einhell TC-BS 8038'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00JLD4M3I/?tag=tolees-21'
+descuento: '32.08'
+titulo: 'Lijadora de banda Einhell TC-BS 8038'
 ---
 
 Está [Lijadora de banda Einhell TC-BS 8038](https://www.amazon.es/dp/B00JLD4M3I/?tag=tolees-21) con 32.08 de descuento por 37.32 EUR (original: 54.95 EUR) en el siguiente enlace!
 
 [![Lijadora de banda Einhell TC-BS 8038](https://m.media-amazon.com/images/I/41BoCjWYTQL._SL200_.jpg)](https://www.amazon.es/dp/B00JLD4M3I/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00JLD4M3I/?tag=tolees-21)
 

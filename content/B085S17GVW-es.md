@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.02 % en Aigostar -10 x 5W Bombilla LED G45  casq'
 date: 2020-11-21 22:51:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/41mhCTFiELL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mhCTFiELL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41mhCTFiELL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 15.99 EUR
 inStock: true
 prodname: 'Aigostar -10 x 5W Bombilla LED G45  casquillo fino E14  Bajo consumo  400 lm  Luz cálida 3000K  Ahorro de energía  CRI> 80  ángulo de apertura 230º  no regulable - Caja de 10 unidades'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B085S17GVW/?tag=tolees-21'
+descuento: '25.02'
+titulo: 'Aigostar -10 x 5W Bombilla LED G45  casq'
 ---
 
 Tienes [Aigostar -10 x 5W Bombilla LED G45  casquillo fino E14  Bajo consumo  400 lm  Luz cálida 3000K  Ahorro de energía  CRI> 80  ángulo de apertura 230º  no regulable - Caja de 10 unidades](https://www.amazon.es/dp/B085S17GVW/?tag=tolees-21) con un 25.02 % de descuento con precio de oferta de 11.99 EUR (original: 15.99 EUR) en el siguiente enlace!
 
 [![Aigostar -10 x 5W Bombilla LED G45  casq](https://m.media-amazon.com/images/I/41mhCTFiELL._SL200_.jpg)](https://www.amazon.es/dp/B085S17GVW/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B085S17GVW/?tag=tolees-21)
 

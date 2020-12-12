@@ -3,6 +3,7 @@ layout: post
 title: 'Munich Gresca  Zapatillas de fútbol Unis al 29.71 % de descuento'
 date: 2020-11-17 13:58:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41m3c0ywnGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41m3c0ywnGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41m3c0ywnGL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Munich Gresca  Zapatillas de fútbol Unisex Adulto  Blanco  42'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0077QLQC6/?tag=tolees-21'
+descuento: '29.71'
+titulo: 'Munich Gresca  Zapatillas de fútbol Unis'
 ---
 
 Ahora mismo tienes [Munich Gresca  Zapatillas de fútbol Unisex Adulto  Blanco  42](https://www.amazon.es/dp/B0077QLQC6/?tag=tolees-21) a 56.2 EUR (original: 79.95 EUR) (29.71 %  de descuento) en el siguiente enlace!
 
 [![Munich Gresca  Zapatillas de fútbol Unis](https://m.media-amazon.com/images/I/41m3c0ywnGL._SL200_.jpg)](https://www.amazon.es/dp/B0077QLQC6/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B0077QLQC6/?tag=tolees-21)
 

@@ -17,6 +17,9 @@ comparePrice: 133.87 EUR
 inStock: true
 prodname: 'Timberland Sprint Trekker Mid  Botas Chukka Hombre  Verde Dark Green Nubuck  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JM75MC9/?tag=tolees-21'
+descuento: '33.18'
+titulo: 'Timberland Sprint Trekker Mid  Botas Chu'
 ---
 
 Está [Timberland Sprint Trekker Mid  Botas Chukka Hombre  Verde Dark Green Nubuck  40 EU](https://www.amazon.es/dp/B07JM75MC9/?tag=tolees-21) con 33.18 de descuento por 89.45 EUR (original: 133.87 EUR) en el siguiente enlace!

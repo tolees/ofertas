@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Handball Spezial  Zapatillas de G al 42.38 % de descuento'
 date: 2020-11-01 01:24:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Mzt84PWnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Mzt84PWnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Mzt84PWnL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.94 EUR
 inStock: true
 prodname: 'adidas Handball Spezial  Zapatillas de Gimnasia para Hombre  Negro  Core Black/FTWR White/gum5 Core Black/FTWR White/gum5   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JYLGKW4/?tag=tolees-21'
+descuento: '42.38'
+titulo: 'adidas Handball Spezial  Zapatillas de G'
 ---
 
 Ahora mismo tienes [adidas Handball Spezial  Zapatillas de Gimnasia para Hombre  Negro  Core Black/FTWR White/gum5 Core Black/FTWR White/gum5   39 EU](https://www.amazon.es/dp/B07JYLGKW4/?tag=tolees-21) a 57.59 EUR (original: 99.94 EUR) (42.38 %  de descuento) en el siguiente enlace!
 
 [![adidas Handball Spezial  Zapatillas de G](https://m.media-amazon.com/images/I/31Mzt84PWnL._SL200_.jpg)](https://www.amazon.es/dp/B07JYLGKW4/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07JYLGKW4/?tag=tolees-21)
 

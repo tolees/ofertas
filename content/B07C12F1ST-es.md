@@ -3,6 +3,7 @@ layout: post
 title: 'Pelacables  Tacklife MWS02 Alicate pelac al 29.75 % de descuento'
 date: 2020-10-30 20:31:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/41pnP5q8jzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pnP5q8jzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41pnP5q8jzL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 14.79 EUR
 inStock: true
 prodname: 'Pelacables  Tacklife MWS02 Alicate pelacables automático  Longitud 210mm  Rango de Pelar 10-24 AWG 0.2-6mm  Herramienta Multifuncional de Electricista especial para pelar/cortar/presionar el cable'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C12F1ST/?tag=tolees-21'
+descuento: '29.75'
+titulo: 'Pelacables  Tacklife MWS02 Alicate pelac'
 ---
 
 Ahora mismo tienes [Pelacables  Tacklife MWS02 Alicate pelacables automático  Longitud 210mm  Rango de Pelar 10-24 AWG 0.2-6mm  Herramienta Multifuncional de Electricista especial para pelar/cortar/presionar el cable](https://www.amazon.es/dp/B07C12F1ST/?tag=tolees-21) a 10.39 EUR (original: 14.79 EUR) (29.75 %  de descuento) en el siguiente enlace!
 
 [![Pelacables  Tacklife MWS02 Alicate pelac](https://m.media-amazon.com/images/I/41pnP5q8jzL._SL200_.jpg)](https://www.amazon.es/dp/B07C12F1ST/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07C12F1ST/?tag=tolees-21)
 

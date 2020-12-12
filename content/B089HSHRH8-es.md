@@ -3,6 +3,7 @@ layout: post
 title: 'TRESemmé Champú Cuidado Clasico 6 x 855  al 32.59 % de descuento'
 date: 2020-11-24 16:47:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41altyt-oXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41altyt-oXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41altyt-oXL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 29.3 EUR
 inStock: true
 prodname: 'TRESemmé Champú Cuidado Clasico 6 x 855 ML'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B089HSHRH8/?tag=tolees-21'
+descuento: '32.59'
+titulo: 'TRESemmé Champú Cuidado Clasico 6 x 855 '
 ---
 
 Está [TRESemmé Champú Cuidado Clasico 6 x 855 ML](https://www.amazon.es/dp/B089HSHRH8/?tag=tolees-21) con 32.59 de descuento por 19.75 EUR (original: 29.3 EUR) en el siguiente enlace!
 
 [![TRESemmé Champú Cuidado Clasico 6 x 855 ](https://m.media-amazon.com/images/I/41altyt-oXL._SL200_.jpg)](https://www.amazon.es/dp/B089HSHRH8/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B089HSHRH8/?tag=tolees-21)
 

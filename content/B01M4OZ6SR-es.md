@@ -3,6 +3,7 @@ layout: post
 title: 'Breaking Bad - La Serie Completa [DVD] al 47.02 % de descuento'
 date: 2020-11-24 06:04:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KtLLFyGHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KtLLFyGHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KtLLFyGHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 94.37 EUR
 inStock: true
 prodname: 'Breaking Bad - La Serie Completa [DVD]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M4OZ6SR/?tag=tolees-21'
+descuento: '47.02'
+titulo: 'Breaking Bad - La Serie Completa [DVD]'
 ---
 
 Ahora mismo tienes [Breaking Bad - La Serie Completa [DVD]](https://www.amazon.es/dp/B01M4OZ6SR/?tag=tolees-21) a 50.0 EUR (original: 94.37 EUR) (47.02 %  de descuento) en el siguiente enlace!
 
 [![Breaking Bad - La Serie Completa [DVD]](https://m.media-amazon.com/images/I/41KtLLFyGHL._SL200_.jpg)](https://www.amazon.es/dp/B01M4OZ6SR/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B01M4OZ6SR/?tag=tolees-21)
 

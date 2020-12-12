@@ -3,6 +3,7 @@ layout: post
 title: 'Listerine - Enjuague Bucal Mentol Sabor  al 30.22 % de descuento'
 date: 2020-11-29 20:13:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/51MpMtr1yCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51MpMtr1yCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51MpMtr1yCL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 13.6 EUR
 inStock: true
 prodname: 'Listerine - Enjuague Bucal Mentol Sabor Suave  2 x 1000 ml 2 Unidades 2060 g'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B086KDLTHM/?tag=tolees-21'
+descuento: '30.22'
+titulo: 'Listerine - Enjuague Bucal Mentol Sabor '
 ---
 
 Ahora mismo tienes [Listerine - Enjuague Bucal Mentol Sabor Suave  2 x 1000 ml 2 Unidades 2060 g](https://www.amazon.es/dp/B086KDLTHM/?tag=tolees-21) a 9.49 EUR (original: 13.6 EUR) (30.22 %  de descuento) en el siguiente enlace!
 
 [![Listerine - Enjuague Bucal Mentol Sabor ](https://m.media-amazon.com/images/I/51MpMtr1yCL._SL200_.jpg)](https://www.amazon.es/dp/B086KDLTHM/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B086KDLTHM/?tag=tolees-21)
 

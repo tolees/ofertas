@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.76 % en Catit Juguete Interactivo Tumbler Bee'
 date: 2020-12-11 19:15:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/315rAo-IDDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/315rAo-IDDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/315rAo-IDDL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 15.55 EUR
 inStock: true
 prodname: 'Catit Juguete Interactivo Tumbler Bee'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075TCVCFX/?tag=tolees-21'
+descuento: '35.76'
+titulo: 'Catit Juguete Interactivo Tumbler Bee'
 ---
 
 Tienes [Catit Juguete Interactivo Tumbler Bee](https://www.amazon.es/dp/B075TCVCFX/?tag=tolees-21) con un 35.76 % de descuento con precio de oferta de 9.99 EUR (original: 15.55 EUR) en el siguiente enlace!
@@ -24,9 +28,9 @@ Tienes [Catit Juguete Interactivo Tumbler Bee](https://www.amazon.es/dp/B075TCVC
 
 Características principales:
 
+- Producto para gatos
 - Catit Play Tumbler Bee Juguete Interactivo
 - Catit Juguete Interactivo Tumbler Bee
-- Producto para gatos
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B075TCVCFX/?tag=tolees-21)
 

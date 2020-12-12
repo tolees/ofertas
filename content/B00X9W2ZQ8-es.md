@@ -30,9 +30,9 @@ Principales características:
 
 - No grasa, no pegajosa, penetra rápidamente
 - Textura ultra-refrescante
+- Tono fresco y piel lisa
 - Protege de las agresiones y vuelve la piel más fuerte
 - Hidrata continuamente la piel
-- Tono fresco y piel lisa
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00X9W2ZQ8/?tag=tolees-21)
 

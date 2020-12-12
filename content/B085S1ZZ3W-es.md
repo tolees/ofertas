@@ -3,6 +3,7 @@ layout: post
 title: 'TACKLIFE 16 en 1 Destornillador multipun al 38.49 % de descuento'
 date: 2020-11-19 18:08:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/31DxSz5WMbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31DxSz5WMbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31DxSz5WMbL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'TACKLIFE 16 en 1 Destornillador multipuntas con 16 Puntas Intercambiables  Eje Hueco  Mango de Diseño Ergonómico  CR-V - HSS3B'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B085S1ZZ3W/?tag=tolees-21'
+descuento: '38.49'
+titulo: 'TACKLIFE 16 en 1 Destornillador multipun'
 ---
 
 Ahora mismo tienes [TACKLIFE 16 en 1 Destornillador multipuntas con 16 Puntas Intercambiables  Eje Hueco  Mango de Diseño Ergonómico  CR-V - HSS3B](https://www.amazon.es/dp/B085S1ZZ3W/?tag=tolees-21) a 7.99 EUR (original: 12.99 EUR) (38.49 %  de descuento) en el siguiente enlace!
 
 [![TACKLIFE 16 en 1 Destornillador multipun](https://m.media-amazon.com/images/I/31DxSz5WMbL._SL200_.jpg)](https://www.amazon.es/dp/B085S1ZZ3W/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B085S1ZZ3W/?tag=tolees-21)
 

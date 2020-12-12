@@ -3,6 +3,7 @@ layout: post
 title: 'Code Vein al 74.30 % de descuento'
 date: 2020-11-18 22:21:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/61K+lLJzIPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61K+lLJzIPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61K+lLJzIPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Code Vein'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071WX6KT3/?tag=tolees-21'
+descuento: '74.30'
+titulo: 'Code Vein'
 ---
 
 Ahora mismo tienes [Code Vein](https://www.amazon.es/dp/B071WX6KT3/?tag=tolees-21) a 17.99 EUR (original: 69.99 EUR) (74.30 %  de descuento) en el siguiente enlace!
 
 [![Code Vein](https://m.media-amazon.com/images/I/61K+lLJzIPL._SL200_.jpg)](https://www.amazon.es/dp/B071WX6KT3/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B071WX6KT3/?tag=tolees-21)
 

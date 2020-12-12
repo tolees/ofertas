@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.97 % en Skechers Sure Track-Erath-II  Zapatillas'
 date: 2020-12-08 06:05:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/31D+NEh5EEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31D+NEh5EEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31D+NEh5EEL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 84.95 EUR
 inStock: true
 prodname: 'Skechers Sure Track-Erath-II  Zapatillas sin Cordones Mujer  Multicolor  Wht Black Leather   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0794X1RCS/?tag=tolees-21'
+descuento: '30.97'
+titulo: 'Skechers Sure Track-Erath-II  Zapatillas'
 ---
 
 Tienes [Skechers Sure Track-Erath-II  Zapatillas sin Cordones Mujer  Multicolor  Wht Black Leather   37 EU](https://www.amazon.es/dp/B0794X1RCS/?tag=tolees-21) con un 30.97 % de descuento con precio de oferta de 58.64 EUR (original: 84.95 EUR) en el siguiente enlace!
 
 [![Skechers Sure Track-Erath-II  Zapatillas](https://m.media-amazon.com/images/I/31D+NEh5EEL._SL200_.jpg)](https://www.amazon.es/dp/B0794X1RCS/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0794X1RCS/?tag=tolees-21)
 

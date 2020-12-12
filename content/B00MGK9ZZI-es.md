@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.53 % en Rimmel London Provocalips Barra De Labio'
 date: 2020-11-20 22:41:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/31hsDeb7R6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31hsDeb7R6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31hsDeb7R6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 4.75 EUR
 inStock: true
 prodname: 'Rimmel London Provocalips Barra De Labios  Tono 730 Make Your Move - 18 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00MGK9ZZI/?tag=tolees-21'
+descuento: '30.53'
+titulo: 'Rimmel London Provocalips Barra De Labio'
 ---
 
 Tienes [Rimmel London Provocalips Barra De Labios  Tono 730 Make Your Move - 18 gr](https://www.amazon.es/dp/B00MGK9ZZI/?tag=tolees-21) con un 30.53 % de descuento con precio de oferta de 3.3 EUR (original: 4.75 EUR) en el siguiente enlace!
 
 [![Rimmel London Provocalips Barra De Labio](https://m.media-amazon.com/images/I/31hsDeb7R6L._SL200_.jpg)](https://www.amazon.es/dp/B00MGK9ZZI/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00MGK9ZZI/?tag=tolees-21)
 

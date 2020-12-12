@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.12 % en Stabilo Zebrui 8820-02 - Estuche con 20 '
 date: 2020-11-24 19:49:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ph6YL0gJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ph6YL0gJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ph6YL0gJL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 22.26 EUR
 inStock: true
 prodname: 'Stabilo Zebrui 8820-02 - Estuche con 20 puntafinas de colores'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000U0CXGO/?tag=tolees-21'
+descuento: '55.12'
+titulo: 'Stabilo Zebrui 8820-02 - Estuche con 20 '
 ---
 
 Tienes [Stabilo Zebrui 8820-02 - Estuche con 20 puntafinas de colores](https://www.amazon.es/dp/B000U0CXGO/?tag=tolees-21) con un 55.12 % de descuento con precio de oferta de 9.99 EUR (original: 22.26 EUR) en el siguiente enlace!
 
 [![Stabilo Zebrui 8820-02 - Estuche con 20 ](https://m.media-amazon.com/images/I/41ph6YL0gJL._SL200_.jpg)](https://www.amazon.es/dp/B000U0CXGO/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000U0CXGO/?tag=tolees-21)
 

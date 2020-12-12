@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.25 % en Merci Bombones de Chocolates - 1 x 675 g'
 date: 2020-11-25 13:50:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/41b5v3942ZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41b5v3942ZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41b5v3942ZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 12.85 EUR
 inStock: true
 prodname: 'Merci Bombones de Chocolates - 1 x 675 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003RFSFTS/?tag=tolees-21'
+descuento: '35.25'
+titulo: 'Merci Bombones de Chocolates - 1 x 675 g'
 ---
 
 Tienes [Merci Bombones de Chocolates - 1 x 675 gr](https://www.amazon.es/dp/B003RFSFTS/?tag=tolees-21) con un 35.25 % de descuento con precio de oferta de 8.32 EUR (original: 12.85 EUR) en el siguiente enlace!
 
 [![Merci Bombones de Chocolates - 1 x 675 g](https://m.media-amazon.com/images/I/41b5v3942ZL._SL200_.jpg)](https://www.amazon.es/dp/B003RFSFTS/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B003RFSFTS/?tag=tolees-21)
 

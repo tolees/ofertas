@@ -3,6 +3,7 @@ layout: post
 title: 'Think Fun 76336 Rush Hour  Juego de Logi al 32.47 % de descuento'
 date: 2020-11-18 10:14:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51m5iTL4xmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51m5iTL4xmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51m5iTL4xmL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 25.9 EUR
 inStock: true
 prodname: 'Think Fun 76336 Rush Hour  Juego de Logica  Version en Español  Edad Recomendada 8+'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BBNQ447/?tag=tolees-21'
+descuento: '32.47'
+titulo: 'Think Fun 76336 Rush Hour  Juego de Logi'
 ---
 
 Está [Think Fun 76336 Rush Hour  Juego de Logica  Version en Español  Edad Recomendada 8+](https://www.amazon.es/dp/B07BBNQ447/?tag=tolees-21) con 32.47 de descuento por 17.49 EUR (original: 25.9 EUR) en el siguiente enlace!
 
 [![Think Fun 76336 Rush Hour  Juego de Logi](https://m.media-amazon.com/images/I/51m5iTL4xmL._SL200_.jpg)](https://www.amazon.es/dp/B07BBNQ447/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07BBNQ447/?tag=tolees-21)
 

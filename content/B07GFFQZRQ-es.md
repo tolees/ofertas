@@ -3,6 +3,7 @@ layout: post
 title: 'Marca Amazon - Movian Inari Modern - Esc al 48.17 % de descuento'
 date: 2020-12-10 20:24:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/21IyFPSWRGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21IyFPSWRGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21IyFPSWRGL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 79.08 EUR
 inStock: true
 prodname: 'Marca Amazon - Movian Inari Modern - Escritorio con 1 cajón  50 x 90 x 73 cm  blanco '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GFFQZRQ/?tag=tolees-21'
+descuento: '48.17'
+titulo: 'Marca Amazon - Movian Inari Modern - Esc'
 ---
 
 Está [Marca Amazon - Movian Inari Modern - Escritorio con 1 cajón  50 x 90 x 73 cm  blanco ](https://www.amazon.es/dp/B07GFFQZRQ/?tag=tolees-21) con 48.17 de descuento por 40.99 EUR (original: 79.08 EUR) en el siguiente enlace!
@@ -24,13 +28,13 @@ Está [Marca Amazon - Movian Inari Modern - Escritorio con 1 cajón  50 x 90 x 
 
 Principales características:
 
-- Acabado minimalista en melamina blanca
-- Tablero aglomerado de 16 mm de estructura resistente
-- Diseño elegante y a la vez completamente práctico
-- Montaje sencillo. Se requieren dos personas.
 - Viene sin ensamblar
-- Medidas: 50 x 90 x 73 cm
+- Diseño elegante y a la vez completamente práctico
 - 2 años de garantía
+- Tablero aglomerado de 16 mm de estructura resistente
+- Acabado minimalista en melamina blanca
+- Montaje sencillo. Se requieren dos personas.
+- Medidas: 50 x 90 x 73 cm
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07GFFQZRQ/?tag=tolees-21)
 

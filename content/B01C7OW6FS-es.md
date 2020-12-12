@@ -3,6 +3,7 @@ layout: post
 title: 'CAMPER Wabi  Damen Flache Hausschuhe  Gr al 26.29 % de descuento'
 date: 2020-10-13 02:34:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/417WXCGSmzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417WXCGSmzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/417WXCGSmzL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 70.0 EUR
 inStock: true
 prodname: 'CAMPER Wabi  Damen Flache Hausschuhe  Grau  Dark Gray 061   37 EU  4 UK '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01C7OW6FS/?tag=tolees-21'
+descuento: '26.29'
+titulo: 'CAMPER Wabi  Damen Flache Hausschuhe  Gr'
 ---
 
 Ahora mismo tienes [CAMPER Wabi  Damen Flache Hausschuhe  Grau  Dark Gray 061   37 EU  4 UK ](https://www.amazon.es/dp/B01C7OW6FS/?tag=tolees-21) a 51.6 EUR (original: 70.0 EUR) (26.29 %  de descuento) en el siguiente enlace!
 
 [![CAMPER Wabi  Damen Flache Hausschuhe  Gr](https://m.media-amazon.com/images/I/417WXCGSmzL._SL200_.jpg)](https://www.amazon.es/dp/B01C7OW6FS/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B01C7OW6FS/?tag=tolees-21)
 

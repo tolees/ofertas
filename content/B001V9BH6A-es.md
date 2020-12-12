@@ -3,6 +3,7 @@ layout: post
 title: 'Campingaz Twister Plus PZ  hornillo de g al 41.01 % de descuento'
 date: 2020-11-15 16:07:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41XmxNtEeXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XmxNtEeXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41XmxNtEeXL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 43.99 EUR
 inStock: true
 prodname: 'Campingaz Twister Plus PZ  hornillo de gas para camping o festivales  fácil manejo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001V9BH6A/?tag=tolees-21'
+descuento: '41.01'
+titulo: 'Campingaz Twister Plus PZ  hornillo de g'
 ---
 
 Está [Campingaz Twister Plus PZ  hornillo de gas para camping o festivales  fácil manejo](https://www.amazon.es/dp/B001V9BH6A/?tag=tolees-21) con 41.01 de descuento por 25.95 EUR (original: 43.99 EUR) en el siguiente enlace!
 
 [![Campingaz Twister Plus PZ  hornillo de g](https://m.media-amazon.com/images/I/41XmxNtEeXL._SL200_.jpg)](https://www.amazon.es/dp/B001V9BH6A/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B001V9BH6A/?tag=tolees-21)
 

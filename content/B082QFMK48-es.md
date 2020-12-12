@@ -3,6 +3,7 @@ layout: post
 title: 'Acer Predator XB273GXbmiiprzx - Monitor  al 36.47 % de descuento'
 date: 2020-11-30 22:42:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41lwjc47-LL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lwjc47-LL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41lwjc47-LL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 799.99 EUR
 inStock: true
 prodname: 'Acer Predator XB273GXbmiiprzx - Monitor de 27"  69cm  ZeroFrame 240Hz G-SYNC Compatible Fast LC 1ms - 0.1ms Min - 400nits  IPS LED  2xHDMI  Acer EcoDisplay  negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B082QFMK48/?tag=tolees-21'
+descuento: '36.47'
+titulo: 'Acer Predator XB273GXbmiiprzx - Monitor '
 ---
 
 Está [Acer Predator XB273GXbmiiprzx - Monitor de 27"  69cm  ZeroFrame 240Hz G-SYNC Compatible Fast LC 1ms - 0.1ms Min - 400nits  IPS LED  2xHDMI  Acer EcoDisplay  negro](https://www.amazon.es/dp/B082QFMK48/?tag=tolees-21) con 36.47 de descuento por 508.24 EUR (original: 799.99 EUR) en el siguiente enlace!
 
 [![Acer Predator XB273GXbmiiprzx - Monitor ](https://m.media-amazon.com/images/I/41lwjc47-LL._SL200_.jpg)](https://www.amazon.es/dp/B082QFMK48/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B082QFMK48/?tag=tolees-21)
 

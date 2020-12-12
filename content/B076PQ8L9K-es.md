@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.54 % en Don t Knock Twice'
 date: 2020-11-01 18:24:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51wpM3ME-UL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51wpM3ME-UL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51wpM3ME-UL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Don t Knock Twice'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B076PQ8L9K/?tag=tolees-21'
+descuento: '49.54'
+titulo: 'Don t Knock Twice'
 ---
 
 Tienes [Don t Knock Twice](https://www.amazon.es/dp/B076PQ8L9K/?tag=tolees-21) con un 49.54 % de descuento con precio de oferta de 12.61 EUR (original: 24.99 EUR) en el siguiente enlace!
 
 [![Don t Knock Twice](https://m.media-amazon.com/images/I/51wpM3ME-UL._SL200_.jpg)](https://www.amazon.es/dp/B076PQ8L9K/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B076PQ8L9K/?tag=tolees-21)
 

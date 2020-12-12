@@ -28,11 +28,11 @@ Ahora mismo tienes [Bose Solo 5 - Barra de sonido para televisores  negro](https
 
 Características:
 
+- Mando a distancia universal para controlar el televisor, el módulo de graves, los dispositivos Bluetooth
+- Conexión Bluetooth para transmitir música de forma inalámbrica a través de cualquier dispositivo
 - Modo de diálogo para resaltar cada palabra y detalle
 - Una sola barra de sonido proporciona una sorprendente calidad de sonido mejorada en comparación con la del televisor
 - Una conexión a su televisor
-- Conexión Bluetooth para transmitir música de forma inalámbrica a través de cualquier dispositivo
-- Mando a distancia universal para controlar el televisor, el módulo de graves, los dispositivos Bluetooth
 
 [Visítala!!!](https://www.amazon.es/dp/B0117RGXC8/?tag=tolees-21)
 

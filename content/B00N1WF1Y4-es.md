@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.05 % en El Cielo Es Real Dvd'
 date: 2020-11-29 00:17:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/510eVjizvdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/510eVjizvdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/510eVjizvdL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 9.99 EUR
 inStock: true
 prodname: 'El Cielo Es Real Dvd'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00N1WF1Y4/?tag=tolees-21'
+descuento: '50.05'
+titulo: 'El Cielo Es Real Dvd'
 ---
 
 Tienes [El Cielo Es Real Dvd](https://www.amazon.es/dp/B00N1WF1Y4/?tag=tolees-21) con un 50.05 % de descuento con precio de oferta de 4.99 EUR (original: 9.99 EUR) en el siguiente enlace!
 
 [![El Cielo Es Real Dvd](https://m.media-amazon.com/images/I/510eVjizvdL._SL200_.jpg)](https://www.amazon.es/dp/B00N1WF1Y4/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00N1WF1Y4/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.97 % en PUMA Amplified Pants FL Cl Chándal  Homb'
 date: 2020-11-25 13:02:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/31l0UK-WmmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31l0UK-WmmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31l0UK-WmmL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 44.95 EUR
 inStock: true
 prodname: 'PUMA Amplified Pants FL Cl Chándal  Hombre  Black  XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B086PH7S6Y/?tag=tolees-21'
+descuento: '49.97'
+titulo: 'PUMA Amplified Pants FL Cl Chándal  Homb'
 ---
 
 Tienes [PUMA Amplified Pants FL Cl Chándal  Hombre  Black  XL](https://www.amazon.es/dp/B086PH7S6Y/?tag=tolees-21) con un 49.97 % de descuento con precio de oferta de 22.49 EUR (original: 44.95 EUR) en el siguiente enlace!
 
 [![PUMA Amplified Pants FL Cl Chándal  Homb](https://m.media-amazon.com/images/I/31l0UK-WmmL._SL200_.jpg)](https://www.amazon.es/dp/B086PH7S6Y/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B086PH7S6Y/?tag=tolees-21)
 

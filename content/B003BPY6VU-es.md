@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.82 % en Grohe SilverFlex -Flexo de ducha TwistFr'
 date: 2020-12-11 10:08:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41f0mpZjePL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41f0mpZjePL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41f0mpZjePL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 26.2 EUR
 inStock: true
 prodname: 'Grohe SilverFlex -Flexo de ducha TwistFree  1750 mm  Ref. 28388000 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003BPY6VU/?tag=tolees-21'
+descuento: '33.82'
+titulo: 'Grohe SilverFlex -Flexo de ducha TwistFr'
 ---
 
 Tienes [Grohe SilverFlex -Flexo de ducha TwistFree  1750 mm  Ref. 28388000 ](https://www.amazon.es/dp/B003BPY6VU/?tag=tolees-21) con un 33.82 % de descuento con precio de oferta de 17.34 EUR (original: 26.2 EUR) en el siguiente enlace!

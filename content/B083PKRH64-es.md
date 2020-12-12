@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.59 % en Pokemon Mundo Misterioso: Equipo de Resc'
 date: 2020-12-09 15:41:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/51BfGIEAP9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51BfGIEAP9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51BfGIEAP9L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 59.9 EUR
 inStock: true
 prodname: 'Pokemon Mundo Misterioso: Equipo de Rescate DX'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B083PKRH64/?tag=tolees-21'
+descuento: '33.59'
+titulo: 'Pokemon Mundo Misterioso: Equipo de Resc'
 ---
 
 Tienes [Pokemon Mundo Misterioso: Equipo de Rescate DX](https://www.amazon.es/dp/B083PKRH64/?tag=tolees-21) con un 33.59 % de descuento con precio de oferta de 39.78 EUR (original: 59.9 EUR) en el siguiente enlace!
 
 [![Pokemon Mundo Misterioso: Equipo de Resc](https://m.media-amazon.com/images/I/51BfGIEAP9L._SL200_.jpg)](https://www.amazon.es/dp/B083PKRH64/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B083PKRH64/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.16 % en Arcos Serie Riviera - Cuchillo Santoku C'
 date: 2020-11-28 20:04:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/31CxzoYG9WL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31CxzoYG9WL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31CxzoYG9WL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 43.51 EUR
 inStock: true
 prodname: 'Arcos Serie Riviera - Cuchillo Santoku Cuchillo Asiático - Hoja de Acero Inoxidable Forjado NITRUM 180 mm - Mango de Polyoxymethylene  POM  Color Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005LR6C7C/?tag=tolees-21'
+descuento: '47.16'
+titulo: 'Arcos Serie Riviera - Cuchillo Santoku C'
 ---
 
 Tienes [Arcos Serie Riviera - Cuchillo Santoku Cuchillo Asiático - Hoja de Acero Inoxidable Forjado NITRUM 180 mm - Mango de Polyoxymethylene  POM  Color Negro](https://www.amazon.es/dp/B005LR6C7C/?tag=tolees-21) con un 47.16 % de descuento con precio de oferta de 22.99 EUR (original: 43.51 EUR) en el siguiente enlace!
 
 [![Arcos Serie Riviera - Cuchillo Santoku C](https://m.media-amazon.com/images/I/31CxzoYG9WL._SL200_.jpg)](https://www.amazon.es/dp/B005LR6C7C/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B005LR6C7C/?tag=tolees-21)
 

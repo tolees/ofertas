@@ -3,6 +3,7 @@ layout: post
 title: 'Panama Jack Chia Nacar  Sandalia con Pul al 60.80 % de descuento'
 date: 2020-10-15 06:12:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41BbFHmSlBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BbFHmSlBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41BbFHmSlBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.0 EUR
 inStock: true
 prodname: 'Panama Jack Chia Nacar  Sandalia con Pulsera para Mujer  Rojo  Rojo B2   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07Y28HZ8S/?tag=tolees-21'
+descuento: '60.80'
+titulo: 'Panama Jack Chia Nacar  Sandalia con Pul'
 ---
 
 Está [Panama Jack Chia Nacar  Sandalia con Pulsera para Mujer  Rojo  Rojo B2   37 EU](https://www.amazon.es/dp/B07Y28HZ8S/?tag=tolees-21) con 60.80 de descuento por 38.81 EUR (original: 99.0 EUR) en el siguiente enlace!
 
 [![Panama Jack Chia Nacar  Sandalia con Pul](https://m.media-amazon.com/images/I/41BbFHmSlBL._SL200_.jpg)](https://www.amazon.es/dp/B07Y28HZ8S/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07Y28HZ8S/?tag=tolees-21)
 

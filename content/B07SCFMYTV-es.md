@@ -3,6 +3,7 @@ layout: post
 title: 'Control Preservativos XL - 24 unidades al 31.54 % de descuento'
 date: 2020-11-30 20:09:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Ts+vCyN4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Ts+vCyN4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Ts+vCyN4L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 13.95 EUR
 inStock: true
 prodname: 'Control Preservativos XL - 24 unidades'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07SCFMYTV/?tag=tolees-21'
+descuento: '31.54'
+titulo: 'Control Preservativos XL - 24 unidades'
 ---
 
 Está [Control Preservativos XL - 24 unidades](https://www.amazon.es/dp/B07SCFMYTV/?tag=tolees-21) con 31.54 de descuento por 9.55 EUR (original: 13.95 EUR) en el siguiente enlace!
 
 [![Control Preservativos XL - 24 unidades](https://m.media-amazon.com/images/I/41Ts+vCyN4L._SL200_.jpg)](https://www.amazon.es/dp/B07SCFMYTV/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07SCFMYTV/?tag=tolees-21)
 

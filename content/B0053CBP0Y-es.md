@@ -3,6 +3,7 @@ layout: post
 title: 'Stargate Sg-1  temporadas 1-10  [DVD] al 58.59 % de descuento'
 date: 2020-11-24 06:04:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/51O4Zw5on2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51O4Zw5on2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51O4Zw5on2L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 136.43 EUR
 inStock: true
 prodname: 'Stargate Sg-1  temporadas 1-10  [DVD]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0053CBP0Y/?tag=tolees-21'
+descuento: '58.59'
+titulo: 'Stargate Sg-1  temporadas 1-10  [DVD]'
 ---
 
 Ahora mismo tienes [Stargate Sg-1  temporadas 1-10  [DVD]](https://www.amazon.es/dp/B0053CBP0Y/?tag=tolees-21) a 56.5 EUR (original: 136.43 EUR) (58.59 %  de descuento) en el siguiente enlace!
 
 [![Stargate Sg-1  temporadas 1-10  [DVD]](https://m.media-amazon.com/images/I/51O4Zw5on2L._SL200_.jpg)](https://www.amazon.es/dp/B0053CBP0Y/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B0053CBP0Y/?tag=tolees-21)
 

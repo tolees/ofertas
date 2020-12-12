@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.00 % en Thomas Earnshaw Smart Watch Armbanduhr E'
 date: 2020-10-14 14:03:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41NhrkQObEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NhrkQObEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41NhrkQObEL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 310.0 EUR
 inStock: true
 prodname: 'Thomas Earnshaw Smart Watch Armbanduhr ES-8006-01'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00DY0BFDO/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'Thomas Earnshaw Smart Watch Armbanduhr E'
 ---
 
 Tienes [Thomas Earnshaw Smart Watch Armbanduhr ES-8006-01](https://www.amazon.es/dp/B00DY0BFDO/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 186.0 EUR (original: 310.0 EUR) en el siguiente enlace!
 
 [![Thomas Earnshaw Smart Watch Armbanduhr E](https://m.media-amazon.com/images/I/41NhrkQObEL._SL200_.jpg)](https://www.amazon.es/dp/B00DY0BFDO/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00DY0BFDO/?tag=tolees-21)
 

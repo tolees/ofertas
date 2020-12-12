@@ -3,6 +3,7 @@ layout: post
 title: 'Moulinex Subito Select BY550D Hervidor E al 37.79 % de descuento'
 date: 2020-10-16 08:04:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41sU-Exz73L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41sU-Exz73L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41sU-Exz73L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 44.99 EUR
 inStock: true
 prodname: 'Moulinex Subito Select BY550D Hervidor Eléctrico 2400 W con 1.7 L de Acero Inoxidable  indicador de Nivel de Agua  Tapa con bisagras de Apertura  Filtro antical extraíble y de Color Negro  1.7 litros'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0759TQ5SM/?tag=tolees-21'
+descuento: '37.79'
+titulo: 'Moulinex Subito Select BY550D Hervidor E'
 ---
 
 Ahora mismo tienes [Moulinex Subito Select BY550D Hervidor Eléctrico 2400 W con 1.7 L de Acero Inoxidable  indicador de Nivel de Agua  Tapa con bisagras de Apertura  Filtro antical extraíble y de Color Negro  1.7 litros](https://www.amazon.es/dp/B0759TQ5SM/?tag=tolees-21) a 27.99 EUR (original: 44.99 EUR) (37.79 %  de descuento) en el siguiente enlace!
 
 [![Moulinex Subito Select BY550D Hervidor E](https://m.media-amazon.com/images/I/41sU-Exz73L._SL200_.jpg)](https://www.amazon.es/dp/B0759TQ5SM/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B0759TQ5SM/?tag=tolees-21)
 

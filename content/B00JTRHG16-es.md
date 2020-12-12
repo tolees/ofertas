@@ -3,6 +3,7 @@ layout: post
 title: 'Rimmel London Exaggerate Automatic Eyeli al 27.86 % de descuento'
 date: 2020-11-23 13:43:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/313N8C5+H5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/313N8C5+H5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/313N8C5+H5L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 4.99 EUR
 inStock: true
 prodname: 'Rimmel London Exaggerate Automatic Eyeliner Waterproof - Delineador de Ojos Retráctil  Tono 001 Negro  Black   0.28 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00JTRHG16/?tag=tolees-21'
+descuento: '27.86'
+titulo: 'Rimmel London Exaggerate Automatic Eyeli'
 ---
 
 Está [Rimmel London Exaggerate Automatic Eyeliner Waterproof - Delineador de Ojos Retráctil  Tono 001 Negro  Black   0.28 gr](https://www.amazon.es/dp/B00JTRHG16/?tag=tolees-21) con 27.86 de descuento por 3.6 EUR (original: 4.99 EUR) en el siguiente enlace!
 
 [![Rimmel London Exaggerate Automatic Eyeli](https://m.media-amazon.com/images/I/313N8C5+H5L._SL200_.jpg)](https://www.amazon.es/dp/B00JTRHG16/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00JTRHG16/?tag=tolees-21)
 

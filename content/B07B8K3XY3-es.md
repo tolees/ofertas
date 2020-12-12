@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.36 % en Mars Gaming  Pack RGB de Teclado  Ratón '
 date: 2020-11-19 17:56:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/51RyC+Web+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51RyC+Web+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51RyC+Web+L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 39.9 EUR
 inStock: true
 prodname: 'Mars Gaming  Pack RGB de Teclado  Ratón  Auriculares y Alfombrilla'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B8K3XY3/?tag=tolees-21'
+descuento: '32.36'
+titulo: 'Mars Gaming  Pack RGB de Teclado  Ratón '
 ---
 
 Tienes [Mars Gaming  Pack RGB de Teclado  Ratón  Auriculares y Alfombrilla](https://www.amazon.es/dp/B07B8K3XY3/?tag=tolees-21) con un 32.36 % de descuento con precio de oferta de 26.99 EUR (original: 39.9 EUR) en el siguiente enlace!
 
 [![Mars Gaming  Pack RGB de Teclado  Ratón ](https://m.media-amazon.com/images/I/51RyC+Web+L._SL200_.jpg)](https://www.amazon.es/dp/B07B8K3XY3/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07B8K3XY3/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.79 % en Huawei Watch GT Sport - Reloj  TruSleep '
 date: 2020-12-02 15:10:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/51NmLjdi0hL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51NmLjdi0hL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51NmLjdi0hL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 229.0 EUR
 inStock: true
 prodname: 'Huawei Watch GT Sport - Reloj  TruSleep  GPS  monitoreo del ritmo cardiaco   Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07H4Y9PG7/?tag=tolees-21'
+descuento: '47.79'
+titulo: 'Huawei Watch GT Sport - Reloj  TruSleep '
 ---
 
 Tienes [Huawei Watch GT Sport - Reloj  TruSleep  GPS  monitoreo del ritmo cardiaco   Negro](https://www.amazon.es/dp/B07H4Y9PG7/?tag=tolees-21) con un 47.79 % de descuento con precio de oferta de 119.57 EUR (original: 229.0 EUR) en el siguiente enlace!
 
 [![Huawei Watch GT Sport - Reloj  TruSleep ](https://m.media-amazon.com/images/I/51NmLjdi0hL._SL200_.jpg)](https://www.amazon.es/dp/B07H4Y9PG7/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07H4Y9PG7/?tag=tolees-21)
 

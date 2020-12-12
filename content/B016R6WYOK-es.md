@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Milano 16 Sock - Medias para homb al 25.12 % de descuento'
 date: 2020-12-10 21:06:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wC6BQ3q5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wC6BQ3q5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wC6BQ3q5L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 8.0 EUR
 inStock: true
 prodname: 'adidas Milano 16 Sock - Medias para hombre  multicolor   AZUL / BLANCO   talla 43-45 EU  1 par'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B016R6WYOK/?tag=tolees-21'
+descuento: '25.12'
+titulo: 'adidas Milano 16 Sock - Medias para homb'
 ---
 
 Está [adidas Milano 16 Sock - Medias para hombre  multicolor   AZUL / BLANCO   talla 43-45 EU  1 par](https://www.amazon.es/dp/B016R6WYOK/?tag=tolees-21) con 25.12 de descuento por 5.99 EUR (original: 8.0 EUR) en el siguiente enlace!
@@ -25,8 +29,8 @@ Está [adidas Milano 16 Sock - Medias para hombre  multicolor   AZUL / BLANCO   
 Principales características:
 
 - Paneles acolchados que aportan una mayor amortiguación
-- Insertos de malla para mejor ventilación
 - Puños, rango de tobillo y bajos acanalados.
+- Insertos de malla para mejor ventilación
 
 [Ver la oferta!!](https://www.amazon.es/dp/B016R6WYOK/?tag=tolees-21)
 

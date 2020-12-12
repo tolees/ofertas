@@ -3,6 +3,7 @@ layout: post
 title: 'DC 12V 8A LED Light Protect Strip Regula al 34.96 % de descuento'
 date: 2020-11-23 21:24:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/31X6rjhHBSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31X6rjhHBSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31X6rjhHBSL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 3.69 EUR
 inStock: true
 prodname: 'DC 12V 8A LED Light Protect Strip Regulador Regulador de Brillo Ajustable para Accesorios de lámpara de luz de Tira LED - Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08MF2S79C/?tag=tolees-21'
+descuento: '34.96'
+titulo: 'DC 12V 8A LED Light Protect Strip Regula'
 ---
 
 Ahora mismo tienes [DC 12V 8A LED Light Protect Strip Regulador Regulador de Brillo Ajustable para Accesorios de lámpara de luz de Tira LED - Blanco](https://www.amazon.es/dp/B08MF2S79C/?tag=tolees-21) a 2.4 EUR (original: 3.69 EUR) (34.96 %  de descuento) en el siguiente enlace!
 
 [![DC 12V 8A LED Light Protect Strip Regula](https://m.media-amazon.com/images/I/31X6rjhHBSL._SL200_.jpg)](https://www.amazon.es/dp/B08MF2S79C/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B08MF2S79C/?tag=tolees-21)
 

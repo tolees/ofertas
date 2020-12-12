@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Patterson Backpack Mochila  al 50.38 % de descuento'
 date: 2020-12-07 08:49:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/31MgrtnR3LL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31MgrtnR3LL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31MgrtnR3LL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 26.0 EUR
 inStock: true
 prodname: 'Under Armour Patterson Backpack Mochila  Unisex   Academy/Academy/Steel  408   Taglia Unica'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KJZ7N5G/?tag=tolees-21'
+descuento: '50.38'
+titulo: 'Under Armour Patterson Backpack Mochila '
 ---
 
 Está [Under Armour Patterson Backpack Mochila  Unisex   Academy/Academy/Steel  408   Taglia Unica](https://www.amazon.es/dp/B07KJZ7N5G/?tag=tolees-21) con 50.38 de descuento por 12.9 EUR (original: 26.0 EUR) en el siguiente enlace!
 
 [![Under Armour Patterson Backpack Mochila ](https://m.media-amazon.com/images/I/31MgrtnR3LL._SL200_.jpg)](https://www.amazon.es/dp/B07KJZ7N5G/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KJZ7N5G/?tag=tolees-21)
 

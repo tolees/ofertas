@@ -3,6 +3,7 @@ layout: post
 title: 'STANLEY FATMAX FME630K-QS - Cepillo eléc al 33.79 % de descuento'
 date: 2020-11-07 16:43:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/51WZy6f7RGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51WZy6f7RGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51WZy6f7RGL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 105.64 EUR
 inStock: true
 prodname: 'STANLEY FATMAX FME630K-QS - Cepillo eléctrico madera 750W  incluye 2 hojas y maletín'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00AMD59Z6/?tag=tolees-21'
+descuento: '33.79'
+titulo: 'STANLEY FATMAX FME630K-QS - Cepillo eléc'
 ---
 
 Ahora mismo tienes [STANLEY FATMAX FME630K-QS - Cepillo eléctrico madera 750W  incluye 2 hojas y maletín](https://www.amazon.es/dp/B00AMD59Z6/?tag=tolees-21) a 69.94 EUR (original: 105.64 EUR) (33.79 %  de descuento) en el siguiente enlace!
 
 [![STANLEY FATMAX FME630K-QS - Cepillo eléc](https://m.media-amazon.com/images/I/51WZy6f7RGL._SL200_.jpg)](https://www.amazon.es/dp/B00AMD59Z6/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B00AMD59Z6/?tag=tolees-21)
 

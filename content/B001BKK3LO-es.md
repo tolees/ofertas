@@ -3,6 +3,7 @@ layout: post
 title: 'Giorgio Beverly Hills  Agua de Tocador - al 50.37 % de descuento'
 date: 2020-11-05 13:55:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/31icywPRwfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31icywPRwfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31icywPRwfL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 30.0 EUR
 inStock: true
 prodname: 'Giorgio Beverly Hills  Agua de Tocador - 90 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001BKK3LO/?tag=tolees-21'
+descuento: '50.37'
+titulo: 'Giorgio Beverly Hills  Agua de Tocador -'
 ---
 
 Está [Giorgio Beverly Hills  Agua de Tocador - 90 ml](https://www.amazon.es/dp/B001BKK3LO/?tag=tolees-21) con 50.37 de descuento por 14.89 EUR (original: 30.0 EUR) en el siguiente enlace!
 
 [![Giorgio Beverly Hills  Agua de Tocador -](https://m.media-amazon.com/images/I/31icywPRwfL._SL200_.jpg)](https://www.amazon.es/dp/B001BKK3LO/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B001BKK3LO/?tag=tolees-21)
 

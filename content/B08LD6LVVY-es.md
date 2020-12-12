@@ -3,6 +3,7 @@ layout: post
 title: 'Cecotec Robot Aspirador y fregasuelos Co al 35.77 % de descuento'
 date: 2020-12-09 23:49:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/51GAFkGk8gL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51GAFkGk8gL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51GAFkGk8gL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 699.0 EUR
 inStock: true
 prodname: 'Cecotec Robot Aspirador y fregasuelos Conga 6090 Ultra. Láser  Potencia succión 10000 Pa  App  Sensor Óptico  Virtual Voice  10 Modos Limpieza'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08LD6LVVY/?tag=tolees-21'
+descuento: '35.77'
+titulo: 'Cecotec Robot Aspirador y fregasuelos Co'
 ---
 
 Ahora mismo tienes [Cecotec Robot Aspirador y fregasuelos Conga 6090 Ultra. Láser  Potencia succión 10000 Pa  App  Sensor Óptico  Virtual Voice  10 Modos Limpieza](https://www.amazon.es/dp/B08LD6LVVY/?tag=tolees-21) a 449.0 EUR (original: 699.0 EUR) (35.77 %  de descuento) en el siguiente enlace!
 
 [![Cecotec Robot Aspirador y fregasuelos Co](https://m.media-amazon.com/images/I/51GAFkGk8gL._SL200_.jpg)](https://www.amazon.es/dp/B08LD6LVVY/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B08LD6LVVY/?tag=tolees-21)
 

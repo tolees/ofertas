@@ -3,6 +3,7 @@ layout: post
 title: 'Mini ventilador de cuello colgante de ve al 33.50 % de descuento'
 date: 2020-12-02 09:04:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/31M+cos842L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31M+cos842L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31M+cos842L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 36.42 EUR
 inStock: true
 prodname: 'Mini ventilador de cuello colgante de verano Ventilador recargable USB Ventilador de aire portátil Ventilador de cabestro para viajes de oficina Ventilador deportivo - Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08P52TC8Q/?tag=tolees-21'
+descuento: '33.50'
+titulo: 'Mini ventilador de cuello colgante de ve'
 ---
 
 Ahora mismo tienes [Mini ventilador de cuello colgante de verano Ventilador recargable USB Ventilador de aire portátil Ventilador de cabestro para viajes de oficina Ventilador deportivo - Blanco](https://www.amazon.es/dp/B08P52TC8Q/?tag=tolees-21) a 24.22 EUR (original: 36.42 EUR) (33.50 %  de descuento) en el siguiente enlace!
 
 [![Mini ventilador de cuello colgante de ve](https://m.media-amazon.com/images/I/31M+cos842L._SL200_.jpg)](https://www.amazon.es/dp/B08P52TC8Q/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B08P52TC8Q/?tag=tolees-21)
 

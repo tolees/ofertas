@@ -3,6 +3,7 @@ layout: post
 title: 'Sabrent Adaptador de Disco Duro USB 3.0  al 27.56 % de descuento'
 date: 2020-11-02 19:03:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/31MVIVRVAFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31MVIVRVAFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31MVIVRVAFL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 13.79 EUR
 inStock: true
 prodname: 'Sabrent Adaptador de Disco Duro USB 3.0 a SSD / 2 5 Pulgadas SATA I/II/III  EC-SSHD '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B011M8YACM/?tag=tolees-21'
+descuento: '27.56'
+titulo: 'Sabrent Adaptador de Disco Duro USB 3.0 '
 ---
 
 Está [Sabrent Adaptador de Disco Duro USB 3.0 a SSD / 2 5 Pulgadas SATA I/II/III  EC-SSHD ](https://www.amazon.es/dp/B011M8YACM/?tag=tolees-21) con 27.56 de descuento por 9.99 EUR (original: 13.79 EUR) en el siguiente enlace!
 
 [![Sabrent Adaptador de Disco Duro USB 3.0 ](https://m.media-amazon.com/images/I/31MVIVRVAFL._SL200_.jpg)](https://www.amazon.es/dp/B011M8YACM/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B011M8YACM/?tag=tolees-21)
 

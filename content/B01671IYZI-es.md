@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.99 % en Seiko Reloj Analógico Energía Solar para'
 date: 2020-12-03 21:53:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/51jQvw9ypEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51jQvw9ypEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51jQvw9ypEL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 279.0 EUR
 inStock: true
 prodname: 'Seiko Reloj Analógico Energía Solar para Hombre con Correa de Acero Inoxidable – SNE393P1'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01671IYZI/?tag=tolees-21'
+descuento: '45.99'
+titulo: 'Seiko Reloj Analógico Energía Solar para'
 ---
 
 Tienes [Seiko Reloj Analógico Energía Solar para Hombre con Correa de Acero Inoxidable – SNE393P1](https://www.amazon.es/dp/B01671IYZI/?tag=tolees-21) con un 45.99 % de descuento con precio de oferta de 150.7 EUR (original: 279.0 EUR) en el siguiente enlace!
 
 [![Seiko Reloj Analógico Energía Solar para](https://m.media-amazon.com/images/I/51jQvw9ypEL._SL200_.jpg)](https://www.amazon.es/dp/B01671IYZI/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01671IYZI/?tag=tolees-21)
 

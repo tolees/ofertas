@@ -3,6 +3,7 @@ layout: post
 title: 'KangaROOS Kf-a Deal  Zapatillas para Muj al 68.16 % de descuento'
 date: 2020-10-15 18:11:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/41berH-9-6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41berH-9-6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41berH-9-6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'KangaROOS Kf-a Deal  Zapatillas para Mujer  Rojo  Dusty Rose 6058   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07S27XM4K/?tag=tolees-21'
+descuento: '68.16'
+titulo: 'KangaROOS Kf-a Deal  Zapatillas para Muj'
 ---
 
 Ahora mismo tienes [KangaROOS Kf-a Deal  Zapatillas para Mujer  Rojo  Dusty Rose 6058   38 EU](https://www.amazon.es/dp/B07S27XM4K/?tag=tolees-21) a 12.72 EUR (original: 39.95 EUR) (68.16 %  de descuento) en el siguiente enlace!
 
 [![KangaROOS Kf-a Deal  Zapatillas para Muj](https://m.media-amazon.com/images/I/41berH-9-6L._SL200_.jpg)](https://www.amazon.es/dp/B07S27XM4K/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07S27XM4K/?tag=tolees-21)
 

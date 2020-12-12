@@ -3,6 +3,7 @@ layout: post
 title: 'Fujifilm Instax SQ6 Cámara Analógica Ins al 28.78 % de descuento'
 date: 2020-12-11 08:08:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/51AngbuEJPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51AngbuEJPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51AngbuEJPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 139.0 EUR
 inStock: true
 prodname: 'Fujifilm Instax SQ6 Cámara Analógica Instantánea Formato Cuadrado  Color Azul Agua  Square'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HY4LB57/?tag=tolees-21'
+descuento: '28.78'
+titulo: 'Fujifilm Instax SQ6 Cámara Analógica Ins'
 ---
 
 Ahora mismo tienes [Fujifilm Instax SQ6 Cámara Analógica Instantánea Formato Cuadrado  Color Azul Agua  Square](https://www.amazon.es/dp/B07HY4LB57/?tag=tolees-21) a 99.0 EUR (original: 139.0 EUR) (28.78 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Hercules DJLearning Kit: Controladora de al 25.50 % de descuento'
 date: 2020-11-28 19:46:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/51z1E+7ZQXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51z1E+7ZQXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51z1E+7ZQXL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 199.99 EUR
 inStock: true
 prodname: 'Hercules DJLearning Kit: Controladora de DJ USB de 2 decks DJControl Inpulse 200 + Auriculares HDP DJ45 + Altavoces de monitorización DJMonitor 32'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07Y39C4LJ/?tag=tolees-21'
+descuento: '25.50'
+titulo: 'Hercules DJLearning Kit: Controladora de'
 ---
 
 Ahora mismo tienes [Hercules DJLearning Kit: Controladora de DJ USB de 2 decks DJControl Inpulse 200 + Auriculares HDP DJ45 + Altavoces de monitorización DJMonitor 32](https://www.amazon.es/dp/B07Y39C4LJ/?tag=tolees-21) a 149.0 EUR (original: 199.99 EUR) (25.50 %  de descuento) en el siguiente enlace!
 
 [![Hercules DJLearning Kit: Controladora de](https://m.media-amazon.com/images/I/51z1E+7ZQXL._SL200_.jpg)](https://www.amazon.es/dp/B07Y39C4LJ/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07Y39C4LJ/?tag=tolees-21)
 

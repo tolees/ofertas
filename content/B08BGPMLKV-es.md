@@ -3,6 +3,7 @@ layout: post
 title: 'FIFA 21 Standard Edition - PC al 43.70 % de descuento'
 date: 2020-12-05 12:38:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/51lHYvffLpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51lHYvffLpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51lHYvffLpL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 61.99 EUR
 inStock: true
 prodname: 'FIFA 21 Standard Edition - PC'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08BGPMLKV/?tag=tolees-21'
+descuento: '43.70'
+titulo: 'FIFA 21 Standard Edition - PC'
 ---
 
 Ahora mismo tienes [FIFA 21 Standard Edition - PC](https://www.amazon.es/dp/B08BGPMLKV/?tag=tolees-21) a 34.9 EUR (original: 61.99 EUR) (43.70 %  de descuento) en el siguiente enlace!
 
 [![FIFA 21 Standard Edition - PC](https://m.media-amazon.com/images/I/51lHYvffLpL._SL200_.jpg)](https://www.amazon.es/dp/B08BGPMLKV/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B08BGPMLKV/?tag=tolees-21)
 

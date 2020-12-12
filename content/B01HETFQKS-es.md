@@ -3,6 +3,7 @@ layout: post
 title: 'Bose® SoundLink Color II - Altavoz Bluet al 29.97 % de descuento'
 date: 2020-11-11 16:02:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/51e3m5w6xWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51e3m5w6xWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51e3m5w6xWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 139.95 EUR
 inStock: true
 prodname: 'Bose® SoundLink Color II - Altavoz Bluetooth  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HETFQKS/?tag=tolees-21'
+descuento: '29.97'
+titulo: 'Bose® SoundLink Color II - Altavoz Bluet'
 ---
 
 Está [Bose® SoundLink Color II - Altavoz Bluetooth  Negro](https://www.amazon.es/dp/B01HETFQKS/?tag=tolees-21) con 29.97 de descuento por 98.0 EUR (original: 139.95 EUR) en el siguiente enlace!
 
 [![Bose® SoundLink Color II - Altavoz Bluet](https://m.media-amazon.com/images/I/51e3m5w6xWL._SL200_.jpg)](https://www.amazon.es/dp/B01HETFQKS/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01HETFQKS/?tag=tolees-21)
 

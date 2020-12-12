@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.08 % en ELEX'
 date: 2020-11-08 14:13:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/61Fgiwq4UDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61Fgiwq4UDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61Fgiwq4UDL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'ELEX'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0721KJS2V/?tag=tolees-21'
+descuento: '75.08'
+titulo: 'ELEX'
 ---
 
 Tienes [ELEX](https://www.amazon.es/dp/B0721KJS2V/?tag=tolees-21) con un 75.08 % de descuento con precio de oferta de 14.95 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![ELEX](https://m.media-amazon.com/images/I/61Fgiwq4UDL._SL200_.jpg)](https://www.amazon.es/dp/B0721KJS2V/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0721KJS2V/?tag=tolees-21)
 

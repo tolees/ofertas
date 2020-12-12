@@ -3,6 +3,7 @@ layout: post
 title: 'Wansview Webcam PC 1080P con Micrófono   al 34.30 % de descuento'
 date: 2020-11-27 22:13:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ZdAZvooeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZdAZvooeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ZdAZvooeL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 27.99 EUR
 inStock: true
 prodname: 'Wansview Webcam PC 1080P con Micrófono  Webcam Portátil para PC  Webcam USB 2.0  Streaming Cámara Reducción de Ruido para Videollamadas  Grabación  Conferencias con Clip Giratorio  102'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07Y1S3LNC/?tag=tolees-21'
+descuento: '34.30'
+titulo: 'Wansview Webcam PC 1080P con Micrófono  '
 ---
 
 Ahora mismo tienes [Wansview Webcam PC 1080P con Micrófono  Webcam Portátil para PC  Webcam USB 2.0  Streaming Cámara Reducción de Ruido para Videollamadas  Grabación  Conferencias con Clip Giratorio  102](https://www.amazon.es/dp/B07Y1S3LNC/?tag=tolees-21) a 18.39 EUR (original: 27.99 EUR) (34.30 %  de descuento) en el siguiente enlace!
 
 [![Wansview Webcam PC 1080P con Micrófono  ](https://m.media-amazon.com/images/I/41ZdAZvooeL._SL200_.jpg)](https://www.amazon.es/dp/B07Y1S3LNC/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07Y1S3LNC/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'perfk Micrófono Profesional Spider Mic.  al 36.61 % de descuento'
 date: 2020-12-08 11:04:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/41imBxAcNQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41imBxAcNQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41imBxAcNQL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 23.63 EUR
 inStock: true
 prodname: 'perfk Micrófono Profesional Spider Mic. Soporte De Micrófono De Montaje Antichoque Soporte De Micrófono Soporte De Micrófono Con Protección Para Grabación '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07W39ZXWF/?tag=tolees-21'
+descuento: '36.61'
+titulo: 'perfk Micrófono Profesional Spider Mic. '
 ---
 
 Está [perfk Micrófono Profesional Spider Mic. Soporte De Micrófono De Montaje Antichoque Soporte De Micrófono Soporte De Micrófono Con Protección Para Grabación ](https://www.amazon.es/dp/B07W39ZXWF/?tag=tolees-21) con 36.61 de descuento por 14.98 EUR (original: 23.63 EUR) en el siguiente enlace!
 
 [![perfk Micrófono Profesional Spider Mic. ](https://m.media-amazon.com/images/I/41imBxAcNQL._SL200_.jpg)](https://www.amazon.es/dp/B07W39ZXWF/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07W39ZXWF/?tag=tolees-21)
 

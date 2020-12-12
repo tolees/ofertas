@@ -3,6 +3,7 @@ layout: post
 title: 'UMBRO Speciali Eternal Premier AG Bota   al 79.17 % de descuento'
 date: 2020-11-26 10:12:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/31cF7PfwyYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31cF7PfwyYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31cF7PfwyYL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 84.0 EUR
 inStock: true
 prodname: 'UMBRO Speciali Eternal Premier AG Bota  Hombre  Blanco Negro Clematis Azul  46'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M24CG4G/?tag=tolees-21'
+descuento: '79.17'
+titulo: 'UMBRO Speciali Eternal Premier AG Bota  '
 ---
 
 Ahora mismo tienes [UMBRO Speciali Eternal Premier AG Bota  Hombre  Blanco Negro Clematis Azul  46](https://www.amazon.es/dp/B01M24CG4G/?tag=tolees-21) a 17.5 EUR (original: 84.0 EUR) (79.17 %  de descuento) en el siguiente enlace!
 
 [![UMBRO Speciali Eternal Premier AG Bota  ](https://m.media-amazon.com/images/I/31cF7PfwyYL._SL200_.jpg)](https://www.amazon.es/dp/B01M24CG4G/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B01M24CG4G/?tag=tolees-21)
 

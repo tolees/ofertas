@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.89 % en Proxxon 23 429 Vaso de 1/2"  Tamaño 36mm'
 date: 2020-11-01 12:03:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41oz3E-qKBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41oz3E-qKBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41oz3E-qKBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 21.99 EUR
 inStock: true
 prodname: 'Proxxon 23 429 Vaso de 1/2"  Tamaño 36mm  Longitud Total 19mm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0018Z9XPO/?tag=tolees-21'
+descuento: '53.89'
+titulo: 'Proxxon 23 429 Vaso de 1/2"  Tamaño 36mm'
 ---
 
 Tienes [Proxxon 23 429 Vaso de 1/2"  Tamaño 36mm  Longitud Total 19mm](https://www.amazon.es/dp/B0018Z9XPO/?tag=tolees-21) con un 53.89 % de descuento con precio de oferta de 10.14 EUR (original: 21.99 EUR) en el siguiente enlace!
 
 [![Proxxon 23 429 Vaso de 1/2"  Tamaño 36mm](https://m.media-amazon.com/images/I/41oz3E-qKBL._SL200_.jpg)](https://www.amazon.es/dp/B0018Z9XPO/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0018Z9XPO/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Mammut Mercury III Mid GtxÂ  Botas de Se al 26.64 % de descuento'
 date: 2020-11-06 07:21:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ridIG69dL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ridIG69dL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ridIG69dL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 151.3 EUR
 inStock: true
 prodname: 'Mammut Mercury III Mid GtxÂ  Botas de Senderismo Hombre  Gris  Graphite-Taupe 0379   46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078WS9HM1/?tag=tolees-21'
+descuento: '26.64'
+titulo: 'Mammut Mercury III Mid GtxÂ  Botas de Se'
 ---
 
 Está [Mammut Mercury III Mid GtxÂ  Botas de Senderismo Hombre  Gris  Graphite-Taupe 0379   46 EU](https://www.amazon.es/dp/B078WS9HM1/?tag=tolees-21) con 26.64 de descuento por 110.99 EUR (original: 151.3 EUR) en el siguiente enlace!
 
 [![Mammut Mercury III Mid GtxÂ  Botas de Se](https://m.media-amazon.com/images/I/41ridIG69dL._SL200_.jpg)](https://www.amazon.es/dp/B078WS9HM1/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B078WS9HM1/?tag=tolees-21)
 

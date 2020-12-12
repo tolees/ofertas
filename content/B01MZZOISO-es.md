@@ -3,6 +3,7 @@ layout: post
 title: 'Rotulador STABILO Pen 68 - Estuche con 8 al 35.04 % de descuento'
 date: 2020-11-20 11:54:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/41j9dyaGOnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41j9dyaGOnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41j9dyaGOnL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 9.99 EUR
 inStock: true
 prodname: 'Rotulador STABILO Pen 68 - Estuche con 8 colores'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MZZOISO/?tag=tolees-21'
+descuento: '35.04'
+titulo: 'Rotulador STABILO Pen 68 - Estuche con 8'
 ---
 
 Está [Rotulador STABILO Pen 68 - Estuche con 8 colores](https://www.amazon.es/dp/B01MZZOISO/?tag=tolees-21) con 35.04 de descuento por 6.49 EUR (original: 9.99 EUR) en el siguiente enlace!
 
 [![Rotulador STABILO Pen 68 - Estuche con 8](https://m.media-amazon.com/images/I/41j9dyaGOnL._SL200_.jpg)](https://www.amazon.es/dp/B01MZZOISO/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01MZZOISO/?tag=tolees-21)
 

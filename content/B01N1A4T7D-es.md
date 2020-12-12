@@ -3,6 +3,7 @@ layout: post
 title: 'Compo 250 g Quelato  Reverdeciente antic al 70.32 % de descuento'
 date: 2020-11-07 21:48:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/51n0SItjIgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51n0SItjIgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51n0SItjIgL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 7.75 EUR
 inStock: true
 prodname: 'Compo 250 g Quelato  Reverdeciente anticlorosis  EDDHA 13% Hierro Soluble en Agua  Incluida Cuchara dosificadora  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N1A4T7D/?tag=tolees-21'
+descuento: '70.32'
+titulo: 'Compo 250 g Quelato  Reverdeciente antic'
 ---
 
 Está [Compo 250 g Quelato  Reverdeciente anticlorosis  EDDHA 13% Hierro Soluble en Agua  Incluida Cuchara dosificadora  Negro](https://www.amazon.es/dp/B01N1A4T7D/?tag=tolees-21) con 70.32 de descuento por 2.3 EUR (original: 7.75 EUR) en el siguiente enlace!
 
 [![Compo 250 g Quelato  Reverdeciente antic](https://m.media-amazon.com/images/I/51n0SItjIgL._SL200_.jpg)](https://www.amazon.es/dp/B01N1A4T7D/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01N1A4T7D/?tag=tolees-21)
 

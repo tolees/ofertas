@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.35 % en Pop! Vinilo: Big Bang Theory S2: Amy'
 date: 2020-12-08 16:19:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wPcG4MIBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wPcG4MIBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wPcG4MIBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 15.95 EUR
 inStock: true
 prodname: 'Pop! Vinilo: Big Bang Theory S2: Amy'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N5RW7Z8/?tag=tolees-21'
+descuento: '32.35'
+titulo: 'Pop! Vinilo: Big Bang Theory S2: Amy'
 ---
 
 Tienes [Pop! Vinilo: Big Bang Theory S2: Amy](https://www.amazon.es/dp/B07N5RW7Z8/?tag=tolees-21) con un 32.35 % de descuento con precio de oferta de 10.79 EUR (original: 15.95 EUR) en el siguiente enlace!
 
 [![Pop! Vinilo: Big Bang Theory S2: Amy](https://m.media-amazon.com/images/I/41wPcG4MIBL._SL200_.jpg)](https://www.amazon.es/dp/B07N5RW7Z8/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07N5RW7Z8/?tag=tolees-21)
 

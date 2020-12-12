@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Un Rio Step  Zapatillas sin Cordo al 71.70 % de descuento'
 date: 2020-11-06 20:46:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/31QPYSSZwrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31QPYSSZwrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31QPYSSZwrL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 110.0 EUR
 inStock: true
 prodname: 'Clarks Un Rio Step  Zapatillas sin Cordones  Azul  Navy Leather Navy Leather   35.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07TMRK52D/?tag=tolees-21'
+descuento: '71.70'
+titulo: 'Clarks Un Rio Step  Zapatillas sin Cordo'
 ---
 
 Ahora mismo tienes [Clarks Un Rio Step  Zapatillas sin Cordones  Azul  Navy Leather Navy Leather   35.5 EU](https://www.amazon.es/dp/B07TMRK52D/?tag=tolees-21) a 31.13 EUR (original: 110.0 EUR) (71.70 %  de descuento) en el siguiente enlace!
 
 [![Clarks Un Rio Step  Zapatillas sin Cordo](https://m.media-amazon.com/images/I/31QPYSSZwrL._SL200_.jpg)](https://www.amazon.es/dp/B07TMRK52D/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07TMRK52D/?tag=tolees-21)
 

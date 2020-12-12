@@ -3,6 +3,7 @@ layout: post
 title: 'Mighty Beanz - Slammer Time Race Track   al 26.12 % de descuento'
 date: 2020-11-06 18:45:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/4165++jT+8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4165++jT+8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4165++jT+8L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 16.92 EUR
 inStock: true
 prodname: 'Mighty Beanz - Slammer Time Race Track  Giochi Preziosi MGH06000 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MTKSWGW/?tag=tolees-21'
+descuento: '26.12'
+titulo: 'Mighty Beanz - Slammer Time Race Track  '
 ---
 
 Está [Mighty Beanz - Slammer Time Race Track  Giochi Preziosi MGH06000 ](https://www.amazon.es/dp/B07MTKSWGW/?tag=tolees-21) con 26.12 de descuento por 12.5 EUR (original: 16.92 EUR) en el siguiente enlace!
 
 [![Mighty Beanz - Slammer Time Race Track  ](https://m.media-amazon.com/images/I/4165++jT+8L._SL200_.jpg)](https://www.amazon.es/dp/B07MTKSWGW/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07MTKSWGW/?tag=tolees-21)
 

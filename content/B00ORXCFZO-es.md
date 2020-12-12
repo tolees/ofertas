@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.37 % en Albainox 34503 Botas de Vino Curva Serra'
 date: 2020-10-20 04:39:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Oz0tH4SlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Oz0tH4SlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Oz0tH4SlL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 13.48 EUR
 inStock: true
 prodname: 'Albainox 34503 Botas de Vino Curva Serraje  Unisex Adulto  Multicolor  1 L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00ORXCFZO/?tag=tolees-21'
+descuento: '27.37'
+titulo: 'Albainox 34503 Botas de Vino Curva Serra'
 ---
 
 Tienes [Albainox 34503 Botas de Vino Curva Serraje  Unisex Adulto  Multicolor  1 L](https://www.amazon.es/dp/B00ORXCFZO/?tag=tolees-21) con un 27.37 % de descuento con precio de oferta de 9.79 EUR (original: 13.48 EUR) en el siguiente enlace!
 
 [![Albainox 34503 Botas de Vino Curva Serra](https://m.media-amazon.com/images/I/41Oz0tH4SlL._SL200_.jpg)](https://www.amazon.es/dp/B00ORXCFZO/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00ORXCFZO/?tag=tolees-21)
 

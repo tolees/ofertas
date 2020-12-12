@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.16 % en Hugo BOSS Reloj para hombre 1513430'
 date: 2020-12-11 01:58:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ocsqnWCPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ocsqnWCPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ocsqnWCPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 249.0 EUR
 inStock: true
 prodname: 'Hugo BOSS Reloj para hombre 1513430'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LY3C5H9/?tag=tolees-21'
+descuento: '40.16'
+titulo: 'Hugo BOSS Reloj para hombre 1513430'
 ---
 
 Tienes [Hugo BOSS Reloj para hombre 1513430](https://www.amazon.es/dp/B01LY3C5H9/?tag=tolees-21) con un 40.16 % de descuento con precio de oferta de 149.0 EUR (original: 249.0 EUR) en el siguiente enlace!
@@ -24,14 +28,14 @@ Tienes [Hugo BOSS Reloj para hombre 1513430](https://www.amazon.es/dp/B01LY3C5H9
 
 Características principales:
 
-- Cierre: hebilla
-- Mecanismo de cuarzo
-- Forma del producto: redondo
-- Visualización cronógrafo
-- Resistencia máxima a la presión del agua: 1 bar
-- Esfera negra
 - Movimiento multifunción
+- Resistencia máxima a la presión del agua: 1 bar
+- Visualización cronógrafo
+- Cierre: hebilla
+- Esfera negra
+- Forma del producto: redondo
 - Reloj de acero inoxidable con correa de piel
+- Mecanismo de cuarzo
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01LY3C5H9/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Bosch NanoBlade AdvancedCut 18 Sierra a  al 44.26 % de descuento'
 date: 2020-10-29 12:52:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/51neOCs2CAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51neOCs2CAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51neOCs2CAL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 245.0 EUR
 inStock: true
 prodname: 'Bosch NanoBlade AdvancedCut 18 Sierra a batería  1 batería  tecnología NanoBlade  sistema de 18 voltios  en estuche'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C54RP1C/?tag=tolees-21'
+descuento: '44.26'
+titulo: 'Bosch NanoBlade AdvancedCut 18 Sierra a '
 ---
 
 Ahora mismo tienes [Bosch NanoBlade AdvancedCut 18 Sierra a batería  1 batería  tecnología NanoBlade  sistema de 18 voltios  en estuche](https://www.amazon.es/dp/B07C54RP1C/?tag=tolees-21) a 136.57 EUR (original: 245.0 EUR) (44.26 %  de descuento) en el siguiente enlace!
 
 [![Bosch NanoBlade AdvancedCut 18 Sierra a ](https://m.media-amazon.com/images/I/51neOCs2CAL._SL200_.jpg)](https://www.amazon.es/dp/B07C54RP1C/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07C54RP1C/?tag=tolees-21)
 

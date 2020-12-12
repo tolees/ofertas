@@ -3,6 +3,7 @@ layout: post
 title: 'Logitech M705 Marathon Ratón Inalámbrico al 40.16 % de descuento'
 date: 2020-12-09 16:57:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/31mR-zjRU+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31mR-zjRU+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31mR-zjRU+L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 54.98 EUR
 inStock: true
 prodname: 'Logitech M705 Marathon Ratón Inalámbrico  2 4 GHz con Mini Receptor USB  Seguimiento Óptico 1000 DPI  7 Botones  Batería 3 Años  PC/Mac/Portátil   Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003STDR1E/?tag=tolees-21'
+descuento: '40.16'
+titulo: 'Logitech M705 Marathon Ratón Inalámbrico'
 ---
 
 Está [Logitech M705 Marathon Ratón Inalámbrico  2 4 GHz con Mini Receptor USB  Seguimiento Óptico 1000 DPI  7 Botones  Batería 3 Años  PC/Mac/Portátil   Negro](https://www.amazon.es/dp/B003STDR1E/?tag=tolees-21) con 40.16 de descuento por 32.9 EUR (original: 54.98 EUR) en el siguiente enlace!
 
 [![Logitech M705 Marathon Ratón Inalámbrico](https://m.media-amazon.com/images/I/31mR-zjRU+L._SL200_.jpg)](https://www.amazon.es/dp/B003STDR1E/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B003STDR1E/?tag=tolees-21)
 

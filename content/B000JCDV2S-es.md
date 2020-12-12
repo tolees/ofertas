@@ -3,6 +3,7 @@ layout: post
 title: 'CALVIN KLEIN CK ONE agua de tocador vapo al 57.82 % de descuento'
 date: 2020-12-01 20:53:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/31sdqmJ8O6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31sdqmJ8O6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31sdqmJ8O6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 40.3 EUR
 inStock: true
 prodname: 'CALVIN KLEIN CK ONE agua de tocador vaporizador 50 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000JCDV2S/?tag=tolees-21'
+descuento: '57.82'
+titulo: 'CALVIN KLEIN CK ONE agua de tocador vapo'
 ---
 
 Ahora mismo tienes [CALVIN KLEIN CK ONE agua de tocador vaporizador 50 ml](https://www.amazon.es/dp/B000JCDV2S/?tag=tolees-21) a 17.0 EUR (original: 40.3 EUR) (57.82 %  de descuento) en el siguiente enlace!
 
 [![CALVIN KLEIN CK ONE agua de tocador vapo](https://m.media-amazon.com/images/I/31sdqmJ8O6L._SL200_.jpg)](https://www.amazon.es/dp/B000JCDV2S/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B000JCDV2S/?tag=tolees-21)
 

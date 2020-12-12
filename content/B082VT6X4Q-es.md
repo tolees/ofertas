@@ -3,6 +3,7 @@ layout: post
 title: 'Orbit chicle sin azúcar sabor hierbabuen al 45.45 % de descuento'
 date: 2020-10-27 10:11:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41SSW733+RL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SSW733+RL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41SSW733+RL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 0.99 EUR
 inStock: true
 prodname: 'Orbit chicle sin azúcar sabor hierbabuena 10 grageas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B082VT6X4Q/?tag=tolees-21'
+descuento: '45.45'
+titulo: 'Orbit chicle sin azúcar sabor hierbabuen'
 ---
 
 Ahora mismo tienes [Orbit chicle sin azúcar sabor hierbabuena 10 grageas](https://www.amazon.es/dp/B082VT6X4Q/?tag=tolees-21) a 0.54 EUR (original: 0.99 EUR) (45.45 %  de descuento) en el siguiente enlace!
 
 [![Orbit chicle sin azúcar sabor hierbabuen](https://m.media-amazon.com/images/I/41SSW733+RL._SL200_.jpg)](https://www.amazon.es/dp/B082VT6X4Q/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B082VT6X4Q/?tag=tolees-21)
 

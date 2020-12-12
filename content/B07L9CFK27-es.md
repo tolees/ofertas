@@ -3,6 +3,7 @@ layout: post
 title: 'ROYAL SLEEP Colchón viscoelástico 150x19 al 30.87 % de descuento'
 date: 2020-11-28 20:35:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/51fxREErKkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51fxREErKkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51fxREErKkL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 243.0 EUR
 inStock: true
 prodname: 'ROYAL SLEEP Colchón viscoelástico 150x190 firmeza Media  Alta Gama  Confort y adaptabilidad Alta  Altura 22cm - Colchones Dormant Plus'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L9CFK27/?tag=tolees-21'
+descuento: '30.87'
+titulo: 'ROYAL SLEEP Colchón viscoelástico 150x19'
 ---
 
 Está [ROYAL SLEEP Colchón viscoelástico 150x190 firmeza Media  Alta Gama  Confort y adaptabilidad Alta  Altura 22cm - Colchones Dormant Plus](https://www.amazon.es/dp/B07L9CFK27/?tag=tolees-21) con 30.87 de descuento por 167.99 EUR (original: 243.0 EUR) en el siguiente enlace!
 
 [![ROYAL SLEEP Colchón viscoelástico 150x19](https://m.media-amazon.com/images/I/51fxREErKkL._SL200_.jpg)](https://www.amazon.es/dp/B07L9CFK27/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07L9CFK27/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA Undeniable SP 2.0  acces al 50.00 % de descuento'
 date: 2020-11-28 19:46:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/41waAh5AJmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41waAh5AJmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41waAh5AJmL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 26.0 EUR
 inStock: true
 prodname: 'Under Armour UA Undeniable SP 2.0  accesorio deportivo  mochila deportiva unisex  Negro  Black/Black/Silver  001    Taglia unica'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JK6XP6G/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Under Armour UA Undeniable SP 2.0  acces'
 ---
 
 Está [Under Armour UA Undeniable SP 2.0  accesorio deportivo  mochila deportiva unisex  Negro  Black/Black/Silver  001    Taglia unica](https://www.amazon.es/dp/B07JK6XP6G/?tag=tolees-21) con 50.00 de descuento por 13.0 EUR (original: 26.0 EUR) en el siguiente enlace!
 
 [![Under Armour UA Undeniable SP 2.0  acces](https://m.media-amazon.com/images/I/41waAh5AJmL._SL200_.jpg)](https://www.amazon.es/dp/B07JK6XP6G/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07JK6XP6G/?tag=tolees-21)
 

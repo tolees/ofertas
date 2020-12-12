@@ -3,6 +3,7 @@ layout: post
 title: 'Vans Ward Platform Canvas  Sneaker Mujer al 28.01 % de descuento'
 date: 2020-11-26 19:40:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/31jsQlGxqUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31jsQlGxqUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31jsQlGxqUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 59.3 EUR
 inStock: true
 prodname: 'Vans Ward Platform Canvas  Sneaker Mujer  Lona Negra  38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B087S2BGQ8/?tag=tolees-21'
+descuento: '28.01'
+titulo: 'Vans Ward Platform Canvas  Sneaker Mujer'
 ---
 
 Está [Vans Ward Platform Canvas  Sneaker Mujer  Lona Negra  38 EU](https://www.amazon.es/dp/B087S2BGQ8/?tag=tolees-21) con 28.01 de descuento por 42.69 EUR (original: 59.3 EUR) en el siguiente enlace!
 
 [![Vans Ward Platform Canvas  Sneaker Mujer](https://m.media-amazon.com/images/I/31jsQlGxqUL._SL200_.jpg)](https://www.amazon.es/dp/B087S2BGQ8/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B087S2BGQ8/?tag=tolees-21)
 

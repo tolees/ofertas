@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.71 % en Fred Colador de té  Silicona  MR. Tea'
 date: 2020-11-27 19:16:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41PYIxKZCrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PYIxKZCrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41PYIxKZCrL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 12.7 EUR
 inStock: true
 prodname: 'Fred Colador de té  Silicona  MR. Tea'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B008XCZ25K/?tag=tolees-21'
+descuento: '60.71'
+titulo: 'Fred Colador de té  Silicona  MR. Tea'
 ---
 
 Tienes [Fred Colador de té  Silicona  MR. Tea](https://www.amazon.es/dp/B008XCZ25K/?tag=tolees-21) con un 60.71 % de descuento con precio de oferta de 4.99 EUR (original: 12.7 EUR) en el siguiente enlace!
 
 [![Fred Colador de té  Silicona  MR. Tea](https://m.media-amazon.com/images/I/41PYIxKZCrL._SL200_.jpg)](https://www.amazon.es/dp/B008XCZ25K/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B008XCZ25K/?tag=tolees-21)
 

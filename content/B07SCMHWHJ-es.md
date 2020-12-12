@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Austin Jeans  Azul  Dk Worn Foam If  al 71.60 % de descuento'
 date: 2020-11-11 10:54:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/41bvVC1T9UL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bvVC1T9UL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41bvVC1T9UL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Lee Austin Jeans  Azul  Dk Worn Foam If   31W / 34L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07SCMHWHJ/?tag=tolees-21'
+descuento: '71.60'
+titulo: 'Lee Austin Jeans  Azul  Dk Worn Foam If '
 ---
 
 Está [Lee Austin Jeans  Azul  Dk Worn Foam If   31W / 34L para Hombre](https://www.amazon.es/dp/B07SCMHWHJ/?tag=tolees-21) con 71.60 de descuento por 28.39 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![Lee Austin Jeans  Azul  Dk Worn Foam If ](https://m.media-amazon.com/images/I/41bvVC1T9UL._SL200_.jpg)](https://www.amazon.es/dp/B07SCMHWHJ/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07SCMHWHJ/?tag=tolees-21)
 

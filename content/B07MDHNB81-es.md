@@ -28,11 +28,11 @@ Está [KHOMO iPad Pro 11 Funda Origami Semi Transparente con Smart Cover Protecc
 
 Principales características:
 
-- Multiple angles: Origami Horizontal and Vertical Positions. Fold back to comfortably watch movies and videos, or place it in a lower, more ergonomic angle for typing. Also featuring a vertical standing position great for reading documents. Its Easy to always get the right viewing angle and orientation!
-- Smart design: Beautifully crafted, ultra slim rear silicone see-through shell (only 0.15in) offers durable, yet lightweight protection. Scratch protection: Front smart cover with soft inner microfibre lining provides full protection of screen
-- Easy Access: All jacks, ports, speakers, buttons and camera hole are precision cut open and easily accessible without removing the case
 - KHOMO Accessories Registered Brand, Weve got you covered!
 - All precious jewels deserve a special case! Add some style to your new iPad Pro 11 with a KHOMO Dual Origami Series Case. Designed ONLY for: Apple iPad Pro 11-inch (2018 Released, Compatible Model Numbers: A1980, A2013, A1934, A1979)
+- Smart design: Beautifully crafted, ultra slim rear silicone see-through shell (only 0.15in) offers durable, yet lightweight protection. Scratch protection: Front smart cover with soft inner microfibre lining provides full protection of screen
+- Easy Access: All jacks, ports, speakers, buttons and camera hole are precision cut open and easily accessible without removing the case
+- Multiple angles: Origami Horizontal and Vertical Positions. Fold back to comfortably watch movies and videos, or place it in a lower, more ergonomic angle for typing. Also featuring a vertical standing position great for reading documents. Its Easy to always get the right viewing angle and orientation!
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07MDHNB81/?tag=tolees-21)
 

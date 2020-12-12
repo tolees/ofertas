@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 27.82 % en find. Hiker Botas Chukka  Marrón Tan  43'
 date: 2020-10-29 17:36:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41aK6GCq13L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aK6GCq13L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41aK6GCq13L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 29.55 EUR
 inStock: true
 prodname: 'find. Hiker Botas Chukka  Marrón Tan  43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F3RN2MS/?tag=tolees-21'
+descuento: '27.82'
+titulo: 'find. Hiker Botas Chukka  Marrón Tan  43'
 ---
 
 Tienes [find. Hiker Botas Chukka  Marrón Tan  43 EU](https://www.amazon.es/dp/B07F3RN2MS/?tag=tolees-21) con un 27.82 % de descuento con precio de oferta de 21.33 EUR (original: 29.55 EUR) en el siguiente enlace!
 
 [![find. Hiker Botas Chukka  Marrón Tan  43](https://m.media-amazon.com/images/I/41aK6GCq13L._SL200_.jpg)](https://www.amazon.es/dp/B07F3RN2MS/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07F3RN2MS/?tag=tolees-21)
 

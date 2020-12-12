@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s 721 High Rise Skinny Jeans  Rio H al 60.00 % de descuento'
 date: 2020-11-28 15:04:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/41diZxlgXOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41diZxlgXOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41diZxlgXOL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 120.0 EUR
 inStock: true
 prodname: 'Levi s 721 High Rise Skinny Jeans  Rio Hustle  32W / 32L para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07ZVRD7DT/?tag=tolees-21'
+descuento: '60.00'
+titulo: 'Levi s 721 High Rise Skinny Jeans  Rio H'
 ---
 
 Ahora mismo tienes [Levi s 721 High Rise Skinny Jeans  Rio Hustle  32W / 32L para Mujer](https://www.amazon.es/dp/B07ZVRD7DT/?tag=tolees-21) a 48.0 EUR (original: 120.0 EUR) (60.00 %  de descuento) en el siguiente enlace!
 
 [![Levi s 721 High Rise Skinny Jeans  Rio H](https://m.media-amazon.com/images/I/41diZxlgXOL._SL200_.jpg)](https://www.amazon.es/dp/B07ZVRD7DT/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07ZVRD7DT/?tag=tolees-21)
 

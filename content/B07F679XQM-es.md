@@ -3,6 +3,7 @@ layout: post
 title: 'Taurus FF2 Fondue para 8 Personas  100 W al 33.84 % de descuento'
 date: 2020-10-13 02:17:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/41XksVv5IuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XksVv5IuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41XksVv5IuL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 64.99 EUR
 inStock: true
 prodname: 'Taurus FF2 Fondue para 8 Personas  100 W  Capacidad de 2 L  Olla Libre de PFOA  Color en Acero Inoxidable Negro  Plata'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07F679XQM/?tag=tolees-21'
+descuento: '33.84'
+titulo: 'Taurus FF2 Fondue para 8 Personas  100 W'
 ---
 
 Ahora mismo tienes [Taurus FF2 Fondue para 8 Personas  100 W  Capacidad de 2 L  Olla Libre de PFOA  Color en Acero Inoxidable Negro  Plata](https://www.amazon.es/dp/B07F679XQM/?tag=tolees-21) a 43.0 EUR (original: 64.99 EUR) (33.84 %  de descuento) en el siguiente enlace!
 
 [![Taurus FF2 Fondue para 8 Personas  100 W](https://m.media-amazon.com/images/I/41XksVv5IuL._SL200_.jpg)](https://www.amazon.es/dp/B07F679XQM/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07F679XQM/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Borderlands 3 - Edición Estándar  PlaySt al 36.25 % de descuento'
 date: 2020-12-10 19:10:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/51E+B-k76lL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51E+B-k76lL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51E+B-k76lL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 15.53 EUR
 inStock: true
 prodname: 'Borderlands 3 - Edición Estándar  PlayStation 4  Disc'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07QHCTSBZ/?tag=tolees-21'
+descuento: '36.25'
+titulo: 'Borderlands 3 - Edición Estándar  PlaySt'
 ---
 
 Está [Borderlands 3 - Edición Estándar  PlayStation 4  Disc](https://www.amazon.es/dp/B07QHCTSBZ/?tag=tolees-21) con 36.25 de descuento por 9.9 EUR (original: 15.53 EUR) en el siguiente enlace!

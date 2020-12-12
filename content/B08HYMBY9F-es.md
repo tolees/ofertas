@@ -3,6 +3,7 @@ layout: post
 title: 'Janhiny 1080P Web Cámara de Alta Definic al 50.52 % de descuento'
 date: 2020-11-02 19:41:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41DvkrHyNFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DvkrHyNFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41DvkrHyNFL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 19.38 EUR
 inStock: true
 prodname: 'Janhiny 1080P Web Cámara de Alta Definición Completa Cámara Web Reducción de Ruido Micrófono USB2.0 Mini Cámara de Computadora para Computadora Portátil'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08HYMBY9F/?tag=tolees-21'
+descuento: '50.52'
+titulo: 'Janhiny 1080P Web Cámara de Alta Definic'
 ---
 
 Ahora mismo tienes [Janhiny 1080P Web Cámara de Alta Definición Completa Cámara Web Reducción de Ruido Micrófono USB2.0 Mini Cámara de Computadora para Computadora Portátil](https://www.amazon.es/dp/B08HYMBY9F/?tag=tolees-21) a 9.59 EUR (original: 19.38 EUR) (50.52 %  de descuento) en el siguiente enlace!
 
 [![Janhiny 1080P Web Cámara de Alta Definic](https://m.media-amazon.com/images/I/41DvkrHyNFL._SL200_.jpg)](https://www.amazon.es/dp/B08HYMBY9F/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B08HYMBY9F/?tag=tolees-21)
 

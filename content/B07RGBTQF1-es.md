@@ -3,6 +3,7 @@ layout: post
 title: 'Yacun Hombres Camisas Hawaianas Causal e al 60.02 % de descuento'
 date: 2020-11-17 21:39:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LFsz0jUTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51LFsz0jUTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LFsz0jUTL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Yacun Hombres Camisas Hawaianas Causal en Playa Verano Manga Corta Algodón para Vacaciones Tops Azul XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07RGBTQF1/?tag=tolees-21'
+descuento: '60.02'
+titulo: 'Yacun Hombres Camisas Hawaianas Causal e'
 ---
 
 Ahora mismo tienes [Yacun Hombres Camisas Hawaianas Causal en Playa Verano Manga Corta Algodón para Vacaciones Tops Azul XL](https://www.amazon.es/dp/B07RGBTQF1/?tag=tolees-21) a 9.99 EUR (original: 24.99 EUR) (60.02 %  de descuento) en el siguiente enlace!
 
 [![Yacun Hombres Camisas Hawaianas Causal e](https://images-eu.ssl-images-amazon.com/images/I/51LFsz0jUTL._SL200_.jpg)](https://www.amazon.es/dp/B07RGBTQF1/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07RGBTQF1/?tag=tolees-21)
 

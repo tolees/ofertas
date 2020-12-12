@@ -3,6 +3,7 @@ layout: post
 title: 'Hoja ninja Shinobi Village Konoha de Jeb al 42.75 % de descuento'
 date: 2020-10-31 08:46:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41yadauEXoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yadauEXoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41yadauEXoL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 12.0 EUR
 inStock: true
 prodname: 'Hoja ninja Shinobi Village Konoha de Jebester  diadema para cosplay con accesorios de color rojo y blanco  ninja  Big Kunai  juguete de plástico'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07ZF81B1X/?tag=tolees-21'
+descuento: '42.75'
+titulo: 'Hoja ninja Shinobi Village Konoha de Jeb'
 ---
 
 Ahora mismo tienes [Hoja ninja Shinobi Village Konoha de Jebester  diadema para cosplay con accesorios de color rojo y blanco  ninja  Big Kunai  juguete de plástico](https://www.amazon.es/dp/B07ZF81B1X/?tag=tolees-21) a 6.87 EUR (original: 12.0 EUR) (42.75 %  de descuento) en el siguiente enlace!
 
 [![Hoja ninja Shinobi Village Konoha de Jeb](https://m.media-amazon.com/images/I/41yadauEXoL._SL200_.jpg)](https://www.amazon.es/dp/B07ZF81B1X/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07ZF81B1X/?tag=tolees-21)
 

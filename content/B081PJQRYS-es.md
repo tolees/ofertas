@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.35 % en Kingston DataTraveler 100 G3 -DT100G3/32'
 date: 2020-11-25 19:15:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/41K02S9b7+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41K02S9b7+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41K02S9b7+L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 17.99 EUR
 inStock: true
 prodname: 'Kingston DataTraveler 100 G3 -DT100G3/32GB-3P  3 Piezas  USB 3.0  Flash Drive  32 GB  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B081PJQRYS/?tag=tolees-21'
+descuento: '37.35'
+titulo: 'Kingston DataTraveler 100 G3 -DT100G3/32'
 ---
 
 Tienes [Kingston DataTraveler 100 G3 -DT100G3/32GB-3P  3 Piezas  USB 3.0  Flash Drive  32 GB  Negro](https://www.amazon.es/dp/B081PJQRYS/?tag=tolees-21) con un 37.35 % de descuento con precio de oferta de 11.27 EUR (original: 17.99 EUR) en el siguiente enlace!
 
 [![Kingston DataTraveler 100 G3 -DT100G3/32](https://m.media-amazon.com/images/I/41K02S9b7+L._SL200_.jpg)](https://www.amazon.es/dp/B081PJQRYS/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B081PJQRYS/?tag=tolees-21)
 

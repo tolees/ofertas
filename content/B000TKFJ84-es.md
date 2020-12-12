@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.71 % en APC APCRBC105 - Batería de sustitución #'
 date: 2020-10-30 13:27:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-1otyQ6EL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-1otyQ6EL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-1otyQ6EL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 423.49 EUR
 inStock: true
 prodname: 'APC APCRBC105 - Batería de sustitución #105'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000TKFJ84/?tag=tolees-21'
+descuento: '42.71'
+titulo: 'APC APCRBC105 - Batería de sustitución #'
 ---
 
 Tienes [APC APCRBC105 - Batería de sustitución #105](https://www.amazon.es/dp/B000TKFJ84/?tag=tolees-21) con un 42.71 % de descuento con precio de oferta de 242.62 EUR (original: 423.49 EUR) en el siguiente enlace!
 
 [![APC APCRBC105 - Batería de sustitución #](https://m.media-amazon.com/images/I/41-1otyQ6EL._SL200_.jpg)](https://www.amazon.es/dp/B000TKFJ84/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000TKFJ84/?tag=tolees-21)
 

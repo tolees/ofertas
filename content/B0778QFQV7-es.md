@@ -3,6 +3,7 @@ layout: post
 title: 'Figura Pop! Dragonball Z Shenron Dragon  al 30.24 % de descuento'
 date: 2020-12-10 20:03:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/51W86hAu+iL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51W86hAu+iL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51W86hAu+iL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 42.93 EUR
 inStock: true
 prodname: 'Figura Pop! Dragonball Z Shenron Dragon Gold Exclusive 15cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0778QFQV7/?tag=tolees-21'
+descuento: '30.24'
+titulo: 'Figura Pop! Dragonball Z Shenron Dragon '
 ---
 
 Ahora mismo tienes [Figura Pop! Dragonball Z Shenron Dragon Gold Exclusive 15cm](https://www.amazon.es/dp/B0778QFQV7/?tag=tolees-21) a 29.95 EUR (original: 42.93 EUR) (30.24 %  de descuento) en el siguiente enlace!
@@ -25,8 +29,8 @@ Ahora mismo tienes [Figura Pop! Dragonball Z Shenron Dragon Gold Exclusive 15cm]
 Características:
 
 - Muy resistente
-- Licencia oficial
 - Alta calidad
+- Licencia oficial
 
 [Visítala!!!](https://www.amazon.es/dp/B0778QFQV7/?tag=tolees-21)
 

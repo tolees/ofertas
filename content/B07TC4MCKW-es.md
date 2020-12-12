@@ -3,6 +3,7 @@ layout: post
 title: 'Los Hermanos Sisters [Blu-ray] al 49.97 % de descuento'
 date: 2020-11-21 08:54:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/51pC0ccNqML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51pC0ccNqML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51pC0ccNqML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 15.99 EUR
 inStock: true
 prodname: 'Los Hermanos Sisters [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07TC4MCKW/?tag=tolees-21'
+descuento: '49.97'
+titulo: 'Los Hermanos Sisters [Blu-ray]'
 ---
 
 Ahora mismo tienes [Los Hermanos Sisters [Blu-ray]](https://www.amazon.es/dp/B07TC4MCKW/?tag=tolees-21) a 8.0 EUR (original: 15.99 EUR) (49.97 %  de descuento) en el siguiente enlace!
 
 [![Los Hermanos Sisters [Blu-ray]](https://m.media-amazon.com/images/I/51pC0ccNqML._SL200_.jpg)](https://www.amazon.es/dp/B07TC4MCKW/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07TC4MCKW/?tag=tolees-21)
 

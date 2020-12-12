@@ -3,6 +3,7 @@ layout: post
 title: 'IBRA Cable de Red CAT8 Ethernet Gigabit  al 35.55 % de descuento'
 date: 2020-11-27 00:24:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/41oKa7kd3VL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41oKa7kd3VL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41oKa7kd3VL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 13.11 EUR
 inStock: true
 prodname: 'IBRA Cable de Red CAT8 Ethernet Gigabit LAN RJ45  SSTP 40Gbps 2000Mhz|Cable de conexión|UTP|Compatible con CAT5 / 6/7 | Switch/Router/Modem/Patch Panel/Access Point/Patch Fields | Blanco Redondo - 1M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0844NMTZV/?tag=tolees-21'
+descuento: '35.55'
+titulo: 'IBRA Cable de Red CAT8 Ethernet Gigabit '
 ---
 
 Está [IBRA Cable de Red CAT8 Ethernet Gigabit LAN RJ45  SSTP 40Gbps 2000Mhz|Cable de conexión|UTP|Compatible con CAT5 / 6/7 | Switch/Router/Modem/Patch Panel/Access Point/Patch Fields | Blanco Redondo - 1M](https://www.amazon.es/dp/B0844NMTZV/?tag=tolees-21) con 35.55 de descuento por 8.45 EUR (original: 13.11 EUR) en el siguiente enlace!
 
 [![IBRA Cable de Red CAT8 Ethernet Gigabit ](https://m.media-amazon.com/images/I/41oKa7kd3VL._SL200_.jpg)](https://www.amazon.es/dp/B0844NMTZV/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0844NMTZV/?tag=tolees-21)
 

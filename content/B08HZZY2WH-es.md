@@ -3,6 +3,7 @@ layout: post
 title: 'Garnier Fructis Hair Food Champú Banana  al 25.00 % de descuento'
 date: 2020-11-21 11:13:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/51k7uk8n8vL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51k7uk8n8vL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51k7uk8n8vL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 19.8 EUR
 inStock: true
 prodname: 'Garnier Fructis Hair Food Champú Banana Nutritiva  indicado para Pelo Seco - Pack de 4 x 350 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08HZZY2WH/?tag=tolees-21'
+descuento: '25.00'
+titulo: 'Garnier Fructis Hair Food Champú Banana '
 ---
 
 Está [Garnier Fructis Hair Food Champú Banana Nutritiva  indicado para Pelo Seco - Pack de 4 x 350 ml](https://www.amazon.es/dp/B08HZZY2WH/?tag=tolees-21) con 25.00 de descuento por 14.85 EUR (original: 19.8 EUR) en el siguiente enlace!
 
 [![Garnier Fructis Hair Food Champú Banana ](https://m.media-amazon.com/images/I/51k7uk8n8vL._SL200_.jpg)](https://www.amazon.es/dp/B08HZZY2WH/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08HZZY2WH/?tag=tolees-21)
 

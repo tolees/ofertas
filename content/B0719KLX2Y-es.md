@@ -3,6 +3,7 @@ layout: post
 title: 'PDP - Pixel Pals Street Fighter Chun-Li al 33.62 % de descuento'
 date: 2020-10-28 13:01:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/51h2ZnLkoNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51h2ZnLkoNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51h2ZnLkoNL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'PDP - Pixel Pals Street Fighter Chun-Li'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0719KLX2Y/?tag=tolees-21'
+descuento: '33.62'
+titulo: 'PDP - Pixel Pals Street Fighter Chun-Li'
 ---
 
 Está [PDP - Pixel Pals Street Fighter Chun-Li](https://www.amazon.es/dp/B0719KLX2Y/?tag=tolees-21) con 33.62 de descuento por 9.95 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![PDP - Pixel Pals Street Fighter Chun-Li](https://m.media-amazon.com/images/I/51h2ZnLkoNL._SL200_.jpg)](https://www.amazon.es/dp/B0719KLX2Y/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0719KLX2Y/?tag=tolees-21)
 

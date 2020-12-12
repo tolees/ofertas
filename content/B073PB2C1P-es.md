@@ -3,6 +3,7 @@ layout: post
 title: 'Bourjois Velvet The Lipstick Barra de La al 28.49 % de descuento'
 date: 2020-10-13 07:09:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Sa8DfGnOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Sa8DfGnOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Sa8DfGnOL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 8.95 EUR
 inStock: true
 prodname: 'Bourjois Velvet The Lipstick Barra de Labios Tono 08  Rubi’s cute   2.3 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073PB2C1P/?tag=tolees-21'
+descuento: '28.49'
+titulo: 'Bourjois Velvet The Lipstick Barra de La'
 ---
 
 Está [Bourjois Velvet The Lipstick Barra de Labios Tono 08  Rubi’s cute   2.3 gr](https://www.amazon.es/dp/B073PB2C1P/?tag=tolees-21) con 28.49 de descuento por 6.4 EUR (original: 8.95 EUR) en el siguiente enlace!
 
 [![Bourjois Velvet The Lipstick Barra de La](https://m.media-amazon.com/images/I/41Sa8DfGnOL._SL200_.jpg)](https://www.amazon.es/dp/B073PB2C1P/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B073PB2C1P/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.01 % en King C. Gillette Máquina de Afeitar de D'
 date: 2020-12-03 09:10:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41g1jugspBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41g1jugspBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41g1jugspBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'King C. Gillette Máquina de Afeitar de Doble Filo Hombre + 5 Cuchillas de Recambio + Gel Transparente + Gel para Barba y Rostro  Regalos Originales para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08MMHFZF1/?tag=tolees-21'
+descuento: '25.01'
+titulo: 'King C. Gillette Máquina de Afeitar de D'
 ---
 
 Tienes [King C. Gillette Máquina de Afeitar de Doble Filo Hombre + 5 Cuchillas de Recambio + Gel Transparente + Gel para Barba y Rostro  Regalos Originales para Hombre](https://www.amazon.es/dp/B08MMHFZF1/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![King C. Gillette Máquina de Afeitar de D](https://m.media-amazon.com/images/I/41g1jugspBL._SL200_.jpg)](https://www.amazon.es/dp/B08MMHFZF1/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08MMHFZF1/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.19 % en Taurus Fashion Infrared - Secador de pel'
 date: 2020-11-24 14:01:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/41YAWfDtnVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YAWfDtnVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41YAWfDtnVL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Taurus Fashion Infrared - Secador de pelo  2200 W  2 velocidades  3 temperaturas  revestimiento cerámico   negro y rojo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LB614TW/?tag=tolees-21'
+descuento: '46.19'
+titulo: 'Taurus Fashion Infrared - Secador de pel'
 ---
 
 Tienes [Taurus Fashion Infrared - Secador de pelo  2200 W  2 velocidades  3 temperaturas  revestimiento cerámico   negro y rojo](https://www.amazon.es/dp/B01LB614TW/?tag=tolees-21) con un 46.19 % de descuento con precio de oferta de 26.9 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![Taurus Fashion Infrared - Secador de pel](https://m.media-amazon.com/images/I/41YAWfDtnVL._SL200_.jpg)](https://www.amazon.es/dp/B01LB614TW/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01LB614TW/?tag=tolees-21)
 

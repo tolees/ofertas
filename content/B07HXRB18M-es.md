@@ -3,6 +3,7 @@ layout: post
 title: 'Brazalete de dragón de doble cabeza para al 48.66 % de descuento'
 date: 2020-11-16 20:22:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41F49fN2COL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41F49fN2COL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41F49fN2COL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 36.99 EUR
 inStock: true
 prodname: 'Brazalete de dragón de doble cabeza para hombres  AILUOR Vikingo nórdico  acero inoxidable ajustable  oro  plata  brazalete  pulido fresco  brazo trenzado  brazaletes de cable  joyas paganas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HXRB18M/?tag=tolees-21'
+descuento: '48.66'
+titulo: 'Brazalete de dragón de doble cabeza para'
 ---
 
 Está [Brazalete de dragón de doble cabeza para hombres  AILUOR Vikingo nórdico  acero inoxidable ajustable  oro  plata  brazalete  pulido fresco  brazo trenzado  brazaletes de cable  joyas paganas](https://www.amazon.es/dp/B07HXRB18M/?tag=tolees-21) con 48.66 de descuento por 18.99 EUR (original: 36.99 EUR) en el siguiente enlace!
 
 [![Brazalete de dragón de doble cabeza para](https://m.media-amazon.com/images/I/41F49fN2COL._SL200_.jpg)](https://www.amazon.es/dp/B07HXRB18M/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07HXRB18M/?tag=tolees-21)
 

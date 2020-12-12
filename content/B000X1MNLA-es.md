@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok F/S Hi 2431  Zapatillas de Deport al 29.97 % de descuento'
 date: 2020-12-04 11:20:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/316sZjAiiwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/316sZjAiiwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/316sZjAiiwL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Reebok F/S Hi 2431  Zapatillas de Deporte para Mujer  Blanco Weiß  39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000X1MNLA/?tag=tolees-21'
+descuento: '29.97'
+titulo: 'Reebok F/S Hi 2431  Zapatillas de Deport'
 ---
 
 Está [Reebok F/S Hi 2431  Zapatillas de Deporte para Mujer  Blanco Weiß  39 EU](https://www.amazon.es/dp/B000X1MNLA/?tag=tolees-21) con 29.97 de descuento por 62.99 EUR (original: 89.95 EUR) en el siguiente enlace!
 
 [![Reebok F/S Hi 2431  Zapatillas de Deport](https://m.media-amazon.com/images/I/316sZjAiiwL._SL200_.jpg)](https://www.amazon.es/dp/B000X1MNLA/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B000X1MNLA/?tag=tolees-21)
 

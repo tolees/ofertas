@@ -3,6 +3,7 @@ layout: post
 title: 'Polti La Vaporella XT90C Centro de Planc al 45.29 % de descuento'
 date: 2020-11-30 09:38:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41rDLW-l8tL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rDLW-l8tL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41rDLW-l8tL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 329.0 EUR
 inStock: true
 prodname: 'Polti La Vaporella XT90C Centro de Planchado a Vapor con Caldera  2350 W  1.4 L  7 BAR  Autonomía Ilimitada  Steam Pulse 450G  3 Programas de Planchado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KVXNRWM/?tag=tolees-21'
+descuento: '45.29'
+titulo: 'Polti La Vaporella XT90C Centro de Planc'
 ---
 
 Está [Polti La Vaporella XT90C Centro de Planchado a Vapor con Caldera  2350 W  1.4 L  7 BAR  Autonomía Ilimitada  Steam Pulse 450G  3 Programas de Planchado](https://www.amazon.es/dp/B07KVXNRWM/?tag=tolees-21) con 45.29 de descuento por 179.99 EUR (original: 329.0 EUR) en el siguiente enlace!
 
 [![Polti La Vaporella XT90C Centro de Planc](https://m.media-amazon.com/images/I/41rDLW-l8tL._SL200_.jpg)](https://www.amazon.es/dp/B07KVXNRWM/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KVXNRWM/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'DDG EDMMS - RC2034301-01 - Mando a dista al 27.32 % de descuento'
 date: 2020-10-13 14:33:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/41nEHQOg64L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nEHQOg64L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41nEHQOg64L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 5.49 EUR
 inStock: true
 prodname: 'DDG EDMMS - RC2034301-01 - Mando a distancia para televisor Philips'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G9CXM67/?tag=tolees-21'
+descuento: '27.32'
+titulo: 'DDG EDMMS - RC2034301-01 - Mando a dista'
 ---
 
 Ahora mismo tienes [DDG EDMMS - RC2034301-01 - Mando a distancia para televisor Philips](https://www.amazon.es/dp/B07G9CXM67/?tag=tolees-21) a 3.99 EUR (original: 5.49 EUR) (27.32 %  de descuento) en el siguiente enlace!
 
 [![DDG EDMMS - RC2034301-01 - Mando a dista](https://m.media-amazon.com/images/I/41nEHQOg64L._SL200_.jpg)](https://www.amazon.es/dp/B07G9CXM67/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07G9CXM67/?tag=tolees-21)
 

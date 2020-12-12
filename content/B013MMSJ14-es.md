@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.61 % en Cara Robada  1952  [DVD]'
 date: 2020-11-30 16:18:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/51MGOkrJIZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51MGOkrJIZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51MGOkrJIZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 11.95 EUR
 inStock: true
 prodname: 'Cara Robada  1952  [DVD]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B013MMSJ14/?tag=tolees-21'
+descuento: '45.61'
+titulo: 'Cara Robada  1952  [DVD]'
 ---
 
 Tienes [Cara Robada  1952  [DVD]](https://www.amazon.es/dp/B013MMSJ14/?tag=tolees-21) con un 45.61 % de descuento con precio de oferta de 6.5 EUR (original: 11.95 EUR) en el siguiente enlace!
 
 [![Cara Robada  1952  [DVD]](https://m.media-amazon.com/images/I/51MGOkrJIZL._SL200_.jpg)](https://www.amazon.es/dp/B013MMSJ14/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B013MMSJ14/?tag=tolees-21)
 

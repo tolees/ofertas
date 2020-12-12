@@ -3,6 +3,7 @@ layout: post
 title: 'CMP – F.lli Campagnolo Nashira Maxi Wmn  al 26.74 % de descuento'
 date: 2020-11-18 14:11:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41BYOlof+tL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BYOlof+tL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41BYOlof+tL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 18.77 EUR
 inStock: true
 prodname: 'CMP – F.lli Campagnolo Nashira Maxi Wmn Shoe  Zapatillas de Trail Running Mujer  Color Azul Brillante 07me  41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07WC7PY2Q/?tag=tolees-21'
+descuento: '26.74'
+titulo: 'CMP – F.lli Campagnolo Nashira Maxi Wmn '
 ---
 
 Está [CMP – F.lli Campagnolo Nashira Maxi Wmn Shoe  Zapatillas de Trail Running Mujer  Color Azul Brillante 07me  41 EU](https://www.amazon.es/dp/B07WC7PY2Q/?tag=tolees-21) con 26.74 de descuento por 13.75 EUR (original: 18.77 EUR) en el siguiente enlace!
 
 [![CMP – F.lli Campagnolo Nashira Maxi Wmn ](https://m.media-amazon.com/images/I/41BYOlof+tL._SL200_.jpg)](https://www.amazon.es/dp/B07WC7PY2Q/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07WC7PY2Q/?tag=tolees-21)
 

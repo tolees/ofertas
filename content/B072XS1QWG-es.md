@@ -3,6 +3,7 @@ layout: post
 title: 'Jack & Jones Jacdna Knit Scarf Noos Bufa al 38.91 % de descuento'
 date: 2020-12-10 20:41:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/51j9hREYE+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51j9hREYE+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51j9hREYE+L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 17.99 EUR
 inStock: true
 prodname: 'Jack & Jones Jacdna Knit Scarf Noos Bufanda  Gris  Grey Melange Grey Melange   Talla Única para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072XS1QWG/?tag=tolees-21'
+descuento: '38.91'
+titulo: 'Jack & Jones Jacdna Knit Scarf Noos Bufa'
 ---
 
 Está [Jack & Jones Jacdna Knit Scarf Noos Bufanda  Gris  Grey Melange Grey Melange   Talla Única para Hombre](https://www.amazon.es/dp/B072XS1QWG/?tag=tolees-21) con 38.91 de descuento por 10.99 EUR (original: 17.99 EUR) en el siguiente enlace!
@@ -24,8 +28,8 @@ Está [Jack & Jones Jacdna Knit Scarf Noos Bufanda  Gris  Grey Melange Grey Mela
 
 Principales características:
 
-- Knitted scarf
 - Scarf e of acrylic
+- Knitted scarf
 
 [Ver la oferta!!](https://www.amazon.es/dp/B072XS1QWG/?tag=tolees-21)
 

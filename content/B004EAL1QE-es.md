@@ -3,6 +3,7 @@ layout: post
 title: 'Don Julio Blanco Tequila - 700 ml al 35.09 % de descuento'
 date: 2020-10-30 14:24:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/31B9dvGIZBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31B9dvGIZBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31B9dvGIZBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 42.98 EUR
 inStock: true
 prodname: 'Don Julio Blanco Tequila - 700 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004EAL1QE/?tag=tolees-21'
+descuento: '35.09'
+titulo: 'Don Julio Blanco Tequila - 700 ml'
 ---
 
 Ahora mismo tienes [Don Julio Blanco Tequila - 700 ml](https://www.amazon.es/dp/B004EAL1QE/?tag=tolees-21) a 27.9 EUR (original: 42.98 EUR) (35.09 %  de descuento) en el siguiente enlace!
 
 [![Don Julio Blanco Tequila - 700 ml](https://m.media-amazon.com/images/I/31B9dvGIZBL._SL200_.jpg)](https://www.amazon.es/dp/B004EAL1QE/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B004EAL1QE/?tag=tolees-21)
 

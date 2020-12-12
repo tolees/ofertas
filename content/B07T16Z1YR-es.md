@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.60 % en Carte Lexar Professional 1667x 256 Go SD'
 date: 2020-11-22 14:01:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41kgHFO8z0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41kgHFO8z0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41kgHFO8z0L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 88.99 EUR
 inStock: true
 prodname: 'Carte Lexar Professional 1667x 256 Go SDXC UHS-II'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07T16Z1YR/?tag=tolees-21'
+descuento: '34.60'
+titulo: 'Carte Lexar Professional 1667x 256 Go SD'
 ---
 
 Tienes [Carte Lexar Professional 1667x 256 Go SDXC UHS-II](https://www.amazon.es/dp/B07T16Z1YR/?tag=tolees-21) con un 34.60 % de descuento con precio de oferta de 58.2 EUR (original: 88.99 EUR) en el siguiente enlace!
 
 [![Carte Lexar Professional 1667x 256 Go SD](https://m.media-amazon.com/images/I/41kgHFO8z0L._SL200_.jpg)](https://www.amazon.es/dp/B07T16Z1YR/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07T16Z1YR/?tag=tolees-21)
 

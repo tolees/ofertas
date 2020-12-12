@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.01 % en Ninco NincoRacers Dakota. Desert Buggy t'
 date: 2020-12-07 19:15:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/51bjITKAWtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51bjITKAWtL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51bjITKAWtL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 130.0 EUR
 inStock: true
 prodname: 'Ninco NincoRacers Dakota. Desert Buggy teledirigido a escala 1/12 y tracción a las 4 ruedas. Color negro. 34x26x15.5cm. NH93140'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MR65DD3/?tag=tolees-21'
+descuento: '30.01'
+titulo: 'Ninco NincoRacers Dakota. Desert Buggy t'
 ---
 
 Tienes [Ninco NincoRacers Dakota. Desert Buggy teledirigido a escala 1/12 y tracción a las 4 ruedas. Color negro. 34x26x15.5cm. NH93140](https://www.amazon.es/dp/B07MR65DD3/?tag=tolees-21) con un 30.01 % de descuento con precio de oferta de 90.99 EUR (original: 130.0 EUR) en el siguiente enlace!
 
 [![Ninco NincoRacers Dakota. Desert Buggy t](https://m.media-amazon.com/images/I/51bjITKAWtL._SL200_.jpg)](https://www.amazon.es/dp/B07MR65DD3/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MR65DD3/?tag=tolees-21)
 

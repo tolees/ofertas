@@ -3,6 +3,7 @@ layout: post
 title: 'Jack & Jones Jjebasic Knit Crew Neck Noo al 42.02 % de descuento'
 date: 2020-10-15 19:26:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/31sPM2jkEkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31sPM2jkEkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31sPM2jkEkL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Jack & Jones Jjebasic Knit Crew Neck Noos suéter  Negro  Navy Blazer   Medium para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CG3M7BX/?tag=tolees-21'
+descuento: '42.02'
+titulo: 'Jack & Jones Jjebasic Knit Crew Neck Noo'
 ---
 
 Ahora mismo tienes [Jack & Jones Jjebasic Knit Crew Neck Noos suéter  Negro  Navy Blazer   Medium para Hombre](https://www.amazon.es/dp/B07CG3M7BX/?tag=tolees-21) a 14.49 EUR (original: 24.99 EUR) (42.02 %  de descuento) en el siguiente enlace!
 
 [![Jack & Jones Jjebasic Knit Crew Neck Noo](https://m.media-amazon.com/images/I/31sPM2jkEkL._SL200_.jpg)](https://www.amazon.es/dp/B07CG3M7BX/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07CG3M7BX/?tag=tolees-21)
 

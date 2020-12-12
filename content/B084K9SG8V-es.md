@@ -3,6 +3,7 @@ layout: post
 title: 'SuperEpic: The Entertainment War - Colle al 58.07 % de descuento'
 date: 2020-12-02 09:15:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ABhbhCc+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ABhbhCc+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ABhbhCc+L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'SuperEpic: The Entertainment War - Collector s Edition'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B084K9SG8V/?tag=tolees-21'
+descuento: '58.07'
+titulo: 'SuperEpic: The Entertainment War - Colle'
 ---
 
 Ahora mismo tienes [SuperEpic: The Entertainment War - Collector s Edition](https://www.amazon.es/dp/B084K9SG8V/?tag=tolees-21) a 20.96 EUR (original: 49.99 EUR) (58.07 %  de descuento) en el siguiente enlace!
 
 [![SuperEpic: The Entertainment War - Colle](https://m.media-amazon.com/images/I/51ABhbhCc+L._SL200_.jpg)](https://www.amazon.es/dp/B084K9SG8V/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B084K9SG8V/?tag=tolees-21)
 

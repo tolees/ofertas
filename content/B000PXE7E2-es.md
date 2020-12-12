@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.44 % en Bosch Home and Garden 0600853500 Bosch B'
 date: 2020-10-27 07:16:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/41aFYsNgV2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aFYsNgV2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41aFYsNgV2L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 269.99 EUR
 inStock: true
 prodname: 'Bosch Home and Garden 0600853500 Bosch Biotrituradora AXT RAPID 2000  W'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000PXE7E2/?tag=tolees-21'
+descuento: '31.44'
+titulo: 'Bosch Home and Garden 0600853500 Bosch B'
 ---
 
 Tienes [Bosch Home and Garden 0600853500 Bosch Biotrituradora AXT RAPID 2000  W](https://www.amazon.es/dp/B000PXE7E2/?tag=tolees-21) con un 31.44 % de descuento con precio de oferta de 185.1 EUR (original: 269.99 EUR) en el siguiente enlace!
 
 [![Bosch Home and Garden 0600853500 Bosch B](https://m.media-amazon.com/images/I/41aFYsNgV2L._SL200_.jpg)](https://www.amazon.es/dp/B000PXE7E2/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000PXE7E2/?tag=tolees-21)
 

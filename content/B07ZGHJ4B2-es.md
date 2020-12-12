@@ -3,6 +3,7 @@ layout: post
 title: 'Detector de Pared  TACKLIFE DMS03 4 en 1 al 36.01 % de descuento'
 date: 2020-10-27 19:59:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41C7J8GuaEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41C7J8GuaEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41C7J8GuaEL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Detector de Pared  TACKLIFE DMS03 4 en 1  Detector de Cable y Tuberia  Metal  Madera  Pantalla LCD Retroiluminada  Bolsa protectora  Adecuado para Ingenieros  Diseñadores y Trabajadores de Renovación'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07ZGHJ4B2/?tag=tolees-21'
+descuento: '36.01'
+titulo: 'Detector de Pared  TACKLIFE DMS03 4 en 1'
 ---
 
 Está [Detector de Pared  TACKLIFE DMS03 4 en 1  Detector de Cable y Tuberia  Metal  Madera  Pantalla LCD Retroiluminada  Bolsa protectora  Adecuado para Ingenieros  Diseñadores y Trabajadores de Renovación](https://www.amazon.es/dp/B07ZGHJ4B2/?tag=tolees-21) con 36.01 de descuento por 19.19 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![Detector de Pared  TACKLIFE DMS03 4 en 1](https://m.media-amazon.com/images/I/41C7J8GuaEL._SL200_.jpg)](https://www.amazon.es/dp/B07ZGHJ4B2/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07ZGHJ4B2/?tag=tolees-21)
 

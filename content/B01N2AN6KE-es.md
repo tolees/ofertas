@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.47 % en Worx WG546E.2 - Soplador  20 V'
 date: 2020-11-09 11:21:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41mdompV-fL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mdompV-fL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41mdompV-fL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 169.99 EUR
 inStock: true
 prodname: 'Worx WG546E.2 - Soplador  20 V'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N2AN6KE/?tag=tolees-21'
+descuento: '26.47'
+titulo: 'Worx WG546E.2 - Soplador  20 V'
 ---
 
 Tienes [Worx WG546E.2 - Soplador  20 V](https://www.amazon.es/dp/B01N2AN6KE/?tag=tolees-21) con un 26.47 % de descuento con precio de oferta de 124.99 EUR (original: 169.99 EUR) en el siguiente enlace!
 
 [![Worx WG546E.2 - Soplador  20 V](https://m.media-amazon.com/images/I/41mdompV-fL._SL200_.jpg)](https://www.amazon.es/dp/B01N2AN6KE/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N2AN6KE/?tag=tolees-21)
 

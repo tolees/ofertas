@@ -3,6 +3,7 @@ layout: post
 title: 'Durex Preservativos Intense Orgasmic con al 26.56 % de descuento'
 date: 2020-12-04 13:20:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41P4QzJIlDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41P4QzJIlDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41P4QzJIlDL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Durex Preservativos Intense Orgasmic con Puntos y Estrías - 12 Condones'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MZ4KJQU/?tag=tolees-21'
+descuento: '26.56'
+titulo: 'Durex Preservativos Intense Orgasmic con'
 ---
 
 Ahora mismo tienes [Durex Preservativos Intense Orgasmic con Puntos y Estrías - 12 Condones](https://www.amazon.es/dp/B01MZ4KJQU/?tag=tolees-21) a 9.54 EUR (original: 12.99 EUR) (26.56 %  de descuento) en el siguiente enlace!
 
 [![Durex Preservativos Intense Orgasmic con](https://m.media-amazon.com/images/I/41P4QzJIlDL._SL200_.jpg)](https://www.amazon.es/dp/B01MZ4KJQU/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B01MZ4KJQU/?tag=tolees-21)
 

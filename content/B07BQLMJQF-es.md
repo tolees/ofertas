@@ -3,6 +3,7 @@ layout: post
 title: 'Superga 2750 COTU Classic  Zapatillas Un al 56.31 % de descuento'
 date: 2020-12-07 13:14:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/41YiUdVaYvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YiUdVaYvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41YiUdVaYvL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 59.0 EUR
 inStock: true
 prodname: 'Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Rosa  Pink Skin W6y   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BQLMJQF/?tag=tolees-21'
+descuento: '56.31'
+titulo: 'Superga 2750 COTU Classic  Zapatillas Un'
 ---
 
 Está [Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Rosa  Pink Skin W6y   43 EU](https://www.amazon.es/dp/B07BQLMJQF/?tag=tolees-21) con 56.31 de descuento por 25.78 EUR (original: 59.0 EUR) en el siguiente enlace!
 
 [![Superga 2750 COTU Classic  Zapatillas Un](https://m.media-amazon.com/images/I/41YiUdVaYvL._SL200_.jpg)](https://www.amazon.es/dp/B07BQLMJQF/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07BQLMJQF/?tag=tolees-21)
 

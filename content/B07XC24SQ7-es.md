@@ -3,6 +3,7 @@ layout: post
 title: 'Funko Pop! Marvel: Avengers Game- Capt A al 28.73 % de descuento'
 date: 2020-10-21 10:53:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41++ewf-s-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41++ewf-s-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41++ewf-s-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 12.81 EUR
 inStock: true
 prodname: 'Funko Pop! Marvel: Avengers Game- Capt America  Multicolor  Stark Tech Suit '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07XC24SQ7/?tag=tolees-21'
+descuento: '28.73'
+titulo: 'Funko Pop! Marvel: Avengers Game- Capt A'
 ---
 
 Ahora mismo tienes [Funko Pop! Marvel: Avengers Game- Capt America  Multicolor  Stark Tech Suit ](https://www.amazon.es/dp/B07XC24SQ7/?tag=tolees-21) a 9.13 EUR (original: 12.81 EUR) (28.73 %  de descuento) en el siguiente enlace!
 
 [![Funko Pop! Marvel: Avengers Game- Capt A](https://m.media-amazon.com/images/I/41++ewf-s-L._SL200_.jpg)](https://www.amazon.es/dp/B07XC24SQ7/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07XC24SQ7/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance Fresh Foam Tempo h  Zapatill al 52.25 % de descuento'
 date: 2020-10-23 07:51:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/41JwznKI5XL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41JwznKI5XL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41JwznKI5XL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 130.0 EUR
 inStock: true
 prodname: 'New Balance Fresh Foam Tempo h  Zapatillas de Running para Hombre  Negro  Black B   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07S2SN1LM/?tag=tolees-21'
+descuento: '52.25'
+titulo: 'New Balance Fresh Foam Tempo h  Zapatill'
 ---
 
 Está [New Balance Fresh Foam Tempo h  Zapatillas de Running para Hombre  Negro  Black B   42 EU](https://www.amazon.es/dp/B07S2SN1LM/?tag=tolees-21) con 52.25 de descuento por 62.07 EUR (original: 130.0 EUR) en el siguiente enlace!
 
 [![New Balance Fresh Foam Tempo h  Zapatill](https://m.media-amazon.com/images/I/41JwznKI5XL._SL200_.jpg)](https://www.amazon.es/dp/B07S2SN1LM/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07S2SN1LM/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Gel de Aloe Vera  Aloe Vera Gel  Puro Hi al 34.63 % de descuento'
 date: 2020-11-17 04:14:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Ph-Q5L4uL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Ph-Q5L4uL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Ph-Q5L4uL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Gel de Aloe Vera  Aloe Vera Gel  Puro Hidratante Rostro Cuerpo  Hidratante natural  Loción calmante y refrescante para despues del sol  Refresca la piel irritada por el depilado y afeitado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08693YSXK/?tag=tolees-21'
+descuento: '34.63'
+titulo: 'Gel de Aloe Vera  Aloe Vera Gel  Puro Hi'
 ---
 
 Ahora mismo tienes [Gel de Aloe Vera  Aloe Vera Gel  Puro Hidratante Rostro Cuerpo  Hidratante natural  Loción calmante y refrescante para despues del sol  Refresca la piel irritada por el depilado y afeitado](https://www.amazon.es/dp/B08693YSXK/?tag=tolees-21) a 16.99 EUR (original: 25.99 EUR) (34.63 %  de descuento) en el siguiente enlace!
 
 [![Gel de Aloe Vera  Aloe Vera Gel  Puro Hi](https://m.media-amazon.com/images/I/51Ph-Q5L4uL._SL200_.jpg)](https://www.amazon.es/dp/B08693YSXK/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B08693YSXK/?tag=tolees-21)
 

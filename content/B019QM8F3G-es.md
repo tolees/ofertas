@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.55 % en Tesa Assa Abloy ENTRKIT1T603035 Cerradur'
 date: 2020-11-02 13:22:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41LiJBqpIWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41LiJBqpIWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41LiJBqpIWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 402.05 EUR
 inStock: true
 prodname: 'Tesa Assa Abloy ENTRKIT1T603035 Cerradura Inteligente Motorizada  Blanco  30 x 35 mm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B019QM8F3G/?tag=tolees-21'
+descuento: '47.55'
+titulo: 'Tesa Assa Abloy ENTRKIT1T603035 Cerradur'
 ---
 
 Tienes [Tesa Assa Abloy ENTRKIT1T603035 Cerradura Inteligente Motorizada  Blanco  30 x 35 mm](https://www.amazon.es/dp/B019QM8F3G/?tag=tolees-21) con un 47.55 % de descuento con precio de oferta de 210.88 EUR (original: 402.05 EUR) en el siguiente enlace!
 
 [![Tesa Assa Abloy ENTRKIT1T603035 Cerradur](https://m.media-amazon.com/images/I/41LiJBqpIWL._SL200_.jpg)](https://www.amazon.es/dp/B019QM8F3G/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B019QM8F3G/?tag=tolees-21)
 

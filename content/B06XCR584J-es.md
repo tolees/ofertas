@@ -3,6 +3,7 @@ layout: post
 title: 'Trio Lighting Garda Colgante  40 W  Níqu al 41.32 % de descuento'
 date: 2020-11-12 14:33:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/31cCxLYnNXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31cCxLYnNXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31cCxLYnNXL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 146.37 EUR
 inStock: true
 prodname: 'Trio Lighting Garda Colgante  40 W  Níquel Mate  13.5 x 77 x 150 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XCR584J/?tag=tolees-21'
+descuento: '41.32'
+titulo: 'Trio Lighting Garda Colgante  40 W  Níqu'
 ---
 
 Ahora mismo tienes [Trio Lighting Garda Colgante  40 W  Níquel Mate  13.5 x 77 x 150 cm](https://www.amazon.es/dp/B06XCR584J/?tag=tolees-21) a 85.89 EUR (original: 146.37 EUR) (41.32 %  de descuento) en el siguiente enlace!
 
 [![Trio Lighting Garda Colgante  40 W  Níqu](https://m.media-amazon.com/images/I/31cCxLYnNXL._SL200_.jpg)](https://www.amazon.es/dp/B06XCR584J/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B06XCR584J/?tag=tolees-21)
 

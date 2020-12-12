@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Rovic Zip 3D Tapered Pantalon al 35.48 % de descuento'
 date: 2020-12-02 17:36:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/41r0F1L9--L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41r0F1L9--L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41r0F1L9--L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Rovic Zip 3D Tapered Pantalon  Negro  Raven 5126-976   32W / 32L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BGTW9R0/?tag=tolees-21'
+descuento: '35.48'
+titulo: 'G-STAR RAW Rovic Zip 3D Tapered Pantalon'
 ---
 
 Está [G-STAR RAW Rovic Zip 3D Tapered Pantalon  Negro  Raven 5126-976   32W / 32L para Hombre](https://www.amazon.es/dp/B01BGTW9R0/?tag=tolees-21) con 35.48 de descuento por 64.49 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![G-STAR RAW Rovic Zip 3D Tapered Pantalon](https://m.media-amazon.com/images/I/41r0F1L9--L._SL200_.jpg)](https://www.amazon.es/dp/B01BGTW9R0/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01BGTW9R0/?tag=tolees-21)
 

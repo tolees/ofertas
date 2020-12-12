@@ -3,6 +3,7 @@ layout: post
 title: 'Tatkraft Bond Alfombrilla Antideslizante al 48.74 % de descuento'
 date: 2020-10-18 13:44:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/51+dajMT+nL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51+dajMT+nL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51+dajMT+nL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 39.0 EUR
 inStock: true
 prodname: 'Tatkraft Bond Alfombrilla Antideslizante para Bañera  Ducha o Baño  Hecha de PVC con 126 Ventosas  62 x 40 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08HYTMJJ5/?tag=tolees-21'
+descuento: '48.74'
+titulo: 'Tatkraft Bond Alfombrilla Antideslizante'
 ---
 
 Está [Tatkraft Bond Alfombrilla Antideslizante para Bañera  Ducha o Baño  Hecha de PVC con 126 Ventosas  62 x 40 cm](https://www.amazon.es/dp/B08HYTMJJ5/?tag=tolees-21) con 48.74 de descuento por 19.99 EUR (original: 39.0 EUR) en el siguiente enlace!
 
 [![Tatkraft Bond Alfombrilla Antideslizante](https://m.media-amazon.com/images/I/51+dajMT+nL._SL200_.jpg)](https://www.amazon.es/dp/B08HYTMJJ5/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08HYTMJJ5/?tag=tolees-21)
 

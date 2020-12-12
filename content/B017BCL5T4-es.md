@@ -28,11 +28,11 @@ Ahora mismo tienes [Max Factor Creme Puff Blush Colorete Tono 25 Alluring Rose -
 
 Características:
 
-- Es mezclable y no se ven los trazos del colorete
-- Los pigmentos multi-tonales trabajan con tu tono de piel
-- Fórmula gradual que permite controlar el nivel de intensidad
-- Producto adecuado para mujeres
 - Textura fina y molida, acabado porcelana
+- Los pigmentos multi-tonales trabajan con tu tono de piel
+- Producto adecuado para mujeres
+- Fórmula gradual que permite controlar el nivel de intensidad
+- Es mezclable y no se ven los trazos del colorete
 
 [Visítala!!!](https://www.amazon.es/dp/B017BCL5T4/?tag=tolees-21)
 

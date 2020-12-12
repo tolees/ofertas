@@ -3,6 +3,7 @@ layout: post
 title: 'AtailorBird Alfombrilla Ratón Grande Alf al 33.35 % de descuento'
 date: 2020-12-05 08:10:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/418psUNmHYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418psUNmHYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/418psUNmHYL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 17.99 EUR
 inStock: true
 prodname: 'AtailorBird Alfombrilla Ratón Grande Alfombrilla Escritorio 800x400x2mm Antideslizante e Impermeable Cuero PU Ideal para Portátil  Teclado  Hogar y Oficina Hoja Verde 2/Plata'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0894J8QSV/?tag=tolees-21'
+descuento: '33.35'
+titulo: 'AtailorBird Alfombrilla Ratón Grande Alf'
 ---
 
 Ahora mismo tienes [AtailorBird Alfombrilla Ratón Grande Alfombrilla Escritorio 800x400x2mm Antideslizante e Impermeable Cuero PU Ideal para Portátil  Teclado  Hogar y Oficina Hoja Verde 2/Plata](https://www.amazon.es/dp/B0894J8QSV/?tag=tolees-21) a 11.99 EUR (original: 17.99 EUR) (33.35 %  de descuento) en el siguiente enlace!
 
 [![AtailorBird Alfombrilla Ratón Grande Alf](https://m.media-amazon.com/images/I/418psUNmHYL._SL200_.jpg)](https://www.amazon.es/dp/B0894J8QSV/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B0894J8QSV/?tag=tolees-21)
 

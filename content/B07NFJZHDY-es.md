@@ -3,6 +3,7 @@ layout: post
 title: 'BIC Intesity Medium - Blíster de 12 unid al 46.24 % de descuento'
 date: 2020-10-27 18:20:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/51xqKX60HyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51xqKX60HyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51xqKX60HyL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 11.16 EUR
 inStock: true
 prodname: 'BIC Intesity Medium - Blíster de 12 unidades  rotuladores punta media  0 8 mm   colores surtidos – paquete de rotuladores para dibujar  colorear y escribir'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NFJZHDY/?tag=tolees-21'
+descuento: '46.24'
+titulo: 'BIC Intesity Medium - Blíster de 12 unid'
 ---
 
 Está [BIC Intesity Medium - Blíster de 12 unidades  rotuladores punta media  0 8 mm   colores surtidos – paquete de rotuladores para dibujar  colorear y escribir](https://www.amazon.es/dp/B07NFJZHDY/?tag=tolees-21) con 46.24 de descuento por 6.0 EUR (original: 11.16 EUR) en el siguiente enlace!
 
 [![BIC Intesity Medium - Blíster de 12 unid](https://m.media-amazon.com/images/I/51xqKX60HyL._SL200_.jpg)](https://www.amazon.es/dp/B07NFJZHDY/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07NFJZHDY/?tag=tolees-21)
 

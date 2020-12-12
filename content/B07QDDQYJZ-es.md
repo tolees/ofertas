@@ -3,6 +3,7 @@ layout: post
 title: 'Lotus Reloj Analógico para Mujer de Cuar al 25.00 % de descuento'
 date: 2020-12-08 09:05:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/413RmNTjCIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413RmNTjCIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/413RmNTjCIL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.0 EUR
 inStock: true
 prodname: 'Lotus Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 18708/2'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07QDDQYJZ/?tag=tolees-21'
+descuento: '25.00'
+titulo: 'Lotus Reloj Analógico para Mujer de Cuar'
 ---
 
 Está [Lotus Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 18708/2](https://www.amazon.es/dp/B07QDDQYJZ/?tag=tolees-21) con 25.00 de descuento por 74.25 EUR (original: 99.0 EUR) en el siguiente enlace!
 
 [![Lotus Reloj Analógico para Mujer de Cuar](https://m.media-amazon.com/images/I/413RmNTjCIL._SL200_.jpg)](https://www.amazon.es/dp/B07QDDQYJZ/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07QDDQYJZ/?tag=tolees-21)
 

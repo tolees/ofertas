@@ -3,6 +3,7 @@ layout: post
 title: 'Puntero Laser Presentaciones Doosl Prese al 57.68 % de descuento'
 date: 2020-11-20 10:13:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/41b6T52HUgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41b6T52HUgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41b6T52HUgL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 18.88 EUR
 inStock: true
 prodname: 'Puntero Laser Presentaciones Doosl Presentador de Diapositivas Remoto Mando para Powerpoint Presentación  Keynote  Prezi  Windows XP/7/8  Linux  Android - Batería AAA No Incluida'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07S3TYF66/?tag=tolees-21'
+descuento: '57.68'
+titulo: 'Puntero Laser Presentaciones Doosl Prese'
 ---
 
 Está [Puntero Laser Presentaciones Doosl Presentador de Diapositivas Remoto Mando para Powerpoint Presentación  Keynote  Prezi  Windows XP/7/8  Linux  Android - Batería AAA No Incluida](https://www.amazon.es/dp/B07S3TYF66/?tag=tolees-21) con 57.68 de descuento por 7.99 EUR (original: 18.88 EUR) en el siguiente enlace!
 
 [![Puntero Laser Presentaciones Doosl Prese](https://m.media-amazon.com/images/I/41b6T52HUgL._SL200_.jpg)](https://www.amazon.es/dp/B07S3TYF66/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07S3TYF66/?tag=tolees-21)
 

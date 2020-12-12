@@ -3,6 +3,7 @@ layout: post
 title: 'STANLEY FATMAX 2-14-563- Tijera de corte al 47.35 % de descuento'
 date: 2020-11-05 15:25:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/41LKT+9a2iL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41LKT+9a2iL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41LKT+9a2iL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 18.9 EUR
 inStock: true
 prodname: 'STANLEY FATMAX 2-14-563- Tijera de corte recto'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0001IWB1M/?tag=tolees-21'
+descuento: '47.35'
+titulo: 'STANLEY FATMAX 2-14-563- Tijera de corte'
 ---
 
 Ahora mismo tienes [STANLEY FATMAX 2-14-563- Tijera de corte recto](https://www.amazon.es/dp/B0001IWB1M/?tag=tolees-21) a 9.95 EUR (original: 18.9 EUR) (47.35 %  de descuento) en el siguiente enlace!
 
 [![STANLEY FATMAX 2-14-563- Tijera de corte](https://m.media-amazon.com/images/I/41LKT+9a2iL._SL200_.jpg)](https://www.amazon.es/dp/B0001IWB1M/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B0001IWB1M/?tag=tolees-21)
 

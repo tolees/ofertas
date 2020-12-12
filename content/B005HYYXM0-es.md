@@ -3,6 +3,7 @@ layout: post
 title: 'Dainese New Drake Air Lady Tex Pants Pan al 42.99 % de descuento'
 date: 2020-12-03 11:35:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/31p8576pwqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31p8576pwqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31p8576pwqL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 209.95 EUR
 inStock: true
 prodname: 'Dainese New Drake Air Lady Tex Pants Pantalones Moto para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005HYYXM0/?tag=tolees-21'
+descuento: '42.99'
+titulo: 'Dainese New Drake Air Lady Tex Pants Pan'
 ---
 
 Ahora mismo tienes [Dainese New Drake Air Lady Tex Pants Pantalones Moto para Mujer](https://www.amazon.es/dp/B005HYYXM0/?tag=tolees-21) a 119.7 EUR (original: 209.95 EUR) (42.99 %  de descuento) en el siguiente enlace!
 
 [![Dainese New Drake Air Lady Tex Pants Pan](https://m.media-amazon.com/images/I/31p8576pwqL._SL200_.jpg)](https://www.amazon.es/dp/B005HYYXM0/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B005HYYXM0/?tag=tolees-21)
 

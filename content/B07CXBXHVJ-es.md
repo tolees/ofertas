@@ -3,6 +3,7 @@ layout: post
 title: 'Forrest Gump [4K UHD + Blu-ray + Blu-ray al 49.96 % de descuento'
 date: 2020-11-25 02:52:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/51X1VsNfZhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51X1VsNfZhL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51X1VsNfZhL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 25.98 EUR
 inStock: true
 prodname: 'Forrest Gump [4K UHD + Blu-ray + Blu-ray Extras] [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CXBXHVJ/?tag=tolees-21'
+descuento: '49.96'
+titulo: 'Forrest Gump [4K UHD + Blu-ray + Blu-ray'
 ---
 
 Está [Forrest Gump [4K UHD + Blu-ray + Blu-ray Extras] [Blu-ray]](https://www.amazon.es/dp/B07CXBXHVJ/?tag=tolees-21) con 49.96 de descuento por 13.0 EUR (original: 25.98 EUR) en el siguiente enlace!
 
 [![Forrest Gump [4K UHD + Blu-ray + Blu-ray](https://m.media-amazon.com/images/I/51X1VsNfZhL._SL200_.jpg)](https://www.amazon.es/dp/B07CXBXHVJ/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07CXBXHVJ/?tag=tolees-21)
 

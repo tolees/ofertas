@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.19 % en TRIXIE Coral en rama  12 cm  Peces'
 date: 2020-12-04 15:19:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/51kzjsUBAtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51kzjsUBAtL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51kzjsUBAtL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 9.59 EUR
 inStock: true
 prodname: 'TRIXIE Coral en rama  12 cm  Peces'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000WFCHKO/?tag=tolees-21'
+descuento: '46.19'
+titulo: 'TRIXIE Coral en rama  12 cm  Peces'
 ---
 
 Tienes [TRIXIE Coral en rama  12 cm  Peces](https://www.amazon.es/dp/B000WFCHKO/?tag=tolees-21) con un 46.19 % de descuento con precio de oferta de 5.16 EUR (original: 9.59 EUR) en el siguiente enlace!
 
 [![TRIXIE Coral en rama  12 cm  Peces](https://m.media-amazon.com/images/I/51kzjsUBAtL._SL200_.jpg)](https://www.amazon.es/dp/B000WFCHKO/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000WFCHKO/?tag=tolees-21)
 

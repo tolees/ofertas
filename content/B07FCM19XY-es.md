@@ -3,6 +3,7 @@ layout: post
 title: '3 brocas de taladro JelBo de acero de al al 50.00 % de descuento'
 date: 2020-12-04 03:01:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/51B3LSK0wNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51B3LSK0wNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51B3LSK0wNL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 67.98 EUR
 inStock: true
 prodname: '3 brocas de taladro JelBo de acero de alta velocidad  brocas escalonadas acanaladas en espiral de 4 mm a 12 mm  20 mm y 32 mm para set de herramientas de corte'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FCM19XY/?tag=tolees-21'
+descuento: '50.00'
+titulo: '3 brocas de taladro JelBo de acero de al'
 ---
 
 Ahora mismo tienes [3 brocas de taladro JelBo de acero de alta velocidad  brocas escalonadas acanaladas en espiral de 4 mm a 12 mm  20 mm y 32 mm para set de herramientas de corte](https://www.amazon.es/dp/B07FCM19XY/?tag=tolees-21) a 33.99 EUR (original: 67.98 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
 [![3 brocas de taladro JelBo de acero de al](https://m.media-amazon.com/images/I/51B3LSK0wNL._SL200_.jpg)](https://www.amazon.es/dp/B07FCM19XY/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07FCM19XY/?tag=tolees-21)
 

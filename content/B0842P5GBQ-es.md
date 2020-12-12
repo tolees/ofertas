@@ -3,6 +3,7 @@ layout: post
 title: 'Sandisk Ultra Luxe  Memoria Flash USB Ty al 37.51 % de descuento'
 date: 2020-10-19 16:57:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41BYAj3DJLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BYAj3DJLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41BYAj3DJLL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'Sandisk Ultra Luxe  Memoria Flash USB Type-C Doble de 128 GB 150MB/S USB 3.1 Gen 1  Plata'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0842P5GBQ/?tag=tolees-21'
+descuento: '37.51'
+titulo: 'Sandisk Ultra Luxe  Memoria Flash USB Ty'
 ---
 
 Está [Sandisk Ultra Luxe  Memoria Flash USB Type-C Doble de 128 GB 150MB/S USB 3.1 Gen 1  Plata](https://www.amazon.es/dp/B0842P5GBQ/?tag=tolees-21) con 37.51 de descuento por 22.49 EUR (original: 35.99 EUR) en el siguiente enlace!
 
 [![Sandisk Ultra Luxe  Memoria Flash USB Ty](https://m.media-amazon.com/images/I/41BYAj3DJLL._SL200_.jpg)](https://www.amazon.es/dp/B0842P5GBQ/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0842P5GBQ/?tag=tolees-21)
 

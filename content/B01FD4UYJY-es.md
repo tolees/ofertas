@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Royal Glide  Zapatillas de Deport al 53.83 % de descuento'
 date: 2020-12-06 10:25:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/41v88WVevML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41v88WVevML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41v88WVevML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Reebok Royal Glide  Zapatillas de Deporte Unisex Adulto  Blanco  Blanco V53956   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01FD4UYJY/?tag=tolees-21'
+descuento: '53.83'
+titulo: 'Reebok Royal Glide  Zapatillas de Deport'
 ---
 
 Ahora mismo tienes [Reebok Royal Glide  Zapatillas de Deporte Unisex Adulto  Blanco  Blanco V53956   41 EU](https://www.amazon.es/dp/B01FD4UYJY/?tag=tolees-21) a 29.99 EUR (original: 64.95 EUR) (53.83 %  de descuento) en el siguiente enlace!
 
 [![Reebok Royal Glide  Zapatillas de Deport](https://m.media-amazon.com/images/I/41v88WVevML._SL200_.jpg)](https://www.amazon.es/dp/B01FD4UYJY/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B01FD4UYJY/?tag=tolees-21)
 

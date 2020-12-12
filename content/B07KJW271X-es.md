@@ -3,6 +3,7 @@ layout: post
 title: 'El Regreso De Mary Poppins [Blu-ray] al 50.04 % de descuento'
 date: 2020-11-24 18:42:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51R0Pqd5wTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51R0Pqd5wTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51R0Pqd5wTL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 11.99 EUR
 inStock: true
 prodname: 'El Regreso De Mary Poppins [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KJW271X/?tag=tolees-21'
+descuento: '50.04'
+titulo: 'El Regreso De Mary Poppins [Blu-ray]'
 ---
 
 Ahora mismo tienes [El Regreso De Mary Poppins [Blu-ray]](https://www.amazon.es/dp/B07KJW271X/?tag=tolees-21) a 5.99 EUR (original: 11.99 EUR) (50.04 %  de descuento) en el siguiente enlace!
 
 [![El Regreso De Mary Poppins [Blu-ray]](https://m.media-amazon.com/images/I/51R0Pqd5wTL._SL200_.jpg)](https://www.amazon.es/dp/B07KJW271X/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07KJW271X/?tag=tolees-21)
 

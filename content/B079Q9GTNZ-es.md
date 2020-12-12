@@ -3,6 +3,7 @@ layout: post
 title: 'Brawlout al 57.33 % de descuento'
 date: 2020-11-22 23:40:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/511aNF8iIzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/511aNF8iIzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/511aNF8iIzL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 34.99 EUR
 inStock: true
 prodname: 'Brawlout'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B079Q9GTNZ/?tag=tolees-21'
+descuento: '57.33'
+titulo: 'Brawlout'
 ---
 
 Está [Brawlout](https://www.amazon.es/dp/B079Q9GTNZ/?tag=tolees-21) con 57.33 de descuento por 14.93 EUR (original: 34.99 EUR) en el siguiente enlace!
 
 [![Brawlout](https://m.media-amazon.com/images/I/511aNF8iIzL._SL200_.jpg)](https://www.amazon.es/dp/B079Q9GTNZ/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B079Q9GTNZ/?tag=tolees-21)
 

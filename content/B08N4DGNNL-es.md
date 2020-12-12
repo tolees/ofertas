@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en lijun Spray de Llama simulado Tyrannosau'
 date: 2020-11-25 06:00:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qIEkzBloL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qIEkzBloL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qIEkzBloL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 42.64 EUR
 inStock: true
 prodname: 'lijun Spray de Llama simulado Tyrannosaurus T-Rex Dinosaurio Juguete niños Caminando Dinosaurio Agua Spray luz roja y Sonidos realistas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08N4DGNNL/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'lijun Spray de Llama simulado Tyrannosau'
 ---
 
 Tienes [lijun Spray de Llama simulado Tyrannosaurus T-Rex Dinosaurio Juguete niños Caminando Dinosaurio Agua Spray luz roja y Sonidos realistas](https://www.amazon.es/dp/B08N4DGNNL/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 21.32 EUR (original: 42.64 EUR) en el siguiente enlace!
 
 [![lijun Spray de Llama simulado Tyrannosau](https://m.media-amazon.com/images/I/41qIEkzBloL._SL200_.jpg)](https://www.amazon.es/dp/B08N4DGNNL/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08N4DGNNL/?tag=tolees-21)
 

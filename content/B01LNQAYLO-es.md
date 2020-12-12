@@ -3,6 +3,7 @@ layout: post
 title: 'Weider Collagen. Con Ácido Hialurónico   al 31.89 % de descuento'
 date: 2020-11-23 19:25:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41HKBv95prL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41HKBv95prL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41HKBv95prL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 15.49 EUR
 inStock: true
 prodname: 'Weider Collagen. Con Ácido Hialurónico  Magnesio y Vitamina C. 100% Peptan. Cero grasas. Cero azúcar. Keto.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LNQAYLO/?tag=tolees-21'
+descuento: '31.89'
+titulo: 'Weider Collagen. Con Ácido Hialurónico  '
 ---
 
 Está [Weider Collagen. Con Ácido Hialurónico  Magnesio y Vitamina C. 100% Peptan. Cero grasas. Cero azúcar. Keto.](https://www.amazon.es/dp/B01LNQAYLO/?tag=tolees-21) con 31.89 de descuento por 10.55 EUR (original: 15.49 EUR) en el siguiente enlace!
 
 [![Weider Collagen. Con Ácido Hialurónico  ](https://m.media-amazon.com/images/I/41HKBv95prL._SL200_.jpg)](https://www.amazon.es/dp/B01LNQAYLO/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01LNQAYLO/?tag=tolees-21)
 

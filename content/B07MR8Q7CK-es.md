@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Luke Pants Jeans  Moto Grey Hga  31W al 50.03 % de descuento'
 date: 2020-10-15 09:33:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/31M9FtRgnBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31M9FtRgnBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31M9FtRgnBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Lee Luke Pants Jeans  Moto Grey Hga  31W / 32L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MR8Q7CK/?tag=tolees-21'
+descuento: '50.03'
+titulo: 'Lee Luke Pants Jeans  Moto Grey Hga  31W'
 ---
 
 Está [Lee Luke Pants Jeans  Moto Grey Hga  31W / 32L para Hombre](https://www.amazon.es/dp/B07MR8Q7CK/?tag=tolees-21) con 50.03 de descuento por 44.95 EUR (original: 89.95 EUR) en el siguiente enlace!
 
 [![Lee Luke Pants Jeans  Moto Grey Hga  31W](https://m.media-amazon.com/images/I/31M9FtRgnBL._SL200_.jpg)](https://www.amazon.es/dp/B07MR8Q7CK/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07MR8Q7CK/?tag=tolees-21)
 

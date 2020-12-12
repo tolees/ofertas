@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.67 % en Cmp-Paris CMKB5691 Limpia VITROCERÁMICA '
 date: 2020-12-10 14:49:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/3160rWs3W3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/3160rWs3W3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/3160rWs3W3L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 5.06 EUR
 inStock: true
 prodname: 'Cmp-Paris CMKB5691 Limpia VITROCERÁMICA C/5 RECA  Aleatorio  13.8x5.3x0.8 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0108KWS3I/?tag=tolees-21'
+descuento: '60.67'
+titulo: 'Cmp-Paris CMKB5691 Limpia VITROCERÁMICA '
 ---
 
 Tienes [Cmp-Paris CMKB5691 Limpia VITROCERÁMICA C/5 RECA  Aleatorio  13.8x5.3x0.8 cm](https://www.amazon.es/dp/B0108KWS3I/?tag=tolees-21) con un 60.67 % de descuento con precio de oferta de 1.99 EUR (original: 5.06 EUR) en el siguiente enlace!
 
 [![Cmp-Paris CMKB5691 Limpia VITROCERÁMICA ](https://m.media-amazon.com/images/I/3160rWs3W3L._SL200_.jpg)](https://www.amazon.es/dp/B0108KWS3I/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0108KWS3I/?tag=tolees-21)
 

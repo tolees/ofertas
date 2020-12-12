@@ -3,6 +3,7 @@ layout: post
 title: 'Funda Huawei P20 Lite  MHHQ Slim Luxury  al 56.29 % de descuento'
 date: 2020-12-03 09:32:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/515CFI-ruoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/515CFI-ruoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/515CFI-ruoL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 15.99 EUR
 inStock: true
 prodname: 'Funda Huawei P20 Lite  MHHQ Slim Luxury Glitter Case con Rave Laser Brillante Flexible Transparente Crystal Clear Soft TPU Silicone Case Cover para Huawei P20 Lite -2'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D4KPF18/?tag=tolees-21'
+descuento: '56.29'
+titulo: 'Funda Huawei P20 Lite  MHHQ Slim Luxury '
 ---
 
 Ahora mismo tienes [Funda Huawei P20 Lite  MHHQ Slim Luxury Glitter Case con Rave Laser Brillante Flexible Transparente Crystal Clear Soft TPU Silicone Case Cover para Huawei P20 Lite -2](https://www.amazon.es/dp/B07D4KPF18/?tag=tolees-21) a 6.99 EUR (original: 15.99 EUR) (56.29 %  de descuento) en el siguiente enlace!
 
 [![Funda Huawei P20 Lite  MHHQ Slim Luxury ](https://m.media-amazon.com/images/I/515CFI-ruoL._SL200_.jpg)](https://www.amazon.es/dp/B07D4KPF18/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07D4KPF18/?tag=tolees-21)
 

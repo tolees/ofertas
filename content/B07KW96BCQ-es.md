@@ -3,6 +3,7 @@ layout: post
 title: 'SALOMON X-Mission 3 Zapatillas De Trail  al 38.55 % de descuento'
 date: 2020-11-19 14:45:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/415kOJ8SxoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415kOJ8SxoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415kOJ8SxoL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 114.95 EUR
 inStock: true
 prodname: 'SALOMON X-Mission 3 Zapatillas De Trail Running Para Mujer'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KW96BCQ/?tag=tolees-21'
+descuento: '38.55'
+titulo: 'SALOMON X-Mission 3 Zapatillas De Trail '
 ---
 
 Está [SALOMON X-Mission 3 Zapatillas De Trail Running Para Mujer](https://www.amazon.es/dp/B07KW96BCQ/?tag=tolees-21) con 38.55 de descuento por 70.64 EUR (original: 114.95 EUR) en el siguiente enlace!
 
 [![SALOMON X-Mission 3 Zapatillas De Trail ](https://m.media-amazon.com/images/I/415kOJ8SxoL._SL200_.jpg)](https://www.amazon.es/dp/B07KW96BCQ/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KW96BCQ/?tag=tolees-21)
 

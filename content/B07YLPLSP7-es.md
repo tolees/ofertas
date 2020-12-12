@@ -17,6 +17,9 @@ comparePrice: 279.0 EUR
 inStock: true
 prodname: 'Michael Kors Mujer MK4451'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07YLPLSP7/?tag=tolees-21'
+descuento: '37.51'
+titulo: 'Michael Kors Mujer MK4451'
 ---
 
 Ahora mismo tienes [Michael Kors Mujer MK4451](https://www.amazon.es/dp/B07YLPLSP7/?tag=tolees-21) a 174.34 EUR (original: 279.0 EUR) (37.51 %  de descuento) en el siguiente enlace!
@@ -25,9 +28,9 @@ Ahora mismo tienes [Michael Kors Mujer MK4451](https://www.amazon.es/dp/B07YLPLS
 
 Características:
 
-- Resistente al agua: 3 ATM
-- Ancho de la correa: 16mm; Circunferencia de la correa: 175+/- 5mm
 - Se presenta en caja de regalo Michael Kors
+- Ancho de la correa: 16mm; Circunferencia de la correa: 175+/- 5mm
+- Resistente al agua: 3 ATM
 - Material de la correa: Acero inoxidable
 - Grosor de la caja: 8mm; Tamaño de la caja: 34mm
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Ventilador USB  Mini Ventilador USB Sile al 30.03 % de descuento'
 date: 2020-12-06 03:15:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/51soYic4eBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51soYic4eBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51soYic4eBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 9.99 EUR
 inStock: true
 prodname: 'Ventilador USB  Mini Ventilador USB Silencioso  Personal Portátil Ventilador PC  para Oficina/Hogar/Viajar/Acampar  Alimentado por USB 3 Velocidades Para'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07RS2KB1C/?tag=tolees-21'
+descuento: '30.03'
+titulo: 'Ventilador USB  Mini Ventilador USB Sile'
 ---
 
 Está [Ventilador USB  Mini Ventilador USB Silencioso  Personal Portátil Ventilador PC  para Oficina/Hogar/Viajar/Acampar  Alimentado por USB 3 Velocidades Para](https://www.amazon.es/dp/B07RS2KB1C/?tag=tolees-21) con 30.03 de descuento por 6.99 EUR (original: 9.99 EUR) en el siguiente enlace!
 
 [![Ventilador USB  Mini Ventilador USB Sile](https://m.media-amazon.com/images/I/51soYic4eBL._SL200_.jpg)](https://www.amazon.es/dp/B07RS2KB1C/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07RS2KB1C/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'BLACK+DECKER BCF602C-QW - Atornillador d al 31.05 % de descuento'
 date: 2020-10-27 14:22:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/31S+ANm1b9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31S+ANm1b9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31S+ANm1b9L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'BLACK+DECKER BCF602C-QW - Atornillador de Eje Extensible 3.6V  5.5 NM  batería de Litio 1.5Ah integrada'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KZ48MM6/?tag=tolees-21'
+descuento: '31.05'
+titulo: 'BLACK+DECKER BCF602C-QW - Atornillador d'
 ---
 
 Está [BLACK+DECKER BCF602C-QW - Atornillador de Eje Extensible 3.6V  5.5 NM  batería de Litio 1.5Ah integrada](https://www.amazon.es/dp/B07KZ48MM6/?tag=tolees-21) con 31.05 de descuento por 20.65 EUR (original: 29.95 EUR) en el siguiente enlace!
 
 [![BLACK+DECKER BCF602C-QW - Atornillador d](https://m.media-amazon.com/images/I/31S+ANm1b9L._SL200_.jpg)](https://www.amazon.es/dp/B07KZ48MM6/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KZ48MM6/?tag=tolees-21)
 

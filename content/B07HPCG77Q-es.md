@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.22 % en HUAWEI Carcasa de silicona Azul Claro Ma'
 date: 2020-12-07 11:20:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/415DLimthrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415DLimthrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415DLimthrL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 7.05 EUR
 inStock: true
 prodname: 'HUAWEI Carcasa de silicona Azul Claro Mate 20'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HPCG77Q/?tag=tolees-21'
+descuento: '29.22'
+titulo: 'HUAWEI Carcasa de silicona Azul Claro Ma'
 ---
 
 Tienes [HUAWEI Carcasa de silicona Azul Claro Mate 20](https://www.amazon.es/dp/B07HPCG77Q/?tag=tolees-21) con un 29.22 % de descuento con precio de oferta de 4.99 EUR (original: 7.05 EUR) en el siguiente enlace!
 
 [![HUAWEI Carcasa de silicona Azul Claro Ma](https://m.media-amazon.com/images/I/415DLimthrL._SL200_.jpg)](https://www.amazon.es/dp/B07HPCG77Q/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HPCG77Q/?tag=tolees-21)
 

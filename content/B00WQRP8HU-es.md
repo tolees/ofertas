@@ -3,6 +3,7 @@ layout: post
 title: '600 mg/h Digital de Ozono generador de o al 34.76 % de descuento'
 date: 2020-11-23 16:33:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/41pAdab7woL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pAdab7woL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41pAdab7woL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 55.79 EUR
 inStock: true
 prodname: '600 mg/h Digital de Ozono generador de ozono desintoxicación Máquinas Para frutas verduras carne Agua dulce Hydro ponics'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00WQRP8HU/?tag=tolees-21'
+descuento: '34.76'
+titulo: '600 mg/h Digital de Ozono generador de o'
 ---
 
 Ahora mismo tienes [600 mg/h Digital de Ozono generador de ozono desintoxicación Máquinas Para frutas verduras carne Agua dulce Hydro ponics](https://www.amazon.es/dp/B00WQRP8HU/?tag=tolees-21) a 36.4 EUR (original: 55.79 EUR) (34.76 %  de descuento) en el siguiente enlace!
 
 [![600 mg/h Digital de Ozono generador de o](https://m.media-amazon.com/images/I/41pAdab7woL._SL200_.jpg)](https://www.amazon.es/dp/B00WQRP8HU/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B00WQRP8HU/?tag=tolees-21)
 

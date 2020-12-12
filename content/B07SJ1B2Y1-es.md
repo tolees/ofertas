@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Malibu Beach S  Zapatillas para M al 37.17 % de descuento'
 date: 2020-12-02 07:01:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/31+dL1RyNAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31+dL1RyNAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31+dL1RyNAL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 35.0 EUR
 inStock: true
 prodname: 'Levi s Malibu Beach S  Zapatillas para Mujer  Amarillo  Pastel Yellow 70   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07SJ1B2Y1/?tag=tolees-21'
+descuento: '37.17'
+titulo: 'Levi s Malibu Beach S  Zapatillas para M'
 ---
 
 Ahora mismo tienes [Levi s Malibu Beach S  Zapatillas para Mujer  Amarillo  Pastel Yellow 70   37 EU](https://www.amazon.es/dp/B07SJ1B2Y1/?tag=tolees-21) a 21.99 EUR (original: 35.0 EUR) (37.17 %  de descuento) en el siguiente enlace!
 
 [![Levi s Malibu Beach S  Zapatillas para M](https://m.media-amazon.com/images/I/31+dL1RyNAL._SL200_.jpg)](https://www.amazon.es/dp/B07SJ1B2Y1/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07SJ1B2Y1/?tag=tolees-21)
 

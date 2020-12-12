@@ -3,6 +3,7 @@ layout: post
 title: 'NIKE Nk Elmntl Bkpk-2.0 Mochilla de Depo al 30.05 % de descuento'
 date: 2020-10-22 08:00:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ZbcYg8NZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZbcYg8NZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ZbcYg8NZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 27.95 EUR
 inStock: true
 prodname: 'NIKE Nk Elmntl Bkpk-2.0 Mochilla de Deporte  Unisex Adulto  Black/Black/ White   MISC'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KM8QF58/?tag=tolees-21'
+descuento: '30.05'
+titulo: 'NIKE Nk Elmntl Bkpk-2.0 Mochilla de Depo'
 ---
 
 Está [NIKE Nk Elmntl Bkpk-2.0 Mochilla de Deporte  Unisex Adulto  Black/Black/ White   MISC](https://www.amazon.es/dp/B07KM8QF58/?tag=tolees-21) con 30.05 de descuento por 19.55 EUR (original: 27.95 EUR) en el siguiente enlace!
 
 [![NIKE Nk Elmntl Bkpk-2.0 Mochilla de Depo](https://m.media-amazon.com/images/I/41ZbcYg8NZL._SL200_.jpg)](https://www.amazon.es/dp/B07KM8QF58/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KM8QF58/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Pop! Crash Bandicoot - Figura de Vinilo  al 33.61 % de descuento'
 date: 2020-11-20 16:47:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/41QyKNwz-yL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QyKNwz-yL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41QyKNwz-yL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 15.95 EUR
 inStock: true
 prodname: 'Pop! Crash Bandicoot - Figura de Vinilo Crash Bandicoot with Scuba Gear'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DFCXD18/?tag=tolees-21'
+descuento: '33.61'
+titulo: 'Pop! Crash Bandicoot - Figura de Vinilo '
 ---
 
 Está [Pop! Crash Bandicoot - Figura de Vinilo Crash Bandicoot with Scuba Gear](https://www.amazon.es/dp/B07DFCXD18/?tag=tolees-21) con 33.61 de descuento por 10.59 EUR (original: 15.95 EUR) en el siguiente enlace!
 
 [![Pop! Crash Bandicoot - Figura de Vinilo ](https://m.media-amazon.com/images/I/41QyKNwz-yL._SL200_.jpg)](https://www.amazon.es/dp/B07DFCXD18/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07DFCXD18/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Mooer HUSTLE DRIVE - Pedal de efectos al 27.78 % de descuento'
 date: 2020-11-27 11:00:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41AdIHtt+iL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41AdIHtt+iL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41AdIHtt+iL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 54.0 EUR
 inStock: true
 prodname: 'Mooer HUSTLE DRIVE - Pedal de efectos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B008TNAHXA/?tag=tolees-21'
+descuento: '27.78'
+titulo: 'Mooer HUSTLE DRIVE - Pedal de efectos'
 ---
 
 Ahora mismo tienes [Mooer HUSTLE DRIVE - Pedal de efectos](https://www.amazon.es/dp/B008TNAHXA/?tag=tolees-21) a 39.0 EUR (original: 54.0 EUR) (27.78 %  de descuento) en el siguiente enlace!
 
 [![Mooer HUSTLE DRIVE - Pedal de efectos](https://m.media-amazon.com/images/I/41AdIHtt+iL._SL200_.jpg)](https://www.amazon.es/dp/B008TNAHXA/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B008TNAHXA/?tag=tolees-21)
 

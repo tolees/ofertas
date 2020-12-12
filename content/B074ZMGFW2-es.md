@@ -3,6 +3,7 @@ layout: post
 title: 'Quantum Mechanix Star Trek Discovery - I al 52.33 % de descuento'
 date: 2020-10-29 20:41:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ahKGXU90L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ahKGXU90L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ahKGXU90L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 11.6 EUR
 inStock: true
 prodname: 'Quantum Mechanix Star Trek Discovery - Insignia de operaciones'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074ZMGFW2/?tag=tolees-21'
+descuento: '52.33'
+titulo: 'Quantum Mechanix Star Trek Discovery - I'
 ---
 
 Está [Quantum Mechanix Star Trek Discovery - Insignia de operaciones](https://www.amazon.es/dp/B074ZMGFW2/?tag=tolees-21) con 52.33 de descuento por 5.53 EUR (original: 11.6 EUR) en el siguiente enlace!
 
 [![Quantum Mechanix Star Trek Discovery - I](https://m.media-amazon.com/images/I/41ahKGXU90L._SL200_.jpg)](https://www.amazon.es/dp/B074ZMGFW2/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B074ZMGFW2/?tag=tolees-21)
 

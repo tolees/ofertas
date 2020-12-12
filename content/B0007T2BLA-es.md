@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.66 % en Sebago Classic Dan  Náuticos para Hombre'
 date: 2020-12-07 19:12:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/31gkmsYCPQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31gkmsYCPQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31gkmsYCPQL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 199.0 EUR
 inStock: true
 prodname: 'Sebago Classic Dan  Náuticos para Hombre  Negro 902  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0007T2BLA/?tag=tolees-21'
+descuento: '31.66'
+titulo: 'Sebago Classic Dan  Náuticos para Hombre'
 ---
 
 Tienes [Sebago Classic Dan  Náuticos para Hombre  Negro 902  40 EU](https://www.amazon.es/dp/B0007T2BLA/?tag=tolees-21) con un 31.66 % de descuento con precio de oferta de 135.99 EUR (original: 199.0 EUR) en el siguiente enlace!
 
 [![Sebago Classic Dan  Náuticos para Hombre](https://m.media-amazon.com/images/I/31gkmsYCPQL._SL200_.jpg)](https://www.amazon.es/dp/B0007T2BLA/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0007T2BLA/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'FIND Shoe Boot Botas Camperas  Azul  Blu al 37.84 % de descuento'
 date: 2020-12-10 20:12:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/31PkN9cDbhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31PkN9cDbhL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31PkN9cDbhL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 12.71 EUR
 inStock: true
 prodname: 'FIND Shoe Boot Botas Camperas  Azul  Blue Croc   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07YCJKFRL/?tag=tolees-21'
+descuento: '37.84'
+titulo: 'FIND Shoe Boot Botas Camperas  Azul  Blu'
 ---
 
 Está [FIND Shoe Boot Botas Camperas  Azul  Blue Croc   36 EU](https://www.amazon.es/dp/B07YCJKFRL/?tag=tolees-21) con 37.84 de descuento por 7.9 EUR (original: 12.71 EUR) en el siguiente enlace!

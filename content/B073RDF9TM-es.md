@@ -3,6 +3,7 @@ layout: post
 title: 'Max Factor Masterpiece High Precision Ey al 71.05 % de descuento'
 date: 2020-12-10 20:25:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ZrP+R58WL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ZrP+R58WL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ZrP+R58WL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 12.4 EUR
 inStock: true
 prodname: 'Max Factor Masterpiece High Precision Eyeliner Delineador de Ojos Tono 25 Forest - 6 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073RDF9TM/?tag=tolees-21'
+descuento: '71.05'
+titulo: 'Max Factor Masterpiece High Precision Ey'
 ---
 
 Está [Max Factor Masterpiece High Precision Eyeliner Delineador de Ojos Tono 25 Forest - 6 gr](https://www.amazon.es/dp/B073RDF9TM/?tag=tolees-21) con 71.05 de descuento por 3.59 EUR (original: 12.4 EUR) en el siguiente enlace!
@@ -24,11 +28,11 @@ Está [Max Factor Masterpiece High Precision Eyeliner Delineador de Ojos Tono 25
 
 Principales características:
 
-- Rich vibrant colours
+- Feels comfortable all day
 - Long lasting, wears all day
 - The intensity of a liquid eyeliner with the precision of a pencil
 - Applicator glides smoothly for a mistake-proof application
-- Feels comfortable all day
+- Rich vibrant colours
 
 [Ver la oferta!!](https://www.amazon.es/dp/B073RDF9TM/?tag=tolees-21)
 

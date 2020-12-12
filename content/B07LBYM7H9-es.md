@@ -3,6 +3,7 @@ layout: post
 title: 'PIKOLIN Colchón viscoelástico HR 90x190  al 28.57 % de descuento'
 date: 2020-11-04 11:53:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/51fVtandb+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51fVtandb+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51fVtandb+L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 349.99 EUR
 inStock: true
 prodname: 'PIKOLIN Colchón viscoelástico HR 90x190 firmeza Alta  Reversible  máxima Calidad  Alto 25 cm - Colchones Iliria'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LBYM7H9/?tag=tolees-21'
+descuento: '28.57'
+titulo: 'PIKOLIN Colchón viscoelástico HR 90x190 '
 ---
 
 Ahora mismo tienes [PIKOLIN Colchón viscoelástico HR 90x190 firmeza Alta  Reversible  máxima Calidad  Alto 25 cm - Colchones Iliria](https://www.amazon.es/dp/B07LBYM7H9/?tag=tolees-21) a 249.99 EUR (original: 349.99 EUR) (28.57 %  de descuento) en el siguiente enlace!
 
 [![PIKOLIN Colchón viscoelástico HR 90x190 ](https://m.media-amazon.com/images/I/51fVtandb+L._SL200_.jpg)](https://www.amazon.es/dp/B07LBYM7H9/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07LBYM7H9/?tag=tolees-21)
 

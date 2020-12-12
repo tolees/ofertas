@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.01 % en Cooler Master MM710 Ratón Gaming Ultrali'
 date: 2020-11-26 08:21:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ilYdAdLIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ilYdAdLIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ilYdAdLIL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Cooler Master MM710 Ratón Gaming Ultraligero 53g con Cable - Sensor Optico16000 dpi  Conmutadores Omron 20 Millones Clics  Pies PTFE Desplazamiento Suave  Coraza Forma Panel Abeja – Blanco Opaco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07Z46M7ZC/?tag=tolees-21'
+descuento: '36.01'
+titulo: 'Cooler Master MM710 Ratón Gaming Ultrali'
 ---
 
 Tienes [Cooler Master MM710 Ratón Gaming Ultraligero 53g con Cable - Sensor Optico16000 dpi  Conmutadores Omron 20 Millones Clics  Pies PTFE Desplazamiento Suave  Coraza Forma Panel Abeja – Blanco Opaco](https://www.amazon.es/dp/B07Z46M7ZC/?tag=tolees-21) con un 36.01 % de descuento con precio de oferta de 31.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![Cooler Master MM710 Ratón Gaming Ultrali](https://m.media-amazon.com/images/I/31ilYdAdLIL._SL200_.jpg)](https://www.amazon.es/dp/B07Z46M7ZC/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07Z46M7ZC/?tag=tolees-21)
 

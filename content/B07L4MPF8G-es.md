@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas Terrex AX3 Mid GTX  Zapatillas de al 31.41 % de descuento'
 date: 2020-10-27 13:46:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/41EGuSW063L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EGuSW063L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41EGuSW063L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 139.95 EUR
 inStock: true
 prodname: 'Adidas Terrex AX3 Mid GTX  Zapatillas de Deporte para Hombre  Multicolor  Gricin/Negbás/Mesa 000   46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07L4MPF8G/?tag=tolees-21'
+descuento: '31.41'
+titulo: 'Adidas Terrex AX3 Mid GTX  Zapatillas de'
 ---
 
 Está [Adidas Terrex AX3 Mid GTX  Zapatillas de Deporte para Hombre  Multicolor  Gricin/Negbás/Mesa 000   46 EU](https://www.amazon.es/dp/B07L4MPF8G/?tag=tolees-21) con 31.41 de descuento por 95.99 EUR (original: 139.95 EUR) en el siguiente enlace!
 
 [![Adidas Terrex AX3 Mid GTX  Zapatillas de](https://m.media-amazon.com/images/I/41EGuSW063L._SL200_.jpg)](https://www.amazon.es/dp/B07L4MPF8G/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07L4MPF8G/?tag=tolees-21)
 

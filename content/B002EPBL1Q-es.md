@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.49 % en Talisker 10 Whisky Escocés - 700 ml'
 date: 2020-11-26 21:29:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/4188H7onecL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4188H7onecL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4188H7onecL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 45.19 EUR
 inStock: true
 prodname: 'Talisker 10 Whisky Escocés - 700 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002EPBL1Q/?tag=tolees-21'
+descuento: '42.49'
+titulo: 'Talisker 10 Whisky Escocés - 700 ml'
 ---
 
 Tienes [Talisker 10 Whisky Escocés - 700 ml](https://www.amazon.es/dp/B002EPBL1Q/?tag=tolees-21) con un 42.49 % de descuento con precio de oferta de 25.99 EUR (original: 45.19 EUR) en el siguiente enlace!
 
 [![Talisker 10 Whisky Escocés - 700 ml](https://m.media-amazon.com/images/I/4188H7onecL._SL200_.jpg)](https://www.amazon.es/dp/B002EPBL1Q/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B002EPBL1Q/?tag=tolees-21)
 

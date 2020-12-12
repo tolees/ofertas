@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.40 % en adidas Falcon W  Running Shoe Womens  Co'
 date: 2020-11-13 09:50:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/41hmFBZXKmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hmFBZXKmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41hmFBZXKmL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'adidas Falcon W  Running Shoe Womens  Core Black/Core Black/Footwear White  36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DP7JGV7/?tag=tolees-21'
+descuento: '51.40'
+titulo: 'adidas Falcon W  Running Shoe Womens  Co'
 ---
 
 Tienes [adidas Falcon W  Running Shoe Womens  Core Black/Core Black/Footwear White  36 EU](https://www.amazon.es/dp/B07DP7JGV7/?tag=tolees-21) con un 51.40 % de descuento con precio de oferta de 48.58 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![adidas Falcon W  Running Shoe Womens  Co](https://m.media-amazon.com/images/I/41hmFBZXKmL._SL200_.jpg)](https://www.amazon.es/dp/B07DP7JGV7/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DP7JGV7/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.92 % en Star Wars: The Mandalorian RK39061C  lla'
 date: 2020-11-22 10:52:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41VtPPC7Y0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41VtPPC7Y0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41VtPPC7Y0L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 4.99 EUR
 inStock: true
 prodname: 'Star Wars: The Mandalorian RK39061C  llavero de goma  Baby Yoda   unisex  multicolor  4 5 x 6 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B086HDKX1V/?tag=tolees-21'
+descuento: '60.92'
+titulo: 'Star Wars: The Mandalorian RK39061C  lla'
 ---
 
 Tienes [Star Wars: The Mandalorian RK39061C  llavero de goma  Baby Yoda   unisex  multicolor  4 5 x 6 cm](https://www.amazon.es/dp/B086HDKX1V/?tag=tolees-21) con un 60.92 % de descuento con precio de oferta de 1.95 EUR (original: 4.99 EUR) en el siguiente enlace!
 
 [![Star Wars: The Mandalorian RK39061C  lla](https://m.media-amazon.com/images/I/41VtPPC7Y0L._SL200_.jpg)](https://www.amazon.es/dp/B086HDKX1V/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B086HDKX1V/?tag=tolees-21)
 

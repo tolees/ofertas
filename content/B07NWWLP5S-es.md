@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.46 % en Amazonbasics - Pilas recargables AA  paq'
 date: 2020-11-17 22:05:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/514UWsB5myL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/514UWsB5myL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/514UWsB5myL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 24.27 EUR
 inStock: true
 prodname: 'Amazonbasics - Pilas recargables AA  paquete de 12  de 2000 mAh precargadas de AmazonBasics'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NWWLP5S/?tag=tolees-21'
+descuento: '25.46'
+titulo: 'Amazonbasics - Pilas recargables AA  paq'
 ---
 
 Tienes [Amazonbasics - Pilas recargables AA  paquete de 12  de 2000 mAh precargadas de AmazonBasics](https://www.amazon.es/dp/B07NWWLP5S/?tag=tolees-21) con un 25.46 % de descuento con precio de oferta de 18.09 EUR (original: 24.27 EUR) en el siguiente enlace!
 
 [![Amazonbasics - Pilas recargables AA  paq](https://m.media-amazon.com/images/I/514UWsB5myL._SL200_.jpg)](https://www.amazon.es/dp/B07NWWLP5S/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07NWWLP5S/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Guirnaldas luminosas de exterior LECLSTA al 29.74 % de descuento'
 date: 2020-11-19 08:08:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41cZGVzVk9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41cZGVzVk9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41cZGVzVk9L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 36.99 EUR
 inStock: true
 prodname: 'Guirnaldas luminosas de exterior LECLSTAR G40 Cadena de Luces 10m con 30+3 Bombilla de Repuesto  Vintage Edison Incandescentes IP44 Impermeable Perefcto para Fiesta Boda Jardín Patio Cafe'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07XY1Q3G9/?tag=tolees-21'
+descuento: '29.74'
+titulo: 'Guirnaldas luminosas de exterior LECLSTA'
 ---
 
 Ahora mismo tienes [Guirnaldas luminosas de exterior LECLSTAR G40 Cadena de Luces 10m con 30+3 Bombilla de Repuesto  Vintage Edison Incandescentes IP44 Impermeable Perefcto para Fiesta Boda Jardín Patio Cafe](https://www.amazon.es/dp/B07XY1Q3G9/?tag=tolees-21) a 25.99 EUR (original: 36.99 EUR) (29.74 %  de descuento) en el siguiente enlace!
 
 [![Guirnaldas luminosas de exterior LECLSTA](https://m.media-amazon.com/images/I/41cZGVzVk9L._SL200_.jpg)](https://www.amazon.es/dp/B07XY1Q3G9/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07XY1Q3G9/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.88 % en Fuerzas Armadas / 5802 / RAFALE C 390 KL'
 date: 2020-12-11 17:48:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/51KU24Q5hgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51KU24Q5hgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51KU24Q5hgL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.9 EUR
 inStock: true
 prodname: 'Fuerzas Armadas / 5802 / RAFALE C 390 KL.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B086H7DF9B/?tag=tolees-21'
+descuento: '30.88'
+titulo: 'Fuerzas Armadas / 5802 / RAFALE C 390 KL'
 ---
 
 Tienes [Fuerzas Armadas / 5802 / RAFALE C 390 KL.](https://www.amazon.es/dp/B086H7DF9B/?tag=tolees-21) con un 30.88 % de descuento con precio de oferta de 34.49 EUR (original: 49.9 EUR) en el siguiente enlace!

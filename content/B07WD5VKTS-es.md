@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.15 % en HyperX FURY Black HX426C16FB3/8 Memoria '
 date: 2020-12-10 20:25:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/31u9bWu-+aL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31u9bWu-+aL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31u9bWu-+aL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 53.99 EUR
 inStock: true
 prodname: 'HyperX FURY Black HX426C16FB3/8 Memoria RAM 8GB 2666MHz DDR4 CL16 DIMM 1Rx8'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07WD5VKTS/?tag=tolees-21'
+descuento: '35.15'
+titulo: 'HyperX FURY Black HX426C16FB3/8 Memoria '
 ---
 
 Tienes [HyperX FURY Black HX426C16FB3/8 Memoria RAM 8GB 2666MHz DDR4 CL16 DIMM 1Rx8](https://www.amazon.es/dp/B07WD5VKTS/?tag=tolees-21) con un 35.15 % de descuento con precio de oferta de 35.01 EUR (original: 53.99 EUR) en el siguiente enlace!

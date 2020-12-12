@@ -3,6 +3,7 @@ layout: post
 title: 'Fantasy Island  BD  [Blu-ray] al 46.39 % de descuento'
 date: 2020-11-25 17:16:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/51TkRn0h5pL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51TkRn0h5pL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51TkRn0h5pL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 13.99 EUR
 inStock: true
 prodname: 'Fantasy Island  BD  [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0853P7WTH/?tag=tolees-21'
+descuento: '46.39'
+titulo: 'Fantasy Island  BD  [Blu-ray]'
 ---
 
 Ahora mismo tienes [Fantasy Island  BD  [Blu-ray]](https://www.amazon.es/dp/B0853P7WTH/?tag=tolees-21) a 7.5 EUR (original: 13.99 EUR) (46.39 %  de descuento) en el siguiente enlace!
 
 [![Fantasy Island  BD  [Blu-ray]](https://m.media-amazon.com/images/I/51TkRn0h5pL._SL200_.jpg)](https://www.amazon.es/dp/B0853P7WTH/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B0853P7WTH/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Oral-B PRO 2 2500 CrossAction Cepillo de al 26.89 % de descuento'
 date: 2020-10-19 10:09:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/417KU8qOWCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417KU8qOWCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/417KU8qOWCL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 78.36 EUR
 inStock: true
 prodname: 'Oral-B PRO 2 2500 CrossAction Cepillo de dientes eléctrico recargable con tecnología de Braun  1 mango negro  2 modos  1 cabezal de recambio y 1 estuche de viaje exclusivo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FSTKJ4Z/?tag=tolees-21'
+descuento: '26.89'
+titulo: 'Oral-B PRO 2 2500 CrossAction Cepillo de'
 ---
 
 Ahora mismo tienes [Oral-B PRO 2 2500 CrossAction Cepillo de dientes eléctrico recargable con tecnología de Braun  1 mango negro  2 modos  1 cabezal de recambio y 1 estuche de viaje exclusivo](https://www.amazon.es/dp/B07FSTKJ4Z/?tag=tolees-21) a 57.29 EUR (original: 78.36 EUR) (26.89 %  de descuento) en el siguiente enlace!
 
 [![Oral-B PRO 2 2500 CrossAction Cepillo de](https://m.media-amazon.com/images/I/417KU8qOWCL._SL200_.jpg)](https://www.amazon.es/dp/B07FSTKJ4Z/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07FSTKJ4Z/?tag=tolees-21)
 

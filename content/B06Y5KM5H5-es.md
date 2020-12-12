@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.58 % en Los Caraduras - Edición 2017 [Blu-ray]'
 date: 2020-11-24 18:42:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/61hiN+HJldL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61hiN+HJldL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61hiN+HJldL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 9.52 EUR
 inStock: true
 prodname: 'Los Caraduras - Edición 2017 [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y5KM5H5/?tag=tolees-21'
+descuento: '47.58'
+titulo: 'Los Caraduras - Edición 2017 [Blu-ray]'
 ---
 
 Tienes [Los Caraduras - Edición 2017 [Blu-ray]](https://www.amazon.es/dp/B06Y5KM5H5/?tag=tolees-21) con un 47.58 % de descuento con precio de oferta de 4.99 EUR (original: 9.52 EUR) en el siguiente enlace!
 
 [![Los Caraduras - Edición 2017 [Blu-ray]](https://m.media-amazon.com/images/I/61hiN+HJldL._SL200_.jpg)](https://www.amazon.es/dp/B06Y5KM5H5/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B06Y5KM5H5/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Panasonic ER-GN30-K503 - Naricero/ Recor al 25.06 % de descuento'
 date: 2020-11-08 16:47:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/51cr9osZAxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51cr9osZAxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51cr9osZAxL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 16.0 EUR
 inStock: true
 prodname: 'Panasonic ER-GN30-K503 - Naricero/ Recortador de Vello Facial  Nariz  Oreja  Cejas y Bigote  Acero Inoxidable  Función con Pilas  Sistema de Limpieza Inteligente  Azul/ Negro/ Plata'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0041R9NMO/?tag=tolees-21'
+descuento: '25.06'
+titulo: 'Panasonic ER-GN30-K503 - Naricero/ Recor'
 ---
 
 Ahora mismo tienes [Panasonic ER-GN30-K503 - Naricero/ Recortador de Vello Facial  Nariz  Oreja  Cejas y Bigote  Acero Inoxidable  Función con Pilas  Sistema de Limpieza Inteligente  Azul/ Negro/ Plata](https://www.amazon.es/dp/B0041R9NMO/?tag=tolees-21) a 11.99 EUR (original: 16.0 EUR) (25.06 %  de descuento) en el siguiente enlace!
 
 [![Panasonic ER-GN30-K503 - Naricero/ Recor](https://m.media-amazon.com/images/I/51cr9osZAxL._SL200_.jpg)](https://www.amazon.es/dp/B0041R9NMO/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B0041R9NMO/?tag=tolees-21)
 

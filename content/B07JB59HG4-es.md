@@ -3,6 +3,7 @@ layout: post
 title: 'Venom  4K UHD + BD  [Blu-ray] al 41.88 % de descuento'
 date: 2020-11-24 06:29:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/51sCkujIX9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51sCkujIX9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51sCkujIX9L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 21.85 EUR
 inStock: true
 prodname: 'Venom  4K UHD + BD  [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JB59HG4/?tag=tolees-21'
+descuento: '41.88'
+titulo: 'Venom  4K UHD + BD  [Blu-ray]'
 ---
 
 Está [Venom  4K UHD + BD  [Blu-ray]](https://www.amazon.es/dp/B07JB59HG4/?tag=tolees-21) con 41.88 de descuento por 12.7 EUR (original: 21.85 EUR) en el siguiente enlace!
 
 [![Venom  4K UHD + BD  [Blu-ray]](https://m.media-amazon.com/images/I/51sCkujIX9L._SL200_.jpg)](https://www.amazon.es/dp/B07JB59HG4/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07JB59HG4/?tag=tolees-21)
 

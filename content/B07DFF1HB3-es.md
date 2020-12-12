@@ -30,8 +30,8 @@ Características:
 
 - Algodón orgánico
 - Mangas cortas
-- Cuello redondo
 - Ajuste slim
+- Cuello redondo
 
 [Visítala!!!](https://www.amazon.es/dp/B07DFF1HB3/?tag=tolees-21)
 

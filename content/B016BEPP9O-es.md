@@ -3,6 +3,7 @@ layout: post
 title: 'Kingston DataTraveler 100 G3 -DT100G3/12 al 28.27 % de descuento'
 date: 2020-12-11 21:01:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/31u39xAc0iL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31u39xAc0iL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31u39xAc0iL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'Kingston DataTraveler 100 G3 -DT100G3/128GB  USB 3.0  Flash Drive  128 GB  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B016BEPP9O/?tag=tolees-21'
+descuento: '28.27'
+titulo: 'Kingston DataTraveler 100 G3 -DT100G3/12'
 ---
 
 Está [Kingston DataTraveler 100 G3 -DT100G3/128GB  USB 3.0  Flash Drive  128 GB  Negro](https://www.amazon.es/dp/B016BEPP9O/?tag=tolees-21) con 28.27 de descuento por 16.49 EUR (original: 22.99 EUR) en el siguiente enlace!
@@ -24,10 +28,10 @@ Está [Kingston DataTraveler 100 G3 -DT100G3/128GB  USB 3.0  Flash Drive  128 GB
 
 Principales características:
 
+- Capacidad de la memoria: 128 GB
+- Velocidad de lectura: 100 MB/s
 - Un dispositivo de almacenamiento USB 3.0
 - Diseño elegante en negro y tapa deslizante
-- Velocidad de lectura: 100 MB/s
-- Capacidad de la memoria: 128 GB
 
 [Ver la oferta!!](https://www.amazon.es/dp/B016BEPP9O/?tag=tolees-21)
 

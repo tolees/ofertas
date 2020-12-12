@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger Kelsey 1d1  Zapatillas pa al 28.59 % de descuento'
 date: 2020-12-08 12:06:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/41b0UFDs9uL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41b0UFDs9uL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41b0UFDs9uL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 33.05 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Kelsey 1d1  Zapatillas para Mujer  Marina De Deportes  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07ZK29HP2/?tag=tolees-21'
+descuento: '28.59'
+titulo: 'Tommy Hilfiger Kelsey 1d1  Zapatillas pa'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Kelsey 1d1  Zapatillas para Mujer  Marina De Deportes  40 EU](https://www.amazon.es/dp/B07ZK29HP2/?tag=tolees-21) a 23.6 EUR (original: 33.05 EUR) (28.59 %  de descuento) en el siguiente enlace!
 
 [![Tommy Hilfiger Kelsey 1d1  Zapatillas pa](https://m.media-amazon.com/images/I/41b0UFDs9uL._SL200_.jpg)](https://www.amazon.es/dp/B07ZK29HP2/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07ZK29HP2/?tag=tolees-21)
 

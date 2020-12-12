@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.01 % en MAXTOOLS AR200  Carrete con manguera neu'
 date: 2020-11-29 03:58:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/41yFe-rD+PL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yFe-rD+PL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41yFe-rD+PL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'MAXTOOLS AR200  Carrete con manguera neumática  6 m'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BC5KWWZ/?tag=tolees-21'
+descuento: '44.01'
+titulo: 'MAXTOOLS AR200  Carrete con manguera neu'
 ---
 
 Tienes [MAXTOOLS AR200  Carrete con manguera neumática  6 m](https://www.amazon.es/dp/B07BC5KWWZ/?tag=tolees-21) con un 44.01 % de descuento con precio de oferta de 27.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![MAXTOOLS AR200  Carrete con manguera neu](https://m.media-amazon.com/images/I/41yFe-rD+PL._SL200_.jpg)](https://www.amazon.es/dp/B07BC5KWWZ/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BC5KWWZ/?tag=tolees-21)
 

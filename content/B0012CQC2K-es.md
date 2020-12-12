@@ -3,6 +3,7 @@ layout: post
 title: 'Bosch MFQ3010 Batidora y amasadora  300  al 32.69 % de descuento'
 date: 2020-11-28 15:36:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/31nl9FMWXAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31nl9FMWXAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31nl9FMWXAL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 34.9 EUR
 inStock: true
 prodname: 'Bosch MFQ3010 Batidora y amasadora  300 W  color blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0012CQC2K/?tag=tolees-21'
+descuento: '32.69'
+titulo: 'Bosch MFQ3010 Batidora y amasadora  300 '
 ---
 
 Ahora mismo tienes [Bosch MFQ3010 Batidora y amasadora  300 W  color blanco](https://www.amazon.es/dp/B0012CQC2K/?tag=tolees-21) a 23.49 EUR (original: 34.9 EUR) (32.69 %  de descuento) en el siguiente enlace!
 
 [![Bosch MFQ3010 Batidora y amasadora  300 ](https://m.media-amazon.com/images/I/31nl9FMWXAL._SL200_.jpg)](https://www.amazon.es/dp/B0012CQC2K/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B0012CQC2K/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'D DOLITY 1080P HD 1.5    de Pantalla Kit al 33.34 % de descuento'
 date: 2020-11-08 11:43:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41zcTaNWA5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zcTaNWA5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41zcTaNWA5L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 48.29 EUR
 inStock: true
 prodname: 'D DOLITY 1080P HD 1.5    de Pantalla Kit de Cámara Digital SLR con Diseño Lindo para Niños de Dibujos Animados - Rosa  Aspecto Atractivo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HYYRXD4/?tag=tolees-21'
+descuento: '33.34'
+titulo: 'D DOLITY 1080P HD 1.5    de Pantalla Kit'
 ---
 
 Ahora mismo tienes [D DOLITY 1080P HD 1.5    de Pantalla Kit de Cámara Digital SLR con Diseño Lindo para Niños de Dibujos Animados - Rosa  Aspecto Atractivo](https://www.amazon.es/dp/B07HYYRXD4/?tag=tolees-21) a 32.19 EUR (original: 48.29 EUR) (33.34 %  de descuento) en el siguiente enlace!
 
 [![D DOLITY 1080P HD 1.5    de Pantalla Kit](https://m.media-amazon.com/images/I/41zcTaNWA5L._SL200_.jpg)](https://www.amazon.es/dp/B07HYYRXD4/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07HYYRXD4/?tag=tolees-21)
 

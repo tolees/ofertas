@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.17 % en DeLOCK IDE to Compact Flash CardReader -'
 date: 2020-11-21 18:00:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41LKf04VV6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41LKf04VV6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41LKf04VV6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 22.29 EUR
 inStock: true
 prodname: 'DeLOCK IDE to Compact Flash CardReader - Lector  Windows 98/98SE/ME/2000/XP  Linux  Mac '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000O3QUGQ/?tag=tolees-21'
+descuento: '32.17'
+titulo: 'DeLOCK IDE to Compact Flash CardReader -'
 ---
 
 Tienes [DeLOCK IDE to Compact Flash CardReader - Lector  Windows 98/98SE/ME/2000/XP  Linux  Mac ](https://www.amazon.es/dp/B000O3QUGQ/?tag=tolees-21) con un 32.17 % de descuento con precio de oferta de 15.12 EUR (original: 22.29 EUR) en el siguiente enlace!
 
 [![DeLOCK IDE to Compact Flash CardReader -](https://m.media-amazon.com/images/I/41LKf04VV6L._SL200_.jpg)](https://www.amazon.es/dp/B000O3QUGQ/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000O3QUGQ/?tag=tolees-21)
 

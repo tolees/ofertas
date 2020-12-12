@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.04 % en Doctor En Alaska - Megapack 2016 [DVD]'
 date: 2020-11-28 19:26:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/51wA7pvAN6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51wA7pvAN6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51wA7pvAN6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 72.96 EUR
 inStock: true
 prodname: 'Doctor En Alaska - Megapack 2016 [DVD]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01AWB6JT2/?tag=tolees-21'
+descuento: '52.04'
+titulo: 'Doctor En Alaska - Megapack 2016 [DVD]'
 ---
 
 Tienes [Doctor En Alaska - Megapack 2016 [DVD]](https://www.amazon.es/dp/B01AWB6JT2/?tag=tolees-21) con un 52.04 % de descuento con precio de oferta de 34.99 EUR (original: 72.96 EUR) en el siguiente enlace!
 
 [![Doctor En Alaska - Megapack 2016 [DVD]](https://m.media-amazon.com/images/I/51wA7pvAN6L._SL200_.jpg)](https://www.amazon.es/dp/B01AWB6JT2/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01AWB6JT2/?tag=tolees-21)
 

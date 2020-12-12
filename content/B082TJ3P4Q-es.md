@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste ESPARRE CHUKKA0320 1 CMA  Zapati al 38.38 % de descuento'
 date: 2020-11-26 01:47:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/31FxhVS2B0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31FxhVS2B0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31FxhVS2B0L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 129.0 EUR
 inStock: true
 prodname: 'Lacoste ESPARRE CHUKKA0320 1 CMA  Zapatillas Hombre  Marron Dk BRW Off Wht  39.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B082TJ3P4Q/?tag=tolees-21'
+descuento: '38.38'
+titulo: 'Lacoste ESPARRE CHUKKA0320 1 CMA  Zapati'
 ---
 
 Ahora mismo tienes [Lacoste ESPARRE CHUKKA0320 1 CMA  Zapatillas Hombre  Marron Dk BRW Off Wht  39.5 EU](https://www.amazon.es/dp/B082TJ3P4Q/?tag=tolees-21) a 79.49 EUR (original: 129.0 EUR) (38.38 %  de descuento) en el siguiente enlace!
 
 [![Lacoste ESPARRE CHUKKA0320 1 CMA  Zapati](https://m.media-amazon.com/images/I/31FxhVS2B0L._SL200_.jpg)](https://www.amazon.es/dp/B082TJ3P4Q/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B082TJ3P4Q/?tag=tolees-21)
 

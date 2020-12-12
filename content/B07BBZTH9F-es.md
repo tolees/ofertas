@@ -3,6 +3,7 @@ layout: post
 title: 'Smartwares Extintor de Polvo Seco  2 KG  al 33.48 % de descuento'
 date: 2020-12-02 10:40:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/41lyy0J0b1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lyy0J0b1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41lyy0J0b1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Smartwares Extintor de Polvo Seco  2 KG  Resistencia al Fuego ABC'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07BBZTH9F/?tag=tolees-21'
+descuento: '33.48'
+titulo: 'Smartwares Extintor de Polvo Seco  2 KG '
 ---
 
 Está [Smartwares Extintor de Polvo Seco  2 KG  Resistencia al Fuego ABC](https://www.amazon.es/dp/B07BBZTH9F/?tag=tolees-21) con 33.48 de descuento por 19.95 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![Smartwares Extintor de Polvo Seco  2 KG ](https://m.media-amazon.com/images/I/41lyy0J0b1L._SL200_.jpg)](https://www.amazon.es/dp/B07BBZTH9F/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07BBZTH9F/?tag=tolees-21)
 

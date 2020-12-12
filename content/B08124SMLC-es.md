@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.66 % en Eiffel Textile Funda de Sofa Monaco Elas'
 date: 2020-11-12 20:42:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51T0Rr+posL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51T0Rr+posL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51T0Rr+posL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 36.95 EUR
 inStock: true
 prodname: 'Eiffel Textile Funda de Sofa Monaco Elastica Adaptable Lisa  94% poliéster 6% Elastano  Beige  3 Plazas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08124SMLC/?tag=tolees-21'
+descuento: '25.66'
+titulo: 'Eiffel Textile Funda de Sofa Monaco Elas'
 ---
 
 Tienes [Eiffel Textile Funda de Sofa Monaco Elastica Adaptable Lisa  94% poliéster 6% Elastano  Beige  3 Plazas](https://www.amazon.es/dp/B08124SMLC/?tag=tolees-21) con un 25.66 % de descuento con precio de oferta de 27.47 EUR (original: 36.95 EUR) en el siguiente enlace!
 
 [![Eiffel Textile Funda de Sofa Monaco Elas](https://m.media-amazon.com/images/I/51T0Rr+posL._SL200_.jpg)](https://www.amazon.es/dp/B08124SMLC/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08124SMLC/?tag=tolees-21)
 

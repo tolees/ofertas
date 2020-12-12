@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.19 % en Dickie Toys- Toy Story 4 Nave Buzz RC po'
 date: 2020-11-09 19:58:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/41oyUZi5nwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41oyUZi5nwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41oyUZi5nwL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 27.95 EUR
 inStock: true
 prodname: 'Dickie Toys- Toy Story 4 Nave Buzz RC por Cable  Multicolor  3153000 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07QDZ5WTJ/?tag=tolees-21'
+descuento: '49.19'
+titulo: 'Dickie Toys- Toy Story 4 Nave Buzz RC po'
 ---
 
 Tienes [Dickie Toys- Toy Story 4 Nave Buzz RC por Cable  Multicolor  3153000 ](https://www.amazon.es/dp/B07QDZ5WTJ/?tag=tolees-21) con un 49.19 % de descuento con precio de oferta de 14.2 EUR (original: 27.95 EUR) en el siguiente enlace!
 
 [![Dickie Toys- Toy Story 4 Nave Buzz RC po](https://m.media-amazon.com/images/I/41oyUZi5nwL._SL200_.jpg)](https://www.amazon.es/dp/B07QDZ5WTJ/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07QDZ5WTJ/?tag=tolees-21)
 

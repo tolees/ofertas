@@ -3,6 +3,7 @@ layout: post
 title: 'Lotus 18140/2 - Reloj de cuarzo para muj al 29.42 % de descuento'
 date: 2020-11-29 08:14:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41foirfeabL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41foirfeabL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41foirfeabL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 119.79 EUR
 inStock: true
 prodname: 'Lotus 18140/2 - Reloj de cuarzo para mujer  con correa de acero inoxidable  color dorado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B016HX1LO2/?tag=tolees-21'
+descuento: '29.42'
+titulo: 'Lotus 18140/2 - Reloj de cuarzo para muj'
 ---
 
 Está [Lotus 18140/2 - Reloj de cuarzo para mujer  con correa de acero inoxidable  color dorado](https://www.amazon.es/dp/B016HX1LO2/?tag=tolees-21) con 29.42 de descuento por 84.55 EUR (original: 119.79 EUR) en el siguiente enlace!
 
 [![Lotus 18140/2 - Reloj de cuarzo para muj](https://m.media-amazon.com/images/I/41foirfeabL._SL200_.jpg)](https://www.amazon.es/dp/B016HX1LO2/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B016HX1LO2/?tag=tolees-21)
 

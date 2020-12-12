@@ -3,6 +3,7 @@ layout: post
 title: 'Superga 2750 UKFGLU  Zapatillas Unisex a al 51.51 % de descuento'
 date: 2020-12-04 01:59:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41nUVcvTs1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nUVcvTs1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41nUVcvTs1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 89.0 EUR
 inStock: true
 prodname: 'Superga 2750 UKFGLU  Zapatillas Unisex adulto  Blanco  White 900   42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01EY9CLMW/?tag=tolees-21'
+descuento: '51.51'
+titulo: 'Superga 2750 UKFGLU  Zapatillas Unisex a'
 ---
 
 Está [Superga 2750 UKFGLU  Zapatillas Unisex adulto  Blanco  White 900   42.5 EU](https://www.amazon.es/dp/B01EY9CLMW/?tag=tolees-21) con 51.51 de descuento por 43.16 EUR (original: 89.0 EUR) en el siguiente enlace!
 
 [![Superga 2750 UKFGLU  Zapatillas Unisex a](https://m.media-amazon.com/images/I/41nUVcvTs1L._SL200_.jpg)](https://www.amazon.es/dp/B01EY9CLMW/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01EY9CLMW/?tag=tolees-21)
 

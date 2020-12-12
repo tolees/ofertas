@@ -3,6 +3,7 @@ layout: post
 title: 'Vatra Energy - Pack de 24 Pilas Alcalina al 49.37 % de descuento'
 date: 2020-12-03 11:04:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/517EZGwu8cL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/517EZGwu8cL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/517EZGwu8cL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Vatra Energy - Pack de 24 Pilas Alcalinas AAA / LR03 / Micro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004KRGJFO/?tag=tolees-21'
+descuento: '49.37'
+titulo: 'Vatra Energy - Pack de 24 Pilas Alcalina'
 ---
 
 Está [Vatra Energy - Pack de 24 Pilas Alcalinas AAA / LR03 / Micro](https://www.amazon.es/dp/B004KRGJFO/?tag=tolees-21) con 49.37 de descuento por 7.59 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![Vatra Energy - Pack de 24 Pilas Alcalina](https://m.media-amazon.com/images/I/517EZGwu8cL._SL200_.jpg)](https://www.amazon.es/dp/B004KRGJFO/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B004KRGJFO/?tag=tolees-21)
 

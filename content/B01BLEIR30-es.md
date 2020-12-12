@@ -3,6 +3,7 @@ layout: post
 title: 'UniqOne Revlon Professional - Tratamient al 48.54 % de descuento'
 date: 2020-11-27 13:37:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ForugQH9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ForugQH9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ForugQH9L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 11.66 EUR
 inStock: true
 prodname: 'UniqOne Revlon Professional - Tratamiento para el cabello  Coco  150 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01BLEIR30/?tag=tolees-21'
+descuento: '48.54'
+titulo: 'UniqOne Revlon Professional - Tratamient'
 ---
 
 Está [UniqOne Revlon Professional - Tratamiento para el cabello  Coco  150 ml](https://www.amazon.es/dp/B01BLEIR30/?tag=tolees-21) con 48.54 de descuento por 6.0 EUR (original: 11.66 EUR) en el siguiente enlace!
 
 [![UniqOne Revlon Professional - Tratamient](https://m.media-amazon.com/images/I/41ForugQH9L._SL200_.jpg)](https://www.amazon.es/dp/B01BLEIR30/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01BLEIR30/?tag=tolees-21)
 

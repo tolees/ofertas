@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.97 % en Train To Busan [Blu-ray]'
 date: 2020-11-23 21:00:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/516cc-AeR1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/516cc-AeR1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/516cc-AeR1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 15.99 EUR
 inStock: true
 prodname: 'Train To Busan [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07Z4D34KW/?tag=tolees-21'
+descuento: '49.97'
+titulo: 'Train To Busan [Blu-ray]'
 ---
 
 Tienes [Train To Busan [Blu-ray]](https://www.amazon.es/dp/B07Z4D34KW/?tag=tolees-21) con un 49.97 % de descuento con precio de oferta de 8.0 EUR (original: 15.99 EUR) en el siguiente enlace!
 
 [![Train To Busan [Blu-ray]](https://m.media-amazon.com/images/I/516cc-AeR1L._SL200_.jpg)](https://www.amazon.es/dp/B07Z4D34KW/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07Z4D34KW/?tag=tolees-21)
 

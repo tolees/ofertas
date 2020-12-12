@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.28 % en Munich G-3 Profit 07  Zapatillas de Depo'
 date: 2020-11-28 21:57:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41jWZSY2+vL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jWZSY2+vL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41jWZSY2+vL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 61.5 EUR
 inStock: true
 prodname: 'Munich G-3 Profit 07  Zapatillas de Deporte Hombre  Blanco  Blanco 007   41 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07P9D1GD7/?tag=tolees-21'
+descuento: '36.28'
+titulo: 'Munich G-3 Profit 07  Zapatillas de Depo'
 ---
 
 Tienes [Munich G-3 Profit 07  Zapatillas de Deporte Hombre  Blanco  Blanco 007   41 EU](https://www.amazon.es/dp/B07P9D1GD7/?tag=tolees-21) con un 36.28 % de descuento con precio de oferta de 39.19 EUR (original: 61.5 EUR) en el siguiente enlace!
 
 [![Munich G-3 Profit 07  Zapatillas de Depo](https://m.media-amazon.com/images/I/41jWZSY2+vL._SL200_.jpg)](https://www.amazon.es/dp/B07P9D1GD7/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07P9D1GD7/?tag=tolees-21)
 

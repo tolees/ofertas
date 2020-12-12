@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.64 % en Samsonite Rewind'
 date: 2020-12-01 03:45:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/41GlPCjZECL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GlPCjZECL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41GlPCjZECL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 89.0 EUR
 inStock: true
 prodname: 'Samsonite Rewind'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01D17KRMO/?tag=tolees-21'
+descuento: '32.64'
+titulo: 'Samsonite Rewind'
 ---
 
 Tienes [Samsonite Rewind](https://www.amazon.es/dp/B01D17KRMO/?tag=tolees-21) con un 32.64 % de descuento con precio de oferta de 59.95 EUR (original: 89.0 EUR) en el siguiente enlace!
 
 [![Samsonite Rewind](https://m.media-amazon.com/images/I/41GlPCjZECL._SL200_.jpg)](https://www.amazon.es/dp/B01D17KRMO/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01D17KRMO/?tag=tolees-21)
 

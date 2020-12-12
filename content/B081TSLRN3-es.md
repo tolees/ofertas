@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.06 % en adidas Trefoil Tee  T-shirt para Mujer  '
 date: 2020-12-03 07:40:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/416IEMESjmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416IEMESjmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416IEMESjmL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'adidas Trefoil Tee  T-shirt para Mujer  Multicolor  Futhyd/White   38'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B081TSLRN3/?tag=tolees-21'
+descuento: '50.06'
+titulo: 'adidas Trefoil Tee  T-shirt para Mujer  '
 ---
 
 Tienes [adidas Trefoil Tee  T-shirt para Mujer  Multicolor  Futhyd/White   38](https://www.amazon.es/dp/B081TSLRN3/?tag=tolees-21) con un 50.06 % de descuento con precio de oferta de 12.46 EUR (original: 24.95 EUR) en el siguiente enlace!
 
 [![adidas Trefoil Tee  T-shirt para Mujer  ](https://m.media-amazon.com/images/I/416IEMESjmL._SL200_.jpg)](https://www.amazon.es/dp/B081TSLRN3/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B081TSLRN3/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'CARE OF by PUMA Slip on Runner Low-Top S al 50.49 % de descuento'
 date: 2020-11-08 11:43:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/31KDOqfW7IL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31KDOqfW7IL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31KDOqfW7IL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 15.25 EUR
 inStock: true
 prodname: 'CARE OF by PUMA Slip on Runner Low-Top Sneakers  Azul  Navy Blazer-Oatmeal   39 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07XTQLQ18/?tag=tolees-21'
+descuento: '50.49'
+titulo: 'CARE OF by PUMA Slip on Runner Low-Top S'
 ---
 
 Está [CARE OF by PUMA Slip on Runner Low-Top Sneakers  Azul  Navy Blazer-Oatmeal   39 EU](https://www.amazon.es/dp/B07XTQLQ18/?tag=tolees-21) con 50.49 de descuento por 7.55 EUR (original: 15.25 EUR) en el siguiente enlace!
 
 [![CARE OF by PUMA Slip on Runner Low-Top S](https://m.media-amazon.com/images/I/31KDOqfW7IL._SL200_.jpg)](https://www.amazon.es/dp/B07XTQLQ18/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07XTQLQ18/?tag=tolees-21)
 

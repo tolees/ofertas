@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Un Venture Up  Botas clásicas. pa al 61.72 % de descuento'
 date: 2020-10-17 18:23:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41id7E8Uu9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41id7E8Uu9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41id7E8Uu9L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 160.0 EUR
 inStock: true
 prodname: 'Clarks Un Venture Up  Botas clásicas. para Hombre  Gris Pardo Combi Taupe  46 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MFM444X/?tag=tolees-21'
+descuento: '61.72'
+titulo: 'Clarks Un Venture Up  Botas clásicas. pa'
 ---
 
 Está [Clarks Un Venture Up  Botas clásicas. para Hombre  Gris Pardo Combi Taupe  46 EU](https://www.amazon.es/dp/B07MFM444X/?tag=tolees-21) con 61.72 de descuento por 61.24 EUR (original: 160.0 EUR) en el siguiente enlace!
 
 [![Clarks Un Venture Up  Botas clásicas. pa](https://m.media-amazon.com/images/I/41id7E8Uu9L._SL200_.jpg)](https://www.amazon.es/dp/B07MFM444X/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07MFM444X/?tag=tolees-21)
 

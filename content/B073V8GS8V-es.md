@@ -3,6 +3,7 @@ layout: post
 title: 'LAST LEVEL Figura Pop Pack Cap MARV Gamo al 73.96 % de descuento'
 date: 2020-11-11 09:13:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/41l+UnqaG0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41l+UnqaG0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41l+UnqaG0L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 36.95 EUR
 inStock: true
 prodname: 'LAST LEVEL Figura Pop Pack Cap MARV Gamora VS Strider  Multicolor  FFK22785 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073V8GS8V/?tag=tolees-21'
+descuento: '73.96'
+titulo: 'LAST LEVEL Figura Pop Pack Cap MARV Gamo'
 ---
 
 Ahora mismo tienes [LAST LEVEL Figura Pop Pack Cap MARV Gamora VS Strider  Multicolor  FFK22785 ](https://www.amazon.es/dp/B073V8GS8V/?tag=tolees-21) a 9.62 EUR (original: 36.95 EUR) (73.96 %  de descuento) en el siguiente enlace!
 
 [![LAST LEVEL Figura Pop Pack Cap MARV Gamo](https://m.media-amazon.com/images/I/41l+UnqaG0L._SL200_.jpg)](https://www.amazon.es/dp/B073V8GS8V/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B073V8GS8V/?tag=tolees-21)
 

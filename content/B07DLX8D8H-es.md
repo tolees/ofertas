@@ -3,6 +3,7 @@ layout: post
 title: 'Samsonite Pro-DLX 5 - Wheeled Business C al 26.36 % de descuento'
 date: 2020-11-01 12:04:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-Qr9Gv0aL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-Qr9Gv0aL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-Qr9Gv0aL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 330.0 EUR
 inStock: true
 prodname: 'Samsonite Pro-DLX 5 - Wheeled Business Case 15.6" Expandable 29.5/37L  2.8 KG Maletín  46 cm  29.5 Liters  Negro  Black '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DLX8D8H/?tag=tolees-21'
+descuento: '26.36'
+titulo: 'Samsonite Pro-DLX 5 - Wheeled Business C'
 ---
 
 Ahora mismo tienes [Samsonite Pro-DLX 5 - Wheeled Business Case 15.6" Expandable 29.5/37L  2.8 KG Maletín  46 cm  29.5 Liters  Negro  Black ](https://www.amazon.es/dp/B07DLX8D8H/?tag=tolees-21) a 243.0 EUR (original: 330.0 EUR) (26.36 %  de descuento) en el siguiente enlace!
 
 [![Samsonite Pro-DLX 5 - Wheeled Business C](https://m.media-amazon.com/images/I/41-Qr9Gv0aL._SL200_.jpg)](https://www.amazon.es/dp/B07DLX8D8H/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07DLX8D8H/?tag=tolees-21)
 

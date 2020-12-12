@@ -3,6 +3,7 @@ layout: post
 title: 'Omega 3 Ácidos grasos + Vitamina E. Acei al 25.01 % de descuento'
 date: 2020-12-07 19:23:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/416pqJI88OL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416pqJI88OL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416pqJI88OL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 16.95 EUR
 inStock: true
 prodname: 'Omega 3 Ácidos grasos + Vitamina E. Aceite de pescado salvaje. Alta dosis de EPA 700 mg y DHA 500 mg/ Dosis diaria | Fabricado en España |Complemento alimenticio a base de aceite de pescado puro.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MMW1SH8/?tag=tolees-21'
+descuento: '25.01'
+titulo: 'Omega 3 Ácidos grasos + Vitamina E. Acei'
 ---
 
 Está [Omega 3 Ácidos grasos + Vitamina E. Aceite de pescado salvaje. Alta dosis de EPA 700 mg y DHA 500 mg/ Dosis diaria | Fabricado en España |Complemento alimenticio a base de aceite de pescado puro.](https://www.amazon.es/dp/B07MMW1SH8/?tag=tolees-21) con 25.01 de descuento por 12.71 EUR (original: 16.95 EUR) en el siguiente enlace!
 
 [![Omega 3 Ácidos grasos + Vitamina E. Acei](https://m.media-amazon.com/images/I/416pqJI88OL._SL200_.jpg)](https://www.amazon.es/dp/B07MMW1SH8/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07MMW1SH8/?tag=tolees-21)
 

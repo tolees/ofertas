@@ -3,6 +3,7 @@ layout: post
 title: 'Springfield 5Ba AOP Cuello Slim Mel-c/43 al 57.52 % de descuento'
 date: 2020-11-06 10:28:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Jre5FtZOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Jre5FtZOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Jre5FtZOL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Springfield 5Ba AOP Cuello Slim Mel-c/43 Polo  Gris  Dark Grey 43   S  Tamaño del Fabricante: S  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07W4WYFMM/?tag=tolees-21'
+descuento: '57.52'
+titulo: 'Springfield 5Ba AOP Cuello Slim Mel-c/43'
 ---
 
 Ahora mismo tienes [Springfield 5Ba AOP Cuello Slim Mel-c/43 Polo  Gris  Dark Grey 43   S  Tamaño del Fabricante: S  para Hombre](https://www.amazon.es/dp/B07W4WYFMM/?tag=tolees-21) a 11.04 EUR (original: 25.99 EUR) (57.52 %  de descuento) en el siguiente enlace!
 
 [![Springfield 5Ba AOP Cuello Slim Mel-c/43](https://m.media-amazon.com/images/I/41Jre5FtZOL._SL200_.jpg)](https://www.amazon.es/dp/B07W4WYFMM/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07W4WYFMM/?tag=tolees-21)
 

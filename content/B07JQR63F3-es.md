@@ -3,6 +3,7 @@ layout: post
 title: 'Funko Stranger Things Pop XXL Demogorgon al 29.63 % de descuento'
 date: 2020-12-11 10:33:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/41HYSaROutL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41HYSaROutL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41HYSaROutL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 42.19 EUR
 inStock: true
 prodname: 'Funko Stranger Things Pop XXL Demogorgon  Multicolor  Talla Única  8.89698E+11 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07JQR63F3/?tag=tolees-21'
+descuento: '29.63'
+titulo: 'Funko Stranger Things Pop XXL Demogorgon'
 ---
 
 Está [Funko Stranger Things Pop XXL Demogorgon  Multicolor  Talla Única  8.89698E+11 ](https://www.amazon.es/dp/B07JQR63F3/?tag=tolees-21) con 29.63 de descuento por 29.69 EUR (original: 42.19 EUR) en el siguiente enlace!
@@ -24,10 +28,10 @@ Está [Funko Stranger Things Pop XXL Demogorgon  Multicolor  Talla Única  8.896
 
 Principales características:
 
-- Stranger things
 - Caja ilustrada con ventana
 - Funko pop xxl
 - Nº 722
+- Stranger things
 - Licencia oficial
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07JQR63F3/?tag=tolees-21)

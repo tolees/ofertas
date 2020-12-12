@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.47 % en G-STAR RAW Dunda Slim Polo S/s  grey htr'
 date: 2020-11-26 17:54:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/41aWtFMxW9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aWtFMxW9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41aWtFMxW9L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Dunda Slim Polo S/s  grey htr 906  Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KFHC41V/?tag=tolees-21'
+descuento: '54.47'
+titulo: 'G-STAR RAW Dunda Slim Polo S/s  grey htr'
 ---
 
 Tienes [G-STAR RAW Dunda Slim Polo S/s  grey htr 906  Small para Hombre](https://www.amazon.es/dp/B07KFHC41V/?tag=tolees-21) con un 54.47 % de descuento con precio de oferta de 22.74 EUR (original: 49.95 EUR) en el siguiente enlace!
 
 [![G-STAR RAW Dunda Slim Polo S/s  grey htr](https://m.media-amazon.com/images/I/41aWtFMxW9L._SL200_.jpg)](https://www.amazon.es/dp/B07KFHC41V/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KFHC41V/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Victor Frankenstein Blu-Ray [Blu-ray] al 27.37 % de descuento'
 date: 2020-11-23 18:06:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/51VDH2UkItL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51VDH2UkItL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51VDH2UkItL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 8.95 EUR
 inStock: true
 prodname: 'Victor Frankenstein Blu-Ray [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01FTT7ZNQ/?tag=tolees-21'
+descuento: '27.37'
+titulo: 'Victor Frankenstein Blu-Ray [Blu-ray]'
 ---
 
 Ahora mismo tienes [Victor Frankenstein Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B01FTT7ZNQ/?tag=tolees-21) a 6.5 EUR (original: 8.95 EUR) (27.37 %  de descuento) en el siguiente enlace!
 
 [![Victor Frankenstein Blu-Ray [Blu-ray]](https://m.media-amazon.com/images/I/51VDH2UkItL._SL200_.jpg)](https://www.amazon.es/dp/B01FTT7ZNQ/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B01FTT7ZNQ/?tag=tolees-21)
 

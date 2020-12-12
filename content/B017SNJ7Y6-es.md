@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.33 % en Protector infantil enchufable para enchu'
 date: 2020-11-30 23:38:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/31CHQvfi-bL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31CHQvfi-bL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31CHQvfi-bL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 10.37 EUR
 inStock: true
 prodname: 'Protector infantil enchufable para enchufes de Offgridtec  12 unidades  color blanco  007310'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B017SNJ7Y6/?tag=tolees-21'
+descuento: '34.33'
+titulo: 'Protector infantil enchufable para enchu'
 ---
 
 Tienes [Protector infantil enchufable para enchufes de Offgridtec  12 unidades  color blanco  007310](https://www.amazon.es/dp/B017SNJ7Y6/?tag=tolees-21) con un 34.33 % de descuento con precio de oferta de 6.81 EUR (original: 10.37 EUR) en el siguiente enlace!
 
 [![Protector infantil enchufable para enchu](https://m.media-amazon.com/images/I/31CHQvfi-bL._SL200_.jpg)](https://www.amazon.es/dp/B017SNJ7Y6/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B017SNJ7Y6/?tag=tolees-21)
 

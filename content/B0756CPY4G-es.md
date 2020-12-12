@@ -3,6 +3,7 @@ layout: post
 title: 'Pretty See Lima de Pies 3Pcs  Pedicure P al 26.35 % de descuento'
 date: 2020-12-07 03:08:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Q271IiIeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Q271IiIeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Q271IiIeL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Pretty See Lima de Pies 3Pcs  Pedicure Pies para eliminar la dureza  los callos y la piel dura y la piel agrietada  pedicura y dispositivo de eliminación para suavizar  Exfoliante de Pies Limpiador'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0756CPY4G/?tag=tolees-21'
+descuento: '26.35'
+titulo: 'Pretty See Lima de Pies 3Pcs  Pedicure P'
 ---
 
 Está [Pretty See Lima de Pies 3Pcs  Pedicure Pies para eliminar la dureza  los callos y la piel dura y la piel agrietada  pedicura y dispositivo de eliminación para suavizar  Exfoliante de Pies Limpiador](https://www.amazon.es/dp/B0756CPY4G/?tag=tolees-21) con 26.35 de descuento por 11.04 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![Pretty See Lima de Pies 3Pcs  Pedicure P](https://m.media-amazon.com/images/I/41Q271IiIeL._SL200_.jpg)](https://www.amazon.es/dp/B0756CPY4G/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0756CPY4G/?tag=tolees-21)
 

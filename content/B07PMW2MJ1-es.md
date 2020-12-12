@@ -3,6 +3,7 @@ layout: post
 title: 'Taurus Sirocco 18 - Ventilador circulado al 63.63 % de descuento'
 date: 2020-11-30 07:43:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/51aIV+xpjWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51aIV+xpjWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51aIV+xpjWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 87.99 EUR
 inStock: true
 prodname: 'Taurus Sirocco 18 - Ventilador circulador de aire  3 velocidades  3 hélices metálicas  45 cm de diámetro  inclinación ajustable  120 W  rejilla extraíble  silencioso  base antideslizante'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PMW2MJ1/?tag=tolees-21'
+descuento: '63.63'
+titulo: 'Taurus Sirocco 18 - Ventilador circulado'
 ---
 
 Está [Taurus Sirocco 18 - Ventilador circulador de aire  3 velocidades  3 hélices metálicas  45 cm de diámetro  inclinación ajustable  120 W  rejilla extraíble  silencioso  base antideslizante](https://www.amazon.es/dp/B07PMW2MJ1/?tag=tolees-21) con 63.63 de descuento por 32.0 EUR (original: 87.99 EUR) en el siguiente enlace!
 
 [![Taurus Sirocco 18 - Ventilador circulado](https://m.media-amazon.com/images/I/51aIV+xpjWL._SL200_.jpg)](https://www.amazon.es/dp/B07PMW2MJ1/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07PMW2MJ1/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Fellowes Office Suites - Soporte de Moni al 30.48 % de descuento'
 date: 2020-10-25 08:15:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/41HduPC8jML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41HduPC8jML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41HduPC8jML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 63.28 EUR
 inStock: true
 prodname: 'Fellowes Office Suites - Soporte de Monitor hasta 28"  Color Gris'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0002LCZNC/?tag=tolees-21'
+descuento: '30.48'
+titulo: 'Fellowes Office Suites - Soporte de Moni'
 ---
 
 Ahora mismo tienes [Fellowes Office Suites - Soporte de Monitor hasta 28"  Color Gris](https://www.amazon.es/dp/B0002LCZNC/?tag=tolees-21) a 43.99 EUR (original: 63.28 EUR) (30.48 %  de descuento) en el siguiente enlace!
 
 [![Fellowes Office Suites - Soporte de Moni](https://m.media-amazon.com/images/I/41HduPC8jML._SL200_.jpg)](https://www.amazon.es/dp/B0002LCZNC/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B0002LCZNC/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Legrand  Marco interruptor  Marco enchuf al 34.44 % de descuento'
 date: 2020-10-31 18:42:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/314k1LD1cPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/314k1LD1cPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/314k1LD1cPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 2.7 EUR
 inStock: true
 prodname: 'Legrand  Marco interruptor  Marco enchufe  NILOE  Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M3RD4TM/?tag=tolees-21'
+descuento: '34.44'
+titulo: 'Legrand  Marco interruptor  Marco enchuf'
 ---
 
 Ahora mismo tienes [Legrand  Marco interruptor  Marco enchufe  NILOE  Blanco](https://www.amazon.es/dp/B01M3RD4TM/?tag=tolees-21) a 1.77 EUR (original: 2.7 EUR) (34.44 %  de descuento) en el siguiente enlace!
 
 [![Legrand  Marco interruptor  Marco enchuf](https://m.media-amazon.com/images/I/314k1LD1cPL._SL200_.jpg)](https://www.amazon.es/dp/B01M3RD4TM/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B01M3RD4TM/?tag=tolees-21)
 

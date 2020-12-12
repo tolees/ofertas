@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.70 % en Salomon XA Pro 3D GTX W  Zapatillas de T'
 date: 2020-11-07 01:21:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/419Cl1AZlLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419Cl1AZlLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/419Cl1AZlLL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 159.95 EUR
 inStock: true
 prodname: 'Salomon XA Pro 3D GTX W  Zapatillas de Trail Running para Mujer  Negro  Black/Black/Mineral Grey   40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01HD2WUE6/?tag=tolees-21'
+descuento: '54.70'
+titulo: 'Salomon XA Pro 3D GTX W  Zapatillas de T'
 ---
 
 Tienes [Salomon XA Pro 3D GTX W  Zapatillas de Trail Running para Mujer  Negro  Black/Black/Mineral Grey   40 EU](https://www.amazon.es/dp/B01HD2WUE6/?tag=tolees-21) con un 54.70 % de descuento con precio de oferta de 72.45 EUR (original: 159.95 EUR) en el siguiente enlace!
 
 [![Salomon XA Pro 3D GTX W  Zapatillas de T](https://m.media-amazon.com/images/I/419Cl1AZlLL._SL200_.jpg)](https://www.amazon.es/dp/B01HD2WUE6/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01HD2WUE6/?tag=tolees-21)
 

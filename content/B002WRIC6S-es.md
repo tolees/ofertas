@@ -3,6 +3,7 @@ layout: post
 title: 'Bosch 2 609 256 746 - Juego de hojas de  al 40.40 % de descuento'
 date: 2020-11-22 22:06:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41UxLfuxWxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UxLfuxWxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41UxLfuxWxL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 15.0 EUR
 inStock: true
 prodname: 'Bosch 2 609 256 746 - Juego de hojas de sierra de calar de 10 piezas vástago en T'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B002WRIC6S/?tag=tolees-21'
+descuento: '40.40'
+titulo: 'Bosch 2 609 256 746 - Juego de hojas de '
 ---
 
 Ahora mismo tienes [Bosch 2 609 256 746 - Juego de hojas de sierra de calar de 10 piezas vástago en T](https://www.amazon.es/dp/B002WRIC6S/?tag=tolees-21) a 8.94 EUR (original: 15.0 EUR) (40.40 %  de descuento) en el siguiente enlace!
 
 [![Bosch 2 609 256 746 - Juego de hojas de ](https://m.media-amazon.com/images/I/41UxLfuxWxL._SL200_.jpg)](https://www.amazon.es/dp/B002WRIC6S/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B002WRIC6S/?tag=tolees-21)
 

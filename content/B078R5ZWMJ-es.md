@@ -3,6 +3,7 @@ layout: post
 title: 'Fenteer Soldado de Figurita de Cascanuec al 33.35 % de descuento'
 date: 2020-12-09 16:12:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/41mf-Yl6J+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mf-Yl6J+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41mf-Yl6J+L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 20.99 EUR
 inStock: true
 prodname: 'Fenteer Soldado de Figurita de Cascanueces de Madera Colección de Decoración de Hogar de Navidad Niño Adulto - #7'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078R5ZWMJ/?tag=tolees-21'
+descuento: '33.35'
+titulo: 'Fenteer Soldado de Figurita de Cascanuec'
 ---
 
 Ahora mismo tienes [Fenteer Soldado de Figurita de Cascanueces de Madera Colección de Decoración de Hogar de Navidad Niño Adulto - #7](https://www.amazon.es/dp/B078R5ZWMJ/?tag=tolees-21) a 13.99 EUR (original: 20.99 EUR) (33.35 %  de descuento) en el siguiente enlace!
 
 [![Fenteer Soldado de Figurita de Cascanuec](https://m.media-amazon.com/images/I/41mf-Yl6J+L._SL200_.jpg)](https://www.amazon.es/dp/B078R5ZWMJ/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B078R5ZWMJ/?tag=tolees-21)
 

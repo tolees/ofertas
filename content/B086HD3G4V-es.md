@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.76 % en Ausonia Discreet Compresas Para Pérdidas'
 date: 2020-11-26 23:19:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/51BH13H0iML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51BH13H0iML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51BH13H0iML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 18.99 EUR
 inStock: true
 prodname: 'Ausonia Discreet Compresas Para Pérdidas De Orina Normal Para Vejigas Hiperactivas x 72'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B086HD3G4V/?tag=tolees-21'
+descuento: '40.76'
+titulo: 'Ausonia Discreet Compresas Para Pérdidas'
 ---
 
 Tienes [Ausonia Discreet Compresas Para Pérdidas De Orina Normal Para Vejigas Hiperactivas x 72](https://www.amazon.es/dp/B086HD3G4V/?tag=tolees-21) con un 40.76 % de descuento con precio de oferta de 11.25 EUR (original: 18.99 EUR) en el siguiente enlace!
 
 [![Ausonia Discreet Compresas Para Pérdidas](https://m.media-amazon.com/images/I/51BH13H0iML._SL200_.jpg)](https://www.amazon.es/dp/B086HD3G4V/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B086HD3G4V/?tag=tolees-21)
 

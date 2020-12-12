@@ -3,6 +3,7 @@ layout: post
 title: 'Candy CDCP 6/E-S - Lavavajillas pequeño  al 40.88 % de descuento'
 date: 2020-11-23 21:03:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/41gxzRd2LWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gxzRd2LWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41gxzRd2LWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 389.0 EUR
 inStock: true
 prodname: 'Candy CDCP 6/E-S - Lavavajillas pequeño  6 servicios  6 Programas  Inicio diferido  Clase A+A  51dB  Color Plata'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B019LZKOHS/?tag=tolees-21'
+descuento: '40.88'
+titulo: 'Candy CDCP 6/E-S - Lavavajillas pequeño '
 ---
 
 Está [Candy CDCP 6/E-S - Lavavajillas pequeño  6 servicios  6 Programas  Inicio diferido  Clase A+A  51dB  Color Plata](https://www.amazon.es/dp/B019LZKOHS/?tag=tolees-21) con 40.88 de descuento por 229.99 EUR (original: 389.0 EUR) en el siguiente enlace!
 
 [![Candy CDCP 6/E-S - Lavavajillas pequeño ](https://m.media-amazon.com/images/I/41gxzRd2LWL._SL200_.jpg)](https://www.amazon.es/dp/B019LZKOHS/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B019LZKOHS/?tag=tolees-21)
 

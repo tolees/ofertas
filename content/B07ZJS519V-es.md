@@ -3,6 +3,7 @@ layout: post
 title: 'MSI Optix MAG272CQR - Monitor Gaming Cur al 26.67 % de descuento'
 date: 2020-11-29 18:04:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/41kPFVCRUbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41kPFVCRUbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41kPFVCRUbL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 449.99 EUR
 inStock: true
 prodname: 'MSI Optix MAG272CQR - Monitor Gaming Curvo de 27" LED WQHD 165Hz  2560 x 1440p  ratio 16:9  Panel VA  pantalla curva 1500R  1 ms respuesta  brillo 300 nits  Anti-glare  negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07ZJS519V/?tag=tolees-21'
+descuento: '26.67'
+titulo: 'MSI Optix MAG272CQR - Monitor Gaming Cur'
 ---
 
 Está [MSI Optix MAG272CQR - Monitor Gaming Curvo de 27" LED WQHD 165Hz  2560 x 1440p  ratio 16:9  Panel VA  pantalla curva 1500R  1 ms respuesta  brillo 300 nits  Anti-glare  negro](https://www.amazon.es/dp/B07ZJS519V/?tag=tolees-21) con 26.67 de descuento por 329.99 EUR (original: 449.99 EUR) en el siguiente enlace!
 
 [![MSI Optix MAG272CQR - Monitor Gaming Cur](https://m.media-amazon.com/images/I/41kPFVCRUbL._SL200_.jpg)](https://www.amazon.es/dp/B07ZJS519V/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07ZJS519V/?tag=tolees-21)
 

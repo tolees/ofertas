@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s 502 Regular Taper Jeans  Azul  En al 55.08 % de descuento'
 date: 2020-10-22 20:29:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-IYN-b0EL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-IYN-b0EL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-IYN-b0EL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 110.0 EUR
 inStock: true
 prodname: 'Levi s 502 Regular Taper Jeans  Azul  English Channel Warp Cool 0295   30W / 32L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K72XTT4/?tag=tolees-21'
+descuento: '55.08'
+titulo: 'Levi s 502 Regular Taper Jeans  Azul  En'
 ---
 
 Ahora mismo tienes [Levi s 502 Regular Taper Jeans  Azul  English Channel Warp Cool 0295   30W / 32L para Hombre](https://www.amazon.es/dp/B07K72XTT4/?tag=tolees-21) a 49.41 EUR (original: 110.0 EUR) (55.08 %  de descuento) en el siguiente enlace!
 
 [![Levi s 502 Regular Taper Jeans  Azul  En](https://m.media-amazon.com/images/I/41-IYN-b0EL._SL200_.jpg)](https://www.amazon.es/dp/B07K72XTT4/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07K72XTT4/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Tayg 603358 20 litros cánula  Bidón 20L al 34.79 % de descuento'
 date: 2020-11-25 09:58:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/41SrlNF+LqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SrlNF+LqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41SrlNF+LqL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 15.81 EUR
 inStock: true
 prodname: 'Tayg 603358 20 litros cánula  Bidón 20L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005ZUHJQI/?tag=tolees-21'
+descuento: '34.79'
+titulo: 'Tayg 603358 20 litros cánula  Bidón 20L'
 ---
 
 Ahora mismo tienes [Tayg 603358 20 litros cánula  Bidón 20L](https://www.amazon.es/dp/B005ZUHJQI/?tag=tolees-21) a 10.31 EUR (original: 15.81 EUR) (34.79 %  de descuento) en el siguiente enlace!
 
 [![Tayg 603358 20 litros cánula  Bidón 20L](https://m.media-amazon.com/images/I/41SrlNF+LqL._SL200_.jpg)](https://www.amazon.es/dp/B005ZUHJQI/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B005ZUHJQI/?tag=tolees-21)
 

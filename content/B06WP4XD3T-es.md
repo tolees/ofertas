@@ -3,6 +3,7 @@ layout: post
 title: 'Targus TSB911EU CitySmart Essential Moch al 46.27 % de descuento'
 date: 2020-11-27 22:56:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41a2BWaZgkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41a2BWaZgkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41a2BWaZgkL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Targus TSB911EU CitySmart Essential Mochila para portátil - Negro/Gris'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06WP4XD3T/?tag=tolees-21'
+descuento: '46.27'
+titulo: 'Targus TSB911EU CitySmart Essential Moch'
 ---
 
 Está [Targus TSB911EU CitySmart Essential Mochila para portátil - Negro/Gris](https://www.amazon.es/dp/B06WP4XD3T/?tag=tolees-21) con 46.27 de descuento por 32.23 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![Targus TSB911EU CitySmart Essential Moch](https://m.media-amazon.com/images/I/41a2BWaZgkL._SL200_.jpg)](https://www.amazon.es/dp/B06WP4XD3T/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06WP4XD3T/?tag=tolees-21)
 

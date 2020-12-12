@@ -3,6 +3,7 @@ layout: post
 title: 'Funda Transparente Compatible para Xiaom al 52.73 % de descuento'
 date: 2020-11-27 23:36:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41BSMvaZWDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BSMvaZWDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41BSMvaZWDL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 16.88 EUR
 inStock: true
 prodname: 'Funda Transparente Compatible para Xiaomi Redmi 6 Carcasa Suave Silicona TPU Gel Dibujos Animal Ultra Fina Anti Choques y Anti Arañazos Clear Bumper Case Cover para Xiaomi Redmi 6 A15'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0872QB3DC/?tag=tolees-21'
+descuento: '52.73'
+titulo: 'Funda Transparente Compatible para Xiaom'
 ---
 
 Ahora mismo tienes [Funda Transparente Compatible para Xiaomi Redmi 6 Carcasa Suave Silicona TPU Gel Dibujos Animal Ultra Fina Anti Choques y Anti Arañazos Clear Bumper Case Cover para Xiaomi Redmi 6 A15](https://www.amazon.es/dp/B0872QB3DC/?tag=tolees-21) a 7.98 EUR (original: 16.88 EUR) (52.73 %  de descuento) en el siguiente enlace!
 
 [![Funda Transparente Compatible para Xiaom](https://m.media-amazon.com/images/I/41BSMvaZWDL._SL200_.jpg)](https://www.amazon.es/dp/B0872QB3DC/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B0872QB3DC/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Soundcore Flare Mini Altavoz Bluetooth   al 30.01 % de descuento'
 date: 2020-11-23 09:50:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/41NLiFKbBiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NLiFKbBiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41NLiFKbBiL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Soundcore Flare Mini Altavoz Bluetooth  Altavoz inalámbrico portátil  IPX7 Impermeable para Fiestas al Aire Libre  emisión de Luces LED con Sonido 360° y tecnología BassUp™'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PPNY861/?tag=tolees-21'
+descuento: '30.01'
+titulo: 'Soundcore Flare Mini Altavoz Bluetooth  '
 ---
 
 Está [Soundcore Flare Mini Altavoz Bluetooth  Altavoz inalámbrico portátil  IPX7 Impermeable para Fiestas al Aire Libre  emisión de Luces LED con Sonido 360° y tecnología BassUp™](https://www.amazon.es/dp/B07PPNY861/?tag=tolees-21) con 30.01 de descuento por 27.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![Soundcore Flare Mini Altavoz Bluetooth  ](https://m.media-amazon.com/images/I/41NLiFKbBiL._SL200_.jpg)](https://www.amazon.es/dp/B07PPNY861/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07PPNY861/?tag=tolees-21)
 

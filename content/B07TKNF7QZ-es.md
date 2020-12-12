@@ -29,8 +29,8 @@ Ahora mismo tienes [Clarks Stanford Zip  Botas Chelsea Hombre  Marrón  Tan Leat
 Características:
 
 - Interior: textil.
-- Suela: goma.
 - Material exterior: piel.
+- Suela: goma.
 
 [Visítala!!!](https://www.amazon.es/dp/B07TKNF7QZ/?tag=tolees-21)
 

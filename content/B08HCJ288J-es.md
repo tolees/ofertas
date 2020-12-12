@@ -3,6 +3,7 @@ layout: post
 title: 'SweetLF - Cortapelos profesional para ho al 35.43 % de descuento'
 date: 2020-10-25 14:03:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51dFzFzr7SL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51dFzFzr7SL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51dFzFzr7SL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 47.95 EUR
 inStock: true
 prodname: 'SweetLF - Cortapelos profesional para hombre  cortapelos y barbas  5 en 1  color negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08HCJ288J/?tag=tolees-21'
+descuento: '35.43'
+titulo: 'SweetLF - Cortapelos profesional para ho'
 ---
 
 Ahora mismo tienes [SweetLF - Cortapelos profesional para hombre  cortapelos y barbas  5 en 1  color negro](https://www.amazon.es/dp/B08HCJ288J/?tag=tolees-21) a 30.96 EUR (original: 47.95 EUR) (35.43 %  de descuento) en el siguiente enlace!
 
 [![SweetLF - Cortapelos profesional para ho](https://m.media-amazon.com/images/I/51dFzFzr7SL._SL200_.jpg)](https://www.amazon.es/dp/B08HCJ288J/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B08HCJ288J/?tag=tolees-21)
 

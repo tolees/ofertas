@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger Reloj de Pulsera 1782035 al 26.45 % de descuento'
 date: 2020-11-14 16:10:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/31D3ImNt7GL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31D3ImNt7GL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31D3ImNt7GL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 121.0 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Reloj de Pulsera 1782035'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KTPLJLS/?tag=tolees-21'
+descuento: '26.45'
+titulo: 'Tommy Hilfiger Reloj de Pulsera 1782035'
 ---
 
 Está [Tommy Hilfiger Reloj de Pulsera 1782035](https://www.amazon.es/dp/B07KTPLJLS/?tag=tolees-21) con 26.45 de descuento por 89.0 EUR (original: 121.0 EUR) en el siguiente enlace!
 
 [![Tommy Hilfiger Reloj de Pulsera 1782035](https://m.media-amazon.com/images/I/31D3ImNt7GL._SL200_.jpg)](https://www.amazon.es/dp/B07KTPLJLS/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KTPLJLS/?tag=tolees-21)
 

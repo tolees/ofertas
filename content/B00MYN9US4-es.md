@@ -3,6 +3,7 @@ layout: post
 title: 'TooQ TQE-2527B - Carcasa para discos dur al 33.30 % de descuento'
 date: 2020-11-19 02:39:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/315w-souuaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/315w-souuaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/315w-souuaL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 8.98 EUR
 inStock: true
 prodname: 'TooQ TQE-2527B - Carcasa para discos duros HDD de 2.5"   SATA I/II/III de hasta 9.5 mm de alto  USB 3.0   aluminio  indicador LED  color negro  50 grs.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00MYN9US4/?tag=tolees-21'
+descuento: '33.30'
+titulo: 'TooQ TQE-2527B - Carcasa para discos dur'
 ---
 
 Está [TooQ TQE-2527B - Carcasa para discos duros HDD de 2.5"   SATA I/II/III de hasta 9.5 mm de alto  USB 3.0   aluminio  indicador LED  color negro  50 grs.](https://www.amazon.es/dp/B00MYN9US4/?tag=tolees-21) con 33.30 de descuento por 5.99 EUR (original: 8.98 EUR) en el siguiente enlace!
 
 [![TooQ TQE-2527B - Carcasa para discos dur](https://m.media-amazon.com/images/I/315w-souuaL._SL200_.jpg)](https://www.amazon.es/dp/B00MYN9US4/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00MYN9US4/?tag=tolees-21)
 

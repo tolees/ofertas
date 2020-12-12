@@ -3,6 +3,7 @@ layout: post
 title: 'Hugo BOSS Reloj Analógico para Hombre de al 29.92 % de descuento'
 date: 2020-12-03 15:30:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/41CR6Lf6haL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41CR6Lf6haL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41CR6Lf6haL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 199.0 EUR
 inStock: true
 prodname: 'Hugo BOSS Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 1513646'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G4RJVWK/?tag=tolees-21'
+descuento: '29.92'
+titulo: 'Hugo BOSS Reloj Analógico para Hombre de'
 ---
 
 Ahora mismo tienes [Hugo BOSS Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 1513646](https://www.amazon.es/dp/B07G4RJVWK/?tag=tolees-21) a 139.45 EUR (original: 199.0 EUR) (29.92 %  de descuento) en el siguiente enlace!
 
 [![Hugo BOSS Reloj Analógico para Hombre de](https://m.media-amazon.com/images/I/41CR6Lf6haL._SL200_.jpg)](https://www.amazon.es/dp/B07G4RJVWK/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07G4RJVWK/?tag=tolees-21)
 

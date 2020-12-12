@@ -3,6 +3,7 @@ layout: post
 title: 'Michael Kors Smartwatch MKT5049 al 51.37 % de descuento'
 date: 2020-12-04 07:43:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41LS2zn-x4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41LS2zn-x4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41LS2zn-x4L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 329.0 EUR
 inStock: true
 prodname: 'Michael Kors Smartwatch MKT5049'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GB24Q1F/?tag=tolees-21'
+descuento: '51.37'
+titulo: 'Michael Kors Smartwatch MKT5049'
 ---
 
 Ahora mismo tienes [Michael Kors Smartwatch MKT5049](https://www.amazon.es/dp/B07GB24Q1F/?tag=tolees-21) a 160.0 EUR (original: 329.0 EUR) (51.37 %  de descuento) en el siguiente enlace!
 
 [![Michael Kors Smartwatch MKT5049](https://m.media-amazon.com/images/I/41LS2zn-x4L._SL200_.jpg)](https://www.amazon.es/dp/B07GB24Q1F/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07GB24Q1F/?tag=tolees-21)
 

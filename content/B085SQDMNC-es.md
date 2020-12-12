@@ -3,6 +3,7 @@ layout: post
 title: 'ultima Pienso para Gatos Adultos con Sal al 29.24 % de descuento'
 date: 2020-11-20 09:07:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/514YZz1qBpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/514YZz1qBpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/514YZz1qBpL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 28.25 EUR
 inStock: true
 prodname: 'ultima Pienso para Gatos Adultos con Salmón 4 x 1.5 kg'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B085SQDMNC/?tag=tolees-21'
+descuento: '29.24'
+titulo: 'ultima Pienso para Gatos Adultos con Sal'
 ---
 
 Está [ultima Pienso para Gatos Adultos con Salmón 4 x 1.5 kg](https://www.amazon.es/dp/B085SQDMNC/?tag=tolees-21) con 29.24 de descuento por 19.99 EUR (original: 28.25 EUR) en el siguiente enlace!
 
 [![ultima Pienso para Gatos Adultos con Sal](https://m.media-amazon.com/images/I/514YZz1qBpL._SL200_.jpg)](https://www.amazon.es/dp/B085SQDMNC/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B085SQDMNC/?tag=tolees-21)
 

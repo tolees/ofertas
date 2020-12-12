@@ -3,6 +3,7 @@ layout: post
 title: 'Samsung Galaxy Watch Active – Smartwatch al 36.14 % de descuento'
 date: 2020-11-29 22:12:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41tnPalRYXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tnPalRYXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41tnPalRYXL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 249.0 EUR
 inStock: true
 prodname: 'Samsung Galaxy Watch Active – Smartwatch  1 1” 40mm  Tizen  768 MB de RAM  Memoria Interna de 4 GB   Color rosa – Versión Española'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NDQZHZG/?tag=tolees-21'
+descuento: '36.14'
+titulo: 'Samsung Galaxy Watch Active – Smartwatch'
 ---
 
 Está [Samsung Galaxy Watch Active – Smartwatch  1 1” 40mm  Tizen  768 MB de RAM  Memoria Interna de 4 GB   Color rosa – Versión Española](https://www.amazon.es/dp/B07NDQZHZG/?tag=tolees-21) con 36.14 de descuento por 159.0 EUR (original: 249.0 EUR) en el siguiente enlace!
 
 [![Samsung Galaxy Watch Active – Smartwatch](https://m.media-amazon.com/images/I/41tnPalRYXL._SL200_.jpg)](https://www.amazon.es/dp/B07NDQZHZG/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07NDQZHZG/?tag=tolees-21)
 

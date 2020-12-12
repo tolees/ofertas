@@ -3,6 +3,7 @@ layout: post
 title: 'NK Cepillo alisador NK-CA3129-PG - Poten al 25.01 % de descuento'
 date: 2020-11-10 18:27:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/31lMCLt4oQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31lMCLt4oQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31lMCLt4oQL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 29.75 EUR
 inStock: true
 prodname: 'NK Cepillo alisador NK-CA3129-PG - Potencia 30W  230 °C  4 cm de Anchura  Iónico  Cable Incorporado  Monitor LCD  Color Rosa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06Y1MZTZ7/?tag=tolees-21'
+descuento: '25.01'
+titulo: 'NK Cepillo alisador NK-CA3129-PG - Poten'
 ---
 
 Ahora mismo tienes [NK Cepillo alisador NK-CA3129-PG - Potencia 30W  230 °C  4 cm de Anchura  Iónico  Cable Incorporado  Monitor LCD  Color Rosa](https://www.amazon.es/dp/B06Y1MZTZ7/?tag=tolees-21) a 22.31 EUR (original: 29.75 EUR) (25.01 %  de descuento) en el siguiente enlace!
 
 [![NK Cepillo alisador NK-CA3129-PG - Poten](https://m.media-amazon.com/images/I/31lMCLt4oQL._SL200_.jpg)](https://www.amazon.es/dp/B06Y1MZTZ7/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B06Y1MZTZ7/?tag=tolees-21)
 

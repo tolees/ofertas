@@ -3,6 +3,7 @@ layout: post
 title: 'Hoover H-GO 300 -HGO310 Robot Aspirador  al 31.84 % de descuento'
 date: 2020-11-26 11:15:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/41c6qFZYilL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41c6qFZYilL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41c6qFZYilL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 218.61 EUR
 inStock: true
 prodname: 'Hoover H-GO 300 -HGO310 Robot Aspirador  bateria Litio de 120 mins  Motor Inverter  Mando a Distancia y Base de Carga  sensores anticaída y antichoque'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08CNMSXKZ/?tag=tolees-21'
+descuento: '31.84'
+titulo: 'Hoover H-GO 300 -HGO310 Robot Aspirador '
 ---
 
 Ahora mismo tienes [Hoover H-GO 300 -HGO310 Robot Aspirador  bateria Litio de 120 mins  Motor Inverter  Mando a Distancia y Base de Carga  sensores anticaída y antichoque](https://www.amazon.es/dp/B08CNMSXKZ/?tag=tolees-21) a 149.0 EUR (original: 218.61 EUR) (31.84 %  de descuento) en el siguiente enlace!
 
 [![Hoover H-GO 300 -HGO310 Robot Aspirador ](https://m.media-amazon.com/images/I/41c6qFZYilL._SL200_.jpg)](https://www.amazon.es/dp/B08CNMSXKZ/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B08CNMSXKZ/?tag=tolees-21)
 

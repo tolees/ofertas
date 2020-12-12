@@ -3,6 +3,7 @@ layout: post
 title: 'Pompadour Grand Maroc Té - 10 Cápsulas al 26.58 % de descuento'
 date: 2020-12-03 17:32:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ehSAaK8CL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ehSAaK8CL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ehSAaK8CL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 3.8 EUR
 inStock: true
 prodname: 'Pompadour Grand Maroc Té - 10 Cápsulas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07YQD54M7/?tag=tolees-21'
+descuento: '26.58'
+titulo: 'Pompadour Grand Maroc Té - 10 Cápsulas'
 ---
 
 Ahora mismo tienes [Pompadour Grand Maroc Té - 10 Cápsulas](https://www.amazon.es/dp/B07YQD54M7/?tag=tolees-21) a 2.79 EUR (original: 3.8 EUR) (26.58 %  de descuento) en el siguiente enlace!
 
 [![Pompadour Grand Maroc Té - 10 Cápsulas](https://m.media-amazon.com/images/I/51ehSAaK8CL._SL200_.jpg)](https://www.amazon.es/dp/B07YQD54M7/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07YQD54M7/?tag=tolees-21)
 

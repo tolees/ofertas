@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.19 % en Panasonic RP-HJE125E-A Auriculares Boton'
 date: 2020-11-29 03:00:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41PpwEFpluL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PpwEFpluL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41PpwEFpluL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Panasonic RP-HJE125E-A Auriculares Boton con Cable In-Ear  Headphone Sonido Estéreo para Móvil  MP3/MP4  Diseño de Ajuste Cómodo  Imán Neodimio 9mm  Presión de Sonido de 97 dB   Color Azul  17'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00CBU0J12/?tag=tolees-21'
+descuento: '46.19'
+titulo: 'Panasonic RP-HJE125E-A Auriculares Boton'
 ---
 
 Tienes [Panasonic RP-HJE125E-A Auriculares Boton con Cable In-Ear  Headphone Sonido Estéreo para Móvil  MP3/MP4  Diseño de Ajuste Cómodo  Imán Neodimio 9mm  Presión de Sonido de 97 dB   Color Azul  17](https://www.amazon.es/dp/B00CBU0J12/?tag=tolees-21) con un 46.19 % de descuento con precio de oferta de 6.99 EUR (original: 12.99 EUR) en el siguiente enlace!
 
 [![Panasonic RP-HJE125E-A Auriculares Boton](https://m.media-amazon.com/images/I/41PpwEFpluL._SL200_.jpg)](https://www.amazon.es/dp/B00CBU0J12/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00CBU0J12/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Educa Borrás- CREA tu Mascota Gatito Ani al 33.33 % de descuento'
 date: 2020-12-09 11:15:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/51lMfTcoIYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51lMfTcoIYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51lMfTcoIYL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'Educa Borrás- CREA tu Mascota Gatito Animal  17422 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072F3YH8B/?tag=tolees-21'
+descuento: '33.33'
+titulo: 'Educa Borrás- CREA tu Mascota Gatito Ani'
 ---
 
 Ahora mismo tienes [Educa Borrás- CREA tu Mascota Gatito Animal  17422 ](https://www.amazon.es/dp/B072F3YH8B/?tag=tolees-21) a 13.3 EUR (original: 19.95 EUR) (33.33 %  de descuento) en el siguiente enlace!
 
 [![Educa Borrás- CREA tu Mascota Gatito Ani](https://m.media-amazon.com/images/I/51lMfTcoIYL._SL200_.jpg)](https://www.amazon.es/dp/B072F3YH8B/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B072F3YH8B/?tag=tolees-21)
 

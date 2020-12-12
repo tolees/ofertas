@@ -3,6 +3,7 @@ layout: post
 title: 'The Originals - Volume 2 al 25.00 % de descuento'
 date: 2020-11-22 20:03:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/51NZTjmLyCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51NZTjmLyCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51NZTjmLyCL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 67.92 EUR
 inStock: true
 prodname: 'The Originals - Volume 2'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GIUU9EW/?tag=tolees-21'
+descuento: '25.00'
+titulo: 'The Originals - Volume 2'
 ---
 
 Está [The Originals - Volume 2](https://www.amazon.es/dp/B01GIUU9EW/?tag=tolees-21) con 25.00 de descuento por 50.94 EUR (original: 67.92 EUR) en el siguiente enlace!
 
 [![The Originals - Volume 2](https://m.media-amazon.com/images/I/51NZTjmLyCL._SL200_.jpg)](https://www.amazon.es/dp/B01GIUU9EW/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01GIUU9EW/?tag=tolees-21)
 

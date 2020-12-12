@@ -3,6 +3,7 @@ layout: post
 title: 'OPI Nail Laquer - Esmalte Uñas Duración  al 85.33 % de descuento'
 date: 2020-11-12 01:06:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41a7niQzWjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41a7niQzWjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41a7niQzWjL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 16.5 EUR
 inStock: true
 prodname: 'OPI Nail Laquer - Esmalte Uñas Duración de Hasta 7 Días  Efecto Manicura Profesional   Mod About You  Rosa - 15 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000NG6D7K/?tag=tolees-21'
+descuento: '85.33'
+titulo: 'OPI Nail Laquer - Esmalte Uñas Duración '
 ---
 
 Está [OPI Nail Laquer - Esmalte Uñas Duración de Hasta 7 Días  Efecto Manicura Profesional   Mod About You  Rosa - 15 ml](https://www.amazon.es/dp/B000NG6D7K/?tag=tolees-21) con 85.33 de descuento por 2.42 EUR (original: 16.5 EUR) en el siguiente enlace!
 
 [![OPI Nail Laquer - Esmalte Uñas Duración ](https://m.media-amazon.com/images/I/41a7niQzWjL._SL200_.jpg)](https://www.amazon.es/dp/B000NG6D7K/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B000NG6D7K/?tag=tolees-21)
 

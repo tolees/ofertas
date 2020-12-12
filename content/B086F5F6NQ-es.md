@@ -3,6 +3,7 @@ layout: post
 title: 'Catherine Full Body al 50.09 % de descuento'
 date: 2020-11-30 21:56:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/51++S+cMv7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51++S+cMv7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51++S+cMv7L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Catherine Full Body'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B086F5F6NQ/?tag=tolees-21'
+descuento: '50.09'
+titulo: 'Catherine Full Body'
 ---
 
 Está [Catherine Full Body](https://www.amazon.es/dp/B086F5F6NQ/?tag=tolees-21) con 50.09 de descuento por 24.95 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![Catherine Full Body](https://m.media-amazon.com/images/I/51++S+cMv7L._SL200_.jpg)](https://www.amazon.es/dp/B086F5F6NQ/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B086F5F6NQ/?tag=tolees-21)
 

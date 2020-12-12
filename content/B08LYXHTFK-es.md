@@ -3,6 +3,7 @@ layout: post
 title: 'LIGH Creative USB Flash Drive 32G Pen Dr al 33.49 % de descuento'
 date: 2020-11-03 11:23:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/31KKPmR30OL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31KKPmR30OL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31KKPmR30OL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 6.39 EUR
 inStock: true
 prodname: 'LIGH Creative USB Flash Drive 32G Pen Drive Memoria USB Externa portátil Impermeable Disco en U a Prueba de Polvo con Llavero - Plata'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08LYXHTFK/?tag=tolees-21'
+descuento: '33.49'
+titulo: 'LIGH Creative USB Flash Drive 32G Pen Dr'
 ---
 
 Ahora mismo tienes [LIGH Creative USB Flash Drive 32G Pen Drive Memoria USB Externa portátil Impermeable Disco en U a Prueba de Polvo con Llavero - Plata](https://www.amazon.es/dp/B08LYXHTFK/?tag=tolees-21) a 4.25 EUR (original: 6.39 EUR) (33.49 %  de descuento) en el siguiente enlace!
 
 [![LIGH Creative USB Flash Drive 32G Pen Dr](https://m.media-amazon.com/images/I/31KKPmR30OL._SL200_.jpg)](https://www.amazon.es/dp/B08LYXHTFK/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B08LYXHTFK/?tag=tolees-21)
 

@@ -17,6 +17,9 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'PUMA Evostripe tee Camiseta  Mujer  Black  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B086NYPL2D/?tag=tolees-21'
+descuento: '39.88'
+titulo: 'PUMA Evostripe tee Camiseta  Mujer  Blac'
 ---
 
 Está [PUMA Evostripe tee Camiseta  Mujer  Black  M](https://www.amazon.es/dp/B086NYPL2D/?tag=tolees-21) con 39.88 de descuento por 15.0 EUR (original: 24.95 EUR) en el siguiente enlace!
@@ -25,11 +28,11 @@ Está [PUMA Evostripe tee Camiseta  Mujer  Black  M](https://www.amazon.es/dp/B0
 
 Principales características:
 
-- Corte holgado
 - Estándar OEKO-TEX: Elaboración en conformidad con el estándar OEKO-TEX, con el que se evita el uso de sustancias nocivas desde el hilo hasta el producto final
-- BCI: La asociación de PUMA con la Iniciativa del Mejor Algodón (Better Cotton Initiative) para mejorar el cultivo de algodón a nivel global
-- Logotipo del PUMA impreso en puntos de goma en la parte frontal
+- Corte holgado
 - dryCELL: La denominación de PUMA para las propiedades repelentes de la humedad que ayudan a que la piel permanezca seca y cómoda
+- Logotipo del PUMA impreso en puntos de goma en la parte frontal
+- BCI: La asociación de PUMA con la Iniciativa del Mejor Algodón (Better Cotton Initiative) para mejorar el cultivo de algodón a nivel global
 
 [Ver la oferta!!](https://www.amazon.es/dp/B086NYPL2D/?tag=tolees-21)
 

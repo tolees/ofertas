@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.28 % en DYNASONIC - Altavoz Bluetooth Portatil 1'
 date: 2020-11-17 11:51:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/51C69jIOBhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51C69jIOBhL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51C69jIOBhL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 33.9 EUR
 inStock: true
 prodname: 'DYNASONIC - Altavoz Bluetooth Portatil 10W | Reproductor mp3 Inalámbrico Portátil  Lector USB SD  Radio FM - Modelo 020-5'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D2HJK27/?tag=tolees-21'
+descuento: '26.28'
+titulo: 'DYNASONIC - Altavoz Bluetooth Portatil 1'
 ---
 
 Tienes [DYNASONIC - Altavoz Bluetooth Portatil 10W | Reproductor mp3 Inalámbrico Portátil  Lector USB SD  Radio FM - Modelo 020-5](https://www.amazon.es/dp/B07D2HJK27/?tag=tolees-21) con un 26.28 % de descuento con precio de oferta de 24.99 EUR (original: 33.9 EUR) en el siguiente enlace!
 
 [![DYNASONIC - Altavoz Bluetooth Portatil 1](https://m.media-amazon.com/images/I/51C69jIOBhL._SL200_.jpg)](https://www.amazon.es/dp/B07D2HJK27/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D2HJK27/?tag=tolees-21)
 

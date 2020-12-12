@@ -3,6 +3,7 @@ layout: post
 title: 'KiplingCity Pack SMujerMochilasGris  Cur al 60.83 % de descuento'
 date: 2020-12-10 12:03:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/318rkMAI4LL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/318rkMAI4LL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/318rkMAI4LL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 89.0 EUR
 inStock: true
 prodname: 'KiplingCity Pack SMujerMochilasGris  Curiosity Grey 27x33.5x19 Centimeters  B x H x T '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07TTPDGDR/?tag=tolees-21'
+descuento: '60.83'
+titulo: 'KiplingCity Pack SMujerMochilasGris  Cur'
 ---
 
 Está [KiplingCity Pack SMujerMochilasGris  Curiosity Grey 27x33.5x19 Centimeters  B x H x T ](https://www.amazon.es/dp/B07TTPDGDR/?tag=tolees-21) con 60.83 de descuento por 34.86 EUR (original: 89.0 EUR) en el siguiente enlace!
 
 [![KiplingCity Pack SMujerMochilasGris  Cur](https://m.media-amazon.com/images/I/318rkMAI4LL._SL200_.jpg)](https://www.amazon.es/dp/B07TTPDGDR/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TTPDGDR/?tag=tolees-21)
 

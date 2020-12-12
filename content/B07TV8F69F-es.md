@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.00 % en NBA 2K20 ED: Leyenda'
 date: 2020-12-03 12:55:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/51q2InO3PAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51q2InO3PAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51q2InO3PAL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'NBA 2K20 ED: Leyenda'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07TV8F69F/?tag=tolees-21'
+descuento: '67.00'
+titulo: 'NBA 2K20 ED: Leyenda'
 ---
 
 Tienes [NBA 2K20 ED: Leyenda](https://www.amazon.es/dp/B07TV8F69F/?tag=tolees-21) con un 67.00 % de descuento con precio de oferta de 33.0 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![NBA 2K20 ED: Leyenda](https://m.media-amazon.com/images/I/51q2InO3PAL._SL200_.jpg)](https://www.amazon.es/dp/B07TV8F69F/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07TV8F69F/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.32 % en HUGO Henfords Pantalones  Azul  Dark Blu'
 date: 2020-11-22 11:51:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ST5ZJAHvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ST5ZJAHvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ST5ZJAHvL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 139.95 EUR
 inStock: true
 prodname: 'HUGO Henfords Pantalones  Azul  Dark Blue 401   46  Talla del Fabricante: 44  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DH2GPHT/?tag=tolees-21'
+descuento: '51.32'
+titulo: 'HUGO Henfords Pantalones  Azul  Dark Blu'
 ---
 
 Tienes [HUGO Henfords Pantalones  Azul  Dark Blue 401   46  Talla del Fabricante: 44  para Hombre](https://www.amazon.es/dp/B07DH2GPHT/?tag=tolees-21) con un 51.32 % de descuento con precio de oferta de 68.13 EUR (original: 139.95 EUR) en el siguiente enlace!
 
 [![HUGO Henfords Pantalones  Azul  Dark Blu](https://m.media-amazon.com/images/I/31ST5ZJAHvL._SL200_.jpg)](https://www.amazon.es/dp/B07DH2GPHT/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DH2GPHT/?tag=tolees-21)
 

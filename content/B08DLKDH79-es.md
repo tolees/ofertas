@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en junengSO Kit de Matcha japonés  licuador'
 date: 2020-12-03 16:33:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/31T4Nv0ZvTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31T4Nv0ZvTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31T4Nv0ZvTL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 44.38 EUR
 inStock: true
 prodname: 'junengSO Kit de Matcha japonés  licuadora de Matcha de bambú Tradicional  Cuchara de té y Estante.'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08DLKDH79/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'junengSO Kit de Matcha japonés  licuador'
 ---
 
 Tienes [junengSO Kit de Matcha japonés  licuadora de Matcha de bambú Tradicional  Cuchara de té y Estante.](https://www.amazon.es/dp/B08DLKDH79/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 22.19 EUR (original: 44.38 EUR) en el siguiente enlace!
 
 [![junengSO Kit de Matcha japonés  licuador](https://m.media-amazon.com/images/I/31T4Nv0ZvTL._SL200_.jpg)](https://www.amazon.es/dp/B08DLKDH79/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08DLKDH79/?tag=tolees-21)
 

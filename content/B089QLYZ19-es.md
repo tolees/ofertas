@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.72 % en Camara de Fotos Cámara Digital de 24 MP '
 date: 2020-12-02 09:39:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+LimR0o2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+LimR0o2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+LimR0o2L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 79.0 EUR
 inStock: true
 prodname: 'Camara de Fotos Cámara Digital de 24 MP Camara Fotos Compacta Camara de Video con Pantalla LCD de 2.4 Pulgadas con Zoom Digital 3X Función Macro Adultos  Niños  Principiantes'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B089QLYZ19/?tag=tolees-21'
+descuento: '36.72'
+titulo: 'Camara de Fotos Cámara Digital de 24 MP '
 ---
 
 Tienes [Camara de Fotos Cámara Digital de 24 MP Camara Fotos Compacta Camara de Video con Pantalla LCD de 2.4 Pulgadas con Zoom Digital 3X Función Macro Adultos  Niños  Principiantes](https://www.amazon.es/dp/B089QLYZ19/?tag=tolees-21) con un 36.72 % de descuento con precio de oferta de 49.99 EUR (original: 79.0 EUR) en el siguiente enlace!
 
 [![Camara de Fotos Cámara Digital de 24 MP ](https://m.media-amazon.com/images/I/41+LimR0o2L._SL200_.jpg)](https://www.amazon.es/dp/B089QLYZ19/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B089QLYZ19/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'AmazonBasics AAA High-Capacity Rechargea al 36.02 % de descuento'
 date: 2020-11-27 20:02:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/51skhS9dSLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51skhS9dSLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51skhS9dSLL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 16.99 EUR
 inStock: true
 prodname: 'AmazonBasics AAA High-Capacity Rechargeable Batteries 850mAh  12-Pack  Pre-charged'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NX1DSMP/?tag=tolees-21'
+descuento: '36.02'
+titulo: 'AmazonBasics AAA High-Capacity Rechargea'
 ---
 
 Ahora mismo tienes [AmazonBasics AAA High-Capacity Rechargeable Batteries 850mAh  12-Pack  Pre-charged](https://www.amazon.es/dp/B07NX1DSMP/?tag=tolees-21) a 10.87 EUR (original: 16.99 EUR) (36.02 %  de descuento) en el siguiente enlace!
 
 [![AmazonBasics AAA High-Capacity Rechargea](https://m.media-amazon.com/images/I/51skhS9dSLL._SL200_.jpg)](https://www.amazon.es/dp/B07NX1DSMP/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07NX1DSMP/?tag=tolees-21)
 

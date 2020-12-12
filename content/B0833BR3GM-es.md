@@ -3,6 +3,7 @@ layout: post
 title: 'Puñales por la espalda  BD  [Blu-ray] al 46.63 % de descuento'
 date: 2020-11-23 08:28:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/51FUlNvscML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51FUlNvscML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51FUlNvscML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Puñales por la espalda  BD  [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0833BR3GM/?tag=tolees-21'
+descuento: '46.63'
+titulo: 'Puñales por la espalda  BD  [Blu-ray]'
 ---
 
 Ahora mismo tienes [Puñales por la espalda  BD  [Blu-ray]](https://www.amazon.es/dp/B0833BR3GM/?tag=tolees-21) a 8.0 EUR (original: 14.99 EUR) (46.63 %  de descuento) en el siguiente enlace!
 
 [![Puñales por la espalda  BD  [Blu-ray]](https://m.media-amazon.com/images/I/51FUlNvscML._SL200_.jpg)](https://www.amazon.es/dp/B0833BR3GM/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B0833BR3GM/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Goodthreads 5-Pack Patterned Socks Casua al 29.17 % de descuento'
 date: 2020-11-15 17:03:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41dW9n3qLJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41dW9n3qLJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41dW9n3qLJL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 5.69 EUR
 inStock: true
 prodname: 'Goodthreads 5-Pack Patterned Socks Casual  Paquete de bordado de isla  Talla única  Pack de 5'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07X4J66BZ/?tag=tolees-21'
+descuento: '29.17'
+titulo: 'Goodthreads 5-Pack Patterned Socks Casua'
 ---
 
 Ahora mismo tienes [Goodthreads 5-Pack Patterned Socks Casual  Paquete de bordado de isla  Talla única  Pack de 5](https://www.amazon.es/dp/B07X4J66BZ/?tag=tolees-21) a 4.03 EUR (original: 5.69 EUR) (29.17 %  de descuento) en el siguiente enlace!
 
 [![Goodthreads 5-Pack Patterned Socks Casua](https://m.media-amazon.com/images/I/41dW9n3qLJL._SL200_.jpg)](https://www.amazon.es/dp/B07X4J66BZ/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07X4J66BZ/?tag=tolees-21)
 

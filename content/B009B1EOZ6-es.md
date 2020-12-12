@@ -3,6 +3,7 @@ layout: post
 title: 'Live At River Plate [Vinilo] al 30.01 % de descuento'
 date: 2020-11-05 12:32:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/51jSgB5hEfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51jSgB5hEfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51jSgB5hEfL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 26.99 EUR
 inStock: true
 prodname: 'Live At River Plate [Vinilo]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B009B1EOZ6/?tag=tolees-21'
+descuento: '30.01'
+titulo: 'Live At River Plate [Vinilo]'
 ---
 
 Está [Live At River Plate [Vinilo]](https://www.amazon.es/dp/B009B1EOZ6/?tag=tolees-21) con 30.01 de descuento por 18.89 EUR (original: 26.99 EUR) en el siguiente enlace!
 
 [![Live At River Plate [Vinilo]](https://m.media-amazon.com/images/I/51jSgB5hEfL._SL200_.jpg)](https://www.amazon.es/dp/B009B1EOZ6/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B009B1EOZ6/?tag=tolees-21)
 

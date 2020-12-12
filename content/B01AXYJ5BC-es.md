@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.75 % en Joma - Anorak Everest Gris para Hombre'
 date: 2020-11-29 15:20:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Odyv7K44L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Odyv7K44L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Odyv7K44L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 45.95 EUR
 inStock: true
 prodname: 'Joma - Anorak Everest Gris para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01AXYJ5BC/?tag=tolees-21'
+descuento: '29.75'
+titulo: 'Joma - Anorak Everest Gris para Hombre'
 ---
 
 Tienes [Joma - Anorak Everest Gris para Hombre](https://www.amazon.es/dp/B01AXYJ5BC/?tag=tolees-21) con un 29.75 % de descuento con precio de oferta de 32.28 EUR (original: 45.95 EUR) en el siguiente enlace!
 
 [![Joma - Anorak Everest Gris para Hombre](https://m.media-amazon.com/images/I/41Odyv7K44L._SL200_.jpg)](https://www.amazon.es/dp/B01AXYJ5BC/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01AXYJ5BC/?tag=tolees-21)
 

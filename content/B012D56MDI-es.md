@@ -3,6 +3,7 @@ layout: post
 title: 'NITROPC - PC Gamer VX *Rebajas*  CPU Ryz al 25.86 % de descuento'
 date: 2020-11-24 13:16:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/41arJjm10VL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41arJjm10VL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41arJjm10VL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 815.0 EUR
 inStock: true
 prodname: 'NITROPC - PC Gamer VX *Rebajas*  CPU Ryzen 3  4N x 3 90Ghz  T. Gráfica Nvidia GTX 1650 4GB  SSD 240GB  HDD 1TB  Ram 8GB  + WiFi de Regalo. pc Gamer  pc Gaming  pc para Juegos  Ordenador Juegos'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B012D56MDI/?tag=tolees-21'
+descuento: '25.86'
+titulo: 'NITROPC - PC Gamer VX *Rebajas*  CPU Ryz'
 ---
 
 Ahora mismo tienes [NITROPC - PC Gamer VX *Rebajas*  CPU Ryzen 3  4N x 3 90Ghz  T. Gráfica Nvidia GTX 1650 4GB  SSD 240GB  HDD 1TB  Ram 8GB  + WiFi de Regalo. pc Gamer  pc Gaming  pc para Juegos  Ordenador Juegos](https://www.amazon.es/dp/B012D56MDI/?tag=tolees-21) a 604.22 EUR (original: 815.0 EUR) (25.86 %  de descuento) en el siguiente enlace!
 
 [![NITROPC - PC Gamer VX *Rebajas*  CPU Ryz](https://m.media-amazon.com/images/I/41arJjm10VL._SL200_.jpg)](https://www.amazon.es/dp/B012D56MDI/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B012D56MDI/?tag=tolees-21)
 

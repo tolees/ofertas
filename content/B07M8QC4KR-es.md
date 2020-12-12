@@ -3,6 +3,7 @@ layout: post
 title: 'Asics GELSAGA SOU  Running Shoe Mens  Wh al 63.00 % de descuento'
 date: 2020-10-19 05:24:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/31-2f5oZQvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31-2f5oZQvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31-2f5oZQvL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 90.0 EUR
 inStock: true
 prodname: 'Asics GELSAGA SOU  Running Shoe Mens  White/White  44.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07M8QC4KR/?tag=tolees-21'
+descuento: '63.00'
+titulo: 'Asics GELSAGA SOU  Running Shoe Mens  Wh'
 ---
 
 Está [Asics GELSAGA SOU  Running Shoe Mens  White/White  44.5 EU](https://www.amazon.es/dp/B07M8QC4KR/?tag=tolees-21) con 63.00 de descuento por 33.3 EUR (original: 90.0 EUR) en el siguiente enlace!
 
 [![Asics GELSAGA SOU  Running Shoe Mens  Wh](https://m.media-amazon.com/images/I/31-2f5oZQvL._SL200_.jpg)](https://www.amazon.es/dp/B07M8QC4KR/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07M8QC4KR/?tag=tolees-21)
 

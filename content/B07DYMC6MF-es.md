@@ -3,6 +3,7 @@ layout: post
 title: 'Merrell Trail Glove 5  Zapatillas Deport al 34.17 % de descuento'
 date: 2020-12-11 09:33:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-ih4qeneL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-ih4qeneL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-ih4qeneL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 120.0 EUR
 inStock: true
 prodname: 'Merrell Trail Glove 5  Zapatillas Deportivas para Interior Hombre  Negro  40 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DYMC6MF/?tag=tolees-21'
+descuento: '34.17'
+titulo: 'Merrell Trail Glove 5  Zapatillas Deport'
 ---
 
 Está [Merrell Trail Glove 5  Zapatillas Deportivas para Interior Hombre  Negro  40 EU](https://www.amazon.es/dp/B07DYMC6MF/?tag=tolees-21) con 34.17 de descuento por 78.99 EUR (original: 120.0 EUR) en el siguiente enlace!
@@ -24,11 +28,11 @@ Está [Merrell Trail Glove 5  Zapatillas Deportivas para Interior Hombre  Negro 
 
 Principales características:
 
-- Anchura del zapato: normal
 - Revestimiento: Malla
-- Material exterior: Sintético
-- Material de la suela: Sintético
 - Cierre: Cordones
+- Anchura del zapato: normal
+- Material de la suela: Sintético
+- Material exterior: Sintético
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07DYMC6MF/?tag=tolees-21)
 

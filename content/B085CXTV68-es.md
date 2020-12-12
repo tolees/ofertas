@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.23 % en Braun Series 6 60-B4500cs Afeitadora Elé'
 date: 2020-11-27 08:46:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/51VXugdCjdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51VXugdCjdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51VXugdCjdL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 184.9 EUR
 inStock: true
 prodname: 'Braun Series 6 60-B4500cs Afeitadora Eléctrica  máquina de afeitar barba hombre de Lámina con Base de Carga  Recortadora de Barba  Uso en Seco y Mojado  Recargable  Inalámbrica  Azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B085CXTV68/?tag=tolees-21'
+descuento: '30.23'
+titulo: 'Braun Series 6 60-B4500cs Afeitadora Elé'
 ---
 
 Tienes [Braun Series 6 60-B4500cs Afeitadora Eléctrica  máquina de afeitar barba hombre de Lámina con Base de Carga  Recortadora de Barba  Uso en Seco y Mojado  Recargable  Inalámbrica  Azul](https://www.amazon.es/dp/B085CXTV68/?tag=tolees-21) con un 30.23 % de descuento con precio de oferta de 129.0 EUR (original: 184.9 EUR) en el siguiente enlace!
 
 [![Braun Series 6 60-B4500cs Afeitadora Elé](https://m.media-amazon.com/images/I/51VXugdCjdL._SL200_.jpg)](https://www.amazon.es/dp/B085CXTV68/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B085CXTV68/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Kansoom Chubasquero de Mujer  Verde del  al 42.34 % de descuento'
 date: 2020-10-13 21:06:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/51zoogrrP7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51zoogrrP7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51zoogrrP7L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 30.99 EUR
 inStock: true
 prodname: 'Kansoom Chubasquero de Mujer  Verde del ejército  XXL '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07Y57B4MY/?tag=tolees-21'
+descuento: '42.34'
+titulo: 'Kansoom Chubasquero de Mujer  Verde del '
 ---
 
 Ahora mismo tienes [Kansoom Chubasquero de Mujer  Verde del ejército  XXL ](https://www.amazon.es/dp/B07Y57B4MY/?tag=tolees-21) a 17.87 EUR (original: 30.99 EUR) (42.34 %  de descuento) en el siguiente enlace!
 
 [![Kansoom Chubasquero de Mujer  Verde del ](https://m.media-amazon.com/images/I/51zoogrrP7L._SL200_.jpg)](https://www.amazon.es/dp/B07Y57B4MY/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07Y57B4MY/?tag=tolees-21)
 

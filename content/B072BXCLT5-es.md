@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA HG Armour Printed Leggin al 50.01 % de descuento'
 date: 2020-11-15 08:12:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41lKXgIZ1uL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lKXgIZ1uL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41lKXgIZ1uL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 50.39 EUR
 inStock: true
 prodname: 'Under Armour UA HG Armour Printed Legging Leggings  Mujer  Naranja  819   XL'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B072BXCLT5/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'Under Armour UA HG Armour Printed Leggin'
 ---
 
 Ahora mismo tienes [Under Armour UA HG Armour Printed Legging Leggings  Mujer  Naranja  819   XL](https://www.amazon.es/dp/B072BXCLT5/?tag=tolees-21) a 25.19 EUR (original: 50.39 EUR) (50.01 %  de descuento) en el siguiente enlace!
 
 [![Under Armour UA HG Armour Printed Leggin](https://m.media-amazon.com/images/I/41lKXgIZ1uL._SL200_.jpg)](https://www.amazon.es/dp/B072BXCLT5/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B072BXCLT5/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Ad Astra 4k Uhd [Blu-ray] al 51.13 % de descuento'
 date: 2020-11-23 18:12:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ocnx5qRYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ocnx5qRYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ocnx5qRYL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 25.58 EUR
 inStock: true
 prodname: 'Ad Astra 4k Uhd [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B081KPTT35/?tag=tolees-21'
+descuento: '51.13'
+titulo: 'Ad Astra 4k Uhd [Blu-ray]'
 ---
 
 Ahora mismo tienes [Ad Astra 4k Uhd [Blu-ray]](https://www.amazon.es/dp/B081KPTT35/?tag=tolees-21) a 12.5 EUR (original: 25.58 EUR) (51.13 %  de descuento) en el siguiente enlace!
 
 [![Ad Astra 4k Uhd [Blu-ray]](https://m.media-amazon.com/images/I/41ocnx5qRYL._SL200_.jpg)](https://www.amazon.es/dp/B081KPTT35/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B081KPTT35/?tag=tolees-21)
 

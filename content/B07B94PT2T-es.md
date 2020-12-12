@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Clarkdale Arlo  Botas Chelsea Muj al 63.27 % de descuento'
 date: 2020-11-07 10:48:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/31O45YS3OML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31O45YS3OML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31O45YS3OML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 130.0 EUR
 inStock: true
 prodname: 'Clarks Clarkdale Arlo  Botas Chelsea Mujer  Negro  Black SDE   38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07B94PT2T/?tag=tolees-21'
+descuento: '63.27'
+titulo: 'Clarks Clarkdale Arlo  Botas Chelsea Muj'
 ---
 
 Está [Clarks Clarkdale Arlo  Botas Chelsea Mujer  Negro  Black SDE   38 EU](https://www.amazon.es/dp/B07B94PT2T/?tag=tolees-21) con 63.27 de descuento por 47.75 EUR (original: 130.0 EUR) en el siguiente enlace!
 
 [![Clarks Clarkdale Arlo  Botas Chelsea Muj](https://m.media-amazon.com/images/I/31O45YS3OML._SL200_.jpg)](https://www.amazon.es/dp/B07B94PT2T/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07B94PT2T/?tag=tolees-21)
 

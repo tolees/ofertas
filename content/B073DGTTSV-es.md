@@ -3,6 +3,7 @@ layout: post
 title: 'Infinity Nado - Estadio con 2 peonzas y  al 35.67 % de descuento'
 date: 2020-12-07 08:30:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/513+CWXqdlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/513+CWXqdlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/513+CWXqdlL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 32.6 EUR
 inStock: true
 prodname: 'Infinity Nado - Estadio con 2 peonzas y 2 lanzadores  43918 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073DGTTSV/?tag=tolees-21'
+descuento: '35.67'
+titulo: 'Infinity Nado - Estadio con 2 peonzas y '
 ---
 
 Está [Infinity Nado - Estadio con 2 peonzas y 2 lanzadores  43918 ](https://www.amazon.es/dp/B073DGTTSV/?tag=tolees-21) con 35.67 de descuento por 20.97 EUR (original: 32.6 EUR) en el siguiente enlace!
 
 [![Infinity Nado - Estadio con 2 peonzas y ](https://m.media-amazon.com/images/I/513+CWXqdlL._SL200_.jpg)](https://www.amazon.es/dp/B073DGTTSV/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B073DGTTSV/?tag=tolees-21)
 

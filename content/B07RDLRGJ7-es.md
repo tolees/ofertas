@@ -3,6 +3,7 @@ layout: post
 title: 'Salomon Sense CSWP K  Zapatillas de Send al 28.79 % de descuento'
 date: 2020-11-16 19:50:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+1JilH9wL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+1JilH9wL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+1JilH9wL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 24.56 EUR
 inStock: true
 prodname: 'Salomon Sense CSWP K  Zapatillas de Senderismo Unisex Niños  Verde  Forest Night/Black/Mermaid   30 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07RDLRGJ7/?tag=tolees-21'
+descuento: '28.79'
+titulo: 'Salomon Sense CSWP K  Zapatillas de Send'
 ---
 
 Ahora mismo tienes [Salomon Sense CSWP K  Zapatillas de Senderismo Unisex Niños  Verde  Forest Night/Black/Mermaid   30 EU](https://www.amazon.es/dp/B07RDLRGJ7/?tag=tolees-21) a 17.49 EUR (original: 24.56 EUR) (28.79 %  de descuento) en el siguiente enlace!
 
 [![Salomon Sense CSWP K  Zapatillas de Send](https://m.media-amazon.com/images/I/41+1JilH9wL._SL200_.jpg)](https://www.amazon.es/dp/B07RDLRGJ7/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07RDLRGJ7/?tag=tolees-21)
 

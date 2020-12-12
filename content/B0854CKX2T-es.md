@@ -3,6 +3,7 @@ layout: post
 title: 'Guess Pulsera Hero Dorada Hombre UMB7900 al 25.00 % de descuento'
 date: 2020-11-11 08:27:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/31E0iTTu3nL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31E0iTTu3nL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31E0iTTu3nL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 79.0 EUR
 inStock: true
 prodname: 'Guess Pulsera Hero Dorada Hombre UMB79005'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0854CKX2T/?tag=tolees-21'
+descuento: '25.00'
+titulo: 'Guess Pulsera Hero Dorada Hombre UMB7900'
 ---
 
 Está [Guess Pulsera Hero Dorada Hombre UMB79005](https://www.amazon.es/dp/B0854CKX2T/?tag=tolees-21) con 25.00 de descuento por 59.25 EUR (original: 79.0 EUR) en el siguiente enlace!
 
 [![Guess Pulsera Hero Dorada Hombre UMB7900](https://m.media-amazon.com/images/I/31E0iTTu3nL._SL200_.jpg)](https://www.amazon.es/dp/B0854CKX2T/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0854CKX2T/?tag=tolees-21)
 

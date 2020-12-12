@@ -3,6 +3,7 @@ layout: post
 title: 'BIC Cristal Original Bolígrafos Punta Me al 38.73 % de descuento'
 date: 2020-11-24 18:00:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/51s+jVRl5aL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51s+jVRl5aL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51s+jVRl5aL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 5.99 EUR
 inStock: true
 prodname: 'BIC Cristal Original Bolígrafos Punta Media  1 0 mm  – Colores Surtidos  Blíster de 15+5 Unidades  para escritura suave  certificados con etiqueta ecológica'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005BRK90S/?tag=tolees-21'
+descuento: '38.73'
+titulo: 'BIC Cristal Original Bolígrafos Punta Me'
 ---
 
 Ahora mismo tienes [BIC Cristal Original Bolígrafos Punta Media  1 0 mm  – Colores Surtidos  Blíster de 15+5 Unidades  para escritura suave  certificados con etiqueta ecológica](https://www.amazon.es/dp/B005BRK90S/?tag=tolees-21) a 3.67 EUR (original: 5.99 EUR) (38.73 %  de descuento) en el siguiente enlace!
 
 [![BIC Cristal Original Bolígrafos Punta Me](https://m.media-amazon.com/images/I/51s+jVRl5aL._SL200_.jpg)](https://www.amazon.es/dp/B005BRK90S/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B005BRK90S/?tag=tolees-21)
 

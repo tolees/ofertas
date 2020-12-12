@@ -3,6 +3,7 @@ layout: post
 title: 'Philips AE1530 - Radio portátil  Sintoni al 26.33 % de descuento'
 date: 2020-11-17 16:03:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41kZhz+hn-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41kZhz+hn-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41kZhz+hn-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 18.99 EUR
 inStock: true
 prodname: 'Philips AE1530 - Radio portátil  Sintonización analógica FM/OM '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B001B7LKFA/?tag=tolees-21'
+descuento: '26.33'
+titulo: 'Philips AE1530 - Radio portátil  Sintoni'
 ---
 
 Ahora mismo tienes [Philips AE1530 - Radio portátil  Sintonización analógica FM/OM ](https://www.amazon.es/dp/B001B7LKFA/?tag=tolees-21) a 13.99 EUR (original: 18.99 EUR) (26.33 %  de descuento) en el siguiente enlace!
 
 [![Philips AE1530 - Radio portátil  Sintoni](https://m.media-amazon.com/images/I/41kZhz+hn-L._SL200_.jpg)](https://www.amazon.es/dp/B001B7LKFA/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B001B7LKFA/?tag=tolees-21)
 

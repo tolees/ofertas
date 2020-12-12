@@ -3,6 +3,7 @@ layout: post
 title: 'Bosch Professional 2 608 551 097 Pack de al 31.80 % de descuento'
 date: 2020-10-27 07:04:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/51or0Bx9HAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51or0Bx9HAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51or0Bx9HAL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 26.45 EUR
 inStock: true
 prodname: 'Bosch Professional 2 608 551 097 Pack de 9 Suplementos de Llave de vaso-50 mm  6  7  8  9  10  11  12  13  14 mm '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00F11SXJI/?tag=tolees-21'
+descuento: '31.80'
+titulo: 'Bosch Professional 2 608 551 097 Pack de'
 ---
 
 Ahora mismo tienes [Bosch Professional 2 608 551 097 Pack de 9 Suplementos de Llave de vaso-50 mm  6  7  8  9  10  11  12  13  14 mm ](https://www.amazon.es/dp/B00F11SXJI/?tag=tolees-21) a 18.04 EUR (original: 26.45 EUR) (31.80 %  de descuento) en el siguiente enlace!
 
 [![Bosch Professional 2 608 551 097 Pack de](https://m.media-amazon.com/images/I/51or0Bx9HAL._SL200_.jpg)](https://www.amazon.es/dp/B00F11SXJI/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B00F11SXJI/?tag=tolees-21)
 

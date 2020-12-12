@@ -3,6 +3,7 @@ layout: post
 title: 'Logitech Craft Teclado Inalámbrico  2 4  al 28.71 % de descuento'
 date: 2020-12-07 22:24:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/41cQE5qiu1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41cQE5qiu1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41cQE5qiu1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 209.0 EUR
 inStock: true
 prodname: 'Logitech Craft Teclado Inalámbrico  2 4 GHz/Bluetooth  Disco Selector Creativo  Multi-Dispositivos  Teclas Retroiluminadas Automáticas  Recargable  PC/Mac/Portátil  Disposición QWERTY Español - Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B074KFNJQG/?tag=tolees-21'
+descuento: '28.71'
+titulo: 'Logitech Craft Teclado Inalámbrico  2 4 '
 ---
 
 Ahora mismo tienes [Logitech Craft Teclado Inalámbrico  2 4 GHz/Bluetooth  Disco Selector Creativo  Multi-Dispositivos  Teclas Retroiluminadas Automáticas  Recargable  PC/Mac/Portátil  Disposición QWERTY Español - Negro](https://www.amazon.es/dp/B074KFNJQG/?tag=tolees-21) a 149.0 EUR (original: 209.0 EUR) (28.71 %  de descuento) en el siguiente enlace!
 
 [![Logitech Craft Teclado Inalámbrico  2 4 ](https://m.media-amazon.com/images/I/41cQE5qiu1L._SL200_.jpg)](https://www.amazon.es/dp/B074KFNJQG/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B074KFNJQG/?tag=tolees-21)
 

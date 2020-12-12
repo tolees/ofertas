@@ -3,6 +3,7 @@ layout: post
 title: 'Casio Reloj de Pulsera LA670WEGA-1EF al 41.85 % de descuento'
 date: 2020-12-03 10:54:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ySfmJlgAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ySfmJlgAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ySfmJlgAL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 55.0 EUR
 inStock: true
 prodname: 'Casio Reloj de Pulsera LA670WEGA-1EF'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004KPKU9M/?tag=tolees-21'
+descuento: '41.85'
+titulo: 'Casio Reloj de Pulsera LA670WEGA-1EF'
 ---
 
 Está [Casio Reloj de Pulsera LA670WEGA-1EF](https://www.amazon.es/dp/B004KPKU9M/?tag=tolees-21) con 41.85 de descuento por 31.98 EUR (original: 55.0 EUR) en el siguiente enlace!
 
 [![Casio Reloj de Pulsera LA670WEGA-1EF](https://m.media-amazon.com/images/I/51ySfmJlgAL._SL200_.jpg)](https://www.amazon.es/dp/B004KPKU9M/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B004KPKU9M/?tag=tolees-21)
 

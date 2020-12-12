@@ -3,6 +3,7 @@ layout: post
 title: 'Philips GC7844/20 - Centro de planchado  al 33.34 % de descuento'
 date: 2020-11-23 09:33:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/41mIMUNNHJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mIMUNNHJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41mIMUNNHJL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 149.99 EUR
 inStock: true
 prodname: 'Philips GC7844/20 - Centro de planchado sin quemaduras ni necesidad de realizar ajustes de la temperatura  6.5 bares  golpe de vapor 400 g  autoapagado  tamaño Compacto  suela especial  color azul'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B084QZ68MF/?tag=tolees-21'
+descuento: '33.34'
+titulo: 'Philips GC7844/20 - Centro de planchado '
 ---
 
 Ahora mismo tienes [Philips GC7844/20 - Centro de planchado sin quemaduras ni necesidad de realizar ajustes de la temperatura  6.5 bares  golpe de vapor 400 g  autoapagado  tamaño Compacto  suela especial  color azul](https://www.amazon.es/dp/B084QZ68MF/?tag=tolees-21) a 99.99 EUR (original: 149.99 EUR) (33.34 %  de descuento) en el siguiente enlace!
 
 [![Philips GC7844/20 - Centro de planchado ](https://m.media-amazon.com/images/I/41mIMUNNHJL._SL200_.jpg)](https://www.amazon.es/dp/B084QZ68MF/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B084QZ68MF/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'AmazonBasics - Rotuladores con punta bis al 30.07 % de descuento'
 date: 2020-11-27 17:21:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41J3RoJyX8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41J3RoJyX8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41J3RoJyX8L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 10.71 EUR
 inStock: true
 prodname: 'AmazonBasics - Rotuladores con punta biselada  24 unidades '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01FV0FD0U/?tag=tolees-21'
+descuento: '30.07'
+titulo: 'AmazonBasics - Rotuladores con punta bis'
 ---
 
 Está [AmazonBasics - Rotuladores con punta biselada  24 unidades ](https://www.amazon.es/dp/B01FV0FD0U/?tag=tolees-21) con 30.07 de descuento por 7.49 EUR (original: 10.71 EUR) en el siguiente enlace!
 
 [![AmazonBasics - Rotuladores con punta bis](https://m.media-amazon.com/images/I/41J3RoJyX8L._SL200_.jpg)](https://www.amazon.es/dp/B01FV0FD0U/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01FV0FD0U/?tag=tolees-21)
 

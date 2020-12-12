@@ -17,6 +17,9 @@ comparePrice: 8.0 EUR
 inStock: true
 prodname: 'Compo Sana Universal de Calidad para macetas con 12 semanas de abono para Plantas de Interior  terraza y jardín  Substrato de Cultivo  10 L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00UCCLC1W/?tag=tolees-21'
+descuento: '38.12'
+titulo: 'Compo Sana Universal de Calidad para mac'
 ---
 
 Está [Compo Sana Universal de Calidad para macetas con 12 semanas de abono para Plantas de Interior  terraza y jardín  Substrato de Cultivo  10 L](https://www.amazon.es/dp/B00UCCLC1W/?tag=tolees-21) con 38.12 de descuento por 4.95 EUR (original: 8.0 EUR) en el siguiente enlace!
@@ -26,10 +29,10 @@ Está [Compo Sana Universal de Calidad para macetas con 12 semanas de abono para
 Principales características:
 
 - Fácil de utilizar: soltar ligeramente la tierra, llenar el macetero con tierra e insertar la planta incluyendo el cepellón, rellenar con tierra hasta 1 cm por debajo del borde, presionar ligeramente hacia abajo
+- Contenido: 1 x Compo sana substrato universal con 8 semanas de abono, bolsa de 10 l, valor del ph: 5.0 - 6.5
 - Calidad Compo: materias primas seleccionadas según la receta original de Compo, olor agradable, llevamos a cabo controles regulares para certificar la calidad de Compo sana por organismos reconocidos siguiendo las normativas europeas y locales
 - Crecimiento sano y vigoroso: óptimo suministro de nutrientes gracias al fertilizante activador, óptima absorción de agua mediante los granos de perlita y materias de calidad, fortalecimiento del crecimiento de las raíces gracias al activador agrosil
 - Substrato universal listo para usar con suministro de nutrientes para hasta 8 semanas, adecuado para plantas de interior, balcón y jardín, no apto para plantas pantanosas, semillas y orquídeas
-- Contenido: 1 x Compo sana substrato universal con 8 semanas de abono, bolsa de 10 l, valor del ph: 5.0 - 6.5
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00UCCLC1W/?tag=tolees-21)
 

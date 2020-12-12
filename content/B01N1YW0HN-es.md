@@ -3,6 +3,7 @@ layout: post
 title: 'Portal Knights al 71.22 % de descuento'
 date: 2020-12-09 17:08:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/61cOHsmyCOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61cOHsmyCOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61cOHsmyCOL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 20.5 EUR
 inStock: true
 prodname: 'Portal Knights'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N1YW0HN/?tag=tolees-21'
+descuento: '71.22'
+titulo: 'Portal Knights'
 ---
 
 Ahora mismo tienes [Portal Knights](https://www.amazon.es/dp/B01N1YW0HN/?tag=tolees-21) a 5.9 EUR (original: 20.5 EUR) (71.22 %  de descuento) en el siguiente enlace!
 
 [![Portal Knights](https://m.media-amazon.com/images/I/61cOHsmyCOL._SL200_.jpg)](https://www.amazon.es/dp/B01N1YW0HN/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B01N1YW0HN/?tag=tolees-21)
 

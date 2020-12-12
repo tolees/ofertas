@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA Scrimmage 2.0 Backpack   al 50.00 % de descuento'
 date: 2020-11-28 16:13:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41uYeoluUDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41uYeoluUDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41uYeoluUDL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 40.0 EUR
 inStock: true
 prodname: 'Under Armour UA Scrimmage 2.0 Backpack  mochila unisex  mochila resistente al agua unisex  negro  Black/Black/Silver 001    Taglia unica'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07J31ZHWX/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Under Armour UA Scrimmage 2.0 Backpack  '
 ---
 
 Ahora mismo tienes [Under Armour UA Scrimmage 2.0 Backpack  mochila unisex  mochila resistente al agua unisex  negro  Black/Black/Silver 001    Taglia unica](https://www.amazon.es/dp/B07J31ZHWX/?tag=tolees-21) a 20.0 EUR (original: 40.0 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
 [![Under Armour UA Scrimmage 2.0 Backpack  ](https://m.media-amazon.com/images/I/41uYeoluUDL._SL200_.jpg)](https://www.amazon.es/dp/B07J31ZHWX/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07J31ZHWX/?tag=tolees-21)
 

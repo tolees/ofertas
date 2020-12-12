@@ -3,6 +3,7 @@ layout: post
 title: 'Fellowes Gel Crystal - Reposamuñecas par al 35.32 % de descuento'
 date: 2020-11-28 14:45:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Vse1VbUcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Vse1VbUcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Vse1VbUcL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 24.32 EUR
 inStock: true
 prodname: 'Fellowes Gel Crystal - Reposamuñecas para teclado  negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000WLFK70/?tag=tolees-21'
+descuento: '35.32'
+titulo: 'Fellowes Gel Crystal - Reposamuñecas par'
 ---
 
 Está [Fellowes Gel Crystal - Reposamuñecas para teclado  negro](https://www.amazon.es/dp/B000WLFK70/?tag=tolees-21) con 35.32 de descuento por 15.73 EUR (original: 24.32 EUR) en el siguiente enlace!
 
 [![Fellowes Gel Crystal - Reposamuñecas par](https://m.media-amazon.com/images/I/31Vse1VbUcL._SL200_.jpg)](https://www.amazon.es/dp/B000WLFK70/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B000WLFK70/?tag=tolees-21)
 

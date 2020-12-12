@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas Continental 80 W  Zapatillas de D al 38.21 % de descuento'
 date: 2020-11-17 03:33:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/212nZSeQIIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/212nZSeQIIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/212nZSeQIIL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Adidas Continental 80 W  Zapatillas de Deporte para Mujer  Multicolor  Ftwbla/Rosaut/Ros Cl A 000   36 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KPFTLNY/?tag=tolees-21'
+descuento: '38.21'
+titulo: 'Adidas Continental 80 W  Zapatillas de D'
 ---
 
 Está [Adidas Continental 80 W  Zapatillas de Deporte para Mujer  Multicolor  Ftwbla/Rosaut/Ros Cl A 000   36 EU](https://www.amazon.es/dp/B07KPFTLNY/?tag=tolees-21) con 38.21 de descuento por 61.76 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![Adidas Continental 80 W  Zapatillas de D](https://m.media-amazon.com/images/I/212nZSeQIIL._SL200_.jpg)](https://www.amazon.es/dp/B07KPFTLNY/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KPFTLNY/?tag=tolees-21)
 

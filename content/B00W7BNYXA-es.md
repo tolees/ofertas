@@ -3,6 +3,7 @@ layout: post
 title: 'Goliath-35880 Photo Pearls con 7500 Piez al 44.60 % de descuento'
 date: 2020-12-08 13:06:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/51X-WAhfHcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51X-WAhfHcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51X-WAhfHcL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 28.99 EUR
 inStock: true
 prodname: 'Goliath-35880 Photo Pearls con 7500 Piezas  35.88 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00W7BNYXA/?tag=tolees-21'
+descuento: '44.60'
+titulo: 'Goliath-35880 Photo Pearls con 7500 Piez'
 ---
 
 Está [Goliath-35880 Photo Pearls con 7500 Piezas  35.88 ](https://www.amazon.es/dp/B00W7BNYXA/?tag=tolees-21) con 44.60 de descuento por 16.06 EUR (original: 28.99 EUR) en el siguiente enlace!
 
 [![Goliath-35880 Photo Pearls con 7500 Piez](https://m.media-amazon.com/images/I/51X-WAhfHcL._SL200_.jpg)](https://www.amazon.es/dp/B00W7BNYXA/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00W7BNYXA/?tag=tolees-21)
 

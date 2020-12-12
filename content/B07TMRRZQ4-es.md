@@ -3,6 +3,7 @@ layout: post
 title: 'El Gigante De Hierro - Signature Edition al 46.18 % de descuento'
 date: 2020-11-24 18:26:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41fuRYzTr6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fuRYzTr6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41fuRYzTr6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 10.2 EUR
 inStock: true
 prodname: 'El Gigante De Hierro - Signature Edition Blu-Ray - Iconic [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07TMRRZQ4/?tag=tolees-21'
+descuento: '46.18'
+titulo: 'El Gigante De Hierro - Signature Edition'
 ---
 
 Ahora mismo tienes [El Gigante De Hierro - Signature Edition Blu-Ray - Iconic [Blu-ray]](https://www.amazon.es/dp/B07TMRRZQ4/?tag=tolees-21) a 5.49 EUR (original: 10.2 EUR) (46.18 %  de descuento) en el siguiente enlace!
 
 [![El Gigante De Hierro - Signature Edition](https://m.media-amazon.com/images/I/41fuRYzTr6L._SL200_.jpg)](https://www.amazon.es/dp/B07TMRRZQ4/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07TMRRZQ4/?tag=tolees-21)
 

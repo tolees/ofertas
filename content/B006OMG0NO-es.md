@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.69 % en Keter Manor 4X6 S Shed- Caseta de jardín'
 date: 2020-11-25 23:57:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41kiG5znTeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41kiG5znTeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41kiG5znTeL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 329.0 EUR
 inStock: true
 prodname: 'Keter Manor 4X6 S Shed- Caseta de jardín  con suelo  sistema de ventilación  puerta y ventana  resistente al agua  color gris'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B006OMG0NO/?tag=tolees-21'
+descuento: '37.69'
+titulo: 'Keter Manor 4X6 S Shed- Caseta de jardín'
 ---
 
 Tienes [Keter Manor 4X6 S Shed- Caseta de jardín  con suelo  sistema de ventilación  puerta y ventana  resistente al agua  color gris](https://www.amazon.es/dp/B006OMG0NO/?tag=tolees-21) con un 37.69 % de descuento con precio de oferta de 204.99 EUR (original: 329.0 EUR) en el siguiente enlace!
 
 [![Keter Manor 4X6 S Shed- Caseta de jardín](https://m.media-amazon.com/images/I/41kiG5znTeL._SL200_.jpg)](https://www.amazon.es/dp/B006OMG0NO/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B006OMG0NO/?tag=tolees-21)
 

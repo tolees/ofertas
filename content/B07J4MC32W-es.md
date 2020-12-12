@@ -3,6 +3,7 @@ layout: post
 title: 'Gladiator  4K UHD + BD + BD Extras  [Blu al 50.02 % de descuento'
 date: 2020-11-24 06:30:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/51o5vXFE83L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51o5vXFE83L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51o5vXFE83L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Gladiator  4K UHD + BD + BD Extras  [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07J4MC32W/?tag=tolees-21'
+descuento: '50.02'
+titulo: 'Gladiator  4K UHD + BD + BD Extras  [Blu'
 ---
 
 Está [Gladiator  4K UHD + BD + BD Extras  [Blu-ray]](https://www.amazon.es/dp/B07J4MC32W/?tag=tolees-21) con 50.02 de descuento por 12.49 EUR (original: 24.99 EUR) en el siguiente enlace!
 
 [![Gladiator  4K UHD + BD + BD Extras  [Blu](https://m.media-amazon.com/images/I/51o5vXFE83L._SL200_.jpg)](https://www.amazon.es/dp/B07J4MC32W/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07J4MC32W/?tag=tolees-21)
 

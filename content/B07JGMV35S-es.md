@@ -31,8 +31,8 @@ Características principales:
 - Mecedora confortable y segura con asiento envolvente y acolchado
 - Entretenido, función mecedora y arco de juegos
 - Hamaca fácil de plegar y llevar
-- Hamaca para bebé dispone de una sistema de bloqueo con 3 posiciones de reclinado
 - Tiene función de hamaca mecedora y arco de juegos
+- Hamaca para bebé dispone de una sistema de bloqueo con 3 posiciones de reclinado
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JGMV35S/?tag=tolees-21)
 

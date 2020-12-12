@@ -3,6 +3,7 @@ layout: post
 title: 'Samsonite Guardit 2.0 Mochila para portá al 25.00 % de descuento'
 date: 2020-12-09 20:44:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/31v0vjifRBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31v0vjifRBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31v0vjifRBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 69.0 EUR
 inStock: true
 prodname: 'Samsonite Guardit 2.0 Mochila para portátil  Unisex Adulto  17.3 pulgadas  48 cm - 27.5 L   Negro  Black '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LC882HT/?tag=tolees-21'
+descuento: '25.00'
+titulo: 'Samsonite Guardit 2.0 Mochila para portá'
 ---
 
 Está [Samsonite Guardit 2.0 Mochila para portátil  Unisex Adulto  17.3 pulgadas  48 cm - 27.5 L   Negro  Black ](https://www.amazon.es/dp/B07LC882HT/?tag=tolees-21) con 25.00 de descuento por 51.75 EUR (original: 69.0 EUR) en el siguiente enlace!
 
 [![Samsonite Guardit 2.0 Mochila para portá](https://m.media-amazon.com/images/I/31v0vjifRBL._SL200_.jpg)](https://www.amazon.es/dp/B07LC882HT/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07LC882HT/?tag=tolees-21)
 

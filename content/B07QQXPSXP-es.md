@@ -3,6 +3,7 @@ layout: post
 title: 'Vieta Pro Goody - Altavoz inalámbrico  T al 33.34 % de descuento'
 date: 2020-11-28 19:12:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/41TS3kzsA1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41TS3kzsA1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41TS3kzsA1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Vieta Pro Goody - Altavoz inalámbrico  True Wireless Bluetooth  Radio FM  Reproductor USB  auxiliar  micrófono integrado  resistencia al agua IPX6  batería de 12 horas  grana'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07QQXPSXP/?tag=tolees-21'
+descuento: '33.34'
+titulo: 'Vieta Pro Goody - Altavoz inalámbrico  T'
 ---
 
 Está [Vieta Pro Goody - Altavoz inalámbrico  True Wireless Bluetooth  Radio FM  Reproductor USB  auxiliar  micrófono integrado  resistencia al agua IPX6  batería de 12 horas  grana](https://www.amazon.es/dp/B07QQXPSXP/?tag=tolees-21) con 33.34 de descuento por 39.99 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![Vieta Pro Goody - Altavoz inalámbrico  T](https://m.media-amazon.com/images/I/41TS3kzsA1L._SL200_.jpg)](https://www.amazon.es/dp/B07QQXPSXP/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07QQXPSXP/?tag=tolees-21)
 

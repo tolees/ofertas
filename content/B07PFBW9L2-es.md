@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.00 % en BERING Reloj Analógico para Hombre de Cu'
 date: 2020-11-25 12:30:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41jj5EcpKnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jj5EcpKnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41jj5EcpKnL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 199.0 EUR
 inStock: true
 prodname: 'BERING Reloj Analógico para Hombre de Cuarzo con Correa en Titanio 11739-797'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07PFBW9L2/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'BERING Reloj Analógico para Hombre de Cu'
 ---
 
 Tienes [BERING Reloj Analógico para Hombre de Cuarzo con Correa en Titanio 11739-797](https://www.amazon.es/dp/B07PFBW9L2/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 139.3 EUR (original: 199.0 EUR) en el siguiente enlace!
 
 [![BERING Reloj Analógico para Hombre de Cu](https://m.media-amazon.com/images/I/41jj5EcpKnL._SL200_.jpg)](https://www.amazon.es/dp/B07PFBW9L2/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07PFBW9L2/?tag=tolees-21)
 

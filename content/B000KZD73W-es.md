@@ -3,6 +3,7 @@ layout: post
 title: 'Lowepro Apex 100 AW - Bolsa con Comparti al 42.72 % de descuento'
 date: 2020-11-26 09:01:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/51aNdopBujL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51aNdopBujL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51aNdopBujL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 34.9 EUR
 inStock: true
 prodname: 'Lowepro Apex 100 AW - Bolsa con Compartimentos para cámaras  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000KZD73W/?tag=tolees-21'
+descuento: '42.72'
+titulo: 'Lowepro Apex 100 AW - Bolsa con Comparti'
 ---
 
 Está [Lowepro Apex 100 AW - Bolsa con Compartimentos para cámaras  Negro](https://www.amazon.es/dp/B000KZD73W/?tag=tolees-21) con 42.72 de descuento por 19.99 EUR (original: 34.9 EUR) en el siguiente enlace!
 
 [![Lowepro Apex 100 AW - Bolsa con Comparti](https://m.media-amazon.com/images/I/51aNdopBujL._SL200_.jpg)](https://www.amazon.es/dp/B000KZD73W/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B000KZD73W/?tag=tolees-21)
 

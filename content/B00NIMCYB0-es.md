@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.04 % en ASTIGARRAGA KIT LINE Estantería modular '
 date: 2020-11-27 16:59:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/31AO1UDGSjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31AO1UDGSjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31AO1UDGSjL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 62.46 EUR
 inStock: true
 prodname: 'ASTIGARRAGA KIT LINE Estantería modular 3 cubos DINAMIC'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00NIMCYB0/?tag=tolees-21'
+descuento: '36.04'
+titulo: 'ASTIGARRAGA KIT LINE Estantería modular '
 ---
 
 Tienes [ASTIGARRAGA KIT LINE Estantería modular 3 cubos DINAMIC](https://www.amazon.es/dp/B00NIMCYB0/?tag=tolees-21) con un 36.04 % de descuento con precio de oferta de 39.95 EUR (original: 62.46 EUR) en el siguiente enlace!
 
 [![ASTIGARRAGA KIT LINE Estantería modular ](https://m.media-amazon.com/images/I/31AO1UDGSjL._SL200_.jpg)](https://www.amazon.es/dp/B00NIMCYB0/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00NIMCYB0/?tag=tolees-21)
 

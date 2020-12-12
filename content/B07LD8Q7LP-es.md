@@ -3,6 +3,7 @@ layout: post
 title: 'Made In Abyss Episodios 1 A 13  Serie Co al 50.01 % de descuento'
 date: 2020-11-24 06:32:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/51tupH6AQ7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51tupH6AQ7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51tupH6AQ7L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 67.99 EUR
 inStock: true
 prodname: 'Made In Abyss Episodios 1 A 13  Serie Completa  Blu-Ray Edición Coleccionistas [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LD8Q7LP/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'Made In Abyss Episodios 1 A 13  Serie Co'
 ---
 
 Está [Made In Abyss Episodios 1 A 13  Serie Completa  Blu-Ray Edición Coleccionistas [Blu-ray]](https://www.amazon.es/dp/B07LD8Q7LP/?tag=tolees-21) con 50.01 de descuento por 33.99 EUR (original: 67.99 EUR) en el siguiente enlace!
 
 [![Made In Abyss Episodios 1 A 13  Serie Co](https://m.media-amazon.com/images/I/51tupH6AQ7L._SL200_.jpg)](https://www.amazon.es/dp/B07LD8Q7LP/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07LD8Q7LP/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'STANLEY 1-30-697 - Flexometro Tylon 5 me al 29.18 % de descuento'
 date: 2020-11-08 11:43:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41bzmpTo1bL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bzmpTo1bL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41bzmpTo1bL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 6.99 EUR
 inStock: true
 prodname: 'STANLEY 1-30-697 - Flexometro Tylon 5 metros x 19mm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0024QL8MC/?tag=tolees-21'
+descuento: '29.18'
+titulo: 'STANLEY 1-30-697 - Flexometro Tylon 5 me'
 ---
 
 Ahora mismo tienes [STANLEY 1-30-697 - Flexometro Tylon 5 metros x 19mm](https://www.amazon.es/dp/B0024QL8MC/?tag=tolees-21) a 4.95 EUR (original: 6.99 EUR) (29.18 %  de descuento) en el siguiente enlace!
 
 [![STANLEY 1-30-697 - Flexometro Tylon 5 me](https://m.media-amazon.com/images/I/41bzmpTo1bL._SL200_.jpg)](https://www.amazon.es/dp/B0024QL8MC/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B0024QL8MC/?tag=tolees-21)
 

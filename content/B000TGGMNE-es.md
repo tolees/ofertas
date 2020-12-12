@@ -28,11 +28,11 @@ Tienes [Clatronic AS 2958 Cortafiambres  Corte Ajustable  180 W  Color Blanco  p
 
 Características principales:
 
-- Motor de gran potencia 180 W
-- Protección para las manos
-- Cuchilla especial de acero inoxidable
 - Interruptor de 3 posiciones
+- Cuchilla especial de acero inoxidable
+- Protección para las manos
 - Regulador de corte con calibrador
+- Motor de gran potencia 180 W
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000TGGMNE/?tag=tolees-21)
 

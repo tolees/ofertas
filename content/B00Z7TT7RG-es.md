@@ -3,6 +3,7 @@ layout: post
 title: 'OtterBox Defender - Funda anti caídas ro al 89.00 % de descuento'
 date: 2020-11-21 17:46:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/311c2z75wiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/311c2z75wiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/311c2z75wiL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'OtterBox Defender - Funda anti caídas robusta para iPad 5a/6a Generación  color negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00Z7TT7RG/?tag=tolees-21'
+descuento: '89.00'
+titulo: 'OtterBox Defender - Funda anti caídas ro'
 ---
 
 Ahora mismo tienes [OtterBox Defender - Funda anti caídas robusta para iPad 5a/6a Generación  color negro](https://www.amazon.es/dp/B00Z7TT7RG/?tag=tolees-21) a 9.9 EUR (original: 89.99 EUR) (89.00 %  de descuento) en el siguiente enlace!
 
 [![OtterBox Defender - Funda anti caídas ro](https://m.media-amazon.com/images/I/311c2z75wiL._SL200_.jpg)](https://www.amazon.es/dp/B00Z7TT7RG/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B00Z7TT7RG/?tag=tolees-21)
 

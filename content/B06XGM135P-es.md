@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.04 % en Maybelline New York - Polvos Matificante'
 date: 2020-11-09 12:33:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/51oDEEFtGbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51oDEEFtGbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51oDEEFtGbL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 5.99 EUR
 inStock: true
 prodname: 'Maybelline New York - Polvos Matificantes Fit Me 105 Natural Ivory'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06XGM135P/?tag=tolees-21'
+descuento: '25.04'
+titulo: 'Maybelline New York - Polvos Matificante'
 ---
 
 Tienes [Maybelline New York - Polvos Matificantes Fit Me 105 Natural Ivory](https://www.amazon.es/dp/B06XGM135P/?tag=tolees-21) con un 25.04 % de descuento con precio de oferta de 4.49 EUR (original: 5.99 EUR) en el siguiente enlace!
 
 [![Maybelline New York - Polvos Matificante](https://m.media-amazon.com/images/I/51oDEEFtGbL._SL200_.jpg)](https://www.amazon.es/dp/B06XGM135P/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XGM135P/?tag=tolees-21)
 

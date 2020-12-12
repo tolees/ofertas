@@ -3,6 +3,7 @@ layout: post
 title: 'Pack: Vengadores 1-4 [Blu-ray] al 80.41 % de descuento'
 date: 2020-12-11 07:45:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/51vE6L+o4BL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51vE6L+o4BL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51vE6L+o4BL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 45.95 EUR
 inStock: true
 prodname: 'Pack: Vengadores 1-4 [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07R7TNJNP/?tag=tolees-21'
+descuento: '80.41'
+titulo: 'Pack: Vengadores 1-4 [Blu-ray]'
 ---
 
 Ahora mismo tienes [Pack: Vengadores 1-4 [Blu-ray]](https://www.amazon.es/dp/B07R7TNJNP/?tag=tolees-21) a 9.0 EUR (original: 45.95 EUR) (80.41 %  de descuento) en el siguiente enlace!

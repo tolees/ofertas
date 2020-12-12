@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.42 % en Bosch Hogar BGS1UECO2 GS10 ProEnergy Asp'
 date: 2020-11-26 15:28:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/41bCgd9DHiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bCgd9DHiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41bCgd9DHiL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 174.98 EUR
 inStock: true
 prodname: 'Bosch Hogar BGS1UECO2 GS10 ProEnergy Aspirador sin bolsa  ultracompacto  550 W  1.4 litros  negro y verde'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075S66XRG/?tag=tolees-21'
+descuento: '43.42'
+titulo: 'Bosch Hogar BGS1UECO2 GS10 ProEnergy Asp'
 ---
 
 Tienes [Bosch Hogar BGS1UECO2 GS10 ProEnergy Aspirador sin bolsa  ultracompacto  550 W  1.4 litros  negro y verde](https://www.amazon.es/dp/B075S66XRG/?tag=tolees-21) con un 43.42 % de descuento con precio de oferta de 99.0 EUR (original: 174.98 EUR) en el siguiente enlace!
 
 [![Bosch Hogar BGS1UECO2 GS10 ProEnergy Asp](https://m.media-amazon.com/images/I/41bCgd9DHiL._SL200_.jpg)](https://www.amazon.es/dp/B075S66XRG/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B075S66XRG/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Classic Trunk Pantalones Cort al 34.89 % de descuento'
 date: 2020-11-12 20:30:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41jTLzB4-vL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jTLzB4-vL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41jTLzB4-vL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 19.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Classic Trunk Pantalones Cortos  Negro  Black 990   L para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MFAHJYE/?tag=tolees-21'
+descuento: '34.89'
+titulo: 'G-STAR RAW Classic Trunk Pantalones Cort'
 ---
 
 Está [G-STAR RAW Classic Trunk Pantalones Cortos  Negro  Black 990   L para Hombre](https://www.amazon.es/dp/B01MFAHJYE/?tag=tolees-21) con 34.89 de descuento por 12.99 EUR (original: 19.95 EUR) en el siguiente enlace!
 
 [![G-STAR RAW Classic Trunk Pantalones Cort](https://m.media-amazon.com/images/I/41jTLzB4-vL._SL200_.jpg)](https://www.amazon.es/dp/B01MFAHJYE/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01MFAHJYE/?tag=tolees-21)
 

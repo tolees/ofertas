@@ -3,6 +3,7 @@ layout: post
 title: 'Brother CX70PE  Patchwork Edition  - Máq al 26.67 % de descuento'
 date: 2020-12-10 14:52:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/410qr+qFrqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410qr+qFrqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/410qr+qFrqL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 299.99 EUR
 inStock: true
 prodname: 'Brother CX70PE  Patchwork Edition  - Máquina de coser electrónica con 70 puntadas de costura  útiles  elásticas  decorativas   costura Automática  Display multifunción'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CZHN96M/?tag=tolees-21'
+descuento: '26.67'
+titulo: 'Brother CX70PE  Patchwork Edition  - Máq'
 ---
 
 Está [Brother CX70PE  Patchwork Edition  - Máquina de coser electrónica con 70 puntadas de costura  útiles  elásticas  decorativas   costura Automática  Display multifunción](https://www.amazon.es/dp/B07CZHN96M/?tag=tolees-21) con 26.67 de descuento por 219.99 EUR (original: 299.99 EUR) en el siguiente enlace!
 
 [![Brother CX70PE  Patchwork Edition  - Máq](https://m.media-amazon.com/images/I/410qr+qFrqL._SL200_.jpg)](https://www.amazon.es/dp/B07CZHN96M/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07CZHN96M/?tag=tolees-21)
 

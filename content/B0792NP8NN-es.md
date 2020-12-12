@@ -3,6 +3,7 @@ layout: post
 title: 'Assassin s Creed: Rogue Remastered al 33.56 % de descuento'
 date: 2020-12-10 20:24:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/616xNkuML0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/616xNkuML0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/616xNkuML0L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'Assassin s Creed: Rogue Remastered'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0792NP8NN/?tag=tolees-21'
+descuento: '33.56'
+titulo: 'Assassin s Creed: Rogue Remastered'
 ---
 
 Ahora mismo tienes [Assassin s Creed: Rogue Remastered](https://www.amazon.es/dp/B0792NP8NN/?tag=tolees-21) a 19.9 EUR (original: 29.95 EUR) (33.56 %  de descuento) en el siguiente enlace!
@@ -24,8 +28,8 @@ Ahora mismo tienes [Assassin s Creed: Rogue Remastered](https://www.amazon.es/dp
 
 Características:
 
-- Ahora en 4k para PS4 Pro y Xbox One X y 1080p en PS4 y Xbox One
 - Nuevos packs y contenido desbloqueable
+- Ahora en 4k para PS4 Pro y Xbox One X y 1080p en PS4 y Xbox One
 - Estilo de juego naval mejorado
 - Texturas de mayor resolución, sombras e iluminación mejorados, además de otras diversas mejoras a nivel gráfico
 

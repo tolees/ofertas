@@ -3,6 +3,7 @@ layout: post
 title: 'Black+Decker NVB12AV - Aspirador de Mano al 39.97 % de descuento'
 date: 2020-12-08 20:47:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/41madRjRLHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41madRjRLHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41madRjRLHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 38.95 EUR
 inStock: true
 prodname: 'Black+Decker NVB12AV - Aspirador de Mano para Automóvil  12 V  Capacidad de 310 ml  Color Gris y Rojo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CBBWHQ6/?tag=tolees-21'
+descuento: '39.97'
+titulo: 'Black+Decker NVB12AV - Aspirador de Mano'
 ---
 
 Está [Black+Decker NVB12AV - Aspirador de Mano para Automóvil  12 V  Capacidad de 310 ml  Color Gris y Rojo](https://www.amazon.es/dp/B07CBBWHQ6/?tag=tolees-21) con 39.97 de descuento por 23.38 EUR (original: 38.95 EUR) en el siguiente enlace!
 
 [![Black+Decker NVB12AV - Aspirador de Mano](https://m.media-amazon.com/images/I/41madRjRLHL._SL200_.jpg)](https://www.amazon.es/dp/B07CBBWHQ6/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07CBBWHQ6/?tag=tolees-21)
 

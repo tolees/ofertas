@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.41 % en Eastpak Springer Riñonera  23 cm  2 L  N'
 date: 2020-11-18 22:03:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/31nYS0O8jtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31nYS0O8jtL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31nYS0O8jtL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 27.0 EUR
 inStock: true
 prodname: 'Eastpak Springer Riñonera  23 cm  2 L  Negro  Black '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000NDGCCO/?tag=tolees-21'
+descuento: '40.41'
+titulo: 'Eastpak Springer Riñonera  23 cm  2 L  N'
 ---
 
 Tienes [Eastpak Springer Riñonera  23 cm  2 L  Negro  Black ](https://www.amazon.es/dp/B000NDGCCO/?tag=tolees-21) con un 40.41 % de descuento con precio de oferta de 16.09 EUR (original: 27.0 EUR) en el siguiente enlace!
 
 [![Eastpak Springer Riñonera  23 cm  2 L  N](https://m.media-amazon.com/images/I/31nYS0O8jtL._SL200_.jpg)](https://www.amazon.es/dp/B000NDGCCO/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000NDGCCO/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Casio Reloj de Pulsera LA670WEA-7EF al 44.93 % de descuento'
 date: 2020-11-30 14:35:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/41c31u+nBuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41c31u+nBuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41c31u+nBuL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 50.63 EUR
 inStock: true
 prodname: 'Casio Reloj de Pulsera LA670WEA-7EF'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B007UNAV6I/?tag=tolees-21'
+descuento: '44.93'
+titulo: 'Casio Reloj de Pulsera LA670WEA-7EF'
 ---
 
 Está [Casio Reloj de Pulsera LA670WEA-7EF](https://www.amazon.es/dp/B007UNAV6I/?tag=tolees-21) con 44.93 de descuento por 27.88 EUR (original: 50.63 EUR) en el siguiente enlace!
 
 [![Casio Reloj de Pulsera LA670WEA-7EF](https://m.media-amazon.com/images/I/41c31u+nBuL._SL200_.jpg)](https://www.amazon.es/dp/B007UNAV6I/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B007UNAV6I/?tag=tolees-21)
 

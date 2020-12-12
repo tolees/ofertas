@@ -3,6 +3,7 @@ layout: post
 title: 'Funko Pop!- Motu S2: Evelyn Figura de Vi al 56.61 % de descuento'
 date: 2020-11-09 12:50:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/41tQeGfX9iL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tQeGfX9iL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41tQeGfX9iL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 15.95 EUR
 inStock: true
 prodname: 'Funko Pop!- Motu S2: Evelyn Figura de Vinilo  21811 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B071XD2FYC/?tag=tolees-21'
+descuento: '56.61'
+titulo: 'Funko Pop!- Motu S2: Evelyn Figura de Vi'
 ---
 
 Está [Funko Pop!- Motu S2: Evelyn Figura de Vinilo  21811 ](https://www.amazon.es/dp/B071XD2FYC/?tag=tolees-21) con 56.61 de descuento por 6.92 EUR (original: 15.95 EUR) en el siguiente enlace!
 
 [![Funko Pop!- Motu S2: Evelyn Figura de Vi](https://m.media-amazon.com/images/I/41tQeGfX9iL._SL200_.jpg)](https://www.amazon.es/dp/B071XD2FYC/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B071XD2FYC/?tag=tolees-21)
 

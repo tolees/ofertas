@@ -3,6 +3,7 @@ layout: post
 title: 'Gaggia RI8423/12 - Cafetera Express Gg20 al 25.01 % de descuento'
 date: 2020-11-15 20:23:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/41XmfwuySeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XmfwuySeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41XmfwuySeL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 97.58 EUR
 inStock: true
 prodname: 'Gaggia RI8423/12 - Cafetera Express Gg2016'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01GU5T2WU/?tag=tolees-21'
+descuento: '25.01'
+titulo: 'Gaggia RI8423/12 - Cafetera Express Gg20'
 ---
 
 Ahora mismo tienes [Gaggia RI8423/12 - Cafetera Express Gg2016](https://www.amazon.es/dp/B01GU5T2WU/?tag=tolees-21) a 73.18 EUR (original: 97.58 EUR) (25.01 %  de descuento) en el siguiente enlace!
 
 [![Gaggia RI8423/12 - Cafetera Express Gg20](https://m.media-amazon.com/images/I/41XmfwuySeL._SL200_.jpg)](https://www.amazon.es/dp/B01GU5T2WU/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B01GU5T2WU/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Krups EA810570 Cafetera automática 15 ba al 29.43 % de descuento'
 date: 2020-10-21 08:24:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41LPXPHENpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41LPXPHENpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41LPXPHENpL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 366.99 EUR
 inStock: true
 prodname: 'Krups EA810570 Cafetera automática 15 bares de presión  1450 V  1.6 L  acero inoxidable'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00MZ2F3Z8/?tag=tolees-21'
+descuento: '29.43'
+titulo: 'Krups EA810570 Cafetera automática 15 ba'
 ---
 
 Está [Krups EA810570 Cafetera automática 15 bares de presión  1450 V  1.6 L  acero inoxidable](https://www.amazon.es/dp/B00MZ2F3Z8/?tag=tolees-21) con 29.43 de descuento por 259.0 EUR (original: 366.99 EUR) en el siguiente enlace!
 
 [![Krups EA810570 Cafetera automática 15 ba](https://m.media-amazon.com/images/I/41LPXPHENpL._SL200_.jpg)](https://www.amazon.es/dp/B00MZ2F3Z8/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00MZ2F3Z8/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Báscula de baño con cálculo de la compos al 25.10 % de descuento'
 date: 2020-12-03 09:12:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/31eSkTZ979L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31eSkTZ979L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31eSkTZ979L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 54.9 EUR
 inStock: true
 prodname: 'Báscula de baño con cálculo de la composición corporal  % agua  % grasa  % músculo  etc.  Laica PS5009 con doble display para facilitar la lectura de los datos  180 kg  color blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00H8O8S0U/?tag=tolees-21'
+descuento: '25.10'
+titulo: 'Báscula de baño con cálculo de la compos'
 ---
 
 Está [Báscula de baño con cálculo de la composición corporal  % agua  % grasa  % músculo  etc.  Laica PS5009 con doble display para facilitar la lectura de los datos  180 kg  color blanco](https://www.amazon.es/dp/B00H8O8S0U/?tag=tolees-21) con 25.10 de descuento por 41.12 EUR (original: 54.9 EUR) en el siguiente enlace!
 
 [![Báscula de baño con cálculo de la compos](https://m.media-amazon.com/images/I/31eSkTZ979L._SL200_.jpg)](https://www.amazon.es/dp/B00H8O8S0U/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00H8O8S0U/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.04 % en Columbia Vitesse  Zapatillas de Deporte '
 date: 2020-11-08 14:04:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/41L9URkTuXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41L9URkTuXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41L9URkTuXL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 109.99 EUR
 inStock: true
 prodname: 'Columbia Vitesse  Zapatillas de Deporte  para Mujer  Black  Pure Silver  37.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07RHQ8LGJ/?tag=tolees-21'
+descuento: '50.04'
+titulo: 'Columbia Vitesse  Zapatillas de Deporte '
 ---
 
 Tienes [Columbia Vitesse  Zapatillas de Deporte  para Mujer  Black  Pure Silver  37.5 EU](https://www.amazon.es/dp/B07RHQ8LGJ/?tag=tolees-21) con un 50.04 % de descuento con precio de oferta de 54.95 EUR (original: 109.99 EUR) en el siguiente enlace!
 
 [![Columbia Vitesse  Zapatillas de Deporte ](https://m.media-amazon.com/images/I/41L9URkTuXL._SL200_.jpg)](https://www.amazon.es/dp/B07RHQ8LGJ/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07RHQ8LGJ/?tag=tolees-21)
 

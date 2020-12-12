@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 55.15 % en New Balance 373 Core  Zapatillas Bajas H'
 date: 2020-11-26 15:33:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/41q+HyzNh1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41q+HyzNh1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41q+HyzNh1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 84.95 EUR
 inStock: true
 prodname: 'New Balance 373 Core  Zapatillas Bajas Hombre  Verde  Olive   44 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01M98XNY3/?tag=tolees-21'
+descuento: '55.15'
+titulo: 'New Balance 373 Core  Zapatillas Bajas H'
 ---
 
 Tienes [New Balance 373 Core  Zapatillas Bajas Hombre  Verde  Olive   44 EU](https://www.amazon.es/dp/B01M98XNY3/?tag=tolees-21) con un 55.15 % de descuento con precio de oferta de 38.1 EUR (original: 84.95 EUR) en el siguiente enlace!
 
 [![New Balance 373 Core  Zapatillas Bajas H](https://m.media-amazon.com/images/I/41q+HyzNh1L._SL200_.jpg)](https://www.amazon.es/dp/B01M98XNY3/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01M98XNY3/?tag=tolees-21)
 

@@ -17,6 +17,9 @@ comparePrice: 7.0 EUR
 inStock: true
 prodname: 'Royal Canin C-11500 Educ Sobres  50 gr  1 unidad'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B004RATTUG/?tag=tolees-21'
+descuento: '85.86'
+titulo: 'Royal Canin C-11500 Educ Sobres  50 gr  '
 ---
 
 Está [Royal Canin C-11500 Educ Sobres  50 gr  1 unidad](https://www.amazon.es/dp/B004RATTUG/?tag=tolees-21) con 85.86 de descuento por 0.99 EUR (original: 7.0 EUR) en el siguiente enlace!
@@ -25,9 +28,9 @@ Está [Royal Canin C-11500 Educ Sobres  50 gr  1 unidad](https://www.amazon.es/d
 
 Principales características:
 
+- Premio bajo en calorías y vitaminado
 - Perros
 - Golosina
-- Premio bajo en calorías y vitaminado
 
 [Ver la oferta!!](https://www.amazon.es/dp/B004RATTUG/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Tuscany Silver Pendientes de mujer con p al 25.00 % de descuento'
 date: 2020-11-09 03:01:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/31D91Q80-UL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31D91Q80-UL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31D91Q80-UL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 33.0 EUR
 inStock: true
 prodname: 'Tuscany Silver Pendientes de mujer con plata de ley  925/1000  y turquesa'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00EU37XC6/?tag=tolees-21'
+descuento: '25.00'
+titulo: 'Tuscany Silver Pendientes de mujer con p'
 ---
 
 Está [Tuscany Silver Pendientes de mujer con plata de ley  925/1000  y turquesa](https://www.amazon.es/dp/B00EU37XC6/?tag=tolees-21) con 25.00 de descuento por 24.75 EUR (original: 33.0 EUR) en el siguiente enlace!
 
 [![Tuscany Silver Pendientes de mujer con p](https://m.media-amazon.com/images/I/31D91Q80-UL._SL200_.jpg)](https://www.amazon.es/dp/B00EU37XC6/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00EU37XC6/?tag=tolees-21)
 

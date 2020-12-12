@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.82 % en OPPO – Reno 10X Zoom   Pantalla FHD+ 6 6'
 date: 2020-11-12 16:31:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41tLsM+A1iL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tLsM+A1iL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41tLsM+A1iL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 799.0 EUR
 inStock: true
 prodname: 'OPPO – Reno 10X Zoom   Pantalla FHD+ 6 6”  8GB/256GB  Snapdragon 8150  4065mAh  Carga rápida VOOC 3.0  Dual SIM Android 9  Negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07RM4Z4HQ/?tag=tolees-21'
+descuento: '53.82'
+titulo: 'OPPO – Reno 10X Zoom   Pantalla FHD+ 6 6'
 ---
 
 Tienes [OPPO – Reno 10X Zoom   Pantalla FHD+ 6 6”  8GB/256GB  Snapdragon 8150  4065mAh  Carga rápida VOOC 3.0  Dual SIM Android 9  Negro](https://www.amazon.es/dp/B07RM4Z4HQ/?tag=tolees-21) con un 53.82 % de descuento con precio de oferta de 369.0 EUR (original: 799.0 EUR) en el siguiente enlace!
 
 [![OPPO – Reno 10X Zoom   Pantalla FHD+ 6 6](https://m.media-amazon.com/images/I/41tLsM+A1iL._SL200_.jpg)](https://www.amazon.es/dp/B07RM4Z4HQ/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07RM4Z4HQ/?tag=tolees-21)
 

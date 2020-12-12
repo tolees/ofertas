@@ -3,6 +3,7 @@ layout: post
 title: 'Pack: Transformers 1-5 [Blu-ray] al 52.07 % de descuento'
 date: 2020-11-22 21:19:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/61ZyCm20ZnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61ZyCm20ZnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61ZyCm20ZnL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 36.51 EUR
 inStock: true
 prodname: 'Pack: Transformers 1-5 [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07661QZWN/?tag=tolees-21'
+descuento: '52.07'
+titulo: 'Pack: Transformers 1-5 [Blu-ray]'
 ---
 
 Ahora mismo tienes [Pack: Transformers 1-5 [Blu-ray]](https://www.amazon.es/dp/B07661QZWN/?tag=tolees-21) a 17.5 EUR (original: 36.51 EUR) (52.07 %  de descuento) en el siguiente enlace!
 
 [![Pack: Transformers 1-5 [Blu-ray]](https://m.media-amazon.com/images/I/61ZyCm20ZnL._SL200_.jpg)](https://www.amazon.es/dp/B07661QZWN/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07661QZWN/?tag=tolees-21)
 

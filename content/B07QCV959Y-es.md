@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.01 % en Asmodee - Azul Vitrales de Sintra  NMG00'
 date: 2020-11-27 21:46:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/61E-M+OKkPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61E-M+OKkPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61E-M+OKkPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Asmodee - Azul Vitrales de Sintra  NMG00011ES '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07QCV959Y/?tag=tolees-21'
+descuento: '25.01'
+titulo: 'Asmodee - Azul Vitrales de Sintra  NMG00'
 ---
 
 Tienes [Asmodee - Azul Vitrales de Sintra  NMG00011ES ](https://www.amazon.es/dp/B07QCV959Y/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![Asmodee - Azul Vitrales de Sintra  NMG00](https://m.media-amazon.com/images/I/61E-M+OKkPL._SL200_.jpg)](https://www.amazon.es/dp/B07QCV959Y/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07QCV959Y/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Mochila de «Attack on Titan» en color ca al 44.02 % de descuento'
 date: 2020-11-03 08:32:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/51y4hsn4ooL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51y4hsn4ooL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51y4hsn4ooL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Mochila de «Attack on Titan» en color caqui'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00FU7V9JE/?tag=tolees-21'
+descuento: '44.02'
+titulo: 'Mochila de «Attack on Titan» en color ca'
 ---
 
 Está [Mochila de «Attack on Titan» en color caqui](https://www.amazon.es/dp/B00FU7V9JE/?tag=tolees-21) con 44.02 de descuento por 13.99 EUR (original: 24.99 EUR) en el siguiente enlace!
 
 [![Mochila de «Attack on Titan» en color ca](https://m.media-amazon.com/images/I/51y4hsn4ooL._SL200_.jpg)](https://www.amazon.es/dp/B00FU7V9JE/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00FU7V9JE/?tag=tolees-21)
 

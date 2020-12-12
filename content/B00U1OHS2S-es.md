@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.89 % en Tesa Assa Abloy 3010286 Cilindro Tesa Se'
 date: 2020-11-12 20:23:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/31FHqltpU6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31FHqltpU6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31FHqltpU6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 109.65 EUR
 inStock: true
 prodname: 'Tesa Assa Abloy 3010286 Cilindro Tesa Seguridad Tx85 /70/ Latonado  35 x 35 mm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00U1OHS2S/?tag=tolees-21'
+descuento: '43.89'
+titulo: 'Tesa Assa Abloy 3010286 Cilindro Tesa Se'
 ---
 
 Tienes [Tesa Assa Abloy 3010286 Cilindro Tesa Seguridad Tx85 /70/ Latonado  35 x 35 mm](https://www.amazon.es/dp/B00U1OHS2S/?tag=tolees-21) con un 43.89 % de descuento con precio de oferta de 61.52 EUR (original: 109.65 EUR) en el siguiente enlace!
 
 [![Tesa Assa Abloy 3010286 Cilindro Tesa Se](https://m.media-amazon.com/images/I/31FHqltpU6L._SL200_.jpg)](https://www.amazon.es/dp/B00U1OHS2S/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00U1OHS2S/?tag=tolees-21)
 

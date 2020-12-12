@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.55 % en Puma 231011001  Calcetines Unisex Adulto'
 date: 2020-11-16 21:20:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/51AXn+moJ4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51AXn+moJ4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51AXn+moJ4L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 7.99 EUR
 inStock: true
 prodname: 'Puma 231011001  Calcetines Unisex Adulto  Multicolor  gris 460   39-42'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00KHJYSBQ/?tag=tolees-21'
+descuento: '37.55'
+titulo: 'Puma 231011001  Calcetines Unisex Adulto'
 ---
 
 Tienes [Puma 231011001  Calcetines Unisex Adulto  Multicolor  gris 460   39-42](https://www.amazon.es/dp/B00KHJYSBQ/?tag=tolees-21) con un 37.55 % de descuento con precio de oferta de 4.99 EUR (original: 7.99 EUR) en el siguiente enlace!
 
 [![Puma 231011001  Calcetines Unisex Adulto](https://m.media-amazon.com/images/I/51AXn+moJ4L._SL200_.jpg)](https://www.amazon.es/dp/B00KHJYSBQ/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00KHJYSBQ/?tag=tolees-21)
 

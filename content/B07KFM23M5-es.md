@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas RUNFALCON  Zapatillas de Trail Ru al 35.50 % de descuento'
 date: 2020-11-17 12:39:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Tg24pcOsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Tg24pcOsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Tg24pcOsL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'Adidas RUNFALCON  Zapatillas de Trail Running Hombre  Blanco  Ftwbla/Ftwbla/Ftwbla 000   39 1/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KFM23M5/?tag=tolees-21'
+descuento: '35.50'
+titulo: 'Adidas RUNFALCON  Zapatillas de Trail Ru'
 ---
 
 Ahora mismo tienes [Adidas RUNFALCON  Zapatillas de Trail Running Hombre  Blanco  Ftwbla/Ftwbla/Ftwbla 000   39 1/3 EU](https://www.amazon.es/dp/B07KFM23M5/?tag=tolees-21) a 32.22 EUR (original: 49.95 EUR) (35.50 %  de descuento) en el siguiente enlace!
 
 [![Adidas RUNFALCON  Zapatillas de Trail Ru](https://m.media-amazon.com/images/I/31Tg24pcOsL._SL200_.jpg)](https://www.amazon.es/dp/B07KFM23M5/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07KFM23M5/?tag=tolees-21)
 

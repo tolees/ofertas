@@ -3,6 +3,7 @@ layout: post
 title: 'Sorel GLACY EXPLORER SHORTIE Botas Mujer al 50.00 % de descuento'
 date: 2020-11-09 17:37:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/41PHO3zcHNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PHO3zcHNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41PHO3zcHNL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 149.99 EUR
 inStock: true
 prodname: 'Sorel GLACY EXPLORER SHORTIE Botas Mujer  Gris  Quarry   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KK457BT/?tag=tolees-21'
+descuento: '50.00'
+titulo: 'Sorel GLACY EXPLORER SHORTIE Botas Mujer'
 ---
 
 Ahora mismo tienes [Sorel GLACY EXPLORER SHORTIE Botas Mujer  Gris  Quarry   37 EU](https://www.amazon.es/dp/B07KK457BT/?tag=tolees-21) a 75.0 EUR (original: 149.99 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
 [![Sorel GLACY EXPLORER SHORTIE Botas Mujer](https://m.media-amazon.com/images/I/41PHO3zcHNL._SL200_.jpg)](https://www.amazon.es/dp/B07KK457BT/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07KK457BT/?tag=tolees-21)
 

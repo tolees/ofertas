@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.86 % en Project Highrise - Architect s Edition'
 date: 2020-11-22 17:43:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/51KYPqbzaWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51KYPqbzaWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51KYPqbzaWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Project Highrise - Architect s Edition'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HG8JYMM/?tag=tolees-21'
+descuento: '53.86'
+titulo: 'Project Highrise - Architect s Edition'
 ---
 
 Tienes [Project Highrise - Architect s Edition](https://www.amazon.es/dp/B07HG8JYMM/?tag=tolees-21) con un 53.86 % de descuento con precio de oferta de 18.45 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![Project Highrise - Architect s Edition](https://m.media-amazon.com/images/I/51KYPqbzaWL._SL200_.jpg)](https://www.amazon.es/dp/B07HG8JYMM/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HG8JYMM/?tag=tolees-21)
 

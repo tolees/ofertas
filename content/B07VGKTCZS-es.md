@@ -3,6 +3,7 @@ layout: post
 title: 'Napapijri Vail 3 Pantalones Cortos  Mult al 64.20 % de descuento'
 date: 2020-11-12 22:28:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/51l1-xJ+7kL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51l1-xJ+7kL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51l1-xJ+7kL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 69.0 EUR
 inStock: true
 prodname: 'Napapijri Vail 3 Pantalones Cortos  Multicolor  Zigzag Blue Fp8 Fp81   Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07VGKTCZS/?tag=tolees-21'
+descuento: '64.20'
+titulo: 'Napapijri Vail 3 Pantalones Cortos  Mult'
 ---
 
 Está [Napapijri Vail 3 Pantalones Cortos  Multicolor  Zigzag Blue Fp8 Fp81   Large para Hombre](https://www.amazon.es/dp/B07VGKTCZS/?tag=tolees-21) con 64.20 de descuento por 24.7 EUR (original: 69.0 EUR) en el siguiente enlace!
 
 [![Napapijri Vail 3 Pantalones Cortos  Mult](https://m.media-amazon.com/images/I/51l1-xJ+7kL._SL200_.jpg)](https://www.amazon.es/dp/B07VGKTCZS/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07VGKTCZS/?tag=tolees-21)
 

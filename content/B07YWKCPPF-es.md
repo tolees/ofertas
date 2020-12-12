@@ -3,6 +3,7 @@ layout: post
 title: 'Samsonite Bolsa de Viaje Negro  Darth Va al 51.16 % de descuento'
 date: 2020-11-27 08:19:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/31wwZ1SwS-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31wwZ1SwS-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31wwZ1SwS-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 215.0 EUR
 inStock: true
 prodname: 'Samsonite Bolsa de Viaje Negro  Darth Vader Black Mesh '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07YWKCPPF/?tag=tolees-21'
+descuento: '51.16'
+titulo: 'Samsonite Bolsa de Viaje Negro  Darth Va'
 ---
 
 Está [Samsonite Bolsa de Viaje Negro  Darth Vader Black Mesh ](https://www.amazon.es/dp/B07YWKCPPF/?tag=tolees-21) con 51.16 de descuento por 105.0 EUR (original: 215.0 EUR) en el siguiente enlace!
 
 [![Samsonite Bolsa de Viaje Negro  Darth Va](https://m.media-amazon.com/images/I/31wwZ1SwS-L._SL200_.jpg)](https://www.amazon.es/dp/B07YWKCPPF/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07YWKCPPF/?tag=tolees-21)
 

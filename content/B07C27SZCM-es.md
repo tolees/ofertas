@@ -3,6 +3,7 @@ layout: post
 title: 'Jack & Jones Jjebasic Knit V-Neck Noos s al 42.02 % de descuento'
 date: 2020-12-11 00:04:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/41IY6BxtZmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IY6BxtZmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41IY6BxtZmL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Jack & Jones Jjebasic Knit V-Neck Noos suéter  Gris  Dark Grey Melange Dark Grey Melange   X-Small para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07C27SZCM/?tag=tolees-21'
+descuento: '42.02'
+titulo: 'Jack & Jones Jjebasic Knit V-Neck Noos s'
 ---
 
 Está [Jack & Jones Jjebasic Knit V-Neck Noos suéter  Gris  Dark Grey Melange Dark Grey Melange   X-Small para Hombre](https://www.amazon.es/dp/B07C27SZCM/?tag=tolees-21) con 42.02 de descuento por 14.49 EUR (original: 24.99 EUR) en el siguiente enlace!

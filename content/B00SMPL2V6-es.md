@@ -3,6 +3,7 @@ layout: post
 title: 'Olympus M.Zuiko - Objetivo Digital ED 14 al 27.43 % de descuento'
 date: 2020-10-13 21:35:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41bR+vR4wNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bR+vR4wNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41bR+vR4wNL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 649.0 EUR
 inStock: true
 prodname: 'Olympus M.Zuiko - Objetivo Digital ED 14-150 mm F4-5.6 II  zoom estándar  apto para todas las cámaras MFT  modelos Olympus OM-D & PEN  serie G de Panasonic   negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00SMPL2V6/?tag=tolees-21'
+descuento: '27.43'
+titulo: 'Olympus M.Zuiko - Objetivo Digital ED 14'
 ---
 
 Ahora mismo tienes [Olympus M.Zuiko - Objetivo Digital ED 14-150 mm F4-5.6 II  zoom estándar  apto para todas las cámaras MFT  modelos Olympus OM-D & PEN  serie G de Panasonic   negro](https://www.amazon.es/dp/B00SMPL2V6/?tag=tolees-21) a 471.0 EUR (original: 649.0 EUR) (27.43 %  de descuento) en el siguiente enlace!
 
 [![Olympus M.Zuiko - Objetivo Digital ED 14](https://m.media-amazon.com/images/I/41bR+vR4wNL._SL200_.jpg)](https://www.amazon.es/dp/B00SMPL2V6/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B00SMPL2V6/?tag=tolees-21)
 

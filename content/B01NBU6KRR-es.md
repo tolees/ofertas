@@ -3,6 +3,7 @@ layout: post
 title: 'Motorola Baby MBP 48 Vigilabebés Vídeo c al 44.45 % de descuento'
 date: 2020-11-22 19:49:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/41EHhUiPBJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EHhUiPBJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41EHhUiPBJL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 179.99 EUR
 inStock: true
 prodname: 'Motorola Baby MBP 48 Vigilabebés Vídeo con Pantalla LCD  Modo Eco y Visión Nocturna  Blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01NBU6KRR/?tag=tolees-21'
+descuento: '44.45'
+titulo: 'Motorola Baby MBP 48 Vigilabebés Vídeo c'
 ---
 
 Está [Motorola Baby MBP 48 Vigilabebés Vídeo con Pantalla LCD  Modo Eco y Visión Nocturna  Blanco](https://www.amazon.es/dp/B01NBU6KRR/?tag=tolees-21) con 44.45 de descuento por 99.99 EUR (original: 179.99 EUR) en el siguiente enlace!
 
 [![Motorola Baby MBP 48 Vigilabebés Vídeo c](https://m.media-amazon.com/images/I/41EHhUiPBJL._SL200_.jpg)](https://www.amazon.es/dp/B01NBU6KRR/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01NBU6KRR/?tag=tolees-21)
 

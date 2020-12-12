@@ -3,6 +3,7 @@ layout: post
 title: 'Helly Hansen HH Scout Duffel S Bolsa De  al 27.79 % de descuento'
 date: 2020-10-14 15:42:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/41jpv9l5U+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jpv9l5U+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41jpv9l5U+L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 70.0 EUR
 inStock: true
 prodname: 'Helly Hansen HH Scout Duffel S Bolsa De Deporte  Unisex Adulto  Black  30L'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07ZZ4SQLT/?tag=tolees-21'
+descuento: '27.79'
+titulo: 'Helly Hansen HH Scout Duffel S Bolsa De '
 ---
 
 Ahora mismo tienes [Helly Hansen HH Scout Duffel S Bolsa De Deporte  Unisex Adulto  Black  30L](https://www.amazon.es/dp/B07ZZ4SQLT/?tag=tolees-21) a 50.55 EUR (original: 70.0 EUR) (27.79 %  de descuento) en el siguiente enlace!
 
 [![Helly Hansen HH Scout Duffel S Bolsa De ](https://m.media-amazon.com/images/I/41jpv9l5U+L._SL200_.jpg)](https://www.amazon.es/dp/B07ZZ4SQLT/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07ZZ4SQLT/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'The Conjuring Blu-Ray - Iconic [Blu-ray] al 46.18 % de descuento'
 date: 2020-11-29 12:42:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/51sTWVYSuWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51sTWVYSuWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51sTWVYSuWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 10.2 EUR
 inStock: true
 prodname: 'The Conjuring Blu-Ray - Iconic [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MWYZR6T/?tag=tolees-21'
+descuento: '46.18'
+titulo: 'The Conjuring Blu-Ray - Iconic [Blu-ray]'
 ---
 
 Está [The Conjuring Blu-Ray - Iconic [Blu-ray]](https://www.amazon.es/dp/B07MWYZR6T/?tag=tolees-21) con 46.18 de descuento por 5.49 EUR (original: 10.2 EUR) en el siguiente enlace!
 
 [![The Conjuring Blu-Ray - Iconic [Blu-ray]](https://m.media-amazon.com/images/I/51sTWVYSuWL._SL200_.jpg)](https://www.amazon.es/dp/B07MWYZR6T/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07MWYZR6T/?tag=tolees-21)
 

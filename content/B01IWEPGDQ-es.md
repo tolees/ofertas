@@ -3,6 +3,7 @@ layout: post
 title: 'Royal canin - Kitten 400 gr al 42.47 % de descuento'
 date: 2020-11-05 15:41:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/41cAFpk4+1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41cAFpk4+1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41cAFpk4+1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 9.3 EUR
 inStock: true
 prodname: 'Royal canin - Kitten 400 gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01IWEPGDQ/?tag=tolees-21'
+descuento: '42.47'
+titulo: 'Royal canin - Kitten 400 gr'
 ---
 
 Está [Royal canin - Kitten 400 gr](https://www.amazon.es/dp/B01IWEPGDQ/?tag=tolees-21) con 42.47 de descuento por 5.35 EUR (original: 9.3 EUR) en el siguiente enlace!
 
 [![Royal canin - Kitten 400 gr](https://m.media-amazon.com/images/I/41cAFpk4+1L._SL200_.jpg)](https://www.amazon.es/dp/B01IWEPGDQ/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01IWEPGDQ/?tag=tolees-21)
 

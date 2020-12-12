@@ -3,6 +3,7 @@ layout: post
 title: 'Pop! Vinilo: Ghostbusters: Dr. Raymond S al 33.18 % de descuento'
 date: 2020-11-26 08:59:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/41p4YcGNxdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41p4YcGNxdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41p4YcGNxdL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 14.95 EUR
 inStock: true
 prodname: 'Pop! Vinilo: Ghostbusters: Dr. Raymond Stantz'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07NSTNTYB/?tag=tolees-21'
+descuento: '33.18'
+titulo: 'Pop! Vinilo: Ghostbusters: Dr. Raymond S'
 ---
 
 Está [Pop! Vinilo: Ghostbusters: Dr. Raymond Stantz](https://www.amazon.es/dp/B07NSTNTYB/?tag=tolees-21) con 33.18 de descuento por 9.99 EUR (original: 14.95 EUR) en el siguiente enlace!
 
 [![Pop! Vinilo: Ghostbusters: Dr. Raymond S](https://m.media-amazon.com/images/I/41p4YcGNxdL._SL200_.jpg)](https://www.amazon.es/dp/B07NSTNTYB/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07NSTNTYB/?tag=tolees-21)
 

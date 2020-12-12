@@ -3,6 +3,7 @@ layout: post
 title: 'Leyendas de Luma-¡Oh Capitán  Ludonaute  al 48.58 % de descuento'
 date: 2020-12-10 20:26:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41l2wN3dWSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41l2wN3dWSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41l2wN3dWSL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Leyendas de Luma-¡Oh Capitán  Ludonaute LDOC0001 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075F9ZM5M/?tag=tolees-21'
+descuento: '48.58'
+titulo: 'Leyendas de Luma-¡Oh Capitán  Ludonaute '
 ---
 
 Ahora mismo tienes [Leyendas de Luma-¡Oh Capitán  Ludonaute LDOC0001 ](https://www.amazon.es/dp/B075F9ZM5M/?tag=tolees-21) a 12.85 EUR (original: 24.99 EUR) (48.58 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.24 % en ZHIYUN Smooth Q2 Gimbal Estabilizador pa'
 date: 2020-12-03 23:41:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41eHcULF4bL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eHcULF4bL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41eHcULF4bL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 149.0 EUR
 inStock: true
 prodname: 'ZHIYUN Smooth Q2 Gimbal Estabilizador para Smartphone 3 Ejes  iPhone/Android   hasta 260gr'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07Y9FPFH2/?tag=tolees-21'
+descuento: '26.24'
+titulo: 'ZHIYUN Smooth Q2 Gimbal Estabilizador pa'
 ---
 
 Tienes [ZHIYUN Smooth Q2 Gimbal Estabilizador para Smartphone 3 Ejes  iPhone/Android   hasta 260gr](https://www.amazon.es/dp/B07Y9FPFH2/?tag=tolees-21) con un 26.24 % de descuento con precio de oferta de 109.9 EUR (original: 149.0 EUR) en el siguiente enlace!
 
 [![ZHIYUN Smooth Q2 Gimbal Estabilizador pa](https://m.media-amazon.com/images/I/41eHcULF4bL._SL200_.jpg)](https://www.amazon.es/dp/B07Y9FPFH2/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07Y9FPFH2/?tag=tolees-21)
 

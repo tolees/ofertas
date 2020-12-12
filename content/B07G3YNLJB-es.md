@@ -3,6 +3,7 @@ layout: post
 title: 'Crucial BX500 240 GB CT240BX500SSD1 Unid al 28.84 % de descuento'
 date: 2020-12-11 16:04:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41r3R2-Q7oL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41r3R2-Q7oL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41r3R2-Q7oL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 43.55 EUR
 inStock: true
 prodname: 'Crucial BX500 240 GB CT240BX500SSD1 Unidad interna de estado sólido  hasta 540 MB/s  3D NAND  SATA  2.5 Pulgadas '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G3YNLJB/?tag=tolees-21'
+descuento: '28.84'
+titulo: 'Crucial BX500 240 GB CT240BX500SSD1 Unid'
 ---
 
 Está [Crucial BX500 240 GB CT240BX500SSD1 Unidad interna de estado sólido  hasta 540 MB/s  3D NAND  SATA  2.5 Pulgadas ](https://www.amazon.es/dp/B07G3YNLJB/?tag=tolees-21) con 28.84 de descuento por 30.99 EUR (original: 43.55 EUR) en el siguiente enlace!
@@ -24,11 +28,11 @@ Está [Crucial BX500 240 GB CT240BX500SSD1 Unidad interna de estado sólido  has
 
 Principales características:
 
+- Lecturas/escrituras secuenciales hasta 540/500 MB/s en todos los tipos de archivo
 - Mejora la vida útil de la batería porque es 45 veces más eficiente en términos energéticos que un disco duro convencional
 - Arranque más rápido; cargue archi vos más rápido; mejore la capacidad de respuesta general del sistema
 - Micron 3D NAND - innovador mundial de tecnología de almacenamiento y memoria durante 40 años
 - Un 300% veces más rápido que un disco duro normal
-- Lecturas/escrituras secuenciales hasta 540/500 MB/s en todos los tipos de archivo
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07G3YNLJB/?tag=tolees-21)
 

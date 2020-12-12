@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.46 % en Toshiba HDTH320ES3CA - Disco Duro de 2 T'
 date: 2020-11-25 06:09:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41fNx1GJwkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fNx1GJwkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41fNx1GJwkL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 128.88 EUR
 inStock: true
 prodname: 'Toshiba HDTH320ES3CA - Disco Duro de 2 TB  Color Plata'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00MA3LQ0S/?tag=tolees-21'
+descuento: '26.46'
+titulo: 'Toshiba HDTH320ES3CA - Disco Duro de 2 T'
 ---
 
 Tienes [Toshiba HDTH320ES3CA - Disco Duro de 2 TB  Color Plata](https://www.amazon.es/dp/B00MA3LQ0S/?tag=tolees-21) con un 26.46 % de descuento con precio de oferta de 94.78 EUR (original: 128.88 EUR) en el siguiente enlace!
 
 [![Toshiba HDTH320ES3CA - Disco Duro de 2 T](https://m.media-amazon.com/images/I/41fNx1GJwkL._SL200_.jpg)](https://www.amazon.es/dp/B00MA3LQ0S/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00MA3LQ0S/?tag=tolees-21)
 

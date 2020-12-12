@@ -3,6 +3,7 @@ layout: post
 title: 'Maybelline New York - Tattoo Liner  Lápi al 29.89 % de descuento'
 date: 2020-10-13 16:38:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/219JU5ZmFHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/219JU5ZmFHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/219JU5ZmFHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 4.45 EUR
 inStock: true
 prodname: 'Maybelline New York - Tattoo Liner  Lápiz de Ojos Verde Semi-Permanente  Tono 932 Intense Green'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HCMK42P/?tag=tolees-21'
+descuento: '29.89'
+titulo: 'Maybelline New York - Tattoo Liner  Lápi'
 ---
 
 Está [Maybelline New York - Tattoo Liner  Lápiz de Ojos Verde Semi-Permanente  Tono 932 Intense Green](https://www.amazon.es/dp/B07HCMK42P/?tag=tolees-21) con 29.89 de descuento por 3.12 EUR (original: 4.45 EUR) en el siguiente enlace!
 
 [![Maybelline New York - Tattoo Liner  Lápi](https://m.media-amazon.com/images/I/219JU5ZmFHL._SL200_.jpg)](https://www.amazon.es/dp/B07HCMK42P/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07HCMK42P/?tag=tolees-21)
 

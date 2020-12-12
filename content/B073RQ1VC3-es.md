@@ -3,6 +3,7 @@ layout: post
 title: 'Helly Hansen W HH Logo Hoodie Hoodie  Mu al 56.44 % de descuento'
 date: 2020-11-23 07:51:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/41nuSPbmFPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nuSPbmFPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41nuSPbmFPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 70.0 EUR
 inStock: true
 prodname: 'Helly Hansen W HH Logo Hoodie Hoodie  Mujer  Navy  M'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073RQ1VC3/?tag=tolees-21'
+descuento: '56.44'
+titulo: 'Helly Hansen W HH Logo Hoodie Hoodie  Mu'
 ---
 
 Ahora mismo tienes [Helly Hansen W HH Logo Hoodie Hoodie  Mujer  Navy  M](https://www.amazon.es/dp/B073RQ1VC3/?tag=tolees-21) a 30.49 EUR (original: 70.0 EUR) (56.44 %  de descuento) en el siguiente enlace!
 
 [![Helly Hansen W HH Logo Hoodie Hoodie  Mu](https://m.media-amazon.com/images/I/41nuSPbmFPL._SL200_.jpg)](https://www.amazon.es/dp/B073RQ1VC3/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B073RQ1VC3/?tag=tolees-21)
 

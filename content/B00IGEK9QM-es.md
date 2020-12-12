@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.00 % en Lotus 15959/1 - Reloj de Cuarzo para Hom'
 date: 2020-12-08 00:23:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41QpSl1qPtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QpSl1qPtL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41QpSl1qPtL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 79.0 EUR
 inStock: true
 prodname: 'Lotus 15959/1 - Reloj de Cuarzo para Hombre  con Correa de Acero Inoxidable  Color Plateado'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00IGEK9QM/?tag=tolees-21'
+descuento: '25.00'
+titulo: 'Lotus 15959/1 - Reloj de Cuarzo para Hom'
 ---
 
 Tienes [Lotus 15959/1 - Reloj de Cuarzo para Hombre  con Correa de Acero Inoxidable  Color Plateado](https://www.amazon.es/dp/B00IGEK9QM/?tag=tolees-21) con un 25.00 % de descuento con precio de oferta de 59.25 EUR (original: 79.0 EUR) en el siguiente enlace!
 
 [![Lotus 15959/1 - Reloj de Cuarzo para Hom](https://m.media-amazon.com/images/I/41QpSl1qPtL._SL200_.jpg)](https://www.amazon.es/dp/B00IGEK9QM/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00IGEK9QM/?tag=tolees-21)
 

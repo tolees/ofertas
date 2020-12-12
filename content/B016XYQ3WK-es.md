@@ -3,6 +3,7 @@ layout: post
 title: 'Ubiquiti UAP-AC-PRO - Punto de acceso  c al 29.66 % de descuento'
 date: 2020-12-11 10:42:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/310Q5lYkMXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/310Q5lYkMXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/310Q5lYkMXL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 196.06 EUR
 inStock: true
 prodname: 'Ubiquiti UAP-AC-PRO - Punto de acceso  color blanco'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B016XYQ3WK/?tag=tolees-21'
+descuento: '29.66'
+titulo: 'Ubiquiti UAP-AC-PRO - Punto de acceso  c'
 ---
 
 Está [Ubiquiti UAP-AC-PRO - Punto de acceso  color blanco](https://www.amazon.es/dp/B016XYQ3WK/?tag=tolees-21) con 29.66 de descuento por 137.9 EUR (original: 196.06 EUR) en el siguiente enlace!
@@ -24,9 +28,9 @@ Está [Ubiquiti UAP-AC-PRO - Punto de acceso  color blanco](https://www.amazon.e
 
 Principales características:
 
+- Data link protocol: IEEE 802.11B, IEEE 802.11A, IEEE 802.11G, IEEE 802.11n, IEEE 802.11ac
 - Frequency band: 2.4 GHz, 5 GHz
 - Data transfer rate: 1300 MBps
-- Data link protocol: IEEE 802.11B, IEEE 802.11A, IEEE 802.11G, IEEE 802.11n, IEEE 802.11ac
 - Connectivity technology: Wireless
 
 [Ver la oferta!!](https://www.amazon.es/dp/B016XYQ3WK/?tag=tolees-21)

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.14 % en DVD Vengadores Infinity War'
 date: 2020-11-25 12:14:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/51YwIdc6DYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51YwIdc6DYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51YwIdc6DYL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 10.99 EUR
 inStock: true
 prodname: 'DVD Vengadores Infinity War'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CQ6P8FV/?tag=tolees-21'
+descuento: '50.14'
+titulo: 'DVD Vengadores Infinity War'
 ---
 
 Tienes [DVD Vengadores Infinity War](https://www.amazon.es/dp/B07CQ6P8FV/?tag=tolees-21) con un 50.14 % de descuento con precio de oferta de 5.48 EUR (original: 10.99 EUR) en el siguiente enlace!
 
 [![DVD Vengadores Infinity War](https://m.media-amazon.com/images/I/51YwIdc6DYL._SL200_.jpg)](https://www.amazon.es/dp/B07CQ6P8FV/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CQ6P8FV/?tag=tolees-21)
 

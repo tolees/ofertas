@@ -3,6 +3,7 @@ layout: post
 title: 'Npw - Soporte de celo unicornio al 34.59 % de descuento'
 date: 2020-11-15 16:01:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/51KX+TQmyQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51KX+TQmyQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51KX+TQmyQL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 12.23 EUR
 inStock: true
 prodname: 'Npw - Soporte de celo unicornio'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B018K7MDT0/?tag=tolees-21'
+descuento: '34.59'
+titulo: 'Npw - Soporte de celo unicornio'
 ---
 
 Está [Npw - Soporte de celo unicornio](https://www.amazon.es/dp/B018K7MDT0/?tag=tolees-21) con 34.59 de descuento por 8.0 EUR (original: 12.23 EUR) en el siguiente enlace!
 
 [![Npw - Soporte de celo unicornio](https://m.media-amazon.com/images/I/51KX+TQmyQL._SL200_.jpg)](https://www.amazon.es/dp/B018K7MDT0/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B018K7MDT0/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.98 % en Origen Blu-Ray- Iconic [Blu-ray]'
 date: 2020-11-21 20:53:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/41QtmD9Uw+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QtmD9Uw+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41QtmD9Uw+L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 10.2 EUR
 inStock: true
 prodname: 'Origen Blu-Ray- Iconic [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HN66XY5/?tag=tolees-21'
+descuento: '40.98'
+titulo: 'Origen Blu-Ray- Iconic [Blu-ray]'
 ---
 
 Tienes [Origen Blu-Ray- Iconic [Blu-ray]](https://www.amazon.es/dp/B07HN66XY5/?tag=tolees-21) con un 40.98 % de descuento con precio de oferta de 6.02 EUR (original: 10.2 EUR) en el siguiente enlace!
 
 [![Origen Blu-Ray- Iconic [Blu-ray]](https://m.media-amazon.com/images/I/41QtmD9Uw+L._SL200_.jpg)](https://www.amazon.es/dp/B07HN66XY5/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HN66XY5/?tag=tolees-21)
 

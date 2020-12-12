@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.40 % en Pack 1-3: Twin Peaks  BD  [Blu-ray]'
 date: 2020-11-27 17:10:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/5171TOTFg1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/5171TOTFg1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5171TOTFg1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 71.99 EUR
 inStock: true
 prodname: 'Pack 1-3: Twin Peaks  BD  [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07XK8BVC9/?tag=tolees-21'
+descuento: '51.40'
+titulo: 'Pack 1-3: Twin Peaks  BD  [Blu-ray]'
 ---
 
 Tienes [Pack 1-3: Twin Peaks  BD  [Blu-ray]](https://www.amazon.es/dp/B07XK8BVC9/?tag=tolees-21) con un 51.40 % de descuento con precio de oferta de 34.99 EUR (original: 71.99 EUR) en el siguiente enlace!
 
 [![Pack 1-3: Twin Peaks  BD  [Blu-ray]](https://m.media-amazon.com/images/I/5171TOTFg1L._SL200_.jpg)](https://www.amazon.es/dp/B07XK8BVC9/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07XK8BVC9/?tag=tolees-21)
 

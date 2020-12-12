@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.37 % en AmazonBasics - Pilas alcalinas AAA de 1 '
 date: 2020-11-01 11:10:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/51GTuVaUpdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51GTuVaUpdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51GTuVaUpdL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 16.38 EUR
 inStock: true
 prodname: 'AmazonBasics - Pilas alcalinas AAA de 1 5 voltios  gama Performance  paquete de 36  el aspecto puede variar '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00LH3DMUO/?tag=tolees-21'
+descuento: '34.37'
+titulo: 'AmazonBasics - Pilas alcalinas AAA de 1 '
 ---
 
 Tienes [AmazonBasics - Pilas alcalinas AAA de 1 5 voltios  gama Performance  paquete de 36  el aspecto puede variar ](https://www.amazon.es/dp/B00LH3DMUO/?tag=tolees-21) con un 34.37 % de descuento con precio de oferta de 10.75 EUR (original: 16.38 EUR) en el siguiente enlace!
 
 [![AmazonBasics - Pilas alcalinas AAA de 1 ](https://m.media-amazon.com/images/I/51GTuVaUpdL._SL200_.jpg)](https://www.amazon.es/dp/B00LH3DMUO/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00LH3DMUO/?tag=tolees-21)
 

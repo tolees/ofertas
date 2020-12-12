@@ -3,6 +3,7 @@ layout: post
 title: 'SpiritSun Funda para Universal Tablet de al 53.89 % de descuento'
 date: 2020-11-12 16:46:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/51zbG8-d7wL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51zbG8-d7wL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51zbG8-d7wL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'SpiritSun Funda para Universal Tablet de 10 Pulgadas  9.5-10.5 inch Samsung Tab S2 9.7 Huawei Tablet Case  portátil Android Funda Sleeve Ultrabook Carcasa Flip Funda'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07TV4XZBS/?tag=tolees-21'
+descuento: '53.89'
+titulo: 'SpiritSun Funda para Universal Tablet de'
 ---
 
 Ahora mismo tienes [SpiritSun Funda para Universal Tablet de 10 Pulgadas  9.5-10.5 inch Samsung Tab S2 9.7 Huawei Tablet Case  portátil Android Funda Sleeve Ultrabook Carcasa Flip Funda](https://www.amazon.es/dp/B07TV4XZBS/?tag=tolees-21) a 5.99 EUR (original: 12.99 EUR) (53.89 %  de descuento) en el siguiente enlace!
 
 [![SpiritSun Funda para Universal Tablet de](https://m.media-amazon.com/images/I/51zbG8-d7wL._SL200_.jpg)](https://www.amazon.es/dp/B07TV4XZBS/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07TV4XZBS/?tag=tolees-21)
 

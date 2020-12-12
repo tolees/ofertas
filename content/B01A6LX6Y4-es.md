@@ -3,6 +3,7 @@ layout: post
 title: 'Crocs Classic Slipper  Zapatillas de Est al 50.02 % de descuento'
 date: 2020-11-24 18:34:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KOUWGpV7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KOUWGpV7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KOUWGpV7L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Crocs Classic Slipper  Zapatillas de Estar por casa Unisex Adulto  Negro  Black/Black   37/38 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01A6LX6Y4/?tag=tolees-21'
+descuento: '50.02'
+titulo: 'Crocs Classic Slipper  Zapatillas de Est'
 ---
 
 Ahora mismo tienes [Crocs Classic Slipper  Zapatillas de Estar por casa Unisex Adulto  Negro  Black/Black   37/38 EU](https://www.amazon.es/dp/B01A6LX6Y4/?tag=tolees-21) a 14.99 EUR (original: 29.99 EUR) (50.02 %  de descuento) en el siguiente enlace!
 
 [![Crocs Classic Slipper  Zapatillas de Est](https://m.media-amazon.com/images/I/41KOUWGpV7L._SL200_.jpg)](https://www.amazon.es/dp/B01A6LX6Y4/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B01A6LX6Y4/?tag=tolees-21)
 

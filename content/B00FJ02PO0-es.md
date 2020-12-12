@@ -3,6 +3,7 @@ layout: post
 title: 'Battlestar Galactica: La Película [Blu-r al 49.96 % de descuento'
 date: 2020-11-26 21:17:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/51NxLYr8OPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51NxLYr8OPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51NxLYr8OPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Battlestar Galactica: La Película [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00FJ02PO0/?tag=tolees-21'
+descuento: '49.96'
+titulo: 'Battlestar Galactica: La Película [Blu-r'
 ---
 
 Ahora mismo tienes [Battlestar Galactica: La Película [Blu-ray]](https://www.amazon.es/dp/B00FJ02PO0/?tag=tolees-21) a 6.5 EUR (original: 12.99 EUR) (49.96 %  de descuento) en el siguiente enlace!
 
 [![Battlestar Galactica: La Película [Blu-r](https://m.media-amazon.com/images/I/51NxLYr8OPL._SL200_.jpg)](https://www.amazon.es/dp/B00FJ02PO0/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B00FJ02PO0/?tag=tolees-21)
 

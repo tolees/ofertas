@@ -3,6 +3,7 @@ layout: post
 title: 'Jack & Jones Jones - Camiseta de manga c al 46.02 % de descuento'
 date: 2020-12-11 14:52:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/41TIOuhgsuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41TIOuhgsuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41TIOuhgsuL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 12.95 EUR
 inStock: true
 prodname: 'Jack & Jones Jones - Camiseta de manga corta con cuello redondo para hombre  Grau  LIGHT GREY MELANGE JJ LIGHT GREY MELANGE   Medium'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0085SFXRY/?tag=tolees-21'
+descuento: '46.02'
+titulo: 'Jack & Jones Jones - Camiseta de manga c'
 ---
 
 Está [Jack & Jones Jones - Camiseta de manga corta con cuello redondo para hombre  Grau  LIGHT GREY MELANGE JJ LIGHT GREY MELANGE   Medium](https://www.amazon.es/dp/B0085SFXRY/?tag=tolees-21) con 46.02 de descuento por 6.99 EUR (original: 12.95 EUR) en el siguiente enlace!
@@ -24,10 +28,10 @@ Está [Jack & Jones Jones - Camiseta de manga corta con cuello redondo para homb
 
 Principales características:
 
--     Slim Fit
--     Original Product
 -     New Seasons Style
+-     Original Product
 -     Good Quality Grey Tee
+-     Slim Fit
 -     Jack & Jones Plain T-Shirts
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0085SFXRY/?tag=tolees-21)

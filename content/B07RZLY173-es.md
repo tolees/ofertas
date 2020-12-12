@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.64 % en New Balance 373 Core  Zapatillas Bajas p'
 date: 2020-10-19 16:03:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/413nq4giMjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413nq4giMjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/413nq4giMjL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 80.0 EUR
 inStock: true
 prodname: 'New Balance 373 Core  Zapatillas Bajas para Hombre  Rojo  Red/White Cd2   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07RZLY173/?tag=tolees-21'
+descuento: '30.64'
+titulo: 'New Balance 373 Core  Zapatillas Bajas p'
 ---
 
 Tienes [New Balance 373 Core  Zapatillas Bajas para Hombre  Rojo  Red/White Cd2   37 EU](https://www.amazon.es/dp/B07RZLY173/?tag=tolees-21) con un 30.64 % de descuento con precio de oferta de 55.49 EUR (original: 80.0 EUR) en el siguiente enlace!
 
 [![New Balance 373 Core  Zapatillas Bajas p](https://m.media-amazon.com/images/I/413nq4giMjL._SL200_.jpg)](https://www.amazon.es/dp/B07RZLY173/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07RZLY173/?tag=tolees-21)
 

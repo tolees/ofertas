@@ -3,6 +3,7 @@ layout: post
 title: 'Mi vecino Totoro [Blu-ray] al 53.54 % de descuento'
 date: 2020-11-27 21:02:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/512DyfRvl4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/512DyfRvl4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/512DyfRvl4L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 13.99 EUR
 inStock: true
 prodname: 'Mi vecino Totoro [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07QK7SVTL/?tag=tolees-21'
+descuento: '53.54'
+titulo: 'Mi vecino Totoro [Blu-ray]'
 ---
 
 Ahora mismo tienes [Mi vecino Totoro [Blu-ray]](https://www.amazon.es/dp/B07QK7SVTL/?tag=tolees-21) a 6.5 EUR (original: 13.99 EUR) (53.54 %  de descuento) en el siguiente enlace!
 
 [![Mi vecino Totoro [Blu-ray]](https://m.media-amazon.com/images/I/512DyfRvl4L._SL200_.jpg)](https://www.amazon.es/dp/B07QK7SVTL/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07QK7SVTL/?tag=tolees-21)
 

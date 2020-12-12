@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.35 % en Bloodstained: Ritual of the night'
 date: 2020-11-24 08:13:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51u4E4gE0eL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51u4E4gE0eL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51u4E4gE0eL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 41.01 EUR
 inStock: true
 prodname: 'Bloodstained: Ritual of the night'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07RJYS8RS/?tag=tolees-21'
+descuento: '51.35'
+titulo: 'Bloodstained: Ritual of the night'
 ---
 
 Tienes [Bloodstained: Ritual of the night](https://www.amazon.es/dp/B07RJYS8RS/?tag=tolees-21) con un 51.35 % de descuento con precio de oferta de 19.95 EUR (original: 41.01 EUR) en el siguiente enlace!
 
 [![Bloodstained: Ritual of the night](https://m.media-amazon.com/images/I/51u4E4gE0eL._SL200_.jpg)](https://www.amazon.es/dp/B07RJYS8RS/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07RJYS8RS/?tag=tolees-21)
 

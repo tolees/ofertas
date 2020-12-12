@@ -3,6 +3,7 @@ layout: post
 title: 'Fila Disruptor Low Wmn  Zapatillas para  al 30.68 % de descuento'
 date: 2020-12-11 21:00:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+FgQPGBjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+FgQPGBjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+FgQPGBjL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Fila Disruptor Low Wmn  Zapatillas para Mujer  Blanco  37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078WQF58M/?tag=tolees-21'
+descuento: '30.68'
+titulo: 'Fila Disruptor Low Wmn  Zapatillas para '
 ---
 
 Está [Fila Disruptor Low Wmn  Zapatillas para Mujer  Blanco  37 EU](https://www.amazon.es/dp/B078WQF58M/?tag=tolees-21) con 30.68 de descuento por 69.29 EUR (original: 99.95 EUR) en el siguiente enlace!
@@ -24,8 +28,8 @@ Está [Fila Disruptor Low Wmn  Zapatillas para Mujer  Blanco  37 EU](https://www
 
 Principales características:
 
-- Blanco
 - adulto
+- Blanco
 
 [Ver la oferta!!](https://www.amazon.es/dp/B078WQF58M/?tag=tolees-21)
 

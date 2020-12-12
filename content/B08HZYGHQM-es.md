@@ -3,6 +3,7 @@ layout: post
 title: 'Garnier Fructis Tratamiento Nutri Rizos  al 25.10 % de descuento'
 date: 2020-11-11 15:40:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/41kzsToGrDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41kzsToGrDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41kzsToGrDL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 12.75 EUR
 inStock: true
 prodname: 'Garnier Fructis Tratamiento Nutri Rizos Secado al Aire Crema Sin Aclarado  indicada para Pelo Rizado u Ondulado - Pack de 3 x 400 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08HZYGHQM/?tag=tolees-21'
+descuento: '25.10'
+titulo: 'Garnier Fructis Tratamiento Nutri Rizos '
 ---
 
 Ahora mismo tienes [Garnier Fructis Tratamiento Nutri Rizos Secado al Aire Crema Sin Aclarado  indicada para Pelo Rizado u Ondulado - Pack de 3 x 400 ml](https://www.amazon.es/dp/B08HZYGHQM/?tag=tolees-21) a 9.55 EUR (original: 12.75 EUR) (25.10 %  de descuento) en el siguiente enlace!
 
 [![Garnier Fructis Tratamiento Nutri Rizos ](https://m.media-amazon.com/images/I/41kzsToGrDL._SL200_.jpg)](https://www.amazon.es/dp/B08HZYGHQM/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B08HZYGHQM/?tag=tolees-21)
 

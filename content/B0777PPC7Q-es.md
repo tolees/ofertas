@@ -3,6 +3,7 @@ layout: post
 title: 'POWERADD Teclado Inalámbrico con Multi-t al 25.01 % de descuento'
 date: 2020-11-30 17:32:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/51FS82hhW3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51FS82hhW3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51FS82hhW3L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'POWERADD Teclado Inalámbrico con Multi-touchpad de Español con Tri-Plegable Compatible con Android  Windows  iOS Smartphone'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0777PPC7Q/?tag=tolees-21'
+descuento: '25.01'
+titulo: 'POWERADD Teclado Inalámbrico con Multi-t'
 ---
 
 Está [POWERADD Teclado Inalámbrico con Multi-touchpad de Español con Tri-Plegable Compatible con Android  Windows  iOS Smartphone](https://www.amazon.es/dp/B0777PPC7Q/?tag=tolees-21) con 25.01 de descuento por 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![POWERADD Teclado Inalámbrico con Multi-t](https://m.media-amazon.com/images/I/51FS82hhW3L._SL200_.jpg)](https://www.amazon.es/dp/B0777PPC7Q/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0777PPC7Q/?tag=tolees-21)
 

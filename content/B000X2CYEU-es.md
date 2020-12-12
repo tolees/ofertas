@@ -3,6 +3,7 @@ layout: post
 title: 'STANLEY 4-18-226 - Juego de botadores y  al 35.11 % de descuento'
 date: 2020-10-30 09:31:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/41OPgjibR8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41OPgjibR8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41OPgjibR8L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 13.3 EUR
 inStock: true
 prodname: 'STANLEY 4-18-226 - Juego de botadores y punzones  6 piezas '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000X2CYEU/?tag=tolees-21'
+descuento: '35.11'
+titulo: 'STANLEY 4-18-226 - Juego de botadores y '
 ---
 
 Ahora mismo tienes [STANLEY 4-18-226 - Juego de botadores y punzones  6 piezas ](https://www.amazon.es/dp/B000X2CYEU/?tag=tolees-21) a 8.63 EUR (original: 13.3 EUR) (35.11 %  de descuento) en el siguiente enlace!
 
 [![STANLEY 4-18-226 - Juego de botadores y ](https://m.media-amazon.com/images/I/41OPgjibR8L._SL200_.jpg)](https://www.amazon.es/dp/B000X2CYEU/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B000X2CYEU/?tag=tolees-21)
 

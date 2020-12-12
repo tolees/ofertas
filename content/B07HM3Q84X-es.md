@@ -3,6 +3,7 @@ layout: post
 title: 'BATIDORA DE MANO 1000W BRAZO DE ACERO EX al 32.06 % de descuento'
 date: 2020-11-01 22:51:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/31pJMH2pzjL._SL500_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31pJMH2pzjL._SL500_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31pJMH2pzjL._SL500_._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 24.95 EUR
 inStock: true
 prodname: 'BATIDORA DE MANO 1000W BRAZO DE ACERO EXTRAIBLE PARA LAVADO VASO 600ML 8 VELOCIDADES'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HM3Q84X/?tag=tolees-21'
+descuento: '32.06'
+titulo: 'BATIDORA DE MANO 1000W BRAZO DE ACERO EX'
 ---
 
 Está [BATIDORA DE MANO 1000W BRAZO DE ACERO EXTRAIBLE PARA LAVADO VASO 600ML 8 VELOCIDADES](https://www.amazon.es/dp/B07HM3Q84X/?tag=tolees-21) con 32.06 de descuento por 16.95 EUR (original: 24.95 EUR) en el siguiente enlace!
 
 [![BATIDORA DE MANO 1000W BRAZO DE ACERO EX](https://m.media-amazon.com/images/I/31pJMH2pzjL._SL500_._SL200_.jpg)](https://www.amazon.es/dp/B07HM3Q84X/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07HM3Q84X/?tag=tolees-21)
 

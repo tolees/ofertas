@@ -3,6 +3,7 @@ layout: post
 title: 'BIC Cristal Multicolour Bolígrafos Punta al 45.50 % de descuento'
 date: 2020-12-03 13:47:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Z9vCNn6NL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Z9vCNn6NL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Z9vCNn6NL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 10.99 EUR
 inStock: true
 prodname: 'BIC Cristal Multicolour Bolígrafos Punta Ancha  1 6 mm  – Colores Surtidos  Bolsa de 20+7 Unidades  ideal para dibujos y anotaciones'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N5XK7J4/?tag=tolees-21'
+descuento: '45.50'
+titulo: 'BIC Cristal Multicolour Bolígrafos Punta'
 ---
 
 Ahora mismo tienes [BIC Cristal Multicolour Bolígrafos Punta Ancha  1 6 mm  – Colores Surtidos  Bolsa de 20+7 Unidades  ideal para dibujos y anotaciones](https://www.amazon.es/dp/B01N5XK7J4/?tag=tolees-21) a 5.99 EUR (original: 10.99 EUR) (45.50 %  de descuento) en el siguiente enlace!
 
 [![BIC Cristal Multicolour Bolígrafos Punta](https://m.media-amazon.com/images/I/51Z9vCNn6NL._SL200_.jpg)](https://www.amazon.es/dp/B01N5XK7J4/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B01N5XK7J4/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'IKOHS SUNSTAR Patio Heater - Estufa de E al 33.34 % de descuento'
 date: 2020-11-25 12:35:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/31nP++1hMcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31nP++1hMcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31nP++1hMcL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 299.95 EUR
 inStock: true
 prodname: 'IKOHS SUNSTAR Patio Heater - Estufa de Exterior para Terraza  Jardin  Calefactor Halógeno  Radiador de pie  1000W - 2000W  Protección IP34  Diseño Exclusivo  Gris '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08M93WD5K/?tag=tolees-21'
+descuento: '33.34'
+titulo: 'IKOHS SUNSTAR Patio Heater - Estufa de E'
 ---
 
 Está [IKOHS SUNSTAR Patio Heater - Estufa de Exterior para Terraza  Jardin  Calefactor Halógeno  Radiador de pie  1000W - 2000W  Protección IP34  Diseño Exclusivo  Gris ](https://www.amazon.es/dp/B08M93WD5K/?tag=tolees-21) con 33.34 de descuento por 199.95 EUR (original: 299.95 EUR) en el siguiente enlace!
 
 [![IKOHS SUNSTAR Patio Heater - Estufa de E](https://m.media-amazon.com/images/I/31nP++1hMcL._SL200_.jpg)](https://www.amazon.es/dp/B08M93WD5K/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08M93WD5K/?tag=tolees-21)
 

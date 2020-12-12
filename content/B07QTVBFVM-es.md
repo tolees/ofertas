@@ -3,6 +3,7 @@ layout: post
 title: 'Pop Star Wars The Rise of Skywalker - La al 39.93 % de descuento'
 date: 2020-11-22 19:23:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/41MHImg67ZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MHImg67ZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41MHImg67ZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 14.95 EUR
 inStock: true
 prodname: 'Pop Star Wars The Rise of Skywalker - Lando Calrissian'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07QTVBFVM/?tag=tolees-21'
+descuento: '39.93'
+titulo: 'Pop Star Wars The Rise of Skywalker - La'
 ---
 
 Está [Pop Star Wars The Rise of Skywalker - Lando Calrissian](https://www.amazon.es/dp/B07QTVBFVM/?tag=tolees-21) con 39.93 de descuento por 8.98 EUR (original: 14.95 EUR) en el siguiente enlace!
 
 [![Pop Star Wars The Rise of Skywalker - La](https://m.media-amazon.com/images/I/41MHImg67ZL._SL200_.jpg)](https://www.amazon.es/dp/B07QTVBFVM/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07QTVBFVM/?tag=tolees-21)
 

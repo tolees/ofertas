@@ -3,6 +3,7 @@ layout: post
 title: 'Our Generation BD37086Z - Cocina para mu al 41.70 % de descuento'
 date: 2020-11-22 09:03:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/51zrx7uXVLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51zrx7uXVLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51zrx7uXVLL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 119.9 EUR
 inStock: true
 prodname: 'Our Generation BD37086Z - Cocina para muñecas'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00TO7RKQM/?tag=tolees-21'
+descuento: '41.70'
+titulo: 'Our Generation BD37086Z - Cocina para mu'
 ---
 
 Está [Our Generation BD37086Z - Cocina para muñecas](https://www.amazon.es/dp/B00TO7RKQM/?tag=tolees-21) con 41.70 de descuento por 69.9 EUR (original: 119.9 EUR) en el siguiente enlace!
 
 [![Our Generation BD37086Z - Cocina para mu](https://m.media-amazon.com/images/I/51zrx7uXVLL._SL200_.jpg)](https://www.amazon.es/dp/B00TO7RKQM/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00TO7RKQM/?tag=tolees-21)
 

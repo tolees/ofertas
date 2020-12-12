@@ -3,6 +3,7 @@ layout: post
 title: 'Hugo BOSS Reloj Multiesfera para Mujer d al 29.95 % de descuento'
 date: 2020-12-05 18:35:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/41jELSBF5xL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jELSBF5xL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41jELSBF5xL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 279.0 EUR
 inStock: true
 prodname: 'Hugo BOSS Reloj Multiesfera para Mujer de Cuarzo con Correa en Acero Inoxidable 1502444'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07G4W6LJC/?tag=tolees-21'
+descuento: '29.95'
+titulo: 'Hugo BOSS Reloj Multiesfera para Mujer d'
 ---
 
 Ahora mismo tienes [Hugo BOSS Reloj Multiesfera para Mujer de Cuarzo con Correa en Acero Inoxidable 1502444](https://www.amazon.es/dp/B07G4W6LJC/?tag=tolees-21) a 195.45 EUR (original: 279.0 EUR) (29.95 %  de descuento) en el siguiente enlace!
 
 [![Hugo BOSS Reloj Multiesfera para Mujer d](https://m.media-amazon.com/images/I/41jELSBF5xL._SL200_.jpg)](https://www.amazon.es/dp/B07G4W6LJC/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07G4W6LJC/?tag=tolees-21)
 

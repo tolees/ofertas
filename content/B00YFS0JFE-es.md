@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.62 % en Nike Tanjun  PS  - Zapatillas para niño '
 date: 2020-12-09 14:02:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/411aRcpG0ML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411aRcpG0ML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/411aRcpG0ML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 40.0 EUR
 inStock: true
 prodname: 'Nike Tanjun  PS  - Zapatillas para niño  color negro / blanco  talla 35'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00YFS0JFE/?tag=tolees-21'
+descuento: '52.62'
+titulo: 'Nike Tanjun  PS  - Zapatillas para niño '
 ---
 
 Tienes [Nike Tanjun  PS  - Zapatillas para niño  color negro / blanco  talla 35](https://www.amazon.es/dp/B00YFS0JFE/?tag=tolees-21) con un 52.62 % de descuento con precio de oferta de 18.95 EUR (original: 40.0 EUR) en el siguiente enlace!
 
 [![Nike Tanjun  PS  - Zapatillas para niño ](https://m.media-amazon.com/images/I/411aRcpG0ML._SL200_.jpg)](https://www.amazon.es/dp/B00YFS0JFE/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00YFS0JFE/?tag=tolees-21)
 

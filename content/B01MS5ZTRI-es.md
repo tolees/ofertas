@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.34 % en Atornillador  TACKLIFE SDH13DC Destornil'
 date: 2020-11-16 08:18:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ysQe7hxwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ysQe7hxwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ysQe7hxwL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Atornillador  TACKLIFE SDH13DC Destornillador Eléctrico Par de Salida 4Nm Máx  Taladro sin Cable  Cabeza Extraíble  Luz LED  6 Velocidad Giratoria Ajustable '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01MS5ZTRI/?tag=tolees-21'
+descuento: '33.34'
+titulo: 'Atornillador  TACKLIFE SDH13DC Destornil'
 ---
 
 Tienes [Atornillador  TACKLIFE SDH13DC Destornillador Eléctrico Par de Salida 4Nm Máx  Taladro sin Cable  Cabeza Extraíble  Luz LED  6 Velocidad Giratoria Ajustable ](https://www.amazon.es/dp/B01MS5ZTRI/?tag=tolees-21) con un 33.34 % de descuento con precio de oferta de 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![Atornillador  TACKLIFE SDH13DC Destornil](https://m.media-amazon.com/images/I/51ysQe7hxwL._SL200_.jpg)](https://www.amazon.es/dp/B01MS5ZTRI/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01MS5ZTRI/?tag=tolees-21)
 

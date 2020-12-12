@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.29 % en Lacoste ESPARRE BL 1 CMA  Zapatillas par'
 date: 2020-11-15 19:35:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/21PndO6fHFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21PndO6fHFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21PndO6fHFL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 109.0 EUR
 inStock: true
 prodname: 'Lacoste ESPARRE BL 1 CMA  Zapatillas para Hombre  Blanco  White/White   42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DMD59JC/?tag=tolees-21'
+descuento: '47.29'
+titulo: 'Lacoste ESPARRE BL 1 CMA  Zapatillas par'
 ---
 
 Tienes [Lacoste ESPARRE BL 1 CMA  Zapatillas para Hombre  Blanco  White/White   42 EU](https://www.amazon.es/dp/B07DMD59JC/?tag=tolees-21) con un 47.29 % de descuento con precio de oferta de 57.45 EUR (original: 109.0 EUR) en el siguiente enlace!
 
 [![Lacoste ESPARRE BL 1 CMA  Zapatillas par](https://m.media-amazon.com/images/I/21PndO6fHFL._SL200_.jpg)](https://www.amazon.es/dp/B07DMD59JC/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DMD59JC/?tag=tolees-21)
 

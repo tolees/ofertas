@@ -3,6 +3,7 @@ layout: post
 title: 'Victorio & Lucchino Locura De Azahar - A al 42.35 % de descuento'
 date: 2020-11-10 17:25:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/51JhENt5zcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51JhENt5zcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51JhENt5zcL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 22.34 EUR
 inStock: true
 prodname: 'Victorio & Lucchino Locura De Azahar - Agua de Colonia 200 ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00XDW29CO/?tag=tolees-21'
+descuento: '42.35'
+titulo: 'Victorio & Lucchino Locura De Azahar - A'
 ---
 
 Ahora mismo tienes [Victorio & Lucchino Locura De Azahar - Agua de Colonia 200 ml](https://www.amazon.es/dp/B00XDW29CO/?tag=tolees-21) a 12.88 EUR (original: 22.34 EUR) (42.35 %  de descuento) en el siguiente enlace!
 
 [![Victorio & Lucchino Locura De Azahar - A](https://m.media-amazon.com/images/I/51JhENt5zcL._SL200_.jpg)](https://www.amazon.es/dp/B00XDW29CO/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B00XDW29CO/?tag=tolees-21)
 

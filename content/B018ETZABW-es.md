@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.51 % en Luckies of London lukpro Smartphone'
 date: 2020-11-28 21:39:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/415k0ceXdYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415k0ceXdYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415k0ceXdYL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 35.0 EUR
 inStock: true
 prodname: 'Luckies of London lukpro Smartphone'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B018ETZABW/?tag=tolees-21'
+descuento: '31.51'
+titulo: 'Luckies of London lukpro Smartphone'
 ---
 
 Tienes [Luckies of London lukpro Smartphone](https://www.amazon.es/dp/B018ETZABW/?tag=tolees-21) con un 31.51 % de descuento con precio de oferta de 23.97 EUR (original: 35.0 EUR) en el siguiente enlace!
 
 [![Luckies of London lukpro Smartphone](https://m.media-amazon.com/images/I/415k0ceXdYL._SL200_.jpg)](https://www.amazon.es/dp/B018ETZABW/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B018ETZABW/?tag=tolees-21)
 

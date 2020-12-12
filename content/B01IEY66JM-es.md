@@ -3,6 +3,7 @@ layout: post
 title: 'Hrph Ordenador portátil USB 3.0 Macho a  al 65.53 % de descuento'
 date: 2020-12-10 22:52:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41molkLBmCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41molkLBmCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41molkLBmCL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 4.99 EUR
 inStock: true
 prodname: 'Hrph Ordenador portátil USB 3.0 Macho a USB 3.1 USB3.1 Tipo C Datos Hembra convertidor de Escritorio Tipo C a USB-C Femenino del Adaptador de Puerto OTG'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01IEY66JM/?tag=tolees-21'
+descuento: '65.53'
+titulo: 'Hrph Ordenador portátil USB 3.0 Macho a '
 ---
 
 Está [Hrph Ordenador portátil USB 3.0 Macho a USB 3.1 USB3.1 Tipo C Datos Hembra convertidor de Escritorio Tipo C a USB-C Femenino del Adaptador de Puerto OTG](https://www.amazon.es/dp/B01IEY66JM/?tag=tolees-21) con 65.53 de descuento por 1.72 EUR (original: 4.99 EUR) en el siguiente enlace!
@@ -24,11 +28,11 @@ Está [Hrph Ordenador portátil USB 3.0 Macho a USB 3.1 USB3.1 Tipo C Datos Hemb
 
 Principales características:
 
-- a travÃs del puerto USB 3.0, actualice el ordenador portÃ¡til, de escritorio, etc el dispositivo.
+- USB 3.1 Tipo de conector hembra de C USB3.0 un adaptador de datos de sexo masculino, que ayuda al usuario a obtener un USB-C Puerto
+- DiseÃ±o reversible para conector tipo C
 - conector de tipo C es el nuevo diseÃ±o para USB 3.1
 - Reversible de la orientaciÃ³n y direcciÃ³n de enchufe de cable
-- DiseÃ±o reversible para conector tipo C
-- USB 3.1 Tipo de conector hembra de C USB3.0 un adaptador de datos de sexo masculino, que ayuda al usuario a obtener un USB-C Puerto
+- a travÃs del puerto USB 3.0, actualice el ordenador portÃ¡til, de escritorio, etc el dispositivo.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01IEY66JM/?tag=tolees-21)
 

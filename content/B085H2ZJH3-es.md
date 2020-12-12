@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.08 % en Holy Potatoes Compendium  3 Titles in on'
 date: 2020-10-23 15:20:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/612JMhaLdhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/612JMhaLdhL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/612JMhaLdhL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Holy Potatoes Compendium  3 Titles in one pack '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B085H2ZJH3/?tag=tolees-21'
+descuento: '37.08'
+titulo: 'Holy Potatoes Compendium  3 Titles in on'
 ---
 
 Tienes [Holy Potatoes Compendium  3 Titles in one pack ](https://www.amazon.es/dp/B085H2ZJH3/?tag=tolees-21) con un 37.08 % de descuento con precio de oferta de 25.16 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![Holy Potatoes Compendium  3 Titles in on](https://m.media-amazon.com/images/I/612JMhaLdhL._SL200_.jpg)](https://www.amazon.es/dp/B085H2ZJH3/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B085H2ZJH3/?tag=tolees-21)
 

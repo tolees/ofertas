@@ -3,6 +3,7 @@ layout: post
 title: 'Auriculares Bluetooth 5.0 Inalámbricos c al 33.64 % de descuento'
 date: 2020-10-27 20:56:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Zl8NP5Q9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Zl8NP5Q9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Zl8NP5Q9L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 20.99 EUR
 inStock: true
 prodname: 'Auriculares Bluetooth 5.0 Inalámbricos con Micrófono  Funwaretech Auriculare con Cable Plegable Wireless Headphones con HiFi Sonido Estéreo y Bajos Profundos  Cascos Bluetooth para Móviles PC Verde '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MKGQ3DS/?tag=tolees-21'
+descuento: '33.64'
+titulo: 'Auriculares Bluetooth 5.0 Inalámbricos c'
 ---
 
 Está [Auriculares Bluetooth 5.0 Inalámbricos con Micrófono  Funwaretech Auriculare con Cable Plegable Wireless Headphones con HiFi Sonido Estéreo y Bajos Profundos  Cascos Bluetooth para Móviles PC Verde ](https://www.amazon.es/dp/B07MKGQ3DS/?tag=tolees-21) con 33.64 de descuento por 13.93 EUR (original: 20.99 EUR) en el siguiente enlace!
 
 [![Auriculares Bluetooth 5.0 Inalámbricos c](https://m.media-amazon.com/images/I/41Zl8NP5Q9L._SL200_.jpg)](https://www.amazon.es/dp/B07MKGQ3DS/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07MKGQ3DS/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES JJIPAUL JJLEATHER BELT NOOS al 45.14 % de descuento'
 date: 2020-12-11 17:23:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41dWYrl0PVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41dWYrl0PVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41dWYrl0PVL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'JACK & JONES JJIPAUL JJLEATHER BELT NOOS  Cinturón Hombre  Marrón  Black Coffee   95 cm  Talla del fabricante: 95 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01IBI9YYU/?tag=tolees-21'
+descuento: '45.14'
+titulo: 'JACK & JONES JJIPAUL JJLEATHER BELT NOOS'
 ---
 
 Está [JACK & JONES JJIPAUL JJLEATHER BELT NOOS  Cinturón Hombre  Marrón  Black Coffee   95 cm  Talla del fabricante: 95 ](https://www.amazon.es/dp/B01IBI9YYU/?tag=tolees-21) con 45.14 de descuento por 13.71 EUR (original: 24.99 EUR) en el siguiente enlace!

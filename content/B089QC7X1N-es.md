@@ -3,6 +3,7 @@ layout: post
 title: 'Mascarilla Higienica WottoCare  50 uds/c al 26.32 % de descuento'
 date: 2020-12-08 18:32:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41q3UAwEK4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41q3UAwEK4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41q3UAwEK4L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 15.2 EUR
 inStock: true
 prodname: 'Mascarilla Higienica WottoCare  50 uds/caja  3 Capas/BFE ≥ 95% Mascarilla Facial de Filtración Material Filtro y non-woven  Mascara Certificada/Homologada'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B089QC7X1N/?tag=tolees-21'
+descuento: '26.32'
+titulo: 'Mascarilla Higienica WottoCare  50 uds/c'
 ---
 
 Está [Mascarilla Higienica WottoCare  50 uds/caja  3 Capas/BFE ≥ 95% Mascarilla Facial de Filtración Material Filtro y non-woven  Mascara Certificada/Homologada](https://www.amazon.es/dp/B089QC7X1N/?tag=tolees-21) con 26.32 de descuento por 11.2 EUR (original: 15.2 EUR) en el siguiente enlace!
 
 [![Mascarilla Higienica WottoCare  50 uds/c](https://m.media-amazon.com/images/I/41q3UAwEK4L._SL200_.jpg)](https://www.amazon.es/dp/B089QC7X1N/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B089QC7X1N/?tag=tolees-21)
 

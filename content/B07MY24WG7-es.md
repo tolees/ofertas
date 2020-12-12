@@ -3,6 +3,7 @@ layout: post
 title: 'Vans Doheny  Sneaker Mujer  Lienzo Negro al 46.76 % de descuento'
 date: 2020-11-26 19:52:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/31UdjIuZ4qL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31UdjIuZ4qL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31UdjIuZ4qL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 55.0 EUR
 inStock: true
 prodname: 'Vans Doheny  Sneaker Mujer  Lienzo Negro Blanco 187  42.5 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07MY24WG7/?tag=tolees-21'
+descuento: '46.76'
+titulo: 'Vans Doheny  Sneaker Mujer  Lienzo Negro'
 ---
 
 Ahora mismo tienes [Vans Doheny  Sneaker Mujer  Lienzo Negro Blanco 187  42.5 EU](https://www.amazon.es/dp/B07MY24WG7/?tag=tolees-21) a 29.28 EUR (original: 55.0 EUR) (46.76 %  de descuento) en el siguiente enlace!
 
 [![Vans Doheny  Sneaker Mujer  Lienzo Negro](https://m.media-amazon.com/images/I/31UdjIuZ4qL._SL200_.jpg)](https://www.amazon.es/dp/B07MY24WG7/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07MY24WG7/?tag=tolees-21)
 

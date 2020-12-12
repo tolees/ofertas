@@ -3,6 +3,7 @@ layout: post
 title: 'Vohoney Árbol de Navidad artificial pleg al 31.96 % de descuento'
 date: 2020-12-08 12:01:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41sh43bc9rL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41sh43bc9rL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41sh43bc9rL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 56.16 EUR
 inStock: true
 prodname: 'Vohoney Árbol de Navidad artificial plegable con lentejuelas  árbol de Navidad artificial para plata  150 cm'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07Z8V7CYZ/?tag=tolees-21'
+descuento: '31.96'
+titulo: 'Vohoney Árbol de Navidad artificial pleg'
 ---
 
 Está [Vohoney Árbol de Navidad artificial plegable con lentejuelas  árbol de Navidad artificial para plata  150 cm](https://www.amazon.es/dp/B07Z8V7CYZ/?tag=tolees-21) con 31.96 de descuento por 38.21 EUR (original: 56.16 EUR) en el siguiente enlace!
 
 [![Vohoney Árbol de Navidad artificial pleg](https://m.media-amazon.com/images/I/41sh43bc9rL._SL200_.jpg)](https://www.amazon.es/dp/B07Z8V7CYZ/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07Z8V7CYZ/?tag=tolees-21)
 

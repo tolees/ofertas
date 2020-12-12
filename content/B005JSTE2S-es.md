@@ -3,6 +3,7 @@ layout: post
 title: 'Alien 2: Aliens - Bluray [Blu-ray] al 38.66 % de descuento'
 date: 2020-11-21 17:48:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/51eQHeLDcxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51eQHeLDcxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51eQHeLDcxL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 8.95 EUR
 inStock: true
 prodname: 'Alien 2: Aliens - Bluray [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B005JSTE2S/?tag=tolees-21'
+descuento: '38.66'
+titulo: 'Alien 2: Aliens - Bluray [Blu-ray]'
 ---
 
 Está [Alien 2: Aliens - Bluray [Blu-ray]](https://www.amazon.es/dp/B005JSTE2S/?tag=tolees-21) con 38.66 de descuento por 5.49 EUR (original: 8.95 EUR) en el siguiente enlace!
 
 [![Alien 2: Aliens - Bluray [Blu-ray]](https://m.media-amazon.com/images/I/51eQHeLDcxL._SL200_.jpg)](https://www.amazon.es/dp/B005JSTE2S/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B005JSTE2S/?tag=tolees-21)
 

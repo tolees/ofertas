@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.31 % en FIND - Leche limpiadora y nutritiva - Pa'
 date: 2020-11-21 19:19:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/41j95nUZlpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41j95nUZlpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41j95nUZlpL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 16.0 EUR
 inStock: true
 prodname: 'FIND - Leche limpiadora y nutritiva - Para todo tipo de pieles  4x200ml '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07SFXY998/?tag=tolees-21'
+descuento: '41.31'
+titulo: 'FIND - Leche limpiadora y nutritiva - Pa'
 ---
 
 Tienes [FIND - Leche limpiadora y nutritiva - Para todo tipo de pieles  4x200ml ](https://www.amazon.es/dp/B07SFXY998/?tag=tolees-21) con un 41.31 % de descuento con precio de oferta de 9.39 EUR (original: 16.0 EUR) en el siguiente enlace!
 
 [![FIND - Leche limpiadora y nutritiva - Pa](https://m.media-amazon.com/images/I/41j95nUZlpL._SL200_.jpg)](https://www.amazon.es/dp/B07SFXY998/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07SFXY998/?tag=tolees-21)
 

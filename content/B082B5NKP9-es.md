@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.00 % en Geographical Norway Polar Hombre RIAKOLO'
 date: 2020-11-13 06:33:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/51+RD0nALhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51+RD0nALhL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51+RD0nALhL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 69.0 EUR
 inStock: true
 prodname: 'Geographical Norway Polar Hombre RIAKOLO Azul Marino S'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B082B5NKP9/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'Geographical Norway Polar Hombre RIAKOLO'
 ---
 
 Tienes [Geographical Norway Polar Hombre RIAKOLO Azul Marino S](https://www.amazon.es/dp/B082B5NKP9/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 48.3 EUR (original: 69.0 EUR) en el siguiente enlace!
 
 [![Geographical Norway Polar Hombre RIAKOLO](https://m.media-amazon.com/images/I/51+RD0nALhL._SL200_.jpg)](https://www.amazon.es/dp/B082B5NKP9/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B082B5NKP9/?tag=tolees-21)
 

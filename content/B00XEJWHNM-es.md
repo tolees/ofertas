@@ -28,10 +28,10 @@ Tienes [Michael Kors Reloj Cronógrafo para Mujer de Cuarzo con Correa en Acero 
 
 Características principales:
 
+- Esfera plateada con índices cromados y números romanos a las 2/4/8/10/12, cronógrafo con fecha y modo 24h, agujas cromadas, cristal mineral
 - Reloj MICHAEL KORS de mujer, caja redonda de acero inoxidable (diámetro: 36 mm) con acabado pulido brillante y mate, 2 pulsadores cromados, resistente a la presión del agua en 5 atm
 - Presentado en estuche MICHAEL KORS
 - Brazalete de acero inoxidable con acabado pulido brillante y mate, cierre desplegable
-- Esfera plateada con índices cromados y números romanos a las 2/4/8/10/12, cronógrafo con fecha y modo 24h, agujas cromadas, cristal mineral
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00XEJWHNM/?tag=tolees-21)
 

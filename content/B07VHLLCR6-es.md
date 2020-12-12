@@ -3,6 +3,7 @@ layout: post
 title: 'Napapijri Elbas 3 Polo  Rojo  Bright Red al 57.64 % de descuento'
 date: 2020-12-03 17:14:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+XTkfeVeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+XTkfeVeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+XTkfeVeL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 59.0 EUR
 inStock: true
 prodname: 'Napapijri Elbas 3 Polo  Rojo  Bright Red R471   Large para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07VHLLCR6/?tag=tolees-21'
+descuento: '57.64'
+titulo: 'Napapijri Elbas 3 Polo  Rojo  Bright Red'
 ---
 
 Está [Napapijri Elbas 3 Polo  Rojo  Bright Red R471   Large para Hombre](https://www.amazon.es/dp/B07VHLLCR6/?tag=tolees-21) con 57.64 de descuento por 24.99 EUR (original: 59.0 EUR) en el siguiente enlace!
 
 [![Napapijri Elbas 3 Polo  Rojo  Bright Red](https://m.media-amazon.com/images/I/41+XTkfeVeL._SL200_.jpg)](https://www.amazon.es/dp/B07VHLLCR6/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07VHLLCR6/?tag=tolees-21)
 

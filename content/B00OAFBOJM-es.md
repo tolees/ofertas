@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.20 % en STANLEY XTHT0-33671 - Flexómetro AutoLoc'
 date: 2020-10-27 07:04:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/51M+HiN0RzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51M+HiN0RzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51M+HiN0RzL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 30.32 EUR
 inStock: true
 prodname: 'STANLEY XTHT0-33671 - Flexómetro AutoLock 5m x 32mm  gancho XL magnético'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00OAFBOJM/?tag=tolees-21'
+descuento: '37.20'
+titulo: 'STANLEY XTHT0-33671 - Flexómetro AutoLoc'
 ---
 
 Tienes [STANLEY XTHT0-33671 - Flexómetro AutoLock 5m x 32mm  gancho XL magnético](https://www.amazon.es/dp/B00OAFBOJM/?tag=tolees-21) con un 37.20 % de descuento con precio de oferta de 19.04 EUR (original: 30.32 EUR) en el siguiente enlace!
 
 [![STANLEY XTHT0-33671 - Flexómetro AutoLoc](https://m.media-amazon.com/images/I/51M+HiN0RzL._SL200_.jpg)](https://www.amazon.es/dp/B00OAFBOJM/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00OAFBOJM/?tag=tolees-21)
 

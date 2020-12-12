@@ -3,6 +3,7 @@ layout: post
 title: 'Kärcher K5 Full Control Home - Hidrolimp al 37.74 % de descuento'
 date: 2020-11-19 11:19:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Lab0-zeWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Lab0-zeWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Lab0-zeWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 399.95 EUR
 inStock: true
 prodname: 'Kärcher K5 Full Control Home - Hidrolimpiadora de alta presión para exteriores 145 bar  2100 W  500 L/h  1.324-503.0 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0185UN2UQ/?tag=tolees-21'
+descuento: '37.74'
+titulo: 'Kärcher K5 Full Control Home - Hidrolimp'
 ---
 
 Está [Kärcher K5 Full Control Home - Hidrolimpiadora de alta presión para exteriores 145 bar  2100 W  500 L/h  1.324-503.0 ](https://www.amazon.es/dp/B0185UN2UQ/?tag=tolees-21) con 37.74 de descuento por 249.0 EUR (original: 399.95 EUR) en el siguiente enlace!
 
 [![Kärcher K5 Full Control Home - Hidrolimp](https://m.media-amazon.com/images/I/41Lab0-zeWL._SL200_.jpg)](https://www.amazon.es/dp/B0185UN2UQ/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0185UN2UQ/?tag=tolees-21)
 

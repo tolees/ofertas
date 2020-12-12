@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 59.56 % en Dos Hombres Y Un Destino - Blu-Ray [Blu-'
 date: 2020-11-24 18:42:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/51f7u9dVXiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51f7u9dVXiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51f7u9dVXiL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 12.34 EUR
 inStock: true
 prodname: 'Dos Hombres Y Un Destino - Blu-Ray [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0053C7XGO/?tag=tolees-21'
+descuento: '59.56'
+titulo: 'Dos Hombres Y Un Destino - Blu-Ray [Blu-'
 ---
 
 Tienes [Dos Hombres Y Un Destino - Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B0053C7XGO/?tag=tolees-21) con un 59.56 % de descuento con precio de oferta de 4.99 EUR (original: 12.34 EUR) en el siguiente enlace!
 
 [![Dos Hombres Y Un Destino - Blu-Ray [Blu-](https://m.media-amazon.com/images/I/51f7u9dVXiL._SL200_.jpg)](https://www.amazon.es/dp/B0053C7XGO/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0053C7XGO/?tag=tolees-21)
 

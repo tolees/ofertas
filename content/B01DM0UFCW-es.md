@@ -3,6 +3,7 @@ layout: post
 title: 'Samsonite Star Wars Ultimate - Spinner M al 28.50 % de descuento'
 date: 2020-11-24 16:21:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41lv8uLNs0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lv8uLNs0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41lv8uLNs0L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 139.0 EUR
 inStock: true
 prodname: 'Samsonite Star Wars Ultimate - Spinner M Maleta  66 cm  61.5 L  Negro  Star Wars Iconic '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01DM0UFCW/?tag=tolees-21'
+descuento: '28.50'
+titulo: 'Samsonite Star Wars Ultimate - Spinner M'
 ---
 
 Está [Samsonite Star Wars Ultimate - Spinner M Maleta  66 cm  61.5 L  Negro  Star Wars Iconic ](https://www.amazon.es/dp/B01DM0UFCW/?tag=tolees-21) con 28.50 de descuento por 99.38 EUR (original: 139.0 EUR) en el siguiente enlace!
 
 [![Samsonite Star Wars Ultimate - Spinner M](https://m.media-amazon.com/images/I/41lv8uLNs0L._SL200_.jpg)](https://www.amazon.es/dp/B01DM0UFCW/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01DM0UFCW/?tag=tolees-21)
 

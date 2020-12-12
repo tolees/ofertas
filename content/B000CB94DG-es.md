@@ -3,6 +3,7 @@ layout: post
 title: 'MANN-FILTER C 37 153 Filtro de Aire para al 60.24 % de descuento'
 date: 2020-10-21 16:41:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/31mRT60IUCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31mRT60IUCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31mRT60IUCL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 25.33 EUR
 inStock: true
 prodname: 'MANN-FILTER C 37 153 Filtro de Aire para automóviles'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000CB94DG/?tag=tolees-21'
+descuento: '60.24'
+titulo: 'MANN-FILTER C 37 153 Filtro de Aire para'
 ---
 
 Está [MANN-FILTER C 37 153 Filtro de Aire para automóviles](https://www.amazon.es/dp/B000CB94DG/?tag=tolees-21) con 60.24 de descuento por 10.07 EUR (original: 25.33 EUR) en el siguiente enlace!
 
 [![MANN-FILTER C 37 153 Filtro de Aire para](https://m.media-amazon.com/images/I/31mRT60IUCL._SL200_.jpg)](https://www.amazon.es/dp/B000CB94DG/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B000CB94DG/?tag=tolees-21)
 

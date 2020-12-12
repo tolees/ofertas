@@ -3,6 +3,7 @@ layout: post
 title: 'PayForLess T1295 Cartuchos de Tinta para al 34.81 % de descuento'
 date: 2020-12-05 08:10:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/51x7rEbpHoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51x7rEbpHoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51x7rEbpHoL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 15.17 EUR
 inStock: true
 prodname: 'PayForLess T1295 Cartuchos de Tinta para Epson T1291 T1292 T1293 T1294 Compatible con Epson Stylus SX235W SX445W SX425W SX430W SX435W SX535WD BX305FW Plus WF-7515 6 Negro 3 Cian 3 Magenta 3 Amarillo '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0837NKW1X/?tag=tolees-21'
+descuento: '34.81'
+titulo: 'PayForLess T1295 Cartuchos de Tinta para'
 ---
 
 Está [PayForLess T1295 Cartuchos de Tinta para Epson T1291 T1292 T1293 T1294 Compatible con Epson Stylus SX235W SX445W SX425W SX430W SX435W SX535WD BX305FW Plus WF-7515 6 Negro 3 Cian 3 Magenta 3 Amarillo ](https://www.amazon.es/dp/B0837NKW1X/?tag=tolees-21) con 34.81 de descuento por 9.89 EUR (original: 15.17 EUR) en el siguiente enlace!
 
 [![PayForLess T1295 Cartuchos de Tinta para](https://m.media-amazon.com/images/I/51x7rEbpHoL._SL200_.jpg)](https://www.amazon.es/dp/B0837NKW1X/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0837NKW1X/?tag=tolees-21)
 

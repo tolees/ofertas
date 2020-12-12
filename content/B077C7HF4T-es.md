@@ -3,6 +3,7 @@ layout: post
 title: 'Converse Taylor Chuck 70 Hi  Sneaker Uni al 40.06 % de descuento'
 date: 2020-11-22 12:09:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/31LB2BDwDpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31LB2BDwDpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31LB2BDwDpL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 90.0 EUR
 inStock: true
 prodname: 'Converse Taylor Chuck 70 Hi  Sneaker Unisex Adulto  Black/Black/Egret  35 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077C7HF4T/?tag=tolees-21'
+descuento: '40.06'
+titulo: 'Converse Taylor Chuck 70 Hi  Sneaker Uni'
 ---
 
 Está [Converse Taylor Chuck 70 Hi  Sneaker Unisex Adulto  Black/Black/Egret  35 EU](https://www.amazon.es/dp/B077C7HF4T/?tag=tolees-21) con 40.06 de descuento por 53.95 EUR (original: 90.0 EUR) en el siguiente enlace!
 
 [![Converse Taylor Chuck 70 Hi  Sneaker Uni](https://m.media-amazon.com/images/I/31LB2BDwDpL._SL200_.jpg)](https://www.amazon.es/dp/B077C7HF4T/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B077C7HF4T/?tag=tolees-21)
 

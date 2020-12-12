@@ -28,8 +28,8 @@ Está [Edge Entertainment-El Rastro de Cthulhu mentiras eternas: Caja de campañ
 
 Principales características:
 
-- El rastro de cthulhu mentiras eternas: caja de campaña - español.
 - Juego de rol.
+- El rastro de cthulhu mentiras eternas: caja de campaña - español.
 - Caja de campaña para el rastro de cthulhu.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B076CVTNDS/?tag=tolees-21)

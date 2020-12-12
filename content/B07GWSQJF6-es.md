@@ -3,6 +3,7 @@ layout: post
 title: 'Pack: Erase Una Vez + Temporada Completa al 53.86 % de descuento'
 date: 2020-11-25 06:43:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/51+WxiR-uqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51+WxiR-uqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51+WxiR-uqL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 73.67 EUR
 inStock: true
 prodname: 'Pack: Erase Una Vez + Temporada Completa 1-7 [DVD]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07GWSQJF6/?tag=tolees-21'
+descuento: '53.86'
+titulo: 'Pack: Erase Una Vez + Temporada Completa'
 ---
 
 Está [Pack: Erase Una Vez + Temporada Completa 1-7 [DVD]](https://www.amazon.es/dp/B07GWSQJF6/?tag=tolees-21) con 53.86 de descuento por 33.99 EUR (original: 73.67 EUR) en el siguiente enlace!
 
 [![Pack: Erase Una Vez + Temporada Completa](https://m.media-amazon.com/images/I/51+WxiR-uqL._SL200_.jpg)](https://www.amazon.es/dp/B07GWSQJF6/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07GWSQJF6/?tag=tolees-21)
 

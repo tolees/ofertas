@@ -3,6 +3,7 @@ layout: post
 title: 'PIKOLINOS Sandalia Plana de Piel CADAQUE al 68.02 % de descuento'
 date: 2020-12-09 05:36:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/41U+C2w-uHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41U+C2w-uHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41U+C2w-uHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'PIKOLINOS Sandalia Plana de Piel CADAQUES W8K'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07VXJJL6V/?tag=tolees-21'
+descuento: '68.02'
+titulo: 'PIKOLINOS Sandalia Plana de Piel CADAQUE'
 ---
 
 Está [PIKOLINOS Sandalia Plana de Piel CADAQUES W8K](https://www.amazon.es/dp/B07VXJJL6V/?tag=tolees-21) con 68.02 de descuento por 31.96 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![PIKOLINOS Sandalia Plana de Piel CADAQUE](https://m.media-amazon.com/images/I/41U+C2w-uHL._SL200_.jpg)](https://www.amazon.es/dp/B07VXJJL6V/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07VXJJL6V/?tag=tolees-21)
 

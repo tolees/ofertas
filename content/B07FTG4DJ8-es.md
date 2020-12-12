@@ -3,6 +3,7 @@ layout: post
 title: 'Microsoft Signature Type Cover - Funda c al 46.36 % de descuento'
 date: 2020-12-10 20:24:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Qa8iIdbZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Qa8iIdbZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Qa8iIdbZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 109.99 EUR
 inStock: true
 prodname: 'Microsoft Signature Type Cover - Funda con teclado para Surface Go  Burdeos - Teclado QWERTY Español'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FTG4DJ8/?tag=tolees-21'
+descuento: '46.36'
+titulo: 'Microsoft Signature Type Cover - Funda c'
 ---
 
 Está [Microsoft Signature Type Cover - Funda con teclado para Surface Go  Burdeos - Teclado QWERTY Español](https://www.amazon.es/dp/B07FTG4DJ8/?tag=tolees-21) con 46.36 de descuento por 59.0 EUR (original: 109.99 EUR) en el siguiente enlace!
@@ -25,10 +29,10 @@ Está [Microsoft Signature Type Cover - Funda con teclado para Surface Go  Burde
 Principales características:
 
 - Complementa tu propio gusto y estilo personal con una selección de colores intensos; compatible con Surface Go
-- Agrega un toque de elegancia a las tareas cotidianas en su dispositivo Surface Go con una cubierta de material Alcántara ultrasuave y lisa como la gamuza, pero increíblemente duradera y resistente a las manchas
-- Compatible con dispositivos Surface Pro 7, Surface Pro 3, Surface Pro 4, Surface Pro 5 y Surface Pro 6
 - Ultra delgado, pero funciona como un teclado portátil tradicional completo; cuando está cerrado, protege tu pantalla Surface Go y apaga la pantalla, manteniendo la duración de la batería
+- Compatible con dispositivos Surface Pro 7, Surface Pro 3, Surface Pro 4, Surface Pro 5 y Surface Pro 6
 - Estabilidad magnética mejorada: se adapta a prácticamente cualquier ángulo con un espaciado de clave óptimo para una escritura rápida y fluida con retroiluminación LED y un trackpad de cristal grande para un control y navegación precisos
+- Agrega un toque de elegancia a las tareas cotidianas en su dispositivo Surface Go con una cubierta de material Alcántara ultrasuave y lisa como la gamuza, pero increíblemente duradera y resistente a las manchas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FTG4DJ8/?tag=tolees-21)
 

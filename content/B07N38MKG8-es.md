@@ -3,6 +3,7 @@ layout: post
 title: 'First 4 Figures- PVC Estatua  Multicolor al 30.32 % de descuento'
 date: 2020-10-27 13:37:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Oy4U0ijHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Oy4U0ijHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Oy4U0ijHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 75.0 EUR
 inStock: true
 prodname: 'First 4 Figures- PVC Estatua  Multicolor  5060316621783 '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N38MKG8/?tag=tolees-21'
+descuento: '30.32'
+titulo: 'First 4 Figures- PVC Estatua  Multicolor'
 ---
 
 Ahora mismo tienes [First 4 Figures- PVC Estatua  Multicolor  5060316621783 ](https://www.amazon.es/dp/B07N38MKG8/?tag=tolees-21) a 52.26 EUR (original: 75.0 EUR) (30.32 %  de descuento) en el siguiente enlace!
 
 [![First 4 Figures- PVC Estatua  Multicolor](https://m.media-amazon.com/images/I/51Oy4U0ijHL._SL200_.jpg)](https://www.amazon.es/dp/B07N38MKG8/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07N38MKG8/?tag=tolees-21)
 

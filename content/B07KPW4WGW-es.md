@@ -3,6 +3,7 @@ layout: post
 title: 'Pop! Vinilo: Disney: The Lion King: Scar al 41.02 % de descuento'
 date: 2020-11-07 20:08:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41euQy4Ry4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41euQy4Ry4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41euQy4Ry4L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 16.7 EUR
 inStock: true
 prodname: 'Pop! Vinilo: Disney: The Lion King: Scar'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KPW4WGW/?tag=tolees-21'
+descuento: '41.02'
+titulo: 'Pop! Vinilo: Disney: The Lion King: Scar'
 ---
 
 Ahora mismo tienes [Pop! Vinilo: Disney: The Lion King: Scar](https://www.amazon.es/dp/B07KPW4WGW/?tag=tolees-21) a 9.85 EUR (original: 16.7 EUR) (41.02 %  de descuento) en el siguiente enlace!
 
 [![Pop! Vinilo: Disney: The Lion King: Scar](https://m.media-amazon.com/images/I/41euQy4Ry4L._SL200_.jpg)](https://www.amazon.es/dp/B07KPW4WGW/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07KPW4WGW/?tag=tolees-21)
 

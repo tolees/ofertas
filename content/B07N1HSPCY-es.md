@@ -3,6 +3,7 @@ layout: post
 title: 'Superga 2730-cotu  Zapatillas de Gimnasi al 84.80 % de descuento'
 date: 2020-11-29 04:27:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/31FdJdhEWCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31FdJdhEWCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31FdJdhEWCL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 69.0 EUR
 inStock: true
 prodname: 'Superga 2730-cotu  Zapatillas de Gimnasia Mujer  Negro  Full Black 996   43 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07N1HSPCY/?tag=tolees-21'
+descuento: '84.80'
+titulo: 'Superga 2730-cotu  Zapatillas de Gimnasi'
 ---
 
 Ahora mismo tienes [Superga 2730-cotu  Zapatillas de Gimnasia Mujer  Negro  Full Black 996   43 EU](https://www.amazon.es/dp/B07N1HSPCY/?tag=tolees-21) a 10.49 EUR (original: 69.0 EUR) (84.80 %  de descuento) en el siguiente enlace!
 
 [![Superga 2730-cotu  Zapatillas de Gimnasi](https://m.media-amazon.com/images/I/31FdJdhEWCL._SL200_.jpg)](https://www.amazon.es/dp/B07N1HSPCY/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07N1HSPCY/?tag=tolees-21)
 

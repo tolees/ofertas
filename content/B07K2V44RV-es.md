@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Runfalcon  Running Shoe para Homb al 31.91 % de descuento'
 date: 2020-11-06 21:45:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/416GarsmCoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416GarsmCoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416GarsmCoL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 49.95 EUR
 inStock: true
 prodname: 'adidas Runfalcon  Running Shoe para Hombre  Negro  Core Black/Core Black/Core Black   40 2/3 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07K2V44RV/?tag=tolees-21'
+descuento: '31.91'
+titulo: 'adidas Runfalcon  Running Shoe para Homb'
 ---
 
 Ahora mismo tienes [adidas Runfalcon  Running Shoe para Hombre  Negro  Core Black/Core Black/Core Black   40 2/3 EU](https://www.amazon.es/dp/B07K2V44RV/?tag=tolees-21) a 34.01 EUR (original: 49.95 EUR) (31.91 %  de descuento) en el siguiente enlace!
 
 [![adidas Runfalcon  Running Shoe para Homb](https://m.media-amazon.com/images/I/416GarsmCoL._SL200_.jpg)](https://www.amazon.es/dp/B07K2V44RV/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B07K2V44RV/?tag=tolees-21)
 

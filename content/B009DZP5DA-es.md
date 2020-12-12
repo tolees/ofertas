@@ -3,6 +3,7 @@ layout: post
 title: 'Drive Medical 10370BLK-6 -Bastón plegabl al 35.95 % de descuento'
 date: 2020-11-13 11:00:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/214duzCETdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/214duzCETdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/214duzCETdL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 26.12 EUR
 inStock: true
 prodname: 'Drive Medical 10370BLK-6 -Bastón plegable con mango de gel  color negro'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B009DZP5DA/?tag=tolees-21'
+descuento: '35.95'
+titulo: 'Drive Medical 10370BLK-6 -Bastón plegabl'
 ---
 
 Ahora mismo tienes [Drive Medical 10370BLK-6 -Bastón plegable con mango de gel  color negro](https://www.amazon.es/dp/B009DZP5DA/?tag=tolees-21) a 16.73 EUR (original: 26.12 EUR) (35.95 %  de descuento) en el siguiente enlace!
 
 [![Drive Medical 10370BLK-6 -Bastón plegabl](https://m.media-amazon.com/images/I/214duzCETdL._SL200_.jpg)](https://www.amazon.es/dp/B009DZP5DA/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B009DZP5DA/?tag=tolees-21)
 

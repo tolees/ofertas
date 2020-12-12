@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.24 % en Pop Movie Moment: Star Wars The Rise of '
 date: 2020-12-10 21:29:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/41zMLQknpkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zMLQknpkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41zMLQknpkL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 32.49 EUR
 inStock: true
 prodname: 'Pop Movie Moment: Star Wars The Rise of Skywalker - First Order Tread Speeder'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07QSBWY5K/?tag=tolees-21'
+descuento: '29.24'
+titulo: 'Pop Movie Moment: Star Wars The Rise of '
 ---
 
 Tienes [Pop Movie Moment: Star Wars The Rise of Skywalker - First Order Tread Speeder](https://www.amazon.es/dp/B07QSBWY5K/?tag=tolees-21) con un 29.24 % de descuento con precio de oferta de 22.99 EUR (original: 32.49 EUR) en el siguiente enlace!
@@ -25,10 +29,10 @@ Tienes [Pop Movie Moment: Star Wars The Rise of Skywalker - First Order Tread Sp
 Características principales:
 
 - Disney star wars
-- Descúbre otras figuras de la colección disney star wars y colecciónalas todas
 - De la colección star wars the rise of skywalker, first order tread speeder como figura exclusiva de vinilo pop movie moment de funko
 - La figura mide 9 cm y se envía en una caja ilustrada con ventana
 - First order tread speeder
+- Descúbre otras figuras de la colección disney star wars y colecciónalas todas
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07QSBWY5K/?tag=tolees-21)
 

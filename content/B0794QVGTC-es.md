@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Sure Track-Erath-II  Mujer  Neg al 30.97 % de descuento'
 date: 2020-12-08 06:05:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/31TzeG8rA1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31TzeG8rA1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31TzeG8rA1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 84.95 EUR
 inStock: true
 prodname: 'Skechers Sure Track-Erath-II  Mujer  Negro  BLK Black Leather   37 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B0794QVGTC/?tag=tolees-21'
+descuento: '30.97'
+titulo: 'Skechers Sure Track-Erath-II  Mujer  Neg'
 ---
 
 Ahora mismo tienes [Skechers Sure Track-Erath-II  Mujer  Negro  BLK Black Leather   37 EU](https://www.amazon.es/dp/B0794QVGTC/?tag=tolees-21) a 58.64 EUR (original: 84.95 EUR) (30.97 %  de descuento) en el siguiente enlace!
 
 [![Skechers Sure Track-Erath-II  Mujer  Neg](https://m.media-amazon.com/images/I/31TzeG8rA1L._SL200_.jpg)](https://www.amazon.es/dp/B0794QVGTC/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B0794QVGTC/?tag=tolees-21)
 

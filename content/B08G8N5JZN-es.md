@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.13 % en Herramienta de acristalamiento artesanal'
 date: 2020-11-23 20:01:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/31zmZKtZE0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31zmZKtZE0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31zmZKtZE0L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 2.29 EUR
 inStock: true
 prodname: 'Herramienta de acristalamiento artesanal de corte de corte de vidrio con punta de alimentación de aceite autolubricante con mango de Metal profesional'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08G8N5JZN/?tag=tolees-21'
+descuento: '30.13'
+titulo: 'Herramienta de acristalamiento artesanal'
 ---
 
 Tienes [Herramienta de acristalamiento artesanal de corte de corte de vidrio con punta de alimentación de aceite autolubricante con mango de Metal profesional](https://www.amazon.es/dp/B08G8N5JZN/?tag=tolees-21) con un 30.13 % de descuento con precio de oferta de 1.6 EUR (original: 2.29 EUR) en el siguiente enlace!
 
 [![Herramienta de acristalamiento artesanal](https://m.media-amazon.com/images/I/31zmZKtZE0L._SL200_.jpg)](https://www.amazon.es/dp/B08G8N5JZN/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08G8N5JZN/?tag=tolees-21)
 

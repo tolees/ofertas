@@ -3,6 +3,7 @@ layout: post
 title: 'CREATE IKOHS ELECTRIC FIRE - Chimenea El al 30.00 % de descuento'
 date: 2020-11-24 12:04:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Tr2Oe1dtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Tr2Oe1dtL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Tr2Oe1dtL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 206.95 EUR
 inStock: true
 prodname: 'CREATE IKOHS ELECTRIC FIRE - Chimenea Eléctrica de pantalla curva  Electric fire - L 35" '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08LNCH5B9/?tag=tolees-21'
+descuento: '30.00'
+titulo: 'CREATE IKOHS ELECTRIC FIRE - Chimenea El'
 ---
 
 Está [CREATE IKOHS ELECTRIC FIRE - Chimenea Eléctrica de pantalla curva  Electric fire - L 35" ](https://www.amazon.es/dp/B08LNCH5B9/?tag=tolees-21) con 30.00 de descuento por 144.87 EUR (original: 206.95 EUR) en el siguiente enlace!
 
 [![CREATE IKOHS ELECTRIC FIRE - Chimenea El](https://m.media-amazon.com/images/I/31Tr2Oe1dtL._SL200_.jpg)](https://www.amazon.es/dp/B08LNCH5B9/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08LNCH5B9/?tag=tolees-21)
 

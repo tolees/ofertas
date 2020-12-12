@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.98 % en BOSS Schino-Slim Shorts Pantalones Corto'
 date: 2020-10-22 17:31:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/31v-MFWKYcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31v-MFWKYcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31v-MFWKYcL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'BOSS Schino-Slim Shorts Pantalones Cortos  Beige  Open Beige 280   W33  Talla del Fabricante: 33  para Hombre'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07VC39WR2/?tag=tolees-21'
+descuento: '29.98'
+titulo: 'BOSS Schino-Slim Shorts Pantalones Corto'
 ---
 
 Tienes [BOSS Schino-Slim Shorts Pantalones Cortos  Beige  Open Beige 280   W33  Talla del Fabricante: 33  para Hombre](https://www.amazon.es/dp/B07VC39WR2/?tag=tolees-21) con un 29.98 % de descuento con precio de oferta de 62.98 EUR (original: 89.95 EUR) en el siguiente enlace!
 
 [![BOSS Schino-Slim Shorts Pantalones Corto](https://m.media-amazon.com/images/I/31v-MFWKYcL._SL200_.jpg)](https://www.amazon.es/dp/B07VC39WR2/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07VC39WR2/?tag=tolees-21)
 

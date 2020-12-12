@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.01 % en Kodak Printomatic - Cámara de impresión '
 date: 2020-11-17 22:55:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41prn1+5UXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41prn1+5UXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41prn1+5UXL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Kodak Printomatic - Cámara de impresión instantánea  imprime en Papel Zink 5 x 7.6 cm con respaldo adhesivo  amarillo'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B075WXBGP6/?tag=tolees-21'
+descuento: '50.01'
+titulo: 'Kodak Printomatic - Cámara de impresión '
 ---
 
 Tienes [Kodak Printomatic - Cámara de impresión instantánea  imprime en Papel Zink 5 x 7.6 cm con respaldo adhesivo  amarillo](https://www.amazon.es/dp/B075WXBGP6/?tag=tolees-21) con un 50.01 % de descuento con precio de oferta de 49.99 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![Kodak Printomatic - Cámara de impresión ](https://m.media-amazon.com/images/I/41prn1+5UXL._SL200_.jpg)](https://www.amazon.es/dp/B075WXBGP6/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B075WXBGP6/?tag=tolees-21)
 

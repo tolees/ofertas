@@ -3,6 +3,7 @@ layout: post
 title: 'BLACK+DECKER A7144 - Kit de herramientas al 41.30 % de descuento'
 date: 2020-10-29 20:49:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41GpWyQ6kpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41GpWyQ6kpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41GpWyQ6kpL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'BLACK+DECKER A7144 - Kit de herramientas para automóviles'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B003BUAE70/?tag=tolees-21'
+descuento: '41.30'
+titulo: 'BLACK+DECKER A7144 - Kit de herramientas'
 ---
 
 Está [BLACK+DECKER A7144 - Kit de herramientas para automóviles](https://www.amazon.es/dp/B003BUAE70/?tag=tolees-21) con 41.30 de descuento por 23.45 EUR (original: 39.95 EUR) en el siguiente enlace!
 
 [![BLACK+DECKER A7144 - Kit de herramientas](https://m.media-amazon.com/images/I/41GpWyQ6kpL._SL200_.jpg)](https://www.amazon.es/dp/B003BUAE70/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B003BUAE70/?tag=tolees-21)
 

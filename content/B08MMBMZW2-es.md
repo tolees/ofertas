@@ -3,6 +3,7 @@ layout: post
 title: 'King C Gillette Set De Regalo Para Hombr al 30.01 % de descuento'
 date: 2020-12-10 13:08:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/51vlLz-iH3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51vlLz-iH3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51vlLz-iH3L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'King C Gillette Set De Regalo Para Hombre: Máquina De Afeitar Para Cuello + 3 Rec + Gel De Afeitar Transp.+ Gel Limpiador Barba Y Rostro + Aceite Para Barba + Peine Barba + Soporte Máquina Afeitar'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B08MMBMZW2/?tag=tolees-21'
+descuento: '30.01'
+titulo: 'King C Gillette Set De Regalo Para Hombr'
 ---
 
 Está [King C Gillette Set De Regalo Para Hombre: Máquina De Afeitar Para Cuello + 3 Rec + Gel De Afeitar Transp.+ Gel Limpiador Barba Y Rostro + Aceite Para Barba + Peine Barba + Soporte Máquina Afeitar](https://www.amazon.es/dp/B08MMBMZW2/?tag=tolees-21) con 30.01 de descuento por 34.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![King C Gillette Set De Regalo Para Hombr](https://m.media-amazon.com/images/I/51vlLz-iH3L._SL200_.jpg)](https://www.amazon.es/dp/B08MMBMZW2/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08MMBMZW2/?tag=tolees-21)
 

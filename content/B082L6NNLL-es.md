@@ -3,6 +3,7 @@ layout: post
 title: 'Neutrogena Spot Controlling Limpiador Fa al 27.27 % de descuento'
 date: 2020-11-02 09:09:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ZuWGBmpvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZuWGBmpvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ZuWGBmpvL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 15.4 EUR
 inStock: true
 prodname: 'Neutrogena Spot Controlling Limpiador Facial  Granos Persistentes  200ml'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B082L6NNLL/?tag=tolees-21'
+descuento: '27.27'
+titulo: 'Neutrogena Spot Controlling Limpiador Fa'
 ---
 
 Está [Neutrogena Spot Controlling Limpiador Facial  Granos Persistentes  200ml](https://www.amazon.es/dp/B082L6NNLL/?tag=tolees-21) con 27.27 de descuento por 11.2 EUR (original: 15.4 EUR) en el siguiente enlace!
 
 [![Neutrogena Spot Controlling Limpiador Fa](https://m.media-amazon.com/images/I/41ZuWGBmpvL._SL200_.jpg)](https://www.amazon.es/dp/B082L6NNLL/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B082L6NNLL/?tag=tolees-21)
 

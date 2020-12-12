@@ -3,6 +3,7 @@ layout: post
 title: 'Imetec Zero-Glu - Panificadora  20 Progr al 29.65 % de descuento'
 date: 2020-11-23 23:53:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Kin2Hy-4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Kin2Hy-4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Kin2Hy-4L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 199.0 EUR
 inStock: true
 prodname: 'Imetec Zero-Glu - Panificadora  20 Programas Pan y Dulces  sin Gluten  Accesorios para 3 Formas de Pan  Temporizador Digital  Libro de Cocina  Capacidad 1 kg  Amasar  Levadura y Hornear  920 vatios'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00KU2O2R0/?tag=tolees-21'
+descuento: '29.65'
+titulo: 'Imetec Zero-Glu - Panificadora  20 Progr'
 ---
 
 Está [Imetec Zero-Glu - Panificadora  20 Programas Pan y Dulces  sin Gluten  Accesorios para 3 Formas de Pan  Temporizador Digital  Libro de Cocina  Capacidad 1 kg  Amasar  Levadura y Hornear  920 vatios](https://www.amazon.es/dp/B00KU2O2R0/?tag=tolees-21) con 29.65 de descuento por 139.99 EUR (original: 199.0 EUR) en el siguiente enlace!
 
 [![Imetec Zero-Glu - Panificadora  20 Progr](https://m.media-amazon.com/images/I/41Kin2Hy-4L._SL200_.jpg)](https://www.amazon.es/dp/B00KU2O2R0/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00KU2O2R0/?tag=tolees-21)
 

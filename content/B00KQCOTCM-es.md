@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.02 % en HyperX Impact HX316LS9IB/8 Memoria RAM 1'
 date: 2020-10-29 15:14:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/41iR5muBtSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41iR5muBtSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41iR5muBtSL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 57.99 EUR
 inStock: true
 prodname: 'HyperX Impact HX316LS9IB/8 Memoria RAM 1600 MHz DDR3L CL9 SODIMM 1.35 V  8 GB'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00KQCOTCM/?tag=tolees-21'
+descuento: '32.02'
+titulo: 'HyperX Impact HX316LS9IB/8 Memoria RAM 1'
 ---
 
 Tienes [HyperX Impact HX316LS9IB/8 Memoria RAM 1600 MHz DDR3L CL9 SODIMM 1.35 V  8 GB](https://www.amazon.es/dp/B00KQCOTCM/?tag=tolees-21) con un 32.02 % de descuento con precio de oferta de 39.42 EUR (original: 57.99 EUR) en el siguiente enlace!
 
 [![HyperX Impact HX316LS9IB/8 Memoria RAM 1](https://m.media-amazon.com/images/I/41iR5muBtSL._SL200_.jpg)](https://www.amazon.es/dp/B00KQCOTCM/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00KQCOTCM/?tag=tolees-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'FILA Disruptor  Zapatillas Mujer  Black  al 53.62 % de descuento'
 date: 2020-11-05 11:49:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41OB1NNanIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41OB1NNanIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41OB1NNanIL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'FILA Disruptor  Zapatillas Mujer  Black  42 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B077XYZRDY/?tag=tolees-21'
+descuento: '53.62'
+titulo: 'FILA Disruptor  Zapatillas Mujer  Black '
 ---
 
 Ahora mismo tienes [FILA Disruptor  Zapatillas Mujer  Black  42 EU](https://www.amazon.es/dp/B077XYZRDY/?tag=tolees-21) a 46.36 EUR (original: 99.95 EUR) (53.62 %  de descuento) en el siguiente enlace!
 
 [![FILA Disruptor  Zapatillas Mujer  Black ](https://m.media-amazon.com/images/I/41OB1NNanIL._SL200_.jpg)](https://www.amazon.es/dp/B077XYZRDY/?tag=tolees-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.es/dp/B077XYZRDY/?tag=tolees-21)
 

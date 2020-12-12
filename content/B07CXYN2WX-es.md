@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.92 % en Salvar Al Soldado Ryan [4K UHD + Blu-ray'
 date: 2020-11-24 06:29:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/51BkSrIsm-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51BkSrIsm-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51BkSrIsm-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 25.98 EUR
 inStock: true
 prodname: 'Salvar Al Soldado Ryan [4K UHD + Blu-ray] [Blu-ray]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CXYN2WX/?tag=tolees-21'
+descuento: '51.92'
+titulo: 'Salvar Al Soldado Ryan [4K UHD + Blu-ray'
 ---
 
 Tienes [Salvar Al Soldado Ryan [4K UHD + Blu-ray] [Blu-ray]](https://www.amazon.es/dp/B07CXYN2WX/?tag=tolees-21) con un 51.92 % de descuento con precio de oferta de 12.49 EUR (original: 25.98 EUR) en el siguiente enlace!
 
 [![Salvar Al Soldado Ryan [4K UHD + Blu-ray](https://m.media-amazon.com/images/I/51BkSrIsm-L._SL200_.jpg)](https://www.amazon.es/dp/B07CXYN2WX/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CXYN2WX/?tag=tolees-21)
 

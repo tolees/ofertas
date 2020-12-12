@@ -3,6 +3,7 @@ layout: post
 title: 'Crash Team Racing Nitro Fueled al 50.24 % de descuento'
 date: 2020-11-22 08:03:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/513Xd1nBexL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/513Xd1nBexL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/513Xd1nBexL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Crash Team Racing Nitro Fueled'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07LFMMSHK/?tag=tolees-21'
+descuento: '50.24'
+titulo: 'Crash Team Racing Nitro Fueled'
 ---
 
 Está [Crash Team Racing Nitro Fueled](https://www.amazon.es/dp/B07LFMMSHK/?tag=tolees-21) con 50.24 de descuento por 19.9 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![Crash Team Racing Nitro Fueled](https://m.media-amazon.com/images/I/513Xd1nBexL._SL200_.jpg)](https://www.amazon.es/dp/B07LFMMSHK/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07LFMMSHK/?tag=tolees-21)
 

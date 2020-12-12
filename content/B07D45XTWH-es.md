@@ -3,6 +3,7 @@ layout: post
 title: 'find. Leather Lace Up Botas camperas Hom al 66.88 % de descuento'
 date: 2020-11-05 23:45:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/31PfGXedp8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31PfGXedp8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31PfGXedp8L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 77.35 EUR
 inStock: true
 prodname: 'find. Leather Lace Up Botas camperas Hombre  Marrón  Brown Brown   47 EU'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07D45XTWH/?tag=tolees-21'
+descuento: '66.88'
+titulo: 'find. Leather Lace Up Botas camperas Hom'
 ---
 
 Está [find. Leather Lace Up Botas camperas Hombre  Marrón  Brown Brown   47 EU](https://www.amazon.es/dp/B07D45XTWH/?tag=tolees-21) con 66.88 de descuento por 25.62 EUR (original: 77.35 EUR) en el siguiente enlace!
 
 [![find. Leather Lace Up Botas camperas Hom](https://m.media-amazon.com/images/I/31PfGXedp8L._SL200_.jpg)](https://www.amazon.es/dp/B07D45XTWH/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07D45XTWH/?tag=tolees-21)
 

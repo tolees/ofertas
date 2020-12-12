@@ -3,6 +3,7 @@ layout: post
 title: 'homyl Presostato señal de Metal de pilot al 44.43 % de descuento'
 date: 2020-11-01 13:02:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ieQw81qCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ieQw81qCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ieQw81qCL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 10.78 EUR
 inStock: true
 prodname: 'homyl Presostato señal de Metal de piloto AC 250 V 5 A tornillo termianls'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07KC9DG9X/?tag=tolees-21'
+descuento: '44.43'
+titulo: 'homyl Presostato señal de Metal de pilot'
 ---
 
 Está [homyl Presostato señal de Metal de piloto AC 250 V 5 A tornillo termianls](https://www.amazon.es/dp/B07KC9DG9X/?tag=tolees-21) con 44.43 de descuento por 5.99 EUR (original: 10.78 EUR) en el siguiente enlace!
 
 [![homyl Presostato señal de Metal de pilot](https://m.media-amazon.com/images/I/41ieQw81qCL._SL200_.jpg)](https://www.amazon.es/dp/B07KC9DG9X/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KC9DG9X/?tag=tolees-21)
 

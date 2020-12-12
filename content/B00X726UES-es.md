@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.96 % en MAGO: La impresionante Vida y Obra de Or'
 date: 2020-11-29 07:59:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41L2K3vvmfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41L2K3vvmfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41L2K3vvmfL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'MAGO: La impresionante Vida y Obra de Orson Welles [DVD]'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B00X726UES/?tag=tolees-21'
+descuento: '49.96'
+titulo: 'MAGO: La impresionante Vida y Obra de Or'
 ---
 
 Tienes [MAGO: La impresionante Vida y Obra de Orson Welles [DVD]](https://www.amazon.es/dp/B00X726UES/?tag=tolees-21) con un 49.96 % de descuento con precio de oferta de 6.5 EUR (original: 12.99 EUR) en el siguiente enlace!
 
 [![MAGO: La impresionante Vida y Obra de Or](https://m.media-amazon.com/images/I/41L2K3vvmfL._SL200_.jpg)](https://www.amazon.es/dp/B00X726UES/?tag=tolees-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00X726UES/?tag=tolees-21)
 
