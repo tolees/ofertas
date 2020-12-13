@@ -25,9 +25,9 @@ Está [Wrangler Texas Contrast Vaqueros  Azul  Best Rocks 36b   42W / 34L para H
 ℹ️:
 
 - derecha.
+- Hombre.
 - El modelo Wrangler más popular
 - Jeans.
-- Hombre.
 - Con cremallera de garantía
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TSFFGXY/?tag=tolees-21)

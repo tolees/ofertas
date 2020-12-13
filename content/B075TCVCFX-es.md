@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.76 % en Catit Juguete Interactivo Tumbler Bee'
-date: 2020-12-11 19:15:28
+date: 2020-12-13 20:20:24
 image: 'https://m.media-amazon.com/images/I/315rAo-IDDL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,7 +25,7 @@ Tienes [Catit Juguete Interactivo Tumbler Bee](https://www.amazon.es/dp/B075TCVC
 ℹ️:
 
 - Producto para gatos
-- Catit Juguete Interactivo Tumbler Bee
 - Catit Play Tumbler Bee Juguete Interactivo
+- Catit Juguete Interactivo Tumbler Bee
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B075TCVCFX/?tag=tolees-21)

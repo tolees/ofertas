@@ -24,10 +24,10 @@ Está [Dragon Ball Z: Kakarot - Edición Coleccionista](https://www.amazon.es/dp
 
 ℹ️:
 
-- Diorama exclusivo (20x20x20)
-- Mapa del Hub
-- Libro de Arte
 - Season Pass
+- Diorama exclusivo (20x20x20)
+- Libro de Arte
 - Steelbook
+- Mapa del Hub
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07XTMNMFC/?tag=tolees-21)

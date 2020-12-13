@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fossil Reloj Cronógrafo para Hombre de C al 30.82 % de descuento'
-date: 2020-11-18 08:08:51
+date: 2020-12-13 20:40:50
 image: 'https://m.media-amazon.com/images/I/51mjei1LqTL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,10 @@ Está [Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero FS4835
 
 ℹ️:
 
+- Se presenta en caja de regalo Fossil
+- Correa de piel azul
+- Caja de 44 mm, correa de 22 mm de ancho, cristal mineral, movimiento de cuarzo con pantalla analógica de cronógrafo
+- Resistente al agua hasta 50 m: apto para nadar en aguas poco profundas
+- Caja redonda de acero inoxidable en tono oro rosa con esfera en color azul
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07HYT6TCD/?tag=tolees-21)

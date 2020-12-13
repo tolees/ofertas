@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Tazon 6 FM  Zapatillas de Cross Hom al 27.37 % de descuento'
-date: 2020-12-09 15:43:17
+date: 2020-12-13 20:54:17
 image: 'https://m.media-amazon.com/images/I/41b+ggHy-TL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,8 @@ Está [PUMA Tazon 6 FM  Zapatillas de Cross Hombre  Blanco  White/Black Silver  
 
 ℹ️:
 
+- White
+- adulto
+- Textile, Synthetic
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01H4CWAG8/?tag=tolees-21)
