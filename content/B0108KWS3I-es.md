@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 60.67 % en Cmp-Paris CMKB5691 Limpia VITROCERÁMICA '
-date: 2020-12-10 14:49:51
+date: 2020-12-13 08:08:29
 image: 'https://m.media-amazon.com/images/I/3160rWs3W3L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,7 @@ Tienes [Cmp-Paris CMKB5691 Limpia VITROCERÁMICA C/5 RECA  Aleatorio  13.8x5.3x0
 
 ℹ️:
 
+- A company with 60 years of history
+Designer, supplier and importer of products to equip houses and people.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0108KWS3I/?tag=tolees-21)

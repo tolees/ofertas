@@ -24,10 +24,10 @@ Ahora mismo tienes [PUMA 655924 04 XL Pantalones  Hombre  Azul  Aquarius/Black  
 
 🔎:
 
-- Corte ajustado
-- Material de compresión para mejorar el rendimiento
-- Diseño ligero
-- DryCELL: material altamente funcional que evacúa el sudor
 - Tejido de elastano para una elasticidad duradera
+- Diseño ligero
+- Material de compresión para mejorar el rendimiento
+- DryCELL: material altamente funcional que evacúa el sudor
+- Corte ajustado
 
 [Visítala!!!](https://www.amazon.es/dp/B077SRPMZR/?tag=tolees-21)

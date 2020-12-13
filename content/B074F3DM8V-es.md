@@ -24,10 +24,10 @@ Está [Orbegozo CG 4024 - Cafetera goteo  capacidad para 15 tazas  jarra de crit
 
 ℹ️:
 
-- Filtro permanente extraíble
 - Cafetera de goteo con capacidad 15 tazas
-- Mantiene el café caliente hasta 30 minutos
-- Depósito con indicador de nivel de agua
+- Filtro permanente extraíble
 - Piloto luminoso de funcionamiento
+- Depósito con indicador de nivel de agua
+- Mantiene el café caliente hasta 30 minutos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B074F3DM8V/?tag=tolees-21)

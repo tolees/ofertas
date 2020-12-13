@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SD toys - The Big Bang Theory  Disfraz F al 33.98 % de descuento'
-date: 2020-12-07 14:29:53
+date: 2020-12-13 08:17:55
 image: 'https://m.media-amazon.com/images/I/41AacuqKjjL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,9 @@ Está [SD toys - The Big Bang Theory  Disfraz Flash Protagonistas  Taza de cerá
 
 ℹ️:
 
+- Peso del Paquete: 1.014 pounds
+- Fácil de usar
+- Taza con motivos de The Big Bang Theory
+- Merchandising oficial de The Big Bang Theory
 
 [Ver la oferta!!](https://www.amazon.es/dp/B009DZJBT4/?tag=tolees-21)

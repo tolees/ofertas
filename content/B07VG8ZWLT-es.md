@@ -24,10 +24,10 @@ Tienes [Goliath Unicornio Party. Giralo para marearlo y Que Lance arcoíris  Mul
 
 ℹ️:
 
-- Cuanta más serpentina lance mejor lo haréis; además, incluye una piruleta que puedes colocar en su pezuña para no mancharte de serpentina; es el unicornio más divertido
-- Unicornio party es un emocionante juego para niños a partir de 4 años que desarrolla la sociabilidad y el trabajo en equipo al tener que conseguir juntos un mismo objetivo.un divertido juego infantil de 2 a 4 jugadores con el que tendrán entretenimiento para rato.contenido: 1 unicornio, 1 bote de serpentina, 1 ruleta e instrucciones
-- Hazlo girar y aprieta su cuerno tantas veces como te diga la ruleta; si consigues que se maree y lance serpentina estás de suerte colócala encima del arcoíris para ir completándolo; gira, gira y gira hasta que consigáis marearlo todos juntos tendréis que conseguir completar el arcoíris
-- Ups este unicornio se ha comido parte del arcoíris y tú y tus amigos tendréis que darle vueltas para conseguir recuperar los trozos que faltan
 - Gira a este unicornio para marearlo y que lance arcoíris
+- Unicornio party es un emocionante juego para niños a partir de 4 años que desarrolla la sociabilidad y el trabajo en equipo al tener que conseguir juntos un mismo objetivo.un divertido juego infantil de 2 a 4 jugadores con el que tendrán entretenimiento para rato.contenido: 1 unicornio, 1 bote de serpentina, 1 ruleta e instrucciones
+- Ups este unicornio se ha comido parte del arcoíris y tú y tus amigos tendréis que darle vueltas para conseguir recuperar los trozos que faltan
+- Hazlo girar y aprieta su cuerno tantas veces como te diga la ruleta; si consigues que se maree y lance serpentina estás de suerte colócala encima del arcoíris para ir completándolo; gira, gira y gira hasta que consigáis marearlo todos juntos tendréis que conseguir completar el arcoíris
+- Cuanta más serpentina lance mejor lo haréis; además, incluye una piruleta que puedes colocar en su pezuña para no mancharte de serpentina; es el unicornio más divertido
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07VG8ZWLT/?tag=tolees-21)

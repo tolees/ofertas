@@ -24,12 +24,12 @@ Está [Salomon XA Pro 3D CSWP J  Zapatillas de Deporte Unisex Adulto  Azul Navy 
 
 ℹ️:
 
+- Cierre: Cordones rápidos
+- Tipo de tacón: Plano
+- Revestimiento: Sintético
+- Composición: Sintético
+- LONGITUD DEL PIE: 23,5 cm
 - Material de la suela: Sintético
 - Material exterior: Cuero sintético
-- Composición: Sintético
-- Cierre: Cordones rápidos
-- Revestimiento: Sintético
-- Tipo de tacón: Plano
-- LONGITUD DEL PIE: 23,5 cm
 
 [Ver la oferta!!](https://www.amazon.es/dp/B079MD3PDN/?tag=tolees-21)
