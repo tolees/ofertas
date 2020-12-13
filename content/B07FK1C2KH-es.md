@@ -24,10 +24,10 @@ Está [Probiótico Probiplus 50 mil millones de UFC garantizados por dosis | 10 
 
 ℹ️:
 
-- MEJORA DEL SISTEMA INMUNOLÓGICO: Al restaurar tu flora intestinal, los cultivos presentes en Probiplus Complex fortalecen tu sistema inmune y sus defensas, contribuyendo a llegar a un estado de salud óptimo. Benefician tanto a mujeres y hombres como a niños.
-- FÓRMULA AVANZADA: Nuestra fórmula única elaborada con 10 cepas para brindarnos los máximos beneficios. Las cápsulas gastrorresistentes garantizan que los 50 millones de UFC se liberen de forma prolongada en el intestino para una absorción óptima.
 - BIENESTAR INTESTINAL: Nuestros cultivos bacterianos ayudan a mantener un equilibrio sano de la microflora del sistema gastrointestinal e inhiben el crecimiento de bacterias dañinas. Por eso son aliadas preciadas para luchar contra los síntomas del síndrome del colon irritable y de la gastroenteritis.
-- CALIDAD Y SEGURIDAD: En Nutralie, la calidad es parte de nuestra identidad y por ello todos nuestros productos son bio y están fabricados en Europa bajo los más altos estándares. Probiplus Complex no contiene OGM y se presenta en cápsulas vegetales aptas para veganos.
 - 50 MIL MILLONES UFC GARANTIZADAS: Probiplus Complex garantiza que cada dosis (dos cápsulas) contiene 50 mil millones de UFC (Unidades Formadoras de Colonias) durante toda la vida útil del producto.
+- FÓRMULA AVANZADA: Nuestra fórmula única elaborada con 10 cepas para brindarnos los máximos beneficios. Las cápsulas gastrorresistentes garantizan que los 50 millones de UFC se liberen de forma prolongada en el intestino para una absorción óptima.
+- CALIDAD Y SEGURIDAD: En Nutralie, la calidad es parte de nuestra identidad y por ello todos nuestros productos son bio y están fabricados en Europa bajo los más altos estándares. Probiplus Complex no contiene OGM y se presenta en cápsulas vegetales aptas para veganos.
+- MEJORA DEL SISTEMA INMUNOLÓGICO: Al restaurar tu flora intestinal, los cultivos presentes en Probiplus Complex fortalecen tu sistema inmune y sus defensas, contribuyendo a llegar a un estado de salud óptimo. Benefician tanto a mujeres y hombres como a niños.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FK1C2KH/?tag=tolees-21)
