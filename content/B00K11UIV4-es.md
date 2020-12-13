@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 62.78 % en TP-Link Archer T2U Adaptador WiFi USB  R'
-date: 2020-12-11 17:53:45
+date: 2020-12-13 18:58:09
 image: 'https://m.media-amazon.com/images/I/319QhGOOh7L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,7 +25,7 @@ Tienes [TP-Link Archer T2U Adaptador WiFi USB  Receptor WiFi con Doble Banda AC 
 ℹ️:
 
 - Sistema operativo - soporta windows 10/8.1/8/7/xp, mac os x 10.7~10.11 y linux (kernel version 2.6~3.16)
-- Wifi de alta velocidad - hasta 600 mbps de velocidad con 150 mbps en 2, 4 ghz y 433 mbps en 5 ghz, actualiza tus dispositivos a velocidades wifi más altas
 - Seguridad avanzada - soporta 64/128 wep, wpa, pa2/wpa-psk/wpa2-psk(tkip/aes)
+- Wifi de alta velocidad - hasta 600 mbps de velocidad con 150 mbps en 2, 4 ghz y 433 mbps en 5 ghz, actualiza tus dispositivos a velocidades wifi más altas
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00K11UIV4/?tag=tolees-21)

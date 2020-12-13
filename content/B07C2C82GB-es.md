@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjecorp Logo Sweat Hood Noo al 32.01 % de descuento'
-date: 2020-12-09 10:51:15
+date: 2020-12-13 18:24:41
 image: 'https://m.media-amazon.com/images/I/41uqQQyRnkL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,7 @@ Está [Jack & Jones Jjecorp Logo Sweat Hood Noos Capucha  Gris  Light Grey Melan
 
 ℹ️:
 
+- Mezcla de algodón.
+- Sudadera con logotipo.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07C2C82GB/?tag=tolees-21)

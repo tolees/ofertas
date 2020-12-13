@@ -26,8 +26,8 @@ Ahora mismo tienes [Tommy Hilfiger Reloj Multiesfera para Hombre de Cuarzo con C
 
 - 5 ATM de resistencia al agua
 - Movimiento multifunción
-- Grosor de la caja de 10,5 mm
 - Pulsera de malla chapado en oro amarillo
 - Esfera negro
+- Grosor de la caja de 10,5 mm
 
 [Visítala!!!](https://www.amazon.es/dp/B07ND5S2C6/?tag=tolees-21)

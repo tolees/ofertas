@@ -24,10 +24,10 @@ Ahora mismo tienes [Pikolin Home - Edredón/Relleno nórdico infantil de fibra a
 
 🔎:
 
-- Fácil mantenimiento: lavable en lavadora y secable en secadora a temperatura baja
-- Para habitaciones con temperaturas medias
-- Este relleno nórdico es totalmente transpirable
-- Hipoalergénico; La microfibra  ayuda a disminuir los síntomas de alergia
 - Protección contra los ácaros - mejora la higiene del producto
+- Este relleno nórdico es totalmente transpirable
+- Para habitaciones con temperaturas medias
+- Fácil mantenimiento: lavable en lavadora y secable en secadora a temperatura baja
+- Hipoalergénico; La microfibra  ayuda a disminuir los síntomas de alergia
 
 [Visítala!!!](https://www.amazon.es/dp/B075QG1MX7/?tag=tolees-21)

@@ -24,13 +24,13 @@ Ahora mismo tienes [Crocs Crocband  Zuecos Unisex Adulto  Azul  Navy   36/37 EU]
 
 🔎:
 
-- Material exterior: Espuma
-- Material de la suela: Goma
-- Altura del tacón: 1 centímetro
 - Cierre: Sin cordones
-- Tipo de tacón: Plano
 - Tipo de talla: talla estándar
-- Revestimiento: Sintético
+- Material de la suela: Goma
 - Composición: Sintético
+- Altura del tacón: 1 centímetro
+- Tipo de tacón: Plano
+- Material exterior: Espuma
+- Revestimiento: Sintético
 
 [Visítala!!!](https://www.amazon.es/dp/B002JCSSYW/?tag=tolees-21)

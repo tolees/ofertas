@@ -24,10 +24,10 @@ Está [Remington IPL6780 i-Light - Depiladora de Luz Pulsada  Depiladora IPL con
 
 ℹ️:
 
-- Incluye dos lámparas de cuarzo de 300.000 disparos en total y 5 ajustes de energía: 7-8 J/cm²; tamaño de la pantalla corporal es de 3 cm², y pantalla facial de 2 cm²
 - Totalmente seguro: clínicamente probado, aprobado por la FDA y recomendado por dermatólogos
-- Resultados permanentes en sólo 3 tratamientos
-- Accesorio corporal tanto para mujeres, como hombres; accesorio facial sólo apto para mujeres
 - Modo de disparo manual para zonas pequeñas y automático para zonas más amplias; posee un sensor de piel integrado y sensores de contacto cutáneo integrados
+- Accesorio corporal tanto para mujeres, como hombres; accesorio facial sólo apto para mujeres
+- Incluye dos lámparas de cuarzo de 300.000 disparos en total y 5 ajustes de energía: 7-8 J/cm²; tamaño de la pantalla corporal es de 3 cm², y pantalla facial de 2 cm²
+- Resultados permanentes en sólo 3 tratamientos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01KLXFSNO/?tag=tolees-21)

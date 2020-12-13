@@ -26,8 +26,8 @@ Está [Hugo BOSS Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Ino
 
 - Grosor de la caja de 11,0 mm
 - 5 ATM de resistencia al agua
-- Correa de cerámica
 - Correa con diseño en relieve cosido a mano
+- Correa de cerámica
 - El llamativo bisel giratorio hará que su reloj destaque entre los demás.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07BWQFMWB/?tag=tolees-21)

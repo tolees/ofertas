@@ -24,10 +24,10 @@ Tienes [luosh Japanese Matcha Starter Kit Fit  licuadora de bambú Tradicional d
 
 ℹ️:
 
-- La parte media del agitador se extenderá después del uso, lo cual es normal.
-- El agitador no se puede colocar directamente en agua hirviendo y se puede deformar severamente.
-- Los restos de matcha están hechos a mano individualmente, lo que hace que cada soporte de matcha tenga un estilo único.
-- La licuadora de polvo Matcha está hecha de bambú natural y es segura y no tóxica. Está equipado con un estante dedicado. Favorece el drenaje y la retención de la forma del agitador.
 - Para la conveniencia de controlar la cantidad de polvo de matcha, está equipado con una cuchara especial de bambú.
+- Los restos de matcha están hechos a mano individualmente, lo que hace que cada soporte de matcha tenga un estilo único.
+- La parte media del agitador se extenderá después del uso, lo cual es normal.
+- La licuadora de polvo Matcha está hecha de bambú natural y es segura y no tóxica. Está equipado con un estante dedicado. Favorece el drenaje y la retención de la forma del agitador.
+- El agitador no se puede colocar directamente en agua hirviendo y se puede deformar severamente.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B088HCHRB2/?tag=tolees-21)

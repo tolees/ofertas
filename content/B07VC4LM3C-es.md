@@ -24,7 +24,7 @@ Ahora mismo tienes [Samsung EF-PN975TPEGWW Funda Silicone Cover Note 10+  rosa](
 
 🔎:
 
-- Una capa de microfibra envuelve tu teléfono en este material tan suave mejorando la protección que ofrece la silicona
 - Funda de silicona suave al tacto el material ofrece un agarre tan cómodo que no querrás soltarla
+- Una capa de microfibra envuelve tu teléfono en este material tan suave mejorando la protección que ofrece la silicona
 
 [Visítala!!!](https://www.amazon.es/dp/B07VC4LM3C/?tag=tolees-21)

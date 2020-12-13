@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bburago Burago Pack 2 Coches colección 1 al 38.46 % de descuento'
-date: 2020-12-11 12:18:05
+date: 2020-12-13 18:49:31
 image: 'https://m.media-amazon.com/images/I/41Kg+YnmgAL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,7 +22,7 @@ Ahora mismo tienes [Bburago Burago Pack 2 Coches colección 1:43-10cm  colores s
 
 [![Bburago Burago Pack 2 Coches colección 1](https://m.media-amazon.com/images/I/41Kg+YnmgAL._SL200_.jpg)](https://www.amazon.es/dp/B002AMVW6C/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 - Escala 1:43
 

@@ -26,8 +26,8 @@ Ahora mismo tienes [PLAYMOBIL: THE MOVIE Porsche Mission E y Rex Dasher  a Parti
 
 - Contenido: 1 PLAYMOBIL: THE MOVIE Porsche Mission E y Rex Dasher, Juego de 24 figuras con manual de instrucciones: 1 Porsche Mission E, 1 control RC, 1 figura, 21 accesorios
 - Coche deportivo con mando de control remoto, espacio para 2 figuras, techo descapotable, con estación de carga, a juego con PLAYMOBIL: THE MOVIE Marla (70072)
-- Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
-- Diversión para los pequeños aficionados a la gran pantalla; PLAYMOBIL: THE MOVIE Porsche Mission E y Rex Dasher con luz en los faros delanteros y traseros para jugar
 - Juego de figuras para niños a partir de 5 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
+- Diversión para los pequeños aficionados a la gran pantalla; PLAYMOBIL: THE MOVIE Porsche Mission E y Rex Dasher con luz en los faros delanteros y traseros para jugar
+- Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
 
 [Visítala!!!](https://www.amazon.es/dp/B07P7KKCNS/?tag=tolees-21)
