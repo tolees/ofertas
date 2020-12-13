@@ -24,10 +24,10 @@ Ahora mismo tienes [Pack 4+1 Cuadernos Folio A4  Oxford. Tapa Extradura Write&Er
 
 🔎:
 
-- Utilizar con rotuladores para pizarra blanca
-- Tapas extraduras
 - Incluye pizarra en el interior de las 2 tapas
 - 5 colores surtidos vivos
+- Tapas extraduras
+- Utilizar con rotuladores para pizarra blanca
 - Formato fº, 80 hojas, cuadrícula 4x4
 
 [Visítala!!!](https://www.amazon.es/dp/B07Q1YSMM3/?tag=tolees-21)

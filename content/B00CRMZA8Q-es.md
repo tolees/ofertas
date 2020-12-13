@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Arcos Accesorios - Sacacorchos Eléctrico al 25.21 % de descuento'
-date: 2020-12-01 12:52:32
+date: 2020-12-13 19:48:37
 image: 'https://m.media-amazon.com/images/I/41assZKi73L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,7 +22,12 @@ Ahora mismo tienes [Arcos Accesorios - Sacacorchos Eléctrico Abrebotellas Eléc
 
 [![Arcos Accesorios - Sacacorchos Eléctrico](https://m.media-amazon.com/images/I/41assZKi73L._SL200_.jpg)](https://www.amazon.es/dp/B00CRMZA8Q/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Sacacorchos Eléctrico hecho de ABS, un plástico muy resistente a golpes y humedad
+- Incluye cortacápsulas para hacer más sencillo la apertura de las botellas de vino
+- Presentación: 1 Sacacorchos eléctrico Arcos en una caja regalo
+- Producto Marca Arcos, lo que le asegura una buena calidad a buen precio
+- Funciona mediante batería interna recargable (Incluye cargador)
 
 [Visítala!!!](https://www.amazon.es/dp/B00CRMZA8Q/?tag=tolees-21)

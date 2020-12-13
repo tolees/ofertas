@@ -24,10 +24,10 @@ Ahora mismo tienes [deAO Maletín de Doctor y Dentista Conjunto 2en1 Doctor y En
 
 🔎:
 
-- CONTENIDOS: maletín, gafas, portapapeles con ficha médica, identificación de médico, termómetro, estetoscopio, pinzas, espejo bucal, jeringas, caja de medicinas, esfigmomanómetro (para medir la presion), oxímetro de pulso, cepillo de dientes, sonda dental, taladro dental y dentadura (dientes de plástico).
-- RECOMENDACIONES Y ADVERTENCIAS: No es adecuado para menores de 3 años. Para ser utilizado bajo la supervisión directa de un adulto.
 - BENEFICIOS Ideal para actividades recreativas, aprendizaje temprano cognitivo y conceptual, permite a los niños comprender y comenzar a acostumbrarse a diferentes aspectos de una vida saludable.
+- RECOMENDACIONES Y ADVERTENCIAS: No es adecuado para menores de 3 años. Para ser utilizado bajo la supervisión directa de un adulto.
 - CONJUNTO 2EN1: Maravilloso juego de maletín de doctor y dentista lleno de accesorios para los más peques. ¡Perfecto para llevar contigo donde y cuando quieras!
+- CONTENIDOS: maletín, gafas, portapapeles con ficha médica, identificación de médico, termómetro, estetoscopio, pinzas, espejo bucal, jeringas, caja de medicinas, esfigmomanómetro (para medir la presion), oxímetro de pulso, cepillo de dientes, sonda dental, taladro dental y dentadura (dientes de plástico).
 - PORTÁTIL: Todos los accesorios entran perfectamente dentro del maletín, dejando espacio adicional para otros accesorios. El maletín tiene un mango resistente y un cierre en modo "click".
 
 [Visítala!!!](https://www.amazon.es/dp/B07PJL886H/?tag=tolees-21)

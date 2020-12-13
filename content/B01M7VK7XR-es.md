@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.34 % en Festina Reloj Análogo clásico para Mujer'
-date: 2020-11-25 12:11:25
+date: 2020-12-13 19:24:49
 image: 'https://m.media-amazon.com/images/I/31PZYB4MI9L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,10 @@ Tienes [Festina Reloj Análogo clásico para Mujer de Cuarzo con Correa en Acero
 
 ℹ️:
 
+- Diámetro caja: 20mm
+- Movimiento Cuarzo
+- Caja Acero chapado en oro, esfera Plateado
+- Brazalete Dorado Acero inoxidable bañado en oro
+- Resistente al agua: 30m
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01M7VK7XR/?tag=tolees-21)

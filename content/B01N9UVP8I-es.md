@@ -24,8 +24,8 @@ Tienes [Geox UOMO Symbol B  Zapatos de Cordones Hombre  Negro  39 EU](https://ww
 
 ℹ️:
 
-- smooth leather
-- adulto
 - Black
+- adulto
+- smooth leather
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N9UVP8I/?tag=tolees-21)

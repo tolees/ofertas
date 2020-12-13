@@ -24,11 +24,11 @@ Tienes [Sony FDR-AX100E Handycam - Videocámara de 14.2 MP con Pantalla de 3.5" 
 
 ℹ️:
 
-- Tipo de pantalla: Pantalla LCD Xtra Fine (921.000 puntos) panorámica (16:9) de 8,8 cm (tipo 3,5)
-- Tipo de lente: ZEISS Vario-Sonnar T
 - Zoom óptico: 12x
+- Tipo de lente: ZEISS Vario-Sonnar T
 - Píxeles efectivos (vídeo): aprox. 14,2 megapíxeles (16:9)
-- Tipo de sensor: sensor CMOS Exmor R retroiluminado tipo 1.0 (13,2 x 8,8 mm)
 - Zoom de imagen nítida: 4K: 18x HD: 24x
+- Tipo de pantalla: Pantalla LCD Xtra Fine (921.000 puntos) panorámica (16:9) de 8,8 cm (tipo 3,5)
+- Tipo de sensor: sensor CMOS Exmor R retroiluminado tipo 1.0 (13,2 x 8,8 mm)
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00HH89W7U/?tag=tolees-21)
