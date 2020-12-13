@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRITA Marella blanca Pack Ahorro – Jarra al 33.37 % de descuento'
-date: 2020-12-12 09:54:40
+date: 2020-12-13 15:48:32
 image: 'https://m.media-amazon.com/images/I/31MOoiPqMFL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,7 +22,7 @@ Ahora mismo tienes [BRITA Marella blanca Pack Ahorro – Jarra de Agua Filtrad
 
 [![BRITA Marella blanca Pack Ahorro – Jarra](https://m.media-amazon.com/images/I/31MOoiPqMFL._SL200_.jpg)](https://www.amazon.es/dp/B01MZZI7OI/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 - Incluye 3 filtros MAXTRA+: prepara el té y el café con un aroma completo y ofrece una protección óptima a tu cafetera o tetera, agua excelente para un sabor intenso
 - Jarra de agua filtrada cómoda y sencilla: la tapa de la jarra se abate fácilmente para un rellenado rápido / A excepción de la tapa, la jarra es apta para el lavavajillas

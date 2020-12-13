@@ -24,10 +24,10 @@ Ahora mismo tienes [Steamforge Games - Juego de Mesa Dark Souls SFGD001  versió
 
 🔎:
 
-- Tiempo de juego de 90 a 120 minutos.
-- A partir de 14 años.
-- Eres el no muerto (portador de la maldición) elegido y el destino del mundo depende de ti.
 - De 1 a 4 jugadores.
+- Eres el no muerto (portador de la maldición) elegido y el destino del mundo depende de ti.
 - Prepárate para morir. Para evitar que llegue la oscuridad se ha desatado una maldición contra la humanidad.
+- A partir de 14 años.
+- Tiempo de juego de 90 a 120 minutos.
 
 [Visítala!!!](https://www.amazon.es/dp/B01MXLB67B/?tag=tolees-21)

@@ -24,7 +24,7 @@ Tienes [Onitsuka Tiger Mexico 66  Zapatillas Unisex Adulto  Blanco  White/Blue 1
 
 ℹ️:
 
-- Estos fueron los primeros zapatos con las famosas tiendas Tiger
 - Se llevaron en los Juegos Olímpicos de México en 1968
+- Estos fueron los primeros zapatos con las famosas tiendas Tiger
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00KNMN6AG/?tag=tolees-21)

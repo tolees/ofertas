@@ -25,8 +25,8 @@ Está [Crazy pawn Juego de Mesa Narcos: Plata o Plomo  Multicolor  8436581780130
 ℹ️:
 
 - Producto de licencia oficial
-- Totalmente en castellano
 - Moviliza a tus tropas y controla los territorios de Medellín para cumplir tu objetivo antes que tu rival
+- Totalmente en castellano
 - Juega como el patrón o como uno de sus oponentes y lucha en las calles de medellín
 - Juego de combate y estrategia
 

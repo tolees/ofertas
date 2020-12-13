@@ -24,9 +24,9 @@ Está [Funko- Pop Animation: Dragon Ball Z-Training Vegeta Collectible Toy  Mult
 
 ℹ️:
 
-- Funko pop; is the 2018 toy of the year and peoples choice award winner
 - Figure stands 9.5cm and comes in a window display box
 - Check out the other dragon ball z figures from funko and collect them all
+- Funko pop; is the 2018 toy of the year and peoples choice award winner
 - From dragon ball z, training vegeta, as a stylized pop vinyl from funko
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07W7F2GBY/?tag=tolees-21)

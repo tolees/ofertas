@@ -24,7 +24,7 @@ Ahora mismo tienes [Marca Amazon - Iris & Lilly Culotte Mujer  Pack de 5  Multic
 
 🔎:
 
-- Discreto ribete en los bordes
 - Suave tacto de algodón con componente elástico
+- Discreto ribete en los bordes
 
 [Visítala!!!](https://www.amazon.es/dp/B0772KMD7K/?tag=tolees-21)

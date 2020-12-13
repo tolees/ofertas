@@ -24,7 +24,7 @@ Ahora mismo tienes [Sorel Newbie  Botas Mujer  Negro  Black  Grill   38 EU](http
 
 🔎:
 
-- Material: Obermaterial: Leder / Decksohle: Kunststoff / Laufsohle: Gummi / Kunstfell: 100% Polyester
 - Gender: Women
+- Material: Obermaterial: Leder / Decksohle: Kunststoff / Laufsohle: Gummi / Kunstfell: 100% Polyester
 
 [Visítala!!!](https://www.amazon.es/dp/B00OI8T4J8/?tag=tolees-21)

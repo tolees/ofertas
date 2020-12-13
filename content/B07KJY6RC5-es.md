@@ -25,9 +25,9 @@ Tienes [El Naturalista Pleasant Leaves 5008  Sandali Punta Aperta Donna  Rosso  
 ℹ️:
 
 - Material de la suela: Goma
-- Cierre: Velcro
+- Revestimiento: Cuero
 - Material exterior: Cuero
 - Tipo de tacón: Neutral
-- Revestimiento: Cuero
+- Cierre: Velcro
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KJY6RC5/?tag=tolees-21)

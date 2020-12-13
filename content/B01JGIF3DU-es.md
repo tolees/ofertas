@@ -25,10 +25,10 @@ Está [Einhell Pack taladro percutor y 15 piezas de perforación  TC-ID 1000 Kit
 ℹ️:
 
 - Asidero adicional fijado de forma segura mediante nervadura
+- Función perforación / taladro de percusión
+- Gran zona de empuñadura antideslizante ergonómica para trabajo agradable
+- Apropiado para la fijación en un soporte de perforación con cuello de sujeción de 43 mm
 - Tope de profundidad de perforación ajustable sin escalonamiento de metal macizo
 - Unidad electrónica para regular el número de revoluciones
-- Función perforación / taladro de percusión
-- Apropiado para la fijación en un soporte de perforación con cuello de sujeción de 43 mm
-- Gran zona de empuñadura antideslizante ergonómica para trabajo agradable
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01JGIF3DU/?tag=tolees-21)

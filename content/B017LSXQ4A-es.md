@@ -24,11 +24,11 @@ Tienes [Braun HC 5010 - Máquina de cortar pelo profesional  cortapelos con 9 lo
 
 ℹ️:
 
-- El sistema de memoria SafetyLock bloquea y memoriza el último ajuste usado
-- Máquina de cortar pelo profesional con cuchillas afiladas de larga duración
 - La potente tecnología DualBattery proporciona potencia constante para un corte de pelo adecuado
-- Totalmente lavable para una limpieza sencilla bajo el grifo
 - El corte de pelo por excelencia de Braun: cortadora de pelo con cuchillas afiladas de alto rendimiento y totalmente seguras
+- Máquina de cortar pelo profesional con cuchillas afiladas de larga duración
+- Totalmente lavable para una limpieza sencilla bajo el grifo
+- El sistema de memoria SafetyLock bloquea y memoriza el último ajuste usado
 - Con 9 ajustes de longitud: dispone de un accesorio de recorte inteligente que permite personalizar el peinado con 8 longitudes diferentes; dispone de una posición extracorta cuando se usa sin el peine
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B017LSXQ4A/?tag=tolees-21)

@@ -24,8 +24,8 @@ Tienes [LOL Surprise - Winter Chalet  Giochi Preziosi LLUA1000 ](https://www.ama
 
 ℹ️:
 
-- L.o.l surprise; winter disco chalet incluye más de 95 sorpresas
 - Casa de madera, de varios pisos, estilo chalet con 6 habitaciones y 3 pisos
+- L.o.l surprise; winter disco chalet incluye más de 95 sorpresas
 - Tiene en exclusiva una familia lol (muñeca lol, lil y mascota)
 - Incluye chimenea que expulsa nieve, pista de patinaje sobre hielo real, bañera de hidromasaje, telesilla que funciona de verdad, luces para decorar la casa
 - Necesita de la supervisión de un adulto para el montaje

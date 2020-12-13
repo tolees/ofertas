@@ -25,7 +25,7 @@ Está [PLAYMOBIL- Deportes de Invierno Figuras de Juguete  Multicolor  única  9
 ℹ️:
 
 - Incluye 3 figuras
-- Esquíes, flotador deslizante
 - Con snowboard
+- Esquíes, flotador deslizante
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06WVS5C2X/?tag=tolees-21)

@@ -24,10 +24,10 @@ Tienes [Rimmel London Match Perfection Foundation Base de Maquillaje Tono 201 Cl
 
 ℹ️:
 
-- Complejo hidratante con SPF 20
-- Hidrata y oculta las imperfecciones, poros y ojeras
-- Indicado para piel seca o mixta
 - Acabado sin brillos y natural, cobertura media
 - Aplica la base de maquillaje con los dedos o una brocha des del centro hasta el exterior para mezclarla con el tono de tu piel
+- Complejo hidratante con SPF 20
+- Indicado para piel seca o mixta
+- Hidrata y oculta las imperfecciones, poros y ojeras
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B015CMHHTM/?tag=tolees-21)
