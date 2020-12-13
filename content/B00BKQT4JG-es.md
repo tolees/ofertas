@@ -24,9 +24,9 @@ Está [Daniel Wellington Classic Oxford  Reloj Azul-Rojo/Oro Rosado  40mm  NATO 
 
 ℹ️:
 
-- Diseñadas Suecia, las piezas de Daniel Wellington presentan un estilo escandinavo minimalista y son el regalo o accesorio personal óptimo para cada ocasión
-- Correa intercambiable
 - Tamaño de Esfera: 40 mm
+- Correa intercambiable
+- Diseñadas Suecia, las piezas de Daniel Wellington presentan un estilo escandinavo minimalista y son el regalo o accesorio personal óptimo para cada ocasión
 - Longitud de la correa ajustable: (Min - Max) 165-220mm
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00BKQT4JG/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MVMT Reloj Cronógrafo para Hombre de Cua al 54.00 % de descuento'
-date: 2020-11-15 21:07:54
+date: 2020-12-13 21:01:30
 image: 'https://m.media-amazon.com/images/I/41Q+84FmTBL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,7 +22,12 @@ Ahora mismo tienes [MVMT Reloj Cronógrafo para Hombre de Cuarzo con Correa en A
 
 [![MVMT Reloj Cronógrafo para Hombre de Cua](https://m.media-amazon.com/images/I/41Q+84FmTBL._SL200_.jpg)](https://www.amazon.es/dp/B07FD5QH74/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- 5 ATM de resistencia al agua
+- Caja negra en acero inoxidable cepillado y esfera negra
+- Grosor de la caja de 12 mm / Diámetro de la caja: 45 mm
+- Movimiento de cuarzo Miyota
+- Ancho de la correa: 22 mm
 
 [Visítala!!!](https://www.amazon.es/dp/B07FD5QH74/?tag=tolees-21)

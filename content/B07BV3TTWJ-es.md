@@ -24,10 +24,10 @@ Está [Samsonite B-Lite Icon - Spinner 78/31 Expandible  107.5 L  2.9 Kg  Negro 
 
 ℹ️:
 
-- Hebilla Smart Fix
-- Cerradura de combinación con función TSA
 - Expandible a 49 X 78 X 35 cm, 117.5 L
 - Cintas cruzadas
+- Cerradura de combinación con función TSA
+- Hebilla Smart Fix
 - Agarre en la base
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07BV3TTWJ/?tag=tolees-21)

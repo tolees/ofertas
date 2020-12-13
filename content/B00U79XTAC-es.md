@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fantasy Flight Games- Star Wars X-Wing:  al 51.25 % de descuento'
-date: 2020-12-09 11:56:58
+date: 2020-12-13 21:21:49
 image: 'https://m.media-amazon.com/images/I/511M3C05BZL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,8 @@ Está [Fantasy Flight Games- Star Wars X-Wing: carguero yt-2400  Edge Entertainm
 
 ℹ️:
 
+- Revolucionario sistema de juego
+- Miniaturas de naves pintadas a mano
+- Gran rejugabilidad
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00U79XTAC/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 57.86 % en MVMT Reloj Analógico para Mujer de Cuarz'
-date: 2020-11-15 14:49:15
+date: 2020-12-13 21:12:12
 image: 'https://m.media-amazon.com/images/I/41uUjtvzYuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,10 @@ Tienes [MVMT Reloj Analógico para Mujer de Cuarzo con Correa en Cuero D-FR01-RG
 
 ℹ️:
 
+- Movimiento de cuarzo Miyota
+- 3 ATM de resistencia al agua
+- Caja oro rosa en acero inoxidable pulida y esfera Blanca
+- Grosor de la caja de 10 mm / Diámetro de la caja: 36 mm
+- Ancho de la correa: 16 mm
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07VN8NS96/?tag=tolees-21)

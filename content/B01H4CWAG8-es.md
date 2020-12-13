@@ -24,8 +24,8 @@ Está [PUMA Tazon 6 FM  Zapatillas de Cross Hombre  Blanco  White/Black Silver  
 
 ℹ️:
 
-- White
-- adulto
 - Textile, Synthetic
+- adulto
+- White
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01H4CWAG8/?tag=tolees-21)

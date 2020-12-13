@@ -24,10 +24,10 @@ Está [Diesel Reloj Analogico para Hombre de Cuarzo con Correa en Nailon DZ1902]
 
 ℹ️:
 
+- Resistente al agua hasta 50 m: apto para nadar en aguas poco profundas
 - Se presenta en caja de regalo Diesel
-- Correa de nailon negra y gris
 - Caja redonda de acero inoxidable plateado con esfera en color negro
 - Caja de 44 mm, correa de 22 mm de ancho, cristal mineral, movimiento de cuarzo con pantalla analógica de tres agujas y fecha
-- Resistente al agua hasta 50 m: apto para nadar en aguas poco profundas
+- Correa de nailon negra y gris
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07YLS3SRG/?tag=tolees-21)

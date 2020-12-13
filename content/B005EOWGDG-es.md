@@ -24,8 +24,8 @@ Ahora mismo tienes [Yamaha NS-AW194 - Altavoces de exterior  2 canales  resisten
 
 🔎:
 
-- Altavoces para exterior. Potencia nominal 30 W ( 80 W máxima).Impedancia 8 Ω. Excelente
 - diseño resistente al agua y al sol. Sistema de 2 vías bass-reflex . Instalación flexible
+- Altavoces para exterior. Potencia nominal 30 W ( 80 W máxima).Impedancia 8 Ω. Excelente
 - (Incluye soportes) vertical u horizontal con giro de 81 º en ambos sentidos .Respuesta en
 
 [Visítala!!!](https://www.amazon.es/dp/B005EOWGDG/?tag=tolees-21)

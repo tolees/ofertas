@@ -24,8 +24,8 @@ Tienes [adidas Grand Court K  Zapatillas de Tenis  Multicolor Ftwwht Coppmt Glop
 
 ℹ️:
 
-- 3 rayas en los laterales.
-- Empeine de piel sintética.
 - Zapatillas deportivas
+- Empeine de piel sintética.
+- 3 rayas en los laterales.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07RFRM8XY/?tag=tolees-21)
