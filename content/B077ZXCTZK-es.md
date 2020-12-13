@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 711 Skinny Jeans Modello Aderente al 31.65 % de descuento'
-date: 2020-12-11 06:10:18
+date: 2020-12-13 06:57:05
 image: 'https://m.media-amazon.com/images/I/31YG6aZnSvL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s 711 Skinny Jeans Modello Aderente a Gamba Stretta  Ef
 
 [![Levi s 711 Skinny Jeans Modello Aderente](https://m.media-amazon.com/images/I/31YG6aZnSvL._SL200_.jpg)](https://www.amazon.es/dp/B077ZXCTZK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 - Con bragueta de botones
 - Modelo ajustado en la cadera y los muslos

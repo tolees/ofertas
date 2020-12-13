@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Salomon XA Pro 3D CSWP J  Zapatillas de  al 30.00 % de descuento'
-date: 2020-12-11 06:08:17
-image: 'https://m.media-amazon.com/images/I/51hO9HZLDvL._SL200_.jpg'
+date: 2020-12-13 06:56:54
+image: 'https://m.media-amazon.com/images/I/41KeyDw+dhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -20,15 +20,16 @@ descuento: '30.00'
 
 Está [Salomon XA Pro 3D CSWP J  Zapatillas de Deporte Unisex Adulto  Azul Navy Blazer Mallard Blue Hawaiian Surf  38 EU](https://www.amazon.es/dp/B079MD3PDN/?tag=tolees-21) con 30.00 de descuento por 52.49 EUR (original: 74.99 EUR) en el siguiente enlace!
 
-[![Salomon XA Pro 3D CSWP J  Zapatillas de ](https://m.media-amazon.com/images/I/51hO9HZLDvL._SL200_.jpg)](https://www.amazon.es/dp/B079MD3PDN/?tag=tolees-21)
+[![Salomon XA Pro 3D CSWP J  Zapatillas de ](https://m.media-amazon.com/images/I/41KeyDw+dhL._SL200_.jpg)](https://www.amazon.es/dp/B079MD3PDN/?tag=tolees-21)
 
 ℹ️:
 
-- Tipo de tacón: Plano
-- Composición: Sintético
-- Material exterior: Cuero sintético
-- Cierre: Cordones rápidos
-- Material de la suela: Sintético
 - Revestimiento: Sintético
+- Material exterior: Cuero sintético
+- Material de la suela: Sintético
+- LONGITUD DEL PIE: 23,5 cm
+- Composición: Sintético
+- Cierre: Cordones rápidos
+- Tipo de tacón: Plano
 
 [Ver la oferta!!](https://www.amazon.es/dp/B079MD3PDN/?tag=tolees-21)

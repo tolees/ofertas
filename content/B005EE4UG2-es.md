@@ -24,9 +24,9 @@ Ahora mismo tienes [Pentel EnerGel-X -BL107-A Bolígrafos retráctiles  12 unida
 
 🔎:
 
-- Ideal para zurdos
-- Secado rápido
 - Cuerpo, rip y clip en el color de la escritura
+- Secado rápido
+- Ideal para zurdos
 - Cómoda sujeción
 - Fabricado en un 84% con plástico reciclado
 

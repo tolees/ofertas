@@ -24,8 +24,8 @@ Está [Pentel XFRH/3-BMF - Pack de 3 rotuladores  base al agua  punta fina  medi
 
 ℹ️:
 
-- Punta de nylon durable
-- Tiene 3 tamaños de puntas fina, media o gruesa
 - Adecuado para cualquier medio a base de agua
+- Tiene 3 tamaños de puntas fina, media o gruesa
+- Punta de nylon durable
 
 [Ver la oferta!!](https://www.amazon.es/dp/B002JIN2Q0/?tag=tolees-21)
