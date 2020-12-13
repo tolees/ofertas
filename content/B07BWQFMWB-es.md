@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hugo BOSS Reloj Cronógrafo para Hombre d al 44.09 % de descuento'
-date: 2020-11-06 00:48:10
+date: 2020-12-13 17:31:38
 image: 'https://m.media-amazon.com/images/I/41xZ1dnDuyL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,10 @@ Está [Hugo BOSS Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Ino
 
 ℹ️:
 
+- Grosor de la caja de 11,0 mm
+- 5 ATM de resistencia al agua
+- Correa de cerámica
+- Correa con diseño en relieve cosido a mano
+- El llamativo bisel giratorio hará que su reloj destaque entre los demás.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07BWQFMWB/?tag=tolees-21)

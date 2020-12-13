@@ -24,10 +24,10 @@ Ahora mismo tienes [BRITA Marella blanca Pack Ahorro – Jarra de Agua Filtrad
 
 🔎:
 
-- Incluye 3 filtros MAXTRA+: prepara el té y el café con un aroma completo y ofrece una protección óptima a tu cafetera o tetera, agua excelente para un sabor intenso
-- Jarra de agua filtrada cómoda y sencilla: la tapa de la jarra se abate fácilmente para un rellenado rápido / A excepción de la tapa, la jarra es apta para el lavavajillas
-- Sostenible: Reduce el plástico de un solo uso bebiendo agua filtrada BRITA y ayúdanos a cuidar del medio ambiente
-- Práctico indicador: en la tapa de la jarra de agua BRITA se encuentra el indicador que parpadea después de 4 semanas para reemplazar el cartucho MAXTRA+
 - El filtro de agua BRITA ofrece un excelente sabor: reduce las sustancias que alteran el sabor y el olor del agua como el cloro y la cal, disfruta de un vaso de agua fresca
+- Práctico indicador: en la tapa de la jarra de agua BRITA se encuentra el indicador que parpadea después de 4 semanas para reemplazar el cartucho MAXTRA+
+- Incluye 3 filtros MAXTRA+: prepara el té y el café con un aroma completo y ofrece una protección óptima a tu cafetera o tetera, agua excelente para un sabor intenso
+- Sostenible: Reduce el plástico de un solo uso bebiendo agua filtrada BRITA y ayúdanos a cuidar del medio ambiente
+- Jarra de agua filtrada cómoda y sencilla: la tapa de la jarra se abate fácilmente para un rellenado rápido / A excepción de la tapa, la jarra es apta para el lavavajillas
 
 [Visítala!!!](https://www.amazon.es/dp/B01MZZI7OI/?tag=tolees-21)

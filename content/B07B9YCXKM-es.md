@@ -24,10 +24,10 @@ Está [Sharplace 1/6 Anillo Interior de Cabeza Masculino y Femenino Acces para J
 
 ℹ️:
 
-- Tamaño: para figura de acción de 12 pulgadas
-- Está diseñado para la mayoría de los cuerpos de figuras masculinas de Hot Toys, Kumik, Sideshow Collectible y BBI con ajuste de cavidad redonda en general
-- Color: como se muestran las imágenes
 - Conector interno del cuello macho y hembra a escala 1/6
+- Está diseñado para la mayoría de los cuerpos de figuras masculinas de Hot Toys, Kumik, Sideshow Collectible y BBI con ajuste de cavidad redonda en general
+- Tamaño: para figura de acción de 12 pulgadas
 - Material: plástico ABS
+- Color: como se muestran las imágenes
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07B9YCXKM/?tag=tolees-21)

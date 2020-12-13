@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony ICD-Bx140 - Grabadora Digital  4GB  al 30.38 % de descuento'
-date: 2020-11-28 12:16:56
+date: 2020-12-13 16:16:30
 image: 'https://m.media-amazon.com/images/I/41t0Z+ZjSYL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,10 @@ Está [Sony ICD-Bx140 - Grabadora Digital  4GB   11.5x2.1x3.9 cm  Plateado](http
 
 ℹ️:
 
+- Almacenamiento integrado de 4 GB
+- Grabadora de voz digital con grabación y reproducción de mp3/HVXC, altavoz de 300 mW y almacenamiento de 4 GB
+- Grabación de mp3/HVXC
+- Interfaz de ENTRADA Y SALIDA DE TERMINAL Toma de auriculares, entrada de micrófono
+- Altavoz de 300 mW integrado
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00IZEJFF4/?tag=tolees-21)

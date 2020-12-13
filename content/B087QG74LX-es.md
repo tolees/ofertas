@@ -25,9 +25,9 @@ Ahora mismo tienes [P Prettyia Unidad Flash USB 3.0 USB-C Y USB 3.0 Tipo-a Lápi
 🔎:
 
 - . Inserción suave y durabilidad
+- . Admite plug and play TYPE-C, sin necesidad de conducir, ampliar la memoria del teléfono móvil, almacenamiento portátil, lectura y copia directa de archivos.
 - . Interfaz TYPE-C 5U bañado en oro, prueba de plug-in 10.000 veces, material de aleación de zinc, craqueo anti-presión.
 - . Admite la expansión de un segundo de muchos dispositivos USB, teclado, mouse, disco U, cable de datos, lector de tarjetas, impresora, concentrador USB, disco duro, gamepad y tableta.
-- . Admite plug and play TYPE-C, sin necesidad de conducir, ampliar la memoria del teléfono móvil, almacenamiento portátil, lectura y copia directa de archivos.
 - . Sistema de ayudas: Windows Vista / Win7 / 10 / OS
 
 [Visítala!!!](https://www.amazon.es/dp/B087QG74LX/?tag=tolees-21)

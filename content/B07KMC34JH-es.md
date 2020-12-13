@@ -26,8 +26,8 @@ Ahora mismo tienes [Merrell Trail Glove 5  Zapatillas Deportivas para Interior H
 
 - Material exterior: Sintético
 - Material de la suela: Sintético
-- Anchura del zapato: normal
 - Cierre: Cordones
+- Anchura del zapato: normal
 - Revestimiento: Malla
 
 [Visítala!!!](https://www.amazon.es/dp/B07KMC34JH/?tag=tolees-21)

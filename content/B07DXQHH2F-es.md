@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.48 % en Batman Arkham Knight Ps Hits'
-date: 2020-12-12 08:07:49
+date: 2020-12-13 17:32:32
 image: 'https://m.media-amazon.com/images/I/51-kcjS2v7L._SL200_.jpg'
 comments: true
 category: ofertas

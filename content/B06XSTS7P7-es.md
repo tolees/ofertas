@@ -24,8 +24,8 @@ Ahora mismo tienes [PhD Smart Bar Barritas Proteína Frambuesa con chocolate neg
 
 🔎:
 
-- Suave, crujiente, fundente y suave, increíblemente delicioso y con tan solo 2 g de azúcar por barrita
 - Una barrita (64 g) posee aprox. 238 calorías, 20 g de proteínas, 20 g de carbohidratos, de los cuales tan solo 2 g son azúcar, puede desviarse ligeramente según el sabor
+- Suave, crujiente, fundente y suave, increíblemente delicioso y con tan solo 2 g de azúcar por barrita
 - PhD Smart Bar es una barrita energética rica en proteínas y reducida en azúcar; envase de 12 barritas de 64 g, respectivamente
 - Las barritas Smart Bar poseen un blando núcleo proteico, recubierto alrededor con caramelo y crispis de proteínas, y todo ello cubierto por una capa de chocolate
 

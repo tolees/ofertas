@@ -24,10 +24,10 @@ Está [Hugo BOSS Reloj de pulsera 1513663](https://www.amazon.es/dp/B07KTQJ7T5/?
 
 ℹ️:
 
-- Movimiento cronógrafo
-- 5 ATM de resistencia al agua
 - Grosor de la caja de 11,15mm
 - Esfera azul
+- Movimiento cronógrafo
+- 5 ATM de resistencia al agua
 - Correa marrón de piel lisa
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KTQJ7T5/?tag=tolees-21)

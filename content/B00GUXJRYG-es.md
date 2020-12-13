@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.00 % en Columbia Woodburn II  Zapatillas Hombre '
-date: 2020-12-12 16:36:04
+date: 2020-12-13 16:37:16
 image: 'https://m.media-amazon.com/images/I/41izmzDecXL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,10 +24,10 @@ Tienes [Columbia Woodburn II  Zapatillas Hombre  Marrón  Cordovan Cinnamon   42
 
 ℹ️:
 
+- Material de la suela: Goma
 - Material exterior: Cuero
 - Tipo de tacón: Plano
-- Cierre: Cordones
 - Revestimiento: Sintético
-- Material de la suela: Goma
+- Cierre: Cordones
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00GUXJRYG/?tag=tolees-21)

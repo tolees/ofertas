@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Reloj Analógico para Muje al 29.91 % de descuento'
-date: 2020-11-15 16:11:34
+date: 2020-12-13 16:22:24
 image: 'https://m.media-amazon.com/images/I/41O17T-CljL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,10 @@ Está [Tommy Hilfiger Reloj Analógico para Mujer de Cuarzo con Correa en Acero 
 
 ℹ️:
 
+- Diámetro de la caja: 36 mm
+- 3 ATM de resistencia al agua
+- Movimiento multifunción
+- Pulsera de acero inoxidable
+- Esfera azul con efecto de rayo de sol
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07V59SBD1/?tag=tolees-21)
