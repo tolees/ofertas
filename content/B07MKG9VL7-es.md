@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Banpresto One Piece Estatua King Of Arti al 29.21 % de descuento'
-date: 2020-12-08 14:59:03
+date: 2020-12-13 09:10:09
 image: 'https://m.media-amazon.com/images/I/41YdU1RzFyL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,7 +22,12 @@ Ahora mismo tienes [Banpresto One Piece Estatua King Of Artist Snakeman Luffy  m
 
 [![Banpresto One Piece Estatua King Of Arti](https://m.media-amazon.com/images/I/41YdU1RzFyL._SL200_.jpg)](https://www.amazon.es/dp/B07MKG9VL7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- One piece
+- King of artist
+- Licencia oficial
+- Incluye base
+- Estatua de colección
 
 [Visítala!!!](https://www.amazon.es/dp/B07MKG9VL7/?tag=tolees-21)

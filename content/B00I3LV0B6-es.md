@@ -24,10 +24,10 @@ Tienes [Sony MDR-EX450AP - Auriculares internos con micrófono  Rango de frecuen
 
 ℹ️:
 
-- Rango de frecuencia 5-25.000 Hz
-- Cómodos tapones de auricular de silicona de ajuste seguro
-- Compatible con smartphone con mando y micrófono integrados
 - La carcasa de aluminio reduce al mínimo las vibraciones no deseadas
+- Cómodos tapones de auricular de silicona de ajuste seguro
 - Controladores de neodimio de 12 mm para un sonido dinámico
+- Compatible con smartphone con mando y micrófono integrados
+- Rango de frecuencia 5-25.000 Hz
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00I3LV0B6/?tag=tolees-21)

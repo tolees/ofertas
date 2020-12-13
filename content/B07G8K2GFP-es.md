@@ -25,9 +25,9 @@ Ahora mismo tienes [Russell Hobbs 25161-56 Horizon Mix & Go Boost - Batidora de 
 🔎:
 
 - Control con dos velocidades con un ajuste más lento para preparar batidos; el batido se inicia presionando el vaso
-- Los vasos caben en los reposavasos de los coches; diseño ergonómico
 - Nuevas cuchillas extraíbles para hielo de acero inoxidable, 400 vatios
-- Piezas en contacto con los alimentos sin BPA y pies antideslizantes para una mayor estabilidad; piezas lavables en el lavavajillas
+- Los vasos caben en los reposavasos de los coches; diseño ergonómico
 - Incluye 2 vasos tritan de 600 ml, 2 tapas, 2 tubos refrigeradores y una funda extraíble de goma para mayor sujeción
+- Piezas en contacto con los alimentos sin BPA y pies antideslizantes para una mayor estabilidad; piezas lavables en el lavavajillas
 
 [Visítala!!!](https://www.amazon.es/dp/B07G8K2GFP/?tag=tolees-21)

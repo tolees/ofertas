@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Ultra Dual m3.0 - Unidad Dual co al 29.42 % de descuento'
-date: 2020-12-11 19:26:45
+date: 2020-12-13 09:13:20
 image: 'https://m.media-amazon.com/images/I/31TsCQlX8oL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,10 +22,10 @@ Ahora mismo tienes [SanDisk Ultra Dual m3.0 - Unidad Dual con conector micro-USB
 
 [![SanDisk Ultra Dual m3.0 - Unidad Dual co](https://m.media-amazon.com/images/I/31TsCQlX8oL._SL200_.jpg)](https://www.amazon.es/dp/B06VSS2NRP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 - Compatible con dispositivos Android Habilitados para OTG. La Unidad Dual m3.0 SanDisk Ultra es compatible con teléfonos inteligentes y tabletas Android, e incluye soporte para USB en movimiento (OTG)
-- Rendimiento USB 3.0 de alta velocidad con hasta 150 MB/s para transferir archivos de la memoria al ordenador
 - El diseño estilizado y plegable ofrece conectores micro-USB y USB 3.0. El conector USB 3.0 es de alto rendimiento y retrocompatible con los puertos USB 2.2
+- Rendimiento USB 3.0 de alta velocidad con hasta 150 MB/s para transferir archivos de la memoria al ordenador
 
 [Visítala!!!](https://www.amazon.es/dp/B06VSS2NRP/?tag=tolees-21)

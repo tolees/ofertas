@@ -24,9 +24,9 @@ Tienes [Calvin Klein Ck One Shock Him Eau de Toilette Vaporizador 200 ml](https:
 
 ℹ️:
 
+- Contiene 200 ml.
 - Las notas olfativas principales de este producto son especiado y cítrico.
 - De la marca Calvin Klein.
-- Contiene 200 ml.
 - Este producto está indicado para hSombras.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B005I4TU6I/?tag=tolees-21)

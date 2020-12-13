@@ -24,8 +24,8 @@ Está [Ferrero Bombones Raffaello T 15-200 gr](https://www.amazon.es/dp/B01MXSKS
 
 ℹ️:
 
+- Dulces, chocolates y chicles
 - Chocolates
 - País de origen: España
-- Dulces, chocolates y chicles
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01MXSKSXF/?tag=tolees-21)

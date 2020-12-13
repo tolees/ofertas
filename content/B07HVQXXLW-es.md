@@ -24,10 +24,10 @@ Está [Homyl - Tapa de repuesto para parabrisas de espuma negra de 21 cm para mi
 
 ℹ️:
 
-- * Material: esponja.
-- * Diámetro interior: 1,8 cm.
 - * Protege tu micrófono contra las interferencias del viento y los cantantes\sputar.
 - * Espuma de alta calidad para el micrófono intervisible.
 - * Micrófono universal de espuma que puede ser adecuado para Sony, Panasonic, Canon, etc.
+- * Diámetro interior: 1,8 cm.
+- * Material: esponja.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07HVQXXLW/?tag=tolees-21)

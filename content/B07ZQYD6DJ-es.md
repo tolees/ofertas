@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Emporio Armani Reloj Analogico para Muje al 68.10 % de descuento'
-date: 2020-12-09 13:02:55
+date: 2020-12-13 09:11:32
 image: 'https://m.media-amazon.com/images/I/41qwI1vEmnL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,10 @@ Está [Emporio Armani Reloj Analogico para Mujer de Cuarzo con Correa en Cuero G
 
 ℹ️:
 
+- Material de la correa: Piel
+- Resistente al agua: 3 ATM
+- Se presenta en caja de regalo Emporio Armani
+- Grosor de la caja: 8mm; Tamaño de la caja: 32mm
+- Ancho de la correa: 14mm; Circunferencia de la correa: 175+/- 5mm
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07ZQYD6DJ/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wow! Stuff Collection DW-1020 - Destorni al 50.93 % de descuento'
-date: 2020-12-09 19:10:04
+date: 2020-12-13 09:47:08
 image: 'https://m.media-amazon.com/images/I/413biXc1D0L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,8 @@ Está [Wow! Stuff Collection DW-1020 - Destornillador sónico con Efecto Visual 
 
 ℹ️:
 
+- Viene con una aplicación gratuita para descargar disponible en iOS y Android.
+- Crea tu propia obra de arte impresionante en el aire que te rodea.
+- Este modelo muy detallado del destornillador sónico del decimotercer médico está especialmente diseñado para pintar con luz.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07PCFGWBY/?tag=tolees-21)

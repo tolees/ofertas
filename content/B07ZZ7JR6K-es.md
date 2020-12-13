@@ -24,10 +24,10 @@ Ahora mismo tienes [LEICKE Panel Solar Compatible con EZVIZ C3A Cámaras de Segu
 
 🔎:
 
+- ✔ <b>DISEÑO:</b> resistente a la intemperie permite que el panel solar resista condiciones climáticas adversas. Duradero, robusto y económico.
+- ✔ <b>COMPATIBILIDAD:</b> Con todas las cámaras de exterior EZVIZ alimentadas por batería: El panel solar fue desarrollado especialmente para cámaras de exterior EZVIZ alimentadas por batería, por ejemplo C3A, y ofrece una alimentación continua.
 - ✔ <b>SUMINISTRO DE ENERGÍA SIN PARADA:</b> Conecte el panel solar a su cámara de vigilancia para obtener energía sin interrupciones. Su cámara EZVIZ C3A Outdoor alimentada por batería funcionará día y noche debido a la exposición solar de sólo unas pocas horas.
 - ✔ <b>INSTALACIÓN:</b> El soporte de montaje ajustable permite posicionar el panel solar de forma flexible y sencilla para obtener la máxima exposición solar.
 - ✔ <b>SIN ATORNILLAR:</b> No se requieren agujeros y no hay necesidad de perforar las paredes para instalar cables o alambres complicados.
-- ✔ <b>COMPATIBILIDAD:</b> Con todas las cámaras de exterior EZVIZ alimentadas por batería: El panel solar fue desarrollado especialmente para cámaras de exterior EZVIZ alimentadas por batería, por ejemplo C3A, y ofrece una alimentación continua.
-- ✔ <b>DISEÑO:</b> resistente a la intemperie permite que el panel solar resista condiciones climáticas adversas. Duradero, robusto y económico.
 
 [Visítala!!!](https://www.amazon.es/dp/B07ZZ7JR6K/?tag=tolees-21)

@@ -1,28 +1,33 @@
 ---
 layout: post
-title: 'Crucial CT51264BF160B Memoria RAM de 4 G al 39.81 % de descuento'
-date: 2020-11-10 12:32:44
+title: 'Crucial RAM CT51264BF160B 4 GB DDR3 1600 al 34.02 % de descuento'
+date: 2020-12-13 09:17:50
 image: 'https://m.media-amazon.com/images/I/51li9I80OHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B005LDLV6S-es'
-actualPrice: 18.93 EUR
+actualPrice: 20.75 EUR
 currency: EUR
-price: 18.93
+price: 20.75
 comparePrice: 31.45 EUR
-prodname: 'Crucial CT51264BF160B Memoria RAM de 4 GB  DDR3L  1600 MT/s  PC3L-12800  SODIMM  204-Pin '
+prodname: 'Crucial RAM CT51264BF160B 4 GB DDR3 1600 MHz CL11 Memoria Portátil'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005LDLV6S/?tag=tolees-21'
-descuento: '39.81'
+descuento: '34.02'
 ---
 
-Ahora mismo tienes [Crucial CT51264BF160B Memoria RAM de 4 GB  DDR3L  1600 MT/s  PC3L-12800  SODIMM  204-Pin ](https://www.amazon.es/dp/B005LDLV6S/?tag=tolees-21) a 18.93 EUR (original: 31.45 EUR) (39.81 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Crucial RAM CT51264BF160B 4 GB DDR3 1600 MHz CL11 Memoria Portátil](https://www.amazon.es/dp/B005LDLV6S/?tag=tolees-21) a 20.75 EUR (original: 31.45 EUR) (34.02 %  de descuento) en el siguiente enlace!
 
-[![Crucial CT51264BF160B Memoria RAM de 4 G](https://m.media-amazon.com/images/I/51li9I80OHL._SL200_.jpg)](https://www.amazon.es/dp/B005LDLV6S/?tag=tolees-21)
+[![Crucial RAM CT51264BF160B 4 GB DDR3 1600](https://m.media-amazon.com/images/I/51li9I80OHL._SL200_.jpg)](https://www.amazon.es/dp/B005LDLV6S/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Tipo ECC: No ECC, Factor de forma: SODIMM, Recuento de pines: 204 pines, Velocidad de PC: PC3-12800, Voltaje: 1.35V/1.5V, Rango y Configuración: 2R x 8
+- La calidad y fiabilidad de Micron están respaldadas por las exigentes pruebas a las que sometemos nuestros módulos y componentes, así como gracias a los 42 años de experiencia fabricando dispositivos de memoria
+- La compatibilidad está garantizada cuando se usa Crucial System Scanner o la herramienta Crucial Advisor
+- Mejore la capacidad de respuesta de su sistema, ejecute las aplicaciones más rápido y realice multitareas de forma sencilla
+- Fácil de instalar: no le harán falta conocimientos informáticos; manuales de instrucciones disponibles en Crucial
 
 [Visítala!!!](https://www.amazon.es/dp/B005LDLV6S/?tag=tolees-21)

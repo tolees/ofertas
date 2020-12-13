@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Pop! Animación: One Punch Man- Gar al 31.61 % de descuento'
-date: 2020-12-11 15:16:39
+date: 2020-12-13 09:59:21
 image: 'https://m.media-amazon.com/images/I/41GnYur0oOL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,7 +22,7 @@ Ahora mismo tienes [Funko Pop! Animación: One Punch Man- Garou Fluyendo Agua  T
 
 [![Funko Pop! Animación: One Punch Man- Gar](https://m.media-amazon.com/images/I/41GnYur0oOL._SL200_.jpg)](https://www.amazon.es/dp/B08KCT9FQ9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 - Este juguete de un puñetazo Garou fluye de agua que brilla en la oscuridad. Figura de vinilo: la serie Specialty mide aproximadamente 3 3/4 pulgadas de alto. Viene empaquetado en una caja de exhibición con ventana.
 
