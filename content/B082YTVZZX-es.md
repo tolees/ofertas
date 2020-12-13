@@ -24,8 +24,8 @@ Está [Funko Pop! - DC Birds Of Prey  Keychain Harley Quinn  Caution Tape   Wind
 
 ℹ️:
 
-- Estilizado coleccionable mide 5 cm de alto, perfecto para cualquier fan de Birds of Prey
 - Colecciona y muestra todos los pájaros de presa pop. Vinilos
+- Estilizado coleccionable mide 5 cm de alto, perfecto para cualquier fan de Birds of Prey
 - De Birds of Prey, Harley Quinn (cinta adhesiva), como un llavero POP estilizado de Funko
 
 [Ver la oferta!!](https://www.amazon.es/dp/B082YTVZZX/?tag=tolees-21)

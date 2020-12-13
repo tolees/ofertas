@@ -24,11 +24,11 @@ Ahora mismo tienes [Rimmel London Sculpting Palette  Polvos de maquillaje - Tono
 
 🔎:
 
-- Colorete en polvo para dar color y definicióon
-- Tipo de piel: Piel normal
 - Sombreador para contornerar la nariz y la mandíbula
-- Polvo iluminador para resaltar mejillas, cejas, frente, barbilla y nariz
 - Fácil de desmaquillar
+- Polvo iluminador para resaltar mejillas, cejas, frente, barbilla y nariz
+- Tipo de piel: Piel normal
+- Colorete en polvo para dar color y definicióon
 - Paleta con 3 pasos para contouring
 
 [Visítala!!!](https://www.amazon.es/dp/B01D1HFFFI/?tag=tolees-21)

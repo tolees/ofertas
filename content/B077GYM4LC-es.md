@@ -24,10 +24,10 @@ Tienes [Orbegozo TL 07160 BL – Campana extractora  60 cm  2 bombillas LED  ext
 
 ℹ️:
 
-- Dimensiones; ancho x profundo x alto: 60 x 28-45 x 19.2 cm
-- Motor de 65 W con capacidad de extracción de 308.2 m3/h
-- 2 niveles de potencia
 - 2 bombillas LED de 2.5 W
+- Motor de 65 W con capacidad de extracción de 308.2 m3/h
 - 2 fltros de aluminio desmontables
+- 2 niveles de potencia
+- Dimensiones; ancho x profundo x alto: 60 x 28-45 x 19.2 cm
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B077GYM4LC/?tag=tolees-21)

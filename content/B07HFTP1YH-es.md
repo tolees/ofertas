@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate Plax Multiprotección  Enjuague B al 88.47 % de descuento'
-date: 2020-12-11 15:55:24
+date: 2020-12-13 00:47:14
 image: 'https://m.media-amazon.com/images/I/41asajl5+mL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,7 +22,7 @@ Ahora mismo tienes [Colgate Plax Multiprotección  Enjuague Bucal - 250 ml](http
 
 [![Colgate Plax Multiprotección  Enjuague B](https://m.media-amazon.com/images/I/41asajl5+mL._SL200_.jpg)](https://www.amazon.es/dp/B07HFTP1YH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 - Enjuague bucal de eficacia clínica demostrada por dentistas
 
