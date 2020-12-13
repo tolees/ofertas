@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hugo Boss 58396 - Agua de perfume al 58.70 % de descuento'
-date: 2020-12-12 10:51:06
+date: 2020-12-13 10:52:50
 image: 'https://m.media-amazon.com/images/I/31IPsXNqXgL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,7 +25,7 @@ Está [Hugo Boss 58396 - Agua de perfume](https://www.amazon.es/dp/B00LC0G4FM/?t
 ℹ️:
 
 - Marca: Hugo Boss-boss
-- Tipo de producto: Agua de perfume
 - Productos de belleza y el cuidado personal
+- Tipo de producto: Agua de perfume
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00LC0G4FM/?tag=tolees-21)

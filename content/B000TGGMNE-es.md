@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.16 % en Clatronic AS 2958 Cortafiambres  Corte A'
-date: 2020-12-12 04:26:26
+date: 2020-12-13 10:37:00
 image: 'https://m.media-amazon.com/images/I/41uTivGbFsL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,10 +24,10 @@ Tienes [Clatronic AS 2958 Cortafiambres  Corte Ajustable  180 W  Color Blanco  p
 
 ℹ️:
 
-- Cuchilla especial de acero inoxidable
 - Protección para las manos
+- Cuchilla especial de acero inoxidable
+- Motor de gran potencia 180 W
 - Regulador de corte con calibrador
 - Interruptor de 3 posiciones
-- Motor de gran potencia 180 W
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000TGGMNE/?tag=tolees-21)

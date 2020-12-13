@@ -24,9 +24,9 @@ Está [Majome 1600 dpi 2.4G USB Ratón inalámbrico óptico para computadora Rat
 
 ℹ️:
 
+- Modo de ahorro de energía de 3 niveles: 1) Sin acción en 1 segundo - cambie al modo de descanso 2) Sin acción en 8 minutos - cambie al modo de suspensión 3) Receptor desenchufado o computadora apagada: cambie al modo apagado USB plug and play
 - Portador de RF: 2402-2480MHz Canal de operación RF: 16, salto de frecuencia automático USB: USB 2.0
 - Corriente nominal de funcionamiento: 15 mA, 1,5 V
-- Modo de ahorro de energía de 3 niveles: 1) Sin acción en 1 segundo - cambie al modo de descanso 2) Sin acción en 8 minutos - cambie al modo de suspensión 3) Receptor desenchufado o computadora apagada: cambie al modo apagado USB plug and play
 - Sistemas operativos: Windows 2000, Me, XP, Vista, Win 7 Energía: 2 pilas AAA (no incluidas)
 - Tamaño: 11.3 * 5.9 * 2 cm
 

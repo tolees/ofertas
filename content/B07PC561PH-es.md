@@ -24,7 +24,7 @@ Está [Marca Amazon - Lark & Ro - Blusa de media manga con cuello fruncido para 
 
 ℹ️:
 
-- Esta blusa de tejido suave cuenta con un escote en V con un detalle de pliegues femenino.
 - Las mangas llegan justo por encima del codo y tienen un fruncido bonito.
+- Esta blusa de tejido suave cuenta con un escote en V con un detalle de pliegues femenino.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07PC561PH/?tag=tolees-21)

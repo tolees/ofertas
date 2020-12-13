@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Orbegozo MS 4570 - Cortafiambres metálic al 38.85 % de descuento'
-date: 2020-12-12 10:45:18
+date: 2020-12-13 10:46:52
 image: 'https://m.media-amazon.com/images/I/41hifOeLIgL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,9 +24,9 @@ Está [Orbegozo MS 4570 - Cortafiambres metálica con cuchilla de acero inoxidab
 
 ℹ️:
 
-- Potencia: 150 W
 - Deslizador seguro y extraíble
-- Cuchilla de acero inoxidable
 - La marca del producto es Orbegozo
+- Potencia: 150 W
+- Cuchilla de acero inoxidable
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00KL7KFWU/?tag=tolees-21)

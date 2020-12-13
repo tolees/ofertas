@@ -24,10 +24,10 @@ Está [Keter - Carro de jardín Easy Go 2  Capacidad 55 litros  Color verde](htt
 
 ℹ️:
 
+- Dimensiones del producto: 53 x 58 x 89 cm (Largo x Ancho x Alto)
+- Mobiliario de jardín de diseño moderno, duradero, y de peso ligero para su fácil transporte
 - Incluye carro para jardín con capacidad de 55 litros y con ruedas más resistentes
 - Su elegante diseño de acabado liso hace del carro Easy Go 2 el complemento perfecto para su jardín
 - Ideal para recoger y transportar con facilidad la poda y las hojas
-- Dimensiones del producto: 53 x 58 x 89 cm (Largo x Ancho x Alto)
-- Mobiliario de jardín de diseño moderno, duradero, y de peso ligero para su fácil transporte
 
 [Ver la oferta!!](https://www.amazon.es/dp/B000P2A2AG/?tag=tolees-21)

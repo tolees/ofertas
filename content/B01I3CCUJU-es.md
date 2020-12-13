@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ultratec Tostadora con dos ranuras  tost al 29.76 % de descuento'
-date: 2020-12-10 20:08:17
+date: 2020-12-13 10:18:34
 image: 'https://m.media-amazon.com/images/I/4168n+lJcSL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,9 +24,9 @@ Está [Ultratec Tostadora con dos ranuras  tostadora blanca para 2 rebanadas  mi
 
 ℹ️:
 
-- Función de descongelado, calentado y parada, con indicación luminosa
 - Centrado automático de rebanadas
 - Bandeja recogemigas extraíble
+- Función de descongelado, calentado y parada, con indicación luminosa
 - Contenido del embalaje: 1 tostadora de doble ranura, 22.5 x 18 x 13.8 cm
 - Carcasa Cool Touch de doble pared, de color blanco
 

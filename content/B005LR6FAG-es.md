@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Arcos Serie Riviera - Cuchillo Cocinero  al 48.01 % de descuento'
-date: 2020-12-09 17:05:43
+date: 2020-12-13 10:38:12
 image: 'https://m.media-amazon.com/images/I/31Z2dG1RBUL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,7 +22,11 @@ Ahora mismo tienes [Arcos Serie Riviera - Cuchillo Cocinero Cuchillo de Chef - H
 
 [![Arcos Serie Riviera - Cuchillo Cocinero ](https://m.media-amazon.com/images/I/31Z2dG1RBUL._SL200_.jpg)](https://www.amazon.es/dp/B005LR6FAG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Tiene la longitud de la hoja de 190 mm
+- Cuenta con un diseño ergonómico y elegante
+- Proporciona equilibrio y un agarre cómodo
+- La hoja está hecha de acero inoxidable Nitrum
 
 [Visítala!!!](https://www.amazon.es/dp/B005LR6FAG/?tag=tolees-21)

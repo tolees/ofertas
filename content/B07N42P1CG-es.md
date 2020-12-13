@@ -24,8 +24,8 @@ Ahora mismo tienes [Marca Amazon - IRIS & LILLY Albornoz de Forro Polar para Muj
 
 🔎:
 
+- Tejido suave.
 - Una marca de Amazon.
 - Corbata en la cintura.
-- Tejido suave.
 
 [Visítala!!!](https://www.amazon.es/dp/B07N42P1CG/?tag=tolees-21)

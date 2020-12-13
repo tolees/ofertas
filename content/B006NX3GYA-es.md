@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.55 % en Gigaset DA210 - Teléfono Fijo con Cable '
-date: 2020-12-12 10:37:54
+date: 2020-12-13 10:44:54
 image: 'https://m.media-amazon.com/images/I/41RpY-eNUcL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,9 +24,9 @@ Tienes [Gigaset DA210 - Teléfono Fijo con Cable  Color Negro](https://www.amazo
 
 ℹ️:
 
-- Montaje en pared
-- No requiere enchufe
 - Función mute y rellamada
 - 10 marcaciones directas
+- No requiere enchufe
+- Montaje en pared
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B006NX3GYA/?tag=tolees-21)

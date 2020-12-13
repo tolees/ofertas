@@ -24,7 +24,7 @@ Está [Diesel Sa-briian  Chanclas Hombre  Multicolor  Black/Orange Popsicle/Star
 
 ℹ️:
 
-- Parte superior del logotipo microinyectado.
 - Suela personalizada
+- Parte superior del logotipo microinyectado.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FPQVPYF/?tag=tolees-21)

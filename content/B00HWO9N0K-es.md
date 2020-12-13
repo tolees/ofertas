@@ -24,10 +24,10 @@ Tienes [Superga 2790acotw Linea Up And Down Zapatillas de Gimnasia Mujer  Azul  
 
 ℹ️:
 
+- Flatform
 - Marina de guerra
 - Forro de lona
 - Suela de goma
 - Lona superior
-- Flatform
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00HWO9N0K/?tag=tolees-21)

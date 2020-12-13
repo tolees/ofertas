@@ -24,10 +24,10 @@ Ahora mismo tienes [Joseph Joseph Nest Lock Juego de 5 recipientes de almacenami
 
 🔎:
 
-- Ahorro de espacio, diseño nido.
-- Tapas herméticas y apilables.
-- Tapas fáciles de encontrar, juntas y bases codificadas por colores.
 - Sin BPA.
+- Tapas herméticas y apilables.
 - Apto para congelador, microondas y lavavajillas (solo estante superior).
+- Tapas fáciles de encontrar, juntas y bases codificadas por colores.
+- Ahorro de espacio, diseño nido.
 
 [Visítala!!!](https://www.amazon.es/dp/B07FM7W3RK/?tag=tolees-21)

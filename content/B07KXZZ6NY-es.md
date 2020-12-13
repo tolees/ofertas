@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate Triple Acción Extra Fresh  Pasta al 62.04 % de descuento'
-date: 2020-12-12 10:32:16
+date: 2020-12-13 10:56:13
 image: 'https://m.media-amazon.com/images/I/41PiyYeRjbL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,8 +24,8 @@ Está [Colgate Triple Acción Extra Fresh  Pasta de Dientes  blanqueador y fresc
 
 ℹ️:
 
-- Pasta de dientes con una banda refrescante para una sensación extra de frescura
 - Protección anticaries probada
 - Elimina las manchas de la superficie
+- Pasta de dientes con una banda refrescante para una sensación extra de frescura
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KXZZ6NY/?tag=tolees-21)

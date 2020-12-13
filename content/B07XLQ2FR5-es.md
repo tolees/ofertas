@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pack Harry Potter - Colección Completa G al 36.57 % de descuento'
-date: 2020-12-12 10:36:41
+date: 2020-12-13 10:41:31
 image: 'https://m.media-amazon.com/images/I/51ZFDbhfTZL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,7 +22,7 @@ Ahora mismo tienes [Pack Harry Potter - Colección Completa Golden Steelbook 201
 
 [![Pack Harry Potter - Colección Completa G](https://m.media-amazon.com/images/I/51ZFDbhfTZL._SL200_.jpg)](https://www.amazon.es/dp/B07XLQ2FR5/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07XLQ2FR5/?tag=tolees-21)
