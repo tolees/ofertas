@@ -24,10 +24,10 @@ Tienes [Chicco-00007412000000 Big & Small Triciclo  Color Azul  500 ml  00007412
 
 ℹ️:
 
+- Cinturón de seguridad
 - Mango extraible
-- Mismas cualidades que una bici
 - Incluye cesta
 - Bloqueo de dirección y ruedas
-- Cinturón de seguridad
+- Mismas cualidades que una bici
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00URLWKYG/?tag=tolees-21)

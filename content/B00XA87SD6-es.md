@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.06 % en Trina - Naranja  Botella 1 5 L'
-date: 2020-12-04 14:25:32
+date: 2020-12-13 11:05:49
 image: 'https://m.media-amazon.com/images/I/31SJxv0b9bL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,7 @@ Tienes [Trina - Naranja  Botella 1 5 L](https://www.amazon.es/dp/B00XA87SD6/?tag
 
 ℹ️:
 
+- 10% zumo
+- Fuente de Vitamina C
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00XA87SD6/?tag=tolees-21)

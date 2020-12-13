@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 45.76 % en SanDisk Extreme SSD portátil 1TB - hasta'
-date: 2020-12-11 23:05:26
+date: 2020-12-13 11:03:30
 image: 'https://m.media-amazon.com/images/I/51ZM-ej7bIL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,10 +24,10 @@ Tienes [SanDisk Extreme SSD portátil 1TB - hasta 550MB/s Velocidad de Lectura](
 
 ℹ️:
 
-- Robusta, resistente al agua y al polvo, certificación IP-55
-- Compacta y de bolsillo
 - Para usuarios de PC y Mac
+- Compacta y de bolsillo
 - Las transferencias de gran velocidad de hasta 550MB/s te permiten mover rápidamente vídeos y fotografías de gran resolución
+- Robusta, resistente al agua y al polvo, certificación IP-55
 - Núcleo de estado sólido resistente a golpes para una optima durabilidad
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B078STRHBX/?tag=tolees-21)

@@ -24,10 +24,10 @@ Ahora mismo tienes [Banpresto One Piece Estatua King Of Artist Snakeman Luffy  m
 
 🔎:
 
-- King of artist
 - Incluye base
-- Estatua de colección
 - One piece
 - Licencia oficial
+- Estatua de colección
+- King of artist
 
 [Visítala!!!](https://www.amazon.es/dp/B07MKG9VL7/?tag=tolees-21)
