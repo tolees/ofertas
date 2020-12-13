@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lixone Jabón de Aloe Vera - 3 Unidades al 28.57 % de descuento'
-date: 2020-12-11 22:52:54
+date: 2020-12-12 23:12:38
 image: 'https://m.media-amazon.com/images/I/51m+6ju4IsL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,7 +22,7 @@ Ahora mismo tienes [Lixone Jabón de Aloe Vera - 3 Unidades](https://www.amazon.
 
 [![Lixone Jabón de Aloe Vera - 3 Unidades](https://m.media-amazon.com/images/I/51m+6ju4IsL._SL200_.jpg)](https://www.amazon.es/dp/B071F9HWHW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 - Tipo de piel: mixta
 

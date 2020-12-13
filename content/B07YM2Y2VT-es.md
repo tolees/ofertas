@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Joker Blu-Ray [Blu-ray] al 36.49 % de descuento'
-date: 2020-12-11 22:48:06
+date: 2020-12-12 22:53:00
 image: 'https://m.media-amazon.com/images/I/51iOvki+PUL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,7 +22,7 @@ Ahora mismo tienes [Joker Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07YM2Y2VT
 
 [![Joker Blu-Ray [Blu-ray]](https://m.media-amazon.com/images/I/51iOvki+PUL._SL200_.jpg)](https://www.amazon.es/dp/B07YM2Y2VT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.es/dp/B07YM2Y2VT/?tag=tolees-21)

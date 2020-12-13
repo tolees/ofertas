@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 53.98 % en BaByliss BAB2665E Rizador de pelo automá'
-date: 2020-12-10 13:00:42
+date: 2020-12-12 22:49:33
 image: 'https://m.media-amazon.com/images/I/319oh8AJKZL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,9 @@ Tienes [BaByliss BAB2665E Rizador de pelo automático  cerámico  cable 2.7 m  c
 
 ℹ️:
 
+- Tecnología cerámica: incorpora una cámara cerámica que respeta el cabello y crea rizos suaves
+- Temperatura (190ºC, 210ºC, 230ºC), tiempo (8s, 10s, 12s) y dirección del rizo (derecha, izquierda o alterno) regulables
+- Sistema de calentamiento rápido y de recuperación de la temperatura instantáneo
+- Modo de hibernación tras 20 minutos y apagado automático tras 60 minutos
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00CW9TVH0/?tag=tolees-21)

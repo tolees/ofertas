@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Falomir Caza Zombis  Juego de Mesa  Habi al 50.05 % de descuento'
-date: 2020-12-05 13:19:42
+date: 2020-12-12 22:06:37
 image: 'https://m.media-amazon.com/images/I/61FyZ1wSkmL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,7 +22,10 @@ Ahora mismo tienes [Falomir Caza Zombis  Juego de Mesa  Habilidad  27270    colo
 
 [![Falomir Caza Zombis  Juego de Mesa  Habi](https://m.media-amazon.com/images/I/61FyZ1wSkmL._SL200_.jpg)](https://www.amazon.es/dp/B071HM1SL8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Tendrás que apuntar bien para darles; aparecen y desaparecen, asi qué estáte atento
+- Escucha los escalofriantes sonidos
+- Consigue cazar a todos los zombis
 
 [Visítala!!!](https://www.amazon.es/dp/B071HM1SL8/?tag=tolees-21)

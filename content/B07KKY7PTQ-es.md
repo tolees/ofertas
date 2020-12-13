@@ -24,9 +24,9 @@ Ahora mismo tienes [L.O.L Surprise - Glitter Station  Giochi Preziosi LLU68000 ]
 
 🔎:
 
-- Una experiencia unboxing inolvidable
-- Puedes crear un personaje nuevo; incluye una muñeca exclusiva, purpurina de 4 colores y flocado de 4 colores
 - La LOL Surprise Glitter Factory es un juguete único que te permite transformar completamente a tu muñeca
+- Puedes crear un personaje nuevo; incluye una muñeca exclusiva, purpurina de 4 colores y flocado de 4 colores
 - Transforma tus muñecas y animales tantas veces como quieras
+- Una experiencia unboxing inolvidable
 
 [Visítala!!!](https://www.amazon.es/dp/B07KKY7PTQ/?tag=tolees-21)

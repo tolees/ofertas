@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Panasonic KX-TG1612 - Teléfono Fijo inal al 29.37 % de descuento'
-date: 2020-12-11 22:36:13
+date: 2020-12-12 22:38:06
 image: 'https://m.media-amazon.com/images/I/41DliBwKv1L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,11 +24,11 @@ Está [Panasonic KX-TG1612 - Teléfono Fijo inalámbrico Dúo  LCD  identificado
 
 ℹ️:
 
-- Tecla de navegación: sí
-- Jack de auriculares: no
 - Registro de llamada: 50 artículos (número y nombres)
-- Altavoz: no
 - Identificador de llamada: compatibilidad con identificador de llamada: sí
 - Identificación de llamada audible: no
+- Tecla de navegación: sí
+- Altavoz: no
+- Jack de auriculares: no
 
 [Ver la oferta!!](https://www.amazon.es/dp/B005IZGMG8/?tag=tolees-21)

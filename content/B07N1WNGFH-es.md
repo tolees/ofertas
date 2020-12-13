@@ -24,12 +24,12 @@ Ahora mismo tienes [Seiko Reloj Analógico para Unisex Adultos de Cuarzo con Cor
 
 🔎:
 
-- Carcasa de acero inoxidable
-- Cristal Hardlex (cristal mineral endurecido de la superficie)
-- Tapa atornillada
-- 43,0 x 11,0 mm
-- Resistente al agua hasta 100 metros
 - LumiBrite (desarrollado por Seiko)
+- Resistente al agua hasta 100 metros
+- 43,0 x 11,0 mm
+- Tapa atornillada
+- Cristal Hardlex (cristal mineral endurecido de la superficie)
 - Correa de metal con cierre desplegable
+- Carcasa de acero inoxidable
 
 [Visítala!!!](https://www.amazon.es/dp/B07N1WNGFH/?tag=tolees-21)

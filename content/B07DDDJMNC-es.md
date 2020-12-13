@@ -24,11 +24,11 @@ Está [Furreal Friends Hasbro E0388105 - Lolo  Mi Loro Molón](https://www.amazo
 
 ℹ️:
 
-- Tiene un sinfín de puntos de activación para que se mueva - puede mover la cabeza, el cuerpo, las alas, la cresta
+- Es de la marca hasbro
+- Un pájaro con un sinfín de talentos
 - 3 originales maneras de cantar y bailar
 - Responde con más de 50 combinaciones de sonido y movimiento
 - A este pájaro talentoso le encanta interpretar
-- Un pájaro con un sinfín de talentos
-- Es de la marca hasbro
+- Tiene un sinfín de puntos de activación para que se mueva - puede mover la cabeza, el cuerpo, las alas, la cresta
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07DDDJMNC/?tag=tolees-21)

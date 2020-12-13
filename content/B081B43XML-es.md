@@ -24,10 +24,10 @@ Está [MVMT Reloj para Mujer de Cuarzo analógico con Correa en Acero Inoxidable
 
 ℹ️:
 
-- Ancho de la correa: 16 mm
 - Caja gris pardo en acero inoxidable pulida y esfera Blanca
-- 3 ATM de resistencia al agua
 - Movimiento de cuarzo Miyota
 - Grosor de la caja de 10 mm / Diámetro de la caja: 36 mm
+- 3 ATM de resistencia al agua
+- Ancho de la correa: 16 mm
 
 [Ver la oferta!!](https://www.amazon.es/dp/B081B43XML/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 60.92 % en Star Wars: The Mandalorian RK39061C  lla'
-date: 2020-11-22 10:52:36
+date: 2020-12-12 22:00:11
 image: 'https://m.media-amazon.com/images/I/41VtPPC7Y0L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,8 @@ Tienes [Star Wars: The Mandalorian RK39061C  llavero de goma  Baby Yoda   unisex
 
 ℹ️:
 
+- Ideal como regalo.
+- Artículo fabricado con licencia oficial.
+- Material: goma.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B086HDKX1V/?tag=tolees-21)
