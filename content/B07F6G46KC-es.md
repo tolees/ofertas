@@ -24,10 +24,10 @@ Ahora mismo tienes [PUMA ESS G - Mallas para niña  Niñas  Pantalones  851764 0
 
 🔎:
 
-- Corte ajustado.
+- Logotipo de Puma número 1 en impresión de pigmento.
 - Diseño clásico de leggings.
 - Pierna larga.
 - Cintura elástica.
-- Logotipo de Puma número 1 en impresión de pigmento.
+- Corte ajustado.
 
 [Visítala!!!](https://www.amazon.es/dp/B07F6G46KC/?tag=tolees-21)

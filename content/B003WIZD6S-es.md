@@ -25,8 +25,8 @@ Tienes [Puma Sports Socks - Calcetines de deporte para hombre  multicolor  talla
 ℹ️:
 
 - Adecuados para deportes o para uso diario
-- Tienen impreso logotipo en el tobillo
-- Tienen un material transpirable y elástico
 - Cómodos de llevar
+- Tienen un material transpirable y elástico
+- Tienen impreso logotipo en el tobillo
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B003WIZD6S/?tag=tolees-21)

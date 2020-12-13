@@ -25,9 +25,9 @@ Tienes [Wasteland 3 - Day One Edition](https://www.amazon.es/dp/B081NRHRD6/?tag=
 ℹ️:
 
 - Un creador de personajes muy detallado con diversas ventajas y habilidades para permitir una personalización profunda en tu equipo de seis Rangers
-- Un juego de rol en grupo con una historia profunda, un combate estratégico y empatía hacía los personajes y su mundo
-- Sistema de diálogos dinámico doblado
-- Los vehículos de los jugadores, los peligros ambientales y un sistema de acción renovado y más fluido son algunas de las nuevas características que evolucionan en el profundo combate táctico por turnos de Wasteland 2 y el diseño bueno de encuentros
 - Nos situamos en las tierras salvajes del congelado Colorado, donde la supervivencia es difícil y nunca se garantiza un final feliz; las elecciones morales difíciles desafiarán al jugador y lo obligarán a hacer sacrificios que cambiarán el mundo del juego
+- Sistema de diálogos dinámico doblado
+- Un juego de rol en grupo con una historia profunda, un combate estratégico y empatía hacía los personajes y su mundo
+- Los vehículos de los jugadores, los peligros ambientales y un sistema de acción renovado y más fluido son algunas de las nuevas características que evolucionan en el profundo combate táctico por turnos de Wasteland 2 y el diseño bueno de encuentros
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B081NRHRD6/?tag=tolees-21)

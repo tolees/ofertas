@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.02 % en Superdry Orange Label Vntge Emb S/S tee '
-date: 2020-12-11 12:24:48
+date: 2020-12-13 12:53:09
 image: 'https://m.media-amazon.com/images/I/31Attlm30hL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,9 +24,9 @@ Tienes [Superdry Orange Label Vntge Emb S/S tee Camiseta  Azul  Eclipse Navy 98T
 
 ℹ️:
 
-- Pequeño logo estampado en el pecho
+- Tiene un tejido ligero y suave
 - Adecuada para el uso diario
 - Las prendas de Superdry son fabricadas con un adecuado balance entre estilo y confort; recomendamos una talla superior a la que emplea habitualmente para una auténtica experiencia Superdry
-- Tiene un tejido ligero y suave
+- Pequeño logo estampado en el pecho
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FDJ68GP/?tag=tolees-21)

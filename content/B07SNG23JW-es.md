@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 57.61 % en Xiaomi Mi Smart Band 4 - Tracker de acti'
-date: 2020-12-12 10:48:34
+date: 2020-12-13 12:55:56
 image: 'https://m.media-amazon.com/images/I/41f0QNTny1L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,10 +24,10 @@ Tienes [Xiaomi Mi Smart Band 4 - Tracker de actividad física con medidor de fre
 
 ℹ️:
 
-- Pantalla táctil AMOLED a color con mejor brillo y 40% más de pantalla visible. Visualiza tus llamadas, mensajes y notificaciones
-- Seguimiento de actividad física (incluido natación). Resistente al agua hasta los 50 m.
-- Monitorización de la salud. Seguimiento de la frecuencia cardíaca y el sueño 24/7
 - Hasta 20 días de batería con una sola carga
+- Seguimiento de actividad física (incluido natación). Resistente al agua hasta los 50 m.
 - Mejora en la medición de las métricas. Incluye acelerómetro de 3 ejes y giróscopo de 3 ejes
+- Pantalla táctil AMOLED a color con mejor brillo y 40% más de pantalla visible. Visualiza tus llamadas, mensajes y notificaciones
+- Monitorización de la salud. Seguimiento de la frecuencia cardíaca y el sueño 24/7
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07SNG23JW/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.18 % en TP-Link AC1200 Deco M4  2 Pack  - Router'
-date: 2020-12-11 00:13:32
+date: 2020-12-13 12:52:52
 image: 'https://m.media-amazon.com/images/I/31HKPJuq1AL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,13 +25,13 @@ Tienes [TP-Link AC1200 Deco M4  2 Pack  - Router  Repetidor de Wi-fi  Mesh Wi-fi
 ℹ️:
 
 - Operación fácil: Operación fácil en la App Deco. Ahora puede bloquear ciertos sitios web, suspender el acceso a Internet, programar el tiempo de navegación en Internet, solo con un toque de su dedo
-- ADVERTENCIA: Si tiene un Internet de más de 100 Mbps, para aprovechar al máximo el puerto gigabit y tener la mejor experiencia, es esencial preparar un cable de red de CAT.6 o superior
 - Roaming continuo: Deco creará una red unificada con un solo SSID, cuando se mueva por la casa, siempre se conectará la mejor unidad sin pérdida de señal; Deco M4 también es compatible con otros Deco
-- Mesh Wifi: Innovadora solución inalámbrica con niveles máximos de confiabilidad: distribuye una conexión wi-fi rápida, estable e ininterrumpida de hasta 1167 mbps
-- QoS: A través de la aplicación Deco, puede asignar la prioridad correcta a cada aplicación, para mantener la fluidez incluso en caso de congestión o ralentización de la conexión a Internet
-- Configuración fácil: Instale la aplicación Deco y siga las sencillas instrucciones en pantalla para configurar la red; Deco se encargará de todo, ofreciéndole el mejor rendimiento con total seguridad
 - Control parental: La aplicación Deco también proporciona control parental, configuraciones avanzadas para la máxima seguridad de sus hijos
 - Cobertura escalable: Deco M4 proporciona un área de cobertura de hasta 260 m² (2-pack), para obtener más cobertura simplemente agregue una nueva unidad a su kit
+- QoS: A través de la aplicación Deco, puede asignar la prioridad correcta a cada aplicación, para mantener la fluidez incluso en caso de congestión o ralentización de la conexión a Internet
 - Soporte técnico local gratuito: TP-Link España proporciona soporte técnico local gratuito para usuarios en España; puede encontrar información de contacto en el web oficial de TP-Link
+- Mesh Wifi: Innovadora solución inalámbrica con niveles máximos de confiabilidad: distribuye una conexión wi-fi rápida, estable e ininterrumpida de hasta 1167 mbps
+- ADVERTENCIA: Si tiene un Internet de más de 100 Mbps, para aprovechar al máximo el puerto gigabit y tener la mejor experiencia, es esencial preparar un cable de red de CAT.6 o superior
+- Configuración fácil: Instale la aplicación Deco y siga las sencillas instrucciones en pantalla para configurar la red; Deco se encargará de todo, ofreciéndole el mejor rendimiento con total seguridad
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KJ2TDMR/?tag=tolees-21)

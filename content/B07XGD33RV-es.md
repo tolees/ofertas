@@ -24,10 +24,10 @@ Está [Hugo BOSS Reloj para de Cuarzo con Correa en Acero Inoxidable 1513758](ht
 
 ℹ️:
 
+- Grosor de la caja de 12,3 mm, Diámetro de la caja: 43 mm
+- Movimiento cronógrafo / Función de fecha
+- Pulsera con chapado iónico azul
 - 5 ATM de resistencia al agua
 - Esfera azul
-- Movimiento cronógrafo / Función de fecha
-- Grosor de la caja de 12,3 mm, Diámetro de la caja: 43 mm
-- Pulsera con chapado iónico azul
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07XGD33RV/?tag=tolees-21)

@@ -24,9 +24,9 @@ Ahora mismo tienes [Arcos Serie Riviera - Cuchillo Cocinero Cuchillo de Chef - H
 
 🔎:
 
-- La hoja está hecha de acero inoxidable Nitrum
-- Cuenta con un diseño ergonómico y elegante
-- Tiene la longitud de la hoja de 190 mm
 - Proporciona equilibrio y un agarre cómodo
+- Cuenta con un diseño ergonómico y elegante
+- La hoja está hecha de acero inoxidable Nitrum
+- Tiene la longitud de la hoja de 190 mm
 
 [Visítala!!!](https://www.amazon.es/dp/B005LR6FAG/?tag=tolees-21)

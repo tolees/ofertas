@@ -24,9 +24,9 @@ Está [VERO MODA VMMAXI MY LS SOFT LONG U-NECK NOOS  Camisa Manga Larga Mujer  N
 
 ℹ️:
 
-- VMMAXI MY LS SOFT LONG U-NECK NOOS
-- Negro (Black)
-- 36 (Talla del fabricante: Small)
 - Camisa Manga Larga Mujer
+- VMMAXI MY LS SOFT LONG U-NECK NOOS
+- 36 (Talla del fabricante: Small)
+- Negro (Black)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01F76OEQ2/?tag=tolees-21)

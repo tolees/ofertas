@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Samba Classic  Zapatillas de Fútb al 35.03 % de descuento'
-date: 2020-10-15 11:57:38
+date: 2020-12-13 12:17:09
 image: 'https://m.media-amazon.com/images/I/415xhdqolcL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,9 @@ Está [adidas Samba Classic  Zapatillas de Fútbol para Hombre  Negro  Black/Run
 
 ℹ️:
 
+- Categories: Shoes
+- Manufacturer: adidas
+- Geschlecht: Neutral
+- Ground: Indoor
 
 [Ver la oferta!!](https://www.amazon.es/dp/B000G4NK6Q/?tag=tolees-21)
