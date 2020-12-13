@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apli Paper 11475 Papel Fotografico A4 Ev al 37.95 % de descuento'
-date: 2020-12-12 04:27:58
+date: 2020-12-13 04:45:41
 image: 'https://m.media-amazon.com/images/I/41e58LM4SfL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,7 +22,7 @@ Ahora mismo tienes [Apli Paper 11475 Papel Fotografico A4 Everyday 180GR 100H](h
 
 [![Apli Paper 11475 Papel Fotografico A4 Ev](https://m.media-amazon.com/images/I/41e58LM4SfL._SL200_.jpg)](https://www.amazon.es/dp/B000GYHX8C/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 - Acabado de papel: glossy
 

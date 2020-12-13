@@ -24,10 +24,10 @@ Está [TBPHP 10pcs micro agujas DermaPen Agujas de repuesto puntas cartucho Slot
 
 ℹ️:
 
-- Solo para uso personal, no comparta con otros para evitar infecciones.
 - Se puede utilizar en la mayoría de dermapen del mercado. Si no estás seguro, no dudes en contactar con nosotros.
 - Esteriliza las agujas con 75% de alcohol antes del tratamiento.
 - 10pcs 12 agujas Agujas Cartucho .Esta es la ranura para tornillo.Comprar la pluma dermapen correcta:https://www.amazon.es/dp/B07L2TC7NY
 - Eficaz para el retiro de la marca de estiramiento, antienvejecimiento, reparación de cicatrices del acné, reducción de arrugas, reducción de celulitis, tratamientos de pérdida de cabello, etc
+- Solo para uso personal, no comparta con otros para evitar infecciones.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07L2TLF4H/?tag=tolees-21)

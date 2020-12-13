@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 39.95 % en ONLY onlNEW ROYAL REG SK. BIKER COATED N'
-date: 2020-12-12 04:31:19
+date: 2020-12-13 04:54:07
 image: 'https://m.media-amazon.com/images/I/31TrtUb5hTL._SL200_.jpg'
 comments: true
 category: ofertas

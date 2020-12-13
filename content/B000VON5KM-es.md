@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tous EDT 90ml al 46.78 % de descuento'
-date: 2020-12-12 04:28:04
+date: 2020-12-13 04:36:42
 image: 'https://m.media-amazon.com/images/I/41WYtbF0M3L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,10 +22,10 @@ Ahora mismo tienes [Tous EDT 90ml](https://www.amazon.es/dp/B000VON5KM/?tag=tole
 
 [![Tous EDT 90ml](https://m.media-amazon.com/images/I/41WYtbF0M3L._SL200_.jpg)](https://www.amazon.es/dp/B000VON5KM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
-- Fondo: Musc blanco, cedro de marruecos e iris
-- Corazón: Jazmon blanco,, peonia amarilla, rosa y gardenia
 - Salida: hojas de casis, violeta, bergamota y coriandro.
+- Corazón: Jazmon blanco,, peonia amarilla, rosa y gardenia
+- Fondo: Musc blanco, cedro de marruecos e iris
 
 [Visítala!!!](https://www.amazon.es/dp/B000VON5KM/?tag=tolees-21)

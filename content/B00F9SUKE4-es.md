@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Russell Hobbs 20562-56 - SteamGlide Prof al 40.01 % de descuento'
-date: 2020-12-12 04:27:32
+date: 2020-12-13 04:36:51
 image: 'https://m.media-amazon.com/images/I/41wtUjwpsfL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,10 +24,10 @@ Está [Russell Hobbs 20562-56 - SteamGlide Professional - Plancha de Ropa de Vap
 
 ℹ️:
 
-- Vapor vertical: vapor continuo de 40 gramos y golpe de vapor de 140 gramos; depósito de agua de 300 mililitros
-- Antideslizante; dispone de asa soft touch, selector de temperatura y 2 metros de cable
-- Incluye pulverizador y chorro de vapor; función de autolimpieza
 - Suela de carámica
+- Antideslizante; dispone de asa soft touch, selector de temperatura y 2 metros de cable
 - 2600 W; uso en seco o con vapor
+- Vapor vertical: vapor continuo de 40 gramos y golpe de vapor de 140 gramos; depósito de agua de 300 mililitros
+- Incluye pulverizador y chorro de vapor; función de autolimpieza
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00F9SUKE4/?tag=tolees-21)
