@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Russell Hobbs Adventure - Hervidor de ag al 26.26 % de descuento'
-date: 2020-11-15 07:27:41
+date: 2020-12-13 14:39:43
 image: 'https://m.media-amazon.com/images/I/412S8V9tF7L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,7 +22,12 @@ Ahora mismo tienes [Russell Hobbs Adventure - Hervidor de agua eléctrico peque�
 
 [![Russell Hobbs Adventure - Hervidor de ag](https://m.media-amazon.com/images/I/412S8V9tF7L._SL200_.jpg)](https://www.amazon.es/dp/B07NDCV4MV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Hierve 1 taza en poco más de 50 segundos
+- Diseño mini de 1 L en acero inoxidable cepillado
+- Ahorra hasta un 66% de electricidad
+- Potencia de 2400 W
+- Interruptor luminoso de encendido y apagado y filtro antical extraíble y lavable
 
 [Visítala!!!](https://www.amazon.es/dp/B07NDCV4MV/?tag=tolees-21)

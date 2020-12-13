@@ -24,7 +24,7 @@ Tienes [TomTom GO 620  GPS para coche  6 pulgadas  llamadas manos libres  Siri y
 
 ℹ️:
 
-- Control por voz
 - Aviso de radares
+- Control por voz
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01L8NDGOE/?tag=tolees-21)

@@ -24,8 +24,8 @@ Ahora mismo tienes [Osram 7528-02B Lámpara BAY15d 12V 21/5W P21/5W  blanco](htt
 
 🔎:
 
-- Calidad fiable
 - Calidad OEM
+- Calidad fiable
 - Amplia gama de productos
 
 [Visítala!!!](https://www.amazon.es/dp/B002QZZ0V6/?tag=tolees-21)

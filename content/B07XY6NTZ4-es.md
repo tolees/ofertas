@@ -24,10 +24,10 @@ Ahora mismo tienes [SHARP HT-SBW182 Soundbar 2.1 Slim con Subwoofer inalámbrico
 
 🔎:
 
-- Función bluetooth: reproduzca contenido de audio desde su smartphone, smart tv o tablet
-- Fácil manejo gracias a los botones en el propio dispositivo o al mando a distancia suministrado, pero también puede contralar la barra de sonido con el propio mando a distancia de la mayoría de las televisiones utilizando la conexión hdmi gracias a la tecnología arc/cec
-- Potente barra de sonido con subwoofer externo inalambrico para graves potentes: experiencia de entretenimiento para juegos o cine en casa con su tv; ideal para televisores y pantallas de tamaño mediano de 40-43" o superior
-- Se puede conectar a cualquier tv con hdmi, audio óptico digital o salida auxiliar de 3.5 mm; montaje en pared o de sobremesa; rendimiento potente gracias a la potencía de 160 w
 - Perfecto para la sala de estar, la cocina, el comedor o incluso el dormitorio; se adapta a la pantalla de la mayoría de los televisores y monitores gracias a su perfil bajo y delgado (6 cm)
+- Función bluetooth: reproduzca contenido de audio desde su smartphone, smart tv o tablet
+- Potente barra de sonido con subwoofer externo inalambrico para graves potentes: experiencia de entretenimiento para juegos o cine en casa con su tv; ideal para televisores y pantallas de tamaño mediano de 40-43" o superior
+- Fácil manejo gracias a los botones en el propio dispositivo o al mando a distancia suministrado, pero también puede contralar la barra de sonido con el propio mando a distancia de la mayoría de las televisiones utilizando la conexión hdmi gracias a la tecnología arc/cec
+- Se puede conectar a cualquier tv con hdmi, audio óptico digital o salida auxiliar de 3.5 mm; montaje en pared o de sobremesa; rendimiento potente gracias a la potencía de 160 w
 
 [Visítala!!!](https://www.amazon.es/dp/B07XY6NTZ4/?tag=tolees-21)

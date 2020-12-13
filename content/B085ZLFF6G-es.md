@@ -24,10 +24,10 @@ Está [Victiv Trípode Móvil 145cm  Trípode de Teléfono Móvil de Aluminio Li
 
 ℹ️:
 
-- Garantía: garantía de calidad de dos años. Si tiene algún problema de calidad, puede contactarnos para obtener un servicio postventa. Garantizamos responder el correo electrónico dentro de las 24 horas. Esforzarse por hacer de cada consumidor una buena experiencia de compra y comprar un producto satisfactorio
 - Disparo de múltiples ángulos: la cabeza esférica de 360 ​​° permite que el movimiento de giro e inclinación cumpla con cualquier ángulo requerido por el usuario. El tubo de derivación de 3 secciones y el bloqueo de la pata de la palanca abatible, se pueden configurar rápidamente, se expanden de 42cm a 145cm en segundos, lo ayudan a obtener paisajes más maravillosos
-- Alta calidad: fabricado con la mejor aleación de aluminio, tubo en forma de D, ideal para tomar fotos en fiestas de cumpleaños, cenas familiares, celebraciones de empresas, campamentos o visitas turísticas
-- Versatilidad: adecuado para cámaras de luz y la mayoría de los teléfonos inteligentes, niveles láser, proyectores, cámaras web, etc
+- Garantía: garantía de calidad de dos años. Si tiene algún problema de calidad, puede contactarnos para obtener un servicio postventa. Garantizamos responder el correo electrónico dentro de las 24 horas. Esforzarse por hacer de cada consumidor una buena experiencia de compra y comprar un producto satisfactorio
 - Ligero y estable: el peso es de solo 578g y la longitud de almacenamiento es de solo 43 cm, lo cual es conveniente para transportar y adecuado para llevar a viajes; Los pies de goma antideslizantes se pueden usar en pisos irregulares, y la excelente estructura estable puede soportar hasta 4.4 lb (2.0 kg) de peso
+- Versatilidad: adecuado para cámaras de luz y la mayoría de los teléfonos inteligentes, niveles láser, proyectores, cámaras web, etc
+- Alta calidad: fabricado con la mejor aleación de aluminio, tubo en forma de D, ideal para tomar fotos en fiestas de cumpleaños, cenas familiares, celebraciones de empresas, campamentos o visitas turísticas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B085ZLFF6G/?tag=tolees-21)

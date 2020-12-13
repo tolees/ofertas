@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Mi City  Mochila para Portátiles  al 28.79 % de descuento'
-date: 2020-12-08 23:45:30
+date: 2020-12-13 14:15:40
 image: 'https://m.media-amazon.com/images/I/51lbplDjL+L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,6 @@ Está [Xiaomi Mi City  Mochila para Portátiles y netbooks  Poliéster  Gris  Mo
 
 ℹ️:
 
+- Xiaomi mochila mi city backpack light grey
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07DLC9L6W/?tag=tolees-21)

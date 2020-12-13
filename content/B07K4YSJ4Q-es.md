@@ -25,9 +25,9 @@ Tienes [Blazblue Central Fiction Edicion Especial](https://www.amazon.es/dp/B07K
 ℹ️:
 
 - 40+ hour story mode - A Brand New Chapter in the Saga. A massive story mode coupled with new modes and mechanics will keep you coming back for more!
-- 60+ Stages - New locales and familiar stomping grounds are all rendered in 3D and offer a unique contrast to the intricately hand-drawn 2D fighter sprites.
 - 30+ Characters - Compelling visual designs and creative combat mechanics dominate this cast of excellent characters.
-- All the DLC included! - Additional characters Es, Mai, Susanoo and Jubei, as well as colours and the Plush Set!
+- 60+ Stages - New locales and familiar stomping grounds are all rendered in 3D and offer a unique contrast to the intricately hand-drawn 2D fighter sprites.
 - The most up-to-date version - Enjoy the full re-balanced version that includes the 2.0 patch!
+- All the DLC included! - Additional characters Es, Mai, Susanoo and Jubei, as well as colours and the Plush Set!
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07K4YSJ4Q/?tag=tolees-21)

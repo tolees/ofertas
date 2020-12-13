@@ -24,10 +24,10 @@ Tienes [LOL Surprise - Winter Chalet  Giochi Preziosi LLUA1000 ](https://www.ama
 
 ℹ️:
 
-- Necesita de la supervisión de un adulto para el montaje
-- Incluye chimenea que expulsa nieve, pista de patinaje sobre hielo real, bañera de hidromasaje, telesilla que funciona de verdad, luces para decorar la casa
-- Tiene en exclusiva una familia lol (muñeca lol, lil y mascota)
 - L.o.l surprise; winter disco chalet incluye más de 95 sorpresas
 - Casa de madera, de varios pisos, estilo chalet con 6 habitaciones y 3 pisos
+- Tiene en exclusiva una familia lol (muñeca lol, lil y mascota)
+- Incluye chimenea que expulsa nieve, pista de patinaje sobre hielo real, bañera de hidromasaje, telesilla que funciona de verdad, luces para decorar la casa
+- Necesita de la supervisión de un adulto para el montaje
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07PPR6P5D/?tag=tolees-21)

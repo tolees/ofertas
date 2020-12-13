@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 59.80 % en Intex 59065NP - Pelota hinchable gigante'
-date: 2020-12-09 11:15:44
+date: 2020-12-13 14:42:39
 image: 'https://m.media-amazon.com/images/I/41PvIUtHXDL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,10 @@ Tienes [Intex 59065NP - Pelota hinchable gigante círculos de diámetro 107 cm  
 
 ℹ️:
 
+- Resistente al cloro y a la acción del agua salada: recomendado para jugar en la playa, en piscinas o en jardines
+- Balón hinchable Intex Jumbo; diámetro: 107 cm
+- Incluye kit de parches para reparar pequeños poros o pinchazos
+- Diseño colorido y transparente de círculos de color: rosas, verdes, azules, violetas, naranjas y amarillos
+- El balón hinchable está fabricado de vinilo resistente
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B004EIZRZ2/?tag=tolees-21)

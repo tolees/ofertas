@@ -24,10 +24,10 @@ Ahora mismo tienes [Russell Hobbs Retro - Hervidor de Agua Eléctrico  2400 W  1
 
 🔎:
 
-- Dispone de indicador de temperatura, indicador del nivel de agua e interruptor luminoso de encendido y apagado
 - Capacidad de 1,7 litros con una base de 360º, 2400 vatios de potencia
-- Hervidor de acero inoxidable con impresionantes adornos retro
-- Incluye de filtro extraíble y lavable, tapa de fácil extracción, boquilla para un vertido perfecto y asa ergonómica de tacto suave
 - Zona de ebullición rápida con indicador de 1/2/3 tazas, hierve una taza en 55 segundos y ahorra hasta un 66 % de electricidad
+- Dispone de indicador de temperatura, indicador del nivel de agua e interruptor luminoso de encendido y apagado
+- Incluye de filtro extraíble y lavable, tapa de fácil extracción, boquilla para un vertido perfecto y asa ergonómica de tacto suave
+- Hervidor de acero inoxidable con impresionantes adornos retro
 
 [Visítala!!!](https://www.amazon.es/dp/B01JRZIN4S/?tag=tolees-21)
