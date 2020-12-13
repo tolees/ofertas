@@ -24,9 +24,9 @@ Está [Jack & Jones Jjebasic Knit V-Neck Noos suéter  Gris  Dark Grey Melange D
 
 ℹ️:
 
+- - Classic – and suitable for every day.
 - Made from comfortable cotton
 - Regular fit knitted piece for men.
-- - Classic – and suitable for every day.
 - Material composition: 100 % cotton.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07C27SZCM/?tag=tolees-21)

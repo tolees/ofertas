@@ -24,10 +24,10 @@ Ahora mismo tienes [Geox D Ophira C  Zapatillas para Mujer  Plateado  Lt Grey/Si
 
 🔎:
 
-- Material exterior: Sintético
 - Revestimiento: Malla
-- Cierre: Cordones
-- Tipo de tacón: Plano
 - Material de la suela: Sintético
+- Tipo de tacón: Plano
+- Cierre: Cordones
+- Material exterior: Sintético
 
 [Visítala!!!](https://www.amazon.es/dp/B07SWV1ZBW/?tag=tolees-21)
