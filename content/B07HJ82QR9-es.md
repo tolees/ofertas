@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Figura Pop Attack ON Titans : Ymir al 25.08 % de descuento'
-date: 2020-12-08 16:41:55
+date: 2020-12-13 13:41:51
 image: 'https://m.media-amazon.com/images/I/41niBhY9EpL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,7 +22,8 @@ Ahora mismo tienes [Figura Pop Attack ON Titans : Ymir](https://www.amazon.es/dp
 
 [![Figura Pop Attack ON Titans : Ymir](https://m.media-amazon.com/images/I/41niBhY9EpL._SL200_.jpg)](https://www.amazon.es/dp/B07HJ82QR9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Figura pop attack on titans: ymir
 
 [Visítala!!!](https://www.amazon.es/dp/B07HJ82QR9/?tag=tolees-21)

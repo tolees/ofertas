@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sorel Newbie  Botas Mujer  Negro  Black  al 35.50 % de descuento'
-date: 2020-12-05 21:25:48
+date: 2020-12-13 13:36:10
 image: 'https://m.media-amazon.com/images/I/41ZCPuZLcVL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,7 +22,9 @@ Ahora mismo tienes [Sorel Newbie  Botas Mujer  Negro  Black  Grill   38 EU](http
 
 [![Sorel Newbie  Botas Mujer  Negro  Black ](https://m.media-amazon.com/images/I/41ZCPuZLcVL._SL200_.jpg)](https://www.amazon.es/dp/B00OI8T4J8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Material: Obermaterial: Leder / Decksohle: Kunststoff / Laufsohle: Gummi / Kunstfell: 100% Polyester
+- Gender: Women
 
 [Visítala!!!](https://www.amazon.es/dp/B00OI8T4J8/?tag=tolees-21)

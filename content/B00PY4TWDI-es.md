@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fossil Joyas para Mujer JF01321791 al 31.58 % de descuento'
-date: 2020-12-10 09:35:26
+date: 2020-12-13 13:18:56
 image: 'https://m.media-amazon.com/images/I/41lvB4uuSTL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,8 @@ Está [Fossil Joyas para Mujer JF01321791](https://www.amazon.es/dp/B00PY4TWDI/?
 
 ℹ️:
 
+- Presentado con instrucciones de cuidado y lata de Fossil
+- Anillo de mujer FOSSIL - Talla K
+- Anillo de acero inoxidable con acabado pulido brillante en color oro rosa y glitz con efecto retorcido
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00PY4TWDI/?tag=tolees-21)

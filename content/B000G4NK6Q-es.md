@@ -24,8 +24,8 @@ Está [adidas Samba Classic  Zapatillas de Fútbol para Hombre  Negro  Black/Run
 
 ℹ️:
 
-- Categories: Shoes
 - Manufacturer: adidas
+- Categories: Shoes
 - Geschlecht: Neutral
 - Ground: Indoor
 

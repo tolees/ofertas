@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.33 % en Oster Prima Cafetera automática para Cap'
-date: 2020-12-12 08:09:56
+date: 2020-12-13 13:07:46
 image: 'https://m.media-amazon.com/images/I/519umFVtfNL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,18 +24,18 @@ Tienes [Oster Prima Cafetera automática para Cappuccino  Latte y Espresso con T
 
 ℹ️:
 
-- Selector automático para preparar espressos, cappuccinos y lattes sencillos o dobles
 - Depósito para leche extraíble
-- 15 bares de potencia
-- Programa manual para poder personalizar tu café
-- Ciclo de colado automático para la espuma de leche
-- Depósito para leche extraíble para su almacenaje en nevera
-- Cafetera Espresso con tratamiento de leche
-- Depósito para leche, desmontable con capacidad de 300ml, que permite preparar bebidas con leche fresca en un solo paso. Fácil de limpiar y guardar en el refrigerador.
-- Perilla para controlar la intensidad de espuma de leche, ofrece la posibilidad de ajustar la bebida a tu preferencia
-- Cafetera Espresso con tratamiento de leche
 - Modo manual para personalizar las porciones de espresso y de leche
+- Cafetera Espresso con tratamiento de leche
 - 15 bares de presión
+- 15 bares de potencia
 - Bomba italiana con 15 bares de presión para mayor cremosidad
+- Perilla para controlar la intensidad de espuma de leche, ofrece la posibilidad de ajustar la bebida a tu preferencia
+- Programa manual para poder personalizar tu café
+- Depósito para leche, desmontable con capacidad de 300ml, que permite preparar bebidas con leche fresca en un solo paso. Fácil de limpiar y guardar en el refrigerador.
+- Depósito para leche extraíble para su almacenaje en nevera
+- Selector automático para preparar espressos, cappuccinos y lattes sencillos o dobles
+- Ciclo de colado automático para la espuma de leche
+- Cafetera Espresso con tratamiento de leche
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00D40Z5EO/?tag=tolees-21)

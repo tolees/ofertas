@@ -24,7 +24,7 @@ Está [Converse Chuck Taylor All Star Ox   Zapatillas Hombre  Black White  36 EU
 
 ℹ️:
 
-- La parte superior de cuero
 - La tapa de goma del dedo del pie
+- La parte superior de cuero
 
 [Ver la oferta!!](https://www.amazon.es/dp/B000EDKS46/?tag=tolees-21)

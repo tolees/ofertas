@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance Hombre 574v2-core Trainers Z al 29.97 % de descuento'
-date: 2020-12-12 08:09:59
+date: 2020-12-13 13:07:58
 image: 'https://m.media-amazon.com/images/I/41hH41avSxL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,7 +22,7 @@ Ahora mismo tienes [New Balance Hombre 574v2-core Trainers Zapatillas  Verde  Ol
 
 [![New Balance Hombre 574v2-core Trainers Z](https://m.media-amazon.com/images/I/41hH41avSxL._SL200_.jpg)](https://www.amazon.es/dp/B06XXBL1Y7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 - Material exterior: Cuero
 - Revestimiento: Tela

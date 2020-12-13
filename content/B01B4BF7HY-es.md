@@ -24,10 +24,10 @@ Tienes [Durex Invisible Extra Lubricado 12 Preservativos](https://www.amazon.es/
 
 ℹ️:
 
-- SUPER FINOS
-- PRESERVATIVOS INVISIBLES, SUPER FINOS
-- PERÍMETRO AJUSTADO
-- DE FORMA RECTA
 - CONDONES EXTRA LUBRICADOS
+- SUPER FINOS
+- DE FORMA RECTA
+- PERÍMETRO AJUSTADO
+- PRESERVATIVOS INVISIBLES, SUPER FINOS
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01B4BF7HY/?tag=tolees-21)

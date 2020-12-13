@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.31 % en Rimmel London Match Perfection Foundatio'
-date: 2020-12-03 10:44:10
+date: 2020-12-13 13:25:20
 image: 'https://m.media-amazon.com/images/I/31WHsHWOqkL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,10 @@ Tienes [Rimmel London Match Perfection Foundation Base de Maquillaje Tono 201 Cl
 
 ℹ️:
 
+- Complejo hidratante con SPF 20
+- Acabado sin brillos y natural, cobertura media
+- Hidrata y oculta las imperfecciones, poros y ojeras
+- Aplica la base de maquillaje con los dedos o una brocha des del centro hasta el exterior para mezclarla con el tono de tu piel
+- Indicado para piel seca o mixta
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B015CMHHTM/?tag=tolees-21)

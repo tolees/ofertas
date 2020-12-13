@@ -25,9 +25,9 @@ Ahora mismo tienes [Kitchenaid LICUADORA Artisan 5KSB5553ECL  550 W  1.5 litros 
 🔎:
 
 - Vaso batidor complementario de 0.75 l.
-- Capacidad: 1.5 litros
-- Medidas: 38.6 cm x 18.5 cm x 23 0 cm (peso: 4.5 kg)
 - Diseño atractivo
+- Medidas: 38.6 cm x 18.5 cm x 23 0 cm (peso: 4.5 kg)
 - Gran funcionalidad
+- Capacidad: 1.5 litros
 
 [Visítala!!!](https://www.amazon.es/dp/B00BJL4RO4/?tag=tolees-21)

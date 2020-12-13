@@ -24,10 +24,10 @@ Ahora mismo tienes [Monix M281709 M281709-Cafetera Italiana  9 Tazas  Color Fres
 
 🔎:
 
-- Mango fabricado en baquelita termo-resistente con formato ergonómico
 - Capacidad para 9 tazas de café - 450 ml
+- Mango fabricado en baquelita termo-resistente con formato ergonómico
 - Apta para todo tipo de encimeras, excepto inducción
-- Exterior súper resistente
 - Acabado Esmaltado brillo
+- Exterior súper resistente
 
 [Visítala!!!](https://www.amazon.es/dp/B01IH74JB8/?tag=tolees-21)

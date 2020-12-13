@@ -25,8 +25,8 @@ Está [Cife- Monkey Mania  Multicolor  41635 ](https://www.amazon.es/dp/B07DD5D7
 ℹ️:
 
 - Juego de acción y habilidad
-- Incluye un Mono y una ruleta
 - Necesita 2 pilas LR03/AAA 1.5 V incluidas
 - El mono tiene enganches y emite efectos de sonido
+- Incluye un Mono y una ruleta
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07DD5D7LD/?tag=tolees-21)
