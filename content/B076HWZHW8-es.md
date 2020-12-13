@@ -26,7 +26,7 @@ Tienes [Edifier S350DB 2.1canales 150W Negro  Madera Conjunto de Altavoces - Set
 
 - Presentan conectividad digital, incluido Bluetooth
 - Enchufe en múltiples fuentes de audio incluyendo AUX, RCA, óptica y coaxial
-- Soporte para varias entradas, incluyendo Bluetooth con códec aptX
 - Diseño elegante, calidad de construcción sólida con material de madera
+- Soporte para varias entradas, incluyendo Bluetooth con códec aptX
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B076HWZHW8/?tag=tolees-21)
