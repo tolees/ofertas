@@ -26,8 +26,8 @@ Ahora mismo tienes [Funko Pop! 48905 Star Wars Mandalorian The Child with Contro
 🔎:
 
 - Special Edition Sticker on Box
+- The Child with Control Knob
 - Baby Yoda
 - Star Wars Mandalorian Exclusive Special Edition Funko POP Vinyl Figur
-- The Child with Control Knob
 
 [Visítala!!!](https://www.amazon.es/dp/B08G6MN6XD/?tag=tolees-21)

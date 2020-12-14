@@ -26,9 +26,9 @@ Ahora mismo tienes [Vampirina Cocina  Bandai 78216 ](https://www.amazon.es/dp/B0
 🔎:
 
 - Desata espeluznante y mágica diversión con este adorable vampirina playset
-- Playset compatible con la pensión del terror de vampirina (se vende por separado)
-- El set cocinita incluye una exclusiva figura articulada de vampirina (brazos, cabeza y cintura), cocina con sartén, olla y encimera plegable, bandeja, taza, espátula y batidor
 - Crea divertidas y repugnantes recetas como vampirina en la serie de televisión
+- Playset compatible con la pensión del terror de vampirina (se vende por separado)
 - Es mágico la puerta del horno se abre y los tortitas flotan mágicamente
+- El set cocinita incluye una exclusiva figura articulada de vampirina (brazos, cabeza y cintura), cocina con sartén, olla y encimera plegable, bandeja, taza, espátula y batidor
 
 [Visítala!!!](https://www.amazon.es/dp/B07BGM31L3/?tag=tolees-21)

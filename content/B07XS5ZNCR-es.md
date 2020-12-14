@@ -25,10 +25,10 @@ Tienes [Medisana HP 622 almohadilla de calor para el hombro y el cuello  poncho 
 
 ℹ️:
 
+- Hombros y cuello: Debido a su forma ergonómica, el poncho eléctrico ayuda a llevar el calor a los hombros y el cuello, allí donde se necesita
+- 6 niveles de temperatura: Almohadilla eléctrica para hombros y cuello ajustable individualmente en 6 niveles de temperatura. El HP 622 se diseñó para cubrir todas las necesidades
+- Ergonómico: Debido a su forma ergonómica, aporta un calor agradable a las áreas específicas de los hombros y el cuello, por lo que ayuda a relajarse después de un día agotador
 - Apagado automático: Poncho eléctrico con práctico elemento de mando y apagado automático después de 90 minutos. Incluye protección contra el sobrecalentamiento
 - Lavable: Gracias al elemento de mando extraíble, el poncho eléctrico se puede lavar fácilmente en la lavadora a un máximo de 40 °C
-- Ergonómico: Debido a su forma ergonómica, aporta un calor agradable a las áreas específicas de los hombros y el cuello, por lo que ayuda a relajarse después de un día agotador
-- 6 niveles de temperatura: Almohadilla eléctrica para hombros y cuello ajustable individualmente en 6 niveles de temperatura. El HP 622 se diseñó para cubrir todas las necesidades
-- Hombros y cuello: Debido a su forma ergonómica, el poncho eléctrico ayuda a llevar el calor a los hombros y el cuello, allí donde se necesita
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07XS5ZNCR/?tag=tolees-21)

@@ -25,8 +25,8 @@ Ahora mismo tienes [Salomon XA Pro 3D V8 GTX  Zapatillas De Trail Running Y Sand
 
 🔎:
 
-- Salomon
 - Color: Kentucky Blue/Dark Denim/Pale Khaki
 - Xa PRO 3D V8 GTX W
+- Salomon
 
 [Visítala!!!](https://www.amazon.es/dp/B081KGMJ5Q/?tag=tolees-21)

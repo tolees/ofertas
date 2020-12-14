@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'tado° Control de Climatización Inteligen al 40.09 % de descuento'
-date: 2020-11-30 16:10:13
+date: 2020-12-14 17:07:19
 image: 'https://m.media-amazon.com/images/I/31li+4HUC+L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PDZSYCM/?tag=tolees-21'
 descuento: '40.09'
+average: '74.6797435897436'
 ---
 
 Está [tado° Control de Climatización Inteligente V3+  Instálalo tú mismo  Designed in Germany](https://www.amazon.es/dp/B07PDZSYCM/?tag=tolees-21) con 40.09 de descuento por 59.9 EUR (original: 99.99 EUR) en el siguiente enlace!
@@ -24,5 +25,10 @@ Está [tado° Control de Climatización Inteligente V3+  Instálalo tú mismo  D
 
 ℹ️:
 
+- Tado° es compatible con aires acondicionados / bombas de calor aire-aire que tengan un mando infrarrojo con pantalla de funciones y funciona con el Asistente de Google, Amazon Alexa y HomeKit de Apple
+- El Control de Climatización Inteligente V3+ de tado° es tu Asistente Climático que se encarga del confort en casa mientras que ayuda a reducir la factura energética
+- Auto-Assist: Para una mayor comodidad puedes automatizar la Geolocalización y la Detección de Ventanas Abiertas - también tendrás acceso a Cuidado y Protección (en la app, 2,99€/mes; 24,99€/año)
+- Disfruta siempre de la temperatura óptima en cualquier habitación con la Programación Inteligente y mantén un clima saludable en casa
+- Controla tu calefacción desde donde estés con la app de tado°, reduce tu consumo energético y ahorra dinero con la ayuda de las Skills inteligentes
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07PDZSYCM/?tag=tolees-21)

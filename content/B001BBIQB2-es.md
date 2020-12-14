@@ -25,11 +25,11 @@ Tienes [Nescafé DOLCE GUSTO Café LUNGO DESCAFEINADO  Pack de 3 x 16 Cápsulas 
 
 ℹ️:
 
-- Las cápsulas Nescafé Dolce Gusto Lungo Descafeinado tienen un sabor seductor y cálido,
 - Café gourmet seleccionando los orígenes de mayor calidad con el inconfundible sabor NESCAFÉ Dolce Gusto
+- Las cápsulas Nescafé Dolce Gusto Lungo Descafeinado tienen un sabor seductor y cálido,
 - Máquina Express: sistema de café profesional de hasta 15 bares de presión
+- Cápsulas de café inteligentes Su sellado hermético mantiene el café fresco conservando todos sus aromas
 - Cápsulas 100% reciclables depositándolas en nuestros puntos de recogida NESCAFÉ Dolce Gusto
 - Descubre nuestras más de 30 variedades de cápsulas de café, té, chocolate y especialidades de espresso con leche
-- Cápsulas de café inteligentes Su sellado hermético mantiene el café fresco conservando todos sus aromas
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B001BBIQB2/?tag=tolees-21)

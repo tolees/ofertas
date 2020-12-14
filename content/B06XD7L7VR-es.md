@@ -25,8 +25,8 @@ Ahora mismo tienes [Jean Paul Gaultier de Toilette Le Mâle Ultra 200 ml](https:
 
 🔎:
 
-- Perfume Jean Paul Gaultier
 - Perfume perfumería hombre
+- Perfume Jean Paul Gaultier
 - Jean Paul Gaultier Ultra Male agua de tocador 200 ml vaporizador (64656)
 
 [Visítala!!!](https://www.amazon.es/dp/B06XD7L7VR/?tag=tolees-21)

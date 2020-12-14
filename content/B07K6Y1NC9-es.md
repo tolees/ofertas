@@ -26,7 +26,7 @@ Ahora mismo tienes [adidas TIRO19 WOV PNT Pantalones de Deporte  Hombre  Negro  
 🔎:
 
 - Elastic waistband with lanyard
-- Tapered fit
 - Climacool technology
+- Tapered fit
 
 [Visítala!!!](https://www.amazon.es/dp/B07K6Y1NC9/?tag=tolees-21)
