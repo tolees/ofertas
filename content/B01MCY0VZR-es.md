@@ -26,8 +26,8 @@ Está [Festina Reloj Analógico para Hombre de Cuarzo con Correa en Cuero F20249
 
 - Índices luminescentes
 - Resistente al agua
+- Caja de acero inoxidable
 - Ventana de marcación mineral
 - Movimiento de cuarzo
-- Caja de acero inoxidable
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01MCY0VZR/?tag=tolees-21)

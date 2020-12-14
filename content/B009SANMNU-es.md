@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 44.91 % en Halloween Man 125 ml'
-date: 2020-12-13 04:35:37
+date: 2020-12-14 04:53:30
 image: 'https://m.media-amazon.com/images/I/41IBwV-rJUL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,8 +24,8 @@ Tienes [Halloween Man 125 ml](https://www.amazon.es/dp/B009SANMNU/?tag=tolees-21
 
 ℹ️:
 
-- Fondo: Cuero Sexy, Almizcles “Segunda Piel”, Ámbar Gris y Vainilla CO2 LMR.
 - Corazón: Jengibre Afrodisiaco, Canela CO2 LMR, Lavanda LMR, Flor de Azahar de Túnez LMR.
 - Salida: Martini de Manzana, Hojas de violeta LMR,Albahaca Grand Vert LMR, Mandarina.
+- Fondo: Cuero Sexy, Almizcles “Segunda Piel”, Ámbar Gris y Vainilla CO2 LMR.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B009SANMNU/?tag=tolees-21)

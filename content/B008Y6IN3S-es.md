@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Russell Hobbs Cook@Home 19270-56 - Vapor al 55.56 % de descuento'
-date: 2020-12-13 04:35:34
+date: 2020-12-14 04:49:31
 image: 'https://m.media-amazon.com/images/I/41JGyv20EbL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,11 +24,11 @@ Ahora mismo tienes [Russell Hobbs Cook@Home 19270-56 - Vaporera  800 W  Cocina L
 
 🔎:
 
-- Potencia de 800 vatios
+- Altura del producto: 35 cm
 - Incluye 3 recipientes apilables con una capacidad total de 9 litros, cubeta de 1 litro para arroz y rejilla para huevos en los recipientes
 - Base de acero inoxidable cepillado; Bandejas de plástico transparente y plástico blanco
+- Potencia de 800 vatios
 - Dispone de 2 entradas de agua laterales, temporizador de 60 minutos con desconexión automática, señal de aviso de finalización del ciclo de cocción y bandeja para recoger el agua sobrante
-- Altura del producto: 35 cm
 - Cocina arroz, verduras y pescado al vapor manteniendo el máximo de nutrientes y vitaminas
 
 [Visítala!!!](https://www.amazon.es/dp/B008Y6IN3S/?tag=tolees-21)

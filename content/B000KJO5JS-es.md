@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apli 1264 - Etiquetas  100 hojas al 44.92 % de descuento'
-date: 2020-12-13 04:50:54
+date: 2020-12-14 04:51:50
 image: 'https://m.media-amazon.com/images/I/51KGiHflVmL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,9 +24,9 @@ Ahora mismo tienes [Apli 1264 - Etiquetas  100 hojas](https://www.amazon.es/dp/B
 
 🔎:
 
+- Etiquetas blancas autoadhesivas especiales para una excelente impresión en impresoras inkjet, láser y fotocopiadoras
 - Etiquetas Apli. A4
 - 210 x 148 mm
-- Etiquetas blancas autoadhesivas especiales para una excelente impresión en impresoras inkjet, láser y fotocopiadoras
 - Formato de las etiquetas predefinido en la mayoría de softwares
 
 [Visítala!!!](https://www.amazon.es/dp/B000KJO5JS/?tag=tolees-21)
