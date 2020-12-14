@@ -25,10 +25,10 @@ Tienes [Herramienta de acristalamiento artesanal de corte de corte de vidrio con
 
 ℹ️:
 
-- El mango antideslizante es para mayor seguridad y agarre cómodo.
-- Aplicado al corte de vidrio, diamantes y minerales.
 - Autolubricante, cómodo de usar.
-- Acero de alta calidad, duradero, pulido de superficies y óxido.
+- Aplicado al corte de vidrio, diamantes y minerales.
 - Una herramienta ideal para trabajos domésticos y de corte.
+- El mango antideslizante es para mayor seguridad y agarre cómodo.
+- Acero de alta calidad, duradero, pulido de superficies y óxido.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08HHW613R/?tag=tolees-21)

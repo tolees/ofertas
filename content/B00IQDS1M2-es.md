@@ -25,9 +25,9 @@ Tienes [Beta Brut Espumoso 750 ml](https://www.amazon.es/dp/B00IQDS1M2/?tag=tole
 
 ℹ️:
 
-- Perfecto como aperitivo, acompañando a mariscos, caviar, quesos suaves, frutos secos y canapés
+- Capacidad: 75cl
 - Color amarillo brillante, presenta burbujas muy finas y continuas
 - Graduación: 12,5º
-- Capacidad: 75cl
+- Perfecto como aperitivo, acompañando a mariscos, caviar, quesos suaves, frutos secos y canapés
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00IQDS1M2/?tag=tolees-21)

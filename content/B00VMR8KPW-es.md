@@ -25,8 +25,8 @@ Ahora mismo tienes [Catisfaction Premios para Gatos  Sabor Mixto de Pollo y Pato
 
 🔎:
 
-- Con pollo y pato para aportar a un crecimiento fuerte de tu gato
 - Sólo 2 kcal en cada snack de gato; catisfactions están disponibles en 7 deliciosas y sabrosas variedades: pollo, ternera, pato, salmón, queso, pavo y atún
+- Con pollo y pato para aportar a un crecimiento fuerte de tu gato
 - Galletas para gatos, con vitaminas y minerales y sin aromas artificiales
 - Premios con doble textura, irresistibles para tu gato
 - Deliciosamente crujientes por fuera y suaves por dentro

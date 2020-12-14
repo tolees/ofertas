@@ -25,8 +25,8 @@ Está [Espumador de leche eléctrico recargable Mezclador de leche ajustable de 
 
 ℹ️:
 
+- 1. Velocidad ajustable: esta batidora eléctrica tiene tres velocidades diferentes que se pueden ajustar, lo que es muy conveniente de usar.
 - 2. Buena calidad: este agitador eléctrico está hecho de acero inoxidable, que es muy duradero, tiene una larga vida útil y no es fácil de dañar.
 - 3. Práctico: esta batidora eléctrica puede remover rápidamente la leche y el café, lo cual es muy adecuado para preparar café y otras bebidas.
-- 1. Velocidad ajustable: esta batidora eléctrica tiene tres velocidades diferentes que se pueden ajustar, lo que es muy conveniente de usar.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08N4S1JZB/?tag=tolees-21)

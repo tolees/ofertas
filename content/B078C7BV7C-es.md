@@ -25,15 +25,15 @@ Ahora mismo tienes [Cavist Cavist.8 Cavist8 Vinoteca 8 Botellas  25 Litros  Ultr
 
 🔎:
 
-- 3 estantes de metal
-- Temperatura regulable de 8°a 18°c
-- Sistema antivibración y pies ajustables
-- Visualización electrónica de temperatura y panel de control táctil con pantalla led iluminado en color azúl
+- Bajo nível de ruido: 41 d
 - Empotrable: no
+- Clase energética
 - Dimensiones: 26.1 x 50 x 46.5 cm
 - Tipo de refrigeración: termoeléctrica
+- Sistema antivibración y pies ajustables
+- Visualización electrónica de temperatura y panel de control táctil con pantalla led iluminado en color azúl
 - Vinoteca para 8 botellas con capacidad de 25 litros
-- Clase energética
-- Bajo nível de ruido: 41 d
+- 3 estantes de metal
+- Temperatura regulable de 8°a 18°c
 
 [Visítala!!!](https://www.amazon.es/dp/B078C7BV7C/?tag=tolees-21)

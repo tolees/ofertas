@@ -26,11 +26,11 @@ Ahora mismo tienes [Samsung Galaxy S20+ - Smartphone 6.7" Dynamic AMOLED  8GB RA
 🔎:
 
 - 8 GB de ram procesador exynos 990 y capacidad de 1 1 tb de amacenamiento poder para días auténticamente épicos
-- Sensor utrasónico de huea dactiar en pantaa reconocimiento facia Samsung Knox
 - A batería de gaaxy s20+ contiene 4 500 mahpara que puedas funcionar durante todo e día carga inaámbrica (12w) power sharing carga utra rápida (25w)
-- Teeobjetivo de 64mp cámara fronta de 10 mp cámara gran anguar de 12 mp y un gran zoom espacia de 30x captura e mundo que te rodea como nunca antes
 - Smartphone ibre con e sistema operativo Android V10 pre-instaado
-- Pantaa infinity-o dynamic amoed de 120hz y 6 7" wqhd+experimenta cada momento con una caridad tota y de extremo a extremo
+- Sensor utrasónico de huea dactiar en pantaa reconocimiento facia Samsung Knox
+- Teeobjetivo de 64mp cámara fronta de 10 mp cámara gran anguar de 12 mp y un gran zoom espacia de 30x captura e mundo que te rodea como nunca antes
 - Sim híbrida (sim ó msd) esim IP 68 samsung pay
+- Pantaa infinity-o dynamic amoed de 120hz y 6 7" wqhd+experimenta cada momento con una caridad tota y de extremo a extremo
 
 [Visítala!!!](https://www.amazon.es/dp/B084J4Y4LJ/?tag=tolees-21)
