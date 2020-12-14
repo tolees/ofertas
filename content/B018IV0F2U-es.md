@@ -24,10 +24,10 @@ Ahora mismo tienes [Medisana HG 100 Higrómetro digital para interiores  termóm
 
 🔎:
 
-- Indicador de zona de confort: El smiley sonriente es señal de un clima óptimo y saludable, el smiley triste es señal de un clima poco saludable.
-- Colgar y colocar: Puede colocar o colgar el higrómetro según necesidad. El higrómetro se puede colgar fácilmente con la ayuda de un soporte magnético
-- Funcional: El higrómetro HM 100 está equipado con una función de alarma y un indicador de la hora.
 - Clima interior saludable: Con el termohigrómetro digital HG 100 siempre tendrá a la vista el clima de la habitación para adaptarlo a sus necesidades personales
+- Funcional: El higrómetro HM 100 está equipado con una función de alarma y un indicador de la hora.
+- Colgar y colocar: Puede colocar o colgar el higrómetro según necesidad. El higrómetro se puede colgar fácilmente con la ayuda de un soporte magnético
+- Indicador de zona de confort: El smiley sonriente es señal de un clima óptimo y saludable, el smiley triste es señal de un clima poco saludable.
 - Función de memoria: Nuestro higrómetro está equipado con una función que le permite guardar fácilmente los valores máximos y mínimos
 
 [Visítala!!!](https://www.amazon.es/dp/B018IV0F2U/?tag=tolees-21)

@@ -24,9 +24,9 @@ Tienes [Anis del Mono 1L Botella Edición especial 150 aniversario](https://www.
 
 ℹ️:
 
+- Anis del Mono es un clasico para disfrutar, indispensable para celebrar las fiestas
 - Edicion especial de Anís del Mono que celebra su 150 aniversario
 - Aroma suave y lleno
 - La grasa de anís natural y otras plantas se destilan en alambiques de cobre para obtener los aceites esenciales que junto con el azúcar de caña
-- Anis del Mono es un clasico para disfrutar, indispensable para celebrar las fiestas
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08K2BWLJ8/?tag=tolees-21)

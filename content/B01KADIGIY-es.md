@@ -26,8 +26,8 @@ Está [Creative iRoar Go - Potente Altavoz con Bluetooth  Resistente a la Intemp
 
 - Sorprendente modo SuperWide
 - Bluetooth con NFC de objetivo sencillo - Sincronización por Bluetooth NFC con un solo toque más sencillo, rápido y cómodo con reproducción desde dispositivo Bluetooth como desee
-- Audio Bluetooth HD - Admite códec AAC para audio Bluetooth
 - Resistente a la intemperie en cualquier terreno - Con certificación IP IPX6 para todo tipo de tiempo
+- Audio Bluetooth HD - Admite códec AAC para audio Bluetooth
 - Batería de objetivo dual de carga rápida - La batería de 5200 mAh integrada proporciona 12 horas de reproducción y carga teléfonos y tabletas con una salida de 1,0 A
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01KADIGIY/?tag=tolees-21)

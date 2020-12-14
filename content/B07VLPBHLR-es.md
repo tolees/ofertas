@@ -25,7 +25,7 @@ Está [Lee Luke Vaqueros  Jackson Moon Za  30W / 30L para Hombre](https://www.am
 ℹ️:
 
 - Presentan 5 bolsillos
-- Tienen un parche de piel en la parte trasera con la marca Lee
 - Vaqueros para hombre
+- Tienen un parche de piel en la parte trasera con la marca Lee
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07VLPBHLR/?tag=tolees-21)

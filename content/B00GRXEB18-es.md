@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.94 % en L OR Café Grano Forza - 4 paquetes de 50'
-date: 2020-11-26 14:47:28
+date: 2020-12-14 08:57:30
 image: 'https://m.media-amazon.com/images/I/41G4JfHo04L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,10 @@ Tienes [L OR Café Grano Forza - 4 paquetes de 500gr  2000gr ](https://www.amazo
 
 ℹ️:
 
+- Contiene 4 paquetes de 500 gr cada uno (4.000gr en total)
+- Intensidad 9
+- Café en grano 100% Arábica
+- Para los enamorados del café oscuro e intenso; un espresso intenso basado en una atrevida mezcla de roble y regaliz, e iluminado con tintes ámbar sobre una delicada capa de crema
+- Aptos para ser utilizado en máquinas superautomáticas de grano; una vez molido, se puede utilizar en todo tipo de cafeteras
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00GRXEB18/?tag=tolees-21)
