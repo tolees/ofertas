@@ -25,8 +25,8 @@ Ahora mismo tienes [Pop! Bobble: Avengers Endgame: Tony Stark](https://www.amazo
 🔎:
 
 - El producto se envía en una caja ilustrada con ventana
+- El artículo es adecuado para todos los fanáticos de Avengers Endgame
 - Figura de colección de la marca Funko
 - Recomendado para niños a partir de 3 años
-- El artículo es adecuado para todos los fanáticos de Avengers Endgame
 
 [Visítala!!!](https://www.amazon.es/dp/B07KPSJV1K/?tag=tolees-21)

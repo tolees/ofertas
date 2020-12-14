@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.00 % en Salomon Quest Prime GTX  Zapatillas de S'
-date: 2020-12-13 00:02:32
+date: 2020-12-14 06:48:07
 image: 'https://m.media-amazon.com/images/I/419DGOBQmoL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Tienes [Salomon Quest Prime GTX  Zapatillas de Senderismo Hombre  Gris  Phantom/
 ℹ️:
 
 - Anchura del zapato: D
-- Material exterior: Sintético
-- Composición: 100% textil
 - Cierre: Cordones
+- Composición: 100% textil
+- Material exterior: Sintético
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B078SVFRXY/?tag=tolees-21)
