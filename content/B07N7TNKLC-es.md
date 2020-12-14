@@ -26,8 +26,8 @@ Ahora mismo tienes [Little Live Pets Tortuga Molona con tanque  Serie 6  para ni
 🔎:
 
 - Si colocas la tortuga en suelo verás como anda como una tortuga de verdad
-- Incluye tanque, tortuga molona y 2 animalitos marinos; descubre otras mascotas little live pets en amazon
 - El asa le sirve para que puedas transportarlo a todas parte y le sirve de base la tapa para que tu tortuga se pueda lanzar ella solita al agua
+- Incluye tanque, tortuga molona y 2 animalitos marinos; descubre otras mascotas little live pets en amazon
 - Tanque para que tu tortuga pueda nadar; llénalo de agua y verás como nada sin parar
 
 [Visítala!!!](https://www.amazon.es/dp/B07N7TNKLC/?tag=tolees-21)

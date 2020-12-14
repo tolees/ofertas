@@ -25,11 +25,11 @@ Ahora mismo tienes [Doña Jimena - Turrón de Cacahuete Elaborado con Cacahuete 
 
 🔎:
 
-- Ingredientes - turrón artesanal elaborado siguiendo la receta tradicional con cacahuete (64%) y miel; sin gluten; calidad suprema; producto típico de navidad
-- Diferenciadores - somos el único turrón de cacahuete en el mercado elaborado con miel 100%; turrón sin gluten; tableta con pre-corte para facilitar su manipulación y consumo ¡ideal para toda la familia
 - Receta tradicional - desde doña Jimena apostamos por la fabricación de chocolates, especialidades y dulces navideños respetando y usando recetas tradicionales que satisfagan a toda la familia; producto típico español
-- Ingredientes: CACAHUETE tostado (60%) jarabe de glucosa y fructosa, azúcar, miel, clara de HUEVO; oblea de recubrimiento (fécula de patata, aceite refinado de girasol); puede contener trazas de frutos secos (PISTACHO, ALMENDRA Y AVELLANA)
+- Diferenciadores - somos el único turrón de cacahuete en el mercado elaborado con miel 100%; turrón sin gluten; tableta con pre-corte para facilitar su manipulación y consumo ¡ideal para toda la familia
 - Certificado de calidad - elaborado en planta productiva con certificación ifs foods, gluten free, certificación de artesanía de la comunidad valenciana que avala la seguridad y calidad de todos nuestros productos alimenticios
+- Ingredientes: CACAHUETE tostado (60%) jarabe de glucosa y fructosa, azúcar, miel, clara de HUEVO; oblea de recubrimiento (fécula de patata, aceite refinado de girasol); puede contener trazas de frutos secos (PISTACHO, ALMENDRA Y AVELLANA)
+- Ingredientes - turrón artesanal elaborado siguiendo la receta tradicional con cacahuete (64%) y miel; sin gluten; calidad suprema; producto típico de navidad
 - Navidad – los turrones y dulces son el complemento perfecto que no puede faltar en ninguna casa en fiestas tan señaladas; doña Jimena para ti y tu familia; visita nuestra store y conoce toda nuestra gama de productos
 
 [Visítala!!!](https://www.amazon.es/dp/B08M4DK8D3/?tag=tolees-21)

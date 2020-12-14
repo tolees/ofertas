@@ -25,8 +25,8 @@ Ahora mismo tienes [GOW Hits](https://www.amazon.es/dp/B07YY2YVK5/?tag=tolees-21
 
 🔎:
 
+- Juego de acción
 - Es para PS4
 - Es divertido
-- Juego de acción
 
 [Visítala!!!](https://www.amazon.es/dp/B07YY2YVK5/?tag=tolees-21)

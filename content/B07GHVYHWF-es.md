@@ -26,8 +26,8 @@ Está [Jazwares-Fortnite figura Raptor  Toy partner FNT0014  coleccionables Tekn
 ℹ️:
 
 - Altura aproximada 10 cm
+- Figura llena de juego y aventuras
 - Contiene plataformas y accesorios
 - Replica de los personajes del videojuego
-- Figura llena de juego y aventuras
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07GHVYHWF/?tag=tolees-21)

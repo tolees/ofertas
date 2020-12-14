@@ -25,7 +25,7 @@ Está [Jack & Jones Jacdna Knit Scarf Noos Bufanda  Gris  Grey Melange Grey Mela
 
 ℹ️:
 
-- Scarf e of acrylic
 - Knitted scarf
+- Scarf e of acrylic
 
 [Ver la oferta!!](https://www.amazon.es/dp/B072XS1QWG/?tag=tolees-21)

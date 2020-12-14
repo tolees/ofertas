@@ -27,7 +27,7 @@ Está [adidas Parma 16 SHO Sport Shorts  Hombre  Bold Blue/White  XS](https://ww
 
 - Cordón en la cintura elástica
 - Construidos para mantenerlo seco y cómodo para que pueda concentrarse en perfeccionar sus habilidades
-- La tela climalite barre el sudor de la piel
 - 100% poliéster piqué
+- La tela climalite barre el sudor de la piel
 
 [Ver la oferta!!](https://www.amazon.es/dp/B016QALDOO/?tag=tolees-21)
