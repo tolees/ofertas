@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Onward [DVD] al 54.89 % de descuento'
-date: 2020-12-11 17:54:40
+date: 2020-12-14 19:15:50
 image: 'https://m.media-amazon.com/images/I/51zvpmlaFgL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0857W5TTC/?tag=tolees-21'
 descuento: '54.89'
+average: '9.512307692307692'
 ---
 
 Está [Onward [DVD]](https://www.amazon.es/dp/B0857W5TTC/?tag=tolees-21) con 54.89 de descuento por 9.0 EUR (original: 19.95 EUR) en el siguiente enlace!
