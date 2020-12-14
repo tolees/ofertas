@@ -25,8 +25,8 @@ Ahora mismo tienes [Funko Pop! Fortnite 463 Valor Vinyl Figure](https://www.amaz
 
 🔎:
 
+- Funko pop. Figura de vinilo
 - Funko pop. Games: fortnite valor #463
 - Descúbre otras figuras de la colección fortnite y colecciónalas todas
-- Funko pop. Figura de vinilo
 
 [Visítala!!!](https://www.amazon.es/dp/B07L4JVQVZ/?tag=tolees-21)

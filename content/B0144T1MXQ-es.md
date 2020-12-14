@@ -27,7 +27,7 @@ Está [Alpino 654 - Lápices de colores](https://www.amazon.es/dp/B0144T1MXQ/?ta
 
 - Vienen en estuche deslizable
 - De colores vivos surtidos
-- Juego de 12 lápices
 - Libres de madera
+- Juego de 12 lápices
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0144T1MXQ/?tag=tolees-21)

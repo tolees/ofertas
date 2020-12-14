@@ -25,10 +25,10 @@ Está [Energy Sistem MP4 Touch Bluetooth  Reproductor de música MP4 Bluetooth  
 
 ℹ️:
 
-- - 8 G: Capacidad interna de 8 GB ampliables para almacenar miles de canciones en diferentes carpetas.
-- - Bluetooth: reproductor MP4 con tecnología Bluetooth para escuchar la música sin cables.
+- - Botones Táctiles: reproductor mp4 con botones táctiles para acceder rápidamente con un solo toque a todas las carpetas y cambiar de canción, pausar la reproducción o ajustar el volumen.
 - - RADIO FM: reproductor con función de radio FM para escuchar programas y sintonizar los partidos a través de la radio.
 - - MicroSD: Posibilidad de ampliar la memoria interna del reproductor hasta 64 GB a través de tarjetas microSD.
-- - Botones Táctiles: reproductor mp4 con botones táctiles para acceder rápidamente con un solo toque a todas las carpetas y cambiar de canción, pausar la reproducción o ajustar el volumen.
+- - Bluetooth: reproductor MP4 con tecnología Bluetooth para escuchar la música sin cables.
+- - 8 G: Capacidad interna de 8 GB ampliables para almacenar miles de canciones en diferentes carpetas.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01GO6ZC42/?tag=tolees-21)

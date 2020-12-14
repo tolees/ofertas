@@ -25,7 +25,7 @@ Ahora mismo tienes [Salomon Speedcross 4 W  Zapatillas de Trail Running Mujer  R
 
 🔎:
 
-- Número: 38
 - Speedcross 4 W Brick Dust/Winetasting/Apple Butter
+- Número: 38
 
 [Visítala!!!](https://www.amazon.es/dp/B07Z5HB8LQ/?tag=tolees-21)

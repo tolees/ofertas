@@ -25,8 +25,8 @@ Ahora mismo tienes [Lékué Spanish Omelette - Molde para tortilla española  co
 
 🔎:
 
-- Ideal para cocinar deliciosas tortillas de patatas, frittatas y mucho más
 - SpanishOmelette es un molde para realizar de una forma fácil y cómoda, elaboraciones redondas que necesiten de una cocción a doble cara
+- Ideal para cocinar deliciosas tortillas de patatas, frittatas y mucho más
 - Capacidad: 800 ml
 - Para uso en microondas
 

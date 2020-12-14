@@ -25,7 +25,7 @@ Está [New Balance Hombre 574v2-core Trainers Zapatillas  Azul  Navy   41.5 EU](
 
 ℹ️:
 
-- Revestimiento: Tela
 - Material exterior: Cuero
+- Revestimiento: Tela
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06Y2TS8MH/?tag=tolees-21)
