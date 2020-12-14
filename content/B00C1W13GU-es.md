@@ -24,8 +24,8 @@ Ahora mismo tienes [Fisiocrem Solugel - Gel de masaje para cuello  hombros y esp
 
 🔎:
 
+- De la marca Fisiocrem
 - SOLUGEL FISIOCREM Natural crema para aliviar el dolor para articulaciones y músculos
 - 250ml tubo
-- De la marca Fisiocrem
 
 [Visítala!!!](https://www.amazon.es/dp/B00C1W13GU/?tag=tolees-21)

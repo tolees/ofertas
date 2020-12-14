@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '4 Gods- Juego al 45.41 % de descuento'
-date: 2020-12-08 11:50:12
+date: 2020-12-14 09:11:13
 image: 'https://m.media-amazon.com/images/I/61QwbGg2DKL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,7 +22,12 @@ Ahora mismo tienes [4 Gods- Juego](https://www.amazon.es/dp/B01J3OCD1W/?tag=tole
 
 [![4 Gods- Juego](https://m.media-amazon.com/images/I/61QwbGg2DKL._SL200_.jpg)](https://www.amazon.es/dp/B01J3OCD1W/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Hace unos meses estalló una epidemia Zombi
+- Producto en castellano
+- Papá nos metió en un coche y abandonamos nuestra casa en Chicago. ¡Era L.A. o muerte
+- Fue un viaje inolvidable de verdad, con peligros acechando en cada esquina. He creado un juego para recordar la experiencia, utilizando las piezas que he podido encontrar
+- Suerte en tu viaje, hasta la costa
 
 [Visítala!!!](https://www.amazon.es/dp/B01J3OCD1W/?tag=tolees-21)

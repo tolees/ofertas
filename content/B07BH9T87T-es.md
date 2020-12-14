@@ -24,8 +24,8 @@ Está [Kipling - Fundamental Nc  Mochilas Mujer  Negro  Lively Black   16.5x42x4
 
 ℹ️:
 
-- Composición: Sintético
-- Cierre: Cordón
 - Material exterior: Sintético
+- Cierre: Cordón
+- Composición: Sintético
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07BH9T87T/?tag=tolees-21)

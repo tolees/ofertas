@@ -24,10 +24,10 @@ Está [Oral-B 3DWhite Luxe Perfección Pasta Dentífrica Blanqueadora 75ml](http
 
 ℹ️:
 
-- Blanquea eliminando las manchas superficiales
-- Pasta dentífrica que protege el esmalte
-- Protege contra nuevas manchas
 - Elimina hasta el 100 % de las manchas superficiales* en 3 días y ayuda a prevenir futuras manchas
+- Pasta dentífrica que protege el esmalte
+- Blanquea eliminando las manchas superficiales
+- Protege contra nuevas manchas
 - Sabor a menta fresca con un frescor adicional de mayor duración
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01H5VKYI4/?tag=tolees-21)

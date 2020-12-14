@@ -24,8 +24,8 @@ Está [Fossil Reloj Analógico para Hombre de Cuarzo con Correa en Cuero FS5268]
 
 ℹ️:
 
-- Esfera de dos capas azul con números romanos dorados
 - Caja redonda de acero inoxidable (diám. 44 mm) con acabado pulido brillante y mate dorado
+- Esfera de dos capas azul con números romanos dorados
 - Ancho de la correa: 22mm, circunferencia de la correa: 200 +/- 5MM
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01MRRSJGS/?tag=tolees-21)

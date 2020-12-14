@@ -1,28 +1,33 @@
 ---
 layout: post
-title: 'Destroy All Humans - PC al 32.51 % de descuento'
-date: 
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51o2X3CC7PL._SL200_.jpg'
+title: 'Destroy All Humans - PC al 38.55 % de descuento'
+date: 2020-12-14 09:58:08
+image: 'https://m.media-amazon.com/images/I/51fbvhuyN3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07SRJJ3YH-es'
-actualPrice: 26.99 EUR
+actualPrice: 16.53 EUR
 currency: EUR
-price: 26.99
-comparePrice: 39.99 EUR
+price: 16.53
+comparePrice: 26.9 EUR
 prodname: 'Destroy All Humans - PC'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07SRJJ3YH/?tag=tolees-21'
-descuento: '32.51'
+descuento: '38.55'
 ---
 
-Está [Destroy All Humans - PC](https://www.amazon.es/dp/B07SRJJ3YH/?tag=tolees-21) con 32.51 de descuento por 26.99 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [Destroy All Humans - PC](https://www.amazon.es/dp/B07SRJJ3YH/?tag=tolees-21) con 38.55 de descuento por 16.53 EUR (original: 26.9 EUR) en el siguiente enlace!
 
-[![Destroy All Humans - PC](https://images-eu.ssl-images-amazon.com/images/I/51o2X3CC7PL._SL200_.jpg)](https://www.amazon.es/dp/B07SRJJ3YH/?tag=tolees-21)
+[![Destroy All Humans - PC](https://m.media-amazon.com/images/I/51fbvhuyN3L._SL200_.jpg)](https://www.amazon.es/dp/B07SRJJ3YH/?tag=tolees-21)
 
 ℹ️:
 
+- (Re)descubre por qué este juego es uno de los más divertidos de la historia
+- Reconstruido desde cero en todo su galáctico esplendor
+- Hazte pasar por humano e infíltrate en su frágil democracia
+- Vive el lado oscuro de una invasión alienígena estilo años 50
+- Disfruta de armas como la pistola de sondas anales
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07SRJJ3YH/?tag=tolees-21)

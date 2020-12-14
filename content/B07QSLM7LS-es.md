@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rexona Desodorante Antitranspirante Invi al 33.13 % de descuento'
-date: 2020-11-27 09:36:54
+date: 2020-12-14 09:12:39
 image: 'https://m.media-amazon.com/images/I/41MKcoWEH9L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,7 +22,12 @@ Ahora mismo tienes [Rexona Desodorante Antitranspirante Invisible en ropa blanca
 
 [![Rexona Desodorante Antitranspirante Invi](https://m.media-amazon.com/images/I/41MKcoWEH9L._SL200_.jpg)](https://www.amazon.es/dp/B07QSLM7LS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Desodorante antitranspirante dermatológicamente testado
+- Con tecnología de encapsulación patentada MotionSense que se activa con el movimiento; cuanto más te mueves, más te protege
+- Protección óptima en formato spray para seguir en movimiento todo el día
+- Protección invisible para que tu ropa negra se mantenga negra y la blanca, blanca
+- Protección eficaz 48h contra el sudor y el mal olor corporal
 
 [Visítala!!!](https://www.amazon.es/dp/B07QSLM7LS/?tag=tolees-21)

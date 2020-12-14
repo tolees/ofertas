@@ -24,8 +24,8 @@ Está [adidas Adi Sock 18 Calcetines  Unisex Adulto  White/Black  4345](https://
 
 ℹ️:
 
-- Soccer socks
 - Climacool technology
 - Breathable fabric
+- Soccer socks
 
 [Ver la oferta!!](https://www.amazon.es/dp/B076SBB3JC/?tag=tolees-21)

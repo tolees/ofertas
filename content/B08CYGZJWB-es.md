@@ -24,9 +24,9 @@ Ahora mismo tienes [Mimosín Intense Suavizante Éxtasis Tropical 52 Lavados Pac
 
 🔎:
 
-- Suavizante concentrado intenso
 - Una explosión de suavidad
-- Permite mantener la suavidad de la ropa incluso después de una pequeña temporada en el armario
+- Suavizante concentrado intenso
 - Mimosín Intense Éxtasis Tropical
+- Permite mantener la suavidad de la ropa incluso después de una pequeña temporada en el armario
 
 [Visítala!!!](https://www.amazon.es/dp/B08CYGZJWB/?tag=tolees-21)

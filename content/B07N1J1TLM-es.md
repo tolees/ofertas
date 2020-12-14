@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 54.17 % en Clarks Orinoco Hot  Botas Estilo Motero '
-date: 2020-11-03 22:32:05
+date: 2020-12-14 09:33:27
 image: 'https://m.media-amazon.com/images/I/31f0vqECZVL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,6 @@ Tienes [Clarks Orinoco Hot  Botas Estilo Motero Mujer  Negro  Black Nubuck Black
 
 ℹ️:
 
+- Cuero
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07N1J1TLM/?tag=tolees-21)

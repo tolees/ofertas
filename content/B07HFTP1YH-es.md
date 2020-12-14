@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate Plax Multiprotección  Enjuague B al 88.47 % de descuento'
-date: 2020-12-13 00:47:14
+date: 2020-12-14 09:09:57
 image: 'https://m.media-amazon.com/images/I/41asajl5+mL._SL200_.jpg'
 comments: true
 category: ofertas
