@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C3LRW1N/?tag=tolees-21'
 descuento: '53.91'
+average: '55.76'
 ---
 
 Ahora mismo tienes [Kingston SUV500MS/240G - Disco Duro sólido de 240 GB  mSATA ](https://www.amazon.es/dp/B07C3LRW1N/?tag=tolees-21) a 55.76 EUR (original: 120.99 EUR) (53.91 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074P5KY6C/?tag=tolees-21'
 descuento: '53.37'
+average: '69.94'
 ---
 
 Está [Ni No Kuni II: El Renacer De Un Reino - King s Edition](https://www.amazon.es/dp/B074P5KY6C/?tag=tolees-21) con 53.37 de descuento por 69.94 EUR (original: 149.99 EUR) en el siguiente enlace!

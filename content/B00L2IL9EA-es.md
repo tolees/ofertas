@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00L2IL9EA/?tag=tolees-21'
 descuento: '33.91'
+average: '23'
 ---
 
 Ahora mismo tienes [Pedros Jaula para Aves  60 cm](https://www.amazon.es/dp/B00L2IL9EA/?tag=tolees-21) a 23 EUR (original: 34.8 EUR) (33.91 %  de descuento) en el siguiente enlace!

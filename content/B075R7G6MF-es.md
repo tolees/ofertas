@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075R7G6MF/?tag=tolees-21'
 descuento: '50.00'
+average: '75'
 ---
 
 Está [New Balance Fresh Foam Vongo v3  Zapatillas de Running para Hombre  Negro  Black/White Bk3   43 EU](https://www.amazon.es/dp/B075R7G6MF/?tag=tolees-21) con 50.00 de descuento por 75 EUR (original: 150 EUR) en el siguiente enlace!

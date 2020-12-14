@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC1WNS5/?tag=tolees-21'
 descuento: '42.57'
+average: '31.56'
 ---
 
 Está [Puma St Runner V2 Nl  Zapatillas de Cross Unisex adulto  Azul  Surf The Web-Puma White 14   38 EU](https://www.amazon.es/dp/B07DC1WNS5/?tag=tolees-21) con 42.57 de descuento por 31.56 EUR (original: 54.95 EUR) en el siguiente enlace!

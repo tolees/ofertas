@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004QXJNYG/?tag=tolees-21'
 descuento: '26.66'
+average: '66'
 ---
 
 Está [Severin KM 3873 - Molinillo de café  150 W  temporizador  mecanismo triturador cónico  color blanco plateado](https://www.amazon.es/dp/B004QXJNYG/?tag=tolees-21) con 26.66 de descuento por 66 EUR (original: 89.99 EUR) en el siguiente enlace!

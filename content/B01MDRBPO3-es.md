@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MDRBPO3/?tag=tolees-21'
 descuento: '81.29'
+average: '5.61'
 ---
 
 Está [ONLY onlIDAHO SPRING L/S BUTTON PULLOVER KNT  suéter Mujer  Gris  Light Grey Melange   40  Talla del fabricante: Large ](https://www.amazon.es/dp/B01MDRBPO3/?tag=tolees-21) con 81.29 de descuento por 5.61 EUR (original: 29.99 EUR) en el siguiente enlace!

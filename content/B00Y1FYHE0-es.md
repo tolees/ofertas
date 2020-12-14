@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00Y1FYHE0/?tag=tolees-21'
 descuento: '45.53'
+average: '5'
 ---
 
 Está [El Chino  The Young Master  Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B00Y1FYHE0/?tag=tolees-21) con 45.53 de descuento por 5 EUR (original: 9.18 EUR) en el siguiente enlace!

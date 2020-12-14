@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01AU00QJO/?tag=tolees-21'
 descuento: '50.98'
+average: '5'
 ---
 
 Está [Puella Magi Madoka Magica The Movie Rebellion [Blu-ray]](https://www.amazon.es/dp/B01AU00QJO/?tag=tolees-21) con 50.98 de descuento por 5 EUR (original: 10.2 EUR) en el siguiente enlace!

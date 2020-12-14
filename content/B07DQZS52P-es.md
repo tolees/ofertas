@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DQZS52P/?tag=tolees-21'
 descuento: '26.37'
+average: '55.22'
 ---
 
 Ahora mismo tienes [Burton Raider Cascos  Hombre  Rojo  L](https://www.amazon.es/dp/B07DQZS52P/?tag=tolees-21) a 55.22 EUR (original: 75 EUR) (26.37 %  de descuento) en el siguiente enlace!

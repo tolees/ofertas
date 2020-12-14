@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ6KVWD/?tag=tolees-21'
 descuento: '49.20'
+average: '25.4'
 ---
 
 Está [New Balance 373  Zapatillas Unisex Niños  Blanco  White/Crystal Rose BT   28 EU](https://www.amazon.es/dp/B07DJ6KVWD/?tag=tolees-21) con 49.20 de descuento por 25.4 EUR (original: 50 EUR) en el siguiente enlace!

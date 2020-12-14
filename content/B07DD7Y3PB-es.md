@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DD7Y3PB/?tag=tolees-21'
 descuento: '26.31'
+average: '22.07'
 ---
 
 Ahora mismo tienes [Puma ESS Logo Pants  Mujer  Peacoat  M](https://www.amazon.es/dp/B07DD7Y3PB/?tag=tolees-21) a 22.07 EUR (original: 29.95 EUR) (26.31 %  de descuento) en el siguiente enlace!

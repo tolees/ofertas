@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01H3KNWLI/?tag=tolees-21'
 descuento: '50.00'
+average: '9.95'
 ---
 
 Está [Frozen Perfume Consumo Niños - 150 ml](https://www.amazon.es/dp/B01H3KNWLI/?tag=tolees-21) con 50.00 de descuento por 9.95 EUR (original: 19.9 EUR) en el siguiente enlace!

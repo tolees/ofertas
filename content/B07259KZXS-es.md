@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07259KZXS/?tag=tolees-21'
 descuento: '67.24'
+average: '29.47'
 ---
 
 Ahora mismo tienes [G-STAR RAW Core R Knit L/s suéter  Gris  Grey Htr 906   X-Large para Hombre](https://www.amazon.es/dp/B07259KZXS/?tag=tolees-21) a 29.47 EUR (original: 89.95 EUR) (67.24 %  de descuento) en el siguiente enlace!

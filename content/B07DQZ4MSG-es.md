@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DQZ4MSG/?tag=tolees-21'
 descuento: '35.04'
+average: '23.38'
 ---
 
 Ahora mismo tienes [MTNG Attitude 69062  Zapatillas para Mujer   Action Blanco/PU Cebra C42695   36 EU](https://www.amazon.es/dp/B07DQZ4MSG/?tag=tolees-21) a 23.38 EUR (original: 35.99 EUR) (35.04 %  de descuento) en el siguiente enlace!

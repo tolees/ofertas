@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000QDTV0Q/?tag=tolees-21'
 descuento: '57.17'
+average: '25.7'
 ---
 
 Tienes [Birkenstock - Madrid  Mules Hombre  Negro  42  normal ](https://www.amazon.es/dp/B000QDTV0Q/?tag=tolees-21) con un 57.17 % de descuento con precio de oferta de 25.7 EUR (original: 60 EUR) en el siguiente enlace!

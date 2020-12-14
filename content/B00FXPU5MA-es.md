@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00FXPU5MA/?tag=tolees-21'
 descuento: '70.00'
+average: '5.97'
 ---
 
 Ahora mismo tienes [Playtex Invisible Elegance  Bragas para Mujer  Negro  Negro 001   40  Talla del Fabricante 42 ](https://www.amazon.es/dp/B00FXPU5MA/?tag=tolees-21) a 5.97 EUR (original: 19.9 EUR) (70.00 %  de descuento) en el siguiente enlace!

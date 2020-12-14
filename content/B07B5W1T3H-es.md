@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B5W1T3H/?tag=tolees-21'
 descuento: '32.61'
+average: '26.95'
 ---
 
 Está [Street Fighter - 30th Anniversary](https://www.amazon.es/dp/B07B5W1T3H/?tag=tolees-21) con 32.61 de descuento por 26.95 EUR (original: 39.99 EUR) en el siguiente enlace!

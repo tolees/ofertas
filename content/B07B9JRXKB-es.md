@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B9JRXKB/?tag=tolees-21'
 descuento: '59.86'
+average: '32.09'
 ---
 
 Está [Skechers Delson-Ortego  Zapatillas para Hombre  Negro  Black Blk   43 EU](https://www.amazon.es/dp/B07B9JRXKB/?tag=tolees-21) con 59.86 de descuento por 32.09 EUR (original: 79.95 EUR) en el siguiente enlace!

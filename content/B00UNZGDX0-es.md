@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00UNZGDX0/?tag=tolees-21'
 descuento: '53.08'
+average: '9.38'
 ---
 
 Tienes [Funko- Mopeez Hulk Figura de Vinilo  5586 ](https://www.amazon.es/dp/B00UNZGDX0/?tag=tolees-21) con un 53.08 % de descuento con precio de oferta de 9.38 EUR (original: 19.99 EUR) en el siguiente enlace!

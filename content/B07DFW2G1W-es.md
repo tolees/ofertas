@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFW2G1W/?tag=tolees-21'
 descuento: '56.11'
+average: '10.95'
 ---
 
 Está [Puma Rebel Block Basic T-Shirt  Hombre  Cotton Black  M](https://www.amazon.es/dp/B07DFW2G1W/?tag=tolees-21) con 56.11 de descuento por 10.95 EUR (original: 24.95 EUR) en el siguiente enlace!

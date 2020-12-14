@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IP9K38G/?tag=tolees-21'
 descuento: '33.35'
+average: '17.99'
 ---
 
 Tienes [Aigostar USMixer 30HLY - Batidora de doble varilla  potencia 200 W. Especial repostería  5 velocidades y turbo. Incluye 2 varillas batidoras y 2 para masas  aptas para lavavajillas. Diseño exclusivo.](https://www.amazon.es/dp/B01IP9K38G/?tag=tolees-21) con un 33.35 % de descuento con precio de oferta de 17.99 EUR (original: 26.99 EUR) en el siguiente enlace!

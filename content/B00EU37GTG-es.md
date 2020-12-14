@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00EU37GTG/?tag=tolees-21'
 descuento: '65.87'
+average: '15.36'
 ---
 
 Está [Tuscany Silver 8.55.2199 - Pendientes de plata de ley  925/1000   sin gema](https://www.amazon.es/dp/B00EU37GTG/?tag=tolees-21) con 65.87 de descuento por 15.36 EUR (original: 45 EUR) en el siguiente enlace!

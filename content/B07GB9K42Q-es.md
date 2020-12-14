@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GB9K42Q/?tag=tolees-21'
 descuento: '29.57'
+average: '7.74'
 ---
 
 Está [Edge Entertainment- Origami   EEDVOR01 ](https://www.amazon.es/dp/B07GB9K42Q/?tag=tolees-21) con 29.57 de descuento por 7.74 EUR (original: 10.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QPCVFF9/?tag=tolees-21'
 descuento: '57.15'
+average: '29.99'
 ---
 
 Está [i8X TWS áuriculares Bluetooth Inalambricos  DUOKER TWS Auriculares Bluetooth 5.0 In-Ear True Wireless Twins Cascos con Mini Caja de Carga  Microfono para Libros de Audio  Youtube - Blanco](https://www.amazon.es/dp/B07QPCVFF9/?tag=tolees-21) con 57.15 de descuento por 29.99 EUR (original: 69.99 EUR) en el siguiente enlace!

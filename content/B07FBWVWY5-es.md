@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FBWVWY5/?tag=tolees-21'
 descuento: '48.98'
+average: '50'
 ---
 
 Tienes [COMIFORT Mesa de Centro Elevable Moderna Mesita de Café Comedor o Salón  100 X 50 X 43/52  Nordic ](https://www.amazon.es/dp/B07FBWVWY5/?tag=tolees-21) con un 48.98 % de descuento con precio de oferta de 50 EUR (original: 98 EUR) en el siguiente enlace!

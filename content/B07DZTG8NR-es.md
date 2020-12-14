@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DZTG8NR/?tag=tolees-21'
 descuento: '59.08'
+average: '8.59'
 ---
 
 Tienes [Encendedor con Pilas Secas  TACKLIFE-ELY06 Mechero Eléctrico Cocina con Cuello Largo & 360º Flexible  Bloqueo de Seguridad  Baterías Reemplazadas  Incluídas   Actividades al Aire Libre](https://www.amazon.es/dp/B07DZTG8NR/?tag=tolees-21) con un 59.08 % de descuento con precio de oferta de 8.59 EUR (original: 20.99 EUR) en el siguiente enlace!

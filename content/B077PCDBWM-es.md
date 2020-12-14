@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077PCDBWM/?tag=tolees-21'
 descuento: '69.09'
+average: '27.8'
 ---
 
 Ahora mismo tienes [Puma Suede Heart Pebble Wn s  Zapatillas para Mujer  Gris Rock Ridge  38 EU](https://www.amazon.es/dp/B077PCDBWM/?tag=tolees-21) a 27.8 EUR (original: 89.95 EUR) (69.09 %  de descuento) en el siguiente enlace!

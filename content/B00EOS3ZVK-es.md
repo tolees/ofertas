@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00EOS3ZVK/?tag=tolees-21'
 descuento: '44.60'
+average: '55.95'
 ---
 
 Tienes [NikeAIR MAX COMMAND FLEX  Zapatillas deportivas Unisex Niños  Negro  Black / White White   36 EU](https://www.amazon.es/dp/B00EOS3ZVK/?tag=tolees-21) con un 44.60 % de descuento con precio de oferta de 55.95 EUR (original: 101 EUR) en el siguiente enlace!

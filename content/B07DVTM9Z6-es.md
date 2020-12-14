@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DVTM9Z6/?tag=tolees-21'
 descuento: '56.87'
+average: '17.23'
 ---
 
 Está [Hummel Hmlliams Pantalones  Unisex niños  Gris  Medium Melange   104](https://www.amazon.es/dp/B07DVTM9Z6/?tag=tolees-21) con 56.87 de descuento por 17.23 EUR (original: 39.95 EUR) en el siguiente enlace!

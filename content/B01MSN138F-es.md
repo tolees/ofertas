@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MSN138F/?tag=tolees-21'
 descuento: '45.82'
+average: '8.94'
 ---
 
 Está [STANLEY FMHT0-75438 - Mordaza FatMax boca larga 150 mm](https://www.amazon.es/dp/B01MSN138F/?tag=tolees-21) con 45.82 de descuento por 8.94 EUR (original: 16.5 EUR) en el siguiente enlace!

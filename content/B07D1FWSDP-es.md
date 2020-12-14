@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D1FWSDP/?tag=tolees-21'
 descuento: '69.25'
+average: '19.97'
 ---
 
 Ahora mismo tienes [Reebok Classic Leather Ripple  Zapatillas Unisex Niños  Naranja  Dirty Apricot/Gum 0   34.5 EU](https://www.amazon.es/dp/B07D1FWSDP/?tag=tolees-21) a 19.97 EUR (original: 64.95 EUR) (69.25 %  de descuento) en el siguiente enlace!

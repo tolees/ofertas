@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071NM45CK/?tag=tolees-21'
 descuento: '31.21'
+average: '165.08'
 ---
 
 Ahora mismo tienes [HyperX Impact 16GB DDR4 2133MHz Kit 16GB DDR4 2133MHz módulo de - Memoria  16 GB  DDR4  2133 MHz  Portátil  260-pin SO-DIMM  2 x 8 GB ](https://www.amazon.es/dp/B071NM45CK/?tag=tolees-21) a 165.08 EUR (original: 239.99 EUR) (31.21 %  de descuento) en el siguiente enlace!

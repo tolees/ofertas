@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BGTOG6W/?tag=tolees-21'
 descuento: '35.52'
+average: '64.45'
 ---
 
 Está [G-STAR RAW Bronson Slim Chino  Pantalones para Hombre  Color Beige  Dune 1794   Talla 34W/32L](https://www.amazon.es/dp/B01BGTOG6W/?tag=tolees-21) con 35.52 de descuento por 64.45 EUR (original: 99.95 EUR) en el siguiente enlace!

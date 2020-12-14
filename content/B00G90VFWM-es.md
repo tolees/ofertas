@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00G90VFWM/?tag=tolees-21'
 descuento: '47.05'
+average: '29.95'
 ---
 
 Tienes [Bavaria BVC 1815 S - Aspirador en húmedo y seco](https://www.amazon.es/dp/B00G90VFWM/?tag=tolees-21) con un 47.05 % de descuento con precio de oferta de 29.95 EUR (original: 56.56 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078YPRCZS/?tag=tolees-21'
 descuento: '65.76'
+average: '18.83'
 ---
 
 Tienes [Emporio Armani Underwear 111507  Pantalones Hombre  Azul  Marine 00135   W28  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B078YPRCZS/?tag=tolees-21) con un 65.76 % de descuento con precio de oferta de 18.83 EUR (original: 55 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FBJ31FG/?tag=tolees-21'
 descuento: '56.20'
+average: '17.52'
 ---
 
 Ahora mismo tienes [New Balance MC NB Ice 2E Polo  Mujer  Naranja  Dragonfly   M](https://www.amazon.es/dp/B07FBJ31FG/?tag=tolees-21) a 17.52 EUR (original: 40 EUR) (56.20 %  de descuento) en el siguiente enlace!

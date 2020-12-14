@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078VNT4XR/?tag=tolees-21'
 descuento: '67.37'
+average: '31'
 ---
 
 Está [Asics Gel-Kayano Trainer EVO  Zapatillas para Hombre  Azul Provincial Blue 4242  46.5 EU](https://www.amazon.es/dp/B078VNT4XR/?tag=tolees-21) con 67.37 de descuento por 31 EUR (original: 95 EUR) en el siguiente enlace!

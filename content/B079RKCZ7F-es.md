@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RKCZ7F/?tag=tolees-21'
 descuento: '50.03'
+average: '9.99'
 ---
 
 Ahora mismo tienes [The Essential One - Bebé Ropa de Cama de Guardería Búho Cojín/Amortiguar - Multicolor - EOB6](https://www.amazon.es/dp/B079RKCZ7F/?tag=tolees-21) a 9.99 EUR (original: 19.99 EUR) (50.03 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00FQD5TC0/?tag=tolees-21'
 descuento: '60.50'
+average: '3.93'
 ---
 
 Ahora mismo tienes [Filtro de Agua Tipo III para Depuradora de Cartucho Bestway 5.678 l/h](https://www.amazon.es/dp/B00FQD5TC0/?tag=tolees-21) a 3.93 EUR (original: 9.95 EUR) (60.50 %  de descuento) en el siguiente enlace!

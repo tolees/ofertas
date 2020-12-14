@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCBG16F/?tag=tolees-21'
 descuento: '34.12'
+average: '26.32'
 ---
 
 Ahora mismo tienes [XTI 48190  Zapatillas para Hombre  Verde  Kaki Kaki   42 EU](https://www.amazon.es/dp/B07DCBG16F/?tag=tolees-21) a 26.32 EUR (original: 39.95 EUR) (34.12 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KR5J5NZ/?tag=tolees-21'
 descuento: '25.18'
+average: '104'
 ---
 
 Ahora mismo tienes [Aiibot Robot Aspirador Navegación Inteligente  Robot de Limpieza Fuerte Succión con Control Remoto  Sensor de Caída  T350 Blanco ](https://www.amazon.es/dp/B07KR5J5NZ/?tag=tolees-21) a 104 EUR (original: 139 EUR) (25.18 %  de descuento) en el siguiente enlace!

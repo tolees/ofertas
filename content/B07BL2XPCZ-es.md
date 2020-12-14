@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BL2XPCZ/?tag=tolees-21'
 descuento: '44.38'
+average: '50.06'
 ---
 
 Tienes [New Balance 997H  Zapatillas para Mujer  Blanco Agave/White  40 EU](https://www.amazon.es/dp/B07BL2XPCZ/?tag=tolees-21) con un 44.38 % de descuento con precio de oferta de 50.06 EUR (original: 90 EUR) en el siguiente enlace!

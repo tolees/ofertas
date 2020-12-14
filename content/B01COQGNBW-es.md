@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01COQGNBW/?tag=tolees-21'
 descuento: '58.01'
+average: '33.59'
 ---
 
 Está [Globe Encore-2  Zapatillas de Skateboard Hombre  Multicolor  Black/White   44.5 EU  11 US ](https://www.amazon.es/dp/B01COQGNBW/?tag=tolees-21) con 58.01 de descuento por 33.59 EUR (original: 80 EUR) en el siguiente enlace!

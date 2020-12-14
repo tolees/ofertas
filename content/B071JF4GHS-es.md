@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071JF4GHS/?tag=tolees-21'
 descuento: '42.43'
+average: '23'
 ---
 
 Tienes [adidas Vs ADV Cl CMF C  Zapatillas de Deporte Unisex niño  Blanco Ftwbla/Supros  31 EU](https://www.amazon.es/dp/B071JF4GHS/?tag=tolees-21) con un 42.43 % de descuento con precio de oferta de 23 EUR (original: 39.95 EUR) en el siguiente enlace!

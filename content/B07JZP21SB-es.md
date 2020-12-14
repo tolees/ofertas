@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JZP21SB/?tag=tolees-21'
 descuento: '47.52'
+average: '62.95'
 ---
 
 Está [adidas Stan Smith  Zapatillas para Mujer  Blanco  Footwear White/Active Red/True Pink 000   38 EU](https://www.amazon.es/dp/B07JZP21SB/?tag=tolees-21) con 47.52 de descuento por 62.95 EUR (original: 119.95 EUR) en el siguiente enlace!

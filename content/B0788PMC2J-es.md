@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0788PMC2J/?tag=tolees-21'
 descuento: '39.94'
+average: '48.02'
 ---
 
 Está [Tommy Hilfiger Denton Chino Str Pima Ctn  Pantalones Hombre  Marrón  Chutney 210   W36/L34  Talla fabricante: W36/L34 ](https://www.amazon.es/dp/B0788PMC2J/?tag=tolees-21) con 39.94 de descuento por 48.02 EUR (original: 79.95 EUR) en el siguiente enlace!

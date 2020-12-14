@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077QNBCKJ/?tag=tolees-21'
 descuento: '30.35'
+average: '15.95'
 ---
 
 Ahora mismo tienes [Urban Classics Block Swim Shorts Bañador de natación  Negro  3XL para Hombre](https://www.amazon.es/dp/B077QNBCKJ/?tag=tolees-21) a 15.95 EUR (original: 22.9 EUR) (30.35 %  de descuento) en el siguiente enlace!

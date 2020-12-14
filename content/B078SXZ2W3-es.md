@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078SXZ2W3/?tag=tolees-21'
 descuento: '50.82'
+average: '58.99'
 ---
 
 Ahora mismo tienes [Salomon X-Mission 3  Zapatillas de Trail Running para Hombre  Verde  Urban Chic/Black/Guacamole   40 2/3 EU](https://www.amazon.es/dp/B078SXZ2W3/?tag=tolees-21) a 58.99 EUR (original: 119.95 EUR) (50.82 %  de descuento) en el siguiente enlace!

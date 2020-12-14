@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01CFZ2GRM/?tag=tolees-21'
 descuento: '49.97'
+average: '9.98'
 ---
 
 Tienes [Berydale Clutch de satén con borde de estrás para mujer  Azul  Dunkelblau   26x11x6 cm  B x H x T ](https://www.amazon.es/dp/B01CFZ2GRM/?tag=tolees-21) con un 49.97 % de descuento con precio de oferta de 9.98 EUR (original: 19.95 EUR) en el siguiente enlace!

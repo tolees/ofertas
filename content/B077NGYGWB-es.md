@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077NGYGWB/?tag=tolees-21'
 descuento: '79.50'
+average: '10.24'
 ---
 
 Ahora mismo tienes [DKNY Intimates Sheers Convertible  Sujetador sin Tirantes para Mujer  Blanco  White Bj  90A  Talla del Fabricante: 34A ](https://www.amazon.es/dp/B077NGYGWB/?tag=tolees-21) a 10.24 EUR (original: 49.95 EUR) (79.50 %  de descuento) en el siguiente enlace!

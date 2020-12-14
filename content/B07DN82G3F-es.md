@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DN82G3F/?tag=tolees-21'
 descuento: '30.79'
+average: '8.99'
 ---
 
 Ahora mismo tienes [Mascarilla para Contorno de Ojos - Liberex Mascarilla de Hidrogel con Suero de Colágeno Antienvejecimiento Arrugas  10 pares ](https://www.amazon.es/dp/B07DN82G3F/?tag=tolees-21) a 8.99 EUR (original: 12.99 EUR) (30.79 %  de descuento) en el siguiente enlace!

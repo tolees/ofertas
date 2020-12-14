@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HCVLZFS/?tag=tolees-21'
 descuento: '58.53'
+average: '41.43'
 ---
 
 Está [Tommy Hilfiger Lighweight Corporate Runner  Zapatillas para Hombre  Blanco  White 100   42 EU](https://www.amazon.es/dp/B07HCVLZFS/?tag=tolees-21) con 58.53 de descuento por 41.43 EUR (original: 99.9 EUR) en el siguiente enlace!

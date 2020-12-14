@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0722W3ZRV/?tag=tolees-21'
 descuento: '62.44'
+average: '60.1'
 ---
 
 Ahora mismo tienes [Project Cars 2: Collector s Edition](https://www.amazon.es/dp/B0722W3ZRV/?tag=tolees-21) a 60.1 EUR (original: 160 EUR) (62.44 %  de descuento) en el siguiente enlace!

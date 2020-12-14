@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078TTS4P3/?tag=tolees-21'
 descuento: '50.00'
+average: '69.98'
 ---
 
 Está [adidas Superstar 80S Decon  Zapatillas para Hombre  Blanco Footwear White/Brown 0  42 2/3 EU](https://www.amazon.es/dp/B078TTS4P3/?tag=tolees-21) con 50.00 de descuento por 69.98 EUR (original: 139.95 EUR) en el siguiente enlace!

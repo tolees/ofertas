@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XCQMSQX/?tag=tolees-21'
 descuento: '65.47'
+average: '13.81'
 ---
 
 Tienes [Cortefiel 7217765  Vaquero para Hombre  Azul  W31](https://www.amazon.es/dp/B06XCQMSQX/?tag=tolees-21) con un 65.47 % de descuento con precio de oferta de 13.81 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074KDHMKJ/?tag=tolees-21'
 descuento: '25.00'
+average: '119.24'
 ---
 
 Ahora mismo tienes [AmazonBasics - Caja fuerte ignífuga  35 l](https://www.amazon.es/dp/B074KDHMKJ/?tag=tolees-21) a 119.24 EUR (original: 158.99 EUR) (25.00 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JVK2JGH/?tag=tolees-21'
 descuento: '55.16'
+average: '19.89'
 ---
 
 Tienes [Symiu Circuito de Coches de Madera Rampas para 4 Coches Juguete Juegos Educativos Regalos niños 3 4 5](https://www.amazon.es/dp/B07JVK2JGH/?tag=tolees-21) con un 55.16 % de descuento con precio de oferta de 19.89 EUR (original: 44.36 EUR) en el siguiente enlace!

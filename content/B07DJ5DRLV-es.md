@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ5DRLV/?tag=tolees-21'
 descuento: '36.56'
+average: '31.72'
 ---
 
 Tienes [New Balance 411  Zapatillas de Running para Hombre  Azul  Navy/RGB Green/Silver Ln1   40.5 EU](https://www.amazon.es/dp/B07DJ5DRLV/?tag=tolees-21) con un 36.56 % de descuento con precio de oferta de 31.72 EUR (original: 50 EUR) en el siguiente enlace!

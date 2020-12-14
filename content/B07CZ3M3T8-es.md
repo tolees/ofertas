@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ3M3T8/?tag=tolees-21'
 descuento: '58.41'
+average: '33.27'
 ---
 
 Tienes [Puma Amp XT Wn s  Zapatillas de Deporte para Mujer  Blanco White-Peacoat 02  40 EU](https://www.amazon.es/dp/B07CZ3M3T8/?tag=tolees-21) con un 58.41 % de descuento con precio de oferta de 33.27 EUR (original: 79.99 EUR) en el siguiente enlace!

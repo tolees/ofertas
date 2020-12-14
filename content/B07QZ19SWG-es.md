@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QZ19SWG/?tag=tolees-21'
 descuento: '30.01'
+average: '27.99'
 ---
 
 Ahora mismo tienes [FEIYU CREATIVE máscara de Buceo Dual snokel](https://www.amazon.es/dp/B07QZ19SWG/?tag=tolees-21) a 27.99 EUR (original: 39.99 EUR) (30.01 %  de descuento) en el siguiente enlace!

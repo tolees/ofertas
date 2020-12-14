@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y6CVW69/?tag=tolees-21'
 descuento: '25.00'
+average: '17.91'
 ---
 
 Tienes [Toallitas húmedas Baby Dove sensitive moisture - Pack de 12 x 50: Total 600 toallitas](https://www.amazon.es/dp/B06Y6CVW69/?tag=tolees-21) con un 25.00 % de descuento con precio de oferta de 17.91 EUR (original: 23.88 EUR) en el siguiente enlace!

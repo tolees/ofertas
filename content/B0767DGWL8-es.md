@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0767DGWL8/?tag=tolees-21'
 descuento: '56.29'
+average: '18.34'
 ---
 
 Está [Calypso Reloj de Pulsera K5748/2](https://www.amazon.es/dp/B0767DGWL8/?tag=tolees-21) con 56.29 de descuento por 18.34 EUR (original: 41.96 EUR) en el siguiente enlace!

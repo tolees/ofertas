@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003TQQ72M/?tag=tolees-21'
 descuento: '35.51'
+average: '28.99'
 ---
 
 Tienes [Fleshlight Masturbadores Él - 1 unidad](https://www.amazon.es/dp/B003TQQ72M/?tag=tolees-21) con un 35.51 % de descuento con precio de oferta de 28.99 EUR (original: 44.95 EUR) en el siguiente enlace!

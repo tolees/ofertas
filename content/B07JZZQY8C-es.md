@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JZZQY8C/?tag=tolees-21'
 descuento: '49.99'
+average: '39.98'
 ---
 
 Tienes [adidas Forest Grove Zapatillas de Gimnasia Hombre  Rojo  Collegiate Burgundy/Cloud White/Core Black Collegiate Burgundy/Cloud White/Core Black   43 1/3 EU  9 UK ](https://www.amazon.es/dp/B07JZZQY8C/?tag=tolees-21) con un 49.99 % de descuento con precio de oferta de 39.98 EUR (original: 79.95 EUR) en el siguiente enlace!

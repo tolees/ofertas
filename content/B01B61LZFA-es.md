@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01B61LZFA/?tag=tolees-21'
 descuento: '50.00'
+average: '605'
 ---
 
 Ahora mismo tienes [FLEX Nube Visco Gel - Colchón muelles ensacados  150 x 190  cm](https://www.amazon.es/dp/B01B61LZFA/?tag=tolees-21) a 605 EUR (original: 1210 EUR) (50.00 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005T3GRNW/?tag=tolees-21'
 descuento: '25.43'
+average: '45'
 ---
 
 Ahora mismo tienes [Seagate Barracuda ST1000DM003 - Disco duro interno de 1 TB  SATA III  7200 RPM  3.5" ](https://www.amazon.es/dp/B005T3GRNW/?tag=tolees-21) a 45 EUR (original: 60.35 EUR) (25.43 %  de descuento) en el siguiente enlace!

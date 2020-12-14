@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071HW9TDH/?tag=tolees-21'
 descuento: '52.87'
+average: '18.85'
 ---
 
 Ahora mismo tienes [Under Armour Armour Mid Crossback Printed Bra Sujetador Deportivo  Mujer  Amarillo  159   M](https://www.amazon.es/dp/B071HW9TDH/?tag=tolees-21) a 18.85 EUR (original: 40 EUR) (52.87 %  de descuento) en el siguiente enlace!

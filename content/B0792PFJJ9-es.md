@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792PFJJ9/?tag=tolees-21'
 descuento: '28.58'
+average: '49.99'
 ---
 
 Tienes [HOMELODY Cromo Cascada Grifo de lavabo Grifo de Baño Monomando de lavabo Grifería lavabo Alto caño Agua fría y cliente](https://www.amazon.es/dp/B0792PFJJ9/?tag=tolees-21) con un 28.58 % de descuento con precio de oferta de 49.99 EUR (original: 69.99 EUR) en el siguiente enlace!

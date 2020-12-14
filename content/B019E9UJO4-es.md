@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B019E9UJO4/?tag=tolees-21'
 descuento: '59.84'
+average: '99.99'
 ---
 
 Ahora mismo tienes [Venta Stock Confort 2 - Sillón de Oficina elevable y reclinable  Piel sintética  Color Blanco](https://www.amazon.es/dp/B019E9UJO4/?tag=tolees-21) a 99.99 EUR (original: 249 EUR) (59.84 %  de descuento) en el siguiente enlace!

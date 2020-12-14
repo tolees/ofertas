@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01L7BM7HY/?tag=tolees-21'
 descuento: '69.82'
+average: '11.95'
 ---
 
 Tienes [Star Wars: El Despertar De La Fuerza  Blu-ray 3D  [Blu-ray]](https://www.amazon.es/dp/B01L7BM7HY/?tag=tolees-21) con un 69.82 % de descuento con precio de oferta de 11.95 EUR (original: 39.59 EUR) en el siguiente enlace!

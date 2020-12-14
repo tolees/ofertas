@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072W4MK7X/?tag=tolees-21'
 descuento: '56.79'
+average: '43.19'
 ---
 
 Ahora mismo tienes [New Balance M565 Classic  Zapatillas de Running para Hombre  Negro  Black   42 EU](https://www.amazon.es/dp/B072W4MK7X/?tag=tolees-21) a 43.19 EUR (original: 99.95 EUR) (56.79 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LBFJJD3/?tag=tolees-21'
 descuento: '46.63'
+average: '47.5'
 ---
 
 Está [Napapijri Nore  Pantalones Cortos para Hombre  Azul  Dark Denim Bd1   W33  Talla del Fabricante: 30 ](https://www.amazon.es/dp/B07LBFJJD3/?tag=tolees-21) con 46.63 de descuento por 47.5 EUR (original: 89 EUR) en el siguiente enlace!

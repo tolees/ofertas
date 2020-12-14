@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078TSYSJ2/?tag=tolees-21'
 descuento: '55.78'
+average: '30.93'
 ---
 
 Ahora mismo tienes [Skechers Skyline-Transient  Zapatillas para Mujer  Blanco  White Wht   39 EU](https://www.amazon.es/dp/B078TSYSJ2/?tag=tolees-21) a 30.93 EUR (original: 69.95 EUR) (55.78 %  de descuento) en el siguiente enlace!

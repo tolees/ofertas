@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BQV3ZKN/?tag=tolees-21'
 descuento: '37.48'
+average: '40.64'
 ---
 
 Está [New Balance 574  Zapatillas Unisex  Rosa  Light Cashmere/Dark Currant MLG   35.5 EU](https://www.amazon.es/dp/B07BQV3ZKN/?tag=tolees-21) con 37.48 de descuento por 40.64 EUR (original: 65 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KQ54H2P/?tag=tolees-21'
 descuento: '39.40'
+average: '59.99'
 ---
 
 Tienes [Cámaras de Vigilancia WiFi SZSINOCAM Cámaras de Vigilancia Interior/Exterior 1080P P2P IP66 Detección de Movimiento  2 vías Audio Seguridad para casa](https://www.amazon.es/dp/B07KQ54H2P/?tag=tolees-21) con un 39.40 % de descuento con precio de oferta de 59.99 EUR (original: 99 EUR) en el siguiente enlace!

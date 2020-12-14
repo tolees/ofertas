@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BZV871Q/?tag=tolees-21'
 descuento: '70.05'
+average: '8.97'
 ---
 
 Ahora mismo tienes [Triumph Light Lovely Day WHP Sujetador de Copa Media  Blanco  White 0003   90B  Talla del Fabricante: 75  para Mujer](https://www.amazon.es/dp/B07BZV871Q/?tag=tolees-21) a 8.97 EUR (original: 29.95 EUR) (70.05 %  de descuento) en el siguiente enlace!

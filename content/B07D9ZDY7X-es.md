@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9ZDY7X/?tag=tolees-21'
 descuento: '77.66'
+average: '22.33'
 ---
 
 Ahora mismo tienes [Puma Basket Classic Weatherproof  Zapatillas Unisex Adulto  Gris  Elephant Skin Silver-Gum 06   37 EU](https://www.amazon.es/dp/B07D9ZDY7X/?tag=tolees-21) a 22.33 EUR (original: 99.95 EUR) (77.66 %  de descuento) en el siguiente enlace!

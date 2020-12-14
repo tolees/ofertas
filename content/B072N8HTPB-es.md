@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072N8HTPB/?tag=tolees-21'
 descuento: '77.34'
+average: '19.48'
 ---
 
 Ahora mismo tienes [Tamaris 25742  Botas para Mujer  Negro  Black Velvet   38 EU](https://www.amazon.es/dp/B072N8HTPB/?tag=tolees-21) a 19.48 EUR (original: 85.95 EUR) (77.34 %  de descuento) en el siguiente enlace!

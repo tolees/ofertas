@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KZ7H71W/?tag=tolees-21'
 descuento: '55.15'
+average: '13.45'
 ---
 
 Está [DC Apparel Circle Star T-Shirt  Hombre  Snow White  XL](https://www.amazon.es/dp/B07KZ7H71W/?tag=tolees-21) con 55.15 de descuento por 13.45 EUR (original: 29.99 EUR) en el siguiente enlace!

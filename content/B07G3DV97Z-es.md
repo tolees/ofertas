@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G3DV97Z/?tag=tolees-21'
 descuento: '50.55'
+average: '6.8'
 ---
 
 Ahora mismo tienes [Takestop Farol Cristal con Luz 20 LED blanco cálido Gris Tirador de cuerda portavelas boda Shabby Chic Tea Light Porta Vela Velas Marino Decoración Playa Playa Maceta Jardín](https://www.amazon.es/dp/B07G3DV97Z/?tag=tolees-21) a 6.8 EUR (original: 13.75 EUR) (50.55 %  de descuento) en el siguiente enlace!

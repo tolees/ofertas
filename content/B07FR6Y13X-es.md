@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FR6Y13X/?tag=tolees-21'
 descuento: '71.13'
+average: '14.47'
 ---
 
 Ahora mismo tienes [Original Penguin 56 Tipped  Polo para Hombre  Azul  Classic Blue  Small](https://www.amazon.es/dp/B07FR6Y13X/?tag=tolees-21) a 14.47 EUR (original: 50.12 EUR) (71.13 %  de descuento) en el siguiente enlace!

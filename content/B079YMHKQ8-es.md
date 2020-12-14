@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079YMHKQ8/?tag=tolees-21'
 descuento: '59.97'
+average: '6'
 ---
 
 Tienes [Funko Pop! - Qi Ra Star Wars: Red Cup Figura de Vinilo 26977](https://www.amazon.es/dp/B079YMHKQ8/?tag=tolees-21) con un 59.97 % de descuento con precio de oferta de 6 EUR (original: 14.99 EUR) en el siguiente enlace!

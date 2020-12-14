@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079PRFZ97/?tag=tolees-21'
 descuento: '33.35'
+average: '13.99'
 ---
 
 Ahora mismo tienes [Teryei Funda Samsung Galaxy S8 / S8 Plus/Note 8  PC Hard Case [Ultra Slim] Full protección Rasguño y Resistente Anti-Estático Choque Espejo Plegable en Reflectante  Oro  Galaxy S8 Plus ](https://www.amazon.es/dp/B079PRFZ97/?tag=tolees-21) a 13.99 EUR (original: 20.99 EUR) (33.35 %  de descuento) en el siguiente enlace!

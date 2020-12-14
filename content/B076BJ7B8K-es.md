@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076BJ7B8K/?tag=tolees-21'
 descuento: '50.00'
+average: '11.45'
 ---
 
 Está [Moleskine DHB12DC3Y19 - Diario 12m grande de tapa dura  color negro](https://www.amazon.es/dp/B076BJ7B8K/?tag=tolees-21) con 50.00 de descuento por 11.45 EUR (original: 22.9 EUR) en el siguiente enlace!

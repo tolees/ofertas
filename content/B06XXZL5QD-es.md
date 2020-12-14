@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XXZL5QD/?tag=tolees-21'
 descuento: '37.53'
+average: '19.99'
 ---
 
 Ahora mismo tienes [Women s Bounce Control Wirefree High Impact Full Figure Support Sports Bra Verde ES:120C  EU 105C ](https://www.amazon.es/dp/B06XXZL5QD/?tag=tolees-21) a 19.99 EUR (original: 32 EUR) (37.53 %  de descuento) en el siguiente enlace!

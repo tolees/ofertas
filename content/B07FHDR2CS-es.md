@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FHDR2CS/?tag=tolees-21'
 descuento: '54.31'
+average: '34.27'
 ---
 
 Tienes [Helly Hansen Brono Short  Hombre  Ebony  2XL](https://www.amazon.es/dp/B07FHDR2CS/?tag=tolees-21) con un 54.31 % de descuento con precio de oferta de 34.27 EUR (original: 75 EUR) en el siguiente enlace!

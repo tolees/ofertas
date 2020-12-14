@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFZZTSS/?tag=tolees-21'
 descuento: '40.00'
+average: '30'
 ---
 
 Está [New Balance 373  Zapatillas Unisex Niños  Rosa  Dark Pink/Grey PF   30.5 EU](https://www.amazon.es/dp/B07DFZZTSS/?tag=tolees-21) con 40.00 de descuento por 30 EUR (original: 50 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JYLL9X5/?tag=tolees-21'
 descuento: '42.52'
+average: '68.95'
 ---
 
 Tienes [adidas PROPHERE  Zapatillas de Gimnasia para Hombre  Negro Core Black/FTWR White  44 EU](https://www.amazon.es/dp/B07JYLL9X5/?tag=tolees-21) con un 42.52 % de descuento con precio de oferta de 68.95 EUR (original: 119.95 EUR) en el siguiente enlace!

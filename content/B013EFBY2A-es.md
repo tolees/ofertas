@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B013EFBY2A/?tag=tolees-21'
 descuento: '36.42'
+average: '101.67'
 ---
 
 Tienes [BQ C000067 - Phablet fnac 2 de 5"  LTE  Qualcomm Snapdragon 410  Memoria DE 16 GB  RAM 1 GB  WiFi  Bluetooth 4.0  Android 4.4   Color Negro](https://www.amazon.es/dp/B013EFBY2A/?tag=tolees-21) con un 36.42 % de descuento con precio de oferta de 101.67 EUR (original: 159.9 EUR) en el siguiente enlace!

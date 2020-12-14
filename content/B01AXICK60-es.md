@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01AXICK60/?tag=tolees-21'
 descuento: '47.66'
+average: '83.69'
 ---
 
 Está [Sole Runner Dakota  Mocasines para Hombre  Negro-Schwarz  Black 00   44 EU](https://www.amazon.es/dp/B01AXICK60/?tag=tolees-21) con 47.66 de descuento por 83.69 EUR (original: 159.9 EUR) en el siguiente enlace!

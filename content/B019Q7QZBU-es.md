@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B019Q7QZBU/?tag=tolees-21'
 descuento: '25.01'
+average: '27.74'
 ---
 
 Ahora mismo tienes [Ultratec CG2000/ 331400000267 Parrilla de contacto 2 en 1  2000 vatios  función barbacoa](https://www.amazon.es/dp/B019Q7QZBU/?tag=tolees-21) a 27.74 EUR (original: 36.99 EUR) (25.01 %  de descuento) en el siguiente enlace!

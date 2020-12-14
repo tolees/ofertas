@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076JKXLJ1/?tag=tolees-21'
 descuento: '42.62'
+average: '46.48'
 ---
 
 Ahora mismo tienes [Nike Renew Rival  Zapatillas de Entrenamiento para Hombre   Black/White/Anthracite 001   46 EU](https://www.amazon.es/dp/B076JKXLJ1/?tag=tolees-21) a 46.48 EUR (original: 81 EUR) (42.62 %  de descuento) en el siguiente enlace!

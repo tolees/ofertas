@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0749V8HNT/?tag=tolees-21'
 descuento: '49.77'
+average: '15.07'
 ---
 
 Está [Dickies Maysville Pantalones Cortos Deportivos  Hombre  Naranja  Energy Orange EOR    Tamaño del Fabricante:M ](https://www.amazon.es/dp/B0749V8HNT/?tag=tolees-21) con 49.77 de descuento por 15.07 EUR (original: 30 EUR) en el siguiente enlace!

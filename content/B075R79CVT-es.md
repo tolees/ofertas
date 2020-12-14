@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075R79CVT/?tag=tolees-21'
 descuento: '36.90'
+average: '63.1'
 ---
 
 Está [New Balance 574v2  Zapatillas Hombre  Azul  Pigment/Munsell White Lpn   43 EU](https://www.amazon.es/dp/B075R79CVT/?tag=tolees-21) con 36.90 de descuento por 63.1 EUR (original: 100 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FH1HE9G/?tag=tolees-21'
 descuento: '79.47'
+average: '8.21'
 ---
 
 Ahora mismo tienes [Under Armour Lanzamiento 5   SW Corto  Hombre  Black/Reflective  XS](https://www.amazon.es/dp/B01FH1HE9G/?tag=tolees-21) a 8.21 EUR (original: 40 EUR) (79.47 %  de descuento) en el siguiente enlace!

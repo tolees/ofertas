@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0007VGT9S/?tag=tolees-21'
 descuento: '41.32'
+average: '18.96'
 ---
 
 Está [Pyrex Classic - Recipiente rectangular con tapa  27 x 23 cm  4 2 litros](https://www.amazon.es/dp/B0007VGT9S/?tag=tolees-21) con 41.32 de descuento por 18.96 EUR (original: 32.31 EUR) en el siguiente enlace!

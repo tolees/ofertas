@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00W4EFQ7W/?tag=tolees-21'
 descuento: '62.67'
+average: '55.99'
 ---
 
 Ahora mismo tienes [Clarks Originals Trigenic Flex  Zapatillas para Hombre  Negro  Black Nubuck   42 EU](https://www.amazon.es/dp/B00W4EFQ7W/?tag=tolees-21) a 55.99 EUR (original: 150 EUR) (62.67 %  de descuento) en el siguiente enlace!

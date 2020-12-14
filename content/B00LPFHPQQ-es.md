@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00LPFHPQQ/?tag=tolees-21'
 descuento: '39.85'
+average: '40.3'
 ---
 
 Tienes [Marc Jacobs Daisy Dream Agua de Tocador Vaporizador - 50 ml](https://www.amazon.es/dp/B00LPFHPQQ/?tag=tolees-21) con un 39.85 % de descuento con precio de oferta de 40.3 EUR (original: 67 EUR) en el siguiente enlace!

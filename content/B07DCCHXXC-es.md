@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCCHXXC/?tag=tolees-21'
 descuento: '25.48'
+average: '40.95'
 ---
 
 Está [Puma Puma Vikky v2 Zapatillas Mujer  Azul  Fair Aqua-White-Puma Silver   40.5 EU  7 UK ](https://www.amazon.es/dp/B07DCCHXXC/?tag=tolees-21) con 25.48 de descuento por 40.95 EUR (original: 54.95 EUR) en el siguiente enlace!

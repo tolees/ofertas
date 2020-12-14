@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N4C8MMH/?tag=tolees-21'
 descuento: '60.09'
+average: '12.77'
 ---
 
 Está [FIND Lace Up Capucha Para Mujer  Negro  Black   38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B01N4C8MMH/?tag=tolees-21) con 60.09 de descuento por 12.77 EUR (original: 32 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076JH3CB2/?tag=tolees-21'
 descuento: '48.48'
+average: '41.73'
 ---
 
 Tienes [Nike Renew Rival  Zapatillas de Running para Hombre  Negro  Black/White/Anthracite 001   45.5 EU](https://www.amazon.es/dp/B076JH3CB2/?tag=tolees-21) con un 48.48 % de descuento con precio de oferta de 41.73 EUR (original: 81 EUR) en el siguiente enlace!

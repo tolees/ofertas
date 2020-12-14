@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01A49WKW2/?tag=tolees-21'
 descuento: '44.12'
+average: '502.91'
 ---
 
 Está [Philips Fidelio E6 - Set de Altavoces Surround para Cine en casa  inalámbrico  con Bluetooth  Google Cast & Spotify Connect  Negro y Gris](https://www.amazon.es/dp/B01A49WKW2/?tag=tolees-21) con 44.12 de descuento por 502.91 EUR (original: 899.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0014GUGV2/?tag=tolees-21'
 descuento: '59.94'
+average: '47.99'
 ---
 
 Está [Bosch 1 618 661 000 - Cincel pala con inserción hexagonal de 28 mm x 400 x 80 mm  pack de 1](https://www.amazon.es/dp/B0014GUGV2/?tag=tolees-21) con 59.94 de descuento por 47.99 EUR (original: 119.79 EUR) en el siguiente enlace!

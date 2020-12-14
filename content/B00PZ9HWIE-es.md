@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00PZ9HWIE/?tag=tolees-21'
 descuento: '37.24'
+average: '33.89'
 ---
 
 Tienes [Mauboussin Pour Lui In Black Eau De Parfum 100 Ml](https://www.amazon.es/dp/B00PZ9HWIE/?tag=tolees-21) con un 37.24 % de descuento con precio de oferta de 33.89 EUR (original: 54 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XTL83QN/?tag=tolees-21'
 descuento: '63.38'
+average: '20.74'
 ---
 
 Ahora mismo tienes [LucaSng 15 Pulgadas Tamaño M General Automotriz Funda de Volante de Cuero de Verano Negro](https://www.amazon.es/dp/B06XTL83QN/?tag=tolees-21) a 20.74 EUR (original: 56.63 EUR) (63.38 %  de descuento) en el siguiente enlace!

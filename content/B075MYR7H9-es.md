@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075MYR7H9/?tag=tolees-21'
 descuento: '46.19'
+average: '6.99'
 ---
 
 Está [Dia De Patriotas Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B075MYR7H9/?tag=tolees-21) con 46.19 de descuento por 6.99 EUR (original: 12.99 EUR) en el siguiente enlace!

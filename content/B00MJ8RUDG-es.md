@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00MJ8RUDG/?tag=tolees-21'
 descuento: '48.48'
+average: '199.76'
 ---
 
 Ahora mismo tienes [AKRACING AK-K6014-BW - Silla  Negro  Color Blanco  Negro  Color Blanco  Negro  Poliuretano  Poliuretano  Metal ](https://www.amazon.es/dp/B00MJ8RUDG/?tag=tolees-21) a 199.76 EUR (original: 387.75 EUR) (48.48 %  de descuento) en el siguiente enlace!

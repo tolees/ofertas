@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0006JM1YS/?tag=tolees-21'
 descuento: '45.70'
+average: '30.6'
 ---
 
 Está [Tropican Papilla - 5 kg](https://www.amazon.es/dp/B0006JM1YS/?tag=tolees-21) con 45.70 de descuento por 30.6 EUR (original: 56.35 EUR) en el siguiente enlace!

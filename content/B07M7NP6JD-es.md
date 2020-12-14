@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M7NP6JD/?tag=tolees-21'
 descuento: '50.00'
+average: '16.99'
 ---
 
 Ahora mismo tienes [2 Pieza Alcachofa de Ducha  MagicHome Mano La Cabeza de Ducha  Iónico Cloro Filtración con Alta Presiòn  y 5 Modos Ahorro de Agua de Ducha Desmontable Portátil Cabeza de Ducha](https://www.amazon.es/dp/B07M7NP6JD/?tag=tolees-21) a 16.99 EUR (original: 33.98 EUR) (50.00 %  de descuento) en el siguiente enlace!

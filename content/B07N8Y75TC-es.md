@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N8Y75TC/?tag=tolees-21'
 descuento: '27.98'
+average: '64.1'
 ---
 
 Tienes [Festina Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable F16936/B](https://www.amazon.es/dp/B07N8Y75TC/?tag=tolees-21) con un 27.98 % de descuento con precio de oferta de 64.1 EUR (original: 89 EUR) en el siguiente enlace!

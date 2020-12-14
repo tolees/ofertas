@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KSX15CY/?tag=tolees-21'
 descuento: '42.87'
+average: '11.42'
 ---
 
 Está [adidas C Linear Brush Graphic tee  Short Sleeve   Hombre  Active Red  S](https://www.amazon.es/dp/B07KSX15CY/?tag=tolees-21) con 42.87 de descuento por 11.42 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JQKYDZD/?tag=tolees-21'
 descuento: '49.99'
+average: '29.98'
 ---
 
 Está [adidas Essence  Zapatillas de Balonmano para Hombre   Core Black/Hi/Res Yellow/Active Red   45 1/3 EU](https://www.amazon.es/dp/B07JQKYDZD/?tag=tolees-21) con 49.99 de descuento por 29.98 EUR (original: 59.95 EUR) en el siguiente enlace!

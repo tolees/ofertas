@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DMTWGR7/?tag=tolees-21'
 descuento: '62.52'
+average: '14.99'
 ---
 
 Ahora mismo tienes [SYCOTEK Reposapiés Inflable Portable 1 Altura  Almohada para Niños o Reposapiés de Viaje Inflable para el Asiento del Coche para la Relajación y Protección de Pernas y Pies  Gris](https://www.amazon.es/dp/B07DMTWGR7/?tag=tolees-21) a 14.99 EUR (original: 39.99 EUR) (62.52 %  de descuento) en el siguiente enlace!

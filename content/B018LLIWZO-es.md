@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B018LLIWZO/?tag=tolees-21'
 descuento: '39.94'
+average: '47.99'
 ---
 
 Tienes [Tommy Hilfiger Core Hilfiger Regular Polo  Hombre  Azul  Sky Captain 403  Large](https://www.amazon.es/dp/B018LLIWZO/?tag=tolees-21) con un 39.94 % de descuento con precio de oferta de 47.99 EUR (original: 79.9 EUR) en el siguiente enlace!

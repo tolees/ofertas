@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DGK454W/?tag=tolees-21'
 descuento: '74.13'
+average: '19.4'
 ---
 
 Ahora mismo tienes [DC Shoes Lynnfield  Zapatillas de Skateboard para Hombre  Negro  Black/Gum Bgm   40 EU](https://www.amazon.es/dp/B07DGK454W/?tag=tolees-21) a 19.4 EUR (original: 75 EUR) (74.13 %  de descuento) en el siguiente enlace!

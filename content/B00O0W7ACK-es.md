@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00O0W7ACK/?tag=tolees-21'
 descuento: '39.54'
+average: '77.99'
 ---
 
 Está [Chicco Cuddle & Bubble - Bañera cambiador compacta 2 en 1  10 kg  color azul](https://www.amazon.es/dp/B00O0W7ACK/?tag=tolees-21) con 39.54 de descuento por 77.99 EUR (original: 129 EUR) en el siguiente enlace!

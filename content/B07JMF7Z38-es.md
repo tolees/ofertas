@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JMF7Z38/?tag=tolees-21'
 descuento: '31.14'
+average: '44.76'
 ---
 
 Está [Nike MD Runner 2  Zapatillas de Running Hombre  Multicolor  Black/Red Orbit 008   41 EU](https://www.amazon.es/dp/B07JMF7Z38/?tag=tolees-21) con 31.14 de descuento por 44.76 EUR (original: 65 EUR) en el siguiente enlace!

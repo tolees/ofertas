@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M61W7FB/?tag=tolees-21'
 descuento: '30.06'
+average: '34.9'
 ---
 
 Tienes [SPC Breeze Tower - Torre de Sonido  10W  Bluetooth  Radio FM  Lector de Tarjetas   Negra](https://www.amazon.es/dp/B01M61W7FB/?tag=tolees-21) con un 30.06 % de descuento con precio de oferta de 34.9 EUR (original: 49.9 EUR) en el siguiente enlace!

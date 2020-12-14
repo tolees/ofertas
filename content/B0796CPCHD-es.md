@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0796CPCHD/?tag=tolees-21'
 descuento: '45.45'
+average: '9.9'
 ---
 
 Está [Marca Amazon - Solimo - Té English Breakfast a granel - Pack de 6   6 x 125 gr ](https://www.amazon.es/dp/B0796CPCHD/?tag=tolees-21) con 45.45 de descuento por 9.9 EUR (original: 18.15 EUR) en el siguiente enlace!

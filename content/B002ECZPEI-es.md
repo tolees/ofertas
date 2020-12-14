@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002ECZPEI/?tag=tolees-21'
 descuento: '34.77'
+average: '47.32'
 ---
 
 Ahora mismo tienes [Grohe Skate Cosmopolitan - Escudo dual  cromado Ref. 38732000](https://www.amazon.es/dp/B002ECZPEI/?tag=tolees-21) a 47.32 EUR (original: 72.54 EUR) (34.77 %  de descuento) en el siguiente enlace!

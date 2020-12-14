@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DS69LNK/?tag=tolees-21'
 descuento: '61.99'
+average: '24.62'
 ---
 
 Está [Reebok Reago Essential  Zapatillas de Deporte para Hombre   Col Navy/Blk/Wht/Solar Yellow/Cloud Gry 000   44.5 EU](https://www.amazon.es/dp/B07DS69LNK/?tag=tolees-21) con 61.99 de descuento por 24.62 EUR (original: 64.78 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003JXHZBM/?tag=tolees-21'
 descuento: '25.00'
+average: '1381.5'
 ---
 
 Tienes [FLEX Colchón Inteligente y personalizado iBed FLEX  90 x 190 cm](https://www.amazon.es/dp/B003JXHZBM/?tag=tolees-21) con un 25.00 % de descuento con precio de oferta de 1381.5 EUR (original: 1842 EUR) en el siguiente enlace!

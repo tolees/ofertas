@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DBWXVR2/?tag=tolees-21'
 descuento: '63.46'
+average: '32.87'
 ---
 
 Tienes [Puma Nova 90 s Bloc Wn s  Zapatillas para Mujer  Azul  Fair Aqua/Ponderosa Pine   38.5 EU](https://www.amazon.es/dp/B07DBWXVR2/?tag=tolees-21) con un 63.46 % de descuento con precio de oferta de 32.87 EUR (original: 89.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017RC3RZ8/?tag=tolees-21'
 descuento: '42.92'
+average: '19.95'
 ---
 
 Está [Eriksen Reloj de vestir de cuarzo analógico rectangular para hombre Correa de cuero MCG](https://www.amazon.es/dp/B017RC3RZ8/?tag=tolees-21) con 42.92 de descuento por 19.95 EUR (original: 34.95 EUR) en el siguiente enlace!

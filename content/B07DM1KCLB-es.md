@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DM1KCLB/?tag=tolees-21'
 descuento: '49.00'
+average: '14.99'
 ---
 
 Ahora mismo tienes [deAO Coche de Carreras RC 2DW Vehiculo de Alta Velocidad Radio Control 2.4GHz  F1 Rojo ](https://www.amazon.es/dp/B07DM1KCLB/?tag=tolees-21) a 14.99 EUR (original: 29.39 EUR) (49.00 %  de descuento) en el siguiente enlace!

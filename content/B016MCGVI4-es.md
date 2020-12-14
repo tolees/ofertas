@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B016MCGVI4/?tag=tolees-21'
 descuento: '81.71'
+average: '14.63'
 ---
 
 Ahora mismo tienes [Tom Tailor Denim Vaquero Caqui W31L34](https://www.amazon.es/dp/B016MCGVI4/?tag=tolees-21) a 14.63 EUR (original: 79.99 EUR) (81.71 %  de descuento) en el siguiente enlace!

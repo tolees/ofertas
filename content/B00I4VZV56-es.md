@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00I4VZV56/?tag=tolees-21'
 descuento: '43.49'
+average: '17.49'
 ---
 
 Tienes [ROCKS-OFF 10RO120PP - Vibrador  color dorado](https://www.amazon.es/dp/B00I4VZV56/?tag=tolees-21) con un 43.49 % de descuento con precio de oferta de 17.49 EUR (original: 30.95 EUR) en el siguiente enlace!

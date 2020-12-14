@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017FQM7CK/?tag=tolees-21'
 descuento: '44.49'
+average: '4.99'
 ---
 
 Tienes [Catit Recambio Magic Blue  6 Unidades](https://www.amazon.es/dp/B017FQM7CK/?tag=tolees-21) con un 44.49 % de descuento con precio de oferta de 4.99 EUR (original: 8.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079FYJJ2K/?tag=tolees-21'
 descuento: '52.40'
+average: '42.82'
 ---
 
 Tienes [Puma Pacer Next SB WTR  Zapatillas Altas Unisex Adulto  Negro Black-Whisper White 01  41 EU](https://www.amazon.es/dp/B079FYJJ2K/?tag=tolees-21) con un 52.40 % de descuento con precio de oferta de 42.82 EUR (original: 89.95 EUR) en el siguiente enlace!

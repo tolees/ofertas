@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074TFDYYQ/?tag=tolees-21'
 descuento: '50.02'
+average: '15.99'
 ---
 
 Ahora mismo tienes [flintronic Linterna de Trabajo Led  2 Pezzi Lámpara de Trabajo Led Recargable Lámpara de Inspección con Clip Magnético  Incluye 2 baterías y un Cable Micro USB](https://www.amazon.es/dp/B074TFDYYQ/?tag=tolees-21) a 15.99 EUR (original: 31.99 EUR) (50.02 %  de descuento) en el siguiente enlace!

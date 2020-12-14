@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072F35THB/?tag=tolees-21'
 descuento: '52.08'
+average: '57.51'
 ---
 
 Ahora mismo tienes [Munich Massana 233  Zapatillas de Senderismo para Mujer  40 EU](https://www.amazon.es/dp/B072F35THB/?tag=tolees-21) a 57.51 EUR (original: 120 EUR) (52.08 %  de descuento) en el siguiente enlace!

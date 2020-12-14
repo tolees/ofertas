@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073WTJBZT/?tag=tolees-21'
 descuento: '37.53'
+average: '5.56'
 ---
 
 Está [Juego de 5 brochas para maquillaje  diseño de varitas mágicas de Harry Potter  color plateado  negro o rosa](https://www.amazon.es/dp/B073WTJBZT/?tag=tolees-21) con 37.53 de descuento por 5.56 EUR (original: 8.9 EUR) en el siguiente enlace!

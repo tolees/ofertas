@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FESUDEA/?tag=tolees-21'
 descuento: '71.38'
+average: '15.74'
 ---
 
 Está [French Connection Machine Gun Stretch  Pantalones para Hombre  Azul W36L36](https://www.amazon.es/dp/B01FESUDEA/?tag=tolees-21) con 71.38 de descuento por 15.74 EUR (original: 55 EUR) en el siguiente enlace!

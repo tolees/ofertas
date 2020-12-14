@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FGK42K6/?tag=tolees-21'
 descuento: '64.55'
+average: '21.25'
 ---
 
 Está [Gioseppo 46074-P  Zapatillas para Mujer  Gris Oscuro  36 EU](https://www.amazon.es/dp/B07FGK42K6/?tag=tolees-21) con 64.55 de descuento por 21.25 EUR (original: 59.95 EUR) en el siguiente enlace!

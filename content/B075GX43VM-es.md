@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075GX43VM/?tag=tolees-21'
 descuento: '61.74'
+average: '11.44'
 ---
 
 Está [Reloj Scene - Hombre SCE-2000-21](https://www.amazon.es/dp/B075GX43VM/?tag=tolees-21) con 61.74 de descuento por 11.44 EUR (original: 29.9 EUR) en el siguiente enlace!

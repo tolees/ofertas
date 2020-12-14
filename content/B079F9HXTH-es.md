@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079F9HXTH/?tag=tolees-21'
 descuento: '80.00'
+average: '9.99'
 ---
 
 Está [Rainbow Six Siege - Advanced Edition](https://www.amazon.es/dp/B079F9HXTH/?tag=tolees-21) con 80.00 de descuento por 9.99 EUR (original: 49.95 EUR) en el siguiente enlace!

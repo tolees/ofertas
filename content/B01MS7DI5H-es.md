@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MS7DI5H/?tag=tolees-21'
 descuento: '66.03'
+average: '16.95'
 ---
 
 Está [Somatoline Detox Reductor Noche - 400 ml](https://www.amazon.es/dp/B01MS7DI5H/?tag=tolees-21) con 66.03 de descuento por 16.95 EUR (original: 49.9 EUR) en el siguiente enlace!

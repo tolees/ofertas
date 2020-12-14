@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DSD2RWF/?tag=tolees-21'
 descuento: '77.60'
+average: '26.88'
 ---
 
 Tienes [Diadora - Sneakers N9000 Moderna III para Hombre y Mujer ES 42.5](https://www.amazon.es/dp/B07DSD2RWF/?tag=tolees-21) con un 77.60 % de descuento con precio de oferta de 26.88 EUR (original: 120 EUR) en el siguiente enlace!

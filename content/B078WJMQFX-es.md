@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078WJMQFX/?tag=tolees-21'
 descuento: '50.02'
+average: '29.99'
 ---
 
 Tienes [BILLABONG All Day X Print 18 Bañador  Hombre  Azul  Navy 21   Medium](https://www.amazon.es/dp/B078WJMQFX/?tag=tolees-21) con un 50.02 % de descuento con precio de oferta de 29.99 EUR (original: 60 EUR) en el siguiente enlace!

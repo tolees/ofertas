@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BTCR7SC/?tag=tolees-21'
 descuento: '58.51'
+average: '9.99'
 ---
 
 Ahora mismo tienes [YaYuu para Fitbit Versa Bandas  Milanese Loop Correa de Acero Inoxidable Reemplazo de Malla Pulsera Cierre magnético Ajustable Correa Accessary Bracelet para Fitbit Versa Fitness Reloj Inteligente](https://www.amazon.es/dp/B07BTCR7SC/?tag=tolees-21) a 9.99 EUR (original: 24.08 EUR) (58.51 %  de descuento) en el siguiente enlace!

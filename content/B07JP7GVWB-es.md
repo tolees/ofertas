@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JP7GVWB/?tag=tolees-21'
 descuento: '79.41'
+average: '28.41'
 ---
 
 Ahora mismo tienes [Guess Jegging  Leggings para Mujer   Beasty. Wbsy   40  Talla del Fabricante: 31 ](https://www.amazon.es/dp/B07JP7GVWB/?tag=tolees-21) a 28.41 EUR (original: 138 EUR) (79.41 %  de descuento) en el siguiente enlace!

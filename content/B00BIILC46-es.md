@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00BIILC46/?tag=tolees-21'
 descuento: '58.88'
+average: '16.45'
 ---
 
 Está [Nike Jr  Magistax  Ola  II  TF  Botas de fútbol Unisex niños  Naranja  Total Crimson/Black-BRT Mango   37.5 EU](https://www.amazon.es/dp/B00BIILC46/?tag=tolees-21) con 58.88 de descuento por 16.45 EUR (original: 40 EUR) en el siguiente enlace!

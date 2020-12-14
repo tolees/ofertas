@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LFYKYPT/?tag=tolees-21'
 descuento: '29.04'
+average: '38.99'
 ---
 
 Está [Adidas X 18.3 In J  Botas de fútbol Unisex niño  000  28 EU](https://www.amazon.es/dp/B07LFYKYPT/?tag=tolees-21) con 29.04 de descuento por 38.99 EUR (original: 54.95 EUR) en el siguiente enlace!

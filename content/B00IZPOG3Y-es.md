@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IZPOG3Y/?tag=tolees-21'
 descuento: '40.10'
+average: '29.95'
 ---
 
 Tienes [The North Face Polo Piquet  Hombre  Negro  TNF Black   XL](https://www.amazon.es/dp/B00IZPOG3Y/?tag=tolees-21) con un 40.10 % de descuento con precio de oferta de 29.95 EUR (original: 50 EUR) en el siguiente enlace!

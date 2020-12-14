@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000V1OPYU/?tag=tolees-21'
 descuento: '47.32'
+average: '8.95'
 ---
 
 Está [Tenga Masturbador Masculino - 1 unidad](https://www.amazon.es/dp/B000V1OPYU/?tag=tolees-21) con 47.32 de descuento por 8.95 EUR (original: 16.99 EUR) en el siguiente enlace!

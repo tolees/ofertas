@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074QXXQBL/?tag=tolees-21'
 descuento: '30.61'
+average: '10.95'
 ---
 
 Ahora mismo tienes [Nostalgic-Art 31112  de Harley Davidson Things Are Different  Aroma Lata](https://www.amazon.es/dp/B074QXXQBL/?tag=tolees-21) a 10.95 EUR (original: 15.78 EUR) (30.61 %  de descuento) en el siguiente enlace!

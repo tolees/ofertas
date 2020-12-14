@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0029MJO2M/?tag=tolees-21'
 descuento: '41.04'
+average: '11.19'
 ---
 
 Está [Sony MS-MT4GN - Tarjeta de Memoria Sony Memory Stick de 4 GB  32 MB/s ](https://www.amazon.es/dp/B0029MJO2M/?tag=tolees-21) con 41.04 de descuento por 11.19 EUR (original: 18.98 EUR) en el siguiente enlace!

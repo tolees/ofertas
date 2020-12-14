@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XC3PSDS/?tag=tolees-21'
 descuento: '33.33'
+average: '299.99'
 ---
 
 Tienes [CapitalSports Pilato Pilates Reformer  Banco de Ejercicios  120kg máx  Altura Regulable  Multifuncional  Entrenamiento en casa ](https://www.amazon.es/dp/B06XC3PSDS/?tag=tolees-21) con un 33.33 % de descuento con precio de oferta de 299.99 EUR (original: 449.99 EUR) en el siguiente enlace!

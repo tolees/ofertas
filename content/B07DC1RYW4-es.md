@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC1RYW4/?tag=tolees-21'
 descuento: '58.96'
+average: '20.5'
 ---
 
 Tienes [Puma Escaper Tech Zapatillas de deporte Unisex adulto  Negro  Puma Black-Silver-Puma White-Peach Bud   36 EU  3.5 UK ](https://www.amazon.es/dp/B07DC1RYW4/?tag=tolees-21) con un 58.96 % de descuento con precio de oferta de 20.5 EUR (original: 49.95 EUR) en el siguiente enlace!

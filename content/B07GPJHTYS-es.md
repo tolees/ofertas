@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GPJHTYS/?tag=tolees-21'
 descuento: '64.13'
+average: '5.99'
 ---
 
 Está [Alicates de bolsillo Multitool  12 en 1  multifunción  alicates de herramientas para camping  aire libre Survial](https://www.amazon.es/dp/B07GPJHTYS/?tag=tolees-21) con 64.13 de descuento por 5.99 EUR (original: 16.7 EUR) en el siguiente enlace!

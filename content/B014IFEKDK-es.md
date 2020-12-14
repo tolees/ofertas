@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B014IFEKDK/?tag=tolees-21'
 descuento: '57.99'
+average: '14.66'
 ---
 
 Ahora mismo tienes [Wonderbra Minimal Chic Sujetador  Negro  Black   95C para Mujer](https://www.amazon.es/dp/B014IFEKDK/?tag=tolees-21) a 14.66 EUR (original: 34.9 EUR) (57.99 %  de descuento) en el siguiente enlace!

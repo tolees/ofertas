@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00YXNR2QK/?tag=tolees-21'
 descuento: '69.26'
+average: '58.4'
 ---
 
 Ahora mismo tienes [Nike Wmns Air Vapormax 2019  Zapatillas de Atletismo para Mujer  Azul-Blau  Lt Retro/Fuchsia Flash-Obsdn 403   35.5 EU](https://www.amazon.es/dp/B00YXNR2QK/?tag=tolees-21) a 58.4 EUR (original: 190 EUR) (69.26 %  de descuento) en el siguiente enlace!

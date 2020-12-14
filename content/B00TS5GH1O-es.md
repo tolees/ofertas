@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TS5GH1O/?tag=tolees-21'
 descuento: '74.90'
+average: '26.25'
 ---
 
 Tienes [Karrimor Toledo Weathertite - Low Rise Hiking de cuero mujer  color gris  talla 39/40](https://www.amazon.es/dp/B00TS5GH1O/?tag=tolees-21) con un 74.90 % de descuento con precio de oferta de 26.25 EUR (original: 104.6 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00EO9DPPA/?tag=tolees-21'
 descuento: '43.27'
+average: '77'
 ---
 
 Tienes [Jack Daniels Frank Sinatra Whisky - 1000 ml](https://www.amazon.es/dp/B00EO9DPPA/?tag=tolees-21) con un 43.27 % de descuento con precio de oferta de 77 EUR (original: 135.74 EUR) en el siguiente enlace!

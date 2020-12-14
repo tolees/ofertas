@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJBSMK9/?tag=tolees-21'
 descuento: '70.33'
+average: '17.79'
 ---
 
 Está [Dockers by Gerli 43fa302  Botas Militar para Mujer  Verde  Bottle 830   39 EU](https://www.amazon.es/dp/B07DJBSMK9/?tag=tolees-21) con 70.33 de descuento por 17.79 EUR (original: 59.95 EUR) en el siguiente enlace!

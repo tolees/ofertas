@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D1K3TS5/?tag=tolees-21'
 descuento: '57.73'
+average: '54.95'
 ---
 
 Está [Asics Hypergel-sai  Zapatillas de Entrenamiento para Hombre  Negro  Black/Samba 001   45 EU](https://www.amazon.es/dp/B07D1K3TS5/?tag=tolees-21) con 57.73 de descuento por 54.95 EUR (original: 130 EUR) en el siguiente enlace!

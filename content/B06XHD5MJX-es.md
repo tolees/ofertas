@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XHD5MJX/?tag=tolees-21'
 descuento: '44.67'
+average: '41.5'
 ---
 
 Ahora mismo tienes [Helly Hansen HH LIFA Merino Basleayer Pant  Hombre  Black  2XL](https://www.amazon.es/dp/B06XHD5MJX/?tag=tolees-21) a 41.5 EUR (original: 75 EUR) (44.67 %  de descuento) en el siguiente enlace!

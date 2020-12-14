@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B018TZ65JC/?tag=tolees-21'
 descuento: '27.65'
+average: '99.86'
 ---
 
 Ahora mismo tienes [Dormio - Colchón de Eliocel  140 x 190 x 24 cm  color blanco  Todas las medidas ](https://www.amazon.es/dp/B018TZ65JC/?tag=tolees-21) a 99.86 EUR (original: 138.03 EUR) (27.65 %  de descuento) en el siguiente enlace!

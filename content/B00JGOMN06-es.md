@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00JGOMN06/?tag=tolees-21'
 descuento: '48.96'
+average: '23.99'
 ---
 
 Tienes [Philips Lighting myLiving Foco  iluminación Interior  Blanco](https://www.amazon.es/dp/B00JGOMN06/?tag=tolees-21) con un 48.96 % de descuento con precio de oferta de 23.99 EUR (original: 47 EUR) en el siguiente enlace!

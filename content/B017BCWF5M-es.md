@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017BCWF5M/?tag=tolees-21'
 descuento: '49.53'
+average: '15.5'
 ---
 
 Está [Mazinger Z - Box 7 [Blu-ray]](https://www.amazon.es/dp/B017BCWF5M/?tag=tolees-21) con 49.53 de descuento por 15.5 EUR (original: 30.71 EUR) en el siguiente enlace!

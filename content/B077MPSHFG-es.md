@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077MPSHFG/?tag=tolees-21'
 descuento: '62.58'
+average: '18.69'
 ---
 
 Ahora mismo tienes [Puma Escaper Mesh  Zapatillas de Cross Unisex adulto  Rosa  Soft Fluo Peach-Puma White   40.5 EU](https://www.amazon.es/dp/B077MPSHFG/?tag=tolees-21) a 18.69 EUR (original: 49.95 EUR) (62.58 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01D4VBSYI/?tag=tolees-21'
 descuento: '86.68'
+average: '13.19'
 ---
 
 Ahora mismo tienes [bollé Tsar Máscaras  Unisex Adulto  Rojo Mate Patch  M/L](https://www.amazon.es/dp/B01D4VBSYI/?tag=tolees-21) a 13.19 EUR (original: 99 EUR) (86.68 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGLMBZM/?tag=tolees-21'
 descuento: '33.80'
+average: '66.17'
 ---
 
 Está [BOSS Heritage Pants Pantalones de Deporte  Azul  Bright Blue 435   W41  Talla del Fabricante: Large  para Hombre](https://www.amazon.es/dp/B07KGLMBZM/?tag=tolees-21) con 33.80 de descuento por 66.17 EUR (original: 99.95 EUR) en el siguiente enlace!

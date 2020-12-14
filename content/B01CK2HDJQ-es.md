@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01CK2HDJQ/?tag=tolees-21'
 descuento: '49.49'
+average: '3.99'
 ---
 
 Tienes [Contact LXCDU1 - Cargador de RED  con USB  color negro](https://www.amazon.es/dp/B01CK2HDJQ/?tag=tolees-21) con un 49.49 % de descuento con precio de oferta de 3.99 EUR (original: 7.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CYZZJ4P/?tag=tolees-21'
 descuento: '57.24'
+average: '29.93'
 ---
 
 Ahora mismo tienes [Nike Tanjun Racer  Zapatillas para Hombre  Azul  Gym Blackened Blue-White 404   44 EU](https://www.amazon.es/dp/B07CYZZJ4P/?tag=tolees-21) a 29.93 EUR (original: 70 EUR) (57.24 %  de descuento) en el siguiente enlace!

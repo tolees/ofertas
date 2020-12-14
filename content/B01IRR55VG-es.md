@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IRR55VG/?tag=tolees-21'
 descuento: '49.31'
+average: '32.95'
 ---
 
 Ahora mismo tienes [Helly Hansen Crew HH Classic LS SS Polo  Hombre  Red  XL](https://www.amazon.es/dp/B01IRR55VG/?tag=tolees-21) a 32.95 EUR (original: 65 EUR) (49.31 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D2QCXL2/?tag=tolees-21'
 descuento: '70.67'
+average: '23.45'
 ---
 
 Ahora mismo tienes [Reebok Classic Nylon  Zapatillas para Hombre  Azul  Weather-Blue Slate/Chalk 0   43 EU](https://www.amazon.es/dp/B07D2QCXL2/?tag=tolees-21) a 23.45 EUR (original: 79.95 EUR) (70.67 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0751S7LXF/?tag=tolees-21'
 descuento: '73.14'
+average: '22.83'
 ---
 
 Ahora mismo tienes [New Balance Mrl005V1  Zapatillas para Hombre  Negro  Black   45 EU](https://www.amazon.es/dp/B0751S7LXF/?tag=tolees-21) a 22.83 EUR (original: 85 EUR) (73.14 %  de descuento) en el siguiente enlace!

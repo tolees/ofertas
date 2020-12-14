@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0778RNFLQ/?tag=tolees-21'
 descuento: '67.56'
+average: '14.58'
 ---
 
 Está [Kappa Follow  Zapatillas Unisex Adulto  Azul  Navy/White 6710   36 EU](https://www.amazon.es/dp/B0778RNFLQ/?tag=tolees-21) con 67.56 de descuento por 14.58 EUR (original: 44.95 EUR) en el siguiente enlace!

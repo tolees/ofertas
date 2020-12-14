@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K12MC9J/?tag=tolees-21'
 descuento: '29.99'
+average: '69.97'
 ---
 
 Está [adidas Gazelle  Zapatillas de Gimnasia para Hombre  46 2/3 EU  Naranja  Easy Orange/Ftwr White/Crystal ](https://www.amazon.es/dp/B07K12MC9J/?tag=tolees-21) con 29.99 de descuento por 69.97 EUR (original: 99.95 EUR) en el siguiente enlace!

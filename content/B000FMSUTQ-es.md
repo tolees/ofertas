@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000FMSUTQ/?tag=tolees-21'
 descuento: '40.02'
+average: '14.99'
 ---
 
 Tienes [Severin 3667 - Báscula de Cocina](https://www.amazon.es/dp/B000FMSUTQ/?tag=tolees-21) con un 40.02 % de descuento con precio de oferta de 14.99 EUR (original: 24.99 EUR) en el siguiente enlace!

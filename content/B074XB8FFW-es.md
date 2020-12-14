@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074XB8FFW/?tag=tolees-21'
 descuento: '80.02'
+average: '7.99'
 ---
 
 Está [LANGRIA Manta Sirena de Cuerpo Entero con Tirantes Escamas Brillantes Tejido Franela Pelo Fino Tacto Suave Cálido para Mujer Adultos  170 Largo x 63.5 Ancho cm  Lila ](https://www.amazon.es/dp/B074XB8FFW/?tag=tolees-21) con 80.02 de descuento por 7.99 EUR (original: 39.99 EUR) en el siguiente enlace!

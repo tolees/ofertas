@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003VRBA3K/?tag=tolees-21'
 descuento: '42.00'
+average: '77.84'
 ---
 
 Tienes [Metabo DS 125 - Esmeriladora doble  discos 125 mm](https://www.amazon.es/dp/B003VRBA3K/?tag=tolees-21) con un 42.00 % de descuento con precio de oferta de 77.84 EUR (original: 134.21 EUR) en el siguiente enlace!

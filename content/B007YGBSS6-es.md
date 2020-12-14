@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007YGBSS6/?tag=tolees-21'
 descuento: '94.15'
+average: '5.21'
 ---
 
 Está [Bloch Kids Girls Arabella Animal 168430-30 - Bailarinas para niña  Color Beige  Talla 28](https://www.amazon.es/dp/B007YGBSS6/?tag=tolees-21) con 94.15 de descuento por 5.21 EUR (original: 89 EUR) en el siguiente enlace!

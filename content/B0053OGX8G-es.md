@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0053OGX8G/?tag=tolees-21'
 descuento: '25.68'
+average: '1.1'
 ---
 
 Está [Equip 128870 - Cable USB 2.0  Macho-Macho  1.8 m](https://www.amazon.es/dp/B0053OGX8G/?tag=tolees-21) con 25.68 de descuento por 1.1 EUR (original: 1.48 EUR) en el siguiente enlace!

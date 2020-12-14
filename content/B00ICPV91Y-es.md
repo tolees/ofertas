@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00ICPV91Y/?tag=tolees-21'
 descuento: '31.12'
+average: '185.98'
 ---
 
 Está [Sony BDP-S7200 - Reproductor de BLU-Ray  3D  conexión HDMI   Negro](https://www.amazon.es/dp/B00ICPV91Y/?tag=tolees-21) con 31.12 de descuento por 185.98 EUR (original: 270 EUR) en el siguiente enlace!

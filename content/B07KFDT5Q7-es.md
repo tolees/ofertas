@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KFDT5Q7/?tag=tolees-21'
 descuento: '60.02'
+average: '15.99'
 ---
 
 Está [INTEY Purificador de Aire](https://www.amazon.es/dp/B07KFDT5Q7/?tag=tolees-21) con 60.02 de descuento por 15.99 EUR (original: 39.99 EUR) en el siguiente enlace!

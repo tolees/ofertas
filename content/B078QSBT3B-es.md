@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078QSBT3B/?tag=tolees-21'
 descuento: '55.46'
+average: '44.54'
 ---
 
 Tienes [The North Face G Andes Down Jkt Chaquetas T934V2N4L. S  Niñas  Blue Wing Teal  S](https://www.amazon.es/dp/B078QSBT3B/?tag=tolees-21) con un 55.46 % de descuento con precio de oferta de 44.54 EUR (original: 100 EUR) en el siguiente enlace!

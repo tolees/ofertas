@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00DBDT4E6/?tag=tolees-21'
 descuento: '31.71'
+average: '209'
 ---
 
 Está [Samsung SL-M4020ND - Impresora láser](https://www.amazon.es/dp/B00DBDT4E6/?tag=tolees-21) con 31.71 de descuento por 209 EUR (original: 306.07 EUR) en el siguiente enlace!

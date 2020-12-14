@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MD164RP/?tag=tolees-21'
 descuento: '82.35'
+average: '22.93'
 ---
 
 Tienes [G-STAR RAW Midge Saddle Mid Waist Straight Jeans Rectos  Azul  Medium Aged 8464-071   25W / 34L para Mujer](https://www.amazon.es/dp/B01MD164RP/?tag=tolees-21) con un 82.35 % de descuento con precio de oferta de 22.93 EUR (original: 129.95 EUR) en el siguiente enlace!

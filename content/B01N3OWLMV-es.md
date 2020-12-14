@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N3OWLMV/?tag=tolees-21'
 descuento: '38.92'
+average: '33.29'
 ---
 
 Está [Babymoov A009008 - Elevador compacto  color smokey](https://www.amazon.es/dp/B01N3OWLMV/?tag=tolees-21) con 38.92 de descuento por 33.29 EUR (original: 54.5 EUR) en el siguiente enlace!

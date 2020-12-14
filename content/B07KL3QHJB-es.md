@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KL3QHJB/?tag=tolees-21'
 descuento: '49.53'
+average: '22.71'
 ---
 
 Está [Nike M NK Dry ACDMY Hoodie PO Sweatshirt  Hombre  Negro  Black White  XL](https://www.amazon.es/dp/B07KL3QHJB/?tag=tolees-21) con 49.53 de descuento por 22.71 EUR (original: 45 EUR) en el siguiente enlace!

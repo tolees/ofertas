@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001GHEBF6/?tag=tolees-21'
 descuento: '50.76'
+average: '9.11'
 ---
 
 Está [Aquaglide Lubricante - 100 ml](https://www.amazon.es/dp/B001GHEBF6/?tag=tolees-21) con 50.76 de descuento por 9.11 EUR (original: 18.5 EUR) en el siguiente enlace!

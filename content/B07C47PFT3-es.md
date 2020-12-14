@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C47PFT3/?tag=tolees-21'
 descuento: '77.69'
+average: '21.19'
 ---
 
 Tienes [Pepe Jeans Pixie PL210004Y  Pantalones para Mujer  Rojo  Ruby 276   W31/L32](https://www.amazon.es/dp/B07C47PFT3/?tag=tolees-21) con un 77.69 % de descuento con precio de oferta de 21.19 EUR (original: 95 EUR) en el siguiente enlace!

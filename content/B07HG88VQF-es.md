@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HG88VQF/?tag=tolees-21'
 descuento: '39.82'
+average: '14.66'
 ---
 
 Ahora mismo tienes [Dim Mi- chaussette Ecodim Lot De 10  Calcetines para Hombre   Gris Moyen 1q8   39/42 Pack](https://www.amazon.es/dp/B07HG88VQF/?tag=tolees-21) a 14.66 EUR (original: 24.36 EUR) (39.82 %  de descuento) en el siguiente enlace!

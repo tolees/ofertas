@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FVWG3R7/?tag=tolees-21'
 descuento: '64.27'
+average: '24.99'
 ---
 
 Ahora mismo tienes [Ben Sherman Polo Logo Shirt  Color: Negro  Tamaño: XS](https://www.amazon.es/dp/B07FVWG3R7/?tag=tolees-21) a 24.99 EUR (original: 69.95 EUR) (64.27 %  de descuento) en el siguiente enlace!

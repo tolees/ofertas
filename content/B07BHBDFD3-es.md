@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BHBDFD3/?tag=tolees-21'
 descuento: '43.43'
+average: '45.26'
 ---
 
 Está [Under Armour UA Charged Spark  Zapatillas de Running para Hombre  Gris  Metallic Silver Black 100   43 EU](https://www.amazon.es/dp/B07BHBDFD3/?tag=tolees-21) con 43.43 de descuento por 45.26 EUR (original: 80 EUR) en el siguiente enlace!

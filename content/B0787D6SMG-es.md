@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0787D6SMG/?tag=tolees-21'
 descuento: '62.51'
+average: '48.73'
 ---
 
 Está [Columbia MARAGAL Mid WP  Botas de Nieve para Mujer  Marrón  Tobacco  Pebble   37 EU](https://www.amazon.es/dp/B0787D6SMG/?tag=tolees-21) con 62.51 de descuento por 48.73 EUR (original: 129.99 EUR) en el siguiente enlace!

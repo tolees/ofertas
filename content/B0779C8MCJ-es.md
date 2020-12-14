@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0779C8MCJ/?tag=tolees-21'
 descuento: '42.08'
+average: '14.45'
 ---
 
 Está [Adidas Tabela 18 JSY T-Shirt  Hombre  Bold Blue/White  3XL](https://www.amazon.es/dp/B0779C8MCJ/?tag=tolees-21) con 42.08 de descuento por 14.45 EUR (original: 24.95 EUR) en el siguiente enlace!

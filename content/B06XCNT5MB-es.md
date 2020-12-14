@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XCNT5MB/?tag=tolees-21'
 descuento: '26.23'
+average: '29.47'
 ---
 
 Ahora mismo tienes [STANLEY FATMAX FMHT1-77435 - Soporte universal FatMAX para niveles laser de línea](https://www.amazon.es/dp/B06XCNT5MB/?tag=tolees-21) a 29.47 EUR (original: 39.95 EUR) (26.23 %  de descuento) en el siguiente enlace!

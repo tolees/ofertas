@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072LCHB64/?tag=tolees-21'
 descuento: '45.63'
+average: '29.9'
 ---
 
 Está [Final Fantasy XIV Complete Edition](https://www.amazon.es/dp/B072LCHB64/?tag=tolees-21) con 45.63 de descuento por 29.9 EUR (original: 54.99 EUR) en el siguiente enlace!

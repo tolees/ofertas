@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HRG1G5Y/?tag=tolees-21'
 descuento: '31.68'
+average: '12.98'
 ---
 
 Está [SunTop Lampara de Camping Linterna Solar Lámpara estirable de luz LED acampar al aire libre de la linterna para acampar camping  festivales  vehículos  cobertizos  garajes](https://www.amazon.es/dp/B07HRG1G5Y/?tag=tolees-21) con 31.68 de descuento por 12.98 EUR (original: 19 EUR) en el siguiente enlace!

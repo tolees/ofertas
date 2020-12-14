@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G751KHS/?tag=tolees-21'
 descuento: '58.83'
+average: '69.99'
 ---
 
 Ahora mismo tienes [Aspiradora Sin Cable 2 in 1 Aspirador Escoba 7500Pa Aspirador Ciclónico Gran Depósito de 800ML  Baterías 2200mAh de Litio Aspirador de Coche](https://www.amazon.es/dp/B07G751KHS/?tag=tolees-21) a 69.99 EUR (original: 169.99 EUR) (58.83 %  de descuento) en el siguiente enlace!

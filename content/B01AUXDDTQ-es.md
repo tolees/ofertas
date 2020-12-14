@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01AUXDDTQ/?tag=tolees-21'
 descuento: '41.54'
+average: '116.91'
 ---
 
 Está [Yamaha Elektronik Europa MCR-B020 Sistema de microcomponentes](https://www.amazon.es/dp/B01AUXDDTQ/?tag=tolees-21) con 41.54 de descuento por 116.91 EUR (original: 199.99 EUR) en el siguiente enlace!

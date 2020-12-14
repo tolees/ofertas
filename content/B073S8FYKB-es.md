@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073S8FYKB/?tag=tolees-21'
 descuento: '35.03'
+average: '7.79'
 ---
 
 Tienes [El quinto elemento [Blu-ray]](https://www.amazon.es/dp/B073S8FYKB/?tag=tolees-21) con un 35.03 % de descuento con precio de oferta de 7.79 EUR (original: 11.99 EUR) en el siguiente enlace!

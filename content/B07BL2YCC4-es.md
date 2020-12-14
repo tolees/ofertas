@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BL2YCC4/?tag=tolees-21'
 descuento: '50.00'
+average: '60'
 ---
 
 Está [New Balance Fresh Foam Zante Pursuit  Zapatillas de Running para Mujer  Rosa Cashmere/Light Shale CP  42.5 EU](https://www.amazon.es/dp/B07BL2YCC4/?tag=tolees-21) con 50.00 de descuento por 60 EUR (original: 120 EUR) en el siguiente enlace!

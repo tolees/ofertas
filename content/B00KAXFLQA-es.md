@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00KAXFLQA/?tag=tolees-21'
 descuento: '76.81'
+average: '20.87'
 ---
 
 Tienes [KangaROOS K-Outdoor 3005W  Botas de piel para hombre  Beige  dk wheat/dk brown 135   46](https://www.amazon.es/dp/B00KAXFLQA/?tag=tolees-21) con un 76.81 % de descuento con precio de oferta de 20.87 EUR (original: 90 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CDS8B3M/?tag=tolees-21'
 descuento: '63.88'
+average: '16.61'
 ---
 
 Tienes [Eferri 0JV5901  Shopper para Mujer  Plateado  Plata   28x12x40 cm  W x H x L ](https://www.amazon.es/dp/B07CDS8B3M/?tag=tolees-21) con un 63.88 % de descuento con precio de oferta de 16.61 EUR (original: 45.99 EUR) en el siguiente enlace!

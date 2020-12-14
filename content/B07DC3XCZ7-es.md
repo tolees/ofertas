@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC3XCZ7/?tag=tolees-21'
 descuento: '66.44'
+average: '28.53'
 ---
 
 Ahora mismo tienes [LE COQ SPORTIF Alpha Winter Craft  Zapatillas para Hombre   Reglisse/Black Marron Fonce   45 EU](https://www.amazon.es/dp/B07DC3XCZ7/?tag=tolees-21) a 28.53 EUR (original: 85 EUR) (66.44 %  de descuento) en el siguiente enlace!

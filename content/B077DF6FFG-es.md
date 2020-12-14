@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077DF6FFG/?tag=tolees-21'
 descuento: '59.00'
+average: '10.23'
 ---
 
 Ahora mismo tienes [SD toys Set de Mini Tazas Café Diseño Star Wars EP.VIII  Cerámica  Negro  7x7x29 cm 4 Unidades](https://www.amazon.es/dp/B077DF6FFG/?tag=tolees-21) a 10.23 EUR (original: 24.95 EUR) (59.00 %  de descuento) en el siguiente enlace!

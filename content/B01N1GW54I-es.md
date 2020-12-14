@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N1GW54I/?tag=tolees-21'
 descuento: '65.65'
+average: '24.03'
 ---
 
 Ahora mismo tienes [Puma Carson Runner Knit Eea  Zapatillas de Running Unisex Adulto  Azul  Halogen Blue-Lavendar Lustre White 07   39 EU](https://www.amazon.es/dp/B01N1GW54I/?tag=tolees-21) a 24.03 EUR (original: 69.95 EUR) (65.65 %  de descuento) en el siguiente enlace!

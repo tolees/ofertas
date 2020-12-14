@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MFZZ7GC/?tag=tolees-21'
 descuento: '26.33'
+average: '13.99'
 ---
 
 Ahora mismo tienes [Babacom Luz Solar Exterior  Inflable Lámparas LED Exterior Solares [Base Magnética Desmontable] Segura Impermeables Luces Solares & Linterna con 4 Modos para Jardín Cámping y Situación de Emergencia](https://www.amazon.es/dp/B07MFZZ7GC/?tag=tolees-21) a 13.99 EUR (original: 18.99 EUR) (26.33 %  de descuento) en el siguiente enlace!

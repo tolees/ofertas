@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077N4JJKR/?tag=tolees-21'
 descuento: '63.74'
+average: '43.51'
 ---
 
 Tienes [Asics Fuzex Rush Adapt  Zapatillas de Entrenamiento para Mujer  Azul  Porcelain White/Smoke Blue 1401   39 EU](https://www.amazon.es/dp/B077N4JJKR/?tag=tolees-21) con un 63.74 % de descuento con precio de oferta de 43.51 EUR (original: 120 EUR) en el siguiente enlace!

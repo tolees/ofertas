@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHYCM2W/?tag=tolees-21'
 descuento: '44.49'
+average: '54.95'
 ---
 
 Tienes [Lacoste Graduate 119 3 SMA  Zapatillas para Hombre  Azul  Nvy/Wht/Red 7a2   44 EU](https://www.amazon.es/dp/B07DHYCM2W/?tag=tolees-21) con un 44.49 % de descuento con precio de oferta de 54.95 EUR (original: 99 EUR) en el siguiente enlace!

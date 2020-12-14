@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FDCJMXS/?tag=tolees-21'
 descuento: '80.09'
+average: '30.86'
 ---
 
 Está [Guess Tamara  Botas Altas para Mujer  Negro Black  39 EU](https://www.amazon.es/dp/B07FDCJMXS/?tag=tolees-21) con 80.09 de descuento por 30.86 EUR (original: 155 EUR) en el siguiente enlace!

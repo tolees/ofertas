@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JJGCXVV/?tag=tolees-21'
 descuento: '46.68'
+average: '15.99'
 ---
 
 Está [YaYuu Banda de Reloj para Suunto Core  Clásico Reemplazo Suave Puño/Pulsera con Cierre de Metal para Suunto Core Smart Watch  se Ajusta a la Muñeca de 5.51"-9.06"  140mm-230mm ](https://www.amazon.es/dp/B07JJGCXVV/?tag=tolees-21) con 46.68 de descuento por 15.99 EUR (original: 29.99 EUR) en el siguiente enlace!

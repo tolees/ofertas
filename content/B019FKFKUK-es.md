@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B019FKFKUK/?tag=tolees-21'
 descuento: '35.17'
+average: '11.28'
 ---
 
 Está [Béaba 911563 - Escobilla biberones](https://www.amazon.es/dp/B019FKFKUK/?tag=tolees-21) con 35.17 de descuento por 11.28 EUR (original: 17.4 EUR) en el siguiente enlace!

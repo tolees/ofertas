@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IDO30X8/?tag=tolees-21'
 descuento: '60.12'
+average: '9.95'
 ---
 
 Tienes [Duracell DRINV15-EU Adaptador e inversor de Corriente Interior 175 W Negro - Fuente de alimentación  Interior  12 V  175 W  12 V  Universal  DC1-to-DC2 ](https://www.amazon.es/dp/B01IDO30X8/?tag=tolees-21) con un 60.12 % de descuento con precio de oferta de 9.95 EUR (original: 24.95 EUR) en el siguiente enlace!

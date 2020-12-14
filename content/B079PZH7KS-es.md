@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079PZH7KS/?tag=tolees-21'
 descuento: '43.78'
+average: '17.99'
 ---
 
 Ahora mismo tienes [CRZ YOGA - Sujetador Deportivo Yoga Cruzados Almohadillas Extraíbles para Mujer Negro_H146 M](https://www.amazon.es/dp/B079PZH7KS/?tag=tolees-21) a 17.99 EUR (original: 32 EUR) (43.78 %  de descuento) en el siguiente enlace!

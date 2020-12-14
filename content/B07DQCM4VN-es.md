@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DQCM4VN/?tag=tolees-21'
 descuento: '29.44'
+average: '89.48'
 ---
 
 Ahora mismo tienes [PUPPYOO WP9002F Natura&Purezza - Aspirador para casa sin bolsa  ciclónico con potencia de 800 W](https://www.amazon.es/dp/B07DQCM4VN/?tag=tolees-21) a 89.48 EUR (original: 126.81 EUR) (29.44 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MXVXMI9/?tag=tolees-21'
 descuento: '51.50'
+average: '16.95'
 ---
 
 Está [Puma Core-Run 7` Shorts Pantalones Cortos  Hombre  Negro  L](https://www.amazon.es/dp/B01MXVXMI9/?tag=tolees-21) con 51.50 de descuento por 16.95 EUR (original: 34.95 EUR) en el siguiente enlace!

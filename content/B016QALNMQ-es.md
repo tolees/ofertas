@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B016QALNMQ/?tag=tolees-21'
 descuento: '29.53'
+average: '8.95'
 ---
 
 Está [adidas Parma 16 SHO Sport Shorts  Hombre  Bold Green/White  XL](https://www.amazon.es/dp/B016QALNMQ/?tag=tolees-21) con 29.53 de descuento por 8.95 EUR (original: 12.7 EUR) en el siguiente enlace!

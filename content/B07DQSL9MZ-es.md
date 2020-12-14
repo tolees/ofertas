@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DQSL9MZ/?tag=tolees-21'
 descuento: '29.33'
+average: '28.26'
 ---
 
 Está [MTNG Attitude 84091  Zapatillas para Hombre   Vertigo Marino/Skull Azul C42700   43 EU](https://www.amazon.es/dp/B07DQSL9MZ/?tag=tolees-21) con 29.33 de descuento por 28.26 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00KJGK9RY/?tag=tolees-21'
 descuento: '30.78'
+average: '26.99'
 ---
 
 Tienes [Ultranatura - Sistema de riego automático y fácil de controlar a través de una pantalla de LCD para un máximo de 10 plantas de interior con bomba de agua  ideal como sistema de riego en vacaciones](https://www.amazon.es/dp/B00KJGK9RY/?tag=tolees-21) con un 30.78 % de descuento con precio de oferta de 26.99 EUR (original: 38.99 EUR) en el siguiente enlace!

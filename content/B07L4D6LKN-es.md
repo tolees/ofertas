@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L4D6LKN/?tag=tolees-21'
 descuento: '51.85'
+average: '31.3'
 ---
 
 Ahora mismo tienes [Asics Aaron  Zapatillas de Gimnasia para Hombre  Blanco  White/Midnight 101   46.5 EU](https://www.amazon.es/dp/B07L4D6LKN/?tag=tolees-21) a 31.3 EUR (original: 65 EUR) (51.85 %  de descuento) en el siguiente enlace!

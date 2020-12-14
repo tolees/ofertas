@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K9NQWWB/?tag=tolees-21'
 descuento: '71.13'
+average: '21.99'
 ---
 
 Está [Bolas de entrenamiento del suelo pélvico de silicona con mando a distancia  bolas de amor inalámbricas con 10 programas de vibración  resistente al agua y recargables  color morado](https://www.amazon.es/dp/B07K9NQWWB/?tag=tolees-21) con 71.13 de descuento por 21.99 EUR (original: 76.17 EUR) en el siguiente enlace!

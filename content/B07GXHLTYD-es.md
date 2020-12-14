@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GXHLTYD/?tag=tolees-21'
 descuento: '43.00'
+average: '17.1'
 ---
 
 Está [Nike W Nk Team Gym Bag  Mujer  Rojo  Ember Glow/Black   MISC](https://www.amazon.es/dp/B07GXHLTYD/?tag=tolees-21) con 43.00 de descuento por 17.1 EUR (original: 30 EUR) en el siguiente enlace!

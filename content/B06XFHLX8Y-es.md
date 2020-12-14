@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XFHLX8Y/?tag=tolees-21'
 descuento: '82.00'
+average: '10.79'
 ---
 
 Ahora mismo tienes [La Tierra-Media: Sombras De Guerra](https://www.amazon.es/dp/B06XFHLX8Y/?tag=tolees-21) a 10.79 EUR (original: 59.95 EUR) (82.00 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00VEF02FS/?tag=tolees-21'
 descuento: '63.87'
+average: '14.45'
 ---
 
 Ahora mismo tienes [JVC HA-SR225-A-E - Auriculares de Diadema Cerrados  diseño portátil  Control Remoto y micrófono  reproducción de Sonido Superior  Azul](https://www.amazon.es/dp/B00VEF02FS/?tag=tolees-21) a 14.45 EUR (original: 39.99 EUR) (63.87 %  de descuento) en el siguiente enlace!

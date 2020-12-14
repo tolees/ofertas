@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00M1KO21A/?tag=tolees-21'
 descuento: '31.12'
+average: '15.49'
 ---
 
 Está [Lumaland Mosquitero outdoor indoor mosquiteros cuadrados para interior y exterior 220x220x210 forma de caja rosa](https://www.amazon.es/dp/B00M1KO21A/?tag=tolees-21) con 31.12 de descuento por 15.49 EUR (original: 22.49 EUR) en el siguiente enlace!

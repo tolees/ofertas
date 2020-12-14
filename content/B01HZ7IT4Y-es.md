@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HZ7IT4Y/?tag=tolees-21'
 descuento: '74.45'
+average: '7.19'
 ---
 
 Tienes [Touchlines 721214SS-Jersey Hombre Azul  Royal  XL](https://www.amazon.es/dp/B01HZ7IT4Y/?tag=tolees-21) con un 74.45 % de descuento con precio de oferta de 7.19 EUR (original: 28.14 EUR) en el siguiente enlace!

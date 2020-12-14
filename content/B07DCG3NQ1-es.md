@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCG3NQ1/?tag=tolees-21'
 descuento: '27.51'
+average: '36.21'
 ---
 
 Ahora mismo tienes [Puma Puma Smash v2 L Zapatillas Unisex Adults’o  Blanco  Puma White-Gray Violet-Gum   39 EU  6 UK ](https://www.amazon.es/dp/B07DCG3NQ1/?tag=tolees-21) a 36.21 EUR (original: 49.95 EUR) (27.51 %  de descuento) en el siguiente enlace!

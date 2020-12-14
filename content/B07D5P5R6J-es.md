@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D5P5R6J/?tag=tolees-21'
 descuento: '30.04'
+average: '97.95'
 ---
 
 Ahora mismo tienes [Merrell All out Crush 2 GTX  Zapatillas de Running para Asfalto para Hombre  Naranja Orange  46 EU](https://www.amazon.es/dp/B07D5P5R6J/?tag=tolees-21) a 97.95 EUR (original: 140 EUR) (30.04 %  de descuento) en el siguiente enlace!

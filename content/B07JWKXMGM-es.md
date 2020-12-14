@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JWKXMGM/?tag=tolees-21'
 descuento: '35.46'
+average: '41.95'
 ---
 
 Está [Lacoste Mh7092  Bañador Hombre  Amarillo  Physalis/Calanque 79l   Large](https://www.amazon.es/dp/B07JWKXMGM/?tag=tolees-21) con 35.46 de descuento por 41.95 EUR (original: 65 EUR) en el siguiente enlace!

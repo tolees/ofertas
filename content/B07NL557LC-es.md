@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NL557LC/?tag=tolees-21'
 descuento: '52.86'
+average: '32.99'
 ---
 
 Tienes [Wand Massager  Magic Masajeador Eléctrico de Masaje Corporal Inalámbrica  Impermeable y Recargable](https://www.amazon.es/dp/B07NL557LC/?tag=tolees-21) con un 52.86 % de descuento con precio de oferta de 32.99 EUR (original: 69.99 EUR) en el siguiente enlace!

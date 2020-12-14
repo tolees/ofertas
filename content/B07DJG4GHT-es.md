@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJG4GHT/?tag=tolees-21'
 descuento: '74.15'
+average: '12.91'
 ---
 
 Ahora mismo tienes [Dockers by Gerli 41ce317  Zapatillas Altas para Mujer  Gris  Grau 200   40 EU](https://www.amazon.es/dp/B07DJG4GHT/?tag=tolees-21) a 12.91 EUR (original: 49.95 EUR) (74.15 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B6ZKHG4/?tag=tolees-21'
 descuento: '32.65'
+average: '77.45'
 ---
 
 Ahora mismo tienes [New Balance M1400V6  Zapatillas de Running para Hombre  Negro Black/Blue  41.5 EU](https://www.amazon.es/dp/B07B6ZKHG4/?tag=tolees-21) a 77.45 EUR (original: 115 EUR) (32.65 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HMD99XJ/?tag=tolees-21'
 descuento: '47.67'
+average: '33.99'
 ---
 
 Está [Skechers Verrado  Zapatillas para Hombre  Marrón Chocolate  41 EU](https://www.amazon.es/dp/B07HMD99XJ/?tag=tolees-21) con 47.67 de descuento por 33.99 EUR (original: 64.95 EUR) en el siguiente enlace!

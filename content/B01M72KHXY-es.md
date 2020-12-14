@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M72KHXY/?tag=tolees-21'
 descuento: '28.95'
+average: '247.95'
 ---
 
 Está [NewStar Estación de Trabajo Sentado y de pie NS-WS100BLACK 15KG](https://www.amazon.es/dp/B01M72KHXY/?tag=tolees-21) con 28.95 de descuento por 247.95 EUR (original: 349 EUR) en el siguiente enlace!

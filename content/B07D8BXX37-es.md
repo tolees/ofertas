@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D8BXX37/?tag=tolees-21'
 descuento: '43.00'
+average: '19.95'
 ---
 
 Está [Nike Downshifter 8  TDV   Zapatillas de Running para Niños  Negro  Black/Metallic Silver/Anthracite 001   19.5 EU](https://www.amazon.es/dp/B07D8BXX37/?tag=tolees-21) con 43.00 de descuento por 19.95 EUR (original: 35 EUR) en el siguiente enlace!

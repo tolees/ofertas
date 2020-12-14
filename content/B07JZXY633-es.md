@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JZXY633/?tag=tolees-21'
 descuento: '31.74'
+average: '44.37'
 ---
 
 Está [Emporio Armani 9P421  Bañador para Hombre  Turquesa  Turchese 00032   Large  Talla del fabricante: 52 ](https://www.amazon.es/dp/B07JZXY633/?tag=tolees-21) con 31.74 de descuento por 44.37 EUR (original: 65 EUR) en el siguiente enlace!

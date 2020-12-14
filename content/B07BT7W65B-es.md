@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BT7W65B/?tag=tolees-21'
 descuento: '31.75'
+average: '34.09'
 ---
 
 Está [Skechers Bobs Squad 2-Shot Caller  Zapatillas para Mujer  Gris  Slate Grey Slt   38 EU](https://www.amazon.es/dp/B07BT7W65B/?tag=tolees-21) con 31.75 de descuento por 34.09 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078NGP6TX/?tag=tolees-21'
 descuento: '60.00'
+average: '36'
 ---
 
 Tienes [Gola Harrier 50 Leather White  Zapatillas para Mujer  Blanco WW  41 EU](https://www.amazon.es/dp/B078NGP6TX/?tag=tolees-21) con un 60.00 % de descuento con precio de oferta de 36 EUR (original: 90 EUR) en el siguiente enlace!

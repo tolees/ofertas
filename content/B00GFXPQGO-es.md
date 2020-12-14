@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00GFXPQGO/?tag=tolees-21'
 descuento: '60.82'
+average: '35.26'
 ---
 
 Tienes [Nike Exp-Z07  Zapatillas para Hombre  Negro  Black/White 004   44 EU](https://www.amazon.es/dp/B00GFXPQGO/?tag=tolees-21) con un 60.82 % de descuento con precio de oferta de 35.26 EUR (original: 90 EUR) en el siguiente enlace!

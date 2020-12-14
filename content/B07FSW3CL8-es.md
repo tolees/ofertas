@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FSW3CL8/?tag=tolees-21'
 descuento: '69.25'
+average: '30.73'
 ---
 
 Tienes [Clarks Willow Art  Mules para Mujer  Marrón  Light Tan Leather-   37.5 EU](https://www.amazon.es/dp/B07FSW3CL8/?tag=tolees-21) con un 69.25 % de descuento con precio de oferta de 30.73 EUR (original: 99.95 EUR) en el siguiente enlace!

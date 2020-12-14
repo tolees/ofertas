@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GNH1MFZ/?tag=tolees-21'
 descuento: '69.39'
+average: '12.24'
 ---
 
 Ahora mismo tienes [JACK & JONES Jcotop Sweat Hood  Capucha para Hombre  Negro Small  Talla del Fabricante: ](https://www.amazon.es/dp/B07GNH1MFZ/?tag=tolees-21) a 12.24 EUR (original: 39.99 EUR) (69.39 %  de descuento) en el siguiente enlace!

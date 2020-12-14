@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F2MZZ5V/?tag=tolees-21'
 descuento: '47.32'
+average: '28.95'
 ---
 
 Ahora mismo tienes [Puma NRGY Comet  Zapatillas de Running Unisex Adults o  Azul  Peacoat-Blazing Yellow   38 EU](https://www.amazon.es/dp/B07F2MZZ5V/?tag=tolees-21) a 28.95 EUR (original: 54.95 EUR) (47.32 %  de descuento) en el siguiente enlace!

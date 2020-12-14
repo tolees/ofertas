@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CRF19FC/?tag=tolees-21'
 descuento: '80.48'
+average: '15.6'
 ---
 
 Ahora mismo tienes [Pepe Jeans Zoe PL211255 Pantalones    Deep Sea 597   W24  Talla del Fabricante: 34  para Mujer](https://www.amazon.es/dp/B07CRF19FC/?tag=tolees-21) a 15.6 EUR (original: 79.9 EUR) (80.48 %  de descuento) en el siguiente enlace!

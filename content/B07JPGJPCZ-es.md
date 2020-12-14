@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JPGJPCZ/?tag=tolees-21'
 descuento: '32.53'
+average: '30.36'
 ---
 
 Está [Pandora Abalorios Mujer plata - 797511ENMX](https://www.amazon.es/dp/B07JPGJPCZ/?tag=tolees-21) con 32.53 de descuento por 30.36 EUR (original: 45 EUR) en el siguiente enlace!

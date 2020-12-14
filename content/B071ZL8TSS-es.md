@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071ZL8TSS/?tag=tolees-21'
 descuento: '32.60'
+average: '13.48'
 ---
 
 Está [Under Armour Charged Cotton Qu. Youth Calcetines  Niños  Gris  True Gray Heather/Assorted 025   M](https://www.amazon.es/dp/B071ZL8TSS/?tag=tolees-21) con 32.60 de descuento por 13.48 EUR (original: 20 EUR) en el siguiente enlace!

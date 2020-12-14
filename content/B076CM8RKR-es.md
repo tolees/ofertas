@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076CM8RKR/?tag=tolees-21'
 descuento: '62.89'
+average: '9.26'
 ---
 
 Tienes [Blend 20706094  Polo para Hombre  Azul  Denim Blue   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B076CM8RKR/?tag=tolees-21) con un 62.89 % de descuento con precio de oferta de 9.26 EUR (original: 24.95 EUR) en el siguiente enlace!

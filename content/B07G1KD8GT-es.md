@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G1KD8GT/?tag=tolees-21'
 descuento: '49.46'
+average: '65.7'
 ---
 
 Está [Polaroid Mint Impresora de bolsillo con Tecnología Zink Zero Ink papel adhesivo 5 x 7.6 cm - Bluetooth para Android y iOS  Amarillo ](https://www.amazon.es/dp/B07G1KD8GT/?tag=tolees-21) con 49.46 de descuento por 65.7 EUR (original: 129.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0798NVLC5/?tag=tolees-21'
 descuento: '73.85'
+average: '4.99'
 ---
 
 Ahora mismo tienes [Mini plegable multifunción alicates con cola hebilla y bolsa de nailon  apto para exteriores  color rojo](https://www.amazon.es/dp/B0798NVLC5/?tag=tolees-21) a 4.99 EUR (original: 19.08 EUR) (73.85 %  de descuento) en el siguiente enlace!

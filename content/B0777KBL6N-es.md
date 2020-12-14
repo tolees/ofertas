@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0777KBL6N/?tag=tolees-21'
 descuento: '37.84'
+average: '2.07'
 ---
 
 Tienes [COMVIP Mujeres Corazón Gota CZ chapada 925 Anillo Simple Naranja 8](https://www.amazon.es/dp/B0777KBL6N/?tag=tolees-21) con un 37.84 % de descuento con precio de oferta de 2.07 EUR (original: 3.33 EUR) en el siguiente enlace!

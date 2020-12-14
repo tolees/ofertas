@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0012IQWRO/?tag=tolees-21'
 descuento: '29.31'
+average: '28.2'
 ---
 
 Tienes [Valira Termo para Sólidos de 1 L con 2 Contenedores Inte  Gris](https://www.amazon.es/dp/B0012IQWRO/?tag=tolees-21) con un 29.31 % de descuento con precio de oferta de 28.2 EUR (original: 39.89 EUR) en el siguiente enlace!

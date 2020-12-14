@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0787KFNVZ/?tag=tolees-21'
 descuento: '56.55'
+average: '52.13'
 ---
 
 Está [Columbia Fairbanks 503  Botas Plisadas para Hombre  Marrón  Elk  Deep Rust   43 EU](https://www.amazon.es/dp/B0787KFNVZ/?tag=tolees-21) con 56.55 de descuento por 52.13 EUR (original: 119.99 EUR) en el siguiente enlace!

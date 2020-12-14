@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H6GNY5F/?tag=tolees-21'
 descuento: '36.51'
+average: '119.99'
 ---
 
 Tienes [Bestrans Traductor de Voz Inteligente  Smart Languages Translator Wifi  Traducción Precisa de Idiomas en 43 Idiomas  Portátil  Adecuado para Viajes  Compras y Aprendizaje - Negro](https://www.amazon.es/dp/B07H6GNY5F/?tag=tolees-21) con un 36.51 % de descuento con precio de oferta de 119.99 EUR (original: 189 EUR) en el siguiente enlace!

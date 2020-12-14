@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J4X59MH/?tag=tolees-21'
 descuento: '32.32'
+average: '13.53'
 ---
 
 Está [Quiksilver Foamslay - Gorra para Hombre  Bijou Blue  Talla Única](https://www.amazon.es/dp/B07J4X59MH/?tag=tolees-21) con 32.32 de descuento por 13.53 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00PAJNATY/?tag=tolees-21'
 descuento: '25.45'
+average: '63.33'
 ---
 
 Tienes [Puma Suede Classic +  Zapatillas Unisex Adulto  Azul  Peacoat/White   43 EU](https://www.amazon.es/dp/B00PAJNATY/?tag=tolees-21) con un 25.45 % de descuento con precio de oferta de 63.33 EUR (original: 84.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077MMW8NW/?tag=tolees-21'
 descuento: '33.05'
+average: '36.79'
 ---
 
 Está [Puma Urban Plus SD  Zapatillas Unisex Adults’o  Azul  Peacoat White   42 EU](https://www.amazon.es/dp/B077MMW8NW/?tag=tolees-21) con 33.05 de descuento por 36.79 EUR (original: 54.95 EUR) en el siguiente enlace!

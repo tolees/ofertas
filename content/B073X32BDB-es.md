@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073X32BDB/?tag=tolees-21'
 descuento: '70.49'
+average: '19.45'
 ---
 
 Tienes [Les Tropéziennes - Tyr03  Bolsos de mano Mujer  Noir  Black   15x30x43 cm  W x H L ](https://www.amazon.es/dp/B073X32BDB/?tag=tolees-21) con un 70.49 % de descuento con precio de oferta de 19.45 EUR (original: 65.9 EUR) en el siguiente enlace!

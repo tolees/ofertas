@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B4LHNG8/?tag=tolees-21'
 descuento: '50.04'
+average: '29.95'
 ---
 
 Está [G-Star 29 Art Polo S/s  Hombre  Gris  Raven  Small](https://www.amazon.es/dp/B07B4LHNG8/?tag=tolees-21) con 50.04 de descuento por 29.95 EUR (original: 59.95 EUR) en el siguiente enlace!

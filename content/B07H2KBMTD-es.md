@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H2KBMTD/?tag=tolees-21'
 descuento: '42.88'
+average: '11.99'
 ---
 
 Tienes [ARBLOVE Faja Reductora Mujer Abdomen Adelgazante Postparto Colombiana Corset sin Costuras](https://www.amazon.es/dp/B07H2KBMTD/?tag=tolees-21) con un 42.88 % de descuento con precio de oferta de 11.99 EUR (original: 20.99 EUR) en el siguiente enlace!

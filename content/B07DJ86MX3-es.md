@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ86MX3/?tag=tolees-21'
 descuento: '50.06'
+average: '44.95'
 ---
 
 Tienes [New Balance Fresh Foam Cruz v2 Silent Rave Pack  Zapatillas para Hombre  Verde  Mineral Green/Sea Salt/Voltage Violet Dm2   42 EU](https://www.amazon.es/dp/B07DJ86MX3/?tag=tolees-21) con un 50.06 % de descuento con precio de oferta de 44.95 EUR (original: 90 EUR) en el siguiente enlace!

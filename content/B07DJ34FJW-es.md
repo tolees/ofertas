@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ34FJW/?tag=tolees-21'
 descuento: '45.24'
+average: '27.38'
 ---
 
 Ahora mismo tienes [New Balance 373  Zapatillas Unisex Niños  Rosa  Crystal Rose/Light Tidepool M1   37 EU](https://www.amazon.es/dp/B07DJ34FJW/?tag=tolees-21) a 27.38 EUR (original: 50 EUR) (45.24 %  de descuento) en el siguiente enlace!

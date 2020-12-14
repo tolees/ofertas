@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004N5KRV0/?tag=tolees-21'
 descuento: '35.36'
+average: '23.23'
 ---
 
 Tienes [Skin Doctors Skinactive 14 - Crema de noche regeneradora](https://www.amazon.es/dp/B004N5KRV0/?tag=tolees-21) con un 35.36 % de descuento con precio de oferta de 23.23 EUR (original: 35.94 EUR) en el siguiente enlace!

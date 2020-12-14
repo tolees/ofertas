@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G5FZTSJ/?tag=tolees-21'
 descuento: '47.63'
+average: '21.99'
 ---
 
 Tienes [NEXGADGET Calefactor Cerámico PTC 950W Calentacdor Eléctrico de Espacio Personal de Aire Caliente con Oscilación Automática  Protección contra Sobrecalentamiento y Volcado  para Hogar y Oficina](https://www.amazon.es/dp/B07G5FZTSJ/?tag=tolees-21) con un 47.63 % de descuento con precio de oferta de 21.99 EUR (original: 41.99 EUR) en el siguiente enlace!

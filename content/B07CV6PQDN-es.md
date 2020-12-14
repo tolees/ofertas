@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CV6PQDN/?tag=tolees-21'
 descuento: '66.36'
+average: '20.18'
 ---
 
 Está [JACK & JONES Jfwolly Nubuck Anthracite Noos  Zapatillas para Hombre  Gris  41 EU](https://www.amazon.es/dp/B07CV6PQDN/?tag=tolees-21) con 66.36 de descuento por 20.18 EUR (original: 59.99 EUR) en el siguiente enlace!

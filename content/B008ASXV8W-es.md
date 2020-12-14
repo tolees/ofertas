@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B008ASXV8W/?tag=tolees-21'
 descuento: '55.94'
+average: '34.65'
 ---
 
 Está [Honeywell ZPFL1 - Detector gas](https://www.amazon.es/dp/B008ASXV8W/?tag=tolees-21) con 55.94 de descuento por 34.65 EUR (original: 78.65 EUR) en el siguiente enlace!

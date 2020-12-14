@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01AG0BQCO/?tag=tolees-21'
 descuento: '69.46'
+average: '4.82'
 ---
 
 Está [Abus 60/50 KA6054 - Candado latón de 50mm llaves iguales](https://www.amazon.es/dp/B01AG0BQCO/?tag=tolees-21) con 69.46 de descuento por 4.82 EUR (original: 15.78 EUR) en el siguiente enlace!

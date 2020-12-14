@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D15JDFZ/?tag=tolees-21'
 descuento: '50.00'
+average: '52.45'
 ---
 
 Está [Kipling ART M Bolsa de tela y playa  58 cm  26 litros  Negro  Black Pylon Emb ](https://www.amazon.es/dp/B07D15JDFZ/?tag=tolees-21) con 50.00 de descuento por 52.45 EUR (original: 104.9 EUR) en el siguiente enlace!

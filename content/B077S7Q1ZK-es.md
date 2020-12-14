@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077S7Q1ZK/?tag=tolees-21'
 descuento: '45.06'
+average: '43.95'
 ---
 
 Está [GLOBE Encore-2  Zapatillas de Deporte para Hombre   Charcoal/Gum/Red 000   43 EU](https://www.amazon.es/dp/B077S7Q1ZK/?tag=tolees-21) con 45.06 de descuento por 43.95 EUR (original: 80 EUR) en el siguiente enlace!

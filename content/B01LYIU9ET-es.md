@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LYIU9ET/?tag=tolees-21'
 descuento: '32.91'
+average: '28.78'
 ---
 
 Está [3 Claveles 12566 Tijera Peluquería de 5.5"](https://www.amazon.es/dp/B01LYIU9ET/?tag=tolees-21) con 32.91 de descuento por 28.78 EUR (original: 42.9 EUR) en el siguiente enlace!

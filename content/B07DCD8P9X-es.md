@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCD8P9X/?tag=tolees-21'
 descuento: '72.14'
+average: '25.06'
 ---
 
 Tienes [Puma Breaker LTH  Zapatillas Unisex Adulto  Negro Black White-Indigo Bunting  42.5 EU](https://www.amazon.es/dp/B07DCD8P9X/?tag=tolees-21) con un 72.14 % de descuento con precio de oferta de 25.06 EUR (original: 89.95 EUR) en el siguiente enlace!

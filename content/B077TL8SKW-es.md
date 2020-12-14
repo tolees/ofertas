@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077TL8SKW/?tag=tolees-21'
 descuento: '60.11'
+average: '27.92'
 ---
 
 Está [Burton Moxie Short Pantalones Cortos  Hombre  Bossa Nova  32](https://www.amazon.es/dp/B077TL8SKW/?tag=tolees-21) con 60.11 de descuento por 27.92 EUR (original: 70 EUR) en el siguiente enlace!

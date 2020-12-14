@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071NHSYMD/?tag=tolees-21'
 descuento: '53.72'
+average: '37'
 ---
 
 Ahora mismo tienes [Puma Liga Suede Perf  Zapatillas Unisex Adulto  Beige  Birch-Whisper White- Team Gold  44 EU](https://www.amazon.es/dp/B071NHSYMD/?tag=tolees-21) a 37 EUR (original: 79.95 EUR) (53.72 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00SVC8XLC/?tag=tolees-21'
 descuento: '39.98'
+average: '117'
 ---
 
 Ahora mismo tienes [Tuc Tuc 6560 - Sillas de paseo](https://www.amazon.es/dp/B00SVC8XLC/?tag=tolees-21) a 117 EUR (original: 194.95 EUR) (39.98 %  de descuento) en el siguiente enlace!

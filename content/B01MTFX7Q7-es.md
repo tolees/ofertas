@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MTFX7Q7/?tag=tolees-21'
 descuento: '32.07'
+average: '10.19'
 ---
 
 Tienes [Comodynes Gotas Faciales Autobronceadoras - 30 ml](https://www.amazon.es/dp/B01MTFX7Q7/?tag=tolees-21) con un 32.07 % de descuento con precio de oferta de 10.19 EUR (original: 15 EUR) en el siguiente enlace!

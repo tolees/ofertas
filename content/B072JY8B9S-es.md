@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072JY8B9S/?tag=tolees-21'
 descuento: '46.47'
+average: '16.06'
 ---
 
 Ahora mismo tienes [FIND Pantalones Chino Regular Fit para Hombre  Rojo  Tawny Port   W34/L30  Talla del fabricante: 34 ](https://www.amazon.es/dp/B072JY8B9S/?tag=tolees-21) a 16.06 EUR (original: 30 EUR) (46.47 %  de descuento) en el siguiente enlace!

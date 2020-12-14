@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0797HTGGK/?tag=tolees-21'
 descuento: '51.11'
+average: '19.55'
 ---
 
 Ahora mismo tienes [Esprit 998ee1c801  Pantalones Cortos Mujer  Beige  Light 290   36  Talla del Fabricante: 34 ](https://www.amazon.es/dp/B0797HTGGK/?tag=tolees-21) a 19.55 EUR (original: 39.99 EUR) (51.11 %  de descuento) en el siguiente enlace!

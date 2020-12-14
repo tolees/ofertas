@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FL5GGZ1/?tag=tolees-21'
 descuento: '73.31'
+average: '25.36'
 ---
 
 Está [Superdry Ribbed Crew  suéter para Hombre  Azul  Academy Navy Jvj  X-Small](https://www.amazon.es/dp/B07FL5GGZ1/?tag=tolees-21) con 73.31 de descuento por 25.36 EUR (original: 95 EUR) en el siguiente enlace!

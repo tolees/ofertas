@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00061RWRM/?tag=tolees-21'
 descuento: '72.54'
+average: '98'
 ---
 
 Está [HP Q5942X - Cartucho de tóner](https://www.amazon.es/dp/B00061RWRM/?tag=tolees-21) con 72.54 de descuento por 98 EUR (original: 356.9 EUR) en el siguiente enlace!

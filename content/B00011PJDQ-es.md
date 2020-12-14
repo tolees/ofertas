@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00011PJDQ/?tag=tolees-21'
 descuento: '56.30'
+average: '6.73'
 ---
 
 Ahora mismo tienes [Duracell CR15H270 Baterías de litio CR2 3V de alta potencia  paquete de 2  diseñado para su uso en sensores  cerraduras sin llave  flash y linternas](https://www.amazon.es/dp/B00011PJDQ/?tag=tolees-21) a 6.73 EUR (original: 15.4 EUR) (56.30 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079QDSXBP/?tag=tolees-21'
 descuento: '45.94'
+average: '32.38'
 ---
 
 Está [Pepe Jeans London Amanda Boot Zip  Botas de Nieve para Niñas  Azul  Navy 595   38 EU](https://www.amazon.es/dp/B079QDSXBP/?tag=tolees-21) con 45.94 de descuento por 32.38 EUR (original: 59.9 EUR) en el siguiente enlace!

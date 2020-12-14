@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N1T8OPC/?tag=tolees-21'
 descuento: '42.93'
+average: '15.95'
 ---
 
 Está [Kappa Kickoff  Zapatillas de Deporte Interior Unisex Niños  Naranja  Orange/Black 4411   31 EU](https://www.amazon.es/dp/B01N1T8OPC/?tag=tolees-21) con 42.93 de descuento por 15.95 EUR (original: 27.95 EUR) en el siguiente enlace!

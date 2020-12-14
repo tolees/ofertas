@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DPC4SF9/?tag=tolees-21'
 descuento: '47.51'
+average: '15.72'
 ---
 
 Ahora mismo tienes [Puma 4Keeps Bra M Top  Mujer  Rosa  Orchid   XS](https://www.amazon.es/dp/B07DPC4SF9/?tag=tolees-21) a 15.72 EUR (original: 29.95 EUR) (47.51 %  de descuento) en el siguiente enlace!

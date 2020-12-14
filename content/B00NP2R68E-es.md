@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00NP2R68E/?tag=tolees-21'
 descuento: '49.23'
+average: '65.99'
 ---
 
 Está [HomCom Armario Móvil con Ruedas de 4 Estanterías y 2 Cajones - Blanco - Madera - 60 x 35 x 65 cm](https://www.amazon.es/dp/B00NP2R68E/?tag=tolees-21) con 49.23 de descuento por 65.99 EUR (original: 129.99 EUR) en el siguiente enlace!

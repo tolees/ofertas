@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01ELHO8C8/?tag=tolees-21'
 descuento: '77.11'
+average: '8.7'
 ---
 
 Ahora mismo tienes [Revlon Intragen Total Detox Remedy Restore Mask Mascarilla - 200 ml](https://www.amazon.es/dp/B01ELHO8C8/?tag=tolees-21) a 8.7 EUR (original: 38 EUR) (77.11 %  de descuento) en el siguiente enlace!

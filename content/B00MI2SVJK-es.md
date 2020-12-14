@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00MI2SVJK/?tag=tolees-21'
 descuento: '60.43'
+average: '7.32'
 ---
 
 Ahora mismo tienes [Bed Head by TIGI Cera Mate 57 g](https://www.amazon.es/dp/B00MI2SVJK/?tag=tolees-21) a 7.32 EUR (original: 18.5 EUR) (60.43 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D2LK6ZC/?tag=tolees-21'
 descuento: '67.18'
+average: '5.12'
 ---
 
 Tienes [Dim Socq Ecodim X12 Calcetines  30 DEN  Beige  Daim 18q   Small  Talla del fabricante: 35/41   Pack de 12 para Mujer](https://www.amazon.es/dp/B07D2LK6ZC/?tag=tolees-21) con un 67.18 % de descuento con precio de oferta de 5.12 EUR (original: 15.6 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MU9O2Z1/?tag=tolees-21'
 descuento: '29.16'
+average: '169.99'
 ---
 
 Está [Newskill Kuraokami - Silla Gaming Profesional  Inclinación y Altura Regulable  reposabrazos Ajustable  reclinable 180º   Color Azul](https://www.amazon.es/dp/B01MU9O2Z1/?tag=tolees-21) con 29.16 de descuento por 169.99 EUR (original: 239.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071XWWS1D/?tag=tolees-21'
 descuento: '43.09'
+average: '41.24'
 ---
 
 Tienes [Calvin Klein Park 2 SS  Polo para Hombre  Blanco  Bright White  Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B071XWWS1D/?tag=tolees-21) con un 43.09 % de descuento con precio de oferta de 41.24 EUR (original: 72.46 EUR) en el siguiente enlace!

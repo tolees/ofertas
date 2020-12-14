@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XRJH8RQ/?tag=tolees-21'
 descuento: '77.30'
+average: '18.15'
 ---
 
 Ahora mismo tienes [s.Oliver 26115  Botas para Mujer  Verde  Khaki Comb   40 EU](https://www.amazon.es/dp/B06XRJH8RQ/?tag=tolees-21) a 18.15 EUR (original: 79.95 EUR) (77.30 %  de descuento) en el siguiente enlace!

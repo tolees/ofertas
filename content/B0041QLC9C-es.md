@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0041QLC9C/?tag=tolees-21'
 descuento: '41.81'
+average: '52.95'
 ---
 
 Ahora mismo tienes [Giorgio Armani - Acqua Di Gioia - Eau de parfum para mujer - 100 ml](https://www.amazon.es/dp/B0041QLC9C/?tag=tolees-21) a 52.95 EUR (original: 91 EUR) (41.81 %  de descuento) en el siguiente enlace!

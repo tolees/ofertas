@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003IR6NNK/?tag=tolees-21'
 descuento: '32.63'
+average: '269'
 ---
 
 Tienes [APC Smart-UPS 750VA -  SMT750I - Sistema de alimentación ininterrumpida SAI](https://www.amazon.es/dp/B003IR6NNK/?tag=tolees-21) con un 32.63 % de descuento con precio de oferta de 269 EUR (original: 399.29 EUR) en el siguiente enlace!

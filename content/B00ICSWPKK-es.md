@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00ICSWPKK/?tag=tolees-21'
 descuento: '60.18'
+average: '19.9'
 ---
 
 Tienes [THE COSMETIC REPUBLIC - Keratin Fibers Rubio Oscuro - 25 g](https://www.amazon.es/dp/B00ICSWPKK/?tag=tolees-21) con un 60.18 % de descuento con precio de oferta de 19.9 EUR (original: 49.97 EUR) en el siguiente enlace!

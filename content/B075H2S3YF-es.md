@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075H2S3YF/?tag=tolees-21'
 descuento: '27.69'
+average: '94'
 ---
 
 Ahora mismo tienes [Cámara Polaroid 600](https://www.amazon.es/dp/B075H2S3YF/?tag=tolees-21) a 94 EUR (original: 129.99 EUR) (27.69 %  de descuento) en el siguiente enlace!

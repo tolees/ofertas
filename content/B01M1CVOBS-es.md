@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M1CVOBS/?tag=tolees-21'
 descuento: '64.52'
+average: '28.38'
 ---
 
 Ahora mismo tienes [SUENOSZZZ - Oferta!! Cabecero Dakota  Cama90  100x57 cms. Color Negro](https://www.amazon.es/dp/B01M1CVOBS/?tag=tolees-21) a 28.38 EUR (original: 79.99 EUR) (64.52 %  de descuento) en el siguiente enlace!

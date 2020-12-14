@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B4SPXMV/?tag=tolees-21'
 descuento: '45.65'
+average: '6.5'
 ---
 
 Ahora mismo tienes [unodent gbs505 bolsa de esterilización  60 mm x 100 mm  Pack de 200 ](https://www.amazon.es/dp/B07B4SPXMV/?tag=tolees-21) a 6.5 EUR (original: 11.96 EUR) (45.65 %  de descuento) en el siguiente enlace!

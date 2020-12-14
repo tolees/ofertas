@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075NC2BZ3/?tag=tolees-21'
 descuento: '39.98'
+average: '15'
 ---
 
 Ahora mismo tienes [Westworld Temporada 1 Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B075NC2BZ3/?tag=tolees-21) a 15 EUR (original: 24.99 EUR) (39.98 %  de descuento) en el siguiente enlace!

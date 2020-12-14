@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JXYV939/?tag=tolees-21'
 descuento: '51.87'
+average: '12.99'
 ---
 
 Está [3 Unidades Luz Nocturna Infantil  Govee Lámpara Nocturna Enchufe con Sensor de Luz Activo  Luz Quitamiedos Infantil para Niños  Dormitorio  Cocina  Gareja  Pasillo](https://www.amazon.es/dp/B07JXYV939/?tag=tolees-21) con 51.87 de descuento por 12.99 EUR (original: 26.99 EUR) en el siguiente enlace!

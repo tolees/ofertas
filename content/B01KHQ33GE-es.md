@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KHQ33GE/?tag=tolees-21'
 descuento: '44.38'
+average: '6.58'
 ---
 
 Está [Sombrilde Encaje de Flores Chicas de Boda Nupcial de Partido de Sol Paraguas Apoyo de Fotografía](https://www.amazon.es/dp/B01KHQ33GE/?tag=tolees-21) con 44.38 de descuento por 6.58 EUR (original: 11.83 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0168PAISE/?tag=tolees-21'
 descuento: '37.76'
+average: '74.06'
 ---
 
 Tienes [Kit Closet mesas Metal  Vinilo](https://www.amazon.es/dp/B0168PAISE/?tag=tolees-21) con un 37.76 % de descuento con precio de oferta de 74.06 EUR (original: 119 EUR) en el siguiente enlace!

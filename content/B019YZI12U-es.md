@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B019YZI12U/?tag=tolees-21'
 descuento: '64.07'
+average: '17.96'
 ---
 
 Está [Pioneer SE-MJ722T-T - Auriculares  Color Blanco y marrón](https://www.amazon.es/dp/B019YZI12U/?tag=tolees-21) con 64.07 de descuento por 17.96 EUR (original: 49.99 EUR) en el siguiente enlace!

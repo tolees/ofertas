@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01EHJ330S/?tag=tolees-21'
 descuento: '50.00'
+average: '2.45'
 ---
 
 Está [Lékué Polo apilable Verde  Silicona  Agua  1 Unidad](https://www.amazon.es/dp/B01EHJ330S/?tag=tolees-21) con 50.00 de descuento por 2.45 EUR (original: 4.9 EUR) en el siguiente enlace!

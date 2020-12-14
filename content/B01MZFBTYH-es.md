@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MZFBTYH/?tag=tolees-21'
 descuento: '40.29'
+average: '83.6'
 ---
 
 Está [Wilson Raqueta de Tenis  Six.One Team 95  Unisex  Jugadores intermedios  Rojo/Gris  Tamaño de empuñadura L3](https://www.amazon.es/dp/B01MZFBTYH/?tag=tolees-21) con 40.29 de descuento por 83.6 EUR (original: 140 EUR) en el siguiente enlace!

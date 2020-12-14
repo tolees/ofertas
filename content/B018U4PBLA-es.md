@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B018U4PBLA/?tag=tolees-21'
 descuento: '50.62'
+average: '3.99'
 ---
 
 Está [Cofan 10391041 - Rollo plástico cubretodo  2 x 50 m ](https://www.amazon.es/dp/B018U4PBLA/?tag=tolees-21) con 50.62 de descuento por 3.99 EUR (original: 8.08 EUR) en el siguiente enlace!

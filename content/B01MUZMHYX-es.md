@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MUZMHYX/?tag=tolees-21'
 descuento: '55.01'
+average: '31.47'
 ---
 
 Está [Skechers Hi-Lite  Entrenadores para Mujer  Gris  Grey   39 EU](https://www.amazon.es/dp/B01MUZMHYX/?tag=tolees-21) con 55.01 de descuento por 31.47 EUR (original: 69.95 EUR) en el siguiente enlace!

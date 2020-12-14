@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B009XQIVBC/?tag=tolees-21'
 descuento: '40.27'
+average: '39.99'
 ---
 
 Tienes [Princess 212023 Batidora de Vaso Licuadora  600 W  1.5 litros  Vidrio  2 Velocidades  Negro  Acero inoxidable](https://www.amazon.es/dp/B009XQIVBC/?tag=tolees-21) con un 40.27 % de descuento con precio de oferta de 39.99 EUR (original: 66.95 EUR) en el siguiente enlace!

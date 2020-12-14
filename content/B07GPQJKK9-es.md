@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GPQJKK9/?tag=tolees-21'
 descuento: '42.25'
+average: '34.62'
 ---
 
 Está [Skechers Ingram-Marner  Zapatillas para Hombre  Beige Tan  46 EU](https://www.amazon.es/dp/B07GPQJKK9/?tag=tolees-21) con 42.25 de descuento por 34.62 EUR (original: 59.95 EUR) en el siguiente enlace!

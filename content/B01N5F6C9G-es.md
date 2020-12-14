@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N5F6C9G/?tag=tolees-21'
 descuento: '63.64'
+average: '45.99'
 ---
 
 Tienes [Under Armour Basketball Shoes Ua Drive 4 Graphite 9](https://www.amazon.es/dp/B01N5F6C9G/?tag=tolees-21) con un 63.64 % de descuento con precio de oferta de 45.99 EUR (original: 126.49 EUR) en el siguiente enlace!

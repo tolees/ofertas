@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QXHW3PX/?tag=tolees-21'
 descuento: '33.41'
+average: '11.98'
 ---
 
 Está [KEXIN 64GB Memoria USB 2.0 Pendrive 64GB Flash Drive Memoria Stick USB Llavero para Computadoras  Tabletas y Otros Dispositivos  Color Negro](https://www.amazon.es/dp/B07QXHW3PX/?tag=tolees-21) con 33.41 de descuento por 11.98 EUR (original: 17.99 EUR) en el siguiente enlace!

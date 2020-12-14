@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CJC2XQY/?tag=tolees-21'
 descuento: '40.01'
+average: '17.99'
 ---
 
 Tienes [URCERI Detector de Pared Encontrar Stud Finder con 3-en-1 Metal AC Alambres Escáner de Madera con Pantalla LCD Retroiluminada incluye detección de alerta](https://www.amazon.es/dp/B07CJC2XQY/?tag=tolees-21) con un 40.01 % de descuento con precio de oferta de 17.99 EUR (original: 29.99 EUR) en el siguiente enlace!

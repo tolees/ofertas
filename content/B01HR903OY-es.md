@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HR903OY/?tag=tolees-21'
 descuento: '77.57'
+average: '19.38'
 ---
 
 Está [Quiksilver Mission - Náuticos para hombre  color Marrón claro  talla 39 EU](https://www.amazon.es/dp/B01HR903OY/?tag=tolees-21) con 77.57 de descuento por 19.38 EUR (original: 86.41 EUR) en el siguiente enlace!

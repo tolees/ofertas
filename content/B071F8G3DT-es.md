@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071F8G3DT/?tag=tolees-21'
 descuento: '63.92'
+average: '21.63'
 ---
 
 Está [Puma Vega SL  Zapatillas para Mujer  Negro Black  40.5 EU](https://www.amazon.es/dp/B071F8G3DT/?tag=tolees-21) con 63.92 de descuento por 21.63 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BNXJ8BV/?tag=tolees-21'
 descuento: '66.66'
+average: '23.34'
 ---
 
 Tienes [ALDO Veassi  Zapatillas para Mujer  Negro  Jet Black 96   41 EU](https://www.amazon.es/dp/B07BNXJ8BV/?tag=tolees-21) con un 66.66 % de descuento con precio de oferta de 23.34 EUR (original: 70 EUR) en el siguiente enlace!

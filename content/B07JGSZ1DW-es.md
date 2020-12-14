@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JGSZ1DW/?tag=tolees-21'
 descuento: '38.11'
+average: '12.99'
 ---
 
 Ahora mismo tienes [MOSUO Luz Solar Jardín  2 Pack Luces Solares LED Foco Solar Exterior  10 LED Lámpara Solar de Pared  Iluminación de Seguridad con Sensor crepuscular IP65 Impermeable para Patio  Garaje  Camino](https://www.amazon.es/dp/B07JGSZ1DW/?tag=tolees-21) a 12.99 EUR (original: 20.99 EUR) (38.11 %  de descuento) en el siguiente enlace!

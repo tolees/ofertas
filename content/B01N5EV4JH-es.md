@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N5EV4JH/?tag=tolees-21'
 descuento: '43.22'
+average: '31.2'
 ---
 
 Está [Skechers Diamond Runner  Entrenadores Niñas  Negro  Black/multi   36 EU](https://www.amazon.es/dp/B01N5EV4JH/?tag=tolees-21) con 43.22 de descuento por 31.2 EUR (original: 54.95 EUR) en el siguiente enlace!

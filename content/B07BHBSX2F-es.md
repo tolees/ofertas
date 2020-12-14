@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BHBSX2F/?tag=tolees-21'
 descuento: '40.00'
+average: '14.94'
 ---
 
 Tienes [Kipling - Ness  Carteras Mujer  Varios colores  Soft Feather   0.1x20.5x13.5 cm  B x H T ](https://www.amazon.es/dp/B07BHBSX2F/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 14.94 EUR (original: 24.9 EUR) en el siguiente enlace!

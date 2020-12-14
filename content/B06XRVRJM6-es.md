@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XRVRJM6/?tag=tolees-21'
 descuento: '64.33'
+average: '35.67'
 ---
 
 Tienes [New Balance Fresh Foam Kaymin  Zapatillas de Running para Hombre  Azul  Blue/Black   42 EU](https://www.amazon.es/dp/B06XRVRJM6/?tag=tolees-21) con un 64.33 % de descuento con precio de oferta de 35.67 EUR (original: 100 EUR) en el siguiente enlace!

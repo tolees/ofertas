@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00LUAHT44/?tag=tolees-21'
 descuento: '40.95'
+average: '64.95'
 ---
 
 Ahora mismo tienes [Helly Hansen HP Fleece Jacket  Hombre  Navy  M](https://www.amazon.es/dp/B00LUAHT44/?tag=tolees-21) a 64.95 EUR (original: 110 EUR) (40.95 %  de descuento) en el siguiente enlace!

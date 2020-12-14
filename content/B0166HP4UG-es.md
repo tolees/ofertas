@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0166HP4UG/?tag=tolees-21'
 descuento: '37.50'
+average: '14'
 ---
 
 Ahora mismo tienes [Gloss - caja de baño  caja de regalo para mujeres - Bañera Retro - Shimmer de Belle & Whistle - Lilac - 4 Piezas](https://www.amazon.es/dp/B0166HP4UG/?tag=tolees-21) a 14 EUR (original: 22.4 EUR) (37.50 %  de descuento) en el siguiente enlace!

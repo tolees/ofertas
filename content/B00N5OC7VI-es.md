@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00N5OC7VI/?tag=tolees-21'
 descuento: '73.17'
+average: '7.91'
 ---
 
 Tienes [Bausch & Lomb  PureVision 2 - Lentes de Contacto Mensuales](https://www.amazon.es/dp/B00N5OC7VI/?tag=tolees-21) con un 73.17 % de descuento con precio de oferta de 7.91 EUR (original: 29.48 EUR) en el siguiente enlace!

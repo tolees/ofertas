@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00BCC8A8E/?tag=tolees-21'
 descuento: '35.03'
+average: '7.14'
 ---
 
 Está [Philips Avent SCF696/17 - Biberón  tetina suave y flexible  anticólicos  PP 0% BPA  330 ml  color transparente](https://www.amazon.es/dp/B00BCC8A8E/?tag=tolees-21) con 35.03 de descuento por 7.14 EUR (original: 10.99 EUR) en el siguiente enlace!

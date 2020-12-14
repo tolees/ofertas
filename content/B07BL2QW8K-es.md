@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BL2QW8K/?tag=tolees-21'
 descuento: '30.06'
+average: '62.95'
 ---
 
 Ahora mismo tienes [New Balance 420  Zapatillas Unisex Adulto  Gris  Shale/Magnet Swg   45.5 EU](https://www.amazon.es/dp/B07BL2QW8K/?tag=tolees-21) a 62.95 EUR (original: 90 EUR) (30.06 %  de descuento) en el siguiente enlace!

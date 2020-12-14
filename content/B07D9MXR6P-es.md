@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9MXR6P/?tag=tolees-21'
 descuento: '58.41'
+average: '27.01'
 ---
 
 Está [adidas CF Lite Racer  Zapatillas para Hombre  Negro  Core Black/Grey/Hi-Res Red 0   44 2/3 EU](https://www.amazon.es/dp/B07D9MXR6P/?tag=tolees-21) con 58.41 de descuento por 27.01 EUR (original: 64.95 EUR) en el siguiente enlace!

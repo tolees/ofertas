@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0771BXKYJ/?tag=tolees-21'
 descuento: '36.04'
+average: '31.95'
 ---
 
 Tienes [G-STAR RAW Dunda Polo S/s  Negro  Black 990   Small para Hombre](https://www.amazon.es/dp/B0771BXKYJ/?tag=tolees-21) con un 36.04 % de descuento con precio de oferta de 31.95 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HKH8MFJ/?tag=tolees-21'
 descuento: '43.06'
+average: '21.99'
 ---
 
 Tienes [DISNEY Disney Alice In Wonderland Cheshire Cat Wash Bag Neceser 30 Centimeters Rosa  Pink ](https://www.amazon.es/dp/B07HKH8MFJ/?tag=tolees-21) con un 43.06 % de descuento con precio de oferta de 21.99 EUR (original: 38.62 EUR) en el siguiente enlace!

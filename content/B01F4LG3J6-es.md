@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01F4LG3J6/?tag=tolees-21'
 descuento: '30.89'
+average: '8.95'
 ---
 
 Ahora mismo tienes [Mickey Mouse AS031 Mickey - Licencia Bolsa de Deporte Infantil](https://www.amazon.es/dp/B01F4LG3J6/?tag=tolees-21) a 8.95 EUR (original: 12.95 EUR) (30.89 %  de descuento) en el siguiente enlace!

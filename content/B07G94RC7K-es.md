@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G94RC7K/?tag=tolees-21'
 descuento: '45.85'
+average: '12.99'
 ---
 
 Tienes [AiHom Portarrollos de 304 acero inoxidable para colgar papel del higiene  toalla en baño o cocina o retaurante](https://www.amazon.es/dp/B07G94RC7K/?tag=tolees-21) con un 45.85 % de descuento con precio de oferta de 12.99 EUR (original: 23.99 EUR) en el siguiente enlace!

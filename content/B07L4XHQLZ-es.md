@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L4XHQLZ/?tag=tolees-21'
 descuento: '44.00'
+average: '139.99'
 ---
 
 Ahora mismo tienes [Electronic-Star Takira V6 Patinete eléctrico • Plegable • Batería de Carga rápida • Velocidad máx. 16 km/h • 100 vatios • Frenos Delanteros y Traseros • Silencioso • Manillar Ajustable • Negro](https://www.amazon.es/dp/B07L4XHQLZ/?tag=tolees-21) a 139.99 EUR (original: 249.99 EUR) (44.00 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DRM2ZZ3/?tag=tolees-21'
 descuento: '37.20'
+average: '21.95'
 ---
 
 Tienes [Adidas Fortarun AC I  Zapatillas de Gimnasia Unisex bebé  Azul Collegiate Navy/Blue/FTWR White  22 EU](https://www.amazon.es/dp/B07DRM2ZZ3/?tag=tolees-21) con un 37.20 % de descuento con precio de oferta de 21.95 EUR (original: 34.95 EUR) en el siguiente enlace!

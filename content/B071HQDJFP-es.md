@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071HQDJFP/?tag=tolees-21'
 descuento: '66.68'
+average: '17.24'
 ---
 
 Ahora mismo tienes [Asics C740N4358  Zapatillas de Running Unisex niños  Azul  Directoire Blue/Peacoat/Silver  37.5 EU](https://www.amazon.es/dp/B071HQDJFP/?tag=tolees-21) a 17.24 EUR (original: 51.74 EUR) (66.68 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BM99YXD/?tag=tolees-21'
 descuento: '60.04'
+average: '33.95'
 ---
 
 Está [Wrangler Texas Contrast  Jeans para Hombre  Azul  Indigo Wit 25F  34W / 34L](https://www.amazon.es/dp/B07BM99YXD/?tag=tolees-21) con 60.04 de descuento por 33.95 EUR (original: 84.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00QJSKH1O/?tag=tolees-21'
 descuento: '70.11'
+average: '204.87'
 ---
 
 Está [Buffalo TeraStation 1400 Almacenamiento 4 TB Raid Conectado a Red](https://www.amazon.es/dp/B00QJSKH1O/?tag=tolees-21) con 70.11 de descuento por 204.87 EUR (original: 685.31 EUR) en el siguiente enlace!

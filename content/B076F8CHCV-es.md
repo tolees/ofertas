@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076F8CHCV/?tag=tolees-21'
 descuento: '44.11'
+average: '22.33'
 ---
 
 Tienes [Dockers by Gerli 42sw602-700100  Zapatillas Unisex Adulto  Negro  Schwarz 100   41 EU](https://www.amazon.es/dp/B076F8CHCV/?tag=tolees-21) con un 44.11 % de descuento con precio de oferta de 22.33 EUR (original: 39.95 EUR) en el siguiente enlace!

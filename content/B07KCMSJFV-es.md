@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KCMSJFV/?tag=tolees-21'
 descuento: '55.84'
+average: '16.56'
 ---
 
 Está [David Jones - 5911-2  Bolsos totes Mujer  Rosa  Pink   13x29x37 cm  W x H L ](https://www.amazon.es/dp/B07KCMSJFV/?tag=tolees-21) con 55.84 de descuento por 16.56 EUR (original: 37.5 EUR) en el siguiente enlace!

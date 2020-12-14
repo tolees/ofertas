@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N5I9H7K/?tag=tolees-21'
 descuento: '38.10'
+average: '30.92'
 ---
 
 Está [Reebok Classic Leather  Zapatillas de Trail Running Unisex para Niños  Blanco  White 0   27.5 EU](https://www.amazon.es/dp/B01N5I9H7K/?tag=tolees-21) con 38.10 de descuento por 30.92 EUR (original: 49.95 EUR) en el siguiente enlace!

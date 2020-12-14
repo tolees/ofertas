@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CGY7J9Q/?tag=tolees-21'
 descuento: '68.34'
+average: '18.99'
 ---
 
 Ahora mismo tienes [LOBKIN Portátil de Bolsillo Portátil Mini Ventilador Ventilador Eléctrico con Batería Recargable 2600mAh 14 Horas de Tiempo de Trabajo Ajustable 3 Velocidades para la Habitación  Rosado ](https://www.amazon.es/dp/B07CGY7J9Q/?tag=tolees-21) a 18.99 EUR (original: 59.99 EUR) (68.34 %  de descuento) en el siguiente enlace!

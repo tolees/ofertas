@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC31FG1/?tag=tolees-21'
 descuento: '46.43'
+average: '37.5'
 ---
 
 Tienes [LE COQ SPORTIF Courtset Sport  Zapatillas para Hombre   Optical White/Croissant Blanc   40 EU](https://www.amazon.es/dp/B07DC31FG1/?tag=tolees-21) con un 46.43 % de descuento con precio de oferta de 37.5 EUR (original: 70 EUR) en el siguiente enlace!

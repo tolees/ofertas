@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00HRLQQOE/?tag=tolees-21'
 descuento: '31.27'
+average: '6.99'
 ---
 
 Tienes [Gembird MHS 001 - Auriculares con micrófono  Negro](https://www.amazon.es/dp/B00HRLQQOE/?tag=tolees-21) con un 31.27 % de descuento con precio de oferta de 6.99 EUR (original: 10.17 EUR) en el siguiente enlace!

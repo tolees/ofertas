@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0721FGDVJ/?tag=tolees-21'
 descuento: '46.55'
+average: '21.38'
 ---
 
 Está [FIND Pantalones Regular Fit Hombre Gris  Grey  W30/L29](https://www.amazon.es/dp/B0721FGDVJ/?tag=tolees-21) con 46.55 de descuento por 21.38 EUR (original: 40 EUR) en el siguiente enlace!

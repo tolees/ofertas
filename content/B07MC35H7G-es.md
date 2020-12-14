@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MC35H7G/?tag=tolees-21'
 descuento: '40.02'
+average: '4.99'
 ---
 
 Está [Arvin87Lyly Calcetines Antideslizantes Good Grip Trampoline para Mujer  Antideslizantes  Buenos Calcetines de algodón con Puntos de Goma  Pilates Yoga Fitness Ballet](https://www.amazon.es/dp/B07MC35H7G/?tag=tolees-21) con 40.02 de descuento por 4.99 EUR (original: 8.32 EUR) en el siguiente enlace!

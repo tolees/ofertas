@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0771JKCC5/?tag=tolees-21'
 descuento: '40.78'
+average: '15.99'
 ---
 
 Ahora mismo tienes [GreeSuit pasteles giradiscos Soporte rotatorio de la placa de la placa giratoria de la torta con la espátula de formación de hielo en ángulo del acero inoxidable y la formación de hielo más lisa](https://www.amazon.es/dp/B0771JKCC5/?tag=tolees-21) a 15.99 EUR (original: 27 EUR) (40.78 %  de descuento) en el siguiente enlace!

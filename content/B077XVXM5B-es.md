@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XVXM5B/?tag=tolees-21'
 descuento: '82.02'
+average: '8.99'
 ---
 
 Está [Vibrador Mariposa Masajeador Púrpura Recargable Vibración 36 Frecuencias para Relajación](https://www.amazon.es/dp/B077XVXM5B/?tag=tolees-21) con 82.02 de descuento por 8.99 EUR (original: 49.99 EUR) en el siguiente enlace!

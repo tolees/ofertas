@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071XMZWSJ/?tag=tolees-21'
 descuento: '69.99'
+average: '15'
 ---
 
 Ahora mismo tienes [RED WAGON Dino  Botas Unisex Niños  Verde  Green   25.5  Talla fabricante: 8 ](https://www.amazon.es/dp/B071XMZWSJ/?tag=tolees-21) a 15 EUR (original: 49.99 EUR) (69.99 %  de descuento) en el siguiente enlace!

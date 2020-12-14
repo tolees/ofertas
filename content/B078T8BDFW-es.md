@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078T8BDFW/?tag=tolees-21'
 descuento: '50.05'
+average: '44.95'
 ---
 
 Ahora mismo tienes [Columbia Youth Minx Mid III WP Omni-Heat  Botas de Nieve para Niñas  Gris  Stratus  Camellia Rose   32 EU](https://www.amazon.es/dp/B078T8BDFW/?tag=tolees-21) a 44.95 EUR (original: 89.99 EUR) (50.05 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BZR6XPB/?tag=tolees-21'
 descuento: '50.00'
+average: '44.95'
 ---
 
 Está [Levi s Hodges  Botas Militares para Hombre  Marrón  Boots 29   43 EU](https://www.amazon.es/dp/B07BZR6XPB/?tag=tolees-21) con 50.00 de descuento por 44.95 EUR (original: 89.9 EUR) en el siguiente enlace!

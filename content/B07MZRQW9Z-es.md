@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MZRQW9Z/?tag=tolees-21'
 descuento: '41.95'
+average: '17.99'
 ---
 
 Está [Purebesi Aspirador de Coche sin Cable 120W /12V Aspirador de Coche Potente inalambrico Potente Aspirador de Coche con bateria](https://www.amazon.es/dp/B07MZRQW9Z/?tag=tolees-21) con 41.95 de descuento por 17.99 EUR (original: 30.99 EUR) en el siguiente enlace!

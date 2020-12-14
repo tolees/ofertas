@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BKQFF8J/?tag=tolees-21'
 descuento: '57.79'
+average: '37.99'
 ---
 
 Tienes [DlandHome 80 * 40 cm Ajustable Mesa de Ordenador Portatil con Ruedas Sofá Mesa Mesas de Centro con Ranura para Tableta  Arce](https://www.amazon.es/dp/B07BKQFF8J/?tag=tolees-21) con un 57.79 % de descuento con precio de oferta de 37.99 EUR (original: 90 EUR) en el siguiente enlace!

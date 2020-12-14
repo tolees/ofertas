@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D7MSX46/?tag=tolees-21'
 descuento: '64.53'
+average: '46.07'
 ---
 
 Tienes [Dolores Promesas 107347 Pantalones  Beige Camel   Tamaño del Fabricante:40  para Mujer](https://www.amazon.es/dp/B07D7MSX46/?tag=tolees-21) con un 64.53 % de descuento con precio de oferta de 46.07 EUR (original: 129.9 EUR) en el siguiente enlace!

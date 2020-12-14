@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B015QQLDBM/?tag=tolees-21'
 descuento: '33.34'
+average: '24.95'
 ---
 
 Tienes [Crocs Crocband - Sandalias/Chancletas para Caballero  42 EU/Azul Marino ](https://www.amazon.es/dp/B015QQLDBM/?tag=tolees-21) con un 33.34 % de descuento con precio de oferta de 24.95 EUR (original: 37.43 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JZZB2RV/?tag=tolees-21'
 descuento: '34.58'
+average: '14.85'
 ---
 
 Tienes [Schneider Electric sc5imt23212 multímetro digital de bolsillo Cat III 300 V  Verde](https://www.amazon.es/dp/B07JZZB2RV/?tag=tolees-21) con un 34.58 % de descuento con precio de oferta de 14.85 EUR (original: 22.7 EUR) en el siguiente enlace!

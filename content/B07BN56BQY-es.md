@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BN56BQY/?tag=tolees-21'
 descuento: '77.26'
+average: '14.78'
 ---
 
 Tienes [Vans Chapman Mid Textile  Zapatillas Altas para Niños  Negro   MTE  Denim Ug5   38 EU](https://www.amazon.es/dp/B07BN56BQY/?tag=tolees-21) con un 77.26 % de descuento con precio de oferta de 14.78 EUR (original: 65 EUR) en el siguiente enlace!

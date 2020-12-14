@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KFT6QS9/?tag=tolees-21'
 descuento: '27.08'
+average: '51.01'
 ---
 
 Está [adidas Advantage  Zapatillas de Tenis para Hombre  FTWR White/Green F36424  40 2/3 EU](https://www.amazon.es/dp/B07KFT6QS9/?tag=tolees-21) con 27.08 de descuento por 51.01 EUR (original: 69.95 EUR) en el siguiente enlace!

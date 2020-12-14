@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N53WWD0/?tag=tolees-21'
 descuento: '57.56'
+average: '25.44'
 ---
 
 Tienes [Puma Pacer EVO  Zapatillas Unisex Adulto  Azul  True Blue White 02   44.5 EU](https://www.amazon.es/dp/B01N53WWD0/?tag=tolees-21) con un 57.56 % de descuento con precio de oferta de 25.44 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07714HRYK/?tag=tolees-21'
 descuento: '41.07'
+average: '58.9'
 ---
 
 Está [G-STAR RAW Rovic 3D Tapered  Pantalones Hombre   Dk Fall Ao 8287    Talla del Fabricante: W33/L36 ](https://www.amazon.es/dp/B07714HRYK/?tag=tolees-21) con 41.07 de descuento por 58.9 EUR (original: 99.95 EUR) en el siguiente enlace!

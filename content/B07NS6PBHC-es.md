@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NS6PBHC/?tag=tolees-21'
 descuento: '71.48'
+average: '19.96'
 ---
 
 Está [El potenciador de crecimiento de pestañas y el suero de cejas para un acondicionador largo y mejor vendido mejoran la apariencia Pestañas](https://www.amazon.es/dp/B07NS6PBHC/?tag=tolees-21) con 71.48 de descuento por 19.96 EUR (original: 69.99 EUR) en el siguiente enlace!

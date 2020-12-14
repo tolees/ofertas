@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078SL7Q6P/?tag=tolees-21'
 descuento: '36.97'
+average: '219.99'
 ---
 
 Está [Diesel Reloj Digital para Hombre de Cuarzo con Correa en Silicona DZT2006](https://www.amazon.es/dp/B078SL7Q6P/?tag=tolees-21) con 36.97 de descuento por 219.99 EUR (original: 349 EUR) en el siguiente enlace!

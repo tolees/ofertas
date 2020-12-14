@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000ZEE4T4/?tag=tolees-21'
 descuento: '54.51'
+average: '13.97'
 ---
 
 Ahora mismo tienes [Wera 950 PKL/9 BM N Juego de llaves acodadas métricas  BlackLaser](https://www.amazon.es/dp/B000ZEE4T4/?tag=tolees-21) a 13.97 EUR (original: 30.71 EUR) (54.51 %  de descuento) en el siguiente enlace!

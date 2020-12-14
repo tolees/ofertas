@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGGY5FB/?tag=tolees-21'
 descuento: '45.17'
+average: '10.39'
 ---
 
 Tienes [Buff Spiros Gorra  Unisex niños  Multi  Talla única](https://www.amazon.es/dp/B07KGGY5FB/?tag=tolees-21) con un 45.17 % de descuento con precio de oferta de 10.39 EUR (original: 18.95 EUR) en el siguiente enlace!

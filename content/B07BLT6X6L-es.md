@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BLT6X6L/?tag=tolees-21'
 descuento: '30.47'
+average: '32.67'
 ---
 
 Está [SONGMICS Armario Modular de Alambre metálico con 16 Cubos  Montaje en Bricolaje  Aramario de Almacenamiento  Estantería modulable  Estantería de Malla de Alambre  Blanco LPI44W](https://www.amazon.es/dp/B07BLT6X6L/?tag=tolees-21) con 30.47 de descuento por 32.67 EUR (original: 46.99 EUR) en el siguiente enlace!

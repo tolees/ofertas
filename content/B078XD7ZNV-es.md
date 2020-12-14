@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078XD7ZNV/?tag=tolees-21'
 descuento: '50.58'
+average: '93.9'
 ---
 
 Está [Adidas Supernova Ctrl 1.8](https://www.amazon.es/dp/B078XD7ZNV/?tag=tolees-21) con 50.58 de descuento por 93.9 EUR (original: 190 EUR) en el siguiente enlace!

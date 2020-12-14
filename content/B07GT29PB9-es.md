@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GT29PB9/?tag=tolees-21'
 descuento: '32.33'
+average: '33.8'
 ---
 
 Tienes [Desigual - Bag Colorama Gela Women  Bolsos bandolera Mujer  Rojo  Azalea   10.5x22x25 cm  B x H T ](https://www.amazon.es/dp/B07GT29PB9/?tag=tolees-21) con un 32.33 % de descuento con precio de oferta de 33.8 EUR (original: 49.95 EUR) en el siguiente enlace!

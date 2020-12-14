@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G4J2CHJ/?tag=tolees-21'
 descuento: '46.25'
+average: '37.6'
 ---
 
 Está [BOSS Pike  Pantalones Cortos Hombre  Negro  Black 007   Small](https://www.amazon.es/dp/B07G4J2CHJ/?tag=tolees-21) con 46.25 de descuento por 37.6 EUR (original: 69.95 EUR) en el siguiente enlace!

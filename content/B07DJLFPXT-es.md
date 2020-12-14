@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJLFPXT/?tag=tolees-21'
 descuento: '56.81'
+average: '18.14'
 ---
 
 Está [MARIA MARE Mariamare ABY  Shopper para Mujer  Negro  Naps   13 x 32 x 34 cm](https://www.amazon.es/dp/B07DJLFPXT/?tag=tolees-21) con 56.81 de descuento por 18.14 EUR (original: 42 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078Y7HSR4/?tag=tolees-21'
 descuento: '62.36'
+average: '56.44'
 ---
 
 Ahora mismo tienes [Adidas Nemeziz 17.2 FG  Botas de fútbol para Hombre  Naranja  Correa/Rojent/Negbas 000   42 EU](https://www.amazon.es/dp/B078Y7HSR4/?tag=tolees-21) a 56.44 EUR (original: 149.95 EUR) (62.36 %  de descuento) en el siguiente enlace!

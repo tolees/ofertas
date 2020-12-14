@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077JJ8MH7/?tag=tolees-21'
 descuento: '70.46'
+average: '10.34'
 ---
 
 Ahora mismo tienes [Volcom Cresticle Gorra  Hombre  Azul  Midnight Blue   O/S](https://www.amazon.es/dp/B077JJ8MH7/?tag=tolees-21) a 10.34 EUR (original: 35 EUR) (70.46 %  de descuento) en el siguiente enlace!

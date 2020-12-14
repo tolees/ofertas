@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZM9X2P/?tag=tolees-21'
 descuento: '42.32'
+average: '14.99'
 ---
 
 Tienes [Under Armour Graphic Script X-Back Tank Tanque  Mujer  Blanco  Onyx White/Mojo Pink/Black 112   S](https://www.amazon.es/dp/B07CZM9X2P/?tag=tolees-21) con un 42.32 % de descuento con precio de oferta de 14.99 EUR (original: 25.99 EUR) en el siguiente enlace!

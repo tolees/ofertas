@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07142VGSB/?tag=tolees-21'
 descuento: '50.35'
+average: '17.9'
 ---
 
 Ahora mismo tienes [Playtex Ideal Beauty Lace  Sujetador de Encaje Sin Aros para Mujer  Negro  Black   95D  Talla del Fabricante: 36D ](https://www.amazon.es/dp/B07142VGSB/?tag=tolees-21) a 17.9 EUR (original: 36.05 EUR) (50.35 %  de descuento) en el siguiente enlace!

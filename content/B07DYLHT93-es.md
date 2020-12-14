@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DYLHT93/?tag=tolees-21'
 descuento: '35.92'
+average: '28.99'
 ---
 
 Está [Mini Cámaras Espía 1080P Adaptador Portátil Kleine Cámara Vigilancia USB Cámara Detector de Movimiento No Incluidas Tarjeta SD](https://www.amazon.es/dp/B07DYLHT93/?tag=tolees-21) con 35.92 de descuento por 28.99 EUR (original: 45.24 EUR) en el siguiente enlace!

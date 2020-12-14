@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H3MCF81/?tag=tolees-21'
 descuento: '34.02'
+average: '13.19'
 ---
 
 Está [Enfriador Botellas Vino Yunsis de Vino Blanco Tinto con Aireador Decantador Tapón Pourer  Acero Inoxidable 4 en 1 Conjunto de Regalo de Accesorios](https://www.amazon.es/dp/B07H3MCF81/?tag=tolees-21) con 34.02 de descuento por 13.19 EUR (original: 19.99 EUR) en el siguiente enlace!

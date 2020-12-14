@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9Z5PKM/?tag=tolees-21'
 descuento: '79.00'
+average: '23.09'
 ---
 
 Tienes [Puma Ignite Limitless Sr-71 Crafted  Zapatillas de Running Unisex Adulto  Negro Black 01  36 EU](https://www.amazon.es/dp/B07D9Z5PKM/?tag=tolees-21) con un 79.00 % de descuento con precio de oferta de 23.09 EUR (original: 109.95 EUR) en el siguiente enlace!

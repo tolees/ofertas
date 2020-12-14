@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07P7TNRLN/?tag=tolees-21'
 descuento: '60.02'
+average: '15.99'
 ---
 
 Ahora mismo tienes [NWOUIIAY 4 Modelos 16PCS Cabezales Cepillos Cabezales Cepillos Eléctrico Recambios Cepillos para Oral-B](https://www.amazon.es/dp/B07P7TNRLN/?tag=tolees-21) a 15.99 EUR (original: 39.99 EUR) (60.02 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RWBWZ4/?tag=tolees-21'
 descuento: '60.01'
+average: '35.95'
 ---
 
 Ahora mismo tienes [Pepe Jeans London Hyke W Snow  Botas de Nieve para Mujer  Dorado  Gold 099   39 EU](https://www.amazon.es/dp/B079RWBWZ4/?tag=tolees-21) a 35.95 EUR (original: 89.9 EUR) (60.01 %  de descuento) en el siguiente enlace!

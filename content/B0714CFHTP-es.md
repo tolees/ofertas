@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0714CFHTP/?tag=tolees-21'
 descuento: '70.03'
+average: '14.98'
 ---
 
 Tienes [MTNG Flash  Botas Mujer  Rosa  Terciopelo Rosa Claro   38 EU](https://www.amazon.es/dp/B0714CFHTP/?tag=tolees-21) con un 70.03 % de descuento con precio de oferta de 14.98 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KQ6XBLT/?tag=tolees-21'
 descuento: '40.03'
+average: '14.98'
 ---
 
 Está [Grsafety Funda de cojín - Funda de Almohada de Punto  Funda de Almohada  Lana de Campo Europea  Tejido a Mano  Ajustado](https://www.amazon.es/dp/B07KQ6XBLT/?tag=tolees-21) con 40.03 de descuento por 14.98 EUR (original: 24.98 EUR) en el siguiente enlace!

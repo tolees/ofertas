@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B014VG9VYE/?tag=tolees-21'
 descuento: '63.03'
+average: '25.86'
 ---
 
 Ahora mismo tienes [Clarks Couture Bloom  Bailarinas para Mujer  Negro  Black Patent   37.5 EU](https://www.amazon.es/dp/B014VG9VYE/?tag=tolees-21) a 25.86 EUR (original: 69.95 EUR) (63.03 %  de descuento) en el siguiente enlace!

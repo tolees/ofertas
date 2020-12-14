@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N1VJMCB/?tag=tolees-21'
 descuento: '48.09'
+average: '72.65'
 ---
 
 Ahora mismo tienes [adidas Adizero Tempo  Zapatillas de Running para Hombre  Azul  Blue/night Navy/easy Green   42 EU](https://www.amazon.es/dp/B01N1VJMCB/?tag=tolees-21) a 72.65 EUR (original: 139.95 EUR) (48.09 %  de descuento) en el siguiente enlace!

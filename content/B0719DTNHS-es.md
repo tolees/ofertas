@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0719DTNHS/?tag=tolees-21'
 descuento: '45.56'
+average: '43.55'
 ---
 
 Ahora mismo tienes [Asics T7E3N9796  Zapatillas de Running para Hombre  Gris  Carbon/Glacier Grey/White   42.5 EU](https://www.amazon.es/dp/B0719DTNHS/?tag=tolees-21) a 43.55 EUR (original: 80 EUR) (45.56 %  de descuento) en el siguiente enlace!

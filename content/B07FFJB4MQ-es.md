@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FFJB4MQ/?tag=tolees-21'
 descuento: '30.00'
+average: '63'
 ---
 
 Ahora mismo tienes [New Balance - ML574ETB - ML574ETB - El Color: Azul Marino - Talla: 41.5](https://www.amazon.es/dp/B07FFJB4MQ/?tag=tolees-21) a 63 EUR (original: 90 EUR) (30.00 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9TV6HS/?tag=tolees-21'
 descuento: '55.08'
+average: '33.67'
 ---
 
 Está [adidas CF Advantage Cl  Zapatillas para Hombre  Blanco  Footwear White/Maroon/Gum 0   44 2/3 EU](https://www.amazon.es/dp/B07D9TV6HS/?tag=tolees-21) con 55.08 de descuento por 33.67 EUR (original: 74.95 EUR) en el siguiente enlace!

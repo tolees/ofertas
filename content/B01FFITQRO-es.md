@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FFITQRO/?tag=tolees-21'
 descuento: '40.79'
+average: '2.99'
 ---
 
 Está [IDC COLOR  Maquillaje corrector ojeras](https://www.amazon.es/dp/B01FFITQRO/?tag=tolees-21) con 40.79 de descuento por 2.99 EUR (original: 5.05 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KG2HXZJ/?tag=tolees-21'
 descuento: '53.85'
+average: '59.99'
 ---
 
 Tienes [Ginour Sierra Circular  1500W 4700RPM Corte 65mm  90º   45mm  45º  Sierra Circular de Mano 2 Hojas de 185mm de 24T+40T con Guía Laser Soplador de Polvo Doble Interruptor para Madera  Metal Blando](https://www.amazon.es/dp/B07KG2HXZJ/?tag=tolees-21) con un 53.85 % de descuento con precio de oferta de 59.99 EUR (original: 129.99 EUR) en el siguiente enlace!

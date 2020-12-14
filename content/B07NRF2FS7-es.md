@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NRF2FS7/?tag=tolees-21'
 descuento: '50.00'
+average: '5.75'
 ---
 
 Está [Nordic Blonde de Schwarzkopf - Tono L1 Aclarante Intensivo - 2 uds - Coloración Permanente](https://www.amazon.es/dp/B07NRF2FS7/?tag=tolees-21) con 50.00 de descuento por 5.75 EUR (original: 11.5 EUR) en el siguiente enlace!

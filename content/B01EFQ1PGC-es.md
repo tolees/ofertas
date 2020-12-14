@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01EFQ1PGC/?tag=tolees-21'
 descuento: '29.01'
+average: '39.75'
 ---
 
 Ahora mismo tienes [Epson Tin Epson T0615 Multipack  C/Y/M/Bk  Teddy](https://www.amazon.es/dp/B01EFQ1PGC/?tag=tolees-21) a 39.75 EUR (original: 55.99 EUR) (29.01 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D8FK7C5/?tag=tolees-21'
 descuento: '50.00'
+average: '54.5'
 ---
 
 Tienes [Munich Massana  Zapatillas Unisex Adulto   Marron 293   44 EU](https://www.amazon.es/dp/B07D8FK7C5/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 54.5 EUR (original: 109 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D98LKKW/?tag=tolees-21'
 descuento: '64.52'
+average: '17.72'
 ---
 
 Tienes [XTI 48392  Mocasines para Mujer  Morado Burdeos  39 EU](https://www.amazon.es/dp/B07D98LKKW/?tag=tolees-21) con un 64.52 % de descuento con precio de oferta de 17.72 EUR (original: 49.95 EUR) en el siguiente enlace!

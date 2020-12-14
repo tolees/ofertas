@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001CHRPGM/?tag=tolees-21'
 descuento: '27.25'
+average: '13.99'
 ---
 
 Está [Cala para Look con tornillos Look Keo-Grip gris  juego ](https://www.amazon.es/dp/B001CHRPGM/?tag=tolees-21) con 27.25 de descuento por 13.99 EUR (original: 19.23 EUR) en el siguiente enlace!

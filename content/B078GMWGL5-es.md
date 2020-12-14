@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078GMWGL5/?tag=tolees-21'
 descuento: '65.00'
+average: '15.75'
 ---
 
 Ahora mismo tienes [Converse Chuck Taylor CTAS Ox Canvas  Zapatillas de Deporte Unisex niño  Azul  Hyper Royal/Bright Poppy/White 483   29 EU](https://www.amazon.es/dp/B078GMWGL5/?tag=tolees-21) a 15.75 EUR (original: 45 EUR) (65.00 %  de descuento) en el siguiente enlace!

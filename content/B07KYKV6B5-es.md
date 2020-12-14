@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KYKV6B5/?tag=tolees-21'
 descuento: '44.44'
+average: '12.65'
 ---
 
 Tienes [P Prettyia Lámpara Lupa de Sobremesa Ampliación 2X con 2 Luces LED](https://www.amazon.es/dp/B07KYKV6B5/?tag=tolees-21) con un 44.44 % de descuento con precio de oferta de 12.65 EUR (original: 22.77 EUR) en el siguiente enlace!

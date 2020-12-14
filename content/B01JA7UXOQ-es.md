@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01JA7UXOQ/?tag=tolees-21'
 descuento: '53.02'
+average: '7'
 ---
 
 Ahora mismo tienes [Jason Bourne  BD  [Blu-ray]](https://www.amazon.es/dp/B01JA7UXOQ/?tag=tolees-21) a 7 EUR (original: 14.9 EUR) (53.02 %  de descuento) en el siguiente enlace!

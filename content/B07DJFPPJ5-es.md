@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJFPPJ5/?tag=tolees-21'
 descuento: '76.27'
+average: '18.97'
 ---
 
 Tienes [Dockers by Gerli 35aa202  Botas Militar para Mujer   Hellgrau/Multi 219   37 EU](https://www.amazon.es/dp/B07DJFPPJ5/?tag=tolees-21) con un 76.27 % de descuento con precio de oferta de 18.97 EUR (original: 79.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LWORW3X/?tag=tolees-21'
 descuento: '55.50'
+average: '31.13'
 ---
 
 Está [Desigual Biki_Sonar  Trikini para Mujer  Rosa  Fresa 3001  M  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B01LWORW3X/?tag=tolees-21) con 55.50 de descuento por 31.13 EUR (original: 69.95 EUR) en el siguiente enlace!

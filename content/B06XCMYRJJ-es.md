@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XCMYRJJ/?tag=tolees-21'
 descuento: '47.35'
+average: '173.21'
 ---
 
 Tienes [JVC GZ-R435 - Videocámara de memoria  pantalla articulada 3"  vídeo Full HD  hidrófugo  SDXC compatible  tarjeta de memoria SD  memoria flash interna 4 GB  negro](https://www.amazon.es/dp/B06XCMYRJJ/?tag=tolees-21) con un 47.35 % de descuento con precio de oferta de 173.21 EUR (original: 329 EUR) en el siguiente enlace!

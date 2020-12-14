@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFWML9V/?tag=tolees-21'
 descuento: '56.80'
+average: '23.74'
 ---
 
 Está [Adidas Run70S K  Zapatillas Unisex Niños  Morado  Real Magenta/Footwear White/Legend Ink 0   40 EU](https://www.amazon.es/dp/B07DFWML9V/?tag=tolees-21) con 56.80 de descuento por 23.74 EUR (original: 54.95 EUR) en el siguiente enlace!

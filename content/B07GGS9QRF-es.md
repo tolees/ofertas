@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GGS9QRF/?tag=tolees-21'
 descuento: '55.42'
+average: '8.47'
 ---
 
 Está [Auriculares Auriculares con micrófono  Sistema de cancelación de Ruido y Sonido Envolvente. Compatibles con Apple Samsung Android y PC  Negro ](https://www.amazon.es/dp/B07GGS9QRF/?tag=tolees-21) con 55.42 de descuento por 8.47 EUR (original: 19 EUR) en el siguiente enlace!

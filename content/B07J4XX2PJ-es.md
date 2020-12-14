@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J4XX2PJ/?tag=tolees-21'
 descuento: '51.57'
+average: '19.37'
 ---
 
 Está [Nike Benassi JDI TXT Se  Zapatillas Impermeables para Hombre   Bright Crimson/Black 600   41 EU](https://www.amazon.es/dp/B07J4XX2PJ/?tag=tolees-21) con 51.57 de descuento por 19.37 EUR (original: 40 EUR) en el siguiente enlace!

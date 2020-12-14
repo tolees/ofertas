@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B009K0GGPO/?tag=tolees-21'
 descuento: '33.30'
+average: '6.67'
 ---
 
 Tienes [Bella Aurora M7 Crema de Manos Anti-Manchas SPF 15 - 75 ml.](https://www.amazon.es/dp/B009K0GGPO/?tag=tolees-21) con un 33.30 % de descuento con precio de oferta de 6.67 EUR (original: 10 EUR) en el siguiente enlace!

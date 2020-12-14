@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9YKDTW/?tag=tolees-21'
 descuento: '77.24'
+average: '20.47'
 ---
 
 Está [Puma Suede Classic Shearling  Zapatillas Unisex Adulto  Gris  Elephant Skin-Whisper White 03   36 EU](https://www.amazon.es/dp/B07D9YKDTW/?tag=tolees-21) con 77.24 de descuento por 20.47 EUR (original: 89.95 EUR) en el siguiente enlace!

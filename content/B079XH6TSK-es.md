@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079XH6TSK/?tag=tolees-21'
 descuento: '58.44'
+average: '17.08'
 ---
 
 Está [Westinghouse One-Light Indoor Pendant Lámpara de Techo Bronce aceitado con vidrio transparente 160 cm](https://www.amazon.es/dp/B079XH6TSK/?tag=tolees-21) con 58.44 de descuento por 17.08 EUR (original: 41.1 EUR) en el siguiente enlace!

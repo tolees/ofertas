@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BGKX1SR/?tag=tolees-21'
 descuento: '55.58'
+average: '27.96'
 ---
 
 Ahora mismo tienes [Munich Shopping Hight Easy  Shopper para Mujer  Negro  Black   23x14x39 cm  W x H x L ](https://www.amazon.es/dp/B07BGKX1SR/?tag=tolees-21) a 27.96 EUR (original: 62.95 EUR) (55.58 %  de descuento) en el siguiente enlace!

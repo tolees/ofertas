@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B016IPDJYY/?tag=tolees-21'
 descuento: '36.72'
+average: '56.92'
 ---
 
 Está [Lee Daren Zip  Jeans Hombre  Azul  Dark Indigo   W36/L32  Talla del fabricante: 36 ](https://www.amazon.es/dp/B016IPDJYY/?tag=tolees-21) con 36.72 de descuento por 56.92 EUR (original: 89.95 EUR) en el siguiente enlace!

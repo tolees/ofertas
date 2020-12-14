@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00ZV351LY/?tag=tolees-21'
 descuento: '46.22'
+average: '101.64'
 ---
 
 Tienes [BERING Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Acero Inoxidable 11937-393](https://www.amazon.es/dp/B00ZV351LY/?tag=tolees-21) con un 46.22 % de descuento con precio de oferta de 101.64 EUR (original: 189 EUR) en el siguiente enlace!

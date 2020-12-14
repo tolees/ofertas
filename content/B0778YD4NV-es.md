@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0778YD4NV/?tag=tolees-21'
 descuento: '46.73'
+average: '26.63'
 ---
 
 Ahora mismo tienes [JACK & JONES Jjivega Jjbob WW Kelp Noos  Pantalones para Hombre  Beige    Talla del Fabricante: 33 ](https://www.amazon.es/dp/B0778YD4NV/?tag=tolees-21) a 26.63 EUR (original: 49.99 EUR) (46.73 %  de descuento) en el siguiente enlace!

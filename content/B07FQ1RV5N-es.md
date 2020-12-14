@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQ1RV5N/?tag=tolees-21'
 descuento: '30.00'
+average: '17.5'
 ---
 
 Está [find. Cotton Roll Neck suéter Negro  Black  46  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B07FQ1RV5N/?tag=tolees-21) con 30.00 de descuento por 17.5 EUR (original: 25 EUR) en el siguiente enlace!

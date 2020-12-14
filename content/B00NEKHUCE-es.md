@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00NEKHUCE/?tag=tolees-21'
 descuento: '39.62'
+average: '98.63'
 ---
 
 Tienes [Bosch Professional 06019E3001 Aspiradora en seco y húmedo  12 V  Azul](https://www.amazon.es/dp/B00NEKHUCE/?tag=tolees-21) con un 39.62 % de descuento con precio de oferta de 98.63 EUR (original: 163.35 EUR) en el siguiente enlace!

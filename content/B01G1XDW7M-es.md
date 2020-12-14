@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01G1XDW7M/?tag=tolees-21'
 descuento: '35.58'
+average: '11.95'
 ---
 
 Tienes [La Guerra de Las Galaxias Darth Vader - The Force is Strong with This One Taza de café Standard](https://www.amazon.es/dp/B01G1XDW7M/?tag=tolees-21) con un 35.58 % de descuento con precio de oferta de 11.95 EUR (original: 18.55 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07SCS36LV/?tag=tolees-21'
 descuento: '50.00'
+average: '20.5'
 ---
 
 Está [KELME Polo Paseo 18/19 Hercules C.F](https://www.amazon.es/dp/B07SCS36LV/?tag=tolees-21) con 50.00 de descuento por 20.5 EUR (original: 41 EUR) en el siguiente enlace!

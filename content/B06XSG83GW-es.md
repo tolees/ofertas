@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XSG83GW/?tag=tolees-21'
 descuento: '53.28'
+average: '39.71'
 ---
 
 Ahora mismo tienes [New Balance Mx818V3  Zapatillas Deportivas para Interior para Hombre  Negro  Black   40 EU](https://www.amazon.es/dp/B06XSG83GW/?tag=tolees-21) a 39.71 EUR (original: 85 EUR) (53.28 %  de descuento) en el siguiente enlace!

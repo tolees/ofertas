@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000WCI33C/?tag=tolees-21'
 descuento: '32.85'
+average: '33.57'
 ---
 
 Tienes [Stanley FatMax Micro Tough - Juego de llave de carraca y puntas de vaso  0 63 cm  17 piezas ](https://www.amazon.es/dp/B000WCI33C/?tag=tolees-21) con un 32.85 % de descuento con precio de oferta de 33.57 EUR (original: 49.99 EUR) en el siguiente enlace!

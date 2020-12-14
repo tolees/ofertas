@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01F97P8RI/?tag=tolees-21'
 descuento: '51.17'
+average: '14.01'
 ---
 
 Está [Toshiba TransMemory - Memoria USB U302 de 64 GB  Color Negro](https://www.amazon.es/dp/B01F97P8RI/?tag=tolees-21) con 51.17 de descuento por 14.01 EUR (original: 28.69 EUR) en el siguiente enlace!

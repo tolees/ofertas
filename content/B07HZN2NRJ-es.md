@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HZN2NRJ/?tag=tolees-21'
 descuento: '27.37'
+average: '12.34'
 ---
 
 Tienes [La Sombra De La Ley Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07HZN2NRJ/?tag=tolees-21) con un 27.37 % de descuento con precio de oferta de 12.34 EUR (original: 16.99 EUR) en el siguiente enlace!

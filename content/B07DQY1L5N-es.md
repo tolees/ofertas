@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DQY1L5N/?tag=tolees-21'
 descuento: '28.46'
+average: '27.5'
 ---
 
 Está [MTNG Attitude 56406  Zapatillas para Mujer  Azul Nylon Marino/Grotto Natural/Rosa/Vertigo Taupe C43655  39 EU](https://www.amazon.es/dp/B07DQY1L5N/?tag=tolees-21) con 28.46 de descuento por 27.5 EUR (original: 38.44 EUR) en el siguiente enlace!

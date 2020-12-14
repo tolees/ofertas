@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GNTV9CC/?tag=tolees-21'
 descuento: '47.84'
+average: '16.69'
 ---
 
 Está [Hurley M Overspray Hat Gorras/Sombreros  Hombre  Black  1SIZE](https://www.amazon.es/dp/B07GNTV9CC/?tag=tolees-21) con 47.84 de descuento por 16.69 EUR (original: 32 EUR) en el siguiente enlace!

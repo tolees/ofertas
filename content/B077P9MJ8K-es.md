@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077P9MJ8K/?tag=tolees-21'
 descuento: '75.97'
+average: '24.02'
 ---
 
 Está [G-STAR RAW Scuba III  Zapatillas para Hombre  Azul  Swedish Blue 3048   41 EU](https://www.amazon.es/dp/B077P9MJ8K/?tag=tolees-21) con 75.97 de descuento por 24.02 EUR (original: 99.95 EUR) en el siguiente enlace!

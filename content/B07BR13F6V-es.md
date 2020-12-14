@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BR13F6V/?tag=tolees-21'
 descuento: '72.75'
+average: '27.24'
 ---
 
 Ahora mismo tienes [hummel Stadil Winter  Zapatillas Altas Unisex Adulto  Azul  Blue Wing Teal 1107   42 EU](https://www.amazon.es/dp/B07BR13F6V/?tag=tolees-21) a 27.24 EUR (original: 99.95 EUR) (72.75 %  de descuento) en el siguiente enlace!

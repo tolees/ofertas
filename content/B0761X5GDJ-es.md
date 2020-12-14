@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0761X5GDJ/?tag=tolees-21'
 descuento: '31.66'
+average: '41.97'
 ---
 
 Está [Nike Downshifter 8  Zapatillas de Running para Mujer  Negro  Black/White-Anthracite 001   36.5 EU](https://www.amazon.es/dp/B0761X5GDJ/?tag=tolees-21) con 31.66 de descuento por 41.97 EUR (original: 61.41 EUR) en el siguiente enlace!

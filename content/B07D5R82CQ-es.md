@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D5R82CQ/?tag=tolees-21'
 descuento: '82.39'
+average: '29.93'
 ---
 
 Está [Merrell Thermo Freeze WP  Zapatillas de Senderismo para Mujer  Gris Monument  40.5 EU](https://www.amazon.es/dp/B07D5R82CQ/?tag=tolees-21) con 82.39 de descuento por 29.93 EUR (original: 170 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JJ217MZ/?tag=tolees-21'
 descuento: '32.57'
+average: '67.43'
 ---
 
 Ahora mismo tienes [Armani Exchange Colour Block suéter  Negro  Black/White 02ar   X-Large para Hombre](https://www.amazon.es/dp/B07JJ217MZ/?tag=tolees-21) a 67.43 EUR (original: 100 EUR) (32.57 %  de descuento) en el siguiente enlace!

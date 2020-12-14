@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00SALPTUM/?tag=tolees-21'
 descuento: '44.23'
+average: '36.25'
 ---
 
 Tienes [Camper Wabi - Zapatillas de casa hombre  color gris  talla 40](https://www.amazon.es/dp/B00SALPTUM/?tag=tolees-21) con un 44.23 % de descuento con precio de oferta de 36.25 EUR (original: 65 EUR) en el siguiente enlace!

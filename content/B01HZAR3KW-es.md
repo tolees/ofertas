@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HZAR3KW/?tag=tolees-21'
 descuento: '69.96'
+average: '3.89'
 ---
 
 Está [Care Babi1  Bufanda Bebé-Niños  Rosa  Hot Pink   Talla única](https://www.amazon.es/dp/B01HZAR3KW/?tag=tolees-21) con 69.96 de descuento por 3.89 EUR (original: 12.95 EUR) en el siguiente enlace!

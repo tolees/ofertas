@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078HL64YV/?tag=tolees-21'
 descuento: '47.45'
+average: '15.76'
 ---
 
 Está [Springfield Cárdigan Chenilla Cárdigan  Mujer  Rojo  Gama Rojos   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B078HL64YV/?tag=tolees-21) con 47.45 de descuento por 15.76 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0754RZMR1/?tag=tolees-21'
 descuento: '63.28'
+average: '18.34'
 ---
 
 Ahora mismo tienes [Salomon Medium Impact Sujetador  Mujer  Naranja  Bird of Paradise   L](https://www.amazon.es/dp/B0754RZMR1/?tag=tolees-21) a 18.34 EUR (original: 49.95 EUR) (63.28 %  de descuento) en el siguiente enlace!

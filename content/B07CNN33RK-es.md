@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CNN33RK/?tag=tolees-21'
 descuento: '44.91'
+average: '26.99'
 ---
 
 Está [Guzack Termómetro Digital de Cocina  Profesional Termómetro Carne Inalámbrico Remoto con Temperatura de Alarma y 2 Sondas  para Barbacoa  Parrilla  Horno  Ahumador  Líquido](https://www.amazon.es/dp/B07CNN33RK/?tag=tolees-21) con 44.91 de descuento por 26.99 EUR (original: 48.99 EUR) en el siguiente enlace!

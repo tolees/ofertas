@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B015OD1HM2/?tag=tolees-21'
 descuento: '64.00'
+average: '28.8'
 ---
 
 Tienes [Puma Aril Blaze Geometric  Hombre Zapatillas  Azul  41 EU](https://www.amazon.es/dp/B015OD1HM2/?tag=tolees-21) con un 64.00 % de descuento con precio de oferta de 28.8 EUR (original: 80 EUR) en el siguiente enlace!

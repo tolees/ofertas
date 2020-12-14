@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DY375RK/?tag=tolees-21'
 descuento: '52.64'
+average: '10.42'
 ---
 
 Está [La Antigua Lavandera Spray Oxigeno Activo - 8 Recipientes de 750 ml - Total: 6000 ml](https://www.amazon.es/dp/B07DY375RK/?tag=tolees-21) con 52.64 de descuento por 10.42 EUR (original: 22 EUR) en el siguiente enlace!

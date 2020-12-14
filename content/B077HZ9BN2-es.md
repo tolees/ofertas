@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077HZ9BN2/?tag=tolees-21'
 descuento: '63.87'
+average: '5.78'
 ---
 
 Está [Sedeta Coche plumero cepillo Limpiador de microfibra para polvo de lavado Limpieza del hogar Lavado de Brusher Ventana de vidrio de oficina sofá](https://www.amazon.es/dp/B077HZ9BN2/?tag=tolees-21) con 63.87 de descuento por 5.78 EUR (original: 16 EUR) en el siguiente enlace!

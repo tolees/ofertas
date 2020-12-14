@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CVDFGDY/?tag=tolees-21'
 descuento: '30.01'
+average: '69.98'
 ---
 
 Está [AICOK Purificador de Aire Para el Hogar  Filtro de Aire con Filtro HEPA Verdadero  Ideal Para Fumadores  Polvo  con Luz Nocturna Opcional  Blanco](https://www.amazon.es/dp/B07CVDFGDY/?tag=tolees-21) con 30.01 de descuento por 69.98 EUR (original: 99.98 EUR) en el siguiente enlace!

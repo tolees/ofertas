@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003L0OYK8/?tag=tolees-21'
 descuento: '46.75'
+average: '12.22'
 ---
 
 Ahora mismo tienes [Oxo 1101980UKE - Pinzas con apertura automática  con puntas de silicona  30 5 cm ](https://www.amazon.es/dp/B003L0OYK8/?tag=tolees-21) a 12.22 EUR (original: 22.95 EUR) (46.75 %  de descuento) en el siguiente enlace!

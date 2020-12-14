@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DKLRV8M/?tag=tolees-21'
 descuento: '50.41'
+average: '27.25'
 ---
 
 Tienes [Puma ESS Hoody TR Big Logo Sweatshirt  Hombre  Black  XL](https://www.amazon.es/dp/B07DKLRV8M/?tag=tolees-21) con un 50.41 % de descuento con precio de oferta de 27.25 EUR (original: 54.95 EUR) en el siguiente enlace!

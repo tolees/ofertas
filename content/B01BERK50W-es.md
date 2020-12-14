@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BERK50W/?tag=tolees-21'
 descuento: '40.28'
+average: '106.89'
 ---
 
 Tienes [Lacoste 2010854 Westport - Reloj de pulsera analógico para hombre](https://www.amazon.es/dp/B01BERK50W/?tag=tolees-21) con un 40.28 % de descuento con precio de oferta de 106.89 EUR (original: 179 EUR) en el siguiente enlace!

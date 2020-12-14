@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9DHZFT/?tag=tolees-21'
 descuento: '62.40'
+average: '22.54'
 ---
 
 Está [Adidas VL Court 2.0  Zapatillas para Mujer  Negro Core Black/Silver Metallic 0  37 1/3 EU](https://www.amazon.es/dp/B07D9DHZFT/?tag=tolees-21) con 62.40 de descuento por 22.54 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ5QD77/?tag=tolees-21'
 descuento: '25.40'
+average: '55.95'
 ---
 
 Ahora mismo tienes [New Balance 500  Zapatillas para Hombre  Naranja  Iron Oxide/Hemp/North Sea Crn   41.5 EU](https://www.amazon.es/dp/B07DJ5QD77/?tag=tolees-21) a 55.95 EUR (original: 75 EUR) (25.40 %  de descuento) en el siguiente enlace!

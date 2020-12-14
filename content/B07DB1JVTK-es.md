@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DB1JVTK/?tag=tolees-21'
 descuento: '71.01'
+average: '31.87'
 ---
 
 Ahora mismo tienes [Puma Defy Luxe Wn s  Zapatillas de Deporte para Mujer  Blanco  Whisper White-Metallic Ash 02   39 EU](https://www.amazon.es/dp/B07DB1JVTK/?tag=tolees-21) a 31.87 EUR (original: 109.95 EUR) (71.01 %  de descuento) en el siguiente enlace!

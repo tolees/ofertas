@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074DJB63Q/?tag=tolees-21'
 descuento: '61.82'
+average: '19.09'
 ---
 
 Ahora mismo tienes [Diesel 00SV9U  Bañador para Hombre  Gris  Charcoal/Grey 97g   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B074DJB63Q/?tag=tolees-21) a 19.09 EUR (original: 50 EUR) (61.82 %  de descuento) en el siguiente enlace!

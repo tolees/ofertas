@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H87VW1W/?tag=tolees-21'
 descuento: '75.84'
+average: '28.99'
 ---
 
 Ahora mismo tienes [Finether Licuadora al Vacío 3 en 1  Licuadora para Verduras y Frutas  Antioxidante  Vidrio de Vacío de 1 5 L y Vasos de Plástico de 800 ML  500W  6 Cuchillas  5 Velocidades  21.000 r/min  sin BPA](https://www.amazon.es/dp/B07H87VW1W/?tag=tolees-21) a 28.99 EUR (original: 119.99 EUR) (75.84 %  de descuento) en el siguiente enlace!

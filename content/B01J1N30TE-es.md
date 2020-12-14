@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01J1N30TE/?tag=tolees-21'
 descuento: '39.17'
+average: '70.83'
 ---
 
 Ahora mismo tienes [Seagate Backup Plus Portable Slim - Disco duro externo de 2 TB](https://www.amazon.es/dp/B01J1N30TE/?tag=tolees-21) a 70.83 EUR (original: 116.44 EUR) (39.17 %  de descuento) en el siguiente enlace!

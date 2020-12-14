@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000XG4P8Y/?tag=tolees-21'
 descuento: '55.04'
+average: '33.7'
 ---
 
 Tienes [WMF Diadem Plus Olla Baja  Acero Inoxidable Pulido  16 cm](https://www.amazon.es/dp/B000XG4P8Y/?tag=tolees-21) con un 55.04 % de descuento con precio de oferta de 33.7 EUR (original: 74.95 EUR) en el siguiente enlace!

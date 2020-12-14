@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074SFXV1B/?tag=tolees-21'
 descuento: '50.82'
+average: '16.46'
 ---
 
 Tienes [Microscopios Infantiles  Microscopios Juguete 1200x 400x 100x  Microscopio de plástico  Pequeños Microscopio de la Ciencia para Estudiantes Niños 3 4 5 6 7 8](https://www.amazon.es/dp/B074SFXV1B/?tag=tolees-21) con un 50.82 % de descuento con precio de oferta de 16.46 EUR (original: 33.47 EUR) en el siguiente enlace!

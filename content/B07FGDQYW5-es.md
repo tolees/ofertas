@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FGDQYW5/?tag=tolees-21'
 descuento: '52.80'
+average: '40.12'
 ---
 
 Tienes [Mizuno Ezrun LX  Zapatillas para Hombre   Flame/Ombreblue/White 001   41 EU](https://www.amazon.es/dp/B07FGDQYW5/?tag=tolees-21) con un 52.80 % de descuento con precio de oferta de 40.12 EUR (original: 85 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00PAG1IQE/?tag=tolees-21'
 descuento: '63.10'
+average: '18.6'
 ---
 
 Está [Puma Universal II IT - Zapatillas Deportivas para Interior de Material sintético Hombre  Color Blanco  Talla 39](https://www.amazon.es/dp/B00PAG1IQE/?tag=tolees-21) con 63.10 de descuento por 18.6 EUR (original: 50.4 EUR) en el siguiente enlace!

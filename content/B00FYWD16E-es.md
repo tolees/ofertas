@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00FYWD16E/?tag=tolees-21'
 descuento: '30.78'
+average: '17.99'
 ---
 
 Está [Philips Satinelle HP6420/01 - Depiladora  2 velocidades](https://www.amazon.es/dp/B00FYWD16E/?tag=tolees-21) con 30.78 de descuento por 17.99 EUR (original: 25.99 EUR) en el siguiente enlace!

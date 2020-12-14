@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017TSQ4CS/?tag=tolees-21'
 descuento: '27.69'
+average: '50.62'
 ---
 
 Tienes [Nike Ebernon Mid  Zapatillas Altas para Mujer  Blanco White 100  38.5 EU](https://www.amazon.es/dp/B017TSQ4CS/?tag=tolees-21) con un 27.69 % de descuento con precio de oferta de 50.62 EUR (original: 70 EUR) en el siguiente enlace!

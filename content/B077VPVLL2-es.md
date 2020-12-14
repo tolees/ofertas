@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077VPVLL2/?tag=tolees-21'
 descuento: '47.62'
+average: '10.99'
 ---
 
 Está [KEXIN 16GB Memoria USB 2.0 Pendrive 16GB Flash Drive Memory Stick para Computadoras  Tabletas y Otros Dispositivos  Corazón Azul ](https://www.amazon.es/dp/B077VPVLL2/?tag=tolees-21) con 47.62 de descuento por 10.99 EUR (original: 20.98 EUR) en el siguiente enlace!

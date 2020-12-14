@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HC35QEM/?tag=tolees-21'
 descuento: '45.78'
+average: '37.9'
 ---
 
 Tienes [WeTek Hub Android y Smart TV box Bluetooth 4.0 Ultra HD 4k ultracompacto y discreto](https://www.amazon.es/dp/B01HC35QEM/?tag=tolees-21) con un 45.78 % de descuento con precio de oferta de 37.9 EUR (original: 69.9 EUR) en el siguiente enlace!

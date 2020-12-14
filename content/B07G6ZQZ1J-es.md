@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G6ZQZ1J/?tag=tolees-21'
 descuento: '32.93'
+average: '6.7'
 ---
 
 Ahora mismo tienes [Dove  Kit para baños - 5 piezas](https://www.amazon.es/dp/B07G6ZQZ1J/?tag=tolees-21) a 6.7 EUR (original: 9.99 EUR) (32.93 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01B1M3N3Q/?tag=tolees-21'
 descuento: '57.66'
+average: '295.99'
 ---
 
 Ahora mismo tienes [WMF Ambiente-Cubertería  66 Piezas  12 comensales   cromargan Protect  Color Plateado  Acero Inoxidable Pulido  Unidades](https://www.amazon.es/dp/B01B1M3N3Q/?tag=tolees-21) a 295.99 EUR (original: 699 EUR) (57.66 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00PY3NGZY/?tag=tolees-21'
 descuento: '88.47'
+average: '42.54'
 ---
 
 Tienes [Boudier & Cie Reloj analogico para Hombre de Cuarzo con Correa en Piel BC15SA3](https://www.amazon.es/dp/B00PY3NGZY/?tag=tolees-21) con un 88.47 % de descuento con precio de oferta de 42.54 EUR (original: 369 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0798LQHHZ/?tag=tolees-21'
 descuento: '39.78'
+average: '7.25'
 ---
 
 Tienes [Hawaiian Tropic AfterSun Air Soft - Loción Hidratante Ultra Ligera  Coco y Papaya](https://www.amazon.es/dp/B0798LQHHZ/?tag=tolees-21) con un 39.78 % de descuento con precio de oferta de 7.25 EUR (original: 12.04 EUR) en el siguiente enlace!

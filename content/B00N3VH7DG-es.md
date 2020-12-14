@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00N3VH7DG/?tag=tolees-21'
 descuento: '48.18'
+average: '7.98'
 ---
 
 Está [Duracell 123 High Power - Pilas especiales de litio de 6 V  CR123/CR123A/CR17345  diseñadas para su uso en sensores  cerraduras sin llave  flash de cámara y linternas  paquete de 2 unidades](https://www.amazon.es/dp/B00N3VH7DG/?tag=tolees-21) con 48.18 de descuento por 7.98 EUR (original: 15.4 EUR) en el siguiente enlace!

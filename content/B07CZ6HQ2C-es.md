@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ6HQ2C/?tag=tolees-21'
 descuento: '84.54'
+average: '26.29'
 ---
 
 Tienes [Asics Gel-kenun Knit MX  Zapatillas de Entrenamiento para Mujer  Negro Black 001  36 EU](https://www.amazon.es/dp/B07CZ6HQ2C/?tag=tolees-21) con un 84.54 % de descuento con precio de oferta de 26.29 EUR (original: 170 EUR) en el siguiente enlace!

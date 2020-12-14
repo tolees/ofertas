@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KSQPTNH/?tag=tolees-21'
 descuento: '40.02'
+average: '11.99'
 ---
 
 Está [Under Armour UA Women s Essential NS Calcetines  Mujer  Azul  Petrol Blue/Fuse Teal   M](https://www.amazon.es/dp/B07KSQPTNH/?tag=tolees-21) con 40.02 de descuento por 11.99 EUR (original: 19.99 EUR) en el siguiente enlace!

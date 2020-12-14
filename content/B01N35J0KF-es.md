@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N35J0KF/?tag=tolees-21'
 descuento: '57.66'
+average: '12.68'
 ---
 
 Tienes [XTI 030603  Bailarinas con Punta Cerrada para Mujer  Rosa  Nude   38 EU](https://www.amazon.es/dp/B01N35J0KF/?tag=tolees-21) con un 57.66 % de descuento con precio de oferta de 12.68 EUR (original: 29.95 EUR) en el siguiente enlace!

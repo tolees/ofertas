@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B015IQP83E/?tag=tolees-21'
 descuento: '26.80'
+average: '80.51'
 ---
 
 Ahora mismo tienes [Roccat Isku FX - Teclado Gaming  iluminación  Color Blanco](https://www.amazon.es/dp/B015IQP83E/?tag=tolees-21) a 80.51 EUR (original: 109.99 EUR) (26.80 %  de descuento) en el siguiente enlace!

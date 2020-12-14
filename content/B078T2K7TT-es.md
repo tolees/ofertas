@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078T2K7TT/?tag=tolees-21'
 descuento: '76.55'
+average: '10.55'
 ---
 
 Tienes [Women’secret Bañador Bañador  Mujer  Beige  Beige/Camel 54   38  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B078T2K7TT/?tag=tolees-21) con un 76.55 % de descuento con precio de oferta de 10.55 EUR (original: 44.99 EUR) en el siguiente enlace!

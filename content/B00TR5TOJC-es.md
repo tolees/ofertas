@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TR5TOJC/?tag=tolees-21'
 descuento: '45.43'
+average: '8.18'
 ---
 
 Ahora mismo tienes [Funko Pop! - Vinyl Who: 10th Doctor  4627](https://www.amazon.es/dp/B00TR5TOJC/?tag=tolees-21) a 8.18 EUR (original: 14.99 EUR) (45.43 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00FRD8KNE/?tag=tolees-21'
 descuento: '38.71'
+average: '14.44'
 ---
 
 Ahora mismo tienes [L Oréal Professionnel Expert - Liss Unlimited Keratinoil Complex - Champú alisador intenso de 4 días para cabellos rebeldes - 500 ml](https://www.amazon.es/dp/B00FRD8KNE/?tag=tolees-21) a 14.44 EUR (original: 23.56 EUR) (38.71 %  de descuento) en el siguiente enlace!

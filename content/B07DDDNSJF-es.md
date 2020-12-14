@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DDDNSJF/?tag=tolees-21'
 descuento: '70.02'
+average: '11.99'
 ---
 
 Está [Mini Auricular Bluetooth  4.1 Auricular Invisible Bluetooth In Ear Auriculare con Ligero  4g   Trabajo 10h  Cancelación de Ruido y Conector Magnético Inalámbrico para Coche y IPhone Samsung Huawei](https://www.amazon.es/dp/B07DDDNSJF/?tag=tolees-21) con 70.02 de descuento por 11.99 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0785GNVLY/?tag=tolees-21'
 descuento: '54.84'
+average: '67.71'
 ---
 
 Ahora mismo tienes [Gore Wear 100336 Culote  Hombre  Negro  XL](https://www.amazon.es/dp/B0785GNVLY/?tag=tolees-21) a 67.71 EUR (original: 149.95 EUR) (54.84 %  de descuento) en el siguiente enlace!

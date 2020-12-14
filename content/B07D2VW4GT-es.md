@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D2VW4GT/?tag=tolees-21'
 descuento: '48.78'
+average: '30.73'
 ---
 
 Está [Mizuno Ezrun  Zapatillas de Running para Mujer  Rojo  Fierycoral/Ombreblue/White 36  38.5 EU](https://www.amazon.es/dp/B07D2VW4GT/?tag=tolees-21) con 48.78 de descuento por 30.73 EUR (original: 60 EUR) en el siguiente enlace!

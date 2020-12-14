@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B011M0R0OK/?tag=tolees-21'
 descuento: '34.71'
+average: '92.87'
 ---
 
 Ahora mismo tienes [Kotobukiya  1:6 Scale   The Flash   Artfx Statue  Red/Yellow ](https://www.amazon.es/dp/B011M0R0OK/?tag=tolees-21) a 92.87 EUR (original: 142.25 EUR) (34.71 %  de descuento) en el siguiente enlace!

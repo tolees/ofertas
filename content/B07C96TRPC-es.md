@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C96TRPC/?tag=tolees-21'
 descuento: '45.01'
+average: '32.99'
 ---
 
 Está [Auriculares Bluetooth  BARA E3 Auriculares Inalámbricos 4.1 Deportivos  Cancelación de Ruido  Tecnología APTX Avanzada  Impermeable IPX6  para iPhone  iPad  Huawei  Samsung etc  Rojo ](https://www.amazon.es/dp/B07C96TRPC/?tag=tolees-21) con 45.01 de descuento por 32.99 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DCWKT3A/?tag=tolees-21'
 descuento: '52.02'
+average: '11.99'
 ---
 
 Está [PREUP Funda Kindle Paperwhite de Cuero Sintético Cierre Magnético Ultra Delgado - compatible con de Kindle Paperwhite 1/2/ 3  No se adapta a 10.ª generación 2018 ](https://www.amazon.es/dp/B01DCWKT3A/?tag=tolees-21) con 52.02 de descuento por 11.99 EUR (original: 24.99 EUR) en el siguiente enlace!

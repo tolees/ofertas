@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00EE79S2Q/?tag=tolees-21'
 descuento: '64.80'
+average: '15'
 ---
 
 Tienes [Triumph Amourette Spotlight WHP  Sujetador balconette Para Mujer  Blanco  95D  Talla fabricante: 36D ](https://www.amazon.es/dp/B00EE79S2Q/?tag=tolees-21) con un 64.80 % de descuento con precio de oferta de 15 EUR (original: 42.61 EUR) en el siguiente enlace!

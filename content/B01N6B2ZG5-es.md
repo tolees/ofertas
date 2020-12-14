@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N6B2ZG5/?tag=tolees-21'
 descuento: '45.68'
+average: '54.32'
 ---
 
 Ahora mismo tienes [Levi s 501 Ct Jeans For Women  Mujer  Azul  Turbulent Indigo   W32/L34  Talla del fabricante: 32/34 ](https://www.amazon.es/dp/B01N6B2ZG5/?tag=tolees-21) a 54.32 EUR (original: 100 EUR) (45.68 %  de descuento) en el siguiente enlace!

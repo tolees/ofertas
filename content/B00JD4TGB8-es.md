@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00JD4TGB8/?tag=tolees-21'
 descuento: '27.69'
+average: '144.58'
 ---
 
 Tienes [TomTom Runner Cardio - Reloj GPS para running  color blanco/rojo  talla M](https://www.amazon.es/dp/B00JD4TGB8/?tag=tolees-21) con un 27.69 % de descuento con precio de oferta de 144.58 EUR (original: 199.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0087BKKCW/?tag=tolees-21'
 descuento: '34.46'
+average: '231.31'
 ---
 
 Tienes [Zeno Watch Basel 6221Q-a15 - Reloj analógico de Cuarzo para Hombre con Correa de Piel  Color Negro](https://www.amazon.es/dp/B0087BKKCW/?tag=tolees-21) con un 34.46 % de descuento con precio de oferta de 231.31 EUR (original: 352.92 EUR) en el siguiente enlace!

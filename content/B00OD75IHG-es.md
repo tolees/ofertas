@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00OD75IHG/?tag=tolees-21'
 descuento: '43.95'
+average: '25'
 ---
 
 Tienes [Divoom Air Beat 20  Altavoz portatil  3.5"  Bluetooth 3.0  microfono  manos libres   color rojo](https://www.amazon.es/dp/B00OD75IHG/?tag=tolees-21) con un 43.95 % de descuento con precio de oferta de 25 EUR (original: 44.6 EUR) en el siguiente enlace!

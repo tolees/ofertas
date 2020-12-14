@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NW3WNK6/?tag=tolees-21'
 descuento: '34.49'
+average: '18.99'
 ---
 
 Está [Reproductor Grabadora CD DVD Externo Portatil USB 3.0 Grabadora de Quemador Lector de CD DVD Externo Disco para PC Windows7/8/10 Linux Mac OS](https://www.amazon.es/dp/B07NW3WNK6/?tag=tolees-21) con 34.49 de descuento por 18.99 EUR (original: 28.99 EUR) en el siguiente enlace!

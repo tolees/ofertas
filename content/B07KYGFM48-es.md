@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KYGFM48/?tag=tolees-21'
 descuento: '72.54'
+average: '10.98'
 ---
 
 Está [Esprit Accessoires - 019ea1o041  Bolsos bandolera Mujer  Gris  Ice   7.5x20x20 cm  B x H T ](https://www.amazon.es/dp/B07KYGFM48/?tag=tolees-21) con 72.54 de descuento por 10.98 EUR (original: 39.99 EUR) en el siguiente enlace!

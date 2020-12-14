@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F6JCHQ4/?tag=tolees-21'
 descuento: '56.18'
+average: '69.99'
 ---
 
 Ahora mismo tienes [Ballistix Sport AT BLS16G4D26BFST - Memoria DDR4 de 16 GB para Juegos  2666 MT/s  PC4-21300  Dual Rank x8  DIMM  288-Pin ](https://www.amazon.es/dp/B07F6JCHQ4/?tag=tolees-21) a 69.99 EUR (original: 159.71 EUR) (56.18 %  de descuento) en el siguiente enlace!

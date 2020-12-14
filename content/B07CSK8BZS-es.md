@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CSK8BZS/?tag=tolees-21'
 descuento: '29.95'
+average: '49'
 ---
 
 Tienes [Skechers Harsen-Ortego  Mocasines para Hombre  Marrón  Brown CDB   40 EU](https://www.amazon.es/dp/B07CSK8BZS/?tag=tolees-21) con un 29.95 % de descuento con precio de oferta de 49 EUR (original: 69.95 EUR) en el siguiente enlace!

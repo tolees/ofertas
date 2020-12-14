@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N7QTOMD/?tag=tolees-21'
 descuento: '65.40'
+average: '19.26'
 ---
 
 Ahora mismo tienes [O  Neill Active Print 7/8 Leggings  Primavera/Verano  Mujer  Color Black AOP  tamaño L](https://www.amazon.es/dp/B01N7QTOMD/?tag=tolees-21) a 19.26 EUR (original: 55.67 EUR) (65.40 %  de descuento) en el siguiente enlace!

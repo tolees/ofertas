@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCN45W9/?tag=tolees-21'
 descuento: '49.60'
+average: '63.51'
 ---
 
 Está [Nike Air Huarache Run PRM  Zapatillas de Gimnasia para Hombre  Beige  Wheat Lt Bone/Ale Brown/Black 700   42 EU](https://www.amazon.es/dp/B07DCN45W9/?tag=tolees-21) con 49.60 de descuento por 63.51 EUR (original: 126 EUR) en el siguiente enlace!

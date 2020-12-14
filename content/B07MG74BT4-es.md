@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MG74BT4/?tag=tolees-21'
 descuento: '70.35'
+average: '35.57'
 ---
 
 Está [G-Star Raw 3301 Straight  Jeans Dritto Uomo  Nero  Medium Aged 9882-071   W40/L32](https://www.amazon.es/dp/B07MG74BT4/?tag=tolees-21) con 70.35 de descuento por 35.57 EUR (original: 119.95 EUR) en el siguiente enlace!

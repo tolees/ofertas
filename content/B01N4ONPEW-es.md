@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N4ONPEW/?tag=tolees-21'
 descuento: '45.17'
+average: '82.25'
 ---
 
 Ahora mismo tienes [Helly Hansen Pier 2 Pant Bib  Hombre  Navy  XL](https://www.amazon.es/dp/B01N4ONPEW/?tag=tolees-21) a 82.25 EUR (original: 150 EUR) (45.17 %  de descuento) en el siguiente enlace!

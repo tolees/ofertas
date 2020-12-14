@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FJ4UM9A/?tag=tolees-21'
 descuento: '27.69'
+average: '167'
 ---
 
 Ahora mismo tienes [Kingston SSDNow UV400 - Disco Duro sólido de 480 GB  2.5"  SATA 3  Unidad Independiente ](https://www.amazon.es/dp/B01FJ4UM9A/?tag=tolees-21) a 167 EUR (original: 230.95 EUR) (27.69 %  de descuento) en el siguiente enlace!

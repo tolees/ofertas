@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BC3YBF3/?tag=tolees-21'
 descuento: '51.14'
+average: '48.81'
 ---
 
 Está [BigBen Interactive TW11LASER - Pack de un Torre Multimedia con Laser y 2 micrófonos  Color Negro](https://www.amazon.es/dp/B07BC3YBF3/?tag=tolees-21) con 51.14 de descuento por 48.81 EUR (original: 99.9 EUR) en el siguiente enlace!

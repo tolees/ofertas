@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQB1TZN/?tag=tolees-21'
 descuento: '44.09'
+average: '27.95'
 ---
 
 Ahora mismo tienes [JACK & JONES Jjimarco Jjcharles AKM 570 Black STS Pantalones  W32/L34 para Hombre](https://www.amazon.es/dp/B07FQB1TZN/?tag=tolees-21) a 27.95 EUR (original: 49.99 EUR) (44.09 %  de descuento) en el siguiente enlace!

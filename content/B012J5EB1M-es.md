@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B012J5EB1M/?tag=tolees-21'
 descuento: '50.05'
+average: '54.94'
 ---
 
 Tienes [Nike 844752  Zapatillas de Deporte para Hombre  Negro Black/White/Vachetta Tan  42 EU](https://www.amazon.es/dp/B012J5EB1M/?tag=tolees-21) con un 50.05 % de descuento con precio de oferta de 54.94 EUR (original: 110 EUR) en el siguiente enlace!

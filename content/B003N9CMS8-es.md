@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003N9CMS8/?tag=tolees-21'
 descuento: '53.75'
+average: '7.4'
 ---
 
 Ahora mismo tienes [Curver 182004 Contenedor para Pienso de 1.5 Kg  Resina  Blanco  30x25x10 cm](https://www.amazon.es/dp/B003N9CMS8/?tag=tolees-21) a 7.4 EUR (original: 16 EUR) (53.75 %  de descuento) en el siguiente enlace!

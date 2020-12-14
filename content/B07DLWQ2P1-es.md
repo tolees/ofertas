@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLWQ2P1/?tag=tolees-21'
 descuento: '70.47'
+average: '12.99'
 ---
 
 Está [Linterna Led Alta Potencia  Linterna de Mano con 4 Modos  Linterna Táctica 500LM  Linterna Led Recargable para Ciclismo Camping Montañismo incluida 3 AAA Pilas](https://www.amazon.es/dp/B07DLWQ2P1/?tag=tolees-21) con 70.47 de descuento por 12.99 EUR (original: 43.99 EUR) en el siguiente enlace!

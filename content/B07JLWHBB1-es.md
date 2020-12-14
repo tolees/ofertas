@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JLWHBB1/?tag=tolees-21'
 descuento: '33.33'
+average: '0.1'
 ---
 
 Ahora mismo tienes [Formulaone Pegatinas de manija de Puerta de Coche Invisible Universal Película Protectora para automóvil - Blanco](https://www.amazon.es/dp/B07JLWHBB1/?tag=tolees-21) a 0.1 EUR (original: 0.15 EUR) (33.33 %  de descuento) en el siguiente enlace!

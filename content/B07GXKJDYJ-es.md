@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GXKJDYJ/?tag=tolees-21'
 descuento: '56.77'
+average: '15.99'
 ---
 
 Está [CMXING Botella De Agua 500 mL & 750 mL de Doble Pared con Aislamiento de Botella de Agua de Acero Inoxidable  Verde + Amarillo + Azul  500ml ](https://www.amazon.es/dp/B07GXKJDYJ/?tag=tolees-21) con 56.77 de descuento por 15.99 EUR (original: 36.99 EUR) en el siguiente enlace!

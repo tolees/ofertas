@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0788BNKGH/?tag=tolees-21'
 descuento: '39.13'
+average: '140'
 ---
 
 Ahora mismo tienes [Ariston 3700497 Termo Eléctrico 1800 W  220 V  Slim 80 l](https://www.amazon.es/dp/B0788BNKGH/?tag=tolees-21) a 140 EUR (original: 230 EUR) (39.13 %  de descuento) en el siguiente enlace!

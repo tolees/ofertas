@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00BN83WOO/?tag=tolees-21'
 descuento: '60.80'
+average: '78'
 ---
 
 Ahora mismo tienes [Nokia Lumia 520 - Smartphone libre Windows Phone  pantalla 4"  cámara 5 Mp  8 GB  Dual-Core 1 GHz  512 MB RAM   negro [importado]](https://www.amazon.es/dp/B00BN83WOO/?tag=tolees-21) a 78 EUR (original: 199 EUR) (60.80 %  de descuento) en el siguiente enlace!

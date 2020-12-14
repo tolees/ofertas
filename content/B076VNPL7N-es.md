@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076VNPL7N/?tag=tolees-21'
 descuento: '58.91'
+average: '30.82'
 ---
 
 Ahora mismo tienes [Under Armour Remix Fw18  Zapatillas de Running para Hombre  Negro Steel/Black 001  42.5 EU](https://www.amazon.es/dp/B076VNPL7N/?tag=tolees-21) a 30.82 EUR (original: 75 EUR) (58.91 %  de descuento) en el siguiente enlace!

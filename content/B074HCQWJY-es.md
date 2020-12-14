@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074HCQWJY/?tag=tolees-21'
 descuento: '32.75'
+average: '59.98'
 ---
 
 Ahora mismo tienes [Podspeakers Micropod SE MK III - Altavoz inalámbrico  Negro Mate](https://www.amazon.es/dp/B074HCQWJY/?tag=tolees-21) a 59.98 EUR (original: 89.19 EUR) (32.75 %  de descuento) en el siguiente enlace!

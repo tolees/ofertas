@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00HZDNEEO/?tag=tolees-21'
 descuento: '32.86'
+average: '13.36'
 ---
 
 Tienes [Tribe Disney Marvel Avengers Captain America - Memoria USB 2.0 de 8 GB Pendrive Flash Drive de Goma con Llavero  Color Azul](https://www.amazon.es/dp/B00HZDNEEO/?tag=tolees-21) con un 32.86 % de descuento con precio de oferta de 13.36 EUR (original: 19.9 EUR) en el siguiente enlace!

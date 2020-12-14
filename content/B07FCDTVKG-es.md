@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FCDTVKG/?tag=tolees-21'
 descuento: '69.72'
+average: '45.41'
 ---
 
 Está [Reebok Floatride Run Flexweave  Zapatillas de Cross para Hombre   White/Blue Move/Atomic Red 000   42 EU](https://www.amazon.es/dp/B07FCDTVKG/?tag=tolees-21) con 69.72 de descuento por 45.41 EUR (original: 149.95 EUR) en el siguiente enlace!

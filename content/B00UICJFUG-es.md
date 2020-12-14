@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00UICJFUG/?tag=tolees-21'
 descuento: '51.02'
+average: '6'
 ---
 
 Tienes [Érase Una Vez En China I Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B00UICJFUG/?tag=tolees-21) con un 51.02 % de descuento con precio de oferta de 6 EUR (original: 12.25 EUR) en el siguiente enlace!

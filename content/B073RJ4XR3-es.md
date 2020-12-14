@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073RJ4XR3/?tag=tolees-21'
 descuento: '59.40'
+average: '22.31'
 ---
 
 Ahora mismo tienes [Reebok Royal Classic Jogger 2  Zapatillas para Mujer  Blanco  White/Skull Flint Grey/Bright Emerald/Black   36 EU](https://www.amazon.es/dp/B073RJ4XR3/?tag=tolees-21) a 22.31 EUR (original: 54.95 EUR) (59.40 %  de descuento) en el siguiente enlace!

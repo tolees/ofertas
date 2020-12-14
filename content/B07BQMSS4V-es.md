@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BQMSS4V/?tag=tolees-21'
 descuento: '62.13'
+average: '24.99'
 ---
 
 Ahora mismo tienes [Recoil - Pistola Spitfire RK45  Juego de Pistolas Laser por GPS   90517 ](https://www.amazon.es/dp/B07BQMSS4V/?tag=tolees-21) a 24.99 EUR (original: 65.99 EUR) (62.13 %  de descuento) en el siguiente enlace!

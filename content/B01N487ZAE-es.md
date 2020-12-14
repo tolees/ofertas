@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N487ZAE/?tag=tolees-21'
 descuento: '26.42'
+average: '38.99'
 ---
 
 Ahora mismo tienes [Campark® 4k WiFi Ultra HD Resistente al Agua Cámara de Acción Deportiva Temporizador y Grabación en Cámara Lenta Cámara de Casco Amplio Ángulo de Visión 170 DVR Videocámara](https://www.amazon.es/dp/B01N487ZAE/?tag=tolees-21) a 38.99 EUR (original: 52.99 EUR) (26.42 %  de descuento) en el siguiente enlace!

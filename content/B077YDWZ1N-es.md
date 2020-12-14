@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077YDWZ1N/?tag=tolees-21'
 descuento: '58.75'
+average: '6.58'
 ---
 
 Tienes [HIKARO AMA SHIPLEY camisetas  Azul  Aqua   42  Talla del fabricante: Large ](https://www.amazon.es/dp/B077YDWZ1N/?tag=tolees-21) con un 58.75 % de descuento con precio de oferta de 6.58 EUR (original: 15.95 EUR) en el siguiente enlace!

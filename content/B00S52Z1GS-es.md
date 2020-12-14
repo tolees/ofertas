@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00S52Z1GS/?tag=tolees-21'
 descuento: '41.97'
+average: '40.59'
 ---
 
 Ahora mismo tienes [Smartwares 10.014.72  BB6  Extintor-6kg Polvo seco Resistencia al Fuego ABC Incluye Soportes  Rojo](https://www.amazon.es/dp/B00S52Z1GS/?tag=tolees-21) a 40.59 EUR (original: 69.95 EUR) (41.97 %  de descuento) en el siguiente enlace!

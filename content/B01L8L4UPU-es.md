@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01L8L4UPU/?tag=tolees-21'
 descuento: '34.99'
+average: '39'
 ---
 
 Está [CamelBak 1121602900 Bolsa de hidratación  Unisex Adulto  aplicable](https://www.amazon.es/dp/B01L8L4UPU/?tag=tolees-21) con 34.99 de descuento por 39 EUR (original: 59.99 EUR) en el siguiente enlace!

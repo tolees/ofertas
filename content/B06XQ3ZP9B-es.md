@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XQ3ZP9B/?tag=tolees-21'
 descuento: '65.26'
+average: '24.3'
 ---
 
 Tienes [Desigual Jers_pullover - Suéter para Mujer  Negro  Small](https://www.amazon.es/dp/B06XQ3ZP9B/?tag=tolees-21) con un 65.26 % de descuento con precio de oferta de 24.3 EUR (original: 69.95 EUR) en el siguiente enlace!

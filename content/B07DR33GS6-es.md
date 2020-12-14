@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DR33GS6/?tag=tolees-21'
 descuento: '56.76'
+average: '21.6'
 ---
 
 Está [hummel Choice  Zapatillas Unisex Adulto  Gris  Alloy 1100   37 EU](https://www.amazon.es/dp/B07DR33GS6/?tag=tolees-21) con 56.76 de descuento por 21.6 EUR (original: 49.95 EUR) en el siguiente enlace!

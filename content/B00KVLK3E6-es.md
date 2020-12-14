@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00KVLK3E6/?tag=tolees-21'
 descuento: '27.97'
+average: '164.95'
 ---
 
 Tienes [Keter -  Conjunto de jardin de 4 plazas Tarifa Lounge con cojines incluidos  Color marrón](https://www.amazon.es/dp/B00KVLK3E6/?tag=tolees-21) con un 27.97 % de descuento con precio de oferta de 164.95 EUR (original: 229 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MM5WSVC/?tag=tolees-21'
 descuento: '58.41'
+average: '41.59'
 ---
 
 Tienes [Westt® Storm · Casco Moto Integral Motocicleta Ciclomotor y Scooter en Negro Mate · Cascos de Moto Integrales Mujer y Hombre - ECE Homologado](https://www.amazon.es/dp/B07MM5WSVC/?tag=tolees-21) con un 58.41 % de descuento con precio de oferta de 41.59 EUR (original: 100 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M8SZGZX/?tag=tolees-21'
 descuento: '65.02'
+average: '13.99'
 ---
 
 Tienes [Calcetines deportivos de alto rendimiento para hombres y mujeres  circulación y recuperación  deportes  viajes  correr  caminar  caminar  disipación de calor y absorción de sudor  15-20 mmHg](https://www.amazon.es/dp/B07M8SZGZX/?tag=tolees-21) con un 65.02 % de descuento con precio de oferta de 13.99 EUR (original: 39.99 EUR) en el siguiente enlace!

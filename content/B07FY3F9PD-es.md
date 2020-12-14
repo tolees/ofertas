@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FY3F9PD/?tag=tolees-21'
 descuento: '71.45'
+average: '9.99'
 ---
 
 Está [Otterbox Symmetry Clear - Funda Anti caídas Fina para iPhone XR  Transparente](https://www.amazon.es/dp/B07FY3F9PD/?tag=tolees-21) con 71.45 de descuento por 9.99 EUR (original: 34.99 EUR) en el siguiente enlace!

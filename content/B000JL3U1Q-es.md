@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000JL3U1Q/?tag=tolees-21'
 descuento: '64.99'
+average: '20.2'
 ---
 
 Está [Vera Wang Princess Perfume Mujer - 50 ml](https://www.amazon.es/dp/B000JL3U1Q/?tag=tolees-21) con 64.99 de descuento por 20.2 EUR (original: 57.7 EUR) en el siguiente enlace!

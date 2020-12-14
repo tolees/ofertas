@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077TWDKY9/?tag=tolees-21'
 descuento: '47.97'
+average: '41.6'
 ---
 
 Ahora mismo tienes [Reebok Sprint TR  Zapatillas de Deporte para Hombre  Azul  Collegiate Navy/Cloud Grey/Acid Blue 000   42 EU](https://www.amazon.es/dp/B077TWDKY9/?tag=tolees-21) a 41.6 EUR (original: 79.95 EUR) (47.97 %  de descuento) en el siguiente enlace!

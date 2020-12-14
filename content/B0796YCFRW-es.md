@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0796YCFRW/?tag=tolees-21'
 descuento: '54.78'
+average: '31.63'
 ---
 
 Está [Skechers Empire-Dream World  Zapatillas para Mujer  Negro  Black BBK   38 EU](https://www.amazon.es/dp/B0796YCFRW/?tag=tolees-21) con 54.78 de descuento por 31.63 EUR (original: 69.95 EUR) en el siguiente enlace!

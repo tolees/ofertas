@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B009M2NJNW/?tag=tolees-21'
 descuento: '65.14'
+average: '371.3'
 ---
 
 Ahora mismo tienes [Kartell Mobil Contenedores  Acero  Naranja  67x74x85 cm](https://www.amazon.es/dp/B009M2NJNW/?tag=tolees-21) a 371.3 EUR (original: 1065 EUR) (65.14 %  de descuento) en el siguiente enlace!

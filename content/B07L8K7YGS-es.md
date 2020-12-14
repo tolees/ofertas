@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L8K7YGS/?tag=tolees-21'
 descuento: '50.88'
+average: '139.99'
 ---
 
 Está [Klarstein Cool Kid Nevera de bebidas • Mininevera • Minibar • 66 litros de capacidad • 42 db • Congelador de 4 litros • 2 baldas • Para solteros y casas pequeñas • Acero inoxidable • Plateado](https://www.amazon.es/dp/B07L8K7YGS/?tag=tolees-21) con 50.88 de descuento por 139.99 EUR (original: 284.99 EUR) en el siguiente enlace!

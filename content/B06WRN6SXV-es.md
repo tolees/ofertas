@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06WRN6SXV/?tag=tolees-21'
 descuento: '63.68'
+average: '30.87'
 ---
 
 Tienes [El Ganso Caja Alta  Pantalones Para Hombre  Beige  Beige   44](https://www.amazon.es/dp/B06WRN6SXV/?tag=tolees-21) con un 63.68 % de descuento con precio de oferta de 30.87 EUR (original: 85 EUR) en el siguiente enlace!

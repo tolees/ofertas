@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FM8J3BQ/?tag=tolees-21'
 descuento: '36.37'
+average: '34.99'
 ---
 
 Tienes [ENKEEO Electroestimulador Abdominales Unisex Control Remoto USB Recargable  6 Modos y 10 Niveles de Intensidad  con 10 Pzs Almohadillas de Gel  Baterias y Cable USB incluidos](https://www.amazon.es/dp/B07FM8J3BQ/?tag=tolees-21) con un 36.37 % de descuento con precio de oferta de 34.99 EUR (original: 54.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BZ188RK/?tag=tolees-21'
 descuento: '38.15'
+average: '5.95'
 ---
 
 Tienes [AQUA CONTROL Pistola bimateria con 8 Formas de riego C2117](https://www.amazon.es/dp/B07BZ188RK/?tag=tolees-21) con un 38.15 % de descuento con precio de oferta de 5.95 EUR (original: 9.62 EUR) en el siguiente enlace!

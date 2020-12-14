@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F2SRMG5/?tag=tolees-21'
 descuento: '32.06'
+average: '16.95'
 ---
 
 Ahora mismo tienes [adidas Finale18fcb Cpt Ball  Machine-Stitched   Hombre  White/Silver Met./Raw Steel s18/utility Blue  5](https://www.amazon.es/dp/B07F2SRMG5/?tag=tolees-21) a 16.95 EUR (original: 24.95 EUR) (32.06 %  de descuento) en el siguiente enlace!

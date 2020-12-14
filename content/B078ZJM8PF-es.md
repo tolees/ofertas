@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078ZJM8PF/?tag=tolees-21'
 descuento: '69.78'
+average: '27.17'
 ---
 
 Ahora mismo tienes [Supra Factor  Zapatillas para Hombre  Blanco Black-White 169  43 EU](https://www.amazon.es/dp/B078ZJM8PF/?tag=tolees-21) a 27.17 EUR (original: 89.9 EUR) (69.78 %  de descuento) en el siguiente enlace!

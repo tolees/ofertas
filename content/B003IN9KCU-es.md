@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003IN9KCU/?tag=tolees-21'
 descuento: '28.31'
+average: '17.35'
 ---
 
 Tienes [Sub Sports Dual Base Layer Kurzarm - Prenda  Color Rojo/Blanco  Talla XL](https://www.amazon.es/dp/B003IN9KCU/?tag=tolees-21) con un 28.31 % de descuento con precio de oferta de 17.35 EUR (original: 24.2 EUR) en el siguiente enlace!

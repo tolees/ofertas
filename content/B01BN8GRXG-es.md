@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BN8GRXG/?tag=tolees-21'
 descuento: '43.54'
+average: '84.12'
 ---
 
 Tienes [Lacoste 2010842 - Reloj analógico de pulsera para hombre  correa de silicona](https://www.amazon.es/dp/B01BN8GRXG/?tag=tolees-21) con un 43.54 % de descuento con precio de oferta de 84.12 EUR (original: 149 EUR) en el siguiente enlace!

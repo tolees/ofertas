@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GYFVK8H/?tag=tolees-21'
 descuento: '47.72'
+average: '47.03'
 ---
 
 Tienes [bugatti 311450604000  Mocasines para Hombre  Negro  Schwarz 1000   43 EU](https://www.amazon.es/dp/B07GYFVK8H/?tag=tolees-21) con un 47.72 % de descuento con precio de oferta de 47.03 EUR (original: 89.95 EUR) en el siguiente enlace!

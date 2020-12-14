@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00ANKWI0C/?tag=tolees-21'
 descuento: '51.03'
+average: '22.75'
 ---
 
 Tienes [Cesta de regalo para él ~ Super Rich Man EDT Pour Homme 100 ml para él + regalo gratis para hombre correa de piel genuina regalo envuelto cesta de regalo para él.](https://www.amazon.es/dp/B00ANKWI0C/?tag=tolees-21) con un 51.03 % de descuento con precio de oferta de 22.75 EUR (original: 46.46 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B019MFNO2Y/?tag=tolees-21'
 descuento: '30.23'
+average: '31.39'
 ---
 
 Tienes [Rollei Actioncam Accesorios Set Outdoor | Set de 23 piezas | Ideal para escalada  senderismo y otras actividades al aire libre | Para Rollei Actioncams y GoPro](https://www.amazon.es/dp/B019MFNO2Y/?tag=tolees-21) con un 30.23 % de descuento con precio de oferta de 31.39 EUR (original: 44.99 EUR) en el siguiente enlace!

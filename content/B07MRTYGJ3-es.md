@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MRTYGJ3/?tag=tolees-21'
 descuento: '30.10'
+average: '45.4'
 ---
 
 Está [Skechers Relven-Arkson  Zapatillas para Hombre  Negro  Black Black   41.5 EU](https://www.amazon.es/dp/B07MRTYGJ3/?tag=tolees-21) con 30.10 de descuento por 45.4 EUR (original: 64.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01K3X1OLW/?tag=tolees-21'
 descuento: '66.96'
+average: '46.6'
 ---
 
 Ahora mismo tienes [Danish Design Reloj Analogico para Unisex de Cuarzo con Correa en Acero Inoxidable IQ12Q1189](https://www.amazon.es/dp/B01K3X1OLW/?tag=tolees-21) a 46.6 EUR (original: 141.05 EUR) (66.96 %  de descuento) en el siguiente enlace!

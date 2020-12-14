@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TZA7TXW/?tag=tolees-21'
 descuento: '72.73'
+average: '7.95'
 ---
 
 Está [Kempa Emotion Shorts Pantalones cortos  Hombre  Azul Marino  2XS/XS](https://www.amazon.es/dp/B00TZA7TXW/?tag=tolees-21) con 72.73 de descuento por 7.95 EUR (original: 29.15 EUR) en el siguiente enlace!

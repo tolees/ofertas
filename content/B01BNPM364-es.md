@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BNPM364/?tag=tolees-21'
 descuento: '53.50'
+average: '8.37'
 ---
 
 Ahora mismo tienes [BRUMMEL COUPE 125 ML](https://www.amazon.es/dp/B01BNPM364/?tag=tolees-21) a 8.37 EUR (original: 18 EUR) (53.50 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00OULP712/?tag=tolees-21'
 descuento: '62.22'
+average: '17'
 ---
 
 Está [Vans Atwood  Zapatillas para Niñas  Azul-Blau   Canvas  Dress F8R   27 EU](https://www.amazon.es/dp/B00OULP712/?tag=tolees-21) con 62.22 de descuento por 17 EUR (original: 45 EUR) en el siguiente enlace!

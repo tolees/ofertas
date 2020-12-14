@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0716YVVDK/?tag=tolees-21'
 descuento: '43.30'
+average: '8.5'
 ---
 
 Ahora mismo tienes [HARRY POTTER- Figura de Vinilo Ginny Weasley   Funko 14942 ](https://www.amazon.es/dp/B0716YVVDK/?tag=tolees-21) a 8.5 EUR (original: 14.99 EUR) (43.30 %  de descuento) en el siguiente enlace!

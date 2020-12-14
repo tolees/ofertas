@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00MXV1Q4I/?tag=tolees-21'
 descuento: '29.99'
+average: '59.5'
 ---
 
 Ahora mismo tienes [Razer DeathAdder Chroma - Ratón](https://www.amazon.es/dp/B00MXV1Q4I/?tag=tolees-21) a 59.5 EUR (original: 84.99 EUR) (29.99 %  de descuento) en el siguiente enlace!

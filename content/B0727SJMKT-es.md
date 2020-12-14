@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0727SJMKT/?tag=tolees-21'
 descuento: '47.04'
+average: '62.76'
 ---
 
 Está [Melvin & HamiltonJack 7 - Mocasines Hombre  Color marrón  Talla 42](https://www.amazon.es/dp/B0727SJMKT/?tag=tolees-21) con 47.04 de descuento por 62.76 EUR (original: 118.51 EUR) en el siguiente enlace!

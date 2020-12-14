@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DXN6KFB/?tag=tolees-21'
 descuento: '25.01'
+average: '29.98'
 ---
 
 Está [Abody Plancha de Pelo Profesional  Alisador Pelo con Placas Anchas de 4.45cm  Rápido Calentamiento  Temperatura Ajustable 180-230°C  Cerámica Avanzada Ultimate con Iones Negativos](https://www.amazon.es/dp/B07DXN6KFB/?tag=tolees-21) con 25.01 de descuento por 29.98 EUR (original: 39.98 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N35TQS9/?tag=tolees-21'
 descuento: '58.65'
+average: '26.86'
 ---
 
 Tienes [Skechers Go Walk 4-Elect  Zapatillas de Entrenamiento para Hombre  Negro  Black/Gray   41 EU](https://www.amazon.es/dp/B01N35TQS9/?tag=tolees-21) con un 58.65 % de descuento con precio de oferta de 26.86 EUR (original: 64.95 EUR) en el siguiente enlace!

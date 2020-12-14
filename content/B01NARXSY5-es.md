@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NARXSY5/?tag=tolees-21'
 descuento: '30.44'
+average: '152.34'
 ---
 
 Tienes [Fujifilm FinePix XP120 - Cámara acuatíca de 16.4 MP  Pantalla de 3"  estabilizador óptico  Video Full HD  WiFi  Azul](https://www.amazon.es/dp/B01NARXSY5/?tag=tolees-21) con un 30.44 % de descuento con precio de oferta de 152.34 EUR (original: 219 EUR) en el siguiente enlace!

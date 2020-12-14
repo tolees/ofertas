@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BSFI7BO/?tag=tolees-21'
 descuento: '50.01'
+average: '29.99'
 ---
 
 Ahora mismo tienes [Baul Moto Universal 35L con Llaves y Soporte Caja de Moto Topbox Topcase Casco](https://www.amazon.es/dp/B01BSFI7BO/?tag=tolees-21) a 29.99 EUR (original: 59.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

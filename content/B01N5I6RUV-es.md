@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N5I6RUV/?tag=tolees-21'
 descuento: '84.02'
+average: '7.99'
 ---
 
 Tienes [LANGRIA Manta de Sofá y Cama de Microfibra de Poliéster  Suave  Cálida  Resistente a las Arrugas  No pierde Color  para Adultos y Niños  220x240cm  Azul Marino ](https://www.amazon.es/dp/B01N5I6RUV/?tag=tolees-21) con un 84.02 % de descuento con precio de oferta de 7.99 EUR (original: 49.99 EUR) en el siguiente enlace!

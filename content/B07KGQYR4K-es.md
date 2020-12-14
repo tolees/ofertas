@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGQYR4K/?tag=tolees-21'
 descuento: '50.00'
+average: '65'
 ---
 
 Ahora mismo tienes [Diesel Sleenker L.32 Trousers Tejanos  32 ](https://www.amazon.es/dp/B07KGQYR4K/?tag=tolees-21) a 65 EUR (original: 130 EUR) (50.00 %  de descuento) en el siguiente enlace!

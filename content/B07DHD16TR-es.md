@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHD16TR/?tag=tolees-21'
 descuento: '57.15'
+average: '20.99'
 ---
 
 Ahora mismo tienes [500W Inversor De Energía DC 12V A AC 220V 230V 240V Convertidor del Coche De con 4.2A Dual USB 1 Salidas Ca para Los For Smartphones  Tableta  Computadora Portátil  Nebulizador](https://www.amazon.es/dp/B07DHD16TR/?tag=tolees-21) a 20.99 EUR (original: 48.99 EUR) (57.15 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017NUHPKM/?tag=tolees-21'
 descuento: '57.80'
+average: '16.86'
 ---
 
 Ahora mismo tienes [G Star Carley belt wmn - Cinturón Mujer  Braun  cognac 559   80](https://www.amazon.es/dp/B017NUHPKM/?tag=tolees-21) a 16.86 EUR (original: 39.95 EUR) (57.80 %  de descuento) en el siguiente enlace!

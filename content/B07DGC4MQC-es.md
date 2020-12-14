@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DGC4MQC/?tag=tolees-21'
 descuento: '36.69'
+average: '30.95'
 ---
 
 Ahora mismo tienes [Coronel Tapiocca Comb.Marino/Verde Caballero  Zapatillas de Senderismo para Hombre   Marino 0   43 EU](https://www.amazon.es/dp/B07DGC4MQC/?tag=tolees-21) a 30.95 EUR (original: 48.89 EUR) (36.69 %  de descuento) en el siguiente enlace!

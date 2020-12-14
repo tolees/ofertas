@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J6PN9GD/?tag=tolees-21'
 descuento: '59.50'
+average: '32.38'
 ---
 
 Está [Skechers Skech-Air Ultra Flex  Zapatillas para Mujer  Gris  39 EU](https://www.amazon.es/dp/B07J6PN9GD/?tag=tolees-21) con 59.50 de descuento por 32.38 EUR (original: 79.95 EUR) en el siguiente enlace!

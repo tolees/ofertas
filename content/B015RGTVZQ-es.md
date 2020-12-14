@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B015RGTVZQ/?tag=tolees-21'
 descuento: '28.56'
+average: '46.64'
 ---
 
 Tienes [Lazio pomo del cambio de cromo + Llavero con flash LED](https://www.amazon.es/dp/B015RGTVZQ/?tag=tolees-21) con un 28.56 % de descuento con precio de oferta de 46.64 EUR (original: 65.29 EUR) en el siguiente enlace!

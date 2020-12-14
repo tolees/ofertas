@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0743FGVVF/?tag=tolees-21'
 descuento: '40.01'
+average: '17.99'
 ---
 
 Ahora mismo tienes [Curcumina organica | 6100 mg de polvo de cúrcuma orgánico | Cápsulas veganas de cúrcuma de alta resistencia con 183 mg de curcumina por porción 95% extracto de curcumina | Producto del Reino Unido](https://www.amazon.es/dp/B0743FGVVF/?tag=tolees-21) a 17.99 EUR (original: 29.99 EUR) (40.01 %  de descuento) en el siguiente enlace!

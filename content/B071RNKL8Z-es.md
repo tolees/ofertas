@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071RNKL8Z/?tag=tolees-21'
 descuento: '37.62'
+average: '9.95'
 ---
 
 Está [Funko Pop!- Vinyl Alien Covenant: Neomorph and Toddler  13043 ](https://www.amazon.es/dp/B071RNKL8Z/?tag=tolees-21) con 37.62 de descuento por 9.95 EUR (original: 15.95 EUR) en el siguiente enlace!

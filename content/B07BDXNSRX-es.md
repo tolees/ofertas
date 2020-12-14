@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BDXNSRX/?tag=tolees-21'
 descuento: '66.74'
+average: '19.95'
 ---
 
 Está [Tennis World Tour - Edición Estándar](https://www.amazon.es/dp/B07BDXNSRX/?tag=tolees-21) con 66.74 de descuento por 19.95 EUR (original: 59.99 EUR) en el siguiente enlace!

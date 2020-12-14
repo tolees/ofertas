@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IYD4BRS/?tag=tolees-21'
 descuento: '81.18'
+average: '5.95'
 ---
 
 Está [Uhlsport Hose Match GK Shorts - Pantalones Cortos de fútbol para Hombre  Color Negro  Talla 2XS](https://www.amazon.es/dp/B00IYD4BRS/?tag=tolees-21) con 81.18 de descuento por 5.95 EUR (original: 31.62 EUR) en el siguiente enlace!

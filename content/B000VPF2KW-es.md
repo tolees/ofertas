@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000VPF2KW/?tag=tolees-21'
 descuento: '26.59'
+average: '10.19'
 ---
 
 Ahora mismo tienes [Goki-57849 Puzzles de Madera Encaje Círculo   4013594578493 ](https://www.amazon.es/dp/B000VPF2KW/?tag=tolees-21) a 10.19 EUR (original: 13.88 EUR) (26.59 %  de descuento) en el siguiente enlace!

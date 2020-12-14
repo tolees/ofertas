@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C21HQ3B/?tag=tolees-21'
 descuento: '46.18'
+average: '42.95'
 ---
 
 Está [ITACA - Maleta de Viaje Cabina 55x40x20 cm 4 Ruedas Trolley ABS. Equipaje de Mano. Rígida  Resistente y Ligera. Mango  2 Asas. Vuelos Low Cost Ryanair  Candado Integrado T58050  Color Champagne](https://www.amazon.es/dp/B07C21HQ3B/?tag=tolees-21) con 46.18 de descuento por 42.95 EUR (original: 79.8 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C57TYR4/?tag=tolees-21'
 descuento: '56.01'
+average: '43.99'
 ---
 
 Ahora mismo tienes [San Ignacio Cacerola con Tapa Acero Inoxidable Apta para Inducción  Cromado  20 cm. diámetro](https://www.amazon.es/dp/B07C57TYR4/?tag=tolees-21) a 43.99 EUR (original: 99.99 EUR) (56.01 %  de descuento) en el siguiente enlace!

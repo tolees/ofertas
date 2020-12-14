@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079FC93NS/?tag=tolees-21'
 descuento: '57.95'
+average: '39.95'
 ---
 
 Está [New Balance 247v2  Zapatillas para Hombre  Gris  Castlerock/Bone Mm   42.5 EU](https://www.amazon.es/dp/B079FC93NS/?tag=tolees-21) con 57.95 de descuento por 39.95 EUR (original: 95 EUR) en el siguiente enlace!

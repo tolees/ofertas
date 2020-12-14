@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XRJGL6V/?tag=tolees-21'
 descuento: '49.90'
+average: '25'
 ---
 
 Tienes [Kelme Trueno Sala  Botas de fútbol Unisex Adulto  Blanco  White/Azul   45 EU](https://www.amazon.es/dp/B06XRJGL6V/?tag=tolees-21) con un 49.90 % de descuento con precio de oferta de 25 EUR (original: 49.9 EUR) en el siguiente enlace!

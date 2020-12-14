@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KJSBMMC/?tag=tolees-21'
 descuento: '28.00'
+average: '57.59'
 ---
 
 Está [Quiksilver 2/2mm Prologue S/SL Springsuit  Hombre  Jet Black/Nite Blue  M](https://www.amazon.es/dp/B07KJSBMMC/?tag=tolees-21) con 28.00 de descuento por 57.59 EUR (original: 79.99 EUR) en el siguiente enlace!

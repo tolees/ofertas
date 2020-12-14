@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DZJST64/?tag=tolees-21'
 descuento: '55.92'
+average: '7.49'
 ---
 
 Ahora mismo tienes [SUNBEAUTY bandera de 10 piezas ballet niña tarjetas DIY decoración para bodas Cumpleaños festivales dormitorio de niños suministros al aire libre](https://www.amazon.es/dp/B01DZJST64/?tag=tolees-21) a 7.49 EUR (original: 16.99 EUR) (55.92 %  de descuento) en el siguiente enlace!

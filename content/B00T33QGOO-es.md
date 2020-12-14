@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00T33QGOO/?tag=tolees-21'
 descuento: '39.93'
+average: '54'
 ---
 
 Tienes [Tuc Tuc Niña Kimono - Cuna de viaje  color fucsia](https://www.amazon.es/dp/B00T33QGOO/?tag=tolees-21) con un 39.93 % de descuento con precio de oferta de 54 EUR (original: 89.9 EUR) en el siguiente enlace!

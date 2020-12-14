@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LNVF8HY/?tag=tolees-21'
 descuento: '42.11'
+average: '54.99'
 ---
 
 Tienes [Philips SoniCare Healthy White HX6762/35 - Pack 2 Cepillos de Dientes Electrico Recargables  2 Cabezales  Cargador  Color Verde y Rosa](https://www.amazon.es/dp/B01LNVF8HY/?tag=tolees-21) con un 42.11 % de descuento con precio de oferta de 54.99 EUR (original: 94.99 EUR) en el siguiente enlace!

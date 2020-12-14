@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DRHDJRT/?tag=tolees-21'
 descuento: '30.12'
+average: '13.97'
 ---
 
 Está [Ashwagandha Orgánica 500mg KSM 66 Suplemento Ayurvédico Herbal por Nutravita  60 Cápsulas Veganas de Ashwanghanda de 500mg Cada Una  100% Vegano](https://www.amazon.es/dp/B07DRHDJRT/?tag=tolees-21) con 30.12 de descuento por 13.97 EUR (original: 19.99 EUR) en el siguiente enlace!

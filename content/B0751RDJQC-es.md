@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0751RDJQC/?tag=tolees-21'
 descuento: '70.89'
+average: '26.2'
 ---
 
 Está [New Balance Mlazrv1  Zapatillas para Hombre  Negro  Black/White   40 EU](https://www.amazon.es/dp/B0751RDJQC/?tag=tolees-21) con 70.89 de descuento por 26.2 EUR (original: 90 EUR) en el siguiente enlace!

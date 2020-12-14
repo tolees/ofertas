@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073JPQ7P3/?tag=tolees-21'
 descuento: '36.36'
+average: '14'
 ---
 
 Ahora mismo tienes [FIND Jesery de Pico para Hombre  Gris  Charcoal Grey Marl   Small](https://www.amazon.es/dp/B073JPQ7P3/?tag=tolees-21) a 14 EUR (original: 22 EUR) (36.36 %  de descuento) en el siguiente enlace!

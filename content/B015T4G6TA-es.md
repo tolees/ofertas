@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B015T4G6TA/?tag=tolees-21'
 descuento: '29.88'
+average: '34.99'
 ---
 
 Está [Puro Sabina  Caja Especial ](https://www.amazon.es/dp/B015T4G6TA/?tag=tolees-21) con 29.88 de descuento por 34.99 EUR (original: 49.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CVCVWNN/?tag=tolees-21'
 descuento: '54.17'
+average: '29.79'
 ---
 
 Está [Under Armour Surge Se  Zapatillas de Running para Mujer  Negro  Black White 001   39 EU](https://www.amazon.es/dp/B07CVCVWNN/?tag=tolees-21) con 54.17 de descuento por 29.79 EUR (original: 65 EUR) en el siguiente enlace!

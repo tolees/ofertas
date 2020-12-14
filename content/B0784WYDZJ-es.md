@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0784WYDZJ/?tag=tolees-21'
 descuento: '77.52'
+average: '8.99'
 ---
 
 Está [SUPORE Garmin Fenix 3 Correa de Reloj  reemplazo Respirable Suave del silicón Pulsera Hermosa Deporte y edición para Fenix 3/Fenix 3 HR/Fenix 5X Multi-Colors Smart Watch](https://www.amazon.es/dp/B0784WYDZJ/?tag=tolees-21) con 77.52 de descuento por 8.99 EUR (original: 39.99 EUR) en el siguiente enlace!

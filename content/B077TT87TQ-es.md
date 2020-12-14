@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077TT87TQ/?tag=tolees-21'
 descuento: '45.68'
+average: '13.95'
 ---
 
 Ahora mismo tienes [IDC COLOR  Regalo para el cuidado de la piel  Multicolor  - 1 Maletín](https://www.amazon.es/dp/B077TT87TQ/?tag=tolees-21) a 13.95 EUR (original: 25.68 EUR) (45.68 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DY7DAVG/?tag=tolees-21'
 descuento: '59.02'
+average: '4.95'
 ---
 
 Ahora mismo tienes [Nike Big Botella de Agua  Unisex  Big Mouth Water Bottle  Verde y Negro  tamaño único](https://www.amazon.es/dp/B01DY7DAVG/?tag=tolees-21) a 4.95 EUR (original: 12.08 EUR) (59.02 %  de descuento) en el siguiente enlace!

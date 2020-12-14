@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00LTT208Q/?tag=tolees-21'
 descuento: '43.82'
+average: '12.96'
 ---
 
 Está [BRA Sartén para saltear  Negro  20 cm](https://www.amazon.es/dp/B00LTT208Q/?tag=tolees-21) con 43.82 de descuento por 12.96 EUR (original: 23.07 EUR) en el siguiente enlace!

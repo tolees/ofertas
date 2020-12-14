@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DVXKFJG/?tag=tolees-21'
 descuento: '54.40'
+average: '34.2'
 ---
 
 Está [DC Shoes Tonik  Zapatillas de Skateboard para Hombre  Azul  Navy/Royal Nr6   41 EU](https://www.amazon.es/dp/B07DVXKFJG/?tag=tolees-21) con 54.40 de descuento por 34.2 EUR (original: 75 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DMJ789W/?tag=tolees-21'
 descuento: '53.49'
+average: '27.9'
 ---
 
 Está [Ubisoft Spain - Assassin’s Creed Odyssey  Figura de Kassandra](https://www.amazon.es/dp/B07DMJ789W/?tag=tolees-21) con 53.49 de descuento por 27.9 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B008E9EK6E/?tag=tolees-21'
 descuento: '58.58'
+average: '218.82'
 ---
 
 Ahora mismo tienes [Plantronics Savi W710 - Auricular de diadema abierta  con micrófono ](https://www.amazon.es/dp/B008E9EK6E/?tag=tolees-21) a 218.82 EUR (original: 528.28 EUR) (58.58 %  de descuento) en el siguiente enlace!

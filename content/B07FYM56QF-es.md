@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FYM56QF/?tag=tolees-21'
 descuento: '56.97'
+average: '18.89'
 ---
 
 Tienes [Symiu Porterias de Futbol para Niños Pelota Futbol Trainer para Portería Jardin y Playa Entrenamiento Futbol para Niños 3 4 5  91CM*124CM*92CM ](https://www.amazon.es/dp/B07FYM56QF/?tag=tolees-21) con un 56.97 % de descuento con precio de oferta de 18.89 EUR (original: 43.9 EUR) en el siguiente enlace!

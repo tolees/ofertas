@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K75RSTH/?tag=tolees-21'
 descuento: '46.00'
+average: '32.4'
 ---
 
 Está [Asics Patriot 10  Zapatillas de Running para Hombre  Negro  Black/White 002   44 EU](https://www.amazon.es/dp/B07K75RSTH/?tag=tolees-21) con 46.00 de descuento por 32.4 EUR (original: 60 EUR) en el siguiente enlace!

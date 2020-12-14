@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0119A9XXO/?tag=tolees-21'
 descuento: '39.12'
+average: '8.95'
 ---
 
 Ahora mismo tienes [SAKE GEKKEIKAN](https://www.amazon.es/dp/B0119A9XXO/?tag=tolees-21) a 8.95 EUR (original: 14.7 EUR) (39.12 %  de descuento) en el siguiente enlace!

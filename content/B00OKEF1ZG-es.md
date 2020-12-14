@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00OKEF1ZG/?tag=tolees-21'
 descuento: '30.15'
+average: '13.9'
 ---
 
 Está [Beautyblender Esponja Tono Black - 100 gr](https://www.amazon.es/dp/B00OKEF1ZG/?tag=tolees-21) con 30.15 de descuento por 13.9 EUR (original: 19.9 EUR) en el siguiente enlace!

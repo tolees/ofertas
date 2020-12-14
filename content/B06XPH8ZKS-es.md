@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XPH8ZKS/?tag=tolees-21'
 descuento: '65.43'
+average: '10.37'
 ---
 
 Ahora mismo tienes [find. Pantalones Chinos para Hombre  Fucsia  Fushia Red   W40/L34  Talla del fabricante:40   Talla del fabricante: 40 ](https://www.amazon.es/dp/B06XPH8ZKS/?tag=tolees-21) a 10.37 EUR (original: 30 EUR) (65.43 %  de descuento) en el siguiente enlace!

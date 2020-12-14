@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FTPYCRY/?tag=tolees-21'
 descuento: '77.18'
+average: '13.69'
 ---
 
 Está [SELECTED HOMME Slhskinny-Luca Deep Depths Pants W Noos  Pantalones para Hombre  Verde   W36/L34](https://www.amazon.es/dp/B07FTPYCRY/?tag=tolees-21) con 77.18 de descuento por 13.69 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GV9WJFF/?tag=tolees-21'
 descuento: '53.85'
+average: '59.99'
 ---
 
 Está [Blackview A10 - Smartphone Libre Android 7.0  5.0   HD IPS  16GB ROM  5.0MP+8.0MP Cámara  2800mAh Batería  Quad Core 3G  Dual SIM  Huella Dactilar  Moviles Libres Blanco](https://www.amazon.es/dp/B07GV9WJFF/?tag=tolees-21) con 53.85 de descuento por 59.99 EUR (original: 129.99 EUR) en el siguiente enlace!

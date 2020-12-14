@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D4T9FGQ/?tag=tolees-21'
 descuento: '32.20'
+average: '18.95'
 ---
 
 Ahora mismo tienes [Kappa Trooper Light Ice  Zapatillas para Niñas  Azul  Navy/Pink 6722   26 EU](https://www.amazon.es/dp/B07D4T9FGQ/?tag=tolees-21) a 18.95 EUR (original: 27.95 EUR) (32.20 %  de descuento) en el siguiente enlace!

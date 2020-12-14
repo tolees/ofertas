@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LZMYDYJ/?tag=tolees-21'
 descuento: '42.53'
+average: '137.86'
 ---
 
 Está [BQ Aquaris U Plus - Smartphone de 5    Bluetooth  Qualcomm Snapdragon 430 Octa Core  Memoria de 32 GB  3 GB RAM  cámara 16 MP  multitáctil  Android 6.0.1 Marshmallow   Negro y Gris Antracita](https://www.amazon.es/dp/B01LZMYDYJ/?tag=tolees-21) con 42.53 de descuento por 137.86 EUR (original: 239.9 EUR) en el siguiente enlace!

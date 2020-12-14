@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01CYFTCES/?tag=tolees-21'
 descuento: '28.58'
+average: '299.25'
 ---
 
 Está [Baby Jogger City Mini 4 - Silla de paseo  color Denim](https://www.amazon.es/dp/B01CYFTCES/?tag=tolees-21) con 28.58 de descuento por 299.25 EUR (original: 419 EUR) en el siguiente enlace!

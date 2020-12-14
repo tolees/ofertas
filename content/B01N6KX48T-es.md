@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N6KX48T/?tag=tolees-21'
 descuento: '75.00'
+average: '27.5'
 ---
 
 Está [Casio Reloj con Movimiento Cuarzo japonés Man Mtp-V301Gl-9A 39.0 mm](https://www.amazon.es/dp/B01N6KX48T/?tag=tolees-21) con 75.00 de descuento por 27.5 EUR (original: 110 EUR) en el siguiente enlace!

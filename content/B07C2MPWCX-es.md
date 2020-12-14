@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C2MPWCX/?tag=tolees-21'
 descuento: '55.88'
+average: '28.68'
 ---
 
 Tienes [Levi s Original Hm Pullover Hoo Capucha  Gris  Medium Grey Heather  3  0000   Large para Hombre](https://www.amazon.es/dp/B07C2MPWCX/?tag=tolees-21) con un 55.88 % de descuento con precio de oferta de 28.68 EUR (original: 65 EUR) en el siguiente enlace!

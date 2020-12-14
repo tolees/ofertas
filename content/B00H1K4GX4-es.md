@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00H1K4GX4/?tag=tolees-21'
 descuento: '40.00'
+average: '10.17'
 ---
 
 Tienes [Nenuco Baby - Nuco Aprendizaje  Famosa 700010793 ](https://www.amazon.es/dp/B00H1K4GX4/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 10.17 EUR (original: 16.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FTKP19V/?tag=tolees-21'
 descuento: '48.44'
+average: '30.91'
 ---
 
 Ahora mismo tienes [Lee Rider Short Pantalones Cortos  Marfil  Medium Stone KL   W38 para Hombre](https://www.amazon.es/dp/B07FTKP19V/?tag=tolees-21) a 30.91 EUR (original: 59.95 EUR) (48.44 %  de descuento) en el siguiente enlace!

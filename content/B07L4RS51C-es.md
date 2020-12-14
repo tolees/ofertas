@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L4RS51C/?tag=tolees-21'
 descuento: '52.27'
+average: '13.35'
 ---
 
 Ahora mismo tienes [Serum de los Ojos para Mujer y Hombre Antiarrugas Eye Cream Crema Ojo Anti Ojeras Bolsas Extra Eyes Skin Care Repair the Wrinkle Sombras en Contorno Ultimate Retinol la Paleta Sombra Cremas Men Mate C](https://www.amazon.es/dp/B07L4RS51C/?tag=tolees-21) a 13.35 EUR (original: 27.97 EUR) (52.27 %  de descuento) en el siguiente enlace!

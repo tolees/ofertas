@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FDI3FIC/?tag=tolees-21'
 descuento: '45.46'
+average: '276.13'
 ---
 
 Está [Shark. Casco de moto Spartan  de fibra de carbón DRR  color Negro/Rojo  talla S](https://www.amazon.es/dp/B01FDI3FIC/?tag=tolees-21) con 45.46 de descuento por 276.13 EUR (original: 506.25 EUR) en el siguiente enlace!

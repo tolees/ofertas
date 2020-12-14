@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BZ4AWS4/?tag=tolees-21'
 descuento: '52.81'
+average: '42.45'
 ---
 
 Tienes [Skechers Relment-Pelmo  Botas de Senderismo para Hombre  Marrón  Khaki Khk   45 EU](https://www.amazon.es/dp/B01BZ4AWS4/?tag=tolees-21) con un 52.81 % de descuento con precio de oferta de 42.45 EUR (original: 89.95 EUR) en el siguiente enlace!

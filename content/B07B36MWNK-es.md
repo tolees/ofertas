@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B36MWNK/?tag=tolees-21'
 descuento: '45.57'
+average: '11.13'
 ---
 
 Está [Dunlop DU380BV - Botas de agua de Caucho Hombre  48 EU  Weiß  1](https://www.amazon.es/dp/B07B36MWNK/?tag=tolees-21) con 45.57 de descuento por 11.13 EUR (original: 20.45 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FF7HM7L/?tag=tolees-21'
 descuento: '50.09'
+average: '39.43'
 ---
 
 Tienes [Superga 2750-velvetchenillew  Zapatillas de Gimnasia para Mujer  Azul  Blue Sky 129   40 EU](https://www.amazon.es/dp/B07FF7HM7L/?tag=tolees-21) con un 50.09 % de descuento con precio de oferta de 39.43 EUR (original: 79 EUR) en el siguiente enlace!

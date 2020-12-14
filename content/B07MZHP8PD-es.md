@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MZHP8PD/?tag=tolees-21'
 descuento: '44.16'
+average: '38.95'
 ---
 
 Tienes [Superdry Core Cargo Lite Short Bañador Verde  Burnt Sage Zh4  42  Tallas De Fabricante:32  para Hombre](https://www.amazon.es/dp/B07MZHP8PD/?tag=tolees-21) con un 44.16 % de descuento con precio de oferta de 38.95 EUR (original: 69.75 EUR) en el siguiente enlace!

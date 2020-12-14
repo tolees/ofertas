@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073GCN1DV/?tag=tolees-21'
 descuento: '67.59'
+average: '32.39'
 ---
 
 Ahora mismo tienes [Skechers Performance 15200  Zapatillas Deportivas para Interior para Mujer  Negro  Black/White  36 EU](https://www.amazon.es/dp/B073GCN1DV/?tag=tolees-21) a 32.39 EUR (original: 99.95 EUR) (67.59 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DXRKN44/?tag=tolees-21'
 descuento: '28.06'
+average: '359'
 ---
 
 Tienes [Baby Jogger City Mini GT - Silla de paseo  Negro/Denim](https://www.amazon.es/dp/B01DXRKN44/?tag=tolees-21) con un 28.06 % de descuento con precio de oferta de 359 EUR (original: 499 EUR) en el siguiente enlace!

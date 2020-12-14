@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MZH8KT3/?tag=tolees-21'
 descuento: '52.82'
+average: '25.95'
 ---
 
 Tienes [Superdry Boardshort Pantalones Cortos  Naranja  Havana Orange Vqh   Medium para Hombre](https://www.amazon.es/dp/B07MZH8KT3/?tag=tolees-21) con un 52.82 % de descuento con precio de oferta de 25.95 EUR (original: 55 EUR) en el siguiente enlace!

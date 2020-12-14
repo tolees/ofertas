@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XY3P5RW/?tag=tolees-21'
 descuento: '96.34'
+average: '10.99'
 ---
 
 Ahora mismo tienes [iEGrow Compatible para Teclado para iPad Pro 9.7  Modelo A1673/A1674/A1675   para iPad Air 2  Modelo A1566 / A1567  Excepto La Parte del Altavoz  - Gris  Español](https://www.amazon.es/dp/B06XY3P5RW/?tag=tolees-21) a 10.99 EUR (original: 299.99 EUR) (96.34 %  de descuento) en el siguiente enlace!

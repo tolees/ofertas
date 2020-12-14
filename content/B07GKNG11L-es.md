@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GKNG11L/?tag=tolees-21'
 descuento: '42.87'
+average: '39.99'
 ---
 
 Tienes [H.Koenig NV700 Limpiador A Vapor Escoba y De Mano 2 en 1  Vaporeta 1050 W  3 5 Bares  hasta 138 Grados  Capacidad de Agua de 350 ml  Amarillo  Plástico](https://www.amazon.es/dp/B07GKNG11L/?tag=tolees-21) con un 42.87 % de descuento con precio de oferta de 39.99 EUR (original: 70 EUR) en el siguiente enlace!

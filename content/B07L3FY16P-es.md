@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L3FY16P/?tag=tolees-21'
 descuento: '58.13'
+average: '41.83'
 ---
 
 Ahora mismo tienes [Hilfiger Denim Lifestyle Basket Sneaker  Zapatillas para Hombre  Gris  Ink 006   43 EU](https://www.amazon.es/dp/B07L3FY16P/?tag=tolees-21) a 41.83 EUR (original: 99.9 EUR) (58.13 %  de descuento) en el siguiente enlace!

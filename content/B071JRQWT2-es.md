@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071JRQWT2/?tag=tolees-21'
 descuento: '43.19'
+average: '20.11'
 ---
 
 Está [TRESemmé Mascarilla Regenerador de Puntas  300 ml - Paquete de 6](https://www.amazon.es/dp/B071JRQWT2/?tag=tolees-21) con 43.19 de descuento por 20.11 EUR (original: 35.4 EUR) en el siguiente enlace!

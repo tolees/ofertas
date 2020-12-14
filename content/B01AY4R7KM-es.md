@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01AY4R7KM/?tag=tolees-21'
 descuento: '80.40'
+average: '11.96'
 ---
 
 Tienes [13 Casa Dormis Diamante Juego para Funda nórdica  Dimensiones 255 x 200 cm  algodón  de Matrimonio](https://www.amazon.es/dp/B01AY4R7KM/?tag=tolees-21) con un 80.40 % de descuento con precio de oferta de 11.96 EUR (original: 61.01 EUR) en el siguiente enlace!

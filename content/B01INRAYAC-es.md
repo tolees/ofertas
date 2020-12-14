@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01INRAYAC/?tag=tolees-21'
 descuento: '25.00'
+average: '74.99'
 ---
 
 Está [ION Audio Tailgater Go - Altavoz inalámbrico Bluetooth ultra-portátil resistente al agua con Radio AM/FM incorporada  batería recargable y banco de alimentación USB](https://www.amazon.es/dp/B01INRAYAC/?tag=tolees-21) con 25.00 de descuento por 74.99 EUR (original: 99.99 EUR) en el siguiente enlace!

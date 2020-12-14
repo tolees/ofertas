@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MWCBHXJ/?tag=tolees-21'
 descuento: '36.69'
+average: '102.99'
 ---
 
 Está [Invicta Reloj de Pulsera 28952](https://www.amazon.es/dp/B07MWCBHXJ/?tag=tolees-21) con 36.69 de descuento por 102.99 EUR (original: 162.68 EUR) en el siguiente enlace!

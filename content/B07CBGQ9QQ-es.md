@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CBGQ9QQ/?tag=tolees-21'
 descuento: '51.02'
+average: '63.68'
 ---
 
 Está [Hackett London HKT 1 Rugby  Polo para Hombre  Marfil  Chalk 837  M](https://www.amazon.es/dp/B07CBGQ9QQ/?tag=tolees-21) con 51.02 de descuento por 63.68 EUR (original: 130 EUR) en el siguiente enlace!

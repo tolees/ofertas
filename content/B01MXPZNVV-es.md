@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MXPZNVV/?tag=tolees-21'
 descuento: '26.68'
+average: '21.99'
 ---
 
 Está [DURAGADGET Auriculares mágicos para niños para Tablet ASUS Transformer 3 Pro T303UA  3 T305CA  Mini T102HA  Pad  ZenPad 3s 10  Z300M-6A037A  ZenPad Z8. Colores Divertidos. Diseño Monstruo Verde](https://www.amazon.es/dp/B01MXPZNVV/?tag=tolees-21) con 26.68 de descuento por 21.99 EUR (original: 29.99 EUR) en el siguiente enlace!

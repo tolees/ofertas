@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072JKMX6Q/?tag=tolees-21'
 descuento: '68.98'
+average: '24.8'
 ---
 
 Tienes [adidas Ace Tango 17.3 TR  Zapatillas de Fútbol para Hombre  Blanco  Clear Grey/FTWR White/Core Black   47 1/3 EU](https://www.amazon.es/dp/B072JKMX6Q/?tag=tolees-21) con un 68.98 % de descuento con precio de oferta de 24.8 EUR (original: 79.95 EUR) en el siguiente enlace!

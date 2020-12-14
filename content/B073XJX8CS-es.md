@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073XJX8CS/?tag=tolees-21'
 descuento: '40.04'
+average: '125.91'
 ---
 
 Tienes [Bollé Backline Visor Premium Casco  Unisex  Azul Marino/Cian  Soft Navy/Cyan   M](https://www.amazon.es/dp/B073XJX8CS/?tag=tolees-21) con un 40.04 % de descuento con precio de oferta de 125.91 EUR (original: 209.99 EUR) en el siguiente enlace!

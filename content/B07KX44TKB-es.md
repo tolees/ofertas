@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KX44TKB/?tag=tolees-21'
 descuento: '40.93'
+average: '12.99'
 ---
 
 Tienes [Kosee Marco Digital de Fotos 1.5 Pulgadas DI-15 Portafotos Electrónico USB](https://www.amazon.es/dp/B07KX44TKB/?tag=tolees-21) con un 40.93 % de descuento con precio de oferta de 12.99 EUR (original: 21.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01F1SQPUO/?tag=tolees-21'
 descuento: '65.46'
+average: '34.19'
 ---
 
 Ahora mismo tienes [Dockers FIVE POCKET SLIM - STRETCH TWILL  Pantalones Hombre  Marrón  NEW BRITISH KHAKI   W31/L34  Talla del fabricante: 31 ](https://www.amazon.es/dp/B01F1SQPUO/?tag=tolees-21) a 34.19 EUR (original: 99 EUR) (65.46 %  de descuento) en el siguiente enlace!

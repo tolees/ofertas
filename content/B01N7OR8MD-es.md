@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N7OR8MD/?tag=tolees-21'
 descuento: '46.53'
+average: '16.04'
 ---
 
 Está [Salomon Pulse Belt Cinturón de Corriendo y Senderismo  Unisex Adulto  Negro  XS](https://www.amazon.es/dp/B01N7OR8MD/?tag=tolees-21) con 46.53 de descuento por 16.04 EUR (original: 30 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HFSZ8JC/?tag=tolees-21'
 descuento: '32.35'
+average: '38.89'
 ---
 
 Tienes [Adidas Sneakers  Zapatillas para Hombre  Negro  Core Black/Blue/Footwear White 0   41 1/3 EU](https://www.amazon.es/dp/B01HFSZ8JC/?tag=tolees-21) con un 32.35 % de descuento con precio de oferta de 38.89 EUR (original: 57.49 EUR) en el siguiente enlace!

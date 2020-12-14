@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000HI6RFC/?tag=tolees-21'
 descuento: '33.35'
+average: '139.95'
 ---
 
 Tienes [Bushnell 10x50mm Legacy - Prismático  resistente al agua  negro](https://www.amazon.es/dp/B000HI6RFC/?tag=tolees-21) con un 33.35 % de descuento con precio de oferta de 139.95 EUR (original: 209.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D872JXZ/?tag=tolees-21'
 descuento: '54.10'
+average: '34.84'
 ---
 
 Tienes [Munich TIGA Indoor  Zapatillas de Deporte Unisex Adulto   Verde 24   42 EU](https://www.amazon.es/dp/B07D872JXZ/?tag=tolees-21) con un 54.10 % de descuento con precio de oferta de 34.84 EUR (original: 75.9 EUR) en el siguiente enlace!

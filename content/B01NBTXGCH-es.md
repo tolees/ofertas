@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NBTXGCH/?tag=tolees-21'
 descuento: '30.89'
+average: '17.9'
 ---
 
 Está [WITHLIN alargadas Profesional Set fotografía - ampliada Bandolera con Cadena de Seguridad para cámaras SLR réflex Digital  Canon Nikon Sony Olympus Pentax  etc  …](https://www.amazon.es/dp/B01NBTXGCH/?tag=tolees-21) con 30.89 de descuento por 17.9 EUR (original: 25.9 EUR) en el siguiente enlace!

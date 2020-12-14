@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CM1JY17/?tag=tolees-21'
 descuento: '48.22'
+average: '28.99'
 ---
 
 Está [Telémetro láser portátil  Meterk 60m mini Medidor láser Buscador de rango láser digital Guardar datos Pantalla retroiluminada LCD instrumento de medición electrónico láser de burbujas rápida medición](https://www.amazon.es/dp/B07CM1JY17/?tag=tolees-21) con 48.22 de descuento por 28.99 EUR (original: 55.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MDS3GNN/?tag=tolees-21'
 descuento: '50.90'
+average: '27.98'
 ---
 
 Está [KEXIN 32GB Memoria USB 2.0 Pendrive 32GB Flash Drive Memory Stick para Computadoras  Tabletas y Otros Dispositivos [5 Unidades] Color de Azul Negro Verde Rojo Naranja](https://www.amazon.es/dp/B01MDS3GNN/?tag=tolees-21) con 50.90 de descuento por 27.98 EUR (original: 56.98 EUR) en el siguiente enlace!

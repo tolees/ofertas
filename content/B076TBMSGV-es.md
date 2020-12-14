@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076TBMSGV/?tag=tolees-21'
 descuento: '54.84'
+average: '31.59'
 ---
 
 Está [Skechers Skech-Ascent-Sherrod  Zapatillas para Hombre  Azul  Navy/Lime   47.5 EU](https://www.amazon.es/dp/B076TBMSGV/?tag=tolees-21) con 54.84 de descuento por 31.59 EUR (original: 69.95 EUR) en el siguiente enlace!

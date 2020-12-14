@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00ORWZAE8/?tag=tolees-21'
 descuento: '36.43'
+average: '69.9'
 ---
 
 Ahora mismo tienes [LOMOS Mesita de Noche de Madera Odin en Blanco con Dos cajones en Moderno Tono Gris](https://www.amazon.es/dp/B00ORWZAE8/?tag=tolees-21) a 69.9 EUR (original: 109.95 EUR) (36.43 %  de descuento) en el siguiente enlace!

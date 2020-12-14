@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KMFPB3Q/?tag=tolees-21'
 descuento: '36.67'
+average: '12.66'
 ---
 
 Está [adidas W E Lin Slim Tk Tank Top  Mujer  Black/White  S](https://www.amazon.es/dp/B07KMFPB3Q/?tag=tolees-21) con 36.67 de descuento por 12.66 EUR (original: 19.99 EUR) en el siguiente enlace!

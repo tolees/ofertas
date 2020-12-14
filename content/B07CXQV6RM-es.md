@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CXQV6RM/?tag=tolees-21'
 descuento: '40.76'
+average: '15.99'
 ---
 
 Está [Sedhoom Cortador de Verduras En Trozos Picadora de Verduras 3 Cuchillas de Acero Inoxidable Cortador Verudra de Alimentos para Picar Tomates Cebollas Huevos Verduras Frutas Ensalada](https://www.amazon.es/dp/B07CXQV6RM/?tag=tolees-21) con 40.76 de descuento por 15.99 EUR (original: 26.99 EUR) en el siguiente enlace!

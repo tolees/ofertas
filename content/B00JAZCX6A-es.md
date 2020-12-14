@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00JAZCX6A/?tag=tolees-21'
 descuento: '68.73'
+average: '94.74'
 ---
 
 Tienes [Lacor 69314 - Máquina para cubitos de hielo  150 W  1 5 litros](https://www.amazon.es/dp/B00JAZCX6A/?tag=tolees-21) con un 68.73 % de descuento con precio de oferta de 94.74 EUR (original: 303 EUR) en el siguiente enlace!

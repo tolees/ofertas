@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0719FQXBG/?tag=tolees-21'
 descuento: '64.69'
+average: '15.87'
 ---
 
 Ahora mismo tienes [Kappa Cammy  Botas Clasicas Unisex Niños  Negro  Black/Grey 1116   28 EU](https://www.amazon.es/dp/B0719FQXBG/?tag=tolees-21) a 15.87 EUR (original: 44.95 EUR) (64.69 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D4TBGJS/?tag=tolees-21'
 descuento: '57.86'
+average: '18.94'
 ---
 
 Ahora mismo tienes [Kappa Moxie  Zapatillas Unisex Niños  Negro  Black 1111   30 EU](https://www.amazon.es/dp/B07D4TBGJS/?tag=tolees-21) a 18.94 EUR (original: 44.95 EUR) (57.86 %  de descuento) en el siguiente enlace!

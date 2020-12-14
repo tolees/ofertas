@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078T8KSZ2/?tag=tolees-21'
 descuento: '53.99'
+average: '32.2'
 ---
 
 Está [Columbia Childrens Rope Tow Kruser  Zapatillas de Senderismo Unisex niños  Gris  Grey Ash  Camellia Rose   31 EU](https://www.amazon.es/dp/B078T8KSZ2/?tag=tolees-21) con 53.99 de descuento por 32.2 EUR (original: 69.99 EUR) en el siguiente enlace!

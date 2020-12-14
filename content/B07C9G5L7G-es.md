@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C9G5L7G/?tag=tolees-21'
 descuento: '49.86'
+average: '24.45'
 ---
 
 Está [JACK & JONES Jfwjamie PU Combo Java STS  Zapatillas para Hombre  Marrón  43 EU](https://www.amazon.es/dp/B07C9G5L7G/?tag=tolees-21) con 49.86 de descuento por 24.45 EUR (original: 48.76 EUR) en el siguiente enlace!

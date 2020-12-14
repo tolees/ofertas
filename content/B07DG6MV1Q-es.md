@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DG6MV1Q/?tag=tolees-21'
 descuento: '60.17'
+average: '35.83'
 ---
 
 Ahora mismo tienes [Coronel Tapiocca Marron/Sj.Marron Bota Caballero  Botas Clasicas para Hombre  0  42 EU](https://www.amazon.es/dp/B07DG6MV1Q/?tag=tolees-21) a 35.83 EUR (original: 89.95 EUR) (60.17 %  de descuento) en el siguiente enlace!

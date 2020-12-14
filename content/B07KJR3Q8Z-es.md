@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KJR3Q8Z/?tag=tolees-21'
 descuento: '46.34'
+average: '8.58'
 ---
 
 Tienes [Quiksilver Principle Belts  Hombre  Blue Nights Heather  1SZ](https://www.amazon.es/dp/B07KJR3Q8Z/?tag=tolees-21) con un 46.34 % de descuento con precio de oferta de 8.58 EUR (original: 15.99 EUR) en el siguiente enlace!

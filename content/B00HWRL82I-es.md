@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00HWRL82I/?tag=tolees-21'
 descuento: '58.43'
+average: '3.33'
 ---
 
 Está [Maurer 2321815 Formon Mango Bimaterial 16 mm](https://www.amazon.es/dp/B00HWRL82I/?tag=tolees-21) con 58.43 de descuento por 3.33 EUR (original: 8.01 EUR) en el siguiente enlace!

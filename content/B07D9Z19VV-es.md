@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9Z19VV/?tag=tolees-21'
 descuento: '73.05'
+average: '24.24'
 ---
 
 Ahora mismo tienes [Puma Breaker Leather  Zapatillas Unisex Adulto  Negro Black White-Phlox 01  38 EU](https://www.amazon.es/dp/B07D9Z19VV/?tag=tolees-21) a 24.24 EUR (original: 89.95 EUR) (73.05 %  de descuento) en el siguiente enlace!

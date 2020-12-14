@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MQWJ2DC/?tag=tolees-21'
 descuento: '71.03'
+average: '52.14'
 ---
 
 Tienes [Sorel Portzman Lace  Botas de Nieve para Hombre  Marrón  Tobacco/Black   40 EU](https://www.amazon.es/dp/B01MQWJ2DC/?tag=tolees-21) con un 71.03 % de descuento con precio de oferta de 52.14 EUR (original: 179.95 EUR) en el siguiente enlace!

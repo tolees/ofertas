@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H4ZCRHJ/?tag=tolees-21'
 descuento: '34.82'
+average: '29.95'
 ---
 
 Ahora mismo tienes [Desigual Shoes  Canvas   Zapatillas para Mujer  Naranja  Coral 7058   41 EU](https://www.amazon.es/dp/B07H4ZCRHJ/?tag=tolees-21) a 29.95 EUR (original: 45.95 EUR) (34.82 %  de descuento) en el siguiente enlace!

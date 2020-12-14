@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B018I1XGEY/?tag=tolees-21'
 descuento: '82.02'
+average: '9.97'
 ---
 
 Está [s.Oliver mit Struktur Pantalones de Traje  Azul  Blue 5920   42 para Hombre](https://www.amazon.es/dp/B018I1XGEY/?tag=tolees-21) con 82.02 de descuento por 9.97 EUR (original: 55.45 EUR) en el siguiente enlace!

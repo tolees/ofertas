@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00Q2MINHW/?tag=tolees-21'
 descuento: '35.62'
+average: '412.12'
 ---
 
 Ahora mismo tienes [Acer Short Throw S1283HNE - Proyector](https://www.amazon.es/dp/B00Q2MINHW/?tag=tolees-21) a 412.12 EUR (original: 640.09 EUR) (35.62 %  de descuento) en el siguiente enlace!

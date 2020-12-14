@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H93LTVS/?tag=tolees-21'
 descuento: '29.18'
+average: '16.99'
 ---
 
 Está [Quitapelusas Electrico  con tres cabezas de corte independientes & Contenedor extraíble  Maquina Quitapelusas Electrico para Todas Las Prendas. Usar con baterías o adaptador de corriente. por Kealive](https://www.amazon.es/dp/B07H93LTVS/?tag=tolees-21) con 29.18 de descuento por 16.99 EUR (original: 23.99 EUR) en el siguiente enlace!

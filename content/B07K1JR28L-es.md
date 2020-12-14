@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K1JR28L/?tag=tolees-21'
 descuento: '32.55'
+average: '43.84'
 ---
 
 Tienes [Emporio Armani Underwear 9p421  Bañador para Hombre   Negro 00020   X-Large  Talla del fabricante: 54 ](https://www.amazon.es/dp/B07K1JR28L/?tag=tolees-21) con un 32.55 % de descuento con precio de oferta de 43.84 EUR (original: 65 EUR) en el siguiente enlace!

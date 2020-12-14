@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00QMQFRKO/?tag=tolees-21'
 descuento: '65.73'
+average: '29.11'
 ---
 
 Tienes [Skechers Liv Go Spacey - Zapatillas para deportes de interior de material sintético para mujer azul Bleu  Nvhp  35](https://www.amazon.es/dp/B00QMQFRKO/?tag=tolees-21) con un 65.73 % de descuento con precio de oferta de 29.11 EUR (original: 84.95 EUR) en el siguiente enlace!

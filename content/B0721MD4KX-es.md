@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0721MD4KX/?tag=tolees-21'
 descuento: '30.09'
+average: '92.96'
 ---
 
 Ahora mismo tienes [Nokia 5 - Smartphone 5.2" IPS LCD  Qualcomm Snapdragon 430  2 GB RAM  Memoria Interna 16 GB Ampliable con Tarjeta SD hasta 128 GB  cámara 13 MPX con autofocus  Android   Azul](https://www.amazon.es/dp/B0721MD4KX/?tag=tolees-21) a 92.96 EUR (original: 132.98 EUR) (30.09 %  de descuento) en el siguiente enlace!

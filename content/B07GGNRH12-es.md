@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GGNRH12/?tag=tolees-21'
 descuento: '35.02'
+average: '9.74'
 ---
 
 Está [Historias De Fantasmas¿Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07GGNRH12/?tag=tolees-21) con 35.02 de descuento por 9.74 EUR (original: 14.99 EUR) en el siguiente enlace!

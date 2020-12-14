@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFJ5XBF/?tag=tolees-21'
 descuento: '35.42'
+average: '10.3'
 ---
 
 Tienes [Funko- S1 Figura 10 Cm Vinyl Pop Animation Tom and Jerry   Standard  FUNVPO32165 ](https://www.amazon.es/dp/B07DFJ5XBF/?tag=tolees-21) con un 35.42 % de descuento con precio de oferta de 10.3 EUR (original: 15.95 EUR) en el siguiente enlace!

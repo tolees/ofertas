@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFRKPCC/?tag=tolees-21'
 descuento: '74.89'
+average: '7.52'
 ---
 
 Está [Puma ftblNXT Graphic Core Shirt  Hombre  Peacoat/Dark Denim  S](https://www.amazon.es/dp/B07DFRKPCC/?tag=tolees-21) con 74.89 de descuento por 7.52 EUR (original: 29.95 EUR) en el siguiente enlace!

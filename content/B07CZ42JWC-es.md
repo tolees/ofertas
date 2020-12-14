@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ42JWC/?tag=tolees-21'
 descuento: '74.95'
+average: '22.53'
 ---
 
 Está [Puma 365 Ignite Fuse 2  Zapatillas de Fútbol para Hombre  Verde  Forest Night Black White 03   45 EU](https://www.amazon.es/dp/B07CZ42JWC/?tag=tolees-21) con 74.95 de descuento por 22.53 EUR (original: 89.95 EUR) en el siguiente enlace!

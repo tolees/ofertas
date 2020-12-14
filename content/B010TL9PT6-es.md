@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B010TL9PT6/?tag=tolees-21'
 descuento: '28.23'
+average: '607'
 ---
 
 Está [Bosch Professional GHP 5-75X - Hidrolimpiadora de alta presión  2600 W  185 Bares  manguera 10 m  2 lanzas ](https://www.amazon.es/dp/B010TL9PT6/?tag=tolees-21) con 28.23 de descuento por 607 EUR (original: 845.79 EUR) en el siguiente enlace!

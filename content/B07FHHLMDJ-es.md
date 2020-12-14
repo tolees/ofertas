@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FHHLMDJ/?tag=tolees-21'
 descuento: '69.87'
+average: '12.05'
 ---
 
 Está [JACK & JONES Jcovincent Shawl Neck  suéter para Hombre  Rojo  Port Royale Knit Fit   Medium](https://www.amazon.es/dp/B07FHHLMDJ/?tag=tolees-21) con 69.87 de descuento por 12.05 EUR (original: 39.99 EUR) en el siguiente enlace!

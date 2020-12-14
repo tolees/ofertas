@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B015QCD78I/?tag=tolees-21'
 descuento: '40.40'
+average: '14.65'
 ---
 
 Tienes [Astan Hogar Parrilla Eléctrica Multigrill Hottix AH-KC8030 ](https://www.amazon.es/dp/B015QCD78I/?tag=tolees-21) con un 40.40 % de descuento con precio de oferta de 14.65 EUR (original: 24.58 EUR) en el siguiente enlace!

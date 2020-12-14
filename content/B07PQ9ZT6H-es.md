@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PQ9ZT6H/?tag=tolees-21'
 descuento: '67.14'
+average: '229.99'
 ---
 
 Está [H96 Max Proyector Full HD  Mini Proyector Android 6.0 Soporte 1080P Bluetooth HDMI Airplay Wifidisplay Eshare  para Home Theater Inalámbrico con Tripod y Control Remoto de Voz](https://www.amazon.es/dp/B07PQ9ZT6H/?tag=tolees-21) con 67.14 de descuento por 229.99 EUR (original: 699.99 EUR) en el siguiente enlace!

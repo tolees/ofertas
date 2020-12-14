@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00MQUXJXW/?tag=tolees-21'
 descuento: '40.09'
+average: '29.95'
 ---
 
 Tienes [Lumaland Beanbag PUF otomano sillón Niño Puff XL Comfortline 120 lt Costuras reforzadas Turquesa](https://www.amazon.es/dp/B00MQUXJXW/?tag=tolees-21) con un 40.09 % de descuento con precio de oferta de 29.95 EUR (original: 49.99 EUR) en el siguiente enlace!

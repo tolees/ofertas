@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004ORBQ62/?tag=tolees-21'
 descuento: '35.16'
+average: '392.95'
 ---
 
 Tienes [Oki  Impresora Matricial Ml-3320eco  9 Agujas  240x216ppp  435 c/s  Usb](https://www.amazon.es/dp/B004ORBQ62/?tag=tolees-21) con un 35.16 % de descuento con precio de oferta de 392.95 EUR (original: 606.05 EUR) en el siguiente enlace!

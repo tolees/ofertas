@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071ZDV4JF/?tag=tolees-21'
 descuento: '70.86'
+average: '11.64'
 ---
 
 Tienes [Puma Evotrg Tech Pantalones Bordados  Hombre  Negro  M](https://www.amazon.es/dp/B071ZDV4JF/?tag=tolees-21) con un 70.86 % de descuento con precio de oferta de 11.64 EUR (original: 39.95 EUR) en el siguiente enlace!

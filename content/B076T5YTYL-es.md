@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076T5YTYL/?tag=tolees-21'
 descuento: '46.16'
+average: '34.97'
 ---
 
 Tienes [Skechers Empress-Solo Mood  Zapatillas sin Cordones para Mujer  Gris  Grey   37.5 EU](https://www.amazon.es/dp/B076T5YTYL/?tag=tolees-21) con un 46.16 % de descuento con precio de oferta de 34.97 EUR (original: 64.95 EUR) en el siguiente enlace!

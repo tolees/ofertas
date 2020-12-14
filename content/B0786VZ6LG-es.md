@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0786VZ6LG/?tag=tolees-21'
 descuento: '49.37'
+average: '70.86'
 ---
 
 Tienes [Adidas Supernova W  Zapatillas de Trail Running para Mujer  Azul  Indnob Aeroaz 000   38 2/3 EU](https://www.amazon.es/dp/B0786VZ6LG/?tag=tolees-21) con un 49.37 % de descuento con precio de oferta de 70.86 EUR (original: 139.95 EUR) en el siguiente enlace!

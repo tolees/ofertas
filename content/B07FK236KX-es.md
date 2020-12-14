@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FK236KX/?tag=tolees-21'
 descuento: '71.07'
+average: '24.59'
 ---
 
 Tienes [Vans Ward Hi Suede  Zapatillas Altas para Mujer  Gris   MTE  Antarctica/Shearling Utm   35 EU](https://www.amazon.es/dp/B07FK236KX/?tag=tolees-21) con un 71.07 % de descuento con precio de oferta de 24.59 EUR (original: 85 EUR) en el siguiente enlace!

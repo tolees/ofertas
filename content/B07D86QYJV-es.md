@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D86QYJV/?tag=tolees-21'
 descuento: '54.26'
+average: '38.42'
 ---
 
 Tienes [Munich BARRU  Zapatillas Unisex Adulto   Verde/Negro 36   44 EU](https://www.amazon.es/dp/B07D86QYJV/?tag=tolees-21) con un 54.26 % de descuento con precio de oferta de 38.42 EUR (original: 84 EUR) en el siguiente enlace!

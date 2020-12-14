@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FYZK3MG/?tag=tolees-21'
 descuento: '61.48'
+average: '23.09'
 ---
 
 Está [Wrangler Denim Short Pantalones Cortos  Azul  Mid Rocks 32e   W29 para Hombre](https://www.amazon.es/dp/B07FYZK3MG/?tag=tolees-21) con 61.48 de descuento por 23.09 EUR (original: 59.95 EUR) en el siguiente enlace!

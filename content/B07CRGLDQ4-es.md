@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CRGLDQ4/?tag=tolees-21'
 descuento: '55.57'
+average: '35.52'
 ---
 
 Ahora mismo tienes [Puma Rise XT 3  Zapatillas de Deporte Interior Unisex Adults’o  Negro Black-Biscay Green White  44 EU](https://www.amazon.es/dp/B07CRGLDQ4/?tag=tolees-21) a 35.52 EUR (original: 79.95 EUR) (55.57 %  de descuento) en el siguiente enlace!

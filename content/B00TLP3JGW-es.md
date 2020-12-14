@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TLP3JGW/?tag=tolees-21'
 descuento: '25.53'
+average: '5.95'
 ---
 
 Tienes [Puma Short Crew 3 pares  Calcetines unisex  Rosa   Middle Grey Melange / Pink   Medium  Taille fabricant: 35/38 ](https://www.amazon.es/dp/B00TLP3JGW/?tag=tolees-21) con un 25.53 % de descuento con precio de oferta de 5.95 EUR (original: 7.99 EUR) en el siguiente enlace!

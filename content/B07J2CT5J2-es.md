@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J2CT5J2/?tag=tolees-21'
 descuento: '49.84'
+average: '149.99'
 ---
 
 Está [Michael Kors Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable MK8662](https://www.amazon.es/dp/B07J2CT5J2/?tag=tolees-21) con 49.84 de descuento por 149.99 EUR (original: 299 EUR) en el siguiente enlace!

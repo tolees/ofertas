@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9TKRBX/?tag=tolees-21'
 descuento: '35.83'
+average: '44.89'
 ---
 
 Está [Adidas Duramo 9  Zapatillas de Running para Hombre  Negro Core Black/Footwear White 0  46 EU](https://www.amazon.es/dp/B07D9TKRBX/?tag=tolees-21) con 35.83 de descuento por 44.89 EUR (original: 69.95 EUR) en el siguiente enlace!

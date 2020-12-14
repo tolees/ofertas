@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KPSKHS5/?tag=tolees-21'
 descuento: '48.09'
+average: '39.45'
 ---
 
 Tienes [DC Apparel Sedgefield 2 Jackets  Hombre  Dandelion  M](https://www.amazon.es/dp/B07KPSKHS5/?tag=tolees-21) con un 48.09 % de descuento con precio de oferta de 39.45 EUR (original: 75.99 EUR) en el siguiente enlace!

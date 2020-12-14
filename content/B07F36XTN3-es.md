@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F36XTN3/?tag=tolees-21'
 descuento: '41.12'
+average: '52.99'
 ---
 
 Está [Blackview A10  2018  Smartphone Dual Sim  2 GB Ram  16 GB ROM  2800mAh  Cámara 2.0MP+5.0MP  3G Moviles Libres 5.0   HD IPS Android 7.0 - Blanco](https://www.amazon.es/dp/B07F36XTN3/?tag=tolees-21) con 41.12 de descuento por 52.99 EUR (original: 89.99 EUR) en el siguiente enlace!

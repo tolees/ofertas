@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0195IMDTS/?tag=tolees-21'
 descuento: '64.10'
+average: '32.31'
 ---
 
 Tienes [New Balance 775  Zapatillas de Running  Mujer  Multicolor  Grey/Pink 026   38 EU](https://www.amazon.es/dp/B0195IMDTS/?tag=tolees-21) con un 64.10 % de descuento con precio de oferta de 32.31 EUR (original: 90 EUR) en el siguiente enlace!

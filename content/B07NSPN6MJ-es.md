@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NSPN6MJ/?tag=tolees-21'
 descuento: '56.40'
+average: '4.36'
 ---
 
 Está [Vitaldiet  ACEITE DE ALMENDRAS PURO-250 ML VEGANO ](https://www.amazon.es/dp/B07NSPN6MJ/?tag=tolees-21) con 56.40 de descuento por 4.36 EUR (original: 10 EUR) en el siguiente enlace!

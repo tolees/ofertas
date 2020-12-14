@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0787BXVR2/?tag=tolees-21'
 descuento: '32.89'
+average: '334.9'
 ---
 
 Tienes [Televisor Full HD de 32" Smart TV Serie M5525](https://www.amazon.es/dp/B0787BXVR2/?tag=tolees-21) con un 32.89 % de descuento con precio de oferta de 334.9 EUR (original: 499 EUR) en el siguiente enlace!

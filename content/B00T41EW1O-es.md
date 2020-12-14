@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00T41EW1O/?tag=tolees-21'
 descuento: '29.53'
+average: '23.22'
 ---
 
 Tienes [Bandai Star Wars 1/12 C-3po [ Japan Import ] by Bandai](https://www.amazon.es/dp/B00T41EW1O/?tag=tolees-21) con un 29.53 % de descuento con precio de oferta de 23.22 EUR (original: 32.95 EUR) en el siguiente enlace!

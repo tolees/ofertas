@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073Q8DY3B/?tag=tolees-21'
 descuento: '82.10'
+average: '6.8'
 ---
 
 Tienes [AmazonBasics - Wok en hierro fundido pretratado](https://www.amazon.es/dp/B073Q8DY3B/?tag=tolees-21) con un 82.10 % de descuento con precio de oferta de 6.8 EUR (original: 37.99 EUR) en el siguiente enlace!

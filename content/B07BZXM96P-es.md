@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BZXM96P/?tag=tolees-21'
 descuento: '66.18'
+average: '33.82'
 ---
 
 Está [Levi s Tenex  Botas Slouch para Mujer  Marrón  Dark Brown 29   37 EU](https://www.amazon.es/dp/B07BZXM96P/?tag=tolees-21) con 66.18 de descuento por 33.82 EUR (original: 100 EUR) en el siguiente enlace!

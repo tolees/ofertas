@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00VWSNETI/?tag=tolees-21'
 descuento: '65.90'
+average: '15.33'
 ---
 
 Tienes [Kappa Cammy  Botas Clasicas Niñas  Azul-Blau  6744 Navy/Orange   28 EU](https://www.amazon.es/dp/B00VWSNETI/?tag=tolees-21) con un 65.90 % de descuento con precio de oferta de 15.33 EUR (original: 44.95 EUR) en el siguiente enlace!

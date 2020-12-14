@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06W5JNZY8/?tag=tolees-21'
 descuento: '77.89'
+average: '33.16'
 ---
 
 Está [Clarks Addiy Zora  Botas Militar  Mujer  Marrón  Tan Leather   38 EU](https://www.amazon.es/dp/B06W5JNZY8/?tag=tolees-21) con 77.89 de descuento por 33.16 EUR (original: 150 EUR) en el siguiente enlace!

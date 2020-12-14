@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F15JN2Q/?tag=tolees-21'
 descuento: '54.32'
+average: '31.95'
 ---
 
 Tienes [Mustang Schnür-Booty  Botas Clasicas para Hombre  Marrón  Mittelbraun 360   45 EU](https://www.amazon.es/dp/B07F15JN2Q/?tag=tolees-21) con un 54.32 % de descuento con precio de oferta de 31.95 EUR (original: 69.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0728FVKKW/?tag=tolees-21'
 descuento: '93.47'
+average: '12.99'
 ---
 
 Ahora mismo tienes [Eliminación de espinillas impermeable personal Diamond Microdermabrasion eliminación de espinillas facial electrónica limpiador de poro de acné utiliza la extracción de vacío de poro](https://www.amazon.es/dp/B0728FVKKW/?tag=tolees-21) a 12.99 EUR (original: 199 EUR) (93.47 %  de descuento) en el siguiente enlace!

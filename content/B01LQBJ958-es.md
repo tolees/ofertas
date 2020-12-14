@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LQBJ958/?tag=tolees-21'
 descuento: '26.66'
+average: '5.86'
 ---
 
 Ahora mismo tienes [Maybelline New York Lápiz Delineador de Ojos en Gel Master Precise Skinny - 1 x Lápiz Delineador de Ojos](https://www.amazon.es/dp/B01LQBJ958/?tag=tolees-21) a 5.86 EUR (original: 7.99 EUR) (26.66 %  de descuento) en el siguiente enlace!

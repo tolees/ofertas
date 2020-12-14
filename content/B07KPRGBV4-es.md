@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KPRGBV4/?tag=tolees-21'
 descuento: '55.37'
+average: '29.45'
 ---
 
 Ahora mismo tienes [DC Shoes Square Star Sweat Fleece Top  Hombre  Nautical Blue  L](https://www.amazon.es/dp/B07KPRGBV4/?tag=tolees-21) a 29.45 EUR (original: 65.99 EUR) (55.37 %  de descuento) en el siguiente enlace!

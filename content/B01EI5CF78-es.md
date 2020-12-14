@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01EI5CF78/?tag=tolees-21'
 descuento: '52.53'
+average: '47.45'
 ---
 
 Tienes [adidas Originals Gazelle  Zapatillas Casual Unisex Adulto  Negro Core Black/Gold Metallic  42 2/3 EU](https://www.amazon.es/dp/B01EI5CF78/?tag=tolees-21) con un 52.53 % de descuento con precio de oferta de 47.45 EUR (original: 99.95 EUR) en el siguiente enlace!

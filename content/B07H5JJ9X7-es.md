@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H5JJ9X7/?tag=tolees-21'
 descuento: '37.74'
+average: '31.1'
 ---
 
 Está [Desigual - Bag Landscape Nimbus Imperia Women  Bolsos bandolera Mujer  Azul  Azul Marea   10x16x23 cm  B x H T ](https://www.amazon.es/dp/B07H5JJ9X7/?tag=tolees-21) con 37.74 de descuento por 31.1 EUR (original: 49.95 EUR) en el siguiente enlace!

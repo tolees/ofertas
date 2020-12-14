@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MXVX2NL/?tag=tolees-21'
 descuento: '37.50'
+average: '18.75'
 ---
 
 Tienes [Salomon Blend Logo SS tee T-Shirt  Hombre  Azul  Poseidon   S](https://www.amazon.es/dp/B07MXVX2NL/?tag=tolees-21) con un 37.50 % de descuento con precio de oferta de 18.75 EUR (original: 30 EUR) en el siguiente enlace!

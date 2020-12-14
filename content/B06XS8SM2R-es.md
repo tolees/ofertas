@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XS8SM2R/?tag=tolees-21'
 descuento: '57.61'
+average: '29.67'
 ---
 
 Está [New Balance Wxnrgv1  Zapatillas Deportivas para Interior para Mujer  Rosa  Pink   40 EU](https://www.amazon.es/dp/B06XS8SM2R/?tag=tolees-21) con 57.61 de descuento por 29.67 EUR (original: 70 EUR) en el siguiente enlace!

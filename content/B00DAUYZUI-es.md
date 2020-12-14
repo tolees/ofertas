@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00DAUYZUI/?tag=tolees-21'
 descuento: '54.22'
+average: '21.29'
 ---
 
 Tienes [Paco Rabanne Invictus After Shave Balm 100 ml](https://www.amazon.es/dp/B00DAUYZUI/?tag=tolees-21) con un 54.22 % de descuento con precio de oferta de 21.29 EUR (original: 46.5 EUR) en el siguiente enlace!

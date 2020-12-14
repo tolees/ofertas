@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DQXH8BJ/?tag=tolees-21'
 descuento: '61.65'
+average: '30.66'
 ---
 
 Tienes [hummel HB Team  Zapatillas para Mujer  Rosa  Pale Liliac 3333   36 EU](https://www.amazon.es/dp/B07DQXH8BJ/?tag=tolees-21) con un 61.65 % de descuento con precio de oferta de 30.66 EUR (original: 79.95 EUR) en el siguiente enlace!

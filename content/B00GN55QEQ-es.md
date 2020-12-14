@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00GN55QEQ/?tag=tolees-21'
 descuento: '29.29'
+average: '14'
 ---
 
 Está [Rayen 2326.21 Alfombra para Bañera con Ventosas Caucho  Blanco 37 x 90 cm](https://www.amazon.es/dp/B00GN55QEQ/?tag=tolees-21) con 29.29 de descuento por 14 EUR (original: 19.8 EUR) en el siguiente enlace!

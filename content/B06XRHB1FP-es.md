@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XRHB1FP/?tag=tolees-21'
 descuento: '39.73'
+average: '27'
 ---
 
 Está [Kelme Trueno Kids  Zapatillas de fútbol Sala Unisex niños  Azul  Royal   34 EU](https://www.amazon.es/dp/B06XRHB1FP/?tag=tolees-21) con 39.73 de descuento por 27 EUR (original: 44.8 EUR) en el siguiente enlace!

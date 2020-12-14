@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00B17IWPQ/?tag=tolees-21'
 descuento: '40.00'
+average: '7.2'
 ---
 
 Ahora mismo tienes [Kärcher Conector para grifo dos vías  2.645-199.0 ](https://www.amazon.es/dp/B00B17IWPQ/?tag=tolees-21) a 7.2 EUR (original: 12 EUR) (40.00 %  de descuento) en el siguiente enlace!

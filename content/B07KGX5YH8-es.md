@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGX5YH8/?tag=tolees-21'
 descuento: '61.72'
+average: '15.31'
 ---
 
 Ahora mismo tienes [Burton Taproot Camisetas  Hombre  Castlerock  XXL](https://www.amazon.es/dp/B07KGX5YH8/?tag=tolees-21) a 15.31 EUR (original: 40 EUR) (61.72 %  de descuento) en el siguiente enlace!

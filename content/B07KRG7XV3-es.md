@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KRG7XV3/?tag=tolees-21'
 descuento: '62.63'
+average: '16.8'
 ---
 
 Ahora mismo tienes [Gioseppo 49032  Shopper para Mujer  Azul  Marino  16x34x46 cm  W x H x L ](https://www.amazon.es/dp/B07KRG7XV3/?tag=tolees-21) a 16.8 EUR (original: 44.95 EUR) (62.63 %  de descuento) en el siguiente enlace!

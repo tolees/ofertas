@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079DDC6NX/?tag=tolees-21'
 descuento: '68.69'
+average: '25.05'
 ---
 
 Está [Globe Motley Mid  Zapatillas de Deporte para Hombre   Blue/Antique 000   42 EU](https://www.amazon.es/dp/B079DDC6NX/?tag=tolees-21) con 68.69 de descuento por 25.05 EUR (original: 80 EUR) en el siguiente enlace!

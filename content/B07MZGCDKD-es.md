@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MZGCDKD/?tag=tolees-21'
 descuento: '46.66'
+average: '31.95'
 ---
 
 Está [Superdry Classic Superstate Pique Polo  Blanco  Optic 01c   X-Large para Hombre](https://www.amazon.es/dp/B07MZGCDKD/?tag=tolees-21) con 46.66 de descuento por 31.95 EUR (original: 59.9 EUR) en el siguiente enlace!

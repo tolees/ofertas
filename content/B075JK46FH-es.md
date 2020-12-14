@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075JK46FH/?tag=tolees-21'
 descuento: '50.01'
+average: '33.99'
 ---
 
 Está [Umbro Hombre Speciali Eternal Premier HG Botas de fútbol Amarillo/Azul 41](https://www.amazon.es/dp/B075JK46FH/?tag=tolees-21) con 50.01 de descuento por 33.99 EUR (original: 67.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073RM6LSN/?tag=tolees-21'
 descuento: '42.38'
+average: '28.78'
 ---
 
 Está [Reebok Fithex Tr  Zapatillas de Deporte para Mujer  Negro  Black / White   40 EU](https://www.amazon.es/dp/B073RM6LSN/?tag=tolees-21) con 42.38 de descuento por 28.78 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IZCSER6/?tag=tolees-21'
 descuento: '61.44'
+average: '21.19'
 ---
 
 Tienes [Kappa Bright Mid Fur  Botas Clasicas Unisex Niños   Beige/Offwhite 4143   38 EU](https://www.amazon.es/dp/B00IZCSER6/?tag=tolees-21) con un 61.44 % de descuento con precio de oferta de 21.19 EUR (original: 54.95 EUR) en el siguiente enlace!

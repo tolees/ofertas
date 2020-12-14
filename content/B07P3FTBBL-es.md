@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07P3FTBBL/?tag=tolees-21'
 descuento: '26.89'
+average: '9.87'
 ---
 
 Está [Pepe Jeans Ason Neceser de viaje  22 cm  1.32 litros  Negro](https://www.amazon.es/dp/B07P3FTBBL/?tag=tolees-21) con 26.89 de descuento por 9.87 EUR (original: 13.5 EUR) en el siguiente enlace!

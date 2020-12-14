@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076K8V4TW/?tag=tolees-21'
 descuento: '38.47'
+average: '9.9'
 ---
 
 Está [PNY High Performance Memoria Flash 64 GB MicroSDXC Clase 10 UHS-I - Tarjeta de Memoria  64 GB  MicroSDXC  Clase 10  UHS-I  100 MB/s  Negro ](https://www.amazon.es/dp/B076K8V4TW/?tag=tolees-21) con 38.47 de descuento por 9.9 EUR (original: 16.09 EUR) en el siguiente enlace!

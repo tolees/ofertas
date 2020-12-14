@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07282PGQH/?tag=tolees-21'
 descuento: '42.57'
+average: '5.95'
 ---
 
 Está [Parasol Coche - Cortinilla lateral - Patrulla Canina - Azul](https://www.amazon.es/dp/B07282PGQH/?tag=tolees-21) con 42.57 de descuento por 5.95 EUR (original: 10.36 EUR) en el siguiente enlace!

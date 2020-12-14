@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B016ADEB14/?tag=tolees-21'
 descuento: '35.16'
+average: '13.15'
 ---
 
 Tienes [Fascinations Metal Earth - Maqueta metálica Star Wars Snowspeeder](https://www.amazon.es/dp/B016ADEB14/?tag=tolees-21) con un 35.16 % de descuento con precio de oferta de 13.15 EUR (original: 20.28 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N76C9RN/?tag=tolees-21'
 descuento: '65.02'
+average: '13.99'
 ---
 
 Ahora mismo tienes [GEEKHOM Termómetro de carne y temporizador de cocina 2 en 1 con 2 sondas largas  Pantalla táctil  Imanes  Alarma  Cuenta para barbacoa  Horno  Parrilla  Cocina](https://www.amazon.es/dp/B01N76C9RN/?tag=tolees-21) a 13.99 EUR (original: 39.99 EUR) (65.02 %  de descuento) en el siguiente enlace!

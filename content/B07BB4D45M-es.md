@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BB4D45M/?tag=tolees-21'
 descuento: '40.05'
+average: '59.95'
 ---
 
 Ahora mismo tienes [The North Face Litewave Fastpack Gore-Tex, Zapatillas de Senderismo para Mujer, Marrón (Fig/Atomic Pink 5um), 37 EU](https://www.amazon.es/dp/B07BB4D45M/?tag=tolees-21) a 59.95 EUR (original: 100 EUR) (40.05 %  de descuento) en el siguiente enlace!

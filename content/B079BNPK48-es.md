@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079BNPK48/?tag=tolees-21'
 descuento: '75.05'
+average: '3.99'
 ---
 
 Está [ASSIST Cúter de Cuchillas Retractable  Cortador Reemplazable Manija de Goma Antideslizante Portable para el Papel  la Alfombra  la Cuerda y más  con 4 Cuchillas Adicionales  Verde ](https://www.amazon.es/dp/B079BNPK48/?tag=tolees-21) con 75.05 de descuento por 3.99 EUR (original: 15.99 EUR) en el siguiente enlace!

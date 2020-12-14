@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00HWTR8XY/?tag=tolees-21'
 descuento: '51.38'
+average: '140.5'
 ---
 
 Ahora mismo tienes [Reloj MASERATI - Hombre R8871610002](https://www.amazon.es/dp/B00HWTR8XY/?tag=tolees-21) a 140.5 EUR (original: 289 EUR) (51.38 %  de descuento) en el siguiente enlace!

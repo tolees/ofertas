@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XWY36MS/?tag=tolees-21'
 descuento: '62.15'
+average: '2.99'
 ---
 
 Tienes [Nuevo Design - Alfombrilla para ratón de para jugador juegos y grafismo  compatible con todo tipo de ratón  bola  óptica  láser  - Medium](https://www.amazon.es/dp/B06XWY36MS/?tag=tolees-21) con un 62.15 % de descuento con precio de oferta de 2.99 EUR (original: 7.9 EUR) en el siguiente enlace!

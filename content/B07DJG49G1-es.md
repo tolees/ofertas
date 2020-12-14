@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJG49G1/?tag=tolees-21'
 descuento: '68.73'
+average: '25'
 ---
 
 Tienes [Dockers by Gerli 39or009  Zapatillas Altas para Hombre  Amarillo  Golden Tan 910   44 EU](https://www.amazon.es/dp/B07DJG49G1/?tag=tolees-21) con un 68.73 % de descuento con precio de oferta de 25 EUR (original: 79.95 EUR) en el siguiente enlace!

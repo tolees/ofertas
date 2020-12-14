@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0777RDV7V/?tag=tolees-21'
 descuento: '66.09'
+average: '16.95'
 ---
 
 Está [JACK & JONES Jjicody Jjspencer WW White Pepper Noos  Pantalones Hombre  Beige  White Pepper    Talla del Fabricante: 31 ](https://www.amazon.es/dp/B0777RDV7V/?tag=tolees-21) con 66.09 de descuento por 16.95 EUR (original: 49.99 EUR) en el siguiente enlace!

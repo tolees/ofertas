@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC1LJKS/?tag=tolees-21'
 descuento: '80.53'
+average: '17.51'
 ---
 
 Ahora mismo tienes [Puma Basket Heart Patent Wn s  Zapatillas para Mujer  Morado Elderberry  37 EU](https://www.amazon.es/dp/B07DC1LJKS/?tag=tolees-21) a 17.51 EUR (original: 89.95 EUR) (80.53 %  de descuento) en el siguiente enlace!

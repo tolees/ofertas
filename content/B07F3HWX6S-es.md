@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F3HWX6S/?tag=tolees-21'
 descuento: '39.80'
+average: '5.4'
 ---
 
 Está [Johnson s -  Vita-Rich Gel de Ducha Reconfortante  3 x 750 ml](https://www.amazon.es/dp/B07F3HWX6S/?tag=tolees-21) con 39.80 de descuento por 5.4 EUR (original: 8.97 EUR) en el siguiente enlace!

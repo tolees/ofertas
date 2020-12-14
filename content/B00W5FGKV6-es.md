@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00W5FGKV6/?tag=tolees-21'
 descuento: '81.96'
+average: '21.12'
 ---
 
 Ahora mismo tienes [Lee Luke - Pantalones para hombre  Grau  Charcoal 2   W26x32L](https://www.amazon.es/dp/B00W5FGKV6/?tag=tolees-21) a 21.12 EUR (original: 117.05 EUR) (81.96 %  de descuento) en el siguiente enlace!

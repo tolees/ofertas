@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00PDL3SBE/?tag=tolees-21'
 descuento: '30.67'
+average: '52'
 ---
 
 Tienes [New Balance U410CC  Zapatillas Unisex  Negro  Carbon Grey   42.5 EU](https://www.amazon.es/dp/B00PDL3SBE/?tag=tolees-21) con un 30.67 % de descuento con precio de oferta de 52 EUR (original: 75 EUR) en el siguiente enlace!

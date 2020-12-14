@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FV4SX5S/?tag=tolees-21'
 descuento: '46.01'
+average: '20.3'
 ---
 
 Está [Anne Moller Pour Homme Global Anti Aging Cream Crema Antiarrugas - 50 ml](https://www.amazon.es/dp/B01FV4SX5S/?tag=tolees-21) con 46.01 de descuento por 20.3 EUR (original: 37.6 EUR) en el siguiente enlace!

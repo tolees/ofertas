@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005IXG9Y0/?tag=tolees-21'
 descuento: '35.60'
+average: '24.95'
 ---
 
 Ahora mismo tienes [La Roche Posay Effaclar Sérum Anti-Âge - 30 ml](https://www.amazon.es/dp/B005IXG9Y0/?tag=tolees-21) a 24.95 EUR (original: 38.74 EUR) (35.60 %  de descuento) en el siguiente enlace!

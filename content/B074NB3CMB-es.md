@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074NB3CMB/?tag=tolees-21'
 descuento: '77.54'
+average: '15.72'
 ---
 
 Ahora mismo tienes [edc by Esprit 107cc1i047 suéter  Gris  Light Grey 040   Medium para Mujer](https://www.amazon.es/dp/B074NB3CMB/?tag=tolees-21) a 15.72 EUR (original: 69.99 EUR) (77.54 %  de descuento) en el siguiente enlace!

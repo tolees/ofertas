@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000P3DYTG/?tag=tolees-21'
 descuento: '42.95'
+average: '5.99'
 ---
 
 Tienes [Wolfcraft 8725000 - Destornillador manual con portapuntas  largo 197 mm](https://www.amazon.es/dp/B000P3DYTG/?tag=tolees-21) con un 42.95 % de descuento con precio de oferta de 5.99 EUR (original: 10.5 EUR) en el siguiente enlace!

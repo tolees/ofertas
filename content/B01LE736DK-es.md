@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LE736DK/?tag=tolees-21'
 descuento: '29.17'
+average: '42.5'
 ---
 
 Ahora mismo tienes [ECCO Terracruise  Zapatillas De Deporte para Exterior Hombre  Azul  58933TRUE NAVY/TRUE NAVY/CONCRETE   42 EU](https://www.amazon.es/dp/B01LE736DK/?tag=tolees-21) a 42.5 EUR (original: 60 EUR) (29.17 %  de descuento) en el siguiente enlace!

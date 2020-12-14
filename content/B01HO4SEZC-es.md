@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HO4SEZC/?tag=tolees-21'
 descuento: '49.33'
+average: '38'
 ---
 
 Ahora mismo tienes [Taurus NEW-948 700 Vitara 3000 New-Aspiradora con Bolsa  diseño Compacto  Sistema Energy Eco  Filtro Lavable  Capacidad 2 l   Blanco  Azul y Negro  700 W  2 litros  80 Decibelios](https://www.amazon.es/dp/B01HO4SEZC/?tag=tolees-21) a 38 EUR (original: 74.99 EUR) (49.33 %  de descuento) en el siguiente enlace!

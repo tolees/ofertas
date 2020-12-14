@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00C3S5XHC/?tag=tolees-21'
 descuento: '36.61'
+average: '4.83'
 ---
 
 Ahora mismo tienes [Plantronics 89108-01 - Almohadilla para auriculares  pack de 2 ](https://www.amazon.es/dp/B00C3S5XHC/?tag=tolees-21) a 4.83 EUR (original: 7.62 EUR) (36.61 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071HRNPRL/?tag=tolees-21'
 descuento: '72.41'
+average: '27.58'
 ---
 
 Ahora mismo tienes [Puma Fierce Nbk Naturals  Zapatillas Deportivas para Interior para Mujer  Beige  Taffy   36 EU](https://www.amazon.es/dp/B071HRNPRL/?tag=tolees-21) a 27.58 EUR (original: 99.95 EUR) (72.41 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0059LG0OA/?tag=tolees-21'
 descuento: '41.58'
+average: '51.99'
 ---
 
 Ahora mismo tienes [Fred Perry M6000  Polo para Hombre](https://www.amazon.es/dp/B0059LG0OA/?tag=tolees-21) a 51.99 EUR (original: 89 EUR) (41.58 %  de descuento) en el siguiente enlace!

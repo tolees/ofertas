@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JHC6KGW/?tag=tolees-21'
 descuento: '44.54'
+average: '24.95'
 ---
 
 Está [JACK & JONES Jfwvision Classic Mixed Navy Blazer Noos  Zapatillas para Hombre  Azul  43 EU](https://www.amazon.es/dp/B07JHC6KGW/?tag=tolees-21) con 44.54 de descuento por 24.95 EUR (original: 44.99 EUR) en el siguiente enlace!

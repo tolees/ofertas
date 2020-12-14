@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9B85HD/?tag=tolees-21'
 descuento: '51.85'
+average: '33.68'
 ---
 
 Ahora mismo tienes [adidas RUN70S  Zapatillas de Running para Hombre  Negro Core Black/FTWR White/Carbon  42 EU](https://www.amazon.es/dp/B07D9B85HD/?tag=tolees-21) a 33.68 EUR (original: 69.95 EUR) (51.85 %  de descuento) en el siguiente enlace!

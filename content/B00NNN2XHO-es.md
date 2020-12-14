@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00NNN2XHO/?tag=tolees-21'
 descuento: '56.01'
+average: '54.99'
 ---
 
 Ahora mismo tienes [Alessi Twist Frutero  Acero Inoxidable Pulido  Plata  Talla única](https://www.amazon.es/dp/B00NNN2XHO/?tag=tolees-21) a 54.99 EUR (original: 125 EUR) (56.01 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GBTYG21/?tag=tolees-21'
 descuento: '68.28'
+average: '40.92'
 ---
 
 Está [Casio Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable Macizo SHE-3046SGP-7BUER](https://www.amazon.es/dp/B07GBTYG21/?tag=tolees-21) con 68.28 de descuento por 40.92 EUR (original: 129 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NAELT0N/?tag=tolees-21'
 descuento: '56.42'
+average: '16.99'
 ---
 
 Está [Metálico Coche de Juguete Modelismo Escala 1：64 Para Niños de 3 Años  16 Pedazos ](https://www.amazon.es/dp/B01NAELT0N/?tag=tolees-21) con 56.42 de descuento por 16.99 EUR (original: 38.99 EUR) en el siguiente enlace!

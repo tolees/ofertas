@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000SIDE02/?tag=tolees-21'
 descuento: '38.22'
+average: '5.56'
 ---
 
 Ahora mismo tienes [Osram Lunetta LED luz de noche E5  0.5 W  Blanco](https://www.amazon.es/dp/B000SIDE02/?tag=tolees-21) a 5.56 EUR (original: 9 EUR) (38.22 %  de descuento) en el siguiente enlace!

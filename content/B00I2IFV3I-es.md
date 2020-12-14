@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00I2IFV3I/?tag=tolees-21'
 descuento: '31.76'
+average: '40.26'
 ---
 
 Ahora mismo tienes [Cressi Flosse Reation Pro Aletas  Unisex  Amarillo/Plateado  38-39](https://www.amazon.es/dp/B00I2IFV3I/?tag=tolees-21) a 40.26 EUR (original: 59 EUR) (31.76 %  de descuento) en el siguiente enlace!

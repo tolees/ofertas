@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D8LJSBT/?tag=tolees-21'
 descuento: '47.73'
+average: '47.02'
 ---
 
 Tienes [BOSS Paule  Polo para Hombre  Negro  Black 001   Large](https://www.amazon.es/dp/B07D8LJSBT/?tag=tolees-21) con un 47.73 % de descuento con precio de oferta de 47.02 EUR (original: 89.95 EUR) en el siguiente enlace!

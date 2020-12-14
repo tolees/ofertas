@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K11VHLL/?tag=tolees-21'
 descuento: '56.50'
+average: '17.38'
 ---
 
 Tienes [adidas N-5923 EL I  Zapatillas de Gimnasia Unisex bebé  Negro Core Black/Carbon  21 EU](https://www.amazon.es/dp/B07K11VHLL/?tag=tolees-21) con un 56.50 % de descuento con precio de oferta de 17.38 EUR (original: 39.95 EUR) en el siguiente enlace!

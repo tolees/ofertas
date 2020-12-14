@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJZVB4L/?tag=tolees-21'
 descuento: '34.53'
+average: '22.28'
 ---
 
 Ahora mismo tienes [Gola Ala639  Zapatillas Deportivas para Interior para Mujer  Azul  Navy/White EW   39 EU](https://www.amazon.es/dp/B07DJZVB4L/?tag=tolees-21) a 22.28 EUR (original: 34.03 EUR) (34.53 %  de descuento) en el siguiente enlace!

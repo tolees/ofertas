@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGPZCM7/?tag=tolees-21'
 descuento: '60.77'
+average: '11.77'
 ---
 
 Ahora mismo tienes [Burton Underhill Camisetas  Hombre  True Black  XS](https://www.amazon.es/dp/B07KGPZCM7/?tag=tolees-21) a 11.77 EUR (original: 30 EUR) (60.77 %  de descuento) en el siguiente enlace!

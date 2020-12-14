@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ8RMMM/?tag=tolees-21'
 descuento: '72.41'
+average: '33.11'
 ---
 
 Tienes [New Balance Revlite 890v6  Zapatillas de Running para Mujer  Rosa  Light Cashmere Lc6   37 EU](https://www.amazon.es/dp/B07DJ8RMMM/?tag=tolees-21) con un 72.41 % de descuento con precio de oferta de 33.11 EUR (original: 120 EUR) en el siguiente enlace!

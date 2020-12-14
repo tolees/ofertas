@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y2ZCVK8/?tag=tolees-21'
 descuento: '30.11'
+average: '9.75'
 ---
 
 Está [Joma Miami Bermuda Deporte de Tenis  Hombre  Marino  2XL-3XL](https://www.amazon.es/dp/B06Y2ZCVK8/?tag=tolees-21) con 30.11 de descuento por 9.75 EUR (original: 13.95 EUR) en el siguiente enlace!

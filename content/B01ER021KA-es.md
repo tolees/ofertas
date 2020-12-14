@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01ER021KA/?tag=tolees-21'
 descuento: '77.61'
+average: '44.56'
 ---
 
 Está [Jacques Lemans Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 1-1905E](https://www.amazon.es/dp/B01ER021KA/?tag=tolees-21) con 77.61 de descuento por 44.56 EUR (original: 199 EUR) en el siguiente enlace!

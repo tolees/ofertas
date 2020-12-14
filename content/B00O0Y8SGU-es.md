@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00O0Y8SGU/?tag=tolees-21'
 descuento: '58.38'
+average: '16.23'
 ---
 
 Ahora mismo tienes [Levi s Rectangular Buckle Belt - Cinturón Hombre  Negro  BLACK   90 cm  Talla del fabricante: 90 ](https://www.amazon.es/dp/B00O0Y8SGU/?tag=tolees-21) a 16.23 EUR (original: 39 EUR) (58.38 %  de descuento) en el siguiente enlace!

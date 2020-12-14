@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MTS83DA/?tag=tolees-21'
 descuento: '59.40'
+average: '57.38'
 ---
 
 Tienes [Replay Anbass  Jeans Hombre  Negro  Black Denim   W32/L34  Talla del fabricante: 32 ](https://www.amazon.es/dp/B01MTS83DA/?tag=tolees-21) con un 59.40 % de descuento con precio de oferta de 57.38 EUR (original: 141.33 EUR) en el siguiente enlace!

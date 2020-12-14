@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DF8QZ7L/?tag=tolees-21'
 descuento: '54.79'
+average: '40.67'
 ---
 
 Está [adidas Real H Y Kit Conjunto  Unisex niños   blabas/Negro   140](https://www.amazon.es/dp/B07DF8QZ7L/?tag=tolees-21) con 54.79 de descuento por 40.67 EUR (original: 89.95 EUR) en el siguiente enlace!

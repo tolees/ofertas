@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RQHJRS/?tag=tolees-21'
 descuento: '65.53'
+average: '25.85'
 ---
 
 Está [Pepe Jeans Zoe  Suéter para Mujer  Negro  Black 999   X-Small](https://www.amazon.es/dp/B079RQHJRS/?tag=tolees-21) con 65.53 de descuento por 25.85 EUR (original: 75 EUR) en el siguiente enlace!

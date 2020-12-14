@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FY87GZP/?tag=tolees-21'
 descuento: '67.14'
+average: '10.99'
 ---
 
 Está [Compacto Llavero y Organizador Powerdelux Llavero Organizador de Llaves Inteligente Elegante Diseño Gris Ligero KeyCage XD006 Soporte de Llaves Portátil](https://www.amazon.es/dp/B07FY87GZP/?tag=tolees-21) con 67.14 de descuento por 10.99 EUR (original: 33.44 EUR) en el siguiente enlace!

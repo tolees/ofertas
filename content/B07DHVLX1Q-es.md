@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHVLX1Q/?tag=tolees-21'
 descuento: '66.83'
+average: '24.88'
 ---
 
 Ahora mismo tienes [ALDO Faulia  Zapatillas para Mujer  Negro  Jet Black 1 98   40 EU](https://www.amazon.es/dp/B07DHVLX1Q/?tag=tolees-21) a 24.88 EUR (original: 75 EUR) (66.83 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HQ522NM/?tag=tolees-21'
 descuento: '66.67'
+average: '29.99'
 ---
 
 Está [Plancha Ropa Vapor Vertical Mini Cepillo De Vapor De Mano Plancha De Vapor Portátil Para el Viaje y Hogar Plancha de Mano Eliminación Rápida De Calor y Arrugas Hogar y Viajes](https://www.amazon.es/dp/B07HQ522NM/?tag=tolees-21) con 66.67 de descuento por 29.99 EUR (original: 89.99 EUR) en el siguiente enlace!

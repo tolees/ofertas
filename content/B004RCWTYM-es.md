@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004RCWTYM/?tag=tolees-21'
 descuento: '67.32'
+average: '5.54'
 ---
 
 Está [Kingston MBLY4G2/32GB - Tarjeta Micro SDHC de 32 GB  Clase 4  con adaptador SD y lector USB](https://www.amazon.es/dp/B004RCWTYM/?tag=tolees-21) con 67.32 de descuento por 5.54 EUR (original: 16.95 EUR) en el siguiente enlace!

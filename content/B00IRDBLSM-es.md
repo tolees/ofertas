@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IRDBLSM/?tag=tolees-21'
 descuento: '61.98'
+average: '17.49'
 ---
 
 Tienes [Schwarzkopf Professional BC Smooth Perfect Treatment Tratamiento Capilar - 750 ml](https://www.amazon.es/dp/B00IRDBLSM/?tag=tolees-21) con un 61.98 % de descuento con precio de oferta de 17.49 EUR (original: 46 EUR) en el siguiente enlace!

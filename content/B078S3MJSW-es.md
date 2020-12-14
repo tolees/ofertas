@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078S3MJSW/?tag=tolees-21'
 descuento: '52.02'
+average: '11.99'
 ---
 
 Tienes [Double Retractable Washing Line 26M  2 x 13M  Durable Garden Clothes Dryer M&W](https://www.amazon.es/dp/B078S3MJSW/?tag=tolees-21) con un 52.02 % de descuento con precio de oferta de 11.99 EUR (original: 24.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MA6KIVN/?tag=tolees-21'
 descuento: '60.01'
+average: '39.99'
 ---
 
 Está [Motorola Smart Nursery Baby & Me Scale - Bluetooth báscula conectada para bebés y por el resto della famiglia  color blanco](https://www.amazon.es/dp/B01MA6KIVN/?tag=tolees-21) con 60.01 de descuento por 39.99 EUR (original: 99.99 EUR) en el siguiente enlace!

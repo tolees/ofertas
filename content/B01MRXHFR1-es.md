@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MRXHFR1/?tag=tolees-21'
 descuento: '49.87'
+average: '35.09'
 ---
 
 Ahora mismo tienes [Under Armour Ua Strive 7  Zapatillas Deportivas Hombre  Negro  Anthracite 016   40.5 EU](https://www.amazon.es/dp/B01MRXHFR1/?tag=tolees-21) a 35.09 EUR (original: 70 EUR) (49.87 %  de descuento) en el siguiente enlace!

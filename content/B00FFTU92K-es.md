@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00FFTU92K/?tag=tolees-21'
 descuento: '62.88'
+average: '21.9'
 ---
 
 Ahora mismo tienes [Braun TS505 - Plancha ropa vapor  2000w  suela cerámica  suela eloxal  vapor vertical  control vapor variable  blanco y púrpura](https://www.amazon.es/dp/B00FFTU92K/?tag=tolees-21) a 21.9 EUR (original: 59 EUR) (62.88 %  de descuento) en el siguiente enlace!

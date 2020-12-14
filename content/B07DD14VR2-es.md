@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DD14VR2/?tag=tolees-21'
 descuento: '71.02'
+average: '26.07'
 ---
 
 Ahora mismo tienes [Puma Suede Bow Wn s  Zapatillas para Mujer  Blanco Whisper White 02  38.5 EU](https://www.amazon.es/dp/B07DD14VR2/?tag=tolees-21) a 26.07 EUR (original: 89.95 EUR) (71.02 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y13WNZV/?tag=tolees-21'
 descuento: '29.30'
+average: '69.99'
 ---
 
 Está [OMRON MIT5s Connect - Tensiómetro de brazo  Bluetooth  aplicación OMRON Connect para móviles  indicador de hipertensión](https://www.amazon.es/dp/B06Y13WNZV/?tag=tolees-21) con 29.30 de descuento por 69.99 EUR (original: 99 EUR) en el siguiente enlace!

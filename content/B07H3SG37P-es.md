@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H3SG37P/?tag=tolees-21'
 descuento: '46.95'
+average: '17.5'
 ---
 
 Ahora mismo tienes [【Salud y Portátil】Tensiómetro de muñeca CocoBear Tensiometro de muñeca digital，Memoria（2 * 90）certificación FDA/CE](https://www.amazon.es/dp/B07H3SG37P/?tag=tolees-21) a 17.5 EUR (original: 32.99 EUR) (46.95 %  de descuento) en el siguiente enlace!

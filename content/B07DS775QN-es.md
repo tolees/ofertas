@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DS775QN/?tag=tolees-21'
 descuento: '79.83'
+average: '21.38'
 ---
 
 Ahora mismo tienes [Reebok Reago Train  Zapatillas de Deporte para Hombre   Black/Ash Porcelain/Foggy Grey 000   43 EU](https://www.amazon.es/dp/B07DS775QN/?tag=tolees-21) a 21.38 EUR (original: 106.02 EUR) (79.83 %  de descuento) en el siguiente enlace!

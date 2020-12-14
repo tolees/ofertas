@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M1CG1I3/?tag=tolees-21'
 descuento: '55.00'
+average: '49.5'
 ---
 
 Tienes [Camper Andratx  Zapatillas Altas para Hombre  Schwarz  Black 001   42 EU](https://www.amazon.es/dp/B01M1CG1I3/?tag=tolees-21) con un 55.00 % de descuento con precio de oferta de 49.5 EUR (original: 110 EUR) en el siguiente enlace!

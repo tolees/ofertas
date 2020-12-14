@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00REE99TS/?tag=tolees-21'
 descuento: '30.22'
+average: '222.75'
 ---
 
 Tienes [Piquadro Trolley para portátiles  Tortora  Gris  - BV3148OS/TO](https://www.amazon.es/dp/B00REE99TS/?tag=tolees-21) con un 30.22 % de descuento con precio de oferta de 222.75 EUR (original: 319.23 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00FQD5FSS/?tag=tolees-21'
 descuento: '67.90'
+average: '10'
 ---
 
 Ahora mismo tienes [Bestway 58242 Cobertor Solar para Piscinas  100x45x115 cm](https://www.amazon.es/dp/B00FQD5FSS/?tag=tolees-21) a 10 EUR (original: 31.15 EUR) (67.90 %  de descuento) en el siguiente enlace!

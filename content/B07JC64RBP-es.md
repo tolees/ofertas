@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JC64RBP/?tag=tolees-21'
 descuento: '52.67'
+average: '14.2'
 ---
 
 Ahora mismo tienes [Nike Classic Soft Bra Sports  Mujer  Carbon Heather/Anthracite/Whit  M](https://www.amazon.es/dp/B07JC64RBP/?tag=tolees-21) a 14.2 EUR (original: 30 EUR) (52.67 %  de descuento) en el siguiente enlace!

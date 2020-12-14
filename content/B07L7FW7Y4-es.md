@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L7FW7Y4/?tag=tolees-21'
 descuento: '25.02'
+average: '11.99'
 ---
 
 Está [Mini Máquina de Coser Portátil  Herramienta Manual Portátil Herramienta de Puntada Rápida para Tela  Ropa o Tela de Niños](https://www.amazon.es/dp/B07L7FW7Y4/?tag=tolees-21) con 25.02 de descuento por 11.99 EUR (original: 15.99 EUR) en el siguiente enlace!

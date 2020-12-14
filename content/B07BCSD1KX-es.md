@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BCSD1KX/?tag=tolees-21'
 descuento: '66.85'
+average: '26.5'
 ---
 
 Ahora mismo tienes [Clarks Step Allenabay  Zapatillas para Mujer  Morado  Aubergine   39.5 EU](https://www.amazon.es/dp/B07BCSD1KX/?tag=tolees-21) a 26.5 EUR (original: 79.95 EUR) (66.85 %  de descuento) en el siguiente enlace!

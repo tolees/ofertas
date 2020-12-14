@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06ZYS4D6G/?tag=tolees-21'
 descuento: '44.45'
+average: '49.99'
 ---
 
 Está [YEMA Casco Motocross Niño ECE Homologado YM-211 Casco de Moto Infantil Cross Integral Enduro Infantil para Mujer Hombre Adultos  L](https://www.amazon.es/dp/B06ZYS4D6G/?tag=tolees-21) con 44.45 de descuento por 49.99 EUR (original: 89.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DKV22CZ/?tag=tolees-21'
 descuento: '42.96'
+average: '39.9'
 ---
 
 Ahora mismo tienes [NBA 2k19 [Importación italiana]](https://www.amazon.es/dp/B07DKV22CZ/?tag=tolees-21) a 39.9 EUR (original: 69.95 EUR) (42.96 %  de descuento) en el siguiente enlace!

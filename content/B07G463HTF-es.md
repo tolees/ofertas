@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G463HTF/?tag=tolees-21'
 descuento: '26.37'
+average: '23.99'
 ---
 
 Ahora mismo tienes [Wiswan Batería Externa Power Bank 24000mAh  Cargador Solar Puerto de Alta Velocidad  2 LED Ligeros  Total 5A Puertos de Carga USB para iPhone  iPad  Samsung  androide y Otros Dispositivos](https://www.amazon.es/dp/B07G463HTF/?tag=tolees-21) a 23.99 EUR (original: 32.58 EUR) (26.37 %  de descuento) en el siguiente enlace!

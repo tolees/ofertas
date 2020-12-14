@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N39QMRC/?tag=tolees-21'
 descuento: '50.00'
+average: '45'
 ---
 
 Está [The North Face W Litewave Fastpack II  Zapatillas de Senderismo para Mujer  Gris  Ebony Grey/Atomic Pink C3c   38.5 EU](https://www.amazon.es/dp/B07N39QMRC/?tag=tolees-21) con 50.00 de descuento por 45 EUR (original: 90 EUR) en el siguiente enlace!

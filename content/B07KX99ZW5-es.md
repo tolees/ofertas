@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KX99ZW5/?tag=tolees-21'
 descuento: '42.41'
+average: '130.73'
 ---
 
 Tienes [Love Moschino Embroidered Allover \Ladybirds\_Chambray Shorts Pantalones Cortos   Beige+Embroider 8002   W31  Talla del Fabricante: 42  para Mujer](https://www.amazon.es/dp/B07KX99ZW5/?tag=tolees-21) con un 42.41 % de descuento con precio de oferta de 130.73 EUR (original: 227 EUR) en el siguiente enlace!

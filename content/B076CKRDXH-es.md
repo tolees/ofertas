@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076CKRDXH/?tag=tolees-21'
 descuento: '40.90'
+average: '62.06'
 ---
 
 Está [American Tourister Sonicsurfer - Upright 55/20 Equipaje de Mano  55 cm  43 Liters  Gris  Dark Shadow ](https://www.amazon.es/dp/B076CKRDXH/?tag=tolees-21) con 40.90 de descuento por 62.06 EUR (original: 105 EUR) en el siguiente enlace!

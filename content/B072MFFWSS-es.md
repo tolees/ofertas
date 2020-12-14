@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072MFFWSS/?tag=tolees-21'
 descuento: '30.00'
+average: '25.9'
 ---
 
 Tienes [FIND Zapatillas Grabado Reptil para Mujer  Blanco  White   37 EU](https://www.amazon.es/dp/B072MFFWSS/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 25.9 EUR (original: 37 EUR) en el siguiente enlace!

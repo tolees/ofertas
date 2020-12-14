@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y2YLR8K/?tag=tolees-21'
 descuento: '47.97'
+average: '52'
 ---
 
 Está [New Balance 574 Core Zapatillas Hombre  Azul  Blue Navy   42.5 EU  8.5 UK ](https://www.amazon.es/dp/B06Y2YLR8K/?tag=tolees-21) con 47.97 de descuento por 52 EUR (original: 99.95 EUR) en el siguiente enlace!

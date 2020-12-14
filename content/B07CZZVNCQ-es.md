@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZZVNCQ/?tag=tolees-21'
 descuento: '46.19'
+average: '15.04'
 ---
 
 Está [BOSS Hip Brief Heritage Slip  Negro  Black 001   X-Large para Hombre](https://www.amazon.es/dp/B07CZZVNCQ/?tag=tolees-21) con 46.19 de descuento por 15.04 EUR (original: 27.95 EUR) en el siguiente enlace!

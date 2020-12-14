@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DKB2KWK/?tag=tolees-21'
 descuento: '52.84'
+average: '37.26'
 ---
 
 Tienes [Kipling - Earthbeat S  Bolsos bandolera Mujer  Blanco  Dazz White ](https://www.amazon.es/dp/B07DKB2KWK/?tag=tolees-21) con un 52.84 % de descuento con precio de oferta de 37.26 EUR (original: 79 EUR) en el siguiente enlace!

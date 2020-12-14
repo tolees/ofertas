@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00DDYZT4M/?tag=tolees-21'
 descuento: '51.23'
+average: '7.95'
 ---
 
 Está [Dim - Medias 15 den para mujer  talla 38/40  S/M   color negro](https://www.amazon.es/dp/B00DDYZT4M/?tag=tolees-21) con 51.23 de descuento por 7.95 EUR (original: 16.3 EUR) en el siguiente enlace!

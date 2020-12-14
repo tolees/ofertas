@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFXNK5H/?tag=tolees-21'
 descuento: '71.90'
+average: '12.63'
 ---
 
 Tienes [Puma RBR Speedcat EVO T-Shirt  Hombre  White  XL](https://www.amazon.es/dp/B07DFXNK5H/?tag=tolees-21) con un 71.90 % de descuento con precio de oferta de 12.63 EUR (original: 44.95 EUR) en el siguiente enlace!

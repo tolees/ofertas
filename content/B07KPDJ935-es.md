@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KPDJ935/?tag=tolees-21'
 descuento: '32.46'
+average: '60.75'
 ---
 
 Tienes [Adidas Predator 19.3 FG  Botas de fútbol para Hombre  000  39 1/3 EU](https://www.amazon.es/dp/B07KPDJ935/?tag=tolees-21) con un 32.46 % de descuento con precio de oferta de 60.75 EUR (original: 89.95 EUR) en el siguiente enlace!

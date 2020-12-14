@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KSNBG8T/?tag=tolees-21'
 descuento: '54.02'
+average: '32.18'
 ---
 
 Tienes [Columbia 1714291 CHALLENGER  Cortavientos impermeable  Hombre   Poliéster   Rosa  Rosewater Camo    Talla XL](https://www.amazon.es/dp/B07KSNBG8T/?tag=tolees-21) con un 54.02 % de descuento con precio de oferta de 32.18 EUR (original: 69.99 EUR) en el siguiente enlace!

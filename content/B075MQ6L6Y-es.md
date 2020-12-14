@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075MQ6L6Y/?tag=tolees-21'
 descuento: '35.40'
+average: '36.5'
 ---
 
 Tienes [Under Armour UA Charged Escape  Zapatillas de Running para Hombre  Negro  Black   44 EU](https://www.amazon.es/dp/B075MQ6L6Y/?tag=tolees-21) con un 35.40 % de descuento con precio de oferta de 36.5 EUR (original: 56.5 EUR) en el siguiente enlace!

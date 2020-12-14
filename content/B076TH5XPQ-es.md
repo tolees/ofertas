@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076TH5XPQ/?tag=tolees-21'
 descuento: '46.79'
+average: '34.56'
 ---
 
 Tienes [Skechers On-The-go Glide-Effusive  Zapatillas para Hombre  Azul  Navy   42.5 EU](https://www.amazon.es/dp/B076TH5XPQ/?tag=tolees-21) con un 46.79 % de descuento con precio de oferta de 34.56 EUR (original: 64.95 EUR) en el siguiente enlace!

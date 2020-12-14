@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06VXHNH3Z/?tag=tolees-21'
 descuento: '56.35'
+average: '5.5'
 ---
 
 Tienes [FIND 16 11 RB 026 camisetas  Blanco  White   38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B06VXHNH3Z/?tag=tolees-21) con un 56.35 % de descuento con precio de oferta de 5.5 EUR (original: 12.6 EUR) en el siguiente enlace!

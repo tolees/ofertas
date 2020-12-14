@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077YDTTXB/?tag=tolees-21'
 descuento: '58.75'
+average: '6.58'
 ---
 
 Ahora mismo tienes [HIKARO AMA SHIPLEY camisetas  Rojo  Red   40  Talla del fabricante: Medium ](https://www.amazon.es/dp/B077YDTTXB/?tag=tolees-21) a 6.58 EUR (original: 15.95 EUR) (58.75 %  de descuento) en el siguiente enlace!

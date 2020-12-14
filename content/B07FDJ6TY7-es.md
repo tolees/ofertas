@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FDJ6TY7/?tag=tolees-21'
 descuento: '64.47'
+average: '19.54'
 ---
 
 Ahora mismo tienes [Superdry - Fresh International Montana  Mochilas Hombre  Gris  Light Grey Marl   30x45x15 cm  W x H L ](https://www.amazon.es/dp/B07FDJ6TY7/?tag=tolees-21) a 19.54 EUR (original: 55 EUR) (64.47 %  de descuento) en el siguiente enlace!

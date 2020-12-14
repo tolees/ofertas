@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K5LFDD1/?tag=tolees-21'
 descuento: '62.99'
+average: '9.99'
 ---
 
 Está [OPPSARE Cepillo de Limpieza Facial  Sistema de Limpieza Sónica Suave y Masajeador Facial Antienvejecimiento](https://www.amazon.es/dp/B07K5LFDD1/?tag=tolees-21) con 62.99 de descuento por 9.99 EUR (original: 26.99 EUR) en el siguiente enlace!

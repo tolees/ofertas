@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BDDL8FP/?tag=tolees-21'
 descuento: '55.12'
+average: '10.99'
 ---
 
 Tienes [Hunletai Cable Recarga USB Tipo C  Gold  Paquete de 2](https://www.amazon.es/dp/B07BDDL8FP/?tag=tolees-21) con un 55.12 % de descuento con precio de oferta de 10.99 EUR (original: 24.49 EUR) en el siguiente enlace!

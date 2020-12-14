@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01AJE8OH2/?tag=tolees-21'
 descuento: '30.43'
+average: '18.61'
 ---
 
 Ahora mismo tienes [Campingaz 2000026173 - Soldador](https://www.amazon.es/dp/B01AJE8OH2/?tag=tolees-21) a 18.61 EUR (original: 26.75 EUR) (30.43 %  de descuento) en el siguiente enlace!

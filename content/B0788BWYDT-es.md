@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0788BWYDT/?tag=tolees-21'
 descuento: '53.52'
+average: '32.51'
 ---
 
 Ahora mismo tienes [Adidas Duramo 8 Trainer M  Zapatillas de Deporte para Hombre  Azul  Azretr/Ftwbla/Pertiz 000   41 1/3 EU](https://www.amazon.es/dp/B0788BWYDT/?tag=tolees-21) a 32.51 EUR (original: 69.95 EUR) (53.52 %  de descuento) en el siguiente enlace!

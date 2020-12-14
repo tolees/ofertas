@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QMRKX9D/?tag=tolees-21'
 descuento: '50.04'
+average: '19.98'
 ---
 
 Está [AL OFA Restricciones de cama con cómodos Muñeca y Tobillo Cuffs Strap Kit Pareja SMs Juguetes uego de Correas  Negro](https://www.amazon.es/dp/B07QMRKX9D/?tag=tolees-21) con 50.04 de descuento por 19.98 EUR (original: 39.99 EUR) en el siguiente enlace!

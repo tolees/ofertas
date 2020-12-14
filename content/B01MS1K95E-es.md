@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MS1K95E/?tag=tolees-21'
 descuento: '54.61'
+average: '72.62'
 ---
 
 Está [Asics Dynaflyte  Zapatillas de Running para Mujer  Rosa  Diva Pink/Silver/Black   39.5 EU](https://www.amazon.es/dp/B01MS1K95E/?tag=tolees-21) con 54.61 de descuento por 72.62 EUR (original: 160 EUR) en el siguiente enlace!

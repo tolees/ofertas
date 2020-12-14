@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CG1R3TT/?tag=tolees-21'
 descuento: '47.50'
+average: '9.45'
 ---
 
 Ahora mismo tienes [Quo Vadis 237982Q - Life Journal DOTS 15x21cm  Método Bullet Journal  Azul](https://www.amazon.es/dp/B07CG1R3TT/?tag=tolees-21) a 9.45 EUR (original: 18 EUR) (47.50 %  de descuento) en el siguiente enlace!

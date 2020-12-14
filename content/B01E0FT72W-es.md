@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01E0FT72W/?tag=tolees-21'
 descuento: '25.02'
+average: '299.93'
 ---
 
 Está [Garmin Zumo 345 LM Western - Navegador GPS con mapas por vida  pantalla de 4 3"   mapa oeste Europa ](https://www.amazon.es/dp/B01E0FT72W/?tag=tolees-21) con 25.02 de descuento por 299.93 EUR (original: 399.99 EUR) en el siguiente enlace!

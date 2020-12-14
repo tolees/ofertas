@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CBPVZ3S/?tag=tolees-21'
 descuento: '71.14'
+average: '25.97'
 ---
 
 Está [Levi s Honey  Botas Slouch para Mujer  Marrón  Dark Brown 29   36 EU](https://www.amazon.es/dp/B07CBPVZ3S/?tag=tolees-21) con 71.14 de descuento por 25.97 EUR (original: 90 EUR) en el siguiente enlace!

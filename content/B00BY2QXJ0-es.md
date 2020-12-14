@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00BY2QXJ0/?tag=tolees-21'
 descuento: '54.11'
+average: '39'
 ---
 
 Ahora mismo tienes [WMF Stelio Batidora de vaso  600 W  1.5 litros  Acero Inoxidable  5 Velocidades  Cromargan mate/Negro](https://www.amazon.es/dp/B00BY2QXJ0/?tag=tolees-21) a 39 EUR (original: 84.99 EUR) (54.11 %  de descuento) en el siguiente enlace!

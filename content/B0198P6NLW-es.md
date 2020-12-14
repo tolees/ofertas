@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0198P6NLW/?tag=tolees-21'
 descuento: '34.29'
+average: '45.99'
 ---
 
 Tienes [Rowenta Access Steam Minute DR8095D1 - Cepillo vapor de mano de 1500 W  200 ml  elimina arrugas  olores y desinfecta  calentamiento en 45 seg  accesorio prendas delicadas y gruesas](https://www.amazon.es/dp/B0198P6NLW/?tag=tolees-21) con un 34.29 % de descuento con precio de oferta de 45.99 EUR (original: 69.99 EUR) en el siguiente enlace!

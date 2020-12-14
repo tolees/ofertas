@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078XXVZJS/?tag=tolees-21'
 descuento: '76.37'
+average: '13.02'
 ---
 
 Tienes [Bearpaw Summer  Zapatillas para Mujer  Beige  Linen 379   37.5 EU](https://www.amazon.es/dp/B078XXVZJS/?tag=tolees-21) con un 76.37 % de descuento con precio de oferta de 13.02 EUR (original: 55.09 EUR) en el siguiente enlace!

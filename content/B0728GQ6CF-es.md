@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0728GQ6CF/?tag=tolees-21'
 descuento: '38.81'
+average: '60.58'
 ---
 
 Ahora mismo tienes [Reloj Tommy Hilfiger - Mujer 1781795](https://www.amazon.es/dp/B0728GQ6CF/?tag=tolees-21) a 60.58 EUR (original: 99 EUR) (38.81 %  de descuento) en el siguiente enlace!

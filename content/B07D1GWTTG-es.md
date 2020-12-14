@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D1GWTTG/?tag=tolees-21'
 descuento: '54.46'
+average: '36.43'
 ---
 
 Ahora mismo tienes [Asics Gel-Game 6  Zapatillas de Tenis para Hombre  Blanco  White/Race Blue 100   44.5 EU](https://www.amazon.es/dp/B07D1GWTTG/?tag=tolees-21) a 36.43 EUR (original: 80 EUR) (54.46 %  de descuento) en el siguiente enlace!

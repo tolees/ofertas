@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D6YLJJ4/?tag=tolees-21'
 descuento: '49.99'
+average: '44.98'
 ---
 
 Ahora mismo tienes [adidas X_PLR  Zapatillas para Hombre  Azul  Collegiate Navy/Aero Blue/Footwear White 0   42 2/3 EU](https://www.amazon.es/dp/B07D6YLJJ4/?tag=tolees-21) a 44.98 EUR (original: 89.95 EUR) (49.99 %  de descuento) en el siguiente enlace!

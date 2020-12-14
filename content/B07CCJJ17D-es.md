@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CCJJ17D/?tag=tolees-21'
 descuento: '42.72'
+average: '11.45'
 ---
 
 Tienes [JACK & JONES Jjepaulos Polo SS Noos  Rojo  Port Royale Detail:Slim Fit   X-Large para Hombre](https://www.amazon.es/dp/B07CCJJ17D/?tag=tolees-21) con un 42.72 % de descuento con precio de oferta de 11.45 EUR (original: 19.99 EUR) en el siguiente enlace!

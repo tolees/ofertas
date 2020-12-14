@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D5KXV5B/?tag=tolees-21'
 descuento: '49.99'
+average: '39.98'
 ---
 
 Ahora mismo tienes [Adidas Alphabounce RC.2 m  Zapatillas de Entrenamiento para Hombre  Gris Carbon/Core Black 0  42 2/3 EU](https://www.amazon.es/dp/B07D5KXV5B/?tag=tolees-21) a 39.98 EUR (original: 79.95 EUR) (49.99 %  de descuento) en el siguiente enlace!

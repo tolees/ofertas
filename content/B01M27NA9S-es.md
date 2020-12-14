@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M27NA9S/?tag=tolees-21'
 descuento: '37.07'
+average: '16.99'
 ---
 
 Está [Loovara Intimate Anal Relajante anal 50ml Anal Spray de relajación para el placer anal](https://www.amazon.es/dp/B01M27NA9S/?tag=tolees-21) con 37.07 de descuento por 16.99 EUR (original: 27 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078XYFQ68/?tag=tolees-21'
 descuento: '54.98'
+average: '13.5'
 ---
 
 Ahora mismo tienes [The Raven Remastered](https://www.amazon.es/dp/B078XYFQ68/?tag=tolees-21) a 13.5 EUR (original: 29.99 EUR) (54.98 %  de descuento) en el siguiente enlace!

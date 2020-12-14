@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KTVGVH1/?tag=tolees-21'
 descuento: '54.57'
+average: '84'
 ---
 
 Ahora mismo tienes [LIU JO Shoes Karlie 14-Sneaker Calf Leather White  Zapatillas para Mujer  Blanco 01111  39 EU](https://www.amazon.es/dp/B07KTVGVH1/?tag=tolees-21) a 84 EUR (original: 184.9 EUR) (54.57 %  de descuento) en el siguiente enlace!

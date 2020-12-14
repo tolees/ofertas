@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078L3CFRZ/?tag=tolees-21'
 descuento: '69.03'
+average: '34.07'
 ---
 
 Tienes [Nike W Air MAX Sequent 3 PRM V  Zapatillas de Running para Mujer  Gris  Oil Grey/Bright Mango-Diffused Taupe 001   42 EU](https://www.amazon.es/dp/B078L3CFRZ/?tag=tolees-21) con un 69.03 % de descuento con precio de oferta de 34.07 EUR (original: 110 EUR) en el siguiente enlace!

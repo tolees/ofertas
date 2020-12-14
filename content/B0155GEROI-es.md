@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0155GEROI/?tag=tolees-21'
 descuento: '68.80'
+average: '19'
 ---
 
 Ahora mismo tienes [Proficook SM 1094 - Batidora de mano semiprofesional](https://www.amazon.es/dp/B0155GEROI/?tag=tolees-21) a 19 EUR (original: 60.9 EUR) (68.80 %  de descuento) en el siguiente enlace!

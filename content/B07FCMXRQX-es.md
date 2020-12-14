@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FCMXRQX/?tag=tolees-21'
 descuento: '30.16'
+average: '38.41'
 ---
 
 Está [Guess - Felix  Carteras Mujer  Multicolor  Stripe/Stp   12.5x11x3 cm  W x H L ](https://www.amazon.es/dp/B07FCMXRQX/?tag=tolees-21) con 30.16 de descuento por 38.41 EUR (original: 55 EUR) en el siguiente enlace!

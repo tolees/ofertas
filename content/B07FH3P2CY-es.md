@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FH3P2CY/?tag=tolees-21'
 descuento: '46.19'
+average: '37.82'
 ---
 
 Tienes [Levis Footwear and Accessories Vernon Sportswear  Zapatillas para Hombre  Negro  Regular Black 59   40 EU](https://www.amazon.es/dp/B07FH3P2CY/?tag=tolees-21) con un 46.19 % de descuento con precio de oferta de 37.82 EUR (original: 70.29 EUR) en el siguiente enlace!

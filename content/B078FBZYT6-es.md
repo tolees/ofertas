@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078FBZYT6/?tag=tolees-21'
 descuento: '52.07'
+average: '47.88'
 ---
 
 Tienes [Tommy Hilfiger Mercer Chino Org Harvard Twill  Pantalones Hombre  Azul  Sky Captain 416  W31/L34](https://www.amazon.es/dp/B078FBZYT6/?tag=tolees-21) con un 52.07 % de descuento con precio de oferta de 47.88 EUR (original: 99.9 EUR) en el siguiente enlace!

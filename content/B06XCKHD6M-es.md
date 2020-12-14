@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XCKHD6M/?tag=tolees-21'
 descuento: '48.88'
+average: '6.64'
 ---
 
 Tienes [Springfield Top Blanco S](https://www.amazon.es/dp/B06XCKHD6M/?tag=tolees-21) con un 48.88 % de descuento con precio de oferta de 6.64 EUR (original: 12.99 EUR) en el siguiente enlace!

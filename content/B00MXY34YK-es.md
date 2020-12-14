@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00MXY34YK/?tag=tolees-21'
 descuento: '59.55'
+average: '11.79'
 ---
 
 Está [Varta High Energy 4906 - Baterías  AA 4B  10er Pack ](https://www.amazon.es/dp/B00MXY34YK/?tag=tolees-21) con 59.55 de descuento por 11.79 EUR (original: 29.15 EUR) en el siguiente enlace!

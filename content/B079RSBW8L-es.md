@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RSBW8L/?tag=tolees-21'
 descuento: '76.26'
+average: '15.43'
 ---
 
 Tienes [Pepe Jeans Silke  Suéter para Mujer  Azul  Blue 551   Medium](https://www.amazon.es/dp/B079RSBW8L/?tag=tolees-21) con un 76.26 % de descuento con precio de oferta de 15.43 EUR (original: 65 EUR) en el siguiente enlace!

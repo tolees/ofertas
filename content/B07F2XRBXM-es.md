@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F2XRBXM/?tag=tolees-21'
 descuento: '49.98'
+average: '60'
 ---
 
 Tienes [adidas Yung-1  Zapatillas de Deporte para Hombre  Blanco Blanub/Ftwbla 0  44 2/3 EU](https://www.amazon.es/dp/B07F2XRBXM/?tag=tolees-21) con un 49.98 % de descuento con precio de oferta de 60 EUR (original: 119.95 EUR) en el siguiente enlace!

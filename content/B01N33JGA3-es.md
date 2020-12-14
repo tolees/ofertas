@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N33JGA3/?tag=tolees-21'
 descuento: '79.68'
+average: '10.15'
 ---
 
 Está [Marco Tozzi 25119  Botas Chukka para Mujer  Negro  Black Stpcom   41 EU](https://www.amazon.es/dp/B01N33JGA3/?tag=tolees-21) con 79.68 de descuento por 10.15 EUR (original: 49.95 EUR) en el siguiente enlace!

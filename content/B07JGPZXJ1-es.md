@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JGPZXJ1/?tag=tolees-21'
 descuento: '60.64'
+average: '21.63'
 ---
 
 Ahora mismo tienes [Puma Axis  Zapatillas Unisex Adulto  Blanco White-Bright Peach 06  44 EU](https://www.amazon.es/dp/B07JGPZXJ1/?tag=tolees-21) a 21.63 EUR (original: 54.95 EUR) (60.64 %  de descuento) en el siguiente enlace!

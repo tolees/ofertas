@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F7ZBJHR/?tag=tolees-21'
 descuento: '72.41'
+average: '8'
 ---
 
 Ahora mismo tienes [Bollé Freeze Máscaras  Unisex Adulto  Azul Mate  M](https://www.amazon.es/dp/B07F7ZBJHR/?tag=tolees-21) a 8 EUR (original: 29 EUR) (72.41 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007V92HBS/?tag=tolees-21'
 descuento: '55.15'
+average: '17'
 ---
 
 Tienes [Playtex 24h Soft Sujetador con aros  Beige  Arena   100D para Mujer](https://www.amazon.es/dp/B007V92HBS/?tag=tolees-21) con un 55.15 % de descuento con precio de oferta de 17 EUR (original: 37.9 EUR) en el siguiente enlace!

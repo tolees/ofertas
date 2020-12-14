@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K6LGP3Z/?tag=tolees-21'
 descuento: '55.46'
+average: '28.95'
 ---
 
 Está [Asics Aaron  Zapatillas de Gimnasia para Hombre  Verde  Aloe/Khaki 201   44 EU](https://www.amazon.es/dp/B07K6LGP3Z/?tag=tolees-21) con 55.46 de descuento por 28.95 EUR (original: 65 EUR) en el siguiente enlace!

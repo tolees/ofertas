@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000Q2Y9BI/?tag=tolees-21'
 descuento: '31.65'
+average: '25.29'
 ---
 
 Ahora mismo tienes [Méthode Jeanne Piaubert Masaje tonificante con rodillo estimulante para cara y cuello  200 gr](https://www.amazon.es/dp/B000Q2Y9BI/?tag=tolees-21) a 25.29 EUR (original: 37 EUR) (31.65 %  de descuento) en el siguiente enlace!

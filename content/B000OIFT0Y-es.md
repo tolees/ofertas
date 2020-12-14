@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000OIFT0Y/?tag=tolees-21'
 descuento: '31.98'
+average: '29.71'
 ---
 
 Tienes [Intenso 4111156 - DVD+R  16x  4.7 GB](https://www.amazon.es/dp/B000OIFT0Y/?tag=tolees-21) con un 31.98 % de descuento con precio de oferta de 29.71 EUR (original: 43.68 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BPLVXD5/?tag=tolees-21'
 descuento: '66.51'
+average: '10.03'
 ---
 
 Tienes [s.Oliver 17303-31  Mules para Hombre   Dark Grey 212   43 EU](https://www.amazon.es/dp/B07BPLVXD5/?tag=tolees-21) con un 66.51 % de descuento con precio de oferta de 10.03 EUR (original: 29.95 EUR) en el siguiente enlace!

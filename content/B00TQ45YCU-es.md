@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TQ45YCU/?tag=tolees-21'
 descuento: '34.10'
+average: '1837.28'
 ---
 
 Tienes [ Campagnolo WH15-BOCFR - Rue J  Bora Ultra Two Cubierta Campa](https://www.amazon.es/dp/B00TQ45YCU/?tag=tolees-21) con un 34.10 % de descuento con precio de oferta de 1837.28 EUR (original: 2788 EUR) en el siguiente enlace!

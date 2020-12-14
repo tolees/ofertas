@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LYM55O3/?tag=tolees-21'
 descuento: '73.07'
+average: '24.24'
 ---
 
 Ahora mismo tienes [New Balance Wx99  Zapatillas de Atletismo para Mujer  Negro  Black   40 EU](https://www.amazon.es/dp/B01LYM55O3/?tag=tolees-21) a 24.24 EUR (original: 90 EUR) (73.07 %  de descuento) en el siguiente enlace!

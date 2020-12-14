@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M1UN83K/?tag=tolees-21'
 descuento: '33.92'
+average: '62.78'
 ---
 
 Está [American Tourister Summer Voyager Upright Equipaje de Mano  55 cm  38.5 litros  Color Negro](https://www.amazon.es/dp/B01M1UN83K/?tag=tolees-21) con 33.92 de descuento por 62.78 EUR (original: 95 EUR) en el siguiente enlace!

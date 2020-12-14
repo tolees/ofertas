@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MZHSFJ3/?tag=tolees-21'
 descuento: '71.44'
+average: '19.99'
 ---
 
 Está [AIJEESI Auriculares inalámbricos  Auriculares Hi-Fi con Sonido estéreo bajo y Bluetooth con Chip CSR  3 Modos de ecualización  hasta 10 Horas de reproducción  micrófono con cancelación de Ruido](https://www.amazon.es/dp/B07MZHSFJ3/?tag=tolees-21) con 71.44 de descuento por 19.99 EUR (original: 69.99 EUR) en el siguiente enlace!

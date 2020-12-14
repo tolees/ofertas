@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BHZNQT6/?tag=tolees-21'
 descuento: '31.98'
+average: '9.85'
 ---
 
 Está [Colon Detergente Vanish Whites 60 dosis](https://www.amazon.es/dp/B07BHZNQT6/?tag=tolees-21) con 31.98 de descuento por 9.85 EUR (original: 14.48 EUR) en el siguiente enlace!

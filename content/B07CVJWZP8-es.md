@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CVJWZP8/?tag=tolees-21'
 descuento: '52.54'
+average: '33.2'
 ---
 
 Tienes [Skechers Recent-Meroso  Zapatillas para Hombre  Verde  Olive/Black Old   41 EU](https://www.amazon.es/dp/B07CVJWZP8/?tag=tolees-21) con un 52.54 % de descuento con precio de oferta de 33.2 EUR (original: 69.95 EUR) en el siguiente enlace!

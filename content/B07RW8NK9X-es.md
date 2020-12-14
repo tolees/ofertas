@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RW8NK9X/?tag=tolees-21'
 descuento: '33.34'
+average: '59.99'
 ---
 
 Tienes [NOUDOO Tableta de Escritura LCD  21 Pulgadas LCD eWriter Tableta gráfica portátil LCD Almohadilla Bloqueo Tablero de Dibujo para Niños](https://www.amazon.es/dp/B07RW8NK9X/?tag=tolees-21) con un 33.34 % de descuento con precio de oferta de 59.99 EUR (original: 89.99 EUR) en el siguiente enlace!

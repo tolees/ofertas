@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00J3O9A6O/?tag=tolees-21'
 descuento: '63.33'
+average: '22'
 ---
 
 Tienes [Philips Plafón 71761/30/16  Azul](https://www.amazon.es/dp/B00J3O9A6O/?tag=tolees-21) con un 63.33 % de descuento con precio de oferta de 22 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076HMSFNP/?tag=tolees-21'
 descuento: '36.17'
+average: '15.95'
 ---
 
 Está [Adidas Core18 Polo Shirt  Hombre  Power Red/White  L](https://www.amazon.es/dp/B076HMSFNP/?tag=tolees-21) con 36.17 de descuento por 15.95 EUR (original: 24.99 EUR) en el siguiente enlace!

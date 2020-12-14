@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M8GJMTG/?tag=tolees-21'
 descuento: '81.48'
+average: '1.38'
 ---
 
 Tienes [Mickey Mouse True-Bolígrafo](https://www.amazon.es/dp/B07M8GJMTG/?tag=tolees-21) con un 81.48 % de descuento con precio de oferta de 1.38 EUR (original: 7.45 EUR) en el siguiente enlace!

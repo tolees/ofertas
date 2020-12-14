@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B4WL3FF/?tag=tolees-21'
 descuento: '92.00'
+average: '15.99'
 ---
 
 Ahora mismo tienes [Ifecco Bluetooth Estéreo Auriculares Música Sobre-oído Sonido de alta fidelidad  Bluetooth Banda para la cabeza plegable con micrófono y cable de audio para Apple iPhone  PC  azul ](https://www.amazon.es/dp/B07B4WL3FF/?tag=tolees-21) a 15.99 EUR (original: 199.99 EUR) (92.00 %  de descuento) en el siguiente enlace!

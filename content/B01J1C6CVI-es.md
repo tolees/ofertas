@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01J1C6CVI/?tag=tolees-21'
 descuento: '85.98'
+average: '7.01'
 ---
 
 Ahora mismo tienes [JACK & JONES PREMIUM JPRMARK KNIT CREW NECK NOOS  suéter Hombre  Azul  Maritime Navy   XX-Large](https://www.amazon.es/dp/B01J1C6CVI/?tag=tolees-21) a 7.01 EUR (original: 49.99 EUR) (85.98 %  de descuento) en el siguiente enlace!

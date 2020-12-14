@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LY8TVLS/?tag=tolees-21'
 descuento: '79.72'
+average: '20.07'
 ---
 
 Tienes [Ouch! Deluxe Silicone Strap On 10 Inch Purpura Dildo de Silicona con Arnés - 403 gr](https://www.amazon.es/dp/B01LY8TVLS/?tag=tolees-21) con un 79.72 % de descuento con precio de oferta de 20.07 EUR (original: 98.95 EUR) en el siguiente enlace!

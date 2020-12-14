@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B010DEZIUY/?tag=tolees-21'
 descuento: '41.23'
+average: '155.73'
 ---
 
 Está [Bric s Trolley para portátiles  BLU  Azul  - BRE08031.006](https://www.amazon.es/dp/B010DEZIUY/?tag=tolees-21) con 41.23 de descuento por 155.73 EUR (original: 265 EUR) en el siguiente enlace!

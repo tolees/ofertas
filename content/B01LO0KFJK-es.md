@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LO0KFJK/?tag=tolees-21'
 descuento: '39.85'
+average: '11.97'
 ---
 
 Está [Lékué Bagels  Silicona  Marron  10.3 cm  6 Unidades](https://www.amazon.es/dp/B01LO0KFJK/?tag=tolees-21) con 39.85 de descuento por 11.97 EUR (original: 19.9 EUR) en el siguiente enlace!

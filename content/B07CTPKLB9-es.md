@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CTPKLB9/?tag=tolees-21'
 descuento: '58.37'
+average: '29.14'
 ---
 
 Está [Under Armour Ripple  Zapatillas de Running para Mujer  Negro  Black/Pitch Gray/Purple Prime 006   38 EU](https://www.amazon.es/dp/B07CTPKLB9/?tag=tolees-21) con 58.37 de descuento por 29.14 EUR (original: 70 EUR) en el siguiente enlace!

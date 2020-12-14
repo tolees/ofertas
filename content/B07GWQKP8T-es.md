@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GWQKP8T/?tag=tolees-21'
 descuento: '68.61'
+average: '269.99'
 ---
 
 Tienes [ANYCALL Amplificador de Señal para Coche/Carro/RV Uso Multi Banda gsm 900MHz 3G WCDMA 2100MHz 4G LTE 800/1800/2600MHz Antenas Kits Mejorar Señal de Teléfono](https://www.amazon.es/dp/B07GWQKP8T/?tag=tolees-21) con un 68.61 % de descuento con precio de oferta de 269.99 EUR (original: 860 EUR) en el siguiente enlace!

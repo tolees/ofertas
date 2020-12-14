@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TJ2BC2A/?tag=tolees-21'
 descuento: '25.96'
+average: '173.64'
 ---
 
 Está [HP CE401YC - Tóner 507A XL  color cian](https://www.amazon.es/dp/B00TJ2BC2A/?tag=tolees-21) con 25.96 de descuento por 173.64 EUR (original: 234.52 EUR) en el siguiente enlace!

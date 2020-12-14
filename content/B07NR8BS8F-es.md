@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NR8BS8F/?tag=tolees-21'
 descuento: '39.47'
+average: '6.81'
 ---
 
 Ahora mismo tienes [SYOSS Champú Color Tech para un Color Vibrante- 3 uds de 500ml  Total: 1500ml ](https://www.amazon.es/dp/B07NR8BS8F/?tag=tolees-21) a 6.81 EUR (original: 11.25 EUR) (39.47 %  de descuento) en el siguiente enlace!

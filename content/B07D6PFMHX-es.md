@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D6PFMHX/?tag=tolees-21'
 descuento: '46.68'
+average: '15.99'
 ---
 
 Está [LOFIR Calcetines Cortos de Algodón para Hombre  Respirable Calcetines de Antideslizantes para Hombre  Barco Calcetines de Deporte Colegio Negocio Corriendo  Talla 38-44  5 pares](https://www.amazon.es/dp/B07D6PFMHX/?tag=tolees-21) con 46.68 de descuento por 15.99 EUR (original: 29.99 EUR) en el siguiente enlace!

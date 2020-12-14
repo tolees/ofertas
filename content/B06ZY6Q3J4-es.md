@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06ZY6Q3J4/?tag=tolees-21'
 descuento: '62.10'
+average: '26.53'
 ---
 
 Está [Vans Camden Stripe  Zapatillas de Entrenamiento para Mujer  Rojo  Menswear   36.5 EU](https://www.amazon.es/dp/B06ZY6Q3J4/?tag=tolees-21) con 62.10 de descuento por 26.53 EUR (original: 70 EUR) en el siguiente enlace!

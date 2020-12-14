@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JG15KTM/?tag=tolees-21'
 descuento: '62.98'
+average: '22.21'
 ---
 
 Está [K-Swiss Aeronaut  Zapatillas para Hombre  Negro Blk/Highrise 060  44 EU](https://www.amazon.es/dp/B07JG15KTM/?tag=tolees-21) con 62.98 de descuento por 22.21 EUR (original: 59.99 EUR) en el siguiente enlace!

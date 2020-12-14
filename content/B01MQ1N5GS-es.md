@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MQ1N5GS/?tag=tolees-21'
 descuento: '43.29'
+average: '120.09'
 ---
 
 Está [Box Set [Vinilo]](https://www.amazon.es/dp/B01MQ1N5GS/?tag=tolees-21) con 43.29 de descuento por 120.09 EUR (original: 211.76 EUR) en el siguiente enlace!

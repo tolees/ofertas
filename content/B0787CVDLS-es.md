@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0787CVDLS/?tag=tolees-21'
 descuento: '70.88'
+average: '14.53'
 ---
 
 Está [Pepe Jeans London Gery Anglaise  Zapatillas para Mujer  Rojo  Spicy Red   37 EU](https://www.amazon.es/dp/B0787CVDLS/?tag=tolees-21) con 70.88 de descuento por 14.53 EUR (original: 49.9 EUR) en el siguiente enlace!

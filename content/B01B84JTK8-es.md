@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01B84JTK8/?tag=tolees-21'
 descuento: '44.75'
+average: '20.99'
 ---
 
 Tienes [Hummel Sweat SABER 1/2 Zip Junior](https://www.amazon.es/dp/B01B84JTK8/?tag=tolees-21) con un 44.75 % de descuento con precio de oferta de 20.99 EUR (original: 37.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00SUSUDCO/?tag=tolees-21'
 descuento: '41.49'
+average: '8.77'
 ---
 
 Tienes [POP! Bobble - Marvel: Avengers AOU: Hulk](https://www.amazon.es/dp/B00SUSUDCO/?tag=tolees-21) con un 41.49 % de descuento con precio de oferta de 8.77 EUR (original: 14.99 EUR) en el siguiente enlace!

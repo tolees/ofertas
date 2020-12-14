@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LY6KPU2/?tag=tolees-21'
 descuento: '42.76'
+average: '11.42'
 ---
 
 Tienes [Bestway - Piscina de Juegos  52212 ](https://www.amazon.es/dp/B01LY6KPU2/?tag=tolees-21) con un 42.76 % de descuento con precio de oferta de 11.42 EUR (original: 19.95 EUR) en el siguiente enlace!

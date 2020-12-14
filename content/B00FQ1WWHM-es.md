@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00FQ1WWHM/?tag=tolees-21'
 descuento: '55.12'
+average: '17.93'
 ---
 
 Está [Scholl Velvet Smooth with Marine Minerals - Aparato de pedicura eléctrico  elimina las callosidades  versión alemana ](https://www.amazon.es/dp/B00FQ1WWHM/?tag=tolees-21) con 55.12 de descuento por 17.93 EUR (original: 39.95 EUR) en el siguiente enlace!

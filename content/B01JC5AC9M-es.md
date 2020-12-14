@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01JC5AC9M/?tag=tolees-21'
 descuento: '38.53'
+average: '22.99'
 ---
 
 Tienes [TERMIX PACK 5 CEPILLOS](https://www.amazon.es/dp/B01JC5AC9M/?tag=tolees-21) con un 38.53 % de descuento con precio de oferta de 22.99 EUR (original: 37.4 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QKTHPFF/?tag=tolees-21'
 descuento: '66.56'
+average: '99.99'
 ---
 
 Está [Reloj automático analógico Resistente al Agua Pagani Design para Hombre con Correa de Acero Inoxidable](https://www.amazon.es/dp/B07QKTHPFF/?tag=tolees-21) con 66.56 de descuento por 99.99 EUR (original: 299 EUR) en el siguiente enlace!

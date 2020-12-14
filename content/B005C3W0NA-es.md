@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005C3W0NA/?tag=tolees-21'
 descuento: '43.32'
+average: '28.88'
 ---
 
 Ahora mismo tienes [Basix Rubber Works Suction Cup Dong Transparente Dildo Clásico - 227 gr](https://www.amazon.es/dp/B005C3W0NA/?tag=tolees-21) a 28.88 EUR (original: 50.95 EUR) (43.32 %  de descuento) en el siguiente enlace!

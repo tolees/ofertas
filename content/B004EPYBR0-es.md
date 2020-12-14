@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004EPYBR0/?tag=tolees-21'
 descuento: '41.36'
+average: '10.72'
 ---
 
 Está [Scitec Nutrition Monohidrato de Creatina 250 capsulas](https://www.amazon.es/dp/B004EPYBR0/?tag=tolees-21) con 41.36 de descuento por 10.72 EUR (original: 18.28 EUR) en el siguiente enlace!

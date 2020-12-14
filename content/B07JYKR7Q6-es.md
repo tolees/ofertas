@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JYKR7Q6/?tag=tolees-21'
 descuento: '49.99'
+average: '39.98'
 ---
 
 Ahora mismo tienes [adidas Forest Grove  Zapatillas de Gimnasia para Hombre  43 1/3 EU  Amarillo  Easy Yellow/Core Black/Ftwr White ](https://www.amazon.es/dp/B07JYKR7Q6/?tag=tolees-21) a 39.98 EUR (original: 79.95 EUR) (49.99 %  de descuento) en el siguiente enlace!

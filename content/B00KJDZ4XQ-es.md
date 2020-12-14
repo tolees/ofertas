@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00KJDZ4XQ/?tag=tolees-21'
 descuento: '43.97'
+average: '33.05'
 ---
 
 Está [Suarez Hashtag A7 Zapatero 2 baldas  melamina  Blanco  82 x 60 x 24 2 cm](https://www.amazon.es/dp/B00KJDZ4XQ/?tag=tolees-21) con 43.97 de descuento por 33.05 EUR (original: 58.99 EUR) en el siguiente enlace!

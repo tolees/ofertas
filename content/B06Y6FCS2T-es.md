@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y6FCS2T/?tag=tolees-21'
 descuento: '57.51'
+average: '16.99'
 ---
 
 Ahora mismo tienes [BaronHong Sport Bra Chest Binder Transpirable Mesh Corset para Tomboy Trans Lesbian  Gris  M ](https://www.amazon.es/dp/B06Y6FCS2T/?tag=tolees-21) a 16.99 EUR (original: 39.99 EUR) (57.51 %  de descuento) en el siguiente enlace!

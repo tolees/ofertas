@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GJCXPP4/?tag=tolees-21'
 descuento: '47.39'
+average: '9.99'
 ---
 
 Ahora mismo tienes [Cocoda Soporte Tablet Coche  Universal Soporte Reposacabezas Coche  Ajustable 360 Grados Anti Vibración Soporte Asiento para Smartphones  Nintendo Switch  Otro 4.7 to 10.5 Dispositivos](https://www.amazon.es/dp/B07GJCXPP4/?tag=tolees-21) a 9.99 EUR (original: 18.99 EUR) (47.39 %  de descuento) en el siguiente enlace!

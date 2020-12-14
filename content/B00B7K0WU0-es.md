@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00B7K0WU0/?tag=tolees-21'
 descuento: '29.05'
+average: '134.1'
 ---
 
 Está [GHD V Gold Professional Classic Styler - Plancha para el pelo  color negro](https://www.amazon.es/dp/B00B7K0WU0/?tag=tolees-21) con 29.05 de descuento por 134.1 EUR (original: 189 EUR) en el siguiente enlace!

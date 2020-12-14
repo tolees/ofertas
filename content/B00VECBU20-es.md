@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00VECBU20/?tag=tolees-21'
 descuento: '66.13'
+average: '12.53'
 ---
 
 Ahora mismo tienes [17 L macetero  500 mm de ratán  color gris oscuro  cuadrado](https://www.amazon.es/dp/B00VECBU20/?tag=tolees-21) a 12.53 EUR (original: 36.99 EUR) (66.13 %  de descuento) en el siguiente enlace!

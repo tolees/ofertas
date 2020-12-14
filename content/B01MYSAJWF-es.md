@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MYSAJWF/?tag=tolees-21'
 descuento: '64.72'
+average: '10.55'
 ---
 
 Está [Urban Classics Ladies Velvet Pants Pantalones  Rosa  Pink 185   44  Talla del Fabricante: XL  para Mujer](https://www.amazon.es/dp/B01MYSAJWF/?tag=tolees-21) con 64.72 de descuento por 10.55 EUR (original: 29.9 EUR) en el siguiente enlace!

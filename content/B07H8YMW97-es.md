@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H8YMW97/?tag=tolees-21'
 descuento: '35.87'
+average: '9.35'
 ---
 
 Está [New Look Sophie Stripe suéter  Verde  Green Pattern   XS para Mujer](https://www.amazon.es/dp/B07H8YMW97/?tag=tolees-21) con 35.87 de descuento por 9.35 EUR (original: 14.58 EUR) en el siguiente enlace!

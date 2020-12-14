@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078GSQFVH/?tag=tolees-21'
 descuento: '68.97'
+average: '6.88'
 ---
 
 Tienes [Speedo 8-09040C259 Bañador de Competición  Niños  Rojo  Lava Red/Blanco   XS](https://www.amazon.es/dp/B078GSQFVH/?tag=tolees-21) con un 68.97 % de descuento con precio de oferta de 6.88 EUR (original: 22.17 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07S4H3SZ1/?tag=tolees-21'
 descuento: '37.29'
+average: '36.99'
 ---
 
 Tienes [Retro Estilo de los años 50  por la Noche/Vestido Corto de Fiesta Audrey Hepburn Rockabilly Swing M BP28-2](https://www.amazon.es/dp/B07S4H3SZ1/?tag=tolees-21) con un 37.29 % de descuento con precio de oferta de 36.99 EUR (original: 58.99 EUR) en el siguiente enlace!

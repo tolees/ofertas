@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BB54B8G/?tag=tolees-21'
 descuento: '52.08'
+average: '119.79'
 ---
 
 Tienes [The North Face TNF - Chaquetas  Niños  Negro  TNF Black   M](https://www.amazon.es/dp/B07BB54B8G/?tag=tolees-21) con un 52.08 % de descuento con precio de oferta de 119.79 EUR (original: 250 EUR) en el siguiente enlace!

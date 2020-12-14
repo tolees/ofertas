@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01A5VQL9M/?tag=tolees-21'
 descuento: '31.27'
+average: '54.95'
 ---
 
 Tienes [Worx WX318 - Taladro Percutor 13mm 810W](https://www.amazon.es/dp/B01A5VQL9M/?tag=tolees-21) con un 31.27 % de descuento con precio de oferta de 54.95 EUR (original: 79.95 EUR) en el siguiente enlace!

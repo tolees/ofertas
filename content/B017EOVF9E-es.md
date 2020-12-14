@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017EOVF9E/?tag=tolees-21'
 descuento: '44.95'
+average: '247.74'
 ---
 
 Ahora mismo tienes [Huawei Elite - Smartwatch  Pantalla 1.4"  512 MB RAM  Correa marrón  Color Dorado](https://www.amazon.es/dp/B017EOVF9E/?tag=tolees-21) a 247.74 EUR (original: 450 EUR) (44.95 %  de descuento) en el siguiente enlace!

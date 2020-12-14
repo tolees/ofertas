@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N95PEZQ/?tag=tolees-21'
 descuento: '75.85'
+average: '16.89'
 ---
 
 Tienes [Puma Evopower Vigor 3 FG  Botas de fútbol para Hombre  Naranja  Ultra Yellow-Peacoat-Orange Clown Fish 04   40 EU](https://www.amazon.es/dp/B01N95PEZQ/?tag=tolees-21) con un 75.85 % de descuento con precio de oferta de 16.89 EUR (original: 69.95 EUR) en el siguiente enlace!

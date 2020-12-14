@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GX1VW7Z/?tag=tolees-21'
 descuento: '64.22'
+average: '35.76'
 ---
 
 Tienes [G-STAR RAW Rackam Rovic  Zapatillas para Hombre   Black/White 964   43 EU](https://www.amazon.es/dp/B07GX1VW7Z/?tag=tolees-21) con un 64.22 % de descuento con precio de oferta de 35.76 EUR (original: 99.95 EUR) en el siguiente enlace!

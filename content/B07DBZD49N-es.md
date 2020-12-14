@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DBZD49N/?tag=tolees-21'
 descuento: '43.52'
+average: '39.51'
 ---
 
 Ahora mismo tienes [Puma Cell Ultimate Point  Zapatillas de Running para Hombre  Gris  Charcoal Gray-Peacoat   43 EU](https://www.amazon.es/dp/B07DBZD49N/?tag=tolees-21) a 39.51 EUR (original: 69.95 EUR) (43.52 %  de descuento) en el siguiente enlace!

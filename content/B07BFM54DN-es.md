@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BFM54DN/?tag=tolees-21'
 descuento: '36.32'
+average: '26.27'
 ---
 
 Está [Golden Organic Quinoa Cocida con Salsa Fritada Ecológico - Paquete de 15 x 205 gr - Total: 3075 gr](https://www.amazon.es/dp/B07BFM54DN/?tag=tolees-21) con 36.32 de descuento por 26.27 EUR (original: 41.25 EUR) en el siguiente enlace!

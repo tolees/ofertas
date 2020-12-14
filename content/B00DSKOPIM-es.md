@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00DSKOPIM/?tag=tolees-21'
 descuento: '29.10'
+average: '10.04'
 ---
 
 Tienes [Barceló Cream - Crema De Ron  700 ml](https://www.amazon.es/dp/B00DSKOPIM/?tag=tolees-21) con un 29.10 % de descuento con precio de oferta de 10.04 EUR (original: 14.16 EUR) en el siguiente enlace!

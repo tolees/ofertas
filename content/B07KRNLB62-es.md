@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KRNLB62/?tag=tolees-21'
 descuento: '55.22'
+average: '22.37'
 ---
 
 Tienes [Kappa Inspection  Zapatillas Unisex Adulto  Blanco  White/Blue 1060   42 EU](https://www.amazon.es/dp/B07KRNLB62/?tag=tolees-21) con un 55.22 % de descuento con precio de oferta de 22.37 EUR (original: 49.95 EUR) en el siguiente enlace!

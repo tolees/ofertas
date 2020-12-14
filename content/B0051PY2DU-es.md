@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0051PY2DU/?tag=tolees-21'
 descuento: '39.46'
+average: '10.6'
 ---
 
 Ahora mismo tienes [DON ALGODON HOMBRE 100 VPO  LOTE ](https://www.amazon.es/dp/B0051PY2DU/?tag=tolees-21) a 10.6 EUR (original: 17.51 EUR) (39.46 %  de descuento) en el siguiente enlace!

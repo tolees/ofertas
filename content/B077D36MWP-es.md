@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077D36MWP/?tag=tolees-21'
 descuento: '57.93'
+average: '7.99'
 ---
 
 Ahora mismo tienes [Lunvon Wristband Magnético Con Los Imanes Fuertes Magnético Pulseras Para Los Tornillos De La Explotación Agrícola  Clavos  Pedacitos De Taladro - Muñequera Magnética Herramienta Para DIY  Negro](https://www.amazon.es/dp/B077D36MWP/?tag=tolees-21) a 7.99 EUR (original: 18.99 EUR) (57.93 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K59WPMQ/?tag=tolees-21'
 descuento: '46.91'
+average: '26.52'
 ---
 
 Tienes [Levi s kids Nn26587 Short Bañador  Blanco  White 01   4 años  Talla del Fabricante: 4Y  para Niñas](https://www.amazon.es/dp/B07K59WPMQ/?tag=tolees-21) con un 46.91 % de descuento con precio de oferta de 26.52 EUR (original: 49.95 EUR) en el siguiente enlace!

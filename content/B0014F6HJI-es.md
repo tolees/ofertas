@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0014F6HJI/?tag=tolees-21'
 descuento: '58.56'
+average: '20.7'
 ---
 
 Ahora mismo tienes [Cressi Matrix - Máscara de Buceo y Snorkeling](https://www.amazon.es/dp/B0014F6HJI/?tag=tolees-21) a 20.7 EUR (original: 49.95 EUR) (58.56 %  de descuento) en el siguiente enlace!

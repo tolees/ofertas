@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FG5HBYD/?tag=tolees-21'
 descuento: '45.61'
+average: '59.83'
 ---
 
 Tienes [Lacoste Ph9435  Polo para Hombre  Blanco  White 001  X-Small  Talla del Fabricante: 2 ](https://www.amazon.es/dp/B07FG5HBYD/?tag=tolees-21) con un 45.61 % de descuento con precio de oferta de 59.83 EUR (original: 110 EUR) en el siguiente enlace!

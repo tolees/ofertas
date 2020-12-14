@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07R64RTMW/?tag=tolees-21'
 descuento: '48.34'
+average: '30.99'
 ---
 
 Ahora mismo tienes [Micrófono Karaoke Bluetooth Fede con 2 Altavoces Incorporados  Microfono Inalámbrico Karaoke Portátil para Cantar  Función de Eco  Compatible con Android/iOS  PC o Teléfono Inteligente B ](https://www.amazon.es/dp/B07R64RTMW/?tag=tolees-21) a 30.99 EUR (original: 59.99 EUR) (48.34 %  de descuento) en el siguiente enlace!

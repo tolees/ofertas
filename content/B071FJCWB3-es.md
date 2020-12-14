@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071FJCWB3/?tag=tolees-21'
 descuento: '67.22'
+average: '14.75'
 ---
 
 Ahora mismo tienes [FIND Mono Asimétrico para Mujer  Rojo  Red Tomato Red   Medium](https://www.amazon.es/dp/B071FJCWB3/?tag=tolees-21) a 14.75 EUR (original: 45 EUR) (67.22 %  de descuento) en el siguiente enlace!

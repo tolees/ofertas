@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MXZL5FW/?tag=tolees-21'
 descuento: '37.87'
+average: '18.64'
 ---
 
 Tienes [Salomon Blend Logo SS tee T-Shirt  Hombre  Negro  M](https://www.amazon.es/dp/B07MXZL5FW/?tag=tolees-21) con un 37.87 % de descuento con precio de oferta de 18.64 EUR (original: 30 EUR) en el siguiente enlace!

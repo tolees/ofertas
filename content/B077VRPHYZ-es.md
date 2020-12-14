@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077VRPHYZ/?tag=tolees-21'
 descuento: '78.35'
+average: '12.99'
 ---
 
 Ahora mismo tienes [Paraguas Plegable  Mini Paraguas Ultraligero  Ultra Mini  Ultra Protector Doble-Uso Paraguas del Sol/Lluvia  Ultraligero y Conveniente para Viajes. -Gran Regalo  Negro ](https://www.amazon.es/dp/B077VRPHYZ/?tag=tolees-21) a 12.99 EUR (original: 59.99 EUR) (78.35 %  de descuento) en el siguiente enlace!

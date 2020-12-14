@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0198JG9FI/?tag=tolees-21'
 descuento: '64.19'
+average: '26.86'
 ---
 
 Tienes [The North Face Horizon Plus Pantalones  Mujer   Dune Beige   WNA  Tamaño del Fabricante:8 ](https://www.amazon.es/dp/B0198JG9FI/?tag=tolees-21) con un 64.19 % de descuento con precio de oferta de 26.86 EUR (original: 75 EUR) en el siguiente enlace!

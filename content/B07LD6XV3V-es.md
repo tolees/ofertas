@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LD6XV3V/?tag=tolees-21'
 descuento: '30.28'
+average: '174.3'
 ---
 
 Está [VARLION Pala de pádel LW ZYLON 4 Black LTD](https://www.amazon.es/dp/B07LD6XV3V/?tag=tolees-21) con 30.28 de descuento por 174.3 EUR (original: 250 EUR) en el siguiente enlace!

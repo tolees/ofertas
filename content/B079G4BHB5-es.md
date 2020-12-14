@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079G4BHB5/?tag=tolees-21'
 descuento: '44.62'
+average: '30.46'
 ---
 
 Está [Nike Tanjun Se  GS   Zapatillas de Gimnasia para Niñas  Rosa  Storm Rust Pink/White 603   36.5 EU](https://www.amazon.es/dp/B079G4BHB5/?tag=tolees-21) con 44.62 de descuento por 30.46 EUR (original: 55 EUR) en el siguiente enlace!

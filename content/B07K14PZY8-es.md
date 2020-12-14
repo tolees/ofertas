@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K14PZY8/?tag=tolees-21'
 descuento: '60.02'
+average: '15.99'
 ---
 
 Ahora mismo tienes [Antena de TV  Antena Interior HDTV con Portatil Amplificador  60-80 Millas Gama de Recepción  Obtenga Muchos Canales de TV Gratis  Fácil de Usar y Instalar](https://www.amazon.es/dp/B07K14PZY8/?tag=tolees-21) a 15.99 EUR (original: 39.99 EUR) (60.02 %  de descuento) en el siguiente enlace!

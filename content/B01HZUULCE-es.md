@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HZUULCE/?tag=tolees-21'
 descuento: '51.18'
+average: '48.8'
 ---
 
 Está [G-STAR RAW Bronson Mid Waist Skinny Chino Pantalones  Azul  Mazarine Blue 4213   24W / 32L para Mujer](https://www.amazon.es/dp/B01HZUULCE/?tag=tolees-21) con 51.18 de descuento por 48.8 EUR (original: 99.95 EUR) en el siguiente enlace!

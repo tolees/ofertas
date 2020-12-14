@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074FZSQC1/?tag=tolees-21'
 descuento: '26.47'
+average: '147.02'
 ---
 
 Tienes [GB Pockit Gold Colección 2016 - Silla de paseo ultracompacto para niños de 0-17 kg  desde los 6 meses hasta los 4 años aprox.  Azul  Laguna Blue ](https://www.amazon.es/dp/B074FZSQC1/?tag=tolees-21) con un 26.47 % de descuento con precio de oferta de 147.02 EUR (original: 199.95 EUR) en el siguiente enlace!

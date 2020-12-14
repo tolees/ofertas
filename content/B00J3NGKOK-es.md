@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00J3NGKOK/?tag=tolees-21'
 descuento: '50.37'
+average: '32.26'
 ---
 
 Tienes [Nike MD Runner 2 Se  Zapatillas para Hombre  Negro Black 001  40.5 EU](https://www.amazon.es/dp/B00J3NGKOK/?tag=tolees-21) con un 50.37 % de descuento con precio de oferta de 32.26 EUR (original: 65 EUR) en el siguiente enlace!

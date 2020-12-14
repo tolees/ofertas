@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FY82LV5/?tag=tolees-21'
 descuento: '47.09'
+average: '8.99'
 ---
 
 Está [Zubita Set de Cortapizza  2 en 1 de Acero Inoxidable Cocina Gadgets Herramientas  Cortador de Rueda de Pizzas y Pala Triangular para Cortar Pizzas  Pasteles  Tartas y más.](https://www.amazon.es/dp/B07FY82LV5/?tag=tolees-21) con 47.09 de descuento por 8.99 EUR (original: 16.99 EUR) en el siguiente enlace!

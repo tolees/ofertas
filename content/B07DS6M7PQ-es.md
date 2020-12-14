@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DS6M7PQ/?tag=tolees-21'
 descuento: '49.01'
+average: '16'
 ---
 
 Ahora mismo tienes [Reebok Act Fon S Grip CZ9861 Bolsa  Unisex Adulto  Azul  25 cm](https://www.amazon.es/dp/B07DS6M7PQ/?tag=tolees-21) a 16 EUR (original: 31.38 EUR) (49.01 %  de descuento) en el siguiente enlace!

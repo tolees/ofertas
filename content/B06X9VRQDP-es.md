@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06X9VRQDP/?tag=tolees-21'
 descuento: '30.80'
+average: '4'
 ---
 
 Tienes [Rimmel London Super Gel Esmalte de Uñas Tono 92-47 gr](https://www.amazon.es/dp/B06X9VRQDP/?tag=tolees-21) con un 30.80 % de descuento con precio de oferta de 4 EUR (original: 5.78 EUR) en el siguiente enlace!

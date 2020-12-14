@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H7GLGTH/?tag=tolees-21'
 descuento: '35.01'
+average: '25.99'
 ---
 
 Ahora mismo tienes [Cargador Inteligente de Pilas GbLife con 4 Ranuras Pantalla LCD Carga rápido para Ni-MH Ni-CD Ni-MD Li-Ion 26650 18650 20700 21700 A AA AAA AAAA SC C Recargable Batería](https://www.amazon.es/dp/B07H7GLGTH/?tag=tolees-21) a 25.99 EUR (original: 39.99 EUR) (35.01 %  de descuento) en el siguiente enlace!

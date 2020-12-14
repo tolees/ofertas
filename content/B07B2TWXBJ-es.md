@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B2TWXBJ/?tag=tolees-21'
 descuento: '40.43'
+average: '15.47'
 ---
 
 Tienes [⭐Sabana Bajera Ajustable 100% Poliéster Microfibra  140 x 190/200 cm  Azul Cerúleo - Sin Producto Químico y Fabricado en Europa  Garantía 2 Años  - Sabanas Bajeras Ajustables 4 rincones elasticós](https://www.amazon.es/dp/B07B2TWXBJ/?tag=tolees-21) con un 40.43 % de descuento con precio de oferta de 15.47 EUR (original: 25.97 EUR) en el siguiente enlace!

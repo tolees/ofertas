@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQGCG9B/?tag=tolees-21'
 descuento: '58.00'
+average: '12.6'
 ---
 
 Está [Hurley M Icon Slash Gradient tee Camisetas  Hombre  dk Grey Heather  XL](https://www.amazon.es/dp/B07FQGCG9B/?tag=tolees-21) con 58.00 de descuento por 12.6 EUR (original: 30 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N0KL1AO/?tag=tolees-21'
 descuento: '52.33'
+average: '16.66'
 ---
 
 Ahora mismo tienes [adidas Essentials Classics Polo de Tenis  Hombre  Blanco  White   XL](https://www.amazon.es/dp/B01N0KL1AO/?tag=tolees-21) a 16.66 EUR (original: 34.95 EUR) (52.33 %  de descuento) en el siguiente enlace!

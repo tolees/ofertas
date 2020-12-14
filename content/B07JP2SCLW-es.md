@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JP2SCLW/?tag=tolees-21'
 descuento: '29.29'
+average: '23.97'
 ---
 
 Tienes [Protector de almohada Impermeables 65x65 - Juego de 2 - Felpa 100% Algodón Bi-Home  Funda de Almohada Impermeables – Anti-ácaros  Antibacteriano  Anti-hongos e Hipoalérgico – Garantía de 15 años](https://www.amazon.es/dp/B07JP2SCLW/?tag=tolees-21) con un 29.29 % de descuento con precio de oferta de 23.97 EUR (original: 33.9 EUR) en el siguiente enlace!

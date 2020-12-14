@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MU3BFH7/?tag=tolees-21'
 descuento: '49.97'
+average: '29.99'
 ---
 
 Ahora mismo tienes [Reebok Sublite XT Cushion 2.0 MT  Zapatillas de Trail Running para Mujer  Verde  Fire Coral/Ash Grey/White/Pewter   38.5 EU](https://www.amazon.es/dp/B01MU3BFH7/?tag=tolees-21) a 29.99 EUR (original: 59.95 EUR) (49.97 %  de descuento) en el siguiente enlace!

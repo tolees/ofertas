@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JPF576T/?tag=tolees-21'
 descuento: '49.99'
+average: '24.98'
 ---
 
 Está [adidas Court Stabil Jr Zapatillas de Balonmano Unisex Niños  Negro  Core Black/Hi/Res Yellow/Active Red Core Black/Hi/Res Yellow/Active Red   35 EU  2.5 UK ](https://www.amazon.es/dp/B07JPF576T/?tag=tolees-21) con 49.99 de descuento por 24.98 EUR (original: 49.95 EUR) en el siguiente enlace!

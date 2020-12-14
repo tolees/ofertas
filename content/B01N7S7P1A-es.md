@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N7S7P1A/?tag=tolees-21'
 descuento: '57.88'
+average: '27.36'
 ---
 
 Está [Skechers On-The-go City 3.0-Renovated  Entrenadores para Mujer  Azul  Navy   36 EU](https://www.amazon.es/dp/B01N7S7P1A/?tag=tolees-21) con 57.88 de descuento por 27.36 EUR (original: 64.95 EUR) en el siguiente enlace!

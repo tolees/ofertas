@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DNPYVR1/?tag=tolees-21'
 descuento: '53.34'
+average: '27.99'
 ---
 
 Ahora mismo tienes [ACTOPP Cargador Inalámbrico Qi Estación de Carga 3 Bobinas Cargador Rápido 10W para iPhone XS Max/XR/XS/X/8/8 Plus Samsung Galaxy S9/S9+/S8/S8+/Note 9/Note 8 Huawei Mate 20 Pro Todos Dispositivos Qi](https://www.amazon.es/dp/B07DNPYVR1/?tag=tolees-21) a 27.99 EUR (original: 59.99 EUR) (53.34 %  de descuento) en el siguiente enlace!

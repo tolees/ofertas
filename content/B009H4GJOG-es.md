@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B009H4GJOG/?tag=tolees-21'
 descuento: '34.86'
+average: '25.99'
 ---
 
 Está [BaByliss E824E - Kit cortapelos con 8 funciones  cuchillas de acero inoxidable  uso sin cable  color negro](https://www.amazon.es/dp/B009H4GJOG/?tag=tolees-21) con 34.86 de descuento por 25.99 EUR (original: 39.9 EUR) en el siguiente enlace!

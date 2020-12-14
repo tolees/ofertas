@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F2QCJ2Q/?tag=tolees-21'
 descuento: '34.50'
+average: '45.85'
 ---
 
 Ahora mismo tienes [Helly Hansen HH Logo Hoodie  Hombre  Pepper Green  L](https://www.amazon.es/dp/B07F2QCJ2Q/?tag=tolees-21) a 45.85 EUR (original: 70 EUR) (34.50 %  de descuento) en el siguiente enlace!

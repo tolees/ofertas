@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ9ZJPM/?tag=tolees-21'
 descuento: '41.63'
+average: '15.17'
 ---
 
 Está [Under Armour Men s Launch AV - Gorra  Hombre  Gris  Mod Gray/Black 011  Talla Única](https://www.amazon.es/dp/B07CZ9ZJPM/?tag=tolees-21) con 41.63 de descuento por 15.17 EUR (original: 25.99 EUR) en el siguiente enlace!

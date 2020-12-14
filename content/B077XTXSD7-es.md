@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XTXSD7/?tag=tolees-21'
 descuento: '73.66'
+average: '11.85'
 ---
 
 Tienes [Under Armour Rival Full Zip Parte Superior del Calentamiento  Niñas  Negro  Black/Silver 001   M](https://www.amazon.es/dp/B077XTXSD7/?tag=tolees-21) con un 73.66 % de descuento con precio de oferta de 11.85 EUR (original: 44.99 EUR) en el siguiente enlace!

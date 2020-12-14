@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DRTQVMT/?tag=tolees-21'
 descuento: '63.80'
+average: '19.91'
 ---
 
 Está [Diadora Game S  Zapatillas de Gimnasia Unisex Adulto  Gris  Grigio Acciaio 75070   40 EU](https://www.amazon.es/dp/B07DRTQVMT/?tag=tolees-21) con 63.80 de descuento por 19.91 EUR (original: 55 EUR) en el siguiente enlace!

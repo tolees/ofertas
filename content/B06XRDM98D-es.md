@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XRDM98D/?tag=tolees-21'
 descuento: '66.37'
+average: '58.86'
 ---
 
 Ahora mismo tienes [SHOE THE BEAR Ellen Fur L  Botas para Mujer  Negro  110 Black   40 EU](https://www.amazon.es/dp/B06XRDM98D/?tag=tolees-21) a 58.86 EUR (original: 175 EUR) (66.37 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MBFG7YM/?tag=tolees-21'
 descuento: '44.46'
+average: '19.99'
 ---
 
 Ahora mismo tienes [Shoulder Brace apoyo calor Protective Gear con correa ajustable de neopreno Wrap cinturón banda para Rotator puños  ca conjunto trastornado Prevención y pantalla  para hombro izquierdo](https://www.amazon.es/dp/B07MBFG7YM/?tag=tolees-21) a 19.99 EUR (original: 35.99 EUR) (44.46 %  de descuento) en el siguiente enlace!

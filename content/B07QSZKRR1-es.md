@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QSZKRR1/?tag=tolees-21'
 descuento: '55.31'
+average: '29.05'
 ---
 
 Ahora mismo tienes [Hurley M Phantom Ramble 18  Bañadores  Hombre  Topaz Mist  36](https://www.amazon.es/dp/B07QSZKRR1/?tag=tolees-21) a 29.05 EUR (original: 65 EUR) (55.31 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HD55VGH/?tag=tolees-21'
 descuento: '37.20'
+average: '26.99'
 ---
 
 Ahora mismo tienes [Utensilio de Cocina de Juguete Tostadora Hervidor 27pcs Accesorios de Cocina Educativos de Desarrollo Juego de rol Aparatos de Regalo para Niños Niñas 3 4 5 Años](https://www.amazon.es/dp/B07HD55VGH/?tag=tolees-21) a 26.99 EUR (original: 42.98 EUR) (37.20 %  de descuento) en el siguiente enlace!

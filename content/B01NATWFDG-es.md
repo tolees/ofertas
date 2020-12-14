@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NATWFDG/?tag=tolees-21'
 descuento: '59.99'
+average: '12'
 ---
 
 Está [RED WAGON Bfa001amz02001170210  Sandalia con Pulsera Niñas  Blanco  White   22  Label size:21.5  /5 UK  ](https://www.amazon.es/dp/B01NATWFDG/?tag=tolees-21) con 59.99 de descuento por 12 EUR (original: 29.99 EUR) en el siguiente enlace!

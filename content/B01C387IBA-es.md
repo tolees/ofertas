@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01C387IBA/?tag=tolees-21'
 descuento: '42.99'
+average: '14.48'
 ---
 
 Está [Novadiet Complemento Alimenticio - 320 gr](https://www.amazon.es/dp/B01C387IBA/?tag=tolees-21) con 42.99 de descuento por 14.48 EUR (original: 25.4 EUR) en el siguiente enlace!

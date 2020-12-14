@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00CCVOAFQ/?tag=tolees-21'
 descuento: '62.77'
+average: '14.52'
 ---
 
 Tienes [Samsung S-View - Funda para móvil Galaxy S4  Pantalla frontal  teclas laterales   color rosa- Versión Extranjera](https://www.amazon.es/dp/B00CCVOAFQ/?tag=tolees-21) con un 62.77 % de descuento con precio de oferta de 14.52 EUR (original: 39 EUR) en el siguiente enlace!

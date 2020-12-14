@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BGTOGL2/?tag=tolees-21'
 descuento: '55.32'
+average: '44.66'
 ---
 
 Tienes [G-Star Raw Bronson  Pantalones Para Hombre  Azul  Blue Mazarine Blue   W30/L36](https://www.amazon.es/dp/B01BGTOGL2/?tag=tolees-21) con un 55.32 % de descuento con precio de oferta de 44.66 EUR (original: 99.95 EUR) en el siguiente enlace!

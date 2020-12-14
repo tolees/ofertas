@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BGKKNBJ/?tag=tolees-21'
 descuento: '55.32'
+average: '17.85'
 ---
 
 Está [Munich Messenger Patch  Bolsa para portátil Unisex Adulto  Negro  Black   10x34x42 cm  W x H x L ](https://www.amazon.es/dp/B07BGKKNBJ/?tag=tolees-21) con 55.32 de descuento por 17.85 EUR (original: 39.95 EUR) en el siguiente enlace!

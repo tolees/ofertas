@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC1L7DS/?tag=tolees-21'
 descuento: '52.91'
+average: '37.65'
 ---
 
 Tienes [Puma Jaab XT Men s  Zapatillas de Deporte para Hombre  Verde  Peacoat-Quarry   43 EU](https://www.amazon.es/dp/B07DC1L7DS/?tag=tolees-21) con un 52.91 % de descuento con precio de oferta de 37.65 EUR (original: 79.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N177XVK/?tag=tolees-21'
 descuento: '34.63'
+average: '16.99'
 ---
 
 Está [Afeitadora de Espalda Corporal de Shavermen. Cuchilla Afeitadora de Espalda. Depilación Hombre sin necesidad de ayuda. Esponja de Espalda de Regalo.](https://www.amazon.es/dp/B01N177XVK/?tag=tolees-21) con 34.63 de descuento por 16.99 EUR (original: 25.99 EUR) en el siguiente enlace!

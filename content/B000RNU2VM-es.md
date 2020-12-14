@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000RNU2VM/?tag=tolees-21'
 descuento: '53.09'
+average: '39.87'
 ---
 
 Ahora mismo tienes [Nike Air MAX Sequent 3  GS   Zapatillas de Running Unisex Niños  Azul  Obsidian/Deep Royal Blue-Neutr 402   38.5 EU](https://www.amazon.es/dp/B000RNU2VM/?tag=tolees-21) a 39.87 EUR (original: 85 EUR) (53.09 %  de descuento) en el siguiente enlace!

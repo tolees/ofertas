@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KJZGR4L/?tag=tolees-21'
 descuento: '45.22'
+average: '10.95'
 ---
 
 Ahora mismo tienes [Quiksilver Secret Ingredient T-Shirt  Hombre  Blue Nights  XL](https://www.amazon.es/dp/B07KJZGR4L/?tag=tolees-21) a 10.95 EUR (original: 19.99 EUR) (45.22 %  de descuento) en el siguiente enlace!

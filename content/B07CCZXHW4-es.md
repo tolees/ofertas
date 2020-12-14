@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CCZXHW4/?tag=tolees-21'
 descuento: '35.94'
+average: '12.1'
 ---
 
 Ahora mismo tienes [Loving Vincent - Edición Especial Coleccionista [DVD + Blu-ray + Banda Sonora + Postales] [Blu-ray]](https://www.amazon.es/dp/B07CCZXHW4/?tag=tolees-21) a 12.1 EUR (original: 18.89 EUR) (35.94 %  de descuento) en el siguiente enlace!

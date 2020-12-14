@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D3VQBY2/?tag=tolees-21'
 descuento: '27.57'
+average: '18.1'
 ---
 
 Tienes [edc by Esprit Rubine Wireless Soft  Sujetador sin Aros Mujer  Negro  Black 001   90A  Talla del Fabricante: 75A ](https://www.amazon.es/dp/B07D3VQBY2/?tag=tolees-21) con un 27.57 % de descuento con precio de oferta de 18.1 EUR (original: 24.99 EUR) en el siguiente enlace!

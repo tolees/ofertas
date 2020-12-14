@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01INAB6CE/?tag=tolees-21'
 descuento: '53.24'
+average: '18.7'
 ---
 
 Está [Cortefiel Otoman Coderas Mujer  Azul  Blau   M](https://www.amazon.es/dp/B01INAB6CE/?tag=tolees-21) con 53.24 de descuento por 18.7 EUR (original: 39.99 EUR) en el siguiente enlace!

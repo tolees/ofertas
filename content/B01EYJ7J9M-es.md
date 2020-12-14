@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01EYJ7J9M/?tag=tolees-21'
 descuento: '52.59'
+average: '13.25'
 ---
 
 Ahora mismo tienes [Kappa Kickoff  Zapatillas de Deporte Interior para Niñas  Rosa  Pink/White 2210   28 EU](https://www.amazon.es/dp/B01EYJ7J9M/?tag=tolees-21) a 13.25 EUR (original: 27.95 EUR) (52.59 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073XRJ5GB/?tag=tolees-21'
 descuento: '62.09'
+average: '8.34'
 ---
 
 Tienes [Diesel Umbr-Andre SS 2018  Slip para Hombre  Azul/Gris Medium](https://www.amazon.es/dp/B073XRJ5GB/?tag=tolees-21) con un 62.09 % de descuento con precio de oferta de 8.34 EUR (original: 22 EUR) en el siguiente enlace!

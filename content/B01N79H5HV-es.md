@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N79H5HV/?tag=tolees-21'
 descuento: '28.52'
+average: '27.67'
 ---
 
 Está [Crucial CT4G4SFS624A Memoria RAM de 4 GB  DDR4  2400 MT/s  PC4-19200  Single Rank x 16  SODIMM  260-Pin ](https://www.amazon.es/dp/B01N79H5HV/?tag=tolees-21) con 28.52 de descuento por 27.67 EUR (original: 38.71 EUR) en el siguiente enlace!

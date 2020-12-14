@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00FTWGNA0/?tag=tolees-21'
 descuento: '43.00'
+average: '19.95'
 ---
 
 Tienes [Nike W NSW Air LGGNG Pants  Mujer  Night Maroon/White  XS](https://www.amazon.es/dp/B00FTWGNA0/?tag=tolees-21) con un 43.00 % de descuento con precio de oferta de 19.95 EUR (original: 35 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077TTBQPB/?tag=tolees-21'
 descuento: '70.00'
+average: '22.69'
 ---
 
 Ahora mismo tienes [BESTOMZ Dispensador de la cinta del sellador del cuello de la bolsa de metal con la cinta de 6 rollos 12m m para el supermercado de la tienda](https://www.amazon.es/dp/B077TTBQPB/?tag=tolees-21) a 22.69 EUR (original: 75.63 EUR) (70.00 %  de descuento) en el siguiente enlace!

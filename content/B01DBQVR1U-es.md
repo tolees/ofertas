@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DBQVR1U/?tag=tolees-21'
 descuento: '60.08'
+average: '15.95'
 ---
 
 Ahora mismo tienes [DANISH ENDURANCE Calcetines de Compresión  Negro - 1 Par  EU 39-42 ](https://www.amazon.es/dp/B01DBQVR1U/?tag=tolees-21) a 15.95 EUR (original: 39.95 EUR) (60.08 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00MUIYY4S/?tag=tolees-21'
 descuento: '61.97'
+average: '57.03'
 ---
 
 Está [G-STAR RAW Attacc Straight Jeans  Azul  dk Aged 6566-89   36W / 34L para Hombre](https://www.amazon.es/dp/B00MUIYY4S/?tag=tolees-21) con 61.97 de descuento por 57.03 EUR (original: 149.95 EUR) en el siguiente enlace!

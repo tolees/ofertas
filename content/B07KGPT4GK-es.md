@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGPT4GK/?tag=tolees-21'
 descuento: '53.13'
+average: '14.06'
 ---
 
 Ahora mismo tienes [Burton Vault Camisetas  Hombre  Gray Heather  M](https://www.amazon.es/dp/B07KGPT4GK/?tag=tolees-21) a 14.06 EUR (original: 30 EUR) (53.13 %  de descuento) en el siguiente enlace!

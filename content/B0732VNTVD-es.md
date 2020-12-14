@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0732VNTVD/?tag=tolees-21'
 descuento: '41.71'
+average: '13.99'
 ---
 
 Tienes [NGS  DRAGONFLYKIT Wireless  Kit multimedia inalámbrico con teclas multimedia  Kit de teclado y ratón inalámbricos de 2.4 GHz. Color negro](https://www.amazon.es/dp/B0732VNTVD/?tag=tolees-21) con un 41.71 % de descuento con precio de oferta de 13.99 EUR (original: 24 EUR) en el siguiente enlace!

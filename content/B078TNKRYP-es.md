@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078TNKRYP/?tag=tolees-21'
 descuento: '40.13'
+average: '8.95'
 ---
 
 Tienes [Puma Liga Core Maillot  Hombre  Cyber Yellow/Black  XL](https://www.amazon.es/dp/B078TNKRYP/?tag=tolees-21) con un 40.13 % de descuento con precio de oferta de 8.95 EUR (original: 14.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N7DWFYG/?tag=tolees-21'
 descuento: '52.47'
+average: '16.61'
 ---
 
 Ahora mismo tienes [adidas Altarun CF K  Zapatillas para Niñas  Blanco  Footwear White/Bold Pink/Mid Grey 0   40 EU](https://www.amazon.es/dp/B01N7DWFYG/?tag=tolees-21) a 16.61 EUR (original: 34.95 EUR) (52.47 %  de descuento) en el siguiente enlace!

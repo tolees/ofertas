@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HD27TJS/?tag=tolees-21'
 descuento: '30.00'
+average: '81.53'
 ---
 
 Está [Tommy Hilfiger Essential Corporate Cupsole  Zapatillas para Hombre  Blanco  RWB 020   40 EU](https://www.amazon.es/dp/B07HD27TJS/?tag=tolees-21) con 30.00 de descuento por 81.53 EUR (original: 116.47 EUR) en el siguiente enlace!

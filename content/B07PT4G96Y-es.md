@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PT4G96Y/?tag=tolees-21'
 descuento: '72.01'
+average: '27.99'
 ---
 
 Ahora mismo tienes [TWS 5.0 Auriculares inalámbricos Bluetooth 5.0 con micrófono de Sonido estéreo Uso de Soporte de Forma Independiente](https://www.amazon.es/dp/B07PT4G96Y/?tag=tolees-21) a 27.99 EUR (original: 99.99 EUR) (72.01 %  de descuento) en el siguiente enlace!

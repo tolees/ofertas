@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XC94NRK/?tag=tolees-21'
 descuento: '50.00'
+average: '80'
 ---
 
 Está [Clarks Ellis Franklin  Botas Chelsea para Hombre  Negro  Black Leather   43 EU](https://www.amazon.es/dp/B06XC94NRK/?tag=tolees-21) con 50.00 de descuento por 80 EUR (original: 160 EUR) en el siguiente enlace!

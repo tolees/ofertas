@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073QNZPMR/?tag=tolees-21'
 descuento: '35.01'
+average: '38.99'
 ---
 
 Está [Tile Combo Pack - Pack Tile Sport y Tile Style. Buscador de Llaves  de teléfonos o Cualquier Cosa - Pack de 2](https://www.amazon.es/dp/B073QNZPMR/?tag=tolees-21) con 35.01 de descuento por 38.99 EUR (original: 59.99 EUR) en el siguiente enlace!

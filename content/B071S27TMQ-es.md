@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071S27TMQ/?tag=tolees-21'
 descuento: '68.75'
+average: '15.61'
 ---
 
 Ahora mismo tienes [Gioseppo 30664  Zapatillas para Mujer  Morado  Burdeos   37 EU](https://www.amazon.es/dp/B071S27TMQ/?tag=tolees-21) a 15.61 EUR (original: 49.95 EUR) (68.75 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FSSVL8G/?tag=tolees-21'
 descuento: '59.30'
+average: '10.99'
 ---
 
 Tienes [Taza de café con aislamiento doble Y  500 ml  acero inoxidable Black-lxb](https://www.amazon.es/dp/B07FSSVL8G/?tag=tolees-21) con un 59.30 % de descuento con precio de oferta de 10.99 EUR (original: 27 EUR) en el siguiente enlace!

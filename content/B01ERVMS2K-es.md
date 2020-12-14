@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01ERVMS2K/?tag=tolees-21'
 descuento: '35.09'
+average: '12.95'
 ---
 
 Tienes [Joma Elite V  Pantalones Cortos  Unisex Adulto  Negro  L](https://www.amazon.es/dp/B01ERVMS2K/?tag=tolees-21) con un 35.09 % de descuento con precio de oferta de 12.95 EUR (original: 19.95 EUR) en el siguiente enlace!

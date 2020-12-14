@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077YHGBTB/?tag=tolees-21'
 descuento: '37.40'
+average: '46.95'
 ---
 
 Ahora mismo tienes [Head Tour Team Padel Paletero de Tenis  Negro  S](https://www.amazon.es/dp/B077YHGBTB/?tag=tolees-21) a 46.95 EUR (original: 75 EUR) (37.40 %  de descuento) en el siguiente enlace!

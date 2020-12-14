@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00I3ID5J4/?tag=tolees-21'
 descuento: '49.81'
+average: '20.98'
 ---
 
 Tienes [MyProtein Brown Rice Proteína de Arroz Integral - 1000 gr](https://www.amazon.es/dp/B00I3ID5J4/?tag=tolees-21) con un 49.81 % de descuento con precio de oferta de 20.98 EUR (original: 41.8 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CMZJY19/?tag=tolees-21'
 descuento: '58.44'
+average: '9.97'
 ---
 
 Ahora mismo tienes [Dust Daddy Cepillo de Limpieza para Aspirador Universal vacuumax perfecto Para Carros/Ventilas/Mascotas/Esquinas/Cajones -PISKY](https://www.amazon.es/dp/B07CMZJY19/?tag=tolees-21) a 9.97 EUR (original: 23.99 EUR) (58.44 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KQ5H6W4/?tag=tolees-21'
 descuento: '34.67'
+average: '26.1'
 ---
 
 Está [Adidas Nemeziz 18.4 TF J  Botas de fútbol Unisex niño  000  36 EU](https://www.amazon.es/dp/B07KQ5H6W4/?tag=tolees-21) con 34.67 de descuento por 26.1 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077SS8LV2/?tag=tolees-21'
 descuento: '60.48'
+average: '25.67'
 ---
 
 Tienes [adidas VL Court 2.0  Zapatillas de Skateboard para Hombre  Negro Core Black FTWR White  37 1/3 EU](https://www.amazon.es/dp/B077SS8LV2/?tag=tolees-21) con un 60.48 % de descuento con precio de oferta de 25.67 EUR (original: 64.95 EUR) en el siguiente enlace!

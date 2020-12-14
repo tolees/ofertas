@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0016BZH7S/?tag=tolees-21'
 descuento: '68.05'
+average: '55.86'
 ---
 
 Ahora mismo tienes [Capezio Rosa - Zapatillas de Danza de Material sintético Mujer  Color Negro  Talla 38 5 EU / 7 5 UK](https://www.amazon.es/dp/B0016BZH7S/?tag=tolees-21) a 55.86 EUR (original: 174.85 EUR) (68.05 %  de descuento) en el siguiente enlace!

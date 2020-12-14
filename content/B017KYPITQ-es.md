@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017KYPITQ/?tag=tolees-21'
 descuento: '84.36'
+average: '5.26'
 ---
 
 Ahora mismo tienes [Egamaster - Llave fija/o golpe 1.3/16" cromo aeroespacial](https://www.amazon.es/dp/B017KYPITQ/?tag=tolees-21) a 5.26 EUR (original: 33.64 EUR) (84.36 %  de descuento) en el siguiente enlace!

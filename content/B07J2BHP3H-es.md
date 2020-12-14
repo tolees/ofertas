@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J2BHP3H/?tag=tolees-21'
 descuento: '58.98'
+average: '10.25'
 ---
 
 Tienes [JACK & JONES Jcochallenge Polo SS Noos  Turquesa  Blue Coral Fit: Reg   Small para Hombre](https://www.amazon.es/dp/B07J2BHP3H/?tag=tolees-21) con un 58.98 % de descuento con precio de oferta de 10.25 EUR (original: 24.99 EUR) en el siguiente enlace!

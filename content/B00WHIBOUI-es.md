@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00WHIBOUI/?tag=tolees-21'
 descuento: '69.45'
+average: '3.04'
 ---
 
 Tienes [Piratas del Caribe 4 [Blu-ray]](https://www.amazon.es/dp/B00WHIBOUI/?tag=tolees-21) con un 69.45 % de descuento con precio de oferta de 3.04 EUR (original: 9.95 EUR) en el siguiente enlace!

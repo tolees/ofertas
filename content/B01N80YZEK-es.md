@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N80YZEK/?tag=tolees-21'
 descuento: '67.48'
+average: '61.78'
 ---
 
 Tienes [Camper Peu Cami  Botas altas para Mujer  Negro  Black 001   36 EU](https://www.amazon.es/dp/B01N80YZEK/?tag=tolees-21) con un 67.48 % de descuento con precio de oferta de 61.78 EUR (original: 190 EUR) en el siguiente enlace!

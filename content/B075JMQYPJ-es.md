@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075JMQYPJ/?tag=tolees-21'
 descuento: '37.62'
+average: '49.9'
 ---
 
 Tienes [Philips Senseo Original XL HD6555/22 Cafetera Monodosis con Tecnología Coffee Boost  Negro  22.5x46.6x37 cm](https://www.amazon.es/dp/B075JMQYPJ/?tag=tolees-21) con un 37.62 % de descuento con precio de oferta de 49.9 EUR (original: 79.99 EUR) en el siguiente enlace!

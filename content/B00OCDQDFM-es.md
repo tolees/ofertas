@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00OCDQDFM/?tag=tolees-21'
 descuento: '67.39'
+average: '6.9'
 ---
 
 Tienes [Toshiba CT1368-PH - Memoria USB de 32 GB](https://www.amazon.es/dp/B00OCDQDFM/?tag=tolees-21) con un 67.39 % de descuento con precio de oferta de 6.9 EUR (original: 21.16 EUR) en el siguiente enlace!

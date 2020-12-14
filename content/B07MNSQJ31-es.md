@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MNSQJ31/?tag=tolees-21'
 descuento: '34.63'
+average: '16.99'
 ---
 
 Ahora mismo tienes [Calibre Digital Acero Inoxidable  Colourstone IP54 0-15MM Acero Inoxidable Deslizante Calibre con Pantalla de Cristal Líquido con la Caja](https://www.amazon.es/dp/B07MNSQJ31/?tag=tolees-21) a 16.99 EUR (original: 25.99 EUR) (34.63 %  de descuento) en el siguiente enlace!

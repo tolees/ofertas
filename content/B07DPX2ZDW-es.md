@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DPX2ZDW/?tag=tolees-21'
 descuento: '57.55'
+average: '10.57'
 ---
 
 Tienes [Urban Classics Ladies Inset Striped Crew  suéter para Mujer  Negro  Black 00007  X-Large](https://www.amazon.es/dp/B07DPX2ZDW/?tag=tolees-21) con un 57.55 % de descuento con precio de oferta de 10.57 EUR (original: 24.9 EUR) en el siguiente enlace!

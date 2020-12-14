@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D7HKVJQ/?tag=tolees-21'
 descuento: '60.03'
+average: '7.99'
 ---
 
 Ahora mismo tienes [FM London Contrast Stripe  Pantalones Cortos Deportivos Hombre  Negro  Black   Small](https://www.amazon.es/dp/B07D7HKVJQ/?tag=tolees-21) a 7.99 EUR (original: 19.99 EUR) (60.03 %  de descuento) en el siguiente enlace!

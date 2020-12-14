@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N0GOTKI/?tag=tolees-21'
 descuento: '56.52'
+average: '24'
 ---
 
 Está [Las Mulas Sauvignon Blanc  Vino Blanco  6 botellas de 75 cl - Total: 450 cl](https://www.amazon.es/dp/B01N0GOTKI/?tag=tolees-21) con 56.52 de descuento por 24 EUR (original: 55.2 EUR) en el siguiente enlace!

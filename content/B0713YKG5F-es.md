@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0713YKG5F/?tag=tolees-21'
 descuento: '68.93'
+average: '23.29'
 ---
 
 Está [Dockers by Gerli 41bn004-240  Botas Desert para Hombre  Negro  Schwarz  41 EU](https://www.amazon.es/dp/B0713YKG5F/?tag=tolees-21) con 68.93 de descuento por 23.29 EUR (original: 74.95 EUR) en el siguiente enlace!

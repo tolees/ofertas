@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076VJ4VNY/?tag=tolees-21'
 descuento: '31.38'
+average: '48'
 ---
 
 Ahora mismo tienes [G-STAR RAW 3301.5  Pantalones Cortos Hombre  Azul  Medium Aged 071   31](https://www.amazon.es/dp/B076VJ4VNY/?tag=tolees-21) a 48 EUR (original: 69.95 EUR) (31.38 %  de descuento) en el siguiente enlace!

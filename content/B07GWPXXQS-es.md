@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GWPXXQS/?tag=tolees-21'
 descuento: '57.17'
+average: '14.99'
 ---
 
 Está [Fullmosa Breeze Correa Cuero  8 Colores Correa Compatible con Inteligent Watch Serie 3 2 1  Hermes  Nike  Edition  38mm/40mm  Azul Oscuro](https://www.amazon.es/dp/B07GWPXXQS/?tag=tolees-21) con 57.17 de descuento por 14.99 EUR (original: 35 EUR) en el siguiente enlace!

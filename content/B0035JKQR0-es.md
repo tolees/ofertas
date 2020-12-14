@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0035JKQR0/?tag=tolees-21'
 descuento: '44.06'
+average: '19.58'
 ---
 
 Ahora mismo tienes [VAUDE Bike XT Kit de Primeros Auxilios  Unisex  Rojo  Red/White   Talla Única](https://www.amazon.es/dp/B0035JKQR0/?tag=tolees-21) a 19.58 EUR (original: 35 EUR) (44.06 %  de descuento) en el siguiente enlace!

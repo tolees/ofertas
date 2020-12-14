@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0117OUGU6/?tag=tolees-21'
 descuento: '48.16'
+average: '40.95'
 ---
 
 Tienes [Colgante cromo con pantalla](https://www.amazon.es/dp/B0117OUGU6/?tag=tolees-21) con un 48.16 % de descuento con precio de oferta de 40.95 EUR (original: 79 EUR) en el siguiente enlace!

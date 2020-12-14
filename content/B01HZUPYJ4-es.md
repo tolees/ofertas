@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HZUPYJ4/?tag=tolees-21'
 descuento: '67.67'
+average: '42.01'
 ---
 
 Ahora mismo tienes [G-STAR RAW Revend-Vaqueros Hombre  Azul  Lt Aged 424   35/38](https://www.amazon.es/dp/B01HZUPYJ4/?tag=tolees-21) a 42.01 EUR (original: 129.95 EUR) (67.67 %  de descuento) en el siguiente enlace!

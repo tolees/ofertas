@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00FMZ4WRK/?tag=tolees-21'
 descuento: '29.23'
+average: '23'
 ---
 
 Está [Beper RI.402 - Calientacamas eléctrico individual](https://www.amazon.es/dp/B00FMZ4WRK/?tag=tolees-21) con 29.23 de descuento por 23 EUR (original: 32.5 EUR) en el siguiente enlace!

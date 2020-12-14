@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C5TV6FJ/?tag=tolees-21'
 descuento: '30.01'
+average: '20.29'
 ---
 
 Tienes [Cut Salad Artifact Vegetable Fruit Cutting Bowl Split Maker Kitchen Dicing Machine Fruit Plate Shredder Blue Green](https://www.amazon.es/dp/B07C5TV6FJ/?tag=tolees-21) con un 30.01 % de descuento con precio de oferta de 20.29 EUR (original: 28.99 EUR) en el siguiente enlace!

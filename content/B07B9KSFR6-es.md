@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B9KSFR6/?tag=tolees-21'
 descuento: '28.03'
+average: '36.54'
 ---
 
 Está [Approx APPC31V2-4 Puertos HDMI Splitter 4K  Color Negro](https://www.amazon.es/dp/B07B9KSFR6/?tag=tolees-21) con 28.03 de descuento por 36.54 EUR (original: 50.77 EUR) en el siguiente enlace!

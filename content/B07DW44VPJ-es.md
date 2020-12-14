@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DW44VPJ/?tag=tolees-21'
 descuento: '70.41'
+average: '22.19'
 ---
 
 Tienes [DC Shoes Chelsea Plus Se  Zapatillas de Skateboard para Mujer  Negro  Black Bl0   38 EU](https://www.amazon.es/dp/B07DW44VPJ/?tag=tolees-21) con un 70.41 % de descuento con precio de oferta de 22.19 EUR (original: 75 EUR) en el siguiente enlace!

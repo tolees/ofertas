@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00U1IL6N6/?tag=tolees-21'
 descuento: '30.02'
+average: '62.95'
 ---
 
 Está [Reebok Classic Leather - Zapatillas de cuero para hombre  color blanco  white / gum 2   talla 44](https://www.amazon.es/dp/B00U1IL6N6/?tag=tolees-21) con 30.02 de descuento por 62.95 EUR (original: 89.95 EUR) en el siguiente enlace!

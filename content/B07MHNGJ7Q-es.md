@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MHNGJ7Q/?tag=tolees-21'
 descuento: '37.62'
+average: '4.99'
 ---
 
 Ahora mismo tienes [Productos de Adultos  Anillo de Bloqueo de Silicona Anillo de pene de pene Anillo de pene Retardante de Cristal Producto sexuales Producto Erótico Adultos  5 pcs ](https://www.amazon.es/dp/B07MHNGJ7Q/?tag=tolees-21) a 4.99 EUR (original: 8 EUR) (37.62 %  de descuento) en el siguiente enlace!

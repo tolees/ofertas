@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F3BHYD8/?tag=tolees-21'
 descuento: '66.10'
+average: '66.96'
 ---
 
 Tienes [Michael Kors Addie Lace Up  Zapatillas Altas para Mujer  Plateado  Silver 040   38 EU](https://www.amazon.es/dp/B07F3BHYD8/?tag=tolees-21) con un 66.10 % de descuento con precio de oferta de 66.96 EUR (original: 197.52 EUR) en el siguiente enlace!

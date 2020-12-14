@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GTJ2NPF/?tag=tolees-21'
 descuento: '71.05'
+average: '28.94'
 ---
 
 Tienes [Berg Outdoor URRA Softshell Jacket  Hombre  Snorkel Blue  M](https://www.amazon.es/dp/B07GTJ2NPF/?tag=tolees-21) con un 71.05 % de descuento con precio de oferta de 28.94 EUR (original: 99.95 EUR) en el siguiente enlace!

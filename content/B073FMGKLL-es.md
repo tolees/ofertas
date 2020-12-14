@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073FMGKLL/?tag=tolees-21'
 descuento: '68.32'
+average: '17.41'
 ---
 
 Está [Reebok Bs7010  Zapatillas para Mujer  Azul Shadow/Lilac Glow/Gua Punch/White/Black  36 EU](https://www.amazon.es/dp/B073FMGKLL/?tag=tolees-21) con 68.32 de descuento por 17.41 EUR (original: 54.95 EUR) en el siguiente enlace!

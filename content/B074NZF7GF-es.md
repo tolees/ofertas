@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074NZF7GF/?tag=tolees-21'
 descuento: '26.67'
+average: '43.99'
 ---
 
 Tienes [Aicok Sandwichera Grill 4-Serving  Panini Grill 2000W  Parrilla Eléctrica con Placas Antiadherentes  Bandeja de Goteo Extraíble  Tapa Flotante y Asa de Toque Frío  Plata](https://www.amazon.es/dp/B074NZF7GF/?tag=tolees-21) con un 26.67 % de descuento con precio de oferta de 43.99 EUR (original: 59.99 EUR) en el siguiente enlace!

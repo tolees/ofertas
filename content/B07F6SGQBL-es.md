@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F6SGQBL/?tag=tolees-21'
 descuento: '36.01'
+average: '7.66'
 ---
 
 Está [Café Royal Ristretto 48 cápsulas compatibles con Nescafé* Dolce Gusto* Intensidad: 9 de 10  Pack de 3 x 16 cápsulas ](https://www.amazon.es/dp/B07F6SGQBL/?tag=tolees-21) con 36.01 de descuento por 7.66 EUR (original: 11.97 EUR) en el siguiente enlace!

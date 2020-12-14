@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00CYN0KEW/?tag=tolees-21'
 descuento: '61.72'
+average: '9.55'
 ---
 
 Tienes [Ultrasport Mikrofaser-Team-Shorts Mike Pantalones Cortos  Hombre  Blanco  XL](https://www.amazon.es/dp/B00CYN0KEW/?tag=tolees-21) con un 61.72 % de descuento con precio de oferta de 9.55 EUR (original: 24.95 EUR) en el siguiente enlace!

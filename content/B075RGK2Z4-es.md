@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075RGK2Z4/?tag=tolees-21'
 descuento: '51.32'
+average: '38.92'
 ---
 
 Tienes [GORE WEAR C3 Peto corto de hombre con badana  L  negro](https://www.amazon.es/dp/B075RGK2Z4/?tag=tolees-21) con un 51.32 % de descuento con precio de oferta de 38.92 EUR (original: 79.95 EUR) en el siguiente enlace!

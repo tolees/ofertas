@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K11QSDY/?tag=tolees-21'
 descuento: '46.44'
+average: '18.72'
 ---
 
 Tienes [Adidas Altarun CF K  Zapatillas de Running Unisex Niños  Blanco Blue/FTWR White  37 1/3 EU](https://www.amazon.es/dp/B07K11QSDY/?tag=tolees-21) con un 46.44 % de descuento con precio de oferta de 18.72 EUR (original: 34.95 EUR) en el siguiente enlace!

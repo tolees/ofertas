@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MKJ2XHK/?tag=tolees-21'
 descuento: '31.29'
+average: '10.98'
 ---
 
 Tienes [Aiglam Pistola de Riego  Pistola de Agua de Jardín  Boquilla Metálica  9 Modos  para regar Césped  Lavado de Autos  Baño de Mascotas](https://www.amazon.es/dp/B07MKJ2XHK/?tag=tolees-21) con un 31.29 % de descuento con precio de oferta de 10.98 EUR (original: 15.98 EUR) en el siguiente enlace!

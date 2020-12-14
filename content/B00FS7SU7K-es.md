@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00FS7SU7K/?tag=tolees-21'
 descuento: '80.32'
+average: '49'
 ---
 
 Ahora mismo tienes [Parrot AR.Drone 2.0 Elite Edition Snow - Dron cuadricóptero  12 minutos de vuelo  cámara HD  50 metros de alcance  pilotaje con Smartphone o Tablet ](https://www.amazon.es/dp/B00FS7SU7K/?tag=tolees-21) a 49 EUR (original: 249 EUR) (80.32 %  de descuento) en el siguiente enlace!

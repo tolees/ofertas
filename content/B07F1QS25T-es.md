@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F1QS25T/?tag=tolees-21'
 descuento: '47.05'
+average: '14.82'
 ---
 
 Tienes [Columbia Sombrero trenzado unisex  Bella Falls Straw Hat  Orgánico  papel   Marrón  Camel Brown   Talla: L/XL  1768411](https://www.amazon.es/dp/B07F1QS25T/?tag=tolees-21) con un 47.05 % de descuento con precio de oferta de 14.82 EUR (original: 27.99 EUR) en el siguiente enlace!

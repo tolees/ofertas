@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KYXNDDN/?tag=tolees-21'
 descuento: '30.02'
+average: '48.95'
 ---
 
 Está [Adidas Copa 19.3 TF  Botas de fútbol para Hombre  Negbás/Grisei 000  41 1/3 EU](https://www.amazon.es/dp/B07KYXNDDN/?tag=tolees-21) con 30.02 de descuento por 48.95 EUR (original: 69.95 EUR) en el siguiente enlace!

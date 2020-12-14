@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L3FTQN6/?tag=tolees-21'
 descuento: '43.58'
+average: '47.9'
 ---
 
 Está [Tommy Hilfiger Tommy Jacquard Flatform Sneaker  Zapatillas para Mujer  Azul  Midnight 403   37 EU](https://www.amazon.es/dp/B07L3FTQN6/?tag=tolees-21) con 43.58 de descuento por 47.9 EUR (original: 84.9 EUR) en el siguiente enlace!

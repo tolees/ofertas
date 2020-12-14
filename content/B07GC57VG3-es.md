@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GC57VG3/?tag=tolees-21'
 descuento: '47.32'
+average: '10.51'
 ---
 
 Está [Puma ESS Small Logo tee T-Shirt  Hombre  White  M](https://www.amazon.es/dp/B07GC57VG3/?tag=tolees-21) con 47.32 de descuento por 10.51 EUR (original: 19.95 EUR) en el siguiente enlace!

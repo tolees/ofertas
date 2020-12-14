@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005I0KY6M/?tag=tolees-21'
 descuento: '42.08'
+average: '38.89'
 ---
 
 Ahora mismo tienes [Fleshjack Masturbadores Él - 1 unidad](https://www.amazon.es/dp/B005I0KY6M/?tag=tolees-21) a 38.89 EUR (original: 67.14 EUR) (42.08 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00SKARQJU/?tag=tolees-21'
 descuento: '28.88'
+average: '9.95'
 ---
 
 Tienes [Wilson Saitenset Revolve Cordaje para Raquetas-Unisex  Naranja  NS](https://www.amazon.es/dp/B00SKARQJU/?tag=tolees-21) con un 28.88 % de descuento con precio de oferta de 9.95 EUR (original: 13.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0777CPV3W/?tag=tolees-21'
 descuento: '52.51'
+average: '18.99'
 ---
 
 Tienes [SYCOTEK Reposapiés Inflable Portable 2 Boquillas Grandes Ocultas 3 Altura Ajustable sin Deflación  Almohada para Niños o Reposapiés de Viaje Inflable para el Asiento del Coche  Gris](https://www.amazon.es/dp/B0777CPV3W/?tag=tolees-21) con un 52.51 % de descuento con precio de oferta de 18.99 EUR (original: 39.99 EUR) en el siguiente enlace!

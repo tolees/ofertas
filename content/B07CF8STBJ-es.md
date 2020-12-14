@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CF8STBJ/?tag=tolees-21'
 descuento: '82.18'
+average: '8.9'
 ---
 
 Tienes [Triumph Darling Spotlight WHP Sujetador de Copa Media  Negro  Black 0004   90C  Talla del Fabricante: 75  para Mujer](https://www.amazon.es/dp/B07CF8STBJ/?tag=tolees-21) con un 82.18 % de descuento con precio de oferta de 8.9 EUR (original: 49.95 EUR) en el siguiente enlace!

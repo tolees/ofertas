@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D5PGYQ3/?tag=tolees-21'
 descuento: '36.91'
+average: '37.85'
 ---
 
 Tienes [Monster Hunter Generations Ultimate [Importación francesa]](https://www.amazon.es/dp/B07D5PGYQ3/?tag=tolees-21) con un 36.91 % de descuento con precio de oferta de 37.85 EUR (original: 59.99 EUR) en el siguiente enlace!

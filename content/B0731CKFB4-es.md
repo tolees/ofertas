@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0731CKFB4/?tag=tolees-21'
 descuento: '47.00'
+average: '34.45'
 ---
 
 Tienes [Volcom Draw Lo Shoe  Zapatillas de Skateboard para Hombre  Azul  Navy Nvy   38.5 EU](https://www.amazon.es/dp/B0731CKFB4/?tag=tolees-21) con un 47.00 % de descuento con precio de oferta de 34.45 EUR (original: 65 EUR) en el siguiente enlace!

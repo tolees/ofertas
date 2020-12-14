@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BJ4CT8K/?tag=tolees-21'
 descuento: '49.22'
+average: '25.38'
 ---
 
 Está [ADIDAS Campus Stitch and T  Zapatillas de Running para Hombre  Mehrfarbig  Ashpnk Ftwwht Bb6745   36 2/3 EU](https://www.amazon.es/dp/B07BJ4CT8K/?tag=tolees-21) con 49.22 de descuento por 25.38 EUR (original: 49.98 EUR) en el siguiente enlace!

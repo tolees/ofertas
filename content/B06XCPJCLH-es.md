@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XCPJCLH/?tag=tolees-21'
 descuento: '71.77'
+average: '14.11'
 ---
 
 Tienes [Cortefiel 8101221  Vaquero para Mujer  Azul Oscuro  ES 42](https://www.amazon.es/dp/B06XCPJCLH/?tag=tolees-21) con un 71.77 % de descuento con precio de oferta de 14.11 EUR (original: 49.99 EUR) en el siguiente enlace!

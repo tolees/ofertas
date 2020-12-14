@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MDOZFJ5/?tag=tolees-21'
 descuento: '39.04'
+average: '15.85'
 ---
 
 Tienes [L Oreal Paris Dermo Expertise Crema Cuidado Revitalift Laser x3 Doble Cuidado - 50 ml](https://www.amazon.es/dp/B01MDOZFJ5/?tag=tolees-21) con un 39.04 % de descuento con precio de oferta de 15.85 EUR (original: 26 EUR) en el siguiente enlace!

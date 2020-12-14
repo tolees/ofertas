@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BFCW89B/?tag=tolees-21'
 descuento: '66.67'
+average: '199.99'
 ---
 
 Tienes [Fit-Force Bici Spinning X24KG con Volante de inercia de 24kg Negro](https://www.amazon.es/dp/B07BFCW89B/?tag=tolees-21) con un 66.67 % de descuento con precio de oferta de 199.99 EUR (original: 599.99 EUR) en el siguiente enlace!

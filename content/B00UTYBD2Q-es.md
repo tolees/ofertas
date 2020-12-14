@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00UTYBD2Q/?tag=tolees-21'
 descuento: '37.52'
+average: '56.23'
 ---
 
 Ahora mismo tienes [Diadora - Zapatillas de Deporte Game L Low Waxed para Hombre y Mujer ES 44.5](https://www.amazon.es/dp/B00UTYBD2Q/?tag=tolees-21) a 56.23 EUR (original: 90 EUR) (37.52 %  de descuento) en el siguiente enlace!

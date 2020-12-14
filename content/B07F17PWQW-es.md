@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F17PWQW/?tag=tolees-21'
 descuento: '74.62'
+average: '17.75'
 ---
 
 Tienes [Mustang 4095-602-301  Zapatillas Altas para Hombre  Marrón  Kastanie 301   46 EU](https://www.amazon.es/dp/B07F17PWQW/?tag=tolees-21) con un 74.62 % de descuento con precio de oferta de 17.75 EUR (original: 69.95 EUR) en el siguiente enlace!

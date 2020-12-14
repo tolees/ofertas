@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N6O0ASN/?tag=tolees-21'
 descuento: '39.22'
+average: '14.29'
 ---
 
 Está [Los Siete Magníficos  4K Uhd  [Blu-ray]](https://www.amazon.es/dp/B01N6O0ASN/?tag=tolees-21) con 39.22 de descuento por 14.29 EUR (original: 23.51 EUR) en el siguiente enlace!

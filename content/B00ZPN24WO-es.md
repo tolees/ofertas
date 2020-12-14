@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00ZPN24WO/?tag=tolees-21'
 descuento: '44.85'
+average: '7.28'
 ---
 
 Tienes [Biberon système anti-coliques 300 ml](https://www.amazon.es/dp/B00ZPN24WO/?tag=tolees-21) con un 44.85 % de descuento con precio de oferta de 7.28 EUR (original: 13.2 EUR) en el siguiente enlace!

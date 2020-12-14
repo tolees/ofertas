@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00HWRFBUS/?tag=tolees-21'
 descuento: '56.14'
+average: '7.97'
 ---
 
 Tienes [Maurer 19041415 Linterna LED  72  con Colgador e imán Grande](https://www.amazon.es/dp/B00HWRFBUS/?tag=tolees-21) con un 56.14 % de descuento con precio de oferta de 7.97 EUR (original: 18.17 EUR) en el siguiente enlace!

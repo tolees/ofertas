@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072JW5Q1R/?tag=tolees-21'
 descuento: '73.79'
+average: '28.83'
 ---
 
 Tienes [Jana 25206  Botas Militar para Mujer  Negro  Black   38 EU](https://www.amazon.es/dp/B072JW5Q1R/?tag=tolees-21) con un 73.79 % de descuento con precio de oferta de 28.83 EUR (original: 110 EUR) en el siguiente enlace!

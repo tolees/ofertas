@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQZFB46/?tag=tolees-21'
 descuento: '51.11'
+average: '24.44'
 ---
 
 Ahora mismo tienes [Naf Naf Jhnu80 suéter  Gris Chine Aamu  Small para Mujer](https://www.amazon.es/dp/B07FQZFB46/?tag=tolees-21) a 24.44 EUR (original: 49.99 EUR) (51.11 %  de descuento) en el siguiente enlace!

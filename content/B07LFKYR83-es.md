@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LFKYR83/?tag=tolees-21'
 descuento: '43.08'
+average: '48.38'
 ---
 
 Tienes [Pepe Jeans Koko Glam  Zapatillas para Mujer  Plateado  934SILVER 934   41 EU](https://www.amazon.es/dp/B07LFKYR83/?tag=tolees-21) con un 43.08 % de descuento con precio de oferta de 48.38 EUR (original: 85 EUR) en el siguiente enlace!

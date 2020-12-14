@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0791TJWRP/?tag=tolees-21'
 descuento: '68.59'
+average: '28.27'
 ---
 
 Ahora mismo tienes [New Balance Fresh Foam Lazr Sport  Zapatillas de Running para Hombre  Gris  Shark Skin/Magnet/White CG   45 EU](https://www.amazon.es/dp/B0791TJWRP/?tag=tolees-21) a 28.27 EUR (original: 90 EUR) (68.59 %  de descuento) en el siguiente enlace!

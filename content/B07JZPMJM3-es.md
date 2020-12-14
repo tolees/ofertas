@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JZPMJM3/?tag=tolees-21'
 descuento: '52.65'
+average: '42.59'
 ---
 
 Está [adidas N-5923 Zapatillas de Gimnasia Hombre  Rojo  Scarlet/Ftwr White/Gum4 Scarlet/Ftwr White/Gum4   45 1/3 EU  10.5 UK ](https://www.amazon.es/dp/B07JZPMJM3/?tag=tolees-21) con 52.65 de descuento por 42.59 EUR (original: 89.95 EUR) en el siguiente enlace!

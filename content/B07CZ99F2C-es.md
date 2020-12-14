@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ99F2C/?tag=tolees-21'
 descuento: '51.03'
+average: '68.53'
 ---
 
 Tienes [Salomon X Radiant Mid GTX  Zapatillas de Senderismo para Hombre  Gris Quiet Shade/Quarry/Bossa Nova  40 2/3 EU](https://www.amazon.es/dp/B07CZ99F2C/?tag=tolees-21) con un 51.03 % de descuento con precio de oferta de 68.53 EUR (original: 139.95 EUR) en el siguiente enlace!

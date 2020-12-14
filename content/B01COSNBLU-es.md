@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01COSNBLU/?tag=tolees-21'
 descuento: '60.53'
+average: '39.47'
 ---
 
 Está [Gant Barstripe Pique Rugger  Polo para Hombre  Blanco  White 110   Medium](https://www.amazon.es/dp/B01COSNBLU/?tag=tolees-21) con 60.53 de descuento por 39.47 EUR (original: 99.99 EUR) en el siguiente enlace!

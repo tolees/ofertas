@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BPH2FNM/?tag=tolees-21'
 descuento: '73.88'
+average: '18.27'
 ---
 
 Tienes [s.Oliver 26251-31  Botas de Nieve para Mujer   Black 1   38 EU](https://www.amazon.es/dp/B07BPH2FNM/?tag=tolees-21) con un 73.88 % de descuento con precio de oferta de 18.27 EUR (original: 69.95 EUR) en el siguiente enlace!

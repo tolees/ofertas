@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01EHQ7FRI/?tag=tolees-21'
 descuento: '60.00'
+average: '7.16'
 ---
 
 Ahora mismo tienes [Lékué Helado colapsable Surtido 4 un  Silicona  Unidades](https://www.amazon.es/dp/B01EHQ7FRI/?tag=tolees-21) a 7.16 EUR (original: 17.9 EUR) (60.00 %  de descuento) en el siguiente enlace!

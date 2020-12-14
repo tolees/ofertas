@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0773RLBFK/?tag=tolees-21'
 descuento: '50.09'
+average: '27.45'
 ---
 
 Ahora mismo tienes [Levis Footwear and Accessories Skinner  Zapatillas para Hombre  Blanco  Regular White 51   41 EU](https://www.amazon.es/dp/B0773RLBFK/?tag=tolees-21) a 27.45 EUR (original: 55 EUR) (50.09 %  de descuento) en el siguiente enlace!

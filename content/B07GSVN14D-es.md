@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GSVN14D/?tag=tolees-21'
 descuento: '28.59'
+average: '9.99'
 ---
 
 Tienes [Juego de destornilladores de precisión 13 en 1  herramienta de reparación electrónica  juego de herramientas de reparación  herramientas de reparación de teléfonos](https://www.amazon.es/dp/B07GSVN14D/?tag=tolees-21) con un 28.59 % de descuento con precio de oferta de 9.99 EUR (original: 13.99 EUR) en el siguiente enlace!

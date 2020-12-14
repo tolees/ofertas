@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072V3LZ2K/?tag=tolees-21'
 descuento: '71.91'
+average: '26.99'
 ---
 
 Ahora mismo tienes [RFIVER Taburetes de Bar de PU con Ruedas de Altura Ajustable para Cocina Bar Negro SC1002B](https://www.amazon.es/dp/B072V3LZ2K/?tag=tolees-21) a 26.99 EUR (original: 96.08 EUR) (71.91 %  de descuento) en el siguiente enlace!

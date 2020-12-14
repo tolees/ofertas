@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00G4NX0F4/?tag=tolees-21'
 descuento: '27.35'
+average: '11.26'
 ---
 
 Ahora mismo tienes [Anal Fantasy Vibrador Anal - 1 unidad](https://www.amazon.es/dp/B00G4NX0F4/?tag=tolees-21) a 11.26 EUR (original: 15.5 EUR) (27.35 %  de descuento) en el siguiente enlace!

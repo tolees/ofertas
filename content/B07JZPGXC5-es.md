@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JZPGXC5/?tag=tolees-21'
 descuento: '49.99'
+average: '39.98'
 ---
 
 Tienes [adidas Forest Grove Zapatillas de Gimnasia Hombre  Blanco  Cloud White/Cloud White/Ftwr White Cloud White/Cloud White/Ftwr White   42 EU  8 UK ](https://www.amazon.es/dp/B07JZPGXC5/?tag=tolees-21) con un 49.99 % de descuento con precio de oferta de 39.98 EUR (original: 79.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075P14QGX/?tag=tolees-21'
 descuento: '37.17'
+average: '99.9'
 ---
 
 Ahora mismo tienes [Hoover - Khross KS50PET- Aspirador Trineo sin Bolsa  Depósito 1 8L  Nivel Ruido: 78dBA - Filtros EPA - Color: Marrón  Rojo y Gris](https://www.amazon.es/dp/B075P14QGX/?tag=tolees-21) a 99.9 EUR (original: 159 EUR) (37.17 %  de descuento) en el siguiente enlace!

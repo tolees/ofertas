@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00SLUI5SA/?tag=tolees-21'
 descuento: '30.00'
+average: '160.3'
 ---
 
 Ahora mismo tienes [Sennheiser RS 175 - Auriculares](https://www.amazon.es/dp/B00SLUI5SA/?tag=tolees-21) a 160.3 EUR (original: 229 EUR) (30.00 %  de descuento) en el siguiente enlace!

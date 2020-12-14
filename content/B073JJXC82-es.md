@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073JJXC82/?tag=tolees-21'
 descuento: '42.81'
+average: '59.99'
 ---
 
 Ahora mismo tienes [INFINIKIT Haven Librero alto  Blanco  79x198x28 cm](https://www.amazon.es/dp/B073JJXC82/?tag=tolees-21) a 59.99 EUR (original: 104.89 EUR) (42.81 %  de descuento) en el siguiente enlace!

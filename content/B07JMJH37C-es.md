@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JMJH37C/?tag=tolees-21'
 descuento: '36.04'
+average: '15.99'
 ---
 
 Ahora mismo tienes [Linternas  Enkarl Linterna LED Ultra Brillante de 400 Lúmenes – Alta Luminosidad  Foco ajustable  3 Modos de Luz  Resistente al Agua para Camping  Actividades en Exteriores y Senderismo  Paquete de 5 ](https://www.amazon.es/dp/B07JMJH37C/?tag=tolees-21) a 15.99 EUR (original: 25 EUR) (36.04 %  de descuento) en el siguiente enlace!

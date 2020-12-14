@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JWVJ9HC/?tag=tolees-21'
 descuento: '50.03'
+average: '24.96'
 ---
 
 Está [Puma Fusion Pants Pantalones  Mujer  Cotton Black  S](https://www.amazon.es/dp/B07JWVJ9HC/?tag=tolees-21) con 50.03 de descuento por 24.96 EUR (original: 49.95 EUR) en el siguiente enlace!

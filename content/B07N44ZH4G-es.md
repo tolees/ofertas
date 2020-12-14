@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N44ZH4G/?tag=tolees-21'
 descuento: '52.24'
+average: '47.28'
 ---
 
 Está [HKT by Hackett London Hkt Fzip Hoody Capucha  Rojo  Washed Red 228   Medium para Hombre](https://www.amazon.es/dp/B07N44ZH4G/?tag=tolees-21) con 52.24 de descuento por 47.28 EUR (original: 99 EUR) en el siguiente enlace!

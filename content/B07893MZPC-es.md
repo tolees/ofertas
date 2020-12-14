@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07893MZPC/?tag=tolees-21'
 descuento: '58.30'
+average: '70.89'
 ---
 
 Tienes [Helly Hansen Crew Hooded Midlayer Jacket  Hombre  Graphite Blue  L](https://www.amazon.es/dp/B07893MZPC/?tag=tolees-21) con un 58.30 % de descuento con precio de oferta de 70.89 EUR (original: 170 EUR) en el siguiente enlace!

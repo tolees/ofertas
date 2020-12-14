@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079KG68MQ/?tag=tolees-21'
 descuento: '70.48'
+average: '67.89'
 ---
 
 Tienes [G-STAR RAW Rackam Wallabee  Botas Clasicas para Hombre  Negro  Black 990   43 EU](https://www.amazon.es/dp/B079KG68MQ/?tag=tolees-21) con un 70.48 % de descuento con precio de oferta de 67.89 EUR (original: 229.95 EUR) en el siguiente enlace!

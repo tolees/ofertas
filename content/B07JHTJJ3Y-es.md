@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JHTJJ3Y/?tag=tolees-21'
 descuento: '37.45'
+average: '24.99'
 ---
 
 Está [Puma Campus Reporter PU Bolsa Deporte  Unisex Adulto  Elderberry Silver/Metallic  OSFA](https://www.amazon.es/dp/B07JHTJJ3Y/?tag=tolees-21) con 37.45 de descuento por 24.99 EUR (original: 39.95 EUR) en el siguiente enlace!

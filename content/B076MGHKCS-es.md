@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076MGHKCS/?tag=tolees-21'
 descuento: '49.94'
+average: '12.51'
 ---
 
 Está [Magic Bodyfashion Active Short  Pantalones Cortos de Deporte para Mujer  Gris  Blended Grey 940  40  Talla del Fabricante: Large ](https://www.amazon.es/dp/B076MGHKCS/?tag=tolees-21) con 49.94 de descuento por 12.51 EUR (original: 24.99 EUR) en el siguiente enlace!

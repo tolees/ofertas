@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074KJ6T4G/?tag=tolees-21'
 descuento: '86.43'
+average: '8.14'
 ---
 
 Tienes [SELECTED FEMME Sflaua LS Knit Oversize Wide O-Neck  suéter Mujer  Rojo  Syrah Syrah   40  Talla del Fabricante: Large ](https://www.amazon.es/dp/B074KJ6T4G/?tag=tolees-21) con un 86.43 % de descuento con precio de oferta de 8.14 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00OK3O63K/?tag=tolees-21'
 descuento: '35.00'
+average: '3.9'
 ---
 
 Tienes [Beter Pur Pedicur - Quitadurezas con depósito](https://www.amazon.es/dp/B00OK3O63K/?tag=tolees-21) con un 35.00 % de descuento con precio de oferta de 3.9 EUR (original: 6 EUR) en el siguiente enlace!

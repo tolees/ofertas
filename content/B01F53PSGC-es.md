@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01F53PSGC/?tag=tolees-21'
 descuento: '37.18'
+average: '179.95'
 ---
 
 Tienes [TROTEC Anemómetro de tubo de Pitot TA400 incl. certificado de calibración  flujo  presión y temperatura del aire](https://www.amazon.es/dp/B01F53PSGC/?tag=tolees-21) con un 37.18 % de descuento con precio de oferta de 179.95 EUR (original: 286.44 EUR) en el siguiente enlace!

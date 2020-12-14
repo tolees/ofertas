@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFRL2FD/?tag=tolees-21'
 descuento: '49.99'
+average: '22.48'
 ---
 
 Tienes [adidas Real  Polo para Hombre  Hombre  CW8641  Tech Onix/Nero/Core White  X-Large](https://www.amazon.es/dp/B07DFRL2FD/?tag=tolees-21) con un 49.99 % de descuento con precio de oferta de 22.48 EUR (original: 44.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BHNBCGW/?tag=tolees-21'
 descuento: '53.05'
+average: '69.95'
 ---
 
 Está [PALA AGATHA HEART RELIEF](https://www.amazon.es/dp/B07BHNBCGW/?tag=tolees-21) con 53.05 de descuento por 69.95 EUR (original: 149 EUR) en el siguiente enlace!

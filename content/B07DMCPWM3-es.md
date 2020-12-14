@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DMCPWM3/?tag=tolees-21'
 descuento: '34.68'
+average: '19.59'
 ---
 
 Está [Philips Serie 3000 HC3510/85 - Pack CortaPelos y Naricero  Ajuste Fino cada 0.2 mm para Estilo Deseado  Uso con Cable](https://www.amazon.es/dp/B07DMCPWM3/?tag=tolees-21) con 34.68 de descuento por 19.59 EUR (original: 29.99 EUR) en el siguiente enlace!

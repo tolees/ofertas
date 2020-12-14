@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C2Y9DY9/?tag=tolees-21'
 descuento: '79.95'
+average: '36.09'
 ---
 
 Tienes [New Balance Rubix  Zapatillas de Running para Mujer  Gris  Lead/Voltage Violet/Steel GB   41 EU](https://www.amazon.es/dp/B07C2Y9DY9/?tag=tolees-21) con un 79.95 % de descuento con precio de oferta de 36.09 EUR (original: 180 EUR) en el siguiente enlace!

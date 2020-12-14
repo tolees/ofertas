@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00AWBHCOE/?tag=tolees-21'
 descuento: '47.22'
+average: '29'
 ---
 
 Tienes [Vulkan Tensión Dinámica Faja Lumbar Ligera  Unisex_Adulto  Negro  M](https://www.amazon.es/dp/B00AWBHCOE/?tag=tolees-21) con un 47.22 % de descuento con precio de oferta de 29 EUR (original: 54.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00SZIFNWY/?tag=tolees-21'
 descuento: '68.54'
+average: '11.95'
 ---
 
 Tienes [Joma 1184.12.002 - Set de equipación de Manga Corta  Color Negro  Talla L](https://www.amazon.es/dp/B00SZIFNWY/?tag=tolees-21) con un 68.54 % de descuento con precio de oferta de 11.95 EUR (original: 37.98 EUR) en el siguiente enlace!

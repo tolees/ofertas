@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZCC96W/?tag=tolees-21'
 descuento: '50.03'
+average: '37.47'
 ---
 
 Está [Under Armour UA Vanish Legging Graphic Leggings  Mujer  Gris  Jet Gray/Purple Prime/Tonal 010   S](https://www.amazon.es/dp/B07CZCC96W/?tag=tolees-21) con 50.03 de descuento por 37.47 EUR (original: 74.99 EUR) en el siguiente enlace!

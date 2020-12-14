@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NGWSL7P/?tag=tolees-21'
 descuento: '62.44'
+average: '30.05'
 ---
 
 Ahora mismo tienes [Under Armour Ua W Micro G Press Tr  Zapatillas Deportivas para Interior Mujer  Azul  True Ink   43 EU](https://www.amazon.es/dp/B01NGWSL7P/?tag=tolees-21) a 30.05 EUR (original: 80 EUR) (62.44 %  de descuento) en el siguiente enlace!

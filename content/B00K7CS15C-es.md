@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00K7CS15C/?tag=tolees-21'
 descuento: '34.84'
+average: '21.51'
 ---
 
 Está [Color Life Set Taza De Cafe con Plato 6 Piezas Vintage Multicolor](https://www.amazon.es/dp/B00K7CS15C/?tag=tolees-21) con 34.84 de descuento por 21.51 EUR (original: 33.01 EUR) en el siguiente enlace!

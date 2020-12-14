@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00NEJJRRG/?tag=tolees-21'
 descuento: '44.13'
+average: '6.9'
 ---
 
 Tienes [Rangement & Cie RAN7130-Percha para Cinturones Madera  28 x 6 x 16 cm  Lotus Wood + Metal  Crema  No No Applicable](https://www.amazon.es/dp/B00NEJJRRG/?tag=tolees-21) con un 44.13 % de descuento con precio de oferta de 6.9 EUR (original: 12.35 EUR) en el siguiente enlace!

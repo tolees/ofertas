@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078NKRTGZ/?tag=tolees-21'
 descuento: '33.37'
+average: '79.96'
 ---
 
 Tienes [Merrell Annex Recruit  Zapatillas de Senderismo para Hombre  Marrón Canteen  44.5 EU](https://www.amazon.es/dp/B078NKRTGZ/?tag=tolees-21) con un 33.37 % de descuento con precio de oferta de 79.96 EUR (original: 120 EUR) en el siguiente enlace!

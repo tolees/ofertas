@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B8WRVWY/?tag=tolees-21'
 descuento: '68.82'
+average: '31.16'
 ---
 
 Tienes [Clarks Caddell Sloane  Botas Slouch para Mujer  Negro  Black Synthetic   39 EU](https://www.amazon.es/dp/B07B8WRVWY/?tag=tolees-21) con un 68.82 % de descuento con precio de oferta de 31.16 EUR (original: 99.95 EUR) en el siguiente enlace!

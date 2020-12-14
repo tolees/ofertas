@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLK5DDJ/?tag=tolees-21'
 descuento: '40.09'
+average: '59.9'
 ---
 
 Tienes [Asics Tennisschuh Gel-Challenger 11 Clay  Zapatillas de Tenis para Hombre  Negro  Black/Silver 001   41 EU](https://www.amazon.es/dp/B07DLK5DDJ/?tag=tolees-21) con un 40.09 % de descuento con precio de oferta de 59.9 EUR (original: 99.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F3BHM77/?tag=tolees-21'
 descuento: '67.92'
+average: '63.36'
 ---
 
 Tienes [Michael Kors Addie Lace Up  Zapatillas para Mujer   Blk/Opticwht 012   41 EU](https://www.amazon.es/dp/B07F3BHM77/?tag=tolees-21) con un 67.92 % de descuento con precio de oferta de 63.36 EUR (original: 197.52 EUR) en el siguiente enlace!

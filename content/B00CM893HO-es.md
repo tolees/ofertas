@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00CM893HO/?tag=tolees-21'
 descuento: '63.12'
+average: '27.64'
 ---
 
 Ahora mismo tienes [Rocks-Off Vibrador - 200 gr](https://www.amazon.es/dp/B00CM893HO/?tag=tolees-21) a 27.64 EUR (original: 74.95 EUR) (63.12 %  de descuento) en el siguiente enlace!

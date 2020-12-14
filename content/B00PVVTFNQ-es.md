@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00PVVTFNQ/?tag=tolees-21'
 descuento: '29.51'
+average: '15.5'
 ---
 
 Tienes [Taurus 955100 Afeitadora Quita Pelusas  2 W  Negro  Color Blanco](https://www.amazon.es/dp/B00PVVTFNQ/?tag=tolees-21) con un 29.51 % de descuento con precio de oferta de 15.5 EUR (original: 21.99 EUR) en el siguiente enlace!

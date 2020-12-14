@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HV7H98B/?tag=tolees-21'
 descuento: '51.75'
+average: '48.23'
 ---
 
 Está [adidas Adizero Defiant Bounce W  Zapatillas de Tenis para Mujer  Gris Light Granite/Shock Red/FTWR White  42 EU](https://www.amazon.es/dp/B07HV7H98B/?tag=tolees-21) con 51.75 de descuento por 48.23 EUR (original: 99.95 EUR) en el siguiente enlace!

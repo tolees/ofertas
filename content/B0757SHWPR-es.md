@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0757SHWPR/?tag=tolees-21'
 descuento: '55.52'
+average: '28.89'
 ---
 
 Está [Coronel Tapioca Sport Sj. Caballero  Zapatillas de Deporte Exterior para Hombre  Verde  Crudo   42 EU](https://www.amazon.es/dp/B0757SHWPR/?tag=tolees-21) con 55.52 de descuento por 28.89 EUR (original: 64.95 EUR) en el siguiente enlace!

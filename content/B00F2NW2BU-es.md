@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00F2NW2BU/?tag=tolees-21'
 descuento: '35.79'
+average: '8.29'
 ---
 
 Está [Bellota M 3-1200 Mango de Madera](https://www.amazon.es/dp/B00F2NW2BU/?tag=tolees-21) con 35.79 de descuento por 8.29 EUR (original: 12.91 EUR) en el siguiente enlace!

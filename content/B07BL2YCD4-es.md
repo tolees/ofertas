@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BL2YCD4/?tag=tolees-21'
 descuento: '50.00'
+average: '55'
 ---
 
 Está [New Balance X-90  Zapatillas para Mujer  Rosa  Pink Sand/Team Away Grey Paradis   40 EU](https://www.amazon.es/dp/B07BL2YCD4/?tag=tolees-21) con 50.00 de descuento por 55 EUR (original: 110 EUR) en el siguiente enlace!

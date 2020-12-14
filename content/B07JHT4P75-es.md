@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JHT4P75/?tag=tolees-21'
 descuento: '33.33'
+average: '0.1'
 ---
 
 Ahora mismo tienes [Formulaone Universal Car Dashboard Magic Anti-Slip Mat Antideslizante Sticky Pad Key Celular Teléfono móvil GPS Stuff Pad Holders - Negro](https://www.amazon.es/dp/B07JHT4P75/?tag=tolees-21) a 0.1 EUR (original: 0.15 EUR) (33.33 %  de descuento) en el siguiente enlace!

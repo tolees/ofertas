@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0731NWJVX/?tag=tolees-21'
 descuento: '60.28'
+average: '23.81'
 ---
 
 Ahora mismo tienes [Reebok Classic Leather Pastel  Zapatillas para Niñas  Morado  Lilac Glow/White   37 EU](https://www.amazon.es/dp/B0731NWJVX/?tag=tolees-21) a 23.81 EUR (original: 59.95 EUR) (60.28 %  de descuento) en el siguiente enlace!

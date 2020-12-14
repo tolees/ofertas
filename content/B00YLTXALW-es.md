@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00YLTXALW/?tag=tolees-21'
 descuento: '35.44'
+average: '6.45'
 ---
 
 Tienes [adidas per Ankle T 3Pp Calcetines  Unisex  Blanco/Negro  35-38](https://www.amazon.es/dp/B00YLTXALW/?tag=tolees-21) con un 35.44 % de descuento con precio de oferta de 6.45 EUR (original: 9.99 EUR) en el siguiente enlace!

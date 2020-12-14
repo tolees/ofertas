@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078X55ZJH/?tag=tolees-21'
 descuento: '59.35'
+average: '8.94'
 ---
 
 Está [Only Onljosephine Stripe C.s L/s Pullover Knt  suéter para Mujer   Night Sky Stripes:w Cloud Dancer  38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B078X55ZJH/?tag=tolees-21) con 59.35 de descuento por 8.94 EUR (original: 21.99 EUR) en el siguiente enlace!

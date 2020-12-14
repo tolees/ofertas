@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B009NFDCC6/?tag=tolees-21'
 descuento: '29.50'
+average: '11.95'
 ---
 
 Tienes [Morphsuits - Juguete [importado]](https://www.amazon.es/dp/B009NFDCC6/?tag=tolees-21) con un 29.50 % de descuento con precio de oferta de 11.95 EUR (original: 16.95 EUR) en el siguiente enlace!

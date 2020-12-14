@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B015Q8UGRC/?tag=tolees-21'
 descuento: '67.22'
+average: '39.32'
 ---
 
 Ahora mismo tienes [G-Star 3301 Contour-Azul Mujer](https://www.amazon.es/dp/B015Q8UGRC/?tag=tolees-21) a 39.32 EUR (original: 119.95 EUR) (67.22 %  de descuento) en el siguiente enlace!

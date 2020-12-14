@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00QETUXZI/?tag=tolees-21'
 descuento: '26.20'
+average: '58'
 ---
 
 Tienes [NOX Pstingerjr2 - Pala de pádel  Color Negro](https://www.amazon.es/dp/B00QETUXZI/?tag=tolees-21) con un 26.20 % de descuento con precio de oferta de 58 EUR (original: 78.59 EUR) en el siguiente enlace!

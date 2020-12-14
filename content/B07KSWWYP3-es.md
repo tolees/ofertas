@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KSWWYP3/?tag=tolees-21'
 descuento: '49.99'
+average: '39.98'
 ---
 
 Está [Adidas Solar Lt Trainer M  Zapatillas de Deporte para Hombre  000  40 EU](https://www.amazon.es/dp/B07KSWWYP3/?tag=tolees-21) con 49.99 de descuento por 39.98 EUR (original: 79.95 EUR) en el siguiente enlace!

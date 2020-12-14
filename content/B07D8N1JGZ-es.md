@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D8N1JGZ/?tag=tolees-21'
 descuento: '38.11'
+average: '12.99'
 ---
 
 Está [Pegatinas antideslizantes Adhesivos de bañera - Apliques de ducha para niños Calcas Apliques de baño Petaca  6-pack Elephants ](https://www.amazon.es/dp/B07D8N1JGZ/?tag=tolees-21) con 38.11 de descuento por 12.99 EUR (original: 20.99 EUR) en el siguiente enlace!

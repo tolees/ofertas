@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFT2MCJ/?tag=tolees-21'
 descuento: '55.62'
+average: '19.95'
 ---
 
 Tienes [Puma Ignite 3/4 Tight W Pants  Mujer  Black  L](https://www.amazon.es/dp/B07DFT2MCJ/?tag=tolees-21) con un 55.62 % de descuento con precio de oferta de 19.95 EUR (original: 44.95 EUR) en el siguiente enlace!

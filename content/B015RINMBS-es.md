@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B015RINMBS/?tag=tolees-21'
 descuento: '64.67'
+average: '36.39'
 ---
 
 Tienes [Mueble TV de 2 Puertas en Color Roble con LED](https://www.amazon.es/dp/B015RINMBS/?tag=tolees-21) con un 64.67 % de descuento con precio de oferta de 36.39 EUR (original: 103 EUR) en el siguiente enlace!

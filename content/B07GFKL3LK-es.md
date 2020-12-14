@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GFKL3LK/?tag=tolees-21'
 descuento: '25.94'
+average: '19.99'
 ---
 
 Está [FLOUREON Walkie Talkies Toy Radio de 2 vías para Niños con 16 Canales de Larga Distancia  Interfono de Botones para el Hogar/Supermercado  1 Par  Verde Amarillo ](https://www.amazon.es/dp/B07GFKL3LK/?tag=tolees-21) con 25.94 de descuento por 19.99 EUR (original: 26.99 EUR) en el siguiente enlace!

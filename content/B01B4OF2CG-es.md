@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01B4OF2CG/?tag=tolees-21'
 descuento: '40.11'
+average: '5.39'
 ---
 
 Está [Max Factor Colour Elixir Marilyn Monroe Collection Barra de Labios Tono 2 Marilyn Sunset Red - 28 gr](https://www.amazon.es/dp/B01B4OF2CG/?tag=tolees-21) con 40.11 de descuento por 5.39 EUR (original: 9 EUR) en el siguiente enlace!

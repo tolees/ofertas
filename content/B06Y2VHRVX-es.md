@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y2VHRVX/?tag=tolees-21'
 descuento: '34.22'
+average: '19.7'
 ---
 
 Ahora mismo tienes [Skip Active Clean Detergente Líquido 28 lavados - [Pack de 5]](https://www.amazon.es/dp/B06Y2VHRVX/?tag=tolees-21) a 19.7 EUR (original: 29.95 EUR) (34.22 %  de descuento) en el siguiente enlace!

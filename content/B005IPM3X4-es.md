@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005IPM3X4/?tag=tolees-21'
 descuento: '35.57'
+average: '46.38'
 ---
 
 Tienes [Philips AT750/16 - Afeitadora de 3 cabezales](https://www.amazon.es/dp/B005IPM3X4/?tag=tolees-21) con un 35.57 % de descuento con precio de oferta de 46.38 EUR (original: 71.99 EUR) en el siguiente enlace!

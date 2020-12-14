@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N0UKAUS/?tag=tolees-21'
 descuento: '76.66'
+average: '23.34'
 ---
 
 Está [New Balance Cypher Run  Zapatillas de Running para Mujer  Negro  Black/White   40 EU](https://www.amazon.es/dp/B01N0UKAUS/?tag=tolees-21) con 76.66 de descuento por 23.34 EUR (original: 100 EUR) en el siguiente enlace!

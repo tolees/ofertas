@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B94PT6D/?tag=tolees-21'
 descuento: '74.51'
+average: '25.48'
 ---
 
 Ahora mismo tienes [Clarks Cabrini Cove  Botas de Nieve para Mujer  Gris  Khaki   38 EU](https://www.amazon.es/dp/B07B94PT6D/?tag=tolees-21) a 25.48 EUR (original: 99.95 EUR) (74.51 %  de descuento) en el siguiente enlace!

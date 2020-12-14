@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07SHC6B4B/?tag=tolees-21'
 descuento: '65.02'
+average: '13.99'
 ---
 
 Ahora mismo tienes [EasySMX Auriculares Niños  [Regalos] Auriculares Cascos de Diadema para Niños  Cascos Infantiles con Cable  3.5 mm Jack  Volumen Limitado de 90dB  Plug y Play  Regalo para Niños de 3-12 Edad  Rosa ](https://www.amazon.es/dp/B07SHC6B4B/?tag=tolees-21) a 13.99 EUR (original: 39.99 EUR) (65.02 %  de descuento) en el siguiente enlace!

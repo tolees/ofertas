@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NGYZ7X2/?tag=tolees-21'
 descuento: '61.50'
+average: '23.08'
 ---
 
 Está [Reebok Sublite XT Cushion 2.0 MT  Zapatillas de Trail Running para Mujer  Rosa  Pink Craze/Manic Cherry/White/Pewter   38 EU](https://www.amazon.es/dp/B01NGYZ7X2/?tag=tolees-21) con 61.50 de descuento por 23.08 EUR (original: 59.95 EUR) en el siguiente enlace!

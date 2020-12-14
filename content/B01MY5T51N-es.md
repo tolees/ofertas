@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MY5T51N/?tag=tolees-21'
 descuento: '57.26'
+average: '29.9'
 ---
 
 Tienes [G-STAR RAW Rovulc HB Low  Zapatillas para Hombre  Negro  Black 990   44 EU](https://www.amazon.es/dp/B01MY5T51N/?tag=tolees-21) con un 57.26 % de descuento con precio de oferta de 29.9 EUR (original: 69.95 EUR) en el siguiente enlace!

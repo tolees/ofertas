@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CPRXJPV/?tag=tolees-21'
 descuento: '45.01'
+average: '21.99'
 ---
 
 Está [5BILLION Rodillo de Espuma - Rodillo Muscular de Alta Densidad 43 * 15 cm para liberación miofascial  Masaje Muscular de Tejido Profundo para Fisioterapia  Alivio del Dolor y Ejercicio de Equilibrio](https://www.amazon.es/dp/B07CPRXJPV/?tag=tolees-21) con 45.01 de descuento por 21.99 EUR (original: 39.99 EUR) en el siguiente enlace!

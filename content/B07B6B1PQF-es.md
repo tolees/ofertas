@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B6B1PQF/?tag=tolees-21'
 descuento: '32.78'
+average: '127.05'
 ---
 
 Ahora mismo tienes [Denver SDQ-52004L - Smartphone Dual SIM DE 5.2"  4G  Quad Core 1.3 GHz  RAM de 2 GB  Memoria de 16 GB  cámara de 8 MP  Android 7.0  Color Plateado](https://www.amazon.es/dp/B07B6B1PQF/?tag=tolees-21) a 127.05 EUR (original: 189 EUR) (32.78 %  de descuento) en el siguiente enlace!

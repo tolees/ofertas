@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DPHTCHX/?tag=tolees-21'
 descuento: '40.65'
+average: '47.45'
 ---
 
 Está [adidas M PT Pants  Hombre  zne htr/Black/White  M](https://www.amazon.es/dp/B07DPHTCHX/?tag=tolees-21) con 40.65 de descuento por 47.45 EUR (original: 79.95 EUR) en el siguiente enlace!

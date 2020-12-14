@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077VLDZJ2/?tag=tolees-21'
 descuento: '54.44'
+average: '34.15'
 ---
 
 Está [Adidas CF Advantage CL  Zapatillas de Deporte para Hombre  Gris Carbon/Ftwbla 000  42 EU](https://www.amazon.es/dp/B077VLDZJ2/?tag=tolees-21) con 54.44 de descuento por 34.15 EUR (original: 74.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072M4V4KZ/?tag=tolees-21'
 descuento: '31.09'
+average: '25.49'
 ---
 
 Ahora mismo tienes [GUARD & REVIVAL TREAT Estera del Masaje - Estera de Acupresión - 6210 Puntos de acu Presión Para Estimular y Mejorar Circulación - Viene con una Bolsa de Transporte de para Viajes  Verde Ordinario ](https://www.amazon.es/dp/B072M4V4KZ/?tag=tolees-21) a 25.49 EUR (original: 36.99 EUR) (31.09 %  de descuento) en el siguiente enlace!

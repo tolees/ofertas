@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M5KJX5J/?tag=tolees-21'
 descuento: '27.31'
+average: '26.16'
 ---
 
 Ahora mismo tienes [MTNG Attitude 69432 - Zapatillas para Mujer  Verde  Raspe Glare Nude/Tampa Kaky C45923  37 EU](https://www.amazon.es/dp/B07M5KJX5J/?tag=tolees-21) a 26.16 EUR (original: 35.99 EUR) (27.31 %  de descuento) en el siguiente enlace!

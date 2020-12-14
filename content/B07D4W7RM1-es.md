@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D4W7RM1/?tag=tolees-21'
 descuento: '64.05'
+average: '21.55'
 ---
 
 Está [Kappa Bento Tex  Náuticos Unisex Niños  Azul  Navy/Orange 6744   37 EU](https://www.amazon.es/dp/B07D4W7RM1/?tag=tolees-21) con 64.05 de descuento por 21.55 EUR (original: 59.95 EUR) en el siguiente enlace!

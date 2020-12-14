@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0796V9LFB/?tag=tolees-21'
 descuento: '35.00'
+average: '162.49'
 ---
 
 Está [ThrustMaster - TSS Freno de Mano Progresivo y Cambio de Marchas Secuencial Sparco  PC ](https://www.amazon.es/dp/B0796V9LFB/?tag=tolees-21) con 35.00 de descuento por 162.49 EUR (original: 249.99 EUR) en el siguiente enlace!

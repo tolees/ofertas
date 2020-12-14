@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NGYF0FI/?tag=tolees-21'
 descuento: '61.42'
+average: '69.44'
 ---
 
 Está [Sorel Madson Chukka Waterproof  Botas Impermeables para Hombre  Negro  Black 011   44 EU](https://www.amazon.es/dp/B01NGYF0FI/?tag=tolees-21) con 61.42 de descuento por 69.44 EUR (original: 179.99 EUR) en el siguiente enlace!

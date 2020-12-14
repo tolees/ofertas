@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004EAHJR4/?tag=tolees-21'
 descuento: '36.86'
+average: '8.84'
 ---
 
 Ahora mismo tienes [Tequila Olmeca Blanco 70cl](https://www.amazon.es/dp/B004EAHJR4/?tag=tolees-21) a 8.84 EUR (original: 14 EUR) (36.86 %  de descuento) en el siguiente enlace!

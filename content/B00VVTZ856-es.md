@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00VVTZ856/?tag=tolees-21'
 descuento: '78.09'
+average: '14.24'
 ---
 
 Está [Superga 2750 Macramej - Zapatillas Niñas](https://www.amazon.es/dp/B00VVTZ856/?tag=tolees-21) con 78.09 de descuento por 14.24 EUR (original: 65 EUR) en el siguiente enlace!

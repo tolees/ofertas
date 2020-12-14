@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BDDNS8S/?tag=tolees-21'
 descuento: '34.49'
+average: '37.99'
 ---
 
 Tienes [Planchas para el Pelo  HQQNUO 2 in1 Planchas de Pelo de Vapor/Plancha de Pelo Profesional  Plancha Pelo Vapor para Alisado y Rizado de Cabello con Tanque de Agua y Guante  6 Temperaturas 150º-235º](https://www.amazon.es/dp/B07BDDNS8S/?tag=tolees-21) con un 34.49 % de descuento con precio de oferta de 37.99 EUR (original: 57.99 EUR) en el siguiente enlace!

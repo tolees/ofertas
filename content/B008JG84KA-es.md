@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B008JG84KA/?tag=tolees-21'
 descuento: '74.37'
+average: '4.69'
 ---
 
 Ahora mismo tienes [SW-Stahl profesional alicates 180 mm  con Griffschutzisolation 40450L](https://www.amazon.es/dp/B008JG84KA/?tag=tolees-21) a 4.69 EUR (original: 18.3 EUR) (74.37 %  de descuento) en el siguiente enlace!

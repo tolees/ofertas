@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M91H3PJ/?tag=tolees-21'
 descuento: '62.49'
+average: '18.75'
 ---
 
 Ahora mismo tienes [MTNG 84212  Zapatillas para Hombre   Cow Suede Taupe/Bleecker Cuero/Flavian Marron C44814   43 EU](https://www.amazon.es/dp/B07M91H3PJ/?tag=tolees-21) a 18.75 EUR (original: 49.99 EUR) (62.49 %  de descuento) en el siguiente enlace!

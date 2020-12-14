@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BQV3ZL4/?tag=tolees-21'
 descuento: '60.09'
+average: '27.94'
 ---
 
 Ahora mismo tienes [New Balance 997H  Zapatillas Unisex Niños  Negro  Black/Energy Red   36 EU](https://www.amazon.es/dp/B07BQV3ZL4/?tag=tolees-21) a 27.94 EUR (original: 70 EUR) (60.09 %  de descuento) en el siguiente enlace!

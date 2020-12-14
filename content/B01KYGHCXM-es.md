@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KYGHCXM/?tag=tolees-21'
 descuento: '47.85'
+average: '11.99'
 ---
 
 Está [Smiley Face Mugs](https://www.amazon.es/dp/B01KYGHCXM/?tag=tolees-21) con 47.85 de descuento por 11.99 EUR (original: 22.99 EUR) en el siguiente enlace!

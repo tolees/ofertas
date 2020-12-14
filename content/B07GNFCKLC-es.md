@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GNFCKLC/?tag=tolees-21'
 descuento: '53.65'
+average: '15.81'
 ---
 
 Está [LifeWheel - Calcetines de deporte - para hombre Multicolor A1 Style 6 Pairs  Medium](https://www.amazon.es/dp/B07GNFCKLC/?tag=tolees-21) con 53.65 de descuento por 15.81 EUR (original: 34.11 EUR) en el siguiente enlace!

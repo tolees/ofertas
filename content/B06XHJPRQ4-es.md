@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XHJPRQ4/?tag=tolees-21'
 descuento: '47.60'
+average: '9.95'
 ---
 
 Está [Funko 599386031 - Figura Street Fighter - Chun-li](https://www.amazon.es/dp/B06XHJPRQ4/?tag=tolees-21) con 47.60 de descuento por 9.95 EUR (original: 18.99 EUR) en el siguiente enlace!

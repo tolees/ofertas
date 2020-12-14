@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B016QMLACM/?tag=tolees-21'
 descuento: '84.03'
+average: '6.69'
 ---
 
 Está [Downton Abbey - Temporada 1 [Blu-ray]](https://www.amazon.es/dp/B016QMLACM/?tag=tolees-21) con 84.03 de descuento por 6.69 EUR (original: 41.89 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079J5SG1D/?tag=tolees-21'
 descuento: '43.78'
+average: '33.73'
 ---
 
 Está [Asics Patriot 10 Zapatillas de Running Hombre  Gris  Mid Grey/Race Blue 020   47 EU](https://www.amazon.es/dp/B079J5SG1D/?tag=tolees-21) con 43.78 de descuento por 33.73 EUR (original: 60 EUR) en el siguiente enlace!

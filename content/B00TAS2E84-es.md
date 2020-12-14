@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TAS2E84/?tag=tolees-21'
 descuento: '45.18'
+average: '15.25'
 ---
 
 Ahora mismo tienes [APC Surge Arrest Essential - PM5-GR - Regleta con protección contra subidas y picos de tensión  5 tomas de salida](https://www.amazon.es/dp/B00TAS2E84/?tag=tolees-21) a 15.25 EUR (original: 27.82 EUR) (45.18 %  de descuento) en el siguiente enlace!

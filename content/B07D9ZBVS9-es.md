@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9ZBVS9/?tag=tolees-21'
 descuento: '62.96'
+average: '25.91'
 ---
 
 Está [Puma Rebound Street V2 SD Fur  Zapatillas Altas Unisex Adulto  Verde Forest Night-Buckthorn Brown 02  37 EU](https://www.amazon.es/dp/B07D9ZBVS9/?tag=tolees-21) con 62.96 de descuento por 25.91 EUR (original: 69.95 EUR) en el siguiente enlace!

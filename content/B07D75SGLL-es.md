@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D75SGLL/?tag=tolees-21'
 descuento: '28.56'
+average: '59.98'
 ---
 
 Está [adidas Superstar 80S  Zapatillas para Hombre  Blanco Crystal Off White 0  43 1/3 EU](https://www.amazon.es/dp/B07D75SGLL/?tag=tolees-21) con 28.56 de descuento por 59.98 EUR (original: 83.96 EUR) en el siguiente enlace!

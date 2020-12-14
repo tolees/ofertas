@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F7N2CQT/?tag=tolees-21'
 descuento: '40.41'
+average: '23.83'
 ---
 
 Está [JACK & JONES PREMIUM Jprpost Knit Crew Neck  suéter para Hombre  Gris Light Grey Melange  Small](https://www.amazon.es/dp/B07F7N2CQT/?tag=tolees-21) con 40.41 de descuento por 23.83 EUR (original: 39.99 EUR) en el siguiente enlace!

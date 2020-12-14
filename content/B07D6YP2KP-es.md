@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D6YP2KP/?tag=tolees-21'
 descuento: '63.77'
+average: '47.08'
 ---
 
 Tienes [adidas ARKYN  Zapatillas de Deporte para Mujer  Negro  Core Black/Core Black/Footwear White 0   38 2/3 EU](https://www.amazon.es/dp/B07D6YP2KP/?tag=tolees-21) con un 63.77 % de descuento con precio de oferta de 47.08 EUR (original: 129.95 EUR) en el siguiente enlace!

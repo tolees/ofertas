@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001AIR0K4/?tag=tolees-21'
 descuento: '40.40'
+average: '7.45'
 ---
 
 Ahora mismo tienes [Cressi Water Shoes Escarpines  Unisex Adulto  Azul  Aquamarina   39 EU](https://www.amazon.es/dp/B001AIR0K4/?tag=tolees-21) a 7.45 EUR (original: 12.5 EUR) (40.40 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DVNCSC7/?tag=tolees-21'
 descuento: '30.37'
+average: '15.02'
 ---
 
 Ahora mismo tienes [Relaxdays Mantel Antimanchas Rectangular  Poliéster  Taupe  140 x 180 cm](https://www.amazon.es/dp/B07DVNCSC7/?tag=tolees-21) a 15.02 EUR (original: 21.57 EUR) (30.37 %  de descuento) en el siguiente enlace!

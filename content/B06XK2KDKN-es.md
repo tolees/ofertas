@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XK2KDKN/?tag=tolees-21'
 descuento: '44.98'
+average: '54.99'
 ---
 
 Ahora mismo tienes [Newskill Hanshi Spectrum - Teclado mecánico gaming RGB   Estructura metalica  reposamuñecas removible  efectos RGB  Switch BLUE   negro](https://www.amazon.es/dp/B06XK2KDKN/?tag=tolees-21) a 54.99 EUR (original: 99.95 EUR) (44.98 %  de descuento) en el siguiente enlace!

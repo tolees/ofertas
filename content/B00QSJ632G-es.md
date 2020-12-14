@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00QSJ632G/?tag=tolees-21'
 descuento: '64.51'
+average: '19.5'
 ---
 
 Ahora mismo tienes [Under Armour Armour High Sujetador Deportivo  Mujer  Negro  38D](https://www.amazon.es/dp/B00QSJ632G/?tag=tolees-21) a 19.5 EUR (original: 54.95 EUR) (64.51 %  de descuento) en el siguiente enlace!

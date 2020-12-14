@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0044AJFAI/?tag=tolees-21'
 descuento: '28.05'
+average: '3.95'
 ---
 
 Ahora mismo tienes [Panasonic RP-HV104E-K - Auriculares de botón  negro](https://www.amazon.es/dp/B0044AJFAI/?tag=tolees-21) a 3.95 EUR (original: 5.49 EUR) (28.05 %  de descuento) en el siguiente enlace!

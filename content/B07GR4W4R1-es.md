@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GR4W4R1/?tag=tolees-21'
 descuento: '53.65'
+average: '184.95'
 ---
 
 Está [Hiboy Pack Patinete Rosa con Asiento Kart Rosa](https://www.amazon.es/dp/B07GR4W4R1/?tag=tolees-21) con 53.65 de descuento por 184.95 EUR (original: 399 EUR) en el siguiente enlace!

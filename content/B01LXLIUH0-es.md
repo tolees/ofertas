@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LXLIUH0/?tag=tolees-21'
 descuento: '70.69'
+average: '11.72'
 ---
 
 Está [Only Onlbergen L/s Off Should Pull Knt Noos  suéter para Mujer  Gris  Dark Grey Melange   40  Talla del Fabricante: Large ](https://www.amazon.es/dp/B01LXLIUH0/?tag=tolees-21) con 70.69 de descuento por 11.72 EUR (original: 39.99 EUR) en el siguiente enlace!

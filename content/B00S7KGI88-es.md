@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00S7KGI88/?tag=tolees-21'
 descuento: '55.05'
+average: '23.37'
 ---
 
 Ahora mismo tienes [Cuerpiño de cadenas L](https://www.amazon.es/dp/B00S7KGI88/?tag=tolees-21) a 23.37 EUR (original: 51.99 EUR) (55.05 %  de descuento) en el siguiente enlace!

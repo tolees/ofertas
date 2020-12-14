@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071FWYZXT/?tag=tolees-21'
 descuento: '35.56'
+average: '96.66'
 ---
 
 Ahora mismo tienes [Merrell Moab 2 Mid GTX  Botas de Senderismo para Hombre  Gris Beluga  43 EU](https://www.amazon.es/dp/B071FWYZXT/?tag=tolees-21) a 96.66 EUR (original: 150 EUR) (35.56 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B011V5STZ0/?tag=tolees-21'
 descuento: '61.22'
+average: '38.76'
 ---
 
 Está [Puma Zapatillas BMW Ms Pitlane Blanco EU 42](https://www.amazon.es/dp/B011V5STZ0/?tag=tolees-21) con 61.22 de descuento por 38.76 EUR (original: 99.95 EUR) en el siguiente enlace!

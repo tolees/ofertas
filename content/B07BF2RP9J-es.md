@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BF2RP9J/?tag=tolees-21'
 descuento: '63.64'
+average: '9'
 ---
 
 Tienes [Grease 1  4K UHD + BD  [Blu-ray]](https://www.amazon.es/dp/B07BF2RP9J/?tag=tolees-21) con un 63.64 % de descuento con precio de oferta de 9 EUR (original: 24.75 EUR) en el siguiente enlace!

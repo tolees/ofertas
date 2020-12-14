@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D8DB1C9/?tag=tolees-21'
 descuento: '62.87'
+average: '25.99'
 ---
 
 Está [Pulsera Actividad IP67 Pulsómetro Bluetooth Monitor de Actividad Pulsera](https://www.amazon.es/dp/B07D8DB1C9/?tag=tolees-21) con 62.87 de descuento por 25.99 EUR (original: 69.99 EUR) en el siguiente enlace!

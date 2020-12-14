@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075K5R8DF/?tag=tolees-21'
 descuento: '62.04'
+average: '18.96'
 ---
 
 Está [Skechers Mecca-outer Venture Botas Clasicas Niños  Azul  Navy Nvy   27 EU](https://www.amazon.es/dp/B075K5R8DF/?tag=tolees-21) con 62.04 de descuento por 18.96 EUR (original: 49.95 EUR) en el siguiente enlace!

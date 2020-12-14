@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00CJQ53PA/?tag=tolees-21'
 descuento: '75.06'
+average: '6.73'
 ---
 
 Ahora mismo tienes [Star Wars - Disfraz de Darth Vader para mascota  Talla S perro  Rubie s 887852-S ](https://www.amazon.es/dp/B00CJQ53PA/?tag=tolees-21) a 6.73 EUR (original: 26.99 EUR) (75.06 %  de descuento) en el siguiente enlace!

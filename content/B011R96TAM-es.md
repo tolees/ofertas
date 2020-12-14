@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B011R96TAM/?tag=tolees-21'
 descuento: '50.03'
+average: '9.99'
 ---
 
 Ahora mismo tienes [Xsories MTRP2 Bend  N  Twist - Trípode Flexible con Pholder  Naranja](https://www.amazon.es/dp/B011R96TAM/?tag=tolees-21) a 9.99 EUR (original: 19.99 EUR) (50.03 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00P4X6GVK/?tag=tolees-21'
 descuento: '29.87'
+average: '13.99'
 ---
 
 Está [La Matanza De Texas [Blu-ray]](https://www.amazon.es/dp/B00P4X6GVK/?tag=tolees-21) con 29.87 de descuento por 13.99 EUR (original: 19.95 EUR) en el siguiente enlace!

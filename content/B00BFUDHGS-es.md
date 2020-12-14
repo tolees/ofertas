@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00BFUDHGS/?tag=tolees-21'
 descuento: '58.25'
+average: '14.59'
 ---
 
 Tienes [James & Nicholson Poloshirt Ladies  Long-Sleeve Polo  Mujer  Negro/Blanco  2XL](https://www.amazon.es/dp/B00BFUDHGS/?tag=tolees-21) con un 58.25 % de descuento con precio de oferta de 14.59 EUR (original: 34.95 EUR) en el siguiente enlace!

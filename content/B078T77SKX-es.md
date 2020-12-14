@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078T77SKX/?tag=tolees-21'
 descuento: '26.63'
+average: '43.95'
 ---
 
 Ahora mismo tienes [Hilfiger Denim Tommy Jeans Textile Sneaker  Zapatillas para Hombre  Negro  Black 990   43 EU](https://www.amazon.es/dp/B078T77SKX/?tag=tolees-21) a 43.95 EUR (original: 59.9 EUR) (26.63 %  de descuento) en el siguiente enlace!

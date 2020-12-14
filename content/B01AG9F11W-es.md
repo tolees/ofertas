@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01AG9F11W/?tag=tolees-21'
 descuento: '56.05'
+average: '277.03'
 ---
 
 Tienes [Ballistix Sport LT BLS4C16G4D240FSC/BLS4K16G4D240FSC - Kit de Memoria RAM de 64GB  16GB x 4  DDR4  2400 MT/s  PC4-19200  Dual Rank x8  DIMM  288-Pin  blanco](https://www.amazon.es/dp/B01AG9F11W/?tag=tolees-21) con un 56.05 % de descuento con precio de oferta de 277.03 EUR (original: 630.4 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IZVS8D6/?tag=tolees-21'
 descuento: '26.57'
+average: '36.68'
 ---
 
 Tienes [Intex 64122 - Colchón hinchable Dura-Beam Standard Pillow Rest 99 x 191 x 42 cm](https://www.amazon.es/dp/B01IZVS8D6/?tag=tolees-21) con un 26.57 % de descuento con precio de oferta de 36.68 EUR (original: 49.95 EUR) en el siguiente enlace!

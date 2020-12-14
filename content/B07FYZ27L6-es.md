@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FYZ27L6/?tag=tolees-21'
 descuento: '77.95'
+average: '16.88'
 ---
 
 Está [Reebok Royal Techque T  Zapatillas de Deporte para Niños   White/Collegiate Navy/Gum 000   34 EU](https://www.amazon.es/dp/B07FYZ27L6/?tag=tolees-21) con 77.95 de descuento por 16.88 EUR (original: 76.56 EUR) en el siguiente enlace!

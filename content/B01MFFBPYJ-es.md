@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MFFBPYJ/?tag=tolees-21'
 descuento: '79.35'
+average: '26.84'
 ---
 
 Está [G-STAR RAW 3301 Low Skinny Wmn  Jeans Ajustados para Mujer  Gris  Dark Aged Cobler 3143   23/30](https://www.amazon.es/dp/B01MFFBPYJ/?tag=tolees-21) con 79.35 de descuento por 26.84 EUR (original: 129.95 EUR) en el siguiente enlace!

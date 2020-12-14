@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071VNCX7R/?tag=tolees-21'
 descuento: '80.65'
+average: '21.27'
 ---
 
 Tienes [Puma Basket Platform VR  Zapatillas para Mujer  Verde Olive Night  36 EU](https://www.amazon.es/dp/B071VNCX7R/?tag=tolees-21) con un 80.65 % de descuento con precio de oferta de 21.27 EUR (original: 109.95 EUR) en el siguiente enlace!

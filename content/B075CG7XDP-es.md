@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075CG7XDP/?tag=tolees-21'
 descuento: '74.80'
+average: '9.99'
 ---
 
 Está [Rizador eléctrico profesional IYUTtech para pelo  para crear rizos y masajear el cabello](https://www.amazon.es/dp/B075CG7XDP/?tag=tolees-21) con 74.80 de descuento por 9.99 EUR (original: 39.65 EUR) en el siguiente enlace!

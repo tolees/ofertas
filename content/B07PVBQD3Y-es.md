@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PVBQD3Y/?tag=tolees-21'
 descuento: '62.58'
+average: '14.95'
 ---
 
 Está [Charles Wilson Paquete 4 Camisetas Cuello Redondo Lisas  Medium  Graphite ](https://www.amazon.es/dp/B07PVBQD3Y/?tag=tolees-21) con 62.58 de descuento por 14.95 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B012FFTMRY/?tag=tolees-21'
 descuento: '33.49'
+average: '13.9'
 ---
 
 Tienes [Money Maze: Laberinto de Dinero para un cambio divertido cuando regalas](https://www.amazon.es/dp/B012FFTMRY/?tag=tolees-21) con un 33.49 % de descuento con precio de oferta de 13.9 EUR (original: 20.9 EUR) en el siguiente enlace!

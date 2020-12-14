@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G5HXMYV/?tag=tolees-21'
 descuento: '25.00'
+average: '30'
 ---
 
 Tienes [Nike Jr Vapor 12 Club GS TF  Zapatillas de fútbol Sala Unisex Adulto   Wolf Grey/Lt Crimson/Black 060   38.5 EU](https://www.amazon.es/dp/B07G5HXMYV/?tag=tolees-21) con un 25.00 % de descuento con precio de oferta de 30 EUR (original: 40 EUR) en el siguiente enlace!

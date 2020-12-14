@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FY23LW7/?tag=tolees-21'
 descuento: '26.16'
+average: '47.99'
 ---
 
 Está [TP-Link TL-SG116 Gigabit Ethernet de 16 Puertos  Conmutador no Gestionado  Plug and Play  Metal  Escritorio  Montaje en Bastidor  sin Ventilador  Vida ÚTI Limitada ](https://www.amazon.es/dp/B07FY23LW7/?tag=tolees-21) con 26.16 de descuento por 47.99 EUR (original: 64.99 EUR) en el siguiente enlace!

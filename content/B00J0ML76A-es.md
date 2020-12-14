@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00J0ML76A/?tag=tolees-21'
 descuento: '65.71'
+average: '11.95'
 ---
 
 Está [Spalding Bekleidung Teamsport 4her II Shorts - Pantalones Cortos de Baloncesto para Mujer  Color Azul  Talla L](https://www.amazon.es/dp/B00J0ML76A/?tag=tolees-21) con 65.71 de descuento por 11.95 EUR (original: 34.85 EUR) en el siguiente enlace!

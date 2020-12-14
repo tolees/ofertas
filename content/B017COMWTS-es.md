@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017COMWTS/?tag=tolees-21'
 descuento: '28.60'
+average: '35.63'
 ---
 
 Ahora mismo tienes [Black & Decker ADV-1200 RECOGETODO CICLÓNICO AUTOMÓVIL Gris  Rojo](https://www.amazon.es/dp/B017COMWTS/?tag=tolees-21) a 35.63 EUR (original: 49.9 EUR) (28.60 %  de descuento) en el siguiente enlace!

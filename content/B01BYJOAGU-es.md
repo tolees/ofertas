@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BYJOAGU/?tag=tolees-21'
 descuento: '65.72'
+average: '47.99'
 ---
 
 Está [American Tourister Bon Air - Equipaje de mano  Amarillo  Solar Yellow   L  75cm-91L ](https://www.amazon.es/dp/B01BYJOAGU/?tag=tolees-21) con 65.72 de descuento por 47.99 EUR (original: 140 EUR) en el siguiente enlace!

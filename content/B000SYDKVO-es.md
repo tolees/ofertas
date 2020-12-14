@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000SYDKVO/?tag=tolees-21'
 descuento: '26.89'
+average: '8.32'
 ---
 
 Tienes [PAPSTAR 18199 Pure - Tenedores de Madera  100 Unidades  16 5 cm ](https://www.amazon.es/dp/B000SYDKVO/?tag=tolees-21) con un 26.89 % de descuento con precio de oferta de 8.32 EUR (original: 11.38 EUR) en el siguiente enlace!

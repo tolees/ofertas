@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075YX2XGF/?tag=tolees-21'
 descuento: '42.05'
+average: '26.05'
 ---
 
 Ahora mismo tienes [Skechers Mecca-bolders  Botas Clasicas para Niños  Azul  Navy Nvy   24 EU](https://www.amazon.es/dp/B075YX2XGF/?tag=tolees-21) a 26.05 EUR (original: 44.95 EUR) (42.05 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078SZ1TWP/?tag=tolees-21'
 descuento: '55.72'
+average: '44.26'
 ---
 
 Está [Salomon Trailster  Zaptillas de Running para Hombre  Negro  Phantom/Black/Magnet   40 2/3 EU](https://www.amazon.es/dp/B078SZ1TWP/?tag=tolees-21) con 55.72 de descuento por 44.26 EUR (original: 99.95 EUR) en el siguiente enlace!

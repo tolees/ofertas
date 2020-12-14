@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DY5DRK8/?tag=tolees-21'
 descuento: '67.53'
+average: '17.86'
 ---
 
 Ahora mismo tienes [Under Armour Favorite Tapered Slouch Pantalones  Mujer  Aluminium Light Heather/After Burn/Black  XS](https://www.amazon.es/dp/B07DY5DRK8/?tag=tolees-21) a 17.86 EUR (original: 55 EUR) (67.53 %  de descuento) en el siguiente enlace!

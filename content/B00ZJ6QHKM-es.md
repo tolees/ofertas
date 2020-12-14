@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00ZJ6QHKM/?tag=tolees-21'
 descuento: '25.59'
+average: '7.59'
 ---
 
 Tienes [Akira [Blu-ray]](https://www.amazon.es/dp/B00ZJ6QHKM/?tag=tolees-21) con un 25.59 % de descuento con precio de oferta de 7.59 EUR (original: 10.2 EUR) en el siguiente enlace!

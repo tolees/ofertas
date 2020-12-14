@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079T4XH5K/?tag=tolees-21'
 descuento: '40.00'
+average: '59.99'
 ---
 
 Está [Roccat Horde AIMO - Teclado Gaming Membranical  LED RGB con Sistema de iluminación AIMO  separación Mejorada de Las Teclas  Teclas de Macro de ejecución rápida  Rueda configurable  Negro](https://www.amazon.es/dp/B079T4XH5K/?tag=tolees-21) con 40.00 de descuento por 59.99 EUR (original: 99.99 EUR) en el siguiente enlace!

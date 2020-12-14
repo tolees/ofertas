@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LYT6SRC/?tag=tolees-21'
 descuento: '26.54'
+average: '299'
 ---
 
 Está [Apple iPhone 6s  de 32GB  - Gris espacial](https://www.amazon.es/dp/B01LYT6SRC/?tag=tolees-21) con 26.54 de descuento por 299 EUR (original: 407 EUR) en el siguiente enlace!

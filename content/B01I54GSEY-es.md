@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01I54GSEY/?tag=tolees-21'
 descuento: '33.34'
+average: '19.99'
 ---
 
 Está [Cuchillos de Cocinero Profesional 210 mm  Cuchillo de chef  Pelador 130 mm  Cuchillos Profesionales por Aicok](https://www.amazon.es/dp/B01I54GSEY/?tag=tolees-21) con 33.34 de descuento por 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

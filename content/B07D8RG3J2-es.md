@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D8RG3J2/?tag=tolees-21'
 descuento: '48.73'
+average: '19.99'
 ---
 
 Ahora mismo tienes [Lovey Angel Vibrador en Forma de Corazón，Juguetes para Adultos para Mujer para Parejas Masajeador para Relajar el Cuerpo](https://www.amazon.es/dp/B07D8RG3J2/?tag=tolees-21) a 19.99 EUR (original: 38.99 EUR) (48.73 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071Z8HMZ6/?tag=tolees-21'
 descuento: '32.67'
+average: '77.42'
 ---
 
 Está [Asus AMD AM4 X370 ATX - Placa con iluminación LED  DDR4 3200MHz  32Gb/s M.2  HDMI  SATA 6Gb/s  USB 3.1 Gen 2](https://www.amazon.es/dp/B071Z8HMZ6/?tag=tolees-21) con 32.67 de descuento por 77.42 EUR (original: 114.99 EUR) en el siguiente enlace!

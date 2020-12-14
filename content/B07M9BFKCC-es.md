@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M9BFKCC/?tag=tolees-21'
 descuento: '33.18'
+average: '26.72'
 ---
 
 Está [MTNG 84246  Zapatillas para Hombre  Azul  Vertigo Cuero/Fangi Marino/Taomat Hielo C45393   43 EU](https://www.amazon.es/dp/B07M9BFKCC/?tag=tolees-21) con 33.18 de descuento por 26.72 EUR (original: 39.99 EUR) en el siguiente enlace!

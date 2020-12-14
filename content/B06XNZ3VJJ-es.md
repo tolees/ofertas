@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XNZ3VJJ/?tag=tolees-21'
 descuento: '45.26'
+average: '10.92'
 ---
 
 Tienes [Joma Bali II Polo  Hombre  Gris  XL](https://www.amazon.es/dp/B06XNZ3VJJ/?tag=tolees-21) con un 45.26 % de descuento con precio de oferta de 10.92 EUR (original: 19.95 EUR) en el siguiente enlace!

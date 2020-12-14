@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N2ZWPOU/?tag=tolees-21'
 descuento: '51.37'
+average: '22.75'
 ---
 
 Tienes [Kärcher Lanza Vario Power Jet Full Control para K2 - K3  2.642-724.0 ](https://www.amazon.es/dp/B01N2ZWPOU/?tag=tolees-21) con un 51.37 % de descuento con precio de oferta de 22.75 EUR (original: 46.78 EUR) en el siguiente enlace!

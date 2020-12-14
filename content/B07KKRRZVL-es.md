@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KKRRZVL/?tag=tolees-21'
 descuento: '64.32'
+average: '30.33'
 ---
 
 Está [Naf Naf Kend3 Mono  Negro  Écru/Noir 342   34 para Mujer](https://www.amazon.es/dp/B07KKRRZVL/?tag=tolees-21) con 64.32 de descuento por 30.33 EUR (original: 85 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BL38DTH/?tag=tolees-21'
 descuento: '31.22'
+average: '55.02'
 ---
 
 Tienes [New Balance Ml373bss  Zapatillas para Hombre  Negro  Black/Veg Tan Bss   43 EU](https://www.amazon.es/dp/B07BL38DTH/?tag=tolees-21) con un 31.22 % de descuento con precio de oferta de 55.02 EUR (original: 80 EUR) en el siguiente enlace!

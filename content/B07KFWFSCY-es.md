@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KFWFSCY/?tag=tolees-21'
 descuento: '35.32'
+average: '23.28'
 ---
 
 Está [Esprit 019ee2k014  Polo para Hombre  Azul  Navy 400   XX-Large](https://www.amazon.es/dp/B07KFWFSCY/?tag=tolees-21) con 35.32 de descuento por 23.28 EUR (original: 35.99 EUR) en el siguiente enlace!

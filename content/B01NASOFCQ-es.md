@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NASOFCQ/?tag=tolees-21'
 descuento: '38.22'
+average: '33.95'
 ---
 
 Está [Adidas Superstar  Primeros Pasos Bebé-niños  Negro  Core Black/Footwear White/Footwear White   24 EU](https://www.amazon.es/dp/B01NASOFCQ/?tag=tolees-21) con 38.22 de descuento por 33.95 EUR (original: 54.95 EUR) en el siguiente enlace!

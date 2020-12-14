@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00M2XH7CM/?tag=tolees-21'
 descuento: '58.98'
+average: '37.21'
 ---
 
 Tienes [SimonRack SI397 Kit Estantería con 5 Estantes  Azul y blanco  1800 x 900 x 300 mm](https://www.amazon.es/dp/B00M2XH7CM/?tag=tolees-21) con un 58.98 % de descuento con precio de oferta de 37.21 EUR (original: 90.72 EUR) en el siguiente enlace!

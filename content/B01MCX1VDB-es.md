@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MCX1VDB/?tag=tolees-21'
 descuento: '37.54'
+average: '13.11'
 ---
 
 Ahora mismo tienes [IDC COLOR  Juego de maquillaje  Gris  - 1 unidad](https://www.amazon.es/dp/B01MCX1VDB/?tag=tolees-21) a 13.11 EUR (original: 20.99 EUR) (37.54 %  de descuento) en el siguiente enlace!

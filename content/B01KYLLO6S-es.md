@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KYLLO6S/?tag=tolees-21'
 descuento: '58.64'
+average: '2.97'
 ---
 
 Está [Caja de Alimentos Recipiente Contenedor Latas de Té Almacenamiento Cestos Cubos Organización Pintadas Flores Doble - 2](https://www.amazon.es/dp/B01KYLLO6S/?tag=tolees-21) con 58.64 de descuento por 2.97 EUR (original: 7.18 EUR) en el siguiente enlace!

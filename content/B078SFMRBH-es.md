@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078SFMRBH/?tag=tolees-21'
 descuento: '73.27'
+average: '13.36'
 ---
 
 Tienes [edc by Esprit 048cc2c015  Pantalones Cortos para Hombre  Verde  Olive 360  46  Talla del Fabricante: 30 ](https://www.amazon.es/dp/B078SFMRBH/?tag=tolees-21) con un 73.27 % de descuento con precio de oferta de 13.36 EUR (original: 49.99 EUR) en el siguiente enlace!

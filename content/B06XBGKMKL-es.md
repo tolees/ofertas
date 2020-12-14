@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XBGKMKL/?tag=tolees-21'
 descuento: '36.42'
+average: '34.97'
 ---
 
 Tienes [Burton Space  Funda Snowboard Unisex Adulto  Negro  True Black   166](https://www.amazon.es/dp/B06XBGKMKL/?tag=tolees-21) con un 36.42 % de descuento con precio de oferta de 34.97 EUR (original: 55 EUR) en el siguiente enlace!

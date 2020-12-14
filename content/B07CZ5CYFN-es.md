@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ5CYFN/?tag=tolees-21'
 descuento: '44.03'
+average: '41.95'
 ---
 
 Tienes [Salomon XA Pro 3D CSWP J  Zapatillas Unisex Infantil  Negro Black/High Risk Red  34 EU](https://www.amazon.es/dp/B07CZ5CYFN/?tag=tolees-21) con un 44.03 % de descuento con precio de oferta de 41.95 EUR (original: 74.95 EUR) en el siguiente enlace!

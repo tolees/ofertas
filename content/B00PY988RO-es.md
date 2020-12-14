@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00PY988RO/?tag=tolees-21'
 descuento: '30.21'
+average: '39.95'
 ---
 
 Está [Pikolin Home - Relleno nórdico  edredón hipoalergénico de fibra aloe vera  otoño-invierno  300 gr/m²  cama 180 - 260 x 240 cm   Todas las medidas ](https://www.amazon.es/dp/B00PY988RO/?tag=tolees-21) con 30.21 de descuento por 39.95 EUR (original: 57.24 EUR) en el siguiente enlace!

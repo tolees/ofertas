@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C9YSJB1/?tag=tolees-21'
 descuento: '73.07'
+average: '16.16'
 ---
 
 Ahora mismo tienes [Diadora - Vellón Hoodie FZ 5PALLE para Hombre ES XXL](https://www.amazon.es/dp/B07C9YSJB1/?tag=tolees-21) a 16.16 EUR (original: 60 EUR) (73.07 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073RKV8CQ/?tag=tolees-21'
 descuento: '57.53'
+average: '29.71'
 ---
 
 Tienes [adidas Cloudfoam Pure  Zapatillas de Running para Mujer  Negro Core Black/FTWR White  36.5 EU](https://www.amazon.es/dp/B073RKV8CQ/?tag=tolees-21) con un 57.53 % de descuento con precio de oferta de 29.71 EUR (original: 69.95 EUR) en el siguiente enlace!

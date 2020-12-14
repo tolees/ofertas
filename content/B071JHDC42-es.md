@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071JHDC42/?tag=tolees-21'
 descuento: '80.33'
+average: '17.69'
 ---
 
 Ahora mismo tienes [Tamaris 26336  Botas para Mujer  Gris  Anthracite   37 EU](https://www.amazon.es/dp/B071JHDC42/?tag=tolees-21) a 17.69 EUR (original: 89.95 EUR) (80.33 %  de descuento) en el siguiente enlace!

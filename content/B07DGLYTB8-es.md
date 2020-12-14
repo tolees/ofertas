@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DGLYTB8/?tag=tolees-21'
 descuento: '69.74'
+average: '15.13'
 ---
 
 Tienes [DC Shoes Trase Se  Zapatillas de Skateboard para Niñas  Negro  Black/Silver Bs2   29 EU](https://www.amazon.es/dp/B07DGLYTB8/?tag=tolees-21) con un 69.74 % de descuento con precio de oferta de 15.13 EUR (original: 50 EUR) en el siguiente enlace!

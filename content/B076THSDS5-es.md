@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076THSDS5/?tag=tolees-21'
 descuento: '49.99'
+average: '29.98'
 ---
 
 Tienes [Skechers Ez Flex 3.0-Beautify  Bailarinas con Punta Cerrada para Mujer  Beige  Natural   39 EU  6 UK ](https://www.amazon.es/dp/B076THSDS5/?tag=tolees-21) con un 49.99 % de descuento con precio de oferta de 29.98 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017NW5NZY/?tag=tolees-21'
 descuento: '35.47'
+average: '83.82'
 ---
 
 Está [Corsair Vengeance LPX - Módulo de Memoria XMP 2.0 de 16 Gb  2 X 8 Gb  DDR4  2400 MHz  C16   Negro](https://www.amazon.es/dp/B017NW5NZY/?tag=tolees-21) con 35.47 de descuento por 83.82 EUR (original: 129.9 EUR) en el siguiente enlace!

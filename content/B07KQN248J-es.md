@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KQN248J/?tag=tolees-21'
 descuento: '46.17'
+average: '34.99'
 ---
 
 Tienes [Helly Hansen Kos Polo  Hombre  White  M](https://www.amazon.es/dp/B07KQN248J/?tag=tolees-21) con un 46.17 % de descuento con precio de oferta de 34.99 EUR (original: 65 EUR) en el siguiente enlace!

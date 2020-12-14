@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G9ZRVHP/?tag=tolees-21'
 descuento: '41.02'
+average: '82.57'
 ---
 
 Está [Garmin Vivosmart 4 Pulsera de Actividad  Granate  S/M](https://www.amazon.es/dp/B07G9ZRVHP/?tag=tolees-21) con 41.02 de descuento por 82.57 EUR (original: 139.99 EUR) en el siguiente enlace!

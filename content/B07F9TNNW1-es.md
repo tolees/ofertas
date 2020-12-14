@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F9TNNW1/?tag=tolees-21'
 descuento: '41.07'
+average: '29.99'
 ---
 
 Ahora mismo tienes [Tarjetas Lexar Professional 1000x SDHC/SDXC UHS-II 64 GB [Embalaje ecológico]](https://www.amazon.es/dp/B07F9TNNW1/?tag=tolees-21) a 29.99 EUR (original: 50.89 EUR) (41.07 %  de descuento) en el siguiente enlace!

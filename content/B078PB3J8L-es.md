@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078PB3J8L/?tag=tolees-21'
 descuento: '48.29'
+average: '12.99'
 ---
 
 Ahora mismo tienes [Petaca de Acero Inoxidable para Whisky Licor Alcohol con tapón de Rosca Embudo  Acero Inoxidable  Plateado Duradero y Resistente a la corrosión Resistente Premium Acero Inoxidable](https://www.amazon.es/dp/B078PB3J8L/?tag=tolees-21) a 12.99 EUR (original: 25.12 EUR) (48.29 %  de descuento) en el siguiente enlace!

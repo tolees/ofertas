@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQLZ4ZK/?tag=tolees-21'
 descuento: '51.45'
+average: '33.96'
 ---
 
 Ahora mismo tienes [Adidas CF Racer TR  Zapatillas de Running para Hombre  Gris Grey Four F17/Ftwr White/Blue  45 EU](https://www.amazon.es/dp/B07FQLZ4ZK/?tag=tolees-21) a 33.96 EUR (original: 69.95 EUR) (51.45 %  de descuento) en el siguiente enlace!

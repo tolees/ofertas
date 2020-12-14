@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N6IAW2W/?tag=tolees-21'
 descuento: '48.87'
+average: '33.21'
 ---
 
 Tienes [Columbia Saturday Trail II Knee Pant AL8672 Shorts Largos  Mujer  Negro  Black   W4/L18](https://www.amazon.es/dp/B01N6IAW2W/?tag=tolees-21) con un 48.87 % de descuento con precio de oferta de 33.21 EUR (original: 64.95 EUR) en el siguiente enlace!

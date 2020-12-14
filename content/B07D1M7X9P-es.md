@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D1M7X9P/?tag=tolees-21'
 descuento: '40.10'
+average: '29.95'
 ---
 
 Tienes [Asics Stormer 2  Zapatillas de Entrenamiento para Mujer  Rosa  Peach Petal/Fuchsia Purple 700   39 EU](https://www.amazon.es/dp/B07D1M7X9P/?tag=tolees-21) con un 40.10 % de descuento con precio de oferta de 29.95 EUR (original: 50 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0794RFK7S/?tag=tolees-21'
 descuento: '54.07'
+average: '16.99'
 ---
 
 Tienes [Foco LED Proyector  TACKLIFE LWL1A 20W LED Proyector de construcción para exteriores  1620 Lumen  2m Cabel  IP65  Lámpara Camping  Luz Portátil para Trabajo de Noche  Iluminacion Exterior del Jardín](https://www.amazon.es/dp/B0794RFK7S/?tag=tolees-21) con un 54.07 % de descuento con precio de oferta de 16.99 EUR (original: 36.99 EUR) en el siguiente enlace!

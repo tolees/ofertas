@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XHJVXBN/?tag=tolees-21'
 descuento: '32.86'
+average: '7.99'
 ---
 
 Tienes [Luanvi Olimpia - Polo de manga corta Hombre  Naranja  L](https://www.amazon.es/dp/B06XHJVXBN/?tag=tolees-21) con un 32.86 % de descuento con precio de oferta de 7.99 EUR (original: 11.9 EUR) en el siguiente enlace!

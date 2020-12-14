@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JC45N3T/?tag=tolees-21'
 descuento: '63.13'
+average: '58.99'
 ---
 
 Está [Zagzog Auriculares Bluetooth Inalámbricos  Bluetooth V5.0 Caja de Carga 3000mAh 90 Horas Autonomía Impermeable IPX7 Mini Manos Libres HI-FI Audio con Micrófono CVC8.0 para iPhone Black](https://www.amazon.es/dp/B07JC45N3T/?tag=tolees-21) con 63.13 de descuento por 58.99 EUR (original: 159.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CTLM5VN/?tag=tolees-21'
 descuento: '54.91'
+average: '31.56'
 ---
 
 Tienes [Under Armour Ripple  Zapatillas de Running para Hombre  Negro  Black/Jet Gray/Aruba Red 005   40.5 EU](https://www.amazon.es/dp/B07CTLM5VN/?tag=tolees-21) con un 54.91 % de descuento con precio de oferta de 31.56 EUR (original: 70 EUR) en el siguiente enlace!

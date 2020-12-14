@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0751SMHC9/?tag=tolees-21'
 descuento: '70.58'
+average: '29.42'
 ---
 
 Está [New Balance Fresh Foam Veniz  Zapatillas de Running para Hombre   Gunmetal/Thunder/Hi-Lite Rt1   40 EU](https://www.amazon.es/dp/B0751SMHC9/?tag=tolees-21) con 70.58 de descuento por 29.42 EUR (original: 100 EUR) en el siguiente enlace!

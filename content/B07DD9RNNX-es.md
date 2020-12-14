@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DD9RNNX/?tag=tolees-21'
 descuento: '61.15'
+average: '15.5'
 ---
 
 Está [Champion Low Cut Shoe Lyte Mesh  Zapatillas de Running para Asfalto para Hombre  Verde  Peg Es502   46 EU](https://www.amazon.es/dp/B07DD9RNNX/?tag=tolees-21) con 61.15 de descuento por 15.5 EUR (original: 39.9 EUR) en el siguiente enlace!

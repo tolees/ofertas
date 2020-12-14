@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792QK5ZZ/?tag=tolees-21'
 descuento: '76.40'
+average: '47.19'
 ---
 
 Ahora mismo tienes [Adidas Adizero Prime SP  Zapatillas de Atletismo Unisex Adulto  Negro  Negbas/Ftwbla/Naranj 000   48 EU](https://www.amazon.es/dp/B0792QK5ZZ/?tag=tolees-21) a 47.19 EUR (original: 199.95 EUR) (76.40 %  de descuento) en el siguiente enlace!

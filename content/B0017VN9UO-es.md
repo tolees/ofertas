@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0017VN9UO/?tag=tolees-21'
 descuento: '28.59'
+average: '10.54'
 ---
 
 Ahora mismo tienes [Hansgrohe 13958002 - Reguladores de agua para lavabo  2 unidades ](https://www.amazon.es/dp/B0017VN9UO/?tag=tolees-21) a 10.54 EUR (original: 14.76 EUR) (28.59 %  de descuento) en el siguiente enlace!

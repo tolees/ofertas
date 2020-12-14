@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MN9XC6V/?tag=tolees-21'
 descuento: '53.20'
+average: '11.7'
 ---
 
 Está [The North Face Flex Tank Top  Mujer  Azul  Dazzling Blue   L](https://www.amazon.es/dp/B07MN9XC6V/?tag=tolees-21) con 53.20 de descuento por 11.7 EUR (original: 25 EUR) en el siguiente enlace!

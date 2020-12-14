@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CXBXPSG/?tag=tolees-21'
 descuento: '28.15'
+average: '10.67'
 ---
 
 Está [Warmies® MINIS Einhorn: Lavendel-Füllung](https://www.amazon.es/dp/B07CXBXPSG/?tag=tolees-21) con 28.15 de descuento por 10.67 EUR (original: 14.85 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0751R5WSK/?tag=tolees-21'
 descuento: '64.24'
+average: '32.17'
 ---
 
 Tienes [New Balance Fresh Foam Cruz Decon  Zapatillas de Entrenamiento para Hombre  Azul Blau  41.5 EU](https://www.amazon.es/dp/B0751R5WSK/?tag=tolees-21) con un 64.24 % de descuento con precio de oferta de 32.17 EUR (original: 89.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D98RJJ4/?tag=tolees-21'
 descuento: '46.90'
+average: '29.18'
 ---
 
 Está [adidas Nemeziz 18.4 FxG  Zapatillas de Fútbol para Hombre  Gris  Ash F18/Ash Silver F18/White Tint S18   42 EU](https://www.amazon.es/dp/B07D98RJJ4/?tag=tolees-21) con 46.90 de descuento por 29.18 EUR (original: 54.95 EUR) en el siguiente enlace!

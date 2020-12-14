@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KCWM3ZM/?tag=tolees-21'
 descuento: '59.89'
+average: '22.06'
 ---
 
 Está [Hurley W Rise Beach Tote Accesorios PEQUEÑOS  Mujer  Oil Grey  1SIZE](https://www.amazon.es/dp/B07KCWM3ZM/?tag=tolees-21) con 59.89 de descuento por 22.06 EUR (original: 55 EUR) en el siguiente enlace!

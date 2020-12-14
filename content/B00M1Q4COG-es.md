@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00M1Q4COG/?tag=tolees-21'
 descuento: '34.72'
+average: '103.8'
 ---
 
 Ahora mismo tienes [Siemens VS06B112A - Aspirador con bolsa  etiquetado energético BBED  motor highPower](https://www.amazon.es/dp/B00M1Q4COG/?tag=tolees-21) a 103.8 EUR (original: 159 EUR) (34.72 %  de descuento) en el siguiente enlace!

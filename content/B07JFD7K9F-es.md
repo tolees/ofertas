@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JFD7K9F/?tag=tolees-21'
 descuento: '54.55'
+average: '14.99'
 ---
 
 Ahora mismo tienes [UliX Sele Auriculares On-Ear Cable Trenzado Sin Nudos Compatibles Teléfonos Móvil Smartphone Ordenador](https://www.amazon.es/dp/B07JFD7K9F/?tag=tolees-21) a 14.99 EUR (original: 32.98 EUR) (54.55 %  de descuento) en el siguiente enlace!

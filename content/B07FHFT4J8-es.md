@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FHFT4J8/?tag=tolees-21'
 descuento: '63.95'
+average: '79.29'
 ---
 
 Está [adidas Nemeziz 18.1 FG  Botas de fútbol para Hombre  Placen/Tinbla 0  40 2/3 EU](https://www.amazon.es/dp/B07FHFT4J8/?tag=tolees-21) con 63.95 de descuento por 79.29 EUR (original: 219.95 EUR) en el siguiente enlace!

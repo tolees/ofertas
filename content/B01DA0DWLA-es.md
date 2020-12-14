@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DA0DWLA/?tag=tolees-21'
 descuento: '60.01'
+average: '19.99'
 ---
 
 Está [Tsing Auriculares Cascos Gaming de Diadema Abiertos Estéreo con Micrófono para PC Computadoras  Negro+Azul ](https://www.amazon.es/dp/B01DA0DWLA/?tag=tolees-21) con 60.01 de descuento por 19.99 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076LYGTHR/?tag=tolees-21'
 descuento: '40.05'
+average: '59.95'
 ---
 
 Está [The North Face M Litewave Fp GTX  Zapatillas de Senderismo para Hombre  Negro  TNF Black/High Rise Grey C4V   44.5 EU](https://www.amazon.es/dp/B076LYGTHR/?tag=tolees-21) con 40.05 de descuento por 59.95 EUR (original: 100 EUR) en el siguiente enlace!

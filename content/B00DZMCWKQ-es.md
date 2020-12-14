@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00DZMCWKQ/?tag=tolees-21'
 descuento: '52.41'
+average: '18.99'
 ---
 
 Tienes [Leotec LESW11K Smartwatch  Negro](https://www.amazon.es/dp/B00DZMCWKQ/?tag=tolees-21) con un 52.41 % de descuento con precio de oferta de 18.99 EUR (original: 39.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074MVPZLF/?tag=tolees-21'
 descuento: '67.85'
+average: '24.1'
 ---
 
 Ahora mismo tienes [Reebok Print Lite Rush  Zapatillas de Trail Running para Hombre  Negro  Black/Ash Grey/White 000   45.5 EU](https://www.amazon.es/dp/B074MVPZLF/?tag=tolees-21) a 24.1 EUR (original: 74.95 EUR) (67.85 %  de descuento) en el siguiente enlace!

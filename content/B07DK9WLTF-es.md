@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DK9WLTF/?tag=tolees-21'
 descuento: '85.39'
+average: '19.89'
 ---
 
 Está [xuehaostore Perro Gato Juguete Mascotas Aseo Masaje Remover el Pelo Guante 1pack  Plegable Perro Bowl 2pack](https://www.amazon.es/dp/B07DK9WLTF/?tag=tolees-21) con 85.39 de descuento por 19.89 EUR (original: 136.15 EUR) en el siguiente enlace!

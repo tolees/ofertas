@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BJ2DNDZ/?tag=tolees-21'
 descuento: '38.48'
+average: '15.99'
 ---
 
 Tienes [RioRiva Calcetines cortos De Algodón Calientes De Trabajo Y Ocio Para Hombre Otoño e Invierno Multicolor  BSK54-5P  EU 43-46 ](https://www.amazon.es/dp/B07BJ2DNDZ/?tag=tolees-21) con un 38.48 % de descuento con precio de oferta de 15.99 EUR (original: 25.99 EUR) en el siguiente enlace!

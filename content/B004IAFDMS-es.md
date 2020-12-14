@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004IAFDMS/?tag=tolees-21'
 descuento: '66.61'
+average: '126.55'
 ---
 
 Está [Invicta 0488 Angel Reloj para Mujer acero inoxidable Cuarzo Esfera blanco](https://www.amazon.es/dp/B004IAFDMS/?tag=tolees-21) con 66.61 de descuento por 126.55 EUR (original: 379 EUR) en el siguiente enlace!

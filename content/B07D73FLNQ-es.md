@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D73FLNQ/?tag=tolees-21'
 descuento: '58.22'
+average: '31'
 ---
 
 Ahora mismo tienes [adidas X_PLR J  Zapatillas Unisex Niños  Azul  Bright Blue/Core Black/Footwear White 0   39 1/3 EU](https://www.amazon.es/dp/B07D73FLNQ/?tag=tolees-21) a 31 EUR (original: 74.2 EUR) (58.22 %  de descuento) en el siguiente enlace!

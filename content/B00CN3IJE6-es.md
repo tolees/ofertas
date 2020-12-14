@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00CN3IJE6/?tag=tolees-21'
 descuento: '25.02'
+average: '10.79'
 ---
 
 Tienes [Integral INMSDH32G10-40U1 - Tarjeta Micro SD de 32 GB  Adaptador Incluido  Clase 10  Negro](https://www.amazon.es/dp/B00CN3IJE6/?tag=tolees-21) con un 25.02 % de descuento con precio de oferta de 10.79 EUR (original: 14.39 EUR) en el siguiente enlace!

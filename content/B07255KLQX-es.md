@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07255KLQX/?tag=tolees-21'
 descuento: '78.39'
+average: '17.28'
 ---
 
 Está [hummel Stockholm Suede Low  Zapatillas Unisex Adulto  Negro  Black   39 EU](https://www.amazon.es/dp/B07255KLQX/?tag=tolees-21) con 78.39 de descuento por 17.28 EUR (original: 79.95 EUR) en el siguiente enlace!

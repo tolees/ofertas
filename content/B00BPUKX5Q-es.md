@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00BPUKX5Q/?tag=tolees-21'
 descuento: '34.86'
+average: '6.97'
 ---
 
 Ahora mismo tienes [Hawaiian Tropic Satin Protection SPF 15 - Crema Solar Spray con vitaminas C y E  180 ml](https://www.amazon.es/dp/B00BPUKX5Q/?tag=tolees-21) a 6.97 EUR (original: 10.7 EUR) (34.86 %  de descuento) en el siguiente enlace!

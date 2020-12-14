@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MSQR1X0/?tag=tolees-21'
 descuento: '60.00'
+average: '39.98'
 ---
 
 Ahora mismo tienes [Adidas Tubular Shadow  Zapatillas para Hombre  Marrón  Clear Light Brown/Core Black 0   40 EU](https://www.amazon.es/dp/B01MSQR1X0/?tag=tolees-21) a 39.98 EUR (original: 99.95 EUR) (60.00 %  de descuento) en el siguiente enlace!

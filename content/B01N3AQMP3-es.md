@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N3AQMP3/?tag=tolees-21'
 descuento: '43.51'
+average: '16.89'
 ---
 
 Está [Samsung Dream Silicone Cover  Funda para smartphone Samsung Galaxy S8  Gris](https://www.amazon.es/dp/B01N3AQMP3/?tag=tolees-21) con 43.51 de descuento por 16.89 EUR (original: 29.9 EUR) en el siguiente enlace!

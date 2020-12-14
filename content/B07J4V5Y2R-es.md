@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J4V5Y2R/?tag=tolees-21'
 descuento: '53.50'
+average: '59.99'
 ---
 
 Tienes [Excelvan Q6 1800 lúmenes 4   LED Mini portátil Proyector de Video Multimedia Soporte 1080P HDMI  VGA  AV  USB  TF  PS4  Xbox  TV Box  Laptop  DVD para Cine en casa  Negro](https://www.amazon.es/dp/B07J4V5Y2R/?tag=tolees-21) con un 53.50 % de descuento con precio de oferta de 59.99 EUR (original: 129 EUR) en el siguiente enlace!

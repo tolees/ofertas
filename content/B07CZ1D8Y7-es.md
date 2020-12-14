@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ1D8Y7/?tag=tolees-21'
 descuento: '63.96'
+average: '18'
 ---
 
 Ahora mismo tienes [Puma One 4 Syn AG  Zapatillas de Fútbol para Hombre  Plateado Silver-Shocking Orange Black 01  42.5 EU](https://www.amazon.es/dp/B07CZ1D8Y7/?tag=tolees-21) a 18 EUR (original: 49.95 EUR) (63.96 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0758MBWRY/?tag=tolees-21'
 descuento: '25.66'
+average: '10.46'
 ---
 
 Ahora mismo tienes [SENSODYNE Pasta de Dientes para dientes sensibles Proesmalte 3 x 75 ml](https://www.amazon.es/dp/B0758MBWRY/?tag=tolees-21) a 10.46 EUR (original: 14.07 EUR) (25.66 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078WQKL4X/?tag=tolees-21'
 descuento: '57.50'
+average: '84.99'
 ---
 
 Está [Samsung EVO m-SATA - Disco Estado Solido SSD  500 GB  550 megabytes/s  Color Negro](https://www.amazon.es/dp/B078WQKL4X/?tag=tolees-21) con 57.50 de descuento por 84.99 EUR (original: 199.99 EUR) en el siguiente enlace!

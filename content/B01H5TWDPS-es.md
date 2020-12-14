@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01H5TWDPS/?tag=tolees-21'
 descuento: '61.11'
+average: '13.65'
 ---
 
 Tienes [West Cork Char No.5 Blended Black Cask Finish Whiskey - 700 ml](https://www.amazon.es/dp/B01H5TWDPS/?tag=tolees-21) con un 61.11 % de descuento con precio de oferta de 13.65 EUR (original: 35.1 EUR) en el siguiente enlace!

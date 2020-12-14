@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00V5CQYGQ/?tag=tolees-21'
 descuento: '62.84'
+average: '8.36'
 ---
 
 Ahora mismo tienes [Bioderma  Autobronceador corporal - 40 ml.](https://www.amazon.es/dp/B00V5CQYGQ/?tag=tolees-21) a 8.36 EUR (original: 22.5 EUR) (62.84 %  de descuento) en el siguiente enlace!

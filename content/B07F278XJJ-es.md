@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F278XJJ/?tag=tolees-21'
 descuento: '60.47'
+average: '15.81'
 ---
 
 Tienes [Celio Mosatin  Pantalones para Hombre  Negro Noir  W28/L34  Talla del Fabricante: 38 ](https://www.amazon.es/dp/B07F278XJJ/?tag=tolees-21) con un 60.47 % de descuento con precio de oferta de 15.81 EUR (original: 39.99 EUR) en el siguiente enlace!

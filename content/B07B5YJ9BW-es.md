@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B5YJ9BW/?tag=tolees-21'
 descuento: '43.48'
+average: '16.95'
 ---
 
 Tienes [JACK & JONES Jjejeans Sweat Hood Noos  Capucha para Hombre  Negro  Black Detail: Reg Fit  X-Large](https://www.amazon.es/dp/B07B5YJ9BW/?tag=tolees-21) con un 43.48 % de descuento con precio de oferta de 16.95 EUR (original: 29.99 EUR) en el siguiente enlace!

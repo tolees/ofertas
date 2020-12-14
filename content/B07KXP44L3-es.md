@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KXP44L3/?tag=tolees-21'
 descuento: '71.45'
+average: '79.95'
 ---
 
 Tienes [KAITT Pala DE PÁDEL K Plus Control](https://www.amazon.es/dp/B07KXP44L3/?tag=tolees-21) con un 71.45 % de descuento con precio de oferta de 79.95 EUR (original: 280 EUR) en el siguiente enlace!

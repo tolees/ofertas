@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N5RJKBH/?tag=tolees-21'
 descuento: '28.58'
+average: '19.99'
 ---
 
 Tienes [AmazonBasics - Tirador moderno y corto para armario  16 2 cm de longitud  12 7 cm de centro del orificio   Cromo pulido  Paquete de 10](https://www.amazon.es/dp/B01N5RJKBH/?tag=tolees-21) con un 28.58 % de descuento con precio de oferta de 19.99 EUR (original: 27.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CT3X3X3/?tag=tolees-21'
 descuento: '40.15'
+average: '47.85'
 ---
 
 Está [Puma Smash Platform Frill  Zapatillas para Mujer  Negro  Puma Black-Puma Black-Puma Team Gold 1   38.5 EU  5.5 UK ](https://www.amazon.es/dp/B07CT3X3X3/?tag=tolees-21) con 40.15 de descuento por 47.85 EUR (original: 79.95 EUR) en el siguiente enlace!

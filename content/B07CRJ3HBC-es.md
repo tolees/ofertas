@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CRJ3HBC/?tag=tolees-21'
 descuento: '70.40'
+average: '11.81'
 ---
 
 Está [Pepe Jeans Jaime Belt  Cinturón para Hombre    Tan 869  95](https://www.amazon.es/dp/B07CRJ3HBC/?tag=tolees-21) con 70.40 de descuento por 11.81 EUR (original: 39.9 EUR) en el siguiente enlace!

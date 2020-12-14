@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DBZMX6X/?tag=tolees-21'
 descuento: '33.39'
+average: '19.95'
 ---
 
 Está [Puma Cabana Racer SL V PS  Zapatillas Unisex Niños  Blanco White-Gray Violet-Ponderosa Pine  30 EU](https://www.amazon.es/dp/B07DBZMX6X/?tag=tolees-21) con 33.39 de descuento por 19.95 EUR (original: 29.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RCCWKC7/?tag=tolees-21'
 descuento: '46.68'
+average: '15.99'
 ---
 
 Ahora mismo tienes [Aster](https://www.amazon.es/dp/B07RCCWKC7/?tag=tolees-21) a 15.99 EUR (original: 29.99 EUR) (46.68 %  de descuento) en el siguiente enlace!

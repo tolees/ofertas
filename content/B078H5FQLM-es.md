@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078H5FQLM/?tag=tolees-21'
 descuento: '39.08'
+average: '13.95'
 ---
 
 Ahora mismo tienes [Urban Classics Block Swim Shorts Bañador de natación  Verde Olive   4XL para Hombre](https://www.amazon.es/dp/B078H5FQLM/?tag=tolees-21) a 13.95 EUR (original: 22.9 EUR) (39.08 %  de descuento) en el siguiente enlace!

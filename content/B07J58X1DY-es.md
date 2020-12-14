@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J58X1DY/?tag=tolees-21'
 descuento: '99.27'
+average: '35.99'
 ---
 
 Tienes [MINLUK Pulsera de Actividad Inteligente  Pulsera Bluetooth Impermeable IP67 con Pantalla Color  Monitor de Dormir  Calorías  Ritmo Cardiáco Podómetro  Notificación de Mensaje para Android y iOS](https://www.amazon.es/dp/B07J58X1DY/?tag=tolees-21) con un 99.27 % de descuento con precio de oferta de 35.99 EUR (original: 4899 EUR) en el siguiente enlace!

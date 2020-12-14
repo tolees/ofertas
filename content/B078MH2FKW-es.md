@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078MH2FKW/?tag=tolees-21'
 descuento: '35.00'
+average: '65'
 ---
 
 Ahora mismo tienes [Asics Gel-Pulse 9  Zapatillas de Running para Hombre  Rojo  Classic Red/Silver/Black 2393   42.5 EU](https://www.amazon.es/dp/B078MH2FKW/?tag=tolees-21) a 65 EUR (original: 100 EUR) (35.00 %  de descuento) en el siguiente enlace!

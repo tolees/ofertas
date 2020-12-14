@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0788GGVJ2/?tag=tolees-21'
 descuento: '31.27'
+average: '10.99'
 ---
 
 Está [GIOVARA 3 x 120 litros de Bolsas de Basura de jardín  Resistentes al Agua  Grandes Bolsas de Basura con Asas  Plegables y Reutilizables](https://www.amazon.es/dp/B0788GGVJ2/?tag=tolees-21) con 31.27 de descuento por 10.99 EUR (original: 15.99 EUR) en el siguiente enlace!

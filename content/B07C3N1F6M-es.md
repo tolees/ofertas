@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C3N1F6M/?tag=tolees-21'
 descuento: '32.87'
+average: '129'
 ---
 
 Ahora mismo tienes [Zhiyun Smooth 4- Estabilizador de mano para iPhone X 8 S9 + S9 S8 + S8 P20 P20 Pro](https://www.amazon.es/dp/B07C3N1F6M/?tag=tolees-21) a 129 EUR (original: 192.17 EUR) (32.87 %  de descuento) en el siguiente enlace!

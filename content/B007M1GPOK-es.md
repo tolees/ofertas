@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007M1GPOK/?tag=tolees-21'
 descuento: '25.03'
+average: '29.95'
 ---
 
 Ahora mismo tienes [SESDERMA C-Vit Fluido Luminoso 50 ml](https://www.amazon.es/dp/B007M1GPOK/?tag=tolees-21) a 29.95 EUR (original: 39.95 EUR) (25.03 %  de descuento) en el siguiente enlace!

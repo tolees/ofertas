@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01D1X6EUM/?tag=tolees-21'
 descuento: '76.99'
+average: '32.21'
 ---
 
 Ahora mismo tienes [Clarks Christabel Eva  Botas Camperas para Mujer  Marrón  Tan Suede   39.5 EU](https://www.amazon.es/dp/B01D1X6EUM/?tag=tolees-21) a 32.21 EUR (original: 140 EUR) (76.99 %  de descuento) en el siguiente enlace!

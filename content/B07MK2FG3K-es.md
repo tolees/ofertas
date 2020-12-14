@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MK2FG3K/?tag=tolees-21'
 descuento: '39.03'
+average: '24.99'
 ---
 
 Tienes [Aibrou Nuevo Camison Sexy Mujer Elegante picardías Babydoll Ropa Interior Mujer Sexy Conjuntos Batas y Kimonos  Sexy Rojo#2  XXL ](https://www.amazon.es/dp/B07MK2FG3K/?tag=tolees-21) con un 39.03 % de descuento con precio de oferta de 24.99 EUR (original: 40.99 EUR) en el siguiente enlace!

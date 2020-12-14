@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC1J16Y/?tag=tolees-21'
 descuento: '71.39'
+average: '28.6'
 ---
 
 Tienes [Puma RS-150 Wn s  Zapatillas para Mujer  Negro Black  38.5 EU](https://www.amazon.es/dp/B07DC1J16Y/?tag=tolees-21) con un 71.39 % de descuento con precio de oferta de 28.6 EUR (original: 99.95 EUR) en el siguiente enlace!

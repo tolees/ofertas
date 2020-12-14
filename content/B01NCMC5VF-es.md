@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NCMC5VF/?tag=tolees-21'
 descuento: '61.18'
+average: '15.53'
 ---
 
 Tienes [Bruetting Domain  Zapatillas Unisex Niños  Rojo  Rot   34 EU](https://www.amazon.es/dp/B01NCMC5VF/?tag=tolees-21) con un 61.18 % de descuento con precio de oferta de 15.53 EUR (original: 40 EUR) en el siguiente enlace!

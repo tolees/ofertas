@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DDJSDYL/?tag=tolees-21'
 descuento: '37.76'
+average: '15.53'
 ---
 
 Está [adidas DM6160 Bolsa de Tela y de Playa Mujer   Negro/Blanco   15x24x45 cm  W x H x L ](https://www.amazon.es/dp/B07DDJSDYL/?tag=tolees-21) con 37.76 de descuento por 15.53 EUR (original: 24.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KZVVZCU/?tag=tolees-21'
 descuento: '57.11'
+average: '42.87'
 ---
 
 Está [Clarks Reazor Edge  Mocasines para Hombre  Negro  Black Leather-   42.5 EU](https://www.amazon.es/dp/B01KZVVZCU/?tag=tolees-21) con 57.11 de descuento por 42.87 EUR (original: 99.95 EUR) en el siguiente enlace!

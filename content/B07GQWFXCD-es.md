@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GQWFXCD/?tag=tolees-21'
 descuento: '34.40'
+average: '10.49'
 ---
 
 Está [iiniim Atractiva Mujer Sexy Cinturón Cuello Halter Traje de Arnés Hebillas Pecho Cuerpo Disfraz Unisex Ropa Erótica de Cuero con O Ring Metal Sujetador Abierto Top Clubwear Negro B One Size](https://www.amazon.es/dp/B07GQWFXCD/?tag=tolees-21) con 34.40 de descuento por 10.49 EUR (original: 15.99 EUR) en el siguiente enlace!

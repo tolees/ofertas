@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MZJDWQ7/?tag=tolees-21'
 descuento: '48.01'
+average: '46.74'
 ---
 
 Ahora mismo tienes [Superdry Parachute Cargo Short Bañador  Verde  Olive Alpine Camo R2d   42 para Hombre](https://www.amazon.es/dp/B07MZJDWQ7/?tag=tolees-21) a 46.74 EUR (original: 89.9 EUR) (48.01 %  de descuento) en el siguiente enlace!

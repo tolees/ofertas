@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQX5H4B/?tag=tolees-21'
 descuento: '35.28'
+average: '58.22'
 ---
 
 Está [Clarks Kessell Slip  Mocasines para Hombre  Marrón  Tan Leather-   45 EU](https://www.amazon.es/dp/B07FQX5H4B/?tag=tolees-21) con 35.28 de descuento por 58.22 EUR (original: 89.95 EUR) en el siguiente enlace!

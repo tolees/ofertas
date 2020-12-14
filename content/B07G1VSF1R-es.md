@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G1VSF1R/?tag=tolees-21'
 descuento: '50.19'
+average: '23.46'
 ---
 
 Tienes [Reebok Speedlux 3.0  Zapatillas de Trail Running para Mujer   We/Black/Twisted Berry 000   40.5 EU](https://www.amazon.es/dp/B07G1VSF1R/?tag=tolees-21) con un 50.19 % de descuento con precio de oferta de 23.46 EUR (original: 47.1 EUR) en el siguiente enlace!

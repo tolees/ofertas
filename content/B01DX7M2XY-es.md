@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DX7M2XY/?tag=tolees-21'
 descuento: '54.43'
+average: '22.33'
 ---
 
 Está [Diesel 00SAB2-0AAMU  Calzoncillos para Hombre   3   M](https://www.amazon.es/dp/B01DX7M2XY/?tag=tolees-21) con 54.43 de descuento por 22.33 EUR (original: 49 EUR) en el siguiente enlace!

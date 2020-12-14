@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01ENNZ47S/?tag=tolees-21'
 descuento: '59.07'
+average: '49.07'
 ---
 
 Tienes [Black+Decker 51686 Aspiradora  1600 W  con depósito 30 litros](https://www.amazon.es/dp/B01ENNZ47S/?tag=tolees-21) con un 59.07 % de descuento con precio de oferta de 49.07 EUR (original: 119.9 EUR) en el siguiente enlace!

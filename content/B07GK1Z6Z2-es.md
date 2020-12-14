@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GK1Z6Z2/?tag=tolees-21'
 descuento: '67.27'
+average: '16.33'
 ---
 
 Está [Carrera Harper Nbx  Zapatillas de Cross para Hombre  Negro  Black 03   44 EU](https://www.amazon.es/dp/B07GK1Z6Z2/?tag=tolees-21) con 67.27 de descuento por 16.33 EUR (original: 49.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076MBPFR5/?tag=tolees-21'
 descuento: '54.62'
+average: '31.74'
 ---
 
 Tienes [Mustang Schnür-Boot  Botas Clasicas para Hombre  Marrón  Kastanie 301   45 EU](https://www.amazon.es/dp/B076MBPFR5/?tag=tolees-21) con un 54.62 % de descuento con precio de oferta de 31.74 EUR (original: 69.95 EUR) en el siguiente enlace!

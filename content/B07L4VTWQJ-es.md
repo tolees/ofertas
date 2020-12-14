@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L4VTWQJ/?tag=tolees-21'
 descuento: '33.73'
+average: '46.39'
 ---
 
 Ahora mismo tienes [ASICS Gel-Padel Pro 3 SG Padel  Sports.Padel-Padel  - Hombre E511Y - 408 Blue/White](https://www.amazon.es/dp/B07L4VTWQJ/?tag=tolees-21) a 46.39 EUR (original: 70 EUR) (33.73 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IO0AKY8/?tag=tolees-21'
 descuento: '84.30'
+average: '12.56'
 ---
 
 Tienes [Nike Air Vapor Adavantage Carpet  Zapatillas de Tenis para Niños  Blanco  White/Black-Volt-Total Orange   37 EU](https://www.amazon.es/dp/B01IO0AKY8/?tag=tolees-21) con un 84.30 % de descuento con precio de oferta de 12.56 EUR (original: 80 EUR) en el siguiente enlace!

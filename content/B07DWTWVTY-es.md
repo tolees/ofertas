@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DWTWVTY/?tag=tolees-21'
 descuento: '67.58'
+average: '12.95'
 ---
 
 Está [VINSIC Cargador Inalámbrico  Cargador Portátil Qi para iPhone X  iPhone 8  iPhone 8+  Samsung Galaxy S7 S6+  Nokia Lumia  HTC  Adaptador de AC no Incluido ](https://www.amazon.es/dp/B07DWTWVTY/?tag=tolees-21) con 67.58 de descuento por 12.95 EUR (original: 39.95 EUR) en el siguiente enlace!

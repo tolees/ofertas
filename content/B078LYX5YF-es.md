@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078LYX5YF/?tag=tolees-21'
 descuento: '52.39'
+average: '39.99'
 ---
 
 Ahora mismo tienes [AstroAI Compresor de Aire para Coche 12V  Inflador Ruedas Coche Electrico Portatil Digital Automatico  Bomba Electrico con Pantalla LCD  Luz LED  Kit de Adaptadores y Fusible  3 Años de Garantía](https://www.amazon.es/dp/B078LYX5YF/?tag=tolees-21) a 39.99 EUR (original: 83.99 EUR) (52.39 %  de descuento) en el siguiente enlace!

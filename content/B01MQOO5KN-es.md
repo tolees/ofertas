@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MQOO5KN/?tag=tolees-21'
 descuento: '75.28'
+average: '14.82'
 ---
 
 Tienes [Globe Castro LYT  Mocasines para Hombre  Negro  Black/White 10046   37 EU](https://www.amazon.es/dp/B01MQOO5KN/?tag=tolees-21) con un 75.28 % de descuento con precio de oferta de 14.82 EUR (original: 59.94 EUR) en el siguiente enlace!

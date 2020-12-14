@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MZDNO2C/?tag=tolees-21'
 descuento: '42.02'
+average: '26.06'
 ---
 
 Tienes [hummel Core Cotton Hoodies  Unisex Adulto  Negro  XL](https://www.amazon.es/dp/B01MZDNO2C/?tag=tolees-21) con un 42.02 % de descuento con precio de oferta de 26.06 EUR (original: 44.95 EUR) en el siguiente enlace!

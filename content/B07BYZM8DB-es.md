@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BYZM8DB/?tag=tolees-21'
 descuento: '60.00'
+average: '44'
 ---
 
 Tienes [Hackett London Slub Trim SS  Polo para Hombre  Azul  Cobalt 5DZ  L](https://www.amazon.es/dp/B07BYZM8DB/?tag=tolees-21) con un 60.00 % de descuento con precio de oferta de 44 EUR (original: 110 EUR) en el siguiente enlace!

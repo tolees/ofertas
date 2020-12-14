@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9VWS3Y/?tag=tolees-21'
 descuento: '59.70'
+average: '40.28'
 ---
 
 Está [Puma Tsugi Apex Blck  Zapatillas Unisex Adulto  Rojo  Pomegranate Black White 03   42 EU](https://www.amazon.es/dp/B07D9VWS3Y/?tag=tolees-21) con 59.70 de descuento por 40.28 EUR (original: 99.95 EUR) en el siguiente enlace!

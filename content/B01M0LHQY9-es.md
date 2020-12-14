@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M0LHQY9/?tag=tolees-21'
 descuento: '53.89'
+average: '10.6'
 ---
 
 Está [RED WAGON Polo Estilo Rugby Liso para Niños  Gris  Grey   5 años](https://www.amazon.es/dp/B01M0LHQY9/?tag=tolees-21) con 53.89 de descuento por 10.6 EUR (original: 22.99 EUR) en el siguiente enlace!

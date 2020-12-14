@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07998SBTD/?tag=tolees-21'
 descuento: '75.20'
+average: '31.99'
 ---
 
 Tienes [Atril Plegable de Altura Portátil Pequeño Orchestra Partitura con Bolsa Negra por Afuaim](https://www.amazon.es/dp/B07998SBTD/?tag=tolees-21) con un 75.20 % de descuento con precio de oferta de 31.99 EUR (original: 129 EUR) en el siguiente enlace!

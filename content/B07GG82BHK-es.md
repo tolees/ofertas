@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GG82BHK/?tag=tolees-21'
 descuento: '75.97'
+average: '21.63'
 ---
 
 Ahora mismo tienes [Laura Vita - 2591  Bolsos maletín Mujer  Rosa  Rs   13.0x20.0x29.0 cm  W x H L ](https://www.amazon.es/dp/B07GG82BHK/?tag=tolees-21) a 21.63 EUR (original: 90 EUR) (75.97 %  de descuento) en el siguiente enlace!

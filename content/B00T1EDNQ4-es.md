@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00T1EDNQ4/?tag=tolees-21'
 descuento: '85.55'
+average: '9.03'
 ---
 
 Ahora mismo tienes [Base de teclado HP Pro 10 EE G1 - Español](https://www.amazon.es/dp/B00T1EDNQ4/?tag=tolees-21) a 9.03 EUR (original: 62.51 EUR) (85.55 %  de descuento) en el siguiente enlace!

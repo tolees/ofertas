@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MTIONHM/?tag=tolees-21'
 descuento: '58.87'
+average: '28.79'
 ---
 
 Está [Vans WM Atwood  Zapatillas para Mujer  Rosa  Speckle   36 EU](https://www.amazon.es/dp/B01MTIONHM/?tag=tolees-21) con 58.87 de descuento por 28.79 EUR (original: 70 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CK2XWZC/?tag=tolees-21'
 descuento: '72.24'
+average: '9.99'
 ---
 
 Tienes [LiBatter  16 Paquetes  AAA 1100mAh Ni-MH Baterías Recargables 500-1000 ciclos de baterías Recargables](https://www.amazon.es/dp/B07CK2XWZC/?tag=tolees-21) con un 72.24 % de descuento con precio de oferta de 9.99 EUR (original: 35.99 EUR) en el siguiente enlace!

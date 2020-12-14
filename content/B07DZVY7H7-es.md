@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DZVY7H7/?tag=tolees-21'
 descuento: '71.44'
+average: '23.99'
 ---
 
 Tienes [Cepillo de dientes eléctrico KAMLE JB-2 Cepillo dientes eléctrico recargable sónico de 3 Modelos para Limpieza  Con 4 * Cabezal de Recambio ](https://www.amazon.es/dp/B07DZVY7H7/?tag=tolees-21) con un 71.44 % de descuento con precio de oferta de 23.99 EUR (original: 83.99 EUR) en el siguiente enlace!

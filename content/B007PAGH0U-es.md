@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007PAGH0U/?tag=tolees-21'
 descuento: '34.71'
+average: '26.11'
 ---
 
 Está [Motorola S1202 Duo - Teléfono fijo inalámbrico  color negro](https://www.amazon.es/dp/B007PAGH0U/?tag=tolees-21) con 34.71 de descuento por 26.11 EUR (original: 39.99 EUR) en el siguiente enlace!

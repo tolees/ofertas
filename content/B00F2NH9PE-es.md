@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00F2NH9PE/?tag=tolees-21'
 descuento: '26.29'
+average: '55.01'
 ---
 
 Ahora mismo tienes [Bellota 3589-50 Tijera de poda Ligera viña](https://www.amazon.es/dp/B00F2NH9PE/?tag=tolees-21) a 55.01 EUR (original: 74.63 EUR) (26.29 %  de descuento) en el siguiente enlace!

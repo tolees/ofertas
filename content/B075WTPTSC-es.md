@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075WTPTSC/?tag=tolees-21'
 descuento: '80.37'
+average: '94.22'
 ---
 
 Tienes [Versa 19501329 Sillón tapizado Rhune  89x71x72 cm  Gris y Negro   Butaca  Sofá](https://www.amazon.es/dp/B075WTPTSC/?tag=tolees-21) con un 80.37 % de descuento con precio de oferta de 94.22 EUR (original: 480 EUR) en el siguiente enlace!

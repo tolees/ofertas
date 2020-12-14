@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0015LXFVO/?tag=tolees-21'
 descuento: '67.23'
+average: '12.38'
 ---
 
 Tienes [KRAFTWERK 3200 - Carraca reversible con clip 1/4 pulgada](https://www.amazon.es/dp/B0015LXFVO/?tag=tolees-21) con un 67.23 % de descuento con precio de oferta de 12.38 EUR (original: 37.78 EUR) en el siguiente enlace!

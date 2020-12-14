@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DXDLLY2/?tag=tolees-21'
 descuento: '44.45'
+average: '49.99'
 ---
 
 Tienes [anbiwangluo Código Da Vinci Mini Cryptex Regalo de Cumpleaños del Día de San Valentín para Girlfriend Boyfriend  Golden ](https://www.amazon.es/dp/B07DXDLLY2/?tag=tolees-21) con un 44.45 % de descuento con precio de oferta de 49.99 EUR (original: 89.99 EUR) en el siguiente enlace!

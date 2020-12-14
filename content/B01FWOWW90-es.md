@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FWOWW90/?tag=tolees-21'
 descuento: '81.44'
+average: '24.12'
 ---
 
 Está [adidas Originals Messi 16.2 FG  Botas de fútbol para Hombre  Gris Gr  44 2/3 EU](https://www.amazon.es/dp/B01FWOWW90/?tag=tolees-21) con 81.44 de descuento por 24.12 EUR (original: 129.95 EUR) en el siguiente enlace!

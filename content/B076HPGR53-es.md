@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076HPGR53/?tag=tolees-21'
 descuento: '42.55'
+average: '22.95'
 ---
 
 Tienes [adidas CORE18 SW Top Sweatshirt  Hombre   Negro/Blanco   M](https://www.amazon.es/dp/B076HPGR53/?tag=tolees-21) con un 42.55 % de descuento con precio de oferta de 22.95 EUR (original: 39.95 EUR) en el siguiente enlace!

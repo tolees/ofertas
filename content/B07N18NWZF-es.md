@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N18NWZF/?tag=tolees-21'
 descuento: '78.28'
+average: '9.99'
 ---
 
 Está [Aigoss S4 Altavoz Bluetooth Portátil Inalámbrico V4 2 Estéreo Premium de Entrada Audio  HiFi Potente los Bajos Apoyo Manos Libres para Smartphones  TF FM Radio - Negro](https://www.amazon.es/dp/B07N18NWZF/?tag=tolees-21) con 78.28 de descuento por 9.99 EUR (original: 45.99 EUR) en el siguiente enlace!

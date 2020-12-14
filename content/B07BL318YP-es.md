@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BL318YP/?tag=tolees-21'
 descuento: '67.21'
+average: '29.51'
 ---
 
 Está [New Balance Fuel Core 5000  Zapatillas de Running para Hombre  Azul  Deep Ozone Blue/Eclipse EB   40 EU](https://www.amazon.es/dp/B07BL318YP/?tag=tolees-21) con 67.21 de descuento por 29.51 EUR (original: 90 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N3C6LPM/?tag=tolees-21'
 descuento: '56.19'
+average: '44.25'
 ---
 
 Está [Munich Goal  Zapatillas Unisex Adulto   Blanco/Rosa 1417   38 EU](https://www.amazon.es/dp/B07N3C6LPM/?tag=tolees-21) con 56.19 de descuento por 44.25 EUR (original: 101 EUR) en el siguiente enlace!

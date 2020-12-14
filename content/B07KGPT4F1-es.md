@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGPT4F1/?tag=tolees-21'
 descuento: '48.60'
+average: '15.42'
 ---
 
 Tienes [Burton Treehopper Gorros  Hombre  Castlerock  1SZ](https://www.amazon.es/dp/B07KGPT4F1/?tag=tolees-21) con un 48.60 % de descuento con precio de oferta de 15.42 EUR (original: 30 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M8JU7XK/?tag=tolees-21'
 descuento: '63.23'
+average: '33.09'
 ---
 
 Está [New Balance 420 70s Running  Zapatillas Unisex Adulto  Negro  Black   38.5 EU](https://www.amazon.es/dp/B01M8JU7XK/?tag=tolees-21) con 63.23 de descuento por 33.09 EUR (original: 90 EUR) en el siguiente enlace!

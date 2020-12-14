@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00B58DPRG/?tag=tolees-21'
 descuento: '87.85'
+average: '7.98'
 ---
 
 Está [Mascot 50403 – 869-a32 – 90 C54 Fafe Jeans talla L 90 cm/C54 color azul denim](https://www.amazon.es/dp/B00B58DPRG/?tag=tolees-21) con 87.85 de descuento por 7.98 EUR (original: 65.68 EUR) en el siguiente enlace!

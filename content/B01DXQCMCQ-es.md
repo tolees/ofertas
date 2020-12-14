@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DXQCMCQ/?tag=tolees-21'
 descuento: '64.28'
+average: '25'
 ---
 
 Está [Soy Luna Soy Luna-YLU32310 Patines  Color Rosa/Amarillo  34-35  Giochi Preziosi Spagna YLU32310](https://www.amazon.es/dp/B01DXQCMCQ/?tag=tolees-21) con 64.28 de descuento por 25 EUR (original: 69.99 EUR) en el siguiente enlace!

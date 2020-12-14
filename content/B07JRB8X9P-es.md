@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JRB8X9P/?tag=tolees-21'
 descuento: '56.01'
+average: '65.97'
 ---
 
 Tienes [adidas Stabil X  Zapatillas de Balonmano para Hombre  Negro Core Black/Hi/Res Yellow  40 EU](https://www.amazon.es/dp/B07JRB8X9P/?tag=tolees-21) con un 56.01 % de descuento con precio de oferta de 65.97 EUR (original: 149.95 EUR) en el siguiente enlace!

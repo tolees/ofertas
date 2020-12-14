@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D99DQHR/?tag=tolees-21'
 descuento: '35.38'
+average: '51.66'
 ---
 
 Está [adidas X 18.3 FG  Zapatillas de Fútbol para Hombre  Negro  Core Black/Footwear White/Solid Grey 0   39 1/3 EU](https://www.amazon.es/dp/B07D99DQHR/?tag=tolees-21) con 35.38 de descuento por 51.66 EUR (original: 79.95 EUR) en el siguiente enlace!

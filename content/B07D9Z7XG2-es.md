@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9Z7XG2/?tag=tolees-21'
 descuento: '45.48'
+average: '59.95'
 ---
 
 Está [Puma Mantra Fusefit Desert  Zapatillas de Deporte para Hombre  Negro Black 01  44 EU](https://www.amazon.es/dp/B07D9Z7XG2/?tag=tolees-21) con 45.48 de descuento por 59.95 EUR (original: 109.95 EUR) en el siguiente enlace!

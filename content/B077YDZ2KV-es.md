@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077YDZ2KV/?tag=tolees-21'
 descuento: '40.00'
+average: '29.97'
 ---
 
 Está [HIKARO Anorak con Capucha Mujer  Rojo  Burgundy   36  Talla del fabricante: X-Small ](https://www.amazon.es/dp/B077YDZ2KV/?tag=tolees-21) con 40.00 de descuento por 29.97 EUR (original: 49.95 EUR) en el siguiente enlace!

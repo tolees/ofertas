@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHTMY44/?tag=tolees-21'
 descuento: '57.18'
+average: '85.64'
 ---
 
 Tienes [Quiksilver Sierra Snow Jacket  Hombre  Flame  M](https://www.amazon.es/dp/B07DHTMY44/?tag=tolees-21) con un 57.18 % de descuento con precio de oferta de 85.64 EUR (original: 199.99 EUR) en el siguiente enlace!

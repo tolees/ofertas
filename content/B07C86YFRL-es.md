@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C86YFRL/?tag=tolees-21'
 descuento: '75.75'
+average: '31.53'
 ---
 
 Tienes [Fly London Afem366fly  Mocasines para Mujer  Negro  Black 005   38 EU](https://www.amazon.es/dp/B07C86YFRL/?tag=tolees-21) con un 75.75 % de descuento con precio de oferta de 31.53 EUR (original: 130 EUR) en el siguiente enlace!

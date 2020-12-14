@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LCPCRM5/?tag=tolees-21'
 descuento: '32.68'
+average: '24.23'
 ---
 
 Tienes [MTNG 69056  Zapatillas para Mujer  Blanco  Action PU Blanco/Metal Silver C36044   39 EU](https://www.amazon.es/dp/B07LCPCRM5/?tag=tolees-21) con un 32.68 % de descuento con precio de oferta de 24.23 EUR (original: 35.99 EUR) en el siguiente enlace!

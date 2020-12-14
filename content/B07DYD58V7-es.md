@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DYD58V7/?tag=tolees-21'
 descuento: '40.01'
+average: '59.99'
 ---
 
 Tienes [Merrell Bare Access Flex 2  Zapatillas Deportivas para Interior para Hombre  Negro Black  42 EU](https://www.amazon.es/dp/B07DYD58V7/?tag=tolees-21) con un 40.01 % de descuento con precio de oferta de 59.99 EUR (original: 100 EUR) en el siguiente enlace!

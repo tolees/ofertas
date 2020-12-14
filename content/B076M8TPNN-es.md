@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076M8TPNN/?tag=tolees-21'
 descuento: '63.39'
+average: '14.96'
 ---
 
 Tienes [Pour Moi? Mardi Gras Underwired Padded Tankini  Mujer  Negro Black  85E](https://www.amazon.es/dp/B076M8TPNN/?tag=tolees-21) con un 63.39 % de descuento con precio de oferta de 14.96 EUR (original: 40.86 EUR) en el siguiente enlace!

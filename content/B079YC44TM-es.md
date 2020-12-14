@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079YC44TM/?tag=tolees-21'
 descuento: '69.89'
+average: '19.86'
 ---
 
 Tienes [s.Oliver 5-5-23612-21 098  Zapatillas para Mujer  Negro  Black Comb 98   39 EU](https://www.amazon.es/dp/B079YC44TM/?tag=tolees-21) con un 69.89 % de descuento con precio de oferta de 19.86 EUR (original: 65.95 EUR) en el siguiente enlace!

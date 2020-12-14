@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00JAMD9WA/?tag=tolees-21'
 descuento: '34.18'
+average: '43.48'
 ---
 
 Tienes [Papillon 8130101 Barbacoa yakama 53x32 cm](https://www.amazon.es/dp/B00JAMD9WA/?tag=tolees-21) con un 34.18 % de descuento con precio de oferta de 43.48 EUR (original: 66.06 EUR) en el siguiente enlace!

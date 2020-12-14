@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077YDWZ4J/?tag=tolees-21'
 descuento: '44.98'
+average: '17.6'
 ---
 
 Tienes [Mayoral 621770  Petos para Niñas   Tejano 5  6 años  Tamaño del Fabricante:6 ](https://www.amazon.es/dp/B077YDWZ4J/?tag=tolees-21) con un 44.98 % de descuento con precio de oferta de 17.6 EUR (original: 31.99 EUR) en el siguiente enlace!

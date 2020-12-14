@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC1RGTB/?tag=tolees-21'
 descuento: '65.70'
+average: '20.56'
 ---
 
 Ahora mismo tienes [Puma Astro Cup  Zapatillas Unisex Adulto  Marrón  Chestnut White   37 EU](https://www.amazon.es/dp/B07DC1RGTB/?tag=tolees-21) a 20.56 EUR (original: 59.95 EUR) (65.70 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073HB6HWB/?tag=tolees-21'
 descuento: '29.92'
+average: '20.99'
 ---
 
 Está [Puma Pro Training II Bolsa Deportiva  Unisex  New Navy  UA](https://www.amazon.es/dp/B073HB6HWB/?tag=tolees-21) con 29.92 de descuento por 20.99 EUR (original: 29.95 EUR) en el siguiente enlace!

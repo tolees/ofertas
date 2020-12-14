@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MRDWCAU/?tag=tolees-21'
 descuento: '59.60'
+average: '26.24'
 ---
 
 Está [Skechers You  Zapatillas sin cordones para Mujer  Negro  Bkw   38 EU](https://www.amazon.es/dp/B01MRDWCAU/?tag=tolees-21) con 59.60 de descuento por 26.24 EUR (original: 64.95 EUR) en el siguiente enlace!

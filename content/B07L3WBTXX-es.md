@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L3WBTXX/?tag=tolees-21'
 descuento: '86.67'
+average: '39.98'
 ---
 
 Está [Ifecco Cámara Deportiva WiFi 4k Ultra HD 16MP Cámara de acción Impermeable 30M Gran Angulo de visión 170 ° con 2 baterías 1050mAh y Control Remoto  Negro ](https://www.amazon.es/dp/B07L3WBTXX/?tag=tolees-21) con 86.67 de descuento por 39.98 EUR (original: 299.99 EUR) en el siguiente enlace!

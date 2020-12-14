@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D8NVLMG/?tag=tolees-21'
 descuento: '84.30'
+average: '10.99'
 ---
 
 Tienes [Auriculares para niños  con conexión para el oído Auriculares Función de intercambio de música Auriculares para el oído con 85DB Volume Limited 3.5mm Audio Jack Headset para niños](https://www.amazon.es/dp/B07D8NVLMG/?tag=tolees-21) con un 84.30 % de descuento con precio de oferta de 10.99 EUR (original: 69.99 EUR) en el siguiente enlace!

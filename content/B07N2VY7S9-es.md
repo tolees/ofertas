@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N2VY7S9/?tag=tolees-21'
 descuento: '46.76'
+average: '7.98'
 ---
 
 Está [OFITURIA ® Tablero De Corcho Laminado Resistente De Pared Con Marco De Madera  400X300 MM ](https://www.amazon.es/dp/B07N2VY7S9/?tag=tolees-21) con 46.76 de descuento por 7.98 EUR (original: 14.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FNGP4KK/?tag=tolees-21'
 descuento: '48.48'
+average: '15.45'
 ---
 
 Ahora mismo tienes [JACK & JONES Jjestructure Knit Crew Neck Noos  suéter Hombre  Azul  Navy Blazer Navy Blazer   X-Large](https://www.amazon.es/dp/B07FNGP4KK/?tag=tolees-21) a 15.45 EUR (original: 29.99 EUR) (48.48 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RXG618R/?tag=tolees-21'
 descuento: '36.16'
+average: '31.6'
 ---
 
 Está [Guirnalda de luces exterior e interior de 40 bombillas Led 2 en 1 : Blanco y Multicolor con bluetooth desde cualquier dispositivo móvil. Sincroniza la luz con tu música o tu voz.](https://www.amazon.es/dp/B07RXG618R/?tag=tolees-21) con 36.16 de descuento por 31.6 EUR (original: 49.5 EUR) en el siguiente enlace!

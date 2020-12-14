@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GKLH6WG/?tag=tolees-21'
 descuento: '37.22'
+average: '26.99'
 ---
 
 Está [NACATIN Pala Plegable Militar  15 en 1 Multifuncional Pala Portátil Desmontable con Herramientas de Supervivencia al Aire Libre con Cuchillo  Cincel de Hielo  Brújula  Brocas para Destornillador](https://www.amazon.es/dp/B07GKLH6WG/?tag=tolees-21) con 37.22 de descuento por 26.99 EUR (original: 42.99 EUR) en el siguiente enlace!

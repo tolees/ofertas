@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004UAETVC/?tag=tolees-21'
 descuento: '45.21'
+average: '9.95'
 ---
 
 Está [Spalding Mid Cut Calcetines  3 Pares  Sin género  Blanco  36-40](https://www.amazon.es/dp/B004UAETVC/?tag=tolees-21) con 45.21 de descuento por 9.95 EUR (original: 18.16 EUR) en el siguiente enlace!

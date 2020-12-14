@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077BT8MQ9/?tag=tolees-21'
 descuento: '49.99'
+average: '29.98'
 ---
 
 Está [Skechers Ez Flex 3.0-Quick Escapade  Zapatillas sin Cordones para Mujer  Negro  Black   37.5 EU](https://www.amazon.es/dp/B077BT8MQ9/?tag=tolees-21) con 49.99 de descuento por 29.98 EUR (original: 59.95 EUR) en el siguiente enlace!

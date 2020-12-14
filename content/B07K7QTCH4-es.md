@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K7QTCH4/?tag=tolees-21'
 descuento: '55.85'
+average: '14.99'
 ---
 
 Tienes [Escala de peso de precisión para suelo inalámbrico Bluetooth APP cuerpo analizador Digital Báscula de baño](https://www.amazon.es/dp/B07K7QTCH4/?tag=tolees-21) con un 55.85 % de descuento con precio de oferta de 14.99 EUR (original: 33.95 EUR) en el siguiente enlace!

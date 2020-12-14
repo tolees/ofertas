@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MNQWNRR/?tag=tolees-21'
 descuento: '70.02'
+average: '11.99'
 ---
 
 Está [Cuaderno De Cuero Rellenable  Cuaderno de Viaje  Ideal para Escribir  Regalos  Viajeros  Diarios  Leather Journal Notebook  20 x 12cm  Rojo](https://www.amazon.es/dp/B07MNQWNRR/?tag=tolees-21) con 70.02 de descuento por 11.99 EUR (original: 39.99 EUR) en el siguiente enlace!

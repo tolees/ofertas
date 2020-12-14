@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00DSNLJYW/?tag=tolees-21'
 descuento: '48.38'
+average: '39.97'
 ---
 
 Tienes [SteelSeries Apex RAW  teclado para juegos  con retroiluminación blanca  17 Teclas Macro  Disposición Español QWERTY](https://www.amazon.es/dp/B00DSNLJYW/?tag=tolees-21) con un 48.38 % de descuento con precio de oferta de 39.97 EUR (original: 77.43 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BCNXQTX/?tag=tolees-21'
 descuento: '72.85'
+average: '27.14'
 ---
 
 Está [Clarks Enfield Coco  Botas Slouch para Mujer  Negro  Black   41.5 EU](https://www.amazon.es/dp/B07BCNXQTX/?tag=tolees-21) con 72.85 de descuento por 27.14 EUR (original: 99.95 EUR) en el siguiente enlace!

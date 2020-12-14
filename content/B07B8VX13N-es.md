@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B8VX13N/?tag=tolees-21'
 descuento: '51.09'
+average: '39.1'
 ---
 
 Está [Clarks Tunsil Mid  Zapatillas Altas para Hombre  Negro  Black Mesh   42.5 EU](https://www.amazon.es/dp/B07B8VX13N/?tag=tolees-21) con 51.09 de descuento por 39.1 EUR (original: 79.95 EUR) en el siguiente enlace!

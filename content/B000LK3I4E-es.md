@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000LK3I4E/?tag=tolees-21'
 descuento: '82.00'
+average: '10.79'
 ---
 
 Está [Rosa Faia 5490  Sujetador para Mujer  Blanco 006 80G](https://www.amazon.es/dp/B000LK3I4E/?tag=tolees-21) con 82.00 de descuento por 10.79 EUR (original: 59.95 EUR) en el siguiente enlace!

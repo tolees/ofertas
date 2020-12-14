@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9CDQ4M/?tag=tolees-21'
 descuento: '43.80'
+average: '30.88'
 ---
 
 Ahora mismo tienes [adidas X 18.4 FG  Zapatillas de Fútbol para Hombre  Amarillo  Solar Yellow/Core Black/Footwear White 0   42 2/3 EU](https://www.amazon.es/dp/B07D9CDQ4M/?tag=tolees-21) a 30.88 EUR (original: 54.95 EUR) (43.80 %  de descuento) en el siguiente enlace!

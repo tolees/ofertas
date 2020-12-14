@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00YUYY8OQ/?tag=tolees-21'
 descuento: '32.43'
+average: '199.99'
 ---
 
 Ahora mismo tienes [LE CREUSET Cocotte  Volcánico  Naranja   30 cm](https://www.amazon.es/dp/B00YUYY8OQ/?tag=tolees-21) a 199.99 EUR (original: 295.98 EUR) (32.43 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BL18JKS/?tag=tolees-21'
 descuento: '68.54'
+average: '28.31'
 ---
 
 Está [New Balance Fuel Core 5000  Zapatillas de Running para Mujer  Azul  Air/Pigment/Summer Sky Abysse   37.5 EU](https://www.amazon.es/dp/B07BL18JKS/?tag=tolees-21) con 68.54 de descuento por 28.31 EUR (original: 90 EUR) en el siguiente enlace!

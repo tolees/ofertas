@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00Z9GYLSW/?tag=tolees-21'
 descuento: '26.36'
+average: '68.99'
 ---
 
 Tienes [Bloomwin 10pcs Luz Foco LED Luz de Techo Iluminación Empotrable Regulable 5W 500lm lámpara de techo cálido blanco 220V Bajo Consumo Angulo de Visión 120](https://www.amazon.es/dp/B00Z9GYLSW/?tag=tolees-21) con un 26.36 % de descuento con precio de oferta de 68.99 EUR (original: 93.69 EUR) en el siguiente enlace!

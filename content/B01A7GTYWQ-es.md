@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01A7GTYWQ/?tag=tolees-21'
 descuento: '46.20'
+average: '10.76'
 ---
 
 Ahora mismo tienes [Under Armour Boy UA Official Tour Cap 2.0 Gorra  Niños  Azul  408   S](https://www.amazon.es/dp/B01A7GTYWQ/?tag=tolees-21) a 10.76 EUR (original: 20 EUR) (46.20 %  de descuento) en el siguiente enlace!

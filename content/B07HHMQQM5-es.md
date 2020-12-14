@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HHMQQM5/?tag=tolees-21'
 descuento: '42.54'
+average: '15.17'
 ---
 
 Tienes [La Tita Sangría Lata - 24 latas x 330 ml](https://www.amazon.es/dp/B07HHMQQM5/?tag=tolees-21) con un 42.54 % de descuento con precio de oferta de 15.17 EUR (original: 26.4 EUR) en el siguiente enlace!

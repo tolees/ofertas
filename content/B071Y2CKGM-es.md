@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071Y2CKGM/?tag=tolees-21'
 descuento: '38.64'
+average: '27'
 ---
 
 Está [Carita  Spray de perfume para el cuerpo - 200 ml.](https://www.amazon.es/dp/B071Y2CKGM/?tag=tolees-21) con 38.64 de descuento por 27 EUR (original: 44 EUR) en el siguiente enlace!

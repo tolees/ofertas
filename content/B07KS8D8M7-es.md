@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KS8D8M7/?tag=tolees-21'
 descuento: '58.96'
+average: '20.5'
 ---
 
 Tienes [Hummel HMLMATEO  Hoodies Hombre  Negro  2001   L](https://www.amazon.es/dp/B07KS8D8M7/?tag=tolees-21) con un 58.96 % de descuento con precio de oferta de 20.5 EUR (original: 49.95 EUR) en el siguiente enlace!

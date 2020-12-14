@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JJX4J3V/?tag=tolees-21'
 descuento: '30.06'
+average: '41.96'
 ---
 
 Ahora mismo tienes [TOTTO Mochilas Escolares con Ruedas  Grandes Infantiles Estampados  52 cm](https://www.amazon.es/dp/B07JJX4J3V/?tag=tolees-21) a 41.96 EUR (original: 59.99 EUR) (30.06 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003WUXN0Y/?tag=tolees-21'
 descuento: '31.38'
+average: '19.9'
 ---
 
 Tienes [Curver 189206 - Cesta de ropa Natural Style  con tapa configurable  60 L  color chocolate](https://www.amazon.es/dp/B003WUXN0Y/?tag=tolees-21) con un 31.38 % de descuento con precio de oferta de 19.9 EUR (original: 29 EUR) en el siguiente enlace!

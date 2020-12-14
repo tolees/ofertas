@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L3DZDPX/?tag=tolees-21'
 descuento: '44.08'
+average: '21.81'
 ---
 
 Está [Calvin Klein 3.5cm Essential Plus Belt Cinturón  Negro  Black 001   110  Talla del fabricante: 95  para Hombre](https://www.amazon.es/dp/B07L3DZDPX/?tag=tolees-21) con 44.08 de descuento por 21.81 EUR (original: 39 EUR) en el siguiente enlace!

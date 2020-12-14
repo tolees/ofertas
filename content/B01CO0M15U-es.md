@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01CO0M15U/?tag=tolees-21'
 descuento: '85.82'
+average: '16.87'
 ---
 
 Está [Nebulus Zapatillas Liam Gris EU 39](https://www.amazon.es/dp/B01CO0M15U/?tag=tolees-21) con 85.82 de descuento por 16.87 EUR (original: 119 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075FZXWCF/?tag=tolees-21'
 descuento: '35.44'
+average: '10.73'
 ---
 
 Tienes [Probios Compota para Untar con Naranja y Jengibre - Paquete de 6 x 220 gr - Total: 1320 gr](https://www.amazon.es/dp/B075FZXWCF/?tag=tolees-21) con un 35.44 % de descuento con precio de oferta de 10.73 EUR (original: 16.62 EUR) en el siguiente enlace!

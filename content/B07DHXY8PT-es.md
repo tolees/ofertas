@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHXY8PT/?tag=tolees-21'
 descuento: '50.86'
+average: '24.57'
 ---
 
 Tienes [New Balance 411  Zapatillas de Running para Hombre  Azul  Team Royal/White/Black Lr1   41.5 EU](https://www.amazon.es/dp/B07DHXY8PT/?tag=tolees-21) con un 50.86 % de descuento con precio de oferta de 24.57 EUR (original: 50 EUR) en el siguiente enlace!

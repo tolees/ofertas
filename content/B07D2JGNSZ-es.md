@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D2JGNSZ/?tag=tolees-21'
 descuento: '60.82'
+average: '13.91'
 ---
 
 Tienes [Dim Generous Sujetador  Azul  Estampado Cósmico 6nn   Tamaño del Fabricante:90 C para Mujer](https://www.amazon.es/dp/B07D2JGNSZ/?tag=tolees-21) con un 60.82 % de descuento con precio de oferta de 13.91 EUR (original: 35.5 EUR) en el siguiente enlace!

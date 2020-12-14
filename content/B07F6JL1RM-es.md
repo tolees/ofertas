@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F6JL1RM/?tag=tolees-21'
 descuento: '77.69'
+average: '8.7'
 ---
 
 Ahora mismo tienes [Bollé Rocket Plus Máscaras  Niñas  Rosa Mate/Azul  S](https://www.amazon.es/dp/B07F6JL1RM/?tag=tolees-21) a 8.7 EUR (original: 39 EUR) (77.69 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0001URNEK/?tag=tolees-21'
 descuento: '40.28'
+average: '11.34'
 ---
 
 Está [Wildlife World LBT - Pajarera](https://www.amazon.es/dp/B0001URNEK/?tag=tolees-21) con 40.28 de descuento por 11.34 EUR (original: 18.99 EUR) en el siguiente enlace!

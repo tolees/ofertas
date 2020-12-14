@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FVV6S72/?tag=tolees-21'
 descuento: '52.63'
+average: '89.99'
 ---
 
 Está [Atornillador Impacto Batería  TECCPO Professional 180Nm Pistola de Impacto 18V  2 Batería de 2.0Ah  30 min Cargador Rápido  Velocidad Máxima 2900 RPM](https://www.amazon.es/dp/B07FVV6S72/?tag=tolees-21) con 52.63 de descuento por 89.99 EUR (original: 189.99 EUR) en el siguiente enlace!

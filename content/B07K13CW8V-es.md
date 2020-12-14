@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K13CW8V/?tag=tolees-21'
 descuento: '61.43'
+average: '26.98'
 ---
 
 Está [adidas Run70S  Zapatillas de Running para Hombre  Azul Dark Blue/FTWR White/Active Green  39 EU](https://www.amazon.es/dp/B07K13CW8V/?tag=tolees-21) con 61.43 de descuento por 26.98 EUR (original: 69.95 EUR) en el siguiente enlace!

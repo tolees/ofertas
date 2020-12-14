@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L9QZYZK/?tag=tolees-21'
 descuento: '52.07'
+average: '33.07'
 ---
 
 Está [Napapijri Vail 2 Bañador   Fantasy F11   XX-Large para Hombre](https://www.amazon.es/dp/B07L9QZYZK/?tag=tolees-21) con 52.07 de descuento por 33.07 EUR (original: 69 EUR) en el siguiente enlace!

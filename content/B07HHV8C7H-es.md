@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HHV8C7H/?tag=tolees-21'
 descuento: '29.09'
+average: '19.99'
 ---
 
 Está [Led Atomant Pack 10x GU10 7W Halogeno LED 680 lumenes Reales Color Blanco Neutro 4500K. Angulo 120 Grados  7 W  50 Mm](https://www.amazon.es/dp/B07HHV8C7H/?tag=tolees-21) con 29.09 de descuento por 19.99 EUR (original: 28.19 EUR) en el siguiente enlace!

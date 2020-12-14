@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DV2X1NJ/?tag=tolees-21'
 descuento: '69.92'
+average: '30.08'
 ---
 
 Está [Columbia Backpedal Outdry  Zapatillas Casual  Impermeable para Hombre  Gris  Steam  Compass Blue   45 EU](https://www.amazon.es/dp/B07DV2X1NJ/?tag=tolees-21) con 69.92 de descuento por 30.08 EUR (original: 99.99 EUR) en el siguiente enlace!

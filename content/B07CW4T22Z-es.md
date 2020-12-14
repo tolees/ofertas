@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CW4T22Z/?tag=tolees-21'
 descuento: '48.31'
+average: '13.95'
 ---
 
 Tienes [Only & Sons Onsgarson 12 Wash Crew Neck Knit Noos  suéter para Hombre  Rojo Maroon  Small](https://www.amazon.es/dp/B07CW4T22Z/?tag=tolees-21) con un 48.31 % de descuento con precio de oferta de 13.95 EUR (original: 26.99 EUR) en el siguiente enlace!

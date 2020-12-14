@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KMGMGZM/?tag=tolees-21'
 descuento: '47.60'
+average: '70.74'
 ---
 
 Está [BROOKS BROTHERS Stretch Chino Milano Lunghi Pantalones  Gris  Grey 20   46  Talla del Fabricante: 33 34  para Hombre](https://www.amazon.es/dp/B07KMGMGZM/?tag=tolees-21) con 47.60 de descuento por 70.74 EUR (original: 135 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079DN4KMN/?tag=tolees-21'
 descuento: '83.35'
+average: '9.99'
 ---
 
 Ahora mismo tienes [Sailnovo Antorcha de jardín con 96 LED a prueba de agua IP65](https://www.amazon.es/dp/B079DN4KMN/?tag=tolees-21) a 9.99 EUR (original: 59.99 EUR) (83.35 %  de descuento) en el siguiente enlace!

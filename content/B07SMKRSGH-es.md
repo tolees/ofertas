@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07SMKRSGH/?tag=tolees-21'
 descuento: '88.47'
+average: '26.5'
 ---
 
 Está [InnovaGoods Depiladora Facial Indolora con LED - 1 unidad](https://www.amazon.es/dp/B07SMKRSGH/?tag=tolees-21) con 88.47 de descuento por 26.5 EUR (original: 229.75 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MNMBSFZ/?tag=tolees-21'
 descuento: '42.90'
+average: '22.27'
 ---
 
 Está [Minnie Mouse "Palms" Oficial Bolsa De Deporte 400x230x240mm](https://www.amazon.es/dp/B07MNMBSFZ/?tag=tolees-21) con 42.90 de descuento por 22.27 EUR (original: 39 EUR) en el siguiente enlace!

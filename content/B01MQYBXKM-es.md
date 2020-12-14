@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MQYBXKM/?tag=tolees-21'
 descuento: '32.01'
+average: '33.99'
 ---
 
 Está [Perfumes  4  Pack Full Man para Hombre. Submarine X 100ml + Dolce Uomo 100 ML + Fundamentals Green 100ml + Body Language Red 100ml. Cuatro Regalos al Precio de uno.](https://www.amazon.es/dp/B01MQYBXKM/?tag=tolees-21) con 32.01 de descuento por 33.99 EUR (original: 49.99 EUR) en el siguiente enlace!

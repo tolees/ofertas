@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ13CB5/?tag=tolees-21'
 descuento: '38.08'
+average: '37.12'
 ---
 
 Está [Puma Leader Vt NM  Zapatillas de Entrenamiento Unisex Adulto  Gris  Asphalt-Pomegranate 01   43 EU](https://www.amazon.es/dp/B07CZ13CB5/?tag=tolees-21) con 38.08 de descuento por 37.12 EUR (original: 59.95 EUR) en el siguiente enlace!

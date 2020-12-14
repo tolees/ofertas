@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M4JU3IH/?tag=tolees-21'
 descuento: '62.76'
+average: '148.6'
 ---
 
 Ahora mismo tienes [ASUS ZenFone 3 ZE552KL - Smartphone de 5.5"  WiFi  4 GB LPDDR3  Memoria Interna de 64 GB  cámara de 8 MP  Android 6.0 Marshmallow con ZenUI   Negro Zafiro](https://www.amazon.es/dp/B01M4JU3IH/?tag=tolees-21) a 148.6 EUR (original: 399 EUR) (62.76 %  de descuento) en el siguiente enlace!

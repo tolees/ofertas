@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FH4H6JK/?tag=tolees-21'
 descuento: '46.00'
+average: '37.8'
 ---
 
 Ahora mismo tienes [Levis Footwear and Accessories Tulare  Zapatillas para Hombre  Blanco  Regular White 51   40 EU](https://www.amazon.es/dp/B07FH4H6JK/?tag=tolees-21) a 37.8 EUR (original: 70 EUR) (46.00 %  de descuento) en el siguiente enlace!

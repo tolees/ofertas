@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D43LW6S/?tag=tolees-21'
 descuento: '30.02'
+average: '34.99'
 ---
 
 Ahora mismo tienes [Nike Revolution 4 EU  Zapatillas de Running para Hombre   Ashen Slate/Flash Crimson/Diffused Blue 464   40.5](https://www.amazon.es/dp/B07D43LW6S/?tag=tolees-21) a 34.99 EUR (original: 50 EUR) (30.02 %  de descuento) en el siguiente enlace!

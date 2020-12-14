@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NPD8Q2W/?tag=tolees-21'
 descuento: '45.03'
+average: '38.45'
 ---
 
 Ahora mismo tienes [Skechers Elite Flex-Lochbay  Zapatillas para Hombre  Blanco  White/Red/Blue Wrdb   40 EU](https://www.amazon.es/dp/B07NPD8Q2W/?tag=tolees-21) a 38.45 EUR (original: 69.95 EUR) (45.03 %  de descuento) en el siguiente enlace!

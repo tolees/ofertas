@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075NX4QJ7/?tag=tolees-21'
 descuento: '33.62'
+average: '9.95'
 ---
 
 Ahora mismo tienes [PDP - Pixel Pals Street Fighter Bison](https://www.amazon.es/dp/B075NX4QJ7/?tag=tolees-21) a 9.95 EUR (original: 14.99 EUR) (33.62 %  de descuento) en el siguiente enlace!

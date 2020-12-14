@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074SPC2GY/?tag=tolees-21'
 descuento: '50.75'
+average: '68.46'
 ---
 
 Está [BOSS Zime suéter  Azul  Open Blue 489   Large para Hombre](https://www.amazon.es/dp/B074SPC2GY/?tag=tolees-21) con 50.75 de descuento por 68.46 EUR (original: 139 EUR) en el siguiente enlace!

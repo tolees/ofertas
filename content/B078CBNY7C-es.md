@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078CBNY7C/?tag=tolees-21'
 descuento: '77.47'
+average: '5.17'
 ---
 
 Está [Tuc Tuc Bermuda POPELÍN MAUI Island Pantalones  Bebé-Niños  Turquesa  Turquesa   92  Tamaño del Fabricante:2A ](https://www.amazon.es/dp/B078CBNY7C/?tag=tolees-21) con 77.47 de descuento por 5.17 EUR (original: 22.95 EUR) en el siguiente enlace!

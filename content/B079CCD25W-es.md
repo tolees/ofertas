@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079CCD25W/?tag=tolees-21'
 descuento: '33.96'
+average: '9.9'
 ---
 
 Ahora mismo tienes [JACK & JONES Jjebasic Polo SS Noos  Turquesa  Blue Haze Detail: Slim Fit   Small para Hombre](https://www.amazon.es/dp/B079CCD25W/?tag=tolees-21) a 9.9 EUR (original: 14.99 EUR) (33.96 %  de descuento) en el siguiente enlace!

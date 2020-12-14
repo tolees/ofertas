@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TIBHHIU/?tag=tolees-21'
 descuento: '70.00'
+average: '9'
 ---
 
 Tienes [Targus Topload Prospect TBT258EU - Maletín para portátil hasta 17"  Color Negro](https://www.amazon.es/dp/B00TIBHHIU/?tag=tolees-21) con un 70.00 % de descuento con precio de oferta de 9 EUR (original: 30 EUR) en el siguiente enlace!

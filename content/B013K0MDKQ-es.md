@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B013K0MDKQ/?tag=tolees-21'
 descuento: '60.96'
+average: '37.09'
 ---
 
 Está [Puma Digital Touch PU911211002 - Reloj Infantil con Pantalla Digital](https://www.amazon.es/dp/B013K0MDKQ/?tag=tolees-21) con 60.96 de descuento por 37.09 EUR (original: 95 EUR) en el siguiente enlace!

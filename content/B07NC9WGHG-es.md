@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NC9WGHG/?tag=tolees-21'
 descuento: '49.05'
+average: '33.12'
 ---
 
 Está [Pepe Jeans Lula Pantalones  Azul  Dulwich 594   W34  Talla del Fabricante: X-Large  para Mujer](https://www.amazon.es/dp/B07NC9WGHG/?tag=tolees-21) con 49.05 de descuento por 33.12 EUR (original: 65 EUR) en el siguiente enlace!

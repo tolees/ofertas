@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QX697YY/?tag=tolees-21'
 descuento: '61.54'
+average: '49.99'
 ---
 
 Ahora mismo tienes [Kealive Rizador de Pelo Automatico  Rizador de Vapor  Rizador de Pelo para Ondas con Pantalla Tactil XL  Incluye Herramienta de Limpieza  Clips y Botella de Agua](https://www.amazon.es/dp/B07QX697YY/?tag=tolees-21) a 49.99 EUR (original: 129.98 EUR) (61.54 %  de descuento) en el siguiente enlace!

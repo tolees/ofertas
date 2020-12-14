@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00MB8LZ44/?tag=tolees-21'
 descuento: '39.49'
+average: '59.9'
 ---
 
 Está [Kenwood HDP308WH Batidora de brazo con accesorio pasapurés  800 W  plástico  1 velocidad  color blanco y gris](https://www.amazon.es/dp/B00MB8LZ44/?tag=tolees-21) con 39.49 de descuento por 59.9 EUR (original: 99 EUR) en el siguiente enlace!

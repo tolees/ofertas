@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MXPXWEO/?tag=tolees-21'
 descuento: '52.12'
+average: '19.13'
 ---
 
 Está [Puma Adreno III It  Botas de fútbol para Hombre  Negro Black White-Bright Plasma 02  44 EU](https://www.amazon.es/dp/B01MXPXWEO/?tag=tolees-21) con 52.12 de descuento por 19.13 EUR (original: 39.95 EUR) en el siguiente enlace!

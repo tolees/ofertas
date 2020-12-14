@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00XDWL03I/?tag=tolees-21'
 descuento: '69.06'
+average: '10.52'
 ---
 
 Tienes [Olay Regenerist Crema Regeneradora de Noche Anti-Edad - 50 ml](https://www.amazon.es/dp/B00XDWL03I/?tag=tolees-21) con un 69.06 % de descuento con precio de oferta de 10.52 EUR (original: 34 EUR) en el siguiente enlace!

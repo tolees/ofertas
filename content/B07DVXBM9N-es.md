@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DVXBM9N/?tag=tolees-21'
 descuento: '48.56'
+average: '43.72'
 ---
 
 Está [LE COQ SPORTIF Nationale  Zapatillas Unisex Adulto  Blanco Optical White  37 EU](https://www.amazon.es/dp/B07DVXBM9N/?tag=tolees-21) con 48.56 de descuento por 43.72 EUR (original: 85 EUR) en el siguiente enlace!

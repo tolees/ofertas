@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074WG2CP6/?tag=tolees-21'
 descuento: '50.95'
+average: '80.09'
 ---
 
 Está [DP Grifería Bahamas - Columna de hidromasaje en aluminio  Blanco](https://www.amazon.es/dp/B074WG2CP6/?tag=tolees-21) con 50.95 de descuento por 80.09 EUR (original: 163.27 EUR) en el siguiente enlace!

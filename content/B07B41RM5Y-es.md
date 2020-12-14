@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B41RM5Y/?tag=tolees-21'
 descuento: '56.34'
+average: '7.4'
 ---
 
 Ahora mismo tienes [Relec Pulsera Repelente Antimosquitos Superhéroes Batman - 1 Unidad](https://www.amazon.es/dp/B07B41RM5Y/?tag=tolees-21) a 7.4 EUR (original: 16.95 EUR) (56.34 %  de descuento) en el siguiente enlace!

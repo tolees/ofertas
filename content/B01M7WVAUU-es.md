@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M7WVAUU/?tag=tolees-21'
 descuento: '43.30'
+average: '8.5'
 ---
 
 Ahora mismo tienes [Funko- Stranger Things Mike Figura de Vinilo  13322 ](https://www.amazon.es/dp/B01M7WVAUU/?tag=tolees-21) a 8.5 EUR (original: 14.99 EUR) (43.30 %  de descuento) en el siguiente enlace!

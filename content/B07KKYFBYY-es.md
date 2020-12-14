@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KKYFBYY/?tag=tolees-21'
 descuento: '60.54'
+average: '31.57'
 ---
 
 Está [Burton Taproot Sudaderas  Hombre  Weeds  XXL](https://www.amazon.es/dp/B07KKYFBYY/?tag=tolees-21) con 60.54 de descuento por 31.57 EUR (original: 80 EUR) en el siguiente enlace!

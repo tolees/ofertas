@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZH7K31/?tag=tolees-21'
 descuento: '77.72'
+average: '9.98'
 ---
 
 Tienes [Philonext Volantes de bádminton  12 Piezas Volantes de Pluma de Ganso  Entrenamiento Deportivo Estable y Duradero  Pelotas de bádminton  Juego de Interior  Blanco](https://www.amazon.es/dp/B07CZH7K31/?tag=tolees-21) con un 77.72 % de descuento con precio de oferta de 9.98 EUR (original: 44.8 EUR) en el siguiente enlace!

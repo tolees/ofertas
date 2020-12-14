@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0756HXMHW/?tag=tolees-21'
 descuento: '48.63'
+average: '71.86'
 ---
 
 Tienes [Tiny Love 3 in 1 Cozy Rocker - Balancín para bebé  Gris](https://www.amazon.es/dp/B0756HXMHW/?tag=tolees-21) con un 48.63 % de descuento con precio de oferta de 71.86 EUR (original: 139.9 EUR) en el siguiente enlace!

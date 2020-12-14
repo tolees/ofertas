@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01A7HBYH8/?tag=tolees-21'
 descuento: '43.14'
+average: '8.5'
 ---
 
 Está [POP! Bobble - Marvel: Captain America CW: Iron Man](https://www.amazon.es/dp/B01A7HBYH8/?tag=tolees-21) con 43.14 de descuento por 8.5 EUR (original: 14.95 EUR) en el siguiente enlace!

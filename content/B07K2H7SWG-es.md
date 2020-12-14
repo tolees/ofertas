@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K2H7SWG/?tag=tolees-21'
 descuento: '53.35'
+average: '11.64'
 ---
 
 Está [Selene MORELLA Sujetador con Aros  Mujer  Negro  Negro Negro   95  Tamaño del Fabricante:C.95 ](https://www.amazon.es/dp/B07K2H7SWG/?tag=tolees-21) con 53.35 de descuento por 11.64 EUR (original: 24.95 EUR) en el siguiente enlace!

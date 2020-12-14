@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MEHMAXK/?tag=tolees-21'
 descuento: '41.90'
+average: '12.81'
 ---
 
 Está [Graham & Brown - Papel pintado kids at Home V  1 pieza  100178](https://www.amazon.es/dp/B01MEHMAXK/?tag=tolees-21) con 41.90 de descuento por 12.81 EUR (original: 22.05 EUR) en el siguiente enlace!

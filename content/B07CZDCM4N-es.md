@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZDCM4N/?tag=tolees-21'
 descuento: '70.08'
+average: '25.42'
 ---
 
 Ahora mismo tienes [Puma Pacer Next Cage Zapatillas Unisex adulto  Rosa  Winsome Orchid-Winsome Orchid-Whisper White 07   38 EU  5 UK ](https://www.amazon.es/dp/B07CZDCM4N/?tag=tolees-21) a 25.42 EUR (original: 84.95 EUR) (70.08 %  de descuento) en el siguiente enlace!

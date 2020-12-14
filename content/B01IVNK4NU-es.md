@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IVNK4NU/?tag=tolees-21'
 descuento: '64.00'
+average: '25.18'
 ---
 
 Ahora mismo tienes [Skechers Burst  Zapatillas para Mujer  Gris  Char   36 EU](https://www.amazon.es/dp/B01IVNK4NU/?tag=tolees-21) a 25.18 EUR (original: 69.95 EUR) (64.00 %  de descuento) en el siguiente enlace!

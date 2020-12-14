@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00SP9A95Y/?tag=tolees-21'
 descuento: '55.99'
+average: '5'
 ---
 
 Ahora mismo tienes [Corona SV 2-TH - Pala cuadrada mango muleta](https://www.amazon.es/dp/B00SP9A95Y/?tag=tolees-21) a 5 EUR (original: 11.36 EUR) (55.99 %  de descuento) en el siguiente enlace!

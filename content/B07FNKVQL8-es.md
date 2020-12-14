@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FNKVQL8/?tag=tolees-21'
 descuento: '71.44'
+average: '19.99'
 ---
 
 Tienes [edc by Esprit 108cc2i015  suéter para Hombre  Gris  Dark Grey 020  Medium](https://www.amazon.es/dp/B07FNKVQL8/?tag=tolees-21) con un 71.44 % de descuento con precio de oferta de 19.99 EUR (original: 69.99 EUR) en el siguiente enlace!

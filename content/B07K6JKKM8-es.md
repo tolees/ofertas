@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K6JKKM8/?tag=tolees-21'
 descuento: '35.03'
+average: '25.99'
 ---
 
 Tienes [LYMBIT Neumático sólido antideslizante reemplazo para ruedas Llanta De patinete scooter eléctrico Xiaomi M365](https://www.amazon.es/dp/B07K6JKKM8/?tag=tolees-21) con un 35.03 % de descuento con precio de oferta de 25.99 EUR (original: 40 EUR) en el siguiente enlace!

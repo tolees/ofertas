@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N1XCEXW/?tag=tolees-21'
 descuento: '38.42'
+average: '15.95'
 ---
 
 Ahora mismo tienes [Colgador de guitarra rosa y ajustable para niñas y chicas – Pack con 2 cierres para correas y 2 púas a juego – Correa para guitarra eléctrica y acústica  ideal como regalo para guitarristas](https://www.amazon.es/dp/B01N1XCEXW/?tag=tolees-21) a 15.95 EUR (original: 25.9 EUR) (38.42 %  de descuento) en el siguiente enlace!

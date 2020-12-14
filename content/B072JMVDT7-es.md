@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072JMVDT7/?tag=tolees-21'
 descuento: '70.49'
+average: '20.64'
 ---
 
 Está [s.Oliver 25243  Botas Chukka para Mujer  Marrón  Pepper Flower   37 EU](https://www.amazon.es/dp/B072JMVDT7/?tag=tolees-21) con 70.49 de descuento por 20.64 EUR (original: 69.95 EUR) en el siguiente enlace!

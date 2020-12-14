@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078ZKM5J1/?tag=tolees-21'
 descuento: '75.33'
+average: '19.71'
 ---
 
 Tienes [Supra Stacks Mid  Zapatillas Altas para Hombre  Negro  Black-White 002   41 EU](https://www.amazon.es/dp/B078ZKM5J1/?tag=tolees-21) con un 75.33 % de descuento con precio de oferta de 19.71 EUR (original: 79.9 EUR) en el siguiente enlace!

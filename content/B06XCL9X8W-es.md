@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XCL9X8W/?tag=tolees-21'
 descuento: '76.28'
+average: '28.46'
 ---
 
 Ahora mismo tienes [Clarks Orabella Anna  Botas para Mujer  Morado  Burg Suede   41.5 EU](https://www.amazon.es/dp/B06XCL9X8W/?tag=tolees-21) a 28.46 EUR (original: 120 EUR) (76.28 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGDJ1NG/?tag=tolees-21'
 descuento: '50.01'
+average: '22.99'
 ---
 
 Ahora mismo tienes [Grabadora DVD Externa  OUDEKAY USB 3.0 Unidad CD/DVD Externa Portátil con Diseño Antichoque Capacidad de Corrección de Errores Compatible con Win7/ Win8/ Win10/ XP/Vista/Linux/Mac OS  Negro ](https://www.amazon.es/dp/B07KGDJ1NG/?tag=tolees-21) a 22.99 EUR (original: 45.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MQMDC9H/?tag=tolees-21'
 descuento: '77.95'
+average: '24.24'
 ---
 
 Está [Puma Speed 100 R Ignite  Zapatillas de Running para Hombre  Rosa  Bright Plasma-True Blue White 04   44 EU](https://www.amazon.es/dp/B01MQMDC9H/?tag=tolees-21) con 77.95 de descuento por 24.24 EUR (original: 109.95 EUR) en el siguiente enlace!

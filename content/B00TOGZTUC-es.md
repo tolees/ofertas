@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TOGZTUC/?tag=tolees-21'
 descuento: '50.00'
+average: '9.95'
 ---
 
 Tienes [Belkin MIXIT F8M979btBLU - Batería externa Power Pack 4000 para dispositivos móviles  2 puertos USB  carga rápida  4000 mAh  compatibilidad universal   azul](https://www.amazon.es/dp/B00TOGZTUC/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 9.95 EUR (original: 19.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K2LLGJX/?tag=tolees-21'
 descuento: '34.47'
+average: '32.73'
 ---
 
 Tienes [adidas Runfalcon  Zapatillas de Running para Hombre   Dark Blue/FTWR White/Core Black F36201   42 2/3 EU](https://www.amazon.es/dp/B07K2LLGJX/?tag=tolees-21) con un 34.47 % de descuento con precio de oferta de 32.73 EUR (original: 49.95 EUR) en el siguiente enlace!

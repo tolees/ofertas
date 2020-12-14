@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073RJP5FD/?tag=tolees-21'
 descuento: '56.15'
+average: '28.48'
 ---
 
 Tienes [adidas Advantage Adapt  Zapatillas para Mujer  Negro Core Black/Vapour Grey Metallic 0  40 2/3 EU](https://www.amazon.es/dp/B073RJP5FD/?tag=tolees-21) con un 56.15 % de descuento con precio de oferta de 28.48 EUR (original: 64.95 EUR) en el siguiente enlace!

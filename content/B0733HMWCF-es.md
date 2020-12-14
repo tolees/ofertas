@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0733HMWCF/?tag=tolees-21'
 descuento: '69.49'
+average: '12.19'
 ---
 
 Está [Desires Kunta 2 Pantalones  Negro  Black   WNA/L34  Tamaño del Fabricante:S  para Mujer](https://www.amazon.es/dp/B0733HMWCF/?tag=tolees-21) con 69.49 de descuento por 12.19 EUR (original: 39.95 EUR) en el siguiente enlace!

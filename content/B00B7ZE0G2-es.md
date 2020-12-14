@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00B7ZE0G2/?tag=tolees-21'
 descuento: '25.00'
+average: '74.99'
 ---
 
 Tienes [BenQ GL2250HM - Monitor de 21 5" Full HD  1920x1080  16:9  LED  2ms  HDMI  DVI  VGA  altavoces  Flicker-free . Color negro](https://www.amazon.es/dp/B00B7ZE0G2/?tag=tolees-21) con un 25.00 % de descuento con precio de oferta de 74.99 EUR (original: 99.99 EUR) en el siguiente enlace!

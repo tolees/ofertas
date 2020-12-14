@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XSC9PXH/?tag=tolees-21'
 descuento: '64.99'
+average: '14'
 ---
 
 Tienes [ZoeeTree S2 Altavoz Bluetooth Altavoz Estéreo Bluetooth con Audio HD  Graves Mejorados  Radio y Micrófono Incorporado  Ranura para Tarjetas TF  Altavoz Inalámbrico Portátil de Doble Controlador](https://www.amazon.es/dp/B06XSC9PXH/?tag=tolees-21) con un 64.99 % de descuento con precio de oferta de 14 EUR (original: 39.99 EUR) en el siguiente enlace!

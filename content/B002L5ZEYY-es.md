@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002L5ZEYY/?tag=tolees-21'
 descuento: '33.39'
+average: '3.99'
 ---
 
 Está [StarTech.com UUSBHAUB1 - Cable Adaptador de 30cm 1ft USB A Macho a Micro USB B Macho para Teléfono Móvil Smartphone Carga y Datos - Negro](https://www.amazon.es/dp/B002L5ZEYY/?tag=tolees-21) con 33.39 de descuento por 3.99 EUR (original: 5.99 EUR) en el siguiente enlace!

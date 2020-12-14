@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D4T2VZ3/?tag=tolees-21'
 descuento: '51.05'
+average: '24.45'
 ---
 
 Está [Kappa Nanook Teens  Zapatillas Altas Unisex Niños  Azul  Navy/Lime 6733   38 EU](https://www.amazon.es/dp/B07D4T2VZ3/?tag=tolees-21) con 51.05 de descuento por 24.45 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XGY6RH2/?tag=tolees-21'
 descuento: '53.09'
+average: '23.45'
 ---
 
 Ahora mismo tienes [Pioneer SE-CH5T-S - Auriculares Tipo botón Hi-Res  Airflow Control Flow  Rango de Frecuencias 8 Hz - 45 KHz  Color Plata](https://www.amazon.es/dp/B06XGY6RH2/?tag=tolees-21) a 23.45 EUR (original: 49.99 EUR) (53.09 %  de descuento) en el siguiente enlace!

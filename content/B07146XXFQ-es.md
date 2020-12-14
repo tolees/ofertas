@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07146XXFQ/?tag=tolees-21'
 descuento: '75.14'
+average: '27.33'
 ---
 
 Tienes [Puma Ignite Dual Netfit  Zapatillas de Entrenamiento para Mujer  Morado Lila/Schwarz  39 EU](https://www.amazon.es/dp/B07146XXFQ/?tag=tolees-21) con un 75.14 % de descuento con precio de oferta de 27.33 EUR (original: 109.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00MR1CHSI/?tag=tolees-21'
 descuento: '52.71'
+average: '61.45'
 ---
 
 Está [G-Star Arc 3D Low Boyfriend Wmn - Vaquero boyfriend para mujer  Blau  lt aged 424   27W x 28L](https://www.amazon.es/dp/B00MR1CHSI/?tag=tolees-21) con 52.71 de descuento por 61.45 EUR (original: 129.95 EUR) en el siguiente enlace!

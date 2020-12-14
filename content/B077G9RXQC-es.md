@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077G9RXQC/?tag=tolees-21'
 descuento: '56.90'
+average: '25.84'
 ---
 
 Ahora mismo tienes [Gioseppo 43415  Shopper para Mujer  Azul  Blue   14x28x27 cm  W x H x L ](https://www.amazon.es/dp/B077G9RXQC/?tag=tolees-21) a 25.84 EUR (original: 59.95 EUR) (56.90 %  de descuento) en el siguiente enlace!

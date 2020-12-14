@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075MT7RZF/?tag=tolees-21'
 descuento: '53.29'
+average: '396.56'
 ---
 
 Está [City Select LUX Cochecito Evolutivo](https://www.amazon.es/dp/B075MT7RZF/?tag=tolees-21) con 53.29 de descuento por 396.56 EUR (original: 849 EUR) en el siguiente enlace!

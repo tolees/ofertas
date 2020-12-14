@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07P7GY6XH/?tag=tolees-21'
 descuento: '40.02'
+average: '14.99'
 ---
 
 Ahora mismo tienes [PUTUO Niños Calcetines De Algodón Respirable  Calcetines para Bebés Niños para verano primavera otoño  2-11 años  5 pares](https://www.amazon.es/dp/B07P7GY6XH/?tag=tolees-21) a 14.99 EUR (original: 24.99 EUR) (40.02 %  de descuento) en el siguiente enlace!

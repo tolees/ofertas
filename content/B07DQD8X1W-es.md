@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DQD8X1W/?tag=tolees-21'
 descuento: '65.87'
+average: '19.69'
 ---
 
 Está [Masajeador  Louviva Masajeador Portátil  7 Modos](https://www.amazon.es/dp/B07DQD8X1W/?tag=tolees-21) con 65.87 de descuento por 19.69 EUR (original: 57.69 EUR) en el siguiente enlace!

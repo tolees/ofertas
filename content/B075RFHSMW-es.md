@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075RFHSMW/?tag=tolees-21'
 descuento: '62.84'
+average: '25.99'
 ---
 
 Tienes [GORE WEAR R3 Mallas 3/4 de hombre  L  negro/amarillo neón](https://www.amazon.es/dp/B075RFHSMW/?tag=tolees-21) con un 62.84 % de descuento con precio de oferta de 25.99 EUR (original: 69.95 EUR) en el siguiente enlace!

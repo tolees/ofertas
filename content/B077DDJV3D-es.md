@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077DDJV3D/?tag=tolees-21'
 descuento: '29.62'
+average: '13.02'
 ---
 
 Ahora mismo tienes [Wonderlamp W-A000016 Portalámparas Colgante E27  Cobre Brillo  150 X 5 X 10 cm](https://www.amazon.es/dp/B077DDJV3D/?tag=tolees-21) a 13.02 EUR (original: 18.5 EUR) (29.62 %  de descuento) en el siguiente enlace!

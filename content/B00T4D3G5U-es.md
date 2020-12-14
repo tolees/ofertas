@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00T4D3G5U/?tag=tolees-21'
 descuento: '86.31'
+average: '9.99'
 ---
 
 Tienes [Renberg Set de de 5 Cuchillos de Acero Inoxidable](https://www.amazon.es/dp/B00T4D3G5U/?tag=tolees-21) con un 86.31 % de descuento con precio de oferta de 9.99 EUR (original: 72.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0177KLK9U/?tag=tolees-21'
 descuento: '61.63'
+average: '33'
 ---
 
 Tienes [adidas Adipure 360.3 M  Zapatillas de Running para Hombre  Azul/Negro  Eqtazu/Negbas/Maruni   41 1/3 EU](https://www.amazon.es/dp/B0177KLK9U/?tag=tolees-21) con un 61.63 % de descuento con precio de oferta de 33 EUR (original: 86 EUR) en el siguiente enlace!

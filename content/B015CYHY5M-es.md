@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B015CYHY5M/?tag=tolees-21'
 descuento: '27.32'
+average: '24.9'
 ---
 
 Ahora mismo tienes [Mars Gaming MK215 - Teclado Gaming de Membrana  Software Dual  programable  5 Teclas para Macros  4 perfiles  4 Teclas Multimedia  RGB 7 Colores  antighosting  Teclas Desmontables y Extras  USB ](https://www.amazon.es/dp/B015CYHY5M/?tag=tolees-21) a 24.9 EUR (original: 34.26 EUR) (27.32 %  de descuento) en el siguiente enlace!

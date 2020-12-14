@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J4QTG34/?tag=tolees-21'
 descuento: '26.68'
+average: '21.99'
 ---
 
 Tienes [ZEMALIA Elena Masturbador Masculino Realísta  Juguetes Sexuales de Sexo Oral  3D Simulación de la Vagina  la Lengua y los Dientes  Juguete Erótico para Adultos](https://www.amazon.es/dp/B07J4QTG34/?tag=tolees-21) con un 26.68 % de descuento con precio de oferta de 21.99 EUR (original: 29.99 EUR) en el siguiente enlace!

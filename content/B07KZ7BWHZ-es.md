@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KZ7BWHZ/?tag=tolees-21'
 descuento: '52.24'
+average: '17.19'
 ---
 
 Ahora mismo tienes [Cortefiel C5Bck Polo Oxford  Hombre   Gama Rojo 65   XX-Large  Tamaño del Fabricante:XXL ](https://www.amazon.es/dp/B07KZ7BWHZ/?tag=tolees-21) a 17.19 EUR (original: 35.99 EUR) (52.24 %  de descuento) en el siguiente enlace!

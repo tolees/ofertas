@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFQVQC6/?tag=tolees-21'
 descuento: '48.49'
+average: '25.73'
 ---
 
 Está [Puma Rebel Bold FL Pants  Hombre  Dark Gray Heather  XL](https://www.amazon.es/dp/B07DFQVQC6/?tag=tolees-21) con 48.49 de descuento por 25.73 EUR (original: 49.95 EUR) en el siguiente enlace!

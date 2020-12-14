@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00I8EV0WW/?tag=tolees-21'
 descuento: '33.43'
+average: '643.76'
 ---
 
 Ahora mismo tienes [Epson Workforce DS-860N - Escáner A3  65 PPM 600 dpi ](https://www.amazon.es/dp/B00I8EV0WW/?tag=tolees-21) a 643.76 EUR (original: 966.99 EUR) (33.43 %  de descuento) en el siguiente enlace!

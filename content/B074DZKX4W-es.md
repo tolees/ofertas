@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074DZKX4W/?tag=tolees-21'
 descuento: '33.34'
+average: '19.99'
 ---
 
 Tienes [DURAGADGET Soporte De Coche para Smartphone Landvo S7 / Leagoo M8 / UHANS U300 - Incluye Base para Portavasos + Soporte con Ventosa](https://www.amazon.es/dp/B074DZKX4W/?tag=tolees-21) con un 33.34 % de descuento con precio de oferta de 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

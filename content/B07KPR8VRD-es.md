@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KPR8VRD/?tag=tolees-21'
 descuento: '55.37'
+average: '29.45'
 ---
 
 Tienes [DC Apparel Square Star Sweat Fleece Top  Hombre  Black  L](https://www.amazon.es/dp/B07KPR8VRD/?tag=tolees-21) con un 55.37 % de descuento con precio de oferta de 29.45 EUR (original: 65.99 EUR) en el siguiente enlace!

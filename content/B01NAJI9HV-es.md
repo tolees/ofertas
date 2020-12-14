@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NAJI9HV/?tag=tolees-21'
 descuento: '38.57'
+average: '7.98'
 ---
 
 Está [Maybelline New York Paleta de Labios Crimson Vixen](https://www.amazon.es/dp/B01NAJI9HV/?tag=tolees-21) con 38.57 de descuento por 7.98 EUR (original: 12.99 EUR) en el siguiente enlace!

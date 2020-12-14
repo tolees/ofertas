@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N6H6J4V/?tag=tolees-21'
 descuento: '69.72'
+average: '9.08'
 ---
 
 Ahora mismo tienes [Only Onllurex Short O-Neck Swt  suéter Mujer  Gris  Light Grey Melange   38  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B01N6H6J4V/?tag=tolees-21) a 9.08 EUR (original: 29.99 EUR) (69.72 %  de descuento) en el siguiente enlace!

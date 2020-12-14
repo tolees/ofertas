@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071WFJ7SN/?tag=tolees-21'
 descuento: '44.39'
+average: '55.58'
 ---
 
 Tienes [adidas Tubular Shadow  Zapatillas de Deporte Hombre  Negro  Core Black/footwear White/core Black   45 1/3 EU](https://www.amazon.es/dp/B071WFJ7SN/?tag=tolees-21) con un 44.39 % de descuento con precio de oferta de 55.58 EUR (original: 99.95 EUR) en el siguiente enlace!

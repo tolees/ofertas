@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GPRCFGC/?tag=tolees-21'
 descuento: '64.29'
+average: '24.99'
 ---
 
 Está [Uten Calentador de Cerámica Portátil Calefactor con Tecnología PTC Termoventiladores de Ventilador con Protección contra Vuelco y Sobrecalentamiento para Hogar y Oficina  950W/450W/5W](https://www.amazon.es/dp/B07GPRCFGC/?tag=tolees-21) con 64.29 de descuento por 24.99 EUR (original: 69.99 EUR) en el siguiente enlace!

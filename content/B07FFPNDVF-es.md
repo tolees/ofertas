@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FFPNDVF/?tag=tolees-21'
 descuento: '54.17'
+average: '109.99'
 ---
 
 Está [AmazonBasics Colchón 2 en 1 en espuma híbrida con 2 niveles de rigidez  H3 semi firme y H4 firme  180x200 cm](https://www.amazon.es/dp/B07FFPNDVF/?tag=tolees-21) con 54.17 de descuento por 109.99 EUR (original: 239.99 EUR) en el siguiente enlace!

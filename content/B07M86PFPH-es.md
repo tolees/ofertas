@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M86PFPH/?tag=tolees-21'
 descuento: '65.02'
+average: '13.99'
 ---
 
 Tienes [Reloj Digital para Niños Niños Niñas 50M  5ATM  Impermeable 7 Colores LED Relojes Deportivos Multifuncionales para Exteriores con Alarma  Azul Claro ](https://www.amazon.es/dp/B07M86PFPH/?tag=tolees-21) con un 65.02 % de descuento con precio de oferta de 13.99 EUR (original: 39.99 EUR) en el siguiente enlace!

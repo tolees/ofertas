@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HNKH7Q8/?tag=tolees-21'
 descuento: '32.51'
+average: '26.99'
 ---
 
 Está [Xnuoyo 20000mAh Batería Externa mit 2 USB Puertos Power Bank con Pantalla Digital LED  Cargador Movil Portátil para Samsung Galaxy y Otros Dispositivos  Rojo ](https://www.amazon.es/dp/B07HNKH7Q8/?tag=tolees-21) con 32.51 de descuento por 26.99 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IRF8YRK/?tag=tolees-21'
 descuento: '78.43'
+average: '19.41'
 ---
 
 Tienes [POLO CLUB Polo Original Big Player Rojo M](https://www.amazon.es/dp/B01IRF8YRK/?tag=tolees-21) con un 78.43 % de descuento con precio de oferta de 19.41 EUR (original: 90 EUR) en el siguiente enlace!

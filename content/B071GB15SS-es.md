@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071GB15SS/?tag=tolees-21'
 descuento: '53.30'
+average: '25.66'
 ---
 
 Ahora mismo tienes [Skechers Go Walk Joy-Rapture  Zapatillas para Mujer  Azul  Navy  35 EU](https://www.amazon.es/dp/B071GB15SS/?tag=tolees-21) a 25.66 EUR (original: 54.95 EUR) (53.30 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HV4G8B2/?tag=tolees-21'
 descuento: '45.46'
+average: '35.99'
 ---
 
 Tienes [Auriculares Bluetooth  Mixcder Shareme 7 Cascos Inalámbricos con Micrófono Hi-Fi Deep Bass  Graves Profundos Streaming de Música 18 Horas de Tiempo de Play  para iPhone / Android / Tablet y Más](https://www.amazon.es/dp/B01HV4G8B2/?tag=tolees-21) con un 45.46 % de descuento con precio de oferta de 35.99 EUR (original: 65.99 EUR) en el siguiente enlace!

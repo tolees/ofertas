@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LN93D9G/?tag=tolees-21'
 descuento: '30.93'
+average: '6.9'
 ---
 
 Está [PROPOLAID FLU 10 Sobres](https://www.amazon.es/dp/B01LN93D9G/?tag=tolees-21) con 30.93 de descuento por 6.9 EUR (original: 9.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0759RPHKX/?tag=tolees-21'
 descuento: '49.97'
+average: '45'
 ---
 
 Tienes [Clarks Orabella Shine  Sandalia con Pulsera Mujer  Azul  Ice Blue   38 EU](https://www.amazon.es/dp/B0759RPHKX/?tag=tolees-21) con un 49.97 % de descuento con precio de oferta de 45 EUR (original: 89.95 EUR) en el siguiente enlace!

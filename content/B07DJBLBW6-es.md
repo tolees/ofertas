@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJBLBW6/?tag=tolees-21'
 descuento: '71.86'
+average: '22.5'
 ---
 
 Está [Dockers by Gerli 39or103  Zapatillas Altas para Hombre  Marrón  Cafe 320   44 EU](https://www.amazon.es/dp/B07DJBLBW6/?tag=tolees-21) con 71.86 de descuento por 22.5 EUR (original: 79.95 EUR) en el siguiente enlace!

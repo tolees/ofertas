@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071VNV91W/?tag=tolees-21'
 descuento: '58.34'
+average: '52.64'
 ---
 
 Tienes [Asics Gel-Fujitrabuco 6  Zapatillas de Gimnasia Mujer  Azul  Insignia Blue / Black / Ice Green   36 EU](https://www.amazon.es/dp/B071VNV91W/?tag=tolees-21) con un 58.34 % de descuento con precio de oferta de 52.64 EUR (original: 126.35 EUR) en el siguiente enlace!

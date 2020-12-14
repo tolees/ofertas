@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FVVGSC3/?tag=tolees-21'
 descuento: '45.02'
+average: '10.99'
 ---
 
 Está [Bolsas de Equipaje  6 Set Organizador de Maleta Bolsa  Bolsas de Viaje con Bolsa de Ropa  Bolsa de Cosméticos  Bolsa de Lavandería para Familia al Aire Libre Viajando  Camping  Senderismo  Azul ](https://www.amazon.es/dp/B07FVVGSC3/?tag=tolees-21) con 45.02 de descuento por 10.99 EUR (original: 19.99 EUR) en el siguiente enlace!

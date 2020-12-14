@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00XPQYLLU/?tag=tolees-21'
 descuento: '36.09'
+average: '31.96'
 ---
 
 Tienes [Pack de 28 Dentastix de uso diario para higiene oral para perros grandes  |  [Pack de 4]](https://www.amazon.es/dp/B00XPQYLLU/?tag=tolees-21) con un 36.09 % de descuento con precio de oferta de 31.96 EUR (original: 50.01 EUR) en el siguiente enlace!

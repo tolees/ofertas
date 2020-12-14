@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06WWCHKY2/?tag=tolees-21'
 descuento: '66.05'
+average: '43.8'
 ---
 
 Ahora mismo tienes [Pikolinos Santander W4j_i17  Botas para Mujer  Negro  Black   40 EU](https://www.amazon.es/dp/B06WWCHKY2/?tag=tolees-21) a 43.8 EUR (original: 129 EUR) (66.05 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JMJF8D5/?tag=tolees-21'
 descuento: '25.00'
+average: '59.99'
 ---
 
 Ahora mismo tienes [Android 8.1 TV Box  Android Box 4GB RAM + 64GB ROM  Leelbox Q4 MAX Smart TV Box RK3328 Quad Core 64 bit  USB 3.0  Wi-Fi integrato  BT 4.1  Android TV UHD 4K Box TV Android](https://www.amazon.es/dp/B07JMJF8D5/?tag=tolees-21) a 59.99 EUR (original: 79.99 EUR) (25.00 %  de descuento) en el siguiente enlace!

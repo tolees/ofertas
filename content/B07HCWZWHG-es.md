@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HCWZWHG/?tag=tolees-21'
 descuento: '34.81'
+average: '129.73'
 ---
 
 Está [Haverland OSYRIS-20 - Placa Bajo Consumo  2000 de Potencia  1 Elementos  Programable  Termostato Electrónico Digital LCD  Limitador Térmico](https://www.amazon.es/dp/B07HCWZWHG/?tag=tolees-21) con 34.81 de descuento por 129.73 EUR (original: 199 EUR) en el siguiente enlace!

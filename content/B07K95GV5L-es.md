@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K95GV5L/?tag=tolees-21'
 descuento: '39.19'
+average: '103.38'
 ---
 
 Ahora mismo tienes [Brooks Levitate 2  Zapatillas de Running para Hombre  Naranja  Orange/Red/Navy 894   43 EU](https://www.amazon.es/dp/B07K95GV5L/?tag=tolees-21) a 103.38 EUR (original: 170 EUR) (39.19 %  de descuento) en el siguiente enlace!

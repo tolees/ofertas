@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FFQ4Z3X/?tag=tolees-21'
 descuento: '40.00'
+average: '221.4'
 ---
 
 Ahora mismo tienes [Michael Kors MKT5046 - Smartwatch](https://www.amazon.es/dp/B07FFQ4Z3X/?tag=tolees-21) a 221.4 EUR (original: 369 EUR) (40.00 %  de descuento) en el siguiente enlace!

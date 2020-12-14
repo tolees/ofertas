@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ21VLT/?tag=tolees-21'
 descuento: '40.13'
+average: '53.88'
 ---
 
 Está [New Balance 247v2  Zapatillas para Hombre  Azul  Eclipse/Silver Fd   44 EU](https://www.amazon.es/dp/B07DJ21VLT/?tag=tolees-21) con 40.13 de descuento por 53.88 EUR (original: 90 EUR) en el siguiente enlace!

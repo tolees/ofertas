@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000GI3UMQ/?tag=tolees-21'
 descuento: '59.44'
+average: '10.1'
 ---
 
 Tienes [BaByliss 667E Look Bi-Tension - Cepillo por aire con 2 cabezales  300 W](https://www.amazon.es/dp/B000GI3UMQ/?tag=tolees-21) con un 59.44 % de descuento con precio de oferta de 10.1 EUR (original: 24.9 EUR) en el siguiente enlace!

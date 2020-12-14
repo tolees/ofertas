@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CVXTXMK/?tag=tolees-21'
 descuento: '85.61'
+average: '49.99'
 ---
 
 Está [HAMSWAN Freidora Sin Aceite  [Regalos] Freidora de Aire Caliente  Antiadherente Sartén sin Grasa Más Saludable con Capcidad Desmontable  Temporizador Manual  Control de Temperatura y Recetas](https://www.amazon.es/dp/B07CVXTXMK/?tag=tolees-21) con 85.61 de descuento por 49.99 EUR (original: 347.44 EUR) en el siguiente enlace!

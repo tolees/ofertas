@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FSDQDMC/?tag=tolees-21'
 descuento: '58.08'
+average: '35.63'
 ---
 
 Está [New Balance 520v3  Zapatillas de Deporte Exterior Hombre  Azul  Dark Denim/Gunmetal/White   44 EU](https://www.amazon.es/dp/B01FSDQDMC/?tag=tolees-21) con 58.08 de descuento por 35.63 EUR (original: 85 EUR) en el siguiente enlace!

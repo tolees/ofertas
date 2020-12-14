@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DBZCGPS/?tag=tolees-21'
 descuento: '32.98'
+average: '40.18'
 ---
 
 Está [Puma Persist XT  Zapatillas de Deporte para Hombre  Gris  Quarry-Fizzy Yellow White   45 EU](https://www.amazon.es/dp/B07DBZCGPS/?tag=tolees-21) con 32.98 de descuento por 40.18 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XQ22TJG/?tag=tolees-21'
 descuento: '41.61'
+average: '20.99'
 ---
 
 Está [Desigual CINT_Embroidered Belt Caribou Cinturón  Negro 2000  85 para Mujer](https://www.amazon.es/dp/B06XQ22TJG/?tag=tolees-21) con 41.61 de descuento por 20.99 EUR (original: 35.95 EUR) en el siguiente enlace!

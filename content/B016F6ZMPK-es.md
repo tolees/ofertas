@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B016F6ZMPK/?tag=tolees-21'
 descuento: '56.81'
+average: '69.06'
 ---
 
 Está [Hoover CA2IN1D 011 STEAM CAPSULE  Vaporeta  Gregor Titanium/Aqua Blu](https://www.amazon.es/dp/B016F6ZMPK/?tag=tolees-21) con 56.81 de descuento por 69.06 EUR (original: 159.9 EUR) en el siguiente enlace!

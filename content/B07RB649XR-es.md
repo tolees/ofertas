@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RB649XR/?tag=tolees-21'
 descuento: '58.71'
+average: '18.99'
 ---
 
 Ahora mismo tienes [Alcachofa de Ducha LED  3 Modos Masaje Cabeza de Ducha con 7 Cambio de Color  Alta Presión  30% de Ahorro de Agua para Baños](https://www.amazon.es/dp/B07RB649XR/?tag=tolees-21) a 18.99 EUR (original: 45.99 EUR) (58.71 %  de descuento) en el siguiente enlace!

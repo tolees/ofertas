@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGGNM58/?tag=tolees-21'
 descuento: '61.42'
+average: '57.49'
 ---
 
 Ahora mismo tienes [BOSS Ivitta  suéter para Mujer  Azul  Aqua 440   Large](https://www.amazon.es/dp/B07KGGNM58/?tag=tolees-21) a 57.49 EUR (original: 149 EUR) (61.42 %  de descuento) en el siguiente enlace!

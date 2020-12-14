@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00K5S35MM/?tag=tolees-21'
 descuento: '32.45'
+average: '8.95'
 ---
 
 Está [Michelin 009460 Expert - Gel antilluvia  200 ml](https://www.amazon.es/dp/B00K5S35MM/?tag=tolees-21) con 32.45 de descuento por 8.95 EUR (original: 13.25 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HNZTJHM/?tag=tolees-21'
 descuento: '33.36'
+average: '7.99'
 ---
 
 Está [Auriculares Bluetooth HOPDAY U8 V4.1 Inalámbricos In-ear Auriculares Deportivos con Micrófono Estéreo con Reducción de Ruido Sonido IPX5 Sweatproof Auriculares con Gancho para la Oreja Seguro para Hacer Ejercicio](https://www.amazon.es/dp/B07HNZTJHM/?tag=tolees-21) con 33.36 de descuento por 7.99 EUR (original: 11.99 EUR) en el siguiente enlace!

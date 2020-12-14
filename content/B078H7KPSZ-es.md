@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078H7KPSZ/?tag=tolees-21'
 descuento: '50.15'
+average: '14.95'
 ---
 
 Está [JACK & JONES Jjivega Jjtrash WW Dark Grey Melang Noos  Pantalones Hombre  Gris  Dark Melange    Talla del Fabricante: 34 ](https://www.amazon.es/dp/B078H7KPSZ/?tag=tolees-21) con 50.15 de descuento por 14.95 EUR (original: 29.99 EUR) en el siguiente enlace!

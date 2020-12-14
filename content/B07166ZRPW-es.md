@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07166ZRPW/?tag=tolees-21'
 descuento: '66.58'
+average: '13.37'
 ---
 
 Ahora mismo tienes [Levi s Linden Cinturón  Marrón  Dark Brown 29   90 para Hombre](https://www.amazon.es/dp/B07166ZRPW/?tag=tolees-21) a 13.37 EUR (original: 40 EUR) (66.58 %  de descuento) en el siguiente enlace!

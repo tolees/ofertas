@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003VYAO44/?tag=tolees-21'
 descuento: '72.21'
+average: '8.52'
 ---
 
 Ahora mismo tienes [Curvy Kate Portia Bra  Sujetador para Mujer  Negro/Rosa 80FFFF](https://www.amazon.es/dp/B003VYAO44/?tag=tolees-21) a 8.52 EUR (original: 30.66 EUR) (72.21 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071YZCQYS/?tag=tolees-21'
 descuento: '48.85'
+average: '51.14'
 ---
 
 Ahora mismo tienes [Under Armour UA Charged Bandit 3 Ombre  Zapatillas de Entrenamiento para Hombre  Negro  Black 001   47.5 EU](https://www.amazon.es/dp/B071YZCQYS/?tag=tolees-21) a 51.14 EUR (original: 99.99 EUR) (48.85 %  de descuento) en el siguiente enlace!

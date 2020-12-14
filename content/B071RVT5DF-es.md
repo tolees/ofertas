@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071RVT5DF/?tag=tolees-21'
 descuento: '55.14'
+average: '179'
 ---
 
 Está [Sony Xperia XA1 Ultra - Smartphone con pantalla FULL HD de 6"  Octa Core 2 4 Ghz  RAM de 4 GB  memoria interna de 32 GB  cámara de 23 MP  Android   color blanco](https://www.amazon.es/dp/B071RVT5DF/?tag=tolees-21) con 55.14 de descuento por 179 EUR (original: 399 EUR) en el siguiente enlace!

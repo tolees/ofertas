@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00HWQESB2/?tag=tolees-21'
 descuento: '31.88'
+average: '22.24'
 ---
 
 Ahora mismo tienes [Lancaster Self Tan Beauty Face Smoothing Gel 01-Light Autobronceador - 50 ml](https://www.amazon.es/dp/B00HWQESB2/?tag=tolees-21) a 22.24 EUR (original: 32.65 EUR) (31.88 %  de descuento) en el siguiente enlace!

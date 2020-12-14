@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B008KH2R1U/?tag=tolees-21'
 descuento: '25.94'
+average: '21.84'
 ---
 
 Ahora mismo tienes [Biotherm Pure-Fect Skin Gel Hidratante - 50 ml](https://www.amazon.es/dp/B008KH2R1U/?tag=tolees-21) a 21.84 EUR (original: 29.49 EUR) (25.94 %  de descuento) en el siguiente enlace!

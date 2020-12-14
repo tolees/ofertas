@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00891HTCE/?tag=tolees-21'
 descuento: '46.00'
+average: '16.2'
 ---
 
 Tienes [Under Armour Pantalónes cortos para Hombre  Azul Marino  Talla SM](https://www.amazon.es/dp/B00891HTCE/?tag=tolees-21) con un 46.00 % de descuento con precio de oferta de 16.2 EUR (original: 30 EUR) en el siguiente enlace!

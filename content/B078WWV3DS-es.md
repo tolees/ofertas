@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078WWV3DS/?tag=tolees-21'
 descuento: '71.94'
+average: '21.86'
 ---
 
 Tienes [Munich Tiga Football  Zapatillas de Deporte Unisex Adulto  Multicolor  Amarillo/Naranja 923   41 EU](https://www.amazon.es/dp/B078WWV3DS/?tag=tolees-21) con un 71.94 % de descuento con precio de oferta de 21.86 EUR (original: 77.9 EUR) en el siguiente enlace!

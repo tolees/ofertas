@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BGTV480/?tag=tolees-21'
 descuento: '91.51'
+average: '11.03'
 ---
 
 Está [G-STAR RAW Midge Saddle Mid Waist Straight  Azul  Medium Aged 7859-071   23W / 34L para Mujer](https://www.amazon.es/dp/B01BGTV480/?tag=tolees-21) con 91.51 de descuento por 11.03 EUR (original: 129.95 EUR) en el siguiente enlace!

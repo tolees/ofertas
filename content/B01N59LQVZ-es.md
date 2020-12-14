@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N59LQVZ/?tag=tolees-21'
 descuento: '76.33'
+average: '7.1'
 ---
 
 Tienes [Only Onlnew Bridget Rib 7/8 Pullover Knt Noos suéter  Rosa  Rose Taupe   42  Talla del Fabricante: X-Large  para Mujer](https://www.amazon.es/dp/B01N59LQVZ/?tag=tolees-21) con un 76.33 % de descuento con precio de oferta de 7.1 EUR (original: 29.99 EUR) en el siguiente enlace!

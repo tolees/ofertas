@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000OLYD62/?tag=tolees-21'
 descuento: '39.55'
+average: '75.56'
 ---
 
 Ahora mismo tienes [Trixie Caseta Natura Perro  S  71×77×76 cm](https://www.amazon.es/dp/B000OLYD62/?tag=tolees-21) a 75.56 EUR (original: 125 EUR) (39.55 %  de descuento) en el siguiente enlace!

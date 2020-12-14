@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077ZJWTRP/?tag=tolees-21'
 descuento: '41.22'
+average: '52.9'
 ---
 
 Ahora mismo tienes [Diadora B.Elite L  Zapatillas de Gimnasia Unisex Adulto   Bianco Ottico/BLU Estate C2816   45 EU](https://www.amazon.es/dp/B077ZJWTRP/?tag=tolees-21) a 52.9 EUR (original: 90 EUR) (41.22 %  de descuento) en el siguiente enlace!

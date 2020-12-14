@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GNFNDTN/?tag=tolees-21'
 descuento: '32.93'
+average: '16.76'
 ---
 
 Está [JACK & JONES Jcomarko Polo SS  Hombre  Medium  Talla del Fabricante: ](https://www.amazon.es/dp/B07GNFNDTN/?tag=tolees-21) con 32.93 de descuento por 16.76 EUR (original: 24.99 EUR) en el siguiente enlace!

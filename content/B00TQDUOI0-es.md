@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TQDUOI0/?tag=tolees-21'
 descuento: '73.33'
+average: '12'
 ---
 
 Tienes [Nike U FC GFX Crew Calcetines  Unisex Adulto   Pink Foam/Black   XL](https://www.amazon.es/dp/B00TQDUOI0/?tag=tolees-21) con un 73.33 % de descuento con precio de oferta de 12 EUR (original: 45 EUR) en el siguiente enlace!

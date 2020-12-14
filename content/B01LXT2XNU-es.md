@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LXT2XNU/?tag=tolees-21'
 descuento: '45.78'
+average: '18.95'
 ---
 
 Tienes [SD Games- Números Locos  SDGNUMLOC01 ](https://www.amazon.es/dp/B01LXT2XNU/?tag=tolees-21) con un 45.78 % de descuento con precio de oferta de 18.95 EUR (original: 34.95 EUR) en el siguiente enlace!

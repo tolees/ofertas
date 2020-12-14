@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0733L7VGL/?tag=tolees-21'
 descuento: '37.12'
+average: '25.12'
 ---
 
 Ahora mismo tienes [Puma Yogini Lux Strappy Top Corto  Mujer  Fucsia  L](https://www.amazon.es/dp/B0733L7VGL/?tag=tolees-21) a 25.12 EUR (original: 39.95 EUR) (37.12 %  de descuento) en el siguiente enlace!

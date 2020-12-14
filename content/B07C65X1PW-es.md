@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C65X1PW/?tag=tolees-21'
 descuento: '67.25'
+average: '36.02'
 ---
 
 Está [Nike Air Zoom Prestige HC LTHR  Zapatillas para Hombre  Blanco White/Black 100  44.5 EU](https://www.amazon.es/dp/B07C65X1PW/?tag=tolees-21) con 67.25 de descuento por 36.02 EUR (original: 110 EUR) en el siguiente enlace!

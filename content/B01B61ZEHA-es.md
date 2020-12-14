@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01B61ZEHA/?tag=tolees-21'
 descuento: '65.84'
+average: '283.51'
 ---
 
 Ahora mismo tienes [FLEX Colchón muelles continuos Habana  150 x 190 cm](https://www.amazon.es/dp/B01B61ZEHA/?tag=tolees-21) a 283.51 EUR (original: 830 EUR) (65.84 %  de descuento) en el siguiente enlace!

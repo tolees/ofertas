@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0777MTDPM/?tag=tolees-21'
 descuento: '50.01'
+average: '28.74'
 ---
 
 Tienes [Under Armour UA Rapid  Zapatillas de Running para Hombre  Azul  Moroccan Blue   42.5 EU](https://www.amazon.es/dp/B0777MTDPM/?tag=tolees-21) con un 50.01 % de descuento con precio de oferta de 28.74 EUR (original: 57.49 EUR) en el siguiente enlace!

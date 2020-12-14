@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00VWYOABI/?tag=tolees-21'
 descuento: '51.54'
+average: '6.76'
 ---
 
 Tienes [Joma Pantalon Pirata Vela Royal  Hombre  Azul  XL](https://www.amazon.es/dp/B00VWYOABI/?tag=tolees-21) con un 51.54 % de descuento con precio de oferta de 6.76 EUR (original: 13.95 EUR) en el siguiente enlace!

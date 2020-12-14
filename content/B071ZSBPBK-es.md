@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071ZSBPBK/?tag=tolees-21'
 descuento: '66.99'
+average: '29.69'
 ---
 
 Ahora mismo tienes [adidas CF Hoops Mid WTR W  Zapatillas Altas para Mujer  Marrón  Trace Khaki/Chalk White   39 1/3 EU](https://www.amazon.es/dp/B071ZSBPBK/?tag=tolees-21) a 29.69 EUR (original: 89.95 EUR) (66.99 %  de descuento) en el siguiente enlace!

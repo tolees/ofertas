@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MRXXCGK/?tag=tolees-21'
 descuento: '48.69'
+average: '66.68'
 ---
 
 Está [Columbia Irvington LTR Chukka WP  Botas Hombre  Marrón  Cinnamon/Maple   42 EU](https://www.amazon.es/dp/B01MRXXCGK/?tag=tolees-21) con 48.69 de descuento por 66.68 EUR (original: 129.95 EUR) en el siguiente enlace!

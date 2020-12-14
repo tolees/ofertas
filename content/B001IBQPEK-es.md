@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001IBQPEK/?tag=tolees-21'
 descuento: '42.66'
+average: '53.12'
 ---
 
 Está [Bosch 2 607 225 322 - Cargador rápido Li-Ion AL 1860 CV - 6A; 230V  pack de 1 ](https://www.amazon.es/dp/B001IBQPEK/?tag=tolees-21) con 42.66 de descuento por 53.12 EUR (original: 92.64 EUR) en el siguiente enlace!

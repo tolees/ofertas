@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078VHGTW2/?tag=tolees-21'
 descuento: '65.03'
+average: '13.99'
 ---
 
 Ahora mismo tienes [Odeosan Clinique Corrector de Postura para Espalda  Hombro y Clavícula Hombre y Mujer | Soporte Ajustable Unisex de Calidad para Mejorar Postura y Aliviar Dolor | Apoyo de Columna y Tronco Cifosis](https://www.amazon.es/dp/B078VHGTW2/?tag=tolees-21) a 13.99 EUR (original: 40 EUR) (65.03 %  de descuento) en el siguiente enlace!

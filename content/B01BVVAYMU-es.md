@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BVVAYMU/?tag=tolees-21'
 descuento: '65.39'
+average: '10.21'
 ---
 
 Está [Bed Head by TIGI Champú ReEnergize 750 ml](https://www.amazon.es/dp/B01BVVAYMU/?tag=tolees-21) con 65.39 de descuento por 10.21 EUR (original: 29.5 EUR) en el siguiente enlace!

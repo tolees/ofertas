@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K28JSKS/?tag=tolees-21'
 descuento: '42.52'
+average: '68.95'
 ---
 
 Ahora mismo tienes [adidas Prophere  Zapatillas de Gimnasia para Hombre  Negro Core Black/FTWR White  41 1/3 EU](https://www.amazon.es/dp/B07K28JSKS/?tag=tolees-21) a 68.95 EUR (original: 119.95 EUR) (42.52 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0795N6GHW/?tag=tolees-21'
 descuento: '41.95'
+average: '17.99'
 ---
 
 Tienes [HEOYSN Trípode Móvil  Trípode Cámara Réflex Ligero 128cm de Aluminio  Peso 400g  Compacto para Canon Nikon Sony iPhone](https://www.amazon.es/dp/B0795N6GHW/?tag=tolees-21) con un 41.95 % de descuento con precio de oferta de 17.99 EUR (original: 30.99 EUR) en el siguiente enlace!

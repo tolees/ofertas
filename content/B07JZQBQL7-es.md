@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JZQBQL7/?tag=tolees-21'
 descuento: '35.83'
+average: '38.47'
 ---
 
 Ahora mismo tienes [adidas Predator 19.3 FG J  Zapatillas de Fútbol para Bebés  Negro Core Black/Active Red  36.5 EU](https://www.amazon.es/dp/B07JZQBQL7/?tag=tolees-21) a 38.47 EUR (original: 59.95 EUR) (35.83 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KKGS6CV/?tag=tolees-21'
 descuento: '31.95'
+average: '11.99'
 ---
 
 Está [RenFox E-lšªquido 12x10ml Set E-Lšªquido para Cigarrillos Electrš®nicos  E-liquido sin Nicotina ni Tabaco 50 VG/50 PG  Multi-Sabor & Super Fuerte Sabor & Ingredientes de Alto Grado](https://www.amazon.es/dp/B07KKGS6CV/?tag=tolees-21) con 31.95 de descuento por 11.99 EUR (original: 17.62 EUR) en el siguiente enlace!

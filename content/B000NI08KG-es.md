@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000NI08KG/?tag=tolees-21'
 descuento: '40.88'
+average: '13'
 ---
 
 Ahora mismo tienes [Clevamama Toalla Bebé con Capucha - Capa de Baño Infantil - Crema](https://www.amazon.es/dp/B000NI08KG/?tag=tolees-21) a 13 EUR (original: 21.99 EUR) (40.88 %  de descuento) en el siguiente enlace!

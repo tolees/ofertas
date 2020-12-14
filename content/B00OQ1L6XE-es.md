@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00OQ1L6XE/?tag=tolees-21'
 descuento: '46.53'
+average: '22.99'
 ---
 
 Está [AIR OPTIX Lentes de contacto multifocales mensuales  R 8.6  D 14.2  -3.5 dioptría  adición media - 3 lentillas](https://www.amazon.es/dp/B00OQ1L6XE/?tag=tolees-21) con 46.53 de descuento por 22.99 EUR (original: 43 EUR) en el siguiente enlace!

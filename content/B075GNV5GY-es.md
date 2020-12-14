@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075GNV5GY/?tag=tolees-21'
 descuento: '80.83'
+average: '2.49'
 ---
 
 Ahora mismo tienes [Freebily Tanga de Charol para Hombre Ropa Interior Masculina con Hueco en el Saco Negro XL](https://www.amazon.es/dp/B075GNV5GY/?tag=tolees-21) a 2.49 EUR (original: 12.99 EUR) (80.83 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078DPCG2L/?tag=tolees-21'
 descuento: '45.71'
+average: '21.71'
 ---
 
 Ahora mismo tienes [O Neill PM Back Logo Pantalones Cortos Deportivos  Hombre  Azul  Atlant Blue 5046   M](https://www.amazon.es/dp/B078DPCG2L/?tag=tolees-21) a 21.71 EUR (original: 39.99 EUR) (45.71 %  de descuento) en el siguiente enlace!

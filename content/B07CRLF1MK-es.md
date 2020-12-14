@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CRLF1MK/?tag=tolees-21'
 descuento: '57.87'
+average: '23.15'
 ---
 
 Ahora mismo tienes [Puma Mega NRGY Heather Knit Jr  Zapatillas Unisex Niños  Azul  Strong Blue White   37 EU](https://www.amazon.es/dp/B07CRLF1MK/?tag=tolees-21) a 23.15 EUR (original: 54.95 EUR) (57.87 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00RP0JIEM/?tag=tolees-21'
 descuento: '56.62'
+average: '8.13'
 ---
 
 Tienes [Callaway 5215086  Gorra de béisbol para Hombre   Ganate/Gris   U](https://www.amazon.es/dp/B00RP0JIEM/?tag=tolees-21) con un 56.62 % de descuento con precio de oferta de 8.13 EUR (original: 18.74 EUR) en el siguiente enlace!

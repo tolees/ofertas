@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HC863GC/?tag=tolees-21'
 descuento: '47.15'
+average: '73.97'
 ---
 
 Tienes [Columbia Caldorado II Outdry  Zapatillas de Running para Asfalto para Hombre  Marrón  Jet/Mud   42 EU](https://www.amazon.es/dp/B01HC863GC/?tag=tolees-21) con un 47.15 % de descuento con precio de oferta de 73.97 EUR (original: 139.95 EUR) en el siguiente enlace!

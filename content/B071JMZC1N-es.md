@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071JMZC1N/?tag=tolees-21'
 descuento: '28.80'
+average: '21.36'
 ---
 
 Tienes [Nike Women s Swoosh Futura Sports Bra Sports Bra  Mujer  White/Black  M](https://www.amazon.es/dp/B071JMZC1N/?tag=tolees-21) con un 28.80 % de descuento con precio de oferta de 21.36 EUR (original: 30 EUR) en el siguiente enlace!

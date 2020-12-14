@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01L950FUE/?tag=tolees-21'
 descuento: '46.23'
+average: '21.48'
 ---
 
 Tienes [Gioseppo 37049  Mocasines para Niños   Negro 000   32 EU](https://www.amazon.es/dp/B01L950FUE/?tag=tolees-21) con un 46.23 % de descuento con precio de oferta de 21.48 EUR (original: 39.95 EUR) en el siguiente enlace!

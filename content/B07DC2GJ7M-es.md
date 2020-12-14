@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC2GJ7M/?tag=tolees-21'
 descuento: '69.67'
+average: '27.28'
 ---
 
 Está [Puma Cell Viper  Zapatillas Unisex Adulto  Blanco White-Ponderosa Pine  40 EU](https://www.amazon.es/dp/B07DC2GJ7M/?tag=tolees-21) con 69.67 de descuento por 27.28 EUR (original: 89.95 EUR) en el siguiente enlace!

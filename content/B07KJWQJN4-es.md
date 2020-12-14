@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KJWQJN4/?tag=tolees-21'
 descuento: '44.19'
+average: '27.9'
 ---
 
 Ahora mismo tienes [Quiksilver Word Block Shorts  Hombre  Medieval Blue  L](https://www.amazon.es/dp/B07KJWQJN4/?tag=tolees-21) a 27.9 EUR (original: 49.99 EUR) (44.19 %  de descuento) en el siguiente enlace!

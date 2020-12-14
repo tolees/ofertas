@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XD1CL97/?tag=tolees-21'
 descuento: '48.99'
+average: '20.4'
 ---
 
 Ahora mismo tienes [Cortefiel Pantalone BLU Navy W33](https://www.amazon.es/dp/B06XD1CL97/?tag=tolees-21) a 20.4 EUR (original: 39.99 EUR) (48.99 %  de descuento) en el siguiente enlace!

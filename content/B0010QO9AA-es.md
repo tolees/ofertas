@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0010QO9AA/?tag=tolees-21'
 descuento: '53.24'
+average: '115'
 ---
 
 Está [Epson C13S051160  Cartucho de Tóner para Epson AL-C2800  Alta capacidad  Cian](https://www.amazon.es/dp/B0010QO9AA/?tag=tolees-21) con 53.24 de descuento por 115 EUR (original: 245.93 EUR) en el siguiente enlace!

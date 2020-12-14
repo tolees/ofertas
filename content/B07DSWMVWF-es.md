@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DSWMVWF/?tag=tolees-21'
 descuento: '69.78'
+average: '18.66'
 ---
 
 Está [Playtex Soutien-Gorge Flower Elegance Lot De 2  Sujetador con Aros para Mujer   Blanc/Noir 04x   Talla del Fabricante: Taglia Produttore 90D Pack de 2 ](https://www.amazon.es/dp/B07DSWMVWF/?tag=tolees-21) con 69.78 de descuento por 18.66 EUR (original: 61.75 EUR) en el siguiente enlace!

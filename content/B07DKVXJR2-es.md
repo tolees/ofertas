@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DKVXJR2/?tag=tolees-21'
 descuento: '40.18'
+average: '14.95'
 ---
 
 Tienes [Columbia Gorra de béisbol unisex  Silver Ridge III Ball Cap  Nailon  Azul  Blue Dusk   Talla: O/S  1840071](https://www.amazon.es/dp/B07DKVXJR2/?tag=tolees-21) con un 40.18 % de descuento con precio de oferta de 14.95 EUR (original: 24.99 EUR) en el siguiente enlace!

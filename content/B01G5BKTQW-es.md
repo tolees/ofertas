@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01G5BKTQW/?tag=tolees-21'
 descuento: '73.76'
+average: '20.98'
 ---
 
 Tienes [Tamaris 26239  Botas Militar para Mujer  Verde  Olive 722   38 EU](https://www.amazon.es/dp/B01G5BKTQW/?tag=tolees-21) con un 73.76 % de descuento con precio de oferta de 20.98 EUR (original: 79.94 EUR) en el siguiente enlace!

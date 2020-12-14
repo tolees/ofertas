@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HY59LLW/?tag=tolees-21'
 descuento: '69.14'
+average: '21.6'
 ---
 
 Tienes [New Balance 590  Zapatillas de Running  Mujer  Multicolor  Green/Silver 316   37 EU](https://www.amazon.es/dp/B01HY59LLW/?tag=tolees-21) con un 69.14 % de descuento con precio de oferta de 21.6 EUR (original: 70 EUR) en el siguiente enlace!

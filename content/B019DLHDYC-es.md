@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B019DLHDYC/?tag=tolees-21'
 descuento: '73.49'
+average: '21.21'
 ---
 
 Está [New Balance 99 Training  Zapatillas Deportivas para Interior para Mujer  Azul  Gem 529   40 EU](https://www.amazon.es/dp/B019DLHDYC/?tag=tolees-21) con 73.49 de descuento por 21.21 EUR (original: 80 EUR) en el siguiente enlace!

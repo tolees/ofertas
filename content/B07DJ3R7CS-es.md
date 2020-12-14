@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ3R7CS/?tag=tolees-21'
 descuento: '40.20'
+average: '23.92'
 ---
 
 Ahora mismo tienes [New Balance 570  Zapatillas Deportivas para Interior Unisex Niños  Negro White BW Black  32 EU](https://www.amazon.es/dp/B07DJ3R7CS/?tag=tolees-21) a 23.92 EUR (original: 40 EUR) (40.20 %  de descuento) en el siguiente enlace!

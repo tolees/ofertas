@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00VO4CLWQ/?tag=tolees-21'
 descuento: '64.60'
+average: '7.47'
 ---
 
 Está [Crush Vibrador - 100 gr](https://www.amazon.es/dp/B00VO4CLWQ/?tag=tolees-21) con 64.60 de descuento por 7.47 EUR (original: 21.1 EUR) en el siguiente enlace!

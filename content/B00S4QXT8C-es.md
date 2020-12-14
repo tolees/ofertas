@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00S4QXT8C/?tag=tolees-21'
 descuento: '28.80'
+average: '11.79'
 ---
 
 Tienes [Bolsitas para Perros Delicias en Salsa de Buey y Zanahorias - [Pack de 24]](https://www.amazon.es/dp/B00S4QXT8C/?tag=tolees-21) con un 28.80 % de descuento con precio de oferta de 11.79 EUR (original: 16.56 EUR) en el siguiente enlace!

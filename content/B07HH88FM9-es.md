@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HH88FM9/?tag=tolees-21'
 descuento: '53.78'
+average: '66.97'
 ---
 
 Ahora mismo tienes [Hilfiger Denim Tommy Jeans Suede Boot  Botas Militar para Hombre  Gris  Magnet 008   45 EU](https://www.amazon.es/dp/B07HH88FM9/?tag=tolees-21) a 66.97 EUR (original: 144.9 EUR) (53.78 %  de descuento) en el siguiente enlace!

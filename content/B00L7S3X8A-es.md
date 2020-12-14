@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00L7S3X8A/?tag=tolees-21'
 descuento: '86.91'
+average: '1.95'
 ---
 
 Tienes [Samsung ET-FT700CTEGWW - Protector de Pantalla Galaxy Tab S 8.4"](https://www.amazon.es/dp/B00L7S3X8A/?tag=tolees-21) con un 86.91 % de descuento con precio de oferta de 1.95 EUR (original: 14.9 EUR) en el siguiente enlace!

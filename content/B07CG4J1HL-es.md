@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CG4J1HL/?tag=tolees-21'
 descuento: '73.44'
+average: '12.49'
 ---
 
 Tienes [Handiy LM101 - Medidor de distancia láser](https://www.amazon.es/dp/B07CG4J1HL/?tag=tolees-21) con un 73.44 % de descuento con precio de oferta de 12.49 EUR (original: 47.02 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XT33J7Q/?tag=tolees-21'
 descuento: '45.21'
+average: '37.78'
 ---
 
 Está [Izas Point Pantalones  Hombre  Negro  Black / Dark Grey   L](https://www.amazon.es/dp/B06XT33J7Q/?tag=tolees-21) con 45.21 de descuento por 37.78 EUR (original: 68.95 EUR) en el siguiente enlace!

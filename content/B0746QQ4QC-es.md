@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0746QQ4QC/?tag=tolees-21'
 descuento: '54.81'
+average: '63.26'
 ---
 
 Tienes [The North Face M Hedgehog Hike GTX  Zapatillas de Senderismo para Hombre   Beluga Grey/Dark Slate Blue  39 EU](https://www.amazon.es/dp/B0746QQ4QC/?tag=tolees-21) con un 54.81 % de descuento con precio de oferta de 63.26 EUR (original: 140 EUR) en el siguiente enlace!

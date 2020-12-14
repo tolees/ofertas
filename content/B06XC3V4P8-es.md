@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XC3V4P8/?tag=tolees-21'
 descuento: '64.73'
+average: '19.4'
 ---
 
 Tienes [Pepe Jeans Becket  Jeans Slim para Niños  Azul  10Oz Md Used Ess Y39   2 años](https://www.amazon.es/dp/B06XC3V4P8/?tag=tolees-21) con un 64.73 % de descuento con precio de oferta de 19.4 EUR (original: 55 EUR) en el siguiente enlace!

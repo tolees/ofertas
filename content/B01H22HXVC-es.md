@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01H22HXVC/?tag=tolees-21'
 descuento: '46.00'
+average: '13.5'
 ---
 
 Ahora mismo tienes [Beper VE.610R Color Rojo mosquitera eléctrica  4 W  unica](https://www.amazon.es/dp/B01H22HXVC/?tag=tolees-21) a 13.5 EUR (original: 25 EUR) (46.00 %  de descuento) en el siguiente enlace!

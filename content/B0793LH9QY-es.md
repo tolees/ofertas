@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0793LH9QY/?tag=tolees-21'
 descuento: '40.93'
+average: '12.99'
 ---
 
 Está [LED Acachofa Ducha Alta Presiòn Cabeza de Ducha de Mano con 7 Cambio de color  7 Cambios de Color ](https://www.amazon.es/dp/B0793LH9QY/?tag=tolees-21) con 40.93 de descuento por 12.99 EUR (original: 21.99 EUR) en el siguiente enlace!

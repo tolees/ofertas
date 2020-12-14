@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JYS4H61/?tag=tolees-21'
 descuento: '35.54'
+average: '41.9'
 ---
 
 Tienes [Tommy Hilfiger TJM Tommy Classics Stretch Polo  Rojo  Flame Scarlet 667   Medium para Hombre](https://www.amazon.es/dp/B07JYS4H61/?tag=tolees-21) con un 35.54 % de descuento con precio de oferta de 41.9 EUR (original: 65 EUR) en el siguiente enlace!

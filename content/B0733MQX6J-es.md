@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0733MQX6J/?tag=tolees-21'
 descuento: '83.00'
+average: '11.89'
 ---
 
 Está [Puma 515711  Body Para Mujer  Negro  L](https://www.amazon.es/dp/B0733MQX6J/?tag=tolees-21) con 83.00 de descuento por 11.89 EUR (original: 69.95 EUR) en el siguiente enlace!

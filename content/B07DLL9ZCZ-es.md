@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLL9ZCZ/?tag=tolees-21'
 descuento: '57.70'
+average: '54.99'
 ---
 
 Está [Ecco Soft 1 Men s  Zapatillas para Hombre  Gris  Magnet 5308   43 EU](https://www.amazon.es/dp/B07DLL9ZCZ/?tag=tolees-21) con 57.70 de descuento por 54.99 EUR (original: 130 EUR) en el siguiente enlace!

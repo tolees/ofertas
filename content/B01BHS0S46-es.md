@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BHS0S46/?tag=tolees-21'
 descuento: '27.92'
+average: '147.79'
 ---
 
 Ahora mismo tienes [Oral-B Pro 3000 + Oxyjet Irrigador Estación de Cuidado Bucal](https://www.amazon.es/dp/B01BHS0S46/?tag=tolees-21) a 147.79 EUR (original: 205.05 EUR) (27.92 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJL9M3C/?tag=tolees-21'
 descuento: '78.10'
+average: '10.94'
 ---
 
 Está [Dockers by Gerli 41te720  Botas Militar Unisex niños  Azul  Navy 660   32 EU](https://www.amazon.es/dp/B07DJL9M3C/?tag=tolees-21) con 78.10 de descuento por 10.94 EUR (original: 49.95 EUR) en el siguiente enlace!

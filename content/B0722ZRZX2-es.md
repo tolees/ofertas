@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0722ZRZX2/?tag=tolees-21'
 descuento: '46.39'
+average: '26.78'
 ---
 
 Está [Puma One 17.4 IT  Zapatillas de Fútbol para Hombre  Azul  Atomic Blue-White-Safety Yellow   43 EU](https://www.amazon.es/dp/B0722ZRZX2/?tag=tolees-21) con 46.39 de descuento por 26.78 EUR (original: 49.95 EUR) en el siguiente enlace!

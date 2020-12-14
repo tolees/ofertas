@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KH2PH99/?tag=tolees-21'
 descuento: '56.63'
+average: '32.52'
 ---
 
 Tienes [Under Armour Storm Midlayer Parte Superior del Calentamiento  Hombre  Verde  Neo Turquoise Black 361   XL](https://www.amazon.es/dp/B07KH2PH99/?tag=tolees-21) con un 56.63 % de descuento con precio de oferta de 32.52 EUR (original: 74.99 EUR) en el siguiente enlace!

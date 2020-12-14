@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00QZ3A1ZU/?tag=tolees-21'
 descuento: '26.72'
+average: '9.49'
 ---
 
 Está [Fantasy Flight Games Juego de Tronos - Intriga en Poniente  Edge Entertainment FFHBO08 ](https://www.amazon.es/dp/B00QZ3A1ZU/?tag=tolees-21) con 26.72 de descuento por 9.49 EUR (original: 12.95 EUR) en el siguiente enlace!

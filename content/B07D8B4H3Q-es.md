@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D8B4H3Q/?tag=tolees-21'
 descuento: '68.86'
+average: '31.14'
 ---
 
 Está [New Balance Fresh Foam Cruz v2 Sock  Zapatillas para Hombre  Turquesa  Dark Neptune/Eclipse Ld2   45.5 EU](https://www.amazon.es/dp/B07D8B4H3Q/?tag=tolees-21) con 68.86 de descuento por 31.14 EUR (original: 100 EUR) en el siguiente enlace!

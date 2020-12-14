@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001OX9WRY/?tag=tolees-21'
 descuento: '53.92'
+average: '15.95'
 ---
 
 Está [Bahco 361-12 Llave Tubo Stillson 12  30.5 cm](https://www.amazon.es/dp/B001OX9WRY/?tag=tolees-21) con 53.92 de descuento por 15.95 EUR (original: 34.61 EUR) en el siguiente enlace!

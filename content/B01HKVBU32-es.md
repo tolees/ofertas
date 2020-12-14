@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HKVBU32/?tag=tolees-21'
 descuento: '55.35'
+average: '70.99'
 ---
 
 Tienes [Colchoncillo de 7 62 cm para colchón  ignífugo  Langria  Blanco  Doublé](https://www.amazon.es/dp/B01HKVBU32/?tag=tolees-21) con un 55.35 % de descuento con precio de oferta de 70.99 EUR (original: 159 EUR) en el siguiente enlace!

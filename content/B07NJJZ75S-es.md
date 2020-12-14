@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NJJZ75S/?tag=tolees-21'
 descuento: '30.01'
+average: '24.46'
 ---
 
 Está [adidas DU9597 Mallas  Mujer  Negro/Blanco  28](https://www.amazon.es/dp/B07NJJZ75S/?tag=tolees-21) con 30.01 de descuento por 24.46 EUR (original: 34.95 EUR) en el siguiente enlace!

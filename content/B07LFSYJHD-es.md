@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LFSYJHD/?tag=tolees-21'
 descuento: '52.63'
+average: '37.85'
 ---
 
 Está [Pepe Jeans Tinker Neon  Zapatillas para Hombre  Schwarz  999black 999   44 EU](https://www.amazon.es/dp/B07LFSYJHD/?tag=tolees-21) con 52.63 de descuento por 37.85 EUR (original: 79.9 EUR) en el siguiente enlace!

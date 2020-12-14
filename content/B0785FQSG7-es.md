@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0785FQSG7/?tag=tolees-21'
 descuento: '27.99'
+average: '36'
 ---
 
 Tienes [Under Armour Rival Fleece Po Hoodie Parte Superior del Calentamiento  Hombre  Gris  Steel Light Heather/Black 036   L](https://www.amazon.es/dp/B0785FQSG7/?tag=tolees-21) con un 27.99 % de descuento con precio de oferta de 36 EUR (original: 49.99 EUR) en el siguiente enlace!

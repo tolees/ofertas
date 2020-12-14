@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D5ZRYTP/?tag=tolees-21'
 descuento: '43.04'
+average: '11.74'
 ---
 
 Tienes [Asics As001  Zapatillas de Deporte Unisex Adulto   P70ns 4901  39 EU](https://www.amazon.es/dp/B07D5ZRYTP/?tag=tolees-21) con un 43.04 % de descuento con precio de oferta de 11.74 EUR (original: 20.61 EUR) en el siguiente enlace!

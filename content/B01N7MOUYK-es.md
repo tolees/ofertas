@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N7MOUYK/?tag=tolees-21'
 descuento: '45.44'
+average: '48.56'
 ---
 
 Ahora mismo tienes [Fred Perry Twin Tipped Shirt  Polo para Hombre  Verde  Green E02   X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B01N7MOUYK/?tag=tolees-21) a 48.56 EUR (original: 89 EUR) (45.44 %  de descuento) en el siguiente enlace!

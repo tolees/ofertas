@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FBJJFCW/?tag=tolees-21'
 descuento: '57.84'
+average: '34.99'
 ---
 
 Está [MSDJK Pulsera Actividad  IP 67 Pulsera Impermeable  perseguidor Actividad el Monitor del Ritmo cardíaco y presión Arterial  Reloj Inteligente podómetro portátil con Monitor de sueño](https://www.amazon.es/dp/B07FBJJFCW/?tag=tolees-21) con 57.84 de descuento por 34.99 EUR (original: 82.99 EUR) en el siguiente enlace!

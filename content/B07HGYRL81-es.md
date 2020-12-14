@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HGYRL81/?tag=tolees-21'
 descuento: '42.56'
+average: '26.99'
 ---
 
 Está [Plancha Ropa Vapor viaje  Sevjoy Planchado vertical y plano Portátil de Plancha Vapor  para hogar y viaje](https://www.amazon.es/dp/B07HGYRL81/?tag=tolees-21) con 42.56 de descuento por 26.99 EUR (original: 46.99 EUR) en el siguiente enlace!

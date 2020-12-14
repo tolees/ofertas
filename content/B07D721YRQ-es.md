@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D721YRQ/?tag=tolees-21'
 descuento: '82.38'
+average: '11.45'
 ---
 
 Ahora mismo tienes [arena W One Piece Bañador Bodylift Mujer Jewel Copa b  Black-Rose Violet  40](https://www.amazon.es/dp/B07D721YRQ/?tag=tolees-21) a 11.45 EUR (original: 64.99 EUR) (82.38 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06ZYKKQQ5/?tag=tolees-21'
 descuento: '39.10'
+average: '29.95'
 ---
 
 Ahora mismo tienes [Skechers 58356  Zapatillas para Hombre  Negro  Black   45.5 EU](https://www.amazon.es/dp/B06ZYKKQQ5/?tag=tolees-21) a 29.95 EUR (original: 49.18 EUR) (39.10 %  de descuento) en el siguiente enlace!

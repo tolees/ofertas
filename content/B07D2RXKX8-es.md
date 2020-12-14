@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D2RXKX8/?tag=tolees-21'
 descuento: '74.41'
+average: '7.42'
 ---
 
 Ahora mismo tienes [Gant Premium Trunk Yarn-dyed Stripe  Bañador para Hombre  Blanco  White  Small](https://www.amazon.es/dp/B07D2RXKX8/?tag=tolees-21) a 7.42 EUR (original: 29 EUR) (74.41 %  de descuento) en el siguiente enlace!

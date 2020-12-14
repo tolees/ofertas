@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B008PXXCC2/?tag=tolees-21'
 descuento: '45.59'
+average: '21.22'
 ---
 
 Está [CASIO Reloj Digital para Mujer de Automático con Correa en Acero Inoxidable Chapado en Platino LA-670WA-7](https://www.amazon.es/dp/B008PXXCC2/?tag=tolees-21) con 45.59 de descuento por 21.22 EUR (original: 39 EUR) en el siguiente enlace!

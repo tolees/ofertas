@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XFSBMX2/?tag=tolees-21'
 descuento: '62.12'
+average: '18.92'
 ---
 
 Ahora mismo tienes [Tamaris 25100  Botas para Mujer  Marrón  Pepper   39 EU](https://www.amazon.es/dp/B06XFSBMX2/?tag=tolees-21) a 18.92 EUR (original: 49.95 EUR) (62.12 %  de descuento) en el siguiente enlace!

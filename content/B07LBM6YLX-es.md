@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LBM6YLX/?tag=tolees-21'
 descuento: '54.55'
+average: '54.08'
 ---
 
 Está [Napapijri Nellary Fantasy  Pantalones cortos Hombre  Multicolor  Fantasy F14   32  Talla fabricante: 32 ](https://www.amazon.es/dp/B07LBM6YLX/?tag=tolees-21) con 54.55 de descuento por 54.08 EUR (original: 119 EUR) en el siguiente enlace!

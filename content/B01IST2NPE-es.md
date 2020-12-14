@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IST2NPE/?tag=tolees-21'
 descuento: '33.37'
+average: '29.95'
 ---
 
 Tienes [Lee Daren Zip Fly  Jeans Hombre  Negro  Black Rinse   W34/L30  Talla del fabricante: 34 ](https://www.amazon.es/dp/B01IST2NPE/?tag=tolees-21) con un 33.37 % de descuento con precio de oferta de 29.95 EUR (original: 44.95 EUR) en el siguiente enlace!

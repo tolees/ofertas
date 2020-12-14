@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071XJBTRD/?tag=tolees-21'
 descuento: '72.27'
+average: '11.09'
 ---
 
 Ahora mismo tienes [JACK & JONES PREMIUM Jprstory Knit Crew Neck Noos suéter  Gris  Jet Stream Detail:Twisted W. Black   X-Large para Hombre](https://www.amazon.es/dp/B071XJBTRD/?tag=tolees-21) a 11.09 EUR (original: 39.99 EUR) (72.27 %  de descuento) en el siguiente enlace!

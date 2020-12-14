@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NH9RFKI/?tag=tolees-21'
 descuento: '25.25'
+average: '2.99'
 ---
 
 Está [Fapil 10001 - Soporte escoba y recogedor](https://www.amazon.es/dp/B01NH9RFKI/?tag=tolees-21) con 25.25 de descuento por 2.99 EUR (original: 4 EUR) en el siguiente enlace!

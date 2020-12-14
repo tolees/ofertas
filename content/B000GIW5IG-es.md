@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000GIW5IG/?tag=tolees-21'
 descuento: '45.01'
+average: '21.94'
 ---
 
 Ahora mismo tienes [Casio Reloj de Pulsera W-753-1AVES](https://www.amazon.es/dp/B000GIW5IG/?tag=tolees-21) a 21.94 EUR (original: 39.9 EUR) (45.01 %  de descuento) en el siguiente enlace!

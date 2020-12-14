@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GGZY9D4/?tag=tolees-21'
 descuento: '38.48'
+average: '15.99'
 ---
 
 Ahora mismo tienes [AJOXEL Alfombra de Baño Alfombra Antideslizante con 4 Pack Pinzas para Alfombras  Alfombrilla de Baño Microfibra Suave Absorbente Moquetas Sala de Estar Ducha Estera  Color Azul  50x80 cm ](https://www.amazon.es/dp/B07GGZY9D4/?tag=tolees-21) a 15.99 EUR (original: 25.99 EUR) (38.48 %  de descuento) en el siguiente enlace!

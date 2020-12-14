@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073VJZGDR/?tag=tolees-21'
 descuento: '63.42'
+average: '59.99'
 ---
 
 Está [PUPPYOO WP521 Aspiradora Sin Saco Gran Potencia Filtro HEPA  Portátil para Pelos Mascotas Aspirador Escoba de Mano Doméstico Vacío Ruido Bajo](https://www.amazon.es/dp/B073VJZGDR/?tag=tolees-21) con 63.42 de descuento por 59.99 EUR (original: 164 EUR) en el siguiente enlace!

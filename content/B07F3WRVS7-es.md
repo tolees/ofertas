@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F3WRVS7/?tag=tolees-21'
 descuento: '55.72'
+average: '30.99'
 ---
 
 Ahora mismo tienes [IP cámara WiFi cámara IP Szsinocam cámaras de vigilancia wifi interior 1080P Servicio nube P2P IR Visión Nocturna Detección de Movimiento Seguridad para casa CCTV Sistema Seguridad para el hogar/bebé](https://www.amazon.es/dp/B07F3WRVS7/?tag=tolees-21) a 30.99 EUR (original: 69.99 EUR) (55.72 %  de descuento) en el siguiente enlace!

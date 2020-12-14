@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001TK3CDW/?tag=tolees-21'
 descuento: '35.73'
+average: '57.2'
 ---
 
 Está [Reloj Casio para Hombre AQW-101-1AVER](https://www.amazon.es/dp/B001TK3CDW/?tag=tolees-21) con 35.73 de descuento por 57.2 EUR (original: 89 EUR) en el siguiente enlace!

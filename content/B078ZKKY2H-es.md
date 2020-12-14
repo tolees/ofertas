@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078ZKKY2H/?tag=tolees-21'
 descuento: '57.81'
+average: '25.27'
 ---
 
 Ahora mismo tienes [Supra Stacks II  Zapatillas para Hombre  Azul  Navy White 472   45 EU](https://www.amazon.es/dp/B078ZKKY2H/?tag=tolees-21) a 25.27 EUR (original: 59.9 EUR) (57.81 %  de descuento) en el siguiente enlace!

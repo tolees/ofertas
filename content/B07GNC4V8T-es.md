@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GNC4V8T/?tag=tolees-21'
 descuento: '75.00'
+average: '9.99'
 ---
 
 Está [JewelryWe Reloj de Cuarzo para Hombre Mujer  Cambios de Color Indicador Reloj Amarillo Movimiento de Las Esferas  Correa de Acero Inoxidable](https://www.amazon.es/dp/B07GNC4V8T/?tag=tolees-21) con 75.00 de descuento por 9.99 EUR (original: 39.96 EUR) en el siguiente enlace!

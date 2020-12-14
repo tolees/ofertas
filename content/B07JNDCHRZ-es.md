@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JNDCHRZ/?tag=tolees-21'
 descuento: '39.04'
+average: '85.95'
 ---
 
 Está [Nike Air Zoom Vomero 14  Zapatillas de Running para Hombre  Azul  Aviator Grey/Pure Platinum/Blue Fury 002   44 EU](https://www.amazon.es/dp/B07JNDCHRZ/?tag=tolees-21) con 39.04 de descuento por 85.95 EUR (original: 141 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KKH1ZBV/?tag=tolees-21'
 descuento: '82.70'
+average: '5.71'
 ---
 
 Ahora mismo tienes [ydkj AV Varita Mágica Cargador USB Clásico G-Spot Stick Vibrador Productos Sexuales Masajeador Vibrador Juguetes Sexuales para Mujeres](https://www.amazon.es/dp/B07KKH1ZBV/?tag=tolees-21) a 5.71 EUR (original: 33.01 EUR) (82.70 %  de descuento) en el siguiente enlace!

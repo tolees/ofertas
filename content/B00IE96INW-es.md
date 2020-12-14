@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IE96INW/?tag=tolees-21'
 descuento: '49.21'
+average: '9.99'
 ---
 
 Tienes [L Oréal Professionnel  Laca - 150 ml.](https://www.amazon.es/dp/B00IE96INW/?tag=tolees-21) con un 49.21 % de descuento con precio de oferta de 9.99 EUR (original: 19.67 EUR) en el siguiente enlace!

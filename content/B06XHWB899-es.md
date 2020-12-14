@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XHWB899/?tag=tolees-21'
 descuento: '35.15'
+average: '267'
 ---
 
 Ahora mismo tienes [Bosch Professional Bosch Profesional 0611909001 V-26 Martillo perforador GBH  Azul  0611910000  18 voltsV  18 V](https://www.amazon.es/dp/B06XHWB899/?tag=tolees-21) a 267 EUR (original: 411.69 EUR) (35.15 %  de descuento) en el siguiente enlace!

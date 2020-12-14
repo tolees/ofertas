@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B013V6PL6W/?tag=tolees-21'
 descuento: '59.18'
+average: '22.45'
 ---
 
 Está [Levi s 501 Short  Pantalones Cortos para Mujer  Azul  Echo Park 38   W32](https://www.amazon.es/dp/B013V6PL6W/?tag=tolees-21) con 59.18 de descuento por 22.45 EUR (original: 55 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K6Z6R1H/?tag=tolees-21'
 descuento: '70.02'
+average: '7.48'
 ---
 
 Ahora mismo tienes [Pesadillas 2: Noche De Halloween [Blu-ray]](https://www.amazon.es/dp/B07K6Z6R1H/?tag=tolees-21) a 7.48 EUR (original: 24.95 EUR) (70.02 %  de descuento) en el siguiente enlace!

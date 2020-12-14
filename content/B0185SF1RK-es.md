@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0185SF1RK/?tag=tolees-21'
 descuento: '74.22'
+average: '23.19'
 ---
 
 Tienes [ReebokClassic Leather - Zapatillas de Running Niños  Beige  Ecru/Navy   36.5](https://www.amazon.es/dp/B0185SF1RK/?tag=tolees-21) con un 74.22 % de descuento con precio de oferta de 23.19 EUR (original: 89.95 EUR) en el siguiente enlace!

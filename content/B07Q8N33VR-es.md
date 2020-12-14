@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07Q8N33VR/?tag=tolees-21'
 descuento: '34.07'
+average: '3.29'
 ---
 
 Tienes [L OR BARISTA Doble Descafeinado - Intensidad 6 - 10 Cápsulas de Café exclusivamente compatibles con la cafetera L OR BARISTA](https://www.amazon.es/dp/B07Q8N33VR/?tag=tolees-21) con un 34.07 % de descuento con precio de oferta de 3.29 EUR (original: 4.99 EUR) en el siguiente enlace!

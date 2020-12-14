@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C93VBFJ/?tag=tolees-21'
 descuento: '54.57'
+average: '9.99'
 ---
 
 Está [HPLQM 30 pieza Neodimio Imán 10x3 mm Unidad imán Extrem Fuerte 2 5 kg de fuerza  N48 Mini Imanes Neodimio Raro Tierra](https://www.amazon.es/dp/B07C93VBFJ/?tag=tolees-21) con 54.57 de descuento por 9.99 EUR (original: 21.99 EUR) en el siguiente enlace!

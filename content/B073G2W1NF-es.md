@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073G2W1NF/?tag=tolees-21'
 descuento: '41.30'
+average: '13.5'
 ---
 
 Está [Siux Pantalon Corto CALIXTO Blanco Negro](https://www.amazon.es/dp/B073G2W1NF/?tag=tolees-21) con 41.30 de descuento por 13.5 EUR (original: 23 EUR) en el siguiente enlace!

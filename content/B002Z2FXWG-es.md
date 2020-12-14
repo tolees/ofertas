@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002Z2FXWG/?tag=tolees-21'
 descuento: '60.76'
+average: '33.35'
 ---
 
 Está [Dickies Lined Eisenhower-Chaqueta Hombre  Azul  Dark Navy DN   X-Large](https://www.amazon.es/dp/B002Z2FXWG/?tag=tolees-21) con 60.76 de descuento por 33.35 EUR (original: 85 EUR) en el siguiente enlace!

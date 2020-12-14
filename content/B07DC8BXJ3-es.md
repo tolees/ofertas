@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC8BXJ3/?tag=tolees-21'
 descuento: '48.00'
+average: '39'
 ---
 
 Tienes [LE COQ SPORTIF Courtset Craft Optical White/Dress Blue  Zapatillas para Hombre  Beige Blanc  40 EU](https://www.amazon.es/dp/B07DC8BXJ3/?tag=tolees-21) con un 48.00 % de descuento con precio de oferta de 39 EUR (original: 75 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00NH8GGX2/?tag=tolees-21'
 descuento: '44.92'
+average: '19.8'
 ---
 
 Está [Fantasy X-Tensions Correa de penes Extreme  Color Negro - 100 gr](https://www.amazon.es/dp/B00NH8GGX2/?tag=tolees-21) con 44.92 de descuento por 19.8 EUR (original: 35.95 EUR) en el siguiente enlace!

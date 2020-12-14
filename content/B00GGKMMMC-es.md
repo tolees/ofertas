@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00GGKMMMC/?tag=tolees-21'
 descuento: '27.23'
+average: '21.97'
 ---
 
 Tienes [Bosch V-Line Titanio - Maletín de 48 unidades para taladrar y atornillar](https://www.amazon.es/dp/B00GGKMMMC/?tag=tolees-21) con un 27.23 % de descuento con precio de oferta de 21.97 EUR (original: 30.19 EUR) en el siguiente enlace!

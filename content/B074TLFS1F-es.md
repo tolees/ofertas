@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074TLFS1F/?tag=tolees-21'
 descuento: '28.90'
+average: '31.99'
 ---
 
 Tienes [AmazonBasics - Balón medicinal  6 kg](https://www.amazon.es/dp/B074TLFS1F/?tag=tolees-21) con un 28.90 % de descuento con precio de oferta de 31.99 EUR (original: 44.99 EUR) en el siguiente enlace!

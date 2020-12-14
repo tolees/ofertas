@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y3Z2VC8/?tag=tolees-21'
 descuento: '48.03'
+average: '7.79'
 ---
 
 Está [FUNKID Xiaomi Mi Band 2 Pulsera Correa para reemplazo XIAO MI 2 Blanco Azul Verde](https://www.amazon.es/dp/B06Y3Z2VC8/?tag=tolees-21) con 48.03 de descuento por 7.79 EUR (original: 14.99 EUR) en el siguiente enlace!

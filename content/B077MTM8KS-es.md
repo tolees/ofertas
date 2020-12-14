@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077MTM8KS/?tag=tolees-21'
 descuento: '53.58'
+average: '37.11'
 ---
 
 Está [Puma Enzo Nf Mid  Zapatillas de Cross para Hombre  Blanco White-Quarry  42 EU](https://www.amazon.es/dp/B077MTM8KS/?tag=tolees-21) con 53.58 de descuento por 37.11 EUR (original: 79.95 EUR) en el siguiente enlace!

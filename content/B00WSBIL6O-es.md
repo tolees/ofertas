@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00WSBIL6O/?tag=tolees-21'
 descuento: '27.30'
+average: '7.99'
 ---
 
 Tienes [LYNCA LYN-251Z Correa de hombro cuello para cámara SLR y DSLR Canon Nikon Pentax Sony etc. Bohemiavintage](https://www.amazon.es/dp/B00WSBIL6O/?tag=tolees-21) con un 27.30 % de descuento con precio de oferta de 7.99 EUR (original: 10.99 EUR) en el siguiente enlace!

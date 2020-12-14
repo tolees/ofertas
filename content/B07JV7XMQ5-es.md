@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JV7XMQ5/?tag=tolees-21'
 descuento: '49.70'
+average: '6.79'
 ---
 
 Está [Diadermine - Gel Micelar Let s Talk Pure para Pieles Mixtas/Grasas - Pack de 3 x 50 ml](https://www.amazon.es/dp/B07JV7XMQ5/?tag=tolees-21) con 49.70 de descuento por 6.79 EUR (original: 13.5 EUR) en el siguiente enlace!

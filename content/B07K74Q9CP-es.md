@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K74Q9CP/?tag=tolees-21'
 descuento: '44.83'
+average: '22.07'
 ---
 
 Tienes [Asics Jolt 2 GS  Zapatillas de Running Unisex Niños  Azul  Indigo Blue/Astral 402   37.5 EU](https://www.amazon.es/dp/B07K74Q9CP/?tag=tolees-21) con un 44.83 % de descuento con precio de oferta de 22.07 EUR (original: 40 EUR) en el siguiente enlace!

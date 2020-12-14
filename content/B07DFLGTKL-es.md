@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFLGTKL/?tag=tolees-21'
 descuento: '57.37'
+average: '19.16'
 ---
 
 Está [adidas Cy5606 Bolsa de Deporte Infantil  58 cm  Blabas/Negro](https://www.amazon.es/dp/B07DFLGTKL/?tag=tolees-21) con 57.37 de descuento por 19.16 EUR (original: 44.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H5DXPP9/?tag=tolees-21'
 descuento: '38.50'
+average: '9.2'
 ---
 
 Tienes [NUÜR Unicorn - Lámpara LED de luz nocturna con cambio de color múltiple para niños  decoración del hogar  fiesta  dormitorio  funciona con pilas](https://www.amazon.es/dp/B07H5DXPP9/?tag=tolees-21) con un 38.50 % de descuento con precio de oferta de 9.2 EUR (original: 14.96 EUR) en el siguiente enlace!

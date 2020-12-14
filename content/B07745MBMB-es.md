@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07745MBMB/?tag=tolees-21'
 descuento: '29.72'
+average: '25.18'
 ---
 
 Ahora mismo tienes [Mini Batman Gotham City](https://www.amazon.es/dp/B07745MBMB/?tag=tolees-21) a 25.18 EUR (original: 35.83 EUR) (29.72 %  de descuento) en el siguiente enlace!

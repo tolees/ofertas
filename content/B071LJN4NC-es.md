@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071LJN4NC/?tag=tolees-21'
 descuento: '59.89'
+average: '56.16'
 ---
 
 Tienes [Camper Pelotas K400220-001 Sneakers Mujer 39](https://www.amazon.es/dp/B071LJN4NC/?tag=tolees-21) con un 59.89 % de descuento con precio de oferta de 56.16 EUR (original: 140 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DB1P4M3/?tag=tolees-21'
 descuento: '65.79'
+average: '18.8'
 ---
 
 Tienes [Mustang Schnür-Booty  Botas Clasicas Unisex Niños  Azul  Navy 820   35 EU](https://www.amazon.es/dp/B07DB1P4M3/?tag=tolees-21) con un 65.79 % de descuento con precio de oferta de 18.8 EUR (original: 54.95 EUR) en el siguiente enlace!

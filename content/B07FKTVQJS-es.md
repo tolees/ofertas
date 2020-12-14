@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FKTVQJS/?tag=tolees-21'
 descuento: '54.72'
+average: '29.41'
 ---
 
 Está [Skechers Go Walk Evolution Ultra-mirab  Zapatillas para Mujer  Azul  Navy White NVW   36 EU](https://www.amazon.es/dp/B07FKTVQJS/?tag=tolees-21) con 54.72 de descuento por 29.41 EUR (original: 64.95 EUR) en el siguiente enlace!

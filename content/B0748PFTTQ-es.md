@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0748PFTTQ/?tag=tolees-21'
 descuento: '53.39'
+average: '36.82'
 ---
 
 Está [Lacoste Straightset Lace 417 1 CAJ  Zapatillas Unisex Niños  Marrón  Dk BRW   39 EU](https://www.amazon.es/dp/B0748PFTTQ/?tag=tolees-21) con 53.39 de descuento por 36.82 EUR (original: 79 EUR) en el siguiente enlace!

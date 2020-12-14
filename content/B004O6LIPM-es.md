@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004O6LIPM/?tag=tolees-21'
 descuento: '58.06'
+average: '27.26'
 ---
 
 Está [Superga 2754 COTU - Zapatillas Unisex  Negro  997   39 EU / 5.5 UK](https://www.amazon.es/dp/B004O6LIPM/?tag=tolees-21) con 58.06 de descuento por 27.26 EUR (original: 65 EUR) en el siguiente enlace!

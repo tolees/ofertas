@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GG7NXYM/?tag=tolees-21'
 descuento: '63.06'
+average: '7.38'
 ---
 
 Ahora mismo tienes [Champion Performance Ankle X6  Calcetines de Deporte para Hombre  Multicolor  Noir Foncé/Gris Clair 8m0   39/42 Pack de 6](https://www.amazon.es/dp/B07GG7NXYM/?tag=tolees-21) a 7.38 EUR (original: 19.98 EUR) (63.06 %  de descuento) en el siguiente enlace!

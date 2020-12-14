@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DDLVLZA/?tag=tolees-21'
 descuento: '50.00'
+average: '449.99'
 ---
 
 Está [XP-Pen 22 Pro HD IPS Monitor de Dibujo con Soporte Ajustable](https://www.amazon.es/dp/B01DDLVLZA/?tag=tolees-21) con 50.00 de descuento por 449.99 EUR (original: 899.98 EUR) en el siguiente enlace!

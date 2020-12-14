@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000V6VX0O/?tag=tolees-21'
 descuento: '37.62'
+average: '24.89'
 ---
 
 Tienes [Speedo Endurance  Traje de Natación para Mujer  Negro  Schwarz   38 ES](https://www.amazon.es/dp/B000V6VX0O/?tag=tolees-21) con un 37.62 % de descuento con precio de oferta de 24.89 EUR (original: 39.9 EUR) en el siguiente enlace!

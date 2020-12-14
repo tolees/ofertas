@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075WVYZZG/?tag=tolees-21'
 descuento: '34.85'
+average: '23.76'
 ---
 
 Tienes [Akokie Coche de Carreras Flexible  Juguete para Coche  Conjunto de Montaje Variable de 275 cm para niños de 3 4 5 6 años de Edad  192 Piezas ](https://www.amazon.es/dp/B075WVYZZG/?tag=tolees-21) con un 34.85 % de descuento con precio de oferta de 23.76 EUR (original: 36.47 EUR) en el siguiente enlace!

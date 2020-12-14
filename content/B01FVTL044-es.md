@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FVTL044/?tag=tolees-21'
 descuento: '47.51'
+average: '20.99'
 ---
 
 Tienes [Medidor de Azúcar GrandBeing Refractómetro Manual  Medición de Contenido de Azúcar Rango de Escala de Brix 0 ~ 32% con Pipeta  Destornillador de Calibración y Caja de Plástico de Protección  Medidor de Azúcar ](https://www.amazon.es/dp/B01FVTL044/?tag=tolees-21) con un 47.51 % de descuento con precio de oferta de 20.99 EUR (original: 39.99 EUR) en el siguiente enlace!

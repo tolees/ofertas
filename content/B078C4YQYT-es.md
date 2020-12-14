@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078C4YQYT/?tag=tolees-21'
 descuento: '53.85'
+average: '119.99'
 ---
 
 Está [UDIRC Drone VR con Cámara Profesional 720P HD  Drone RC  Función de Suspensión de Altitud  Modo sin Cabeza  Alarma de Fuera de Rango de Vuelo  Monitor de Pantalla FPV LCD 5.8Ghz](https://www.amazon.es/dp/B078C4YQYT/?tag=tolees-21) con 53.85 de descuento por 119.99 EUR (original: 259.99 EUR) en el siguiente enlace!

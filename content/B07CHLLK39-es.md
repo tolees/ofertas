@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CHLLK39/?tag=tolees-21'
 descuento: '58.66'
+average: '24.8'
 ---
 
 Está [JACK & JONES Jfwabbott PU  Botas Chelsea para Hombre  Marrón Java  46 EU](https://www.amazon.es/dp/B07CHLLK39/?tag=tolees-21) con 58.66 de descuento por 24.8 EUR (original: 59.99 EUR) en el siguiente enlace!

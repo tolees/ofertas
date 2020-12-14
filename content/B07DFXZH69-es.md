@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFXZH69/?tag=tolees-21'
 descuento: '30.04'
+average: '24.45'
 ---
 
 Está [Puma Ignite 7  Pants  Hombre  Black  XXL](https://www.amazon.es/dp/B07DFXZH69/?tag=tolees-21) con 30.04 de descuento por 24.45 EUR (original: 34.95 EUR) en el siguiente enlace!

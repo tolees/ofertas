@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JLS6JYV/?tag=tolees-21'
 descuento: '52.72'
+average: '18.89'
 ---
 
 Está [XTI 48726  Zapatillas para Hombre  Gris  43 EU](https://www.amazon.es/dp/B07JLS6JYV/?tag=tolees-21) con 52.72 de descuento por 18.89 EUR (original: 39.95 EUR) en el siguiente enlace!

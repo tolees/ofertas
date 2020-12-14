@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CPPBGQH/?tag=tolees-21'
 descuento: '67.52'
+average: '12.99'
 ---
 
 Está [ANTAPRCIS RC Tanques Juguete 360 ° Flip Control Remoto Tanque con Luces LED y Música Negro](https://www.amazon.es/dp/B07CPPBGQH/?tag=tolees-21) con 67.52 de descuento por 12.99 EUR (original: 39.99 EUR) en el siguiente enlace!

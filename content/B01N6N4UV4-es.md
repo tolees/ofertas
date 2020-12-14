@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N6N4UV4/?tag=tolees-21'
 descuento: '41.64'
+average: '35.63'
 ---
 
 Tienes [Reebok Cl Nylon Slim Hv  Sneakers para Mujer  Verde  Mint/Bottle Green/White   38 EU](https://www.amazon.es/dp/B01N6N4UV4/?tag=tolees-21) con un 41.64 % de descuento con precio de oferta de 35.63 EUR (original: 61.05 EUR) en el siguiente enlace!

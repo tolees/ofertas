@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KP9KJJK/?tag=tolees-21'
 descuento: '31.25'
+average: '54.99'
 ---
 
 Está [Cámara de Coche  Dash CAM  TOGUARD 4K Cámara para Coche 3.0" LCD 170°Ángulo Conducir Grabadora G-Sensor Detección de Movimiento Grabación en Bucle WDR con Visión Nocturna Camara de Tablero](https://www.amazon.es/dp/B07KP9KJJK/?tag=tolees-21) con 31.25 de descuento por 54.99 EUR (original: 79.99 EUR) en el siguiente enlace!

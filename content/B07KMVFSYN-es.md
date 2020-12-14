@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KMVFSYN/?tag=tolees-21'
 descuento: '62.40'
+average: '16.92'
 ---
 
 Está [Volcom Lido Trunks 16" Boardshorts  Hombre  Charcoal Heather  XS](https://www.amazon.es/dp/B07KMVFSYN/?tag=tolees-21) con 62.40 de descuento por 16.92 EUR (original: 45 EUR) en el siguiente enlace!

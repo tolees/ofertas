@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078FBZY39/?tag=tolees-21'
 descuento: '53.31'
+average: '27.97'
 ---
 
 Tienes [Pepe Jeans London Sailor Deck Cruise  Alpargata Hombre  Blanco  White   44 EU](https://www.amazon.es/dp/B078FBZY39/?tag=tolees-21) con un 53.31 % de descuento con precio de oferta de 27.97 EUR (original: 59.9 EUR) en el siguiente enlace!

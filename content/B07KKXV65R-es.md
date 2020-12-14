@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KKXV65R/?tag=tolees-21'
 descuento: '63.83'
+average: '23.51'
 ---
 
 Tienes [Burton Underhill Sudaderas  Hombre  True Black  XS](https://www.amazon.es/dp/B07KKXV65R/?tag=tolees-21) con un 63.83 % de descuento con precio de oferta de 23.51 EUR (original: 65 EUR) en el siguiente enlace!

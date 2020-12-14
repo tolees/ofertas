@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC6Q9R9/?tag=tolees-21'
 descuento: '74.32'
+average: '21.83'
 ---
 
 Está [LE COQ SPORTIF Solas W Sport Dusty Coral/Olive Night  Zapatillas para Mujer  Beige Rose  36 EU](https://www.amazon.es/dp/B07DC6Q9R9/?tag=tolees-21) con 74.32 de descuento por 21.83 EUR (original: 85 EUR) en el siguiente enlace!

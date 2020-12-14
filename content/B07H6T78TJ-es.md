@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H6T78TJ/?tag=tolees-21'
 descuento: '38.49'
+average: '10.45'
 ---
 
 Está [Spot On Gifts - Balón de fútbol Modelo React con firmas  Tamaño 1   Barcelona ](https://www.amazon.es/dp/B07H6T78TJ/?tag=tolees-21) con 38.49 de descuento por 10.45 EUR (original: 16.99 EUR) en el siguiente enlace!

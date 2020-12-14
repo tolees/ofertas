@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00CSN0ZJI/?tag=tolees-21'
 descuento: '30.99'
+average: '24.54'
 ---
 
 Tienes [Mont Blanc Presence Men Agua de toilette - 50 ml](https://www.amazon.es/dp/B00CSN0ZJI/?tag=tolees-21) con un 30.99 % de descuento con precio de oferta de 24.54 EUR (original: 35.56 EUR) en el siguiente enlace!

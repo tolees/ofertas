@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0042A0SYM/?tag=tolees-21'
 descuento: '54.10'
+average: '25.91'
 ---
 
 Tienes [Calvin Klein - Beauty - Eau de parfum para mujer - 30 ml](https://www.amazon.es/dp/B0042A0SYM/?tag=tolees-21) con un 54.10 % de descuento con precio de oferta de 25.91 EUR (original: 56.45 EUR) en el siguiente enlace!

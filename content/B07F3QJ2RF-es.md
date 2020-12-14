@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F3QJ2RF/?tag=tolees-21'
 descuento: '50.46'
+average: '78.28'
 ---
 
 Tienes [Michael Kors Irving Lace Up  Zapatillas para Mujer  Plateado  Silver 040   40 EU](https://www.amazon.es/dp/B07F3QJ2RF/?tag=tolees-21) con un 50.46 % de descuento con precio de oferta de 78.28 EUR (original: 158.02 EUR) en el siguiente enlace!

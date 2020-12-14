@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B010V8MEZY/?tag=tolees-21'
 descuento: '83.29'
+average: '26.57'
 ---
 
 Tienes [Steve Madden OCTAGON - Botas para mujer  color negro  talla   36](https://www.amazon.es/dp/B010V8MEZY/?tag=tolees-21) con un 83.29 % de descuento con precio de oferta de 26.57 EUR (original: 159 EUR) en el siguiente enlace!

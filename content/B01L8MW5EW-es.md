@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01L8MW5EW/?tag=tolees-21'
 descuento: '36.18'
+average: '44.67'
 ---
 
 Ahora mismo tienes [CamelBak 1110001900 Pack de hidratación  Unisex Adulto  Negro  No No aplicable](https://www.amazon.es/dp/B01L8MW5EW/?tag=tolees-21) a 44.67 EUR (original: 69.99 EUR) (36.18 %  de descuento) en el siguiente enlace!

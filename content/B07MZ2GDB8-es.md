@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MZ2GDB8/?tag=tolees-21'
 descuento: '65.01'
+average: '11.99'
 ---
 
 Ahora mismo tienes [YUECHAO - Látigo de Caballo  Color Negro](https://www.amazon.es/dp/B07MZ2GDB8/?tag=tolees-21) a 11.99 EUR (original: 34.27 EUR) (65.01 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074DT1KZV/?tag=tolees-21'
 descuento: '31.27'
+average: '10.99'
 ---
 
 Tienes [Soradoo 10pcs Juego de señuelos de pesca cebos 11cm/13.4g con Ganchos plástico 3d ojos](https://www.amazon.es/dp/B074DT1KZV/?tag=tolees-21) con un 31.27 % de descuento con precio de oferta de 10.99 EUR (original: 15.99 EUR) en el siguiente enlace!

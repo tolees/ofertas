@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004SGJSHS/?tag=tolees-21'
 descuento: '55.27'
+average: '38'
 ---
 
 Está [Puma Suede Classic +  Zapatillas Unisex Adulto  Rojo  Team Regal Red/White   45 EU](https://www.amazon.es/dp/B004SGJSHS/?tag=tolees-21) con 55.27 de descuento por 38 EUR (original: 84.95 EUR) en el siguiente enlace!

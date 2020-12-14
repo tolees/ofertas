@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NK688GG/?tag=tolees-21'
 descuento: '32.57'
+average: '30.95'
 ---
 
 Ahora mismo tienes [Bella Aurora Bio10 Tratamiento Facial Anti-Manchas para Mujer Día y Noche Elimina las Manchas de la Piel  15 Ampollas para la Cara](https://www.amazon.es/dp/B07NK688GG/?tag=tolees-21) a 30.95 EUR (original: 45.9 EUR) (32.57 %  de descuento) en el siguiente enlace!

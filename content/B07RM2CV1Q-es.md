@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RM2CV1Q/?tag=tolees-21'
 descuento: '70.01'
+average: '17.99'
 ---
 
 Está [WonVon Cargador de Baterias Coche/Moto  12V 6V 1.5A Mantenimiento Automático e Inteligente Cargador con Múltiples Protecciones para Baterías de Plomo Ácido Coche  Motocicletas  ATVs  RVs  Barco y ect](https://www.amazon.es/dp/B07RM2CV1Q/?tag=tolees-21) con 70.01 de descuento por 17.99 EUR (original: 59.99 EUR) en el siguiente enlace!

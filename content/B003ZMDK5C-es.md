@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003ZMDK5C/?tag=tolees-21'
 descuento: '42.47'
+average: '24.45'
 ---
 
 Ahora mismo tienes [Pedales de MTB  Shimano M520  SPD  blanco](https://www.amazon.es/dp/B003ZMDK5C/?tag=tolees-21) a 24.45 EUR (original: 42.5 EUR) (42.47 %  de descuento) en el siguiente enlace!

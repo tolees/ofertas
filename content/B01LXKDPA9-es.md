@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LXKDPA9/?tag=tolees-21'
 descuento: '65.50'
+average: '5.31'
 ---
 
 Está [Indicode 40-149-Camiseta Hombre Negro  Black  XXL](https://www.amazon.es/dp/B01LXKDPA9/?tag=tolees-21) con 65.50 de descuento por 5.31 EUR (original: 15.39 EUR) en el siguiente enlace!

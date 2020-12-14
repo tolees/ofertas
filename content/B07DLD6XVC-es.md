@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLD6XVC/?tag=tolees-21'
 descuento: '41.91'
+average: '31.95'
 ---
 
 Está [Element Cornell Classic Ho Sudaderas  Hombre  Rojo  napa Red   L](https://www.amazon.es/dp/B07DLD6XVC/?tag=tolees-21) con 41.91 de descuento por 31.95 EUR (original: 55 EUR) en el siguiente enlace!

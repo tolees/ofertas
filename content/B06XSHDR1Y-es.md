@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XSHDR1Y/?tag=tolees-21'
 descuento: '45.16'
+average: '169.99'
 ---
 
 Está [SuenosZzz-Sillón Butaca Balancin Orejero Premium Confort  Balancin para Lactancia  Tapiceria Antimanchas acualine Gris. Medidas:102 x 76 x 74.](https://www.amazon.es/dp/B06XSHDR1Y/?tag=tolees-21) con 45.16 de descuento por 169.99 EUR (original: 309.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077S6LMBB/?tag=tolees-21'
 descuento: '59.13'
+average: '4.41'
 ---
 
 Ahora mismo tienes [Bolsa deshumidificadora reutilizable para coche y hogar](https://www.amazon.es/dp/B077S6LMBB/?tag=tolees-21) a 4.41 EUR (original: 10.79 EUR) (59.13 %  de descuento) en el siguiente enlace!

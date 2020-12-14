@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H7FFK1L/?tag=tolees-21'
 descuento: '54.01'
+average: '22.99'
 ---
 
 Tienes [zociko Electroestimulador Muscular Abdominales  EMS Estimulador Muscular Abdominales EMS Estimulador Músculo Tóner Musculares para Un Cuerpo Tonificado Y Definido para Hombre o Mujerzoci](https://www.amazon.es/dp/B07H7FFK1L/?tag=tolees-21) con un 54.01 % de descuento con precio de oferta de 22.99 EUR (original: 49.99 EUR) en el siguiente enlace!

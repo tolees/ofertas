@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJLNT49/?tag=tolees-21'
 descuento: '67.83'
+average: '25.72'
 ---
 
 Ahora mismo tienes [Dockers by Gerli 43ln201  Botas Militar para Mujer  Marrón  Schlamm 490   40 EU](https://www.amazon.es/dp/B07DJLNT49/?tag=tolees-21) a 25.72 EUR (original: 79.95 EUR) (67.83 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F1GCVMK/?tag=tolees-21'
 descuento: '76.98'
+average: '16.1'
 ---
 
 Ahora mismo tienes [Mustang High Top Sneaker  Zapatillas Altas para Mujer  Plateado  Silber 21   37 EU](https://www.amazon.es/dp/B07F1GCVMK/?tag=tolees-21) a 16.1 EUR (original: 69.95 EUR) (76.98 %  de descuento) en el siguiente enlace!

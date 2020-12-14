@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L6T6HRB/?tag=tolees-21'
 descuento: '29.01'
+average: '13.63'
 ---
 
 Está [Oral-B CrossAction Black - Pack de 3 Cabezales de Recambios para Cepillo Eléctrico Recargable  Cabezal Redondo con Diseño de Inspiración Profesional para Limpiar Diente por Diente  Negro](https://www.amazon.es/dp/B07L6T6HRB/?tag=tolees-21) con 29.01 de descuento por 13.63 EUR (original: 19.2 EUR) en el siguiente enlace!

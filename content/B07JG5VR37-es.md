@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JG5VR37/?tag=tolees-21'
 descuento: '50.05'
+average: '27.45'
 ---
 
 Está [Puma ST Runner v2 NL  Zapatillas de Deporte Unisex Adulto  Morado  Elderberry White-Indigo   44.5 EU](https://www.amazon.es/dp/B07JG5VR37/?tag=tolees-21) con 50.05 de descuento por 27.45 EUR (original: 54.95 EUR) en el siguiente enlace!

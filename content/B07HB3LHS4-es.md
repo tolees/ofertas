@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HB3LHS4/?tag=tolees-21'
 descuento: '40.00'
+average: '21.9'
 ---
 
 Ahora mismo tienes [Caja de Regalo Reloj Mujer Blanco- Juegos de Joyas- Collar-Anillo- Pendientes - Pulsera](https://www.amazon.es/dp/B07HB3LHS4/?tag=tolees-21) a 21.9 EUR (original: 36.5 EUR) (40.00 %  de descuento) en el siguiente enlace!

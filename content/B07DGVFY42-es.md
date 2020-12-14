@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DGVFY42/?tag=tolees-21'
 descuento: '58.52'
+average: '26.96'
 ---
 
 Está [Nike Mach Runner  Zapatillas de Running para Hombre   White/Black/Neutral Grey 100   38.5 EU](https://www.amazon.es/dp/B07DGVFY42/?tag=tolees-21) con 58.52 de descuento por 26.96 EUR (original: 65 EUR) en el siguiente enlace!

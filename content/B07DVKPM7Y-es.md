@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DVKPM7Y/?tag=tolees-21'
 descuento: '45.06'
+average: '49.45'
 ---
 
 Ahora mismo tienes [New Balance 574v2  Entrenadores para Hombre  Negro Black/Red  42 EU](https://www.amazon.es/dp/B07DVKPM7Y/?tag=tolees-21) a 49.45 EUR (original: 90 EUR) (45.06 %  de descuento) en el siguiente enlace!

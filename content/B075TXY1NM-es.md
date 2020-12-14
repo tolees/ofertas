@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075TXY1NM/?tag=tolees-21'
 descuento: '62.15'
+average: '2.99'
 ---
 
 Está [Silver HT 93036 - Cable impresora USB tipo A y B de 1.5 m  color negro](https://www.amazon.es/dp/B075TXY1NM/?tag=tolees-21) con 62.15 de descuento por 2.99 EUR (original: 7.9 EUR) en el siguiente enlace!

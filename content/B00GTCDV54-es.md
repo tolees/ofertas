@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00GTCDV54/?tag=tolees-21'
 descuento: '39.99'
+average: '54'
 ---
 
 Tienes [Sailor Moon- Figura  Bandai BDISM856104 ](https://www.amazon.es/dp/B00GTCDV54/?tag=tolees-21) con un 39.99 % de descuento con precio de oferta de 54 EUR (original: 89.99 EUR) en el siguiente enlace!

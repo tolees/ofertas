@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00RF4PM20/?tag=tolees-21'
 descuento: '44.76'
+average: '20.99'
 ---
 
 Tienes [SYROKAN - Sujetador Deportivo Espalda Deportiva con Cremallera para Mujer Negro ES:105D  EU 90D ](https://www.amazon.es/dp/B00RF4PM20/?tag=tolees-21) con un 44.76 % de descuento con precio de oferta de 20.99 EUR (original: 38 EUR) en el siguiente enlace!

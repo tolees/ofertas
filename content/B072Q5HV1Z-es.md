@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072Q5HV1Z/?tag=tolees-21'
 descuento: '30.01'
+average: '41.96'
 ---
 
 Tienes [Cressi Summer-Neoprene 2.5 Mm Traje de Buceo  Hombre  Negro  S](https://www.amazon.es/dp/B072Q5HV1Z/?tag=tolees-21) con un 30.01 % de descuento con precio de oferta de 41.96 EUR (original: 59.95 EUR) en el siguiente enlace!

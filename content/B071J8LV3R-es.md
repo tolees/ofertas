@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071J8LV3R/?tag=tolees-21'
 descuento: '51.02'
+average: '13.99'
 ---
 
 Está [Pretender Maletín de Médico con Accesorios para Juego de rol para Niños 3 Años  Azul](https://www.amazon.es/dp/B071J8LV3R/?tag=tolees-21) con 51.02 de descuento por 13.99 EUR (original: 28.56 EUR) en el siguiente enlace!

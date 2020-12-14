@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00DS0ZSFQ/?tag=tolees-21'
 descuento: '33.99'
+average: '49.9'
 ---
 
 Tienes [Shimano PDR550L - Spd-Sl R550  color negro](https://www.amazon.es/dp/B00DS0ZSFQ/?tag=tolees-21) con un 33.99 % de descuento con precio de oferta de 49.9 EUR (original: 75.6 EUR) en el siguiente enlace!

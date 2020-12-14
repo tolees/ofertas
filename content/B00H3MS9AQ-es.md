@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00H3MS9AQ/?tag=tolees-21'
 descuento: '36.24'
+average: '15.27'
 ---
 
 Tienes [Cobeco Body Lube AnalLube WB Bottle Lubricante - 500 ml](https://www.amazon.es/dp/B00H3MS9AQ/?tag=tolees-21) con un 36.24 % de descuento con precio de oferta de 15.27 EUR (original: 23.95 EUR) en el siguiente enlace!

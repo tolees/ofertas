@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XCZM5KQ/?tag=tolees-21'
 descuento: '70.55'
+average: '14.72'
 ---
 
 Ahora mismo tienes [Cortefiel 7567782  Bermuda para Hombre  Azul Claro  40](https://www.amazon.es/dp/B06XCZM5KQ/?tag=tolees-21) a 14.72 EUR (original: 49.99 EUR) (70.55 %  de descuento) en el siguiente enlace!

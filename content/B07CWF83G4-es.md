@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CWF83G4/?tag=tolees-21'
 descuento: '72.74'
+average: '14.99'
 ---
 
 Está [Loveusexy Soft Bullet rotaciš®n vibra-dor de silicona empujando potente estimulaciš®n del pun-to G de las mujeres clšªt-oris consol-ador](https://www.amazon.es/dp/B07CWF83G4/?tag=tolees-21) con 72.74 de descuento por 14.99 EUR (original: 54.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00W4W1K2Y/?tag=tolees-21'
 descuento: '68.48'
+average: '50.11'
 ---
 
 Está [Mjus 584202 - Botas de caño bajo de Piel Mujer  Color Gris  Talla 37](https://www.amazon.es/dp/B00W4W1K2Y/?tag=tolees-21) con 68.48 de descuento por 50.11 EUR (original: 159 EUR) en el siguiente enlace!

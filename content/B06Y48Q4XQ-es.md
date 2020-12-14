@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y48Q4XQ/?tag=tolees-21'
 descuento: '72.31'
+average: '13.84'
 ---
 
 Está [SELECTED FEMME Sflivana LS Knit V-Neck Noos suéter  Gris  Light Grey Melange   36  Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B06Y48Q4XQ/?tag=tolees-21) con 72.31 de descuento por 13.84 EUR (original: 49.99 EUR) en el siguiente enlace!

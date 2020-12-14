@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001F33GGQ/?tag=tolees-21'
 descuento: '56.69'
+average: '15.98'
 ---
 
 Está [Living Kitzbühel T-Modell uni 1446 - Zapatillas de casa para niños  Azul  Blau  nachtblau 590    23](https://www.amazon.es/dp/B001F33GGQ/?tag=tolees-21) con 56.69 de descuento por 15.98 EUR (original: 36.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GST2NR4/?tag=tolees-21'
 descuento: '26.02'
+average: '18.79'
 ---
 
 Está [Luces De Espiga de Jardín - GreeSuit Bolardo de Luz Solar Para Jardín Luces de Poste Solares Led de Jardín Camino de Acero Inoxidable Tubo Impermeable Seguridad al Aire Libre - 4 Paquetes  luz blanca ](https://www.amazon.es/dp/B07GST2NR4/?tag=tolees-21) con 26.02 de descuento por 18.79 EUR (original: 25.4 EUR) en el siguiente enlace!

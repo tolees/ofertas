@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00VH3HO6C/?tag=tolees-21'
 descuento: '43.19'
+average: '358'
 ---
 
 Tienes [Asus MG279Q - Monitor gaming 27"  2K WQHD  1ms  144 Hz  AMD FreeSync  GamePlus  Ultra-Low Blue Light  Flicker-Free  Panel IPS  HDMI  DisplayPort 1.2 USB 3.0  regulable en altura y giro  Negro](https://www.amazon.es/dp/B00VH3HO6C/?tag=tolees-21) con un 43.19 % de descuento con precio de oferta de 358 EUR (original: 630.21 EUR) en el siguiente enlace!

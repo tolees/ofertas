@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BL2X23X/?tag=tolees-21'
 descuento: '54.14'
+average: '34.39'
 ---
 
 Ahora mismo tienes [New Balance Wl220tpb  Zapatillas para Mujer  Negro  Black/White Tpb   37.5 EU](https://www.amazon.es/dp/B07BL2X23X/?tag=tolees-21) a 34.39 EUR (original: 74.99 EUR) (54.14 %  de descuento) en el siguiente enlace!

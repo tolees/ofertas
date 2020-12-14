@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ3BWWR/?tag=tolees-21'
 descuento: '37.15'
+average: '47.14'
 ---
 
 Está [New Balance 410  Zapatillas Unisex Adulto  Azul  Navy/White Orange   42.5 EU](https://www.amazon.es/dp/B07DJ3BWWR/?tag=tolees-21) con 37.15 de descuento por 47.14 EUR (original: 75 EUR) en el siguiente enlace!

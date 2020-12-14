@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00CKIOI3U/?tag=tolees-21'
 descuento: '49.88'
+average: '30.59'
 ---
 
 Tienes [BSN True Mass Ganador en Polvo  Vainilla - 2640 g](https://www.amazon.es/dp/B00CKIOI3U/?tag=tolees-21) con un 49.88 % de descuento con precio de oferta de 30.59 EUR (original: 61.03 EUR) en el siguiente enlace!

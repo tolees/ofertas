@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000NOTIUQ/?tag=tolees-21'
 descuento: '38.22'
+average: '30.95'
 ---
 
 Tienes [SHIMANO PDR540 Pedales  Unisex  Negro  Talla Única](https://www.amazon.es/dp/B000NOTIUQ/?tag=tolees-21) con un 38.22 % de descuento con precio de oferta de 30.95 EUR (original: 50.1 EUR) en el siguiente enlace!

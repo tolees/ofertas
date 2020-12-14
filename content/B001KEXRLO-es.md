@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001KEXRLO/?tag=tolees-21'
 descuento: '34.99'
+average: '146.69'
 ---
 
 Está [SEIKO SNKE06K1 - Reloj de Caballero movimiento automático con brazalete metálico](https://www.amazon.es/dp/B001KEXRLO/?tag=tolees-21) con 34.99 de descuento por 146.69 EUR (original: 225.65 EUR) en el siguiente enlace!

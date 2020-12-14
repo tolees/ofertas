@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00U7Y2HW8/?tag=tolees-21'
 descuento: '68.09'
+average: '7.5'
 ---
 
 Ahora mismo tienes [Velbon Ultra Selfie](https://www.amazon.es/dp/B00U7Y2HW8/?tag=tolees-21) a 7.5 EUR (original: 23.5 EUR) (68.09 %  de descuento) en el siguiente enlace!

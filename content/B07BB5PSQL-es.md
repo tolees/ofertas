@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BB5PSQL/?tag=tolees-21'
 descuento: '61.40'
+average: '13.51'
 ---
 
 Tienes [The North Face Y 1/4 Zip Forro Polar Glacier  Unisex niños  New Taupe Green  XS](https://www.amazon.es/dp/B07BB5PSQL/?tag=tolees-21) con un 61.40 % de descuento con precio de oferta de 13.51 EUR (original: 35 EUR) en el siguiente enlace!

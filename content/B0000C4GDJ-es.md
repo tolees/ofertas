@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0000C4GDJ/?tag=tolees-21'
 descuento: '47.02'
+average: '28.92'
 ---
 
 Está [Canon EW-75II - Parasol para objetivos Canon EF 20mm f/2.8  negro](https://www.amazon.es/dp/B0000C4GDJ/?tag=tolees-21) con 47.02 de descuento por 28.92 EUR (original: 54.59 EUR) en el siguiente enlace!

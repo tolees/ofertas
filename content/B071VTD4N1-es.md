@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071VTD4N1/?tag=tolees-21'
 descuento: '57.16'
+average: '19.28'
 ---
 
 Está [Under Armour Armour Capri Novelty Q2 Leggings  Mujer  Rojo  564   L](https://www.amazon.es/dp/B071VTD4N1/?tag=tolees-21) con 57.16 de descuento por 19.28 EUR (original: 45 EUR) en el siguiente enlace!

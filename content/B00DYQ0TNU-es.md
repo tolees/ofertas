@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00DYQ0TNU/?tag=tolees-21'
 descuento: '30.85'
+average: '12.44'
 ---
 
 Tienes [Sheridan s Coffee layered Likör - 1 x 0.5 l](https://www.amazon.es/dp/B00DYQ0TNU/?tag=tolees-21) con un 30.85 % de descuento con precio de oferta de 12.44 EUR (original: 17.99 EUR) en el siguiente enlace!

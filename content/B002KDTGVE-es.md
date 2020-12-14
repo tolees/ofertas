@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002KDTGVE/?tag=tolees-21'
 descuento: '30.66'
+average: '14.7'
 ---
 
 Ahora mismo tienes [Heliocare Gel SPF50-50 ml](https://www.amazon.es/dp/B002KDTGVE/?tag=tolees-21) a 14.7 EUR (original: 21.2 EUR) (30.66 %  de descuento) en el siguiente enlace!

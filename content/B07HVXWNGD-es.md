@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HVXWNGD/?tag=tolees-21'
 descuento: '29.17'
+average: '169.99'
 ---
 
 Está [DVR Kit de Vigilancia  FLOUREON CCTV Seguridad Sistema de DVR 4CH 5MP Video Recorder No Disco Duro  4X 5MP Cámara CCTV Interior/Exterior para Monitoreo Remoto/Detección de Movimiento/Visión Nocturna](https://www.amazon.es/dp/B07HVXWNGD/?tag=tolees-21) con 29.17 de descuento por 169.99 EUR (original: 239.99 EUR) en el siguiente enlace!

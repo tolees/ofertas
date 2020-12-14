@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007XHK69S/?tag=tolees-21'
 descuento: '41.15'
+average: '22.54'
 ---
 
 Está [Fleshjack Consolador Hombre - 300 gr](https://www.amazon.es/dp/B007XHK69S/?tag=tolees-21) con 41.15 de descuento por 22.54 EUR (original: 38.3 EUR) en el siguiente enlace!

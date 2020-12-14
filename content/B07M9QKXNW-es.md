@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M9QKXNW/?tag=tolees-21'
 descuento: '58.57'
+average: '49.7'
 ---
 
 Está [G-STAR RAW Blossite Army High Waist Skinny Pantalones  Gris  Asfalt A791-995   29W / 32L para Mujer](https://www.amazon.es/dp/B07M9QKXNW/?tag=tolees-21) con 58.57 de descuento por 49.7 EUR (original: 119.95 EUR) en el siguiente enlace!

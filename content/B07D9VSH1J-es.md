@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9VSH1J/?tag=tolees-21'
 descuento: '55.92'
+average: '22.02'
 ---
 
 Ahora mismo tienes [Puma One 4 Syn It  Zapatillas de Fútbol para Hombre  Azul  Sodalite Blue Silver-Peacoat 03   47 EU](https://www.amazon.es/dp/B07D9VSH1J/?tag=tolees-21) a 22.02 EUR (original: 49.95 EUR) (55.92 %  de descuento) en el siguiente enlace!

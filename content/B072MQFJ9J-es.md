@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072MQFJ9J/?tag=tolees-21'
 descuento: '35.26'
+average: '55'
 ---
 
 Tienes [Casals VDLI14M-2 - Taladro atornillador con batería de litio de 14.4 V  1 5 A-h  750 rpm  28 N-m  con batería adicional y maletín  color verde y negro](https://www.amazon.es/dp/B072MQFJ9J/?tag=tolees-21) con un 35.26 % de descuento con precio de oferta de 55 EUR (original: 84.95 EUR) en el siguiente enlace!

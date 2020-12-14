@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K38VSD6/?tag=tolees-21'
 descuento: '30.03'
+average: '34.95'
 ---
 
 Tienes [Adidas Runfalcon  Zapatillas de Running para Hombre  Nero Core Black  46 EU](https://www.amazon.es/dp/B07K38VSD6/?tag=tolees-21) con un 30.03 % de descuento con precio de oferta de 34.95 EUR (original: 49.95 EUR) en el siguiente enlace!

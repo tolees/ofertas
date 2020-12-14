@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJBDZ1G/?tag=tolees-21'
 descuento: '62.39'
+average: '22.55'
 ---
 
 Ahora mismo tienes [Dockers by Gerli 35iz323  Botas Altas para Mujer  Gris  Taupe 430   38 EU](https://www.amazon.es/dp/B07DJBDZ1G/?tag=tolees-21) a 22.55 EUR (original: 59.95 EUR) (62.39 %  de descuento) en el siguiente enlace!

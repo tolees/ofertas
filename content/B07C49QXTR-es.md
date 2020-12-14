@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C49QXTR/?tag=tolees-21'
 descuento: '66.67'
+average: '99.99'
 ---
 
 Ahora mismo tienes [Charlie & Finn Puf Giga XXL en Negro Noche – Funda Aterciopelada Muy cómoda con Espuma viscoelástica – Cama Gigante  sofá Largo  Tumbona acogedora  colchón Genial - Niños  Adultos y Adolescentes](https://www.amazon.es/dp/B07C49QXTR/?tag=tolees-21) a 99.99 EUR (original: 299.99 EUR) (66.67 %  de descuento) en el siguiente enlace!

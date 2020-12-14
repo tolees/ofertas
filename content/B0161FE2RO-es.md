@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0161FE2RO/?tag=tolees-21'
 descuento: '73.08'
+average: '13.45'
 ---
 
 Está [Bresser SS-28 Carpa de Foto + Power Softbox con portalámpara 70x70cm](https://www.amazon.es/dp/B0161FE2RO/?tag=tolees-21) con 73.08 de descuento por 13.45 EUR (original: 49.96 EUR) en el siguiente enlace!

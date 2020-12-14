@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BQZKVQ3/?tag=tolees-21'
 descuento: '46.82'
+average: '24.41'
 ---
 
 Está [Kelme Olimpo JR  Zapatillas de fútbol Sala para Niños   Blanco 6   34 EU](https://www.amazon.es/dp/B07BQZKVQ3/?tag=tolees-21) con 46.82 de descuento por 24.41 EUR (original: 45.9 EUR) en el siguiente enlace!

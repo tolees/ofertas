@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00JM6EBHG/?tag=tolees-21'
 descuento: '42.45'
+average: '74.81'
 ---
 
 Tienes [QardioArm -Tensiómetro Inalámbrico para iOS y Android  Color Blanco Polar](https://www.amazon.es/dp/B00JM6EBHG/?tag=tolees-21) con un 42.45 % de descuento con precio de oferta de 74.81 EUR (original: 129.99 EUR) en el siguiente enlace!

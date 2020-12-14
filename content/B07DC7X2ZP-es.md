@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC7X2ZP/?tag=tolees-21'
 descuento: '54.57'
+average: '22.69'
 ---
 
 Está [Puma One 19.4 MG  Zapatillas de Fútbol para Hombre  Azul  Bleu Azur-Red Blast Black   42.5 EU](https://www.amazon.es/dp/B07DC7X2ZP/?tag=tolees-21) con 54.57 de descuento por 22.69 EUR (original: 49.95 EUR) en el siguiente enlace!

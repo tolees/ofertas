@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IPHBZ1I/?tag=tolees-21'
 descuento: '66.56'
+average: '10'
 ---
 
 Está [Yoffee Clear Purity Nail- Tratamiento de Uñas de los hongos  Apto para dedos y pedicura  con árbol de té y aceite de argán  10 ml](https://www.amazon.es/dp/B00IPHBZ1I/?tag=tolees-21) con 66.56 de descuento por 10 EUR (original: 29.9 EUR) en el siguiente enlace!

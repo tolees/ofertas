@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CJ3DP8M/?tag=tolees-21'
 descuento: '53.50'
+average: '8.38'
 ---
 
 Tienes [Only Onldarling L/s Top Jrs  suéter Mujer  Azul  Night Sky   36  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B07CJ3DP8M/?tag=tolees-21) con un 53.50 % de descuento con precio de oferta de 8.38 EUR (original: 18.02 EUR) en el siguiente enlace!

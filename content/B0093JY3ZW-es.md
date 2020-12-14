@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0093JY3ZW/?tag=tolees-21'
 descuento: '47.75'
+average: '32.16'
 ---
 
 Tienes [Alyssa Ashley 35330 - Agua de perfume  100 ml](https://www.amazon.es/dp/B0093JY3ZW/?tag=tolees-21) con un 47.75 % de descuento con precio de oferta de 32.16 EUR (original: 61.55 EUR) en el siguiente enlace!

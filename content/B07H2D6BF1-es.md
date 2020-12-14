@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H2D6BF1/?tag=tolees-21'
 descuento: '26.01'
+average: '36.99'
 ---
 
 Está [FLOUREON Cámara IP Inalámbrica WiFi Cámara de Vigilancia Seguridad Interior 1080P con Ranura para Tarjeta SD Detección de Movimiento Visión Nocturna IR-Cut Remota P2P Control con iOS Android Blanco](https://www.amazon.es/dp/B07H2D6BF1/?tag=tolees-21) con 26.01 de descuento por 36.99 EUR (original: 49.99 EUR) en el siguiente enlace!

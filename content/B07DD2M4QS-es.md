@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DD2M4QS/?tag=tolees-21'
 descuento: '39.47'
+average: '27.21'
 ---
 
 Está [Odlo Midlayer 1/2 Zip Core Light Forro Polar  Hombre  Azul  Jewel  / Negro  M](https://www.amazon.es/dp/B07DD2M4QS/?tag=tolees-21) con 39.47 de descuento por 27.21 EUR (original: 44.95 EUR) en el siguiente enlace!

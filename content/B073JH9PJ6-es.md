@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073JH9PJ6/?tag=tolees-21'
 descuento: '40.00'
+average: '59.99'
 ---
 
 Está [INFINIKIT Haven Mueble TV - Roble Gris](https://www.amazon.es/dp/B073JH9PJ6/?tag=tolees-21) con 40.00 de descuento por 59.99 EUR (original: 99.99 EUR) en el siguiente enlace!

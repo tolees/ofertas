@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MDBJSXQ/?tag=tolees-21'
 descuento: '54.47'
+average: '36.4'
 ---
 
 Está [G-STAR RAW 3301 1\2  Pantalones cortos para Hombre  Azul  sartho blue 6067   W33](https://www.amazon.es/dp/B07MDBJSXQ/?tag=tolees-21) con 54.47 de descuento por 36.4 EUR (original: 79.95 EUR) en el siguiente enlace!

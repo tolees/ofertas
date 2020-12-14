@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G7TJG61/?tag=tolees-21'
 descuento: '59.23'
+average: '32.62'
 ---
 
 Tienes [Nike The Premier II  Zapatillas de fútbol Sala Unisex Adulto  Desert Sand/White 010  45.5 EU](https://www.amazon.es/dp/B07G7TJG61/?tag=tolees-21) con un 59.23 % de descuento con precio de oferta de 32.62 EUR (original: 80 EUR) en el siguiente enlace!

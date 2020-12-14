@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073RJXKPD/?tag=tolees-21'
 descuento: '62.69'
+average: '24.23'
 ---
 
 Está [Reebok Trainflex Lite  Zapatillas de Deporte para Mujer  Gris  Cloud Grey/Electric Flash/White  37.5 EU](https://www.amazon.es/dp/B073RJXKPD/?tag=tolees-21) con 62.69 de descuento por 24.23 EUR (original: 64.95 EUR) en el siguiente enlace!

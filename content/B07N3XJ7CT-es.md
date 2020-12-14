@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N3XJ7CT/?tag=tolees-21'
 descuento: '60.07'
+average: '5.99'
 ---
 
 Ahora mismo tienes [SYOSS - Hair Mascara - Cubre Canas - Color Castaño Chocolate - 2 uds de 16ml](https://www.amazon.es/dp/B07N3XJ7CT/?tag=tolees-21) a 5.99 EUR (original: 15 EUR) (60.07 %  de descuento) en el siguiente enlace!

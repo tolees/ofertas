@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KFJGG3X/?tag=tolees-21'
 descuento: '43.04'
+average: '28.45'
 ---
 
 Está [G-STAR RAW Dunda Slim Polo S\\s  sartho blue 6067  Small para Hombre](https://www.amazon.es/dp/B07KFJGG3X/?tag=tolees-21) con 43.04 de descuento por 28.45 EUR (original: 49.95 EUR) en el siguiente enlace!

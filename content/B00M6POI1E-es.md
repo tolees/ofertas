@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00M6POI1E/?tag=tolees-21'
 descuento: '55.69'
+average: '4.87'
 ---
 
 Está [Philips Avent Magic - Taza antigoteo de 260 ml  color negro](https://www.amazon.es/dp/B00M6POI1E/?tag=tolees-21) con 55.69 de descuento por 4.87 EUR (original: 10.99 EUR) en el siguiente enlace!

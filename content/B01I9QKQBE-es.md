@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01I9QKQBE/?tag=tolees-21'
 descuento: '34.44'
+average: '238.89'
 ---
 
 Está [Anker Eufy by Anker - Robovac 11  T2102311 ](https://www.amazon.es/dp/B01I9QKQBE/?tag=tolees-21) con 34.44 de descuento por 238.89 EUR (original: 364.4 EUR) en el siguiente enlace!

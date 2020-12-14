@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00UBMR8YS/?tag=tolees-21'
 descuento: '50.54'
+average: '12.36'
 ---
 
 Ahora mismo tienes [Trust Urban - Soporte de móviles para coches  color negro](https://www.amazon.es/dp/B00UBMR8YS/?tag=tolees-21) a 12.36 EUR (original: 24.99 EUR) (50.54 %  de descuento) en el siguiente enlace!

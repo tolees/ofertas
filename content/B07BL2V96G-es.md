@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BL2V96G/?tag=tolees-21'
 descuento: '65.41'
+average: '31.13'
 ---
 
 Tienes [New Balance 997H  Zapatillas para Mujer  Negro  Black/Air   39 EU](https://www.amazon.es/dp/B07BL2V96G/?tag=tolees-21) con un 65.41 % de descuento con precio de oferta de 31.13 EUR (original: 90 EUR) en el siguiente enlace!

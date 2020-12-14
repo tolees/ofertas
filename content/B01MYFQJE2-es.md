@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MYFQJE2/?tag=tolees-21'
 descuento: '61.99'
+average: '19'
 ---
 
 Tienes [Panasonic Wings RP-BTS10E-A - Auriculares Deportivos In-Ear con Bluetooth  Azul](https://www.amazon.es/dp/B01MYFQJE2/?tag=tolees-21) con un 61.99 % de descuento con precio de oferta de 19 EUR (original: 49.99 EUR) en el siguiente enlace!

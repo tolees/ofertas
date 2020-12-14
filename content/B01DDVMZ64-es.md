@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DDVMZ64/?tag=tolees-21'
 descuento: '34.67'
+average: '4.9'
 ---
 
 Ahora mismo tienes [adidas Pádel OV - Set overgrip  Color Rosa  Talla única](https://www.amazon.es/dp/B01DDVMZ64/?tag=tolees-21) a 4.9 EUR (original: 7.5 EUR) (34.67 %  de descuento) en el siguiente enlace!

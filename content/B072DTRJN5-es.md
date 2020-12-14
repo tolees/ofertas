@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072DTRJN5/?tag=tolees-21'
 descuento: '40.00'
+average: '149.99'
 ---
 
 Ahora mismo tienes [Acer ES1-132-C9NX - Ordenador Portátil de 11.6" HD  Intel Celeron N3350  2 GB RAM  32 GB eMMc  Bluetooth 4.0  Windows 10 ; Negro - Teclado QWERTY Español](https://www.amazon.es/dp/B072DTRJN5/?tag=tolees-21) a 149.99 EUR (original: 249.99 EUR) (40.00 %  de descuento) en el siguiente enlace!

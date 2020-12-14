@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075SCVXYV/?tag=tolees-21'
 descuento: '70.47'
+average: '53.16'
 ---
 
 Tienes [Gant The Crüe  suéter Mujer  Gris  Grey Melange   10  Talla del Fabricante: Small ](https://www.amazon.es/dp/B075SCVXYV/?tag=tolees-21) con un 70.47 % de descuento con precio de oferta de 53.16 EUR (original: 179.99 EUR) en el siguiente enlace!

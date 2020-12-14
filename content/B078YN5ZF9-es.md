@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078YN5ZF9/?tag=tolees-21'
 descuento: '75.91'
+average: '7.71'
 ---
 
 Ahora mismo tienes [Emporio Armani Underwear 111389  Pantalones Cortos para Hombre  Azul  Marine 00135  Small](https://www.amazon.es/dp/B078YN5ZF9/?tag=tolees-21) a 7.71 EUR (original: 32 EUR) (75.91 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078GPKL66/?tag=tolees-21'
 descuento: '43.70'
+average: '33.75'
 ---
 
 Tienes [Skechers You Define-Allegra  Zapatillas sin Cordones para Mujer  Morado  Mauve MVE   41 EU](https://www.amazon.es/dp/B078GPKL66/?tag=tolees-21) con un 43.70 % de descuento con precio de oferta de 33.75 EUR (original: 59.95 EUR) en el siguiente enlace!

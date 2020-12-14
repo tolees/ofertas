@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NAUI1OT/?tag=tolees-21'
 descuento: '61.58'
+average: '9.6'
 ---
 
 Ahora mismo tienes [Only Onlhollie L/s Pullover Knit - Box  suéter Mujer  Gris  Light Grey Melange Print:w Silver Foil Print   40  Talla del Fabricante: Large ](https://www.amazon.es/dp/B01NAUI1OT/?tag=tolees-21) a 9.6 EUR (original: 24.99 EUR) (61.58 %  de descuento) en el siguiente enlace!

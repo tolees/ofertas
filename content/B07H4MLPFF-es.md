@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H4MLPFF/?tag=tolees-21'
 descuento: '70.01'
+average: '29.99'
 ---
 
 Ahora mismo tienes [Envasadora al Vacío  Padi Home  Maquina de Vacío Portátil Multifuncional Envasadora Vacío para Frutas  Verduras y Carne con 10pcs Bolsas de Vacío Profesionales](https://www.amazon.es/dp/B07H4MLPFF/?tag=tolees-21) a 29.99 EUR (original: 100 EUR) (70.01 %  de descuento) en el siguiente enlace!

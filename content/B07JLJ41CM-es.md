@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JLJ41CM/?tag=tolees-21'
 descuento: '34.55'
+average: '71.99'
 ---
 
 Tienes [ENKEEO Portaesquíes Antirrobos de Aluminio con Kit de Instalaciones  21 Pulgadas para 6 Pares de Esquís o 4 Tablas de Snowboard](https://www.amazon.es/dp/B07JLJ41CM/?tag=tolees-21) con un 34.55 % de descuento con precio de oferta de 71.99 EUR (original: 109.99 EUR) en el siguiente enlace!

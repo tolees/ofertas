@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071DQSQ2C/?tag=tolees-21'
 descuento: '70.01'
+average: '17.99'
 ---
 
 Está [UCEC Capturadora de Video USB 2.0 Captura de Video y Audio con Cable de Transferencia USB 2.0 - Tarjeta Adaptador VHS VCR TV a DVD Compatible con Win 2000 / Win XP/Win Vista/Win 7 / Win 8 / Win 10](https://www.amazon.es/dp/B071DQSQ2C/?tag=tolees-21) con 70.01 de descuento por 17.99 EUR (original: 59.99 EUR) en el siguiente enlace!

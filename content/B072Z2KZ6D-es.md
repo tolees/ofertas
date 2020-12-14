@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072Z2KZ6D/?tag=tolees-21'
 descuento: '48.59'
+average: '8.2'
 ---
 
 Ahora mismo tienes [Marvel- Figura de Vinilo Thor  Funko 13763 ](https://www.amazon.es/dp/B072Z2KZ6D/?tag=tolees-21) a 8.2 EUR (original: 15.95 EUR) (48.59 %  de descuento) en el siguiente enlace!

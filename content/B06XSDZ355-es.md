@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XSDZ355/?tag=tolees-21'
 descuento: '67.13'
+average: '32.87'
 ---
 
 Está [New Balance Mxvadov1  Zapatillas Deportivas para Interior para Hombre  Negro  Black   45 EU](https://www.amazon.es/dp/B06XSDZ355/?tag=tolees-21) con 67.13 de descuento por 32.87 EUR (original: 100 EUR) en el siguiente enlace!

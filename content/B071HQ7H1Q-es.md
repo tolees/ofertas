@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071HQ7H1Q/?tag=tolees-21'
 descuento: '77.42'
+average: '11.28'
 ---
 
 Está [Marco Tozzi 25054  Botas Chelsea para Mujer  Marrón  Taupe Comb   36 EU](https://www.amazon.es/dp/B071HQ7H1Q/?tag=tolees-21) con 77.42 de descuento por 11.28 EUR (original: 49.95 EUR) en el siguiente enlace!

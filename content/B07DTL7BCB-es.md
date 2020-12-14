@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DTL7BCB/?tag=tolees-21'
 descuento: '53.25'
+average: '60.77'
 ---
 
 Ahora mismo tienes [Lacoste Ph9363  Polo para Hombre  Blanco Flour B5l  XX-Large  Talla del Fabricante: 7 ](https://www.amazon.es/dp/B07DTL7BCB/?tag=tolees-21) a 60.77 EUR (original: 130 EUR) (53.25 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077RZ6SN7/?tag=tolees-21'
 descuento: '47.57'
+average: '18.35'
 ---
 
 Tienes [BILLABONG All Day LB 16 Bañador  Hombre  Navy  M](https://www.amazon.es/dp/B077RZ6SN7/?tag=tolees-21) con un 47.57 % de descuento con precio de oferta de 18.35 EUR (original: 35 EUR) en el siguiente enlace!

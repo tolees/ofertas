@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078QMQFR6/?tag=tolees-21'
 descuento: '40.58'
+average: '59.42'
 ---
 
 Tienes [The North Face Kids TNF Chaquetas  Niñas  Periscope Grey  XL](https://www.amazon.es/dp/B078QMQFR6/?tag=tolees-21) con un 40.58 % de descuento con precio de oferta de 59.42 EUR (original: 100 EUR) en el siguiente enlace!

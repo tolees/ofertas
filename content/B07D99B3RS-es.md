@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D99B3RS/?tag=tolees-21'
 descuento: '54.86'
+average: '27.06'
 ---
 
 Está [adidas X Tango 18.3 TF  Zapatillas de Fútbol para Niños  Amarillo Core Black/Solar Yellow 0  38 2/3 EU](https://www.amazon.es/dp/B07D99B3RS/?tag=tolees-21) con 54.86 de descuento por 27.06 EUR (original: 59.95 EUR) en el siguiente enlace!

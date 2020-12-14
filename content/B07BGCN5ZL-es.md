@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BGCN5ZL/?tag=tolees-21'
 descuento: '77.77'
+average: '14.44'
 ---
 
 Tienes [Clarks Crown Piper  Botas Slouch para Niñas  Rosa  Pink Suede   22 EU](https://www.amazon.es/dp/B07BGCN5ZL/?tag=tolees-21) con un 77.77 % de descuento con precio de oferta de 14.44 EUR (original: 64.95 EUR) en el siguiente enlace!

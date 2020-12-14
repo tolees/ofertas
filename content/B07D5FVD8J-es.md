@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D5FVD8J/?tag=tolees-21'
 descuento: '47.51'
+average: '41.99'
 ---
 
 Ahora mismo tienes [San Ignacio Set Master Batería De Cocina Gourmet  Aluminio Prensado  Gris Oscuro  Cacerola De Ø20 Wok De Ø28 Y Sartén Grill De 28X28](https://www.amazon.es/dp/B07D5FVD8J/?tag=tolees-21) a 41.99 EUR (original: 80 EUR) (47.51 %  de descuento) en el siguiente enlace!

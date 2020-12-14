@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003JD2KBM/?tag=tolees-21'
 descuento: '73.17'
+average: '7.97'
 ---
 
 Ahora mismo tienes [Philips Regleta](https://www.amazon.es/dp/B003JD2KBM/?tag=tolees-21) a 7.97 EUR (original: 29.71 EUR) (73.17 %  de descuento) en el siguiente enlace!

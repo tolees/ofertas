@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00CAKRYFC/?tag=tolees-21'
 descuento: '41.60'
+average: '9.49'
 ---
 
 Tienes [Gloss - caja de baño  caja de regalo para mujeres - Set de Baño Regalo - Wild Garden - Magnolia](https://www.amazon.es/dp/B00CAKRYFC/?tag=tolees-21) con un 41.60 % de descuento con precio de oferta de 9.49 EUR (original: 16.25 EUR) en el siguiente enlace!

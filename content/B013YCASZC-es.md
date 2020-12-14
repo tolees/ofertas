@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B013YCASZC/?tag=tolees-21'
 descuento: '40.90'
+average: '15'
 ---
 
 Está [Bestway - Nave Espacial X-Fighter Hinchable  91206 ](https://www.amazon.es/dp/B013YCASZC/?tag=tolees-21) con 40.90 de descuento por 15 EUR (original: 25.38 EUR) en el siguiente enlace!

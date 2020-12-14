@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B015QMDUZS/?tag=tolees-21'
 descuento: '50.98'
+average: '5'
 ---
 
 Tienes [Ghost In The Shell 2 Innocence [Blu-ray]](https://www.amazon.es/dp/B015QMDUZS/?tag=tolees-21) con un 50.98 % de descuento con precio de oferta de 5 EUR (original: 10.2 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GDG4Z4Z/?tag=tolees-21'
 descuento: '50.02'
+average: '11.99'
 ---
 
 Tienes [Awenia Toalla de Microfibra Deportiva Secado Rápido Absorbente Antibacteriana Toalla de Viaje Deporte Playa Portátil y Ligera  para Gimnasio  Natación  Yoga  Camping  60 * 120cm  Azul](https://www.amazon.es/dp/B07GDG4Z4Z/?tag=tolees-21) con un 50.02 % de descuento con precio de oferta de 11.99 EUR (original: 23.99 EUR) en el siguiente enlace!

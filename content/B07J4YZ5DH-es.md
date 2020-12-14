@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J4YZ5DH/?tag=tolees-21'
 descuento: '27.81'
+average: '6.49'
 ---
 
 Está [Ex Machina - Edición Horizontal [Blu-ray]](https://www.amazon.es/dp/B07J4YZ5DH/?tag=tolees-21) con 27.81 de descuento por 6.49 EUR (original: 8.99 EUR) en el siguiente enlace!

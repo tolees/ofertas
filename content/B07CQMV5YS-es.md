@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CQMV5YS/?tag=tolees-21'
 descuento: '30.00'
+average: '52.5'
 ---
 
 Tienes [American Tourister Holiday Heat - Upright Equipaje de Mano  55 cm  42 l  Gris  Metal Grey ](https://www.amazon.es/dp/B07CQMV5YS/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 52.5 EUR (original: 75 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N7N7TAU/?tag=tolees-21'
 descuento: '71.31'
+average: '32.99'
 ---
 
 Tienes [Asics Gel-Lyte Iii  Zapatillas Unisex Adulto  Negro  Black/black   36 EU](https://www.amazon.es/dp/B01N7N7TAU/?tag=tolees-21) con un 71.31 % de descuento con precio de oferta de 32.99 EUR (original: 115 EUR) en el siguiente enlace!

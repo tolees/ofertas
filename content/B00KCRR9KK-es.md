@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00KCRR9KK/?tag=tolees-21'
 descuento: '57.31'
+average: '19.21'
 ---
 
 Tienes [Vans Authentic  Zapatillas De Lona Infantil  Negro  Blk/Blk ENR   29 EU](https://www.amazon.es/dp/B00KCRR9KK/?tag=tolees-21) con un 57.31 % de descuento con precio de oferta de 19.21 EUR (original: 45 EUR) en el siguiente enlace!

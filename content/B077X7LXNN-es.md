@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077X7LXNN/?tag=tolees-21'
 descuento: '62.15'
+average: '6.43'
 ---
 
 Tienes [Only & Sons Onsgrigori Entry Sweatshorts  Pantalones para Hombre  Gris Light Grey Melange  54  Talla del Fabricante: Large ](https://www.amazon.es/dp/B077X7LXNN/?tag=tolees-21) con un 62.15 % de descuento con precio de oferta de 6.43 EUR (original: 16.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00FGRY5E4/?tag=tolees-21'
 descuento: '47.96'
+average: '37.99'
 ---
 
 Tienes [Philips myLiving Hever - Lámpara colgante  iluminación interior  casquillo E27  bombilla halógena  luz blanca cálida  IP20  clase de protección I  color blanco](https://www.amazon.es/dp/B00FGRY5E4/?tag=tolees-21) con un 47.96 % de descuento con precio de oferta de 37.99 EUR (original: 73 EUR) en el siguiente enlace!

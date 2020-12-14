@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072MPK5H1/?tag=tolees-21'
 descuento: '67.90'
+average: '21.38'
 ---
 
 Tienes [Vikingos - Temporada 1 a 4 [Blu-ray]](https://www.amazon.es/dp/B072MPK5H1/?tag=tolees-21) con un 67.90 % de descuento con precio de oferta de 21.38 EUR (original: 66.6 EUR) en el siguiente enlace!

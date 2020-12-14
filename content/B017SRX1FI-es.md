@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017SRX1FI/?tag=tolees-21'
 descuento: '44.69'
+average: '71.9'
 ---
 
 Tienes [Salomon Speedcross 4  Zapatillas de Running para Hombre  Gris  Dark Cloud/Black/Pearl Grey   44 EU](https://www.amazon.es/dp/B017SRX1FI/?tag=tolees-21) con un 44.69 % de descuento con precio de oferta de 71.9 EUR (original: 129.99 EUR) en el siguiente enlace!

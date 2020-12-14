@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FZ2KCMM/?tag=tolees-21'
 descuento: '45.46'
+average: '22.47'
 ---
 
 Tienes [Reebok Royal Complete CLN  Zapatillas de Deporte para Mujer   White/Twisted Pink 000   36.5 EU](https://www.amazon.es/dp/B07FZ2KCMM/?tag=tolees-21) con un 45.46 % de descuento con precio de oferta de 22.47 EUR (original: 41.2 EUR) en el siguiente enlace!

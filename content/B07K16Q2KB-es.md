@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K16Q2KB/?tag=tolees-21'
 descuento: '27.82'
+average: '8.95'
 ---
 
 Está [adidas Estro 19 JSY T-Shirt  Hombre  Maroon/White  L](https://www.amazon.es/dp/B07K16Q2KB/?tag=tolees-21) con 27.82 de descuento por 8.95 EUR (original: 12.4 EUR) en el siguiente enlace!

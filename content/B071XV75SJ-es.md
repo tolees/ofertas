@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071XV75SJ/?tag=tolees-21'
 descuento: '49.64'
+average: '16.99'
 ---
 
 Ahora mismo tienes [ATEPA Compact 800 Saco de Dormir Ultraligero Funda Estilo Momia para 2 - 3 Estaciones para el hogar  Acampada al Aire Libre  Senderismo y Festivales](https://www.amazon.es/dp/B071XV75SJ/?tag=tolees-21) a 16.99 EUR (original: 33.74 EUR) (49.64 %  de descuento) en el siguiente enlace!

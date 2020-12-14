@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792JVTJ9/?tag=tolees-21'
 descuento: '52.49'
+average: '19'
 ---
 
 Tienes [Quiksilver Crucial Battle Walk Shorts  Niños  Blue Nights  28/14](https://www.amazon.es/dp/B0792JVTJ9/?tag=tolees-21) con un 52.49 % de descuento con precio de oferta de 19 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XNWX5S9/?tag=tolees-21'
 descuento: '49.52'
+average: '11.08'
 ---
 
 Ahora mismo tienes [Joma 100761.102 Pantalones  Hombre  Negro/Blanco  XL](https://www.amazon.es/dp/B06XNWX5S9/?tag=tolees-21) a 11.08 EUR (original: 21.95 EUR) (49.52 %  de descuento) en el siguiente enlace!

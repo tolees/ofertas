@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077MLZ1KS/?tag=tolees-21'
 descuento: '50.79'
+average: '24.58'
 ---
 
 Tienes [Puma Smash V2 L  Zapatillas Unisex Adulto  Negro Black White  46 EU](https://www.amazon.es/dp/B077MLZ1KS/?tag=tolees-21) con un 50.79 % de descuento con precio de oferta de 24.58 EUR (original: 49.95 EUR) en el siguiente enlace!

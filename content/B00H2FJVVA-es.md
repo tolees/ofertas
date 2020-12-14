@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00H2FJVVA/?tag=tolees-21'
 descuento: '71.80'
+average: '12.69'
 ---
 
 Ahora mismo tienes [New Balance 410 Hook and Loop  Zapatillas de deporte Unisex Niños  Multicolor  Grey/Pink   18.5 EU](https://www.amazon.es/dp/B00H2FJVVA/?tag=tolees-21) a 12.69 EUR (original: 45 EUR) (71.80 %  de descuento) en el siguiente enlace!

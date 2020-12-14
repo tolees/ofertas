@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XJX5DW2/?tag=tolees-21'
 descuento: '54.33'
+average: '113.73'
 ---
 
 Está [TW steel-men de watch-vs37](https://www.amazon.es/dp/B06XJX5DW2/?tag=tolees-21) con 54.33 de descuento por 113.73 EUR (original: 249 EUR) en el siguiente enlace!

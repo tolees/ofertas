@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KCS5KNC/?tag=tolees-21'
 descuento: '59.62'
+average: '12.72'
 ---
 
 Tienes [David Jones - Cm3808  Bolsos totes Mujer  Rojo  Red   17x32x36 cm  W x H L ](https://www.amazon.es/dp/B07KCS5KNC/?tag=tolees-21) con un 59.62 % de descuento con precio de oferta de 12.72 EUR (original: 31.5 EUR) en el siguiente enlace!

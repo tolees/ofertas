@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NADSXA9/?tag=tolees-21'
 descuento: '36.53'
+average: '7.61'
 ---
 
 Está [Activewear Polo con Cuello y Mangas en Contraste para Hombre  Rojo  Oxblood   Medium](https://www.amazon.es/dp/B01NADSXA9/?tag=tolees-21) con 36.53 de descuento por 7.61 EUR (original: 11.99 EUR) en el siguiente enlace!

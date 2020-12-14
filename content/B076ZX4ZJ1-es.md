@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076ZX4ZJ1/?tag=tolees-21'
 descuento: '72.69'
+average: '31.4'
 ---
 
 Tienes [Set de Tacoma universal lavable  gran capacidad + Juego de 4 cuchillos San Ignacio Premium: Chef  Santoku  Multiusos y Pelador +  4 utensilios de cocina](https://www.amazon.es/dp/B076ZX4ZJ1/?tag=tolees-21) con un 72.69 % de descuento con precio de oferta de 31.4 EUR (original: 114.99 EUR) en el siguiente enlace!

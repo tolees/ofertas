@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01G6BFQ3C/?tag=tolees-21'
 descuento: '68.86'
+average: '58.39'
 ---
 
 Está [New Puma Blaze Of Glory New York Knicks Mens Trainers Size UK 6  EU 39 ](https://www.amazon.es/dp/B01G6BFQ3C/?tag=tolees-21) con 68.86 de descuento por 58.39 EUR (original: 187.5 EUR) en el siguiente enlace!

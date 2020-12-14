@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HT232KQ/?tag=tolees-21'
 descuento: '63.53'
+average: '13.99'
 ---
 
 Ahora mismo tienes [Reloj Deportivos para Niños Niño Niña Resistente al Agua Digital Impermeabl al Aire Libre LED Reloj Multifuncionales. Púrpura ](https://www.amazon.es/dp/B07HT232KQ/?tag=tolees-21) a 13.99 EUR (original: 38.36 EUR) (63.53 %  de descuento) en el siguiente enlace!

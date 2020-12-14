@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000Y8RY6Q/?tag=tolees-21'
 descuento: '33.80'
+average: '6.62'
 ---
 
 Ahora mismo tienes [DeWalt Hoja de Sierra de calar HCS  DT2074-QZ  Negro  Gris](https://www.amazon.es/dp/B000Y8RY6Q/?tag=tolees-21) a 6.62 EUR (original: 10 EUR) (33.80 %  de descuento) en el siguiente enlace!

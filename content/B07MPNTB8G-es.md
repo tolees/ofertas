@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MPNTB8G/?tag=tolees-21'
 descuento: '42.86'
+average: '39.99'
 ---
 
 Tienes [Auriculares Bluetooth  Mini Auriculares Inalambricos Bluetooth  TWS Auriculares Bluetooth áuriculares 2 In Ear Inalambricos Con Micrófono Estéreo Para Android Samsung Huawei Phones IOS X 8 7  white ](https://www.amazon.es/dp/B07MPNTB8G/?tag=tolees-21) con un 42.86 % de descuento con precio de oferta de 39.99 EUR (original: 69.99 EUR) en el siguiente enlace!

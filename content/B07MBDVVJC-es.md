@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MBDVVJC/?tag=tolees-21'
 descuento: '30.01'
+average: '10.89'
 ---
 
 Está [Janolia Caja para Armario  Bolsa Plegables para Ropa  Bolsa Organizadora con Tela Ecológica de Bambú No Tejida  Transpirable Antibacteriano  Anti Ácaros y Moho](https://www.amazon.es/dp/B07MBDVVJC/?tag=tolees-21) con 30.01 de descuento por 10.89 EUR (original: 15.56 EUR) en el siguiente enlace!

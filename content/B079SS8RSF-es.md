@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079SS8RSF/?tag=tolees-21'
 descuento: '61.12'
+average: '27.2'
 ---
 
 Tienes [Desigual TS_kunik  suéter para Mujer    Gris Vigore Oscuro 2043  Medium](https://www.amazon.es/dp/B079SS8RSF/?tag=tolees-21) con un 61.12 % de descuento con precio de oferta de 27.2 EUR (original: 69.95 EUR) en el siguiente enlace!

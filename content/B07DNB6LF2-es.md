@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DNB6LF2/?tag=tolees-21'
 descuento: '74.23'
+average: '30.99'
 ---
 
 Tienes [Amody Tapón de Vino automático Eléctrico abrelatas sacacorchos con Cortador de Papel Azul](https://www.amazon.es/dp/B07DNB6LF2/?tag=tolees-21) con un 74.23 % de descuento con precio de oferta de 30.99 EUR (original: 120.24 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GJW6TQN/?tag=tolees-21'
 descuento: '27.29'
+average: '15.99'
 ---
 
 Está [TUXWANG Almohada de Viaje de Espuma de Memoria - Almohada para el Cuello Almohada de Gel en Forma de U Ideal para Avión Coche Tren Oficina Utilizar](https://www.amazon.es/dp/B07GJW6TQN/?tag=tolees-21) con 27.29 de descuento por 15.99 EUR (original: 21.99 EUR) en el siguiente enlace!

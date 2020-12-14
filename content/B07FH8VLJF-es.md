@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FH8VLJF/?tag=tolees-21'
 descuento: '57.79'
+average: '21.1'
 ---
 
 Tienes [K-Swiss Bridgeport II  Zapatillas Unisex Adulto  Azul  Navy/Red/White 439   44 EU](https://www.amazon.es/dp/B07FH8VLJF/?tag=tolees-21) con un 57.79 % de descuento con precio de oferta de 21.1 EUR (original: 49.99 EUR) en el siguiente enlace!

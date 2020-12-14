@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0741FDFLQ/?tag=tolees-21'
 descuento: '66.78'
+average: '13.29'
 ---
 
 Tienes [Diesel 00SMNQ Bañador  Hombre  Negro  Black 900   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B0741FDFLQ/?tag=tolees-21) con un 66.78 % de descuento con precio de oferta de 13.29 EUR (original: 40 EUR) en el siguiente enlace!

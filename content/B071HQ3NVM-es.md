@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071HQ3NVM/?tag=tolees-21'
 descuento: '77.01'
+average: '25.28'
 ---
 
 Ahora mismo tienes [Puma Basket Platform VR  Zapatillas para Mujer  Negro Black  38 EU](https://www.amazon.es/dp/B071HQ3NVM/?tag=tolees-21) a 25.28 EUR (original: 109.95 EUR) (77.01 %  de descuento) en el siguiente enlace!

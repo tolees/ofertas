@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00B91BLN4/?tag=tolees-21'
 descuento: '41.12'
+average: '52.4'
 ---
 
 Ahora mismo tienes [Lacoste L1212  Polo Para Hombre  Gris  Platine KC8   X-Large  Talla del fabricante: 6 ](https://www.amazon.es/dp/B00B91BLN4/?tag=tolees-21) a 52.4 EUR (original: 89 EUR) (41.12 %  de descuento) en el siguiente enlace!

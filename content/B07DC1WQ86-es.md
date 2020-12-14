@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC1WQ86/?tag=tolees-21'
 descuento: '51.14'
+average: '29.29'
 ---
 
 Está [Puma Adela  Zapatillas para Mujer  Negro Black  38.5 EU](https://www.amazon.es/dp/B07DC1WQ86/?tag=tolees-21) con 51.14 de descuento por 29.29 EUR (original: 59.95 EUR) en el siguiente enlace!

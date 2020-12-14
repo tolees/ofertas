@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00C0WQTZG/?tag=tolees-21'
 descuento: '34.95'
+average: '160'
 ---
 
 Tienes [Medela Swing Maxi - Sacaleches eléctrico doble   automático con tetina Calma](https://www.amazon.es/dp/B00C0WQTZG/?tag=tolees-21) con un 34.95 % de descuento con precio de oferta de 160 EUR (original: 245.96 EUR) en el siguiente enlace!

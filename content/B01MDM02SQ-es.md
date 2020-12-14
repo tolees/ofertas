@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MDM02SQ/?tag=tolees-21'
 descuento: '31.84'
+average: '88.61'
 ---
 
 Tienes [Ecco Soft 7  Zapatillas baja para Hombre  Marrón  1283 Whisky   41 EU](https://www.amazon.es/dp/B01MDM02SQ/?tag=tolees-21) con un 31.84 % de descuento con precio de oferta de 88.61 EUR (original: 130 EUR) en el siguiente enlace!

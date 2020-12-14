@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078GMWFFZ/?tag=tolees-21'
 descuento: '61.63'
+average: '23'
 ---
 
 Tienes [Skechers You Define-Passion  Zapatillas sin Cordones para Mujer  Morado  Mauve MVE  36.5 EU](https://www.amazon.es/dp/B078GMWFFZ/?tag=tolees-21) con un 61.63 % de descuento con precio de oferta de 23 EUR (original: 59.95 EUR) en el siguiente enlace!

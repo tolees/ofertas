@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MAY1KGF/?tag=tolees-21'
 descuento: '60.28'
+average: '33.74'
 ---
 
 Ahora mismo tienes [Skechers Vasar-Bota  Entrenadores para Mujer  Negro  Black  37.5 EU](https://www.amazon.es/dp/B01MAY1KGF/?tag=tolees-21) a 33.74 EUR (original: 84.95 EUR) (60.28 %  de descuento) en el siguiente enlace!

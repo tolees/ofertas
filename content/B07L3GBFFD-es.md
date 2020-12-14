@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L3GBFFD/?tag=tolees-21'
 descuento: '56.74'
+average: '43.22'
 ---
 
 Está [Tommy Hilfiger Seasonal Corporate Mix Cupsole  Zapatillas para Hombre  Azul  Midnight 403   43 EU](https://www.amazon.es/dp/B07L3GBFFD/?tag=tolees-21) con 56.74 de descuento por 43.22 EUR (original: 99.9 EUR) en el siguiente enlace!

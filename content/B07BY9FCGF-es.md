@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BY9FCGF/?tag=tolees-21'
 descuento: '72.46'
+average: '20.64'
 ---
 
 Está [Bulaggi - Alice Hopper  Shoppers y bolsos de hombro Mujer  Negro  Schwarz   32x16x38 cm  B x H T ](https://www.amazon.es/dp/B07BY9FCGF/?tag=tolees-21) con 72.46 de descuento por 20.64 EUR (original: 74.95 EUR) en el siguiente enlace!

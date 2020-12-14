@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075S6WVZP/?tag=tolees-21'
 descuento: '76.10'
+average: '19.11'
 ---
 
 Tienes [Dockers by Gerli 40cu201  Botas Militar para Mujer  Azul  Navy 660   37 EU](https://www.amazon.es/dp/B075S6WVZP/?tag=tolees-21) con un 76.10 % de descuento con precio de oferta de 19.11 EUR (original: 79.95 EUR) en el siguiente enlace!

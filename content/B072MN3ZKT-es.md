@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072MN3ZKT/?tag=tolees-21'
 descuento: '33.36'
+average: '9.99'
 ---
 
 Tienes [YISEVEN Mangas de Brazo Deportes Unisexo - Manga de compresión élastique Cubre Brazos Protector Sol UV - Manguitos Ciclismo Corriendo Protección Baloncesto Golf y Fútbol para Niño y Niña - Azul](https://www.amazon.es/dp/B072MN3ZKT/?tag=tolees-21) con un 33.36 % de descuento con precio de oferta de 9.99 EUR (original: 14.99 EUR) en el siguiente enlace!

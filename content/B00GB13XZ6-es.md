@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00GB13XZ6/?tag=tolees-21'
 descuento: '53.64'
+average: '6.55'
 ---
 
 Está [Candide - Sábana bajera para cama de bebé  algodón  60 x 120 cm   color rosa claro](https://www.amazon.es/dp/B00GB13XZ6/?tag=tolees-21) con 53.64 de descuento por 6.55 EUR (original: 14.13 EUR) en el siguiente enlace!

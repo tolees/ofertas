@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KBH877M/?tag=tolees-21'
 descuento: '52.38'
+average: '29.81'
 ---
 
 Ahora mismo tienes [Bburago Maisto Francia bburago-Ferrari FXX K Version Blanche-echelle 1/18  16907 W  Color Blanco](https://www.amazon.es/dp/B07KBH877M/?tag=tolees-21) a 29.81 EUR (original: 62.6 EUR) (52.38 %  de descuento) en el siguiente enlace!

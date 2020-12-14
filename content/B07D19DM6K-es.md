@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D19DM6K/?tag=tolees-21'
 descuento: '84.56'
+average: '13.89'
 ---
 
 Ahora mismo tienes [SELECTED HOMME Slhslim-buffaloiver Navy Chk TRS B Noos  Pantalones de Traje Hombre   Navy Blazer Blazer   W38  Talla del Fabricante: 54 ](https://www.amazon.es/dp/B07D19DM6K/?tag=tolees-21) a 13.89 EUR (original: 89.99 EUR) (84.56 %  de descuento) en el siguiente enlace!

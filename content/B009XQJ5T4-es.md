@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B009XQJ5T4/?tag=tolees-21'
 descuento: '67.40'
+average: '30.95'
 ---
 
 Tienes [Princess 01.103020.01.403 - Table Grill Fiësta   26 x 46 cm ](https://www.amazon.es/dp/B009XQJ5T4/?tag=tolees-21) con un 67.40 % de descuento con precio de oferta de 30.95 EUR (original: 94.95 EUR) en el siguiente enlace!

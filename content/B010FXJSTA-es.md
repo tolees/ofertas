@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B010FXJSTA/?tag=tolees-21'
 descuento: '53.67'
+average: '6.95'
 ---
 
 Está [Joma - Katy S/S  Color Yellow  Talla L](https://www.amazon.es/dp/B010FXJSTA/?tag=tolees-21) con 53.67 de descuento por 6.95 EUR (original: 15 EUR) en el siguiente enlace!

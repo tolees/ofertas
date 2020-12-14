@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BNX8JN5/?tag=tolees-21'
 descuento: '53.64'
+average: '55.63'
 ---
 
 Ahora mismo tienes [Columbia Canyon Point Mid Leather Omni-Tech  Zapatillas de Senderismo para Hombre  Gris  Dark Grey  Madder Brown 089   46 EU](https://www.amazon.es/dp/B07BNX8JN5/?tag=tolees-21) a 55.63 EUR (original: 119.99 EUR) (53.64 %  de descuento) en el siguiente enlace!

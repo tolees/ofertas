@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MT2S7X4/?tag=tolees-21'
 descuento: '66.80'
+average: '33.2'
 ---
 
 Ahora mismo tienes [New Balance Fresh Foam Cruz  Zapatillas Deportivas para Hombre  Negro  Black   44.5 EU](https://www.amazon.es/dp/B01MT2S7X4/?tag=tolees-21) a 33.2 EUR (original: 100 EUR) (66.80 %  de descuento) en el siguiente enlace!

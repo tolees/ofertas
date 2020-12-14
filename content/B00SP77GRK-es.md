@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00SP77GRK/?tag=tolees-21'
 descuento: '65.71'
+average: '41.15'
 ---
 
 Ahora mismo tienes [Shiseido 61260 - Crema  30 ml](https://www.amazon.es/dp/B00SP77GRK/?tag=tolees-21) a 41.15 EUR (original: 120 EUR) (65.71 %  de descuento) en el siguiente enlace!

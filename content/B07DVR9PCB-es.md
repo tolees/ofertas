@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DVR9PCB/?tag=tolees-21'
 descuento: '60.84'
+average: '52.86'
 ---
 
 Está [Lacoste - Nh2665tk  Bolsos bandolera Hombre  Negro  Black   9x16.5x26 cm  W x H L ](https://www.amazon.es/dp/B07DVR9PCB/?tag=tolees-21) con 60.84 de descuento por 52.86 EUR (original: 135 EUR) en el siguiente enlace!

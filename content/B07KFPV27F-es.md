@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KFPV27F/?tag=tolees-21'
 descuento: '55.57'
+average: '39.99'
 ---
 
 Está [Helly Hansen HH Duffel Bag 2 Bolsa de Viaje  Unisex Adulto  Azul  Evening Blue 693   50L](https://www.amazon.es/dp/B07KFPV27F/?tag=tolees-21) con 55.57 de descuento por 39.99 EUR (original: 90 EUR) en el siguiente enlace!

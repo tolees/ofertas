@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BYJNRT9/?tag=tolees-21'
 descuento: '45.88'
+average: '64.95'
 ---
 
 Está [Hackett London Hackett  Polo para Hombre   Blue/Multi 5AL  M](https://www.amazon.es/dp/B07BYJNRT9/?tag=tolees-21) con 45.88 de descuento por 64.95 EUR (original: 120 EUR) en el siguiente enlace!

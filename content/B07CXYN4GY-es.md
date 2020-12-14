@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CXYN4GY/?tag=tolees-21'
 descuento: '52.76'
+average: '10'
 ---
 
 Ahora mismo tienes [Un Lugar Tranquilo  BD  [Blu-ray]](https://www.amazon.es/dp/B07CXYN4GY/?tag=tolees-21) a 10 EUR (original: 21.17 EUR) (52.76 %  de descuento) en el siguiente enlace!

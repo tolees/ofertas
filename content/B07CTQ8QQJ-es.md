@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CTQ8QQJ/?tag=tolees-21'
 descuento: '63.69'
+average: '32.68'
 ---
 
 Tienes [Under Armour Showstopper 2.0  Zapatillas Deportivas para Interior para Hombre  Gris Onyx White/Jet Gray 113  43 EU](https://www.amazon.es/dp/B07CTQ8QQJ/?tag=tolees-21) con un 63.69 % de descuento con precio de oferta de 32.68 EUR (original: 90 EUR) en el siguiente enlace!

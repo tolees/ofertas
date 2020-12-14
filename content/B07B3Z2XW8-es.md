@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B3Z2XW8/?tag=tolees-21'
 descuento: '54.76'
+average: '67.86'
 ---
 
 Ahora mismo tienes [Clarks Batcombe Lord  Botas Chelsea para Hombre  Negro  Black   40 EU](https://www.amazon.es/dp/B07B3Z2XW8/?tag=tolees-21) a 67.86 EUR (original: 150 EUR) (54.76 %  de descuento) en el siguiente enlace!

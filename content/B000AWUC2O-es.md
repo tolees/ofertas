@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000AWUC2O/?tag=tolees-21'
 descuento: '45.25'
+average: '4.9'
 ---
 
 Ahora mismo tienes [Crazy Color Emerald Green Nº 53 Crema Colorante del Cabello Semi-permanente](https://www.amazon.es/dp/B000AWUC2O/?tag=tolees-21) a 4.9 EUR (original: 8.95 EUR) (45.25 %  de descuento) en el siguiente enlace!

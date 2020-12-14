@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074C8YZ8C/?tag=tolees-21'
 descuento: '49.99'
+average: '30'
 ---
 
 Tienes [Bandai – Justice League 57552 SH Figuarts – Wonder Woman  15 cm  19781](https://www.amazon.es/dp/B074C8YZ8C/?tag=tolees-21) con un 49.99 % de descuento con precio de oferta de 30 EUR (original: 59.99 EUR) en el siguiente enlace!

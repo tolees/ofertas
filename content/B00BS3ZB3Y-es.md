@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00BS3ZB3Y/?tag=tolees-21'
 descuento: '48.50'
+average: '15.45'
 ---
 
 Tienes [Eastpak Doggy Bag Riñonera  27 cm  3 L  Azul  Double Denim ](https://www.amazon.es/dp/B00BS3ZB3Y/?tag=tolees-21) con un 48.50 % de descuento con precio de oferta de 15.45 EUR (original: 30 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XCJC1XQ/?tag=tolees-21'
 descuento: '69.05'
+average: '49.52'
 ---
 
 Está [Clarks Londonrain GTX  Botas para Mujer  Gris  Taupe Nubuck   37 EU](https://www.amazon.es/dp/B06XCJC1XQ/?tag=tolees-21) con 69.05 de descuento por 49.52 EUR (original: 160 EUR) en el siguiente enlace!

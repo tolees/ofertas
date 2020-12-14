@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079BCGTC3/?tag=tolees-21'
 descuento: '58.27'
+average: '7.49'
 ---
 
 Está [Puma Ligas Pants  Hombre  Silver Lake Blue/White  L](https://www.amazon.es/dp/B079BCGTC3/?tag=tolees-21) con 58.27 de descuento por 7.49 EUR (original: 17.95 EUR) en el siguiente enlace!

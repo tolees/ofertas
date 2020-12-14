@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01EX3TL4U/?tag=tolees-21'
 descuento: '53.35'
+average: '37.32'
 ---
 
 Ahora mismo tienes [New Balance 373  Zapatillas para Mujer  Negro  Black/Gold Ng   38 EU](https://www.amazon.es/dp/B01EX3TL4U/?tag=tolees-21) a 37.32 EUR (original: 80 EUR) (53.35 %  de descuento) en el siguiente enlace!

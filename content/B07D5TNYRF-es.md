@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D5TNYRF/?tag=tolees-21'
 descuento: '44.31'
+average: '11.11'
 ---
 
 Tienes [Puma Active Interlock Chándal  Hombre  Peacoat  XXL](https://www.amazon.es/dp/B07D5TNYRF/?tag=tolees-21) con un 44.31 % de descuento con precio de oferta de 11.11 EUR (original: 19.95 EUR) en el siguiente enlace!

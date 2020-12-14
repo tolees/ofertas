@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074WHZNBC/?tag=tolees-21'
 descuento: '71.32'
+average: '28.68'
 ---
 
 Ahora mismo tienes [Vans Sk8-hi Reissue DX  Zapatillas para Mujer  Negro  California Souvenir/Black Blanc   38.5 EU](https://www.amazon.es/dp/B074WHZNBC/?tag=tolees-21) a 28.68 EUR (original: 100 EUR) (71.32 %  de descuento) en el siguiente enlace!

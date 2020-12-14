@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MGRMVDV/?tag=tolees-21'
 descuento: '25.01'
+average: '29.99'
 ---
 
 Está [AGM Cámara para Niños  Cámara de Video con Funda Carcasa de DIY 1.44" HD Color Pantalla Digital Cámara Niños con Tarjeta de Memoria de 8GB para Chicas y Chicos  Azul + Amarillo ](https://www.amazon.es/dp/B07MGRMVDV/?tag=tolees-21) con 25.01 de descuento por 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!

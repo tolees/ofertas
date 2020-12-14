@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000E23WYA/?tag=tolees-21'
 descuento: '33.92'
+average: '42.95'
 ---
 
 Ahora mismo tienes [Converse Chuck Taylor All Star Season Ox  Zapatillas de Tela Unisex Adulto  Rojo  43 EU](https://www.amazon.es/dp/B000E23WYA/?tag=tolees-21) a 42.95 EUR (original: 65 EUR) (33.92 %  de descuento) en el siguiente enlace!

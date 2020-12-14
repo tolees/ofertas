@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F6JYTDH/?tag=tolees-21'
 descuento: '29.54'
+average: '225.06'
 ---
 
 Está [Ballistix Sport AT BLS2K16G4D26BFST - Memoria DDR4 de 32 GB Kit  16 GB x2  para Juegos  2666 MT/s  PC4-21300  Dual Rank x8  DIMM  288-Pin ](https://www.amazon.es/dp/B07F6JYTDH/?tag=tolees-21) con 29.54 de descuento por 225.06 EUR (original: 319.43 EUR) en el siguiente enlace!

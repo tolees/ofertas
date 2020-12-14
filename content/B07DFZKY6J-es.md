@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFZKY6J/?tag=tolees-21'
 descuento: '45.00'
+average: '109.99'
 ---
 
 Está [【Arcade Game Console 1388】 Pandora Box 5s 1388 Juegos Retro Consola Maquina recreativa Arcade Video Gamepad VGA/HDMI/USB](https://www.amazon.es/dp/B07DFZKY6J/?tag=tolees-21) con 45.00 de descuento por 109.99 EUR (original: 199.99 EUR) en el siguiente enlace!

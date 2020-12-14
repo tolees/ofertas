@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC1NK1M/?tag=tolees-21'
 descuento: '29.19'
+average: '45.99'
 ---
 
 Tienes [Puma Vikky Stacked SD  Zapatillas para Mujer  Morado  Whisper White Black   42 EU](https://www.amazon.es/dp/B07DC1NK1M/?tag=tolees-21) con un 29.19 % de descuento con precio de oferta de 45.99 EUR (original: 64.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KCMS51Z/?tag=tolees-21'
 descuento: '54.98'
+average: '14.18'
 ---
 
 Está [David Jones - 5964-1  Bolsos bandolera Mujer  Rojo  Red   8x14x20 cm  W x H L ](https://www.amazon.es/dp/B07KCMS51Z/?tag=tolees-21) con 54.98 de descuento por 14.18 EUR (original: 31.5 EUR) en el siguiente enlace!

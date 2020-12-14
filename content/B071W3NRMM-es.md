@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071W3NRMM/?tag=tolees-21'
 descuento: '89.15'
+average: '39.34'
 ---
 
 Ahora mismo tienes [Dei Mille Sissy  Botas para Mujer  Azul  BLU Notte   38 EU](https://www.amazon.es/dp/B071W3NRMM/?tag=tolees-21) a 39.34 EUR (original: 362.5 EUR) (89.15 %  de descuento) en el siguiente enlace!

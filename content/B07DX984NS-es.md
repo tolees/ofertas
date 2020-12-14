@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DX984NS/?tag=tolees-21'
 descuento: '32.59'
+average: '16.82'
 ---
 
 Está [Puma Active Woven Pants  Hombre  Black  S](https://www.amazon.es/dp/B07DX984NS/?tag=tolees-21) con 32.59 de descuento por 16.82 EUR (original: 24.95 EUR) en el siguiente enlace!

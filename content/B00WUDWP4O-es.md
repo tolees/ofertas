@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00WUDWP4O/?tag=tolees-21'
 descuento: '63.70'
+average: '6.97'
 ---
 
 Está [Grace Bebida Aloe Vera con Mango - Paquete de 12 x 500 ml - Total: 6000 ml](https://www.amazon.es/dp/B00WUDWP4O/?tag=tolees-21) con 63.70 de descuento por 6.97 EUR (original: 19.2 EUR) en el siguiente enlace!

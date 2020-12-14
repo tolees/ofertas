@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RSV6QK/?tag=tolees-21'
 descuento: '79.44'
+average: '15.42'
 ---
 
 Está [Pepe Jeans Suna Suéter  Negro  Black 999   L para Mujer](https://www.amazon.es/dp/B079RSV6QK/?tag=tolees-21) con 79.44 de descuento por 15.42 EUR (original: 75 EUR) en el siguiente enlace!

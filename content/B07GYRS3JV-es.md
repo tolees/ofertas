@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GYRS3JV/?tag=tolees-21'
 descuento: '64.12'
+average: '43.99'
 ---
 
 Está [Cofuture Aspiradora de Mano Sin Cable  Aspirador Inalámbrica Portátil Potente [12V 120W 6000PA] Silencia Sistema Carga Rápida Hogar y Coche](https://www.amazon.es/dp/B07GYRS3JV/?tag=tolees-21) con 64.12 de descuento por 43.99 EUR (original: 122.6 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQJ96F8/?tag=tolees-21'
 descuento: '45.79'
+average: '29.79'
 ---
 
 Tienes [Adidas V Racer 2.0  Zapatillas de Deporte para Hombre  Rojo  Granat Rojnoc 000   42 2/3 EU](https://www.amazon.es/dp/B07FQJ96F8/?tag=tolees-21) con un 45.79 % de descuento con precio de oferta de 29.79 EUR (original: 54.95 EUR) en el siguiente enlace!

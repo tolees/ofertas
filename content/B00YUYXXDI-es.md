@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00YUYXXDI/?tag=tolees-21'
 descuento: '28.60'
+average: '179.99'
 ---
 
 Tienes [LE CREUSET Cocotte  Azul Caribe  26 cm](https://www.amazon.es/dp/B00YUYXXDI/?tag=tolees-21) con un 28.60 % de descuento con precio de oferta de 179.99 EUR (original: 252.09 EUR) en el siguiente enlace!

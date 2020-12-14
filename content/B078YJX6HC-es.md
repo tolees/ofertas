@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078YJX6HC/?tag=tolees-21'
 descuento: '67.52'
+average: '12.99'
 ---
 
 Tienes [CNASA 24 bolsillos Ampliación carpeta de archivos/A4 organizador de archivos ampliable/portátil acordeón carpeta de archivos](https://www.amazon.es/dp/B078YJX6HC/?tag=tolees-21) con un 67.52 % de descuento con precio de oferta de 12.99 EUR (original: 39.99 EUR) en el siguiente enlace!

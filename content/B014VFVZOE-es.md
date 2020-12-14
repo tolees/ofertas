@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B014VFVZOE/?tag=tolees-21'
 descuento: '72.25'
+average: '30.52'
 ---
 
 Ahora mismo tienes [ClarksButleigh Edge - Derby Hombre  Color Marrón  Talla 44.5](https://www.amazon.es/dp/B014VFVZOE/?tag=tolees-21) a 30.52 EUR (original: 110 EUR) (72.25 %  de descuento) en el siguiente enlace!

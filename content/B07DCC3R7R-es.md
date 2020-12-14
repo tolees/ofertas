@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCC3R7R/?tag=tolees-21'
 descuento: '58.67'
+average: '24.78'
 ---
 
 Ahora mismo tienes [Puma 365 FF CT  Zapatillas de Deporte Interior para Hombre  Negro Black White  43 EU](https://www.amazon.es/dp/B07DCC3R7R/?tag=tolees-21) a 24.78 EUR (original: 59.95 EUR) (58.67 %  de descuento) en el siguiente enlace!

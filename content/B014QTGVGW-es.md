@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B014QTGVGW/?tag=tolees-21'
 descuento: '61.60'
+average: '95.99'
 ---
 
 Ahora mismo tienes [Altavoces Bluetooth Inalámbricos WiFi Sonido Estéreos 40W Subwoofer Extra Bass Altavoz Inteligente Music Streaming Batería Incorporada Airplay MFI Spotify iHeartRadio GGMM M4 Marrón](https://www.amazon.es/dp/B014QTGVGW/?tag=tolees-21) a 95.99 EUR (original: 249.99 EUR) (61.60 %  de descuento) en el siguiente enlace!

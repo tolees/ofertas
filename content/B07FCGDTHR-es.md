@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FCGDTHR/?tag=tolees-21'
 descuento: '48.06'
+average: '39.99'
 ---
 
 Está [Aspirador ciclonico para hogar sin bolsa aspiradora de mano potente 800W](https://www.amazon.es/dp/B07FCGDTHR/?tag=tolees-21) con 48.06 de descuento por 39.99 EUR (original: 76.99 EUR) en el siguiente enlace!

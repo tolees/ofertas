@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00UGK3HFE/?tag=tolees-21'
 descuento: '62.43'
+average: '20.31'
 ---
 
 Tienes [L Oréal Expert Professionnel Vitamino Color A-Ox Mask 500 ml](https://www.amazon.es/dp/B00UGK3HFE/?tag=tolees-21) con un 62.43 % de descuento con precio de oferta de 20.31 EUR (original: 54.06 EUR) en el siguiente enlace!

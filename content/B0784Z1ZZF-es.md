@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0784Z1ZZF/?tag=tolees-21'
 descuento: '48.54'
+average: '28.28'
 ---
 
 Ahora mismo tienes [Reebok AHARY Runner  Zapatillas de Trail Running para Mujer  Gris  Skull Grey/Desert Glow/Blk 000   40 EU](https://www.amazon.es/dp/B0784Z1ZZF/?tag=tolees-21) a 28.28 EUR (original: 54.95 EUR) (48.54 %  de descuento) en el siguiente enlace!

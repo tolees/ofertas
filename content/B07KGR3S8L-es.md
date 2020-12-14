@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGR3S8L/?tag=tolees-21'
 descuento: '46.01'
+average: '37.79'
 ---
 
 Tienes [Burton Moxie Pantalones Cortos  Hombre  Blue Sapphire Ripstop  28](https://www.amazon.es/dp/B07KGR3S8L/?tag=tolees-21) con un 46.01 % de descuento con precio de oferta de 37.79 EUR (original: 70 EUR) en el siguiente enlace!

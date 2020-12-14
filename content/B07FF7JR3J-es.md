@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FF7JR3J/?tag=tolees-21'
 descuento: '57.23'
+average: '50.9'
 ---
 
 Ahora mismo tienes [Bollé Millenium Cascos  Unisex Adulto  Azul Mate Flash  58-61CM](https://www.amazon.es/dp/B07FF7JR3J/?tag=tolees-21) a 50.9 EUR (original: 119 EUR) (57.23 %  de descuento) en el siguiente enlace!

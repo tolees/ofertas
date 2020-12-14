@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0759KVM8H/?tag=tolees-21'
 descuento: '50.48'
+average: '49.5'
 ---
 
 Ahora mismo tienes [Clarks Tri Caitlin  Zapatillas para Mujer  Negro  Black Combi   38 EU](https://www.amazon.es/dp/B0759KVM8H/?tag=tolees-21) a 49.5 EUR (original: 99.95 EUR) (50.48 %  de descuento) en el siguiente enlace!

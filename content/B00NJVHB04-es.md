@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00NJVHB04/?tag=tolees-21'
 descuento: '46.63'
+average: '8'
 ---
 
 Está [Funko Pop!- Bobble: Marvel: X-Men: Magneto  4469 ](https://www.amazon.es/dp/B00NJVHB04/?tag=tolees-21) con 46.63 de descuento por 8 EUR (original: 14.99 EUR) en el siguiente enlace!

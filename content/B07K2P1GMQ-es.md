@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K2P1GMQ/?tag=tolees-21'
 descuento: '49.90'
+average: '12.5'
 ---
 
 Está [Pack: The Equalizer 1 + The Equalizer 2  + BD  [Blu-ray]](https://www.amazon.es/dp/B07K2P1GMQ/?tag=tolees-21) con 49.90 de descuento por 12.5 EUR (original: 24.95 EUR) en el siguiente enlace!

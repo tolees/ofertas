@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N3CM8R6/?tag=tolees-21'
 descuento: '48.43'
+average: '36.07'
 ---
 
 Tienes [Munich G-3 Jeans  Zapatillas de Deporte Unisex Adulto  Marrón  Negro 956   41 EU](https://www.amazon.es/dp/B07N3CM8R6/?tag=tolees-21) con un 48.43 % de descuento con precio de oferta de 36.07 EUR (original: 69.95 EUR) en el siguiente enlace!

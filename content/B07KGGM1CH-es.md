@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGGM1CH/?tag=tolees-21'
 descuento: '47.69'
+average: '9.39'
 ---
 
 Ahora mismo tienes [Buff Arrow Braga De Cuello  Unisex Adulto  Denim  Talla única](https://www.amazon.es/dp/B07KGGM1CH/?tag=tolees-21) a 9.39 EUR (original: 17.95 EUR) (47.69 %  de descuento) en el siguiente enlace!

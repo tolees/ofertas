@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007UVGGVY/?tag=tolees-21'
 descuento: '47.62'
+average: '5.5'
 ---
 
 Está [Got2b - Powder ful - Polvos para levantar la raíz del pelo - 2 unidades de 20gr - Schwarzkopf](https://www.amazon.es/dp/B007UVGGVY/?tag=tolees-21) con 47.62 de descuento por 5.5 EUR (original: 10.5 EUR) en el siguiente enlace!

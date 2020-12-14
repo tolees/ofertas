@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00CANYNGC/?tag=tolees-21'
 descuento: '68.89'
+average: '13.97'
 ---
 
 Tienes [Living Kitzbühel T-Modell uni - Zapatillas de casa de fieltro infantil  color azul  talla 31](https://www.amazon.es/dp/B00CANYNGC/?tag=tolees-21) con un 68.89 % de descuento con precio de oferta de 13.97 EUR (original: 44.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076CR5PLS/?tag=tolees-21'
 descuento: '50.93'
+average: '26.99'
 ---
 
 Tienes [Hurley Phantom One&Only 18 Bañador  Hombre  Rosa  Hyper Pink   S/31](https://www.amazon.es/dp/B076CR5PLS/?tag=tolees-21) con un 50.93 % de descuento con precio de oferta de 26.99 EUR (original: 55 EUR) en el siguiente enlace!

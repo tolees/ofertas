@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H2MQYKG/?tag=tolees-21'
 descuento: '52.50'
+average: '8.85'
 ---
 
 Tienes [Delaviuda  Turrón - 3 de 270 gr.  Total 810 gr. ](https://www.amazon.es/dp/B07H2MQYKG/?tag=tolees-21) con un 52.50 % de descuento con precio de oferta de 8.85 EUR (original: 18.63 EUR) en el siguiente enlace!

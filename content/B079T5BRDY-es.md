@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079T5BRDY/?tag=tolees-21'
 descuento: '58.16'
+average: '418'
 ---
 
 Tienes [Zodiac WR000147 Vortex OV 3480 - Limpiafondos Autónomo para Piscina  Solo Fondo y Fondo/Paredes/Línea de Agua](https://www.amazon.es/dp/B079T5BRDY/?tag=tolees-21) con un 58.16 % de descuento con precio de oferta de 418 EUR (original: 999 EUR) en el siguiente enlace!

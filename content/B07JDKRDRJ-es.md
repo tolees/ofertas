@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JDKRDRJ/?tag=tolees-21'
 descuento: '30.08'
+average: '25.99'
 ---
 
 Está [U-Kiss Transportín para Perros  Bolsa de Transporte para Mascotas Bolsa de Malla Transpirable de Viaje con Cremalleras de Seguridad Portador de Viaje de Color Negro](https://www.amazon.es/dp/B07JDKRDRJ/?tag=tolees-21) con 30.08 de descuento por 25.99 EUR (original: 37.17 EUR) en el siguiente enlace!

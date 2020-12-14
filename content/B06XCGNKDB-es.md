@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XCGNKDB/?tag=tolees-21'
 descuento: '70.33'
+average: '89'
 ---
 
 Tienes [BULLPADEL GOLD EDITION 2015](https://www.amazon.es/dp/B06XCGNKDB/?tag=tolees-21) con un 70.33 % de descuento con precio de oferta de 89 EUR (original: 300 EUR) en el siguiente enlace!

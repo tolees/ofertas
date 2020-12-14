@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075XLHDCR/?tag=tolees-21'
 descuento: '71.02'
+average: '28.98'
 ---
 
 Tienes [New Balance Synact  Zapatillas de Running para Mujer   Himalayan Pink/Smoke Blue Lh1   36 EU](https://www.amazon.es/dp/B075XLHDCR/?tag=tolees-21) con un 71.02 % de descuento con precio de oferta de 28.98 EUR (original: 100 EUR) en el siguiente enlace!

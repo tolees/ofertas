@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MZDZYS9/?tag=tolees-21'
 descuento: '67.35'
+average: '6.84'
 ---
 
 Está [Abanderado TERMALTECH Calzón Largo Pantalones térmicos  Blanco 001   Large  Tamaño del fabricante:L/52  para Hombre](https://www.amazon.es/dp/B01MZDZYS9/?tag=tolees-21) con 67.35 de descuento por 6.84 EUR (original: 20.95 EUR) en el siguiente enlace!

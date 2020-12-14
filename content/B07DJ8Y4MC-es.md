@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ8Y4MC/?tag=tolees-21'
 descuento: '79.89'
+average: '9.04'
 ---
 
 Está [Xnuoyo 10000mAh Power Bank Paquete de Baterías Externas Compatible con la Mayoría Teléfonos Inteligentes](https://www.amazon.es/dp/B07DJ8Y4MC/?tag=tolees-21) con 79.89 de descuento por 9.04 EUR (original: 44.96 EUR) en el siguiente enlace!

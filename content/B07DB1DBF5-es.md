@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DB1DBF5/?tag=tolees-21'
 descuento: '64.74'
+average: '29.95'
 ---
 
 Está [Puma Suede Classic+  Zapatillas Unisex Adulto  Negro Black-Firecracker White 38  39 EU](https://www.amazon.es/dp/B07DB1DBF5/?tag=tolees-21) con 64.74 de descuento por 29.95 EUR (original: 84.95 EUR) en el siguiente enlace!

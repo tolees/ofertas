@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CTPKQKX/?tag=tolees-21'
 descuento: '65.17'
+average: '41.8'
 ---
 
 Está [Under Armour UA HOVR Sonic 2  Zapatillas de Running para Hombre  Negro  Black White 002   40 EU](https://www.amazon.es/dp/B07CTPKQKX/?tag=tolees-21) con 65.17 de descuento por 41.8 EUR (original: 120 EUR) en el siguiente enlace!

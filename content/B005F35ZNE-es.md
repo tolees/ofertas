@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005F35ZNE/?tag=tolees-21'
 descuento: '62.63'
+average: '16.4'
 ---
 
 Está [Casio Collection F-201W-1AEF  Reloj Rectangular  Correa de Resina  Unisex  Negro](https://www.amazon.es/dp/B005F35ZNE/?tag=tolees-21) con 62.63 de descuento por 16.4 EUR (original: 43.88 EUR) en el siguiente enlace!

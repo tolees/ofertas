@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCZ5RBN/?tag=tolees-21'
 descuento: '42.28'
+average: '10.36'
 ---
 
 Tienes [Puma Future Pulse Ball  Unisex Adulto  Silver/Peacoat/Black  5](https://www.amazon.es/dp/B07DCZ5RBN/?tag=tolees-21) con un 42.28 % de descuento con precio de oferta de 10.36 EUR (original: 17.95 EUR) en el siguiente enlace!

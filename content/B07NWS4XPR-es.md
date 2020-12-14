@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NWS4XPR/?tag=tolees-21'
 descuento: '64.79'
+average: '140.5'
 ---
 
 Ahora mismo tienes [DROP SHOT Hornet Carbon 2019](https://www.amazon.es/dp/B07NWS4XPR/?tag=tolees-21) a 140.5 EUR (original: 399 EUR) (64.79 %  de descuento) en el siguiente enlace!

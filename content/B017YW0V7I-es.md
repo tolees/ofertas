@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017YW0V7I/?tag=tolees-21'
 descuento: '66.25'
+average: '21.94'
 ---
 
 Tienes [Vans Camden Stripe  Zapatillas para Mujer  Gris  Canvas   34.5 EU](https://www.amazon.es/dp/B017YW0V7I/?tag=tolees-21) con un 66.25 % de descuento con precio de oferta de 21.94 EUR (original: 65 EUR) en el siguiente enlace!

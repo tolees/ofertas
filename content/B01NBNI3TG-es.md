@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NBNI3TG/?tag=tolees-21'
 descuento: '64.35'
+average: '22.05'
 ---
 
 Está [Reebok BD3365  Zapatillas de Trail Running para Mujer  Azul  Echo Sky Blue/White   36 EU](https://www.amazon.es/dp/B01NBNI3TG/?tag=tolees-21) con 64.35 de descuento por 22.05 EUR (original: 61.86 EUR) en el siguiente enlace!

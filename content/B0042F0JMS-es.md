@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0042F0JMS/?tag=tolees-21'
 descuento: '35.47'
+average: '203'
 ---
 
 Tienes [APC Back-UPS PRO 900VA - BR900GI - Sistema de alimentación ininterrumpida SAI - 8 salidas tipo IEC  AVR  USB  software de apagado](https://www.amazon.es/dp/B0042F0JMS/?tag=tolees-21) con un 35.47 % de descuento con precio de oferta de 203 EUR (original: 314.59 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IJXIPKW/?tag=tolees-21'
 descuento: '32.19'
+average: '54.25'
 ---
 
 Tienes [Silva Schneider DA-400 Deshidratador de Frutas  Verduras  Hongos y hiervas  900 W  1.5 litros  Blanco](https://www.amazon.es/dp/B00IJXIPKW/?tag=tolees-21) con un 32.19 % de descuento con precio de oferta de 54.25 EUR (original: 80 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01A740RWO/?tag=tolees-21'
 descuento: '30.51'
+average: '201.53'
 ---
 
 Tienes [Moleskine Lineage - Maletín fino en piel para dispositivos digitales de hasta 15"  color negro](https://www.amazon.es/dp/B01A740RWO/?tag=tolees-21) con un 30.51 % de descuento con precio de oferta de 201.53 EUR (original: 290 EUR) en el siguiente enlace!

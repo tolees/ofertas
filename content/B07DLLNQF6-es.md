@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLLNQF6/?tag=tolees-21'
 descuento: '68.01'
+average: '15.99'
 ---
 
 Está [Bluedio TM Auriculares Bluetooth 5.0 inalámbricos portátiles On-Ear  Controla de Voz  con micrófono para teléfonos y música  Amarillo ](https://www.amazon.es/dp/B07DLLNQF6/?tag=tolees-21) con 68.01 de descuento por 15.99 EUR (original: 49.99 EUR) en el siguiente enlace!

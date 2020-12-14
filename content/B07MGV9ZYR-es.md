@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MGV9ZYR/?tag=tolees-21'
 descuento: '47.28'
+average: '28.99'
 ---
 
 Está [Auriculares Inalámbricos con Micrófono Funwaretech G4 Cascos Bluetooth Diadema Auriculares Inalámbricos de Diadema Cerrados 20hrs Reproducción de Música Hi-Fi Sonido Estéreo para TV PC Móviles Azul ](https://www.amazon.es/dp/B07MGV9ZYR/?tag=tolees-21) con 47.28 de descuento por 28.99 EUR (original: 54.99 EUR) en el siguiente enlace!

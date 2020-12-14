@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003H9NJHC/?tag=tolees-21'
 descuento: '54.12'
+average: '205.99'
 ---
 
 Tienes [WMF Premium One - Batería de cocina 4 piezas Cool+ de acero inoxidable  apto para inducción. Fabricado en Alemania.](https://www.amazon.es/dp/B003H9NJHC/?tag=tolees-21) con un 54.12 % de descuento con precio de oferta de 205.99 EUR (original: 449 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LMY4RMO/?tag=tolees-21'
 descuento: '39.31'
+average: '42.48'
 ---
 
 Ahora mismo tienes [Advanced ShareMe Tech Auriculares  Mixcder Auriculares Over-ear Bluetooth con Micrófono Hi-Fi Deep Bass Cascos Estéreo Inalámbricos Sobre El Oído  Plegable y Cómodo  18 Horas Playtime Para Viaje](https://www.amazon.es/dp/B01LMY4RMO/?tag=tolees-21) a 42.48 EUR (original: 69.99 EUR) (39.31 %  de descuento) en el siguiente enlace!

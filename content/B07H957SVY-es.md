@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H957SVY/?tag=tolees-21'
 descuento: '39.29'
+average: '50.99'
 ---
 
 Está [Moviles Libres Baratos 4G V mobile A10  +Pequeño Regalo Auricular Bluetooth  8GB ROM Telefono Movil Libres Baratos 5   HD Android 7 Cámara Doble 5MP 2MP Batería 2800mAh GPS Bluetooth WIFI  Oro ](https://www.amazon.es/dp/B07H957SVY/?tag=tolees-21) con 39.29 de descuento por 50.99 EUR (original: 83.99 EUR) en el siguiente enlace!

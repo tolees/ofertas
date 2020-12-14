@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M8H7KC4/?tag=tolees-21'
 descuento: '69.00'
+average: '24.99'
 ---
 
 Ahora mismo tienes [Altavoz portátil LED con Bluetooth. Blanco](https://www.amazon.es/dp/B07M8H7KC4/?tag=tolees-21) a 24.99 EUR (original: 80.61 EUR) (69.00 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DRTPVQW/?tag=tolees-21'
 descuento: '50.06'
+average: '44.95'
 ---
 
 Está [Diadora Game Low S  Zapatillas de Gimnasia Unisex Adulto  Gris  Grigio Roccia Lunare 75029   46 EU](https://www.amazon.es/dp/B07DRTPVQW/?tag=tolees-21) con 50.06 de descuento por 44.95 EUR (original: 90 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ2XHPY/?tag=tolees-21'
 descuento: '49.53'
+average: '27.73'
 ---
 
 Tienes [Nike Zapatillas de Deporte Unisex Adulto   749747 402  42 EU](https://www.amazon.es/dp/B07CZ2XHPY/?tag=tolees-21) con un 49.53 % de descuento con precio de oferta de 27.73 EUR (original: 54.94 EUR) en el siguiente enlace!

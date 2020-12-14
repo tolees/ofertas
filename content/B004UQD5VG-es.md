@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004UQD5VG/?tag=tolees-21'
 descuento: '71.17'
+average: '25.66'
 ---
 
 Tienes [Superga 2095- SUEU  Zapatillas de deporte Unisex  Beige  Beige/Sand   36 EU](https://www.amazon.es/dp/B004UQD5VG/?tag=tolees-21) con un 71.17 % de descuento con precio de oferta de 25.66 EUR (original: 89 EUR) en el siguiente enlace!

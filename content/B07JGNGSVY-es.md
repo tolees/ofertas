@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JGNGSVY/?tag=tolees-21'
 descuento: '31.98'
+average: '22.99'
 ---
 
 Está [Berglander Juego de utensilios de cocina de mango de madera de acero inoxidable  cucharón  cuchara  espumadera  batidor de huevos  tornero ranurado  servidor de pasta 6 piezas](https://www.amazon.es/dp/B07JGNGSVY/?tag=tolees-21) con 31.98 de descuento por 22.99 EUR (original: 33.8 EUR) en el siguiente enlace!

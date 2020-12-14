@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FM4R14D/?tag=tolees-21'
 descuento: '68.76'
+average: '18.74'
 ---
 
 Está [Jack & Jones NOS Hombre Jjimarco Jjcharles WW 200 Dark Navy STS Pantalones Not Applicable  Azul  Dark Navy Dark Navy   W33/L34  Talla del Fabricante: 33 ](https://www.amazon.es/dp/B07FM4R14D/?tag=tolees-21) con 68.76 de descuento por 18.74 EUR (original: 59.99 EUR) en el siguiente enlace!

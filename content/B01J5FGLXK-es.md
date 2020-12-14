@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01J5FGLXK/?tag=tolees-21'
 descuento: '25.05'
+average: '187.36'
 ---
 
 Tienes [Philips Aspirador Vertical 2 en 1 con PowerCyclone FC6172/01  0.6 litros  83 Decibelios  Rojo](https://www.amazon.es/dp/B01J5FGLXK/?tag=tolees-21) con un 25.05 % de descuento con precio de oferta de 187.36 EUR (original: 249.99 EUR) en el siguiente enlace!

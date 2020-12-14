@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N8R3FLX/?tag=tolees-21'
 descuento: '39.99'
+average: '8.39'
 ---
 
 Tienes [PoeticHouse Humidificador Ultrasónico Aromaterapia Difusor De Aroma Aceites Esenciales con Vapor Frío  Florero De Aromaterapia Máquina De Grano De Madera](https://www.amazon.es/dp/B07N8R3FLX/?tag=tolees-21) con un 39.99 % de descuento con precio de oferta de 8.39 EUR (original: 13.98 EUR) en el siguiente enlace!

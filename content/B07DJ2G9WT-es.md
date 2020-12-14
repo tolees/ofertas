@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ2G9WT/?tag=tolees-21'
 descuento: '28.40'
+average: '57.28'
 ---
 
 Tienes [New Balance 220  Zapatillas Unisex Adulto  Turquesa  Vintage Indigo/White Fj   38 EU](https://www.amazon.es/dp/B07DJ2G9WT/?tag=tolees-21) con un 28.40 % de descuento con precio de oferta de 57.28 EUR (original: 80 EUR) en el siguiente enlace!

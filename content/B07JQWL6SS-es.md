@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JQWL6SS/?tag=tolees-21'
 descuento: '55.00'
+average: '44.98'
 ---
 
 Está [adidas Powerlift 4  Zapatillas de Deporte para Hombre  Azul FTWR White/Blue  44 EU](https://www.amazon.es/dp/B07JQWL6SS/?tag=tolees-21) con 55.00 de descuento por 44.98 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074JH1S4J/?tag=tolees-21'
 descuento: '32.16'
+average: '189.28'
 ---
 
 Está [Fossil Reloj Hombre de Digital con Correa en Cuero FTW4003](https://www.amazon.es/dp/B074JH1S4J/?tag=tolees-21) con 32.16 de descuento por 189.28 EUR (original: 279 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KRCS2PN/?tag=tolees-21'
 descuento: '54.36'
+average: '15.04'
 ---
 
 Tienes [Kappa Diggle Kids  Zapatillas Unisex Niños  Azul  Navy/Orange 6744   35 EU](https://www.amazon.es/dp/B07KRCS2PN/?tag=tolees-21) con un 54.36 % de descuento con precio de oferta de 15.04 EUR (original: 32.95 EUR) en el siguiente enlace!

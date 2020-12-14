@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07538SMHP/?tag=tolees-21'
 descuento: '44.51'
+average: '779.99'
 ---
 
 Ahora mismo tienes [Lenovo Yoga 720-13IKB- Portátil táctil convertible 13.3" FullHD  Intel Core i5-7200U  16GB de RAM  256GB de SSD  Intel HD Graphics  Windows 10  gris - teclado QWERTY Español](https://www.amazon.es/dp/B07538SMHP/?tag=tolees-21) a 779.99 EUR (original: 1405.59 EUR) (44.51 %  de descuento) en el siguiente enlace!

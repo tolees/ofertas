@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00AWGVV8W/?tag=tolees-21'
 descuento: '28.44'
+average: '20'
 ---
 
 Ahora mismo tienes [Nike W NSW Fnl FLC Sweatshirt  Mujer  Aluminum/htr/Indigo Fog/White  XS](https://www.amazon.es/dp/B00AWGVV8W/?tag=tolees-21) a 20 EUR (original: 27.95 EUR) (28.44 %  de descuento) en el siguiente enlace!

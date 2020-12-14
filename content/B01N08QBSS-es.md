@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N08QBSS/?tag=tolees-21'
 descuento: '58.47'
+average: '10'
 ---
 
 Tienes [Grenade Carb Killa RTD Chocolate Mint - 8 Unidades](https://www.amazon.es/dp/B01N08QBSS/?tag=tolees-21) con un 58.47 % de descuento con precio de oferta de 10 EUR (original: 24.08 EUR) en el siguiente enlace!

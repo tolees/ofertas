@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N2C54QJ/?tag=tolees-21'
 descuento: '47.26'
+average: '18.98'
 ---
 
 Tienes [Reloj Despertador Digital LED Espejo Despertadores Electrónicos Moderno Superficie del Espejo con Función Snooze y Dual USB Puertos Brillo ajustable 12/24 Horas para Dormitorio  Oficina y Viajes](https://www.amazon.es/dp/B07N2C54QJ/?tag=tolees-21) con un 47.26 % de descuento con precio de oferta de 18.98 EUR (original: 35.99 EUR) en el siguiente enlace!

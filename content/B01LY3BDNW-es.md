@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LY3BDNW/?tag=tolees-21'
 descuento: '37.34'
+average: '68.93'
 ---
 
 Está [CAMPER Runner Four  Zapatillas para Hombre  Weiß  White Natural 100   42 EU](https://www.amazon.es/dp/B01LY3BDNW/?tag=tolees-21) con 37.34 de descuento por 68.93 EUR (original: 110 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IYHUWMW/?tag=tolees-21'
 descuento: '32.23'
+average: '30.49'
 ---
 
 Tienes [Weider Whey Coffee - 908 gr](https://www.amazon.es/dp/B00IYHUWMW/?tag=tolees-21) con un 32.23 % de descuento con precio de oferta de 30.49 EUR (original: 44.99 EUR) en el siguiente enlace!

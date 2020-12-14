@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B2Z5T8W/?tag=tolees-21'
 descuento: '53.87'
+average: '27.68'
 ---
 
 Está [Nike Wmns Oceania Textile  Zapatillas de Deporte Unisex Adulto   Gris 511880 010   38.5 EU](https://www.amazon.es/dp/B07B2Z5T8W/?tag=tolees-21) con 53.87 de descuento por 27.68 EUR (original: 60 EUR) en el siguiente enlace!

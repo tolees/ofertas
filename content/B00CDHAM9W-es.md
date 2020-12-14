@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00CDHAM9W/?tag=tolees-21'
 descuento: '42.51'
+average: '96.42'
 ---
 
 Tienes [Philips 246V5LSB/00 - Monitor LCD con SmartControl Lite de 24"  color negro](https://www.amazon.es/dp/B00CDHAM9W/?tag=tolees-21) con un 42.51 % de descuento con precio de oferta de 96.42 EUR (original: 167.71 EUR) en el siguiente enlace!

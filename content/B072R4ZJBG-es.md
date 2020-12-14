@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072R4ZJBG/?tag=tolees-21'
 descuento: '30.78'
+average: '51.99'
 ---
 
 Está [QUBABOBO Hamaca de Yoga Tafetán de Nailon Antigravedad Swing Sling Inversión para Pilates Gimnasia con 664lb Carga](https://www.amazon.es/dp/B072R4ZJBG/?tag=tolees-21) con 30.78 de descuento por 51.99 EUR (original: 75.11 EUR) en el siguiente enlace!

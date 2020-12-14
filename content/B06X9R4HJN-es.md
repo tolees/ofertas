@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06X9R4HJN/?tag=tolees-21'
 descuento: '35.67'
+average: '45'
 ---
 
 Está [Skechers Elite Flex-Hartnell  Zapatillas sin Cordones para Hombre  Negro  Black/Grey   40 EU](https://www.amazon.es/dp/B06X9R4HJN/?tag=tolees-21) con 35.67 de descuento por 45 EUR (original: 69.95 EUR) en el siguiente enlace!

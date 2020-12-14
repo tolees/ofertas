@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071SHW2L9/?tag=tolees-21'
 descuento: '72.94'
+average: '16.21'
 ---
 
 Está [Pepa Loves Fancy Buttons Cardigan Bronze  Amarillo  Bronce   42  Tamaño del Fabricante:L  para Mujer](https://www.amazon.es/dp/B071SHW2L9/?tag=tolees-21) con 72.94 de descuento por 16.21 EUR (original: 59.9 EUR) en el siguiente enlace!

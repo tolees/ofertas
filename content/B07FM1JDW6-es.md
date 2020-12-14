@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FM1JDW6/?tag=tolees-21'
 descuento: '50.00'
+average: '2'
 ---
 
 Ahora mismo tienes [COMVIP Mujeres Cuerda Adultos Multi-Wrap Nylon Pulseras Ajustables Brazalete Morado Oscuro](https://www.amazon.es/dp/B07FM1JDW6/?tag=tolees-21) a 2 EUR (original: 4 EUR) (50.00 %  de descuento) en el siguiente enlace!

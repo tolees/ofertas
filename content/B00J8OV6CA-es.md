@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00J8OV6CA/?tag=tolees-21'
 descuento: '25.03'
+average: '38.91'
 ---
 
 Ahora mismo tienes [Scitec Nutrition Whey Protein Professional Proteína con Sabor de Fresa - 2350 g](https://www.amazon.es/dp/B00J8OV6CA/?tag=tolees-21) a 38.91 EUR (original: 51.9 EUR) (25.03 %  de descuento) en el siguiente enlace!

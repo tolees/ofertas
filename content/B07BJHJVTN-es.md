@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BJHJVTN/?tag=tolees-21'
 descuento: '71.89'
+average: '33.72'
 ---
 
 Está [G-STAR RAW 3301 Deconstructed Skinny Jeans  Azul  dk Aged 8969-89   31W / 38L para Hombre](https://www.amazon.es/dp/B07BJHJVTN/?tag=tolees-21) con 71.89 de descuento por 33.72 EUR (original: 119.95 EUR) en el siguiente enlace!

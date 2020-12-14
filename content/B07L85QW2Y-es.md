@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L85QW2Y/?tag=tolees-21'
 descuento: '64.13'
+average: '179'
 ---
 
 Está [M MEGAWHEELS Scooter-Patinete Eléctrico Hoverboard  6.5 Pulgadas con Bluetooth - Motor eléctrico 500w  Velocidad 10-12 Km/h.  Blue-Red ](https://www.amazon.es/dp/B07L85QW2Y/?tag=tolees-21) con 64.13 de descuento por 179 EUR (original: 499 EUR) en el siguiente enlace!

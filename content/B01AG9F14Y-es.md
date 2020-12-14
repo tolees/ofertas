@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01AG9F14Y/?tag=tolees-21'
 descuento: '51.31'
+average: '153.16'
 ---
 
 Tienes [Ballistix Sport LT BLS4C8G4D240FSC/BLS4K8G4D240FSC - Kit de Memoria RAM de 32GB  8GB x 4  DDR4  2400 MT/s  PC4-19200  Dual Rank x8  DIMM  288-Pin  blanco](https://www.amazon.es/dp/B01AG9F14Y/?tag=tolees-21) con un 51.31 % de descuento con precio de oferta de 153.16 EUR (original: 314.59 EUR) en el siguiente enlace!

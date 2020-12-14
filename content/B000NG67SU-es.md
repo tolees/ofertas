@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000NG67SU/?tag=tolees-21'
 descuento: '30.78'
+average: '12.46'
 ---
 
 Está [Casio Reloj Despertador DQ-543B-1EF](https://www.amazon.es/dp/B000NG67SU/?tag=tolees-21) con 30.78 de descuento por 12.46 EUR (original: 18 EUR) en el siguiente enlace!

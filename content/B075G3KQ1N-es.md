@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075G3KQ1N/?tag=tolees-21'
 descuento: '76.68'
+average: '9.07'
 ---
 
 Está [Playtex Ideal Beauty Soft Cup Bra  Sujetador sin Aros para Mujer   Blanco   100C  Tamaño del fabricante:100 C ](https://www.amazon.es/dp/B075G3KQ1N/?tag=tolees-21) con 76.68 de descuento por 9.07 EUR (original: 38.9 EUR) en el siguiente enlace!

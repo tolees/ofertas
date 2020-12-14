@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DBWWJN2/?tag=tolees-21'
 descuento: '39.20'
+average: '36.45'
 ---
 
 Tienes [Puma Insurge Mesh  Zapatillas de Deporte Unisex Adulto  Gris  Asphalt-Light Sky White   43 EU](https://www.amazon.es/dp/B07DBWWJN2/?tag=tolees-21) con un 39.20 % de descuento con precio de oferta de 36.45 EUR (original: 59.95 EUR) en el siguiente enlace!

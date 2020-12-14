@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00HSR0V6Q/?tag=tolees-21'
 descuento: '54.21'
+average: '13.5'
 ---
 
 Tienes [Burberry  Perfume sólido - 150 ml.](https://www.amazon.es/dp/B00HSR0V6Q/?tag=tolees-21) con un 54.21 % de descuento con precio de oferta de 13.5 EUR (original: 29.48 EUR) en el siguiente enlace!

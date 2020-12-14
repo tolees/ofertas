@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073QS4SVN/?tag=tolees-21'
 descuento: '33.77'
+average: '73.99'
 ---
 
 Ahora mismo tienes [Orbegozo VT 610 Vinoteca 6 botellas  17 litros  Negro](https://www.amazon.es/dp/B073QS4SVN/?tag=tolees-21) a 73.99 EUR (original: 111.71 EUR) (33.77 %  de descuento) en el siguiente enlace!

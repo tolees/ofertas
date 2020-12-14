@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JN5SQ9Q/?tag=tolees-21'
 descuento: '46.09'
+average: '43.13'
 ---
 
 Tienes [Nike Classic Cortez Nylon  Zapatillas para Hombre  Azul Deep Royal Blue/White 407  43 EU](https://www.amazon.es/dp/B07JN5SQ9Q/?tag=tolees-21) con un 46.09 % de descuento con precio de oferta de 43.13 EUR (original: 80 EUR) en el siguiente enlace!

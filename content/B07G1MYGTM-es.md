@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G1MYGTM/?tag=tolees-21'
 descuento: '54.49'
+average: '59.16'
 ---
 
 Ahora mismo tienes [Polaroid- Cámara Mint 2 en 1  con tecnología Zink sin tinta  espejo para selfies y un diseño vertical  haz fotos como en un teléfono e imprímelas al instante en papel adhesivo 5 x 7.6 cm  rojo](https://www.amazon.es/dp/B07G1MYGTM/?tag=tolees-21) a 59.16 EUR (original: 129.99 EUR) (54.49 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00AEQYM6S/?tag=tolees-21'
 descuento: '41.20'
+average: '9.99'
 ---
 
 Tienes [Wagner](https://www.amazon.es/dp/B00AEQYM6S/?tag=tolees-21) con un 41.20 % de descuento con precio de oferta de 9.99 EUR (original: 16.99 EUR) en el siguiente enlace!

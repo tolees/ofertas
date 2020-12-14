@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000ROQJFO/?tag=tolees-21'
 descuento: '30.10'
+average: '34.95'
 ---
 
 Tienes [Nike Nike Revolution 4 Eu Zapatillas de Running Hombre  Multicolor  Midnight Navy/White/Deep Royal Blue 414   44.5 EU](https://www.amazon.es/dp/B000ROQJFO/?tag=tolees-21) con un 30.10 % de descuento con precio de oferta de 34.95 EUR (original: 50 EUR) en el siguiente enlace!

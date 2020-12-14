@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZVTVJY/?tag=tolees-21'
 descuento: '59.95'
+average: '12'
 ---
 
 Está [Shock Absorber Active Legging  Mallas de Entrenamiento para Mujer   Imprimé Asphalt 08U   W34  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B07CZVTVJY/?tag=tolees-21) con 59.95 de descuento por 12 EUR (original: 29.96 EUR) en el siguiente enlace!

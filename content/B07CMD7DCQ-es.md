@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CMD7DCQ/?tag=tolees-21'
 descuento: '67.85'
+average: '9.32'
 ---
 
 Ahora mismo tienes [Bluebags 0JV7005  Shopper para Mujer   Gris   31x16x46 cm  W x H x L ](https://www.amazon.es/dp/B07CMD7DCQ/?tag=tolees-21) a 9.32 EUR (original: 28.99 EUR) (67.85 %  de descuento) en el siguiente enlace!

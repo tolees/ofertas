@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FXW7XJH/?tag=tolees-21'
 descuento: '35.72'
+average: '41.78'
 ---
 
 Ahora mismo tienes [Superdry - 2 Tone Splatter Montana  Mochilas Hombre  Azul  Cobalt Marl   30x45x15 cm  W x H L ](https://www.amazon.es/dp/B07FXW7XJH/?tag=tolees-21) a 41.78 EUR (original: 65 EUR) (35.72 %  de descuento) en el siguiente enlace!

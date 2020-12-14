@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KVGCT1W/?tag=tolees-21'
 descuento: '49.92'
+average: '9.01'
 ---
 
 Ahora mismo tienes [Gioteck - Xh-100 Wired Stereo Military](https://www.amazon.es/dp/B07KVGCT1W/?tag=tolees-21) a 9.01 EUR (original: 17.99 EUR) (49.92 %  de descuento) en el siguiente enlace!

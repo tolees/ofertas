@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC1L46Q/?tag=tolees-21'
 descuento: '61.00'
+average: '21.43'
 ---
 
 Tienes [Puma Smash v2  Zapatillas Unisex Adulto  Beige  ELM White Team Gold   37 EU](https://www.amazon.es/dp/B07DC1L46Q/?tag=tolees-21) con un 61.00 % de descuento con precio de oferta de 21.43 EUR (original: 54.95 EUR) en el siguiente enlace!

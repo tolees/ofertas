@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007U6D4OG/?tag=tolees-21'
 descuento: '73.24'
+average: '4'
 ---
 
 Ahora mismo tienes [L Oréal Paris Máscara de Pestañas 24 h Mega Volumen Colágeno](https://www.amazon.es/dp/B007U6D4OG/?tag=tolees-21) a 4 EUR (original: 14.95 EUR) (73.24 %  de descuento) en el siguiente enlace!

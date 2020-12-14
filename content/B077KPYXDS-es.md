@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077KPYXDS/?tag=tolees-21'
 descuento: '49.89'
+average: '7.01'
 ---
 
 Ahora mismo tienes [Bovon Protector Trasero iPhone X   Dureza 9 H  Cobertura Completa en 3D  Prueba de Arañazos  Color Blanco](https://www.amazon.es/dp/B077KPYXDS/?tag=tolees-21) a 7.01 EUR (original: 13.99 EUR) (49.89 %  de descuento) en el siguiente enlace!

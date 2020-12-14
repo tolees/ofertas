@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076VTH62K/?tag=tolees-21'
 descuento: '30.84'
+average: '20.99'
 ---
 
 Tienes [Escobilla para baño con cepillo SALOVES soporte Escobilla Escobillero WC Baño inodoro cepillo de limpieza](https://www.amazon.es/dp/B076VTH62K/?tag=tolees-21) con un 30.84 % de descuento con precio de oferta de 20.99 EUR (original: 30.35 EUR) en el siguiente enlace!

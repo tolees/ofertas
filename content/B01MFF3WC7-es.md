@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MFF3WC7/?tag=tolees-21'
 descuento: '50.02'
+average: '14.97'
 ---
 
 Ahora mismo tienes [G-STAR RAW Claro Belt Wmn Cinturón  Negro  Black/antic Silvr 8131   90 para Mujer](https://www.amazon.es/dp/B01MFF3WC7/?tag=tolees-21) a 14.97 EUR (original: 29.95 EUR) (50.02 %  de descuento) en el siguiente enlace!

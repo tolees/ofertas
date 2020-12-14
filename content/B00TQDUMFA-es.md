@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TQDUMFA/?tag=tolees-21'
 descuento: '64.44'
+average: '16'
 ---
 
 Tienes [Nike SX7284 Socks  Unisex Adulto  M](https://www.amazon.es/dp/B00TQDUMFA/?tag=tolees-21) con un 64.44 % de descuento con precio de oferta de 16 EUR (original: 45 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M664BPQ/?tag=tolees-21'
 descuento: '47.02'
+average: '52.95'
 ---
 
 Ahora mismo tienes [Asics Gel-Sonoma 3 G-TX Trail  Zapatillas de Running para Asfalto para Mujer  Negro  Black/Onyx/Carbon 9099   39.5 EU](https://www.amazon.es/dp/B01M664BPQ/?tag=tolees-21) a 52.95 EUR (original: 99.95 EUR) (47.02 %  de descuento) en el siguiente enlace!

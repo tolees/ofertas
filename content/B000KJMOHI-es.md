@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000KJMOHI/?tag=tolees-21'
 descuento: '27.99'
+average: '65.53'
 ---
 
 Tienes [Wedo Universa 150100837 - Caja para dinero  355 x 275 x 100 mm   color gris](https://www.amazon.es/dp/B000KJMOHI/?tag=tolees-21) con un 27.99 % de descuento con precio de oferta de 65.53 EUR (original: 91 EUR) en el siguiente enlace!

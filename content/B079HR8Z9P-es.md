@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079HR8Z9P/?tag=tolees-21'
 descuento: '55.51'
+average: '20'
 ---
 
 Tienes [Puma - FS PUMA GAVETTO II Sala BL/AZ Hombre Color: Blanco Talla: 39](https://www.amazon.es/dp/B079HR8Z9P/?tag=tolees-21) con un 55.51 % de descuento con precio de oferta de 20 EUR (original: 44.95 EUR) en el siguiente enlace!

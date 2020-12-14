@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGJKLL9/?tag=tolees-21'
 descuento: '45.61'
+average: '16.29'
 ---
 
 Está [Buff Rinmann Sombrero Travel Bucket  Unisex Adulto  Blue  Talla única](https://www.amazon.es/dp/B07KGJKLL9/?tag=tolees-21) con 45.61 de descuento por 16.29 EUR (original: 29.95 EUR) en el siguiente enlace!

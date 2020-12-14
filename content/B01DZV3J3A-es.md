@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DZV3J3A/?tag=tolees-21'
 descuento: '66.31'
+average: '13.1'
 ---
 
 Está [MOLLY BRACKEN T144H16-Vestido Mujer Gris  Silver  38  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B01DZV3J3A/?tag=tolees-21) con 66.31 de descuento por 13.1 EUR (original: 38.88 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074KQ6S3G/?tag=tolees-21'
 descuento: '40.27'
+average: '37.99'
 ---
 
 Ahora mismo tienes [Etnies Scout  Zapatillas para Hombre  Azul  46 EU](https://www.amazon.es/dp/B074KQ6S3G/?tag=tolees-21) a 37.99 EUR (original: 63.6 EUR) (40.27 %  de descuento) en el siguiente enlace!

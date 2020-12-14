@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071L93QMW/?tag=tolees-21'
 descuento: '71.29'
+average: '24.39'
 ---
 
 Ahora mismo tienes [Gioseppo 30514  Botas para Mujer  Marrón  Cuero   37 EU](https://www.amazon.es/dp/B071L93QMW/?tag=tolees-21) a 24.39 EUR (original: 84.95 EUR) (71.29 %  de descuento) en el siguiente enlace!

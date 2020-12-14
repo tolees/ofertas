@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0742R4BWM/?tag=tolees-21'
 descuento: '75.31'
+average: '12.1'
 ---
 
 Ahora mismo tienes [Swimgo Triton I bañador de competición femenino color Negro / Gris / Rosa  24](https://www.amazon.es/dp/B0742R4BWM/?tag=tolees-21) a 12.1 EUR (original: 49 EUR) (75.31 %  de descuento) en el siguiente enlace!

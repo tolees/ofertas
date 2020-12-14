@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CRKCY72/?tag=tolees-21'
 descuento: '54.04'
+average: '29.85'
 ---
 
 Está [Puma Vikky Platform  Zapatillas para Mujer  Azul  Cerulean-Puma White 17   37 EU](https://www.amazon.es/dp/B07CRKCY72/?tag=tolees-21) con 54.04 de descuento por 29.85 EUR (original: 64.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H5HFM8V/?tag=tolees-21'
 descuento: '31.93'
+average: '67.89'
 ---
 
 Ahora mismo tienes [Fila Orbit Zeppa Low Wmn 1010311-25y  Zapatillas para Mujer  Negro  Black  38 EU](https://www.amazon.es/dp/B07H5HFM8V/?tag=tolees-21) a 67.89 EUR (original: 99.74 EUR) (31.93 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RT9MP65/?tag=tolees-21'
 descuento: '29.43'
+average: '11.99'
 ---
 
 Tienes [Vegkey Repelente Ultrasónico Mosquitos  4 Piezas Electrónico Repelente Mosquitos  Control de Plagas para Cucarachas  Ratones  Moscas  Arañas  Hormigas  Ratones  Ratas](https://www.amazon.es/dp/B07RT9MP65/?tag=tolees-21) con un 29.43 % de descuento con precio de oferta de 11.99 EUR (original: 16.99 EUR) en el siguiente enlace!

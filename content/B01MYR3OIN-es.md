@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MYR3OIN/?tag=tolees-21'
 descuento: '53.51'
+average: '32.54'
 ---
 
 Está [Under Armour Ua Thrill 3  Zapatillas de Entrenamiento para Hombre  Azul  Midnight Navy   44 EU](https://www.amazon.es/dp/B01MYR3OIN/?tag=tolees-21) con 53.51 de descuento por 32.54 EUR (original: 70 EUR) en el siguiente enlace!

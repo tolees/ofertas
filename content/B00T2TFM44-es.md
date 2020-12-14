@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00T2TFM44/?tag=tolees-21'
 descuento: '44.43'
+average: '5.99'
 ---
 
 Está [2pcs Fundas Cáscaras Protectores de Silicona para Ps3 Ps2 Controlador Inalámbrico de Color Azul y Rojo](https://www.amazon.es/dp/B00T2TFM44/?tag=tolees-21) con 44.43 de descuento por 5.99 EUR (original: 10.78 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJG51PJ/?tag=tolees-21'
 descuento: '57.18'
+average: '25.67'
 ---
 
 Está [Dockers by Gerli 43ad001  Botas Militar para Hombre  Negro  Schwarz 100   42 EU](https://www.amazon.es/dp/B07DJG51PJ/?tag=tolees-21) con 57.18 de descuento por 25.67 EUR (original: 59.95 EUR) en el siguiente enlace!

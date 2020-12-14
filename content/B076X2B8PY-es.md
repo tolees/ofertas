@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076X2B8PY/?tag=tolees-21'
 descuento: '69.42'
+average: '16.82'
 ---
 
 Ahora mismo tienes [Under Armour GGS Ripple  Zapatillas de Running para Niñas  Rosa  Flushed Pink/Ivory/Metallic Faded Gold   40 EU](https://www.amazon.es/dp/B076X2B8PY/?tag=tolees-21) a 16.82 EUR (original: 55 EUR) (69.42 %  de descuento) en el siguiente enlace!

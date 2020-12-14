@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007BKEQFC/?tag=tolees-21'
 descuento: '34.00'
+average: '98.94'
 ---
 
 Está [Vanguard BBH-100 - Rótula de bola de aleación de magnesio  negro](https://www.amazon.es/dp/B007BKEQFC/?tag=tolees-21) con 34.00 de descuento por 98.94 EUR (original: 149.9 EUR) en el siguiente enlace!

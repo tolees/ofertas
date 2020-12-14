@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BYJA6ZY/?tag=tolees-21'
 descuento: '69.12'
+average: '30.86'
 ---
 
 Está [GORE RUNNING WEAR Pantalones térmicos  Mujer  GORE Selected Fabrics  SUNLIGHT LADY Thermo Pants  Talla 40  Marrón  TTHSUN320005](https://www.amazon.es/dp/B01BYJA6ZY/?tag=tolees-21) con 69.12 de descuento por 30.86 EUR (original: 99.95 EUR) en el siguiente enlace!

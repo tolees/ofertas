@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F2PQYSZ/?tag=tolees-21'
 descuento: '46.54'
+average: '6.41'
 ---
 
 Tienes [blue seven Damen Sport T-Shirt Von Top de Deporte  Morado  Magenta 430   X-Large para Mujer](https://www.amazon.es/dp/B07F2PQYSZ/?tag=tolees-21) con un 46.54 % de descuento con precio de oferta de 6.41 EUR (original: 11.99 EUR) en el siguiente enlace!

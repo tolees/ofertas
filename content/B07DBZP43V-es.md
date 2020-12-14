@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DBZP43V/?tag=tolees-21'
 descuento: '58.06'
+average: '20.95'
 ---
 
 Ahora mismo tienes [Puma Icra Trainer SD Zapatillas  Unisex adulto  Azul  Surf The Web-Puma White-Puma Team Gold   41 EU](https://www.amazon.es/dp/B07DBZP43V/?tag=tolees-21) a 20.95 EUR (original: 49.95 EUR) (58.06 %  de descuento) en el siguiente enlace!

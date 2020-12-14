@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D97S5BP/?tag=tolees-21'
 descuento: '80.72'
+average: '14.64'
 ---
 
 Está [Marco Tozzi 26860-21  Botas de Nieve para Mujer  Gris  Grey Comb 221   38 EU](https://www.amazon.es/dp/B07D97S5BP/?tag=tolees-21) con 80.72 de descuento por 14.64 EUR (original: 75.95 EUR) en el siguiente enlace!

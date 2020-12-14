@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BL2HNHY/?tag=tolees-21'
 descuento: '75.41'
+average: '24.59'
 ---
 
 Tienes [New Balance Fresh Foam Zante  Zapatillas Deportivas para Interior para Mujer  Negro  Black/Orca/Sea Salt LB   43 EU](https://www.amazon.es/dp/B07BL2HNHY/?tag=tolees-21) con un 75.41 % de descuento con precio de oferta de 24.59 EUR (original: 100 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00XDVEEYG/?tag=tolees-21'
 descuento: '40.16'
+average: '1.49'
 ---
 
 Tienes [Iberia Tinte Amarillo para Ropa - 70 gr](https://www.amazon.es/dp/B00XDVEEYG/?tag=tolees-21) con un 40.16 % de descuento con precio de oferta de 1.49 EUR (original: 2.49 EUR) en el siguiente enlace!

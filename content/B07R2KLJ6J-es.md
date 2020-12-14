@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07R2KLJ6J/?tag=tolees-21'
 descuento: '30.93'
+average: '66.99'
 ---
 
 Tienes [Pendrive 4GB 20 Piezas KEXIN Memoria USB Flash 4GB Pen Drive  Memorias USB 2.0 Almacenamiento de Datos Extern para PC MacBook TV Computadora Ordenador Portátil](https://www.amazon.es/dp/B07R2KLJ6J/?tag=tolees-21) con un 30.93 % de descuento con precio de oferta de 66.99 EUR (original: 96.99 EUR) en el siguiente enlace!

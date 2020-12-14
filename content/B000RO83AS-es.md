@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000RO83AS/?tag=tolees-21'
 descuento: '33.88'
+average: '23.4'
 ---
 
 Ahora mismo tienes [Lancome - Bi-Facil - Desmaquillante para ojos sensibles - 125 ml](https://www.amazon.es/dp/B000RO83AS/?tag=tolees-21) a 23.4 EUR (original: 35.39 EUR) (33.88 %  de descuento) en el siguiente enlace!

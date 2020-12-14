@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00FQD5ADS/?tag=tolees-21'
 descuento: '52.92'
+average: '7.98'
 ---
 
 Ahora mismo tienes [Cobertor Invierno para Piscina Desmontable Bestway](https://www.amazon.es/dp/B00FQD5ADS/?tag=tolees-21) a 7.98 EUR (original: 16.95 EUR) (52.92 %  de descuento) en el siguiente enlace!

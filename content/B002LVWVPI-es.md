@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002LVWVPI/?tag=tolees-21'
 descuento: '39.02'
+average: '10.97'
 ---
 
 Ahora mismo tienes [Eros Bodyglide Lubricante Íntimo- 100 ml](https://www.amazon.es/dp/B002LVWVPI/?tag=tolees-21) a 10.97 EUR (original: 17.99 EUR) (39.02 %  de descuento) en el siguiente enlace!

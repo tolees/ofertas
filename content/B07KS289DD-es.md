@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KS289DD/?tag=tolees-21'
 descuento: '54.56'
+average: '13.61'
 ---
 
 Ahora mismo tienes [hummel First Seamless Leggings  Mujer  Negro  XS/S](https://www.amazon.es/dp/B07KS289DD/?tag=tolees-21) a 13.61 EUR (original: 29.95 EUR) (54.56 %  de descuento) en el siguiente enlace!

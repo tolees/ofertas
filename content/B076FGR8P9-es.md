@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076FGR8P9/?tag=tolees-21'
 descuento: '48.96'
+average: '28.07'
 ---
 
 Tienes [Hurley M DRI-FIT Breathe 19  Bermudas  Hombre  Negro  36](https://www.amazon.es/dp/B076FGR8P9/?tag=tolees-21) con un 48.96 % de descuento con precio de oferta de 28.07 EUR (original: 55 EUR) en el siguiente enlace!

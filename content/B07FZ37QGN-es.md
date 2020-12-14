@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FZ37QGN/?tag=tolees-21'
 descuento: '61.53'
+average: '29.45'
 ---
 
 Ahora mismo tienes [Reebok Royal Techque T  Zapatillas de Deporte para Hombre   Baseball Grey/Black/White 000   43 EU](https://www.amazon.es/dp/B07FZ37QGN/?tag=tolees-21) a 29.45 EUR (original: 76.56 EUR) (61.53 %  de descuento) en el siguiente enlace!

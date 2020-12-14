@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00HR4L7DQ/?tag=tolees-21'
 descuento: '27.79'
+average: '107.59'
 ---
 
 Ahora mismo tienes [Roca A5A1318C00 Mezclador Termostático Ducha  Modelo T-500  Cromado](https://www.amazon.es/dp/B00HR4L7DQ/?tag=tolees-21) a 107.59 EUR (original: 149 EUR) (27.79 %  de descuento) en el siguiente enlace!

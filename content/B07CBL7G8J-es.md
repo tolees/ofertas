@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CBL7G8J/?tag=tolees-21'
 descuento: '78.63'
+average: '7.47'
 ---
 
 Está [Sloggi S Symmetry N Sujetador sin Aros  Negro  Black 0004   85C  Talla del Fabricante: 70  para Mujer](https://www.amazon.es/dp/B07CBL7G8J/?tag=tolees-21) con 78.63 de descuento por 7.47 EUR (original: 34.95 EUR) en el siguiente enlace!

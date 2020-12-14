@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074MHPBS5/?tag=tolees-21'
 descuento: '39.88'
+average: '15'
 ---
 
 Está [Star Wars Pack de Mini Tazas  Cerámica  5.5 cm  4 Unidades](https://www.amazon.es/dp/B074MHPBS5/?tag=tolees-21) con 39.88 de descuento por 15 EUR (original: 24.95 EUR) en el siguiente enlace!

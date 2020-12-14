@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F7QBVSP/?tag=tolees-21'
 descuento: '77.71'
+average: '13.36'
 ---
 
 Ahora mismo tienes [Hajo Pullover  suéter para Mujer   Silber 105   52  Talla del Fabricante: 50 ](https://www.amazon.es/dp/B07F7QBVSP/?tag=tolees-21) a 13.36 EUR (original: 59.95 EUR) (77.71 %  de descuento) en el siguiente enlace!

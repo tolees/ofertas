@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078YMRPMS/?tag=tolees-21'
 descuento: '46.23'
+average: '38.54'
 ---
 
 Tienes [MUSTANG Herren Straight Jeans Tramper  Blau  Dark 881   W34/L34  Herstellergröße: 34/34 ](https://www.amazon.es/dp/B078YMRPMS/?tag=tolees-21) con un 46.23 % de descuento con precio de oferta de 38.54 EUR (original: 71.68 EUR) en el siguiente enlace!

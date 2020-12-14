@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00RBGS18Y/?tag=tolees-21'
 descuento: '48.00'
+average: '8.32'
 ---
 
 Tienes [SALEWA Hiker 0 5 L Botella  Unisex Adulto  Amarillo  Talla Única](https://www.amazon.es/dp/B00RBGS18Y/?tag=tolees-21) con un 48.00 % de descuento con precio de oferta de 8.32 EUR (original: 16 EUR) en el siguiente enlace!

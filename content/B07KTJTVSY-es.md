@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KTJTVSY/?tag=tolees-21'
 descuento: '56.53'
+average: '45.99'
 ---
 
 Está [Asics Gel-Beyond 5 Women s Zapatillas Indoor - 44](https://www.amazon.es/dp/B07KTJTVSY/?tag=tolees-21) con 56.53 de descuento por 45.99 EUR (original: 105.79 EUR) en el siguiente enlace!

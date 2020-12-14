@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GXY7L88/?tag=tolees-21'
 descuento: '27.41'
+average: '29'
 ---
 
 Tienes [adidas Nemeziz Tango 18.4 IN J  Zapatillas de fútbol Sala Unisex niño   Placen/Negbás/Tinbla 0   36 2/3 EU](https://www.amazon.es/dp/B07GXY7L88/?tag=tolees-21) con un 27.41 % de descuento con precio de oferta de 29 EUR (original: 39.95 EUR) en el siguiente enlace!

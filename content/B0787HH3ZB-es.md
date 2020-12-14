@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0787HH3ZB/?tag=tolees-21'
 descuento: '50.13'
+average: '9.95'
 ---
 
 Está [Huerto Urbano - Seed Box Picante - Batlle](https://www.amazon.es/dp/B0787HH3ZB/?tag=tolees-21) con 50.13 de descuento por 9.95 EUR (original: 19.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MFF3Y97/?tag=tolees-21'
 descuento: '49.33'
+average: '65.84'
 ---
 
 Ahora mismo tienes [G-STAR RAW 3301 Low Waist Super Skinny Jeans Ajustados  Gris  dk Aged Cobler 7863-3143   30W / 32L para Mujer](https://www.amazon.es/dp/B01MFF3Y97/?tag=tolees-21) a 65.84 EUR (original: 129.95 EUR) (49.33 %  de descuento) en el siguiente enlace!

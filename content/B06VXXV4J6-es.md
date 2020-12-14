@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06VXXV4J6/?tag=tolees-21'
 descuento: '65.36'
+average: '62.01'
 ---
 
 Está [Festina Reloj Análogo clásico para Hombre de Cuarzo con Correa en Acero Inoxidable F20245/3](https://www.amazon.es/dp/B06VXXV4J6/?tag=tolees-21) con 65.36 de descuento por 62.01 EUR (original: 179 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076BK63YT/?tag=tolees-21'
 descuento: '46.68'
+average: '10.61'
 ---
 
 Está [Moleskine DHP12DC2Y19 - Diario 12m de edición limitada Harry Potter de bolsillo  color azul](https://www.amazon.es/dp/B076BK63YT/?tag=tolees-21) con 46.68 de descuento por 10.61 EUR (original: 19.9 EUR) en el siguiente enlace!

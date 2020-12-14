@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MSHBFZ9/?tag=tolees-21'
 descuento: '37.62'
+average: '4.99'
 ---
 
 Está [Máscara de Encaje para Mujeres Antifaz de Carnaval Disfraces Producto para pareja Color Negro  Coqueteando  Sexy Producto sexual - Adecuado para parejas de boda Halloween etc  3 PCS ](https://www.amazon.es/dp/B07MSHBFZ9/?tag=tolees-21) con 37.62 de descuento por 4.99 EUR (original: 8 EUR) en el siguiente enlace!

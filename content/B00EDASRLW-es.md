@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00EDASRLW/?tag=tolees-21'
 descuento: '58.38'
+average: '37'
 ---
 
 Tienes [Casio Reloj Mujer de Digital con Correa en Acero Inoxidable LA680WEGA-1ER](https://www.amazon.es/dp/B00EDASRLW/?tag=tolees-21) con un 58.38 % de descuento con precio de oferta de 37 EUR (original: 88.89 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QKH4VM3/?tag=tolees-21'
 descuento: '25.01'
+average: '17.99'
 ---
 
 Ahora mismo tienes [Correa Para Perros  5 FT Strong Dog Leads with Comfortable Silicon Handle & Waste Bags Portable Box  Heavy Duty Leash with 360° No Tangle Metal Sturdy Clasp Strong Pulling for Small Medium Large Dogs](https://www.amazon.es/dp/B07QKH4VM3/?tag=tolees-21) a 17.99 EUR (original: 23.99 EUR) (25.01 %  de descuento) en el siguiente enlace!

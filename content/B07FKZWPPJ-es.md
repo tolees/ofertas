@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FKZWPPJ/?tag=tolees-21'
 descuento: '35.12'
+average: '119.68'
 ---
 
 Está [Besrey Silla de paseo viaje compacta y ligera avión cochecito bebe con asiento reclinable EN1888](https://www.amazon.es/dp/B07FKZWPPJ/?tag=tolees-21) con 35.12 de descuento por 119.68 EUR (original: 184.46 EUR) en el siguiente enlace!

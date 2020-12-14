@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B006OWQFES/?tag=tolees-21'
 descuento: '39.17'
+average: '7.78'
 ---
 
 Tienes [Polisport Profex - Botella isotérmica  500 ml  Blanco Blanco Talla:500 ml](https://www.amazon.es/dp/B006OWQFES/?tag=tolees-21) con un 39.17 % de descuento con precio de oferta de 7.78 EUR (original: 12.79 EUR) en el siguiente enlace!

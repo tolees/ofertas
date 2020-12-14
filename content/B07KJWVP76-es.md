@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KJWVP76/?tag=tolees-21'
 descuento: '33.54'
+average: '19.93'
 ---
 
 Ahora mismo tienes [Quiksilver Everyday Shorts  Hombre  Virtual Pink  M](https://www.amazon.es/dp/B07KJWVP76/?tag=tolees-21) a 19.93 EUR (original: 29.99 EUR) (33.54 %  de descuento) en el siguiente enlace!

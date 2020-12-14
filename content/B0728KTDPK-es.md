@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0728KTDPK/?tag=tolees-21'
 descuento: '55.58'
+average: '11.99'
 ---
 
 Ahora mismo tienes [Only Onlmila Lacy L/s Long Pullover Knt Noos  suéter Mujer  Gris  Sun-Dried Tomato Detail:W. Melange   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B0728KTDPK/?tag=tolees-21) a 11.99 EUR (original: 26.99 EUR) (55.58 %  de descuento) en el siguiente enlace!

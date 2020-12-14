@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MUVS594/?tag=tolees-21'
 descuento: '58.86'
+average: '26.72'
 ---
 
 Está [adidas Arianna Cloudfoam  Zapatillas de Running para Mujer  Azul  Blue/tech Blue Metallic/easy Blue   38 EU](https://www.amazon.es/dp/B01MUVS594/?tag=tolees-21) con 58.86 de descuento por 26.72 EUR (original: 64.95 EUR) en el siguiente enlace!

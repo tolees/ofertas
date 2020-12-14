@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073PCTSS1/?tag=tolees-21'
 descuento: '45.70'
+average: '18.25'
 ---
 
 Ahora mismo tienes [Inside 4CJM14CT Pantalones  Azul  WNA  Tamaño del Fabricante:40  para Hombre](https://www.amazon.es/dp/B073PCTSS1/?tag=tolees-21) a 18.25 EUR (original: 33.61 EUR) (45.70 %  de descuento) en el siguiente enlace!

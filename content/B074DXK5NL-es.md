@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074DXK5NL/?tag=tolees-21'
 descuento: '33.21'
+average: '46.75'
 ---
 
 Está [Sony DSX-A212UI - Receptor Multimedia de Coche  Extra Bass  4X 55 W  Ecualizador de 10 Bandas  función Karaoke  USB  AOA 2.0  MP3 y FLAC  Interfaz Verde   Color Negro](https://www.amazon.es/dp/B074DXK5NL/?tag=tolees-21) con 33.21 de descuento por 46.75 EUR (original: 70 EUR) en el siguiente enlace!

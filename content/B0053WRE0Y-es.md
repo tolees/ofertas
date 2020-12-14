@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0053WRE0Y/?tag=tolees-21'
 descuento: '30.03'
+average: '76.9'
 ---
 
 Ahora mismo tienes [Boccia 3561-02 - Reloj analógico de cuarzo para hombre con correa de titanio  color plateado](https://www.amazon.es/dp/B0053WRE0Y/?tag=tolees-21) a 76.9 EUR (original: 109.9 EUR) (30.03 %  de descuento) en el siguiente enlace!

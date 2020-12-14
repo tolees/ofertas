@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017Z4D8YI/?tag=tolees-21'
 descuento: '38.35'
+average: '11.99'
 ---
 
 Ahora mismo tienes [JACK & JONES PREMIUM Jprpaulos Ss Noos  Polo para Hombre  Azul  Mood Indigo   Medium](https://www.amazon.es/dp/B017Z4D8YI/?tag=tolees-21) a 11.99 EUR (original: 19.45 EUR) (38.35 %  de descuento) en el siguiente enlace!

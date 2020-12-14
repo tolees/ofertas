@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC82MH4/?tag=tolees-21'
 descuento: '56.94'
+average: '30.14'
 ---
 
 Tienes [LE COQ SPORTIF Deauville Winter Craft Black/Dress Blue  Zapatillas para Hombre  Negro Noir  44 EU](https://www.amazon.es/dp/B07DC82MH4/?tag=tolees-21) con un 56.94 % de descuento con precio de oferta de 30.14 EUR (original: 70 EUR) en el siguiente enlace!

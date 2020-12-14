@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D4PX9GG/?tag=tolees-21'
 descuento: '35.78'
+average: '6.39'
 ---
 
 Ahora mismo tienes [Gliss Long&Sublime by @mypeeptoes  1 pack ](https://www.amazon.es/dp/B07D4PX9GG/?tag=tolees-21) a 6.39 EUR (original: 9.95 EUR) (35.78 %  de descuento) en el siguiente enlace!

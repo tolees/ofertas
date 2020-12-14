@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078W3PCHL/?tag=tolees-21'
 descuento: '73.07'
+average: '20.2'
 ---
 
 Tienes [Vans Era 59  Zapatillas Unisex Adulto  Verde   Double Light Gum  Metal Qk8   35 EU](https://www.amazon.es/dp/B078W3PCHL/?tag=tolees-21) con un 73.07 % de descuento con precio de oferta de 20.2 EUR (original: 75 EUR) en el siguiente enlace!

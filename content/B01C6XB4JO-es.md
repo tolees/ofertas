@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01C6XB4JO/?tag=tolees-21'
 descuento: '79.35'
+average: '4.11'
 ---
 
 Ahora mismo tienes [Piz Buin - Proteccion Solar  Protect & Cool Espuma Solar Refrescante SPF 30 - Protección alta Bote 200ml](https://www.amazon.es/dp/B01C6XB4JO/?tag=tolees-21) a 4.11 EUR (original: 19.9 EUR) (79.35 %  de descuento) en el siguiente enlace!

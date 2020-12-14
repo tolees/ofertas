@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B6VFLWT/?tag=tolees-21'
 descuento: '27.50'
+average: '10.44'
 ---
 
 Está [Nestlé Naturnes Bio - Papilla de cereales Trigo y Avena - Alimento Para bebés - 6x240g](https://www.amazon.es/dp/B07B6VFLWT/?tag=tolees-21) con 27.50 de descuento por 10.44 EUR (original: 14.4 EUR) en el siguiente enlace!

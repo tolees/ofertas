@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJG4F2F/?tag=tolees-21'
 descuento: '63.62'
+average: '25.45'
 ---
 
 Está [Dockers by Gerli 41hl306  Botas Militar para Mujer  Marrón  Cafe 320   38 EU](https://www.amazon.es/dp/B07DJG4F2F/?tag=tolees-21) con 63.62 de descuento por 25.45 EUR (original: 69.95 EUR) en el siguiente enlace!

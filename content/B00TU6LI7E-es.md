@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TU6LI7E/?tag=tolees-21'
 descuento: '70.89'
+average: '6.39'
 ---
 
 Está [Portwest B010 - Seis gorra de béisbol panel  color Armada](https://www.amazon.es/dp/B00TU6LI7E/?tag=tolees-21) con 70.89 de descuento por 6.39 EUR (original: 21.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072Q3CCHX/?tag=tolees-21'
 descuento: '33.27'
+average: '254.24'
 ---
 
 Tienes [Wiko WIM SIM Doble 4G 64GB Oro - Smartphone  14 cm  5.5"   1920 x 1080 Pixeles  Plana  16 Million Colours  16:9  Multi-Touch ](https://www.amazon.es/dp/B072Q3CCHX/?tag=tolees-21) con un 33.27 % de descuento con precio de oferta de 254.24 EUR (original: 381 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075QG3FYF/?tag=tolees-21'
 descuento: '39.96'
+average: '42'
 ---
 
 Tienes [Desigual Bols_caliope Rotterdam Mujer Shoppers y bolsos de hombro Blanco  Marfil  30x15x31 cm  B x H x T ](https://www.amazon.es/dp/B075QG3FYF/?tag=tolees-21) con un 39.96 % de descuento con precio de oferta de 42 EUR (original: 69.95 EUR) en el siguiente enlace!

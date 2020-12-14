@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000GHQBMI/?tag=tolees-21'
 descuento: '36.47'
+average: '5'
 ---
 
 Tienes [Umbra 330210-505 - Soporte para cocina](https://www.amazon.es/dp/B000GHQBMI/?tag=tolees-21) con un 36.47 % de descuento con precio de oferta de 5 EUR (original: 7.87 EUR) en el siguiente enlace!

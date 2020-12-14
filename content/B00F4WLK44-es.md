@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00F4WLK44/?tag=tolees-21'
 descuento: '51.50'
+average: '9.7'
 ---
 
 Tienes [Sony SE20 - Correa para Sony Smartwatch 2  color turquesa](https://www.amazon.es/dp/B00F4WLK44/?tag=tolees-21) con un 51.50 % de descuento con precio de oferta de 9.7 EUR (original: 20 EUR) en el siguiente enlace!

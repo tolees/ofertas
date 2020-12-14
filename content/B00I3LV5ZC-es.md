@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00I3LV5ZC/?tag=tolees-21'
 descuento: '27.86'
+average: '72.14'
 ---
 
 Ahora mismo tienes [Sony MDR-AS700BT - Auriculares de Contorno de Cuello Bluetooth  Negro y Naranja](https://www.amazon.es/dp/B00I3LV5ZC/?tag=tolees-21) a 72.14 EUR (original: 100 EUR) (27.86 %  de descuento) en el siguiente enlace!

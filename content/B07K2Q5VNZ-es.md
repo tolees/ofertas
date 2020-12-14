@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K2Q5VNZ/?tag=tolees-21'
 descuento: '66.38'
+average: '73.63'
 ---
 
 Ahora mismo tienes [Love Moschino Baseball Striped Trousers Pantalones   Blue/L.White 2003   W31/L28  Talla del Fabricante: 42  para Mujer](https://www.amazon.es/dp/B07K2Q5VNZ/?tag=tolees-21) a 73.63 EUR (original: 219 EUR) (66.38 %  de descuento) en el siguiente enlace!

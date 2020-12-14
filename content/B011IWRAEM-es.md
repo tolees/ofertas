@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B011IWRAEM/?tag=tolees-21'
 descuento: '40.22'
+average: '26.9'
 ---
 
 Ahora mismo tienes [Levi s 18195-0055  Polo para Hombre  Azul  Indigo X 9   Medium](https://www.amazon.es/dp/B011IWRAEM/?tag=tolees-21) a 26.9 EUR (original: 45 EUR) (40.22 %  de descuento) en el siguiente enlace!

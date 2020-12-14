@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJG4FL1/?tag=tolees-21'
 descuento: '67.45'
+average: '29.28'
 ---
 
 Tienes [Dockers by Gerli 39cl013  Botas Mocasines para Hombre  Gris  Asphalt/Blau 236   43 EU](https://www.amazon.es/dp/B07DJG4FL1/?tag=tolees-21) con un 67.45 % de descuento con precio de oferta de 29.28 EUR (original: 89.95 EUR) en el siguiente enlace!

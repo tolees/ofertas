@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F2PZ32L/?tag=tolees-21'
 descuento: '61.22'
+average: '27.13'
 ---
 
 Ahora mismo tienes [Puma NRGY Neko  Zapatillas de Running para Hombre  Verde  Forest Night White   42 EU](https://www.amazon.es/dp/B07F2PZ32L/?tag=tolees-21) a 27.13 EUR (original: 69.95 EUR) (61.22 %  de descuento) en el siguiente enlace!

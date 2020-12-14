@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078WV8HGW/?tag=tolees-21'
 descuento: '69.22'
+average: '36.94'
 ---
 
 Ahora mismo tienes [Munich a-Noia Elite  Zapatillas Unisex Adulto  Multicolor  027   45 EU](https://www.amazon.es/dp/B078WV8HGW/?tag=tolees-21) a 36.94 EUR (original: 120 EUR) (69.22 %  de descuento) en el siguiente enlace!

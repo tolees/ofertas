@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01AG3LMJS/?tag=tolees-21'
 descuento: '68.93'
+average: '21.73'
 ---
 
 Está [Easy Camp Porter 60 – Bolsa Gris  60 L](https://www.amazon.es/dp/B01AG3LMJS/?tag=tolees-21) con 68.93 de descuento por 21.73 EUR (original: 69.95 EUR) en el siguiente enlace!

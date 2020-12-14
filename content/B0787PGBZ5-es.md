@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0787PGBZ5/?tag=tolees-21'
 descuento: '66.41'
+average: '40.31'
 ---
 
 Tienes [Columbia Meadows Shorty Omni-Heat 3D  Zapatillas de Senderismo para Mujer  Gris  TI Grey Steel  Marsala Red   41 EU](https://www.amazon.es/dp/B0787PGBZ5/?tag=tolees-21) con un 66.41 % de descuento con precio de oferta de 40.31 EUR (original: 119.99 EUR) en el siguiente enlace!

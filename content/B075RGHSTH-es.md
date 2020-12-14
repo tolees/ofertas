@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075RGHSTH/?tag=tolees-21'
 descuento: '64.45'
+average: '17.42'
 ---
 
 Tienes [Double Agent - Traje con correas de ganchillo para mujer  Negro   Tamaño del Fabricante:S ](https://www.amazon.es/dp/B075RGHSTH/?tag=tolees-21) con un 64.45 % de descuento con precio de oferta de 17.42 EUR (original: 49 EUR) en el siguiente enlace!

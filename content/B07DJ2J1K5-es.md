@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ2J1K5/?tag=tolees-21'
 descuento: '32.98'
+average: '50.26'
 ---
 
 Tienes [New Balance Ml373lbf  Zapatillas para Hombre  Gris  Lead/Sea Smoke Lbf   42 EU](https://www.amazon.es/dp/B07DJ2J1K5/?tag=tolees-21) con un 32.98 % de descuento con precio de oferta de 50.26 EUR (original: 74.99 EUR) en el siguiente enlace!

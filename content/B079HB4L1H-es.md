@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079HB4L1H/?tag=tolees-21'
 descuento: '71.48'
+average: '17.1'
 ---
 
 Tienes [Tom Tailor 5881902  Botas Clasicas para Hombre  Gris  Grey 00011   42 EU](https://www.amazon.es/dp/B079HB4L1H/?tag=tolees-21) con un 71.48 % de descuento con precio de oferta de 17.1 EUR (original: 59.95 EUR) en el siguiente enlace!

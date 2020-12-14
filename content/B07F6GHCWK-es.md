@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F6GHCWK/?tag=tolees-21'
 descuento: '29.53'
+average: '14.15'
 ---
 
 Está [Bañador Tiger M](https://www.amazon.es/dp/B07F6GHCWK/?tag=tolees-21) con 29.53 de descuento por 14.15 EUR (original: 20.08 EUR) en el siguiente enlace!

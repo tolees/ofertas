@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B018K5DWJM/?tag=tolees-21'
 descuento: '82.24'
+average: '8.88'
 ---
 
 Ahora mismo tienes [Magic Bodyfashion V-Body  Negro  Black 100   38  Talla del Fabricante: 80B  para Mujer](https://www.amazon.es/dp/B018K5DWJM/?tag=tolees-21) a 8.88 EUR (original: 49.99 EUR) (82.24 %  de descuento) en el siguiente enlace!

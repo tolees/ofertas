@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B019ISIGTQ/?tag=tolees-21'
 descuento: '78.72'
+average: '27.45'
 ---
 
 Está [HBL Ignition Junior Mate](https://www.amazon.es/dp/B019ISIGTQ/?tag=tolees-21) con 78.72 de descuento por 27.45 EUR (original: 129 EUR) en el siguiente enlace!

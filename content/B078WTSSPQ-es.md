@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078WTSSPQ/?tag=tolees-21'
 descuento: '65.25'
+average: '55.25'
 ---
 
 Tienes [Cortefiel Americana Lino en Tailored Fit  Hombre  Beige  Tostado 50   Tamaño del Fabricante:58](https://www.amazon.es/dp/B078WTSSPQ/?tag=tolees-21) con un 65.25 % de descuento con precio de oferta de 55.25 EUR (original: 159 EUR) en el siguiente enlace!

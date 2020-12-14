@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HSKMMKW/?tag=tolees-21'
 descuento: '29.08'
+average: '21.24'
 ---
 
 Está [Dying Light - Enhanced Edition  Ps4 ](https://www.amazon.es/dp/B07HSKMMKW/?tag=tolees-21) con 29.08 de descuento por 21.24 EUR (original: 29.95 EUR) en el siguiente enlace!

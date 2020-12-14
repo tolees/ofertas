@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00SF94XWY/?tag=tolees-21'
 descuento: '73.54'
+average: '39.67'
 ---
 
 Está [G-STAR RAW Revend Straight  Jeans para Hombre  Azul  dk Aged Restored 7049-5560   31W / 36L](https://www.amazon.es/dp/B00SF94XWY/?tag=tolees-21) con 73.54 de descuento por 39.67 EUR (original: 149.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CN95JDD/?tag=tolees-21'
 descuento: '48.62'
+average: '21.58'
 ---
 
 Tienes [HOM Autumn Temptation Trunk  Bañador para Hombre  Negro  Black 0004   Small](https://www.amazon.es/dp/B07CN95JDD/?tag=tolees-21) con un 48.62 % de descuento con precio de oferta de 21.58 EUR (original: 42 EUR) en el siguiente enlace!

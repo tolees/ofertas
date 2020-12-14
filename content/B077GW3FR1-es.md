@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077GW3FR1/?tag=tolees-21'
 descuento: '68.29'
+average: '12.67'
 ---
 
 Tienes [Desires 9188107 Pantalones  Negro  Black    Tamaño del Fabricante:36  para Mujer](https://www.amazon.es/dp/B077GW3FR1/?tag=tolees-21) con un 68.29 % de descuento con precio de oferta de 12.67 EUR (original: 39.95 EUR) en el siguiente enlace!

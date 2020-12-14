@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074N8BNL2/?tag=tolees-21'
 descuento: '83.50'
+average: '9.9'
 ---
 
 Tienes [edc by Esprit 107cc1i042  suéter para Mujer  Azul  Teal Blue 455   Medium](https://www.amazon.es/dp/B074N8BNL2/?tag=tolees-21) con un 83.50 % de descuento con precio de oferta de 9.9 EUR (original: 59.99 EUR) en el siguiente enlace!

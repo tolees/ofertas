@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B012DS67YY/?tag=tolees-21'
 descuento: '64.65'
+average: '28.26'
 ---
 
 Está [Reebok NPC II  - Zapatillas de tenis  Niños  Negro  36 EU](https://www.amazon.es/dp/B012DS67YY/?tag=tolees-21) con 64.65 de descuento por 28.26 EUR (original: 79.95 EUR) en el siguiente enlace!

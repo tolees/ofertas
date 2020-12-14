@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BZV35CS/?tag=tolees-21'
 descuento: '35.00'
+average: '39'
 ---
 
 Tienes [Levi s Woods  Zapatillas para Hombre  Negro  Brillant Black 60   46 EU](https://www.amazon.es/dp/B07BZV35CS/?tag=tolees-21) con un 35.00 % de descuento con precio de oferta de 39 EUR (original: 60 EUR) en el siguiente enlace!

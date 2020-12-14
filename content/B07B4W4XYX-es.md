@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B4W4XYX/?tag=tolees-21'
 descuento: '53.35'
+average: '13.99'
 ---
 
 Tienes [Surenhap Máquina de Coser portátil  Mini Costura Profesional de Costura inalámbrica Herramienta Manual portátil - Herramienta de Puntada rápida para Tela  Ropa o Tela para niños](https://www.amazon.es/dp/B07B4W4XYX/?tag=tolees-21) con un 53.35 % de descuento con precio de oferta de 13.99 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F44HYFM/?tag=tolees-21'
 descuento: '53.22'
+average: '14.01'
 ---
 
 Tienes [Puma ESS Sweat TR Chándal  Hombre  Azul  Peacoat   XL](https://www.amazon.es/dp/B07F44HYFM/?tag=tolees-21) con un 53.22 % de descuento con precio de oferta de 14.01 EUR (original: 29.95 EUR) en el siguiente enlace!

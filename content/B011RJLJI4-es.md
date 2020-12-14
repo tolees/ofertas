@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B011RJLJI4/?tag=tolees-21'
 descuento: '34.67'
+average: '4.9'
 ---
 
 Tienes [adidas Pádel OV - Set overgrip  Color Blanco  Talla única](https://www.amazon.es/dp/B011RJLJI4/?tag=tolees-21) con un 34.67 % de descuento con precio de oferta de 4.9 EUR (original: 7.5 EUR) en el siguiente enlace!

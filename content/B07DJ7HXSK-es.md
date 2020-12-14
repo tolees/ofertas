@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ7HXSK/?tag=tolees-21'
 descuento: '63.09'
+average: '20.3'
 ---
 
 Ahora mismo tienes [New Balance 220  Zapatillas Unisex Niños  Azul  Cobalt Blue/Navy CBL   28 EU](https://www.amazon.es/dp/B07DJ7HXSK/?tag=tolees-21) a 20.3 EUR (original: 55 EUR) (63.09 %  de descuento) en el siguiente enlace!

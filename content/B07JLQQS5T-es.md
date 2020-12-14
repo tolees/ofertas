@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JLQQS5T/?tag=tolees-21'
 descuento: '27.66'
+average: '46.99'
 ---
 
 Tienes [YPLANG Pantalla Táctil Reemplazo para iPhone 7 Blanco Completo Herramientas de Reparación con Cámara Frontal  Altavoz del Auricular  Cable del Sensor  para iPhone 7  Blanco ](https://www.amazon.es/dp/B07JLQQS5T/?tag=tolees-21) con un 27.66 % de descuento con precio de oferta de 46.99 EUR (original: 64.96 EUR) en el siguiente enlace!

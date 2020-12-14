@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JKG3LJN/?tag=tolees-21'
 descuento: '33.03'
+average: '1.46'
 ---
 
 Está [2018 Joven Hombre Mujer Niño Niña Reloj Banda de Cuero Reloj de Pulsera de Cuarzo Regalo de cumpleaños Planet Mars Print Dial Round - Rosa](https://www.amazon.es/dp/B07JKG3LJN/?tag=tolees-21) con 33.03 de descuento por 1.46 EUR (original: 2.18 EUR) en el siguiente enlace!

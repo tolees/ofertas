@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D2QNY1R/?tag=tolees-21'
 descuento: '72.41'
+average: '26'
 ---
 
 Está [Reebok Royal Complete Pmw  Zapatillas Altas para Hombre  Azul  Collegiate Navy/Stucco/Wild Khaki 0   44 EU](https://www.amazon.es/dp/B07D2QNY1R/?tag=tolees-21) con 72.41 de descuento por 26 EUR (original: 94.24 EUR) en el siguiente enlace!

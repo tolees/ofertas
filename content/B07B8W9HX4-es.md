@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B8W9HX4/?tag=tolees-21'
 descuento: '32.86'
+average: '48.18'
 ---
 
 Está [Purina ProPlan pienso para Gato Esterilizado Pavo 6 x 1 5 Kg](https://www.amazon.es/dp/B07B8W9HX4/?tag=tolees-21) con 32.86 de descuento por 48.18 EUR (original: 71.76 EUR) en el siguiente enlace!

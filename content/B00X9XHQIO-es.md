@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00X9XHQIO/?tag=tolees-21'
 descuento: '64.70'
+average: '3.88'
 ---
 
 Tienes [Maybelline New York Super Stay 16H Better Skin Base de Maquillaje  Tono: 32 Golden](https://www.amazon.es/dp/B00X9XHQIO/?tag=tolees-21) con un 64.70 % de descuento con precio de oferta de 3.88 EUR (original: 10.99 EUR) en el siguiente enlace!

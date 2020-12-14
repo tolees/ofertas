@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LLH69KK/?tag=tolees-21'
 descuento: '26.79'
+average: '51.97'
 ---
 
 Está [Philips SoniCare Healthy White HX6711/02 - Cepillo de Dientes Electrico Recargable  2 Modos  1 Cabezales  Cargador  Color Verde](https://www.amazon.es/dp/B01LLH69KK/?tag=tolees-21) con 26.79 de descuento por 51.97 EUR (original: 70.99 EUR) en el siguiente enlace!

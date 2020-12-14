@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00NHOKZW4/?tag=tolees-21'
 descuento: '37.76'
+average: '1119.77'
 ---
 
 Está [Olympus OM-D E-M1 - Cámara Evil de 16.3 MP  Pantalla 3"  estabilizador  vídeo Full HD   Color Plateado - Kit Cuerpo cámara con Objetivo 12-40 mm f/2.8](https://www.amazon.es/dp/B00NHOKZW4/?tag=tolees-21) con 37.76 de descuento por 1119.77 EUR (original: 1799 EUR) en el siguiente enlace!

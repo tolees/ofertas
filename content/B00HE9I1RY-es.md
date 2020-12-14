@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00HE9I1RY/?tag=tolees-21'
 descuento: '27.64'
+average: '6.1'
 ---
 
 Está [Draper 32667 - Comprobador de corriente para coches  6 a 24 v CC ](https://www.amazon.es/dp/B00HE9I1RY/?tag=tolees-21) con 27.64 de descuento por 6.1 EUR (original: 8.43 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K6Y1FB2/?tag=tolees-21'
 descuento: '45.55'
+average: '29.95'
 ---
 
 Está [Levi s Modern Polo  Azul  LS Hm Patch Dress Blue W/Tipping 0000   Medium para Hombre](https://www.amazon.es/dp/B07K6Y1FB2/?tag=tolees-21) con 45.55 de descuento por 29.95 EUR (original: 55 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D4TPQWN/?tag=tolees-21'
 descuento: '44.20'
+average: '25.08'
 ---
 
 Ahora mismo tienes [Kappa Follow OC  Zapatillas Unisex Adulto  Azul  Navy/Grey 6716   45 EU](https://www.amazon.es/dp/B07D4TPQWN/?tag=tolees-21) a 25.08 EUR (original: 44.95 EUR) (44.20 %  de descuento) en el siguiente enlace!

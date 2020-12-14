@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B015RGLWBM/?tag=tolees-21'
 descuento: '34.23'
+average: '23.79'
 ---
 
 Tienes [Uncharted 4: A Thief s End [Importación Francesa]](https://www.amazon.es/dp/B015RGLWBM/?tag=tolees-21) con un 34.23 % de descuento con precio de oferta de 23.79 EUR (original: 36.17 EUR) en el siguiente enlace!

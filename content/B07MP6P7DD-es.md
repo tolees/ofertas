@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MP6P7DD/?tag=tolees-21'
 descuento: '28.44'
+average: '18.42'
 ---
 
 Ahora mismo tienes [NIVEA  Mousse corporal  Frambuesa  - 6 de 200 ml.  Total: 1200 ml. ](https://www.amazon.es/dp/B07MP6P7DD/?tag=tolees-21) a 18.42 EUR (original: 25.74 EUR) (28.44 %  de descuento) en el siguiente enlace!

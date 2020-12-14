@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JZWDTST/?tag=tolees-21'
 descuento: '46.92'
+average: '31.85'
 ---
 
 Está [Emporio Armani Underwear 9p406 Bañador  Azul  BLU Navy Stampato 01038   X-Small  Talla del Fabricante: 46  para Hombre](https://www.amazon.es/dp/B07JZWDTST/?tag=tolees-21) con 46.92 de descuento por 31.85 EUR (original: 60 EUR) en el siguiente enlace!

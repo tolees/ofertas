@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HF9LRC2/?tag=tolees-21'
 descuento: '81.24'
+average: '9.38'
 ---
 
 Tienes [Esprit 118ee1i001 suéter   Off White 2 111   Medium para Mujer](https://www.amazon.es/dp/B07HF9LRC2/?tag=tolees-21) con un 81.24 % de descuento con precio de oferta de 9.38 EUR (original: 49.99 EUR) en el siguiente enlace!

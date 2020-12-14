@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B009RUNQNM/?tag=tolees-21'
 descuento: '36.30'
+average: '9.58'
 ---
 
 Tienes [Licor Pernod 1L](https://www.amazon.es/dp/B009RUNQNM/?tag=tolees-21) con un 36.30 % de descuento con precio de oferta de 9.58 EUR (original: 15.04 EUR) en el siguiente enlace!

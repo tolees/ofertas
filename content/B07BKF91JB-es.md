@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BKF91JB/?tag=tolees-21'
 descuento: '80.67'
+average: '7.25'
 ---
 
 Ahora mismo tienes [Conguitos IIC30000 Leggings  Niñas  Rosa  Rosa 11   128  Tamaño del Fabricante:8A ](https://www.amazon.es/dp/B07BKF91JB/?tag=tolees-21) a 7.25 EUR (original: 37.5 EUR) (80.67 %  de descuento) en el siguiente enlace!

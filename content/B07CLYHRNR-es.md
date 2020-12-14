@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CLYHRNR/?tag=tolees-21'
 descuento: '49.95'
+average: '39.99'
 ---
 
 Está [MSI B360-F Pro - Placa Base Pro Series  LGA 1151  1 x PCI-E 3.0 x16  HDMI  DVI-D  Mining Management  4 x USB 3.1  6 x USB 2.0 ](https://www.amazon.es/dp/B07CLYHRNR/?tag=tolees-21) con 49.95 de descuento por 39.99 EUR (original: 79.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CVKYZRZ/?tag=tolees-21'
 descuento: '40.00'
+average: '35.97'
 ---
 
 Está [Skechers Go Walk Joy  Zapatillas sin Cordones para Mujer  Negro  Black BBK   38 EU](https://www.amazon.es/dp/B07CVKYZRZ/?tag=tolees-21) con 40.00 de descuento por 35.97 EUR (original: 59.95 EUR) en el siguiente enlace!

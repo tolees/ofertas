@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078FSJP3T/?tag=tolees-21'
 descuento: '51.18'
+average: '17.57'
 ---
 
 Tienes [DC Shoes Rebel Pantalones Cortos  Niños  Azul  campunula   14/L](https://www.amazon.es/dp/B078FSJP3T/?tag=tolees-21) con un 51.18 % de descuento con precio de oferta de 17.57 EUR (original: 35.99 EUR) en el siguiente enlace!

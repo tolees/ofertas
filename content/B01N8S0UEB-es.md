@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N8S0UEB/?tag=tolees-21'
 descuento: '43.75'
+average: '36.56'
 ---
 
 Tienes [Helly Hansen Marstrand Polo  Hombre  Rojo  Red Stripe   M](https://www.amazon.es/dp/B01N8S0UEB/?tag=tolees-21) con un 43.75 % de descuento con precio de oferta de 36.56 EUR (original: 65 EUR) en el siguiente enlace!

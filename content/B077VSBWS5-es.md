@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077VSBWS5/?tag=tolees-21'
 descuento: '59.30'
+average: '28.47'
 ---
 
 Está [Adidas CF Super Daily  Zapatillas de Deporte para Hombre  Beige Pertiz/Negbas 000  44 EU](https://www.amazon.es/dp/B077VSBWS5/?tag=tolees-21) con 59.30 de descuento por 28.47 EUR (original: 69.95 EUR) en el siguiente enlace!

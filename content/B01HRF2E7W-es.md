@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HRF2E7W/?tag=tolees-21'
 descuento: '47.92'
+average: '25'
 ---
 
 Está [Kelme Precision  Botas de fútbol para Hombre  Negro  44 EU](https://www.amazon.es/dp/B01HRF2E7W/?tag=tolees-21) con 47.92 de descuento por 25 EUR (original: 48 EUR) en el siguiente enlace!

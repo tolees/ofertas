@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0773VZTTY/?tag=tolees-21'
 descuento: '30.08'
+average: '41.95'
 ---
 
 Ahora mismo tienes [Under Armour UA Zone 3 NM  Zapatillas de Deporte para Hombre  Gris  Charcoal/Steel   43 EU](https://www.amazon.es/dp/B0773VZTTY/?tag=tolees-21) a 41.95 EUR (original: 60 EUR) (30.08 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGFD34Z/?tag=tolees-21'
 descuento: '47.67'
+average: '31.37'
 ---
 
 Ahora mismo tienes [BOSS Octopus  Bañador para Hombre  Rosa  Bright Pink 671  Large](https://www.amazon.es/dp/B07KGFD34Z/?tag=tolees-21) a 31.37 EUR (original: 59.95 EUR) (47.67 %  de descuento) en el siguiente enlace!

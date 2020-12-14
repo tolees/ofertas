@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D7RKB4J/?tag=tolees-21'
 descuento: '48.21'
+average: '72.5'
 ---
 
 Tienes [Saucony Ride ISO  Zapatillas de Running para Hombre  Blanco  White/Blue/Vizired 35   44 EU](https://www.amazon.es/dp/B07D7RKB4J/?tag=tolees-21) con un 48.21 % de descuento con precio de oferta de 72.5 EUR (original: 140 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004GFNKR0/?tag=tolees-21'
 descuento: '45.30'
+average: '8.2'
 ---
 
 Está [POP! Vinilo - Movies: Gremlins](https://www.amazon.es/dp/B004GFNKR0/?tag=tolees-21) con 45.30 de descuento por 8.2 EUR (original: 14.99 EUR) en el siguiente enlace!

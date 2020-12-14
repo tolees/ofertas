@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BM3TCJI/?tag=tolees-21'
 descuento: '29.76'
+average: '389.53'
 ---
 
 Está [Parker Duofold Classic - Pluma Estilográfica  Negro  Black - Gold Plated Finish   Plumín Fino](https://www.amazon.es/dp/B01BM3TCJI/?tag=tolees-21) con 29.76 de descuento por 389.53 EUR (original: 554.58 EUR) en el siguiente enlace!

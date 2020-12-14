@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XFXBVN1/?tag=tolees-21'
 descuento: '35.58'
+average: '179.14'
 ---
 
 Está [Bra Efficient Batería de cocina  5 piezas antiadherente  apta para todo tipo de cocinas incluso inducción   incluye libro con 40 recetas](https://www.amazon.es/dp/B06XFXBVN1/?tag=tolees-21) con 35.58 de descuento por 179.14 EUR (original: 278.1 EUR) en el siguiente enlace!

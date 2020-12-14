@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0007XOGSW/?tag=tolees-21'
 descuento: '75.81'
+average: '17.42'
 ---
 
 Está [Lanvin  Agua de tocador para hombres - 100 ml.](https://www.amazon.es/dp/B0007XOGSW/?tag=tolees-21) con 75.81 de descuento por 17.42 EUR (original: 72 EUR) en el siguiente enlace!

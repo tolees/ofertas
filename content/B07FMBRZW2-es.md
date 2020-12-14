@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FMBRZW2/?tag=tolees-21'
 descuento: '50.15'
+average: '14.95'
 ---
 
 Tienes [Only Onlsantana L/s Block Pullover Knt  suéter para Mujer   Dark Grey Melange Black/Sand Mel./Frosted Almond Glitter  42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B07FMBRZW2/?tag=tolees-21) con un 50.15 % de descuento con precio de oferta de 14.95 EUR (original: 29.99 EUR) en el siguiente enlace!

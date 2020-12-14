@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B1X9DF9/?tag=tolees-21'
 descuento: '66.25'
+average: '21.92'
 ---
 
 Ahora mismo tienes [Skechers Serene-Tranquility  Zapatillas sin Cordones para Mujer  Negro  Black BBK   39.5 EU](https://www.amazon.es/dp/B07B1X9DF9/?tag=tolees-21) a 21.92 EUR (original: 64.95 EUR) (66.25 %  de descuento) en el siguiente enlace!

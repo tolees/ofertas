@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B019RQ8WOI/?tag=tolees-21'
 descuento: '50.00'
+average: '69.99'
 ---
 
 Tienes [Jaula Madera 115x60 5x58cm 3 Ventanas Plexiglas 3 Pisos + Bandeja Extraible Hamster Raton](https://www.amazon.es/dp/B019RQ8WOI/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 69.99 EUR (original: 139.99 EUR) en el siguiente enlace!

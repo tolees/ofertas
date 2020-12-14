@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00EP5A8RQ/?tag=tolees-21'
 descuento: '68.70'
+average: '100.17'
 ---
 
 Está [Thomas Earnshaw Smart Watch Armbanduhr ES-8006-02](https://www.amazon.es/dp/B00EP5A8RQ/?tag=tolees-21) con 68.70 de descuento por 100.17 EUR (original: 320 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00EDQ515G/?tag=tolees-21'
 descuento: '29.54'
+average: '42.27'
 ---
 
 Ahora mismo tienes [Gigaset C430H - Teléfono inalámbrico  DECT  50 m  300 m  200 entradas  negro](https://www.amazon.es/dp/B00EDQ515G/?tag=tolees-21) a 42.27 EUR (original: 59.99 EUR) (29.54 %  de descuento) en el siguiente enlace!

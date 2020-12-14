@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073RK4ZJF/?tag=tolees-21'
 descuento: '49.99'
+average: '29.98'
 ---
 
 Ahora mismo tienes [adidas Refine Adapt  Zapatillas para Mujer  Negro  Core Black/Carbon/Footwear White 0   40 2/3 EU](https://www.amazon.es/dp/B073RK4ZJF/?tag=tolees-21) a 29.98 EUR (original: 59.95 EUR) (49.99 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J68BFP4/?tag=tolees-21'
 descuento: '54.38'
+average: '31.91'
 ---
 
 Está [adidas RUN70S  Zapatillas de Deporte para Hombre  Azuosc/Gridos 000  40 2/3 EU](https://www.amazon.es/dp/B07J68BFP4/?tag=tolees-21) con 54.38 de descuento por 31.91 EUR (original: 69.95 EUR) en el siguiente enlace!

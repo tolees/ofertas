@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00DDVK4SQ/?tag=tolees-21'
 descuento: '32.72'
+average: '20.15'
 ---
 
 Está [Levi s Denim Legging  Jeans para Niñas  Azul  Indigo 46  3 años  Talla del Fabricante: 3A ](https://www.amazon.es/dp/B00DDVK4SQ/?tag=tolees-21) con 32.72 de descuento por 20.15 EUR (original: 29.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00OBIDH5C/?tag=tolees-21'
 descuento: '50.00'
+average: '49.95'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger 1M87647435 - Pantalones para mujer  Absolute Blue Wash  W27/L34  talla fabricante: 3427 ](https://www.amazon.es/dp/B00OBIDH5C/?tag=tolees-21) a 49.95 EUR (original: 99.9 EUR) (50.00 %  de descuento) en el siguiente enlace!

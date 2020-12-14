@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00F08E4MW/?tag=tolees-21'
 descuento: '28.03'
+average: '22.96'
 ---
 
 Tienes [BabyBjörn Orinal sillón  Turquesa](https://www.amazon.es/dp/B00F08E4MW/?tag=tolees-21) con un 28.03 % de descuento con precio de oferta de 22.96 EUR (original: 31.9 EUR) en el siguiente enlace!

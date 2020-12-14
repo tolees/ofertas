@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ42T2X/?tag=tolees-21'
 descuento: '70.16'
+average: '26.84'
 ---
 
 Tienes [Puma Ignite Ronin  Zapatillas de Entrenamiento para Hombre  Blanco White Black 04  44.5 EU](https://www.amazon.es/dp/B07CZ42T2X/?tag=tolees-21) con un 70.16 % de descuento con precio de oferta de 26.84 EUR (original: 89.95 EUR) en el siguiente enlace!

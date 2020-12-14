@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073S8QNQW/?tag=tolees-21'
 descuento: '40.00'
+average: '67.19'
 ---
 
 Tienes [Salomon Ellipse 2 LTR W  Zapatillas de Senderismo para Mujer  Negro  Artic/Navy Blazer/Eggshell Blue   38 2/3 EU](https://www.amazon.es/dp/B073S8QNQW/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 67.19 EUR (original: 111.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0148ULMS6/?tag=tolees-21'
 descuento: '34.01'
+average: '32.96'
 ---
 
 Está [Gund - Pusheen Almohada De 2 Latos  Multicolor  33 x 12.7 x 41.9 cm  Enesco 4048862 ](https://www.amazon.es/dp/B0148ULMS6/?tag=tolees-21) con 34.01 de descuento por 32.96 EUR (original: 49.95 EUR) en el siguiente enlace!

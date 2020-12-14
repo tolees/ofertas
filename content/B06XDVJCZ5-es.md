@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XDVJCZ5/?tag=tolees-21'
 descuento: '59.12'
+average: '60.13'
 ---
 
 Ahora mismo tienes [Helly Hansen W Marion  Botas para Mujer   Negro   42 EU](https://www.amazon.es/dp/B06XDVJCZ5/?tag=tolees-21) a 60.13 EUR (original: 147.09 EUR) (59.12 %  de descuento) en el siguiente enlace!

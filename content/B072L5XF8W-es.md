@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072L5XF8W/?tag=tolees-21'
 descuento: '73.94'
+average: '18.24'
 ---
 
 Está [Esprit - 087ea1o067  Shoppers y bolsos de hombro Mujer  Orange  Copper   4x13x20 cm  B x H T ](https://www.amazon.es/dp/B072L5XF8W/?tag=tolees-21) con 73.94 de descuento por 18.24 EUR (original: 69.99 EUR) en el siguiente enlace!

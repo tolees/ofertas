@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00BHHNDB8/?tag=tolees-21'
 descuento: '25.77'
+average: '36.75'
 ---
 
 Ahora mismo tienes [Bahco 4128-JT-H - Serrucho Poda 28 Cm + Funda](https://www.amazon.es/dp/B00BHHNDB8/?tag=tolees-21) a 36.75 EUR (original: 49.51 EUR) (25.77 %  de descuento) en el siguiente enlace!

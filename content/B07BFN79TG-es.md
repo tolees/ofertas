@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BFN79TG/?tag=tolees-21'
 descuento: '51.99'
+average: '14.38'
 ---
 
 Ahora mismo tienes [Little Live Pets - Parque de Las Mariquitas Presumidas  Famosa 700014096 ](https://www.amazon.es/dp/B07BFN79TG/?tag=tolees-21) a 14.38 EUR (original: 29.95 EUR) (51.99 %  de descuento) en el siguiente enlace!

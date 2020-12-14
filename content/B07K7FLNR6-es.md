@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K7FLNR6/?tag=tolees-21'
 descuento: '28.10'
+average: '17.48'
 ---
 
 Ahora mismo tienes [Reflector GreeSuit-Super brillante de 20 vatios  luz blanca  luz de seguridad IP65 para exteriores  reflector para exteriores para garaje  jardín  césped y patio](https://www.amazon.es/dp/B07K7FLNR6/?tag=tolees-21) a 17.48 EUR (original: 24.31 EUR) (28.10 %  de descuento) en el siguiente enlace!

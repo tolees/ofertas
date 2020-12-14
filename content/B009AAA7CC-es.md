@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B009AAA7CC/?tag=tolees-21'
 descuento: '49.90'
+average: '19.99'
 ---
 
 Está [Samsung Book - Funda Galaxy Tab II  rosa](https://www.amazon.es/dp/B009AAA7CC/?tag=tolees-21) con 49.90 de descuento por 19.99 EUR (original: 39.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075R7YTGT/?tag=tolees-21'
 descuento: '84.80'
+average: '18.24'
 ---
 
 Está [New Balance Cypher Luxe  Zapatillas de Running para Mujer  Morado  Deep Cosmic White/Arctic Sky LP   36 EU](https://www.amazon.es/dp/B075R7YTGT/?tag=tolees-21) con 84.80 de descuento por 18.24 EUR (original: 120 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CVCLQVL/?tag=tolees-21'
 descuento: '72.83'
+average: '17.66'
 ---
 
 Está [Under Armour UA GS Suspend  Zapatillas de Running Unisex Niños  Negro  Black/White/Graphite 001   36 EU](https://www.amazon.es/dp/B07CVCLQVL/?tag=tolees-21) con 72.83 de descuento por 17.66 EUR (original: 65 EUR) en el siguiente enlace!

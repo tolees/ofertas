@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0778RT4MD/?tag=tolees-21'
 descuento: '73.26'
+average: '16.03'
 ---
 
 Ahora mismo tienes [Kappa Orbit  Zapatillas Unisex Adulto  Azul  Navy 6767   36 EU](https://www.amazon.es/dp/B0778RT4MD/?tag=tolees-21) a 16.03 EUR (original: 59.95 EUR) (73.26 %  de descuento) en el siguiente enlace!

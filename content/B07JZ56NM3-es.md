@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JZ56NM3/?tag=tolees-21'
 descuento: '99.34'
+average: '19.77'
 ---
 
 Tienes [Bovon Luz Solar  55 LED Foco Solar con Sensor de Movimiento  Luces Solares Exterior con Control Remoto y Carga USB  Lámparas Solares Impermeable para Jardín  Patio  Terraza  Garaje  Camino](https://www.amazon.es/dp/B07JZ56NM3/?tag=tolees-21) con un 99.34 % de descuento con precio de oferta de 19.77 EUR (original: 2999 EUR) en el siguiente enlace!

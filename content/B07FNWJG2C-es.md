@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FNWJG2C/?tag=tolees-21'
 descuento: '50.11'
+average: '19.95'
 ---
 
 Tienes [JACK & JONES Jjiace Jjharper WW Navy Blazer Ltd  Pantalones Hombre  Azul  Navy Blazer   W32/L30](https://www.amazon.es/dp/B07FNWJG2C/?tag=tolees-21) con un 50.11 % de descuento con precio de oferta de 19.95 EUR (original: 39.99 EUR) en el siguiente enlace!

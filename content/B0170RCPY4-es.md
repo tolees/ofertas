@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0170RCPY4/?tag=tolees-21'
 descuento: '41.88'
+average: '231.89'
 ---
 
 Tienes [Canton Movie 75 - Sistema de Home Cinema 5.1  Color Plata](https://www.amazon.es/dp/B0170RCPY4/?tag=tolees-21) con un 41.88 % de descuento con precio de oferta de 231.89 EUR (original: 399 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MUAG8TX/?tag=tolees-21'
 descuento: '64.31'
+average: '9.99'
 ---
 
 Tienes [Alcachofa Para Ducha   Marsoul ducha 7 LED de color cabezal de ducha de baño del aerosol fuerte anión doble filtración alcachofas de ducha  22*6 ](https://www.amazon.es/dp/B01MUAG8TX/?tag=tolees-21) con un 64.31 % de descuento con precio de oferta de 9.99 EUR (original: 27.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BXT52QL/?tag=tolees-21'
 descuento: '51.21'
+average: '85.39'
 ---
 
 Ahora mismo tienes [Scuderia Ferrari Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 830499](https://www.amazon.es/dp/B07BXT52QL/?tag=tolees-21) a 85.39 EUR (original: 175 EUR) (51.21 %  de descuento) en el siguiente enlace!

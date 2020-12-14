@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GATLUR6/?tag=tolees-21'
 descuento: '34.24'
+average: '36.17'
 ---
 
 Está [Levi s 501 Short  Pantalones Cortos para Mujer  Azul  Sea island 47   W30](https://www.amazon.es/dp/B01GATLUR6/?tag=tolees-21) con 34.24 de descuento por 36.17 EUR (original: 55 EUR) en el siguiente enlace!

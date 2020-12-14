@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00KAQBJEK/?tag=tolees-21'
 descuento: '45.41'
+average: '179'
 ---
 
 Tienes [Acer UM.VT2EE.A01 - Monitor](https://www.amazon.es/dp/B00KAQBJEK/?tag=tolees-21) con un 45.41 % de descuento con precio de oferta de 179 EUR (original: 327.88 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KHF68TO/?tag=tolees-21'
 descuento: '36.13'
+average: '99.9'
 ---
 
 Tienes [Casio Reloj Digital para Hombre de Cuarzo con Correa en Plástico DW-6900BB-1ER](https://www.amazon.es/dp/B01KHF68TO/?tag=tolees-21) con un 36.13 % de descuento con precio de oferta de 99.9 EUR (original: 156.4 EUR) en el siguiente enlace!

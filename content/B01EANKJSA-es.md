@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01EANKJSA/?tag=tolees-21'
 descuento: '50.03'
+average: '49.95'
 ---
 
 Está [Sony SRSHG1P - Altavoz inalámbrico  con Audio de Alta resolución  Bluetooth  NFC con un Solo Toque  Multi-Room   Color Burdeos](https://www.amazon.es/dp/B01EANKJSA/?tag=tolees-21) con 50.03 de descuento por 49.95 EUR (original: 99.95 EUR) en el siguiente enlace!

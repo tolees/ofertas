@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PXXW8QX/?tag=tolees-21'
 descuento: '48.78'
+average: '21'
 ---
 
 Tienes [COMIFORT – Estantes Pared Juego de 3 Estanterías Librería Moderna En Colores Blanca  Wengue  Roble  Nordic  Blanco ](https://www.amazon.es/dp/B07PXXW8QX/?tag=tolees-21) con un 48.78 % de descuento con precio de oferta de 21 EUR (original: 41 EUR) en el siguiente enlace!

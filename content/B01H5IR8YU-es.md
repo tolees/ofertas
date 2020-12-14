@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01H5IR8YU/?tag=tolees-21'
 descuento: '83.50'
+average: '11.54'
 ---
 
 Ahora mismo tienes [Colorado Denim C940  Azul para Hombre  Azul Denim  W30L32](https://www.amazon.es/dp/B01H5IR8YU/?tag=tolees-21) a 11.54 EUR (original: 69.95 EUR) (83.50 %  de descuento) en el siguiente enlace!

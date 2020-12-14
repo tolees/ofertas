@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01COW04XO/?tag=tolees-21'
 descuento: '64.45'
+average: '6'
 ---
 
 Ahora mismo tienes [A Little Lovely Company LTCW025 - Lámpara en forma de nube  color blanco](https://www.amazon.es/dp/B01COW04XO/?tag=tolees-21) a 6 EUR (original: 16.88 EUR) (64.45 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N79UCPQ/?tag=tolees-21'
 descuento: '66.13'
+average: '27.08'
 ---
 
 Ahora mismo tienes [adidas Copa Tango 17.2 TR  Botas de Fútbol Hombre  Negro  Core Black / Crystal White / Gold Metallic   42 EU](https://www.amazon.es/dp/B01N79UCPQ/?tag=tolees-21) a 27.08 EUR (original: 79.95 EUR) (66.13 %  de descuento) en el siguiente enlace!

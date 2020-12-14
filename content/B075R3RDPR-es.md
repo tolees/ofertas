@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075R3RDPR/?tag=tolees-21'
 descuento: '50.00'
+average: '60'
 ---
 
 Tienes [New Balance Fresh Foam Zante v4 Neutral  Zapatillas de Running para Mujer  Rosa  Conch Shell/Pigment Cp4   40 EU](https://www.amazon.es/dp/B075R3RDPR/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 60 EUR (original: 120 EUR) en el siguiente enlace!

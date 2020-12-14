@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MNVPVSJ/?tag=tolees-21'
 descuento: '40.00'
+average: '59.99'
 ---
 
 Está [HOMELODY Grifo de Cocina 360°Giratorio Extraíble Monomando Agua Fría y Caliente Grifo Cepillado](https://www.amazon.es/dp/B07MNVPVSJ/?tag=tolees-21) con 40.00 de descuento por 59.99 EUR (original: 99.99 EUR) en el siguiente enlace!

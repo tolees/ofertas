@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DPL3TL7/?tag=tolees-21'
 descuento: '37.52'
+average: '9.99'
 ---
 
 Ahora mismo tienes [Carpeta Archivadora Acordeon  Carpeta para Documentos A4  Archivador Carpeta  Carpeta Clasificadora para Uso de Oficina y Escuela  12 pockets black ](https://www.amazon.es/dp/B07DPL3TL7/?tag=tolees-21) a 9.99 EUR (original: 15.99 EUR) (37.52 %  de descuento) en el siguiente enlace!

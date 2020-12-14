@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FHP9YM9/?tag=tolees-21'
 descuento: '58.20'
+average: '12.52'
 ---
 
 Está [Puma ESS Pique Polo T-Shirt  Hombre  Cotton Black  M](https://www.amazon.es/dp/B07FHP9YM9/?tag=tolees-21) con 58.20 de descuento por 12.52 EUR (original: 29.95 EUR) en el siguiente enlace!

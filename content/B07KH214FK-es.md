@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KH214FK/?tag=tolees-21'
 descuento: '39.53'
+average: '9.07'
 ---
 
 Ahora mismo tienes [Under Armour Boy s Blitzing 2.0 Gorra  Niños  Blanco  White/Black 109   S/M](https://www.amazon.es/dp/B07KH214FK/?tag=tolees-21) a 9.07 EUR (original: 15 EUR) (39.53 %  de descuento) en el siguiente enlace!

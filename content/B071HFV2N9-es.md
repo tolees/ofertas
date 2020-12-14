@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071HFV2N9/?tag=tolees-21'
 descuento: '49.99'
+average: '44.98'
 ---
 
 Está [G-STAR RAW 3301 Deconstructed Slim  Jeans para Hombre  Azul  Rinsed 7599-082   33W / 34L](https://www.amazon.es/dp/B071HFV2N9/?tag=tolees-21) con 49.99 de descuento por 44.98 EUR (original: 89.95 EUR) en el siguiente enlace!

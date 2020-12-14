@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077TWKFTH/?tag=tolees-21'
 descuento: '48.63'
+average: '28.23'
 ---
 
 Ahora mismo tienes [Reebok Royal CL Jogger 2  Zapatillas de Trail Running para Hombre  Azul  CP/Collegiate Navy/Acid Blue/White 000  42 EU](https://www.amazon.es/dp/B077TWKFTH/?tag=tolees-21) a 28.23 EUR (original: 54.95 EUR) (48.63 %  de descuento) en el siguiente enlace!

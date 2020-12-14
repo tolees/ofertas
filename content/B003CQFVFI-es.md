@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003CQFVFI/?tag=tolees-21'
 descuento: '34.84'
+average: '8.79'
 ---
 
 Tienes [JVC HA-EB75-A-E - Auriculares de clip  azul](https://www.amazon.es/dp/B003CQFVFI/?tag=tolees-21) con un 34.84 % de descuento con precio de oferta de 8.79 EUR (original: 13.49 EUR) en el siguiente enlace!

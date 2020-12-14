@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N0OIJE4/?tag=tolees-21'
 descuento: '59.42'
+average: '46.67'
 ---
 
 Ahora mismo tienes [Puma Time PU104181005 - Reloj de Cuarzo para Hombre](https://www.amazon.es/dp/B01N0OIJE4/?tag=tolees-21) a 46.67 EUR (original: 115 EUR) (59.42 %  de descuento) en el siguiente enlace!

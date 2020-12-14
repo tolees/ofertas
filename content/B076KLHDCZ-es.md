@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076KLHDCZ/?tag=tolees-21'
 descuento: '60.01'
+average: '10.75'
 ---
 
 Está [Knorr Doble Caldo en Pastilla de Carne con Aceite de Oliva - Paquete de 24 x 10 Pastillas - Total: 240 Pastillas](https://www.amazon.es/dp/B076KLHDCZ/?tag=tolees-21) con 60.01 de descuento por 10.75 EUR (original: 26.88 EUR) en el siguiente enlace!

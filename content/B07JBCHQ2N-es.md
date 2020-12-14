@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JBCHQ2N/?tag=tolees-21'
 descuento: '44.16'
+average: '25.13'
 ---
 
 Tienes [SAMSONITE Up Way Man Auto Open Paraguas Clásico  84 cm  Gris](https://www.amazon.es/dp/B07JBCHQ2N/?tag=tolees-21) con un 44.16 % de descuento con precio de oferta de 25.13 EUR (original: 45 EUR) en el siguiente enlace!

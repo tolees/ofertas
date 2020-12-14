@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFYH6W5/?tag=tolees-21'
 descuento: '59.41'
+average: '9.25'
 ---
 
 Tienes [Burton Menswear London Hombre Navy Crew Neck Jumper suéter Not Applicable  Azul  Navy   Small](https://www.amazon.es/dp/B07DFYH6W5/?tag=tolees-21) con un 59.41 % de descuento con precio de oferta de 9.25 EUR (original: 22.79 EUR) en el siguiente enlace!

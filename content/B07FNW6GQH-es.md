@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FNW6GQH/?tag=tolees-21'
 descuento: '62.66'
+average: '9.69'
 ---
 
 Está [Buff Block Camo Cinta Windproof L/XL  Mujer  Flamingo Pink  Talla única](https://www.amazon.es/dp/B07FNW6GQH/?tag=tolees-21) con 62.66 de descuento por 9.69 EUR (original: 25.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06WXX9SZK/?tag=tolees-21'
 descuento: '37.78'
+average: '5.6'
 ---
 
 Tienes [Disney Bella Neceser de Viaje  22 cm  1.32 Litros  Varios colores](https://www.amazon.es/dp/B06WXX9SZK/?tag=tolees-21) con un 37.78 % de descuento con precio de oferta de 5.6 EUR (original: 9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KCWQZSN/?tag=tolees-21'
 descuento: '48.97'
+average: '15.31'
 ---
 
 Está [Hurley M One&Only Push-Through tee Camisetas  Hombre  Tropic TWST htr  XL](https://www.amazon.es/dp/B07KCWQZSN/?tag=tolees-21) con 48.97 de descuento por 15.31 EUR (original: 30 EUR) en el siguiente enlace!

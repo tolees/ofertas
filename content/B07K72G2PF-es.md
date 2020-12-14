@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K72G2PF/?tag=tolees-21'
 descuento: '37.86'
+average: '87'
 ---
 
 Tienes [Asics Gel-Cumulus 20 le  Zapatillas de Running para Hombre  Gris  Mid Dark Grey 020   42.5 EU](https://www.amazon.es/dp/B07K72G2PF/?tag=tolees-21) con un 37.86 % de descuento con precio de oferta de 87 EUR (original: 140 EUR) en el siguiente enlace!

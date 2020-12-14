@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071L9V9ZG/?tag=tolees-21'
 descuento: '47.27'
+average: '31.61'
 ---
 
 Ahora mismo tienes [Puma Prowl  Zapatillas Deportivas para Interior para Mujer  Azul  Nrgy Turquoise-White   39 EU](https://www.amazon.es/dp/B071L9V9ZG/?tag=tolees-21) a 31.61 EUR (original: 59.95 EUR) (47.27 %  de descuento) en el siguiente enlace!

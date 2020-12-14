@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IVVLB7U/?tag=tolees-21'
 descuento: '38.24'
+average: '82.94'
 ---
 
 Ahora mismo tienes [Altec Lansing Phantom 2.1 - Altavoz PC](https://www.amazon.es/dp/B01IVVLB7U/?tag=tolees-21) a 82.94 EUR (original: 134.3 EUR) (38.24 %  de descuento) en el siguiente enlace!

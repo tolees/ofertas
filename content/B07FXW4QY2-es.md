@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FXW4QY2/?tag=tolees-21'
 descuento: '80.01'
+average: '13.99'
 ---
 
 Está [Cúter profesional Powerdelux Cúter Plegable de Cambio Rápido Cortador con Mango Cómodo Cuchillo Profesional para Uso Diario y Trabajo Pesado 5 Hojas Incluidas Cuchillo Multiuso XD004](https://www.amazon.es/dp/B07FXW4QY2/?tag=tolees-21) con 80.01 de descuento por 13.99 EUR (original: 69.99 EUR) en el siguiente enlace!

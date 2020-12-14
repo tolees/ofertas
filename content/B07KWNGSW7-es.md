@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KWNGSW7/?tag=tolees-21'
 descuento: '50.03'
+average: '9.99'
 ---
 
 Ahora mismo tienes [Netis Extensor de WiFi 150Mbps Repetidor WiFi Amplificador Inalámbrico  Modo Enrutador/Extensor/Ap/WISP  2.4GHz  WPS  802.11b/g/n  Puerto Ethernet  EU Enchufe ](https://www.amazon.es/dp/B07KWNGSW7/?tag=tolees-21) a 9.99 EUR (original: 19.99 EUR) (50.03 %  de descuento) en el siguiente enlace!

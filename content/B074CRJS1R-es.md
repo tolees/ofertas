@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074CRJS1R/?tag=tolees-21'
 descuento: '56.11'
+average: '30.72'
 ---
 
 Tienes [Volcom Frickin SNT Dry 21" Shorts  Hombre  Black  29](https://www.amazon.es/dp/B074CRJS1R/?tag=tolees-21) con un 56.11 % de descuento con precio de oferta de 30.72 EUR (original: 70 EUR) en el siguiente enlace!

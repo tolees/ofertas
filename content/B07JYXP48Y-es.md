@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JYXP48Y/?tag=tolees-21'
 descuento: '34.01'
+average: '32.99'
 ---
 
 Está [Trswyop Pulsera de Actividad Inteligente  Reloj Inteligente Hombre Mujer con Pulsómetro Presión Arterial Reloj Deportivo Podómetro GPS Impermeable IP67 Cronómetro Smartwatch para Android iOS Teléfono](https://www.amazon.es/dp/B07JYXP48Y/?tag=tolees-21) con 34.01 de descuento por 32.99 EUR (original: 49.99 EUR) en el siguiente enlace!

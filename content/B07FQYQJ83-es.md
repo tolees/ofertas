@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQYQJ83/?tag=tolees-21'
 descuento: '53.26'
+average: '28.02'
 ---
 
 Tienes [Clarks Tunsil Ace  Zapatillas para Hombre  Negro  Black Textile-   39.5 EU](https://www.amazon.es/dp/B07FQYQJ83/?tag=tolees-21) con un 53.26 % de descuento con precio de oferta de 28.02 EUR (original: 59.95 EUR) en el siguiente enlace!

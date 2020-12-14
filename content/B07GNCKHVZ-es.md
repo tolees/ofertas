@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GNCKHVZ/?tag=tolees-21'
 descuento: '49.38'
+average: '15.98'
 ---
 
 Está [LifeWheel - Calcetines cortos - para hombre Multicolor 01:multicolor 6 Pairs  Medium](https://www.amazon.es/dp/B07GNCKHVZ/?tag=tolees-21) con 49.38 de descuento por 15.98 EUR (original: 31.57 EUR) en el siguiente enlace!

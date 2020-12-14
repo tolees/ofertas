@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GL7KXRZ/?tag=tolees-21'
 descuento: '61.57'
+average: '46.1'
 ---
 
 Ahora mismo tienes [Berg Outdoor ALVELOS Double Knitted Jacket  Hombre  Forged Iron  M](https://www.amazon.es/dp/B07GL7KXRZ/?tag=tolees-21) a 46.1 EUR (original: 119.95 EUR) (61.57 %  de descuento) en el siguiente enlace!

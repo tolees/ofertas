@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00MDJXIWI/?tag=tolees-21'
 descuento: '34.45'
+average: '4.7'
 ---
 
 Tienes [WOLFPACK 14061055 Cinta Pintor Carrocero Con Film Wolfpack 140 cm x  20m](https://www.amazon.es/dp/B00MDJXIWI/?tag=tolees-21) con un 34.45 % de descuento con precio de oferta de 4.7 EUR (original: 7.17 EUR) en el siguiente enlace!

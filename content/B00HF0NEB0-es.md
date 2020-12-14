@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00HF0NEB0/?tag=tolees-21'
 descuento: '45.42'
+average: '29.99'
 ---
 
 Tienes [WMF Ceramill Natura Juego 2 molinillos  Madera](https://www.amazon.es/dp/B00HF0NEB0/?tag=tolees-21) con un 45.42 % de descuento con precio de oferta de 29.99 EUR (original: 54.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KQ23SMR/?tag=tolees-21'
 descuento: '58.68'
+average: '41.32'
 ---
 
 Tienes [DC Shoes Mastaford Jackets  Hombre  Khaki  S](https://www.amazon.es/dp/B07KQ23SMR/?tag=tolees-21) con un 58.68 % de descuento con precio de oferta de 41.32 EUR (original: 99.99 EUR) en el siguiente enlace!

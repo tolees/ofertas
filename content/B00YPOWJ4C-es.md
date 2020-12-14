@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00YPOWJ4C/?tag=tolees-21'
 descuento: '42.44'
+average: '174.99'
 ---
 
 Está [Cecotec - Cinta de andar FitStep con 12 programas predefinidos. 1000 W de Potencia. Pantalla LED. 10 Km/h. Con Altavoces. Sistema seguridad magnético. Plegable  Rojo ](https://www.amazon.es/dp/B00YPOWJ4C/?tag=tolees-21) con 42.44 de descuento por 174.99 EUR (original: 304 EUR) en el siguiente enlace!

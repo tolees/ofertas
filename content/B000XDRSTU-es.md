@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000XDRSTU/?tag=tolees-21'
 descuento: '29.38'
+average: '38.45'
 ---
 
 Tienes [Plano KT500TB Rodillera Roja Negra 0](https://www.amazon.es/dp/B000XDRSTU/?tag=tolees-21) con un 29.38 % de descuento con precio de oferta de 38.45 EUR (original: 54.45 EUR) en el siguiente enlace!

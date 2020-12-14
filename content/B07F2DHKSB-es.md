@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F2DHKSB/?tag=tolees-21'
 descuento: '42.92'
+average: '3.99'
 ---
 
 Tienes [OurLeeme Comprobador de LãQuido comprobador de LãQuido de Frenos Detector de Frenos](https://www.amazon.es/dp/B07F2DHKSB/?tag=tolees-21) con un 42.92 % de descuento con precio de oferta de 3.99 EUR (original: 6.99 EUR) en el siguiente enlace!

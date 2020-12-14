@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F1Y2KG8/?tag=tolees-21'
 descuento: '47.69'
+average: '57.54'
 ---
 
 Tienes [Armani Exchange - Wallet With Stud  Carteras Mujer  Rojo  Red Shoes   10x4x19 cm  B x H T ](https://www.amazon.es/dp/B07F1Y2KG8/?tag=tolees-21) con un 47.69 % de descuento con precio de oferta de 57.54 EUR (original: 110 EUR) en el siguiente enlace!

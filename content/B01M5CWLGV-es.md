@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M5CWLGV/?tag=tolees-21'
 descuento: '73.15'
+average: '13.42'
 ---
 
 Tienes [DC Shoes Lanai Board Short  Niños  Black  24/8](https://www.amazon.es/dp/B01M5CWLGV/?tag=tolees-21) con un 73.15 % de descuento con precio de oferta de 13.42 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00GZLFQIE/?tag=tolees-21'
 descuento: '34.39'
+average: '65.6'
 ---
 
 Tienes [Bosch 06008A5C01 Cutting Edge Wireless Power SIN EJE  negro/verde  18 V](https://www.amazon.es/dp/B00GZLFQIE/?tag=tolees-21) con un 34.39 % de descuento con precio de oferta de 65.6 EUR (original: 99.99 EUR) en el siguiente enlace!

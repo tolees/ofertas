@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077MJJV68/?tag=tolees-21'
 descuento: '44.35'
+average: '19.45'
 ---
 
 Está [Puma Smash v2 SD V Inf  Zapatillas Unisex Niños  Azul  Peacoat White   26 EU](https://www.amazon.es/dp/B077MJJV68/?tag=tolees-21) con 44.35 de descuento por 19.45 EUR (original: 34.95 EUR) en el siguiente enlace!

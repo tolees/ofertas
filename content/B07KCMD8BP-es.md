@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KCMD8BP/?tag=tolees-21'
 descuento: '30.92'
+average: '13.47'
 ---
 
 Tienes [David Jones - 5961-1  Bolsos bandolera Mujer  Azul  D.Blue   7x16x18 cm  W x H L ](https://www.amazon.es/dp/B07KCMD8BP/?tag=tolees-21) con un 30.92 % de descuento con precio de oferta de 13.47 EUR (original: 19.5 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GS2V2SV/?tag=tolees-21'
 descuento: '28.58'
+average: '49.99'
 ---
 
 Ahora mismo tienes [Aingoo 3 cajones Mesas de Noche Mesita de Noche Sofá Lateral Sofá Lateral Unidades de Almacenamiento con Patas de Acero para el Dormitorio Sala de Estar  Roble](https://www.amazon.es/dp/B07GS2V2SV/?tag=tolees-21) a 49.99 EUR (original: 69.99 EUR) (28.58 %  de descuento) en el siguiente enlace!

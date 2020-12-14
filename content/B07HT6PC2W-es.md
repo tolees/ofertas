@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HT6PC2W/?tag=tolees-21'
 descuento: '58.24'
+average: '32.99'
 ---
 
 Tienes [TwobeFit Pulsera Actividad  Pulsera Inteligente Pantalla Color HR con Pulsómetro Pulsera Deportiva y Monitor de Sueño de Actividad para Mujer Hombre Impermeable IP67 Reloj Fitness Podómetro](https://www.amazon.es/dp/B07HT6PC2W/?tag=tolees-21) con un 58.24 % de descuento con precio de oferta de 32.99 EUR (original: 78.99 EUR) en el siguiente enlace!

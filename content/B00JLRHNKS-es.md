@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00JLRHNKS/?tag=tolees-21'
 descuento: '34.72'
+average: '7.99'
 ---
 
 Tienes [Luminarc Pure Box Active - Recipiente hermético Rectangular de vídrio  1 22 l](https://www.amazon.es/dp/B00JLRHNKS/?tag=tolees-21) con un 34.72 % de descuento con precio de oferta de 7.99 EUR (original: 12.24 EUR) en el siguiente enlace!

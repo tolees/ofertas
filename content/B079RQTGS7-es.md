@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RQTGS7/?tag=tolees-21'
 descuento: '76.28'
+average: '14.21'
 ---
 
 Ahora mismo tienes [Pepe Jeans Lupe Suéter  Gris  Grey Marl 933   L para Mujer](https://www.amazon.es/dp/B079RQTGS7/?tag=tolees-21) a 14.21 EUR (original: 59.9 EUR) (76.28 %  de descuento) en el siguiente enlace!

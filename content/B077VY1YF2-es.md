@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077VY1YF2/?tag=tolees-21'
 descuento: '39.06'
+average: '30.44'
 ---
 
 Ahora mismo tienes [Adidas CF Refresh Mid K  Zapatillas de Deporte Unisex Adulto  Negro Negbas 000  38 2/3 EU](https://www.amazon.es/dp/B077VY1YF2/?tag=tolees-21) a 30.44 EUR (original: 49.95 EUR) (39.06 %  de descuento) en el siguiente enlace!

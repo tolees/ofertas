@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07S94KR8J/?tag=tolees-21'
 descuento: '30.00'
+average: '32.13'
 ---
 
 Está [Trueno Kids](https://www.amazon.es/dp/B07S94KR8J/?tag=tolees-21) con 30.00 de descuento por 32.13 EUR (original: 45.9 EUR) en el siguiente enlace!

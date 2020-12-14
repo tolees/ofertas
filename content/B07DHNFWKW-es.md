@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHNFWKW/?tag=tolees-21'
 descuento: '79.56'
+average: '4.35'
 ---
 
 Está [BODY MOUSSE EFECTO SUAVE piel seca 200 ml](https://www.amazon.es/dp/B07DHNFWKW/?tag=tolees-21) con 79.56 de descuento por 4.35 EUR (original: 21.28 EUR) en el siguiente enlace!

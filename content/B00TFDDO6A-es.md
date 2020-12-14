@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TFDDO6A/?tag=tolees-21'
 descuento: '45.11'
+average: '361.73'
 ---
 
 Tienes [Canon EOS M3 - Cámara réflex Digital de 24.7 MP  Pantalla táctil 3"  estabilizador óptico  grabación de vídeo   Color Negro - Kit Cuerpo cámara con Objetivo Canon EF-M 18-55mm f/3.5-5.6 IS STM](https://www.amazon.es/dp/B00TFDDO6A/?tag=tolees-21) con un 45.11 % de descuento con precio de oferta de 361.73 EUR (original: 659 EUR) en el siguiente enlace!

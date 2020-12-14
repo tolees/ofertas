@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B1X5T9G/?tag=tolees-21'
 descuento: '67.67'
+average: '21'
 ---
 
 Está [Skechers Serene-Tranquility  Zapatillas sin Cordones para Mujer  Gris  Grey Gry   37.5 EU](https://www.amazon.es/dp/B07B1X5T9G/?tag=tolees-21) con 67.67 de descuento por 21 EUR (original: 64.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DBXNQMC/?tag=tolees-21'
 descuento: '70.85'
+average: '24.76'
 ---
 
 Está [Puma Suede Classic  Zapatillas Unisex Adults o  Blanco  Ponderosa Pine-Peacoat   40 EU](https://www.amazon.es/dp/B07DBXNQMC/?tag=tolees-21) con 70.85 de descuento por 24.76 EUR (original: 84.95 EUR) en el siguiente enlace!

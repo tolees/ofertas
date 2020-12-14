@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BS7RBF4/?tag=tolees-21'
 descuento: '63.21'
+average: '37.76'
 ---
 
 Tienes [DEERWORD Para mujer Carteras de mano Bolsos bandolera Bolsos bolera Bolsos maletín Cuero Gris](https://www.amazon.es/dp/B07BS7RBF4/?tag=tolees-21) con un 63.21 % de descuento con precio de oferta de 37.76 EUR (original: 102.64 EUR) en el siguiente enlace!

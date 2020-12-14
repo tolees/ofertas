@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C8MX2XC/?tag=tolees-21'
 descuento: '38.53'
+average: '79.9'
 ---
 
 Ahora mismo tienes [Solac SW8230 Cotton 16.0 Máquina de Coser Mecánica con 16 Puntadas  Blanco](https://www.amazon.es/dp/B07C8MX2XC/?tag=tolees-21) a 79.9 EUR (original: 129.99 EUR) (38.53 %  de descuento) en el siguiente enlace!

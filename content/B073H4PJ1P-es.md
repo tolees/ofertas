@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073H4PJ1P/?tag=tolees-21'
 descuento: '40.01'
+average: '17.99'
 ---
 
 Tienes [TUXWANG 18/10 Perchas de Acero Inoxidable 30 Piezas un Conjunto Perchas de Alambre Metálico de Acero Inoxidable Resistentes. Perchas Metalicas  Prendas de Cocina  Perchas para Ropa](https://www.amazon.es/dp/B073H4PJ1P/?tag=tolees-21) con un 40.01 % de descuento con precio de oferta de 17.99 EUR (original: 29.99 EUR) en el siguiente enlace!

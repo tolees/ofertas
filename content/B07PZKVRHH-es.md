@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PZKVRHH/?tag=tolees-21'
 descuento: '73.51'
+average: '3.99'
 ---
 
 Está [Lsnisni Luz nocturna de inducción LED con sensor inteligente  sensor digital desde la noche hasta el amanecer  encendido/apagado automático  uso en cualquier lugar  EU Enchufe-1 pcs ](https://www.amazon.es/dp/B07PZKVRHH/?tag=tolees-21) con 73.51 de descuento por 3.99 EUR (original: 15.06 EUR) en el siguiente enlace!

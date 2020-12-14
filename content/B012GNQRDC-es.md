@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B012GNQRDC/?tag=tolees-21'
 descuento: '72.21'
+average: '25'
 ---
 
 Tienes [Kingston SD10VG2/128GB - Tarjeta SD UHS-I SDHC/SDXC  Clase 10-128GB ](https://www.amazon.es/dp/B012GNQRDC/?tag=tolees-21) con un 72.21 % de descuento con precio de oferta de 25 EUR (original: 89.95 EUR) en el siguiente enlace!

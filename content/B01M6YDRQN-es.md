@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M6YDRQN/?tag=tolees-21'
 descuento: '62.80'
+average: '13.39'
 ---
 
 Está [Quiksilver Everyday Short de Felpa  Hombre  Gris Oscuro  L](https://www.amazon.es/dp/B01M6YDRQN/?tag=tolees-21) con 62.80 de descuento por 13.39 EUR (original: 35.99 EUR) en el siguiente enlace!

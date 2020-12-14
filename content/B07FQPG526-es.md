@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQPG526/?tag=tolees-21'
 descuento: '56.93'
+average: '19.38'
 ---
 
 Ahora mismo tienes [Hurley M One & Only 2.0 21  BAÑADORES  Hombre  Electro Green  33](https://www.amazon.es/dp/B07FQPG526/?tag=tolees-21) a 19.38 EUR (original: 45 EUR) (56.93 %  de descuento) en el siguiente enlace!

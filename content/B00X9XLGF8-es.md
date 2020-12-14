@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00X9XLGF8/?tag=tolees-21'
 descuento: '44.92'
+average: '3.85'
 ---
 
 Ahora mismo tienes [Maybelline New York 2en1 Eye Make Up Desmaquillante - 125 ml](https://www.amazon.es/dp/B00X9XLGF8/?tag=tolees-21) a 3.85 EUR (original: 6.99 EUR) (44.92 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HDNU08I/?tag=tolees-21'
 descuento: '53.91'
+average: '55.28'
 ---
 
 Tienes [Columbia Cascade Pass Waterproof  Botas de Senderismo para Hombre  Marrón  Major/Bright Copper   44 EU](https://www.amazon.es/dp/B01HDNU08I/?tag=tolees-21) con un 53.91 % de descuento con precio de oferta de 55.28 EUR (original: 119.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HYY685N/?tag=tolees-21'
 descuento: '58.43'
+average: '37.41'
 ---
 
 Ahora mismo tienes [Nike Wmns Air Zoom Ultra  Zapatillas de Squash para Mujer   Still Blue/Bright Crimson/White 404   40 EU](https://www.amazon.es/dp/B07HYY685N/?tag=tolees-21) a 37.41 EUR (original: 90 EUR) (58.43 %  de descuento) en el siguiente enlace!

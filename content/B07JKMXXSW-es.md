@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JKMXXSW/?tag=tolees-21'
 descuento: '50.02'
+average: '12.49'
 ---
 
 Está [Ellis Harper Masajeador Eléctrico de Mano Inalámbrico Recargable Magic Wand Massager | Función de Memoria | Varita de Masaje Corporal Vibratorio Silencioso y Potente Para Aliviar el Estrés Personal](https://www.amazon.es/dp/B07JKMXXSW/?tag=tolees-21) con 50.02 de descuento por 12.49 EUR (original: 24.99 EUR) en el siguiente enlace!

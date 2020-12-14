@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CXJPNK1/?tag=tolees-21'
 descuento: '26.37'
+average: '13.99'
 ---
 
 Ahora mismo tienes [Vaptio N1 Pro 240W Mod Cigarrillos electrónicos E-Cigarette TPD Cumple  Sin Tabaco y Sin Nicotina](https://www.amazon.es/dp/B07CXJPNK1/?tag=tolees-21) a 13.99 EUR (original: 19 EUR) (26.37 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XKMD9WC/?tag=tolees-21'
 descuento: '51.96'
+average: '13.45'
 ---
 
 Tienes [find. Alpargata de Cuero con Tiras Cruzadas para Mujer  Negro  Black   40 EU](https://www.amazon.es/dp/B06XKMD9WC/?tag=tolees-21) con un 51.96 % de descuento con precio de oferta de 13.45 EUR (original: 28 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D7ND6PV/?tag=tolees-21'
 descuento: '77.52'
+average: '8.99'
 ---
 
 Ahora mismo tienes [Carpetas Archivadoras  CNASA 12 Bolsillos Carpeta Acordeón entero y de esta Forma es muy Manejable Para Cualquier Negocio  Oficina  Diferenciados en Diferentes Colores](https://www.amazon.es/dp/B07D7ND6PV/?tag=tolees-21) a 8.99 EUR (original: 39.99 EUR) (77.52 %  de descuento) en el siguiente enlace!

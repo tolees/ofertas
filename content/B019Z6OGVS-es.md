@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B019Z6OGVS/?tag=tolees-21'
 descuento: '61.17'
+average: '23.4'
 ---
 
 Está [Trio Lighting Ging Reality R50741001-Sobremesa  1 x  IP20  230 V  Color Madera E14  40 W  Blanco](https://www.amazon.es/dp/B019Z6OGVS/?tag=tolees-21) con 61.17 de descuento por 23.4 EUR (original: 60.27 EUR) en el siguiente enlace!

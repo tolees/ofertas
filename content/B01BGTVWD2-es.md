@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BGTVWD2/?tag=tolees-21'
 descuento: '59.28'
+average: '40.7'
 ---
 
 Tienes [G-STAR RAW Rovic Zip 3D Tapered  Pantalones para Hombre  Beige  Dune 239   W35/L30](https://www.amazon.es/dp/B01BGTVWD2/?tag=tolees-21) con un 59.28 % de descuento con precio de oferta de 40.7 EUR (original: 99.95 EUR) en el siguiente enlace!

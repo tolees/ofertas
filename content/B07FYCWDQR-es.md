@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FYCWDQR/?tag=tolees-21'
 descuento: '58.32'
+average: '29.45'
 ---
 
 Está [Reebok CXT TR FB  Zapatillas de Deporte para Hombre   Vital Blue/Atomic Red/Wht/Silv/Collegiat 000   44.5 EU](https://www.amazon.es/dp/B07FYCWDQR/?tag=tolees-21) con 58.32 de descuento por 29.45 EUR (original: 70.66 EUR) en el siguiente enlace!

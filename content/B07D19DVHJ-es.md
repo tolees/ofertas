@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D19DVHJ/?tag=tolees-21'
 descuento: '82.88'
+average: '15.41'
 ---
 
 Ahora mismo tienes [SELECTED HOMME Slhslim-leediver Dk Grey Strc TRS B Noos  Pantalones de Traje Hombre  Gris  Dark Melange Dark Melange   W42  Talla del Fabricante: 58 ](https://www.amazon.es/dp/B07D19DVHJ/?tag=tolees-21) a 15.41 EUR (original: 89.99 EUR) (82.88 %  de descuento) en el siguiente enlace!

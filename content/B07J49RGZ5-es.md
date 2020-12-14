@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J49RGZ5/?tag=tolees-21'
 descuento: '55.73'
+average: '26.56'
 ---
 
 Está [Hurley M PHANTOM ALPHA TRAINER 18  BERMUDAS  Hombre](https://www.amazon.es/dp/B07J49RGZ5/?tag=tolees-21) con 55.73 de descuento por 26.56 EUR (original: 60 EUR) en el siguiente enlace!

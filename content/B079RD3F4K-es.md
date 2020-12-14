@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RD3F4K/?tag=tolees-21'
 descuento: '33.33'
+average: '19.84'
 ---
 
 Ahora mismo tienes [IPOTCH Altavoz sin Cables Bluetooth Super Bajo para Tableta Teléfono Móvil Inteligente Universal - Rojo](https://www.amazon.es/dp/B079RD3F4K/?tag=tolees-21) a 19.84 EUR (original: 29.76 EUR) (33.33 %  de descuento) en el siguiente enlace!

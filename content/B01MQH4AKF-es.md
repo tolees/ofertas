@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MQH4AKF/?tag=tolees-21'
 descuento: '66.97'
+average: '16.5'
 ---
 
 Ahora mismo tienes [Tamaris 22144  Bailarinas para Mujer  Negro  Black 001   39 EU](https://www.amazon.es/dp/B01MQH4AKF/?tag=tolees-21) a 16.5 EUR (original: 49.95 EUR) (66.97 %  de descuento) en el siguiente enlace!

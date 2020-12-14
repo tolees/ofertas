@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074ZR9L9N/?tag=tolees-21'
 descuento: '49.03'
+average: '35.17'
 ---
 
 Ahora mismo tienes [Pandora Anillo de sello Mujer plata - 196254CZ-58](https://www.amazon.es/dp/B074ZR9L9N/?tag=tolees-21) a 35.17 EUR (original: 69 EUR) (49.03 %  de descuento) en el siguiente enlace!

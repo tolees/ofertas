@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0798DYJHF/?tag=tolees-21'
 descuento: '38.79'
+average: '35.5'
 ---
 
 Tienes [Kelme Precision Lnfs 18  Zapatillas de Fútbol Sala para Hombre  Blanco  Blanco 6   40 EU](https://www.amazon.es/dp/B0798DYJHF/?tag=tolees-21) con un 38.79 % de descuento con precio de oferta de 35.5 EUR (original: 58 EUR) en el siguiente enlace!

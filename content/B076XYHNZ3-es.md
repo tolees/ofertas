@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076XYHNZ3/?tag=tolees-21'
 descuento: '53.63'
+average: '31.99'
 ---
 
 Está [Bergner Set 4 Tablas de Corte + Soporte Madera Nature  bambú  25 x 20 cms](https://www.amazon.es/dp/B076XYHNZ3/?tag=tolees-21) con 53.63 de descuento por 31.99 EUR (original: 68.99 EUR) en el siguiente enlace!

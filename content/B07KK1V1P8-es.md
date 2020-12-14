@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KK1V1P8/?tag=tolees-21'
 descuento: '54.66'
+average: '20.85'
 ---
 
 Ahora mismo tienes [Quiksilver Highline Kaimana 16" Bañador  Hombre  Negro  Black   36](https://www.amazon.es/dp/B07KK1V1P8/?tag=tolees-21) a 20.85 EUR (original: 45.99 EUR) (54.66 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHSY6H6/?tag=tolees-21'
 descuento: '60.27'
+average: '19.86'
 ---
 
 Está [DC Shoes EDYFB03055_XXL Pants  Hombre  Black](https://www.amazon.es/dp/B07DHSY6H6/?tag=tolees-21) con 60.27 de descuento por 19.86 EUR (original: 49.99 EUR) en el siguiente enlace!

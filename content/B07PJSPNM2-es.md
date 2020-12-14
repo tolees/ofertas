@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PJSPNM2/?tag=tolees-21'
 descuento: '55.05'
+average: '8.99'
 ---
 
 Tienes [Yizhet 4 Piezas Brazalete Reflectante Brazalete LED con luz de Seguridad LED y Correa Reflectante Luz Brillante para Hacer Jogging y luz de Seguridad para Deportes de Exterior  Azul y Verde](https://www.amazon.es/dp/B07PJSPNM2/?tag=tolees-21) con un 55.05 % de descuento con precio de oferta de 8.99 EUR (original: 20 EUR) en el siguiente enlace!

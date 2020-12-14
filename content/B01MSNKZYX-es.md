@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MSNKZYX/?tag=tolees-21'
 descuento: '60.08'
+average: '23.93'
 ---
 
 Está [Puma Pacer EVO  Zapatillas Unisex Adulto  Negro Black White 01  42 EU](https://www.amazon.es/dp/B01MSNKZYX/?tag=tolees-21) con 60.08 de descuento por 23.93 EUR (original: 59.95 EUR) en el siguiente enlace!

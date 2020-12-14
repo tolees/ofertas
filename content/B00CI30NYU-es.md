@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00CI30NYU/?tag=tolees-21'
 descuento: '37.22'
+average: '6.9'
 ---
 
 Tienes [NANOCABLE 10.32.1002-OEM - Cable de telefono RJ11  4C  Beige  Bobina de 100mts](https://www.amazon.es/dp/B00CI30NYU/?tag=tolees-21) con un 37.22 % de descuento con precio de oferta de 6.9 EUR (original: 10.99 EUR) en el siguiente enlace!

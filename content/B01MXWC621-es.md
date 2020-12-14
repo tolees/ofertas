@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MXWC621/?tag=tolees-21'
 descuento: '60.00'
+average: '370'
 ---
 
 Está [Tumi Alpha 2 Trolley para portátil  66 cm  76 liters  Negro  Black ](https://www.amazon.es/dp/B01MXWC621/?tag=tolees-21) con 60.00 de descuento por 370 EUR (original: 925 EUR) en el siguiente enlace!

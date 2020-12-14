@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01JLOJODO/?tag=tolees-21'
 descuento: '44.56'
+average: '180.19'
 ---
 
 Está [Ferrari 0830363 Speciale Evo - Reloj de pulsera para hombre](https://www.amazon.es/dp/B01JLOJODO/?tag=tolees-21) con 44.56 de descuento por 180.19 EUR (original: 325 EUR) en el siguiente enlace!

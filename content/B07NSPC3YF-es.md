@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NSPC3YF/?tag=tolees-21'
 descuento: '27.85'
+average: '381.65'
 ---
 
 Está [ASUS VivoBook X540UB-GQ492T - Ordenador portátil de 15.6"  Intel Core i3-7020U  8GB RAM  1TB HDD  NVIDIA GeForce MX110  Windows 10 Home  Negro - Teclado QWERTY Español](https://www.amazon.es/dp/B07NSPC3YF/?tag=tolees-21) con 27.85 de descuento por 381.65 EUR (original: 529 EUR) en el siguiente enlace!

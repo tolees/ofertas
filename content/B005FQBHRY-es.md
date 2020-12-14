@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005FQBHRY/?tag=tolees-21'
 descuento: '33.94'
+average: '10.9'
 ---
 
 Ahora mismo tienes [TIGI Champú para Pelo - 250 ml](https://www.amazon.es/dp/B005FQBHRY/?tag=tolees-21) a 10.9 EUR (original: 16.5 EUR) (33.94 %  de descuento) en el siguiente enlace!

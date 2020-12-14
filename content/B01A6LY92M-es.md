@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01A6LY92M/?tag=tolees-21'
 descuento: '38.29'
+average: '18.45'
 ---
 
 Tienes [Crocs Classic Slipper U  Zapatillas de Estar por casa Unisex Adulto  Rojo  Pepper/Oatmeal   38/39 EU](https://www.amazon.es/dp/B01A6LY92M/?tag=tolees-21) con un 38.29 % de descuento con precio de oferta de 18.45 EUR (original: 29.9 EUR) en el siguiente enlace!

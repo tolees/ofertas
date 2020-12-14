@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M0UV86N/?tag=tolees-21'
 descuento: '50.13'
+average: '19.9'
 ---
 
 Tienes [KLIM Bungee - Extensión para ratón - 3 x HUB USB 3.0 - Multifunción - Producto Retroiluminado - Organizador de Cables - 5 años de garantía - Nueva 2019 Versión - Negro](https://www.amazon.es/dp/B01M0UV86N/?tag=tolees-21) con un 50.13 % de descuento con precio de oferta de 19.9 EUR (original: 39.9 EUR) en el siguiente enlace!

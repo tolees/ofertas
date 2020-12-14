@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DM1T3NX/?tag=tolees-21'
 descuento: '47.69'
+average: '70.6'
 ---
 
 Ahora mismo tienes [Adidas I-5923  Zapatillas de Deporte para Hombre  Blanco  Tinbla/Maruni/Gum3 000   43 1/3 EU](https://www.amazon.es/dp/B07DM1T3NX/?tag=tolees-21) a 70.6 EUR (original: 134.96 EUR) (47.69 %  de descuento) en el siguiente enlace!

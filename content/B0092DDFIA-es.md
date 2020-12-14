@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0092DDFIA/?tag=tolees-21'
 descuento: '29.85'
+average: '0.94'
 ---
 
 Ahora mismo tienes [NANOCABLE 10.20.0102 - Cable de Red Ethernet RJ45 Cat.5e UTP AWG24  Gris  latiguillo de 2mts](https://www.amazon.es/dp/B0092DDFIA/?tag=tolees-21) a 0.94 EUR (original: 1.34 EUR) (29.85 %  de descuento) en el siguiente enlace!

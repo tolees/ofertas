@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NCSMMF4/?tag=tolees-21'
 descuento: '32.58'
+average: '36.91'
 ---
 
 Ahora mismo tienes [FERM RSM1019 Sierra recíproca  710W ](https://www.amazon.es/dp/B01NCSMMF4/?tag=tolees-21) a 36.91 EUR (original: 54.75 EUR) (32.58 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B008PD9XZW/?tag=tolees-21'
 descuento: '57.62'
+average: '36.32'
 ---
 
 Ahora mismo tienes [Icicles Dildo de Cristal - 1 unidad](https://www.amazon.es/dp/B008PD9XZW/?tag=tolees-21) a 36.32 EUR (original: 85.7 EUR) (57.62 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F8HW2KR/?tag=tolees-21'
 descuento: '63.67'
+average: '7.99'
 ---
 
 Ahora mismo tienes [NACATIN Lámpara de Fuego Solar  1 unidad ](https://www.amazon.es/dp/B07F8HW2KR/?tag=tolees-21) a 7.99 EUR (original: 21.99 EUR) (63.67 %  de descuento) en el siguiente enlace!

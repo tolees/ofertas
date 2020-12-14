@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076KKX31K/?tag=tolees-21'
 descuento: '41.60'
+average: '9.04'
 ---
 
 Ahora mismo tienes [Knorr Las Clásicas Crema de Alicia - Paquete de 12 x 300 ml - Total: 3600 ml](https://www.amazon.es/dp/B076KKX31K/?tag=tolees-21) a 9.04 EUR (original: 15.48 EUR) (41.60 %  de descuento) en el siguiente enlace!

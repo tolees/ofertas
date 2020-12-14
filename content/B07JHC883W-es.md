@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JHC883W/?tag=tolees-21'
 descuento: '45.58'
+average: '24.46'
 ---
 
 Ahora mismo tienes [PUMA ftblNXT Pro Shorts Pantalones Cortos  Hombre  Black/Red Blast  3XL](https://www.amazon.es/dp/B07JHC883W/?tag=tolees-21) a 24.46 EUR (original: 44.95 EUR) (45.58 %  de descuento) en el siguiente enlace!

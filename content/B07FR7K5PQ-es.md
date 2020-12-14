@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FR7K5PQ/?tag=tolees-21'
 descuento: '63.37'
+average: '36.61'
 ---
 
 Está [Clarks Edward Monk  Mocasines para Hombre  Marrón  Tan Leather-   42 EU](https://www.amazon.es/dp/B07FR7K5PQ/?tag=tolees-21) con 63.37 de descuento por 36.61 EUR (original: 99.95 EUR) en el siguiente enlace!

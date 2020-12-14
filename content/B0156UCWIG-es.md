@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0156UCWIG/?tag=tolees-21'
 descuento: '25.00'
+average: '49.05'
 ---
 
 Tienes [Viñas Del Vero Gewurztraminer Colección Vino D.O. Somontano - 6 Botellas x 750 ml - Total: 4500 ml](https://www.amazon.es/dp/B0156UCWIG/?tag=tolees-21) con un 25.00 % de descuento con precio de oferta de 49.05 EUR (original: 65.4 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B008F0JFAI/?tag=tolees-21'
 descuento: '29.29'
+average: '8.45'
 ---
 
 Ahora mismo tienes [Nike Tennissocken Cushion Crew 3Er Pack Calcetines  Hombre  Negro/Azul  XL](https://www.amazon.es/dp/B008F0JFAI/?tag=tolees-21) a 8.45 EUR (original: 11.95 EUR) (29.29 %  de descuento) en el siguiente enlace!

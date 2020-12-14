@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07Q3DLZBL/?tag=tolees-21'
 descuento: '80.01'
+average: '15.99'
 ---
 
 Está [LOBKIN Peine electrico para cabello y barba con funcion alisadora  rizadora  plancha  Herramienta totalmente multifuncional para el cabello y barba de los hombres](https://www.amazon.es/dp/B07Q3DLZBL/?tag=tolees-21) con 80.01 de descuento por 15.99 EUR (original: 79.99 EUR) en el siguiente enlace!

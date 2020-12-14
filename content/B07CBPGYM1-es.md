@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CBPGYM1/?tag=tolees-21'
 descuento: '30.61'
+average: '27.72'
 ---
 
 Ahora mismo tienes [Triumph Amourette Charm N  Sujetador sin Aros Mujer  Negro  Black 0004   90B  Talla del Fabricante: 75 ](https://www.amazon.es/dp/B07CBPGYM1/?tag=tolees-21) a 27.72 EUR (original: 39.95 EUR) (30.61 %  de descuento) en el siguiente enlace!

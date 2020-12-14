@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MYRGKGX/?tag=tolees-21'
 descuento: '50.06'
+average: '39.95'
 ---
 
 Está [New Balance ML373  Zapatillas para Hombre  Rojo  Burgundy/Silver   44.5 EU](https://www.amazon.es/dp/B01MYRGKGX/?tag=tolees-21) con 50.06 de descuento por 39.95 EUR (original: 80 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IF19AKQ/?tag=tolees-21'
 descuento: '60.44'
+average: '11.99'
 ---
 
 Ahora mismo tienes [Beileer elegante sombrero de protección UV al aire libre sombrero para exteriores Pesca Camping Ciclismo Caza Golf Senderismo  mujer hombre Infantil](https://www.amazon.es/dp/B01IF19AKQ/?tag=tolees-21) a 11.99 EUR (original: 30.31 EUR) (60.44 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00RWW688W/?tag=tolees-21'
 descuento: '79.23'
+average: '11.69'
 ---
 
 Está [Yep by Jonak Aceline - Bailarinas para niñas  Color Gris  taches Orange   Talla 27](https://www.amazon.es/dp/B00RWW688W/?tag=tolees-21) con 79.23 de descuento por 11.69 EUR (original: 56.27 EUR) en el siguiente enlace!

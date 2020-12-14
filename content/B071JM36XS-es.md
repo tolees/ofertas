@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071JM36XS/?tag=tolees-21'
 descuento: '66.40'
+average: '10.08'
 ---
 
 Ahora mismo tienes [RED WAGON Zapatillas Altas Metálicas Niñas  Dorado  Rose Gold   28 EU](https://www.amazon.es/dp/B071JM36XS/?tag=tolees-21) a 10.08 EUR (original: 30 EUR) (66.40 %  de descuento) en el siguiente enlace!

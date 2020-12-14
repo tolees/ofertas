@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KJQLN87/?tag=tolees-21'
 descuento: '47.35'
+average: '18.95'
 ---
 
 Está [Quiksilver Mack Vi Cartera de Doble Hoja  Hombre  Marrón  Chocolate Brown   L](https://www.amazon.es/dp/B07KJQLN87/?tag=tolees-21) con 47.35 de descuento por 18.95 EUR (original: 35.99 EUR) en el siguiente enlace!

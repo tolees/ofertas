@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H6DFT4W/?tag=tolees-21'
 descuento: '36.01'
+average: '15.99'
 ---
 
 Ahora mismo tienes [Riot: Civil Unrest](https://www.amazon.es/dp/B07H6DFT4W/?tag=tolees-21) a 15.99 EUR (original: 24.99 EUR) (36.01 %  de descuento) en el siguiente enlace!

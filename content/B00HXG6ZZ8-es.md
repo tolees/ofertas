@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00HXG6ZZ8/?tag=tolees-21'
 descuento: '30.79'
+average: '8.99'
 ---
 
 Ahora mismo tienes [Ultrasport AB Roller Aparato de abdominales  práctico aparato de fitness para entrenar musculatura y espalda  rodillo de abdominales con esterilla para las rodillas Unisex adulto Negro](https://www.amazon.es/dp/B00HXG6ZZ8/?tag=tolees-21) a 8.99 EUR (original: 12.99 EUR) (30.79 %  de descuento) en el siguiente enlace!

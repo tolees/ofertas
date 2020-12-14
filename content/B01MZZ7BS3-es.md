@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MZZ7BS3/?tag=tolees-21'
 descuento: '64.96'
+average: '29.78'
 ---
 
 Ahora mismo tienes [Asics Gel-Lyte Komachi  Zapatillas para Mujer  Negro Black  38 EU](https://www.amazon.es/dp/B01MZZ7BS3/?tag=tolees-21) a 29.78 EUR (original: 85 EUR) (64.96 %  de descuento) en el siguiente enlace!

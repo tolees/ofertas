@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000MQB0QU/?tag=tolees-21'
 descuento: '44.04'
+average: '27.95'
 ---
 
 Tienes [Cressi Rondinella Bag Juego de Snorkel  Unisex  Turquesa  8.5/9.5](https://www.amazon.es/dp/B000MQB0QU/?tag=tolees-21) con un 44.04 % de descuento con precio de oferta de 27.95 EUR (original: 49.95 EUR) en el siguiente enlace!

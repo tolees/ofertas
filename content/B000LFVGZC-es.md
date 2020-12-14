@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000LFVGZC/?tag=tolees-21'
 descuento: '26.62'
+average: '22.88'
 ---
 
 Tienes [Silverline 675056 - Abrazadera guía  1270 mm ](https://www.amazon.es/dp/B000LFVGZC/?tag=tolees-21) con un 26.62 % de descuento con precio de oferta de 22.88 EUR (original: 31.18 EUR) en el siguiente enlace!

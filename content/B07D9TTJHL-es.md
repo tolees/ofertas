@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9TTJHL/?tag=tolees-21'
 descuento: '81.61'
+average: '22.06'
 ---
 
 Está [Puma Platform Kiss ATH Lux Wn s  Zapatillas para Mujer  Negro Black 02  42.5 EU](https://www.amazon.es/dp/B07D9TTJHL/?tag=tolees-21) con 81.61 de descuento por 22.06 EUR (original: 119.95 EUR) en el siguiente enlace!

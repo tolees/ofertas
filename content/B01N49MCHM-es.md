@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N49MCHM/?tag=tolees-21'
 descuento: '46.84'
+average: '21.22'
 ---
 
 Ahora mismo tienes [Keeeper Bañera Ergonómica con Tapón Funny Farm  De 0 a 12 Meses  84 cm  Maria  Verde](https://www.amazon.es/dp/B01N49MCHM/?tag=tolees-21) a 21.22 EUR (original: 39.92 EUR) (46.84 %  de descuento) en el siguiente enlace!

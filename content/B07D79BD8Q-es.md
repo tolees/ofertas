@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D79BD8Q/?tag=tolees-21'
 descuento: '50.00'
+average: '50'
 ---
 
 Está [New Balance 574S v2  Zapatillas para Hombre  Negro  Black/NB White NSE   42.5 EU](https://www.amazon.es/dp/B07D79BD8Q/?tag=tolees-21) con 50.00 de descuento por 50 EUR (original: 100 EUR) en el siguiente enlace!

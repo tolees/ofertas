@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004EPYCR4/?tag=tolees-21'
 descuento: '31.43'
+average: '7.2'
 ---
 
 Ahora mismo tienes [Scitec L-Leucina - 100 cápsulas](https://www.amazon.es/dp/B004EPYCR4/?tag=tolees-21) a 7.2 EUR (original: 10.5 EUR) (31.43 %  de descuento) en el siguiente enlace!

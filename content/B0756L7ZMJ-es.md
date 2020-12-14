@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0756L7ZMJ/?tag=tolees-21'
 descuento: '40.60'
+average: '59.37'
 ---
 
 Está [adidas Terrex AX2R  Zapatillas de Running para Asfalto para Hombre  Negro Core Black/Grey 0  42 2/3 EU](https://www.amazon.es/dp/B0756L7ZMJ/?tag=tolees-21) con 40.60 de descuento por 59.37 EUR (original: 99.95 EUR) en el siguiente enlace!

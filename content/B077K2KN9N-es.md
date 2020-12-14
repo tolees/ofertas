@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077K2KN9N/?tag=tolees-21'
 descuento: '28.49'
+average: '21.99'
 ---
 
 Está [Teléfono inalámbrico Duo  Gigaset  Agenda hasta 50 contactos  identificación de Llamada entrante  Pantalla iluminada gráfica 1.5"  Lista 25 Llamadas perdidas  Gran autonomía.Color Negro. A170 Duo](https://www.amazon.es/dp/B077K2KN9N/?tag=tolees-21) con 28.49 de descuento por 21.99 EUR (original: 30.75 EUR) en el siguiente enlace!

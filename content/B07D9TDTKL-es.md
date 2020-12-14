@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9TDTKL/?tag=tolees-21'
 descuento: '56.45'
+average: '32.64'
 ---
 
 Está [adidas CF Advantage Cl  Zapatillas para Hombre  Negro Core Black/Trace Cargo 0  44 2/3 EU](https://www.amazon.es/dp/B07D9TDTKL/?tag=tolees-21) con 56.45 de descuento por 32.64 EUR (original: 74.95 EUR) en el siguiente enlace!

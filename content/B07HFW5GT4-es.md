@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HFW5GT4/?tag=tolees-21'
 descuento: '62.02'
+average: '15.19'
 ---
 
 Está [Foco Solar Exterior Luz Solar Jardín Pared Lámparas Ultra Brillante con Funciona de 8 Horas & 2 Modos de Iluminación  Lámparas Solares Ajustable Impermeable IP64 para Jardín Patio Calzada Cesped](https://www.amazon.es/dp/B07HFW5GT4/?tag=tolees-21) con 62.02 de descuento por 15.19 EUR (original: 39.99 EUR) en el siguiente enlace!

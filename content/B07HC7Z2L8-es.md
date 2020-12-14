@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HC7Z2L8/?tag=tolees-21'
 descuento: '31.43'
+average: '47.99'
 ---
 
 Tienes [Fitness Tracker IP67 Impermeable Pulsera Actividad Inteligente Rastreador de Actividad de Pantalla en Color Monitor de Pulso cardiaco/Podómetro/Monitor de sueño para Hombre y Mujer  P68 Oro Rosa ](https://www.amazon.es/dp/B07HC7Z2L8/?tag=tolees-21) con un 31.43 % de descuento con precio de oferta de 47.99 EUR (original: 69.99 EUR) en el siguiente enlace!

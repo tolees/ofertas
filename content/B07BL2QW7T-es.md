@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BL2QW7T/?tag=tolees-21'
 descuento: '55.12'
+average: '76.29'
 ---
 
 Está [New Balance Fresh Foam 1080v9  Zapatillas de Running para Hombre  Blanco  White/Black/Deep Ozone Blue   40 EU](https://www.amazon.es/dp/B07BL2QW7T/?tag=tolees-21) con 55.12 de descuento por 76.29 EUR (original: 170 EUR) en el siguiente enlace!

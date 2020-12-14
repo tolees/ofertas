@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G1W7TWQ/?tag=tolees-21'
 descuento: '50.47'
+average: '27.24'
 ---
 
 Tienes [Hurley M Capital Pullover Sudaderas  Hombre  Black  XXL](https://www.amazon.es/dp/B07G1W7TWQ/?tag=tolees-21) con un 50.47 % de descuento con precio de oferta de 27.24 EUR (original: 55 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017LTTO2C/?tag=tolees-21'
 descuento: '89.46'
+average: '3.82'
 ---
 
 Está [Egamaster - Velcro orbital 6" diámetro 5mm 130 para lijadora 57074](https://www.amazon.es/dp/B017LTTO2C/?tag=tolees-21) con 89.46 de descuento por 3.82 EUR (original: 36.23 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N8MLSWD/?tag=tolees-21'
 descuento: '66.70'
+average: '9.99'
 ---
 
 Tienes [Ringke Fusion Diseñado para Funda Galaxy S10 Crystal Transparente PC [Tecnología Matriz Puntos Anti-Adherente] Cubierta Protectora TPU Protección contra Caídas Liviana para Galaxy S10  2019  - Claro](https://www.amazon.es/dp/B07N8MLSWD/?tag=tolees-21) con un 66.70 % de descuento con precio de oferta de 9.99 EUR (original: 30 EUR) en el siguiente enlace!

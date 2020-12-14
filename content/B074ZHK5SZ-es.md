@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074ZHK5SZ/?tag=tolees-21'
 descuento: '50.11'
+average: '19.95'
 ---
 
 Está [Unbox - Newbie s Adventure](https://www.amazon.es/dp/B074ZHK5SZ/?tag=tolees-21) con 50.11 de descuento por 19.95 EUR (original: 39.99 EUR) en el siguiente enlace!

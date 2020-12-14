@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000KJR5ZE/?tag=tolees-21'
 descuento: '51.72'
+average: '26.64'
 ---
 
 Ahora mismo tienes [GBC WireBind Alambres de Encuadernación  12.5 mm  115 Hojas de Capacidad  A4  Negro  Pack de 100  RG810810](https://www.amazon.es/dp/B000KJR5ZE/?tag=tolees-21) a 26.64 EUR (original: 55.18 EUR) (51.72 %  de descuento) en el siguiente enlace!

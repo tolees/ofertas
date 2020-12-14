@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DDVXXRJ/?tag=tolees-21'
 descuento: '61.58'
+average: '32.66'
 ---
 
 Está [Converse Chuck Taylor All Star Becca  Zapatillas para Mujer  Verde Utility Green 316  38 EU](https://www.amazon.es/dp/B07DDVXXRJ/?tag=tolees-21) con 61.58 de descuento por 32.66 EUR (original: 85 EUR) en el siguiente enlace!

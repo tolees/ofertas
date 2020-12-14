@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077MMTVFL/?tag=tolees-21'
 descuento: '48.05'
+average: '2'
 ---
 
 Ahora mismo tienes [H&S Rejuvenecido y Fuerte Champú Anticaspa - 360 ml](https://www.amazon.es/dp/B077MMTVFL/?tag=tolees-21) a 2 EUR (original: 3.85 EUR) (48.05 %  de descuento) en el siguiente enlace!

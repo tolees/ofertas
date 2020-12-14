@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073RMKDDQ/?tag=tolees-21'
 descuento: '50.16'
+average: '44.83'
 ---
 
 Está [Columbia Fire Venture Textile  Zapatillas de Senderismo para Mujer  Rojo  Mountain Red/Kettle 613   37.5 EU](https://www.amazon.es/dp/B073RMKDDQ/?tag=tolees-21) con 50.16 de descuento por 44.83 EUR (original: 89.95 EUR) en el siguiente enlace!

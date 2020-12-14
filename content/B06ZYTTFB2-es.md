@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06ZYTTFB2/?tag=tolees-21'
 descuento: '62.05'
+average: '15.18'
 ---
 
 Ahora mismo tienes [Levi s Linden Cinturón  Negro  R Black 59   100 para Hombre](https://www.amazon.es/dp/B06ZYTTFB2/?tag=tolees-21) a 15.18 EUR (original: 40 EUR) (62.05 %  de descuento) en el siguiente enlace!

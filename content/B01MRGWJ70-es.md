@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MRGWJ70/?tag=tolees-21'
 descuento: '89.63'
+average: '25.93'
 ---
 
 Ahora mismo tienes [Puma Evotouch Pro AG  Botas de fútbol para Hombre  Blanco White-True Blue Danube 02  45 EU](https://www.amazon.es/dp/B01MRGWJ70/?tag=tolees-21) a 25.93 EUR (original: 249.95 EUR) (89.63 %  de descuento) en el siguiente enlace!

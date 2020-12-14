@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BZQYQHB/?tag=tolees-21'
 descuento: '50.10'
+average: '54.86'
 ---
 
 Está [Cybex Gold - Capazo blando Cocoon S  desde el nacimiento hasta los 6 meses  9 kg   Lavastone Black](https://www.amazon.es/dp/B07BZQYQHB/?tag=tolees-21) con 50.10 de descuento por 54.86 EUR (original: 109.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GPNBT4B/?tag=tolees-21'
 descuento: '51.73'
+average: '9.65'
 ---
 
 Ahora mismo tienes [Super Lucky s Tale - Edición Estándar](https://www.amazon.es/dp/B07GPNBT4B/?tag=tolees-21) a 9.65 EUR (original: 19.99 EUR) (51.73 %  de descuento) en el siguiente enlace!

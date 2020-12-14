@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HRXFFW9/?tag=tolees-21'
 descuento: '87.72'
+average: '9.99'
 ---
 
 Está [ApolloStar Mujer Pendientes de Chapado en Oro Sparkling Round Cubic Zirconia Stud Pendientes Regalo de la joyería](https://www.amazon.es/dp/B07HRXFFW9/?tag=tolees-21) con 87.72 de descuento por 9.99 EUR (original: 81.35 EUR) en el siguiente enlace!

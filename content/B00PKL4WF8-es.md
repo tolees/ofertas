@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00PKL4WF8/?tag=tolees-21'
 descuento: '33.41'
+average: '43.95'
 ---
 
 Tienes [Nike Viale  Zapatillas para Hombre  Negro  Black/White 002   42 EU](https://www.amazon.es/dp/B00PKL4WF8/?tag=tolees-21) con un 33.41 % de descuento con precio de oferta de 43.95 EUR (original: 66 EUR) en el siguiente enlace!

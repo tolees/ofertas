@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L741PXY/?tag=tolees-21'
 descuento: '40.74'
+average: '159.99'
 ---
 
 Está [UMIDIGI One MAX Smartphone Libre 4G Volte 6.3" Incell 19: 9 Soporte Cargador inalámbrico de 15W Batería 4150mAh 4GBRAM+128GB ROM Doble Cámara12MP+5MP Face Unlock Android 8.1[Carbon]](https://www.amazon.es/dp/B07L741PXY/?tag=tolees-21) con 40.74 de descuento por 159.99 EUR (original: 269.99 EUR) en el siguiente enlace!

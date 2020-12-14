@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0781ZBK3F/?tag=tolees-21'
 descuento: '32.26'
+average: '30.45'
 ---
 
 Está [adidas Duramo Lite 2.0  Zapatillas de Entrenamiento para Mujer  Rosa  Real Pink Footwear White 0   38 EU](https://www.amazon.es/dp/B0781ZBK3F/?tag=tolees-21) con 32.26 de descuento por 30.45 EUR (original: 44.95 EUR) en el siguiente enlace!

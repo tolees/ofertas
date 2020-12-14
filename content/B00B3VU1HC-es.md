@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00B3VU1HC/?tag=tolees-21'
 descuento: '38.48'
+average: '49'
 ---
 
 Está [Yamato 7020507 Esmeriladora de banco 200 W  220 V  gris](https://www.amazon.es/dp/B00B3VU1HC/?tag=tolees-21) con 38.48 de descuento por 49 EUR (original: 79.65 EUR) en el siguiente enlace!

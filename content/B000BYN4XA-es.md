@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000BYN4XA/?tag=tolees-21'
 descuento: '52.90'
+average: '32.5'
 ---
 
 Está [Converse Chuck Taylor All Star Season Ox  Zapatillas de Tela Unisex Adulto  Beige  44 EU](https://www.amazon.es/dp/B000BYN4XA/?tag=tolees-21) con 52.90 de descuento por 32.5 EUR (original: 69 EUR) en el siguiente enlace!

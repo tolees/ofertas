@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KRNKC1K/?tag=tolees-21'
 descuento: '63.33'
+average: '14.65'
 ---
 
 Ahora mismo tienes [Kappa Amun II  Zapatillas Unisex Adulto  Gris  L`Grey/White 1410   36 EU](https://www.amazon.es/dp/B07KRNKC1K/?tag=tolees-21) a 14.65 EUR (original: 39.95 EUR) (63.33 %  de descuento) en el siguiente enlace!

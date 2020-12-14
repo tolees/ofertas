@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004WJ0L3Q/?tag=tolees-21'
 descuento: '25.88'
+average: '21.6'
 ---
 
 Está [Furminator Herramienta de muda para gatos grandes de pelo largo L](https://www.amazon.es/dp/B004WJ0L3Q/?tag=tolees-21) con 25.88 de descuento por 21.6 EUR (original: 29.14 EUR) en el siguiente enlace!

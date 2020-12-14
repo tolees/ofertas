@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076MNTYB5/?tag=tolees-21'
 descuento: '40.83'
+average: '159.18'
 ---
 
 Tienes [Seiko Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable SSB255P1](https://www.amazon.es/dp/B076MNTYB5/?tag=tolees-21) con un 40.83 % de descuento con precio de oferta de 159.18 EUR (original: 269 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KPWN3PF/?tag=tolees-21'
 descuento: '58.68'
+average: '149.99'
 ---
 
 Está [SUMGOTT Aspirador sin Cable 9000Pa Aspiración 2 Velocidades Aspirador Ciclónico Escoba Eléctrica Doméstica Ultraligera Silenciosa Inalámbrica](https://www.amazon.es/dp/B07KPWN3PF/?tag=tolees-21) con 58.68 de descuento por 149.99 EUR (original: 362.99 EUR) en el siguiente enlace!

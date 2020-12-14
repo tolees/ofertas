@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GXCL4B8/?tag=tolees-21'
 descuento: '26.64'
+average: '65.99'
 ---
 
 Está [Chicco Pocket Meal - Trona ligera y compacta  para niños de 0 a 3 años  color gris  Nature ](https://www.amazon.es/dp/B07GXCL4B8/?tag=tolees-21) con 26.64 de descuento por 65.99 EUR (original: 89.95 EUR) en el siguiente enlace!

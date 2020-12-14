@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078WZX6D7/?tag=tolees-21'
 descuento: '61.04'
+average: '37.01'
 ---
 
 Está [Nike Dualtone Racer PRM  Zapatillas de Deporte para Hombre   Team Red/Black/White 600   44 EU](https://www.amazon.es/dp/B078WZX6D7/?tag=tolees-21) con 61.04 de descuento por 37.01 EUR (original: 95 EUR) en el siguiente enlace!

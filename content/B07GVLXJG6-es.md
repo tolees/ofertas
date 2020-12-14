@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GVLXJG6/?tag=tolees-21'
 descuento: '51.53'
+average: '15.99'
 ---
 
 Está [Lámpara de lectura recargable de 15 LED Moobibear  3 Modos de Brillo  Cálido  Blanca y Mixto  lampara led pinza flexible 360 ° para Lectores Noche  Cama  Niños  Kindle  Estudio  Tablet  Laptops](https://www.amazon.es/dp/B07GVLXJG6/?tag=tolees-21) con 51.53 de descuento por 15.99 EUR (original: 32.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00FKZ9EI4/?tag=tolees-21'
 descuento: '36.14'
+average: '15.9'
 ---
 
 Está [Lékué - Recipiente para fondue de chocolate](https://www.amazon.es/dp/B00FKZ9EI4/?tag=tolees-21) con 36.14 de descuento por 15.9 EUR (original: 24.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01L1UBYUM/?tag=tolees-21'
 descuento: '29.41'
+average: '18'
 ---
 
 Ahora mismo tienes [Gloss - caja de baño  caja de regalo para mujeres - La basura del baño GM HERBAL](https://www.amazon.es/dp/B01L1UBYUM/?tag=tolees-21) a 18 EUR (original: 25.5 EUR) (29.41 %  de descuento) en el siguiente enlace!

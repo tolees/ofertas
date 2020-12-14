@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N2JDQNM/?tag=tolees-21'
 descuento: '40.02'
+average: '11.99'
 ---
 
 Tienes [NWOUIIAY 8Pcs 17-C Cepillo Cabezales Cepillo elétrico Diente Profesional Cabezales de Cepillo](https://www.amazon.es/dp/B07N2JDQNM/?tag=tolees-21) con un 40.02 % de descuento con precio de oferta de 11.99 EUR (original: 19.99 EUR) en el siguiente enlace!

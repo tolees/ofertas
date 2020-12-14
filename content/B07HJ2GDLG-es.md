@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HJ2GDLG/?tag=tolees-21'
 descuento: '56.42'
+average: '16.99'
 ---
 
 Tienes [Protector de Escayola Pierna Niño  Protector Ducha Impermeable Pierna Niño  Protector Yeso Ducha Pierna Niño  Protector Escayola Baño Pierna Niño](https://www.amazon.es/dp/B07HJ2GDLG/?tag=tolees-21) con un 56.42 % de descuento con precio de oferta de 16.99 EUR (original: 38.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079WBYZ54/?tag=tolees-21'
 descuento: '68.98'
+average: '16.75'
 ---
 
 Está [Napapijri Pallet  Cinturón Hombre  Negro  Black 041   110  Talla del fabricante: 2 ](https://www.amazon.es/dp/B079WBYZ54/?tag=tolees-21) con 68.98 de descuento por 16.75 EUR (original: 54 EUR) en el siguiente enlace!

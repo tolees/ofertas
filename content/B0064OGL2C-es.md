@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0064OGL2C/?tag=tolees-21'
 descuento: '29.08'
+average: '67.37'
 ---
 
 Tienes [Swatch SURV100 - Reloj analógico de Cuarzo para Mujer con Correa de plástico  Color Morado](https://www.amazon.es/dp/B0064OGL2C/?tag=tolees-21) con un 29.08 % de descuento con precio de oferta de 67.37 EUR (original: 95 EUR) en el siguiente enlace!

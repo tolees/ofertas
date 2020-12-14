@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LG4TBCN/?tag=tolees-21'
 descuento: '33.18'
+average: '13.33'
 ---
 
 Ahora mismo tienes [Reloj Digital Calendario LCD.](https://www.amazon.es/dp/B07LG4TBCN/?tag=tolees-21) a 13.33 EUR (original: 19.95 EUR) (33.18 %  de descuento) en el siguiente enlace!

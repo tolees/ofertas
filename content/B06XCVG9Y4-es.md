@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XCVG9Y4/?tag=tolees-21'
 descuento: '47.48'
+average: '15.75'
 ---
 
 Está [Cortefiel Rojo/Raya Diplomat M](https://www.amazon.es/dp/B06XCVG9Y4/?tag=tolees-21) con 47.48 de descuento por 15.75 EUR (original: 29.99 EUR) en el siguiente enlace!

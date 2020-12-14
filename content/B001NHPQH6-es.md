@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001NHPQH6/?tag=tolees-21'
 descuento: '50.39'
+average: '20.75'
 ---
 
 Está [Hoffmann 0013344  - Beeboo bola de seguimiento 34 x 10 x 28 cm](https://www.amazon.es/dp/B001NHPQH6/?tag=tolees-21) con 50.39 de descuento por 20.75 EUR (original: 41.83 EUR) en el siguiente enlace!

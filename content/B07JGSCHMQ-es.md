@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JGSCHMQ/?tag=tolees-21'
 descuento: '43.40'
+average: '33.93'
 ---
 
 Está [Fila Men Sport&Style Controll II Low  Zapatillas Altas para Hombre  Blanco  White 1fg   46 EU](https://www.amazon.es/dp/B07JGSCHMQ/?tag=tolees-21) con 43.40 de descuento por 33.93 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00D7GG8SM/?tag=tolees-21'
 descuento: '57.15'
+average: '29.99'
 ---
 
 Tienes [Omiera Acdue Acne Tratamiento para cicatrices e quitar manchas de acne 30 ml](https://www.amazon.es/dp/B00D7GG8SM/?tag=tolees-21) con un 57.15 % de descuento con precio de oferta de 29.99 EUR (original: 69.99 EUR) en el siguiente enlace!

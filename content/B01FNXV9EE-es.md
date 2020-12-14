@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FNXV9EE/?tag=tolees-21'
 descuento: '67.00'
+average: '31.35'
 ---
 
 Está [Nike Roshe One BR  Zapatillas de Deporte para Hombre  Naranja  Total Crimson/White   43 EU](https://www.amazon.es/dp/B01FNXV9EE/?tag=tolees-21) con 67.00 de descuento por 31.35 EUR (original: 95 EUR) en el siguiente enlace!

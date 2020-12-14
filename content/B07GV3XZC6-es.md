@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GV3XZC6/?tag=tolees-21'
 descuento: '44.43'
+average: '27.73'
 ---
 
 Está [Fly London - Dipi614fly  Bolsos maletín Mujer  Negro  Black   8x16x22 cm  W x H L ](https://www.amazon.es/dp/B07GV3XZC6/?tag=tolees-21) con 44.43 de descuento por 27.73 EUR (original: 49.9 EUR) en el siguiente enlace!

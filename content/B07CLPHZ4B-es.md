@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CLPHZ4B/?tag=tolees-21'
 descuento: '29.79'
+average: '8.39'
 ---
 
 Ahora mismo tienes [Guardianes De La Galaxia - Vol. 2 [Blu-ray]](https://www.amazon.es/dp/B07CLPHZ4B/?tag=tolees-21) a 8.39 EUR (original: 11.95 EUR) (29.79 %  de descuento) en el siguiente enlace!

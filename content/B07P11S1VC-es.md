@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07P11S1VC/?tag=tolees-21'
 descuento: '55.19'
+average: '12.99'
 ---
 
 Está [Alarma Personal 3 PCS 140dB Alto Decibeles Alarma de Llavero con Función de Lluminación para Seguimiento Pánico Ancianos Mujer Niño](https://www.amazon.es/dp/B07P11S1VC/?tag=tolees-21) con 55.19 de descuento por 12.99 EUR (original: 28.99 EUR) en el siguiente enlace!

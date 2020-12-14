@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DBVV8PS/?tag=tolees-21'
 descuento: '63.77'
+average: '25.34'
 ---
 
 Tienes [Puma NRGY Neko Sport  Zapatillas de Running para Hombre  Azul  Peacoat White   44 EU](https://www.amazon.es/dp/B07DBVV8PS/?tag=tolees-21) con un 63.77 % de descuento con precio de oferta de 25.34 EUR (original: 69.95 EUR) en el siguiente enlace!

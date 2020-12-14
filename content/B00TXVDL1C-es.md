@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TXVDL1C/?tag=tolees-21'
 descuento: '71.34'
+average: '10.23'
 ---
 
 Está [Natec Genesis GX57 - Ratón láser  4000 dpi  6 Botones  Color Negro y Rojo](https://www.amazon.es/dp/B00TXVDL1C/?tag=tolees-21) con 71.34 de descuento por 10.23 EUR (original: 35.7 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077ZBHJJ3/?tag=tolees-21'
 descuento: '60.63'
+average: '10.98'
 ---
 
 Ahora mismo tienes [Juego de Pesca Baño Juguete de Agua para Bebe Hora Divertida de Baño  6 Peces ](https://www.amazon.es/dp/B077ZBHJJ3/?tag=tolees-21) a 10.98 EUR (original: 27.89 EUR) (60.63 %  de descuento) en el siguiente enlace!

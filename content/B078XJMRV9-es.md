@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078XJMRV9/?tag=tolees-21'
 descuento: '45.48'
+average: '11.99'
 ---
 
 Tienes [Pokemon JCC Colección Guzzlord-GX - Español The Pokemon Company POGX1801](https://www.amazon.es/dp/B078XJMRV9/?tag=tolees-21) con un 45.48 % de descuento con precio de oferta de 11.99 EUR (original: 21.99 EUR) en el siguiente enlace!

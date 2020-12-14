@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07Q8K1VQD/?tag=tolees-21'
 descuento: '45.68'
+average: '43.99'
 ---
 
 Está [Cámara de Coche  GEARGO Dashcam Full HD 1080P Dual Lens Cámara para Coche G-Sensor Detección de Movimiento Grabación en Bucle con Visión Noctura WDR 4"LCD Pantalla](https://www.amazon.es/dp/B07Q8K1VQD/?tag=tolees-21) con 45.68 de descuento por 43.99 EUR (original: 80.99 EUR) en el siguiente enlace!

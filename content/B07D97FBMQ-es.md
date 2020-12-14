@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D97FBMQ/?tag=tolees-21'
 descuento: '33.56'
+average: '99'
 ---
 
 Ahora mismo tienes [Motorola Moto E5 - Smartphone de 5.7"  Cámara DE 13 MP  Memoria RAM de 2 GB y Almacenamiento de 16 GB   Color Oro](https://www.amazon.es/dp/B07D97FBMQ/?tag=tolees-21) a 99 EUR (original: 149 EUR) (33.56 %  de descuento) en el siguiente enlace!

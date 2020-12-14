@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N4UNKXG/?tag=tolees-21'
 descuento: '53.38'
+average: '32.63'
 ---
 
 Ahora mismo tienes [Cortefiel 1579711  Mono Para Mujer  Multicolor  Several   Medium](https://www.amazon.es/dp/B01N4UNKXG/?tag=tolees-21) a 32.63 EUR (original: 69.99 EUR) (53.38 %  de descuento) en el siguiente enlace!

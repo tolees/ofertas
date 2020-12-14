@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L44RZNS/?tag=tolees-21'
 descuento: '50.03'
+average: '32.48'
 ---
 
 Tienes [Asics Aaron  Zapatillas de Gimnasia para Hombre  Negro  Black/White 002   46.5 EU](https://www.amazon.es/dp/B07L44RZNS/?tag=tolees-21) con un 50.03 % de descuento con precio de oferta de 32.48 EUR (original: 65 EUR) en el siguiente enlace!

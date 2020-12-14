@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076NDFH5H/?tag=tolees-21'
 descuento: '34.40'
+average: '104.9'
 ---
 
 Tienes [K2 F.I.T. 80 Boa – Patines en línea negro  44.5 EU](https://www.amazon.es/dp/B076NDFH5H/?tag=tolees-21) con un 34.40 % de descuento con precio de oferta de 104.9 EUR (original: 159.9 EUR) en el siguiente enlace!

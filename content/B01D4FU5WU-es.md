@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01D4FU5WU/?tag=tolees-21'
 descuento: '50.00'
+average: '46.98'
 ---
 
 Está [Ea7 Swimwear Seaworld Bright Swimshorts YELLOW XL](https://www.amazon.es/dp/B01D4FU5WU/?tag=tolees-21) con 50.00 de descuento por 46.98 EUR (original: 93.96 EUR) en el siguiente enlace!

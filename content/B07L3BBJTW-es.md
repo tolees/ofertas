@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L3BBJTW/?tag=tolees-21'
 descuento: '62.56'
+average: '16.81'
 ---
 
 Está [Tommy Hilfiger - Th Corporate Cc Holder  Tarjeteros Hombre  Negro  Black   1x7.2x10.4 cm  B x H T ](https://www.amazon.es/dp/B07L3BBJTW/?tag=tolees-21) con 62.56 de descuento por 16.81 EUR (original: 44.9 EUR) en el siguiente enlace!

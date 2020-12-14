@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M9LHFKT/?tag=tolees-21'
 descuento: '66.89'
+average: '31.45'
 ---
 
 Está [HUGO 50407566 - Cartera para hombre de Cuero Hombre Negro Negro  Black 001  1.5x9.5x11 cm  B x H x T ](https://www.amazon.es/dp/B07M9LHFKT/?tag=tolees-21) con 66.89 de descuento por 31.45 EUR (original: 95 EUR) en el siguiente enlace!

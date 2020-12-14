@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072LGXBTP/?tag=tolees-21'
 descuento: '50.03'
+average: '8.99'
 ---
 
 Tienes [iTrunk Actualizado a Prueba de Golpes Pata de Tren de Aterrizaje Anti-amortiguación Extensiones para DJI Mavic Pro  Gris  ](https://www.amazon.es/dp/B072LGXBTP/?tag=tolees-21) con un 50.03 % de descuento con precio de oferta de 8.99 EUR (original: 17.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XSLRWK1/?tag=tolees-21'
 descuento: '60.53'
+average: '9'
 ---
 
 Está [Urban Classics - Pantalones de playa para mujer  Mehrfarbig  Limb 1061   Large](https://www.amazon.es/dp/B06XSLRWK1/?tag=tolees-21) con 60.53 de descuento por 9 EUR (original: 22.8 EUR) en el siguiente enlace!

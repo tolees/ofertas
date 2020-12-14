@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BCMMVR6/?tag=tolees-21'
 descuento: '82.26'
+average: '17.73'
 ---
 
 Está [Clarks Dove Roxana  Botas Chukka para Mujer  Verde  Olive Suede   41.5 EU](https://www.amazon.es/dp/B07BCMMVR6/?tag=tolees-21) con 82.26 de descuento por 17.73 EUR (original: 99.95 EUR) en el siguiente enlace!

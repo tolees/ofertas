@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00NRLWM82/?tag=tolees-21'
 descuento: '70.14'
+average: '5.36'
 ---
 
 Está [Disney Frozen  - Glitter  Agenda con Accesorios  Color Rosa  Verde y Morado   Cife 86605 ](https://www.amazon.es/dp/B00NRLWM82/?tag=tolees-21) con 70.14 de descuento por 5.36 EUR (original: 17.95 EUR) en el siguiente enlace!

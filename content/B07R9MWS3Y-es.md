@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07R9MWS3Y/?tag=tolees-21'
 descuento: '80.78'
+average: '24.99'
 ---
 
 Está [LIGE Unisexo Hombre Relojes Impermeable Mode Minimalista Cuarzo analógico Reloje Hombres Negro Acero Inoxidable Reloj](https://www.amazon.es/dp/B07R9MWS3Y/?tag=tolees-21) con 80.78 de descuento por 24.99 EUR (original: 129.99 EUR) en el siguiente enlace!

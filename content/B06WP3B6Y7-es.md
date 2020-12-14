@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06WP3B6Y7/?tag=tolees-21'
 descuento: '69.97'
+average: '18'
 ---
 
 Está [s.Oliver 25312  Botas para Mujer  Beige  Khaki Comb.   39 EU](https://www.amazon.es/dp/B06WP3B6Y7/?tag=tolees-21) con 69.97 de descuento por 18 EUR (original: 59.95 EUR) en el siguiente enlace!

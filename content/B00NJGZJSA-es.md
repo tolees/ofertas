@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00NJGZJSA/?tag=tolees-21'
 descuento: '85.06'
+average: '9.71'
 ---
 
 Tienes [Acuvue Oasys - Lentes de contacto esféricas quincenales  R 8.8 / D 14/1.5 Diop   Pack de 12 uds.](https://www.amazon.es/dp/B00NJGZJSA/?tag=tolees-21) con un 85.06 % de descuento con precio de oferta de 9.71 EUR (original: 65 EUR) en el siguiente enlace!

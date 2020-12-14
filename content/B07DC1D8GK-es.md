@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC1D8GK/?tag=tolees-21'
 descuento: '54.81'
+average: '27.09'
 ---
 
 Está [Puma Electron  Zapatillas de Deporte Unisex Adulto  Azul  Surf The Web White-Asphalt-High Risk Red   37 EU](https://www.amazon.es/dp/B07DC1D8GK/?tag=tolees-21) con 54.81 de descuento por 27.09 EUR (original: 59.95 EUR) en el siguiente enlace!

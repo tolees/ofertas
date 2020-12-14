@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XHGPDTC/?tag=tolees-21'
 descuento: '52.30'
+average: '124.03'
 ---
 
 Tienes [Helly Hansen Verglas Hooded Down Insulator Jacket  Hombre  Olympian Blue  L](https://www.amazon.es/dp/B06XHGPDTC/?tag=tolees-21) con un 52.30 % de descuento con precio de oferta de 124.03 EUR (original: 260 EUR) en el siguiente enlace!

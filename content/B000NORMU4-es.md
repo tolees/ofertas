@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000NORMU4/?tag=tolees-21'
 descuento: '39.26'
+average: '38.45'
 ---
 
 Está [SHIMANO PD-M324 Pedales Unisex  Plateado Talla Única](https://www.amazon.es/dp/B000NORMU4/?tag=tolees-21) con 39.26 de descuento por 38.45 EUR (original: 63.3 EUR) en el siguiente enlace!

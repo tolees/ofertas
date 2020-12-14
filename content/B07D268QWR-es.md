@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D268QWR/?tag=tolees-21'
 descuento: '60.00'
+average: '22'
 ---
 
 Ahora mismo tienes [Auriculares Bluetooth YUES T20 Mini Twins Inalámbricos Estéreo In-Ear Bluetooth 4.2 con Caja de Carga Portátil Y Micrófono Integrado para iPhone y Android](https://www.amazon.es/dp/B07D268QWR/?tag=tolees-21) a 22 EUR (original: 55 EUR) (60.00 %  de descuento) en el siguiente enlace!

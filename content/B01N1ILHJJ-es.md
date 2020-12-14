@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N1ILHJJ/?tag=tolees-21'
 descuento: '63.65'
+average: '22.99'
 ---
 
 Ahora mismo tienes [Asics Gel-Contend 4  Zapatillas de Deporte Mujer  Negro  Black/silver/flash Coral   37 EU](https://www.amazon.es/dp/B01N1ILHJJ/?tag=tolees-21) a 22.99 EUR (original: 63.24 EUR) (63.65 %  de descuento) en el siguiente enlace!

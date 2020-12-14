@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078TT72RN/?tag=tolees-21'
 descuento: '29.26'
+average: '48.45'
 ---
 
 Tienes [adidas X_PLR Snkrboot  Zapatillas para Hombre  Negro  Carbon/Core Black/Footwear White 0   38 EU](https://www.amazon.es/dp/B078TT72RN/?tag=tolees-21) con un 29.26 % de descuento con precio de oferta de 48.45 EUR (original: 68.49 EUR) en el siguiente enlace!

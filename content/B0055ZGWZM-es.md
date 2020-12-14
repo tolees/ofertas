@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0055ZGWZM/?tag=tolees-21'
 descuento: '50.90'
+average: '14.19'
 ---
 
 Está [Orbegozo PB 2228 Bascula de baño electrónica Negro  Plata](https://www.amazon.es/dp/B0055ZGWZM/?tag=tolees-21) con 50.90 de descuento por 14.19 EUR (original: 28.9 EUR) en el siguiente enlace!

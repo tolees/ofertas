@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0781Z3DMY/?tag=tolees-21'
 descuento: '56.22'
+average: '21.87'
 ---
 
 Está [Puma Energy Tech Tight Pantalones  Hombre   Negro   L](https://www.amazon.es/dp/B0781Z3DMY/?tag=tolees-21) con 56.22 de descuento por 21.87 EUR (original: 49.95 EUR) en el siguiente enlace!

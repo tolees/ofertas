@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FKZ2YVC/?tag=tolees-21'
 descuento: '79.92'
+average: '8.03'
 ---
 
 Tienes [Only Onlindia 7/8 Pullover Knt  suéter Mujer   Cloud Dancer Black/Green Gables Glitter   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B07FKZ2YVC/?tag=tolees-21) con un 79.92 % de descuento con precio de oferta de 8.03 EUR (original: 39.99 EUR) en el siguiente enlace!

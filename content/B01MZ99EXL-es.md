@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MZ99EXL/?tag=tolees-21'
 descuento: '33.54'
+average: '10.6'
 ---
 
 Está [POP! Vinilo - Games: Tekken: Jin Kazama](https://www.amazon.es/dp/B01MZ99EXL/?tag=tolees-21) con 33.54 de descuento por 10.6 EUR (original: 15.95 EUR) en el siguiente enlace!

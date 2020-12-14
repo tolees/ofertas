@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0198QE5MA/?tag=tolees-21'
 descuento: '37.53'
+average: '69.96'
 ---
 
 Ahora mismo tienes [Memoria Flash USB inalámbrica SanDisk Connect Wireless Stick de 200 GB](https://www.amazon.es/dp/B0198QE5MA/?tag=tolees-21) a 69.96 EUR (original: 111.99 EUR) (37.53 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F1L5ZH5/?tag=tolees-21'
 descuento: '62.22'
+average: '52.89'
 ---
 
 Tienes [BILLABONG Outsider Pantalon térmico  Hombre  Camel  M](https://www.amazon.es/dp/B07F1L5ZH5/?tag=tolees-21) con un 62.22 % de descuento con precio de oferta de 52.89 EUR (original: 140 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BMSDPSY/?tag=tolees-21'
 descuento: '60.72'
+average: '7.73'
 ---
 
 Está [XIHAMA Correa para Xiaomi Huami Amazfit Series 1 Series 2 Samsung Gear S3 Huawei Watch 2 Pro Recambio de Silicona Deportivo Ajustable para Smartwatch Universal 22 mm](https://www.amazon.es/dp/B07BMSDPSY/?tag=tolees-21) con 60.72 de descuento por 7.73 EUR (original: 19.68 EUR) en el siguiente enlace!

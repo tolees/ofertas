@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BWB9N15/?tag=tolees-21'
 descuento: '64.54'
+average: '10.99'
 ---
 
 Está [ECHILUCK Escobilla para Inodoro y Cepillo de plástico para Inodoro  con Mango de Acero Inoxidable y Cabeza de Cepillo Intercambiable  Blanco ](https://www.amazon.es/dp/B07BWB9N15/?tag=tolees-21) con 64.54 de descuento por 10.99 EUR (original: 30.99 EUR) en el siguiente enlace!

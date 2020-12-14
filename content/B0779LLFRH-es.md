@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0779LLFRH/?tag=tolees-21'
 descuento: '65.03'
+average: '20.95'
 ---
 
 Ahora mismo tienes [Pepe Jeans Poppy  Pantalones Cortos Para Mujer  Azul  Denim Cf7   27W](https://www.amazon.es/dp/B0779LLFRH/?tag=tolees-21) a 20.95 EUR (original: 59.9 EUR) (65.03 %  de descuento) en el siguiente enlace!

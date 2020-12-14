@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GFXG2LS/?tag=tolees-21'
 descuento: '33.77'
+average: '50.99'
 ---
 
 Tienes [Taladro atornillador electrico inalambrico 12V conjunto con 2 baterías de iones de litio  2-velocidades ](https://www.amazon.es/dp/B07GFXG2LS/?tag=tolees-21) con un 33.77 % de descuento con precio de oferta de 50.99 EUR (original: 76.99 EUR) en el siguiente enlace!

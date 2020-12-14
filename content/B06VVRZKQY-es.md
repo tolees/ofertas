@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06VVRZKQY/?tag=tolees-21'
 descuento: '49.57'
+average: '35.95'
 ---
 
 Tienes [Nike Zapatillas Wmns Court Borough White Black  Deporte Unisex Adulto   Blanco 916794 100   38.5 EU](https://www.amazon.es/dp/B06VVRZKQY/?tag=tolees-21) con un 49.57 % de descuento con precio de oferta de 35.95 EUR (original: 71.28 EUR) en el siguiente enlace!

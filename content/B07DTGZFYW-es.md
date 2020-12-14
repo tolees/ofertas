@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DTGZFYW/?tag=tolees-21'
 descuento: '50.08'
+average: '14.95'
 ---
 
 Está [Puma 4Keeps Bra M Sujetador Deportivo  Mujer  Negro Black-Cat  XL](https://www.amazon.es/dp/B07DTGZFYW/?tag=tolees-21) con 50.08 de descuento por 14.95 EUR (original: 29.95 EUR) en el siguiente enlace!

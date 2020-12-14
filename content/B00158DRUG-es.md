@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00158DRUG/?tag=tolees-21'
 descuento: '69.20'
+average: '2.68'
 ---
 
 Ahora mismo tienes [Tommee Tippee Explora - Platos de 3 compartimentos  2 unidades](https://www.amazon.es/dp/B00158DRUG/?tag=tolees-21) a 2.68 EUR (original: 8.7 EUR) (69.20 %  de descuento) en el siguiente enlace!

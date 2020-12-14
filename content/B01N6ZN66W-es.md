@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N6ZN66W/?tag=tolees-21'
 descuento: '54.77'
+average: '90'
 ---
 
 Está [Láser recargable Med-Fit para hongos de uñas - Tratamiento doble acción probado con crema incluida para hongos de uñas: Tratamiento altamente eficaz para hongos de las uñas](https://www.amazon.es/dp/B01N6ZN66W/?tag=tolees-21) con 54.77 de descuento por 90 EUR (original: 199 EUR) en el siguiente enlace!

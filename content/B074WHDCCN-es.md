@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074WHDCCN/?tag=tolees-21'
 descuento: '47.32'
+average: '6.49'
 ---
 
 Ahora mismo tienes [Matar A Un Ruiseñor - Edición Metálica Limitada [Blu-ray]](https://www.amazon.es/dp/B074WHDCCN/?tag=tolees-21) a 6.49 EUR (original: 12.32 EUR) (47.32 %  de descuento) en el siguiente enlace!

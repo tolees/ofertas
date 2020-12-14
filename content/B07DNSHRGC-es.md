@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DNSHRGC/?tag=tolees-21'
 descuento: '34.15'
+average: '32.92'
 ---
 
 Está [Oregon RRA-320-PNX - Radio reloj proyector  negro](https://www.amazon.es/dp/B07DNSHRGC/?tag=tolees-21) con 34.15 de descuento por 32.92 EUR (original: 49.99 EUR) en el siguiente enlace!

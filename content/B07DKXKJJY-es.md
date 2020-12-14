@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DKXKJJY/?tag=tolees-21'
 descuento: '46.18'
+average: '13.45'
 ---
 
 Está [Columbia Schooner Bank Cachalot - Gorra de Nailon Unisex  Azul  Collegiate Navy   Talla Única](https://www.amazon.es/dp/B07DKXKJJY/?tag=tolees-21) con 46.18 de descuento por 13.45 EUR (original: 24.99 EUR) en el siguiente enlace!

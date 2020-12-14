@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GPLRYFX/?tag=tolees-21'
 descuento: '41.52'
+average: '30.99'
 ---
 
 Está [GBlife RC Coche Teledirigido Vehículo RC Car con Professional Off-Road Climbing Power Crawler 2.4GHZ Coche Escalada Eléctric juquetes para Niños y Adultos](https://www.amazon.es/dp/B07GPLRYFX/?tag=tolees-21) con 41.52 de descuento por 30.99 EUR (original: 52.99 EUR) en el siguiente enlace!

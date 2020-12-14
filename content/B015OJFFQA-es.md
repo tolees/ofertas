@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B015OJFFQA/?tag=tolees-21'
 descuento: '72.13'
+average: '26.46'
 ---
 
 Tienes [Puma Zapatillas Pitlane SF Rojo EU 46](https://www.amazon.es/dp/B015OJFFQA/?tag=tolees-21) con un 72.13 % de descuento con precio de oferta de 26.46 EUR (original: 94.95 EUR) en el siguiente enlace!

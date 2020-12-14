@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00005LEOC/?tag=tolees-21'
 descuento: '30.85'
+average: '434.93'
 ---
 
 Ahora mismo tienes [Nikon AF-Nikkor 20mm F2.8 D - Objetivo con Montura para Nikon  Distancia Focal Fija 20mm  Apertura f/2.8 ](https://www.amazon.es/dp/B00005LEOC/?tag=tolees-21) a 434.93 EUR (original: 629 EUR) (30.85 %  de descuento) en el siguiente enlace!

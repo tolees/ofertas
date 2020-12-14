@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFM8FHR/?tag=tolees-21'
 descuento: '50.09'
+average: '27.45'
 ---
 
 Tienes [adidas Real Madrid Minikit  Unisex bebé  Blanco  74](https://www.amazon.es/dp/B07DFM8FHR/?tag=tolees-21) con un 50.09 % de descuento con precio de oferta de 27.45 EUR (original: 55 EUR) en el siguiente enlace!

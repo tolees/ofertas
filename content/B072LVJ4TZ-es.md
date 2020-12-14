@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072LVJ4TZ/?tag=tolees-21'
 descuento: '47.05'
+average: '264.22'
 ---
 
 Está [Cosatto Supa Dupa Sis y Bro 5 doble cochecito](https://www.amazon.es/dp/B072LVJ4TZ/?tag=tolees-21) con 47.05 de descuento por 264.22 EUR (original: 499 EUR) en el siguiente enlace!

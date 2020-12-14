@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9DW8VD/?tag=tolees-21'
 descuento: '41.86'
+average: '31.95'
 ---
 
 Tienes [adidas X 18.3 AG J  Botas de fútbol Unisex Adulto  Ftwbla/Casbla 0  38 2/3 EU](https://www.amazon.es/dp/B07D9DW8VD/?tag=tolees-21) con un 41.86 % de descuento con precio de oferta de 31.95 EUR (original: 54.95 EUR) en el siguiente enlace!

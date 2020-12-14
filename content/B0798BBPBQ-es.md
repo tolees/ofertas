@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0798BBPBQ/?tag=tolees-21'
 descuento: '47.44'
+average: '23.6'
 ---
 
 Tienes [Kelme RETROBASCKET Jeans  Zapatillas Unisex Adulto  Azul  Denim 687   43 EU](https://www.amazon.es/dp/B0798BBPBQ/?tag=tolees-21) con un 47.44 % de descuento con precio de oferta de 23.6 EUR (original: 44.9 EUR) en el siguiente enlace!

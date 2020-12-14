@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071F2BVVJ/?tag=tolees-21'
 descuento: '62.69'
+average: '26.12'
 ---
 
 Está [Under Armour UA W Micro G Pursuit  Zapatillas de Running para Mujer  Rojo  Merlot   37.5 EU](https://www.amazon.es/dp/B071F2BVVJ/?tag=tolees-21) con 62.69 de descuento por 26.12 EUR (original: 70 EUR) en el siguiente enlace!

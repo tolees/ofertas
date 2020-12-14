@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BM98DV2/?tag=tolees-21'
 descuento: '57.94'
+average: '11.33'
 ---
 
 Ahora mismo tienes [NIVEA Gel Micelar Desmaquillador de Ojos Oil Free - Paquete de 6 x 125 ml - Total: 750 ml](https://www.amazon.es/dp/B07BM98DV2/?tag=tolees-21) a 11.33 EUR (original: 26.94 EUR) (57.94 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MQLRM35/?tag=tolees-21'
 descuento: '33.54'
+average: '42.7'
 ---
 
 Tienes [New Balance  Zapatillas Hombre  Negro  Black/Phantom   44 EU](https://www.amazon.es/dp/B01MQLRM35/?tag=tolees-21) con un 33.54 % de descuento con precio de oferta de 42.7 EUR (original: 64.25 EUR) en el siguiente enlace!

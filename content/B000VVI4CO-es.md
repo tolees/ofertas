@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000VVI4CO/?tag=tolees-21'
 descuento: '30.00'
+average: '5.95'
 ---
 
 Está [Everlast 4454R - Venda elástica  Color Rojo](https://www.amazon.es/dp/B000VVI4CO/?tag=tolees-21) con 30.00 de descuento por 5.95 EUR (original: 8.5 EUR) en el siguiente enlace!

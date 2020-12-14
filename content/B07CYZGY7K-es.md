@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CYZGY7K/?tag=tolees-21'
 descuento: '50.88'
+average: '54.01'
 ---
 
 Ahora mismo tienes [Salomon Sense Escape 2  Zapatillas de Trail Running para Hombre  Gris  Ebony/Stormy Weather/Pearl Blue   48 EU](https://www.amazon.es/dp/B07CYZGY7K/?tag=tolees-21) a 54.01 EUR (original: 109.95 EUR) (50.88 %  de descuento) en el siguiente enlace!

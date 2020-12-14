@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074Q49KZY/?tag=tolees-21'
 descuento: '68.65'
+average: '3.95'
 ---
 
 Tienes [Garnier Fructis Nutri Rizos  Mascarilla para Cabello Rizado u Ondulado - 3 x 300 ml: 900 ml](https://www.amazon.es/dp/B074Q49KZY/?tag=tolees-21) con un 68.65 % de descuento con precio de oferta de 3.95 EUR (original: 12.6 EUR) en el siguiente enlace!

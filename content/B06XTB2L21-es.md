@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XTB2L21/?tag=tolees-21'
 descuento: '36.32'
+average: '106.34'
 ---
 
 Ahora mismo tienes [Bosch 06033D1200 Aspiradora verde 1200 W](https://www.amazon.es/dp/B06XTB2L21/?tag=tolees-21) a 106.34 EUR (original: 166.99 EUR) (36.32 %  de descuento) en el siguiente enlace!

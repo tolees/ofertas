@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BU0U03K/?tag=tolees-21'
 descuento: '49.95'
+average: '29.98'
 ---
 
 Está [Remington Wet & Dry Reveal BB1000 - Cepillo suavizante corporal  rotativo  perfecto para la ducha](https://www.amazon.es/dp/B01BU0U03K/?tag=tolees-21) con 49.95 de descuento por 29.98 EUR (original: 59.9 EUR) en el siguiente enlace!

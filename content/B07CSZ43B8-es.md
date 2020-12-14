@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CSZ43B8/?tag=tolees-21'
 descuento: '79.53'
+average: '22.51'
 ---
 
 Está [Puma Rise XT Fuse 2 Wn s  Zapatillas de Deporte Interior para Mujer  Negro Black White-Knockout Pink  38.5 EU](https://www.amazon.es/dp/B07CSZ43B8/?tag=tolees-21) con 79.53 de descuento por 22.51 EUR (original: 109.95 EUR) en el siguiente enlace!

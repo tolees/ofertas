@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MSNN2MT/?tag=tolees-21'
 descuento: '59.62'
+average: '24.21'
 ---
 
 Tienes [Puma Prowl  Zapatillas Deportivas para Interior para Mujer  Negro  Black-White   37 EU](https://www.amazon.es/dp/B01MSNN2MT/?tag=tolees-21) con un 59.62 % de descuento con precio de oferta de 24.21 EUR (original: 59.95 EUR) en el siguiente enlace!

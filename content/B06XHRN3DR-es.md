@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XHRN3DR/?tag=tolees-21'
 descuento: '73.89'
+average: '8.09'
 ---
 
 Tienes [Elena de Ávalor IMC Toys 291041 - Electrónicos Micrófono con Amplificador](https://www.amazon.es/dp/B06XHRN3DR/?tag=tolees-21) con un 73.89 % de descuento con precio de oferta de 8.09 EUR (original: 30.99 EUR) en el siguiente enlace!

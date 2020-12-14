@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BL2S77W/?tag=tolees-21'
 descuento: '72.49'
+average: '30.26'
 ---
 
 Ahora mismo tienes [New Balance X-90  Zapatillas para Mujer  Rojo  NB Burgundy/Black PD   36.5 EU](https://www.amazon.es/dp/B07BL2S77W/?tag=tolees-21) a 30.26 EUR (original: 110 EUR) (72.49 %  de descuento) en el siguiente enlace!

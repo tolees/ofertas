@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00Y4XVT6S/?tag=tolees-21'
 descuento: '41.16'
+average: '55.9'
 ---
 
 Está [Lacoste PH4012  Polo Para Hombre  Negro  Noir   Medium  Talla del fabricante: 4 ](https://www.amazon.es/dp/B00Y4XVT6S/?tag=tolees-21) con 41.16 de descuento por 55.9 EUR (original: 95 EUR) en el siguiente enlace!

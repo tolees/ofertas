@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074XFZ8RR/?tag=tolees-21'
 descuento: '57.32'
+average: '25.61'
 ---
 
 Está [HUGO Geid_sz35 Cinturón  Marrón  Dark Brown 202   100 cm para Hombre](https://www.amazon.es/dp/B074XFZ8RR/?tag=tolees-21) con 57.32 de descuento por 25.61 EUR (original: 60 EUR) en el siguiente enlace!

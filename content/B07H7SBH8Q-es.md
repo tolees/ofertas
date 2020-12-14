@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H7SBH8Q/?tag=tolees-21'
 descuento: '61.44'
+average: '30.34'
 ---
 
 Está [Hush Puppies Runner MOCC Lace  Mocasines para Hombre  Marrón  Tan 000   41 EU](https://www.amazon.es/dp/B07H7SBH8Q/?tag=tolees-21) con 61.44 de descuento por 30.34 EUR (original: 78.69 EUR) en el siguiente enlace!

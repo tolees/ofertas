@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DBWVFN9/?tag=tolees-21'
 descuento: '68.70'
+average: '26.59'
 ---
 
 Está [Puma Jaab XT Tz  Zapatillas de Deporte para Mujer  Blanco Black-Fair Aqua  40 EU](https://www.amazon.es/dp/B07DBWVFN9/?tag=tolees-21) con 68.70 de descuento por 26.59 EUR (original: 84.95 EUR) en el siguiente enlace!

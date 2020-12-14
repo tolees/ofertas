@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079J5MD2C/?tag=tolees-21'
 descuento: '40.22'
+average: '35.87'
 ---
 
 Ahora mismo tienes [Asics Patriot 10 Zapatillas de Running Hombre  Multicolor  Black/White 001   42.5 EU](https://www.amazon.es/dp/B079J5MD2C/?tag=tolees-21) a 35.87 EUR (original: 60 EUR) (40.22 %  de descuento) en el siguiente enlace!

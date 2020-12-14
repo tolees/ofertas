@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0773ZTNCN/?tag=tolees-21'
 descuento: '34.02'
+average: '65.95'
 ---
 
 Ahora mismo tienes [adidas Superstar  Zapatillas de Gimnasia para Mujer  Blanco Cyber Met./FTWR White  38 2/3 EU](https://www.amazon.es/dp/B0773ZTNCN/?tag=tolees-21) a 65.95 EUR (original: 99.95 EUR) (34.02 %  de descuento) en el siguiente enlace!

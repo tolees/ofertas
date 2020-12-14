@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K76BCJY/?tag=tolees-21'
 descuento: '45.32'
+average: '43.74'
 ---
 
 Ahora mismo tienes [Columbia Vapor Vent Hombre Zapatillas Multideporte Gris  Smokey Haze\Tangy Orange  Talla 42 EU](https://www.amazon.es/dp/B07K76BCJY/?tag=tolees-21) a 43.74 EUR (original: 79.99 EUR) (45.32 %  de descuento) en el siguiente enlace!

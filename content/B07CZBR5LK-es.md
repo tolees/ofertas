@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZBR5LK/?tag=tolees-21'
 descuento: '45.56'
+average: '48.99'
 ---
 
 Tienes [Under Armour UA Own The Gym Duffel Bolsa Deportiva  Unisex Adulto  Negro Black/Jet Gray 001  Talla única](https://www.amazon.es/dp/B07CZBR5LK/?tag=tolees-21) con un 45.56 % de descuento con precio de oferta de 48.99 EUR (original: 89.99 EUR) en el siguiente enlace!

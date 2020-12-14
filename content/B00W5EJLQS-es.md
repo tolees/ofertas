@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00W5EJLQS/?tag=tolees-21'
 descuento: '49.80'
+average: '112.95'
 ---
 
 Ahora mismo tienes [Burton Convoy Roller Trolley para portátil  70 cm  90 liters  Negro  Blotto ](https://www.amazon.es/dp/B00W5EJLQS/?tag=tolees-21) a 112.95 EUR (original: 225 EUR) (49.80 %  de descuento) en el siguiente enlace!

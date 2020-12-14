@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002C1AZNW/?tag=tolees-21'
 descuento: '39.97'
+average: '23.95'
 ---
 
 Tienes [Shock Absorber Classic Sports - Sujetador Deportivo para Mujer  diseño clásico  Copas estructuradas  Costura Plana  Color Blanco  Blanc   Talla 90C](https://www.amazon.es/dp/B002C1AZNW/?tag=tolees-21) con un 39.97 % de descuento con precio de oferta de 23.95 EUR (original: 39.9 EUR) en el siguiente enlace!

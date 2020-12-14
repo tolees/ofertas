@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072XGST3R/?tag=tolees-21'
 descuento: '45.55'
+average: '81.1'
 ---
 
 Tienes [Versa 20711000 Maniqui costura con Luz Carmen  168x37x23cm  Poliéster y madera](https://www.amazon.es/dp/B072XGST3R/?tag=tolees-21) con un 45.55 % de descuento con precio de oferta de 81.1 EUR (original: 148.94 EUR) en el siguiente enlace!

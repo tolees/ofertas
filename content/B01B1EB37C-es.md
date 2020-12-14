@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01B1EB37C/?tag=tolees-21'
 descuento: '74.97'
+average: '10'
 ---
 
 Tienes [Nike Jr Mercurial Vortex II TF  Zapatillas de Deporte para Niñas  Amarillo/Plateado/Morado  Brght MNG/Mtllc Slvr-Hypr TRQ   37 1/2 EU](https://www.amazon.es/dp/B01B1EB37C/?tag=tolees-21) con un 74.97 % de descuento con precio de oferta de 10 EUR (original: 39.95 EUR) en el siguiente enlace!

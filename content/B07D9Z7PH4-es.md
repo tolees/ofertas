@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9Z7PH4/?tag=tolees-21'
 descuento: '61.33'
+average: '27.05'
 ---
 
 Tienes [Puma Vikky Mid WTR  Zapatillas Altas para Mujer  Negro Black-Iron Gate 01  37.5 EU](https://www.amazon.es/dp/B07D9Z7PH4/?tag=tolees-21) con un 61.33 % de descuento con precio de oferta de 27.05 EUR (original: 69.95 EUR) en el siguiente enlace!

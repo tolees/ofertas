@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077YDJY3R/?tag=tolees-21'
 descuento: '62.40'
+average: '8.63'
 ---
 
 Ahora mismo tienes [HIKARO Logo Print Cropped  Jogger para Mujer  Rosa  Pink Marl   42  Talla del fabricante: Large ](https://www.amazon.es/dp/B077YDJY3R/?tag=tolees-21) a 8.63 EUR (original: 22.95 EUR) (62.40 %  de descuento) en el siguiente enlace!

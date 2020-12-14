@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CYHGG95/?tag=tolees-21'
 descuento: '57.17'
+average: '8.99'
 ---
 
 Tienes [60 pieza Neodimio Imán,Mini Imanes Neodimio Raro Tierra 6 x 3 mm, Multiuso para puerta de refrigerador](https://www.amazon.es/dp/B07CYHGG95/?tag=tolees-21) con un 57.17 % de descuento con precio de oferta de 8.99 EUR (original: 20.99 EUR) en el siguiente enlace!

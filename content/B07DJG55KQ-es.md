@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJG55KQ/?tag=tolees-21'
 descuento: '75.31'
+average: '19.74'
 ---
 
 Ahora mismo tienes [Dockers by Gerli 41ju201  Botas Militar para Mujer  Amarillo  Gelb 900   36 EU](https://www.amazon.es/dp/B07DJG55KQ/?tag=tolees-21) a 19.74 EUR (original: 79.95 EUR) (75.31 %  de descuento) en el siguiente enlace!

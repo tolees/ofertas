@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D2RGW57/?tag=tolees-21'
 descuento: '30.00'
+average: '76.96'
 ---
 
 Tienes [Reebok Cl Leather II  Zapatillas para Hombre  Blanco  White/Cool Shadow/Black 0   47 EU](https://www.amazon.es/dp/B07D2RGW57/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 76.96 EUR (original: 109.95 EUR) en el siguiente enlace!

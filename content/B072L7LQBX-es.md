@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072L7LQBX/?tag=tolees-21'
 descuento: '62.25'
+average: '30.2'
 ---
 
 Está [Nike Pantheos  Zapatillas de Gimnasia para Hombre  Negro  Black/White 001   45.5 EU](https://www.amazon.es/dp/B072L7LQBX/?tag=tolees-21) con 62.25 de descuento por 30.2 EUR (original: 80 EUR) en el siguiente enlace!

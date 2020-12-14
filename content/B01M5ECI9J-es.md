@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M5ECI9J/?tag=tolees-21'
 descuento: '31.87'
+average: '339.99'
 ---
 
 Tienes [Lenovo Yoga Tab3 Pro-X90F  Tablet de 10.1" QHD  Intel Atom x5-Z8550  4GB de RAM  Almacenamieto de 64GB de eMMC  Camara de 13MP  Sistema Operativo Android 6  Wifi + Bluetooth con proyector integrado   color gris oscuro](https://www.amazon.es/dp/B01M5ECI9J/?tag=tolees-21) con un 31.87 % de descuento con precio de oferta de 339.99 EUR (original: 499 EUR) en el siguiente enlace!

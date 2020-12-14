@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004VHY2AM/?tag=tolees-21'
 descuento: '36.67'
+average: '34.2'
 ---
 
 Tienes [Clarins Lift Fermete Crema 200 ml](https://www.amazon.es/dp/B004VHY2AM/?tag=tolees-21) con un 36.67 % de descuento con precio de oferta de 34.2 EUR (original: 54 EUR) en el siguiente enlace!

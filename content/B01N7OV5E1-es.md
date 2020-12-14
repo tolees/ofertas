@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N7OV5E1/?tag=tolees-21'
 descuento: '34.24'
+average: '117.71'
 ---
 
 Ahora mismo tienes [Reloj para hombre Tommy Hilfiger 1791351.](https://www.amazon.es/dp/B01N7OV5E1/?tag=tolees-21) a 117.71 EUR (original: 179 EUR) (34.24 %  de descuento) en el siguiente enlace!

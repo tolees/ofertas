@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KD4TM7T/?tag=tolees-21'
 descuento: '27.28'
+average: '23.99'
 ---
 
 Tienes [Vibrador Masajeador Doble Pene  Juguetes Eróticos Consolador de 64 combinación Modos Vibración Estimulador de Punto g/Clítoris  Anal Vibrador Sexuales Para Parejas Gay y Lesbiana](https://www.amazon.es/dp/B07KD4TM7T/?tag=tolees-21) con un 27.28 % de descuento con precio de oferta de 23.99 EUR (original: 32.99 EUR) en el siguiente enlace!

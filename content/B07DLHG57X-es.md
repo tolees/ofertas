@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLHG57X/?tag=tolees-21'
 descuento: '74.83'
+average: '9.06'
 ---
 
 Está [Springfield 5P Slim Daily Structure Pantalones  Hombre  Gris  Gama Grises 44    Tamaño del Fabricante:32 ](https://www.amazon.es/dp/B07DLHG57X/?tag=tolees-21) con 74.83 de descuento por 9.06 EUR (original: 35.99 EUR) en el siguiente enlace!

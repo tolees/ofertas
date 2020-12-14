@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00O82O6OW/?tag=tolees-21'
 descuento: '53.66'
+average: '10.07'
 ---
 
 Está [Approx APPNBCP15BR - Maletín para portátil de hasta 15.6"  Color Negro y Rojo](https://www.amazon.es/dp/B00O82O6OW/?tag=tolees-21) con 53.66 de descuento por 10.07 EUR (original: 21.73 EUR) en el siguiente enlace!

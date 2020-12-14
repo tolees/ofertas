@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FYV577H/?tag=tolees-21'
 descuento: '60.11'
+average: '10.08'
 ---
 
 Ahora mismo tienes [Marvo M508 - Ratón](https://www.amazon.es/dp/B07FYV577H/?tag=tolees-21) a 10.08 EUR (original: 25.27 EUR) (60.11 %  de descuento) en el siguiente enlace!

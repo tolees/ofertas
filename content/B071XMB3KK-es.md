@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071XMB3KK/?tag=tolees-21'
 descuento: '55.00'
+average: '24.75'
 ---
 
 Ahora mismo tienes [FIND Mocasines Clásicos para Hombre  Negro  Black   47 EU](https://www.amazon.es/dp/B071XMB3KK/?tag=tolees-21) a 24.75 EUR (original: 55 EUR) (55.00 %  de descuento) en el siguiente enlace!

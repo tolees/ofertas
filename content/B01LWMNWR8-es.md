@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LWMNWR8/?tag=tolees-21'
 descuento: '50.01'
+average: '29.99'
 ---
 
 Tienes [Aspirador De Mano Inalámbrica Versión Mejorada  BESTEK Mini Aspirador De Coche Portátil Recargable Para Casa Y Coche Con Lones De Litio，28 Minutos de funcionamiento 3800 Pa de potencia - Negro](https://www.amazon.es/dp/B01LWMNWR8/?tag=tolees-21) con un 50.01 % de descuento con precio de oferta de 29.99 EUR (original: 59.99 EUR) en el siguiente enlace!

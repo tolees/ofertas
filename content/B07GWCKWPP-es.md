@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GWCKWPP/?tag=tolees-21'
 descuento: '31.68'
+average: '53.29'
 ---
 
 Está [1ª equipación Réplica - Real Betis Balompié  2018/2019 - Kappa Kombat Replica Home - Hombre M](https://www.amazon.es/dp/B07GWCKWPP/?tag=tolees-21) con 31.68 de descuento por 53.29 EUR (original: 78 EUR) en el siguiente enlace!

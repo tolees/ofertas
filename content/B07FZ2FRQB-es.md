@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FZ2FRQB/?tag=tolees-21'
 descuento: '71.53'
+average: '26.83'
 ---
 
 Tienes [Reebok Royal Glide LX  Zapatillas de Deporte para Hombre   Black/White/Gum/SS 000   39 EU](https://www.amazon.es/dp/B07FZ2FRQB/?tag=tolees-21) con un 71.53 % de descuento con precio de oferta de 26.83 EUR (original: 94.24 EUR) en el siguiente enlace!

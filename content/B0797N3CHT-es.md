@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0797N3CHT/?tag=tolees-21'
 descuento: '63.33'
+average: '55'
 ---
 
 Ahora mismo tienes [Rollei City Traveler Mini - Trípode Mesa superligero de Carbono - Naranja](https://www.amazon.es/dp/B0797N3CHT/?tag=tolees-21) a 55 EUR (original: 149.99 EUR) (63.33 %  de descuento) en el siguiente enlace!

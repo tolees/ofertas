@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077G5VX4Q/?tag=tolees-21'
 descuento: '61.35'
+average: '13.14'
 ---
 
 Ahora mismo tienes [RED WAGON Náuticos de Piel Niños  Marrón  Brown   34.5 EU](https://www.amazon.es/dp/B077G5VX4Q/?tag=tolees-21) a 13.14 EUR (original: 34 EUR) (61.35 %  de descuento) en el siguiente enlace!

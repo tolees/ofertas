@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00L9DT68O/?tag=tolees-21'
 descuento: '44.69'
+average: '35.95'
 ---
 
 Ahora mismo tienes [DC Trase TX M  Zapatillas de Skateboard para Hombre  Negro  Black/White BKW   43 EU](https://www.amazon.es/dp/B00L9DT68O/?tag=tolees-21) a 35.95 EUR (original: 65 EUR) (44.69 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CVKYQRV/?tag=tolees-21'
 descuento: '72.47'
+average: '17.88'
 ---
 
 Está [Skechers Bikers-Contained  Mocasines para Mujer  Negro  Black Blk   36.5 EU](https://www.amazon.es/dp/B07CVKYQRV/?tag=tolees-21) con 72.47 de descuento por 17.88 EUR (original: 64.95 EUR) en el siguiente enlace!

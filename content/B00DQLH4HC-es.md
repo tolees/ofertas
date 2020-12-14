@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00DQLH4HC/?tag=tolees-21'
 descuento: '26.13'
+average: '62.75'
 ---
 
 Está [Puma Suede Classic+  Zapatillas Unisex Adulto  Negro  Black/Dark Shadow   42 EU](https://www.amazon.es/dp/B00DQLH4HC/?tag=tolees-21) con 26.13 de descuento por 62.75 EUR (original: 84.95 EUR) en el siguiente enlace!

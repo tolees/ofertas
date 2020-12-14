@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DW6QWZ9/?tag=tolees-21'
 descuento: '31.78'
+average: '57.99'
 ---
 
 Está [DC Shoes Net  Zapatillas de Skateboard para Hombre  Negro Black/White XKKW  46.5 EU](https://www.amazon.es/dp/B07DW6QWZ9/?tag=tolees-21) con 31.78 de descuento por 57.99 EUR (original: 85 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CSTTWX6/?tag=tolees-21'
 descuento: '74.22'
+average: '7.99'
 ---
 
 Está [Estmoon 3 pcs Herramientas de mano de potencia conductor Adaptador de puntas + Socket Adaptador 4 piezas](https://www.amazon.es/dp/B07CSTTWX6/?tag=tolees-21) con 74.22 de descuento por 7.99 EUR (original: 30.99 EUR) en el siguiente enlace!

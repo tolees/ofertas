@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079K53SSH/?tag=tolees-21'
 descuento: '46.52'
+average: '53.45'
 ---
 
 Tienes [G-STAR RAW Rackam Scuba Wmn  Zapatillas para Mujer  Azul  Dk Saru Blue 6486   40 EU](https://www.amazon.es/dp/B079K53SSH/?tag=tolees-21) con un 46.52 % de descuento con precio de oferta de 53.45 EUR (original: 99.95 EUR) en el siguiente enlace!

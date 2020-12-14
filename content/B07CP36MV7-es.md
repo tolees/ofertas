@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CP36MV7/?tag=tolees-21'
 descuento: '31.48'
+average: '20.55'
 ---
 
 Ahora mismo tienes [Tom Tailor 30228810910  suéter para Hombre  Marrón  Dark Mud Brown 8760  Small](https://www.amazon.es/dp/B07CP36MV7/?tag=tolees-21) a 20.55 EUR (original: 29.99 EUR) (31.48 %  de descuento) en el siguiente enlace!

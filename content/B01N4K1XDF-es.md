@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N4K1XDF/?tag=tolees-21'
 descuento: '30.01'
+average: '34.96'
 ---
 
 Tienes [adidas Vs Set Zapatillas de Deporte Hombre  Negro  Core Black/ftwr White/ftwr White   43 1/3 EU](https://www.amazon.es/dp/B01N4K1XDF/?tag=tolees-21) con un 30.01 % de descuento con precio de oferta de 34.96 EUR (original: 49.95 EUR) en el siguiente enlace!

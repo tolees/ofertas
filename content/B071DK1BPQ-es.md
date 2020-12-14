@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071DK1BPQ/?tag=tolees-21'
 descuento: '25.00'
+average: '81.75'
 ---
 
 Tienes [Panama Jack Sulia Basics  Sandalia con Pulsera para Mujer   Blanco B1   41 EU](https://www.amazon.es/dp/B071DK1BPQ/?tag=tolees-21) con un 25.00 % de descuento con precio de oferta de 81.75 EUR (original: 109 EUR) en el siguiente enlace!

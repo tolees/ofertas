@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00MMKU204/?tag=tolees-21'
 descuento: '62.42'
+average: '15'
 ---
 
 Tienes [Devolo WiFi Repeater - Repetidor señal WiFi  300 Mbps  1 puerto LAN  amplificador WiFi  WPS  WiFi Move   blanco](https://www.amazon.es/dp/B00MMKU204/?tag=tolees-21) con un 62.42 % de descuento con precio de oferta de 15 EUR (original: 39.91 EUR) en el siguiente enlace!

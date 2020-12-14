@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MS8RL6M/?tag=tolees-21'
 descuento: '68.97'
+average: '5.26'
 ---
 
 Tienes [Ocean ASA5399  Bóxers para Hombre  Morado Geometric  M/48 Pack de 2 ](https://www.amazon.es/dp/B01MS8RL6M/?tag=tolees-21) con un 68.97 % de descuento con precio de oferta de 5.26 EUR (original: 16.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DNH4FDK/?tag=tolees-21'
 descuento: '69.83'
+average: '17.8'
 ---
 
 Ahora mismo tienes [Pablosky Botas Slouch para Niñas   Azul 460529   31 EU](https://www.amazon.es/dp/B07DNH4FDK/?tag=tolees-21) a 17.8 EUR (original: 59 EUR) (69.83 %  de descuento) en el siguiente enlace!

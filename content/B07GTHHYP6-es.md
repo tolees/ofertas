@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GTHHYP6/?tag=tolees-21'
 descuento: '60.28'
+average: '35.73'
 ---
 
 Está [Berg Outdoor LAPELA Polar Fleece Jacket  Mujer  Scooter  L](https://www.amazon.es/dp/B07GTHHYP6/?tag=tolees-21) con 60.28 de descuento por 35.73 EUR (original: 89.95 EUR) en el siguiente enlace!

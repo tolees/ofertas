@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07236NTSS/?tag=tolees-21'
 descuento: '59.33'
+average: '20.33'
 ---
 
 Tienes [edc by Esprit 097cc1i004  suéter Mujer   Off White 110   Medium](https://www.amazon.es/dp/B07236NTSS/?tag=tolees-21) con un 59.33 % de descuento con precio de oferta de 20.33 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DNFRCJ3/?tag=tolees-21'
 descuento: '50.10'
+average: '12.95'
 ---
 
 Está [DANISH ENDURANCE Calcetines Performance Crew  Negro - 3 Pares  EU 39-42 ](https://www.amazon.es/dp/B07DNFRCJ3/?tag=tolees-21) con 50.10 de descuento por 12.95 EUR (original: 25.95 EUR) en el siguiente enlace!

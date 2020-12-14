@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00K6VQ8LI/?tag=tolees-21'
 descuento: '28.18'
+average: '79'
 ---
 
 Ahora mismo tienes [American Tourister Bon Air Equipaje de mano  S  55cm  31.5 L  Blanco](https://www.amazon.es/dp/B00K6VQ8LI/?tag=tolees-21) a 79 EUR (original: 110 EUR) (28.18 %  de descuento) en el siguiente enlace!

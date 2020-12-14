@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00VO7LTFI/?tag=tolees-21'
 descuento: '26.52'
+average: '18.37'
 ---
 
 Está [Redken Blonde Idol Base Breaker Cool Aclarante Capilar - 30 gr](https://www.amazon.es/dp/B00VO7LTFI/?tag=tolees-21) con 26.52 de descuento por 18.37 EUR (original: 25 EUR) en el siguiente enlace!

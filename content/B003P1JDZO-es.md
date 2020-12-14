@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003P1JDZO/?tag=tolees-21'
 descuento: '50.00'
+average: '1'
 ---
 
 Está [R&B Anthems](https://www.amazon.es/dp/B003P1JDZO/?tag=tolees-21) con 50.00 de descuento por 1 EUR (original: 2 EUR) en el siguiente enlace!

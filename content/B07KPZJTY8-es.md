@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KPZJTY8/?tag=tolees-21'
 descuento: '51.34'
+average: '31.63'
 ---
 
 Tienes [Asics Patriot 10 SP  Zapatillas de Running para Mujer  Blanco  White/Black 100   41.5 EU](https://www.amazon.es/dp/B07KPZJTY8/?tag=tolees-21) con un 51.34 % de descuento con precio de oferta de 31.63 EUR (original: 65 EUR) en el siguiente enlace!

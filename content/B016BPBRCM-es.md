@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B016BPBRCM/?tag=tolees-21'
 descuento: '80.12'
+average: '7.95'
 ---
 
 Está [Kitchen Artist Soporte de utensilios de cocina 5 Piezas](https://www.amazon.es/dp/B016BPBRCM/?tag=tolees-21) con 80.12 de descuento por 7.95 EUR (original: 40 EUR) en el siguiente enlace!

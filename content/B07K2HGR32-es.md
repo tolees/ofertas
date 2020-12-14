@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K2HGR32/?tag=tolees-21'
 descuento: '55.00'
+average: '44.98'
 ---
 
 Ahora mismo tienes [adidas Deerupt Runner Zapatillas de Gimnasia Hombre  Gris  Grey One F17/Ftwr White/Ice Mint   38 2/3 EU](https://www.amazon.es/dp/B07K2HGR32/?tag=tolees-21) a 44.98 EUR (original: 99.95 EUR) (55.00 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01C5TFMU6/?tag=tolees-21'
 descuento: '64.31'
+average: '14.06'
 ---
 
 Tienes [Urns UK Chelsea Design 72 cremación Cenizas Joyas Colgante de Acero con Cadena  Plata](https://www.amazon.es/dp/B01C5TFMU6/?tag=tolees-21) con un 64.31 % de descuento con precio de oferta de 14.06 EUR (original: 39.4 EUR) en el siguiente enlace!

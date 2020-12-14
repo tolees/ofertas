@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074MWYJ1T/?tag=tolees-21'
 descuento: '53.91'
+average: '27.63'
 ---
 
 Tienes [Reebok Royal EC Ride 2  Zapatillas de Deporte Unisex Adulto  Negro Black 000  44 EU](https://www.amazon.es/dp/B074MWYJ1T/?tag=tolees-21) con un 53.91 % de descuento con precio de oferta de 27.63 EUR (original: 59.95 EUR) en el siguiente enlace!

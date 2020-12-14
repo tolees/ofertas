@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06WVHWN2T/?tag=tolees-21'
 descuento: '30.92'
+average: '61.48'
 ---
 
 Ahora mismo tienes [Fellowes Lunar+ - Plastificadora hasta 125 micras  A3  color azul](https://www.amazon.es/dp/B06WVHWN2T/?tag=tolees-21) a 61.48 EUR (original: 89 EUR) (30.92 %  de descuento) en el siguiente enlace!

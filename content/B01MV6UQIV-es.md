@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MV6UQIV/?tag=tolees-21'
 descuento: '57.00'
+average: '38.68'
 ---
 
 Está [TomTom Touch Cardio Fitness Pulsera de Actividad  Unisex  Negro  S](https://www.amazon.es/dp/B01MV6UQIV/?tag=tolees-21) con 57.00 de descuento por 38.68 EUR (original: 89.95 EUR) en el siguiente enlace!

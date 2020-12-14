@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M11FGC1/?tag=tolees-21'
 descuento: '53.19'
+average: '110'
 ---
 
 Está [Concord  Silla de coche grupo 0+ Isofix  negro](https://www.amazon.es/dp/B01M11FGC1/?tag=tolees-21) con 53.19 de descuento por 110 EUR (original: 235 EUR) en el siguiente enlace!

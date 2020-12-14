@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F9QGPW1/?tag=tolees-21'
 descuento: '46.03'
+average: '69.62'
 ---
 
 Ahora mismo tienes [Festina Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable F20381/1](https://www.amazon.es/dp/B07F9QGPW1/?tag=tolees-21) a 69.62 EUR (original: 129 EUR) (46.03 %  de descuento) en el siguiente enlace!

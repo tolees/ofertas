@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MFD5ZSD/?tag=tolees-21'
 descuento: '48.65'
+average: '18.99'
 ---
 
 Tienes [KEXIN 16GB Memoria USB 2.0 Metal Pendrive 16GB Resistente al Agua Flash Drive Memory Stick para Computadoras  Tabletas y Otros Dispositivos [3 Unidades] Color de Oro  Plata  Negro](https://www.amazon.es/dp/B01MFD5ZSD/?tag=tolees-21) con un 48.65 % de descuento con precio de oferta de 18.99 EUR (original: 36.98 EUR) en el siguiente enlace!

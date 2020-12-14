@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJY6P91/?tag=tolees-21'
 descuento: '50.01'
+average: '19.99'
 ---
 
 Ahora mismo tienes [James Love realistas Calefacción Dual Motor clítoris Vibrador vibratoren para usted clítoris y G de punto con función de calentamiento  silicona Rabbit - Vibrador Consolador Con 7 programas](https://www.amazon.es/dp/B07DJY6P91/?tag=tolees-21) a 19.99 EUR (original: 39.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

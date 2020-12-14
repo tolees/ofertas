@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075GYG7YK/?tag=tolees-21'
 descuento: '79.28'
+average: '12.41'
 ---
 
 Está [Tommy Hilfiger New Chiara Str Pq Polo Ss  Polo Mujer  Rosa  Orchid Pink652   34  Talla fabricante: XS ](https://www.amazon.es/dp/B075GYG7YK/?tag=tolees-21) con 79.28 de descuento por 12.41 EUR (original: 59.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NQXKW5M/?tag=tolees-21'
 descuento: '30.01'
+average: '20.99'
 ---
 
 Tienes [BLACK+DECKER BEW230BCA-QS Lijadora de detalle Mouse 55W  11.000 rpm  diámetro órbita 1.5 mm  incluye 10 accesorios y bolsa de transporte](https://www.amazon.es/dp/B07NQXKW5M/?tag=tolees-21) con un 30.01 % de descuento con precio de oferta de 20.99 EUR (original: 29.99 EUR) en el siguiente enlace!

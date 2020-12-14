@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GJJZ7S6/?tag=tolees-21'
 descuento: '63.25'
+average: '18.34'
 ---
 
 Ahora mismo tienes [Carrera Shire  Zapatillas de Cross para Hombre  Negro  Black 02   41 EU](https://www.amazon.es/dp/B07GJJZ7S6/?tag=tolees-21) a 18.34 EUR (original: 49.9 EUR) (63.25 %  de descuento) en el siguiente enlace!

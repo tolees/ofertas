@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ5CYGW/?tag=tolees-21'
 descuento: '30.94'
+average: '37.95'
 ---
 
 Tienes [Salomon RX Break 4.0  Zapatillas de Trail Running para Hombre  Verde  Castor Gray/Black/Beluga   40 2/3 EU](https://www.amazon.es/dp/B07CZ5CYGW/?tag=tolees-21) con un 30.94 % de descuento con precio de oferta de 37.95 EUR (original: 54.95 EUR) en el siguiente enlace!

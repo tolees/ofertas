@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077VSK7MX/?tag=tolees-21'
 descuento: '52.89'
+average: '31.68'
 ---
 
 Tienes [ADIDAS Daily 2.0 Db0161  Zapatillas de Deporte para Hombre   Negro 000   44 2/3 EU](https://www.amazon.es/dp/B077VSK7MX/?tag=tolees-21) con un 52.89 % de descuento con precio de oferta de 31.68 EUR (original: 67.25 EUR) en el siguiente enlace!

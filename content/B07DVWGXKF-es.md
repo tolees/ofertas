@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DVWGXKF/?tag=tolees-21'
 descuento: '53.59'
+average: '12.99'
 ---
 
 Está [Autmor OBD II Auto Diagnóstico de Coches OBD2  OBD Lector de Código con Pantalla LCD Escáner de Códigos de Vehículos para Lecturar y Borrar de DTC  Herramienta de Diagnostico de Coches Portátil](https://www.amazon.es/dp/B07DVWGXKF/?tag=tolees-21) con 53.59 de descuento por 12.99 EUR (original: 27.99 EUR) en el siguiente enlace!

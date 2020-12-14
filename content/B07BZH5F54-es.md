@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BZH5F54/?tag=tolees-21'
 descuento: '30.79'
+average: '8.99'
 ---
 
 Tienes [Tacklife EST02 Avanzado comprobador de enchufes  testeador del cableado eléctrico GFCI  probador del zócalo de corriente para circuitos eléctricos meter tester polaridad neutro y tierra- 1 pieza](https://www.amazon.es/dp/B07BZH5F54/?tag=tolees-21) con un 30.79 % de descuento con precio de oferta de 8.99 EUR (original: 12.99 EUR) en el siguiente enlace!

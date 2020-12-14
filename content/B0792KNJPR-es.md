@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792KNJPR/?tag=tolees-21'
 descuento: '67.77'
+average: '11.6'
 ---
 
 Tienes [Quiksilver - Short Chino - Niños 8-16 - Azul](https://www.amazon.es/dp/B0792KNJPR/?tag=tolees-21) con un 67.77 % de descuento con precio de oferta de 11.6 EUR (original: 35.99 EUR) en el siguiente enlace!

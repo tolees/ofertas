@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071ZR3PR8/?tag=tolees-21'
 descuento: '34.72'
+average: '12.99'
 ---
 
 Está [NGS Gaming Keyboard GKX-300 - Teclado Gaming Led   USB 2.0  5x50x15cm   color negro](https://www.amazon.es/dp/B071ZR3PR8/?tag=tolees-21) con 34.72 de descuento por 12.99 EUR (original: 19.9 EUR) en el siguiente enlace!

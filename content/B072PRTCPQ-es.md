@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072PRTCPQ/?tag=tolees-21'
 descuento: '44.42'
+average: '12.2'
 ---
 
 Tienes [Buff Tip Logo ThermoNet Tubular  Unisex Adulto  Gris  Talla Única](https://www.amazon.es/dp/B072PRTCPQ/?tag=tolees-21) con un 44.42 % de descuento con precio de oferta de 12.2 EUR (original: 21.95 EUR) en el siguiente enlace!

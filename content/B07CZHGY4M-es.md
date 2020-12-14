@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZHGY4M/?tag=tolees-21'
 descuento: '60.15'
+average: '23.99'
 ---
 
 Ahora mismo tienes [PREUP Mandolina Verduras 11 en 1 Cortador de Verduras y Frutas  Cortador en Espiral Multifuncional  con 7 Piezas de Cuchillas Mandolina Slicer con Cepillo para Limpieza](https://www.amazon.es/dp/B07CZHGY4M/?tag=tolees-21) a 23.99 EUR (original: 60.2 EUR) (60.15 %  de descuento) en el siguiente enlace!

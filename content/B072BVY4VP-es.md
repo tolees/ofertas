@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072BVY4VP/?tag=tolees-21'
 descuento: '63.69'
+average: '18.15'
 ---
 
 Está [MTNG Marta  Botas Mujer  Negro  Monty Negro   40 EU](https://www.amazon.es/dp/B072BVY4VP/?tag=tolees-21) con 63.69 de descuento por 18.15 EUR (original: 49.99 EUR) en el siguiente enlace!

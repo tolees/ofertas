@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MCTQSJ3/?tag=tolees-21'
 descuento: '30.02'
+average: '13.99'
 ---
 
 Está [Maison & White Soporte de bandeja de 5 capas | Organizador de sartén de nivel versátil | Solución de almacenamiento de la cocina de ahorro de espacio](https://www.amazon.es/dp/B07MCTQSJ3/?tag=tolees-21) con 30.02 de descuento por 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!

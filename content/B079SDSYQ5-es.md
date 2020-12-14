@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079SDSYQ5/?tag=tolees-21'
 descuento: '37.91'
+average: '43.4'
 ---
 
 Tienes [Samsung Cargador inalámbrico - Wireless Charger EP N5100T compatible con smartphones QI  negro- Version española](https://www.amazon.es/dp/B079SDSYQ5/?tag=tolees-21) con un 37.91 % de descuento con precio de oferta de 43.4 EUR (original: 69.9 EUR) en el siguiente enlace!

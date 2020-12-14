@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NQDWXLW/?tag=tolees-21'
 descuento: '42.54'
+average: '218.35'
 ---
 
 Está [Relaxdays Soporte Monitor y Portátil para Trabajar de Pie con Bandeja para Teclado  DM  Metal y PVC  Negro  XL  6 x 90 x 60 cm](https://www.amazon.es/dp/B07NQDWXLW/?tag=tolees-21) con 42.54 de descuento por 218.35 EUR (original: 379.99 EUR) en el siguiente enlace!

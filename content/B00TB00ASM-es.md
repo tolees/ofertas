@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TB00ASM/?tag=tolees-21'
 descuento: '25.06'
+average: '2.99'
 ---
 
 Tienes [Batiste Champú en Seco Blush - 200 ml](https://www.amazon.es/dp/B00TB00ASM/?tag=tolees-21) con un 25.06 % de descuento con precio de oferta de 2.99 EUR (original: 3.99 EUR) en el siguiente enlace!

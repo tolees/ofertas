@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F15R5JM/?tag=tolees-21'
 descuento: '72.59'
+average: '19.17'
 ---
 
 Tienes [Mustang High Top Sneaker  Zapatillas Altas para Mujer  Gris  Graphite 259   40 EU](https://www.amazon.es/dp/B07F15R5JM/?tag=tolees-21) con un 72.59 % de descuento con precio de oferta de 19.17 EUR (original: 69.95 EUR) en el siguiente enlace!

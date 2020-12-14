@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077TWF4FD/?tag=tolees-21'
 descuento: '36.36'
+average: '57.24'
 ---
 
 Tienes [Reebok F/S Hi  Zapatillas Altas para Mujer  Blanco  White/Gum 0   38 EU](https://www.amazon.es/dp/B077TWF4FD/?tag=tolees-21) con un 36.36 % de descuento con precio de oferta de 57.24 EUR (original: 89.95 EUR) en el siguiente enlace!

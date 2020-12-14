@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LF9C7KV/?tag=tolees-21'
 descuento: '50.01'
+average: '29.99'
 ---
 
 Ahora mismo tienes [Grabadora de Voz Digital ADOKEY 8GB Dictáfono Grabador de Sonido Audio HD Grabador Portatil Recargable con Doble Micrófono MP3 Repetición A - B/One Touch Grabación Conferencias/Entrevistas/Clase](https://www.amazon.es/dp/B07LF9C7KV/?tag=tolees-21) a 29.99 EUR (original: 59.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

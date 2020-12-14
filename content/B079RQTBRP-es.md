@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RQTBRP/?tag=tolees-21'
 descuento: '75.26'
+average: '14.82'
 ---
 
 Está [Pepe Jeans Lupe Suéter  Negro  Black 999   XL para Mujer](https://www.amazon.es/dp/B079RQTBRP/?tag=tolees-21) con 75.26 de descuento por 14.82 EUR (original: 59.9 EUR) en el siguiente enlace!

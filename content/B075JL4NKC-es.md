@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075JL4NKC/?tag=tolees-21'
 descuento: '74.90'
+average: '3'
 ---
 
 Está [Zuru - ZURU FIDGET CUBE Wonder Woman  ColorBaby 85169 ](https://www.amazon.es/dp/B075JL4NKC/?tag=tolees-21) con 74.90 de descuento por 3 EUR (original: 11.95 EUR) en el siguiente enlace!

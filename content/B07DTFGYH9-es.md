@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DTFGYH9/?tag=tolees-21'
 descuento: '29.91'
+average: '28'
 ---
 
 Está [adidas X Tango 18.4 in J  Zapatillas de fútbol Sala Unisex Adulto  Negbás/Amasol 000  38 2/3 EU](https://www.amazon.es/dp/B07DTFGYH9/?tag=tolees-21) con 29.91 de descuento por 28 EUR (original: 39.95 EUR) en el siguiente enlace!

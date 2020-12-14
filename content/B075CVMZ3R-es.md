@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075CVMZ3R/?tag=tolees-21'
 descuento: '40.00'
+average: '62.99'
 ---
 
 Tienes [Furniture 247 - Silla de comedor  blanco](https://www.amazon.es/dp/B075CVMZ3R/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 62.99 EUR (original: 104.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L3FVWLF/?tag=tolees-21'
 descuento: '35.81'
+average: '38.45'
 ---
 
 Está [Tommy Hilfiger Iconic Long Lace Sneaker  Zapatillas para Hombre  Azul  Mazarine Blue 440   43 EU](https://www.amazon.es/dp/B07L3FVWLF/?tag=tolees-21) con 35.81 de descuento por 38.45 EUR (original: 59.9 EUR) en el siguiente enlace!

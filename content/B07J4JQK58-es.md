@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J4JQK58/?tag=tolees-21'
 descuento: '59.09'
+average: '22.48'
 ---
 
 Tienes [adidas Vs Coneo Qt  Zapatillas de Tenis para Mujer  Negro Core Black/Active Purple  38 EU](https://www.amazon.es/dp/B07J4JQK58/?tag=tolees-21) con un 59.09 % de descuento con precio de oferta de 22.48 EUR (original: 54.95 EUR) en el siguiente enlace!

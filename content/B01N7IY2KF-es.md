@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N7IY2KF/?tag=tolees-21'
 descuento: '49.19'
+average: '14.2'
 ---
 
 Está [Kappa Kickoff  Zapatillas de Deporte Interior Unisex para Niños  Amarillo  Yellow/Black 4011   26 EU](https://www.amazon.es/dp/B01N7IY2KF/?tag=tolees-21) con 49.19 de descuento por 14.2 EUR (original: 27.95 EUR) en el siguiente enlace!

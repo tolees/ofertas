@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07S12VTQ7/?tag=tolees-21'
 descuento: '37.40'
+average: '40.8'
 ---
 
 Ahora mismo tienes [Anís del Mono Licor Carajillo - 6 Paquestes de 700 ml- Total: 4200 ml](https://www.amazon.es/dp/B07S12VTQ7/?tag=tolees-21) a 40.8 EUR (original: 65.18 EUR) (37.40 %  de descuento) en el siguiente enlace!

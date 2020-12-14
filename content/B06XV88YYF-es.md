@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XV88YYF/?tag=tolees-21'
 descuento: '38.54'
+average: '3.19'
 ---
 
 Está [PJ Masks P.J.Masks Taza plastico  STOR 01904   Estampado  Color Azul y Rojo  10.5x8.5x9 cm](https://www.amazon.es/dp/B06XV88YYF/?tag=tolees-21) con 38.54 de descuento por 3.19 EUR (original: 5.19 EUR) en el siguiente enlace!

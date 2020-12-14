@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N8PDYZH/?tag=tolees-21'
 descuento: '76.10'
+average: '21.5'
 ---
 
 Tienes [Bugatti J97033  Zapatillas Altas para Mujer  Beige  Natur 650   38 EU](https://www.amazon.es/dp/B01N8PDYZH/?tag=tolees-21) con un 76.10 % de descuento con precio de oferta de 21.5 EUR (original: 89.95 EUR) en el siguiente enlace!

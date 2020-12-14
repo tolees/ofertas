@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHTW1NG/?tag=tolees-21'
 descuento: '80.63'
+average: '30.99'
 ---
 
 Ahora mismo tienes [Quiksilver Porter Pantalones de Nieve  Hombre  Verde  Grape Leaf   XL](https://www.amazon.es/dp/B07DHTW1NG/?tag=tolees-21) a 30.99 EUR (original: 159.99 EUR) (80.63 %  de descuento) en el siguiente enlace!

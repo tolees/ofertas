@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00KAAI0DE/?tag=tolees-21'
 descuento: '71.48'
+average: '7.22'
 ---
 
 Tienes [Stedman Apparel Classic/ST2000-Camiseta Hombre](https://www.amazon.es/dp/B00KAAI0DE/?tag=tolees-21) con un 71.48 % de descuento con precio de oferta de 7.22 EUR (original: 25.32 EUR) en el siguiente enlace!

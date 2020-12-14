@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QD9C69J/?tag=tolees-21'
 descuento: '48.72'
+average: '5'
 ---
 
 Está [Trapa  Chocolate en Polvo - 350 gr](https://www.amazon.es/dp/B07QD9C69J/?tag=tolees-21) con 48.72 de descuento por 5 EUR (original: 9.75 EUR) en el siguiente enlace!

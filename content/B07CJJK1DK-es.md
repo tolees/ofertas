@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CJJK1DK/?tag=tolees-21'
 descuento: '45.49'
+average: '12.99'
 ---
 
 Ahora mismo tienes [Astan Hogar automático Exprimidor Eléctrico Jugix AH-KC6040  40 W  Plástico  Blanco/Naranja](https://www.amazon.es/dp/B07CJJK1DK/?tag=tolees-21) a 12.99 EUR (original: 23.83 EUR) (45.49 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XG9G3QL/?tag=tolees-21'
 descuento: '45.60'
+average: '54.37'
 ---
 
 Tienes [Scotch & Soda Ralston  Jeans Rectos para Hombre  Negro  Stay Black 1362  W33/L32](https://www.amazon.es/dp/B06XG9G3QL/?tag=tolees-21) con un 45.60 % de descuento con precio de oferta de 54.37 EUR (original: 99.95 EUR) en el siguiente enlace!

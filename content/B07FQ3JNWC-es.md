@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQ3JNWC/?tag=tolees-21'
 descuento: '38.27'
+average: '12.34'
 ---
 
 Está [Project Cars](https://www.amazon.es/dp/B07FQ3JNWC/?tag=tolees-21) con 38.27 de descuento por 12.34 EUR (original: 19.99 EUR) en el siguiente enlace!

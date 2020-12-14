@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCBM2Y3/?tag=tolees-21'
 descuento: '54.53'
+average: '27.26'
 ---
 
 Tienes [Puma Vikky v2 Ribbon Core  Zapatillas para Mujer  Rosa  Peach Bud Silver White   39 EU](https://www.amazon.es/dp/B07DCBM2Y3/?tag=tolees-21) con un 54.53 % de descuento con precio de oferta de 27.26 EUR (original: 59.95 EUR) en el siguiente enlace!

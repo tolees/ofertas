@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L4DFD4D/?tag=tolees-21'
 descuento: '70.80'
+average: '29.2'
 ---
 
 Tienes [Asics Gel-Lyte  Zapatillas de Running para Hombre  Blanco  White/Teal Blue 102   46.5 EU](https://www.amazon.es/dp/B07L4DFD4D/?tag=tolees-21) con un 70.80 % de descuento con precio de oferta de 29.2 EUR (original: 100 EUR) en el siguiente enlace!

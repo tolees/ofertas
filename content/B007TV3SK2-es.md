@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007TV3SK2/?tag=tolees-21'
 descuento: '69.14'
+average: '16.71'
 ---
 
 Tienes [Papillon 8042830 Hamaca Sillon Colgante Color Natural](https://www.amazon.es/dp/B007TV3SK2/?tag=tolees-21) con un 69.14 % de descuento con precio de oferta de 16.71 EUR (original: 54.15 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01AUM9RG0/?tag=tolees-21'
 descuento: '71.92'
+average: '147.46'
 ---
 
 Está [Garland 45-0039 Hidrolavadora eléctrica](https://www.amazon.es/dp/B01AUM9RG0/?tag=tolees-21) con 71.92 de descuento por 147.46 EUR (original: 525.14 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072F5WVBK/?tag=tolees-21'
 descuento: '64.74'
+average: '31.03'
 ---
 
 Ahora mismo tienes [Calvin Klein Debby Velvet  Zapatillas para Mujer  Plateado  Silver   38 EU](https://www.amazon.es/dp/B072F5WVBK/?tag=tolees-21) a 31.03 EUR (original: 88 EUR) (64.74 %  de descuento) en el siguiente enlace!

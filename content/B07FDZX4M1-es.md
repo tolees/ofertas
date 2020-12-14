@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FDZX4M1/?tag=tolees-21'
 descuento: '43.76'
+average: '44.99'
 ---
 
 Tienes [HP Envy Urban - Maletín para portátil de 15.6"](https://www.amazon.es/dp/B07FDZX4M1/?tag=tolees-21) con un 43.76 % de descuento con precio de oferta de 44.99 EUR (original: 79.99 EUR) en el siguiente enlace!

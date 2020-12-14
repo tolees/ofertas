@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FXX317W/?tag=tolees-21'
 descuento: '75.38'
+average: '6.13'
 ---
 
 Tienes [Champion Freedom Seamless  Soutien-Gorge de Sport Femme  Blanc  Blanc 0rl   X-Small  Taille Fabricant: XS ](https://www.amazon.es/dp/B07FXX317W/?tag=tolees-21) con un 75.38 % de descuento con precio de oferta de 6.13 EUR (original: 24.9 EUR) en el siguiente enlace!

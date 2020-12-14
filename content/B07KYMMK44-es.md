@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KYMMK44/?tag=tolees-21'
 descuento: '78.98'
+average: '17.63'
 ---
 
 Tienes [lypumso Professional atornillador inalámbrico Set con cable USB](https://www.amazon.es/dp/B07KYMMK44/?tag=tolees-21) con un 78.98 % de descuento con precio de oferta de 17.63 EUR (original: 83.89 EUR) en el siguiente enlace!

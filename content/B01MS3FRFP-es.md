@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MS3FRFP/?tag=tolees-21'
 descuento: '31.05'
+average: '34.44'
 ---
 
 Está [adidas Vs Set  Zapatillas de Deporte para Hombre  Azul  Collegiate Navy FTWR White   47 1/3 EU](https://www.amazon.es/dp/B01MS3FRFP/?tag=tolees-21) con 31.05 de descuento por 34.44 EUR (original: 49.95 EUR) en el siguiente enlace!

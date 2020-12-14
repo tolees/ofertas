@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FSD47ZC/?tag=tolees-21'
 descuento: '66.50'
+average: '26.8'
 ---
 
 Tienes [New Balance 818v2  Zapatillas de Running Hombre  Multicolor  2E_Black/White   41.5 EU](https://www.amazon.es/dp/B01FSD47ZC/?tag=tolees-21) con un 66.50 % de descuento con precio de oferta de 26.8 EUR (original: 80 EUR) en el siguiente enlace!

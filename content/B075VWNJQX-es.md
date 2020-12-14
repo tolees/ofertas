@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075VWNJQX/?tag=tolees-21'
 descuento: '30.00'
+average: '2.1'
 ---
 
 Tienes [Shave it - Kit de maquinilla de afeitar y 1 cuchilla  tamaño de muestra ](https://www.amazon.es/dp/B075VWNJQX/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 2.1 EUR (original: 3 EUR) en el siguiente enlace!

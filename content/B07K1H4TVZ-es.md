@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K1H4TVZ/?tag=tolees-21'
 descuento: '39.98'
+average: '7.34'
 ---
 
 Tienes [TRULIL - 6 Posavasos Redondos de Piel sintética para Tazas de café  café  té  Bebida  etc  café  Redondo](https://www.amazon.es/dp/B07K1H4TVZ/?tag=tolees-21) con un 39.98 % de descuento con precio de oferta de 7.34 EUR (original: 12.23 EUR) en el siguiente enlace!

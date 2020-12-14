@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007BNGTYA/?tag=tolees-21'
 descuento: '32.95'
+average: '9.99'
 ---
 
 Está [Beurer JBY 32 -Luz de noche infantil  portátil  11 horas autonomía  forma animada para niños](https://www.amazon.es/dp/B007BNGTYA/?tag=tolees-21) con 32.95 de descuento por 9.99 EUR (original: 14.9 EUR) en el siguiente enlace!

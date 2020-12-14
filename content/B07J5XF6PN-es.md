@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J5XF6PN/?tag=tolees-21'
 descuento: '33.34'
+average: '79.99'
 ---
 
 Tienes [Aicok 650W Panificadora  19 Programs Máquina De Hacer Pan con Dispensador  Completamente Automática  Acero Inoxidable  15H Temporizador  para Pan Sin Gluten  Mermelada y Yogur](https://www.amazon.es/dp/B07J5XF6PN/?tag=tolees-21) con un 33.34 % de descuento con precio de oferta de 79.99 EUR (original: 119.99 EUR) en el siguiente enlace!

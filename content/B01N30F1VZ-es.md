@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N30F1VZ/?tag=tolees-21'
 descuento: '66.08'
+average: '63.17'
 ---
 
 Ahora mismo tienes [Versa 18400212 Sillón Lerwick Gris oscuro  57x57 5x87 5cm  Madera y Poliéster](https://www.amazon.es/dp/B01N30F1VZ/?tag=tolees-21) a 63.17 EUR (original: 186.21 EUR) (66.08 %  de descuento) en el siguiente enlace!

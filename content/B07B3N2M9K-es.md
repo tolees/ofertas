@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B3N2M9K/?tag=tolees-21'
 descuento: '48.61'
+average: '89.93'
 ---
 
 Tienes [Reloj Scuderia Ferrari para Hombre 830486](https://www.amazon.es/dp/B07B3N2M9K/?tag=tolees-21) con un 48.61 % de descuento con precio de oferta de 89.93 EUR (original: 175 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KPQ73RX/?tag=tolees-21'
 descuento: '56.68'
+average: '34.65'
 ---
 
 Ahora mismo tienes [Gant Rugby Stripe Swim Shorts C.f Bañador  Azul  Poseidon Blue 448   XX-Large para Hombre](https://www.amazon.es/dp/B07KPQ73RX/?tag=tolees-21) a 34.65 EUR (original: 79.99 EUR) (56.68 %  de descuento) en el siguiente enlace!

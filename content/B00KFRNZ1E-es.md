@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00KFRNZ1E/?tag=tolees-21'
 descuento: '61.50'
+average: '152.06'
 ---
 
 Está [Tumi maletín  negro - negro  026108D2_Black_42](https://www.amazon.es/dp/B00KFRNZ1E/?tag=tolees-21) con 61.50 de descuento por 152.06 EUR (original: 395 EUR) en el siguiente enlace!

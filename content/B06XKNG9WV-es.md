@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XKNG9WV/?tag=tolees-21'
 descuento: '39.32'
+average: '30.34'
 ---
 
 Tienes [Nike Revolution 4  Zapatillas de Running para Hombre  Negro  Black 002   44.5 EU](https://www.amazon.es/dp/B06XKNG9WV/?tag=tolees-21) con un 39.32 % de descuento con precio de oferta de 30.34 EUR (original: 50 EUR) en el siguiente enlace!

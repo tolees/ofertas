@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01ETNYTXW/?tag=tolees-21'
 descuento: '66.23'
+average: '30.39'
 ---
 
 Está [New Balance 420  Zapatillas de Running Unisex Adulto   Beige 268   38 EU](https://www.amazon.es/dp/B01ETNYTXW/?tag=tolees-21) con 66.23 de descuento por 30.39 EUR (original: 90 EUR) en el siguiente enlace!

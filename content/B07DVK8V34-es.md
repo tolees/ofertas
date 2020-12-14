@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DVK8V34/?tag=tolees-21'
 descuento: '71.96'
+average: '33.65'
 ---
 
 Está [Columbia Fairbanks 503  Zapatillas de Senderismo para Hombre  Azul  Whale  Mineral Yellow   40.5 EU](https://www.amazon.es/dp/B07DVK8V34/?tag=tolees-21) con 71.96 de descuento por 33.65 EUR (original: 119.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0784TGFWP/?tag=tolees-21'
 descuento: '41.47'
+average: '17.53'
 ---
 
 Está [Puma Pwrshape Forever-Logo  Sujetador Deportivo para Mujer  Rosa  Pearl   M](https://www.amazon.es/dp/B0784TGFWP/?tag=tolees-21) con 41.47 de descuento por 17.53 EUR (original: 29.95 EUR) en el siguiente enlace!

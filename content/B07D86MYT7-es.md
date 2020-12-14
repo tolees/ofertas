@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D86MYT7/?tag=tolees-21'
 descuento: '45.61'
+average: '65.27'
 ---
 
 Está [Nike Air MAX Vision  Zapatillas de Gimnasia para Hombre  Verde  Fire/Oil White/Dark Grey 300   45.5 EU](https://www.amazon.es/dp/B07D86MYT7/?tag=tolees-21) con 45.61 de descuento por 65.27 EUR (original: 120 EUR) en el siguiente enlace!

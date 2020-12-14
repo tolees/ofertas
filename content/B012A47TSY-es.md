@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B012A47TSY/?tag=tolees-21'
 descuento: '45.33'
+average: '39.36'
 ---
 
 Ahora mismo tienes [Blade Arcus From Shining EX [Importación JP]](https://www.amazon.es/dp/B012A47TSY/?tag=tolees-21) a 39.36 EUR (original: 71.99 EUR) (45.33 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FJYKZ5G/?tag=tolees-21'
 descuento: '74.52'
+average: '15'
 ---
 
 Tienes [Reebok Royal Complete CLN  Zapatillas de Deporte para Niños   Collegiate Burgundy/Tin Grey/White 000   37.5 EU](https://www.amazon.es/dp/B07FJYKZ5G/?tag=tolees-21) con un 74.52 % de descuento con precio de oferta de 15 EUR (original: 58.88 EUR) en el siguiente enlace!

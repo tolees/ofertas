@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00MJ4SFAM/?tag=tolees-21'
 descuento: '57.80'
+average: '5.95'
 ---
 
 Está [Philips Flashlights SFL3175/10 - Linterna  Linterna de mano  Antracita  Gris  0 6 m  LED  50000 h  22 lm ](https://www.amazon.es/dp/B00MJ4SFAM/?tag=tolees-21) con 57.80 de descuento por 5.95 EUR (original: 14.1 EUR) en el siguiente enlace!

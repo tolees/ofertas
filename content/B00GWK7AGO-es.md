@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00GWK7AGO/?tag=tolees-21'
 descuento: '45.95'
+average: '7'
 ---
 
 Está [Dreamlove Cobeco Spanish Fly Gotas Passion Intenso - 1 Unidad](https://www.amazon.es/dp/B00GWK7AGO/?tag=tolees-21) con 45.95 de descuento por 7 EUR (original: 12.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HHPKQVS/?tag=tolees-21'
 descuento: '39.97'
+average: '89.99'
 ---
 
 Está [Corsair K70 LUX - Teclado mecánico Gaming  retroiluminación LED roja  Marrón  Cherry MX Brown  - [QWERTY Español]](https://www.amazon.es/dp/B01HHPKQVS/?tag=tolees-21) con 39.97 de descuento por 89.99 EUR (original: 149.9 EUR) en el siguiente enlace!

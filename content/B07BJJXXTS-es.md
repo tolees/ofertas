@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BJJXXTS/?tag=tolees-21'
 descuento: '65.46'
+average: '115'
 ---
 
 Está [Kingston HX429C17FB2K2/16 - Memoria DRAM de 16 GB  Color Negro](https://www.amazon.es/dp/B07BJJXXTS/?tag=tolees-21) con 65.46 de descuento por 115 EUR (original: 332.99 EUR) en el siguiente enlace!

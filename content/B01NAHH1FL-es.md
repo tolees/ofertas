@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NAHH1FL/?tag=tolees-21'
 descuento: '70.00'
+average: '4.8'
 ---
 
 Ahora mismo tienes [FIND 17AMZ009 camisetas mujer fiesta   Azul  Hyacinth   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B01NAHH1FL/?tag=tolees-21) a 4.8 EUR (original: 16 EUR) (70.00 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FLGJWJS/?tag=tolees-21'
 descuento: '45.90'
+average: '16.89'
 ---
 
 Está [Un Lugar Tranquilo  4K UHD + BD  [Blu-ray]](https://www.amazon.es/dp/B07FLGJWJS/?tag=tolees-21) con 45.90 de descuento por 16.89 EUR (original: 31.22 EUR) en el siguiente enlace!

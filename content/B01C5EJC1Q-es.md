@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01C5EJC1Q/?tag=tolees-21'
 descuento: '61.47'
+average: '16.64'
 ---
 
 Está [Nike Funnelneck Pantalones  Hombre   Negro/Blanco   2XL](https://www.amazon.es/dp/B01C5EJC1Q/?tag=tolees-21) con 61.47 de descuento por 16.64 EUR (original: 43.19 EUR) en el siguiente enlace!

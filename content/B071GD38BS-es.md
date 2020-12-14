@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071GD38BS/?tag=tolees-21'
 descuento: '70.00'
+average: '5.4'
 ---
 
 Está [FIND 17 03 850 camisetas  Negro  Schwarz   46  Talla del Fabricante: XX-Large ](https://www.amazon.es/dp/B071GD38BS/?tag=tolees-21) con 70.00 de descuento por 5.4 EUR (original: 18 EUR) en el siguiente enlace!

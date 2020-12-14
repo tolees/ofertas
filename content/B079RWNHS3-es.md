@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RWNHS3/?tag=tolees-21'
 descuento: '61.27'
+average: '29.05'
 ---
 
 Está [Pepe Jeans London Gable Velvet  Zapatillas para Mujer  Rosa  Island 330   39 EU](https://www.amazon.es/dp/B079RWNHS3/?tag=tolees-21) con 61.27 de descuento por 29.05 EUR (original: 75 EUR) en el siguiente enlace!

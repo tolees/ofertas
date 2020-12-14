@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J5DMRXC/?tag=tolees-21'
 descuento: '69.55'
+average: '13.28'
 ---
 
 Tienes [Triumph Modern Finesse W02 Sujetador con Aros  Beige  Soft Mauve 00wj   90B  Talla del Fabricante: 75  para Mujer](https://www.amazon.es/dp/B07J5DMRXC/?tag=tolees-21) con un 69.55 % de descuento con precio de oferta de 13.28 EUR (original: 43.61 EUR) en el siguiente enlace!

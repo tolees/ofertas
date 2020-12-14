@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GFQ27PY/?tag=tolees-21'
 descuento: '45.31'
+average: '169'
 ---
 
 Está [iLife V80 Robot Aspirador](https://www.amazon.es/dp/B07GFQ27PY/?tag=tolees-21) con 45.31 de descuento por 169 EUR (original: 309 EUR) en el siguiente enlace!

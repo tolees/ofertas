@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0727SJ1TS/?tag=tolees-21'
 descuento: '73.49'
+average: '29.13'
 ---
 
 Ahora mismo tienes [REPLAY Lolys  Zapatillas para Mujer  Azul  Navy   39 EU](https://www.amazon.es/dp/B0727SJ1TS/?tag=tolees-21) a 29.13 EUR (original: 109.9 EUR) (73.49 %  de descuento) en el siguiente enlace!

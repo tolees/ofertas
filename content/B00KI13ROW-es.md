@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00KI13ROW/?tag=tolees-21'
 descuento: '25.53'
+average: '35'
 ---
 
 Está [Piscinas Toi 3153 Piscina Infantil Cuadrada  Azul  120x120x35 cm](https://www.amazon.es/dp/B00KI13ROW/?tag=tolees-21) con 25.53 de descuento por 35 EUR (original: 47 EUR) en el siguiente enlace!

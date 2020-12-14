@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KCWVJZ3/?tag=tolees-21'
 descuento: '63.92'
+average: '14.43'
 ---
 
 Está [Hurley W One & Only Rashguard L/S LYCRAS  Mujer  Pink Tint  S](https://www.amazon.es/dp/B07KCWVJZ3/?tag=tolees-21) con 63.92 de descuento por 14.43 EUR (original: 40 EUR) en el siguiente enlace!

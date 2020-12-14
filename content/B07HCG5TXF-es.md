@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HCG5TXF/?tag=tolees-21'
 descuento: '50.02'
+average: '12.99'
 ---
 
 Tienes [Velcro Redondo 20 mm de Diámetro 500 Pares Monedas Autoadhesivo Pegajoso 1000 Piezas Blanco](https://www.amazon.es/dp/B07HCG5TXF/?tag=tolees-21) con un 50.02 % de descuento con precio de oferta de 12.99 EUR (original: 25.99 EUR) en el siguiente enlace!

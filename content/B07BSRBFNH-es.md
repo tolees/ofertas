@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BSRBFNH/?tag=tolees-21'
 descuento: '45.04'
+average: '27.48'
 ---
 
 Está [Nike Legend 7 Club FG  Zapatillas de Fútbol Unisex Adulto   Racer Blue/Black/Wolf Grey 400   45 EU](https://www.amazon.es/dp/B07BSRBFNH/?tag=tolees-21) con 45.04 de descuento por 27.48 EUR (original: 50 EUR) en el siguiente enlace!

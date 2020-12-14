@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FCHJ5NY/?tag=tolees-21'
 descuento: '65.60'
+average: '17.99'
 ---
 
 Tienes [Skoye - Tapón de Inodoro de Alta Presión  Potente desatascador para Baño  Inodoro  Bañera  duchas](https://www.amazon.es/dp/B07FCHJ5NY/?tag=tolees-21) con un 65.60 % de descuento con precio de oferta de 17.99 EUR (original: 52.3 EUR) en el siguiente enlace!

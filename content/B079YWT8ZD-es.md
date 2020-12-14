@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079YWT8ZD/?tag=tolees-21'
 descuento: '41.49'
+average: '52.63'
 ---
 
 Tienes [Adidas Samba OG  Zapatillas para Hombre  Blanco  Footwear White/Core Black/Clear Granite 0   45 1/3 EU](https://www.amazon.es/dp/B079YWT8ZD/?tag=tolees-21) con un 41.49 % de descuento con precio de oferta de 52.63 EUR (original: 89.95 EUR) en el siguiente enlace!

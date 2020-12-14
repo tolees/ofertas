@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00GWPJUA8/?tag=tolees-21'
 descuento: '30.55'
+average: '101.4'
 ---
 
 Ahora mismo tienes [Habitdesign 004604BO - Mesa ordenador reversible  Blanco Brillo  138 x 74 x 60 cm de fondo](https://www.amazon.es/dp/B00GWPJUA8/?tag=tolees-21) a 101.4 EUR (original: 146 EUR) (30.55 %  de descuento) en el siguiente enlace!

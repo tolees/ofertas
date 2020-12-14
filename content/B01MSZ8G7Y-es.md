@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MSZ8G7Y/?tag=tolees-21'
 descuento: '59.40'
+average: '26.39'
 ---
 
 Está [Under Armour UA W Squad  Zapatillas Deportivas para Interior para Mujer  Negro  True Ink   39 EU](https://www.amazon.es/dp/B01MSZ8G7Y/?tag=tolees-21) con 59.40 de descuento por 26.39 EUR (original: 65 EUR) en el siguiente enlace!

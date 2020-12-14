@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G9WPQS6/?tag=tolees-21'
 descuento: '25.00'
+average: '59.99'
 ---
 
 Está [PLANTRONICS RIG 500 Pro HC Headset Console E+A 211220-05](https://www.amazon.es/dp/B07G9WPQS6/?tag=tolees-21) con 25.00 de descuento por 59.99 EUR (original: 79.99 EUR) en el siguiente enlace!

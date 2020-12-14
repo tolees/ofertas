@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KF87S5X/?tag=tolees-21'
 descuento: '49.32'
+average: '7.09'
 ---
 
 Tienes [Eachy iPhone XR Cristal Templado  [3 Unidades] Vidrio Templado iPhone XR Protector de Pantalla 6 1 Pulgadas-0.25mm [Sin Burbujas] [Resistente a Arañaozos]](https://www.amazon.es/dp/B07KF87S5X/?tag=tolees-21) con un 49.32 % de descuento con precio de oferta de 7.09 EUR (original: 13.99 EUR) en el siguiente enlace!

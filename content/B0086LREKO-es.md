@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0086LREKO/?tag=tolees-21'
 descuento: '80.85'
+average: '10.14'
 ---
 
 Ahora mismo tienes [Anita Maternity Still-BH s  Sujetador de Lactancia para Mujer  Negro  Schwarz 001   70C  Talla del fabricante: 70 ](https://www.amazon.es/dp/B0086LREKO/?tag=tolees-21) a 10.14 EUR (original: 52.96 EUR) (80.85 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00JGOMTZ0/?tag=tolees-21'
 descuento: '35.52'
+average: '19.99'
 ---
 
 Tienes [Philips myLiving Dyna Foco LED  iluminación interior  negro](https://www.amazon.es/dp/B00JGOMTZ0/?tag=tolees-21) con un 35.52 % de descuento con precio de oferta de 19.99 EUR (original: 31 EUR) en el siguiente enlace!

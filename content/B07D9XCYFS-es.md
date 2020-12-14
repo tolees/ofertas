@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9XCYFS/?tag=tolees-21'
 descuento: '58.72'
+average: '33'
 ---
 
 Está [adidas Bball 80s  Zapatillas Altas para Hombre  Gris Light Granite/Core Black 0  46 2/3 EU](https://www.amazon.es/dp/B07D9XCYFS/?tag=tolees-21) con 58.72 de descuento por 33 EUR (original: 79.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MT5LFOB/?tag=tolees-21'
 descuento: '79.94'
+average: '11.03'
 ---
 
 Tienes [PIECES Pcmelga Velvet Jumpsuit FF  Mono Mujer  Rosa  Rugby Tan Rugby Tan   40  Talla del Fabricante: Large ](https://www.amazon.es/dp/B01MT5LFOB/?tag=tolees-21) con un 79.94 % de descuento con precio de oferta de 11.03 EUR (original: 54.99 EUR) en el siguiente enlace!

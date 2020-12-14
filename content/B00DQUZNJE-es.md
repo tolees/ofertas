@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00DQUZNJE/?tag=tolees-21'
 descuento: '46.70'
+average: '132.72'
 ---
 
 Tienes [Onkyo TX-8020-B - Receptor esterero  90 W por canal  3 entradas analógicas y 5 entradas digitales  color negro](https://www.amazon.es/dp/B00DQUZNJE/?tag=tolees-21) con un 46.70 % de descuento con precio de oferta de 132.72 EUR (original: 249 EUR) en el siguiente enlace!

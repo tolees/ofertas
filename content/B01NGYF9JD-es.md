@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NGYF9JD/?tag=tolees-21'
 descuento: '33.99'
+average: '98.98'
 ---
 
 Está [WORX WX176 - Taladro Atornillador 20V 2Ah doble cabezal](https://www.amazon.es/dp/B01NGYF9JD/?tag=tolees-21) con 33.99 de descuento por 98.98 EUR (original: 149.95 EUR) en el siguiente enlace!

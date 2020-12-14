@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GNDJ8K3/?tag=tolees-21'
 descuento: '48.10'
+average: '25.9'
 ---
 
 Tienes [FunCee Auriculares Bluetooth 5.0 - impermeables IPX5 compatibles HiFi 7-9 Horas de juego  graves intensos  Auriculares inalámbricos para deporte  micrófono incorporado para iPhone Android Samsung iPad](https://www.amazon.es/dp/B07GNDJ8K3/?tag=tolees-21) con un 48.10 % de descuento con precio de oferta de 25.9 EUR (original: 49.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D8JDQB7/?tag=tolees-21'
 descuento: '59.60'
+average: '32.32'
 ---
 
 Está [BOSS Athleisure Tinos_sz35  Cinturón Hombre  Negro  Black 001   110  Talla del fabricante: 95 ](https://www.amazon.es/dp/B07D8JDQB7/?tag=tolees-21) con 59.60 de descuento por 32.32 EUR (original: 80 EUR) en el siguiente enlace!

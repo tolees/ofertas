@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M8N7V0D/?tag=tolees-21'
 descuento: '65.40'
+average: '25.93'
 ---
 
 Está [Sinner Gear - Dispositivo de Castidad Uretral  1 unidad](https://www.amazon.es/dp/B01M8N7V0D/?tag=tolees-21) con 65.40 de descuento por 25.93 EUR (original: 74.95 EUR) en el siguiente enlace!

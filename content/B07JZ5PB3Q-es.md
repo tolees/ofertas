@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JZ5PB3Q/?tag=tolees-21'
 descuento: '61.58'
+average: '34.56'
 ---
 
 Tienes [adidas Nemeziz 18.3 AG  Zapatillas de Fútbol para Hombre  Blanco Off White/Core Black/Active Red  42 2/3 EU](https://www.amazon.es/dp/B07JZ5PB3Q/?tag=tolees-21) con un 61.58 % de descuento con precio de oferta de 34.56 EUR (original: 89.95 EUR) en el siguiente enlace!

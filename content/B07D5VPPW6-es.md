@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D5VPPW6/?tag=tolees-21'
 descuento: '52.99'
+average: '16.92'
 ---
 
 Tienes [Celio Lessimmo  Polo para Hombre  Azul Navy  Small](https://www.amazon.es/dp/B07D5VPPW6/?tag=tolees-21) con un 52.99 % de descuento con precio de oferta de 16.92 EUR (original: 35.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ3Y6KK/?tag=tolees-21'
 descuento: '78.70'
+average: '17.03'
 ---
 
 Está [Puma One 3 LTH FG  Zapatillas de Fútbol para Hombre  Plateado Silver-Shocking Orange Black 01  46 EU](https://www.amazon.es/dp/B07CZ3Y6KK/?tag=tolees-21) con 78.70 de descuento por 17.03 EUR (original: 79.95 EUR) en el siguiente enlace!

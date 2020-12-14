@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076LYVWRQ/?tag=tolees-21'
 descuento: '54.30'
+average: '114.25'
 ---
 
 Está [roba-kids - Cama palacio real  multicolor  roba Baumann 20330 ](https://www.amazon.es/dp/B076LYVWRQ/?tag=tolees-21) con 54.30 de descuento por 114.25 EUR (original: 250 EUR) en el siguiente enlace!

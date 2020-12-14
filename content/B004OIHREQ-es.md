@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004OIHREQ/?tag=tolees-21'
 descuento: '34.26'
+average: '8.27'
 ---
 
 Está [Am-Tech - Surtido de termorretráctil  127 unidades](https://www.amazon.es/dp/B004OIHREQ/?tag=tolees-21) con 34.26 de descuento por 8.27 EUR (original: 12.58 EUR) en el siguiente enlace!

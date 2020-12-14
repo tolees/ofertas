@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JGT9V4X/?tag=tolees-21'
 descuento: '75.24'
+average: '34.66'
 ---
 
 Ahora mismo tienes [Armani Exchange Cotton Linen Denim Pantalones  Azul  Navy 1510   W33/L32  Talla del Fabricante: 33  para Hombre](https://www.amazon.es/dp/B07JGT9V4X/?tag=tolees-21) a 34.66 EUR (original: 140 EUR) (75.24 %  de descuento) en el siguiente enlace!

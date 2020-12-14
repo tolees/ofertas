@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N3KRWSU/?tag=tolees-21'
 descuento: '56.18'
+average: '6.99'
 ---
 
 Está [Fieltro adhesivo  protector de goma para patas de mesa y muebles  HynecTechnologies  7 tamaños diferentes  protector patas sillas  almohadillas para muebles y sillas](https://www.amazon.es/dp/B01N3KRWSU/?tag=tolees-21) con 56.18 de descuento por 6.99 EUR (original: 15.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N4EW03O/?tag=tolees-21'
 descuento: '44.29'
+average: '33.4'
 ---
 
 Ahora mismo tienes [Kappa Faster II  Zapatillas Unisex Adulto  Azul  Navy/Grey 6716   39 EU](https://www.amazon.es/dp/B01N4EW03O/?tag=tolees-21) a 33.4 EUR (original: 59.95 EUR) (44.29 %  de descuento) en el siguiente enlace!

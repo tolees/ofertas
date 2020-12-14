@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GN9V6B3/?tag=tolees-21'
 descuento: '50.00'
+average: '8.86'
 ---
 
 Está [Voraca SOLEDI - Azucarero de Cristal para el hogar  250 ML  diseño de saleros de Cocina](https://www.amazon.es/dp/B07GN9V6B3/?tag=tolees-21) con 50.00 de descuento por 8.86 EUR (original: 17.72 EUR) en el siguiente enlace!

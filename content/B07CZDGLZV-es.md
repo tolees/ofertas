@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZDGLZV/?tag=tolees-21'
 descuento: '35.05'
+average: '19.48'
 ---
 
 Está [Under Armour Men s Official Tour Cap 3.0 Gorra  Hombre  Azul  Academy/White 408   M/L](https://www.amazon.es/dp/B07CZDGLZV/?tag=tolees-21) con 35.05 de descuento por 19.48 EUR (original: 29.99 EUR) en el siguiente enlace!

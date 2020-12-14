@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0090I3YSS/?tag=tolees-21'
 descuento: '51.12'
+average: '21.97'
 ---
 
 Tienes [Diplomatico Rum Reserva Excl 70cl](https://www.amazon.es/dp/B0090I3YSS/?tag=tolees-21) con un 51.12 % de descuento con precio de oferta de 21.97 EUR (original: 44.95 EUR) en el siguiente enlace!

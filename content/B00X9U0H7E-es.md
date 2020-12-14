@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00X9U0H7E/?tag=tolees-21'
 descuento: '46.56'
+average: '7.99'
 ---
 
 Está [Garnier Skin Active Crema anti edad desfatigante iluminadora de día Miracle Cream](https://www.amazon.es/dp/B00X9U0H7E/?tag=tolees-21) con 46.56 de descuento por 7.99 EUR (original: 14.95 EUR) en el siguiente enlace!

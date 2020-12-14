@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KSD9DZ9/?tag=tolees-21'
 descuento: '43.13'
+average: '7.49'
 ---
 
 Está [AmazonBasics - Cable HDMI flexible  de 3 m](https://www.amazon.es/dp/B07KSD9DZ9/?tag=tolees-21) con 43.13 de descuento por 7.49 EUR (original: 13.17 EUR) en el siguiente enlace!

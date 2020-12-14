@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000NDCUOS/?tag=tolees-21'
 descuento: '42.36'
+average: '10.53'
 ---
 
 Tienes [Bosch 2 608 584 061 - Set de 7 sierras de corona - 25; 32; 38; 44; 51; 57; 63 mm  pack de 7 ](https://www.amazon.es/dp/B000NDCUOS/?tag=tolees-21) con un 42.36 % de descuento con precio de oferta de 10.53 EUR (original: 18.27 EUR) en el siguiente enlace!

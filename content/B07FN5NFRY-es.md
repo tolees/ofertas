@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FN5NFRY/?tag=tolees-21'
 descuento: '73.01'
+average: '25.04'
 ---
 
 Tienes [Asics Gel-Lyte Hikari 1191a007-001  Zapatillas para Hombre  Negro Black 001  41.5 EU](https://www.amazon.es/dp/B07FN5NFRY/?tag=tolees-21) con un 73.01 % de descuento con precio de oferta de 25.04 EUR (original: 92.77 EUR) en el siguiente enlace!

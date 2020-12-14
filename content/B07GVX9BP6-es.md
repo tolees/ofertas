@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GVX9BP6/?tag=tolees-21'
 descuento: '45.02'
+average: '14.29'
 ---
 
 Está [Crepusculo Blu-Ray + Uhd 4k [Blu-ray]](https://www.amazon.es/dp/B07GVX9BP6/?tag=tolees-21) con 45.02 de descuento por 14.29 EUR (original: 25.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B42HN3S/?tag=tolees-21'
 descuento: '40.00'
+average: '10.8'
 ---
 
 Está [Eastpak Oval Single Estuche  22 cm  Negro  Leaves Black ](https://www.amazon.es/dp/B07B42HN3S/?tag=tolees-21) con 40.00 de descuento por 10.8 EUR (original: 18 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0714LZ6WQ/?tag=tolees-21'
 descuento: '29.41'
+average: '6.6'
 ---
 
 Tienes [Nano Cable 10.15.3603 - Cable de Alta Velocidad HDMI v2.0  4K  60Hz  18 Gbps  Macho-Macho  Tipo A/M-A/M  Negro  3 MTS ](https://www.amazon.es/dp/B0714LZ6WQ/?tag=tolees-21) con un 29.41 % de descuento con precio de oferta de 6.6 EUR (original: 9.35 EUR) en el siguiente enlace!

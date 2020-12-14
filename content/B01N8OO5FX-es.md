@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N8OO5FX/?tag=tolees-21'
 descuento: '69.21'
+average: '15.69'
 ---
 
 Ahora mismo tienes [San Ignacio Gourmet Wok  Aluminio  Gris  28 cm](https://www.amazon.es/dp/B01N8OO5FX/?tag=tolees-21) a 15.69 EUR (original: 50.95 EUR) (69.21 %  de descuento) en el siguiente enlace!

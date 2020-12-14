@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017D2JA8K/?tag=tolees-21'
 descuento: '37.64'
+average: '43.98'
 ---
 
 Tienes [Fiskars Podadera  Cuchilla bypass para madera verde  Ø de corte: 3 8 cm  Longitud: 57 cm  Negro/Naranja  1020186](https://www.amazon.es/dp/B017D2JA8K/?tag=tolees-21) con un 37.64 % de descuento con precio de oferta de 43.98 EUR (original: 70.53 EUR) en el siguiente enlace!

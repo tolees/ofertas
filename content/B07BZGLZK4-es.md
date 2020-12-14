@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BZGLZK4/?tag=tolees-21'
 descuento: '46.67'
+average: '56'
 ---
 
 Ahora mismo tienes [SERMAHOME- Cabecero Andorra tapizado Polipiel Color Fucsia. Medidas: 110 x 55 x 7 cm  Camas 80  90 y 105 cm .](https://www.amazon.es/dp/B07BZGLZK4/?tag=tolees-21) a 56 EUR (original: 105 EUR) (46.67 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DKF765K/?tag=tolees-21'
 descuento: '28.59'
+average: '20.71'
 ---
 
 Está [Kipling - Creativity L  Monederos Mujer  Rojo  Active Red ](https://www.amazon.es/dp/B07DKF765K/?tag=tolees-21) con 28.59 de descuento por 20.71 EUR (original: 29 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075R3RJ4W/?tag=tolees-21'
 descuento: '65.54'
+average: '24.12'
 ---
 
 Está [New Balance 005  Zapatillas de Running para Hombre  Gris  Team Away Grey/White Yd   38 EU](https://www.amazon.es/dp/B075R3RJ4W/?tag=tolees-21) con 65.54 de descuento por 24.12 EUR (original: 70 EUR) en el siguiente enlace!

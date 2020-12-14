@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CPZXNGQ/?tag=tolees-21'
 descuento: '50.01'
+average: '39.99'
 ---
 
 Está [Soporte de monitor para pantallas LCD de computadora de 17 a 32 pulgadas  con Resorte de Gas Ajustable y Montaje vertical con abrazadera C/ base de arandela que Incluye cable HDMI  soporta hasta 8 kg](https://www.amazon.es/dp/B07CPZXNGQ/?tag=tolees-21) con 50.01 de descuento por 39.99 EUR (original: 79.99 EUR) en el siguiente enlace!

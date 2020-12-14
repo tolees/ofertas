@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0713XNMNS/?tag=tolees-21'
 descuento: '77.21'
+average: '29.62'
 ---
 
 Ahora mismo tienes [G-STAR RAW 3301 Tapered Jeans  Azul  dk aged 9179-89   31W / 32L para Hombre](https://www.amazon.es/dp/B0713XNMNS/?tag=tolees-21) a 29.62 EUR (original: 129.95 EUR) (77.21 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZKSR7V/?tag=tolees-21'
 descuento: '44.18'
+average: '64.17'
 ---
 
 Ahora mismo tienes [Salomon X-Mission 3 W  Zapatillas de Trail Running para Mujer  Gris Shadow/Dark Purple/Nile Blue  41 1/3 EU](https://www.amazon.es/dp/B07CZKSR7V/?tag=tolees-21) a 64.17 EUR (original: 114.95 EUR) (44.18 %  de descuento) en el siguiente enlace!

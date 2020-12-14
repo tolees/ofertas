@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TZS1ZRA/?tag=tolees-21'
 descuento: '78.96'
+average: '104.99'
 ---
 
 Está [marckonfort Colchón viscoelástico París 90X190  18 cm](https://www.amazon.es/dp/B00TZS1ZRA/?tag=tolees-21) con 78.96 de descuento por 104.99 EUR (original: 499 EUR) en el siguiente enlace!

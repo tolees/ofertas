@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MRNBKDG/?tag=tolees-21'
 descuento: '46.08'
+average: '113.48'
 ---
 
 Está [Kaspersky Small Office Security - Software De Seguridad  Cifrado De Datos/Backup Automático  10 Usuarios/Móviles/1 Servidor/1 Año](https://www.amazon.es/dp/B01MRNBKDG/?tag=tolees-21) con 46.08 de descuento por 113.48 EUR (original: 210.46 EUR) en el siguiente enlace!

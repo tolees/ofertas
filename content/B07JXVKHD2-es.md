@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JXVKHD2/?tag=tolees-21'
 descuento: '85.69'
+average: '7.01'
 ---
 
 Tienes [DAM. DMX190GR. Correa De Silicona para Apple Watch 42Mm / 44Mm. Broche Metálico  7 Posiciones. Compatible Series 1  2  3  Y 4. Gris](https://www.amazon.es/dp/B07JXVKHD2/?tag=tolees-21) con un 85.69 % de descuento con precio de oferta de 7.01 EUR (original: 49 EUR) en el siguiente enlace!

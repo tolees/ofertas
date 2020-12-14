@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0787JFFJB/?tag=tolees-21'
 descuento: '35.69'
+average: '31.45'
 ---
 
 Está [Pepe Jeans London Gable Sue  Zapatillas para Mujer  Azul  Marine   39 EU](https://www.amazon.es/dp/B0787JFFJB/?tag=tolees-21) con 35.69 de descuento por 31.45 EUR (original: 48.9 EUR) en el siguiente enlace!

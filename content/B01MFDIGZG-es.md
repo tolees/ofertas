@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MFDIGZG/?tag=tolees-21'
 descuento: '45.08'
+average: '32.95'
 ---
 
 Está [Levi s Woods  Zapatillas para Hombre  Blanco  B White 50   45 EU](https://www.amazon.es/dp/B01MFDIGZG/?tag=tolees-21) con 45.08 de descuento por 32.95 EUR (original: 60 EUR) en el siguiente enlace!

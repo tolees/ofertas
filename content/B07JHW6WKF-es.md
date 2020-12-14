@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JHW6WKF/?tag=tolees-21'
 descuento: '44.09'
+average: '13.95'
 ---
 
 Está [PUMA ftblNXT Shorts Pantalones Cortos  Hombre  Negro Black  L](https://www.amazon.es/dp/B07JHW6WKF/?tag=tolees-21) con 44.09 de descuento por 13.95 EUR (original: 24.95 EUR) en el siguiente enlace!

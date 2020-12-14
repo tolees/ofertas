@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TU60U1Y/?tag=tolees-21'
 descuento: '54.37'
+average: '20.68'
 ---
 
 Está [Nike Elite  PS  - Zapatillas de material sintético para niño  Black/White-Anthracite-Gym Red  27.5](https://www.amazon.es/dp/B00TU60U1Y/?tag=tolees-21) con 54.37 de descuento por 20.68 EUR (original: 45.32 EUR) en el siguiente enlace!

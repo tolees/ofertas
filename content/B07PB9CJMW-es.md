@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PB9CJMW/?tag=tolees-21'
 descuento: '50.01'
+average: '24.99'
 ---
 
 Está [TedGem WiFi Display Dongle  2.4G 5G HDMI Inalámbrico 1080P TV Dongle  WiFi Inalambrico  Airplay Dongle WiFi TV Soporte Windows 8.1 / Android 4.2](https://www.amazon.es/dp/B07PB9CJMW/?tag=tolees-21) con 50.01 de descuento por 24.99 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076DDN68W/?tag=tolees-21'
 descuento: '50.02'
+average: '11.49'
 ---
 
 Tienes [Women secret 4022823  Sujetador con Tirantes para Mujer  Rosa  Pink   90  Tamaño del Fabricante:90B ](https://www.amazon.es/dp/B076DDN68W/?tag=tolees-21) con un 50.02 % de descuento con precio de oferta de 11.49 EUR (original: 22.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078KVB6HH/?tag=tolees-21'
 descuento: '50.41'
+average: '16.53'
 ---
 
 Tienes [Alfombrista Diseño 23 Alfombra Moderna Acrílico Multicolor 60x110x1 cm](https://www.amazon.es/dp/B078KVB6HH/?tag=tolees-21) con un 50.41 % de descuento con precio de oferta de 16.53 EUR (original: 33.33 EUR) en el siguiente enlace!

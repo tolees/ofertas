@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLKJXP5/?tag=tolees-21'
 descuento: '56.53'
+average: '8.69'
 ---
 
 Tienes [Women secret Da-Big Navy Vty Neceser de Viaje  Azul](https://www.amazon.es/dp/B07DLKJXP5/?tag=tolees-21) con un 56.53 % de descuento con precio de oferta de 8.69 EUR (original: 19.99 EUR) en el siguiente enlace!

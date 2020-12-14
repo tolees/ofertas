@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B009RU3BQ4/?tag=tolees-21'
 descuento: '42.38'
+average: '28.81'
 ---
 
 Está [Kappa Kent Low Footwear Men  Zapatillas para Hombre  Azul  6710 Navy/Blanco   41 EU](https://www.amazon.es/dp/B009RU3BQ4/?tag=tolees-21) con 42.38 de descuento por 28.81 EUR (original: 50 EUR) en el siguiente enlace!

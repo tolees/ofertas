@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FHDG84B/?tag=tolees-21'
 descuento: '31.08'
+average: '37.87'
 ---
 
 Está [Puma NRGY Comet  Zapatillas de Running Unisex Adults’o  Negro Black White  36 EU](https://www.amazon.es/dp/B07FHDG84B/?tag=tolees-21) con 31.08 de descuento por 37.87 EUR (original: 54.95 EUR) en el siguiente enlace!

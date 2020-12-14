@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00DYSKKJ6/?tag=tolees-21'
 descuento: '30.22'
+average: '34.19'
 ---
 
 Tienes [Gre Y28 - Piscina infantil tubular Ø 160 x 40 cm](https://www.amazon.es/dp/B00DYSKKJ6/?tag=tolees-21) con un 30.22 % de descuento con precio de oferta de 34.19 EUR (original: 49 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HNFNW5H/?tag=tolees-21'
 descuento: '40.02'
+average: '15.59'
 ---
 
 Tienes [Sicario Blu-Ray + Uhd 4k [Blu-ray]](https://www.amazon.es/dp/B07HNFNW5H/?tag=tolees-21) con un 40.02 % de descuento con precio de oferta de 15.59 EUR (original: 25.99 EUR) en el siguiente enlace!

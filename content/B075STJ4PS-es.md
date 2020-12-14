@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075STJ4PS/?tag=tolees-21'
 descuento: '30.02'
+average: '13.99'
 ---
 
 Está [Kaisi Reloj de reparación de herramientas  kit relojero destornillador herramienta Profesional de reparación de relojes s Barra de Resorte Pin Link Removedor conjunto](https://www.amazon.es/dp/B075STJ4PS/?tag=tolees-21) con 30.02 de descuento por 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!

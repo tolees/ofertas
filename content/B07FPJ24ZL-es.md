@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FPJ24ZL/?tag=tolees-21'
 descuento: '72.51'
+average: '19.11'
 ---
 
 Está [TECCPO - Lijadora eléctrica orbital 14500 OPM  210 W  motor de cobre fino  12 unidades  papel de lija  superficie de orbita  105 x 114 mm  con bolsa de polvo reciclable - TASS22P](https://www.amazon.es/dp/B07FPJ24ZL/?tag=tolees-21) con 72.51 de descuento por 19.11 EUR (original: 69.51 EUR) en el siguiente enlace!

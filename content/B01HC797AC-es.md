@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HC797AC/?tag=tolees-21'
 descuento: '30.56'
+average: '43'
 ---
 
 Tienes [Toallas de lujo de 6 piezas blanco - 2 toallas de baño  2 toallas de mano  2 paños  más 2 paños extra - 100% algodón egipcio natural orgánico 650 GSM - Super suave y altamente absorbente](https://www.amazon.es/dp/B01HC797AC/?tag=tolees-21) con un 30.56 % de descuento con precio de oferta de 43 EUR (original: 61.92 EUR) en el siguiente enlace!

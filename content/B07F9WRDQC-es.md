@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F9WRDQC/?tag=tolees-21'
 descuento: '68.84'
+average: '13.71'
 ---
 
 Está [find. Feather Pattern Silky Jogger Pantalones  Negro  Black   W34/L32  Talla del fabricante: 44 ](https://www.amazon.es/dp/B07F9WRDQC/?tag=tolees-21) con 68.84 de descuento por 13.71 EUR (original: 44 EUR) en el siguiente enlace!

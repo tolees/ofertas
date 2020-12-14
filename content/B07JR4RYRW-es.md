@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JR4RYRW/?tag=tolees-21'
 descuento: '33.34'
+average: '19.99'
 ---
 
 Ahora mismo tienes [Almohada Reposacabezas coche - Cojín Cervical Coche Ortopedicos | Almohadillas del Cuello del Coche para la Conducción | Cojines Reposacabezas Coche Negro](https://www.amazon.es/dp/B07JR4RYRW/?tag=tolees-21) a 19.99 EUR (original: 29.99 EUR) (33.34 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074VGGZ5L/?tag=tolees-21'
 descuento: '77.43'
+average: '2.92'
 ---
 
 Está [Vallejo 17 ml"AV meca color acrílico aerógrafo color – verde fluorescente](https://www.amazon.es/dp/B074VGGZ5L/?tag=tolees-21) con 77.43 de descuento por 2.92 EUR (original: 12.94 EUR) en el siguiente enlace!

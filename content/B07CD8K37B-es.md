@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CD8K37B/?tag=tolees-21'
 descuento: '59.65'
+average: '56.49'
 ---
 
 Está [Nike Wmns Air Zoom Vapor X HC  Zapatillas de Tenis para Mujer   Bordeaux/Phantom/White/Orange Blaze 601   38 EU](https://www.amazon.es/dp/B07CD8K37B/?tag=tolees-21) con 59.65 de descuento por 56.49 EUR (original: 140 EUR) en el siguiente enlace!

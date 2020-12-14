@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G7T5TG8/?tag=tolees-21'
 descuento: '38.91'
+average: '10.99'
 ---
 
 Tienes [LucaSng lámina protectora del espejo retrovisor del coche Antivaho  resistente al agua  resistente a los arañazos  a prueba de aceite  antideslumbrante  transparente  2 Piezas oval](https://www.amazon.es/dp/B07G7T5TG8/?tag=tolees-21) con un 38.91 % de descuento con precio de oferta de 10.99 EUR (original: 17.99 EUR) en el siguiente enlace!

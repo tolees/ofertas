@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HB4YKVG/?tag=tolees-21'
 descuento: '45.20'
+average: '8.74'
 ---
 
 Ahora mismo tienes [Pop! Titanic - Figura de Vinilo Rose](https://www.amazon.es/dp/B07HB4YKVG/?tag=tolees-21) a 8.74 EUR (original: 15.95 EUR) (45.20 %  de descuento) en el siguiente enlace!

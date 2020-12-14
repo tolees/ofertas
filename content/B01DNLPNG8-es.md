@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DNLPNG8/?tag=tolees-21'
 descuento: '85.39'
+average: '18.99'
 ---
 
 Tienes [Leathario  Negro-A4  Marcas de Portafolio de Carpeta Plegable de Mano de PU para Hombres  Diseñado para Negocio y para Tomar Notas](https://www.amazon.es/dp/B01DNLPNG8/?tag=tolees-21) con un 85.39 % de descuento con precio de oferta de 18.99 EUR (original: 129.99 EUR) en el siguiente enlace!

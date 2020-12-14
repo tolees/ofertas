@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N9I1J1T/?tag=tolees-21'
 descuento: '53.81'
+average: '64.66'
 ---
 
 Tienes [Merrell Moab Adventure Lace Waterproof  Zapatillas de Senderismo Hombre  Negro  Black   44](https://www.amazon.es/dp/B01N9I1J1T/?tag=tolees-21) con un 53.81 % de descuento con precio de oferta de 64.66 EUR (original: 140 EUR) en el siguiente enlace!

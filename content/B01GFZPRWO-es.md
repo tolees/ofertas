@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GFZPRWO/?tag=tolees-21'
 descuento: '68.07'
+average: '7.98'
 ---
 
 Está [Ultrasport Fort Lauderdale Strood Polo  Hombre  Amarillo  S](https://www.amazon.es/dp/B01GFZPRWO/?tag=tolees-21) con 68.07 de descuento por 7.98 EUR (original: 24.99 EUR) en el siguiente enlace!

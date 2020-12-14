@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KSX374E/?tag=tolees-21'
 descuento: '36.25'
+average: '102'
 ---
 
 Tienes [Fitbit Charge 2 Pulsera de Actividad física y Ritmo cardiaco  Unisex  Negro  L](https://www.amazon.es/dp/B01KSX374E/?tag=tolees-21) con un 36.25 % de descuento con precio de oferta de 102 EUR (original: 159.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HSHQKHR/?tag=tolees-21'
 descuento: '81.26'
+average: '6'
 ---
 
 Está [New Look Mustard Check Pinny  Mono para Mujer  Amarillo  Yellow Pattern  34  Talla del Fabricante: 6 ](https://www.amazon.es/dp/B07HSHQKHR/?tag=tolees-21) con 81.26 de descuento por 6 EUR (original: 32.02 EUR) en el siguiente enlace!

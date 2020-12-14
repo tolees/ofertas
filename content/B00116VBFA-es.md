@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00116VBFA/?tag=tolees-21'
 descuento: '34.50'
+average: '9.19'
 ---
 
 Ahora mismo tienes [Happy People - Palas de playa  Colores Surtidos](https://www.amazon.es/dp/B00116VBFA/?tag=tolees-21) a 9.19 EUR (original: 14.03 EUR) (34.50 %  de descuento) en el siguiente enlace!

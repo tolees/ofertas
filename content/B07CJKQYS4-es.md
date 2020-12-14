@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CJKQYS4/?tag=tolees-21'
 descuento: '57.82'
+average: '67.07'
 ---
 
 Ahora mismo tienes [Skagen Reloj Analógico para Mujer de Cuarzo con Correa en Cuero SKW2719](https://www.amazon.es/dp/B07CJKQYS4/?tag=tolees-21) a 67.07 EUR (original: 159 EUR) (57.82 %  de descuento) en el siguiente enlace!

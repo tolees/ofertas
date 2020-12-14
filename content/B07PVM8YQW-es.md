@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PVM8YQW/?tag=tolees-21'
 descuento: '76.55'
+average: '11.95'
 ---
 
 Tienes [iFanze-a Electroestimulador Muscular Digital Masaje  electroestimulador tens 2 Electrodos Autoadhesivos  6 Masaje Modos  par Espalda  Cuello  Codo  Hombro  Cintura](https://www.amazon.es/dp/B07PVM8YQW/?tag=tolees-21) con un 76.55 % de descuento con precio de oferta de 11.95 EUR (original: 50.95 EUR) en el siguiente enlace!

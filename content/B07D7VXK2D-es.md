@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D7VXK2D/?tag=tolees-21'
 descuento: '40.81'
+average: '17.75'
 ---
 
 Está [THE G-LAB - KEYZ-Iridium - Teclado Gaming de Alto Rendimiento - Membrana de Alta Precisión- Retroiluminación RGB - Layout Español](https://www.amazon.es/dp/B07D7VXK2D/?tag=tolees-21) con 40.81 de descuento por 17.75 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00NN8EXD6/?tag=tolees-21'
 descuento: '38.79'
+average: '14.99'
 ---
 
 Ahora mismo tienes [Philips Monocromo - Memoria USB 3.0 de 32 GB  Color Plateado](https://www.amazon.es/dp/B00NN8EXD6/?tag=tolees-21) a 14.99 EUR (original: 24.49 EUR) (38.79 %  de descuento) en el siguiente enlace!

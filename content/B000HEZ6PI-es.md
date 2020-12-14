@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000HEZ6PI/?tag=tolees-21'
 descuento: '70.00'
+average: '179.99'
 ---
 
 Tienes [Nobo 1901956 - Pantalla de proyección portátil 160 x 120 cm](https://www.amazon.es/dp/B000HEZ6PI/?tag=tolees-21) con un 70.00 % de descuento con precio de oferta de 179.99 EUR (original: 600 EUR) en el siguiente enlace!

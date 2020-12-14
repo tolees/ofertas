@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00YNYIH1I/?tag=tolees-21'
 descuento: '70.82'
+average: '8.58'
 ---
 
 Está [Maurer 2240016 Caja de herramientas 505x220x300 mm](https://www.amazon.es/dp/B00YNYIH1I/?tag=tolees-21) con 70.82 de descuento por 8.58 EUR (original: 29.4 EUR) en el siguiente enlace!

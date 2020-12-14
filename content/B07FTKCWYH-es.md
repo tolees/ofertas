@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FTKCWYH/?tag=tolees-21'
 descuento: '66.94'
+average: '11.99'
 ---
 
 Está [RQTX Funda Nuevo MacBook Pro 13 Portátiles Accesorios Plástico Rígida Colorido Duro Carcasa para Apple 2017 MacBook Pro Nuevo 13 Pulgadas con/sin Touch Bar Modelo A1706/A1708  Rosa y Naranja](https://www.amazon.es/dp/B07FTKCWYH/?tag=tolees-21) con 66.94 de descuento por 11.99 EUR (original: 36.27 EUR) en el siguiente enlace!

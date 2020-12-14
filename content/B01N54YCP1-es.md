@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N54YCP1/?tag=tolees-21'
 descuento: '56.27'
+average: '20.99'
 ---
 
 Ahora mismo tienes [SYROKAN - Sujetador Deportivo Máximo Soporte Sin Relleno para Mujer Verde ES:100B  EU 85B ](https://www.amazon.es/dp/B01N54YCP1/?tag=tolees-21) a 20.99 EUR (original: 48 EUR) (56.27 %  de descuento) en el siguiente enlace!

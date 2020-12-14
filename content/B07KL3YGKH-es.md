@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KL3YGKH/?tag=tolees-21'
 descuento: '44.73'
+average: '30.4'
 ---
 
 Está [Nike M Hoodie Po FLC TM Club19 Sweatshirt  Hombre  Obsidian  White   S](https://www.amazon.es/dp/B07KL3YGKH/?tag=tolees-21) con 44.73 de descuento por 30.4 EUR (original: 55 EUR) en el siguiente enlace!

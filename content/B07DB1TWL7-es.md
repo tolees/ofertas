@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DB1TWL7/?tag=tolees-21'
 descuento: '49.52'
+average: '27.74'
 ---
 
 Tienes [Puma Nrgy Comet  Zapatillas de Running Unisex Adulto  Rojo  Ribbon Red-Iron Gate 11   37.5 EU](https://www.amazon.es/dp/B07DB1TWL7/?tag=tolees-21) con un 49.52 % de descuento con precio de oferta de 27.74 EUR (original: 54.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074FTDPH5/?tag=tolees-21'
 descuento: '74.65'
+average: '32.95'
 ---
 
 Está [Pioneer Rayz - Auriculares con Cable Lightning  Color Blanco](https://www.amazon.es/dp/B074FTDPH5/?tag=tolees-21) con 74.65 de descuento por 32.95 EUR (original: 129.99 EUR) en el siguiente enlace!

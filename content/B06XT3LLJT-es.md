@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XT3LLJT/?tag=tolees-21'
 descuento: '77.79'
+average: '19.99'
 ---
 
 Tienes [Soundance 12W Altavoz Bluetooth estéreo inalámbrico para el hogar con Conector de Audio  hasta 10 Horas de reproducción 15m Bluetooth Range  Soporte TF/Tarjeta Micro SD  púrpura](https://www.amazon.es/dp/B06XT3LLJT/?tag=tolees-21) con un 77.79 % de descuento con precio de oferta de 19.99 EUR (original: 89.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FKKQY2B/?tag=tolees-21'
 descuento: '49.18'
+average: '11.18'
 ---
 
 Tienes [The North Face 66 Classic Hat Gorra  Hombre  Storm Blue/TNF  Talla única](https://www.amazon.es/dp/B07FKKQY2B/?tag=tolees-21) con un 49.18 % de descuento con precio de oferta de 11.18 EUR (original: 22 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JNPLVD1/?tag=tolees-21'
 descuento: '40.05'
+average: '8.98'
 ---
 
 Ahora mismo tienes [BoxLegend Bolsa de lavandería de Malla  Paquete de 6 Bolsas de Lavado con Cremallera para Lavadora  5 tamaños Bolsas de Lavado de Red Reutilizable con Cremallera](https://www.amazon.es/dp/B07JNPLVD1/?tag=tolees-21) a 8.98 EUR (original: 14.98 EUR) (40.05 %  de descuento) en el siguiente enlace!

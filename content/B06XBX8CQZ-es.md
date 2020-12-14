@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XBX8CQZ/?tag=tolees-21'
 descuento: '50.03'
+average: '49.95'
 ---
 
 Ahora mismo tienes [Clarks Tri Trail  Zapatillas para Mujer  Negro  Black Interest   38 EU](https://www.amazon.es/dp/B06XBX8CQZ/?tag=tolees-21) a 49.95 EUR (original: 99.95 EUR) (50.03 %  de descuento) en el siguiente enlace!

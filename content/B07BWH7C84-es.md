@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BWH7C84/?tag=tolees-21'
 descuento: '70.65'
+average: '6.65'
 ---
 
 Ahora mismo tienes [KY Doce Pulseras de constelación Trenzadas de Piel Tejida a Mano  Ajustables](https://www.amazon.es/dp/B07BWH7C84/?tag=tolees-21) a 6.65 EUR (original: 22.66 EUR) (70.65 %  de descuento) en el siguiente enlace!

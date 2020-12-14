@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B016Z65PXE/?tag=tolees-21'
 descuento: '68.56'
+average: '6.98'
 ---
 
 Tienes [Schwarzkopf Professional BC Excellium Plumping Soufflé Tratamiento Capilar - 200 ml](https://www.amazon.es/dp/B016Z65PXE/?tag=tolees-21) con un 68.56 % de descuento con precio de oferta de 6.98 EUR (original: 22.2 EUR) en el siguiente enlace!

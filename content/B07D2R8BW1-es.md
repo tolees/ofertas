@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D2R8BW1/?tag=tolees-21'
 descuento: '51.26'
+average: '19.01'
 ---
 
 Tienes [Gant 2-Pack Trunk Flags CTN Str  Bañador Hombre  Beige  Eggshell   X-Large](https://www.amazon.es/dp/B07D2R8BW1/?tag=tolees-21) con un 51.26 % de descuento con precio de oferta de 19.01 EUR (original: 39 EUR) en el siguiente enlace!

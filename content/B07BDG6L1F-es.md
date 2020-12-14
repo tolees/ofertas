@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BDG6L1F/?tag=tolees-21'
 descuento: '96.18'
+average: '5.99'
 ---
 
 Ahora mismo tienes [OTHA Banda Elástica  Bandas de Resistencia  Ligera/Media / Pesada 5 Niveles Banda de Ejercicios para Entrenamiento Crossfit Pilates Fisioterapia de Fuerza Recuperación de](https://www.amazon.es/dp/B07BDG6L1F/?tag=tolees-21) a 5.99 EUR (original: 157 EUR) (96.18 %  de descuento) en el siguiente enlace!

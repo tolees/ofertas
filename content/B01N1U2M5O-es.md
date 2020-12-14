@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N1U2M5O/?tag=tolees-21'
 descuento: '41.96'
+average: '53.99'
 ---
 
 Tienes [ICA  KNA20 Nano AquaLED Crystal 20 -  Kit Nano acuario  20 l](https://www.amazon.es/dp/B01N1U2M5O/?tag=tolees-21) con un 41.96 % de descuento con precio de oferta de 53.99 EUR (original: 93.02 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F7Q7GMF/?tag=tolees-21'
 descuento: '74.82'
+average: '10.07'
 ---
 
 Tienes [ONLY NOS Onlfiona Mid ANK Cigarette Jeans Bj12843 Pantalones  Negro  Black Denim   W28/L30  Talla del Fabricante: 28  para Mujer](https://www.amazon.es/dp/B07F7Q7GMF/?tag=tolees-21) con un 74.82 % de descuento con precio de oferta de 10.07 EUR (original: 39.99 EUR) en el siguiente enlace!

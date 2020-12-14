@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078MCZSLT/?tag=tolees-21'
 descuento: '41.34'
+average: '7.01'
 ---
 
 Tienes [SKYEE [4 Unidades Adaptador USB C a Micro USB Compatible con OTG  Aleación de Aluminio Conectores USB Tipo C para Samsung Galaxy S9/S8  LG G6  MacBook Pro 2017 y Más Tipo C USB Dispositivos - Azul](https://www.amazon.es/dp/B078MCZSLT/?tag=tolees-21) con un 41.34 % de descuento con precio de oferta de 7.01 EUR (original: 11.95 EUR) en el siguiente enlace!

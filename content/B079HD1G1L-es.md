@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079HD1G1L/?tag=tolees-21'
 descuento: '49.62'
+average: '9.95'
 ---
 
 Tienes [Little Dutch-LD4628 Doudou  Color Rosa  Blanco  4628 ](https://www.amazon.es/dp/B079HD1G1L/?tag=tolees-21) con un 49.62 % de descuento con precio de oferta de 9.95 EUR (original: 19.75 EUR) en el siguiente enlace!

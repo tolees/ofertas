@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC3DVRF/?tag=tolees-21'
 descuento: '71.17'
+average: '21.62'
 ---
 
 Está [LE COQ SPORTIF Courtace Sport Black  Zapatillas para Hombre  Negro Noir  40 EU](https://www.amazon.es/dp/B07DC3DVRF/?tag=tolees-21) con 71.17 de descuento por 21.62 EUR (original: 75 EUR) en el siguiente enlace!

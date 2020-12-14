@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00MC60I5C/?tag=tolees-21'
 descuento: '65.54'
+average: '13.99'
 ---
 
 Ahora mismo tienes [deAO - Robot "Beast Ares" con Múltiples acciones  Sonidos  Luces y Efectos  Incluye Dardos de plástico  JIAQI  RCR1 ](https://www.amazon.es/dp/B00MC60I5C/?tag=tolees-21) a 13.99 EUR (original: 40.6 EUR) (65.54 %  de descuento) en el siguiente enlace!

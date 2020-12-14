@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00FDV6B36/?tag=tolees-21'
 descuento: '31.31'
+average: '11.63'
 ---
 
 Tienes [Bestway 58037 - Cobertor Protector de PVC para piscinas Steel Pro  Power Steel  Hydrium Splasher](https://www.amazon.es/dp/B00FDV6B36/?tag=tolees-21) con un 31.31 % de descuento con precio de oferta de 11.63 EUR (original: 16.93 EUR) en el siguiente enlace!

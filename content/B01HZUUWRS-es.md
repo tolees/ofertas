@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HZUUWRS/?tag=tolees-21'
 descuento: '50.03'
+average: '49.95'
 ---
 
 Está [G-STAR RAW Bronson Mid Waist Skinny Chino Pantalones  Beige  Sahara 5488-436   34W / 30L para Mujer](https://www.amazon.es/dp/B01HZUUWRS/?tag=tolees-21) con 50.03 de descuento por 49.95 EUR (original: 99.95 EUR) en el siguiente enlace!

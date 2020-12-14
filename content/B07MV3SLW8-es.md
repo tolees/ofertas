@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MV3SLW8/?tag=tolees-21'
 descuento: '66.33'
+average: '19.99'
 ---
 
 Tienes [Auriculares Bluetooth  Syllable Q3 Auriculares Bluetooth Inalámbricos Magnéticos Cascos In-Ears 5.0 Deportivos con Micrófono Dual  Cancelación de Ruido CVC 6.0 para iPhone y Android  Nueva Versión  ](https://www.amazon.es/dp/B07MV3SLW8/?tag=tolees-21) con un 66.33 % de descuento con precio de oferta de 19.99 EUR (original: 59.37 EUR) en el siguiente enlace!

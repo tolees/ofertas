@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DSDCL9R/?tag=tolees-21'
 descuento: '68.93'
+average: '17.09'
 ---
 
 Está [Diadora Swan + 2 W  Zapatillas de Running para Hombre   Amparo Blue/White C7639   38 EU](https://www.amazon.es/dp/B07DSDCL9R/?tag=tolees-21) con 68.93 de descuento por 17.09 EUR (original: 55 EUR) en el siguiente enlace!

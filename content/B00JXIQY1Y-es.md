@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00JXIQY1Y/?tag=tolees-21'
 descuento: '44.60'
+average: '44.29'
 ---
 
 Está [McDavid Hex Pad Wrap Around - Pantalones cortos con amortiguación  color negro  talla XXL](https://www.amazon.es/dp/B00JXIQY1Y/?tag=tolees-21) con 44.60 de descuento por 44.29 EUR (original: 79.95 EUR) en el siguiente enlace!

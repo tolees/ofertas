@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007H1OB3C/?tag=tolees-21'
 descuento: '32.18'
+average: '16.92'
 ---
 
 Ahora mismo tienes [Wanachi Vibrador - 1 unidad](https://www.amazon.es/dp/B007H1OB3C/?tag=tolees-21) a 16.92 EUR (original: 24.95 EUR) (32.18 %  de descuento) en el siguiente enlace!

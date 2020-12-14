@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01H4W9T1C/?tag=tolees-21'
 descuento: '45.69'
+average: '51.59'
 ---
 
 Tienes [Pepe Jeans FINSBURY  Jeans Hombre  Azul  DENIM   W36/L32  Talla del fabricante: 36 ](https://www.amazon.es/dp/B01H4W9T1C/?tag=tolees-21) con un 45.69 % de descuento con precio de oferta de 51.59 EUR (original: 95 EUR) en el siguiente enlace!

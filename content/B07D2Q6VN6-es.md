@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D2Q6VN6/?tag=tolees-21'
 descuento: '31.08'
+average: '32.46'
 ---
 
 Tienes [Reebok Speedlux 3.0  Zapatillas de Entrenamiento para Hombre  Azul  La-Vital Blue/Black/White 0   42 EU](https://www.amazon.es/dp/B07D2Q6VN6/?tag=tolees-21) con un 31.08 % de descuento con precio de oferta de 32.46 EUR (original: 47.1 EUR) en el siguiente enlace!

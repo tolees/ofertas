@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9ZX3N4/?tag=tolees-21'
 descuento: '72.60'
+average: '24.65'
 ---
 
 Ahora mismo tienes [Puma Suede Classic Street 2 Wn s  Zapatillas para Mujer  Negro Black Aged Silver 01  38 EU](https://www.amazon.es/dp/B07D9ZX3N4/?tag=tolees-21) a 24.65 EUR (original: 89.95 EUR) (72.60 %  de descuento) en el siguiente enlace!

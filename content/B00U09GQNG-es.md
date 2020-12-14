@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00U09GQNG/?tag=tolees-21'
 descuento: '52.09'
+average: '14.35'
 ---
 
 Tienes [Clinique Anti Blemish Solutions Crema BB Antimanchas SPF40  Tono 03 Medium - 30 ml](https://www.amazon.es/dp/B00U09GQNG/?tag=tolees-21) con un 52.09 % de descuento con precio de oferta de 14.35 EUR (original: 29.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DNO1G9I/?tag=tolees-21'
 descuento: '52.77'
+average: '23.61'
 ---
 
 Ahora mismo tienes [edc by ESPRIT 076CC1B004  Pantalones Mujer  Negro  BLACK   W36/L34  Talla del fabricante: 36/LG ](https://www.amazon.es/dp/B01DNO1G9I/?tag=tolees-21) a 23.61 EUR (original: 49.99 EUR) (52.77 %  de descuento) en el siguiente enlace!

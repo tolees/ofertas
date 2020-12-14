@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079BPYZN9/?tag=tolees-21'
 descuento: '65.81'
+average: '17.09'
 ---
 
 Está [JACK & JONES Jjiirick Jjicon Shorts CR 031 STS  Pantalones Cortos para Hombre  Azul Blue Denim  48  Talla del Fabricante: Small ](https://www.amazon.es/dp/B079BPYZN9/?tag=tolees-21) con 65.81 de descuento por 17.09 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079G1LNVT/?tag=tolees-21'
 descuento: '54.55'
+average: '13.59'
 ---
 
 Ahora mismo tienes [Samsung – Carcasa de silicona para Samsung Galaxy S9  color rosa](https://www.amazon.es/dp/B079G1LNVT/?tag=tolees-21) a 13.59 EUR (original: 29.9 EUR) (54.55 %  de descuento) en el siguiente enlace!

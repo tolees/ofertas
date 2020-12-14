@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D98YCFY/?tag=tolees-21'
 descuento: '77.68'
+average: '13.38'
 ---
 
 Tienes [XTI 48441  Botas Altas para Mujer  Marrón Camel  36 EU](https://www.amazon.es/dp/B07D98YCFY/?tag=tolees-21) con un 77.68 % de descuento con precio de oferta de 13.38 EUR (original: 59.95 EUR) en el siguiente enlace!

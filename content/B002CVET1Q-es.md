@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002CVET1Q/?tag=tolees-21'
 descuento: '50.78'
+average: '41.44'
 ---
 
 Tienes [Festina Reloj de Pulsera FP1002.07](https://www.amazon.es/dp/B002CVET1Q/?tag=tolees-21) con un 50.78 % de descuento con precio de oferta de 41.44 EUR (original: 84.2 EUR) en el siguiente enlace!

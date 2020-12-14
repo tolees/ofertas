@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00EY5G3B2/?tag=tolees-21'
 descuento: '38.73'
+average: '29.99'
 ---
 
 Está [Superexprimidor de cítricos Princess 201970 – Motor potente – Diseño de acero inoxidable](https://www.amazon.es/dp/B00EY5G3B2/?tag=tolees-21) con 38.73 de descuento por 29.99 EUR (original: 48.95 EUR) en el siguiente enlace!

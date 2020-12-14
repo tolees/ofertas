@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ4HL8C/?tag=tolees-21'
 descuento: '50.04'
+average: '29.95'
 ---
 
 Está [United Colors of Benetton Sweater L/s  suéter para Hombre   Beige 902   Large](https://www.amazon.es/dp/B07DJ4HL8C/?tag=tolees-21) con 50.04 de descuento por 29.95 EUR (original: 59.95 EUR) en el siguiente enlace!

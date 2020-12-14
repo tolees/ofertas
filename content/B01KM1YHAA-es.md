@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KM1YHAA/?tag=tolees-21'
 descuento: '80.34'
+average: '23.78'
 ---
 
 Ahora mismo tienes [Casa descubrimientos Cotoons con luz y sonido  Smoby 110400 ](https://www.amazon.es/dp/B01KM1YHAA/?tag=tolees-21) a 23.78 EUR (original: 120.94 EUR) (80.34 %  de descuento) en el siguiente enlace!

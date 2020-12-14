@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0184BUWHW/?tag=tolees-21'
 descuento: '39.30'
+average: '121.39'
 ---
 
 Está [Nixon Reloj Analógico para Unisex de Cuarzo con Correa en Acero Inoxidable A450-712-00](https://www.amazon.es/dp/B0184BUWHW/?tag=tolees-21) con 39.30 de descuento por 121.39 EUR (original: 200 EUR) en el siguiente enlace!

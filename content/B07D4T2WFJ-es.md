@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D4T2WFJ/?tag=tolees-21'
 descuento: '31.02'
+average: '20.17'
 ---
 
 Está [Kappa Final II  Zapatillas de Deporte Interior Unisex Niños  Negro  Black/Lime 1133   31 EU](https://www.amazon.es/dp/B07D4T2WFJ/?tag=tolees-21) con 31.02 de descuento por 20.17 EUR (original: 29.24 EUR) en el siguiente enlace!

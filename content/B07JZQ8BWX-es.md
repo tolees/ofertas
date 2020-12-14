@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JZQ8BWX/?tag=tolees-21'
 descuento: '33.25'
+average: '36.68'
 ---
 
 Tienes [adidas Predator 19.4 Fxg Zapatillas de Fútbol Hombre  Rojo  Active Red/Solar Red/Core Black Active Red/Solar Red/Core Black   42 EU](https://www.amazon.es/dp/B07JZQ8BWX/?tag=tolees-21) con un 33.25 % de descuento con precio de oferta de 36.68 EUR (original: 54.95 EUR) en el siguiente enlace!

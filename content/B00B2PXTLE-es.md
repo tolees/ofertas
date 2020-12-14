@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00B2PXTLE/?tag=tolees-21'
 descuento: '61.94'
+average: '13.74'
 ---
 
 Ahora mismo tienes [Pdx Toyz Pipedream Extreme Masturbador Nasty Nympho - 500 gr](https://www.amazon.es/dp/B00B2PXTLE/?tag=tolees-21) a 13.74 EUR (original: 36.1 EUR) (61.94 %  de descuento) en el siguiente enlace!

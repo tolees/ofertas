@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075Y9S8PL/?tag=tolees-21'
 descuento: '51.37'
+average: '34.02'
 ---
 
 Ahora mismo tienes [Skechers Go Vulc 2  Zapatillas para Hombre  Negro  Black   44 EU](https://www.amazon.es/dp/B075Y9S8PL/?tag=tolees-21) a 34.02 EUR (original: 69.95 EUR) (51.37 %  de descuento) en el siguiente enlace!

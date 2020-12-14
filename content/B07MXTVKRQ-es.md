@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MXTVKRQ/?tag=tolees-21'
 descuento: '38.27'
+average: '8.58'
 ---
 
 Está [Garnier BIO Bálsamo Reparador con Aceite de Argán y Manteca de Karité Ecológicos y Vitamina E - 2 de 50 ml  Total: 100 ml ](https://www.amazon.es/dp/B07MXTVKRQ/?tag=tolees-21) con 38.27 de descuento por 8.58 EUR (original: 13.9 EUR) en el siguiente enlace!

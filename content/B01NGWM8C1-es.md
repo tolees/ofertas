@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NGWM8C1/?tag=tolees-21'
 descuento: '33.09'
+average: '93.67'
 ---
 
 Está [Merrell Annex Trak Low  Zapatillas para Hombre  Azul Sodalite  44 EU](https://www.amazon.es/dp/B01NGWM8C1/?tag=tolees-21) con 33.09 de descuento por 93.67 EUR (original: 140 EUR) en el siguiente enlace!

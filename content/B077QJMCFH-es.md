@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077QJMCFH/?tag=tolees-21'
 descuento: '68.77'
+average: '31.21'
 ---
 
 Ahora mismo tienes [Adidas Superstar  Zapatillas de Deporte para Hombre  Blanco  Balcri/Veruni/Negbás 000   48 EU](https://www.amazon.es/dp/B077QJMCFH/?tag=tolees-21) a 31.21 EUR (original: 99.95 EUR) (68.77 %  de descuento) en el siguiente enlace!

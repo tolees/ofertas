@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GFZQ22I/?tag=tolees-21'
 descuento: '72.13'
+average: '8.08'
 ---
 
 Ahora mismo tienes [Ultrasport Fort Lauderdale Collection Polo para hombre Wadhurst  polo clásico para hombre con tres botones  ideal para el deporte y el ocio  Gris Mezcla  S](https://www.amazon.es/dp/B01GFZQ22I/?tag=tolees-21) a 8.08 EUR (original: 28.99 EUR) (72.13 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F142KNC/?tag=tolees-21'
 descuento: '52.46'
+average: '16.64'
 ---
 
 Ahora mismo tienes [VAUDE Tecowash II Accesorio  Unisex Adulto  Verde  quarz   Talla Única](https://www.amazon.es/dp/B07F142KNC/?tag=tolees-21) a 16.64 EUR (original: 35 EUR) (52.46 %  de descuento) en el siguiente enlace!

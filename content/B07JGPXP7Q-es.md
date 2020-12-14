@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JGPXP7Q/?tag=tolees-21'
 descuento: '50.42'
+average: '32.2'
 ---
 
 Ahora mismo tienes [Puma Axis Plus SD  Zapatillas de Deporte Unisex Adulto  Blanco Whisper White  43 EU](https://www.amazon.es/dp/B07JGPXP7Q/?tag=tolees-21) a 32.2 EUR (original: 64.95 EUR) (50.42 %  de descuento) en el siguiente enlace!

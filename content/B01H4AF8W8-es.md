@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01H4AF8W8/?tag=tolees-21'
 descuento: '60.13'
+average: '35.86'
 ---
 
 Tienes [Wrangler Bryson Fast & Royal  Jeans para Hombre  Azul  Fast & Royal   31W/34L](https://www.amazon.es/dp/B01H4AF8W8/?tag=tolees-21) con un 60.13 % de descuento con precio de oferta de 35.86 EUR (original: 89.95 EUR) en el siguiente enlace!

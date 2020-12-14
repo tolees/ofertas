@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06WRRQRPC/?tag=tolees-21'
 descuento: '58.00'
+average: '54.6'
 ---
 
 Tienes [Nike Air Zoom Cage 3 HC  Zapatillas para Hombre  Negro  Black/White/Anthracite 001   41 EU](https://www.amazon.es/dp/B06WRRQRPC/?tag=tolees-21) con un 58.00 % de descuento con precio de oferta de 54.6 EUR (original: 130 EUR) en el siguiente enlace!

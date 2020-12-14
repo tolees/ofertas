@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9YPPB5/?tag=tolees-21'
 descuento: '52.03'
+average: '67.13'
 ---
 
 Tienes [adidas Supernova M  Zapatillas de Running para Hombre  Azul  Legend Ink/Night Met./Shock Lime   40 2/3 EU](https://www.amazon.es/dp/B07D9YPPB5/?tag=tolees-21) con un 52.03 % de descuento con precio de oferta de 67.13 EUR (original: 139.95 EUR) en el siguiente enlace!

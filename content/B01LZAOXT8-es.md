@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LZAOXT8/?tag=tolees-21'
 descuento: '64.02'
+average: '36.29'
 ---
 
 Tienes [HS Rice Paper Vietnamese - Paquete de 40 x 500 gr - Total: 20000 gr](https://www.amazon.es/dp/B01LZAOXT8/?tag=tolees-21) con un 64.02 % de descuento con precio de oferta de 36.29 EUR (original: 100.87 EUR) en el siguiente enlace!

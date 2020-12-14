@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9MZMLP/?tag=tolees-21'
 descuento: '31.15'
+average: '30.95'
 ---
 
 Está [Adidas Duramo Lite 2.0  Zapatillas de Entrenamiento para Mujer  Blanco  Footwear White/Grey/Light Granite 0   38 2/3 EU](https://www.amazon.es/dp/B07D9MZMLP/?tag=tolees-21) con 31.15 de descuento por 30.95 EUR (original: 44.95 EUR) en el siguiente enlace!

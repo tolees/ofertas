@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077GVDLSP/?tag=tolees-21'
 descuento: '46.17'
+average: '29.6'
 ---
 
 Ahora mismo tienes [Under Armour Speed Stride Tight Leggings  Mujer  Negro Black/Reflective 001  M](https://www.amazon.es/dp/B077GVDLSP/?tag=tolees-21) a 29.6 EUR (original: 54.99 EUR) (46.17 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002NBN72C/?tag=tolees-21'
 descuento: '52.33'
+average: '6.25'
 ---
 
 Ahora mismo tienes [DIGITUS DN-95001 adaptador de cable RJ-45 CC Blanco - Adaptador para cable  RJ-45  CC  Blanco ](https://www.amazon.es/dp/B002NBN72C/?tag=tolees-21) a 6.25 EUR (original: 13.11 EUR) (52.33 %  de descuento) en el siguiente enlace!

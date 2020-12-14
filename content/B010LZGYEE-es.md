@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B010LZGYEE/?tag=tolees-21'
 descuento: '37.47'
+average: '90.65'
 ---
 
 Está [ViewSonic VA2465SH - Monitor 23 6" Full HD VA  1920 x 1080  250 nits  178°/178°  VGA/HDMI  94% sRGB  Blue Light Filter  Flicker Free  Modo Eco   Color Negro](https://www.amazon.es/dp/B010LZGYEE/?tag=tolees-21) con 37.47 de descuento por 90.65 EUR (original: 144.96 EUR) en el siguiente enlace!

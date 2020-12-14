@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00BTK823W/?tag=tolees-21'
 descuento: '48.67'
+average: '88.99'
 ---
 
 Está [Plantronics 88861-02 - Auriculares de diadema abiertos  con micrófono  USB ](https://www.amazon.es/dp/B00BTK823W/?tag=tolees-21) con 48.67 de descuento por 88.99 EUR (original: 173.36 EUR) en el siguiente enlace!

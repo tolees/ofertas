@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FKD5V19/?tag=tolees-21'
 descuento: '34.85'
+average: '38.36'
 ---
 
 Está [Reebok 3D Fusion TR  Zapatillas de Deporte para Hombre   Collegiate Navy/White/Vital Blue 000   38.5 EU](https://www.amazon.es/dp/B07FKD5V19/?tag=tolees-21) con 34.85 de descuento por 38.36 EUR (original: 58.88 EUR) en el siguiente enlace!

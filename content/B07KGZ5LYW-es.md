@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGZ5LYW/?tag=tolees-21'
 descuento: '60.89'
+average: '50.84'
 ---
 
 Tienes [Burton Portal Chaquetas  Hombre  True Black Blue Sapphire Ripstop  L](https://www.amazon.es/dp/B07KGZ5LYW/?tag=tolees-21) con un 60.89 % de descuento con precio de oferta de 50.84 EUR (original: 130 EUR) en el siguiente enlace!

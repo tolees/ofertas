@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KQ2JLHL/?tag=tolees-21'
 descuento: '55.30'
+average: '21.45'
 ---
 
 Tienes [DC Apparel Right Way 18" Walk Shorts  Hombre  Brilliant Blue  M](https://www.amazon.es/dp/B07KQ2JLHL/?tag=tolees-21) con un 55.30 % de descuento con precio de oferta de 21.45 EUR (original: 47.99 EUR) en el siguiente enlace!

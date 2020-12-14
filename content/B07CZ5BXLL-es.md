@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ5BXLL/?tag=tolees-21'
 descuento: '43.81'
+average: '44.95'
 ---
 
 Tienes [Puma Amp XT Fitnessschuh  Zapatillas de Deporte para Mujer  Blanco White-Peacoat 02  38 EU](https://www.amazon.es/dp/B07CZ5BXLL/?tag=tolees-21) con un 43.81 % de descuento con precio de oferta de 44.95 EUR (original: 79.99 EUR) en el siguiente enlace!

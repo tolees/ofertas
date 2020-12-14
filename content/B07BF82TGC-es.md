@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BF82TGC/?tag=tolees-21'
 descuento: '55.21'
+average: '20.49'
 ---
 
 Ahora mismo tienes [Auricular Bluetooth  Auricular Manos Libres Bluetooth Oreja del Auricular inalámbrico para el Camionero del Negocio  Bluetooth 4.1 Compatible para el teléfono móvil androide del iPhone](https://www.amazon.es/dp/B07BF82TGC/?tag=tolees-21) a 20.49 EUR (original: 45.75 EUR) (55.21 %  de descuento) en el siguiente enlace!

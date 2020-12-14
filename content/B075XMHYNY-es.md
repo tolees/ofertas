@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075XMHYNY/?tag=tolees-21'
 descuento: '48.56'
+average: '17.99'
 ---
 
 Tienes [Uten Cortador Patata Espiral Twister Cortadora de Papas Giratorias de Acero Inoxidable con Manivela y Pies de Goma Antideslizantes](https://www.amazon.es/dp/B075XMHYNY/?tag=tolees-21) con un 48.56 % de descuento con precio de oferta de 17.99 EUR (original: 34.97 EUR) en el siguiente enlace!

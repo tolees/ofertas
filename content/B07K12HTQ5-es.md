@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K12HTQ5/?tag=tolees-21'
 descuento: '47.39'
+average: '34.17'
 ---
 
 Tienes [adidas X_PLR J  Zapatillas de Gimnasia Unisex Niños  Rojo Collegiate Burgundy/Shock Red/FTWR White  36 EU](https://www.amazon.es/dp/B07K12HTQ5/?tag=tolees-21) con un 47.39 % de descuento con precio de oferta de 34.17 EUR (original: 64.95 EUR) en el siguiente enlace!

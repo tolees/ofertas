@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DWPK16L/?tag=tolees-21'
 descuento: '30.01'
+average: '20.99'
 ---
 
 Ahora mismo tienes [LOHOTEK Bolsas al Vacio  Rollos para Envasadora Sellador de Vacío 6 Rollos 20 x 500cm Bolsas Profesional para la Conservación de Alimentos Protector la Comida para Cocina](https://www.amazon.es/dp/B07DWPK16L/?tag=tolees-21) a 20.99 EUR (original: 29.99 EUR) (30.01 %  de descuento) en el siguiente enlace!

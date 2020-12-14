@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KCHDFF2/?tag=tolees-21'
 descuento: '58.56'
+average: '11.81'
 ---
 
 Tienes [David Jones - 5940-1a  Shoppers y bolsos de hombro Mujer  Verde  A.Green   12x33x31 cm  W x H L ](https://www.amazon.es/dp/B07KCHDFF2/?tag=tolees-21) con un 58.56 % de descuento con precio de oferta de 11.81 EUR (original: 28.5 EUR) en el siguiente enlace!

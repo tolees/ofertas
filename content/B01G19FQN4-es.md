@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01G19FQN4/?tag=tolees-21'
 descuento: '76.98'
+average: '7.98'
 ---
 
 Tienes [Cooko Olécranon Aerador de Vino  Vino Pourer  Aireador rápido  Premium Wine Pourer  Fácil de Cargar](https://www.amazon.es/dp/B01G19FQN4/?tag=tolees-21) con un 76.98 % de descuento con precio de oferta de 7.98 EUR (original: 34.67 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0765BDPJ6/?tag=tolees-21'
 descuento: '45.30'
+average: '8.2'
 ---
 
 Tienes [Libid Toys Anillo Vibrador con Forma de Conejillo - 40 gr](https://www.amazon.es/dp/B0765BDPJ6/?tag=tolees-21) con un 45.30 % de descuento con precio de oferta de 8.2 EUR (original: 14.99 EUR) en el siguiente enlace!

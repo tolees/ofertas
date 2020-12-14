@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZG3K1X/?tag=tolees-21'
 descuento: '45.52'
+average: '15.25'
 ---
 
 Ahora mismo tienes [Under Armour Armour Mid Keyhole Bra Sujetador Deportivo  Mujer  Azul Coded Blue/High-Vis Yellow 451  L](https://www.amazon.es/dp/B07CZG3K1X/?tag=tolees-21) a 15.25 EUR (original: 27.99 EUR) (45.52 %  de descuento) en el siguiente enlace!

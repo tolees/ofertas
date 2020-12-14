@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CM4D69D/?tag=tolees-21'
 descuento: '28.57'
+average: '99.99'
 ---
 
 Ahora mismo tienes [Aingoo Cama de Metal con somier de láminas con Marco  Blanco  140_x_190_cm ](https://www.amazon.es/dp/B07CM4D69D/?tag=tolees-21) a 99.99 EUR (original: 139.99 EUR) (28.57 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06WGS2P1Q/?tag=tolees-21'
 descuento: '27.32'
+average: '14.9'
 ---
 
 Tienes [Stardew Valley CollectorŽs Edition](https://www.amazon.es/dp/B06WGS2P1Q/?tag=tolees-21) con un 27.32 % de descuento con precio de oferta de 14.9 EUR (original: 20.5 EUR) en el siguiente enlace!

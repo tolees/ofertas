@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NBTOS02/?tag=tolees-21'
 descuento: '55.41'
+average: '24.5'
 ---
 
 Tienes [Puma Suede 2 Straps PS  Zapatillas Unisex Niños  Rojo  High Risk Red White   33 EU](https://www.amazon.es/dp/B01NBTOS02/?tag=tolees-21) con un 55.41 % de descuento con precio de oferta de 24.5 EUR (original: 54.95 EUR) en el siguiente enlace!

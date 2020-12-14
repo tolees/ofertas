@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9R7W9F/?tag=tolees-21'
 descuento: '39.78'
+average: '41.1'
 ---
 
 Ahora mismo tienes [bugatti 3.12648E+11  Mocasines para Hombre  Marrón  Cognac 6300   46 EU](https://www.amazon.es/dp/B07D9R7W9F/?tag=tolees-21) a 41.1 EUR (original: 68.25 EUR) (39.78 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DPHLGRD/?tag=tolees-21'
 descuento: '34.71'
+average: '19.58'
 ---
 
 Está [AMASAVA Bolsa de maquillaje cosmético para maquillaje Bolsa de almacenamiento con divisiones extraíbles 26.5 * 11.5 * 23.5 cm  Rojo](https://www.amazon.es/dp/B07DPHLGRD/?tag=tolees-21) con 34.71 de descuento por 19.58 EUR (original: 29.99 EUR) en el siguiente enlace!

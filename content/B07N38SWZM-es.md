@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N38SWZM/?tag=tolees-21'
 descuento: '50.02'
+average: '49.98'
 ---
 
 Tienes [THE NORTH FACE W Litewave Fastpack II GTX  Zapatillas de Senderismo para Mujer  Marrón  Peacoat Navy/Fiery Coral C7R   40 EU](https://www.amazon.es/dp/B07N38SWZM/?tag=tolees-21) con un 50.02 % de descuento con precio de oferta de 49.98 EUR (original: 100 EUR) en el siguiente enlace!

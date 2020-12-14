@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MD2DHF7/?tag=tolees-21'
 descuento: '30.56'
+average: '75'
 ---
 
 Está [Saucony Shadow 5000 Vintage  Zapatillas Unisex Adulto  Verde  Grey/Green 13   44.5 EU](https://www.amazon.es/dp/B07MD2DHF7/?tag=tolees-21) con 30.56 de descuento por 75 EUR (original: 108 EUR) en el siguiente enlace!

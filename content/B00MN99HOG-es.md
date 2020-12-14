@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00MN99HOG/?tag=tolees-21'
 descuento: '45.23'
+average: '6.89'
 ---
 
 Tienes [Max Factor 53047 Skin Luminizer Base de Maquillaje - 30 ml](https://www.amazon.es/dp/B00MN99HOG/?tag=tolees-21) con un 45.23 % de descuento con precio de oferta de 6.89 EUR (original: 12.58 EUR) en el siguiente enlace!

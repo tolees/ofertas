@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N34U6FW/?tag=tolees-21'
 descuento: '68.58'
+average: '10.98'
 ---
 
 Ahora mismo tienes [Puma Cross The Line Pants  Hombre  Azul  Team Power Blue   2XL](https://www.amazon.es/dp/B01N34U6FW/?tag=tolees-21) a 10.98 EUR (original: 34.95 EUR) (68.58 %  de descuento) en el siguiente enlace!

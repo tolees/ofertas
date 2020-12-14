@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MQKDDT3/?tag=tolees-21'
 descuento: '57.52'
+average: '6.95'
 ---
 
 Está [Animales Fantásticos Y Dónde Encontrarlos [DVD]](https://www.amazon.es/dp/B01MQKDDT3/?tag=tolees-21) con 57.52 de descuento por 6.95 EUR (original: 16.36 EUR) en el siguiente enlace!

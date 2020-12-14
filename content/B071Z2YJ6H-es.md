@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071Z2YJ6H/?tag=tolees-21'
 descuento: '41.60'
+average: '57.82'
 ---
 
 Está [Lotus Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 18487/4](https://www.amazon.es/dp/B071Z2YJ6H/?tag=tolees-21) con 41.60 de descuento por 57.82 EUR (original: 99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073RP7VJV/?tag=tolees-21'
 descuento: '35.07'
+average: '29.22'
 ---
 
 Ahora mismo tienes [Helly Hansen TRANSAT Polo  Hombre  Azul  Navy 597   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B073RP7VJV/?tag=tolees-21) a 29.22 EUR (original: 45 EUR) (35.07 %  de descuento) en el siguiente enlace!

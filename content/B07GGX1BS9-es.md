@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GGX1BS9/?tag=tolees-21'
 descuento: '48.58'
+average: '35.99'
 ---
 
 Ahora mismo tienes [GBlife 1:18 RC Coche 4WD Teledirigido Remote Control Alta Velocidad 2.4GHz 12km/h Buggy de Carreras Escala Racing Monster Truck Distancia Operación Unos 50M Recargable para Niños Más de 14 años  Oro ](https://www.amazon.es/dp/B07GGX1BS9/?tag=tolees-21) a 35.99 EUR (original: 69.99 EUR) (48.58 %  de descuento) en el siguiente enlace!

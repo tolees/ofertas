@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077NBX3TH/?tag=tolees-21'
 descuento: '50.18'
+average: '12.45'
 ---
 
 Ahora mismo tienes [SELECTED HOMME Slhnewseason SS Polo W Noos  Hombre  Blanco Bright White  Large](https://www.amazon.es/dp/B077NBX3TH/?tag=tolees-21) a 12.45 EUR (original: 24.99 EUR) (50.18 %  de descuento) en el siguiente enlace!

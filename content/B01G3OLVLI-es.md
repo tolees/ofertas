@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01G3OLVLI/?tag=tolees-21'
 descuento: '29.01'
+average: '33.25'
 ---
 
 Está [Kit de herramientas Apollo - 73 piezas para reparación y mantenimiento para ordenadores  Tablets  teléfono móvil y piezas electrónicas](https://www.amazon.es/dp/B01G3OLVLI/?tag=tolees-21) con 29.01 de descuento por 33.25 EUR (original: 46.84 EUR) en el siguiente enlace!

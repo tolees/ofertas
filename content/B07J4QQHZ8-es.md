@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J4QQHZ8/?tag=tolees-21'
 descuento: '32.76'
+average: '23.5'
 ---
 
 Está [Pop! Stranger Things - Figura de Vinilo Movie Moment Steve & Demodog](https://www.amazon.es/dp/B07J4QQHZ8/?tag=tolees-21) con 32.76 de descuento por 23.5 EUR (original: 34.95 EUR) en el siguiente enlace!

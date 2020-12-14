@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D8DLLWV/?tag=tolees-21'
 descuento: '45.61'
+average: '56.57'
 ---
 
 Tienes [Munich Nou  Zapatillas Unisex Adulto  Gris  Gris/Negro 56   44 EU](https://www.amazon.es/dp/B07D8DLLWV/?tag=tolees-21) con un 45.61 % de descuento con precio de oferta de 56.57 EUR (original: 104 EUR) en el siguiente enlace!

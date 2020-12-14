@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GFZ1N19/?tag=tolees-21'
 descuento: '58.50'
+average: '8.3'
 ---
 
 Tienes [Safta- Portatodo Doble Real Madrid  Color Azul  21 cm  811834513 ](https://www.amazon.es/dp/B07GFZ1N19/?tag=tolees-21) con un 58.50 % de descuento con precio de oferta de 8.3 EUR (original: 20 EUR) en el siguiente enlace!

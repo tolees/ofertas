@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CRNG5DP/?tag=tolees-21'
 descuento: '61.96'
+average: '9.11'
 ---
 
 Tienes [Selene Fabiola Sujetador con Aros  Mujer  Negro  Negro   115  Tamaño del Fabricante:C.115 ](https://www.amazon.es/dp/B07CRNG5DP/?tag=tolees-21) con un 61.96 % de descuento con precio de oferta de 9.11 EUR (original: 23.95 EUR) en el siguiente enlace!

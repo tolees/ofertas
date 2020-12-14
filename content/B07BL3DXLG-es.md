@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BL3DXLG/?tag=tolees-21'
 descuento: '70.66'
+average: '27.87'
 ---
 
 Está [New Balance 247v2  Zapatillas para Mujer  Negro  Black/Magnet TRD   36.5 EU](https://www.amazon.es/dp/B07BL3DXLG/?tag=tolees-21) con 70.66 de descuento por 27.87 EUR (original: 95 EUR) en el siguiente enlace!

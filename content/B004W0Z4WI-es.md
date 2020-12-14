@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004W0Z4WI/?tag=tolees-21'
 descuento: '40.33'
+average: '14.62'
 ---
 
 Ahora mismo tienes [Cailler  Galleta fresca de oblea  con almendras 8% y miel 6%  - 10 de 100 gr.  Total 1000 gr. ](https://www.amazon.es/dp/B004W0Z4WI/?tag=tolees-21) a 14.62 EUR (original: 24.5 EUR) (40.33 %  de descuento) en el siguiente enlace!

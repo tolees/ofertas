@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KCM35N1/?tag=tolees-21'
 descuento: '36.78'
+average: '16.12'
 ---
 
 Está [David Jones - Cm5034  Bolsos totes Mujer  Azul  gris   14x27x30 cm  W x H L ](https://www.amazon.es/dp/B07KCM35N1/?tag=tolees-21) con 36.78 de descuento por 16.12 EUR (original: 25.5 EUR) en el siguiente enlace!

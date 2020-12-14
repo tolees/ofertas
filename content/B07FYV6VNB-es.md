@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FYV6VNB/?tag=tolees-21'
 descuento: '62.46'
+average: '7.47'
 ---
 
 Está [Superalimento NaturGreen Experience Energy - 200 gr](https://www.amazon.es/dp/B07FYV6VNB/?tag=tolees-21) con 62.46 de descuento por 7.47 EUR (original: 19.9 EUR) en el siguiente enlace!

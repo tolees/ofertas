@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0785FHZPR/?tag=tolees-21'
 descuento: '50.67'
+average: '27.13'
 ---
 
 Ahora mismo tienes [Under Armour CG WM Leggin  Mujer  Black/Green Typhoon/Metallic Silver  M](https://www.amazon.es/dp/B0785FHZPR/?tag=tolees-21) a 27.13 EUR (original: 55 EUR) (50.67 %  de descuento) en el siguiente enlace!

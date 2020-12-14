@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077N5PPT6/?tag=tolees-21'
 descuento: '76.21'
+average: '6.9'
 ---
 
 Está [POLO NOX NILY BLANCO](https://www.amazon.es/dp/B077N5PPT6/?tag=tolees-21) con 76.21 de descuento por 6.9 EUR (original: 29 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BN53LSF/?tag=tolees-21'
 descuento: '50.00'
+average: '35'
 ---
 
 Tienes [Vans Atwood Synthetic Leather  Zapatillas para Hombre  Negro   Classic Tumble  Black/White U0m   38.5 EU](https://www.amazon.es/dp/B07BN53LSF/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 35 EUR (original: 70 EUR) en el siguiente enlace!

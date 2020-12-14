@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QFTQ44R/?tag=tolees-21'
 descuento: '55.29'
+average: '19.69'
 ---
 
 Tienes [Kit de Binoculares para Niños Kit de Exploración 15 en 1 Kit Explorador Naturaleza， Prismáticos  Linterna LED de Mano  Mochilla de Colección  Brújula  Lupa  Silbato Juego de Explorador para Niños](https://www.amazon.es/dp/B07QFTQ44R/?tag=tolees-21) con un 55.29 % de descuento con precio de oferta de 19.69 EUR (original: 44.04 EUR) en el siguiente enlace!

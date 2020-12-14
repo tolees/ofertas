@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QMC6BXC/?tag=tolees-21'
 descuento: '37.74'
+average: '66.08'
 ---
 
 Está [Cámara de Coche Dash CAM 4 Pulgadas Camara Delantera y Trasera 1080P Full HD 170° Cámara para Lente G  grabación de Ciclo  WDR  monitoreo de estacionamiento  Movimiento de detección](https://www.amazon.es/dp/B07QMC6BXC/?tag=tolees-21) con 37.74 de descuento por 66.08 EUR (original: 106.13 EUR) en el siguiente enlace!

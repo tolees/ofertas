@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFWB6F7/?tag=tolees-21'
 descuento: '67.17'
+average: '26.26'
 ---
 
 Ahora mismo tienes [New Balance WX715V3  Zapatillas Deportivas para Interior para Mujer  Negro Black  37.5 EU](https://www.amazon.es/dp/B07DFWB6F7/?tag=tolees-21) a 26.26 EUR (original: 80 EUR) (67.17 %  de descuento) en el siguiente enlace!

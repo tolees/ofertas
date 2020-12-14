@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KQX4W6K/?tag=tolees-21'
 descuento: '37.58'
+average: '14.95'
 ---
 
 Ahora mismo tienes [Balón Oficial FC Barcelona Dorado Firmas](https://www.amazon.es/dp/B07KQX4W6K/?tag=tolees-21) a 14.95 EUR (original: 23.95 EUR) (37.58 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N7QUWPL/?tag=tolees-21'
 descuento: '30.00'
+average: '42'
 ---
 
 Ahora mismo tienes [FIND Mocasines Clásicos de Piel para Hombre  Marrón  Brown   44 EU](https://www.amazon.es/dp/B01N7QUWPL/?tag=tolees-21) a 42 EUR (original: 60 EUR) (30.00 %  de descuento) en el siguiente enlace!

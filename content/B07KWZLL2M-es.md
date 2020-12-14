@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KWZLL2M/?tag=tolees-21'
 descuento: '79.54'
+average: '11.89'
 ---
 
 Tienes [TOPsic Garmin Fenix 5 Banda  Silicona Reemplazo Correa con 2pzs Destornilladores para Garmin Fenix 5 / Forunner 935 / Fenix 5 Plus Smart Watch  13.5cm-22.5cm  no Adapta a Fenix 5X  5s  2B ](https://www.amazon.es/dp/B07KWZLL2M/?tag=tolees-21) con un 79.54 % de descuento con precio de oferta de 11.89 EUR (original: 58.11 EUR) en el siguiente enlace!

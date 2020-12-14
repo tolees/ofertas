@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073XFC1VT/?tag=tolees-21'
 descuento: '68.16'
+average: '25.15'
 ---
 
 Ahora mismo tienes [CHRONOSTAR Reloj Multiesfera para Hombre de Cuarzo con Correa en Acero Inoxidable R3753271003](https://www.amazon.es/dp/B073XFC1VT/?tag=tolees-21) a 25.15 EUR (original: 79 EUR) (68.16 %  de descuento) en el siguiente enlace!

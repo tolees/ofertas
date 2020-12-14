@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B019RKY9HI/?tag=tolees-21'
 descuento: '76.01'
+average: '23.99'
 ---
 
 Está [LOBKIN Auriculares de Diadema Bluetooth Inalámbrico con Micrófono y manos libres integrado. Plegables  y compatibles con todos los dispositivos bluetooth](https://www.amazon.es/dp/B019RKY9HI/?tag=tolees-21) con 76.01 de descuento por 23.99 EUR (original: 99.99 EUR) en el siguiente enlace!

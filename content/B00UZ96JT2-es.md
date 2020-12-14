@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00UZ96JT2/?tag=tolees-21'
 descuento: '54.60'
+average: '24.95'
 ---
 
 Ahora mismo tienes [TECEVO S220 Wireless Bluetooth Speaker Compact Portable Mutimedia Wireless Speaker Mini Sound Bar HiFi Powerful Crystal Sound With Balacne Audio Deep Bass Surround Sound AUX Connection For Outdoor Sports Play   Wireless Music Streaming  [Importado de Reino Unido]](https://www.amazon.es/dp/B00UZ96JT2/?tag=tolees-21) a 24.95 EUR (original: 54.95 EUR) (54.60 %  de descuento) en el siguiente enlace!

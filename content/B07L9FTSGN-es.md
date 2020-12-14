@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L9FTSGN/?tag=tolees-21'
 descuento: '46.61'
+average: '31.5'
 ---
 
 Está [Napapijri Elbas 2 Polo  Verde  New Olive Green Gd6   X-Large para Hombre](https://www.amazon.es/dp/B07L9FTSGN/?tag=tolees-21) con 46.61 de descuento por 31.5 EUR (original: 59 EUR) en el siguiente enlace!

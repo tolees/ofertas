@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BCNVGTH/?tag=tolees-21'
 descuento: '65.93'
+average: '34.05'
 ---
 
 Está [Clarks Enfield Coco  Botas Estilo Motero para Mujer  Negro  Black   37.5 EU](https://www.amazon.es/dp/B07BCNVGTH/?tag=tolees-21) con 65.93 de descuento por 34.05 EUR (original: 99.95 EUR) en el siguiente enlace!

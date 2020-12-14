@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J4MF6S9/?tag=tolees-21'
 descuento: '50.02'
+average: '10.99'
 ---
 
 Ahora mismo tienes [OROPY Juego de pajitas de Acero Inoxidable de 8 con 2 cepillos de Limpieza  Paja respetuosa del Medio Ambiente Segura de la categoría alimenticia 26.6cm](https://www.amazon.es/dp/B07J4MF6S9/?tag=tolees-21) a 10.99 EUR (original: 21.99 EUR) (50.02 %  de descuento) en el siguiente enlace!

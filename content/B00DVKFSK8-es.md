@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00DVKFSK8/?tag=tolees-21'
 descuento: '28.31'
+average: '68.75'
 ---
 
 Ahora mismo tienes [Gre CIPROV821 - Cobertor de Invierno para Piscina Ovalada o en Forma de Ocho de 800 x 470 cm  Color Negro](https://www.amazon.es/dp/B00DVKFSK8/?tag=tolees-21) a 68.75 EUR (original: 95.9 EUR) (28.31 %  de descuento) en el siguiente enlace!

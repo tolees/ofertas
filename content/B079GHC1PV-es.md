@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079GHC1PV/?tag=tolees-21'
 descuento: '47.35'
+average: '78.97'
 ---
 
 Ahora mismo tienes [Helly Hansen Garibaldi V3  Botas de Nieve para Hombre  Marrón  Tobacco Brown/Espresso/766   44 EU](https://www.amazon.es/dp/B079GHC1PV/?tag=tolees-21) a 78.97 EUR (original: 150 EUR) (47.35 %  de descuento) en el siguiente enlace!

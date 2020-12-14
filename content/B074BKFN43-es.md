@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074BKFN43/?tag=tolees-21'
 descuento: '29.43'
+average: '11.99'
 ---
 
 Tienes [X-Men Apocalipsis Digibook Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B074BKFN43/?tag=tolees-21) con un 29.43 % de descuento con precio de oferta de 11.99 EUR (original: 16.99 EUR) en el siguiente enlace!

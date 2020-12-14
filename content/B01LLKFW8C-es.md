@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LLKFW8C/?tag=tolees-21'
 descuento: '62.18'
+average: '18.15'
 ---
 
 Tienes [OSRAM 64210NBL-HCB Night Breaker Laser H7 Lámpara para Faros Halógena  Automóvil de 12 V  Caja Doble](https://www.amazon.es/dp/B01LLKFW8C/?tag=tolees-21) con un 62.18 % de descuento con precio de oferta de 18.15 EUR (original: 47.99 EUR) en el siguiente enlace!

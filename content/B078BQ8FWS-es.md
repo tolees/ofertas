@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078BQ8FWS/?tag=tolees-21'
 descuento: '57.33'
+average: '46.95'
 ---
 
 Ahora mismo tienes [Hugo Boss Bottled Set de Regalo - 3 Unidades](https://www.amazon.es/dp/B078BQ8FWS/?tag=tolees-21) a 46.95 EUR (original: 110.03 EUR) (57.33 %  de descuento) en el siguiente enlace!

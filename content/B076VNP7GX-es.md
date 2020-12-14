@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076VNP7GX/?tag=tolees-21'
 descuento: '47.72'
+average: '44.44'
 ---
 
 Ahora mismo tienes [Under Armour Charged Escape 2  Zapatillas de Running para Hombre  Negro  Black 3020333/002   45 EU](https://www.amazon.es/dp/B076VNP7GX/?tag=tolees-21) a 44.44 EUR (original: 85 EUR) (47.72 %  de descuento) en el siguiente enlace!

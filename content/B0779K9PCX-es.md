@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0779K9PCX/?tag=tolees-21'
 descuento: '40.87'
+average: '35.45'
 ---
 
 Ahora mismo tienes [Pepe Jeans Cash Short PM800074  Bañador para Hombre  Azul  Lt Used Mb4  36 W](https://www.amazon.es/dp/B0779K9PCX/?tag=tolees-21) a 35.45 EUR (original: 59.95 EUR) (40.87 %  de descuento) en el siguiente enlace!

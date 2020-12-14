@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N2X4MC3/?tag=tolees-21'
 descuento: '60.00'
+average: '11.58'
 ---
 
 Está [Miami Beach Swimwear Julia Tankini  Negro  Black   46](https://www.amazon.es/dp/B01N2X4MC3/?tag=tolees-21) con 60.00 de descuento por 11.58 EUR (original: 28.95 EUR) en el siguiente enlace!

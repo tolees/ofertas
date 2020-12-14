@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07193YWWT/?tag=tolees-21'
 descuento: '75.46'
+average: '19.62'
 ---
 
 Ahora mismo tienes [Dockers by Gerli 39si308-302720  Botas Desert para Mujer  Rojo  Dunkelrot   38 EU](https://www.amazon.es/dp/B07193YWWT/?tag=tolees-21) a 19.62 EUR (original: 79.95 EUR) (75.46 %  de descuento) en el siguiente enlace!

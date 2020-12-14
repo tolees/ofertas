@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01JN37PW0/?tag=tolees-21'
 descuento: '41.78'
+average: '155.25'
 ---
 
 Ahora mismo tienes [Vertagear Silla para Juegos S-Line 4000  White/Green  Medium](https://www.amazon.es/dp/B01JN37PW0/?tag=tolees-21) a 155.25 EUR (original: 266.64 EUR) (41.78 %  de descuento) en el siguiente enlace!

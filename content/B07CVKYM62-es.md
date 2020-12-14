@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CVKYM62/?tag=tolees-21'
 descuento: '56.54'
+average: '28.23'
 ---
 
 Tienes [Skechers Ultra Flex-Capsule  Zapatillas para Mujer  Azul  Navy Nvy   41 EU](https://www.amazon.es/dp/B07CVKYM62/?tag=tolees-21) con un 56.54 % de descuento con precio de oferta de 28.23 EUR (original: 64.95 EUR) en el siguiente enlace!

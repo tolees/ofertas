@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MYV9XIC/?tag=tolees-21'
 descuento: '37.75'
+average: '23'
 ---
 
 Está [Lower East Le222 Pantalones  Beige  W32/L32](https://www.amazon.es/dp/B01MYV9XIC/?tag=tolees-21) con 37.75 de descuento por 23 EUR (original: 36.95 EUR) en el siguiente enlace!

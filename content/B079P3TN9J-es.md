@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079P3TN9J/?tag=tolees-21'
 descuento: '56.84'
+average: '7.98'
 ---
 
 Está [S&R Rasqueta Vitroceramica limpia Cristales. Raspador Multiusos. Rascador 147 mm con 5 cuchillas de repuesto](https://www.amazon.es/dp/B079P3TN9J/?tag=tolees-21) con 56.84 de descuento por 7.98 EUR (original: 18.49 EUR) en el siguiente enlace!

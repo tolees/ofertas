@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BVSHLFL/?tag=tolees-21'
 descuento: '63.34'
+average: '32.99'
 ---
 
 Está [Mymahdi Sport Music Clip Reproductor de MP3 Bluetooth de 24GB con Radio](https://www.amazon.es/dp/B07BVSHLFL/?tag=tolees-21) con 63.34 de descuento por 32.99 EUR (original: 89.99 EUR) en el siguiente enlace!

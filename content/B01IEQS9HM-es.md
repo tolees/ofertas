@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IEQS9HM/?tag=tolees-21'
 descuento: '83.24'
+average: '14.92'
 ---
 
 Está [AsfvltArea Lo - Zapatillas Unisex Adulto  Negro  Noir  Black White    38](https://www.amazon.es/dp/B01IEQS9HM/?tag=tolees-21) con 83.24 de descuento por 14.92 EUR (original: 89 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GWLHLMK/?tag=tolees-21'
 descuento: '26.70'
+average: '21.99'
 ---
 
 Está [Nike Brsla Duff Bolsa  Unisex Adulto  Blanco  S](https://www.amazon.es/dp/B01GWLHLMK/?tag=tolees-21) con 26.70 de descuento por 21.99 EUR (original: 30 EUR) en el siguiente enlace!

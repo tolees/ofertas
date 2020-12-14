@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01EIF0XPO/?tag=tolees-21'
 descuento: '88.12'
+average: '10.57'
 ---
 
 Está [ALDO Kerari  Bailarinas para Mujer  Negro  Black Leather/97   39 EU](https://www.amazon.es/dp/B01EIF0XPO/?tag=tolees-21) con 88.12 de descuento por 10.57 EUR (original: 89 EUR) en el siguiente enlace!

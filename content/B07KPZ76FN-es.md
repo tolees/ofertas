@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KPZ76FN/?tag=tolees-21'
 descuento: '49.51'
+average: '32.82'
 ---
 
 Ahora mismo tienes [Asics Patriot 10 SP  Zapatillas de Running para Mujer  Beige  Cream/Papaya 101   40 EU](https://www.amazon.es/dp/B07KPZ76FN/?tag=tolees-21) a 32.82 EUR (original: 65 EUR) (49.51 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071NWY2YJ/?tag=tolees-21'
 descuento: '53.10'
+average: '56.28'
 ---
 
 Está [Asics Gt-1000 6  Zapatillas de Gimnasia Mujer  Rosa  Cosmo Pink / White / Prune   37 EU](https://www.amazon.es/dp/B071NWY2YJ/?tag=tolees-21) con 53.10 de descuento por 56.28 EUR (original: 120 EUR) en el siguiente enlace!

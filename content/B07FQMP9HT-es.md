@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQMP9HT/?tag=tolees-21'
 descuento: '69.38'
+average: '24.48'
 ---
 
 Está [Clarks Landry Step  Mocasines para Hombre  Negro  Black Suede-   42 EU](https://www.amazon.es/dp/B07FQMP9HT/?tag=tolees-21) con 69.38 de descuento por 24.48 EUR (original: 79.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGXMQXG/?tag=tolees-21'
 descuento: '60.44'
+average: '63.29'
 ---
 
 Está [Burton Nightcrawler Chaquetas  Hombre  True Black  M](https://www.amazon.es/dp/B07KGXMQXG/?tag=tolees-21) con 60.44 de descuento por 63.29 EUR (original: 160 EUR) en el siguiente enlace!

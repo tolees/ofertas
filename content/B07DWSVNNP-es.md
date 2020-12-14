@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DWSVNNP/?tag=tolees-21'
 descuento: '66.10'
+average: '22.02'
 ---
 
 Está [Reebok Classic Leather  Zapatillas Unisex Niños  Negro  Black/Dreamy Blue/Tin Grey/White 0   35 EU](https://www.amazon.es/dp/B07DWSVNNP/?tag=tolees-21) con 66.10 de descuento por 22.02 EUR (original: 64.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06W9HPC89/?tag=tolees-21'
 descuento: '65.43'
+average: '76.66'
 ---
 
 Ahora mismo tienes [RFIVER Soporte Giratorio de Suelo para TV 32 A 65 Pulgadas con Estante TF2002](https://www.amazon.es/dp/B06W9HPC89/?tag=tolees-21) a 76.66 EUR (original: 221.73 EUR) (65.43 %  de descuento) en el siguiente enlace!

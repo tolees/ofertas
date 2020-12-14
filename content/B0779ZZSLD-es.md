@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0779ZZSLD/?tag=tolees-21'
 descuento: '56.61'
+average: '41.22'
 ---
 
 Ahora mismo tienes [Pepe Jeans James Shield PM210987 Pantalones  Gris  Grout 832   32W / 32L para Hombre](https://www.amazon.es/dp/B0779ZZSLD/?tag=tolees-21) a 41.22 EUR (original: 95 EUR) (56.61 %  de descuento) en el siguiente enlace!

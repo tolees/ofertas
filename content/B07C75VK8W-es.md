@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C75VK8W/?tag=tolees-21'
 descuento: '33.91'
+average: '12.55'
 ---
 
 Tienes [Funda Huawei P20  Carcasa Huawei P20 Lite Espejo Funda Mirror Flip Case Ultra Delgada Leather PC Hard Anti-Scratch Protector Cover Caso Cáscara Case para Huawei P20 Pro  Negro  Huawei P20 Pro ](https://www.amazon.es/dp/B07C75VK8W/?tag=tolees-21) con un 33.91 % de descuento con precio de oferta de 12.55 EUR (original: 18.99 EUR) en el siguiente enlace!

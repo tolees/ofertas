@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KFTZYN7/?tag=tolees-21'
 descuento: '52.60'
+average: '28.44'
 ---
 
 Ahora mismo tienes [Burton Prospect Mochilas  Unisex Adulto  Gray Heather](https://www.amazon.es/dp/B07KFTZYN7/?tag=tolees-21) a 28.44 EUR (original: 60 EUR) (52.60 %  de descuento) en el siguiente enlace!

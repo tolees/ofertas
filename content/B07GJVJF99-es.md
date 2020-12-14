@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GJVJF99/?tag=tolees-21'
 descuento: '42.25'
+average: '44.7'
 ---
 
 Está [Tefal Aroma - Paellera de 36 cm aluminio fundido  antiadherente revestimiento de titanio  con asas amplias  apta para todo tipo de fuegos incluso inducción](https://www.amazon.es/dp/B07GJVJF99/?tag=tolees-21) con 42.25 de descuento por 44.7 EUR (original: 77.4 EUR) en el siguiente enlace!

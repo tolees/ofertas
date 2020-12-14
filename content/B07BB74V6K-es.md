@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BB74V6K/?tag=tolees-21'
 descuento: '56.53'
+average: '19.99'
 ---
 
 Tienes [Afeitadora Corporal Para Hombres  Depiladora Para Hombres Profesionales  IPX7 Afeitadora Impermeable  Recortador De Barba set 10 en 1   Afeitadora Cortapelos Eléctrica Multifunción De Barba](https://www.amazon.es/dp/B07BB74V6K/?tag=tolees-21) con un 56.53 % de descuento con precio de oferta de 19.99 EUR (original: 45.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0714C1CSQ/?tag=tolees-21'
 descuento: '73.24'
+average: '14.97'
 ---
 
 Está [Marco Tozzi 25032  Botas Chelsea para Mujer  Azul  Navy   36 EU](https://www.amazon.es/dp/B0714C1CSQ/?tag=tolees-21) con 73.24 de descuento por 14.97 EUR (original: 55.95 EUR) en el siguiente enlace!

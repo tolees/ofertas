@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0797NJZ6C/?tag=tolees-21'
 descuento: '52.21'
+average: '39.43'
 ---
 
 Ahora mismo tienes [Sulion Young Flexo LED con Pantalla LCD 8 W Blanco y Negro 20 x 14 x 32 cm](https://www.amazon.es/dp/B0797NJZ6C/?tag=tolees-21) a 39.43 EUR (original: 82.5 EUR) (52.21 %  de descuento) en el siguiente enlace!

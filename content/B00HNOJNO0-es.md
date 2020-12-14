@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00HNOJNO0/?tag=tolees-21'
 descuento: '66.18'
+average: '21.98'
 ---
 
 Tienes [Burton Baker 2 In 1 Mitt Manoplas de Snowboard  Hombre  Negro  True   XS](https://www.amazon.es/dp/B00HNOJNO0/?tag=tolees-21) con un 66.18 % de descuento con precio de oferta de 21.98 EUR (original: 65 EUR) en el siguiente enlace!

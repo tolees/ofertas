@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DDCW4WK/?tag=tolees-21'
 descuento: '50.18'
+average: '14.92'
 ---
 
 Ahora mismo tienes [Puma ESS Logo Pants  Mujer  Dark Gray Heather  XL](https://www.amazon.es/dp/B07DDCW4WK/?tag=tolees-21) a 14.92 EUR (original: 29.95 EUR) (50.18 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079BXF3CQ/?tag=tolees-21'
 descuento: '63.76'
+average: '97.82'
 ---
 
 Está [Millet Elevation GTX  Botas de Senderismo Unisex Adulto   Acid Green 000   47 1/3 EU](https://www.amazon.es/dp/B079BXF3CQ/?tag=tolees-21) con 63.76 de descuento por 97.82 EUR (original: 269.95 EUR) en el siguiente enlace!

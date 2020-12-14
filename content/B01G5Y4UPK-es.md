@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01G5Y4UPK/?tag=tolees-21'
 descuento: '45.30'
+average: '8.2'
 ---
 
 Está [Funko - POP! Vinilo Colección Rocks - Figura Amy Winehouse  10685 ](https://www.amazon.es/dp/B01G5Y4UPK/?tag=tolees-21) con 45.30 de descuento por 8.2 EUR (original: 14.99 EUR) en el siguiente enlace!

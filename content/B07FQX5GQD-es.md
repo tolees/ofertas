@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQX5GQD/?tag=tolees-21'
 descuento: '55.61'
+average: '31.05'
 ---
 
 Tienes [Clarks Step Maro Sol  Zapatillas para Hombre  Negro  Black-   44 EU](https://www.amazon.es/dp/B07FQX5GQD/?tag=tolees-21) con un 55.61 % de descuento con precio de oferta de 31.05 EUR (original: 69.95 EUR) en el siguiente enlace!

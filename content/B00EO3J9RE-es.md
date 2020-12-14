@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00EO3J9RE/?tag=tolees-21'
 descuento: '37.81'
+average: '15.64'
 ---
 
 Tienes [Sebastian Color Ignite Acondicionador - 200 ml](https://www.amazon.es/dp/B00EO3J9RE/?tag=tolees-21) con un 37.81 % de descuento con precio de oferta de 15.64 EUR (original: 25.15 EUR) en el siguiente enlace!

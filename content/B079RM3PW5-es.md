@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RM3PW5/?tag=tolees-21'
 descuento: '62.18'
+average: '60.52'
 ---
 
 Tienes [The North Face Nuptse Purna II  Botas de Nieve para Mujer  Marrón  Fig/Weathered Black 5rl   38.5 EU](https://www.amazon.es/dp/B079RM3PW5/?tag=tolees-21) con un 62.18 % de descuento con precio de oferta de 60.52 EUR (original: 160 EUR) en el siguiente enlace!

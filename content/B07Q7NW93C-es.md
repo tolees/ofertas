@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07Q7NW93C/?tag=tolees-21'
 descuento: '60.76'
+average: '13.99'
 ---
 
 Ahora mismo tienes [Mujer Encaje Lencería Erótica Ropa Interior Teddy Body Una Pieza Babydoll](https://www.amazon.es/dp/B07Q7NW93C/?tag=tolees-21) a 13.99 EUR (original: 35.65 EUR) (60.76 %  de descuento) en el siguiente enlace!

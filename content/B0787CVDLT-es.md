@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0787CVDLT/?tag=tolees-21'
 descuento: '65.67'
+average: '29.18'
 ---
 
 Está [Pepe Jeans London Tinker Pro Seal Camu  Zapatillas Hombre  Verde  Khaki Green   45 EU](https://www.amazon.es/dp/B0787CVDLT/?tag=tolees-21) con 65.67 de descuento por 29.18 EUR (original: 85 EUR) en el siguiente enlace!

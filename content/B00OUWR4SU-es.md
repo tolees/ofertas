@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00OUWR4SU/?tag=tolees-21'
 descuento: '34.04'
+average: '65.95'
 ---
 
 Está [adidas Superstar  Zapatillas de deporte Unisex Adulto  Blanco  Ftwr White/Core Black/Ftwr White   45 1/3 EU](https://www.amazon.es/dp/B00OUWR4SU/?tag=tolees-21) con 34.04 de descuento por 65.95 EUR (original: 99.99 EUR) en el siguiente enlace!

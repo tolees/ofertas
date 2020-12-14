@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BN1ZLFR/?tag=tolees-21'
 descuento: '62.45'
+average: '15.02'
 ---
 
 Ahora mismo tienes [Vans Asher V Toddler  Zapatillas para Bebés   Cloud  Rainbow U3p  21 EU](https://www.amazon.es/dp/B07BN1ZLFR/?tag=tolees-21) a 15.02 EUR (original: 40 EUR) (62.45 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00Z0ACE5O/?tag=tolees-21'
 descuento: '64.25'
+average: '12.87'
 ---
 
 Ahora mismo tienes [Tontarelli Set Caja de Almacenamiento 8 Uds. Arianna 4L](https://www.amazon.es/dp/B00Z0ACE5O/?tag=tolees-21) a 12.87 EUR (original: 36 EUR) (64.25 %  de descuento) en el siguiente enlace!

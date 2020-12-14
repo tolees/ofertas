@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DQSTZ92/?tag=tolees-21'
 descuento: '34.07'
+average: '23.73'
 ---
 
 Tienes [MTNG Attitude 56406  Zapatillas para Mujer   Raspe Nylon Minerva Negro C42957   36 EU](https://www.amazon.es/dp/B07DQSTZ92/?tag=tolees-21) con un 34.07 % de descuento con precio de oferta de 23.73 EUR (original: 35.99 EUR) en el siguiente enlace!

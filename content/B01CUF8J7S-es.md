@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01CUF8J7S/?tag=tolees-21'
 descuento: '29.03'
+average: '22'
 ---
 
 Está [Tommy Hilfiger New Danny Belt - Cinturón para mujer  Masters Black  70 cm](https://www.amazon.es/dp/B01CUF8J7S/?tag=tolees-21) con 29.03 de descuento por 22 EUR (original: 31 EUR) en el siguiente enlace!

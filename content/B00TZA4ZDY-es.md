@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TZA4ZDY/?tag=tolees-21'
 descuento: '53.09'
+average: '8.95'
 ---
 
 Está [Kempa Promo - Camisa/Camiseta para Hombre  Color Negro  Talla L](https://www.amazon.es/dp/B00TZA4ZDY/?tag=tolees-21) con 53.09 de descuento por 8.95 EUR (original: 19.08 EUR) en el siguiente enlace!

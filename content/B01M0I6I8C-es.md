@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M0I6I8C/?tag=tolees-21'
 descuento: '46.90'
+average: '26.55'
 ---
 
 Tienes [VAUDE Biwak I.2 Saco de Vivac  Unisex Adulto  Rojo  Talla única](https://www.amazon.es/dp/B01M0I6I8C/?tag=tolees-21) con un 46.90 % de descuento con precio de oferta de 26.55 EUR (original: 50 EUR) en el siguiente enlace!

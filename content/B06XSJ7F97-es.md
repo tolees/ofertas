@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XSJ7F97/?tag=tolees-21'
 descuento: '76.97'
+average: '18.42'
 ---
 
 Ahora mismo tienes [Pepe Jeans POTY PL210997 Pantalones   Multi 0Aa   Medium para Mujer](https://www.amazon.es/dp/B06XSJ7F97/?tag=tolees-21) a 18.42 EUR (original: 80 EUR) (76.97 %  de descuento) en el siguiente enlace!

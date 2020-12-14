@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FWSDZSS/?tag=tolees-21'
 descuento: '53.67'
+average: '23.14'
 ---
 
 Está [adidas Ace 16.4 FxG  Botas de fútbol para Hombre  Amarillo  Amasol/Negbas/Plamet   41 1/3 EU](https://www.amazon.es/dp/B01FWSDZSS/?tag=tolees-21) con 53.67 de descuento por 23.14 EUR (original: 49.95 EUR) en el siguiente enlace!

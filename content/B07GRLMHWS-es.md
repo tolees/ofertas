@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GRLMHWS/?tag=tolees-21'
 descuento: '32.52'
+average: '13.49'
 ---
 
 Está [Pejoye Reductor WC Plegable  Asiento Inodoro Niños Material PP con 4 Almohadillas de Silicona Antideslizantes y 1 Bolsa de Transporte Evita la Propagación de Gérmenes](https://www.amazon.es/dp/B07GRLMHWS/?tag=tolees-21) con 32.52 de descuento por 13.49 EUR (original: 19.99 EUR) en el siguiente enlace!

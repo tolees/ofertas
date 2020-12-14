@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0778ZPCB3/?tag=tolees-21'
 descuento: '41.43'
+average: '23.4'
 ---
 
 Está [Kappa AMUN II  Zapatillas Unisex adulto Schwarz  1111 Black  37 EU](https://www.amazon.es/dp/B0778ZPCB3/?tag=tolees-21) con 41.43 de descuento por 23.4 EUR (original: 39.95 EUR) en el siguiente enlace!

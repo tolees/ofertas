@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HNVSRGW/?tag=tolees-21'
 descuento: '33.65'
+average: '2.76'
 ---
 
 Está [Digital Midea Universal A / C Control Remotopara Aire Acondicionado](https://www.amazon.es/dp/B01HNVSRGW/?tag=tolees-21) con 33.65 de descuento por 2.76 EUR (original: 4.16 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0193GBXG6/?tag=tolees-21'
 descuento: '33.15'
+average: '16.68'
 ---
 
 Está [SeedBox Seed Box SBCOAM-Aromáticas mediterráneas](https://www.amazon.es/dp/B0193GBXG6/?tag=tolees-21) con 33.15 de descuento por 16.68 EUR (original: 24.95 EUR) en el siguiente enlace!

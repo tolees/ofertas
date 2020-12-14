@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N9RG5DT/?tag=tolees-21'
 descuento: '51.32'
+average: '21.42'
 ---
 
 Tienes [Diesel 0BAMK  Slip de Baño Para Hombre  Azul  Azul 89DA   Medium](https://www.amazon.es/dp/B01N9RG5DT/?tag=tolees-21) con un 51.32 % de descuento con precio de oferta de 21.42 EUR (original: 44 EUR) en el siguiente enlace!

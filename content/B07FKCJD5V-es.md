@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FKCJD5V/?tag=tolees-21'
 descuento: '51.60'
+average: '19.36'
 ---
 
 Tienes [The North Face Kanga Riñonera  Kelp Tan Dark Heather  One Size](https://www.amazon.es/dp/B07FKCJD5V/?tag=tolees-21) con un 51.60 % de descuento con precio de oferta de 19.36 EUR (original: 40 EUR) en el siguiente enlace!

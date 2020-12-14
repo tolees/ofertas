@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MZWZMU0/?tag=tolees-21'
 descuento: '50.77'
+average: '93.54'
 ---
 
 Está [Asics Gel-Kayano 23  Zapatillas de Running para Hombre   color: Negro  Black/Silver/Green Gecko    46 EU  10.5 UK ](https://www.amazon.es/dp/B01MZWZMU0/?tag=tolees-21) con 50.77 de descuento por 93.54 EUR (original: 190 EUR) en el siguiente enlace!

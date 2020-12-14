@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071F4NJHJ/?tag=tolees-21'
 descuento: '68.00'
+average: '35.18'
 ---
 
 Tienes [Puma Basket Platform Patent  Zapatillas para Mujer  Blanco Marshmallow  41 EU](https://www.amazon.es/dp/B071F4NJHJ/?tag=tolees-21) con un 68.00 % de descuento con precio de oferta de 35.18 EUR (original: 109.95 EUR) en el siguiente enlace!

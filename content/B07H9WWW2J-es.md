@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H9WWW2J/?tag=tolees-21'
 descuento: '45.05'
+average: '40.16'
 ---
 
 Tienes [Rockport Slayter Slipon Cognac  Mocasines para Hombre  Marrón  42 EU](https://www.amazon.es/dp/B07H9WWW2J/?tag=tolees-21) con un 45.05 % de descuento con precio de oferta de 40.16 EUR (original: 73.08 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074L68FFX/?tag=tolees-21'
 descuento: '70.16'
+average: '17.89'
 ---
 
 Está [Kappa Orbit  Zapatillas Unisex Adulto  Gris  Grey 1616   37 EU](https://www.amazon.es/dp/B074L68FFX/?tag=tolees-21) con 70.16 de descuento por 17.89 EUR (original: 59.95 EUR) en el siguiente enlace!

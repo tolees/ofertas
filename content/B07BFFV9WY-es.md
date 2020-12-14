@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BFFV9WY/?tag=tolees-21'
 descuento: '50.03'
+average: '44.95'
 ---
 
 Está [G-Star Bohdana Suit Wmn S/s  Mono Mujer  Negro  Dk Black 6484   8  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B07BFFV9WY/?tag=tolees-21) con 50.03 de descuento por 44.95 EUR (original: 89.95 EUR) en el siguiente enlace!

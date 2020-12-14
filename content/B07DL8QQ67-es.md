@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DL8QQ67/?tag=tolees-21'
 descuento: '50.89'
+average: '31.92'
 ---
 
 Está [Element Vertical HO Fleece  Hombre  Charcoal Heather  L](https://www.amazon.es/dp/B07DL8QQ67/?tag=tolees-21) con 50.89 de descuento por 31.92 EUR (original: 65 EUR) en el siguiente enlace!

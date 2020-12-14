@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071ZVL3V5/?tag=tolees-21'
 descuento: '58.04'
+average: '41.94'
 ---
 
 Está [adidas Climacool Cw  Zapatillas de running Mujer  Varios colores  Ftwbla/Gridos/Plamet   37.5 EU](https://www.amazon.es/dp/B071ZVL3V5/?tag=tolees-21) con 58.04 de descuento por 41.94 EUR (original: 99.95 EUR) en el siguiente enlace!

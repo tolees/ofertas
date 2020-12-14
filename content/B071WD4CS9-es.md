@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071WD4CS9/?tag=tolees-21'
 descuento: '38.74'
+average: '30.6'
 ---
 
 Tienes [adidas Galaxy 4 - Zapatillas de Entrenamiento Mujer  Negro  Core Black/utility Black /mystery Petrol    38 EU](https://www.amazon.es/dp/B071WD4CS9/?tag=tolees-21) con un 38.74 % de descuento con precio de oferta de 30.6 EUR (original: 49.95 EUR) en el siguiente enlace!

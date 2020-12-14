@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079H4VSD1/?tag=tolees-21'
 descuento: '70.78'
+average: '32.99'
 ---
 
 Tienes [Reloj masculino  deportivo  a cuarzo  de lujo  para empresarios  Impermeable  de acero inoxidable  con cronómetro y esfera negra](https://www.amazon.es/dp/B079H4VSD1/?tag=tolees-21) con un 70.78 % de descuento con precio de oferta de 32.99 EUR (original: 112.91 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007KWLF5K/?tag=tolees-21'
 descuento: '30.23'
+average: '194.65'
 ---
 
 Tienes [Audio-Technica ATH-ANC9 - Auriculares  reducción de ruido   negro](https://www.amazon.es/dp/B007KWLF5K/?tag=tolees-21) con un 30.23 % de descuento con precio de oferta de 194.65 EUR (original: 279 EUR) en el siguiente enlace!

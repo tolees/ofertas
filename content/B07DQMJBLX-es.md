@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DQMJBLX/?tag=tolees-21'
 descuento: '25.23'
+average: '29.9'
 ---
 
 Está [Wolfenstein: The Youngblood](https://www.amazon.es/dp/B07DQMJBLX/?tag=tolees-21) con 25.23 de descuento por 29.9 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007WSAB0W/?tag=tolees-21'
 descuento: '39.44'
+average: '10.9'
 ---
 
 Está [Oral B - Recambio  2 unidades  Trizone Eb 30-2](https://www.amazon.es/dp/B007WSAB0W/?tag=tolees-21) con 39.44 de descuento por 10.9 EUR (original: 18 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J6BVMC7/?tag=tolees-21'
 descuento: '73.37'
+average: '16.11'
 ---
 
 Ahora mismo tienes [WELQUIC LED Despertador Alarma Digital con Espejo Pantalla Alimentado por USB Mini Reloj de Mesa Snooze  Ajustable  Blanco](https://www.amazon.es/dp/B07J6BVMC7/?tag=tolees-21) a 16.11 EUR (original: 60.5 EUR) (73.37 %  de descuento) en el siguiente enlace!

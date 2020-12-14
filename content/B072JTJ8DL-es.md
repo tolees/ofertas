@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072JTJ8DL/?tag=tolees-21'
 descuento: '54.42'
+average: '40.57'
 ---
 
 Ahora mismo tienes [Scalpers Co Pantalones  Gris  Grey   WNA Tamaño del Fabricante:42  para Hombre](https://www.amazon.es/dp/B072JTJ8DL/?tag=tolees-21) a 40.57 EUR (original: 89 EUR) (54.42 %  de descuento) en el siguiente enlace!

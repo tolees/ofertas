@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00CAK6BVU/?tag=tolees-21'
 descuento: '79.26'
+average: '18.67'
 ---
 
 Tienes [Aigle BENYL M  Botas de Goma de Trabajo para Hombre  Marrón  Brun   35 EU](https://www.amazon.es/dp/B00CAK6BVU/?tag=tolees-21) con un 79.26 % de descuento con precio de oferta de 18.67 EUR (original: 90 EUR) en el siguiente enlace!

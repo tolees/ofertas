@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XC12TY2/?tag=tolees-21'
 descuento: '60.00'
+average: '16'
 ---
 
 Ahora mismo tienes [find. 70290 vestidos mujer  Multicolor  Black   38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B06XC12TY2/?tag=tolees-21) a 16 EUR (original: 40 EUR) (60.00 %  de descuento) en el siguiente enlace!

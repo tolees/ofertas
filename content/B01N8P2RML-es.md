@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N8P2RML/?tag=tolees-21'
 descuento: '73.59'
+average: '14.99'
 ---
 
 Ahora mismo tienes [San Ignacio Gourmet Grill  Aluminio  Gris  28 cm](https://www.amazon.es/dp/B01N8P2RML/?tag=tolees-21) a 14.99 EUR (original: 56.75 EUR) (73.59 %  de descuento) en el siguiente enlace!

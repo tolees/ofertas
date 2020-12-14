@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0797JWTN9/?tag=tolees-21'
 descuento: '75.06'
+average: '22.45'
 ---
 
 Ahora mismo tienes [New Balance Fresh Foam Lazr Sport  Zapatillas de Running para Mujer  Negro  Black/Magnet/White CB   37 EU](https://www.amazon.es/dp/B0797JWTN9/?tag=tolees-21) a 22.45 EUR (original: 90 EUR) (75.06 %  de descuento) en el siguiente enlace!

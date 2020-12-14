@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000T5N8UK/?tag=tolees-21'
 descuento: '79.80'
+average: '14.3'
 ---
 
 Está [Lacor - 65118 - Cafetera Luxe Inox. 1 80 Litros.](https://www.amazon.es/dp/B000T5N8UK/?tag=tolees-21) con 79.80 de descuento por 14.3 EUR (original: 70.78 EUR) en el siguiente enlace!

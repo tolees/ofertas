@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002SECMUC/?tag=tolees-21'
 descuento: '52.62'
+average: '40.24'
 ---
 
 Ahora mismo tienes [Eglo Lámparas  140 watts  Cromo  Gris y Negro  91.5 x 12.5 x 11 cm](https://www.amazon.es/dp/B002SECMUC/?tag=tolees-21) a 40.24 EUR (original: 84.93 EUR) (52.62 %  de descuento) en el siguiente enlace!

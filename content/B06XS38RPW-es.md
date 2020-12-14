@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XS38RPW/?tag=tolees-21'
 descuento: '47.33'
+average: '34.21'
 ---
 
 Ahora mismo tienes [Skechers Quantum Flex-Hudzick  Zapatillas de Entrenamiento para Hombre  Negro  Black White   42 EU](https://www.amazon.es/dp/B06XS38RPW/?tag=tolees-21) a 34.21 EUR (original: 64.95 EUR) (47.33 %  de descuento) en el siguiente enlace!

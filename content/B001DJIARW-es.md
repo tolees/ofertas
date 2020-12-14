@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001DJIARW/?tag=tolees-21'
 descuento: '46.59'
+average: '234.48'
 ---
 
 Está [HJH Office AIR-PORT Silla de oficina Negro 48.0x59.0x117.0 cm](https://www.amazon.es/dp/B001DJIARW/?tag=tolees-21) con 46.59 de descuento por 234.48 EUR (original: 439 EUR) en el siguiente enlace!

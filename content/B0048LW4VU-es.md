@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0048LW4VU/?tag=tolees-21'
 descuento: '29.19'
+average: '684.98'
 ---
 
 Está [Manfrotto MT057C4-G - Trípode  4 secciones   negro](https://www.amazon.es/dp/B0048LW4VU/?tag=tolees-21) con 29.19 de descuento por 684.98 EUR (original: 967.3 EUR) en el siguiente enlace!

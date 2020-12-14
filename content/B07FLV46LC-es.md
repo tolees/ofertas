@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FLV46LC/?tag=tolees-21'
 descuento: '39.41'
+average: '19.99'
 ---
 
 Ahora mismo tienes [Finether Plancha de Vapor Portátil  Plancha Ropa Vapor Vertical  Plancha de Viaje con Calentamiento Rápido en 60s  Capacidad 150 ml  1100-1300W  Ideal para el Hogar y Viaje  Color Blanca y Negra](https://www.amazon.es/dp/B07FLV46LC/?tag=tolees-21) a 19.99 EUR (original: 32.99 EUR) (39.41 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F9RK5J4/?tag=tolees-21'
 descuento: '80.02'
+average: '7.99'
 ---
 
 Está [Ehugos - Podómetro 3D con Cordón para Seguimiento de Actividad Física](https://www.amazon.es/dp/B07F9RK5J4/?tag=tolees-21) con 80.02 de descuento por 7.99 EUR (original: 39.99 EUR) en el siguiente enlace!

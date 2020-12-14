@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DBZJBL5/?tag=tolees-21'
 descuento: '69.61'
+average: '27.34'
 ---
 
 Tienes [Puma Cell Viper  Zapatillas Unisex Adulto  Negro Black White  45 EU](https://www.amazon.es/dp/B07DBZJBL5/?tag=tolees-21) con un 69.61 % de descuento con precio de oferta de 27.34 EUR (original: 89.95 EUR) en el siguiente enlace!

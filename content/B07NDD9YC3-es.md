@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NDD9YC3/?tag=tolees-21'
 descuento: '81.43'
+average: '2.97'
 ---
 
 Está [Reloj Javpoo de Acero Inoxidable - Reloj de Pulsera analógico de Cuarzo Casual para Mujer  Reloj de Pulsera  Reloj de cumpleaños del día de San Valentín  Relojes de Mujer en Oferta Relojes para Mujer](https://www.amazon.es/dp/B07NDD9YC3/?tag=tolees-21) con 81.43 de descuento por 2.97 EUR (original: 15.99 EUR) en el siguiente enlace!

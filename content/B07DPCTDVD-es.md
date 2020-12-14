@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DPCTDVD/?tag=tolees-21'
 descuento: '66.73'
+average: '8.3'
 ---
 
 Está [Puma ftblNXT Shirt  Hombre  Black/Shocking Orange  S](https://www.amazon.es/dp/B07DPCTDVD/?tag=tolees-21) con 66.73 de descuento por 8.3 EUR (original: 24.95 EUR) en el siguiente enlace!

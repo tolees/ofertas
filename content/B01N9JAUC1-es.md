@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N9JAUC1/?tag=tolees-21'
 descuento: '59.63'
+average: '8.07'
 ---
 
 Ahora mismo tienes [JACK & JONES Jcostone Ss Noos  Polo para Hombre  Blanco  White Fit:REG   Small](https://www.amazon.es/dp/B01N9JAUC1/?tag=tolees-21) a 8.07 EUR (original: 19.99 EUR) (59.63 %  de descuento) en el siguiente enlace!

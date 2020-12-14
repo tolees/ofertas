@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NAWWO0C/?tag=tolees-21'
 descuento: '60.14'
+average: '15.94'
 ---
 
 Está [D. Franklin HVK19201  Zapatillas Unisex Adulto  Azul  Blue   45 EU](https://www.amazon.es/dp/B01NAWWO0C/?tag=tolees-21) con 60.14 de descuento por 15.94 EUR (original: 39.99 EUR) en el siguiente enlace!

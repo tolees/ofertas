@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B011RLXX90/?tag=tolees-21'
 descuento: '30.02'
+average: '34.99'
 ---
 
 Ahora mismo tienes [Wilson Raqueta de Tenis Junior Burn - WRT508000  Anaranjado/Negro](https://www.amazon.es/dp/B011RLXX90/?tag=tolees-21) a 34.99 EUR (original: 50 EUR) (30.02 %  de descuento) en el siguiente enlace!

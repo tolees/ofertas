@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KOFVJ5U/?tag=tolees-21'
 descuento: '42.20'
+average: '2.89'
 ---
 
 Tienes [Kong 0035585399003 - Juguete para Gatos con Forma de pequeño tentetieso  Disponible en Colores Surtidos](https://www.amazon.es/dp/B01KOFVJ5U/?tag=tolees-21) con un 42.20 % de descuento con precio de oferta de 2.89 EUR (original: 5 EUR) en el siguiente enlace!

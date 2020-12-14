@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NB0KJ8A/?tag=tolees-21'
 descuento: '40.09'
+average: '29.95'
 ---
 
 Tienes [Panasonic RP-NJ300BE-K - Auriculares  Inalámbrico  Dentro de oído  Binaural  Intraaural  16 Ω  Negro ](https://www.amazon.es/dp/B01NB0KJ8A/?tag=tolees-21) con un 40.09 % de descuento con precio de oferta de 29.95 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L9CLCYK/?tag=tolees-21'
 descuento: '28.00'
+average: '99.92'
 ---
 
 Está [ROYAL SLEEP Colchón viscoelástico 135x182 de máxima Calidad  Confort y firmeza Alta  Altura 14cm. Colchones Xfresh](https://www.amazon.es/dp/B07L9CLCYK/?tag=tolees-21) con 28.00 de descuento por 99.92 EUR (original: 138.78 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NZWNHLN/?tag=tolees-21'
 descuento: '61.48'
+average: '46.99'
 ---
 
 Está [San Ignacio Professional Chef Copper Set de 3 sartenes + 4 recipientes herméticos + 4 Cuchillos de Cocina](https://www.amazon.es/dp/B07NZWNHLN/?tag=tolees-21) con 61.48 de descuento por 46.99 EUR (original: 121.99 EUR) en el siguiente enlace!

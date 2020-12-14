@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NDBTLK4/?tag=tolees-21'
 descuento: '52.81'
+average: '8.49'
 ---
 
 Ahora mismo tienes [Pack: Campeones + Ni Distintos Ni Diferentes: Campeones [Blu-ray]](https://www.amazon.es/dp/B07NDBTLK4/?tag=tolees-21) a 8.49 EUR (original: 17.99 EUR) (52.81 %  de descuento) en el siguiente enlace!

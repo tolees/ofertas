@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00SOL9ZSA/?tag=tolees-21'
 descuento: '67.98'
+average: '7.99'
 ---
 
 Tienes [Kingston DataTraveler SE9 G2 - Memoria 16GB USB 3.0  Plateado](https://www.amazon.es/dp/B00SOL9ZSA/?tag=tolees-21) con un 67.98 % de descuento con precio de oferta de 7.99 EUR (original: 24.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D439RHQ/?tag=tolees-21'
 descuento: '46.29'
+average: '34.91'
 ---
 
 Ahora mismo tienes [Nike MD Runner 2  Zapatillas para Hombre  Azul  Gym Blue/White-Black 401   40.5 EU](https://www.amazon.es/dp/B07D439RHQ/?tag=tolees-21) a 34.91 EUR (original: 65 EUR) (46.29 %  de descuento) en el siguiente enlace!

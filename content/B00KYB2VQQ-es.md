@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00KYB2VQQ/?tag=tolees-21'
 descuento: '56.50'
+average: '8.7'
 ---
 
 Ahora mismo tienes [Nike M Nk Dry Acdmy Top SS T-Shirt  Hombre  University Red  White   XL](https://www.amazon.es/dp/B00KYB2VQQ/?tag=tolees-21) a 8.7 EUR (original: 20 EUR) (56.50 %  de descuento) en el siguiente enlace!

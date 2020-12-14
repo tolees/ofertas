@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074KKZFG5/?tag=tolees-21'
 descuento: '71.40'
+average: '28.31'
 ---
 
 Está [Napapijri Damavand Crew Strickjacke suéter  Azul  BLU Marine 176   Small para Hombre](https://www.amazon.es/dp/B074KKZFG5/?tag=tolees-21) con 71.40 de descuento por 28.31 EUR (original: 99 EUR) en el siguiente enlace!

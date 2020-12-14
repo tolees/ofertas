@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B012G6BO9G/?tag=tolees-21'
 descuento: '33.73'
+average: '39.1'
 ---
 
 Tienes [Tommy Hilfiger - pendientes para mujer Classic Signature  acero - 2700752](https://www.amazon.es/dp/B012G6BO9G/?tag=tolees-21) con un 33.73 % de descuento con precio de oferta de 39.1 EUR (original: 59 EUR) en el siguiente enlace!

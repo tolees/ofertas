@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XBS3C8K/?tag=tolees-21'
 descuento: '46.71'
+average: '21.31'
 ---
 
 Ahora mismo tienes [Vila Clothes VICLASS Pant-Noos  Pantalones para Mujer  Negro  Black  36  Talla del Fabricante: Small ](https://www.amazon.es/dp/B06XBS3C8K/?tag=tolees-21) a 21.31 EUR (original: 39.99 EUR) (46.71 %  de descuento) en el siguiente enlace!

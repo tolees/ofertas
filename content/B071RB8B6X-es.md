@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071RB8B6X/?tag=tolees-21'
 descuento: '58.47'
+average: '53.99'
 ---
 
 Está [PUPPYOO WP521 Aspirador Vertical/escoba Portátil para Hogar Aspiradora Doméstica de Mano](https://www.amazon.es/dp/B071RB8B6X/?tag=tolees-21) con 58.47 de descuento por 53.99 EUR (original: 129.99 EUR) en el siguiente enlace!

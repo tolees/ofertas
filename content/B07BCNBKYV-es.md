@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BCNBKYV/?tag=tolees-21'
 descuento: '77.10'
+average: '38.93'
 ---
 
 Está [Clarks Trace Fern  Botas Slouch para Mujer  Marrón  Tan Combi   39.5 EU](https://www.amazon.es/dp/B07BCNBKYV/?tag=tolees-21) con 77.10 de descuento por 38.93 EUR (original: 170 EUR) en el siguiente enlace!

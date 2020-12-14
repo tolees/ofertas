@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01D4WUJ6A/?tag=tolees-21'
 descuento: '50.24'
+average: '13.5'
 ---
 
 Ahora mismo tienes [mithos titanium](https://www.amazon.es/dp/B01D4WUJ6A/?tag=tolees-21) a 13.5 EUR (original: 27.13 EUR) (50.24 %  de descuento) en el siguiente enlace!

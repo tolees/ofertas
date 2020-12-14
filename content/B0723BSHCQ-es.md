@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0723BSHCQ/?tag=tolees-21'
 descuento: '46.92'
+average: '31.85'
 ---
 
 Tienes [Volcom Lido Block Mod 21 Bañador  Hombre  Azul  Oscuro/Lima   36](https://www.amazon.es/dp/B0723BSHCQ/?tag=tolees-21) con un 46.92 % de descuento con precio de oferta de 31.85 EUR (original: 60 EUR) en el siguiente enlace!

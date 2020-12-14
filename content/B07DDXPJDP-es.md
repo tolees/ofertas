@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DDXPJDP/?tag=tolees-21'
 descuento: '73.94'
+average: '10.41'
 ---
 
 Está [bass3d 41573  Zapatillas para Mujer  Gris  36 EU](https://www.amazon.es/dp/B07DDXPJDP/?tag=tolees-21) con 73.94 de descuento por 10.41 EUR (original: 39.95 EUR) en el siguiente enlace!

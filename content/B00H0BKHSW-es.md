@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00H0BKHSW/?tag=tolees-21'
 descuento: '41.79'
+average: '21.83'
 ---
 
 Tienes [Joseph&Joseph JJ360 Nido Conjunto de Almacenamiento](https://www.amazon.es/dp/B00H0BKHSW/?tag=tolees-21) con un 41.79 % de descuento con precio de oferta de 21.83 EUR (original: 37.5 EUR) en el siguiente enlace!

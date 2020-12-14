@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00YROITE4/?tag=tolees-21'
 descuento: '30.37'
+average: '6.26'
 ---
 
 Está [Adidas Performance No-Show Thin 3PP  Calcetines unisex  3 pares  Blanco  43-46](https://www.amazon.es/dp/B00YROITE4/?tag=tolees-21) con 30.37 de descuento por 6.26 EUR (original: 8.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076QWMZMK/?tag=tolees-21'
 descuento: '45.40'
+average: '30.03'
 ---
 
 Está [Under Armour UA Rapid  Zapatillas de Running para Hombre  Rojo  Dark Maroon/White   42.5 EU](https://www.amazon.es/dp/B076QWMZMK/?tag=tolees-21) con 45.40 de descuento por 30.03 EUR (original: 55 EUR) en el siguiente enlace!

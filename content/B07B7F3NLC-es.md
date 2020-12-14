@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B7F3NLC/?tag=tolees-21'
 descuento: '35.25'
+average: '25.9'
 ---
 
 Ahora mismo tienes [LUDOS FLAMMA Ratón Gaming RGB 10.000 DPI 7 Botones Programables Gaming Mouse USB Ergonómico con Cable con【Software Español】Interruptores Omron  DPI Ajustables  500-10.000  y Retroiluminación RGB](https://www.amazon.es/dp/B07B7F3NLC/?tag=tolees-21) a 25.9 EUR (original: 40 EUR) (35.25 %  de descuento) en el siguiente enlace!

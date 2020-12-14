@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HYZ92LK/?tag=tolees-21'
 descuento: '42.22'
+average: '31.78'
 ---
 
 Tienes [Nike Court Royale  Zapatillas de Deporte para Hombre   Blue Void/White/Gum Light Brown 403   47.5 EU](https://www.amazon.es/dp/B07HYZ92LK/?tag=tolees-21) con un 42.22 % de descuento con precio de oferta de 31.78 EUR (original: 55 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GZKSHGD/?tag=tolees-21'
 descuento: '53.35'
+average: '12.59'
 ---
 
 Está [Ratón inalámbrico  Inphic Slim Silent Click Recargable 2.4G Ratones inalámbricos 1600DPI Mini óptico portátil de viaje wireless mouse para PC Ordenador portátil Mac  Espacio Plata](https://www.amazon.es/dp/B07GZKSHGD/?tag=tolees-21) con 53.35 de descuento por 12.59 EUR (original: 26.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CRKDT3M/?tag=tolees-21'
 descuento: '59.68'
+average: '24.17'
 ---
 
 Está [Puma Vikky Ribbon P  Zapatillas para Mujer  Rosa  Dusty Coral/Dusty Coral 05   38 EU](https://www.amazon.es/dp/B07CRKDT3M/?tag=tolees-21) con 59.68 de descuento por 24.17 EUR (original: 59.95 EUR) en el siguiente enlace!

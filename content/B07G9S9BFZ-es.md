@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G9S9BFZ/?tag=tolees-21'
 descuento: '68.01'
+average: '15.98'
 ---
 
 Está [adidas Ultimate 365 Solid  Polo para Hombre   Gris CY5397   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07G9S9BFZ/?tag=tolees-21) con 68.01 de descuento por 15.98 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PLYZSGY/?tag=tolees-21'
 descuento: '57.18'
+average: '9.99'
 ---
 
 Está [NONZERS 2-Pack Vidrio Templado para Huawei Cristal Templado [2.5D Redondo Borde]  Huawei Honor 10 ](https://www.amazon.es/dp/B07PLYZSGY/?tag=tolees-21) con 57.18 de descuento por 9.99 EUR (original: 23.33 EUR) en el siguiente enlace!

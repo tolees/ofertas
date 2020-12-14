@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077TTDXJW/?tag=tolees-21'
 descuento: '60.23'
+average: '27.82'
 ---
 
 Ahora mismo tienes [Reebok Astroride Future  Zapatillas de Trail Running para Hombre  Negro  Black/Ash Grey/White 000   44.5 EU](https://www.amazon.es/dp/B077TTDXJW/?tag=tolees-21) a 27.82 EUR (original: 69.95 EUR) (60.23 %  de descuento) en el siguiente enlace!

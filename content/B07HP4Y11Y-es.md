@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HP4Y11Y/?tag=tolees-21'
 descuento: '25.02'
+average: '11.99'
 ---
 
 Está [Caja de Luz de cine con 160 Letras  Números  Símbolos  Letras Ñ y Ç Incluida | A5 Vintage Cinematic Light Up Box Combinación libre DIY LED Carta Mensaje de la lámpara para la decoración del hogar](https://www.amazon.es/dp/B07HP4Y11Y/?tag=tolees-21) con 25.02 de descuento por 11.99 EUR (original: 15.99 EUR) en el siguiente enlace!

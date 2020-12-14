@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00GXKF2KE/?tag=tolees-21'
 descuento: '45.69'
+average: '7.25'
 ---
 
 Ahora mismo tienes [Flower 30587 30587-Triple acción ecológico Concentrado  No No Aplica 9.6x5.7x19 cm](https://www.amazon.es/dp/B00GXKF2KE/?tag=tolees-21) a 7.25 EUR (original: 13.35 EUR) (45.69 %  de descuento) en el siguiente enlace!

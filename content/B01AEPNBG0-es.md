@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01AEPNBG0/?tag=tolees-21'
 descuento: '53.93'
+average: '23.95'
 ---
 
 Está [LarKoo Ultra Portable Wireles Rechargeable Handsfree Bracket Bluetooth Speaker Stereo System Phone Holder Mount Stand for Android Smartphones and Tablets iPad iPhone 5S 6 6S 7 8 Plus X  Black ](https://www.amazon.es/dp/B01AEPNBG0/?tag=tolees-21) con 53.93 de descuento por 23.95 EUR (original: 51.99 EUR) en el siguiente enlace!

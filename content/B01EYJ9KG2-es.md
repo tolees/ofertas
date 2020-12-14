@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01EYJ9KG2/?tag=tolees-21'
 descuento: '67.78'
+average: '13.84'
 ---
 
 Tienes [Kappa Forward Mid  Zapatillas Altas Unisex Niños  Gris  Anthracite/Lime 1333   28 EU](https://www.amazon.es/dp/B01EYJ9KG2/?tag=tolees-21) con un 67.78 % de descuento con precio de oferta de 13.84 EUR (original: 42.95 EUR) en el siguiente enlace!

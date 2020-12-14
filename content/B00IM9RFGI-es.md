@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IM9RFGI/?tag=tolees-21'
 descuento: '47.88'
+average: '15.95'
 ---
 
 Tienes [Seac Easy Ad Set máscara  Aletas y Tubo  Unisex  Azul Claro  40-41](https://www.amazon.es/dp/B00IM9RFGI/?tag=tolees-21) con un 47.88 % de descuento con precio de oferta de 15.95 EUR (original: 30.6 EUR) en el siguiente enlace!

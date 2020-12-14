@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B4RJ8KN/?tag=tolees-21'
 descuento: '38.61'
+average: '19.99'
 ---
 
 Está [Juego de cepillos de pintura de 19 piezas  importación de pinceles de cabello de nylon  pincel de acrílico del artista para pintura de aguada acrílica de aceite de acuarela  19 piezas/conjunto ](https://www.amazon.es/dp/B07B4RJ8KN/?tag=tolees-21) con 38.61 de descuento por 19.99 EUR (original: 32.56 EUR) en el siguiente enlace!

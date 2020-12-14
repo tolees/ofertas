@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076B2HSKV/?tag=tolees-21'
 descuento: '40.86'
+average: '165'
 ---
 
 Tienes [Bébé Confort Axiss Silla infantil giratoria para coche del grupo 1  ajuste extraseguro  reclinable  9 meses - 4 años  9 - 18 kg  rojo  Vivid Red ](https://www.amazon.es/dp/B076B2HSKV/?tag=tolees-21) con un 40.86 % de descuento con precio de oferta de 165 EUR (original: 279 EUR) en el siguiente enlace!

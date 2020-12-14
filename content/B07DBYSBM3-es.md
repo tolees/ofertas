@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DBYSBM3/?tag=tolees-21'
 descuento: '45.02'
+average: '54.95'
 ---
 
 Está [Puma Defy Wn s  Zapatillas de Deporte para Mujer  Blanco  Peach Bud White   38 EU](https://www.amazon.es/dp/B07DBYSBM3/?tag=tolees-21) con 45.02 de descuento por 54.95 EUR (original: 99.95 EUR) en el siguiente enlace!

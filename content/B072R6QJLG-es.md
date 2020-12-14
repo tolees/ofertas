@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072R6QJLG/?tag=tolees-21'
 descuento: '67.77'
+average: '27.7'
 ---
 
 Tienes [Tamaris 25742  Botas para Mujer  Azul  Navy Velvet   37 EU](https://www.amazon.es/dp/B072R6QJLG/?tag=tolees-21) con un 67.77 % de descuento con precio de oferta de 27.7 EUR (original: 85.95 EUR) en el siguiente enlace!

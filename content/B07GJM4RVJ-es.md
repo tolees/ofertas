@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GJM4RVJ/?tag=tolees-21'
 descuento: '33.36'
+average: '9.99'
 ---
 
 Ahora mismo tienes [Lentillas Blancas - Lentes de Contacto De Color Blanco - sin corrección = zero dioptrías - Paquete de 2 en la mejor calidad de marca - cómodo de llevar - perfecto para Halloween o Carnaval](https://www.amazon.es/dp/B07GJM4RVJ/?tag=tolees-21) a 9.99 EUR (original: 14.99 EUR) (33.36 %  de descuento) en el siguiente enlace!

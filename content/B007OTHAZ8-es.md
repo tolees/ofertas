@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007OTHAZ8/?tag=tolees-21'
 descuento: '37.87'
+average: '16.75'
 ---
 
 Tienes [JOSE CUERVO REPOSADO DORADO 1L.](https://www.amazon.es/dp/B007OTHAZ8/?tag=tolees-21) con un 37.87 % de descuento con precio de oferta de 16.75 EUR (original: 26.96 EUR) en el siguiente enlace!

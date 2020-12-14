@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000LFVSAK/?tag=tolees-21'
 descuento: '29.06'
+average: '46.35'
 ---
 
 Tienes [Silverline 868581 - Carretilla para cargas pesadas  315 kg ](https://www.amazon.es/dp/B000LFVSAK/?tag=tolees-21) con un 29.06 % de descuento con precio de oferta de 46.35 EUR (original: 65.34 EUR) en el siguiente enlace!

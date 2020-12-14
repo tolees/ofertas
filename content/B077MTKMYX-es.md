@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077MTKMYX/?tag=tolees-21'
 descuento: '61.03'
+average: '23.36'
 ---
 
 Ahora mismo tienes [Puma Vikky Ribbon Bold  Zapatillas para Mujer  Negro Black  37.5 EU](https://www.amazon.es/dp/B077MTKMYX/?tag=tolees-21) a 23.36 EUR (original: 59.95 EUR) (61.03 %  de descuento) en el siguiente enlace!

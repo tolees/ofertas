@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06ZY4H4C5/?tag=tolees-21'
 descuento: '48.87'
+average: '13.8'
 ---
 
 Está [Vila Clothes Vichassa L/s Knit Top-Noos  suéter Mujer  Marfil  Pristine   42  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B06ZY4H4C5/?tag=tolees-21) con 48.87 de descuento por 13.8 EUR (original: 26.99 EUR) en el siguiente enlace!

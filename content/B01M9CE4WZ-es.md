@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M9CE4WZ/?tag=tolees-21'
 descuento: '68.01'
+average: '22.38'
 ---
 
 Ahora mismo tienes [Skechers Lite Step-Reactive  Zapatillas para Mujer  Beige  Dktp   36 EU](https://www.amazon.es/dp/B01M9CE4WZ/?tag=tolees-21) a 22.38 EUR (original: 69.95 EUR) (68.01 %  de descuento) en el siguiente enlace!

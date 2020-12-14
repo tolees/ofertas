@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078M4GP5D/?tag=tolees-21'
 descuento: '30.01'
+average: '20.99'
 ---
 
 Tienes [Panel autoadhesivo de madera  pelar y pegar  para pared  papel pintado 50 cm x 3 m  0 15 mm  PVC impermeable  cocina  baño  revestimiento de cajón  extraíble  Blanco Vintage ](https://www.amazon.es/dp/B078M4GP5D/?tag=tolees-21) con un 30.01 % de descuento con precio de oferta de 20.99 EUR (original: 29.99 EUR) en el siguiente enlace!

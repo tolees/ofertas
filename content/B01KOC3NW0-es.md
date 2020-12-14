@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KOC3NW0/?tag=tolees-21'
 descuento: '33.24'
+average: '39.99'
 ---
 
 Está [Beurer il-35 - Lámpara infrarrojos  150 W  LED  color blanco](https://www.amazon.es/dp/B01KOC3NW0/?tag=tolees-21) con 33.24 de descuento por 39.99 EUR (original: 59.9 EUR) en el siguiente enlace!

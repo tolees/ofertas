@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DS76MQK/?tag=tolees-21'
 descuento: '65.61'
+average: '28.36'
 ---
 
 Ahora mismo tienes [Reebok Reago Pulse  Zapatillas de Deporte para Hombre   Coal/Black/Field Tan/Porcelain/Foggy Gre 000   42.5 EU](https://www.amazon.es/dp/B07DS76MQK/?tag=tolees-21) a 28.36 EUR (original: 82.46 EUR) (65.61 %  de descuento) en el siguiente enlace!

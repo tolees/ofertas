@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KCWNTS6/?tag=tolees-21'
 descuento: '48.96'
+average: '13.78'
 ---
 
 Está [Hurley M SIRO Laugh Now S/S Camisetas  Hombre  Black Heather  L](https://www.amazon.es/dp/B07KCWNTS6/?tag=tolees-21) con 48.96 de descuento por 13.78 EUR (original: 27 EUR) en el siguiente enlace!

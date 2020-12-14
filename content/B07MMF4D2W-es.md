@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MMF4D2W/?tag=tolees-21'
 descuento: '47.36'
+average: '52.64'
 ---
 
 Está [Hackett Core Kensington Shorts Pantalones Cortos  Marrón  Safari 734   W38 para Hombre](https://www.amazon.es/dp/B07MMF4D2W/?tag=tolees-21) con 47.36 de descuento por 52.64 EUR (original: 100 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L6WNT99/?tag=tolees-21'
 descuento: '46.74'
+average: '58.05'
 ---
 
 Está [LIU JO Shoes Alexa-Running Scarlet  Zapatillas para Mujer  Rojo 92033  39 EU](https://www.amazon.es/dp/B07L6WNT99/?tag=tolees-21) con 46.74 de descuento por 58.05 EUR (original: 109 EUR) en el siguiente enlace!

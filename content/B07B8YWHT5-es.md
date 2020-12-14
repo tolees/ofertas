@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B8YWHT5/?tag=tolees-21'
 descuento: '50.27'
+average: '33.7'
 ---
 
 Ahora mismo tienes [Purina Beyond Pienso Natural para Perro Adulto Cordero y Cebada Integral 4 x 3 Kg](https://www.amazon.es/dp/B07B8YWHT5/?tag=tolees-21) a 33.7 EUR (original: 67.77 EUR) (50.27 %  de descuento) en el siguiente enlace!

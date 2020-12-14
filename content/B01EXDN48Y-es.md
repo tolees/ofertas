@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01EXDN48Y/?tag=tolees-21'
 descuento: '48.71'
+average: '14.72'
 ---
 
 Está [Schwarzkopf Igora ColorWorx Tinta  Tono Azul - 100 ml](https://www.amazon.es/dp/B01EXDN48Y/?tag=tolees-21) con 48.71 de descuento por 14.72 EUR (original: 28.7 EUR) en el siguiente enlace!

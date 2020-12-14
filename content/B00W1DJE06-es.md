@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00W1DJE06/?tag=tolees-21'
 descuento: '37.78'
+average: '27.97'
 ---
 
 Está [Keter -  Mini huerto en casa G-Row con base  Color marrón](https://www.amazon.es/dp/B00W1DJE06/?tag=tolees-21) con 37.78 de descuento por 27.97 EUR (original: 44.95 EUR) en el siguiente enlace!

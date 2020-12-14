@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00J3RKFW4/?tag=tolees-21'
 descuento: '65.71'
+average: '3'
 ---
 
 Está [Iwhite Pasta Dental Blanqueadora - 75 ml](https://www.amazon.es/dp/B00J3RKFW4/?tag=tolees-21) con 65.71 de descuento por 3 EUR (original: 8.75 EUR) en el siguiente enlace!

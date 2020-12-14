@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BJH993G/?tag=tolees-21'
 descuento: '60.03'
+average: '47.95'
 ---
 
 Está [G-STAR RAW 3301 Straight  Jeans para Hombre  Azul  dk Aged 6083-89  32W / 36L](https://www.amazon.es/dp/B07BJH993G/?tag=tolees-21) con 60.03 de descuento por 47.95 EUR (original: 119.95 EUR) en el siguiente enlace!

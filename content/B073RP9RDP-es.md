@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073RP9RDP/?tag=tolees-21'
 descuento: '72.68'
+average: '17.76'
 ---
 
 Está [Helly Hansen KOS SS POLO  Polo para Hombre  Gris  981 Ebony   S](https://www.amazon.es/dp/B073RP9RDP/?tag=tolees-21) con 72.68 de descuento por 17.76 EUR (original: 65 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DPJRTXZ/?tag=tolees-21'
 descuento: '70.86'
+average: '6.99'
 ---
 
 Está [AceTend Mini Ventilador de Mano  Mini Ventilador USB Recargable Plegable con 3 Tipos de Viento Fuerte para el Hogar  Oficina y Viajes  Blanco ](https://www.amazon.es/dp/B07DPJRTXZ/?tag=tolees-21) con 70.86 de descuento por 6.99 EUR (original: 23.99 EUR) en el siguiente enlace!

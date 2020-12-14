@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078SZFBRH/?tag=tolees-21'
 descuento: '31.02'
+average: '68.95'
 ---
 
 Tienes [Salomon Trailster  Zaptillas de Running para Hombre  Rojo Cherry Tomato/Urban Chic/White  49 1/3 EU](https://www.amazon.es/dp/B078SZFBRH/?tag=tolees-21) con un 31.02 % de descuento con precio de oferta de 68.95 EUR (original: 99.95 EUR) en el siguiente enlace!

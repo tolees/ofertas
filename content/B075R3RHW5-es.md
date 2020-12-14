@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075R3RHW5/?tag=tolees-21'
 descuento: '66.79'
+average: '23.25'
 ---
 
 Ahora mismo tienes [New Balance 490  Zapatillas de Running para Mujer  Negro  Black/Gunmetal/White Lm6   39 EU](https://www.amazon.es/dp/B075R3RHW5/?tag=tolees-21) a 23.25 EUR (original: 70 EUR) (66.79 %  de descuento) en el siguiente enlace!

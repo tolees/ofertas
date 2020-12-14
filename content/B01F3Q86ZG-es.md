@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01F3Q86ZG/?tag=tolees-21'
 descuento: '55.89'
+average: '74.99'
 ---
 
 Tienes [Roccat Ryos MK Pro Mechanical Gaming Teclado con per-Key Illumination  ES-Layout  Einzeliluminación de Las Teclas  mecánico MX Brown Switch ](https://www.amazon.es/dp/B01F3Q86ZG/?tag=tolees-21) con un 55.89 % de descuento con precio de oferta de 74.99 EUR (original: 169.99 EUR) en el siguiente enlace!

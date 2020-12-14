@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NBG5E3R/?tag=tolees-21'
 descuento: '33.32'
+average: '14.97'
 ---
 
 Tienes [Puma Esito 4 Polo  Hombre  Esito 4 Polo  puma Royal-puma White-puma New Navy  Medium](https://www.amazon.es/dp/B01NBG5E3R/?tag=tolees-21) con un 33.32 % de descuento con precio de oferta de 14.97 EUR (original: 22.45 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGP9FB6/?tag=tolees-21'
 descuento: '42.64'
+average: '16.06'
 ---
 
 Está [Burton Classic Mountain High Camisetas  Hombre  Mood Indigo  XS](https://www.amazon.es/dp/B07KGP9FB6/?tag=tolees-21) con 42.64 de descuento por 16.06 EUR (original: 28 EUR) en el siguiente enlace!

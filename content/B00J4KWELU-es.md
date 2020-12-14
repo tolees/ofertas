@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00J4KWELU/?tag=tolees-21'
 descuento: '28.40'
+average: '8.32'
 ---
 
 Está [Ceys - Araldite Rapido 15+15ML](https://www.amazon.es/dp/B00J4KWELU/?tag=tolees-21) con 28.40 de descuento por 8.32 EUR (original: 11.62 EUR) en el siguiente enlace!

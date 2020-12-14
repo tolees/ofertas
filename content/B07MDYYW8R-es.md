@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MDYYW8R/?tag=tolees-21'
 descuento: '50.02'
+average: '14.99'
 ---
 
 Tienes [LOFIR Gilrs Cotton Socks Toddler Crew Novelty Socks for Kids 3-13 Years](https://www.amazon.es/dp/B07MDYYW8R/?tag=tolees-21) con un 50.02 % de descuento con precio de oferta de 14.99 EUR (original: 29.99 EUR) en el siguiente enlace!

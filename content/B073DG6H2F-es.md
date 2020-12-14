@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073DG6H2F/?tag=tolees-21'
 descuento: '80.66'
+average: '10.55'
 ---
 
 Tienes [Reebok El Ts Woven Chándal  Mujer  Morado  Vicvlt   2XS](https://www.amazon.es/dp/B073DG6H2F/?tag=tolees-21) con un 80.66 % de descuento con precio de oferta de 10.55 EUR (original: 54.55 EUR) en el siguiente enlace!

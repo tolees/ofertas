@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XNFZPR/?tag=tolees-21'
 descuento: '64.17'
+average: '12.54'
 ---
 
 Ahora mismo tienes [Under Armour Raid 3/4 Leggin  Niños  Black/Steel/Graphite  YS](https://www.amazon.es/dp/B077XNFZPR/?tag=tolees-21) a 12.54 EUR (original: 35 EUR) (64.17 %  de descuento) en el siguiente enlace!

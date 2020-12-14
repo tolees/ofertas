@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077SK3XGL/?tag=tolees-21'
 descuento: '35.59'
+average: '108.85'
 ---
 
 Ahora mismo tienes [Fossil Reloj Analogico para Hombre de Cuarzo con Correa en Acero Inoxidable FS5412](https://www.amazon.es/dp/B077SK3XGL/?tag=tolees-21) a 108.85 EUR (original: 169 EUR) (35.59 %  de descuento) en el siguiente enlace!

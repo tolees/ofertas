@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KKWF76T/?tag=tolees-21'
 descuento: '56.31'
+average: '26.21'
 ---
 
 Ahora mismo tienes [Roxy Cosmic Nights Fleece Top  Mujer  Salmon  S](https://www.amazon.es/dp/B07KKWF76T/?tag=tolees-21) a 26.21 EUR (original: 59.99 EUR) (56.31 %  de descuento) en el siguiente enlace!

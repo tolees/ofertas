@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K2NHP8W/?tag=tolees-21'
 descuento: '34.03'
+average: '32.95'
 ---
 
 Ahora mismo tienes [Adidas Falcon Zapatillas de Running Hombre  Gris  Grey Three F17/Grey Six/Shock Cyan Grey Three F17/Grey Six/Shock Cyan   47 1/3 EU](https://www.amazon.es/dp/B07K2NHP8W/?tag=tolees-21) a 32.95 EUR (original: 49.95 EUR) (34.03 %  de descuento) en el siguiente enlace!

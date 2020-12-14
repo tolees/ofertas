@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071YYZHZQ/?tag=tolees-21'
 descuento: '87.29'
+average: '2.37'
 ---
 
 Ahora mismo tienes [X-Men - Trilogie [Alemania] [Blu-ray]](https://www.amazon.es/dp/B071YYZHZQ/?tag=tolees-21) a 2.37 EUR (original: 18.64 EUR) (87.29 %  de descuento) en el siguiente enlace!

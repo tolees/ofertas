@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079GXD2S2/?tag=tolees-21'
 descuento: '73.35'
+average: '15.99'
 ---
 
 Ahora mismo tienes [Donix Vibrador de Silicona Médica con Control Remoto 12 Modos 15m](https://www.amazon.es/dp/B079GXD2S2/?tag=tolees-21) a 15.99 EUR (original: 59.99 EUR) (73.35 %  de descuento) en el siguiente enlace!

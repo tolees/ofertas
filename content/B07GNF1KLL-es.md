@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GNF1KLL/?tag=tolees-21'
 descuento: '36.68'
+average: '18.99'
 ---
 
 Ahora mismo tienes [Samsung Note 9 Funda cuero con ranura para tarjetas  cubierta protectora cartera con función de soporte  Negro](https://www.amazon.es/dp/B07GNF1KLL/?tag=tolees-21) a 18.99 EUR (original: 29.99 EUR) (36.68 %  de descuento) en el siguiente enlace!

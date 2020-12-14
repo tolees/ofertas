@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L3FTXK6/?tag=tolees-21'
 descuento: '30.64'
+average: '51.95'
 ---
 
 Está [Tommy Hilfiger Essential Flag Detail Sneaker  Zapatillas para Hombre  Blanco  White 100   44 EU](https://www.amazon.es/dp/B07L3FTXK6/?tag=tolees-21) con 30.64 de descuento por 51.95 EUR (original: 74.9 EUR) en el siguiente enlace!

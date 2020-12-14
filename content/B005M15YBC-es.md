@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005M15YBC/?tag=tolees-21'
 descuento: '45.11'
+average: '14.31'
 ---
 
 Ahora mismo tienes [Toyrific  22 piezas de la caja del sistema de herramienta de acarreo  Edad 3 ](https://www.amazon.es/dp/B005M15YBC/?tag=tolees-21) a 14.31 EUR (original: 26.07 EUR) (45.11 %  de descuento) en el siguiente enlace!

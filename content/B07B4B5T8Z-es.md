@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B4B5T8Z/?tag=tolees-21'
 descuento: '91.44'
+average: '5.99'
 ---
 
 Tienes [Ifecco aumentado el proyector de la onda del océano  azul ](https://www.amazon.es/dp/B07B4B5T8Z/?tag=tolees-21) con un 91.44 % de descuento con precio de oferta de 5.99 EUR (original: 69.99 EUR) en el siguiente enlace!

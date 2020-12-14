@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075VDPMMD/?tag=tolees-21'
 descuento: '49.53'
+average: '49.16'
 ---
 
 Tienes [resol Rita Set Infantil  1 Mesa Azul + 4 Sillas Roja/Rosa/Naranja/Lima](https://www.amazon.es/dp/B075VDPMMD/?tag=tolees-21) con un 49.53 % de descuento con precio de oferta de 49.16 EUR (original: 97.41 EUR) en el siguiente enlace!

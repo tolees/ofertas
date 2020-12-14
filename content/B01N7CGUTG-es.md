@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N7CGUTG/?tag=tolees-21'
 descuento: '76.69'
+average: '6.99'
 ---
 
 Ahora mismo tienes [Only Onlnew Bridget Rib 7/8 Pullover Knt Noos  suéter Mujer  Gris  Pumice Stone   42  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B01N7CGUTG/?tag=tolees-21) a 6.99 EUR (original: 29.99 EUR) (76.69 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KHWS138/?tag=tolees-21'
 descuento: '71.41'
+average: '7.35'
 ---
 
 Está [Cife - Trendy Lights Selfie con accesorios](https://www.amazon.es/dp/B01KHWS138/?tag=tolees-21) con 71.41 de descuento por 7.35 EUR (original: 25.71 EUR) en el siguiente enlace!

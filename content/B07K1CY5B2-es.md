@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K1CY5B2/?tag=tolees-21'
 descuento: '45.50'
+average: '8.17'
 ---
 
 Tienes [adidas Estro 19 JSY T-Shirt  Hombre  Solar Yellow  M](https://www.amazon.es/dp/B07K1CY5B2/?tag=tolees-21) con un 45.50 % de descuento con precio de oferta de 8.17 EUR (original: 14.99 EUR) en el siguiente enlace!

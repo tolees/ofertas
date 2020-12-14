@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M0OUIQE/?tag=tolees-21'
 descuento: '27.88'
+average: '50.45'
 ---
 
 Está [Skechers 11930  Zapatillas para Mujer  Gris  Biggest Fan Grey/White   40 EU](https://www.amazon.es/dp/B01M0OUIQE/?tag=tolees-21) con 27.88 de descuento por 50.45 EUR (original: 69.95 EUR) en el siguiente enlace!

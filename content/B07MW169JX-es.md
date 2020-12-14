@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MW169JX/?tag=tolees-21'
 descuento: '60.02'
+average: '19.99'
 ---
 
 Ahora mismo tienes [Pelepas Vibrador de Prostata Masajeador para Mujer Hombre](https://www.amazon.es/dp/B07MW169JX/?tag=tolees-21) a 19.99 EUR (original: 50 EUR) (60.02 %  de descuento) en el siguiente enlace!

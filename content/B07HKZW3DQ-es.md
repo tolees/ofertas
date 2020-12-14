@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HKZW3DQ/?tag=tolees-21'
 descuento: '37.43'
+average: '10.6'
 ---
 
 Está [Wonder Woman titulares de Triple Pulsera Femenina de Tarjetas de crédito Embrague Monederos](https://www.amazon.es/dp/B07HKZW3DQ/?tag=tolees-21) con 37.43 de descuento por 10.6 EUR (original: 16.94 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NYVSFNR/?tag=tolees-21'
 descuento: '50.00'
+average: '34.99'
 ---
 
 Está [Bota Mujer de Verano Caladas con Punta Redonda Estilo Casual Primavera Verano 2019 Talla 41 Rosa](https://www.amazon.es/dp/B07NYVSFNR/?tag=tolees-21) con 50.00 de descuento por 34.99 EUR (original: 69.98 EUR) en el siguiente enlace!

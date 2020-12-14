@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JJP49GX/?tag=tolees-21'
 descuento: '66.69'
+average: '7.99'
 ---
 
 Ahora mismo tienes [Luces Bicicleta Delantera y Trasera USB Recargable LED Luz Bicicleta Impermeable Luz Bici de Carretera o Montaña  600 LM ](https://www.amazon.es/dp/B07JJP49GX/?tag=tolees-21) a 7.99 EUR (original: 23.99 EUR) (66.69 %  de descuento) en el siguiente enlace!

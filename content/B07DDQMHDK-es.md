@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DDQMHDK/?tag=tolees-21'
 descuento: '50.00'
+average: '19.5'
 ---
 
 Está [Pandora Charms con cierre Mujer plata - 797227NYA](https://www.amazon.es/dp/B07DDQMHDK/?tag=tolees-21) con 50.00 de descuento por 19.5 EUR (original: 39 EUR) en el siguiente enlace!

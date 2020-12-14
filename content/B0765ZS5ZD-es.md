@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0765ZS5ZD/?tag=tolees-21'
 descuento: '69.43'
+average: '6.11'
 ---
 
 Ahora mismo tienes [Only Onlnew Maye Flare L/s Pullover CC Knt  suéter Mujer  Azul  Night Sky Detail: W. Black Melange   42  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B0765ZS5ZD/?tag=tolees-21) a 6.11 EUR (original: 19.99 EUR) (69.43 %  de descuento) en el siguiente enlace!

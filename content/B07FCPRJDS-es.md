@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FCPRJDS/?tag=tolees-21'
 descuento: '25.00'
+average: '18.99'
 ---
 
 Está [Colhogar Papel Higiénico Just 1 5 capas - 42 Rollos](https://www.amazon.es/dp/B07FCPRJDS/?tag=tolees-21) con 25.00 de descuento por 18.99 EUR (original: 25.32 EUR) en el siguiente enlace!

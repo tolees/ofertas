@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00JQ9BLR2/?tag=tolees-21'
 descuento: '51.68'
+average: '38.17'
 ---
 
 Ahora mismo tienes [Superga 2750-macramew  Zapatillas de Gimnasia para Mujer  Negro  Full Black 996   36 EU](https://www.amazon.es/dp/B00JQ9BLR2/?tag=tolees-21) a 38.17 EUR (original: 79 EUR) (51.68 %  de descuento) en el siguiente enlace!

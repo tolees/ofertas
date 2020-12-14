@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079KKH4BS/?tag=tolees-21'
 descuento: '65.27'
+average: '19.1'
 ---
 
 Ahora mismo tienes [BILLABONG All Day OG Stripe 18 Bañador  Hombre   Azul 20   X/Small](https://www.amazon.es/dp/B079KKH4BS/?tag=tolees-21) a 19.1 EUR (original: 55 EUR) (65.27 %  de descuento) en el siguiente enlace!

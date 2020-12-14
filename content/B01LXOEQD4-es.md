@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LXOEQD4/?tag=tolees-21'
 descuento: '53.37'
+average: '372.55'
 ---
 
 Ahora mismo tienes [Onkyo LS5200-W - Conjunto de Altavoces  Network y subwoofer 2.1  WiFi  Bluetooth  AirPlay  Chromecast  FireConnect  spotify  Deezer  Tidal   Tuneln  HDMI 4/1  Color Blanco](https://www.amazon.es/dp/B01LXOEQD4/?tag=tolees-21) a 372.55 EUR (original: 799 EUR) (53.37 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075ZXXLD6/?tag=tolees-21'
 descuento: '69.55'
+average: '21.3'
 ---
 
 Tienes [Skechers Hi-Lites-Block Poppers  Zapatillas Altas para Mujer  Blanco  White   37 EU](https://www.amazon.es/dp/B075ZXXLD6/?tag=tolees-21) con un 69.55 % de descuento con precio de oferta de 21.3 EUR (original: 69.95 EUR) en el siguiente enlace!

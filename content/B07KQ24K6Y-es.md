@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KQ24K6Y/?tag=tolees-21'
 descuento: '51.67'
+average: '16.91'
 ---
 
 Está [DC Shoes Square Star tee-Shirt  Hombre  Hunter Green  S](https://www.amazon.es/dp/B07KQ24K6Y/?tag=tolees-21) con 51.67 de descuento por 16.91 EUR (original: 34.99 EUR) en el siguiente enlace!

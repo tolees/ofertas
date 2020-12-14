@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GBSTQPP/?tag=tolees-21'
 descuento: '50.45'
+average: '8.89'
 ---
 
 Está [New Look Ella Sweat  suéter para Mujer  Beige  Camel  46  Talla del Fabricante: 18 ](https://www.amazon.es/dp/B07GBSTQPP/?tag=tolees-21) con 50.45 de descuento por 8.89 EUR (original: 17.94 EUR) en el siguiente enlace!

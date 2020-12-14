@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071DQV7KM/?tag=tolees-21'
 descuento: '33.75'
+average: '35.34'
 ---
 
 Tienes [TALIUS Xentinel - Caja Gaming ATX - USB 3.0 - USB 2.0 - Sin Fuente - Blanca](https://www.amazon.es/dp/B071DQV7KM/?tag=tolees-21) con un 33.75 % de descuento con precio de oferta de 35.34 EUR (original: 53.34 EUR) en el siguiente enlace!

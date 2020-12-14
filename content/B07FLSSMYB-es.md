@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FLSSMYB/?tag=tolees-21'
 descuento: '99.57'
+average: '19.99'
 ---
 
 Está [Pulsera Actividad  Reloj deportivo Inteligente Fitness Tracker con Monitor de Ritmo Cardíaco las 24 Horas / Impermeable IP68 / Monitor de Sueño / SMS/ Mensajes para Facebook WhatsApp Twitter y Más](https://www.amazon.es/dp/B07FLSSMYB/?tag=tolees-21) con 99.57 de descuento por 19.99 EUR (original: 4599 EUR) en el siguiente enlace!

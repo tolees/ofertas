@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01B7FUATM/?tag=tolees-21'
 descuento: '39.65'
+average: '39.22'
 ---
 
 Ahora mismo tienes [Braun BT5070 – Recortadora de barba con ajuste fino cada 0 5mm: precisión para un estilo deseado  color negro](https://www.amazon.es/dp/B01B7FUATM/?tag=tolees-21) a 39.22 EUR (original: 64.99 EUR) (39.65 %  de descuento) en el siguiente enlace!

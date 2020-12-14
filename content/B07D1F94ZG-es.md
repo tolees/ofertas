@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D1F94ZG/?tag=tolees-21'
 descuento: '49.88'
+average: '50.12'
 ---
 
 Tienes [Asics Gel-Sonoma 3 G-TX  Zapatillas de Running para Asfalto para Hombre  Negro  Black/Dark Grey 002   40.5 EU](https://www.amazon.es/dp/B07D1F94ZG/?tag=tolees-21) con un 49.88 % de descuento con precio de oferta de 50.12 EUR (original: 100 EUR) en el siguiente enlace!

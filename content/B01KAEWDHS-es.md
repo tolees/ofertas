@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KAEWDHS/?tag=tolees-21'
 descuento: '80.10'
+average: '9.95'
 ---
 
 Está [Creative Labs 51MF8250AA003 - Altavoz con Bluetooth](https://www.amazon.es/dp/B01KAEWDHS/?tag=tolees-21) con 80.10 de descuento por 9.95 EUR (original: 49.99 EUR) en el siguiente enlace!

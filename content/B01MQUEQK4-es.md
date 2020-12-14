@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MQUEQK4/?tag=tolees-21'
 descuento: '54.64'
+average: '24.95'
 ---
 
 Ahora mismo tienes [Under Armour Rapid  Zapatillas de Running para Mujer  Negro  Black White 001   36 EU](https://www.amazon.es/dp/B01MQUEQK4/?tag=tolees-21) a 24.95 EUR (original: 55 EUR) (54.64 %  de descuento) en el siguiente enlace!

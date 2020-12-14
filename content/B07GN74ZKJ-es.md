@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GN74ZKJ/?tag=tolees-21'
 descuento: '40.00'
+average: '99'
 ---
 
 Tienes [HyperX Predator HX440C19PB3A/8 - Kit Memoria DDR4 RGB 8GB  4000MHz CL19 DIMM XMP](https://www.amazon.es/dp/B07GN74ZKJ/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 99 EUR (original: 164.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792QXPK9/?tag=tolees-21'
 descuento: '35.53'
+average: '12.79'
 ---
 
 Tienes [Grsta Botella de Agua Deporte 1000ml  Eco-Friendly de plastico - sin BPA  Reutilizables tritan Botellas Agua  bpa Free  para niños  Sport  Yoga  Gym  Oficina  Senderismo  Viajes Agua Botella  Azul ](https://www.amazon.es/dp/B0792QXPK9/?tag=tolees-21) con un 35.53 % de descuento con precio de oferta de 12.79 EUR (original: 19.84 EUR) en el siguiente enlace!

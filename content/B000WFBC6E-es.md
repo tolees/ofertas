@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000WFBC6E/?tag=tolees-21'
 descuento: '39.64'
+average: '120.12'
 ---
 
 Tienes [Mondaine A990.CLOCK.16SBB Reloj de pared Analogue](https://www.amazon.es/dp/B000WFBC6E/?tag=tolees-21) con un 39.64 % de descuento con precio de oferta de 120.12 EUR (original: 199 EUR) en el siguiente enlace!

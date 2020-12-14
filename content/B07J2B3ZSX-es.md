@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J2B3ZSX/?tag=tolees-21'
 descuento: '47.03'
+average: '25.99'
 ---
 
 Tienes [YVSoo Gimnasio Bebés Piano Pataditas  Manta Estera de Juego Gym PlayMat con Música y Luces para Infantil Niños  Rosa ](https://www.amazon.es/dp/B07J2B3ZSX/?tag=tolees-21) con un 47.03 % de descuento con precio de oferta de 25.99 EUR (original: 49.07 EUR) en el siguiente enlace!

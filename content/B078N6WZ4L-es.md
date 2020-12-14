@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078N6WZ4L/?tag=tolees-21'
 descuento: '54.83'
+average: '51.95'
 ---
 
 Está [Merrell Agility Synthesis Flex  Zapatillas de Running para Asfalto para Hombre  Rojo Wrasse  42 EU](https://www.amazon.es/dp/B078N6WZ4L/?tag=tolees-21) con 54.83 de descuento por 51.95 EUR (original: 115 EUR) en el siguiente enlace!

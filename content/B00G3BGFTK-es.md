@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00G3BGFTK/?tag=tolees-21'
 descuento: '64.90'
+average: '19.29'
 ---
 
 Tienes [Ridge Retro 27 Skateboard  Unisex  Verde  69 cm](https://www.amazon.es/dp/B00G3BGFTK/?tag=tolees-21) con un 64.90 % de descuento con precio de oferta de 19.29 EUR (original: 54.95 EUR) en el siguiente enlace!

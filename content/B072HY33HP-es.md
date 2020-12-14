@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072HY33HP/?tag=tolees-21'
 descuento: '62.52'
+average: '26.22'
 ---
 
 Tienes [Puma St Winter Boot  Botas Slouch para Mujer  Azul  Baja Blue Depths   39 EU](https://www.amazon.es/dp/B072HY33HP/?tag=tolees-21) con un 62.52 % de descuento con precio de oferta de 26.22 EUR (original: 69.95 EUR) en el siguiente enlace!

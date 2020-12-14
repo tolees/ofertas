@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IHVGPQ6/?tag=tolees-21'
 descuento: '45.25'
+average: '71.16'
 ---
 
 Está [PodoWell Patrouille  Zapatillas Unisex Adulto  Negro  Schwarz 7150010-42   42 EU](https://www.amazon.es/dp/B01IHVGPQ6/?tag=tolees-21) con 45.25 de descuento por 71.16 EUR (original: 129.98 EUR) en el siguiente enlace!

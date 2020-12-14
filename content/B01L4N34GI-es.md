@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01L4N34GI/?tag=tolees-21'
 descuento: '36.40'
+average: '34.95'
 ---
 
 Tienes [Skechers Track  Zapatillas de Entrenamiento para Hombre  Gris  Charcoal/Lime   48.5 EU](https://www.amazon.es/dp/B01L4N34GI/?tag=tolees-21) con un 36.40 % de descuento con precio de oferta de 34.95 EUR (original: 54.95 EUR) en el siguiente enlace!

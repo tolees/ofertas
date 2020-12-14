@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017EJE15Y/?tag=tolees-21'
 descuento: '30.06'
+average: '18.15'
 ---
 
 Ahora mismo tienes [Calvin Klein Thong - Tanga para Mujer  Negro  Black 001   talla del fabricante: XS  1 unidad](https://www.amazon.es/dp/B017EJE15Y/?tag=tolees-21) a 18.15 EUR (original: 25.95 EUR) (30.06 %  de descuento) en el siguiente enlace!

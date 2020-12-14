@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077YGCHZV/?tag=tolees-21'
 descuento: '38.48'
+average: '689'
 ---
 
 Ahora mismo tienes [Lenovo Ideapad 720S-13IKB - Ordenador portátil Ultrafino de 13.3" FullHD  Intel Core i5-7200U  8 GB RAM  256 GB SDD  Intel HD 620  Windows 10 Home  plateado - Teclado QWERTY Español](https://www.amazon.es/dp/B077YGCHZV/?tag=tolees-21) a 689 EUR (original: 1119.9 EUR) (38.48 %  de descuento) en el siguiente enlace!

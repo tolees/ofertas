@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079BDJWXM/?tag=tolees-21'
 descuento: '71.77'
+average: '2.99'
 ---
 
 Está [Nivel de burbuja  TACKLIFE -MT-L05-230mm Nivel torpedo magnética  Nivel tubular industrial con tres formas de medición para medir horizontal y vertical  45 °de ángulo  con Agujero de Suspensión](https://www.amazon.es/dp/B079BDJWXM/?tag=tolees-21) con 71.77 de descuento por 2.99 EUR (original: 10.59 EUR) en el siguiente enlace!

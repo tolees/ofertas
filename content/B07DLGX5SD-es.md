@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLGX5SD/?tag=tolees-21'
 descuento: '79.39'
+average: '6.18'
 ---
 
 Tienes [PIECES Pcfiona LS Knit suéter  Negro Black  42  Talla del Fabricante: X-Large  para Mujer](https://www.amazon.es/dp/B07DLGX5SD/?tag=tolees-21) con un 79.39 % de descuento con precio de oferta de 6.18 EUR (original: 29.99 EUR) en el siguiente enlace!

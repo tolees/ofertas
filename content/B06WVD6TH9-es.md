@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06WVD6TH9/?tag=tolees-21'
 descuento: '88.56'
+average: '7.02'
 ---
 
 Tienes [Evans Extra Wide Tan Slip On  Mocasines para Mujer  Marrón  Brown 210   42 EU](https://www.amazon.es/dp/B06WVD6TH9/?tag=tolees-21) con un 88.56 % de descuento con precio de oferta de 7.02 EUR (original: 61.39 EUR) en el siguiente enlace!

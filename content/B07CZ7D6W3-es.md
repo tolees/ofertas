@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ7D6W3/?tag=tolees-21'
 descuento: '51.79'
+average: '19.26'
 ---
 
 Ahora mismo tienes [G-STAR RAW Classic Trunk 3 Pack Ao  Bañador Hombre   Kit ao/Bright Rovic Green/Hudson Blue A407   Large](https://www.amazon.es/dp/B07CZ7D6W3/?tag=tolees-21) a 19.26 EUR (original: 39.95 EUR) (51.79 %  de descuento) en el siguiente enlace!

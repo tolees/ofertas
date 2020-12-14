@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0781YYMD3/?tag=tolees-21'
 descuento: '57.84'
+average: '18.95'
 ---
 
 Está [Puma Oceanaire Hybrid Pantalones  Hombre   Azul Oscuro/Blanco   XL](https://www.amazon.es/dp/B0781YYMD3/?tag=tolees-21) con 57.84 de descuento por 18.95 EUR (original: 44.95 EUR) en el siguiente enlace!

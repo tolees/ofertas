@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NCSPEGF/?tag=tolees-21'
 descuento: '50.01'
+average: '16.79'
 ---
 
 Está [ASICS STORMER GS - Color - Azul  Talla Calzado ES - 39.5](https://www.amazon.es/dp/B01NCSPEGF/?tag=tolees-21) con 50.01 de descuento por 16.79 EUR (original: 33.59 EUR) en el siguiente enlace!

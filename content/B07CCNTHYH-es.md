@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CCNTHYH/?tag=tolees-21'
 descuento: '34.54'
+average: '72'
 ---
 
 Está [Alcatel 1X - Smartphone de 5.34"  Quad-Core 1.28 GHz  Memoria 16 GB Ampliable hasta MicroSD de 128 GB  Cámara DE 16 MP  Android 8.0 ](https://www.amazon.es/dp/B07CCNTHYH/?tag=tolees-21) con 34.54 de descuento por 72 EUR (original: 109.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06X9SFQBG/?tag=tolees-21'
 descuento: '53.78'
+average: '20.8'
 ---
 
 Tienes [find. Zapatillas de Deporte sin Cordones para Mujer  Blanco  White   36 EU](https://www.amazon.es/dp/B06X9SFQBG/?tag=tolees-21) con un 53.78 % de descuento con precio de oferta de 20.8 EUR (original: 45 EUR) en el siguiente enlace!

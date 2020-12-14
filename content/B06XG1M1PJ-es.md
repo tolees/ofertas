@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XG1M1PJ/?tag=tolees-21'
 descuento: '50.00'
+average: '14'
 ---
 
 Ahora mismo tienes [FIND Zapatillas Estilo Bamba para Hombre  Negro  Black   40 EU](https://www.amazon.es/dp/B06XG1M1PJ/?tag=tolees-21) a 14 EUR (original: 28 EUR) (50.00 %  de descuento) en el siguiente enlace!

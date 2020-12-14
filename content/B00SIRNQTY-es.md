@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00SIRNQTY/?tag=tolees-21'
 descuento: '72.26'
+average: '6.92'
 ---
 
 Tienes [b.young Lucy V Neck-Jersey Mujer  Blau  Moonlight Blue 80410  36](https://www.amazon.es/dp/B00SIRNQTY/?tag=tolees-21) con un 72.26 % de descuento con precio de oferta de 6.92 EUR (original: 24.95 EUR) en el siguiente enlace!

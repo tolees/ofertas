@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B014B8JU4S/?tag=tolees-21'
 descuento: '47.12'
+average: '26.92'
 ---
 
 Ahora mismo tienes [Nike Bolsa  Talla Única  Mineral Spruce/Outdoor Green](https://www.amazon.es/dp/B014B8JU4S/?tag=tolees-21) a 26.92 EUR (original: 50.91 EUR) (47.12 %  de descuento) en el siguiente enlace!

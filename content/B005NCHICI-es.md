@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005NCHICI/?tag=tolees-21'
 descuento: '67.76'
+average: '5.32'
 ---
 
 Ahora mismo tienes [Schwarzkopf Professional Essensity Permanent Color Ammonia Free 5-0 - 62 ml](https://www.amazon.es/dp/B005NCHICI/?tag=tolees-21) a 5.32 EUR (original: 16.5 EUR) (67.76 %  de descuento) en el siguiente enlace!

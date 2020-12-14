@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DWLTRF4/?tag=tolees-21'
 descuento: '84.01'
+average: '15.99'
 ---
 
 Ahora mismo tienes [AmazonBasics - Cable USB A con conector Lightning  colección premium  3 m  Pack de 12 - Plateado](https://www.amazon.es/dp/B07DWLTRF4/?tag=tolees-21) a 15.99 EUR (original: 99.99 EUR) (84.01 %  de descuento) en el siguiente enlace!

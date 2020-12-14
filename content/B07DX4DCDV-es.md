@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DX4DCDV/?tag=tolees-21'
 descuento: '73.68'
+average: '32.23'
 ---
 
 Ahora mismo tienes [Caterpillar Shaw  Botas Clasicas para Hombre  Negro Black  43 EU](https://www.amazon.es/dp/B07DX4DCDV/?tag=tolees-21) a 32.23 EUR (original: 122.46 EUR) (73.68 %  de descuento) en el siguiente enlace!

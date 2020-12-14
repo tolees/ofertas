@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XRQHYP/?tag=tolees-21'
 descuento: '45.27'
+average: '14.23'
 ---
 
 Ahora mismo tienes [Under Armour Gorra para Hombre Airvent Core Golf  Radio Red / / Charcoal  890   L/XL](https://www.amazon.es/dp/B077XRQHYP/?tag=tolees-21) a 14.23 EUR (original: 26 EUR) (45.27 %  de descuento) en el siguiente enlace!

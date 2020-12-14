@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M63MV5T/?tag=tolees-21'
 descuento: '52.00'
+average: '71.99'
 ---
 
 Tienes [Autel Autolink® AL539 Herramienta de prueba componentes eléctricos y OBDII/CAN con lectura/borrado de códigos de error](https://www.amazon.es/dp/B01M63MV5T/?tag=tolees-21) con un 52.00 % de descuento con precio de oferta de 71.99 EUR (original: 149.99 EUR) en el siguiente enlace!

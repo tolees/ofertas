@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FCCP4SD/?tag=tolees-21'
 descuento: '28.14'
+average: '201.16'
 ---
 
 Ahora mismo tienes [Kinderkraft Moov silla multifuncional 3en1 silla de paseo  y silla de coche negra](https://www.amazon.es/dp/B07FCCP4SD/?tag=tolees-21) a 201.16 EUR (original: 279.95 EUR) (28.14 %  de descuento) en el siguiente enlace!

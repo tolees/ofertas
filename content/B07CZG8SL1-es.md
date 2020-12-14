@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZG8SL1/?tag=tolees-21'
 descuento: '36.70'
+average: '37.95'
 ---
 
 Está [Puma Insurge Mesh  Zapatillas de Deporte Unisex Adulto  Negro Black-Iron Gate White  44 EU](https://www.amazon.es/dp/B07CZG8SL1/?tag=tolees-21) con 36.70 de descuento por 37.95 EUR (original: 59.95 EUR) en el siguiente enlace!

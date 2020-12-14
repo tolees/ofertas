@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MQDQGUD/?tag=tolees-21'
 descuento: '30.66'
+average: '27.7'
 ---
 
 Está [Gardena 18424-20 - Manguera espiral  10 m  multicolor](https://www.amazon.es/dp/B01MQDQGUD/?tag=tolees-21) con 30.66 de descuento por 27.7 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078ZKGV7R/?tag=tolees-21'
 descuento: '69.00'
+average: '23.22'
 ---
 
 Está [Supra Chino Court  Zapatillas para Hombre  Rojo  Wine-Gum 632   42.5 EU](https://www.amazon.es/dp/B078ZKGV7R/?tag=tolees-21) con 69.00 de descuento por 23.22 EUR (original: 74.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D7LM79M/?tag=tolees-21'
 descuento: '45.50'
+average: '22.89'
 ---
 
 Tienes [Guess M83p00j1300  Polo para Hombre  Rojo  Tulip Red Tlrd  Small](https://www.amazon.es/dp/B07D7LM79M/?tag=tolees-21) con un 45.50 % de descuento con precio de oferta de 22.89 EUR (original: 42 EUR) en el siguiente enlace!

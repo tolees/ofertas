@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MYDAKSZ/?tag=tolees-21'
 descuento: '70.01'
+average: '29.99'
 ---
 
 Está [Finether-Minibicicleta para el Entrenamiento de Brazos y Piernas con 2 kg de Volante de Hierro  Pantalla LCD y Perilla de Resistencia Ajustable  Negro](https://www.amazon.es/dp/B01MYDAKSZ/?tag=tolees-21) con 70.01 de descuento por 29.99 EUR (original: 100 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQWX1RJ/?tag=tolees-21'
 descuento: '73.44'
+average: '34.53'
 ---
 
 Ahora mismo tienes [Clarks Hale Lo  Botas Chukka para Hombre  Marrón  Ochre Nubuck-   44 EU](https://www.amazon.es/dp/B07FQWX1RJ/?tag=tolees-21) a 34.53 EUR (original: 130 EUR) (73.44 %  de descuento) en el siguiente enlace!

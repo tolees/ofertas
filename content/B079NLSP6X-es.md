@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079NLSP6X/?tag=tolees-21'
 descuento: '66.06'
+average: '67.87'
 ---
 
 Está [Helly Hansen W Legendary Ins Pant  Mujer  fir Green  L](https://www.amazon.es/dp/B079NLSP6X/?tag=tolees-21) con 66.06 de descuento por 67.87 EUR (original: 200 EUR) en el siguiente enlace!

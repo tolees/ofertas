@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004OIOP9Q/?tag=tolees-21'
 descuento: '48.01'
+average: '64.99'
 ---
 
 Está [DGC GmbH DVD-P 905 - Reproductor de DVD portátil  9"  LCD   color negro](https://www.amazon.es/dp/B004OIOP9Q/?tag=tolees-21) con 48.01 de descuento por 64.99 EUR (original: 125 EUR) en el siguiente enlace!

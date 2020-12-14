@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FD65F1X/?tag=tolees-21'
 descuento: '45.51'
+average: '37.59'
 ---
 
 Está [MEIKEE led proyector solar con estaca para césped  foco solar led con espiga para exterior  blanco cálido  luz solar con pincho impermeable IP66  iluminación de pincho insertado para jardín](https://www.amazon.es/dp/B07FD65F1X/?tag=tolees-21) con 45.51 de descuento por 37.59 EUR (original: 68.99 EUR) en el siguiente enlace!

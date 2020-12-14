@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072MFFT9J/?tag=tolees-21'
 descuento: '88.30'
+average: '1.17'
 ---
 
 Tienes [Steelbook FIFA 18  no incluye juego ](https://www.amazon.es/dp/B072MFFT9J/?tag=tolees-21) con un 88.30 % de descuento con precio de oferta de 1.17 EUR (original: 10 EUR) en el siguiente enlace!

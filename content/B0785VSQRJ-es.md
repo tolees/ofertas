@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0785VSQRJ/?tag=tolees-21'
 descuento: '59.19'
+average: '16.32'
 ---
 
 Ahora mismo tienes [Under Armour UA Tech 2.0 1/2 Zip Parte Superior del Calentamiento  Hombre  Azul  Academy 409   XXL](https://www.amazon.es/dp/B0785VSQRJ/?tag=tolees-21) a 16.32 EUR (original: 39.99 EUR) (59.19 %  de descuento) en el siguiente enlace!

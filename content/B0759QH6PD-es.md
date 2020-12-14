@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0759QH6PD/?tag=tolees-21'
 descuento: '68.97'
+average: '27.91'
 ---
 
 Tienes [Clarks Lillia Lola  Zapatillas para Mujer  Azul  Navy Combi   39.5 EU](https://www.amazon.es/dp/B0759QH6PD/?tag=tolees-21) con un 68.97 % de descuento con precio de oferta de 27.91 EUR (original: 89.95 EUR) en el siguiente enlace!

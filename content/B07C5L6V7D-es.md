@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C5L6V7D/?tag=tolees-21'
 descuento: '66.76'
+average: '2.35'
 ---
 
 Está [Termómetro tiras para la frente  cuidado del bebé  adhesivo de temperatura de fiebre LCD  portátil una vez  10 unidades de pegatinas para termómetro de frente para niños](https://www.amazon.es/dp/B07C5L6V7D/?tag=tolees-21) con 66.76 de descuento por 2.35 EUR (original: 7.07 EUR) en el siguiente enlace!

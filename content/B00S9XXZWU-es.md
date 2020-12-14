@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00S9XXZWU/?tag=tolees-21'
 descuento: '45.71'
+average: '23.86'
 ---
 
 Tienes [Lamberts Vitamina C 1000 mg - 180 Tabletas](https://www.amazon.es/dp/B00S9XXZWU/?tag=tolees-21) con un 45.71 % de descuento con precio de oferta de 23.86 EUR (original: 43.95 EUR) en el siguiente enlace!

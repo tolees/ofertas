@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GW2ZXDN/?tag=tolees-21'
 descuento: '41.67'
+average: '34.99'
 ---
 
 Tienes [Let S Sing 11 - Edición Estándar Con 2 Micrófonos](https://www.amazon.es/dp/B07GW2ZXDN/?tag=tolees-21) con un 41.67 % de descuento con precio de oferta de 34.99 EUR (original: 59.99 EUR) en el siguiente enlace!

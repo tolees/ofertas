@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GHGPXB6/?tag=tolees-21'
 descuento: '58.42'
+average: '10.39'
 ---
 
 Está [Wangel Portarrollo para Papel Higiénico  Autoadhesivo Sin Tornillos Sin Taladro  para Baño  Aluminio  Acabado Mate](https://www.amazon.es/dp/B07GHGPXB6/?tag=tolees-21) con 58.42 de descuento por 10.39 EUR (original: 24.99 EUR) en el siguiente enlace!

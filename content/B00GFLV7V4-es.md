@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00GFLV7V4/?tag=tolees-21'
 descuento: '26.78'
+average: '95.18'
 ---
 
 Ahora mismo tienes [Creative Aurvana Live! 2 - Auriculares de diadema cerrados  negro](https://www.amazon.es/dp/B00GFLV7V4/?tag=tolees-21) a 95.18 EUR (original: 129.99 EUR) (26.78 %  de descuento) en el siguiente enlace!

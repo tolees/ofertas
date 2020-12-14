@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BQX8SGW/?tag=tolees-21'
 descuento: '53.51'
+average: '6.95'
 ---
 
 Tienes [Joma - Short Creta Royal para Hombre](https://www.amazon.es/dp/B01BQX8SGW/?tag=tolees-21) con un 53.51 % de descuento con precio de oferta de 6.95 EUR (original: 14.95 EUR) en el siguiente enlace!

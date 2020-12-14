@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075QXP58W/?tag=tolees-21'
 descuento: '54.01'
+average: '45.99'
 ---
 
 Está [Finether Aspirador Escoba con Cable 2 en 1  15 5KPA  500W  Aspiradora de Mano sin Bolsas  Aspirador Vertical de Hogar con 5 Accesorios  600ML de Depósito  Rojo y Negro](https://www.amazon.es/dp/B075QXP58W/?tag=tolees-21) con 54.01 de descuento por 45.99 EUR (original: 99.99 EUR) en el siguiente enlace!

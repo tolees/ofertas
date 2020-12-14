@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GVKQMKJ/?tag=tolees-21'
 descuento: '84.02'
+average: '7.99'
 ---
 
 Está [Donix Vibrador Mujer de 27 Modos de Silicona Impermeable para Masaje y Relajación](https://www.amazon.es/dp/B07GVKQMKJ/?tag=tolees-21) con 84.02 de descuento por 7.99 EUR (original: 49.99 EUR) en el siguiente enlace!

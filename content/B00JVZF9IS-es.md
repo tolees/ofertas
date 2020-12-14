@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00JVZF9IS/?tag=tolees-21'
 descuento: '65.97'
+average: '67.71'
 ---
 
 Tienes [Jacques Lemans Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 1-209F](https://www.amazon.es/dp/B00JVZF9IS/?tag=tolees-21) con un 65.97 % de descuento con precio de oferta de 67.71 EUR (original: 199 EUR) en el siguiente enlace!

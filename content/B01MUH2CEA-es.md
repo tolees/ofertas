@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MUH2CEA/?tag=tolees-21'
 descuento: '72.63'
+average: '32.83'
 ---
 
 Tienes [Asics T718N  Zapatillas Hombre  Gris  Midgrey/Black/White   40.5 EU](https://www.amazon.es/dp/B01MUH2CEA/?tag=tolees-21) con un 72.63 % de descuento con precio de oferta de 32.83 EUR (original: 119.95 EUR) en el siguiente enlace!

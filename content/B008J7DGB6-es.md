@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B008J7DGB6/?tag=tolees-21'
 descuento: '75.80'
+average: '13.31'
 ---
 
 Tienes [Dickies Slim Fit Straight - Pantalones para hombre  Negro  Black   W38/L34](https://www.amazon.es/dp/B008J7DGB6/?tag=tolees-21) con un 75.80 % de descuento con precio de oferta de 13.31 EUR (original: 55 EUR) en el siguiente enlace!

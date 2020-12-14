@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00PITYCX4/?tag=tolees-21'
 descuento: '41.78'
+average: '101.89'
 ---
 
 Está [Vivere UHSDO8-20 - Hamaca con soporte incluido  multicolor  250 cm  doble  diseño Tropical](https://www.amazon.es/dp/B00PITYCX4/?tag=tolees-21) con 41.78 de descuento por 101.89 EUR (original: 175 EUR) en el siguiente enlace!

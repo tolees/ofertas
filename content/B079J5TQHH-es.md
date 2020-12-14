@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079J5TQHH/?tag=tolees-21'
 descuento: '35.08'
+average: '38.95'
 ---
 
 Tienes [Asics Patriot 10 Zapatillas de Running Hombre  Multicolor  Deep Ocean/Flash Yellow 400   40.5 EU](https://www.amazon.es/dp/B079J5TQHH/?tag=tolees-21) con un 35.08 % de descuento con precio de oferta de 38.95 EUR (original: 60 EUR) en el siguiente enlace!

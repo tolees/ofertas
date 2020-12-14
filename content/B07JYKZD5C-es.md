@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JYKZD5C/?tag=tolees-21'
 descuento: '52.79'
+average: '25.94'
 ---
 
 Tienes [adidas X_PLR C  Zapatillas de Gimnasia Unisex Niños  Gris Light Grey Heather/Core Black/FTWR White  32 EU](https://www.amazon.es/dp/B07JYKZD5C/?tag=tolees-21) con un 52.79 % de descuento con precio de oferta de 25.94 EUR (original: 54.95 EUR) en el siguiente enlace!

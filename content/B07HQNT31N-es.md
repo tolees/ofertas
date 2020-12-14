@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HQNT31N/?tag=tolees-21'
 descuento: '41.68'
+average: '17.49'
 ---
 
 Ahora mismo tienes [Unearthing Mars 2](https://www.amazon.es/dp/B07HQNT31N/?tag=tolees-21) a 17.49 EUR (original: 29.99 EUR) (41.68 %  de descuento) en el siguiente enlace!

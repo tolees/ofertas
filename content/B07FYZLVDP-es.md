@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FYZLVDP/?tag=tolees-21'
 descuento: '42.47'
+average: '8.94'
 ---
 
 Está [Oatly Caffé Latte  Bebida de café - 6 de 235 ml.  Total 1410 ml. ](https://www.amazon.es/dp/B07FYZLVDP/?tag=tolees-21) con 42.47 de descuento por 8.94 EUR (original: 15.54 EUR) en el siguiente enlace!

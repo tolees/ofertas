@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KA2EHI8/?tag=tolees-21'
 descuento: '43.27'
+average: '5.9'
 ---
 
 Ahora mismo tienes [COCONUT OIL DEEP TREAT. CONDITIONER 1KG](https://www.amazon.es/dp/B01KA2EHI8/?tag=tolees-21) a 5.9 EUR (original: 10.4 EUR) (43.27 %  de descuento) en el siguiente enlace!

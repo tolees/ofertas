@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079FKHYJ8/?tag=tolees-21'
 descuento: '25.03'
+average: '26.99'
 ---
 
 Tienes [MEIKEE 30W Foco LED con Sensor Movimiento de 3000LM  Proyector LED exterior 6500K con detector PIR de IP66  resistente al agua   Iluminación de Exterior y Seguridad para patio  jardín](https://www.amazon.es/dp/B079FKHYJ8/?tag=tolees-21) con un 25.03 % de descuento con precio de oferta de 26.99 EUR (original: 36 EUR) en el siguiente enlace!

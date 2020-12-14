@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LCF3NFJ/?tag=tolees-21'
 descuento: '40.01'
+average: '35.99'
 ---
 
 Está [Bolsas de Vacío 12 pack 20x500cm Bolsas Profesional para la Conservación Sous Vide Cocina  Aprobación de la FDA y BPA Free](https://www.amazon.es/dp/B07LCF3NFJ/?tag=tolees-21) con 40.01 de descuento por 35.99 EUR (original: 59.99 EUR) en el siguiente enlace!

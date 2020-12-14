@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MD2NADA/?tag=tolees-21'
 descuento: '29.44'
+average: '127'
 ---
 
 Tienes [Taurus Laurent-Microondas  900 W  25 litros Capacidad  14 Niveles de Potencia  Multiples Funciones   Gris](https://www.amazon.es/dp/B01MD2NADA/?tag=tolees-21) con un 29.44 % de descuento con precio de oferta de 127 EUR (original: 179.99 EUR) en el siguiente enlace!

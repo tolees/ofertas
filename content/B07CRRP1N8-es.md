@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CRRP1N8/?tag=tolees-21'
 descuento: '53.55'
+average: '10.66'
 ---
 
 Está [Selene Dalia Sujetador con Aros  Mujer   Burdeos   110  Tamaño del Fabricante:D.110 ](https://www.amazon.es/dp/B07CRRP1N8/?tag=tolees-21) con 53.55 de descuento por 10.66 EUR (original: 22.95 EUR) en el siguiente enlace!

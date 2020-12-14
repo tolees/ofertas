@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FXSX51Y/?tag=tolees-21'
 descuento: '26.91'
+average: '53.32'
 ---
 
 Está [ThunderX3 TK50RD- Teclado gaming mecánico-  12 Perfiles Retroiluminación LED  Switch Rojo  Mayor precisión y rendimiento  respuesta ultra rápida  Color Negro](https://www.amazon.es/dp/B01FXSX51Y/?tag=tolees-21) con 26.91 de descuento por 53.32 EUR (original: 72.95 EUR) en el siguiente enlace!

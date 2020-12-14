@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B016BJ7KZQ/?tag=tolees-21'
 descuento: '30.59'
+average: '62.46'
 ---
 
 Ahora mismo tienes [Oregon Scientific RAR-502 Estación meteorológica multizona  Negro  6x21x15 cm](https://www.amazon.es/dp/B016BJ7KZQ/?tag=tolees-21) a 62.46 EUR (original: 89.99 EUR) (30.59 %  de descuento) en el siguiente enlace!

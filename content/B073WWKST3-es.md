@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073WWKST3/?tag=tolees-21'
 descuento: '71.91'
+average: '25.43'
 ---
 
 Está [fozela Soundbar Bluetooth  estéreo inalámbrico Bluetooth Barra Sonido Audio casa Doble Subwoofers para la Baja Apoyo Tarjeta TF/3 5 mm AUX para TV/PC/Ordenador portátil/Smartphones](https://www.amazon.es/dp/B073WWKST3/?tag=tolees-21) con 71.91 de descuento por 25.43 EUR (original: 90.54 EUR) en el siguiente enlace!

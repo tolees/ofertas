@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFT4RR3/?tag=tolees-21'
 descuento: '40.49'
+average: '32.73'
 ---
 
 Ahora mismo tienes [New Balance Tekela Magique  Botas de fútbol Unisex Niños  Azul  Polaris/Galaxy/Flame Pg1   35 EU](https://www.amazon.es/dp/B07DFT4RR3/?tag=tolees-21) a 32.73 EUR (original: 55 EUR) (40.49 %  de descuento) en el siguiente enlace!

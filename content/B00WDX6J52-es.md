@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00WDX6J52/?tag=tolees-21'
 descuento: '34.01'
+average: '39.56'
 ---
 
 Está [ICHI Coca DR-Vestido Mujer  Blau  China Blue 14086  42](https://www.amazon.es/dp/B00WDX6J52/?tag=tolees-21) con 34.01 de descuento por 39.56 EUR (original: 59.95 EUR) en el siguiente enlace!

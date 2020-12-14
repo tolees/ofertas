@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DQ1KQLY/?tag=tolees-21'
 descuento: '84.21'
+average: '11.04'
 ---
 
 Ahora mismo tienes [Urban Classics Ladies Soft Sherpa Coat  Abrigos Hombre para Mujer  Negro  Black 00007  Medium](https://www.amazon.es/dp/B07DQ1KQLY/?tag=tolees-21) a 11.04 EUR (original: 69.9 EUR) (84.21 %  de descuento) en el siguiente enlace!

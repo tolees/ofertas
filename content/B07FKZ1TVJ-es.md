@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FKZ1TVJ/?tag=tolees-21'
 descuento: '50.14'
+average: '8.95'
 ---
 
 Ahora mismo tienes [JACK & JONES Jcologan Sweat Hood Zal Capucha  Verde  Rosin Print: JJ Artwork   Large para Hombre](https://www.amazon.es/dp/B07FKZ1TVJ/?tag=tolees-21) a 8.95 EUR (original: 17.95 EUR) (50.14 %  de descuento) en el siguiente enlace!

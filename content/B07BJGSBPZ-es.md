@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BJGSBPZ/?tag=tolees-21'
 descuento: '75.02'
+average: '2.99'
 ---
 
 Está [Dove Desodorante 0% Men Clean Comfort - 3 Paquetes de 150 ml: Total: 450 ml](https://www.amazon.es/dp/B07BJGSBPZ/?tag=tolees-21) con 75.02 de descuento por 2.99 EUR (original: 11.97 EUR) en el siguiente enlace!

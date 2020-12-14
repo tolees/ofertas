@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072M9VWV3/?tag=tolees-21'
 descuento: '57.35'
+average: '11.51'
 ---
 
 Tienes [Only Onlfiluca L/s Oversize Pullover Knt suéter  Negro  Black Detail:w Gunmetal Glitter   42  Talla del Fabricante: X-Large  para Mujer](https://www.amazon.es/dp/B072M9VWV3/?tag=tolees-21) con un 57.35 % de descuento con precio de oferta de 11.51 EUR (original: 26.99 EUR) en el siguiente enlace!

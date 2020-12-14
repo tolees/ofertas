@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072TJRXFZ/?tag=tolees-21'
 descuento: '39.10'
+average: '54.78'
 ---
 
 Tienes [SHIMANO SHME2PG450SL00 - Zapatillas Ciclismo  45  Negro - Blanco  Hombre](https://www.amazon.es/dp/B072TJRXFZ/?tag=tolees-21) con un 39.10 % de descuento con precio de oferta de 54.78 EUR (original: 89.95 EUR) en el siguiente enlace!

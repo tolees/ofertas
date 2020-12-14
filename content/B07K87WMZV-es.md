@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K87WMZV/?tag=tolees-21'
 descuento: '58.82'
+average: '9.06'
 ---
 
 Está [Burton 2018 Neceser de Viaje  24 cm  1 litro](https://www.amazon.es/dp/B07K87WMZV/?tag=tolees-21) con 58.82 de descuento por 9.06 EUR (original: 22 EUR) en el siguiente enlace!

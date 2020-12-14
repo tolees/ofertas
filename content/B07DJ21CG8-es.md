@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ21CG8/?tag=tolees-21'
 descuento: '52.89'
+average: '32.98'
 ---
 
 Tienes [New Balance Flash v3  Zapatillas de Running para Hombre  Negro  Black/Marblehead/White Lb3   41.5 EU](https://www.amazon.es/dp/B07DJ21CG8/?tag=tolees-21) con un 52.89 % de descuento con precio de oferta de 32.98 EUR (original: 70 EUR) en el siguiente enlace!

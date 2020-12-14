@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073LYWFS5/?tag=tolees-21'
 descuento: '49.35'
+average: '14'
 ---
 
 Tienes [Monster S Ball - Edición Coleccionista [Blu-ray]](https://www.amazon.es/dp/B073LYWFS5/?tag=tolees-21) con un 49.35 % de descuento con precio de oferta de 14 EUR (original: 27.64 EUR) en el siguiente enlace!

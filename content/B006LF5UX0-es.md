@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B006LF5UX0/?tag=tolees-21'
 descuento: '32.55'
+average: '26.67'
 ---
 
 Ahora mismo tienes [Boucheron Boucheron Femme Agua de perfume Vaporizador 50 ml](https://www.amazon.es/dp/B006LF5UX0/?tag=tolees-21) a 26.67 EUR (original: 39.54 EUR) (32.55 %  de descuento) en el siguiente enlace!

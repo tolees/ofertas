@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DBXQHWS/?tag=tolees-21'
 descuento: '71.03'
+average: '23.16'
 ---
 
 Está [Puma Ignite Flash Evoknit SR Wn s  Zapatillas de Running para Mujer  Azul  Fair Aqua-Blazing Yellow   37 EU](https://www.amazon.es/dp/B07DBXQHWS/?tag=tolees-21) con 71.03 de descuento por 23.16 EUR (original: 79.95 EUR) en el siguiente enlace!

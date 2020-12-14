@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N0BIZK2/?tag=tolees-21'
 descuento: '39.17'
+average: '10.95'
 ---
 
 Tienes [Umbro Speed Chubasquero de Pesca  Hombre  Negro  XXL](https://www.amazon.es/dp/B01N0BIZK2/?tag=tolees-21) con un 39.17 % de descuento con precio de oferta de 10.95 EUR (original: 18 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078LW4CRY/?tag=tolees-21'
 descuento: '44.36'
+average: '27.79'
 ---
 
 Está [adidas Easy Vulc 2.0  Zapatillas de Skateboard para Hombre  Rojo Scarle/Cburgu/Ftwwht  45 1/3 EU](https://www.amazon.es/dp/B078LW4CRY/?tag=tolees-21) con 44.36 de descuento por 27.79 EUR (original: 49.95 EUR) en el siguiente enlace!

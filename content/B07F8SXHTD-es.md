@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F8SXHTD/?tag=tolees-21'
 descuento: '63.99'
+average: '27.57'
 ---
 
 Tienes [Reebok Royal Complete 2Lw  Zapatillas de Deporte para Hombre   Dark Brown/Stucco/White/Wild Khaki 000   43 EU](https://www.amazon.es/dp/B07F8SXHTD/?tag=tolees-21) con un 63.99 % de descuento con precio de oferta de 27.57 EUR (original: 76.56 EUR) en el siguiente enlace!

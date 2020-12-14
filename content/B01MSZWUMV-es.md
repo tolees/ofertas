@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MSZWUMV/?tag=tolees-21'
 descuento: '63.65'
+average: '23.39'
 ---
 
 Está [Asics Tennis Shoes Gel-Padel Pro 3 Sg Diva Blue / White / Shocking 41m](https://www.amazon.es/dp/B01MSZWUMV/?tag=tolees-21) con 63.65 de descuento por 23.39 EUR (original: 64.34 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F8LFWN3/?tag=tolees-21'
 descuento: '35.30'
+average: '32.99'
 ---
 
 Tienes [Sonico Limpiador Facial  Vinmori Sonic brocha con 12 velocidades de poro limpieza profunda  reducir el acné  anti envejecimiento piel cuidado cara masajeador  inalámbrico cargador impermeable IPX7](https://www.amazon.es/dp/B07F8LFWN3/?tag=tolees-21) con un 35.30 % de descuento con precio de oferta de 32.99 EUR (original: 50.99 EUR) en el siguiente enlace!

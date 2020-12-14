@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XSB1YRP/?tag=tolees-21'
 descuento: '44.46'
+average: '35.54'
 ---
 
 Está [New Balance Mt590V3  Zapatillas de Deporte Unisex Adulto  Mt590rp3  45 EU](https://www.amazon.es/dp/B06XSB1YRP/?tag=tolees-21) con 44.46 de descuento por 35.54 EUR (original: 63.99 EUR) en el siguiente enlace!

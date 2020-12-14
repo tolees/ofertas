@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LZM9F2O/?tag=tolees-21'
 descuento: '41.69'
+average: '11.93'
 ---
 
 Tienes [Venganza 1+2+3 Colección Vintage  Funda Vinilo  Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B01LZM9F2O/?tag=tolees-21) con un 41.69 % de descuento con precio de oferta de 11.93 EUR (original: 20.46 EUR) en el siguiente enlace!

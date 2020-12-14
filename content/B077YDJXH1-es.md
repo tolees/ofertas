@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077YDJXH1/?tag=tolees-21'
 descuento: '40.00'
+average: '29.97'
 ---
 
 Tienes [HIKARO Anorak con Capucha Mujer  Negro  Black   40  Talla del fabricante: Medium ](https://www.amazon.es/dp/B077YDJXH1/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 29.97 EUR (original: 49.95 EUR) en el siguiente enlace!

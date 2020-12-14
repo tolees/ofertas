@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073QMFS44/?tag=tolees-21'
 descuento: '50.00'
+average: '13'
 ---
 
 Tienes [FIND AMZ05 camisetas  Gris  Greymarl   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B073QMFS44/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 13 EUR (original: 26 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FLCZYX9/?tag=tolees-21'
 descuento: '55.00'
+average: '38.25'
 ---
 
 Está [Superdry Orange Label Ziphood  suéter para Hombre  Negro  Low Light Black Grit Vwo   Small](https://www.amazon.es/dp/B07FLCZYX9/?tag=tolees-21) con 55.00 de descuento por 38.25 EUR (original: 85 EUR) en el siguiente enlace!

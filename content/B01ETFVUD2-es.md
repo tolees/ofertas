@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01ETFVUD2/?tag=tolees-21'
 descuento: '26.21'
+average: '70.1'
 ---
 
 Tienes [Imperial Confort Oslo - Colchón viscosoft - 105 x 190 x 21 - Color blanco](https://www.amazon.es/dp/B01ETFVUD2/?tag=tolees-21) con un 26.21 % de descuento con precio de oferta de 70.1 EUR (original: 95 EUR) en el siguiente enlace!

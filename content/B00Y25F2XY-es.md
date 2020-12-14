@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00Y25F2XY/?tag=tolees-21'
 descuento: '60.06'
+average: '9.98'
 ---
 
 Tienes [Philips Bass+ SHL3070WT - Auriculares con Cable  Bajos potentes  Plegables  Ligeros y Elegantes  Blanco](https://www.amazon.es/dp/B00Y25F2XY/?tag=tolees-21) con un 60.06 % de descuento con precio de oferta de 9.98 EUR (original: 24.99 EUR) en el siguiente enlace!

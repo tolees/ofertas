@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073SBRHC5/?tag=tolees-21'
 descuento: '53.51'
+average: '23.22'
 ---
 
 Tienes [Trucco - Pantalones para mujer  color azul oscuro  talla 40](https://www.amazon.es/dp/B073SBRHC5/?tag=tolees-21) con un 53.51 % de descuento con precio de oferta de 23.22 EUR (original: 49.95 EUR) en el siguiente enlace!

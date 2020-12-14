@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LYQJ7CI/?tag=tolees-21'
 descuento: '30.01'
+average: '20.99'
 ---
 
 Ahora mismo tienes [Arlo Accesorio oficial - Kit de 3 Fundas de Silicona para cámaras Arlo Accesorio oficial Pro  Resistentes a los Rayos UV y al Agua   Color Negro  VMA4200B](https://www.amazon.es/dp/B01LYQJ7CI/?tag=tolees-21) a 20.99 EUR (original: 29.99 EUR) (30.01 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01L44CZGC/?tag=tolees-21'
 descuento: '71.47'
+average: '31.37'
 ---
 
 Tienes [Scotch & Soda 135101-Slim  Estrechos  Hombre Azul  Fresh Curse  34W x 32L](https://www.amazon.es/dp/B01L44CZGC/?tag=tolees-21) con un 71.47 % de descuento con precio de oferta de 31.37 EUR (original: 109.95 EUR) en el siguiente enlace!

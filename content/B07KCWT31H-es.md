@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KCWT31H/?tag=tolees-21'
 descuento: '60.90'
+average: '11.73'
 ---
 
 Ahora mismo tienes [Hurley Bloomer Photo PRM tee SS Camisetas  Hombre  iglu  S](https://www.amazon.es/dp/B07KCWT31H/?tag=tolees-21) a 11.73 EUR (original: 30 EUR) (60.90 %  de descuento) en el siguiente enlace!

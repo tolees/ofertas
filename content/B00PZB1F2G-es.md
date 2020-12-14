@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00PZB1F2G/?tag=tolees-21'
 descuento: '33.44'
+average: '35.45'
 ---
 
 Tienes [Nike Wmns Court Royale  Zapatillas para Mujer  Negro  Black/White 010   38 EU](https://www.amazon.es/dp/B00PZB1F2G/?tag=tolees-21) con un 33.44 % de descuento con precio de oferta de 35.45 EUR (original: 53.26 EUR) en el siguiente enlace!

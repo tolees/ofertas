@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FMNH1FY/?tag=tolees-21'
 descuento: '25.43'
+average: '85.16'
 ---
 
 Ahora mismo tienes [Imperial Confort Copenhague - Colchón viscoelástico - 90 x 180 x 21 -Color blanco](https://www.amazon.es/dp/B07FMNH1FY/?tag=tolees-21) a 85.16 EUR (original: 114.2 EUR) (25.43 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077VSFP84/?tag=tolees-21'
 descuento: '52.37'
+average: '23.79'
 ---
 
 Ahora mismo tienes [Adidas Qt Vulc 2.0 W  Zapatillas de Deporte para Mujer  Azul  Maruni/Aerorr / Ftwbla 000   37 1/3 EU](https://www.amazon.es/dp/B077VSFP84/?tag=tolees-21) a 23.79 EUR (original: 49.95 EUR) (52.37 %  de descuento) en el siguiente enlace!

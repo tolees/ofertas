@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074NSD8XW/?tag=tolees-21'
 descuento: '49.30'
+average: '12.67'
 ---
 
 Está [Yamamoto Nutrition Essential Amino Acid Supplement - 240 Tabletas](https://www.amazon.es/dp/B074NSD8XW/?tag=tolees-21) con 49.30 de descuento por 12.67 EUR (original: 24.99 EUR) en el siguiente enlace!

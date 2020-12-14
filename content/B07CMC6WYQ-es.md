@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CMC6WYQ/?tag=tolees-21'
 descuento: '56.45'
+average: '17.39'
 ---
 
 Está [San Jamón Vino Tinto Rioja Toro Tierra de Castilla y León - Paquete de 6 x 750 ml - Total: 4500 ml](https://www.amazon.es/dp/B07CMC6WYQ/?tag=tolees-21) con 56.45 de descuento por 17.39 EUR (original: 39.93 EUR) en el siguiente enlace!

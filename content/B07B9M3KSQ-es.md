@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B9M3KSQ/?tag=tolees-21'
 descuento: '53.11'
+average: '32.8'
 ---
 
 Está [Skechers Soven-Vandor  Zapatillas Altas para Hombre  Negro  Black Blk   45.5 EU](https://www.amazon.es/dp/B07B9M3KSQ/?tag=tolees-21) con 53.11 de descuento por 32.8 EUR (original: 69.95 EUR) en el siguiente enlace!

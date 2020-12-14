@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GJJYJD9/?tag=tolees-21'
 descuento: '69.71'
+average: '16.63'
 ---
 
 Está [Carrera Must Mid  Zapatillas de Cross para Hombre  Gris  Gray 03   42 EU](https://www.amazon.es/dp/B07GJJYJD9/?tag=tolees-21) con 69.71 de descuento por 16.63 EUR (original: 54.9 EUR) en el siguiente enlace!

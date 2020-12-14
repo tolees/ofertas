@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DRXT9LY/?tag=tolees-21'
 descuento: '55.12'
+average: '22.44'
 ---
 
 Está [Diadora Shape 10 SL  Zapatillas de Running Unisex Adulto  Negro Nero C0200  41 EU](https://www.amazon.es/dp/B07DRXT9LY/?tag=tolees-21) con 55.12 de descuento por 22.44 EUR (original: 50 EUR) en el siguiente enlace!

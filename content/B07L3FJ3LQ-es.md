@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L3FJ3LQ/?tag=tolees-21'
 descuento: '51.88'
+average: '38.45'
 ---
 
 Está [Tommy Hilfiger Core Corporate Seasonal Sneaker  Zapatillas para Hombre  Blanco  Off White 156   41 EU](https://www.amazon.es/dp/B07L3FJ3LQ/?tag=tolees-21) con 51.88 de descuento por 38.45 EUR (original: 79.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MSD2RWX/?tag=tolees-21'
 descuento: '37.38'
+average: '74.52'
 ---
 
 Tienes [Festina Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable F16981/4](https://www.amazon.es/dp/B01MSD2RWX/?tag=tolees-21) con un 37.38 % de descuento con precio de oferta de 74.52 EUR (original: 119 EUR) en el siguiente enlace!

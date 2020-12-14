@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZHCRJ3/?tag=tolees-21'
 descuento: '55.92'
+average: '39.67'
 ---
 
 Está [Asics Onitsuka Tiger California 78 Ex  Zapatillas Unisex Adulto  Azul Port Royal 600  44 EU](https://www.amazon.es/dp/B07CZHCRJ3/?tag=tolees-21) con 55.92 de descuento por 39.67 EUR (original: 90 EUR) en el siguiente enlace!

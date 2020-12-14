@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072QL6X3L/?tag=tolees-21'
 descuento: '61.64'
+average: '9.97'
 ---
 
 Tienes [4pcs toalla de deporte refrescante KAKOO paño frío de toalla hielo fría instantánea de ejercicios de toallas secado rápido para gimnasio tenis  yoga](https://www.amazon.es/dp/B072QL6X3L/?tag=tolees-21) con un 61.64 % de descuento con precio de oferta de 9.97 EUR (original: 25.99 EUR) en el siguiente enlace!

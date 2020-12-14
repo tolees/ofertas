@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078WFKHYH/?tag=tolees-21'
 descuento: '46.00'
+average: '16.2'
 ---
 
 Tienes [The North Face Ascentials TNF Gorros  Unisex adulto  TNF Black  Talla única](https://www.amazon.es/dp/B078WFKHYH/?tag=tolees-21) con un 46.00 % de descuento con precio de oferta de 16.2 EUR (original: 30 EUR) en el siguiente enlace!

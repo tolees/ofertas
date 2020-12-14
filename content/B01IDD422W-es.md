@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IDD422W/?tag=tolees-21'
 descuento: '31.93'
+average: '27.9'
 ---
 
 Tienes [Dragon Quest VII: Fragmentos De Un Pasado Olvidado](https://www.amazon.es/dp/B01IDD422W/?tag=tolees-21) con un 31.93 % de descuento con precio de oferta de 27.9 EUR (original: 40.99 EUR) en el siguiente enlace!

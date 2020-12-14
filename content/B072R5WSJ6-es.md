@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072R5WSJ6/?tag=tolees-21'
 descuento: '44.56'
+average: '36.01'
 ---
 
 Ahora mismo tienes [Skechers 15372  Zapatillas sin Cordones para Mujer  Azul  Navy   37 EU](https://www.amazon.es/dp/B072R5WSJ6/?tag=tolees-21) a 36.01 EUR (original: 64.95 EUR) (44.56 %  de descuento) en el siguiente enlace!

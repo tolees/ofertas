@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078ZL4WJL/?tag=tolees-21'
 descuento: '73.16'
+average: '24.13'
 ---
 
 Está [Supra Factor  Zapatillas Unisex Adulto  Negro  Black/Lt Grey-White 071   42 EU](https://www.amazon.es/dp/B078ZL4WJL/?tag=tolees-21) con 73.16 de descuento por 24.13 EUR (original: 89.9 EUR) en el siguiente enlace!

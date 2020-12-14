@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07TMCRP5D/?tag=tolees-21'
 descuento: '32.01'
+average: '33.99'
 ---
 
 Tienes [Mini Aire Acondicionado Móvil  Climatizador Evaporativo，Humidificador con 3 velocidades  Filtro con Algodón Antibacteriano  Tanque de agua sin Fuga  USB  Luz Nocturna para Hogar  Oficina y coche](https://www.amazon.es/dp/B07TMCRP5D/?tag=tolees-21) con un 32.01 % de descuento con precio de oferta de 33.99 EUR (original: 49.99 EUR) en el siguiente enlace!

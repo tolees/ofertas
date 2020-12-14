@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078YFXQL2/?tag=tolees-21'
 descuento: '54.65'
+average: '31.29'
 ---
 
 Ahora mismo tienes [Lorus Reloj Analogico para Mujer de Cuarzo con Correa en Bañada en Oro RG202NX9](https://www.amazon.es/dp/B078YFXQL2/?tag=tolees-21) a 31.29 EUR (original: 69 EUR) (54.65 %  de descuento) en el siguiente enlace!

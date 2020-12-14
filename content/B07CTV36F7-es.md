@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CTV36F7/?tag=tolees-21'
 descuento: '26.68'
+average: '21.99'
 ---
 
 Ahora mismo tienes [Reloj Inteligente  Elec.BGS Bluetooth Pantalla Táctil Smartwatch con Cámara Tarjeta SIM Impermeable Sports Fitness Tracker Smart Wrist para iPhone Android Samsung Huawei Sony  Silver ](https://www.amazon.es/dp/B07CTV36F7/?tag=tolees-21) a 21.99 EUR (original: 29.99 EUR) (26.68 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BHP8P23/?tag=tolees-21'
 descuento: '58.08'
+average: '25.99'
 ---
 
 Ahora mismo tienes [Topmo-plus 8W Lámpara de pared LED OSRAM SMD Aplique de pared Diseño de Bañadores para interior / exterior a prueba de agua IP65 aluminio Spotlight living / terraza / jardín 15CM gris  blanco cálido ](https://www.amazon.es/dp/B07BHP8P23/?tag=tolees-21) a 25.99 EUR (original: 62 EUR) (58.08 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K4WF5PZ/?tag=tolees-21'
 descuento: '30.14'
+average: '20.95'
 ---
 
 Está [JACK & JONES Jorantwon Sweat Hood Capucha  Gris  Light Grey Melange Fit: Reg Originals   Small para Hombre](https://www.amazon.es/dp/B07K4WF5PZ/?tag=tolees-21) con 30.14 de descuento por 20.95 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N7A7PHB/?tag=tolees-21'
 descuento: '28.50'
+average: '8.98'
 ---
 
 Tienes [adidas 6P 3S Cotto Gorra  Hombre  Negro/Blanco  Talla única](https://www.amazon.es/dp/B01N7A7PHB/?tag=tolees-21) con un 28.50 % de descuento con precio de oferta de 8.98 EUR (original: 12.56 EUR) en el siguiente enlace!

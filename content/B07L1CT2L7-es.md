@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L1CT2L7/?tag=tolees-21'
 descuento: '35.06'
+average: '14.76'
 ---
 
 Ahora mismo tienes [AMEU 12 - Herramienta Chaflán de Biselado  Acero Inoxidable  Eliminar Broca para Metal Diámetro Exterior Externo  de desbarbado  de Rebabas](https://www.amazon.es/dp/B07L1CT2L7/?tag=tolees-21) a 14.76 EUR (original: 22.73 EUR) (35.06 %  de descuento) en el siguiente enlace!

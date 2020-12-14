@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N65OZVR/?tag=tolees-21'
 descuento: '53.95'
+average: '69'
 ---
 
 Tienes [Asics Noosa Ff  Zapatillas de running Mujer  Multicolor  Black/Bay/Viridian Green   39.5 EU](https://www.amazon.es/dp/B01N65OZVR/?tag=tolees-21) con un 53.95 % de descuento con precio de oferta de 69 EUR (original: 149.85 EUR) en el siguiente enlace!

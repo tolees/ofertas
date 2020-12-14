@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BFKRBVR/?tag=tolees-21'
 descuento: '72.72'
+average: '21.82'
 ---
 
 Está [ESPRIT Astro Glitt Lu  Zapatillas para Mujer  Rosa  Dark Old Pink 675   36 EU](https://www.amazon.es/dp/B07BFKRBVR/?tag=tolees-21) con 72.72 de descuento por 21.82 EUR (original: 79.99 EUR) en el siguiente enlace!

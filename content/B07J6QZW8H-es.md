@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J6QZW8H/?tag=tolees-21'
 descuento: '47.82'
+average: '88.66'
 ---
 
 Tienes [Liu Jo - Tiberina  cartera Mujer  Negro  Nero   11x19x27 cm  B x H T ](https://www.amazon.es/dp/B07J6QZW8H/?tag=tolees-21) con un 47.82 % de descuento con precio de oferta de 88.66 EUR (original: 169.9 EUR) en el siguiente enlace!

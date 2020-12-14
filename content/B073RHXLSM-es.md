@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073RHXLSM/?tag=tolees-21'
 descuento: '68.70'
+average: '17.2'
 ---
 
 Está [Reebok Bs7010  Zapatillas de Running para Mujer  Morado  HS Shadow/Lilac Glow/Gua Punch/Wht   35.5 EU](https://www.amazon.es/dp/B073RHXLSM/?tag=tolees-21) con 68.70 de descuento por 17.2 EUR (original: 54.95 EUR) en el siguiente enlace!

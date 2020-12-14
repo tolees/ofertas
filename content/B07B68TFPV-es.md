@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B68TFPV/?tag=tolees-21'
 descuento: '26.41'
+average: '29.4'
 ---
 
 Tienes [Skechers Go 600-fun Run  Zapatillas para Niñas  Negro  Black/Multi Bkmt   33 EU](https://www.amazon.es/dp/B07B68TFPV/?tag=tolees-21) con un 26.41 % de descuento con precio de oferta de 29.4 EUR (original: 39.95 EUR) en el siguiente enlace!

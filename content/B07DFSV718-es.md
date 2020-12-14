@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFSV718/?tag=tolees-21'
 descuento: '53.28'
+average: '35.04'
 ---
 
 Ahora mismo tienes [New Balance Gw500v1  Zapatillas de Deporte para Mujer  Rosa  Pink/White/Silver Npk   37.5 EU](https://www.amazon.es/dp/B07DFSV718/?tag=tolees-21) a 35.04 EUR (original: 75 EUR) (53.28 %  de descuento) en el siguiente enlace!

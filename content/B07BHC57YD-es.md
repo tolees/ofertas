@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BHC57YD/?tag=tolees-21'
 descuento: '38.56'
+average: '24.57'
 ---
 
 Está [COOLWAY MUSSA  Zapatillas Altas para Mujer  Negro  Blk 000   41 EU](https://www.amazon.es/dp/B07BHC57YD/?tag=tolees-21) con 38.56 de descuento por 24.57 EUR (original: 39.99 EUR) en el siguiente enlace!

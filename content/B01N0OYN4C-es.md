@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N0OYN4C/?tag=tolees-21'
 descuento: '63.56'
+average: '12.75'
 ---
 
 Ahora mismo tienes [Retro Gaming - Player S Kit 6 En 1  PS4 ](https://www.amazon.es/dp/B01N0OYN4C/?tag=tolees-21) a 12.75 EUR (original: 34.99 EUR) (63.56 %  de descuento) en el siguiente enlace!

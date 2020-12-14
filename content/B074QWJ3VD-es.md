@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074QWJ3VD/?tag=tolees-21'
 descuento: '78.16'
+average: '16.38'
 ---
 
 Ahora mismo tienes [El Ganso 1020s180039 Pantalones  Hombre  Azul  Claro Pastel Único   48  Tamaño del Fabricante:48 ](https://www.amazon.es/dp/B074QWJ3VD/?tag=tolees-21) a 16.38 EUR (original: 75 EUR) (78.16 %  de descuento) en el siguiente enlace!

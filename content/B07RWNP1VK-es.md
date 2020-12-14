@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RWNP1VK/?tag=tolees-21'
 descuento: '33.30'
+average: '21.99'
 ---
 
 Ahora mismo tienes [NIVEA SUN crema solar facial FP50  + Protege & Refresca Spray Solar FP50 + After Sun Loción Hidratante](https://www.amazon.es/dp/B07RWNP1VK/?tag=tolees-21) a 21.99 EUR (original: 32.97 EUR) (33.30 %  de descuento) en el siguiente enlace!

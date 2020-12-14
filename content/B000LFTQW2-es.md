@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000LFTQW2/?tag=tolees-21'
 descuento: '33.49'
+average: '14.54'
 ---
 
 Ahora mismo tienes [Silverline WR50 Llave Inglesa Ajustable  Longitud 375 mm  Apertura 41 mm](https://www.amazon.es/dp/B000LFTQW2/?tag=tolees-21) a 14.54 EUR (original: 21.86 EUR) (33.49 %  de descuento) en el siguiente enlace!

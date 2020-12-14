@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0759PTHJS/?tag=tolees-21'
 descuento: '48.67'
+average: '51.3'
 ---
 
 Tienes [Clarks Reazor Edge  Mocasines para Hombre  Azul  Navy Nubuck-   46 EU](https://www.amazon.es/dp/B0759PTHJS/?tag=tolees-21) con un 48.67 % de descuento con precio de oferta de 51.3 EUR (original: 99.95 EUR) en el siguiente enlace!

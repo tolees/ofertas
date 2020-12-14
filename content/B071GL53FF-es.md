@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071GL53FF/?tag=tolees-21'
 descuento: '44.44'
+average: '13.99'
 ---
 
 Está [MagiDeal Lámpara de Techo Forma de Bola de Tela Tejida de Mimbre Luz Colgante Interior 20CM Decoración de Cafetería de Restaurante de Hogar - púrpura](https://www.amazon.es/dp/B071GL53FF/?tag=tolees-21) con 44.44 de descuento por 13.99 EUR (original: 25.18 EUR) en el siguiente enlace!

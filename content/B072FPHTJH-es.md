@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072FPHTJH/?tag=tolees-21'
 descuento: '56.36'
+average: '60.4'
 ---
 
 Tienes [Nike W Air Zoom Terra Kiger 4  Zapatillas de Running para Mujer   Negro/Gris Oscuro/Voltio 002   38 EU](https://www.amazon.es/dp/B072FPHTJH/?tag=tolees-21) con un 56.36 % de descuento con precio de oferta de 60.4 EUR (original: 138.4 EUR) en el siguiente enlace!

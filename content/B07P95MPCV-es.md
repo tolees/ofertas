@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07P95MPCV/?tag=tolees-21'
 descuento: '40.03'
+average: '29.98'
 ---
 
 Tienes [BOBLOV Mini Cámara 1080P Full HD con Grabadora de Audio Mini Videocámara Clip Trasero Fácil de Operar para Enseñanza/Recorrido/Conferencia/Entrevista/Registro de Monitor de bebé y ect](https://www.amazon.es/dp/B07P95MPCV/?tag=tolees-21) con un 40.03 % de descuento con precio de oferta de 29.98 EUR (original: 49.99 EUR) en el siguiente enlace!

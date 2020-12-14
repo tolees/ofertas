@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N1GW8NO/?tag=tolees-21'
 descuento: '76.44'
+average: '21.19'
 ---
 
 Está [Puma Fierce Lace Wn s  Zapatillas Deportivas para Interior para Mujer  Negro Black White 02  42 EU](https://www.amazon.es/dp/B01N1GW8NO/?tag=tolees-21) con 76.44 de descuento por 21.19 EUR (original: 89.95 EUR) en el siguiente enlace!

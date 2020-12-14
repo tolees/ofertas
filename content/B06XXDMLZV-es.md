@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XXDMLZV/?tag=tolees-21'
 descuento: '53.37'
+average: '41.97'
 ---
 
 Tienes [New Balance Fresh Foam Lazr Sport  Zapatillas de Running para Hombre  Gris  Grey/Black   44 EU](https://www.amazon.es/dp/B06XXDMLZV/?tag=tolees-21) con un 53.37 % de descuento con precio de oferta de 41.97 EUR (original: 90 EUR) en el siguiente enlace!

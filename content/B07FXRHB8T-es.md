@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FXRHB8T/?tag=tolees-21'
 descuento: '53.67'
+average: '8.2'
 ---
 
 Tienes [NaturGreen Paté Campestre a base de Verduras - Pack de 6 unidades de 125 gr](https://www.amazon.es/dp/B07FXRHB8T/?tag=tolees-21) con un 53.67 % de descuento con precio de oferta de 8.2 EUR (original: 17.7 EUR) en el siguiente enlace!

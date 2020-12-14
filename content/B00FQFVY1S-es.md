@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00FQFVY1S/?tag=tolees-21'
 descuento: '55.20'
+average: '8.96'
 ---
 
 Está [Versa 18550655 - Azucarero  color verde](https://www.amazon.es/dp/B00FQFVY1S/?tag=tolees-21) con 55.20 de descuento por 8.96 EUR (original: 20 EUR) en el siguiente enlace!

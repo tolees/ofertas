@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PSL45DK/?tag=tolees-21'
 descuento: '41.67'
+average: '34.99'
 ---
 
 Está [SUAOKI K12 - Jump Starter de 8000mAh 300A Batería Arrancador de Coche  Diseño Delgado  Batería Externa Portátil  Arranque Kit para Coche  LED ](https://www.amazon.es/dp/B07PSL45DK/?tag=tolees-21) con 41.67 de descuento por 34.99 EUR (original: 59.99 EUR) en el siguiente enlace!

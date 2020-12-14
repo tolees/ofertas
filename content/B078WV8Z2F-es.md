@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078WV8Z2F/?tag=tolees-21'
 descuento: '56.39'
+average: '10.21'
 ---
 
 Está [Inside @CBE20 Pantalones Cortos Deportivos  Hombre  Azul  Azul 20   36  Tamaño del Fabricante:36 ](https://www.amazon.es/dp/B078WV8Z2F/?tag=tolees-21) con 56.39 de descuento por 10.21 EUR (original: 23.41 EUR) en el siguiente enlace!

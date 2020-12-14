@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B019QNF4CU/?tag=tolees-21'
 descuento: '42.11'
+average: '22'
 ---
 
 Ahora mismo tienes [Crema Hidratante Facial LUMIÈRE - Crema Matificante  Reafirmante  Extracto de Bambú Orgánico  Aceites y Minerales del Polvo de Arroz - Antimanchas y Antiarrugas - BioSphère Naturel France](https://www.amazon.es/dp/B019QNF4CU/?tag=tolees-21) a 22 EUR (original: 38 EUR) (42.11 %  de descuento) en el siguiente enlace!

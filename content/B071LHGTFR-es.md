@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071LHGTFR/?tag=tolees-21'
 descuento: '60.01'
+average: '29.99'
 ---
 
 Ahora mismo tienes [LESHP Teclado Mecánico Gaming con Disposición Española  retroiluminación LED de 6 colores  88 teclas  tiene ñ ](https://www.amazon.es/dp/B071LHGTFR/?tag=tolees-21) a 29.99 EUR (original: 75 EUR) (60.01 %  de descuento) en el siguiente enlace!

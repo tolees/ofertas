@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FSDOTBE/?tag=tolees-21'
 descuento: '46.94'
+average: '37.14'
 ---
 
 Está [New Balance 490v4  Zapatillas de Running Hombre  Azul  Dark Denim   43 EU](https://www.amazon.es/dp/B01FSDOTBE/?tag=tolees-21) con 46.94 de descuento por 37.14 EUR (original: 70 EUR) en el siguiente enlace!

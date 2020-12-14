@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CRJ32NW/?tag=tolees-21'
 descuento: '73.96'
+average: '14.32'
 ---
 
 Tienes [Pepe Jeans Finly Jeans  Azul  Rinse Denim Bj3   8 años  Talla del Fabricante: 8  para Niños](https://www.amazon.es/dp/B07CRJ32NW/?tag=tolees-21) con un 73.96 % de descuento con precio de oferta de 14.32 EUR (original: 55 EUR) en el siguiente enlace!

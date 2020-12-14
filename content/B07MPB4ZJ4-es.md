@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MPB4ZJ4/?tag=tolees-21'
 descuento: '33.36'
+average: '9.99'
 ---
 
 Tienes [Albrillo Luz Trasera para Bicicleta - Potente LED Faro Trasero Bici  Recargable USB  Muy Luminoso  Impermeable y Fácil de Instalar  Roja Luz de Cola  para Máxima Seguridad de Ciclismo](https://www.amazon.es/dp/B07MPB4ZJ4/?tag=tolees-21) con un 33.36 % de descuento con precio de oferta de 9.99 EUR (original: 14.99 EUR) en el siguiente enlace!

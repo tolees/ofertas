@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JZVFDF2/?tag=tolees-21'
 descuento: '51.68'
+average: '28.99'
 ---
 
 Tienes [iLifeSmart Radio Despertador Digital Reloj con Proyector  Reloj FM con Alarma Doble  Puerto USB  Pantalla Grande  Regulador  Temporizador de Apagado  12/24 Horas](https://www.amazon.es/dp/B07JZVFDF2/?tag=tolees-21) con un 51.68 % de descuento con precio de oferta de 28.99 EUR (original: 59.99 EUR) en el siguiente enlace!

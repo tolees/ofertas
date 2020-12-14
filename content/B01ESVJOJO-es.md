@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01ESVJOJO/?tag=tolees-21'
 descuento: '88.28'
+average: '18.76'
 ---
 
 Está [SHOE THE BEAR Emmy Fringes  Zapatillas Altas para Mujer  Beige  Taupe   39 EU](https://www.amazon.es/dp/B01ESVJOJO/?tag=tolees-21) con 88.28 de descuento por 18.76 EUR (original: 160 EUR) en el siguiente enlace!

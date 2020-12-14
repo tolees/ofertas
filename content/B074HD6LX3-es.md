@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074HD6LX3/?tag=tolees-21'
 descuento: '53.75'
+average: '46.23'
 ---
 
 Ahora mismo tienes [G-Star RAW Scuba Ii  Zapatillas para Hombre  Beige  Milk 111   41 EU](https://www.amazon.es/dp/B074HD6LX3/?tag=tolees-21) a 46.23 EUR (original: 99.95 EUR) (53.75 %  de descuento) en el siguiente enlace!

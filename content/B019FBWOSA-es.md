@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B019FBWOSA/?tag=tolees-21'
 descuento: '36.89'
+average: '18.9'
 ---
 
 Está [Conjunto de Auriculares y micrófono Xiaomi QTER01JY  MI Piston  Originales  híbrido intercomunicador  Color Plateado](https://www.amazon.es/dp/B019FBWOSA/?tag=tolees-21) con 36.89 de descuento por 18.9 EUR (original: 29.95 EUR) en el siguiente enlace!

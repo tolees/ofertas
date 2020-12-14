@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079NVVYYB/?tag=tolees-21'
 descuento: '26.32'
+average: '27.99'
 ---
 
 Está [Fdit Grúa portátil Profesional Digitaces 150 kilogramos LCD Digitaces Anzuelo Electrónico Balanza de Lazo para Granja para Casa Caza al Aire Libre Naranja ](https://www.amazon.es/dp/B079NVVYYB/?tag=tolees-21) con 26.32 de descuento por 27.99 EUR (original: 37.99 EUR) en el siguiente enlace!

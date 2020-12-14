@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D45YV7W/?tag=tolees-21'
 descuento: '45.56'
+average: '11.95'
 ---
 
 Ahora mismo tienes [Prime Socks No-Show Black 39-42](https://www.amazon.es/dp/B07D45YV7W/?tag=tolees-21) a 11.95 EUR (original: 21.95 EUR) (45.56 %  de descuento) en el siguiente enlace!

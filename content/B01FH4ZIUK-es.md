@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FH4ZIUK/?tag=tolees-21'
 descuento: '65.94'
+average: '15.31'
 ---
 
 Ahora mismo tienes [Under Armour UA HG Armour Printed Capri Pantalones  Mujer  Naranja  London Orange   SM](https://www.amazon.es/dp/B01FH4ZIUK/?tag=tolees-21) a 15.31 EUR (original: 44.95 EUR) (65.94 %  de descuento) en el siguiente enlace!

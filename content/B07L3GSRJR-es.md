@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L3GSRJR/?tag=tolees-21'
 descuento: '50.02'
+average: '14.99'
 ---
 
 Está [AiHom Portarrollos para Papel Higiénico con Estante 160mm Autoadhesivo sin Taladro Inoxidable Fuerte Capacidad de Carga para Cuarto de baño](https://www.amazon.es/dp/B07L3GSRJR/?tag=tolees-21) con 50.02 de descuento por 14.99 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GS2TTXB/?tag=tolees-21'
 descuento: '80.01'
+average: '19.99'
 ---
 
 Tienes [LOBKIN Auriculares Bluetooth  S2 Auriculares inalámbricos a Prueba de Agua IPX5  Altavoces estéreo HD con micrófono  Auriculares con cancelación de Ruido  Negro ](https://www.amazon.es/dp/B07GS2TTXB/?tag=tolees-21) con un 80.01 % de descuento con precio de oferta de 19.99 EUR (original: 99.99 EUR) en el siguiente enlace!

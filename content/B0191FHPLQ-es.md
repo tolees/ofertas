@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0191FHPLQ/?tag=tolees-21'
 descuento: '36.53'
+average: '13.9'
 ---
 
 Ahora mismo tienes [Underground Toys Star Wars - Set de imanes Darth Vader  Stormtrooper  Bobba Fett y Estrella de la Muerte](https://www.amazon.es/dp/B0191FHPLQ/?tag=tolees-21) a 13.9 EUR (original: 21.9 EUR) (36.53 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JNT4CYF/?tag=tolees-21'
 descuento: '62.87'
+average: '25.99'
 ---
 
 Ahora mismo tienes [HOMSCAM Pulsera Inteligente  Pulsera Actividad Impermeable IP68 con Monitor de Calorías  Monitor de Ritmo Cardíaco  Captura de cámara  Notificación de Mensajes para Android y iOS Teléfono móvil](https://www.amazon.es/dp/B07JNT4CYF/?tag=tolees-21) a 25.99 EUR (original: 69.99 EUR) (62.87 %  de descuento) en el siguiente enlace!

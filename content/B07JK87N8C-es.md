@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JK87N8C/?tag=tolees-21'
 descuento: '37.52'
+average: '14.99'
 ---
 
 Tienes [Audew Alcoholímetro Digital Portátil con Pantalla LCD Tecnología de Sensor Semi-Conductor con 5 Boquillas Desechables](https://www.amazon.es/dp/B07JK87N8C/?tag=tolees-21) con un 37.52 % de descuento con precio de oferta de 14.99 EUR (original: 23.99 EUR) en el siguiente enlace!

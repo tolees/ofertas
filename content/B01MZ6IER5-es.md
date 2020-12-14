@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MZ6IER5/?tag=tolees-21'
 descuento: '75.03'
+average: '39.95'
 ---
 
 Tienes [DAKINE de Split Roller ecuación 100L bolsa de viaje  negro  79 x 44 x 32 cm](https://www.amazon.es/dp/B01MZ6IER5/?tag=tolees-21) con un 75.03 % de descuento con precio de oferta de 39.95 EUR (original: 160 EUR) en el siguiente enlace!

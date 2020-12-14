@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZC66JG/?tag=tolees-21'
 descuento: '56.86'
+average: '25.88'
 ---
 
 Está [Under Armour Armour Fly Fast Raised Thread Crop Pantalones para Deporte  Mujer  Morado  Purple Prime/Jet Gray/Reflective 521   LG](https://www.amazon.es/dp/B07CZC66JG/?tag=tolees-21) con 56.86 de descuento por 25.88 EUR (original: 59.99 EUR) en el siguiente enlace!

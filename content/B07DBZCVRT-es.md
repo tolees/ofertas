@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DBZCVRT/?tag=tolees-21'
 descuento: '79.81'
+average: '19.99'
 ---
 
 Está [DAMIGRAM Pulsera Actividad  Pulsera Inteligente con Pulsómetro Impermeable Bluetooth Deporte Podómetro](https://www.amazon.es/dp/B07DBZCVRT/?tag=tolees-21) con 79.81 de descuento por 19.99 EUR (original: 99 EUR) en el siguiente enlace!

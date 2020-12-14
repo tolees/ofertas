@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003IX0CXG/?tag=tolees-21'
 descuento: '57.95'
+average: '44.99'
 ---
 
 Tienes [Wenko Toallero  Acero  Plateado  20x41x85.5 cm](https://www.amazon.es/dp/B003IX0CXG/?tag=tolees-21) con un 57.95 % de descuento con precio de oferta de 44.99 EUR (original: 106.99 EUR) en el siguiente enlace!

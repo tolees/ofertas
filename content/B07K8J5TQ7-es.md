@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K8J5TQ7/?tag=tolees-21'
 descuento: '73.37'
+average: '2.99'
 ---
 
 Tienes [Alicates multiherramientas portátiles de acero inoxidable mini multifunción alicates para regalo de empresa/al aire libre](https://www.amazon.es/dp/B07K8J5TQ7/?tag=tolees-21) con un 73.37 % de descuento con precio de oferta de 2.99 EUR (original: 11.23 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N03YPF0/?tag=tolees-21'
 descuento: '35.38'
+average: '46.83'
 ---
 
 Está [Timex TW4B09400 - Reloj de pulsera para hombre de cuarzo  con esfera digital y correa de resina](https://www.amazon.es/dp/B01N03YPF0/?tag=tolees-21) con 35.38 de descuento por 46.83 EUR (original: 72.47 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MG3ILCE/?tag=tolees-21'
 descuento: '57.14'
+average: '30'
 ---
 
 Está [Creative Labs Live! CAM IP SmartHD - Cámara de vigilancia por WiFi  Color Negro](https://www.amazon.es/dp/B01MG3ILCE/?tag=tolees-21) con 57.14 de descuento por 30 EUR (original: 69.99 EUR) en el siguiente enlace!

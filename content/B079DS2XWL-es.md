@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079DS2XWL/?tag=tolees-21'
 descuento: '28.58'
+average: '49.99'
 ---
 
 Tienes [Auriculares Bluetooth FITFORT Cascos Inalámbricos de Diadema con Bluetooth 4.1  Cancelación Activa de Ruido  Plegable con Estéreo  Micrófono Incorporado para iphone Android PC TV Tablets](https://www.amazon.es/dp/B079DS2XWL/?tag=tolees-21) con un 28.58 % de descuento con precio de oferta de 49.99 EUR (original: 69.99 EUR) en el siguiente enlace!

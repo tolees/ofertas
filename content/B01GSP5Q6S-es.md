@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GSP5Q6S/?tag=tolees-21'
 descuento: '69.87'
+average: '33.14'
 ---
 
 Tienes [Under Armour Ua W Charged Core Zapatillas de deporte exterior Mujer  Negro  Black 003   38 EU  4.5 UK ](https://www.amazon.es/dp/B01GSP5Q6S/?tag=tolees-21) con un 69.87 % de descuento con precio de oferta de 33.14 EUR (original: 110 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07871FDJZ/?tag=tolees-21'
 descuento: '30.54'
+average: '62.51'
 ---
 
 Ahora mismo tienes [Lacoste - Nf2423wm  Carteras Mujer  Azul  Peacoat Greener   2x10.5x19 cm  W x H L ](https://www.amazon.es/dp/B07871FDJZ/?tag=tolees-21) a 62.51 EUR (original: 90 EUR) (30.54 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JHNNJSN/?tag=tolees-21'
 descuento: '25.92'
+average: '43.89'
 ---
 
 Está [WOOTBOX Harry Potter – Talla L – Box Regalo](https://www.amazon.es/dp/B07JHNNJSN/?tag=tolees-21) con 25.92 de descuento por 43.89 EUR (original: 59.25 EUR) en el siguiente enlace!

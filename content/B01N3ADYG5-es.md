@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N3ADYG5/?tag=tolees-21'
 descuento: '59.84'
+average: '56.23'
 ---
 
 Tienes [The North Face W Hedgehog Hike GTX  Botas de Senderismo para Mujer  Gris  Dark Gull Grey   36/37 EU](https://www.amazon.es/dp/B01N3ADYG5/?tag=tolees-21) con un 59.84 % de descuento con precio de oferta de 56.23 EUR (original: 140 EUR) en el siguiente enlace!

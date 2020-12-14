@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MXR04SR/?tag=tolees-21'
 descuento: '74.33'
+average: '12.83'
 ---
 
 Ahora mismo tienes [edc by Esprit 027cc1b032  Pantalones para Mujer  Azul  Light Blue Lavender   W32  Talla del Fabricante: 32/REG ](https://www.amazon.es/dp/B01MXR04SR/?tag=tolees-21) a 12.83 EUR (original: 49.99 EUR) (74.33 %  de descuento) en el siguiente enlace!

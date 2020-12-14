@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CBGY7K5/?tag=tolees-21'
 descuento: '43.27'
+average: '16.99'
 ---
 
 Está [Blue Bird A1400 Programador de Grifo para riego automático](https://www.amazon.es/dp/B07CBGY7K5/?tag=tolees-21) con 43.27 de descuento por 16.99 EUR (original: 29.95 EUR) en el siguiente enlace!

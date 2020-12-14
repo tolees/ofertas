@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M7MZKXF/?tag=tolees-21'
 descuento: '35.42'
+average: '21.31'
 ---
 
 Ahora mismo tienes [Pablosky Zapatillas sin Cordones para Niños   Rojo 954460   32 EU](https://www.amazon.es/dp/B07M7MZKXF/?tag=tolees-21) a 21.31 EUR (original: 33 EUR) (35.42 %  de descuento) en el siguiente enlace!

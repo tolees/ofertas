@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0751HGCWV/?tag=tolees-21'
 descuento: '59.72'
+average: '9.99'
 ---
 
 Está [EXZACT Báscula Corporal Electrónica/Báscula de Baño Digital/Escala Personal-150kg Exhibición del LED de la contraluz  Casa junto al mar ](https://www.amazon.es/dp/B0751HGCWV/?tag=tolees-21) con 59.72 de descuento por 9.99 EUR (original: 24.8 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N4O2U1R/?tag=tolees-21'
 descuento: '47.96'
+average: '33.8'
 ---
 
 Ahora mismo tienes [Skechers Go Step Lite-Redefine  Entrenadores para Mujer  Negro  Black/White   38 EU](https://www.amazon.es/dp/B01N4O2U1R/?tag=tolees-21) a 33.8 EUR (original: 64.95 EUR) (47.96 %  de descuento) en el siguiente enlace!

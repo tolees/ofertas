@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D5T4SXZ/?tag=tolees-21'
 descuento: '43.01'
+average: '17.07'
 ---
 
 Está [Puma ESS Sweat TR Chándal  Hombre  Gris  Medium Gray Heather   L](https://www.amazon.es/dp/B07D5T4SXZ/?tag=tolees-21) con 43.01 de descuento por 17.07 EUR (original: 29.95 EUR) en el siguiente enlace!

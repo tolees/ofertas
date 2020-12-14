@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZLCH6G/?tag=tolees-21'
 descuento: '46.68'
+average: '15.99'
 ---
 
 Está [Bamboo Cheese Board | Wood Serving Platter | Includes Slide Out Knife Set | M&W](https://www.amazon.es/dp/B07CZLCH6G/?tag=tolees-21) con 46.68 de descuento por 15.99 EUR (original: 29.99 EUR) en el siguiente enlace!

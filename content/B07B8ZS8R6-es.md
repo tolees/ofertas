@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B8ZS8R6/?tag=tolees-21'
 descuento: '54.69'
+average: '27.75'
 ---
 
 Ahora mismo tienes [SSD 128GB A80 1600/1000 MB/s PCIe M.2](https://www.amazon.es/dp/B07B8ZS8R6/?tag=tolees-21) a 27.75 EUR (original: 61.25 EUR) (54.69 %  de descuento) en el siguiente enlace!

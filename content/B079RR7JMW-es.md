@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RR7JMW/?tag=tolees-21'
 descuento: '76.64'
+average: '13.99'
 ---
 
 Ahora mismo tienes [Pepe Jeans Monument Suéter  Gris  Grey Marl 933   XL para Hombre](https://www.amazon.es/dp/B079RR7JMW/?tag=tolees-21) a 13.99 EUR (original: 59.9 EUR) (76.64 %  de descuento) en el siguiente enlace!

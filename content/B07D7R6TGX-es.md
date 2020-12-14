@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D7R6TGX/?tag=tolees-21'
 descuento: '26.47'
+average: '31.8'
 ---
 
 Ahora mismo tienes [ALEX AND ANI Brazalete Mujer latón - A18EBSMTRG](https://www.amazon.es/dp/B07D7R6TGX/?tag=tolees-21) a 31.8 EUR (original: 43.25 EUR) (26.47 %  de descuento) en el siguiente enlace!

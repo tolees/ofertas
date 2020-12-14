@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IN7PAUG/?tag=tolees-21'
 descuento: '66.81'
+average: '42.81'
 ---
 
 Ahora mismo tienes [Cortefiel Cappotto BLU XL](https://www.amazon.es/dp/B01IN7PAUG/?tag=tolees-21) a 42.81 EUR (original: 129 EUR) (66.81 %  de descuento) en el siguiente enlace!

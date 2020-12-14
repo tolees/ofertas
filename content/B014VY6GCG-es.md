@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B014VY6GCG/?tag=tolees-21'
 descuento: '27.47'
+average: '233.45'
 ---
 
 Ahora mismo tienes [HP LaserJet Pro M402Dn - Impresora  A4  38 ppm  Duplex  USB  color blanco](https://www.amazon.es/dp/B014VY6GCG/?tag=tolees-21) a 233.45 EUR (original: 321.86 EUR) (27.47 %  de descuento) en el siguiente enlace!

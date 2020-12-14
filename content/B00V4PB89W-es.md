@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00V4PB89W/?tag=tolees-21'
 descuento: '29.97'
+average: '4.3'
 ---
 
 Tienes [Compo 1648402011 Antihormigas 300 G  16.5x7x7 cm](https://www.amazon.es/dp/B00V4PB89W/?tag=tolees-21) con un 29.97 % de descuento con precio de oferta de 4.3 EUR (original: 6.14 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B011CCC43A/?tag=tolees-21'
 descuento: '66.48'
+average: '49.95'
 ---
 
 Tienes [Energy Sistem Tower 8 - Equipo de Home Cinema  Bluetooth  panel táctil  RMS: 100 W  USB  FM  negro](https://www.amazon.es/dp/B011CCC43A/?tag=tolees-21) con un 66.48 % de descuento con precio de oferta de 49.95 EUR (original: 149 EUR) en el siguiente enlace!

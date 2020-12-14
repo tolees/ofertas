@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01B6KTI1O/?tag=tolees-21'
 descuento: '62.51'
+average: '34.49'
 ---
 
 Ahora mismo tienes [Puma IGNITE XT v2 - Zapatillas de deporte Unisex Adulto  Rojo  Red Blast-Safety Yellow 02    44 EU  9.5 UK ](https://www.amazon.es/dp/B01B6KTI1O/?tag=tolees-21) a 34.49 EUR (original: 91.99 EUR) (62.51 %  de descuento) en el siguiente enlace!

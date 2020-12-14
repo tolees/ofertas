@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K2LL99Q/?tag=tolees-21'
 descuento: '47.09'
+average: '26.43'
 ---
 
 Tienes [Adidas Galaxy 4  Zapatillas de Deporte para Hombre  Multicolor  Tinley/Azutra/Ftwbla 000   40 2/3 EU](https://www.amazon.es/dp/B07K2LL99Q/?tag=tolees-21) con un 47.09 % de descuento con precio de oferta de 26.43 EUR (original: 49.95 EUR) en el siguiente enlace!

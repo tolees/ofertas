@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LYBBSL7/?tag=tolees-21'
 descuento: '48.95'
+average: '34'
 ---
 
 Ahora mismo tienes [One Punch Man Temporada 1 Ep. 1 A 12. Blu-Ray Edición Coleccionistas [Blu-ray]](https://www.amazon.es/dp/B01LYBBSL7/?tag=tolees-21) a 34 EUR (original: 66.6 EUR) (48.95 %  de descuento) en el siguiente enlace!

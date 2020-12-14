@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077MPNRMH/?tag=tolees-21'
 descuento: '56.80'
+average: '25.9'
 ---
 
 Ahora mismo tienes [Puma Nrgy Dynamo  Zapatillas de Cross para Hombre  Azul  Turkish Sea-Peacoat White   44.5 EU](https://www.amazon.es/dp/B077MPNRMH/?tag=tolees-21) a 25.9 EUR (original: 59.95 EUR) (56.80 %  de descuento) en el siguiente enlace!

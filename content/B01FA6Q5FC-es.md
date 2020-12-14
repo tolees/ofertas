@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FA6Q5FC/?tag=tolees-21'
 descuento: '80.85'
+average: '11.49'
 ---
 
 Tienes [Angerella Traje de baño Monokinis Vintage 86s Pin Up Halter una Pieza SST036-B1-M ](https://www.amazon.es/dp/B01FA6Q5FC/?tag=tolees-21) con un 80.85 % de descuento con precio de oferta de 11.49 EUR (original: 59.99 EUR) en el siguiente enlace!

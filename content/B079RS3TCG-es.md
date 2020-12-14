@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RS3TCG/?tag=tolees-21'
 descuento: '72.91'
+average: '34.95'
 ---
 
 Está [Pepe Jeans Leicester  Suéter para Hombre  Azul  Deep Sea 597   X-Large](https://www.amazon.es/dp/B079RS3TCG/?tag=tolees-21) con 72.91 de descuento por 34.95 EUR (original: 129 EUR) en el siguiente enlace!

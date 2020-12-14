@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076BCHKHP/?tag=tolees-21'
 descuento: '55.59'
+average: '7.99'
 ---
 
 Está [Guaiboshi Tiras de Luz LED Strip 3M 5M Tira LED de Luces Iluminación Kit Completo para el hogar  jardín  decoración  3M ](https://www.amazon.es/dp/B076BCHKHP/?tag=tolees-21) con 55.59 de descuento por 7.99 EUR (original: 17.99 EUR) en el siguiente enlace!

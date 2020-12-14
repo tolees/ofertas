@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L9Q9FCS/?tag=tolees-21'
 descuento: '39.31'
+average: '23.67'
 ---
 
 Está [Napapijri K Elbas 2 Polo  Blanco  Bright White 002   140  Talla del Fabricante: 10  para Niños](https://www.amazon.es/dp/B07L9Q9FCS/?tag=tolees-21) con 39.31 de descuento por 23.67 EUR (original: 39 EUR) en el siguiente enlace!

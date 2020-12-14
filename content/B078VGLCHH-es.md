@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078VGLCHH/?tag=tolees-21'
 descuento: '50.55'
+average: '79.12'
 ---
 
 Tienes [Sony WISP600NP.CE7 - Auriculares deportivos inalámbricos  modo sonido ambiente  cancelación de ruido  Bluetooth y NFC   color rosa](https://www.amazon.es/dp/B078VGLCHH/?tag=tolees-21) con un 50.55 % de descuento con precio de oferta de 79.12 EUR (original: 160 EUR) en el siguiente enlace!

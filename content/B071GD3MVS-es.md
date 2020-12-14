@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071GD3MVS/?tag=tolees-21'
 descuento: '32.98'
+average: '749.92'
 ---
 
 Ahora mismo tienes [Apple iPad Pro - Tablet de 10.5"  512 GB con Wi-Fi  oro rosa](https://www.amazon.es/dp/B071GD3MVS/?tag=tolees-21) a 749.92 EUR (original: 1119 EUR) (32.98 %  de descuento) en el siguiente enlace!

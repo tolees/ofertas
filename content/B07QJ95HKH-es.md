@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QJ95HKH/?tag=tolees-21'
 descuento: '62.01'
+average: '18.99'
 ---
 
 Tienes [KEEPOW 3 Pack Mopas para Vileda Turbo 2 en 1  Recambios de Mopas Microfibras  Color Rojo y Blanco](https://www.amazon.es/dp/B07QJ95HKH/?tag=tolees-21) con un 62.01 % de descuento con precio de oferta de 18.99 EUR (original: 49.99 EUR) en el siguiente enlace!

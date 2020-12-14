@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F31LSBP/?tag=tolees-21'
 descuento: '39.95'
+average: '57.05'
 ---
 
 Ahora mismo tienes [adidas Sobakov Calzado Core Black](https://www.amazon.es/dp/B07F31LSBP/?tag=tolees-21) a 57.05 EUR (original: 95 EUR) (39.95 %  de descuento) en el siguiente enlace!

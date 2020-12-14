@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DVXDYJS/?tag=tolees-21'
 descuento: '67.08'
+average: '19.75'
 ---
 
 Está [Columbia Childrens Drainmaker IV  Zapatillas Unisex Niños  Violeta  Graphite  Northern Lights   27 EU](https://www.amazon.es/dp/B07DVXDYJS/?tag=tolees-21) con 67.08 de descuento por 19.75 EUR (original: 59.99 EUR) en el siguiente enlace!

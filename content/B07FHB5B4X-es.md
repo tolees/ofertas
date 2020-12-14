@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FHB5B4X/?tag=tolees-21'
 descuento: '71.05'
+average: '43.4'
 ---
 
 Está [LLOYD Fynn  Botas Chelsea para Hombre  Marrón  Nut/Kenia 2   45 EU](https://www.amazon.es/dp/B07FHB5B4X/?tag=tolees-21) con 71.05 de descuento por 43.4 EUR (original: 149.9 EUR) en el siguiente enlace!

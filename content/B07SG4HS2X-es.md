@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07SG4HS2X/?tag=tolees-21'
 descuento: '50.25'
+average: '99'
 ---
 
 Está [Tous BANDOLERA M. LIZ FUCSIA](https://www.amazon.es/dp/B07SG4HS2X/?tag=tolees-21) con 50.25 de descuento por 99 EUR (original: 199 EUR) en el siguiente enlace!

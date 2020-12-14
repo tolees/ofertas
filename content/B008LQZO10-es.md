@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B008LQZO10/?tag=tolees-21'
 descuento: '27.97'
+average: '169.99'
 ---
 
 Tienes [Braun Series 5 5090cc - Afeitadora eléctrica  con estación Clean & Charge](https://www.amazon.es/dp/B008LQZO10/?tag=tolees-21) con un 27.97 % de descuento con precio de oferta de 169.99 EUR (original: 235.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00CJDQUSC/?tag=tolees-21'
 descuento: '66.91'
+average: '6.35'
 ---
 
 Tienes [BlackDecker A7102 - Kit de accesorios](https://www.amazon.es/dp/B00CJDQUSC/?tag=tolees-21) con un 66.91 % de descuento con precio de oferta de 6.35 EUR (original: 19.19 EUR) en el siguiente enlace!

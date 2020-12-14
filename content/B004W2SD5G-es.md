@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004W2SD5G/?tag=tolees-21'
 descuento: '49.06'
+average: '15.23'
 ---
 
 Ahora mismo tienes [Korres 0600086 Crema Solar - 1 Recipiente](https://www.amazon.es/dp/B004W2SD5G/?tag=tolees-21) a 15.23 EUR (original: 29.9 EUR) (49.06 %  de descuento) en el siguiente enlace!

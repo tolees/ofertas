@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CGKB5VL/?tag=tolees-21'
 descuento: '41.67'
+average: '34.99'
 ---
 
 Tienes [EIVOTOR Micrófono Inalámbrico Profesional Micrófono Dinámico Vocal Micrófono de Mano Portatil Wireless Microphone Cardioide Micro con Receptor 25](https://www.amazon.es/dp/B07CGKB5VL/?tag=tolees-21) con un 41.67 % de descuento con precio de oferta de 34.99 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B6XLV65/?tag=tolees-21'
 descuento: '73.68'
+average: '25'
 ---
 
 Tienes [New Balance Fresh Faom Cruz v2 Hygge Pack  Zapatillas para Mujer  Azul  Thunder/Latte/Flat White Hb2   37.5 EU](https://www.amazon.es/dp/B07B6XLV65/?tag=tolees-21) con un 73.68 % de descuento con precio de oferta de 25 EUR (original: 95 EUR) en el siguiente enlace!

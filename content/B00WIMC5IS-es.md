@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00WIMC5IS/?tag=tolees-21'
 descuento: '47.16'
+average: '18.49'
 ---
 
 Ahora mismo tienes [Samsung EVO+ - Tarjeta de Memoria microSD de 64 GB](https://www.amazon.es/dp/B00WIMC5IS/?tag=tolees-21) a 18.49 EUR (original: 34.99 EUR) (47.16 %  de descuento) en el siguiente enlace!

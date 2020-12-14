@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N6IUZ0H/?tag=tolees-21'
 descuento: '33.35'
+average: '11.99'
 ---
 
 Está [Bruzzzler 1152 Set de brochetas Dobles  Plata  39.5x9.5x4.5 cm](https://www.amazon.es/dp/B01N6IUZ0H/?tag=tolees-21) con 33.35 de descuento por 11.99 EUR (original: 17.99 EUR) en el siguiente enlace!

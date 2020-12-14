@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N3CLN4G/?tag=tolees-21'
 descuento: '57.50'
+average: '25.48'
 ---
 
 Ahora mismo tienes [Munich Dash Kid  Zapatillas de Deporte Unisex niño   Negro 33   EU](https://www.amazon.es/dp/B07N3CLN4G/?tag=tolees-21) a 25.48 EUR (original: 59.95 EUR) (57.50 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078Y7BPWJ/?tag=tolees-21'
 descuento: '31.05'
+average: '19.99'
 ---
 
 Está [Sternitz Botella de Agua Hydra Acero Inoxidable con Aislamiento al vacio. Mantiene Tus Bebidas frías por 24 Horas y Calientes por 12 Horas. Water Bottle  Negro Azabache ](https://www.amazon.es/dp/B078Y7BPWJ/?tag=tolees-21) con 31.05 de descuento por 19.99 EUR (original: 28.99 EUR) en el siguiente enlace!

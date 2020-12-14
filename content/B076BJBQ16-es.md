@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076BJBQ16/?tag=tolees-21'
 descuento: '60.41'
+average: '6.69'
 ---
 
 Ahora mismo tienes [Moleskine DHB2012WN2Y19 - Libreta semanal 12m de bolsillo tapa dura  color azul zafiro](https://www.amazon.es/dp/B076BJBQ16/?tag=tolees-21) a 6.69 EUR (original: 16.9 EUR) (60.41 %  de descuento) en el siguiente enlace!

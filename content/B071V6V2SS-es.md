@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071V6V2SS/?tag=tolees-21'
 descuento: '50.61'
+average: '19.75'
 ---
 
 Está [JACK & JONES Jjspider Canvas Sneaker Light Blue Denim  Zapatillas para Hombre  Azul  44 EU](https://www.amazon.es/dp/B071V6V2SS/?tag=tolees-21) con 50.61 de descuento por 19.75 EUR (original: 39.99 EUR) en el siguiente enlace!

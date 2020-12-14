@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00XUJLPQQ/?tag=tolees-21'
 descuento: '66.95'
+average: '18.47'
 ---
 
 Tienes [ProfiCook PC-UMS 1085 Batidora de Vaso y picadora de Frutas para Smoothies  frappes  Batidos  350w  350 W  1 Cubic_Feet  1 Decibeles  Acero Inoxidable y Negro](https://www.amazon.es/dp/B00XUJLPQQ/?tag=tolees-21) con un 66.95 % de descuento con precio de oferta de 18.47 EUR (original: 55.89 EUR) en el siguiente enlace!

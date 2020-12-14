@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06WV9BW9P/?tag=tolees-21'
 descuento: '46.34'
+average: '20'
 ---
 
 Tienes [Fossil Pulsera de mujer con acero inoxidable  circonita redonda](https://www.amazon.es/dp/B06WV9BW9P/?tag=tolees-21) con un 46.34 % de descuento con precio de oferta de 20 EUR (original: 37.27 EUR) en el siguiente enlace!

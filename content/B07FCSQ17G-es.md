@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FCSQ17G/?tag=tolees-21'
 descuento: '61.35'
+average: '42.52'
 ---
 
 Tienes [Guess - Kamryn  Bolsos bandolera Mujer  Rosa  Coral/Cor   25.5x19x6 cm  W x H L ](https://www.amazon.es/dp/B07FCSQ17G/?tag=tolees-21) con un 61.35 % de descuento con precio de oferta de 42.52 EUR (original: 110 EUR) en el siguiente enlace!

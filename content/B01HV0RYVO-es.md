@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HV0RYVO/?tag=tolees-21'
 descuento: '50.02'
+average: '54.95'
 ---
 
 Está [Columbia Fire Venture Waterproof  Zapatillas De Deporte para Exterior para Mujer  Gris  Ti Grey Steel/Aquarium   39 EU](https://www.amazon.es/dp/B01HV0RYVO/?tag=tolees-21) con 50.02 de descuento por 54.95 EUR (original: 109.95 EUR) en el siguiente enlace!

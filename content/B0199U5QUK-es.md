@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0199U5QUK/?tag=tolees-21'
 descuento: '70.78'
+average: '27.76'
 ---
 
 Tienes [Etnies Jefferson Mid  Zapatillas de Skateboard para Hombre  Azul  Navy/Brown/White 480   41 EU](https://www.amazon.es/dp/B0199U5QUK/?tag=tolees-21) con un 70.78 % de descuento con precio de oferta de 27.76 EUR (original: 95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KC1CV17/?tag=tolees-21'
 descuento: '30.21'
+average: '15.99'
 ---
 
 Está [Palazen Organizador de Ropa Interior Plegable Organizador de Armario Plegable cajón Divisor 4 Juegos  Sujetadores  Calcetines  Corbatas  Bufandas  Gris  Estándar](https://www.amazon.es/dp/B07KC1CV17/?tag=tolees-21) con 30.21 de descuento por 15.99 EUR (original: 22.91 EUR) en el siguiente enlace!

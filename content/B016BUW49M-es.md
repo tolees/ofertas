@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B016BUW49M/?tag=tolees-21'
 descuento: '76.35'
+average: '23.63'
 ---
 
 Ahora mismo tienes [BUFFALO LONDON ES 30689 Flash  Botas de Estar por casa para Mujer  Beige  40 EU](https://www.amazon.es/dp/B016BUW49M/?tag=tolees-21) a 23.63 EUR (original: 99.9 EUR) (76.35 %  de descuento) en el siguiente enlace!

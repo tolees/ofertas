@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PRT6Z76/?tag=tolees-21'
 descuento: '41.89'
+average: '20.99'
 ---
 
 Ahora mismo tienes [LENBEST Máscara de Buceo  Máscara de Snorkel  180° Máscara de Buceo - Diseño Panorámico de Cara Completa  Tapones de Oído Incorporados y Soporte para Cámara -  Azul L/XL ](https://www.amazon.es/dp/B07PRT6Z76/?tag=tolees-21) a 20.99 EUR (original: 36.12 EUR) (41.89 %  de descuento) en el siguiente enlace!

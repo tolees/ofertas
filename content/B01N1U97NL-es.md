@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N1U97NL/?tag=tolees-21'
 descuento: '52.77'
+average: '60.93'
 ---
 
 Tienes [Police Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable PL15038JS.02M](https://www.amazon.es/dp/B01N1U97NL/?tag=tolees-21) con un 52.77 % de descuento con precio de oferta de 60.93 EUR (original: 129 EUR) en el siguiente enlace!

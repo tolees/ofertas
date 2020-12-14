@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XPJMW3G/?tag=tolees-21'
 descuento: '49.75'
+average: '10'
 ---
 
 Tienes [Delaviuda Turrón Ron con Pasas - 5 Paquetes de 300 gr - Total: 1500 gr](https://www.amazon.es/dp/B06XPJMW3G/?tag=tolees-21) con un 49.75 % de descuento con precio de oferta de 10 EUR (original: 19.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00KXWZDPW/?tag=tolees-21'
 descuento: '52.38'
+average: '189.99'
 ---
 
 Tienes [Hugo Boss 1513085 - Reloj](https://www.amazon.es/dp/B00KXWZDPW/?tag=tolees-21) con un 52.38 % de descuento con precio de oferta de 189.99 EUR (original: 399 EUR) en el siguiente enlace!

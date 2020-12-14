@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0748DRBK8/?tag=tolees-21'
 descuento: '31.78'
+average: '11.59'
 ---
 
 Tienes [DSstyles de cerámica de calor del emisor de infrarrojos del emisor Calentador de bombillas para mascotas reptiles AC 220-240V de 100W E27 -Negro](https://www.amazon.es/dp/B0748DRBK8/?tag=tolees-21) con un 31.78 % de descuento con precio de oferta de 11.59 EUR (original: 16.99 EUR) en el siguiente enlace!

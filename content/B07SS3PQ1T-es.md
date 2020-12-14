@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07SS3PQ1T/?tag=tolees-21'
 descuento: '64.01'
+average: '35.99'
 ---
 
 Ahora mismo tienes [Reloj Inteligente Niña IP67 Impermeable - Smartwatch Niños Rastreador de AGPS LBS  Reloj Niña con Llamada Telefónica SOS Cámara Juegos Despertador  Reloj Inteligente Niña Compatibles con iOS Android](https://www.amazon.es/dp/B07SS3PQ1T/?tag=tolees-21) a 35.99 EUR (original: 99.99 EUR) (64.01 %  de descuento) en el siguiente enlace!

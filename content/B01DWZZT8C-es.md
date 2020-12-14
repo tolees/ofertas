@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DWZZT8C/?tag=tolees-21'
 descuento: '39.94'
+average: '59.9'
 ---
 
 Tienes [Nike Wmns Juvenate  Zapatillas para Mujer  Blanco  White/Black   36 EU](https://www.amazon.es/dp/B01DWZZT8C/?tag=tolees-21) con un 39.94 % de descuento con precio de oferta de 59.9 EUR (original: 99.74 EUR) en el siguiente enlace!

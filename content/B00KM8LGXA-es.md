@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00KM8LGXA/?tag=tolees-21'
 descuento: '46.47'
+average: '64.24'
 ---
 
 Ahora mismo tienes [Nike Air MAX Thea  Zapatillas para Mujer  Gris  Wolf Grey/Black 030   38 EU](https://www.amazon.es/dp/B00KM8LGXA/?tag=tolees-21) a 64.24 EUR (original: 120 EUR) (46.47 %  de descuento) en el siguiente enlace!

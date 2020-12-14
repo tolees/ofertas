@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JC8BBB1/?tag=tolees-21'
 descuento: '76.93'
+average: '29.99'
 ---
 
 Está [Zagzog Auriculares Bluetooth Inalámbricos  Bluetooth V5.0 Caja de Carga de 1000mAh Teclas Táctiles Impermeable IPX6 HiFi Audio con Micrófono CVC6.0 Mini Manos Libres Deportivos para iOS/Android Black](https://www.amazon.es/dp/B07JC8BBB1/?tag=tolees-21) con 76.93 de descuento por 29.99 EUR (original: 129.99 EUR) en el siguiente enlace!

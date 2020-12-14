@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MU3UNPF/?tag=tolees-21'
 descuento: '47.53'
+average: '11.49'
 ---
 
 Está [Béaba 913414 - Set de 4 cucharas ergonómicas  primera edad](https://www.amazon.es/dp/B01MU3UNPF/?tag=tolees-21) con 47.53 de descuento por 11.49 EUR (original: 21.9 EUR) en el siguiente enlace!

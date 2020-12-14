@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004L9L3KW/?tag=tolees-21'
 descuento: '31.66'
+average: '36.03'
 ---
 
 Está [simplehuman 40L Slim Plastic Pedal Bin  Plateado  40 L](https://www.amazon.es/dp/B004L9L3KW/?tag=tolees-21) con 31.66 de descuento por 36.03 EUR (original: 52.72 EUR) en el siguiente enlace!

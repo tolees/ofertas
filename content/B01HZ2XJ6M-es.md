@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HZ2XJ6M/?tag=tolees-21'
 descuento: '76.39'
+average: '17.71'
 ---
 
 Tienes [Morgan Mono Negro M](https://www.amazon.es/dp/B01HZ2XJ6M/?tag=tolees-21) con un 76.39 % de descuento con precio de oferta de 17.71 EUR (original: 75 EUR) en el siguiente enlace!

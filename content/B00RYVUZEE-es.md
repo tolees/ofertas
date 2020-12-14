@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00RYVUZEE/?tag=tolees-21'
 descuento: '34.30'
+average: '249'
 ---
 
 Tienes [Audio-Technica AT-LP120USBCBK tocadisco - Tocadiscos  1.1  Corriente alterna  11W  115-230V  Windows XP  Vista  MAC OSX  Aluminio ](https://www.amazon.es/dp/B00RYVUZEE/?tag=tolees-21) con un 34.30 % de descuento con precio de oferta de 249 EUR (original: 379 EUR) en el siguiente enlace!

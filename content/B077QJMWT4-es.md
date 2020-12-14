@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077QJMWT4/?tag=tolees-21'
 descuento: '46.10'
+average: '70.07'
 ---
 
 Tienes [New Balance Fuel Core Sonic  Zapatillas de Running para Hombre  Amarillo  Yellow   41.5 EU](https://www.amazon.es/dp/B077QJMWT4/?tag=tolees-21) con un 46.10 % de descuento con precio de oferta de 70.07 EUR (original: 130 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B008LXWFRO/?tag=tolees-21'
 descuento: '34.14'
+average: '163.99'
 ---
 
 Ahora mismo tienes [Mooer LITTLE MONSTER AC - Pedal de efectos](https://www.amazon.es/dp/B008LXWFRO/?tag=tolees-21) a 163.99 EUR (original: 249 EUR) (34.14 %  de descuento) en el siguiente enlace!

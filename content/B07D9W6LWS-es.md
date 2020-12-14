@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9W6LWS/?tag=tolees-21'
 descuento: '62.64'
+average: '20.53'
 ---
 
 Está [Puma Future 2.4 MG  Zapatillas de Fútbol para Hombre  Plateado Silver-Peacoat 04  46 EU](https://www.amazon.es/dp/B07D9W6LWS/?tag=tolees-21) con 62.64 de descuento por 20.53 EUR (original: 54.95 EUR) en el siguiente enlace!

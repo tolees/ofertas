@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00QXSAJXG/?tag=tolees-21'
 descuento: '84.87'
+average: '13.46'
 ---
 
 Tienes [Imation 945231 - Cargador](https://www.amazon.es/dp/B00QXSAJXG/?tag=tolees-21) con un 84.87 % de descuento con precio de oferta de 13.46 EUR (original: 88.94 EUR) en el siguiente enlace!

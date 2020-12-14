@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DDHKB53/?tag=tolees-21'
 descuento: '32.75'
+average: '32.44'
 ---
 
 Tienes [Red Tape Albany  Botas Chelsea para Hombre  Marrón  Wood 0   41 EU](https://www.amazon.es/dp/B07DDHKB53/?tag=tolees-21) con un 32.75 % de descuento con precio de oferta de 32.44 EUR (original: 48.24 EUR) en el siguiente enlace!

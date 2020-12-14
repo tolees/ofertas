@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ6KPLN/?tag=tolees-21'
 descuento: '63.89'
+average: '36.09'
 ---
 
 Está [G-STAR RAW Bronson Slim Chino  Pantalon para Hombre  Verde  Dk Vermont Green 5126-7179   38W / 32L](https://www.amazon.es/dp/B07CZ6KPLN/?tag=tolees-21) con 63.89 de descuento por 36.09 EUR (original: 99.95 EUR) en el siguiente enlace!

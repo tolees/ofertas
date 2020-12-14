@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FXBCF33/?tag=tolees-21'
 descuento: '42.34'
+average: '24.79'
 ---
 
 Está [Nebulizador Comprimido - Nebulizador con Tasa de Atomización Ajustable con Boquilla y Máscara para Bebés  Adultos y Ancianos - Inhalador de Compresor Eficaz para enfermedades Respiratorias](https://www.amazon.es/dp/B07FXBCF33/?tag=tolees-21) con 42.34 de descuento por 24.79 EUR (original: 42.99 EUR) en el siguiente enlace!

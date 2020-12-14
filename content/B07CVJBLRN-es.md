@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CVJBLRN/?tag=tolees-21'
 descuento: '65.20'
+average: '20.86'
 ---
 
 Está [Skechers Go Walk Joy  Zapatillas sin Cordones para Mujer  Azul  Navy Grey Nvgy   37 EU](https://www.amazon.es/dp/B07CVJBLRN/?tag=tolees-21) con 65.20 de descuento por 20.86 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G4HT8RJ/?tag=tolees-21'
 descuento: '26.68'
+average: '21.99'
 ---
 
 Está [JACK & JONES Jjestructure Knit Crew Neck Noos  suéter para Hombre  Gris  Jet StreamJet Stream  Medium](https://www.amazon.es/dp/B07G4HT8RJ/?tag=tolees-21) con 26.68 de descuento por 21.99 EUR (original: 29.99 EUR) en el siguiente enlace!

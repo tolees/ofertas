@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y48BVLQ/?tag=tolees-21'
 descuento: '30.17'
+average: '13.84'
 ---
 
 Tienes [L  Oréal Paris Elvive Anticaspa Shampoo delicada para pelo grasas  300 ml  - [Lote de 4] para cabellos grasos](https://www.amazon.es/dp/B06Y48BVLQ/?tag=tolees-21) con un 30.17 % de descuento con precio de oferta de 13.84 EUR (original: 19.82 EUR) en el siguiente enlace!

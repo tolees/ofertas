@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078W7L1YP/?tag=tolees-21'
 descuento: '43.47'
+average: '25.41'
 ---
 
 Ahora mismo tienes [Kappa Meseta  Zapatillas Unisex Adulto  Blanco  White 1010   38 EU](https://www.amazon.es/dp/B078W7L1YP/?tag=tolees-21) a 25.41 EUR (original: 44.95 EUR) (43.47 %  de descuento) en el siguiente enlace!

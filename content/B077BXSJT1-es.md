@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077BXSJT1/?tag=tolees-21'
 descuento: '50.53'
+average: '29.66'
 ---
 
 Tienes [Gioseppo 43589  Zapatillas para Hombre  Verde  Kaki   43 EU](https://www.amazon.es/dp/B077BXSJT1/?tag=tolees-21) con un 50.53 % de descuento con precio de oferta de 29.66 EUR (original: 59.95 EUR) en el siguiente enlace!

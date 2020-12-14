@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K7HGW5S/?tag=tolees-21'
 descuento: '36.68'
+average: '18.99'
 ---
 
 Está [Oxímetro de Pulso  Morpilot Pulsioxímetro de Dedo con Pantalla OLED  Pulsómetro Digital con Medidor de Oxígeno en Sangre SpO2 y Monitor de Frecuencia Cardíaca de Lectura Instantánea](https://www.amazon.es/dp/B07K7HGW5S/?tag=tolees-21) con 36.68 de descuento por 18.99 EUR (original: 29.99 EUR) en el siguiente enlace!

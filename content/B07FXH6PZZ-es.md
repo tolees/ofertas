@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FXH6PZZ/?tag=tolees-21'
 descuento: '52.51'
+average: '21.37'
 ---
 
 Está [Vans Ward Canvas Zapatillas Unisex Niños  Rosa   Canvas  Sepia Rose Oln   32](https://www.amazon.es/dp/B07FXH6PZZ/?tag=tolees-21) con 52.51 de descuento por 21.37 EUR (original: 45 EUR) en el siguiente enlace!

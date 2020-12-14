@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074GL2Y3V/?tag=tolees-21'
 descuento: '46.81'
+average: '25.99'
 ---
 
 Está [NatureFun Hamaca ultraligera para camping| 300kg de capacidad de carga   300 x 200 cm  Estilo paracaídas de Nylon  transpirable y de secado rápido. 2 mosquetones premium  2 eslingas de nylon incluidas](https://www.amazon.es/dp/B074GL2Y3V/?tag=tolees-21) con 46.81 de descuento por 25.99 EUR (original: 48.86 EUR) en el siguiente enlace!

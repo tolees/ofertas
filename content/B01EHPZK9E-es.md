@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01EHPZK9E/?tag=tolees-21'
 descuento: '50.45'
+average: '4.95'
 ---
 
 Está [Pioneer SE-CL502-L  Intra Auriculares  Stereo  Azul](https://www.amazon.es/dp/B01EHPZK9E/?tag=tolees-21) con 50.45 de descuento por 4.95 EUR (original: 9.99 EUR) en el siguiente enlace!

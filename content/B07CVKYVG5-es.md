@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CVKYVG5/?tag=tolees-21'
 descuento: '57.94'
+average: '27.32'
 ---
 
 Tienes [Skechers Empire D lux-Burn Bright  Zapatillas para Mujer  Negro  Black BBK   39.5 EU](https://www.amazon.es/dp/B07CVKYVG5/?tag=tolees-21) con un 57.94 % de descuento con precio de oferta de 27.32 EUR (original: 64.95 EUR) en el siguiente enlace!

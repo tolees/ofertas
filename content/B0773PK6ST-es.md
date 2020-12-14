@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0773PK6ST/?tag=tolees-21'
 descuento: '30.06'
+average: '55.95'
 ---
 
 Ahora mismo tienes [Levi s Almayer Lite  Zapatillas para Hombre  Negro  Regular Black 59   43 EU](https://www.amazon.es/dp/B0773PK6ST/?tag=tolees-21) a 55.95 EUR (original: 80 EUR) (30.06 %  de descuento) en el siguiente enlace!

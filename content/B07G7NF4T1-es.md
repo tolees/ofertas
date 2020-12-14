@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G7NF4T1/?tag=tolees-21'
 descuento: '30.28'
+average: '20.88'
 ---
 
 Está [Reebok Royal Prime  Zapatillas de Deporte para Mujer   Collegiate Navy/Light Pink/White 000   36 EU](https://www.amazon.es/dp/B07G7NF4T1/?tag=tolees-21) con 30.28 de descuento por 20.88 EUR (original: 29.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005FEYCC8/?tag=tolees-21'
 descuento: '57.39'
+average: '17'
 ---
 
 Está [Casio Reloj de Pulsera W-734-2AVEF](https://www.amazon.es/dp/B005FEYCC8/?tag=tolees-21) con 57.39 de descuento por 17 EUR (original: 39.9 EUR) en el siguiente enlace!

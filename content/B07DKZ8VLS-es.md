@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DKZ8VLS/?tag=tolees-21'
 descuento: '72.07'
+average: '30.72'
 ---
 
 Tienes [Quiksilver Grebe  Botas Slouch para Hombre  Negro  Black/Grey/Brown-Combo Xksc   40 EU](https://www.amazon.es/dp/B07DKZ8VLS/?tag=tolees-21) con un 72.07 % de descuento con precio de oferta de 30.72 EUR (original: 109.99 EUR) en el siguiente enlace!

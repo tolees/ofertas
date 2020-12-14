@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC7XBGM/?tag=tolees-21'
 descuento: '66.77'
+average: '29.89'
 ---
 
 Ahora mismo tienes [Puma Zeta Suede  Zapatillas Unisex Adulto  Blanco White-Glacier Gray  44.5 EU](https://www.amazon.es/dp/B07DC7XBGM/?tag=tolees-21) a 29.89 EUR (original: 89.95 EUR) (66.77 %  de descuento) en el siguiente enlace!

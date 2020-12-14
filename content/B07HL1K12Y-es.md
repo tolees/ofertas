@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HL1K12Y/?tag=tolees-21'
 descuento: '50.83'
+average: '27.51'
 ---
 
 Ahora mismo tienes [Marco Tozzi 2-2-23772-22  Zapatillas para Mujer  Gris  Lt.Grey Metal. 237   42 EU](https://www.amazon.es/dp/B07HL1K12Y/?tag=tolees-21) a 27.51 EUR (original: 55.95 EUR) (50.83 %  de descuento) en el siguiente enlace!

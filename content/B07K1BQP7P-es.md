@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K1BQP7P/?tag=tolees-21'
 descuento: '35.60'
+average: '28.95'
 ---
 
 Tienes [adidas Fortarun X K  Zapatillas de Running Unisex Niños  Rojo Real Magenta/Semi Solar Pink/FTWR White  40 EU](https://www.amazon.es/dp/B07K1BQP7P/?tag=tolees-21) con un 35.60 % de descuento con precio de oferta de 28.95 EUR (original: 44.95 EUR) en el siguiente enlace!

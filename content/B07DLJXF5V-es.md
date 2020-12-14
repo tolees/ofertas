@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLJXF5V/?tag=tolees-21'
 descuento: '72.19'
+average: '11.12'
 ---
 
 Tienes [Springfield Jeans Slim Premium Bi-Stretch Pantalones  Hombre  Azul  Gama Azules 14    Tamaño del Fabricante:30 ](https://www.amazon.es/dp/B07DLJXF5V/?tag=tolees-21) con un 72.19 % de descuento con precio de oferta de 11.12 EUR (original: 39.99 EUR) en el siguiente enlace!

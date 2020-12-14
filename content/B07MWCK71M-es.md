@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MWCK71M/?tag=tolees-21'
 descuento: '48.73'
+average: '49.99'
 ---
 
 Tienes [RICOO Mesa de Centro Estancia Design WM080-W-BG la Mesa de salón Auxiliar día móvil de Trabajo Moderno con Dos Planes/Cuadrado Rectangular de Madera Color Blanco y Gris hormigón](https://www.amazon.es/dp/B07MWCK71M/?tag=tolees-21) con un 48.73 % de descuento con precio de oferta de 49.99 EUR (original: 97.5 EUR) en el siguiente enlace!

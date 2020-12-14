@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N5GKI55/?tag=tolees-21'
 descuento: '49.95'
+average: '5'
 ---
 
 Está [La Llegada [Blu-ray]](https://www.amazon.es/dp/B01N5GKI55/?tag=tolees-21) con 49.95 de descuento por 5 EUR (original: 9.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BSH5VNY/?tag=tolees-21'
 descuento: '38.31'
+average: '21.59'
 ---
 
 Tienes [Levi s Larkspur  Cinturón Mujer  Marrón  Medium Brown 28   95](https://www.amazon.es/dp/B07BSH5VNY/?tag=tolees-21) con un 38.31 % de descuento con precio de oferta de 21.59 EUR (original: 35 EUR) en el siguiente enlace!

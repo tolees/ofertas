@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00NSKSNKI/?tag=tolees-21'
 descuento: '55.94'
+average: '14.98'
 ---
 
 Tienes [Revlon Uniq one Champú y Acondicionador coco - 1000 ml](https://www.amazon.es/dp/B00NSKSNKI/?tag=tolees-21) con un 55.94 % de descuento con precio de oferta de 14.98 EUR (original: 34 EUR) en el siguiente enlace!

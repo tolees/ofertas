@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y67ZX5K/?tag=tolees-21'
 descuento: '68.78'
+average: '49.95'
 ---
 
 Tienes [Taurus Horizon 30 Horno potencia de 1500 W  Negro](https://www.amazon.es/dp/B06Y67ZX5K/?tag=tolees-21) con un 68.78 % de descuento con precio de oferta de 49.95 EUR (original: 159.99 EUR) en el siguiente enlace!

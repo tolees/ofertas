@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00P9DU2F6/?tag=tolees-21'
 descuento: '36.61'
+average: '52.29'
 ---
 
 Ahora mismo tienes [adidas Stan Smith J Zapatillas Unisex Niños  Blanco  Footwear White/Footwear White/Green 0   37 1/3 EU](https://www.amazon.es/dp/B00P9DU2F6/?tag=tolees-21) a 52.29 EUR (original: 82.49 EUR) (36.61 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06WWNFHV8/?tag=tolees-21'
 descuento: '63.95'
+average: '42.9'
 ---
 
 Ahora mismo tienes [Pikolinos Salamanca W3q_i17  Botas para Mujer  Rojo  Garnet   39 EU](https://www.amazon.es/dp/B06WWNFHV8/?tag=tolees-21) a 42.9 EUR (original: 119 EUR) (63.95 %  de descuento) en el siguiente enlace!

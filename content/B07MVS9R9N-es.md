@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MVS9R9N/?tag=tolees-21'
 descuento: '59.96'
+average: '9.99'
 ---
 
 Está [Overlord [Blu-ray]](https://www.amazon.es/dp/B07MVS9R9N/?tag=tolees-21) con 59.96 de descuento por 9.99 EUR (original: 24.95 EUR) en el siguiente enlace!

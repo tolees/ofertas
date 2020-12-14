@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FW7BSBV/?tag=tolees-21'
 descuento: '76.05'
+average: '14.37'
 ---
 
 Ahora mismo tienes [edc by Esprit 108cc1b004  Pantalones para Mujer  Azul  Navy 400  W34/L32](https://www.amazon.es/dp/B07FW7BSBV/?tag=tolees-21) a 14.37 EUR (original: 59.99 EUR) (76.05 %  de descuento) en el siguiente enlace!

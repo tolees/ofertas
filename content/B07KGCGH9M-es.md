@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGCGH9M/?tag=tolees-21'
 descuento: '63.09'
+average: '4.78'
 ---
 
 Está [BOSS 2p As Logo CC Calcetines  Verde  Bright Green 322   43/46  Talla del fabricante: 43-46  para Hombre](https://www.amazon.es/dp/B07KGCGH9M/?tag=tolees-21) con 63.09 de descuento por 4.78 EUR (original: 12.95 EUR) en el siguiente enlace!

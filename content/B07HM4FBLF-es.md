@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HM4FBLF/?tag=tolees-21'
 descuento: '60.34'
+average: '11.1'
 ---
 
 Ahora mismo tienes [Mayoral 4552 Pantalones  Verde  Botella 49   5 años  Tamaño del Fabricante:5  para Niñas](https://www.amazon.es/dp/B07HM4FBLF/?tag=tolees-21) a 11.1 EUR (original: 27.99 EUR) (60.34 %  de descuento) en el siguiente enlace!

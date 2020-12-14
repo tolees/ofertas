@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NBCCCB6/?tag=tolees-21'
 descuento: '50.00'
+average: '18.5'
 ---
 
 Está [Sensilis Skin Delight Tratamiento Facial Corrector Fluido Anti manchas - 50 ml](https://www.amazon.es/dp/B01NBCCCB6/?tag=tolees-21) con 50.00 de descuento por 18.5 EUR (original: 37 EUR) en el siguiente enlace!

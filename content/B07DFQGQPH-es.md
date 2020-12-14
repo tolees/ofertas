@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFQGQPH/?tag=tolees-21'
 descuento: '27.41'
+average: '25.37'
 ---
 
 Está [Puma Active 3/4 Pants  Mujer  Black  XXL](https://www.amazon.es/dp/B07DFQGQPH/?tag=tolees-21) con 27.41 de descuento por 25.37 EUR (original: 34.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004HJLZO0/?tag=tolees-21'
 descuento: '71.00'
+average: '51.6'
 ---
 
 Está [Doc Johnson Coches del Amor - 1 unidad](https://www.amazon.es/dp/B004HJLZO0/?tag=tolees-21) con 71.00 de descuento por 51.6 EUR (original: 177.95 EUR) en el siguiente enlace!

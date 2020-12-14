@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MKYYK43/?tag=tolees-21'
 descuento: '33.53'
+average: '23.23'
 ---
 
 Ahora mismo tienes [Reebok Royal Cljog 2 Zapatillas de trail running Mujer  Multicolor  Metallic / Pink / White 000   36.5 EU](https://www.amazon.es/dp/B07MKYYK43/?tag=tolees-21) a 23.23 EUR (original: 34.95 EUR) (33.53 %  de descuento) en el siguiente enlace!

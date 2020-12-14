@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CVKN2SJ/?tag=tolees-21'
 descuento: '29.91'
+average: '28'
 ---
 
 Tienes [Skechers Go Run 600-Zeeton  Zapatillas para Niños  Gris  Charcoal/Lime Cclm   35 EU](https://www.amazon.es/dp/B07CVKN2SJ/?tag=tolees-21) con un 29.91 % de descuento con precio de oferta de 28 EUR (original: 39.95 EUR) en el siguiente enlace!

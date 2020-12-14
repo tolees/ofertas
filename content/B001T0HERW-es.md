@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001T0HERW/?tag=tolees-21'
 descuento: '30.35'
+average: '38.42'
 ---
 
 Está [Abus 787 Cofre guardallaves  Blanco y negro](https://www.amazon.es/dp/B001T0HERW/?tag=tolees-21) con 30.35 de descuento por 38.42 EUR (original: 55.16 EUR) en el siguiente enlace!

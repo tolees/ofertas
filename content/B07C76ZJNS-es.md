@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C76ZJNS/?tag=tolees-21'
 descuento: '55.53'
+average: '9.74'
 ---
 
 Ahora mismo tienes [Lovable Chocalate Chevron Modal  Culotte Hombre  Marrón  Ciocc Chev/Ciocc 0fb   Medium  Talla del Fabricante: -4- ](https://www.amazon.es/dp/B07C76ZJNS/?tag=tolees-21) a 9.74 EUR (original: 21.9 EUR) (55.53 %  de descuento) en el siguiente enlace!

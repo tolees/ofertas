@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00DLV08N4/?tag=tolees-21'
 descuento: '52.97'
+average: '7.99'
 ---
 
 Tienes [BESTEK Soporte Tablet Coche Universal para Reposacabezas de Coche Soporte de Asiente Trasero para Tablet de 7 8"a 10 81" pulgadas 360 Grados](https://www.amazon.es/dp/B00DLV08N4/?tag=tolees-21) con un 52.97 % de descuento con precio de oferta de 7.99 EUR (original: 16.99 EUR) en el siguiente enlace!

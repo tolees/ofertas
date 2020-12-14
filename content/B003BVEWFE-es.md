@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003BVEWFE/?tag=tolees-21'
 descuento: '64.98'
+average: '16.22'
 ---
 
 Tienes [Draper 12544 - Juego de alicates  mango suave  5 unidades ](https://www.amazon.es/dp/B003BVEWFE/?tag=tolees-21) con un 64.98 % de descuento con precio de oferta de 16.22 EUR (original: 46.32 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007MSBS2W/?tag=tolees-21'
 descuento: '52.84'
+average: '44.78'
 ---
 
 Tienes [Master Series The Vexing Joya del Pene - 51 gr](https://www.amazon.es/dp/B007MSBS2W/?tag=tolees-21) con un 52.84 % de descuento con precio de oferta de 44.78 EUR (original: 94.95 EUR) en el siguiente enlace!

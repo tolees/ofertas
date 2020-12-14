@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DT67C8B/?tag=tolees-21'
 descuento: '29.25'
+average: '636.75'
 ---
 
 Está [HP Envy x360 13-ag0002ns - Ordenador Portátil Convertible 13.3" FullHD  AMD Ryzen 5 2500U  8 GB RAM  256 GB SDD  AMD Radeon Vega 8  Windows 10   Color Plata Oscuro - Teclado QWERTY Español](https://www.amazon.es/dp/B07DT67C8B/?tag=tolees-21) con 29.25 de descuento por 636.75 EUR (original: 899.99 EUR) en el siguiente enlace!

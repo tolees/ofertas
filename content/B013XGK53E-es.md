@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B013XGK53E/?tag=tolees-21'
 descuento: '40.02'
+average: '11.99'
 ---
 
 Tienes [Sabrent HB-R3MC Nodo - Concentrador  USB 3.0  3.1 Gen 1  Type-A  USB 3.0  3.1 Gen 1  Type-A  Plata  Aluminio  USB  133 3 mm ](https://www.amazon.es/dp/B013XGK53E/?tag=tolees-21) con un 40.02 % de descuento con precio de oferta de 11.99 EUR (original: 19.99 EUR) en el siguiente enlace!

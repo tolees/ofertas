@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JNVL4YS/?tag=tolees-21'
 descuento: '43.85'
+average: '16.84'
 ---
 
 Ahora mismo tienes [JACK & JONES Jcojames Sweat Hood Camp Capucha  Azul  Sky Captain Detail: Melange   Small para Hombre](https://www.amazon.es/dp/B07JNVL4YS/?tag=tolees-21) a 16.84 EUR (original: 29.99 EUR) (43.85 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HNORWW4/?tag=tolees-21'
 descuento: '45.28'
+average: '65.66'
 ---
 
 Ahora mismo tienes [Asics GT-1000 5  Zapatillas de Running para Hombre  Rojo  Red   40.5 EU](https://www.amazon.es/dp/B01HNORWW4/?tag=tolees-21) a 65.66 EUR (original: 120 EUR) (45.28 %  de descuento) en el siguiente enlace!

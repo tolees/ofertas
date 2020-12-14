@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KJR16QZ/?tag=tolees-21'
 descuento: '78.53'
+average: '29.84'
 ---
 
 Ahora mismo tienes [REPLAY Karyna Pantalones  Verde  Military Green 30   W23/L28  Talla del Fabricante: 23  para Mujer](https://www.amazon.es/dp/B07KJR16QZ/?tag=tolees-21) a 29.84 EUR (original: 139 EUR) (78.53 %  de descuento) en el siguiente enlace!

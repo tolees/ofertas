@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0001IW8AG/?tag=tolees-21'
 descuento: '33.24'
+average: '12.43'
 ---
 
 Tienes [Stanley STA084114 - Juego de tenazas y alicates](https://www.amazon.es/dp/B0001IW8AG/?tag=tolees-21) con un 33.24 % de descuento con precio de oferta de 12.43 EUR (original: 18.62 EUR) en el siguiente enlace!

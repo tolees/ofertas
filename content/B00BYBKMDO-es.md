@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00BYBKMDO/?tag=tolees-21'
 descuento: '35.99'
+average: '10.53'
 ---
 
 Tienes [V per vendetta + Sucker punch [Italia] [Blu-ray]](https://www.amazon.es/dp/B00BYBKMDO/?tag=tolees-21) con un 35.99 % de descuento con precio de oferta de 10.53 EUR (original: 16.45 EUR) en el siguiente enlace!

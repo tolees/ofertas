@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00L5GQSR2/?tag=tolees-21'
 descuento: '44.18'
+average: '23.18'
 ---
 
 Está [Illa bc3620 cazo con lo Especial Revestimiento Antiadherente  Aluminio  Blanco](https://www.amazon.es/dp/B00L5GQSR2/?tag=tolees-21) con 44.18 de descuento por 23.18 EUR (original: 41.53 EUR) en el siguiente enlace!

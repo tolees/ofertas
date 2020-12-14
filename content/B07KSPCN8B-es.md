@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KSPCN8B/?tag=tolees-21'
 descuento: '62.62'
+average: '18.69'
 ---
 
 Tienes [Mpow Elfo Nocturno Auriculares Gaming PS4  Cascos Gaming con Micrófono Reducción para PS4 Xbox One Nintendo Switch PC  Auriculares Gaming con LED 3.5mm  Control de Volumen con Adaptador](https://www.amazon.es/dp/B07KSPCN8B/?tag=tolees-21) con un 62.62 % de descuento con precio de oferta de 18.69 EUR (original: 50 EUR) en el siguiente enlace!

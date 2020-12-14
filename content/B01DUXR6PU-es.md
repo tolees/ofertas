@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DUXR6PU/?tag=tolees-21'
 descuento: '73.17'
+average: '1.8'
 ---
 
 Está [Purina One - Especialidades para Gatos  Rico en Pavo y Arroz - 800 g](https://www.amazon.es/dp/B01DUXR6PU/?tag=tolees-21) con 73.17 de descuento por 1.8 EUR (original: 6.71 EUR) en el siguiente enlace!

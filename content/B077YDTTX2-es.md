@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077YDTTX2/?tag=tolees-21'
 descuento: '53.73'
+average: '7.38'
 ---
 
 Está [HIKARO AMA SHIPLEY camisetas  Azul  Navy   36  Talla del fabricante: X-Small ](https://www.amazon.es/dp/B077YDTTX2/?tag=tolees-21) con 53.73 de descuento por 7.38 EUR (original: 15.95 EUR) en el siguiente enlace!

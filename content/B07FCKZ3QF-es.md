@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FCKZ3QF/?tag=tolees-21'
 descuento: '99.50'
+average: '24.99'
 ---
 
 Está [VonHaus Radiador de Aceite 2000 W – 3 Ajustes de Potencia  Termostato Ajustable  9 Elementos  Color Blanco](https://www.amazon.es/dp/B07FCKZ3QF/?tag=tolees-21) con 99.50 de descuento por 24.99 EUR (original: 4999 EUR) en el siguiente enlace!

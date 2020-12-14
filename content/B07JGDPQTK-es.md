@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JGDPQTK/?tag=tolees-21'
 descuento: '33.92'
+average: '42.95'
 ---
 
 Está [Lacoste Mh7092 Bañador  Azul  Capitaine/Calanque 9ba   Small para Hombre](https://www.amazon.es/dp/B07JGDPQTK/?tag=tolees-21) con 33.92 de descuento por 42.95 EUR (original: 65 EUR) en el siguiente enlace!

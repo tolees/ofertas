@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071Z3Z1YZ/?tag=tolees-21'
 descuento: '36.93'
+average: '113.53'
 ---
 
 Tienes [Asics Gel-Kayano 24  Zapatillas de Running Hombre  Negro  Black/Phantom/White 9016   43.5 EU](https://www.amazon.es/dp/B071Z3Z1YZ/?tag=tolees-21) con un 36.93 % de descuento con precio de oferta de 113.53 EUR (original: 180 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L9RFP72/?tag=tolees-21'
 descuento: '36.47'
+average: '37.48'
 ---
 
 Está [Napapijri Elbas 2 Polo Azul  BLU Marine 176  Medium para Hombre](https://www.amazon.es/dp/B07L9RFP72/?tag=tolees-21) con 36.47 de descuento por 37.48 EUR (original: 59 EUR) en el siguiente enlace!

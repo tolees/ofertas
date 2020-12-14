@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BJGBS9L/?tag=tolees-21'
 descuento: '74.95'
+average: '3.75'
 ---
 
 Está [Dove Loción Aguacate - 3 Paquetes de 400 ml - Total: 1200 ml](https://www.amazon.es/dp/B07BJGBS9L/?tag=tolees-21) con 74.95 de descuento por 3.75 EUR (original: 14.97 EUR) en el siguiente enlace!

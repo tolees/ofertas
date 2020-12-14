@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F27RHLR/?tag=tolees-21'
 descuento: '30.00'
+average: '9.8'
 ---
 
 Está [Amazon Essentials Classic-fit 7\" Print Short Pantalones cortos  Gris  Grey Ineapple Gre   W28  ](https://www.amazon.es/dp/B07F27RHLR/?tag=tolees-21) con 30.00 de descuento por 9.8 EUR (original: 14 EUR) en el siguiente enlace!

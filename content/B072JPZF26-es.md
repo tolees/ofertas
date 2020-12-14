@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072JPZF26/?tag=tolees-21'
 descuento: '53.19'
+average: '18.72'
 ---
 
 Ahora mismo tienes [Only Onlbell Lisa L/s Pullover Knt  suéter Mujer   Sky Captain Stripes:w. Sundried Tomato   40  Talla del Fabricante: Large ](https://www.amazon.es/dp/B072JPZF26/?tag=tolees-21) a 18.72 EUR (original: 39.99 EUR) (53.19 %  de descuento) en el siguiente enlace!

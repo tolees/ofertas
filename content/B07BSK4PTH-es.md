@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BSK4PTH/?tag=tolees-21'
 descuento: '55.86'
+average: '31.34'
 ---
 
 Ahora mismo tienes [Nike Wmns Md Runner 2 Eng Mesh  Zapatillas de Running para Mujer  Negro  Black/Black/Igloo/White 003   36.5 EU](https://www.amazon.es/dp/B07BSK4PTH/?tag=tolees-21) a 31.34 EUR (original: 71 EUR) (55.86 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CFS6LL5/?tag=tolees-21'
 descuento: '64.64'
+average: '17.66'
 ---
 
 Tienes [Marco Tozzi 2-2-25023-31  Botas Chelsea para Mujer  Gris  Dk.Grey Comb 225   39 EU](https://www.amazon.es/dp/B07CFS6LL5/?tag=tolees-21) con un 64.64 % de descuento con precio de oferta de 17.66 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078MP8MVL/?tag=tolees-21'
 descuento: '81.48'
+average: '18.52'
 ---
 
 Ahora mismo tienes [Kamik Quinn3gtx  Botas de Nieve para Niñas  Morado  Grape-Raisin Gra   35 EU](https://www.amazon.es/dp/B078MP8MVL/?tag=tolees-21) a 18.52 EUR (original: 100 EUR) (81.48 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y2ZD2CD/?tag=tolees-21'
 descuento: '69.01'
+average: '19.99'
 ---
 
 Está [Reloj Pulsera de Cuarzo Deportivo Analógico con Malla de Cuero Bovino Color Naranja y Acabado Negro Mate  para Hombre](https://www.amazon.es/dp/B06Y2ZD2CD/?tag=tolees-21) con 69.01 de descuento por 19.99 EUR (original: 64.5 EUR) en el siguiente enlace!

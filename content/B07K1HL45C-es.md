@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K1HL45C/?tag=tolees-21'
 descuento: '67.40'
+average: '14.7'
 ---
 
 Ahora mismo tienes [Emporio Armani Underwear 9p504 Bañador   Cerchi Mar/BCO/Rossol 58235   Medium para Hombre](https://www.amazon.es/dp/B07K1HL45C/?tag=tolees-21) a 14.7 EUR (original: 45.09 EUR) (67.40 %  de descuento) en el siguiente enlace!

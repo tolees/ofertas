@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DD7FMYL/?tag=tolees-21'
 descuento: '27.51'
+average: '28.99'
 ---
 
 Ahora mismo tienes [Destornillador Eléctrico  DEKO inalámbrico Batería de uso doméstico Batería recargable Taladro Herramientas de la pistola de poder con antorcha torcida LED  3.6 V ](https://www.amazon.es/dp/B07DD7FMYL/?tag=tolees-21) a 28.99 EUR (original: 39.99 EUR) (27.51 %  de descuento) en el siguiente enlace!

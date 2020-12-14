@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCNW81X/?tag=tolees-21'
 descuento: '56.96'
+average: '40.89'
 ---
 
 Está [Nike Superfly 6 Academy NJR FG/MG  Zapatillas de Fútbol Unisex Adulto   Amarillo/White/Black 710   43 EU](https://www.amazon.es/dp/B07DCNW81X/?tag=tolees-21) con 56.96 de descuento por 40.89 EUR (original: 95 EUR) en el siguiente enlace!

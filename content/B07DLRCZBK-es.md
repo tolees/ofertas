@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLRCZBK/?tag=tolees-21'
 descuento: '55.16'
+average: '12.99'
 ---
 
 Está [Marco huellas bebe Lenbest  huella bebe  marco foto huella para originales recién nacido Handprints y Huellas  Almohadilla de Tinta No-Tóxica -Blanco](https://www.amazon.es/dp/B07DLRCZBK/?tag=tolees-21) con 55.16 de descuento por 12.99 EUR (original: 28.97 EUR) en el siguiente enlace!

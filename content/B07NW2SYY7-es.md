@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NW2SYY7/?tag=tolees-21'
 descuento: '47.07'
+average: '17.99'
 ---
 
 Está [Merisny Timbre Inalámbrico Impermeable  Autoalimentado con Indicadores LED  1 Transmisor y 1 Receptor  51 Melodías y 5 Volumen  Alcance 150m a 300m  para Casa Oficina Hotel - Blanco【Sin Batería】](https://www.amazon.es/dp/B07NW2SYY7/?tag=tolees-21) con 47.07 de descuento por 17.99 EUR (original: 33.99 EUR) en el siguiente enlace!

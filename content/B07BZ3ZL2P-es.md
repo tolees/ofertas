@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BZ3ZL2P/?tag=tolees-21'
 descuento: '43.82'
+average: '42.08'
 ---
 
 Tienes [Hilfiger Denim Tommy Jeans Light Textile Low  Zapatillas para Mujer  Rosa  Rose Cloud 646   41 EU](https://www.amazon.es/dp/B07BZ3ZL2P/?tag=tolees-21) con un 43.82 % de descuento con precio de oferta de 42.08 EUR (original: 74.9 EUR) en el siguiente enlace!

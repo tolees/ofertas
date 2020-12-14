@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RM8MZV/?tag=tolees-21'
 descuento: '76.13'
+average: '28.64'
 ---
 
 Tienes [The North Face Base Camp Rain Shorty  Botas de Agua para Mujer  Amarillo Yellow/TNF Black Lr0  37 EU](https://www.amazon.es/dp/B079RM8MZV/?tag=tolees-21) con un 76.13 % de descuento con precio de oferta de 28.64 EUR (original: 120 EUR) en el siguiente enlace!

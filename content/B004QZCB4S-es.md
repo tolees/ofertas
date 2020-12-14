@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004QZCB4S/?tag=tolees-21'
 descuento: '43.63'
+average: '29.82'
 ---
 
 Ahora mismo tienes [Mantita"Pulpino"](https://www.amazon.es/dp/B004QZCB4S/?tag=tolees-21) a 29.82 EUR (original: 52.9 EUR) (43.63 %  de descuento) en el siguiente enlace!

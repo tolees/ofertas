@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0007VJMLA/?tag=tolees-21'
 descuento: '27.21'
+average: '36.36'
 ---
 
 Está [Leifheit Pegasus 180 Solid Plus - Tendedero con alas de metal  color azul](https://www.amazon.es/dp/B0007VJMLA/?tag=tolees-21) con 27.21 de descuento por 36.36 EUR (original: 49.95 EUR) en el siguiente enlace!

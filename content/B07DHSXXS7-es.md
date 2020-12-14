@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHSXXS7/?tag=tolees-21'
 descuento: '55.96'
+average: '39.2'
 ---
 
 Ahora mismo tienes [Lacoste Avance 119 2 SMA  Zapatillas para Hombre  Negro  Black/Wht 312   44 EU](https://www.amazon.es/dp/B07DHSXXS7/?tag=tolees-21) a 39.2 EUR (original: 89 EUR) (55.96 %  de descuento) en el siguiente enlace!

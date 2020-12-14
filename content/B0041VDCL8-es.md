@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0041VDCL8/?tag=tolees-21'
 descuento: '42.63'
+average: '189'
 ---
 
 Está [Asus VK278Q - Monitor de 27"  con tecnología WLED ](https://www.amazon.es/dp/B0041VDCL8/?tag=tolees-21) con 42.63 de descuento por 189 EUR (original: 329.43 EUR) en el siguiente enlace!

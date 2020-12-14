@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JR9MCRP/?tag=tolees-21'
 descuento: '50.77'
+average: '32'
 ---
 
 Está [Hilfiger Denim TJM Tommy Classics Stretch Polo  Gris  Lt Grey Htr 038   Medium para Hombre](https://www.amazon.es/dp/B07JR9MCRP/?tag=tolees-21) con 50.77 de descuento por 32 EUR (original: 65 EUR) en el siguiente enlace!

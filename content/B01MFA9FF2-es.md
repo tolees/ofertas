@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MFA9FF2/?tag=tolees-21'
 descuento: '45.46'
+average: '15.27'
 ---
 
 Tienes [Under Amour Exagerar Pantalones Cortos  Mujer  Gris  True Heather  / Azul  Infinity   S](https://www.amazon.es/dp/B01MFA9FF2/?tag=tolees-21) con un 45.46 % de descuento con precio de oferta de 15.27 EUR (original: 28 EUR) en el siguiente enlace!

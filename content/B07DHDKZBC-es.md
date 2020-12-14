@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHDKZBC/?tag=tolees-21'
 descuento: '60.87'
+average: '15.65'
 ---
 
 Está [SUNLU 3D Printer Filament PLA Plus Grey Blue  PLA Plus Filament 1.75 mm Low Odor Dimensional Accuracy +/- 0.02 mm  3D Printing Filament 2.2 LBS  1KG  Spool for 3D Printers & 3D Pens Grey Blue](https://www.amazon.es/dp/B07DHDKZBC/?tag=tolees-21) con 60.87 de descuento por 15.65 EUR (original: 39.99 EUR) en el siguiente enlace!

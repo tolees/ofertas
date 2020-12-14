@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078ZL4B5X/?tag=tolees-21'
 descuento: '79.24'
+average: '19.7'
 ---
 
 Tienes [Supra Titanium  Zapatillas para Hombre  Negro  Black-White 002   45.5 EU](https://www.amazon.es/dp/B078ZL4B5X/?tag=tolees-21) con un 79.24 % de descuento con precio de oferta de 19.7 EUR (original: 94.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00FBO4DIU/?tag=tolees-21'
 descuento: '46.51'
+average: '14.95'
 ---
 
 Está [Pepe Jeans Eggo Long  Top de Manga Larga Para Hombre  Gris  Grey Marl 933   XX-Large](https://www.amazon.es/dp/B00FBO4DIU/?tag=tolees-21) con 46.51 de descuento por 14.95 EUR (original: 27.95 EUR) en el siguiente enlace!

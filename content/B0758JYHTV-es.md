@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0758JYHTV/?tag=tolees-21'
 descuento: '55.54'
+average: '37.79'
 ---
 
 Ahora mismo tienes [Vans_Apparel Subculture Hoodie  Capucha para Mujer  Marfil  Marshmallow   8  Talla del Fabricante: Small ](https://www.amazon.es/dp/B0758JYHTV/?tag=tolees-21) a 37.79 EUR (original: 85 EUR) (55.54 %  de descuento) en el siguiente enlace!

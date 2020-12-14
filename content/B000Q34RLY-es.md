@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000Q34RLY/?tag=tolees-21'
 descuento: '42.74'
+average: '17.75'
 ---
 
 Está [Clinique 1401 - Agua de perfume](https://www.amazon.es/dp/B000Q34RLY/?tag=tolees-21) con 42.74 de descuento por 17.75 EUR (original: 31 EUR) en el siguiente enlace!

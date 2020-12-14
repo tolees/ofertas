@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073FMZQG1/?tag=tolees-21'
 descuento: '57.07'
+average: '27.88'
 ---
 
 Ahora mismo tienes [Reebok Flexile  Zapatillas de Deporte para Mujer  Blanco  Lucid Lilac Shadow/White   38.5 EU](https://www.amazon.es/dp/B073FMZQG1/?tag=tolees-21) a 27.88 EUR (original: 64.95 EUR) (57.07 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FKGWXFP/?tag=tolees-21'
 descuento: '41.24'
+average: '49.95'
 ---
 
 Está [Nike Air Zoom Pegasus 35  GS   Zapatillas de Running para Niños   White/Metallic Silver/Barely Volt 100   38.5 EU](https://www.amazon.es/dp/B07FKGWXFP/?tag=tolees-21) con 41.24 de descuento por 49.95 EUR (original: 85 EUR) en el siguiente enlace!

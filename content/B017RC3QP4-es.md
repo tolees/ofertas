@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017RC3QP4/?tag=tolees-21'
 descuento: '42.92'
+average: '19.95'
 ---
 
 Tienes [Eriksen Reloj de hombre rectangular con correa de piel MCS](https://www.amazon.es/dp/B017RC3QP4/?tag=tolees-21) con un 42.92 % de descuento con precio de oferta de 19.95 EUR (original: 34.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D1K3LVZ/?tag=tolees-21'
 descuento: '48.61'
+average: '71.95'
 ---
 
 Ahora mismo tienes [Asics Gt-2000 6  Zapatillas de Entrenamiento para Hombre  Negro  Red Alert/Black 600   48 EU](https://www.amazon.es/dp/B07D1K3LVZ/?tag=tolees-21) a 71.95 EUR (original: 140 EUR) (48.61 %  de descuento) en el siguiente enlace!

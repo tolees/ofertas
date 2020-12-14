@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JQC135Q/?tag=tolees-21'
 descuento: '28.45'
+average: '12.5'
 ---
 
 Está [GreeSuit Cuchillo para Pan 8 Pulgadas - Acero Inoxidable de Alto Carbono de la Mejor Calidad - Filo Afilado  antiincrustantes y anticorrosión](https://www.amazon.es/dp/B07JQC135Q/?tag=tolees-21) con 28.45 de descuento por 12.5 EUR (original: 17.47 EUR) en el siguiente enlace!

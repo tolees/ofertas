@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01CD4NRZU/?tag=tolees-21'
 descuento: '47.37'
+average: '109.99'
 ---
 
 Ahora mismo tienes [Marckonfort Cabezal Partido tapizado Lyon 160X95 con Tachuelas Blanco](https://www.amazon.es/dp/B01CD4NRZU/?tag=tolees-21) a 109.99 EUR (original: 209 EUR) (47.37 %  de descuento) en el siguiente enlace!

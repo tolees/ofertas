@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FY6VS6S/?tag=tolees-21'
 descuento: '49.99'
+average: '19.98'
 ---
 
 Está [Lee Pique Polo  Blanco  Bright White Lj   L para Hombre](https://www.amazon.es/dp/B07FY6VS6S/?tag=tolees-21) con 49.99 de descuento por 19.98 EUR (original: 39.95 EUR) en el siguiente enlace!

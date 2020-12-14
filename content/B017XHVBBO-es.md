@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017XHVBBO/?tag=tolees-21'
 descuento: '57.24'
+average: '19.24'
 ---
 
 Ahora mismo tienes [Levi s Classic Icon Belt  Cinturón Mujer  Marrón  Brown   90 cm  Talla del fabricante: 90 ](https://www.amazon.es/dp/B017XHVBBO/?tag=tolees-21) a 19.24 EUR (original: 45 EUR) (57.24 %  de descuento) en el siguiente enlace!

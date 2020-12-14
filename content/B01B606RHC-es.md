@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01B606RHC/?tag=tolees-21'
 descuento: '57.71'
+average: '27.47'
 ---
 
 Está [Skechers Bikers-Curbed  Entrenadores para Mujer  Negro  Black   37.5 EU](https://www.amazon.es/dp/B01B606RHC/?tag=tolees-21) con 57.71 de descuento por 27.47 EUR (original: 64.95 EUR) en el siguiente enlace!

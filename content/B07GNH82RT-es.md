@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GNH82RT/?tag=tolees-21'
 descuento: '57.99'
+average: '14.7'
 ---
 
 Ahora mismo tienes [JACK & JONES Jorart Muller Sweat Hood  Capucha para Hombre  Gris Large  Talla del Fabricante: ](https://www.amazon.es/dp/B07GNH82RT/?tag=tolees-21) a 14.7 EUR (original: 34.99 EUR) (57.99 %  de descuento) en el siguiente enlace!

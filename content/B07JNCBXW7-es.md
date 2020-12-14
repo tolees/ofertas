@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JNCBXW7/?tag=tolees-21'
 descuento: '38.61'
+average: '85.95'
 ---
 
 Ahora mismo tienes [Nike Air Zoom Vomero 14  Zapatillas de Running para Hombre  Negro  Black/White/Thunder Grey 001   45.5 EU](https://www.amazon.es/dp/B07JNCBXW7/?tag=tolees-21) a 85.95 EUR (original: 140 EUR) (38.61 %  de descuento) en el siguiente enlace!

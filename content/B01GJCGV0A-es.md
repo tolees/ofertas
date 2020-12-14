@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GJCGV0A/?tag=tolees-21'
 descuento: '57.67'
+average: '71.96'
 ---
 
 Está [Taurus Liquajuice Legend-Licuadora  150 W  80 RPM  Sistema antigoteo  Cuerpo en Acero Inoxidable   1.5 litros  Plateada](https://www.amazon.es/dp/B01GJCGV0A/?tag=tolees-21) con 57.67 de descuento por 71.96 EUR (original: 169.99 EUR) en el siguiente enlace!

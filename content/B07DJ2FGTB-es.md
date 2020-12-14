@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ2FGTB/?tag=tolees-21'
 descuento: '58.28'
+average: '31.29'
 ---
 
 Tienes [New Balance Gw500v1  Zapatillas de Deporte para Mujer  Blanco  Munsell White/Dark Violet Glo/Platinum Sky Swv   36 EU](https://www.amazon.es/dp/B07DJ2FGTB/?tag=tolees-21) con un 58.28 % de descuento con precio de oferta de 31.29 EUR (original: 75 EUR) en el siguiente enlace!

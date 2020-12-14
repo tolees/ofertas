@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000V3MEC8/?tag=tolees-21'
 descuento: '50.86'
+average: '8.6'
 ---
 
 Ahora mismo tienes [Vichy - Purete Thermale - Limpiador facial calmante micelar para mujer - 400 ml](https://www.amazon.es/dp/B000V3MEC8/?tag=tolees-21) a 8.6 EUR (original: 17.5 EUR) (50.86 %  de descuento) en el siguiente enlace!

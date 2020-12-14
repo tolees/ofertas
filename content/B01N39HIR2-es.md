@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N39HIR2/?tag=tolees-21'
 descuento: '67.51'
+average: '29.24'
 ---
 
 Tienes [K-Swiss Aero Trainer  Zapatillas para Hombre  Negro  Black/White   46 EU](https://www.amazon.es/dp/B01N39HIR2/?tag=tolees-21) con un 67.51 % de descuento con precio de oferta de 29.24 EUR (original: 89.99 EUR) en el siguiente enlace!

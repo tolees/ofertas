@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MFXRW6F/?tag=tolees-21'
 descuento: '31.27'
+average: '10.99'
 ---
 
 Está [YHmall 20 Piezas de Todas Las Pulseras repelentes de Mosquitos.](https://www.amazon.es/dp/B07MFXRW6F/?tag=tolees-21) con 31.27 de descuento por 10.99 EUR (original: 15.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y2GL3WR/?tag=tolees-21'
 descuento: '78.63'
+average: '13.61'
 ---
 
 Ahora mismo tienes [Alfombrista Moderna 25 Alfombra  Acrílico  Azul  67 x 135 cm](https://www.amazon.es/dp/B06Y2GL3WR/?tag=tolees-21) a 13.61 EUR (original: 63.69 EUR) (78.63 %  de descuento) en el siguiente enlace!

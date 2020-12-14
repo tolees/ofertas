@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RLK1NYP/?tag=tolees-21'
 descuento: '63.03'
+average: '24.99'
 ---
 
 Ahora mismo tienes [EMNT Batería para iPhone 6s 2250 mAh  Reemplazo con una Mayor Capacidad Herramientas Completas de reparación Profesional  Instrucción  1 año de Garantía](https://www.amazon.es/dp/B07RLK1NYP/?tag=tolees-21) a 24.99 EUR (original: 67.59 EUR) (63.03 %  de descuento) en el siguiente enlace!

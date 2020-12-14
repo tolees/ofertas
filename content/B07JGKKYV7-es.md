@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JGKKYV7/?tag=tolees-21'
 descuento: '50.02'
+average: '23.99'
 ---
 
 Ahora mismo tienes [SYROKAN - Sujetador Deportivo con Aros Espalda Deportiva Sin Relleno para Mujer Gris ES:95B  EU 80B ](https://www.amazon.es/dp/B07JGKKYV7/?tag=tolees-21) a 23.99 EUR (original: 48 EUR) (50.02 %  de descuento) en el siguiente enlace!

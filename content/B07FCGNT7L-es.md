@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FCGNT7L/?tag=tolees-21'
 descuento: '50.03'
+average: '9.99'
 ---
 
 Ahora mismo tienes [Alicate Pelacables Automático Profesional Multifuncional Automático de Alambre Cable Crimpadora Autoajustable Pelacables Alicates de Corte Herramienta de Terminal AWG 24-10  0 2~6 0 mm² ](https://www.amazon.es/dp/B07FCGNT7L/?tag=tolees-21) a 9.99 EUR (original: 19.99 EUR) (50.03 %  de descuento) en el siguiente enlace!

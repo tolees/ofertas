@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00YO30Q8K/?tag=tolees-21'
 descuento: '57.55'
+average: '8.99'
 ---
 
 Ahora mismo tienes [Adidas AA2298 Calcetines Unisex  Negro  27 - 30 EU  Paquete de 3](https://www.amazon.es/dp/B00YO30Q8K/?tag=tolees-21) a 8.99 EUR (original: 21.18 EUR) (57.55 %  de descuento) en el siguiente enlace!

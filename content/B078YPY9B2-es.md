@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078YPY9B2/?tag=tolees-21'
 descuento: '47.85'
+average: '11.99'
 ---
 
 Ahora mismo tienes [Carpeta para documentos A4  carpeta archivadora  veyette Oficina Nou carpeta Ampliación - Archivador Carpeta  24 bolsillos ](https://www.amazon.es/dp/B078YPY9B2/?tag=tolees-21) a 11.99 EUR (original: 22.99 EUR) (47.85 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B012GXDIQG/?tag=tolees-21'
 descuento: '36.38'
+average: '13.99'
 ---
 
 Tienes [Imixcity Hombre Bañadores de Natación Pantalones Cortos Baño Bóxers Playa Shorts  Azul Cielo  EU L =Tag XL ](https://www.amazon.es/dp/B012GXDIQG/?tag=tolees-21) con un 36.38 % de descuento con precio de oferta de 13.99 EUR (original: 21.99 EUR) en el siguiente enlace!

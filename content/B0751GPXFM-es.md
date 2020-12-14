@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0751GPXFM/?tag=tolees-21'
 descuento: '53.89'
+average: '39.19'
 ---
 
 Está [New Balance Arishi Sport  Zapatillas de Running para Hombre  Verde Olive  42.5 EU](https://www.amazon.es/dp/B0751GPXFM/?tag=tolees-21) con 53.89 de descuento por 39.19 EUR (original: 85 EUR) en el siguiente enlace!

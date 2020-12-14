@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N7Q53FL/?tag=tolees-21'
 descuento: '33.28'
+average: '19.95'
 ---
 
 Está [My Time At Portia](https://www.amazon.es/dp/B07N7Q53FL/?tag=tolees-21) con 33.28 de descuento por 19.95 EUR (original: 29.9 EUR) en el siguiente enlace!

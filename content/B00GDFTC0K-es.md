@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00GDFTC0K/?tag=tolees-21'
 descuento: '41.57'
+average: '109.99'
 ---
 
 Tienes [Makita DF347DWE - Taladro Atornillador 14.4V](https://www.amazon.es/dp/B00GDFTC0K/?tag=tolees-21) con un 41.57 % de descuento con precio de oferta de 109.99 EUR (original: 188.24 EUR) en el siguiente enlace!

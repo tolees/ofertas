@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B4JMHMS/?tag=tolees-21'
 descuento: '62.53'
+average: '20.61'
 ---
 
 Ahora mismo tienes [Hurley Lowrider Portside Bermudas  Mujer  Negro  S/5](https://www.amazon.es/dp/B07B4JMHMS/?tag=tolees-21) a 20.61 EUR (original: 55 EUR) (62.53 %  de descuento) en el siguiente enlace!

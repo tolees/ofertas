@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CSCZH1N/?tag=tolees-21'
 descuento: '42.96'
+average: '37.05'
 ---
 
 Ahora mismo tienes [Puma Prowl Alt Satin Wn s  Zapatillas de Deporte para Mujer  Rosa  Winsome Orchid   42 EU](https://www.amazon.es/dp/B07CSCZH1N/?tag=tolees-21) a 37.05 EUR (original: 64.95 EUR) (42.96 %  de descuento) en el siguiente enlace!

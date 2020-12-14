@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DSRHAD6/?tag=tolees-21'
 descuento: '50.45'
+average: '4.95'
 ---
 
 Está [Reebok Os TR 3P TH HB Cinta  Hombre  Negro/Blanco  Talla Única](https://www.amazon.es/dp/B01DSRHAD6/?tag=tolees-21) con 50.45 de descuento por 4.95 EUR (original: 9.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002F9LZS0/?tag=tolees-21'
 descuento: '34.51'
+average: '58.94'
 ---
 
 Ahora mismo tienes [Josef Seibel Schuhfabrik GmbH Bradfjord 07  Mocasines para Hombre  Negro  48 EU](https://www.amazon.es/dp/B002F9LZS0/?tag=tolees-21) a 58.94 EUR (original: 90 EUR) (34.51 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01ICY33RC/?tag=tolees-21'
 descuento: '25.00'
+average: '77.4'
 ---
 
 Está [Tommy Hilfiger Mujer Acero Inoxidable FASHIONNECKLACEBRACELETANKLET](https://www.amazon.es/dp/B01ICY33RC/?tag=tolees-21) con 25.00 de descuento por 77.4 EUR (original: 103.2 EUR) en el siguiente enlace!

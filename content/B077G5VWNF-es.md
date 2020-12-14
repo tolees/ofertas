@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077G5VWNF/?tag=tolees-21'
 descuento: '66.39'
+average: '4'
 ---
 
 Está [Flash Gordon [Blu-ray]](https://www.amazon.es/dp/B077G5VWNF/?tag=tolees-21) con 66.39 de descuento por 4 EUR (original: 11.9 EUR) en el siguiente enlace!

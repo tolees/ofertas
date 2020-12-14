@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IAOLHR8/?tag=tolees-21'
 descuento: '37.50'
+average: '20'
 ---
 
 Ahora mismo tienes [Reloj Casio para Hombre MRW-200HC-7BVEF](https://www.amazon.es/dp/B00IAOLHR8/?tag=tolees-21) a 20 EUR (original: 32 EUR) (37.50 %  de descuento) en el siguiente enlace!

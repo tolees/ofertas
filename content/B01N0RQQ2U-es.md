@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N0RQQ2U/?tag=tolees-21'
 descuento: '49.37'
+average: '30.35'
 ---
 
 Tienes [Kappa Olymp  Zapatillas Unisex Adulto  Negro  Black/White 1110   43 EU](https://www.amazon.es/dp/B01N0RQQ2U/?tag=tolees-21) con un 49.37 % de descuento con precio de oferta de 30.35 EUR (original: 59.95 EUR) en el siguiente enlace!

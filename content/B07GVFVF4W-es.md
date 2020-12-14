@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GVFVF4W/?tag=tolees-21'
 descuento: '67.01'
+average: '32.99'
 ---
 
 Ahora mismo tienes [iPosible Pulsera Actividad  Reloj Inteligente Hombre Mujer con Pulsómetro Presión Arterial Pulsera Inteligente con Cronómetro Pulsera Podómetro Impermeable IP67 para Android iOS  24 Meses Garantía ](https://www.amazon.es/dp/B07GVFVF4W/?tag=tolees-21) a 32.99 EUR (original: 100 EUR) (67.01 %  de descuento) en el siguiente enlace!

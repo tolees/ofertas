@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002QWDNYK/?tag=tolees-21'
 descuento: '66.05'
+average: '12.56'
 ---
 
 Ahora mismo tienes [Alessi Tonale - Ensaladera  color gris oscuro](https://www.amazon.es/dp/B002QWDNYK/?tag=tolees-21) a 12.56 EUR (original: 37 EUR) (66.05 %  de descuento) en el siguiente enlace!

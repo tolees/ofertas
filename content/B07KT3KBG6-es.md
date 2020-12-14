@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KT3KBG6/?tag=tolees-21'
 descuento: '55.23'
+average: '18.99'
 ---
 
 Está [Wilbest Cinturón Cuero Hombre  Cinturón Para Hombres  Cinturón Cuero Hebilla Automática  Cinturones Piel con Hebilla Automática - Traje Para Ropa Formal/Jeans  125CM  Cintura: 43 31    - 47 24     ](https://www.amazon.es/dp/B07KT3KBG6/?tag=tolees-21) con 55.23 de descuento por 18.99 EUR (original: 42.42 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075R6VJDY/?tag=tolees-21'
 descuento: '66.91'
+average: '33.09'
 ---
 
 Tienes [New Balance 697  Zapatillas de Running para Mujer  Negro  Black/Castlerock Tra   43 EU](https://www.amazon.es/dp/B075R6VJDY/?tag=tolees-21) con un 66.91 % de descuento con precio de oferta de 33.09 EUR (original: 100 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00B2YHE4I/?tag=tolees-21'
 descuento: '39.82'
+average: '29.49'
 ---
 
 Tienes [OMRON BF212 - Báscula de baño digital con análisis de composición corporal  porcentaje de grasa corporal  IMC  memoria para 4 personas](https://www.amazon.es/dp/B00B2YHE4I/?tag=tolees-21) con un 39.82 % de descuento con precio de oferta de 29.49 EUR (original: 49 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071HQS9RJ/?tag=tolees-21'
 descuento: '40.50'
+average: '119'
 ---
 
 Ahora mismo tienes [Taurus DH101 Deshumificador de aire por condension](https://www.amazon.es/dp/B071HQS9RJ/?tag=tolees-21) a 119 EUR (original: 199.99 EUR) (40.50 %  de descuento) en el siguiente enlace!

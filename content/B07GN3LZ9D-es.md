@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GN3LZ9D/?tag=tolees-21'
 descuento: '30.79'
+average: '8.99'
 ---
 
 Está [Eono Essentials - Culote corto de ciclismo para hombre con acolchado de 3 densidades  M ](https://www.amazon.es/dp/B07GN3LZ9D/?tag=tolees-21) con 30.79 de descuento por 8.99 EUR (original: 12.99 EUR) en el siguiente enlace!

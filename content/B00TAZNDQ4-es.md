@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TAZNDQ4/?tag=tolees-21'
 descuento: '41.62'
+average: '19.5'
 ---
 
 Está [Hansgrohe 26824400 Crometta 100 Vario ducha de mano  4 tipos de chorro  blanco/cromo](https://www.amazon.es/dp/B00TAZNDQ4/?tag=tolees-21) con 41.62 de descuento por 19.5 EUR (original: 33.4 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RV6LBBR/?tag=tolees-21'
 descuento: '59.40'
+average: '27.72'
 ---
 
 Está [Axe - Pack de 6 desodorantes para hombre en spray antitranspirante music 150 ml – Lote de 3](https://www.amazon.es/dp/B07RV6LBBR/?tag=tolees-21) con 59.40 de descuento por 27.72 EUR (original: 68.28 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GSBJ1TF/?tag=tolees-21'
 descuento: '64.97'
+average: '115.5'
 ---
 
 Ahora mismo tienes [Karen Millen Dark Floral and Leopard Print Jumpsuit  Mono para Mujer  Negro  Black   38  Talla del Fabricante: UK 10 ](https://www.amazon.es/dp/B07GSBJ1TF/?tag=tolees-21) a 115.5 EUR (original: 329.71 EUR) (64.97 %  de descuento) en el siguiente enlace!

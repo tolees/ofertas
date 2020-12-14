@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079YWZVC2/?tag=tolees-21'
 descuento: '56.22'
+average: '49.98'
 ---
 
 Tienes [adidas X_PLR  Zapatillas para Hombre  Negro Core Black/Gum 0  42 EU](https://www.amazon.es/dp/B079YWZVC2/?tag=tolees-21) con un 56.22 % de descuento con precio de oferta de 49.98 EUR (original: 114.16 EUR) en el siguiente enlace!

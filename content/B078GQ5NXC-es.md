@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078GQ5NXC/?tag=tolees-21'
 descuento: '47.19'
+average: '31.66'
 ---
 
 Ahora mismo tienes [Skechers Go Walk Joy-Hero  Zapatillas para Mujer  Negro  Black/White BKW   38.5 EU](https://www.amazon.es/dp/B078GQ5NXC/?tag=tolees-21) a 31.66 EUR (original: 59.95 EUR) (47.19 %  de descuento) en el siguiente enlace!

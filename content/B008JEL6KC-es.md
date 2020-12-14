@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B008JEL6KC/?tag=tolees-21'
 descuento: '30.63'
+average: '287.75'
 ---
 
 Ahora mismo tienes [Triton 583534 - Cepilladora  tamaño: 317mm ](https://www.amazon.es/dp/B008JEL6KC/?tag=tolees-21) a 287.75 EUR (original: 414.82 EUR) (30.63 %  de descuento) en el siguiente enlace!

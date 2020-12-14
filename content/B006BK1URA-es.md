@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B006BK1URA/?tag=tolees-21'
 descuento: '44.53'
+average: '38.82'
 ---
 
 Está [GANT Solid Pique SS Rugger  Polo para Hombre  Rojo  48  Talla del Fabricante: M ](https://www.amazon.es/dp/B006BK1URA/?tag=tolees-21) con 44.53 de descuento por 38.82 EUR (original: 69.99 EUR) en el siguiente enlace!

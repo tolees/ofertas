@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MZ2WT5K/?tag=tolees-21'
 descuento: '55.76'
+average: '17.23'
 ---
 
 Ahora mismo tienes [BOSS Hugo Brief 3p Co/el  Bañador Hombre  Azul  Open Miscellaneous   Small](https://www.amazon.es/dp/B01MZ2WT5K/?tag=tolees-21) a 17.23 EUR (original: 38.95 EUR) (55.76 %  de descuento) en el siguiente enlace!

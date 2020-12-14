@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00J4JLK84/?tag=tolees-21'
 descuento: '32.40'
+average: '2.9'
 ---
 
 Está [Compo Sana Orquídeas 5 L 42x23x5.5 cm](https://www.amazon.es/dp/B00J4JLK84/?tag=tolees-21) con 32.40 de descuento por 2.9 EUR (original: 4.29 EUR) en el siguiente enlace!

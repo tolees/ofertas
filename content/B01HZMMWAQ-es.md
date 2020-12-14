@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HZMMWAQ/?tag=tolees-21'
 descuento: '53.53'
+average: '79'
 ---
 
 Está [Reloj ESPRIT para Mujer ES109232001](https://www.amazon.es/dp/B01HZMMWAQ/?tag=tolees-21) con 53.53 de descuento por 79 EUR (original: 170 EUR) en el siguiente enlace!

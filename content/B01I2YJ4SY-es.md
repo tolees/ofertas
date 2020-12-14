@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01I2YJ4SY/?tag=tolees-21'
 descuento: '41.00'
+average: '59'
 ---
 
 Está [JANE Mini Goumi - Robot de cocina  unisex](https://www.amazon.es/dp/B01I2YJ4SY/?tag=tolees-21) con 41.00 de descuento por 59 EUR (original: 100 EUR) en el siguiente enlace!

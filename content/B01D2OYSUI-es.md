@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01D2OYSUI/?tag=tolees-21'
 descuento: '64.71'
+average: '4.44'
 ---
 
 Tienes [Cinturón Negro Segura Del Bebé De 5 Puntos Para Silla De Paseo Arnés Correa Cochecito De Niño Con Errores](https://www.amazon.es/dp/B01D2OYSUI/?tag=tolees-21) con un 64.71 % de descuento con precio de oferta de 4.44 EUR (original: 12.58 EUR) en el siguiente enlace!

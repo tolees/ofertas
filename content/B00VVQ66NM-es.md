@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00VVQ66NM/?tag=tolees-21'
 descuento: '62.12'
+average: '18.9'
 ---
 
 Tienes [Samsung EF-BT550BSEG - Protector tipo libro para Samsung Galaxy Tab A 9.7  edición 2015  Color Titanio oscuro](https://www.amazon.es/dp/B00VVQ66NM/?tag=tolees-21) con un 62.12 % de descuento con precio de oferta de 18.9 EUR (original: 49.9 EUR) en el siguiente enlace!

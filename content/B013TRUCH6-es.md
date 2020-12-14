@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B013TRUCH6/?tag=tolees-21'
 descuento: '45.43'
+average: '8.18'
 ---
 
 Está [Marvel Figura de Vinilo Holiday Dancing Groot  colección Guardians of The Galaxy Funko 6196](https://www.amazon.es/dp/B013TRUCH6/?tag=tolees-21) con 45.43 de descuento por 8.18 EUR (original: 14.99 EUR) en el siguiente enlace!

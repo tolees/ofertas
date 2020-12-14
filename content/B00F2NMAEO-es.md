@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00F2NMAEO/?tag=tolees-21'
 descuento: '38.19'
+average: '10.36'
 ---
 
 Ahora mismo tienes [Bellota 8054-500 MACETA GOMA BLANCA 500GR  500 g](https://www.amazon.es/dp/B00F2NMAEO/?tag=tolees-21) a 10.36 EUR (original: 16.76 EUR) (38.19 %  de descuento) en el siguiente enlace!

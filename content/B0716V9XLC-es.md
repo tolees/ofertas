@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0716V9XLC/?tag=tolees-21'
 descuento: '66.43'
+average: '25.16'
 ---
 
 Ahora mismo tienes [Puma Mega NRGY Turbo  Zapatillas De Deporte para Exterior para Mujer  Rosa  Love Potion-Dark Purple   39 EU](https://www.amazon.es/dp/B0716V9XLC/?tag=tolees-21) a 25.16 EUR (original: 74.95 EUR) (66.43 %  de descuento) en el siguiente enlace!

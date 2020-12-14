@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MJL5LWL/?tag=tolees-21'
 descuento: '50.03'
+average: '9.99'
 ---
 
 Tienes [Maison & White Organizador de racks de hierbas y especias de 3 niveles | Diseño moderno antideslizante independiente | Diseño universal | Solución de almacenamiento de cocina y despensa oro rosa](https://www.amazon.es/dp/B07MJL5LWL/?tag=tolees-21) con un 50.03 % de descuento con precio de oferta de 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

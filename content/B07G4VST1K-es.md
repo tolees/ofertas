@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G4VST1K/?tag=tolees-21'
 descuento: '44.71'
+average: '46.99'
 ---
 
 Tienes [URCERI Amoladora angular con 5 discos de 125 mm  11000rpm  220V  protector de rueda y mango auxiliar regulable de 2 posiciones](https://www.amazon.es/dp/B07G4VST1K/?tag=tolees-21) con un 44.71 % de descuento con precio de oferta de 46.99 EUR (original: 84.99 EUR) en el siguiente enlace!

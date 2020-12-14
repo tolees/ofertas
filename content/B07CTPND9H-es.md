@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CTPND9H/?tag=tolees-21'
 descuento: '55.54'
+average: '31.12'
 ---
 
 Está [Under Armour Tr96  Zapatillas Deportivas para Interior para Hombre  Gris  Mod Gray/Elemental/Black 102   42.5 EU](https://www.amazon.es/dp/B07CTPND9H/?tag=tolees-21) con 55.54 de descuento por 31.12 EUR (original: 70 EUR) en el siguiente enlace!

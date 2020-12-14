@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072JQ98KD/?tag=tolees-21'
 descuento: '31.24'
+average: '103.14'
 ---
 
 Ahora mismo tienes [Merrell Moab 2 Mid GTX  Botas de Senderismo para Hombre  Negro Black  44.5 EU](https://www.amazon.es/dp/B072JQ98KD/?tag=tolees-21) a 103.14 EUR (original: 150 EUR) (31.24 %  de descuento) en el siguiente enlace!

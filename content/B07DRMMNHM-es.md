@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DRMMNHM/?tag=tolees-21'
 descuento: '47.56'
+average: '20.95'
 ---
 
 Está [Skechers Go Run 600-Farrox  Zapatillas para Niños  Negro  Black Blue Lime Bblm   34 EU](https://www.amazon.es/dp/B07DRMMNHM/?tag=tolees-21) con 47.56 de descuento por 20.95 EUR (original: 39.95 EUR) en el siguiente enlace!

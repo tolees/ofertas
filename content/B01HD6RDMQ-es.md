@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HD6RDMQ/?tag=tolees-21'
 descuento: '39.98'
+average: '53.99'
 ---
 
 Está [Salomon Evasion 2 Aero  Zapatillas de Senderismo para Hombre  Negro/Gris  Black/Magnet/Alloy   42 2/3 EU](https://www.amazon.es/dp/B01HD6RDMQ/?tag=tolees-21) con 39.98 de descuento por 53.99 EUR (original: 89.95 EUR) en el siguiente enlace!

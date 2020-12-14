@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071WLRQKM/?tag=tolees-21'
 descuento: '61.82'
+average: '22.89'
 ---
 
 Ahora mismo tienes [adidas Nemeziz Messi 17.4 FxG  Zapatillas de Fútbol para Hombre   FTWR White/Legend Ink/Energy Blue   42 EU](https://www.amazon.es/dp/B071WLRQKM/?tag=tolees-21) a 22.89 EUR (original: 59.95 EUR) (61.82 %  de descuento) en el siguiente enlace!

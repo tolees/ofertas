@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007XPVYFK/?tag=tolees-21'
 descuento: '56.16'
+average: '9.6'
 ---
 
 Está [Speedo Solid Leisure - Bañador de natación para hombre  color azul marino  talla XS](https://www.amazon.es/dp/B007XPVYFK/?tag=tolees-21) con 56.16 de descuento por 9.6 EUR (original: 21.9 EUR) en el siguiente enlace!

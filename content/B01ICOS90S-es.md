@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01ICOS90S/?tag=tolees-21'
 descuento: '27.30'
+average: '7.99'
 ---
 
 Está [StillCool Saco de dormir fácil de llevar y limpiar sábana con cierre funda de viaje para viaje y camping de verano color azul ](https://www.amazon.es/dp/B01ICOS90S/?tag=tolees-21) con 27.30 de descuento por 7.99 EUR (original: 10.99 EUR) en el siguiente enlace!

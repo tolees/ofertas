@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077K43DBM/?tag=tolees-21'
 descuento: '36.23'
+average: '12.69'
 ---
 
 Tienes [BQ Easy Go - Filamento PLA de 1.75 mm  100% PLA  resistente a la acetona  rápido endurecimiento  color azul cielo](https://www.amazon.es/dp/B077K43DBM/?tag=tolees-21) con un 36.23 % de descuento con precio de oferta de 12.69 EUR (original: 19.9 EUR) en el siguiente enlace!

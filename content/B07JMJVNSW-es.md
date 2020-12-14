@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JMJVNSW/?tag=tolees-21'
 descuento: '67.52'
+average: '12.99'
 ---
 
 Está [JFUNE 1200W Termoventiladores y calefactores cerámicos  Mini Calentador de Ventilador eléctrico Calentador de Escritorio Oscilación automática y 2 ajustes de Calor](https://www.amazon.es/dp/B07JMJVNSW/?tag=tolees-21) con 67.52 de descuento por 12.99 EUR (original: 39.99 EUR) en el siguiente enlace!

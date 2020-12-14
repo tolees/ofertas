@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N9KHEO9/?tag=tolees-21'
 descuento: '67.02'
+average: '9.89'
 ---
 
 Está [Springfield Cotton Trouser  Pantalones para Hombre  Marine Blue  30](https://www.amazon.es/dp/B01N9KHEO9/?tag=tolees-21) con 67.02 de descuento por 9.89 EUR (original: 29.99 EUR) en el siguiente enlace!

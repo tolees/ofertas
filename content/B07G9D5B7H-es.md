@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G9D5B7H/?tag=tolees-21'
 descuento: '37.94'
+average: '17.99'
 ---
 
 Está [VBIGER Poncho de punto de Las Mujeres Elegante para Invierno](https://www.amazon.es/dp/B07G9D5B7H/?tag=tolees-21) con 37.94 de descuento por 17.99 EUR (original: 28.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MRN4KAH/?tag=tolees-21'
 descuento: '77.57'
+average: '26.91'
 ---
 
 Ahora mismo tienes [New Balance 928  Zapatillas de Senderismo para Mujer  Negro Black Bk3  39 EU](https://www.amazon.es/dp/B01MRN4KAH/?tag=tolees-21) a 26.91 EUR (original: 120 EUR) (77.57 %  de descuento) en el siguiente enlace!

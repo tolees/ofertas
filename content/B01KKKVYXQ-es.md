@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KKKVYXQ/?tag=tolees-21'
 descuento: '32.13'
+average: '169'
 ---
 
 Está [Beoplay H5 - Auriculares inalámbricos In-Ear  Bluetooth 4.2  aptX  Li-Ion   Moss Green](https://www.amazon.es/dp/B01KKKVYXQ/?tag=tolees-21) con 32.13 de descuento por 169 EUR (original: 249 EUR) en el siguiente enlace!

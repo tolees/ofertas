@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0721MLPNY/?tag=tolees-21'
 descuento: '50.33'
+average: '29.78'
 ---
 
 Está [Reebok Royal Smash SDE  Zapatillas para Hombre  Gris  Urban Grey/Stucco/Sand Stone/White/Silver   44 EU](https://www.amazon.es/dp/B0721MLPNY/?tag=tolees-21) con 50.33 de descuento por 29.78 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KMQ7MNT/?tag=tolees-21'
 descuento: '36.20'
+average: '8.9'
 ---
 
 Ahora mismo tienes [L Oréal Paris Rouge Signature 103 I Enjoy Pintalabios Mate Permanente Burdeos - 7 ml](https://www.amazon.es/dp/B07KMQ7MNT/?tag=tolees-21) a 8.9 EUR (original: 13.95 EUR) (36.20 %  de descuento) en el siguiente enlace!

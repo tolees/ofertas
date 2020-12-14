@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N3D4MBE/?tag=tolees-21'
 descuento: '54.84'
+average: '55.3'
 ---
 
 Ahora mismo tienes [Caterpillar Chronicle  Botas Clasicas para Hombre  Marrón  Dogwood Brown   45 EU](https://www.amazon.es/dp/B01N3D4MBE/?tag=tolees-21) a 55.3 EUR (original: 122.46 EUR) (54.84 %  de descuento) en el siguiente enlace!

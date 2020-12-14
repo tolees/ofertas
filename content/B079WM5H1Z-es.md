@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079WM5H1Z/?tag=tolees-21'
 descuento: '45.46'
+average: '35.45'
 ---
 
 Está [Pepe Jeans Sloane PM210564 Pantalones  Marrón  Truffle 886   36W / 32L para Hombre](https://www.amazon.es/dp/B079WM5H1Z/?tag=tolees-21) con 45.46 de descuento por 35.45 EUR (original: 65 EUR) en el siguiente enlace!

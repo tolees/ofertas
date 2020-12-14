@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FT2KT6X/?tag=tolees-21'
 descuento: '64.84'
+average: '24.61'
 ---
 
 Tienes [SELECTED HOMME Slhslim-Carlo Pants B Noos  Pantalones para Hombre  Gris Silver Lining  W31/L32](https://www.amazon.es/dp/B07FT2KT6X/?tag=tolees-21) con un 64.84 % de descuento con precio de oferta de 24.61 EUR (original: 69.99 EUR) en el siguiente enlace!

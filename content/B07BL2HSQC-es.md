@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BL2HSQC/?tag=tolees-21'
 descuento: '50.00'
+average: '60'
 ---
 
 Tienes [New Balance Fresh Foam Zante Pursuit  Zapatillas de Running para Hombre  Verde  Mineral Green/Black MG   42.5 EU](https://www.amazon.es/dp/B07BL2HSQC/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 60 EUR (original: 120 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003UV9XCC/?tag=tolees-21'
 descuento: '52.10'
+average: '33.05'
 ---
 
 Tienes [De longhi HVS3031 - Termoventilador cromado  2200 w  3 niveles calefacción  sistema silencioso  función antihielo  ventilación verano  negro y cromado](https://www.amazon.es/dp/B003UV9XCC/?tag=tolees-21) con un 52.10 % de descuento con precio de oferta de 33.05 EUR (original: 69 EUR) en el siguiente enlace!

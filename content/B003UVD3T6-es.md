@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003UVD3T6/?tag=tolees-21'
 descuento: '30.75'
+average: '69.22'
 ---
 
 Tienes [Campart KI-0730 Cocina travel de camping con paraviento  Azul  143 x 48 x 79 5/110 5 cm](https://www.amazon.es/dp/B003UVD3T6/?tag=tolees-21) con un 30.75 % de descuento con precio de oferta de 69.22 EUR (original: 99.95 EUR) en el siguiente enlace!

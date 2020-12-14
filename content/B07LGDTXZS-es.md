@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LGDTXZS/?tag=tolees-21'
 descuento: '26.07'
+average: '14.04'
 ---
 
 Está [Dodot Sensitive - Pañales Talla 3  56 Pañales  6-10 kg](https://www.amazon.es/dp/B07LGDTXZS/?tag=tolees-21) con 26.07 de descuento por 14.04 EUR (original: 18.99 EUR) en el siguiente enlace!

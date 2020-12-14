@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HG7V58K/?tag=tolees-21'
 descuento: '60.02'
+average: '11.99'
 ---
 
 Tienes [Aita BT809 Auriculares con Micrófono  MP3 Player  MicroSD / TF Música  Radio FM Digital  4 en 1 Multifuncional Estéreo Inalámbrico Bluetooth 4.1 + EDR Manos Libres para iPhone  Smartphone  Tablet  MP3 etc. Para adolescentes y adultos  Blanco-azul ](https://www.amazon.es/dp/B01HG7V58K/?tag=tolees-21) con un 60.02 % de descuento con precio de oferta de 11.99 EUR (original: 29.99 EUR) en el siguiente enlace!

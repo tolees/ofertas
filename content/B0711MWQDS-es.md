@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0711MWQDS/?tag=tolees-21'
 descuento: '76.70'
+average: '11.64'
 ---
 
 Tienes [Marco Tozzi 25054  Botas Chelsea para Mujer  Negro  Black Comb   37 EU](https://www.amazon.es/dp/B0711MWQDS/?tag=tolees-21) con un 76.70 % de descuento con precio de oferta de 11.64 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00FG4W2D8/?tag=tolees-21'
 descuento: '59.38'
+average: '8.57'
 ---
 
 Ahora mismo tienes [abril et nature bain shampoo Gold Lifting 250 ml](https://www.amazon.es/dp/B00FG4W2D8/?tag=tolees-21) a 8.57 EUR (original: 21.1 EUR) (59.38 %  de descuento) en el siguiente enlace!

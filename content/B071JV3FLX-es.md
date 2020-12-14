@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071JV3FLX/?tag=tolees-21'
 descuento: '49.57'
+average: '17.65'
 ---
 
 Ahora mismo tienes [FIND Pantalones de Vestir para Hombre Azul  Navy  W34/L31](https://www.amazon.es/dp/B071JV3FLX/?tag=tolees-21) a 17.65 EUR (original: 35 EUR) (49.57 %  de descuento) en el siguiente enlace!

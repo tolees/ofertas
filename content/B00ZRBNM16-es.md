@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00ZRBNM16/?tag=tolees-21'
 descuento: '61.44'
+average: '5.09'
 ---
 
 Está [Papillon 8130175 Set Barbacoa 3 Piezas.](https://www.amazon.es/dp/B00ZRBNM16/?tag=tolees-21) con 61.44 de descuento por 5.09 EUR (original: 13.2 EUR) en el siguiente enlace!

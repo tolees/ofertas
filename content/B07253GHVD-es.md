@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07253GHVD/?tag=tolees-21'
 descuento: '71.83'
+average: '24.21'
 ---
 
 Ahora mismo tienes [Tamaris 23734  Zapatillas para Mujer  Gris  Light Grey   39 EU](https://www.amazon.es/dp/B07253GHVD/?tag=tolees-21) a 24.21 EUR (original: 85.95 EUR) (71.83 %  de descuento) en el siguiente enlace!

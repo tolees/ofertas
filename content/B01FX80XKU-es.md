@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FX80XKU/?tag=tolees-21'
 descuento: '61.36'
+average: '53.49'
 ---
 
 Tienes [Plafón LED para exterior  IP54   con temperatura de color ajustable](https://www.amazon.es/dp/B01FX80XKU/?tag=tolees-21) con un 61.36 % de descuento con precio de oferta de 53.49 EUR (original: 138.42 EUR) en el siguiente enlace!

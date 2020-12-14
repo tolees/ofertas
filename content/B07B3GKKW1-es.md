@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B3GKKW1/?tag=tolees-21'
 descuento: '66.34'
+average: '21.86'
 ---
 
 Ahora mismo tienes [Puma Final Sideline Jacket  Hombre  Pepper Green/Black  S](https://www.amazon.es/dp/B07B3GKKW1/?tag=tolees-21) a 21.86 EUR (original: 64.95 EUR) (66.34 %  de descuento) en el siguiente enlace!

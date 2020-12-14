@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XX4C1Y3/?tag=tolees-21'
 descuento: '50.57'
+average: '44.49'
 ---
 
 Ahora mismo tienes [New Balance WL574EB  Zapatillas Mujer  Azul  WL574EN   37 EU](https://www.amazon.es/dp/B06XX4C1Y3/?tag=tolees-21) a 44.49 EUR (original: 90 EUR) (50.57 %  de descuento) en el siguiente enlace!

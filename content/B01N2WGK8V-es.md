@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N2WGK8V/?tag=tolees-21'
 descuento: '38.03'
+average: '22.99'
 ---
 
 Ahora mismo tienes [Auriculares Bluetooth  ELEGIANT Cascos Inalámbricos Diadema de Sonido Estéreo 4 Modos Altavoz + Micrófono Tarjeta SD/FM/TF Ranura/3 5 Mm De Audio Diseño Liviano Iphone Huawei Xiaomi Samsung Blanco](https://www.amazon.es/dp/B01N2WGK8V/?tag=tolees-21) a 22.99 EUR (original: 37.1 EUR) (38.03 %  de descuento) en el siguiente enlace!

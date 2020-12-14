@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XQPTQ3X/?tag=tolees-21'
 descuento: '33.42'
+average: '39.95'
 ---
 
 Tienes [Vans Herren Classic Crew Sweatshirt  Schwarz  Black/white   X-Large](https://www.amazon.es/dp/B06XQPTQ3X/?tag=tolees-21) con un 33.42 % de descuento con precio de oferta de 39.95 EUR (original: 60 EUR) en el siguiente enlace!

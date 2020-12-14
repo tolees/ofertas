@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LBM78K5/?tag=tolees-21'
 descuento: '46.84'
+average: '42'
 ---
 
 Tienes [Napapijri NOTO 2 Pantalones Cortos Azul  BLU Marine 176  W33  Talla del Fabricante: 33  para Hombre](https://www.amazon.es/dp/B07LBM78K5/?tag=tolees-21) con un 46.84 % de descuento con precio de oferta de 42 EUR (original: 79 EUR) en el siguiente enlace!

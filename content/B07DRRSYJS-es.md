@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DRRSYJS/?tag=tolees-21'
 descuento: '62.06'
+average: '26.56'
 ---
 
 Está [Diadora Action +3  Zapatillas de Running para Hombre   Nero/Grigio Acciaio C2815   42 EU](https://www.amazon.es/dp/B07DRRSYJS/?tag=tolees-21) con 62.06 de descuento por 26.56 EUR (original: 70 EUR) en el siguiente enlace!

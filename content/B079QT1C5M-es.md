@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079QT1C5M/?tag=tolees-21'
 descuento: '59.47'
+average: '22.29'
 ---
 
 Está [Hurley Paradise Volley 17" Bermudas  Hombre  Beige  Khaki   L/43](https://www.amazon.es/dp/B079QT1C5M/?tag=tolees-21) con 59.47 de descuento por 22.29 EUR (original: 55 EUR) en el siguiente enlace!

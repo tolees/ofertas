@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00X9YEGUO/?tag=tolees-21'
 descuento: '28.99'
+average: '29.95'
 ---
 
 Tienes [Dodot Pañales Talla 3  5-10 kg  140 pañales](https://www.amazon.es/dp/B00X9YEGUO/?tag=tolees-21) con un 28.99 % de descuento con precio de oferta de 29.95 EUR (original: 42.18 EUR) en el siguiente enlace!

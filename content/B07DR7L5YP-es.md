@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DR7L5YP/?tag=tolees-21'
 descuento: '45.27'
+average: '27.34'
 ---
 
 Está [hummel Actus Trainer  Zapatillas Unisex Adulto  Blanco  White 9001   43 EU](https://www.amazon.es/dp/B07DR7L5YP/?tag=tolees-21) con 45.27 de descuento por 27.34 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BQRS6HY/?tag=tolees-21'
 descuento: '64.33'
+average: '9.89'
 ---
 
 Está [Universal Llave de Vaso  DANIU Herramientas Multi-función Universales de Mano Llave Universal  Adaptador Hexagonal Herramientas de Reparación 7-19mm](https://www.amazon.es/dp/B07BQRS6HY/?tag=tolees-21) con 64.33 de descuento por 9.89 EUR (original: 27.73 EUR) en el siguiente enlace!

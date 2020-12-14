@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CVGCVH4/?tag=tolees-21'
 descuento: '45.49'
+average: '38.13'
 ---
 
 Ahora mismo tienes [Skechers Recent-Meroso  Zapatillas para Hombre  Gris Charcoal  42.5 EU](https://www.amazon.es/dp/B07CVGCVH4/?tag=tolees-21) a 38.13 EUR (original: 69.95 EUR) (45.49 %  de descuento) en el siguiente enlace!

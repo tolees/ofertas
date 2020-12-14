@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078DZPP85/?tag=tolees-21'
 descuento: '33.34'
+average: '21.99'
 ---
 
 Está [Transmisor FM Coche Bluetooth  Chuangmeida Wireless coche FM transmisor Radio adaptador cargador de coche con doble Puertos USB/AUX  coche Kit con llamadas manos libres para iPhone X 8  Samsung](https://www.amazon.es/dp/B078DZPP85/?tag=tolees-21) con 33.34 de descuento por 21.99 EUR (original: 32.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQKHFNC/?tag=tolees-21'
 descuento: '40.67'
+average: '8.9'
 ---
 
 Está [Woxter Airbeat BT-7 - Auriculares inalámbricos  Bluetooth  batería  botones de control  sujeción por imán  función manos libres  color verde](https://www.amazon.es/dp/B07FQKHFNC/?tag=tolees-21) con 40.67 de descuento por 8.9 EUR (original: 15 EUR) en el siguiente enlace!

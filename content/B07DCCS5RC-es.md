@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCCS5RC/?tag=tolees-21'
 descuento: '45.48'
+average: '16.35'
 ---
 
 Tienes [JACK & JONES Jcovincent Sweat Hood Capucha  Azul Sky Captain  Small para Hombre](https://www.amazon.es/dp/B07DCCS5RC/?tag=tolees-21) con un 45.48 % de descuento con precio de oferta de 16.35 EUR (original: 29.99 EUR) en el siguiente enlace!

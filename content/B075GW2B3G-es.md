@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075GW2B3G/?tag=tolees-21'
 descuento: '41.90'
+average: '14.52'
 ---
 
 Ahora mismo tienes [Leyendas de Luma- Nomads  Juego de Mesa  Ludonaute LDNO0001 ](https://www.amazon.es/dp/B075GW2B3G/?tag=tolees-21) a 14.52 EUR (original: 24.99 EUR) (41.90 %  de descuento) en el siguiente enlace!

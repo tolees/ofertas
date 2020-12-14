@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FDFD6G2/?tag=tolees-21'
 descuento: '71.48'
+average: '45.62'
 ---
 
 Tienes [Palladium Pampa Sport WPS  Botas Clasicas Unisex Adulto  Rojo  Brick Dust/Cowhide R28   40 EU](https://www.amazon.es/dp/B07FDFD6G2/?tag=tolees-21) con un 71.48 % de descuento con precio de oferta de 45.62 EUR (original: 159.95 EUR) en el siguiente enlace!

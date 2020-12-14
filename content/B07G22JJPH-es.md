@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G22JJPH/?tag=tolees-21'
 descuento: '44.01'
+average: '27.99'
 ---
 
 Ahora mismo tienes [Plumas Para Impresión 3D Kit With 4 Bonus PLA 1.75mm Filament Refills for Doodling  Non-Clog Patented Nozzle  Safe Holiday DIY Gift for Kids White Gift Package ](https://www.amazon.es/dp/B07G22JJPH/?tag=tolees-21) a 27.99 EUR (original: 49.99 EUR) (44.01 %  de descuento) en el siguiente enlace!

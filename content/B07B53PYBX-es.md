@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B53PYBX/?tag=tolees-21'
 descuento: '32.04'
+average: '101.9'
 ---
 
 Tienes [G-STAR RAW D-STAQ 3D Skinny  Jeans para Hombre  Azul  medium aged 8968-071  31W / 36L](https://www.amazon.es/dp/B07B53PYBX/?tag=tolees-21) con un 32.04 % de descuento con precio de oferta de 101.9 EUR (original: 149.95 EUR) en el siguiente enlace!

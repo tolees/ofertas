@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0184Z8GDU/?tag=tolees-21'
 descuento: '49.28'
+average: '71'
 ---
 
 Tienes [Columbia Davenport Chukka Waterproof Leather  Oxford para Hombre  Marrón  Cordovan  Prairie Sand   43.5 EU](https://www.amazon.es/dp/B0184Z8GDU/?tag=tolees-21) con un 49.28 % de descuento con precio de oferta de 71 EUR (original: 139.99 EUR) en el siguiente enlace!

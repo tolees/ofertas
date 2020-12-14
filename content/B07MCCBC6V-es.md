@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MCCBC6V/?tag=tolees-21'
 descuento: '33.33'
+average: '11.7'
 ---
 
 Está [Atletico Madrid FC - Reloj despertador  9 x 9cm   Rojo/Blanco ](https://www.amazon.es/dp/B07MCCBC6V/?tag=tolees-21) con 33.33 de descuento por 11.7 EUR (original: 17.55 EUR) en el siguiente enlace!

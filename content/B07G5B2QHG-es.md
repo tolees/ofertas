@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G5B2QHG/?tag=tolees-21'
 descuento: '39.94'
+average: '30'
 ---
 
 Ahora mismo tienes [New Balance KJ373GUY - Zapatillas de Deporte  Unisex Adulto  Beige  40 EU](https://www.amazon.es/dp/B07G5B2QHG/?tag=tolees-21) a 30 EUR (original: 49.95 EUR) (39.94 %  de descuento) en el siguiente enlace!

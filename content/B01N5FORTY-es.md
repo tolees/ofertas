@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N5FORTY/?tag=tolees-21'
 descuento: '53.23'
+average: '10.29'
 ---
 
 Tienes [FIND ER1944 camisetas mujer fiesta   Blanco  White   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B01N5FORTY/?tag=tolees-21) con un 53.23 % de descuento con precio de oferta de 10.29 EUR (original: 22 EUR) en el siguiente enlace!

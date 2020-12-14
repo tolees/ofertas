@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00VOAXPFM/?tag=tolees-21'
 descuento: '60.36'
+average: '8.38'
 ---
 
 Tienes [Flexi Design S Cinta 5m. Rosa](https://www.amazon.es/dp/B00VOAXPFM/?tag=tolees-21) con un 60.36 % de descuento con precio de oferta de 8.38 EUR (original: 21.14 EUR) en el siguiente enlace!

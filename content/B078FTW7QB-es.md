@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078FTW7QB/?tag=tolees-21'
 descuento: '61.98'
+average: '30.4'
 ---
 
 Está [Adidas X 17.3 FG  Botas de fútbol para Hombre  Azul/ Aerver/Tinuni/Vealre  000  42 2/3 EU](https://www.amazon.es/dp/B078FTW7QB/?tag=tolees-21) con 61.98 de descuento por 30.4 EUR (original: 79.95 EUR) en el siguiente enlace!

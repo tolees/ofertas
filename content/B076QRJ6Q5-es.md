@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076QRJ6Q5/?tag=tolees-21'
 descuento: '48.51'
+average: '58.4'
 ---
 
 Tienes [Happy People Nest Swing ](https://www.amazon.es/dp/B076QRJ6Q5/?tag=tolees-21) con un 48.51 % de descuento con precio de oferta de 58.4 EUR (original: 113.43 EUR) en el siguiente enlace!

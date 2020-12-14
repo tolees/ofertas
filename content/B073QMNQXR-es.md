@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073QMNQXR/?tag=tolees-21'
 descuento: '54.76'
+average: '31.67'
 ---
 
 Está [FIND Chaquetón Efecto Piel Vuelta para Hombre  Gris  Grau   Small](https://www.amazon.es/dp/B073QMNQXR/?tag=tolees-21) con 54.76 de descuento por 31.67 EUR (original: 70 EUR) en el siguiente enlace!

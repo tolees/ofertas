@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07864WSCJ/?tag=tolees-21'
 descuento: '63.17'
+average: '20.24'
 ---
 
 Está [Puma Pwrrun 2in1 7 Pantalones  Hombre  Gris  Castor Gray/Flame Scarlet   S](https://www.amazon.es/dp/B07864WSCJ/?tag=tolees-21) con 63.17 de descuento por 20.24 EUR (original: 54.95 EUR) en el siguiente enlace!

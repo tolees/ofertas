@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000QSTBQU/?tag=tolees-21'
 descuento: '52.40'
+average: '35.9'
 ---
 
 Tienes [Optimum Nutrition Gold Standard 100% Whey Proteína en Polvo  Rocky Road - 2270 g](https://www.amazon.es/dp/B000QSTBQU/?tag=tolees-21) con un 52.40 % de descuento con precio de oferta de 35.9 EUR (original: 75.42 EUR) en el siguiente enlace!

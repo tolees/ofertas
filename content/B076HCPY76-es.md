@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076HCPY76/?tag=tolees-21'
 descuento: '45.50'
+average: '59.95'
 ---
 
 Ahora mismo tienes [Kempa Attack Two Contender  Zapatillas de Balonmano para Hombre   Rojo Tomate/Negro/Amarillo 000   47 EU](https://www.amazon.es/dp/B076HCPY76/?tag=tolees-21) a 59.95 EUR (original: 110 EUR) (45.50 %  de descuento) en el siguiente enlace!

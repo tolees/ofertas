@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076W7KKMG/?tag=tolees-21'
 descuento: '77.80'
+average: '9.99'
 ---
 
 Ahora mismo tienes [Jingfude ABS EMS Abdominal Muscular Tonificante Cinturón Hogar Entrenamiento Fitness Gear para Hombres y Mujeres a Tono  pérdida de Peso  Trimmer  Delgado](https://www.amazon.es/dp/B076W7KKMG/?tag=tolees-21) a 9.99 EUR (original: 44.99 EUR) (77.80 %  de descuento) en el siguiente enlace!

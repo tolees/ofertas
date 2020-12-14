@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077VV4MG7/?tag=tolees-21'
 descuento: '45.94'
+average: '40.52'
 ---
 
 Está [Adidas CF Advantage Cl W  Zapatillas de Deporte para Mujer  Aerorr/Ftwbla 000  38 EU](https://www.amazon.es/dp/B077VV4MG7/?tag=tolees-21) con 45.94 de descuento por 40.52 EUR (original: 74.95 EUR) en el siguiente enlace!

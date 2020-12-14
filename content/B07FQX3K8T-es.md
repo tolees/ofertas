@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQX3K8T/?tag=tolees-21'
 descuento: '45.40'
+average: '38.19'
 ---
 
 Tienes [Clarks Step Allenasun  Zapatillas para Mujer  Negro  Black-   37 EU](https://www.amazon.es/dp/B07FQX3K8T/?tag=tolees-21) con un 45.40 % de descuento con precio de oferta de 38.19 EUR (original: 69.95 EUR) en el siguiente enlace!

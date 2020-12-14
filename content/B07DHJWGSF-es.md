@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHJWGSF/?tag=tolees-21'
 descuento: '35.17'
+average: '23.98'
 ---
 
 Está [Luces de Jardín Solar  Hisome IP65 Impermeable Colorido Paisaje/Pathway Lámpara de Acero Inoxidable LED Luces Solares de Exterior Para Patio  Césped  Patio  Fácil Instalación Sin Cables  10 Pack ](https://www.amazon.es/dp/B07DHJWGSF/?tag=tolees-21) con 35.17 de descuento por 23.98 EUR (original: 36.99 EUR) en el siguiente enlace!

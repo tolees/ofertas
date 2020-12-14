@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RKLGZ4W/?tag=tolees-21'
 descuento: '44.65'
+average: '7.19'
 ---
 
 Ahora mismo tienes [Rampow Cable Micro USB 2 4A Carga Rápida [2-Pack] Cable USB Micro USB Compatible con Android  Samsung Galaxy  Kindle  Sony  Nexus  Motorola y más - 1M Negro](https://www.amazon.es/dp/B07RKLGZ4W/?tag=tolees-21) a 7.19 EUR (original: 12.99 EUR) (44.65 %  de descuento) en el siguiente enlace!

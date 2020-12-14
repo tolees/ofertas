@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072J8CMY3/?tag=tolees-21'
 descuento: '50.22'
+average: '11.19'
 ---
 
 Ahora mismo tienes [Bombilla LED Esférica Casquillo E27  12W  Equivalente a 100W  Luz Blanca 6000K  960 Lúmenes  no Regulable  Pack de 4 Unidades](https://www.amazon.es/dp/B072J8CMY3/?tag=tolees-21) a 11.19 EUR (original: 22.48 EUR) (50.22 %  de descuento) en el siguiente enlace!

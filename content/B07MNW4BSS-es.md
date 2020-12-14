@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MNW4BSS/?tag=tolees-21'
 descuento: '26.33'
+average: '13.99'
 ---
 
 Ahora mismo tienes [AUTSCA Mechero Eléctrico  USB Encendedor Doble Arco Eléctricos con luz LED Blanca Carga Rápida de Resistente al Viento sin Llama  Cable USB  Cepillo de Limpieza y Caja de Regalo Incluidos ](https://www.amazon.es/dp/B07MNW4BSS/?tag=tolees-21) a 13.99 EUR (original: 18.99 EUR) (26.33 %  de descuento) en el siguiente enlace!

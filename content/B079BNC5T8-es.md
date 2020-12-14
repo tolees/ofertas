@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079BNC5T8/?tag=tolees-21'
 descuento: '47.25'
+average: '4.22'
 ---
 
 Ahora mismo tienes [Salomon Festival 2-Pack 1 Par de Calcetines Tobilleros  Unisex  Beluga/Dress Azul  S](https://www.amazon.es/dp/B079BNC5T8/?tag=tolees-21) a 4.22 EUR (original: 8 EUR) (47.25 %  de descuento) en el siguiente enlace!

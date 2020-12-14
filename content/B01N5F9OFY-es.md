@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N5F9OFY/?tag=tolees-21'
 descuento: '25.18'
+average: '20.95'
 ---
 
 Tienes [adidas Essentials Classics Polo de Tenis  Hombre  Azul  Collegiate Navy   XL](https://www.amazon.es/dp/B01N5F9OFY/?tag=tolees-21) con un 25.18 % de descuento con precio de oferta de 20.95 EUR (original: 28 EUR) en el siguiente enlace!

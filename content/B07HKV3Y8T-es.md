@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HKV3Y8T/?tag=tolees-21'
 descuento: '67.20'
+average: '7.54'
 ---
 
 Tienes [Mayoral 3186  Polo para Niños  Negro  Tinta 57  2 años  Tamaño del Fabricante:2 ](https://www.amazon.es/dp/B07HKV3Y8T/?tag=tolees-21) con un 67.20 % de descuento con precio de oferta de 7.54 EUR (original: 22.99 EUR) en el siguiente enlace!

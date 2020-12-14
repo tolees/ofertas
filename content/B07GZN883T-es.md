@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GZN883T/?tag=tolees-21'
 descuento: '62.24'
+average: '16.99'
 ---
 
 Ahora mismo tienes [Raqueta de tenis junior  bastidor de aluminio de carbono de 21.6 Inch Raqueta de tenis para niños colgada con bolsa de almacenamiento  ideal para niños Niños Entrenamiento deportivo de niños y niñas  55cm ](https://www.amazon.es/dp/B07GZN883T/?tag=tolees-21) a 16.99 EUR (original: 44.99 EUR) (62.24 %  de descuento) en el siguiente enlace!

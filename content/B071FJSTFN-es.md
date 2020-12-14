@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071FJSTFN/?tag=tolees-21'
 descuento: '36.91'
+average: '35.96'
 ---
 
 Ahora mismo tienes [FIND Botín Stretch Mujer  Rosa  Rose   37](https://www.amazon.es/dp/B071FJSTFN/?tag=tolees-21) a 35.96 EUR (original: 57 EUR) (36.91 %  de descuento) en el siguiente enlace!

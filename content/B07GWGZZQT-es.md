@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GWGZZQT/?tag=tolees-21'
 descuento: '40.92'
+average: '25.99'
 ---
 
 Está [iKich Deshumidificador Portátil Eléctrico 500 ml  Mini Deshumidificador Silencioso 250ml/día  27W Auto-Apagado Bajo Consumo Certificado CE y UL  Habitación Pequeña  Armario Trastero](https://www.amazon.es/dp/B07GWGZZQT/?tag=tolees-21) con 40.92 de descuento por 25.99 EUR (original: 43.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KKQZSSZ/?tag=tolees-21'
 descuento: '69.78'
+average: '16.62'
 ---
 
 Está [Naf Naf Kenp13 Pantalones  Negro  Noir/Blanc 627   W34  Talla del Fabricante: 34  para Mujer](https://www.amazon.es/dp/B07KKQZSSZ/?tag=tolees-21) con 69.78 de descuento por 16.62 EUR (original: 55 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073T5K2PG/?tag=tolees-21'
 descuento: '73.50'
+average: '7'
 ---
 
 Ahora mismo tienes [New Look Supersoft Superskinny Vaquero Skinny  Azul  36 EU  8 UK  para Mujer](https://www.amazon.es/dp/B073T5K2PG/?tag=tolees-21) a 7 EUR (original: 26.42 EUR) (73.50 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0002H0KGU/?tag=tolees-21'
 descuento: '32.35'
+average: '198.89'
 ---
 
 Ahora mismo tienes [Fender Squier Affinity Stratocaster Maple Fingerboard Guitarra Eléctrica](https://www.amazon.es/dp/B0002H0KGU/?tag=tolees-21) a 198.89 EUR (original: 294 EUR) (32.35 %  de descuento) en el siguiente enlace!

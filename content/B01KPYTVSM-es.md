@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KPYTVSM/?tag=tolees-21'
 descuento: '78.65'
+average: '8.53'
 ---
 
 Está [JACK & JONES JCOWORK KNIT CREW NECK  suéter Hombre  Gris  Light Grey Melange   Medium](https://www.amazon.es/dp/B01KPYTVSM/?tag=tolees-21) con 78.65 de descuento por 8.53 EUR (original: 39.95 EUR) en el siguiente enlace!

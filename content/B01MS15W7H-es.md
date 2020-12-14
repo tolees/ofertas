@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MS15W7H/?tag=tolees-21'
 descuento: '91.75'
+average: '16.42'
 ---
 
 Ahora mismo tienes [Jean Bellecour Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Acero Inoxidable REDS23-RGW](https://www.amazon.es/dp/B01MS15W7H/?tag=tolees-21) a 16.42 EUR (original: 199 EUR) (91.75 %  de descuento) en el siguiente enlace!

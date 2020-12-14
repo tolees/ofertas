@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ3PRXN/?tag=tolees-21'
 descuento: '34.61'
+average: '49.04'
 ---
 
 Está [New Balance 410  Zapatillas Unisex Adulto  Verde  Chalkboard/White AC   43 EU](https://www.amazon.es/dp/B07DJ3PRXN/?tag=tolees-21) con 34.61 de descuento por 49.04 EUR (original: 75 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DYLJLLH/?tag=tolees-21'
 descuento: '61.23'
+average: '25.2'
 ---
 
 Está [Nike Air Jordan First Class  PS   Zapatillas Altas Unisex Niños  Negro Black 001  28.5 EU](https://www.amazon.es/dp/B07DYLJLLH/?tag=tolees-21) con 61.23 de descuento por 25.2 EUR (original: 65 EUR) en el siguiente enlace!

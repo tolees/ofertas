@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007VZR3GG/?tag=tolees-21'
 descuento: '51.82'
+average: '150.32'
 ---
 
 Está [Formex 4 Speed 72511.708 - Reloj analógico automático para hombre con correa de silicona  color](https://www.amazon.es/dp/B007VZR3GG/?tag=tolees-21) con 51.82 de descuento por 150.32 EUR (original: 311.98 EUR) en el siguiente enlace!

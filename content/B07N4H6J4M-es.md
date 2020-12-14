@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N4H6J4M/?tag=tolees-21'
 descuento: '99.29'
+average: '16.99'
 ---
 
 Tienes [Bovon Transmisor FM Bluetooth  Comsoon In-Car Transmisor FM Radio Adaptador MP3 Player Coche Manos Libres Kit con Doble Puerto de Unidad Flash USB para Smartphones y Tableta  Verde ](https://www.amazon.es/dp/B07N4H6J4M/?tag=tolees-21) con un 99.29 % de descuento con precio de oferta de 16.99 EUR (original: 2399 EUR) en el siguiente enlace!

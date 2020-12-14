@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0054IPMN8/?tag=tolees-21'
 descuento: '45.89'
+average: '83.13'
 ---
 
 Ahora mismo tienes [Westinghouse Everett Ventilador de Techo E27  Espresso](https://www.amazon.es/dp/B0054IPMN8/?tag=tolees-21) a 83.13 EUR (original: 153.64 EUR) (45.89 %  de descuento) en el siguiente enlace!

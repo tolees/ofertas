@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K74M5CP/?tag=tolees-21'
 descuento: '30.00'
+average: '98'
 ---
 
 Ahora mismo tienes [Asics Gel-Cumulus 20  Zapatillas de Running para Hombre  Amarillo  Lemon Spark/Black 750   44.5 EU](https://www.amazon.es/dp/B07K74M5CP/?tag=tolees-21) a 98 EUR (original: 140 EUR) (30.00 %  de descuento) en el siguiente enlace!

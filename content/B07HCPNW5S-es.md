@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HCPNW5S/?tag=tolees-21'
 descuento: '61.68'
+average: '30.64'
 ---
 
 Tienes [Skechers Escape Plan 2.0  Zapatillas para Hombre  Gris  Charcoal Black Ccbk   46 EU](https://www.amazon.es/dp/B07HCPNW5S/?tag=tolees-21) con un 61.68 % de descuento con precio de oferta de 30.64 EUR (original: 79.95 EUR) en el siguiente enlace!

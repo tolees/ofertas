@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0039NUAB4/?tag=tolees-21'
 descuento: '37.72'
+average: '40.45'
 ---
 
 Está [Anita Active Momentum - Sujetador deportivo para mujer  Negro  Schwarz 001   80B EU](https://www.amazon.es/dp/B0039NUAB4/?tag=tolees-21) con 37.72 de descuento por 40.45 EUR (original: 64.95 EUR) en el siguiente enlace!

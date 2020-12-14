@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073RKZ3SC/?tag=tolees-21'
 descuento: '44.51'
+average: '8.99'
 ---
 
 Está [The Scottish Fine Soaps Coconut & Lime Tambor de Regalo - 4 Piezas](https://www.amazon.es/dp/B073RKZ3SC/?tag=tolees-21) con 44.51 de descuento por 8.99 EUR (original: 16.2 EUR) en el siguiente enlace!

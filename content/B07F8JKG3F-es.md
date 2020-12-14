@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F8JKG3F/?tag=tolees-21'
 descuento: '88.58'
+average: '15.99'
 ---
 
 Tienes [HOMCOM Set Fútbol Sobremesa Juego Mesa de Fútbol con Jugadores Móviles Futbolín para Niño +3 Años y Adultos 93.5x51x16.5cm PP](https://www.amazon.es/dp/B07F8JKG3F/?tag=tolees-21) con un 88.58 % de descuento con precio de oferta de 15.99 EUR (original: 139.99 EUR) en el siguiente enlace!

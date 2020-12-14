@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ1FDCV/?tag=tolees-21'
 descuento: '30.06'
+average: '34.9'
 ---
 
 Ahora mismo tienes [MarsGaming MRB - Consola Retro Portátil  151 Juegos pre-instalados  LCD 2"  microSD  emulador principal GBA  secundario NES  SNES y GB   blanco](https://www.amazon.es/dp/B07CZ1FDCV/?tag=tolees-21) a 34.9 EUR (original: 49.9 EUR) (30.06 %  de descuento) en el siguiente enlace!

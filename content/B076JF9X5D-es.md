@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076JF9X5D/?tag=tolees-21'
 descuento: '40.60'
+average: '26.7'
 ---
 
 Tienes [Salomon Cinturón unisex de running  Cintura pequeña  Botella de 250ml incluida  Cintura ajustable 60-120 cm AGILE 250 BELT SET  Verde lima  L40132200](https://www.amazon.es/dp/B076JF9X5D/?tag=tolees-21) con un 40.60 % de descuento con precio de oferta de 26.7 EUR (original: 44.95 EUR) en el siguiente enlace!

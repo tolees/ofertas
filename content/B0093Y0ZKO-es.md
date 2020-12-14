@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0093Y0ZKO/?tag=tolees-21'
 descuento: '31.08'
+average: '54.21'
 ---
 
 Tienes [Kenzo  Agua fresca - 100 ml.](https://www.amazon.es/dp/B0093Y0ZKO/?tag=tolees-21) con un 31.08 % de descuento con precio de oferta de 54.21 EUR (original: 78.66 EUR) en el siguiente enlace!

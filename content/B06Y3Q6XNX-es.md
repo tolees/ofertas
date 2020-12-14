@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y3Q6XNX/?tag=tolees-21'
 descuento: '50.14'
+average: '17.9'
 ---
 
 Tienes [BIO Spirulina + BIO Chlorella Vegavero® | TESTADA EN LABORATORIO | SIN DIÓXIDO DE SILICIO | 180 Cápsulas | Energía + Desintoxicante | 1125 mg | Vegana + Orgánica + Sin Aditivos](https://www.amazon.es/dp/B06Y3Q6XNX/?tag=tolees-21) con un 50.14 % de descuento con precio de oferta de 17.9 EUR (original: 35.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D1GKP2H/?tag=tolees-21'
 descuento: '75.78'
+average: '24.22'
 ---
 
 Está [New Balance Fresh Foam Cruz v2 Sock  Zapatillas para Mujer  Rosa  Dark Cashmere/Water Vapor Lm2   36.5 EU](https://www.amazon.es/dp/B07D1GKP2H/?tag=tolees-21) con 75.78 de descuento por 24.22 EUR (original: 100 EUR) en el siguiente enlace!

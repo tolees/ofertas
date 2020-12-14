@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC19KBC/?tag=tolees-21'
 descuento: '77.30'
+average: '20.42'
 ---
 
 Ahora mismo tienes [Puma Suede Bow Hexamesh Wn s  Zapatillas para Mujer  Azul  Fair Aqua-Ponderosa Pine   38.5 EU](https://www.amazon.es/dp/B07DC19KBC/?tag=tolees-21) a 20.42 EUR (original: 89.95 EUR) (77.30 %  de descuento) en el siguiente enlace!

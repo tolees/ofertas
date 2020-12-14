@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K2P7BXQ/?tag=tolees-21'
 descuento: '49.99'
+average: '49.98'
 ---
 
 Está [adidas Yung-96  Zapatillas de Gimnasia para Hombre - Azul  Azul Royal/FTWR White/Collegiate Navy  - 40 2/3 EU](https://www.amazon.es/dp/B07K2P7BXQ/?tag=tolees-21) con 49.99 de descuento por 49.98 EUR (original: 99.95 EUR) en el siguiente enlace!

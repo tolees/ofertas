@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D4TSXMG/?tag=tolees-21'
 descuento: '54.26'
+average: '20.56'
 ---
 
 Ahora mismo tienes [Kappa Meseta  Zapatillas Unisex Adulto   Rosa/White 2110   41 EU](https://www.amazon.es/dp/B07D4TSXMG/?tag=tolees-21) a 20.56 EUR (original: 44.95 EUR) (54.26 %  de descuento) en el siguiente enlace!

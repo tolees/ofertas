@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BVMXJ6M/?tag=tolees-21'
 descuento: '29.27'
+average: '28.75'
 ---
 
 Está [Shunga Kit Tickle Me  Color Rosa/Negro - 235 gr](https://www.amazon.es/dp/B01BVMXJ6M/?tag=tolees-21) con 29.27 de descuento por 28.75 EUR (original: 40.65 EUR) en el siguiente enlace!

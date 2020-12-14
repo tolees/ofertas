@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NAU5OD1/?tag=tolees-21'
 descuento: '34.63'
+average: '16.99'
 ---
 
 Está [Linterna LED Resistente al Agua con 6 Accesorios y Batería Recargable Ultra Brillante Faroles de 5 Modos Perfecta para Ciclismo  Camping  Montañismo  Senderismo](https://www.amazon.es/dp/B01NAU5OD1/?tag=tolees-21) con 34.63 de descuento por 16.99 EUR (original: 25.99 EUR) en el siguiente enlace!

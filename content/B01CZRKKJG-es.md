@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01CZRKKJG/?tag=tolees-21'
 descuento: '45.67'
+average: '22.95'
 ---
 
 Está [Kempa Bekleidung Teamsport Sweathose Negro Negro Talla:XX-Large](https://www.amazon.es/dp/B01CZRKKJG/?tag=tolees-21) con 45.67 de descuento por 22.95 EUR (original: 42.24 EUR) en el siguiente enlace!

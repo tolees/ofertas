@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B008Y4AMJS/?tag=tolees-21'
 descuento: '48.71'
+average: '11.36'
 ---
 
 Tienes [Cal Exotics Vibrador  Color Lila - 1 Vibrador](https://www.amazon.es/dp/B008Y4AMJS/?tag=tolees-21) con un 48.71 % de descuento con precio de oferta de 11.36 EUR (original: 22.15 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074SX17QS/?tag=tolees-21'
 descuento: '44.45'
+average: '49.99'
 ---
 
 Está [ALUNAR actualizado DIY Desktop 3D Printer RepRap Prusa i3 kit  de alta precisión de auto-ensamblaje de la impresora tridimensional FDM  máquina de impresión multicolor  M518 ](https://www.amazon.es/dp/B074SX17QS/?tag=tolees-21) con 44.45 de descuento por 49.99 EUR (original: 89.99 EUR) en el siguiente enlace!

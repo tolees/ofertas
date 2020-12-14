@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01F5K6SIM/?tag=tolees-21'
 descuento: '59.04'
+average: '53.25'
 ---
 
 Tienes [Nixon Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable A1091-2369-00](https://www.amazon.es/dp/B01F5K6SIM/?tag=tolees-21) con un 59.04 % de descuento con precio de oferta de 53.25 EUR (original: 130 EUR) en el siguiente enlace!

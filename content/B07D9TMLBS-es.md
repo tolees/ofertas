@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9TMLBS/?tag=tolees-21'
 descuento: '43.60'
+average: '25.35'
 ---
 
 Está [Puma Future 2.4 MG Jr  Zapatillas de Fútbol para Niños  Negro Black-Shocking Orange 02  37.5 EU](https://www.amazon.es/dp/B07D9TMLBS/?tag=tolees-21) con 43.60 de descuento por 25.35 EUR (original: 44.95 EUR) en el siguiente enlace!

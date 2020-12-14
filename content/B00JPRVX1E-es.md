@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00JPRVX1E/?tag=tolees-21'
 descuento: '38.60'
+average: '14.89'
 ---
 
 Está [Schwarzkopf Bc Color Freeze - Acondicionador  400 ml](https://www.amazon.es/dp/B00JPRVX1E/?tag=tolees-21) con 38.60 de descuento por 14.89 EUR (original: 24.25 EUR) en el siguiente enlace!

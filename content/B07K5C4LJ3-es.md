@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K5C4LJ3/?tag=tolees-21'
 descuento: '29.99'
+average: '38.5'
 ---
 
 Está [Pokemon JCC Trueno Perdidos Caja De Entrenador Elite  Color  ASMODEE POET1805](https://www.amazon.es/dp/B07K5C4LJ3/?tag=tolees-21) con 29.99 de descuento por 38.5 EUR (original: 54.99 EUR) en el siguiente enlace!

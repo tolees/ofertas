@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002E2QJG6/?tag=tolees-21'
 descuento: '54.24'
+average: '11'
 ---
 
 Está [St. Germain Licores - 700 ml](https://www.amazon.es/dp/B002E2QJG6/?tag=tolees-21) con 54.24 de descuento por 11 EUR (original: 24.04 EUR) en el siguiente enlace!

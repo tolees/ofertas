@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MT91LIF/?tag=tolees-21'
 descuento: '46.60'
+average: '74.22'
 ---
 
 Ahora mismo tienes [Vibram FiveFingers Mid-Boot New Yorker  Botas Clasicas Unisex Adulto  Negro  Black   42/43 EU](https://www.amazon.es/dp/B01MT91LIF/?tag=tolees-21) a 74.22 EUR (original: 139 EUR) (46.60 %  de descuento) en el siguiente enlace!

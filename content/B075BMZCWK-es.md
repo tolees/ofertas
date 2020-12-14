@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075BMZCWK/?tag=tolees-21'
 descuento: '53.00'
+average: '23.5'
 ---
 
 Tienes [Levis Footwear and Accessories Cypress  Zapatillas para Hombre  Negro  B Black 60   45 EU](https://www.amazon.es/dp/B075BMZCWK/?tag=tolees-21) con un 53.00 % de descuento con precio de oferta de 23.5 EUR (original: 50 EUR) en el siguiente enlace!

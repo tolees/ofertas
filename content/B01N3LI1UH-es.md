@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N3LI1UH/?tag=tolees-21'
 descuento: '63.19'
+average: '23.91'
 ---
 
 Ahora mismo tienes [Skechers Unity-Eternal Bliss  Entrenadores para Mujer  Negro  Black/Charcoal   36 EU](https://www.amazon.es/dp/B01N3LI1UH/?tag=tolees-21) a 23.91 EUR (original: 64.95 EUR) (63.19 %  de descuento) en el siguiente enlace!

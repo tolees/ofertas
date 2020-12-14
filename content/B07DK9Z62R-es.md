@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DK9Z62R/?tag=tolees-21'
 descuento: '40.00'
+average: '21'
 ---
 
 Tienes [Kipling - New Hiphurray  Bolsos totes Mujer  Azul  Active Blue Bl ](https://www.amazon.es/dp/B07DK9Z62R/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 21 EUR (original: 35 EUR) en el siguiente enlace!

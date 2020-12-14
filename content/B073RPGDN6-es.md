@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073RPGDN6/?tag=tolees-21'
 descuento: '70.10'
+average: '65.79'
 ---
 
 Está [Helly Hansen W Pier Jacket  Mujer  Alert Red  XL](https://www.amazon.es/dp/B073RPGDN6/?tag=tolees-21) con 70.10 de descuento por 65.79 EUR (original: 220 EUR) en el siguiente enlace!

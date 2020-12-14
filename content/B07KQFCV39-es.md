@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KQFCV39/?tag=tolees-21'
 descuento: '35.56'
+average: '57.99'
 ---
 
 Está [Asus TUF Gaming H5 Lite Diadema Negro - Auriculares con micrófono  PC/Juegos  Diadema  Negro  Acero Inoxidable  Alámbrico  20-20000 Hz ](https://www.amazon.es/dp/B07KQFCV39/?tag=tolees-21) con 35.56 de descuento por 57.99 EUR (original: 89.99 EUR) en el siguiente enlace!

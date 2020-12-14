@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BB4PFX1/?tag=tolees-21'
 descuento: '77.09'
+average: '5.04'
 ---
 
 Tienes [The North Face Y Gorro Surgent Beanie  Unisex niños  TNF Black  S](https://www.amazon.es/dp/B07BB4PFX1/?tag=tolees-21) con un 77.09 % de descuento con precio de oferta de 5.04 EUR (original: 22 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079G2CCCP/?tag=tolees-21'
 descuento: '50.00'
+average: '35'
 ---
 
 Tienes [Nike Jr Hypervenom 3 Academy DF FG  Zapatillas de fútbol Sala Unisex niño   Lt Crimson/Mtlc Dark Wolf Grey 600   36.5 EU](https://www.amazon.es/dp/B079G2CCCP/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 35 EUR (original: 70 EUR) en el siguiente enlace!

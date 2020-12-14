@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071GCDWQN/?tag=tolees-21'
 descuento: '66.46'
+average: '46.95'
 ---
 
 Ahora mismo tienes [Asics Gel-Kayano 24 GS  Zapatillas de Running Unisex niño  Azul  Directoire Blue/Peacoat / Safety Yellow   36 EU](https://www.amazon.es/dp/B071GCDWQN/?tag=tolees-21) a 46.95 EUR (original: 140 EUR) (66.46 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F6CGHMQ/?tag=tolees-21'
 descuento: '61.07'
+average: '3.5'
 ---
 
 Está [Kingston DataTraveler 106  DT106/16GB  USB 3.0  Memoria Flash  16 GB  Negro y Rojo](https://www.amazon.es/dp/B07F6CGHMQ/?tag=tolees-21) con 61.07 de descuento por 3.5 EUR (original: 8.99 EUR) en el siguiente enlace!

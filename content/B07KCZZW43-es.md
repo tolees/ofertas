@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KCZZW43/?tag=tolees-21'
 descuento: '44.98'
+average: '16.45'
 ---
 
 Ahora mismo tienes [Energy Beat Box 2+ Lightcube Granite  Beat Lights  TWS  Bluetooth v4.2  5W  microSD MP3  FM Radio ](https://www.amazon.es/dp/B07KCZZW43/?tag=tolees-21) a 16.45 EUR (original: 29.9 EUR) (44.98 %  de descuento) en el siguiente enlace!

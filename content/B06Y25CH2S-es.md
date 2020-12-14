@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y25CH2S/?tag=tolees-21'
 descuento: '42.40'
+average: '34.5'
 ---
 
 Tienes [„COCODRILO“ — Dildo de silicona de 25 0 cm para experimentar emociones fuertes — La VENTOSA proporciona una FIJACIÓN PERFECTA y permite su uso SIN MANOS — Dildos eróticos Magic Wand para juegos sexuales SM y BDSM anales y vaginales  color negro](https://www.amazon.es/dp/B06Y25CH2S/?tag=tolees-21) con un 42.40 % de descuento con precio de oferta de 34.5 EUR (original: 59.9 EUR) en el siguiente enlace!

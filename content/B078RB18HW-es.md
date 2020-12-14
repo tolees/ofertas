@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078RB18HW/?tag=tolees-21'
 descuento: '51.72'
+average: '26.53'
 ---
 
 Tienes [Skechers Go Walk MAX-Effort  Zapatillas para Hombre  Rojo Red  45 EU](https://www.amazon.es/dp/B078RB18HW/?tag=tolees-21) con un 51.72 % de descuento con precio de oferta de 26.53 EUR (original: 54.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RSXCNJ/?tag=tolees-21'
 descuento: '68.55'
+average: '23.59'
 ---
 
 Está [Pepe Jeans Suna  Suéter para Mujer  Amarillo  Siena 089  M](https://www.amazon.es/dp/B079RSXCNJ/?tag=tolees-21) con 68.55 de descuento por 23.59 EUR (original: 75 EUR) en el siguiente enlace!

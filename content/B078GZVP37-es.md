@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078GZVP37/?tag=tolees-21'
 descuento: '47.13'
+average: '13.74'
 ---
 
 Está [Springfield 433519  Pantalones Cortos Deportivos Para Hombre  Azul  Gama Azules   Tamaño del fabricante: 38](https://www.amazon.es/dp/B078GZVP37/?tag=tolees-21) con 47.13 de descuento por 13.74 EUR (original: 25.99 EUR) en el siguiente enlace!

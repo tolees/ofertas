@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B010NWJH08/?tag=tolees-21'
 descuento: '80.02'
+average: '9.99'
 ---
 
 Tienes [Black Hendedura para Hombre Pantalones de Senderismo  Todo el año  Hombre  Color Marrón - marrón  tamaño S](https://www.amazon.es/dp/B010NWJH08/?tag=tolees-21) con un 80.02 % de descuento con precio de oferta de 9.99 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077MKVTNR/?tag=tolees-21'
 descuento: '31.28'
+average: '41.2'
 ---
 
 Ahora mismo tienes [Puma Viz Runner  Zapatillas de Running para Hombre  Blanco  Puma White-puma Black   39 EU](https://www.amazon.es/dp/B077MKVTNR/?tag=tolees-21) a 41.2 EUR (original: 59.95 EUR) (31.28 %  de descuento) en el siguiente enlace!

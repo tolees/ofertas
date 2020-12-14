@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XKWPZH1/?tag=tolees-21'
 descuento: '40.69'
+average: '28.41'
 ---
 
 Está [Gloss - caja de maquillaje  caja de regalo para mujeres - ¡ Set de Regalo - Set de Maquillaje - Fashion Make Up Case - 68pcs - Fashion Make Up Case](https://www.amazon.es/dp/B06XKWPZH1/?tag=tolees-21) con 40.69 de descuento por 28.41 EUR (original: 47.9 EUR) en el siguiente enlace!

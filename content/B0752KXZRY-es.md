@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0752KXZRY/?tag=tolees-21'
 descuento: '65.36'
+average: '6.91'
 ---
 
 Ahora mismo tienes [Blend 20705545  Bañador para Hombre  Blanco  White  X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B0752KXZRY/?tag=tolees-21) a 6.91 EUR (original: 19.95 EUR) (65.36 %  de descuento) en el siguiente enlace!

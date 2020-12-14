@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CRDGXVL/?tag=tolees-21'
 descuento: '53.74'
+average: '25.42'
 ---
 
 Está [Puma NRGY Comet  Zapatillas de Entrenamiento Unisex Adults o  Azul  Cerulean White   36 EU](https://www.amazon.es/dp/B07CRDGXVL/?tag=tolees-21) con 53.74 de descuento por 25.42 EUR (original: 54.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075D6KFDC/?tag=tolees-21'
 descuento: '65.02'
+average: '13.99'
 ---
 
 Tienes [Funda para parrilla y barbacoa GEEKHOM 210D Oxford  147 cm L x 61 cm D x 117 cm H  58  L*24  D*46  H ](https://www.amazon.es/dp/B075D6KFDC/?tag=tolees-21) con un 65.02 % de descuento con precio de oferta de 13.99 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IX0VU16/?tag=tolees-21'
 descuento: '57.03'
+average: '10.72'
 ---
 
 Ahora mismo tienes [Sloggi Wow Comfort P  Sujetador para Mujer  Negro  Black 04   85C  70C EU ](https://www.amazon.es/dp/B01IX0VU16/?tag=tolees-21) a 10.72 EUR (original: 24.95 EUR) (57.03 %  de descuento) en el siguiente enlace!

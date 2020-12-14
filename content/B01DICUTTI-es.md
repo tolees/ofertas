@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DICUTTI/?tag=tolees-21'
 descuento: '33.39'
+average: '42.62'
 ---
 
 Está [Decleor Aroma Svelt Firming Body Crema Cuerpo - 200 ml](https://www.amazon.es/dp/B01DICUTTI/?tag=tolees-21) con 33.39 de descuento por 42.62 EUR (original: 63.98 EUR) en el siguiente enlace!

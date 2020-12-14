@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FY41CR1/?tag=tolees-21'
 descuento: '28.63'
+average: '53.53'
 ---
 
 Está [Vans Palomar  Zapatillas para Hombre  Azul   Suede/Canvas  Dress Blues/Navy Vg6   40 EU](https://www.amazon.es/dp/B07FY41CR1/?tag=tolees-21) con 28.63 de descuento por 53.53 EUR (original: 75 EUR) en el siguiente enlace!

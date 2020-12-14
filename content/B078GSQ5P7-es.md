@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078GSQ5P7/?tag=tolees-21'
 descuento: '66.53'
+average: '6.69'
 ---
 
 Tienes [Springfield 8550964  Polo para Hombre   Rosa Morado 71   Small  Tamaño del Fabricante:2 ](https://www.amazon.es/dp/B078GSQ5P7/?tag=tolees-21) con un 66.53 % de descuento con precio de oferta de 6.69 EUR (original: 19.99 EUR) en el siguiente enlace!

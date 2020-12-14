@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FBPTXT4/?tag=tolees-21'
 descuento: '47.78'
+average: '36.53'
 ---
 
 Ahora mismo tienes [Skechers Meridian-charted  Zapatillas para Mujer   White Multi Wmlt   40 EU](https://www.amazon.es/dp/B07FBPTXT4/?tag=tolees-21) a 36.53 EUR (original: 69.95 EUR) (47.78 %  de descuento) en el siguiente enlace!

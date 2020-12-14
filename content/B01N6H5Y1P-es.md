@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N6H5Y1P/?tag=tolees-21'
 descuento: '54.89'
+average: '5.86'
 ---
 
 Está [Maybelline New York Paleta de Labios Blushed Bombshell](https://www.amazon.es/dp/B01N6H5Y1P/?tag=tolees-21) con 54.89 de descuento por 5.86 EUR (original: 12.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072K7C2PV/?tag=tolees-21'
 descuento: '54.47'
+average: '29.57'
 ---
 
 Tienes [Skechers You-Spirit  Zapatillas sin Cordones para Mujer  Negro  Black BBK   38 EU](https://www.amazon.es/dp/B072K7C2PV/?tag=tolees-21) con un 54.47 % de descuento con precio de oferta de 29.57 EUR (original: 64.95 EUR) en el siguiente enlace!

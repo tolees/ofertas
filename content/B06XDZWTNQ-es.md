@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XDZWTNQ/?tag=tolees-21'
 descuento: '34.38'
+average: '65.61'
 ---
 
 Tienes [Salomon Grom Casco de esquí y Snowboard con Visor para niños  Carcasa In-Mould + Interior Espuma EPS  Circunferencia: 53-56 cm  Unisex  Negro  Talla M](https://www.amazon.es/dp/B06XDZWTNQ/?tag=tolees-21) con un 34.38 % de descuento con precio de oferta de 65.61 EUR (original: 99.99 EUR) en el siguiente enlace!

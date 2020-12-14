@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072XKJRF6/?tag=tolees-21'
 descuento: '28.58'
+average: '49.99'
 ---
 
 Tienes [dodocool Reproductor Música Alta Resolución de Audio HiFi Music Player 8GB Sonido Digital con Grabadora de Voz y FM Radio 30 Horas 2" LCD](https://www.amazon.es/dp/B072XKJRF6/?tag=tolees-21) con un 28.58 % de descuento con precio de oferta de 49.99 EUR (original: 69.99 EUR) en el siguiente enlace!

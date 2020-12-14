@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078VDBCV3/?tag=tolees-21'
 descuento: '45.32'
+average: '92.95'
 ---
 
 Tienes [Sorel Madson Chukka Waterproof  Botas Impermeables para Hombre  Marrón  Camel Brown  Pebble 225   46 EU](https://www.amazon.es/dp/B078VDBCV3/?tag=tolees-21) con un 45.32 % de descuento con precio de oferta de 92.95 EUR (original: 169.99 EUR) en el siguiente enlace!

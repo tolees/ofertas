@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00NKP98GE/?tag=tolees-21'
 descuento: '30.20'
+average: '139.54'
 ---
 
 Ahora mismo tienes [Relaxdays Iluminación E27  40 W](https://www.amazon.es/dp/B00NKP98GE/?tag=tolees-21) a 139.54 EUR (original: 199.9 EUR) (30.20 %  de descuento) en el siguiente enlace!

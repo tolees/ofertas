@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01B6KX36K/?tag=tolees-21'
 descuento: '68.76'
+average: '29.24'
 ---
 
 Está [Puma Speed 500 Ignite - Zapatillas de running Unisex adulto  Rojo  Red Blast-White-Black 01   41 EU  7.5 UK ](https://www.amazon.es/dp/B01B6KX36K/?tag=tolees-21) con 68.76 de descuento por 29.24 EUR (original: 93.59 EUR) en el siguiente enlace!

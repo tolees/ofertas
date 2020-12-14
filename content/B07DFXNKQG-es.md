@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFXNKQG/?tag=tolees-21'
 descuento: '33.27'
+average: '16.65'
 ---
 
 Está [Puma A.C.E. SS tee T-Shirt  Hombre  Negro Black  XL](https://www.amazon.es/dp/B07DFXNKQG/?tag=tolees-21) con 33.27 de descuento por 16.65 EUR (original: 24.95 EUR) en el siguiente enlace!

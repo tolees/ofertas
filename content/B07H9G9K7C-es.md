@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H9G9K7C/?tag=tolees-21'
 descuento: '44.61'
+average: '14.95'
 ---
 
 Ahora mismo tienes [Vila Clothes Viril L/s V-Neck Knit Top-Noos suéter  Azul  Surf The Web Detail: Melange   36  Talla del Fabricante: X-Small  para Mujer](https://www.amazon.es/dp/B07H9G9K7C/?tag=tolees-21) a 14.95 EUR (original: 26.99 EUR) (44.61 %  de descuento) en el siguiente enlace!

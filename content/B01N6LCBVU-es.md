@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N6LCBVU/?tag=tolees-21'
 descuento: '28.59'
+average: '11.14'
 ---
 
 Está [SOLIS Tomate Frito Estilo Casero Frasco Cristal - Tomate sin gluten - 350 g - Pack de 12](https://www.amazon.es/dp/B01N6LCBVU/?tag=tolees-21) con 28.59 de descuento por 11.14 EUR (original: 15.6 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079QPM7XW/?tag=tolees-21'
 descuento: '47.63'
+average: '34.04'
 ---
 
 Ahora mismo tienes [Converse Star Chevron Graphic Full-Zip Hoodie  Capucha para Hombre  Gris  Vintage Grey Heather 035   Small](https://www.amazon.es/dp/B079QPM7XW/?tag=tolees-21) a 34.04 EUR (original: 65 EUR) (47.63 %  de descuento) en el siguiente enlace!

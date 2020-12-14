@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0786CTCPF/?tag=tolees-21'
 descuento: '50.50'
+average: '54.99'
 ---
 
 Tienes [Allthemen - Traje - para Hombre Negro S](https://www.amazon.es/dp/B0786CTCPF/?tag=tolees-21) con un 50.50 % de descuento con precio de oferta de 54.99 EUR (original: 111.1 EUR) en el siguiente enlace!

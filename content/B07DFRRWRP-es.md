@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFRRWRP/?tag=tolees-21'
 descuento: '30.00'
+average: '77'
 ---
 
 Está [New Balance 996  Zapatillas para Hombre  Azul  Pigment/Nimbus Cloud LS   45 EU](https://www.amazon.es/dp/B07DFRRWRP/?tag=tolees-21) con 30.00 de descuento por 77 EUR (original: 110 EUR) en el siguiente enlace!

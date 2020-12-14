@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073RLFH8T/?tag=tolees-21'
 descuento: '29.01'
+average: '63.86'
 ---
 
 Tienes [adidas Questar Tnd  Zapatillas para Hombre  Negro  Core Black/Footwear White/Grey Five 0   42 EU](https://www.amazon.es/dp/B073RLFH8T/?tag=tolees-21) con un 29.01 % de descuento con precio de oferta de 63.86 EUR (original: 89.95 EUR) en el siguiente enlace!

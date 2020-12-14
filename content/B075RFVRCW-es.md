@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075RFVRCW/?tag=tolees-21'
 descuento: '25.00'
+average: '67.46'
 ---
 
 Tienes [GORE WEAR C3 Peto 3/4 de ciclismo con badana para hombre  XL  negro](https://www.amazon.es/dp/B075RFVRCW/?tag=tolees-21) con un 25.00 % de descuento con precio de oferta de 67.46 EUR (original: 89.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0727WLLHQ/?tag=tolees-21'
 descuento: '71.76'
+average: '16.94'
 ---
 
 Está [SELECTED HOMME Shhyard Decadent Choco Slim St Pant Noos Pantalones  Marrón Chocolate  W29/L32  Talla del Fabricante: 29  para Hombre](https://www.amazon.es/dp/B0727WLLHQ/?tag=tolees-21) con 71.76 de descuento por 16.94 EUR (original: 59.99 EUR) en el siguiente enlace!

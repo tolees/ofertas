@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074HCSLYR/?tag=tolees-21'
 descuento: '70.72'
+average: '23.41'
 ---
 
 Ahora mismo tienes [LPB Woman - Sac  Bolsos totes Mujer  Gris  35x29x45 cm  W x H L ](https://www.amazon.es/dp/B074HCSLYR/?tag=tolees-21) a 23.41 EUR (original: 79.95 EUR) (70.72 %  de descuento) en el siguiente enlace!

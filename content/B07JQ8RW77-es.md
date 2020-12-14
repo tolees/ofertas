@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JQ8RW77/?tag=tolees-21'
 descuento: '54.32'
+average: '13.7'
 ---
 
 Ahora mismo tienes [JACK & JONES Jorantwon Sweat Hood Capucha  Azul  Total Eclipse Fit: Reg Originals   Medium para Hombre](https://www.amazon.es/dp/B07JQ8RW77/?tag=tolees-21) a 13.7 EUR (original: 29.99 EUR) (54.32 %  de descuento) en el siguiente enlace!

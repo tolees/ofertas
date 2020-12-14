@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FY4Q81K/?tag=tolees-21'
 descuento: '41.53'
+average: '29.9'
 ---
 
 Ahora mismo tienes [Superdry - Print Edition Montana  Mochilas Mujer  Gris  Silver Splatter   30x45x13 cm  W x H L ](https://www.amazon.es/dp/B07FY4Q81K/?tag=tolees-21) a 29.9 EUR (original: 51.14 EUR) (41.53 %  de descuento) en el siguiente enlace!

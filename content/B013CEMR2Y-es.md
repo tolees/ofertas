@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B013CEMR2Y/?tag=tolees-21'
 descuento: '75.25'
+average: '19.79'
 ---
 
 Tienes [Dockers by Gerli 35pr201  Botas Militar para Mujer  Marrón  Cafe 320   39 EU](https://www.amazon.es/dp/B013CEMR2Y/?tag=tolees-21) con un 75.25 % de descuento con precio de oferta de 19.79 EUR (original: 79.95 EUR) en el siguiente enlace!

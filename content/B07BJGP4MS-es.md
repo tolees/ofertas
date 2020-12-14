@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BJGP4MS/?tag=tolees-21'
 descuento: '41.81'
+average: '7.96'
 ---
 
 Ahora mismo tienes [AXE Desodorante You Duplo Ahorro - 2 Paquetes de 2 x 150 ml: Total: 600 ml](https://www.amazon.es/dp/B07BJGP4MS/?tag=tolees-21) a 7.96 EUR (original: 13.68 EUR) (41.81 %  de descuento) en el siguiente enlace!

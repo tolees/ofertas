@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DDCRW8N/?tag=tolees-21'
 descuento: '36.19'
+average: '20.42'
 ---
 
 Tienes [HYPE - Space Hues Box Bag  Mochilas Unisex adulto  Multicolor  Multi   30x41x15 cm  W x H L ](https://www.amazon.es/dp/B07DDCRW8N/?tag=tolees-21) con un 36.19 % de descuento con precio de oferta de 20.42 EUR (original: 32 EUR) en el siguiente enlace!

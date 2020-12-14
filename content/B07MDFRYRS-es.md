@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MDFRYRS/?tag=tolees-21'
 descuento: '48.29'
+average: '14.99'
 ---
 
 Está [Wangel Portarrollo para Papel Higiénico  Pegamento Patentado + Autoadhesivo  Aluminio  Acabado Mate  Negro](https://www.amazon.es/dp/B07MDFRYRS/?tag=tolees-21) con 48.29 de descuento por 14.99 EUR (original: 28.99 EUR) en el siguiente enlace!

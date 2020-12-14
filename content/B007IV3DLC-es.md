@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007IV3DLC/?tag=tolees-21'
 descuento: '49.28'
+average: '156.37'
 ---
 
 Está [Siemens TS22Extrem - Centro Planchado](https://www.amazon.es/dp/B007IV3DLC/?tag=tolees-21) con 49.28 de descuento por 156.37 EUR (original: 308.29 EUR) en el siguiente enlace!

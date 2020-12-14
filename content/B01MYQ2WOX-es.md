@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MYQ2WOX/?tag=tolees-21'
 descuento: '38.81'
+average: '21.11'
 ---
 
 Tienes [El Niño 43181 Bañador  niños  Rojo  groselha   14](https://www.amazon.es/dp/B01MYQ2WOX/?tag=tolees-21) con un 38.81 % de descuento con precio de oferta de 21.11 EUR (original: 34.5 EUR) en el siguiente enlace!

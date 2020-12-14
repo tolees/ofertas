@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FFGLCWH/?tag=tolees-21'
 descuento: '58.07'
+average: '24.69'
 ---
 
 Está [Reebok 3D Fusion TR  Zapatillas de Deporte para Mujer   Cloud Grey/Digital Pink/White 000   36 EU](https://www.amazon.es/dp/B07FFGLCWH/?tag=tolees-21) con 58.07 de descuento por 24.69 EUR (original: 58.88 EUR) en el siguiente enlace!

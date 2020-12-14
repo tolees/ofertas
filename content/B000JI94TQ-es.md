@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000JI94TQ/?tag=tolees-21'
 descuento: '31.78'
+average: '69.02'
 ---
 
 Está [Burg-Wächter 3877Ni Buzón de Acero Inoxidable con Apertura Stop  Gris](https://www.amazon.es/dp/B000JI94TQ/?tag=tolees-21) con 31.78 de descuento por 69.02 EUR (original: 101.17 EUR) en el siguiente enlace!

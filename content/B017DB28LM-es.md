@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017DB28LM/?tag=tolees-21'
 descuento: '57.45'
+average: '5.51'
 ---
 
 Tienes [L Oréal Paris Labial Infalible Matte Max 006 Disturb](https://www.amazon.es/dp/B017DB28LM/?tag=tolees-21) con un 57.45 % de descuento con precio de oferta de 5.51 EUR (original: 12.95 EUR) en el siguiente enlace!

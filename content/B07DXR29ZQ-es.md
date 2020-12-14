@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DXR29ZQ/?tag=tolees-21'
 descuento: '48.58'
+average: '35.99'
 ---
 
 Tienes [Trípode de Cámara - Trípode Completo de 151cm para Canon Sony Nikon  Trípode Compacto Puede Carga Peso MAX 5KG  Trípode Flexible con Soporte para Móvil  Trípode Portátil Incluye Bolsa de Transporte](https://www.amazon.es/dp/B07DXR29ZQ/?tag=tolees-21) con un 48.58 % de descuento con precio de oferta de 35.99 EUR (original: 69.99 EUR) en el siguiente enlace!

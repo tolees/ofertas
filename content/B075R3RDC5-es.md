@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075R3RDC5/?tag=tolees-21'
 descuento: '55.39'
+average: '62.45'
 ---
 
 Ahora mismo tienes [New Balance Fuel Cell Impulse  Zapatillas de Running para Mujer  Naranja  Conch Shell/Light Cyclone PB   39 EU](https://www.amazon.es/dp/B075R3RDC5/?tag=tolees-21) a 62.45 EUR (original: 140 EUR) (55.39 %  de descuento) en el siguiente enlace!

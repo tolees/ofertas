@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LE9ZB8Q/?tag=tolees-21'
 descuento: '41.60'
+average: '26.28'
 ---
 
 Tienes [Black Diamond Iota  Unisex Adult  Negro  One Size](https://www.amazon.es/dp/B01LE9ZB8Q/?tag=tolees-21) con un 41.60 % de descuento con precio de oferta de 26.28 EUR (original: 45 EUR) en el siguiente enlace!

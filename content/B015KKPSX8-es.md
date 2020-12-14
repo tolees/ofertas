@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B015KKPSX8/?tag=tolees-21'
 descuento: '51.31'
+average: '29.19'
 ---
 
 Ahora mismo tienes [Kappa Milla  Zapatillas para Mujer  Negro  1110 Black/White   42 EU](https://www.amazon.es/dp/B015KKPSX8/?tag=tolees-21) a 29.19 EUR (original: 59.95 EUR) (51.31 %  de descuento) en el siguiente enlace!

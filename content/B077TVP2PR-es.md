@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077TVP2PR/?tag=tolees-21'
 descuento: '72.29'
+average: '27.7'
 ---
 
 Está [Reebok Cm9606  Zapatillas de Gimnasia para Hombre  Gris  Parischalk   41 EU](https://www.amazon.es/dp/B077TVP2PR/?tag=tolees-21) con 72.29 de descuento por 27.7 EUR (original: 99.95 EUR) en el siguiente enlace!

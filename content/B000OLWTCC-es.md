@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000OLWTCC/?tag=tolees-21'
 descuento: '52.77'
+average: '9.99'
 ---
 
 Tienes [Trixie Saco Suave Jasira  25x27x45 cm  Negro/Beige](https://www.amazon.es/dp/B000OLWTCC/?tag=tolees-21) con un 52.77 % de descuento con precio de oferta de 9.99 EUR (original: 21.15 EUR) en el siguiente enlace!

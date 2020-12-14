@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0735W9GZX/?tag=tolees-21'
 descuento: '52.16'
+average: '99.99'
 ---
 
 Tienes [Reloj Fossil - Hombre FS5345](https://www.amazon.es/dp/B0735W9GZX/?tag=tolees-21) con un 52.16 % de descuento con precio de oferta de 99.99 EUR (original: 209 EUR) en el siguiente enlace!

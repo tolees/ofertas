@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BAQIH2U/?tag=tolees-21'
 descuento: '59.87'
+average: '12'
 ---
 
 Tienes [Philips SHQ1405BL/00 - Auriculares con micrófono  Azul](https://www.amazon.es/dp/B01BAQIH2U/?tag=tolees-21) con un 59.87 % de descuento con precio de oferta de 12 EUR (original: 29.9 EUR) en el siguiente enlace!

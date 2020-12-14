@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HJ2P9GV/?tag=tolees-21'
 descuento: '53.35'
+average: '13.99'
 ---
 
 Tienes [DOACT 2 pcs Rodillera Patella Correa  Correas de Rodilla Patella Compresión rótula Tendón Correa Rodillera Soporte para Artritis  Tenosinovitis Patelar y Condromalacia Adecuado Hombres y Mujeres](https://www.amazon.es/dp/B07HJ2P9GV/?tag=tolees-21) con un 53.35 % de descuento con precio de oferta de 13.99 EUR (original: 29.99 EUR) en el siguiente enlace!

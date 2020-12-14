@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077TY7SCT/?tag=tolees-21'
 descuento: '61.94'
+average: '26.62'
 ---
 
 Tienes [Reebok Astroride Future  Zapatillas de Trail Running para Hombre  Gris  Alloy/Coal/White/Primal Red 000   44 EU](https://www.amazon.es/dp/B077TY7SCT/?tag=tolees-21) con un 61.94 % de descuento con precio de oferta de 26.62 EUR (original: 69.95 EUR) en el siguiente enlace!

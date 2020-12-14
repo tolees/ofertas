@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C8Q5MPH/?tag=tolees-21'
 descuento: '57.08'
+average: '3'
 ---
 
 Ahora mismo tienes [El efecto sombra [Blu-ray]](https://www.amazon.es/dp/B07C8Q5MPH/?tag=tolees-21) a 3 EUR (original: 6.99 EUR) (57.08 %  de descuento) en el siguiente enlace!

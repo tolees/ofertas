@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BCMTPVL/?tag=tolees-21'
 descuento: '56.11'
+average: '21.94'
 ---
 
 Está [Columbia Nelson Point Polo de Manga Corta  Hombre  Azul  Collegiate Navy   XS](https://www.amazon.es/dp/B07BCMTPVL/?tag=tolees-21) con 56.11 de descuento por 21.94 EUR (original: 49.99 EUR) en el siguiente enlace!

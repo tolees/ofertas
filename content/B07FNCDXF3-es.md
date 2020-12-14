@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FNCDXF3/?tag=tolees-21'
 descuento: '72.02'
+average: '30.78'
 ---
 
 Está [Asics Gel-kenun Lyte MX  Zapatillas de Entrenamiento para Hombre  Azul  Deep Ocean/Black 400   46 EU](https://www.amazon.es/dp/B07FNCDXF3/?tag=tolees-21) con 72.02 de descuento por 30.78 EUR (original: 110 EUR) en el siguiente enlace!

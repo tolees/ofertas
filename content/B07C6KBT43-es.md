@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C6KBT43/?tag=tolees-21'
 descuento: '58.27'
+average: '6.76'
 ---
 
 Ahora mismo tienes [NIVEA  Spray Fresh Flower 0 Aluminio 150 ml  Pack de 6](https://www.amazon.es/dp/B07C6KBT43/?tag=tolees-21) a 6.76 EUR (original: 16.2 EUR) (58.27 %  de descuento) en el siguiente enlace!

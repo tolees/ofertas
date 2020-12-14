@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01I21UTZ4/?tag=tolees-21'
 descuento: '58.11'
+average: '33.51'
 ---
 
 Ahora mismo tienes [Nike 844898  Zapatillas de Deporte para Mujer  Verde  Seaweed/Vivid Pink-White   38 EU](https://www.amazon.es/dp/B01I21UTZ4/?tag=tolees-21) a 33.51 EUR (original: 80 EUR) (58.11 %  de descuento) en el siguiente enlace!

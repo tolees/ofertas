@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQTZYBG/?tag=tolees-21'
 descuento: '69.01'
+average: '21.68'
 ---
 
 Está [Clarks Glove Puppet  Mocasines para Mujer  Beige  Nude Suede-   37 EU](https://www.amazon.es/dp/B07FQTZYBG/?tag=tolees-21) con 69.01 de descuento por 21.68 EUR (original: 69.95 EUR) en el siguiente enlace!

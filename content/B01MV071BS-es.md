@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MV071BS/?tag=tolees-21'
 descuento: '42.92'
+average: '150'
 ---
 
 Tienes [Sparco 00975NRVD Silla de Despacho  Negro/Verde](https://www.amazon.es/dp/B01MV071BS/?tag=tolees-21) con un 42.92 % de descuento con precio de oferta de 150 EUR (original: 262.8 EUR) en el siguiente enlace!

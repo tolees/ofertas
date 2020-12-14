@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TFBV81K/?tag=tolees-21'
 descuento: '82.68'
+average: '11.78'
 ---
 
 Tienes [Trigema 574096-Pantalones Mujer Blau  Blau 046  62](https://www.amazon.es/dp/B00TFBV81K/?tag=tolees-21) con un 82.68 % de descuento con precio de oferta de 11.78 EUR (original: 68 EUR) en el siguiente enlace!

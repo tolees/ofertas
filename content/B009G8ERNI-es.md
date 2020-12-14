@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B009G8ERNI/?tag=tolees-21'
 descuento: '41.54'
+average: '28.98'
 ---
 
 Ahora mismo tienes [Marvel. Ultimate Heroes  Pack 6 películas  [Blu-ray]](https://www.amazon.es/dp/B009G8ERNI/?tag=tolees-21) a 28.98 EUR (original: 49.57 EUR) (41.54 %  de descuento) en el siguiente enlace!

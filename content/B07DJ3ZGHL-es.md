@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ3ZGHL/?tag=tolees-21'
 descuento: '70.53'
+average: '28.58'
 ---
 
 Está [87 en 1 kit Destornillador de precisión  magnético  accewit herramienta de reparación Kits para teléfono portátil  iPhone  iPad  reloj  Tablet  PC  ordenador portátil Macbook profesionales  amarillo ](https://www.amazon.es/dp/B07DJ3ZGHL/?tag=tolees-21) con 70.53 de descuento por 28.58 EUR (original: 96.98 EUR) en el siguiente enlace!

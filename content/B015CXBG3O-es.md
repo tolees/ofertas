@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B015CXBG3O/?tag=tolees-21'
 descuento: '61.39'
+average: '54.01'
 ---
 
 Tienes [BigBen TW9KEEPCALM - Torre de Sonido Bluetooth UK  2.1  2x15W RMS + Subwoofer 30W RMS ](https://www.amazon.es/dp/B015CXBG3O/?tag=tolees-21) con un 61.39 % de descuento con precio de oferta de 54.01 EUR (original: 139.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C7JZM6M/?tag=tolees-21'
 descuento: '46.12'
+average: '51.19'
 ---
 
 Ahora mismo tienes [BOSS - Signature R_money Cl  Tarjeteros Hombre  Multicolor  Open Miscellaneous   1x7x10 cm  B x H T ](https://www.amazon.es/dp/B07C7JZM6M/?tag=tolees-21) a 51.19 EUR (original: 95 EUR) (46.12 %  de descuento) en el siguiente enlace!

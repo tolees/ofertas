@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IF4PH82/?tag=tolees-21'
 descuento: '39.35'
+average: '9.4'
 ---
 
 Tienes [Flower 51177 51177-Kit Semillas Amateur  Lechuga Romana  Cebolla babosa  Pimiento Pisa   No No aplica  38x24.5x9.5 cm](https://www.amazon.es/dp/B01IF4PH82/?tag=tolees-21) con un 39.35 % de descuento con precio de oferta de 9.4 EUR (original: 15.5 EUR) en el siguiente enlace!

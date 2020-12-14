@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F31PMXX/?tag=tolees-21'
 descuento: '86.05'
+average: '4.88'
 ---
 
 Ahora mismo tienes [PIECES Pcsanni LS Wool Knit Noos suéter  Rosa  Rosette Detail: Melange   42  Talla del Fabricante: Large  para Mujer](https://www.amazon.es/dp/B07F31PMXX/?tag=tolees-21) a 4.88 EUR (original: 34.99 EUR) (86.05 %  de descuento) en el siguiente enlace!

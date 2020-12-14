@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00E41TBQK/?tag=tolees-21'
 descuento: '34.51'
+average: '101.51'
 ---
 
 Ahora mismo tienes [CAMPER Pelotas Ariel - Oxford Hombre  Negro  black   40 EU](https://www.amazon.es/dp/B00E41TBQK/?tag=tolees-21) a 101.51 EUR (original: 155 EUR) (34.51 %  de descuento) en el siguiente enlace!

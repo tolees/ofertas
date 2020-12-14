@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071HTV61C/?tag=tolees-21'
 descuento: '72.69'
+average: '18.01'
 ---
 
 Tienes [Marco Tozzi 25217  Botas Militar para Mujer  Amarillo  Corn Antic Com   39 EU](https://www.amazon.es/dp/B071HTV61C/?tag=tolees-21) con un 72.69 % de descuento con precio de oferta de 18.01 EUR (original: 65.95 EUR) en el siguiente enlace!

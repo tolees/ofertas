@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B011EPJ1WM/?tag=tolees-21'
 descuento: '35.10'
+average: '6.49'
 ---
 
 Tienes [Camomila Intea Té Verde & Menta Mascarilla Cabello Graso - 250 ml](https://www.amazon.es/dp/B011EPJ1WM/?tag=tolees-21) con un 35.10 % de descuento con precio de oferta de 6.49 EUR (original: 10 EUR) en el siguiente enlace!

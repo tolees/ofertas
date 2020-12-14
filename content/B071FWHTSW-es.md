@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071FWHTSW/?tag=tolees-21'
 descuento: '72.72'
+average: '29.99'
 ---
 
 Ahora mismo tienes [adidas Tubular Shadow W  Zapatillas de Deporte para Mujer  Vertac/Blatiz  40 EU](https://www.amazon.es/dp/B071FWHTSW/?tag=tolees-21) a 29.99 EUR (original: 109.95 EUR) (72.72 %  de descuento) en el siguiente enlace!

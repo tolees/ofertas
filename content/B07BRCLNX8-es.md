@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BRCLNX8/?tag=tolees-21'
 descuento: '54.96'
+average: '63.5'
 ---
 
 Tienes [Nike Air MAX 90  Zapatillas de Gimnasia para Mujer  Negro  Barely Grey/Light Pumice/Sail 053   37.5 EU](https://www.amazon.es/dp/B07BRCLNX8/?tag=tolees-21) con un 54.96 % de descuento con precio de oferta de 63.5 EUR (original: 141 EUR) en el siguiente enlace!

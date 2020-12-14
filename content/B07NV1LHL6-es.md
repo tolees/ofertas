@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NV1LHL6/?tag=tolees-21'
 descuento: '56.01'
+average: '21.99'
 ---
 
 Ahora mismo tienes [LAPPAZO Repelente Ultrasonico Mosquitos Plagas Ahuyentador de Ratones Pest Reject Control Repelente Hormigas Cucarachas Insectos Moscas  4Packs ](https://www.amazon.es/dp/B07NV1LHL6/?tag=tolees-21) a 21.99 EUR (original: 49.99 EUR) (56.01 %  de descuento) en el siguiente enlace!

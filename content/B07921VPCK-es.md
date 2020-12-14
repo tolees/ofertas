@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07921VPCK/?tag=tolees-21'
 descuento: '36.77'
+average: '13.88'
 ---
 
 Está [Niviy Prensa de Hamburguesa  Antiadherente Molde Hamburguesa Hacedor de Hamburguesas de Aluminio  Ideal para Barbacoa y Cocinar](https://www.amazon.es/dp/B07921VPCK/?tag=tolees-21) con 36.77 de descuento por 13.88 EUR (original: 21.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KSRN2RX/?tag=tolees-21'
 descuento: '46.68'
+average: '23.99'
 ---
 
 Tienes [Under Armour Rival Fleece Pant Pantalones  Mujer  Gris  Mod Gray Light Heather/Purple Ace 011   M](https://www.amazon.es/dp/B07KSRN2RX/?tag=tolees-21) con un 46.68 % de descuento con precio de oferta de 23.99 EUR (original: 44.99 EUR) en el siguiente enlace!

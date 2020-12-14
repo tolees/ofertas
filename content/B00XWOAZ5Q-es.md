@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00XWOAZ5Q/?tag=tolees-21'
 descuento: '27.27'
+average: '40'
 ---
 
 Ahora mismo tienes [Nike Court Royale  Zapatillas de Gimnasia para Hombre  Blanco  White/White 111   40 EU](https://www.amazon.es/dp/B00XWOAZ5Q/?tag=tolees-21) a 40 EUR (original: 55 EUR) (27.27 %  de descuento) en el siguiente enlace!

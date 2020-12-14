@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B008VRI7GI/?tag=tolees-21'
 descuento: '35.06'
+average: '26.95'
 ---
 
 Tienes [Clarins Blue Orchid - Tratamiento facial con extractos de plantas  30 ml](https://www.amazon.es/dp/B008VRI7GI/?tag=tolees-21) con un 35.06 % de descuento con precio de oferta de 26.95 EUR (original: 41.5 EUR) en el siguiente enlace!

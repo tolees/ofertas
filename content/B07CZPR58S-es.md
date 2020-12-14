@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZPR58S/?tag=tolees-21'
 descuento: '42.32'
+average: '14.99'
 ---
 
 Ahora mismo tienes [Under Armour Graphic Script X-Back Tank Tanque  Mujer  Negro  Black/Mod Gray/White 001   S](https://www.amazon.es/dp/B07CZPR58S/?tag=tolees-21) a 14.99 EUR (original: 25.99 EUR) (42.32 %  de descuento) en el siguiente enlace!

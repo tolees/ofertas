@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FFY895L/?tag=tolees-21'
 descuento: '49.50'
+average: '25.25'
 ---
 
 Ahora mismo tienes [Diadora X Run Light 2  Zapatillas de Running para Hombre   Nero/Grigio Acciaio C2815   45.5 EU](https://www.amazon.es/dp/B07FFY895L/?tag=tolees-21) a 25.25 EUR (original: 50 EUR) (49.50 %  de descuento) en el siguiente enlace!

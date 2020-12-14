@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CY27L3D/?tag=tolees-21'
 descuento: '40.00'
+average: '36'
 ---
 
 Está [Nike Court Royale AC  Zapatillas para Mujer  Blanco White-Black 102  40.5 EU](https://www.amazon.es/dp/B07CY27L3D/?tag=tolees-21) con 40.00 de descuento por 36 EUR (original: 60 EUR) en el siguiente enlace!

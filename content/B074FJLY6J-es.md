@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074FJLY6J/?tag=tolees-21'
 descuento: '74.69'
+average: '31.63'
 ---
 
 Ahora mismo tienes [Asics Gel-Lyte III  Zapatillas Unisex Adulto  Verde grün  37 EU](https://www.amazon.es/dp/B074FJLY6J/?tag=tolees-21) a 31.63 EUR (original: 124.95 EUR) (74.69 %  de descuento) en el siguiente enlace!

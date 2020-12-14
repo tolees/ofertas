@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GRYQGB2/?tag=tolees-21'
 descuento: '82.85'
+average: '7.99'
 ---
 
 Tienes [Smartwatch  [Regalo Para Padre] EasySMX Reloj Inteligente Bluetooth Tarjeta TF SIM para Andriod/IOS con Cámara Batería 550mAh Facebook Whatsapp Twitter Cronómetro Pódometro Monitor de Dormir etc.](https://www.amazon.es/dp/B07GRYQGB2/?tag=tolees-21) con un 82.85 % de descuento con precio de oferta de 7.99 EUR (original: 46.59 EUR) en el siguiente enlace!

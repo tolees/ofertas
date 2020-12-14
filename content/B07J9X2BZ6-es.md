@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J9X2BZ6/?tag=tolees-21'
 descuento: '40.10'
+average: '29.95'
 ---
 
 Tienes [Asics Jolt 2  Zapatillas de Running para Mujer  Negro  Black/Flash Coral 001   38 EU](https://www.amazon.es/dp/B07J9X2BZ6/?tag=tolees-21) con un 40.10 % de descuento con precio de oferta de 29.95 EUR (original: 50 EUR) en el siguiente enlace!

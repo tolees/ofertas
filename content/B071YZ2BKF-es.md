@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071YZ2BKF/?tag=tolees-21'
 descuento: '69.86'
+average: '42.18'
 ---
 
 Está [adidas Crazytrain Elite M  Zapatillas de Gimnasia para Hombre  Trace Cargo/Core Black  42 EU](https://www.amazon.es/dp/B071YZ2BKF/?tag=tolees-21) con 69.86 de descuento por 42.18 EUR (original: 139.95 EUR) en el siguiente enlace!

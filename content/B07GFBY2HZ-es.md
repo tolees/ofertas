@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GFBY2HZ/?tag=tolees-21'
 descuento: '60.02'
+average: '13.99'
 ---
 
 Tienes [Almohada de Viaje Inflable Morpilot Almohadas del Cuello de Terciopelo Suave para Aviones Tren y Automóvil con Tapones para los Oídos y Máscara Compacta y Liviana](https://www.amazon.es/dp/B07GFBY2HZ/?tag=tolees-21) con un 60.02 % de descuento con precio de oferta de 13.99 EUR (original: 34.99 EUR) en el siguiente enlace!

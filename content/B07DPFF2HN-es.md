@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DPFF2HN/?tag=tolees-21'
 descuento: '51.71'
+average: '80.83'
 ---
 
 Tienes [Love Moschino - Borsa Pu  Shoppers y bolsos de hombro Mujer  Negro  Nero   6x18x25 cm  B x H T ](https://www.amazon.es/dp/B07DPFF2HN/?tag=tolees-21) con un 51.71 % de descuento con precio de oferta de 80.83 EUR (original: 167.4 EUR) en el siguiente enlace!

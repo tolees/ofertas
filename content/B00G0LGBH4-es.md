@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00G0LGBH4/?tag=tolees-21'
 descuento: '76.06'
+average: '23.92'
 ---
 
 Está [Remington XR1330 HyperFlex - Afeitadora rotativa  tecnología HyperFlex  cabezales ActiveContour XL  cortador de precisión ComfortTrim](https://www.amazon.es/dp/B00G0LGBH4/?tag=tolees-21) con 76.06 de descuento por 23.92 EUR (original: 99.9 EUR) en el siguiente enlace!

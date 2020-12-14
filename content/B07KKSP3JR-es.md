@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KKSP3JR/?tag=tolees-21'
 descuento: '60.70'
+average: '19.65'
 ---
 
 Está [HUGO Gionio_sz40 Cinturón  Azul  Dark Blue 402   125  Talla del fabricante: 110  para Hombre](https://www.amazon.es/dp/B07KKSP3JR/?tag=tolees-21) con 60.70 de descuento por 19.65 EUR (original: 50 EUR) en el siguiente enlace!

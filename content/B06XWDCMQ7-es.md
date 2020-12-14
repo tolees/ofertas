@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XWDCMQ7/?tag=tolees-21'
 descuento: '34.01'
+average: '32.99'
 ---
 
 Está [LANGRIA Estantería Metálica para Microondas con 3 Baldas  Estante Superior para Especias  4 Ganchos Laterales para Almacenamiento y Organización Cocina  Baño  Capacidad Max. 75kg  Negro](https://www.amazon.es/dp/B06XWDCMQ7/?tag=tolees-21) con 34.01 de descuento por 32.99 EUR (original: 49.99 EUR) en el siguiente enlace!

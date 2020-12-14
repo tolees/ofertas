@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MUAQ5M7/?tag=tolees-21'
 descuento: '43.57'
+average: '36.65'
 ---
 
 Está [Skechers Go Walk 4-Reward  Entrenadores para Mujer  Rojo  Burgundy   39.5 EU](https://www.amazon.es/dp/B01MUAQ5M7/?tag=tolees-21) con 43.57 de descuento por 36.65 EUR (original: 64.95 EUR) en el siguiente enlace!

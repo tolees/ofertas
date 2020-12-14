@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B013VMGH46/?tag=tolees-21'
 descuento: '53.47'
+average: '34.9'
 ---
 
 Ahora mismo tienes [Volcom para Hombre Chino Pant Maldito Modern Stretch Marrón Mushroom Talla:31](https://www.amazon.es/dp/B013VMGH46/?tag=tolees-21) a 34.9 EUR (original: 75 EUR) (53.47 %  de descuento) en el siguiente enlace!

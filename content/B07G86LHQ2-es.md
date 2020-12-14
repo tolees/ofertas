@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G86LHQ2/?tag=tolees-21'
 descuento: '38.10'
+average: '129.99'
 ---
 
 Ahora mismo tienes [INTEY Silla de Gaming  Silla de Oficina Ergonómica  PU y Ajustables Apoyabrazos  Reposacabezas y Soporte Lumbar  Carga Máx.125kg - Rojo DHL](https://www.amazon.es/dp/B07G86LHQ2/?tag=tolees-21) a 129.99 EUR (original: 210 EUR) (38.10 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F32ZMQW/?tag=tolees-21'
 descuento: '35.10'
+average: '32.45'
 ---
 
 Tienes [Salomon XA Short  Mujer  Negro  XL](https://www.amazon.es/dp/B07F32ZMQW/?tag=tolees-21) con un 35.10 % de descuento con precio de oferta de 32.45 EUR (original: 50 EUR) en el siguiente enlace!

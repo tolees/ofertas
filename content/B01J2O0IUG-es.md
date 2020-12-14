@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01J2O0IUG/?tag=tolees-21'
 descuento: '45.33'
+average: '35.51'
 ---
 
 Tienes [Skechers Performance Go Train-Hype  Zapatillas de Entrenamiento para Mujer  Morado  Purple   38 EU](https://www.amazon.es/dp/B01J2O0IUG/?tag=tolees-21) con un 45.33 % de descuento con precio de oferta de 35.51 EUR (original: 64.95 EUR) en el siguiente enlace!

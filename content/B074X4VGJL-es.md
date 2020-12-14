@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074X4VGJL/?tag=tolees-21'
 descuento: '35.87'
+average: '6.99'
 ---
 
 Tienes [Prozis Oatmeal - Avena Integral  1250g  Pepitas de Chocolate  12 Dosis](https://www.amazon.es/dp/B074X4VGJL/?tag=tolees-21) con un 35.87 % de descuento con precio de oferta de 6.99 EUR (original: 10.9 EUR) en el siguiente enlace!

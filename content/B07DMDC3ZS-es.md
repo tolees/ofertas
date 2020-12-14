@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DMDC3ZS/?tag=tolees-21'
 descuento: '47.51'
+average: '14.74'
 ---
 
 Está [Emporio Armani Underwear 9p516 Bañador  Blanco  Bianco 00010   Small para Hombre](https://www.amazon.es/dp/B07DMDC3ZS/?tag=tolees-21) con 47.51 de descuento por 14.74 EUR (original: 28.08 EUR) en el siguiente enlace!

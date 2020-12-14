@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01ERUJIME/?tag=tolees-21'
 descuento: '57.28'
+average: '8.95'
 ---
 
 Está [Joma Tennis 80 Short  Pantalones Cortos para Hombre  Blanco  S](https://www.amazon.es/dp/B01ERUJIME/?tag=tolees-21) con 57.28 de descuento por 8.95 EUR (original: 20.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M0UFUIN/?tag=tolees-21'
 descuento: '45.60'
+average: '20.1'
 ---
 
 Está [Original Buff 113552.204.10.00 Calentador de Cuello  Hombre  Naranja  Talla Única](https://www.amazon.es/dp/B01M0UFUIN/?tag=tolees-21) con 45.60 de descuento por 20.1 EUR (original: 36.95 EUR) en el siguiente enlace!

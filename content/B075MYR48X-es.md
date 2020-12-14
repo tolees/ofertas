@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075MYR48X/?tag=tolees-21'
 descuento: '41.47'
+average: '8.95'
 ---
 
 Tienes [Your Name [Blu-ray]](https://www.amazon.es/dp/B075MYR48X/?tag=tolees-21) con un 41.47 % de descuento con precio de oferta de 8.95 EUR (original: 15.29 EUR) en el siguiente enlace!

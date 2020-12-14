@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFB37WL/?tag=tolees-21'
 descuento: '33.44'
+average: '9.95'
 ---
 
 Ahora mismo tienes [Funko 32861 Pop Vinyl: South Park: Cartman  Multi](https://www.amazon.es/dp/B07DFB37WL/?tag=tolees-21) a 9.95 EUR (original: 14.95 EUR) (33.44 %  de descuento) en el siguiente enlace!

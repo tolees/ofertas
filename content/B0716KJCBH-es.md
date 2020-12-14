@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0716KJCBH/?tag=tolees-21'
 descuento: '65.97'
+average: '11.59'
 ---
 
 Ahora mismo tienes [SELECTED HOMME Shnholes Belt Noos  Cinturón Hombre  Negro  Black   95](https://www.amazon.es/dp/B0716KJCBH/?tag=tolees-21) a 11.59 EUR (original: 34.06 EUR) (65.97 %  de descuento) en el siguiente enlace!

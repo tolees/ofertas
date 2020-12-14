@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079JSGH1Q/?tag=tolees-21'
 descuento: '62.74'
+average: '26.08'
 ---
 
 Ahora mismo tienes [Far Cry 5 - Edición Limited  Edición Exclusiva Amazon ](https://www.amazon.es/dp/B079JSGH1Q/?tag=tolees-21) a 26.08 EUR (original: 69.99 EUR) (62.74 %  de descuento) en el siguiente enlace!

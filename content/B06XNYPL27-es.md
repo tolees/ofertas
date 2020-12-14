@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XNYPL27/?tag=tolees-21'
 descuento: '78.78'
+average: '10.6'
 ---
 
 Tienes [Joma Tenis 80 Polo  Mujer  Marino  L](https://www.amazon.es/dp/B06XNYPL27/?tag=tolees-21) con un 78.78 % de descuento con precio de oferta de 10.6 EUR (original: 49.95 EUR) en el siguiente enlace!

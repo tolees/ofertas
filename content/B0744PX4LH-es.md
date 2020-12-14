@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0744PX4LH/?tag=tolees-21'
 descuento: '48.38'
+average: '45.94'
 ---
 
 Está [Timex Reloj Análogo clásico para Hombre de Cuarzo con Correa en Cuero TW4B10600](https://www.amazon.es/dp/B0744PX4LH/?tag=tolees-21) con 48.38 de descuento por 45.94 EUR (original: 89 EUR) en el siguiente enlace!

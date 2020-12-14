@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M7NZ1E5/?tag=tolees-21'
 descuento: '34.41'
+average: '65.56'
 ---
 
 Ahora mismo tienes [Intex 68380NP - Barca hinchable Seahawk 3  con remos aluminio 295 x 137 x 43 cm](https://www.amazon.es/dp/B01M7NZ1E5/?tag=tolees-21) a 65.56 EUR (original: 99.95 EUR) (34.41 %  de descuento) en el siguiente enlace!

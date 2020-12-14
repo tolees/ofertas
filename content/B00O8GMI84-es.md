@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00O8GMI84/?tag=tolees-21'
 descuento: '37.81'
+average: '16.66'
 ---
 
 Ahora mismo tienes [Dim Generous Feminine SG AA Sujetador  Negro  85B para Mujer](https://www.amazon.es/dp/B00O8GMI84/?tag=tolees-21) a 16.66 EUR (original: 26.79 EUR) (37.81 %  de descuento) en el siguiente enlace!

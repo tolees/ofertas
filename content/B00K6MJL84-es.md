@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00K6MJL84/?tag=tolees-21'
 descuento: '49.38'
+average: '15.44'
 ---
 
 Tienes [Orbegozo BA 3500 3500-Batidora amasadora  300 W  5 Velocidades  Blanco](https://www.amazon.es/dp/B00K6MJL84/?tag=tolees-21) con un 49.38 % de descuento con precio de oferta de 15.44 EUR (original: 30.5 EUR) en el siguiente enlace!

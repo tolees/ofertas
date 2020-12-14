@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CM2Y91C/?tag=tolees-21'
 descuento: '50.02'
+average: '21.99'
 ---
 
 Está [SYROKAN Sujetador Deportivo Gran Capacidad Y Sujeción Beige-A261 ES:105C  EU 90C ](https://www.amazon.es/dp/B07CM2Y91C/?tag=tolees-21) con 50.02 de descuento por 21.99 EUR (original: 44 EUR) en el siguiente enlace!

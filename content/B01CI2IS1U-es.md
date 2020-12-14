@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01CI2IS1U/?tag=tolees-21'
 descuento: '34.84'
+average: '13'
 ---
 
 Está [EasyToys Fetish Collection - Plug Anal 6 cm - Pequeño - plug anales plata con cola de zorra marrón de 34 cm - elegantes juguetes anales - Fox tail plug](https://www.amazon.es/dp/B01CI2IS1U/?tag=tolees-21) con 34.84 de descuento por 13 EUR (original: 19.95 EUR) en el siguiente enlace!

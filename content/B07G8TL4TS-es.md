@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G8TL4TS/?tag=tolees-21'
 descuento: '51.63'
+average: '14.99'
 ---
 
 Está [Masajeador de Cuero Cabelludo Eléctrico  Masajeador de Cabeza Cepillo de Champú para Limpieza Profunda del Cabello y Relajación del Músculo de la Cabeza  Alimentado por Batería e Impermeable – Negro](https://www.amazon.es/dp/B07G8TL4TS/?tag=tolees-21) con 51.63 de descuento por 14.99 EUR (original: 30.99 EUR) en el siguiente enlace!

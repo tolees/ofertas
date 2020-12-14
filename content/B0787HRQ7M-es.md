@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0787HRQ7M/?tag=tolees-21'
 descuento: '64.12'
+average: '25.08'
 ---
 
 Ahora mismo tienes [Pepe Jeans London Brompton Square  Zapatillas Mujer  Rosa  Mauve Pink   41 EU](https://www.amazon.es/dp/B0787HRQ7M/?tag=tolees-21) a 25.08 EUR (original: 69.9 EUR) (64.12 %  de descuento) en el siguiente enlace!

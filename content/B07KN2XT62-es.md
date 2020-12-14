@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KN2XT62/?tag=tolees-21'
 descuento: '50.29'
+average: '21.98'
 ---
 
 Ahora mismo tienes [Lámpara colgante Retro industriales  AC 230 V Candelabros  Vintage Loft – Lámpara de techo  aleación de aluminio negro Casquillo E27 para dormitorio restaurante  sin bombilla ](https://www.amazon.es/dp/B07KN2XT62/?tag=tolees-21) a 21.98 EUR (original: 44.22 EUR) (50.29 %  de descuento) en el siguiente enlace!

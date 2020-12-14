@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077TWJ53M/?tag=tolees-21'
 descuento: '59.46'
+average: '28.36'
 ---
 
 Está [Reebok CMPLT 2 PX  Zapatillas de Deporte para Hombre  Blanco  White/LGH Solid Grey/Collegiate Royal 000   43 EU](https://www.amazon.es/dp/B077TWJ53M/?tag=tolees-21) con 59.46 de descuento por 28.36 EUR (original: 69.95 EUR) en el siguiente enlace!

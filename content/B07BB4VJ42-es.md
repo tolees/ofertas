@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BB4VJ42/?tag=tolees-21'
 descuento: '47.49'
+average: '52.51'
 ---
 
 Ahora mismo tienes [The North Face T0A8BA Chaquetas  Mujer  Grisaille Grey  XS](https://www.amazon.es/dp/B07BB4VJ42/?tag=tolees-21) a 52.51 EUR (original: 100 EUR) (47.49 %  de descuento) en el siguiente enlace!

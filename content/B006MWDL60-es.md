@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B006MWDL60/?tag=tolees-21'
 descuento: '56.14'
+average: '61.4'
 ---
 
 Tienes [Gardena 8872-20 Recortasetos  18 W  18 V  Negro](https://www.amazon.es/dp/B006MWDL60/?tag=tolees-21) con un 56.14 % de descuento con precio de oferta de 61.4 EUR (original: 139.99 EUR) en el siguiente enlace!

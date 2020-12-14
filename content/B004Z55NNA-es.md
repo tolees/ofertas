@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004Z55NNA/?tag=tolees-21'
 descuento: '40.61'
+average: '48.62'
 ---
 
 Ahora mismo tienes [Makita P-71772 - Porta bolsa con correa](https://www.amazon.es/dp/B004Z55NNA/?tag=tolees-21) a 48.62 EUR (original: 81.86 EUR) (40.61 %  de descuento) en el siguiente enlace!

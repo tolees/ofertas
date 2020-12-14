@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004LZWURG/?tag=tolees-21'
 descuento: '47.62'
+average: '4.95'
 ---
 
 Está [Cressi Mexico - Snorkel  color negro](https://www.amazon.es/dp/B004LZWURG/?tag=tolees-21) con 47.62 de descuento por 4.95 EUR (original: 9.45 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MQYGIJC/?tag=tolees-21'
 descuento: '57.23'
+average: '32.08'
 ---
 
 Está [Nike Hypervenom Phelon III FG  Botas de fútbol para Hombre  Naranja  Laser Orange Black/Volt/White   44.5 EU](https://www.amazon.es/dp/B01MQYGIJC/?tag=tolees-21) con 57.23 de descuento por 32.08 EUR (original: 75 EUR) en el siguiente enlace!

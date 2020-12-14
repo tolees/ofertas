@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B008ET6IM8/?tag=tolees-21'
 descuento: '27.40'
+average: '48.57'
 ---
 
 Está [Roca A5A3C09C00  Grifo de Cocina con Caño Giratorio  Cromado](https://www.amazon.es/dp/B008ET6IM8/?tag=tolees-21) con 27.40 de descuento por 48.57 EUR (original: 66.9 EUR) en el siguiente enlace!

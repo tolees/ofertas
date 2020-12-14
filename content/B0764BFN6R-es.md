@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0764BFN6R/?tag=tolees-21'
 descuento: '71.56'
+average: '9.95'
 ---
 
 Ahora mismo tienes [Batman: El Enemigo Dentro - The Telltale Series](https://www.amazon.es/dp/B0764BFN6R/?tag=tolees-21) a 9.95 EUR (original: 34.99 EUR) (71.56 %  de descuento) en el siguiente enlace!

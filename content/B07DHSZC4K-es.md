@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHSZC4K/?tag=tolees-21'
 descuento: '27.64'
+average: '199'
 ---
 
 Ahora mismo tienes [AVERMEDIA Live Gamer 4K  transmite vídeo y Juega con Puerto HDMI 2.0 Game Streaming and Video Capture  4Kp60 HDR  latencia ultrabaja  Grabación a 240 Fps  Iluminación RGB  GC573 ](https://www.amazon.es/dp/B07DHSZC4K/?tag=tolees-21) a 199 EUR (original: 275 EUR) (27.64 %  de descuento) en el siguiente enlace!

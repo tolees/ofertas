@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0791BSKRG/?tag=tolees-21'
 descuento: '25.01'
+average: '29.99'
 ---
 
 Ahora mismo tienes [Excelvan 3-en-1 Batidora de Mano 800W DC Motor  con Función Turbo  Regulador Stepless de Velocidad  Picadora de 500ml  Vaso Graduado de 600ml  Accesorios Emulsionador Desmontables  Acero Inoxidable](https://www.amazon.es/dp/B0791BSKRG/?tag=tolees-21) a 29.99 EUR (original: 39.99 EUR) (25.01 %  de descuento) en el siguiente enlace!

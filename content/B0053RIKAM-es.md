@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0053RIKAM/?tag=tolees-21'
 descuento: '40.74'
+average: '94.82'
 ---
 
 Ahora mismo tienes [Nixon A1051037-00 - Reloj analógico de Cuarzo para Hombre con Correa de Piel  Color marrón](https://www.amazon.es/dp/B0053RIKAM/?tag=tolees-21) a 94.82 EUR (original: 160 EUR) (40.74 %  de descuento) en el siguiente enlace!

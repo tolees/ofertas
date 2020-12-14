@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GV54GHL/?tag=tolees-21'
 descuento: '77.51'
+average: '22.99'
 ---
 
 Está [Wetoph - Controlador para Wii U GX03 inalámbrico Wii U con Cable de Carga USB para Wii U Producto de terceros   Color Negro](https://www.amazon.es/dp/B07GV54GHL/?tag=tolees-21) con 77.51 de descuento por 22.99 EUR (original: 102.24 EUR) en el siguiente enlace!

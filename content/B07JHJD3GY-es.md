@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JHJD3GY/?tag=tolees-21'
 descuento: '33.43'
+average: '11.95'
 ---
 
 Está [Puma One Star Ball Balón de Fútbol  Unisex Adulto  Red Blast/Bleu Azur Black  4](https://www.amazon.es/dp/B07JHJD3GY/?tag=tolees-21) con 33.43 de descuento por 11.95 EUR (original: 17.95 EUR) en el siguiente enlace!

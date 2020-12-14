@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078RSDSY6/?tag=tolees-21'
 descuento: '66.46'
+average: '30.52'
 ---
 
 Tienes [Nike Air MAX Nostalgic  Zapatillas de Gimnasia para Hombre  Blanco  Whiteblackwolf Greynoise Aq 100   40.5 EU](https://www.amazon.es/dp/B078RSDSY6/?tag=tolees-21) con un 66.46 % de descuento con precio de oferta de 30.52 EUR (original: 91 EUR) en el siguiente enlace!

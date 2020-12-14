@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MU4KKRA/?tag=tolees-21'
 descuento: '44.67'
+average: '71.9'
 ---
 
 Ahora mismo tienes [adidas Terrex Agravic  Zapatillas de Cross para Hombre  Negro Core Black/Vista Grey S15  42 2/3 EU](https://www.amazon.es/dp/B01MU4KKRA/?tag=tolees-21) a 71.9 EUR (original: 129.95 EUR) (44.67 %  de descuento) en el siguiente enlace!

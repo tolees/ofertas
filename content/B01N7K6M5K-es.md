@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N7K6M5K/?tag=tolees-21'
 descuento: '54.33'
+average: '68.5'
 ---
 
 Está [KENNETH COLE KAM  Zapatillas para Hombre  Blanco  White   43 EU](https://www.amazon.es/dp/B01N7K6M5K/?tag=tolees-21) con 54.33 de descuento por 68.5 EUR (original: 150 EUR) en el siguiente enlace!

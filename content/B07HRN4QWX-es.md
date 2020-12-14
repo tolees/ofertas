@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HRN4QWX/?tag=tolees-21'
 descuento: '40.00'
+average: '119.99'
 ---
 
 Ahora mismo tienes [ZIGLINT Maquina de Esquilar Eléctrica Aspirador de Mano 2 en 1 P20 Especail Mascotas Esquiladora Trasquilar peladora  Aspirador Líquido y Sólido Hogar  pelos de Perro y Gato 4 Tipos de Cuchillas](https://www.amazon.es/dp/B07HRN4QWX/?tag=tolees-21) a 119.99 EUR (original: 199.99 EUR) (40.00 %  de descuento) en el siguiente enlace!

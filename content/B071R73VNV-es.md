@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071R73VNV/?tag=tolees-21'
 descuento: '36.33'
+average: '46.99'
 ---
 
 Tienes [StarTech.com CFASTRWU3 - Lector/Grabador USB 3.0 para Tarjetas de Memoria Flash  Color Plata](https://www.amazon.es/dp/B071R73VNV/?tag=tolees-21) con un 36.33 % de descuento con precio de oferta de 46.99 EUR (original: 73.8 EUR) en el siguiente enlace!

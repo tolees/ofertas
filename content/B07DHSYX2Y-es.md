@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHSYX2Y/?tag=tolees-21'
 descuento: '46.31'
+average: '123.48'
 ---
 
 Tienes [Quiksilver Sycamore Snow Jacket  Hombre  Dress Blues  S](https://www.amazon.es/dp/B07DHSYX2Y/?tag=tolees-21) con un 46.31 % de descuento con precio de oferta de 123.48 EUR (original: 229.99 EUR) en el siguiente enlace!

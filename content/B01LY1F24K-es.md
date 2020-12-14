@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LY1F24K/?tag=tolees-21'
 descuento: '50.00'
+average: '65'
 ---
 
 Ahora mismo tienes [Diesel 0853P  Pantalones para Hombre  Azul  01   36](https://www.amazon.es/dp/B01LY1F24K/?tag=tolees-21) a 65 EUR (original: 130 EUR) (50.00 %  de descuento) en el siguiente enlace!

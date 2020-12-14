@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LF6RCVQ/?tag=tolees-21'
 descuento: '38.90'
+average: '21.99'
 ---
 
 Está [iTrunk Cartuchos de Filtro de Agua para Brita Maxtra® Jugs  Paquete de 6 Brita Activated Carbon Softener  Compatible con Brita Mavea Maxtra 105731 1001122 Elemaris Marella  Aluna Cool  no Maxtra + ](https://www.amazon.es/dp/B07LF6RCVQ/?tag=tolees-21) con 38.90 de descuento por 21.99 EUR (original: 35.99 EUR) en el siguiente enlace!

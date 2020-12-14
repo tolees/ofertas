@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071LFQZWJ/?tag=tolees-21'
 descuento: '67.51'
+average: '18.18'
 ---
 
 Ahora mismo tienes [Marco Tozzi 25026  Botas para Mujer  Azul  Navy   38 EU](https://www.amazon.es/dp/B071LFQZWJ/?tag=tolees-21) a 18.18 EUR (original: 55.95 EUR) (67.51 %  de descuento) en el siguiente enlace!

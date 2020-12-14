@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00I0I2HWS/?tag=tolees-21'
 descuento: '69.73'
+average: '25.91'
 ---
 
 Ahora mismo tienes [FJÄLLRÄVEN Travel Cartera  Unisex Adulto  Gris Oscuro  25 cm](https://www.amazon.es/dp/B00I0I2HWS/?tag=tolees-21) a 25.91 EUR (original: 85.61 EUR) (69.73 %  de descuento) en el siguiente enlace!

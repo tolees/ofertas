@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N1V9Z0B/?tag=tolees-21'
 descuento: '59.98'
+average: '8.4'
 ---
 
 Ahora mismo tienes [RED WAGON Mermaid Stripe Swimsuit Baño para Niñas  Blanco  White   6 años](https://www.amazon.es/dp/B01N1V9Z0B/?tag=tolees-21) a 8.4 EUR (original: 20.99 EUR) (59.98 %  de descuento) en el siguiente enlace!

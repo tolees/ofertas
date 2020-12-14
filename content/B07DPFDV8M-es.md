@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DPFDV8M/?tag=tolees-21'
 descuento: '41.29'
+average: '106.21'
 ---
 
 Tienes [Love Moschino - Borsa Pebble Grain Pu  Shoppers y bolsos de hombro Mujer  Verde  6x17x22 cm  B x H T ](https://www.amazon.es/dp/B07DPFDV8M/?tag=tolees-21) con un 41.29 % de descuento con precio de oferta de 106.21 EUR (original: 180.9 EUR) en el siguiente enlace!

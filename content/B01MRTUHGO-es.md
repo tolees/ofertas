@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MRTUHGO/?tag=tolees-21'
 descuento: '34.69'
+average: '32'
 ---
 
 Está [Skagen Brazalete Mujer acero inoxidable - SKJ0981791](https://www.amazon.es/dp/B01MRTUHGO/?tag=tolees-21) con 34.69 de descuento por 32 EUR (original: 49 EUR) en el siguiente enlace!

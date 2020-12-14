@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FJ5S3KZ/?tag=tolees-21'
 descuento: '26.08'
+average: '17.74'
 ---
 
 Tienes [Bollé Inuk Máscaras  Unisex niños  Negro  Mate Monkey   3-6 años](https://www.amazon.es/dp/B07FJ5S3KZ/?tag=tolees-21) con un 26.08 % de descuento con precio de oferta de 17.74 EUR (original: 24 EUR) en el siguiente enlace!

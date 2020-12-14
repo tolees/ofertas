@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00BHEKXFK/?tag=tolees-21'
 descuento: '42.73'
+average: '42.95'
 ---
 
 Tienes [Skandika Aberdeen - Saco de dormir tipo momia](https://www.amazon.es/dp/B00BHEKXFK/?tag=tolees-21) con un 42.73 % de descuento con precio de oferta de 42.95 EUR (original: 75 EUR) en el siguiente enlace!

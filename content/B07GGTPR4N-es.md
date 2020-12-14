@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GGTPR4N/?tag=tolees-21'
 descuento: '73.16'
+average: '10.99'
 ---
 
 Ahora mismo tienes [barba kit  iFanze Aceites Barba  barba peine  cepillo barba  cepillo barba jabali  aceite para barba crecimiento  aceite para barba natural  aceite para barba cuidado 100 ml](https://www.amazon.es/dp/B07GGTPR4N/?tag=tolees-21) a 10.99 EUR (original: 40.95 EUR) (73.16 %  de descuento) en el siguiente enlace!

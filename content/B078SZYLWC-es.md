@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078SZYLWC/?tag=tolees-21'
 descuento: '61.89'
+average: '38.09'
 ---
 
 Tienes [Salomon Trailster W  Zapatillas de Trail Running para Mujer  Azul  Crown Blue/Navy Blazer/Purple Opulence   45 1/3 EU](https://www.amazon.es/dp/B078SZYLWC/?tag=tolees-21) con un 61.89 % de descuento con precio de oferta de 38.09 EUR (original: 99.95 EUR) en el siguiente enlace!

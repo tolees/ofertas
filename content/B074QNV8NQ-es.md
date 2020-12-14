@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074QNV8NQ/?tag=tolees-21'
 descuento: '36.12'
+average: '22.99'
 ---
 
 Está [Oflamn Bolsa Aislante Caja de Enfriador Grande con Correa de Transporte Desmontable 20 L  Brown ](https://www.amazon.es/dp/B074QNV8NQ/?tag=tolees-21) con 36.12 de descuento por 22.99 EUR (original: 35.99 EUR) en el siguiente enlace!

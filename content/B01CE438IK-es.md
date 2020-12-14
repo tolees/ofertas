@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01CE438IK/?tag=tolees-21'
 descuento: '54.40'
+average: '31.92'
 ---
 
 Está [Under Armour UA Drift RN Mineral  Zapatillas de Running para Hombre  Rojo  Cardinal   41 EU](https://www.amazon.es/dp/B01CE438IK/?tag=tolees-21) con 54.40 de descuento por 31.92 EUR (original: 70 EUR) en el siguiente enlace!

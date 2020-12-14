@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XS7LYY4/?tag=tolees-21'
 descuento: '58.41'
+average: '29.09'
 ---
 
 Ahora mismo tienes [Skechers Arcade  Zapatillas de Entrenamiento para Hombre  Azul  Navy   40 EU](https://www.amazon.es/dp/B06XS7LYY4/?tag=tolees-21) a 29.09 EUR (original: 69.95 EUR) (58.41 %  de descuento) en el siguiente enlace!

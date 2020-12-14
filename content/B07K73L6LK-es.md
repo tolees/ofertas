@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K73L6LK/?tag=tolees-21'
 descuento: '54.69'
+average: '33.98'
 ---
 
 Ahora mismo tienes [Levi s Hoodie Capucha   Colorblock Quiet Shade/White/Dress Bl 0004   Small para Hombre](https://www.amazon.es/dp/B07K73L6LK/?tag=tolees-21) a 33.98 EUR (original: 75 EUR) (54.69 %  de descuento) en el siguiente enlace!

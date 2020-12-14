@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072Z12PBQ/?tag=tolees-21'
 descuento: '71.48'
+average: '3.99'
 ---
 
 Tienes [Funko Pop!- Pocket Keychain Hulk Gladiator  13787 ](https://www.amazon.es/dp/B072Z12PBQ/?tag=tolees-21) con un 71.48 % de descuento con precio de oferta de 3.99 EUR (original: 13.99 EUR) en el siguiente enlace!

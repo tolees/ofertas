@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DW81LVL/?tag=tolees-21'
 descuento: '53.95'
+average: '11.49'
 ---
 
 Está [Hummel Hmlangel S/S Top  Unisex niños  Azul  Total Eclipse   128](https://www.amazon.es/dp/B07DW81LVL/?tag=tolees-21) con 53.95 de descuento por 11.49 EUR (original: 24.95 EUR) en el siguiente enlace!

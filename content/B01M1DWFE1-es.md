@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M1DWFE1/?tag=tolees-21'
 descuento: '68.35'
+average: '3'
 ---
 
 Tienes [Coca-Cola - Zero  Botella de Plástico 500 ml - [pack de 12]](https://www.amazon.es/dp/B01M1DWFE1/?tag=tolees-21) con un 68.35 % de descuento con precio de oferta de 3 EUR (original: 9.48 EUR) en el siguiente enlace!

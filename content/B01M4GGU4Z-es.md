@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M4GGU4Z/?tag=tolees-21'
 descuento: '36.30'
+average: '10.6'
 ---
 
 Tienes [[Pack de 4] Neutrex Transpirex Pistola 600ml](https://www.amazon.es/dp/B01M4GGU4Z/?tag=tolees-21) con un 36.30 % de descuento con precio de oferta de 10.6 EUR (original: 16.64 EUR) en el siguiente enlace!

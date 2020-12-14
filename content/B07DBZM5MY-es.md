@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DBZM5MY/?tag=tolees-21'
 descuento: '59.36'
+average: '28.43'
 ---
 
 Tienes [Puma NRGY Neko Sport  Zapatillas de Running para Hombre  Gris  Quarry White   45 EU](https://www.amazon.es/dp/B07DBZM5MY/?tag=tolees-21) con un 59.36 % de descuento con precio de oferta de 28.43 EUR (original: 69.95 EUR) en el siguiente enlace!

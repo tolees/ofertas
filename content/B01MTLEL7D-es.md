@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MTLEL7D/?tag=tolees-21'
 descuento: '40.11'
+average: '38.9'
 ---
 
 Ahora mismo tienes [Skechers Energy Lights-Tarvos  Entrenadores para Niños  Negro  Black/Red   31 EU](https://www.amazon.es/dp/B01MTLEL7D/?tag=tolees-21) a 38.9 EUR (original: 64.95 EUR) (40.11 %  de descuento) en el siguiente enlace!

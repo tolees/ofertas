@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077SWWGG5/?tag=tolees-21'
 descuento: '58.15'
+average: '33.46'
 ---
 
 Está [Puma Ignite Flash Evoknit  Zapatillas de Running para Hombre  Gris  Glacier Gray White-Strong Blue-Spectra Yellow 12   41 EU](https://www.amazon.es/dp/B077SWWGG5/?tag=tolees-21) con 58.15 de descuento por 33.46 EUR (original: 79.95 EUR) en el siguiente enlace!

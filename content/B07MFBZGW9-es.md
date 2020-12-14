@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MFBZGW9/?tag=tolees-21'
 descuento: '59.31'
+average: '32.53'
 ---
 
 Está [Adidas Copa 19.3 SG  Botas de fútbol para Hombre  Amasol/Negbás 000  42 EU](https://www.amazon.es/dp/B07MFBZGW9/?tag=tolees-21) con 59.31 de descuento por 32.53 EUR (original: 79.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071JBZGGM/?tag=tolees-21'
 descuento: '37.07'
+average: '1.63'
 ---
 
 Ahora mismo tienes [Giorgi Espuma fijadora hidratante  Extra Fuerte - 210 ml](https://www.amazon.es/dp/B071JBZGGM/?tag=tolees-21) a 1.63 EUR (original: 2.59 EUR) (37.07 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JH2ZZRC/?tag=tolees-21'
 descuento: '36.56'
+average: '31.69'
 ---
 
 Tienes [Puma Always On Solid 7/8 Tight Mallas Deporte  Mujer  Azul  Peacoat   M](https://www.amazon.es/dp/B07JH2ZZRC/?tag=tolees-21) con un 36.56 % de descuento con precio de oferta de 31.69 EUR (original: 49.95 EUR) en el siguiente enlace!

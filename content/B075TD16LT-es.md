@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075TD16LT/?tag=tolees-21'
 descuento: '63.64'
+average: '18.16'
 ---
 
 Está [Trucco - Pantalones para mujer  color rojo medio  talla 42](https://www.amazon.es/dp/B075TD16LT/?tag=tolees-21) con 63.64 de descuento por 18.16 EUR (original: 49.95 EUR) en el siguiente enlace!

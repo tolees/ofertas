@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FTKW4JR/?tag=tolees-21'
 descuento: '49.99'
+average: '24.98'
 ---
 
 Ahora mismo tienes [Adidas CF Racer TR K  Zapatillas de Deporte Unisex Adulto   Rojsol/Negbás/Gridos 000   38 2/3 EU](https://www.amazon.es/dp/B07FTKW4JR/?tag=tolees-21) a 24.98 EUR (original: 49.95 EUR) (49.99 %  de descuento) en el siguiente enlace!

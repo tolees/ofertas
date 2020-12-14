@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002SX6CG8/?tag=tolees-21'
 descuento: '31.04'
+average: '24.79'
 ---
 
 Está [Gofrera eléctrica Tristar WF-2141 – Dos gofres a la vez – Tamaño compacto](https://www.amazon.es/dp/B002SX6CG8/?tag=tolees-21) con 31.04 de descuento por 24.79 EUR (original: 35.95 EUR) en el siguiente enlace!

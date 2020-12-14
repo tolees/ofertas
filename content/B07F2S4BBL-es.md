@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F2S4BBL/?tag=tolees-21'
 descuento: '45.50'
+average: '10.9'
 ---
 
 Está [Helly Hansen Logo Cap  Gorra de béisbol para Hombre  Rosa  Rosa 181   One Size](https://www.amazon.es/dp/B07F2S4BBL/?tag=tolees-21) con 45.50 de descuento por 10.9 EUR (original: 20 EUR) en el siguiente enlace!

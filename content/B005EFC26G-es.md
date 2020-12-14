@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005EFC26G/?tag=tolees-21'
 descuento: '49.95'
+average: '13.99'
 ---
 
 Está [Máquina de cupcakes Tristar SA-1122 - Cuatro cupcakes a la vez - Carcasa plateada](https://www.amazon.es/dp/B005EFC26G/?tag=tolees-21) con 49.95 de descuento por 13.99 EUR (original: 27.95 EUR) en el siguiente enlace!

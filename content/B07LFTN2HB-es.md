@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LFTN2HB/?tag=tolees-21'
 descuento: '41.78'
+average: '37.84'
 ---
 
 Tienes [Pepe Jeans David Tech  Zapatillas para Niños  Negro  999BLACK 999   37 EU](https://www.amazon.es/dp/B07LFTN2HB/?tag=tolees-21) con un 41.78 % de descuento con precio de oferta de 37.84 EUR (original: 65 EUR) en el siguiente enlace!

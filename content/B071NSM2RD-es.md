@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071NSM2RD/?tag=tolees-21'
 descuento: '44.09'
+average: '27.95'
 ---
 
 Está [JACK & JONES Jjicody Jjspencer WW Tan Noos  Pantalones Hombre  Marrón  Tan   W27/L30  Talla del Fabricante: 27 ](https://www.amazon.es/dp/B071NSM2RD/?tag=tolees-21) con 44.09 de descuento por 27.95 EUR (original: 49.99 EUR) en el siguiente enlace!

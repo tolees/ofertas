@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DQ18B1R/?tag=tolees-21'
 descuento: '47.73'
+average: '28.75'
 ---
 
 Ahora mismo tienes [Burton Lightweight Calzoncillos Termicos  Hombre  True Black  XS](https://www.amazon.es/dp/B07DQ18B1R/?tag=tolees-21) a 28.75 EUR (original: 55 EUR) (47.73 %  de descuento) en el siguiente enlace!

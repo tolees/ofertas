@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ6HTPB/?tag=tolees-21'
 descuento: '50.03'
+average: '26.95'
 ---
 
 Está [Asics Fuzetora Twist  Zapatillas de Deporte para Mujer  Gris  Mid Grey/White 020   36 EU](https://www.amazon.es/dp/B07CZ6HTPB/?tag=tolees-21) con 50.03 de descuento por 26.95 EUR (original: 53.93 EUR) en el siguiente enlace!

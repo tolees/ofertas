@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00JB4W9AA/?tag=tolees-21'
 descuento: '62.18'
+average: '9.45'
 ---
 
 Está [Case Logic QuickFlip - Funda Universal para Tablet de 7-8"  Negro](https://www.amazon.es/dp/B00JB4W9AA/?tag=tolees-21) con 62.18 de descuento por 9.45 EUR (original: 24.99 EUR) en el siguiente enlace!

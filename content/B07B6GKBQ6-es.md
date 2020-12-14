@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B6GKBQ6/?tag=tolees-21'
 descuento: '44.04'
+average: '39.17'
 ---
 
 Está [Dockers Washed Khaki Skinny-Stretch Twill Pantalones  C00085 Safari Beige 0015  W31/L32  Talla del Fabricante: 31 32  para Hombre](https://www.amazon.es/dp/B07B6GKBQ6/?tag=tolees-21) con 44.04 de descuento por 39.17 EUR (original: 70 EUR) en el siguiente enlace!

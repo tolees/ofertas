@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RS1F9D/?tag=tolees-21'
 descuento: '39.98'
+average: '35.95'
 ---
 
 Ahora mismo tienes [Pepe Jeans Cooper  Suéter para Hombre  Azul  Deep Sea 597   XX-Large](https://www.amazon.es/dp/B079RS1F9D/?tag=tolees-21) a 35.95 EUR (original: 59.9 EUR) (39.98 %  de descuento) en el siguiente enlace!

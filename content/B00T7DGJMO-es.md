@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00T7DGJMO/?tag=tolees-21'
 descuento: '78.41'
+average: '2.42'
 ---
 
 Está [Thermobaby - Cepillo limpia biberones](https://www.amazon.es/dp/B00T7DGJMO/?tag=tolees-21) con 78.41 de descuento por 2.42 EUR (original: 11.21 EUR) en el siguiente enlace!

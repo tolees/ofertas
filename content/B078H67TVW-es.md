@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078H67TVW/?tag=tolees-21'
 descuento: '56.69'
+average: '12.99'
 ---
 
 Está [Springfield 433543  Pantalones Cortos Deportivos Para Hombre  Beige  Gama tostados   Tamaño del fabricante: 46](https://www.amazon.es/dp/B078H67TVW/?tag=tolees-21) con 56.69 de descuento por 12.99 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079YM8TV4/?tag=tolees-21'
 descuento: '69.37'
+average: '11.93'
 ---
 
 Está [Funko Pop! - Disney: The Incredibles 2 Figura de Vinilo 29202](https://www.amazon.es/dp/B079YM8TV4/?tag=tolees-21) con 69.37 de descuento por 11.93 EUR (original: 38.95 EUR) en el siguiente enlace!

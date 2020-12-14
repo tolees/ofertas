@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PJNT4XB/?tag=tolees-21'
 descuento: '35.74'
+average: '8.99'
 ---
 
 Ahora mismo tienes [FeelinGirl Conjunto Ropa Sexy Mujer Encaje Vaciado Ropa Sexy Encaje y Rejilla Floral Rojo 3XL](https://www.amazon.es/dp/B07PJNT4XB/?tag=tolees-21) a 8.99 EUR (original: 13.99 EUR) (35.74 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MN21TRX/?tag=tolees-21'
 descuento: '39.90'
+average: '21.63'
 ---
 
 Está [MTNG Attitude 82600  Zapatillas para Hombre  Verde  Pila America Nylon Kaky C44863   40 EU](https://www.amazon.es/dp/B07MN21TRX/?tag=tolees-21) con 39.90 de descuento por 21.63 EUR (original: 35.99 EUR) en el siguiente enlace!

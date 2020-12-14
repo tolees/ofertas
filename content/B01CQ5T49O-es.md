@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01CQ5T49O/?tag=tolees-21'
 descuento: '61.20'
+average: '61.99'
 ---
 
 Está [San Ignacio Set De 3 Sartenes Profesionales Ø 20  24 Y 28 Antiadherente Teflon Sartnes 3 Uds. Negro  Aluminio  Acero Inoxidable  mármol](https://www.amazon.es/dp/B01CQ5T49O/?tag=tolees-21) con 61.20 de descuento por 61.99 EUR (original: 159.75 EUR) en el siguiente enlace!

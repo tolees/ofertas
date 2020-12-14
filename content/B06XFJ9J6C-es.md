@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XFJ9J6C/?tag=tolees-21'
 descuento: '29.26'
+average: '11.99'
 ---
 
 Tienes [Dcasa - Cortina de baño original poliester diseño mensaje "CANTANDO"](https://www.amazon.es/dp/B06XFJ9J6C/?tag=tolees-21) con un 29.26 % de descuento con precio de oferta de 11.99 EUR (original: 16.95 EUR) en el siguiente enlace!

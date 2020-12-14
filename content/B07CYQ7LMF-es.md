@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CYQ7LMF/?tag=tolees-21'
 descuento: '52.61'
+average: '66.35'
 ---
 
 Ahora mismo tienes [Element Dulcey Jacket  Hombre  Eclipse Navy  XL](https://www.amazon.es/dp/B07CYQ7LMF/?tag=tolees-21) a 66.35 EUR (original: 140 EUR) (52.61 %  de descuento) en el siguiente enlace!

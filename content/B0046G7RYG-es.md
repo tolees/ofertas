@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0046G7RYG/?tag=tolees-21'
 descuento: '39.37'
+average: '90.95'
 ---
 
 Ahora mismo tienes [Sebago TRITON THREE EYE - Náuticos de cuero para hombre  Marrón  BRITISH TAN/BROWN   42 EU](https://www.amazon.es/dp/B0046G7RYG/?tag=tolees-21) a 90.95 EUR (original: 150 EUR) (39.37 %  de descuento) en el siguiente enlace!

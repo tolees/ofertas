@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PM3QB8S/?tag=tolees-21'
 descuento: '74.83'
+average: '9.99'
 ---
 
 Tienes [Louviva Mini Masajeador Portátil  Diámetro Interno 3.5cm，10 Modos  Recargable - Negro](https://www.amazon.es/dp/B07PM3QB8S/?tag=tolees-21) con un 74.83 % de descuento con precio de oferta de 9.99 EUR (original: 39.69 EUR) en el siguiente enlace!

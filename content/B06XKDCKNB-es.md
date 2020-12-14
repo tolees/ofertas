@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XKDCKNB/?tag=tolees-21'
 descuento: '56.87'
+average: '69'
 ---
 
 Tienes [Alcatel A3 - Smartphone Pantalla de 5"  4G  cámara de 13MP y frontal de 5MP  1.5GB RAM  16GB ROM  Android   negro](https://www.amazon.es/dp/B06XKDCKNB/?tag=tolees-21) con un 56.87 % de descuento con precio de oferta de 69 EUR (original: 159.99 EUR) en el siguiente enlace!

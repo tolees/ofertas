@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00BBVM43S/?tag=tolees-21'
 descuento: '64.53'
+average: '21.21'
 ---
 
 Está [Beppi Casual  Mocasines para Hombre  Azul  Navy Blue   45 EU](https://www.amazon.es/dp/B00BBVM43S/?tag=tolees-21) con 64.53 de descuento por 21.21 EUR (original: 59.8 EUR) en el siguiente enlace!

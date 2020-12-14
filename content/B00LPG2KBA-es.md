@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00LPG2KBA/?tag=tolees-21'
 descuento: '26.13'
+average: '479.4'
 ---
 
 Ahora mismo tienes [De Longhi ETAM29.510.SB Cafetera súper automática  con panel táctil  1450 W  1.3 L  15 bareses  acero inoxidable  plata](https://www.amazon.es/dp/B00LPG2KBA/?tag=tolees-21) a 479.4 EUR (original: 649 EUR) (26.13 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XSBRJSN/?tag=tolees-21'
 descuento: '50.14'
+average: '34.9'
 ---
 
 Tienes [New Balance M420V4  Zapatillas de Deporte Unisex Adulto  M420lk4  44 EU](https://www.amazon.es/dp/B06XSBRJSN/?tag=tolees-21) con un 50.14 % de descuento con precio de oferta de 34.9 EUR (original: 70 EUR) en el siguiente enlace!

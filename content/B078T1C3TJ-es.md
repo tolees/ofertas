@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078T1C3TJ/?tag=tolees-21'
 descuento: '46.05'
+average: '5.39'
 ---
 
 Está [Trust Yvi FX - Ratón óptico Iluminado  Color Negro](https://www.amazon.es/dp/B078T1C3TJ/?tag=tolees-21) con 46.05 de descuento por 5.39 EUR (original: 9.99 EUR) en el siguiente enlace!

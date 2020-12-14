@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0725PHHWY/?tag=tolees-21'
 descuento: '58.63'
+average: '20.68'
 ---
 
 Ahora mismo tienes [MTNG Marina  Botas Mujer  Negro  Antil Negro   38 EU](https://www.amazon.es/dp/B0725PHHWY/?tag=tolees-21) a 20.68 EUR (original: 49.99 EUR) (58.63 %  de descuento) en el siguiente enlace!

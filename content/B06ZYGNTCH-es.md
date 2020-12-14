@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06ZYGNTCH/?tag=tolees-21'
 descuento: '48.74'
+average: '21'
 ---
 
 Tienes [Psycho Pass - Temporada 1  Parte 2 [Blu-ray]](https://www.amazon.es/dp/B06ZYGNTCH/?tag=tolees-21) con un 48.74 % de descuento con precio de oferta de 21 EUR (original: 40.97 EUR) en el siguiente enlace!

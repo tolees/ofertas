@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005UCPSRI/?tag=tolees-21'
 descuento: '61.55'
+average: '29.9'
 ---
 
 Ahora mismo tienes [Canon 729 Bk Cartucho de toner original Negro para Impresora Laser Isensys](https://www.amazon.es/dp/B005UCPSRI/?tag=tolees-21) a 29.9 EUR (original: 77.76 EUR) (61.55 %  de descuento) en el siguiente enlace!

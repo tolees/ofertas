@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MCMFCNP/?tag=tolees-21'
 descuento: '62.04'
+average: '29.99'
 ---
 
 Está [Nego Cuchillos para Carne - Cuchillos para Carne 6piezas  Cuchilla Punta Puntiaguda Hoja Borde 4.5 Pulgadas Cuchillo alemán Acero Inoxidable HC Nitidez Protección contra el óxido Ligero Slicamente](https://www.amazon.es/dp/B07MCMFCNP/?tag=tolees-21) con 62.04 de descuento por 29.99 EUR (original: 79 EUR) en el siguiente enlace!

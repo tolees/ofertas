@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GJSFXMS/?tag=tolees-21'
 descuento: '74.40'
+average: '20.99'
 ---
 
 Está [Emolli Almohada de Viaje  Espuma de Memoria Almohada Ortopédica Cervical  Avión Almohada Cervical  Apoya la Cabeza  el Cuello y la Barbilla  con Máscara de Ojos  Bolsa con Cordón  Buen Regalo - Gris](https://www.amazon.es/dp/B07GJSFXMS/?tag=tolees-21) con 74.40 de descuento por 20.99 EUR (original: 81.98 EUR) en el siguiente enlace!

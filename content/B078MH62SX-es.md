@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078MH62SX/?tag=tolees-21'
 descuento: '36.01'
+average: '29.5'
 ---
 
 Ahora mismo tienes [Asics Classic Tempo  Zapatillas de Running para Hombre   Stone Greywhite   41.5 EU](https://www.amazon.es/dp/B078MH62SX/?tag=tolees-21) a 29.5 EUR (original: 46.1 EUR) (36.01 %  de descuento) en el siguiente enlace!

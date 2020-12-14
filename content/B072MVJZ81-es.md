@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072MVJZ81/?tag=tolees-21'
 descuento: '70.08'
+average: '10.47'
 ---
 
 Tienes [Only & Sons Onsfiske Sweat Pants Brushed Noos Pantalones  Gris  Light Grey Melange   54  Talla del Fabricante: X-Large  para Hombre](https://www.amazon.es/dp/B072MVJZ81/?tag=tolees-21) con un 70.08 % de descuento con precio de oferta de 10.47 EUR (original: 34.99 EUR) en el siguiente enlace!

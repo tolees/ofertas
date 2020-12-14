@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017RBPL0S/?tag=tolees-21'
 descuento: '53.64'
+average: '35.7'
 ---
 
 Ahora mismo tienes [D Issey Colonia - 100 ml](https://www.amazon.es/dp/B017RBPL0S/?tag=tolees-21) a 35.7 EUR (original: 77 EUR) (53.64 %  de descuento) en el siguiente enlace!

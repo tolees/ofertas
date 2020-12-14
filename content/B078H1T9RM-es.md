@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078H1T9RM/?tag=tolees-21'
 descuento: '75.11'
+average: '6.47'
 ---
 
 Está [Springfield Bañador Bañador  Hombre  Azul  Azul   Large  Tamaño del Fabricante:4 ](https://www.amazon.es/dp/B078H1T9RM/?tag=tolees-21) con 75.11 de descuento por 6.47 EUR (original: 25.99 EUR) en el siguiente enlace!

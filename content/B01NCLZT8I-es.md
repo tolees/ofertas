@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NCLZT8I/?tag=tolees-21'
 descuento: '32.33'
+average: '30.45'
 ---
 
 Tienes [Wilson  Raqueta de tenis para jóvenes  Roger Federer 26  Negro/Rojo  Para jóvenes con altura de más de 145 cm](https://www.amazon.es/dp/B01NCLZT8I/?tag=tolees-21) con un 32.33 % de descuento con precio de oferta de 30.45 EUR (original: 45 EUR) en el siguiente enlace!

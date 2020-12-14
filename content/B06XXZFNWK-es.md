@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XXZFNWK/?tag=tolees-21'
 descuento: '85.74'
+average: '22.67'
 ---
 
 Tienes [REPLAY Touch High Waist  Jeans Ajustados para Mujer  Azul  Elettric Blue 279  W29/L34  Talla del Fabricante: 29 ](https://www.amazon.es/dp/B06XXZFNWK/?tag=tolees-21) con un 85.74 % de descuento con precio de oferta de 22.67 EUR (original: 159 EUR) en el siguiente enlace!

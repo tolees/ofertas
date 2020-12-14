@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071XHCVSM/?tag=tolees-21'
 descuento: '66.91'
+average: '29.75'
 ---
 
 Ahora mismo tienes [Pedro del Hierro 7702299 Pantalones  Hombre  Gris  Dark grey    Tamaño del fabricante:48 ](https://www.amazon.es/dp/B071XHCVSM/?tag=tolees-21) a 29.75 EUR (original: 89.9 EUR) (66.91 %  de descuento) en el siguiente enlace!

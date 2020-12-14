@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00J96IE2C/?tag=tolees-21'
 descuento: '44.60'
+average: '30.44'
 ---
 
 Ahora mismo tienes [adidas Sere14 PES Su Y Chándal  Niños  Negro/Rojo/Blanco  164](https://www.amazon.es/dp/B00J96IE2C/?tag=tolees-21) a 30.44 EUR (original: 54.95 EUR) (44.60 %  de descuento) en el siguiente enlace!

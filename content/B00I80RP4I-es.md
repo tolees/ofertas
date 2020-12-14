@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00I80RP4I/?tag=tolees-21'
 descuento: '62.57'
+average: '8.5'
 ---
 
 Tienes [Enchanted Forest](https://www.amazon.es/dp/B00I80RP4I/?tag=tolees-21) con un 62.57 % de descuento con precio de oferta de 8.5 EUR (original: 22.71 EUR) en el siguiente enlace!

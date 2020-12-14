@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XBN4DJT/?tag=tolees-21'
 descuento: '65.99'
+average: '23.79'
 ---
 
 Está [Skechers Side Street  Zapatillas para Mujer  Negro  Black/Gold   36 EU](https://www.amazon.es/dp/B06XBN4DJT/?tag=tolees-21) con 65.99 de descuento por 23.79 EUR (original: 69.95 EUR) en el siguiente enlace!

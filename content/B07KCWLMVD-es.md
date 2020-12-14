@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KCWLMVD/?tag=tolees-21'
 descuento: '51.23'
+average: '14.63'
 ---
 
 Está [Hurley Eyes ON The Horizon PRM tee SS Camisetas  Hombre  Track Red  XL](https://www.amazon.es/dp/B07KCWLMVD/?tag=tolees-21) con 51.23 de descuento por 14.63 EUR (original: 30 EUR) en el siguiente enlace!

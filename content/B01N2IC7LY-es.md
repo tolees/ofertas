@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N2IC7LY/?tag=tolees-21'
 descuento: '61.98'
+average: '18.99'
 ---
 
 Está [Puma Smash Buck  Zapatillas Unisex Adulto  Azul True Blue 26  38 EU](https://www.amazon.es/dp/B01N2IC7LY/?tag=tolees-21) con 61.98 de descuento por 18.99 EUR (original: 49.95 EUR) en el siguiente enlace!

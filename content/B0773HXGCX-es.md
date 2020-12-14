@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0773HXGCX/?tag=tolees-21'
 descuento: '40.48'
+average: '23.81'
 ---
 
 Ahora mismo tienes [Levi s Malibu S  Zapatillas para Mujer  Rosa  Noir Regular Fushia   38 EU](https://www.amazon.es/dp/B0773HXGCX/?tag=tolees-21) a 23.81 EUR (original: 40 EUR) (40.48 %  de descuento) en el siguiente enlace!

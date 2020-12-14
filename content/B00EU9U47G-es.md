@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00EU9U47G/?tag=tolees-21'
 descuento: '33.64'
+average: '116.79'
 ---
 
 Ahora mismo tienes [TUTTAMBI Elemento Decorativo Gramophone](https://www.amazon.es/dp/B00EU9U47G/?tag=tolees-21) a 116.79 EUR (original: 176 EUR) (33.64 %  de descuento) en el siguiente enlace!

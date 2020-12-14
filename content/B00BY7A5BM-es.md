@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00BY7A5BM/?tag=tolees-21'
 descuento: '74.97'
+average: '2.49'
 ---
 
 Tienes [Kokido Classic - Recogehojas de superficie](https://www.amazon.es/dp/B00BY7A5BM/?tag=tolees-21) con un 74.97 % de descuento con precio de oferta de 2.49 EUR (original: 9.95 EUR) en el siguiente enlace!

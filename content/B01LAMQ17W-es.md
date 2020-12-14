@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LAMQ17W/?tag=tolees-21'
 descuento: '43.30'
+average: '8.5'
 ---
 
 Tienes [POP! Vinilo - Disney: Beauty & The Beast: Belle](https://www.amazon.es/dp/B01LAMQ17W/?tag=tolees-21) con un 43.30 % de descuento con precio de oferta de 8.5 EUR (original: 14.99 EUR) en el siguiente enlace!

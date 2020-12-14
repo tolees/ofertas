@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0148NGKIU/?tag=tolees-21'
 descuento: '44.38'
+average: '90.36'
 ---
 
 Está [Festina Tour de Inglaterra edición 2015 F16874/F Reloj de Cuarzo para Hombre con cronógrafo  Mecanismo de Cuarzo  Esfera de Plata  Correa de Caucho de Color Negro](https://www.amazon.es/dp/B0148NGKIU/?tag=tolees-21) con 44.38 de descuento por 90.36 EUR (original: 162.46 EUR) en el siguiente enlace!

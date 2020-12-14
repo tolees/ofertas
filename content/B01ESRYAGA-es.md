@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01ESRYAGA/?tag=tolees-21'
 descuento: '33.34'
+average: '19.99'
 ---
 
 Está [ENKEEO Juego de 5 Bandas Elásticas Resistencia 11 Piezas  Cinta Ejercicio  Material de Látex Natural  Vario Nivel Resistencia  Accesorios Completos para Entrenamiento ](https://www.amazon.es/dp/B01ESRYAGA/?tag=tolees-21) con 33.34 de descuento por 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

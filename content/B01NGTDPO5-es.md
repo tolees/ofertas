@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NGTDPO5/?tag=tolees-21'
 descuento: '44.04'
+average: '30.78'
 ---
 
 Tienes [New Balance Top 1/2 CREMALL Space Sudadera/Chaqueta  Hombre  Pigment  XL](https://www.amazon.es/dp/B01NGTDPO5/?tag=tolees-21) con un 44.04 % de descuento con precio de oferta de 30.78 EUR (original: 55 EUR) en el siguiente enlace!

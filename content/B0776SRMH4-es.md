@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0776SRMH4/?tag=tolees-21'
 descuento: '57.04'
+average: '32.22'
 ---
 
 Tienes [Tommy Jeans Hombre Original suéter Manga Larga  Negro  Tommy Black 078  XX-Large](https://www.amazon.es/dp/B0776SRMH4/?tag=tolees-21) con un 57.04 % de descuento con precio de oferta de 32.22 EUR (original: 75 EUR) en el siguiente enlace!

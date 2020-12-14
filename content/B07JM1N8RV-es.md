@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JM1N8RV/?tag=tolees-21'
 descuento: '26.68'
+average: '25.75'
 ---
 
 Está [Harry Potter Hogwarts Express 9 3/4 Bolsa de Aseo 28 Centimeters Negro  Black ](https://www.amazon.es/dp/B07JM1N8RV/?tag=tolees-21) con 26.68 de descuento por 25.75 EUR (original: 35.12 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00CKRLB2M/?tag=tolees-21'
 descuento: '40.11'
+average: '30.49'
 ---
 
 Ahora mismo tienes [Milestone Camping Cama de campaña Plegable Verde](https://www.amazon.es/dp/B00CKRLB2M/?tag=tolees-21) a 30.49 EUR (original: 50.91 EUR) (40.11 %  de descuento) en el siguiente enlace!

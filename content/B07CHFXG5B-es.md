@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CHFXG5B/?tag=tolees-21'
 descuento: '48.01'
+average: '25.99'
 ---
 
 Tienes [Bluetooth Báscula de Grasa Corporal  ISENPENK Inalámbrica Báscula de Baño con APP para iOS y Android Digital Balanza Inteligente 180 kg / 396lb 8 Funciones de Medición para Usuarios Ilimitados– Blanco](https://www.amazon.es/dp/B07CHFXG5B/?tag=tolees-21) con un 48.01 % de descuento con precio de oferta de 25.99 EUR (original: 49.99 EUR) en el siguiente enlace!

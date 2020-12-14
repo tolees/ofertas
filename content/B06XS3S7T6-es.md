@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XS3S7T6/?tag=tolees-21'
 descuento: '29.97'
+average: '112.05'
 ---
 
 Está [New Balance 1080v8  Zapatillas de Running para Mujer  Azul Clear Sky/Vivid Coral/Black  39 EU](https://www.amazon.es/dp/B06XS3S7T6/?tag=tolees-21) con 29.97 de descuento por 112.05 EUR (original: 160 EUR) en el siguiente enlace!

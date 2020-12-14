@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M91H3ZM/?tag=tolees-21'
 descuento: '41.71'
+average: '17.48'
 ---
 
 Ahora mismo tienes [MTNG 69194  Zapatillas para Mujer  Negro/Yoda Blanco Roto C44852  41 EU](https://www.amazon.es/dp/B07M91H3ZM/?tag=tolees-21) a 17.48 EUR (original: 29.99 EUR) (41.71 %  de descuento) en el siguiente enlace!

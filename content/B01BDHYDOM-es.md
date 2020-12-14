@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BDHYDOM/?tag=tolees-21'
 descuento: '34.79'
+average: '29.99'
 ---
 
 Está [Erima GmbH Razor 2.0 Polo de Tenis  Unisex Adulto  Curacao/Negro/Blanco  XL](https://www.amazon.es/dp/B01BDHYDOM/?tag=tolees-21) con 34.79 de descuento por 29.99 EUR (original: 45.99 EUR) en el siguiente enlace!

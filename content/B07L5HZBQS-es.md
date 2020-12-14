@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L5HZBQS/?tag=tolees-21'
 descuento: '35.14'
+average: '23.99'
 ---
 
 Tienes [Máquina de terapia de sonido NOUDOO Máquina de sonido de ruido blanco con conector de auriculares  18 Sonidos Naturaleza 3 ajustes de temporizador  Ayuda a Relajarse y a Dormir para Bebé y Adulto](https://www.amazon.es/dp/B07L5HZBQS/?tag=tolees-21) con un 35.14 % de descuento con precio de oferta de 23.99 EUR (original: 36.99 EUR) en el siguiente enlace!

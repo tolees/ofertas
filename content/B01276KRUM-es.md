@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01276KRUM/?tag=tolees-21'
 descuento: '50.00'
+average: '147.5'
 ---
 
 Está [Ferrari 0830261 - Reloj analógico de pulsera para hombre  cuarzo  correa de silicona ](https://www.amazon.es/dp/B01276KRUM/?tag=tolees-21) con 50.00 de descuento por 147.5 EUR (original: 295 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K25N7LM/?tag=tolees-21'
 descuento: '53.76'
+average: '32.07'
 ---
 
 Tienes [Calypso Watches Reloj Analógico-Digital para Hombre de Cuarzo con Correa en Plástico K5774/1](https://www.amazon.es/dp/B07K25N7LM/?tag=tolees-21) con un 53.76 % de descuento con precio de oferta de 32.07 EUR (original: 69.36 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M8GDW3Z/?tag=tolees-21'
 descuento: '49.99'
+average: '25'
 ---
 
 Tienes [MTNG Attitude 84214  Zapatillas para Hombre  Verde  Brisbane Isabela Mesh Kaky/Tano Blanco C45107   45 EU](https://www.amazon.es/dp/B07M8GDW3Z/?tag=tolees-21) con un 49.99 % de descuento con precio de oferta de 25 EUR (original: 49.99 EUR) en el siguiente enlace!

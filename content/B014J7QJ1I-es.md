@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B014J7QJ1I/?tag=tolees-21'
 descuento: '35.27'
+average: '54.99'
 ---
 
 Está [Princess 183002 Freidora Superior  Zona fría y filtro de seguridad  3200 W  4 litros  Acero inoxidable  Negro](https://www.amazon.es/dp/B014J7QJ1I/?tag=tolees-21) con 35.27 de descuento por 54.99 EUR (original: 84.95 EUR) en el siguiente enlace!

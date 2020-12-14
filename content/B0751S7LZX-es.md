@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0751S7LZX/?tag=tolees-21'
 descuento: '65.69'
+average: '29.16'
 ---
 
 Ahora mismo tienes [New Balance Fresh Foam Arishi Sport  Zapatillas de Running para Hombre  Verde Olive  44 EU](https://www.amazon.es/dp/B0751S7LZX/?tag=tolees-21) a 29.16 EUR (original: 85 EUR) (65.69 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005V2JBIY/?tag=tolees-21'
 descuento: '61.46'
+average: '46.25'
 ---
 
 Está [Nike The Premier II SG-Pro AC  Zapatillas de Fútbol para Hombre  Negro Volt/Black 001  45.5 EU](https://www.amazon.es/dp/B005V2JBIY/?tag=tolees-21) con 61.46 de descuento por 46.25 EUR (original: 120 EUR) en el siguiente enlace!

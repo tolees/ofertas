@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D5RGWD2/?tag=tolees-21'
 descuento: '56.11'
+average: '10.95'
 ---
 
 Ahora mismo tienes [Puma Rebel Block Basic T-Shirt  Hombre  Laurel Wreath  L](https://www.amazon.es/dp/B07D5RGWD2/?tag=tolees-21) a 10.95 EUR (original: 24.95 EUR) (56.11 %  de descuento) en el siguiente enlace!

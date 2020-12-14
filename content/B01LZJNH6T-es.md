@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LZJNH6T/?tag=tolees-21'
 descuento: '60.80'
+average: '3.9'
 ---
 
 Está [Manguitos Hinchables Bestway Star Wars](https://www.amazon.es/dp/B01LZJNH6T/?tag=tolees-21) con 60.80 de descuento por 3.9 EUR (original: 9.95 EUR) en el siguiente enlace!

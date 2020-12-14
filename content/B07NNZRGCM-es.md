@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NNZRGCM/?tag=tolees-21'
 descuento: '32.01'
+average: '33.99'
 ---
 
 Está [ENKEEO Silla Hamaca Colgante con 2 Cojínes  Carga Máxima 127kg  Algodón y Poliéster  Columpio Resistente 129.5 x 99 x 114 cm   Kit de Montaje Incluido](https://www.amazon.es/dp/B07NNZRGCM/?tag=tolees-21) con 32.01 de descuento por 33.99 EUR (original: 49.99 EUR) en el siguiente enlace!

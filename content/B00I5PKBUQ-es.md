@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00I5PKBUQ/?tag=tolees-21'
 descuento: '38.50'
+average: '111'
 ---
 
 Ahora mismo tienes [Lacoste Borneo - Reloj de cuarzo para hombre  con correa de silicona  color negro](https://www.amazon.es/dp/B00I5PKBUQ/?tag=tolees-21) a 111 EUR (original: 180.5 EUR) (38.50 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0158MEKVE/?tag=tolees-21'
 descuento: '66.85'
+average: '13.26'
 ---
 
 Ahora mismo tienes [Pitter Patter Baby Gifts Conjunto Rosa 12 Meses  80 cm ](https://www.amazon.es/dp/B0158MEKVE/?tag=tolees-21) a 13.26 EUR (original: 40 EUR) (66.85 %  de descuento) en el siguiente enlace!

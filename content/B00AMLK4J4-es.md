@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00AMLK4J4/?tag=tolees-21'
 descuento: '46.98'
+average: '7.29'
 ---
 
 Ahora mismo tienes [Philips FM32FD05B - Memoria USB de 32 GB  USB 2.0  18 MB/s  girar   gris](https://www.amazon.es/dp/B00AMLK4J4/?tag=tolees-21) a 7.29 EUR (original: 13.75 EUR) (46.98 %  de descuento) en el siguiente enlace!

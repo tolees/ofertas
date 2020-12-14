@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLJZ6Y5/?tag=tolees-21'
 descuento: '45.14'
+average: '9.32'
 ---
 
 Tienes [Women s Secret PM Little Stars 3Bt Braguita   Varios 98     Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B07DLJZ6Y5/?tag=tolees-21) con un 45.14 % de descuento con precio de oferta de 9.32 EUR (original: 16.99 EUR) en el siguiente enlace!

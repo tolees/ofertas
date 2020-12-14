@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KWWT33M/?tag=tolees-21'
 descuento: '28.49'
+average: '27.88'
 ---
 
 Está [Victure Reproductor MP3 Bluetooth 4.1 16GB Soporta hasta 128GB Cuerpo Efecto Espejo y Botón Táctil Deporte Reproductor Música Podómetro Grabador Radio FM Grabación](https://www.amazon.es/dp/B07KWWT33M/?tag=tolees-21) con 28.49 de descuento por 27.88 EUR (original: 38.99 EUR) en el siguiente enlace!

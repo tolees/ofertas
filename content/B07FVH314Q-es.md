@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FVH314Q/?tag=tolees-21'
 descuento: '68.75'
+average: '49.99'
 ---
 
 Tienes [Juego de Herramientas  TECCPO Kit de Herramientas 97pcs  Sierra de Aleación  Destornillador 8pcs  Manija de Trinquete  Alicates  Juego de Destornilladores  Cinta Métrica - THTC02H](https://www.amazon.es/dp/B07FVH314Q/?tag=tolees-21) con un 68.75 % de descuento con precio de oferta de 49.99 EUR (original: 159.99 EUR) en el siguiente enlace!

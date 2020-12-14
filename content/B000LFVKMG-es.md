@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000LFVKMG/?tag=tolees-21'
 descuento: '51.96'
+average: '13.58'
 ---
 
 Tienes [Silverline 633470 - Llaves combinadas  22 pzas  6 - 22 mm y 1/4 - 7/8" ](https://www.amazon.es/dp/B000LFVKMG/?tag=tolees-21) con un 51.96 % de descuento con precio de oferta de 13.58 EUR (original: 28.27 EUR) en el siguiente enlace!

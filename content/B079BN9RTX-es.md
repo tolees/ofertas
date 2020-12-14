@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079BN9RTX/?tag=tolees-21'
 descuento: '45.79'
+average: '44.99'
 ---
 
 Está [ AMOIU Gran Baúl Puff Taburete Plegable de Almacenamiento Escabel  Asiento Cómodo para Calzarse Relleno de Esponja Banco Carga Máxima 300 kg  Gris - Tejido Lino  110cm x 38cm x 38cm ](https://www.amazon.es/dp/B079BN9RTX/?tag=tolees-21) con 45.79 de descuento por 44.99 EUR (original: 82.99 EUR) en el siguiente enlace!

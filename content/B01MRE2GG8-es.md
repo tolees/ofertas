@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MRE2GG8/?tag=tolees-21'
 descuento: '51.18'
+average: '34.17'
 ---
 
 Ahora mismo tienes [Pawise Troley para Transporte  37 x 27 x 33 cm](https://www.amazon.es/dp/B01MRE2GG8/?tag=tolees-21) a 34.17 EUR (original: 69.99 EUR) (51.18 %  de descuento) en el siguiente enlace!

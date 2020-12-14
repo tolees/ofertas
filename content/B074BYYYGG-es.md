@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074BYYYGG/?tag=tolees-21'
 descuento: '54.13'
+average: '29.79'
 ---
 
 Ahora mismo tienes [Skechers Ultra Flex-Capsule  Zapatillas sin Cordones para Mujer  Gris Charcoal  38.5 EU](https://www.amazon.es/dp/B074BYYYGG/?tag=tolees-21) a 29.79 EUR (original: 64.95 EUR) (54.13 %  de descuento) en el siguiente enlace!

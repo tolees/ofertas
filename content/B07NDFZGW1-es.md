@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NDFZGW1/?tag=tolees-21'
 descuento: '87.50'
+average: '14.99'
 ---
 
 Ahora mismo tienes [Pokèmon Sol y Luna: Unión de Aliados Español  Display de 8 Barajas   Color  POSMTU01](https://www.amazon.es/dp/B07NDFZGW1/?tag=tolees-21) a 14.99 EUR (original: 119.92 EUR) (87.50 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CGB3LQG/?tag=tolees-21'
 descuento: '44.96'
+average: '59.99'
 ---
 
 Está [Fossil Reloj Analógico para Hombre de Cuarzo con Correa en Cuero FS5463](https://www.amazon.es/dp/B07CGB3LQG/?tag=tolees-21) con 44.96 de descuento por 59.99 EUR (original: 109 EUR) en el siguiente enlace!

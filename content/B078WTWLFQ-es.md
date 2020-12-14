@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078WTWLFQ/?tag=tolees-21'
 descuento: '52.91'
+average: '15.07'
 ---
 
 Tienes [Calvin Klein Unlined Bralette Sujetador sin Aros  Blanco  White 100   Medium para Mujer](https://www.amazon.es/dp/B078WTWLFQ/?tag=tolees-21) con un 52.91 % de descuento con precio de oferta de 15.07 EUR (original: 32 EUR) en el siguiente enlace!

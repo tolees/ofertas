@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LBM7J5G/?tag=tolees-21'
 descuento: '29.55'
+average: '18.95'
 ---
 
 Está [Calvin Klein 2PK Trunks Calzoncillos  Gris  1 Grey Heather/1 Mazarine Blue 042   12 años  Pack de 2 para Niños](https://www.amazon.es/dp/B07LBM7J5G/?tag=tolees-21) con 29.55 de descuento por 18.95 EUR (original: 26.9 EUR) en el siguiente enlace!

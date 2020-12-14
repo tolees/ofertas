@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KPRGCYG/?tag=tolees-21'
 descuento: '55.15'
+average: '13.45'
 ---
 
 Está [DC Shoes Star tee-Shirt  Hombre  Racing Red  L](https://www.amazon.es/dp/B07KPRGCYG/?tag=tolees-21) con 55.15 de descuento por 13.45 EUR (original: 29.99 EUR) en el siguiente enlace!

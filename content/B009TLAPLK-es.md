@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B009TLAPLK/?tag=tolees-21'
 descuento: '25.93'
+average: '7.4'
 ---
 
 Tienes [Hama Fine Art Fotos  50 páginas Negras  álbum con Espiral  28 x 24 cm  Compartimento para Insertar Foto   Kiwi Verde](https://www.amazon.es/dp/B009TLAPLK/?tag=tolees-21) con un 25.93 % de descuento con precio de oferta de 7.4 EUR (original: 9.99 EUR) en el siguiente enlace!

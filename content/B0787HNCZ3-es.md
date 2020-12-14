@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0787HNCZ3/?tag=tolees-21'
 descuento: '50.04'
+average: '59.95'
 ---
 
 Está [Columbia Fire Venture Mid Waterproof  Zapatillas de Senderismo para Mujer  Marrón  Elk  Ancient Fossil   41 EU](https://www.amazon.es/dp/B0787HNCZ3/?tag=tolees-21) con 50.04 de descuento por 59.95 EUR (original: 119.99 EUR) en el siguiente enlace!

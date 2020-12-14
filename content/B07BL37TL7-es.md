@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BL37TL7/?tag=tolees-21'
 descuento: '46.46'
+average: '58.89'
 ---
 
 Tienes [New Balance Solvi  Zapatillas de Running para Hombre  Blanco  White/Black/Energy Red Rx1   44 EU](https://www.amazon.es/dp/B07BL37TL7/?tag=tolees-21) con un 46.46 % de descuento con precio de oferta de 58.89 EUR (original: 110 EUR) en el siguiente enlace!

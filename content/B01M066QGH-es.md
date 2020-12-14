@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M066QGH/?tag=tolees-21'
 descuento: '35.79'
+average: '192'
 ---
 
 Está [Sennheiser PXC 480 - Microauricular circumaural Cerrado con cancelación de Ruido  Color Negro](https://www.amazon.es/dp/B01M066QGH/?tag=tolees-21) con 35.79 de descuento por 192 EUR (original: 299 EUR) en el siguiente enlace!

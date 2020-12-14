@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M7VM96K/?tag=tolees-21'
 descuento: '45.02'
+average: '10.99'
 ---
 
 Ahora mismo tienes [Abrelatas Manual - Morpilot Abrebotellas Profesional 3 en 1 Abridor - Borde Liso con Hoja de Acero Inoxidable Tapa de botella Abrebotellas - Herramienta de Cocina con Mango Ergonómico](https://www.amazon.es/dp/B07M7VM96K/?tag=tolees-21) a 10.99 EUR (original: 19.99 EUR) (45.02 %  de descuento) en el siguiente enlace!

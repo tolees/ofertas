@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FF8KQPK/?tag=tolees-21'
 descuento: '58.68'
+average: '28.9'
 ---
 
 Tienes [JACK & JONES JJIPAUL JJWARNER AKM 168 NOOS  Pantalones Hombre  Verde  Olive Night   W33/L32  Talla del fabricante: 33 ](https://www.amazon.es/dp/B01FF8KQPK/?tag=tolees-21) con un 58.68 % de descuento con precio de oferta de 28.9 EUR (original: 69.95 EUR) en el siguiente enlace!

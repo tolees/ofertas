@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07SFCX2Z4/?tag=tolees-21'
 descuento: '49.24'
+average: '32.99'
 ---
 
 Está [MP3 BENJIE 16GB 2.4" Reproductor de MP3  MP3 Bluetooth Actualizar Espejo Volver HiFi sin pérdida de Sonido  FM Radio  Grabadora de Voz  Reproductor de Video Botón Táctil  Admite hasta 128 GB](https://www.amazon.es/dp/B07SFCX2Z4/?tag=tolees-21) con 49.24 de descuento por 32.99 EUR (original: 64.99 EUR) en el siguiente enlace!

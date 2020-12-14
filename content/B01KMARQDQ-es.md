@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KMARQDQ/?tag=tolees-21'
 descuento: '38.61'
+average: '172.42'
 ---
 
 Está [KFA2 GeForce GTX 1060 EXOC Tarjeta gráfica](https://www.amazon.es/dp/B01KMARQDQ/?tag=tolees-21) con 38.61 de descuento por 172.42 EUR (original: 280.85 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JCNSV94/?tag=tolees-21'
 descuento: '52.41'
+average: '9.99'
 ---
 
 Ahora mismo tienes [Plancha de pelo con placas profesionales de cerámica para cabello húmedo y seco calentamiento instantáneo hasta 200℃](https://www.amazon.es/dp/B07JCNSV94/?tag=tolees-21) a 9.99 EUR (original: 20.99 EUR) (52.41 %  de descuento) en el siguiente enlace!

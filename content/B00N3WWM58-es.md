@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00N3WWM58/?tag=tolees-21'
 descuento: '50.53'
+average: '29.68'
 ---
 
 Está [Sony MDRZX110NAB.CE7 - Auricular Plegable  cancelación de Ruido  autonomía de 80 Horas  micrófono Incorporado  Control Remoto para Smartphones   Negro](https://www.amazon.es/dp/B00N3WWM58/?tag=tolees-21) con 50.53 de descuento por 29.68 EUR (original: 60 EUR) en el siguiente enlace!

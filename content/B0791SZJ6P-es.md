@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0791SZJ6P/?tag=tolees-21'
 descuento: '39.42'
+average: '42.03'
 ---
 
 Ahora mismo tienes [Etnies Barge XL  Zapatillas de Skateboard para Hombre  Negro  37 EU](https://www.amazon.es/dp/B0791SZJ6P/?tag=tolees-21) a 42.03 EUR (original: 69.38 EUR) (39.42 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N5TCR4E/?tag=tolees-21'
 descuento: '57.61'
+average: '27.53'
 ---
 
 Está [Skechers Microburst-Showdown  Zapatillas de Entrenamiento para Mujer  Gris  Grey/Blue   36.5 EU](https://www.amazon.es/dp/B01N5TCR4E/?tag=tolees-21) con 57.61 de descuento por 27.53 EUR (original: 64.95 EUR) en el siguiente enlace!

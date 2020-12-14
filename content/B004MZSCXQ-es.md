@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004MZSCXQ/?tag=tolees-21'
 descuento: '47.63'
+average: '15.71'
 ---
 
 Está [Nuxe Reve de Miel Crema Facial Ultra-Reconfortante  50ML](https://www.amazon.es/dp/B004MZSCXQ/?tag=tolees-21) con 47.63 de descuento por 15.71 EUR (original: 30 EUR) en el siguiente enlace!

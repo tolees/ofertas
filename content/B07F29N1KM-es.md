@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F29N1KM/?tag=tolees-21'
 descuento: '29.14'
+average: '14.88'
 ---
 
 Está [Marshmallow DJ máscara Casco del Festival música Máscara la Mascarada del Novedad Látex de Goma máscara la Cabeza Completa.](https://www.amazon.es/dp/B07F29N1KM/?tag=tolees-21) con 29.14 de descuento por 14.88 EUR (original: 21 EUR) en el siguiente enlace!

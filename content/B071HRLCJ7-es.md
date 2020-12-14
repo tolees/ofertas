@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071HRLCJ7/?tag=tolees-21'
 descuento: '48.06'
+average: '33.76'
 ---
 
 Tienes [Pepe Jeans London North Mix  Zapatillas para Hombre  Negro  Black 999   44 EU](https://www.amazon.es/dp/B071HRLCJ7/?tag=tolees-21) con un 48.06 % de descuento con precio de oferta de 33.76 EUR (original: 65 EUR) en el siguiente enlace!

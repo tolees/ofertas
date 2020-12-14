@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GSBYMPP/?tag=tolees-21'
 descuento: '61.19'
+average: '25.99'
 ---
 
 Está [Cepillo de ducha exfoliante a prueba de agua eléctrico  kit de cepillo de limpieza del cuerpo con mango y 4 cabezas de cepillo - Sistema de exfoliación Microdermabrasion 4 en 1 Advanced Spin Brush](https://www.amazon.es/dp/B07GSBYMPP/?tag=tolees-21) con 61.19 de descuento por 25.99 EUR (original: 66.96 EUR) en el siguiente enlace!

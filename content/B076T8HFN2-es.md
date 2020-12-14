@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076T8HFN2/?tag=tolees-21'
 descuento: '48.34'
+average: '33.55'
 ---
 
 Ahora mismo tienes [Skechers Elite Flex-Attard  Zapatillas para Hombre  Gris  Charcoal   43 EU](https://www.amazon.es/dp/B076T8HFN2/?tag=tolees-21) a 33.55 EUR (original: 64.95 EUR) (48.34 %  de descuento) en el siguiente enlace!

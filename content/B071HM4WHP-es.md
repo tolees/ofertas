@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071HM4WHP/?tag=tolees-21'
 descuento: '33.30'
+average: '35.99'
 ---
 
 Tienes [DryNites - Braguitas absorbentes para niña - 3-5 años  16-23 kg   4 paquetes x 16 uds  64 unidades ](https://www.amazon.es/dp/B071HM4WHP/?tag=tolees-21) con un 33.30 % de descuento con precio de oferta de 35.99 EUR (original: 53.96 EUR) en el siguiente enlace!

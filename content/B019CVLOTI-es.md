@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B019CVLOTI/?tag=tolees-21'
 descuento: '53.82'
+average: '41.56'
 ---
 
 Está [New Balance Vazee Coast  Zapatillas de Running para Mujer   Grey/Pink 026   36.5 EU](https://www.amazon.es/dp/B019CVLOTI/?tag=tolees-21) con 53.82 de descuento por 41.56 EUR (original: 90 EUR) en el siguiente enlace!

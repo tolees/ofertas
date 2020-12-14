@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00MDIHDBQ/?tag=tolees-21'
 descuento: '33.62'
+average: '19.88'
 ---
 
 Tienes [SATURNIA 15070015 Lona Impermeable Azul Con Ojetes Metálicos 5 x 6 Metros  Aproximadamente ](https://www.amazon.es/dp/B00MDIHDBQ/?tag=tolees-21) con un 33.62 % de descuento con precio de oferta de 19.88 EUR (original: 29.95 EUR) en el siguiente enlace!

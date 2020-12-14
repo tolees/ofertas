@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FD9QVU0/?tag=tolees-21'
 descuento: '75.73'
+average: '16.99'
 ---
 
 Está [WONBEE Relojes de Madera de bambú Infinito Anchor Design con Correa de Piel de Vaca Unisex](https://www.amazon.es/dp/B01FD9QVU0/?tag=tolees-21) con 75.73 de descuento por 16.99 EUR (original: 69.99 EUR) en el siguiente enlace!

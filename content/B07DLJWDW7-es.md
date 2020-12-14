@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLJWDW7/?tag=tolees-21'
 descuento: '54.02'
+average: '16.55'
 ---
 
 Ahora mismo tienes [Springfield Chino Daily Estructura Pantalones  Hombre  Gris  Gama Grises 44   46  Tamaño del Fabricante:46 ](https://www.amazon.es/dp/B07DLJWDW7/?tag=tolees-21) a 16.55 EUR (original: 35.99 EUR) (54.02 %  de descuento) en el siguiente enlace!

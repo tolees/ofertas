@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JHLV37M/?tag=tolees-21'
 descuento: '52.10'
+average: '31.11'
 ---
 
 Ahora mismo tienes [Skechers Relsen  Zapatillas para Hombre  Azul  Navy Nvy   46 EU](https://www.amazon.es/dp/B07JHLV37M/?tag=tolees-21) a 31.11 EUR (original: 64.95 EUR) (52.10 %  de descuento) en el siguiente enlace!

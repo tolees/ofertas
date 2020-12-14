@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071JWVQ1M/?tag=tolees-21'
 descuento: '40.75'
+average: '32.56'
 ---
 
 Tienes [Skechers Go Walk Joy-Paradise  Zapatillas para Mujer  Gris  Charcoal   38.5 EU](https://www.amazon.es/dp/B071JWVQ1M/?tag=tolees-21) con un 40.75 % de descuento con precio de oferta de 32.56 EUR (original: 54.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00SA5EQCA/?tag=tolees-21'
 descuento: '36.10'
+average: '40.45'
 ---
 
 Ahora mismo tienes [Artero Curly - Plancha onduladora](https://www.amazon.es/dp/B00SA5EQCA/?tag=tolees-21) a 40.45 EUR (original: 63.3 EUR) (36.10 %  de descuento) en el siguiente enlace!

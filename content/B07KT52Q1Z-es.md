@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KT52Q1Z/?tag=tolees-21'
 descuento: '60.01'
+average: '11.4'
 ---
 
 Tienes [LoveOlvidoE F64 Pulsera Inteligente Deportes Bluetooth Pulsera recordatorio de Llamada monitoreo de música Impermeable GPS medición del Tiempo](https://www.amazon.es/dp/B07KT52Q1Z/?tag=tolees-21) con un 60.01 % de descuento con precio de oferta de 11.4 EUR (original: 28.51 EUR) en el siguiente enlace!

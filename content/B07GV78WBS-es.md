@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GV78WBS/?tag=tolees-21'
 descuento: '64.92'
+average: '19.99'
 ---
 
 Está [Bision Kit Herramientas Bicicleta Mini Bomba Bicicleta 16 en 1 CookJoy Kit reparación de Neumáticos Herramienta multifunción para Bicicleta  Kit Bicicleta  Kit Parches y palancas para neumaticos](https://www.amazon.es/dp/B07GV78WBS/?tag=tolees-21) con 64.92 de descuento por 19.99 EUR (original: 56.99 EUR) en el siguiente enlace!

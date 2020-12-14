@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G1CHX4S/?tag=tolees-21'
 descuento: '39.83'
+average: '28.34'
 ---
 
 Tienes [Reebok Speedlux 3.0  Zapatillas de Trail Running para Mujer   We/Smoky Volcano/Moon Pool 000   37 EU](https://www.amazon.es/dp/B07G1CHX4S/?tag=tolees-21) con un 39.83 % de descuento con precio de oferta de 28.34 EUR (original: 47.1 EUR) en el siguiente enlace!

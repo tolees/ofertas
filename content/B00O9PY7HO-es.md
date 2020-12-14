@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00O9PY7HO/?tag=tolees-21'
 descuento: '68.84'
+average: '21.5'
 ---
 
 Está [Tuscany Silver Pendientes de mujer con plata de ley  925/1000 ](https://www.amazon.es/dp/B00O9PY7HO/?tag=tolees-21) con 68.84 de descuento por 21.5 EUR (original: 69 EUR) en el siguiente enlace!

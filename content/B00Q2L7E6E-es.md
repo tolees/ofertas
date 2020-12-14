@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00Q2L7E6E/?tag=tolees-21'
 descuento: '62.18'
+average: '30.24'
 ---
 
 Tienes [Rocksoff Ro-Jira - 450 gr](https://www.amazon.es/dp/B00Q2L7E6E/?tag=tolees-21) con un 62.18 % de descuento con precio de oferta de 30.24 EUR (original: 79.95 EUR) en el siguiente enlace!

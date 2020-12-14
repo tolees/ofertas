@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KCKVHPK/?tag=tolees-21'
 descuento: '44.32'
+average: '20.88'
 ---
 
 Está [David Jones - 5728-2a  Bolsos de mano Mujer  Verde  Khaki   13x26x32 cm  W x H L ](https://www.amazon.es/dp/B07KCKVHPK/?tag=tolees-21) con 44.32 de descuento por 20.88 EUR (original: 37.5 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9MZMFR/?tag=tolees-21'
 descuento: '44.20'
+average: '33.45'
 ---
 
 Está [adidas Duramo 9  Zapatillas de Entrenamiento para Hombre  Azul  Legend Ink Dark Blue 0   44 EU](https://www.amazon.es/dp/B07D9MZMFR/?tag=tolees-21) con 44.20 de descuento por 33.45 EUR (original: 59.95 EUR) en el siguiente enlace!

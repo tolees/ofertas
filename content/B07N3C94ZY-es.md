@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N3C94ZY/?tag=tolees-21'
 descuento: '44.34'
+average: '50.65'
 ---
 
 Ahora mismo tienes [Munich BARRU Sky  Zapatillas Unisex Adulto   Rosa 12   36 EU](https://www.amazon.es/dp/B07N3C94ZY/?tag=tolees-21) a 50.65 EUR (original: 91 EUR) (44.34 %  de descuento) en el siguiente enlace!

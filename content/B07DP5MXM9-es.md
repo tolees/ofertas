@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DP5MXM9/?tag=tolees-21'
 descuento: '29.25'
+average: '45.95'
 ---
 
 Tienes [adidas VL Court 2.0  Zapatillas de Deporte Unisex Adulto   B43807 Multicolor   41 EU](https://www.amazon.es/dp/B07DP5MXM9/?tag=tolees-21) con un 29.25 % de descuento con precio de oferta de 45.95 EUR (original: 64.95 EUR) en el siguiente enlace!

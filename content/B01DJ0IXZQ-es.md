@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DJ0IXZQ/?tag=tolees-21'
 descuento: '33.61'
+average: '14.5'
 ---
 
 Está [Balanza Digital Profesional de Cocina EMPO® Balanza para Alimentos de Cristal Templado - GARANTÍA DE por Vida - Balanza de Cocina electrónica de Alta precisión Gran Pantalla LCD y función de Tara](https://www.amazon.es/dp/B01DJ0IXZQ/?tag=tolees-21) con 33.61 de descuento por 14.5 EUR (original: 21.84 EUR) en el siguiente enlace!

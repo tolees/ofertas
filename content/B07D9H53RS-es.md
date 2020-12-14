@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9H53RS/?tag=tolees-21'
 descuento: '26.09'
+average: '33.99'
 ---
 
 Tienes [Mujer Albornoz de algodón S / M / L / XL Waffle Weave ropa de dormir Púrpura gris blanco Bata Kimono Ligero Camisón para Spa Hotel Alojamiento](https://www.amazon.es/dp/B07D9H53RS/?tag=tolees-21) con un 26.09 % de descuento con precio de oferta de 33.99 EUR (original: 45.99 EUR) en el siguiente enlace!

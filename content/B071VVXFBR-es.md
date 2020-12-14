@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071VVXFBR/?tag=tolees-21'
 descuento: '65.55'
+average: '20.67'
 ---
 
 Ahora mismo tienes [ara - Cremona  cartera Mujer  Schwarz  Graphit   16x29x36 cm  B x H T ](https://www.amazon.es/dp/B071VVXFBR/?tag=tolees-21) a 20.67 EUR (original: 60 EUR) (65.55 %  de descuento) en el siguiente enlace!

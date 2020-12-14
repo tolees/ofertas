@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0737BXZ7K/?tag=tolees-21'
 descuento: '63.54'
+average: '29.15'
 ---
 
 Tienes [Reebok Bs8008  Zapatillas de Gimnasia para Hombre  Gris  Alloy/Coal/White/Primal Red   45.5 EU](https://www.amazon.es/dp/B0737BXZ7K/?tag=tolees-21) con un 63.54 % de descuento con precio de oferta de 29.15 EUR (original: 79.95 EUR) en el siguiente enlace!

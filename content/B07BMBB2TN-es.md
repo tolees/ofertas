@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BMBB2TN/?tag=tolees-21'
 descuento: '41.24'
+average: '19.95'
 ---
 
 Tienes [Juego de sábanas estampado Coches  SPEEDY  para cama de 90x190/200 ](https://www.amazon.es/dp/B07BMBB2TN/?tag=tolees-21) con un 41.24 % de descuento con precio de oferta de 19.95 EUR (original: 33.95 EUR) en el siguiente enlace!

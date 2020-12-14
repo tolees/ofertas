@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077NXMVQC/?tag=tolees-21'
 descuento: '75.01'
+average: '19.99'
 ---
 
 Ahora mismo tienes [JJR/C H47 Drone con Control Remoto de Gravedad Wifi Cuadricóptero Plegable Helicóptero 7~8min entre 80-100m con Cámara 720P 3D Operación de Una Mano Hover Modo sin Cabeza retención de altitud &LED Luz](https://www.amazon.es/dp/B077NXMVQC/?tag=tolees-21) a 19.99 EUR (original: 79.99 EUR) (75.01 %  de descuento) en el siguiente enlace!

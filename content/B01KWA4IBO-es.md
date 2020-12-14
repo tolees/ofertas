@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KWA4IBO/?tag=tolees-21'
 descuento: '41.71'
+average: '7.14'
 ---
 
 Ahora mismo tienes [Phantasma II [Blu-ray]](https://www.amazon.es/dp/B01KWA4IBO/?tag=tolees-21) a 7.14 EUR (original: 12.25 EUR) (41.71 %  de descuento) en el siguiente enlace!

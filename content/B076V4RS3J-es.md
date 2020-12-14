@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076V4RS3J/?tag=tolees-21'
 descuento: '54.57'
+average: '9.99'
 ---
 
 Ahora mismo tienes [TTMOW Cargador USB de Pared con Pantalla LCD Visualización  Corriente Máxima De 2 4A por Cada Puerto  5V/3A   Compatible con iPhone  iPad  Samsung y Más teléfonos Inteligentes  Negro ](https://www.amazon.es/dp/B076V4RS3J/?tag=tolees-21) a 9.99 EUR (original: 21.99 EUR) (54.57 %  de descuento) en el siguiente enlace!

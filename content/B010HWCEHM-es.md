@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B010HWCEHM/?tag=tolees-21'
 descuento: '60.20'
+average: '9.93'
 ---
 
 Está [Kingston DataTraveler microDuo - Memoria USB 3.1 de 32 GB](https://www.amazon.es/dp/B010HWCEHM/?tag=tolees-21) con 60.20 de descuento por 9.93 EUR (original: 24.95 EUR) en el siguiente enlace!

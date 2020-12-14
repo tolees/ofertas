@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GLDKHQ3/?tag=tolees-21'
 descuento: '37.97'
+average: '334.95'
 ---
 
 Está [Cybex Gold - Cochecito Balios S con silla reversible y con capazo S  desde el nacimiento hasta 17 kg  aprox. 4 años   tropical blue](https://www.amazon.es/dp/B07GLDKHQ3/?tag=tolees-21) con 37.97 de descuento por 334.95 EUR (original: 539.95 EUR) en el siguiente enlace!

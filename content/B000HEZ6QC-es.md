@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000HEZ6QC/?tag=tolees-21'
 descuento: '57.92'
+average: '215.94'
 ---
 
 Tienes [Nobo 1901954 - Pantalla proyección portátil 1000 X 750  color blanco](https://www.amazon.es/dp/B000HEZ6QC/?tag=tolees-21) con un 57.92 % de descuento con precio de oferta de 215.94 EUR (original: 513.2 EUR) en el siguiente enlace!

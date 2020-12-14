@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCNGMG9/?tag=tolees-21'
 descuento: '33.01'
+average: '60.29'
 ---
 
 Está [Nike Wmns Classic Cortez Prem  Zapatillas de Gimnasia para Mujer  Negro Black/Wolf Grey/White 002  39 EU](https://www.amazon.es/dp/B07DCNGMG9/?tag=tolees-21) con 33.01 de descuento por 60.29 EUR (original: 90 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073HG6C9Y/?tag=tolees-21'
 descuento: '61.48'
+average: '6.39'
 ---
 
 Está [Safta Funda F.C. Barcelona 17/18 Oficial Para Portátil 10 6 pulgadas  205x25x275mm](https://www.amazon.es/dp/B073HG6C9Y/?tag=tolees-21) con 61.48 de descuento por 6.39 EUR (original: 16.59 EUR) en el siguiente enlace!

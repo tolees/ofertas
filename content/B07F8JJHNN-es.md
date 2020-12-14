@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F8JJHNN/?tag=tolees-21'
 descuento: '72.52'
+average: '10.99'
 ---
 
 Tienes [Lámpara de Fuego Solar  99 Bajo Consumo LED 3W Recargable  NACATIN IP55 Impermeable con Más Larga Bombilla  Apagar y Encender Automáticamente  Decoración para Casa  Fetival  Fiesta  Cumpleaños](https://www.amazon.es/dp/B07F8JJHNN/?tag=tolees-21) con un 72.52 % de descuento con precio de oferta de 10.99 EUR (original: 40 EUR) en el siguiente enlace!

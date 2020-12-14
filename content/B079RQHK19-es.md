@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RQHK19/?tag=tolees-21'
 descuento: '58.58'
+average: '20.67'
 ---
 
 Ahora mismo tienes [Pepe Jeans Pia JR PG210574  Pantalones para Niñas  Gris  Grey Marl 933  7 años](https://www.amazon.es/dp/B079RQHK19/?tag=tolees-21) a 20.67 EUR (original: 49.9 EUR) (58.58 %  de descuento) en el siguiente enlace!

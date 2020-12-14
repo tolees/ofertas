@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B019WZR5VU/?tag=tolees-21'
 descuento: '44.31'
+average: '34.75'
 ---
 
 Tienes [Calvin Klein Perfume - 100 ml](https://www.amazon.es/dp/B019WZR5VU/?tag=tolees-21) con un 44.31 % de descuento con precio de oferta de 34.75 EUR (original: 62.4 EUR) en el siguiente enlace!

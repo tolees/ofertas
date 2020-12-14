@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01ABVL308/?tag=tolees-21'
 descuento: '55.18'
+average: '19.95'
 ---
 
 Tienes [NK HAYWARD FUTURA BKPK - SOLID](https://www.amazon.es/dp/B01ABVL308/?tag=tolees-21) con un 55.18 % de descuento con precio de oferta de 19.95 EUR (original: 44.51 EUR) en el siguiente enlace!

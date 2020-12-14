@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MZHYXS9/?tag=tolees-21'
 descuento: '53.34'
+average: '20.95'
 ---
 
 Está [Superdry Beach Volley Swim Short Bañador  Naranja  Sunblast Orange P2T   XXL para Hombre](https://www.amazon.es/dp/B07MZHYXS9/?tag=tolees-21) con 53.34 de descuento por 20.95 EUR (original: 44.9 EUR) en el siguiente enlace!

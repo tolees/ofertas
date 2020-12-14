@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HYY52PK/?tag=tolees-21'
 descuento: '39.56'
+average: '30.22'
 ---
 
 Ahora mismo tienes [Nike Downshifter 8  GS   Zapatillas de Deporte para Hombre   Pure Platinum/Habanero Red/Stealth/Black 010   40 EU](https://www.amazon.es/dp/B07HYY52PK/?tag=tolees-21) a 30.22 EUR (original: 50 EUR) (39.56 %  de descuento) en el siguiente enlace!

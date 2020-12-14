@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079G13NDQ/?tag=tolees-21'
 descuento: '56.89'
+average: '12.89'
 ---
 
 Ahora mismo tienes [Samsung – Carcasa de silicona para Samsung Galaxy S9 + color azul](https://www.amazon.es/dp/B079G13NDQ/?tag=tolees-21) a 12.89 EUR (original: 29.9 EUR) (56.89 %  de descuento) en el siguiente enlace!

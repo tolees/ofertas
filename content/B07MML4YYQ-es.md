@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MML4YYQ/?tag=tolees-21'
 descuento: '62.83'
+average: '18.99'
 ---
 
 Ahora mismo tienes [WOSTOO Barbacoa portátil Charcoal  minibarbacoa Plegable de carbón carbón  Barbacoa para Picnic  Barbacoa  jardín  Camping  Fiesta  Playa  Exterior  Color Negro](https://www.amazon.es/dp/B07MML4YYQ/?tag=tolees-21) a 18.99 EUR (original: 51.09 EUR) (62.83 %  de descuento) en el siguiente enlace!

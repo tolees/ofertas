@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00CV7SCVY/?tag=tolees-21'
 descuento: '54.99'
+average: '9.16'
 ---
 
 Está [TGI TGI52U - Afinador digital con enganche para ukelele](https://www.amazon.es/dp/B00CV7SCVY/?tag=tolees-21) con 54.99 de descuento por 9.16 EUR (original: 20.35 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F6MLVKP/?tag=tolees-21'
 descuento: '35.51'
+average: '20.96'
 ---
 
 Está [MTNG 47599  Zapatillas Unisex niño   Nitro Azul/Raspe Marino C42981   39 EU](https://www.amazon.es/dp/B07F6MLVKP/?tag=tolees-21) con 35.51 de descuento por 20.96 EUR (original: 32.5 EUR) en el siguiente enlace!

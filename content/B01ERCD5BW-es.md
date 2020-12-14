@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01ERCD5BW/?tag=tolees-21'
 descuento: '55.75'
+average: '14.16'
 ---
 
 Tienes [Tabac  Agua de perfume para mujeres - 290 ml.](https://www.amazon.es/dp/B01ERCD5BW/?tag=tolees-21) con un 55.75 % de descuento con precio de oferta de 14.16 EUR (original: 32 EUR) en el siguiente enlace!

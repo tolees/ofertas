@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ3G6ZV/?tag=tolees-21'
 descuento: '43.33'
+average: '42.5'
 ---
 
 Está [New Balance 410  Zapatillas Unisex Adulto  Rojo  Red/White Ar   38.5 EU](https://www.amazon.es/dp/B07DJ3G6ZV/?tag=tolees-21) con 43.33 de descuento por 42.5 EUR (original: 75 EUR) en el siguiente enlace!

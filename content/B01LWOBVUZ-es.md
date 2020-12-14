@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LWOBVUZ/?tag=tolees-21'
 descuento: '51.61'
+average: '26.23'
 ---
 
 Está [ZEP Montreaux Marco para apoyar  Madera Natural  66 X 21 X 4.5 Cm](https://www.amazon.es/dp/B01LWOBVUZ/?tag=tolees-21) con 51.61 de descuento por 26.23 EUR (original: 54.21 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072HSKPFL/?tag=tolees-21'
 descuento: '66.64'
+average: '20'
 ---
 
 Tienes [Gel-a-Peel - Set estación de diseño  Cife Spain 40743 ](https://www.amazon.es/dp/B072HSKPFL/?tag=tolees-21) con un 66.64 % de descuento con precio de oferta de 20 EUR (original: 59.96 EUR) en el siguiente enlace!

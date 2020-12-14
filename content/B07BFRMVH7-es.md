@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BFRMVH7/?tag=tolees-21'
 descuento: '81.29'
+average: '22.45'
 ---
 
 Ahora mismo tienes [Clarks Arrow Moon GTX  Botas de Nieve para Niñas  Marrón  Burgundy Combi   33.5 EU](https://www.amazon.es/dp/B07BFRMVH7/?tag=tolees-21) a 22.45 EUR (original: 120 EUR) (81.29 %  de descuento) en el siguiente enlace!

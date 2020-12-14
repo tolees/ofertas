@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JFXBZ2G/?tag=tolees-21'
 descuento: '45.46'
+average: '18.99'
 ---
 
 Tienes [KBAYBO 300 ml USB eléctrico difusor de Aire Grano de Madera Humidificador ultrasónico Frio en frío](https://www.amazon.es/dp/B07JFXBZ2G/?tag=tolees-21) con un 45.46 % de descuento con precio de oferta de 18.99 EUR (original: 34.82 EUR) en el siguiente enlace!

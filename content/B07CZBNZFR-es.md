@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZBNZFR/?tag=tolees-21'
 descuento: '59.57'
+average: '28.3'
 ---
 
 Está [Nike Tanjun Prem  Zapatillas para Hombre  Black-Mushroom 200  42 EU](https://www.amazon.es/dp/B07CZBNZFR/?tag=tolees-21) con 59.57 de descuento por 28.3 EUR (original: 70 EUR) en el siguiente enlace!

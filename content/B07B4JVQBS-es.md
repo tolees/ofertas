@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B4JVQBS/?tag=tolees-21'
 descuento: '47.35'
+average: '68.44'
 ---
 
 Ahora mismo tienes [Nixon Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Cuero A108-3004-00](https://www.amazon.es/dp/B07B4JVQBS/?tag=tolees-21) a 68.44 EUR (original: 130 EUR) (47.35 %  de descuento) en el siguiente enlace!

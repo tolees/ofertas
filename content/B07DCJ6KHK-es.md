@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCJ6KHK/?tag=tolees-21'
 descuento: '35.01'
+average: '35.71'
 ---
 
 Está [Puma Future 19.4 FG/AG  Zapatillas de Fútbol para Hombre  Negro Black-Charcoal Gray-Green Gecko  44 EU](https://www.amazon.es/dp/B07DCJ6KHK/?tag=tolees-21) con 35.01 de descuento por 35.71 EUR (original: 54.95 EUR) en el siguiente enlace!

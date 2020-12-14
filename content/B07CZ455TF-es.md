@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ455TF/?tag=tolees-21'
 descuento: '73.40'
+average: '23.94'
 ---
 
 Tienes [Asics California 78 Ex  Zapatillas de Deporte Unisex Adulto  Beige Cream 100  36 EU](https://www.amazon.es/dp/B07CZ455TF/?tag=tolees-21) con un 73.40 % de descuento con precio de oferta de 23.94 EUR (original: 90 EUR) en el siguiente enlace!

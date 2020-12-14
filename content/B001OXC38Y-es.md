@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001OXC38Y/?tag=tolees-21'
 descuento: '33.30'
+average: '20.81'
 ---
 
 Tienes [STANLEY 0-65-492 - Juego de 6 destornilladores de precision FatMax](https://www.amazon.es/dp/B001OXC38Y/?tag=tolees-21) con un 33.30 % de descuento con precio de oferta de 20.81 EUR (original: 31.2 EUR) en el siguiente enlace!

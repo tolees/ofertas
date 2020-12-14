@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MF2Y5SV/?tag=tolees-21'
 descuento: '40.50'
+average: '11.52'
 ---
 
 Ahora mismo tienes [Outgeek Tope Clip Protector Puerta  Tope de Puerta Niño Bebé A Prueba de Dedos Guardia Pinch Guard Bisagra para la Puerta de la Habitación de su Hogar](https://www.amazon.es/dp/B07MF2Y5SV/?tag=tolees-21) a 11.52 EUR (original: 19.36 EUR) (40.50 %  de descuento) en el siguiente enlace!

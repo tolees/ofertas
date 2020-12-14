@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DGHLXLH/?tag=tolees-21'
 descuento: '69.62'
+average: '33.42'
 ---
 
 Está [DC Shoes Crisis High Winter  Zapatillas de Skateboard para Hombre  Azul  Navy/Khaki Nkh   42 EU](https://www.amazon.es/dp/B07DGHLXLH/?tag=tolees-21) con 69.62 de descuento por 33.42 EUR (original: 110 EUR) en el siguiente enlace!

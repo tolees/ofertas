@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KRXZHRF/?tag=tolees-21'
 descuento: '57.59'
+average: '72.09'
 ---
 
 Está [VERSACE JEANS COUTURE Lady Shorts Pantalones Cortos  Negro 899  42  Talla del Fabricante: 46.0  para Mujer](https://www.amazon.es/dp/B07KRXZHRF/?tag=tolees-21) con 57.59 de descuento por 72.09 EUR (original: 170 EUR) en el siguiente enlace!

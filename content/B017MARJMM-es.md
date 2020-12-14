@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017MARJMM/?tag=tolees-21'
 descuento: '31.26'
+average: '10.93'
 ---
 
 Ahora mismo tienes [IT GIRL Estuche De Maquillaje Trendy](https://www.amazon.es/dp/B017MARJMM/?tag=tolees-21) a 10.93 EUR (original: 15.9 EUR) (31.26 %  de descuento) en el siguiente enlace!

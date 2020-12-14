@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00JAJY65W/?tag=tolees-21'
 descuento: '37.48'
+average: '22.72'
 ---
 
 Ahora mismo tienes [MyProtein Glutamina - 1000 gr](https://www.amazon.es/dp/B00JAJY65W/?tag=tolees-21) a 22.72 EUR (original: 36.34 EUR) (37.48 %  de descuento) en el siguiente enlace!

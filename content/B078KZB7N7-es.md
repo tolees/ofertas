@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078KZB7N7/?tag=tolees-21'
 descuento: '43.09'
+average: '14.2'
 ---
 
 Ahora mismo tienes [SD Games Zorros al Corral SDGZORCOR01](https://www.amazon.es/dp/B078KZB7N7/?tag=tolees-21) a 14.2 EUR (original: 24.95 EUR) (43.09 %  de descuento) en el siguiente enlace!

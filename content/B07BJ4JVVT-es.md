@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BJ4JVVT/?tag=tolees-21'
 descuento: '79.71'
+average: '8.99'
 ---
 
 Ahora mismo tienes [Recortador vello nariz  Recortador de cabello con nariz 2 en 1 Recortador de cejas Nariz y orejas. Cortapelos impermeable de acero inoxidable para hombres y mujeres AA con pilas](https://www.amazon.es/dp/B07BJ4JVVT/?tag=tolees-21) a 8.99 EUR (original: 44.31 EUR) (79.71 %  de descuento) en el siguiente enlace!

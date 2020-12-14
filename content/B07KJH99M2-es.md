@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KJH99M2/?tag=tolees-21'
 descuento: '70.00'
+average: '53.7'
 ---
 
 Tienes [Highly Preppy Poncho de Lana con Cremallera para Mujer - Talla XS](https://www.amazon.es/dp/B07KJH99M2/?tag=tolees-21) con un 70.00 % de descuento con precio de oferta de 53.7 EUR (original: 179 EUR) en el siguiente enlace!

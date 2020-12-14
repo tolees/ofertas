@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004OZ3D1A/?tag=tolees-21'
 descuento: '33.74'
+average: '35.44'
 ---
 
 Ahora mismo tienes [Silverline 126056 - Camilla para trabajos mecánicos](https://www.amazon.es/dp/B004OZ3D1A/?tag=tolees-21) a 35.44 EUR (original: 53.49 EUR) (33.74 %  de descuento) en el siguiente enlace!

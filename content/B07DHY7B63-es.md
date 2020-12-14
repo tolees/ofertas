@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHY7B63/?tag=tolees-21'
 descuento: '75.17'
+average: '11.16'
 ---
 
 Ahora mismo tienes [Wrangler Canvas Belt  Cinturón para Hombre  Verde  Army Green V7  No Aplica  Talla del fabricante: 110 ](https://www.amazon.es/dp/B07DHY7B63/?tag=tolees-21) a 11.16 EUR (original: 44.95 EUR) (75.17 %  de descuento) en el siguiente enlace!

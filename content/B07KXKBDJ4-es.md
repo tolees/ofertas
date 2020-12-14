@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KXKBDJ4/?tag=tolees-21'
 descuento: '60.56'
+average: '29.56'
 ---
 
 Ahora mismo tienes [Rocksoff Vibradores - 1 unidad](https://www.amazon.es/dp/B07KXKBDJ4/?tag=tolees-21) a 29.56 EUR (original: 74.95 EUR) (60.56 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0769WCNYD/?tag=tolees-21'
 descuento: '25.14'
+average: '22.45'
 ---
 
 Está [IBRA® 1M  5 PACK  Cable de red Gigabit Ethernet Lan CAT.7  RJ45  - Alta Calidad | CAT7  Avanzado  | 10 Gbps a 600 MHz | cables chapado en oro Plug STP | Patch | Router | Módem| Blanco Oblato](https://www.amazon.es/dp/B0769WCNYD/?tag=tolees-21) con 25.14 de descuento por 22.45 EUR (original: 29.99 EUR) en el siguiente enlace!

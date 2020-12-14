@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00SUNGVIO/?tag=tolees-21'
 descuento: '51.71'
+average: '2.97'
 ---
 
 Tienes [Shunga Vela de Masaje Excitation  Aroma de Chocolate  Color Blanco - 30 ml](https://www.amazon.es/dp/B00SUNGVIO/?tag=tolees-21) con un 51.71 % de descuento con precio de oferta de 2.97 EUR (original: 6.15 EUR) en el siguiente enlace!

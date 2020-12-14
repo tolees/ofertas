@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017PEGF16/?tag=tolees-21'
 descuento: '45.19'
+average: '7.12'
 ---
 
 Tienes [Maybelline New York Barra de Labios Superstay 24H  Larga duración   Tono 515 Blazing Red](https://www.amazon.es/dp/B017PEGF16/?tag=tolees-21) con un 45.19 % de descuento con precio de oferta de 7.12 EUR (original: 12.99 EUR) en el siguiente enlace!

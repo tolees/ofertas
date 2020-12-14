@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0045XBUMK/?tag=tolees-21'
 descuento: '33.14'
+average: '4.5'
 ---
 
 Tienes [Neutrogena Crema Anti-Edad Para Manos  SPF 25  - 50 ml.](https://www.amazon.es/dp/B0045XBUMK/?tag=tolees-21) con un 33.14 % de descuento con precio de oferta de 4.5 EUR (original: 6.73 EUR) en el siguiente enlace!

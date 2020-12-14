@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B015KKKMS4/?tag=tolees-21'
 descuento: '51.76'
+average: '28.92'
 ---
 
 Está [Kappa Faro Light  Mocasines Unisex Adulto  Azul  Navy/White 6710   42 EU](https://www.amazon.es/dp/B015KKKMS4/?tag=tolees-21) con 51.76 de descuento por 28.92 EUR (original: 59.95 EUR) en el siguiente enlace!

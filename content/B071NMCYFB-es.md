@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071NMCYFB/?tag=tolees-21'
 descuento: '71.73'
+average: '14.12'
 ---
 
 Ahora mismo tienes [Dockers by Gerli 41ce307-613100  Zapatillas Altas para Mujer  Negro  Schwarz   38 EU](https://www.amazon.es/dp/B071NMCYFB/?tag=tolees-21) a 14.12 EUR (original: 49.95 EUR) (71.73 %  de descuento) en el siguiente enlace!

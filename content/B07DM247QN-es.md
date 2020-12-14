@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DM247QN/?tag=tolees-21'
 descuento: '64.16'
+average: '43'
 ---
 
 Ahora mismo tienes [adidas Terrex Ax2R GTX  Zapatillas de Trail Running para Hombre  Negro Negbás/Belazu 000  42 EU](https://www.amazon.es/dp/B07DM247QN/?tag=tolees-21) a 43 EUR (original: 119.99 EUR) (64.16 %  de descuento) en el siguiente enlace!

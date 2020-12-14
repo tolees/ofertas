@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCXPVGH/?tag=tolees-21'
 descuento: '63.09'
+average: '27.5'
 ---
 
 Está [El Ron Prohibido 12 Years Old Solera Blended Mexican Rum - 3 Paquetes de 3 Unidades](https://www.amazon.es/dp/B07DCXPVGH/?tag=tolees-21) con 63.09 de descuento por 27.5 EUR (original: 74.5 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B011JG5GMU/?tag=tolees-21'
 descuento: '68.75'
+average: '5'
 ---
 
 Está [Berliner Philharmoniker - Great Recordings](https://www.amazon.es/dp/B011JG5GMU/?tag=tolees-21) con 68.75 de descuento por 5 EUR (original: 16 EUR) en el siguiente enlace!

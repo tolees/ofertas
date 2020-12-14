@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGFQJBP/?tag=tolees-21'
 descuento: '75.62'
+average: '24.37'
 ---
 
 Está [BOSS Amiroy suéter  Verde  Open Green 345   XX-Large para Hombre](https://www.amazon.es/dp/B07KGFQJBP/?tag=tolees-21) con 75.62 de descuento por 24.37 EUR (original: 99.95 EUR) en el siguiente enlace!

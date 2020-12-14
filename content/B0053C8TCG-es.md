@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0053C8TCG/?tag=tolees-21'
 descuento: '36.73'
+average: '31'
 ---
 
 Está [Over-X Capsula Energizante - 1 unidad](https://www.amazon.es/dp/B0053C8TCG/?tag=tolees-21) con 36.73 de descuento por 31 EUR (original: 49 EUR) en el siguiente enlace!

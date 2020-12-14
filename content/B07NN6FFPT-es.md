@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NN6FFPT/?tag=tolees-21'
 descuento: '40.75'
+average: '79.99'
 ---
 
 Está [Camara Acuatica Sumergible Full HD 1080P para Snorkeling 24.0 MP Camara Acuatica Pantalla Dual Camaras Fotograficas](https://www.amazon.es/dp/B07NN6FFPT/?tag=tolees-21) con 40.75 de descuento por 79.99 EUR (original: 135 EUR) en el siguiente enlace!

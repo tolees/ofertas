@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KWC7X5F/?tag=tolees-21'
 descuento: '44.53'
+average: '41.6'
 ---
 
 Está [New Balance 500v1  Entrenadores para Hombre  Gris Steel  40.5 EU](https://www.amazon.es/dp/B07KWC7X5F/?tag=tolees-21) con 44.53 de descuento por 41.6 EUR (original: 75 EUR) en el siguiente enlace!

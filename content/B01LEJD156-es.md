@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LEJD156/?tag=tolees-21'
 descuento: '50.23'
+average: '7.46'
 ---
 
 Está [POP! Vinilo - Games: Street Fighter: Balrog](https://www.amazon.es/dp/B01LEJD156/?tag=tolees-21) con 50.23 de descuento por 7.46 EUR (original: 14.99 EUR) en el siguiente enlace!

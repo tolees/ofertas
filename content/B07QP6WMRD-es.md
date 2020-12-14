@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QP6WMRD/?tag=tolees-21'
 descuento: '66.70'
+average: '20.59'
 ---
 
 Está [GotechoD Desafío de la Gravedad Coche de Escalada RC Control Remoto Coche Regalo de cumpleaños para niños de 6 a 15 años](https://www.amazon.es/dp/B07QP6WMRD/?tag=tolees-21) con 66.70 de descuento por 20.59 EUR (original: 61.83 EUR) en el siguiente enlace!

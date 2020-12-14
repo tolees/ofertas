@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075DWZR88/?tag=tolees-21'
 descuento: '49.57'
+average: '6.4'
 ---
 
 Está [HGDGears Braga Cuello para Hombre y Mujer Invierno Bufanda Tubular Calentador de Cuello Pasamontañas Ciclismo Moto Forro Polar Thermico Windstopper Invierno Snood  Azul ](https://www.amazon.es/dp/B075DWZR88/?tag=tolees-21) con 49.57 de descuento por 6.4 EUR (original: 12.69 EUR) en el siguiente enlace!

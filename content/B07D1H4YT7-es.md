@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D1H4YT7/?tag=tolees-21'
 descuento: '49.88'
+average: '50.12'
 ---
 
 Está [Asics Gel-Phoenix 9  Zapatillas de Entrenamiento para Hombre  Azul  Deep Ocean/Flash Yellow 400   42 EU](https://www.amazon.es/dp/B07D1H4YT7/?tag=tolees-21) con 49.88 de descuento por 50.12 EUR (original: 100 EUR) en el siguiente enlace!

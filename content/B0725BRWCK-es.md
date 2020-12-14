@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0725BRWCK/?tag=tolees-21'
 descuento: '56.39'
+average: '30.53'
 ---
 
 Ahora mismo tienes [New Balance 490v4  Zapatillas Deportivas para Interior para Mujer  Azul  Blue/White   38 EU](https://www.amazon.es/dp/B0725BRWCK/?tag=tolees-21) a 30.53 EUR (original: 70 EUR) (56.39 %  de descuento) en el siguiente enlace!

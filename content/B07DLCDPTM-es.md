@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLCDPTM/?tag=tolees-21'
 descuento: '50.02'
+average: '14.99'
 ---
 
 Está [Springfield Chino Slim Microprint  Pantalones para Hombre   Gama Azules 15    Tamaño del Fabricante:44 ](https://www.amazon.es/dp/B07DLCDPTM/?tag=tolees-21) con 50.02 de descuento por 14.99 EUR (original: 29.99 EUR) en el siguiente enlace!

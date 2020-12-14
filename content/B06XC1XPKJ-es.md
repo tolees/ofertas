@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XC1XPKJ/?tag=tolees-21'
 descuento: '39.92'
+average: '19.82'
 ---
 
 Está [Trolls Cooper Bolsa de Cuerdas para el Gimnasio](https://www.amazon.es/dp/B06XC1XPKJ/?tag=tolees-21) con 39.92 de descuento por 19.82 EUR (original: 32.99 EUR) en el siguiente enlace!

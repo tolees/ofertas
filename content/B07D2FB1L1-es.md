@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D2FB1L1/?tag=tolees-21'
 descuento: '34.34'
+average: '65'
 ---
 
 Ahora mismo tienes [Ice-Watch Reloj Analógico para Mujer de Cuarzo con Correa en Silicona 15748](https://www.amazon.es/dp/B07D2FB1L1/?tag=tolees-21) a 65 EUR (original: 99 EUR) (34.34 %  de descuento) en el siguiente enlace!

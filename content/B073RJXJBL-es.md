@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073RJXJBL/?tag=tolees-21'
 descuento: '57.33'
+average: '29.85'
 ---
 
 Está [Reebok Cmplt CLN LX  Zapatillas de Gimnasia para Hombre  Blanco White/Collegiate Royal  45 EU](https://www.amazon.es/dp/B073RJXJBL/?tag=tolees-21) con 57.33 de descuento por 29.85 EUR (original: 69.95 EUR) en el siguiente enlace!

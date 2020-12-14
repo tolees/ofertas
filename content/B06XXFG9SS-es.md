@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XXFG9SS/?tag=tolees-21'
 descuento: '43.48'
+average: '37.6'
 ---
 
 Tienes [Philips OneBlade Set Recorte Facial - 800 gr](https://www.amazon.es/dp/B06XXFG9SS/?tag=tolees-21) con un 43.48 % de descuento con precio de oferta de 37.6 EUR (original: 66.52 EUR) en el siguiente enlace!

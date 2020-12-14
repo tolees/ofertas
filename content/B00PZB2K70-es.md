@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00PZB2K70/?tag=tolees-21'
 descuento: '30.00'
+average: '38.5'
 ---
 
 Tienes [Nike Wmns Court Royale  Zapatillas de Gimnasia Mujer  Blanco  White / Metallic Silver   38.5 EU](https://www.amazon.es/dp/B00PZB2K70/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 38.5 EUR (original: 55 EUR) en el siguiente enlace!

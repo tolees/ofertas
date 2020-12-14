@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00X9U0SMI/?tag=tolees-21'
 descuento: '58.50'
+average: '2.49'
 ---
 
 Tienes [Garnier Skin Active Tónico Suave Essentials para Pieles Secas y Sensibles - 200 ml](https://www.amazon.es/dp/B00X9U0SMI/?tag=tolees-21) con un 58.50 % de descuento con precio de oferta de 2.49 EUR (original: 6 EUR) en el siguiente enlace!

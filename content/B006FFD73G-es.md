@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B006FFD73G/?tag=tolees-21'
 descuento: '56.67'
+average: '11.05'
 ---
 
 Está [Biotin MGM - Cinturón para mujer  talla 90 cm  color Cognac](https://www.amazon.es/dp/B006FFD73G/?tag=tolees-21) con 56.67 de descuento por 11.05 EUR (original: 25.5 EUR) en el siguiente enlace!

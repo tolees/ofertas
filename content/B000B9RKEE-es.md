@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000B9RKEE/?tag=tolees-21'
 descuento: '30.47'
+average: '72.87'
 ---
 
 Tienes [Mannesmann - M12862 - Fresadora de ranuras 900 W](https://www.amazon.es/dp/B000B9RKEE/?tag=tolees-21) con un 30.47 % de descuento con precio de oferta de 72.87 EUR (original: 104.8 EUR) en el siguiente enlace!

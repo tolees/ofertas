@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B4N5YL6/?tag=tolees-21'
 descuento: '63.70'
+average: '111.96'
 ---
 
 Está [IRIS 9700 HD 02 - Receptor de TV por satélite  WiFi  HDMI  DVB-S2  color negro  Reacondicionado ](https://www.amazon.es/dp/B07B4N5YL6/?tag=tolees-21) con 63.70 de descuento por 111.96 EUR (original: 308.39 EUR) en el siguiente enlace!

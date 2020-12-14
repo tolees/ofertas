@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078WZJYMY/?tag=tolees-21'
 descuento: '65.07'
+average: '10.48'
 ---
 
 Tienes [Emporio Armani Underwear 111776  Pantalones Cortos para Hombre  Negro  Nero 00020   Medium](https://www.amazon.es/dp/B078WZJYMY/?tag=tolees-21) con un 65.07 % de descuento con precio de oferta de 10.48 EUR (original: 30 EUR) en el siguiente enlace!

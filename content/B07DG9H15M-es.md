@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DG9H15M/?tag=tolees-21'
 descuento: '63.10'
+average: '5'
 ---
 
 Está [Larios Citrus Ginebra Mediterránea - 700 ml](https://www.amazon.es/dp/B07DG9H15M/?tag=tolees-21) con 63.10 de descuento por 5 EUR (original: 13.55 EUR) en el siguiente enlace!

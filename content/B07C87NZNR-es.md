@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C87NZNR/?tag=tolees-21'
 descuento: '42.32'
+average: '14.99'
 ---
 
 Está [deAO RC Coche Adorable para Principiantes Cochecito a Control Remoto con Luces Música y Sonidos Figura de Conductor Extraíble  Coche de Policia ](https://www.amazon.es/dp/B07C87NZNR/?tag=tolees-21) con 42.32 de descuento por 14.99 EUR (original: 25.99 EUR) en el siguiente enlace!

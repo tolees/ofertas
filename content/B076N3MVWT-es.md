@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076N3MVWT/?tag=tolees-21'
 descuento: '74.02'
+average: '20.77'
 ---
 
 Está [Dockers by Gerli 39or001  Zapatillas Altas para Hombre  Negro  Schwarz 100   45 EU](https://www.amazon.es/dp/B076N3MVWT/?tag=tolees-21) con 74.02 de descuento por 20.77 EUR (original: 79.95 EUR) en el siguiente enlace!

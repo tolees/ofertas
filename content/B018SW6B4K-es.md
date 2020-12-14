@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B018SW6B4K/?tag=tolees-21'
 descuento: '30.83'
+average: '17.95'
 ---
 
 Está [Arena Fundamentals Logo Bañador  Hombre  Negro/Blanco  XL](https://www.amazon.es/dp/B018SW6B4K/?tag=tolees-21) con 30.83 de descuento por 17.95 EUR (original: 25.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0776XXZKP/?tag=tolees-21'
 descuento: '29.18'
+average: '38.95'
 ---
 
 Ahora mismo tienes [Tommy Jeans Hombre Original Fine Pique   Polo Manga Corta  Gris  Lt Grey Htr 038  X-Large](https://www.amazon.es/dp/B0776XXZKP/?tag=tolees-21) a 38.95 EUR (original: 55 EUR) (29.18 %  de descuento) en el siguiente enlace!

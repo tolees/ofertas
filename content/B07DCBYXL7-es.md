@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCBYXL7/?tag=tolees-21'
 descuento: '37.17'
+average: '28.24'
 ---
 
 Ahora mismo tienes [Puma Future 19.4 TT Jr  Zapatillas de Fútbol para Niños  Rojo  Red Blast-Bleu Azur   38.5 EU](https://www.amazon.es/dp/B07DCBYXL7/?tag=tolees-21) a 28.24 EUR (original: 44.95 EUR) (37.17 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GB8YZQ7/?tag=tolees-21'
 descuento: '29.11'
+average: '24.74'
 ---
 
 Está [Casio Reloj Analógico para Hombre de Cuarzo con Correa en Resina MWC-100H-7AVEF](https://www.amazon.es/dp/B07GB8YZQ7/?tag=tolees-21) con 29.11 de descuento por 24.74 EUR (original: 34.9 EUR) en el siguiente enlace!

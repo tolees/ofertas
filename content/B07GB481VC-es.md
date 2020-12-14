@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GB481VC/?tag=tolees-21'
 descuento: '60.00'
+average: '15.98'
 ---
 
 Ahora mismo tienes [Tuc Tuc Prenda Felpa NIÑA ABC Monsters  Chándal para Niñas   Gris 00   One Size  Tamaño del Fabricante:1A ](https://www.amazon.es/dp/B07GB481VC/?tag=tolees-21) a 15.98 EUR (original: 39.95 EUR) (60.00 %  de descuento) en el siguiente enlace!

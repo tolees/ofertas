@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MF28T6W/?tag=tolees-21'
 descuento: '34.04'
+average: '19.78'
 ---
 
 Ahora mismo tienes [BROTOU Mesa de Luz Dibujo A4 Tableta de Luz 3.5 mm Super Delgado y Brillo Ajustable con cable USB para Pintar  Dibujar  Artesanía Bocetos  Pintura Diamante Artcraft Tattoo Acolchado](https://www.amazon.es/dp/B07MF28T6W/?tag=tolees-21) a 19.78 EUR (original: 29.99 EUR) (34.04 %  de descuento) en el siguiente enlace!

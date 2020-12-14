@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0132TGKJK/?tag=tolees-21'
 descuento: '70.02'
+average: '8.99'
 ---
 
 Tienes [OxyLED® Linterna UV 12 LED Detector de Urina y Manchas en Armarios Alfombras o Mantas](https://www.amazon.es/dp/B0132TGKJK/?tag=tolees-21) con un 70.02 % de descuento con precio de oferta de 8.99 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NC28MIF/?tag=tolees-21'
 descuento: '70.00'
+average: '7.5'
 ---
 
 Ahora mismo tienes [find. Top sin Mangas con Volante para Mujer   Rosa  Blush   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B01NC28MIF/?tag=tolees-21) a 7.5 EUR (original: 25 EUR) (70.00 %  de descuento) en el siguiente enlace!

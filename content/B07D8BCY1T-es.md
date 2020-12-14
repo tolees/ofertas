@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D8BCY1T/?tag=tolees-21'
 descuento: '68.15'
+average: '30.89'
 ---
 
 Está [Munich Mundial 2.0  Zapatillas de Deporte Unisex Adulto   Blanco 09   42 EU](https://www.amazon.es/dp/B07D8BCY1T/?tag=tolees-21) con 68.15 de descuento por 30.89 EUR (original: 97 EUR) en el siguiente enlace!

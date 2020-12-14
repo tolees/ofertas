@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073VC9GYP/?tag=tolees-21'
 descuento: '28.43'
+average: '31.75'
 ---
 
 Está [Jeteven Multicolores Mosquitera Redonda Princesa Lujosa Elegante Decoracion de la Cama para Boda Niñas Regala Colgante con Ganchos](https://www.amazon.es/dp/B073VC9GYP/?tag=tolees-21) con 28.43 de descuento por 31.75 EUR (original: 44.36 EUR) en el siguiente enlace!

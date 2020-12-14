@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DPCY7RW/?tag=tolees-21'
 descuento: '71.27'
+average: '25.84'
 ---
 
 Ahora mismo tienes [Puma ftblNXT Vent Thermo-R Windbreaker Jacket  Hombre  Black/Iron Gate  XL](https://www.amazon.es/dp/B07DPCY7RW/?tag=tolees-21) a 25.84 EUR (original: 89.95 EUR) (71.27 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MFGPQC5/?tag=tolees-21'
 descuento: '66.69'
+average: '19.98'
 ---
 
 Tienes [Cool Area Kit de Montaje para toldo Cuadrado o rectángulo  Accesorios de Fijación de Acero Inoxidable  Color Plateado](https://www.amazon.es/dp/B01MFGPQC5/?tag=tolees-21) con un 66.69 % de descuento con precio de oferta de 19.98 EUR (original: 59.99 EUR) en el siguiente enlace!

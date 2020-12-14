@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077NXN23K/?tag=tolees-21'
 descuento: '52.76'
+average: '22.18'
 ---
 
 Está [XTI 85961  Shopper para Mujer  Rosa  Nude   43x29x16 cm  W x H x L ](https://www.amazon.es/dp/B077NXN23K/?tag=tolees-21) con 52.76 de descuento por 22.18 EUR (original: 46.95 EUR) en el siguiente enlace!

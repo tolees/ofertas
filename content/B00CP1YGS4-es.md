@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00CP1YGS4/?tag=tolees-21'
 descuento: '46.53'
+average: '11.94'
 ---
 
 Ahora mismo tienes [Soliera - Vino Tinto Tempranillo Botella 75 cl D.O. La Mancha - 6 Botellas](https://www.amazon.es/dp/B00CP1YGS4/?tag=tolees-21) a 11.94 EUR (original: 22.33 EUR) (46.53 %  de descuento) en el siguiente enlace!

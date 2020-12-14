@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00QFKL0IU/?tag=tolees-21'
 descuento: '87.74'
+average: '10.62'
 ---
 
 Tienes [My Evening Dress Veronica  Vestidos de Noche y de Fiesta para Mujer  Rojo  Burgundy E   36](https://www.amazon.es/dp/B00QFKL0IU/?tag=tolees-21) con un 87.74 % de descuento con precio de oferta de 10.62 EUR (original: 86.62 EUR) en el siguiente enlace!

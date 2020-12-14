@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NADQDQ6/?tag=tolees-21'
 descuento: '57.77'
+average: '33.78'
 ---
 
 Está [Under Armour UA Micro G Fuel RN  Zapatillas de Entrenamiento para Hombre  Negro  Black   41 EU](https://www.amazon.es/dp/B01NADQDQ6/?tag=tolees-21) con 57.77 de descuento por 33.78 EUR (original: 80 EUR) en el siguiente enlace!

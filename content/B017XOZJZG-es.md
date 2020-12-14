@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017XOZJZG/?tag=tolees-21'
 descuento: '58.72'
+average: '107.33'
 ---
 
 Ahora mismo tienes [Helly Hansen Salt Power Jacket  Hombre  Azul  L](https://www.amazon.es/dp/B017XOZJZG/?tag=tolees-21) a 107.33 EUR (original: 260 EUR) (58.72 %  de descuento) en el siguiente enlace!

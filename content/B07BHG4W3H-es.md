@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BHG4W3H/?tag=tolees-21'
 descuento: '37.73'
+average: '24.9'
 ---
 
 Ahora mismo tienes [Blazblue Cross Tag Battle Day One](https://www.amazon.es/dp/B07BHG4W3H/?tag=tolees-21) a 24.9 EUR (original: 39.99 EUR) (37.73 %  de descuento) en el siguiente enlace!

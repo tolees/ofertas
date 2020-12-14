@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000GIQRW6/?tag=tolees-21'
 descuento: '43.90'
+average: '20.79'
 ---
 
 Tienes [Optimum Nutrition Opti-Women Standard - 120 Tabletas](https://www.amazon.es/dp/B000GIQRW6/?tag=tolees-21) con un 43.90 % de descuento con precio de oferta de 20.79 EUR (original: 37.06 EUR) en el siguiente enlace!

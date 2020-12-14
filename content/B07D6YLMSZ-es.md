@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D6YLMSZ/?tag=tolees-21'
 descuento: '56.22'
+average: '49.98'
 ---
 
 Está [adidas X_PLR  Zapatillas para Hombre  Rojo Scarlet/Gum 0  43 1/3 EU](https://www.amazon.es/dp/B07D6YLMSZ/?tag=tolees-21) con 56.22 de descuento por 49.98 EUR (original: 114.16 EUR) en el siguiente enlace!

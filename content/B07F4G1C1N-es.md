@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F4G1C1N/?tag=tolees-21'
 descuento: '65.52'
+average: '13.79'
 ---
 
 Está [JACK & JONES Jcovincent Knit Shawl Neck  suéter para Hombre  Gris  Dark Grey Melange Fit:Knit Fit  X-Large](https://www.amazon.es/dp/B07F4G1C1N/?tag=tolees-21) con 65.52 de descuento por 13.79 EUR (original: 39.99 EUR) en el siguiente enlace!

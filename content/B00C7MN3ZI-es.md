@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00C7MN3ZI/?tag=tolees-21'
 descuento: '27.60'
+average: '28.02'
 ---
 
 Está [Monkey Donkey Fehn - Móvil de cuna musical  diseño de monos](https://www.amazon.es/dp/B00C7MN3ZI/?tag=tolees-21) con 27.60 de descuento por 28.02 EUR (original: 38.7 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079P9MQMV/?tag=tolees-21'
 descuento: '38.60'
+average: '42.95'
 ---
 
 Está [Sigma Sport Sigma Faro Delantero Buster 700  Adultos Unisex  Negro  Talla Única](https://www.amazon.es/dp/B079P9MQMV/?tag=tolees-21) con 38.60 de descuento por 42.95 EUR (original: 69.95 EUR) en el siguiente enlace!

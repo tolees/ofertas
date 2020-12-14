@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LWLPJOO/?tag=tolees-21'
 descuento: '29.43'
+average: '11.99'
 ---
 
 Está [2 Piezas Corrector Juanete 1xR & 1xL - Férula Nocturna Cierre de Bucle y Gancho para Hallux Valgus Alivio Dolor del Pie - Corrector para Hombres y Mujeres - Alivio del Juanete](https://www.amazon.es/dp/B01LWLPJOO/?tag=tolees-21) con 29.43 de descuento por 11.99 EUR (original: 16.99 EUR) en el siguiente enlace!

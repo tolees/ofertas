@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074KKFFFP/?tag=tolees-21'
 descuento: '43.35'
+average: '16.99'
 ---
 
 Ahora mismo tienes [Maison & White Tassimo 60 Pod Holder | Cajón de cápsulas y soporte para máquina de café Negro](https://www.amazon.es/dp/B074KKFFFP/?tag=tolees-21) a 16.99 EUR (original: 29.99 EUR) (43.35 %  de descuento) en el siguiente enlace!

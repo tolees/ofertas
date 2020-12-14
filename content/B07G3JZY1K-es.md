@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G3JZY1K/?tag=tolees-21'
 descuento: '67.94'
+average: '8'
 ---
 
 Ahora mismo tienes [Mamma Mia! Una Y Otra Vez [Blu-ray]](https://www.amazon.es/dp/B07G3JZY1K/?tag=tolees-21) a 8 EUR (original: 24.95 EUR) (67.94 %  de descuento) en el siguiente enlace!

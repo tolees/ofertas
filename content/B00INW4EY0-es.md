@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00INW4EY0/?tag=tolees-21'
 descuento: '39.34'
+average: '38.01'
 ---
 
 Está [Skechers Synergy - Instant Reactio Zapatillas de estar por casa Hombre  Gris  Light Gray/Black   45.5](https://www.amazon.es/dp/B00INW4EY0/?tag=tolees-21) con 39.34 de descuento por 38.01 EUR (original: 62.66 EUR) en el siguiente enlace!

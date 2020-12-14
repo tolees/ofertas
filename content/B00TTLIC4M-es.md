@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TTLIC4M/?tag=tolees-21'
 descuento: '46.00'
+average: '75.6'
 ---
 
 Está [Clarks ChilverWalkGTX  Derby para Hombre  marrón  Dark Brown Nub   39.5 EU](https://www.amazon.es/dp/B00TTLIC4M/?tag=tolees-21) con 46.00 de descuento por 75.6 EUR (original: 140 EUR) en el siguiente enlace!

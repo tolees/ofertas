@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C4RJT2Q/?tag=tolees-21'
 descuento: '26.53'
+average: '11.38'
 ---
 
 Está [Bambino Mio  pañal bañador  flamenco rosa  extra grande  2+ años ](https://www.amazon.es/dp/B07C4RJT2Q/?tag=tolees-21) con 26.53 de descuento por 11.38 EUR (original: 15.49 EUR) en el siguiente enlace!

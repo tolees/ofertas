@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MZ2P4WP/?tag=tolees-21'
 descuento: '56.59'
+average: '8.37'
 ---
 
 Está [New Look Maternity 3856810-Vestido Mujer Negro Negro  Black 1  40](https://www.amazon.es/dp/B01MZ2P4WP/?tag=tolees-21) con 56.59 de descuento por 8.37 EUR (original: 19.28 EUR) en el siguiente enlace!

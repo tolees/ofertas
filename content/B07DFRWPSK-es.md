@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFRWPSK/?tag=tolees-21'
 descuento: '52.59'
+average: '21.31'
 ---
 
 Está [Puma Modern Sport Pantalones  Mujer  Negro  51   XS](https://www.amazon.es/dp/B07DFRWPSK/?tag=tolees-21) con 52.59 de descuento por 21.31 EUR (original: 44.95 EUR) en el siguiente enlace!

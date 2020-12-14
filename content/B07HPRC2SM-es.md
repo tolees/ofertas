@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HPRC2SM/?tag=tolees-21'
 descuento: '30.51'
+average: '6.88'
 ---
 
 Tienes [Elbe RC-005-SO - Mando a Distancia de sustitución para TV Sony  Color Negro](https://www.amazon.es/dp/B07HPRC2SM/?tag=tolees-21) con un 30.51 % de descuento con precio de oferta de 6.88 EUR (original: 9.9 EUR) en el siguiente enlace!

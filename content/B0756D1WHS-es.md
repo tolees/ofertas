@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0756D1WHS/?tag=tolees-21'
 descuento: '29.99'
+average: '69.97'
 ---
 
 Está [Clarks Akilah Eden  Sandalia con Pulsera para Mujer  Azul  Navy Combi SDE   39 EU](https://www.amazon.es/dp/B0756D1WHS/?tag=tolees-21) con 29.99 de descuento por 69.97 EUR (original: 99.95 EUR) en el siguiente enlace!

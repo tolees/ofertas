@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072JNDSM2/?tag=tolees-21'
 descuento: '51.08'
+average: '34.98'
 ---
 
 Ahora mismo tienes [ADIDAS Swift Run J Cm7919  Zapatillas de Running Unisex Niños  Negro Utility Core Black  36 2/3 EU](https://www.amazon.es/dp/B072JNDSM2/?tag=tolees-21) a 34.98 EUR (original: 71.51 EUR) (51.08 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DRHCYML/?tag=tolees-21'
 descuento: '35.42'
+average: '7.75'
 ---
 
 Está [Pepe Jeans Olaia Neceser de Viaje  22 cm  1.54 litros  Azul](https://www.amazon.es/dp/B07DRHCYML/?tag=tolees-21) con 35.42 de descuento por 7.75 EUR (original: 12 EUR) en el siguiente enlace!

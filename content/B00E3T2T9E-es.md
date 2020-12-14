@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00E3T2T9E/?tag=tolees-21'
 descuento: '79.96'
+average: '1'
 ---
 
 Ahora mismo tienes [Figura Skylanders Single: Rip Tide](https://www.amazon.es/dp/B00E3T2T9E/?tag=tolees-21) a 1 EUR (original: 4.99 EUR) (79.96 %  de descuento) en el siguiente enlace!

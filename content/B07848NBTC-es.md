@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07848NBTC/?tag=tolees-21'
 descuento: '66.30'
+average: '26.94'
 ---
 
 Tienes [Puma Future 18.3 TT  Zapatillas de Fútbol para Hombre  Amarillo  Fizzy Yellow-Red Blast Black   46 EU](https://www.amazon.es/dp/B07848NBTC/?tag=tolees-21) con un 66.30 % de descuento con precio de oferta de 26.94 EUR (original: 79.95 EUR) en el siguiente enlace!

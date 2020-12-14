@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00DZMHXMS/?tag=tolees-21'
 descuento: '47.38'
+average: '45.25'
 ---
 
 Tienes [Prasco FD9347003 Espejo retrovisor de coche  color negro](https://www.amazon.es/dp/B00DZMHXMS/?tag=tolees-21) con un 47.38 % de descuento con precio de oferta de 45.25 EUR (original: 86 EUR) en el siguiente enlace!

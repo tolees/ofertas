@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0781VSQJW/?tag=tolees-21'
 descuento: '36.92'
+average: '8.8'
 ---
 
 Está [L Oréal Paris Barra de Labios Color Riche Shine  Tono Rosa 111 Instaheaven](https://www.amazon.es/dp/B0781VSQJW/?tag=tolees-21) con 36.92 de descuento por 8.8 EUR (original: 13.95 EUR) en el siguiente enlace!

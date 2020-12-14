@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HJTKZBQ/?tag=tolees-21'
 descuento: '55.35'
+average: '39.87'
 ---
 
 Está [READ Tezer Bluetooth Headset - Mini Auriculares Bluetooth V5.0 Wireless Auricular Invisible en oído Headset Audio Sport Kit  para iPhone X 8 7 6 S 6 + iPad Samsung S8 +  note8  S9 S9+  Black   Black ](https://www.amazon.es/dp/B07HJTKZBQ/?tag=tolees-21) con 55.35 de descuento por 39.87 EUR (original: 89.3 EUR) en el siguiente enlace!

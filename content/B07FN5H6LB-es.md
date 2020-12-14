@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FN5H6LB/?tag=tolees-21'
 descuento: '30.10'
+average: '20.97'
 ---
 
 Tienes [Nike Indy Bra Sujetador Deportivo  Mujer  Rojo  Ember Glow Black   M](https://www.amazon.es/dp/B07FN5H6LB/?tag=tolees-21) con un 30.10 % de descuento con precio de oferta de 20.97 EUR (original: 30 EUR) en el siguiente enlace!

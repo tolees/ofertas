@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HNSW3DI/?tag=tolees-21'
 descuento: '77.20'
+average: '19.6'
 ---
 
 Está [Roxy ARJB700349 - Botas de invierno para mujer  color Marrón  Tan   talla 37 EU](https://www.amazon.es/dp/B01HNSW3DI/?tag=tolees-21) con 77.20 de descuento por 19.6 EUR (original: 85.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077N5LJZK/?tag=tolees-21'
 descuento: '71.71'
+average: '99'
 ---
 
 Está [NOX Ultra Carbon Amarillo](https://www.amazon.es/dp/B077N5LJZK/?tag=tolees-21) con 71.71 de descuento por 99 EUR (original: 350 EUR) en el siguiente enlace!

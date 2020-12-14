@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0722VP4KT/?tag=tolees-21'
 descuento: '32.52'
+average: '67.48'
 ---
 
 Tienes [Under Armour Speedform Intake 2  Zapatillas de Running para Hombre  Negro  Black/Overcast Gray/Metallic Silver   44/45 EU](https://www.amazon.es/dp/B0722VP4KT/?tag=tolees-21) con un 32.52 % de descuento con precio de oferta de 67.48 EUR (original: 100 EUR) en el siguiente enlace!

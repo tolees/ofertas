@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00SSQGKVG/?tag=tolees-21'
 descuento: '44.02'
+average: '13.99'
 ---
 
 Tienes [Caja de luces LED  paquete de 2  + ÍTEMS DE REGALO | Estroboscópico para enganchar/Luces para las personas que van a correr  perros  bicicletas  ir a caminar | Los mejores accesorios de visibilidad alta para su equipo de ropa  bicicletas  etc.](https://www.amazon.es/dp/B00SSQGKVG/?tag=tolees-21) con un 44.02 % de descuento con precio de oferta de 13.99 EUR (original: 24.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F344WNL/?tag=tolees-21'
 descuento: '47.13'
+average: '21.15'
 ---
 
 Tienes [Helly Hansen HH LIFA Active Light LS T-Shirt  Hombre  Olympian Blue  2XL](https://www.amazon.es/dp/B07F344WNL/?tag=tolees-21) con un 47.13 % de descuento con precio de oferta de 21.15 EUR (original: 40 EUR) en el siguiente enlace!

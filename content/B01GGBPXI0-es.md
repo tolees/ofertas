@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GGBPXI0/?tag=tolees-21'
 descuento: '74.15'
+average: '194.16'
 ---
 
 Está [Palit NEB1080015P2-1040J GeForce GTX 1080 8GB GDDR5X - Tarjeta gráfica  NVIDIA  GeForce GTX 1080  7680 x 4320 Pixeles  7680 x 4320 Pixeles ](https://www.amazon.es/dp/B01GGBPXI0/?tag=tolees-21) con 74.15 de descuento por 194.16 EUR (original: 751.05 EUR) en el siguiente enlace!

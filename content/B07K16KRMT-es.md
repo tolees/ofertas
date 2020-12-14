@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K16KRMT/?tag=tolees-21'
 descuento: '32.30'
+average: '37.2'
 ---
 
 Ahora mismo tienes [adidas V Racer 2.0  Zapatillas de Running para Hombre  Blanco Raw FTWR White/Sesame  42 EU](https://www.amazon.es/dp/B07K16KRMT/?tag=tolees-21) a 37.2 EUR (original: 54.95 EUR) (32.30 %  de descuento) en el siguiente enlace!

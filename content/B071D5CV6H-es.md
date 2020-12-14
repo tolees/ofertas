@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071D5CV6H/?tag=tolees-21'
 descuento: '50.02'
+average: '14.99'
 ---
 
 Está [Esprit 997ee2i801 suéter  Azul  Dark Blue 405   Large para Hombre](https://www.amazon.es/dp/B071D5CV6H/?tag=tolees-21) con 50.02 de descuento por 14.99 EUR (original: 29.99 EUR) en el siguiente enlace!

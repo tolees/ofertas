@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06WGZ18D8/?tag=tolees-21'
 descuento: '58.90'
+average: '32.88'
 ---
 
 Ahora mismo tienes [Nike Racquette  17 Leather  Zapatillas para Mujer  Negro  Black White   36.5 EU](https://www.amazon.es/dp/B06WGZ18D8/?tag=tolees-21) a 32.88 EUR (original: 80 EUR) (58.90 %  de descuento) en el siguiente enlace!

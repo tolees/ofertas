@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XSYF5LD/?tag=tolees-21'
 descuento: '64.43'
+average: '17.75'
 ---
 
 Ahora mismo tienes [Pepe Jeans London Blueburn  Pantalones para Niños  Azul  Navy 595-8C41   4 años](https://www.amazon.es/dp/B06XSYF5LD/?tag=tolees-21) a 17.75 EUR (original: 49.9 EUR) (64.43 %  de descuento) en el siguiente enlace!

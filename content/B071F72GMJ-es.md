@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071F72GMJ/?tag=tolees-21'
 descuento: '44.45'
+average: '49.99'
 ---
 
 Ahora mismo tienes [Proyector  TENKER Q5 Mini proyector de Video + 20% lúmenes Full HD 1080P Proyector de LED portátil Soporte HDMI USB TF VGA AV](https://www.amazon.es/dp/B071F72GMJ/?tag=tolees-21) a 49.99 EUR (original: 89.99 EUR) (44.45 %  de descuento) en el siguiente enlace!

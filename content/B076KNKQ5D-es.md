@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076KNKQ5D/?tag=tolees-21'
 descuento: '40.81'
+average: '23.67'
 ---
 
 Tienes [Esprit 038ee1i002  suéter para Mujer   Medium Grey 3 037   Small](https://www.amazon.es/dp/B076KNKQ5D/?tag=tolees-21) con un 40.81 % de descuento con precio de oferta de 23.67 EUR (original: 39.99 EUR) en el siguiente enlace!

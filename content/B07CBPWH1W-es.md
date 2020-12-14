@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CBPWH1W/?tag=tolees-21'
 descuento: '47.57'
+average: '34.08'
 ---
 
 Ahora mismo tienes [Levi s Ellis  Zapatillas para Mujer  Negro  Noir Regular Black 59   37 EU](https://www.amazon.es/dp/B07CBPWH1W/?tag=tolees-21) a 34.08 EUR (original: 65 EUR) (47.57 %  de descuento) en el siguiente enlace!

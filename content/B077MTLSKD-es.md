@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077MTLSKD/?tag=tolees-21'
 descuento: '53.13'
+average: '37.47'
 ---
 
 Ahora mismo tienes [Puma Smash Platform SD  Zapatillas para Mujer  Beige Birch  41 EU](https://www.amazon.es/dp/B077MTLSKD/?tag=tolees-21) a 37.47 EUR (original: 79.95 EUR) (53.13 %  de descuento) en el siguiente enlace!

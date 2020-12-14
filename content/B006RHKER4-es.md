@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B006RHKER4/?tag=tolees-21'
 descuento: '79.83'
+average: '7'
 ---
 
 Está [Sony Micro Vault R-Series - Memoria USB de 32 GB  Negro](https://www.amazon.es/dp/B006RHKER4/?tag=tolees-21) con 79.83 de descuento por 7 EUR (original: 34.7 EUR) en el siguiente enlace!

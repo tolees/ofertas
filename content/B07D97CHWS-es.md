@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D97CHWS/?tag=tolees-21'
 descuento: '61.97'
+average: '13.31'
 ---
 
 Ahora mismo tienes [XTI 55835  Botas Clasicas para Niños  Negro  Black   31 EU](https://www.amazon.es/dp/B07D97CHWS/?tag=tolees-21) a 13.31 EUR (original: 35 EUR) (61.97 %  de descuento) en el siguiente enlace!

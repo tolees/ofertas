@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N7XKV5G/?tag=tolees-21'
 descuento: '49.35'
+average: '30.39'
 ---
 
 Está [The North Face Tanken Pant Pantalones  Hombre  Negro  TNF Black   38](https://www.amazon.es/dp/B01N7XKV5G/?tag=tolees-21) con 49.35 de descuento por 30.39 EUR (original: 60 EUR) en el siguiente enlace!

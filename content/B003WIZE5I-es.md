@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003WIZE5I/?tag=tolees-21'
 descuento: '62.63'
+average: '3.36'
 ---
 
 Ahora mismo tienes [Puma Ring Formstripe  Calcetines  Azul  43-46](https://www.amazon.es/dp/B003WIZE5I/?tag=tolees-21) a 3.36 EUR (original: 8.99 EUR) (62.63 %  de descuento) en el siguiente enlace!

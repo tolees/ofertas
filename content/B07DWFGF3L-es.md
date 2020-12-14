@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DWFGF3L/?tag=tolees-21'
 descuento: '30.00'
+average: '42'
 ---
 
 Está [FIND Hiking Style Zapatillas Altas  Gris Grey  45 EU](https://www.amazon.es/dp/B07DWFGF3L/?tag=tolees-21) con 30.00 de descuento por 42 EUR (original: 60 EUR) en el siguiente enlace!

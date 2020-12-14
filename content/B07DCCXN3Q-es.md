@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCCXN3Q/?tag=tolees-21'
 descuento: '49.97'
+average: '40'
 ---
 
 Está [Puma Jaab XT Wn s  Zapatillas de Deporte para Mujer  Gris  Quarry White   39 EU](https://www.amazon.es/dp/B07DCCXN3Q/?tag=tolees-21) con 49.97 de descuento por 40 EUR (original: 79.95 EUR) en el siguiente enlace!

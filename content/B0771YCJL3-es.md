@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0771YCJL3/?tag=tolees-21'
 descuento: '37.41'
+average: '15.39'
 ---
 
 Tienes [Ça [4K Ultra HD] [Francia] [Blu-ray]](https://www.amazon.es/dp/B0771YCJL3/?tag=tolees-21) con un 37.41 % de descuento con precio de oferta de 15.39 EUR (original: 24.59 EUR) en el siguiente enlace!

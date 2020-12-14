@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BWSVH6W/?tag=tolees-21'
 descuento: '25.11'
+average: '29.92'
 ---
 
 Está [Solenny Silla Plegable  azul  90x64x15 cm  50001072720118](https://www.amazon.es/dp/B07BWSVH6W/?tag=tolees-21) con 25.11 de descuento por 29.92 EUR (original: 39.95 EUR) en el siguiente enlace!

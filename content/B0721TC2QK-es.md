@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0721TC2QK/?tag=tolees-21'
 descuento: '50.40'
+average: '64.98'
 ---
 
 Tienes [Nike Air MAX Prime  Zapatillas para Hombre  Negro Black/Dark Grey  44.5 EU](https://www.amazon.es/dp/B0721TC2QK/?tag=tolees-21) con un 50.40 % de descuento con precio de oferta de 64.98 EUR (original: 131 EUR) en el siguiente enlace!

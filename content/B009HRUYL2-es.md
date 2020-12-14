@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B009HRUYL2/?tag=tolees-21'
 descuento: '62.32'
+average: '9.4'
 ---
 
 Ahora mismo tienes [Susa - Sujetador para Mujer  Talla 110E  Color Blanco 003](https://www.amazon.es/dp/B009HRUYL2/?tag=tolees-21) a 9.4 EUR (original: 24.95 EUR) (62.32 %  de descuento) en el siguiente enlace!

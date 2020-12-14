@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N4PWNPV/?tag=tolees-21'
 descuento: '44.99'
+average: '37.96'
 ---
 
 Ahora mismo tienes [Superga 2750-PUMETW  Zapatillas para Mujer  Plateado  Grey Silver 031   36 EU](https://www.amazon.es/dp/B07N4PWNPV/?tag=tolees-21) a 37.96 EUR (original: 69 EUR) (44.99 %  de descuento) en el siguiente enlace!

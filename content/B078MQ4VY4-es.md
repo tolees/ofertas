@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078MQ4VY4/?tag=tolees-21'
 descuento: '30.17'
+average: '69.8'
 ---
 
 Ahora mismo tienes [Adidas Gazelle W  Zapatillas de Deporte para Mujer  Verde  Vercen/Ftwbla/Tinazu 000   36 2/3 EU](https://www.amazon.es/dp/B078MQ4VY4/?tag=tolees-21) a 69.8 EUR (original: 99.95 EUR) (30.17 %  de descuento) en el siguiente enlace!

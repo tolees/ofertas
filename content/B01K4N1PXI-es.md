@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01K4N1PXI/?tag=tolees-21'
 descuento: '74.85'
+average: '24.9'
 ---
 
 Tienes [Sennheiser HD 4.30i - Microauriculares de Diadema Cerrados  Compatible con iOS  Color Blanco](https://www.amazon.es/dp/B01K4N1PXI/?tag=tolees-21) con un 74.85 % de descuento con precio de oferta de 24.9 EUR (original: 99 EUR) en el siguiente enlace!

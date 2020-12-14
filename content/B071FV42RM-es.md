@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071FV42RM/?tag=tolees-21'
 descuento: '68.57'
+average: '23.56'
 ---
 
 Ahora mismo tienes [Adidas Seeley  Zapatillas para Hombre  Gris  Grey/Footwear White/Scarlet   39 1/3 EU](https://www.amazon.es/dp/B071FV42RM/?tag=tolees-21) a 23.56 EUR (original: 74.95 EUR) (68.57 %  de descuento) en el siguiente enlace!

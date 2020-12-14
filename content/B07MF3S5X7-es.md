@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MF3S5X7/?tag=tolees-21'
 descuento: '49.99'
+average: '19.98'
 ---
 
 Está [Adidas Vs Switch 2 K  Zapatillas de Deporte Unisex Adulto  000  40 EU](https://www.amazon.es/dp/B07MF3S5X7/?tag=tolees-21) con 49.99 de descuento por 19.98 EUR (original: 39.95 EUR) en el siguiente enlace!

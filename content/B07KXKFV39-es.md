@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KXKFV39/?tag=tolees-21'
 descuento: '38.92'
+average: '38.45'
 ---
 
 Está [Rocks Off El Placer Del Doctor Rocco Intrépido - 1 unidad](https://www.amazon.es/dp/B07KXKFV39/?tag=tolees-21) con 38.92 de descuento por 38.45 EUR (original: 62.95 EUR) en el siguiente enlace!

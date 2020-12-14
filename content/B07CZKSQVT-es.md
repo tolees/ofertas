@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZKSQVT/?tag=tolees-21'
 descuento: '49.05'
+average: '33.09'
 ---
 
 Está [Salomon XA Pro 3D J  Zapatillas de Trail Running para Niños  Rojo  Red Dahlia/Barbados Cherry/Spectra   32 EU](https://www.amazon.es/dp/B07CZKSQVT/?tag=tolees-21) con 49.05 de descuento por 33.09 EUR (original: 64.95 EUR) en el siguiente enlace!

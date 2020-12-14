@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007BZC0PK/?tag=tolees-21'
 descuento: '48.97'
+average: '8.65'
 ---
 
 Está [Eau de Lancaster - Loción corporal para mujer - 200 ml](https://www.amazon.es/dp/B007BZC0PK/?tag=tolees-21) con 48.97 de descuento por 8.65 EUR (original: 16.95 EUR) en el siguiente enlace!

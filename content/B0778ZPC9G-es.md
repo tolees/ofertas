@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0778ZPC9G/?tag=tolees-21'
 descuento: '46.72'
+average: '23.95'
 ---
 
 Está [Kappa Meseta RB  Zapatillas Unisex Adulto  Negro  Black 1111   37 EU](https://www.amazon.es/dp/B0778ZPC9G/?tag=tolees-21) con 46.72 de descuento por 23.95 EUR (original: 44.95 EUR) en el siguiente enlace!

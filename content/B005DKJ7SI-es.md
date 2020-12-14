@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005DKJ7SI/?tag=tolees-21'
 descuento: '32.82'
+average: '86.84'
 ---
 
 Tienes [Nautec No Limit Deep Sea - Reloj analógico de caballero automático con correa de acero inoxidable plateada](https://www.amazon.es/dp/B005DKJ7SI/?tag=tolees-21) con un 32.82 % de descuento con precio de oferta de 86.84 EUR (original: 129.27 EUR) en el siguiente enlace!

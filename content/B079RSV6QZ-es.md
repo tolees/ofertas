@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RSV6QZ/?tag=tolees-21'
 descuento: '69.28'
+average: '18.4'
 ---
 
 Está [Pepe Jeans Jael  Suéter para Mujer  Azul  Dulwich 594   Small](https://www.amazon.es/dp/B079RSV6QZ/?tag=tolees-21) con 69.28 de descuento por 18.4 EUR (original: 59.9 EUR) en el siguiente enlace!

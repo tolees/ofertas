@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CXQGYMT/?tag=tolees-21'
 descuento: '25.25'
+average: '14.95'
 ---
 
 Está [Siux ANTIVIBRADOR VIBRASTOP K-2.0 Azul](https://www.amazon.es/dp/B07CXQGYMT/?tag=tolees-21) con 25.25 de descuento por 14.95 EUR (original: 20 EUR) en el siguiente enlace!

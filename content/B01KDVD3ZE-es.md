@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KDVD3ZE/?tag=tolees-21'
 descuento: '50.33'
+average: '74.01'
 ---
 
 Está [Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable F6854/4](https://www.amazon.es/dp/B01KDVD3ZE/?tag=tolees-21) con 50.33 de descuento por 74.01 EUR (original: 149 EUR) en el siguiente enlace!

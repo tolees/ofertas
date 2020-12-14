@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005OQFLM2/?tag=tolees-21'
 descuento: '35.68'
+average: '16.08'
 ---
 
 Está [Umbra 299035-040 Organizador de joyas Negro](https://www.amazon.es/dp/B005OQFLM2/?tag=tolees-21) con 35.68 de descuento por 16.08 EUR (original: 25 EUR) en el siguiente enlace!

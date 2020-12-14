@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0798KDK1B/?tag=tolees-21'
 descuento: '55.91'
+average: '35.25'
 ---
 
 Está [G-Star RAW Strett Low  Zapatillas para Hombre  Blanco  Black 990   42 EU](https://www.amazon.es/dp/B0798KDK1B/?tag=tolees-21) con 55.91 de descuento por 35.25 EUR (original: 79.95 EUR) en el siguiente enlace!

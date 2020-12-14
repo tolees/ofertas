@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KMQHQFC/?tag=tolees-21'
 descuento: '61.32'
+average: '42.55'
 ---
 
 Está [BROOKS BROTHERS Chino Lunghi Red Fleece Pantalones  Gris  Grey 20   48  Talla del Fabricante: 36 34  para Hombre](https://www.amazon.es/dp/B07KMQHQFC/?tag=tolees-21) con 61.32 de descuento por 42.55 EUR (original: 110 EUR) en el siguiente enlace!

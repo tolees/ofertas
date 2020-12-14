@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MQU72O9/?tag=tolees-21'
 descuento: '37.17'
+average: '79.16'
 ---
 
 Está [Corsair Force MP500 - Unidad de Estado sólido  SSD de 120 GB  M.2 PCIe Gen. 3 x4 NVMe-SSD  hasta 2 300 MB/s](https://www.amazon.es/dp/B01MQU72O9/?tag=tolees-21) con 37.17 de descuento por 79.16 EUR (original: 125.99 EUR) en el siguiente enlace!

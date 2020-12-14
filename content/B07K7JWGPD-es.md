@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K7JWGPD/?tag=tolees-21'
 descuento: '37.13'
+average: '28.99'
 ---
 
 Ahora mismo tienes [Smartick 3D Album de Fotos](https://www.amazon.es/dp/B07K7JWGPD/?tag=tolees-21) a 28.99 EUR (original: 46.11 EUR) (37.13 %  de descuento) en el siguiente enlace!

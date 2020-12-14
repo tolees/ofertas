@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0788C4HXY/?tag=tolees-21'
 descuento: '54.68'
+average: '33.99'
 ---
 
 Tienes [Converse Lifestyle Star Player Ox Suede Zapatillas de deporte Unisex adulto  Verde  Herbal/Black/White 342   39.5 EU  6.5 UK ](https://www.amazon.es/dp/B0788C4HXY/?tag=tolees-21) con un 54.68 % de descuento con precio de oferta de 33.99 EUR (original: 75 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DBWWHKM/?tag=tolees-21'
 descuento: '76.37'
+average: '23.62'
 ---
 
 Está [Puma Te- KU  Zapatillas Unisex Adulto  Blanco White  47 EU](https://www.amazon.es/dp/B07DBWWHKM/?tag=tolees-21) con 76.37 de descuento por 23.62 EUR (original: 99.95 EUR) en el siguiente enlace!

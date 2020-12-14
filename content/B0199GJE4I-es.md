@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0199GJE4I/?tag=tolees-21'
 descuento: '40.66'
+average: '14.45'
 ---
 
 Ahora mismo tienes [Trespass - Pantalones elásticos cómodos largo 3/4 modelo Sylvie para mujer  L/Blanco ](https://www.amazon.es/dp/B0199GJE4I/?tag=tolees-21) a 14.45 EUR (original: 24.35 EUR) (40.66 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DBYGV8G/?tag=tolees-21'
 descuento: '40.91'
+average: '24.99'
 ---
 
 Tienes [Featherboards para Mesa Sierras MOHOO Feather Formas de Muelle Loc - Tabla para sierras de mesa Router & Tablas Vallas Herramientas ingletadora Juntas Lección Seguridad puertas y ventanas DIY](https://www.amazon.es/dp/B01DBYGV8G/?tag=tolees-21) con un 40.91 % de descuento con precio de oferta de 24.99 EUR (original: 42.29 EUR) en el siguiente enlace!

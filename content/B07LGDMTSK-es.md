@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LGDMTSK/?tag=tolees-21'
 descuento: '37.51'
+average: '24.99'
 ---
 
 Está [Paraguas Sin Teflón Grande y Automático a Prueba de Viento Hombre - Dapper Azul](https://www.amazon.es/dp/B07LGDMTSK/?tag=tolees-21) con 37.51 de descuento por 24.99 EUR (original: 39.99 EUR) en el siguiente enlace!

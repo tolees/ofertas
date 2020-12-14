@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01J7E5UTA/?tag=tolees-21'
 descuento: '45.30'
+average: '41'
 ---
 
 Está [Rieker 17866  Mocasines para Hombre  Azul  Marine/Amaretto   42 EU](https://www.amazon.es/dp/B01J7E5UTA/?tag=tolees-21) con 45.30 de descuento por 41 EUR (original: 74.95 EUR) en el siguiente enlace!

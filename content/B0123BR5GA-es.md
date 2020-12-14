@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0123BR5GA/?tag=tolees-21'
 descuento: '29.24'
+average: '124.99'
 ---
 
 Ahora mismo tienes [Crucial CT204864BD160B - Memoria RAM de 16 GB  DDR3L  1600 MT/s  PC3L-12800  DIMM  240-Pin ](https://www.amazon.es/dp/B0123BR5GA/?tag=tolees-21) a 124.99 EUR (original: 176.65 EUR) (29.24 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HTPQGRE/?tag=tolees-21'
 descuento: '58.89'
+average: '26.89'
 ---
 
 Está [adidas Element Refresh  Zapatillas de Running para Mujer  Gris Ch Solid Grey/Ice Yellow  38 EU](https://www.amazon.es/dp/B01HTPQGRE/?tag=tolees-21) con 58.89 de descuento por 26.89 EUR (original: 65.41 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071JRMZBV/?tag=tolees-21'
 descuento: '66.41'
+average: '20.15'
 ---
 
 Ahora mismo tienes [Fallout 4 VR](https://www.amazon.es/dp/B071JRMZBV/?tag=tolees-21) a 20.15 EUR (original: 59.99 EUR) (66.41 %  de descuento) en el siguiente enlace!

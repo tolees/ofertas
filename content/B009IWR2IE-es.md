@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B009IWR2IE/?tag=tolees-21'
 descuento: '28.35'
+average: '347.48'
 ---
 
 Ahora mismo tienes [DeWalt DCF880M2-QW Llave Impacto XR 18V 1/2" 203Nm con 2 baterías Li-Ion 4  9 W  18 V  Negro  Amarillo](https://www.amazon.es/dp/B009IWR2IE/?tag=tolees-21) a 347.48 EUR (original: 484.95 EUR) (28.35 %  de descuento) en el siguiente enlace!

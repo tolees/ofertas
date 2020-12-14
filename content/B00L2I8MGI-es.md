@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00L2I8MGI/?tag=tolees-21'
 descuento: '47.11'
+average: '6.95'
 ---
 
 Está [Xylazel M93822 - Aceite teca 750 ml teca](https://www.amazon.es/dp/B00L2I8MGI/?tag=tolees-21) con 47.11 de descuento por 6.95 EUR (original: 13.14 EUR) en el siguiente enlace!

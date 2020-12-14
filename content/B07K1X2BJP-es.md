@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K1X2BJP/?tag=tolees-21'
 descuento: '30.00'
+average: '69.99'
 ---
 
 Está [Compresor de aire portátil URCERI 12V función doble  150PSI  Inflador y desinflador  con manómetro para neumáticos  batería desmontable  cojines de aire y colchones de aire  con 3 boquillas](https://www.amazon.es/dp/B07K1X2BJP/?tag=tolees-21) con 30.00 de descuento por 69.99 EUR (original: 99.99 EUR) en el siguiente enlace!

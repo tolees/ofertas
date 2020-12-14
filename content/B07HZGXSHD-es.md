@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HZGXSHD/?tag=tolees-21'
 descuento: '54.00'
+average: '13.5'
 ---
 
 Está [Pack: Sicario 1 + Sicario 2 [Blu-ray]](https://www.amazon.es/dp/B07HZGXSHD/?tag=tolees-21) con 54.00 de descuento por 13.5 EUR (original: 29.35 EUR) en el siguiente enlace!

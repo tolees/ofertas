@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IPPU9QQ/?tag=tolees-21'
 descuento: '46.29'
+average: '25.85'
 ---
 
 Está [adidas X PLR J 579  Zapatillas Unisex Adulto   Red Bb2579   36 EU](https://www.amazon.es/dp/B01IPPU9QQ/?tag=tolees-21) con 46.29 de descuento por 25.85 EUR (original: 48.13 EUR) en el siguiente enlace!

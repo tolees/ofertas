@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C81MB3T/?tag=tolees-21'
 descuento: '27.97'
+average: '20.81'
 ---
 
 Está [Inside Sjm02sm  Pantalones Mujer  Azul  Blue 20   W24/L31  Talla del Fabricante: 34 ](https://www.amazon.es/dp/B07C81MB3T/?tag=tolees-21) con 27.97 de descuento por 20.81 EUR (original: 28.89 EUR) en el siguiente enlace!

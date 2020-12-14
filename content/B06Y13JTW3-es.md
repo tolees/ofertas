@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y13JTW3/?tag=tolees-21'
 descuento: '29.90'
+average: '27.9'
 ---
 
 Está [Té Matcha Orgánico Vegavero® ORIGINAL Japonés: de Aichi y Kagoshima | 200g | Rico en L Teanina  Cafeína y Antioxidantes | Energía + Bienestar + Concentración + Detox | Sin Aditivos](https://www.amazon.es/dp/B06Y13JTW3/?tag=tolees-21) con 29.90 de descuento por 27.9 EUR (original: 39.8 EUR) en el siguiente enlace!

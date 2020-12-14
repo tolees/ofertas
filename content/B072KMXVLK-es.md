@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072KMXVLK/?tag=tolees-21'
 descuento: '75.93'
+average: '31.28'
 ---
 
 Tienes [adidas EQT Racing ADV W  Zapatillas de Deporte para Mujer   Tinley/Petnoc/Ftwbla   39 1/3 EU](https://www.amazon.es/dp/B072KMXVLK/?tag=tolees-21) con un 75.93 % de descuento con precio de oferta de 31.28 EUR (original: 129.95 EUR) en el siguiente enlace!

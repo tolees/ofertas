@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NJ6HTX5/?tag=tolees-21'
 descuento: '42.04'
+average: '30.4'
 ---
 
 Tienes [CASIO Reloj Digital para Hombre de Cuarzo con Correa en Resina WS-2000H-1AVEF](https://www.amazon.es/dp/B07NJ6HTX5/?tag=tolees-21) con un 42.04 % de descuento con precio de oferta de 30.4 EUR (original: 52.45 EUR) en el siguiente enlace!

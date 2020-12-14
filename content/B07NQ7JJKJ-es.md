@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NQ7JJKJ/?tag=tolees-21'
 descuento: '67.01'
+average: '32.99'
 ---
 
 Ahora mismo tienes [Feob Pulsera Actividad Inteligente  Reloj Inteligente Podómetro Hombre Mujer con Pulsómetro y Presión Arterial GPS Smartwatch Impermeable IP67 Pulsera Actividad Monitor de Ritmo Cardíaco RelojFitness](https://www.amazon.es/dp/B07NQ7JJKJ/?tag=tolees-21) a 32.99 EUR (original: 100 EUR) (67.01 %  de descuento) en el siguiente enlace!

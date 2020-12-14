@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M0LB7NO/?tag=tolees-21'
 descuento: '66.72'
+average: '124.81'
 ---
 
 Ahora mismo tienes [Maclaren Ace Silla de paseo - super ligera  compacta](https://www.amazon.es/dp/B01M0LB7NO/?tag=tolees-21) a 124.81 EUR (original: 375 EUR) (66.72 %  de descuento) en el siguiente enlace!

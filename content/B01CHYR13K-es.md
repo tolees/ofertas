@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01CHYR13K/?tag=tolees-21'
 descuento: '34.03'
+average: '40.87'
 ---
 
 Ahora mismo tienes [Arcama DN05 Escalera domestica  GRIS PLATA  5 peldaños](https://www.amazon.es/dp/B01CHYR13K/?tag=tolees-21) a 40.87 EUR (original: 61.95 EUR) (34.03 %  de descuento) en el siguiente enlace!

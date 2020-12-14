@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01K6R4EEY/?tag=tolees-21'
 descuento: '66.67'
+average: '13.99'
 ---
 
 Ahora mismo tienes [SPTA  diámetro 180 mm  Boina de pulir de lana de cordero adhesivo Juego de almohadillas de pulido Funda pulidora de lana autoadherente para coche Máquina Pulidora Limpieza](https://www.amazon.es/dp/B01K6R4EEY/?tag=tolees-21) a 13.99 EUR (original: 41.97 EUR) (66.67 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GZDPDQ6/?tag=tolees-21'
 descuento: '43.38'
+average: '169.86'
 ---
 
 Está [Proyector  WiMiUS Video Proyector 4200 Lúmenes Soporta Full HD 1080P Proyector LED 55000 Horas Proyector HD con 200" Pantalla  Proyector Cine en casa con el Interfaz HDMI/ USB/ VGA/ AV -Blancho](https://www.amazon.es/dp/B07GZDPDQ6/?tag=tolees-21) con 43.38 de descuento por 169.86 EUR (original: 299.99 EUR) en el siguiente enlace!

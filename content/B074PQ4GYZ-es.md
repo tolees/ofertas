@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074PQ4GYZ/?tag=tolees-21'
 descuento: '44.01'
+average: '27.99'
 ---
 
 Tienes [SGILE Robot Juguete Control Remoto para Niños  Juguete Control Remoto con La Tecnología de Sensores de Movimiento y Equilibrio](https://www.amazon.es/dp/B074PQ4GYZ/?tag=tolees-21) con un 44.01 % de descuento con precio de oferta de 27.99 EUR (original: 49.99 EUR) en el siguiente enlace!

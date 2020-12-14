@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M0HRW4Y/?tag=tolees-21'
 descuento: '67.04'
+average: '10.67'
 ---
 
 Ahora mismo tienes [Salter 1052 BKDR plástico  Negro](https://www.amazon.es/dp/B01M0HRW4Y/?tag=tolees-21) a 10.67 EUR (original: 32.37 EUR) (67.04 %  de descuento) en el siguiente enlace!

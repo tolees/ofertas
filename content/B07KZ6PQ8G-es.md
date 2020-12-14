@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KZ6PQ8G/?tag=tolees-21'
 descuento: '47.27'
+average: '31.63'
 ---
 
 Tienes [Cortefiel C1Bcc Canutillo Coolmax Pantalones Deportivos  Dorado  Gama Tostados 54   Tamaño del Fabricante:48 para Hombre](https://www.amazon.es/dp/B07KZ6PQ8G/?tag=tolees-21) con un 47.27 % de descuento con precio de oferta de 31.63 EUR (original: 59.99 EUR) en el siguiente enlace!

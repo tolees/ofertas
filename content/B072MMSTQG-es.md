@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072MMSTQG/?tag=tolees-21'
 descuento: '45.91'
+average: '85.99'
 ---
 
 Tienes [Chaussures Salming Viper 4](https://www.amazon.es/dp/B072MMSTQG/?tag=tolees-21) con un 45.91 % de descuento con precio de oferta de 85.99 EUR (original: 158.99 EUR) en el siguiente enlace!

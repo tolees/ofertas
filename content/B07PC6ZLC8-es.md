@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PC6ZLC8/?tag=tolees-21'
 descuento: '47.98'
+average: '6.71'
 ---
 
 Tienes [Dove Dermaspa Loción Coporal Night - Pack de 3 x 200ml  Total 600ml ](https://www.amazon.es/dp/B07PC6ZLC8/?tag=tolees-21) con un 47.98 % de descuento con precio de oferta de 6.71 EUR (original: 12.9 EUR) en el siguiente enlace!

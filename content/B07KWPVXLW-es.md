@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KWPVXLW/?tag=tolees-21'
 descuento: '54.60'
+average: '31.78'
 ---
 
 Está [Helly Hansen Tokyo Hoodie  Hombre  Graphite Blue  2XL](https://www.amazon.es/dp/B07KWPVXLW/?tag=tolees-21) con 54.60 de descuento por 31.78 EUR (original: 70 EUR) en el siguiente enlace!

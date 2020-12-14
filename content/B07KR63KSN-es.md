@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KR63KSN/?tag=tolees-21'
 descuento: '27.75'
+average: '36.12'
 ---
 
 Está [Tom Tailor Casual Essential Chino Solid Pantalones  Marrón  Chinchilla 11018   33/32 para Hombre](https://www.amazon.es/dp/B07KR63KSN/?tag=tolees-21) con 27.75 de descuento por 36.12 EUR (original: 49.99 EUR) en el siguiente enlace!

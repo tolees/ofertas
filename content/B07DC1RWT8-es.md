@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC1RWT8/?tag=tolees-21'
 descuento: '31.59'
+average: '44.43'
 ---
 
 Está [Puma Vista  Zapatillas de Deporte Unisex Adulto  Verde  Olivine White-ELM   43 EU](https://www.amazon.es/dp/B07DC1RWT8/?tag=tolees-21) con 31.59 de descuento por 44.43 EUR (original: 64.95 EUR) en el siguiente enlace!

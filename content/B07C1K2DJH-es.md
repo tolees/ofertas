@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C1K2DJH/?tag=tolees-21'
 descuento: '61.26'
+average: '7.38'
 ---
 
 Está [PRODG Samoa-Carpeta Anillas](https://www.amazon.es/dp/B07C1K2DJH/?tag=tolees-21) con 61.26 de descuento por 7.38 EUR (original: 19.05 EUR) en el siguiente enlace!

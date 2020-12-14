@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B008SBGSGI/?tag=tolees-21'
 descuento: '50.54'
+average: '27.6'
 ---
 
 Ahora mismo tienes [Balenciaga Florabotanica Eau de Parfum - 30 ml](https://www.amazon.es/dp/B008SBGSGI/?tag=tolees-21) a 27.6 EUR (original: 55.8 EUR) (50.54 %  de descuento) en el siguiente enlace!

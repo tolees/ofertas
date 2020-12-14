@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RWMV8FV/?tag=tolees-21'
 descuento: '35.58'
+average: '18.99'
 ---
 
 Tienes [NIVEA SUN Spray Solar Niños FP50 + Protege & Hidrata Spray Solar FP50](https://www.amazon.es/dp/B07RWMV8FV/?tag=tolees-21) con un 35.58 % de descuento con precio de oferta de 18.99 EUR (original: 29.48 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07742DJMY/?tag=tolees-21'
 descuento: '50.05'
+average: '49.95'
 ---
 
 Ahora mismo tienes [Under Armour Speedform Intake 2  Zapatillas de Running para Mujer  Blanco  Ivory/Ghost Gray/Metallic Faded Gold   40 EU](https://www.amazon.es/dp/B07742DJMY/?tag=tolees-21) a 49.95 EUR (original: 100 EUR) (50.05 %  de descuento) en el siguiente enlace!

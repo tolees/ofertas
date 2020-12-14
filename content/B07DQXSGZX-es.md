@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DQXSGZX/?tag=tolees-21'
 descuento: '35.38'
+average: '25.84'
 ---
 
 Está [MTNG Attitude 84091  Zapatillas para Hombre   Vertigo Jakmesh Negro C42701   42 EU](https://www.amazon.es/dp/B07DQXSGZX/?tag=tolees-21) con 35.38 de descuento por 25.84 EUR (original: 39.99 EUR) en el siguiente enlace!

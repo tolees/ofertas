@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FPNJK2N/?tag=tolees-21'
 descuento: '65.59'
+average: '10.32'
 ---
 
 Tienes [JACK & JONES Jcostanford Knit Crew Neck Camp  suéter para Hombre  Verde Rosin  Small](https://www.amazon.es/dp/B07FPNJK2N/?tag=tolees-21) con un 65.59 % de descuento con precio de oferta de 10.32 EUR (original: 29.99 EUR) en el siguiente enlace!

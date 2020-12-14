@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ5DBLT/?tag=tolees-21'
 descuento: '45.87'
+average: '32.45'
 ---
 
 Tienes [Puma 365 FF 3 CT  Zapatillas de Fútbol para Hombre  Negro Black 02  44 EU](https://www.amazon.es/dp/B07CZ5DBLT/?tag=tolees-21) con un 45.87 % de descuento con precio de oferta de 32.45 EUR (original: 59.95 EUR) en el siguiente enlace!

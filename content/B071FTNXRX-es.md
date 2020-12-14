@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071FTNXRX/?tag=tolees-21'
 descuento: '52.37'
+average: '33.32'
 ---
 
 Ahora mismo tienes [Reebok Hexaffect Run 5.0  Zapatillas de Running para Hombre  Azul  Collegiate Navy/White / Pewter   44 EU](https://www.amazon.es/dp/B071FTNXRX/?tag=tolees-21) a 33.32 EUR (original: 69.95 EUR) (52.37 %  de descuento) en el siguiente enlace!

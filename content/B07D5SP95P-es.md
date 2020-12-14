@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D5SP95P/?tag=tolees-21'
 descuento: '34.58'
+average: '7.85'
 ---
 
 Ahora mismo tienes [Lookdoré IB+Energy Gel Crema - Vitamina C Facial y Antioxidante - Crema Hidratante con Protección Solar SPF 20 - Prevención de arrugas - 50ml](https://www.amazon.es/dp/B07D5SP95P/?tag=tolees-21) a 7.85 EUR (original: 12 EUR) (34.58 %  de descuento) en el siguiente enlace!

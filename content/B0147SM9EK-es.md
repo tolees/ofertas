@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0147SM9EK/?tag=tolees-21'
 descuento: '61.70'
+average: '45.96'
 ---
 
 Tienes [Nike Free Run  Zapatillas de Running para Hombre  Blanco  White/Black   40.5 EU](https://www.amazon.es/dp/B0147SM9EK/?tag=tolees-21) con un 61.70 % de descuento con precio de oferta de 45.96 EUR (original: 120 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0081SVJ9E/?tag=tolees-21'
 descuento: '38.19'
+average: '12.3'
 ---
 
 Tienes [Jata Tostador Tt331 750W  750 W  0 Decibeles  Acero Inoxidable/plastico  2 Ranuras  Color blanco](https://www.amazon.es/dp/B0081SVJ9E/?tag=tolees-21) con un 38.19 % de descuento con precio de oferta de 12.3 EUR (original: 19.9 EUR) en el siguiente enlace!

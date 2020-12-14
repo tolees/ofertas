@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CSCVLCC/?tag=tolees-21'
 descuento: '54.98'
+average: '35.99'
 ---
 
 Está [Puma Ignite Flash Evoknit Wn s  Zapatillas de Running para Mujer  Negro Black 05  36 EU](https://www.amazon.es/dp/B07CSCVLCC/?tag=tolees-21) con 54.98 de descuento por 35.99 EUR (original: 79.95 EUR) en el siguiente enlace!

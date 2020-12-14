@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KRP6RKT/?tag=tolees-21'
 descuento: '55.62'
+average: '17.73'
 ---
 
 Está [Kappa Ironic  Zapatillas Unisex Adulto  Gris  Grey/White 1610   45 EU](https://www.amazon.es/dp/B07KRP6RKT/?tag=tolees-21) con 55.62 de descuento por 17.73 EUR (original: 39.95 EUR) en el siguiente enlace!

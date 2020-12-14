@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ5QH3Z/?tag=tolees-21'
 descuento: '58.74'
+average: '22.67'
 ---
 
 Tienes [Puma Turin II  Zapatillas de Deporte Unisex Adults’o  Blanco White  44.5 EU](https://www.amazon.es/dp/B07CZ5QH3Z/?tag=tolees-21) con un 58.74 % de descuento con precio de oferta de 22.67 EUR (original: 54.95 EUR) en el siguiente enlace!

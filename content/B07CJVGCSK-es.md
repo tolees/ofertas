@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CJVGCSK/?tag=tolees-21'
 descuento: '67.76'
+average: '19.02'
 ---
 
 Está [REPLAY M3661 .000.22450v  Polo Hombre  Azul  Blue 85   Small](https://www.amazon.es/dp/B07CJVGCSK/?tag=tolees-21) con 67.76 de descuento por 19.02 EUR (original: 59 EUR) en el siguiente enlace!

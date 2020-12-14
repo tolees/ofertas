@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074DWJ2DH/?tag=tolees-21'
 descuento: '57.40'
+average: '46.84'
 ---
 
 Está [Puma Ignite Limitless Knit  Zapatillas de Cross para Hombre  Blanco  Puma White/Silver   42.5 EU](https://www.amazon.es/dp/B074DWJ2DH/?tag=tolees-21) con 57.40 de descuento por 46.84 EUR (original: 109.95 EUR) en el siguiente enlace!

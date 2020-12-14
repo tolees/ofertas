@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071CMHHZV/?tag=tolees-21'
 descuento: '50.02'
+average: '14.99'
 ---
 
 Ahora mismo tienes [Esprit 997ee2i801  suéter Hombre  Verde  Dark Green 300   Large](https://www.amazon.es/dp/B071CMHHZV/?tag=tolees-21) a 14.99 EUR (original: 29.99 EUR) (50.02 %  de descuento) en el siguiente enlace!

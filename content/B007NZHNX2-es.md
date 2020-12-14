@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007NZHNX2/?tag=tolees-21'
 descuento: '33.34'
+average: '111.55'
 ---
 
 Tienes [Makita RT0700C - Fresadora eléctrica  710 Watios ](https://www.amazon.es/dp/B007NZHNX2/?tag=tolees-21) con un 33.34 % de descuento con precio de oferta de 111.55 EUR (original: 167.33 EUR) en el siguiente enlace!

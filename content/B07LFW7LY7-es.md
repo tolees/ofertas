@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LFW7LY7/?tag=tolees-21'
 descuento: '35.40'
+average: '48.45'
 ---
 
 Tienes [Pepe Jeans Tinker Zero Seal  Zapatillas para Hombre  Azul  582MIDNIGHT 582   42 EU](https://www.amazon.es/dp/B07LFW7LY7/?tag=tolees-21) con un 35.40 % de descuento con precio de oferta de 48.45 EUR (original: 75 EUR) en el siguiente enlace!

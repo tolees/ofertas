@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCFH3K1/?tag=tolees-21'
 descuento: '58.86'
+average: '28.78'
 ---
 
 Ahora mismo tienes [Puma Emergence  Zapatillas de Running para Hombre  Azul  Peacoat White   40.5 EU](https://www.amazon.es/dp/B07DCFH3K1/?tag=tolees-21) a 28.78 EUR (original: 69.95 EUR) (58.86 %  de descuento) en el siguiente enlace!

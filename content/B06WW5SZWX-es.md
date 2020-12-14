@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06WW5SZWX/?tag=tolees-21'
 descuento: '40.87'
+average: '12.95'
 ---
 
 Ahora mismo tienes [KRF Feel The Enemy 0016086 Bolsa Profesional para Fitness y musculación  Unisex Adulto  Negro  Talla Única](https://www.amazon.es/dp/B06WW5SZWX/?tag=tolees-21) a 12.95 EUR (original: 21.9 EUR) (40.87 %  de descuento) en el siguiente enlace!

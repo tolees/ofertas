@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00CP62KA0/?tag=tolees-21'
 descuento: '45.12'
+average: '583.86'
 ---
 
 Ahora mismo tienes [VIBOX Sniper Gaming PC Ordenador de sobremesa con Cupón de juego  4 2GHz Intel i5 Quad-Core Procesador  Nvidia GeForce GTX 1060 Tarjeta Grafica  8GB DDR4 RAM  120GB SSD  1TB HDD  Sin OS ](https://www.amazon.es/dp/B00CP62KA0/?tag=tolees-21) a 583.86 EUR (original: 1063.79 EUR) (45.12 %  de descuento) en el siguiente enlace!

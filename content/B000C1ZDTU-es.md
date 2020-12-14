@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000C1ZDTU/?tag=tolees-21'
 descuento: '31.13'
+average: '27.92'
 ---
 
 Está [Sarah Jessica Parker 1-24-19-02 - EDP Spray  100 ml](https://www.amazon.es/dp/B000C1ZDTU/?tag=tolees-21) con 31.13 de descuento por 27.92 EUR (original: 40.54 EUR) en el siguiente enlace!

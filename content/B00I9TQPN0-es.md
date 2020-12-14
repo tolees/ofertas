@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00I9TQPN0/?tag=tolees-21'
 descuento: '74.92'
+average: '64.97'
 ---
 
 Tienes [Fotima FTF-160 - Kit estudio flash  2 x 160 W](https://www.amazon.es/dp/B00I9TQPN0/?tag=tolees-21) con un 74.92 % de descuento con precio de oferta de 64.97 EUR (original: 259 EUR) en el siguiente enlace!

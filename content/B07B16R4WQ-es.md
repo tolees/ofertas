@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B16R4WQ/?tag=tolees-21'
 descuento: '30.59'
+average: '16.2'
 ---
 
 Tienes [NESTLÉ Papilla 8 Cereales con Cacao - Alimento para Bebés - Paquete de 6 x 600 g - Total: 3.6 kg](https://www.amazon.es/dp/B07B16R4WQ/?tag=tolees-21) con un 30.59 % de descuento con precio de oferta de 16.2 EUR (original: 23.34 EUR) en el siguiente enlace!

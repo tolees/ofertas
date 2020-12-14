@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GSPB58H/?tag=tolees-21'
 descuento: '76.68'
+average: '13.99'
 ---
 
 Ahora mismo tienes [LANGRIA Manta de Punto con Ondas y Flecos Muy Suave al Tacto Fabricada con 100% Fibra Sintética Tejido Antialérgico y Calentito para Sofá y Cama - No Pierde Color  127 x 152 cm  Rojo Burdeos ](https://www.amazon.es/dp/B07GSPB58H/?tag=tolees-21) a 13.99 EUR (original: 59.99 EUR) (76.68 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LZ6SZ49/?tag=tolees-21'
 descuento: '64.51'
+average: '23.07'
 ---
 
 Ahora mismo tienes [New Balance  Zapatillas de Entrenamiento para Mujer  Gris  Gray W460cg1   37.5 EU](https://www.amazon.es/dp/B01LZ6SZ49/?tag=tolees-21) a 23.07 EUR (original: 65 EUR) (64.51 %  de descuento) en el siguiente enlace!

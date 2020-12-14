@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GRTRWQQ/?tag=tolees-21'
 descuento: '55.56'
+average: '39.99'
 ---
 
 Está [Licuadora Portátil de Homgeek  Licuadora de Mano  Batidora de inmersión 4 en 1  con picador  batidor  tapa y tarro 220-240V  600W  negro](https://www.amazon.es/dp/B07GRTRWQQ/?tag=tolees-21) con 55.56 de descuento por 39.99 EUR (original: 89.99 EUR) en el siguiente enlace!

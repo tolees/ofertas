@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B010S5ZRTK/?tag=tolees-21'
 descuento: '68.81'
+average: '26.5'
 ---
 
 Tienes [Converse CT II Hi  Sneakers para Hombre  Gris  Thunder/White/Navy   36 EU](https://www.amazon.es/dp/B010S5ZRTK/?tag=tolees-21) con un 68.81 % de descuento con precio de oferta de 26.5 EUR (original: 84.95 EUR) en el siguiente enlace!

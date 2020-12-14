@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DS2VZW8/?tag=tolees-21'
 descuento: '46.41'
+average: '32.96'
 ---
 
 Ahora mismo tienes [Redken Champú - 1000 ml](https://www.amazon.es/dp/B01DS2VZW8/?tag=tolees-21) a 32.96 EUR (original: 61.5 EUR) (46.41 %  de descuento) en el siguiente enlace!

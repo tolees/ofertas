@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JHWZMWD/?tag=tolees-21'
 descuento: '55.06'
+average: '22.45'
 ---
 
 Está [PUMA Bold Graphic 3/4 Tight Mallas Deporte  Mujer  Negro Black/Emboss  L](https://www.amazon.es/dp/B07JHWZMWD/?tag=tolees-21) con 55.06 de descuento por 22.45 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N4BO0C6/?tag=tolees-21'
 descuento: '51.79'
+average: '210'
 ---
 
 Ahora mismo tienes [Britax Römer Advansafix III SICT  Silla de coche grupo 1/2/3 Isofix  gris  Storm Grey ](https://www.amazon.es/dp/B01N4BO0C6/?tag=tolees-21) a 210 EUR (original: 435.6 EUR) (51.79 %  de descuento) en el siguiente enlace!

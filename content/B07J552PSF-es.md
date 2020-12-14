@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J552PSF/?tag=tolees-21'
 descuento: '40.01'
+average: '44.99'
 ---
 
 Está [KEXIN 8GB Memoria USB 2.0 Pendrive 8GB Flash Drive Memory Stick para Computadoras  Tabletas y Otros Dispositivos [10 Unidades] Color de Negro](https://www.amazon.es/dp/B07J552PSF/?tag=tolees-21) con 40.01 de descuento por 44.99 EUR (original: 74.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071RM9CR8/?tag=tolees-21'
 descuento: '73.71'
+average: '26.28'
 ---
 
 Está [Puma Suede XL Lace VR  Zapatillas para Mujer  Negro Black  38 EU](https://www.amazon.es/dp/B071RM9CR8/?tag=tolees-21) con 73.71 de descuento por 26.28 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071J8JKB2/?tag=tolees-21'
 descuento: '74.34'
+average: '39.74'
 ---
 
 Tienes [Tommy Hilfiger FW0FW01530  Botas Cortas Mujer  Marrón  Coffee Bean   40 EU](https://www.amazon.es/dp/B071J8JKB2/?tag=tolees-21) con un 74.34 % de descuento con precio de oferta de 39.74 EUR (original: 154.9 EUR) en el siguiente enlace!

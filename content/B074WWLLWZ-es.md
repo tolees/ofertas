@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074WWLLWZ/?tag=tolees-21'
 descuento: '43.82'
+average: '19.5'
 ---
 
 Ahora mismo tienes [Pandora Abalorios Mujer plata - 792053CZ](https://www.amazon.es/dp/B074WWLLWZ/?tag=tolees-21) a 19.5 EUR (original: 34.71 EUR) (43.82 %  de descuento) en el siguiente enlace!

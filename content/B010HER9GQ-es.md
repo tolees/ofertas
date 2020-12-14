@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B010HER9GQ/?tag=tolees-21'
 descuento: '75.19'
+average: '44.64'
 ---
 
 Está [GORE BIKE WEAR Cubrepantalones largos para la lluvia Ciclismo  Súper Ligeros  GORE-TEX Active  LADY Pants  Talla 36  negro  PGDLEL990003](https://www.amazon.es/dp/B010HER9GQ/?tag=tolees-21) con 75.19 de descuento por 44.64 EUR (original: 179.95 EUR) en el siguiente enlace!

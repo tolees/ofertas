@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B008QUNL70/?tag=tolees-21'
 descuento: '49.97'
+average: '7.48'
 ---
 
 Tienes [Tucano BDR15-B - Maletín para portátil de 17 pugadas  Color Negro](https://www.amazon.es/dp/B008QUNL70/?tag=tolees-21) con un 49.97 % de descuento con precio de oferta de 7.48 EUR (original: 14.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00S2AYZWE/?tag=tolees-21'
 descuento: '28.39'
+average: '11.45'
 ---
 
 Ahora mismo tienes [Nike Adultos Pro 2.0 muñeca y Pulgar Vendaje  Black/White  OSFM](https://www.amazon.es/dp/B00S2AYZWE/?tag=tolees-21) a 11.45 EUR (original: 15.99 EUR) (28.39 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073RPVCQY/?tag=tolees-21'
 descuento: '46.56'
+average: '37.4'
 ---
 
 Está [RIP CURL Mirage Wilko Blocker 18" Board Bañador  Hombre  Negro/Azul  31](https://www.amazon.es/dp/B073RPVCQY/?tag=tolees-21) con 46.56 de descuento por 37.4 EUR (original: 69.99 EUR) en el siguiente enlace!

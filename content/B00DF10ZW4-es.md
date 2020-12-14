@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00DF10ZW4/?tag=tolees-21'
 descuento: '78.73'
+average: '42.32'
 ---
 
 Ahora mismo tienes [LELO Set Regalo de Bodas  Vibrador/Anillo/Venda ](https://www.amazon.es/dp/B00DF10ZW4/?tag=tolees-21) a 42.32 EUR (original: 199 EUR) (78.73 %  de descuento) en el siguiente enlace!

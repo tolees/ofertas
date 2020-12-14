@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JCQ1TQR/?tag=tolees-21'
 descuento: '45.01'
+average: '21.99'
 ---
 
 Ahora mismo tienes [COMFAST WiFi Repetidor Amplificador de WiFi 300Mbps Extensor de Red WiFi Inalámbrico  Modo Enrutador/Repetidor/Ap  2 4G  Dos Antenas  WPS  Puerto Ethernet  Versión Actualizada ](https://www.amazon.es/dp/B07JCQ1TQR/?tag=tolees-21) a 21.99 EUR (original: 39.99 EUR) (45.01 %  de descuento) en el siguiente enlace!

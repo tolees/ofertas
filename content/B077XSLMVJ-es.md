@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XSLMVJ/?tag=tolees-21'
 descuento: '45.46'
+average: '29.99'
 ---
 
 Ahora mismo tienes [Under Armour Performance Fleece Graphic Hoody Parte Superior del Calentamiento  Hombre  Negro  Black/Steel 001   L](https://www.amazon.es/dp/B077XSLMVJ/?tag=tolees-21) a 29.99 EUR (original: 54.99 EUR) (45.46 %  de descuento) en el siguiente enlace!

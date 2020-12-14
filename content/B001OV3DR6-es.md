@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001OV3DR6/?tag=tolees-21'
 descuento: '25.05'
+average: '74.95'
 ---
 
 Está [Nike - Zapatillas de deporte  Hombre  Blanco  43 EU](https://www.amazon.es/dp/B001OV3DR6/?tag=tolees-21) con 25.05 de descuento por 74.95 EUR (original: 100 EUR) en el siguiente enlace!

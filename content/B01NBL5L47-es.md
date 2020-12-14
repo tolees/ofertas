@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NBL5L47/?tag=tolees-21'
 descuento: '46.24'
+average: '16.1'
 ---
 
 Ahora mismo tienes [Kappa Trooper Light Sun  Zapatillas Unisex Niños  Negro  Black/White   30 EU](https://www.amazon.es/dp/B01NBL5L47/?tag=tolees-21) a 16.1 EUR (original: 29.95 EUR) (46.24 %  de descuento) en el siguiente enlace!

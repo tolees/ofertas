@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N5PSYBL/?tag=tolees-21'
 descuento: '29.43'
+average: '11.99'
 ---
 
 Tienes [STEPS Refugio de Supervivencia de Emergencia Mylar Tienda  Incluye 2-Pack Pulsera Supervivencia  Equipo Esencial de Supervivencia para Go-Bags  Camping  Exploración](https://www.amazon.es/dp/B01N5PSYBL/?tag=tolees-21) con un 29.43 % de descuento con precio de oferta de 11.99 EUR (original: 16.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00V4PN8U4/?tag=tolees-21'
 descuento: '29.98'
+average: '7.03'
 ---
 
 Está [Compo 1559212011 Azulador De Hortensias 800G  22x14.2x4.7 cm](https://www.amazon.es/dp/B00V4PN8U4/?tag=tolees-21) con 29.98 de descuento por 7.03 EUR (original: 10.04 EUR) en el siguiente enlace!

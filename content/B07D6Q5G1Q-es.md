@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D6Q5G1Q/?tag=tolees-21'
 descuento: '66.70'
+average: '9.99'
 ---
 
 Está [FM London Slim Fit Fleece Brushed Joggers  Pantalones Deportivos para Hombre  Negro  Black   Large](https://www.amazon.es/dp/B07D6Q5G1Q/?tag=tolees-21) con 66.70 de descuento por 9.99 EUR (original: 30 EUR) en el siguiente enlace!

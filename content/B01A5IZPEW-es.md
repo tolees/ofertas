@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01A5IZPEW/?tag=tolees-21'
 descuento: '57.44'
+average: '8.49'
 ---
 
 Tienes [Contigo Swish - Botella de Agua  Color Verde mar  500 ml](https://www.amazon.es/dp/B01A5IZPEW/?tag=tolees-21) con un 57.44 % de descuento con precio de oferta de 8.49 EUR (original: 19.95 EUR) en el siguiente enlace!

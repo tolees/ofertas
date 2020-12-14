@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074DYG3P2/?tag=tolees-21'
 descuento: '74.42'
+average: '12.01'
 ---
 
 Está [Shots - Simplicity - Masajeadores](https://www.amazon.es/dp/B074DYG3P2/?tag=tolees-21) con 74.42 de descuento por 12.01 EUR (original: 46.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FDCQ3WX/?tag=tolees-21'
 descuento: '27.30'
+average: '5.78'
 ---
 
 Está [Osram Lunetta Round Luz de Noche  0.5 W  Blanco](https://www.amazon.es/dp/B07FDCQ3WX/?tag=tolees-21) con 27.30 de descuento por 5.78 EUR (original: 7.95 EUR) en el siguiente enlace!

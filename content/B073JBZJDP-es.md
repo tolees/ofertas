@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073JBZJDP/?tag=tolees-21'
 descuento: '27.30'
+average: '5.78'
 ---
 
 Está [Philips bombilla LED esférica mate casquillo fino E14  7 W equivalentes a 60 W en incandescencia  830 lúmenes  luz blanca fría](https://www.amazon.es/dp/B073JBZJDP/?tag=tolees-21) con 27.30 de descuento por 5.78 EUR (original: 7.95 EUR) en el siguiente enlace!

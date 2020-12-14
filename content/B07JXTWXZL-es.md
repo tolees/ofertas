@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JXTWXZL/?tag=tolees-21'
 descuento: '85.69'
+average: '7.01'
 ---
 
 Está [DAM DMX190BK - Correa de Silicona para Apple Watch  42 mm  Color Negro](https://www.amazon.es/dp/B07JXTWXZL/?tag=tolees-21) con 85.69 de descuento por 7.01 EUR (original: 49 EUR) en el siguiente enlace!

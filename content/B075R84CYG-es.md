@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075R84CYG/?tag=tolees-21'
 descuento: '44.44'
+average: '50'
 ---
 
 Tienes [New Balance Country Spike  Zapatillas de Cross para Mujer  Naranja  Dragonfly/Galaxy PB   40 EU](https://www.amazon.es/dp/B075R84CYG/?tag=tolees-21) con un 44.44 % de descuento con precio de oferta de 50 EUR (original: 90 EUR) en el siguiente enlace!

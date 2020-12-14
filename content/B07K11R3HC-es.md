@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K11R3HC/?tag=tolees-21'
 descuento: '41.05'
+average: '55.97'
 ---
 
 Tienes [adidas Gazelle  Zapatillas de Gimnasia para Hombre  Gris Legend Ivy/Crystal FTWR White  46 EU](https://www.amazon.es/dp/B07K11R3HC/?tag=tolees-21) con un 41.05 % de descuento con precio de oferta de 55.97 EUR (original: 94.95 EUR) en el siguiente enlace!

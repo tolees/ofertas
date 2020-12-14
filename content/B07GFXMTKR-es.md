@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GFXMTKR/?tag=tolees-21'
 descuento: '58.38'
+average: '24.95'
 ---
 
 Está [Sombras De Guerra Definitive Edition](https://www.amazon.es/dp/B07GFXMTKR/?tag=tolees-21) con 58.38 de descuento por 24.95 EUR (original: 59.95 EUR) en el siguiente enlace!

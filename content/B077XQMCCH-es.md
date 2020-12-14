@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XQMCCH/?tag=tolees-21'
 descuento: '74.76'
+average: '11.36'
 ---
 
 Ahora mismo tienes [Under Armour SC30 MVP Pant Pantalones  Infantil  Negro Y Dorado  YS](https://www.amazon.es/dp/B077XQMCCH/?tag=tolees-21) a 11.36 EUR (original: 45 EUR) (74.76 %  de descuento) en el siguiente enlace!

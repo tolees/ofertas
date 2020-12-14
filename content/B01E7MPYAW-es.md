@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01E7MPYAW/?tag=tolees-21'
 descuento: '50.00'
+average: '5.95'
 ---
 
 Ahora mismo tienes [Lékué Espátula Smart Tool  Silicona  Azul  0 cm](https://www.amazon.es/dp/B01E7MPYAW/?tag=tolees-21) a 5.95 EUR (original: 11.9 EUR) (50.00 %  de descuento) en el siguiente enlace!

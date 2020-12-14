@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00NGWO6VS/?tag=tolees-21'
 descuento: '32.36'
+average: '80.49'
 ---
 
 Tienes [Portus Mesa Libro  Cristal Negro](https://www.amazon.es/dp/B00NGWO6VS/?tag=tolees-21) con un 32.36 % de descuento con precio de oferta de 80.49 EUR (original: 119 EUR) en el siguiente enlace!

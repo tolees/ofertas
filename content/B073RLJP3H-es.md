@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073RLJP3H/?tag=tolees-21'
 descuento: '72.77'
+average: '24.49'
 ---
 
 Está [Reebok Cl Lthr Clean Exotics  Zapatillas de Deporte para Mujer  Rosa  Sandy Rose/Chalk/Gum   35.5 EU](https://www.amazon.es/dp/B073RLJP3H/?tag=tolees-21) con 72.77 de descuento por 24.49 EUR (original: 89.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B006DWLU5S/?tag=tolees-21'
 descuento: '59.79'
+average: '28.95'
 ---
 
 Ahora mismo tienes [Superga Lamew  Zapatillas de Tela Mujer  Negro  Full Black   39 EU](https://www.amazon.es/dp/B006DWLU5S/?tag=tolees-21) a 28.95 EUR (original: 72 EUR) (59.79 %  de descuento) en el siguiente enlace!

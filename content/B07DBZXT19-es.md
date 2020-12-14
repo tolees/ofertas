@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DBZXT19/?tag=tolees-21'
 descuento: '72.59'
+average: '15.06'
 ---
 
 Ahora mismo tienes [Puma Urban Plus SD  Zapatillas Unisex Adults o  Verde Olivine  36 EU](https://www.amazon.es/dp/B07DBZXT19/?tag=tolees-21) a 15.06 EUR (original: 54.95 EUR) (72.59 %  de descuento) en el siguiente enlace!

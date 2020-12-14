@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HD6VFYI/?tag=tolees-21'
 descuento: '38.60'
+average: '79.79'
 ---
 
 Está [Salomon XA PRO 3D Zapatillas de Senderismo  Hombre  Verde  Chive/Black/Beluga Chive   40 EU](https://www.amazon.es/dp/B01HD6VFYI/?tag=tolees-21) con 38.60 de descuento por 79.79 EUR (original: 129.95 EUR) en el siguiente enlace!

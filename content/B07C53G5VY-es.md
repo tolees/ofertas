@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C53G5VY/?tag=tolees-21'
 descuento: '69.78'
+average: '14.53'
 ---
 
 Ahora mismo tienes [San Ignacio Cazo Apta para Inducción  Rosa  0](https://www.amazon.es/dp/B07C53G5VY/?tag=tolees-21) a 14.53 EUR (original: 48.08 EUR) (69.78 %  de descuento) en el siguiente enlace!

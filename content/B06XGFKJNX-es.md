@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XGFKJNX/?tag=tolees-21'
 descuento: '30.00'
+average: '28'
 ---
 
 Tienes [FIND Zapatillas estilo Basket para Hombre  Azul  Navy   44 EU](https://www.amazon.es/dp/B06XGFKJNX/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 28 EUR (original: 40 EUR) en el siguiente enlace!

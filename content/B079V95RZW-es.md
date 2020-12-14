@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079V95RZW/?tag=tolees-21'
 descuento: '60.11'
+average: '42.55'
 ---
 
 Tienes [Festina Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Nailon F20347/1](https://www.amazon.es/dp/B079V95RZW/?tag=tolees-21) con un 60.11 % de descuento con precio de oferta de 42.55 EUR (original: 106.66 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DJ4F70Q/?tag=tolees-21'
 descuento: '72.85'
+average: '29.87'
 ---
 
 Tienes [Clarks Breccan Myth  Botas Camperas para Mujer  Marrón  Tan Suede   40 EU](https://www.amazon.es/dp/B01DJ4F70Q/?tag=tolees-21) con un 72.85 % de descuento con precio de oferta de 29.87 EUR (original: 110 EUR) en el siguiente enlace!

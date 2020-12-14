@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00BQTXKQA/?tag=tolees-21'
 descuento: '26.40'
+average: '4.99'
 ---
 
 Tienes [Wenko Adria Cesta  Polipropileno  Negro  14x19x9 cm](https://www.amazon.es/dp/B00BQTXKQA/?tag=tolees-21) con un 26.40 % de descuento con precio de oferta de 4.99 EUR (original: 6.78 EUR) en el siguiente enlace!

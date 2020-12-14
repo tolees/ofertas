@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073RJPSJM/?tag=tolees-21'
 descuento: '50.01'
+average: '27.47'
 ---
 
 Está [Reebok Royal EC Ride  Zapatillas para Hombre  Negro  Black/White/Flint Grey   44.5 EU](https://www.amazon.es/dp/B073RJPSJM/?tag=tolees-21) con 50.01 de descuento por 27.47 EUR (original: 54.95 EUR) en el siguiente enlace!

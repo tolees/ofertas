@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KRW9DWV/?tag=tolees-21'
 descuento: '60.11'
+average: '19.94'
 ---
 
 Está [Columbia Triple Canyon Polo técnico  Hombre  Verde  Cypress   L](https://www.amazon.es/dp/B07KRW9DWV/?tag=tolees-21) con 60.11 de descuento por 19.94 EUR (original: 49.99 EUR) en el siguiente enlace!

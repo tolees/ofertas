@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F4J7BM8/?tag=tolees-21'
 descuento: '65.38'
+average: '10.37'
 ---
 
 Ahora mismo tienes [Puma ESS Logo Sweat FL Cl B Chándal  Niños  Peacoat  140](https://www.amazon.es/dp/B07F4J7BM8/?tag=tolees-21) a 10.37 EUR (original: 29.95 EUR) (65.38 %  de descuento) en el siguiente enlace!

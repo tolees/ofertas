@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JDFY9L2/?tag=tolees-21'
 descuento: '49.74'
+average: '12.79'
 ---
 
 Tienes [Coopts Coopts - Funda Universal para iPad Mini 4 3 2 1  Resistente a los Impactos  con función Atril y función Atril para Tableta Apple de 7 9 Pulgadas  #05 Pink Pony](https://www.amazon.es/dp/B07JDFY9L2/?tag=tolees-21) con un 49.74 % de descuento con precio de oferta de 12.79 EUR (original: 25.45 EUR) en el siguiente enlace!

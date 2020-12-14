@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NBJXX8S/?tag=tolees-21'
 descuento: '54.55'
+average: '36.36'
 ---
 
 Tienes [Under Armour UA W Micro G Fuel RN  Zapatillas de Entrenamiento para Mujer  Rosa  Penta Pink   38 EU](https://www.amazon.es/dp/B01NBJXX8S/?tag=tolees-21) con un 54.55 % de descuento con precio de oferta de 36.36 EUR (original: 80 EUR) en el siguiente enlace!

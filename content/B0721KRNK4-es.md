@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0721KRNK4/?tag=tolees-21'
 descuento: '58.44'
+average: '26.99'
 ---
 
 Ahora mismo tienes [Skechers Flex Appeal 2.0-Insights  Zapatillas sin Cordones para Mujer  Rosa  Rose   36 EU](https://www.amazon.es/dp/B0721KRNK4/?tag=tolees-21) a 26.99 EUR (original: 64.95 EUR) (58.44 %  de descuento) en el siguiente enlace!

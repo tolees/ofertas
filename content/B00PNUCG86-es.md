@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00PNUCG86/?tag=tolees-21'
 descuento: '35.27'
+average: '9.03'
 ---
 
 Ahora mismo tienes [Gardena 18301-20 Pistola  Gris  Naranja  embalado](https://www.amazon.es/dp/B00PNUCG86/?tag=tolees-21) a 9.03 EUR (original: 13.95 EUR) (35.27 %  de descuento) en el siguiente enlace!

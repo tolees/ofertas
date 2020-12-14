@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HGZG9KX/?tag=tolees-21'
 descuento: '81.89'
+average: '1.99'
 ---
 
 Está [Auriculares Bluetooth multifunción S530X Bluetooth 4.1  1Pcs Negro ](https://www.amazon.es/dp/B07HGZG9KX/?tag=tolees-21) con 81.89 de descuento por 1.99 EUR (original: 10.99 EUR) en el siguiente enlace!

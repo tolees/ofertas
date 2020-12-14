@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BF81WWK/?tag=tolees-21'
 descuento: '46.93'
+average: '12.71'
 ---
 
 Está [Berghoff 3700119 Sartén Red 20 cm](https://www.amazon.es/dp/B01BF81WWK/?tag=tolees-21) con 46.93 de descuento por 12.71 EUR (original: 23.95 EUR) en el siguiente enlace!

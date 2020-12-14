@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074N1KJ9D/?tag=tolees-21'
 descuento: '91.32'
+average: '3.99'
 ---
 
 Tienes [Marsno M1 Metal con Cable en Auriculares Auriculares de Aislamiento de Ruido con Bajo Estéreo con Micrófono y Control remoto Proporcionan Sonido Estéreo y Cristalino Gris ](https://www.amazon.es/dp/B074N1KJ9D/?tag=tolees-21) con un 91.32 % de descuento con precio de oferta de 3.99 EUR (original: 45.99 EUR) en el siguiente enlace!

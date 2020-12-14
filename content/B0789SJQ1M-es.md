@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0789SJQ1M/?tag=tolees-21'
 descuento: '55.94'
+average: '39.65'
 ---
 
 Está [Nike Hypervenom 3 Academy DF FG  Zapatillas Unisex Adulto   Lt Crimson/Mtlc Dark Wolf Grey 001   44.5 EU](https://www.amazon.es/dp/B0789SJQ1M/?tag=tolees-21) con 55.94 de descuento por 39.65 EUR (original: 90 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FTKQ8WD/?tag=tolees-21'
 descuento: '49.99'
+average: '19.98'
 ---
 
 Tienes [Lee Pique Polo  Verde  Faded Green Lf   2XL para Hombre](https://www.amazon.es/dp/B07FTKQ8WD/?tag=tolees-21) con un 49.99 % de descuento con precio de oferta de 19.98 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N0ILE65/?tag=tolees-21'
 descuento: '55.51'
+average: '35.57'
 ---
 
 Tienes [Puma Suede Classic+  Zapatillas Unisex Adulto  Turquesa  Navigate White-Gold 18   42 EU](https://www.amazon.es/dp/B01N0ILE65/?tag=tolees-21) con un 55.51 % de descuento con precio de oferta de 35.57 EUR (original: 79.95 EUR) en el siguiente enlace!

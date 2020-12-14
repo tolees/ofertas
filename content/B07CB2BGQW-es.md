@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CB2BGQW/?tag=tolees-21'
 descuento: '69.07'
+average: '39.9'
 ---
 
 Tienes [Vital Home - BATERÍA DE Cocina 8PZAS Acero INOX Premium BENDORF](https://www.amazon.es/dp/B07CB2BGQW/?tag=tolees-21) con un 69.07 % de descuento con precio de oferta de 39.9 EUR (original: 129 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XRCFQS7/?tag=tolees-21'
 descuento: '65.82'
+average: '9.99'
 ---
 
 Está [GGMM Auriculares In-Ear  Sonido Estéreo Auriculares con Microfono  Diseño Ergonómico Cómodo para iPhone  Huawei  XiaoMi y MP3 -Vino Rojo](https://www.amazon.es/dp/B06XRCFQS7/?tag=tolees-21) con 65.82 de descuento por 9.99 EUR (original: 29.23 EUR) en el siguiente enlace!

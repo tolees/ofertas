@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078MBF6JV/?tag=tolees-21'
 descuento: '70.02'
+average: '8.99'
 ---
 
 Tienes [SUPORE Correa de Reloj para Garmin Fenix 5S  Correa de Banda de Reloj de Repuesto de Silicona Suave para Garmin Fenix 5S Multisport GPS Smart Watch  Ajuste 5.31"-8.46"   NO Sirve Fenix 5 5X ](https://www.amazon.es/dp/B078MBF6JV/?tag=tolees-21) con un 70.02 % de descuento con precio de oferta de 8.99 EUR (original: 29.99 EUR) en el siguiente enlace!

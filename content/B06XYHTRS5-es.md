@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XYHTRS5/?tag=tolees-21'
 descuento: '96.67'
+average: '9.99'
 ---
 
 Ahora mismo tienes [iEGrow Compatible para Teclado para iPad Pro 9.7 con Bluetooth  7 Colores LED Retroiluminada  Clamshell Delgada conRotación Multi-ángulo Silver  Español ](https://www.amazon.es/dp/B06XYHTRS5/?tag=tolees-21) a 9.99 EUR (original: 299.99 EUR) (96.67 %  de descuento) en el siguiente enlace!

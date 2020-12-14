@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0166HPKKU/?tag=tolees-21'
 descuento: '40.68'
+average: '88.95'
 ---
 
 Está [G-STAR RAW Type C 3D Skinny  Jeans  Azul  lt aged D004-424   35W / 36L para Hombre](https://www.amazon.es/dp/B0166HPKKU/?tag=tolees-21) con 40.68 de descuento por 88.95 EUR (original: 149.95 EUR) en el siguiente enlace!

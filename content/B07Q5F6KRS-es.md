@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07Q5F6KRS/?tag=tolees-21'
 descuento: '45.00'
+average: '109.99'
 ---
 
 Tienes [DlandHome L Escritorio de la computadora 150cm + 150cm  Ordenador Portátil para PC Estación de Trabajo de Estudio Mesa de Esquina con CPU Stand  Roble & Negro](https://www.amazon.es/dp/B07Q5F6KRS/?tag=tolees-21) con un 45.00 % de descuento con precio de oferta de 109.99 EUR (original: 199.99 EUR) en el siguiente enlace!

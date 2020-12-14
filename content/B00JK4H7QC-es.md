@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00JK4H7QC/?tag=tolees-21'
 descuento: '34.26'
+average: '20.95'
 ---
 
 Ahora mismo tienes [Spalding Sporttasche Tube Sportbag - Bolsa para material de baloncesto  medio   color rojo  talla M](https://www.amazon.es/dp/B00JK4H7QC/?tag=tolees-21) a 20.95 EUR (original: 31.87 EUR) (34.26 %  de descuento) en el siguiente enlace!

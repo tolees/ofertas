@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQ1H6N9/?tag=tolees-21'
 descuento: '50.03'
+average: '18.99'
 ---
 
 Ahora mismo tienes [FITTOO Pantalones De Yoga Sueltos Cintura Alta Mujer Pantalones Largos Deportivos Suaves y Cómodos1080#4 Negro M](https://www.amazon.es/dp/B07FQ1H6N9/?tag=tolees-21) a 18.99 EUR (original: 38 EUR) (50.03 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ47LJG/?tag=tolees-21'
 descuento: '49.96'
+average: '19.99'
 ---
 
 Tienes [Puma One 4 Syn AG Jr  Zapatillas de Fútbol Unisex Niños  Plateado Silver-Shocking Orange Black 01  32 EU](https://www.amazon.es/dp/B07CZ47LJG/?tag=tolees-21) con un 49.96 % de descuento con precio de oferta de 19.99 EUR (original: 39.95 EUR) en el siguiente enlace!

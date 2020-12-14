@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07P9QMMPR/?tag=tolees-21'
 descuento: '42.32'
+average: '14.99'
 ---
 
 Está [Calcetines Invisibles Hombre Calcetines Cortos Bajo  Hombre Calcetines Barco de Algodón Respirable Calcetines para Deporte e Informal  5/6 Pares  Multicolor-5 Pares  EU 39-44 ](https://www.amazon.es/dp/B07P9QMMPR/?tag=tolees-21) con 42.32 de descuento por 14.99 EUR (original: 25.99 EUR) en el siguiente enlace!

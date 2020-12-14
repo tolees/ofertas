@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N3OYW0Z/?tag=tolees-21'
 descuento: '57.88'
+average: '21.04'
 ---
 
 Está [Puma Flexracer  Zapatillas Unisex Adulto  Rosa  Knockout Pink White 24   37 EU](https://www.amazon.es/dp/B01N3OYW0Z/?tag=tolees-21) con 57.88 de descuento por 21.04 EUR (original: 49.95 EUR) en el siguiente enlace!

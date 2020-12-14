@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D7RY87N/?tag=tolees-21'
 descuento: '71.18'
+average: '13.53'
 ---
 
 Ahora mismo tienes [Gioseppo 46702-P  Zapatillas para Niñas  Negro  31 EU](https://www.amazon.es/dp/B07D7RY87N/?tag=tolees-21) a 13.53 EUR (original: 46.95 EUR) (71.18 %  de descuento) en el siguiente enlace!

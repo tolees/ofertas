@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MQNGD18/?tag=tolees-21'
 descuento: '28.00'
+average: '39.6'
 ---
 
 Está [Under Armour Ua Thrill 3 Zapatillas de Running Hombre  Negro  Black 001   41 EU  7 UK ](https://www.amazon.es/dp/B01MQNGD18/?tag=tolees-21) con 28.00 de descuento por 39.6 EUR (original: 55 EUR) en el siguiente enlace!

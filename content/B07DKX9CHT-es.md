@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DKX9CHT/?tag=tolees-21'
 descuento: '79.11'
+average: '31.34'
 ---
 
 Está [Sebago Docksides Nbk W  Náuticos para Mujer  Marrón  Brown Taupe 910   35.5 EU](https://www.amazon.es/dp/B07DKX9CHT/?tag=tolees-21) con 79.11 de descuento por 31.34 EUR (original: 150 EUR) en el siguiente enlace!

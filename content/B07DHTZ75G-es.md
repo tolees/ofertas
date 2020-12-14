@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHTZ75G/?tag=tolees-21'
 descuento: '51.86'
+average: '31.77'
 ---
 
 Está [Quiksilver Shadow Marin Sweater  Hombre  Dark Grey Heather  M](https://www.amazon.es/dp/B07DHTZ75G/?tag=tolees-21) con 51.86 de descuento por 31.77 EUR (original: 65.99 EUR) en el siguiente enlace!

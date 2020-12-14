@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DQQQ2ZB/?tag=tolees-21'
 descuento: '41.67'
+average: '69.99'
 ---
 
 Tienes [Cortabordes  28V TECCPO 2.0Ah Cortabordes Eléctrico  Diámetro de Corte Ajustable 280mm-330mm  Sistema de Liberación de Línea Automática  La Cabeza Gira 90 °  Mango Expande y Contrae - TDLT01G](https://www.amazon.es/dp/B07DQQQ2ZB/?tag=tolees-21) con un 41.67 % de descuento con precio de oferta de 69.99 EUR (original: 119.99 EUR) en el siguiente enlace!

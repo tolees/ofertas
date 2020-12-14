@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D85R5SV/?tag=tolees-21'
 descuento: '27.07'
+average: '102.1'
 ---
 
 Está [Nike Air Zoom Vomero 13  Zapatillas de Running para Hombre  Gris  Thunder Grey/Hot Punch-Geode Teal-White 008   42 EU](https://www.amazon.es/dp/B07D85R5SV/?tag=tolees-21) con 27.07 de descuento por 102.1 EUR (original: 140 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007TS6I4S/?tag=tolees-21'
 descuento: '29.10'
+average: '31.97'
 ---
 
 Ahora mismo tienes [Arcos 604400 - Sacacorchos  caja ](https://www.amazon.es/dp/B007TS6I4S/?tag=tolees-21) a 31.97 EUR (original: 45.09 EUR) (29.10 %  de descuento) en el siguiente enlace!

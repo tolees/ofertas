@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FPVQGR2/?tag=tolees-21'
 descuento: '55.87'
+average: '26.48'
 ---
 
 Tienes [Nike Wmns Downshifter 8  Zapatillas de Running para Mujer  Azul  Deep Jungle/Anthracite/Aviator Grey 302   36.5 EU](https://www.amazon.es/dp/B07FPVQGR2/?tag=tolees-21) con un 55.87 % de descuento con precio de oferta de 26.48 EUR (original: 60 EUR) en el siguiente enlace!

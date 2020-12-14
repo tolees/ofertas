@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B015KEBDRE/?tag=tolees-21'
 descuento: '67.85'
+average: '44.99'
 ---
 
 Tienes [Trixie Piscina para Perros  ø 160×30 cm  Azul Oscuro-Azul](https://www.amazon.es/dp/B015KEBDRE/?tag=tolees-21) con un 67.85 % de descuento con precio de oferta de 44.99 EUR (original: 139.95 EUR) en el siguiente enlace!

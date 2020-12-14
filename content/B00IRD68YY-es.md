@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IRD68YY/?tag=tolees-21'
 descuento: '53.36'
+average: '13.9'
 ---
 
 Ahora mismo tienes [Shiseido 57095 - Cuidado capilar  150 ml](https://www.amazon.es/dp/B00IRD68YY/?tag=tolees-21) a 13.9 EUR (original: 29.8 EUR) (53.36 %  de descuento) en el siguiente enlace!

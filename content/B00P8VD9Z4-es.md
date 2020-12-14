@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00P8VD9Z4/?tag=tolees-21'
 descuento: '60.10'
+average: '39.9'
 ---
 
 Tienes [Karmin KM4000P - Plancha de pelo profesional  de titanio  color rosa](https://www.amazon.es/dp/B00P8VD9Z4/?tag=tolees-21) con un 60.10 % de descuento con precio de oferta de 39.9 EUR (original: 99.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00W3RCP1U/?tag=tolees-21'
 descuento: '59.19'
+average: '2.42'
 ---
 
 Está [NUTRICIA Almirón advance papilla de cereales sin gluten 500g](https://www.amazon.es/dp/B00W3RCP1U/?tag=tolees-21) con 59.19 de descuento por 2.42 EUR (original: 5.93 EUR) en el siguiente enlace!

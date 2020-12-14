@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00OE0WLN6/?tag=tolees-21'
 descuento: '72.78'
+average: '3.95'
 ---
 
 Tienes [My Other Me Me - Pistola pirata con parche y garfio  talla única  Viving Costumes MOM01503 ](https://www.amazon.es/dp/B00OE0WLN6/?tag=tolees-21) con un 72.78 % de descuento con precio de oferta de 3.95 EUR (original: 14.51 EUR) en el siguiente enlace!

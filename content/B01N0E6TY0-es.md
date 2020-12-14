@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N0E6TY0/?tag=tolees-21'
 descuento: '80.62'
+average: '1.89'
 ---
 
 Está [Pompadour - Hierba Luisa - Té de Plantas - 20 bolsitas - [Pack de 5]](https://www.amazon.es/dp/B01N0E6TY0/?tag=tolees-21) con 80.62 de descuento por 1.89 EUR (original: 9.75 EUR) en el siguiente enlace!

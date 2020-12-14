@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQX4M5J/?tag=tolees-21'
 descuento: '64.54'
+average: '42.55'
 ---
 
 Está [Calvin Klein Danica CK Momogram/Cow Silk  Zapatillas para Mujer  Negro  Black/Red Rock 000   39 EU](https://www.amazon.es/dp/B07FQX4M5J/?tag=tolees-21) con 64.54 de descuento por 42.55 EUR (original: 120 EUR) en el siguiente enlace!

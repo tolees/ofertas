@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N33VLQG/?tag=tolees-21'
 descuento: '48.73'
+average: '71.27'
 ---
 
 Está [Vibram FiveFingers Mid-Boot Classic Shearling  Botas Clasicas Unisex Adulto  Marrón Camel Brown  40/41 EU](https://www.amazon.es/dp/B01N33VLQG/?tag=tolees-21) con 48.73 de descuento por 71.27 EUR (original: 139 EUR) en el siguiente enlace!

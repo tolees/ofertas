@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071RTFQ2N/?tag=tolees-21'
 descuento: '62.77'
+average: '26.04'
 ---
 
 Está [Dockers by Gerli 41hl301  Botas Militar para Mujer  Gris  Grau 200   40 EU](https://www.amazon.es/dp/B071RTFQ2N/?tag=tolees-21) con 62.77 de descuento por 26.04 EUR (original: 69.95 EUR) en el siguiente enlace!

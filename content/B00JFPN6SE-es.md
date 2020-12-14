@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00JFPN6SE/?tag=tolees-21'
 descuento: '26.21'
+average: '6.25'
 ---
 
 Tienes [NOX Blister 2 Ud Muñequera  Unisex Adulto  Blanco](https://www.amazon.es/dp/B00JFPN6SE/?tag=tolees-21) con un 26.21 % de descuento con precio de oferta de 6.25 EUR (original: 8.47 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D86NC7V/?tag=tolees-21'
 descuento: '68.64'
+average: '31.36'
 ---
 
 Está [New Balance Fresh Foam Cruz v2 Sock  Zapatillas para Hombre  Gris Arctic Fox/Light Shale Lp2  47.5 EU](https://www.amazon.es/dp/B07D86NC7V/?tag=tolees-21) con 68.64 de descuento por 31.36 EUR (original: 100 EUR) en el siguiente enlace!

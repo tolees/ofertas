@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073TV36BF/?tag=tolees-21'
 descuento: '56.42'
+average: '16.99'
 ---
 
 Está [Grabadora voz digital ELEGIANTE 1536Kbps 8 GB pantalla LCD Estéreo Dispositivo de Grabación Reducción Audio portátil Reproductor de MP3 con Micrófono Incorporado para Escuela Oficina Conferencias](https://www.amazon.es/dp/B073TV36BF/?tag=tolees-21) con 56.42 de descuento por 16.99 EUR (original: 38.99 EUR) en el siguiente enlace!

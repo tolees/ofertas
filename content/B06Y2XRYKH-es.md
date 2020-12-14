@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y2XRYKH/?tag=tolees-21'
 descuento: '41.66'
+average: '52.51'
 ---
 
 Ahora mismo tienes [New Balance 574 Core Zapatillas Hombre  Gris  Grey EGG   40.5 EU  7 UK ](https://www.amazon.es/dp/B06Y2XRYKH/?tag=tolees-21) a 52.51 EUR (original: 90 EUR) (41.66 %  de descuento) en el siguiente enlace!

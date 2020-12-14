@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N5W04LT/?tag=tolees-21'
 descuento: '63.18'
+average: '33.5'
 ---
 
 Está [San Ignacio Juego de Sartenes y Utensilios de Cocina  Acero Inoxidable  Negro  24 cm](https://www.amazon.es/dp/B01N5W04LT/?tag=tolees-21) con 63.18 de descuento por 33.5 EUR (original: 90.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DM56HX3/?tag=tolees-21'
 descuento: '60.03'
+average: '13.97'
 ---
 
 Tienes [adidas Drst Ask SPR LG Sujetador Deportivo  Mujer  Negro/Blanco  XS](https://www.amazon.es/dp/B07DM56HX3/?tag=tolees-21) con un 60.03 % de descuento con precio de oferta de 13.97 EUR (original: 34.95 EUR) en el siguiente enlace!

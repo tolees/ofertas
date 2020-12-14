@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00YBE7T14/?tag=tolees-21'
 descuento: '73.62'
+average: '34.3'
 ---
 
 Tienes [Merrell All out Charge  Mocasines para Hombre  Bright Red  37 EU](https://www.amazon.es/dp/B00YBE7T14/?tag=tolees-21) con un 73.62 % de descuento con precio de oferta de 34.3 EUR (original: 130 EUR) en el siguiente enlace!

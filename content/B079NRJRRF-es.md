@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079NRJRRF/?tag=tolees-21'
 descuento: '74.72'
+average: '19.97'
 ---
 
 Está [TACKLIFE Bomba Sumergible  Bombas de Aguas Sucias 400W  9000 L/H  6M de Inmersión  5M de Altura de Entrega  8 Impulsores Potencia  Máx Gránulo 25 mm  Cable de 10M  Interruptor de Flotación GSUP2B](https://www.amazon.es/dp/B079NRJRRF/?tag=tolees-21) con 74.72 de descuento por 19.97 EUR (original: 78.99 EUR) en el siguiente enlace!

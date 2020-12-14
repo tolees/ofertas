@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F7TFTVY/?tag=tolees-21'
 descuento: '46.67'
+average: '159.99'
 ---
 
 Ahora mismo tienes [ASUS Lyra Trio - Kit de 2 Sistemas de Red Wi-Fi Mesh Dual-Band AC1750  MIMO 3 x 3  protección Trend Micro  Control Parental  compatible con Ai Mesh wifi  color blanco](https://www.amazon.es/dp/B07F7TFTVY/?tag=tolees-21) a 159.99 EUR (original: 299.99 EUR) (46.67 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0179JFAYU/?tag=tolees-21'
 descuento: '31.59'
+average: '341.37'
 ---
 
 Ahora mismo tienes [Parrot BEBOP 2 - Dron cuadricóptero  Full HD 1080P  14 Mpx  60 Km/h  25 minutos de vuelo  8GB   color rojo](https://www.amazon.es/dp/B0179JFAYU/?tag=tolees-21) a 341.37 EUR (original: 499 EUR) (31.59 %  de descuento) en el siguiente enlace!

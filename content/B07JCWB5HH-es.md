@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JCWB5HH/?tag=tolees-21'
 descuento: '72.24'
+average: '9.99'
 ---
 
 Tienes [YZPUSI 32 GB Memoria USB  2 en 1 USB 2.0 Doble Transforma Pendrive para PC y Android con OTG Micro USB  Memoria USB Compatible con Smartphones y Tableta Memory Externa](https://www.amazon.es/dp/B07JCWB5HH/?tag=tolees-21) con un 72.24 % de descuento con precio de oferta de 9.99 EUR (original: 35.99 EUR) en el siguiente enlace!

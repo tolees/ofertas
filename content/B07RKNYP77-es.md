@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RKNYP77/?tag=tolees-21'
 descuento: '58.36'
+average: '9.99'
 ---
 
 Tienes [Apoyo de arco con cojín de gel desmontable  soporte de compresión ajustable Arco para fascitis plantar y pies planos  alivio del dolor de los espolones del talón](https://www.amazon.es/dp/B07RKNYP77/?tag=tolees-21) con un 58.36 % de descuento con precio de oferta de 9.99 EUR (original: 23.99 EUR) en el siguiente enlace!

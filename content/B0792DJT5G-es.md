@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792DJT5G/?tag=tolees-21'
 descuento: '48.55'
+average: '25.72'
 ---
 
 Ahora mismo tienes [Quiksilver Sunset Vibes 17" Bañador  Hombre  Plata/Azul  M](https://www.amazon.es/dp/B0792DJT5G/?tag=tolees-21) a 25.72 EUR (original: 49.99 EUR) (48.55 %  de descuento) en el siguiente enlace!

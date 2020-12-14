@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079D34WRJ/?tag=tolees-21'
 descuento: '34.25'
+average: '4.78'
 ---
 
 Ahora mismo tienes [Little Trees mtr0077 Ciudad Estilo Fragancia ambientador  Set de 24](https://www.amazon.es/dp/B079D34WRJ/?tag=tolees-21) a 4.78 EUR (original: 7.27 EUR) (34.25 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0075CPPYM/?tag=tolees-21'
 descuento: '46.63'
+average: '8'
 ---
 
 Tienes [POP! Vinilo - Disney: NBX: Sally   Modelos/colores Surtidos  1 Unidad](https://www.amazon.es/dp/B0075CPPYM/?tag=tolees-21) con un 46.63 % de descuento con precio de oferta de 8 EUR (original: 14.99 EUR) en el siguiente enlace!

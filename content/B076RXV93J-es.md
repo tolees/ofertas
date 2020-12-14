@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076RXV93J/?tag=tolees-21'
 descuento: '57.54'
+average: '29.72'
 ---
 
 Está [Under Armour Ripple  Zapatillas de Running para Mujer  Negro  Black Graphite 004   41 EU](https://www.amazon.es/dp/B076RXV93J/?tag=tolees-21) con 57.54 de descuento por 29.72 EUR (original: 70 EUR) en el siguiente enlace!

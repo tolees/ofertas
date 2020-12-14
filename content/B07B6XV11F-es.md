@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B6XV11F/?tag=tolees-21'
 descuento: '71.03'
+average: '26.07'
 ---
 
 Tienes [New Balance Fresh Foam Lazr Sport  Zapatillas de Running para Mujer  Azul  Vintage Indigo/Pigment/White Cn  37.5 EU](https://www.amazon.es/dp/B07B6XV11F/?tag=tolees-21) con un 71.03 % de descuento con precio de oferta de 26.07 EUR (original: 90 EUR) en el siguiente enlace!

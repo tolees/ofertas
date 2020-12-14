@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NAJHHEN/?tag=tolees-21'
 descuento: '70.00'
+average: '7.5'
 ---
 
 Está [FIND Lace Trim Cami Top para Mujer  Negro  Black Mix   36  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B01NAJHHEN/?tag=tolees-21) con 70.00 de descuento por 7.5 EUR (original: 25 EUR) en el siguiente enlace!

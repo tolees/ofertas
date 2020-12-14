@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07ML3ZFFS/?tag=tolees-21'
 descuento: '96.00'
+average: '2'
 ---
 
 Está [GET IT NOW Almohadas  2  VISCOLAX  Gama Premium](https://www.amazon.es/dp/B07ML3ZFFS/?tag=tolees-21) con 96.00 de descuento por 2 EUR (original: 50 EUR) en el siguiente enlace!

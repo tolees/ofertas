@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B019WA01ZM/?tag=tolees-21'
 descuento: '45.19'
+average: '7.12'
 ---
 
 Ahora mismo tienes [Maybelline New York Barra de Labios Superstay 24H  Larga duración   Tono 135 Perpetual Rose](https://www.amazon.es/dp/B019WA01ZM/?tag=tolees-21) a 7.12 EUR (original: 12.99 EUR) (45.19 %  de descuento) en el siguiente enlace!

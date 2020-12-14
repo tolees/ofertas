@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078SWWP8B/?tag=tolees-21'
 descuento: '52.86'
+average: '70.24'
 ---
 
 Ahora mismo tienes [Gant Full Zip Hoodie  Capucha para Mujer  Gris  Light Grey Melange   10  Talla del Fabricante: Small ](https://www.amazon.es/dp/B078SWWP8B/?tag=tolees-21) a 70.24 EUR (original: 149 EUR) (52.86 %  de descuento) en el siguiente enlace!

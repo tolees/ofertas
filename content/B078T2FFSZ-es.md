@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078T2FFSZ/?tag=tolees-21'
 descuento: '52.10'
+average: '11.97'
 ---
 
 Ahora mismo tienes [Women’secret Sujetador Push up de Tul Flocado  Mujer   Beige/Kamel 51   95  Tamaño del Fabricante:95B ](https://www.amazon.es/dp/B078T2FFSZ/?tag=tolees-21) a 11.97 EUR (original: 24.99 EUR) (52.10 %  de descuento) en el siguiente enlace!

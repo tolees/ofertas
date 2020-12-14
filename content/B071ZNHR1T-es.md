@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071ZNHR1T/?tag=tolees-21'
 descuento: '49.56'
+average: '75.63'
 ---
 
 Tienes [G-STAR RAW D-STAQ 3D Skinny  Jeans para Hombre  Azul  lt Vintage Aged Destroy 8969-9114    31W / 32L](https://www.amazon.es/dp/B071ZNHR1T/?tag=tolees-21) con un 49.56 % de descuento con precio de oferta de 75.63 EUR (original: 149.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MZ5T7QN/?tag=tolees-21'
 descuento: '37.56'
+average: '99.9'
 ---
 
 Está [Wilson Raqueta de tenis unisex  Para juego en toda la pista  Para jugadores expertos  Six.One 95  Medida 3  Rojo/Blanco  WRT73650U3](https://www.amazon.es/dp/B01MZ5T7QN/?tag=tolees-21) con 37.56 de descuento por 99.9 EUR (original: 160 EUR) en el siguiente enlace!

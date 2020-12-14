@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XS9TF78/?tag=tolees-21'
 descuento: '59.92'
+average: '36.05'
 ---
 
 Tienes [New Balance Fresh Foam Cruz Hoody Pack  Zapatillas de Entrenamiento para Mujer  Rojo Bordeaux/Weiß  37.5 EU](https://www.amazon.es/dp/B06XS9TF78/?tag=tolees-21) con un 59.92 % de descuento con precio de oferta de 36.05 EUR (original: 89.95 EUR) en el siguiente enlace!

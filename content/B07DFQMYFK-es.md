@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFQMYFK/?tag=tolees-21'
 descuento: '44.56'
+average: '22.15'
 ---
 
 Está [Puma EVOSTRIPE Sweatshirt  Mujer  Medium Gray Heather  M](https://www.amazon.es/dp/B07DFQMYFK/?tag=tolees-21) con 44.56 de descuento por 22.15 EUR (original: 39.95 EUR) en el siguiente enlace!

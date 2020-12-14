@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00ZERO050/?tag=tolees-21'
 descuento: '68.61'
+average: '31.08'
 ---
 
 Ahora mismo tienes [Superga 2790-suew - Plataforma Mujer  Azul  35 EU](https://www.amazon.es/dp/B00ZERO050/?tag=tolees-21) a 31.08 EUR (original: 99 EUR) (68.61 %  de descuento) en el siguiente enlace!

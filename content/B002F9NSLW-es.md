@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002F9NSLW/?tag=tolees-21'
 descuento: '66.91'
+average: '15.91'
 ---
 
 Ahora mismo tienes [Kensington K72339EU - Ratón  USB  Con cables  Óptico  Negro  250 mm  100 mm](https://www.amazon.es/dp/B002F9NSLW/?tag=tolees-21) a 15.91 EUR (original: 48.08 EUR) (66.91 %  de descuento) en el siguiente enlace!

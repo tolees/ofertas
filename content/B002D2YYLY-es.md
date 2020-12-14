@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002D2YYLY/?tag=tolees-21'
 descuento: '53.72'
+average: '328.1'
 ---
 
 Está [Sigma 10-20mm f/3.5 EX DC HSM PAF - Objetivo para Pentax  Distancia Focal 10-20mm  Apertura f/3.5  diámetro: 82mm  Color Negro - para Pentax](https://www.amazon.es/dp/B002D2YYLY/?tag=tolees-21) con 53.72 de descuento por 328.1 EUR (original: 709 EUR) en el siguiente enlace!

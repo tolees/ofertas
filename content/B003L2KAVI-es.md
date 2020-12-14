@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003L2KAVI/?tag=tolees-21'
 descuento: '52.75'
+average: '10.39'
 ---
 
 Ahora mismo tienes [HP WU676AA#ABB - Maletín para portátil de 14"](https://www.amazon.es/dp/B003L2KAVI/?tag=tolees-21) a 10.39 EUR (original: 21.99 EUR) (52.75 %  de descuento) en el siguiente enlace!

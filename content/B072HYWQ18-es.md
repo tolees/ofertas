@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072HYWQ18/?tag=tolees-21'
 descuento: '77.44'
+average: '24.81'
 ---
 
 Tienes [Puma Basket Platform Strapvr  Zapatillas para Mujer  Negro Black-icelandicblue  41 EU](https://www.amazon.es/dp/B072HYWQ18/?tag=tolees-21) con un 77.44 % de descuento con precio de oferta de 24.81 EUR (original: 109.95 EUR) en el siguiente enlace!

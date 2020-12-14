@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KJLXKBA/?tag=tolees-21'
 descuento: '76.99'
+average: '19.56'
 ---
 
 Está [Vans Atwood  Zapatillas para Mujer  Marrón  MTE   42 EU](https://www.amazon.es/dp/B01KJLXKBA/?tag=tolees-21) con 76.99 de descuento por 19.56 EUR (original: 85 EUR) en el siguiente enlace!

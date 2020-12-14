@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GQPQBGX/?tag=tolees-21'
 descuento: '50.10'
+average: '12.95'
 ---
 
 Está [DANISH ENDURANCE Calcetines Performance Crew 3 Pares  1 x Rayas Rojas/Azules  1 x Blanco  1 x Rayas Verdes/Amarillas   EU 43-47](https://www.amazon.es/dp/B07GQPQBGX/?tag=tolees-21) con 50.10 de descuento por 12.95 EUR (original: 25.95 EUR) en el siguiente enlace!

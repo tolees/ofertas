@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073D75YKC/?tag=tolees-21'
 descuento: '33.43'
+average: '23.9'
 ---
 
 Está [PROWITHLIN Fotografía Profesional Set - Correa para el Hombro con Seguridad Tether Placa de Montaje para Cámara Réflex Digital SLR  Canon Nikon Sony Olympus Pentax etc.  ...](https://www.amazon.es/dp/B073D75YKC/?tag=tolees-21) con 33.43 de descuento por 23.9 EUR (original: 35.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JWVWSV6/?tag=tolees-21'
 descuento: '65.55'
+average: '18.93'
 ---
 
 Está [Puma Athletics Pants TR cl Pantalones  Hombre  Medium Gray Heather  XL](https://www.amazon.es/dp/B07JWVWSV6/?tag=tolees-21) con 65.55 de descuento por 18.93 EUR (original: 54.95 EUR) en el siguiente enlace!

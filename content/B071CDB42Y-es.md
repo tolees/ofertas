@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071CDB42Y/?tag=tolees-21'
 descuento: '54.39'
+average: '18.22'
 ---
 
 Ahora mismo tienes [Blend  Pantalones para Hombre  Negro  Black 70155   W30/L32  Tamaño del fabricante:30 ](https://www.amazon.es/dp/B071CDB42Y/?tag=tolees-21) a 18.22 EUR (original: 39.95 EUR) (54.39 %  de descuento) en el siguiente enlace!

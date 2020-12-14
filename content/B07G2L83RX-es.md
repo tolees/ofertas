@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G2L83RX/?tag=tolees-21'
 descuento: '55.37'
+average: '16.96'
 ---
 
 Ahora mismo tienes [Mandarina Duck - Hunter Minuteria  Carteras de mano Mujer  Azul  Eclipse ](https://www.amazon.es/dp/B07G2L83RX/?tag=tolees-21) a 16.96 EUR (original: 38 EUR) (55.37 %  de descuento) en el siguiente enlace!

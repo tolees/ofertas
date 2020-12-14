@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078W3DLRM/?tag=tolees-21'
 descuento: '75.51'
+average: '15.92'
 ---
 
 Tienes [Vans Chauffeur SF  Zapatillas Unisex Adulto  Azul  Dress Blues/Gum Fs1   36.5 EU](https://www.amazon.es/dp/B078W3DLRM/?tag=tolees-21) con un 75.51 % de descuento con precio de oferta de 15.92 EUR (original: 65 EUR) en el siguiente enlace!

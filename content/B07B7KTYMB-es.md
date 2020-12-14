@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B7KTYMB/?tag=tolees-21'
 descuento: '90.02'
+average: '5.99'
 ---
 
 Ahora mismo tienes [Mini auriculares Bluetooth  Ifecco In-ear Auriculares inalámbricos más pequeños con micrófono Llamadas manos libres  para teléfonos inteligentes y otros dispositivos Bluetooth  Negro ](https://www.amazon.es/dp/B07B7KTYMB/?tag=tolees-21) a 5.99 EUR (original: 59.99 EUR) (90.02 %  de descuento) en el siguiente enlace!

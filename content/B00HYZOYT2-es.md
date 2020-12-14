@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00HYZOYT2/?tag=tolees-21'
 descuento: '25.08'
+average: '89.9'
 ---
 
 Ahora mismo tienes [Keter -  Conjunto de terraza o balcón Río  Color blanco](https://www.amazon.es/dp/B00HYZOYT2/?tag=tolees-21) a 89.9 EUR (original: 120 EUR) (25.08 %  de descuento) en el siguiente enlace!

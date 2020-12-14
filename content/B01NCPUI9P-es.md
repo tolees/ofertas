@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NCPUI9P/?tag=tolees-21'
 descuento: '60.13'
+average: '43.86'
 ---
 
 Está [New Balance 247v1  Zapatillas para Hombre  Negro  Black/White Ve   45 EU](https://www.amazon.es/dp/B01NCPUI9P/?tag=tolees-21) con 60.13 de descuento por 43.86 EUR (original: 110 EUR) en el siguiente enlace!

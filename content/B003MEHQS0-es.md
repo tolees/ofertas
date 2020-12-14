@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003MEHQS0/?tag=tolees-21'
 descuento: '61.70'
+average: '30.26'
 ---
 
 Tienes [Superga 2750  Zapatillas Unisex Adulto  Beige  36 EU](https://www.amazon.es/dp/B003MEHQS0/?tag=tolees-21) con un 61.70 % de descuento con precio de oferta de 30.26 EUR (original: 79 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000LSGI52/?tag=tolees-21'
 descuento: '39.98'
+average: '90'
 ---
 
 Está [adidas Copa Mundial  Zapatillas de Fútbol para Hombre  Negro/Blanco  36 2/3 EU](https://www.amazon.es/dp/B000LSGI52/?tag=tolees-21) con 39.98 de descuento por 90 EUR (original: 149.95 EUR) en el siguiente enlace!

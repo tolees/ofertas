@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KL2WNF5/?tag=tolees-21'
 descuento: '50.23'
+average: '9.95'
 ---
 
 Ahora mismo tienes [Roxy Red Lines A tee-Shirt  Mujer  Duck Green  L](https://www.amazon.es/dp/B07KL2WNF5/?tag=tolees-21) a 9.95 EUR (original: 19.99 EUR) (50.23 %  de descuento) en el siguiente enlace!

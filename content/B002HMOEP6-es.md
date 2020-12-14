@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002HMOEP6/?tag=tolees-21'
 descuento: '66.17'
+average: '12.79'
 ---
 
 Ahora mismo tienes [Bahco 808050L - Destornillador Carraca C/Lampara](https://www.amazon.es/dp/B002HMOEP6/?tag=tolees-21) a 12.79 EUR (original: 37.81 EUR) (66.17 %  de descuento) en el siguiente enlace!

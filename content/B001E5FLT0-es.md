@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001E5FLT0/?tag=tolees-21'
 descuento: '45.59'
+average: '15.78'
 ---
 
 Tienes [Zippo Brush Chrome Encendedor  Metal  Cromo  Única](https://www.amazon.es/dp/B001E5FLT0/?tag=tolees-21) con un 45.59 % de descuento con precio de oferta de 15.78 EUR (original: 29 EUR) en el siguiente enlace!

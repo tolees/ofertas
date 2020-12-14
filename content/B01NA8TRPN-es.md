@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NA8TRPN/?tag=tolees-21'
 descuento: '50.03'
+average: '9.99'
 ---
 
 Tienes [Elechomes EB601 Espejo de Maquillaje Ajustable LED Iluminado con Ampliación 7X Incluyendo un Espejo de Bolsillo Blanco - Nivel A](https://www.amazon.es/dp/B01NA8TRPN/?tag=tolees-21) con un 50.03 % de descuento con precio de oferta de 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

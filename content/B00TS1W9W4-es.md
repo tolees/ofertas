@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TS1W9W4/?tag=tolees-21'
 descuento: '77.92'
+average: '15.7'
 ---
 
 Ahora mismo tienes [Hummel HUMMEL Crosslite - Zapatillas Deportivas para Interior de Material sintético Mujer  Color Rosa  Talla 39](https://www.amazon.es/dp/B00TS1W9W4/?tag=tolees-21) a 15.7 EUR (original: 71.1 EUR) (77.92 %  de descuento) en el siguiente enlace!

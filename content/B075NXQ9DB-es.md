@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075NXQ9DB/?tag=tolees-21'
 descuento: '29.78'
+average: '11.2'
 ---
 
 Tienes [GORE WEAR C3 Calcetines para ciclismo unisex  Talla: 35-37  Color: rojo/negro](https://www.amazon.es/dp/B075NXQ9DB/?tag=tolees-21) con un 29.78 % de descuento con precio de oferta de 11.2 EUR (original: 15.95 EUR) en el siguiente enlace!

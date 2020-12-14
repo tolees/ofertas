@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07SFVZQ2M/?tag=tolees-21'
 descuento: '25.01'
+average: '29.98'
 ---
 
 Tienes [Ayzaw Carrier Hand Gorilla Gripper - Furniture Lifter Movers Plate carrier （0 - 30mm）](https://www.amazon.es/dp/B07SFVZQ2M/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 29.98 EUR (original: 39.98 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005OSXSV6/?tag=tolees-21'
 descuento: '54.37'
+average: '65.68'
 ---
 
 Ahora mismo tienes [Fetish Fantasy Elite Arnés de Doble Deleite Vibrador  Púrpura - 150 gr](https://www.amazon.es/dp/B005OSXSV6/?tag=tolees-21) a 65.68 EUR (original: 143.95 EUR) (54.37 %  de descuento) en el siguiente enlace!

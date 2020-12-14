@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017NQWJ16/?tag=tolees-21'
 descuento: '32.59'
+average: '9.43'
 ---
 
 Tienes [Pocket POP! Keychain - Harry Potter: Voldemort](https://www.amazon.es/dp/B017NQWJ16/?tag=tolees-21) con un 32.59 % de descuento con precio de oferta de 9.43 EUR (original: 13.99 EUR) en el siguiente enlace!

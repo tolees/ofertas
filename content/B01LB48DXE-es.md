@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LB48DXE/?tag=tolees-21'
 descuento: '34.00'
+average: '99'
 ---
 
 Está [Taurus 935.026 Rabat-Emisor térmico  600 W  4 Elementos  Temporizador Digital  sin fluidos ](https://www.amazon.es/dp/B01LB48DXE/?tag=tolees-21) con 34.00 de descuento por 99 EUR (original: 149.99 EUR) en el siguiente enlace!

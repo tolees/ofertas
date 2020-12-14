@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00JRDHEWS/?tag=tolees-21'
 descuento: '25.31'
+average: '507.88'
 ---
 
 Tienes [VIBOX Vision 2S - Ordenador para Gaming  AMD A4-6300  8 GB de RAM  2 TB de Disco Duro  AMD Radeon HD 8370D  Color neón Azul](https://www.amazon.es/dp/B00JRDHEWS/?tag=tolees-21) con un 25.31 % de descuento con precio de oferta de 507.88 EUR (original: 679.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ6XYJ1/?tag=tolees-21'
 descuento: '69.24'
+average: '27.68'
 ---
 
 Ahora mismo tienes [New Balance Fresh Foam Cruz v2 Silent Rave Pack  Zapatillas para Mujer  Negro  Black/Mineral Green/Guava Dm2   37 EU](https://www.amazon.es/dp/B07DJ6XYJ1/?tag=tolees-21) a 27.68 EUR (original: 90 EUR) (69.24 %  de descuento) en el siguiente enlace!

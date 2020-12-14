@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0053CB4TQ/?tag=tolees-21'
 descuento: '27.72'
+average: '9.78'
 ---
 
 Tienes [Celda 211  Caja métalica  [DVD]](https://www.amazon.es/dp/B0053CB4TQ/?tag=tolees-21) con un 27.72 % de descuento con precio de oferta de 9.78 EUR (original: 13.53 EUR) en el siguiente enlace!

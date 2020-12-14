@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CVHX79S/?tag=tolees-21'
 descuento: '25.00'
+average: '48.71'
 ---
 
 Ahora mismo tienes [Skechers Status-Rolano  Botas Chukka para Hombre  Negro  Black Blk   46 EU](https://www.amazon.es/dp/B07CVHX79S/?tag=tolees-21) a 48.71 EUR (original: 64.95 EUR) (25.00 %  de descuento) en el siguiente enlace!

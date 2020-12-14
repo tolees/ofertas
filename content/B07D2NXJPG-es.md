@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D2NXJPG/?tag=tolees-21'
 descuento: '56.35'
+average: '15.41'
 ---
 
 Tienes [Reebok Almotio 4.0 2V  Zapatillas de Running Unisex para Niños  Azul  Cool Col Navy/Dgtl Pnk/Slvr Met   31.5 EU](https://www.amazon.es/dp/B07D2NXJPG/?tag=tolees-21) con un 56.35 % de descuento con precio de oferta de 15.41 EUR (original: 35.3 EUR) en el siguiente enlace!

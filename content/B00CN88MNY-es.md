@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00CN88MNY/?tag=tolees-21'
 descuento: '59.02'
+average: '5'
 ---
 
 Está [BB Colorete Nude Magique Blush de L Oréal Paris](https://www.amazon.es/dp/B00CN88MNY/?tag=tolees-21) con 59.02 de descuento por 5 EUR (original: 12.2 EUR) en el siguiente enlace!

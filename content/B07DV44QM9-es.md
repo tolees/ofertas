@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DV44QM9/?tag=tolees-21'
 descuento: '45.07'
+average: '54.92'
 ---
 
 Tienes [Columbia Wayfinder  Zapatillas de Senderismo para Hombre  Negro  Black  White   41 EU](https://www.amazon.es/dp/B07DV44QM9/?tag=tolees-21) con un 45.07 % de descuento con precio de oferta de 54.92 EUR (original: 99.99 EUR) en el siguiente enlace!

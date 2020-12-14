@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HRWAN0K/?tag=tolees-21'
 descuento: '68.76'
+average: '20.29'
 ---
 
 Está [Skechers Empress-Splendid  Zapatillas para Mujer  Negro  Black   36 EU](https://www.amazon.es/dp/B01HRWAN0K/?tag=tolees-21) con 68.76 de descuento por 20.29 EUR (original: 64.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JYLCB6K/?tag=tolees-21'
 descuento: '63.44'
+average: '29.23'
 ---
 
 Está [adidas Forest Grove  Zapatillas de Gimnasia para Hombre  Azul Night Indigo/FTWR White/Real Pink S18  40 2/3 EU](https://www.amazon.es/dp/B07JYLCB6K/?tag=tolees-21) con 63.44 de descuento por 29.23 EUR (original: 79.95 EUR) en el siguiente enlace!

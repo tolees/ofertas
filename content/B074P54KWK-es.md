@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074P54KWK/?tag=tolees-21'
 descuento: '65.81'
+average: '239'
 ---
 
 Ahora mismo tienes [Deluxe Cinta de Correr Andar Plegable Running Motor 1000W Soporta hasta 150 kgs](https://www.amazon.es/dp/B074P54KWK/?tag=tolees-21) a 239 EUR (original: 699 EUR) (65.81 %  de descuento) en el siguiente enlace!

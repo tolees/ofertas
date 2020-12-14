@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XFXRDTX/?tag=tolees-21'
 descuento: '46.24'
+average: '510.2'
 ---
 
 Tienes [Optoma dh401 – Proyector DLP  1080P Proyector  1920 x 1080 Pixeles  4000 Lúmenes ANSI  Contraste 15000: 1  Full HD  HDMI  1 6 x Zoom   Color Blanco/Negro](https://www.amazon.es/dp/B06XFXRDTX/?tag=tolees-21) con un 46.24 % de descuento con precio de oferta de 510.2 EUR (original: 949 EUR) en el siguiente enlace!

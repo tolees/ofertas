@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KCKWJS5/?tag=tolees-21'
 descuento: '44.37'
+average: '20.86'
 ---
 
 Tienes [David Jones - 5915-3  Bolsos de mano Mujer  Beige  L.Camel   13x26x33 cm  W x H L ](https://www.amazon.es/dp/B07KCKWJS5/?tag=tolees-21) con un 44.37 % de descuento con precio de oferta de 20.86 EUR (original: 37.5 EUR) en el siguiente enlace!

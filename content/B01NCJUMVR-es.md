@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NCJUMVR/?tag=tolees-21'
 descuento: '39.83'
+average: '13.84'
 ---
 
 Está [Under Armour Men s Gorra  Hombre  Verde  M/L](https://www.amazon.es/dp/B01NCJUMVR/?tag=tolees-21) con 39.83 de descuento por 13.84 EUR (original: 23 EUR) en el siguiente enlace!

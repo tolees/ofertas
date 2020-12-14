@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LXAH4ED/?tag=tolees-21'
 descuento: '30.00'
+average: '50.39'
 ---
 
 Ahora mismo tienes [Neewer Cámara Foto/Vídeo LED Luz de Anillo 18 pulgadas/48 centímetros Exterior. 55W 240 Piezas LED. 5500K Regulable con Color de Plástico Filtros. iPad Clip y el adaptador universal con US/EU Enchufe](https://www.amazon.es/dp/B01LXAH4ED/?tag=tolees-21) a 50.39 EUR (original: 71.99 EUR) (30.00 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0785RNKYH/?tag=tolees-21'
 descuento: '40.00'
+average: '10.17'
 ---
 
 Ahora mismo tienes [HIKARO AMA HAYAND camisetas  Rojo  Red   36  Talla del fabricante: X-Small ](https://www.amazon.es/dp/B0785RNKYH/?tag=tolees-21) a 10.17 EUR (original: 16.95 EUR) (40.00 %  de descuento) en el siguiente enlace!

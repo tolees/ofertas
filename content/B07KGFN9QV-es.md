@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGFN9QV/?tag=tolees-21'
 descuento: '40.04'
+average: '26.95'
 ---
 
 Está [BOSS Mooneye Bañador  Azul  Navy 413   Large para Hombre](https://www.amazon.es/dp/B07KGFN9QV/?tag=tolees-21) con 40.04 de descuento por 26.95 EUR (original: 44.95 EUR) en el siguiente enlace!

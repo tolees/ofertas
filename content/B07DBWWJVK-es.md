@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DBWWJVK/?tag=tolees-21'
 descuento: '75.07'
+average: '32.4'
 ---
 
 Está [Puma AVID Fusefit  Zapatillas Unisex Adulto  Negro Black White  45 EU](https://www.amazon.es/dp/B07DBWWJVK/?tag=tolees-21) con 75.07 de descuento por 32.4 EUR (original: 129.95 EUR) en el siguiente enlace!

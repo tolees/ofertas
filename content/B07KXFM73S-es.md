@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KXFM73S/?tag=tolees-21'
 descuento: '60.01'
+average: '19.99'
 ---
 
 Ahora mismo tienes [MiMiya Dispensador de Jabón Automático  Dispensador de líquidos Dispensador Jabon Cocina Dispensador Jabon Liquido con Sensor Infrarrojo sin Contacto para Cocina o Baño](https://www.amazon.es/dp/B07KXFM73S/?tag=tolees-21) a 19.99 EUR (original: 49.99 EUR) (60.01 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071GNPV9Q/?tag=tolees-21'
 descuento: '32.62'
+average: '599'
 ---
 
 Ahora mismo tienes [Apple iPad Pro - Tablet de 10.5"  64 GB con Wi-Fi + Cellular  gris espacial](https://www.amazon.es/dp/B071GNPV9Q/?tag=tolees-21) a 599 EUR (original: 889 EUR) (32.62 %  de descuento) en el siguiente enlace!

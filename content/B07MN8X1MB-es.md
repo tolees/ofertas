@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MN8X1MB/?tag=tolees-21'
 descuento: '29.17'
+average: '25.49'
 ---
 
 Está [MTNG Attitude 82600  Zapatillas para Hombre  Azul  Pila America Marino C44861   44 EU](https://www.amazon.es/dp/B07MN8X1MB/?tag=tolees-21) con 29.17 de descuento por 25.49 EUR (original: 35.99 EUR) en el siguiente enlace!

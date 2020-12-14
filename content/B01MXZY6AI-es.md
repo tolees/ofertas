@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MXZY6AI/?tag=tolees-21'
 descuento: '66.39'
+average: '10.08'
 ---
 
 Está [edc by Esprit 037cc2c002  Pantalones Cortos para Hombre  Azul  Light Blue  46  Talla del Fabricante: 30 ](https://www.amazon.es/dp/B01MXZY6AI/?tag=tolees-21) con 66.39 de descuento por 10.08 EUR (original: 29.99 EUR) en el siguiente enlace!

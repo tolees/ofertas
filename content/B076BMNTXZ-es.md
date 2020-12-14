@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076BMNTXZ/?tag=tolees-21'
 descuento: '46.93'
+average: '68.99'
 ---
 
 Está [Silla de Oficina  IntimaTe WM Heart Silla Giratoria de Oficina Silla Ergonómica de Escritorio de Malla con Reposacabezas Mecanismo Sincronizado Altura Ajustable y Apoyabrazos ajustables  Gris](https://www.amazon.es/dp/B076BMNTXZ/?tag=tolees-21) con 46.93 de descuento por 68.99 EUR (original: 129.99 EUR) en el siguiente enlace!

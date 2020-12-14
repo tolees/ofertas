@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZZC62Y/?tag=tolees-21'
 descuento: '44.84'
+average: '30.33'
 ---
 
 Tienes [Under Armour Performance Polo 2.0  Hombre  Blanco  White/Pitch Gray 100   XXL](https://www.amazon.es/dp/B07CZZC62Y/?tag=tolees-21) con un 44.84 % de descuento con precio de oferta de 30.33 EUR (original: 54.99 EUR) en el siguiente enlace!

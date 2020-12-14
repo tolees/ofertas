@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJLFQ5J/?tag=tolees-21'
 descuento: '57.48'
+average: '25.49'
 ---
 
 Tienes [Dockers by Gerli 43ha303  Botas Chukka para Mujer  Negro  Schwarz 100   39 EU](https://www.amazon.es/dp/B07DJLFQ5J/?tag=tolees-21) con un 57.48 % de descuento con precio de oferta de 25.49 EUR (original: 59.95 EUR) en el siguiente enlace!

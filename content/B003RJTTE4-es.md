@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003RJTTE4/?tag=tolees-21'
 descuento: '60.19'
+average: '8.36'
 ---
 
 Está [Schwarzkopf OSiS Thrill Fibre Gum  100 ml  1 unidad](https://www.amazon.es/dp/B003RJTTE4/?tag=tolees-21) con 60.19 de descuento por 8.36 EUR (original: 21 EUR) en el siguiente enlace!

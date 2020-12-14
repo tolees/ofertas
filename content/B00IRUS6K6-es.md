@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IRUS6K6/?tag=tolees-21'
 descuento: '44.55'
+average: '49.9'
 ---
 
 Tienes [Logitech Harmony 650 - Mando a distancia  IR inalámbrico  DVD/Blu-ray   gris](https://www.amazon.es/dp/B00IRUS6K6/?tag=tolees-21) con un 44.55 % de descuento con precio de oferta de 49.9 EUR (original: 89.99 EUR) en el siguiente enlace!

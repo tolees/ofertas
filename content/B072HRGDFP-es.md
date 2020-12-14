@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072HRGDFP/?tag=tolees-21'
 descuento: '57.78'
+average: '54.89'
 ---
 
 Tienes [Hackett Rinse Wash Nwbg Reg  Pantalones para Hombre  Azul  559dk Denim   W32](https://www.amazon.es/dp/B072HRGDFP/?tag=tolees-21) con un 57.78 % de descuento con precio de oferta de 54.89 EUR (original: 130 EUR) en el siguiente enlace!

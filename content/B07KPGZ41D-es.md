@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KPGZ41D/?tag=tolees-21'
 descuento: '67.63'
+average: '45.31'
 ---
 
 Tienes [Gant D1. Slim Satin Chino Pantalones  Blanco  Putty 34   W36/L32  Talla del Fabricante: 36/32  para Hombre](https://www.amazon.es/dp/B07KPGZ41D/?tag=tolees-21) con un 67.63 % de descuento con precio de oferta de 45.31 EUR (original: 139.99 EUR) en el siguiente enlace!

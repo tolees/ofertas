@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MZ99CZX/?tag=tolees-21'
 descuento: '66.40'
+average: '23.52'
 ---
 
 Está [AIJEESI TWS 5.0 Auriculares Bluetooth inalámbricos con micrófono estéreo 10 Horas de reproducción](https://www.amazon.es/dp/B07MZ99CZX/?tag=tolees-21) con 66.40 de descuento por 23.52 EUR (original: 69.99 EUR) en el siguiente enlace!

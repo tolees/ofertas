@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BL3D63C/?tag=tolees-21'
 descuento: '57.07'
+average: '30.05'
 ---
 
 Está [New Balance Fuel Core Coast v4  Zapatillas de Running para Hombre  Azul  Reflection/Vintage Indigo/Iron Oxide Cn4   43 EU](https://www.amazon.es/dp/B07BL3D63C/?tag=tolees-21) con 57.07 de descuento por 30.05 EUR (original: 70 EUR) en el siguiente enlace!

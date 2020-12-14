@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K76RX8M/?tag=tolees-21'
 descuento: '30.08'
+average: '45.45'
 ---
 
 Está [Asics Gel-Contend 5  Zapatillas de Running para Hombre  Azul  Indigo Blue/Silver 401   44 EU](https://www.amazon.es/dp/B07K76RX8M/?tag=tolees-21) con 30.08 de descuento por 45.45 EUR (original: 65 EUR) en el siguiente enlace!

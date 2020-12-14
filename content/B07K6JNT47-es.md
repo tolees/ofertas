@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K6JNT47/?tag=tolees-21'
 descuento: '50.01'
+average: '19.99'
 ---
 
 Tienes [AUKUYEE Dispensador de Jabón Automático  dispensador jabon cocina Dispensador Jabon automático Dispensador Jabon Baño 200ml  Blanco ](https://www.amazon.es/dp/B07K6JNT47/?tag=tolees-21) con un 50.01 % de descuento con precio de oferta de 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!

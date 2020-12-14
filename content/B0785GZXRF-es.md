@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0785GZXRF/?tag=tolees-21'
 descuento: '39.98'
+average: '78'
 ---
 
 Ahora mismo tienes [Gore Wear 100355 Mallas  Mujer  Negro  Hibiscus Pink   40](https://www.amazon.es/dp/B0785GZXRF/?tag=tolees-21) a 78 EUR (original: 129.95 EUR) (39.98 %  de descuento) en el siguiente enlace!

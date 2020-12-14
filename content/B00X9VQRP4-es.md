@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00X9VQRP4/?tag=tolees-21'
 descuento: '47.73'
+average: '4.96'
 ---
 
 Está [Somat Gel Cápsulas Lavavajillas Limón 30 Dosis](https://www.amazon.es/dp/B00X9VQRP4/?tag=tolees-21) con 47.73 de descuento por 4.96 EUR (original: 9.49 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FXQF3RL/?tag=tolees-21'
 descuento: '42.87'
+average: '31.42'
 ---
 
 Está [Vans Filmore Suede/Canvas  Zapatillas para Niños   Checkerboard  Black/Lapis Blue Vwc  27.5 EU](https://www.amazon.es/dp/B07FXQF3RL/?tag=tolees-21) con 42.87 de descuento por 31.42 EUR (original: 55 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076WZGZBS/?tag=tolees-21'
 descuento: '48.00'
+average: '33.8'
 ---
 
 Está [Levi s Graphic Po Hoodie-B  Capucha para Hombre  Blanco  Sportswear Pull Over White 0025   Medium](https://www.amazon.es/dp/B076WZGZBS/?tag=tolees-21) con 48.00 de descuento por 33.8 EUR (original: 65 EUR) en el siguiente enlace!

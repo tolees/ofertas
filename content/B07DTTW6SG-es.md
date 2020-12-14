@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DTTW6SG/?tag=tolees-21'
 descuento: '32.09'
+average: '18.9'
 ---
 
 Está [REPSOL ANTICONGELANTE REFRI. MQ PURO 5L](https://www.amazon.es/dp/B07DTTW6SG/?tag=tolees-21) con 32.09 de descuento por 18.9 EUR (original: 27.83 EUR) en el siguiente enlace!

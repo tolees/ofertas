@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075JLLLFC/?tag=tolees-21'
 descuento: '74.90'
+average: '3'
 ---
 
 Tienes [Zuru - ZURU FIDGET CUBE Batman  ColorBaby 85168 ](https://www.amazon.es/dp/B075JLLLFC/?tag=tolees-21) con un 74.90 % de descuento con precio de oferta de 3 EUR (original: 11.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CMBFZZT/?tag=tolees-21'
 descuento: '45.34'
+average: '15.67'
 ---
 
 Está [Caja De Música  Noria Musical  Music Box Parque De Atracciones Para Niños 3 4 5 6](https://www.amazon.es/dp/B07CMBFZZT/?tag=tolees-21) con 45.34 de descuento por 15.67 EUR (original: 28.67 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001EITAGW/?tag=tolees-21'
 descuento: '47.63'
+average: '19.99'
 ---
 
 Está [Fitness Mad Neo - Set de 2 Mancuernas / pesas de 5kg/u  color negro](https://www.amazon.es/dp/B001EITAGW/?tag=tolees-21) con 47.63 de descuento por 19.99 EUR (original: 38.17 EUR) en el siguiente enlace!

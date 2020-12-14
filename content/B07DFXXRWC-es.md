@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFXXRWC/?tag=tolees-21'
 descuento: '66.35'
+average: '23.54'
 ---
 
 Está [Puma Q4 BND Tech Trackster Pants  Hombre  Black Heather  M](https://www.amazon.es/dp/B07DFXXRWC/?tag=tolees-21) con 66.35 de descuento por 23.54 EUR (original: 69.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CWH4ZZ5/?tag=tolees-21'
 descuento: '36.18'
+average: '4.78'
 ---
 
 Está [AmazonBasics - Cable macho de USB 2.0 C a USB 2.0 C   de nailon con trenzado doble | 1 8 m  Rojo](https://www.amazon.es/dp/B07CWH4ZZ5/?tag=tolees-21) con 36.18 de descuento por 4.78 EUR (original: 7.49 EUR) en el siguiente enlace!

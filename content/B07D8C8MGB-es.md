@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D8C8MGB/?tag=tolees-21'
 descuento: '40.00'
+average: '65.4'
 ---
 
 Ahora mismo tienes [Munich Massana  Zapatillas Unisex Adulto   Verde 292   45 EU](https://www.amazon.es/dp/B07D8C8MGB/?tag=tolees-21) a 65.4 EUR (original: 109 EUR) (40.00 %  de descuento) en el siguiente enlace!

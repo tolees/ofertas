@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071L6V5FX/?tag=tolees-21'
 descuento: '58.14'
+average: '21.33'
 ---
 
 Está [Izas Vancouver Calzado  Unisex Adulto  Azul Cian / Gris Oscuro  41](https://www.amazon.es/dp/B071L6V5FX/?tag=tolees-21) con 58.14 de descuento por 21.33 EUR (original: 50.95 EUR) en el siguiente enlace!

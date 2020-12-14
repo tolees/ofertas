@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HH7Y1RW/?tag=tolees-21'
 descuento: '75.02'
+average: '9.99'
 ---
 
 Tienes [Philonext Pack de 2 leggings para mujer  cálido invierno terciopelo elástico Leggings pantalones  grueso forro polar forrado térmico elástico mallas para niña mujer](https://www.amazon.es/dp/B07HH7Y1RW/?tag=tolees-21) con un 75.02 % de descuento con precio de oferta de 9.99 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077NTGYQ2/?tag=tolees-21'
 descuento: '28.92'
+average: '31.95'
 ---
 
 Está [Adidas Duramo Lite 2.0  Zapatillas de Entrenamiento para Hombre  Azul  Noble Indigo/Footwear White/Collegiate Navy 0   45 1/3 EU](https://www.amazon.es/dp/B077NTGYQ2/?tag=tolees-21) con 28.92 de descuento por 31.95 EUR (original: 44.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XWWWYMH/?tag=tolees-21'
 descuento: '50.03'
+average: '9.99'
 ---
 
 Tienes [Auriculares  GGMM Auriculares con Cable Micrófono Bajo Potente Casco de Metal Headphone Cancelación de Ruido Clase 3.5mm Negro](https://www.amazon.es/dp/B06XWWWYMH/?tag=tolees-21) con un 50.03 % de descuento con precio de oferta de 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

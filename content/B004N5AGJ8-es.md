@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004N5AGJ8/?tag=tolees-21'
 descuento: '71.64'
+average: '6.24'
 ---
 
 Ahora mismo tienes [Victoria](https://www.amazon.es/dp/B004N5AGJ8/?tag=tolees-21) a 6.24 EUR (original: 22 EUR) (71.64 %  de descuento) en el siguiente enlace!

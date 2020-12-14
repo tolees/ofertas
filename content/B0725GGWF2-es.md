@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0725GGWF2/?tag=tolees-21'
 descuento: '50.00'
+average: '99.99'
 ---
 
 Está [Aparato de microdermoabrasión Philips SC6240/01 VisaCare para piel tersa y aspecto más juvenil  color blanco/oro](https://www.amazon.es/dp/B0725GGWF2/?tag=tolees-21) con 50.00 de descuento por 99.99 EUR (original: 199.99 EUR) en el siguiente enlace!

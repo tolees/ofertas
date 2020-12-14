@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0772P8HCL/?tag=tolees-21'
 descuento: '64.55'
+average: '20.56'
 ---
 
 Tienes [Kelme Subito Knit  Zapatillas para Hombre  Turquesa  Aqua   46 EU](https://www.amazon.es/dp/B0772P8HCL/?tag=tolees-21) con un 64.55 % de descuento con precio de oferta de 20.56 EUR (original: 58 EUR) en el siguiente enlace!

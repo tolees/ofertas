@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076QCDH4T/?tag=tolees-21'
 descuento: '32.95'
+average: '89.17'
 ---
 
 Ahora mismo tienes [Versa 10330112 Estantería 4 baldas  Madera  Marrón y Negro](https://www.amazon.es/dp/B076QCDH4T/?tag=tolees-21) a 89.17 EUR (original: 133 EUR) (32.95 %  de descuento) en el siguiente enlace!

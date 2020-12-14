@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00V8RZ6E4/?tag=tolees-21'
 descuento: '36.28'
+average: '52.25'
 ---
 
 Tienes [SRAM 00.2418.052.003 Cassette  PG-1130  11V  11-36  M](https://www.amazon.es/dp/B00V8RZ6E4/?tag=tolees-21) con un 36.28 % de descuento con precio de oferta de 52.25 EUR (original: 82 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001FWXIL0/?tag=tolees-21'
 descuento: '68.66'
+average: '21'
 ---
 
 Está [Davidoff Adventure  Perfume - 100 ml.](https://www.amazon.es/dp/B001FWXIL0/?tag=tolees-21) con 68.66 de descuento por 21 EUR (original: 67 EUR) en el siguiente enlace!

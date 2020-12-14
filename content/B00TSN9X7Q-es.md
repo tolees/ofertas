@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TSN9X7Q/?tag=tolees-21'
 descuento: '35.02'
+average: '12.99'
 ---
 
 Está [Naruto Shippuden: Ultimate Ninja Storm 4](https://www.amazon.es/dp/B00TSN9X7Q/?tag=tolees-21) con 35.02 de descuento por 12.99 EUR (original: 19.99 EUR) en el siguiente enlace!

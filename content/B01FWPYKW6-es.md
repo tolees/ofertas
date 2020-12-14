@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FWPYKW6/?tag=tolees-21'
 descuento: '31.60'
+average: '34.2'
 ---
 
 Está [Nike Magista Ola II FG  Botas de fútbol para Hombre  Naranja  Total Crimson/Black-BRT Mango   38.5 EU](https://www.amazon.es/dp/B01FWPYKW6/?tag=tolees-21) con 31.60 de descuento por 34.2 EUR (original: 50 EUR) en el siguiente enlace!

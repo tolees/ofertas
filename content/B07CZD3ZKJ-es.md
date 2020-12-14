@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZD3ZKJ/?tag=tolees-21'
 descuento: '46.01'
+average: '26.99'
 ---
 
 Está [Under Armour Rival Fleece Po Hoodie Parte Superior del Calentamiento  Hombre  Azul  Petrol Blue/Thunder/Black 437   S](https://www.amazon.es/dp/B07CZD3ZKJ/?tag=tolees-21) con 46.01 de descuento por 26.99 EUR (original: 49.99 EUR) en el siguiente enlace!

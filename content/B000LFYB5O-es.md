@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000LFYB5O/?tag=tolees-21'
 descuento: '40.90'
+average: '27.04'
 ---
 
 Ahora mismo tienes [Silverline 675062 - Clavadora neumática 32 mm  Calibre 18 ](https://www.amazon.es/dp/B000LFYB5O/?tag=tolees-21) a 27.04 EUR (original: 45.75 EUR) (40.90 %  de descuento) en el siguiente enlace!

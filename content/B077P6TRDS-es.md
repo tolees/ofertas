@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077P6TRDS/?tag=tolees-21'
 descuento: '74.27'
+average: '25.72'
 ---
 
 Ahora mismo tienes [Puma Suede Classic Bubble  Zapatillas para Mujer  Negro Black  39 EU](https://www.amazon.es/dp/B077P6TRDS/?tag=tolees-21) a 25.72 EUR (original: 99.95 EUR) (74.27 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002B5L1AA/?tag=tolees-21'
 descuento: '37.70'
+average: '35.2'
 ---
 
 Ahora mismo tienes [Shiseido Crema Ultra Hidratante para Hombres - 50 ml](https://www.amazon.es/dp/B002B5L1AA/?tag=tolees-21) a 35.2 EUR (original: 56.5 EUR) (37.70 %  de descuento) en el siguiente enlace!

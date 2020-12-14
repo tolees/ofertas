@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQWF8Q5/?tag=tolees-21'
 descuento: '39.03'
+average: '36.55'
 ---
 
 Ahora mismo tienes [Clarks Tunsil Ace  Zapatillas para Hombre  Gris  Grey-   44.5 EU](https://www.amazon.es/dp/B07FQWF8Q5/?tag=tolees-21) a 36.55 EUR (original: 59.95 EUR) (39.03 %  de descuento) en el siguiente enlace!

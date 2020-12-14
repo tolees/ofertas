@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005R45DXS/?tag=tolees-21'
 descuento: '45.87'
+average: '37.89'
 ---
 
 Ahora mismo tienes [Nike Wmns Tanjun Racer  Zapatillas de Running para Mujer  Gris  Cool Grey/Sail/Black 003   36 EU](https://www.amazon.es/dp/B005R45DXS/?tag=tolees-21) a 37.89 EUR (original: 70 EUR) (45.87 %  de descuento) en el siguiente enlace!

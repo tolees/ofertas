@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CVF6R9Y/?tag=tolees-21'
 descuento: '58.70'
+average: '28.89'
 ---
 
 Está [Skechers Equalizer 3.0  Zapatillas para Hombre  Gris  Grey Charcoal Gycc   47.5 EU](https://www.amazon.es/dp/B07CVF6R9Y/?tag=tolees-21) con 58.70 de descuento por 28.89 EUR (original: 69.95 EUR) en el siguiente enlace!

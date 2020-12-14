@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00SPVL75S/?tag=tolees-21'
 descuento: '40.56'
+average: '47.49'
 ---
 
 Tienes [Gre ET1200 - Escalera standard tipo tijera para piscina de altura 120cm](https://www.amazon.es/dp/B00SPVL75S/?tag=tolees-21) con un 40.56 % de descuento con precio de oferta de 47.49 EUR (original: 79.9 EUR) en el siguiente enlace!

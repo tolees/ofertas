@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J9XBF6D/?tag=tolees-21'
 descuento: '40.01'
+average: '107.99'
 ---
 
 Está [Asics Gel-Kayano 25  Zapatillas de Running para Hombre  Negro  Black/Glacier Grey 003   44 EU](https://www.amazon.es/dp/B07J9XBF6D/?tag=tolees-21) con 40.01 de descuento por 107.99 EUR (original: 180 EUR) en el siguiente enlace!

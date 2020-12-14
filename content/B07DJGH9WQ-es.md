@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJGH9WQ/?tag=tolees-21'
 descuento: '60.12'
+average: '23.91'
 ---
 
 Está [Dockers by Gerli 43ju002  Zapatillas Altas para Hombre  Marrón  Cognac 470   44 EU](https://www.amazon.es/dp/B07DJGH9WQ/?tag=tolees-21) con 60.12 de descuento por 23.91 EUR (original: 59.95 EUR) en el siguiente enlace!

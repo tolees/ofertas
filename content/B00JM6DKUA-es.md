@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00JM6DKUA/?tag=tolees-21'
 descuento: '37.28'
+average: '43.9'
 ---
 
 Tienes [Garmin 010-12484-05 Sensor de Velocidad y cadencia  Unisex  Negro](https://www.amazon.es/dp/B00JM6DKUA/?tag=tolees-21) con un 37.28 % de descuento con precio de oferta de 43.9 EUR (original: 69.99 EUR) en el siguiente enlace!

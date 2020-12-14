@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KG1XX8J/?tag=tolees-21'
 descuento: '65.80'
+average: '12.31'
 ---
 
 Está [Esprit 019ee2k014  Polo para Hombre  Blanco  White 100   Large](https://www.amazon.es/dp/B07KG1XX8J/?tag=tolees-21) con 65.80 de descuento por 12.31 EUR (original: 35.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077S8NSPW/?tag=tolees-21'
 descuento: '50.89'
+average: '31.92'
 ---
 
 Está [BILLABONG 73X Stripe 19 Bañador  Hombre   Naranja 60   X/Large](https://www.amazon.es/dp/B077S8NSPW/?tag=tolees-21) con 50.89 de descuento por 31.92 EUR (original: 65 EUR) en el siguiente enlace!

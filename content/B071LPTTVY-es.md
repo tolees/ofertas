@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071LPTTVY/?tag=tolees-21'
 descuento: '39.96'
+average: '32.99'
 ---
 
 Ahora mismo tienes [Adidas Lite Racer  Zapatillas  Negro  Negbas/Ftwbla 000   45 1/3 EU](https://www.amazon.es/dp/B071LPTTVY/?tag=tolees-21) a 32.99 EUR (original: 54.95 EUR) (39.96 %  de descuento) en el siguiente enlace!

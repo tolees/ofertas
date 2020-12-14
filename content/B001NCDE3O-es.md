@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001NCDE3O/?tag=tolees-21'
 descuento: '29.65'
+average: '7'
 ---
 
 Está [Nalgene Trinkflasche Everyday Bidón con Boca Estrecha 0 5 l  Unisex  Azul  0 5 litros](https://www.amazon.es/dp/B001NCDE3O/?tag=tolees-21) con 29.65 de descuento por 7 EUR (original: 9.95 EUR) en el siguiente enlace!

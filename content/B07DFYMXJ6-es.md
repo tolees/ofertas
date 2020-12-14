@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFYMXJ6/?tag=tolees-21'
 descuento: '46.02'
+average: '26.99'
 ---
 
 Está [Under Armour UA HG Armour Ankle Crop Edgelit Capri  Mujer  Negro  Black/Purple Prime/Metallic Silver 001   XL](https://www.amazon.es/dp/B07DFYMXJ6/?tag=tolees-21) con 46.02 de descuento por 26.99 EUR (original: 50 EUR) en el siguiente enlace!

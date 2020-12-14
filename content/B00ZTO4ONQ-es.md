@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00ZTO4ONQ/?tag=tolees-21'
 descuento: '47.31'
+average: '13.04'
 ---
 
 Está [Gioteck - Auricular Flow 200 Stereo  Color Negro](https://www.amazon.es/dp/B00ZTO4ONQ/?tag=tolees-21) con 47.31 de descuento por 13.04 EUR (original: 24.75 EUR) en el siguiente enlace!

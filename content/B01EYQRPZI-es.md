@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01EYQRPZI/?tag=tolees-21'
 descuento: '35.19'
+average: '69.99'
 ---
 
 Está [Blumfeldt Vesta 8 antorchas de jardín de aceite  acero inoxidable  decoración terraza  exteriores  mecha fibra de vidrio no se quema  120 cm  estaca fácil fijación suelo  cierre seguridad ](https://www.amazon.es/dp/B01EYQRPZI/?tag=tolees-21) con 35.19 de descuento por 69.99 EUR (original: 107.99 EUR) en el siguiente enlace!

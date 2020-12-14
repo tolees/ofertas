@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JCKKCS1/?tag=tolees-21'
 descuento: '28.53'
+average: '49.99'
 ---
 
 Ahora mismo tienes [Newskill kimera v2 - Auricular de Gaming  RGB  16m Colores  ps4 c  Color Negro  retroiluminación led Personalizable vía Software: Millones de Colores y Efectos de luz  rotación RGB y Apagado .](https://www.amazon.es/dp/B07JCKKCS1/?tag=tolees-21) a 49.99 EUR (original: 69.95 EUR) (28.53 %  de descuento) en el siguiente enlace!

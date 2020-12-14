@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K33WHC4/?tag=tolees-21'
 descuento: '39.46'
+average: '8.47'
 ---
 
 Ahora mismo tienes [WisFox Ratón inalámbrico  2.4 G USB Ratón de computadora portátil óptico para el Ahorro de energía con el Receptor Nano del Juego Home Office  800-2400 dpi  6 Botones - Negro](https://www.amazon.es/dp/B07K33WHC4/?tag=tolees-21) a 8.47 EUR (original: 13.99 EUR) (39.46 %  de descuento) en el siguiente enlace!

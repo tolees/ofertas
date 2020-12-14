@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077NN6HSK/?tag=tolees-21'
 descuento: '74.11'
+average: '23.29'
 ---
 
 Ahora mismo tienes [G-STAR RAW Rovulc Mid AOP  Zapatillas Altas para Hombre   Milk/Black Ao 7237   46 EU](https://www.amazon.es/dp/B077NN6HSK/?tag=tolees-21) a 23.29 EUR (original: 89.95 EUR) (74.11 %  de descuento) en el siguiente enlace!

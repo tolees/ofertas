@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01EI9HOJI/?tag=tolees-21'
 descuento: '30.50'
+average: '65.99'
 ---
 
 Está [adidas Originals Gazelle  Zapatillas Unisex Adulto  Varios colores  Collegiate Navy/White/Gold Metalic   46 EU](https://www.amazon.es/dp/B01EI9HOJI/?tag=tolees-21) con 30.50 de descuento por 65.99 EUR (original: 94.95 EUR) en el siguiente enlace!

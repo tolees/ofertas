@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B010NQXJBC/?tag=tolees-21'
 descuento: '55.63'
+average: '9.58'
 ---
 
 Está [Licht-experiencia exteriores CX120113](https://www.amazon.es/dp/B010NQXJBC/?tag=tolees-21) con 55.63 de descuento por 9.58 EUR (original: 21.59 EUR) en el siguiente enlace!

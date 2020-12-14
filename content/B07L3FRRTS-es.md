@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L3FRRTS/?tag=tolees-21'
 descuento: '68.33'
+average: '45.89'
 ---
 
 Está [Tommy Hilfiger Dress Casual Suede Boot  Botas Chelsea para Hombre  Marrón  Coffee Bean 212   41 EU](https://www.amazon.es/dp/B07L3FRRTS/?tag=tolees-21) con 68.33 de descuento por 45.89 EUR (original: 144.9 EUR) en el siguiente enlace!

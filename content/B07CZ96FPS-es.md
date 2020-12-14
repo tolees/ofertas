@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ96FPS/?tag=tolees-21'
 descuento: '30.72'
+average: '15.9'
 ---
 
 Está [Puma Courtflex Inf  Zapatillas Unisex para Niños  Rosa  Beetroot Purple-Peacoat White   21 EU](https://www.amazon.es/dp/B07CZ96FPS/?tag=tolees-21) con 30.72 de descuento por 15.9 EUR (original: 22.95 EUR) en el siguiente enlace!

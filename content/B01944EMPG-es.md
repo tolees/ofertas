@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01944EMPG/?tag=tolees-21'
 descuento: '54.70'
+average: '31.71'
 ---
 
 Tienes [New Balance 490v4  Zapatillas Deportivas Hombre  Azul  Blue/Silver   42.5 EU](https://www.amazon.es/dp/B01944EMPG/?tag=tolees-21) con un 54.70 % de descuento con precio de oferta de 31.71 EUR (original: 70 EUR) en el siguiente enlace!

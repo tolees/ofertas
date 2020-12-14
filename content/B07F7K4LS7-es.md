@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F7K4LS7/?tag=tolees-21'
 descuento: '35.29'
+average: '109.95'
 ---
 
 Está [Béaba 915020 - Hamaca bebe regulable en altura  unisex  color gris](https://www.amazon.es/dp/B07F7K4LS7/?tag=tolees-21) con 35.29 de descuento por 109.95 EUR (original: 169.9 EUR) en el siguiente enlace!

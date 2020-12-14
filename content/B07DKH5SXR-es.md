@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DKH5SXR/?tag=tolees-21'
 descuento: '30.00'
+average: '62.3'
 ---
 
 Tienes [Kipling - Firefly Up  Mochilas Mujer  Verde  Jaded Green C ](https://www.amazon.es/dp/B07DKH5SXR/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 62.3 EUR (original: 89 EUR) en el siguiente enlace!

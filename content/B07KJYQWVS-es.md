@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KJYQWVS/?tag=tolees-21'
 descuento: '67.57'
+average: '12.97'
 ---
 
 Está [IMITOR Calcetines de Senderismo para Hombre y Mujere Algodón Transpirable Calcetines de Trekking Calcetines para Actividades al Aire Libre Ciclismo Correr Escalar 3 Pares  Negro Naranja ](https://www.amazon.es/dp/B07KJYQWVS/?tag=tolees-21) con 67.57 de descuento por 12.97 EUR (original: 39.99 EUR) en el siguiente enlace!

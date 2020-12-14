@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00P66AGDY/?tag=tolees-21'
 descuento: '45.63'
+average: '54.34'
 ---
 
 Tienes [Karmin G3 Salon Pro - Rizador de pelo/cabello profesional conico sin pinza de turmalina 12mm a 25mm rizos duraderos con guante protector de calor y funda termica - voltaje dual ideal para viajar](https://www.amazon.es/dp/B00P66AGDY/?tag=tolees-21) con un 45.63 % de descuento con precio de oferta de 54.34 EUR (original: 99.95 EUR) en el siguiente enlace!

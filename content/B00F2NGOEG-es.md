@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00F2NGOEG/?tag=tolees-21'
 descuento: '37.71'
+average: '14.39'
 ---
 
 Ahora mismo tienes [Bellota 951-20 CM - RASTRILLO JARDIN](https://www.amazon.es/dp/B00F2NGOEG/?tag=tolees-21) a 14.39 EUR (original: 23.1 EUR) (37.71 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0051PWBT2/?tag=tolees-21'
 descuento: '41.71'
+average: '8.16'
 ---
 
 Ahora mismo tienes [Garnier Delial Aceite Protector Solar Dorado Sublime para Pieles Claras que se Broncean Fácilmente IP20+ - 150 ml](https://www.amazon.es/dp/B0051PWBT2/?tag=tolees-21) a 8.16 EUR (original: 14 EUR) (41.71 %  de descuento) en el siguiente enlace!

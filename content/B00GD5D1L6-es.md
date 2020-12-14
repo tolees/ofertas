@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00GD5D1L6/?tag=tolees-21'
 descuento: '46.95'
+average: '25.99'
 ---
 
 Tienes [Kingston KVR16LN11/4 - Memoria RAM de 4 GB  1600 MHz DDR3L Non-ECC CL11 DIMM 1.35 V  240-pin ](https://www.amazon.es/dp/B00GD5D1L6/?tag=tolees-21) con un 46.95 % de descuento con precio de oferta de 25.99 EUR (original: 48.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BGZ5K84/?tag=tolees-21'
 descuento: '25.37'
+average: '15.59'
 ---
 
 Tienes [Auntwhale Bebé infante Asiento de cochecito de bebé Silla de paseo Cochecito La seguridad Cojín de algodón suave Alfombrilla almohadilla](https://www.amazon.es/dp/B07BGZ5K84/?tag=tolees-21) con un 25.37 % de descuento con precio de oferta de 15.59 EUR (original: 20.89 EUR) en el siguiente enlace!

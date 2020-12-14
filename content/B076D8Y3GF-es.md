@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076D8Y3GF/?tag=tolees-21'
 descuento: '33.85'
+average: '62.84'
 ---
 
 Tienes [Play Funky - Silla de paseo  color blue stars](https://www.amazon.es/dp/B076D8Y3GF/?tag=tolees-21) con un 33.85 % de descuento con precio de oferta de 62.84 EUR (original: 95 EUR) en el siguiente enlace!

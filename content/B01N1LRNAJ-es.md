@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N1LRNAJ/?tag=tolees-21'
 descuento: '49.99'
+average: '49.98'
 ---
 
 Ahora mismo tienes [Clarks Hidi Holly  Zapatillas para Mujer  Negro  Black Nubuck   40 EU](https://www.amazon.es/dp/B01N1LRNAJ/?tag=tolees-21) a 49.98 EUR (original: 99.95 EUR) (49.99 %  de descuento) en el siguiente enlace!

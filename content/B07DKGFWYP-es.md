@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DKGFWYP/?tag=tolees-21'
 descuento: '40.00'
+average: '47.4'
 ---
 
 Está [Kipling - City Pack Mini  Mochilas Mujer  Azul  Active Blue ](https://www.amazon.es/dp/B07DKGFWYP/?tag=tolees-21) con 40.00 de descuento por 47.4 EUR (original: 79 EUR) en el siguiente enlace!

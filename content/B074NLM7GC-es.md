@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074NLM7GC/?tag=tolees-21'
 descuento: '33.73'
+average: '10.57'
 ---
 
 Tienes [Funko Pop! - Disney: Snow White Figura de Vinilo Evil Queen  Standard  21730](https://www.amazon.es/dp/B074NLM7GC/?tag=tolees-21) con un 33.73 % de descuento con precio de oferta de 10.57 EUR (original: 15.95 EUR) en el siguiente enlace!

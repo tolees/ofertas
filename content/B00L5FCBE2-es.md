@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00L5FCBE2/?tag=tolees-21'
 descuento: '79.72'
+average: '13.99'
 ---
 
 Está [Dickies Khaki  Pantalones Para Hombre  Negro  Black BK   W30/L32](https://www.amazon.es/dp/B00L5FCBE2/?tag=tolees-21) con 79.72 de descuento por 13.99 EUR (original: 69 EUR) en el siguiente enlace!

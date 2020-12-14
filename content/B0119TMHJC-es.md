@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0119TMHJC/?tag=tolees-21'
 descuento: '43.44'
+average: '59.39'
 ---
 
 Ahora mismo tienes [Explore Scientific](https://www.amazon.es/dp/B0119TMHJC/?tag=tolees-21) a 59.39 EUR (original: 105 EUR) (43.44 %  de descuento) en el siguiente enlace!

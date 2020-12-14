@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079WDJTZC/?tag=tolees-21'
 descuento: '74.41'
+average: '13.82'
 ---
 
 Está [Napapijri Pallet  Cinturón Hombre  Beige  Beige Nb1   90  Talla del fabricante: 1 ](https://www.amazon.es/dp/B079WDJTZC/?tag=tolees-21) con 74.41 de descuento por 13.82 EUR (original: 54 EUR) en el siguiente enlace!

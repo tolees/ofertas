@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FF49BZN/?tag=tolees-21'
 descuento: '56.79'
+average: '85.99'
 ---
 
 Ahora mismo tienes [San Ignacio Batería De Cocina  Cromado](https://www.amazon.es/dp/B07FF49BZN/?tag=tolees-21) a 85.99 EUR (original: 198.99 EUR) (56.79 %  de descuento) en el siguiente enlace!

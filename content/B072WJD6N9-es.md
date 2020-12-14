@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072WJD6N9/?tag=tolees-21'
 descuento: '38.12'
+average: '71.16'
 ---
 
 Tienes [The North Face Base Camp Duffel Bolsa de Deporte  Unisex Adulto  Dorado  Summit Gold/TNF Black   S](https://www.amazon.es/dp/B072WJD6N9/?tag=tolees-21) con un 38.12 % de descuento con precio de oferta de 71.16 EUR (original: 115 EUR) en el siguiente enlace!

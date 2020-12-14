@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000NRMXB4/?tag=tolees-21'
 descuento: '54.28'
+average: '10.95'
 ---
 
 Está [Cressi Rondinella Aletas  Unisex  Amarillo  41-42](https://www.amazon.es/dp/B000NRMXB4/?tag=tolees-21) con 54.28 de descuento por 10.95 EUR (original: 23.95 EUR) en el siguiente enlace!

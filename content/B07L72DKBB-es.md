@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L72DKBB/?tag=tolees-21'
 descuento: '61.17'
+average: '11'
 ---
 
 Está [New Look D-Ring 6034183  Mono Mujer  Negro  Black 1   36  Talla del Fabricante: 8 ](https://www.amazon.es/dp/B07L72DKBB/?tag=tolees-21) con 61.17 de descuento por 11 EUR (original: 28.33 EUR) en el siguiente enlace!

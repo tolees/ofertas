@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HS4WXXH/?tag=tolees-21'
 descuento: '30.00'
+average: '10.99'
 ---
 
 Ahora mismo tienes [Marca Amazon-  Solimo  Chocolate con leche suizo 1 2 kg  12 tabletas de 100g ](https://www.amazon.es/dp/B07HS4WXXH/?tag=tolees-21) a 10.99 EUR (original: 15.7 EUR) (30.00 %  de descuento) en el siguiente enlace!

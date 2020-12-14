@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00XVN72RW/?tag=tolees-21'
 descuento: '25.00'
+average: '9'
 ---
 
 Tienes [NGS Grid 500 - Regleta con 5 enchufes](https://www.amazon.es/dp/B00XVN72RW/?tag=tolees-21) con un 25.00 % de descuento con precio de oferta de 9 EUR (original: 12 EUR) en el siguiente enlace!

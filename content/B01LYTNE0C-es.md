@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LYTNE0C/?tag=tolees-21'
 descuento: '67.86'
+average: '8.02'
 ---
 
 Está [DKNY Intimates - Tanga - White](https://www.amazon.es/dp/B01LYTNE0C/?tag=tolees-21) con 67.86 de descuento por 8.02 EUR (original: 24.95 EUR) en el siguiente enlace!

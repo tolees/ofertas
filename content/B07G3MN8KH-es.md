@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G3MN8KH/?tag=tolees-21'
 descuento: '37.84'
+average: '31.08'
 ---
 
 Tienes [Hurley M One&Only Box 2.0 Pullover Sudaderas  Hombre  Black Heather  XL](https://www.amazon.es/dp/B07G3MN8KH/?tag=tolees-21) con un 37.84 % de descuento con precio de oferta de 31.08 EUR (original: 50 EUR) en el siguiente enlace!

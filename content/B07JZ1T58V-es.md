@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JZ1T58V/?tag=tolees-21'
 descuento: '34.43'
+average: '39.99'
 ---
 
 Tienes [UZOPI Receptor Transmisor Bluetooth 5.0  Adaptador Óptico de Audio 65 Pies de Largo Alcance Inalámbrico AaptX de Baja Latencia HD para TV PC Sistema de Estéreo para Automóvil para el Hogar](https://www.amazon.es/dp/B07JZ1T58V/?tag=tolees-21) con un 34.43 % de descuento con precio de oferta de 39.99 EUR (original: 60.99 EUR) en el siguiente enlace!

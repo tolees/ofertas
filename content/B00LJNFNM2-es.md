@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00LJNFNM2/?tag=tolees-21'
 descuento: '55.26'
+average: '31.94'
 ---
 
 Ahora mismo tienes [JBM 50816 Gato hidráulico Carretilla Especial Coches Bajos](https://www.amazon.es/dp/B00LJNFNM2/?tag=tolees-21) a 31.94 EUR (original: 71.39 EUR) (55.26 %  de descuento) en el siguiente enlace!

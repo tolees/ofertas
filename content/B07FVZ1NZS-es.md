@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FVZ1NZS/?tag=tolees-21'
 descuento: '49.90'
+average: '12.52'
 ---
 
 Ahora mismo tienes [SELECTED HOMME Slhnewseason SS Polo W Noos  Hombre  Verde  Quetzal Green   Large](https://www.amazon.es/dp/B07FVZ1NZS/?tag=tolees-21) a 12.52 EUR (original: 24.99 EUR) (49.90 %  de descuento) en el siguiente enlace!

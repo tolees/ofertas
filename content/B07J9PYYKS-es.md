@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J9PYYKS/?tag=tolees-21'
 descuento: '26.71'
+average: '29.28'
 ---
 
 Está [Skechers Bobs Squad  Zapatillas para Niñas  Rosa  Light Pink Ltpk   28.5 EU](https://www.amazon.es/dp/B07J9PYYKS/?tag=tolees-21) con 26.71 de descuento por 29.28 EUR (original: 39.95 EUR) en el siguiente enlace!

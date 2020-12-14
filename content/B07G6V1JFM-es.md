@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G6V1JFM/?tag=tolees-21'
 descuento: '57.65'
+average: '63.53'
 ---
 
 Ahora mismo tienes [BOSS Herren Glaze Lowp Logo  Zapatillas para Hombre  Gris  Medium Grey 030   46 EU](https://www.amazon.es/dp/B07G6V1JFM/?tag=tolees-21) a 63.53 EUR (original: 150 EUR) (57.65 %  de descuento) en el siguiente enlace!

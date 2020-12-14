@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G975RWN/?tag=tolees-21'
 descuento: '63.68'
+average: '47.94'
 ---
 
 Está [Guess - Atlas Flap Organizer  Mujer  Azul  Fuchsia   19x11x2 cm  W x H L ](https://www.amazon.es/dp/B07G975RWN/?tag=tolees-21) con 63.68 de descuento por 47.94 EUR (original: 132 EUR) en el siguiente enlace!

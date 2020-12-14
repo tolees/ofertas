@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XWTZLHD/?tag=tolees-21'
 descuento: '64.15'
+average: '26.89'
 ---
 
 Tienes [New Balance Wl220V1  Zapatillas para Mujer  Azul  Navy   35 EU](https://www.amazon.es/dp/B06XWTZLHD/?tag=tolees-21) con un 64.15 % de descuento con precio de oferta de 26.89 EUR (original: 75 EUR) en el siguiente enlace!

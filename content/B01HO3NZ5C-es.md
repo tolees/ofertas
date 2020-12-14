@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HO3NZ5C/?tag=tolees-21'
 descuento: '57.28'
+average: '38.43'
 ---
 
 Tienes [adidas Dragon  Zapatillas de Deporte para Niños  Rojo  Rojnoc/Ftwbla/Negbas   36 2/3 EU](https://www.amazon.es/dp/B01HO3NZ5C/?tag=tolees-21) con un 57.28 % de descuento con precio de oferta de 38.43 EUR (original: 89.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0721FGHH9/?tag=tolees-21'
 descuento: '51.34'
+average: '17.03'
 ---
 
 Está [find. Pantalones Regular Fit Hombre Negro  Black  W32/L33](https://www.amazon.es/dp/B0721FGHH9/?tag=tolees-21) con 51.34 de descuento por 17.03 EUR (original: 35 EUR) en el siguiente enlace!

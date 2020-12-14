@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KPRG6YW/?tag=tolees-21'
 descuento: '55.08'
+average: '26.95'
 ---
 
 Está [DC Shoes Rebel Fleece Top  Hombre  Black  XXL](https://www.amazon.es/dp/B07KPRG6YW/?tag=tolees-21) con 55.08 de descuento por 26.95 EUR (original: 59.99 EUR) en el siguiente enlace!

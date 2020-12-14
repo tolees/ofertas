@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0001K9ZAU/?tag=tolees-21'
 descuento: '45.79'
+average: '32.38'
 ---
 
 Está [Draper 64970 - Taburete Plegable](https://www.amazon.es/dp/B0001K9ZAU/?tag=tolees-21) con 45.79 de descuento por 32.38 EUR (original: 59.73 EUR) en el siguiente enlace!

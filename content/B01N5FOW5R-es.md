@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N5FOW5R/?tag=tolees-21'
 descuento: '70.35'
+average: '17.79'
 ---
 
 Ahora mismo tienes [find. 13649 vestidos mujer  Negro  Black   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B01N5FOW5R/?tag=tolees-21) a 17.79 EUR (original: 60 EUR) (70.35 %  de descuento) en el siguiente enlace!

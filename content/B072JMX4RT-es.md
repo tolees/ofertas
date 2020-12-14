@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072JMX4RT/?tag=tolees-21'
 descuento: '65.68'
+average: '30.87'
 ---
 
 Está [Reebok Classic Leather L Zapatillas  Mujer  Morado  Grit Lilac Glow / Sleek Met   38 EU  5 UK ](https://www.amazon.es/dp/B072JMX4RT/?tag=tolees-21) con 65.68 de descuento por 30.87 EUR (original: 89.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077MLQP65/?tag=tolees-21'
 descuento: '56.80'
+average: '11.66'
 ---
 
 Está [Only Onltitania L/s Pullover CC Knt suéter  Rojo Flame Scarlet  40  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B077MLQP65/?tag=tolees-21) con 56.80 de descuento por 11.66 EUR (original: 26.99 EUR) en el siguiente enlace!

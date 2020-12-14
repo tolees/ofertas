@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00GLQ0YMQ/?tag=tolees-21'
 descuento: '55.99'
+average: '65.57'
 ---
 
 Tienes [Genius SW HF5.1 4800 Conjunto de Altavoces 5.1 Canales 125 W Negro  Madera - Set de Altavoces  5.1 Canales  125 W  PC  Negro  Madera  40-20000 Hz  90 dB ](https://www.amazon.es/dp/B00GLQ0YMQ/?tag=tolees-21) con un 55.99 % de descuento con precio de oferta de 65.57 EUR (original: 149 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071XGKGVH/?tag=tolees-21'
 descuento: '76.49'
+average: '3.32'
 ---
 
 Ahora mismo tienes [yichahu     aleación      ](https://www.amazon.es/dp/B071XGKGVH/?tag=tolees-21) a 3.32 EUR (original: 14.12 EUR) (76.49 %  de descuento) en el siguiente enlace!

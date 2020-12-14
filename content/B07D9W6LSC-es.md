@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9W6LSC/?tag=tolees-21'
 descuento: '53.40'
+average: '32.6'
 ---
 
 Está [Mustang Booty  Botas Clasicas para Hombre  Marrón  Mittelbraun 360   43 EU](https://www.amazon.es/dp/B07D9W6LSC/?tag=tolees-21) con 53.40 de descuento por 32.6 EUR (original: 69.95 EUR) en el siguiente enlace!

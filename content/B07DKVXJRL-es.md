@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DKVXJRL/?tag=tolees-21'
 descuento: '42.98'
+average: '14.25'
 ---
 
 Está [Columbia Gorra de béisbol unisex  Silver Ridge III Ball Cap  Nailon  Blanco  White   Talla: O/S  1840071](https://www.amazon.es/dp/B07DKVXJRL/?tag=tolees-21) con 42.98 de descuento por 14.25 EUR (original: 24.99 EUR) en el siguiente enlace!

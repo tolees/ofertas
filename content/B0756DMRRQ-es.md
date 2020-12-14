@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0756DMRRQ/?tag=tolees-21'
 descuento: '58.51'
+average: '4'
 ---
 
 Tienes [El Otro Guardaespaldas Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B0756DMRRQ/?tag=tolees-21) con un 58.51 % de descuento con precio de oferta de 4 EUR (original: 9.64 EUR) en el siguiente enlace!

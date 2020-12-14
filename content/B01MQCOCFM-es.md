@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MQCOCFM/?tag=tolees-21'
 descuento: '35.49'
+average: '41.9'
 ---
 
 Está [Skechers You  Zapatillas sin cordones para Mujer  Gris  Charcoal   36 EU](https://www.amazon.es/dp/B01MQCOCFM/?tag=tolees-21) con 35.49 de descuento por 41.9 EUR (original: 64.95 EUR) en el siguiente enlace!

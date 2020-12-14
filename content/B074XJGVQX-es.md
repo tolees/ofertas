@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074XJGVQX/?tag=tolees-21'
 descuento: '52.58'
+average: '12.8'
 ---
 
 Ahora mismo tienes [Only & Sons Onsgarson Wash Crew Neck Knit Noos  suéter para Hombre  Azul  Copen Blue   Small](https://www.amazon.es/dp/B074XJGVQX/?tag=tolees-21) a 12.8 EUR (original: 26.99 EUR) (52.58 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D8SVFH4/?tag=tolees-21'
 descuento: '51.00'
+average: '19.55'
 ---
 
 Está [Tommy Hilfiger SPW Flag Cap  Gorra de béisbol Hombre  Gris  Charcoal Htr 051   Talla única  Talla del Fabricante: OS ](https://www.amazon.es/dp/B07D8SVFH4/?tag=tolees-21) con 51.00 de descuento por 19.55 EUR (original: 39.9 EUR) en el siguiente enlace!

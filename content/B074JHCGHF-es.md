@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074JHCGHF/?tag=tolees-21'
 descuento: '70.91'
+average: '8.71'
 ---
 
 Ahora mismo tienes [Air Wick Essential Mist Recambio Ambientador Flor de Vainilla - Paquete de 6 Recambios](https://www.amazon.es/dp/B074JHCGHF/?tag=tolees-21) a 8.71 EUR (original: 29.94 EUR) (70.91 %  de descuento) en el siguiente enlace!

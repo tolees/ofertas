@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LCKP42P/?tag=tolees-21'
 descuento: '41.67'
+average: '69.99'
 ---
 
 Está [Aingoo Moderna Mesa de Consola Industrial para sofá con Escritorio de Cristal y cajón  Mesa de Entrada para salón](https://www.amazon.es/dp/B07LCKP42P/?tag=tolees-21) con 41.67 de descuento por 69.99 EUR (original: 119.99 EUR) en el siguiente enlace!

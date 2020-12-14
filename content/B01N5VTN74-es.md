@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N5VTN74/?tag=tolees-21'
 descuento: '64.62'
+average: '19.81'
 ---
 
 Ahora mismo tienes [Cortefiel C5BCB Chino Tailored PPT Pantalones  Gris  Greys   40 para Hombre](https://www.amazon.es/dp/B01N5VTN74/?tag=tolees-21) a 19.81 EUR (original: 55.99 EUR) (64.62 %  de descuento) en el siguiente enlace!

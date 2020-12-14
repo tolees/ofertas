@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GV974SJ/?tag=tolees-21'
 descuento: '54.57'
+average: '9.99'
 ---
 
 Tienes [Fuleadture Funda iPhone XS  [Compatible con Carga Inalámbrica] Original Versión Mejorada Slim Líquido de Silicona Gel Carcasa Totalmente Protectora Caso Case Apple iPhone XS 5 8" 2018](https://www.amazon.es/dp/B07GV974SJ/?tag=tolees-21) con un 54.57 % de descuento con precio de oferta de 9.99 EUR (original: 21.99 EUR) en el siguiente enlace!

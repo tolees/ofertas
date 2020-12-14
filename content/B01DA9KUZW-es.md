@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DA9KUZW/?tag=tolees-21'
 descuento: '57.99'
+average: '9.62'
 ---
 
 Está [Belino Stars - Juguetero oval de tela  30 x 45 x 27 cm  color gris](https://www.amazon.es/dp/B01DA9KUZW/?tag=tolees-21) con 57.99 de descuento por 9.62 EUR (original: 22.9 EUR) en el siguiente enlace!

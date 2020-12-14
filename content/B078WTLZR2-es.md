@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078WTLZR2/?tag=tolees-21'
 descuento: '36.00'
+average: '159.99'
 ---
 
 Ahora mismo tienes [Maclaren Triumph Silla de paseo - ligera  compacta - Negro/Carbón](https://www.amazon.es/dp/B078WTLZR2/?tag=tolees-21) a 159.99 EUR (original: 250 EUR) (36.00 %  de descuento) en el siguiente enlace!

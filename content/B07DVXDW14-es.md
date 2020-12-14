@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DVXDW14/?tag=tolees-21'
 descuento: '39.18'
+average: '24.32'
 ---
 
 Tienes [Columbia Youth Spinner  Zapatillas Casual para Niños  Azul  Stormy Blue  Deep Yellow   38 EU](https://www.amazon.es/dp/B07DVXDW14/?tag=tolees-21) con un 39.18 % de descuento con precio de oferta de 24.32 EUR (original: 39.99 EUR) en el siguiente enlace!

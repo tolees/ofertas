@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GX9YG32/?tag=tolees-21'
 descuento: '50.36'
+average: '12.41'
 ---
 
 Tienes [Nike W NK Dry tee DFC Crew T-Shirt  Mujer  White/htr/Black  L](https://www.amazon.es/dp/B07GX9YG32/?tag=tolees-21) con un 50.36 % de descuento con precio de oferta de 12.41 EUR (original: 25 EUR) en el siguiente enlace!

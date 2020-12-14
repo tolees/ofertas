@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XVVVN8/?tag=tolees-21'
 descuento: '82.06'
+average: '8.95'
 ---
 
 Está [Catherine Lansfield Printed Knit Funda Nórdica Algodón  Beige 200 X 200 +  2  65 X 65 cm](https://www.amazon.es/dp/B077XVVVN8/?tag=tolees-21) con 82.06 de descuento por 8.95 EUR (original: 49.9 EUR) en el siguiente enlace!

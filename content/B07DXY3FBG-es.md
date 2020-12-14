@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DXY3FBG/?tag=tolees-21'
 descuento: '66.51'
+average: '99.8'
 ---
 
 Está [LAD WEATHER Reloj Radio-Control Energía-Solar Batería-Recargable Automático-Corrección-de-Tiempo Varios-Husos-Horarios](https://www.amazon.es/dp/B07DXY3FBG/?tag=tolees-21) con 66.51 de descuento por 99.8 EUR (original: 298 EUR) en el siguiente enlace!

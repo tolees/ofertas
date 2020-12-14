@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002DVWGZQ/?tag=tolees-21'
 descuento: '45.08'
+average: '493.9'
 ---
 
 Ahora mismo tienes [Makita HM1213C - Martillo Demoledor 10.8Kg Avt](https://www.amazon.es/dp/B002DVWGZQ/?tag=tolees-21) a 493.9 EUR (original: 899.38 EUR) (45.08 %  de descuento) en el siguiente enlace!

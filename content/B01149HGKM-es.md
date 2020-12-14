@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01149HGKM/?tag=tolees-21'
 descuento: '83.13'
+average: '4.27'
 ---
 
 Tienes [Paquete de 6 posavasos con soporte de metal cromado con diseño de sonrisa  color negro o blanco de Babavoom](https://www.amazon.es/dp/B01149HGKM/?tag=tolees-21) con un 83.13 % de descuento con precio de oferta de 4.27 EUR (original: 25.31 EUR) en el siguiente enlace!

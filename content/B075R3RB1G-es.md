@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075R3RB1G/?tag=tolees-21'
 descuento: '76.44'
+average: '30.63'
 ---
 
 Está [New Balance Fuel Core Sonic v2  Zapatillas de Running para Mujer  Naranja  Dragonfly/White Dg2   36.5 EU](https://www.amazon.es/dp/B075R3RB1G/?tag=tolees-21) con 76.44 de descuento por 30.63 EUR (original: 130 EUR) en el siguiente enlace!

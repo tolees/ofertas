@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01ING04JE/?tag=tolees-21'
 descuento: '75.16'
+average: '8.05'
 ---
 
 Ahora mismo tienes [fischer - Luz LED para Bicicleta  a Pilas  Color Negro](https://www.amazon.es/dp/B01ING04JE/?tag=tolees-21) a 8.05 EUR (original: 32.41 EUR) (75.16 %  de descuento) en el siguiente enlace!

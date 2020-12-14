@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IPIYLKO/?tag=tolees-21'
 descuento: '26.82'
+average: '90'
 ---
 
 Tienes [Bosch PSM 200 AES - Multilijadora  2 hojas de lija  placa lijadora rectangular  maletín de transporte  200 W ](https://www.amazon.es/dp/B00IPIYLKO/?tag=tolees-21) con un 26.82 % de descuento con precio de oferta de 90 EUR (original: 122.98 EUR) en el siguiente enlace!

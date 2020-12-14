@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FN5NWNM/?tag=tolees-21'
 descuento: '67.94'
+average: '28.84'
 ---
 
 Tienes [Clarks - The Reed  Shoppers y bolsos de hombro Hombre  Azul  Navy Canvas ](https://www.amazon.es/dp/B07FN5NWNM/?tag=tolees-21) con un 67.94 % de descuento con precio de oferta de 28.84 EUR (original: 89.95 EUR) en el siguiente enlace!

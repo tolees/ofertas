@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01AYACSTQ/?tag=tolees-21'
 descuento: '41.91'
+average: '23.23'
 ---
 
 Está [Philips Flite SHL4805RG - Auriculares de Diadema Cerrados  micrófono  diseño metálico  Ultraligero  Plegable   Color Oro Rosa](https://www.amazon.es/dp/B01AYACSTQ/?tag=tolees-21) con 41.91 de descuento por 23.23 EUR (original: 39.99 EUR) en el siguiente enlace!

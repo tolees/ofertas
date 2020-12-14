@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KM37FZQ/?tag=tolees-21'
 descuento: '52.71'
+average: '7.5'
 ---
 
 Ahora mismo tienes [Searching  + BD  [Blu-ray]](https://www.amazon.es/dp/B07KM37FZQ/?tag=tolees-21) a 7.5 EUR (original: 15.86 EUR) (52.71 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074PWHJLX/?tag=tolees-21'
 descuento: '75.58'
+average: '10.99'
 ---
 
 Ahora mismo tienes [Hurley One&Only 2.0 21 Bañador  Hombre  Rojo  Gym Red   XS/28](https://www.amazon.es/dp/B074PWHJLX/?tag=tolees-21) a 10.99 EUR (original: 45 EUR) (75.58 %  de descuento) en el siguiente enlace!

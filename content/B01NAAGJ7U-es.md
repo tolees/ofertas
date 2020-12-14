@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NAAGJ7U/?tag=tolees-21'
 descuento: '28.01'
+average: '17.99'
 ---
 
 Ahora mismo tienes [Amazon FreeTime - Funda infantil para Fire 7  tablet de 7 pulgadas  7ª generación  modelo de 2017   Amarillo](https://www.amazon.es/dp/B01NAAGJ7U/?tag=tolees-21) a 17.99 EUR (original: 24.99 EUR) (28.01 %  de descuento) en el siguiente enlace!

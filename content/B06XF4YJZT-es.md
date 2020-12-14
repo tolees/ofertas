@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XF4YJZT/?tag=tolees-21'
 descuento: '49.00'
+average: '9.99'
 ---
 
 Está [NOVATA aceite / vinagre /Salsa de soja vertiendo botella de fugas de acero inoxidable Herramientas de cocina y botella de aceite a prueba de fugas de aceite de oliva  750ML ](https://www.amazon.es/dp/B06XF4YJZT/?tag=tolees-21) con 49.00 de descuento por 9.99 EUR (original: 19.59 EUR) en el siguiente enlace!

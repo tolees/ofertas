@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RXR9JJ/?tag=tolees-21'
 descuento: '63.12'
+average: '27.66'
 ---
 
 Está [Pepe Jeans London Gable Velvet  Zapatillas para Mujer  Azul  Navy 595   37 EU](https://www.amazon.es/dp/B079RXR9JJ/?tag=tolees-21) con 63.12 de descuento por 27.66 EUR (original: 75 EUR) en el siguiente enlace!

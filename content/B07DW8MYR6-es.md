@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DW8MYR6/?tag=tolees-21'
 descuento: '54.72'
+average: '29.43'
 ---
 
 Tienes [DC Shoes Tonik TX  Zapatillas de Skateboard para Hombre  Rojo  Dark Red DRK   42.5 EU](https://www.amazon.es/dp/B07DW8MYR6/?tag=tolees-21) con un 54.72 % de descuento con precio de oferta de 29.43 EUR (original: 65 EUR) en el siguiente enlace!

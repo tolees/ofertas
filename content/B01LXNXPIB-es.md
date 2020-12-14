@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LXNXPIB/?tag=tolees-21'
 descuento: '66.68'
+average: '17.99'
 ---
 
 Está [Ruicer Toallero Barra Acero Inoxidable Fijar Sin Taladrar 55cm](https://www.amazon.es/dp/B01LXNXPIB/?tag=tolees-21) con 66.68 de descuento por 17.99 EUR (original: 53.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BR9FV1C/?tag=tolees-21'
 descuento: '54.83'
+average: '113.38'
 ---
 
 Ahora mismo tienes [Western Digital WD Black NVMe - Disco duro sólido SSD 500GB  M.2  PCI Express 3.0  3400 MB/s](https://www.amazon.es/dp/B07BR9FV1C/?tag=tolees-21) a 113.38 EUR (original: 251 EUR) (54.83 %  de descuento) en el siguiente enlace!

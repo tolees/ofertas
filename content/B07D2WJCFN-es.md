@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D2WJCFN/?tag=tolees-21'
 descuento: '49.52'
+average: '19.99'
 ---
 
 Tienes [AmazonBasics - Micrófonos para cámara LJ-OCM-002](https://www.amazon.es/dp/B07D2WJCFN/?tag=tolees-21) con un 49.52 % de descuento con precio de oferta de 19.99 EUR (original: 39.6 EUR) en el siguiente enlace!

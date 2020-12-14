@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075RGGXZ1/?tag=tolees-21'
 descuento: '25.00'
+average: '52.46'
 ---
 
 Está [GORE WEAR C3 Mallas cortas de ciclismo para hombre con badana  Talla: L  Color: Negro](https://www.amazon.es/dp/B075RGGXZ1/?tag=tolees-21) con 25.00 de descuento por 52.46 EUR (original: 69.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079BZWHD8/?tag=tolees-21'
 descuento: '70.36'
+average: '20.73'
 ---
 
 Tienes [Puma Vikky Platform Ribbon S  Zapatillas para Mujer  Gris Laurel Wreath  39 EU](https://www.amazon.es/dp/B079BZWHD8/?tag=tolees-21) con un 70.36 % de descuento con precio de oferta de 20.73 EUR (original: 69.95 EUR) en el siguiente enlace!

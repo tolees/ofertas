@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N0KAKB6/?tag=tolees-21'
 descuento: '55.33'
+average: '20.99'
 ---
 
 Está [Grabadora de Audio con Microfono Dictafono con USB por JiGMO  Plata   Digital Portátil  8 GB / 48 horas de audio capacidad  384 kbps  Con 2 Acolladores y ebook  Mini Dispositivo de Grabación!](https://www.amazon.es/dp/B01N0KAKB6/?tag=tolees-21) con 55.33 de descuento por 20.99 EUR (original: 46.99 EUR) en el siguiente enlace!

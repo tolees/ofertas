@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHSYWTD/?tag=tolees-21'
 descuento: '47.41'
+average: '26.29'
 ---
 
 Está [DC Shoes Rebel Pant Fleece Bottom  Hombre  Black  M](https://www.amazon.es/dp/B07DHSYWTD/?tag=tolees-21) con 47.41 de descuento por 26.29 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00JSZDWU8/?tag=tolees-21'
 descuento: '40.89'
+average: '27.84'
 ---
 
 Ahora mismo tienes [Vulli Sophie la girafe 240113 - Cojín 2 en 1](https://www.amazon.es/dp/B00JSZDWU8/?tag=tolees-21) a 27.84 EUR (original: 47.1 EUR) (40.89 %  de descuento) en el siguiente enlace!

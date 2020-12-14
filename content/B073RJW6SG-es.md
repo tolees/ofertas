@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073RJW6SG/?tag=tolees-21'
 descuento: '68.62'
+average: '31.36'
 ---
 
 Está [Adidas Athletics 24/7 W  Zapatillas de Deporte para Mujer  Blanco Ftwbla/Rostra 000  39 1/3 EU](https://www.amazon.es/dp/B073RJW6SG/?tag=tolees-21) con 68.62 de descuento por 31.36 EUR (original: 99.95 EUR) en el siguiente enlace!

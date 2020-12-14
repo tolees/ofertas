@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GRD4QZI/?tag=tolees-21'
 descuento: '58.40'
+average: '22.86'
 ---
 
 Ahora mismo tienes [Columbia Youth Redmond  Zapatillas de Deporte Exterior para Niños  Azul  Carbon/Super Solarize   32 EU](https://www.amazon.es/dp/B01GRD4QZI/?tag=tolees-21) a 22.86 EUR (original: 54.95 EUR) (58.40 %  de descuento) en el siguiente enlace!

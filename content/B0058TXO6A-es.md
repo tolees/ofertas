@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0058TXO6A/?tag=tolees-21'
 descuento: '35.05'
+average: '9.71'
 ---
 
 Está [Portería Hinchable Bestway Water Polo](https://www.amazon.es/dp/B0058TXO6A/?tag=tolees-21) con 35.05 de descuento por 9.71 EUR (original: 14.95 EUR) en el siguiente enlace!

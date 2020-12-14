@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JHBWPXD/?tag=tolees-21'
 descuento: '58.36'
+average: '9.99'
 ---
 
 Está [Lifewit Porta Alimentos Niños Bolsa Térmica Bolsa de Almuerzo de Aislamiento Térmico Caja de protección de frescura  Azul](https://www.amazon.es/dp/B07JHBWPXD/?tag=tolees-21) con 58.36 de descuento por 9.99 EUR (original: 23.99 EUR) en el siguiente enlace!

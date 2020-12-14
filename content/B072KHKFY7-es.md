@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072KHKFY7/?tag=tolees-21'
 descuento: '58.30'
+average: '5'
 ---
 
 Está [La Momia  2017  [Blu-ray]](https://www.amazon.es/dp/B072KHKFY7/?tag=tolees-21) con 58.30 de descuento por 5 EUR (original: 11.99 EUR) en el siguiente enlace!

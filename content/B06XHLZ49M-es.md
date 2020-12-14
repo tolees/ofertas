@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XHLZ49M/?tag=tolees-21'
 descuento: '41.17'
+average: '99.99'
 ---
 
 Está [Fitbit Alta HR Pulsera de Actividad  Unisex Adulto  Rosa  L](https://www.amazon.es/dp/B06XHLZ49M/?tag=tolees-21) con 41.17 de descuento por 99.99 EUR (original: 169.95 EUR) en el siguiente enlace!

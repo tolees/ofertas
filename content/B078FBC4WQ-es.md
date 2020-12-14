@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078FBC4WQ/?tag=tolees-21'
 descuento: '70.78'
+average: '23.38'
 ---
 
 Está [Salomon Mallas para running  agile long tight  tejido de punto  negro  mujer  talla: S](https://www.amazon.es/dp/B078FBC4WQ/?tag=tolees-21) con 70.78 de descuento por 23.38 EUR (original: 80 EUR) en el siguiente enlace!

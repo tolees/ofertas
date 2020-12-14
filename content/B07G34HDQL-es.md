@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G34HDQL/?tag=tolees-21'
 descuento: '25.71'
+average: '1299.99'
 ---
 
 Ahora mismo tienes [Alkove Palma - Sofá de cuero de tres plazas  gris topo ](https://www.amazon.es/dp/B07G34HDQL/?tag=tolees-21) a 1299.99 EUR (original: 1749.99 EUR) (25.71 %  de descuento) en el siguiente enlace!

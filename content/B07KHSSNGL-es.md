@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KHSSNGL/?tag=tolees-21'
 descuento: '37.15'
+average: '21.99'
 ---
 
 Está [SUAOKI H4/HB2/9003 Bombillas de faros delanteros coche LED  Reemplazo de luz halógena  8000 lúmenes  Super brillante de 6000k  IP68 Impermeable  disipación de calor rápida](https://www.amazon.es/dp/B07KHSSNGL/?tag=tolees-21) con 37.15 de descuento por 21.99 EUR (original: 34.99 EUR) en el siguiente enlace!

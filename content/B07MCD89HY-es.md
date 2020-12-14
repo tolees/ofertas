@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MCD89HY/?tag=tolees-21'
 descuento: '55.64'
+average: '39.9'
 ---
 
 Tienes [XOMAX XM-2R421 Radio de Coche con Bluetooth I RDS I Am  FM I USB  AUX I 7 Colores de luz Ajustables I 2 DIN](https://www.amazon.es/dp/B07MCD89HY/?tag=tolees-21) con un 55.64 % de descuento con precio de oferta de 39.9 EUR (original: 89.95 EUR) en el siguiente enlace!

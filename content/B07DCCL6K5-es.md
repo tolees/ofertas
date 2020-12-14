@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCCL6K5/?tag=tolees-21'
 descuento: '68.22'
+average: '31.76'
 ---
 
 Tienes [Puma SHOKU Non-Knit BT  Zapatillas Unisex Adulto  Negro Black  46 EU](https://www.amazon.es/dp/B07DCCL6K5/?tag=tolees-21) con un 68.22 % de descuento con precio de oferta de 31.76 EUR (original: 99.95 EUR) en el siguiente enlace!

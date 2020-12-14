@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001TPN3TA/?tag=tolees-21'
 descuento: '33.61'
+average: '395'
 ---
 
 Está [Dometic Coolfreeze CDF 18 - Nevera de compresor portátil  conexiones 12 / 24 V   enfriamiento de +10ºC a -18ºC  18 litros](https://www.amazon.es/dp/B001TPN3TA/?tag=tolees-21) con 33.61 de descuento por 395 EUR (original: 595 EUR) en el siguiente enlace!

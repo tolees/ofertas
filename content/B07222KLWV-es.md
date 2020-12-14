@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07222KLWV/?tag=tolees-21'
 descuento: '63.83'
+average: '18.08'
 ---
 
 Está [RED WAGON Botas con Tiburón para Niños  Azul  Blue   32 EU](https://www.amazon.es/dp/B07222KLWV/?tag=tolees-21) con 63.83 de descuento por 18.08 EUR (original: 49.99 EUR) en el siguiente enlace!

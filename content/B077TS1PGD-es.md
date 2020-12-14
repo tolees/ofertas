@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077TS1PGD/?tag=tolees-21'
 descuento: '47.83'
+average: '26.06'
 ---
 
 Tienes [Reebok Work N Cushion 3.0  Zapatillas de Marcha Nórdica para Hombre  Blanco  White/Steel 0   41 EU](https://www.amazon.es/dp/B077TS1PGD/?tag=tolees-21) con un 47.83 % de descuento con precio de oferta de 26.06 EUR (original: 49.95 EUR) en el siguiente enlace!

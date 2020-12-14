@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07144PWZJ/?tag=tolees-21'
 descuento: '63.70'
+average: '32.67'
 ---
 
 Está [Under Armour Ua W Lightning 2 Zapatillas de Entrenamiento Mujer  Azul  Belt Blue 401   37.5 EU](https://www.amazon.es/dp/B07144PWZJ/?tag=tolees-21) con 63.70 de descuento por 32.67 EUR (original: 90 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076KM2G1H/?tag=tolees-21'
 descuento: '25.02'
+average: '899'
 ---
 
 Está [Apple iPhone X - Smartphone de 5.8"  256 GB  cámara de 12 MP  iOS   Plata  Silver ](https://www.amazon.es/dp/B076KM2G1H/?tag=tolees-21) con 25.02 de descuento por 899 EUR (original: 1199 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BR9HHBN/?tag=tolees-21'
 descuento: '32.45'
+average: '5.37'
 ---
 
 Está [L Oreal Paris Colorista Hair Make Up Rose Gold](https://www.amazon.es/dp/B07BR9HHBN/?tag=tolees-21) con 32.45 de descuento por 5.37 EUR (original: 7.95 EUR) en el siguiente enlace!

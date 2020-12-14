@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F4JZFTR/?tag=tolees-21'
 descuento: '74.67'
+average: '22.78'
 ---
 
 Ahora mismo tienes [Wrangler Greensboro  Jeans para Hombre  Gris  Funk Grey 32l  42W/L34](https://www.amazon.es/dp/B07F4JZFTR/?tag=tolees-21) a 22.78 EUR (original: 89.95 EUR) (74.67 %  de descuento) en el siguiente enlace!

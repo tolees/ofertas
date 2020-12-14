@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FH4KXPS/?tag=tolees-21'
 descuento: '49.40'
+average: '30.36'
 ---
 
 Ahora mismo tienes [Levis Footwear and Accessories Woods Sportswear  Zapatillas para Hombre  Negro  Regular Black 59   41 EU](https://www.amazon.es/dp/B07FH4KXPS/?tag=tolees-21) a 30.36 EUR (original: 60 EUR) (49.40 %  de descuento) en el siguiente enlace!

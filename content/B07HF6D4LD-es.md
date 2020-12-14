@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HF6D4LD/?tag=tolees-21'
 descuento: '47.15'
+average: '36.99'
 ---
 
 Ahora mismo tienes [AEVOBAS Batidoras de Mano 1000W  5 en 1 Batidoras de Varillas con Trituradora de Papas  Mezclador de Suplementos Alimenticios para Niños  Batidor de Huevos  600ml Vaso de Precipitados  500ml Picador](https://www.amazon.es/dp/B07HF6D4LD/?tag=tolees-21) a 36.99 EUR (original: 69.99 EUR) (47.15 %  de descuento) en el siguiente enlace!

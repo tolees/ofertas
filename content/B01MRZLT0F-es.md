@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MRZLT0F/?tag=tolees-21'
 descuento: '52.86'
+average: '65.99'
 ---
 
 Está [PawHut Caseta para Perro 85 x 58 x 58cm Madera Impermeable con Tejado Verde Abatible y 4 Pies Antideslizantes](https://www.amazon.es/dp/B01MRZLT0F/?tag=tolees-21) con 52.86 de descuento por 65.99 EUR (original: 139.99 EUR) en el siguiente enlace!

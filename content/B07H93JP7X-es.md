@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H93JP7X/?tag=tolees-21'
 descuento: '60.90'
+average: '8.99'
 ---
 
 Ahora mismo tienes [SUAOKI Protector Parabrisas Reversible  Cubierta Parabrisas de Nieve  Sol  Viento y Lluvia  Coche con Gancho y Sombrilla Impermeable con Correas Exteriores  Cubierta para Espejos  para automóviles](https://www.amazon.es/dp/B07H93JP7X/?tag=tolees-21) a 8.99 EUR (original: 22.99 EUR) (60.90 %  de descuento) en el siguiente enlace!

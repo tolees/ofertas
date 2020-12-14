@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K2MBPW5/?tag=tolees-21'
 descuento: '56.83'
+average: '120.45'
 ---
 
 Ahora mismo tienes [Love Moschino Heart and Logo_Knitted Long Sleeve Jumper suéter  Negro  Black C74   40  Talla del Fabricante: 42  para Mujer](https://www.amazon.es/dp/B07K2MBPW5/?tag=tolees-21) a 120.45 EUR (original: 279 EUR) (56.83 %  de descuento) en el siguiente enlace!

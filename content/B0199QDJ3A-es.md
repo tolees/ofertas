@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0199QDJ3A/?tag=tolees-21'
 descuento: '61.04'
+average: '5.84'
 ---
 
 Está [New Look Acid Wash-Camisa de Deporte Hombre Gris Gris X-Small](https://www.amazon.es/dp/B0199QDJ3A/?tag=tolees-21) con 61.04 de descuento por 5.84 EUR (original: 14.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0119T4QHS/?tag=tolees-21'
 descuento: '29.99'
+average: '58.99'
 ---
 
 Tienes [Triax TDS 88 Antracita - Antena  38 8 dBi  0-2°  27 dB  Offset o con Foco desplazado  10 7-12 75 GHz  10-60° ](https://www.amazon.es/dp/B0119T4QHS/?tag=tolees-21) con un 29.99 % de descuento con precio de oferta de 58.99 EUR (original: 84.26 EUR) en el siguiente enlace!

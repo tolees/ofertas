@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RGXRVHK/?tag=tolees-21'
 descuento: '45.13'
+average: '65.84'
 ---
 
 Está [Nike Air MAX 270  GS  - Zapatillas para Hombre  Multicolor  Wolf Grey/Total Orange/Midnight Navy 15  38.5 EU](https://www.amazon.es/dp/B07RGXRVHK/?tag=tolees-21) con 45.13 de descuento por 65.84 EUR (original: 120 EUR) en el siguiente enlace!

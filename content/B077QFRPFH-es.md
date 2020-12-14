@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077QFRPFH/?tag=tolees-21'
 descuento: '55.04'
+average: '33.72'
 ---
 
 Ahora mismo tienes [New Balance 220v1  Zapatillas para Mujer   Salt   36.5 EU](https://www.amazon.es/dp/B077QFRPFH/?tag=tolees-21) a 33.72 EUR (original: 75 EUR) (55.04 %  de descuento) en el siguiente enlace!

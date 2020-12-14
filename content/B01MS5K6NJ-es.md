@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MS5K6NJ/?tag=tolees-21'
 descuento: '25.56'
+average: '9.64'
 ---
 
 Tienes [L Oréal Paris Glam Beige Maquillaje Perfeccionador Tono Medio Oscuro - 1 Base de Maquillaje](https://www.amazon.es/dp/B01MS5K6NJ/?tag=tolees-21) con un 25.56 % de descuento con precio de oferta de 9.64 EUR (original: 12.95 EUR) en el siguiente enlace!

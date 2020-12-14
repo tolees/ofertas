@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XFS1HZQ/?tag=tolees-21'
 descuento: '47.33'
+average: '23.07'
 ---
 
 Está [Galileo Casa 2414738 - Ventilador de pie Aria  45 W  130 cm  color aguamarina](https://www.amazon.es/dp/B06XFS1HZQ/?tag=tolees-21) con 47.33 de descuento por 23.07 EUR (original: 43.8 EUR) en el siguiente enlace!

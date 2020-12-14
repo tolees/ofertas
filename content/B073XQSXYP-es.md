@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073XQSXYP/?tag=tolees-21'
 descuento: '53.18'
+average: '10.3'
 ---
 
 Está [Diesel 00CG3J Slip  Hombre  Gris  Grey 02   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B073XQSXYP/?tag=tolees-21) con 53.18 de descuento por 10.3 EUR (original: 22 EUR) en el siguiente enlace!

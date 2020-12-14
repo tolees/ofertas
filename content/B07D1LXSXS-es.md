@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D1LXSXS/?tag=tolees-21'
 descuento: '35.06'
+average: '58.45'
 ---
 
 Ahora mismo tienes [Asics Fuzetora Twist  Zapatillas de Entrenamiento para Hombre  Gris  Slate Grey/Amber 020   40.5 EU](https://www.amazon.es/dp/B07D1LXSXS/?tag=tolees-21) a 58.45 EUR (original: 90 EUR) (35.06 %  de descuento) en el siguiente enlace!

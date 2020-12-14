@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C2JY6YX/?tag=tolees-21'
 descuento: '67.57'
+average: '6.47'
 ---
 
 Tienes [Desigual Pendientes de botón Mujer Sin Metal - 18WAGO483017U](https://www.amazon.es/dp/B07C2JY6YX/?tag=tolees-21) con un 67.57 % de descuento con precio de oferta de 6.47 EUR (original: 19.95 EUR) en el siguiente enlace!

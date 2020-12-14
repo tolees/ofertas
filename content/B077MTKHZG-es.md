@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077MTKHZG/?tag=tolees-21'
 descuento: '61.26'
+average: '27.1'
 ---
 
 Ahora mismo tienes [Puma Enzo Strap Mesh  Zapatillas de Cross para Hombre  Marrón  Forest Night White   43 EU](https://www.amazon.es/dp/B077MTKHZG/?tag=tolees-21) a 27.1 EUR (original: 69.95 EUR) (61.26 %  de descuento) en el siguiente enlace!

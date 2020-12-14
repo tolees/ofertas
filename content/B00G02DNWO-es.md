@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00G02DNWO/?tag=tolees-21'
 descuento: '74.00'
+average: '15.34'
 ---
 
 Ahora mismo tienes [Superga 2750 Cotu Classic  Zapatillas Unisex Adulto  Rojo  Scarlet 104   35 EU  2.5 UK ](https://www.amazon.es/dp/B00G02DNWO/?tag=tolees-21) a 15.34 EUR (original: 59 EUR) (74.00 %  de descuento) en el siguiente enlace!

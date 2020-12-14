@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HFGW8ST/?tag=tolees-21'
 descuento: '75.82'
+average: '20.53'
 ---
 
 Tienes [Tommy Hilfiger Baby Preppy Coverall Giftbox  Conjunto Bebé-Niños  Rojo  Apple Red/Multi 600   58  Talla del Fabricante: 56 ](https://www.amazon.es/dp/B07HFGW8ST/?tag=tolees-21) con un 75.82 % de descuento con precio de oferta de 20.53 EUR (original: 84.9 EUR) en el siguiente enlace!

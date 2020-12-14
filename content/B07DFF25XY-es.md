@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFF25XY/?tag=tolees-21'
 descuento: '46.77'
+average: '8.49'
 ---
 
 Ahora mismo tienes [Pop! Macgyver  -  Figura de Vinilo Macgyver](https://www.amazon.es/dp/B07DFF25XY/?tag=tolees-21) a 8.49 EUR (original: 15.95 EUR) (46.77 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M9JPUK0/?tag=tolees-21'
 descuento: '58.77'
+average: '61.44'
 ---
 
 Está [Lotus Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 18384/2](https://www.amazon.es/dp/B01M9JPUK0/?tag=tolees-21) con 58.77 de descuento por 61.44 EUR (original: 149 EUR) en el siguiente enlace!

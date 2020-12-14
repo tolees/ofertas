@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KP2H3J1/?tag=tolees-21'
 descuento: '49.76'
+average: '12.56'
 ---
 
 Está [Salomon XA Visor Visera  Unisex Adulto  Negro  Reflective Black   Talla única Ajustable](https://www.amazon.es/dp/B07KP2H3J1/?tag=tolees-21) con 49.76 de descuento por 12.56 EUR (original: 25 EUR) en el siguiente enlace!

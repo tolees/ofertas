@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01K9TVDJS/?tag=tolees-21'
 descuento: '40.00'
+average: '3.57'
 ---
 
 Está [T nB PBUC2500BK batería Externa Negro 2500 mAh - Baterías externas  Negro  Teléfono móvil/Smartphone  Tablet  MP3/MP4  GPS  Lector de Libros electrónicos  2500 mAh  USB  5 V  0.7 A ](https://www.amazon.es/dp/B01K9TVDJS/?tag=tolees-21) con 40.00 de descuento por 3.57 EUR (original: 5.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F17MH8D/?tag=tolees-21'
 descuento: '33.36'
+average: '9.99'
 ---
 
 Ahora mismo tienes [AmazonBasics - Bridas de nailon  varias longitudes de 15 cm  20 cm y 30 cm  color blanco y negro](https://www.amazon.es/dp/B07F17MH8D/?tag=tolees-21) a 9.99 EUR (original: 14.99 EUR) (33.36 %  de descuento) en el siguiente enlace!

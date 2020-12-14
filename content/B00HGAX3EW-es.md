@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00HGAX3EW/?tag=tolees-21'
 descuento: '49.47'
+average: '34.36'
 ---
 
 Tienes [Lolita Lempicka 41487 - Eau de perfume para mujer  40 ml](https://www.amazon.es/dp/B00HGAX3EW/?tag=tolees-21) con un 49.47 % de descuento con precio de oferta de 34.36 EUR (original: 68 EUR) en el siguiente enlace!

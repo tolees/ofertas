@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JLSR2KX/?tag=tolees-21'
 descuento: '65.12'
+average: '29.99'
 ---
 
 Tienes [Ovonni Irrigador dental portátil  3 Modos  5 Boquillas  1 Bolsillo  Recargable e inalámbrico  300 ML  Alta presión  cuidado dentístico familiar  Impermeable IPX7  USB  Negro](https://www.amazon.es/dp/B07JLSR2KX/?tag=tolees-21) con un 65.12 % de descuento con precio de oferta de 29.99 EUR (original: 85.99 EUR) en el siguiente enlace!

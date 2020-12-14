@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01B61MKM2/?tag=tolees-21'
 descuento: '40.68'
+average: '433'
 ---
 
 Está [FLEX Colchón muelles continuos Multielastic Visco  90 x 200 cm](https://www.amazon.es/dp/B01B61MKM2/?tag=tolees-21) con 40.68 de descuento por 433 EUR (original: 730 EUR) en el siguiente enlace!

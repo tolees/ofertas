@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCMNG2D/?tag=tolees-21'
 descuento: '50.50'
+average: '69.3'
 ---
 
 Tienes [Nike Wmns Air Zoom Vomero 14  Zapatillas de Running para Mujer  Gris  Vapste Grey/Black/Pink Foam/Lime Blast 002   38 EU](https://www.amazon.es/dp/B07DCMNG2D/?tag=tolees-21) con un 50.50 % de descuento con precio de oferta de 69.3 EUR (original: 140 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NCKEUBL/?tag=tolees-21'
 descuento: '70.00'
+average: '4.8'
 ---
 
 Está [FIND 17AMZ009 camisetas mujer fiesta   Morado  Orchid   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B01NCKEUBL/?tag=tolees-21) con 70.00 de descuento por 4.8 EUR (original: 16 EUR) en el siguiente enlace!

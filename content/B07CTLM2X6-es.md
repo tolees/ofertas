@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CTLM2X6/?tag=tolees-21'
 descuento: '53.86'
+average: '32.3'
 ---
 
 Tienes [Under Armour Micro G Pursuit Se  Zapatillas de Running para Mujer  Gris  Pitch Gray/White/Coded Blue 102   39 EU](https://www.amazon.es/dp/B07CTLM2X6/?tag=tolees-21) con un 53.86 % de descuento con precio de oferta de 32.3 EUR (original: 70 EUR) en el siguiente enlace!

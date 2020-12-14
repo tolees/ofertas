@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076ZJX8ZL/?tag=tolees-21'
 descuento: '64.68'
+average: '91.8'
 ---
 
 Tienes [Seiko Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable SUR695P1](https://www.amazon.es/dp/B076ZJX8ZL/?tag=tolees-21) con un 64.68 % de descuento con precio de oferta de 91.8 EUR (original: 259.9 EUR) en el siguiente enlace!

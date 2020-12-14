@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072QR5Z6C/?tag=tolees-21'
 descuento: '62.15'
+average: '35.95'
 ---
 
 Ahora mismo tienes [adidas Campus  Zapatillas para Hombre  Rojo  Buruni / Ftwbla / Blatiz   42 2/3 EU](https://www.amazon.es/dp/B072QR5Z6C/?tag=tolees-21) a 35.95 EUR (original: 94.99 EUR) (62.15 %  de descuento) en el siguiente enlace!

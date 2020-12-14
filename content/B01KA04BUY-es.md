@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KA04BUY/?tag=tolees-21'
 descuento: '30.03'
+average: '6.99'
 ---
 
 Ahora mismo tienes [Sabrent – Soporte universal magnético para la mayoría de los dispositivos inteligentes para usar en la rejilla de ventilación del coche  modelo  CM-MGHB ](https://www.amazon.es/dp/B01KA04BUY/?tag=tolees-21) a 6.99 EUR (original: 9.99 EUR) (30.03 %  de descuento) en el siguiente enlace!

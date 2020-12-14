@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075R6VHFK/?tag=tolees-21'
 descuento: '50.06'
+average: '44.95'
 ---
 
 Tienes [New Balance Fresh Foam Lazr Sport  Zapatillas de Running para Hombre  Gris  Castlerock/Nimbus Cloud/Black EG   42 EU](https://www.amazon.es/dp/B075R6VHFK/?tag=tolees-21) con un 50.06 % de descuento con precio de oferta de 44.95 EUR (original: 90 EUR) en el siguiente enlace!

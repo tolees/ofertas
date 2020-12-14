@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002EZZ5NG/?tag=tolees-21'
 descuento: '26.84'
+average: '25.6'
 ---
 
 Está [Braun MobileShave M-90 - Afeitadora eléctrica portátil](https://www.amazon.es/dp/B002EZZ5NG/?tag=tolees-21) con 26.84 de descuento por 25.6 EUR (original: 34.99 EUR) en el siguiente enlace!

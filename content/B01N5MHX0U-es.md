@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N5MHX0U/?tag=tolees-21'
 descuento: '50.00'
+average: '97.5'
 ---
 
 Tienes [Ferrari 0830395 FXX - Reloj de pulsera para hombre](https://www.amazon.es/dp/B01N5MHX0U/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 97.5 EUR (original: 195 EUR) en el siguiente enlace!

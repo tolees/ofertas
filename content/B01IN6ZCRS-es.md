@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IN6ZCRS/?tag=tolees-21'
 descuento: '47.49'
+average: '26.25'
 ---
 
 Está [Cortefiel 6246494  Cárdigan Para Mujer  Gris  Medium](https://www.amazon.es/dp/B01IN6ZCRS/?tag=tolees-21) con 47.49 de descuento por 26.25 EUR (original: 49.99 EUR) en el siguiente enlace!

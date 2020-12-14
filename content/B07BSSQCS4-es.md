@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BSSQCS4/?tag=tolees-21'
 descuento: '45.74'
+average: '43.95'
 ---
 
 Ahora mismo tienes [Nike Vapor 12 Academy Cr7 MG  Zapatillas de Fútbol Unisex Adulto  Rojo  BRT Crimson/Black/Chrome/Dk Grey 600   44.5 EU](https://www.amazon.es/dp/B07BSSQCS4/?tag=tolees-21) a 43.95 EUR (original: 81 EUR) (45.74 %  de descuento) en el siguiente enlace!

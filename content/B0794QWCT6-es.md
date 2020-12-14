@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0794QWCT6/?tag=tolees-21'
 descuento: '35.03'
+average: '8.44'
 ---
 
 Ahora mismo tienes [Scribblenauts Showdown](https://www.amazon.es/dp/B0794QWCT6/?tag=tolees-21) a 8.44 EUR (original: 12.99 EUR) (35.03 %  de descuento) en el siguiente enlace!

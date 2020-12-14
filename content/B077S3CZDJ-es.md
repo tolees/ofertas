@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077S3CZDJ/?tag=tolees-21'
 descuento: '37.52'
+average: '9.99'
 ---
 
 Ahora mismo tienes [TrendVital Carbón Activado Para Blanqueamiento Dental 50 gramos - Polvo Fino Carbón Activo De Coco Para Dientes Blancos - Activated Charcoal Teeth Whitening  Blanqueador 100% Natural By Tillmann s®](https://www.amazon.es/dp/B077S3CZDJ/?tag=tolees-21) a 9.99 EUR (original: 15.99 EUR) (37.52 %  de descuento) en el siguiente enlace!

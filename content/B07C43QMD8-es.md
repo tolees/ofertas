@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C43QMD8/?tag=tolees-21'
 descuento: '80.16'
+average: '19.83'
 ---
 
 Está [Marco Tozzi Premio 2-2-25209-31  Botas Militar para Mujer  Negro  Black Antic 002   38 EU](https://www.amazon.es/dp/B07C43QMD8/?tag=tolees-21) con 80.16 de descuento por 19.83 EUR (original: 99.95 EUR) en el siguiente enlace!

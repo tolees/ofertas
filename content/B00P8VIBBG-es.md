@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00P8VIBBG/?tag=tolees-21'
 descuento: '41.50'
+average: '21.64'
 ---
 
 Ahora mismo tienes [Princess 162725 Grill Party – Raclette para 6 personas con forma redonda](https://www.amazon.es/dp/B00P8VIBBG/?tag=tolees-21) a 21.64 EUR (original: 36.99 EUR) (41.50 %  de descuento) en el siguiente enlace!

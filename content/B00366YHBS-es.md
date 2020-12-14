@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00366YHBS/?tag=tolees-21'
 descuento: '35.31'
+average: '14.84'
 ---
 
 Tienes [Royal Canin C-08982 S.N. Shih Tzu 24 - 1.5 Kg](https://www.amazon.es/dp/B00366YHBS/?tag=tolees-21) con un 35.31 % de descuento con precio de oferta de 14.84 EUR (original: 22.94 EUR) en el siguiente enlace!

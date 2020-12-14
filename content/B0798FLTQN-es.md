@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0798FLTQN/?tag=tolees-21'
 descuento: '54.30'
+average: '90.95'
 ---
 
 Tienes [Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable FTW5010](https://www.amazon.es/dp/B0798FLTQN/?tag=tolees-21) con un 54.30 % de descuento con precio de oferta de 90.95 EUR (original: 199 EUR) en el siguiente enlace!

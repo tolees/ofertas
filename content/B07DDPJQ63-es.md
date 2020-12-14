@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DDPJQ63/?tag=tolees-21'
 descuento: '46.84'
+average: '42'
 ---
 
 Está [Lotus Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 18149/3](https://www.amazon.es/dp/B07DDPJQ63/?tag=tolees-21) con 46.84 de descuento por 42 EUR (original: 79 EUR) en el siguiente enlace!

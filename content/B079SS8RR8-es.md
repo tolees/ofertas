@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079SS8RR8/?tag=tolees-21'
 descuento: '57.80'
+average: '25.3'
 ---
 
 Ahora mismo tienes [Desigual Jers_paty suéter    Negro 2000   X-Small para Mujer](https://www.amazon.es/dp/B079SS8RR8/?tag=tolees-21) a 25.3 EUR (original: 59.95 EUR) (57.80 %  de descuento) en el siguiente enlace!

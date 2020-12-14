@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DYMWKBX/?tag=tolees-21'
 descuento: '40.01'
+average: '59.99'
 ---
 
 Está [Merrell Bare Access Flex 2  Zapatillas Deportivas para Interior para Hombre  Gris Turbulence/Flame  44 EU](https://www.amazon.es/dp/B07DYMWKBX/?tag=tolees-21) con 40.01 de descuento por 59.99 EUR (original: 100 EUR) en el siguiente enlace!

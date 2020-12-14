@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MTW1Y2A/?tag=tolees-21'
 descuento: '34.27'
+average: '89.99'
 ---
 
 Está [Besrey Silla de paseo ligera para bebes Cochecito plegable bebe Carrito Bebe Compacta y Manejable  ECE](https://www.amazon.es/dp/B01MTW1Y2A/?tag=tolees-21) con 34.27 de descuento por 89.99 EUR (original: 136.9 EUR) en el siguiente enlace!

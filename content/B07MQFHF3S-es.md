@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MQFHF3S/?tag=tolees-21'
 descuento: '55.57'
+average: '15.99'
 ---
 
 Está [Corrector de Juanetes Férula Protector para Juanete para mujeres y hombres con barra de metal para hallux valgus ortopédico  alisador de dedos de martillo  separador de dedos superpuesto  alivio del dolor de cirugía](https://www.amazon.es/dp/B07MQFHF3S/?tag=tolees-21) con 55.57 de descuento por 15.99 EUR (original: 35.99 EUR) en el siguiente enlace!

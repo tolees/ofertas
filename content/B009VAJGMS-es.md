@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B009VAJGMS/?tag=tolees-21'
 descuento: '26.81'
+average: '47.54'
 ---
 
 Tienes [Anita Active Momentum - Sujetador deportivo para mujer  Beige  Desert 753   105C EU](https://www.amazon.es/dp/B009VAJGMS/?tag=tolees-21) con un 26.81 % de descuento con precio de oferta de 47.54 EUR (original: 64.95 EUR) en el siguiente enlace!

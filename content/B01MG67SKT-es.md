@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MG67SKT/?tag=tolees-21'
 descuento: '57.22'
+average: '57.75'
 ---
 
 Ahora mismo tienes [Lacoste Hf2510  Pantalones Para Mujer  Blanco   W42  Talla del Fabricante: 42 ](https://www.amazon.es/dp/B01MG67SKT/?tag=tolees-21) a 57.75 EUR (original: 135 EUR) (57.22 %  de descuento) en el siguiente enlace!

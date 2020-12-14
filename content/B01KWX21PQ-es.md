@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KWX21PQ/?tag=tolees-21'
 descuento: '52.47'
+average: '4.04'
 ---
 
 Está [Philips Avent Classic - Chupete para 0-6 meses  surtido: modelos/colores aleatorios](https://www.amazon.es/dp/B01KWX21PQ/?tag=tolees-21) con 52.47 de descuento por 4.04 EUR (original: 8.5 EUR) en el siguiente enlace!

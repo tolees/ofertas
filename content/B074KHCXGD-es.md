@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074KHCXGD/?tag=tolees-21'
 descuento: '77.48'
+average: '21.37'
 ---
 
 Ahora mismo tienes [Supra Titanium  Zapatillas para Hombre  Beige  Mojave/Bone-Gum   45 EU](https://www.amazon.es/dp/B074KHCXGD/?tag=tolees-21) a 21.37 EUR (original: 94.9 EUR) (77.48 %  de descuento) en el siguiente enlace!

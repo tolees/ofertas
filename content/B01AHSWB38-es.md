@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01AHSWB38/?tag=tolees-21'
 descuento: '60.23'
+average: '119.3'
 ---
 
 Tienes [Concord Transformer Pro  Silla de coche grupo 1/2/3 Isofix  rojo  Tomato Red ](https://www.amazon.es/dp/B01AHSWB38/?tag=tolees-21) con un 60.23 % de descuento con precio de oferta de 119.3 EUR (original: 299.99 EUR) en el siguiente enlace!

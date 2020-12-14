@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGP4QPC/?tag=tolees-21'
 descuento: '50.01'
+average: '19.99'
 ---
 
 Ahora mismo tienes [Calcetines de Compresión para Hombres y Mujeres  Medias de Compresión para Running  Deporte  Correr  Ciclismo  Embarazo  Vuelos y Viajes  Aumentar la circulación sanguínea  3 Pares](https://www.amazon.es/dp/B07KGP4QPC/?tag=tolees-21) a 19.99 EUR (original: 39.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

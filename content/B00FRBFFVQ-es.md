@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00FRBFFVQ/?tag=tolees-21'
 descuento: '62.18'
+average: '45'
 ---
 
 Tienes [Pierre Lannier Reloj de Pulsera 212D434](https://www.amazon.es/dp/B00FRBFFVQ/?tag=tolees-21) con un 62.18 % de descuento con precio de oferta de 45 EUR (original: 119 EUR) en el siguiente enlace!

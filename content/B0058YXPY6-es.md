@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0058YXPY6/?tag=tolees-21'
 descuento: '45.50'
+average: '29.95'
 ---
 
 Está [Columbia Men s Silver Shorts Cargo  Hombre  Beige  Tusk   30](https://www.amazon.es/dp/B0058YXPY6/?tag=tolees-21) con 45.50 de descuento por 29.95 EUR (original: 54.95 EUR) en el siguiente enlace!

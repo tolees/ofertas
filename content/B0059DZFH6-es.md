@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0059DZFH6/?tag=tolees-21'
 descuento: '42.66'
+average: '8.79'
 ---
 
 Ahora mismo tienes [Cuenta conmigo [Blu-ray]](https://www.amazon.es/dp/B0059DZFH6/?tag=tolees-21) a 8.79 EUR (original: 15.33 EUR) (42.66 %  de descuento) en el siguiente enlace!

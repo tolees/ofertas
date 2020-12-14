@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CT4NN88/?tag=tolees-21'
 descuento: '50.35'
+average: '64.05'
 ---
 
 Tienes [HUGO San Martino  suéter Hombre  Azul  Navy 410   Medium](https://www.amazon.es/dp/B07CT4NN88/?tag=tolees-21) con un 50.35 % de descuento con precio de oferta de 64.05 EUR (original: 129 EUR) en el siguiente enlace!

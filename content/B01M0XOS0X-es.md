@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M0XOS0X/?tag=tolees-21'
 descuento: '39.62'
+average: '23.55'
 ---
 
 Está [American Tourister City Drift Bolsa Portaordenador 14 1"  10 litros  Color Negro/Gris](https://www.amazon.es/dp/B01M0XOS0X/?tag=tolees-21) con 39.62 de descuento por 23.55 EUR (original: 39 EUR) en el siguiente enlace!

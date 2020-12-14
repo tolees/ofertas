@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGD4V8M/?tag=tolees-21'
 descuento: '44.73'
+average: '44.22'
 ---
 
 Está [BOSS Tilyr Sz Cinturón  Marrón  Dark Brown 100   110  Talla del fabricante: 95  para Hombre](https://www.amazon.es/dp/B07KGD4V8M/?tag=tolees-21) con 44.73 de descuento por 44.22 EUR (original: 80 EUR) en el siguiente enlace!

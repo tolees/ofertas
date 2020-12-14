@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NYQQN5V/?tag=tolees-21'
 descuento: '65.79'
+average: '64.99'
 ---
 
 Tienes [San Ignacio Premium Set de Bateria 8 Piezas + 4 Cuchillos 3 Utensilios de Cocina  8 pcs](https://www.amazon.es/dp/B07NYQQN5V/?tag=tolees-21) con un 65.79 % de descuento con precio de oferta de 64.99 EUR (original: 189.99 EUR) en el siguiente enlace!

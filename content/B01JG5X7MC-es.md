@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01JG5X7MC/?tag=tolees-21'
 descuento: '59.79'
+average: '27.34'
 ---
 
 Está [Shiseido Ever Bloom Perfume Mujer - 50 ml](https://www.amazon.es/dp/B01JG5X7MC/?tag=tolees-21) con 59.79 de descuento por 27.34 EUR (original: 68 EUR) en el siguiente enlace!

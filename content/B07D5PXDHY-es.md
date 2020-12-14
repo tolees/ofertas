@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D5PXDHY/?tag=tolees-21'
 descuento: '55.04'
+average: '53.95'
 ---
 
 Tienes [Merrell Trail Glove 4  Zapatillas Deportivas para Interior para Hombre  Azul Blue Sport  41.5 EU](https://www.amazon.es/dp/B07D5PXDHY/?tag=tolees-21) con un 55.04 % de descuento con precio de oferta de 53.95 EUR (original: 120 EUR) en el siguiente enlace!

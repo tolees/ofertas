@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DKC66KK/?tag=tolees-21'
 descuento: '56.87'
+average: '21.99'
 ---
 
 Está [Alcachofa de Ducha Música  con Altavoz Inalámbrica Bluetooth  Alcachofa de Duchas de Alta presión Morpilot Ahorra de Agua  Cabezal de Cromo  Uso de 10h  Impermeable  con Batería Litio y Cable USB](https://www.amazon.es/dp/B07DKC66KK/?tag=tolees-21) con 56.87 de descuento por 21.99 EUR (original: 50.99 EUR) en el siguiente enlace!

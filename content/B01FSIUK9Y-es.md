@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FSIUK9Y/?tag=tolees-21'
 descuento: '72.43'
+average: '33.08'
 ---
 
 Está [New Balance 910v3  Zapatillas de Running para Asfalto para Mujer   Black/Pink   41 EU](https://www.amazon.es/dp/B01FSIUK9Y/?tag=tolees-21) con 72.43 de descuento por 33.08 EUR (original: 120 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JLCQKR1/?tag=tolees-21'
 descuento: '76.67'
+average: '69.99'
 ---
 
 Ahora mismo tienes [Cámara Espía WiFi LXMIMI Altavoz Bluetooth 1080P HD Cámara Oculta con Lente de Rotación de 180 ° y Detección de Movimiento Grabadora de Vídeo Mini Cámara Inalámbrica](https://www.amazon.es/dp/B07JLCQKR1/?tag=tolees-21) a 69.99 EUR (original: 299.99 EUR) (76.67 %  de descuento) en el siguiente enlace!

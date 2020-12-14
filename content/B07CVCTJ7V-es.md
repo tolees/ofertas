@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CVCTJ7V/?tag=tolees-21'
 descuento: '55.77'
+average: '30.96'
 ---
 
 Ahora mismo tienes [Under Armour Tr96  Zapatillas Deportivas para Interior para Hombre  Rojo  Aruba Red/Jet Gray/Black 600   41 EU](https://www.amazon.es/dp/B07CVCTJ7V/?tag=tolees-21) a 30.96 EUR (original: 70 EUR) (55.77 %  de descuento) en el siguiente enlace!

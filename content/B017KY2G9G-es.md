@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017KY2G9G/?tag=tolees-21'
 descuento: '84.00'
+average: '4.98'
 ---
 
 Está [Egamaster - Llave pipa abierta hexagonal -cantos 25mm](https://www.amazon.es/dp/B017KY2G9G/?tag=tolees-21) con 84.00 de descuento por 4.98 EUR (original: 31.13 EUR) en el siguiente enlace!

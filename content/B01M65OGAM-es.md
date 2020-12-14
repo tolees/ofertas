@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M65OGAM/?tag=tolees-21'
 descuento: '31.77'
+average: '34.11'
 ---
 
 Tienes [Ubisoft - Assassin s Creed Figura Maria  Ariane Labed ](https://www.amazon.es/dp/B01M65OGAM/?tag=tolees-21) con un 31.77 % de descuento con precio de oferta de 34.11 EUR (original: 49.99 EUR) en el siguiente enlace!

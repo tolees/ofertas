@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BQP596B/?tag=tolees-21'
 descuento: '62.53'
+average: '7.49'
 ---
 
 Tienes [LOHAS Home 23 cm Reloj de Pared de Cuarzo Estilo Toscano Vintage Francesa Paris Reloj de Madera  Diseño moderno ](https://www.amazon.es/dp/B07BQP596B/?tag=tolees-21) con un 62.53 % de descuento con precio de oferta de 7.49 EUR (original: 19.99 EUR) en el siguiente enlace!

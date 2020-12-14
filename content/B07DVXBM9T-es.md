@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DVXBM9T/?tag=tolees-21'
 descuento: '57.04'
+average: '21.48'
 ---
 
 Está [LE COQ SPORTIF Nationale GS  Zapatillas Unisex Niños  Blanco Optical White  31 EU](https://www.amazon.es/dp/B07DVXBM9T/?tag=tolees-21) con 57.04 de descuento por 21.48 EUR (original: 50 EUR) en el siguiente enlace!

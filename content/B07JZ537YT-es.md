@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JZ537YT/?tag=tolees-21'
 descuento: '40.85'
+average: '70.95'
 ---
 
 Está [adidas Stan Smith  Zapatillas de Gimnasia para Mujer  Blanco FTWR White/Active Red/True Pink  39 1/3 EU](https://www.amazon.es/dp/B07JZ537YT/?tag=tolees-21) con 40.85 de descuento por 70.95 EUR (original: 119.95 EUR) en el siguiente enlace!

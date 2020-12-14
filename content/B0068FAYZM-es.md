@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0068FAYZM/?tag=tolees-21'
 descuento: '34.58'
+average: '9.95'
 ---
 
 Ahora mismo tienes [Continental  0181881 -  Cámara de Ciclismo](https://www.amazon.es/dp/B0068FAYZM/?tag=tolees-21) a 9.95 EUR (original: 15.21 EUR) (34.58 %  de descuento) en el siguiente enlace!

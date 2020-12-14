@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078TMR8M1/?tag=tolees-21'
 descuento: '31.61'
+average: '41'
 ---
 
 Tienes [adidas Gazelle J  Zapatillas de Gimnasia Unisex Niños  Rojo Collegiate Burgundy FTWR White  35.5 EU](https://www.amazon.es/dp/B078TMR8M1/?tag=tolees-21) con un 31.61 % de descuento con precio de oferta de 41 EUR (original: 59.95 EUR) en el siguiente enlace!

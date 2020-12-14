@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IXNMHES/?tag=tolees-21'
 descuento: '43.40'
+average: '67.04'
 ---
 
 Tienes [Olmitos Bear - Cuna parque de viaje plegable](https://www.amazon.es/dp/B00IXNMHES/?tag=tolees-21) con un 43.40 % de descuento con precio de oferta de 67.04 EUR (original: 118.45 EUR) en el siguiente enlace!

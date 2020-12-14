@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B006CYL0XO/?tag=tolees-21'
 descuento: '50.59'
+average: '5.43'
 ---
 
 Tienes [Berisfords Cinta de Tela supertransparente 25 mm x 25 m  Color Verde Pradera](https://www.amazon.es/dp/B006CYL0XO/?tag=tolees-21) con un 50.59 % de descuento con precio de oferta de 5.43 EUR (original: 10.99 EUR) en el siguiente enlace!

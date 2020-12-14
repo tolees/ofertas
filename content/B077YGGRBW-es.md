@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077YGGRBW/?tag=tolees-21'
 descuento: '37.72'
+average: '999.99'
 ---
 
 Ahora mismo tienes [Lenovo Yoga 920-13IKB - Ordenador portátil convertible de 13 9" FullHD  Intel Core I5-8250U  8GB RAM  256GB SSD  Windows 10  cobre. Teclado QWERTY español](https://www.amazon.es/dp/B077YGGRBW/?tag=tolees-21) a 999.99 EUR (original: 1605.59 EUR) (37.72 %  de descuento) en el siguiente enlace!

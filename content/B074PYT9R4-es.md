@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074PYT9R4/?tag=tolees-21'
 descuento: '32.15'
+average: '18.99'
 ---
 
 Tienes [Osram Smart Mini W Pulsador  Blanco  Lote de 1](https://www.amazon.es/dp/B074PYT9R4/?tag=tolees-21) con un 32.15 % de descuento con precio de oferta de 18.99 EUR (original: 27.99 EUR) en el siguiente enlace!

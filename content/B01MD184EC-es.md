@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MD184EC/?tag=tolees-21'
 descuento: '63.42'
+average: '95.11'
 ---
 
 Ahora mismo tienes [Caso Centro Sous Vide Cocina al vacío  1200 W  Acero Inoxidable  Gris](https://www.amazon.es/dp/B01MD184EC/?tag=tolees-21) a 95.11 EUR (original: 259.99 EUR) (63.42 %  de descuento) en el siguiente enlace!

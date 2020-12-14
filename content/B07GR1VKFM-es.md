@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GR1VKFM/?tag=tolees-21'
 descuento: '41.20'
+average: '9.99'
 ---
 
 Ahora mismo tienes [KTcos Estuche para Samsung Gear S3 Frontier SM-R760  Soft TPU Plateado [Scratch-Proof] Allround Protector de Parachoques Shell para Samsung Gear S3 Frontier SM-R760 Smartwatch  Oro ](https://www.amazon.es/dp/B07GR1VKFM/?tag=tolees-21) a 9.99 EUR (original: 16.99 EUR) (41.20 %  de descuento) en el siguiente enlace!

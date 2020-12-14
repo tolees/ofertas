@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076QLNGQM/?tag=tolees-21'
 descuento: '54.11'
+average: '27.51'
 ---
 
 Está [Skechers Performance Go Run 600-Revel  Zapatillas Deportivas para Interior para Mujer  Azul  Blue/Pink   37 EU](https://www.amazon.es/dp/B076QLNGQM/?tag=tolees-21) con 54.11 de descuento por 27.51 EUR (original: 59.95 EUR) en el siguiente enlace!

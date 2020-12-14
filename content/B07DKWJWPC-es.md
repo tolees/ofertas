@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DKWJWPC/?tag=tolees-21'
 descuento: '34.99'
+average: '16.89'
 ---
 
 Está [Jack Reacher  4K UHD + BD   [Blu-ray]](https://www.amazon.es/dp/B07DKWJWPC/?tag=tolees-21) con 34.99 de descuento por 16.89 EUR (original: 25.98 EUR) en el siguiente enlace!

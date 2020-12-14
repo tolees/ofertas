@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071JHBL5L/?tag=tolees-21'
 descuento: '29.27'
+average: '10.61'
 ---
 
 Está [FIND Calcetines Estampados para Hombre  Pack de 7  Negro  Grey Black Mix   Large](https://www.amazon.es/dp/B071JHBL5L/?tag=tolees-21) con 29.27 de descuento por 10.61 EUR (original: 15 EUR) en el siguiente enlace!

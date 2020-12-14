@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00VW8HIUY/?tag=tolees-21'
 descuento: '33.35'
+average: '13.45'
 ---
 
 Ahora mismo tienes [Gordini - Zapatillas de Tela con Cierre de Velcro Hombre Caballero - Alpargatas/Verano  43 EUR/Azul Marino Vaquero ](https://www.amazon.es/dp/B00VW8HIUY/?tag=tolees-21) a 13.45 EUR (original: 20.18 EUR) (33.35 %  de descuento) en el siguiente enlace!

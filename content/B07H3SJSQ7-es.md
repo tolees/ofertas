@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H3SJSQ7/?tag=tolees-21'
 descuento: '40.22'
+average: '11.95'
 ---
 
 Ahora mismo tienes [ONLY Onlcaviar L/s Pullover Knt Noos  Suéter para Mujer  Rosa  Adobe Rose Adobe Rose   36  Talla del fabricante: X-Small ](https://www.amazon.es/dp/B07H3SJSQ7/?tag=tolees-21) a 11.95 EUR (original: 19.99 EUR) (40.22 %  de descuento) en el siguiente enlace!

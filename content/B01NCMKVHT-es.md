@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NCMKVHT/?tag=tolees-21'
 descuento: '68.82'
+average: '20.27'
 ---
 
 Está [Vans Sk8-hi Zip  Zapatillas de Entrenamiento Unisex Niños  Hueso  Star Glitter   34 EU](https://www.amazon.es/dp/B01NCMKVHT/?tag=tolees-21) con 68.82 de descuento por 20.27 EUR (original: 65 EUR) en el siguiente enlace!

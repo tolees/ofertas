@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HM9ZPLH/?tag=tolees-21'
 descuento: '68.97'
+average: '17.77'
 ---
 
 Está [Hotter Whisper  Botas Efecto Arrugado para Mujer  Gris  Grey 048   38.5 EU](https://www.amazon.es/dp/B07HM9ZPLH/?tag=tolees-21) con 68.97 de descuento por 17.77 EUR (original: 57.26 EUR) en el siguiente enlace!

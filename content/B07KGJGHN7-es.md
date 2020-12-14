@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGJGHN7/?tag=tolees-21'
 descuento: '45.60'
+average: '11.94'
 ---
 
 Ahora mismo tienes [Buff R-Loom Gorra  Unisex Adulto  Talla Unica](https://www.amazon.es/dp/B07KGJGHN7/?tag=tolees-21) a 11.94 EUR (original: 21.95 EUR) (45.60 %  de descuento) en el siguiente enlace!

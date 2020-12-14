@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00OPW68XC/?tag=tolees-21'
 descuento: '52.12'
+average: '25.61'
 ---
 
 Ahora mismo tienes [Bergner BG-7009 Cacerola con Templado y Recubrimiento de cerámica  Apto para inducción con Tapa de Vidrio  de 24 cm  Aluminio Fundido  Marrón  24 x 8 5 cm](https://www.amazon.es/dp/B00OPW68XC/?tag=tolees-21) a 25.61 EUR (original: 53.49 EUR) (52.12 %  de descuento) en el siguiente enlace!

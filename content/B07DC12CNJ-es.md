@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC12CNJ/?tag=tolees-21'
 descuento: '65.49'
+average: '31.04'
 ---
 
 Está [Puma Breaker Suede  Zapatillas Unisex Adulto  Gris White-Charcoal Gray  42 EU](https://www.amazon.es/dp/B07DC12CNJ/?tag=tolees-21) con 65.49 de descuento por 31.04 EUR (original: 89.95 EUR) en el siguiente enlace!

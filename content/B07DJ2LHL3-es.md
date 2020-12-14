@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ2LHL3/?tag=tolees-21'
 descuento: '42.31'
+average: '37.5'
 ---
 
 Tienes [New Balance 574  Zapatillas Unisex  Azul  North Sea/White Es   38 EU](https://www.amazon.es/dp/B07DJ2LHL3/?tag=tolees-21) con un 42.31 % de descuento con precio de oferta de 37.5 EUR (original: 65 EUR) en el siguiente enlace!

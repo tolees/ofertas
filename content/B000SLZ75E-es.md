@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000SLZ75E/?tag=tolees-21'
 descuento: '53.10'
+average: '23.41'
 ---
 
 Tienes [Lacor - 40121 - Olla Super Alta con Tapa  Vitrocor 20cm Inox](https://www.amazon.es/dp/B000SLZ75E/?tag=tolees-21) con un 53.10 % de descuento con precio de oferta de 23.41 EUR (original: 49.91 EUR) en el siguiente enlace!

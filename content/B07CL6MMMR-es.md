@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CL6MMMR/?tag=tolees-21'
 descuento: '53.47'
+average: '45.99'
 ---
 
 Está [Ultima Pienso para Gatos Esterilizados Adulto con Pollo](https://www.amazon.es/dp/B07CL6MMMR/?tag=tolees-21) con 53.47 de descuento por 45.99 EUR (original: 98.84 EUR) en el siguiente enlace!

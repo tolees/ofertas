@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F8VNCZY/?tag=tolees-21'
 descuento: '50.40'
+average: '59.5'
 ---
 
 Tienes [adidas EQT Support ADV  Zapatillas de Gimnasia para Hombre  Verde Night Cargo/FTWR White/Core Black  41 1/3 EU](https://www.amazon.es/dp/B07F8VNCZY/?tag=tolees-21) con un 50.40 % de descuento con precio de oferta de 59.5 EUR (original: 119.95 EUR) en el siguiente enlace!

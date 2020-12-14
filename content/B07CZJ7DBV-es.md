@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZJ7DBV/?tag=tolees-21'
 descuento: '47.45'
+average: '23.64'
 ---
 
 Ahora mismo tienes [Under Armour UA Qualifier Singlet Tanque  Hombre  Negro Black/Reflective 001  M](https://www.amazon.es/dp/B07CZJ7DBV/?tag=tolees-21) a 23.64 EUR (original: 44.99 EUR) (47.45 %  de descuento) en el siguiente enlace!

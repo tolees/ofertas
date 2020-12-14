@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075R7DHW4/?tag=tolees-21'
 descuento: '51.83'
+average: '67.44'
 ---
 
 Ahora mismo tienes [New Balance Fuel Cell Impulse  Zapatillas de Running para Mujer  Gris  Light Cyclone/Dragonfly GP   36 EU](https://www.amazon.es/dp/B075R7DHW4/?tag=tolees-21) a 67.44 EUR (original: 140 EUR) (51.83 %  de descuento) en el siguiente enlace!

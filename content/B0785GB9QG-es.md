@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0785GB9QG/?tag=tolees-21'
 descuento: '57.91'
+average: '16.83'
 ---
 
 Ahora mismo tienes [Under Armour Rival Fleece Short Pantalones  Hombre  Azul  Academy/Black 408   XL](https://www.amazon.es/dp/B0785GB9QG/?tag=tolees-21) a 16.83 EUR (original: 39.99 EUR) (57.91 %  de descuento) en el siguiente enlace!

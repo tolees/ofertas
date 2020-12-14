@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FPVGGDD/?tag=tolees-21'
 descuento: '70.34'
+average: '99.99'
 ---
 
 Está [Homever Licuadora Prensado Frio  Licuadora Frutas Verduras Total con Boca Ancha de 75MM  Slow Juicer Motor Silencioso y Alto Preservación en Nutrientes Licuadoras para Verduras y Frutas](https://www.amazon.es/dp/B07FPVGGDD/?tag=tolees-21) con 70.34 de descuento por 99.99 EUR (original: 337.14 EUR) en el siguiente enlace!

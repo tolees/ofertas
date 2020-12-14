@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BM1JDRM/?tag=tolees-21'
 descuento: '50.03'
+average: '7.99'
 ---
 
 Ahora mismo tienes [ORICO - 2.5 Pulgadas USB 3.0 Caja Disco Duro Externo Semitransparente - Silicona Prueba de Golpes para 7/9 5 mm SATA HDD/SSD - Libre de Herramienta](https://www.amazon.es/dp/B07BM1JDRM/?tag=tolees-21) a 7.99 EUR (original: 15.99 EUR) (50.03 %  de descuento) en el siguiente enlace!

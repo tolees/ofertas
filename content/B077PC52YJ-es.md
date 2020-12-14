@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077PC52YJ/?tag=tolees-21'
 descuento: '52.08'
+average: '47.9'
 ---
 
 Tienes [Puma Suede Bow  Zapatillas para Mujer  Negro Black  42 EU](https://www.amazon.es/dp/B077PC52YJ/?tag=tolees-21) con un 52.08 % de descuento con precio de oferta de 47.9 EUR (original: 99.95 EUR) en el siguiente enlace!

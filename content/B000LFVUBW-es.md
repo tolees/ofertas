@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000LFVUBW/?tag=tolees-21'
 descuento: '41.26'
+average: '53.87'
 ---
 
 Tienes [Silverline 749248 Hinca postes 670 x 170 mm](https://www.amazon.es/dp/B000LFVUBW/?tag=tolees-21) con un 41.26 % de descuento con precio de oferta de 53.87 EUR (original: 91.71 EUR) en el siguiente enlace!

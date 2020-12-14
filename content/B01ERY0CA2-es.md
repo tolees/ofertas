@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01ERY0CA2/?tag=tolees-21'
 descuento: '27.62'
+average: '12'
 ---
 
 Tienes [Joma - Top Elite v Gris para Mujer](https://www.amazon.es/dp/B01ERY0CA2/?tag=tolees-21) con un 27.62 % de descuento con precio de oferta de 12 EUR (original: 16.58 EUR) en el siguiente enlace!

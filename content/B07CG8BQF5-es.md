@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CG8BQF5/?tag=tolees-21'
 descuento: '37.26'
+average: '940.41'
 ---
 
 Ahora mismo tienes [Samsung 55NU8505 - Smart TV de 55" 4K UHD HDR10+  Pantalla Slim Curvo  Quad-Core  3 HDMI  2 USB   Color Plata  Eclipse Silver ](https://www.amazon.es/dp/B07CG8BQF5/?tag=tolees-21) a 940.41 EUR (original: 1499 EUR) (37.26 %  de descuento) en el siguiente enlace!

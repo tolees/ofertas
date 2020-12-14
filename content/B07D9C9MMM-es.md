@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9C9MMM/?tag=tolees-21'
 descuento: '64.93'
+average: '28.04'
 ---
 
 Está [Adidas ULTIMAMOTION  Zapatillas para Mujer  Gris Light Granite/Clear Brown 0  37 1/3 EU](https://www.amazon.es/dp/B07D9C9MMM/?tag=tolees-21) con 64.93 de descuento por 28.04 EUR (original: 79.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H284ZSQ/?tag=tolees-21'
 descuento: '65.09'
+average: '58.88'
 ---
 
 Tienes [LIERAS - Grifo de cocina giratorio de latón macizo con una sola palanca  pulverizador](https://www.amazon.es/dp/B07H284ZSQ/?tag=tolees-21) con un 65.09 % de descuento con precio de oferta de 58.88 EUR (original: 168.68 EUR) en el siguiente enlace!

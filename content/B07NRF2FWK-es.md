@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NRF2FWK/?tag=tolees-21'
 descuento: '62.34'
+average: '2.35'
 ---
 
 Tienes [La Toja - Crema De Afeitar para Piel Sensible - 2 unidades de 150 ml](https://www.amazon.es/dp/B07NRF2FWK/?tag=tolees-21) con un 62.34 % de descuento con precio de oferta de 2.35 EUR (original: 6.24 EUR) en el siguiente enlace!

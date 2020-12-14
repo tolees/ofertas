@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00D9QFLII/?tag=tolees-21'
 descuento: '77.15'
+average: '15.99'
 ---
 
 Tienes [Trust Gaming GXT 340 - Auriculares gaming de diadema cerrados  con micrófono  control remoto integrado  reducción de ruido   negro](https://www.amazon.es/dp/B00D9QFLII/?tag=tolees-21) con un 77.15 % de descuento con precio de oferta de 15.99 EUR (original: 69.99 EUR) en el siguiente enlace!

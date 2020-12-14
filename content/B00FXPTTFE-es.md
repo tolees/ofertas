@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00FXPTTFE/?tag=tolees-21'
 descuento: '64.69'
+average: '11.97'
 ---
 
 Tienes [Playtex Invisible Elegance  Sujetador Cotidiano para Mujer  Negro  90D](https://www.amazon.es/dp/B00FXPTTFE/?tag=tolees-21) con un 64.69 % de descuento con precio de oferta de 11.97 EUR (original: 33.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L3G36XT/?tag=tolees-21'
 descuento: '44.46'
+average: '14.99'
 ---
 
 Está [AiHom Portarrollos para Papel Higiénico 130mm con Adhesivo sin Agujeros Inoxidable Fuerte Capacidad de Carga para Cuarto de baño](https://www.amazon.es/dp/B07L3G36XT/?tag=tolees-21) con 44.46 de descuento por 14.99 EUR (original: 26.99 EUR) en el siguiente enlace!

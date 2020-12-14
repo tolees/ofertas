@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06WCZD4TV/?tag=tolees-21'
 descuento: '78.49'
+average: '16.99'
 ---
 
 Está [Tableros de Dibujo  A4 LED Mesa de Luz Dibujo  fina para diseño Art Display Tablero del panel de copia Cable Pad un USB Light](https://www.amazon.es/dp/B06WCZD4TV/?tag=tolees-21) con 78.49 de descuento por 16.99 EUR (original: 78.99 EUR) en el siguiente enlace!

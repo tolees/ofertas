@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00H2YBCB8/?tag=tolees-21'
 descuento: '25.46'
+average: '11.36'
 ---
 
 Está [Xylazel M91402 - Intemperie incoloro 750ml](https://www.amazon.es/dp/B00H2YBCB8/?tag=tolees-21) con 25.46 de descuento por 11.36 EUR (original: 15.24 EUR) en el siguiente enlace!

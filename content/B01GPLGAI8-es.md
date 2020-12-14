@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GPLGAI8/?tag=tolees-21'
 descuento: '60.70'
+average: '27.51'
 ---
 
 Tienes [Under Armour UA W Dash RN 2  Zapatillas de Entrenamiento para Mujer  Negro  Black   43 EU](https://www.amazon.es/dp/B01GPLGAI8/?tag=tolees-21) con un 60.70 % de descuento con precio de oferta de 27.51 EUR (original: 70 EUR) en el siguiente enlace!

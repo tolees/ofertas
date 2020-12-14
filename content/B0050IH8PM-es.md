@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0050IH8PM/?tag=tolees-21'
 descuento: '33.33'
+average: '50'
 ---
 
 Está [Braun MR 6550 MCAV Batidora De Inmersión  600 W  Acero Inoxidable  Azul/Blanco](https://www.amazon.es/dp/B0050IH8PM/?tag=tolees-21) con 33.33 de descuento por 50 EUR (original: 75 EUR) en el siguiente enlace!

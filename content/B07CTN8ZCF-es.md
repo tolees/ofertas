@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CTN8ZCF/?tag=tolees-21'
 descuento: '51.46'
+average: '7'
 ---
 
 Tienes [FIND - Orchid Love - Paleta de sombras de ojos de 10 tonos n.3](https://www.amazon.es/dp/B07CTN8ZCF/?tag=tolees-21) con un 51.46 % de descuento con precio de oferta de 7 EUR (original: 14.42 EUR) en el siguiente enlace!

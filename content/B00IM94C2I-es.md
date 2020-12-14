@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IM94C2I/?tag=tolees-21'
 descuento: '45.05'
+average: '65.89'
 ---
 
 Tienes [AEG EWA7800 Hervidor 2400 W  1.7 litros  Acero Inoxidable  8 Velocidades  Gris](https://www.amazon.es/dp/B00IM94C2I/?tag=tolees-21) con un 45.05 % de descuento con precio de oferta de 65.89 EUR (original: 119.9 EUR) en el siguiente enlace!

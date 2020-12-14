@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01K1Z5OD6/?tag=tolees-21'
 descuento: '28.49'
+average: '129'
 ---
 
 Está [Sharp R843INW - Microondas  3 en 1  900 W  Plata  51.3 x 30.62 x 39.94 cm](https://www.amazon.es/dp/B01K1Z5OD6/?tag=tolees-21) con 28.49 de descuento por 129 EUR (original: 180.4 EUR) en el siguiente enlace!

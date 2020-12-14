@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CS9WYC4/?tag=tolees-21'
 descuento: '50.08'
+average: '32.45'
 ---
 
 Ahora mismo tienes [Pepe Jeans Soho Pantalones  Azul  Blueing 565   29W / 30L para Mujer](https://www.amazon.es/dp/B07CS9WYC4/?tag=tolees-21) a 32.45 EUR (original: 65 EUR) (50.08 %  de descuento) en el siguiente enlace!

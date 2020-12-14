@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0722YW8PR/?tag=tolees-21'
 descuento: '76.68'
+average: '13.05'
 ---
 
 Está [Marco Tozzi 25038  Botas para Mujer  Marrón  Pepper   37 EU](https://www.amazon.es/dp/B0722YW8PR/?tag=tolees-21) con 76.68 de descuento por 13.05 EUR (original: 55.95 EUR) en el siguiente enlace!

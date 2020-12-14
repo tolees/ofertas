@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074QWLZ5M/?tag=tolees-21'
 descuento: '25.01'
+average: '16.49'
 ---
 
 Está [AmazonBasics - Juego de fundas de edredón y de almohada de microfibra  200 x 200 cm + 2 fundas 50 x 80 cm - Ciruela](https://www.amazon.es/dp/B074QWLZ5M/?tag=tolees-21) con 25.01 de descuento por 16.49 EUR (original: 21.99 EUR) en el siguiente enlace!

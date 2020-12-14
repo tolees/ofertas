@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BG6FSCV/?tag=tolees-21'
 descuento: '56.44'
+average: '39.18'
 ---
 
 Está [Clarks Comet Frostgtx  Botas Chelsea para Niñas  Marrón  Tan Leather   25.5 EU](https://www.amazon.es/dp/B07BG6FSCV/?tag=tolees-21) con 56.44 de descuento por 39.18 EUR (original: 89.95 EUR) en el siguiente enlace!

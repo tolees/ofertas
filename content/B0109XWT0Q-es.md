@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0109XWT0Q/?tag=tolees-21'
 descuento: '43.75'
+average: '9.95'
 ---
 
 Está [Distribución Semic - Smk001 - Escudo Key - Capitán América](https://www.amazon.es/dp/B0109XWT0Q/?tag=tolees-21) con 43.75 de descuento por 9.95 EUR (original: 17.69 EUR) en el siguiente enlace!

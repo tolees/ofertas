@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F3VVXW8/?tag=tolees-21'
 descuento: '70.04'
+average: '6.84'
 ---
 
 Tienes [Kit de Brochas Maquillaje 10 Piezas Cerdas de Fibra Sintética Suave Pincel de maquillaje  pincel de labios  cepillo de base  pincel de polvo suelto](https://www.amazon.es/dp/B07F3VVXW8/?tag=tolees-21) con un 70.04 % de descuento con precio de oferta de 6.84 EUR (original: 22.83 EUR) en el siguiente enlace!

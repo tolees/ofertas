@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B010S4W3PM/?tag=tolees-21'
 descuento: '66.05'
+average: '27.14'
 ---
 
 Ahora mismo tienes [Converse Chuck Taylor All Star Ii Hi - gimnasia Unisex adulto  Azul  EU 37  US 4.5 ](https://www.amazon.es/dp/B010S4W3PM/?tag=tolees-21) a 27.14 EUR (original: 79.95 EUR) (66.05 %  de descuento) en el siguiente enlace!

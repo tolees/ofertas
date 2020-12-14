@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078C91HJL/?tag=tolees-21'
 descuento: '35.72'
+average: '41.75'
 ---
 
 Está [adidas KIEL  Zapatillas para Hombre  Gris  Lgb Solid Grey/Core Black/Footwear White 0   41 1/3 EU](https://www.amazon.es/dp/B078C91HJL/?tag=tolees-21) con 35.72 de descuento por 41.75 EUR (original: 64.95 EUR) en el siguiente enlace!

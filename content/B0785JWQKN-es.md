@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0785JWQKN/?tag=tolees-21'
 descuento: '37.13'
+average: '44'
 ---
 
 Ahora mismo tienes [Under Armour Unstoppable 2X Knit FZ Parte Superior del Calentamiento  Hombre  Negro Black 001  L](https://www.amazon.es/dp/B0785JWQKN/?tag=tolees-21) a 44 EUR (original: 69.99 EUR) (37.13 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GPRJR1R/?tag=tolees-21'
 descuento: '66.78'
+average: '6.64'
 ---
 
 Ahora mismo tienes [Recore - Edición Definitiva](https://www.amazon.es/dp/B07GPRJR1R/?tag=tolees-21) a 6.64 EUR (original: 19.99 EUR) (66.78 %  de descuento) en el siguiente enlace!

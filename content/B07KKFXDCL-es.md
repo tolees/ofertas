@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KKFXDCL/?tag=tolees-21'
 descuento: '25.02'
+average: '11.99'
 ---
 
 Está [Asiento de Inodoro Plegable para Niños  Opret Tapa WC Orinal Bebe Reductor Compacto y Portátil Protector Inodoro para Viajes  Amarillo](https://www.amazon.es/dp/B07KKFXDCL/?tag=tolees-21) con 25.02 de descuento por 11.99 EUR (original: 15.99 EUR) en el siguiente enlace!

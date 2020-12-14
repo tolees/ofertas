@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DKKJ9G9/?tag=tolees-21'
 descuento: '40.00'
+average: '39'
 ---
 
 Está [Kipling - Multiple  Shoppers y bolsos de hombro Mujer  Multicolor  Scribble Lines ](https://www.amazon.es/dp/B07DKKJ9G9/?tag=tolees-21) con 40.00 de descuento por 39 EUR (original: 65 EUR) en el siguiente enlace!

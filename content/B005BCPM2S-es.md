@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005BCPM2S/?tag=tolees-21'
 descuento: '38.58'
+average: '17.99'
 ---
 
 Está [Bully: Scholarship Edition](https://www.amazon.es/dp/B005BCPM2S/?tag=tolees-21) con 38.58 de descuento por 17.99 EUR (original: 29.29 EUR) en el siguiente enlace!

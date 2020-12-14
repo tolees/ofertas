@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KS9PK4W/?tag=tolees-21'
 descuento: '59.44'
+average: '18.23'
 ---
 
 Ahora mismo tienes [Hummel HMLJOSEPH Shorts  Hombre Blu  L](https://www.amazon.es/dp/B07KS9PK4W/?tag=tolees-21) a 18.23 EUR (original: 44.95 EUR) (59.44 %  de descuento) en el siguiente enlace!

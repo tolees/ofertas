@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0777SHM1Z/?tag=tolees-21'
 descuento: '71.13'
+average: '20.21'
 ---
 
 Está [Under Armour UA Spotlight In  Zapatillas de Fútbol para Hombre  Blanco  White   44 EU](https://www.amazon.es/dp/B0777SHM1Z/?tag=tolees-21) con 71.13 de descuento por 20.21 EUR (original: 70 EUR) en el siguiente enlace!

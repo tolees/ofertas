@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KP931WW/?tag=tolees-21'
 descuento: '90.91'
+average: '0.1'
 ---
 
 Ahora mismo tienes [Seguridad 3 Combinación de viaje Maleta Equipaje Bolsa Código Cerradura Cremallera Candado](https://www.amazon.es/dp/B07KP931WW/?tag=tolees-21) a 0.1 EUR (original: 1.1 EUR) (90.91 %  de descuento) en el siguiente enlace!

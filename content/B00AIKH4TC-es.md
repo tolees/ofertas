@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00AIKH4TC/?tag=tolees-21'
 descuento: '46.49'
+average: '8'
 ---
 
 Está [Emina Crianza](https://www.amazon.es/dp/B00AIKH4TC/?tag=tolees-21) con 46.49 de descuento por 8 EUR (original: 14.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M1DUSAC/?tag=tolees-21'
 descuento: '40.08'
+average: '38.95'
 ---
 
 Ahora mismo tienes [Pepe Jeans London Tourist Basic 4.0  Alpargata Hombre  Azul  Navy   43 EU](https://www.amazon.es/dp/B01M1DUSAC/?tag=tolees-21) a 38.95 EUR (original: 65 EUR) (40.08 %  de descuento) en el siguiente enlace!

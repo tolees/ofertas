@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005FEY47Q/?tag=tolees-21'
 descuento: '59.62'
+average: '34.08'
 ---
 
 Está [Casio Reloj de Pulsera A159WGEA-1EF](https://www.amazon.es/dp/B005FEY47Q/?tag=tolees-21) con 59.62 de descuento por 34.08 EUR (original: 84.39 EUR) en el siguiente enlace!

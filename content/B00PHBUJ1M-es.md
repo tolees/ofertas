@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00PHBUJ1M/?tag=tolees-21'
 descuento: '74.27'
+average: '10.28'
 ---
 
 Está [Black+Decker 50002X7224 Set de Emergencia  800 W](https://www.amazon.es/dp/B00PHBUJ1M/?tag=tolees-21) con 74.27 de descuento por 10.28 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077YDLKXC/?tag=tolees-21'
 descuento: '40.00'
+average: '29.97'
 ---
 
 Ahora mismo tienes [HIKARO Anorak con Capucha Mujer  Rojo  Burgundy   40  Talla del fabricante: Medium ](https://www.amazon.es/dp/B077YDLKXC/?tag=tolees-21) a 29.97 EUR (original: 49.95 EUR) (40.00 %  de descuento) en el siguiente enlace!

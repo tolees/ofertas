@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00ZPTQPYG/?tag=tolees-21'
 descuento: '48.68'
+average: '10.5'
 ---
 
 Tienes [Sword Art Online: Extra Edition Blu-Ray - Edición Coleccionista [Blu-ray]](https://www.amazon.es/dp/B00ZPTQPYG/?tag=tolees-21) con un 48.68 % de descuento con precio de oferta de 10.5 EUR (original: 20.46 EUR) en el siguiente enlace!

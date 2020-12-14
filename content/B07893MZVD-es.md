@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07893MZVD/?tag=tolees-21'
 descuento: '55.72'
+average: '48.71'
 ---
 
 Tienes [Helly Hansen Seven J Shell Jacket  Hombre  fir Green  S](https://www.amazon.es/dp/B07893MZVD/?tag=tolees-21) con un 55.72 % de descuento con precio de oferta de 48.71 EUR (original: 110 EUR) en el siguiente enlace!

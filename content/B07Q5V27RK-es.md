@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07Q5V27RK/?tag=tolees-21'
 descuento: '27.22'
+average: '39.99'
 ---
 
 Tienes [Adidas Predator 19.4 IN  Zapatillas de fútbol Sala para Hombre  Azufue/Ftwbla 000  41 1/3 EU](https://www.amazon.es/dp/B07Q5V27RK/?tag=tolees-21) con un 27.22 % de descuento con precio de oferta de 39.99 EUR (original: 54.95 EUR) en el siguiente enlace!

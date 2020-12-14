@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00CZAOO6E/?tag=tolees-21'
 descuento: '57.81'
+average: '31.91'
 ---
 
 Tienes [Wrangler Texas Original 5 Pocket Straight Leg  Pantalones para Hombre  Beige  Espresso Light 261  W30/L34](https://www.amazon.es/dp/B00CZAOO6E/?tag=tolees-21) con un 57.81 % de descuento con precio de oferta de 31.91 EUR (original: 75.63 EUR) en el siguiente enlace!

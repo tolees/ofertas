@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FKG7Y9H/?tag=tolees-21'
 descuento: '40.00'
+average: '16.8'
 ---
 
 Ahora mismo tienes [The North Face Mudder Trucker Hat - Gorra  Hombre  TNF Red/Urban Navy  Talla única](https://www.amazon.es/dp/B07FKG7Y9H/?tag=tolees-21) a 16.8 EUR (original: 28 EUR) (40.00 %  de descuento) en el siguiente enlace!

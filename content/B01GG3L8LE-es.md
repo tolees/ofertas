@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GG3L8LE/?tag=tolees-21'
 descuento: '39.52'
+average: '94.74'
 ---
 
 Tienes [Reloj - Nixon - para - A472-131-00](https://www.amazon.es/dp/B01GG3L8LE/?tag=tolees-21) con un 39.52 % de descuento con precio de oferta de 94.74 EUR (original: 156.65 EUR) en el siguiente enlace!

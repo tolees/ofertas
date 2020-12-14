@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00GICGGRU/?tag=tolees-21'
 descuento: '76.55'
+average: '13.62'
 ---
 
 Tienes [3M Privacy Filter For ThinkPad X250 Series Touch Laptop Diseñado para Lenovo](https://www.amazon.es/dp/B00GICGGRU/?tag=tolees-21) con un 76.55 % de descuento con precio de oferta de 13.62 EUR (original: 58.08 EUR) en el siguiente enlace!

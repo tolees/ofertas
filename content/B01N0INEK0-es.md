@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N0INEK0/?tag=tolees-21'
 descuento: '63.47'
+average: '32.86'
 ---
 
 Está [Puma Prevail  Zapatillas Unisex Adulto  Amarillo  Soft Fluo Yellow-Prism Pink White 06   42.5 EU](https://www.amazon.es/dp/B01N0INEK0/?tag=tolees-21) con 63.47 de descuento por 32.86 EUR (original: 89.95 EUR) en el siguiente enlace!

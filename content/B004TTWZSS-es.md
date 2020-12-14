@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004TTWZSS/?tag=tolees-21'
 descuento: '42.29'
+average: '5.69'
 ---
 
 Está [Ratón óptico de Silueta de Manhattan 177627 pc Ratón  PC/Mac  2-Maneras](https://www.amazon.es/dp/B004TTWZSS/?tag=tolees-21) con 42.29 de descuento por 5.69 EUR (original: 9.86 EUR) en el siguiente enlace!

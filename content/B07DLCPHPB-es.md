@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLCPHPB/?tag=tolees-21'
 descuento: '48.95'
+average: '15.31'
 ---
 
 Está [Women s Secret TF Ecru Dots Nd  Camisón para Mujer   Varios 98  Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07DLCPHPB/?tag=tolees-21) con 48.95 de descuento por 15.31 EUR (original: 29.99 EUR) en el siguiente enlace!

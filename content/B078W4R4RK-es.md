@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078W4R4RK/?tag=tolees-21'
 descuento: '56.13'
+average: '32.9'
 ---
 
 Ahora mismo tienes [Vans Era 59  Zapatillas Unisex Adulto  Verde  Double Light Gum   44 EU](https://www.amazon.es/dp/B078W4R4RK/?tag=tolees-21) a 32.9 EUR (original: 75 EUR) (56.13 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D2NT25Q/?tag=tolees-21'
 descuento: '45.04'
+average: '54.93'
 ---
 
 Está [Reebok Cl Leather Mu  Zapatillas para Hombre  Naranja  Dirty Apricot/Teal/Gum 0   41 EU](https://www.amazon.es/dp/B07D2NT25Q/?tag=tolees-21) con 45.04 de descuento por 54.93 EUR (original: 99.95 EUR) en el siguiente enlace!

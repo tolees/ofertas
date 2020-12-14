@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H5JTNXH/?tag=tolees-21'
 descuento: '40.00'
+average: '71.28'
 ---
 
 Tienes [Lacoste - Zapatillas Lacoste Rey Sport Caw - 181012 7-36CAW0034237 - Negro  37](https://www.amazon.es/dp/B07H5JTNXH/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 71.28 EUR (original: 118.8 EUR) en el siguiente enlace!

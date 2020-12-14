@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XTR3JKR/?tag=tolees-21'
 descuento: '56.45'
+average: '19.99'
 ---
 
 Tienes [3DS Fire Emblem Echoes: Shadows of Valentia](https://www.amazon.es/dp/B06XTR3JKR/?tag=tolees-21) con un 56.45 % de descuento con precio de oferta de 19.99 EUR (original: 45.9 EUR) en el siguiente enlace!

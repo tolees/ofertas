@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01D9RP7GM/?tag=tolees-21'
 descuento: '31.05'
+average: '8.95'
 ---
 
 Ahora mismo tienes [Hawaiian Tropic Satin Protection Ultra Radiance - Loción Solar de Protección Alta  índice SPF 50+  protege y suaviza la piel  fragancia Frutas Tropicales  180 ml](https://www.amazon.es/dp/B01D9RP7GM/?tag=tolees-21) a 8.95 EUR (original: 12.98 EUR) (31.05 %  de descuento) en el siguiente enlace!

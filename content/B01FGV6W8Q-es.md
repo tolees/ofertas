@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FGV6W8Q/?tag=tolees-21'
 descuento: '41.44'
+average: '15.9'
 ---
 
 Tienes [L Óreal Mythic Oil Mascarilla Cabello Normal o Fino - 200 ml](https://www.amazon.es/dp/B01FGV6W8Q/?tag=tolees-21) con un 41.44 % de descuento con precio de oferta de 15.9 EUR (original: 27.15 EUR) en el siguiente enlace!

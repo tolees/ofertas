@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NDPK9D2/?tag=tolees-21'
 descuento: '28.17'
+average: '379.99'
 ---
 
 Tienes [Medion Akoya E23401 - Ordenador All-in-One 23 8" FullHD  Intel Core i3-7020U  4GB RAM  128GB SSD  Windows 10  Gris - Teclado QWERTY español + Ratón USB](https://www.amazon.es/dp/B07NDPK9D2/?tag=tolees-21) con un 28.17 % de descuento con precio de oferta de 379.99 EUR (original: 529 EUR) en el siguiente enlace!

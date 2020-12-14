@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000EOQ9SY/?tag=tolees-21'
 descuento: '38.98'
+average: '14.95'
 ---
 
 Tienes [TFA 40.2005  110 x 110 x 140 mm  180 g - Termómetro](https://www.amazon.es/dp/B000EOQ9SY/?tag=tolees-21) con un 38.98 % de descuento con precio de oferta de 14.95 EUR (original: 24.5 EUR) en el siguiente enlace!

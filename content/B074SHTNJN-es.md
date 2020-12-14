@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074SHTNJN/?tag=tolees-21'
 descuento: '64.84'
+average: '38.32'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Core Cotton-Silk Cneck suéter  Negro  Flag Black 032   X-Large para Hombre](https://www.amazon.es/dp/B074SHTNJN/?tag=tolees-21) a 38.32 EUR (original: 109 EUR) (64.84 %  de descuento) en el siguiente enlace!

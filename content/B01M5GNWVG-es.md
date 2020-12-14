@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M5GNWVG/?tag=tolees-21'
 descuento: '56.13'
+average: '11.84'
 ---
 
 Tienes [NAME IT Nitthank Reg/xslim Dnm Pant Nmt Noos  Jeans Niños  Azul  Medium Blue Denim   92](https://www.amazon.es/dp/B01M5GNWVG/?tag=tolees-21) con un 56.13 % de descuento con precio de oferta de 11.84 EUR (original: 26.99 EUR) en el siguiente enlace!

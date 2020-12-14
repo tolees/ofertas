@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MTSOBLD/?tag=tolees-21'
 descuento: '70.08'
+average: '23.92'
 ---
 
 Está [Reebok Ros Workout TR 2.0  Zapatillas para Mujer  Azul  Brave Blue/Gable Grey/Stellar Pink/Pure Silver   38 EU](https://www.amazon.es/dp/B01MTSOBLD/?tag=tolees-21) con 70.08 de descuento por 23.92 EUR (original: 79.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00OJ61QFO/?tag=tolees-21'
 descuento: '69.41'
+average: '39.44'
 ---
 
 Está [High Peak Kira 4 Tienda  Claro/Gris Oscuro/Rojo  350 x 240 x 130 cm](https://www.amazon.es/dp/B00OJ61QFO/?tag=tolees-21) con 69.41 de descuento por 39.44 EUR (original: 128.95 EUR) en el siguiente enlace!

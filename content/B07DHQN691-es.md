@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHQN691/?tag=tolees-21'
 descuento: '62.12'
+average: '32.2'
 ---
 
 Ahora mismo tienes [Lacoste Sideline 119 1 Cfa  Zapatillas para Mujer  Azul  Lt BLU/Wht 2k7   40 EU](https://www.amazon.es/dp/B07DHQN691/?tag=tolees-21) a 32.2 EUR (original: 85 EUR) (62.12 %  de descuento) en el siguiente enlace!

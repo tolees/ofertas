@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GPR1J1Q/?tag=tolees-21'
 descuento: '62.67'
+average: '37.31'
 ---
 
 Tienes [G-STAR RAW Rackam Rovic  Zapatillas para Hombre  Verde  Combat 723   41 EU](https://www.amazon.es/dp/B07GPR1J1Q/?tag=tolees-21) con un 62.67 % de descuento con precio de oferta de 37.31 EUR (original: 99.95 EUR) en el siguiente enlace!

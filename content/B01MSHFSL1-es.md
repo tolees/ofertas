@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MSHFSL1/?tag=tolees-21'
 descuento: '46.21'
+average: '29.53'
 ---
 
 Ahora mismo tienes [Speedo Boom Allover  Bañador para Mujer  multicolor  Negro/rosa eléctrico  Lava Red Liner And Branding   ES: 40  Talla del manufacturier: 34 ](https://www.amazon.es/dp/B01MSHFSL1/?tag=tolees-21) a 29.53 EUR (original: 54.9 EUR) (46.21 %  de descuento) en el siguiente enlace!

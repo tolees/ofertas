@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DTCGFNC/?tag=tolees-21'
 descuento: '39.62'
+average: '7.24'
 ---
 
 Está [Luanvi Triple Bermuda Reversible de Basket de Baloncesto  Unisex Adulto  Verde y Blanco  S](https://www.amazon.es/dp/B07DTCGFNC/?tag=tolees-21) con 39.62 de descuento por 7.24 EUR (original: 11.99 EUR) en el siguiente enlace!

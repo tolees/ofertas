@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MUCL393/?tag=tolees-21'
 descuento: '36.40'
+average: '41.31'
 ---
 
 Está [Skechers On-The-go City 3  Zapatillas de Entrenamiento para Hombre  Negro  Black/Gray   41 EU](https://www.amazon.es/dp/B01MUCL393/?tag=tolees-21) con 36.40 de descuento por 41.31 EUR (original: 64.95 EUR) en el siguiente enlace!

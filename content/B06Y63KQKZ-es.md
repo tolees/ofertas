@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y63KQKZ/?tag=tolees-21'
 descuento: '59.78'
+average: '63.95'
 ---
 
 Tienes [REPLAY Grover Hyperflex  Jeans Rectos para Hombre  Azul  Blue Denim 7  W36/L34  Talla del Fabricante: 36 ](https://www.amazon.es/dp/B06Y63KQKZ/?tag=tolees-21) con un 59.78 % de descuento con precio de oferta de 63.95 EUR (original: 159 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073RKV8CH/?tag=tolees-21'
 descuento: '66.47'
+average: '30.16'
 ---
 
 Tienes [Adidas Questar TND W  Zapatillas de Deporte para Mujer  Gris  Carbon/Agucla/Negbas 000   36 EU](https://www.amazon.es/dp/B073RKV8CH/?tag=tolees-21) con un 66.47 % de descuento con precio de oferta de 30.16 EUR (original: 89.95 EUR) en el siguiente enlace!

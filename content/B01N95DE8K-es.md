@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N95DE8K/?tag=tolees-21'
 descuento: '57.46'
+average: '34.03'
 ---
 
 Ahora mismo tienes [Le Coq Sportif Alice S/Nylon  Zapatillas para Mujer  Blanco  Optical White/Rivier   37 EU](https://www.amazon.es/dp/B01N95DE8K/?tag=tolees-21) a 34.03 EUR (original: 80 EUR) (57.46 %  de descuento) en el siguiente enlace!

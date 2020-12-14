@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00KYTFUES/?tag=tolees-21'
 descuento: '59.73'
+average: '28.17'
 ---
 
 Tienes [S.Oliver Reloj Analógico de Cuarzo para Mujer con Correa de Piel – SO-2936-LQ](https://www.amazon.es/dp/B00KYTFUES/?tag=tolees-21) con un 59.73 % de descuento con precio de oferta de 28.17 EUR (original: 69.95 EUR) en el siguiente enlace!

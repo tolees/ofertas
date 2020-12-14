@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005DB9HL4/?tag=tolees-21'
 descuento: '35.68'
+average: '51.46'
 ---
 
 Tienes [Etnies FADER 4101000203 - Zapatillas de skate de cuero para hombre  / Black Dirty Wash 13  41](https://www.amazon.es/dp/B005DB9HL4/?tag=tolees-21) con un 35.68 % de descuento con precio de oferta de 51.46 EUR (original: 80 EUR) en el siguiente enlace!

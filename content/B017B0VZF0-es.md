@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017B0VZF0/?tag=tolees-21'
 descuento: '54.77'
+average: '9'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Underwear Shorty  lencería para Mujer  Blanco  MD](https://www.amazon.es/dp/B017B0VZF0/?tag=tolees-21) a 9 EUR (original: 19.9 EUR) (54.77 %  de descuento) en el siguiente enlace!

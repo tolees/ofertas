@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GDNRQVV/?tag=tolees-21'
 descuento: '41.89'
+average: '17.99'
 ---
 
 Está [Mallas Deportivas de Mujer  Mujer Pantalones elásticos de yoga con bolsillos laterales  polainas de yoga Fitness  pantalones deportivos y elásticos polaina Leggings Mujer para Yoga  Negro Largo  XL ](https://www.amazon.es/dp/B07GDNRQVV/?tag=tolees-21) con 41.89 de descuento por 17.99 EUR (original: 30.96 EUR) en el siguiente enlace!

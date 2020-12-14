@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BWD18NX/?tag=tolees-21'
 descuento: '41.43'
+average: '81.99'
 ---
 
 Está [Worth Garden 36 Bolsillos Sembradora Vertical de jardín de Interior/Exterior decoración de Plantas Sistema de riego por Goteo](https://www.amazon.es/dp/B07BWD18NX/?tag=tolees-21) con 41.43 de descuento por 81.99 EUR (original: 139.99 EUR) en el siguiente enlace!

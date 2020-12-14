@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DP77DT4/?tag=tolees-21'
 descuento: '35.08'
+average: '38.95'
 ---
 
 Está [Eastpak Stand + Bolsa de Viaje  53 cm  34 Liters  Negro  Blakout Dark ](https://www.amazon.es/dp/B07DP77DT4/?tag=tolees-21) con 35.08 de descuento por 38.95 EUR (original: 60 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B016QO6PUC/?tag=tolees-21'
 descuento: '57.16'
+average: '14.99'
 ---
 
 Está [Case Logic CSIE2242DBL - Funda para Apple iPad Mini 4  Color Azul](https://www.amazon.es/dp/B016QO6PUC/?tag=tolees-21) con 57.16 de descuento por 14.99 EUR (original: 34.99 EUR) en el siguiente enlace!

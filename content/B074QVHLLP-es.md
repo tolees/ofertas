@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074QVHLLP/?tag=tolees-21'
 descuento: '56.26'
+average: '41.55'
 ---
 
 Ahora mismo tienes [El Ganso 2020s180011  Pantalones para Mujer   Azul/Blanco   WNA Tamaño del Fabricante:38 ](https://www.amazon.es/dp/B074QVHLLP/?tag=tolees-21) a 41.55 EUR (original: 95 EUR) (56.26 %  de descuento) en el siguiente enlace!

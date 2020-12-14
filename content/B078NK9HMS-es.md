@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078NK9HMS/?tag=tolees-21'
 descuento: '44.46'
+average: '19.99'
 ---
 
 Tienes [Radio para coche MP3  LESHP Reproductor MP3 autoradio 1 din FM  Bluetoothe  USB  AUX  4 x 60 w altavoces estéreos con ecualizador para salpicadero del coche](https://www.amazon.es/dp/B078NK9HMS/?tag=tolees-21) con un 44.46 % de descuento con precio de oferta de 19.99 EUR (original: 35.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01INRY94E/?tag=tolees-21'
 descuento: '44.81'
+average: '80.71'
 ---
 
 Ahora mismo tienes [Cisa - Cierrapuerta cancela negro](https://www.amazon.es/dp/B01INRY94E/?tag=tolees-21) a 80.71 EUR (original: 146.25 EUR) (44.81 %  de descuento) en el siguiente enlace!

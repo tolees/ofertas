@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0797JYMY7/?tag=tolees-21'
 descuento: '59.01'
+average: '24.59'
 ---
 
 Tienes [eecoo Fuente Gatos de 2L Silencioso Bebedero Automático para Perros y Gatos  Tiene 3 Modos Ajustables con Filtro de Carbón  Adecuado para Mascotas.  Verde ](https://www.amazon.es/dp/B0797JYMY7/?tag=tolees-21) con un 59.01 % de descuento con precio de oferta de 24.59 EUR (original: 59.99 EUR) en el siguiente enlace!

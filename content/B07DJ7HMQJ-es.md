@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ7HMQJ/?tag=tolees-21'
 descuento: '67.26'
+average: '32.74'
 ---
 
 Ahora mismo tienes [New Balance 574S v2  Zapatillas para Mujer  Negro Teal Black  37.5 EU](https://www.amazon.es/dp/B07DJ7HMQJ/?tag=tolees-21) a 32.74 EUR (original: 100 EUR) (67.26 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DKGP2KS/?tag=tolees-21'
 descuento: '40.66'
+average: '35.6'
 ---
 
 Tienes [House of Marley Chant Mini Altavoz inalámbrico Bluetooth portátil  Diseño Resistente a Las Salpicaduras  IPX4   Micrófono Integrado  Entrada Auxiliar  Mosquetón  Flores](https://www.amazon.es/dp/B01DKGP2KS/?tag=tolees-21) con un 40.66 % de descuento con precio de oferta de 35.6 EUR (original: 59.99 EUR) en el siguiente enlace!

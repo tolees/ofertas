@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHVCSPJ/?tag=tolees-21'
 descuento: '25.29'
+average: '64.24'
 ---
 
 Está [Quiksilver Verant Deluxe  Zapatillas Altas para Hombre  Gris Grey-Combo Xsss  39 EU](https://www.amazon.es/dp/B07DHVCSPJ/?tag=tolees-21) con 25.29 de descuento por 64.24 EUR (original: 85.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07SJSY3TT/?tag=tolees-21'
 descuento: '67.97'
+average: '16'
 ---
 
 Está [Abadía de San Quirce Vino Tinto Crianza - Paquete de 3 x 750 ml - Total: 2250 ml](https://www.amazon.es/dp/B07SJSY3TT/?tag=tolees-21) con 67.97 de descuento por 16 EUR (original: 49.95 EUR) en el siguiente enlace!

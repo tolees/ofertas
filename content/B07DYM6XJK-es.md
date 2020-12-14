@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DYM6XJK/?tag=tolees-21'
 descuento: '72.73'
+average: '14.99'
 ---
 
 Está [Estilo Hollywood Luces de Espejo de Tocador LED Kit con 10 bombillas regulables para maquillaje Tocador con brillo  5 engranajes Atenuador táctil y cable de alimentación USB  el espejo no incluye ](https://www.amazon.es/dp/B07DYM6XJK/?tag=tolees-21) con 72.73 de descuento por 14.99 EUR (original: 54.96 EUR) en el siguiente enlace!

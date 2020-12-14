@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076BL7Y2G/?tag=tolees-21'
 descuento: '90.00'
+average: '0.01'
 ---
 
 Está [Adaptador USB C a Micro USB  5x Lucklystar® Adaptador USB C a Micro USB Adaptator USB Tipo C Convertidor Conector Adaptador Micro USB a Type C  Adaptador USB Tipo C Macho a Micro USB Hembra](https://www.amazon.es/dp/B076BL7Y2G/?tag=tolees-21) con 90.00 de descuento por 0.01 EUR (original: 0.1 EUR) en el siguiente enlace!

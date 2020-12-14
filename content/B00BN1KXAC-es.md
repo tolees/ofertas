@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00BN1KXAC/?tag=tolees-21'
 descuento: '40.05'
+average: '59.94'
 ---
 
 Está [Yale 45-0500-1432-00-60-1 Mirilla digital  plata](https://www.amazon.es/dp/B00BN1KXAC/?tag=tolees-21) con 40.05 de descuento por 59.94 EUR (original: 99.99 EUR) en el siguiente enlace!

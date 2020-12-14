@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BPZC1YJ/?tag=tolees-21'
 descuento: '48.01'
+average: '25.99'
 ---
 
 Ahora mismo tienes [homgeek  Moderno Cocina de Huevos eléctrica  cocedor con Capacidad para 7 Huevos  250V 50Hz 350W  sin BPA  Negro.](https://www.amazon.es/dp/B07BPZC1YJ/?tag=tolees-21) a 25.99 EUR (original: 49.99 EUR) (48.01 %  de descuento) en el siguiente enlace!

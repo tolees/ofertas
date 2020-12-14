@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072JW39ZJ/?tag=tolees-21'
 descuento: '56.85'
+average: '10.99'
 ---
 
 Tienes [morpilot [4 en 1 Cargador de Coche para dji Phantom 3  Cargador Inteligente Cargador Adaptador 5A Salida para 2 dji Phantom 3 Batería Drone  1 Mando a Distancia y 5V 2A Puerto USB](https://www.amazon.es/dp/B072JW39ZJ/?tag=tolees-21) con un 56.85 % de descuento con precio de oferta de 10.99 EUR (original: 25.47 EUR) en el siguiente enlace!

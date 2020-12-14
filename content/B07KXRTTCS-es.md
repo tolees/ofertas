@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KXRTTCS/?tag=tolees-21'
 descuento: '29.99'
+average: '27.97'
 ---
 
 Está [G-STAR RAW Tach Trunk 3 Pack  Bañador Hombre  Negro  carbid/Sage/dk Vermont Green A395   Medium](https://www.amazon.es/dp/B07KXRTTCS/?tag=tolees-21) con 29.99 de descuento por 27.97 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HXH63LL/?tag=tolees-21'
 descuento: '31.17'
+average: '164.5'
 ---
 
 Está [Samsung Galaxy J6+ Smartphone de 6"  Quad Core 1.4 GHz  RAM de 3 GB  Memoria de 32 GB  cámara de 13+5 MP  Android  Color Rojo](https://www.amazon.es/dp/B07HXH63LL/?tag=tolees-21) con 31.17 de descuento por 164.5 EUR (original: 239 EUR) en el siguiente enlace!

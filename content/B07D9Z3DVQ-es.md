@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9Z3DVQ/?tag=tolees-21'
 descuento: '61.77'
+average: '24.83'
 ---
 
 Está [Puma Smash V2 Mid Sd  Zapatillas altas Unisex adulto  Negro  Puma Black-Puma White 01   36 EU](https://www.amazon.es/dp/B07D9Z3DVQ/?tag=tolees-21) con 61.77 de descuento por 24.83 EUR (original: 64.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004P3AV7U/?tag=tolees-21'
 descuento: '53.18'
+average: '7'
 ---
 
 Ahora mismo tienes [Piscina hinchable Bestway Princesas Disney](https://www.amazon.es/dp/B004P3AV7U/?tag=tolees-21) a 7 EUR (original: 14.95 EUR) (53.18 %  de descuento) en el siguiente enlace!

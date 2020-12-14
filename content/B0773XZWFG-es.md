@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0773XZWFG/?tag=tolees-21'
 descuento: '58.93'
+average: '73.91'
 ---
 
 Ahora mismo tienes [adidas NMD_R1 STLT PK  Zapatillas para Hombre  Negro  Core Black/Grey Four/Solar Pink 0   42 EU](https://www.amazon.es/dp/B0773XZWFG/?tag=tolees-21) a 73.91 EUR (original: 179.95 EUR) (58.93 %  de descuento) en el siguiente enlace!

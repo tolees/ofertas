@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FMQ57JT/?tag=tolees-21'
 descuento: '40.00'
+average: '26.99'
 ---
 
 Está [fitpolo Relojes Inteligente Mujer/Hombre/Niño  Pulsera de Actividad con Pulsómetro Pulsera  Deporte Reloj fit Podometro Monitor de sueño smartwatch Impermeable IP67 para iPhone Android Púrpura ](https://www.amazon.es/dp/B07FMQ57JT/?tag=tolees-21) con 40.00 de descuento por 26.99 EUR (original: 44.98 EUR) en el siguiente enlace!

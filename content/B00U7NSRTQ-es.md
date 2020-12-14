@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00U7NSRTQ/?tag=tolees-21'
 descuento: '37.50'
+average: '8.85'
 ---
 
 Está [Acquastilla  116799 - Embellecedor dorado para rebosadero de lavabo](https://www.amazon.es/dp/B00U7NSRTQ/?tag=tolees-21) con 37.50 de descuento por 8.85 EUR (original: 14.16 EUR) en el siguiente enlace!

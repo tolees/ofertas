@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007CST74S/?tag=tolees-21'
 descuento: '26.68'
+average: '14.59'
 ---
 
 Tienes [Remington D2400 - Secador de pelo de viaje  1400 W  voltaje universal  mango plegable  concentrador](https://www.amazon.es/dp/B007CST74S/?tag=tolees-21) con un 26.68 % de descuento con precio de oferta de 14.59 EUR (original: 19.9 EUR) en el siguiente enlace!

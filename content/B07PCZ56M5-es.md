@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PCZ56M5/?tag=tolees-21'
 descuento: '46.06'
+average: '32.36'
 ---
 
 Ahora mismo tienes [RIP CURL Switch 19   Boardshort Bañador  Hombre  Light Blue  34](https://www.amazon.es/dp/B07PCZ56M5/?tag=tolees-21) a 32.36 EUR (original: 59.99 EUR) (46.06 %  de descuento) en el siguiente enlace!

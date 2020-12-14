@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DKN1DQ4/?tag=tolees-21'
 descuento: '49.16'
+average: '30.5'
 ---
 
 Tienes [Inuyasha Box 3 Episodios 67 A 99 Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07DKN1DQ4/?tag=tolees-21) con un 49.16 % de descuento con precio de oferta de 30.5 EUR (original: 59.99 EUR) en el siguiente enlace!

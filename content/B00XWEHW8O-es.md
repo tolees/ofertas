@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00XWEHW8O/?tag=tolees-21'
 descuento: '25.01'
+average: '336.72'
 ---
 
 Ahora mismo tienes [Vanguard Endeavor ED II 1042 - Prismáticos ED con óptica japonesa Hoya  Negro  10 x 42](https://www.amazon.es/dp/B00XWEHW8O/?tag=tolees-21) a 336.72 EUR (original: 449 EUR) (25.01 %  de descuento) en el siguiente enlace!

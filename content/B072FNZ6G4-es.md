@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072FNZ6G4/?tag=tolees-21'
 descuento: '62.80'
+average: '8.95'
 ---
 
 Está [Head Solid Last Traje De Baño Olimpico  Niñas  4](https://www.amazon.es/dp/B072FNZ6G4/?tag=tolees-21) con 62.80 de descuento por 8.95 EUR (original: 24.06 EUR) en el siguiente enlace!

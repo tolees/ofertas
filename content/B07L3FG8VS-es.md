@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L3FG8VS/?tag=tolees-21'
 descuento: '52.67'
+average: '35.45'
 ---
 
 Tienes [Tommy Hilfiger Essential Flag Detail Sneaker  Zapatillas para Hombre  Negro  Black 990   41 EU](https://www.amazon.es/dp/B07L3FG8VS/?tag=tolees-21) con un 52.67 % de descuento con precio de oferta de 35.45 EUR (original: 74.9 EUR) en el siguiente enlace!

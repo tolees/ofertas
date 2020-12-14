@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073QXCL57/?tag=tolees-21'
 descuento: '39.32'
+average: '39.41'
 ---
 
 Está [Reebok Royal Glide Rplclp  Zapatillas de Gimnasia para Hombre  Blanco White/Vital Blue  45.5 EU](https://www.amazon.es/dp/B073QXCL57/?tag=tolees-21) con 39.32 de descuento por 39.41 EUR (original: 64.95 EUR) en el siguiente enlace!

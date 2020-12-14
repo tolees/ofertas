@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00AYU2JFK/?tag=tolees-21'
 descuento: '69.80'
+average: '14.71'
 ---
 
 Ahora mismo tienes [pediped Estella - Merceditas de sintético para niña  color Plata  plateado   talla 5 UK  22 EU ](https://www.amazon.es/dp/B00AYU2JFK/?tag=tolees-21) a 14.71 EUR (original: 48.71 EUR) (69.80 %  de descuento) en el siguiente enlace!

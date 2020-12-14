@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CNSVNPS/?tag=tolees-21'
 descuento: '49.93'
+average: '11.49'
 ---
 
 Está [Selene Rafaella Sujetador con Aros  Mujer  Negro  Negro   95  Tamaño del Fabricante:C.95 ](https://www.amazon.es/dp/B07CNSVNPS/?tag=tolees-21) con 49.93 de descuento por 11.49 EUR (original: 22.95 EUR) en el siguiente enlace!

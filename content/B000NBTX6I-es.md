@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000NBTX6I/?tag=tolees-21'
 descuento: '52.84'
+average: '71.81'
 ---
 
 Tienes [Silverline 399017 - Llaves combinadas con carraca articulada  14 pzas  8-24 mm ](https://www.amazon.es/dp/B000NBTX6I/?tag=tolees-21) con un 52.84 % de descuento con precio de oferta de 71.81 EUR (original: 152.27 EUR) en el siguiente enlace!

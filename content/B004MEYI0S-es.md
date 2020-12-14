@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004MEYI0S/?tag=tolees-21'
 descuento: '52.44'
+average: '19'
 ---
 
 Está [Dron PRIXTON PREDATOR  Cámara 2MP  720P  HD  Color Negro  Accesorios](https://www.amazon.es/dp/B004MEYI0S/?tag=tolees-21) con 52.44 de descuento por 19 EUR (original: 39.95 EUR) en el siguiente enlace!

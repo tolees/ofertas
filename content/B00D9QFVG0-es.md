@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00D9QFVG0/?tag=tolees-21'
 descuento: '52.38'
+average: '49.95'
 ---
 
 Tienes [D-Link DIR-850L Wireless AC1200 Dual-Band Gigabit Cloud Router](https://www.amazon.es/dp/B00D9QFVG0/?tag=tolees-21) con un 52.38 % de descuento con precio de oferta de 49.95 EUR (original: 104.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B016MM30UQ/?tag=tolees-21'
 descuento: '25.72'
+average: '25.99'
 ---
 
 Está [Tattu Batería LiPo 1800mAh 14.8V 45C 4S para Multicopteros FPV Racing Helicópteros Barcos y Modelos RC Diversos](https://www.amazon.es/dp/B016MM30UQ/?tag=tolees-21) con 25.72 de descuento por 25.99 EUR (original: 34.99 EUR) en el siguiente enlace!

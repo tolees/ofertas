@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DNWS7N5/?tag=tolees-21'
 descuento: '48.23'
+average: '77.66'
 ---
 
 Está [BOSS Athleisure Akeen  Zapatillas para Hombre  Gris  Open Grey 068   44 EU](https://www.amazon.es/dp/B07DNWS7N5/?tag=tolees-21) con 48.23 de descuento por 77.66 EUR (original: 150 EUR) en el siguiente enlace!

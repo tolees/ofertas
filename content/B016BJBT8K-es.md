@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B016BJBT8K/?tag=tolees-21'
 descuento: '34.09'
+average: '65.9'
 ---
 
 Tienes [Bosch Sierra circular PKS 40  tope paralelo  hoja de sierra para madera  en caja de cartón  850 W  diametro nominal de la hoja de sierra: 130 mm ](https://www.amazon.es/dp/B016BJBT8K/?tag=tolees-21) con un 34.09 % de descuento con precio de oferta de 65.9 EUR (original: 99.99 EUR) en el siguiente enlace!

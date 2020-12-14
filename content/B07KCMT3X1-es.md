@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KCMT3X1/?tag=tolees-21'
 descuento: '40.57'
+average: '18.72'
 ---
 
 Ahora mismo tienes [David Jones - 5964-1  Bolsos bandolera Mujer  Rosa  Pink   8x14x20 cm  W x H L ](https://www.amazon.es/dp/B07KCMT3X1/?tag=tolees-21) a 18.72 EUR (original: 31.5 EUR) (40.57 %  de descuento) en el siguiente enlace!

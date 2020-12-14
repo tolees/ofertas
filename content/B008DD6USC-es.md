@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B008DD6USC/?tag=tolees-21'
 descuento: '51.74'
+average: '6.25'
 ---
 
 Ahora mismo tienes [Sauza - Tequila Silver  0.7 l](https://www.amazon.es/dp/B008DD6USC/?tag=tolees-21) a 6.25 EUR (original: 12.95 EUR) (51.74 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DGGY6NV/?tag=tolees-21'
 descuento: '82.58'
+average: '16.55'
 ---
 
 Está [DC Shoes Heathrow TX Se  Zapatillas de Skateboard para Mujer  Negro Black Bb2  36 EU](https://www.amazon.es/dp/B07DGGY6NV/?tag=tolees-21) con 82.58 de descuento por 16.55 EUR (original: 95 EUR) en el siguiente enlace!

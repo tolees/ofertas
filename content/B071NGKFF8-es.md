@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071NGKFF8/?tag=tolees-21'
 descuento: '85.74'
+average: '4.99'
 ---
 
 Está [Final Fantasy XIV: Stormblood](https://www.amazon.es/dp/B071NGKFF8/?tag=tolees-21) con 85.74 de descuento por 4.99 EUR (original: 34.99 EUR) en el siguiente enlace!

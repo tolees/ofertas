@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000KGCO0I/?tag=tolees-21'
 descuento: '46.37'
+average: '23.57'
 ---
 
 Tienes [Pyrex Classic - Fuente con tapa para pollo  5.5L](https://www.amazon.es/dp/B000KGCO0I/?tag=tolees-21) con un 46.37 % de descuento con precio de oferta de 23.57 EUR (original: 43.95 EUR) en el siguiente enlace!

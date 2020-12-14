@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079D7XHH9/?tag=tolees-21'
 descuento: '64.19'
+average: '28.65'
 ---
 
 Ahora mismo tienes [Globe Motley Mid  Zapatillas de Deporte para Hombre   Black/Phantom/Fur 000   42 EU](https://www.amazon.es/dp/B079D7XHH9/?tag=tolees-21) a 28.65 EUR (original: 80 EUR) (64.19 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B5Q2J6C/?tag=tolees-21'
 descuento: '66.65'
+average: '6.17'
 ---
 
 Ahora mismo tienes [Frozen Bolsa de Aseo  color Verde - 1 Pieza](https://www.amazon.es/dp/B07B5Q2J6C/?tag=tolees-21) a 6.17 EUR (original: 18.5 EUR) (66.65 %  de descuento) en el siguiente enlace!

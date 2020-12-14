@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XR3SZ9/?tag=tolees-21'
 descuento: '47.35'
+average: '21.06'
 ---
 
 Ahora mismo tienes [Under Armour Sujetador Deportivo Mujer con Espalda Cruzada Jacquard Q3  Mujer  1321989-890  Radio Red/Black  Small](https://www.amazon.es/dp/B077XR3SZ9/?tag=tolees-21) a 21.06 EUR (original: 40 EUR) (47.35 %  de descuento) en el siguiente enlace!

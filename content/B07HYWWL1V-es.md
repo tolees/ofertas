@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HYWWL1V/?tag=tolees-21'
 descuento: '61.33'
+average: '48.84'
 ---
 
 Ahora mismo tienes [Panel LED apto para exterior  IP44   a empotrar o de superficie](https://www.amazon.es/dp/B07HYWWL1V/?tag=tolees-21) a 48.84 EUR (original: 126.31 EUR) (61.33 %  de descuento) en el siguiente enlace!

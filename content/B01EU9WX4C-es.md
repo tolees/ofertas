@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01EU9WX4C/?tag=tolees-21'
 descuento: '44.54'
+average: '4.98'
 ---
 
 Ahora mismo tienes [3x Candado Teclas Cerradura Bloqueo Forma Corazón Estilo Vendimia Mini Color Plateado](https://www.amazon.es/dp/B01EU9WX4C/?tag=tolees-21) a 4.98 EUR (original: 8.98 EUR) (44.54 %  de descuento) en el siguiente enlace!

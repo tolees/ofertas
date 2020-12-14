@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0032BOZKK/?tag=tolees-21'
 descuento: '42.45'
+average: '8'
 ---
 
 Ahora mismo tienes [NGS Lector de tarjetas - NGS Card Reader Multireader Pro](https://www.amazon.es/dp/B0032BOZKK/?tag=tolees-21) a 8 EUR (original: 13.9 EUR) (42.45 %  de descuento) en el siguiente enlace!

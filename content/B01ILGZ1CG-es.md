@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01ILGZ1CG/?tag=tolees-21'
 descuento: '40.07'
+average: '17.95'
 ---
 
 Ahora mismo tienes [Masajeador para Mujer Recargable por USB Sweet&Hot - Vibrador Eléctrico Femenino Ideal para Masajes y Estimulación Corporal - 8 Velocidades  Silencioso  Flexible e Impermeable – 100% Silicona Médica](https://www.amazon.es/dp/B01ILGZ1CG/?tag=tolees-21) a 17.95 EUR (original: 29.95 EUR) (40.07 %  de descuento) en el siguiente enlace!

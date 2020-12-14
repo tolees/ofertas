@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KXR6Q48/?tag=tolees-21'
 descuento: '58.00'
+average: '16.78'
 ---
 
 Está [G-STAR RAW Classic Trunk 3 Pack Bañador  Negro  Sahara ao Port Red/dk Black A405   Medium para Hombre](https://www.amazon.es/dp/B07KXR6Q48/?tag=tolees-21) con 58.00 de descuento por 16.78 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GPNBPBG/?tag=tolees-21'
 descuento: '36.37'
+average: '20.99'
 ---
 
 Está [LEKANI Pendiente](https://www.amazon.es/dp/B07GPNBPBG/?tag=tolees-21) con 36.37 de descuento por 20.99 EUR (original: 32.99 EUR) en el siguiente enlace!

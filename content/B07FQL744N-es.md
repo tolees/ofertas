@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQL744N/?tag=tolees-21'
 descuento: '25.01'
+average: '17.24'
 ---
 
 Está [AmazonBasics - Alfombra de baño  de espuma viscoelástica y rizo de chenilla  Blanco  50 x 80 cm  Pack de 2](https://www.amazon.es/dp/B07FQL744N/?tag=tolees-21) con 25.01 de descuento por 17.24 EUR (original: 22.99 EUR) en el siguiente enlace!

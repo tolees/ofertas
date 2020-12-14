@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N5C00LV/?tag=tolees-21'
 descuento: '52.19'
+average: '23.88'
 ---
 
 Tienes [Puma Evospeed 17.5 It  Botas de fútbol para Hombre  Amarillo  Safety Yellow Black-Green Gecko 01   46 EU](https://www.amazon.es/dp/B01N5C00LV/?tag=tolees-21) con un 52.19 % de descuento con precio de oferta de 23.88 EUR (original: 49.95 EUR) en el siguiente enlace!

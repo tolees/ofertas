@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y51NCFB/?tag=tolees-21'
 descuento: '48.98'
+average: '5'
 ---
 
 Tienes [oodji Ultra Mujer Top de Tejido Texturizado con Decoración Étnica  Rosa  ES 38 / S](https://www.amazon.es/dp/B06Y51NCFB/?tag=tolees-21) con un 48.98 % de descuento con precio de oferta de 5 EUR (original: 9.8 EUR) en el siguiente enlace!

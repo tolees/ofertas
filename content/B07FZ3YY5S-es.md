@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FZ3YY5S/?tag=tolees-21'
 descuento: '63.06'
+average: '56.58'
 ---
 
 Tienes [Reebok Fusion Flexweave  Zapatillas de Trail Running para Hombre   Ash Tin Grey/Coal/Primal Red 000   45 EU](https://www.amazon.es/dp/B07FZ3YY5S/?tag=tolees-21) con un 63.06 % de descuento con precio de oferta de 56.58 EUR (original: 153.16 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071NNG5R7/?tag=tolees-21'
 descuento: '75.12'
+average: '9.95'
 ---
 
 Ahora mismo tienes [Creative Labs Muvo 2c - Altavoz portátil con Bluetooth  Color Naranja](https://www.amazon.es/dp/B071NNG5R7/?tag=tolees-21) a 9.95 EUR (original: 39.99 EUR) (75.12 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017SQZXQE/?tag=tolees-21'
 descuento: '38.23'
+average: '74.09'
 ---
 
 Ahora mismo tienes [Salomon Women’ s Speedcross 4 - Zapatillas Para Mujer  Negro  Black/Black/Black Metallic   41 1/3 EU](https://www.amazon.es/dp/B017SQZXQE/?tag=tolees-21) a 74.09 EUR (original: 119.95 EUR) (38.23 %  de descuento) en el siguiente enlace!

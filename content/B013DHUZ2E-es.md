@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B013DHUZ2E/?tag=tolees-21'
 descuento: '44.32'
+average: '5'
 ---
 
 Tienes [Pranarôm Aceite Vegetal Avellana - 50 ml](https://www.amazon.es/dp/B013DHUZ2E/?tag=tolees-21) con un 44.32 % de descuento con precio de oferta de 5 EUR (original: 8.98 EUR) en el siguiente enlace!

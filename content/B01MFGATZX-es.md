@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MFGATZX/?tag=tolees-21'
 descuento: '80.67'
+average: '14.5'
 ---
 
 Está [Vinilo autoadhesivo efecto 3D](https://www.amazon.es/dp/B01MFGATZX/?tag=tolees-21) con 80.67 de descuento por 14.5 EUR (original: 75 EUR) en el siguiente enlace!

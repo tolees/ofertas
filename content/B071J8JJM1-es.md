@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071J8JJM1/?tag=tolees-21'
 descuento: '81.69'
+average: '30.19'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger B12385randy 1bw  Botas para Mujer  Marrón  Coffee Bean   39 EU](https://www.amazon.es/dp/B071J8JJM1/?tag=tolees-21) a 30.19 EUR (original: 164.9 EUR) (81.69 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KJJS3XW/?tag=tolees-21'
 descuento: '30.02'
+average: '55.95'
 ---
 
 Está [BOSS Piro Polo  Gris  Medium Grey 037   XX-Large para Hombre](https://www.amazon.es/dp/B07KJJS3XW/?tag=tolees-21) con 30.02 de descuento por 55.95 EUR (original: 79.95 EUR) en el siguiente enlace!

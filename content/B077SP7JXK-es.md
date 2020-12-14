@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077SP7JXK/?tag=tolees-21'
 descuento: '40.04'
+average: '29.95'
 ---
 
 Tienes [adidas Galaxy 4 m  Zapatillas de Entrenamiento para Hombre  Negro Core Black 0  44 2/3 EU](https://www.amazon.es/dp/B077SP7JXK/?tag=tolees-21) con un 40.04 % de descuento con precio de oferta de 29.95 EUR (original: 49.95 EUR) en el siguiente enlace!

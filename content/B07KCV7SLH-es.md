@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KCV7SLH/?tag=tolees-21'
 descuento: '70.84'
+average: '8.31'
 ---
 
 Ahora mismo tienes [David Jones - 5940-1a  Shoppers y bolsos de hombro Mujer  Negro  Black   12x33x31 cm  W x H L ](https://www.amazon.es/dp/B07KCV7SLH/?tag=tolees-21) a 8.31 EUR (original: 28.5 EUR) (70.84 %  de descuento) en el siguiente enlace!

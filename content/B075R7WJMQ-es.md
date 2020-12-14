@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075R7WJMQ/?tag=tolees-21'
 descuento: '68.37'
+average: '28.47'
 ---
 
 Está [New Balance Fresh Foam Cruz v2 Knit  Zapatillas para Mujer  Azul  Ice Blue/White Ki2   36 EU](https://www.amazon.es/dp/B075R7WJMQ/?tag=tolees-21) con 68.37 de descuento por 28.47 EUR (original: 90 EUR) en el siguiente enlace!

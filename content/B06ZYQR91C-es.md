@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06ZYQR91C/?tag=tolees-21'
 descuento: '37.51'
+average: '19.99'
 ---
 
 Está [Aigostar 178635 - Lámpara de escritorio tipo flexo  LED de 5 W  última generación  color rojo [Clase de eficiencia energética A]](https://www.amazon.es/dp/B06ZYQR91C/?tag=tolees-21) con 37.51 de descuento por 19.99 EUR (original: 31.99 EUR) en el siguiente enlace!

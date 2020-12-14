@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079JS5H1X/?tag=tolees-21'
 descuento: '27.70'
+average: '649.99'
 ---
 
 Está [Lenovo Ideapad Y520-15IKBN - Ordenador portátil de 15.6" Full HD  Intel Core i5-7300HQ  8 GB RAM  1 TB HDD  Nvidia GeForce GTX 1050 de 4 GB  Windows Home 10   Rojo - Teclado QWERTY español](https://www.amazon.es/dp/B079JS5H1X/?tag=tolees-21) con 27.70 de descuento por 649.99 EUR (original: 899 EUR) en el siguiente enlace!

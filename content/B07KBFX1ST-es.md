@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KBFX1ST/?tag=tolees-21'
 descuento: '28.16'
+average: '23.95'
 ---
 
 Ahora mismo tienes [O Neill PM Original Cali Bermudas  Hombre  Blue Heaven  Extra-Large](https://www.amazon.es/dp/B07KBFX1ST/?tag=tolees-21) a 23.95 EUR (original: 33.34 EUR) (28.16 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0079JWK2Q/?tag=tolees-21'
 descuento: '46.98'
+average: '19.99'
 ---
 
 Tienes [BRA Efficient Orange Sartén de 22 cm  aluminio fundido con antiadherente Platinum Plus plana  apta para inducción](https://www.amazon.es/dp/B0079JWK2Q/?tag=tolees-21) con un 46.98 % de descuento con precio de oferta de 19.99 EUR (original: 37.7 EUR) en el siguiente enlace!

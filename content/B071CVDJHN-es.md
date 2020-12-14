@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071CVDJHN/?tag=tolees-21'
 descuento: '57.77'
+average: '33.78'
 ---
 
 Ahora mismo tienes [Vans Old Skool  Zapatillas de Skateboarding para Mujer  Negro  2-Tone   36.5 EU](https://www.amazon.es/dp/B071CVDJHN/?tag=tolees-21) a 33.78 EUR (original: 80 EUR) (57.77 %  de descuento) en el siguiente enlace!

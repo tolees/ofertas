@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B8J1PJ5/?tag=tolees-21'
 descuento: '54.61'
+average: '359'
 ---
 
 Tienes [Hot Mom Silla de paseo Reversibilidad rotación multifuncional de 360 grados con buggy asiento y capazo 2018 Nueva actualización - F023 Azul](https://www.amazon.es/dp/B07B8J1PJ5/?tag=tolees-21) con un 54.61 % de descuento con precio de oferta de 359 EUR (original: 790.85 EUR) en el siguiente enlace!

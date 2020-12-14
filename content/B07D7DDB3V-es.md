@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D7DDB3V/?tag=tolees-21'
 descuento: '48.88'
+average: '51.12'
 ---
 
 Ahora mismo tienes [New Balance 574S v2  Zapatillas para Hombre  Azul  Eclipse/NB White NSA   42 EU](https://www.amazon.es/dp/B07D7DDB3V/?tag=tolees-21) a 51.12 EUR (original: 100 EUR) (48.88 %  de descuento) en el siguiente enlace!

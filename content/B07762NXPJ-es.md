@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07762NXPJ/?tag=tolees-21'
 descuento: '53.07'
+average: '28.16'
 ---
 
 Está [Under Armour UA Zone 3 NM  Zapatillas de Deporte para Hombre  Azul  Academy/Steel   40 EU](https://www.amazon.es/dp/B07762NXPJ/?tag=tolees-21) con 53.07 de descuento por 28.16 EUR (original: 60 EUR) en el siguiente enlace!

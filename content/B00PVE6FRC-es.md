@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00PVE6FRC/?tag=tolees-21'
 descuento: '43.91'
+average: '27.99'
 ---
 
 Tienes [D-Link DAP-1365 - Repetidor WiFi N300 con Enchufe  1 Puerto LAN Ethernet RJ-45 10/100Mbps  2 Antenas externas abatibles  Punto de Acceso  802.11b/g/n  WPS  indicador LED de señal   Blanco](https://www.amazon.es/dp/B00PVE6FRC/?tag=tolees-21) con un 43.91 % de descuento con precio de oferta de 27.99 EUR (original: 49.9 EUR) en el siguiente enlace!

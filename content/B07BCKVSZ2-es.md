@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BCKVSZ2/?tag=tolees-21'
 descuento: '74.31'
+average: '25.68'
 ---
 
 Tienes [Clarks Dove Roxana  Botas Chukka para Mujer  Negro  Black Sde   37.5 EU](https://www.amazon.es/dp/B07BCKVSZ2/?tag=tolees-21) con un 74.31 % de descuento con precio de oferta de 25.68 EUR (original: 99.95 EUR) en el siguiente enlace!

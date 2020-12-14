@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071YPS2J9/?tag=tolees-21'
 descuento: '37.85'
+average: '22.99'
 ---
 
 Está [SUAOKI S9 40m Telémetro láser  Medidor láser Metro láser  ±1.5mm Alta Precisión  Medidión individual  continua  min/max  área  volumen  pitágoras para la altura y área triangular ](https://www.amazon.es/dp/B071YPS2J9/?tag=tolees-21) con 37.85 de descuento por 22.99 EUR (original: 36.99 EUR) en el siguiente enlace!

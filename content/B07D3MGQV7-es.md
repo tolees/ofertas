@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D3MGQV7/?tag=tolees-21'
 descuento: '30.02'
+average: '13.99'
 ---
 
 Ahora mismo tienes [Auriculares In-Ear Estéreo Bajo Potente Manos Libre  Headphone con Cable Cancelación de Ruido Clase HiFi GGMM  Negro ](https://www.amazon.es/dp/B07D3MGQV7/?tag=tolees-21) a 13.99 EUR (original: 19.99 EUR) (30.02 %  de descuento) en el siguiente enlace!

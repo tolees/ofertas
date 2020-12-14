@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KPZKWNY/?tag=tolees-21'
 descuento: '30.17'
+average: '18.15'
 ---
 
 Está [DC Shoes Zeke Destroyer Waist Pack  Hombre  Racing Red  1 Size](https://www.amazon.es/dp/B07KPZKWNY/?tag=tolees-21) con 30.17 de descuento por 18.15 EUR (original: 25.99 EUR) en el siguiente enlace!

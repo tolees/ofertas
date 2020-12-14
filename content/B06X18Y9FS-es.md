@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06X18Y9FS/?tag=tolees-21'
 descuento: '65.11'
+average: '17.43'
 ---
 
 Tienes [Tamaris 25100  Botas para Mujer  Negro  Black   40 EU](https://www.amazon.es/dp/B06X18Y9FS/?tag=tolees-21) con un 65.11 % de descuento con precio de oferta de 17.43 EUR (original: 49.95 EUR) en el siguiente enlace!

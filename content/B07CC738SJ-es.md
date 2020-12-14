@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CC738SJ/?tag=tolees-21'
 descuento: '64.29'
+average: '24.99'
 ---
 
 Está [MXGP Pro](https://www.amazon.es/dp/B07CC738SJ/?tag=tolees-21) con 64.29 de descuento por 24.99 EUR (original: 69.99 EUR) en el siguiente enlace!

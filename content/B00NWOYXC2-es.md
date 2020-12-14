@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00NWOYXC2/?tag=tolees-21'
 descuento: '66.22'
+average: '68'
 ---
 
 Ahora mismo tienes [Guess Reloj Análogo clásico para Hombre de Cuarzo con Correa en Acero Inoxidable W0380G6](https://www.amazon.es/dp/B00NWOYXC2/?tag=tolees-21) a 68 EUR (original: 201.28 EUR) (66.22 %  de descuento) en el siguiente enlace!

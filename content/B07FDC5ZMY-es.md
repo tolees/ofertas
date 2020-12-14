@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FDC5ZMY/?tag=tolees-21'
 descuento: '55.01'
+average: '17.99'
 ---
 
 Tienes [SUNLU LCD Writing Tablet  9 Inch Electronic Drawing and Writing Board  Portable Handwriting Notepad  Gift for Kids and Adults  Can Use at Home School and Office  White ](https://www.amazon.es/dp/B07FDC5ZMY/?tag=tolees-21) con un 55.01 % de descuento con precio de oferta de 17.99 EUR (original: 39.99 EUR) en el siguiente enlace!

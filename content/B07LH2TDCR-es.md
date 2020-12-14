@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LH2TDCR/?tag=tolees-21'
 descuento: '38.22'
+average: '8'
 ---
 
 Tienes [Intex 57505NP - Colchoneta Hinchable posavasos con forma de piña  Multicolor](https://www.amazon.es/dp/B07LH2TDCR/?tag=tolees-21) con un 38.22 % de descuento con precio de oferta de 8 EUR (original: 12.95 EUR) en el siguiente enlace!

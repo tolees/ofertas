@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0164BLED0/?tag=tolees-21'
 descuento: '48.40'
+average: '12.9'
 ---
 
 Ahora mismo tienes [Twinzee Pro - Pelador Dual de Verduras en Juliana con Mango Antideslizante  Color Negro y Plateado](https://www.amazon.es/dp/B0164BLED0/?tag=tolees-21) a 12.9 EUR (original: 25 EUR) (48.40 %  de descuento) en el siguiente enlace!

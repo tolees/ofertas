@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01G4RK8JA/?tag=tolees-21'
 descuento: '26.67'
+average: '65.99'
 ---
 
 Está [LANGRIA Estantería Metálica Industrial Grande de 5 Baldas para Garaje o Cocina Capacidad Máxima 200kg  Negro ](https://www.amazon.es/dp/B01G4RK8JA/?tag=tolees-21) con 26.67 de descuento por 65.99 EUR (original: 89.99 EUR) en el siguiente enlace!

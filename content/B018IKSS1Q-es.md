@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B018IKSS1Q/?tag=tolees-21'
 descuento: '25.81'
+average: '5.95'
 ---
 
 Está [Maybelline New York Master Drama The Nudes Khol Lápiz de ojos  Tono: 022 Brown Glitz](https://www.amazon.es/dp/B018IKSS1Q/?tag=tolees-21) con 25.81 de descuento por 5.95 EUR (original: 8.02 EUR) en el siguiente enlace!

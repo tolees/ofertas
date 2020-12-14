@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MQOKFWY/?tag=tolees-21'
 descuento: '57.87'
+average: '32.86'
 ---
 
 Está [Calvin Klein Jeans Dora Canvas  Zapatillas para Mujer  Azul  Chambray   36 EU](https://www.amazon.es/dp/B01MQOKFWY/?tag=tolees-21) con 57.87 de descuento por 32.86 EUR (original: 78 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IV32SNO/?tag=tolees-21'
 descuento: '79.95'
+average: '12.43'
 ---
 
 Tienes [Bellfield Vaquero Negro](https://www.amazon.es/dp/B01IV32SNO/?tag=tolees-21) con un 79.95 % de descuento con precio de oferta de 12.43 EUR (original: 61.99 EUR) en el siguiente enlace!

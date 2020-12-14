@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JH5L1N9/?tag=tolees-21'
 descuento: '55.78'
+average: '26.53'
 ---
 
 Está [JACK & JONES Jfwgobi Suede Sand  Botas Desert para Hombre  Beige  45 EU](https://www.amazon.es/dp/B07JH5L1N9/?tag=tolees-21) con 55.78 de descuento por 26.53 EUR (original: 59.99 EUR) en el siguiente enlace!

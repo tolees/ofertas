@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D5QLF45/?tag=tolees-21'
 descuento: '57.64'
+average: '29.63'
 ---
 
 Tienes [Puma EVOSTRIPE Hoody Sweatshirt  Hombre  Medium Gray Heather  XXL](https://www.amazon.es/dp/B07D5QLF45/?tag=tolees-21) con un 57.64 % de descuento con precio de oferta de 29.63 EUR (original: 69.95 EUR) en el siguiente enlace!

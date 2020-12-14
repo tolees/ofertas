@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CVGGWWT/?tag=tolees-21'
 descuento: '87.51'
+average: '19.99'
 ---
 
 Está [Anni 1080p 2.0MP HD cámaras de Seguridad  Interior Sistema de vigilancia con Visión Nocturna  Detección de Movimiento Audio bidireccional Compatible con iOS/Android](https://www.amazon.es/dp/B07CVGGWWT/?tag=tolees-21) con 87.51 de descuento por 19.99 EUR (original: 159.99 EUR) en el siguiente enlace!

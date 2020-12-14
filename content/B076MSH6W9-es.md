@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076MSH6W9/?tag=tolees-21'
 descuento: '69.83'
+average: '30.17'
 ---
 
 Está [VAUDE Men s Tamaro Shorts Pantalones  Hombre  Radiate Blue  L](https://www.amazon.es/dp/B076MSH6W9/?tag=tolees-21) con 69.83 de descuento por 30.17 EUR (original: 100 EUR) en el siguiente enlace!

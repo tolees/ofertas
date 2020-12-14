@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HCNG7JL/?tag=tolees-21'
 descuento: '36.67'
+average: '37.99'
 ---
 
 Ahora mismo tienes [Entrenamiento en Suspensión Anoopsyche Entrenador de Suspensión de Fitness Pro Ejercicio para Fortalecimiento Resistencia y Tonificación Muscular Juego de Accesorios para Ejercicio Carga Hasta 500kg](https://www.amazon.es/dp/B07HCNG7JL/?tag=tolees-21) a 37.99 EUR (original: 59.99 EUR) (36.67 %  de descuento) en el siguiente enlace!

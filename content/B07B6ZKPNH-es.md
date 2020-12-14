@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B6ZKPNH/?tag=tolees-21'
 descuento: '45.20'
+average: '43.84'
 ---
 
 Está [New Balance 220  Zapatillas para Mujer  Negro  Black/Magnet TD   41.5 EU](https://www.amazon.es/dp/B07B6ZKPNH/?tag=tolees-21) con 45.20 de descuento por 43.84 EUR (original: 80 EUR) en el siguiente enlace!

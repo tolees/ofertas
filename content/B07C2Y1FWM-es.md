@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C2Y1FWM/?tag=tolees-21'
 descuento: '81.24'
+average: '33.77'
 ---
 
 Está [New Balance Rubix  Zapatillas de Running para Hombre  Negro  Black/Steel BK   41.5 EU](https://www.amazon.es/dp/B07C2Y1FWM/?tag=tolees-21) con 81.24 de descuento por 33.77 EUR (original: 180 EUR) en el siguiente enlace!

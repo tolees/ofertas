@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001BSK3NO/?tag=tolees-21'
 descuento: '25.20'
+average: '11.99'
 ---
 
 Está [TP-Link TL-ANT24EC5S - Cable alargador de Antena  5 Metros  Negro](https://www.amazon.es/dp/B001BSK3NO/?tag=tolees-21) con 25.20 de descuento por 11.99 EUR (original: 16.03 EUR) en el siguiente enlace!

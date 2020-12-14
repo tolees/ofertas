@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NCXFQAN/?tag=tolees-21'
 descuento: '89.80'
+average: '0.5'
 ---
 
 Está [Displayschutz BigBen Protection Kit [Importación alemana]](https://www.amazon.es/dp/B01NCXFQAN/?tag=tolees-21) con 89.80 de descuento por 0.5 EUR (original: 4.9 EUR) en el siguiente enlace!

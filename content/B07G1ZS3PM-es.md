@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G1ZS3PM/?tag=tolees-21'
 descuento: '57.16'
+average: '14.99'
 ---
 
 Ahora mismo tienes [Friday The 13th: The Game - Ultimate Slasher Edition](https://www.amazon.es/dp/B07G1ZS3PM/?tag=tolees-21) a 14.99 EUR (original: 34.99 EUR) (57.16 %  de descuento) en el siguiente enlace!

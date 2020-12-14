@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075GDWP5H/?tag=tolees-21'
 descuento: '83.36'
+average: '4.99'
 ---
 
 Ahora mismo tienes [LANGRIA Manta de Bebé Unisex Reversible de Topitos para Estimular Tacto y de Borreguito Ecológica con Tacto Agradable Suave y Lavable en Lavadora para Niños  105 x 135 cm  Blanco ](https://www.amazon.es/dp/B075GDWP5H/?tag=tolees-21) a 4.99 EUR (original: 29.99 EUR) (83.36 %  de descuento) en el siguiente enlace!

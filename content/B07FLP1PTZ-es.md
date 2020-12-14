@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FLP1PTZ/?tag=tolees-21'
 descuento: '47.32'
+average: '26.34'
 ---
 
 Ahora mismo tienes [Nike SB Check Suede  GS   Zapatillas de Skateboarding para Niños  Negro Black-Anthracite 001  37.5 EU](https://www.amazon.es/dp/B07FLP1PTZ/?tag=tolees-21) a 26.34 EUR (original: 50 EUR) (47.32 %  de descuento) en el siguiente enlace!

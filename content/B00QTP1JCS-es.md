@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00QTP1JCS/?tag=tolees-21'
 descuento: '55.21'
+average: '26.83'
 ---
 
 Está [Ozone Argon Ocelote World - Ratón Gaming  8200 dpi](https://www.amazon.es/dp/B00QTP1JCS/?tag=tolees-21) con 55.21 de descuento por 26.83 EUR (original: 59.9 EUR) en el siguiente enlace!

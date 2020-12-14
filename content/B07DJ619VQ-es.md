@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ619VQ/?tag=tolees-21'
 descuento: '40.07'
+average: '44.95'
 ---
 
 Ahora mismo tienes [New Balance Gw500v1  Zapatillas de Deporte para Mujer  Azul  Thunder/Light Reef Stm   37.5 EU](https://www.amazon.es/dp/B07DJ619VQ/?tag=tolees-21) a 44.95 EUR (original: 75 EUR) (40.07 %  de descuento) en el siguiente enlace!

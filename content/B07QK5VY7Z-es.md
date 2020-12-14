@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QK5VY7Z/?tag=tolees-21'
 descuento: '39.22'
+average: '30.99'
 ---
 
 Está [MILIER Mini Enfriador de Aire  Portable Air Cooler 2019 New Air Space Cooler con luz LED](https://www.amazon.es/dp/B07QK5VY7Z/?tag=tolees-21) con 39.22 de descuento por 30.99 EUR (original: 50.99 EUR) en el siguiente enlace!

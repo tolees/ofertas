@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073M1Z2WT/?tag=tolees-21'
 descuento: '25.01'
+average: '29.99'
 ---
 
 Está [Kaiercat® 3 en 1 Maquinilla recargable para mujeres + Recortador de pelo de orejas y nariz + Recortador de cejas de acero inoxidable y resistente al agua con sistema de limpieza al vacío](https://www.amazon.es/dp/B073M1Z2WT/?tag=tolees-21) con 25.01 de descuento por 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!

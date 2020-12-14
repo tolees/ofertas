@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FKF3JXJ/?tag=tolees-21'
 descuento: '35.88'
+average: '76.95'
 ---
 
 Está [Nike Air Zoom Pegasus 35  Zapatillas de Running para Hombre  Azul  Indigo Force/White/Photo Blue Void 404   43 EU](https://www.amazon.es/dp/B07FKF3JXJ/?tag=tolees-21) con 35.88 de descuento por 76.95 EUR (original: 120 EUR) en el siguiente enlace!

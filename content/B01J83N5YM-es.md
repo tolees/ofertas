@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01J83N5YM/?tag=tolees-21'
 descuento: '35.05'
+average: '64.95'
 ---
 
 Ahora mismo tienes [Helly Hansen Ahiga V3 Hydropower  Náuticos para Hombre  Azul  Navy/Flag Red/Off White 597   45 EU](https://www.amazon.es/dp/B01J83N5YM/?tag=tolees-21) a 64.95 EUR (original: 100 EUR) (35.05 %  de descuento) en el siguiente enlace!

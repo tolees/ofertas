@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DR5JWBV/?tag=tolees-21'
 descuento: '64.42'
+average: '35.56'
 ---
 
 Tienes [hummel Marathona  Zapatillas Unisex Adulto  Azul  Black Iris 1009   41 EU](https://www.amazon.es/dp/B07DR5JWBV/?tag=tolees-21) con un 64.42 % de descuento con precio de oferta de 35.56 EUR (original: 99.95 EUR) en el siguiente enlace!

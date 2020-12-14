@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B009SM7SO2/?tag=tolees-21'
 descuento: '29.47'
+average: '4.93'
 ---
 
 Tienes [Multidermol Pomada Infantil - 50 gr](https://www.amazon.es/dp/B009SM7SO2/?tag=tolees-21) con un 29.47 % de descuento con precio de oferta de 4.93 EUR (original: 6.99 EUR) en el siguiente enlace!

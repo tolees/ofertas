@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NCBLFJ7/?tag=tolees-21'
 descuento: '42.87'
+average: '34.22'
 ---
 
 Ahora mismo tienes [Pepe Jeans Mary Short Bañador  Azul  Destroy Denim Re3   W26  Talla del Fabricante: 26  para Mujer](https://www.amazon.es/dp/B07NCBLFJ7/?tag=tolees-21) a 34.22 EUR (original: 59.9 EUR) (42.87 %  de descuento) en el siguiente enlace!

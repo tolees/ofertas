@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CTPJVD7/?tag=tolees-21'
 descuento: '60.74'
+average: '39.26'
 ---
 
 Ahora mismo tienes [Under Armour Slingride 2  Zapatillas de Running para Hombre  Gris Black/Pitch Gray 106  42 EU](https://www.amazon.es/dp/B07CTPJVD7/?tag=tolees-21) a 39.26 EUR (original: 100 EUR) (60.74 %  de descuento) en el siguiente enlace!

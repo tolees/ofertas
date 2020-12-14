@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CTRJ2P7/?tag=tolees-21'
 descuento: '32.25'
+average: '9.6'
 ---
 
 Está [Marca Amazon - Happy Belly Café descafeinado de tueste natural en grano "Decaffeinato"  2 x 500g ](https://www.amazon.es/dp/B07CTRJ2P7/?tag=tolees-21) con 32.25 de descuento por 9.6 EUR (original: 14.17 EUR) en el siguiente enlace!

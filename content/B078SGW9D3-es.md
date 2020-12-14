@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078SGW9D3/?tag=tolees-21'
 descuento: '50.60'
+average: '83.95'
 ---
 
 Tienes [G-STAR RAW 3301 Tapered Jeans  Azul  Medium Aged 3D Restored 9169-9215   31W / 32L para Hombre](https://www.amazon.es/dp/B078SGW9D3/?tag=tolees-21) con un 50.60 % de descuento con precio de oferta de 83.95 EUR (original: 169.95 EUR) en el siguiente enlace!

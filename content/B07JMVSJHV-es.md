@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JMVSJHV/?tag=tolees-21'
 descuento: '59.48'
+average: '14.99'
 ---
 
 Está [JSVER Regleta Enchufes USB  Power Strip con 3 Toma de Corriente y 3 USB Puertos USB Estación de Carga Inteligente USB Tomas Alargadora con Cable 5.9 Ft/ 1.8m Negro](https://www.amazon.es/dp/B07JMVSJHV/?tag=tolees-21) con 59.48 de descuento por 14.99 EUR (original: 36.99 EUR) en el siguiente enlace!

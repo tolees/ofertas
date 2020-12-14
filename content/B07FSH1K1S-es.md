@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FSH1K1S/?tag=tolees-21'
 descuento: '25.94'
+average: '19.99'
 ---
 
 Tienes [Cynthia 6.5 Pulgadas Grande LED Digital Reloj Despertador con Puerto USB para Cargador de teléfono  Toque Activado Snooze y Dimmer](https://www.amazon.es/dp/B07FSH1K1S/?tag=tolees-21) con un 25.94 % de descuento con precio de oferta de 19.99 EUR (original: 26.99 EUR) en el siguiente enlace!

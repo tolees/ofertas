@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BZT7K84/?tag=tolees-21'
 descuento: '29.99'
+average: '56'
 ---
 
 Ahora mismo tienes [Levi s Almayer Lite  Zapatillas para Hombre  Negro  Brillant Black 60   45 EU](https://www.amazon.es/dp/B07BZT7K84/?tag=tolees-21) a 56 EUR (original: 79.99 EUR) (29.99 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MQH6GDQ/?tag=tolees-21'
 descuento: '50.04'
+average: '24.98'
 ---
 
 Está [Vans Chapman Stripe  Zapatillas Unisex Niños  Negro  Suede/Canvas   27.5 EU](https://www.amazon.es/dp/B01MQH6GDQ/?tag=tolees-21) con 50.04 de descuento por 24.98 EUR (original: 50 EUR) en el siguiente enlace!

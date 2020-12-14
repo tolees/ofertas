@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076NWQXPS/?tag=tolees-21'
 descuento: '30.00'
+average: '349.3'
 ---
 
 Está [Sennheiser HD 660S - Auriculares dinámicos para audiófilos  Color Negro](https://www.amazon.es/dp/B076NWQXPS/?tag=tolees-21) con 30.00 de descuento por 349.3 EUR (original: 499 EUR) en el siguiente enlace!

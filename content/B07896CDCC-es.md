@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07896CDCC/?tag=tolees-21'
 descuento: '57.48'
+average: '57.48'
 ---
 
 Tienes [Asalvo 15723 - Andador de bebé  diseño de Estrellas  Color Beige](https://www.amazon.es/dp/B07896CDCC/?tag=tolees-21) con un 57.48 % de descuento con precio de oferta de 57.48 EUR (original: 135.17 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MYAGKEJ/?tag=tolees-21'
 descuento: '42.88'
+average: '9.99'
 ---
 
 Está [AmazonBasics - Tirador de armario  con bases triangulares  13 97 cm de longitud  centro del orificio de 9 52 cm   Bronce antiguo  Paquete de 10](https://www.amazon.es/dp/B01MYAGKEJ/?tag=tolees-21) con 42.88 de descuento por 9.99 EUR (original: 17.49 EUR) en el siguiente enlace!

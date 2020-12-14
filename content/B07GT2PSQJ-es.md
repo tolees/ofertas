@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GT2PSQJ/?tag=tolees-21'
 descuento: '50.04'
+average: '34.95'
 ---
 
 Tienes [Desigual - Bag Dark Amber Cabo Women  Carteras de mano con asa Mujer  Negro  15.3x23.3x33.8 cm  B x H T ](https://www.amazon.es/dp/B07GT2PSQJ/?tag=tolees-21) con un 50.04 % de descuento con precio de oferta de 34.95 EUR (original: 69.95 EUR) en el siguiente enlace!

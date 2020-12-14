@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002PU9ME8/?tag=tolees-21'
 descuento: '71.59'
+average: '56.53'
 ---
 
 Está [Ugg Classic Short  Casual para Hombre  Chestnut 40 EU](https://www.amazon.es/dp/B002PU9ME8/?tag=tolees-21) con 71.59 de descuento por 56.53 EUR (original: 199 EUR) en el siguiente enlace!

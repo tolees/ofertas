@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XHL59LK/?tag=tolees-21'
 descuento: '70.12'
+average: '4.99'
 ---
 
 Ahora mismo tienes [Luanvi Gama Polo  Hombre  Negro  XXL](https://www.amazon.es/dp/B06XHL59LK/?tag=tolees-21) a 4.99 EUR (original: 16.7 EUR) (70.12 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D816WKL/?tag=tolees-21'
 descuento: '62.00'
+average: '56.98'
 ---
 
 Está [adidas Terrex Two Parley  Zapatillas de Running para Hombre  Negro  Negbás/Gridos/Balcri 0   41 1/3 EU](https://www.amazon.es/dp/B07D816WKL/?tag=tolees-21) con 62.00 de descuento por 56.98 EUR (original: 149.95 EUR) en el siguiente enlace!

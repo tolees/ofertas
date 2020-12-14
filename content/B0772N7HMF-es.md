@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0772N7HMF/?tag=tolees-21'
 descuento: '50.08'
+average: '32.45'
 ---
 
 Ahora mismo tienes [Asics Aaron  Zapatillas para Hombre  Negro  Black/Meerkat 9021   46.5 EU](https://www.amazon.es/dp/B0772N7HMF/?tag=tolees-21) a 32.45 EUR (original: 65 EUR) (50.08 %  de descuento) en el siguiente enlace!

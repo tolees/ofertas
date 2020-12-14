@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072WGLX3G/?tag=tolees-21'
 descuento: '41.77'
+average: '145.57'
 ---
 
 Tienes [The North Face Maleta  53 cm  40 litros  TNF BLACK  Negro ](https://www.amazon.es/dp/B072WGLX3G/?tag=tolees-21) con un 41.77 % de descuento con precio de oferta de 145.57 EUR (original: 250 EUR) en el siguiente enlace!

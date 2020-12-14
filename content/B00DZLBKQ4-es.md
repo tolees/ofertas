@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00DZLBKQ4/?tag=tolees-21'
 descuento: '35.62'
+average: '8.06'
 ---
 
 Está [Japanparts FA-001S Filtro de aire](https://www.amazon.es/dp/B00DZLBKQ4/?tag=tolees-21) con 35.62 de descuento por 8.06 EUR (original: 12.52 EUR) en el siguiente enlace!

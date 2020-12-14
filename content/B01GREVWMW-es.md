@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GREVWMW/?tag=tolees-21'
 descuento: '49.67'
+average: '31.15'
 ---
 
 Está [KickersSlayer - Zapatillas Hombre  Azul  Azul  Marine    44 EU](https://www.amazon.es/dp/B01GREVWMW/?tag=tolees-21) con 49.67 de descuento por 31.15 EUR (original: 61.89 EUR) en el siguiente enlace!

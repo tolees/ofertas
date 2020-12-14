@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GJM45LM/?tag=tolees-21'
 descuento: '60.04'
+average: '27.95'
 ---
 
 Está [bugatti 321480075400  Zapatillas para Hombre  Azul  Dark Blue 4100   40 EU](https://www.amazon.es/dp/B07GJM45LM/?tag=tolees-21) con 60.04 de descuento por 27.95 EUR (original: 69.95 EUR) en el siguiente enlace!

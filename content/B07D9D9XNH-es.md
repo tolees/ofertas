@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9D9XNH/?tag=tolees-21'
 descuento: '62.33'
+average: '15.05'
 ---
 
 Está [adidas Nemeziz 18.4 FxG J  Zapatillas de Fútbol para Niños  Gris Ash Silver/White Tint S18  38 2/3 EU](https://www.amazon.es/dp/B07D9D9XNH/?tag=tolees-21) con 62.33 de descuento por 15.05 EUR (original: 39.95 EUR) en el siguiente enlace!

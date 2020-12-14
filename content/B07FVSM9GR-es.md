@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FVSM9GR/?tag=tolees-21'
 descuento: '50.03'
+average: '9.99'
 ---
 
 Está [ILICO Sujetador Deportivo  Talla: L ](https://www.amazon.es/dp/B07FVSM9GR/?tag=tolees-21) con 50.03 de descuento por 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

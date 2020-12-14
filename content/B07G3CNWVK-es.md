@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G3CNWVK/?tag=tolees-21'
 descuento: '70.14'
+average: '149'
 ---
 
 Está [Reloj - Swiss Military Hanowa - Para  - 7082.9837SAM](https://www.amazon.es/dp/B07G3CNWVK/?tag=tolees-21) con 70.14 de descuento por 149 EUR (original: 499 EUR) en el siguiente enlace!

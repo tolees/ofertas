@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00YFJN32E/?tag=tolees-21'
 descuento: '60.00'
+average: '30'
 ---
 
 Ahora mismo tienes [Nike Air MAX Invigor Print  Zapatillas Unisex niño  Gris  Cool Wolf Grey/Anthracite/White   38 EU](https://www.amazon.es/dp/B00YFJN32E/?tag=tolees-21) a 30 EUR (original: 75 EUR) (60.00 %  de descuento) en el siguiente enlace!

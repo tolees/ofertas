@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00WTYYXQW/?tag=tolees-21'
 descuento: '34.86'
+average: '25.99'
 ---
 
 Tienes [Recreus Filamento Elástico para Impresora 3D  1.75 mm  500 gr  1 lb  Negro](https://www.amazon.es/dp/B00WTYYXQW/?tag=tolees-21) con un 34.86 % de descuento con precio de oferta de 25.99 EUR (original: 39.9 EUR) en el siguiente enlace!

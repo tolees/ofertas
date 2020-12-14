@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GT2MNS3/?tag=tolees-21'
 descuento: '28.27'
+average: '35.83'
 ---
 
 Tienes [Desigual - Bag Folklore Cards Imperia Women  Bolsos bandolera Mujer  Rojo  Rojo Contra   10x16x23 cm  B x H T ](https://www.amazon.es/dp/B07GT2MNS3/?tag=tolees-21) con un 28.27 % de descuento con precio de oferta de 35.83 EUR (original: 49.95 EUR) en el siguiente enlace!

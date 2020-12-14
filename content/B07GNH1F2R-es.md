@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GNH1F2R/?tag=tolees-21'
 descuento: '56.55'
+average: '13.03'
 ---
 
 Está [JACK & JONES Jcofexi Sweat Hood  Capucha para Hombre  Azul Large  Talla del Fabricante: ](https://www.amazon.es/dp/B07GNH1F2R/?tag=tolees-21) con 56.55 de descuento por 13.03 EUR (original: 29.99 EUR) en el siguiente enlace!

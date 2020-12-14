@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N7BSGSB/?tag=tolees-21'
 descuento: '50.19'
+average: '19.9'
 ---
 
 Ahora mismo tienes [Dakine EQ Bag 31L Sporttasche  48 cm  Rot  Burntrose ](https://www.amazon.es/dp/B01N7BSGSB/?tag=tolees-21) a 19.9 EUR (original: 39.95 EUR) (50.19 %  de descuento) en el siguiente enlace!

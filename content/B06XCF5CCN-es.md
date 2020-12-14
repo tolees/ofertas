@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XCF5CCN/?tag=tolees-21'
 descuento: '63.85'
+average: '46.98'
 ---
 
 Ahora mismo tienes [G-STAR RAW ARC 3D Low Waist Boyfriend Jeans  Azul  lt aged restored 154 8973-8581   27W / 34L para Mujer](https://www.amazon.es/dp/B06XCF5CCN/?tag=tolees-21) a 46.98 EUR (original: 129.95 EUR) (63.85 %  de descuento) en el siguiente enlace!

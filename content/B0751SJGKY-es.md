@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0751SJGKY/?tag=tolees-21'
 descuento: '30.51'
+average: '62.54'
 ---
 
 Está [New Balance 574 Core Plus  Zapatillas para Hombre  Blanco  Nimbus Cloud/Navy   43 EU  Talla Fabricante: 9 UK ](https://www.amazon.es/dp/B0751SJGKY/?tag=tolees-21) con 30.51 de descuento por 62.54 EUR (original: 90 EUR) en el siguiente enlace!

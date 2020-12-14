@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FFFR4GX/?tag=tolees-21'
 descuento: '79.15'
+average: '19.65'
 ---
 
 Ahora mismo tienes [Reebok Royal Glide LX  Zapatillas de Deporte para Niños   Collegiate Navy/White/Gum/SS 000   36 EU](https://www.amazon.es/dp/B07FFFR4GX/?tag=tolees-21) a 19.65 EUR (original: 94.24 EUR) (79.15 %  de descuento) en el siguiente enlace!

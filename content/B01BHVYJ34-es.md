@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BHVYJ34/?tag=tolees-21'
 descuento: '54.29'
+average: '11.88'
 ---
 
 Ahora mismo tienes [Tally Weijl Spacogoalo  Pantalones Sport Para Mujer  color negro  black hh   talla Gr. 38](https://www.amazon.es/dp/B01BHVYJ34/?tag=tolees-21) a 11.88 EUR (original: 25.99 EUR) (54.29 %  de descuento) en el siguiente enlace!

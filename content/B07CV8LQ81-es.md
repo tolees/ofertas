@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CV8LQ81/?tag=tolees-21'
 descuento: '64.89'
+average: '7.72'
 ---
 
 Tienes [NAME IT Nbmsofus Dnmclas 5083 Pant  Jeans para Bebés  Gris Medium Grey Denim  52  Talla del Fabricante: 50 ](https://www.amazon.es/dp/B07CV8LQ81/?tag=tolees-21) con un 64.89 % de descuento con precio de oferta de 7.72 EUR (original: 21.99 EUR) en el siguiente enlace!

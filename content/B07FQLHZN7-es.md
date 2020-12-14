@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQLHZN7/?tag=tolees-21'
 descuento: '56.01'
+average: '21.99'
 ---
 
 Ahora mismo tienes [JACK & JONES Jjemark Knit Crew Neck Noos  suéter para Hombre  Rojo  Port Royale Detail: Melange   Large](https://www.amazon.es/dp/B07FQLHZN7/?tag=tolees-21) a 21.99 EUR (original: 49.99 EUR) (56.01 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KMMX287/?tag=tolees-21'
 descuento: '54.35'
+average: '16.43'
 ---
 
 Tienes [Roxy All Things Tote  Mujer  True Black  1SZ](https://www.amazon.es/dp/B07KMMX287/?tag=tolees-21) con un 54.35 % de descuento con precio de oferta de 16.43 EUR (original: 35.99 EUR) en el siguiente enlace!

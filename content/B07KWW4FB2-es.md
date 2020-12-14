@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KWW4FB2/?tag=tolees-21'
 descuento: '36.83'
+average: '18.95'
 ---
 
 Está [Nike Sportswear Leggings Pantalones  Mujer  Negro  Black/University Red/White   M](https://www.amazon.es/dp/B07KWW4FB2/?tag=tolees-21) con 36.83 de descuento por 18.95 EUR (original: 30 EUR) en el siguiente enlace!

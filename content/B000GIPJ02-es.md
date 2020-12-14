@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000GIPJ02/?tag=tolees-21'
 descuento: '41.98'
+average: '38.36'
 ---
 
 Ahora mismo tienes [Optimum Nutrition Serious Mass Ganador  Vainilla - 5443 g](https://www.amazon.es/dp/B000GIPJ02/?tag=tolees-21) a 38.36 EUR (original: 66.12 EUR) (41.98 %  de descuento) en el siguiente enlace!

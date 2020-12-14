@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079C7Q9GG/?tag=tolees-21'
 descuento: '30.29'
+average: '10.45'
 ---
 
 Ahora mismo tienes [JACK & JONES Jjebasic Polo SS Noos  Rojo  Jester Red Detail: Slim Fit   Medium para Hombre](https://www.amazon.es/dp/B079C7Q9GG/?tag=tolees-21) a 10.45 EUR (original: 14.99 EUR) (30.29 %  de descuento) en el siguiente enlace!

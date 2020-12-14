@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003DVCV9Q/?tag=tolees-21'
 descuento: '59.38'
+average: '40.99'
 ---
 
 Tienes [Honeywell CMT701A1006 - Chronotherm Diario Cm701](https://www.amazon.es/dp/B003DVCV9Q/?tag=tolees-21) con un 59.38 % de descuento con precio de oferta de 40.99 EUR (original: 100.91 EUR) en el siguiente enlace!

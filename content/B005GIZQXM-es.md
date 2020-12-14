@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005GIZQXM/?tag=tolees-21'
 descuento: '38.62'
+average: '8.9'
 ---
 
 Ahora mismo tienes [NGS MSX6 Pro - Auriculares de diadema cerrados  color blanco](https://www.amazon.es/dp/B005GIZQXM/?tag=tolees-21) a 8.9 EUR (original: 14.5 EUR) (38.62 %  de descuento) en el siguiente enlace!

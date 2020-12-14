@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00U1OKPUU/?tag=tolees-21'
 descuento: '25.22'
+average: '36.3'
 ---
 
 Está [CAYS - Candado Persiana Tijera Jg Cays 50 Mm](https://www.amazon.es/dp/B00U1OKPUU/?tag=tolees-21) con 25.22 de descuento por 36.3 EUR (original: 48.54 EUR) en el siguiente enlace!

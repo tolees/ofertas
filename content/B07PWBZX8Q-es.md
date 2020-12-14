@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PWBZX8Q/?tag=tolees-21'
 descuento: '54.01'
+average: '22.99'
 ---
 
 Tienes [Mini Ventilador USB Portátil con Temporizador  Silencioso Ventilador Mesa con Bateria Recargable  Ventilador Pinza Pequeño para Escritorio  Cochecito de Bebé/Cama/Camping/Coche/Oficina/Aire Libre](https://www.amazon.es/dp/B07PWBZX8Q/?tag=tolees-21) con un 54.01 % de descuento con precio de oferta de 22.99 EUR (original: 49.99 EUR) en el siguiente enlace!

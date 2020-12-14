@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H1HVK5Y/?tag=tolees-21'
 descuento: '58.00'
+average: '13.86'
 ---
 
 Está [Trigema 637170218  Pantalones Cortos para Hombre  Negro  Schwarz 008  W28  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B07H1HVK5Y/?tag=tolees-21) con 58.00 de descuento por 13.86 EUR (original: 33 EUR) en el siguiente enlace!

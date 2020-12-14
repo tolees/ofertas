@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00O32UCJA/?tag=tolees-21'
 descuento: '71.24'
+average: '2.83'
 ---
 
 Ahora mismo tienes [Bourjois - barra de labios  tono cherry](https://www.amazon.es/dp/B00O32UCJA/?tag=tolees-21) a 2.83 EUR (original: 9.84 EUR) (71.24 %  de descuento) en el siguiente enlace!

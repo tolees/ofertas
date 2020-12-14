@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N4JDCX4/?tag=tolees-21'
 descuento: '55.98'
+average: '28.61'
 ---
 
 Tienes [Superga 2750-GLITTERYBAMBOOPOLESJ  Zapatillas para Niñas  Bianco  White 938   25 EU](https://www.amazon.es/dp/B07N4JDCX4/?tag=tolees-21) con un 55.98 % de descuento con precio de oferta de 28.61 EUR (original: 65 EUR) en el siguiente enlace!

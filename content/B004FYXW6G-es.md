@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004FYXW6G/?tag=tolees-21'
 descuento: '59.42'
+average: '28'
 ---
 
 Está [Tuscany Silver 8.44.5694 - Cadena con colgante de plata de ley  925/1000   sin gema  46 cm](https://www.amazon.es/dp/B004FYXW6G/?tag=tolees-21) con 59.42 de descuento por 28 EUR (original: 69 EUR) en el siguiente enlace!

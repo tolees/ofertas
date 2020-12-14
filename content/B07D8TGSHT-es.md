@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D8TGSHT/?tag=tolees-21'
 descuento: '37.03'
+average: '15.68'
 ---
 
 Tienes [Tommy Hilfiger Big Flag Cap  Gorra de béisbol Unisex Adulto  Verde  Hunter Green 340   Large  Talla del Fabricante: L-XL ](https://www.amazon.es/dp/B07D8TGSHT/?tag=tolees-21) con un 37.03 % de descuento con precio de oferta de 15.68 EUR (original: 24.9 EUR) en el siguiente enlace!

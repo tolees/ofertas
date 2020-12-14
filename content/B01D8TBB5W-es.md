@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01D8TBB5W/?tag=tolees-21'
 descuento: '59.20'
+average: '4.06'
 ---
 
 Ahora mismo tienes [L Oreal Paris Dermo Expertise Leche Protectora Prolongadora del Bronceado SPF 30](https://www.amazon.es/dp/B01D8TBB5W/?tag=tolees-21) a 4.06 EUR (original: 9.95 EUR) (59.20 %  de descuento) en el siguiente enlace!

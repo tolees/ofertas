@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0711RDY4P/?tag=tolees-21'
 descuento: '74.51'
+average: '15.28'
 ---
 
 Está [Marco Tozzi 26241  Botas de Nieve para Mujer  Negro  Black Ant.Comb   38 EU](https://www.amazon.es/dp/B0711RDY4P/?tag=tolees-21) con 74.51 de descuento por 15.28 EUR (original: 59.95 EUR) en el siguiente enlace!

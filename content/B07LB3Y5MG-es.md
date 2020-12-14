@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LB3Y5MG/?tag=tolees-21'
 descuento: '55.01'
+average: '17.99'
 ---
 
 Tienes [Aster vibrador con 10 modos para mujeres masajeador Impermeable silicona  ](https://www.amazon.es/dp/B07LB3Y5MG/?tag=tolees-21) con un 55.01 % de descuento con precio de oferta de 17.99 EUR (original: 39.99 EUR) en el siguiente enlace!

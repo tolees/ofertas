@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HMZ363N/?tag=tolees-21'
 descuento: '66.61'
+average: '10'
 ---
 
 Está [Medisana LC 860 - Peine eléctrico para piojos y liendres  también para animales ](https://www.amazon.es/dp/B07HMZ363N/?tag=tolees-21) con 66.61 de descuento por 10 EUR (original: 29.95 EUR) en el siguiente enlace!

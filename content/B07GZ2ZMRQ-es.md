@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GZ2ZMRQ/?tag=tolees-21'
 descuento: '40.01'
+average: '75.89'
 ---
 
 Tienes [ Grundig DTR 5000 2.0 BT Dab + Web All-in-One de Internet Radio con Bluetooth y Recepción Roble](https://www.amazon.es/dp/B07GZ2ZMRQ/?tag=tolees-21) con un 40.01 % de descuento con precio de oferta de 75.89 EUR (original: 126.51 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHZB12Z/?tag=tolees-21'
 descuento: '70.93'
+average: '14.52'
 ---
 
 Está [United Colors of Benetton Sweater L/s  suéter para Mujer  Naranja  Koralle 89E   Medium](https://www.amazon.es/dp/B07DHZB12Z/?tag=tolees-21) con 70.93 de descuento por 14.52 EUR (original: 49.95 EUR) en el siguiente enlace!

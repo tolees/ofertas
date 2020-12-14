@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007N9TSFO/?tag=tolees-21'
 descuento: '40.10'
+average: '29.95'
 ---
 
 Está [Nike Downshifter 8  GS   Zapatillas de Running para Niños  Negro  Black/White-Anthracite 001   38 EU](https://www.amazon.es/dp/B007N9TSFO/?tag=tolees-21) con 40.10 de descuento por 29.95 EUR (original: 50 EUR) en el siguiente enlace!

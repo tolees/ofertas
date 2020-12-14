@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00XJP8V18/?tag=tolees-21'
 descuento: '33.42'
+average: '9.98'
 ---
 
 Ahora mismo tienes [NIVEA Hyaluron Cellular Filler Cuidado de Día FP15  1 x 50 ml   crema antiarrugas con ácido hialurónico  crema antiedad  crema reafirmante para la renovación celular](https://www.amazon.es/dp/B00XJP8V18/?tag=tolees-21) a 9.98 EUR (original: 14.99 EUR) (33.42 %  de descuento) en el siguiente enlace!

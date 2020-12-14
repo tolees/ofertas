@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0043GWVOA/?tag=tolees-21'
 descuento: '29.67'
+average: '28.8'
 ---
 
 Está [FINIS Adult Zoomers - Aletas de natación  tamaño 46-48  color amarillo](https://www.amazon.es/dp/B0043GWVOA/?tag=tolees-21) con 29.67 de descuento por 28.8 EUR (original: 40.95 EUR) en el siguiente enlace!

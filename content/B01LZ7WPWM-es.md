@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LZ7WPWM/?tag=tolees-21'
 descuento: '32.58'
+average: '4.45'
 ---
 
 Ahora mismo tienes [Cruzcampo Cerveza - Pack de 12 Latas x 330 ml - Total: 3 96 L](https://www.amazon.es/dp/B01LZ7WPWM/?tag=tolees-21) a 4.45 EUR (original: 6.6 EUR) (32.58 %  de descuento) en el siguiente enlace!

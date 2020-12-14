@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KWF4WGG/?tag=tolees-21'
 descuento: '43.83'
+average: '16.85'
 ---
 
 Ahora mismo tienes [Helly Hansen Tokyo T-Shirt  Hombre  Grey Mélange  L](https://www.amazon.es/dp/B07KWF4WGG/?tag=tolees-21) a 16.85 EUR (original: 30 EUR) (43.83 %  de descuento) en el siguiente enlace!

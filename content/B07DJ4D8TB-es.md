@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ4D8TB/?tag=tolees-21'
 descuento: '77.68'
+average: '11.15'
 ---
 
 Está [United Colors of Benetton Sweater L/s  suéter Mujer  Azul  Blue 1f9   Medium](https://www.amazon.es/dp/B07DJ4D8TB/?tag=tolees-21) con 77.68 de descuento por 11.15 EUR (original: 49.95 EUR) en el siguiente enlace!

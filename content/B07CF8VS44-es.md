@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CF8VS44/?tag=tolees-21'
 descuento: '46.00'
+average: '54'
 ---
 
 Ahora mismo tienes [Levi s Fowler  Botas Biker para Hombre  Marrón  Dark Brown 29   44 EU](https://www.amazon.es/dp/B07CF8VS44/?tag=tolees-21) a 54 EUR (original: 100 EUR) (46.00 %  de descuento) en el siguiente enlace!

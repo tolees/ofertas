@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B011NXETE0/?tag=tolees-21'
 descuento: '25.40'
+average: '123.02'
 ---
 
 Ahora mismo tienes [BabyBjörn Balance soft - Hamaca  Gris Oscuro](https://www.amazon.es/dp/B011NXETE0/?tag=tolees-21) a 123.02 EUR (original: 164.9 EUR) (25.40 %  de descuento) en el siguiente enlace!

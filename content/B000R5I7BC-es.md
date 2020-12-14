@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000R5I7BC/?tag=tolees-21'
 descuento: '46.56'
+average: '99.9'
 ---
 
 Tienes [Bosch 2 608 584 667 sierras de corona  Set de 13 Piezas](https://www.amazon.es/dp/B000R5I7BC/?tag=tolees-21) con un 46.56 % de descuento con precio de oferta de 99.9 EUR (original: 186.95 EUR) en el siguiente enlace!

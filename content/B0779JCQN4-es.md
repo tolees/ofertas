@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0779JCQN4/?tag=tolees-21'
 descuento: '72.23'
+average: '20.83'
 ---
 
 Tienes [Pepe Jeans Keys  Pantalones Herren  Grün  Khaki Green   31W/32L](https://www.amazon.es/dp/B0779JCQN4/?tag=tolees-21) con un 72.23 % de descuento con precio de oferta de 20.83 EUR (original: 75 EUR) en el siguiente enlace!

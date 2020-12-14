@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003QIMBI2/?tag=tolees-21'
 descuento: '84.90'
+average: '8.29'
 ---
 
 Ahora mismo tienes [LELO INTIMA Antifaz de Seda Pura Purple: una exclusiva Venda Sexy de Pura Seda para los Juegos Sexuales BDSM más exquisitos.](https://www.amazon.es/dp/B003QIMBI2/?tag=tolees-21) a 8.29 EUR (original: 54.9 EUR) (84.90 %  de descuento) en el siguiente enlace!

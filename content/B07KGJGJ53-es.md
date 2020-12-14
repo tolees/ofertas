@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGJGJ53/?tag=tolees-21'
 descuento: '54.32'
+average: '8.2'
 ---
 
 Tienes [Buff R-Yule Cinta de Pelo  Unisex Adulto  Seaport Blue  Talla única](https://www.amazon.es/dp/B07KGJGJ53/?tag=tolees-21) con un 54.32 % de descuento con precio de oferta de 8.2 EUR (original: 17.95 EUR) en el siguiente enlace!

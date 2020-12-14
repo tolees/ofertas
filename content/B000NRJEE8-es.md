@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000NRJEE8/?tag=tolees-21'
 descuento: '54.28'
+average: '10.95'
 ---
 
 Ahora mismo tienes [Cressi Rondinella Aletas  Unisex  Turquesa  47-48](https://www.amazon.es/dp/B000NRJEE8/?tag=tolees-21) a 10.95 EUR (original: 23.95 EUR) (54.28 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076S56VFS/?tag=tolees-21'
 descuento: '61.75'
+average: '32.51'
 ---
 
 Tienes [Under Armour UA Charged Ultimate 3.0  Zapatillas de Deporte para Hombre  Azul White/Royal  40 EU](https://www.amazon.es/dp/B076S56VFS/?tag=tolees-21) con un 61.75 % de descuento con precio de oferta de 32.51 EUR (original: 85 EUR) en el siguiente enlace!

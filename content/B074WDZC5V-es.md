@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074WDZC5V/?tag=tolees-21'
 descuento: '34.55'
+average: '45.81'
 ---
 
 Está [Clevamama Cojín de Lactancia 10 en 1 - Cojín para Embarazo y Alimentación de Bebés con Espuma Transpirable](https://www.amazon.es/dp/B074WDZC5V/?tag=tolees-21) con 34.55 de descuento por 45.81 EUR (original: 69.99 EUR) en el siguiente enlace!

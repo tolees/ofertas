@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N9KAFRV/?tag=tolees-21'
 descuento: '52.10'
+average: '29.63'
 ---
 
 Está [Reebok BD5612  Zapatillas de Trail Running para Mujer  Azul  Collegiate Navy/Brave Blue/Gable Grey/Ch   38 EU](https://www.amazon.es/dp/B01N9KAFRV/?tag=tolees-21) con 52.10 de descuento por 29.63 EUR (original: 61.86 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01AHEK6RU/?tag=tolees-21'
 descuento: '28.59'
+average: '49.95'
 ---
 
 Está [Einhell GC- HM 40  - Cortacesped manual   altura de corte 15-35 mm   ancho de corte 40cm  hasta 250m² de jardín  27L de capacidad de bolsa   ref.3414127 ](https://www.amazon.es/dp/B01AHEK6RU/?tag=tolees-21) con 28.59 de descuento por 49.95 EUR (original: 69.95 EUR) en el siguiente enlace!

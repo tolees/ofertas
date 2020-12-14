@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PJNK82B/?tag=tolees-21'
 descuento: '42.33'
+average: '16.99'
 ---
 
 Ahora mismo tienes [Copechilla bolsa herramientas profesional multifuncional y gran capacidad 35X28X10CM 600D doble capa de Oxford tela impermeable Negro para electricista  técnico mantenimiento taladro multimeter](https://www.amazon.es/dp/B07PJNK82B/?tag=tolees-21) a 16.99 EUR (original: 29.46 EUR) (42.33 %  de descuento) en el siguiente enlace!

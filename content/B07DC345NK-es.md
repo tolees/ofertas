@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC345NK/?tag=tolees-21'
 descuento: '54.78'
+average: '40.7'
 ---
 
 Está [LE COQ SPORTIF Omega X W Metallic Dusty Coral/Old Silve  Zapatillas para Mujer  Beige Silver Rose  37 EU](https://www.amazon.es/dp/B07DC345NK/?tag=tolees-21) con 54.78 de descuento por 40.7 EUR (original: 90 EUR) en el siguiente enlace!

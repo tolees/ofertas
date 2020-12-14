@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F6X8YM1/?tag=tolees-21'
 descuento: '75.76'
+average: '17.13'
 ---
 
 Está [Reebok Astroride Soul  Zapatillas de Deporte para Hombre   Collegiate Navy/Vital Blue/White 000   39 EU](https://www.amazon.es/dp/B07F6X8YM1/?tag=tolees-21) con 75.76 de descuento por 17.13 EUR (original: 70.66 EUR) en el siguiente enlace!

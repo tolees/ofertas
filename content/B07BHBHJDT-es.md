@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BHBHJDT/?tag=tolees-21'
 descuento: '51.49'
+average: '38.81'
 ---
 
 Está [Under Armour UA Magnetico Select In  Zapatillas de Fútbol para Hombre  Rojo Radio Red/Black 600  45.5 EU](https://www.amazon.es/dp/B07BHBHJDT/?tag=tolees-21) con 51.49 de descuento por 38.81 EUR (original: 80 EUR) en el siguiente enlace!

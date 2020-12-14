@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DS7HC5P/?tag=tolees-21'
 descuento: '78.21'
+average: '19.25'
 ---
 
 Está [Reebok Astroride Trail  Zapatillas de Deporte para Mujer   Black/Tin Grey 000   36 EU](https://www.amazon.es/dp/B07DS7HC5P/?tag=tolees-21) con 78.21 de descuento por 19.25 EUR (original: 88.34 EUR) en el siguiente enlace!

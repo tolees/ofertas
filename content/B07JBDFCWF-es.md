@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JBDFCWF/?tag=tolees-21'
 descuento: '37.15'
+average: '19.95'
 ---
 
 Está [Hellblade Senua s Sacrifice](https://www.amazon.es/dp/B07JBDFCWF/?tag=tolees-21) con 37.15 de descuento por 19.95 EUR (original: 31.74 EUR) en el siguiente enlace!

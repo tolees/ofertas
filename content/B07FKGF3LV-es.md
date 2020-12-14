@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FKGF3LV/?tag=tolees-21'
 descuento: '48.73'
+average: '59.98'
 ---
 
 Está [Teclado Mecánico Gaming de Tronsmart TK09R RGB Retroiluminado 105 Keys  Switches Blue Anti-Ghosting-Versión programable con Disposición Española](https://www.amazon.es/dp/B07FKGF3LV/?tag=tolees-21) con 48.73 de descuento por 59.98 EUR (original: 116.99 EUR) en el siguiente enlace!

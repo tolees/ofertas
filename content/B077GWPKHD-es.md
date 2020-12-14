@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077GWPKHD/?tag=tolees-21'
 descuento: '44.14'
+average: '11.73'
 ---
 
 Ahora mismo tienes [Axe  Desodorante - 150 ml.](https://www.amazon.es/dp/B077GWPKHD/?tag=tolees-21) a 11.73 EUR (original: 21 EUR) (44.14 %  de descuento) en el siguiente enlace!

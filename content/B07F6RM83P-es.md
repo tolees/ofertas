@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F6RM83P/?tag=tolees-21'
 descuento: '71.22'
+average: '8.63'
 ---
 
 Tienes [Only & Sons Onsomas 7 Crew Neck Knit  suéter para Hombre  Forest Night  Large](https://www.amazon.es/dp/B07F6RM83P/?tag=tolees-21) con un 71.22 % de descuento con precio de oferta de 8.63 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BL3DXQ2/?tag=tolees-21'
 descuento: '38.48'
+average: '37.45'
 ---
 
 Tienes [New Balance Fuel Core Coast v4  Zapatillas de Running para Mujer  Rosa  Pink Mist/White Peach/Champagne Metallic Rc4   38 EU](https://www.amazon.es/dp/B07BL3DXQ2/?tag=tolees-21) con un 38.48 % de descuento con precio de oferta de 37.45 EUR (original: 60.87 EUR) en el siguiente enlace!

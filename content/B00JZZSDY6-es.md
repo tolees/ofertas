@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00JZZSDY6/?tag=tolees-21'
 descuento: '66.99'
+average: '5.53'
 ---
 
 Tienes [Bartolucci PFMILL00001000047 - Luna Multiusos  tamaño Grande ](https://www.amazon.es/dp/B00JZZSDY6/?tag=tolees-21) con un 66.99 % de descuento con precio de oferta de 5.53 EUR (original: 16.75 EUR) en el siguiente enlace!

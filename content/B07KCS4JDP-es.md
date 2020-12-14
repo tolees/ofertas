@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KCS4JDP/?tag=tolees-21'
 descuento: '57.97'
+average: '13.45'
 ---
 
 Ahora mismo tienes [Hurley W Floral Spike Crew Camisetas  Mujer  Grey Heather  M](https://www.amazon.es/dp/B07KCS4JDP/?tag=tolees-21) a 13.45 EUR (original: 32 EUR) (57.97 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N15O2TA/?tag=tolees-21'
 descuento: '34.89'
+average: '123.7'
 ---
 
 Tienes [Mandarina Duck - Mellow Leather Tracolla  Bolsos bandolera Mujer  Beige  Simply Taupe ](https://www.amazon.es/dp/B01N15O2TA/?tag=tolees-21) con un 34.89 % de descuento con precio de oferta de 123.7 EUR (original: 190 EUR) en el siguiente enlace!

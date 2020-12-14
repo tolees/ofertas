@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FTQ1D8G/?tag=tolees-21'
 descuento: '58.03'
+average: '27.28'
 ---
 
 Está [Lee Slim Chino Short Pantalones Cortos  Marfil  French Navy 84   W36 para Hombre](https://www.amazon.es/dp/B07FTQ1D8G/?tag=tolees-21) con 58.03 de descuento por 27.28 EUR (original: 65 EUR) en el siguiente enlace!

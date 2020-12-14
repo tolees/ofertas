@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B014W2CO2I/?tag=tolees-21'
 descuento: '59.99'
+average: '66.02'
 ---
 
 Tienes [Bébé Confort Citi  Silla de coche grupo 0+  turquesa  Triangle Flow ](https://www.amazon.es/dp/B014W2CO2I/?tag=tolees-21) con un 59.99 % de descuento con precio de oferta de 66.02 EUR (original: 165 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01AWG4V10/?tag=tolees-21'
 descuento: '31.96'
+average: '149'
 ---
 
 Tienes [LG 27MP38VQ-B - Monitor para PC IPS/LED de 69 cm  27 pulgadas  Full HD  IPS  LED  1920 x 1080 pixeles  5 ms  16:9  200 cd/m2  Color Negro](https://www.amazon.es/dp/B01AWG4V10/?tag=tolees-21) con un 31.96 % de descuento con precio de oferta de 149 EUR (original: 219 EUR) en el siguiente enlace!

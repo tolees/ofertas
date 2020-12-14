@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CPFJYXG/?tag=tolees-21'
 descuento: '58.23'
+average: '12.11'
 ---
 
 Está [Ckeyin® Máscara de Buceo Visión 180 ° Anti-Fugas Anti-Niebla con Soporte de Cámara para Deportes Acuáticos  Negro 2  S/M ](https://www.amazon.es/dp/B07CPFJYXG/?tag=tolees-21) con 58.23 de descuento por 12.11 EUR (original: 28.99 EUR) en el siguiente enlace!

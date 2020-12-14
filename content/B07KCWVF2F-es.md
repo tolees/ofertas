@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KCWVF2F/?tag=tolees-21'
 descuento: '47.13'
+average: '15.86'
 ---
 
 Tienes [Hurley TRISTER PRM tee SS Camisetas  Hombre  Black  XL](https://www.amazon.es/dp/B07KCWVF2F/?tag=tolees-21) con un 47.13 % de descuento con precio de oferta de 15.86 EUR (original: 30 EUR) en el siguiente enlace!

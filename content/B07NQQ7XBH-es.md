@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NQQ7XBH/?tag=tolees-21'
 descuento: '57.42'
+average: '14.9'
 ---
 
 Ahora mismo tienes [Space Junkies](https://www.amazon.es/dp/B07NQQ7XBH/?tag=tolees-21) a 14.9 EUR (original: 34.99 EUR) (57.42 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0141F6XJQ/?tag=tolees-21'
 descuento: '50.18'
+average: '62.28'
 ---
 
 Tienes [Aigle BENYL ISO  Botas de Goma de Trabajo Unisex Adulto  Marrón  Brun   40 EU](https://www.amazon.es/dp/B0141F6XJQ/?tag=tolees-21) con un 50.18 % de descuento con precio de oferta de 62.28 EUR (original: 125 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NLHVKXM/?tag=tolees-21'
 descuento: '25.03'
+average: '29.95'
 ---
 
 Está [Zapatillas Mujer Purpurina Blancas con Rosa](https://www.amazon.es/dp/B07NLHVKXM/?tag=tolees-21) con 25.03 de descuento por 29.95 EUR (original: 39.95 EUR) en el siguiente enlace!

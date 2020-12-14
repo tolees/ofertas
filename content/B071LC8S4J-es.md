@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071LC8S4J/?tag=tolees-21'
 descuento: '77.48'
+average: '29.27'
 ---
 
 Ahora mismo tienes [Puma Platform Mid  Zapatillas para Mujer  Negro Black  37.5 EU](https://www.amazon.es/dp/B071LC8S4J/?tag=tolees-21) a 29.27 EUR (original: 129.95 EUR) (77.48 %  de descuento) en el siguiente enlace!

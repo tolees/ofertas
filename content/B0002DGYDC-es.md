@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0002DGYDC/?tag=tolees-21'
 descuento: '50.02'
+average: '37.46'
 ---
 
 Ahora mismo tienes [Tropican Mantenimiento para Loros - 9 kg](https://www.amazon.es/dp/B0002DGYDC/?tag=tolees-21) a 37.46 EUR (original: 74.95 EUR) (50.02 %  de descuento) en el siguiente enlace!

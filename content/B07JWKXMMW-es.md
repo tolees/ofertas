@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JWKXMMW/?tag=tolees-21'
 descuento: '42.25'
+average: '54.86'
 ---
 
 Está [Lacoste L1212  Polo para Hombre  Azul  Lucida Ae8  Medium  Talla del Fabricante: 4 ](https://www.amazon.es/dp/B07JWKXMMW/?tag=tolees-21) con 42.25 de descuento por 54.86 EUR (original: 95 EUR) en el siguiente enlace!

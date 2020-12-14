@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NRKM3CL/?tag=tolees-21'
 descuento: '50.21'
+average: '6.96'
 ---
 
 Está [Barnängen - Loción Hidratante corporal con Flor de Saúco Sensitive para piel sensible y delicada - 2 unidades de 400ml](https://www.amazon.es/dp/B07NRKM3CL/?tag=tolees-21) con 50.21 de descuento por 6.96 EUR (original: 13.98 EUR) en el siguiente enlace!

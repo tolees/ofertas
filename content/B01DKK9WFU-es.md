@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DKK9WFU/?tag=tolees-21'
 descuento: '72.30'
+average: '29.23'
 ---
 
 Está [Puma Ignite V2 Zapatillas de Running  Mujer  Varios colores  Black/ White/ Pink Glo   37 EU](https://www.amazon.es/dp/B01DKK9WFU/?tag=tolees-21) con 72.30 de descuento por 29.23 EUR (original: 105.52 EUR) en el siguiente enlace!

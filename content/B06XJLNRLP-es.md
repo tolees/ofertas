@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XJLNRLP/?tag=tolees-21'
 descuento: '50.07'
+average: '49.93'
 ---
 
 Tienes [Braun FaceSpa 851 - Sistema 3 en 1 de depiladora facial  cepillo limpiador facial extrasuave y masaje facial  blanco](https://www.amazon.es/dp/B06XJLNRLP/?tag=tolees-21) con un 50.07 % de descuento con precio de oferta de 49.93 EUR (original: 99.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00SGUFUV0/?tag=tolees-21'
 descuento: '42.86'
+average: '48.54'
 ---
 
 Tienes [Reebok EX-O-FIT High Zapatillas altas  Hombre  Blanco  Int-White   38](https://www.amazon.es/dp/B00SGUFUV0/?tag=tolees-21) con un 42.86 % de descuento con precio de oferta de 48.54 EUR (original: 84.95 EUR) en el siguiente enlace!

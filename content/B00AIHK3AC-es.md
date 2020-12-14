@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00AIHK3AC/?tag=tolees-21'
 descuento: '49.29'
+average: '17.75'
 ---
 
 Tienes [AEG BMG 5610 - Tensiómetro de muñeca  60 espacios de memoria](https://www.amazon.es/dp/B00AIHK3AC/?tag=tolees-21) con un 49.29 % de descuento con precio de oferta de 17.75 EUR (original: 35 EUR) en el siguiente enlace!

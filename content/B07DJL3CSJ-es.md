@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJL3CSJ/?tag=tolees-21'
 descuento: '54.18'
+average: '36.63'
 ---
 
 Está [Dockers by Gerli 41bn107  Botas Militar para Hombre  Verde  Oliv 840   42 EU](https://www.amazon.es/dp/B07DJL3CSJ/?tag=tolees-21) con 54.18 de descuento por 36.63 EUR (original: 79.95 EUR) en el siguiente enlace!

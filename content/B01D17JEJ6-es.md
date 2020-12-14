@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01D17JEJ6/?tag=tolees-21'
 descuento: '30.25'
+average: '69.05'
 ---
 
 Tienes [Samsonite Paradiver Light  M  51cm-47L   Negro](https://www.amazon.es/dp/B01D17JEJ6/?tag=tolees-21) con un 30.25 % de descuento con precio de oferta de 69.05 EUR (original: 99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001M0VG9Q/?tag=tolees-21'
 descuento: '44.49'
+average: '6.55'
 ---
 
 Está [VICHY Desodorante Antitranspirante Roll-On 48h 50 ml](https://www.amazon.es/dp/B001M0VG9Q/?tag=tolees-21) con 44.49 de descuento por 6.55 EUR (original: 11.8 EUR) en el siguiente enlace!

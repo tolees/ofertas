@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FXKBWFH/?tag=tolees-21'
 descuento: '48.10'
+average: '25.95'
 ---
 
 Está [Vans Ward Canvas Zapatillas Unisex Niños  Negro   Floral Mesh  Black Vht   27.5](https://www.amazon.es/dp/B07FXKBWFH/?tag=tolees-21) con 48.10 de descuento por 25.95 EUR (original: 50 EUR) en el siguiente enlace!

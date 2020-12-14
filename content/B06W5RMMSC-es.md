@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06W5RMMSC/?tag=tolees-21'
 descuento: '59.45'
+average: '40.55'
 ---
 
 Ahora mismo tienes [Adidas Climacool Cm By2345  Zapatillas para Hombre  Negro  Black  46 2/3 EU](https://www.amazon.es/dp/B06W5RMMSC/?tag=tolees-21) a 40.55 EUR (original: 99.99 EUR) (59.45 %  de descuento) en el siguiente enlace!

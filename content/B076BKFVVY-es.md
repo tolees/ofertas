@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076BKFVVY/?tag=tolees-21'
 descuento: '63.81'
+average: '13.99'
 ---
 
 Está [Aukey LED linterna  250-lumen al aire libre linterna con 3 modos de luz  portátil y resistente al agua haz de luz con ajustable Focus](https://www.amazon.es/dp/B076BKFVVY/?tag=tolees-21) con 63.81 de descuento por 13.99 EUR (original: 38.66 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0039UT5JK/?tag=tolees-21'
 descuento: '37.31'
+average: '36.99'
 ---
 
 Ahora mismo tienes [Casio Reloj Analogico para Hombre de Cuarzo con Correa en Acero Inoxidable MTP-1302PD-7A1VEF](https://www.amazon.es/dp/B0039UT5JK/?tag=tolees-21) a 36.99 EUR (original: 59 EUR) (37.31 %  de descuento) en el siguiente enlace!

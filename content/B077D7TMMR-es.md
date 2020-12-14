@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077D7TMMR/?tag=tolees-21'
 descuento: '53.55'
+average: '68.94'
 ---
 
 Tienes [Adidas Terrex Agravic Speed  Zapatillas de Trail Running para Hombre  Blanco  Nondye/Ftwbla/Negbas 000   42 2/3 EU](https://www.amazon.es/dp/B077D7TMMR/?tag=tolees-21) con un 53.55 % de descuento con precio de oferta de 68.94 EUR (original: 148.42 EUR) en el siguiente enlace!

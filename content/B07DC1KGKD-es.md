@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC1KGKD/?tag=tolees-21'
 descuento: '34.03'
+average: '32.95'
 ---
 
 Ahora mismo tienes [Puma Smash Wns v2 L  Zapatillas para Mujer  Rosa  Peach Bud White   40 EU](https://www.amazon.es/dp/B07DC1KGKD/?tag=tolees-21) a 32.95 EUR (original: 49.95 EUR) (34.03 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0036YEWHO/?tag=tolees-21'
 descuento: '42.64'
+average: '169.21'
 ---
 
 Tienes [Pioneer TS- WX210A - Subwoofers para Coche de 150 W  Gris](https://www.amazon.es/dp/B0036YEWHO/?tag=tolees-21) con un 42.64 % de descuento con precio de oferta de 169.21 EUR (original: 295 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LXX27SV/?tag=tolees-21'
 descuento: '47.58'
+average: '18.39'
 ---
 
 Está [Julius-K9 16IDC-BR-M IDC Power Harness  Tamaño Mini  Borgoña  Burdeos](https://www.amazon.es/dp/B01LXX27SV/?tag=tolees-21) con 47.58 de descuento por 18.39 EUR (original: 35.08 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJG4YPT/?tag=tolees-21'
 descuento: '82.02'
+average: '10.78'
 ---
 
 Ahora mismo tienes [Dockers by Gerli 41ab302  Zapatillas Altas para Mujer  Marrón  Dunkelbraun 380   37 EU](https://www.amazon.es/dp/B07DJG4YPT/?tag=tolees-21) a 10.78 EUR (original: 59.95 EUR) (82.02 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00O2CSBI0/?tag=tolees-21'
 descuento: '35.56'
+average: '29'
 ---
 
 Ahora mismo tienes [Reloj Casio - Mujer LTP-1235PSG-7A](https://www.amazon.es/dp/B00O2CSBI0/?tag=tolees-21) a 29 EUR (original: 45 EUR) (35.56 %  de descuento) en el siguiente enlace!

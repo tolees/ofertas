@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BHCXP1Q/?tag=tolees-21'
 descuento: '39.29'
+average: '9.1'
 ---
 
 Ahora mismo tienes [Trust Urban Primo - Altavoz inalámbrico con Bluetooth  Color Rojo](https://www.amazon.es/dp/B07BHCXP1Q/?tag=tolees-21) a 9.1 EUR (original: 14.99 EUR) (39.29 %  de descuento) en el siguiente enlace!

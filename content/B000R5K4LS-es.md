@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000R5K4LS/?tag=tolees-21'
 descuento: '41.56'
+average: '21.99'
 ---
 
 Tienes [Bosch Home and Garden 2 605 510 224 Bosch 224-Caperuza de aspiración con Cepillo de corona  pintura  barniz  plástico  GRP   madera  para amoladoras angulares  Pack de 1   Negro](https://www.amazon.es/dp/B000R5K4LS/?tag=tolees-21) con un 41.56 % de descuento con precio de oferta de 21.99 EUR (original: 37.63 EUR) en el siguiente enlace!

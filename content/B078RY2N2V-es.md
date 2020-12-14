@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078RY2N2V/?tag=tolees-21'
 descuento: '31.16'
+average: '137'
 ---
 
 Está [Fossil Reloj Analogico para Hombre de Cuarzo con Correa en Acero Inoxidable FTW1166](https://www.amazon.es/dp/B078RY2N2V/?tag=tolees-21) con 31.16 de descuento por 137 EUR (original: 199 EUR) en el siguiente enlace!

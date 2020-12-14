@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0722Z9WWT/?tag=tolees-21'
 descuento: '59.41'
+average: '48.71'
 ---
 
 Ahora mismo tienes [Asics T718N  Zapatillas Hombre  Negro  Black/Carbon/Cherry Tomato   44 EU](https://www.amazon.es/dp/B0722Z9WWT/?tag=tolees-21) a 48.71 EUR (original: 120 EUR) (59.41 %  de descuento) en el siguiente enlace!

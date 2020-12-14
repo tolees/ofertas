@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IKI3C9K/?tag=tolees-21'
 descuento: '89.98'
+average: '5'
 ---
 
 Tienes [Samsung S-View - Funda para móvil Galaxy S5  Inteligente  permite controlar funciones como la cámara  las notificaciones o las llamadas entrantes  impermeable   color blanco- Versión Extranjera](https://www.amazon.es/dp/B00IKI3C9K/?tag=tolees-21) con un 89.98 % de descuento con precio de oferta de 5 EUR (original: 49.9 EUR) en el siguiente enlace!

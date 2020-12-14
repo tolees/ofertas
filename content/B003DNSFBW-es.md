@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003DNSFBW/?tag=tolees-21'
 descuento: '55.38'
+average: '6.67'
 ---
 
 Tienes [GORE RUNNING WEAR  Calcetines tobilleros para correr  Hombre  Anatómicos  GORE Selected Fabrics  ESSENTIAL  Talla 38-40  Negro  FEESSE990003](https://www.amazon.es/dp/B003DNSFBW/?tag=tolees-21) con un 55.38 % de descuento con precio de oferta de 6.67 EUR (original: 14.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DW8L7YD/?tag=tolees-21'
 descuento: '45.02'
+average: '93.47'
 ---
 
 Está [Salewa MS Speed Beat GTX  Zapatillas de Trail Running para Hombre  Schwarz  Black out/Fluo Yellow 978   44.5 EU](https://www.amazon.es/dp/B07DW8L7YD/?tag=tolees-21) con 45.02 de descuento por 93.47 EUR (original: 170 EUR) en el siguiente enlace!

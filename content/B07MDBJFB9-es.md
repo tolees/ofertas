@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MDBJFB9/?tag=tolees-21'
 descuento: '54.70'
+average: '36.22'
 ---
 
 Está [G-STAR RAW 3301 1\2  Pantalones cortos para Hombre  Negro  black 990   W33](https://www.amazon.es/dp/B07MDBJFB9/?tag=tolees-21) con 54.70 de descuento por 36.22 EUR (original: 79.95 EUR) en el siguiente enlace!

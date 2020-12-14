@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B008KO2BVO/?tag=tolees-21'
 descuento: '48.25'
+average: '48.99'
 ---
 
 Está [Monix Quick - Set de Dos ollas a presión rápidas de 4 litros y 6 litros](https://www.amazon.es/dp/B008KO2BVO/?tag=tolees-21) con 48.25 de descuento por 48.99 EUR (original: 94.66 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06WGP9YJF/?tag=tolees-21'
 descuento: '62.88'
+average: '12.99'
 ---
 
 Tienes [Soggy Doggy Juego  Perro Que Moja  Giochi Preziosi Spagna GGY00001](https://www.amazon.es/dp/B06WGP9YJF/?tag=tolees-21) con un 62.88 % de descuento con precio de oferta de 12.99 EUR (original: 34.99 EUR) en el siguiente enlace!

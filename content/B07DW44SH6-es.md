@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DW44SH6/?tag=tolees-21'
 descuento: '45.95'
+average: '29.73'
 ---
 
 Tienes [DC Shoes Pure Elastic  Zapatillas de Skateboard para Niños   Grey/Green/Blue Xsgb   34 EU](https://www.amazon.es/dp/B07DW44SH6/?tag=tolees-21) con un 45.95 % de descuento con precio de oferta de 29.73 EUR (original: 55 EUR) en el siguiente enlace!

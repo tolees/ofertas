@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J27PPBG/?tag=tolees-21'
 descuento: '65.72'
+average: '23.99'
 ---
 
 Está [Multiusos Cortador de Verduras  13 en 1 Mandolina Slicer de Cocina Ralladores y Cortadores Manuales Cortador de Patatas Acero Inoxidable Utensilios de Cocina Profesional](https://www.amazon.es/dp/B07J27PPBG/?tag=tolees-21) con 65.72 de descuento por 23.99 EUR (original: 69.99 EUR) en el siguiente enlace!

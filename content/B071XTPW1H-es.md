@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071XTPW1H/?tag=tolees-21'
 descuento: '39.17'
+average: '175.81'
 ---
 
 Tienes [ASUS ROG-STRIX-RX570-4G-GA Radeon RX 570 4GB GDDR5 - Tarjeta gráfica  AMD  Radeon RX 570  5120 x 2880 Pixeles  1254 MHz  1244 MHz  5120 x 2880 Pixeles ](https://www.amazon.es/dp/B071XTPW1H/?tag=tolees-21) con un 39.17 % de descuento con precio de oferta de 175.81 EUR (original: 289 EUR) en el siguiente enlace!

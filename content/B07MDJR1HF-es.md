@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MDJR1HF/?tag=tolees-21'
 descuento: '40.93'
+average: '12.99'
 ---
 
 Ahora mismo tienes [Maquinilla de afeitar de doble filo - Manual Adecuado para todos navaja de afeitar](https://www.amazon.es/dp/B07MDJR1HF/?tag=tolees-21) a 12.99 EUR (original: 21.99 EUR) (40.93 %  de descuento) en el siguiente enlace!

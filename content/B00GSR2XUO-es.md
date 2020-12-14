@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00GSR2XUO/?tag=tolees-21'
 descuento: '35.30'
+average: '30.9'
 ---
 
 Ahora mismo tienes [Weider 32% Protein Bar  Plátano - 24 Barras](https://www.amazon.es/dp/B00GSR2XUO/?tag=tolees-21) a 30.9 EUR (original: 47.76 EUR) (35.30 %  de descuento) en el siguiente enlace!

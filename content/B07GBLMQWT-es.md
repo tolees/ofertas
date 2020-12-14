@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GBLMQWT/?tag=tolees-21'
 descuento: '40.45'
+average: '12'
 ---
 
 Está [New Look Core Zip Through  Capucha para Hombre  Azul  Navy  Medium  Talla del Fabricante: 52 ](https://www.amazon.es/dp/B07GBLMQWT/?tag=tolees-21) con 40.45 de descuento por 12 EUR (original: 20.15 EUR) en el siguiente enlace!

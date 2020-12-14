@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KZ7YZ1D/?tag=tolees-21'
 descuento: '55.15'
+average: '13.45'
 ---
 
 Tienes [DC Shoes Star T-Shirt  Hombre  Nautical Blue  L](https://www.amazon.es/dp/B07KZ7YZ1D/?tag=tolees-21) con un 55.15 % de descuento con precio de oferta de 13.45 EUR (original: 29.99 EUR) en el siguiente enlace!

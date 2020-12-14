@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00LMKL5W4/?tag=tolees-21'
 descuento: '54.02'
+average: '13.79'
 ---
 
 Tienes [Quiksilver Carver Suede M Sndl Tkd0 - Chancletas para hombre  color marrón  tan solid   talla 44](https://www.amazon.es/dp/B00LMKL5W4/?tag=tolees-21) con un 54.02 % de descuento con precio de oferta de 13.79 EUR (original: 29.99 EUR) en el siguiente enlace!

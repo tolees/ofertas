@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072LB65MN/?tag=tolees-21'
 descuento: '54.67'
+average: '58.02'
 ---
 
 Ahora mismo tienes [Calvin Klein Annie Velvet  Botas Militar para Mujer  Azul  Blue   41 EU](https://www.amazon.es/dp/B072LB65MN/?tag=tolees-21) a 58.02 EUR (original: 128 EUR) (54.67 %  de descuento) en el siguiente enlace!

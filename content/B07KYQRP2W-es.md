@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KYQRP2W/?tag=tolees-21'
 descuento: '48.67'
+average: '13.34'
 ---
 
 Tienes [Springfield 5 Pkts Washed Frq Pantalones Cortos Deportivos para Hombre  Rojo  Gama Gales 85   Tamaño del Fabricante:30 ](https://www.amazon.es/dp/B07KYQRP2W/?tag=tolees-21) con un 48.67 % de descuento con precio de oferta de 13.34 EUR (original: 25.99 EUR) en el siguiente enlace!

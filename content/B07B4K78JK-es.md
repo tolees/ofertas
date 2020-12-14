@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B4K78JK/?tag=tolees-21'
 descuento: '58.19'
+average: '66.89'
 ---
 
 Ahora mismo tienes [Nixon Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Cuero A105-2986-00](https://www.amazon.es/dp/B07B4K78JK/?tag=tolees-21) a 66.89 EUR (original: 160 EUR) (58.19 %  de descuento) en el siguiente enlace!

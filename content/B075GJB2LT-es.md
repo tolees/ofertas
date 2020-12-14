@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075GJB2LT/?tag=tolees-21'
 descuento: '68.10'
+average: '8.61'
 ---
 
 Ahora mismo tienes [Only Onljuliana L/s Pullover Knt  suéter para Mujer   Strawberry Ice Detail:w.Flame Scarlet   38  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B075GJB2LT/?tag=tolees-21) a 8.61 EUR (original: 26.99 EUR) (68.10 %  de descuento) en el siguiente enlace!

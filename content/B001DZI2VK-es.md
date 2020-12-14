@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001DZI2VK/?tag=tolees-21'
 descuento: '59.21'
+average: '15.99'
 ---
 
 Tienes [Bahco 808050 DESTORNILLADOR CARRACA](https://www.amazon.es/dp/B001DZI2VK/?tag=tolees-21) con un 59.21 % de descuento con precio de oferta de 15.99 EUR (original: 39.2 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F2H3JLC/?tag=tolees-21'
 descuento: '59.40'
+average: '32.48'
 ---
 
 Tienes [Levi s Neppy Crew  suéter para Hombre  Azul  Sky Captain Heather 0002  Small](https://www.amazon.es/dp/B07F2H3JLC/?tag=tolees-21) con un 59.40 % de descuento con precio de oferta de 32.48 EUR (original: 80 EUR) en el siguiente enlace!

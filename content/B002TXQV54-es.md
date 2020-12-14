@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002TXQV54/?tag=tolees-21'
 descuento: '40.38'
+average: '53.63'
 ---
 
 Ahora mismo tienes [Reebok Classic Leather - Zapatillas de cuero para hombre  color beige  ecru/navy   talla 40](https://www.amazon.es/dp/B002TXQV54/?tag=tolees-21) a 53.63 EUR (original: 89.95 EUR) (40.38 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00DUQT76Y/?tag=tolees-21'
 descuento: '28.02'
+average: '41.75'
 ---
 
 Está [Ortega RU5 - Ukelele de concierto  tapa de pícea y fondo y aros de caoba   color natural](https://www.amazon.es/dp/B00DUQT76Y/?tag=tolees-21) con 28.02 de descuento por 41.75 EUR (original: 58 EUR) en el siguiente enlace!

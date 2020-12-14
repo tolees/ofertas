@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N5HPPXQ/?tag=tolees-21'
 descuento: '61.90'
+average: '8'
 ---
 
 Tienes [BIOtrue Solución de Mantenimiento - 1 unidad](https://www.amazon.es/dp/B01N5HPPXQ/?tag=tolees-21) con un 61.90 % de descuento con precio de oferta de 8 EUR (original: 21 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B4P65SW/?tag=tolees-21'
 descuento: '31.13'
+average: '179'
 ---
 
 Está [BQ Aquaris V - Smartphone de 5.2"  WiFi  Qualcomm Snapdragon 435 Octa Core  4 GB de RAM  Memoria Interna de 64 GB  cámara de 12 MP  Android 7.1.2 Nougat  Color Dorado  Mist Gold ](https://www.amazon.es/dp/B07B4P65SW/?tag=tolees-21) con 31.13 de descuento por 179 EUR (original: 259.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LZ4EQQZ/?tag=tolees-21'
 descuento: '56.20'
+average: '6'
 ---
 
 Ahora mismo tienes [oodji Ultra Mujer Mono con Acabado en Contraste  Gris  ES 42 / L](https://www.amazon.es/dp/B01LZ4EQQZ/?tag=tolees-21) a 6 EUR (original: 13.7 EUR) (56.20 %  de descuento) en el siguiente enlace!

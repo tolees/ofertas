@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MTFLCBV/?tag=tolees-21'
 descuento: '72.87'
+average: '21.69'
 ---
 
 Está [Skechers Boulder  Botas para Mujer  Gris  Charcoal/Black  40 EU](https://www.amazon.es/dp/B01MTFLCBV/?tag=tolees-21) con 72.87 de descuento por 21.69 EUR (original: 79.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DYGBPGP/?tag=tolees-21'
 descuento: '40.19'
+average: '50.84'
 ---
 
 Está [Merrell Terran Lattice Ii Sandalia con Pulsera Mujer  Rojo  Redwood Redwood   36 EU  3 UK ](https://www.amazon.es/dp/B07DYGBPGP/?tag=tolees-21) con 40.19 de descuento por 50.84 EUR (original: 85 EUR) en el siguiente enlace!

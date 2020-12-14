@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00PQW8L94/?tag=tolees-21'
 descuento: '31.08'
+average: '30.22'
 ---
 
 Tienes [CRIBEL Roma heces  de Polipropileno  de Metal Cromado  Crema](https://www.amazon.es/dp/B00PQW8L94/?tag=tolees-21) con un 31.08 % de descuento con precio de oferta de 30.22 EUR (original: 43.85 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DQ4JCD2/?tag=tolees-21'
 descuento: '60.87'
+average: '21.52'
 ---
 
 Está [Burton Midweight Calzoncillos Térmicos  Hombre  Verde  Seersucker Camo   L](https://www.amazon.es/dp/B07DQ4JCD2/?tag=tolees-21) con 60.87 de descuento por 21.52 EUR (original: 55 EUR) en el siguiente enlace!

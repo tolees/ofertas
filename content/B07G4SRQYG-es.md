@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G4SRQYG/?tag=tolees-21'
 descuento: '43.06'
+average: '90.54'
 ---
 
 Ahora mismo tienes [Lacoste Reloj Cronógrafo para Hombre de Cuarzo con Correa en Silicona 2010970](https://www.amazon.es/dp/B07G4SRQYG/?tag=tolees-21) a 90.54 EUR (original: 159 EUR) (43.06 %  de descuento) en el siguiente enlace!

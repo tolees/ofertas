@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DKZKMHV/?tag=tolees-21'
 descuento: '36.17'
+average: '15.95'
 ---
 
 Está [Columbia Gorro unisex  Pine Mountain Bucket Hat  Algodón  Azul  Collegiate Navy/Solid   Talla: L/XL  1714881](https://www.amazon.es/dp/B07DKZKMHV/?tag=tolees-21) con 36.17 de descuento por 15.95 EUR (original: 24.99 EUR) en el siguiente enlace!

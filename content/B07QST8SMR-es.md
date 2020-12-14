@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QST8SMR/?tag=tolees-21'
 descuento: '66.02'
+average: '13.59'
 ---
 
 Tienes [Temfly OBD2  OBD2 WiFi Diagnosis Coche Auto Diagnóstico OBDII Diagnostico Coche Conectado con iOS  Android  Windows-Conveniente para La Mayoría de Los Coches](https://www.amazon.es/dp/B07QST8SMR/?tag=tolees-21) con un 66.02 % de descuento con precio de oferta de 13.59 EUR (original: 39.99 EUR) en el siguiente enlace!

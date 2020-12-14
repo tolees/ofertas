@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078Y2MZQ3/?tag=tolees-21'
 descuento: '41.18'
+average: '4'
 ---
 
 Ahora mismo tienes [oodji Collection Mujer Calcetines Tobilleros  Pack de 6   Multicolor  ES 35-37 / S](https://www.amazon.es/dp/B078Y2MZQ3/?tag=tolees-21) a 4 EUR (original: 6.8 EUR) (41.18 %  de descuento) en el siguiente enlace!

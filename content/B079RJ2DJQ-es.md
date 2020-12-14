@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RJ2DJQ/?tag=tolees-21'
 descuento: '47.03'
+average: '15'
 ---
 
 Tienes [Kounga Little Diver Traje de Surf  Unisex niños  Azul/Verde  10](https://www.amazon.es/dp/B079RJ2DJQ/?tag=tolees-21) con un 47.03 % de descuento con precio de oferta de 15 EUR (original: 28.32 EUR) en el siguiente enlace!

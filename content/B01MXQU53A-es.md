@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MXQU53A/?tag=tolees-21'
 descuento: '70.06'
+average: '25.42'
 ---
 
 Tienes [Tommy Hilfiger E1285liza 7c1  Zapatillas para Mujer  Rosa  Dusty Rose 502   38 EU](https://www.amazon.es/dp/B01MXQU53A/?tag=tolees-21) con un 70.06 % de descuento con precio de oferta de 25.42 EUR (original: 84.9 EUR) en el siguiente enlace!

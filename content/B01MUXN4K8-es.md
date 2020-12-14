@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MUXN4K8/?tag=tolees-21'
 descuento: '50.72'
+average: '14.76'
 ---
 
 Está [little live pets Casa y ericito redondito  Famosa 700013667 ](https://www.amazon.es/dp/B01MUXN4K8/?tag=tolees-21) con 50.72 de descuento por 14.76 EUR (original: 29.95 EUR) en el siguiente enlace!

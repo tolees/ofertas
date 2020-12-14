@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0767MXQPS/?tag=tolees-21'
 descuento: '32.84'
+average: '34.99'
 ---
 
 Ahora mismo tienes [Pack: Narcos 1 + Narcos 2  4 BDs  [Blu-ray]](https://www.amazon.es/dp/B0767MXQPS/?tag=tolees-21) a 34.99 EUR (original: 52.1 EUR) (32.84 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MFPG97Y/?tag=tolees-21'
 descuento: '38.44'
+average: '11.69'
 ---
 
 Ahora mismo tienes [CRXOOX Protector de Pantalla para Huawei P20 Pro Vidrio Templado  Película Protectora Resistente a Los Impactos  Anti-Huellas Dactilares y Rrasguño  Pack da 2 ](https://www.amazon.es/dp/B07MFPG97Y/?tag=tolees-21) a 11.69 EUR (original: 18.99 EUR) (38.44 %  de descuento) en el siguiente enlace!

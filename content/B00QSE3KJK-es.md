@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00QSE3KJK/?tag=tolees-21'
 descuento: '50.02'
+average: '14.99'
 ---
 
 Tienes [8 uds  2x4  de cabezales de recambio para cepillos de dientes E-Cron. Totalmente compatibles Cabezales Repuestos con Philips Sonicare ProResults Mini  Diamond Clean y otros.](https://www.amazon.es/dp/B00QSE3KJK/?tag=tolees-21) con un 50.02 % de descuento con precio de oferta de 14.99 EUR (original: 29.99 EUR) en el siguiente enlace!

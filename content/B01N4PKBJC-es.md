@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N4PKBJC/?tag=tolees-21'
 descuento: '78.97'
+average: '8.41'
 ---
 
 Ahora mismo tienes [Esprit 047ee2c039 - Mit Gürtel  Pantalones Cortos Hombre  Azul  Blue Medium Wash   XX-Small  Talla del Fabricante: 27 ](https://www.amazon.es/dp/B01N4PKBJC/?tag=tolees-21) a 8.41 EUR (original: 39.99 EUR) (78.97 %  de descuento) en el siguiente enlace!

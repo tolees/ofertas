@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N9SWUT6/?tag=tolees-21'
 descuento: '64.48'
+average: '12.43'
 ---
 
 Está [PIECES Pcdonni Shorts Noos Pantalones Cortos  Gris  Light Grey Melange   34  Talla del Fabricante: X-Small  para Mujer](https://www.amazon.es/dp/B01N9SWUT6/?tag=tolees-21) con 64.48 de descuento por 12.43 EUR (original: 34.99 EUR) en el siguiente enlace!

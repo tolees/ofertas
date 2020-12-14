@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DB1P3Q4/?tag=tolees-21'
 descuento: '72.70'
+average: '15'
 ---
 
 Tienes [Mustang Schnür-Booty  Botas Clasicas Unisex para Niños  Marrón  Kastanie 301   34 EU](https://www.amazon.es/dp/B07DB1P3Q4/?tag=tolees-21) con un 72.70 % de descuento con precio de oferta de 15 EUR (original: 54.95 EUR) en el siguiente enlace!

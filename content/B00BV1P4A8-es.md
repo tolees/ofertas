@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00BV1P4A8/?tag=tolees-21'
 descuento: '43.30'
+average: '8.5'
 ---
 
 Está [POP! Vinilo - Disney: Up! Carl](https://www.amazon.es/dp/B00BV1P4A8/?tag=tolees-21) con 43.30 de descuento por 8.5 EUR (original: 14.99 EUR) en el siguiente enlace!

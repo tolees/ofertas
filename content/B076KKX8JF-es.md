@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076KKX8JF/?tag=tolees-21'
 descuento: '32.92'
+average: '17.12'
 ---
 
 Tienes [Knorr Las Rústicas Potaje de Lentejas con Verduras y Panceta - Paquete de 8 x 1 L - Total: 8 L](https://www.amazon.es/dp/B076KKX8JF/?tag=tolees-21) con un 32.92 % de descuento con precio de oferta de 17.12 EUR (original: 25.52 EUR) en el siguiente enlace!

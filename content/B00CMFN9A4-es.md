@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00CMFN9A4/?tag=tolees-21'
 descuento: '45.94'
+average: '9.73'
 ---
 
 Está [Plata de ley Anillo de Claddagh Cubic Zirconia - Tamaño  4  14 05 mm ](https://www.amazon.es/dp/B00CMFN9A4/?tag=tolees-21) con 45.94 de descuento por 9.73 EUR (original: 18 EUR) en el siguiente enlace!

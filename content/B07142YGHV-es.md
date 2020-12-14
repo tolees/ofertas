@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07142YGHV/?tag=tolees-21'
 descuento: '63.60'
+average: '76.07'
 ---
 
 Ahora mismo tienes [Tommy Jeans Mujer JACKET 11 capa Manga Larga bombardeo Rojo  Chili Pepper 666  10  Talla del fabricante: Medium ](https://www.amazon.es/dp/B07142YGHV/?tag=tolees-21) a 76.07 EUR (original: 209 EUR) (63.60 %  de descuento) en el siguiente enlace!

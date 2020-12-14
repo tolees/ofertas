@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y5YLWXH/?tag=tolees-21'
 descuento: '68.46'
+average: '42.58'
 ---
 
 Ahora mismo tienes [Tuscany Silver Mujer Plata de ley  925/1000  plata](https://www.amazon.es/dp/B06Y5YLWXH/?tag=tolees-21) a 42.58 EUR (original: 135 EUR) (68.46 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TT4YRV6/?tag=tolees-21'
 descuento: '62.71'
+average: '7.91'
 ---
 
 Está [Bahco 1031-4 - Formon Bahco 4 Mm](https://www.amazon.es/dp/B00TT4YRV6/?tag=tolees-21) con 62.71 de descuento por 7.91 EUR (original: 21.21 EUR) en el siguiente enlace!

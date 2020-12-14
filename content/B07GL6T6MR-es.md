@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GL6T6MR/?tag=tolees-21'
 descuento: '40.00'
+average: '179.4'
 ---
 
 Está [Fossil Smartwatch FTW6012](https://www.amazon.es/dp/B07GL6T6MR/?tag=tolees-21) con 40.00 de descuento por 179.4 EUR (original: 299 EUR) en el siguiente enlace!

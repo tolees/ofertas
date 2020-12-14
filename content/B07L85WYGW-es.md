@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L85WYGW/?tag=tolees-21'
 descuento: '44.28'
+average: '30.99'
 ---
 
 Ahora mismo tienes [POMAIKAI Soprano Ukelele para principiantes  ukelele hawaiano para niños  guitarra de 21 pulgadas con bolsa de transporte para niños estudiantes y principiantes  marrón](https://www.amazon.es/dp/B07L85WYGW/?tag=tolees-21) a 30.99 EUR (original: 55.62 EUR) (44.28 %  de descuento) en el siguiente enlace!

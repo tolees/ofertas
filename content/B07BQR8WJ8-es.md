@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BQR8WJ8/?tag=tolees-21'
 descuento: '60.03'
+average: '39.95'
 ---
 
 Ahora mismo tienes [hummel Slimmer Stadil Duo Oiled High  Zapatillas Altas Unisex Adulto  Negro  Black/Rosin 2011   43 EU](https://www.amazon.es/dp/B07BQR8WJ8/?tag=tolees-21) a 39.95 EUR (original: 99.95 EUR) (60.03 %  de descuento) en el siguiente enlace!

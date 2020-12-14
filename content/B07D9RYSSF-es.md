@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9RYSSF/?tag=tolees-21'
 descuento: '53.09'
+average: '28.12'
 ---
 
 Está [Adidas Advantage Cl QT  Zapatillas para Mujer  Gris Carbon/Mystery Ruby 0  38 EU](https://www.amazon.es/dp/B07D9RYSSF/?tag=tolees-21) con 53.09 de descuento por 28.12 EUR (original: 59.95 EUR) en el siguiente enlace!

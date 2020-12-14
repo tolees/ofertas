@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075T2CRXP/?tag=tolees-21'
 descuento: '25.94'
+average: '19.99'
 ---
 
 Ahora mismo tienes [HOMFY Protector de Colchón Impermeable 160x200  150x190   Fundas de Colchón Transpirables  Cubre Colchón  Sábana Bajera Ajustable  Fibra de Bambú Ecológica  Anti-Ácaros e Hipoalergénica](https://www.amazon.es/dp/B075T2CRXP/?tag=tolees-21) a 19.99 EUR (original: 26.99 EUR) (25.94 %  de descuento) en el siguiente enlace!

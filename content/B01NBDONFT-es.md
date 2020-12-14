@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NBDONFT/?tag=tolees-21'
 descuento: '57.74'
+average: '29.58'
 ---
 
 Está [New Balance 624  Zapatillas de Deporte Exterior para Hombre   White/Navy   47.5 EU](https://www.amazon.es/dp/B01NBDONFT/?tag=tolees-21) con 57.74 de descuento por 29.58 EUR (original: 70 EUR) en el siguiente enlace!

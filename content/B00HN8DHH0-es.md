@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00HN8DHH0/?tag=tolees-21'
 descuento: '80.12'
+average: '15.26'
 ---
 
 Ahora mismo tienes [Elba 100402226 - Cartera para portátil de 17"](https://www.amazon.es/dp/B00HN8DHH0/?tag=tolees-21) a 15.26 EUR (original: 76.76 EUR) (80.12 %  de descuento) en el siguiente enlace!

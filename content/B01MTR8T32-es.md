@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MTR8T32/?tag=tolees-21'
 descuento: '78.62'
+average: '25.65'
 ---
 
 Ahora mismo tienes [Pepe Jeans Vagabond  Mujer  Azul  Denim   W29](https://www.amazon.es/dp/B01MTR8T32/?tag=tolees-21) a 25.65 EUR (original: 120 EUR) (78.62 %  de descuento) en el siguiente enlace!

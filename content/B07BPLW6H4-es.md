@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BPLW6H4/?tag=tolees-21'
 descuento: '60.39'
+average: '14.24'
 ---
 
 Ahora mismo tienes [s.Oliver 24612-31  Mocasines para Mujer   Rose 544   41 EU](https://www.amazon.es/dp/B07BPLW6H4/?tag=tolees-21) a 14.24 EUR (original: 35.95 EUR) (60.39 %  de descuento) en el siguiente enlace!

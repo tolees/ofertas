@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K28BMPJ/?tag=tolees-21'
 descuento: '55.01'
+average: '17.99'
 ---
 
 Ahora mismo tienes [Aster Pene de silicona dildo para mujer con potentes ventosas 21.5cm](https://www.amazon.es/dp/B07K28BMPJ/?tag=tolees-21) a 17.99 EUR (original: 39.99 EUR) (55.01 %  de descuento) en el siguiente enlace!

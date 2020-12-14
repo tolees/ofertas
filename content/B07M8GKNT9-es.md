@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M8GKNT9/?tag=tolees-21'
 descuento: '50.01'
+average: '29.99'
 ---
 
 Tienes [huohou Automatic Electric Vino abrebotellas sacacorchos Profesional Foil Cutter Set](https://www.amazon.es/dp/B07M8GKNT9/?tag=tolees-21) con un 50.01 % de descuento con precio de oferta de 29.99 EUR (original: 59.99 EUR) en el siguiente enlace!

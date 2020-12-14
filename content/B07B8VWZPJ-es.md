@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B8VWZPJ/?tag=tolees-21'
 descuento: '82.21'
+average: '30.25'
 ---
 
 Tienes [Clarks Korik Rise GTX  Botas Chelsea para Hombre  Gris  Desert Leather   47 EU](https://www.amazon.es/dp/B07B8VWZPJ/?tag=tolees-21) con un 82.21 % de descuento con precio de oferta de 30.25 EUR (original: 170 EUR) en el siguiente enlace!

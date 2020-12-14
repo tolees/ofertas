@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01I4B0L9G/?tag=tolees-21'
 descuento: '79.08'
+average: '19.87'
 ---
 
 Ahora mismo tienes [Vans UA ISO 2  Zapatillas para Hombre  Azul  C&l   40.5 EU](https://www.amazon.es/dp/B01I4B0L9G/?tag=tolees-21) a 19.87 EUR (original: 95 EUR) (79.08 %  de descuento) en el siguiente enlace!

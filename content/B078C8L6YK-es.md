@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078C8L6YK/?tag=tolees-21'
 descuento: '59.00'
+average: '12.28'
 ---
 
 Ahora mismo tienes [Refresh 64408  Zapatillas sin Cordones para Mujer  Dorado  Oro   37 EU](https://www.amazon.es/dp/B078C8L6YK/?tag=tolees-21) a 12.28 EUR (original: 29.95 EUR) (59.00 %  de descuento) en el siguiente enlace!

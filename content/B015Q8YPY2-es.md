@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B015Q8YPY2/?tag=tolees-21'
 descuento: '47.71'
+average: '83.64'
 ---
 
 Está [G-Star Lynn Zip-Azul Mujer](https://www.amazon.es/dp/B015Q8YPY2/?tag=tolees-21) con 47.71 de descuento por 83.64 EUR (original: 159.95 EUR) en el siguiente enlace!

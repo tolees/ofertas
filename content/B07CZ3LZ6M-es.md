@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ3LZ6M/?tag=tolees-21'
 descuento: '45.62'
+average: '35.32'
 ---
 
 Está [Puma Vikky Platform Elastic  Zapatillas para Mujer  Blanco White 02  42 EU](https://www.amazon.es/dp/B07CZ3LZ6M/?tag=tolees-21) con 45.62 de descuento por 35.32 EUR (original: 64.95 EUR) en el siguiente enlace!

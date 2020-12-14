@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BP99KJS/?tag=tolees-21'
 descuento: '38.96'
+average: '15.26'
 ---
 
 Está [ANSIO Perchas Antideslizantes de Terciopelo Ultra Finas de Ahorro de Espacio  45 cm  20 Unidades  Color Negro](https://www.amazon.es/dp/B07BP99KJS/?tag=tolees-21) con 38.96 de descuento por 15.26 EUR (original: 25 EUR) en el siguiente enlace!

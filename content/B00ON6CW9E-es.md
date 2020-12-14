@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00ON6CW9E/?tag=tolees-21'
 descuento: '81.64'
+average: '22.02'
 ---
 
 Tienes [MenburDominiquea - Cartera de mano Mujer  color Negro  talla 24x17x5 cm  B x H x T ](https://www.amazon.es/dp/B00ON6CW9E/?tag=tolees-21) con un 81.64 % de descuento con precio de oferta de 22.02 EUR (original: 119.95 EUR) en el siguiente enlace!

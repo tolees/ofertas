@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071ZJXS7V/?tag=tolees-21'
 descuento: '36.26'
+average: '84.63'
 ---
 
 Tienes [Invicta 23388 Pro Diver Reloj para Hombre acero inoxidable Cuarzo Esfera azul](https://www.amazon.es/dp/B071ZJXS7V/?tag=tolees-21) con un 36.26 % de descuento con precio de oferta de 84.63 EUR (original: 132.78 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MFCP9J5/?tag=tolees-21'
 descuento: '45.17'
+average: '12.99'
 ---
 
 Tienes [Louviva Masajeador  10 Modos de Frecuencia  Silicona Suave  Impermeable  Negro ](https://www.amazon.es/dp/B07MFCP9J5/?tag=tolees-21) con un 45.17 % de descuento con precio de oferta de 12.99 EUR (original: 23.69 EUR) en el siguiente enlace!

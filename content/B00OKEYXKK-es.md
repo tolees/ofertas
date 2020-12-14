@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00OKEYXKK/?tag=tolees-21'
 descuento: '52.67'
+average: '9.94'
 ---
 
 Tienes [Revlon Intragen S.O.S Calm Champú - 250 ml](https://www.amazon.es/dp/B00OKEYXKK/?tag=tolees-21) con un 52.67 % de descuento con precio de oferta de 9.94 EUR (original: 21 EUR) en el siguiente enlace!

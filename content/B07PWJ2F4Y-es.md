@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PWJ2F4Y/?tag=tolees-21'
 descuento: '43.82'
+average: '139.9'
 ---
 
 Está [VARLION CAÑON Carbon TI 6 Limited Edition - Palas DE Padel](https://www.amazon.es/dp/B07PWJ2F4Y/?tag=tolees-21) con 43.82 de descuento por 139.9 EUR (original: 249 EUR) en el siguiente enlace!

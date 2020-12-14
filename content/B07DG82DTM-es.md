@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DG82DTM/?tag=tolees-21'
 descuento: '37.47'
+average: '5.99'
 ---
 
 Ahora mismo tienes [FLAMEER Rueda De Acero Rueda Libre 34mm 18 Dientes Diente De Una Velocidad Fixie Volante](https://www.amazon.es/dp/B07DG82DTM/?tag=tolees-21) a 5.99 EUR (original: 9.58 EUR) (37.47 %  de descuento) en el siguiente enlace!

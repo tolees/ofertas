@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N1VNPZL/?tag=tolees-21'
 descuento: '70.02'
+average: '20.98'
 ---
 
 Ahora mismo tienes [edc by Esprit Accessoires - 029ca1o008  Shoppers y bolsos de hombro Mujer  Rojo  GARNET RED   9x42x37 cm  B x H T ](https://www.amazon.es/dp/B07N1VNPZL/?tag=tolees-21) a 20.98 EUR (original: 69.99 EUR) (70.02 %  de descuento) en el siguiente enlace!

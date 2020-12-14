@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FTQTG6S/?tag=tolees-21'
 descuento: '49.56'
+average: '20.15'
 ---
 
 Está [Lee Pique  Polo para Hombre  Azul  Dipped Blue La  M](https://www.amazon.es/dp/B07FTQTG6S/?tag=tolees-21) con 49.56 de descuento por 20.15 EUR (original: 39.95 EUR) en el siguiente enlace!

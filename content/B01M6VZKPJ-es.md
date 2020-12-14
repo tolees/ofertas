@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M6VZKPJ/?tag=tolees-21'
 descuento: '48.15'
+average: '41.48'
 ---
 
 Está [New Balance ML373  Zapatillas para Hombre  Azul  Navy   38 EU](https://www.amazon.es/dp/B01M6VZKPJ/?tag=tolees-21) con 48.15 de descuento por 41.48 EUR (original: 80 EUR) en el siguiente enlace!

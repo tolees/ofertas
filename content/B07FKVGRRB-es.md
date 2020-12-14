@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FKVGRRB/?tag=tolees-21'
 descuento: '75.94'
+average: '2.95'
 ---
 
 Está [Bestway 62103 Splash Guard Riñonera](https://www.amazon.es/dp/B07FKVGRRB/?tag=tolees-21) con 75.94 de descuento por 2.95 EUR (original: 12.26 EUR) en el siguiente enlace!

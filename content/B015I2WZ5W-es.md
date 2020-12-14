@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B015I2WZ5W/?tag=tolees-21'
 descuento: '42.98'
+average: '199'
 ---
 
 Está [Chicco Seat Up 012  Silla de coche grupo 0+/1/2 Isofix  rojo](https://www.amazon.es/dp/B015I2WZ5W/?tag=tolees-21) con 42.98 de descuento por 199 EUR (original: 349 EUR) en el siguiente enlace!

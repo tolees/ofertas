@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCK2FCB/?tag=tolees-21'
 descuento: '60.22'
+average: '35.78'
 ---
 
 Tienes [Puma Hybrid NX  Zapatillas de Running para Hombre  Gris  Quarry-High Risk Red White   42.5 EU](https://www.amazon.es/dp/B07DCK2FCB/?tag=tolees-21) con un 60.22 % de descuento con precio de oferta de 35.78 EUR (original: 89.95 EUR) en el siguiente enlace!

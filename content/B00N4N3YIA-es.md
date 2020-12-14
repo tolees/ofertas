@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00N4N3YIA/?tag=tolees-21'
 descuento: '46.31'
+average: '14.47'
 ---
 
 Está [BOSS Mini BM  Slip para Hombre  Negro  Black 001  Small](https://www.amazon.es/dp/B00N4N3YIA/?tag=tolees-21) con 46.31 de descuento por 14.47 EUR (original: 26.95 EUR) en el siguiente enlace!

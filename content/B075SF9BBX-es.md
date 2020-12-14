@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075SF9BBX/?tag=tolees-21'
 descuento: '50.72'
+average: '14.78'
 ---
 
 Tienes [Springfield 1342479  Cárdigan para Mujer  Rojo  Red   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B075SF9BBX/?tag=tolees-21) con un 50.72 % de descuento con precio de oferta de 14.78 EUR (original: 29.99 EUR) en el siguiente enlace!

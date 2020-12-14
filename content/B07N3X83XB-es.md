@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N3X83XB/?tag=tolees-21'
 descuento: '60.01'
+average: '19.99'
 ---
 
 Tienes [Auriculares Bluetooth V4.2  SYOSIN Auriculares Inalambricos Impermeables IPX6 HiFi Cascos Deportivos In-Ear Estéreo Inalámbricos con Mic  12 Horas de Juego](https://www.amazon.es/dp/B07N3X83XB/?tag=tolees-21) con un 60.01 % de descuento con precio de oferta de 19.99 EUR (original: 49.99 EUR) en el siguiente enlace!

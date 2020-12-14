@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079BZZ9C4/?tag=tolees-21'
 descuento: '46.50'
+average: '4.28'
 ---
 
 Ahora mismo tienes [Salomon Festival 2-Pack 1 Par de Calcetines Tobilleros  Unisex  Luz Gris  M](https://www.amazon.es/dp/B079BZZ9C4/?tag=tolees-21) a 4.28 EUR (original: 8 EUR) (46.50 %  de descuento) en el siguiente enlace!

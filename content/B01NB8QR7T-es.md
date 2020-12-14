@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NB8QR7T/?tag=tolees-21'
 descuento: '28.68'
+average: '5.67'
 ---
 
 Está [L Oréal Paris Colorista Coloración Temporal Colorista Washout - Blue Hair](https://www.amazon.es/dp/B01NB8QR7T/?tag=tolees-21) con 28.68 de descuento por 5.67 EUR (original: 7.95 EUR) en el siguiente enlace!

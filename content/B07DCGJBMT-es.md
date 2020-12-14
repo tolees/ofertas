@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCGJBMT/?tag=tolees-21'
 descuento: '32.96'
+average: '109'
 ---
 
 Está [LG LMX410 - Smartphone de 5.3"  Memoria de 16 GB  Display IPS  HD  cámara de 13 MP  Sistema operativo Android 7.1  Brand Tim   Color Oro  Terra Gold ](https://www.amazon.es/dp/B07DCGJBMT/?tag=tolees-21) con 32.96 de descuento por 109 EUR (original: 162.6 EUR) en el siguiente enlace!

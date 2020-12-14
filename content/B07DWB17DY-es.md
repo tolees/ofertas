@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DWB17DY/?tag=tolees-21'
 descuento: '69.77'
+average: '11.17'
 ---
 
 Tienes [Gioseppo 45662-P Zapatillas  Niño  Marrón  Cuero 45662-P   29 EU](https://www.amazon.es/dp/B07DWB17DY/?tag=tolees-21) con un 69.77 % de descuento con precio de oferta de 11.17 EUR (original: 36.95 EUR) en el siguiente enlace!

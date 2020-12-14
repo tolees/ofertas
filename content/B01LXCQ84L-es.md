@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LXCQ84L/?tag=tolees-21'
 descuento: '32.23'
+average: '81.32'
 ---
 
 Está [American Tourister - Herolite Super Light Upright 55/20  55 cm  41L  Cactus Green](https://www.amazon.es/dp/B01LXCQ84L/?tag=tolees-21) con 32.23 de descuento por 81.32 EUR (original: 120 EUR) en el siguiente enlace!

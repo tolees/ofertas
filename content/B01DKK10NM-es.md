@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DKK10NM/?tag=tolees-21'
 descuento: '69.49'
+average: '25.92'
 ---
 
 Ahora mismo tienes [Puma Flare Metal - Zapatillas de Entrenamiento Hombre  Gris - Grau  quarry-puma White 01   EU 45  UK 10.5 ](https://www.amazon.es/dp/B01DKK10NM/?tag=tolees-21) a 25.92 EUR (original: 84.95 EUR) (69.49 %  de descuento) en el siguiente enlace!

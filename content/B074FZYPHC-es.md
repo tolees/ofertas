@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074FZYPHC/?tag=tolees-21'
 descuento: '48.42'
+average: '9.8'
 ---
 
 Ahora mismo tienes [Pendientes de mujer finos de 18 K en oro blanco con circonita](https://www.amazon.es/dp/B074FZYPHC/?tag=tolees-21) a 9.8 EUR (original: 19 EUR) (48.42 %  de descuento) en el siguiente enlace!

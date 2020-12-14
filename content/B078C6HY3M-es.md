@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078C6HY3M/?tag=tolees-21'
 descuento: '50.92'
+average: '34.33'
 ---
 
 Tienes [adidas Duramo 8 w  Zapatillas de Running para Mujer  Gris Carbon/Real Coral 0  38 EU](https://www.amazon.es/dp/B078C6HY3M/?tag=tolees-21) con un 50.92 % de descuento con precio de oferta de 34.33 EUR (original: 69.95 EUR) en el siguiente enlace!

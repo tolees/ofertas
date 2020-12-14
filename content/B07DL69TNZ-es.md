@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DL69TNZ/?tag=tolees-21'
 descuento: '41.75'
+average: '34.95'
 ---
 
 Está [Element Cornell Classic Zh Sudaderas  Hombre  Rojo  napa Red   L](https://www.amazon.es/dp/B07DL69TNZ/?tag=tolees-21) con 41.75 de descuento por 34.95 EUR (original: 60 EUR) en el siguiente enlace!

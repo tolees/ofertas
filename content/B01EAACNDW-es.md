@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01EAACNDW/?tag=tolees-21'
 descuento: '52.57'
+average: '7.11'
 ---
 
 Está [Kempa Classic Equipaciones de fútbol  Hombre  Negro  164](https://www.amazon.es/dp/B01EAACNDW/?tag=tolees-21) con 52.57 de descuento por 7.11 EUR (original: 14.99 EUR) en el siguiente enlace!

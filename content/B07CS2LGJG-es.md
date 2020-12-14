@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CS2LGJG/?tag=tolees-21'
 descuento: '50.01'
+average: '19.99'
 ---
 
 Tienes [Cepillo Dientes Eléctrico Recargable Impermeable con Jefes Cepillo Dientes Reemplazo  Inalámbrico Recorrido Sonic Adulto  Salud Chicle Súper Limpia Dentista Recomendado](https://www.amazon.es/dp/B07CS2LGJG/?tag=tolees-21) con un 50.01 % de descuento con precio de oferta de 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!

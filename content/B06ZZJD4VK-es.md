@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06ZZJD4VK/?tag=tolees-21'
 descuento: '74.41'
+average: '25.59'
 ---
 
 Está [POC POCito VPD Spine Vest Protecciones  Unisex niños  Rosa  Fluorescente Pink   Small](https://www.amazon.es/dp/B06ZZJD4VK/?tag=tolees-21) con 74.41 de descuento por 25.59 EUR (original: 100 EUR) en el siguiente enlace!

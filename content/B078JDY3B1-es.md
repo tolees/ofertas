@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078JDY3B1/?tag=tolees-21'
 descuento: '63.35'
+average: '10.99'
 ---
 
 Está [Jirvyuk COB LED Lámpara de inspección Luz de Trabajo Magnética Linterna Recargable Antorcha con Magnético– Auto  Camping  Home Emergency  Taller  Garage  Pequeño ](https://www.amazon.es/dp/B078JDY3B1/?tag=tolees-21) con 63.35 de descuento por 10.99 EUR (original: 29.99 EUR) en el siguiente enlace!

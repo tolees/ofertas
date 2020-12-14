@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077NGTDHG/?tag=tolees-21'
 descuento: '60.52'
+average: '19.72'
 ---
 
 Ahora mismo tienes [DKNY Intimates Litewear Fishnet Spacer Sujetador con Aros  Beige  Vanilla/Pink Rosewater Eo   100C  Talla del Fabricante: 38C  para Mujer](https://www.amazon.es/dp/B077NGTDHG/?tag=tolees-21) a 19.72 EUR (original: 49.95 EUR) (60.52 %  de descuento) en el siguiente enlace!

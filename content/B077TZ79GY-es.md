@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077TZ79GY/?tag=tolees-21'
 descuento: '59.68'
+average: '26.19'
 ---
 
 Tienes [Reebok Royal Glide  Zapatillas para Hombre  Negro Black/White 0  42.5 EU](https://www.amazon.es/dp/B077TZ79GY/?tag=tolees-21) con un 59.68 % de descuento con precio de oferta de 26.19 EUR (original: 64.95 EUR) en el siguiente enlace!

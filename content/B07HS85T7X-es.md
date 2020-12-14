@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HS85T7X/?tag=tolees-21'
 descuento: '45.41'
+average: '9.99'
 ---
 
 Tienes [Marca Amazon - Solimo Mostaza Amarilla  6 x 500 ml ](https://www.amazon.es/dp/B07HS85T7X/?tag=tolees-21) con un 45.41 % de descuento con precio de oferta de 9.99 EUR (original: 18.3 EUR) en el siguiente enlace!

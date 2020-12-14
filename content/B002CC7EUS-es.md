@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002CC7EUS/?tag=tolees-21'
 descuento: '27.50'
+average: '58'
 ---
 
 Tienes [Nike - Zapatillas de baloncesto AIR FORCE 1 MID  GS    Infantil   Blanco  WHITE   Blanco  WHITE   36.5](https://www.amazon.es/dp/B002CC7EUS/?tag=tolees-21) con un 27.50 % de descuento con precio de oferta de 58 EUR (original: 80 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XWT2GLC/?tag=tolees-21'
 descuento: '49.00'
+average: '12'
 ---
 
 Ahora mismo tienes [Amores Perros Edición Coleccionista Blu.Ray [Blu-ray]](https://www.amazon.es/dp/B06XWT2GLC/?tag=tolees-21) a 12 EUR (original: 23.53 EUR) (49.00 %  de descuento) en el siguiente enlace!

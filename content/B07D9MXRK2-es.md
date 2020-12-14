@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9MXRK2/?tag=tolees-21'
 descuento: '73.55'
+average: '26.44'
 ---
 
 Tienes [Adidas Climacool CW  Zapatillas de Entrenamiento para Mujer  Gris  Dark Heather Solid Grey/Silver Metallic/Real Lilac 0   38 2/3 EU](https://www.amazon.es/dp/B07D9MXRK2/?tag=tolees-21) con un 73.55 % de descuento con precio de oferta de 26.44 EUR (original: 99.95 EUR) en el siguiente enlace!

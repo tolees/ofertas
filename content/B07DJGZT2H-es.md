@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJGZT2H/?tag=tolees-21'
 descuento: '56.48'
+average: '26.09'
 ---
 
 Tienes [Dockers by Gerli 43st101  Botas Militar para Hombre  Marrón  Schoko 360   40 EU](https://www.amazon.es/dp/B07DJGZT2H/?tag=tolees-21) con un 56.48 % de descuento con precio de oferta de 26.09 EUR (original: 59.95 EUR) en el siguiente enlace!

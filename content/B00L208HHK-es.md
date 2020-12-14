@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00L208HHK/?tag=tolees-21'
 descuento: '78.84'
+average: '32.2'
 ---
 
 Está [Ted Baker London Rockall - Auriculares de diadema cerrados  con micrófono y control remoto integrado   negro](https://www.amazon.es/dp/B00L208HHK/?tag=tolees-21) con 78.84 de descuento por 32.2 EUR (original: 152.14 EUR) en el siguiente enlace!

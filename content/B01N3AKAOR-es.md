@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N3AKAOR/?tag=tolees-21'
 descuento: '48.91'
+average: '22.5'
 ---
 
 Está [Sword Art Online II - Temporada 2. Parte 1. [Blu-ray]](https://www.amazon.es/dp/B01N3AKAOR/?tag=tolees-21) con 48.91 de descuento por 22.5 EUR (original: 44.04 EUR) en el siguiente enlace!

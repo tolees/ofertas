@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N62VG1W/?tag=tolees-21'
 descuento: '34.00'
+average: '65.99'
 ---
 
 Está [TOPVORK Sierra Circular  710W 3500RPM Mini Sierra Circular de Mano  Corte: 42 8mm 90°   28mm 45°   2 Hojas de Sierra de 24T + 60T  Boble Bloqueo para Cortar Azulejo  Madera  Metal Blando  Plástico](https://www.amazon.es/dp/B07N62VG1W/?tag=tolees-21) con 34.00 de descuento por 65.99 EUR (original: 99.99 EUR) en el siguiente enlace!

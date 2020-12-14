@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005BCO3WS/?tag=tolees-21'
 descuento: '59.63'
+average: '29.99'
 ---
 
 Ahora mismo tienes [Banpresto 80553   Super Master Stars Diorama II  Vegeta & Trunks  the brush  Bola Super del Dragón  20 cm](https://www.amazon.es/dp/B005BCO3WS/?tag=tolees-21) a 29.99 EUR (original: 74.28 EUR) (59.63 %  de descuento) en el siguiente enlace!

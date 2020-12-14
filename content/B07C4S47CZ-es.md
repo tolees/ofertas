@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C4S47CZ/?tag=tolees-21'
 descuento: '73.96'
+average: '82.29'
 ---
 
 Está [Love Moschino Crew Neck Long Sleeve Sweather with Logo and Hearts  suéter para Mujer   Black+Red+White 4013   44  Talla del Fabricante: 46 ](https://www.amazon.es/dp/B07C4S47CZ/?tag=tolees-21) con 73.96 de descuento por 82.29 EUR (original: 316 EUR) en el siguiente enlace!

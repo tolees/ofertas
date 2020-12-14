@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00U2Q95DK/?tag=tolees-21'
 descuento: '30.77'
+average: '27'
 ---
 
 Está [Thomas Sabo - Charm con Cierre para Mujer de Plata de Ley 925/1000 con Circónita](https://www.amazon.es/dp/B00U2Q95DK/?tag=tolees-21) con 30.77 de descuento por 27 EUR (original: 39 EUR) en el siguiente enlace!

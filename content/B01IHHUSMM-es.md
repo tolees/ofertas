@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IHHUSMM/?tag=tolees-21'
 descuento: '69.97'
+average: '89.78'
 ---
 
 Está [Cortefiel Traje Hombre Gris Oscuro ES 54](https://www.amazon.es/dp/B01IHHUSMM/?tag=tolees-21) con 69.97 de descuento por 89.78 EUR (original: 299 EUR) en el siguiente enlace!

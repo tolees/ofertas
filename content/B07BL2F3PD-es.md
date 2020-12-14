@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BL2F3PD/?tag=tolees-21'
 descuento: '27.72'
+average: '65.05'
 ---
 
 Tienes [New Balance 574  Zapatillas para Hombre  Azul  Dark Navy/Marred Blue ESS   40 EU  Talla Fabricante: 6.5 UK ](https://www.amazon.es/dp/B07BL2F3PD/?tag=tolees-21) con un 27.72 % de descuento con precio de oferta de 65.05 EUR (original: 90 EUR) en el siguiente enlace!

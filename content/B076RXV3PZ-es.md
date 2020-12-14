@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076RXV3PZ/?tag=tolees-21'
 descuento: '50.08'
+average: '29.95'
 ---
 
 Está [Under Armour UA W Surge  Zapatillas de Running para Mujer  Negro  Black   41 EU](https://www.amazon.es/dp/B076RXV3PZ/?tag=tolees-21) con 50.08 de descuento por 29.95 EUR (original: 60 EUR) en el siguiente enlace!

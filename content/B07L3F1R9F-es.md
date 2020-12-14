@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L3F1R9F/?tag=tolees-21'
 descuento: '29.39'
+average: '59.95'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Essential Nylon Runner  Zapatillas para Hombre  Azul  Midnight 403   41 EU](https://www.amazon.es/dp/B07L3F1R9F/?tag=tolees-21) a 59.95 EUR (original: 84.9 EUR) (29.39 %  de descuento) en el siguiente enlace!

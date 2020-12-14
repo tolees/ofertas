@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BKJBP3N/?tag=tolees-21'
 descuento: '37.09'
+average: '17.3'
 ---
 
 Está [SOS Arroz Especial para Paellas - Paquete de 10 x 100 gr - Total: 1000 gr](https://www.amazon.es/dp/B07BKJBP3N/?tag=tolees-21) con 37.09 de descuento por 17.3 EUR (original: 27.5 EUR) en el siguiente enlace!

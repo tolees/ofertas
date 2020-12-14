@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ5HZSP/?tag=tolees-21'
 descuento: '68.13'
+average: '28.67'
 ---
 
 Tienes [Puma Uprise Mesh  Zapatillas Unisex Adults’o  Rosa  Winsome Orchid Whisper White   37 EU](https://www.amazon.es/dp/B07CZ5HZSP/?tag=tolees-21) con un 68.13 % de descuento con precio de oferta de 28.67 EUR (original: 89.95 EUR) en el siguiente enlace!

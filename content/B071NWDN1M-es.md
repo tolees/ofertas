@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071NWDN1M/?tag=tolees-21'
 descuento: '35.21'
+average: '35.63'
 ---
 
 Tienes [Under Armour Armour Fly Fast Capri Leggings  Mujer  Negro Black/Reflective 001  L](https://www.amazon.es/dp/B071NWDN1M/?tag=tolees-21) con un 35.21 % de descuento con precio de oferta de 35.63 EUR (original: 54.99 EUR) en el siguiente enlace!

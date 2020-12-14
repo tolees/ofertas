@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01F3HE4GU/?tag=tolees-21'
 descuento: '80.01'
+average: '13.99'
 ---
 
 Ahora mismo tienes [iEGrow Ventilador Plegable Ventilador de Mano Ventilador Silencioso Mini Ventilador con Cable de Datos USB y Batería Recargable  Mini Fan Whit ](https://www.amazon.es/dp/B01F3HE4GU/?tag=tolees-21) a 13.99 EUR (original: 69.99 EUR) (80.01 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CMXZXNJ/?tag=tolees-21'
 descuento: '51.37'
+average: '17.99'
 ---
 
 Está [LIBEYE Parasol para Parabrisa  Protector Cubierta de Parabrisas Delantero Solar Antihielo y Nieve Cubierta Protectora contra Rayos Ultra Violetas Funda para Parabrisas Plegable Magnético 145*123CM](https://www.amazon.es/dp/B07CMXZXNJ/?tag=tolees-21) con 51.37 de descuento por 17.99 EUR (original: 36.99 EUR) en el siguiente enlace!

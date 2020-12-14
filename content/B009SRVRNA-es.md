@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B009SRVRNA/?tag=tolees-21'
 descuento: '51.03'
+average: '16.94'
 ---
 
 Tienes [Centenario 9 Years Old Commemorative Rum - 700 ml](https://www.amazon.es/dp/B009SRVRNA/?tag=tolees-21) con un 51.03 % de descuento con precio de oferta de 16.94 EUR (original: 34.59 EUR) en el siguiente enlace!

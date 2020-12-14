@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D2R1GYT/?tag=tolees-21'
 descuento: '61.57'
+average: '24.98'
 ---
 
 Está [Mizuno Wave Rider 22 Jr  Zapatillas de Running Unisex Niños  Morado  Bright Violet/White/Purpleplumeria 02   37 EU](https://www.amazon.es/dp/B07D2R1GYT/?tag=tolees-21) con 61.57 de descuento por 24.98 EUR (original: 65 EUR) en el siguiente enlace!

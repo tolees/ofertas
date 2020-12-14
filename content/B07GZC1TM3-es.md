@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GZC1TM3/?tag=tolees-21'
 descuento: '55.57'
+average: '15.99'
 ---
 
 Ahora mismo tienes [Wonyered Altavoces Inalámbrico Reloj Bluetooth Portátil Despertador Digital Radio FM Pantalla LCD Regulable con Alarma Dual Soporte Llamada Manos Libres](https://www.amazon.es/dp/B07GZC1TM3/?tag=tolees-21) a 15.99 EUR (original: 35.99 EUR) (55.57 %  de descuento) en el siguiente enlace!

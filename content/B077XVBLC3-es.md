@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XVBLC3/?tag=tolees-21'
 descuento: '49.00'
+average: '14.28'
 ---
 
 Ahora mismo tienes [Under Armour Sujetador Deportivo para Mujer Agujero Medio  Mujer  1307196-349  Green Malachite/Black  Small](https://www.amazon.es/dp/B077XVBLC3/?tag=tolees-21) a 14.28 EUR (original: 28 EUR) (49.00 %  de descuento) en el siguiente enlace!

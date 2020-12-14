@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQMH6G1/?tag=tolees-21'
 descuento: '61.46'
+average: '30.81'
 ---
 
 Ahora mismo tienes [Clarks Landry Step  Mocasines para Hombre  Azul  Navy Suede-   42 EU](https://www.amazon.es/dp/B07FQMH6G1/?tag=tolees-21) a 30.81 EUR (original: 79.95 EUR) (61.46 %  de descuento) en el siguiente enlace!

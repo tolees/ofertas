@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GNFRHCH/?tag=tolees-21'
 descuento: '64.12'
+average: '10.76'
 ---
 
 Está [JACK & JONES Jcorotto Sweat Hood  Capucha Hombre  Negro  Large  Talla del Fabricante: ](https://www.amazon.es/dp/B07GNFRHCH/?tag=tolees-21) con 64.12 de descuento por 10.76 EUR (original: 29.99 EUR) en el siguiente enlace!

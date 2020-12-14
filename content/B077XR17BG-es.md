@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XR17BG/?tag=tolees-21'
 descuento: '69.89'
+average: '33.12'
 ---
 
 Está [New Balance X-90  Zapatillas para Mujer  Azul  Galaxy/Ice Blue Cle   37.5 EU](https://www.amazon.es/dp/B077XR17BG/?tag=tolees-21) con 69.89 de descuento por 33.12 EUR (original: 110 EUR) en el siguiente enlace!

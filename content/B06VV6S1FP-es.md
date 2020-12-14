@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06VV6S1FP/?tag=tolees-21'
 descuento: '63.15'
+average: '7.99'
 ---
 
 Está [Enfriador de vino BOQO Aireador Decantador Vertedor 3-en-1 Inoxidable Enfriamiento](https://www.amazon.es/dp/B06VV6S1FP/?tag=tolees-21) con 63.15 de descuento por 7.99 EUR (original: 21.68 EUR) en el siguiente enlace!

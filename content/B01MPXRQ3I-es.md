@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MPXRQ3I/?tag=tolees-21'
 descuento: '32.51'
+average: '11.27'
 ---
 
 Está [Catral 31010004 - Bordura flexible de madera tratada 30x250 cm. diam.7 cm.](https://www.amazon.es/dp/B01MPXRQ3I/?tag=tolees-21) con 32.51 de descuento por 11.27 EUR (original: 16.7 EUR) en el siguiente enlace!

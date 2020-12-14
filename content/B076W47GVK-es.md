@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076W47GVK/?tag=tolees-21'
 descuento: '49.28'
+average: '30.43'
 ---
 
 Tienes [Under Armour UA Surge  Zapatillas de Running para Hombre  Negro  Black/White/Red   42.5 EU](https://www.amazon.es/dp/B076W47GVK/?tag=tolees-21) con un 49.28 % de descuento con precio de oferta de 30.43 EUR (original: 60 EUR) en el siguiente enlace!

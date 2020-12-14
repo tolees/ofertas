@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N5VW2YZ/?tag=tolees-21'
 descuento: '77.99'
+average: '19.79'
 ---
 
 Ahora mismo tienes [Pedro del Hierro P-5-BC-B Pima Cotton Tail Pantalones  Rojo  Red   40 para Hombre](https://www.amazon.es/dp/B01N5VW2YZ/?tag=tolees-21) a 19.79 EUR (original: 89.9 EUR) (77.99 %  de descuento) en el siguiente enlace!

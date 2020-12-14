@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XQ1SMLX/?tag=tolees-21'
 descuento: '58.34'
+average: '49.99'
 ---
 
 Está [Freesoo Funda para coche FUNDA PROTECTORA CUBIERTA COCHE IMPERMEABLE con banda reflectante protector solar lluvia cubierta completa con bloqueo antirrobo para Audi  Benz  BYD  SUV universal](https://www.amazon.es/dp/B06XQ1SMLX/?tag=tolees-21) con 58.34 de descuento por 49.99 EUR (original: 119.99 EUR) en el siguiente enlace!

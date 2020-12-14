@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FM8YGZ3/?tag=tolees-21'
 descuento: '72.49'
+average: '17.87'
 ---
 
 Tienes [hummel Nile Canvas Low  Zapatillas Unisex Adulto  Gris  Silver Birch 1940   36 EU](https://www.amazon.es/dp/B07FM8YGZ3/?tag=tolees-21) con un 72.49 % de descuento con precio de oferta de 17.87 EUR (original: 64.95 EUR) en el siguiente enlace!

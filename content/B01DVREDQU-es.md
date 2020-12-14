@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DVREDQU/?tag=tolees-21'
 descuento: '86.98'
+average: '10.41'
 ---
 
 Está [Sway Vibes Dispositivo de Masaje Terapéutico  Color Rosa - 1 Unidad](https://www.amazon.es/dp/B01DVREDQU/?tag=tolees-21) con 86.98 de descuento por 10.41 EUR (original: 79.95 EUR) en el siguiente enlace!

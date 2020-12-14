@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MTFLQKD/?tag=tolees-21'
 descuento: '45.16'
+average: '79.95'
 ---
 
 Está [Tesa Assa Abloy MCHV700CM Manilla con teclado digital Code Handle para ventana  cromado](https://www.amazon.es/dp/B01MTFLQKD/?tag=tolees-21) con 45.16 de descuento por 79.95 EUR (original: 145.79 EUR) en el siguiente enlace!

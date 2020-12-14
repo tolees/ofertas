@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079Y9BF5S/?tag=tolees-21'
 descuento: '31.86'
+average: '122.65'
 ---
 
 Tienes [Roll Road India](https://www.amazon.es/dp/B079Y9BF5S/?tag=tolees-21) con un 31.86 % de descuento con precio de oferta de 122.65 EUR (original: 179.99 EUR) en el siguiente enlace!

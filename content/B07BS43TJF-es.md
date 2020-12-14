@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BS43TJF/?tag=tolees-21'
 descuento: '40.00'
+average: '89.4'
 ---
 
 Ahora mismo tienes [DAGOSTINO HOME - Colchón Viscoelástico DIAMANTE 140 X 190 X 20 cm - Reversible - Fabricado en España -  Todas las medidas ](https://www.amazon.es/dp/B07BS43TJF/?tag=tolees-21) a 89.4 EUR (original: 149 EUR) (40.00 %  de descuento) en el siguiente enlace!

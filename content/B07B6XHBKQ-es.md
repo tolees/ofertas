@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B6XHBKQ/?tag=tolees-21'
 descuento: '62.05'
+average: '32.26'
 ---
 
 Está [New Balance Fresh Foam Arishi Luxe  Zapatillas de Running para Mujer  Negro  Black/Magnet/Light Gold Metallic Pa1   37 EU](https://www.amazon.es/dp/B07B6XHBKQ/?tag=tolees-21) con 62.05 de descuento por 32.26 EUR (original: 85 EUR) en el siguiente enlace!

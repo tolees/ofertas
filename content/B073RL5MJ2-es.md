@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073RL5MJ2/?tag=tolees-21'
 descuento: '51.89'
+average: '33.65'
 ---
 
 Ahora mismo tienes [adidas Element V  Zapatillas de Entrenamiento para Mujer  Negro  Core Black/Vapour Grey Metallic/Footwear White 0   38 2/3 EU](https://www.amazon.es/dp/B073RL5MJ2/?tag=tolees-21) a 33.65 EUR (original: 69.95 EUR) (51.89 %  de descuento) en el siguiente enlace!

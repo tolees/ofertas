@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H2VL58N/?tag=tolees-21'
 descuento: '77.37'
+average: '17.99'
 ---
 
 Está [Antorcha LED  OxyLED Long Tube Recargable CREE LED linterna  IP65 Resistente al agua para el hogar  Camping  Senderismo  Pesca  Moutaining  Zoom](https://www.amazon.es/dp/B07H2VL58N/?tag=tolees-21) con 77.37 de descuento por 17.99 EUR (original: 79.49 EUR) en el siguiente enlace!

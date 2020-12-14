@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00J5FYBOM/?tag=tolees-21'
 descuento: '37.61'
+average: '6.8'
 ---
 
 Ahora mismo tienes [Farmatint Gel 1N Negro. Tinte permanente. Cabello natural y color duradero. Sin amoníaco ni parabenes ni parafinas ni siliconas. Coloración natural para el pelo fácil de aplicar.](https://www.amazon.es/dp/B00J5FYBOM/?tag=tolees-21) a 6.8 EUR (original: 10.9 EUR) (37.61 %  de descuento) en el siguiente enlace!

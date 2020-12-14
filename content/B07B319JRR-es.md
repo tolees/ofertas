@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B319JRR/?tag=tolees-21'
 descuento: '49.69'
+average: '17.13'
 ---
 
 Ahora mismo tienes [Viñas Del Vero Merlot Colección - Vino D.O. Somontano - 3 Botellas de 750 ml - Total : 2250 ml](https://www.amazon.es/dp/B07B319JRR/?tag=tolees-21) a 17.13 EUR (original: 34.05 EUR) (49.69 %  de descuento) en el siguiente enlace!

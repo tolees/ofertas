@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FY4DXW8/?tag=tolees-21'
 descuento: '30.45'
+average: '15.99'
 ---
 
 Está [TACKLIFE Llaves Allen  Profesionales  24 Piezas  12 Llaves con Cabezal Esférico Métricas  12 Llaves Hexagonal Torx  Acero al Cromo Vanadio  para Reparar Automóviles  Muebles  Equipos  etc - HAK3B](https://www.amazon.es/dp/B07FY4DXW8/?tag=tolees-21) con 30.45 de descuento por 15.99 EUR (original: 22.99 EUR) en el siguiente enlace!

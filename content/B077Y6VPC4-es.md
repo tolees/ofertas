@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077Y6VPC4/?tag=tolees-21'
 descuento: '47.76'
+average: '9.8'
 ---
 
 Tienes [Inside 5EPOC17 Polo  Hombre  Gris  X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B077Y6VPC4/?tag=tolees-21) con un 47.76 % de descuento con precio de oferta de 9.8 EUR (original: 18.76 EUR) en el siguiente enlace!

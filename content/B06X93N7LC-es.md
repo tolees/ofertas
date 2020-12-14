@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06X93N7LC/?tag=tolees-21'
 descuento: '51.12'
+average: '48.39'
 ---
 
 Está [Lotus Reloj Analógico para Mujer de Cuarzo con Correa en Cuero 18400/1](https://www.amazon.es/dp/B06X93N7LC/?tag=tolees-21) con 51.12 de descuento por 48.39 EUR (original: 99 EUR) en el siguiente enlace!

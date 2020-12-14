@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC84BZ6/?tag=tolees-21'
 descuento: '50.68'
+average: '24.66'
 ---
 
 Está [LE COQ SPORTIF Alpha Inf Sport  Botas Unisex bebé  Beige  Dress Blue/Croissant Bleu   26 EU](https://www.amazon.es/dp/B07DC84BZ6/?tag=tolees-21) con 50.68 de descuento por 24.66 EUR (original: 50 EUR) en el siguiente enlace!

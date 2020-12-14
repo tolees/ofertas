@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CQ8MVJL/?tag=tolees-21'
 descuento: '49.99'
+average: '69.99'
 ---
 
 Tienes [adidas Solar Glide M  Zapatillas de Trail Running para Hombre   Tinley/Ftwbla/Agalre 000   43 1/3 EU](https://www.amazon.es/dp/B07CQ8MVJL/?tag=tolees-21) con un 49.99 % de descuento con precio de oferta de 69.99 EUR (original: 139.95 EUR) en el siguiente enlace!

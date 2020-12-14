@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D5BPKSC/?tag=tolees-21'
 descuento: '50.03'
+average: '9.99'
 ---
 
 Tienes [Linterna LED Power Bank con haz Impermeable ajustable y recargable Multifuncional luz Lampara Intensidad Cargador incluid para el trabajo/Senderismo/Camping  2600mAh ](https://www.amazon.es/dp/B07D5BPKSC/?tag=tolees-21) con un 50.03 % de descuento con precio de oferta de 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

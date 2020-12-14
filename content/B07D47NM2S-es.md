@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D47NM2S/?tag=tolees-21'
 descuento: '57.39'
+average: '15'
 ---
 
 Ahora mismo tienes [Banpresto- Gintoki Sakata Figura 20 Cm EP. 2 Big Size Gintama Katsugeki-Kabukicho   BIDGI822799 ](https://www.amazon.es/dp/B07D47NM2S/?tag=tolees-21) a 15 EUR (original: 35.2 EUR) (57.39 %  de descuento) en el siguiente enlace!

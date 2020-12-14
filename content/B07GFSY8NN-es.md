@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GFSY8NN/?tag=tolees-21'
 descuento: '43.01'
+average: '16.99'
 ---
 
 Tienes [Lexar lsd64gcb1eu633 Professional Class 10 95 MB/s Tarjeta de Memoria SDHC/SDXC UHS-I  633 X   64 GB](https://www.amazon.es/dp/B07GFSY8NN/?tag=tolees-21) con un 43.01 % de descuento con precio de oferta de 16.99 EUR (original: 29.81 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078GTVCS9/?tag=tolees-21'
 descuento: '48.17'
+average: '31.07'
 ---
 
 Tienes [Skechers Go Walk Joy  Zapatillas para Mujer  Azul  Navy White NVW   36 EU](https://www.amazon.es/dp/B078GTVCS9/?tag=tolees-21) con un 48.17 % de descuento con precio de oferta de 31.07 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MZRNGBV/?tag=tolees-21'
 descuento: '33.38'
+average: '19.98'
 ---
 
 Está [SCARLET DARKNESS Trajes de baño Sexy para Mujer Monokini Cross Back Deep Wine Red S](https://www.amazon.es/dp/B07MZRNGBV/?tag=tolees-21) con 33.38 de descuento por 19.98 EUR (original: 29.99 EUR) en el siguiente enlace!

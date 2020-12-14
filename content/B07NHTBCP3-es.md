@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NHTBCP3/?tag=tolees-21'
 descuento: '55.76'
+average: '17.69'
 ---
 
 Está [JACK & JONES Jcobooster Sweat Hood March 19 Capucha  Negro  Black Print: from Gold Fusion. Reg   Small para Hombre](https://www.amazon.es/dp/B07NHTBCP3/?tag=tolees-21) con 55.76 de descuento por 17.69 EUR (original: 39.99 EUR) en el siguiente enlace!

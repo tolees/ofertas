@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005BCP19M/?tag=tolees-21'
 descuento: '73.45'
+average: '28.94'
 ---
 
 Tienes [Tuscany Silver 8.37.0320 - Pulsera de plata de ley  925/1000 ](https://www.amazon.es/dp/B005BCP19M/?tag=tolees-21) con un 73.45 % de descuento con precio de oferta de 28.94 EUR (original: 109 EUR) en el siguiente enlace!

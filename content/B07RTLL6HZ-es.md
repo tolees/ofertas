@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RTLL6HZ/?tag=tolees-21'
 descuento: '52.86'
+average: '32.99'
 ---
 
 Está [Smartwatch con Whatsapp Bluetooth Smart Watch Pantalla táctil Reloj Inteligente Hombre Impermeable Smartwatches Compatible Android iOS Phone X 8 7 6 5 Plus Samsung Huawei para Hombre Mujer](https://www.amazon.es/dp/B07RTLL6HZ/?tag=tolees-21) con 52.86 de descuento por 32.99 EUR (original: 69.99 EUR) en el siguiente enlace!

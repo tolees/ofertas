@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DBWVX7J/?tag=tolees-21'
 descuento: '64.47'
+average: '30.18'
 ---
 
 Ahora mismo tienes [Puma Suede Classic  Zapatillas Unisex Adults o  Azul  Peacoat-Blazing Yellow   41 EU](https://www.amazon.es/dp/B07DBWVX7J/?tag=tolees-21) a 30.18 EUR (original: 84.95 EUR) (64.47 %  de descuento) en el siguiente enlace!

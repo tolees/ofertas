@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D86QYCH/?tag=tolees-21'
 descuento: '50.00'
+average: '48'
 ---
 
 Tienes [Munich Osaka  Zapatillas Unisex Adulto   Gris 357   40 EU](https://www.amazon.es/dp/B07D86QYCH/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 48 EUR (original: 96 EUR) en el siguiente enlace!

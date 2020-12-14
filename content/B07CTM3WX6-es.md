@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CTM3WX6/?tag=tolees-21'
 descuento: '69.45'
+average: '16.8'
 ---
 
 Está [Under Armour Grade School Ripple NM  Zapatillas de Running para Niños  Rojo  Dark Maroon/Onyx White/Black 500   36 EU](https://www.amazon.es/dp/B07CTM3WX6/?tag=tolees-21) con 69.45 de descuento por 16.8 EUR (original: 55 EUR) en el siguiente enlace!

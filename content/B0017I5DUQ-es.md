@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0017I5DUQ/?tag=tolees-21'
 descuento: '35.14'
+average: '12.9'
 ---
 
 Está [BaByliss 2655E - Cepillo moldeador  300 W  color Morado](https://www.amazon.es/dp/B0017I5DUQ/?tag=tolees-21) con 35.14 de descuento por 12.9 EUR (original: 19.89 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079NX6VTM/?tag=tolees-21'
 descuento: '28.49'
+average: '128'
 ---
 
 Está [Hugo Boss Orange Reloj Multiesfera para Hombre de Cuarzo con Correa en Cuero 1550066](https://www.amazon.es/dp/B079NX6VTM/?tag=tolees-21) con 28.49 de descuento por 128 EUR (original: 179 EUR) en el siguiente enlace!

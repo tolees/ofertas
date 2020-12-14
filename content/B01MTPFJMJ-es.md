@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MTPFJMJ/?tag=tolees-21'
 descuento: '90.05'
+average: '189'
 ---
 
 Está [Colchón Viscografeno Imperial Deluxe 30cm Todas las Medidas  120x200 ](https://www.amazon.es/dp/B01MTPFJMJ/?tag=tolees-21) con 90.05 de descuento por 189 EUR (original: 1899 EUR) en el siguiente enlace!

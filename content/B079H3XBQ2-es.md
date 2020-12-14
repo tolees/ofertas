@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079H3XBQ2/?tag=tolees-21'
 descuento: '35.71'
+average: '34.04'
 ---
 
 Tienes [Spagnolo PT Chino Basico Piping Gab. Elast 1778  Pantalones para Hombre  Beige  Camel 000084   Tamaño del Fabricante:40](https://www.amazon.es/dp/B079H3XBQ2/?tag=tolees-21) con un 35.71 % de descuento con precio de oferta de 34.04 EUR (original: 52.95 EUR) en el siguiente enlace!

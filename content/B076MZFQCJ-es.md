@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076MZFQCJ/?tag=tolees-21'
 descuento: '37.27'
+average: '12.54'
 ---
 
 Está [Science4you-Fábrica de Experimentos-Quimica Y Fisica   605237 ](https://www.amazon.es/dp/B076MZFQCJ/?tag=tolees-21) con 37.27 de descuento por 12.54 EUR (original: 19.99 EUR) en el siguiente enlace!

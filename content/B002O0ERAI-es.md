@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002O0ERAI/?tag=tolees-21'
 descuento: '36.44'
+average: '0.75'
 ---
 
 Ahora mismo tienes [Coca-Cola - Refresco sabor cereza   1 Unidad de 330 ml](https://www.amazon.es/dp/B002O0ERAI/?tag=tolees-21) a 0.75 EUR (original: 1.18 EUR) (36.44 %  de descuento) en el siguiente enlace!

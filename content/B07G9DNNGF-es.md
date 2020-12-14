@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G9DNNGF/?tag=tolees-21'
 descuento: '56.69'
+average: '12.99'
 ---
 
 Está [KitchenTour balanza de cocina digital - 3000 g / 0 1 g de alta precisión La exactitud Escala Carne Alimentos multifunción con Retroiluminados Pantalla LCD  pilas incluidas ](https://www.amazon.es/dp/B07G9DNNGF/?tag=tolees-21) con 56.69 de descuento por 12.99 EUR (original: 29.99 EUR) en el siguiente enlace!

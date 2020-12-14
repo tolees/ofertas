@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00CDL32L8/?tag=tolees-21'
 descuento: '81.96'
+average: '3.23'
 ---
 
 Está [Zoku Quick Pop Red Soc - Utensilios para Helados](https://www.amazon.es/dp/B00CDL32L8/?tag=tolees-21) con 81.96 de descuento por 3.23 EUR (original: 17.9 EUR) en el siguiente enlace!

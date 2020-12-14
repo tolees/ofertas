@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B010PZKRKW/?tag=tolees-21'
 descuento: '36.73'
+average: '31'
 ---
 
 Está [Ultra Fuerte Suplemento Virilidad Masculina por Vigostren® - Sexuales mejora píldoras Rendimiento - Suplemento de Alimentos - La testosterona Booster - Estimulante sexual para los hombres Mejor](https://www.amazon.es/dp/B010PZKRKW/?tag=tolees-21) con 36.73 de descuento por 31 EUR (original: 49 EUR) en el siguiente enlace!

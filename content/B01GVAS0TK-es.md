@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GVAS0TK/?tag=tolees-21'
 descuento: '58.40'
+average: '27.02'
 ---
 
 Está [adidas Duramo 7  Zapatillas de Running para Mujer  Azul  Collegiate Navy/FTWR White/Shock Blue   36 2/3 EU](https://www.amazon.es/dp/B01GVAS0TK/?tag=tolees-21) con 58.40 de descuento por 27.02 EUR (original: 64.95 EUR) en el siguiente enlace!

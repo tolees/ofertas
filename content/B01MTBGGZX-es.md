@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MTBGGZX/?tag=tolees-21'
 descuento: '59.98'
+average: '64.01'
 ---
 
 Está [adidas Energy Boost W  Zapatillas de Running para Mujer  Azul  Tinley/Morsup/Corsen   38 EU](https://www.amazon.es/dp/B01MTBGGZX/?tag=tolees-21) con 59.98 de descuento por 64.01 EUR (original: 159.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B019D9TO2I/?tag=tolees-21'
 descuento: '64.22'
+average: '28.62'
 ---
 
 Tienes [Vans Brigata  Zapatillas Unisex Adulto  Rojo  Suede   44 EU](https://www.amazon.es/dp/B019D9TO2I/?tag=tolees-21) con un 64.22 % de descuento con precio de oferta de 28.62 EUR (original: 80 EUR) en el siguiente enlace!

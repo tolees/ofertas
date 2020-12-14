@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0757QNDXS/?tag=tolees-21'
 descuento: '60.60'
+average: '25.59'
 ---
 
 Está [Coronel Tapioca Botin Sport SERPE Plata SEÑORA  Mujer  Plateado  39 EU](https://www.amazon.es/dp/B0757QNDXS/?tag=tolees-21) con 60.60 de descuento por 25.59 EUR (original: 64.95 EUR) en el siguiente enlace!

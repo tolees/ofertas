@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01H70UVIQ/?tag=tolees-21'
 descuento: '35.02'
+average: '10.39'
 ---
 
 Ahora mismo tienes [InnoBeta® Protecciones para esquinas extra gruesos 12 piezas. Protecciones para bebés. Protecciones para las esquinas  Blanco. Adjunto con un regalo gratuito.](https://www.amazon.es/dp/B01H70UVIQ/?tag=tolees-21) a 10.39 EUR (original: 15.99 EUR) (35.02 %  de descuento) en el siguiente enlace!

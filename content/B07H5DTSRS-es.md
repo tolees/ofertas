@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H5DTSRS/?tag=tolees-21'
 descuento: '33.67'
+average: '29.18'
 ---
 
 Tienes [Bambino Mio  pañal de aprendizaje  niña mixto  2-3 años  pack de 5](https://www.amazon.es/dp/B07H5DTSRS/?tag=tolees-21) con un 33.67 % de descuento con precio de oferta de 29.18 EUR (original: 43.99 EUR) en el siguiente enlace!

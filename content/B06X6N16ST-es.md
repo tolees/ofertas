@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06X6N16ST/?tag=tolees-21'
 descuento: '94.10'
+average: '2.95'
 ---
 
 Está [The Surge](https://www.amazon.es/dp/B06X6N16ST/?tag=tolees-21) con 94.10 de descuento por 2.95 EUR (original: 49.99 EUR) en el siguiente enlace!

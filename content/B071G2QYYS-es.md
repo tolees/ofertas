@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071G2QYYS/?tag=tolees-21'
 descuento: '69.41'
+average: '18.34'
 ---
 
 Está [adidas X 17.3 FG J  Zapatillas de Fútbol Unisex Niños  Negro  Core Utility Black   37 1/3 EU](https://www.amazon.es/dp/B071G2QYYS/?tag=tolees-21) con 69.41 de descuento por 18.34 EUR (original: 59.95 EUR) en el siguiente enlace!

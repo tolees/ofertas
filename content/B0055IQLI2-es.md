@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0055IQLI2/?tag=tolees-21'
 descuento: '69.86'
+average: '8.74'
 ---
 
 Tienes [victoria 6651_Anthracite - Zapatillas para Hombre  Color Negro  Talla 36](https://www.amazon.es/dp/B0055IQLI2/?tag=tolees-21) con un 69.86 % de descuento con precio de oferta de 8.74 EUR (original: 29 EUR) en el siguiente enlace!

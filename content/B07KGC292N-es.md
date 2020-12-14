@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGC292N/?tag=tolees-21'
 descuento: '61.30'
+average: '57.67'
 ---
 
 Ahora mismo tienes [BOSS Ivitta suéter  Blanco  Open White 118   Medium para Mujer](https://www.amazon.es/dp/B07KGC292N/?tag=tolees-21) a 57.67 EUR (original: 149 EUR) (61.30 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFRV1VH/?tag=tolees-21'
 descuento: '49.79'
+average: '17.55'
 ---
 
 Ahora mismo tienes [Puma Active 3/4 Pantalones  Mujer  Negro Black  L](https://www.amazon.es/dp/B07DFRV1VH/?tag=tolees-21) a 17.55 EUR (original: 34.95 EUR) (49.79 %  de descuento) en el siguiente enlace!

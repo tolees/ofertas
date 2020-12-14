@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00P0X1M8G/?tag=tolees-21'
 descuento: '69.31'
+average: '33.45'
 ---
 
 Tienes [Zanvic Jardinera C/Patas Mod Rato Jh 600 C/Autorriego  Chocolate  60 cm](https://www.amazon.es/dp/B00P0X1M8G/?tag=tolees-21) con un 69.31 % de descuento con precio de oferta de 33.45 EUR (original: 108.99 EUR) en el siguiente enlace!

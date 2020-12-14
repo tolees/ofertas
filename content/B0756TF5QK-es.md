@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0756TF5QK/?tag=tolees-21'
 descuento: '44.76'
+average: '20.99'
 ---
 
 Ahora mismo tienes [SYROKAN - Sujetador Deportivo Talla Grande Alto Soporte Sin Aros para Mujer Negro ES:100C  EU 85C ](https://www.amazon.es/dp/B0756TF5QK/?tag=tolees-21) a 20.99 EUR (original: 38 EUR) (44.76 %  de descuento) en el siguiente enlace!

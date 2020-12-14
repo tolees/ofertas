@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MZ283JZ/?tag=tolees-21'
 descuento: '61.30'
+average: '10.99'
 ---
 
 Ahora mismo tienes [Grace & Stella Co. Esponja limpiadora facial suave de konjac para limpiar las impurezas de mujeres y hombres 2 piezas](https://www.amazon.es/dp/B01MZ283JZ/?tag=tolees-21) a 10.99 EUR (original: 28.4 EUR) (61.30 %  de descuento) en el siguiente enlace!

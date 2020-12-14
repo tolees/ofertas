@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MU59UL3/?tag=tolees-21'
 descuento: '50.10'
+average: '24.95'
 ---
 
 Tienes [Geomag- Classic Panels Construcciones magnéticas y juegos educativos  Multicolor  83 piezas  462 ](https://www.amazon.es/dp/B01MU59UL3/?tag=tolees-21) con un 50.10 % de descuento con precio de oferta de 24.95 EUR (original: 50 EUR) en el siguiente enlace!

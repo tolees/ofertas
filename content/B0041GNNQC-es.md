@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0041GNNQC/?tag=tolees-21'
 descuento: '61.51'
+average: '24.58'
 ---
 
 Ahora mismo tienes [Sebastian Volupt Volumen Acondicionador - 1000 ml](https://www.amazon.es/dp/B0041GNNQC/?tag=tolees-21) a 24.58 EUR (original: 63.86 EUR) (61.51 %  de descuento) en el siguiente enlace!

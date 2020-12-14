@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KTLGQOI/?tag=tolees-21'
 descuento: '27.39'
+average: '5.01'
 ---
 
 Está [Pato - Wc Frescor  Producto para inodoro 750 ml - Pack de 3  Total 2250 ml ](https://www.amazon.es/dp/B01KTLGQOI/?tag=tolees-21) con 27.39 de descuento por 5.01 EUR (original: 6.9 EUR) en el siguiente enlace!

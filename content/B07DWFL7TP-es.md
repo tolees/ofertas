@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DWFL7TP/?tag=tolees-21'
 descuento: '70.03'
+average: '14.97'
 ---
 
 Ahora mismo tienes [Lico Ron  Zapatillas para Hombre  Gris Grau/Marine  37 EU](https://www.amazon.es/dp/B07DWFL7TP/?tag=tolees-21) a 14.97 EUR (original: 49.95 EUR) (70.03 %  de descuento) en el siguiente enlace!

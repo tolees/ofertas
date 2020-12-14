@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F6ZGHZ4/?tag=tolees-21'
 descuento: '79.15'
+average: '14.73'
 ---
 
 Ahora mismo tienes [Reebok Astroride Soul  Zapatillas de Deporte para Mujer   Black/Wht 000   43 EU](https://www.amazon.es/dp/B07F6ZGHZ4/?tag=tolees-21) a 14.73 EUR (original: 70.66 EUR) (79.15 %  de descuento) en el siguiente enlace!

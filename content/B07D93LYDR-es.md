@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D93LYDR/?tag=tolees-21'
 descuento: '74.37'
+average: '12.81'
 ---
 
 Está [SELECTED HOMME Slhvictor Crew Neck W Noos  suéter para Hombre  Marrón  Tortoise Shell Detail:Twisted W. Black  Small](https://www.amazon.es/dp/B07D93LYDR/?tag=tolees-21) con 74.37 de descuento por 12.81 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MDIZ63Y/?tag=tolees-21'
 descuento: '30.40'
+average: '547'
 ---
 
 Está [Yamaha mcr-n570d sistema Audio](https://www.amazon.es/dp/B01MDIZ63Y/?tag=tolees-21) con 30.40 de descuento por 547 EUR (original: 785.88 EUR) en el siguiente enlace!

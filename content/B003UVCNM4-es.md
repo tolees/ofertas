@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003UVCNM4/?tag=tolees-21'
 descuento: '33.70'
+average: '61.99'
 ---
 
 Está [ROYAL CANIN Alimento para Perros Obesity Management DP34-14 kg](https://www.amazon.es/dp/B003UVCNM4/?tag=tolees-21) con 33.70 de descuento por 61.99 EUR (original: 93.5 EUR) en el siguiente enlace!

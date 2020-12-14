@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00QO1FK36/?tag=tolees-21'
 descuento: '40.05'
+average: '41.96'
 ---
 
 Está [Columbia Women  s Saturday Trail Pantalones  Mujer  Saturday Trail  Gris](https://www.amazon.es/dp/B00QO1FK36/?tag=tolees-21) con 40.05 de descuento por 41.96 EUR (original: 69.99 EUR) en el siguiente enlace!

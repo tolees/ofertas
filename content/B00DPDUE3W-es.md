@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00DPDUE3W/?tag=tolees-21'
 descuento: '88.15'
+average: '11.69'
 ---
 
 Tienes [Privacidad Shades cl-p02 de plástico Modelo de gancho para colgar con clip   autoadhesivo ](https://www.amazon.es/dp/B00DPDUE3W/?tag=tolees-21) con un 88.15 % de descuento con precio de oferta de 11.69 EUR (original: 98.67 EUR) en el siguiente enlace!

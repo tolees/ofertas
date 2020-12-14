@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DNXXZW8/?tag=tolees-21'
 descuento: '60.61'
+average: '11.06'
 ---
 
 Tienes [Emporio Armani Underwear 9p523 Bañador  Azul  Bluette 15834   X-Large para Hombre](https://www.amazon.es/dp/B07DNXXZW8/?tag=tolees-21) con un 60.61 % de descuento con precio de oferta de 11.06 EUR (original: 28.08 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IHR55U2/?tag=tolees-21'
 descuento: '68.17'
+average: '15.91'
 ---
 
 Está [Cortefiel Pantalone Bordeaux IT 44  ES 40 ](https://www.amazon.es/dp/B01IHR55U2/?tag=tolees-21) con 68.17 de descuento por 15.91 EUR (original: 49.99 EUR) en el siguiente enlace!

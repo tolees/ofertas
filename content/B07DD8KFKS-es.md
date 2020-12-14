@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DD8KFKS/?tag=tolees-21'
 descuento: '26.66'
+average: '282.61'
 ---
 
 Tienes [Samsung Galaxy A6+ SM-A605F 15 2 cm  6"  3 GB 32 GB SIM Doble 4G Negro 3500 mAh - Smartphone  15 2 cm  6"   3 GB  32 GB  16 MP  Android 8.0  Negro ](https://www.amazon.es/dp/B07DD8KFKS/?tag=tolees-21) con un 26.66 % de descuento con precio de oferta de 282.61 EUR (original: 385.35 EUR) en el siguiente enlace!

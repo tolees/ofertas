@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LFSRJMD/?tag=tolees-21'
 descuento: '45.40'
+average: '40.95'
 ---
 
 Está [Pepe Jeans Tinker Zero Seal  Zapatillas para Hombre  Blanco  800WHITE 800   44 EU](https://www.amazon.es/dp/B07LFSRJMD/?tag=tolees-21) con 45.40 de descuento por 40.95 EUR (original: 75 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FZKN63D/?tag=tolees-21'
 descuento: '50.06'
+average: '64.9'
 ---
 
 Está [adidas Counterblast Bounce  Zapatillas de Balonmano para Hombre  Negro Core Black/Hi/Res Yellow/True Blue  40 2/3 EU](https://www.amazon.es/dp/B07FZKN63D/?tag=tolees-21) con 50.06 de descuento por 64.9 EUR (original: 129.95 EUR) en el siguiente enlace!

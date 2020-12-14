@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D7X7L2G/?tag=tolees-21'
 descuento: '74.91'
+average: '37.39'
 ---
 
 Ahora mismo tienes [BOSS Casual Aface  suéter Hombre  Gris  Medium Grey 039   Medium](https://www.amazon.es/dp/B07D7X7L2G/?tag=tolees-21) a 37.39 EUR (original: 149 EUR) (74.91 %  de descuento) en el siguiente enlace!

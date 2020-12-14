@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BR4N3S9/?tag=tolees-21'
 descuento: '67.78'
+average: '17.72'
 ---
 
 Ahora mismo tienes [Dickies Flex Work Pant Pantalones  Hombre  Negro  Black BK    Tamaño del Fabricante:33/26 ](https://www.amazon.es/dp/B07BR4N3S9/?tag=tolees-21) a 17.72 EUR (original: 55 EUR) (67.78 %  de descuento) en el siguiente enlace!

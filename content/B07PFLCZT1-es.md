@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PFLCZT1/?tag=tolees-21'
 descuento: '61.60'
+average: '15.88'
 ---
 
 Ahora mismo tienes [Kayhan - Bañador - para Hombre Blau 03 6X-Large](https://www.amazon.es/dp/B07PFLCZT1/?tag=tolees-21) a 15.88 EUR (original: 41.35 EUR) (61.60 %  de descuento) en el siguiente enlace!

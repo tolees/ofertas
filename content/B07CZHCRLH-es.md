@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZHCRLH/?tag=tolees-21'
 descuento: '30.33'
+average: '41.8'
 ---
 
 Está [Asics Patriot 10  Zapatillas de Running para Mujer  Gris  Mid Grey/Frosted Rose 020   40.5 EU](https://www.amazon.es/dp/B07CZHCRLH/?tag=tolees-21) con 30.33 de descuento por 41.8 EUR (original: 60 EUR) en el siguiente enlace!

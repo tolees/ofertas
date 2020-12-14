@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MSUWAUD/?tag=tolees-21'
 descuento: '27.14'
+average: '34.9'
 ---
 
 Está [Cecotec 04046  Power Titanium - Batidora americana de vaso  Cristal Termorresistente  1250 W   5 niveles de Potencia + Turbo  Cuchilla de 6 hojas de titanio  1 8 L](https://www.amazon.es/dp/B01MSUWAUD/?tag=tolees-21) con 27.14 de descuento por 34.9 EUR (original: 47.9 EUR) en el siguiente enlace!

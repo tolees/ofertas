@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CRLTS9D/?tag=tolees-21'
 descuento: '81.83'
+average: '15.99'
 ---
 
 Está [Organizador de bolsillo lateral Asiento de automóvil Espacio de llenado Espacio Caja Botella Portavasos Accesorios interiores de coche Cuero de PU Organizador de coches de costura Negro Y428](https://www.amazon.es/dp/B07CRLTS9D/?tag=tolees-21) con 81.83 de descuento por 15.99 EUR (original: 87.99 EUR) en el siguiente enlace!

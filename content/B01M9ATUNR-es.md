@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M9ATUNR/?tag=tolees-21'
 descuento: '65.07'
+average: '22.69'
 ---
 
 Está [Skechers Go Step Lite-Effortless  Entrenadores para Mujer  Negro  Black   35 EU](https://www.amazon.es/dp/B01M9ATUNR/?tag=tolees-21) con 65.07 de descuento por 22.69 EUR (original: 64.95 EUR) en el siguiente enlace!

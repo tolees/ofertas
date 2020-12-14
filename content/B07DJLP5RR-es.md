@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJLP5RR/?tag=tolees-21'
 descuento: '52.14'
+average: '28.69'
 ---
 
 Tienes [Dockers by Gerli 43st201  Botas Militar para Mujer  Amarillo  Golden Tan 910   40 EU](https://www.amazon.es/dp/B07DJLP5RR/?tag=tolees-21) con un 52.14 % de descuento con precio de oferta de 28.69 EUR (original: 59.95 EUR) en el siguiente enlace!

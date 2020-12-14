@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00EXW476O/?tag=tolees-21'
 descuento: '51.19'
+average: '20.5'
 ---
 
 Ahora mismo tienes [Chopard Brilliant Wish Agua de perfume spray - 30 ml](https://www.amazon.es/dp/B00EXW476O/?tag=tolees-21) a 20.5 EUR (original: 42 EUR) (51.19 %  de descuento) en el siguiente enlace!

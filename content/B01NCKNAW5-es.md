@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NCKNAW5/?tag=tolees-21'
 descuento: '33.36'
+average: '119.95'
 ---
 
 Tienes [Wilson Raqueta de tenis unisex  Para juego de ataque en la línea de fondo  Para principiantes y expertos  Blade 101L  Medida 3  Negro/ Verde  WRT73380U3](https://www.amazon.es/dp/B01NCKNAW5/?tag=tolees-21) con un 33.36 % de descuento con precio de oferta de 119.95 EUR (original: 180 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00PCS6KV8/?tag=tolees-21'
 descuento: '74.32'
+average: '15.15'
 ---
 
 Ahora mismo tienes [Superga 2750 Cotu Classic Zapatillas  Unisex Adulto  Rosa  Pink Begonia   36 EU  3.5 UK ](https://www.amazon.es/dp/B00PCS6KV8/?tag=tolees-21) a 15.15 EUR (original: 59 EUR) (74.32 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MSHK6FM/?tag=tolees-21'
 descuento: '49.83'
+average: '15'
 ---
 
 Está [Ziu Smart Items - Sevilla Fútbol Club  Altavoz con Bluetooth. Blanco / Rojo](https://www.amazon.es/dp/B01MSHK6FM/?tag=tolees-21) con 49.83 de descuento por 15 EUR (original: 29.9 EUR) en el siguiente enlace!

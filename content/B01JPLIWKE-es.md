@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01JPLIWKE/?tag=tolees-21'
 descuento: '44.46'
+average: '6.67'
 ---
 
 Está [Base de Madera Sensor de Movimiento PIR LED Luz Lámpara Mesa Redonda Noche - 1](https://www.amazon.es/dp/B01JPLIWKE/?tag=tolees-21) con 44.46 de descuento por 6.67 EUR (original: 12.01 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000Y8SIF2/?tag=tolees-21'
 descuento: '64.91'
+average: '6.2'
 ---
 
 Está [RST - R.s.t. tacto suave bordeadora llana 6 x 3 pulgadas 8308](https://www.amazon.es/dp/B000Y8SIF2/?tag=tolees-21) con 64.91 de descuento por 6.2 EUR (original: 17.67 EUR) en el siguiente enlace!

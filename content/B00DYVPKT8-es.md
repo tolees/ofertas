@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00DYVPKT8/?tag=tolees-21'
 descuento: '70.71'
+average: '14.64'
 ---
 
 Ahora mismo tienes [Leotec Smartwatch Helse Color Gris](https://www.amazon.es/dp/B00DYVPKT8/?tag=tolees-21) a 14.64 EUR (original: 49.99 EUR) (70.71 %  de descuento) en el siguiente enlace!

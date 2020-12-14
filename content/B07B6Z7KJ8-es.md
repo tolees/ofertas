@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B6Z7KJ8/?tag=tolees-21'
 descuento: '53.14'
+average: '42.17'
 ---
 
 Está [New Balance Nitrel v2  Zapatillas de Running para Asfalto para Hombre  Azul  Galaxy/Polaris/Flame Lg2   44 EU](https://www.amazon.es/dp/B07B6Z7KJ8/?tag=tolees-21) con 53.14 de descuento por 42.17 EUR (original: 90 EUR) en el siguiente enlace!

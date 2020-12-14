@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FP3F5GJ/?tag=tolees-21'
 descuento: '44.21'
+average: '66.95'
 ---
 
 Tienes [The North Face Kids TNF Sudaderas  Niños  TNF Black  M](https://www.amazon.es/dp/B07FP3F5GJ/?tag=tolees-21) con un 44.21 % de descuento con precio de oferta de 66.95 EUR (original: 120 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01B6KZTDU/?tag=tolees-21'
 descuento: '72.16'
+average: '27.83'
 ---
 
 Está [Puma Ignite Dual  Zapatillas de Running Mujer  Negro  Puma Black-puma White 02   37 EU  4 UK ](https://www.amazon.es/dp/B01B6KZTDU/?tag=tolees-21) con 72.16 de descuento por 27.83 EUR (original: 99.95 EUR) en el siguiente enlace!

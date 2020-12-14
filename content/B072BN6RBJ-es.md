@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072BN6RBJ/?tag=tolees-21'
 descuento: '25.62'
+average: '17.85'
 ---
 
 Tienes [Purina Dentalife golosina dental para Perro Mediano 5 x 345 g](https://www.amazon.es/dp/B072BN6RBJ/?tag=tolees-21) con un 25.62 % de descuento con precio de oferta de 17.85 EUR (original: 24 EUR) en el siguiente enlace!

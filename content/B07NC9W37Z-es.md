@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NC9W37Z/?tag=tolees-21'
 descuento: '65.14'
+average: '13.91'
 ---
 
 Ahora mismo tienes [Pepe Jeans Blueburn Short Clover Bañador  Azul  Indigo 561   2 años  Talla del Fabricante: 2  para Niños](https://www.amazon.es/dp/B07NC9W37Z/?tag=tolees-21) a 13.91 EUR (original: 39.9 EUR) (65.14 %  de descuento) en el siguiente enlace!

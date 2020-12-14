@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0731BXMT7/?tag=tolees-21'
 descuento: '70.47'
+average: '27.24'
 ---
 
 Tienes [Trident luz y Suave 100% algodón Peinado Juego de Toallas  400 g/m²](https://www.amazon.es/dp/B0731BXMT7/?tag=tolees-21) con un 70.47 % de descuento con precio de oferta de 27.24 EUR (original: 92.23 EUR) en el siguiente enlace!

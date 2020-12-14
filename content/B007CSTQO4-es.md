@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007CSTQO4/?tag=tolees-21'
 descuento: '66.02'
+average: '10.5'
 ---
 
 Ahora mismo tienes [Remington PG180 Pilot - Cortadora para barba  bigote y patillas](https://www.amazon.es/dp/B007CSTQO4/?tag=tolees-21) a 10.5 EUR (original: 30.9 EUR) (66.02 %  de descuento) en el siguiente enlace!

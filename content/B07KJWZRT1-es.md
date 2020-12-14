@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KJWZRT1/?tag=tolees-21'
 descuento: '48.97'
+average: '30.61'
 ---
 
 Ahora mismo tienes [Quiksilver Krandy Walk Shorts  Hombre  Blue Nights  30](https://www.amazon.es/dp/B07KJWZRT1/?tag=tolees-21) a 30.61 EUR (original: 59.99 EUR) (48.97 %  de descuento) en el siguiente enlace!

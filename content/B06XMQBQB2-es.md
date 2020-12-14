@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XMQBQB2/?tag=tolees-21'
 descuento: '62.35'
+average: '6.57'
 ---
 
 Ahora mismo tienes [Tally Weijl -Blusa Mujer Marfil  Off White AQ  S](https://www.amazon.es/dp/B06XMQBQB2/?tag=tolees-21) a 6.57 EUR (original: 17.45 EUR) (62.35 %  de descuento) en el siguiente enlace!

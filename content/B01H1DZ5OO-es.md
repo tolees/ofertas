@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01H1DZ5OO/?tag=tolees-21'
 descuento: '60.55'
+average: '14.79'
 ---
 
 Está [Mascarilla barro de mar muerto  200g  - faciales de mar muerto arcillas pura purificante máscara negros aloe vera acne hidratante facial](https://www.amazon.es/dp/B01H1DZ5OO/?tag=tolees-21) con 60.55 de descuento por 14.79 EUR (original: 37.49 EUR) en el siguiente enlace!

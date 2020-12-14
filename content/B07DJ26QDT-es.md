@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ26QDT/?tag=tolees-21'
 descuento: '62.64'
+average: '33.62'
 ---
 
 Tienes [New Balance CRT300  Zapatillas para Hombre  Negro  Black/White Ho   47.5 EU](https://www.amazon.es/dp/B07DJ26QDT/?tag=tolees-21) con un 62.64 % de descuento con precio de oferta de 33.62 EUR (original: 90 EUR) en el siguiente enlace!

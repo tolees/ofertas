@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0728C1LND/?tag=tolees-21'
 descuento: '66.51'
+average: '38.51'
 ---
 
 Tienes [Merrell Cham 7 Limit Stretch  Zapatillas de Senderismo para Hombre  Gris Beluga  44.5 EU](https://www.amazon.es/dp/B0728C1LND/?tag=tolees-21) con un 66.51 % de descuento con precio de oferta de 38.51 EUR (original: 115 EUR) en el siguiente enlace!

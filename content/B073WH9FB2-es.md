@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073WH9FB2/?tag=tolees-21'
 descuento: '49.28'
+average: '15.19'
 ---
 
 Tienes [United Colors of Benetton Belt  Cinturón Mujer  Negro  Black 700   100  Talla del fabricante: Large ](https://www.amazon.es/dp/B073WH9FB2/?tag=tolees-21) con un 49.28 % de descuento con precio de oferta de 15.19 EUR (original: 29.95 EUR) en el siguiente enlace!

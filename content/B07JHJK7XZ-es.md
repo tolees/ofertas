@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JHJK7XZ/?tag=tolees-21'
 descuento: '57.45'
+average: '46.81'
 ---
 
 Ahora mismo tienes [Armani Exchange Bermuda Pantalones Cortos  Azul  Denim Indaco 1500   W30/L32  Talla del Fabricante: 30  para Hombre](https://www.amazon.es/dp/B07JHJK7XZ/?tag=tolees-21) a 46.81 EUR (original: 110 EUR) (57.45 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XV1GKZG/?tag=tolees-21'
 descuento: '69.08'
+average: '34.01'
 ---
 
 Está [Nike Wmns Air MAX Sequent 3  Zapatillas de Running para Mujer  Negro  Black/Anthracite 010   36.5 EU](https://www.amazon.es/dp/B06XV1GKZG/?tag=tolees-21) con 69.08 de descuento por 34.01 EUR (original: 110 EUR) en el siguiente enlace!

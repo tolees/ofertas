@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ3Y1M7/?tag=tolees-21'
 descuento: '26.00'
+average: '37'
 ---
 
 Tienes [Asics Patriot 10 GS  Zapatillas de Entrenamiento Unisex para Niños  Rosa  Fuchsia Purple/White 500   36 EU](https://www.amazon.es/dp/B07CZ3Y1M7/?tag=tolees-21) con un 26.00 % de descuento con precio de oferta de 37 EUR (original: 50 EUR) en el siguiente enlace!

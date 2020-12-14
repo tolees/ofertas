@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BNJQHN4/?tag=tolees-21'
 descuento: '65.54'
+average: '23.78'
 ---
 
 Ahora mismo tienes [Sedeta® 1PSC frente + 1PCS atrás silla de asiento de coche cubre Cojín interior automotriz de terciopelo de seda para conductor SUV asiento almohadilla protecor pad negro](https://www.amazon.es/dp/B07BNJQHN4/?tag=tolees-21) a 23.78 EUR (original: 69 EUR) (65.54 %  de descuento) en el siguiente enlace!

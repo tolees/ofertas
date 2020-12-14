@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC4MDSB/?tag=tolees-21'
 descuento: '60.42'
+average: '15.83'
 ---
 
 Ahora mismo tienes [LE COQ SPORTIF Deauville Inf Princess  Botas Unisex bebé  Negro  Black/Meadow Mauve Noir   23 EU](https://www.amazon.es/dp/B07DC4MDSB/?tag=tolees-21) a 15.83 EUR (original: 40 EUR) (60.42 %  de descuento) en el siguiente enlace!

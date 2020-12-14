@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07732VPPT/?tag=tolees-21'
 descuento: '35.05'
+average: '58.45'
 ---
 
 Está [Columbia Canyon Point Waterproof  Zapatillas de Senderismo  Impermeable para Hombre  Gris  Charcoal  Red Element   43.5 EU](https://www.amazon.es/dp/B07732VPPT/?tag=tolees-21) con 35.05 de descuento por 58.45 EUR (original: 89.99 EUR) en el siguiente enlace!

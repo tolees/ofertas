@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001GCTRUA/?tag=tolees-21'
 descuento: '52.97'
+average: '30.57'
 ---
 
 Está [Nike MD Runner 2 Shoe Zapatillas de Running  Hombre  Gris  Light Bone/Obsidian 009   45 EU](https://www.amazon.es/dp/B001GCTRUA/?tag=tolees-21) con 52.97 de descuento por 30.57 EUR (original: 65 EUR) en el siguiente enlace!

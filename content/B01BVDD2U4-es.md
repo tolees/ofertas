@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BVDD2U4/?tag=tolees-21'
 descuento: '39.86'
+average: '21.02'
 ---
 
 Está [EasyToys Vibe Collection ET265PNK Pink Charm - 284 gr](https://www.amazon.es/dp/B01BVDD2U4/?tag=tolees-21) con 39.86 de descuento por 21.02 EUR (original: 34.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B006GX0ENI/?tag=tolees-21'
 descuento: '38.23'
+average: '40.15'
 ---
 
 Tienes [Vans Authentic - Zapatillas de Tela  Unisex  color Borgoña  port royale/black   talla 36.5 EU](https://www.amazon.es/dp/B006GX0ENI/?tag=tolees-21) con un 38.23 % de descuento con precio de oferta de 40.15 EUR (original: 65 EUR) en el siguiente enlace!

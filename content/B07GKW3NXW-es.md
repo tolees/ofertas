@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GKW3NXW/?tag=tolees-21'
 descuento: '82.02'
+average: '8.99'
 ---
 
 Está [LANGRIA Juego de 4 Vasos de Whisky de Vidrio Incoloro  Estilo Tradicional y Originales Hechos con Cristal sin Plomo  Se Pueden Lavar en el Lavavajillas  Capacidad 30cl  Lote Regalo  4 Unidades ](https://www.amazon.es/dp/B07GKW3NXW/?tag=tolees-21) con 82.02 de descuento por 8.99 EUR (original: 49.99 EUR) en el siguiente enlace!

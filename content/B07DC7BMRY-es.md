@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC7BMRY/?tag=tolees-21'
 descuento: '44.36'
+average: '38.95'
 ---
 
 Ahora mismo tienes [LE COQ SPORTIF Deauville Craft Dress Blue/Brown Sugar  Zapatillas para Hombre  Azul Bleu  43 EU](https://www.amazon.es/dp/B07DC7BMRY/?tag=tolees-21) a 38.95 EUR (original: 70 EUR) (44.36 %  de descuento) en el siguiente enlace!

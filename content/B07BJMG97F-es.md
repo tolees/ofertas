@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BJMG97F/?tag=tolees-21'
 descuento: '47.43'
+average: '14'
 ---
 
 Ahora mismo tienes [Nike SX7167 Socks  Unisex Adulto  White/Black  L](https://www.amazon.es/dp/B07BJMG97F/?tag=tolees-21) a 14 EUR (original: 26.63 EUR) (47.43 %  de descuento) en el siguiente enlace!

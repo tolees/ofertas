@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J56CB6P/?tag=tolees-21'
 descuento: '41.75'
+average: '34.95'
 ---
 
 Tienes [Dockers Alpha Core Short Pantalones Cortos  Beige  Italian Straw 0007   W40 para Hombre](https://www.amazon.es/dp/B07J56CB6P/?tag=tolees-21) con un 41.75 % de descuento con precio de oferta de 34.95 EUR (original: 60 EUR) en el siguiente enlace!

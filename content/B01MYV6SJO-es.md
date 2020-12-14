@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MYV6SJO/?tag=tolees-21'
 descuento: '37.57'
+average: '5.5'
 ---
 
 Está [REPSOL MOTO SCOOTER 2T](https://www.amazon.es/dp/B01MYV6SJO/?tag=tolees-21) con 37.57 de descuento por 5.5 EUR (original: 8.81 EUR) en el siguiente enlace!

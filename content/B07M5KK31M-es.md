@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M5KK31M/?tag=tolees-21'
 descuento: '46.13'
+average: '26.93'
 ---
 
 Está [MTNG Attitude 84214  Zapatillas para Hombre  Azul  Brisbane Isabela Mesh Marino/Tano Blanco C45106   41 EU](https://www.amazon.es/dp/B07M5KK31M/?tag=tolees-21) con 46.13 de descuento por 26.93 EUR (original: 49.99 EUR) en el siguiente enlace!

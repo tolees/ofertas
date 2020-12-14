@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B011UZLW50/?tag=tolees-21'
 descuento: '62.34'
+average: '31.99'
 ---
 
 Está [Puma Suede Classic+  Zapatillas Unisex Adulto  Azul  Olympian Blue/White 64   39 EU](https://www.amazon.es/dp/B011UZLW50/?tag=tolees-21) con 62.34 de descuento por 31.99 EUR (original: 84.95 EUR) en el siguiente enlace!

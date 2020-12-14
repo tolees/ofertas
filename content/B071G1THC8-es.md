@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071G1THC8/?tag=tolees-21'
 descuento: '28.61'
+average: '15.42'
 ---
 
 Ahora mismo tienes [Multipack de 4 tarrinas de 150g clásicos selección  |  [Pack de 6]](https://www.amazon.es/dp/B071G1THC8/?tag=tolees-21) a 15.42 EUR (original: 21.6 EUR) (28.61 %  de descuento) en el siguiente enlace!

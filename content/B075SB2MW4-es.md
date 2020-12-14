@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075SB2MW4/?tag=tolees-21'
 descuento: '42.56'
+average: '26.99'
 ---
 
 Tienes [Welhome 100% algodón conjunto 8 pieza toalla  ropa ; 2 toallas de baño  2 toallas de mano y 4 Estropajos  lavable a máquina](https://www.amazon.es/dp/B075SB2MW4/?tag=tolees-21) con un 42.56 % de descuento con precio de oferta de 26.99 EUR (original: 46.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IUL1UKU/?tag=tolees-21'
 descuento: '53.52'
+average: '33.44'
 ---
 
 Está [Real Feel Deluxe Vibrador Clásico Negro - 649 gr](https://www.amazon.es/dp/B00IUL1UKU/?tag=tolees-21) con 53.52 de descuento por 33.44 EUR (original: 71.95 EUR) en el siguiente enlace!

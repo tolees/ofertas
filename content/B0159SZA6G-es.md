@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0159SZA6G/?tag=tolees-21'
 descuento: '50.00'
+average: '19.5'
 ---
 
 Tienes [Apple Funda Silicone Case  para el iPhone 6s  -  PRODUCT RED](https://www.amazon.es/dp/B0159SZA6G/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 19.5 EUR (original: 39 EUR) en el siguiente enlace!

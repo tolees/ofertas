@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GNGHMSC/?tag=tolees-21'
 descuento: '26.93'
+average: '18.99'
 ---
 
 Está [HOMELODY Desagüe para Lavabo Universal Válvula Pop Up de Drenaje Cobre Tapones Válvula Desagüe con Rebosadero](https://www.amazon.es/dp/B07GNGHMSC/?tag=tolees-21) con 26.93 de descuento por 18.99 EUR (original: 25.99 EUR) en el siguiente enlace!

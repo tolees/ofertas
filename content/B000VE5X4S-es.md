@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000VE5X4S/?tag=tolees-21'
 descuento: '50.89'
+average: '67'
 ---
 
 Tienes [Casio Reloj Digital para Hombre de Cuarzo con Correa en Resina G-7700-1ER](https://www.amazon.es/dp/B000VE5X4S/?tag=tolees-21) con un 50.89 % de descuento con precio de oferta de 67 EUR (original: 136.44 EUR) en el siguiente enlace!

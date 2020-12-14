@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00J8OP6GW/?tag=tolees-21'
 descuento: '27.29'
+average: '19.56'
 ---
 
 Ahora mismo tienes [Scitec Nutrition Whey Protein Professional proteína chocolate 920 g](https://www.amazon.es/dp/B00J8OP6GW/?tag=tolees-21) a 19.56 EUR (original: 26.9 EUR) (27.29 %  de descuento) en el siguiente enlace!

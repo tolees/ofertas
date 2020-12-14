@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06X6B2CFP/?tag=tolees-21'
 descuento: '45.00'
+average: '99'
 ---
 
 Ahora mismo tienes [Volcom Ken  Mocasines para Hombre  Negro  Schwarz 001   40.5 EU](https://www.amazon.es/dp/B06X6B2CFP/?tag=tolees-21) a 99 EUR (original: 180 EUR) (45.00 %  de descuento) en el siguiente enlace!

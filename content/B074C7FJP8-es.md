@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074C7FJP8/?tag=tolees-21'
 descuento: '86.37'
+average: '13.62'
 ---
 
 Ahora mismo tienes [DC Shoes Evan Hi WNT  Zapatillas para Mujer  Negro White/Black  36 EU](https://www.amazon.es/dp/B074C7FJP8/?tag=tolees-21) a 13.62 EUR (original: 99.95 EUR) (86.37 %  de descuento) en el siguiente enlace!

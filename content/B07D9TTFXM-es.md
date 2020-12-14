@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9TTFXM/?tag=tolees-21'
 descuento: '68.52'
+average: '22.02'
 ---
 
 Está [Puma Court Star FS  Zapatillas Unisex Adulto  Naranja  Dusty Coral-Puma White 05   47 EU](https://www.amazon.es/dp/B07D9TTFXM/?tag=tolees-21) con 68.52 de descuento por 22.02 EUR (original: 69.95 EUR) en el siguiente enlace!

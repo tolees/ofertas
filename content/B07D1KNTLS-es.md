@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D1KNTLS/?tag=tolees-21'
 descuento: '65.05'
+average: '34.95'
 ---
 
 Ahora mismo tienes [Asics Gel-Phoenix 9  Zapatillas de Entrenamiento para Mujer  Rojo  Fuchsia Red/White 600   37.5 EU](https://www.amazon.es/dp/B07D1KNTLS/?tag=tolees-21) a 34.95 EUR (original: 100 EUR) (65.05 %  de descuento) en el siguiente enlace!

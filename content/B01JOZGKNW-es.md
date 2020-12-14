@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01JOZGKNW/?tag=tolees-21'
 descuento: '92.09'
+average: '6.25'
 ---
 
 Está [Intimax Atenea  Corsé para Mujer  Plateado  Plata   6XL](https://www.amazon.es/dp/B01JOZGKNW/?tag=tolees-21) con 92.09 de descuento por 6.25 EUR (original: 79 EUR) en el siguiente enlace!

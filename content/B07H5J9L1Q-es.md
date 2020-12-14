@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H5J9L1Q/?tag=tolees-21'
 descuento: '32.62'
+average: '30.99'
 ---
 
 Está [URCERI Lijadora Eléctrica Orbital de 5 pulgadas  380w  6 velocidad variable de hasta 13000 rpm  con 12pcs papeles de lija  función de recoger polvo](https://www.amazon.es/dp/B07H5J9L1Q/?tag=tolees-21) con 32.62 de descuento por 30.99 EUR (original: 45.99 EUR) en el siguiente enlace!

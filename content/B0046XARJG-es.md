@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0046XARJG/?tag=tolees-21'
 descuento: '80.51'
+average: '7.2'
 ---
 
 Está [Kingston SDC4/32GBSP - Tarjeta microSD de 32 GB Clase 4 sin Adaptador](https://www.amazon.es/dp/B0046XARJG/?tag=tolees-21) con 80.51 de descuento por 7.2 EUR (original: 36.95 EUR) en el siguiente enlace!

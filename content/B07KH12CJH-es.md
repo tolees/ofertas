@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KH12CJH/?tag=tolees-21'
 descuento: '60.89'
+average: '10.95'
 ---
 
 Está [Burton Classic Mountain High Camisetas  Hombre  Gray Heather  L](https://www.amazon.es/dp/B07KH12CJH/?tag=tolees-21) con 60.89 de descuento por 10.95 EUR (original: 28 EUR) en el siguiente enlace!

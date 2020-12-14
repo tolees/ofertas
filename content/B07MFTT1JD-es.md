@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MFTT1JD/?tag=tolees-21'
 descuento: '30.12'
+average: '5.59'
 ---
 
 Ahora mismo tienes [Pecho Papilla Clip Pareja Juego SM Pezón Abrazaderas con Metal Sex Producto Clip de Pecho Sexy Plumas par burlarse y coquetear  Morado ](https://www.amazon.es/dp/B07MFTT1JD/?tag=tolees-21) a 5.59 EUR (original: 8 EUR) (30.12 %  de descuento) en el siguiente enlace!

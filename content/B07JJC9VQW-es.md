@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JJC9VQW/?tag=tolees-21'
 descuento: '46.00'
+average: '54'
 ---
 
 Está [Armani Exchange Colour Block suéter  Azul  Navy/Marine 05bn   X-Large para Hombre](https://www.amazon.es/dp/B07JJC9VQW/?tag=tolees-21) con 46.00 de descuento por 54 EUR (original: 100 EUR) en el siguiente enlace!

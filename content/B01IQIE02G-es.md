@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IQIE02G/?tag=tolees-21'
 descuento: '31.78'
+average: '88.68'
 ---
 
 Tienes [Osprey Tempest 30 Women s Hiking Pack - Iris Blue  WS/WM ](https://www.amazon.es/dp/B01IQIE02G/?tag=tolees-21) con un 31.78 % de descuento con precio de oferta de 88.68 EUR (original: 130 EUR) en el siguiente enlace!

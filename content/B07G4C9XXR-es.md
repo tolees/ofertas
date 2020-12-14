@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G4C9XXR/?tag=tolees-21'
 descuento: '63.35'
+average: '25.64'
 ---
 
 Ahora mismo tienes [BOSS Pike  Pantalones Cortos Hombre  Azul  Medium Blue 422   Medium](https://www.amazon.es/dp/B07G4C9XXR/?tag=tolees-21) a 25.64 EUR (original: 69.95 EUR) (63.35 %  de descuento) en el siguiente enlace!

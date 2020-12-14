@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PDWCM7C/?tag=tolees-21'
 descuento: '40.01'
+average: '23.99'
 ---
 
 Ahora mismo tienes [CroLED Lámpara Antimosquitos Lámpara UV Anti Mosquitos Electrónica 9W Trampas para Insectos Matamoscas/Mata Mosquitos Sin Químicos Sin Olor Alcance Efectivo 30-40m²](https://www.amazon.es/dp/B07PDWCM7C/?tag=tolees-21) a 23.99 EUR (original: 39.99 EUR) (40.01 %  de descuento) en el siguiente enlace!

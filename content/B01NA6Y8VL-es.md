@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NA6Y8VL/?tag=tolees-21'
 descuento: '30.36'
+average: '27.82'
 ---
 
 Tienes [XS Natural for Men - Crema Reductora y Quemagrasas para hombre](https://www.amazon.es/dp/B01NA6Y8VL/?tag=tolees-21) con un 30.36 % de descuento con precio de oferta de 27.82 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00V5LQSHC/?tag=tolees-21'
 descuento: '49.75'
+average: '13.95'
 ---
 
 Ahora mismo tienes [Kempa - Emotion L/S  Color Rojo  Talla L](https://www.amazon.es/dp/B00V5LQSHC/?tag=tolees-21) a 13.95 EUR (original: 27.76 EUR) (49.75 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0090PJ2PK/?tag=tolees-21'
 descuento: '28.60'
+average: '12.78'
 ---
 
 Ahora mismo tienes [Curver 193009 - Cesta de ropa Natural Style  con tapa configurable  40 L  color chocolate](https://www.amazon.es/dp/B0090PJ2PK/?tag=tolees-21) a 12.78 EUR (original: 17.9 EUR) (28.60 %  de descuento) en el siguiente enlace!

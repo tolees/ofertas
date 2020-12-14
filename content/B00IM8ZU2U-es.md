@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IM8ZU2U/?tag=tolees-21'
 descuento: '34.77'
+average: '71.1'
 ---
 
 Está [Domoclip DOP101 - Máquina para hacer pasta  180 W  color blanco](https://www.amazon.es/dp/B00IM8ZU2U/?tag=tolees-21) con 34.77 de descuento por 71.1 EUR (original: 109 EUR) en el siguiente enlace!

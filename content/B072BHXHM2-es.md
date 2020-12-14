@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072BHXHM2/?tag=tolees-21'
 descuento: '68.95'
+average: '24.84'
 ---
 
 Ahora mismo tienes [SELECTED HOMME Shnskinny-Pete 1005 Grey St JNS Noos  Jeans Ajustados Hombre  Gris  Grey   W32/L36  Talla del Fabricante: 32 ](https://www.amazon.es/dp/B072BHXHM2/?tag=tolees-21) a 24.84 EUR (original: 79.99 EUR) (68.95 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00V2AHT0Q/?tag=tolees-21'
 descuento: '46.02'
+average: '8.61'
 ---
 
 Ahora mismo tienes [Belgo Prism Zizi Tapón Anal Two Finger Transparente - 115 gr](https://www.amazon.es/dp/B00V2AHT0Q/?tag=tolees-21) a 8.61 EUR (original: 15.95 EUR) (46.02 %  de descuento) en el siguiente enlace!

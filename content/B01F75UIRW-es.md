@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01F75UIRW/?tag=tolees-21'
 descuento: '66.76'
+average: '4.65'
 ---
 
 Está [Pocket POP! Keychain - DC: Superman](https://www.amazon.es/dp/B01F75UIRW/?tag=tolees-21) con 66.76 de descuento por 4.65 EUR (original: 13.99 EUR) en el siguiente enlace!

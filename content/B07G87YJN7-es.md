@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G87YJN7/?tag=tolees-21'
 descuento: '33.32'
+average: '20.45'
 ---
 
 Ahora mismo tienes [Skyscraper: El Rascacielos - Edición Metálica Exclusiva Amazon  4K UHD + BD + DVDs Extras  [Blu-ray]](https://www.amazon.es/dp/B07G87YJN7/?tag=tolees-21) a 20.45 EUR (original: 30.67 EUR) (33.32 %  de descuento) en el siguiente enlace!

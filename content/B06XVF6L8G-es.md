@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XVF6L8G/?tag=tolees-21'
 descuento: '65.52'
+average: '12.06'
 ---
 
 Ahora mismo tienes [Sundried Mallas de Deporte  de Rendimiento  para Gimnasio  para Yoga   Grandes ](https://www.amazon.es/dp/B06XVF6L8G/?tag=tolees-21) a 12.06 EUR (original: 34.98 EUR) (65.52 %  de descuento) en el siguiente enlace!

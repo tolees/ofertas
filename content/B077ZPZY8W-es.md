@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077ZPZY8W/?tag=tolees-21'
 descuento: '78.60'
+average: '8.99'
 ---
 
 Está [Anna Smith Las señoras Loose Fitting Tops  Womens Cute Pullover Dress Around Neck Elegantes Camisas Elegantes Acampanados Color Combination Túnicas para Polainas Sudaderas para niñas Purple L](https://www.amazon.es/dp/B077ZPZY8W/?tag=tolees-21) con 78.60 de descuento por 8.99 EUR (original: 42 EUR) en el siguiente enlace!

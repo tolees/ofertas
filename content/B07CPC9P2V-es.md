@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CPC9P2V/?tag=tolees-21'
 descuento: '45.29'
+average: '32.82'
 ---
 
 Tienes [Hitman - Definitive Edition Day One](https://www.amazon.es/dp/B07CPC9P2V/?tag=tolees-21) con un 45.29 % de descuento con precio de oferta de 32.82 EUR (original: 59.99 EUR) en el siguiente enlace!

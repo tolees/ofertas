@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LSEQS7U/?tag=tolees-21'
 descuento: '41.19'
+average: '19.99'
 ---
 
 Ahora mismo tienes [Aigostar Rob 30IGQ - Hervidor de agua de 1 7 litros  potencia de 2200 W  libre de BPA  acero inoxidable pulido de grado 304 y sistema de protección contra la ebullición en seco. Diseño exclusivo.](https://www.amazon.es/dp/B01LSEQS7U/?tag=tolees-21) a 19.99 EUR (original: 33.99 EUR) (41.19 %  de descuento) en el siguiente enlace!

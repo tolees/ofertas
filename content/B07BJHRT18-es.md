@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BJHRT18/?tag=tolees-21'
 descuento: '49.97'
+average: '50'
 ---
 
 Está [G-Star Raw 3301 Straight  Jeans Dritto Uomo  Blu  rinsed 7209-082   W32/L32](https://www.amazon.es/dp/B07BJHRT18/?tag=tolees-21) con 49.97 de descuento por 50 EUR (original: 99.95 EUR) en el siguiente enlace!

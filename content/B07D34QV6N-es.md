@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D34QV6N/?tag=tolees-21'
 descuento: '84.15'
+average: '9.37'
 ---
 
 Ahora mismo tienes [Yoleo - Plegable Negro Negro](https://www.amazon.es/dp/B07D34QV6N/?tag=tolees-21) a 9.37 EUR (original: 59.13 EUR) (84.15 %  de descuento) en el siguiente enlace!

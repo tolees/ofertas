@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0761YLQ2J/?tag=tolees-21'
 descuento: '40.08'
+average: '35.95'
 ---
 
 Está [Nike Downshifter 8  Zapatillas de Entrenamiento para Mujer  Gris  Wolf Metallic Dark Cool Grey-Black 006   40 EU](https://www.amazon.es/dp/B0761YLQ2J/?tag=tolees-21) con 40.08 de descuento por 35.95 EUR (original: 60 EUR) en el siguiente enlace!

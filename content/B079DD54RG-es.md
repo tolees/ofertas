@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079DD54RG/?tag=tolees-21'
 descuento: '68.73'
+average: '25.02'
 ---
 
 Está [Globe Sprout Mid  Zapatillas de Deporte para Hombre  Marrón  Dark Caramel/White 000   41 EU](https://www.amazon.es/dp/B079DD54RG/?tag=tolees-21) con 68.73 de descuento por 25.02 EUR (original: 80 EUR) en el siguiente enlace!

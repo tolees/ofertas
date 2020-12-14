@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HZNJWQM/?tag=tolees-21'
 descuento: '63.01'
+average: '569.57'
 ---
 
 Está [FLEX Colchón muelles continuos Palace Visco Firmeza Media  150 x 200 cm](https://www.amazon.es/dp/B01HZNJWQM/?tag=tolees-21) con 63.01 de descuento por 569.57 EUR (original: 1540 EUR) en el siguiente enlace!

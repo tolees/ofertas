@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073RJXKP6/?tag=tolees-21'
 descuento: '58.69'
+average: '26.83'
 ---
 
 Está [Reebok Trainflex Lite  Zapatillas de Deporte para Mujer  Naranja  Sour Melon/Cloud Grey/White   38.5 EU](https://www.amazon.es/dp/B073RJXKP6/?tag=tolees-21) con 58.69 de descuento por 26.83 EUR (original: 64.95 EUR) en el siguiente enlace!

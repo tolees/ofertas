@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B2V7GW9/?tag=tolees-21'
 descuento: '71.90'
+average: '8.99'
 ---
 
 Está [Lifewit Bolsa Térmica Porta Alimentos de Almuerzo Bento Bolsa de Almuerzo Aislada para Adultos/Hombres/Mujeres Trabajo Oficina y Escuela  Gris](https://www.amazon.es/dp/B07B2V7GW9/?tag=tolees-21) con 71.90 de descuento por 8.99 EUR (original: 31.99 EUR) en el siguiente enlace!

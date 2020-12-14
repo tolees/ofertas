@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00FL7IXV0/?tag=tolees-21'
 descuento: '47.09'
+average: '76.66666666666667'
 ---
 
 Está [Reloj Emporio Armani para Hombre AX2501  Marrón](https://www.amazon.es/dp/B00FL7IXV0/?tag=tolees-21) con 47.09 de descuento por 75.0 EUR (original: 141.75 EUR) en el siguiente enlace!
@@ -24,9 +25,9 @@ Está [Reloj Emporio Armani para Hombre AX2501  Marrón](https://www.amazon.es/d
 
 ℹ️:
 
-- Tamaño de la caja: 45 mm – Grosor de la caja: 12 mm
-- Embalado en caja de Armani Exchange reloj
 - Movimiento: Cuarzo – Material de la correa: cuero
 - Anchura de la correa: 22 mm, circunferencia de la banda: 200 +/-5 mm)
+- Tamaño de la caja: 45 mm – Grosor de la caja: 12 mm
+- Embalado en caja de Armani Exchange reloj
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00FL7IXV0/?tag=tolees-21)

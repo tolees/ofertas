@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079NVGM46/?tag=tolees-21'
 descuento: '26.23'
+average: '36.88'
 ---
 
 Ahora mismo tienes [AMASAVA Maletín para Maquillaje  Estuche de maquillaje  Estuche de cosméticos  36 x 21.5 x 25.5 cm  en ABS de aluminio  con cerradura  4 bandejas  rosa](https://www.amazon.es/dp/B079NVGM46/?tag=tolees-21) a 36.88 EUR (original: 49.99 EUR) (26.23 %  de descuento) en el siguiente enlace!

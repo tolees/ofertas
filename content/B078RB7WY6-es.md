@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078RB7WY6/?tag=tolees-21'
 descuento: '44.44'
+average: '18.99'
 ---
 
 Está [MagiDeal Arnés de Seguridad Escalada Arboristas Tala Inspección Emergencia Correa Protección contra Caídas con Mosquetón](https://www.amazon.es/dp/B078RB7WY6/?tag=tolees-21) con 44.44 de descuento por 18.99 EUR (original: 34.18 EUR) en el siguiente enlace!

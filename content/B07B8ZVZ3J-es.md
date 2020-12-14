@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B8ZVZ3J/?tag=tolees-21'
 descuento: '50.54'
+average: '19.78'
 ---
 
 Tienes [Gant 3 Pack Trunk CTN STP  Bañador para Hombre  Azul  Yale Blue 436  Small](https://www.amazon.es/dp/B07B8ZVZ3J/?tag=tolees-21) con un 50.54 % de descuento con precio de oferta de 19.78 EUR (original: 39.99 EUR) en el siguiente enlace!

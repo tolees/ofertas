@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077SS2JW1/?tag=tolees-21'
 descuento: '63.18'
+average: '29.44'
 ---
 
 Ahora mismo tienes [Puma Ignite Flash Evoknit Wn s  Zapatillas de Running para Mujer  Gris  Laurel Wreath-Quarry-Biscay Green 10   40.5 EU](https://www.amazon.es/dp/B077SS2JW1/?tag=tolees-21) a 29.44 EUR (original: 79.95 EUR) (63.18 %  de descuento) en el siguiente enlace!

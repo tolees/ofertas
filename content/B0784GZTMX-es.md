@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0784GZTMX/?tag=tolees-21'
 descuento: '54.29'
+average: '22.4'
 ---
 
 Está [Superga 2750-cotbumpstrapj  Zapatillas de Gimnasia Unisex Niños  Blanco  White 901   24 EU](https://www.amazon.es/dp/B0784GZTMX/?tag=tolees-21) con 54.29 de descuento por 22.4 EUR (original: 49 EUR) en el siguiente enlace!

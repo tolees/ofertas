@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B4SXD49/?tag=tolees-21'
 descuento: '77.67'
+average: '26.78'
 ---
 
 Tienes [G-STAR RAW Bronson Pleated Relaxed Tapered Chino  Pantalon para Hombre  Beige  dk Brick 9405-1214   29W / 32L](https://www.amazon.es/dp/B07B4SXD49/?tag=tolees-21) con un 77.67 % de descuento con precio de oferta de 26.78 EUR (original: 119.95 EUR) en el siguiente enlace!

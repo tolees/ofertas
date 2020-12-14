@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0072SKAPI/?tag=tolees-21'
 descuento: '53.67'
+average: '4.54'
 ---
 
 Tienes [The Platinum Collection  3cd](https://www.amazon.es/dp/B0072SKAPI/?tag=tolees-21) con un 53.67 % de descuento con precio de oferta de 4.54 EUR (original: 9.8 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017XP0J5K/?tag=tolees-21'
 descuento: '42.80'
+average: '62.92'
 ---
 
 Está [Helly Hansen Seven J Jacket  Hombre  Ebony  2XL](https://www.amazon.es/dp/B017XP0J5K/?tag=tolees-21) con 42.80 de descuento por 62.92 EUR (original: 110 EUR) en el siguiente enlace!

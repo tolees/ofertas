@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B016UOIHPO/?tag=tolees-21'
 descuento: '58.18'
+average: '25.09'
 ---
 
 Está [Trust Urban Ambus - Altavoz portátil con Bluetooth para Exteriores  Resistente al Agua IPX5  Negro y Amarillo](https://www.amazon.es/dp/B016UOIHPO/?tag=tolees-21) con 58.18 de descuento por 25.09 EUR (original: 59.99 EUR) en el siguiente enlace!

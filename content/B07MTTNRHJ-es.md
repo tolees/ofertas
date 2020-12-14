@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MTTNRHJ/?tag=tolees-21'
 descuento: '50.01'
+average: '17.99'
 ---
 
 Está [Saco de dormir con cremallera y saco de compresión  ligero viaje y hoja de camping para exteriores  albergues  mochileros  picnic  aviones  trenes para evitar la suciedad  30 pulgadas x 85 pulgadas ](https://www.amazon.es/dp/B07MTTNRHJ/?tag=tolees-21) con 50.01 de descuento por 17.99 EUR (original: 35.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MDKWFG8/?tag=tolees-21'
 descuento: '36.12'
+average: '22.99'
 ---
 
 Tienes [ShinePick Cascos PS4 Camuflaje  Auriculares Gaming con Microfono Diadema Ajustable  Bass OverEar 3 5mm Jack  Luz LED  Control de Volumen  Bajo Ruido para PS4/Xbox One/PC/Móvil  Camuflaje ](https://www.amazon.es/dp/B07MDKWFG8/?tag=tolees-21) con un 36.12 % de descuento con precio de oferta de 22.99 EUR (original: 35.99 EUR) en el siguiente enlace!

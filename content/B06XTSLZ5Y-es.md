@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XTSLZ5Y/?tag=tolees-21'
 descuento: '60.04'
+average: '19.96'
 ---
 
 Ahora mismo tienes [Spagnolo 154077747083  Pantalones para Hombre  Beige  W44/L34 Tamaño del Fabricante:44 ](https://www.amazon.es/dp/B06XTSLZ5Y/?tag=tolees-21) a 19.96 EUR (original: 49.95 EUR) (60.04 %  de descuento) en el siguiente enlace!

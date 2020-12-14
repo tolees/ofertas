@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GO71PJW/?tag=tolees-21'
 descuento: '42.62'
+average: '91.24'
 ---
 
 Tienes [Energy Sistem MAX 2+ - Smartphone de 5.5"  Quad Core Arm Cortex A53 1.3 GHz  Xtreme Sound  cámara de 13 MP  Memoria Interna de 16 GB  2 GB de RAM  Android 6.0   Color Azul](https://www.amazon.es/dp/B01GO71PJW/?tag=tolees-21) con un 42.62 % de descuento con precio de oferta de 91.24 EUR (original: 159 EUR) en el siguiente enlace!

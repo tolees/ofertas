@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B008BHA21G/?tag=tolees-21'
 descuento: '59.76'
+average: '8.95'
 ---
 
 Ahora mismo tienes [Spalding Bekleidung Teamsport MVP Shorts - Pantalones cortos de baloncesto para hombre  color blanco/azul  talla XXXXL](https://www.amazon.es/dp/B008BHA21G/?tag=tolees-21) a 8.95 EUR (original: 22.24 EUR) (59.76 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H9LYXHG/?tag=tolees-21'
 descuento: '40.00'
+average: '60'
 ---
 
 Está [TRUTH & FABLE Jcm40478 Vestidos de Fiesta para Bodas  Multicoloured  40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B07H9LYXHG/?tag=tolees-21) con 40.00 de descuento por 60 EUR (original: 100 EUR) en el siguiente enlace!

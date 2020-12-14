@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01AWG58VM/?tag=tolees-21'
 descuento: '25.33'
+average: '245.68'
 ---
 
 Ahora mismo tienes [LG 29UM58- Monitor UltraWide de 72 cm  29 pulgadas  Full HD  IPS  LED  2560 x 1080 pixeles  5 ms  21:9  250 cd/m2  Color Negro](https://www.amazon.es/dp/B01AWG58VM/?tag=tolees-21) a 245.68 EUR (original: 329 EUR) (25.33 %  de descuento) en el siguiente enlace!

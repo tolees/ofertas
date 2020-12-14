@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DBZ9MF3/?tag=tolees-21'
 descuento: '70.52'
+average: '23.57'
 ---
 
 Está [Puma Amp XT Wn s  Zapatillas de Deporte para Mujer  Gris  Charcoal Gray White   37 EU](https://www.amazon.es/dp/B07DBZ9MF3/?tag=tolees-21) con 70.52 de descuento por 23.57 EUR (original: 79.95 EUR) en el siguiente enlace!

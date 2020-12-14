@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000OVUPXC/?tag=tolees-21'
 descuento: '66.98'
+average: '8.91'
 ---
 
 Tienes [L Oréal Paris 47418  Polvo bronceador](https://www.amazon.es/dp/B000OVUPXC/?tag=tolees-21) con un 66.98 % de descuento con precio de oferta de 8.91 EUR (original: 26.98 EUR) en el siguiente enlace!

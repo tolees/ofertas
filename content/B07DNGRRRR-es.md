@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DNGRRRR/?tag=tolees-21'
 descuento: '44.45'
+average: '49.99'
 ---
 
 Está [Auriculares Bluetooth Kingsky Auriculares Verdaderamente Inalámbricos Mini Auriculares In-Ear Auriculares sin cables con Control Táctil y Manos Libres  Twilight ](https://www.amazon.es/dp/B07DNGRRRR/?tag=tolees-21) con 44.45 de descuento por 49.99 EUR (original: 89.99 EUR) en el siguiente enlace!

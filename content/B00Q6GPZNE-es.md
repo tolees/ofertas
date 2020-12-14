@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00Q6GPZNE/?tag=tolees-21'
 descuento: '48.60'
+average: '17.99'
 ---
 
 Tienes [CRZ YOGA - Sujetador Deportivo Yoga Cruzados Espalda Sin Aros para Mujer Azul Claro M](https://www.amazon.es/dp/B00Q6GPZNE/?tag=tolees-21) con un 48.60 % de descuento con precio de oferta de 17.99 EUR (original: 35 EUR) en el siguiente enlace!

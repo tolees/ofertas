@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B9M81FV/?tag=tolees-21'
 descuento: '40.00'
+average: '89.4'
 ---
 
 Está [Tous Shopping Teatime  Shopper para Mujer  Multicolor  Gris/Negro  10.5x29x36.5 cm  W x H x L ](https://www.amazon.es/dp/B07B9M81FV/?tag=tolees-21) con 40.00 de descuento por 89.4 EUR (original: 149 EUR) en el siguiente enlace!

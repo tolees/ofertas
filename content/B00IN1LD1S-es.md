@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IN1LD1S/?tag=tolees-21'
 descuento: '28.52'
+average: '50'
 ---
 
 Ahora mismo tienes [Bestway 8320539 Bomba para vaciar Piscinas  29x29x28 cm](https://www.amazon.es/dp/B00IN1LD1S/?tag=tolees-21) a 50 EUR (original: 69.95 EUR) (28.52 %  de descuento) en el siguiente enlace!

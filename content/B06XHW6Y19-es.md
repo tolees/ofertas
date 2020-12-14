@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XHW6Y19/?tag=tolees-21'
 descuento: '51.05'
+average: '5.36'
 ---
 
 Está [Joma Tokio II Pantalones Cortos  Hombre   Blanco/Negro   S](https://www.amazon.es/dp/B06XHW6Y19/?tag=tolees-21) con 51.05 de descuento por 5.36 EUR (original: 10.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07Q6GVLFP/?tag=tolees-21'
 descuento: '30.01'
+average: '27.96'
 ---
 
 Está [G-STAR RAW Dend Swimshort Pantalones Cortos  Verde  Sage 724   Large para Hombre](https://www.amazon.es/dp/B07Q6GVLFP/?tag=tolees-21) con 30.01 de descuento por 27.96 EUR (original: 39.95 EUR) en el siguiente enlace!

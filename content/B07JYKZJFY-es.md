@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JYKZJFY/?tag=tolees-21'
 descuento: '63.25'
+average: '14.68'
 ---
 
 Está [adidas Nemeziz Messi 18.4 TF J  Zapatillas de Fútbol para Niños  Rojo Active Red/Silber/Foil/Football Blue  38 2/3 EU](https://www.amazon.es/dp/B07JYKZJFY/?tag=tolees-21) con 63.25 de descuento por 14.68 EUR (original: 39.95 EUR) en el siguiente enlace!

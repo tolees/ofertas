@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D7J5XZS/?tag=tolees-21'
 descuento: '60.22'
+average: '51.67'
 ---
 
 Está [Dolores Promesas 107346  Pantalones para Mujer  Negro   Tamaño del Fabricante:42 ](https://www.amazon.es/dp/B07D7J5XZS/?tag=tolees-21) con 60.22 de descuento por 51.67 EUR (original: 129.9 EUR) en el siguiente enlace!

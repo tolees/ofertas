@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079C79JPP/?tag=tolees-21'
 descuento: '46.47'
+average: '10.7'
 ---
 
 Ahora mismo tienes [JACK & JONES Jjepaulos Polo SS Noos  Hombre  Negro  Black Detail: Slim Fit   X-Small](https://www.amazon.es/dp/B079C79JPP/?tag=tolees-21) a 10.7 EUR (original: 19.99 EUR) (46.47 %  de descuento) en el siguiente enlace!

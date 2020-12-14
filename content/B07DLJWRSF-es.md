@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLJWRSF/?tag=tolees-21'
 descuento: '41.32'
+average: '21.12'
 ---
 
 Está [Springfield Chino Slim Estructura Pantalones  Hombre  Azul  Gama Azules 13   36  Tamaño del Fabricante:38 ](https://www.amazon.es/dp/B07DLJWRSF/?tag=tolees-21) con 41.32 de descuento por 21.12 EUR (original: 35.99 EUR) en el siguiente enlace!

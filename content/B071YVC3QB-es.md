@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071YVC3QB/?tag=tolees-21'
 descuento: '73.05'
+average: '18.85'
 ---
 
 Ahora mismo tienes [Dockers by Gerli 41hl301-240  Botas Desert para Mujer  Gris  Taupe   41 EU](https://www.amazon.es/dp/B071YVC3QB/?tag=tolees-21) a 18.85 EUR (original: 69.95 EUR) (73.05 %  de descuento) en el siguiente enlace!

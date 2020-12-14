@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HZNKSL0/?tag=tolees-21'
 descuento: '50.00'
+average: '645'
 ---
 
 Está [FLEX Colchón muelles continuos Palace Visco Firmeza Superior  135 x 190 cm](https://www.amazon.es/dp/B01HZNKSL0/?tag=tolees-21) con 50.00 de descuento por 645 EUR (original: 1290 EUR) en el siguiente enlace!

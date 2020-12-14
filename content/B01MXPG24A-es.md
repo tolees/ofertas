@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MXPG24A/?tag=tolees-21'
 descuento: '77.09'
+average: '14.23'
 ---
 
 Está [SELECTED Shhroyce New Light Penny Loafer  Mocasines para Hombre  Beige  Oyster Gray   45 EU](https://www.amazon.es/dp/B01MXPG24A/?tag=tolees-21) con 77.09 de descuento por 14.23 EUR (original: 62.1 EUR) en el siguiente enlace!

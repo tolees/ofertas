@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073ZJ8FR5/?tag=tolees-21'
 descuento: '58.82'
+average: '11.76'
 ---
 
 Ahora mismo tienes [Walden Farms  Salsa roja para aperitivo - 6 de 355 ml.  Total: 2130 ml. ](https://www.amazon.es/dp/B073ZJ8FR5/?tag=tolees-21) a 11.76 EUR (original: 28.56 EUR) (58.82 %  de descuento) en el siguiente enlace!

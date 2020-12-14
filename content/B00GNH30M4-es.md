@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00GNH30M4/?tag=tolees-21'
 descuento: '58.46'
+average: '5.38'
 ---
 
 Está [ManCave Original Moisturiser Crema Facial - 100 ml](https://www.amazon.es/dp/B00GNH30M4/?tag=tolees-21) con 58.46 de descuento por 5.38 EUR (original: 12.95 EUR) en el siguiente enlace!

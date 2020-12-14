@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B019RIYXS0/?tag=tolees-21'
 descuento: '58.53'
+average: '14.96'
 ---
 
 Está [Taste of the Wild Canine Pacific Stream Puppy Salmon - 6000 gr](https://www.amazon.es/dp/B019RIYXS0/?tag=tolees-21) con 58.53 de descuento por 14.96 EUR (original: 36.07 EUR) en el siguiente enlace!

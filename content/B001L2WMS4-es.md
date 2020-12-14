@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001L2WMS4/?tag=tolees-21'
 descuento: '45.78'
+average: '26.57'
 ---
 
 Está [Stihl 0464-934-0000 Set de Herramientas de Juguete  0.02 V](https://www.amazon.es/dp/B001L2WMS4/?tag=tolees-21) con 45.78 de descuento por 26.57 EUR (original: 49 EUR) en el siguiente enlace!

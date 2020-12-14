@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LY8YWEF/?tag=tolees-21'
 descuento: '54.17'
+average: '11'
 ---
 
 Tienes [Bergner Q1932 Bolsa Almuerzo  Tela  Rojo](https://www.amazon.es/dp/B01LY8YWEF/?tag=tolees-21) con un 54.17 % de descuento con precio de oferta de 11 EUR (original: 24 EUR) en el siguiente enlace!

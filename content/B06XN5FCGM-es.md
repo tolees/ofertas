@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XN5FCGM/?tag=tolees-21'
 descuento: '77.98'
+average: '12.99'
 ---
 
 Ahora mismo tienes [LANGRIA](https://www.amazon.es/dp/B06XN5FCGM/?tag=tolees-21) a 12.99 EUR (original: 59 EUR) (77.98 %  de descuento) en el siguiente enlace!

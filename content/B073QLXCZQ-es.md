@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073QLXCZQ/?tag=tolees-21'
 descuento: '63.82'
+average: '7.96'
 ---
 
 Está [Activewear Mallas de Entrenamiento con Paneles de Rejilla Mujer  Gris  Grey Marl   36  Talla del fabricante: X-Small ](https://www.amazon.es/dp/B073QLXCZQ/?tag=tolees-21) con 63.82 de descuento por 7.96 EUR (original: 22 EUR) en el siguiente enlace!

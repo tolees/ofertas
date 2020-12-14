@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K1XJ1GF/?tag=tolees-21'
 descuento: '43.11'
+average: '11.35'
 ---
 
 Tienes [Blend Swimwear  Bañador para Hombre  Naranja  Sun Orange 72502  XX-Large](https://www.amazon.es/dp/B07K1XJ1GF/?tag=tolees-21) con un 43.11 % de descuento con precio de oferta de 11.35 EUR (original: 19.95 EUR) en el siguiente enlace!

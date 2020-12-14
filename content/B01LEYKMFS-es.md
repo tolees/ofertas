@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LEYKMFS/?tag=tolees-21'
 descuento: '32.49'
+average: '10.12'
 ---
 
 Está [Funko Pop! Geralt Figura de Vinilo  colección de Pop  seria The Witcher 6366](https://www.amazon.es/dp/B01LEYKMFS/?tag=tolees-21) con 32.49 de descuento por 10.12 EUR (original: 14.99 EUR) en el siguiente enlace!

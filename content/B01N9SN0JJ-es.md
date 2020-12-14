@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N9SN0JJ/?tag=tolees-21'
 descuento: '31.60'
+average: '12.99'
 ---
 
 Está [Perfume Francés de Alta Calidad Para Mujer Oui NG 80ml Noche y Día. Regalo de Primera Calidad de lujo al mejor precio.](https://www.amazon.es/dp/B01N9SN0JJ/?tag=tolees-21) con 31.60 de descuento por 12.99 EUR (original: 18.99 EUR) en el siguiente enlace!

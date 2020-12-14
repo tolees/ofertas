@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0189KQQ4G/?tag=tolees-21'
 descuento: '74.07'
+average: '49'
 ---
 
 Está [Metz 311151 - Mecablitz 44 AF-2 digital  para cámara Canon   negro](https://www.amazon.es/dp/B0189KQQ4G/?tag=tolees-21) con 74.07 de descuento por 49 EUR (original: 189 EUR) en el siguiente enlace!

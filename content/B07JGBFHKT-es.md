@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JGBFHKT/?tag=tolees-21'
 descuento: '27.86'
+average: '12.95'
 ---
 
 Está [Puma Future Flash Ball Balón de Fútbol  Unisex Adulto  Bleu Azur/Red Blast White  4](https://www.amazon.es/dp/B07JGBFHKT/?tag=tolees-21) con 27.86 de descuento por 12.95 EUR (original: 17.95 EUR) en el siguiente enlace!

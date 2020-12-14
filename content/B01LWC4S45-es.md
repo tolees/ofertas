@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LWC4S45/?tag=tolees-21'
 descuento: '53.17'
+average: '35.12'
 ---
 
 Ahora mismo tienes [Vans Old Skool  Zapatillas Unisex Adulto  Azul  mlx   44 EU](https://www.amazon.es/dp/B01LWC4S45/?tag=tolees-21) a 35.12 EUR (original: 75 EUR) (53.17 %  de descuento) en el siguiente enlace!

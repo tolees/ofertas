@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KQHBHQN/?tag=tolees-21'
 descuento: '44.95'
+average: '33'
 ---
 
 Está [adidas Predator 19.3 FG J  Botas de fútbol Unisex niño   Rojact/Rojsol/Negbás 000   36 2/3 EU](https://www.amazon.es/dp/B07KQHBHQN/?tag=tolees-21) con 44.95 de descuento por 33 EUR (original: 59.95 EUR) en el siguiente enlace!

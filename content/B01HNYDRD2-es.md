@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HNYDRD2/?tag=tolees-21'
 descuento: '42.70'
+average: '22.92'
 ---
 
 Tienes [Salomon Gorra](https://www.amazon.es/dp/B01HNYDRD2/?tag=tolees-21) con un 42.70 % de descuento con precio de oferta de 22.92 EUR (original: 40 EUR) en el siguiente enlace!

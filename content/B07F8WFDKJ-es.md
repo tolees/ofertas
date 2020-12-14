@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F8WFDKJ/?tag=tolees-21'
 descuento: '27.79'
+average: '19.49'
 ---
 
 Tienes [Sicario: El Día Del Soldado  4K UHD + BD  [Blu-ray]](https://www.amazon.es/dp/B07F8WFDKJ/?tag=tolees-21) con un 27.79 % de descuento con precio de oferta de 19.49 EUR (original: 26.99 EUR) en el siguiente enlace!

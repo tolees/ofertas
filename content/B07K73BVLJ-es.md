@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K73BVLJ/?tag=tolees-21'
 descuento: '68.33'
+average: '44.34'
 ---
 
 Ahora mismo tienes [Asics Gel-Resolution 7 Clay  Zapatillas de Tenis para Mujer  Rojo  Papaya/White 701   39.5 EU](https://www.amazon.es/dp/B07K73BVLJ/?tag=tolees-21) a 44.34 EUR (original: 140 EUR) (68.33 %  de descuento) en el siguiente enlace!

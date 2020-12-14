@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01K51XBZ4/?tag=tolees-21'
 descuento: '36.69'
+average: '9.49'
 ---
 
 Ahora mismo tienes [Science4you - la ciencia del agua - juguete científico y educativo](https://www.amazon.es/dp/B01K51XBZ4/?tag=tolees-21) a 9.49 EUR (original: 14.99 EUR) (36.69 %  de descuento) en el siguiente enlace!

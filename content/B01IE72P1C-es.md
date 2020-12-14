@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IE72P1C/?tag=tolees-21'
 descuento: '67.14'
+average: '26.58'
 ---
 
 Ahora mismo tienes [Etnies Fader - Zapatillas para Hombre  Blanco  White/Gum 104   45 EU](https://www.amazon.es/dp/B01IE72P1C/?tag=tolees-21) a 26.58 EUR (original: 80.89 EUR) (67.14 %  de descuento) en el siguiente enlace!

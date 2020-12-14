@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D739BLK/?tag=tolees-21'
 descuento: '49.99'
+average: '49.98'
 ---
 
 Ahora mismo tienes [adidas Gazelle S&T  Zapatillas para Hombre  Gris Raw Grey/Off White 0  43 1/3 EU](https://www.amazon.es/dp/B07D739BLK/?tag=tolees-21) a 49.98 EUR (original: 99.95 EUR) (49.99 %  de descuento) en el siguiente enlace!

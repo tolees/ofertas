@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073XKKV4D/?tag=tolees-21'
 descuento: '36.75'
+average: '12.65'
 ---
 
 Ahora mismo tienes [Volcom Strap Web Cinturón  Hombre  Asphalt Black  Talla Única](https://www.amazon.es/dp/B073XKKV4D/?tag=tolees-21) a 12.65 EUR (original: 20 EUR) (36.75 %  de descuento) en el siguiente enlace!

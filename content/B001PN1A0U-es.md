@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001PN1A0U/?tag=tolees-21'
 descuento: '57.21'
+average: '10.66'
 ---
 
 Ahora mismo tienes [Maped - Juego de sacapuntas de 1 orificio en caja expositora  diseño de globo terráqueo  1 unidad](https://www.amazon.es/dp/B001PN1A0U/?tag=tolees-21) a 10.66 EUR (original: 24.91 EUR) (57.21 %  de descuento) en el siguiente enlace!

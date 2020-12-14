@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MQUGDCY/?tag=tolees-21'
 descuento: '50.06'
+average: '37.45'
 ---
 
 Está [Columbia Youth Minx Shorty Omni-Heat Waterproof  Botas de Nieve para Niñas  Negro  Black  Spray   38 EU](https://www.amazon.es/dp/B01MQUGDCY/?tag=tolees-21) con 50.06 de descuento por 37.45 EUR (original: 74.99 EUR) en el siguiente enlace!

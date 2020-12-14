@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077YDWZ95/?tag=tolees-21'
 descuento: '33.77'
+average: '52.95'
 ---
 
 Está [BOSS Athleisure Piro  Polo para Hombre  Negro  Black 1   XL](https://www.amazon.es/dp/B077YDWZ95/?tag=tolees-21) con 33.77 de descuento por 52.95 EUR (original: 79.95 EUR) en el siguiente enlace!

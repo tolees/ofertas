@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y2KR5GJ/?tag=tolees-21'
 descuento: '38.46'
+average: '6'
 ---
 
 Está [Dove Aceite de Coco y Leche de Almendras Loción Crema Corporal Tarro 250 ml - [Pack de 3]](https://www.amazon.es/dp/B06Y2KR5GJ/?tag=tolees-21) con 38.46 de descuento por 6 EUR (original: 9.75 EUR) en el siguiente enlace!

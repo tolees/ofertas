@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FMG6L5T/?tag=tolees-21'
 descuento: '28.60'
+average: '29.99'
 ---
 
 Tienes [SEEDIQ® LED 24W Lámpara de Techo Plafón led de Techo Redonda Lámpara Dormitorio de Techo Impermeable Blanco Frío 5000K luz para habitación Cocina Sala de Estar baño balcón [eficiencia energética A+]](https://www.amazon.es/dp/B07FMG6L5T/?tag=tolees-21) con un 28.60 % de descuento con precio de oferta de 29.99 EUR (original: 42 EUR) en el siguiente enlace!

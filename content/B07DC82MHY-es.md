@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC82MHY/?tag=tolees-21'
 descuento: '66.92'
+average: '28.12'
 ---
 
 Ahora mismo tienes [LE COQ SPORTIF Louise Metallic Black/Rose Gold  Zapatillas para Mujer  Beige Noir  40 EU](https://www.amazon.es/dp/B07DC82MHY/?tag=tolees-21) a 28.12 EUR (original: 85 EUR) (66.92 %  de descuento) en el siguiente enlace!

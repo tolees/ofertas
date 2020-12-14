@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LBFMMM2/?tag=tolees-21'
 descuento: '40.51'
+average: '47'
 ---
 
 Tienes [Napapijri NOTO 2 Pantalones Cortos Verde  New Olive Green Gd6  W33  Talla del Fabricante: 33  para Hombre](https://www.amazon.es/dp/B07LBFMMM2/?tag=tolees-21) con un 40.51 % de descuento con precio de oferta de 47 EUR (original: 79 EUR) en el siguiente enlace!

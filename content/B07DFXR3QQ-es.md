@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFXR3QQ/?tag=tolees-21'
 descuento: '31.49'
+average: '20.52'
 ---
 
 Está [Puma A.C.E. Woven Pants  Hombre  Black  M](https://www.amazon.es/dp/B07DFXR3QQ/?tag=tolees-21) con 31.49 de descuento por 20.52 EUR (original: 29.95 EUR) en el siguiente enlace!

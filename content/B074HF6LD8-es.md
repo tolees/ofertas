@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074HF6LD8/?tag=tolees-21'
 descuento: '59.90'
+average: '36.09'
 ---
 
 Está [Vans Old Skool  Zapatillas de Skateboarding para Mujer  Negro  Licorice Blanc Qe2   36 EU](https://www.amazon.es/dp/B074HF6LD8/?tag=tolees-21) con 59.90 de descuento por 36.09 EUR (original: 90 EUR) en el siguiente enlace!

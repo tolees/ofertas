@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B9BYMXZ/?tag=tolees-21'
 descuento: '81.29'
+average: '29.93'
 ---
 
 Está [Clarks Clarkdale Axel  Botas Slouch para Mujer  Marrón  Dark Tan Suede   36 EU](https://www.amazon.es/dp/B07B9BYMXZ/?tag=tolees-21) con 81.29 de descuento por 29.93 EUR (original: 160 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HGNP9XQ/?tag=tolees-21'
 descuento: '44.94'
+average: '159.99'
 ---
 
 Está [Storm Racer ergonómico Gaming Chair Silla de Respaldo Alto Silla de Oficina con reposapiés Ajuste reposacabezas y Apoyo Lumbar Silla de Racing  Orange-T ](https://www.amazon.es/dp/B07HGNP9XQ/?tag=tolees-21) con 44.94 de descuento por 159.99 EUR (original: 290.56 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G11YXFD/?tag=tolees-21'
 descuento: '44.26'
+average: '49.99'
 ---
 
 Tienes [Audew Compresor Aire Coche Inflador Eléctrico Portátil Pantalla LCD Con Base Batería para Coches  Motos 12V 160PSI](https://www.amazon.es/dp/B07G11YXFD/?tag=tolees-21) con un 44.26 % de descuento con precio de oferta de 49.99 EUR (original: 89.69 EUR) en el siguiente enlace!

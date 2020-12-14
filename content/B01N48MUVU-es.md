@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N48MUVU/?tag=tolees-21'
 descuento: '43.53'
+average: '14'
 ---
 
 Está [Alfaparf  Champú - 200 ml.](https://www.amazon.es/dp/B01N48MUVU/?tag=tolees-21) con 43.53 de descuento por 14 EUR (original: 24.79 EUR) en el siguiente enlace!

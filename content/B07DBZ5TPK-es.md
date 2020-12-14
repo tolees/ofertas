@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DBZ5TPK/?tag=tolees-21'
 descuento: '71.31'
+average: '24.37'
 ---
 
 Tienes [Puma Jaab XT TZ Wn s  Zapatillas de Deporte para Mujer  Verde  Ponderosa Pine White   38.5 EU](https://www.amazon.es/dp/B07DBZ5TPK/?tag=tolees-21) con un 71.31 % de descuento con precio de oferta de 24.37 EUR (original: 84.95 EUR) en el siguiente enlace!

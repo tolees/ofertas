@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C445ZJX/?tag=tolees-21'
 descuento: '47.69'
+average: '34'
 ---
 
 Ahora mismo tienes [Pepe Jeans Soho  Pantalones para Mujer  Azul  Ocean 588  29W / 30L](https://www.amazon.es/dp/B07C445ZJX/?tag=tolees-21) a 34 EUR (original: 65 EUR) (47.69 %  de descuento) en el siguiente enlace!

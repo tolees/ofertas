@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00KWFAPRQ/?tag=tolees-21'
 descuento: '35.02'
+average: '64.95'
 ---
 
 Tienes [Columbia Woodburn Plus II  Botas de Senderismo para Hombre  Marrón  Cordovan/Gypsy 231   40 EU](https://www.amazon.es/dp/B00KWFAPRQ/?tag=tolees-21) con un 35.02 % de descuento con precio de oferta de 64.95 EUR (original: 99.95 EUR) en el siguiente enlace!

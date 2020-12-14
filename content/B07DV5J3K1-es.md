@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DV5J3K1/?tag=tolees-21'
 descuento: '66.93'
+average: '29.76'
 ---
 
 Está [Columbia Backpedal  Zapatillas Casual para Hombre  Gris  Ti Grey Steel  Black   48 EU](https://www.amazon.es/dp/B07DV5J3K1/?tag=tolees-21) con 66.93 de descuento por 29.76 EUR (original: 89.99 EUR) en el siguiente enlace!

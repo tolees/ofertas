@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HHAHIWI/?tag=tolees-21'
 descuento: '69.51'
+average: '39.64'
 ---
 
 Está [Merrell Avalaunch Tough  Zapatillas de Running para Asfalto para Hombre  Naranja  Mudder Orange   7.5 UK 41 1/2 EU](https://www.amazon.es/dp/B01HHAHIWI/?tag=tolees-21) con 69.51 de descuento por 39.64 EUR (original: 130 EUR) en el siguiente enlace!

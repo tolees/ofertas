@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FKRZLN3/?tag=tolees-21'
 descuento: '27.88'
+average: '11.95'
 ---
 
 Está [Bestway 58036 Cobertor Invierno para Piscina Desmontable  305 cm](https://www.amazon.es/dp/B07FKRZLN3/?tag=tolees-21) con 27.88 de descuento por 11.95 EUR (original: 16.57 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J32TJ4R/?tag=tolees-21'
 descuento: '33.35'
+average: '49.99'
 ---
 
 Está [ASUS RT-AC57U - Router Inalámbrico AC1200 Doble Banda Gigabit  Control parental  Modo Punto de Acceso  MU-MIMO  ASUS Router APP ](https://www.amazon.es/dp/B07J32TJ4R/?tag=tolees-21) con 33.35 de descuento por 49.99 EUR (original: 75 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FGH3F57/?tag=tolees-21'
 descuento: '66.12'
+average: '22.02'
 ---
 
 Está [DC Shoes Trase TX  Zapatillas de Skateboard para Hombre  Azul  Indigo Ind   38.5 EU](https://www.amazon.es/dp/B07FGH3F57/?tag=tolees-21) con 66.12 de descuento por 22.02 EUR (original: 65 EUR) en el siguiente enlace!

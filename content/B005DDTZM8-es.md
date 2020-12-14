@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005DDTZM8/?tag=tolees-21'
 descuento: '82.41'
+average: '13.9'
 ---
 
 Está [Orphelia CC-47 - Pendientes de mujer de plata de ley con circonitas](https://www.amazon.es/dp/B005DDTZM8/?tag=tolees-21) con 82.41 de descuento por 13.9 EUR (original: 79 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MUH9BET/?tag=tolees-21'
 descuento: '55.01'
+average: '92.22'
 ---
 
 Está [Sandisk SDIX30N-256G-GN6NE Memoria Flash USB SanDisk iXpand de 256 GB para iPhone y iPad](https://www.amazon.es/dp/B01MUH9BET/?tag=tolees-21) con 55.01 de descuento por 92.22 EUR (original: 204.99 EUR) en el siguiente enlace!

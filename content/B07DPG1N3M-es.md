@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DPG1N3M/?tag=tolees-21'
 descuento: '33.48'
+average: '19.95'
 ---
 
 Ahora mismo tienes [Slime Rancher](https://www.amazon.es/dp/B07DPG1N3M/?tag=tolees-21) a 19.95 EUR (original: 29.99 EUR) (33.48 %  de descuento) en el siguiente enlace!

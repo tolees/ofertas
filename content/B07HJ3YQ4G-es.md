@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HJ3YQ4G/?tag=tolees-21'
 descuento: '56.42'
+average: '16.99'
 ---
 
 Ahora mismo tienes [Protector Ducha Pies Niños Protector de escayola protector de ducha impermeable para pies de niños](https://www.amazon.es/dp/B07HJ3YQ4G/?tag=tolees-21) a 16.99 EUR (original: 38.99 EUR) (56.42 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074PQQL8C/?tag=tolees-21'
 descuento: '33.78'
+average: '330.46'
 ---
 
 Está [Suunto - Traverse Alpha - SS023446000 - Reloj GPS Outdoor para pesca  caza y excursionismo - Sumergible - Edición Concrete  Negro y gris camuflaje  - Talla única](https://www.amazon.es/dp/B074PQQL8C/?tag=tolees-21) con 33.78 de descuento por 330.46 EUR (original: 499 EUR) en el siguiente enlace!

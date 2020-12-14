@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFRV1ZZ/?tag=tolees-21'
 descuento: '51.36'
+average: '26.73'
 ---
 
 Ahora mismo tienes [Puma ESS+ Hoody FL Sweatshirt  Hombre  Dark Gray Heather  S](https://www.amazon.es/dp/B07DFRV1ZZ/?tag=tolees-21) a 26.73 EUR (original: 54.95 EUR) (51.36 %  de descuento) en el siguiente enlace!

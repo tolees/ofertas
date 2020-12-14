@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KRGSSNW/?tag=tolees-21'
 descuento: '55.55'
+average: '79.99'
 ---
 
 Está [Beurer IPL-6500 - Depiladora de luz pulsada compacta](https://www.amazon.es/dp/B01KRGSSNW/?tag=tolees-21) con 55.55 de descuento por 79.99 EUR (original: 179.95 EUR) en el siguiente enlace!

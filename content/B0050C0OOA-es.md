@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0050C0OOA/?tag=tolees-21'
 descuento: '33.46'
+average: '89.16'
 ---
 
 Ahora mismo tienes [Bosch 0.603.973.302 Atornillador  Taladro de batería de Litio  18 W  Negro  Verde  Rojo  18 V](https://www.amazon.es/dp/B0050C0OOA/?tag=tolees-21) a 89.16 EUR (original: 134 EUR) (33.46 %  de descuento) en el siguiente enlace!

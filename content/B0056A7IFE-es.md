@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0056A7IFE/?tag=tolees-21'
 descuento: '25.24'
+average: '15.7'
 ---
 
 Tienes [BRITA CLASSIC - Filtro de agua con recambios para 3 meses de agua filtrada - 3 cartuchos](https://www.amazon.es/dp/B0056A7IFE/?tag=tolees-21) con un 25.24 % de descuento con precio de oferta de 15.7 EUR (original: 21 EUR) en el siguiente enlace!

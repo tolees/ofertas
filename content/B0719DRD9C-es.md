@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0719DRD9C/?tag=tolees-21'
 descuento: '55.48'
+average: '62.33'
 ---
 
 Ahora mismo tienes [Asics Gel-Fujitrabuco 6  Zapatillas de Running para Hombre  Gris  Carbon/Black/Hot Orange   40 EU](https://www.amazon.es/dp/B0719DRD9C/?tag=tolees-21) a 62.33 EUR (original: 140 EUR) (55.48 %  de descuento) en el siguiente enlace!

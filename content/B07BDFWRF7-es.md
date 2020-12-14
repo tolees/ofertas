@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BDFWRF7/?tag=tolees-21'
 descuento: '33.34'
+average: '19.99'
 ---
 
 Ahora mismo tienes [ammoon Cañas Oboe Tubos de Grapas Partes 47mm con Estuche de Plástico  18pcs/Pack](https://www.amazon.es/dp/B07BDFWRF7/?tag=tolees-21) a 19.99 EUR (original: 29.99 EUR) (33.34 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072K5MX9H/?tag=tolees-21'
 descuento: '49.31'
+average: '32.95'
 ---
 
 Ahora mismo tienes [Victoria Bota Serraje Animales  Zapatillas Unisex Niños  Beige  Ballet 495   28 EU](https://www.amazon.es/dp/B072K5MX9H/?tag=tolees-21) a 32.95 EUR (original: 65 EUR) (49.31 %  de descuento) en el siguiente enlace!

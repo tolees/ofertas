@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076W41LGN/?tag=tolees-21'
 descuento: '30.36'
+average: '12.5'
 ---
 
 Tienes [Cadena de Plata de Ley 925  modelo singapur. Cadena de plata para Mujer  perfecta para llevar sola o con un colgante. 40-45-50-60 cm de longitud y 1 7 mm de ancho  fabricación italiana.](https://www.amazon.es/dp/B076W41LGN/?tag=tolees-21) con un 30.36 % de descuento con precio de oferta de 12.5 EUR (original: 17.95 EUR) en el siguiente enlace!

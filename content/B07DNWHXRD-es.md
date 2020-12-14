@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DNWHXRD/?tag=tolees-21'
 descuento: '31.59'
+average: '15.87'
 ---
 
 Está [Dim Slip 100% Coton 3+1  Braguita para Hombre  Géométrique Imp Rose Vichy + Uni Noir 78e  L  Talla del Fabricante: 4   Pack de 4](https://www.amazon.es/dp/B07DNWHXRD/?tag=tolees-21) con 31.59 de descuento por 15.87 EUR (original: 23.2 EUR) en el siguiente enlace!

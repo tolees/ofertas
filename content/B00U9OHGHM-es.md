@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00U9OHGHM/?tag=tolees-21'
 descuento: '60.00'
+average: '95.6'
 ---
 
 Tienes [Reloj Nautica - Hombre NAI22507G](https://www.amazon.es/dp/B00U9OHGHM/?tag=tolees-21) con un 60.00 % de descuento con precio de oferta de 95.6 EUR (original: 239 EUR) en el siguiente enlace!

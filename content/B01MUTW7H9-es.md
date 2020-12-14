@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MUTW7H9/?tag=tolees-21'
 descuento: '30.33'
+average: '69.66'
 ---
 
 Ahora mismo tienes [Severin Barbacoa Grill PG 8532 - Barbacoa de Pie  Superficie de Grill  41 x 26 cm  2.500 W  Negro](https://www.amazon.es/dp/B01MUTW7H9/?tag=tolees-21) a 69.66 EUR (original: 99.99 EUR) (30.33 %  de descuento) en el siguiente enlace!

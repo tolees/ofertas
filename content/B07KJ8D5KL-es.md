@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KJ8D5KL/?tag=tolees-21'
 descuento: '36.73'
+average: '18.95'
 ---
 
 Ahora mismo tienes [adidas W E 3S Mallas  Mujer  brgros/rosaut  L](https://www.amazon.es/dp/B07KJ8D5KL/?tag=tolees-21) a 18.95 EUR (original: 29.95 EUR) (36.73 %  de descuento) en el siguiente enlace!

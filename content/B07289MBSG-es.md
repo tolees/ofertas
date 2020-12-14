@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07289MBSG/?tag=tolees-21'
 descuento: '51.51'
+average: '19.39'
 ---
 
 Ahora mismo tienes [MTNG Templo  Zapatillas Mujer  Plateado  Metal Plata Vieja   37 EU](https://www.amazon.es/dp/B07289MBSG/?tag=tolees-21) a 19.39 EUR (original: 39.99 EUR) (51.51 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N3RNHZP/?tag=tolees-21'
 descuento: '59.68'
+average: '6.35'
 ---
 
 Está [Got2b Laca Volumaniac - 3 Unidades de 300 ml](https://www.amazon.es/dp/B07N3RNHZP/?tag=tolees-21) con 59.68 de descuento por 6.35 EUR (original: 15.75 EUR) en el siguiente enlace!

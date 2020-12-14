@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079SMCZF7/?tag=tolees-21'
 descuento: '49.99'
+average: '39.98'
 ---
 
 Ahora mismo tienes [Desigual Jers_Diane  suéter para Mujer    Negro 2000  Medium](https://www.amazon.es/dp/B079SMCZF7/?tag=tolees-21) a 39.98 EUR (original: 79.95 EUR) (49.99 %  de descuento) en el siguiente enlace!

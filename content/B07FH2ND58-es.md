@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FH2ND58/?tag=tolees-21'
 descuento: '39.78'
+average: '24.09'
 ---
 
 Está [Levis Footwear and Accessories Malibu Beach S  Zapatillas para Mujer  Azul  Light Blue 13   39 EU](https://www.amazon.es/dp/B07FH2ND58/?tag=tolees-21) con 39.78 de descuento por 24.09 EUR (original: 40 EUR) en el siguiente enlace!

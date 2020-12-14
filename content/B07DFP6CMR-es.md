@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFP6CMR/?tag=tolees-21'
 descuento: '56.19'
+average: '10.93'
 ---
 
 Está [Puma Rebel Up Basic T-Shirt  Hombre  Cotton Black  XXL](https://www.amazon.es/dp/B07DFP6CMR/?tag=tolees-21) con 56.19 de descuento por 10.93 EUR (original: 24.95 EUR) en el siguiente enlace!

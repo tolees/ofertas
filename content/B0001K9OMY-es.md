@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0001K9OMY/?tag=tolees-21'
 descuento: '66.42'
+average: '8.19'
 ---
 
 Está [Draper 12400 - Guía para afilar  3-67 mm ](https://www.amazon.es/dp/B0001K9OMY/?tag=tolees-21) con 66.42 de descuento por 8.19 EUR (original: 24.39 EUR) en el siguiente enlace!

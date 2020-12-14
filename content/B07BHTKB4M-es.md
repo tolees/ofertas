@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BHTKB4M/?tag=tolees-21'
 descuento: '54.25'
+average: '59.43'
 ---
 
 Ahora mismo tienes [Esprit Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable ES1L038M0105](https://www.amazon.es/dp/B07BHTKB4M/?tag=tolees-21) a 59.43 EUR (original: 129.9 EUR) (54.25 %  de descuento) en el siguiente enlace!

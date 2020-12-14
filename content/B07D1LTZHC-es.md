@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D1LTZHC/?tag=tolees-21'
 descuento: '40.00'
+average: '39'
 ---
 
 Ahora mismo tienes [Asics Aaron  Zapatillas para Hombre  Gris  Dark Grey/Sand 020   42 EU](https://www.amazon.es/dp/B07D1LTZHC/?tag=tolees-21) a 39 EUR (original: 65 EUR) (40.00 %  de descuento) en el siguiente enlace!

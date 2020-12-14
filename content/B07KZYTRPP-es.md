@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KZYTRPP/?tag=tolees-21'
 descuento: '27.79'
+average: '25.99'
 ---
 
 Está [HIP TEC Reloj digital de alarma  versión mejorada de 6.5 pulgadas Reloj de escritorio LED](https://www.amazon.es/dp/B07KZYTRPP/?tag=tolees-21) con 27.79 de descuento por 25.99 EUR (original: 35.99 EUR) en el siguiente enlace!

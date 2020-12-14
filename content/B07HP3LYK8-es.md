@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HP3LYK8/?tag=tolees-21'
 descuento: '40.01'
+average: '35.99'
 ---
 
 Tienes [Spiralizer Eléctrico Aicok Espiralizador de Verduras y Frutas en Espiral con 2 Cuchillas de Acero Inoxidable para Calabacín Pepino Zanahoria y Muchos Otros  1 7 L  120 W](https://www.amazon.es/dp/B07HP3LYK8/?tag=tolees-21) con un 40.01 % de descuento con precio de oferta de 35.99 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00SWSKHTQ/?tag=tolees-21'
 descuento: '87.11'
+average: '8.38'
 ---
 
 Tienes [Closet Structured Pleated Jumpsuit  Mono para Mujer  Crema  36](https://www.amazon.es/dp/B00SWSKHTQ/?tag=tolees-21) con un 87.11 % de descuento con precio de oferta de 8.38 EUR (original: 65 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GT5ZNJ1/?tag=tolees-21'
 descuento: '74.43'
+average: '12.77'
 ---
 
 Está [Berg Outdoor Estrela Hooded Sweatshirt  Hombre  Grey Melange  L](https://www.amazon.es/dp/B07GT5ZNJ1/?tag=tolees-21) con 74.43 de descuento por 12.77 EUR (original: 49.95 EUR) en el siguiente enlace!

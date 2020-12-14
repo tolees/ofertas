@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FKDX8L7/?tag=tolees-21'
 descuento: '40.75'
+average: '50.36'
 ---
 
 Está [The North Face Aphrodite Pant Pantalones  Mujer  New Taupe Green Heather  REGXS](https://www.amazon.es/dp/B07FKDX8L7/?tag=tolees-21) con 40.75 de descuento por 50.36 EUR (original: 85 EUR) en el siguiente enlace!

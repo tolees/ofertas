@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B8BGH6W/?tag=tolees-21'
 descuento: '60.54'
+average: '14.99'
 ---
 
 Tienes [Lifewit 2 Bolsas Térmicas Porta Alimentos Bolsa de Almuerzo para Llevar Almuerzo para Adultos / Hombres / Mujeres / Niños  Ideal para llevar Comida a Playa / Picnic / Camping / Barbacoa  Gris](https://www.amazon.es/dp/B07B8BGH6W/?tag=tolees-21) con un 60.54 % de descuento con precio de oferta de 14.99 EUR (original: 37.99 EUR) en el siguiente enlace!

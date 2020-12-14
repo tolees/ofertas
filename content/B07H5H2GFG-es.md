@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H5H2GFG/?tag=tolees-21'
 descuento: '55.58'
+average: '11.99'
 ---
 
 Ahora mismo tienes [Estera de Barbacoa  3 Piezas Láminas de Parrilla BBQ Grill Mats con 2 Pinceles de Silicona  Antiadherentes Duradero Resistente al Calor y Reutilizable  Ideal para el Horno  Asada y Barbacoa.](https://www.amazon.es/dp/B07H5H2GFG/?tag=tolees-21) a 11.99 EUR (original: 26.99 EUR) (55.58 %  de descuento) en el siguiente enlace!

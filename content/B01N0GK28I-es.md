@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N0GK28I/?tag=tolees-21'
 descuento: '50.00'
+average: '50'
 ---
 
 Ahora mismo tienes [New Balance Mxqikv3  Zapatillas de Running para Hombre  Negro  Black/White   42 EU](https://www.amazon.es/dp/B01N0GK28I/?tag=tolees-21) a 50 EUR (original: 100 EUR) (50.00 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00HWI4MZ2/?tag=tolees-21'
 descuento: '40.50'
+average: '10.71'
 ---
 
 Tienes [Intex 29021 - Cobertor solar para piscinas 305 cm de diámetro](https://www.amazon.es/dp/B00HWI4MZ2/?tag=tolees-21) con un 40.50 % de descuento con precio de oferta de 10.71 EUR (original: 18 EUR) en el siguiente enlace!

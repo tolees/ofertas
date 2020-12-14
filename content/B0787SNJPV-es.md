@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0787SNJPV/?tag=tolees-21'
 descuento: '27.28'
+average: '79.99'
 ---
 
 Está [LANGRIA Silla de Oficina Giratoria con Ruedas Respaldo de Rejilla Transpirable Asiento y Reposabrazos Acolchados Altura e Inclinación Regulables Peso Máximo 120 kg para Sala de Estudio Trabajo  Negro ](https://www.amazon.es/dp/B0787SNJPV/?tag=tolees-21) con 27.28 de descuento por 79.99 EUR (original: 109.99 EUR) en el siguiente enlace!

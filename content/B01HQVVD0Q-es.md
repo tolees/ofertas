@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HQVVD0Q/?tag=tolees-21'
 descuento: '51.17'
+average: '9.99'
 ---
 
 Está [Pack Objetivo La Casa Blanca + Objetivo Londres [Blu-ray]](https://www.amazon.es/dp/B01HQVVD0Q/?tag=tolees-21) con 51.17 de descuento por 9.99 EUR (original: 20.46 EUR) en el siguiente enlace!

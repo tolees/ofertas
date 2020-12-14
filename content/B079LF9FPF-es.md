@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079LF9FPF/?tag=tolees-21'
 descuento: '49.40'
+average: '55.66'
 ---
 
 Está [CAMPER Runner Four  Zapatillas para Hombre   Medium Beige 260   41 EU](https://www.amazon.es/dp/B079LF9FPF/?tag=tolees-21) con 49.40 de descuento por 55.66 EUR (original: 110 EUR) en el siguiente enlace!

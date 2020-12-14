@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072K6NNGG/?tag=tolees-21'
 descuento: '40.58'
+average: '629.3'
 ---
 
 Tienes [Apple iPad Pro  10 5 pulgadas y 256GB con Wi-Fi + Cellular  - Oro](https://www.amazon.es/dp/B072K6NNGG/?tag=tolees-21) con un 40.58 % de descuento con precio de oferta de 629.3 EUR (original: 1059 EUR) en el siguiente enlace!

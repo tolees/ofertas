@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DXJ34ZL/?tag=tolees-21'
 descuento: '57.80'
+average: '10.53'
 ---
 
 Ahora mismo tienes [3 Pommes Trousers 3M23003  Pantalones para Bebés  Azul  Marine Blue 04  3-6 Meses  Talla del Fabricante: 3/6M ](https://www.amazon.es/dp/B07DXJ34ZL/?tag=tolees-21) a 10.53 EUR (original: 24.95 EUR) (57.80 %  de descuento) en el siguiente enlace!

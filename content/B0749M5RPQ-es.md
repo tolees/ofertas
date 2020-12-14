@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0749M5RPQ/?tag=tolees-21'
 descuento: '53.28'
+average: '51.86'
 ---
 
 Está [Karrimor Taransay Mid Weathertite  Botas de Senderismo para Hombre  Marrón  Brown   44 EU](https://www.amazon.es/dp/B0749M5RPQ/?tag=tolees-21) con 53.28 de descuento por 51.86 EUR (original: 111 EUR) en el siguiente enlace!

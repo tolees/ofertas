@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00HJSDSU0/?tag=tolees-21'
 descuento: '25.44'
+average: '85.24'
 ---
 
 Tienes [Franke Canna Girevole Bronce - Grifo  Bronce  Acero inoxidable  Grifos de palanca  Solo  Cerámico  3 5 cm ](https://www.amazon.es/dp/B00HJSDSU0/?tag=tolees-21) con un 25.44 % de descuento con precio de oferta de 85.24 EUR (original: 114.32 EUR) en el siguiente enlace!

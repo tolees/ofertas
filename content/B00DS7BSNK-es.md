@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00DS7BSNK/?tag=tolees-21'
 descuento: '27.89'
+average: '33.45'
 ---
 
 Está [PAPILLON 8160400 Parrilla Barbacoa Extensible 60/70x40cm Zincada](https://www.amazon.es/dp/B00DS7BSNK/?tag=tolees-21) con 27.89 de descuento por 33.45 EUR (original: 46.39 EUR) en el siguiente enlace!

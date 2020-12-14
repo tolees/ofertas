@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00FDZXVIA/?tag=tolees-21'
 descuento: '45.75'
+average: '30.27'
 ---
 
 Tienes [Amefa Cuberterías combinadas  Acero Inoxidable  Blanco  25 cm  1200](https://www.amazon.es/dp/B00FDZXVIA/?tag=tolees-21) con un 45.75 % de descuento con precio de oferta de 30.27 EUR (original: 55.8 EUR) en el siguiente enlace!

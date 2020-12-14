@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D5WKH3J/?tag=tolees-21'
 descuento: '80.02'
+average: '9.99'
 ---
 
 Tienes [WeyTy Juego de destornilladores magnéticos profesionales XR de 71 piezas  Herramienta de Reparación Electrónica Multifuncional para  iPhone   iPad  tablets  MacBook  PC](https://www.amazon.es/dp/B07D5WKH3J/?tag=tolees-21) con un 80.02 % de descuento con precio de oferta de 9.99 EUR (original: 49.99 EUR) en el siguiente enlace!

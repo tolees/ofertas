@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003B20SJW/?tag=tolees-21'
 descuento: '62.81'
+average: '67.13'
 ---
 
 Ahora mismo tienes [Jacques Lemans Smart Watch Armbanduhr ASL138/B](https://www.amazon.es/dp/B003B20SJW/?tag=tolees-21) a 67.13 EUR (original: 180.5 EUR) (62.81 %  de descuento) en el siguiente enlace!

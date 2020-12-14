@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B014HZG5CK/?tag=tolees-21'
 descuento: '49.31'
+average: '19.77'
 ---
 
 Está [Casio Reloj con Movimiento Cuarzo japonés Woman Ltp-V005L-7A 30.0 mm](https://www.amazon.es/dp/B014HZG5CK/?tag=tolees-21) con 49.31 de descuento por 19.77 EUR (original: 39 EUR) en el siguiente enlace!

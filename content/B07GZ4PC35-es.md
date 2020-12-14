@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GZ4PC35/?tag=tolees-21'
 descuento: '43.82'
+average: '39.32'
 ---
 
 Está [Delta Children Astronautas - Juguetero  unisex](https://www.amazon.es/dp/B07GZ4PC35/?tag=tolees-21) con 43.82 de descuento por 39.32 EUR (original: 69.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00LBZFNZU/?tag=tolees-21'
 descuento: '58.24'
+average: '11.07'
 ---
 
 Tienes [L Oreal Paris Infinium Laca Extra Strong - 500 ml](https://www.amazon.es/dp/B00LBZFNZU/?tag=tolees-21) con un 58.24 % de descuento con precio de oferta de 11.07 EUR (original: 26.51 EUR) en el siguiente enlace!

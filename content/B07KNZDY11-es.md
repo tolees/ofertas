@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KNZDY11/?tag=tolees-21'
 descuento: '37.50'
+average: '48'
 ---
 
 Tienes [perfk Cámara de Vigilancia Game Scouting Sensor Infrarrojo LED Invisible Negro 940nm Distancia PIR Alta/Normal/Baja - HT002LIG](https://www.amazon.es/dp/B07KNZDY11/?tag=tolees-21) con un 37.50 % de descuento con precio de oferta de 48 EUR (original: 76.8 EUR) en el siguiente enlace!

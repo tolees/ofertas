@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076FFW4Y2/?tag=tolees-21'
 descuento: '58.58'
+average: '22.78'
 ---
 
 Está [Hurley Triblaze 18 Bañador  Hombre  Negro  XS/28](https://www.amazon.es/dp/B076FFW4Y2/?tag=tolees-21) con 58.58 de descuento por 22.78 EUR (original: 55 EUR) en el siguiente enlace!

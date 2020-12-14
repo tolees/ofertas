@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LHCXW1W/?tag=tolees-21'
 descuento: '40.00'
+average: '60'
 ---
 
 Ahora mismo tienes [The North Face Base Camp Duffel Bolsa de Deporte  Unisex Adulto  Beige Pink Salt  XS](https://www.amazon.es/dp/B07LHCXW1W/?tag=tolees-21) a 60 EUR (original: 100 EUR) (40.00 %  de descuento) en el siguiente enlace!

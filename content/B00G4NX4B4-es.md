@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00G4NX4B4/?tag=tolees-21'
 descuento: '58.98'
+average: '11.69'
 ---
 
 Tienes [Anal Fantasy Series Plug - 170 gr](https://www.amazon.es/dp/B00G4NX4B4/?tag=tolees-21) con un 58.98 % de descuento con precio de oferta de 11.69 EUR (original: 28.5 EUR) en el siguiente enlace!

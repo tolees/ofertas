@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N5MVVC9/?tag=tolees-21'
 descuento: '44.01'
+average: '13.97'
 ---
 
 Tienes [Puma Cross The Line Singlet Top  Hombre  Azul  Team Power Blue/White   XL](https://www.amazon.es/dp/B01N5MVVC9/?tag=tolees-21) con un 44.01 % de descuento con precio de oferta de 13.97 EUR (original: 24.95 EUR) en el siguiente enlace!

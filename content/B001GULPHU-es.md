@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001GULPHU/?tag=tolees-21'
 descuento: '33.87'
+average: '27.8'
 ---
 
 Está [MASTER LOCK Caja fuerte para llaves [Extragrande] [Montaje mural] - 5403EURD - Caja de seguridad](https://www.amazon.es/dp/B001GULPHU/?tag=tolees-21) con 33.87 de descuento por 27.8 EUR (original: 42.04 EUR) en el siguiente enlace!

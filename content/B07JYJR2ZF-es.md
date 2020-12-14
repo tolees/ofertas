@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JYJR2ZF/?tag=tolees-21'
 descuento: '31.37'
+average: '549'
 ---
 
 Tienes [Lenovo Ideapad 330-15ICH - Ordenador Portátil 15.6" FullHD  Intel Core i5-8300H  8GB de RAM  1TB de HDD  Nvidia GTX1050-4GB  sin Sistema operativo  Negro. Teclado QWERTY español](https://www.amazon.es/dp/B07JYJR2ZF/?tag=tolees-21) con un 31.37 % de descuento con precio de oferta de 549 EUR (original: 799.99 EUR) en el siguiente enlace!

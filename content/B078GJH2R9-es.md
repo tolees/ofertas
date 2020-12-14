@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078GJH2R9/?tag=tolees-21'
 descuento: '37.52'
+average: '9.99'
 ---
 
 Ahora mismo tienes [Riñonera Running Deportiva PORTHOLIC Riñonera Running Impermeables con Bandas para el Sudor Cinturón de Correr con Tiras Reflectantes y Tiras Ajustables para Deportes al Aire Libre  Negro ](https://www.amazon.es/dp/B078GJH2R9/?tag=tolees-21) a 9.99 EUR (original: 15.99 EUR) (37.52 %  de descuento) en el siguiente enlace!

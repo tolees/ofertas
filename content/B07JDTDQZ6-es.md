@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JDTDQZ6/?tag=tolees-21'
 descuento: '53.12'
+average: '24.38'
 ---
 
 Está [Lacoste Pj2909 Polo  Azul  Horizon 06y D4j   1 año  Talla del Fabricante: 1A  para Niños](https://www.amazon.es/dp/B07JDTDQZ6/?tag=tolees-21) con 53.12 de descuento por 24.38 EUR (original: 52 EUR) en el siguiente enlace!

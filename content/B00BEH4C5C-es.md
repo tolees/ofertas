@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00BEH4C5C/?tag=tolees-21'
 descuento: '50.33'
+average: '20.55'
 ---
 
 Tienes [Faro Barcelona Nautica 71138 - Colgante  11W  metal y difusor de cristal opal](https://www.amazon.es/dp/B00BEH4C5C/?tag=tolees-21) con un 50.33 % de descuento con precio de oferta de 20.55 EUR (original: 41.37 EUR) en el siguiente enlace!

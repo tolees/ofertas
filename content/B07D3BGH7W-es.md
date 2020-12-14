@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D3BGH7W/?tag=tolees-21'
 descuento: '61.80'
+average: '26.72'
 ---
 
 Ahora mismo tienes [bugatti 3.42658E+11  Zapatillas para Hombre  Negro  Schwarz 1000   42 EU](https://www.amazon.es/dp/B07D3BGH7W/?tag=tolees-21) a 26.72 EUR (original: 69.95 EUR) (61.80 %  de descuento) en el siguiente enlace!

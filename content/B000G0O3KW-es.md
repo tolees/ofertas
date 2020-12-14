@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000G0O3KW/?tag=tolees-21'
 descuento: '78.92'
+average: '25'
 ---
 
 Tienes [OKI 43324408 - Cartucho de tóner](https://www.amazon.es/dp/B000G0O3KW/?tag=tolees-21) con un 78.92 % de descuento con precio de oferta de 25 EUR (original: 118.6 EUR) en el siguiente enlace!

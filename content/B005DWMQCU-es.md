@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005DWMQCU/?tag=tolees-21'
 descuento: '26.44'
+average: '19.86'
 ---
 
 Ahora mismo tienes [Philips myLiving Lámpara de mesa  iluminación interior E27  11 W  azul](https://www.amazon.es/dp/B005DWMQCU/?tag=tolees-21) a 19.86 EUR (original: 27 EUR) (26.44 %  de descuento) en el siguiente enlace!

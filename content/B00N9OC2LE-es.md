@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00N9OC2LE/?tag=tolees-21'
 descuento: '90.10'
+average: '3.95'
 ---
 
 Ahora mismo tienes [Sony SCR24 - Funda para móvil Sony Xperia Z3  con función ventana   blanco](https://www.amazon.es/dp/B00N9OC2LE/?tag=tolees-21) a 3.95 EUR (original: 39.9 EUR) (90.10 %  de descuento) en el siguiente enlace!

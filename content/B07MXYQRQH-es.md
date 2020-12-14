@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MXYQRQH/?tag=tolees-21'
 descuento: '47.56'
+average: '57.68'
 ---
 
 Está [Salomon Essential JKT Jacket  Mujer  Azul  Poseidon   XL](https://www.amazon.es/dp/B07MXYQRQH/?tag=tolees-21) con 47.56 de descuento por 57.68 EUR (original: 110 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079J4VPXY/?tag=tolees-21'
 descuento: '50.03'
+average: '79.95'
 ---
 
 Ahora mismo tienes [Asics Dynamis 2  Zapatillas de Entrenamiento para Hombre  Gris  Grey/Black 020   46.5 EU](https://www.amazon.es/dp/B079J4VPXY/?tag=tolees-21) a 79.95 EUR (original: 160 EUR) (50.03 %  de descuento) en el siguiente enlace!

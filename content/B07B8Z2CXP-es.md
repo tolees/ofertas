@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B8Z2CXP/?tag=tolees-21'
 descuento: '35.04'
+average: '64.9'
 ---
 
 Ahora mismo tienes [Bosch TDI953022V Suela Ceranium Glissée 3000W Azul  Blanco - Plancha  Suela Ceranium Glissée  2 5 m  200 g/min  Azul  Blanco  60 g/min  CE  EAC-Eurasian  VDE ](https://www.amazon.es/dp/B07B8Z2CXP/?tag=tolees-21) a 64.9 EUR (original: 99.9 EUR) (35.04 %  de descuento) en el siguiente enlace!

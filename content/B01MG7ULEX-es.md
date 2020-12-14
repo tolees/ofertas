@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MG7ULEX/?tag=tolees-21'
 descuento: '28.01'
+average: '35.96'
 ---
 
 Ahora mismo tienes [G-STAR RAW Ladd Belt Cinturón  Marrón  Dk Brown/black Metal 8127   95 para Hombre](https://www.amazon.es/dp/B01MG7ULEX/?tag=tolees-21) a 35.96 EUR (original: 49.95 EUR) (28.01 %  de descuento) en el siguiente enlace!

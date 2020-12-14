@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792MRN3X/?tag=tolees-21'
 descuento: '46.24'
+average: '30.1'
 ---
 
 Tienes [Quiksilver Slab Island 17" Pantalones Cortos  Hombre  Gris  S Talla del Fabricante 30 ](https://www.amazon.es/dp/B0792MRN3X/?tag=tolees-21) con un 46.24 % de descuento con precio de oferta de 30.1 EUR (original: 55.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078HG8FLH/?tag=tolees-21'
 descuento: '25.10'
+average: '37.45'
 ---
 
 Ahora mismo tienes [Nike Wmns Revolution 4 EU  Zapatillas de Deporte para Mujer   Aj3491 001 Blanco   37.5](https://www.amazon.es/dp/B078HG8FLH/?tag=tolees-21) a 37.45 EUR (original: 50 EUR) (25.10 %  de descuento) en el siguiente enlace!

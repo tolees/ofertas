@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XY9KTDW/?tag=tolees-21'
 descuento: '28.19'
+average: '143.61'
 ---
 
 Tienes [Melissa & Doug Cupcake Chef s Kitchen-Pink  Color Rosa  Blanco  14002 ](https://www.amazon.es/dp/B06XY9KTDW/?tag=tolees-21) con un 28.19 % de descuento con precio de oferta de 143.61 EUR (original: 199.99 EUR) en el siguiente enlace!

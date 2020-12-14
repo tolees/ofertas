@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L8GCHKV/?tag=tolees-21'
 descuento: '41.18'
+average: '29.38'
 ---
 
 Tienes [Dockers by Gerli 43cd001-706200  Zapatillas para Hombre  Gris  Grau 200   42 EU](https://www.amazon.es/dp/B07L8GCHKV/?tag=tolees-21) con un 41.18 % de descuento con precio de oferta de 29.38 EUR (original: 49.95 EUR) en el siguiente enlace!

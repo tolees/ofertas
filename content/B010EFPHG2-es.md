@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B010EFPHG2/?tag=tolees-21'
 descuento: '29.97'
+average: '41.98'
 ---
 
 Tienes [INTEX 64424 - Colchón Hinchable  152 x 203 x 42 cm](https://www.amazon.es/dp/B010EFPHG2/?tag=tolees-21) con un 29.97 % de descuento con precio de oferta de 41.98 EUR (original: 59.95 EUR) en el siguiente enlace!

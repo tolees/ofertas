@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9VRQ84/?tag=tolees-21'
 descuento: '61.99'
+average: '41.79'
 ---
 
 Está [Puma Defy Luxe Wn s  Zapatillas de Deporte para Mujer  Rojo  Fig-Metallic Ash 03   39 EU](https://www.amazon.es/dp/B07D9VRQ84/?tag=tolees-21) con 61.99 de descuento por 41.79 EUR (original: 109.95 EUR) en el siguiente enlace!

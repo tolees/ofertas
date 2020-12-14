@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GN699KR/?tag=tolees-21'
 descuento: '37.50'
+average: '99.99'
 ---
 
 Está [Aingoo Silla de Oficina de Malla Silla de Trabajo para computadora con Respaldo Giratorio Medio con Brazos Ajustables y Soporte Lumbar  Negro](https://www.amazon.es/dp/B07GN699KR/?tag=tolees-21) con 37.50 de descuento por 99.99 EUR (original: 159.99 EUR) en el siguiente enlace!

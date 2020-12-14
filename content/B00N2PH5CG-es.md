@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00N2PH5CG/?tag=tolees-21'
 descuento: '53.46'
+average: '5.99'
 ---
 
 Está [Approx appUSB71 - Tarjeta de sonido  7.1  USB  Windows 2000  Windows 7 Home Premium  Windows 8  Windows Vista Home Premium  Windows XP Home  75g  17 1 cm  8 5 cm ](https://www.amazon.es/dp/B00N2PH5CG/?tag=tolees-21) con 53.46 de descuento por 5.99 EUR (original: 12.87 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077VXC6FH/?tag=tolees-21'
 descuento: '66.45'
+average: '30.19'
 ---
 
 Ahora mismo tienes [K-Swiss Arvee 1.5  Zapatillas para Hombre  MONK S ROBE/KHAKI  42 EU](https://www.amazon.es/dp/B077VXC6FH/?tag=tolees-21) a 30.19 EUR (original: 89.99 EUR) (66.45 %  de descuento) en el siguiente enlace!

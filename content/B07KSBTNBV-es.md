@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KSBTNBV/?tag=tolees-21'
 descuento: '64.84'
+average: '17.56'
 ---
 
 Está [hummel HMLMATEO Hoodies  Hombre  Gris  Grey Melange   L](https://www.amazon.es/dp/B07KSBTNBV/?tag=tolees-21) con 64.84 de descuento por 17.56 EUR (original: 49.95 EUR) en el siguiente enlace!

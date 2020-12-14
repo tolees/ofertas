@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GYBWMD4/?tag=tolees-21'
 descuento: '42.29'
+average: '19.99'
 ---
 
 Ahora mismo tienes [Anillo de pilates/Círculo de yoga+Bandas de resistencia+pelota de yoga+Calcetines de yoga+correa de yoga](https://www.amazon.es/dp/B07GYBWMD4/?tag=tolees-21) a 19.99 EUR (original: 34.64 EUR) (42.29 %  de descuento) en el siguiente enlace!

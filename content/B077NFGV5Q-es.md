@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077NFGV5Q/?tag=tolees-21'
 descuento: '59.94'
+average: '20.01'
 ---
 
 Está [DKNY Intimates Sheers Convertible Sujetador sin Tirantes  Negro  Black BP   85B  Talla del Fabricante: 32B  para Mujer](https://www.amazon.es/dp/B077NFGV5Q/?tag=tolees-21) con 59.94 de descuento por 20.01 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MLHSSNB/?tag=tolees-21'
 descuento: '72.32'
+average: '15.69'
 ---
 
 Está [Louviva Portátil Masajeador Eléctrica con Botón Táctil Recargable Super Shock 10 Modos de Frecuencia- 6 Colores de Cambios](https://www.amazon.es/dp/B07MLHSSNB/?tag=tolees-21) con 72.32 de descuento por 15.69 EUR (original: 56.69 EUR) en el siguiente enlace!

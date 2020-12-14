@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XS2TRSF/?tag=tolees-21'
 descuento: '45.37'
+average: '49.14'
 ---
 
 Ahora mismo tienes [New Balance Fresh Foam Cruz Hoody Pack  Zapatillas de Entrenamiento para Hombre  Azul Blau/Weiß  44.5 EU](https://www.amazon.es/dp/B06XS2TRSF/?tag=tolees-21) a 49.14 EUR (original: 89.95 EUR) (45.37 %  de descuento) en el siguiente enlace!

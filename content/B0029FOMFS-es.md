@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0029FOMFS/?tag=tolees-21'
 descuento: '77.30'
+average: '12.3'
 ---
 
 Ahora mismo tienes [Urtekram - Gel de Baño Sin Perfume Urtekram  500ml](https://www.amazon.es/dp/B0029FOMFS/?tag=tolees-21) a 12.3 EUR (original: 54.18 EUR) (77.30 %  de descuento) en el siguiente enlace!

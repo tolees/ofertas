@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07895FBNK/?tag=tolees-21'
 descuento: '50.05'
+average: '19.98'
 ---
 
 Ahora mismo tienes [Helly Hansen Jr Daybreaker 2.0 Jacket Fleece  Unisex niños  Pool Blue  16](https://www.amazon.es/dp/B07895FBNK/?tag=tolees-21) a 19.98 EUR (original: 40 EUR) (50.05 %  de descuento) en el siguiente enlace!

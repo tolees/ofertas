@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N33HLP2/?tag=tolees-21'
 descuento: '28.27'
+average: '12.99'
 ---
 
 Tienes [Pack: Cómo Entrenar A Tu Dragon 1-2 [DVD]](https://www.amazon.es/dp/B07N33HLP2/?tag=tolees-21) con un 28.27 % de descuento con precio de oferta de 12.99 EUR (original: 18.11 EUR) en el siguiente enlace!

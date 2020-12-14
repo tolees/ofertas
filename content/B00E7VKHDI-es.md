@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00E7VKHDI/?tag=tolees-21'
 descuento: '72.34'
+average: '35.68'
 ---
 
 Está [Miniplancha de Cabello Iria Titanium XS Italian Design](https://www.amazon.es/dp/B00E7VKHDI/?tag=tolees-21) con 72.34 de descuento por 35.68 EUR (original: 129 EUR) en el siguiente enlace!

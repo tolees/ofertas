@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MSSH9YH/?tag=tolees-21'
 descuento: '42.81'
+average: '28.54'
 ---
 
 Está [AEG STM3400 Batidora de mano  600W  2 velocidades  85dB  pie de metal  múltiples accesorios](https://www.amazon.es/dp/B01MSSH9YH/?tag=tolees-21) con 42.81 de descuento por 28.54 EUR (original: 49.9 EUR) en el siguiente enlace!

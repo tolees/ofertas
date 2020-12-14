@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DBXNMPT/?tag=tolees-21'
 descuento: '56.98'
+average: '23.64'
 ---
 
 Está [Puma Smash Wns v2 SD  Zapatillas para Mujer  Rosa  Pale Pink Silver-Whisper White   36 EU](https://www.amazon.es/dp/B07DBXNMPT/?tag=tolees-21) con 56.98 de descuento por 23.64 EUR (original: 54.95 EUR) en el siguiente enlace!

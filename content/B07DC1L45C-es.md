@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC1L45C/?tag=tolees-21'
 descuento: '63.94'
+average: '28.83'
 ---
 
 Ahora mismo tienes [Puma Suede Bow Wn s  Zapatillas para Mujer  Morado  Elderberry White   38.5 EU](https://www.amazon.es/dp/B07DC1L45C/?tag=tolees-21) a 28.83 EUR (original: 79.95 EUR) (63.94 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079HCL9CG/?tag=tolees-21'
 descuento: '65.11'
+average: '16.03'
 ---
 
 Está [Tom Tailor 5871805  Botas Clasicas para Niños  Azul  Navy 00003   31 EU](https://www.amazon.es/dp/B079HCL9CG/?tag=tolees-21) con 65.11 de descuento por 16.03 EUR (original: 45.95 EUR) en el siguiente enlace!

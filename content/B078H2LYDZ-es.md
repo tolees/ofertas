@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078H2LYDZ/?tag=tolees-21'
 descuento: '50.09'
+average: '24.95'
 ---
 
 Ahora mismo tienes [JACK & JONES Jjichop Jjcargo Shorts AKM 429 STS Pantalones Cortos   Forest Night Detail: Camo   48  Talla del Fabricante: Small  para Hombre](https://www.amazon.es/dp/B078H2LYDZ/?tag=tolees-21) a 24.95 EUR (original: 49.99 EUR) (50.09 %  de descuento) en el siguiente enlace!

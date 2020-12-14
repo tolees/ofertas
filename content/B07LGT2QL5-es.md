@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LGT2QL5/?tag=tolees-21'
 descuento: '42.86'
+average: '39.99'
 ---
 
 Ahora mismo tienes [Charmast® PowerBank 20800mAh Batería Externa Carga Rápida con Micro Cable QC 3.0 Cargador USB portátil de Tipo C Micro - Capacidad Ultra 20000 para iPhone iPad Huawei Android](https://www.amazon.es/dp/B07LGT2QL5/?tag=tolees-21) a 39.99 EUR (original: 69.99 EUR) (42.86 %  de descuento) en el siguiente enlace!

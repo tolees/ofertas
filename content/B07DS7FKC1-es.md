@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DS7FKC1/?tag=tolees-21'
 descuento: '56.98'
+average: '25.33'
 ---
 
 Tienes [Reebok Trainfusion Nine 3.0  Zapatillas de Deporte para Hombre   Bunker Vital Blue/White/Pewter 000   44 EU](https://www.amazon.es/dp/B07DS7FKC1/?tag=tolees-21) con un 56.98 % de descuento con precio de oferta de 25.33 EUR (original: 58.88 EUR) en el siguiente enlace!

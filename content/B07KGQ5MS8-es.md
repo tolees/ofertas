@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGQ5MS8/?tag=tolees-21'
 descuento: '27.79'
+average: '29.59'
 ---
 
 Ahora mismo tienes [AiKiddo Aseo Escalera Asiento Escalera del tocador de niños Asiento para WC con Escalón plegable Orinal Formación  rosa ](https://www.amazon.es/dp/B07KGQ5MS8/?tag=tolees-21) a 29.59 EUR (original: 40.98 EUR) (27.79 %  de descuento) en el siguiente enlace!

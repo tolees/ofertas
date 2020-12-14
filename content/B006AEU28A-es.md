@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B006AEU28A/?tag=tolees-21'
 descuento: '62.45'
+average: '3'
 ---
 
 Está [Lonely And Blue + At The Rock House + 7 Bonus Tracks](https://www.amazon.es/dp/B006AEU28A/?tag=tolees-21) con 62.45 de descuento por 3 EUR (original: 7.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B019ORD3Z8/?tag=tolees-21'
 descuento: '54.25'
+average: '6.84'
 ---
 
 Tienes [L Oréal Paris Paleta de Labios Color Riche Lip Palette 001 Nude](https://www.amazon.es/dp/B019ORD3Z8/?tag=tolees-21) con un 54.25 % de descuento con precio de oferta de 6.84 EUR (original: 14.95 EUR) en el siguiente enlace!

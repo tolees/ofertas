@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079D3KDD1/?tag=tolees-21'
 descuento: '29.81'
+average: '4.78'
 ---
 
 Ahora mismo tienes [Little Trees mtr0076 Tropical Fragancia ambientador  Set de 24](https://www.amazon.es/dp/B079D3KDD1/?tag=tolees-21) a 4.78 EUR (original: 6.81 EUR) (29.81 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079J94SPT/?tag=tolees-21'
 descuento: '64.95'
+average: '4.89'
 ---
 
 Ahora mismo tienes [Mr. Wonderful Taza Pastel I m Hotter Than My Coffee  Porcelana  Azul  15x15x10 cm  30 cl](https://www.amazon.es/dp/B079J94SPT/?tag=tolees-21) a 4.89 EUR (original: 13.95 EUR) (64.95 %  de descuento) en el siguiente enlace!

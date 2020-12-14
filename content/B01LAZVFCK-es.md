@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LAZVFCK/?tag=tolees-21'
 descuento: '37.24'
+average: '51.92'
 ---
 
 Está [Silverline 537366 Plataforma de Aluminio  Plata](https://www.amazon.es/dp/B01LAZVFCK/?tag=tolees-21) con 37.24 de descuento por 51.92 EUR (original: 82.73 EUR) en el siguiente enlace!

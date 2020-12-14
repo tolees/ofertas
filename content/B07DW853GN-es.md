@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DW853GN/?tag=tolees-21'
 descuento: '52.19'
+average: '21.99'
 ---
 
 Ahora mismo tienes [HOMIEE Oxímetro de Pulso  Pulsioxímetro Profesional para Dedo  Medidor de Oxígeno en Sangre SpO2 y Monitor de Frecuencia Cardíaca para Uso Deportivo  Adultos y Niños  LCD Púrpura ](https://www.amazon.es/dp/B07DW853GN/?tag=tolees-21) a 21.99 EUR (original: 45.99 EUR) (52.19 %  de descuento) en el siguiente enlace!

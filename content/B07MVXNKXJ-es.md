@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MVXNKXJ/?tag=tolees-21'
 descuento: '62.00'
+average: '75.99'
 ---
 
 Está [INTEY Purificador de Aire  5 Velocidades-Limpiador de Aire  Tríple Filtración con Filtro HEPA  Compacto  Carbón Activo  Temporizador Ajustable  Elimina el 99% del Formaldehido  Microbio  Alérgeno](https://www.amazon.es/dp/B07MVXNKXJ/?tag=tolees-21) con 62.00 de descuento por 75.99 EUR (original: 199.99 EUR) en el siguiente enlace!

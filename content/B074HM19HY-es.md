@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074HM19HY/?tag=tolees-21'
 descuento: '65.71'
+average: '7.54'
 ---
 
 Tienes [Funko Aqua Man Figura de Vinilo 14662](https://www.amazon.es/dp/B074HM19HY/?tag=tolees-21) con un 65.71 % de descuento con precio de oferta de 7.54 EUR (original: 21.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y5LBH6V/?tag=tolees-21'
 descuento: '50.06'
+average: '44.95'
 ---
 
 Ahora mismo tienes [Vans Sk8-hi Suede/Canvas  Zapatillas Unisex Adulto  Marrón  Tiger s Eye/True White   42 EU](https://www.amazon.es/dp/B06Y5LBH6V/?tag=tolees-21) a 44.95 EUR (original: 90 EUR) (50.06 %  de descuento) en el siguiente enlace!

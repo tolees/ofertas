@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01B7MUMQQ/?tag=tolees-21'
 descuento: '56.82'
+average: '17.7'
 ---
 
 Ahora mismo tienes [MegaTagmension Blanc + Neptune vs. Zombies](https://www.amazon.es/dp/B01B7MUMQQ/?tag=tolees-21) a 17.7 EUR (original: 40.99 EUR) (56.82 %  de descuento) en el siguiente enlace!

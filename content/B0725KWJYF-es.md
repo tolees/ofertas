@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0725KWJYF/?tag=tolees-21'
 descuento: '63.03'
+average: '27.71'
 ---
 
 Ahora mismo tienes [Puma Mega NRGY Turbo  Zapatillas De Deporte para Exterior para Mujer  Negro  Black-Dark Purple   40 EU](https://www.amazon.es/dp/B0725KWJYF/?tag=tolees-21) a 27.71 EUR (original: 74.95 EUR) (63.03 %  de descuento) en el siguiente enlace!

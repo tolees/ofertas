@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFR9HVS/?tag=tolees-21'
 descuento: '47.00'
+average: '53'
 ---
 
 Está [New Balance 574  Zapatillas para Hombre  Azul  Pigment EPA   40.5 EU  Talla Fabricante: 7 UK ](https://www.amazon.es/dp/B07DFR9HVS/?tag=tolees-21) con 47.00 de descuento por 53 EUR (original: 100 EUR) en el siguiente enlace!

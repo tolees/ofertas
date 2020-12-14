@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0778ZPBLM/?tag=tolees-21'
 descuento: '43.47'
+average: '25.41'
 ---
 
 Está [Kappa Apollo  Zapatillas Unisex Adulto  Gris  Grey/Lime   44 EU](https://www.amazon.es/dp/B0778ZPBLM/?tag=tolees-21) con 43.47 de descuento por 25.41 EUR (original: 44.95 EUR) en el siguiente enlace!

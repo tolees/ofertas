@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00JDI9UII/?tag=tolees-21'
 descuento: '53.69'
+average: '8.29'
 ---
 
 Tienes [GimCat pasta extra multivitaminas   Aperitivo para gatos nutritivo con vitaminas  nutrientes y Omega 3 y 6   1 paquete  1 x 200 g ](https://www.amazon.es/dp/B00JDI9UII/?tag=tolees-21) con un 53.69 % de descuento con precio de oferta de 8.29 EUR (original: 17.9 EUR) en el siguiente enlace!

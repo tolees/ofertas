@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071DKSRC6/?tag=tolees-21'
 descuento: '66.39'
+average: '6.05'
 ---
 
 Ahora mismo tienes [Activewear Top Deportivo Mujer   Azul  Abstract Print Aop   38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B071DKSRC6/?tag=tolees-21) a 6.05 EUR (original: 18 EUR) (66.39 %  de descuento) en el siguiente enlace!

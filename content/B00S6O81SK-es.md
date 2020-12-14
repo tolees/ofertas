@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00S6O81SK/?tag=tolees-21'
 descuento: '62.78'
+average: '66.99'
 ---
 
 Tienes [3 en 1 Sillita Trona Mecedora Balancin Bebe Convertible Multifuncional Infantil Color Cafe](https://www.amazon.es/dp/B00S6O81SK/?tag=tolees-21) con un 62.78 % de descuento con precio de oferta de 66.99 EUR (original: 179.99 EUR) en el siguiente enlace!

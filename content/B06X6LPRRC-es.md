@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06X6LPRRC/?tag=tolees-21'
 descuento: '47.94'
+average: '125.99'
 ---
 
 Tienes [CIARRA Campana Extractora de Pared Cristal 60cm 550 m³/h Luz LED 3 velocidades Contol Botones Reduce Ruido MAX 56dB A  Recirculación y Succión Acero Inoxidable 100W Color Negro](https://www.amazon.es/dp/B06X6LPRRC/?tag=tolees-21) con un 47.94 % de descuento con precio de oferta de 125.99 EUR (original: 241.99 EUR) en el siguiente enlace!

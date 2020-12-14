@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003PPER6U/?tag=tolees-21'
 descuento: '34.63'
+average: '16.67'
 ---
 
 Tienes [Ambiance Nature 507098 - Escurreplatos de bambú](https://www.amazon.es/dp/B003PPER6U/?tag=tolees-21) con un 34.63 % de descuento con precio de oferta de 16.67 EUR (original: 25.5 EUR) en el siguiente enlace!

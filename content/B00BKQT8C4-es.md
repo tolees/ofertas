@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00BKQT8C4/?tag=tolees-21'
 descuento: '49.56'
+average: '95.34'
 ---
 
 Tienes [Daniel Wellington - Reloj analógico para caballero con pulsera de cuero marrón  embalaje Amazon ](https://www.amazon.es/dp/B00BKQT8C4/?tag=tolees-21) con un 49.56 % de descuento con precio de oferta de 95.34 EUR (original: 189 EUR) en el siguiente enlace!

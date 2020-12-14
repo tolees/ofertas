@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01183VQIC/?tag=tolees-21'
 descuento: '75.68'
+average: '19.44'
 ---
 
 Está [Master Series Temblor Inalámbrico Recargable Bullet Vibe - 205 gr](https://www.amazon.es/dp/B01183VQIC/?tag=tolees-21) con 75.68 de descuento por 19.44 EUR (original: 79.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07P56N1PF/?tag=tolees-21'
 descuento: '65.01'
+average: '34.99'
 ---
 
 Está [Camara de Fotos para Niños Cámara para Niños Camara Digital Niños con 1.77 HD Pantalla En Color 5MP Recargable Digital Mini Cámaras de Video Niños](https://www.amazon.es/dp/B07P56N1PF/?tag=tolees-21) con 65.01 de descuento por 34.99 EUR (original: 99.99 EUR) en el siguiente enlace!

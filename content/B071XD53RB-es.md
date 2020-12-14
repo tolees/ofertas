@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071XD53RB/?tag=tolees-21'
 descuento: '75.92'
+average: '12.03'
 ---
 
 Está [Tamaris 25100  Botas para Mujer  Azul  Navy   36 EU](https://www.amazon.es/dp/B071XD53RB/?tag=tolees-21) con 75.92 de descuento por 12.03 EUR (original: 49.95 EUR) en el siguiente enlace!

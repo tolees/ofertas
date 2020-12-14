@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HFTLJCJ/?tag=tolees-21'
 descuento: '63.63'
+average: '18.1'
 ---
 
 Está [Shock Absorber Ultimate Run Bra Padded  Sujetador Deportivo para Mujer  Azul  Bleu D été 0a7  110C](https://www.amazon.es/dp/B07HFTLJCJ/?tag=tolees-21) con 63.63 de descuento por 18.1 EUR (original: 49.76 EUR) en el siguiente enlace!

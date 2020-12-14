@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JZBLTSP/?tag=tolees-21'
 descuento: '49.23'
+average: '40.62'
 ---
 
 Está [Emporio Armani Underwear 9p420 Bañador  Rojo  Rossol 00074   X-Large  Talla del Fabricante: 54  para Hombre](https://www.amazon.es/dp/B07JZBLTSP/?tag=tolees-21) con 49.23 de descuento por 40.62 EUR (original: 80 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00ITVPCQE/?tag=tolees-21'
 descuento: '32.70'
+average: '16.57'
 ---
 
 Tienes [Salki 44200024 Com Gas 240050AN-Soldador a Pistola Adaptable a Botella Popular Azul  3000 Kcal/h  Multicolor 2x12x32 cm](https://www.amazon.es/dp/B00ITVPCQE/?tag=tolees-21) con un 32.70 % de descuento con precio de oferta de 16.57 EUR (original: 24.62 EUR) en el siguiente enlace!

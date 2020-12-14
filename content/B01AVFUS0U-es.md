@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01AVFUS0U/?tag=tolees-21'
 descuento: '31.71'
+average: '12.6'
 ---
 
 Está [Simon - 75251-39 conmutador cruce s-75 Ref. 6557539025](https://www.amazon.es/dp/B01AVFUS0U/?tag=tolees-21) con 31.71 de descuento por 12.6 EUR (original: 18.45 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003WUUB1S/?tag=tolees-21'
 descuento: '73.62'
+average: '5.5'
 ---
 
 Está [Desodorante Dove  Maximum Protection original  3 x 45ml](https://www.amazon.es/dp/B003WUUB1S/?tag=tolees-21) con 73.62 de descuento por 5.5 EUR (original: 20.85 EUR) en el siguiente enlace!

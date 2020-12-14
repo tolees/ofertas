@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N4LFCVF/?tag=tolees-21'
 descuento: '53.66'
+average: '23.25'
 ---
 
 Ahora mismo tienes [Superga 2750-COTROPEU  Zapatillas para Mujer  Azul  Blue Graphite J70   35 EU](https://www.amazon.es/dp/B07N4LFCVF/?tag=tolees-21) a 23.25 EUR (original: 50.17 EUR) (53.66 %  de descuento) en el siguiente enlace!

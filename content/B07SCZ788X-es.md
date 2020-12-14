@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07SCZ788X/?tag=tolees-21'
 descuento: '30.00'
+average: '154'
 ---
 
 Tienes [Samsonite S Cure - Spinner Equipaje de Mano 81 Centimeters 138 Azul  Stone Blue Stripes ](https://www.amazon.es/dp/B07SCZ788X/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 154 EUR (original: 220 EUR) en el siguiente enlace!

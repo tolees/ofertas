@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H286BSG/?tag=tolees-21'
 descuento: '28.59'
+average: '9.99'
 ---
 
 Ahora mismo tienes [Lima de Pies Doble Cara  Eliminador de Callos con Diseño Ergonómico  Lima de Callos de Acero Inoxidable para Eliminar la Piel Dura o Muerta  Negro ](https://www.amazon.es/dp/B07H286BSG/?tag=tolees-21) a 9.99 EUR (original: 13.99 EUR) (28.59 %  de descuento) en el siguiente enlace!

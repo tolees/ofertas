@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074HKQ8T9/?tag=tolees-21'
 descuento: '68.62'
+average: '4.39'
 ---
 
 Está [Funko- Pocket Pop Keychain: Disney-Cinderella   21321 ](https://www.amazon.es/dp/B074HKQ8T9/?tag=tolees-21) con 68.62 de descuento por 4.39 EUR (original: 13.99 EUR) en el siguiente enlace!

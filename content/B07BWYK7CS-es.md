@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BWYK7CS/?tag=tolees-21'
 descuento: '26.30'
+average: '44.95'
 ---
 
 Ahora mismo tienes [Jurassic World Evolution](https://www.amazon.es/dp/B07BWYK7CS/?tag=tolees-21) a 44.95 EUR (original: 60.99 EUR) (26.30 %  de descuento) en el siguiente enlace!

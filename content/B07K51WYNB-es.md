@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K51WYNB/?tag=tolees-21'
 descuento: '62.08'
+average: '4.55'
 ---
 
 Está [Antony Morato Calza Corta Uomo  Calcetines Casual para Hombre  Blanco  Bianco 1000   39/42  Talla del fabricante: 39/41 ](https://www.amazon.es/dp/B07K51WYNB/?tag=tolees-21) con 62.08 de descuento por 4.55 EUR (original: 12 EUR) en el siguiente enlace!

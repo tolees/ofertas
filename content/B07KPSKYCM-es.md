@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KPSKYCM/?tag=tolees-21'
 descuento: '55.78'
+average: '30.95'
 ---
 
 Está [DC Shoes Star Zip Fleece Top  Hombre  Amazon  M](https://www.amazon.es/dp/B07KPSKYCM/?tag=tolees-21) con 55.78 de descuento por 30.95 EUR (original: 69.99 EUR) en el siguiente enlace!

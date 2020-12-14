@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000ONQ80O/?tag=tolees-21'
 descuento: '37.16'
+average: '48.77'
 ---
 
 Ahora mismo tienes [Schneider Electric GV2ME14 Tesys Gv2  Disyuntor Magnetotérmico  6-.10 A  Conexión Por Tornillo](https://www.amazon.es/dp/B000ONQ80O/?tag=tolees-21) a 48.77 EUR (original: 77.61 EUR) (37.16 %  de descuento) en el siguiente enlace!

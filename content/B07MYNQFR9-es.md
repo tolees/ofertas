@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MYNQFR9/?tag=tolees-21'
 descuento: '67.69'
+average: '31.99'
 ---
 
 Está [AIJEESI I10 Auriculares Bluetooth 5.0 In-Ear Inalámbricos con Mic pour Samsung](https://www.amazon.es/dp/B07MYNQFR9/?tag=tolees-21) con 67.69 de descuento por 31.99 EUR (original: 99 EUR) en el siguiente enlace!

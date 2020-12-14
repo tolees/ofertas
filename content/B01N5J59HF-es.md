@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N5J59HF/?tag=tolees-21'
 descuento: '69.69'
+average: '30.31'
 ---
 
 Ahora mismo tienes [New Balance Cypher Run  Zapatillas de Running para Hombre  Gris  Grey/Gold   41.5 EU](https://www.amazon.es/dp/B01N5J59HF/?tag=tolees-21) a 30.31 EUR (original: 100 EUR) (69.69 %  de descuento) en el siguiente enlace!

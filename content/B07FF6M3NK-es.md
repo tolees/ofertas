@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FF6M3NK/?tag=tolees-21'
 descuento: '51.43'
+average: '92.25'
 ---
 
 Está [Cybex Gold - Capazo S Scuderia Ferrari  desde el nacimiento hasta los 6 meses  9kg   victory black](https://www.amazon.es/dp/B07FF6M3NK/?tag=tolees-21) con 51.43 de descuento por 92.25 EUR (original: 189.95 EUR) en el siguiente enlace!

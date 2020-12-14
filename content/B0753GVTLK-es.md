@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0753GVTLK/?tag=tolees-21'
 descuento: '35.41'
+average: '8.39'
 ---
 
 Tienes [Parasol Hjuns. Parasol para parabrisas frontal de coche  con diseño de dibujos animados  130 cm x 70 cm  negro ](https://www.amazon.es/dp/B0753GVTLK/?tag=tolees-21) con un 35.41 % de descuento con precio de oferta de 8.39 EUR (original: 12.99 EUR) en el siguiente enlace!

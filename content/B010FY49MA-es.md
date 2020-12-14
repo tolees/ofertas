@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B010FY49MA/?tag=tolees-21'
 descuento: '54.77'
+average: '14.45'
 ---
 
 Ahora mismo tienes [Joma - Set Basket Space Marino-Turquesa s/m w. para Mujer](https://www.amazon.es/dp/B010FY49MA/?tag=tolees-21) a 14.45 EUR (original: 31.95 EUR) (54.77 %  de descuento) en el siguiente enlace!

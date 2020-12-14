@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FCHW48K/?tag=tolees-21'
 descuento: '99.57'
+average: '14.99'
 ---
 
 Está [VonHaus Calefactor Convector 2000 W – 3 Ajustes de Calor  Termostato Ajustable  Color Negro](https://www.amazon.es/dp/B07FCHW48K/?tag=tolees-21) con 99.57 de descuento por 14.99 EUR (original: 3499 EUR) en el siguiente enlace!

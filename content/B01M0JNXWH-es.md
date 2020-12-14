@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M0JNXWH/?tag=tolees-21'
 descuento: '68.73'
+average: '18.45'
 ---
 
 Está [Reloj Chronostar Watches - Mujer R3753258504](https://www.amazon.es/dp/B01M0JNXWH/?tag=tolees-21) con 68.73 de descuento por 18.45 EUR (original: 59 EUR) en el siguiente enlace!

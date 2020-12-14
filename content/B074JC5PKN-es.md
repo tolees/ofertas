@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074JC5PKN/?tag=tolees-21'
 descuento: '67.31'
+average: '32.67'
 ---
 
 Está [G-Star RAW Deline Aop  Zapatillas para Hombre  Amarillo  Neon Yellow/Asfalt Aop 9277   41 EU](https://www.amazon.es/dp/B074JC5PKN/?tag=tolees-21) con 67.31 de descuento por 32.67 EUR (original: 99.95 EUR) en el siguiente enlace!

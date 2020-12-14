@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078S7DPCB/?tag=tolees-21'
 descuento: '25.59'
+average: '31.99'
 ---
 
 Está [Audew Aspirador Coche 120W con Bolsa de Transporte 5M Cable Auto Vacuum Cleaner Mojado/Seco Portátil DC12V Auto Aspiradores Mano para Coche…](https://www.amazon.es/dp/B078S7DPCB/?tag=tolees-21) con 25.59 de descuento por 31.99 EUR (original: 42.99 EUR) en el siguiente enlace!

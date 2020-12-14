@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0171NNNIO/?tag=tolees-21'
 descuento: '50.24'
+average: '20.8'
 ---
 
 Tienes [Philips HP6393/00 cortadora de pelo y maquinilla - Afeitadora  AAA  Color blanco  Alcalino  Eyebrow ](https://www.amazon.es/dp/B0171NNNIO/?tag=tolees-21) con un 50.24 % de descuento con precio de oferta de 20.8 EUR (original: 41.8 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y5CHJMZ/?tag=tolees-21'
 descuento: '50.29'
+average: '59.15'
 ---
 
 Ahora mismo tienes [Pikolinos Viena W3n_i17  Botas para Mujer  Gris  Lead   37 EU](https://www.amazon.es/dp/B06Y5CHJMZ/?tag=tolees-21) a 59.15 EUR (original: 119 EUR) (50.29 %  de descuento) en el siguiente enlace!

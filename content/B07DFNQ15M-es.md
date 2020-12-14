@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFNQ15M/?tag=tolees-21'
 descuento: '55.20'
+average: '22.38'
 ---
 
 Está [Puma ESS Track FL Sweatshirt  Mujer  Cotton Black  M](https://www.amazon.es/dp/B07DFNQ15M/?tag=tolees-21) con 55.20 de descuento por 22.38 EUR (original: 49.95 EUR) en el siguiente enlace!

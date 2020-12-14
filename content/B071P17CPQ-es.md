@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071P17CPQ/?tag=tolees-21'
 descuento: '81.89'
+average: '10.13'
 ---
 
 Está [Marco Tozzi Cool Club 46207  Zapatillas Altas para Niñas  Rosa  Rose/Ice   36 EU](https://www.amazon.es/dp/B071P17CPQ/?tag=tolees-21) con 81.89 de descuento por 10.13 EUR (original: 55.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0045JCFLY/?tag=tolees-21'
 descuento: '29.39'
+average: '6.99'
 ---
 
 Tienes [Arctic MX-4 – Compuesto térmico de micropartículas de carbono  pasta térmica para cualquier ventilador de CPU - 4 gramos](https://www.amazon.es/dp/B0045JCFLY/?tag=tolees-21) con un 29.39 % de descuento con precio de oferta de 6.99 EUR (original: 9.9 EUR) en el siguiente enlace!

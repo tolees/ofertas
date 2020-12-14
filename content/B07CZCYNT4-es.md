@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZCYNT4/?tag=tolees-21'
 descuento: '46.76'
+average: '18.63'
 ---
 
 Ahora mismo tienes [Under Armour Armour Mid Crossback Bra Sujetador Deportivo  Mujer  Rosa Purple Ace/Mojo Pink 641  L](https://www.amazon.es/dp/B07CZCYNT4/?tag=tolees-21) a 18.63 EUR (original: 34.99 EUR) (46.76 %  de descuento) en el siguiente enlace!

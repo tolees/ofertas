@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BHH7T42/?tag=tolees-21'
 descuento: '34.69'
+average: '97.9'
 ---
 
 Ahora mismo tienes [ubeegol Ducha Set Grifo de Ducha Columna de Ducha Cobre – Sistema de Ducha con lluvia Ducha Cromo Barra de Ducha Mano Ducha Barra Ducha Set](https://www.amazon.es/dp/B07BHH7T42/?tag=tolees-21) a 97.9 EUR (original: 149.9 EUR) (34.69 %  de descuento) en el siguiente enlace!

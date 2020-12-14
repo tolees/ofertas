@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003EE99TM/?tag=tolees-21'
 descuento: '41.54'
+average: '38'
 ---
 
 Tienes [Casio Smart Watch Armbanduhr LTP-1302SG-7A](https://www.amazon.es/dp/B003EE99TM/?tag=tolees-21) con un 41.54 % de descuento con precio de oferta de 38 EUR (original: 65 EUR) en el siguiente enlace!

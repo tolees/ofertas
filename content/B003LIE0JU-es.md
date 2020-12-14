@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003LIE0JU/?tag=tolees-21'
 descuento: '37.97'
+average: '124'
 ---
 
 Tienes [Severin KS 9807 Mini-Congelador  30 L  Blanco](https://www.amazon.es/dp/B003LIE0JU/?tag=tolees-21) con un 37.97 % de descuento con precio de oferta de 124 EUR (original: 199.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XH3ZRYX/?tag=tolees-21'
 descuento: '48.10'
+average: '12.95'
 ---
 
 Tienes [Real Madrid Perfume Consumo para Hombre - 100 ml](https://www.amazon.es/dp/B06XH3ZRYX/?tag=tolees-21) con un 48.10 % de descuento con precio de oferta de 12.95 EUR (original: 24.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017BCI4LG/?tag=tolees-21'
 descuento: '25.93'
+average: '3'
 ---
 
 Tienes [Toallitas Olay para Limpieza Facial  piel sensible  - 20 unidades](https://www.amazon.es/dp/B017BCI4LG/?tag=tolees-21) con un 25.93 % de descuento con precio de oferta de 3 EUR (original: 4.05 EUR) en el siguiente enlace!

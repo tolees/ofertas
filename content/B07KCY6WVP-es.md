@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KCY6WVP/?tag=tolees-21'
 descuento: '58.78'
+average: '18.55'
 ---
 
 Está [Hurley M Icon Stretch Chino 19  Bermudas  Hombre  Khaki  31](https://www.amazon.es/dp/B07KCY6WVP/?tag=tolees-21) con 58.78 de descuento por 18.55 EUR (original: 45 EUR) en el siguiente enlace!

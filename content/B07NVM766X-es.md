@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NVM766X/?tag=tolees-21'
 descuento: '47.24'
+average: '18.99'
 ---
 
 Ahora mismo tienes [HALOViE 12 piezas Bombas de Baño Efervescentes Flotantes de Spa Baño de Burbujas Sales de Baño Aceites Esenciales Naturales Productos de Baño Imprescindibles Relajante de Cuerpo Set de Regalo](https://www.amazon.es/dp/B07NVM766X/?tag=tolees-21) a 18.99 EUR (original: 35.99 EUR) (47.24 %  de descuento) en el siguiente enlace!

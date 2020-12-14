@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NVW4ZLF/?tag=tolees-21'
 descuento: '39.93'
+average: '17.96'
 ---
 
 Ahora mismo tienes [Café Royal Lungo Forte 100 cápsulas compatibles con Nespresso  Intensidad: 8 de 10  Pack de 10 x 10 cápsulas ](https://www.amazon.es/dp/B07NVW4ZLF/?tag=tolees-21) a 17.96 EUR (original: 29.9 EUR) (39.93 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BY7FHHT/?tag=tolees-21'
 descuento: '94.05'
+average: '7.43'
 ---
 
 Ahora mismo tienes [MSI B360I Gaming Pro AC - Placa Base Performance Gaming  LGA 1151  2 x PCI-E 3.0 x 16 Slots  2 DIMMS  4 x SATA  Negro](https://www.amazon.es/dp/B07BY7FHHT/?tag=tolees-21) a 7.43 EUR (original: 124.9 EUR) (94.05 %  de descuento) en el siguiente enlace!

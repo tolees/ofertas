@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LZSA5OZ/?tag=tolees-21'
 descuento: '79.96'
+average: '14.02'
 ---
 
 Tienes [JACK & JONES Jjimike Jjdash Ge 784 Indigo Knit Noos  Jeans Hombre  Negro  Black Denim   W28/L30  Talla del fabricante: 28 ](https://www.amazon.es/dp/B01LZSA5OZ/?tag=tolees-21) con un 79.96 % de descuento con precio de oferta de 14.02 EUR (original: 69.95 EUR) en el siguiente enlace!

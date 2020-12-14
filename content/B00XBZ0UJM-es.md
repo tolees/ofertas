@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00XBZ0UJM/?tag=tolees-21'
 descuento: '40.75'
+average: '11.79'
 ---
 
 Tienes [Phoenix Technologies PHGP102 - Funda  Funda de protección  GoPro  Hero 4/3+/3/2/1  Negro ](https://www.amazon.es/dp/B00XBZ0UJM/?tag=tolees-21) con un 40.75 % de descuento con precio de oferta de 11.79 EUR (original: 19.9 EUR) en el siguiente enlace!

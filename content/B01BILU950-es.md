@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BILU950/?tag=tolees-21'
 descuento: '31.45'
+average: '5.45'
 ---
 
 Tienes [Head Xtremesoft Overgrip  Unisex Adulto  Rosa  Talla Única](https://www.amazon.es/dp/B01BILU950/?tag=tolees-21) con un 31.45 % de descuento con precio de oferta de 5.45 EUR (original: 7.95 EUR) en el siguiente enlace!

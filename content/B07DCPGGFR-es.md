@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCPGGFR/?tag=tolees-21'
 descuento: '58.76'
+average: '32.97'
 ---
 
 Está [Reebok Cl Nylon  Zapatillas para Mujer  Azul  Mutedberries-Blue Slate/White/Chalk 0   38 EU](https://www.amazon.es/dp/B07DCPGGFR/?tag=tolees-21) con 58.76 de descuento por 32.97 EUR (original: 79.95 EUR) en el siguiente enlace!

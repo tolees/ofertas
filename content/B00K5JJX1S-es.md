@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00K5JJX1S/?tag=tolees-21'
 descuento: '28.34'
+average: '24.83'
 ---
 
 Tienes [Baofeng Uv-5R - Radio  negro](https://www.amazon.es/dp/B00K5JJX1S/?tag=tolees-21) con un 28.34 % de descuento con precio de oferta de 24.83 EUR (original: 34.65 EUR) en el siguiente enlace!

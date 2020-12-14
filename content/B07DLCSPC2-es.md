@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLCSPC2/?tag=tolees-21'
 descuento: '50.15'
+average: '8.47'
 ---
 
 Tienes [Women s Secret PM Gallon 3Bc  Braguita para Mujer   Varios 98   Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07DLCSPC2/?tag=tolees-21) con un 50.15 % de descuento con precio de oferta de 8.47 EUR (original: 16.99 EUR) en el siguiente enlace!

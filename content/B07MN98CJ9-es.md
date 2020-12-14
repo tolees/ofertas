@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MN98CJ9/?tag=tolees-21'
 descuento: '44.00'
+average: '28'
 ---
 
 Tienes [The North Face Polo Piquet  Hombre  Verde  Garden Green   S](https://www.amazon.es/dp/B07MN98CJ9/?tag=tolees-21) con un 44.00 % de descuento con precio de oferta de 28 EUR (original: 50 EUR) en el siguiente enlace!

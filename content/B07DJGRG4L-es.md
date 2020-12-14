@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJGRG4L/?tag=tolees-21'
 descuento: '60.13'
+average: '23.9'
 ---
 
 Ahora mismo tienes [Dockers by Gerli 43st301  Botas Militar para Mujer  Gris  Hellgrau 210   39 EU](https://www.amazon.es/dp/B07DJGRG4L/?tag=tolees-21) a 23.9 EUR (original: 59.95 EUR) (60.13 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GDMHLLC/?tag=tolees-21'
 descuento: '55.08'
+average: '5.79'
 ---
 
 Está [jrester 2 X Funda BQ Aquaris V Plus Amor + Flor Rosa Flexible Suave Transparente TPU Gel Silicona Anti-Arañazos Smartphone Cascara Protectora para BQ Aquaris V Plus/VS Plus  5 5" ](https://www.amazon.es/dp/B07GDMHLLC/?tag=tolees-21) con 55.08 de descuento por 5.79 EUR (original: 12.89 EUR) en el siguiente enlace!

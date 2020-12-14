@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0160OCLY2/?tag=tolees-21'
 descuento: '52.76'
+average: '11.22'
 ---
 
 Tienes [Lico - Bailarinas de Cuero Niñas  Color Blanco  Talla 41 EU](https://www.amazon.es/dp/B0160OCLY2/?tag=tolees-21) con un 52.76 % de descuento con precio de oferta de 11.22 EUR (original: 23.75 EUR) en el siguiente enlace!

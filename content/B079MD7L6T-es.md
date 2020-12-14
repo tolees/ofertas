@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079MD7L6T/?tag=tolees-21'
 descuento: '40.34'
+average: '7.75'
 ---
 
 Ahora mismo tienes [Pepe Jeans Fabio Neceser de Viaje  22 cm  1.32 litros  Azul](https://www.amazon.es/dp/B079MD7L6T/?tag=tolees-21) a 7.75 EUR (original: 12.99 EUR) (40.34 %  de descuento) en el siguiente enlace!

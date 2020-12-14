@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M6WFPV4/?tag=tolees-21'
 descuento: '41.00'
+average: '58.99'
 ---
 
 Ahora mismo tienes [Hopekings Picadora de Carne Eléctrica 350W  Máquina Picadoras de Carne con 3 Placas de Molienda  Embutidora de Salchichas  Función inversa  Acero Inoxidable](https://www.amazon.es/dp/B07M6WFPV4/?tag=tolees-21) a 58.99 EUR (original: 99.99 EUR) (41.00 %  de descuento) en el siguiente enlace!

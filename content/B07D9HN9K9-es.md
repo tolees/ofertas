@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9HN9K9/?tag=tolees-21'
 descuento: '47.53'
+average: '41.95'
 ---
 
 Está [Adidas ULTIMAMOTION  Zapatillas para Mujer  Gris Carbon/Core Black 0  40 EU](https://www.amazon.es/dp/B07D9HN9K9/?tag=tolees-21) con 47.53 de descuento por 41.95 EUR (original: 79.95 EUR) en el siguiente enlace!

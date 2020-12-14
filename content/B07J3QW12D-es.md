@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J3QW12D/?tag=tolees-21'
 descuento: '53.31'
+average: '8.95'
 ---
 
 Está [Dim Shorty Mod Bañador  Amarillo  Jaune Or 7Vo   38 para Mujer](https://www.amazon.es/dp/B07J3QW12D/?tag=tolees-21) con 53.31 de descuento por 8.95 EUR (original: 19.17 EUR) en el siguiente enlace!

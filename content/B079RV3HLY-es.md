@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RV3HLY/?tag=tolees-21'
 descuento: '82.24'
+average: '14.19'
 ---
 
 Está [Pepe Jeans Oscar Suéter  Gris  Grey Marl 933   L para Hombre](https://www.amazon.es/dp/B079RV3HLY/?tag=tolees-21) con 82.24 de descuento por 14.19 EUR (original: 79.9 EUR) en el siguiente enlace!

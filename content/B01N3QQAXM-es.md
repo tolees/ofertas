@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N3QQAXM/?tag=tolees-21'
 descuento: '31.24'
+average: '74.95'
 ---
 
 Está [Festina Reloj Análogo clásico para Hombre de Cuarzo con Correa en Cuero F16977/3](https://www.amazon.es/dp/B01N3QQAXM/?tag=tolees-21) con 31.24 de descuento por 74.95 EUR (original: 109 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06ZZ5SDVD/?tag=tolees-21'
 descuento: '29.34'
+average: '52.99'
 ---
 
 Ahora mismo tienes [Aingoo Nido de 3 mesas Mesa de centro de madera Mesa de mesa de extremo con pierna de metal  marrón oscuro](https://www.amazon.es/dp/B06ZZ5SDVD/?tag=tolees-21) a 52.99 EUR (original: 74.99 EUR) (29.34 %  de descuento) en el siguiente enlace!

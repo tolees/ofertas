@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IN7JU3O/?tag=tolees-21'
 descuento: '71.51'
+average: '22.78'
 ---
 
 Ahora mismo tienes [Gioseppo ARKADE - Botas para Mujer  Color Negro  Talla 36](https://www.amazon.es/dp/B01IN7JU3O/?tag=tolees-21) a 22.78 EUR (original: 79.95 EUR) (71.51 %  de descuento) en el siguiente enlace!

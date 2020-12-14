@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078GVVRVR/?tag=tolees-21'
 descuento: '36.34'
+average: '39.45'
 ---
 
 Tienes [Cressi Calibro + Corsica Packs de Snorkel  Unisex Adulto  Verde](https://www.amazon.es/dp/B078GVVRVR/?tag=tolees-21) con un 36.34 % de descuento con precio de oferta de 39.45 EUR (original: 61.97 EUR) en el siguiente enlace!

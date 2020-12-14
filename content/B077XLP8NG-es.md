@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XLP8NG/?tag=tolees-21'
 descuento: '56.61'
+average: '19.52'
 ---
 
 Está [Under Armour CC Scramble Polo  Hombre  Azul Medium Heather/Academy 408  S](https://www.amazon.es/dp/B077XLP8NG/?tag=tolees-21) con 56.61 de descuento por 19.52 EUR (original: 44.99 EUR) en el siguiente enlace!

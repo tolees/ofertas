@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076P9VWZD/?tag=tolees-21'
 descuento: '51.58'
+average: '59.99'
 ---
 
 Está [Relaxdays Mesa Auxiliar Y Taburete Hexagonal 2 En 1  Madera-Metal  Marrón/Dorado  45X40X35 Cm](https://www.amazon.es/dp/B076P9VWZD/?tag=tolees-21) con 51.58 de descuento por 59.99 EUR (original: 123.89 EUR) en el siguiente enlace!

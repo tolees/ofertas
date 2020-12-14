@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005ERP24I/?tag=tolees-21'
 descuento: '45.61'
+average: '35.9'
 ---
 
 Ahora mismo tienes [Nike Academy 16  Chándal para Hombre  Multicolor  Rojo/Negro   M](https://www.amazon.es/dp/B005ERP24I/?tag=tolees-21) a 35.9 EUR (original: 66 EUR) (45.61 %  de descuento) en el siguiente enlace!

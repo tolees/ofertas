@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00YPRVGDO/?tag=tolees-21'
 descuento: '83.71'
+average: '24.9'
 ---
 
 Tienes [Postquam - Global DNA | Crema Antiedad para una Piel Elastica y Firme - 50 Ml](https://www.amazon.es/dp/B00YPRVGDO/?tag=tolees-21) con un 83.71 % de descuento con precio de oferta de 24.9 EUR (original: 152.89 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FK7KWMK/?tag=tolees-21'
 descuento: '58.17'
+average: '18.98'
 ---
 
 Ahora mismo tienes [MUCO Cinturón para hombre Cinturones de hebilla cinturón casual Piel Negro Adecuado para jeans y trajes](https://www.amazon.es/dp/B07FK7KWMK/?tag=tolees-21) a 18.98 EUR (original: 45.37 EUR) (58.17 %  de descuento) en el siguiente enlace!

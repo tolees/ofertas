@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077TNDRVX/?tag=tolees-21'
 descuento: '39.38'
+average: '199.45'
 ---
 
 Ahora mismo tienes [Suunto - Spartan Trainer Wrist HR - SS023408000 - Amber  Ámbar  - Talla única](https://www.amazon.es/dp/B077TNDRVX/?tag=tolees-21) a 199.45 EUR (original: 329 EUR) (39.38 %  de descuento) en el siguiente enlace!

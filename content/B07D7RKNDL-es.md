@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D7RKNDL/?tag=tolees-21'
 descuento: '60.78'
+average: '31.36'
 ---
 
 Ahora mismo tienes [adidas X 18.3 AG  Botas de fútbol para Hombre  Azul  Fooblu/Amasol/Negbás 000   43 1/3 EU](https://www.amazon.es/dp/B07D7RKNDL/?tag=tolees-21) a 31.36 EUR (original: 79.95 EUR) (60.78 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00E25TE0G/?tag=tolees-21'
 descuento: '61.76'
+average: '6.5'
 ---
 
 Está [Fetish Tentation Premium Mordaza de Silicona - 1 unidad](https://www.amazon.es/dp/B00E25TE0G/?tag=tolees-21) con 61.76 de descuento por 6.5 EUR (original: 17 EUR) en el siguiente enlace!

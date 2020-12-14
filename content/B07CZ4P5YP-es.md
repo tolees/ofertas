@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ4P5YP/?tag=tolees-21'
 descuento: '40.05'
+average: '23.95'
 ---
 
 Está [G-STAR RAW Classic Trunk 3 Pack Bañador   Khaki Ao/Sage/Dk Black A411   X-Small para Hombre](https://www.amazon.es/dp/B07CZ4P5YP/?tag=tolees-21) con 40.05 de descuento por 23.95 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJLDLDG/?tag=tolees-21'
 descuento: '53.64'
+average: '27.79'
 ---
 
 Está [Dockers by Gerli 43fa301  Botas Militar para Mujer  Azul  Hellblau 610   38 EU](https://www.amazon.es/dp/B07DJLDLDG/?tag=tolees-21) con 53.64 de descuento por 27.79 EUR (original: 59.95 EUR) en el siguiente enlace!

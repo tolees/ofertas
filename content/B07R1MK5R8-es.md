@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07R1MK5R8/?tag=tolees-21'
 descuento: '35.02'
+average: '12.99'
 ---
 
 Tienes [Luz de Libro LED [Nueva Versión]  Toolove Lámpara de Lectura Recargable con 4 Modos de Brillo  Atenuación Gradual de Brillo  Luz de Lectura Manos Libres y Brazos Flexibles para Kindle  Lectura  Libros](https://www.amazon.es/dp/B07R1MK5R8/?tag=tolees-21) con un 35.02 % de descuento con precio de oferta de 12.99 EUR (original: 19.99 EUR) en el siguiente enlace!

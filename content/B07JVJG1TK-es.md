@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JVJG1TK/?tag=tolees-21'
 descuento: '25.01'
+average: '29.99'
 ---
 
 Ahora mismo tienes [Think Gizmos Coche a Control Remoto por Todo Terreno Maestro de Velocidad  Rojo Speed Master ](https://www.amazon.es/dp/B07JVJG1TK/?tag=tolees-21) a 29.99 EUR (original: 39.99 EUR) (25.01 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FDDY3HP/?tag=tolees-21'
 descuento: '35.88'
+average: '25.64'
 ---
 
 Está [The Princess Guide](https://www.amazon.es/dp/B07FDDY3HP/?tag=tolees-21) con 35.88 de descuento por 25.64 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KQKWKXS/?tag=tolees-21'
 descuento: '25.67'
+average: '74.29'
 ---
 
 Está [adidas Deerupt Runner  Zapatillas de Gimnasia para Hombre  Blanco FTWR White/Core Black/Shock Red  46 EU](https://www.amazon.es/dp/B07KQKWKXS/?tag=tolees-21) con 25.67 de descuento por 74.29 EUR (original: 99.95 EUR) en el siguiente enlace!

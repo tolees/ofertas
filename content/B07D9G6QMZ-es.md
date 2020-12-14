@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9G6QMZ/?tag=tolees-21'
 descuento: '46.70'
+average: '42.61'
 ---
 
 Está [Adidas Run80S  Zapatillas para Hombre  Azul Dark Blue/Legend Ink 0  40 2/3 EU](https://www.amazon.es/dp/B07D9G6QMZ/?tag=tolees-21) con 46.70 de descuento por 42.61 EUR (original: 79.95 EUR) en el siguiente enlace!

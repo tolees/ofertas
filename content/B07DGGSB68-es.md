@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DGGSB68/?tag=tolees-21'
 descuento: '30.00'
+average: '59.5'
 ---
 
 Tienes [DC Shoes Heathrow Vulc  Zapatillas de Skateboard para Hombre  Negro  Black/Camel Bc1   43 EU](https://www.amazon.es/dp/B07DGGSB68/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 59.5 EUR (original: 85 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078FRZTJ2/?tag=tolees-21'
 descuento: '46.96'
+average: '21.19'
 ---
 
 Ahora mismo tienes [Skechers Go Run 400-Fast Pace  Zapatillas para Niños  Gris  Charcoal/Black Ccbk  36 EU](https://www.amazon.es/dp/B078FRZTJ2/?tag=tolees-21) a 21.19 EUR (original: 39.95 EUR) (46.96 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCVJSTC/?tag=tolees-21'
 descuento: '48.44'
+average: '42.52'
 ---
 
 Está [Reebok Royal Cmplt CLN LX  Zapatillas de Deporte para Hombre   Alloy/Black/White 000   41 EU](https://www.amazon.es/dp/B07DCVJSTC/?tag=tolees-21) con 48.44 de descuento por 42.52 EUR (original: 82.46 EUR) en el siguiente enlace!

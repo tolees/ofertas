@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B018Y0QS2G/?tag=tolees-21'
 descuento: '48.47'
+average: '23.19'
 ---
 
 Ahora mismo tienes [VAUDE Detergente Nikwax Tech Wash TX Direct 2 x 1 l  Transparente  2  30341](https://www.amazon.es/dp/B018Y0QS2G/?tag=tolees-21) a 23.19 EUR (original: 45 EUR) (48.47 %  de descuento) en el siguiente enlace!

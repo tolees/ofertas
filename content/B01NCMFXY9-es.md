@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NCMFXY9/?tag=tolees-21'
 descuento: '58.32'
+average: '9.17'
 ---
 
 Está [find. Lace Detail Ribbed Suéter para Mujer  Blanco  White   48  Talla del Fabricante: XXX-Large ](https://www.amazon.es/dp/B01NCMFXY9/?tag=tolees-21) con 58.32 de descuento por 9.17 EUR (original: 22 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003ELDKWC/?tag=tolees-21'
 descuento: '42.21'
+average: '11.5'
 ---
 
 Tienes [Piz Buin - Protección Solar  Loción allergy SPF 30 - Protección alta Bote 200 ml](https://www.amazon.es/dp/B003ELDKWC/?tag=tolees-21) con un 42.21 % de descuento con precio de oferta de 11.5 EUR (original: 19.9 EUR) en el siguiente enlace!

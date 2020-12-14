@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XG6TFCH/?tag=tolees-21'
 descuento: '45.70'
+average: '132.29'
 ---
 
 Tienes [Ariston 3100552 Termo Eléctrico  Andris Lux Eco 30 Or   30 l 1200 W  220 V   color blanco y negro](https://www.amazon.es/dp/B06XG6TFCH/?tag=tolees-21) con un 45.70 % de descuento con precio de oferta de 132.29 EUR (original: 243.65 EUR) en el siguiente enlace!

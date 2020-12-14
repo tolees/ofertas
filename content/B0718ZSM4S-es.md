@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0718ZSM4S/?tag=tolees-21'
 descuento: '61.77'
+average: '24.83'
 ---
 
 Ahora mismo tienes [Reebok Royal Ultra SL  Zapatillas para Mujer   Black/Meteor Seaside Grey/White   37 EU](https://www.amazon.es/dp/B0718ZSM4S/?tag=tolees-21) a 24.83 EUR (original: 64.95 EUR) (61.77 %  de descuento) en el siguiente enlace!

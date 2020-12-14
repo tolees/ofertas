@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06VVB6C5R/?tag=tolees-21'
 descuento: '30.96'
+average: '28.99'
 ---
 
 Ahora mismo tienes [deAO RC Carrera a Coches de Choque Teledirigidos *Verde vs Rojo* - Set de 2 Coches Acrobáticos Rojo 27MHz / Verde 40MHz](https://www.amazon.es/dp/B06VVB6C5R/?tag=tolees-21) a 28.99 EUR (original: 41.99 EUR) (30.96 %  de descuento) en el siguiente enlace!

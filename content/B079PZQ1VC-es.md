@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079PZQ1VC/?tag=tolees-21'
 descuento: '50.77'
+average: '7.38'
 ---
 
 Ahora mismo tienes [Funko Pop!- Marvel: Avengers Infinity War Figura de Vinilo   26904 ](https://www.amazon.es/dp/B079PZQ1VC/?tag=tolees-21) a 7.38 EUR (original: 14.99 EUR) (50.77 %  de descuento) en el siguiente enlace!

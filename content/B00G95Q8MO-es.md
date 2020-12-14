@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00G95Q8MO/?tag=tolees-21'
 descuento: '75.29'
+average: '21.99'
 ---
 
 Está [Superga 2095- SUEU  Zapatillas de deporte Unisex  Azul  Blue Night Shadow   36 EU](https://www.amazon.es/dp/B00G95Q8MO/?tag=tolees-21) con 75.29 de descuento por 21.99 EUR (original: 89 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N0SKDWK/?tag=tolees-21'
 descuento: '46.77'
+average: '23.95'
 ---
 
 Está [Columbia Zero Rules Polo con Protección Solar 30  Hombre  Verde  Cypress Heather   L](https://www.amazon.es/dp/B01N0SKDWK/?tag=tolees-21) con 46.77 de descuento por 23.95 EUR (original: 44.99 EUR) en el siguiente enlace!

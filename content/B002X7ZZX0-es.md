@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002X7ZZX0/?tag=tolees-21'
 descuento: '59.88'
+average: '43.73'
 ---
 
 Tienes [Pikolinos - Botas de cuero para hombre  color Negro  E Black   talla 41](https://www.amazon.es/dp/B002X7ZZX0/?tag=tolees-21) con un 59.88 % de descuento con precio de oferta de 43.73 EUR (original: 109 EUR) en el siguiente enlace!

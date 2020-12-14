@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B014KPLYLO/?tag=tolees-21'
 descuento: '38.80'
+average: '7.95'
 ---
 
 Ahora mismo tienes [Reebok Tube de Resistencia - Medio](https://www.amazon.es/dp/B014KPLYLO/?tag=tolees-21) a 7.95 EUR (original: 12.99 EUR) (38.80 %  de descuento) en el siguiente enlace!

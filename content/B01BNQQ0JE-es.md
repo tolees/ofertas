@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BNQQ0JE/?tag=tolees-21'
 descuento: '38.47'
+average: '73.71'
 ---
 
 Está [Black+Decker BC20BD Cargador 20 Arrancador 40 AMP](https://www.amazon.es/dp/B01BNQQ0JE/?tag=tolees-21) con 38.47 de descuento por 73.71 EUR (original: 119.79 EUR) en el siguiente enlace!

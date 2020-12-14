@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MY48EEM/?tag=tolees-21'
 descuento: '75.46'
+average: '14.73'
 ---
 
 Está [Morgan 171-Rull.P  Mono para Mujer  Multicolor  Noir/off White   40  Talla del fabricante: T40 ](https://www.amazon.es/dp/B01MY48EEM/?tag=tolees-21) con 75.46 de descuento por 14.73 EUR (original: 60.03 EUR) en el siguiente enlace!

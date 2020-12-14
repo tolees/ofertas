@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D7PCXV3/?tag=tolees-21'
 descuento: '59.49'
+average: '32'
 ---
 
 Ahora mismo tienes [Nautica - Zapatillas para Hombre  Color Blanco  Talla 44 EU M](https://www.amazon.es/dp/B07D7PCXV3/?tag=tolees-21) a 32 EUR (original: 79 EUR) (59.49 %  de descuento) en el siguiente enlace!

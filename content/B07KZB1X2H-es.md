@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KZB1X2H/?tag=tolees-21'
 descuento: '44.74'
+average: '49.73'
 ---
 
 Está [Nike Lunar Legend 7 Pro IC  Zapatillas de fútbol Sala Unisex Adulto  Blanco  White/Black 100   39 EU](https://www.amazon.es/dp/B07KZB1X2H/?tag=tolees-21) con 44.74 de descuento por 49.73 EUR (original: 90 EUR) en el siguiente enlace!

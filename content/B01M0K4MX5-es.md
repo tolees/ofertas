@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M0K4MX5/?tag=tolees-21'
 descuento: '76.43'
+average: '18.77'
 ---
 
 Está [Reebok Work ib1012 S1P 47 audaz deporte aluminio Toe zapato de trabajo  resistente al agua  47  azul marino/naranja](https://www.amazon.es/dp/B01M0K4MX5/?tag=tolees-21) con 76.43 de descuento por 18.77 EUR (original: 79.62 EUR) en el siguiente enlace!

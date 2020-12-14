@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M4O3YKT/?tag=tolees-21'
 descuento: '48.98'
+average: '2.5'
 ---
 
 Ahora mismo tienes [SANON - SANON Papaya 100 comprimidos de 600 mg](https://www.amazon.es/dp/B01M4O3YKT/?tag=tolees-21) a 2.5 EUR (original: 4.9 EUR) (48.98 %  de descuento) en el siguiente enlace!

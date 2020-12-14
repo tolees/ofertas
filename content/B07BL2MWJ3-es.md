@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BL2MWJ3/?tag=tolees-21'
 descuento: '62.22'
+average: '34'
 ---
 
 Tienes [New Balance 420  Zapatillas Unisex Adulto  Rojo  NB Magnet Burgundy   44 EU](https://www.amazon.es/dp/B07BL2MWJ3/?tag=tolees-21) con un 62.22 % de descuento con precio de oferta de 34 EUR (original: 90 EUR) en el siguiente enlace!

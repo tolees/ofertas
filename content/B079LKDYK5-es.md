@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079LKDYK5/?tag=tolees-21'
 descuento: '54.96'
+average: '31.53'
 ---
 
 Tienes [BILLABONG S.Searcher 1 Piece Traje de baño de una Pieza  Mujer  Rosa  S](https://www.amazon.es/dp/B079LKDYK5/?tag=tolees-21) con un 54.96 % de descuento con precio de oferta de 31.53 EUR (original: 70 EUR) en el siguiente enlace!

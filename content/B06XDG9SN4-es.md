@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XDG9SN4/?tag=tolees-21'
 descuento: '30.03'
+average: '7.69'
 ---
 
 Está [Maybelline New York Paleta de Maquillaje Master Bzonze - 1 Paleta de Maquillaje](https://www.amazon.es/dp/B06XDG9SN4/?tag=tolees-21) con 30.03 de descuento por 7.69 EUR (original: 10.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H9YYNWZ/?tag=tolees-21'
 descuento: '66.66'
+average: '10'
 ---
 
 Está [Masajeador 19cm-Dildo Consolador de Silicona 12 MODOS Con control remoto](https://www.amazon.es/dp/B07H9YYNWZ/?tag=tolees-21) con 66.66 de descuento por 10 EUR (original: 29.99 EUR) en el siguiente enlace!

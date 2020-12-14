@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y2T56SW/?tag=tolees-21'
 descuento: '41.70'
+average: '6.99'
 ---
 
 Está [sailimue Pulseras de Cuero Trenzado Cierre Magnético 7.5 Pulgadas Marrón](https://www.amazon.es/dp/B06Y2T56SW/?tag=tolees-21) con 41.70 de descuento por 6.99 EUR (original: 11.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CTLDD2T/?tag=tolees-21'
 descuento: '66.11'
+average: '22.03'
 ---
 
 Tienes [Under Armour UA GS Suspend  Zapatillas de Running Unisex Niños  Gris Purple Ace/Steel 101  39 EU](https://www.amazon.es/dp/B07CTLDD2T/?tag=tolees-21) con un 66.11 % de descuento con precio de oferta de 22.03 EUR (original: 65 EUR) en el siguiente enlace!

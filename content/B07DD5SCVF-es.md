@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DD5SCVF/?tag=tolees-21'
 descuento: '46.09'
+average: '13.45'
 ---
 
 Tienes [Puma Fundamentals XS II Bag  Unisex Adulto  Forest Night  OSFA](https://www.amazon.es/dp/B07DD5SCVF/?tag=tolees-21) con un 46.09 % de descuento con precio de oferta de 13.45 EUR (original: 24.95 EUR) en el siguiente enlace!

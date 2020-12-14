@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00L3CX7KY/?tag=tolees-21'
 descuento: '50.63'
+average: '429'
 ---
 
 Está [Tamron A010E - Objetivo para Canon  Estabilizador óptico  diámetro: 62mm   negro](https://www.amazon.es/dp/B00L3CX7KY/?tag=tolees-21) con 50.63 de descuento por 429 EUR (original: 869 EUR) en el siguiente enlace!

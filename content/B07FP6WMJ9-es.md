@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FP6WMJ9/?tag=tolees-21'
 descuento: '46.16'
+average: '7.85'
 ---
 
 Está [New Look Mustard Cube  Bañador para Hombre  Amarillo  Yellow Pattern   X-Small  Talla del Fabricante: 50 ](https://www.amazon.es/dp/B07FP6WMJ9/?tag=tolees-21) con 46.16 de descuento por 7.85 EUR (original: 14.58 EUR) en el siguiente enlace!

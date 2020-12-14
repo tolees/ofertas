@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00HTIYYTO/?tag=tolees-21'
 descuento: '44.22'
+average: '11.15'
 ---
 
 Tienes [Trust GXT 207 - Alfombrilla de ratón  Negro](https://www.amazon.es/dp/B00HTIYYTO/?tag=tolees-21) con un 44.22 % de descuento con precio de oferta de 11.15 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0781VZZST/?tag=tolees-21'
 descuento: '67.10'
+average: '32.88'
 ---
 
 Está [adidas Originals X_PLR  Zapatillas Textil para Hombre  Azul  42 EU](https://www.amazon.es/dp/B0781VZZST/?tag=tolees-21) con 67.10 de descuento por 32.88 EUR (original: 99.95 EUR) en el siguiente enlace!

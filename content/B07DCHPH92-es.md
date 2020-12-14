@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCHPH92/?tag=tolees-21'
 descuento: '36.47'
+average: '34.94'
 ---
 
 Tienes [Nike Jr Superfly 6 Club TF  Zapatillas de Fútbol Unisex Niños  Gris  Wolf Grey/Lt Crimson/Black 060   36.5 EU](https://www.amazon.es/dp/B07DCHPH92/?tag=tolees-21) con un 36.47 % de descuento con precio de oferta de 34.94 EUR (original: 55 EUR) en el siguiente enlace!

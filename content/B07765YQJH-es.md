@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07765YQJH/?tag=tolees-21'
 descuento: '25.06'
+average: '59.95'
 ---
 
 Está [Under Armour UA Charged Spark  Zapatillas de Running para Hombre  Negro  Black/ Red/ Red  001  001    40 EU](https://www.amazon.es/dp/B07765YQJH/?tag=tolees-21) con 25.06 de descuento por 59.95 EUR (original: 80 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0039YOHTY/?tag=tolees-21'
 descuento: '44.16'
+average: '83.2'
 ---
 
 Tienes [Reloj Casio para Hombre GW-7900-1ER](https://www.amazon.es/dp/B0039YOHTY/?tag=tolees-21) con un 44.16 % de descuento con precio de oferta de 83.2 EUR (original: 149 EUR) en el siguiente enlace!

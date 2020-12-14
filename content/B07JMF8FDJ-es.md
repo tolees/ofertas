@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JMF8FDJ/?tag=tolees-21'
 descuento: '52.17'
+average: '57.4'
 ---
 
 Tienes [Nike Wmns Air Zoom Pegasus 35  Zapatillas de Running para Mujer  Aura/Spruce Fog/Vintage Lichen 010  38 EU](https://www.amazon.es/dp/B07JMF8FDJ/?tag=tolees-21) con un 52.17 % de descuento con precio de oferta de 57.4 EUR (original: 120 EUR) en el siguiente enlace!

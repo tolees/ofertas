@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XC6MPKN/?tag=tolees-21'
 descuento: '31.11'
+average: '75.74'
 ---
 
 Tienes [WORX WX372.9 - Taladro Percutor 20V S/bat](https://www.amazon.es/dp/B06XC6MPKN/?tag=tolees-21) con un 31.11 % de descuento con precio de oferta de 75.74 EUR (original: 109.95 EUR) en el siguiente enlace!

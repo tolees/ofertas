@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07822VWSB/?tag=tolees-21'
 descuento: '54.46'
+average: '8.32'
 ---
 
 Está [Tiny Love ESPIRAL DE ACTIVIDADES Rojo - Juguete para el desarrollo del bebé  fácil de agarrar y perfecto para la dentición  color rojo](https://www.amazon.es/dp/B07822VWSB/?tag=tolees-21) con 54.46 de descuento por 8.32 EUR (original: 18.27 EUR) en el siguiente enlace!

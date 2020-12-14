@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J5M6Y9P/?tag=tolees-21'
 descuento: '44.90'
+average: '38.54'
 ---
 
 Tienes [Skechers Elite Flex-Clear Leaf  Zapatillas para Hombre  Azul  Navy Nvy   44 EU](https://www.amazon.es/dp/B07J5M6Y9P/?tag=tolees-21) con un 44.90 % de descuento con precio de oferta de 38.54 EUR (original: 69.95 EUR) en el siguiente enlace!

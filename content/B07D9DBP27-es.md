@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9DBP27/?tag=tolees-21'
 descuento: '58.18'
+average: '27.16'
 ---
 
 Está [adidas Nemeziz 18.3 AG J  Zapatillas de Fútbol para Niños  Gris Ash Silver/White Tint S18  36 2/3 EU](https://www.amazon.es/dp/B07D9DBP27/?tag=tolees-21) con 58.18 de descuento por 27.16 EUR (original: 64.95 EUR) en el siguiente enlace!

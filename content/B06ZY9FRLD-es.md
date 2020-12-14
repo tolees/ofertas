@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06ZY9FRLD/?tag=tolees-21'
 descuento: '69.29'
+average: '10.44'
 ---
 
 Tienes [Calvin Klein Hip Brief Slip  Negro  Black   X-Large para Hombre](https://www.amazon.es/dp/B06ZY9FRLD/?tag=tolees-21) con un 69.29 % de descuento con precio de oferta de 10.44 EUR (original: 34 EUR) en el siguiente enlace!

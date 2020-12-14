@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DVQDZ7Q/?tag=tolees-21'
 descuento: '56.39'
+average: '9.59'
 ---
 
 Ahora mismo tienes [Fuleadture Funda iPhone X  Slim Líquido de Silicona Gel Carcasa Alta Calidad Anti-Rasguño y Resistente Huellas Dactilares Totalmente Protectora Caso Cover Case para Apple iPhone X  5.8" ](https://www.amazon.es/dp/B07DVQDZ7Q/?tag=tolees-21) a 9.59 EUR (original: 21.99 EUR) (56.39 %  de descuento) en el siguiente enlace!

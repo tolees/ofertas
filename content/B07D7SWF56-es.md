@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D7SWF56/?tag=tolees-21'
 descuento: '60.51'
+average: '12.32'
 ---
 
 Está [Tyrrell s  Patata de bolsa  Sal Marina y Crujiente Pimienta Negra  - 12 de 150 gr.  Total: 1800 gr. ](https://www.amazon.es/dp/B07D7SWF56/?tag=tolees-21) con 60.51 de descuento por 12.32 EUR (original: 31.2 EUR) en el siguiente enlace!

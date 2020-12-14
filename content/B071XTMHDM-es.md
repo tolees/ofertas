@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071XTMHDM/?tag=tolees-21'
 descuento: '56.69'
+average: '12.99'
 ---
 
 Ahora mismo tienes [Ducha de mano  ducha fija Marsoul 3 color LED Cabeza de ducha de control de temperatura de Cabezal de ducha de filtro doble fuerte de iones negativos  25 x 8 ](https://www.amazon.es/dp/B071XTMHDM/?tag=tolees-21) a 12.99 EUR (original: 29.99 EUR) (56.69 %  de descuento) en el siguiente enlace!

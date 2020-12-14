@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D1HQG5B/?tag=tolees-21'
 descuento: '60.95'
+average: '25.36'
 ---
 
 Está [Reebok Classic Leather Ripple  Zapatillas Unisex Niños  Verde  Manilla Light/Gum 0   35 EU](https://www.amazon.es/dp/B07D1HQG5B/?tag=tolees-21) con 60.95 de descuento por 25.36 EUR (original: 64.95 EUR) en el siguiente enlace!

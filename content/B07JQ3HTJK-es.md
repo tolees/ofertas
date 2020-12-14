@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JQ3HTJK/?tag=tolees-21'
 descuento: '49.99'
+average: '34.98'
 ---
 
 Está [adidas Copa 19.3 FG  Zapatillas de Fútbol para Hombre  Negro Solar Yellow/Core Black  40 EU](https://www.amazon.es/dp/B07JQ3HTJK/?tag=tolees-21) con 49.99 de descuento por 34.98 EUR (original: 69.95 EUR) en el siguiente enlace!

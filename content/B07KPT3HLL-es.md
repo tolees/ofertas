@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KPT3HLL/?tag=tolees-21'
 descuento: '44.47'
+average: '9.99'
 ---
 
 Está [3 unidades de dispensador de tubo de pasta de dientes/exprimidor  dispensador de tubo de metal  Metal Tube Squeezer Roller Key  crema  accesorios de baño](https://www.amazon.es/dp/B07KPT3HLL/?tag=tolees-21) con 44.47 de descuento por 9.99 EUR (original: 17.99 EUR) en el siguiente enlace!

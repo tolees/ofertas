@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PNH4TWS/?tag=tolees-21'
 descuento: '56.04'
+average: '10.99'
 ---
 
 Ahora mismo tienes [ELINKUME La lámpara para Mosquitos para Interiores más Potente Plug-in Insect Killer Bug Trap Lámpara para Matar Mosquitos con Sensor de luz Control de plagas en Interiores  Blanco ](https://www.amazon.es/dp/B07PNH4TWS/?tag=tolees-21) a 10.99 EUR (original: 25 EUR) (56.04 %  de descuento) en el siguiente enlace!

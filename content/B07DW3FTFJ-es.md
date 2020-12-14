@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DW3FTFJ/?tag=tolees-21'
 descuento: '68.41'
+average: '23.69'
 ---
 
 Está [LE COQ SPORTIF Flag  Zapatillas para Hombre  Azul Dress Blue  42 EU](https://www.amazon.es/dp/B07DW3FTFJ/?tag=tolees-21) con 68.41 de descuento por 23.69 EUR (original: 75 EUR) en el siguiente enlace!

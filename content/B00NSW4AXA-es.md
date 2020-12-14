@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00NSW4AXA/?tag=tolees-21'
 descuento: '29.00'
+average: '48.99'
 ---
 
 Está [Beurer BY80 - Básculapara bebés  color blanco](https://www.amazon.es/dp/B00NSW4AXA/?tag=tolees-21) con 29.00 de descuento por 48.99 EUR (original: 69 EUR) en el siguiente enlace!

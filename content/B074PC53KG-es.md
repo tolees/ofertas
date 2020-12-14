@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074PC53KG/?tag=tolees-21'
 descuento: '37.52'
+average: '9.99'
 ---
 
 Está [Transformers: El Ultimo Caballero  BD + BD Extras  [Blu-ray]](https://www.amazon.es/dp/B074PC53KG/?tag=tolees-21) con 37.52 de descuento por 9.99 EUR (original: 15.99 EUR) en el siguiente enlace!

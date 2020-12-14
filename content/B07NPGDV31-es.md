@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NPGDV31/?tag=tolees-21'
 descuento: '30.06'
+average: '34.9'
 ---
 
 Ahora mismo tienes [Scalpers Basic Polo  Rojo  Burgundy 18033   Large  Tamaño del Fabricante:L  para Hombre](https://www.amazon.es/dp/B07NPGDV31/?tag=tolees-21) a 34.9 EUR (original: 49.9 EUR) (30.06 %  de descuento) en el siguiente enlace!

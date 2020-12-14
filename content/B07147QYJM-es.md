@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07147QYJM/?tag=tolees-21'
 descuento: '74.88'
+average: '23.86'
 ---
 
 Está [Pepe Jeans London Ramsy Bootie  Botas para Mujer  Plateado  Chrome   38 EU](https://www.amazon.es/dp/B07147QYJM/?tag=tolees-21) con 74.88 de descuento por 23.86 EUR (original: 95 EUR) en el siguiente enlace!

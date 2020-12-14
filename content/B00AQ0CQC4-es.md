@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00AQ0CQC4/?tag=tolees-21'
 descuento: '73.22'
+average: '4.52'
 ---
 
 Está [Campanilla y el Tesoro Perdido [Blu-ray]](https://www.amazon.es/dp/B00AQ0CQC4/?tag=tolees-21) con 73.22 de descuento por 4.52 EUR (original: 16.88 EUR) en el siguiente enlace!

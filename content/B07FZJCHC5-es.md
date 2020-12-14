@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FZJCHC5/?tag=tolees-21'
 descuento: '39.96'
+average: '48'
 ---
 
 Tienes [adidas Forest Grove W  Zapatillas de Gimnasia para Mujer  Morado Periwinkle/Raw Ochre  38 EU](https://www.amazon.es/dp/B07FZJCHC5/?tag=tolees-21) con un 39.96 % de descuento con precio de oferta de 48 EUR (original: 79.95 EUR) en el siguiente enlace!

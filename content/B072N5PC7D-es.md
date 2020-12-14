@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072N5PC7D/?tag=tolees-21'
 descuento: '55.00'
+average: '58.48'
 ---
 
 Tienes [adidas Eqt Support Adv  Zapatillas para Hombre  Negro  Negbas/Ftwbla/Gritra   40 EU](https://www.amazon.es/dp/B072N5PC7D/?tag=tolees-21) con un 55.00 % de descuento con precio de oferta de 58.48 EUR (original: 129.95 EUR) en el siguiente enlace!

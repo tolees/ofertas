@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072MT5XBK/?tag=tolees-21'
 descuento: '56.24'
+average: '28.42'
 ---
 
 Ahora mismo tienes [Skechers You-Shine  Zapatillas sin Cordones para Mujer  Negro  Black/White   36 EU](https://www.amazon.es/dp/B072MT5XBK/?tag=tolees-21) a 28.42 EUR (original: 64.95 EUR) (56.24 %  de descuento) en el siguiente enlace!

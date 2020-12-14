@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IHHE57Q/?tag=tolees-21'
 descuento: '61.38'
+average: '10.81'
 ---
 
 Está [Playshoes Kinder Frottee-Bademantel Bär mit Kapuze  Traje de baño Niños  Beige  beige   74  Talla del fabricante: 74/80 ](https://www.amazon.es/dp/B01IHHE57Q/?tag=tolees-21) con 61.38 de descuento por 10.81 EUR (original: 27.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CB1ZPJ3/?tag=tolees-21'
 descuento: '39.25'
+average: '140.06'
 ---
 
 Ahora mismo tienes [Dormi Premium Elixir 30 - Colchón Viscoelástico  140 x 190 x 30 cm  Algodón/Poliuretano  Blanco/Gris  Matrimonio](https://www.amazon.es/dp/B07CB1ZPJ3/?tag=tolees-21) a 140.06 EUR (original: 230.55 EUR) (39.25 %  de descuento) en el siguiente enlace!

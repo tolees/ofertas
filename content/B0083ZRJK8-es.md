@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0083ZRJK8/?tag=tolees-21'
 descuento: '34.67'
+average: '19.6'
 ---
 
 Está [Nike Pico 4  PSV   Zapatillas de Tenis Unisex  Blanco/Rosa  28 EU](https://www.amazon.es/dp/B0083ZRJK8/?tag=tolees-21) con 34.67 de descuento por 19.6 EUR (original: 30 EUR) en el siguiente enlace!

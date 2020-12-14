@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9G6Q8L/?tag=tolees-21'
 descuento: '53.11'
+average: '37.49'
 ---
 
 Tienes [adidas RUN80S  Zapatillas para Hombre  Negro Core Black/Carbon 0  44 2/3 EU](https://www.amazon.es/dp/B07D9G6Q8L/?tag=tolees-21) con un 53.11 % de descuento con precio de oferta de 37.49 EUR (original: 79.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DPCKZG7/?tag=tolees-21'
 descuento: '40.20'
+average: '65.78'
 ---
 
 Ahora mismo tienes [Burton Deringer Mascara  Mujer  Blanco/Rosa  Sonar   Talla Única](https://www.amazon.es/dp/B07DPCKZG7/?tag=tolees-21) a 65.78 EUR (original: 110 EUR) (40.20 %  de descuento) en el siguiente enlace!

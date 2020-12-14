@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KFJQ66V/?tag=tolees-21'
 descuento: '43.04'
+average: '28.45'
 ---
 
 Está [G-STAR RAW Dunda Slim Polo S\\s  white 110  Large para Hombre](https://www.amazon.es/dp/B07KFJQ66V/?tag=tolees-21) con 43.04 de descuento por 28.45 EUR (original: 49.95 EUR) en el siguiente enlace!

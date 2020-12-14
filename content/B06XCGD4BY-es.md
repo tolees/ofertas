@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XCGD4BY/?tag=tolees-21'
 descuento: '66.45'
+average: '43.62'
 ---
 
 Está [Clarks Varby Top  Cargadores clásicos para Hombre  Negro  Black Leather   42 EU](https://www.amazon.es/dp/B06XCGD4BY/?tag=tolees-21) con 66.45 de descuento por 43.62 EUR (original: 130 EUR) en el siguiente enlace!

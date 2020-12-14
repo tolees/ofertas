@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XG4VLRX/?tag=tolees-21'
 descuento: '72.95'
+average: '28.4'
 ---
 
 Está [Le Coq Sportif LCS R Flow W Suede/Satin  Entrenadores Bajos para Mujer  Gris  Frost Gray   38 EU](https://www.amazon.es/dp/B06XG4VLRX/?tag=tolees-21) con 72.95 de descuento por 28.4 EUR (original: 105 EUR) en el siguiente enlace!

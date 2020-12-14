@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DL87T3J/?tag=tolees-21'
 descuento: '53.74'
+average: '7.86'
 ---
 
 Está [Women s Secret CP Flower Sbup  Sujetador básico para Mujer   Rosa 71   95  Tamaño del Fabricante:95B ](https://www.amazon.es/dp/B07DL87T3J/?tag=tolees-21) con 53.74 de descuento por 7.86 EUR (original: 16.99 EUR) en el siguiente enlace!

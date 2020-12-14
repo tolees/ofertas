@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L9NSTJW/?tag=tolees-21'
 descuento: '52.03'
+average: '16.31'
 ---
 
 Está [Napapijri K Elbas 2 Polo  Azul  BLU Marine 176   104  Talla del Fabricante: 04  para Niños](https://www.amazon.es/dp/B07L9NSTJW/?tag=tolees-21) con 52.03 de descuento por 16.31 EUR (original: 34 EUR) en el siguiente enlace!

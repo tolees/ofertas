@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071YYM47S/?tag=tolees-21'
 descuento: '66.09'
+average: '10.17'
 ---
 
 Está [PIECES Pcjane LS Wool Knit Noos suéter  Azul  Ponderosa Pine Detail: Melange   36  Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B071YYM47S/?tag=tolees-21) con 66.09 de descuento por 10.17 EUR (original: 29.99 EUR) en el siguiente enlace!

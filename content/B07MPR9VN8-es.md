@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MPR9VN8/?tag=tolees-21'
 descuento: '26.76'
+average: '17.65'
 ---
 
 Tienes [Jagermeister Jagermeister Licor 35º - 1000 ml](https://www.amazon.es/dp/B07MPR9VN8/?tag=tolees-21) con un 26.76 % de descuento con precio de oferta de 17.65 EUR (original: 24.1 EUR) en el siguiente enlace!

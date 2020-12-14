@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0748GT6KQ/?tag=tolees-21'
 descuento: '49.96'
+average: '5.98'
 ---
 
 Está [Lower East Le239 Corbata Azul  Navy  Talla única](https://www.amazon.es/dp/B0748GT6KQ/?tag=tolees-21) con 49.96 de descuento por 5.98 EUR (original: 11.95 EUR) en el siguiente enlace!

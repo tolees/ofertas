@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BYZHSK6/?tag=tolees-21'
 descuento: '49.83'
+average: '60.2'
 ---
 
 Está [Hackett London AMR HKT Multi Polo  M para Hombre](https://www.amazon.es/dp/B07BYZHSK6/?tag=tolees-21) con 49.83 de descuento por 60.2 EUR (original: 120 EUR) en el siguiente enlace!

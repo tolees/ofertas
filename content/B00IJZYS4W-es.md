@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IJZYS4W/?tag=tolees-21'
 descuento: '33.71'
+average: '11.66'
 ---
 
 Está [Campingaz MiniMaxi - Nevera portátil  30 cm  18 cm  24 cm  Rojo  Amarillo ](https://www.amazon.es/dp/B00IJZYS4W/?tag=tolees-21) con 33.71 de descuento por 11.66 EUR (original: 17.59 EUR) en el siguiente enlace!

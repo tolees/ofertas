@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9C4CKN/?tag=tolees-21'
 descuento: '76.18'
+average: '30.96'
 ---
 
 Ahora mismo tienes [Adidas Nemeziz 18.2 FG  Zapatillas de Fútbol para Hombre  Azul Footwear White/Football Blue 0  46 EU](https://www.amazon.es/dp/B07D9C4CKN/?tag=tolees-21) a 30.96 EUR (original: 129.95 EUR) (76.18 %  de descuento) en el siguiente enlace!

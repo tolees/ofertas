@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N77YGFY/?tag=tolees-21'
 descuento: '57.00'
+average: '4.3'
 ---
 
 Tienes [Kong JU04132 Cat Nibble Bitz Fish  Pez](https://www.amazon.es/dp/B01N77YGFY/?tag=tolees-21) con un 57.00 % de descuento con precio de oferta de 4.3 EUR (original: 10 EUR) en el siguiente enlace!

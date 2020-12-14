@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00436FIZY/?tag=tolees-21'
 descuento: '60.84'
+average: '11.71'
 ---
 
 Está [Roadstar CLR-2618 - Radio despertador MW/FM  color negro](https://www.amazon.es/dp/B00436FIZY/?tag=tolees-21) con 60.84 de descuento por 11.71 EUR (original: 29.9 EUR) en el siguiente enlace!

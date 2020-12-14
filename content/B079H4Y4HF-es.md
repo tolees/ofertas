@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079H4Y4HF/?tag=tolees-21'
 descuento: '98.59'
+average: '0.62'
 ---
 
 Tienes [Kingston SDS/64GB - Tarjeta de Memoria SD  Micro SDS  64 GB  UHS-I  Clase 10  hasta 80 MB/s ](https://www.amazon.es/dp/B079H4Y4HF/?tag=tolees-21) con un 98.59 % de descuento con precio de oferta de 0.62 EUR (original: 44 EUR) en el siguiente enlace!

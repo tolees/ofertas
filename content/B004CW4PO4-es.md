@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004CW4PO4/?tag=tolees-21'
 descuento: '32.71'
+average: '160.45'
 ---
 
 Tienes [Elite Arion - Rodillo de ciclismo  color rojo y negro](https://www.amazon.es/dp/B004CW4PO4/?tag=tolees-21) con un 32.71 % de descuento con precio de oferta de 160.45 EUR (original: 238.45 EUR) en el siguiente enlace!

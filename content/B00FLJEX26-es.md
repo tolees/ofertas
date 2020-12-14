@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00FLJEX26/?tag=tolees-21'
 descuento: '28.93'
+average: '21.25'
 ---
 
 Ahora mismo tienes [Breville VST051X - Sandwichera con platos desmontables](https://www.amazon.es/dp/B00FLJEX26/?tag=tolees-21) a 21.25 EUR (original: 29.9 EUR) (28.93 %  de descuento) en el siguiente enlace!

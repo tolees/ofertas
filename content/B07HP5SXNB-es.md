@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HP5SXNB/?tag=tolees-21'
 descuento: '56.80'
+average: '21.6'
 ---
 
 Tienes [Volcom Men s Frickin Modern Stretch Chino Shorts  Hombre  Blue  33](https://www.amazon.es/dp/B07HP5SXNB/?tag=tolees-21) con un 56.80 % de descuento con precio de oferta de 21.6 EUR (original: 50 EUR) en el siguiente enlace!

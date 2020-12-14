@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00DSZ59L4/?tag=tolees-21'
 descuento: '66.56'
+average: '5'
 ---
 
 Tienes [La Duda [Blu-ray]](https://www.amazon.es/dp/B00DSZ59L4/?tag=tolees-21) con un 66.56 % de descuento con precio de oferta de 5 EUR (original: 14.95 EUR) en el siguiente enlace!

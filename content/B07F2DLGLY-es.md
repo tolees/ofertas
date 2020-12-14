@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F2DLGLY/?tag=tolees-21'
 descuento: '55.31'
+average: '6.95'
 ---
 
 Tienes [Puma One 5 – Espinilleras  otoño/Invierno  Unisex Adulto  Color Shocking Orange-Puma Black-Puma White  tamaño Medium](https://www.amazon.es/dp/B07F2DLGLY/?tag=tolees-21) con un 55.31 % de descuento con precio de oferta de 6.95 EUR (original: 15.55 EUR) en el siguiente enlace!

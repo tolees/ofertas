@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0149XAJEU/?tag=tolees-21'
 descuento: '82.04'
+average: '8.97'
 ---
 
 Ahora mismo tienes [Tamaris 24317  Mocasines para Mujer  Rojo  Bordeaux 549   40 EU](https://www.amazon.es/dp/B0149XAJEU/?tag=tolees-21) a 8.97 EUR (original: 49.95 EUR) (82.04 %  de descuento) en el siguiente enlace!

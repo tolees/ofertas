@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FRC6LJZ/?tag=tolees-21'
 descuento: '54.21'
+average: '32.03'
 ---
 
 Está [Clarks Step Urban Mix  Zapatillas para Hombre  Rojo  Burgundy-   44.5 EU](https://www.amazon.es/dp/B07FRC6LJZ/?tag=tolees-21) con 54.21 de descuento por 32.03 EUR (original: 69.95 EUR) en el siguiente enlace!

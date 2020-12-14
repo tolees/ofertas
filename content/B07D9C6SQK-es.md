@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9C6SQK/?tag=tolees-21'
 descuento: '51.61'
+average: '31.43'
 ---
 
 Está [adidas Nemeziz 18.3 AG  Zapatillas de Fútbol para Niños  Rojo  Zest/Core Black/Solar Red 0   38 EU](https://www.amazon.es/dp/B07D9C6SQK/?tag=tolees-21) con 51.61 de descuento por 31.43 EUR (original: 64.95 EUR) en el siguiente enlace!

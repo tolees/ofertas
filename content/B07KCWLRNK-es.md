@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KCWLRNK/?tag=tolees-21'
 descuento: '48.97'
+average: '15.31'
 ---
 
 Está [Hurley Bloomer Photo PRM tee SS Camisetas  Hombre  Black  L](https://www.amazon.es/dp/B07KCWLRNK/?tag=tolees-21) con 48.97 de descuento por 15.31 EUR (original: 30 EUR) en el siguiente enlace!

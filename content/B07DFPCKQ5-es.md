@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFPCKQ5/?tag=tolees-21'
 descuento: '62.80'
+average: '29.76'
 ---
 
 Tienes [New Balance 715v3  Zapatillas Deportivas para Interior para Mujer  Negro Black  37 EU](https://www.amazon.es/dp/B07DFPCKQ5/?tag=tolees-21) con un 62.80 % de descuento con precio de oferta de 29.76 EUR (original: 80 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CVC12PW/?tag=tolees-21'
 descuento: '55.03'
+average: '8.99'
 ---
 
 Está [Eono Essentials - Juego de 3 bolsas de malla para lavadora resistentes: 3 extragrandes y 1 grande  con cierre de cordón  para residencias de estudiantes y apartamentos](https://www.amazon.es/dp/B07CVC12PW/?tag=tolees-21) con 55.03 de descuento por 8.99 EUR (original: 19.99 EUR) en el siguiente enlace!

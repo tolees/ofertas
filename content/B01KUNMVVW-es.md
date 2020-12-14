@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KUNMVVW/?tag=tolees-21'
 descuento: '48.00'
+average: '65'
 ---
 
 Está [Solac CE4493 - Cafetera Espresso 19 Bar  bomba de presión 19 bares  con portafiltros  vaporizador inox y apagado automático  color negro](https://www.amazon.es/dp/B01KUNMVVW/?tag=tolees-21) con 48.00 de descuento por 65 EUR (original: 124.99 EUR) en el siguiente enlace!

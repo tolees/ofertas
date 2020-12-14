@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004EPYF58/?tag=tolees-21'
 descuento: '29.73'
+average: '43.5'
 ---
 
 Ahora mismo tienes [Scitec Nutrition 100% Whey Isolate Suplemento Nutricional de Proteinas con Sabor de Vainilla  2kg](https://www.amazon.es/dp/B004EPYF58/?tag=tolees-21) a 43.5 EUR (original: 61.9 EUR) (29.73 %  de descuento) en el siguiente enlace!

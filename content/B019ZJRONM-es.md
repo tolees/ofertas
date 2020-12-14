@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B019ZJRONM/?tag=tolees-21'
 descuento: '30.14'
+average: '16.41'
 ---
 
 Está [AmazonBasics - Manta suave con tacto de terciopelo  Completa/Queen   gris](https://www.amazon.es/dp/B019ZJRONM/?tag=tolees-21) con 30.14 de descuento por 16.41 EUR (original: 23.49 EUR) en el siguiente enlace!

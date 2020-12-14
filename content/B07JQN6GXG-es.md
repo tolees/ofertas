@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JQN6GXG/?tag=tolees-21'
 descuento: '51.56'
+average: '10.4'
 ---
 
 Está [Amazon Essentials 2-Pack Short-Sleeve Active tee novelty-infant-and-toddler-shirts  Purple/Pink Spacedye  3 años](https://www.amazon.es/dp/B07JQN6GXG/?tag=tolees-21) con 51.56 de descuento por 10.4 EUR (original: 21.47 EUR) en el siguiente enlace!

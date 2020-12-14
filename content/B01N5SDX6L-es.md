@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N5SDX6L/?tag=tolees-21'
 descuento: '55.13'
+average: '16.96'
 ---
 
 Tienes [American Crew Shaving Skincare Precision Gel Afeitar - 450 ml](https://www.amazon.es/dp/B01N5SDX6L/?tag=tolees-21) con un 55.13 % de descuento con precio de oferta de 16.96 EUR (original: 37.8 EUR) en el siguiente enlace!

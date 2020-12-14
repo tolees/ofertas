@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00VMKWLP4/?tag=tolees-21'
 descuento: '30.09'
+average: '38.45'
 ---
 
 Está [Fossil pendientes acero inoxidable-- --JF01737791 óxido de circonio](https://www.amazon.es/dp/B00VMKWLP4/?tag=tolees-21) con 30.09 de descuento por 38.45 EUR (original: 55 EUR) en el siguiente enlace!

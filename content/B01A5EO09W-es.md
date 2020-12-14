@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01A5EO09W/?tag=tolees-21'
 descuento: '54.09'
+average: '13.75'
 ---
 
 Tienes [Contigo Pinacle 10 - Termo antigoteo  Color sandía  300 ml](https://www.amazon.es/dp/B01A5EO09W/?tag=tolees-21) con un 54.09 % de descuento con precio de oferta de 13.75 EUR (original: 29.95 EUR) en el siguiente enlace!

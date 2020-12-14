@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MYMTBLR/?tag=tolees-21'
 descuento: '62.51'
+average: '29.99'
 ---
 
 Está [Verdaderos Auriculares inalámbricos Bluetooth V5.0 para iPad iPhone XS MAX](https://www.amazon.es/dp/B07MYMTBLR/?tag=tolees-21) con 62.51 de descuento por 29.99 EUR (original: 79.99 EUR) en el siguiente enlace!

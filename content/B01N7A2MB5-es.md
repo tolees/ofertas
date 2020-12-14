@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N7A2MB5/?tag=tolees-21'
 descuento: '54.24'
+average: '45.76'
 ---
 
 Tienes [New Balance 720v4  Zapatillas Deportivas para Interior para Hombre  Gris  Dark Grey   42 EU](https://www.amazon.es/dp/B01N7A2MB5/?tag=tolees-21) con un 54.24 % de descuento con precio de oferta de 45.76 EUR (original: 100 EUR) en el siguiente enlace!

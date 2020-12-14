@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JGD4FGC/?tag=tolees-21'
 descuento: '71.10'
+average: '15.88'
 ---
 
 Ahora mismo tienes [Puma Athletics Pants TR cl Pantalones  Hombre  Cotton Black  XXL](https://www.amazon.es/dp/B07JGD4FGC/?tag=tolees-21) a 15.88 EUR (original: 54.95 EUR) (71.10 %  de descuento) en el siguiente enlace!

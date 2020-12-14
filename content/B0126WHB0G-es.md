@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0126WHB0G/?tag=tolees-21'
 descuento: '70.82'
+average: '28.99'
 ---
 
 Tienes [Beileshi Red and Green Reflex Sight with 4 Reticles by Beileshi](https://www.amazon.es/dp/B0126WHB0G/?tag=tolees-21) con un 70.82 % de descuento con precio de oferta de 28.99 EUR (original: 99.34 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MY09VMC/?tag=tolees-21'
 descuento: '67.35'
+average: '35.59'
 ---
 
 Está [Lacoste L.12.12 BL 2 CAW  Zapatillas para Mujer  Azul  Nvy   37.5 EU](https://www.amazon.es/dp/B01MY09VMC/?tag=tolees-21) con 67.35 de descuento por 35.59 EUR (original: 109 EUR) en el siguiente enlace!

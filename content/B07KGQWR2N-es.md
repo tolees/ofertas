@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGQWR2N/?tag=tolees-21'
 descuento: '70.67'
+average: '37.83'
 ---
 
 Tienes [BOSS Kapowe suéter  Azul  Dark Blue 404   XX-Large para Hombre](https://www.amazon.es/dp/B07KGQWR2N/?tag=tolees-21) con un 70.67 % de descuento con precio de oferta de 37.83 EUR (original: 129 EUR) en el siguiente enlace!

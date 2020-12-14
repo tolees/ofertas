@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000LFRXW2/?tag=tolees-21'
 descuento: '30.26'
+average: '27.73'
 ---
 
 Ahora mismo tienes [Silverline SW05 - Sierra de precisión para ingletes Sierra 550 mm 14 dpp](https://www.amazon.es/dp/B000LFRXW2/?tag=tolees-21) a 27.73 EUR (original: 39.76 EUR) (30.26 %  de descuento) en el siguiente enlace!

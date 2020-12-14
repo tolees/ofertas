@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074TPXLWY/?tag=tolees-21'
 descuento: '32.89'
+average: '46.98'
 ---
 
 Ahora mismo tienes [Vans Maddie Suede Zapatillas Mujer  Varios Colores  Tribal   40.5 EU](https://www.amazon.es/dp/B074TPXLWY/?tag=tolees-21) a 46.98 EUR (original: 70 EUR) (32.89 %  de descuento) en el siguiente enlace!

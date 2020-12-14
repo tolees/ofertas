@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D8FC5FJ/?tag=tolees-21'
 descuento: '29.56'
+average: '44.95'
 ---
 
 Ahora mismo tienes [Munich 3110876  Zapatillas de Deporte Unisex Adulto  Multicolor  3110876 Multicolor   44 EU](https://www.amazon.es/dp/B07D8FC5FJ/?tag=tolees-21) a 44.95 EUR (original: 63.81 EUR) (29.56 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078YWP2TB/?tag=tolees-21'
 descuento: '55.99'
+average: '7.46'
 ---
 
 Ahora mismo tienes [MELATONINA PURA + VITAMINA B6 – Concilia un sueño rápido  sin interrupciones y reparador durante 8 horas – Melatonina de rápida absorción para evitar el insomnio y fomentar el descanso – 60 UDS.](https://www.amazon.es/dp/B078YWP2TB/?tag=tolees-21) a 7.46 EUR (original: 16.95 EUR) (55.99 %  de descuento) en el siguiente enlace!

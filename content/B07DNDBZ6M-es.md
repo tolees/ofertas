@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DNDBZ6M/?tag=tolees-21'
 descuento: '53.74'
+average: '18.5'
 ---
 
 Está [Esprit 098ee1i001 suéter  Azul  Bright Blue 410   Small para Mujer](https://www.amazon.es/dp/B07DNDBZ6M/?tag=tolees-21) con 53.74 de descuento por 18.5 EUR (original: 39.99 EUR) en el siguiente enlace!

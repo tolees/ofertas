@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FYZPTT9/?tag=tolees-21'
 descuento: '84.48'
+average: '13.18'
 ---
 
 Está [Wrangler Larston Pantalones  Azul  Navy 114   W28/L32 para Hombre](https://www.amazon.es/dp/B07FYZPTT9/?tag=tolees-21) con 84.48 de descuento por 13.18 EUR (original: 84.95 EUR) en el siguiente enlace!

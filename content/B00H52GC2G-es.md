@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00H52GC2G/?tag=tolees-21'
 descuento: '71.77'
+average: '16.23'
 ---
 
 Tienes [Renberg Set de 15 Cuchillos con Tacoma de Madera](https://www.amazon.es/dp/B00H52GC2G/?tag=tolees-21) con un 71.77 % de descuento con precio de oferta de 16.23 EUR (original: 57.49 EUR) en el siguiente enlace!

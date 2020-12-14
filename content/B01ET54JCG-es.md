@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01ET54JCG/?tag=tolees-21'
 descuento: '62.51'
+average: '29.99'
 ---
 
 Está [Ropero Armario Portátil Plegable Resistente Closet Organizador de Ropa - Tela No Tejida / Torre Eiffel 105 x 45 x 158 cm](https://www.amazon.es/dp/B01ET54JCG/?tag=tolees-21) con 62.51 de descuento por 29.99 EUR (original: 79.99 EUR) en el siguiente enlace!

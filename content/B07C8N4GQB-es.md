@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C8N4GQB/?tag=tolees-21'
 descuento: '32.59'
+average: '67.4'
 ---
 
 Está [AmazonBasics - Maleta rígida giratoria - 78 cm  Azul Marino](https://www.amazon.es/dp/B07C8N4GQB/?tag=tolees-21) con 32.59 de descuento por 67.4 EUR (original: 99.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GY3J3ZC/?tag=tolees-21'
 descuento: '42.14'
+average: '14.8'
 ---
 
 Está [45 Piezas Globos de látex de superhéroe  Suministros de Fiesta de cumpleaños para niños  Decoraciones de Globos de superhéroe Vengadores  9 Globos de Colores ](https://www.amazon.es/dp/B07GY3J3ZC/?tag=tolees-21) con 42.14 de descuento por 14.8 EUR (original: 25.58 EUR) en el siguiente enlace!

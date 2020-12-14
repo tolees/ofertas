@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K13MHQ9/?tag=tolees-21'
 descuento: '50.93'
+average: '31.87'
 ---
 
 Ahora mismo tienes [adidas Caflaire  Zapatillas de Tenis para Hombre  Azul FTWR White/Dark Blue  42 EU](https://www.amazon.es/dp/B07K13MHQ9/?tag=tolees-21) a 31.87 EUR (original: 64.95 EUR) (50.93 %  de descuento) en el siguiente enlace!

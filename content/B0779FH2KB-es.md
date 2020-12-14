@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0779FH2KB/?tag=tolees-21'
 descuento: '28.59'
+average: '9.99'
 ---
 
 Está [morpilot Faja Deportiva  Faja Reductora Adelgazante Ajustable Adelgazar  Faja Lumbar y Abdominal para Hombre/Mujer Cinturón Reductor con Velcro para Hacer Deporte  Fitness y Proteger la Cintura](https://www.amazon.es/dp/B0779FH2KB/?tag=tolees-21) con 28.59 de descuento por 9.99 EUR (original: 13.99 EUR) en el siguiente enlace!

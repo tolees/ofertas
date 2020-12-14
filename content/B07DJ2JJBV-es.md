@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ2JJBV/?tag=tolees-21'
 descuento: '52.82'
+average: '47.18'
 ---
 
 Tienes [New Balance 574S v2  Zapatillas para Hombre  Negro Black Ktb  42 EU](https://www.amazon.es/dp/B07DJ2JJBV/?tag=tolees-21) con un 52.82 % de descuento con precio de oferta de 47.18 EUR (original: 100 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XNTV9X7/?tag=tolees-21'
 descuento: '49.02'
+average: '10.17'
 ---
 
 Está [Joma Bali II Polo  Hombre  Marino  S](https://www.amazon.es/dp/B06XNTV9X7/?tag=tolees-21) con 49.02 de descuento por 10.17 EUR (original: 19.95 EUR) en el siguiente enlace!

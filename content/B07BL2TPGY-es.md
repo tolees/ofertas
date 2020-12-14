@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BL2TPGY/?tag=tolees-21'
 descuento: '40.86'
+average: '41.4'
 ---
 
 Tienes [New Balance 520v5  Zapatillas de Running para Mujer  Azul  Air/Cobalt/White Lt5   37 EU](https://www.amazon.es/dp/B07BL2TPGY/?tag=tolees-21) con un 40.86 % de descuento con precio de oferta de 41.4 EUR (original: 70 EUR) en el siguiente enlace!

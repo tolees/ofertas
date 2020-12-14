@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D3XCZYP/?tag=tolees-21'
 descuento: '40.03'
+average: '29.98'
 ---
 
 Está [Rizador de Pelo  Plancha Rizadora  Kealive Cerámica Rizador  Regulación Electrónica de Temperatura de 130 ° C a 220 ° C- Brillo Metálico Rosa](https://www.amazon.es/dp/B07D3XCZYP/?tag=tolees-21) con 40.03 de descuento por 29.98 EUR (original: 49.99 EUR) en el siguiente enlace!

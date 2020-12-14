@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC4L7FW/?tag=tolees-21'
 descuento: '44.74'
+average: '9.5'
 ---
 
 Tienes [UMI. Single Resistance Band  Exercise Tube - with Door Anchor and Manual  For Resistance Training  Physical Therapy  Home Workouts  Boxing Training  Red](https://www.amazon.es/dp/B07DC4L7FW/?tag=tolees-21) con un 44.74 % de descuento con precio de oferta de 9.5 EUR (original: 17.19 EUR) en el siguiente enlace!

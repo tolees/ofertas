@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01CUEH0M4/?tag=tolees-21'
 descuento: '30.36'
+average: '17.75'
 ---
 
 Ahora mismo tienes [ROC Pro Preserve - Crema Protectora  Anti Sequedad  Textura Rica  50 ml](https://www.amazon.es/dp/B01CUEH0M4/?tag=tolees-21) a 17.75 EUR (original: 25.49 EUR) (30.36 %  de descuento) en el siguiente enlace!

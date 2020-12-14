@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B009SZHLUA/?tag=tolees-21'
 descuento: '70.94'
+average: '11.61'
 ---
 
 Tienes [Yaktrax Run Crampones  Hombre  Gris  XL](https://www.amazon.es/dp/B009SZHLUA/?tag=tolees-21) con un 70.94 % de descuento con precio de oferta de 11.61 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B013LDV4HA/?tag=tolees-21'
 descuento: '76.89'
+average: '9.24'
 ---
 
 Ahora mismo tienes [Case Logic Lodo - Funda para portátil de 11.6"  Color Azul Marino](https://www.amazon.es/dp/B013LDV4HA/?tag=tolees-21) a 9.24 EUR (original: 39.99 EUR) (76.89 %  de descuento) en el siguiente enlace!

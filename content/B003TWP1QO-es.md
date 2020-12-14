@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003TWP1QO/?tag=tolees-21'
 descuento: '76.91'
+average: '7.25'
 ---
 
 Está [Bosch Home and Garden 2607010629 Hojas de Sierra de Calar  Set de 10 Piezas](https://www.amazon.es/dp/B003TWP1QO/?tag=tolees-21) con 76.91 de descuento por 7.25 EUR (original: 31.4 EUR) en el siguiente enlace!

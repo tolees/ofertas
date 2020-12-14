@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0752KZGZJ/?tag=tolees-21'
 descuento: '73.06'
+average: '36.35'
 ---
 
 Ahora mismo tienes [Frederick s of Hollywood Lujoso Recargable Vibrador Caja con Vibrador y 2 Accesorios de Silicona 20 Modos de Vibración - 555 gr](https://www.amazon.es/dp/B0752KZGZJ/?tag=tolees-21) a 36.35 EUR (original: 134.95 EUR) (73.06 %  de descuento) en el siguiente enlace!

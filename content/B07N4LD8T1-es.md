@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N4LD8T1/?tag=tolees-21'
 descuento: '64.01'
+average: '24.83'
 ---
 
 Ahora mismo tienes [Superga 2750-COTROPEU  Zapatillas para Mujer   Beige Double Cream Q29   36 EU](https://www.amazon.es/dp/B07N4LD8T1/?tag=tolees-21) a 24.83 EUR (original: 69 EUR) (64.01 %  de descuento) en el siguiente enlace!

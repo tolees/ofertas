@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XTXHWRQ/?tag=tolees-21'
 descuento: '44.04'
+average: '16.76'
 ---
 
 Tienes [Black+Decker NVB-115-JL Recogetodo ciclónico inalámbrico Blanco](https://www.amazon.es/dp/B06XTXHWRQ/?tag=tolees-21) con un 44.04 % de descuento con precio de oferta de 16.76 EUR (original: 29.95 EUR) en el siguiente enlace!

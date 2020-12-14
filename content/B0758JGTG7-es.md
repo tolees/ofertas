@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0758JGTG7/?tag=tolees-21'
 descuento: '72.75'
+average: '9.95'
 ---
 
 Tienes [American Gods  Tv  - Temporada 1 [Blu-ray]](https://www.amazon.es/dp/B0758JGTG7/?tag=tolees-21) con un 72.75 % de descuento con precio de oferta de 9.95 EUR (original: 36.51 EUR) en el siguiente enlace!

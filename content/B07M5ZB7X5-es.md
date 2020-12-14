@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M5ZB7X5/?tag=tolees-21'
 descuento: '55.21'
+average: '44.77'
 ---
 
 Tienes [G-STAR RAW Bristum Paperbag Pantalones Cortos  Azul  Sartho Blue A792-6067   28W para Mujer](https://www.amazon.es/dp/B07M5ZB7X5/?tag=tolees-21) con un 55.21 % de descuento con precio de oferta de 44.77 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G123LRD/?tag=tolees-21'
 descuento: '28.58'
+average: '19.99'
 ---
 
 Está [ENKEEO Cojín Lumbar Grueso Núcleo de Espuma de Memoria Cubierta Velboa  Diseño Ergonómico y Ortopédico  Apoyo Espalda Corección de Postura  2 Correas Ajustables Adicionales Incluidas](https://www.amazon.es/dp/B07G123LRD/?tag=tolees-21) con 28.58 de descuento por 19.99 EUR (original: 27.99 EUR) en el siguiente enlace!

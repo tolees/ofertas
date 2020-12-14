@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078GVPP76/?tag=tolees-21'
 descuento: '62.99'
+average: '9.99'
 ---
 
 Está [Kimba Cama de Viaje de Lujo y Lavable para Perro para Coche & Hogar - Pequeño  50 x 50cm ](https://www.amazon.es/dp/B078GVPP76/?tag=tolees-21) con 62.99 de descuento por 9.99 EUR (original: 26.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KWL9Q73/?tag=tolees-21'
 descuento: '69.66'
+average: '16.99'
 ---
 
 Ahora mismo tienes [Aspirador para Coche  Tsumbay Aspirador de Coche Portátil 120W 12V  Aspirador para Automóvil Potente 4500PA  Limpiador de Seco y Mojado con 4.5m Cable  HEPA Filtro de Doble Capa Lavable](https://www.amazon.es/dp/B07KWL9Q73/?tag=tolees-21) a 16.99 EUR (original: 55.99 EUR) (69.66 %  de descuento) en el siguiente enlace!

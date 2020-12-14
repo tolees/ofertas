@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00D5SXP2O/?tag=tolees-21'
 descuento: '26.88'
+average: '73.05'
 ---
 
 Está [Beurer IH40 Inhalador eléctrico  color blanco  20.1 x 14.7 x 14.1 cm  318 g](https://www.amazon.es/dp/B00D5SXP2O/?tag=tolees-21) con 26.88 de descuento por 73.05 EUR (original: 99.9 EUR) en el siguiente enlace!

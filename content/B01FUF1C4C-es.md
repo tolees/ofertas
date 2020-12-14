@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FUF1C4C/?tag=tolees-21'
 descuento: '26.68'
+average: '21.99'
 ---
 
 Tienes [Rodillos de repuesto E-Cron compatible con Emjoi Micro-Pedi eliminador de asperezas y suaves  8 recambrio.](https://www.amazon.es/dp/B01FUF1C4C/?tag=tolees-21) con un 26.68 % de descuento con precio de oferta de 21.99 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B018Z8OP8G/?tag=tolees-21'
 descuento: '66.06'
+average: '30.53'
 ---
 
 Está [Lee Luke - Jeans Hombre  azul  raven Blue   W38/L34   W38/L34 ](https://www.amazon.es/dp/B018Z8OP8G/?tag=tolees-21) con 66.06 de descuento por 30.53 EUR (original: 89.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D1XBW8R/?tag=tolees-21'
 descuento: '53.02'
+average: '35.7'
 ---
 
 Está [Gerry Weber Pullover 1/1 Arm  suéter Mujer   Schwarz/Sand/Rot 1115   48](https://www.amazon.es/dp/B07D1XBW8R/?tag=tolees-21) con 53.02 de descuento por 35.7 EUR (original: 75.99 EUR) en el siguiente enlace!

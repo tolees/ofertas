@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072LC5SMF/?tag=tolees-21'
 descuento: '49.40'
+average: '8.4'
 ---
 
 Ahora mismo tienes [MEJORES 12 AGUJAS GANCHILLO CON EMPUÑADURAS ERGONÓMICAS PARA LA MÁXIMA COMODIDAD. Perfectas para quien sufre de artritis. Aguja crochet suaves para resultados mejores para usarlascon todos los hilos.](https://www.amazon.es/dp/B072LC5SMF/?tag=tolees-21) a 8.4 EUR (original: 16.6 EUR) (49.40 %  de descuento) en el siguiente enlace!

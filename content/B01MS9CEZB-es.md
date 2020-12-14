@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MS9CEZB/?tag=tolees-21'
 descuento: '63.70'
+average: '23.58'
 ---
 
 Está [Skechers On-The-go City 3.0  Zapatillas para Hombre  Azul  Nacy Nvy   44 EU](https://www.amazon.es/dp/B01MS9CEZB/?tag=tolees-21) con 63.70 de descuento por 23.58 EUR (original: 64.95 EUR) en el siguiente enlace!

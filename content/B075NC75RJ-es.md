@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075NC75RJ/?tag=tolees-21'
 descuento: '47.73'
+average: '7.96'
 ---
 
 Tienes [Nuk Classic Set de 2 chupetes para niño Talla 1 Talla:6-18 meses](https://www.amazon.es/dp/B075NC75RJ/?tag=tolees-21) con un 47.73 % de descuento con precio de oferta de 7.96 EUR (original: 15.23 EUR) en el siguiente enlace!

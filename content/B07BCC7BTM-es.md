@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BCC7BTM/?tag=tolees-21'
 descuento: '44.29'
+average: '19.5'
 ---
 
 Ahora mismo tienes [Pandora Abalorios Mujer plata - 797037](https://www.amazon.es/dp/B07BCC7BTM/?tag=tolees-21) a 19.5 EUR (original: 35 EUR) (44.29 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D8RZLWQ/?tag=tolees-21'
 descuento: '34.30'
+average: '22.99'
 ---
 
 Tienes [Vehículos Fundidos a Troquel Pull Back Coches de Juguete Colección 12 Piezas Mini Graffiti Conjunto de Coche para Niños 3 4 5 Años](https://www.amazon.es/dp/B07D8RZLWQ/?tag=tolees-21) con un 34.30 % de descuento con precio de oferta de 22.99 EUR (original: 34.99 EUR) en el siguiente enlace!

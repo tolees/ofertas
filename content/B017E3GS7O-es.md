@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017E3GS7O/?tag=tolees-21'
 descuento: '48.76'
+average: '31.5'
 ---
 
 Tienes [No Game  No Life - Temporada 1  Edición Coleccionista  [Blu-ray]](https://www.amazon.es/dp/B017E3GS7O/?tag=tolees-21) con un 48.76 % de descuento con precio de oferta de 31.5 EUR (original: 61.47 EUR) en el siguiente enlace!

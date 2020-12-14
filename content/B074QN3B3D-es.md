@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074QN3B3D/?tag=tolees-21'
 descuento: '38.57'
+average: '39.9'
 ---
 
 Ahora mismo tienes [Skechers 52399  Zapatillas para Hombre  Azul  Navy   43 EU](https://www.amazon.es/dp/B074QN3B3D/?tag=tolees-21) a 39.9 EUR (original: 64.95 EUR) (38.57 %  de descuento) en el siguiente enlace!

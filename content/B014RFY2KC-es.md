@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B014RFY2KC/?tag=tolees-21'
 descuento: '25.44'
+average: '33.55'
 ---
 
 Está [Harry Potter Jumbo - Edición Metálica [Blu-ray]](https://www.amazon.es/dp/B014RFY2KC/?tag=tolees-21) con 25.44 de descuento por 33.55 EUR (original: 45 EUR) en el siguiente enlace!

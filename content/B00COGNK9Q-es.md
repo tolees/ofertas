@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00COGNK9Q/?tag=tolees-21'
 descuento: '77.07'
+average: '1.94'
 ---
 
 Tienes [Pasabahce Breeze Copas para Vino Rojo  Vidrio  Transparente  Juego de 6 Piezas  47 Cl](https://www.amazon.es/dp/B00COGNK9Q/?tag=tolees-21) con un 77.07 % de descuento con precio de oferta de 1.94 EUR (original: 8.46 EUR) en el siguiente enlace!

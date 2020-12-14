@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGPPZW8/?tag=tolees-21'
 descuento: '61.86'
+average: '26.7'
 ---
 
 Tienes [Burton Brighton Camisetas  Hombre  Tandori Tunnel Plaid  S](https://www.amazon.es/dp/B07KGPPZW8/?tag=tolees-21) con un 61.86 % de descuento con precio de oferta de 26.7 EUR (original: 70 EUR) en el siguiente enlace!

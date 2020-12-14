@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005EMOCBC/?tag=tolees-21'
 descuento: '27.97'
+average: '11.77'
 ---
 
 Ahora mismo tienes [Cytelium locion 100 ml ducray](https://www.amazon.es/dp/B005EMOCBC/?tag=tolees-21) a 11.77 EUR (original: 16.34 EUR) (27.97 %  de descuento) en el siguiente enlace!

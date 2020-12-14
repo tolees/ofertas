@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MS3O22K/?tag=tolees-21'
 descuento: '64.39'
+average: '32.03'
 ---
 
 Ahora mismo tienes [Reebok Classic Leather Pastels  Zapatillas para Mujer   Washed Yellow/White   40.5 EU](https://www.amazon.es/dp/B01MS3O22K/?tag=tolees-21) a 32.03 EUR (original: 89.95 EUR) (64.39 %  de descuento) en el siguiente enlace!

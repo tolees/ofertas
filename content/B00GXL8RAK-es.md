@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00GXL8RAK/?tag=tolees-21'
 descuento: '48.65'
+average: '4.75'
 ---
 
 Ahora mismo tienes [Protect Home Cebo Antihormigas Granulado  Azul](https://www.amazon.es/dp/B00GXL8RAK/?tag=tolees-21) a 4.75 EUR (original: 9.25 EUR) (48.65 %  de descuento) en el siguiente enlace!

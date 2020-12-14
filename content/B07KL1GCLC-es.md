@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KL1GCLC/?tag=tolees-21'
 descuento: '44.23'
+average: '29'
 ---
 
 Ahora mismo tienes [Safety 1st PEPS+CAPOTA  Black Chic  - Silla de paseo  color negro](https://www.amazon.es/dp/B07KL1GCLC/?tag=tolees-21) a 29 EUR (original: 52 EUR) (44.23 %  de descuento) en el siguiente enlace!

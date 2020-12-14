@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00VOAY0I8/?tag=tolees-21'
 descuento: '55.13'
+average: '7.13'
 ---
 
 Ahora mismo tienes [Flexi Design S Cordon 5m. Verde](https://www.amazon.es/dp/B00VOAY0I8/?tag=tolees-21) a 7.13 EUR (original: 15.89 EUR) (55.13 %  de descuento) en el siguiente enlace!

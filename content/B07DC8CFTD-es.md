@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC8CFTD/?tag=tolees-21'
 descuento: '68.47'
+average: '26.8'
 ---
 
 Tienes [LE COQ SPORTIF Louise Sport  Zapatillas para Mujer   Optical White/Blue Shadow Blanc   39 EU](https://www.amazon.es/dp/B07DC8CFTD/?tag=tolees-21) con un 68.47 % de descuento con precio de oferta de 26.8 EUR (original: 85 EUR) en el siguiente enlace!

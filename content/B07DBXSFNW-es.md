@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DBXSFNW/?tag=tolees-21'
 descuento: '50.15'
+average: '24.9'
 ---
 
 Está [Puma Adela Jr  Zapatillas para Niñas  Rosa Pale Pink  36 EU](https://www.amazon.es/dp/B07DBXSFNW/?tag=tolees-21) con 50.15 de descuento por 24.9 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002OQNW94/?tag=tolees-21'
 descuento: '65.45'
+average: '10.24'
 ---
 
 Tienes [Small Foot Company 4155 - Dosel [Importado de Alemania]](https://www.amazon.es/dp/B002OQNW94/?tag=tolees-21) con un 65.45 % de descuento con precio de oferta de 10.24 EUR (original: 29.64 EUR) en el siguiente enlace!

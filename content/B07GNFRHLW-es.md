@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GNFRHLW/?tag=tolees-21'
 descuento: '47.82'
+average: '15.65'
 ---
 
 Está [JACK & JONES Jcorotto Sweat Hood  Capucha Hombre  Negro  Medium  Talla del Fabricante: ](https://www.amazon.es/dp/B07GNFRHLW/?tag=tolees-21) con 47.82 de descuento por 15.65 EUR (original: 29.99 EUR) en el siguiente enlace!

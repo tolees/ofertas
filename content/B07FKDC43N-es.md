@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FKDC43N/?tag=tolees-21'
 descuento: '38.37'
+average: '73.95'
 ---
 
 Ahora mismo tienes [Nike Air Zoom Pegasus 35  Zapatillas de Running para Hombre   Black/White/Burgundy Ash/Lime Blast 016  42 EU](https://www.amazon.es/dp/B07FKDC43N/?tag=tolees-21) a 73.95 EUR (original: 120 EUR) (38.37 %  de descuento) en el siguiente enlace!

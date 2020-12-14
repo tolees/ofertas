@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K72K1RM/?tag=tolees-21'
 descuento: '64.41'
+average: '49.82'
 ---
 
 Ahora mismo tienes [Asics Gt-2000 7  Zapatillas de Running para Mujer  Azul  Mist/White 400   36 EU](https://www.amazon.es/dp/B07K72K1RM/?tag=tolees-21) a 49.82 EUR (original: 140 EUR) (64.41 %  de descuento) en el siguiente enlace!

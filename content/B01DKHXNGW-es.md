@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DKHXNGW/?tag=tolees-21'
 descuento: '68.91'
+average: '6.98'
 ---
 
 Está [Termix Evolution XL Ø28- Nuevo cepillo térmico redondo de Termix  3 cm más largo   que reduce el tiempo del secado  fibras ionizadas y tubo anti-adherente. Disponible en 5 diámetros y en formato Pack.](https://www.amazon.es/dp/B01DKHXNGW/?tag=tolees-21) con 68.91 de descuento por 6.98 EUR (original: 22.45 EUR) en el siguiente enlace!

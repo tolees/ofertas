@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IOECNKS/?tag=tolees-21'
 descuento: '52.10'
+average: '33.05'
 ---
 
 Está [Sennheiser HD 2.20s - Auriculares de Diadema Cerrados  3.5 mm  Control Remoto en línea   Color Negro](https://www.amazon.es/dp/B01IOECNKS/?tag=tolees-21) con 52.10 de descuento por 33.05 EUR (original: 69 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC6YMJN/?tag=tolees-21'
 descuento: '27.22'
+average: '39.99'
 ---
 
 Está [Puma Smash v2  Zapatillas Unisex Adulto  Gris  Charcoal Gray Team Gold White-Gum 27   44.5 EU](https://www.amazon.es/dp/B07DC6YMJN/?tag=tolees-21) con 27.22 de descuento por 39.99 EUR (original: 54.95 EUR) en el siguiente enlace!

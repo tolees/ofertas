@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078TMWYC6/?tag=tolees-21'
 descuento: '61.79'
+average: '24.82'
 ---
 
 Tienes [Skechers Skyline-Aglow  Zapatillas para Mujer  Negro  Black Gold Bkgd   36 EU](https://www.amazon.es/dp/B078TMWYC6/?tag=tolees-21) con un 61.79 % de descuento con precio de oferta de 24.82 EUR (original: 64.95 EUR) en el siguiente enlace!

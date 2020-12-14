@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L7M5WPW/?tag=tolees-21'
 descuento: '84.59'
+average: '16.99'
 ---
 
 Está [DAMIGRAM Bluetooth Karaoke Micrófono  Portátil Inalámbrica Micrófono y Altavoz del Karaoke de Bluetooth de 4 1 parlantes  para el Hogar KTV  Conectando con iOS  Sistema Android y Tabletas  Black ](https://www.amazon.es/dp/B07L7M5WPW/?tag=tolees-21) con 84.59 de descuento por 16.99 EUR (original: 110.22 EUR) en el siguiente enlace!

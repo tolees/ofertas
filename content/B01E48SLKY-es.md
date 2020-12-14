@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01E48SLKY/?tag=tolees-21'
 descuento: '25.06'
+average: '29.9'
 ---
 
 Está [Kit Depilacion Calentador de Cera Roll On Fundidor Electrico Depiladora Easy Wax Depilación con Bandas Hombre y Mujer Mealiss 100](https://www.amazon.es/dp/B01E48SLKY/?tag=tolees-21) con 25.06 de descuento por 29.9 EUR (original: 39.9 EUR) en el siguiente enlace!

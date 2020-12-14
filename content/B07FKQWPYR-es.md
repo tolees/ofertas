@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FKQWPYR/?tag=tolees-21'
 descuento: '38.52'
+average: '39.9'
 ---
 
 Está [Kipling - Arto  Bolsos bandolera Mujer  Rojo  Radiant Red C   4x29x26 cm  B x H T ](https://www.amazon.es/dp/B07FKQWPYR/?tag=tolees-21) con 38.52 de descuento por 39.9 EUR (original: 64.9 EUR) en el siguiente enlace!

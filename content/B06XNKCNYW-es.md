@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XNKCNYW/?tag=tolees-21'
 descuento: '27.34'
+average: '72.65'
 ---
 
 Tienes [Alcatel U5 4G  4 núcleos  8MPx  8Gb  Dual SIM   Color Negro](https://www.amazon.es/dp/B06XNKCNYW/?tag=tolees-21) con un 27.34 % de descuento con precio de oferta de 72.65 EUR (original: 99.99 EUR) en el siguiente enlace!

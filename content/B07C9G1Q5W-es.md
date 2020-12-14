@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C9G1Q5W/?tag=tolees-21'
 descuento: '82.25'
+average: '14.19'
 ---
 
 Está [hummel Diamant  Zapatillas Unisex Adulto  Gris  Castle Rock 2600   41 EU](https://www.amazon.es/dp/B07C9G1Q5W/?tag=tolees-21) con 82.25 de descuento por 14.19 EUR (original: 79.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G4P4RB4/?tag=tolees-21'
 descuento: '55.28'
+average: '89'
 ---
 
 Está [Michael Kors Reloj Analógico para Hombre de Cuarzo con Correa en Cuero MK8632](https://www.amazon.es/dp/B07G4P4RB4/?tag=tolees-21) con 55.28 de descuento por 89 EUR (original: 199 EUR) en el siguiente enlace!

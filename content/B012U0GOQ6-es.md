@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B012U0GOQ6/?tag=tolees-21'
 descuento: '53.39'
+average: '7.49'
 ---
 
 Tienes [Casa de Alba Fine Food Paleta Ibérica de Bellota - 100 gr](https://www.amazon.es/dp/B012U0GOQ6/?tag=tolees-21) con un 53.39 % de descuento con precio de oferta de 7.49 EUR (original: 16.07 EUR) en el siguiente enlace!

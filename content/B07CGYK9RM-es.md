@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CGYK9RM/?tag=tolees-21'
 descuento: '25.61'
+average: '5.2'
 ---
 
 Está [Maybelline New York Máscara de pestañas The Colossal Big Shot 3 Bolder Black  Tono Negro](https://www.amazon.es/dp/B07CGYK9RM/?tag=tolees-21) con 25.61 de descuento por 5.2 EUR (original: 6.99 EUR) en el siguiente enlace!

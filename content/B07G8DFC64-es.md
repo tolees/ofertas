@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G8DFC64/?tag=tolees-21'
 descuento: '66.40'
+average: '18.15'
 ---
 
 Está [Glamorous Ladies Jumpsuit  Mono para Mujer   Grey Yellow Floral BV30   36  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B07G8DFC64/?tag=tolees-21) con 66.40 de descuento por 18.15 EUR (original: 54.01 EUR) en el siguiente enlace!

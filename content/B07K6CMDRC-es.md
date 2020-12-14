@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K6CMDRC/?tag=tolees-21'
 descuento: '42.55'
+average: '22.95'
 ---
 
 Está [adidas CONDIVO18 SHO Shorts  Hombre  Collegiate Gold/Black  3XL](https://www.amazon.es/dp/B07K6CMDRC/?tag=tolees-21) con 42.55 de descuento por 22.95 EUR (original: 39.95 EUR) en el siguiente enlace!

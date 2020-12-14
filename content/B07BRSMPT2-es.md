@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BRSMPT2/?tag=tolees-21'
 descuento: '31.27'
+average: '10.99'
 ---
 
 Tienes [GreeSuit Discos Deslizantesde Ejercicios básicos Slider 2 Discos deslizantes de Doble Cara para alfombras y Pisos Duros para Entrenamiento Corporal Completo  Cross-fit y Entrenamiento Cruzado Negro ](https://www.amazon.es/dp/B07BRSMPT2/?tag=tolees-21) con un 31.27 % de descuento con precio de oferta de 10.99 EUR (original: 15.99 EUR) en el siguiente enlace!

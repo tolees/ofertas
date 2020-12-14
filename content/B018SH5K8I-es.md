@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B018SH5K8I/?tag=tolees-21'
 descuento: '60.87'
+average: '21.5'
 ---
 
 Está [Reebok Royal Cl Jogger 2  Zapatillas de Gimnasia Unisex Adulto  Negro Black/White/Baseball Grey  38.5 EU](https://www.amazon.es/dp/B018SH5K8I/?tag=tolees-21) con 60.87 de descuento por 21.5 EUR (original: 54.95 EUR) en el siguiente enlace!

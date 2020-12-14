@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFW7KGR/?tag=tolees-21'
 descuento: '75.37'
+average: '24.63'
 ---
 
 Ahora mismo tienes [New Balance 840  Zapatillas para Mujer  Rojo  NB Burgundy/Classic Gold AC   37 EU](https://www.amazon.es/dp/B07DFW7KGR/?tag=tolees-21) a 24.63 EUR (original: 100 EUR) (75.37 %  de descuento) en el siguiente enlace!

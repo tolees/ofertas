@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000YQL3RO/?tag=tolees-21'
 descuento: '32.70'
+average: '14.61'
 ---
 
 Tienes [Pippi Langstrumpf 44.3691.00 El caballo y el mono Set de 2 figuras](https://www.amazon.es/dp/B000YQL3RO/?tag=tolees-21) con un 32.70 % de descuento con precio de oferta de 14.61 EUR (original: 21.71 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078HJFGMS/?tag=tolees-21'
 descuento: '65.82'
+average: '12.3'
 ---
 
 Tienes [Springfield 1553593  Pantalones Para Hombre  Beige  Gama Tostados   Tamaño del fabricante: 40](https://www.amazon.es/dp/B078HJFGMS/?tag=tolees-21) con un 65.82 % de descuento con precio de oferta de 12.3 EUR (original: 35.99 EUR) en el siguiente enlace!

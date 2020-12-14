@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00EB68S9Y/?tag=tolees-21'
 descuento: '61.82'
+average: '8.95'
 ---
 
 Ahora mismo tienes [Fritz de madera marrón madera bastón](https://www.amazon.es/dp/B00EB68S9Y/?tag=tolees-21) a 8.95 EUR (original: 23.44 EUR) (61.82 %  de descuento) en el siguiente enlace!

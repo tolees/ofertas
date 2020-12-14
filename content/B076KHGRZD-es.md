@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076KHGRZD/?tag=tolees-21'
 descuento: '53.21'
+average: '10.99'
 ---
 
 Está [DoGeek Diadema Deportiva 10 piezas Diadema Yoga Estiramiento Elástico Cintas de Pelo Yoga Diademas de Algodón para Adolescentes  Niñas y Mujeres](https://www.amazon.es/dp/B076KHGRZD/?tag=tolees-21) con 53.21 de descuento por 10.99 EUR (original: 23.49 EUR) en el siguiente enlace!

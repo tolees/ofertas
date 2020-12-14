@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01A9CSRNA/?tag=tolees-21'
 descuento: '50.04'
+average: '5.99'
 ---
 
 Está [Esposas bondage mono para puerta](https://www.amazon.es/dp/B01A9CSRNA/?tag=tolees-21) con 50.04 de descuento por 5.99 EUR (original: 11.99 EUR) en el siguiente enlace!

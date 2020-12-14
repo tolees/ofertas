@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0014IXYF0/?tag=tolees-21'
 descuento: '32.58'
+average: '13.95'
 ---
 
 Ahora mismo tienes [Brandy Papidoux Calvados Fine 700 ml](https://www.amazon.es/dp/B0014IXYF0/?tag=tolees-21) a 13.95 EUR (original: 20.69 EUR) (32.58 %  de descuento) en el siguiente enlace!

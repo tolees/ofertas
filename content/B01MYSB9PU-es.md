@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MYSB9PU/?tag=tolees-21'
 descuento: '65.06'
+average: '27.95'
 ---
 
 Está [GlobeEncore-2  Zapatillas de Skateboard Hombre  Varios colores  Navy / Yellow   45 EU](https://www.amazon.es/dp/B01MYSB9PU/?tag=tolees-21) con 65.06 de descuento por 27.95 EUR (original: 80 EUR) en el siguiente enlace!

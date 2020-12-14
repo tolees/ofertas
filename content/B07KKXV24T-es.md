@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KKXV24T/?tag=tolees-21'
 descuento: '64.70'
+average: '24.71'
 ---
 
 Está [Burton Durable Goods Sudaderas  Hombre  Gray Heather  XXL](https://www.amazon.es/dp/B07KKXV24T/?tag=tolees-21) con 64.70 de descuento por 24.71 EUR (original: 70 EUR) en el siguiente enlace!

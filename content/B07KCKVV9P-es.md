@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KCKVV9P/?tag=tolees-21'
 descuento: '60.53'
+average: '11.84'
 ---
 
 Está [David Jones - Cm3872  Bolsos bandolera Mujer  Negro  Black   7x17x18 cm  W x H L ](https://www.amazon.es/dp/B07KCKVV9P/?tag=tolees-21) con 60.53 de descuento por 11.84 EUR (original: 30 EUR) en el siguiente enlace!

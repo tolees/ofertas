@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HJSD37C/?tag=tolees-21'
 descuento: '74.99'
+average: '4.99'
 ---
 
 Ahora mismo tienes [Edge Entertainment Tesoros inesperados - Español Color  EDG2F09](https://www.amazon.es/dp/B01HJSD37C/?tag=tolees-21) a 4.99 EUR (original: 19.95 EUR) (74.99 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MDGM5X6/?tag=tolees-21'
 descuento: '73.54'
+average: '10.57'
 ---
 
 Tienes [Tuc Tuc Pichi Vaquero+Camiseta Punto NIÑA Cute Ice  Petos para Bebés  Azul  Azul 16   56  Tamaño del Fabricante:1M ](https://www.amazon.es/dp/B07MDGM5X6/?tag=tolees-21) con un 73.54 % de descuento con precio de oferta de 10.57 EUR (original: 39.95 EUR) en el siguiente enlace!

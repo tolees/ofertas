@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071JF3T7W/?tag=tolees-21'
 descuento: '52.72'
+average: '30.71'
 ---
 
 Tienes [adidas Arianna Cloudfoam  Zapatillas de Deporte para Mujer  Rosa- ROSTAC Plamet   37 1/3 EU](https://www.amazon.es/dp/B071JF3T7W/?tag=tolees-21) con un 52.72 % de descuento con precio de oferta de 30.71 EUR (original: 64.95 EUR) en el siguiente enlace!

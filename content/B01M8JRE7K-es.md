@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M8JRE7K/?tag=tolees-21'
 descuento: '71.02'
+average: '24.62'
 ---
 
 Está [Skechers Vasar-Bota  Entrenadores para Mujer  Gris  Grey   37 EU](https://www.amazon.es/dp/B01M8JRE7K/?tag=tolees-21) con 71.02 de descuento por 24.62 EUR (original: 84.95 EUR) en el siguiente enlace!

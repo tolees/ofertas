@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCD3J1Z/?tag=tolees-21'
 descuento: '47.88'
+average: '15.63'
 ---
 
 Ahora mismo tienes [JACK & JONES Jcovincent Sweat Hood Capucha  Verde Rosin  Large para Hombre](https://www.amazon.es/dp/B07DCD3J1Z/?tag=tolees-21) a 15.63 EUR (original: 29.99 EUR) (47.88 %  de descuento) en el siguiente enlace!

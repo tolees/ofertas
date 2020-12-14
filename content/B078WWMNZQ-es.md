@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078WWMNZQ/?tag=tolees-21'
 descuento: '50.97'
+average: '15.69'
 ---
 
 Tienes [Calvin Klein Unlined Bralette  Sujetador sin Aros para Mujer  Gris  Grey Heather 020  Small](https://www.amazon.es/dp/B078WWMNZQ/?tag=tolees-21) con un 50.97 % de descuento con precio de oferta de 15.69 EUR (original: 32 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078WZHJ88/?tag=tolees-21'
 descuento: '65.09'
+average: '12.2'
 ---
 
 Está [adidas Trefoil Tight  Medias para mujer  negro  34 ES](https://www.amazon.es/dp/B078WZHJ88/?tag=tolees-21) con 65.09 de descuento por 12.2 EUR (original: 34.95 EUR) en el siguiente enlace!

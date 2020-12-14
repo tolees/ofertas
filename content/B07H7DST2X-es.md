@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H7DST2X/?tag=tolees-21'
 descuento: '48.28'
+average: '29.99'
 ---
 
 Está [Espumador Leche Eléctrico  OZAVO Espumador/Batidor de leche Automático  500W  115ML/240ML  Calentador y Espumado para café  latte  cappuccino Protección contra Sobrecalentamiento  Libre de BPA](https://www.amazon.es/dp/B07H7DST2X/?tag=tolees-21) con 48.28 de descuento por 29.99 EUR (original: 57.99 EUR) en el siguiente enlace!

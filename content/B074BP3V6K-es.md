@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074BP3V6K/?tag=tolees-21'
 descuento: '45.73'
+average: '15'
 ---
 
 Ahora mismo tienes [Wishmaster Blu-Ray Edición Coleccionista [Blu-ray]](https://www.amazon.es/dp/B074BP3V6K/?tag=tolees-21) a 15 EUR (original: 27.64 EUR) (45.73 %  de descuento) en el siguiente enlace!

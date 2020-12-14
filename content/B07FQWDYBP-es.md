@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQWDYBP/?tag=tolees-21'
 descuento: '40.27'
+average: '35.81'
 ---
 
 Está [Clarks Tunsil Ace  Zapatillas para Hombre  Rojo  Red-   44.5 EU](https://www.amazon.es/dp/B07FQWDYBP/?tag=tolees-21) con 40.27 de descuento por 35.81 EUR (original: 59.95 EUR) en el siguiente enlace!

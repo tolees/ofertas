@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BKHI9ZY/?tag=tolees-21'
 descuento: '43.16'
+average: '30.19'
 ---
 
 Está [Versa 19500516 Mesa Auxiliar Turquesa Virgini  48x38x38cm  Madera  Mesilla noche](https://www.amazon.es/dp/B01BKHI9ZY/?tag=tolees-21) con 43.16 de descuento por 30.19 EUR (original: 53.11 EUR) en el siguiente enlace!

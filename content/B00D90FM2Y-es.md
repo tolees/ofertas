@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00D90FM2Y/?tag=tolees-21'
 descuento: '28.57'
+average: '5'
 ---
 
 Ahora mismo tienes [Limoncé Licores - 700 ml](https://www.amazon.es/dp/B00D90FM2Y/?tag=tolees-21) a 5 EUR (original: 7 EUR) (28.57 %  de descuento) en el siguiente enlace!

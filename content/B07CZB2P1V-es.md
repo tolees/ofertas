@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZB2P1V/?tag=tolees-21'
 descuento: '64.43'
+average: '32.01'
 ---
 
 Está [Asics Onitsuka Tiger California 78 Ex  Zapatillas Unisex Adulto  Negro Black 001  39.5 EU](https://www.amazon.es/dp/B07CZB2P1V/?tag=tolees-21) con 64.43 de descuento por 32.01 EUR (original: 90 EUR) en el siguiente enlace!

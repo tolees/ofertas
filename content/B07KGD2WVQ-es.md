@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGD2WVQ/?tag=tolees-21'
 descuento: '50.24'
+average: '54.24'
 ---
 
 Tienes [BOSS Maine-Shorts BC-l-p Pantalones Cortos  Negro  Black 008   W31  Talla del Fabricante: 31  para Hombre](https://www.amazon.es/dp/B07KGD2WVQ/?tag=tolees-21) con un 50.24 % de descuento con precio de oferta de 54.24 EUR (original: 109 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K7LWPLN/?tag=tolees-21'
 descuento: '62.53'
+average: '7.49'
 ---
 
 Ahora mismo tienes [Maison & White Soporte de plancha y secador de pelo | Soporte de metal montado en la pared con cable ordenado | Espiral resistente al calor | Cromo](https://www.amazon.es/dp/B07K7LWPLN/?tag=tolees-21) a 7.49 EUR (original: 19.99 EUR) (62.53 %  de descuento) en el siguiente enlace!

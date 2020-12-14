@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0799KZJSH/?tag=tolees-21'
 descuento: '28.45'
+average: '8.5'
 ---
 
 Está [Karactermania Spiderman Hero Bolsa de Cuerdas para el Gimnasio  35 cm  Azul](https://www.amazon.es/dp/B0799KZJSH/?tag=tolees-21) con 28.45 de descuento por 8.5 EUR (original: 11.88 EUR) en el siguiente enlace!

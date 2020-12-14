@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ1ZVX9/?tag=tolees-21'
 descuento: '50.02'
+average: '64.95'
 ---
 
 Ahora mismo tienes [Salomon XA Lite GTX  Calzado de Trail Running  Impermeable para Mujer  Morado  Dark Potent Violet/Hollyhock   40 EU](https://www.amazon.es/dp/B07CZ1ZVX9/?tag=tolees-21) a 64.95 EUR (original: 129.95 EUR) (50.02 %  de descuento) en el siguiente enlace!

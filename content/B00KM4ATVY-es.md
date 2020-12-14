@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00KM4ATVY/?tag=tolees-21'
 descuento: '70.33'
+average: '59.73'
 ---
 
 Está [Danish Design  - Reloj Analógico de Cuarzo para Hombre  correa de Cuero color Negro](https://www.amazon.es/dp/B00KM4ATVY/?tag=tolees-21) con 70.33 de descuento por 59.73 EUR (original: 201.33 EUR) en el siguiente enlace!

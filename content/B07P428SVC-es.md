@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07P428SVC/?tag=tolees-21'
 descuento: '32.19'
+average: '25.99'
 ---
 
 Tienes [Magic Wand Massager  Silicona Masajeador Eléctrico con 10 Modos  Masaje Corporal Para Brazos y Piernas en el Hombro  para Mujeres  USB Recargable](https://www.amazon.es/dp/B07P428SVC/?tag=tolees-21) con un 32.19 % de descuento con precio de oferta de 25.99 EUR (original: 38.33 EUR) en el siguiente enlace!

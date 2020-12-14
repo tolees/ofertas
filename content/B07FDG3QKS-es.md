@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FDG3QKS/?tag=tolees-21'
 descuento: '46.47'
+average: '53.5'
 ---
 
 Está [Palladium Pallaphoenix Mblty Lt  Botas Clasicas Unisex Adulto  Negro Black 466  40 EU](https://www.amazon.es/dp/B07FDG3QKS/?tag=tolees-21) con 46.47 de descuento por 53.5 EUR (original: 99.95 EUR) en el siguiente enlace!

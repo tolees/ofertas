@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y15CT1G/?tag=tolees-21'
 descuento: '66.67'
+average: '39.99'
 ---
 
 Está [Suenoszzz - Cabecero Canada  Cama90  100X57 Cms. Color Beige](https://www.amazon.es/dp/B06Y15CT1G/?tag=tolees-21) con 66.67 de descuento por 39.99 EUR (original: 119.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075PG7QPG/?tag=tolees-21'
 descuento: '39.97'
+average: '38.99'
 ---
 
 Está [Skechers Quantum-Flex-Country Walker  Zapatillas para Hombre  Marrón  Brown   41 EU](https://www.amazon.es/dp/B075PG7QPG/?tag=tolees-21) con 39.97 de descuento por 38.99 EUR (original: 64.95 EUR) en el siguiente enlace!

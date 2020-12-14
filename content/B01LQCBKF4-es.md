@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LQCBKF4/?tag=tolees-21'
 descuento: '42.08'
+average: '14.45'
 ---
 
 Ahora mismo tienes [Buff Original  113264.555.10.00 Tubular de Microfibra y Forro Polar  Ninos  Multicolor  outdoor   Talla Única](https://www.amazon.es/dp/B01LQCBKF4/?tag=tolees-21) a 14.45 EUR (original: 24.95 EUR) (42.08 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BO4JUDI/?tag=tolees-21'
 descuento: '45.63'
+average: '8.15'
 ---
 
 Ahora mismo tienes [POP! Vinilo - Harry Potter: Neville Longbottom](https://www.amazon.es/dp/B01BO4JUDI/?tag=tolees-21) a 8.15 EUR (original: 14.99 EUR) (45.63 %  de descuento) en el siguiente enlace!

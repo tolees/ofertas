@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0198QDM9C/?tag=tolees-21'
 descuento: '31.13'
+average: '110'
 ---
 
 Tienes [Ballistix Sport LT BLS16G4D240FSC - Memoria RAM de 16GB  DDR4  2400 MT/s  PC4-19200  Dual Rank x8  DIMM  288-Pin  blanco](https://www.amazon.es/dp/B0198QDM9C/?tag=tolees-21) con un 31.13 % de descuento con precio de oferta de 110 EUR (original: 159.71 EUR) en el siguiente enlace!

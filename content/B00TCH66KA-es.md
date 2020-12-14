@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TCH66KA/?tag=tolees-21'
 descuento: '44.40'
+average: '24.99'
 ---
 
 Tienes [Casals C01241000 Atornillador a batería de litio y maletín completo  4.7 W  3.6 V  Negro  Verde  Rojo](https://www.amazon.es/dp/B00TCH66KA/?tag=tolees-21) con un 44.40 % de descuento con precio de oferta de 24.99 EUR (original: 44.95 EUR) en el siguiente enlace!

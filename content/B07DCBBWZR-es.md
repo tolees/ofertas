@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCBBWZR/?tag=tolees-21'
 descuento: '52.23'
+average: '23.86'
 ---
 
 Está [XTI 48152  Botas Clasicas para Hombre  Marrón  Brown   43 EU](https://www.amazon.es/dp/B07DCBBWZR/?tag=tolees-21) con 52.23 de descuento por 23.86 EUR (original: 49.95 EUR) en el siguiente enlace!

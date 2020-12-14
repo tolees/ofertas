@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079ZYLFY4/?tag=tolees-21'
 descuento: '50.00'
+average: '155'
 ---
 
 Ahora mismo tienes [StarVie Brava Soft Pala de Pádel  Unisex Adulto  Blanca  360 gr](https://www.amazon.es/dp/B079ZYLFY4/?tag=tolees-21) a 155 EUR (original: 310 EUR) (50.00 %  de descuento) en el siguiente enlace!

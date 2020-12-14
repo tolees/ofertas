@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075FYXHNT/?tag=tolees-21'
 descuento: '25.39'
+average: '96.95'
 ---
 
 Tienes [Salomon XA Lite GTX  Zapatillas de Trail Running para Hombre  Azul  Indigo Bunting/Snorkel/Sulphur Spring   42 EU](https://www.amazon.es/dp/B075FYXHNT/?tag=tolees-21) con un 25.39 % de descuento con precio de oferta de 96.95 EUR (original: 129.95 EUR) en el siguiente enlace!

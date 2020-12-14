@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JWXS5G1/?tag=tolees-21'
 descuento: '59.55'
+average: '44.49'
 ---
 
 Está [Lacoste Ph4258 Polo  Azul  Aquarium 07h F8r   X-Small  Talla del Fabricante: 2  para Hombre](https://www.amazon.es/dp/B07JWXS5G1/?tag=tolees-21) con 59.55 de descuento por 44.49 EUR (original: 110 EUR) en el siguiente enlace!

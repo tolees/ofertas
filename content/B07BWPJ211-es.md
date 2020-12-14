@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BWPJ211/?tag=tolees-21'
 descuento: '50.00'
+average: '44.95'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Tommy Knit Shiny Rain Boot  Botas de Agua para Mujer  Plateado  Silver 000   39 EU](https://www.amazon.es/dp/B07BWPJ211/?tag=tolees-21) a 44.95 EUR (original: 89.9 EUR) (50.00 %  de descuento) en el siguiente enlace!

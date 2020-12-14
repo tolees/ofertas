@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9XMWB5/?tag=tolees-21'
 descuento: '25.84'
+average: '32.95'
 ---
 
 Tienes [Adidas Cosmic 2  Zapatillas de Entrenamiento para Hombre  Gris  Carbon/Shock Yellow/Core Black 0   44 EU](https://www.amazon.es/dp/B07D9XMWB5/?tag=tolees-21) con un 25.84 % de descuento con precio de oferta de 32.95 EUR (original: 44.43 EUR) en el siguiente enlace!

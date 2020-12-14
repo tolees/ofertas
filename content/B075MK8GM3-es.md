@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075MK8GM3/?tag=tolees-21'
 descuento: '38.46'
+average: '15.38'
 ---
 
 Ahora mismo tienes [Cat Quest](https://www.amazon.es/dp/B075MK8GM3/?tag=tolees-21) a 15.38 EUR (original: 24.99 EUR) (38.46 %  de descuento) en el siguiente enlace!

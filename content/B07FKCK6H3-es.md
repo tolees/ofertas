@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FKCK6H3/?tag=tolees-21'
 descuento: '56.66'
+average: '14.99'
 ---
 
 Está [Linterna LED  Vander Life Linterna LED  Vansky Pocket Linterna 2000 lúmenes XML2 T6 foco ajustable Zoomable LED Linterna Resistente al Agua Camping Linterna  2 x 18650 pilas incluidas](https://www.amazon.es/dp/B07FKCK6H3/?tag=tolees-21) con 56.66 de descuento por 14.99 EUR (original: 34.59 EUR) en el siguiente enlace!

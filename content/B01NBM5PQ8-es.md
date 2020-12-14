@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NBM5PQ8/?tag=tolees-21'
 descuento: '75.00'
+average: '10.99'
 ---
 
 Ahora mismo tienes [avaner Hombres Casual cronógrafo Fecha Pantalla Cuarzo Reloj de Pulsera analógico con café Correa de Nailon](https://www.amazon.es/dp/B01NBM5PQ8/?tag=tolees-21) a 10.99 EUR (original: 43.96 EUR) (75.00 %  de descuento) en el siguiente enlace!

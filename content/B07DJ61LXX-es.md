@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ61LXX/?tag=tolees-21'
 descuento: '70.69'
+average: '19.05'
 ---
 
 Ahora mismo tienes [New Balance Fuel Core 5000  Zapatillas Deportivas para Interior Unisex Niños  Negro  Black/UV Blue LB   39 EU](https://www.amazon.es/dp/B07DJ61LXX/?tag=tolees-21) a 19.05 EUR (original: 65 EUR) (70.69 %  de descuento) en el siguiente enlace!

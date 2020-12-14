@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M0OX9MU/?tag=tolees-21'
 descuento: '80.40'
+average: '11.27'
 ---
 
 Está [Elise Ryan D5422-Vestido Mujer Rojo Rojo  Burgundy  40](https://www.amazon.es/dp/B01M0OX9MU/?tag=tolees-21) con 80.40 de descuento por 11.27 EUR (original: 57.51 EUR) en el siguiente enlace!

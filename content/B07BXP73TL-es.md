@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BXP73TL/?tag=tolees-21'
 descuento: '50.00'
+average: '49.5'
 ---
 
 Ahora mismo tienes [American Tourister](https://www.amazon.es/dp/B07BXP73TL/?tag=tolees-21) a 49.5 EUR (original: 99 EUR) (50.00 %  de descuento) en el siguiente enlace!

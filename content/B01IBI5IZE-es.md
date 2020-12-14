@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IBI5IZE/?tag=tolees-21'
 descuento: '45.24'
+average: '49.26'
 ---
 
 Tienes [JACK & JONES Jjiglenn Jjfox Bl 655 50sps Noos  Jeans Hombre  Negro  Black Denim   W30/L32  Talla del fabricante: 30 ](https://www.amazon.es/dp/B01IBI5IZE/?tag=tolees-21) con un 45.24 % de descuento con precio de oferta de 49.26 EUR (original: 89.95 EUR) en el siguiente enlace!

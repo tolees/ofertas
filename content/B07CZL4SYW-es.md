@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZL4SYW/?tag=tolees-21'
 descuento: '42.75'
+average: '42.94'
 ---
 
 Ahora mismo tienes [Lacoste Explorateur Classic3181cai  Zapatillas Unisex Niños  Azul  Nvy/Dk Tan Nt3   24 EU](https://www.amazon.es/dp/B07CZL4SYW/?tag=tolees-21) a 42.94 EUR (original: 75 EUR) (42.75 %  de descuento) en el siguiente enlace!

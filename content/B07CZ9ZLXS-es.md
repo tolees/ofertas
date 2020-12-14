@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ9ZLXS/?tag=tolees-21'
 descuento: '50.25'
+average: '9.95'
 ---
 
 Está [Under Armour Reversible Webbing Belt Cinturón  Mujer  Negro  Black/Mod Gray/Silver 001   Talla única](https://www.amazon.es/dp/B07CZ9ZLXS/?tag=tolees-21) con 50.25 de descuento por 9.95 EUR (original: 20 EUR) en el siguiente enlace!

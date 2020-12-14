@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RV33LMJ/?tag=tolees-21'
 descuento: '66.69'
+average: '9.89'
 ---
 
 Está [Buen masajeador para mujer.](https://www.amazon.es/dp/B07RV33LMJ/?tag=tolees-21) con 66.69 de descuento por 9.89 EUR (original: 29.69 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004CYEYMK/?tag=tolees-21'
 descuento: '66.45'
+average: '9.73'
 ---
 
 Está [Victoria Inglesa Lona 6613  Zapatillas de Tela Unisex  Gris  16 Antracita   40](https://www.amazon.es/dp/B004CYEYMK/?tag=tolees-21) con 66.45 de descuento por 9.73 EUR (original: 29 EUR) en el siguiente enlace!

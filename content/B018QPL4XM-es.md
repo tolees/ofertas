@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B018QPL4XM/?tag=tolees-21'
 descuento: '56.80'
+average: '17.5'
 ---
 
 Está [Dr. Scholl - Lima electrónica azul velvet smooth](https://www.amazon.es/dp/B018QPL4XM/?tag=tolees-21) con 56.80 de descuento por 17.5 EUR (original: 40.51 EUR) en el siguiente enlace!

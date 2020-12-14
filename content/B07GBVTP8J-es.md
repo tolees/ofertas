@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GBVTP8J/?tag=tolees-21'
 descuento: '48.27'
+average: '7.76'
 ---
 
 Tienes [Under Armour Boy s Blitzing 2.0 Gorra  Niños  Gris  Graphite/White 048   S/M](https://www.amazon.es/dp/B07GBVTP8J/?tag=tolees-21) con un 48.27 % de descuento con precio de oferta de 7.76 EUR (original: 15 EUR) en el siguiente enlace!

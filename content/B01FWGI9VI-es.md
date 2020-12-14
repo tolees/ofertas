@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FWGI9VI/?tag=tolees-21'
 descuento: '67.08'
+average: '16.44'
 ---
 
 Está [Marco Tozzi 25340  Botas Chelsea para Mujer  Marrón  Pepper 324   38 EU](https://www.amazon.es/dp/B01FWGI9VI/?tag=tolees-21) con 67.08 de descuento por 16.44 EUR (original: 49.94 EUR) en el siguiente enlace!

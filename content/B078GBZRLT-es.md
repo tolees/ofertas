@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078GBZRLT/?tag=tolees-21'
 descuento: '53.03'
+average: '6.2'
 ---
 
 Tienes [oodji Ultra Hombre Polo de Algodón con Bordado Sin Etiqueta  Azul  ES 44 / XS](https://www.amazon.es/dp/B078GBZRLT/?tag=tolees-21) con un 53.03 % de descuento con precio de oferta de 6.2 EUR (original: 13.2 EUR) en el siguiente enlace!

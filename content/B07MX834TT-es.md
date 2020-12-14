@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MX834TT/?tag=tolees-21'
 descuento: '55.03'
+average: '8.99'
 ---
 
 Está [Splitter de Adaptador de Interfaz Dual 2 en 1 SAMMIX para IP 7/7 Plus / 8/8 Plus/X/XS/XS MAX/XR](https://www.amazon.es/dp/B07MX834TT/?tag=tolees-21) con 55.03 de descuento por 8.99 EUR (original: 19.99 EUR) en el siguiente enlace!

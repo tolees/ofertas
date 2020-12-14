@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000VE41TG/?tag=tolees-21'
 descuento: '34.37'
+average: '29.47'
 ---
 
 Ahora mismo tienes [Casio Reloj de Pulsera LTP-1282PD-7AEF](https://www.amazon.es/dp/B000VE41TG/?tag=tolees-21) a 29.47 EUR (original: 44.9 EUR) (34.37 %  de descuento) en el siguiente enlace!

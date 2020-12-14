@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JNGLQSH/?tag=tolees-21'
 descuento: '66.25'
+average: '53.99'
 ---
 
 Está [UKSoku Mini Proyector Portátil 2800 Lúmenes Multimedia Proyector de Vídeo LED HD Proyector Cine en Casa Vida hasta 50000 Horas Soporte 1080P HDMI USB VGA SD iPhone iPad Android PC Laptop TV Stick PS4](https://www.amazon.es/dp/B07JNGLQSH/?tag=tolees-21) con 66.25 de descuento por 53.99 EUR (original: 159.99 EUR) en el siguiente enlace!

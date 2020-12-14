@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06W2PL7LX/?tag=tolees-21'
 descuento: '51.33'
+average: '10.99'
 ---
 
 Tienes [Electric Magnetic Pesca de Juego de Mesa de Música de Rotación de Juguete Desarrollo Educativo Temprano para Niños 3 4 5 Años  Style B ](https://www.amazon.es/dp/B06W2PL7LX/?tag=tolees-21) con un 51.33 % de descuento con precio de oferta de 10.99 EUR (original: 22.58 EUR) en el siguiente enlace!

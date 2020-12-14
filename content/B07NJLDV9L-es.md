@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NJLDV9L/?tag=tolees-21'
 descuento: '48.59'
+average: '12'
 ---
 
 Está [New Look Lattice Tea 6146329 Mono Corto  Negro  Black Pattern 9   38  Talla del Fabricante: 10  para Mujer](https://www.amazon.es/dp/B07NJLDV9L/?tag=tolees-21) con 48.59 de descuento por 12 EUR (original: 23.34 EUR) en el siguiente enlace!

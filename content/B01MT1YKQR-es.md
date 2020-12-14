@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MT1YKQR/?tag=tolees-21'
 descuento: '59.02'
+average: '16.37'
 ---
 
 Ahora mismo tienes [Blend  20702568 - Bermuda para Hombre  Color Azul  76206   Talla XL](https://www.amazon.es/dp/B01MT1YKQR/?tag=tolees-21) a 16.37 EUR (original: 39.95 EUR) (59.02 %  de descuento) en el siguiente enlace!

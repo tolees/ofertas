@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078YHQRPY/?tag=tolees-21'
 descuento: '39.43'
+average: '12.72'
 ---
 
 Tienes [Menú Sanae Tabulé de Quinoa Vegetariano - 4 Paquetes de 320 gr - Total: 1280 gr](https://www.amazon.es/dp/B078YHQRPY/?tag=tolees-21) con un 39.43 % de descuento con precio de oferta de 12.72 EUR (original: 21 EUR) en el siguiente enlace!

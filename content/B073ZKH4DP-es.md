@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073ZKH4DP/?tag=tolees-21'
 descuento: '84.10'
+average: '9.54'
 ---
 
 Ahora mismo tienes [SELECTED FEMME Sfpana LS Knit O-Neck  suéter Mujer  Blanco  Snow White Detail:Syrah   38  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B073ZKH4DP/?tag=tolees-21) a 9.54 EUR (original: 59.99 EUR) (84.10 %  de descuento) en el siguiente enlace!

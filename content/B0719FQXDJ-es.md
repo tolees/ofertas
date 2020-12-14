@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0719FQXDJ/?tag=tolees-21'
 descuento: '72.74'
+average: '16.34'
 ---
 
 Ahora mismo tienes [Kappa Rookie Tex  Náuticos Unisex Niños  Azul  Navy/Orange 6744   38 EU](https://www.amazon.es/dp/B0719FQXDJ/?tag=tolees-21) a 16.34 EUR (original: 59.95 EUR) (72.74 %  de descuento) en el siguiente enlace!

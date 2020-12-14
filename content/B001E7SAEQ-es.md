@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001E7SAEQ/?tag=tolees-21'
 descuento: '49.33'
+average: '29.66'
 ---
 
 Ahora mismo tienes [Armand Basi  Agua de perfume para mujeres - 50 ml.](https://www.amazon.es/dp/B001E7SAEQ/?tag=tolees-21) a 29.66 EUR (original: 58.53 EUR) (49.33 %  de descuento) en el siguiente enlace!

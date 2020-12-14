@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077PC4XG3/?tag=tolees-21'
 descuento: '65.76'
+average: '29.09'
 ---
 
 Tienes [Puma Suede Classic+  Zapatillas Unisex Adulto  Beige  Pebble White   36 EU](https://www.amazon.es/dp/B077PC4XG3/?tag=tolees-21) con un 65.76 % de descuento con precio de oferta de 29.09 EUR (original: 84.95 EUR) en el siguiente enlace!

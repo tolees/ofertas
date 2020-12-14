@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FW8J8Q2/?tag=tolees-21'
 descuento: '40.16'
+average: '5.38'
 ---
 
 Está [AmazonBasics - Limpiacristales para coche en espray con disparador  500 ml](https://www.amazon.es/dp/B07FW8J8Q2/?tag=tolees-21) con 40.16 de descuento por 5.38 EUR (original: 8.99 EUR) en el siguiente enlace!

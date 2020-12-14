@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00ULNEHU0/?tag=tolees-21'
 descuento: '26.77'
+average: '73.23'
 ---
 
 Tienes [Sony ZS-PS50 - Boomboxon CD y Radio Am/FM de 4W  estéreo  reproducción Mediante USB y Entrada de Audio   Azul](https://www.amazon.es/dp/B00ULNEHU0/?tag=tolees-21) con un 26.77 % de descuento con precio de oferta de 73.23 EUR (original: 100 EUR) en el siguiente enlace!

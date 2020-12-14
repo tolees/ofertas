@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GZGBS6D/?tag=tolees-21'
 descuento: '34.34'
+average: '15.37'
 ---
 
 Está [Grsta Botella de Agua para Deportes de Acero Inoxidable Doble Pared de Aislamiento al Vacío  100% Libre de BPA Antifugas  Ecologica  Reutalizable Fitness Metalica Termo 600ml/21oz-Rosado](https://www.amazon.es/dp/B07GZGBS6D/?tag=tolees-21) con 34.34 de descuento por 15.37 EUR (original: 23.41 EUR) en el siguiente enlace!

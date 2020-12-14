@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CPTCYSV/?tag=tolees-21'
 descuento: '70.29'
+average: '10.99'
 ---
 
 Está [Lifewit Bolsa Térmica para Llevar Lasaña/Pizzas 41cm×31cm×21cm Doble Pisos Separados Bolsa Aislado para Mantener los Alimentos Calientes o Fríos para Fiestas  Picnic y Playa  Gris B ](https://www.amazon.es/dp/B07CPTCYSV/?tag=tolees-21) con 70.29 de descuento por 10.99 EUR (original: 36.99 EUR) en el siguiente enlace!

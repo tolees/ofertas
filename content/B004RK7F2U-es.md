@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004RK7F2U/?tag=tolees-21'
 descuento: '55.92'
+average: '112.39'
 ---
 
 Está [BRIO-33097 Juego Primera Edad  33097 ](https://www.amazon.es/dp/B004RK7F2U/?tag=tolees-21) con 55.92 de descuento por 112.39 EUR (original: 254.99 EUR) en el siguiente enlace!

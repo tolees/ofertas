@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078ZKX47T/?tag=tolees-21'
 descuento: '77.59'
+average: '24.63'
 ---
 
 Ahora mismo tienes [Supra Graham CW  Zapatillas Altas para Hombre  Verde  Olive-Lt Gum 383   42 EU](https://www.amazon.es/dp/B078ZKX47T/?tag=tolees-21) a 24.63 EUR (original: 109.9 EUR) (77.59 %  de descuento) en el siguiente enlace!

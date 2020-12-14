@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072LCVVM6/?tag=tolees-21'
 descuento: '78.19'
+average: '6.54'
 ---
 
 Tienes [PIECES Pcjane LS Wool Knit Noos suéter  Marrón  Ginger Snap   40  Talla del Fabricante: Large  para Mujer](https://www.amazon.es/dp/B072LCVVM6/?tag=tolees-21) con un 78.19 % de descuento con precio de oferta de 6.54 EUR (original: 29.99 EUR) en el siguiente enlace!

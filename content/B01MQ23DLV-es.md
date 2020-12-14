@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MQ23DLV/?tag=tolees-21'
 descuento: '48.44'
+average: '18.56'
 ---
 
 Tienes [Varsbaby Mujer Transparente Push up Sujetador Conjuntos de lencería  ES:100C = EU:85B  Beige ](https://www.amazon.es/dp/B01MQ23DLV/?tag=tolees-21) con un 48.44 % de descuento con precio de oferta de 18.56 EUR (original: 36 EUR) en el siguiente enlace!

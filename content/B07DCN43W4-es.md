@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCN43W4/?tag=tolees-21'
 descuento: '50.08'
+average: '29.95'
 ---
 
 Tienes [Nike Wmns Downshifter 8  Zapatillas de Running para Mujer  Gris  Lt Silver/Summit Celestial Teal/Black/White 010   40 EU](https://www.amazon.es/dp/B07DCN43W4/?tag=tolees-21) con un 50.08 % de descuento con precio de oferta de 29.95 EUR (original: 60 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JPHD542/?tag=tolees-21'
 descuento: '40.64'
+average: '18.99'
 ---
 
 Tienes [Vemingo Billetero de Hombre con Bolsillo de Moneda/Cartera Piel Hombre con Clip y RFID Bloqueo para Varias Tarjetas personales Marrón ](https://www.amazon.es/dp/B07JPHD542/?tag=tolees-21) con un 40.64 % de descuento con precio de oferta de 18.99 EUR (original: 31.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N1NLT4E/?tag=tolees-21'
 descuento: '51.63'
+average: '14.99'
 ---
 
 Tienes [Aigostar 30ISF - Batidora de mano de 400W con control graduable y dos velocidades. Plásticos de alta calidad libres de BPA y acero inoxidable tipo 304 de grado alimentario. Diseño exclusivo.](https://www.amazon.es/dp/B01N1NLT4E/?tag=tolees-21) con un 51.63 % de descuento con precio de oferta de 14.99 EUR (original: 30.99 EUR) en el siguiente enlace!

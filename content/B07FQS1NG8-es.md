@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQS1NG8/?tag=tolees-21'
 descuento: '59.59'
+average: '28.27'
 ---
 
 Está [Clarks Step Maro Wave  Zapatillas para Hombre  Verde  Olive-   43 EU](https://www.amazon.es/dp/B07FQS1NG8/?tag=tolees-21) con 59.59 de descuento por 28.27 EUR (original: 69.95 EUR) en el siguiente enlace!

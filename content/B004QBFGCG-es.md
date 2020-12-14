@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004QBFGCG/?tag=tolees-21'
 descuento: '56.95'
+average: '18.32'
 ---
 
 Está [Wella Sp Balance Scalp Mascarilla - 400 ml](https://www.amazon.es/dp/B004QBFGCG/?tag=tolees-21) con 56.95 de descuento por 18.32 EUR (original: 42.56 EUR) en el siguiente enlace!

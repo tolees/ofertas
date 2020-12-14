@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HZ12TTK/?tag=tolees-21'
 descuento: '70.00'
+average: '52.5'
 ---
 
 Está [TECNOCOLCHÓN Colchón Viscoelástico Visco Clinic 90 x 190 cm. y 20 cm. de Altura | Termosensible Transpirable | Reversible](https://www.amazon.es/dp/B07HZ12TTK/?tag=tolees-21) con 70.00 de descuento por 52.5 EUR (original: 175 EUR) en el siguiente enlace!

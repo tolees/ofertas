@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00OIS33OU/?tag=tolees-21'
 descuento: '63.60'
+average: '107.92'
 ---
 
 Tienes [KS Tools 515.1980 Pistola de limpieza por aire comprimido](https://www.amazon.es/dp/B00OIS33OU/?tag=tolees-21) con un 63.60 % de descuento con precio de oferta de 107.92 EUR (original: 296.46 EUR) en el siguiente enlace!

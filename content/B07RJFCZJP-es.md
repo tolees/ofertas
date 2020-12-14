@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RJFCZJP/?tag=tolees-21'
 descuento: '28.21'
+average: '28'
 ---
 
 Está [Auriculares Bluetooth 5.0  Manos Libres Bluetooth Auriculares con Estuche Cargador Portátil  Auriculares Bluetooth Telefono  Auriculares Bluetooth Inalambrico  Reproducción Total hasta 15 Horas](https://www.amazon.es/dp/B07RJFCZJP/?tag=tolees-21) con 28.21 de descuento por 28 EUR (original: 39 EUR) en el siguiente enlace!

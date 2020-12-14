@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01G9LBWTQ/?tag=tolees-21'
 descuento: '69.18'
+average: '8.01'
 ---
 
 Está [Tiffosi Renly Pantalones Cortos  Mujer  Azul  Blue    Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B01G9LBWTQ/?tag=tolees-21) con 69.18 de descuento por 8.01 EUR (original: 25.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FNLQGLZ/?tag=tolees-21'
 descuento: '47.62'
+average: '15.71'
 ---
 
 Está [JACK & JONES Jjimarco Jjenzo WW Winetasting STS Pantalones  Rojo  W31/L34 para Hombre](https://www.amazon.es/dp/B07FNLQGLZ/?tag=tolees-21) con 47.62 de descuento por 15.71 EUR (original: 29.99 EUR) en el siguiente enlace!

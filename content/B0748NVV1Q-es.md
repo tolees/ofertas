@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0748NVV1Q/?tag=tolees-21'
 descuento: '28.14'
+average: '35.86'
 ---
 
 Ahora mismo tienes [Discovery Adventures Full HD 1080p WiFi Acción Cámara Expedition con Pantalla LCD  5 08 cm  2 Pulgadas   Color Negro](https://www.amazon.es/dp/B0748NVV1Q/?tag=tolees-21) a 35.86 EUR (original: 49.9 EUR) (28.14 %  de descuento) en el siguiente enlace!

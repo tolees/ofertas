@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KLS2XP3/?tag=tolees-21'
 descuento: '53.22'
+average: '12.5'
 ---
 
 Tienes [Venom  BD 3D + BD  [Blu-ray]](https://www.amazon.es/dp/B07KLS2XP3/?tag=tolees-21) con un 53.22 % de descuento con precio de oferta de 12.5 EUR (original: 26.72 EUR) en el siguiente enlace!

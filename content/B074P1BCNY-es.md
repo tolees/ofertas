@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074P1BCNY/?tag=tolees-21'
 descuento: '52.00'
+average: '11.99'
 ---
 
 Tienes [FUNTOK Cometa de Pulpo  Hecho de Nylon Plegable 28x158 Pies Cometa para Niños y Adultos](https://www.amazon.es/dp/B074P1BCNY/?tag=tolees-21) con un 52.00 % de descuento con precio de oferta de 11.99 EUR (original: 24.98 EUR) en el siguiente enlace!

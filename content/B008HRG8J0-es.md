@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B008HRG8J0/?tag=tolees-21'
 descuento: '47.32'
+average: '697.99'
 ---
 
 Está [Bosch Professional 0611336000 Martillo demoledor SDS MAX  1700 W  240 V](https://www.amazon.es/dp/B008HRG8J0/?tag=tolees-21) con 47.32 de descuento por 697.99 EUR (original: 1324.95 EUR) en el siguiente enlace!

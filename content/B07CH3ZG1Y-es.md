@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CH3ZG1Y/?tag=tolees-21'
 descuento: '25.01'
+average: '17.99'
 ---
 
 Ahora mismo tienes [AmazonBasics - Filtro de agua de repuesto para frigorífico Samsung DA29-00003G - Filtración Estándar](https://www.amazon.es/dp/B07CH3ZG1Y/?tag=tolees-21) a 17.99 EUR (original: 23.99 EUR) (25.01 %  de descuento) en el siguiente enlace!

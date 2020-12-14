@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0777SD8LL/?tag=tolees-21'
 descuento: '52.36'
+average: '26.2'
 ---
 
 Ahora mismo tienes [Under Armour UA W Rapid  Zapatillas de Running para Mujer  Azul  Bass Blue   36 EU](https://www.amazon.es/dp/B0777SD8LL/?tag=tolees-21) a 26.2 EUR (original: 55 EUR) (52.36 %  de descuento) en el siguiente enlace!

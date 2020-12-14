@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JCGQ7PN/?tag=tolees-21'
 descuento: '38.64'
+average: '110.44'
 ---
 
 Ahora mismo tienes [Linksys LAPAC1750C-EU - Punto de Acceso Inalámbrico de Doble Banda AC1750 con gestión en la Nube  Blanco](https://www.amazon.es/dp/B07JCGQ7PN/?tag=tolees-21) a 110.44 EUR (original: 179.99 EUR) (38.64 %  de descuento) en el siguiente enlace!

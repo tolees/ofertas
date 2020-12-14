@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077XQM4C9/?tag=tolees-21'
 descuento: '38.38'
+average: '24.64'
 ---
 
 Tienes [Under Armour Rival Fleece Short Pantalones  Hombre  Negro Black 001  XXL](https://www.amazon.es/dp/B077XQM4C9/?tag=tolees-21) con un 38.38 % de descuento con precio de oferta de 24.64 EUR (original: 39.99 EUR) en el siguiente enlace!

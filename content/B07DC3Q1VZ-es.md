@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC3Q1VZ/?tag=tolees-21'
 descuento: '60.67'
+average: '29.5'
 ---
 
 Ahora mismo tienes [LE COQ SPORTIF Agate Premium Turtle Dove  Zapatillas para Mujer  Gris  38 EU](https://www.amazon.es/dp/B07DC3Q1VZ/?tag=tolees-21) a 29.5 EUR (original: 75 EUR) (60.67 %  de descuento) en el siguiente enlace!

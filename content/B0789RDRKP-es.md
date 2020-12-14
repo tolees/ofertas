@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0789RDRKP/?tag=tolees-21'
 descuento: '65.33'
+average: '24.27'
 ---
 
 Tienes [Nike Superfly 6 Club NJR FG/MG  Zapatillas de Fútbol Unisex Adulto   Amarillo/White/Black 710   45 EU](https://www.amazon.es/dp/B0789RDRKP/?tag=tolees-21) con un 65.33 % de descuento con precio de oferta de 24.27 EUR (original: 70 EUR) en el siguiente enlace!

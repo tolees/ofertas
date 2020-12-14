@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0185I6HAU/?tag=tolees-21'
 descuento: '49.44'
+average: '27.99'
 ---
 
 Ahora mismo tienes [Izas Dera Pantalones de montaña  Mujer  Multicolor  Turquesa / Gris oscuro   M](https://www.amazon.es/dp/B0185I6HAU/?tag=tolees-21) a 27.99 EUR (original: 55.36 EUR) (49.44 %  de descuento) en el siguiente enlace!

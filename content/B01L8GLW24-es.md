@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01L8GLW24/?tag=tolees-21'
 descuento: '57.90'
+average: '79.99'
 ---
 
 Tienes [ibowin® 10.1 Pulgadas 1280x800 IPS Android 8.1 Oreo Tablet PC 2G RAM 16G ROM  MTK Quad Core WiFi + Cellualr Dual-SIM Tarjetas AGPS - Plata](https://www.amazon.es/dp/B01L8GLW24/?tag=tolees-21) con un 57.90 % de descuento con precio de oferta de 79.99 EUR (original: 189.99 EUR) en el siguiente enlace!

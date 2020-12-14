@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FVTCBQ8/?tag=tolees-21'
 descuento: '34.79'
+average: '29.99'
 ---
 
 Tienes [Vedaxin Zapatillas de Deporte Respirable Sneakers Zapatillas Running para Hombre Mujer Unisex XZ646-grey-EU36](https://www.amazon.es/dp/B07FVTCBQ8/?tag=tolees-21) con un 34.79 % de descuento con precio de oferta de 29.99 EUR (original: 45.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LC6HGS1/?tag=tolees-21'
 descuento: '57.00'
+average: '85.99'
 ---
 
 Ahora mismo tienes [Umi. Essentials Silla Elemental de Oficina Silla Administrativa Ergonómica  Gris ](https://www.amazon.es/dp/B07LC6HGS1/?tag=tolees-21) a 85.99 EUR (original: 199.99 EUR) (57.00 %  de descuento) en el siguiente enlace!

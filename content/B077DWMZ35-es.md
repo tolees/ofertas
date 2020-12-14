@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077DWMZ35/?tag=tolees-21'
 descuento: '29.21'
+average: '79.99'
 ---
 
 Está [Aigostar Eiffel 33JTT - Ventilador de torre oscilante con mando a distancia. Temporizador programable  3 modos de funcionamiento y 3 velocidades  motor 45 W  oscilación de 70 °. Diseño exclusivo.](https://www.amazon.es/dp/B077DWMZ35/?tag=tolees-21) con 29.21 de descuento por 79.99 EUR (original: 112.99 EUR) en el siguiente enlace!

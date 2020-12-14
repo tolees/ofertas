@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F8Q43CW/?tag=tolees-21'
 descuento: '52.41'
+average: '9.99'
 ---
 
 Está [AiHom Pajitas de Acero Inoxidable Set de 12 Reutilizable Pajas de acero inoxidable y maletín para cualquier tamaño y fiesta  sin tóxico  insípido y resistente a la corrosión](https://www.amazon.es/dp/B07F8Q43CW/?tag=tolees-21) con 52.41 de descuento por 9.99 EUR (original: 20.99 EUR) en el siguiente enlace!

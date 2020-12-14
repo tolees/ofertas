@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MTWEDNL/?tag=tolees-21'
 descuento: '57.93'
+average: '29.45'
 ---
 
 Está [Pepe Jeans Track Short  Pantalones Cortos para Hombre  Azul  Denim   30](https://www.amazon.es/dp/B01MTWEDNL/?tag=tolees-21) con 57.93 de descuento por 29.45 EUR (original: 70 EUR) en el siguiente enlace!

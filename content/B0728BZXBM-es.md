@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0728BZXBM/?tag=tolees-21'
 descuento: '74.92'
+average: '27.59'
 ---
 
 Ahora mismo tienes [Under Armour UA W Slingflex Mid  Zapatillas de Entrenamiento para Mujer  Negro  Anthracite 102   37.5 EU](https://www.amazon.es/dp/B0728BZXBM/?tag=tolees-21) a 27.59 EUR (original: 110 EUR) (74.92 %  de descuento) en el siguiente enlace!

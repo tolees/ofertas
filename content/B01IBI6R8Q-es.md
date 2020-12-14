@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IBI6R8Q/?tag=tolees-21'
 descuento: '43.57'
+average: '16.9'
 ---
 
 Tienes [JACK & JONES JJIJAKOB LEATHER BELT NOOS  Cinturón Hombre  Marrón  Black Coffee   95 cm  Talla del fabricante: 95 ](https://www.amazon.es/dp/B01IBI6R8Q/?tag=tolees-21) con un 43.57 % de descuento con precio de oferta de 16.9 EUR (original: 29.95 EUR) en el siguiente enlace!

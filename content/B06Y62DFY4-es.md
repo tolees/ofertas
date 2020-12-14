@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y62DFY4/?tag=tolees-21'
 descuento: '76.57'
+average: '16.4'
 ---
 
 Tienes [Under Armour 1289538-003  Zapatillas de Fútbol Hombre  Multicolor  Noi/Vert Vipere   42 EU](https://www.amazon.es/dp/B06Y62DFY4/?tag=tolees-21) con un 76.57 % de descuento con precio de oferta de 16.4 EUR (original: 70 EUR) en el siguiente enlace!

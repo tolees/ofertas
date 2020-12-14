@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N2O9TRG/?tag=tolees-21'
 descuento: '33.03'
+average: '127.17'
 ---
 
 Tienes [SJCam SJ6 Legend  versión española  - Cámara deportiva 4K de 16 MP  procesador Novatek 96660  WiFi  pantalla táctil de 2.0    color plata](https://www.amazon.es/dp/B01N2O9TRG/?tag=tolees-21) con un 33.03 % de descuento con precio de oferta de 127.17 EUR (original: 189.9 EUR) en el siguiente enlace!

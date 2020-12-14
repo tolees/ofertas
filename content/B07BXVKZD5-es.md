@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BXVKZD5/?tag=tolees-21'
 descuento: '46.52'
+average: '22.99'
 ---
 
 Tienes [ACTNOW Baul Puff Taburete para almacenaje/Taburete Zapatero Plegable  Hecho de Lino  fácil de Instalar  Carga de 100kg - 40 * 25 * 25cm/ Beige](https://www.amazon.es/dp/B07BXVKZD5/?tag=tolees-21) con un 46.52 % de descuento con precio de oferta de 22.99 EUR (original: 42.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0759PHTXF/?tag=tolees-21'
 descuento: '75.66'
+average: '24.33'
 ---
 
 Tienes [Puma Te- KU  Zapatillas Unisex Adulto  Negro Black Team Gold  42 EU](https://www.amazon.es/dp/B0759PHTXF/?tag=tolees-21) con un 75.66 % de descuento con precio de oferta de 24.33 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MXMQJSB/?tag=tolees-21'
 descuento: '35.69'
+average: '55.3'
 ---
 
 Está [Quiksilver Amphibian Plus  Zapatillas de Deporte para Hombre  Negro Black/Grey/White Xksw  43 EU](https://www.amazon.es/dp/B01MXMQJSB/?tag=tolees-21) con 35.69 de descuento por 55.3 EUR (original: 85.99 EUR) en el siguiente enlace!

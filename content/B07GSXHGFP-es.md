@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GSXHGFP/?tag=tolees-21'
 descuento: '30.03'
+average: '41.95'
 ---
 
 Está [Desigual - Bag Cronos Gela Women  Bolsos bandolera Mujer  Blanco  Crudo   10.5x22x25 cm  B x H T ](https://www.amazon.es/dp/B07GSXHGFP/?tag=tolees-21) con 30.03 de descuento por 41.95 EUR (original: 59.95 EUR) en el siguiente enlace!

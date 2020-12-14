@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00SF9CP2E/?tag=tolees-21'
 descuento: '33.42'
+average: '86.52'
 ---
 
 Ahora mismo tienes [G-STAR RAW 3301 Slim  Jeans Hombre  Azul  Dk Aged 5245-89   31W / 32L](https://www.amazon.es/dp/B00SF9CP2E/?tag=tolees-21) a 86.52 EUR (original: 129.95 EUR) (33.42 %  de descuento) en el siguiente enlace!

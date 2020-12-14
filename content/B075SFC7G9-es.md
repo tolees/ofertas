@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075SFC7G9/?tag=tolees-21'
 descuento: '58.95'
+average: '12.31'
 ---
 
 Está [Springfield 1282573  Cárdigan Mujer  Multicolor  Negro/Blanco   Medium  Tamaño del fabricante:M ](https://www.amazon.es/dp/B075SFC7G9/?tag=tolees-21) con 58.95 de descuento por 12.31 EUR (original: 29.99 EUR) en el siguiente enlace!

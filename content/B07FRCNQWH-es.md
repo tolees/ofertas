@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FRCNQWH/?tag=tolees-21'
 descuento: '64.93'
+average: '38.58'
 ---
 
 Está [Calvin Klein Jeans Antani Nylon/Metal Film  Zapatillas Altas para Hombre  Negro  Black/Silver 000   41 EU](https://www.amazon.es/dp/B07FRCNQWH/?tag=tolees-21) con 64.93 de descuento por 38.58 EUR (original: 110 EUR) en el siguiente enlace!

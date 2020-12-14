@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLNKP2W/?tag=tolees-21'
 descuento: '38.38'
+average: '9.33'
 ---
 
 Tienes [Iluminación Bombilla LED de la casa del bulbo - GreeSuit 2-Pack 9W Cálida luz blanca  luz calida  B22 ](https://www.amazon.es/dp/B07DLNKP2W/?tag=tolees-21) con un 38.38 % de descuento con precio de oferta de 9.33 EUR (original: 15.14 EUR) en el siguiente enlace!

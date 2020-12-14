@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K11SGV4/?tag=tolees-21'
 descuento: '50.08'
+average: '44.9'
 ---
 
 Está [adidas N-5923  Zapatillas de Gimnasia para Hombre  Negro Core Black/Gum4  42 EU](https://www.amazon.es/dp/B07K11SGV4/?tag=tolees-21) con 50.08 de descuento por 44.9 EUR (original: 89.95 EUR) en el siguiente enlace!

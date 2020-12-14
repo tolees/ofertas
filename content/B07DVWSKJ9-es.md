@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DVWSKJ9/?tag=tolees-21'
 descuento: '68.82'
+average: '14.03'
 ---
 
 Está [LE COQ SPORTIF Nationale PS Sport  Zapatillas Unisex Niños  Blanco Pink Carnation  29 EU](https://www.amazon.es/dp/B07DVWSKJ9/?tag=tolees-21) con 68.82 de descuento por 14.03 EUR (original: 45 EUR) en el siguiente enlace!

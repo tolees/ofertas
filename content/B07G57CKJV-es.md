@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G57CKJV/?tag=tolees-21'
 descuento: '35.85'
+average: '8.5'
 ---
 
 Está [Max Factor  Maquillaje corrector  Tono: 003 Medium  Pieles Medias  - 15 ml.](https://www.amazon.es/dp/B07G57CKJV/?tag=tolees-21) con 35.85 de descuento por 8.5 EUR (original: 13.25 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFT4PM5/?tag=tolees-21'
 descuento: '34.08'
+average: '59.33'
 ---
 
 Está [New Balance 574  Zapatillas para Hombre  Gris  Magnet EPH   42 EU  Talla Fabricante: 8 UK ](https://www.amazon.es/dp/B07DFT4PM5/?tag=tolees-21) con 34.08 de descuento por 59.33 EUR (original: 90 EUR) en el siguiente enlace!

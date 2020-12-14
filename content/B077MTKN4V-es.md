@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077MTKN4V/?tag=tolees-21'
 descuento: '59.71'
+average: '28.18'
 ---
 
 Tienes [Puma Enzo Strap Mesh  Zapatillas de Cross para Hombre  Rojo  Red Dahlia Black   43 EU](https://www.amazon.es/dp/B077MTKN4V/?tag=tolees-21) con un 59.71 % de descuento con precio de oferta de 28.18 EUR (original: 69.95 EUR) en el siguiente enlace!

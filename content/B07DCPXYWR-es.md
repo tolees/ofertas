@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCPXYWR/?tag=tolees-21'
 descuento: '82.88'
+average: '15.4'
 ---
 
 Está [Puma Basket Badge Wn s  Zapatillas para Mujer  Negro Black-Fair Aqua  39 EU](https://www.amazon.es/dp/B07DCPXYWR/?tag=tolees-21) con 82.88 de descuento por 15.4 EUR (original: 89.95 EUR) en el siguiente enlace!

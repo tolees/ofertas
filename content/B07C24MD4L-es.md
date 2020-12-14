@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C24MD4L/?tag=tolees-21'
 descuento: '66.69'
+average: '9.99'
 ---
 
 Ahora mismo tienes [YoYoFit Rock Pulsómetros Pulsera de Actividad Inteligente  Reloj Podometro](https://www.amazon.es/dp/B07C24MD4L/?tag=tolees-21) a 9.99 EUR (original: 29.99 EUR) (66.69 %  de descuento) en el siguiente enlace!

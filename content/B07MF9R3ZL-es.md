@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony HT-X8500  Barra de Sonido 2.1  Dolb al 32.75 % de descuento'
-date: 2020-12-13 10:53:56
+date: 2020-12-14 11:14:41
 image: 'https://m.media-amazon.com/images/I/21zqJn8VZLL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MF9R3ZL/?tag=tolees-21'
 descuento: '32.75'
+average: '264.6960000000002'
 ---
 
 Está [Sony HT-X8500  Barra de Sonido 2.1  Dolby Atmos  DTS:X  Subwoofer Integrado  Bluetooth  Graves Profundos  HDCP 2.3 para Sonido 4K HDR  Compacta y Elegante  negro  Negro](https://www.amazon.es/dp/B07MF9R3ZL/?tag=tolees-21) con 32.75 de descuento por 269.0 EUR (original: 400.0 EUR) en el siguiente enlace!
@@ -24,9 +25,9 @@ Está [Sony HT-X8500  Barra de Sonido 2.1  Dolby Atmos  DTS:X  Subwoofer Integra
 
 ℹ️:
 
-- 2.1 canales con Dolby Atmos/DTS:X con Vertical Surround Engine
 - Compatibilidad con 4K HDR
 - Diseño compacto de perfil bajo para complementar tu TV
+- 2.1 canales con Dolby Atmos/DTS:X con Vertical Surround Engine
 - Botones para modos de sonido que permiten realzar las películas, la música, los juegos, las noticias y los deportes
 - Subwoofers integrados para un sonido de graves Profundos
 

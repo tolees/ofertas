@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC75KFX/?tag=tolees-21'
 descuento: '55.21'
+average: '26.85'
 ---
 
 Está [Puma Adela  Zapatillas para Mujer  Azul Fair Aqua  37.5 EU](https://www.amazon.es/dp/B07DC75KFX/?tag=tolees-21) con 55.21 de descuento por 26.85 EUR (original: 59.95 EUR) en el siguiente enlace!

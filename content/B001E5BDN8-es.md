@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001E5BDN8/?tag=tolees-21'
 descuento: '41.33'
+average: '28.75'
 ---
 
 Ahora mismo tienes [Zippo Venetian - Mechero](https://www.amazon.es/dp/B001E5BDN8/?tag=tolees-21) a 28.75 EUR (original: 49 EUR) (41.33 %  de descuento) en el siguiente enlace!

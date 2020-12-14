@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074SP9X8Y/?tag=tolees-21'
 descuento: '37.22'
+average: '149.99'
 ---
 
 Está [Thermaltake View 71 TG RGB - Carcasa para PC  Color Negro](https://www.amazon.es/dp/B074SP9X8Y/?tag=tolees-21) con 37.22 de descuento por 149.99 EUR (original: 238.9 EUR) en el siguiente enlace!

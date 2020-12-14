@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CPRXGH6/?tag=tolees-21'
 descuento: '40.40'
+average: '80.46'
 ---
 
 Está [Guess - Jade  Shoppers y bolsos de hombro Mujer  Negro  Black/Bla   26x20x12 cm  W x H L ](https://www.amazon.es/dp/B07CPRXGH6/?tag=tolees-21) con 40.40 de descuento por 80.46 EUR (original: 135 EUR) en el siguiente enlace!

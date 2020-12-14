@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0783RXM8H/?tag=tolees-21'
 descuento: '35.38'
+average: '32.28'
 ---
 
 Ahora mismo tienes [Puma Smash Wns v2 L  Zapatillas para Mujer  Blanco White Black  36 EU](https://www.amazon.es/dp/B0783RXM8H/?tag=tolees-21) a 32.28 EUR (original: 49.95 EUR) (35.38 %  de descuento) en el siguiente enlace!

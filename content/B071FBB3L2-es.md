@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071FBB3L2/?tag=tolees-21'
 descuento: '54.66'
+average: '19.49'
 ---
 
 Está [KSMYZX-Delantal  denim negro S-XXL multiusos  piel de becerro real  compresión  resistente al desgaste  anticongelante  taller  café  estudio  restaurante  delantal de diversas industrias](https://www.amazon.es/dp/B071FBB3L2/?tag=tolees-21) con 54.66 de descuento por 19.49 EUR (original: 42.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0015Z5AWM/?tag=tolees-21'
 descuento: '32.54'
+average: '147.74'
 ---
 
 Ahora mismo tienes [WMF Perfect - Set con Olla Rápida  Diámetro 22 cm  Capacidad 6.5 l y Cuerpo 3 litros Acero Inoxidable Pulido  fabricada en Alemania  Fabricada en Cromargan  Diseñada por Metz&Kindler](https://www.amazon.es/dp/B0015Z5AWM/?tag=tolees-21) a 147.74 EUR (original: 219 EUR) (32.54 %  de descuento) en el siguiente enlace!

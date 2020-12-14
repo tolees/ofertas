@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DXETZQ4/?tag=tolees-21'
 descuento: '70.02'
+average: '13.79'
 ---
 
 Ahora mismo tienes [Bergner Masterpro Prochef Cacerola  Aluminio  Negro  20 cm](https://www.amazon.es/dp/B01DXETZQ4/?tag=tolees-21) a 13.79 EUR (original: 45.99 EUR) (70.02 %  de descuento) en el siguiente enlace!

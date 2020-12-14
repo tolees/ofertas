@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00QRCXPZW/?tag=tolees-21'
 descuento: '25.88'
+average: '17.79'
 ---
 
 Tienes [Under Armour UA M ATLANTICDUNE T - Zapatillas De Agua de goma hombre Verde  Black/Artillery green   46 EU  US: 12 ](https://www.amazon.es/dp/B00QRCXPZW/?tag=tolees-21) con un 25.88 % de descuento con precio de oferta de 17.79 EUR (original: 24 EUR) en el siguiente enlace!

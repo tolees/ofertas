@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00PAWJMOI/?tag=tolees-21'
 descuento: '42.19'
+average: '7.88'
 ---
 
 Tienes [Axe Black - Set de 6 geles de ducha  6 x 250 ml ](https://www.amazon.es/dp/B00PAWJMOI/?tag=tolees-21) con un 42.19 % de descuento con precio de oferta de 7.88 EUR (original: 13.63 EUR) en el siguiente enlace!

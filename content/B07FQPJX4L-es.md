@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQPJX4L/?tag=tolees-21'
 descuento: '46.17'
+average: '13.99'
 ---
 
 Ahora mismo tienes [Taza de Café para llevar con Tapa  Mug Café Reutilizable con Manga Antideslizante  Coffee To Go Ecológica de Viaje con sin BPA  Vasos de Café apto para Lavavajillas y Microondas  340ml  12 oz ](https://www.amazon.es/dp/B07FQPJX4L/?tag=tolees-21) a 13.99 EUR (original: 25.99 EUR) (46.17 %  de descuento) en el siguiente enlace!

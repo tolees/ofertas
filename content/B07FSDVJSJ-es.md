@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FSDVJSJ/?tag=tolees-21'
 descuento: '40.95'
+average: '64.95'
 ---
 
 Está [Clarks Maritsa Lara  Sandalia con Pulsera para Mujer  Negro  Black-   39.5 EU](https://www.amazon.es/dp/B07FSDVJSJ/?tag=tolees-21) con 40.95 de descuento por 64.95 EUR (original: 110 EUR) en el siguiente enlace!

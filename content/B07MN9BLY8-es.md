@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MN9BLY8/?tag=tolees-21'
 descuento: '42.47'
+average: '28.76'
 ---
 
 Tienes [MTNG 84086  Zapatillas para Hombre   Cow Suede Mesh 10 Azul Claro C44817   42 EU](https://www.amazon.es/dp/B07MN9BLY8/?tag=tolees-21) con un 42.47 % de descuento con precio de oferta de 28.76 EUR (original: 49.99 EUR) en el siguiente enlace!

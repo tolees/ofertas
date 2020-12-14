@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CQ1G4PR/?tag=tolees-21'
 descuento: '25.01'
+average: '14.99'
 ---
 
 Tienes [Xiaomi Mi Power Bank 2S  Batería Portátil 10000Mah  Aleación De Aluminio  Micro Usb  Usbx2 Color Negro.](https://www.amazon.es/dp/B07CQ1G4PR/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 14.99 EUR (original: 19.99 EUR) en el siguiente enlace!

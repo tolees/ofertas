@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HYB45DH/?tag=tolees-21'
 descuento: '35.12'
+average: '12.97'
 ---
 
 Está [Uncluttered Designs Contenedores de Canasta de Apilamiento  4 juegos  Para Frutas  Productos  Gabinete de Cocina  Despensa  Armario  Dormitorio  Organización de Baño y Almacenamiento  blanco ](https://www.amazon.es/dp/B07HYB45DH/?tag=tolees-21) con 35.12 de descuento por 12.97 EUR (original: 19.99 EUR) en el siguiente enlace!

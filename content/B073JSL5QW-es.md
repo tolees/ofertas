@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073JSL5QW/?tag=tolees-21'
 descuento: '60.00'
+average: '20'
 ---
 
 Tienes [FIND Cazadora Estilo Bomber para Hombre  Negro  Schwarz   50  Talla del fabricante: Medium ](https://www.amazon.es/dp/B073JSL5QW/?tag=tolees-21) con un 60.00 % de descuento con precio de oferta de 20 EUR (original: 50 EUR) en el siguiente enlace!

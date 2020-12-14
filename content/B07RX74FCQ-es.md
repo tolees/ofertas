@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RX74FCQ/?tag=tolees-21'
 descuento: '30.00'
+average: '55.99'
 ---
 
 Tienes [Android 8.1 TV Box  VIDEN S95 Smart TV Box Amlogic S905X2 Quad Core Wi-Fi-Dual 2.4G/5.8G  4K*2K UHD H.265  USB 3.0  WiFi Media Player  Android Set-Top Box con Voice Remote Control](https://www.amazon.es/dp/B07RX74FCQ/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 55.99 EUR (original: 79.99 EUR) en el siguiente enlace!

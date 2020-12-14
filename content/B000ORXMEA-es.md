@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000ORXMEA/?tag=tolees-21'
 descuento: '37.42'
+average: '7.51'
 ---
 
 Tienes [Max Factor LipFinity Classic Pintalabios Tono 108 Frivolous - 28 gr](https://www.amazon.es/dp/B000ORXMEA/?tag=tolees-21) con un 37.42 % de descuento con precio de oferta de 7.51 EUR (original: 12 EUR) en el siguiente enlace!

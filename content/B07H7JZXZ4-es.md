@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H7JZXZ4/?tag=tolees-21'
 descuento: '30.01'
+average: '34.99'
 ---
 
 Tienes [Pokemon JCC Caja Entrenador Tormenta Celestial The Pokémon Company 1](https://www.amazon.es/dp/B07H7JZXZ4/?tag=tolees-21) con un 30.01 % de descuento con precio de oferta de 34.99 EUR (original: 49.99 EUR) en el siguiente enlace!

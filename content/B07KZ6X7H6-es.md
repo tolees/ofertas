@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KZ6X7H6/?tag=tolees-21'
 descuento: '64.68'
+average: '21.19'
 ---
 
 Ahora mismo tienes [Cortefiel C1Bcc Canutillo Coolmax Pantalones Deportivos  Hombre  Azul  Gama Azules 12   46  Tamaño del Fabricante:46 ](https://www.amazon.es/dp/B07KZ6X7H6/?tag=tolees-21) a 21.19 EUR (original: 59.99 EUR) (64.68 %  de descuento) en el siguiente enlace!

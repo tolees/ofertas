@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HNSZT3O/?tag=tolees-21'
 descuento: '74.84'
+average: '25.16'
 ---
 
 Está [Quiksilver - Zapatillas De Media Bota - Hombre - EU 39](https://www.amazon.es/dp/B01HNSZT3O/?tag=tolees-21) con 74.84 de descuento por 25.16 EUR (original: 99.99 EUR) en el siguiente enlace!

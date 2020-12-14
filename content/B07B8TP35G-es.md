@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B8TP35G/?tag=tolees-21'
 descuento: '55.43'
+average: '40.11'
 ---
 
 Ahora mismo tienes [Gant Cotton Cable Crew  suéter Niños  Rojo  Port Red 605   176](https://www.amazon.es/dp/B07B8TP35G/?tag=tolees-21) a 40.11 EUR (original: 89.99 EUR) (55.43 %  de descuento) en el siguiente enlace!

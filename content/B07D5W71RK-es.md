@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D5W71RK/?tag=tolees-21'
 descuento: '30.24'
+average: '30.888'
 ---
 
 Ahora mismo tienes [The Walking Dead 13058 - Figura de acción  Talla única](https://www.amazon.es/dp/B07D5W71RK/?tag=tolees-21) a 30.47 EUR (original: 43.68 EUR) (30.24 %  de descuento) en el siguiente enlace!

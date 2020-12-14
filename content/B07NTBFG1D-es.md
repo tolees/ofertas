@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NTBFG1D/?tag=tolees-21'
 descuento: '33.33'
+average: '199.99'
 ---
 
 Ahora mismo tienes [UMIDIGI F1 Play Smartphone Libres Android 9 Pie Teléfono Inteligente Dual SIM 6.3" FHD + 6GB RAM 64GB ROM Teléfono móvil 48MP + 8MP Cámara 5150mAh Batería 18W Carga rápida [Rojo]](https://www.amazon.es/dp/B07NTBFG1D/?tag=tolees-21) a 199.99 EUR (original: 299.99 EUR) (33.33 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079M8MV5Q/?tag=tolees-21'
 descuento: '59.74'
+average: '20.13'
 ---
 
 Ahora mismo tienes [New Balance 411  Zapatillas de Running para Mujer  Azul  Reflection/Light Tidepool/Vintage Indigo Lt1   37.5 EU](https://www.amazon.es/dp/B079M8MV5Q/?tag=tolees-21) a 20.13 EUR (original: 50 EUR) (59.74 %  de descuento) en el siguiente enlace!

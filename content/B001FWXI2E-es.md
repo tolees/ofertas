@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001FWXI2E/?tag=tolees-21'
 descuento: '45.25'
+average: '44.98'
 ---
 
 Tienes [Montana Parfum de Femme Agua de Tocador Vaporizador - 100 ml](https://www.amazon.es/dp/B001FWXI2E/?tag=tolees-21) con un 45.25 % de descuento con precio de oferta de 44.98 EUR (original: 82.16 EUR) en el siguiente enlace!

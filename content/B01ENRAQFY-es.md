@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01ENRAQFY/?tag=tolees-21'
 descuento: '35.02'
+average: '7.59'
 ---
 
 Está [Safta Bandolera Minions Oficial Bandolera Pequeña 160x40x180mm](https://www.amazon.es/dp/B01ENRAQFY/?tag=tolees-21) con 35.02 de descuento por 7.59 EUR (original: 11.68 EUR) en el siguiente enlace!

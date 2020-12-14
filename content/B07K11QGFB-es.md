@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K11QGFB/?tag=tolees-21'
 descuento: '75.17'
+average: '32.27'
 ---
 
 Tienes [adidas I-5923 W  Zapatillas de Gimnasia para Mujer  38 2/3 EU  Morado  Periwinkle/Clear Mint/Core Black ](https://www.amazon.es/dp/B07K11QGFB/?tag=tolees-21) con un 75.17 % de descuento con precio de oferta de 32.27 EUR (original: 129.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BR58XCJ/?tag=tolees-21'
 descuento: '45.25'
+average: '35.59'
 ---
 
 Ahora mismo tienes [Nike Mach Runner  Zapatillas de Deporte Unisex Adulto   Blanco 000   40 EU](https://www.amazon.es/dp/B07BR58XCJ/?tag=tolees-21) a 35.59 EUR (original: 65 EUR) (45.25 %  de descuento) en el siguiente enlace!

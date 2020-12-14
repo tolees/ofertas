@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0787GT4PJ/?tag=tolees-21'
 descuento: '74.81'
+average: '17.61'
 ---
 
 Ahora mismo tienes [Pepe Jeans London Portobello Print S  Zapatillas Niños  Amarillo  Sunrise   35 EU](https://www.amazon.es/dp/B0787GT4PJ/?tag=tolees-21) a 17.61 EUR (original: 69.9 EUR) (74.81 %  de descuento) en el siguiente enlace!

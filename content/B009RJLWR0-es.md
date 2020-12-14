@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B009RJLWR0/?tag=tolees-21'
 descuento: '46.63'
+average: '7.2'
 ---
 
 Tienes [Max Factor  Base de maquillaje  tono 50 natural  piel sensible  tono de piel medio ](https://www.amazon.es/dp/B009RJLWR0/?tag=tolees-21) con un 46.63 % de descuento con precio de oferta de 7.2 EUR (original: 13.49 EUR) en el siguiente enlace!

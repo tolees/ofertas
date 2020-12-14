@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00B18X3PO/?tag=tolees-21'
 descuento: '38.26'
+average: '26.24'
 ---
 
 Tienes [Shiseido 53654 - Crema  30 ml](https://www.amazon.es/dp/B00B18X3PO/?tag=tolees-21) con un 38.26 % de descuento con precio de oferta de 26.24 EUR (original: 42.5 EUR) en el siguiente enlace!

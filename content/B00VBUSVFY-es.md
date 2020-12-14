@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00VBUSVFY/?tag=tolees-21'
 descuento: '46.87'
+average: '100.95'
 ---
 
 Tienes [Tecnifibre Raqueta Squash CARBOFLEX S 125](https://www.amazon.es/dp/B00VBUSVFY/?tag=tolees-21) con un 46.87 % de descuento con precio de oferta de 100.95 EUR (original: 190 EUR) en el siguiente enlace!

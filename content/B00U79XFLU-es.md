@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00U79XFLU/?tag=tolees-21'
 descuento: '44.84'
+average: '15.99'
 ---
 
 Está [ThorFire C8S - Linternas LED Alta Potencia 900 Lúmenes Aluminio Linterna Táctica Militar Utiliza Batería 18650  No Incluida  para Ciclismo  Camping  Montañismo  Senderismo  Negro](https://www.amazon.es/dp/B00U79XFLU/?tag=tolees-21) con 44.84 de descuento por 15.99 EUR (original: 28.99 EUR) en el siguiente enlace!

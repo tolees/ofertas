@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KD34CQG/?tag=tolees-21'
 descuento: '47.20'
+average: '15.84'
 ---
 
 Ahora mismo tienes [Hurley Brush Set PRM tee SS Camisetas  Hombre  Black  XXL](https://www.amazon.es/dp/B07KD34CQG/?tag=tolees-21) a 15.84 EUR (original: 30 EUR) (47.20 %  de descuento) en el siguiente enlace!

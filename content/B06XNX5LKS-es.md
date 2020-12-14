@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XNX5LKS/?tag=tolees-21'
 descuento: '42.80'
+average: '13.7'
 ---
 
 Ahora mismo tienes [Joma Granada Polo de Tenis  Hombre  Vino  M](https://www.amazon.es/dp/B06XNX5LKS/?tag=tolees-21) a 13.7 EUR (original: 23.95 EUR) (42.80 %  de descuento) en el siguiente enlace!

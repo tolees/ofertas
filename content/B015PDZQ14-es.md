@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B015PDZQ14/?tag=tolees-21'
 descuento: '52.60'
+average: '109.01'
 ---
 
 Ahora mismo tienes [Marmot - Pro Tour Pants  Color Negro  Talla 38](https://www.amazon.es/dp/B015PDZQ14/?tag=tolees-21) a 109.01 EUR (original: 230 EUR) (52.60 %  de descuento) en el siguiente enlace!

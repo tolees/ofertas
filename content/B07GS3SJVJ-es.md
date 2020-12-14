@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GS3SJVJ/?tag=tolees-21'
 descuento: '58.34'
+average: '24.99'
 ---
 
 Está [Compresor de Aire Portátiles auto  Mini bomba de aire portátil con dispositivo de medición incorporado  6.9BAR / 100PSI](https://www.amazon.es/dp/B07GS3SJVJ/?tag=tolees-21) con 58.34 de descuento por 24.99 EUR (original: 59.99 EUR) en el siguiente enlace!

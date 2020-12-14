@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00EZJ6AKQ/?tag=tolees-21'
 descuento: '89.63'
+average: '24.23'
 ---
 
 Tienes [Leds-c4 multidir - Downlight cuadrado multidir qr-111 4x15w gris](https://www.amazon.es/dp/B00EZJ6AKQ/?tag=tolees-21) con un 89.63 % de descuento con precio de oferta de 24.23 EUR (original: 233.59 EUR) en el siguiente enlace!

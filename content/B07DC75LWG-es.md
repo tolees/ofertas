@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC75LWG/?tag=tolees-21'
 descuento: '43.60'
+average: '33.81'
 ---
 
 Está [Puma Insurge Mesh  Zapatillas de Deporte Unisex Adulto  Azul  Peacoat-Blazing Yellow White   42.5 EU](https://www.amazon.es/dp/B07DC75LWG/?tag=tolees-21) con 43.60 de descuento por 33.81 EUR (original: 59.95 EUR) en el siguiente enlace!

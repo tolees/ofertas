@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0748MBGXX/?tag=tolees-21'
 descuento: '51.59'
+average: '87.86'
 ---
 
 Está [Bosch Nivel láser en cruz UniversalLevel 3 Set  trípode de 1 5 m  3 pilas AA  bolsa  alcance: 10 m  tiempo de autonivelación: >4 s  autonomía: 5 h ](https://www.amazon.es/dp/B0748MBGXX/?tag=tolees-21) con 51.59 de descuento por 87.86 EUR (original: 181.49 EUR) en el siguiente enlace!

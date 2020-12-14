@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073VHKX5M/?tag=tolees-21'
 descuento: '41.70'
+average: '6.99'
 ---
 
 Tienes [AMEITECH Marcos de Foto Acrílicos  9x13 cm Marco de Imagen Transparente de Doble Cara  Pantalla de Escritorio sin Forma de Tarjeta Postal](https://www.amazon.es/dp/B073VHKX5M/?tag=tolees-21) con un 41.70 % de descuento con precio de oferta de 6.99 EUR (original: 11.99 EUR) en el siguiente enlace!

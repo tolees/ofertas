@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FD5YHS8/?tag=tolees-21'
 descuento: '52.18'
+average: '31.06'
 ---
 
 Ahora mismo tienes [Skechers Microburst-Tender Soul  Zapatillas sin Cordones para Mujer  Azul  Navy Nvy   36 EU](https://www.amazon.es/dp/B07FD5YHS8/?tag=tolees-21) a 31.06 EUR (original: 64.95 EUR) (52.18 %  de descuento) en el siguiente enlace!

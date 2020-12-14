@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JZ5D98P/?tag=tolees-21'
 descuento: '30.11'
+average: '41.9'
 ---
 
 Ahora mismo tienes [adidas Forest Grove J  Zapatillas de Gimnasia Unisex Niños  Gris FTWR White/Grey Six  40 EU](https://www.amazon.es/dp/B07JZ5D98P/?tag=tolees-21) a 41.9 EUR (original: 59.95 EUR) (30.11 %  de descuento) en el siguiente enlace!

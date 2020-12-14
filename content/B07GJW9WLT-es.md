@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GJW9WLT/?tag=tolees-21'
 descuento: '66.19'
+average: '18.56'
 ---
 
 Está [Carrera Must Mid  Zapatillas de Cross para Hombre  Azul  Navy 02   42 EU](https://www.amazon.es/dp/B07GJW9WLT/?tag=tolees-21) con 66.19 de descuento por 18.56 EUR (original: 54.9 EUR) en el siguiente enlace!

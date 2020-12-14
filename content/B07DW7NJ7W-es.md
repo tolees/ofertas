@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DW7NJ7W/?tag=tolees-21'
 descuento: '61.13'
+average: '13.99'
 ---
 
 Tienes [ISENPENK 3X Cartuchos de Filtros  Kit de Filtros de Agua sin BPA Compratibles con Jarras  para Eliminar el Cloro  Olor  Metales Pesados  la Cal](https://www.amazon.es/dp/B07DW7NJ7W/?tag=tolees-21) con un 61.13 % de descuento con precio de oferta de 13.99 EUR (original: 35.99 EUR) en el siguiente enlace!

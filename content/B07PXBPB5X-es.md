@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PXBPB5X/?tag=tolees-21'
 descuento: '65.08'
+average: '13.95'
 ---
 
 Tienes [Charles Wilson Paquete 4 Camisetas Cuello Redondo Lisas  XX-Large  Dark Navy ](https://www.amazon.es/dp/B07PXBPB5X/?tag=tolees-21) con un 65.08 % de descuento con precio de oferta de 13.95 EUR (original: 39.95 EUR) en el siguiente enlace!

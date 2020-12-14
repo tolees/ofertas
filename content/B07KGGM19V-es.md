@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGGM19V/?tag=tolees-21'
 descuento: '32.38'
+average: '16.87'
 ---
 
 Ahora mismo tienes [Buff Effect Logo Gorra Pack Bike  Unisex Adulto  Talla única](https://www.amazon.es/dp/B07KGGM19V/?tag=tolees-21) a 16.87 EUR (original: 24.95 EUR) (32.38 %  de descuento) en el siguiente enlace!

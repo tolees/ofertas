@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ2JJDP/?tag=tolees-21'
 descuento: '34.73'
+average: '48.95'
 ---
 
 Tienes [New Balance 500  Zapatillas para Hombre  Gris  Castlerock/Rain Cloud/Desert Gold Scg   42.5 EU](https://www.amazon.es/dp/B07DJ2JJDP/?tag=tolees-21) con un 34.73 % de descuento con precio de oferta de 48.95 EUR (original: 75 EUR) en el siguiente enlace!

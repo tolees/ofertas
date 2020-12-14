@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071S8FBN6/?tag=tolees-21'
 descuento: '58.31'
+average: '31.25'
 ---
 
 Está [Under Armour Press 2  Zapatillas de Deporte para Mujer  Rosa Korall/Weiß  39 EU](https://www.amazon.es/dp/B071S8FBN6/?tag=tolees-21) con 58.31 de descuento por 31.25 EUR (original: 74.95 EUR) en el siguiente enlace!

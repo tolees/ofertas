@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00D1XLWC8/?tag=tolees-21'
 descuento: '43.69'
+average: '13.6'
 ---
 
 Tienes [Kerastase 54061 - Cuidado capilar  150 ml](https://www.amazon.es/dp/B00D1XLWC8/?tag=tolees-21) con un 43.69 % de descuento con precio de oferta de 13.6 EUR (original: 24.15 EUR) en el siguiente enlace!

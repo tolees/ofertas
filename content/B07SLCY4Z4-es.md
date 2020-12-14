@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07SLCY4Z4/?tag=tolees-21'
 descuento: '69.95'
+average: '29.9'
 ---
 
 Tienes [Saco Portabebé Universal Interestacional + Capota de Regalo!! Últimas unidades!!!  Dogs rosa ](https://www.amazon.es/dp/B07SLCY4Z4/?tag=tolees-21) con un 69.95 % de descuento con precio de oferta de 29.9 EUR (original: 99.5 EUR) en el siguiente enlace!

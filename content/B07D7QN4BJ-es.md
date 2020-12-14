@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D7QN4BJ/?tag=tolees-21'
 descuento: '44.26'
+average: '86.4'
 ---
 
 Tienes [Saucony Xodus ISO 3  Zapatillas de Running para Hombre  Negro  Black/Vizired 35   41 EU](https://www.amazon.es/dp/B07D7QN4BJ/?tag=tolees-21) con un 44.26 % de descuento con precio de oferta de 86.4 EUR (original: 155 EUR) en el siguiente enlace!

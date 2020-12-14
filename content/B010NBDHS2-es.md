@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B010NBDHS2/?tag=tolees-21'
 descuento: '46.01'
+average: '26.99'
 ---
 
 Tienes [Etekcity PulsiOxímetro de Dedo y Monitor de Frecuencia Cardíaca con Pantalla OLED  Alarma y Función de Auto-Apagado  Funda  Baterías y Cuerda de Sujeción Incluidos  Blanco](https://www.amazon.es/dp/B010NBDHS2/?tag=tolees-21) con un 46.01 % de descuento con precio de oferta de 26.99 EUR (original: 49.99 EUR) en el siguiente enlace!

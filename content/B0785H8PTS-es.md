@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0785H8PTS/?tag=tolees-21'
 descuento: '46.58'
+average: '18.69'
 ---
 
 Está [Runbow - Deluxe Edition](https://www.amazon.es/dp/B0785H8PTS/?tag=tolees-21) con 46.58 de descuento por 18.69 EUR (original: 34.99 EUR) en el siguiente enlace!

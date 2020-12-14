@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0798FVV2C/?tag=tolees-21'
 descuento: '60.03'
+average: '31.96'
 ---
 
 Ahora mismo tienes [G-Star RAW Strett Slip On Aop  Zapatillas sin Cordones para Mujer  Multicolor  Milk/dk Saru Blue Aop 9280   40 EU](https://www.amazon.es/dp/B0798FVV2C/?tag=tolees-21) a 31.96 EUR (original: 79.95 EUR) (60.03 %  de descuento) en el siguiente enlace!

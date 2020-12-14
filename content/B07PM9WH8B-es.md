@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PM9WH8B/?tag=tolees-21'
 descuento: '45.02'
+average: '10.99'
 ---
 
 Tienes [BENTOBEN Funda iPhone 6s Plus  Funda iPhone 6 Plus  3 en 1 Carcasa Combinada PC Híbrido y TPU Silicona Suave Resistente PC Bumper Cubierta Protectora Funda para iPhone 6/6s Plus  5.5     Púrpura](https://www.amazon.es/dp/B07PM9WH8B/?tag=tolees-21) con un 45.02 % de descuento con precio de oferta de 10.99 EUR (original: 19.99 EUR) en el siguiente enlace!

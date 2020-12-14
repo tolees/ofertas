@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NQ8VBC6/?tag=tolees-21'
 descuento: '80.72'
+average: '26.99'
 ---
 
 Tienes [Viala Cepillo de Limpieza Facial y Masajeador con 3 Cabezales Clásicos  Eléctrico e Impermeable  para Exfoliación Delicada y Profunda  Verde Claro](https://www.amazon.es/dp/B07NQ8VBC6/?tag=tolees-21) con un 80.72 % de descuento con precio de oferta de 26.99 EUR (original: 139.99 EUR) en el siguiente enlace!

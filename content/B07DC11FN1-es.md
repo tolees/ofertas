@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC11FN1/?tag=tolees-21'
 descuento: '66.11'
+average: '25.4'
 ---
 
 Está [Puma Suede Platform Radicals Jr  Zapatillas para Niñas  Gris  Gray Violet-Fair Aqua   37 EU](https://www.amazon.es/dp/B07DC11FN1/?tag=tolees-21) con 66.11 de descuento por 25.4 EUR (original: 74.95 EUR) en el siguiente enlace!

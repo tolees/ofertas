@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000OC7SZ4/?tag=tolees-21'
 descuento: '32.53'
+average: '302.92'
 ---
 
 Ahora mismo tienes [Delonghi Magnifica ESAM3000B Maquina De Espresso  1350 W  1.8 Litros  Acero Inoxidable  Negro](https://www.amazon.es/dp/B000OC7SZ4/?tag=tolees-21) a 302.92 EUR (original: 449 EUR) (32.53 %  de descuento) en el siguiente enlace!

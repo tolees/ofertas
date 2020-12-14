@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N8PFVIM/?tag=tolees-21'
 descuento: '72.13'
+average: '27.86'
 ---
 
 Tienes [Bugatti J97011  Zapatillas para Mujer  Dorado  Gold 804   41 EU](https://www.amazon.es/dp/B01N8PFVIM/?tag=tolees-21) con un 72.13 % de descuento con precio de oferta de 27.86 EUR (original: 99.95 EUR) en el siguiente enlace!

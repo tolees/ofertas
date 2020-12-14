@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0776WXS4K/?tag=tolees-21'
 descuento: '69.04'
+average: '18.56'
 ---
 
 Tienes [s.Oliver 23620  Zapatillas para Mujer  Verde  Emerald   37 EU](https://www.amazon.es/dp/B0776WXS4K/?tag=tolees-21) con un 69.04 % de descuento con precio de oferta de 18.56 EUR (original: 59.95 EUR) en el siguiente enlace!

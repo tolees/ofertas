@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073RKV8D4/?tag=tolees-21'
 descuento: '65.30'
+average: '24.27'
 ---
 
 Está [Adidas CF ADV Adapt  Zapatillas de Deporte para Hombre  Negro Negbas/Ftwbla 000  42 EU](https://www.amazon.es/dp/B073RKV8D4/?tag=tolees-21) con 65.30 de descuento por 24.27 EUR (original: 69.95 EUR) en el siguiente enlace!

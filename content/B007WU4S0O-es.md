@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007WU4S0O/?tag=tolees-21'
 descuento: '28.58'
+average: '7.87'
 ---
 
 Ahora mismo tienes [Beyonce Midnight Heat Agua de Perfume - 30 ml](https://www.amazon.es/dp/B007WU4S0O/?tag=tolees-21) a 7.87 EUR (original: 11.02 EUR) (28.58 %  de descuento) en el siguiente enlace!

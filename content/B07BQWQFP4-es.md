@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BQWQFP4/?tag=tolees-21'
 descuento: '59.60'
+average: '96.95'
 ---
 
 Ahora mismo tienes [BLACK CROWN ASIA SOFT](https://www.amazon.es/dp/B07BQWQFP4/?tag=tolees-21) a 96.95 EUR (original: 240 EUR) (59.60 %  de descuento) en el siguiente enlace!

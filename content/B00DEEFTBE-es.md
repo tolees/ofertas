@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00DEEFTBE/?tag=tolees-21'
 descuento: '59.11'
+average: '18.4'
 ---
 
 Tienes [Radiant Reloj analogico para Hombre de Cuarzo con Correa en Caucho RA179202](https://www.amazon.es/dp/B00DEEFTBE/?tag=tolees-21) con un 59.11 % de descuento con precio de oferta de 18.4 EUR (original: 45 EUR) en el siguiente enlace!

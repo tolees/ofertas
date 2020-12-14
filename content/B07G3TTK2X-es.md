@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G3TTK2X/?tag=tolees-21'
 descuento: '44.44'
+average: '7.95'
 ---
 
 Tienes [Homyl 1x Reloj de Entrenamiento con GPS y Registro Actividad con Sensor de Frecuencia Cardíaca para Movíles Inteligentes iOS - Blanco](https://www.amazon.es/dp/B07G3TTK2X/?tag=tolees-21) con un 44.44 % de descuento con precio de oferta de 7.95 EUR (original: 14.31 EUR) en el siguiente enlace!

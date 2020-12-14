@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CRQ849D/?tag=tolees-21'
 descuento: '28.59'
+average: '9.99'
 ---
 
 Está [Neutrogena Aqua Spray Corporal Express Hydro Boost - 200 ml](https://www.amazon.es/dp/B07CRQ849D/?tag=tolees-21) con 28.59 de descuento por 9.99 EUR (original: 13.99 EUR) en el siguiente enlace!

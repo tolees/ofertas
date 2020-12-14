@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N41NM5V/?tag=tolees-21'
 descuento: '40.51'
+average: '58.9'
 ---
 
 Ahora mismo tienes [Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero F20424/4](https://www.amazon.es/dp/B07N41NM5V/?tag=tolees-21) a 58.9 EUR (original: 99 EUR) (40.51 %  de descuento) en el siguiente enlace!

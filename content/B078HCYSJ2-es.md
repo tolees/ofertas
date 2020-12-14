@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078HCYSJ2/?tag=tolees-21'
 descuento: '72.43'
+average: '23.42'
 ---
 
 Ahora mismo tienes [Wrangler Chino  Pantalones para Hombre  Marrón  Camel Washed 49j     Talla del Fabricante: W30/L34 ](https://www.amazon.es/dp/B078HCYSJ2/?tag=tolees-21) a 23.42 EUR (original: 84.95 EUR) (72.43 %  de descuento) en el siguiente enlace!

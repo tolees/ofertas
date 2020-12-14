@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ9QX29/?tag=tolees-21'
 descuento: '30.69'
+average: '51.95'
 ---
 
 Tienes [Salomon RX Moc 4.0  Zapatillas de Running para Asfalto para Hombre  Negro Black/Phantom/White  44 EU](https://www.amazon.es/dp/B07CZ9QX29/?tag=tolees-21) con un 30.69 % de descuento con precio de oferta de 51.95 EUR (original: 74.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DQXVRDS/?tag=tolees-21'
 descuento: '28.10'
+average: '30.8'
 ---
 
 Está [MTNG Attitude 69394  Zapatillas para Mujer  Verde  Nube Kaky C42798   39 EU](https://www.amazon.es/dp/B07DQXVRDS/?tag=tolees-21) con 28.10 de descuento por 30.8 EUR (original: 42.84 EUR) en el siguiente enlace!

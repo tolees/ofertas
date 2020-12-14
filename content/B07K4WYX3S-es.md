@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K4WYX3S/?tag=tolees-21'
 descuento: '69.99'
+average: '9'
 ---
 
 Ahora mismo tienes [JACK & JONES Jcojames Sweat Hood Camp Capucha  Gris  Light Grey Detail: Melange   Large para Hombre](https://www.amazon.es/dp/B07K4WYX3S/?tag=tolees-21) a 9 EUR (original: 29.99 EUR) (69.99 %  de descuento) en el siguiente enlace!

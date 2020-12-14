@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DGK518F/?tag=tolees-21'
 descuento: '52.56'
+average: '18.97'
 ---
 
 Tienes [State Of Mind](https://www.amazon.es/dp/B07DGK518F/?tag=tolees-21) con un 52.56 % de descuento con precio de oferta de 18.97 EUR (original: 39.99 EUR) en el siguiente enlace!

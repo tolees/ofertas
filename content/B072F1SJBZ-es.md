@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072F1SJBZ/?tag=tolees-21'
 descuento: '49.19'
+average: '33'
 ---
 
 Está [Reebok Royal Ultra  Zapatillas para Hombre  Negro  Black / White   40.5 EU](https://www.amazon.es/dp/B072F1SJBZ/?tag=tolees-21) con 49.19 de descuento por 33 EUR (original: 64.95 EUR) en el siguiente enlace!

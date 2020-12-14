@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XDFTQGP/?tag=tolees-21'
 descuento: '31.03'
+average: '6'
 ---
 
 Tienes [Garnier Skin Active - Pure Active Sensitive  Crema Hidratante Facial de Día  Anti-Imperfecciones  para Pieles Sensibles - 50 ml](https://www.amazon.es/dp/B06XDFTQGP/?tag=tolees-21) con un 31.03 % de descuento con precio de oferta de 6 EUR (original: 8.7 EUR) en el siguiente enlace!

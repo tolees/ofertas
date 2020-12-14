@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MM4ZM29/?tag=tolees-21'
 descuento: '33.33'
+average: '4.2'
 ---
 
 Está [Arsenal FC - Figura SoccerStarz de Aubameyang  5cm   Multicolor ](https://www.amazon.es/dp/B07MM4ZM29/?tag=tolees-21) con 33.33 de descuento por 4.2 EUR (original: 6.3 EUR) en el siguiente enlace!

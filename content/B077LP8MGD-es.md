@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077LP8MGD/?tag=tolees-21'
 descuento: '32.95'
+average: '9.99'
 ---
 
 Está [Neutrogena Activador de Máscara de Fototerapia Anti Acné con Pilas  30 sesiones ](https://www.amazon.es/dp/B077LP8MGD/?tag=tolees-21) con 32.95 de descuento por 9.99 EUR (original: 14.9 EUR) en el siguiente enlace!

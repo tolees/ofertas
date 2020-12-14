@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00I0QBSBQ/?tag=tolees-21'
 descuento: '92.18'
+average: '11.97'
 ---
 
 Tienes [Abeba Crawler Zapatos/Blanco Gris S1 Blanco Blanco Talla:36](https://www.amazon.es/dp/B00I0QBSBQ/?tag=tolees-21) con un 92.18 % de descuento con precio de oferta de 11.97 EUR (original: 152.99 EUR) en el siguiente enlace!

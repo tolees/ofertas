@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NCOJ4WN/?tag=tolees-21'
 descuento: '77.15'
+average: '27.42'
 ---
 
 Ahora mismo tienes [Converse Chuck Taylor CTAS WP Boot Hi  Zapatillas Unisex Adulto  Clove/Dark Atomic Teal 288  36 EU](https://www.amazon.es/dp/B01NCOJ4WN/?tag=tolees-21) a 27.42 EUR (original: 120 EUR) (77.15 %  de descuento) en el siguiente enlace!

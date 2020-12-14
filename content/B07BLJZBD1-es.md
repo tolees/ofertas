@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BLJZBD1/?tag=tolees-21'
 descuento: '47.88'
+average: '20.82'
 ---
 
 Ahora mismo tienes [Wrangler Contrast Polo  Hombre  Rosa  Chalk Pink Wg  Large](https://www.amazon.es/dp/B07BLJZBD1/?tag=tolees-21) a 20.82 EUR (original: 39.95 EUR) (47.88 %  de descuento) en el siguiente enlace!

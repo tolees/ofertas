@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LNLN0TM/?tag=tolees-21'
 descuento: '48.21'
+average: '101'
 ---
 
 Está [Lacoste 2010886 - Reloj de pulsera para hombre](https://www.amazon.es/dp/B01LNLN0TM/?tag=tolees-21) con 48.21 de descuento por 101 EUR (original: 195 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BSOPVDM/?tag=tolees-21'
 descuento: '40.58'
+average: '35.59'
 ---
 
 Está [Samsung -  Cargador Rápido   Negro](https://www.amazon.es/dp/B01BSOPVDM/?tag=tolees-21) con 40.58 de descuento por 35.59 EUR (original: 59.9 EUR) en el siguiente enlace!

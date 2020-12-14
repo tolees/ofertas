@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0797QM3PP/?tag=tolees-21'
 descuento: '25.00'
+average: '53.99'
 ---
 
 Ahora mismo tienes [Levivo Set de Perchas Flexibles  Acero para Muelles  Blanco  47x3x14 cm  20 Unidades](https://www.amazon.es/dp/B0797QM3PP/?tag=tolees-21) a 53.99 EUR (original: 71.99 EUR) (25.00 %  de descuento) en el siguiente enlace!

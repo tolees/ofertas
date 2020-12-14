@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BJGG3WG/?tag=tolees-21'
 descuento: '47.37'
+average: '7.2'
 ---
 
 Está [AXE Desodorante Apollo Duplo Ahorro - 2 Paquetes de 2 x 150 ml: Total: 600 ml](https://www.amazon.es/dp/B07BJGG3WG/?tag=tolees-21) con 47.37 de descuento por 7.2 EUR (original: 13.68 EUR) en el siguiente enlace!

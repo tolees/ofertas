@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FZRF9EE/?tag=tolees-21'
 descuento: '50.13'
+average: '42.39'
 ---
 
 Está [Mizuno Mizuno Synchro Mx - Zapatillas de running Mujer  color Gris - Grey  Quarry/White/Strawberry Pink   talla 38 EU  5 UK ](https://www.amazon.es/dp/B01FZRF9EE/?tag=tolees-21) con 50.13 de descuento por 42.39 EUR (original: 85 EUR) en el siguiente enlace!

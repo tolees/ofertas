@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00I2T58MQ/?tag=tolees-21'
 descuento: '30.72'
+average: '48'
 ---
 
 Tienes [Andador muy ligero| Ayuda para las personas de movilidad reducida| Patas fijas traseras y ruedas delanteras| Forma anatómica  ajustable en altura| Acero inoxidable| Materiales de calidad certificada](https://www.amazon.es/dp/B00I2T58MQ/?tag=tolees-21) con un 30.72 % de descuento con precio de oferta de 48 EUR (original: 69.28 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N33N5QC/?tag=tolees-21'
 descuento: '53.89'
+average: '5.99'
 ---
 
 Tienes [Pokemon JCC 60 Cartas XY Evoluciones-Español  1 baraja al Azar   Color  The Pokémon Company International POXY1201ES](https://www.amazon.es/dp/B01N33N5QC/?tag=tolees-21) con un 53.89 % de descuento con precio de oferta de 5.99 EUR (original: 12.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K51JB8K/?tag=tolees-21'
 descuento: '78.35'
+average: '14.06'
 ---
 
 Tienes [Levi s Kids Nn22447 61 Trousers  Jeans para Niños  Beige foncé  Beige 61  12 años  Talla del Fabricante: 12Y ](https://www.amazon.es/dp/B07K51JB8K/?tag=tolees-21) con un 78.35 % de descuento con precio de oferta de 14.06 EUR (original: 64.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075FVNKVZ/?tag=tolees-21'
 descuento: '44.01'
+average: '167.96'
 ---
 
 Tienes [Moulinex Ultrablend Cook LM962B10 Batidoras de vaso de 1500 W de potencia y 6 programas automáticos  6 cuchillaspantalla digital intuitiva  y vaso de Tritan ultra resistente y ligero](https://www.amazon.es/dp/B075FVNKVZ/?tag=tolees-21) con un 44.01 % de descuento con precio de oferta de 167.96 EUR (original: 299.99 EUR) en el siguiente enlace!

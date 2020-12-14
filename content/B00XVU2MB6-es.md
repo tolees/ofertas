@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00XVU2MB6/?tag=tolees-21'
 descuento: '68.28'
+average: '15.83'
 ---
 
 Ahora mismo tienes [Dockers 35IZ301-620720  Botas Militares para Mujer  Rojo-Rot  Dunkelrot 720   39 EU](https://www.amazon.es/dp/B00XVU2MB6/?tag=tolees-21) a 15.83 EUR (original: 49.9 EUR) (68.28 %  de descuento) en el siguiente enlace!

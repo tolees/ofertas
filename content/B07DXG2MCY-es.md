@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DXG2MCY/?tag=tolees-21'
 descuento: '73.26'
+average: '5.99'
 ---
 
 Tienes [Cherry Pitter  Cherry Stoner Tool  Removedor de Semillas de Oliva para una Sola Mano Operación con Extra Regalo Apple Corer](https://www.amazon.es/dp/B07DXG2MCY/?tag=tolees-21) con un 73.26 % de descuento con precio de oferta de 5.99 EUR (original: 22.4 EUR) en el siguiente enlace!

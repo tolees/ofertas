@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DWSHZSK/?tag=tolees-21'
 descuento: '26.68'
+average: '21.99'
 ---
 
 Está [OurLeeme Mini Máquina de coser eléctrica Máquina portátil de 2 velocidades Máquina de coser automatica portatil Máquina con pedal/Luz/Cortador](https://www.amazon.es/dp/B07DWSHZSK/?tag=tolees-21) con 26.68 de descuento por 21.99 EUR (original: 29.99 EUR) en el siguiente enlace!

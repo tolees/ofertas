@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MR8B3C5/?tag=tolees-21'
 descuento: '80.68'
+average: '23.17'
 ---
 
 Ahora mismo tienes [G-STAR RAW 3301 Straight Tapered Jeans  Azul  lt aged 6541-424   26W / 32L para Hombre](https://www.amazon.es/dp/B07MR8B3C5/?tag=tolees-21) a 23.17 EUR (original: 119.95 EUR) (80.68 %  de descuento) en el siguiente enlace!

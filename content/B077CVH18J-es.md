@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077CVH18J/?tag=tolees-21'
 descuento: '53.52'
+average: '46.48'
 ---
 
 Ahora mismo tienes [Diesel Exposure Low I  Zapatillas para Hombre  Verde T7434  45 EU](https://www.amazon.es/dp/B077CVH18J/?tag=tolees-21) a 46.48 EUR (original: 100 EUR) (53.52 %  de descuento) en el siguiente enlace!

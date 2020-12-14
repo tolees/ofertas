@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCDHPMJ/?tag=tolees-21'
 descuento: '62.36'
+average: '18.8'
 ---
 
 Está [XTI 48155  Botas Clasicas para Hombre  Negro  Black   42 EU](https://www.amazon.es/dp/B07DCDHPMJ/?tag=tolees-21) con 62.36 de descuento por 18.8 EUR (original: 49.95 EUR) en el siguiente enlace!

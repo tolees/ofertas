@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N7TGUQ4/?tag=tolees-21'
 descuento: '75.35'
+average: '6.16'
 ---
 
 Tienes [Only Onlhollie L/s Pullover Knit-Box suéter  Rosa  Rose Smoke Print:w Silver Foil Print   38  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B01N7TGUQ4/?tag=tolees-21) con un 75.35 % de descuento con precio de oferta de 6.16 EUR (original: 24.99 EUR) en el siguiente enlace!

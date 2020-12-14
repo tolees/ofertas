@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0053UAKCA/?tag=tolees-21'
 descuento: '53.91'
+average: '15.21'
 ---
 
 Ahora mismo tienes [Schwarzkopf Bc Oil Miracle Finishing - Cuidado capilar  100 ml](https://www.amazon.es/dp/B0053UAKCA/?tag=tolees-21) a 15.21 EUR (original: 33 EUR) (53.91 %  de descuento) en el siguiente enlace!

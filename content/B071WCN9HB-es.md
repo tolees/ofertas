@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071WCN9HB/?tag=tolees-21'
 descuento: '45.05'
+average: '27.45'
 ---
 
 Ahora mismo tienes [Reebok Foster Flyer  Zapatillas de Running para Mujer  Gris  Flat Medium Grey/Poison Pink/White/Pewte   39 EU](https://www.amazon.es/dp/B071WCN9HB/?tag=tolees-21) a 27.45 EUR (original: 49.95 EUR) (45.05 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C1KTXQZ/?tag=tolees-21'
 descuento: '35.31'
+average: '10.99'
 ---
 
 Ahora mismo tienes [RecoverPad 8pcs 50x100mm Profesional TENS Electrodos 3rd Gel japonés Sin látex Electrodos CE/FDA Aprobado  Mejor desempeño autoadherente para electroestimuladores TENS EMS](https://www.amazon.es/dp/B07C1KTXQZ/?tag=tolees-21) a 10.99 EUR (original: 16.99 EUR) (35.31 %  de descuento) en el siguiente enlace!

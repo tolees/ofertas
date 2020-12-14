@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0785FFB8Z/?tag=tolees-21'
 descuento: '60.02'
+average: '13.79'
 ---
 
 Está [Under Armour Seamless Longline Bra - XL](https://www.amazon.es/dp/B0785FFB8Z/?tag=tolees-21) con 60.02 de descuento por 13.79 EUR (original: 34.49 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003K7LWFC/?tag=tolees-21'
 descuento: '95.25'
+average: '1.5'
 ---
 
 Está [Powerbar Natural Energy Cereal Bar + Magnesium Sweet n Salty - 24 Barras](https://www.amazon.es/dp/B003K7LWFC/?tag=tolees-21) con 95.25 de descuento por 1.5 EUR (original: 31.58 EUR) en el siguiente enlace!

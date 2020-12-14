@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GT5LC71/?tag=tolees-21'
 descuento: '36.95'
+average: '37.8'
 ---
 
 Ahora mismo tienes [Desigual - Bag Orangina Piadena Women  Carteras de mano con asa Mujer  Azul  Navy   10x23.8x29.8 cm  B x H T ](https://www.amazon.es/dp/B07GT5LC71/?tag=tolees-21) a 37.8 EUR (original: 59.95 EUR) (36.95 %  de descuento) en el siguiente enlace!

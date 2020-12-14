@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0779K3QQG/?tag=tolees-21'
 descuento: '56.86'
+average: '34.51'
 ---
 
 Ahora mismo tienes [Vans Era 59  Zapatillas Unisex Adulto  Beige  Suiting   39 EU](https://www.amazon.es/dp/B0779K3QQG/?tag=tolees-21) a 34.51 EUR (original: 80 EUR) (56.86 %  de descuento) en el siguiente enlace!

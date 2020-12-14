@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004YJ2VCI/?tag=tolees-21'
 descuento: '31.35'
+average: '4.95'
 ---
 
 Tienes [Tufo Extreme Líquido Antipinchazos  Unisex Adulto  Negro  Talla Única](https://www.amazon.es/dp/B004YJ2VCI/?tag=tolees-21) con un 31.35 % de descuento con precio de oferta de 4.95 EUR (original: 7.21 EUR) en el siguiente enlace!

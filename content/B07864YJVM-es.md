@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07864YJVM/?tag=tolees-21'
 descuento: '62.12'
+average: '13.24'
 ---
 
 Está [Puma Training AOP Leggings  Niñas  Rojo  Flame Scarlet   176](https://www.amazon.es/dp/B07864YJVM/?tag=tolees-21) con 62.12 de descuento por 13.24 EUR (original: 34.95 EUR) en el siguiente enlace!

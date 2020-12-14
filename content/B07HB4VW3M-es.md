@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HB4VW3M/?tag=tolees-21'
 descuento: '46.71'
+average: '8.5'
 ---
 
 Ahora mismo tienes [Pop! Titanic - Figura de Vinilo Jack](https://www.amazon.es/dp/B07HB4VW3M/?tag=tolees-21) a 8.5 EUR (original: 15.95 EUR) (46.71 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017EJE16I/?tag=tolees-21'
 descuento: '35.18'
+average: '18.15'
 ---
 
 Tienes [Calvin Klein  Tanga para Mujer  Negro  Black 001   M  pack de 2](https://www.amazon.es/dp/B017EJE16I/?tag=tolees-21) con un 35.18 % de descuento con precio de oferta de 18.15 EUR (original: 28 EUR) en el siguiente enlace!

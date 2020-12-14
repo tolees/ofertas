@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01ERPE3V0/?tag=tolees-21'
 descuento: '45.76'
+average: '18.99'
 ---
 
 Está [Joma - Chandal Poly. Terra Blanco-Rojo-Marino Woman para Mujer](https://www.amazon.es/dp/B01ERPE3V0/?tag=tolees-21) con 45.76 de descuento por 18.99 EUR (original: 35.01 EUR) en el siguiente enlace!

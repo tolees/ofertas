@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D4TFYNC/?tag=tolees-21'
 descuento: '60.06'
+average: '19.95'
 ---
 
 Ahora mismo tienes [Kappa Icon  Zapatillas para Mujer  Blanco  Offwhite/Ice 4365   39 EU](https://www.amazon.es/dp/B07D4TFYNC/?tag=tolees-21) a 19.95 EUR (original: 49.95 EUR) (60.06 %  de descuento) en el siguiente enlace!

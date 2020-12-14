@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01G91NGR2/?tag=tolees-21'
 descuento: '51.26'
+average: '12.18'
 ---
 
 Está [Bound by Loving Joy Nubuck Mordaza de Bola  de Cuero  Color Marrón - 1 Unidad](https://www.amazon.es/dp/B01G91NGR2/?tag=tolees-21) con 51.26 de descuento por 12.18 EUR (original: 24.99 EUR) en el siguiente enlace!

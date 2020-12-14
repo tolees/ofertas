@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F9SLP36/?tag=tolees-21'
 descuento: '49.30'
+average: '26.99'
 ---
 
 Está [Lexar Jds75256Aeamzn Memoria Usb 3.0  256 Gb  Blanco](https://www.amazon.es/dp/B07F9SLP36/?tag=tolees-21) con 49.30 de descuento por 26.99 EUR (original: 53.23 EUR) en el siguiente enlace!

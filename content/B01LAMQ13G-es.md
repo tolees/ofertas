@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LAMQ13G/?tag=tolees-21'
 descuento: '43.16'
+average: '8.52'
 ---
 
 Ahora mismo tienes [POP! Vinilo - Disney: Moana: Moana & Pua](https://www.amazon.es/dp/B01LAMQ13G/?tag=tolees-21) a 8.52 EUR (original: 14.99 EUR) (43.16 %  de descuento) en el siguiente enlace!

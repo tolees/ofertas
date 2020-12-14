@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00SMD1AOM/?tag=tolees-21'
 descuento: '34.87'
+average: '15'
 ---
 
 Está [Fiskars Rastrillo con dientes curvados  14 dientes  Longitud: 36 cm  Negro/Naranja  Solid  1016036](https://www.amazon.es/dp/B00SMD1AOM/?tag=tolees-21) con 34.87 de descuento por 15 EUR (original: 23.03 EUR) en el siguiente enlace!

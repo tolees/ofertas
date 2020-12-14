@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00DCUBJ50/?tag=tolees-21'
 descuento: '28.21'
+average: '27.99'
 ---
 
 Ahora mismo tienes [Todeco - Barra de Barbilla  Barra de Tracción de Fitness - Material: Espuma de alta densidad - Carga máxima: 135 kg - Montaje en pared](https://www.amazon.es/dp/B00DCUBJ50/?tag=tolees-21) a 27.99 EUR (original: 38.99 EUR) (28.21 %  de descuento) en el siguiente enlace!

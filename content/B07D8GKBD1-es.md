@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D8GKBD1/?tag=tolees-21'
 descuento: '27.86'
+average: '259'
 ---
 
 Está [Medion Akoya E2221T - Ordenador portátil de 11.6" FHD  Intel Atom x5-Z8350  4 GB RAM  128 GB eMMC  Intel HD Graphics  Windows 10  Negro - Teclado QWERTY Español](https://www.amazon.es/dp/B07D8GKBD1/?tag=tolees-21) con 27.86 de descuento por 259 EUR (original: 359 EUR) en el siguiente enlace!

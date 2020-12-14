@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0747RYW5L/?tag=tolees-21'
 descuento: '60.03'
+average: '7.99'
 ---
 
 Ahora mismo tienes [Kimfoxes - Prismáticos compactos  super claros  lente verde  zoom 8 x 21  para observación de aves  caza  acampada  conciertos y otras actividades al aire libre.](https://www.amazon.es/dp/B0747RYW5L/?tag=tolees-21) a 7.99 EUR (original: 19.99 EUR) (60.03 %  de descuento) en el siguiente enlace!

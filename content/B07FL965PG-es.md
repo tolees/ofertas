@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FL965PG/?tag=tolees-21'
 descuento: '70.14'
+average: '28.37'
 ---
 
 Tienes [Superdry Custom 1334 Hood  suéter para Hombre  Gris  Biker Grey Grit Vn5  Medium](https://www.amazon.es/dp/B07FL965PG/?tag=tolees-21) con un 70.14 % de descuento con precio de oferta de 28.37 EUR (original: 95 EUR) en el siguiente enlace!

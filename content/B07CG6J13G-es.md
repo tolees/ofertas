@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CG6J13G/?tag=tolees-21'
 descuento: '28.66'
+average: '9.98'
 ---
 
 Ahora mismo tienes [cfmour Cubo de Mágico  3x3x3 Fibra de Carbono](https://www.amazon.es/dp/B07CG6J13G/?tag=tolees-21) a 9.98 EUR (original: 13.99 EUR) (28.66 %  de descuento) en el siguiente enlace!

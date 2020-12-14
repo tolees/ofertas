@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D98YJ2S/?tag=tolees-21'
 descuento: '66.81'
+average: '19.9'
 ---
 
 Ahora mismo tienes [XTI 48572  Botas Biker para Mujer  Negro  Black   37 EU](https://www.amazon.es/dp/B07D98YJ2S/?tag=tolees-21) a 19.9 EUR (original: 59.95 EUR) (66.81 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078SZLZNS/?tag=tolees-21'
 descuento: '43.08'
+average: '153.11'
 ---
 
 Tienes [Seiko Reloj Analogico para Hombre de Automático con Correa en Acero Inoxidable SRPB87K1](https://www.amazon.es/dp/B078SZLZNS/?tag=tolees-21) con un 43.08 % de descuento con precio de oferta de 153.11 EUR (original: 269 EUR) en el siguiente enlace!

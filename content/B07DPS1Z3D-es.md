@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DPS1Z3D/?tag=tolees-21'
 descuento: '55.93'
+average: '15.42'
 ---
 
 Ahora mismo tienes [Under Armour Performance Polo Novelty  Niños  Blanco  White/Mod Pitch Gray 102   L](https://www.amazon.es/dp/B07DPS1Z3D/?tag=tolees-21) a 15.42 EUR (original: 34.99 EUR) (55.93 %  de descuento) en el siguiente enlace!

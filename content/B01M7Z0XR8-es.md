@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M7Z0XR8/?tag=tolees-21'
 descuento: '41.53'
+average: '58.47'
 ---
 
 Está [Vans UA ISO 2  Zapatillas para Hombre  Hueso  Prime   40.5 EU](https://www.amazon.es/dp/B01M7Z0XR8/?tag=tolees-21) con 41.53 de descuento por 58.47 EUR (original: 100 EUR) en el siguiente enlace!

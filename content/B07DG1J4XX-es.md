@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DG1J4XX/?tag=tolees-21'
 descuento: '48.31'
+average: '25.82'
 ---
 
 Tienes [XTI 85988  Shopper para Mujer  Marrón  Camel   40 x 39 x 16 cm](https://www.amazon.es/dp/B07DG1J4XX/?tag=tolees-21) con un 48.31 % de descuento con precio de oferta de 25.82 EUR (original: 49.95 EUR) en el siguiente enlace!

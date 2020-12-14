@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KA79IIM/?tag=tolees-21'
 descuento: '31.53'
+average: '47.93'
 ---
 
 Ahora mismo tienes [Odlo Evolution Pantalones Térmicos  Mujer  Negro/Gris  Graphite Grey   XS](https://www.amazon.es/dp/B01KA79IIM/?tag=tolees-21) a 47.93 EUR (original: 70 EUR) (31.53 %  de descuento) en el siguiente enlace!

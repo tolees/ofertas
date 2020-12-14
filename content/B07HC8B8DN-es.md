@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HC8B8DN/?tag=tolees-21'
 descuento: '53.34'
+average: '27.99'
 ---
 
 Ahora mismo tienes [Pulsera de Actividad Inteligente con Pulsómetro Podómetro Calorie Monitoreo del sueño IP67 Impermeable Reloj Deportivo Compatible con Android y iOS](https://www.amazon.es/dp/B07HC8B8DN/?tag=tolees-21) a 27.99 EUR (original: 59.99 EUR) (53.34 %  de descuento) en el siguiente enlace!

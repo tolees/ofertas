@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BGX9CQB/?tag=tolees-21'
 descuento: '61.55'
+average: '14.99'
 ---
 
 Está [FITTOO Mallas Leggings Mujer Yoga de Alta Cintura Elásticos y Transpirables para Yoga Running Fitness36k #6 Negro Large](https://www.amazon.es/dp/B07BGX9CQB/?tag=tolees-21) con 61.55 de descuento por 14.99 EUR (original: 38.99 EUR) en el siguiente enlace!

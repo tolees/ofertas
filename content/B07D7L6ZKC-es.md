@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D7L6ZKC/?tag=tolees-21'
 descuento: '35.00'
+average: '129.99'
 ---
 
 Ahora mismo tienes [INLIFE Robot Aspirador Robot Programable con Bloqueador Virtual Sensor de Obstáculo y Anticaída 4 Modos de limpienza Bloqueador Virtual de Modo Dual Silensioso](https://www.amazon.es/dp/B07D7L6ZKC/?tag=tolees-21) a 129.99 EUR (original: 199.99 EUR) (35.00 %  de descuento) en el siguiente enlace!

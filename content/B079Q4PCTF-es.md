@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079Q4PCTF/?tag=tolees-21'
 descuento: '51.68'
+average: '72.48'
 ---
 
 Ahora mismo tienes [Pepe Jeans London Tom-Cut Med Boot  Botas Clasicas para Hombre  Marrón  Stag 884   42 EU](https://www.amazon.es/dp/B079Q4PCTF/?tag=tolees-21) a 72.48 EUR (original: 150 EUR) (51.68 %  de descuento) en el siguiente enlace!

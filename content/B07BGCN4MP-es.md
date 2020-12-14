@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BGCN4MP/?tag=tolees-21'
 descuento: '30.02'
+average: '45.45'
 ---
 
 Ahora mismo tienes [Clarks Comet Rock  Botas Clasicas para Niños  Marrón  Tan Leather   20 EU](https://www.amazon.es/dp/B07BGCN4MP/?tag=tolees-21) a 45.45 EUR (original: 64.95 EUR) (30.02 %  de descuento) en el siguiente enlace!

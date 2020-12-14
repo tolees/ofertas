@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C31D6RV/?tag=tolees-21'
 descuento: '54.86'
+average: '13.99'
 ---
 
 Ahora mismo tienes [AGM Velas Electrónicas](https://www.amazon.es/dp/B07C31D6RV/?tag=tolees-21) a 13.99 EUR (original: 30.99 EUR) (54.86 %  de descuento) en el siguiente enlace!

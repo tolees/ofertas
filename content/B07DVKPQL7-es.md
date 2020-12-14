@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DVKPQL7/?tag=tolees-21'
 descuento: '33.33'
+average: '60'
 ---
 
 Ahora mismo tienes [New Balance 997H  Entrenadores para Hombre  Azul Pigment  44 EU](https://www.amazon.es/dp/B07DVKPQL7/?tag=tolees-21) a 60 EUR (original: 90 EUR) (33.33 %  de descuento) en el siguiente enlace!

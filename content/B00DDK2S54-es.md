@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00DDK2S54/?tag=tolees-21'
 descuento: '72.19'
+average: '6.95'
 ---
 
 Ahora mismo tienes [Case Logic TS113 - Funda tipo sleeve para portátil de  30 cm  13"  nylon   color negro](https://www.amazon.es/dp/B00DDK2S54/?tag=tolees-21) a 6.95 EUR (original: 24.99 EUR) (72.19 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01E77SETK/?tag=tolees-21'
 descuento: '56.34'
+average: '13.95'
 ---
 
 Tienes [DANISH ENDURANCE Calentadores de Pantorrilla de Compresión Graduada  Blanco  Medium ](https://www.amazon.es/dp/B01E77SETK/?tag=tolees-21) con un 56.34 % de descuento con precio de oferta de 13.95 EUR (original: 31.95 EUR) en el siguiente enlace!

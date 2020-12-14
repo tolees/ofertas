@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C53XRYV/?tag=tolees-21'
 descuento: '35.85'
+average: '263'
 ---
 
 Tienes [Netgear GS728TP-200EUS - Switch Smart Managed Pro GS728TPv2  ProSAFE de 24 Puertos Gigabit PoE+ Ethernet con 4 Puertos SFP y gasto PoE de 190 W   Color Negro](https://www.amazon.es/dp/B07C53XRYV/?tag=tolees-21) con un 35.85 % de descuento con precio de oferta de 263 EUR (original: 409.99 EUR) en el siguiente enlace!

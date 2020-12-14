@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GSOCCFM/?tag=tolees-21'
 descuento: '62.54'
+average: '29.97'
 ---
 
 Está [Under Armour UA W Micro G Press TR  Zapatillas de Deporte Exterior para Mujer  Gris  Rhino Gray 076   36.5 EU](https://www.amazon.es/dp/B01GSOCCFM/?tag=tolees-21) con 62.54 de descuento por 29.97 EUR (original: 80 EUR) en el siguiente enlace!

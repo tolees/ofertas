@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071HVKGTL/?tag=tolees-21'
 descuento: '74.31'
+average: '20.55'
 ---
 
 Ahora mismo tienes [MTNG Elsa  Botas Mujer  Marrón  Suede Chocolate   39 EU](https://www.amazon.es/dp/B071HVKGTL/?tag=tolees-21) a 20.55 EUR (original: 79.99 EUR) (74.31 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079TC4M7K/?tag=tolees-21'
 descuento: '25.15'
+average: '44.9'
 ---
 
 Tienes [Russell Hobbs 25081-56 - Tostadora Bubble 2S de acero inoxidable con detalles en rosa pastel](https://www.amazon.es/dp/B079TC4M7K/?tag=tolees-21) con un 25.15 % de descuento con precio de oferta de 44.9 EUR (original: 59.99 EUR) en el siguiente enlace!

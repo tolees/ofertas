@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0053CALGS/?tag=tolees-21'
 descuento: '34.75'
+average: '5.99'
 ---
 
 Ahora mismo tienes [Punisher 2. Zona de guerra [DVD]](https://www.amazon.es/dp/B0053CALGS/?tag=tolees-21) a 5.99 EUR (original: 9.18 EUR) (34.75 %  de descuento) en el siguiente enlace!

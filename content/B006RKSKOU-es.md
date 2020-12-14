@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B006RKSKOU/?tag=tolees-21'
 descuento: '73.46'
+average: '4.13'
 ---
 
 Tienes [YATO YT-0691 - lata de aceite con 270 ml aplicador flexibles](https://www.amazon.es/dp/B006RKSKOU/?tag=tolees-21) con un 73.46 % de descuento con precio de oferta de 4.13 EUR (original: 15.56 EUR) en el siguiente enlace!

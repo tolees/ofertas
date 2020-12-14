@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GNH4JRS/?tag=tolees-21'
 descuento: '75.27'
+average: '9.89'
 ---
 
 Ahora mismo tienes [JACK & JONES Jcocraft Knit Crew Neck suéter  Azul  XX-Large  Talla del Fabricante: : para Hombre](https://www.amazon.es/dp/B07GNH4JRS/?tag=tolees-21) a 9.89 EUR (original: 39.99 EUR) (75.27 %  de descuento) en el siguiente enlace!

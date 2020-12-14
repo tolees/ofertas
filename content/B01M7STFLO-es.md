@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M7STFLO/?tag=tolees-21'
 descuento: '59.84'
+average: '48.17'
 ---
 
 Ahora mismo tienes [G-STAR Revend Super Slim  Jeans Hombre  Azul  Medium Aged Antic   W36/L34  Talla del fabricante: 36/34 ](https://www.amazon.es/dp/B01M7STFLO/?tag=tolees-21) a 48.17 EUR (original: 119.95 EUR) (59.84 %  de descuento) en el siguiente enlace!

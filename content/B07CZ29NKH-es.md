@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ29NKH/?tag=tolees-21'
 descuento: '41.30'
+average: '41.06'
 ---
 
 Tienes [Salomon XA Pro 3D CSWP K  Zapatillas Unisex Infantil  Rojo  Cherry Tomato/Navy Blazer/Fjord Blue   29 EU](https://www.amazon.es/dp/B07CZ29NKH/?tag=tolees-21) con un 41.30 % de descuento con precio de oferta de 41.06 EUR (original: 69.95 EUR) en el siguiente enlace!

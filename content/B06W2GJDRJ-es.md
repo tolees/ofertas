@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06W2GJDRJ/?tag=tolees-21'
 descuento: '34.86'
+average: '139.98'
 ---
 
 Ahora mismo tienes [Corsair HX1200 - Fuente de Alimentación  Completamente Modular  80 Plus Platinum  1200 Watt  EU ](https://www.amazon.es/dp/B06W2GJDRJ/?tag=tolees-21) a 139.98 EUR (original: 214.9 EUR) (34.86 %  de descuento) en el siguiente enlace!

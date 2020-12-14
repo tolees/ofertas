@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073GQVZLM/?tag=tolees-21'
 descuento: '74.55'
+average: '12.72'
 ---
 
 Está [Esprit 097ee1i004 suéter   Dusty Green 335   Small para Mujer](https://www.amazon.es/dp/B073GQVZLM/?tag=tolees-21) con 74.55 de descuento por 12.72 EUR (original: 49.99 EUR) en el siguiente enlace!

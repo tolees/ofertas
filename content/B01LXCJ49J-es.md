@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LXCJ49J/?tag=tolees-21'
 descuento: '54.59'
+average: '90.37'
 ---
 
 Ahora mismo tienes [LELO El Delito Set de Regalo Sexi para Mujer.](https://www.amazon.es/dp/B01LXCJ49J/?tag=tolees-21) a 90.37 EUR (original: 199 EUR) (54.59 %  de descuento) en el siguiente enlace!

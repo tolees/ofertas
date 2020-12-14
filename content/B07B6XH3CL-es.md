@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B6XH3CL/?tag=tolees-21'
 descuento: '66.48'
+average: '30.17'
 ---
 
 Está [New Balance Nitrel v2  Zapatillas de Running para Asfalto para Mujer  Azul  Ocean Air/Thunder/Limeade Lo2   36.5 EU](https://www.amazon.es/dp/B07B6XH3CL/?tag=tolees-21) con 66.48 de descuento por 30.17 EUR (original: 90 EUR) en el siguiente enlace!

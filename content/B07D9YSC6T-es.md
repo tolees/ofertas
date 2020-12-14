@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9YSC6T/?tag=tolees-21'
 descuento: '35.04'
+average: '25.95'
 ---
 
 Está [Puma One 4 Syn FG Jr  Zapatillas de Fútbol Unisex Niños  Azul  Sodalite Blue Silver-Peacoat 03   37.5 EU](https://www.amazon.es/dp/B07D9YSC6T/?tag=tolees-21) con 35.04 de descuento por 25.95 EUR (original: 39.95 EUR) en el siguiente enlace!

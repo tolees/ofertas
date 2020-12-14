@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M8KWV9L/?tag=tolees-21'
 descuento: '39.05'
+average: '36.57'
 ---
 
 Tienes [Under Armour Run True Heatgear Tight Leggings  Hombre  Negro  001   XL](https://www.amazon.es/dp/B01M8KWV9L/?tag=tolees-21) con un 39.05 % de descuento con precio de oferta de 36.57 EUR (original: 60 EUR) en el siguiente enlace!

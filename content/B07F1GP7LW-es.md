@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F1GP7LW/?tag=tolees-21'
 descuento: '72.08'
+average: '19.53'
 ---
 
 Tienes [Mustang High Top Sneaker  Zapatillas Altas para Hombre  Gris  Stein 200   44 EU](https://www.amazon.es/dp/B07F1GP7LW/?tag=tolees-21) con un 72.08 % de descuento con precio de oferta de 19.53 EUR (original: 69.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B006GWZT20/?tag=tolees-21'
 descuento: '74.51'
+average: '12.73'
 ---
 
 Ahora mismo tienes [Ultrasport Fahrradhose Pantalones  Hombre  Negro/Gris  L](https://www.amazon.es/dp/B006GWZT20/?tag=tolees-21) a 12.73 EUR (original: 49.95 EUR) (74.51 %  de descuento) en el siguiente enlace!

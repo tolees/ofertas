@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N7MAAWF/?tag=tolees-21'
 descuento: '47.81'
+average: '129.95'
 ---
 
 Ahora mismo tienes [Nest T3010IT Termostato  Acero](https://www.amazon.es/dp/B01N7MAAWF/?tag=tolees-21) a 129.95 EUR (original: 249 EUR) (47.81 %  de descuento) en el siguiente enlace!

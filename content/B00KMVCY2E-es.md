@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00KMVCY2E/?tag=tolees-21'
 descuento: '41.95'
+average: '21.78'
 ---
 
 Ahora mismo tienes [AEG Voxtel M320 - Móvil libre con pantalla de 1.8" y teclas grandes - Negro](https://www.amazon.es/dp/B00KMVCY2E/?tag=tolees-21) a 21.78 EUR (original: 37.52 EUR) (41.95 %  de descuento) en el siguiente enlace!

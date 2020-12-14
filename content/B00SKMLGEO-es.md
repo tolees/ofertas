@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00SKMLGEO/?tag=tolees-21'
 descuento: '86.81'
+average: '6.59'
 ---
 
 Tienes [DKNY Intimates Modern Lights-Mesh Litewe DK1003 Sujetador  Beige  Skinny Dip B7w   75B EU para Mujer](https://www.amazon.es/dp/B00SKMLGEO/?tag=tolees-21) con un 86.81 % de descuento con precio de oferta de 6.59 EUR (original: 49.95 EUR) en el siguiente enlace!

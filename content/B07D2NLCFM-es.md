@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D2NLCFM/?tag=tolees-21'
 descuento: '78.34'
+average: '21.65'
 ---
 
 Tienes [Reebok Cl Lthr  Zapatillas para Mujer  Morado  Enhanced-Lush Earth/Chalk 0   35.5 EU](https://www.amazon.es/dp/B07D2NLCFM/?tag=tolees-21) con un 78.34 % de descuento con precio de oferta de 21.65 EUR (original: 99.95 EUR) en el siguiente enlace!

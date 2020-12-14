@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06ZYTGJ7L/?tag=tolees-21'
 descuento: '40.40'
+average: '15.99'
 ---
 
 Está [Jocel JVP030610 Ventilador de Pie  45 W  Plástico  3 Velocidades  Blanco](https://www.amazon.es/dp/B06ZYTGJ7L/?tag=tolees-21) con 40.40 de descuento por 15.99 EUR (original: 26.83 EUR) en el siguiente enlace!

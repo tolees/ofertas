@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0041IM7VM/?tag=tolees-21'
 descuento: '62.67'
+average: '5.6'
 ---
 
 Tienes [Jell-O  Gragea de jalea  Fresa  - 6 de 85 gr.  Total 510 gr. ](https://www.amazon.es/dp/B0041IM7VM/?tag=tolees-21) con un 62.67 % de descuento con precio de oferta de 5.6 EUR (original: 15 EUR) en el siguiente enlace!

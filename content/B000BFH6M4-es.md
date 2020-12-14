@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000BFH6M4/?tag=tolees-21'
 descuento: '40.62'
+average: '52.99'
 ---
 
 Está [Kärcher Kit PC 75 para limpieza de tuberías  2.637-729.0 ](https://www.amazon.es/dp/B000BFH6M4/?tag=tolees-21) con 40.62 de descuento por 52.99 EUR (original: 89.24 EUR) en el siguiente enlace!

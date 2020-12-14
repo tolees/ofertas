@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MA26RKI/?tag=tolees-21'
 descuento: '61.05'
+average: '11.68'
 ---
 
 Tienes [Asmodee- Baaaaa! - Español  Color  BAA01ML ](https://www.amazon.es/dp/B01MA26RKI/?tag=tolees-21) con un 61.05 % de descuento con precio de oferta de 11.68 EUR (original: 29.99 EUR) en el siguiente enlace!

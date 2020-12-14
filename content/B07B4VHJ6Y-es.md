@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B4VHJ6Y/?tag=tolees-21'
 descuento: '47.94'
+average: '10.1'
 ---
 
 Ahora mismo tienes [oodji Ultra Hombre Suéter con Estampado Floral  Azul  ES 46-48 / S](https://www.amazon.es/dp/B07B4VHJ6Y/?tag=tolees-21) a 10.1 EUR (original: 19.4 EUR) (47.94 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GCCH7RI/?tag=tolees-21'
 descuento: '58.22'
+average: '30.99'
 ---
 
 Ahora mismo tienes [Pluma de escritura antigua y en buen estado  de cobre y con punta de metal PA-14](https://www.amazon.es/dp/B01GCCH7RI/?tag=tolees-21) a 30.99 EUR (original: 74.17 EUR) (58.22 %  de descuento) en el siguiente enlace!

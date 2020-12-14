@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FSKBB6N/?tag=tolees-21'
 descuento: '34.97'
+average: '58.53'
 ---
 
 Está [Armani Exchange - Round-zip Wallet  Carteras Mujer  Plateado  Argento   10.1x2.5x19.0 cm  B x H T ](https://www.amazon.es/dp/B07FSKBB6N/?tag=tolees-21) con 34.97 de descuento por 58.53 EUR (original: 90 EUR) en el siguiente enlace!

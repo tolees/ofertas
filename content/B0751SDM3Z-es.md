@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0751SDM3Z/?tag=tolees-21'
 descuento: '62.73'
+average: '31.68'
 ---
 
 Está [New Balance Fresh Foam Arishi Sport  Zapatillas de Running para Hombre  Gris Grey  47.5 EU](https://www.amazon.es/dp/B0751SDM3Z/?tag=tolees-21) con 62.73 de descuento por 31.68 EUR (original: 85 EUR) en el siguiente enlace!

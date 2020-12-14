@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IU7W4NQ/?tag=tolees-21'
 descuento: '42.54'
+average: '33.9'
 ---
 
 Ahora mismo tienes [TP-Link Archer C2 - Router Gigabit inalámbrico de doble banda  1200 Mbps  2.4 GHz a 300 Mbps y 5 GHz a 433 Mbps  Gigabit puerto  2 antenas externas de doble banda  blanco](https://www.amazon.es/dp/B00IU7W4NQ/?tag=tolees-21) a 33.9 EUR (original: 59 EUR) (42.54 %  de descuento) en el siguiente enlace!

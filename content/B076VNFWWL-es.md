@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076VNFWWL/?tag=tolees-21'
 descuento: '63.41'
+average: '9.56'
 ---
 
 Está [Rasch – Papel pintado vinilo sobre papel  hojas  Textile estructura  color blanco  beige  Palace 2018  516906](https://www.amazon.es/dp/B076VNFWWL/?tag=tolees-21) con 63.41 de descuento por 9.56 EUR (original: 26.13 EUR) en el siguiente enlace!

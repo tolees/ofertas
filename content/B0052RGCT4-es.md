@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0052RGCT4/?tag=tolees-21'
 descuento: '44.50'
+average: '87.08'
 ---
 
 Ahora mismo tienes [Faro Barcelona Ibiza 33287 - Ventilador sin luz  acero y palas madera plywood](https://www.amazon.es/dp/B0052RGCT4/?tag=tolees-21) a 87.08 EUR (original: 156.91 EUR) (44.50 %  de descuento) en el siguiente enlace!

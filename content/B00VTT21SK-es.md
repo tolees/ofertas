@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00VTT21SK/?tag=tolees-21'
 descuento: '75.89'
+average: '20.25'
 ---
 
 Tienes [ISABELLA ROMA Canotta  Top para Mujer  Crema M](https://www.amazon.es/dp/B00VTT21SK/?tag=tolees-21) con un 75.89 % de descuento con precio de oferta de 20.25 EUR (original: 84 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CJRGB97/?tag=tolees-21'
 descuento: '58.27'
+average: '26.99'
 ---
 
 Ahora mismo tienes [Auriculares Diadema Bluetooth Inalambricos  30hrs de Duración de la Batería  Hi-Fi Sonido Estéreo con Conexión a Bluetooth Inalámbrico y Audio Cable con Micrófono para Movil  PC  Tablet negro](https://www.amazon.es/dp/B07CJRGB97/?tag=tolees-21) a 26.99 EUR (original: 64.68 EUR) (58.27 %  de descuento) en el siguiente enlace!

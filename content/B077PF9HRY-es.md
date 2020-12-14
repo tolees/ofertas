@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077PF9HRY/?tag=tolees-21'
 descuento: '73.85'
+average: '23.52'
 ---
 
 Ahora mismo tienes [Puma Suede Classic Badge Flip  em  Zapatillas Unisex Adulto  Beige  Muted Clay Black   37 EU](https://www.amazon.es/dp/B077PF9HRY/?tag=tolees-21) a 23.52 EUR (original: 89.95 EUR) (73.85 %  de descuento) en el siguiente enlace!

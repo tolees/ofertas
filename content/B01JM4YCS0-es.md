@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01JM4YCS0/?tag=tolees-21'
 descuento: '56.18'
+average: '10.42'
 ---
 
 Ahora mismo tienes [SULOV Snow Bob Olympic plástico Infantil  Color púrpura  43 x 81.5 x 16.5 cm  6](https://www.amazon.es/dp/B01JM4YCS0/?tag=tolees-21) a 10.42 EUR (original: 23.78 EUR) (56.18 %  de descuento) en el siguiente enlace!

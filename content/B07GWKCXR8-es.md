@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GWKCXR8/?tag=tolees-21'
 descuento: '39.01'
+average: '39.58'
 ---
 
 Tienes [Kipling - Duo Offer Ii  Bolsos bandolera Mujer  Morado  Blue Purple   10x18x24.5 cm  B x H T ](https://www.amazon.es/dp/B07GWKCXR8/?tag=tolees-21) con un 39.01 % de descuento con precio de oferta de 39.58 EUR (original: 64.9 EUR) en el siguiente enlace!

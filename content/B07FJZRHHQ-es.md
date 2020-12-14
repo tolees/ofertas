@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FJZRHHQ/?tag=tolees-21'
 descuento: '65.66'
+average: '20.22'
 ---
 
 Está [Reebok 3D Fusion TR  Zapatillas de Deporte para Hombre   Black/White/Pewter 000   38.5 EU](https://www.amazon.es/dp/B07FJZRHHQ/?tag=tolees-21) con 65.66 de descuento por 20.22 EUR (original: 58.88 EUR) en el siguiente enlace!

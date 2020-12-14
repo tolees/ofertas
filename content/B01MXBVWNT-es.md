@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MXBVWNT/?tag=tolees-21'
 descuento: '41.63'
+average: '8.75'
 ---
 
 Está [Funko- Blue Ranger Figura de Vinilo  12345 ](https://www.amazon.es/dp/B01MXBVWNT/?tag=tolees-21) con 41.63 de descuento por 8.75 EUR (original: 14.99 EUR) en el siguiente enlace!

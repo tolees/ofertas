@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CXZ631Q/?tag=tolees-21'
 descuento: '50.44'
+average: '61.95'
 ---
 
 Ahora mismo tienes [Nike Wmns Air Huarache Run PRM  Zapatillas para Mujer  Naranja Terra Blush-Particle Beige 203  36.5 EU](https://www.amazon.es/dp/B07CXZ631Q/?tag=tolees-21) a 61.95 EUR (original: 125 EUR) (50.44 %  de descuento) en el siguiente enlace!

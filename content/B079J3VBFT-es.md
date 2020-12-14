@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079J3VBFT/?tag=tolees-21'
 descuento: '40.08'
+average: '35.95'
 ---
 
 Está [Asics Patriot 10  Zapatillas de Running para Mujer  Negro  Black/White 002   42 EU](https://www.amazon.es/dp/B079J3VBFT/?tag=tolees-21) con 40.08 de descuento por 35.95 EUR (original: 60 EUR) en el siguiente enlace!

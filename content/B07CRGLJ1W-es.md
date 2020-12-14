@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CRGLJ1W/?tag=tolees-21'
 descuento: '57.97'
+average: '42.01'
 ---
 
 Ahora mismo tienes [Puma Defy Wn s  Zapatillas de Deporte para Mujer  Blanco White Black  37 EU](https://www.amazon.es/dp/B07CRGLJ1W/?tag=tolees-21) a 42.01 EUR (original: 99.95 EUR) (57.97 %  de descuento) en el siguiente enlace!

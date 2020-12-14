@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CVCFW8G/?tag=tolees-21'
 descuento: '64.16'
+average: '32.26'
 ---
 
 Tienes [Under Armour Showstopper 2.0  Zapatillas Deportivas para Interior para Hombre  Negro Pitch Gray/Black 005  44 EU](https://www.amazon.es/dp/B07CVCFW8G/?tag=tolees-21) con un 64.16 % de descuento con precio de oferta de 32.26 EUR (original: 90 EUR) en el siguiente enlace!

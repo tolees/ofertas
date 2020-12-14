@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B015KKQ85U/?tag=tolees-21'
 descuento: '53.38'
+average: '27.95'
 ---
 
 Está [Kappa Speed II  Zapatillas Unisex Adulto  Azul  6710 Navy/White   40 EU](https://www.amazon.es/dp/B015KKQ85U/?tag=tolees-21) con 53.38 de descuento por 27.95 EUR (original: 59.95 EUR) en el siguiente enlace!

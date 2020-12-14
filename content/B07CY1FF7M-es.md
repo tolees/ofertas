@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CY1FF7M/?tag=tolees-21'
 descuento: '49.50'
+average: '60.57'
 ---
 
 Tienes [Salomon X Radiant GTX W  Zapatillas de Senderismo para Mujer  Gris  Graphite/Magnet/Trellis   36 EU](https://www.amazon.es/dp/B07CY1FF7M/?tag=tolees-21) con un 49.50 % de descuento con precio de oferta de 60.57 EUR (original: 119.95 EUR) en el siguiente enlace!

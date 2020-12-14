@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N6EUAU6/?tag=tolees-21'
 descuento: '66.39'
+average: '66.88'
 ---
 
 Está [Jacob Jensen Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Caucho New Series NO. 739](https://www.amazon.es/dp/B01N6EUAU6/?tag=tolees-21) con 66.39 de descuento por 66.88 EUR (original: 199 EUR) en el siguiente enlace!

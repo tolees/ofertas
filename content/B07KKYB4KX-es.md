@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KKYB4KX/?tag=tolees-21'
 descuento: '43.87'
+average: '33.68'
 ---
 
 Ahora mismo tienes [Burton Vista Sudaderas  Hombre  Gray Heather  XS](https://www.amazon.es/dp/B07KKYB4KX/?tag=tolees-21) a 33.68 EUR (original: 60 EUR) (43.87 %  de descuento) en el siguiente enlace!

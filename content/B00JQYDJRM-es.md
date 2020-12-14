@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00JQYDJRM/?tag=tolees-21'
 descuento: '59.08'
+average: '2.59'
 ---
 
 Tienes [MAPED FORBICE UNIVERSAL CM 18 ASIM](https://www.amazon.es/dp/B00JQYDJRM/?tag=tolees-21) con un 59.08 % de descuento con precio de oferta de 2.59 EUR (original: 6.33 EUR) en el siguiente enlace!

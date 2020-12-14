@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XB1BJPS/?tag=tolees-21'
 descuento: '27.16'
+average: '509.15'
 ---
 
 Está [Philips Monitores 349X7FJEW/00 - Monitor de 34"  resolución 3440 x 1440 Pixels  tecnología WLED  Contraste 3000:1  4 ms  HDMI   Color Blanco](https://www.amazon.es/dp/B06XB1BJPS/?tag=tolees-21) con 27.16 de descuento por 509.15 EUR (original: 699 EUR) en el siguiente enlace!

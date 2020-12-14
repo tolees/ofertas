@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KMMW98X/?tag=tolees-21'
 descuento: '46.40'
+average: '24.65'
 ---
 
 Tienes [Roxy Feel Happy - Petate Deportivo Mediano para Mujer  Heritage Heather  1SZ](https://www.amazon.es/dp/B07KMMW98X/?tag=tolees-21) con un 46.40 % de descuento con precio de oferta de 24.65 EUR (original: 45.99 EUR) en el siguiente enlace!

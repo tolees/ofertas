@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GE2HI0C/?tag=tolees-21'
 descuento: '39.88'
+average: '15'
 ---
 
 Tienes [Atlético de Madrid- Futbolín  Proyectum Sport Team 10ATL-0000-1 ](https://www.amazon.es/dp/B01GE2HI0C/?tag=tolees-21) con un 39.88 % de descuento con precio de oferta de 15 EUR (original: 24.95 EUR) en el siguiente enlace!

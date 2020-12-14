@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCVXJYK/?tag=tolees-21'
 descuento: '72.12'
+average: '25.08'
 ---
 
 Está [Puma Suede Bow Wn s  Zapatillas para Mujer  Rosa Magenta Haze 03  38.5 EU](https://www.amazon.es/dp/B07DCVXJYK/?tag=tolees-21) con 72.12 de descuento por 25.08 EUR (original: 89.95 EUR) en el siguiente enlace!

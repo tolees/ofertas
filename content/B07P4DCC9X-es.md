@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07P4DCC9X/?tag=tolees-21'
 descuento: '46.16'
+average: '69.99'
 ---
 
 Ahora mismo tienes [Outsunny Juego de 2 Tumbonas y 1 Mesa Plegables Silla Gravedad Cero Tumbonas de Exteriores Relajante Respaldo Reclinable Textilene para Jardín Patio](https://www.amazon.es/dp/B07P4DCC9X/?tag=tolees-21) a 69.99 EUR (original: 129.99 EUR) (46.16 %  de descuento) en el siguiente enlace!

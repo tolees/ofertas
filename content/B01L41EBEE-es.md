@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01L41EBEE/?tag=tolees-21'
 descuento: '54.17'
+average: '14.62'
 ---
 
 Tienes [Havaianas Origine Iii  Alpargatas para Unisex Adulto  Verde  Green   36 EU  34 Brazilian ](https://www.amazon.es/dp/B01L41EBEE/?tag=tolees-21) con un 54.17 % de descuento con precio de oferta de 14.62 EUR (original: 31.9 EUR) en el siguiente enlace!

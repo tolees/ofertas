@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07599YRQW/?tag=tolees-21'
 descuento: '46.71'
+average: '8.5'
 ---
 
 Tienes [Funko Pop!- Disney Aladdin Figura de Vinilo  23044 ](https://www.amazon.es/dp/B07599YRQW/?tag=tolees-21) con un 46.71 % de descuento con precio de oferta de 8.5 EUR (original: 15.95 EUR) en el siguiente enlace!

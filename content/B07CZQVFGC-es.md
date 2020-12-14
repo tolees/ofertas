@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZQVFGC/?tag=tolees-21'
 descuento: '44.27'
+average: '19.5'
 ---
 
 Está [Under Armour UA HG Armour 3/4 Leg Nov Leggings  Hombre  Negro  Black/Pitch Gray 001   L](https://www.amazon.es/dp/B07CZQVFGC/?tag=tolees-21) con 44.27 de descuento por 19.5 EUR (original: 34.99 EUR) en el siguiente enlace!

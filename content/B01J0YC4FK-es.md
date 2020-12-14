@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01J0YC4FK/?tag=tolees-21'
 descuento: '25.18'
+average: '30.67'
 ---
 
 Ahora mismo tienes [Valkyrie Drive: Bhikkhuni](https://www.amazon.es/dp/B01J0YC4FK/?tag=tolees-21) a 30.67 EUR (original: 40.99 EUR) (25.18 %  de descuento) en el siguiente enlace!

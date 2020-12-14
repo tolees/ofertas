@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01J3NMQW4/?tag=tolees-21'
 descuento: '64.82'
+average: '3.69'
 ---
 
 Ahora mismo tienes [Zestaw przyborów szkolnych w puszce Star Wars](https://www.amazon.es/dp/B01J3NMQW4/?tag=tolees-21) a 3.69 EUR (original: 10.49 EUR) (64.82 %  de descuento) en el siguiente enlace!

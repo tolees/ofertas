@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00J200FOK/?tag=tolees-21'
 descuento: '45.99'
+average: '19.39'
 ---
 
 Ahora mismo tienes [AEG PW 5644 FA - Báscula de análisis corporal de 7 funciones  de cristal y acero inoxidable  color negro](https://www.amazon.es/dp/B00J200FOK/?tag=tolees-21) a 19.39 EUR (original: 35.9 EUR) (45.99 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071FV4RF4/?tag=tolees-21'
 descuento: '60.20'
+average: '47.74'
 ---
 
 Está [Adidas Swift Run PK W CG4134  Zapatillas de Running para Mujer  Rosa Icey Pink  41 1/3 EU](https://www.amazon.es/dp/B071FV4RF4/?tag=tolees-21) con 60.20 de descuento por 47.74 EUR (original: 119.95 EUR) en el siguiente enlace!

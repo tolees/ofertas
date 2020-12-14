@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00WS27PQA/?tag=tolees-21'
 descuento: '49.49'
+average: '6.97'
 ---
 
 Tienes [Metaltex Portabotellas  Metal  Gris Ice  0 cm](https://www.amazon.es/dp/B00WS27PQA/?tag=tolees-21) con un 49.49 % de descuento con precio de oferta de 6.97 EUR (original: 13.8 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FPZ1X46/?tag=tolees-21'
 descuento: '29.35'
+average: '11.89'
 ---
 
 Tienes [Real madrid cf Estuche portatodo Triple 3 Cremalleras Escolar.](https://www.amazon.es/dp/B07FPZ1X46/?tag=tolees-21) con un 29.35 % de descuento con precio de oferta de 11.89 EUR (original: 16.83 EUR) en el siguiente enlace!

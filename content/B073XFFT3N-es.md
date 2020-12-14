@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073XFFT3N/?tag=tolees-21'
 descuento: '34.14'
+average: '88.91'
 ---
 
 Está [Lacoste Reloj Análogo clásico para Mujer de Cuarzo con Correa en Cuero 2001005](https://www.amazon.es/dp/B073XFFT3N/?tag=tolees-21) con 34.14 de descuento por 88.91 EUR (original: 135 EUR) en el siguiente enlace!

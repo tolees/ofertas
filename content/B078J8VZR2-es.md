@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078J8VZR2/?tag=tolees-21'
 descuento: '47.24'
+average: '8.99'
 ---
 
 Está [Gricol Gancho brazos  Percha para abrigos  Adhesivo 3M  Pulido  Acero inoxidable SUS 304  Colgador con ventosa sin necesidad de taladro para baño y cocina  Organizador  Toallero](https://www.amazon.es/dp/B078J8VZR2/?tag=tolees-21) con 47.24 de descuento por 8.99 EUR (original: 17.04 EUR) en el siguiente enlace!

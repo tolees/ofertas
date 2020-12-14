@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MTWBKK2/?tag=tolees-21'
 descuento: '45.73'
+average: '30.99'
 ---
 
 Tienes [adidas Cosmic w  Zapatillas de Deporte para Mujer  Rosa  38 2/3 EU](https://www.amazon.es/dp/B01MTWBKK2/?tag=tolees-21) con un 45.73 % de descuento con precio de oferta de 30.99 EUR (original: 57.1 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005M6WFTQ/?tag=tolees-21'
 descuento: '60.45'
+average: '64.61'
 ---
 
 Ahora mismo tienes [Grohe Concetto - grifo de bidé  con vaciador automático  1/2"  Ref. 32208001](https://www.amazon.es/dp/B005M6WFTQ/?tag=tolees-21) a 64.61 EUR (original: 163.35 EUR) (60.45 %  de descuento) en el siguiente enlace!

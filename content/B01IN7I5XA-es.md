@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IN7I5XA/?tag=tolees-21'
 descuento: '70.55'
+average: '20.6'
 ---
 
 Está [Gioseppo Anaheim - Botas para Mujer  Color marrón  Talla 38](https://www.amazon.es/dp/B01IN7I5XA/?tag=tolees-21) con 70.55 de descuento por 20.6 EUR (original: 69.95 EUR) en el siguiente enlace!

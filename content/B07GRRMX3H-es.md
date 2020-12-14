@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GRRMX3H/?tag=tolees-21'
 descuento: '25.65'
+average: '28.99'
 ---
 
 Está [RIRGI Cortapelos Profesional Hombre  Cortapelos y Recortador 10 en 1 Cortador Pelos Nariz y Orejas con Soporte Recargable](https://www.amazon.es/dp/B07GRRMX3H/?tag=tolees-21) con 25.65 de descuento por 28.99 EUR (original: 38.99 EUR) en el siguiente enlace!

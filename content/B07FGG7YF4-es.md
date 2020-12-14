@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FGG7YF4/?tag=tolees-21'
 descuento: '99.96'
+average: '0.01'
 ---
 
 Tienes [Godagoda - Pulsera magnética con 2 potentes imanes para sujetar tornillos y herramientas  azul](https://www.amazon.es/dp/B07FGG7YF4/?tag=tolees-21) con un 99.96 % de descuento con precio de oferta de 0.01 EUR (original: 28.45 EUR) en el siguiente enlace!

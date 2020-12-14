@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073VFTHXC/?tag=tolees-21'
 descuento: '41.03'
+average: '199.9'
 ---
 
 Está [Samsung Galaxy J7 2017 - Smartphone Libre de 5.5" Full HD  4 G  Bluetooth  Octa-Core de 16 GHz  Memoria 16 GB  3 GB RAM  cámara de 13 MP  Android 7.0 versión española   Color Dorado](https://www.amazon.es/dp/B073VFTHXC/?tag=tolees-21) con 41.03 de descuento por 199.9 EUR (original: 339 EUR) en el siguiente enlace!

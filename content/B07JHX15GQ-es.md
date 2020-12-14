@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JHX15GQ/?tag=tolees-21'
 descuento: '68.44'
+average: '17.34'
 ---
 
 Está [PUMA Bold Graphic FullTight Mallas Deporte  Mujer  Black/Emboss  XL](https://www.amazon.es/dp/B07JHX15GQ/?tag=tolees-21) con 68.44 de descuento por 17.34 EUR (original: 54.95 EUR) en el siguiente enlace!

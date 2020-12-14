@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077MKFVKK/?tag=tolees-21'
 descuento: '63.99'
+average: '9'
 ---
 
 Ahora mismo tienes [Only Onltitania L/s Pullover CC Knt  suéter para Mujer   Cloud Dancer Stripes: W. Golden Glow   36  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B077MKFVKK/?tag=tolees-21) a 9 EUR (original: 24.99 EUR) (63.99 %  de descuento) en el siguiente enlace!

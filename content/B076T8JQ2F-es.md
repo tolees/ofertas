@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076T8JQ2F/?tag=tolees-21'
 descuento: '28.19'
+average: '35.9'
 ---
 
 Ahora mismo tienes [Skechers Status-Lerado  Mocasines para Hombre  Marrón  Brown   44 EU](https://www.amazon.es/dp/B076T8JQ2F/?tag=tolees-21) a 35.9 EUR (original: 49.99 EUR) (28.19 %  de descuento) en el siguiente enlace!

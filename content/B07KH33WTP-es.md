@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KH33WTP/?tag=tolees-21'
 descuento: '46.68'
+average: '23.99'
 ---
 
 Está [Under Armour Mk1 Terry Short Pantalones  Hombre  Marrón  Silt Brown/Black 221   M](https://www.amazon.es/dp/B07KH33WTP/?tag=tolees-21) con 46.68 de descuento por 23.99 EUR (original: 44.99 EUR) en el siguiente enlace!

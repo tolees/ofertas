@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CTLDDX9/?tag=tolees-21'
 descuento: '56.92'
+average: '28'
 ---
 
 Está [Under Armour Surge Se  Zapatillas de Running para Mujer  Morado  Purple Prime/White/Mojito Pink 500   39 EU](https://www.amazon.es/dp/B07CTLDDX9/?tag=tolees-21) con 56.92 de descuento por 28 EUR (original: 65 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JQP7XPW/?tag=tolees-21'
 descuento: '56.54'
+average: '11.2'
 ---
 
 Ahora mismo tienes [Amazon Essentials 2-Pack Long-Sleeve Active tee athletic-shirts  Charcoal Heather/Light Pink  XS](https://www.amazon.es/dp/B07JQP7XPW/?tag=tolees-21) a 11.2 EUR (original: 25.77 EUR) (56.54 %  de descuento) en el siguiente enlace!

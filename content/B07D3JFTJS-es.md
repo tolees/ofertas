@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D3JFTJS/?tag=tolees-21'
 descuento: '76.56'
+average: '7.68'
 ---
 
 Está [!Solid Sweat - Simon-Sudadera Hombre Grau  Grey Melange 8236 Grey Mel  XXL](https://www.amazon.es/dp/B07D3JFTJS/?tag=tolees-21) con 76.56 de descuento por 7.68 EUR (original: 32.77 EUR) en el siguiente enlace!

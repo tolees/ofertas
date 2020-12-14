@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BBQG6FR/?tag=tolees-21'
 descuento: '27.58'
+average: '80.82'
 ---
 
 Está [Corsair Vengeance 16 GB  DDR4  2666 MHz módulo de - Memoria  DDR4  2666 MHz  16 GB  1 x 16 GB  DDR4  2666 MHz  260-pin SO-DIMM ](https://www.amazon.es/dp/B07BBQG6FR/?tag=tolees-21) con 27.58 de descuento por 80.82 EUR (original: 111.6 EUR) en el siguiente enlace!

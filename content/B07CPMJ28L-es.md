@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CPMJ28L/?tag=tolees-21'
 descuento: '49.50'
+average: '9.59'
 ---
 
 Ahora mismo tienes [Tanburo Báscula Digital para Baño  Alta Medición Precisa 180 kg  28 ST/400 lb  con Gran Plataforma y LCD Digital  Vidrio Transparente  Peso Digital Escalas de Cuerpo](https://www.amazon.es/dp/B07CPMJ28L/?tag=tolees-21) a 9.59 EUR (original: 18.99 EUR) (49.50 %  de descuento) en el siguiente enlace!

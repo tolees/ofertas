@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC1CTSL/?tag=tolees-21'
 descuento: '62.57'
+average: '22.44'
 ---
 
 Ahora mismo tienes [Puma Smash Wns Buckle  Zapatillas para Mujer  Rosa Bud-Bright Peach White  37 EU](https://www.amazon.es/dp/B07DC1CTSL/?tag=tolees-21) a 22.44 EUR (original: 59.95 EUR) (62.57 %  de descuento) en el siguiente enlace!

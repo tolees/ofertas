@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B016R6YD9O/?tag=tolees-21'
 descuento: '31.91'
+average: '4.95'
 ---
 
 Está [adidas Milano 16 Sock - Medias para hombre  multicolor   AZUL / BLANCO   talla 37-39 EU](https://www.amazon.es/dp/B016R6YD9O/?tag=tolees-21) con 31.91 de descuento por 4.95 EUR (original: 7.27 EUR) en el siguiente enlace!

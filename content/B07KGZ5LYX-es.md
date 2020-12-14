@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGZ5LYX/?tag=tolees-21'
 descuento: '58.43'
+average: '11.64'
 ---
 
 Tienes [Burton Classic Mountain High Camisetas  Hombre  True Black  XS](https://www.amazon.es/dp/B07KGZ5LYX/?tag=tolees-21) con un 58.43 % de descuento con precio de oferta de 11.64 EUR (original: 28 EUR) en el siguiente enlace!

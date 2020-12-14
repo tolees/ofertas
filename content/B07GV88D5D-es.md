@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GV88D5D/?tag=tolees-21'
 descuento: '56.39'
+average: '9.59'
 ---
 
 Está [Fuleadture Funda iPhone XR  [Compatible con Carga Inalámbrica] Original Slim Líquido de Silicona Gel Carcasa Totalmente Protectora Caso Suave Cover Case para Apple iPhone XR 6 1" 2018](https://www.amazon.es/dp/B07GV88D5D/?tag=tolees-21) con 56.39 de descuento por 9.59 EUR (original: 21.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FVHZNSR/?tag=tolees-21'
 descuento: '66.11'
+average: '25.95'
 ---
 
 Está [Reebok Royal Ultra SL  Zapatillas de Deporte para Mujer   Lavender Luck/Rose Gold/White 000   36 EU](https://www.amazon.es/dp/B07FVHZNSR/?tag=tolees-21) con 66.11 de descuento por 25.95 EUR (original: 76.56 EUR) en el siguiente enlace!

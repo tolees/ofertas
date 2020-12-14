@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0055ZMHGU/?tag=tolees-21'
 descuento: '51.81'
+average: '12'
 ---
 
 Está [JATA PP468 - Plancha pelo titanio 90x30 mm](https://www.amazon.es/dp/B0055ZMHGU/?tag=tolees-21) con 51.81 de descuento por 12 EUR (original: 24.9 EUR) en el siguiente enlace!

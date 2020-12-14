@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MTVD3UF/?tag=tolees-21'
 descuento: '79.50'
+average: '10.53'
 ---
 
 Está [United Colors of Benetton Wide Leg Trouser with Placket  Pantalones Mujer  Azul  Blue   8  Talla del Fabricante: 40 ](https://www.amazon.es/dp/B01MTVD3UF/?tag=tolees-21) con 79.50 de descuento por 10.53 EUR (original: 51.37 EUR) en el siguiente enlace!

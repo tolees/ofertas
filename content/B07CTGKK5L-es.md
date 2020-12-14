@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CTGKK5L/?tag=tolees-21'
 descuento: '48.34'
+average: '61.99'
 ---
 
 Tienes [Sierra Circular  TECCPO 1500W 5800 RPM Sierras Circulares  Guía Láser  2 Hojas Ø185mm  Profundidad de Corte 63mm  90°   45mm  45°   Motor de Cobre Puro - TACS01P](https://www.amazon.es/dp/B07CTGKK5L/?tag=tolees-21) con un 48.34 % de descuento con precio de oferta de 61.99 EUR (original: 119.99 EUR) en el siguiente enlace!

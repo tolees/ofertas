@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078MNKWMR/?tag=tolees-21'
 descuento: '37.34'
+average: '10.42'
 ---
 
 Tienes [Cereria Carlo Nappi Velas Apple y Canela Fragancia en blíster  30 Unidades  Aroma de Refinado de parafina  esencias  marrón  3 6 x 3 6 x 1 55 cm](https://www.amazon.es/dp/B078MNKWMR/?tag=tolees-21) con un 37.34 % de descuento con precio de oferta de 10.42 EUR (original: 16.63 EUR) en el siguiente enlace!

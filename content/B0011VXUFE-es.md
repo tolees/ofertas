@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0011VXUFE/?tag=tolees-21'
 descuento: '36.87'
+average: '23.99'
 ---
 
 Ahora mismo tienes [Helena Rubinstein Lash Queen Feline Blacks Mascara #01 7 ml](https://www.amazon.es/dp/B0011VXUFE/?tag=tolees-21) a 23.99 EUR (original: 38 EUR) (36.87 %  de descuento) en el siguiente enlace!

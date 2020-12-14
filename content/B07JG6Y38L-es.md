@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JG6Y38L/?tag=tolees-21'
 descuento: '46.87'
+average: '19.12'
 ---
 
 Tienes [ESPRIT Sports Shorts WV SL Pantalones Cortos Deportivos  Negro  Black 001   W40  Talla del Fabricante: Large  para Mujer](https://www.amazon.es/dp/B07JG6Y38L/?tag=tolees-21) con un 46.87 % de descuento con precio de oferta de 19.12 EUR (original: 35.99 EUR) en el siguiente enlace!

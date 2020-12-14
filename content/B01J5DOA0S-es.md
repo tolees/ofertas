@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01J5DOA0S/?tag=tolees-21'
 descuento: '36.37'
+average: '139.99'
 ---
 
 Tienes [Diablo X-One Gaming Silla de Oficina Mecanismo de inclinación cojin Lumbar y Almohada Cuero sintético selección de Color  Negro/Azul   129 x 75 x 51](https://www.amazon.es/dp/B01J5DOA0S/?tag=tolees-21) con un 36.37 % de descuento con precio de oferta de 139.99 EUR (original: 219.99 EUR) en el siguiente enlace!

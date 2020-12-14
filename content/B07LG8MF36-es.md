@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LG8MF36/?tag=tolees-21'
 descuento: '44.46'
+average: '19.99'
 ---
 
 Tienes [YaYuu Gear Fit 2 Pro/Fit 2 Correa de Reloj  Reemplazo de Banda de Silicona Suave Deportiva Pulsera de Repuesto para Samsung Gear Fit 2 Pro SM-R365 and Gear Fit 2 SM-R360 Smart Watch](https://www.amazon.es/dp/B07LG8MF36/?tag=tolees-21) con un 44.46 % de descuento con precio de oferta de 19.99 EUR (original: 35.99 EUR) en el siguiente enlace!

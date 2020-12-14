@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07P4MYR2V/?tag=tolees-21'
 descuento: '62.50'
+average: '9'
 ---
 
 Está [Decocasa Bolsa Térmica Porta Bebidas  Enfriador de Botellas de Vino Agua Cava  2 litros  Azul  2L](https://www.amazon.es/dp/B07P4MYR2V/?tag=tolees-21) con 62.50 de descuento por 9 EUR (original: 24 EUR) en el siguiente enlace!

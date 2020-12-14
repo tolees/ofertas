@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00J33VEFK/?tag=tolees-21'
 descuento: '59.54'
+average: '26.09'
 ---
 
 Tienes [Rocks-Off Roxy Rabbit Vibrador  Color Púrpura - 248 gr](https://www.amazon.es/dp/B00J33VEFK/?tag=tolees-21) con un 59.54 % de descuento con precio de oferta de 26.09 EUR (original: 64.49 EUR) en el siguiente enlace!

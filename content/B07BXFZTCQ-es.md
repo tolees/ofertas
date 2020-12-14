@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BXFZTCQ/?tag=tolees-21'
 descuento: '43.37'
+average: '16.99'
 ---
 
 Está [SYROKAN Sujetador Deportivo Pecho Cinturón Pecho Soporte de Banda Negro L](https://www.amazon.es/dp/B07BXFZTCQ/?tag=tolees-21) con 43.37 de descuento por 16.99 EUR (original: 30 EUR) en el siguiente enlace!

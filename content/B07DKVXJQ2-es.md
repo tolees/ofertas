@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DKVXJQ2/?tag=tolees-21'
 descuento: '47.95'
+average: '14.57'
 ---
 
 Tienes [Columbia Sombrero de pesca unisex  Bora Bora Print Booney  Nailon  Amarillo  Pilsner Topo   Talla: O/S  1662121](https://www.amazon.es/dp/B07DKVXJQ2/?tag=tolees-21) con un 47.95 % de descuento con precio de oferta de 14.57 EUR (original: 27.99 EUR) en el siguiente enlace!

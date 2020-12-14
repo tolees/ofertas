@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ8PFCY/?tag=tolees-21'
 descuento: '37.73'
+average: '37.33'
 ---
 
 Tienes [Puma Nrgy Dynamo Futuro  Zapatillas de Entrenamiento para Hombre  Negro Black-Shocking Orange 04  43 EU](https://www.amazon.es/dp/B07CZ8PFCY/?tag=tolees-21) con un 37.73 % de descuento con precio de oferta de 37.33 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KZ1PN5V/?tag=tolees-21'
 descuento: '65.81'
+average: '9.57'
 ---
 
 Está [Springfield 3.T.Ap.Asas Cadena Azul  Cartera de Mano para Mujer  Gamma](https://www.amazon.es/dp/B07KZ1PN5V/?tag=tolees-21) con 65.81 de descuento por 9.57 EUR (original: 27.99 EUR) en el siguiente enlace!

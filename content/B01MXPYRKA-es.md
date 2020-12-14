@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MXPYRKA/?tag=tolees-21'
 descuento: '43.75'
+average: '45'
 ---
 
 Está [New Balance ML373  Zapatillas para Hombre  Gris  Light Grey   41.5 EU](https://www.amazon.es/dp/B01MXPYRKA/?tag=tolees-21) con 43.75 de descuento por 45 EUR (original: 80 EUR) en el siguiente enlace!

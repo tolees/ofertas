@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M63VOIA/?tag=tolees-21'
 descuento: '63.14'
+average: '23.94'
 ---
 
 Está [Skechers Go Step Lite-Ultrasock 2.0  Entrenadores para Mujer  Negro  Black/White   40 EU](https://www.amazon.es/dp/B01M63VOIA/?tag=tolees-21) con 63.14 de descuento por 23.94 EUR (original: 64.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078GGNC8X/?tag=tolees-21'
 descuento: '47.67'
+average: '31.4'
 ---
 
 Ahora mismo tienes [BOSS Casual Jordin_sz35  Cinturón Hombre  Marrón  Dark Brown 202   110](https://www.amazon.es/dp/B078GGNC8X/?tag=tolees-21) a 31.4 EUR (original: 60 EUR) (47.67 %  de descuento) en el siguiente enlace!

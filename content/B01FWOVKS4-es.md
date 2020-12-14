@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FWOVKS4/?tag=tolees-21'
 descuento: '81.12'
+average: '18.87'
 ---
 
 Ahora mismo tienes [adidas Ace 16.1 FG J  Botas de fútbol para Niños  Blanco  Ftwbla/Negbas/Dormet   35 EU](https://www.amazon.es/dp/B01FWOVKS4/?tag=tolees-21) a 18.87 EUR (original: 99.95 EUR) (81.12 %  de descuento) en el siguiente enlace!

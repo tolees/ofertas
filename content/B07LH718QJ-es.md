@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LH718QJ/?tag=tolees-21'
 descuento: '25.95'
+average: '26.65'
 ---
 
 Ahora mismo tienes [MTNG Attitude 82600 - Zapatillas para hombre  Pila America Negro  41 EU](https://www.amazon.es/dp/B07LH718QJ/?tag=tolees-21) a 26.65 EUR (original: 35.99 EUR) (25.95 %  de descuento) en el siguiente enlace!

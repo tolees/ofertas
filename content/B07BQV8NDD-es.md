@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BQV8NDD/?tag=tolees-21'
 descuento: '67.97'
+average: '24.02'
 ---
 
 Tienes [New Balance 574S v2  Zapatillas Unisex Niños  Negro  Black/UV Blue SL   39 EU](https://www.amazon.es/dp/B07BQV8NDD/?tag=tolees-21) con un 67.97 % de descuento con precio de oferta de 24.02 EUR (original: 75 EUR) en el siguiente enlace!

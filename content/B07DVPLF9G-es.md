@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DVPLF9G/?tag=tolees-21'
 descuento: '60.07'
+average: '27.95'
 ---
 
 Está [Levi s Modern Hm Hoodie Capucha  Azul  Sky Captain 0003   Medium para Hombre](https://www.amazon.es/dp/B07DVPLF9G/?tag=tolees-21) con 60.07 de descuento por 27.95 EUR (original: 70 EUR) en el siguiente enlace!

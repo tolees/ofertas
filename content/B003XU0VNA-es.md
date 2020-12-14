@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003XU0VNA/?tag=tolees-21'
 descuento: '31.65'
+average: '15.05'
 ---
 
 Tienes [Vichy Normaderm Deep Cleansing Gel Purificante - 400 ml](https://www.amazon.es/dp/B003XU0VNA/?tag=tolees-21) con un 31.65 % de descuento con precio de oferta de 15.05 EUR (original: 22.02 EUR) en el siguiente enlace!

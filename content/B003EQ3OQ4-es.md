@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003EQ3OQ4/?tag=tolees-21'
 descuento: '70.79'
+average: '14.6'
 ---
 
 Está [Chung Shi Dux Beach  Alpargata para Mujer  Azul  36.5 EU](https://www.amazon.es/dp/B003EQ3OQ4/?tag=tolees-21) con 70.79 de descuento por 14.6 EUR (original: 49.98 EUR) en el siguiente enlace!

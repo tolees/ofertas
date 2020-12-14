@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0789C6MDC/?tag=tolees-21'
 descuento: '66.51'
+average: '36.84'
 ---
 
 Tienes [Helly Hansen W Seven J Shell Jacket  Mujer  Evening Blue  M](https://www.amazon.es/dp/B0789C6MDC/?tag=tolees-21) con un 66.51 % de descuento con precio de oferta de 36.84 EUR (original: 110 EUR) en el siguiente enlace!

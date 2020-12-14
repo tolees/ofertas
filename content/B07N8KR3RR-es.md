@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N8KR3RR/?tag=tolees-21'
 descuento: '55.80'
+average: '468.08'
 ---
 
 Tienes [HPRC Light HPRC 2730W FÜR Sony Venice Trolley para portátil 62 Centimeters 72 Negro  Black ](https://www.amazon.es/dp/B07N8KR3RR/?tag=tolees-21) con un 55.80 % de descuento con precio de oferta de 468.08 EUR (original: 1058.97 EUR) en el siguiente enlace!

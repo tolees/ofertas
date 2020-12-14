@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DKS15SP/?tag=tolees-21'
 descuento: '49.07'
+average: '75.34'
 ---
 
 Está [Imperial Confort Paris - Colchón viscoelástico - 90 x 180 x 24 cm - Color blanco](https://www.amazon.es/dp/B07DKS15SP/?tag=tolees-21) con 49.07 de descuento por 75.34 EUR (original: 147.94 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TQ4PA38/?tag=tolees-21'
 descuento: '51.14'
+average: '8.99'
 ---
 
 Tienes [Frío En Julio [Blu-ray]](https://www.amazon.es/dp/B00TQ4PA38/?tag=tolees-21) con un 51.14 % de descuento con precio de oferta de 8.99 EUR (original: 18.4 EUR) en el siguiente enlace!

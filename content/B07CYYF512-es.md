@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CYYF512/?tag=tolees-21'
 descuento: '39.79'
+average: '45.13'
 ---
 
 Tienes [Salomon XA Pro 3D CSWP J  Calzado de Trail Running Impermeable para Niños  Rojo  Cherry Tomato/Navy Blazer/Fjord Blue   32 EU](https://www.amazon.es/dp/B07CYYF512/?tag=tolees-21) con un 39.79 % de descuento con precio de oferta de 45.13 EUR (original: 74.95 EUR) en el siguiente enlace!

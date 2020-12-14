@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NANIS10/?tag=tolees-21'
 descuento: '35.16'
+average: '42.14'
 ---
 
 Ahora mismo tienes [Joseph Joseph Tablas de Cortar  Grafito  Mediano  4 Unidades](https://www.amazon.es/dp/B01NANIS10/?tag=tolees-21) a 42.14 EUR (original: 64.99 EUR) (35.16 %  de descuento) en el siguiente enlace!

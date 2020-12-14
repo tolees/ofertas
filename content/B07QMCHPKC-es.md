@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QMCHPKC/?tag=tolees-21'
 descuento: '57.51'
+average: '16.99'
 ---
 
 Está [Ventilador USB  HIEHA Mini Ventilador Silencioso Profesional  Recargable Batería Ventilador Pequeño Portátil Ajustable 360° para Carro de Bebe/Hogar/Coche/Oficina/ Viaje](https://www.amazon.es/dp/B07QMCHPKC/?tag=tolees-21) con 57.51 de descuento por 16.99 EUR (original: 39.99 EUR) en el siguiente enlace!

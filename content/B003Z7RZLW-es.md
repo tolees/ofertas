@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003Z7RZLW/?tag=tolees-21'
 descuento: '39.87'
+average: '8.99'
 ---
 
 Está [El Jorobado de Notre Dame[DVD]](https://www.amazon.es/dp/B003Z7RZLW/?tag=tolees-21) con 39.87 de descuento por 8.99 EUR (original: 14.95 EUR) en el siguiente enlace!

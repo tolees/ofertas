@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0014GPPLI/?tag=tolees-21'
 descuento: '50.11'
+average: '30.79'
 ---
 
 Ahora mismo tienes [Bosch 2 608 641 188 - Hoja de sierra circular Optiline Wood - 190 x 30 x 2 6 mm  60  pack de 1 ](https://www.amazon.es/dp/B0014GPPLI/?tag=tolees-21) a 30.79 EUR (original: 61.71 EUR) (50.11 %  de descuento) en el siguiente enlace!

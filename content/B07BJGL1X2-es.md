@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BJGL1X2/?tag=tolees-21'
 descuento: '26.70'
+average: '13.15'
 ---
 
 Está [Rexona Desodorante Antitranspirante Active Pro+ Invisible Hombre - Paquete de 6 x 200 ml - Total: 1200ml](https://www.amazon.es/dp/B07BJGL1X2/?tag=tolees-21) con 26.70 de descuento por 13.15 EUR (original: 17.94 EUR) en el siguiente enlace!

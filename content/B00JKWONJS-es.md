@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00JKWONJS/?tag=tolees-21'
 descuento: '57.71'
+average: '7.4'
 ---
 
 Tienes [Schwarzkopf [3D] Men -  Cera para cabello  hombre  100ml](https://www.amazon.es/dp/B00JKWONJS/?tag=tolees-21) con un 57.71 % de descuento con precio de oferta de 7.4 EUR (original: 17.5 EUR) en el siguiente enlace!

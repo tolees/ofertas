@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01DUOIB9O/?tag=tolees-21'
 descuento: '86.24'
+average: '24.75'
 ---
 
 Está [NK CÁMARA DE ACCIÓN 360º  1440P & 1080P  Color Negro](https://www.amazon.es/dp/B01DUOIB9O/?tag=tolees-21) con 86.24 de descuento por 24.75 EUR (original: 179.9 EUR) en el siguiente enlace!

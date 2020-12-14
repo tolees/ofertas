@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0719R6NDS/?tag=tolees-21'
 descuento: '56.83'
+average: '25.9'
 ---
 
 Ahora mismo tienes [Volcom Lido Liney Mod 21 Bañador  Hombre  Negro/Rojo/Azul  31](https://www.amazon.es/dp/B0719R6NDS/?tag=tolees-21) a 25.9 EUR (original: 60 EUR) (56.83 %  de descuento) en el siguiente enlace!

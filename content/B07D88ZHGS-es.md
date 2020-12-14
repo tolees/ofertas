@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D88ZHGS/?tag=tolees-21'
 descuento: '77.46'
+average: '13.5'
 ---
 
 Ahora mismo tienes [Laura Biagiotti DOLLS Botas Biker para Niñas  Negro  Black 4770   30 EU](https://www.amazon.es/dp/B07D88ZHGS/?tag=tolees-21) a 13.5 EUR (original: 59.9 EUR) (77.46 %  de descuento) en el siguiente enlace!

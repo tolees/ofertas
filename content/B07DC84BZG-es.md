@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC84BZG/?tag=tolees-21'
 descuento: '54.98'
+average: '20.26'
 ---
 
 Está [LE COQ SPORTIF Courtset Inf Woven  Botas para Bebés  Beige  Optical White/Rose Gold Blanc   21 EU](https://www.amazon.es/dp/B07DC84BZG/?tag=tolees-21) con 54.98 de descuento por 20.26 EUR (original: 45 EUR) en el siguiente enlace!

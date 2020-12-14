@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01AVDYC7M/?tag=tolees-21'
 descuento: '48.00'
+average: '44.2'
 ---
 
 Ahora mismo tienes [Nike Zoom Stefan Janoski  Zapatillas de Skateboarding para Hombre  Negro/Blanco/Marrón  Drk Obsdn Wht-Gm Lght Brwn   39 EU](https://www.amazon.es/dp/B01AVDYC7M/?tag=tolees-21) a 44.2 EUR (original: 85 EUR) (48.00 %  de descuento) en el siguiente enlace!

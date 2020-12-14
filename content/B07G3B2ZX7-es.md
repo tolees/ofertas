@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G3B2ZX7/?tag=tolees-21'
 descuento: '76.05'
+average: '14.37'
 ---
 
 Está [Gabor - Bona  Bolsos bandolera Mujer  Rosa  21x17x4 cm  B x H T ](https://www.amazon.es/dp/B07G3B2ZX7/?tag=tolees-21) con 76.05 de descuento por 14.37 EUR (original: 59.99 EUR) en el siguiente enlace!

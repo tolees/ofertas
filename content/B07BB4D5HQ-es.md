@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BB4D5HQ/?tag=tolees-21'
 descuento: '35.04'
+average: '77.95'
 ---
 
 Está [The North Face Litewave Fastpack Mid Gore-Tex  Botas de Senderismo para Hombre  Negro  TNF Black/Lime Green Kw2   48 EU](https://www.amazon.es/dp/B07BB4D5HQ/?tag=tolees-21) con 35.04 de descuento por 77.95 EUR (original: 120 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00RLUCZ50/?tag=tolees-21'
 descuento: '81.25'
+average: '11.06'
 ---
 
 Ahora mismo tienes [Superga 2790-COTJ  Zapatillas para Niñas  Blanco  White 901   24 EU](https://www.amazon.es/dp/B00RLUCZ50/?tag=tolees-21) a 11.06 EUR (original: 59 EUR) (81.25 %  de descuento) en el siguiente enlace!

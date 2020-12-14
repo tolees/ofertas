@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D4DFLV1/?tag=tolees-21'
 descuento: '32.01'
+average: '16.99'
 ---
 
 Tienes [Guirnaldas de Luces Solar LED 30 Farolillos 5.5 m Bawoo Resistente al Agua IP65  Decoración Exterior y Interior para Fiesta/Boda/Ceremonia/Jardín/Casa  Multicolor   Multicolor ](https://www.amazon.es/dp/B07D4DFLV1/?tag=tolees-21) con un 32.01 % de descuento con precio de oferta de 16.99 EUR (original: 24.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071JYDDPW/?tag=tolees-21'
 descuento: '35.04'
+average: '51.9'
 ---
 
 Ahora mismo tienes [Empire Gaming - Caja PC para juegos WarFare negra LED rojo: USB 3.0  3 ventiladores LED 120 mm  pared lateral ahumado transparente - ATX/mATX/mITX](https://www.amazon.es/dp/B071JYDDPW/?tag=tolees-21) a 51.9 EUR (original: 79.9 EUR) (35.04 %  de descuento) en el siguiente enlace!

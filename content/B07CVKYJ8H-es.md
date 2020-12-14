@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CVKYJ8H/?tag=tolees-21'
 descuento: '68.04'
+average: '17.56'
 ---
 
 Tienes [Skechers TWI-Lites-Twinkle Starz  Zapatillas para Niñas  Rosa  Pink/Multi Pkmt   36 EU](https://www.amazon.es/dp/B07CVKYJ8H/?tag=tolees-21) con un 68.04 % de descuento con precio de oferta de 17.56 EUR (original: 54.95 EUR) en el siguiente enlace!

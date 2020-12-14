@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RGNYWPF/?tag=tolees-21'
 descuento: '29.88'
+average: '8.4'
 ---
 
 Está [Raid - Trampas Cebo contra Hormigas  Efectivo contra La Colonia y Larvas [Pack de 2]](https://www.amazon.es/dp/B07RGNYWPF/?tag=tolees-21) con 29.88 de descuento por 8.4 EUR (original: 11.98 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B015A9YYW0/?tag=tolees-21'
 descuento: '60.71'
+average: '39.29'
 ---
 
 Tienes [Mad Catz F.R.E.Q. TE Binaural Diadema Negro - Auriculares con micrófono  Consola de Juegos  7.1 Canales  Binaural  Diadema  Negro  Alámbrico ](https://www.amazon.es/dp/B015A9YYW0/?tag=tolees-21) con un 60.71 % de descuento con precio de oferta de 39.29 EUR (original: 99.99 EUR) en el siguiente enlace!

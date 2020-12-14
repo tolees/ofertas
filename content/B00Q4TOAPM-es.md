@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00Q4TOAPM/?tag=tolees-21'
 descuento: '40.36'
+average: '8.94'
 ---
 
 Está [AmazonBasics FTD  Sábanas Ajustables  200 x 200 x 30 cm  Oliva](https://www.amazon.es/dp/B00Q4TOAPM/?tag=tolees-21) con 40.36 de descuento por 8.94 EUR (original: 14.99 EUR) en el siguiente enlace!

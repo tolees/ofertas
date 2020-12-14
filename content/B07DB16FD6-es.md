@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DB16FD6/?tag=tolees-21'
 descuento: '71.15'
+average: '28.84'
 ---
 
 Ahora mismo tienes [Puma Tsugi Apex Evoknit  Zapatillas Unisex Adulto  Gris  Laurel Wreath Black 14   43 EU](https://www.amazon.es/dp/B07DB16FD6/?tag=tolees-21) a 28.84 EUR (original: 99.95 EUR) (71.15 %  de descuento) en el siguiente enlace!

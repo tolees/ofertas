@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00J4JNP6Y/?tag=tolees-21'
 descuento: '33.15'
+average: '5.95'
 ---
 
 Está [Flower 20532 20532-Anti-hormigas granulado  No No aplica  14.5x5.5x14.5 cm](https://www.amazon.es/dp/B00J4JNP6Y/?tag=tolees-21) con 33.15 de descuento por 5.95 EUR (original: 8.9 EUR) en el siguiente enlace!

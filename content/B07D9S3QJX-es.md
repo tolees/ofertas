@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9S3QJX/?tag=tolees-21'
 descuento: '66.39'
+average: '30.23'
 ---
 
 Está [adidas Questar Rise  Zapatillas de Gimnasia para Hombre  Gris Five/Carbon/Grey Three F17  47 1/3 EU](https://www.amazon.es/dp/B07D9S3QJX/?tag=tolees-21) con 66.39 de descuento por 30.23 EUR (original: 89.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00BPGX5EG/?tag=tolees-21'
 descuento: '83.87'
+average: '5.8'
 ---
 
 Ahora mismo tienes [Jako Shorts Attack 2.0 - Pantalones Cortos de fútbol para Hombre  Color  Talla 46](https://www.amazon.es/dp/B00BPGX5EG/?tag=tolees-21) a 5.8 EUR (original: 35.95 EUR) (83.87 %  de descuento) en el siguiente enlace!

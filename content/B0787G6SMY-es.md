@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0787G6SMY/?tag=tolees-21'
 descuento: '58.16'
+average: '23.01'
 ---
 
 Está [Pepe Jeans London Gery Liberty  Zapatillas para Mujer  Azul  Azzurro   36 EU](https://www.amazon.es/dp/B0787G6SMY/?tag=tolees-21) con 58.16 de descuento por 23.01 EUR (original: 55 EUR) en el siguiente enlace!

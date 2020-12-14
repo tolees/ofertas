@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078XDQQCS/?tag=tolees-21'
 descuento: '31.54'
+average: '44.5'
 ---
 
 Tienes [Adidas Drive EVO Woman 1.8](https://www.amazon.es/dp/B078XDQQCS/?tag=tolees-21) con un 31.54 % de descuento con precio de oferta de 44.5 EUR (original: 65 EUR) en el siguiente enlace!

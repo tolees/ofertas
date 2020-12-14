@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B019IHQP9A/?tag=tolees-21'
 descuento: '42.99'
+average: '7.85'
 ---
 
 Está [ReNu Multiplus Solución única - 360 ml](https://www.amazon.es/dp/B019IHQP9A/?tag=tolees-21) con 42.99 de descuento por 7.85 EUR (original: 13.77 EUR) en el siguiente enlace!

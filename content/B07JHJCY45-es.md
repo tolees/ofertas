@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JHJCY45/?tag=tolees-21'
 descuento: '29.92'
+average: '20.99'
 ---
 
 Está [Puma Fundamentals Sports Bag M Bolsa Deporte  Unisex Adulto  Morado  Indigo/Peach Bud   OSFA](https://www.amazon.es/dp/B07JHJCY45/?tag=tolees-21) con 29.92 de descuento por 20.99 EUR (original: 29.95 EUR) en el siguiente enlace!

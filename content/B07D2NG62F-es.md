@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D2NG62F/?tag=tolees-21'
 descuento: '76.73'
+average: '23.26'
 ---
 
 Ahora mismo tienes [Reebok Club C 85  Zapatillas de Gimnasia para Mujer  Face/Bare Beige/White  35 EU](https://www.amazon.es/dp/B07D2NG62F/?tag=tolees-21) a 23.26 EUR (original: 99.95 EUR) (76.73 %  de descuento) en el siguiente enlace!

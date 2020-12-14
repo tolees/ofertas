@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00RJ5FLIA/?tag=tolees-21'
 descuento: '64.15'
+average: '14.34'
 ---
 
 Ahora mismo tienes [VAUDE Valdipino Poncho - Chubasquero Impermeable para Ciclismo  Color Marino  Talla XXL](https://www.amazon.es/dp/B00RJ5FLIA/?tag=tolees-21) a 14.34 EUR (original: 40 EUR) (64.15 %  de descuento) en el siguiente enlace!

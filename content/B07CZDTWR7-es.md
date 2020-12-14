@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZDTWR7/?tag=tolees-21'
 descuento: '45.02'
+average: '10.99'
 ---
 
 Ahora mismo tienes [Bovon Soporte Móvil Coche  Soporte Movil Coche Universal para Parabrisas y Salpicadero con Ventosa de Gel Fuerte y Brazo Ajustable Giro para iPhone X XS MAX XR 8 7 6 Plus Samsung S9 S8 Xiaomi Huawei](https://www.amazon.es/dp/B07CZDTWR7/?tag=tolees-21) a 10.99 EUR (original: 19.99 EUR) (45.02 %  de descuento) en el siguiente enlace!

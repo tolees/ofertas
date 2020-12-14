@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N7WGBL2/?tag=tolees-21'
 descuento: '74.09'
+average: '14.99'
 ---
 
 Está [NEWHEY Cinturon Hombre Cuero Piel Hebillas Jeans Reversible Trabajo Traje Cinturones Clásico Negro Marron 115CM](https://www.amazon.es/dp/B07N7WGBL2/?tag=tolees-21) con 74.09 de descuento por 14.99 EUR (original: 57.85 EUR) en el siguiente enlace!

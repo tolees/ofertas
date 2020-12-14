@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00D9E2APC/?tag=tolees-21'
 descuento: '61.22'
+average: '10.45'
 ---
 
 Ahora mismo tienes [Spalding Attack Shorts - Pantalones Cortos de Baloncesto para Hombre  Color Rojo/Blanco  Talla S](https://www.amazon.es/dp/B00D9E2APC/?tag=tolees-21) a 10.45 EUR (original: 26.95 EUR) (61.22 %  de descuento) en el siguiente enlace!

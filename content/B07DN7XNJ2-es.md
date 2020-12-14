@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DN7XNJ2/?tag=tolees-21'
 descuento: '57.01'
+average: '4.29'
 ---
 
 Está [Toy fría männlicher Masturbator Adult Sex toy silicona Vagina Pocket Pussy masturbación para hombres](https://www.amazon.es/dp/B07DN7XNJ2/?tag=tolees-21) con 57.01 de descuento por 4.29 EUR (original: 9.98 EUR) en el siguiente enlace!

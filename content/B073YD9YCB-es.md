@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073YD9YCB/?tag=tolees-21'
 descuento: '52.81'
+average: '23.59'
 ---
 
 Está [Esprit 107ee1i014  suéter Mujer  Azul  Light Blue 5 444   XX-Large](https://www.amazon.es/dp/B073YD9YCB/?tag=tolees-21) con 52.81 de descuento por 23.59 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MTQ8VT2/?tag=tolees-21'
 descuento: '74.23'
+average: '30.93'
 ---
 
 Ahora mismo tienes [New Balance 928  Zapatillas para Hombre  Negro Black B3  45.5 EU](https://www.amazon.es/dp/B01MTQ8VT2/?tag=tolees-21) a 30.93 EUR (original: 120 EUR) (74.23 %  de descuento) en el siguiente enlace!

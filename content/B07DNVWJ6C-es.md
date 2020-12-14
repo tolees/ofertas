@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DNVWJ6C/?tag=tolees-21'
 descuento: '49.05'
+average: '86.61'
 ---
 
 Está [BOSS Herren Glaze Lowp Tbsd  Zapatillas para Hombre  Marrón  Dark Brown 201   39 EU](https://www.amazon.es/dp/B07DNVWJ6C/?tag=tolees-21) con 49.05 de descuento por 86.61 EUR (original: 170 EUR) en el siguiente enlace!

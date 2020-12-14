@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00NORRASQ/?tag=tolees-21'
 descuento: '56.12'
+average: '5.84'
 ---
 
 Tienes [Jonh Frieda Espuma Rizos Revitalizados - 200 ml](https://www.amazon.es/dp/B00NORRASQ/?tag=tolees-21) con un 56.12 % de descuento con precio de oferta de 5.84 EUR (original: 13.31 EUR) en el siguiente enlace!

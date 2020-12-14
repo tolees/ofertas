@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZG5H6N/?tag=tolees-21'
 descuento: '46.27'
+average: '75.22'
 ---
 
 Tienes [Asics Gel-Cumulus 20  Zapatillas de Entrenamiento Unisex Adulto  Naranja  Mojave/Fuchsia Purple 800   38 EU](https://www.amazon.es/dp/B07CZG5H6N/?tag=tolees-21) con un 46.27 % de descuento con precio de oferta de 75.22 EUR (original: 140 EUR) en el siguiente enlace!

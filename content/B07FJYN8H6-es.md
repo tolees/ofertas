@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FJYN8H6/?tag=tolees-21'
 descuento: '66.44'
+average: '21.8'
 ---
 
 Tienes [hummel Nile Canvas Low  Zapatillas Unisex Adulto  Azul  Vintage Indigo 8588   42 EU](https://www.amazon.es/dp/B07FJYN8H6/?tag=tolees-21) con un 66.44 % de descuento con precio de oferta de 21.8 EUR (original: 64.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0718XYWQF/?tag=tolees-21'
 descuento: '77.45'
+average: '22.54'
 ---
 
 Está [Puma Suede XL Lace VR  Zapatillas para Mujer  Verde  Olive Night-Avocado   38 EU](https://www.amazon.es/dp/B0718XYWQF/?tag=tolees-21) con 77.45 de descuento por 22.54 EUR (original: 99.95 EUR) en el siguiente enlace!

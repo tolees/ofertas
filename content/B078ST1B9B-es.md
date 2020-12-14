@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078ST1B9B/?tag=tolees-21'
 descuento: '47.85'
+average: '11.99'
 ---
 
 Está [Portacepillos De Dientes Pared Con Ventosa  Soporte Para Cepillos De Dientes Ventosa  Titular De Cepillo De Dientes Soporte De Pasta De Dientes  Titular De Pasta De Dientes Con Soporte De Afeitar](https://www.amazon.es/dp/B078ST1B9B/?tag=tolees-21) con 47.85 de descuento por 11.99 EUR (original: 22.99 EUR) en el siguiente enlace!

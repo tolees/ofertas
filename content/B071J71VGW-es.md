@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071J71VGW/?tag=tolees-21'
 descuento: '51.30'
+average: '9.74'
 ---
 
 Está [Under Armour 1312478-001  Calcetines Para Joven  Multicolor  True grey/Heather   L  Pack de 6](https://www.amazon.es/dp/B071J71VGW/?tag=tolees-21) con 51.30 de descuento por 9.74 EUR (original: 20 EUR) en el siguiente enlace!

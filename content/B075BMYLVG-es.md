@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075BMYLVG/?tag=tolees-21'
 descuento: '47.74'
+average: '20.38'
 ---
 
 Tienes [Calvin Klein - Ckj Logo Pop Cardholder  Carteras Unisex adulto  Negro  Black/black   1x8x10 cm  B x H T ](https://www.amazon.es/dp/B075BMYLVG/?tag=tolees-21) con un 47.74 % de descuento con precio de oferta de 20.38 EUR (original: 39 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071WCN9TN/?tag=tolees-21'
 descuento: '44.06'
+average: '27.94'
 ---
 
 Ahora mismo tienes [Reebok Bs6907  Zapatillas de Running para Mujer  Gris  Flat Medium Grey/Poison Pink/White/Pewte   37 EU](https://www.amazon.es/dp/B071WCN9TN/?tag=tolees-21) a 27.94 EUR (original: 49.95 EUR) (44.06 %  de descuento) en el siguiente enlace!

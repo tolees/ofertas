@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0035WDKO8/?tag=tolees-21'
 descuento: '46.88'
+average: '44.35'
 ---
 
 Está [BIODERMA Matricium Cofre 30 Dosis 1 ml](https://www.amazon.es/dp/B0035WDKO8/?tag=tolees-21) con 46.88 de descuento por 44.35 EUR (original: 83.49 EUR) en el siguiente enlace!

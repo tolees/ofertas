@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MCX9R8Y/?tag=tolees-21'
 descuento: '82.02'
+average: '8.99'
 ---
 
 Tienes [WOSTOO Luz Trasera para Bicicleta Recargable USB  LED Faro Trasero Bici  Super Brillante Rojo Luz LED Bici de 120 Lúmenes  Impermeable  240 ° Faro Trasero Bici para Máxima Seguridad de Ciclismo](https://www.amazon.es/dp/B07MCX9R8Y/?tag=tolees-21) con un 82.02 % de descuento con precio de oferta de 8.99 EUR (original: 50 EUR) en el siguiente enlace!

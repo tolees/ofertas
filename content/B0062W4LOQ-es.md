@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0062W4LOQ/?tag=tolees-21'
 descuento: '47.48'
+average: '21.01'
 ---
 
 Tienes [Kappa Holy 241445 - Zapatillas de Tela Unisex  Color Azul  Talla 39](https://www.amazon.es/dp/B0062W4LOQ/?tag=tolees-21) con un 47.48 % de descuento con precio de oferta de 21.01 EUR (original: 40 EUR) en el siguiente enlace!

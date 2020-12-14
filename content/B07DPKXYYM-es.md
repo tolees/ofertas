@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DPKXYYM/?tag=tolees-21'
 descuento: '55.62'
+average: '19.95'
 ---
 
 Está [Puma Ignite 3/4 Tight Pants  Hombre  Black  L](https://www.amazon.es/dp/B07DPKXYYM/?tag=tolees-21) con 55.62 de descuento por 19.95 EUR (original: 44.95 EUR) en el siguiente enlace!

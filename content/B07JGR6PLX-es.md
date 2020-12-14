@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JGR6PLX/?tag=tolees-21'
 descuento: '49.38'
+average: '39.99'
 ---
 
 Está [X-TIGER Invierno Vellón Térmico MTB Ciclismo Mangas Largas Maillots+5D Acolchado Gel Culotes Pantalones-L](https://www.amazon.es/dp/B07JGR6PLX/?tag=tolees-21) con 49.38 de descuento por 39.99 EUR (original: 79 EUR) en el siguiente enlace!

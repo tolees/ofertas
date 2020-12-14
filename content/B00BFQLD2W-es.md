@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00BFQLD2W/?tag=tolees-21'
 descuento: '61.52'
+average: '11.54'
 ---
 
 Ahora mismo tienes [Bisk 00407 Deco Vaso ceramico con soporte  7 8 x 12 x 10 5 cm  acabado latón envejecido](https://www.amazon.es/dp/B00BFQLD2W/?tag=tolees-21) a 11.54 EUR (original: 29.99 EUR) (61.52 %  de descuento) en el siguiente enlace!

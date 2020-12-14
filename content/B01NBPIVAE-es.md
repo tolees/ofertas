@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NBPIVAE/?tag=tolees-21'
 descuento: '50.50'
+average: '99'
 ---
 
 Está [Philips Lumea Essential Dispositivo de depilación IPL BRI858/00 - Depilación con luz  Blanco  Luz pulsada intensa  IPL   10 min  2 min  3 min  2 min ](https://www.amazon.es/dp/B01NBPIVAE/?tag=tolees-21) con 50.50 de descuento por 99 EUR (original: 200 EUR) en el siguiente enlace!

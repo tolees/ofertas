@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BR2CD7M/?tag=tolees-21'
 descuento: '66.65'
+average: '26.66'
 ---
 
 Está [Clarks - Midora Dawn  Bolsos bandolera Mujer  Negro  Black   23x51x57 cm  B x H T ](https://www.amazon.es/dp/B07BR2CD7M/?tag=tolees-21) con 66.65 de descuento por 26.66 EUR (original: 79.95 EUR) en el siguiente enlace!

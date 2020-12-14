@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KKB4JWM/?tag=tolees-21'
 descuento: '37.52'
+average: '9.99'
 ---
 
 Ahora mismo tienes [Opret 4 Pack Caja de Almacenamiento Caja Compartimentos de Plástico  15 Compartimentos  con Separadores Ajustables Organizador de Joyería Contenedor de Herramientas](https://www.amazon.es/dp/B07KKB4JWM/?tag=tolees-21) a 9.99 EUR (original: 15.99 EUR) (37.52 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077Y1GG6K/?tag=tolees-21'
 descuento: '50.00'
+average: '44.5'
 ---
 
 Tienes [Superga 2790-COTCOLOROPEW  Zapatillas para Mujer  Negro  Total Black 997   42 EU](https://www.amazon.es/dp/B077Y1GG6K/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 44.5 EUR (original: 89 EUR) en el siguiente enlace!

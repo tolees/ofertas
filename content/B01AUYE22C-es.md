@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01AUYE22C/?tag=tolees-21'
 descuento: '48.40'
+average: '46.93'
 ---
 
 Ahora mismo tienes [Vive Enoki Vibrador Rosa](https://www.amazon.es/dp/B01AUYE22C/?tag=tolees-21) a 46.93 EUR (original: 90.95 EUR) (48.40 %  de descuento) en el siguiente enlace!

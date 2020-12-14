@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01H5IUL1C/?tag=tolees-21'
 descuento: '71.01'
+average: '6.7'
 ---
 
 Está [Colorado Denim 18328-001-Camiseta Hombre Azul  Nightshadow  L](https://www.amazon.es/dp/B01H5IUL1C/?tag=tolees-21) con 71.01 de descuento por 6.7 EUR (original: 23.11 EUR) en el siguiente enlace!

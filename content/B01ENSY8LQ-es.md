@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01ENSY8LQ/?tag=tolees-21'
 descuento: '37.66'
+average: '149'
 ---
 
 Tienes [Severin MW 7868 Microondas con grill y convección 900 W  25 litros  Plata y negro](https://www.amazon.es/dp/B01ENSY8LQ/?tag=tolees-21) con un 37.66 % de descuento con precio de oferta de 149 EUR (original: 239 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KQL3NXQ/?tag=tolees-21'
 descuento: '45.89'
+average: '13.5'
 ---
 
 Está [hummel Hmlarena Pelota  Unisex  Blanco  White Red Blue   3](https://www.amazon.es/dp/B07KQL3NXQ/?tag=tolees-21) con 45.89 de descuento por 13.5 EUR (original: 24.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0031YHNUW/?tag=tolees-21'
 descuento: '33.64'
+average: '10.97'
 ---
 
 Está [Fellowes Apex - Pack de 100 fundas de plastificar  formato A4  125 micras](https://www.amazon.es/dp/B0031YHNUW/?tag=tolees-21) con 33.64 de descuento por 10.97 EUR (original: 16.53 EUR) en el siguiente enlace!

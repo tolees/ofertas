@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01J1QFQK2/?tag=tolees-21'
 descuento: '41.93'
+average: '69.69'
 ---
 
 Está [Versa 20880016 Juego 2 mesas Entrada  Madera y Metal  95x25x80cm  Marrón y Negro](https://www.amazon.es/dp/B01J1QFQK2/?tag=tolees-21) con 41.93 de descuento por 69.69 EUR (original: 120 EUR) en el siguiente enlace!

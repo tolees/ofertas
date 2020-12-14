@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00HCUB80C/?tag=tolees-21'
 descuento: '45.02'
+average: '11.54'
 ---
 
 Ahora mismo tienes [The Journey So Far - the Best of + CD Live 2013  a Midsummer Night S Tour  - Qrcd 116 -Keltia Musique](https://www.amazon.es/dp/B00HCUB80C/?tag=tolees-21) a 11.54 EUR (original: 20.99 EUR) (45.02 %  de descuento) en el siguiente enlace!

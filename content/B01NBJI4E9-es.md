@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NBJI4E9/?tag=tolees-21'
 descuento: '46.48'
+average: '42.82'
 ---
 
 Ahora mismo tienes [Under Armour UA W Micro G Fuel RN  Zapatillas de Entrenamiento para Mujer  Negro  Black  37.5 EU](https://www.amazon.es/dp/B01NBJI4E9/?tag=tolees-21) a 42.82 EUR (original: 80 EUR) (46.48 %  de descuento) en el siguiente enlace!

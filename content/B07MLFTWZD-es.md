@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MLFTWZD/?tag=tolees-21'
 descuento: '38.67'
+average: '36.79'
 ---
 
 Está [Auriculares Bluetooth  Bluetooth 5.0 Estéreo Auriculares inalámbricos Auriculares Deportivos Auriculares intrauditivos Micrófono Incorporado con estación de Carga magnética para iPhone y Android](https://www.amazon.es/dp/B07MLFTWZD/?tag=tolees-21) con 38.67 de descuento por 36.79 EUR (original: 59.99 EUR) en el siguiente enlace!

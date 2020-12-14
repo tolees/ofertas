@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072J37VWM/?tag=tolees-21'
 descuento: '53.05'
+average: '30.98'
 ---
 
 Está [Bolsa Transporte Perro  Portador Portátil de Transporte de Mascotas para Perros Pequeños Cachorros de Perros  Gris ](https://www.amazon.es/dp/B072J37VWM/?tag=tolees-21) con 53.05 de descuento por 30.98 EUR (original: 65.98 EUR) en el siguiente enlace!

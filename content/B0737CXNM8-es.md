@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0737CXNM8/?tag=tolees-21'
 descuento: '61.54'
+average: '30.75'
 ---
 
 Está [Reebok Bs8006  Zapatillas de Deporte para Hombre  Azul  Vital Blue/White/Black   42 EU](https://www.amazon.es/dp/B0737CXNM8/?tag=tolees-21) con 61.54 de descuento por 30.75 EUR (original: 79.95 EUR) en el siguiente enlace!

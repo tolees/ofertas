@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00I7KGP7W/?tag=tolees-21'
 descuento: '82.74'
+average: '13.3'
 ---
 
 Ahora mismo tienes [Bolín Bolón 1019094012200 - Saco de carro](https://www.amazon.es/dp/B00I7KGP7W/?tag=tolees-21) a 13.3 EUR (original: 77.04 EUR) (82.74 %  de descuento) en el siguiente enlace!

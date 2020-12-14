@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01CD79K5S/?tag=tolees-21'
 descuento: '38.26'
+average: '8.02'
 ---
 
 Está [Solac CP7382 Men Details Styler - Naricero  compacto y practico](https://www.amazon.es/dp/B01CD79K5S/?tag=tolees-21) con 38.26 de descuento por 8.02 EUR (original: 12.99 EUR) en el siguiente enlace!

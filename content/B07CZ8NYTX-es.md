@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ8NYTX/?tag=tolees-21'
 descuento: '43.34'
+average: '33.99'
 ---
 
 Tienes [VicTsing Aspirador Mano Inalámbrico de Doble Uso-Homasy  Aspirador de Coche y Hogar Sin Cable  Carga Rápida  con 3 Cepillos y un Filtro Lavable 2200mAh  4000PA ¡Recomiendan Altamente!](https://www.amazon.es/dp/B07CZ8NYTX/?tag=tolees-21) con un 43.34 % de descuento con precio de oferta de 33.99 EUR (original: 59.99 EUR) en el siguiente enlace!

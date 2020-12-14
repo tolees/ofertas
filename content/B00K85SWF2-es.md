@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00K85SWF2/?tag=tolees-21'
 descuento: '28.40'
+average: '19.84'
 ---
 
 Tienes [BRA CAFETERA DE Luxe 2  Aluminio  Plata  12 Tazas](https://www.amazon.es/dp/B00K85SWF2/?tag=tolees-21) con un 28.40 % de descuento con precio de oferta de 19.84 EUR (original: 27.71 EUR) en el siguiente enlace!

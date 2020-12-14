@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00LOUM8XW/?tag=tolees-21'
 descuento: '43.47'
+average: '16.96'
 ---
 
 Ahora mismo tienes [Volcom QUARTER TWILL Gorra  Hombre  Borgoña  Burgundy/Grey   Talla O/S](https://www.amazon.es/dp/B00LOUM8XW/?tag=tolees-21) a 16.96 EUR (original: 30 EUR) (43.47 %  de descuento) en el siguiente enlace!

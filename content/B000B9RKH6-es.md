@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000B9RKH6/?tag=tolees-21'
 descuento: '28.44'
+average: '40.79'
 ---
 
 Tienes [Brüder Mannesmann Werkzeuge M15350 - Clavadora para acabados [Importado de Alemania]](https://www.amazon.es/dp/B000B9RKH6/?tag=tolees-21) con un 28.44 % de descuento con precio de oferta de 40.79 EUR (original: 57 EUR) en el siguiente enlace!

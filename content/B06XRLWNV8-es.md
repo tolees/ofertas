@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XRLWNV8/?tag=tolees-21'
 descuento: '35.67'
+average: '28.95'
 ---
 
 Ahora mismo tienes [Nike Revolution 4  GS   Zapatillas de Running para Niños  Azul  Neutral Indigo/Light Carbon-Obsidian 501   35.5 EU](https://www.amazon.es/dp/B06XRLWNV8/?tag=tolees-21) a 28.95 EUR (original: 45 EUR) (35.67 %  de descuento) en el siguiente enlace!

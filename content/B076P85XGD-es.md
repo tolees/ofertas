@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076P85XGD/?tag=tolees-21'
 descuento: '64.03'
+average: '8.99'
 ---
 
 Ahora mismo tienes [Lunvon 1L / 35 oz Mejor Deportes Botella de Agua  A Prueba de Fugas - Tritan Plástico Ecológico y Sin BPA - para Deportes  Yoga  Senderismo  Viajes  Oficina  Tapa del Tirón  1-Click Apertura  Gris](https://www.amazon.es/dp/B076P85XGD/?tag=tolees-21) a 8.99 EUR (original: 24.99 EUR) (64.03 %  de descuento) en el siguiente enlace!

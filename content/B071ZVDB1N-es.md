@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071ZVDB1N/?tag=tolees-21'
 descuento: '51.99'
+average: '21.58'
 ---
 
 Tienes [Puma Engine Jr  Zapatillas para Niños  Naranja  Nrgy Peach-black   38.5 EU](https://www.amazon.es/dp/B071ZVDB1N/?tag=tolees-21) con un 51.99 % de descuento con precio de oferta de 21.58 EUR (original: 44.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0779JVF3Z/?tag=tolees-21'
 descuento: '26.24'
+average: '10.99'
 ---
 
 Ahora mismo tienes [Bra Efficient Cuchillo de pan  Acero Inoxidable  Gris  3x5x34 cm](https://www.amazon.es/dp/B0779JVF3Z/?tag=tolees-21) a 10.99 EUR (original: 14.9 EUR) (26.24 %  de descuento) en el siguiente enlace!

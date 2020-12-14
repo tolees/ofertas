@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F435RHK/?tag=tolees-21'
 descuento: '65.32'
+average: '13.87'
 ---
 
 Está [JACK & JONES Jorocherry Knit Crew Neck suéter   Dark Grey Melange Detail:Knit Fit   Large para Hombre](https://www.amazon.es/dp/B07F435RHK/?tag=tolees-21) con 65.32 de descuento por 13.87 EUR (original: 39.99 EUR) en el siguiente enlace!

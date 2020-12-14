@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NB9ZBP3/?tag=tolees-21'
 descuento: '55.13'
+average: '31.41'
 ---
 
 Está [New Balance Flash  Zapatillas Deportivas para Interior para Hombre   Dark Cyclone/Energy  44 EU](https://www.amazon.es/dp/B01NB9ZBP3/?tag=tolees-21) con 55.13 de descuento por 31.41 EUR (original: 70 EUR) en el siguiente enlace!

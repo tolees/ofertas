@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0786X9ZZG/?tag=tolees-21'
 descuento: '44.52'
+average: '49.9'
 ---
 
 Tienes [Adidas Campus  Zapatillas de Deporte para Hombre  Amarillo  Solneb Ftwbla 000   45 1/3 EU](https://www.amazon.es/dp/B0786X9ZZG/?tag=tolees-21) con un 44.52 % de descuento con precio de oferta de 49.9 EUR (original: 89.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LRUWB9E/?tag=tolees-21'
 descuento: '33.33'
+average: '100'
 ---
 
 Está [Hauck Rapid 4 - Sillita compacta y deportiva  de 0 meses a 25 kg  manillar ajustable en altura  respaldo reclinable  compatible con capazo blando Hauck  plegado fácil con una mano  negro rojo](https://www.amazon.es/dp/B01LRUWB9E/?tag=tolees-21) con 33.33 de descuento por 100 EUR (original: 149.99 EUR) en el siguiente enlace!

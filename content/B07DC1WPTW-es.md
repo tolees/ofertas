@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC1WPTW/?tag=tolees-21'
 descuento: '74.16'
+average: '23.24'
 ---
 
 Ahora mismo tienes [Puma Zeta Suede  Zapatillas Unisex Adulto  Gris  Glacier Gray-Peacoat   36 EU](https://www.amazon.es/dp/B07DC1WPTW/?tag=tolees-21) a 23.24 EUR (original: 89.95 EUR) (74.16 %  de descuento) en el siguiente enlace!

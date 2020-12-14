@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071VS99CF/?tag=tolees-21'
 descuento: '35.86'
+average: '38.45'
 ---
 
 Ahora mismo tienes [Puma Rebound Street V2  Zapatillas Altas Unisex Adults o  Negro Black White  44.5 EU](https://www.amazon.es/dp/B071VS99CF/?tag=tolees-21) a 38.45 EUR (original: 59.95 EUR) (35.86 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01CFXGCEW/?tag=tolees-21'
 descuento: '54.55'
+average: '49.99'
 ---
 
 Está [Cochecito Plegable Mascotas 75x45x97cm Perros Gatos Carrito Ruedas Giran 360º Azul](https://www.amazon.es/dp/B01CFXGCEW/?tag=tolees-21) con 54.55 de descuento por 49.99 EUR (original: 109.99 EUR) en el siguiente enlace!

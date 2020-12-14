@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076CM8RHL/?tag=tolees-21'
 descuento: '72.99'
+average: '6.74'
 ---
 
 Tienes [Blend 20705356 Polo  Rosa  Rose Red   Large  Tamaño del Fabricante:L  para Hombre](https://www.amazon.es/dp/B076CM8RHL/?tag=tolees-21) con un 72.99 % de descuento con precio de oferta de 6.74 EUR (original: 24.95 EUR) en el siguiente enlace!

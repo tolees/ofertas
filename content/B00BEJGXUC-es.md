@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00BEJGXUC/?tag=tolees-21'
 descuento: '29.79'
+average: '18.78'
 ---
 
 Tienes [AFTER SHAVE EUCALIPTO 400 ML.](https://www.amazon.es/dp/B00BEJGXUC/?tag=tolees-21) con un 29.79 % de descuento con precio de oferta de 18.78 EUR (original: 26.75 EUR) en el siguiente enlace!

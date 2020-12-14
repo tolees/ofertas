@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XPYCPCK/?tag=tolees-21'
 descuento: '42.52'
+average: '103.43'
 ---
 
 Tienes [GORE BIKE WEAR Cubrepantalones largos  Hombre  GORE-TEX Active  Talla M  Negro  TGELEM990004](https://www.amazon.es/dp/B06XPYCPCK/?tag=tolees-21) con un 42.52 % de descuento con precio de oferta de 103.43 EUR (original: 179.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LWMED5Z/?tag=tolees-21'
 descuento: '81.16'
+average: '13.19'
 ---
 
 Tienes [San Ignacio Cacerola con Tapa  Aluminio Forjado  Gris  24 cm](https://www.amazon.es/dp/B01LWMED5Z/?tag=tolees-21) con un 81.16 % de descuento con precio de oferta de 13.19 EUR (original: 70 EUR) en el siguiente enlace!

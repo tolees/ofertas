@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077Z5HKV3/?tag=tolees-21'
 descuento: '40.00'
+average: '10.17'
 ---
 
 Está [HIKARO AMA HAYAND camisetas  Rojo  Burgundy   42  Talla del fabricante: Large ](https://www.amazon.es/dp/B077Z5HKV3/?tag=tolees-21) con 40.00 de descuento por 10.17 EUR (original: 16.95 EUR) en el siguiente enlace!

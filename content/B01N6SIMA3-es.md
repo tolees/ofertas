@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N6SIMA3/?tag=tolees-21'
 descuento: '42.72'
+average: '12'
 ---
 
 Está [GB Eye LTD  Wonder Woman  Corriendo  Print Enmarcado 40 x 30 cm](https://www.amazon.es/dp/B01N6SIMA3/?tag=tolees-21) con 42.72 de descuento por 12 EUR (original: 20.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075FZVB3F/?tag=tolees-21'
 descuento: '35.01'
+average: '38.99'
 ---
 
 Tienes [Neutrogena - Cuidado Facial  - Mascara + Activador](https://www.amazon.es/dp/B075FZVB3F/?tag=tolees-21) con un 35.01 % de descuento con precio de oferta de 38.99 EUR (original: 59.99 EUR) en el siguiente enlace!

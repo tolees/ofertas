@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003UTAIPU/?tag=tolees-21'
 descuento: '48.27'
+average: '4.63'
 ---
 
 Tienes [Crazy Color Peacook Blue Nº 45 Crema Colorante del Cabello Semi-permanente](https://www.amazon.es/dp/B003UTAIPU/?tag=tolees-21) con un 48.27 % de descuento con precio de oferta de 4.63 EUR (original: 8.95 EUR) en el siguiente enlace!

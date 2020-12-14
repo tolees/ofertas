@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BZVSX1H/?tag=tolees-21'
 descuento: '59.62'
+average: '20.17'
 ---
 
 Ahora mismo tienes [Real Fantasy Vibrador Consolador](https://www.amazon.es/dp/B07BZVSX1H/?tag=tolees-21) a 20.17 EUR (original: 49.95 EUR) (59.62 %  de descuento) en el siguiente enlace!

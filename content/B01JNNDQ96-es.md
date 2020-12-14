@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01JNNDQ96/?tag=tolees-21'
 descuento: '47.99'
+average: '41.61'
 ---
 
 Está [Volcom Kinkade Pantalones  Hombre  Azul  Vaquero   38](https://www.amazon.es/dp/B01JNNDQ96/?tag=tolees-21) con 47.99 de descuento por 41.61 EUR (original: 80 EUR) en el siguiente enlace!

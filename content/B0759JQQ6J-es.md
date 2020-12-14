@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0759JQQ6J/?tag=tolees-21'
 descuento: '48.59'
+average: '8.2'
 ---
 
 Tienes [Funko Pop!- Tron Figura de Vinilo   Standard  14700 ](https://www.amazon.es/dp/B0759JQQ6J/?tag=tolees-21) con un 48.59 % de descuento con precio de oferta de 8.2 EUR (original: 15.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075GWKVHX/?tag=tolees-21'
 descuento: '48.31'
+average: '30.99'
 ---
 
 Tienes [Adidas Cosmic 2 m  Zapatillas de Deporte para Hombre  Rojo  Roalre/Negbas/Escarl 000   43 1/3 EU](https://www.amazon.es/dp/B075GWKVHX/?tag=tolees-21) con un 48.31 % de descuento con precio de oferta de 30.99 EUR (original: 59.95 EUR) en el siguiente enlace!

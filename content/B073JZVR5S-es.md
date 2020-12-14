@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073JZVR5S/?tag=tolees-21'
 descuento: '79.29'
+average: '16.36'
 ---
 
 Tienes [SanDisk - Base iXpand de 64 GB  para Cargar iPhone y Hacer copias de Seguridad de su Contenido](https://www.amazon.es/dp/B073JZVR5S/?tag=tolees-21) con un 79.29 % de descuento con precio de oferta de 16.36 EUR (original: 78.99 EUR) en el siguiente enlace!

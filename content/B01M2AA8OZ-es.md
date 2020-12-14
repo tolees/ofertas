@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M2AA8OZ/?tag=tolees-21'
 descuento: '34.10'
+average: '8.56'
 ---
 
 Ahora mismo tienes [Schleich Marvel - Figura Superhéroe Falcon  18 4 cm](https://www.amazon.es/dp/B01M2AA8OZ/?tag=tolees-21) a 8.56 EUR (original: 12.99 EUR) (34.10 %  de descuento) en el siguiente enlace!

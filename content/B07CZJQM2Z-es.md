@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZJQM2Z/?tag=tolees-21'
 descuento: '59.01'
+average: '40.97'
 ---
 
 Tienes [Salomon X Ultra 3 Prime W  Zapatillas de Senderismo para Mujer  Gris  Alloy/Ebony/Malaga   38 EU](https://www.amazon.es/dp/B07CZJQM2Z/?tag=tolees-21) con un 59.01 % de descuento con precio de oferta de 40.97 EUR (original: 99.95 EUR) en el siguiente enlace!

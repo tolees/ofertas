@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M1CHUMX/?tag=tolees-21'
 descuento: '41.78'
+average: '5.7'
 ---
 
 Ahora mismo tienes [Chinchon Anis Chinchon Dulce - 1 l](https://www.amazon.es/dp/B01M1CHUMX/?tag=tolees-21) a 5.7 EUR (original: 9.79 EUR) (41.78 %  de descuento) en el siguiente enlace!

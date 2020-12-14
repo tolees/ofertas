@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JMCW9HZ/?tag=tolees-21'
 descuento: '34.78'
+average: '14.87'
 ---
 
 Está [First Man - Le Premier Homme sur la Lune [Francia] [Blu-ray]](https://www.amazon.es/dp/B07JMCW9HZ/?tag=tolees-21) con 34.78 de descuento por 14.87 EUR (original: 22.8 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003ZIK7IY/?tag=tolees-21'
 descuento: '70.05'
+average: '5.93'
 ---
 
 Está [Max Factor False Lash Effect Fusion  Mascara  Negro  13 1 ml](https://www.amazon.es/dp/B003ZIK7IY/?tag=tolees-21) con 70.05 de descuento por 5.93 EUR (original: 19.8 EUR) en el siguiente enlace!

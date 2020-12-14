@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01CPK84AU/?tag=tolees-21'
 descuento: '55.07'
+average: '17.95'
 ---
 
 Está [Coninx Spicero Especiero Giratorio | 12 Botes de Cristal con Tapas de Plástico | 14.9cm x 14.9cm x 32.9cm | Organizador de Especias](https://www.amazon.es/dp/B01CPK84AU/?tag=tolees-21) con 55.07 de descuento por 17.95 EUR (original: 39.95 EUR) en el siguiente enlace!

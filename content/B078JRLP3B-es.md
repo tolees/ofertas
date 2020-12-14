@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078JRLP3B/?tag=tolees-21'
 descuento: '65.62'
+average: '44.7'
 ---
 
 Tienes [Nike Odyssey React  Zapatillas de Gimnasia para Hombre  Gris  Thunder Grey/Gun Smoke/Black/GE 007   45.5 EU](https://www.amazon.es/dp/B078JRLP3B/?tag=tolees-21) con un 65.62 % de descuento con precio de oferta de 44.7 EUR (original: 130 EUR) en el siguiente enlace!

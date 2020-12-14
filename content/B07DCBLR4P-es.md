@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DCBLR4P/?tag=tolees-21'
 descuento: '78.61'
+average: '21.38'
 ---
 
 Ahora mismo tienes [Puma Te- KU  Zapatillas Unisex Adulto  Beige  Taos Taupe   44.5 EU](https://www.amazon.es/dp/B07DCBLR4P/?tag=tolees-21) a 21.38 EUR (original: 99.95 EUR) (78.61 %  de descuento) en el siguiente enlace!

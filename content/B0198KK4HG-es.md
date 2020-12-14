@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0198KK4HG/?tag=tolees-21'
 descuento: '58.88'
+average: '7.99'
 ---
 
 Está [El Puente De Los Espías [Blu-ray]](https://www.amazon.es/dp/B0198KK4HG/?tag=tolees-21) con 58.88 de descuento por 7.99 EUR (original: 19.43 EUR) en el siguiente enlace!

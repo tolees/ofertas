@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004SGKMA0/?tag=tolees-21'
 descuento: '33.94'
+average: '6.54'
 ---
 
 Está [Derby E1 - Pack de 100 hojas en acero inoxidable](https://www.amazon.es/dp/B004SGKMA0/?tag=tolees-21) con 33.94 de descuento por 6.54 EUR (original: 9.9 EUR) en el siguiente enlace!

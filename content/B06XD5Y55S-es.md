@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XD5Y55S/?tag=tolees-21'
 descuento: '33.85'
+average: '30.8'
 ---
 
 Tienes [Rochas Mademoiselle Rochas Perfume - 50 ml](https://www.amazon.es/dp/B06XD5Y55S/?tag=tolees-21) con un 33.85 % de descuento con precio de oferta de 30.8 EUR (original: 46.56 EUR) en el siguiente enlace!

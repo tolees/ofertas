@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0006HCVTU/?tag=tolees-21'
 descuento: '78.00'
+average: '5.19'
 ---
 
 Tienes [Penn State-Opoly](https://www.amazon.es/dp/B0006HCVTU/?tag=tolees-21) con un 78.00 % de descuento con precio de oferta de 5.19 EUR (original: 23.59 EUR) en el siguiente enlace!

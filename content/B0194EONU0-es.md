@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0194EONU0/?tag=tolees-21'
 descuento: '33.31'
+average: '59.95'
 ---
 
 Ahora mismo tienes [Casio Reloj Analógico para Unisex de Cuarzo con Correa en Acero Inoxidable LTP-E117G-9AEF](https://www.amazon.es/dp/B0194EONU0/?tag=tolees-21) a 59.95 EUR (original: 89.9 EUR) (33.31 %  de descuento) en el siguiente enlace!

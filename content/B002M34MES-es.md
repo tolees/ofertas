@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002M34MES/?tag=tolees-21'
 descuento: '31.81'
+average: '122.06'
 ---
 
 Tienes [Pontec MultiClear Set 5000 - Filtro compacto de gravedad](https://www.amazon.es/dp/B002M34MES/?tag=tolees-21) con un 31.81 % de descuento con precio de oferta de 122.06 EUR (original: 179 EUR) en el siguiente enlace!

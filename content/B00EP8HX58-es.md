@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00EP8HX58/?tag=tolees-21'
 descuento: '47.07'
+average: '28'
 ---
 
 Tienes [Hoover - Steamjet Handy SSNH 1000 - Vaporeta  Potencia 1000W - Muy Ligera y Potente - Múltiples Accesorios Incluidos](https://www.amazon.es/dp/B00EP8HX58/?tag=tolees-21) con un 47.07 % de descuento con precio de oferta de 28 EUR (original: 52.9 EUR) en el siguiente enlace!

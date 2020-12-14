@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0116NX3GM/?tag=tolees-21'
 descuento: '45.73'
+average: '18.99'
 ---
 
 Ahora mismo tienes [Ultrasport  Pantalones deportivos 3/4 para Mujer  Negro/Neon Rosa  M](https://www.amazon.es/dp/B0116NX3GM/?tag=tolees-21) a 18.99 EUR (original: 34.99 EUR) (45.73 %  de descuento) en el siguiente enlace!

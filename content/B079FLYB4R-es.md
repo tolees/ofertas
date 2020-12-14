@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079FLYB4R/?tag=tolees-21'
 descuento: '50.08'
+average: '14.95'
 ---
 
 Ahora mismo tienes [South Park: La Vara De La Verdad](https://www.amazon.es/dp/B079FLYB4R/?tag=tolees-21) a 14.95 EUR (original: 29.95 EUR) (50.08 %  de descuento) en el siguiente enlace!

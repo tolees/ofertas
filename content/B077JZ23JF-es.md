@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077JZ23JF/?tag=tolees-21'
 descuento: '44.43'
+average: '3.99'
 ---
 
 Está [MagiDeal Carillón de Viento de Cobre Estilo Chino Feng Shui Antiguo Campana Decoración Hogar Mascota Fortuna](https://www.amazon.es/dp/B077JZ23JF/?tag=tolees-21) con 44.43 de descuento por 3.99 EUR (original: 7.18 EUR) en el siguiente enlace!

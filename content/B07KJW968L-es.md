@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KJW968L/?tag=tolees-21'
 descuento: '45.32'
+average: '16.4'
 ---
 
 Tienes [Quiksilver Everyday Shorts  Hombre  Cadmium Orange  XL](https://www.amazon.es/dp/B07KJW968L/?tag=tolees-21) con un 45.32 % de descuento con precio de oferta de 16.4 EUR (original: 29.99 EUR) en el siguiente enlace!

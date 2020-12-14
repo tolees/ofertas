@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ9ZM1Z/?tag=tolees-21'
 descuento: '42.51'
+average: '22.99'
 ---
 
 Ahora mismo tienes [Under Armour Favorite Duffel Bolsa Deportiva  Mujer  Gris  Tetra Gray/Black/Ink 015   Talla única](https://www.amazon.es/dp/B07CZ9ZM1Z/?tag=tolees-21) a 22.99 EUR (original: 39.99 EUR) (42.51 %  de descuento) en el siguiente enlace!

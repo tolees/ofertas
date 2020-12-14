@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K7QSVDK/?tag=tolees-21'
 descuento: '40.52'
+average: '29.74'
 ---
 
 Ahora mismo tienes [Asics Jolt 2  Zapatillas de Running para Hombre  Azul Imperial 400  44 EU](https://www.amazon.es/dp/B07K7QSVDK/?tag=tolees-21) a 29.74 EUR (original: 50 EUR) (40.52 %  de descuento) en el siguiente enlace!

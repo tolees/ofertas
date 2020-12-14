@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B012X8W7OS/?tag=tolees-21'
 descuento: '54.79'
+average: '4.95'
 ---
 
 Tienes [Alverlamp LPRO1041_C - Proyector led 10w 4000k](https://www.amazon.es/dp/B012X8W7OS/?tag=tolees-21) con un 54.79 % de descuento con precio de oferta de 4.95 EUR (original: 10.95 EUR) en el siguiente enlace!

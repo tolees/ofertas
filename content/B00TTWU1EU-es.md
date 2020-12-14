@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TTWU1EU/?tag=tolees-21'
 descuento: '38.72'
+average: '6.68'
 ---
 
 Está [Farmatint Gel 8N Rubio Claro. Tinte permanente. Cabello natural y color duradero. Sin amoníaco ni parabenes ni parafinas ni siliconas. Coloración natural para el pelo fácil de aplicar.](https://www.amazon.es/dp/B00TTWU1EU/?tag=tolees-21) con 38.72 de descuento por 6.68 EUR (original: 10.9 EUR) en el siguiente enlace!

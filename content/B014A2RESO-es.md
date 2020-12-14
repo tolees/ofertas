@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B014A2RESO/?tag=tolees-21'
 descuento: '46.58'
+average: '11.95'
 ---
 
 Está [LOQI Museum Gustav Klimt The Fulfilment Bag Bolsa de Tela y Playa  50 cm  20 Liters   Multicolour ](https://www.amazon.es/dp/B014A2RESO/?tag=tolees-21) con 46.58 de descuento por 11.95 EUR (original: 22.37 EUR) en el siguiente enlace!

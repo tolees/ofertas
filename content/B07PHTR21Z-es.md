@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PHTR21Z/?tag=tolees-21'
 descuento: '51.70'
+average: '4.83'
 ---
 
 Está [Astor Perfect Stay  Esmalte de uñas  Tono 141 Lovely Oxblood  - 12 ml.](https://www.amazon.es/dp/B07PHTR21Z/?tag=tolees-21) con 51.70 de descuento por 4.83 EUR (original: 10 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000XCMGMA/?tag=tolees-21'
 descuento: '56.42'
+average: '566.08'
 ---
 
 Tienes [Olympus 50-200 mm f/2.8-3.5 ED Zuiko Digital - Objetivo para Cuatro tercios  Distancia Focal 50-200mm  Apertura f/2.8  Color Negro](https://www.amazon.es/dp/B000XCMGMA/?tag=tolees-21) con un 56.42 % de descuento con precio de oferta de 566.08 EUR (original: 1299 EUR) en el siguiente enlace!

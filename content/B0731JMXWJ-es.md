@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0731JMXWJ/?tag=tolees-21'
 descuento: '72.37'
+average: '54.99'
 ---
 
 Ahora mismo tienes [Versace 1969 Albornoz  Gris  Large - XL](https://www.amazon.es/dp/B0731JMXWJ/?tag=tolees-21) a 54.99 EUR (original: 199 EUR) (72.37 %  de descuento) en el siguiente enlace!

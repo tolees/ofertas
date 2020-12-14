@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F25QHDL/?tag=tolees-21'
 descuento: '57.48'
+average: '25.51'
 ---
 
 Ahora mismo tienes [K-Swiss Court Clarkson S Se  Zapatillas para Mujer  Blanco  Wht/Ultviolt/Vlt 191   38 EU](https://www.amazon.es/dp/B07F25QHDL/?tag=tolees-21) a 25.51 EUR (original: 59.99 EUR) (57.48 %  de descuento) en el siguiente enlace!

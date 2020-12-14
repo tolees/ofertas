@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00CBQSG3O/?tag=tolees-21'
 descuento: '34.80'
+average: '299'
 ---
 
 Tienes [Brother MFC-9330CDW - Impresora multifunción láser color  LED  fax  WiFi  impresión automática a doble cara ](https://www.amazon.es/dp/B00CBQSG3O/?tag=tolees-21) con un 34.80 % de descuento con precio de oferta de 299 EUR (original: 458.59 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074YCNWYC/?tag=tolees-21'
 descuento: '81.60'
+average: '14.72'
 ---
 
 Ahora mismo tienes [ESPRIT Collection 117eo2b007  Pantalones Hombre  Azul  Navy 400   52](https://www.amazon.es/dp/B074YCNWYC/?tag=tolees-21) a 14.72 EUR (original: 79.99 EUR) (81.60 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FVVXCZ5/?tag=tolees-21'
 descuento: '52.50'
+average: '75.99'
 ---
 
 Tienes [homgeek horno de microondas con frontal de espejo  20L  700W  6 niveles  color negro](https://www.amazon.es/dp/B07FVVXCZ5/?tag=tolees-21) con un 52.50 % de descuento con precio de oferta de 75.99 EUR (original: 159.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DYC68HB/?tag=tolees-21'
 descuento: '47.61'
+average: '20.95'
 ---
 
 Tienes [Roxy Flora II  Alpargata para Mujer  Rosa  Blush Bsh   37 EU](https://www.amazon.es/dp/B07DYC68HB/?tag=tolees-21) con un 47.61 % de descuento con precio de oferta de 20.95 EUR (original: 39.99 EUR) en el siguiente enlace!

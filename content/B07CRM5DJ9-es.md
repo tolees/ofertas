@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CRM5DJ9/?tag=tolees-21'
 descuento: '64.97'
+average: '8.74'
 ---
 
 Tienes [Selene Almudena Sujetador con Aros  Mujer  Azul  Azul   95  Tamaño del Fabricante:C.95 ](https://www.amazon.es/dp/B07CRM5DJ9/?tag=tolees-21) con un 64.97 % de descuento con precio de oferta de 8.74 EUR (original: 24.95 EUR) en el siguiente enlace!

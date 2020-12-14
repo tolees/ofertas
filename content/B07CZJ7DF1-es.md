@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZJ7DF1/?tag=tolees-21'
 descuento: '42.87'
+average: '19.99'
 ---
 
 Tienes [Under Armour Tech 3In 2 Pack Ropa Interior  Hombre  Azul  Royal/Academy 400   XL](https://www.amazon.es/dp/B07CZJ7DF1/?tag=tolees-21) con un 42.87 % de descuento con precio de oferta de 19.99 EUR (original: 34.99 EUR) en el siguiente enlace!

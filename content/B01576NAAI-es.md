@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01576NAAI/?tag=tolees-21'
 descuento: '49.24'
+average: '35.02'
 ---
 
 Está [Apple Silicone Case - Bolsa iPad Mini 4  Color Naranja](https://www.amazon.es/dp/B01576NAAI/?tag=tolees-21) con 49.24 de descuento por 35.02 EUR (original: 68.99 EUR) en el siguiente enlace!

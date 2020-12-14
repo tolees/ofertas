@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00M2MYI52/?tag=tolees-21'
 descuento: '66.73'
+average: '7.49'
 ---
 
 Tienes [Pompeya  BD 3D + BD  [Blu-ray]](https://www.amazon.es/dp/B00M2MYI52/?tag=tolees-21) con un 66.73 % de descuento con precio de oferta de 7.49 EUR (original: 22.51 EUR) en el siguiente enlace!

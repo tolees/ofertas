@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076CSBDSR/?tag=tolees-21'
 descuento: '46.28'
+average: '85.41'
 ---
 
 Está [SAMSONITE Duosphere - Upright 55/20 Expandable Length 35cm Equipaje de Mano  55 cm  34 Liters  Rojo  Granita Red ](https://www.amazon.es/dp/B076CSBDSR/?tag=tolees-21) con 46.28 de descuento por 85.41 EUR (original: 159 EUR) en el siguiente enlace!

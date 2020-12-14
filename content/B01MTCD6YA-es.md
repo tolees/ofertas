@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MTCD6YA/?tag=tolees-21'
 descuento: '26.09'
+average: '21.47'
 ---
 
 Está [Vichy Idéalia Crème de Lumière Lissante Tratamiento Facial - 50 ml](https://www.amazon.es/dp/B01MTCD6YA/?tag=tolees-21) con 26.09 de descuento por 21.47 EUR (original: 29.05 EUR) en el siguiente enlace!

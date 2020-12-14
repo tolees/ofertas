@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IAOLFCA/?tag=tolees-21'
 descuento: '51.39'
+average: '21.33'
 ---
 
 Tienes [Casio Reloj de Pulsera AE-1300WH-2AVEF](https://www.amazon.es/dp/B00IAOLFCA/?tag=tolees-21) con un 51.39 % de descuento con precio de oferta de 21.33 EUR (original: 43.88 EUR) en el siguiente enlace!

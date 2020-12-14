@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N3X7KXD/?tag=tolees-21'
 descuento: '49.63'
+average: '5.49'
 ---
 
 Ahora mismo tienes [Root Retoucher - Spray Retoca Raíces Color Castaño Oscuro - 2 uds - Schwarzkopf](https://www.amazon.es/dp/B07N3X7KXD/?tag=tolees-21) a 5.49 EUR (original: 10.9 EUR) (49.63 %  de descuento) en el siguiente enlace!

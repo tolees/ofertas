@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KQL7DGQ/?tag=tolees-21'
 descuento: '33.83'
+average: '63.52'
 ---
 
 Ahora mismo tienes [Safety 1st MINI DREAMS  Happy Day  - Cuna de Viaje  color beige - Cuna de viaje](https://www.amazon.es/dp/B07KQL7DGQ/?tag=tolees-21) a 63.52 EUR (original: 96 EUR) (33.83 %  de descuento) en el siguiente enlace!

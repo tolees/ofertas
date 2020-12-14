@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073HD7XWC/?tag=tolees-21'
 descuento: '30.01'
+average: '20.99'
 ---
 
 Ahora mismo tienes [Set de 6  seis  Perfumes para Mujer 15ml Cada uno en caja con spray.  Eau de Parfum  Vip Edición](https://www.amazon.es/dp/B073HD7XWC/?tag=tolees-21) a 20.99 EUR (original: 29.99 EUR) (30.01 %  de descuento) en el siguiente enlace!

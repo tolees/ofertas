@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MDUIHA5/?tag=tolees-21'
 descuento: '51.17'
+average: '72.76'
 ---
 
 Tienes [Festina Reloj Multiesfera para Hombre de Cuarzo con Correa en Cuero F16990/1](https://www.amazon.es/dp/B01MDUIHA5/?tag=tolees-21) con un 51.17 % de descuento con precio de oferta de 72.76 EUR (original: 149 EUR) en el siguiente enlace!

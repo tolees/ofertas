@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003N03USS/?tag=tolees-21'
 descuento: '49.22'
+average: '22.85'
 ---
 
 Tienes [Casio Reloj Digital para Unisex de Automático con Correa en Acero Inoxidable Chapado en Platino A-178WA-1](https://www.amazon.es/dp/B003N03USS/?tag=tolees-21) con un 49.22 % de descuento con precio de oferta de 22.85 EUR (original: 45 EUR) en el siguiente enlace!

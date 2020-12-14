@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MZC5LGL/?tag=tolees-21'
 descuento: '37.06'
+average: '44.03'
 ---
 
 Tienes [Skechers Matrixx  Entrenadores para Mujer  Negro  Black/White   37 EU](https://www.amazon.es/dp/B01MZC5LGL/?tag=tolees-21) con un 37.06 % de descuento con precio de oferta de 44.03 EUR (original: 69.95 EUR) en el siguiente enlace!

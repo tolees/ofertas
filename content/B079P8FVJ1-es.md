@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079P8FVJ1/?tag=tolees-21'
 descuento: '60.80'
+average: '23.5'
 ---
 
 Está [Bugatti 3.415E+11  Zapatillas para Hombre  Verde  Green 7000   41 EU](https://www.amazon.es/dp/B079P8FVJ1/?tag=tolees-21) con 60.80 de descuento por 23.5 EUR (original: 59.95 EUR) en el siguiente enlace!

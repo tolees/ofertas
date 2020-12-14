@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FZBFLFM/?tag=tolees-21'
 descuento: '78.67'
+average: '17.05'
 ---
 
 Está [Tamaris 26240  Zapatillas Altas para Mujer  Marrón  Taupe Comb 344   37 EU](https://www.amazon.es/dp/B01FZBFLFM/?tag=tolees-21) con 78.67 de descuento por 17.05 EUR (original: 79.94 EUR) en el siguiente enlace!

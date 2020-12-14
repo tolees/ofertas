@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00FF1EBLS/?tag=tolees-21'
 descuento: '68.76'
+average: '24.99'
 ---
 
 Está [Mad Catz - Auricular Tritton Kunai Mobile  Color Negro  iPhone  iPad  iPod ](https://www.amazon.es/dp/B00FF1EBLS/?tag=tolees-21) con 68.76 de descuento por 24.99 EUR (original: 79.99 EUR) en el siguiente enlace!

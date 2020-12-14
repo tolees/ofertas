@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D1T6Y7K/?tag=tolees-21'
 descuento: '64.72'
+average: '9.99'
 ---
 
 Tienes [edc by Esprit Petula Sexy Padded  Sujetador Mujer  Morado  Dark Lavender 530   95C  Talla del Fabricante: 80C ](https://www.amazon.es/dp/B07D1T6Y7K/?tag=tolees-21) con un 64.72 % de descuento con precio de oferta de 9.99 EUR (original: 28.32 EUR) en el siguiente enlace!

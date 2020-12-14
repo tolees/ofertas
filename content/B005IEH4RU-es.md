@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005IEH4RU/?tag=tolees-21'
 descuento: '55.88'
+average: '4.39'
 ---
 
 Tienes [Bourjois Effect 3d Gloss Gloss Tono 20 Rose symphonic - 21 gr.](https://www.amazon.es/dp/B005IEH4RU/?tag=tolees-21) con un 55.88 % de descuento con precio de oferta de 4.39 EUR (original: 9.95 EUR) en el siguiente enlace!

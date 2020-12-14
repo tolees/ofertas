@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K6L91ZX/?tag=tolees-21'
 descuento: '35.46'
+average: '41.95'
 ---
 
 Ahora mismo tienes [Asics Aaron  Zapatillas de Gimnasia para Hombre   Midnight/Light Steel 401   44 EU](https://www.amazon.es/dp/B07K6L91ZX/?tag=tolees-21) a 41.95 EUR (original: 65 EUR) (35.46 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BF5THKF/?tag=tolees-21'
 descuento: '66.37'
+average: '32.38'
 ---
 
 Tienes [Hollow Knight OST [VINYL] [Vinilo]](https://www.amazon.es/dp/B07BF5THKF/?tag=tolees-21) con un 66.37 % de descuento con precio de oferta de 32.38 EUR (original: 96.29 EUR) en el siguiente enlace!

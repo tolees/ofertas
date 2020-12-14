@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00XAGC388/?tag=tolees-21'
 descuento: '49.27'
+average: '8.7'
 ---
 
 Está [Olay 2 en 1 Crema facial Anti-edad + Sérum reafirmante Firmeza & Efecto Lifting 50 ml](https://www.amazon.es/dp/B00XAGC388/?tag=tolees-21) con 49.27 de descuento por 8.7 EUR (original: 17.15 EUR) en el siguiente enlace!

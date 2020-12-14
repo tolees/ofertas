@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F17JLQR/?tag=tolees-21'
 descuento: '67.01'
+average: '23.08'
 ---
 
 Tienes [Mustang High Top Sneaker  Zapatillas Altas para Hombre  Gris  Graphit 259   43 EU](https://www.amazon.es/dp/B07F17JLQR/?tag=tolees-21) con un 67.01 % de descuento con precio de oferta de 23.08 EUR (original: 69.95 EUR) en el siguiente enlace!

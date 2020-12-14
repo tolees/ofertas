@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005DWMPYE/?tag=tolees-21'
 descuento: '39.67'
+average: '16.29'
 ---
 
 Ahora mismo tienes [Philips MyHomeOffice Flexo E27  11 W  Blanco](https://www.amazon.es/dp/B005DWMPYE/?tag=tolees-21) a 16.29 EUR (original: 27 EUR) (39.67 %  de descuento) en el siguiente enlace!

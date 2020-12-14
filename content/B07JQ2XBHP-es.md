@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JQ2XBHP/?tag=tolees-21'
 descuento: '38.89'
+average: '54.99'
 ---
 
 Tienes [Vacuum sealers](https://www.amazon.es/dp/B07JQ2XBHP/?tag=tolees-21) con un 38.89 % de descuento con precio de oferta de 54.99 EUR (original: 89.99 EUR) en el siguiente enlace!

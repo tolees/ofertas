@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D4TH2GZ/?tag=tolees-21'
 descuento: '54.82'
+average: '15.79'
 ---
 
 Está [Kappa Cammy Fur  Náuticos Unisex Niños   Beige/Brown 4150   26 EU](https://www.amazon.es/dp/B07D4TH2GZ/?tag=tolees-21) con 54.82 de descuento por 15.79 EUR (original: 34.95 EUR) en el siguiente enlace!

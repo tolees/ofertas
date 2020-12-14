@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00NL7PJGY/?tag=tolees-21'
 descuento: '68.15'
+average: '15.8'
 ---
 
 Está [MAURER - Mantel Hule Rollo 140cmx20m Flores Color](https://www.amazon.es/dp/B00NL7PJGY/?tag=tolees-21) con 68.15 de descuento por 15.8 EUR (original: 49.6 EUR) en el siguiente enlace!

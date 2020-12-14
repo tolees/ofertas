@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JNNJK3F/?tag=tolees-21'
 descuento: '33.33'
+average: '17.92'
 ---
 
 Está [Curren Original para Mujer  Deportes  Deportes  Acero Inoxidable  Cuarzo  Calendario  Fecha  Reloj de Pulsera 9010](https://www.amazon.es/dp/B07JNNJK3F/?tag=tolees-21) con 33.33 de descuento por 17.92 EUR (original: 26.88 EUR) en el siguiente enlace!

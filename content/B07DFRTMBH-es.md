@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFRTMBH/?tag=tolees-21'
 descuento: '56.65'
+average: '20.81'
 ---
 
 Está [Calvin Klein Plunge  Sujetador con Push-up para Mujer  Rosa  Silver Rose SVR  80B  Talla del Fabricante: 0B30 ](https://www.amazon.es/dp/B07DFRTMBH/?tag=tolees-21) con 56.65 de descuento por 20.81 EUR (original: 48 EUR) en el siguiente enlace!

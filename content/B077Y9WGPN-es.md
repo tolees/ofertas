@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077Y9WGPN/?tag=tolees-21'
 descuento: '26.20'
+average: '169'
 ---
 
 Ahora mismo tienes [Ring Spotlight Cam Battery | Cámara de seguridad HD con foco LED  alarma  comunicación bidireccional  funciona con batería](https://www.amazon.es/dp/B077Y9WGPN/?tag=tolees-21) a 169 EUR (original: 229 EUR) (26.20 %  de descuento) en el siguiente enlace!

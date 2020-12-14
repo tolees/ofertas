@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJKV3XM/?tag=tolees-21'
 descuento: '43.63'
+average: '22.52'
 ---
 
 Está [Dockers by Gerli 38pd209  Zapatillas para Mujer  Gris  Dunkelgrau 220   38 EU](https://www.amazon.es/dp/B07DJKV3XM/?tag=tolees-21) con 43.63 de descuento por 22.52 EUR (original: 39.95 EUR) en el siguiente enlace!

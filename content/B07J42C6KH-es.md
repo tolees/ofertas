@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J42C6KH/?tag=tolees-21'
 descuento: '47.49'
+average: '13.61'
 ---
 
 Está [Dim Soutien-Gorge Triangle Sans Armature Mod Sujetador sin Aros  Negro  Noir 0Hz   Small para Mujer](https://www.amazon.es/dp/B07J42C6KH/?tag=tolees-21) con 47.49 de descuento por 13.61 EUR (original: 25.92 EUR) en el siguiente enlace!

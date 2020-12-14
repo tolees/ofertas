@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G5MDVXD/?tag=tolees-21'
 descuento: '36.68'
+average: '18.99'
 ---
 
 Tienes [DADYPET Luz Led Acuario  Iluminación LED para Acuarios Lámpara para Peceras Incluye Enchufe Tamaño S  M  L  M ](https://www.amazon.es/dp/B07G5MDVXD/?tag=tolees-21) con un 36.68 % de descuento con precio de oferta de 18.99 EUR (original: 29.99 EUR) en el siguiente enlace!

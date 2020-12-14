@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GF3WLJS/?tag=tolees-21'
 descuento: '27.74'
+average: '129'
 ---
 
 Está [Festina Reloj de Pulsera F20370/6](https://www.amazon.es/dp/B07GF3WLJS/?tag=tolees-21) con 27.74 de descuento por 129 EUR (original: 178.51 EUR) en el siguiente enlace!

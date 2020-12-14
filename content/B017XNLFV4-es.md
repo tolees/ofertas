@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017XNLFV4/?tag=tolees-21'
 descuento: '32.24'
+average: '40.65'
 ---
 
 Tienes [Ingenuity Sunny Snuggles - Hamaca con vibración](https://www.amazon.es/dp/B017XNLFV4/?tag=tolees-21) con un 32.24 % de descuento con precio de oferta de 40.65 EUR (original: 59.99 EUR) en el siguiente enlace!

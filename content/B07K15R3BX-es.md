@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K15R3BX/?tag=tolees-21'
 descuento: '30.03'
+average: '6.99'
 ---
 
 Está [Mpow Brazalete Deportivo Móvil para Correr  Brazalete Deportivo para iPhone XS/X/6/7/8/6S  Huawei  Samsung  hasta 5 8 Pulgadas   Lavable Brazalete Running  Soporte a Llaves  Cables  y Tarjetas](https://www.amazon.es/dp/B07K15R3BX/?tag=tolees-21) con 30.03 de descuento por 6.99 EUR (original: 9.99 EUR) en el siguiente enlace!

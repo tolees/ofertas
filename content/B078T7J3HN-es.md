@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078T7J3HN/?tag=tolees-21'
 descuento: '44.71'
+average: '33.12'
 ---
 
 Está [Hilfiger Denim Tommy Jeans Textile Sneaker  Zapatillas para Hombre  Gris  Ink 006   42 EU](https://www.amazon.es/dp/B078T7J3HN/?tag=tolees-21) con 44.71 de descuento por 33.12 EUR (original: 59.9 EUR) en el siguiente enlace!

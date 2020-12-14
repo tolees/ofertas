@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0721CGTS5/?tag=tolees-21'
 descuento: '48.50'
+average: '46.32'
 ---
 
 Tienes [BOSS Hugo Kingfish 10194145 01  Bañador Hombre   Open Blue 462   Large](https://www.amazon.es/dp/B0721CGTS5/?tag=tolees-21) con un 48.50 % de descuento con precio de oferta de 46.32 EUR (original: 89.95 EUR) en el siguiente enlace!

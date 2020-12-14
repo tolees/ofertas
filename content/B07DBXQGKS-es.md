@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DBXQGKS/?tag=tolees-21'
 descuento: '42.49'
+average: '34.48'
 ---
 
 Está [Puma Adela  Zapatillas para Mujer  Rosa Peach Bud  37 EU](https://www.amazon.es/dp/B07DBXQGKS/?tag=tolees-21) con 42.49 de descuento por 34.48 EUR (original: 59.95 EUR) en el siguiente enlace!

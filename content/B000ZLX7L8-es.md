@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000ZLX7L8/?tag=tolees-21'
 descuento: '29.32'
+average: '36.4'
 ---
 
 Tienes [Lancôme Hydra Zen Neurocalm Yeux Contorno de Ojos - 15 ml](https://www.amazon.es/dp/B000ZLX7L8/?tag=tolees-21) con un 29.32 % de descuento con precio de oferta de 36.4 EUR (original: 51.5 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KTQWWWN/?tag=tolees-21'
 descuento: '64.89'
+average: '64.91'
 ---
 
 Está [LIU JO Shoes Karlie 14-Sneaker Met Leath Slv  Zapatillas para Mujer  Plateado  Silver 00532   35 EU](https://www.amazon.es/dp/B07KTQWWWN/?tag=tolees-21) con 64.89 de descuento por 64.91 EUR (original: 184.9 EUR) en el siguiente enlace!

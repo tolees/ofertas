@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00YO30YXM/?tag=tolees-21'
 descuento: '48.29'
+average: '6.2'
 ---
 
 Tienes [adidas per Crew T 3Pp Socks  Hombre  Negro/Blanco  43/46](https://www.amazon.es/dp/B00YO30YXM/?tag=tolees-21) con un 48.29 % de descuento con precio de oferta de 6.2 EUR (original: 11.99 EUR) en el siguiente enlace!

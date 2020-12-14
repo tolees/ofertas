@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JZQFBP9/?tag=tolees-21'
 descuento: '25.04'
+average: '89.92'
 ---
 
 Está [adidas Stan Smith New Bold W  Zapatillas de Gimnasia para Mujer  Blanco FTWR Off White/Supplier Colour  42 EU](https://www.amazon.es/dp/B07JZQFBP9/?tag=tolees-21) con 25.04 de descuento por 89.92 EUR (original: 119.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DKK4CTB/?tag=tolees-21'
 descuento: '54.35'
+average: '38.8'
 ---
 
 Ahora mismo tienes [Kipling - Earthbeat M  Bolsos bandolera Mujer  Multicolor  Dynamic Dots ](https://www.amazon.es/dp/B07DKK4CTB/?tag=tolees-21) a 38.8 EUR (original: 85 EUR) (54.35 %  de descuento) en el siguiente enlace!

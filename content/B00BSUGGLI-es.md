@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00BSUGGLI/?tag=tolees-21'
 descuento: '35.08'
+average: '20.86'
 ---
 
 Tienes [Edding 550-004 - Marcador permanente con punta redonda  trazo de 3-4 mm  10 unidades  color verde](https://www.amazon.es/dp/B00BSUGGLI/?tag=tolees-21) con un 35.08 % de descuento con precio de oferta de 20.86 EUR (original: 32.13 EUR) en el siguiente enlace!

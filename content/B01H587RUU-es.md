@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01H587RUU/?tag=tolees-21'
 descuento: '66.16'
+average: '19.67'
 ---
 
 Tienes [Blend 20701422  Cárdigan para Hombre  Gris L](https://www.amazon.es/dp/B01H587RUU/?tag=tolees-21) con un 66.16 % de descuento con precio de oferta de 19.67 EUR (original: 58.12 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00V3JX2PM/?tag=tolees-21'
 descuento: '44.30'
+average: '10.95'
 ---
 
 Ahora mismo tienes [VICHY Homme Desodorante Anti-transpirante Triple DifusiÃ³n 150ML](https://www.amazon.es/dp/B00V3JX2PM/?tag=tolees-21) a 10.95 EUR (original: 19.66 EUR) (44.30 %  de descuento) en el siguiente enlace!

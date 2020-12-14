@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IRD8HPC/?tag=tolees-21'
 descuento: '59.03'
+average: '17.17'
 ---
 
 Ahora mismo tienes [Senscience Champú - 1000 ml](https://www.amazon.es/dp/B00IRD8HPC/?tag=tolees-21) a 17.17 EUR (original: 41.91 EUR) (59.03 %  de descuento) en el siguiente enlace!

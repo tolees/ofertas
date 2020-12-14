@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JYLL5CM/?tag=tolees-21'
 descuento: '63.26'
+average: '12.84'
 ---
 
 Tienes [adidas Altasport K Zapatillas de Gimnasia Unisex Niños  Rosa  Active Pink/Ftwr White/True Pink Active Pink/Ftwr White/True Pink   30 EU  11.5 UK ](https://www.amazon.es/dp/B07JYLL5CM/?tag=tolees-21) con un 63.26 % de descuento con precio de oferta de 12.84 EUR (original: 34.95 EUR) en el siguiente enlace!

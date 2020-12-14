@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0191NDGZC/?tag=tolees-21'
 descuento: '45.64'
+average: '29.9'
 ---
 
 Ahora mismo tienes [New Balance 390v2  Zapatillas de Running para Hombre  Azul  Navy/White   44.5 EU](https://www.amazon.es/dp/B0191NDGZC/?tag=tolees-21) a 29.9 EUR (original: 55 EUR) (45.64 %  de descuento) en el siguiente enlace!

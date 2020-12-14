@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078P2QDSN/?tag=tolees-21'
 descuento: '26.88'
+average: '51.18'
 ---
 
 Ahora mismo tienes [Nike JR Superfly 6 Academy GS TF  Zapatillas de fútbol Sala Unisex niño  Negro Black 001  35 EU](https://www.amazon.es/dp/B078P2QDSN/?tag=tolees-21) a 51.18 EUR (original: 69.99 EUR) (26.88 %  de descuento) en el siguiente enlace!

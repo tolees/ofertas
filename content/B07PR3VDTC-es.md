@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PR3VDTC/?tag=tolees-21'
 descuento: '89.91'
+average: '9.99'
 ---
 
 Está [Excelvan USB Módulo de Huella Digital para Windows 7/8.1/10](https://www.amazon.es/dp/B07PR3VDTC/?tag=tolees-21) con 89.91 de descuento por 9.99 EUR (original: 99 EUR) en el siguiente enlace!

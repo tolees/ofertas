@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078P84NFK/?tag=tolees-21'
 descuento: '33.33'
+average: '139.09'
 ---
 
 Tienes [Xiaomi Mi A1 - Smartphone   Dual-SIM  4G  32GB  Rosa/Oro- [Versión europea]](https://www.amazon.es/dp/B078P84NFK/?tag=tolees-21) con un 33.33 % de descuento con precio de oferta de 139.09 EUR (original: 208.64 EUR) en el siguiente enlace!

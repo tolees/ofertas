@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071J4WZHG/?tag=tolees-21'
 descuento: '65.48'
+average: '24.15'
 ---
 
 Tienes [DC Shoes Harpoon V Botas Clasicas Hombre  Beige  Tan - Solid   45 EU](https://www.amazon.es/dp/B071J4WZHG/?tag=tolees-21) con un 65.48 % de descuento con precio de oferta de 24.15 EUR (original: 69.95 EUR) en el siguiente enlace!

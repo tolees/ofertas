@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LD4K9FC/?tag=tolees-21'
 descuento: '25.01'
+average: '12.74'
 ---
 
 Ahora mismo tienes [Levivo Set de Cocina con Soporte de Madera de Bambú - Conjunto de Utensilios de Cocina con Especiero Magnético Integrado - Set de Cocina  aprox. 27 x 13 x 8 cm](https://www.amazon.es/dp/B01LD4K9FC/?tag=tolees-21) a 12.74 EUR (original: 16.99 EUR) (25.01 %  de descuento) en el siguiente enlace!

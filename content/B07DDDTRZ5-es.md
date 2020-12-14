@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DDDTRZ5/?tag=tolees-21'
 descuento: '56.23'
+average: '13.95'
 ---
 
 Tienes [Odlo Niños SUW Bottom Pant Active Originals Kids Unterhose  otoño/Invierno  Infantil  Color Hibiscus  tamaño 140](https://www.amazon.es/dp/B07DDDTRZ5/?tag=tolees-21) con un 56.23 % de descuento con precio de oferta de 13.95 EUR (original: 31.87 EUR) en el siguiente enlace!

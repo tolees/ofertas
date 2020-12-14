@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01AHZGX7G/?tag=tolees-21'
 descuento: '33.16'
+average: '167.69'
 ---
 
 Ahora mismo tienes [Faro Barcelona 33498 - PHUKET Ventilador de techo con luz  bombilla incluida  LED  12W  cuerpo de acero 3 palas blancas de abs difusor de cristal opal  color blanco](https://www.amazon.es/dp/B01AHZGX7G/?tag=tolees-21) a 167.69 EUR (original: 250.89 EUR) (33.16 %  de descuento) en el siguiente enlace!

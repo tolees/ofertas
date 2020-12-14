@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00HGP37XY/?tag=tolees-21'
 descuento: '37.77'
+average: '11.17'
 ---
 
 Está [Joma Suez Pantalones  Hombre  Azul Marino  12](https://www.amazon.es/dp/B00HGP37XY/?tag=tolees-21) con 37.77 de descuento por 11.17 EUR (original: 17.95 EUR) en el siguiente enlace!

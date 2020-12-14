@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078WZKK92/?tag=tolees-21'
 descuento: '49.99'
+average: '35'
 ---
 
 Ahora mismo tienes [Nike Sneaker MD Runner 2 Eng  Zapatillas de Entrenamiento para Hombre  Negro  Black/White-Gunsmoke 004   40 EU](https://www.amazon.es/dp/B078WZKK92/?tag=tolees-21) a 35 EUR (original: 69.99 EUR) (49.99 %  de descuento) en el siguiente enlace!

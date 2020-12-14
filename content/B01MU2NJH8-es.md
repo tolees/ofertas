@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MU2NJH8/?tag=tolees-21'
 descuento: '25.01'
+average: '22.49'
 ---
 
 Ahora mismo tienes [Bruzzzler 1147 Juego para Barbacoa  Plata 44.5x21.5x9.5 cm](https://www.amazon.es/dp/B01MU2NJH8/?tag=tolees-21) a 22.49 EUR (original: 29.99 EUR) (25.01 %  de descuento) en el siguiente enlace!

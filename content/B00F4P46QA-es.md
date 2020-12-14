@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00F4P46QA/?tag=tolees-21'
 descuento: '30.15'
+average: '6.95'
 ---
 
 Ahora mismo tienes [Inflador Manual Bestway Air Hammer Inflation Pump 30 cm](https://www.amazon.es/dp/B00F4P46QA/?tag=tolees-21) a 6.95 EUR (original: 9.95 EUR) (30.15 %  de descuento) en el siguiente enlace!

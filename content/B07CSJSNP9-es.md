@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CSJSNP9/?tag=tolees-21'
 descuento: '53.35'
+average: '13.99'
 ---
 
 Está [Botella de Agua Deportiva de Acero Inoxidable Hermético - Mantiene el Calor y el Frio Doble Pared Aislamiento Impermeable Reutilizable 500ml – Apto para Coche Gimnasio Yoga Oficina Camping Ciclismo](https://www.amazon.es/dp/B07CSJSNP9/?tag=tolees-21) con 53.35 de descuento por 13.99 EUR (original: 29.99 EUR) en el siguiente enlace!

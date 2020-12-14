@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BHBKK22/?tag=tolees-21'
 descuento: '58.51'
+average: '29.04'
 ---
 
 Ahora mismo tienes [Under Armour UA Remix  Zapatillas de Running para Hombre  Azul  Midnight Navy/Graphite/White 401   40.5 EU](https://www.amazon.es/dp/B07BHBKK22/?tag=tolees-21) a 29.04 EUR (original: 70 EUR) (58.51 %  de descuento) en el siguiente enlace!

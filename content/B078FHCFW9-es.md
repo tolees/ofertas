@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078FHCFW9/?tag=tolees-21'
 descuento: '53.36'
+average: '11.99'
 ---
 
 Tienes [Beurer MG16 Universal Rojo  Color blanco masajeador](https://www.amazon.es/dp/B078FHCFW9/?tag=tolees-21) con un 53.36 % de descuento con precio de oferta de 11.99 EUR (original: 25.71 EUR) en el siguiente enlace!

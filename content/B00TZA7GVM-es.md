@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TZA7GVM/?tag=tolees-21'
 descuento: '65.42'
+average: '7.95'
 ---
 
 Está [Kempa Emotion Shorts Pantalones cortos  Hombre  Multicolor  Verde/Negro   XL](https://www.amazon.es/dp/B00TZA7GVM/?tag=tolees-21) con 65.42 de descuento por 7.95 EUR (original: 22.99 EUR) en el siguiente enlace!

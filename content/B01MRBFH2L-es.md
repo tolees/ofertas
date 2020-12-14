@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MRBFH2L/?tag=tolees-21'
 descuento: '57.45'
+average: '5'
 ---
 
 Tienes [Ewent EW7044 Carcasa para Discos Duros HDD y SSD de 2.5"   SATA I/II/III de hasta 9.5 mm de Alto  USB 3.0   Aluminio  indicador LED  Color Negro](https://www.amazon.es/dp/B01MRBFH2L/?tag=tolees-21) con un 57.45 % de descuento con precio de oferta de 5 EUR (original: 11.75 EUR) en el siguiente enlace!

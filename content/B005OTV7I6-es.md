@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005OTV7I6/?tag=tolees-21'
 descuento: '53.66'
+average: '31.95'
 ---
 
 Tienes [Pump Worx Bomba Erótica - 1 unidad](https://www.amazon.es/dp/B005OTV7I6/?tag=tolees-21) con un 53.66 % de descuento con precio de oferta de 31.95 EUR (original: 68.95 EUR) en el siguiente enlace!

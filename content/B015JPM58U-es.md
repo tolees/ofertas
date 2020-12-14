@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B015JPM58U/?tag=tolees-21'
 descuento: '30.00'
+average: '7.21'
 ---
 
 Está [Compo 1721612011 Composter 2 Kg  32x18.399999999999999x7.65 cm](https://www.amazon.es/dp/B015JPM58U/?tag=tolees-21) con 30.00 de descuento por 7.21 EUR (original: 10.3 EUR) en el siguiente enlace!

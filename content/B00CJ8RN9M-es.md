@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00CJ8RN9M/?tag=tolees-21'
 descuento: '52.56'
+average: '15.63'
 ---
 
 Ahora mismo tienes [Jodhpur Premium London Dry Gin Ginebra  43º - 500 ml](https://www.amazon.es/dp/B00CJ8RN9M/?tag=tolees-21) a 15.63 EUR (original: 32.95 EUR) (52.56 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RLKZGFG/?tag=tolees-21'
 descuento: '30.44'
+average: '31.99'
 ---
 
 Está [Luces-despertador  Wake Up Light Despertador con Simulación de Amanecer y Atardece  Reloj de Alarma dual  Función Snooze  20 Brillo  8 Sonidos  Radio FM  LED Lámpara Con 1 Puerto USB  Adaptador  Cable](https://www.amazon.es/dp/B07RLKZGFG/?tag=tolees-21) con 30.44 de descuento por 31.99 EUR (original: 45.99 EUR) en el siguiente enlace!

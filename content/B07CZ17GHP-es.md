@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ17GHP/?tag=tolees-21'
 descuento: '66.79'
+average: '29.87'
 ---
 
 Tienes [Puma Uprise Color Shift  Zapatillas Unisex Adults’o  Gris  Iron Gate-Shocking Orange White   37.5 EU](https://www.amazon.es/dp/B07CZ17GHP/?tag=tolees-21) con un 66.79 % de descuento con precio de oferta de 29.87 EUR (original: 89.95 EUR) en el siguiente enlace!

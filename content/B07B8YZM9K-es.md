@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B8YZM9K/?tag=tolees-21'
 descuento: '44.29'
+average: '78'
 ---
 
 Tienes [Clarks Original Desert - Botas  para Hombre  Marrón  Brown Suede   41 EU](https://www.amazon.es/dp/B07B8YZM9K/?tag=tolees-21) con un 44.29 % de descuento con precio de oferta de 78 EUR (original: 140 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC1WNSL/?tag=tolees-21'
 descuento: '70.78'
+average: '24.82'
 ---
 
 Ahora mismo tienes [Puma Suede Classic  Zapatillas Unisex Adults o  Gris  Peacoat-Taos Taupe   37 EU](https://www.amazon.es/dp/B07DC1WNSL/?tag=tolees-21) a 24.82 EUR (original: 84.95 EUR) (70.78 %  de descuento) en el siguiente enlace!

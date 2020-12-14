@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XXH73TV/?tag=tolees-21'
 descuento: '30.01'
+average: '251.91'
 ---
 
 Está [BQ Aquaris X Pro - Smartphone DE 5.2"  Nano SIM  Bluetooth 4.2  Octa Core 2.2 GHz  64 GB de Memoria Interna  4 GB de RAM  cámara de 12 MP  Android 7.1.1 Nougat  Blanco](https://www.amazon.es/dp/B06XXH73TV/?tag=tolees-21) con 30.01 de descuento por 251.91 EUR (original: 359.9 EUR) en el siguiente enlace!

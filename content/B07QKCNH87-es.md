@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QKCNH87/?tag=tolees-21'
 descuento: '47.38'
+average: '29.99'
 ---
 
 Está [Almohada de espuma de memoria INTEY  75 x 50 cm   almohada de viscoelástica para la salud cervical  altura ajustable con cubierta hipoalergénica de fibra de bambú](https://www.amazon.es/dp/B07QKCNH87/?tag=tolees-21) con 47.38 de descuento por 29.99 EUR (original: 56.99 EUR) en el siguiente enlace!

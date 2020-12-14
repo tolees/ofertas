@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CDSD6M4/?tag=tolees-21'
 descuento: '65.11'
+average: '17.44'
 ---
 
 Ahora mismo tienes [Eferri 0JV1108  Shopper para Mujer   Beige   32x13x37 cm  W x H x L ](https://www.amazon.es/dp/B07CDSD6M4/?tag=tolees-21) a 17.44 EUR (original: 49.99 EUR) (65.11 %  de descuento) en el siguiente enlace!

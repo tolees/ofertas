@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BZ9DYWD/?tag=tolees-21'
 descuento: '76.01'
+average: '2.98'
 ---
 
 Está [Tommee Tippee 22645 - Chupetes](https://www.amazon.es/dp/B07BZ9DYWD/?tag=tolees-21) con 76.01 de descuento por 2.98 EUR (original: 12.42 EUR) en el siguiente enlace!

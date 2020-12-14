@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MQ55MFK/?tag=tolees-21'
 descuento: '56.18'
+average: '14.35'
 ---
 
 Ahora mismo tienes [Kingmate - Vajilla de fibra de bambú  diseño de abeja Ferkel](https://www.amazon.es/dp/B07MQ55MFK/?tag=tolees-21) a 14.35 EUR (original: 32.75 EUR) (56.18 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01EARW894/?tag=tolees-21'
 descuento: '71.43'
+average: '10'
 ---
 
 Está [Hacienda Abascal Premium D.O Ribera Del Duero Vino tinto - 750 ml](https://www.amazon.es/dp/B01EARW894/?tag=tolees-21) con 71.43 de descuento por 10 EUR (original: 35 EUR) en el siguiente enlace!

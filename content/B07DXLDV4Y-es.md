@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DXLDV4Y/?tag=tolees-21'
 descuento: '66.63'
+average: '9.59'
 ---
 
 Ahora mismo tienes [WUXIAN Xuduo Cargador iPhone 1M- 3 Pack Cable iPhone Trenzado de Nylon para XS MAX XR 8 7 6S 6 5S 5C SE -  Azul  Verde  Naranja ](https://www.amazon.es/dp/B07DXLDV4Y/?tag=tolees-21) a 9.59 EUR (original: 28.74 EUR) (66.63 %  de descuento) en el siguiente enlace!

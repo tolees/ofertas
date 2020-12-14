@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NC9ZFXL/?tag=tolees-21'
 descuento: '65.56'
+average: '18.94'
 ---
 
 Está [Pepe Jeans Traci Belt Cinturón  Negro  Black 999   95  Talla del fabricante: Large  para Mujer](https://www.amazon.es/dp/B07NC9ZFXL/?tag=tolees-21) con 65.56 de descuento por 18.94 EUR (original: 55 EUR) en el siguiente enlace!

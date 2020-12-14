@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J2H8R3L/?tag=tolees-21'
 descuento: '30.00'
+average: '28'
 ---
 
 Ahora mismo tienes [FIND Slip On Alpargata  Azul Navy  45 EU](https://www.amazon.es/dp/B07J2H8R3L/?tag=tolees-21) a 28 EUR (original: 40 EUR) (30.00 %  de descuento) en el siguiente enlace!

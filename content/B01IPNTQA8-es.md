@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IPNTQA8/?tag=tolees-21'
 descuento: '64.39'
+average: '24.91'
 ---
 
 Tienes [Kawasaki Country Washed  Zapatillas Unisex Adulto  Negro  Black/Brown/Gr   41 EU](https://www.amazon.es/dp/B01IPNTQA8/?tag=tolees-21) con un 64.39 % de descuento con precio de oferta de 24.91 EUR (original: 69.95 EUR) en el siguiente enlace!

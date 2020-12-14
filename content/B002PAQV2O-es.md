@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002PAQV2O/?tag=tolees-21'
 descuento: '30.25'
+average: '13.95'
 ---
 
 Está [Helly Hansen Logo Cap - Gorra unisex  color blanco  talla única](https://www.amazon.es/dp/B002PAQV2O/?tag=tolees-21) con 30.25 de descuento por 13.95 EUR (original: 20 EUR) en el siguiente enlace!

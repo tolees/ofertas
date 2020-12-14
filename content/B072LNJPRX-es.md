@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072LNJPRX/?tag=tolees-21'
 descuento: '68.33'
+average: '31.67'
 ---
 
 Tienes [Under Armour Ua Ultimate Speed Zapatillas de deporte Hombre  Azul  Moroccan Blue 400   47.5 EU](https://www.amazon.es/dp/B072LNJPRX/?tag=tolees-21) con un 68.33 % de descuento con precio de oferta de 31.67 EUR (original: 100 EUR) en el siguiente enlace!

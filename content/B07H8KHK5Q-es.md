@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H8KHK5Q/?tag=tolees-21'
 descuento: '42.51'
+average: '22.99'
 ---
 
 Ahora mismo tienes [Renberg Pk1178 Set Hogar Cocina 6 Mugs Y 12 Piezas Cubertería  Negro](https://www.amazon.es/dp/B07H8KHK5Q/?tag=tolees-21) a 22.99 EUR (original: 39.99 EUR) (42.51 %  de descuento) en el siguiente enlace!

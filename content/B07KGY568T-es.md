@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KGY568T/?tag=tolees-21'
 descuento: '49.50'
+average: '30.3'
 ---
 
 Ahora mismo tienes [Burton Oak Sudaderas  Hombre  Gray Heather  XXL](https://www.amazon.es/dp/B07KGY568T/?tag=tolees-21) a 30.3 EUR (original: 60 EUR) (49.50 %  de descuento) en el siguiente enlace!

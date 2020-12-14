@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0753MDXZK/?tag=tolees-21'
 descuento: '49.12'
+average: '27.96'
 ---
 
 Tienes [Adidas Essential Star 3 M  Zapatillas de Deporte para Hombre  Azul  Reauni/Nocmét/Azretr 000   45 1/3 EU](https://www.amazon.es/dp/B0753MDXZK/?tag=tolees-21) con un 49.12 % de descuento con precio de oferta de 27.96 EUR (original: 54.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MRU1UK3/?tag=tolees-21'
 descuento: '38.52'
+average: '30.68'
 ---
 
 Ahora mismo tienes [ARCTIC - Freezer i32 Plus - Refrigerador para torre CPU Intel I 2 x ventiladores 120 mm I Semi pasivo I Heatpipes descentrados I Push Pull - 753 gr 12 3 x 10 2 x 15 cm](https://www.amazon.es/dp/B01MRU1UK3/?tag=tolees-21) a 30.68 EUR (original: 49.9 EUR) (38.52 %  de descuento) en el siguiente enlace!

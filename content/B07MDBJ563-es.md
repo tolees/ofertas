@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MDBJ563/?tag=tolees-21'
 descuento: '69.33'
+average: '30.65'
 ---
 
 Tienes [G-STAR RAW 3301 Slim  Jeans para Hombre  Negro  Lt Indigo Aged 8968-8436   42W/36L](https://www.amazon.es/dp/B07MDBJ563/?tag=tolees-21) con un 69.33 % de descuento con precio de oferta de 30.65 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071HNNBG6/?tag=tolees-21'
 descuento: '56.58'
+average: '36.46'
 ---
 
 Ahora mismo tienes [New Balance Fresh Foam Arishi Luxe  Zapatillas de Deporte Unisex Adulto   Maris Pp1 Gris   42 EU](https://www.amazon.es/dp/B071HNNBG6/?tag=tolees-21) a 36.46 EUR (original: 83.97 EUR) (56.58 %  de descuento) en el siguiente enlace!

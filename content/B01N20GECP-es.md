@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N20GECP/?tag=tolees-21'
 descuento: '50.00'
+average: '59.5'
 ---
 
 Tienes [DELSEY Paris U-Lite Classic 2 Equipaje de Mano  55 cm  39 Liters  Rojo  Rouge ](https://www.amazon.es/dp/B01N20GECP/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 59.5 EUR (original: 119 EUR) en el siguiente enlace!

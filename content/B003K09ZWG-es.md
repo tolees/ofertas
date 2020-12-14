@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003K09ZWG/?tag=tolees-21'
 descuento: '38.50'
+average: '59.96'
 ---
 
 Tienes [Lancôme Trésor In Love Parfum Vaporizador - 75 ml](https://www.amazon.es/dp/B003K09ZWG/?tag=tolees-21) con un 38.50 % de descuento con precio de oferta de 59.96 EUR (original: 97.5 EUR) en el siguiente enlace!

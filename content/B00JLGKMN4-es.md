@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00JLGKMN4/?tag=tolees-21'
 descuento: '60.57'
+average: '236.2'
 ---
 
 Está [Miele Scout RX1 Robot Aspirador  22 W  0.6 litros  Negro](https://www.amazon.es/dp/B00JLGKMN4/?tag=tolees-21) con 60.57 de descuento por 236.2 EUR (original: 599 EUR) en el siguiente enlace!

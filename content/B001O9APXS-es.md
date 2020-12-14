@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001O9APXS/?tag=tolees-21'
 descuento: '46.35'
+average: '83.15'
 ---
 
 Está [Panama Jack Panama 03 Wool  Náuticos para Hombre  Marrón  Brown C2   47 EU](https://www.amazon.es/dp/B001O9APXS/?tag=tolees-21) con 46.35 de descuento por 83.15 EUR (original: 155 EUR) en el siguiente enlace!

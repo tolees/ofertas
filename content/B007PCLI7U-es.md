@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007PCLI7U/?tag=tolees-21'
 descuento: '37.02'
+average: '15.11'
 ---
 
 Ahora mismo tienes [Zanvic Za554 Regadera  Verde](https://www.amazon.es/dp/B007PCLI7U/?tag=tolees-21) a 15.11 EUR (original: 23.99 EUR) (37.02 %  de descuento) en el siguiente enlace!

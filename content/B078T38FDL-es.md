@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078T38FDL/?tag=tolees-21'
 descuento: '65.52'
+average: '13.79'
 ---
 
 Ahora mismo tienes [Women secret Bañador   Several 98   40  Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B078T38FDL/?tag=tolees-21) a 13.79 EUR (original: 39.99 EUR) (65.52 %  de descuento) en el siguiente enlace!

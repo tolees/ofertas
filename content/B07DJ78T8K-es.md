@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ78T8K/?tag=tolees-21'
 descuento: '43.33'
+average: '42.5'
 ---
 
 Tienes [New Balance Fuel Core NERGIZE  Zapatillas Deportivas para Interior para Mujer  Blanco  Summer Fog/Butrmilk Hg1   41.5 EU](https://www.amazon.es/dp/B07DJ78T8K/?tag=tolees-21) con un 43.33 % de descuento con precio de oferta de 42.5 EUR (original: 75 EUR) en el siguiente enlace!

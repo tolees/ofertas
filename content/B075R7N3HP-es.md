@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075R7N3HP/?tag=tolees-21'
 descuento: '37.45'
+average: '30'
 ---
 
 Está [New Balance Fuel Core Coast v4  Zapatillas de Running para Mujer  Azul  Galaxy/Light Petrol/Himalayan Pink Lg4   37.5 EU](https://www.amazon.es/dp/B075R7N3HP/?tag=tolees-21) con 37.45 de descuento por 30 EUR (original: 47.96 EUR) en el siguiente enlace!

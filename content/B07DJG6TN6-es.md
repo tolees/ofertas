@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJG6TN6/?tag=tolees-21'
 descuento: '63.02'
+average: '22.17'
 ---
 
 Está [Dockers by Gerli 41ch307  Botas Estilo Motero para Mujer  Gris  Ice 260   38 EU](https://www.amazon.es/dp/B07DJG6TN6/?tag=tolees-21) con 63.02 de descuento por 22.17 EUR (original: 59.95 EUR) en el siguiente enlace!

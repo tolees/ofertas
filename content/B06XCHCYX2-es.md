@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XCHCYX2/?tag=tolees-21'
 descuento: '39.56'
+average: '30.22'
 ---
 
 Ahora mismo tienes [FIND Zapato de Ante estilo Wallabee Hombre  Beige  Tan   43 EU](https://www.amazon.es/dp/B06XCHCYX2/?tag=tolees-21) a 30.22 EUR (original: 50 EUR) (39.56 %  de descuento) en el siguiente enlace!

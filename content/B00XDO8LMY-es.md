@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00XDO8LMY/?tag=tolees-21'
 descuento: '41.09'
+average: '7.37'
 ---
 
 Ahora mismo tienes [Bombay - Ginebra - 70 cl](https://www.amazon.es/dp/B00XDO8LMY/?tag=tolees-21) a 7.37 EUR (original: 12.51 EUR) (41.09 %  de descuento) en el siguiente enlace!

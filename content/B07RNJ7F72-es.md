@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RNJ7F72/?tag=tolees-21'
 descuento: '34.80'
+average: '14.99'
 ---
 
 Ahora mismo tienes [FORIZEN Pistolas de Agua para Niños Adultos  Pistola de Agua  Capacidad 650ml - Chorros de Agua Que Alcanzan una Distancia de hasta 8-11m  Adecuado para Niñas / Niños Juguete de Verano para Playa](https://www.amazon.es/dp/B07RNJ7F72/?tag=tolees-21) a 14.99 EUR (original: 22.99 EUR) (34.80 %  de descuento) en el siguiente enlace!

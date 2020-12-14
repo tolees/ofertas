@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KMP8IYM/?tag=tolees-21'
 descuento: '42.91'
+average: '19.98'
 ---
 
 Tienes [Levi s - Constructed Basics Mini Crossbody  Bolsos bandolera Unisex adulto  Bleu  Navy Blue ](https://www.amazon.es/dp/B01KMP8IYM/?tag=tolees-21) con un 42.91 % de descuento con precio de oferta de 19.98 EUR (original: 35 EUR) en el siguiente enlace!

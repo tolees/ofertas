@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KG2CWVZ/?tag=tolees-21'
 descuento: '53.08'
+average: '28.15'
 ---
 
 Tienes [Burton Prospect Mochilas  Unisex Adulto  Black Fresh Pressed](https://www.amazon.es/dp/B07KG2CWVZ/?tag=tolees-21) con un 53.08 % de descuento con precio de oferta de 28.15 EUR (original: 60 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DBZ9MDC/?tag=tolees-21'
 descuento: '64.68'
+average: '28.24'
 ---
 
 Está [Puma Jaab XT Wn s  Zapatillas de Deporte para Mujer  Negro Black White  38 EU](https://www.amazon.es/dp/B07DBZ9MDC/?tag=tolees-21) con 64.68 de descuento por 28.24 EUR (original: 79.95 EUR) en el siguiente enlace!

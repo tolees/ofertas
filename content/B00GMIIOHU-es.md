@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00GMIIOHU/?tag=tolees-21'
 descuento: '33.44'
+average: '199'
 ---
 
 Tienes [Bébé Confort Iseos  Silla de coche grupo 1 Isofix  rojo  Raspberry Red ](https://www.amazon.es/dp/B00GMIIOHU/?tag=tolees-21) con un 33.44 % de descuento con precio de oferta de 199 EUR (original: 299 EUR) en el siguiente enlace!

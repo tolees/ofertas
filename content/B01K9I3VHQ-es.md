@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01K9I3VHQ/?tag=tolees-21'
 descuento: '70.43'
+average: '8.85'
 ---
 
 Está [Bemis 7250TP000 Ashford Asiento para inodoro de termoplástico  color blanco](https://www.amazon.es/dp/B01K9I3VHQ/?tag=tolees-21) con 70.43 de descuento por 8.85 EUR (original: 29.93 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BBXYHMD/?tag=tolees-21'
 descuento: '41.67'
+average: '69.99'
 ---
 
 Está [Smartwares Pro Series Kit Confort  Bombillas Inteligentes  luz Blanca Ajustable  2 Unidades](https://www.amazon.es/dp/B07BBXYHMD/?tag=tolees-21) con 41.67 de descuento por 69.99 EUR (original: 119.99 EUR) en el siguiente enlace!

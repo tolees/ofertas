@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BDXLN9Y/?tag=tolees-21'
 descuento: '51.43'
+average: '10.68'
 ---
 
 Está [ONLY NOS Onlgeena XO L/s Pullover Knt Noos  suéter Mujer  Rojo  Goji Berry Goji Berry   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B07BDXLN9Y/?tag=tolees-21) con 51.43 de descuento por 10.68 EUR (original: 21.99 EUR) en el siguiente enlace!

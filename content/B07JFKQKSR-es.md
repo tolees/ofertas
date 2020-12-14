@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JFKQKSR/?tag=tolees-21'
 descuento: '52.51'
+average: '18.99'
 ---
 
 Está [Dularf Irrigador Bucal Portátil Profesional con 3 Modos y 5 Boquillas  IPX7 Impermeable y Inalámbrico Recargable con Pantalla LCD  Irrigador Dental Portatil para Viaje y Familia  Gris ](https://www.amazon.es/dp/B07JFKQKSR/?tag=tolees-21) con 52.51 de descuento por 18.99 EUR (original: 39.99 EUR) en el siguiente enlace!

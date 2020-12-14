@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ6CR8R/?tag=tolees-21'
 descuento: '58.95'
+average: '24.63'
 ---
 
 Tienes [New Balance 574  Zapatillas Unisex  Rosa  Cashmere/White Em   30 EU](https://www.amazon.es/dp/B07DJ6CR8R/?tag=tolees-21) con un 58.95 % de descuento con precio de oferta de 24.63 EUR (original: 60 EUR) en el siguiente enlace!

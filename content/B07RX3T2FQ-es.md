@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RX3T2FQ/?tag=tolees-21'
 descuento: '69.44'
+average: '9.99'
 ---
 
 Tienes [Masajeador de mano negro](https://www.amazon.es/dp/B07RX3T2FQ/?tag=tolees-21) con un 69.44 % de descuento con precio de oferta de 9.99 EUR (original: 32.69 EUR) en el siguiente enlace!

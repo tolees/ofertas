@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075VJBS88/?tag=tolees-21'
 descuento: '66.49'
+average: '10.05'
 ---
 
 Está [JACK & JONES Jcolinn Sweat Hood Noos Capucha  Naranja  Poinciana Fit:reg   Medium para Hombre](https://www.amazon.es/dp/B075VJBS88/?tag=tolees-21) con 66.49 de descuento por 10.05 EUR (original: 29.99 EUR) en el siguiente enlace!

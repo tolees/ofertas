@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MR7QX9J/?tag=tolees-21'
 descuento: '78.32'
+average: '8.67'
 ---
 
 Ahora mismo tienes [edc by Esprit 057cc1i002  suéter Mujer  Azul  Navy   36  Talla del Fabricante: Small ](https://www.amazon.es/dp/B01MR7QX9J/?tag=tolees-21) a 8.67 EUR (original: 39.99 EUR) (78.32 %  de descuento) en el siguiente enlace!

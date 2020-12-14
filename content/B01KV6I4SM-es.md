@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KV6I4SM/?tag=tolees-21'
 descuento: '29.29'
+average: '16.9'
 ---
 
 Ahora mismo tienes [Happiness Boutique Damas Pulsera Delicada Charms Corazón en Oro Rosa | Brazalete de Cadena Doble Estilo Minimalista Libre de Níquel](https://www.amazon.es/dp/B01KV6I4SM/?tag=tolees-21) a 16.9 EUR (original: 23.9 EUR) (29.29 %  de descuento) en el siguiente enlace!

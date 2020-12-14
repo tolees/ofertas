@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MY0RXZ5/?tag=tolees-21'
 descuento: '28.08'
+average: '6.66'
 ---
 
 Tienes [Camomila Intea Champú 250 ml y champú regalo igual](https://www.amazon.es/dp/B01MY0RXZ5/?tag=tolees-21) con un 28.08 % de descuento con precio de oferta de 6.66 EUR (original: 9.26 EUR) en el siguiente enlace!

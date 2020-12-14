@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DDDD7K5/?tag=tolees-21'
 descuento: '40.08'
+average: '2.99'
 ---
 
 Está [T5 Tubo LED de Luz Blanca 45w incandescente  72pcs LED Bombillas  DC12V-80V  3M Adhesivo ](https://www.amazon.es/dp/B07DDDD7K5/?tag=tolees-21) con 40.08 de descuento por 2.99 EUR (original: 4.99 EUR) en el siguiente enlace!

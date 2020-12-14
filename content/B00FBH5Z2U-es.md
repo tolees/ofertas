@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00FBH5Z2U/?tag=tolees-21'
 descuento: '37.03'
+average: '18.4'
 ---
 
 Está [Burberry London Men Perfume hombre - 30 ml](https://www.amazon.es/dp/B00FBH5Z2U/?tag=tolees-21) con 37.03 de descuento por 18.4 EUR (original: 29.22 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077CX8Y1K/?tag=tolees-21'
 descuento: '45.23'
+average: '60.25'
 ---
 
 Ahora mismo tienes [Diesel S-RV Low  Zapatillas para Hombre  Negro T8013  42 EU](https://www.amazon.es/dp/B077CX8Y1K/?tag=tolees-21) a 60.25 EUR (original: 110 EUR) (45.23 %  de descuento) en el siguiente enlace!

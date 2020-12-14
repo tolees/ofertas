@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M3RZ85O/?tag=tolees-21'
 descuento: '51.84'
+average: '36.12'
 ---
 
 Ahora mismo tienes [Nike Mercurial Victory Vi AG-Pro  Botas de fútbol para Hombre  Rosa  Racer Pink/Black/White   42.5 EU](https://www.amazon.es/dp/B01M3RZ85O/?tag=tolees-21) a 36.12 EUR (original: 75 EUR) (51.84 %  de descuento) en el siguiente enlace!

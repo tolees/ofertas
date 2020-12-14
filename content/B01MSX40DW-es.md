@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MSX40DW/?tag=tolees-21'
 descuento: '90.52'
+average: '9.99'
 ---
 
 Ahora mismo tienes [iyuttech Sonic Cepillo de dientes eléctrico Cepillo de dientes 39000times/min 5 modos Cepillos Cepillos de Dientes Eléctrico resistente al agua ipx68 blanco](https://www.amazon.es/dp/B01MSX40DW/?tag=tolees-21) a 9.99 EUR (original: 105.42 EUR) (90.52 %  de descuento) en el siguiente enlace!

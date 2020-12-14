@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JYKP4JL/?tag=tolees-21'
 descuento: '60.00'
+average: '39.98'
 ---
 
 Ahora mismo tienes [adidas Deerupt Runner W Zapatillas de Running Mujer  Blanco  Ftwr White/Grey One F17/Clear Mint Ftwr White/Grey One F17/Clear Mint   36 EU](https://www.amazon.es/dp/B07JYKP4JL/?tag=tolees-21) a 39.98 EUR (original: 99.95 EUR) (60.00 %  de descuento) en el siguiente enlace!

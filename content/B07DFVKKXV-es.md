@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFVKKXV/?tag=tolees-21'
 descuento: '47.96'
+average: '33.8'
 ---
 
 Está [Puma Classics T7 Track Jacket  Hombre  Black  XXL](https://www.amazon.es/dp/B07DFVKKXV/?tag=tolees-21) con 47.96 de descuento por 33.8 EUR (original: 64.95 EUR) en el siguiente enlace!

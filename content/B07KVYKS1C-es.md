@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KVYKS1C/?tag=tolees-21'
 descuento: '54.57'
+average: '9.99'
 ---
 
 Ahora mismo tienes [Aitsite Multi herramienta copo de nieve Tarjeta de la herramienta del copo de nieve Destornillador multi-herramienta de acero Llavero Abrebotellas Tarjeta  Negro+Plata ](https://www.amazon.es/dp/B07KVYKS1C/?tag=tolees-21) a 9.99 EUR (original: 21.99 EUR) (54.57 %  de descuento) en el siguiente enlace!

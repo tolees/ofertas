@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y5Z5DND/?tag=tolees-21'
 descuento: '60.00'
+average: '59.6'
 ---
 
 Está [Skagen Reloj Analógico para Mujer de Cuarzo con Correa en Cuero SKW2634](https://www.amazon.es/dp/B06Y5Z5DND/?tag=tolees-21) con 60.00 de descuento por 59.6 EUR (original: 149 EUR) en el siguiente enlace!

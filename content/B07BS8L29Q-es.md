@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BS8L29Q/?tag=tolees-21'
 descuento: '61.56'
+average: '19.99'
 ---
 
 Ahora mismo tienes [INTEY Carro Compra  Carrito de Compra  38L Bolsa Impermeable y Extraíble Carga Máx. 25GK. Subir Las Escaleras con 3 Ruedas y Asiento Pelegable Carga Máx. 90KG](https://www.amazon.es/dp/B07BS8L29Q/?tag=tolees-21) a 19.99 EUR (original: 52 EUR) (61.56 %  de descuento) en el siguiente enlace!

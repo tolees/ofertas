@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M2ZYRO7/?tag=tolees-21'
 descuento: '49.92'
+average: '3'
 ---
 
 Está [One For All WM2111  Soporte de pared para TV de 13 a 27” Fijo  Peso máx. 50kg  Para todo tipo de TVs LED  LCD  Plasma  negro](https://www.amazon.es/dp/B01M2ZYRO7/?tag=tolees-21) con 49.92 de descuento por 3 EUR (original: 5.99 EUR) en el siguiente enlace!

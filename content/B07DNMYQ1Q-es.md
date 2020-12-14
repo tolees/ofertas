@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DNMYQ1Q/?tag=tolees-21'
 descuento: '72.97'
+average: '10.8'
 ---
 
 Ahora mismo tienes [Lico Central  Zapatillas Unisex Adulto  Gris Grau/Schwarz  36 EU](https://www.amazon.es/dp/B07DNMYQ1Q/?tag=tolees-21) a 10.8 EUR (original: 39.95 EUR) (72.97 %  de descuento) en el siguiente enlace!

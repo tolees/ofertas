@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C3QGJJH/?tag=tolees-21'
 descuento: '50.00'
+average: '5'
 ---
 
 Está [Pandora Colgante medallon Mujer plata - 797342](https://www.amazon.es/dp/B07C3QGJJH/?tag=tolees-21) con 50.00 de descuento por 5 EUR (original: 10 EUR) en el siguiente enlace!

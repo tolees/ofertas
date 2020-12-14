@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KVCX84Z/?tag=tolees-21'
 descuento: '51.67'
+average: '24.16'
 ---
 
 Está [Tom Tailor Denim Chino Mit Gürtel  Pantalones Hombre  Gris  Structured Zig Zag Grey 14226   W34/L32  Talla del Fabricante: Large ](https://www.amazon.es/dp/B07KVCX84Z/?tag=tolees-21) con 51.67 de descuento por 24.16 EUR (original: 49.99 EUR) en el siguiente enlace!

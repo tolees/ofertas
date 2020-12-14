@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00K5DFGXI/?tag=tolees-21'
 descuento: '31.28'
+average: '21.99'
 ---
 
 Ahora mismo tienes [Nike Benassi Solarsoft  Zapatillas de Deporte Unisex Adulto   Negro 705474 070   45 EU](https://www.amazon.es/dp/B00K5DFGXI/?tag=tolees-21) a 21.99 EUR (original: 32 EUR) (31.28 %  de descuento) en el siguiente enlace!

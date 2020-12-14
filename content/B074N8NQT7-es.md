@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074N8NQT7/?tag=tolees-21'
 descuento: '86.06'
+average: '8.36'
 ---
 
 Ahora mismo tienes [edc by Esprit 107cc1i019  suéter Mujer  Beige  Cream 295   Medium](https://www.amazon.es/dp/B074N8NQT7/?tag=tolees-21) a 8.36 EUR (original: 59.99 EUR) (86.06 %  de descuento) en el siguiente enlace!

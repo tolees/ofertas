@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MTR8PD7/?tag=tolees-21'
 descuento: '72.00'
+average: '21'
 ---
 
 Está [Pepe Jeans Vera  Pantalones Mujer  Multicolor  Multi   38  Talla del fabricante: Small ](https://www.amazon.es/dp/B01MTR8PD7/?tag=tolees-21) con 72.00 de descuento por 21 EUR (original: 75 EUR) en el siguiente enlace!

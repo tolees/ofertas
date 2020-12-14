@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NA7N0KH/?tag=tolees-21'
 descuento: '56.62'
+average: '65'
 ---
 
 Ahora mismo tienes [Asics T722n 9085  Zapatillas de Running para Hombre  Negro  Black /         Green Gecko /         Safety Yellow   43.5 EU](https://www.amazon.es/dp/B01NA7N0KH/?tag=tolees-21) a 65 EUR (original: 149.85 EUR) (56.62 %  de descuento) en el siguiente enlace!

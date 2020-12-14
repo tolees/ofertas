@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B003LBRDN2/?tag=tolees-21'
 descuento: '40.02'
+average: '37.99'
 ---
 
 Ahora mismo tienes [Plantronics .Audio 655 - Auriculares USB  negro](https://www.amazon.es/dp/B003LBRDN2/?tag=tolees-21) a 37.99 EUR (original: 63.34 EUR) (40.02 %  de descuento) en el siguiente enlace!

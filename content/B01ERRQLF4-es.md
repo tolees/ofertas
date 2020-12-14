@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01ERRQLF4/?tag=tolees-21'
 descuento: '73.42'
+average: '8.89'
 ---
 
 Ahora mismo tienes [Joma - Soft Shell Campus II Blanco para Hombre](https://www.amazon.es/dp/B01ERRQLF4/?tag=tolees-21) a 8.89 EUR (original: 33.44 EUR) (73.42 %  de descuento) en el siguiente enlace!

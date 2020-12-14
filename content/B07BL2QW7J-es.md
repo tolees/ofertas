@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BL2QW7J/?tag=tolees-21'
 descuento: '36.96'
+average: '81.95'
 ---
 
 Está [New Balance Summit KOM  Zapatillas de Running para Asfalto para Hombre  Negro  Phantom/RGB Green/Silver Metallic GG   42.5 EU](https://www.amazon.es/dp/B07BL2QW7J/?tag=tolees-21) con 36.96 de descuento por 81.95 EUR (original: 130 EUR) en el siguiente enlace!

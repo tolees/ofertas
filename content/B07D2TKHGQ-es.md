@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D2TKHGQ/?tag=tolees-21'
 descuento: '55.62'
+average: '22.19'
 ---
 
 Tienes [Mizuno Monarcida Neo MD  Zapatillas de Fútbol para Hombre  Azul  Navy/Green 37   42 EU](https://www.amazon.es/dp/B07D2TKHGQ/?tag=tolees-21) con un 55.62 % de descuento con precio de oferta de 22.19 EUR (original: 50 EUR) en el siguiente enlace!

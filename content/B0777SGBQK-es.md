@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0777SGBQK/?tag=tolees-21'
 descuento: '59.18'
+average: '26.53'
 ---
 
 Tienes [Under Armour UA W Squad 2  Zapatillas de Deporte para Mujer  Negro  Black   38.5 EU](https://www.amazon.es/dp/B0777SGBQK/?tag=tolees-21) con un 59.18 % de descuento con precio de oferta de 26.53 EUR (original: 65 EUR) en el siguiente enlace!

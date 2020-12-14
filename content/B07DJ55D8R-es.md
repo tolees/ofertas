@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ55D8R/?tag=tolees-21'
 descuento: '66.16'
+average: '34.88'
 ---
 
 Está [Asics Gel-Quest FF  Zapatillas de Running para Mujer  Azul  Soft Sky/White 400   42 EU](https://www.amazon.es/dp/B07DJ55D8R/?tag=tolees-21) con 66.16 de descuento por 34.88 EUR (original: 103.08 EUR) en el siguiente enlace!

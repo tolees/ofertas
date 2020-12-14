@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0156RF9LQ/?tag=tolees-21'
 descuento: '28.32'
+average: '43'
 ---
 
 Tienes [Taurus BAPI 800 Plus INOX Batidora con picador W  Plástico  20 Velocidades  Negro  Acero inoxidable](https://www.amazon.es/dp/B0156RF9LQ/?tag=tolees-21) con un 28.32 % de descuento con precio de oferta de 43 EUR (original: 59.99 EUR) en el siguiente enlace!

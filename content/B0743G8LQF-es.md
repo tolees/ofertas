@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0743G8LQF/?tag=tolees-21'
 descuento: '72.64'
+average: '24.61'
 ---
 
 Está [Reebok Classic Nylon Hs  Zapatillas para Hombre  Azul  Smoky Indigo/white-gum   39 EU](https://www.amazon.es/dp/B0743G8LQF/?tag=tolees-21) con 72.64 de descuento por 24.61 EUR (original: 89.95 EUR) en el siguiente enlace!

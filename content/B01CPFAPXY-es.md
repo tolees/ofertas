@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01CPFAPXY/?tag=tolees-21'
 descuento: '68.63'
+average: '45.49'
 ---
 
 Está [Won Hundred Carter_1 Pantalones  Negro  XL para Hombre](https://www.amazon.es/dp/B01CPFAPXY/?tag=tolees-21) con 68.63 de descuento por 45.49 EUR (original: 145 EUR) en el siguiente enlace!

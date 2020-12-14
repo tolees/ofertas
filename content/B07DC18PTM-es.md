@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC18PTM/?tag=tolees-21'
 descuento: '48.54'
+average: '41.14'
 ---
 
 Está [Puma Nrgy Neko Engineer Knit  Zapatillas de running para Hombre  Verde  Ponderosa Pine-Charcoal Gray White 6   43 EU](https://www.amazon.es/dp/B07DC18PTM/?tag=tolees-21) con 48.54 de descuento por 41.14 EUR (original: 79.95 EUR) en el siguiente enlace!

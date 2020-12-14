@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G2LV2YY/?tag=tolees-21'
 descuento: '76.66'
+average: '14'
 ---
 
 Ahora mismo tienes [Mandos para PC  Anpreme Mandos inalámbrico PS3 Gaming Controller Bluetooth Gamepad con PS3 PC Smartphone Android et iOS Gamepad Wireless para PC Windows 10/8/7/Vista  Smart TV  TV Box](https://www.amazon.es/dp/B07G2LV2YY/?tag=tolees-21) a 14 EUR (original: 59.99 EUR) (76.66 %  de descuento) en el siguiente enlace!

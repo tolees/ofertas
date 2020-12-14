@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B009ERO4L6/?tag=tolees-21'
 descuento: '38.06'
+average: '7.99'
 ---
 
 Está [Hama 040080 - Mando universal para aire acondicionado](https://www.amazon.es/dp/B009ERO4L6/?tag=tolees-21) con 38.06 de descuento por 7.99 EUR (original: 12.9 EUR) en el siguiente enlace!

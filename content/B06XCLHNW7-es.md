@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XCLHNW7/?tag=tolees-21'
 descuento: '38.76'
+average: '9.18'
 ---
 
 Está [Funko - Dave Tourist figura de vinilo  colección de POP  seria Despicable Me 3  13426 ](https://www.amazon.es/dp/B06XCLHNW7/?tag=tolees-21) con 38.76 de descuento por 9.18 EUR (original: 14.99 EUR) en el siguiente enlace!

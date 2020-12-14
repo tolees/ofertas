@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JJB2S1P/?tag=tolees-21'
 descuento: '69.47'
+average: '45.79'
 ---
 
 Está [Armani Exchange Cavalry Pantalones  Negro  Black 1200   W31/L32  Talla del Fabricante: 31  para Hombre](https://www.amazon.es/dp/B07JJB2S1P/?tag=tolees-21) con 69.47 de descuento por 45.79 EUR (original: 150 EUR) en el siguiente enlace!

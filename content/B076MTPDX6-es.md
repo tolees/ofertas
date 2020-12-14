@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076MTPDX6/?tag=tolees-21'
 descuento: '70.98'
+average: '12.99'
 ---
 
 Está [Reloj Deportivo Digital para Hombre  para Uso al Aire Libre o al Hacer Ejercicio  Resistente al Agua a 5 ATM y de Estilo Militar  LED y Alarma  Azul ](https://www.amazon.es/dp/B076MTPDX6/?tag=tolees-21) con 70.98 de descuento por 12.99 EUR (original: 44.76 EUR) en el siguiente enlace!

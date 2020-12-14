@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F1FHM9K/?tag=tolees-21'
 descuento: '29.58'
+average: '12'
 ---
 
 Ahora mismo tienes [Amazon Essentials Ae1811734 Polos Hombre  Azul  Aqua   US  EU XS ](https://www.amazon.es/dp/B07F1FHM9K/?tag=tolees-21) a 12 EUR (original: 17.04 EUR) (29.58 %  de descuento) en el siguiente enlace!

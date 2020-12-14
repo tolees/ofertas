@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B6BDW8B/?tag=tolees-21'
 descuento: '53.78'
+average: '85.51'
 ---
 
 Tienes [Lacoste Reloj Analógico para Hombre de Cuarzo con Correa en Silicona 2010941](https://www.amazon.es/dp/B07B6BDW8B/?tag=tolees-21) con un 53.78 % de descuento con precio de oferta de 85.51 EUR (original: 185 EUR) en el siguiente enlace!

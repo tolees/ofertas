@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GVBM7VP/?tag=tolees-21'
 descuento: '44.43'
+average: '5.99'
 ---
 
 Ahora mismo tienes [MagiDeal Titular de Pelota de Tenis de Bolsillo Clip de Cintura Transparente Sostiene Una Pelota de Tenis](https://www.amazon.es/dp/B07GVBM7VP/?tag=tolees-21) a 5.99 EUR (original: 10.78 EUR) (44.43 %  de descuento) en el siguiente enlace!

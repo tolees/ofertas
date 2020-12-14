@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JGS89HD/?tag=tolees-21'
 descuento: '45.92'
+average: '45.94'
 ---
 
 Tienes [Skechers Uno  Zapatillas para Hombre  Negro  Black Blk   47.5 EU](https://www.amazon.es/dp/B07JGS89HD/?tag=tolees-21) con un 45.92 % de descuento con precio de oferta de 45.94 EUR (original: 84.95 EUR) en el siguiente enlace!

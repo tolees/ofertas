@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00XWP21JI/?tag=tolees-21'
 descuento: '40.00'
+average: '39'
 ---
 
 Tienes [Nike NIKE MD RUNNER 2 Zapatillas de running Hombre  Gris/Negro/Blanco  Wolf Grey/Black-White   46 EU](https://www.amazon.es/dp/B00XWP21JI/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 39 EUR (original: 65 EUR) en el siguiente enlace!

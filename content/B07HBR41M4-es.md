@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HBR41M4/?tag=tolees-21'
 descuento: '57.18'
+average: '5.99'
 ---
 
 Está [VBIGER Mujer Chenille Bufanda Caliente de Invierno Suave Bufanda de Punto Largo](https://www.amazon.es/dp/B07HBR41M4/?tag=tolees-21) con 57.18 de descuento por 5.99 EUR (original: 13.99 EUR) en el siguiente enlace!

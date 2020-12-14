@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071XHJHLF/?tag=tolees-21'
 descuento: '37.35'
+average: '62.62'
 ---
 
 Ahora mismo tienes [adidas Bermuda  Zapatillas de Deporte para Hombre  Verde  Veruni/Vernoc / Gum5   40 EU](https://www.amazon.es/dp/B071XHJHLF/?tag=tolees-21) a 62.62 EUR (original: 99.95 EUR) (37.35 %  de descuento) en el siguiente enlace!

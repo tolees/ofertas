@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KSN658L/?tag=tolees-21'
 descuento: '64.70'
+average: '34.95'
 ---
 
 Ahora mismo tienes [VARLION Avant H Junior](https://www.amazon.es/dp/B07KSN658L/?tag=tolees-21) a 34.95 EUR (original: 99 EUR) (64.70 %  de descuento) en el siguiente enlace!

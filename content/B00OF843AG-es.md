@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00OF843AG/?tag=tolees-21'
 descuento: '25.68'
+average: '15.95'
 ---
 
 Tienes [Joma - Fleece Short  Color Royal  Talla L](https://www.amazon.es/dp/B00OF843AG/?tag=tolees-21) con un 25.68 % de descuento con precio de oferta de 15.95 EUR (original: 21.46 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00AFA9S5S/?tag=tolees-21'
 descuento: '41.62'
+average: '7'
 ---
 
 Ahora mismo tienes [Tres en inglés Oro Alemán Tequila  1er Pack  1 x 700 ml ](https://www.amazon.es/dp/B00AFA9S5S/?tag=tolees-21) a 7 EUR (original: 11.99 EUR) (41.62 %  de descuento) en el siguiente enlace!

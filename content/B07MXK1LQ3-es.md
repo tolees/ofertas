@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MXK1LQ3/?tag=tolees-21'
 descuento: '46.85'
+average: '58.46'
 ---
 
 Ahora mismo tienes [Salomon Essential JKT Jacket  Mujer  Verde  Balsam Green   M](https://www.amazon.es/dp/B07MXK1LQ3/?tag=tolees-21) a 58.46 EUR (original: 110 EUR) (46.85 %  de descuento) en el siguiente enlace!

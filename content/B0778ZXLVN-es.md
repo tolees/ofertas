@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0778ZXLVN/?tag=tolees-21'
 descuento: '61.87'
+average: '17.14'
 ---
 
 Está [Kappa Bang  Zapatillas Unisex Niños  Negro  Black/Lime 1133   28 EU](https://www.amazon.es/dp/B0778ZXLVN/?tag=tolees-21) con 61.87 de descuento por 17.14 EUR (original: 44.95 EUR) en el siguiente enlace!

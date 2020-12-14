@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077MR99GT/?tag=tolees-21'
 descuento: '70.55'
+average: '26.49'
 ---
 
 Ahora mismo tienes [Puma Ignite Flash Evoknit Satin EP Wn s  Zapatillas de Cross para Mujer  Negro Black-Periscope-Metallic Beige  36 EU](https://www.amazon.es/dp/B077MR99GT/?tag=tolees-21) a 26.49 EUR (original: 89.95 EUR) (70.55 %  de descuento) en el siguiente enlace!

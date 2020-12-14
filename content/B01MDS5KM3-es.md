@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MDS5KM3/?tag=tolees-21'
 descuento: '40.92'
+average: '35.45'
 ---
 
 Tienes [Levi s Woods 794  Zapatillas para Hombre  Negro  Noir Regular Black   43 EU](https://www.amazon.es/dp/B01MDS5KM3/?tag=tolees-21) con un 40.92 % de descuento con precio de oferta de 35.45 EUR (original: 60 EUR) en el siguiente enlace!

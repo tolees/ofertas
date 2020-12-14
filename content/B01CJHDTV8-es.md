@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01CJHDTV8/?tag=tolees-21'
 descuento: '34.86'
+average: '14.95'
 ---
 
 Tienes [POWER GUIDANCE Barbell Squat Pad Protectora del Cuello y del Hombro Ideal para Squats  Lunges  Hip Thrusts  Levantamiento de Pesas y más](https://www.amazon.es/dp/B01CJHDTV8/?tag=tolees-21) con un 34.86 % de descuento con precio de oferta de 14.95 EUR (original: 22.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0722Y7GST/?tag=tolees-21'
 descuento: '59.24'
+average: '69.27'
 ---
 
 Tienes [G-Star RAW Shona  Botas Chelsea para Mujer  Azul  Dk Navy   39 EU](https://www.amazon.es/dp/B0722Y7GST/?tag=tolees-21) con un 59.24 % de descuento con precio de oferta de 69.27 EUR (original: 169.95 EUR) en el siguiente enlace!

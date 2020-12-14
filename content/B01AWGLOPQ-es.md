@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01AWGLOPQ/?tag=tolees-21'
 descuento: '30.00'
+average: '25.2'
 ---
 
 Está [Lancome Maquillaje - 15 ml](https://www.amazon.es/dp/B01AWGLOPQ/?tag=tolees-21) con 30.00 de descuento por 25.2 EUR (original: 36 EUR) en el siguiente enlace!

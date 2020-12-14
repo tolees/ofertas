@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0752NZ7XR/?tag=tolees-21'
 descuento: '53.81'
+average: '46.17'
 ---
 
 Tienes [G-STAR RAW 3301 Slim  Jeans para Hombre  Negro  Rinsed 8970-082   27W/30L](https://www.amazon.es/dp/B0752NZ7XR/?tag=tolees-21) con un 53.81 % de descuento con precio de oferta de 46.17 EUR (original: 99.95 EUR) en el siguiente enlace!

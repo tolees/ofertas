@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NAALXS1/?tag=tolees-21'
 descuento: '29.29'
+average: '42.42'
 ---
 
 Ahora mismo tienes [Pioneer SE-MS5T-T - Auriculares de tipo diadema  HiRes  power bass  micrófono  control de Smartphone   colo Marrón](https://www.amazon.es/dp/B01NAALXS1/?tag=tolees-21) a 42.42 EUR (original: 59.99 EUR) (29.29 %  de descuento) en el siguiente enlace!

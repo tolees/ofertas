@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K1W9CBL/?tag=tolees-21'
 descuento: '56.62'
+average: '49.99'
 ---
 
 Ahora mismo tienes [Homtiky Aspiradora de Mano Sin Cable  7000Pa 2600mAh 100W 30 Min Aspirador de Mano Coche Potente con flitro HEPA de Metal Permanente de Motor Potente para Mascotas  automóvil  la casa y Exteriores](https://www.amazon.es/dp/B07K1W9CBL/?tag=tolees-21) a 49.99 EUR (original: 115.25 EUR) (56.62 %  de descuento) en el siguiente enlace!

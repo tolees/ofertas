@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DGK45K1/?tag=tolees-21'
 descuento: '63.34'
+average: '29.33'
 ---
 
 Ahora mismo tienes [DC Shoes Tonik TX Se  Zapatillas de Skateboard para Hombre   Navy/Dk Choc Nc5   39 EU](https://www.amazon.es/dp/B07DGK45K1/?tag=tolees-21) a 29.33 EUR (original: 80 EUR) (63.34 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00X9W9C0A/?tag=tolees-21'
 descuento: '40.50'
+average: '5.95'
 ---
 
 Tienes [L Oréal Paris Men Expert Gel Limpiador Carbón Magnético Hydra Energetic](https://www.amazon.es/dp/B00X9W9C0A/?tag=tolees-21) con un 40.50 % de descuento con precio de oferta de 5.95 EUR (original: 10 EUR) en el siguiente enlace!

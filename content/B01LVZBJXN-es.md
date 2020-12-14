@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LVZBJXN/?tag=tolees-21'
 descuento: '25.34'
+average: '492'
 ---
 
 Está [Apple iPhone 7 Plus - Smartphone de 5.5"  32 GB  oro rosa](https://www.amazon.es/dp/B01LVZBJXN/?tag=tolees-21) con 25.34 de descuento por 492 EUR (original: 659 EUR) en el siguiente enlace!

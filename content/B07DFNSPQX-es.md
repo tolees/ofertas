@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFNSPQX/?tag=tolees-21'
 descuento: '37.50'
+average: '25'
 ---
 
 Está [New Balance 570  Zapatillas de Running Unisex Niños  Azul  Blue/Yellow by   31 EU](https://www.amazon.es/dp/B07DFNSPQX/?tag=tolees-21) con 37.50 de descuento por 25 EUR (original: 40 EUR) en el siguiente enlace!

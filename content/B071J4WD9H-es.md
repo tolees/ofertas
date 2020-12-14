@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071J4WD9H/?tag=tolees-21'
 descuento: '80.39'
+average: '17.64'
 ---
 
 Tienes [Dc Shoes Magnolia Se  Zapatillas para Mujer  Negro  Black/White   41 EU](https://www.amazon.es/dp/B071J4WD9H/?tag=tolees-21) con un 80.39 % de descuento con precio de oferta de 17.64 EUR (original: 89.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00A8JCN26/?tag=tolees-21'
 descuento: '30.00'
+average: '55.3'
 ---
 
 Está [Kanebo Shidenkai Tratamiento Capilar Anticaída - 150 ml](https://www.amazon.es/dp/B00A8JCN26/?tag=tolees-21) con 30.00 de descuento por 55.3 EUR (original: 79 EUR) en el siguiente enlace!

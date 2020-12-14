@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K816KVK/?tag=tolees-21'
 descuento: '35.74'
+average: '8.99'
 ---
 
 Está [Afeitadora Eléctrica Rotativa Máquina de Afeitar Recortador de Barba para Hombre](https://www.amazon.es/dp/B07K816KVK/?tag=tolees-21) con 35.74 de descuento por 8.99 EUR (original: 13.99 EUR) en el siguiente enlace!

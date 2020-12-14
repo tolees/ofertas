@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00L222AQC/?tag=tolees-21'
 descuento: '51.99'
+average: '28.76'
 ---
 
 Tienes [Samsung EF-BT800BWEGWW - Funda Galaxy Tab S 10.5"](https://www.amazon.es/dp/B00L222AQC/?tag=tolees-21) con un 51.99 % de descuento con precio de oferta de 28.76 EUR (original: 59.9 EUR) en el siguiente enlace!

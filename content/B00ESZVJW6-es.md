@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00ESZVJW6/?tag=tolees-21'
 descuento: '63.27'
+average: '24.24'
 ---
 
 Tienes [One Direction Our Moment Agua de Perfume Vaporizador - 100 ml](https://www.amazon.es/dp/B00ESZVJW6/?tag=tolees-21) con un 63.27 % de descuento con precio de oferta de 24.24 EUR (original: 66 EUR) en el siguiente enlace!

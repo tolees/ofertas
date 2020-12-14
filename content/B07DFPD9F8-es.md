@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DFPD9F8/?tag=tolees-21'
 descuento: '70.78'
+average: '27.76'
 ---
 
 Tienes [New Balance 247v2  Zapatillas para Mujer  Rosa  Latte/Marble Head EW Blue   36.5 EU](https://www.amazon.es/dp/B07DFPD9F8/?tag=tolees-21) con un 70.78 % de descuento con precio de oferta de 27.76 EUR (original: 95 EUR) en el siguiente enlace!

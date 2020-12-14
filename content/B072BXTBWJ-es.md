@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072BXTBWJ/?tag=tolees-21'
 descuento: '73.04'
+average: '18.87'
 ---
 
 Tienes [Under Armour UA Spotlight DL FG  Zapatillas de Fútbol para Hombre  Amarillo  Tokyo Lemon   42.5 EU](https://www.amazon.es/dp/B072BXTBWJ/?tag=tolees-21) con un 73.04 % de descuento con precio de oferta de 18.87 EUR (original: 70 EUR) en el siguiente enlace!

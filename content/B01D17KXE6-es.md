@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01D17KXE6/?tag=tolees-21'
 descuento: '35.92'
+average: '57.03'
 ---
 
 Tienes [Samsonite Rewind  Bolsa de viaje  55 cm  Negro  Black ](https://www.amazon.es/dp/B01D17KXE6/?tag=tolees-21) con un 35.92 % de descuento con precio de oferta de 57.03 EUR (original: 89 EUR) en el siguiente enlace!

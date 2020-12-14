@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JPDSPFJ/?tag=tolees-21'
 descuento: '78.33'
+average: '13'
 ---
 
 Está [Esprit Hombre 128ee2i002 suéter Not Applicable  Azul  Navy 400   Large](https://www.amazon.es/dp/B07JPDSPFJ/?tag=tolees-21) con 78.33 de descuento por 13 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00LITOIF0/?tag=tolees-21'
 descuento: '76.16'
+average: '13.11'
 ---
 
 Tienes [Tuscany Silver Pulsera de mujer con plata de ley  925/1000   bañado en oro rosa  19 cm](https://www.amazon.es/dp/B00LITOIF0/?tag=tolees-21) con un 76.16 % de descuento con precio de oferta de 13.11 EUR (original: 55 EUR) en el siguiente enlace!

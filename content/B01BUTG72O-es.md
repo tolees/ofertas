@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BUTG72O/?tag=tolees-21'
 descuento: '61.35'
+average: '9.47'
 ---
 
 Está [Revlon  Accesorio de coloración - 250 ml.](https://www.amazon.es/dp/B01BUTG72O/?tag=tolees-21) con 61.35 de descuento por 9.47 EUR (original: 24.5 EUR) en el siguiente enlace!

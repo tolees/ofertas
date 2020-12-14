@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073LJYW2R/?tag=tolees-21'
 descuento: '68.73'
+average: '8'
 ---
 
 Tienes [Alien: Covenant - Blu-Ray  4K  Ultra HD [Blu-ray]](https://www.amazon.es/dp/B073LJYW2R/?tag=tolees-21) con un 68.73 % de descuento con precio de oferta de 8 EUR (original: 25.58 EUR) en el siguiente enlace!

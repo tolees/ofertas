@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHMSYX7/?tag=tolees-21'
 descuento: '80.02'
+average: '7.99'
 ---
 
 Ahora mismo tienes [SUPORE Correa para Garmin Fenix 5X  Suave Silicona Banda de Reemplazo para Garmin Fenix 5X Sapphire Multisport 51mm GPS Watch/Fenix 3/ Fenix 5X Plus Smart Watch Pulsera](https://www.amazon.es/dp/B07DHMSYX7/?tag=tolees-21) a 7.99 EUR (original: 39.99 EUR) (80.02 %  de descuento) en el siguiente enlace!

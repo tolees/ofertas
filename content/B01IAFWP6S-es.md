@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IAFWP6S/?tag=tolees-21'
 descuento: '75.21'
+average: '18.59'
 ---
 
 Está [Vans Ua Classic Slip-on  Zapatillas para Mujer  Negro  Metallic Dots Silver/black   36 EU](https://www.amazon.es/dp/B01IAFWP6S/?tag=tolees-21) con 75.21 de descuento por 18.59 EUR (original: 75 EUR) en el siguiente enlace!

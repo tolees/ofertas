@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072WKNHFH/?tag=tolees-21'
 descuento: '57.19'
+average: '51.37'
 ---
 
 Tienes [Columbia Mountain Masochist IV  Zapatillas de Trail Running para Hombre  Azul  Phoenix Blue  Zour   44 EU](https://www.amazon.es/dp/B072WKNHFH/?tag=tolees-21) con un 57.19 % de descuento con precio de oferta de 51.37 EUR (original: 119.99 EUR) en el siguiente enlace!

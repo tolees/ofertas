@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H5MJMB6/?tag=tolees-21'
 descuento: '62.94'
+average: '18.33'
 ---
 
 Tienes [Rocket Dog Jumpin  Zapatillas para Mujer  Negro  Black Topanga A00    40 EU](https://www.amazon.es/dp/B07H5MJMB6/?tag=tolees-21) con un 62.94 % de descuento con precio de oferta de 18.33 EUR (original: 49.46 EUR) en el siguiente enlace!

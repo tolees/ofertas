@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FYFXL5P/?tag=tolees-21'
 descuento: '47.51'
+average: '20.99'
 ---
 
 Tienes [OtterBox Symmetry Clear - Funda Anti caídas Fina para iPhone XS MAX  Transparente](https://www.amazon.es/dp/B07FYFXL5P/?tag=tolees-21) con un 47.51 % de descuento con precio de oferta de 20.99 EUR (original: 39.99 EUR) en el siguiente enlace!

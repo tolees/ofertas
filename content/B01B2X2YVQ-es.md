@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01B2X2YVQ/?tag=tolees-21'
 descuento: '52.59'
+average: '64'
 ---
 
 Ahora mismo tienes [Rotary Reloj de Pulsera GB05017/04](https://www.amazon.es/dp/B01B2X2YVQ/?tag=tolees-21) a 64 EUR (original: 135 EUR) (52.59 %  de descuento) en el siguiente enlace!

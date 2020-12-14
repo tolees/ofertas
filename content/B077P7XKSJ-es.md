@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077P7XKSJ/?tag=tolees-21'
 descuento: '70.04'
+average: '29.95'
 ---
 
 Tienes [G-STAR RAW Scuba III  Zapatillas para Hombre  Verde  Smoke Green 2688   41 EU](https://www.amazon.es/dp/B077P7XKSJ/?tag=tolees-21) con un 70.04 % de descuento con precio de oferta de 29.95 EUR (original: 99.95 EUR) en el siguiente enlace!

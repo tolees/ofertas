@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M8PYMBX/?tag=tolees-21'
 descuento: '46.73'
+average: '21.86'
 ---
 
 Tienes [adidas Messi 16.4 Tf J - Zapatillas de fútbol Niños  Multicolore  Red/Cblack/Ftwwht   37 1/3 EU](https://www.amazon.es/dp/B01M8PYMBX/?tag=tolees-21) con un 46.73 % de descuento con precio de oferta de 21.86 EUR (original: 41.04 EUR) en el siguiente enlace!

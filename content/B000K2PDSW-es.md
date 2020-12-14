@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000K2PDSW/?tag=tolees-21'
 descuento: '37.20'
+average: '15.7'
 ---
 
 Ahora mismo tienes [Mannesmann - M27405 - Juego de llaves de carraca](https://www.amazon.es/dp/B000K2PDSW/?tag=tolees-21) a 15.7 EUR (original: 25 EUR) (37.20 %  de descuento) en el siguiente enlace!

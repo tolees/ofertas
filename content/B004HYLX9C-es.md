@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004HYLX9C/?tag=tolees-21'
 descuento: '47.38'
+average: '49.99'
 ---
 
 Está [Diva Professional Ultima 5000 Pro New Pink - Secador profesional  motor AC de larga vida y boquilla estrecha profesional  color rosa](https://www.amazon.es/dp/B004HYLX9C/?tag=tolees-21) con 47.38 de descuento por 49.99 EUR (original: 95 EUR) en el siguiente enlace!

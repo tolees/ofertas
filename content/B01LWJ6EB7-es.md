@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LWJ6EB7/?tag=tolees-21'
 descuento: '60.03'
+average: '19.98'
 ---
 
 Ahora mismo tienes [Philips SHB4405BK/00 - Auriculares inálambricos Over Ear con Bluetooth  Color Negro](https://www.amazon.es/dp/B01LWJ6EB7/?tag=tolees-21) a 19.98 EUR (original: 49.99 EUR) (60.03 %  de descuento) en el siguiente enlace!

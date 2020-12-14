@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J5PLT85/?tag=tolees-21'
 descuento: '58.53'
+average: '53.49'
 ---
 
 Está [Harmont & Blaine Pantaloni  Pantalones para Hombre  Azul  831 Italia  48  Talla del Fabricante: 52 ](https://www.amazon.es/dp/B07J5PLT85/?tag=tolees-21) con 58.53 de descuento por 53.49 EUR (original: 129 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D6XLG15/?tag=tolees-21'
 descuento: '48.94'
+average: '22.95'
 ---
 
 Está [Puma Always On Solid 3/4 Tight Pants  Mujer  Black  M](https://www.amazon.es/dp/B07D6XLG15/?tag=tolees-21) con 48.94 de descuento por 22.95 EUR (original: 44.95 EUR) en el siguiente enlace!

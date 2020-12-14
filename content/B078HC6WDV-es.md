@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078HC6WDV/?tag=tolees-21'
 descuento: '44.18'
+average: '33.49'
 ---
 
 Tienes [Nike Wmns Court Royale Suede  Zapatillas para Mujer  Marrón Mink Brown-Phantom 200  40.5 EU](https://www.amazon.es/dp/B078HC6WDV/?tag=tolees-21) con un 44.18 % de descuento con precio de oferta de 33.49 EUR (original: 60 EUR) en el siguiente enlace!

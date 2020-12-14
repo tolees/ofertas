@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G2YKF4S/?tag=tolees-21'
 descuento: '31.20'
+average: '92'
 ---
 
 Está [Casio Reloj Analógico-Digital para Mujer de Cuarzo con Correa en Resina BSA-B100-7AER](https://www.amazon.es/dp/B07G2YKF4S/?tag=tolees-21) con 31.20 de descuento por 92 EUR (original: 133.72 EUR) en el siguiente enlace!

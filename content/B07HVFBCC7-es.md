@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HVFBCC7/?tag=tolees-21'
 descuento: '49.99'
+average: '44.98'
 ---
 
 Ahora mismo tienes [adidas N-5923  Zapatillas de Gimnasia para Hombre  Verde Raw Khaki/FTWR White/Gum4  44 EU](https://www.amazon.es/dp/B07HVFBCC7/?tag=tolees-21) a 44.98 EUR (original: 89.95 EUR) (49.99 %  de descuento) en el siguiente enlace!

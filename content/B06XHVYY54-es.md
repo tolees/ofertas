@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XHVYY54/?tag=tolees-21'
 descuento: '51.60'
+average: '5.3'
 ---
 
 Tienes [Joma Tokio II Pantalones Cortos  Hombre  Multicolor  Marino/Blanco   XXS](https://www.amazon.es/dp/B06XHVYY54/?tag=tolees-21) con un 51.60 % de descuento con precio de oferta de 5.3 EUR (original: 10.95 EUR) en el siguiente enlace!

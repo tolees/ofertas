@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073JQDLXQ/?tag=tolees-21'
 descuento: '36.36'
+average: '14'
 ---
 
 Está [FIND Jesery de Pico para Hombre  Azul  Navy   Small](https://www.amazon.es/dp/B073JQDLXQ/?tag=tolees-21) con 36.36 de descuento por 14 EUR (original: 22 EUR) en el siguiente enlace!

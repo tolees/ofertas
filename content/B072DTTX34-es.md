@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072DTTX34/?tag=tolees-21'
 descuento: '54.02'
+average: '9.15'
 ---
 
 Está [Piz Buin - Protección Solar  Loción Solar Instant Glow Piel Luminosa SPF 30 - Protección alta Bote 150ml](https://www.amazon.es/dp/B072DTTX34/?tag=tolees-21) con 54.02 de descuento por 9.15 EUR (original: 19.9 EUR) en el siguiente enlace!

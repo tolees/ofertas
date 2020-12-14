@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LYI1V3T/?tag=tolees-21'
 descuento: '69.43'
+average: '51.35'
 ---
 
 Ahora mismo tienes [Diesel 0858D-00S54W L.34  Jeans para Mujer  1 28](https://www.amazon.es/dp/B01LYI1V3T/?tag=tolees-21) a 51.35 EUR (original: 168 EUR) (69.43 %  de descuento) en el siguiente enlace!

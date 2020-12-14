@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078GTKGD5/?tag=tolees-21'
 descuento: '45.02'
+average: '10.99'
 ---
 
 Ahora mismo tienes [Springfield 1433555  Polo para Hombre   Blanco   Large  Tamaño del Fabricante:4 ](https://www.amazon.es/dp/B078GTKGD5/?tag=tolees-21) a 10.99 EUR (original: 19.99 EUR) (45.02 %  de descuento) en el siguiente enlace!

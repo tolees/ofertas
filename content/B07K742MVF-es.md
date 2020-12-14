@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K742MVF/?tag=tolees-21'
 descuento: '41.67'
+average: '34.97'
 ---
 
 Ahora mismo tienes [Reebok Royal Complete 2LL  Zapatillas de Gimnasia para Hombre  Blanco  White/Black 0   43 EU](https://www.amazon.es/dp/B07K742MVF/?tag=tolees-21) a 34.97 EUR (original: 59.95 EUR) (41.67 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JZ8NRFF/?tag=tolees-21'
 descuento: '75.09'
+average: '1.99'
 ---
 
 Tienes [Toyvian 2 unids Truco mágico Dedos Dedos Falsos Puntas del Pulgar Suave Etapa Mostrar Prop Juguete de la Broma con un paño de Entrenamiento de Seda Rojo](https://www.amazon.es/dp/B07JZ8NRFF/?tag=tolees-21) con un 75.09 % de descuento con precio de oferta de 1.99 EUR (original: 7.99 EUR) en el siguiente enlace!

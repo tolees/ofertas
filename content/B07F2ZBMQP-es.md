@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F2ZBMQP/?tag=tolees-21'
 descuento: '79.98'
+average: '26.99'
 ---
 
 Tienes [Homever Tabla de Cortar  Juego de Tablas de Cortar de bambú de 3 Piezas Plus Cesta Colgante - Tablas de Cortar orgánicas antibacterianas con un Soporte de Acero Inoxidable para](https://www.amazon.es/dp/B07F2ZBMQP/?tag=tolees-21) con un 79.98 % de descuento con precio de oferta de 26.99 EUR (original: 134.84 EUR) en el siguiente enlace!

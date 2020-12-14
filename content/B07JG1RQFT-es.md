@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JG1RQFT/?tag=tolees-21'
 descuento: '38.46'
+average: '159.99'
 ---
 
 Ahora mismo tienes [Blackview BV5800 Movil Antigolpes 5580mAh 18:9 Pantalla Completa 5.5’’ Android 8.1 Smartphone Red Dual 4G 13+8MP Dual Cámara IP68 Impermeablel a Prueba de Golpes 2+16GB Moviles Resistentes Negro](https://www.amazon.es/dp/B07JG1RQFT/?tag=tolees-21) a 159.99 EUR (original: 259.99 EUR) (38.46 %  de descuento) en el siguiente enlace!

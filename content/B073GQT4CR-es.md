@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073GQT4CR/?tag=tolees-21'
 descuento: '60.55'
+average: '19.72'
 ---
 
 Ahora mismo tienes [Esprit 097ee1b022  Pantalones Mujer  Azul  Navy 400   W40/L32](https://www.amazon.es/dp/B073GQT4CR/?tag=tolees-21) a 19.72 EUR (original: 49.99 EUR) (60.55 %  de descuento) en el siguiente enlace!

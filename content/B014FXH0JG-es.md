@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B014FXH0JG/?tag=tolees-21'
 descuento: '60.10'
+average: '64.2'
 ---
 
 Ahora mismo tienes [Bolero gh551 pavimento estilo acero sillas  gris  Pack de 2 ](https://www.amazon.es/dp/B014FXH0JG/?tag=tolees-21) a 64.2 EUR (original: 160.91 EUR) (60.10 %  de descuento) en el siguiente enlace!

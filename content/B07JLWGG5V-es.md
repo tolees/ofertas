@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JLWGG5V/?tag=tolees-21'
 descuento: '32.02'
+average: '9.98'
 ---
 
 Tienes [MINI503 Gancho para la Oreja Mini Deportes Inalámbrico Auriculares Bluetooth Hi-Fi Manos Libres Estéreo Auriculares Auriculares TF Tarjeta para Reproductor de MP3](https://www.amazon.es/dp/B07JLWGG5V/?tag=tolees-21) con un 32.02 % de descuento con precio de oferta de 9.98 EUR (original: 14.68 EUR) en el siguiente enlace!

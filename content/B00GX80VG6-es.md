@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00GX80VG6/?tag=tolees-21'
 descuento: '49.53'
+average: '15.5'
 ---
 
 Ahora mismo tienes [High School Of The Dead - Serie Completa [Blu-ray]](https://www.amazon.es/dp/B00GX80VG6/?tag=tolees-21) a 15.5 EUR (original: 30.71 EUR) (49.53 %  de descuento) en el siguiente enlace!

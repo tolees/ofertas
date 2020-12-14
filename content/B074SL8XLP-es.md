@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074SL8XLP/?tag=tolees-21'
 descuento: '27.24'
+average: '37.8'
 ---
 
 Está [Casa Creativa Doria Nórdica con Funda Cojín Decorativo  Algodón-Poliéster  Malva  220x270x1 cm](https://www.amazon.es/dp/B074SL8XLP/?tag=tolees-21) con 27.24 de descuento por 37.8 EUR (original: 51.95 EUR) en el siguiente enlace!

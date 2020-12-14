@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06Y4DWFX9/?tag=tolees-21'
 descuento: '30.94'
+average: '29'
 ---
 
 Está [Asus Cerberus MKII - Teclado gaming con retroiluminación LED multicolor con diseño a prueba de salpicaduras  placa metálica SECC completa  12 teclas macro y pies completamente recubiertos de goma](https://www.amazon.es/dp/B06Y4DWFX9/?tag=tolees-21) con 30.94 de descuento por 29 EUR (original: 41.99 EUR) en el siguiente enlace!

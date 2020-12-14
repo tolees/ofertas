@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FMWDJP4/?tag=tolees-21'
 descuento: '62.51'
+average: '29.99'
 ---
 
 Ahora mismo tienes [Irrigador Dental CARLCOO Profesional Irrigador Bucal Portátil Impermeable IPX7 Water Flosser con Tanque de Agua Desmontable de 300ml Irrigador Oral con 3 Modos de Limpiar color blanco](https://www.amazon.es/dp/B07FMWDJP4/?tag=tolees-21) a 29.99 EUR (original: 79.99 EUR) (62.51 %  de descuento) en el siguiente enlace!

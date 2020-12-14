@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HZ5XWOS/?tag=tolees-21'
 descuento: '76.47'
+average: '10.82'
 ---
 
 Tienes [edc by ESPRIT 086CC1B033  Pantalones Mujer  Gris  DARK GREY 5   34  Talla del fabricante: X-Small ](https://www.amazon.es/dp/B01HZ5XWOS/?tag=tolees-21) con un 76.47 % de descuento con precio de oferta de 10.82 EUR (original: 45.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079J7YYYJ/?tag=tolees-21'
 descuento: '41.47'
+average: '25.11'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger 3p Trunk  Bóxers Para Hombre  Multicolor  Deep Sea Coral/Infinity/Vibrant Yellowp 890   Medium   Pack de 3 ](https://www.amazon.es/dp/B079J7YYYJ/?tag=tolees-21) a 25.11 EUR (original: 42.9 EUR) (41.47 %  de descuento) en el siguiente enlace!

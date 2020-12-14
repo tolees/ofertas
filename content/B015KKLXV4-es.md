@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B015KKLXV4/?tag=tolees-21'
 descuento: '71.34'
+average: '17.18'
 ---
 
 Está [Kappa Sunrise Light  Zapatillas Unisex Adulto  Blanco  White/Black   37 EU](https://www.amazon.es/dp/B015KKLXV4/?tag=tolees-21) con 71.34 de descuento por 17.18 EUR (original: 59.95 EUR) en el siguiente enlace!

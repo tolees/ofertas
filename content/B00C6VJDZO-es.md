@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00C6VJDZO/?tag=tolees-21'
 descuento: '49.08'
+average: '106.63'
 ---
 
 Tienes [Seiko SNN237P1 - Reloj analógico de Cuarzo para Hombre con Correa de Acero Inoxidable  Color Negro](https://www.amazon.es/dp/B00C6VJDZO/?tag=tolees-21) con un 49.08 % de descuento con precio de oferta de 106.63 EUR (original: 209.41 EUR) en el siguiente enlace!

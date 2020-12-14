@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DBWXW4S/?tag=tolees-21'
 descuento: '72.01'
+average: '25.18'
 ---
 
 Ahora mismo tienes [Puma Suede Heart Galaxy Wn s  Zapatillas para Mujer  Negro Black Silver  36 EU](https://www.amazon.es/dp/B07DBWXW4S/?tag=tolees-21) a 25.18 EUR (original: 89.95 EUR) (72.01 %  de descuento) en el siguiente enlace!

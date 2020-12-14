@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HGQKWTR/?tag=tolees-21'
 descuento: '42.32'
+average: '14.99'
 ---
 
 Está [Lumiparty Doctora Juguetes  Médico Kit para Niños Juguetes Educativos para Fingir Juego  Azul ](https://www.amazon.es/dp/B07HGQKWTR/?tag=tolees-21) con 42.32 de descuento por 14.99 EUR (original: 25.99 EUR) en el siguiente enlace!

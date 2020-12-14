@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LQC71HK/?tag=tolees-21'
 descuento: '61.00'
+average: '8.95'
 ---
 
 Tienes [Original Buff - Knitted & Polar Hat Solid Unisex Adulto  talla unica  color Basic Dark Navy](https://www.amazon.es/dp/B01LQC71HK/?tag=tolees-21) con un 61.00 % de descuento con precio de oferta de 8.95 EUR (original: 22.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BYSCY4V/?tag=tolees-21'
 descuento: '82.23'
+average: '7.1'
 ---
 
 Ahora mismo tienes [Sloggi Women Move Fly Capri  Ropa Interior técnica Mujer   Grey Combination M013   38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B07BYSCY4V/?tag=tolees-21) a 7.1 EUR (original: 39.95 EUR) (82.23 %  de descuento) en el siguiente enlace!

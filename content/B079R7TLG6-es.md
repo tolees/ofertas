@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079R7TLG6/?tag=tolees-21'
 descuento: '59.95'
+average: '16.02'
 ---
 
 Ahora mismo tienes [Hurley Supersuede Koko Beachrider Bañador  Mujer  Azul  Ocean Bliss   L](https://www.amazon.es/dp/B079R7TLG6/?tag=tolees-21) a 16.02 EUR (original: 40 EUR) (59.95 %  de descuento) en el siguiente enlace!

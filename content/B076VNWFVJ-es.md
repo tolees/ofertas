@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076VNWFVJ/?tag=tolees-21'
 descuento: '64.93'
+average: '70.12'
 ---
 
 Está [G-STAR RAW Motac-x DC Cargo Tapered  Pantalones Hombre  Negro  Black 990   W34/L34  Talla del Fabricante: 34/34 ](https://www.amazon.es/dp/B076VNWFVJ/?tag=tolees-21) con 64.93 de descuento por 70.12 EUR (original: 199.95 EUR) en el siguiente enlace!

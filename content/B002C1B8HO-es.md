@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002C1B8HO/?tag=tolees-21'
 descuento: '37.48'
+average: '18.75'
 ---
 
 Ahora mismo tienes [Weider Thermo - 120 Capsulas](https://www.amazon.es/dp/B002C1B8HO/?tag=tolees-21) a 18.75 EUR (original: 29.99 EUR) (37.48 %  de descuento) en el siguiente enlace!

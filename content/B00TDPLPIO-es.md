@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TDPLPIO/?tag=tolees-21'
 descuento: '51.03'
+average: '39.04'
 ---
 
 Tienes [Versa Patchwork Taburete Cuadrado  Madera  Rosa/Azul  35 x 35 x 35 cm](https://www.amazon.es/dp/B00TDPLPIO/?tag=tolees-21) con un 51.03 % de descuento con precio de oferta de 39.04 EUR (original: 79.73 EUR) en el siguiente enlace!

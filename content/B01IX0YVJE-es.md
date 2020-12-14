@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IX0YVJE/?tag=tolees-21'
 descuento: '53.98'
+average: '8.26'
 ---
 
 Está [Sloggi slm Basic Soft Short  Bañador Hombre  Blanco  WHITE   XX-Large  Talla del fabricante: 8 ](https://www.amazon.es/dp/B01IX0YVJE/?tag=tolees-21) con 53.98 de descuento por 8.26 EUR (original: 17.95 EUR) en el siguiente enlace!

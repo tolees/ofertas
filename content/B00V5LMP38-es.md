@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00V5LMP38/?tag=tolees-21'
 descuento: '63.87'
+average: '6.45'
 ---
 
 Está [Spalding T-Shirt Promo tee Camiseta/Camisa Deportiva para Hombre  Color Rojo  Talla L](https://www.amazon.es/dp/B00V5LMP38/?tag=tolees-21) con 63.87 de descuento por 6.45 EUR (original: 17.85 EUR) en el siguiente enlace!

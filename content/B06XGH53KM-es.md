@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XGH53KM/?tag=tolees-21'
 descuento: '30.00'
+average: '17.5'
 ---
 
 Ahora mismo tienes [FIND  Zapatillas de Tela para Hombre  Negro  Black   44 EU](https://www.amazon.es/dp/B06XGH53KM/?tag=tolees-21) a 17.5 EUR (original: 25 EUR) (30.00 %  de descuento) en el siguiente enlace!

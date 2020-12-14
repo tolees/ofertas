@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D6RVSB5/?tag=tolees-21'
 descuento: '77.70'
+average: '26.76'
 ---
 
 Tienes [Clarks Demi Beat  Botas Estilo Motero para Mujer  Beige  Sand Suede-   37.5 EU](https://www.amazon.es/dp/B07D6RVSB5/?tag=tolees-21) con un 77.70 % de descuento con precio de oferta de 26.76 EUR (original: 120 EUR) en el siguiente enlace!

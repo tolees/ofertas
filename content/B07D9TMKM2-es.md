@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9TMKM2/?tag=tolees-21'
 descuento: '85.27'
+average: '13.25'
 ---
 
 Tienes [Puma Pacer Next SB WTR  Zapatillas Altas Unisex Adulto  Rosa  Magenta Haze-Iron Gate-Whisper White 03   42.5 EU](https://www.amazon.es/dp/B07D9TMKM2/?tag=tolees-21) con un 85.27 % de descuento con precio de oferta de 13.25 EUR (original: 89.95 EUR) en el siguiente enlace!

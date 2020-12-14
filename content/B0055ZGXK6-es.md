@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0055ZGXK6/?tag=tolees-21'
 descuento: '36.71'
+average: '33.48'
 ---
 
 Está [Jata 530 - Báscula electrónica  meteo  opción mural](https://www.amazon.es/dp/B0055ZGXK6/?tag=tolees-21) con 36.71 de descuento por 33.48 EUR (original: 52.9 EUR) en el siguiente enlace!

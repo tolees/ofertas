@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079XFDH85/?tag=tolees-21'
 descuento: '47.25'
+average: '18.99'
 ---
 
 Ahora mismo tienes [Mayoral Reservado D.O Jumilla. Vino Tinto - 6 Botellas x 750 ml - Total: 4500 ml](https://www.amazon.es/dp/B079XFDH85/?tag=tolees-21) a 18.99 EUR (original: 36 EUR) (47.25 %  de descuento) en el siguiente enlace!

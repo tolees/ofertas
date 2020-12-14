@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DB3WPD5/?tag=tolees-21'
 descuento: '66.31'
+average: '14.99'
 ---
 
 Tienes [IGERESS Tablero de Escritura LCD Rosa más Nuevo de 9 Pulgadas Tablero de Escritura electrónico Tablero de Dibujo Digital Tableta de Dibujo gráfico Durable  Rosa  …](https://www.amazon.es/dp/B07DB3WPD5/?tag=tolees-21) con un 66.31 % de descuento con precio de oferta de 14.99 EUR (original: 44.5 EUR) en el siguiente enlace!

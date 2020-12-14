@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078TMNQ4C/?tag=tolees-21'
 descuento: '60.17'
+average: '7.15'
 ---
 
 Está [Puma Ligas Pants  Hombre  White/Red  XXL](https://www.amazon.es/dp/B078TMNQ4C/?tag=tolees-21) con 60.17 de descuento por 7.15 EUR (original: 17.95 EUR) en el siguiente enlace!

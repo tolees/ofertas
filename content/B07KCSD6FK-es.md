@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KCSD6FK/?tag=tolees-21'
 descuento: '49.33'
+average: '15.96'
 ---
 
 Está [David Jones - Cm5003  Bolsos totes Mujer  Rosa  Pink/Beige   13x29x24 cm  W x H L ](https://www.amazon.es/dp/B07KCSD6FK/?tag=tolees-21) con 49.33 de descuento por 15.96 EUR (original: 31.5 EUR) en el siguiente enlace!

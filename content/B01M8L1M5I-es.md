@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M8L1M5I/?tag=tolees-21'
 descuento: '50.04'
+average: '34.95'
 ---
 
 Tienes [Skechers Flex Advantage 2.0-The Happs  Zapatillas para Hombre  Azul  Dark Navy   40 EU](https://www.amazon.es/dp/B01M8L1M5I/?tag=tolees-21) con un 50.04 % de descuento con precio de oferta de 34.95 EUR (original: 69.95 EUR) en el siguiente enlace!

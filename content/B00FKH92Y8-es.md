@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00FKH92Y8/?tag=tolees-21'
 descuento: '31.72'
+average: '67.6'
 ---
 
 Está [New Balance Ml574  Zapatillas para Hombre  Marrón  Brown Full Pigskin   42 EU](https://www.amazon.es/dp/B00FKH92Y8/?tag=tolees-21) con 31.72 de descuento por 67.6 EUR (original: 99 EUR) en el siguiente enlace!

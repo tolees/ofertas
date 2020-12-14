@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00WSRKM3I/?tag=tolees-21'
 descuento: '38.80'
+average: '98.93'
 ---
 
 Tienes [HOGAR24 ES Colchón Viscoelástico Viscorelax Transpirable  180 x 190 cm](https://www.amazon.es/dp/B00WSRKM3I/?tag=tolees-21) con un 38.80 % de descuento con precio de oferta de 98.93 EUR (original: 161.65 EUR) en el siguiente enlace!

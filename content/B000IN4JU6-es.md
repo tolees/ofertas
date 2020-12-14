@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000IN4JU6/?tag=tolees-21'
 descuento: '47.03'
+average: '105.41'
 ---
 
 Está [UGG Australia Classic Short - Botas para Hombre  Color marrón  Talla 40.5](https://www.amazon.es/dp/B000IN4JU6/?tag=tolees-21) con 47.03 de descuento por 105.41 EUR (original: 199 EUR) en el siguiente enlace!

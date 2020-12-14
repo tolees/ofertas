@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ21DYJ/?tag=tolees-21'
 descuento: '45.90'
+average: '48.69'
 ---
 
 Está [New Balance CRT300  Zapatillas para Hombre  Azul  North Sea/White HP   42.5 EU](https://www.amazon.es/dp/B07DJ21DYJ/?tag=tolees-21) con 45.90 de descuento por 48.69 EUR (original: 90 EUR) en el siguiente enlace!

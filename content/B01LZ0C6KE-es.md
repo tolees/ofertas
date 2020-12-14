@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LZ0C6KE/?tag=tolees-21'
 descuento: '48.97'
+average: '24.08'
 ---
 
 Está [JBM 52566 Faro trabajo led cuadrado](https://www.amazon.es/dp/B01LZ0C6KE/?tag=tolees-21) con 48.97 de descuento por 24.08 EUR (original: 47.19 EUR) en el siguiente enlace!

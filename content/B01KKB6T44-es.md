@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KKB6T44/?tag=tolees-21'
 descuento: '48.84'
+average: '45.99'
 ---
 
 Tienes [devolo dLAN 550+ WiFi - Extensión Powerline PLC   500 Mbps LAN  300 Mbps WiFi ](https://www.amazon.es/dp/B01KKB6T44/?tag=tolees-21) con un 48.84 % de descuento con precio de oferta de 45.99 EUR (original: 89.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0714JXRKP/?tag=tolees-21'
 descuento: '55.61'
+average: '10.95'
 ---
 
 Tienes [Head Princess Traje De Baño Olimpico  Niñas  Verde  12](https://www.amazon.es/dp/B0714JXRKP/?tag=tolees-21) con un 55.61 % de descuento con precio de oferta de 10.95 EUR (original: 24.67 EUR) en el siguiente enlace!

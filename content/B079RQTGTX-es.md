@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RQTGTX/?tag=tolees-21'
 descuento: '55.94'
+average: '26.39'
 ---
 
 Está [Pepe Jeans Monument Suéter  Azul  Deep Sea 597   S para Hombre](https://www.amazon.es/dp/B079RQTGTX/?tag=tolees-21) con 55.94 de descuento por 26.39 EUR (original: 59.9 EUR) en el siguiente enlace!

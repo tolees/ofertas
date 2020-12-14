@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B016QR6DU6/?tag=tolees-21'
 descuento: '25.83'
+average: '6'
 ---
 
 Está [No Label – Juego de 3 Pelotas de Tenis Amarillo](https://www.amazon.es/dp/B016QR6DU6/?tag=tolees-21) con 25.83 de descuento por 6 EUR (original: 8.09 EUR) en el siguiente enlace!

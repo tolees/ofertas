@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DHYDZ7S/?tag=tolees-21'
 descuento: '50.00'
+average: '42.5'
 ---
 
 Ahora mismo tienes [Lacoste Sideline 119 1 CMA  Zapatillas para Hombre  Azul  Nvy/Off Wht J18   43 EU](https://www.amazon.es/dp/B07DHYDZ7S/?tag=tolees-21) a 42.5 EUR (original: 85 EUR) (50.00 %  de descuento) en el siguiente enlace!

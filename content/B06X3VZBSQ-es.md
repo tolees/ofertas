@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06X3VZBSQ/?tag=tolees-21'
 descuento: '33.50'
+average: '19.95'
 ---
 
 Tienes [Wilson Fusion XL Raqueta  Unisex Adulto  Rojo/Negro  2](https://www.amazon.es/dp/B06X3VZBSQ/?tag=tolees-21) con un 33.50 % de descuento con precio de oferta de 19.95 EUR (original: 30 EUR) en el siguiente enlace!

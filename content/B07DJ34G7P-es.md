@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ34G7P/?tag=tolees-21'
 descuento: '67.28'
+average: '32.72'
 ---
 
 Tienes [New Balance 574S v2  Zapatillas para Mujer  Rosa Cashmere Tea  36 EU](https://www.amazon.es/dp/B07DJ34G7P/?tag=tolees-21) con un 67.28 % de descuento con precio de oferta de 32.72 EUR (original: 100 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074S5MJJ9/?tag=tolees-21'
 descuento: '50.49'
+average: '29.68'
 ---
 
 Está [Skechers On-The-go Glide-Success  Zapatillas sin Cordones para Hombre  Azul  Dark Denim   47 EU](https://www.amazon.es/dp/B074S5MJJ9/?tag=tolees-21) con 50.49 de descuento por 29.68 EUR (original: 59.95 EUR) en el siguiente enlace!

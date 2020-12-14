@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002KD20GM/?tag=tolees-21'
 descuento: '60.14'
+average: '180.75'
 ---
 
 Está [Donic-Schildkröt  - Mesa de Ping Pong](https://www.amazon.es/dp/B002KD20GM/?tag=tolees-21) con 60.14 de descuento por 180.75 EUR (original: 453.48 EUR) en el siguiente enlace!

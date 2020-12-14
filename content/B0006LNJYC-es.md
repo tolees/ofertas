@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0006LNJYC/?tag=tolees-21'
 descuento: '48.29'
+average: '12.4'
 ---
 
 Tienes [Mac  Pintalabios - 100 gr.](https://www.amazon.es/dp/B0006LNJYC/?tag=tolees-21) con un 48.29 % de descuento con precio de oferta de 12.4 EUR (original: 23.98 EUR) en el siguiente enlace!

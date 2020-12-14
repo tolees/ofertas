@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HNZG5Q8/?tag=tolees-21'
 descuento: '28.59'
+average: '9.99'
 ---
 
 Ahora mismo tienes [TOTU Paraguas Paraguas de Viaje Plegable Paraguas antiviento con Apertura y Cierre automático con 8 Varillas de Fibra de Carbono  Negro ](https://www.amazon.es/dp/B07HNZG5Q8/?tag=tolees-21) a 9.99 EUR (original: 13.99 EUR) (28.59 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IRLGM3W/?tag=tolees-21'
 descuento: '50.04'
+average: '32.45'
 ---
 
 Está [Skechers Lanson-Rometo  Zapatillas de Entrenamiento para Hombre  Azul  Navy   42.5 EU](https://www.amazon.es/dp/B01IRLGM3W/?tag=tolees-21) con 50.04 de descuento por 32.45 EUR (original: 64.95 EUR) en el siguiente enlace!

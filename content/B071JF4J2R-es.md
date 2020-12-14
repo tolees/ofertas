@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071JF4J2R/?tag=tolees-21'
 descuento: '45.66'
+average: '21.71'
 ---
 
 Ahora mismo tienes [adidas Conquisto II FG  Zapatillas de Fútbol para Hombre  Blanco  FTWR White/Core Black/Grey Two   43 1/3 EU](https://www.amazon.es/dp/B071JF4J2R/?tag=tolees-21) a 21.71 EUR (original: 39.95 EUR) (45.66 %  de descuento) en el siguiente enlace!

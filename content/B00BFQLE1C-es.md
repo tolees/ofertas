@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00BFQLE1C/?tag=tolees-21'
 descuento: '43.80'
+average: '10.11'
 ---
 
 Está [Bisk 00408 Deco Percha Doble  7 5 x 6 x 7 5 cm  Acabado latón Envejecido](https://www.amazon.es/dp/B00BFQLE1C/?tag=tolees-21) con 43.80 de descuento por 10.11 EUR (original: 17.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00W1T18HC/?tag=tolees-21'
 descuento: '35.68'
+average: '13.5'
 ---
 
 Está [ROC Soleil Protect - Fluido Matificante  Anti Brillos  SPF30  50 ml](https://www.amazon.es/dp/B00W1T18HC/?tag=tolees-21) con 35.68 de descuento por 13.5 EUR (original: 20.99 EUR) en el siguiente enlace!

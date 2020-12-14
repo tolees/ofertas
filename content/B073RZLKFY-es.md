@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073RZLKFY/?tag=tolees-21'
 descuento: '34.93'
+average: '309'
 ---
 
 Está [Thermaltake Toughpower iRGB 80 Plus Titanium - Fuente de alimentación  1250 W  Color Negro](https://www.amazon.es/dp/B073RZLKFY/?tag=tolees-21) con 34.93 de descuento por 309 EUR (original: 474.9 EUR) en el siguiente enlace!

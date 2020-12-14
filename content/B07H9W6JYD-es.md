@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H9W6JYD/?tag=tolees-21'
 descuento: '40.99'
+average: '35.99'
 ---
 
 Está [Auriculares Bluetooth Auriculares Inalámbricos Kissral Bluetooth 5.0 Sencillo emparejamiento de Auriculares Bluetooth con Estuche de Carga de 500mAh para iPhone y Android](https://www.amazon.es/dp/B07H9W6JYD/?tag=tolees-21) con 40.99 de descuento por 35.99 EUR (original: 60.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M8GFL6B/?tag=tolees-21'
 descuento: '28.62'
+average: '19.95'
 ---
 
 Tienes [MTNG 84056  Zapatillas para Hombre  Rojo  Novi Soft PU Burdeos C45545   44 EU](https://www.amazon.es/dp/B07M8GFL6B/?tag=tolees-21) con un 28.62 % de descuento con precio de oferta de 19.95 EUR (original: 27.95 EUR) en el siguiente enlace!

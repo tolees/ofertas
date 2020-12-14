@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJB1W3H/?tag=tolees-21'
 descuento: '26.94'
+average: '32.84'
 ---
 
 Ahora mismo tienes [Stefanplast Bandeja Gatos WC Furba Top Chic  58x39x43cm  Blanco Y Taupe](https://www.amazon.es/dp/B07DJB1W3H/?tag=tolees-21) a 32.84 EUR (original: 44.95 EUR) (26.94 %  de descuento) en el siguiente enlace!

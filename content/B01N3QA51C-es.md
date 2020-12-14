@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N3QA51C/?tag=tolees-21'
 descuento: '51.67'
+average: '16.91'
 ---
 
 Está [Only Onlbologne L/s Pullover Knt Noos  suéter Mujer   Light Grey Melange   40  Talla del Fabricante: Large ](https://www.amazon.es/dp/B01N3QA51C/?tag=tolees-21) con 51.67 de descuento por 16.91 EUR (original: 34.99 EUR) en el siguiente enlace!

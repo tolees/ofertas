@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01E4XDGD6/?tag=tolees-21'
 descuento: '45.74'
+average: '18.99'
 ---
 
 Ahora mismo tienes [Gratlin - Sujetador Lactancia Premamá Algodón Con Aros Para Mujer Morado claro ES:105D  EU 90D ](https://www.amazon.es/dp/B01E4XDGD6/?tag=tolees-21) a 18.99 EUR (original: 35 EUR) (45.74 %  de descuento) en el siguiente enlace!

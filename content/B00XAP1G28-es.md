@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00XAP1G28/?tag=tolees-21'
 descuento: '38.40'
+average: '9.24'
 ---
 
 Ahora mismo tienes [Haribo Discos Negros  2kg ](https://www.amazon.es/dp/B00XAP1G28/?tag=tolees-21) a 9.24 EUR (original: 15 EUR) (38.40 %  de descuento) en el siguiente enlace!

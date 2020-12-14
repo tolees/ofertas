@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B009T4BPIE/?tag=tolees-21'
 descuento: '33.14'
+average: '24.05'
 ---
 
 Está [Botanic Ultra Premium Ginebra - 700 ml](https://www.amazon.es/dp/B009T4BPIE/?tag=tolees-21) con 33.14 de descuento por 24.05 EUR (original: 35.97 EUR) en el siguiente enlace!

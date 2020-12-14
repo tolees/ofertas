@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D2C6MH4/?tag=tolees-21'
 descuento: '60.03'
+average: '7.99'
 ---
 
 Está [Cabezal de Ducha  Ducha Eachy 3 Opciones Mano universal Bath Filtro de Alta Presión Ducha  Chrome  ahorro de agua ](https://www.amazon.es/dp/B07D2C6MH4/?tag=tolees-21) con 60.03 de descuento por 7.99 EUR (original: 19.99 EUR) en el siguiente enlace!

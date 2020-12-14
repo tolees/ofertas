@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KCX4YX3/?tag=tolees-21'
 descuento: '54.83'
+average: '14.23'
 ---
 
 Ahora mismo tienes [David Jones - Cm3808  Bolsos totes Mujer  Azul  Peacock Blue   17x32x36 cm  W x H L ](https://www.amazon.es/dp/B07KCX4YX3/?tag=tolees-21) a 14.23 EUR (original: 31.5 EUR) (54.83 %  de descuento) en el siguiente enlace!

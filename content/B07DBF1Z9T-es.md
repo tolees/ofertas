@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DBF1Z9T/?tag=tolees-21'
 descuento: '70.72'
+average: '8.77'
 ---
 
 Ahora mismo tienes [United Colors of Benetton Sweater L/s  suéter para Niños  Negro  Black 100  134  Talla del Fabricante: Large ](https://www.amazon.es/dp/B07DBF1Z9T/?tag=tolees-21) a 8.77 EUR (original: 29.95 EUR) (70.72 %  de descuento) en el siguiente enlace!

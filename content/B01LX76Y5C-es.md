@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LX76Y5C/?tag=tolees-21'
 descuento: '28.55'
+average: '29.98'
 ---
 
 Está [adidas Gazelle J  Zapatillas Unisex Niños  Gris  Solid Grey/Footwear White/Gold Metallic 0   36 EU](https://www.amazon.es/dp/B01LX76Y5C/?tag=tolees-21) con 28.55 de descuento por 29.98 EUR (original: 41.96 EUR) en el siguiente enlace!

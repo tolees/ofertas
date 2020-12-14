@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N15HZST/?tag=tolees-21'
 descuento: '58.29'
+average: '83.39'
 ---
 
 Está [Head Alpha Elite Pala de Pádel  Hombre  Gris/Azul  Talla Única](https://www.amazon.es/dp/B01N15HZST/?tag=tolees-21) con 58.29 de descuento por 83.39 EUR (original: 199.95 EUR) en el siguiente enlace!

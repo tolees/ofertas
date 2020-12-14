@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BN1BW42/?tag=tolees-21'
 descuento: '61.97'
+average: '7.91'
 ---
 
 Ahora mismo tienes [Therapearl Bolsa de Frio y Calor para Rodilla - 1 unidad](https://www.amazon.es/dp/B01BN1BW42/?tag=tolees-21) a 7.91 EUR (original: 20.8 EUR) (61.97 %  de descuento) en el siguiente enlace!

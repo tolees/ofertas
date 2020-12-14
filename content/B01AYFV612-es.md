@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01AYFV612/?tag=tolees-21'
 descuento: '31.52'
+average: '233.84'
 ---
 
 Está [Huawei MediaPad M2 Tableta  16GB  3G 4G  pantalla de 10"  IEEE 802.11ac  Android  Pizarra  color plata](https://www.amazon.es/dp/B01AYFV612/?tag=tolees-21) con 31.52 de descuento por 233.84 EUR (original: 341.48 EUR) en el siguiente enlace!

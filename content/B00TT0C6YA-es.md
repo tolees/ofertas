@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TT0C6YA/?tag=tolees-21'
 descuento: '58.28'
+average: '8.67'
 ---
 
 Tienes [Bahco 21HDD-160IP ALICATE CORTANTE Heavy Duty PVC 160 ENVASE Industrial  160 mm](https://www.amazon.es/dp/B00TT0C6YA/?tag=tolees-21) con un 58.28 % de descuento con precio de oferta de 8.67 EUR (original: 20.78 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FWYN21R/?tag=tolees-21'
 descuento: '57.76'
+average: '16.89'
 ---
 
 Está [Luces Solares Jardín LED Hovast [10 Paquetes] Lámpara Solar Exterior Impermeables Acero Inoxidable Luz Solar Landscape Pathway Luces para Patio  Césped  Patio  Pasillo Terraza](https://www.amazon.es/dp/B07FWYN21R/?tag=tolees-21) con 57.76 de descuento por 16.89 EUR (original: 39.99 EUR) en el siguiente enlace!

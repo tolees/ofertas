@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01GILWA5M/?tag=tolees-21'
 descuento: '71.88'
+average: '13.5'
 ---
 
 Tienes [Calvin Klein underwear Demi  Sujetador Para Mujer  Negro  BLACK 001   32  Talla fabricante: 0D32 ](https://www.amazon.es/dp/B01GILWA5M/?tag=tolees-21) con un 71.88 % de descuento con precio de oferta de 13.5 EUR (original: 48 EUR) en el siguiente enlace!

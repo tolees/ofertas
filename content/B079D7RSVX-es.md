@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079D7RSVX/?tag=tolees-21'
 descuento: '66.99'
+average: '9.9'
 ---
 
 Ahora mismo tienes [Titan Quest](https://www.amazon.es/dp/B079D7RSVX/?tag=tolees-21) a 9.9 EUR (original: 29.99 EUR) (66.99 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074N9VPMF/?tag=tolees-21'
 descuento: '75.71'
+average: '14.57'
 ---
 
 Ahora mismo tienes [edc by Esprit 107cc1i042  suéter Mujer  Blanco  Off White 110   Small](https://www.amazon.es/dp/B074N9VPMF/?tag=tolees-21) a 14.57 EUR (original: 59.99 EUR) (75.71 %  de descuento) en el siguiente enlace!

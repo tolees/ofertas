@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075R7RBS5/?tag=tolees-21'
 descuento: '66.86'
+average: '31.48'
 ---
 
 Tienes [New Balance Fresh Foam Cruz v2  Zapatillas para Hombre  Rojo  Mercury Red/Chilli Pepper/Moonbeam Nr2   43 EU](https://www.amazon.es/dp/B075R7RBS5/?tag=tolees-21) con un 66.86 % de descuento con precio de oferta de 31.48 EUR (original: 95 EUR) en el siguiente enlace!

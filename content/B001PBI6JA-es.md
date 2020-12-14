@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001PBI6JA/?tag=tolees-21'
 descuento: '28.89'
+average: '57.6'
 ---
 
 Está [NIKE - Zapatillas de deporte Air Force 1 Mid 06   Niños   Blanco  White/White   Blanco  WHITE   35.5](https://www.amazon.es/dp/B001PBI6JA/?tag=tolees-21) con 28.89 de descuento por 57.6 EUR (original: 81 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FS4JVTW/?tag=tolees-21'
 descuento: '88.15'
+average: '7.95'
 ---
 
 Ahora mismo tienes [Puig  Agua fresca - 125 ml.](https://www.amazon.es/dp/B07FS4JVTW/?tag=tolees-21) a 7.95 EUR (original: 67.1 EUR) (88.15 %  de descuento) en el siguiente enlace!

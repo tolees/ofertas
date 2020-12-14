@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076ZPWFVW/?tag=tolees-21'
 descuento: '77.09'
+average: '32.99'
 ---
 
 Está [San Ignacio - Set de Sartenes SIP color cobre- Ø20/24/28 cms.  aluminio forjado  mango revestido con silicona atérmica  inducción](https://www.amazon.es/dp/B076ZPWFVW/?tag=tolees-21) con 77.09 de descuento por 32.99 EUR (original: 143.99 EUR) en el siguiente enlace!

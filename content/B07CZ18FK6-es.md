@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ18FK6/?tag=tolees-21'
 descuento: '54.14'
+average: '32.1'
 ---
 
 Está [Nike Tanjun Racer  Zapatillas para Hombre  Negro  Black/Wheat Gold-White 009   43 EU](https://www.amazon.es/dp/B07CZ18FK6/?tag=tolees-21) con 54.14 de descuento por 32.1 EUR (original: 70 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FYG5N6Z/?tag=tolees-21'
 descuento: '42.04'
+average: '146.76'
 ---
 
 Tienes [Michael Kors - Mott  Carteras de mano Mujer  Marrón  ACORN   4.5x12x24 cm  W x H L ](https://www.amazon.es/dp/B07FYG5N6Z/?tag=tolees-21) con un 42.04 % de descuento con precio de oferta de 146.76 EUR (original: 253.23 EUR) en el siguiente enlace!

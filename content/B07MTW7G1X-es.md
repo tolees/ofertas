@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MTW7G1X/?tag=tolees-21'
 descuento: '55.57'
+average: '15.99'
 ---
 
 Tienes [Corrector de juanetes inflable izquierdo derecho con soporte ortopédico neumático  férula de hallux valgus con barra para alivio del dolor nocturno  recuperación de cirugía de juanetes](https://www.amazon.es/dp/B07MTW7G1X/?tag=tolees-21) con un 55.57 % de descuento con precio de oferta de 15.99 EUR (original: 35.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0773MSZVP/?tag=tolees-21'
 descuento: '33.34'
+average: '19.99'
 ---
 
 Ahora mismo tienes [homgeek  Cuchillo Chef  Cuchillo de Cocina para Cocineros y Cocineros Profesionales  8 Pulgadas Mango ergonómico de Acero Inoxidable alemán](https://www.amazon.es/dp/B0773MSZVP/?tag=tolees-21) a 19.99 EUR (original: 29.99 EUR) (33.34 %  de descuento) en el siguiente enlace!

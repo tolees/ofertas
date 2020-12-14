@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00N44FDJM/?tag=tolees-21'
 descuento: '29.92'
+average: '6.3'
 ---
 
 Ahora mismo tienes [Maybelline New York Perfilador de Ojos Master Graphic Black](https://www.amazon.es/dp/B00N44FDJM/?tag=tolees-21) a 6.3 EUR (original: 8.99 EUR) (29.92 %  de descuento) en el siguiente enlace!

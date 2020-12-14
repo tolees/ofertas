@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JN6TZMT/?tag=tolees-21'
 descuento: '50.27'
+average: '29.84'
 ---
 
 Está [Nike Court Suede  Zapatillas de Gimnasia para Hombre  Azul Deep Royal Blue/Black/Gum 405  45.5 EU](https://www.amazon.es/dp/B07JN6TZMT/?tag=tolees-21) con 50.27 de descuento por 29.84 EUR (original: 60 EUR) en el siguiente enlace!

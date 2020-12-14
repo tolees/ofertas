@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JQBNCBG/?tag=tolees-21'
 descuento: '30.31'
+average: '20.9'
 ---
 
 Está [JACK & JONES Jcojames Sweat Hood Camp  Capucha Hombre  Verde  Evergreen Detail: Melange   Medium](https://www.amazon.es/dp/B07JQBNCBG/?tag=tolees-21) con 30.31 de descuento por 20.9 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JK8C2GV/?tag=tolees-21'
 descuento: '52.77'
+average: '8.95'
 ---
 
 Ahora mismo tienes [Disney Pijamas para niñas Coco 5-6 Años](https://www.amazon.es/dp/B07JK8C2GV/?tag=tolees-21) a 8.95 EUR (original: 18.95 EUR) (52.77 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B6Z7KKX/?tag=tolees-21'
 descuento: '46.36'
+average: '48.28'
 ---
 
 Ahora mismo tienes [New Balance Nitrel v2  Zapatillas de Running para Asfalto para Hombre  Rojo  Team Red/Black/Magnet Lr2   42.5 EU](https://www.amazon.es/dp/B07B6Z7KKX/?tag=tolees-21) a 48.28 EUR (original: 90 EUR) (46.36 %  de descuento) en el siguiente enlace!

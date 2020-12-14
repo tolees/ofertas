@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075F48NBF/?tag=tolees-21'
 descuento: '48.85'
+average: '21.99'
 ---
 
 Tienes [MonTrüe Cojines para sillas | Cojin Ergonomico de Espuma con Memoria | Cojines Ortopedico  Alivia la Espalda  ciática y el Dolor de cóccix  Oficina  Coche  Silla de Ruedas o Viajes](https://www.amazon.es/dp/B075F48NBF/?tag=tolees-21) con un 48.85 % de descuento con precio de oferta de 21.99 EUR (original: 42.99 EUR) en el siguiente enlace!

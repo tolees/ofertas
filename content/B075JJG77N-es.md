@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075JJG77N/?tag=tolees-21'
 descuento: '73.94'
+average: '6.62'
 ---
 
 Ahora mismo tienes [Happy Home Lodis Juego Nórdico para Cama de 150 cm  Poliéster  Azul  30.0x23.0x5 cm](https://www.amazon.es/dp/B075JJG77N/?tag=tolees-21) a 6.62 EUR (original: 25.4 EUR) (73.94 %  de descuento) en el siguiente enlace!

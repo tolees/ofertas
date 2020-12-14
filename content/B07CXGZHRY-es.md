@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CXGZHRY/?tag=tolees-21'
 descuento: '27.79'
+average: '25.99'
 ---
 
 Está [INLIFE Repetidor de Red WiFi Extensor Amplificador de Cobertura con Enchufe 2.4/5.8GHz 750 Mbps Alta Sensibilidad 2 Antenas Puertos Ethernet LAN/WAN  WPS](https://www.amazon.es/dp/B07CXGZHRY/?tag=tolees-21) con 27.79 de descuento por 25.99 EUR (original: 35.99 EUR) en el siguiente enlace!

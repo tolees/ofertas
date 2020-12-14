@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06VVN185K/?tag=tolees-21'
 descuento: '77.74'
+average: '8.9'
 ---
 
 Ahora mismo tienes [2Dark: Limited Edition](https://www.amazon.es/dp/B06VVN185K/?tag=tolees-21) a 8.9 EUR (original: 39.99 EUR) (77.74 %  de descuento) en el siguiente enlace!

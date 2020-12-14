@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HP5SBK6/?tag=tolees-21'
 descuento: '54.32'
+average: '16.9'
 ---
 
 Tienes [Emma & Giovanni - Pullover - Top - Mujer  M/L  Verde ](https://www.amazon.es/dp/B07HP5SBK6/?tag=tolees-21) con un 54.32 % de descuento con precio de oferta de 16.9 EUR (original: 37 EUR) en el siguiente enlace!

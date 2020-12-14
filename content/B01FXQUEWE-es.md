@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01FXQUEWE/?tag=tolees-21'
 descuento: '44.02'
+average: '2.95'
 ---
 
 Está [Pyramid International Deadpool Face-Llavero de Goma  4 5 x 6 cm  4 x 6 x 1.3 cm](https://www.amazon.es/dp/B01FXQUEWE/?tag=tolees-21) con 44.02 de descuento por 2.95 EUR (original: 5.27 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XMXN6D4/?tag=tolees-21'
 descuento: '56.31'
+average: '7.24'
 ---
 
 Está [Apache Gaming Raton óptico   6 botones  cable USB   Rojo](https://www.amazon.es/dp/B06XMXN6D4/?tag=tolees-21) con 56.31 de descuento por 7.24 EUR (original: 16.57 EUR) en el siguiente enlace!

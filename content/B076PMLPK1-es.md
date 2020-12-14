@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B076PMLPK1/?tag=tolees-21'
 descuento: '77.82'
+average: '9.98'
 ---
 
 Ahora mismo tienes [Trust Gaming GXT 790-SB Spectra - Pack Gaming 3 en 1: Auriculares  ratón y Alfombrilla  Verde](https://www.amazon.es/dp/B076PMLPK1/?tag=tolees-21) a 9.98 EUR (original: 44.99 EUR) (77.82 %  de descuento) en el siguiente enlace!

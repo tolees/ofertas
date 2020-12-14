@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000T4FWQ4/?tag=tolees-21'
 descuento: '28.00'
+average: '35.95'
 ---
 
 Ahora mismo tienes [Royal Canin C-08341 S.N. Mini Adult - 8 Kg](https://www.amazon.es/dp/B000T4FWQ4/?tag=tolees-21) a 35.95 EUR (original: 49.93 EUR) (28.00 %  de descuento) en el siguiente enlace!

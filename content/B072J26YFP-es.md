@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072J26YFP/?tag=tolees-21'
 descuento: '61.78'
+average: '34.38'
 ---
 
 Ahora mismo tienes [Adidas Cloudfoam Ultimate  Zapatillas de Running para Hombre  Negro Core Black/FTWR White  44 2/3 EU](https://www.amazon.es/dp/B072J26YFP/?tag=tolees-21) a 34.38 EUR (original: 89.95 EUR) (61.78 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GZ46CH8/?tag=tolees-21'
 descuento: '25.93'
+average: '65.99'
 ---
 
 Está [Osram 4058075152250 LED | Casquillo: E14 | Warm White | 2700. 6500 K | 6 W | repuesto W lámpara de incandescencia | Smart + Candle B 40 Dim [clase de energía eficaz a +]  plástico  6 W  color blanco](https://www.amazon.es/dp/B07GZ46CH8/?tag=tolees-21) con 25.93 de descuento por 65.99 EUR (original: 89.09 EUR) en el siguiente enlace!

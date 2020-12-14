@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B019CV8VUS/?tag=tolees-21'
 descuento: '75.48'
+average: '24.52'
 ---
 
 Tienes [New Balance Vazee Urge  Zapatillas de Running para Mujer   Purple/Yellow 502   36.5 EU](https://www.amazon.es/dp/B019CV8VUS/?tag=tolees-21) con un 75.48 % de descuento con precio de oferta de 24.52 EUR (original: 100 EUR) en el siguiente enlace!

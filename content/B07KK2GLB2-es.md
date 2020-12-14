@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KK2GLB2/?tag=tolees-21'
 descuento: '51.62'
+average: '29.03'
 ---
 
 Ahora mismo tienes [BILLABONG New Order Chino Pantalones Cortos Deportivos  Beige  Gravel 1380   36  Tamaño del Fabricante:28  para Hombre](https://www.amazon.es/dp/B07KK2GLB2/?tag=tolees-21) a 29.03 EUR (original: 60 EUR) (51.62 %  de descuento) en el siguiente enlace!

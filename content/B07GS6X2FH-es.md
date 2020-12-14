@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GS6X2FH/?tag=tolees-21'
 descuento: '27.55'
+average: '144.9'
 ---
 
 Tienes [Garmin Vívomove HR-Smartwatch  Color Oro Rosa y Negro  Adultos Unisex  Talla Única](https://www.amazon.es/dp/B07GS6X2FH/?tag=tolees-21) con un 27.55 % de descuento con precio de oferta de 144.9 EUR (original: 199.99 EUR) en el siguiente enlace!

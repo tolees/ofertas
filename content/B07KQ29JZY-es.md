@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KQ29JZY/?tag=tolees-21'
 descuento: '50.06'
+average: '34.95'
 ---
 
 Tienes [DC Apparel Star Zip Fleece Top  Hombre  Amazon  L](https://www.amazon.es/dp/B07KQ29JZY/?tag=tolees-21) con un 50.06 % de descuento con precio de oferta de 34.95 EUR (original: 69.99 EUR) en el siguiente enlace!

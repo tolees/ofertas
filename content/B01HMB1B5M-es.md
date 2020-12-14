@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HMB1B5M/?tag=tolees-21'
 descuento: '43.30'
+average: '8.5'
 ---
 
 Está [POP! Vinilo - Labyrinth: Jareth](https://www.amazon.es/dp/B01HMB1B5M/?tag=tolees-21) con 43.30 de descuento por 8.5 EUR (original: 14.99 EUR) en el siguiente enlace!

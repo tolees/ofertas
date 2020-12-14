@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075QLXYP2/?tag=tolees-21'
 descuento: '77.16'
+average: '7.99'
 ---
 
 Ahora mismo tienes [Vampirina-78085 Spokylele   78085 ](https://www.amazon.es/dp/B075QLXYP2/?tag=tolees-21) a 7.99 EUR (original: 34.99 EUR) (77.16 %  de descuento) en el siguiente enlace!

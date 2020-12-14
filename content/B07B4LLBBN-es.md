@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B4LLBBN/?tag=tolees-21'
 descuento: '53.89'
+average: '46.09'
 ---
 
 Ahora mismo tienes [G-STAR RAW 5620 3D Slim Colored Jeans  Verde  Smoke Green 7985-2688   34W / 34L para Hombre](https://www.amazon.es/dp/B07B4LLBBN/?tag=tolees-21) a 46.09 EUR (original: 99.95 EUR) (53.89 %  de descuento) en el siguiente enlace!

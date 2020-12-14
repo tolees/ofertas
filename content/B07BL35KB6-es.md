@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BL35KB6/?tag=tolees-21'
 descuento: '47.54'
+average: '62.95'
 ---
 
 Tienes [New Balance X-90  Zapatillas para Hombre  Blanco  Rain Cloud/Deep Ozone Blue CE   43 EU](https://www.amazon.es/dp/B07BL35KB6/?tag=tolees-21) con un 47.54 % de descuento con precio de oferta de 62.95 EUR (original: 120 EUR) en el siguiente enlace!

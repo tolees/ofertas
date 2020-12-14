@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XS2SPBJ/?tag=tolees-21'
 descuento: '25.36'
+average: '6.71'
 ---
 
 Ahora mismo tienes [Fairy Platinum Cápsulas De Lavavajillas - Pack 24+6 unidades](https://www.amazon.es/dp/B06XS2SPBJ/?tag=tolees-21) a 6.71 EUR (original: 8.99 EUR) (25.36 %  de descuento) en el siguiente enlace!

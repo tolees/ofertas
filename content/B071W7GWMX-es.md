@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071W7GWMX/?tag=tolees-21'
 descuento: '49.88'
+average: '27.54'
 ---
 
 Tienes [Skechers Bobs B-Loved-Spring Blossom  Zapatillas para Mujer  Rosa  Light Pink   36 EU](https://www.amazon.es/dp/B071W7GWMX/?tag=tolees-21) con un 49.88 % de descuento con precio de oferta de 27.54 EUR (original: 54.95 EUR) en el siguiente enlace!

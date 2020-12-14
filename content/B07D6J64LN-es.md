@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D6J64LN/?tag=tolees-21'
 descuento: '29.42'
+average: '23.99'
 ---
 
 Ahora mismo tienes [Auriculares Bluetooth 4.1 SoundPEATS Cascos Deportivos Inalámbricos con Mic Magnéticos In-ear  Impermeable IPX6  Max Duración 8 Horas para iPad  iOS Android Móviles Smartphones PC  Blanco ](https://www.amazon.es/dp/B07D6J64LN/?tag=tolees-21) a 23.99 EUR (original: 33.99 EUR) (29.42 %  de descuento) en el siguiente enlace!

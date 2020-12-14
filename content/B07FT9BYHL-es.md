@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FT9BYHL/?tag=tolees-21'
 descuento: '77.41'
+average: '20.32'
 ---
 
 Está [Lee Luke Jeans  Azul  Solid Blue Kt   W31/L34 para Hombre](https://www.amazon.es/dp/B07FT9BYHL/?tag=tolees-21) con 77.41 de descuento por 20.32 EUR (original: 89.95 EUR) en el siguiente enlace!

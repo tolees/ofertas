@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074TDXNR6/?tag=tolees-21'
 descuento: '50.46'
+average: '17.13'
 ---
 
 Ahora mismo tienes [NPET BARRA MASAJEADORA DE MANO DE 16 VELOCIDADES MASAJE ELÉCTRICO PARA PIE  CUELLO  PIERNAS  ESPALDA  HOMBROS  CUERPO - NEGRO](https://www.amazon.es/dp/B074TDXNR6/?tag=tolees-21) a 17.13 EUR (original: 34.58 EUR) (50.46 %  de descuento) en el siguiente enlace!

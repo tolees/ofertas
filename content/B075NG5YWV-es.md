@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075NG5YWV/?tag=tolees-21'
 descuento: '55.81'
+average: '6.73'
 ---
 
 Ahora mismo tienes [Nuk. Conjunto clásico de 2 chupetes para niña talla 1 otro Talla:0 a 6 meses](https://www.amazon.es/dp/B075NG5YWV/?tag=tolees-21) a 6.73 EUR (original: 15.23 EUR) (55.81 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0742T9PVW/?tag=tolees-21'
 descuento: '53.54'
+average: '32.5'
 ---
 
 Está [Skechers Side Street-Core-Set  Zapatillas para Mujer  Rosa  Light Pink Ltpk   36 EU](https://www.amazon.es/dp/B0742T9PVW/?tag=tolees-21) con 53.54 de descuento por 32.5 EUR (original: 69.95 EUR) en el siguiente enlace!

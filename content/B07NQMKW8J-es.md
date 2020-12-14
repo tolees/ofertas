@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NQMKW8J/?tag=tolees-21'
 descuento: '41.99'
+average: '6.95'
 ---
 
 Tienes [Stranger Things - Maxi póster de One Summer  no Laminado  61 x 91 5 cm](https://www.amazon.es/dp/B07NQMKW8J/?tag=tolees-21) con un 41.99 % de descuento con precio de oferta de 6.95 EUR (original: 11.98 EUR) en el siguiente enlace!

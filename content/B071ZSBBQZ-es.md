@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071ZSBBQZ/?tag=tolees-21'
 descuento: '47.59'
+average: '28.8'
 ---
 
 Ahora mismo tienes [adidas Nemeziz 17.4 TR  Zapatillas de Deporte para Hombre  Negbas  45 1/3 EU](https://www.amazon.es/dp/B071ZSBBQZ/?tag=tolees-21) a 28.8 EUR (original: 54.95 EUR) (47.59 %  de descuento) en el siguiente enlace!

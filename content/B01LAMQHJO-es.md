@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LAMQHJO/?tag=tolees-21'
 descuento: '31.03'
+average: '11'
 ---
 
 Está [Funko Pop!- Dary Dixon lanzacohetes Figura de Vinilo  colección de Pop  seria The Walking Dead  11065 ](https://www.amazon.es/dp/B01LAMQHJO/?tag=tolees-21) con 31.03 de descuento por 11 EUR (original: 15.95 EUR) en el siguiente enlace!

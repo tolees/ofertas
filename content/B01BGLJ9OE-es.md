@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BGLJ9OE/?tag=tolees-21'
 descuento: '60.02'
+average: '9.99'
 ---
 
 Está [Trust Urban Primo Powerbank - Batería externa portátil de 8800 mAh  negro](https://www.amazon.es/dp/B01BGLJ9OE/?tag=tolees-21) con 60.02 de descuento por 9.99 EUR (original: 24.99 EUR) en el siguiente enlace!

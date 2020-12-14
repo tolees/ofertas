@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XZ4HKXJ/?tag=tolees-21'
 descuento: '62.15'
+average: '52.99'
 ---
 
 Está [Ukelele  Hricane Ukelele Soprano 21 Pulgadas Hawaiian Ukulele Para Principiantes Adulto Niños  Estudiante Mujer  Incluye Bolsa de Transporte ](https://www.amazon.es/dp/B06XZ4HKXJ/?tag=tolees-21) con 62.15 de descuento por 52.99 EUR (original: 139.99 EUR) en el siguiente enlace!

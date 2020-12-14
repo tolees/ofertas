@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079RHTHQM/?tag=tolees-21'
 descuento: '30.05'
+average: '20.95'
 ---
 
 Está [Buff Shade Gorra Trucker  Mujer  Multi  Talla única](https://www.amazon.es/dp/B079RHTHQM/?tag=tolees-21) con 30.05 de descuento por 20.95 EUR (original: 29.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0166NFDCE/?tag=tolees-21'
 descuento: '25.01'
+average: '38.97'
 ---
 
 Está [Epson C13T26164511- Cartuchos de tinta  pack de 4 colores](https://www.amazon.es/dp/B0166NFDCE/?tag=tolees-21) con 25.01 de descuento por 38.97 EUR (original: 51.97 EUR) en el siguiente enlace!

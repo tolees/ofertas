@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002LCAXWK/?tag=tolees-21'
 descuento: '42.71'
+average: '55.45'
 ---
 
 Ahora mismo tienes [Bosch Home and Garden 0.603.664.000 Nivel láser para alicatados  1.5 V  Negro  Verde](https://www.amazon.es/dp/B002LCAXWK/?tag=tolees-21) a 55.45 EUR (original: 96.79 EUR) (42.71 %  de descuento) en el siguiente enlace!

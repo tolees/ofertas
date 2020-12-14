@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M32OLIE/?tag=tolees-21'
 descuento: '56.95'
+average: '25.81'
 ---
 
 Tienes [Rieker 15253  Mocasines para Hombre  Azul  Denim/Atlantis/Chalk   40 EU](https://www.amazon.es/dp/B01M32OLIE/?tag=tolees-21) con un 56.95 % de descuento con precio de oferta de 25.81 EUR (original: 59.95 EUR) en el siguiente enlace!

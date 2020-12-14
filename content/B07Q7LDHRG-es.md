@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07Q7LDHRG/?tag=tolees-21'
 descuento: '34.07'
+average: '3.29'
 ---
 
 Ahora mismo tienes [L OR BARISTA Doble Ristretto - Intensidad 11 - 10 Cápsulas de Café exclusivamente compatibles con la cafetera L OR BARISTA](https://www.amazon.es/dp/B07Q7LDHRG/?tag=tolees-21) a 3.29 EUR (original: 4.99 EUR) (34.07 %  de descuento) en el siguiente enlace!

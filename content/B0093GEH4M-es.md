@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0093GEH4M/?tag=tolees-21'
 descuento: '46.25'
+average: '13.41'
 ---
 
 Está [Sigma Sport 00442 Accesorio ciclocomputador  Unisex  Negro  Talla Única](https://www.amazon.es/dp/B0093GEH4M/?tag=tolees-21) con 46.25 de descuento por 13.41 EUR (original: 24.95 EUR) en el siguiente enlace!

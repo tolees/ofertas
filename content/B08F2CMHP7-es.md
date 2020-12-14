@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08F2CMHP7/?tag=tolees-21'
 descuento: '36.25'
+average: '101.99'
 ---
 
 Ahora mismo tienes [WD My Passport SSD 500GB - tecnología NVMe  USB-C  velocidad de lectura hasta 1050MB/s & de escritura hasta 1000MB/s - Azul medianoche](https://www.amazon.es/dp/B08F2CMHP7/?tag=tolees-21) a 101.99 EUR (original: 159.99 EUR) (36.25 %  de descuento) en el siguiente enlace!
@@ -24,10 +25,10 @@ Ahora mismo tienes [WD My Passport SSD 500GB - tecnología NVMe  USB-C  velocida
 
 🔎:
 
+- Resistente a golpes y vibraciones. Resistente a caídas de hasta 2 metros
 - Cifrado de hardware AES de 256 bits habilitado mediante contraseña
 - Copia de seguridad sencilla
 - La tecnología NVMe sorprendentemente rápida con velocidades de lectura de hasta 1050 MB/s y velocidades de escritura de hasta 1000 MB/s
 - Diseño elegante y compacto. USB 3.2 Gen. 2 de compatibilidad cruzada y USB-C (USB-A para sistemas más antiguos)
-- Resistente a golpes y vibraciones. Resistente a caídas de hasta 2 metros
 
 [Visítala!!!](https://www.amazon.es/dp/B08F2CMHP7/?tag=tolees-21)

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0792GT6LK/?tag=tolees-21'
 descuento: '52.13'
+average: '13.73'
 ---
 
 Tienes [Hellmann s Ketchup con miel  - Paquete de 12 x 430ml - Total: 5160 ml](https://www.amazon.es/dp/B0792GT6LK/?tag=tolees-21) con un 52.13 % de descuento con precio de oferta de 13.73 EUR (original: 28.68 EUR) en el siguiente enlace!

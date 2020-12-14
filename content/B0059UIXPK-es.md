@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0059UIXPK/?tag=tolees-21'
 descuento: '48.77'
+average: '33.81'
 ---
 
 Ahora mismo tienes [Nike MD Runner 2 19-ao0265  Zapatillas de Running para Hombre  Negro Black/Anthracite/Gum Light Brown 001  46 EU](https://www.amazon.es/dp/B0059UIXPK/?tag=tolees-21) a 33.81 EUR (original: 66 EUR) (48.77 %  de descuento) en el siguiente enlace!

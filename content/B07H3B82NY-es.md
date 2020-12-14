@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H3B82NY/?tag=tolees-21'
 descuento: '37.51'
+average: '309.36'
 ---
 
 Ahora mismo tienes [HP Pavilion 590-p0633ng 3 5 GHz AMD Ryzen 3 2200G Plata  Negro Mini Tower PC - Ordenador de sobremesa  3 5 GHz  AMD Ryzen 3  8 GB  1128 GB  DVD±RW  FreeDOS ](https://www.amazon.es/dp/B07H3B82NY/?tag=tolees-21) a 309.36 EUR (original: 495.09 EUR) (37.51 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9YBXF5/?tag=tolees-21'
 descuento: '41.39'
+average: '16.99'
 ---
 
 Tienes [PUTUO Mujer Calcetines Pilates Yoga Antideslizantes  Mujer Cinco Calcetines de los Dedos para Pilates Yoga Danza Gimnasio Deportes Artes Marciales  4 pares](https://www.amazon.es/dp/B07D9YBXF5/?tag=tolees-21) con un 41.39 % de descuento con precio de oferta de 16.99 EUR (original: 28.99 EUR) en el siguiente enlace!

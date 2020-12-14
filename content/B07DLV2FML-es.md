@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DLV2FML/?tag=tolees-21'
 descuento: '61.68'
+average: '8.81'
 ---
 
 Tienes [Women s Secret MST Modal Blk SB Sujetador básico  Mujer  Negro  Negro 1   90  Tamaño del Fabricante:90B ](https://www.amazon.es/dp/B07DLV2FML/?tag=tolees-21) con un 61.68 % de descuento con precio de oferta de 8.81 EUR (original: 22.99 EUR) en el siguiente enlace!

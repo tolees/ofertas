@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K4Z55YQ/?tag=tolees-21'
 descuento: '61.76'
+average: '13.38'
 ---
 
 Tienes [JACK & JONES Jcodenver Knit Crew Neck  suéter Hombre   Tango Red Fit: Fit   Large](https://www.amazon.es/dp/B07K4Z55YQ/?tag=tolees-21) con un 61.76 % de descuento con precio de oferta de 13.38 EUR (original: 34.99 EUR) en el siguiente enlace!

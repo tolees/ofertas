@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F6VPLZC/?tag=tolees-21'
 descuento: '37.02'
+average: '30.86'
 ---
 
 Está [Bollé Sierra Máscaras  Unisex Adulto  Blanco/Rosa  S/M](https://www.amazon.es/dp/B07F6VPLZC/?tag=tolees-21) con 37.02 de descuento por 30.86 EUR (original: 49 EUR) en el siguiente enlace!

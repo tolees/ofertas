@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01JG8RA40/?tag=tolees-21'
 descuento: '32.13'
+average: '6.78'
 ---
 
 Está [erima 318609 Calcetines de Deporte  Unisex niños  Negro/Blanco  XXS](https://www.amazon.es/dp/B01JG8RA40/?tag=tolees-21) con 32.13 de descuento por 6.78 EUR (original: 9.99 EUR) en el siguiente enlace!

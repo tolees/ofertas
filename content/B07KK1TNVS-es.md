@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KK1TNVS/?tag=tolees-21'
 descuento: '55.94'
+average: '24.67'
 ---
 
 Ahora mismo tienes [Quiksilver Time Box Woven Top  Hombre  Black  L](https://www.amazon.es/dp/B07KK1TNVS/?tag=tolees-21) a 24.67 EUR (original: 55.99 EUR) (55.94 %  de descuento) en el siguiente enlace!

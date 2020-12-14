@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079TZY6PH/?tag=tolees-21'
 descuento: '59.96'
+average: '18.02'
 ---
 
 Está [Finocam Urban Slim - Maletín Profesional para portátil de hasta 15 6"  Color Gris](https://www.amazon.es/dp/B079TZY6PH/?tag=tolees-21) con 59.96 de descuento por 18.02 EUR (original: 45 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DC16NRJ/?tag=tolees-21'
 descuento: '64.40'
+average: '17.78'
 ---
 
 Ahora mismo tienes [Puma Vikky Ribbon Jr  Zapatillas para Niñas  Rosa  Pale Pink Silver   39 EU](https://www.amazon.es/dp/B07DC16NRJ/?tag=tolees-21) a 17.78 EUR (original: 49.95 EUR) (64.40 %  de descuento) en el siguiente enlace!

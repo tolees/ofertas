@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071ZS9T4M/?tag=tolees-21'
 descuento: '64.95'
+average: '24.52'
 ---
 
 Tienes [adidas Duramo 8 Trainer M  Zapatillas de Gimnasia para Hombre  Gris Two/Mid Grey/FTWR White  41 1/3 EU](https://www.amazon.es/dp/B071ZS9T4M/?tag=tolees-21) con un 64.95 % de descuento con precio de oferta de 24.52 EUR (original: 69.95 EUR) en el siguiente enlace!

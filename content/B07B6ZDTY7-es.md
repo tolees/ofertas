@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B6ZDTY7/?tag=tolees-21'
 descuento: '30.28'
+average: '12.16'
 ---
 
 Ahora mismo tienes [Nestlé Yogolino Postre lácteo Bolsitas con Multifrutas y cereales - Para bebés a partir de 6 meses - Paquete de 16 unidadesx90g](https://www.amazon.es/dp/B07B6ZDTY7/?tag=tolees-21) a 12.16 EUR (original: 17.44 EUR) (30.28 %  de descuento) en el siguiente enlace!

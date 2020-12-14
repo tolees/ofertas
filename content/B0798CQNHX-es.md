@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0798CQNHX/?tag=tolees-21'
 descuento: '72.39'
+average: '19.31'
 ---
 
 Tienes [G-STAR RAW Rovulc Low  Zapatillas para Mujer  Azul  Sea 366   41 EU](https://www.amazon.es/dp/B0798CQNHX/?tag=tolees-21) con un 72.39 % de descuento con precio de oferta de 19.31 EUR (original: 69.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ3PPXR/?tag=tolees-21'
 descuento: '43.80'
+average: '28.1'
 ---
 
 Está [New Balance 411  Zapatillas de Running para Mujer  Rosa  Peony/Grey Lm1   43 EU](https://www.amazon.es/dp/B07DJ3PPXR/?tag=tolees-21) con 43.80 de descuento por 28.1 EUR (original: 50 EUR) en el siguiente enlace!

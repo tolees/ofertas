@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D7DK8MR/?tag=tolees-21'
 descuento: '64.90'
+average: '5.95'
 ---
 
 Está [DANISH ENDURANCE Bandas Elásticas de Resistencia  3 Unidades  Rosado  Rojo  Verde ](https://www.amazon.es/dp/B07D7DK8MR/?tag=tolees-21) con 64.90 de descuento por 5.95 EUR (original: 16.95 EUR) en el siguiente enlace!

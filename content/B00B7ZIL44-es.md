@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00B7ZIL44/?tag=tolees-21'
 descuento: '30.94'
+average: '40.06'
 ---
 
 Tienes [Schneider Electric A9E16067 - Rele temporizador  Acti9  RTC  240VCA  24VCC  blanco](https://www.amazon.es/dp/B00B7ZIL44/?tag=tolees-21) con un 30.94 % de descuento con precio de oferta de 40.06 EUR (original: 58.01 EUR) en el siguiente enlace!

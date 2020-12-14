@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LZ7UYM5/?tag=tolees-21'
 descuento: '64.76'
+average: '19.03'
 ---
 
 Está [Lorus Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable RG217LX9](https://www.amazon.es/dp/B01LZ7UYM5/?tag=tolees-21) con 64.76 de descuento por 19.03 EUR (original: 54 EUR) en el siguiente enlace!

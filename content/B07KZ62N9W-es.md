@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KZ62N9W/?tag=tolees-21'
 descuento: '69.91'
+average: '47.84'
 ---
 
 Tienes [Cortefiel C1Cbc Americana Estructur  Verde Oscuro 20    Tamaño del Fabricante:56  para Hombre](https://www.amazon.es/dp/B07KZ62N9W/?tag=tolees-21) con un 69.91 % de descuento con precio de oferta de 47.84 EUR (original: 159 EUR) en el siguiente enlace!

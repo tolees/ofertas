@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004YK4H6A/?tag=tolees-21'
 descuento: '68.43'
+average: '40.73'
 ---
 
 Ahora mismo tienes [Skytec SPA800R - Kit bafles karaoke](https://www.amazon.es/dp/B004YK4H6A/?tag=tolees-21) a 40.73 EUR (original: 129 EUR) (68.43 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FLY2TYS/?tag=tolees-21'
 descuento: '75.20'
+average: '22.32'
 ---
 
 Tienes [Bata 8946312  Botas Militares para Hombre  Negro  Nero 6   46 EU](https://www.amazon.es/dp/B07FLY2TYS/?tag=tolees-21) con un 75.20 % de descuento con precio de oferta de 22.32 EUR (original: 89.99 EUR) en el siguiente enlace!

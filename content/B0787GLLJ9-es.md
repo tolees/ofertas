@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0787GLLJ9/?tag=tolees-21'
 descuento: '57.34'
+average: '29.82'
 ---
 
 Está [Pepe Jeans London Adams Lana  Zapatillas para Mujer  Beige  Bare   40 EU](https://www.amazon.es/dp/B0787GLLJ9/?tag=tolees-21) con 57.34 de descuento por 29.82 EUR (original: 69.9 EUR) en el siguiente enlace!

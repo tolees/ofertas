@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DVW7JBG/?tag=tolees-21'
 descuento: '74.42'
+average: '21.74'
 ---
 
 Ahora mismo tienes [DC Shoes Net  Zapatillas de Skateboard para Hombre  Gris Black/Grey Xsks  55 EU](https://www.amazon.es/dp/B07DVW7JBG/?tag=tolees-21) a 21.74 EUR (original: 85 EUR) (74.42 %  de descuento) en el siguiente enlace!

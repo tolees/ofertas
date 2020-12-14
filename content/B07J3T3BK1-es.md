@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J3T3BK1/?tag=tolees-21'
 descuento: '59.13'
+average: '64.99'
 ---
 
 Ahora mismo tienes [Fossil Reloj Analógico para Mujer de Cuarzo con Correa en Cuero ES4456](https://www.amazon.es/dp/B07J3T3BK1/?tag=tolees-21) a 64.99 EUR (original: 159 EUR) (59.13 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074NVYTLW/?tag=tolees-21'
 descuento: '67.04'
+average: '13.18'
 ---
 
 Ahora mismo tienes [Esprit 087ee1i006  suéter Mujer   Terracotta 5 809   Small](https://www.amazon.es/dp/B074NVYTLW/?tag=tolees-21) a 13.18 EUR (original: 39.99 EUR) (67.04 %  de descuento) en el siguiente enlace!

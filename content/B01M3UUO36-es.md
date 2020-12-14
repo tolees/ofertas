@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M3UUO36/?tag=tolees-21'
 descuento: '47.70'
+average: '62.27'
 ---
 
 Está [Campingaz Termoeléctrica Powerbox Plus Nevera  Unisex  Azul  24 l](https://www.amazon.es/dp/B01M3UUO36/?tag=tolees-21) con 47.70 de descuento por 62.27 EUR (original: 119.07 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074QRBBL4/?tag=tolees-21'
 descuento: '50.00'
+average: '14.58'
 ---
 
 Tienes [Emporio Armani Underwear 1118668P745  Braguita para Hombre  Negro  Nero 00020   Small](https://www.amazon.es/dp/B074QRBBL4/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 14.58 EUR (original: 29.16 EUR) en el siguiente enlace!

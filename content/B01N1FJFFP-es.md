@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N1FJFFP/?tag=tolees-21'
 descuento: '52.77'
+average: '84.12'
 ---
 
 Ahora mismo tienes [Meizu u680h/16GB/Black Smartphone U10  16 GB  13 MP cámara Principal  5 MP cámara Frontal  12 7 cm  5 Pulgadas  HD  Doble SIM Negro](https://www.amazon.es/dp/B01N1FJFFP/?tag=tolees-21) a 84.12 EUR (original: 178.1 EUR) (52.77 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HH9K2Z9/?tag=tolees-21'
 descuento: '84.35'
+average: '29.58'
 ---
 
 Tienes [Tommy Hilfiger Perniane Mock-nk Swtr  suéter Mujer  Verde  Ponderosa Pine Multi 901   X-Small](https://www.amazon.es/dp/B07HH9K2Z9/?tag=tolees-21) con un 84.35 % de descuento con precio de oferta de 29.58 EUR (original: 189 EUR) en el siguiente enlace!

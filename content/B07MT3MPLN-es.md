@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MT3MPLN/?tag=tolees-21'
 descuento: '33.34'
+average: '19.99'
 ---
 
 Está [NEUMA Soporte de micrófono profesional con filtro pop anti pop Suspensión de micrófono de uso pesado Soporte de brazo de tijera y protector de parabrisas para Snowball Blue Yeti  grabaciones  canto](https://www.amazon.es/dp/B07MT3MPLN/?tag=tolees-21) con 33.34 de descuento por 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

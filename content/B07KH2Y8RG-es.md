@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KH2Y8RG/?tag=tolees-21'
 descuento: '31.08'
+average: '20.67'
 ---
 
 Ahora mismo tienes [Under Armour Armour Sport Mesh Swing Tank Tanque  Mujer  Morado  Purple Prime/Metallic Silver 521   S](https://www.amazon.es/dp/B07KH2Y8RG/?tag=tolees-21) a 20.67 EUR (original: 29.99 EUR) (31.08 %  de descuento) en el siguiente enlace!

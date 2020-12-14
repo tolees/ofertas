@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LBDGLWK/?tag=tolees-21'
 descuento: '52.51'
+average: '18.99'
 ---
 
 Está [SlowTon Juego de Correas para Perros sin Manos  Amortiguador Ajustable de 1.29 pies a 3.33 pies Cinturón de Cintura con Bolsa de Cremallera y Bolsa de Agua de Bebida Bungee Elástico](https://www.amazon.es/dp/B07LBDGLWK/?tag=tolees-21) con 52.51 de descuento por 18.99 EUR (original: 39.99 EUR) en el siguiente enlace!

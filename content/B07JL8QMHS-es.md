@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JL8QMHS/?tag=tolees-21'
 descuento: '60.78'
+average: '19.59'
 ---
 
 Tienes [XTI 48683  Zapatillas para Hombre  Marrón Camel  43 EU](https://www.amazon.es/dp/B07JL8QMHS/?tag=tolees-21) con un 60.78 % de descuento con precio de oferta de 19.59 EUR (original: 49.95 EUR) en el siguiente enlace!

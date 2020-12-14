@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LBZB5D1/?tag=tolees-21'
 descuento: '28.00'
+average: '487.27'
 ---
 
 Está [PIKOLIN Colchón viscoelástico 105x190 firmeza Alta de Gama Alta  Reversible  Varias Medidas  Alto 28 cm - Colchones Ábidos](https://www.amazon.es/dp/B07LBZB5D1/?tag=tolees-21) con 28.00 de descuento por 487.27 EUR (original: 676.77 EUR) en el siguiente enlace!

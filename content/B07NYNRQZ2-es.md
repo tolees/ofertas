@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NYNRQZ2/?tag=tolees-21'
 descuento: '35.12'
+average: '12.97'
 ---
 
 Tienes [Repelente Ultrasónico de Plagas  Repelente Ultrasónico con Luz Nocturna  Ahuyentador de Cucarachas  para anti Ratas  Ratones  Insectos  Mosquitos  Roedores  Moscas  Hormigas  Arañas  Pulgas](https://www.amazon.es/dp/B07NYNRQZ2/?tag=tolees-21) con un 35.12 % de descuento con precio de oferta de 12.97 EUR (original: 19.99 EUR) en el siguiente enlace!

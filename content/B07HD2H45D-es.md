@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HD2H45D/?tag=tolees-21'
 descuento: '68.29'
+average: '31.68'
 ---
 
 Tienes [Tommy Hilfiger Essential Leather Cupsole  Zapatillas para Hombre  Negro  Black 990   45 EU](https://www.amazon.es/dp/B07HD2H45D/?tag=tolees-21) con un 68.29 % de descuento con precio de oferta de 31.68 EUR (original: 99.9 EUR) en el siguiente enlace!

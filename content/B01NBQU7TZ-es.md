@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01NBQU7TZ/?tag=tolees-21'
 descuento: '70.15'
+average: '16.4'
 ---
 
 Ahora mismo tienes [Rieker 56466  Mocasines para Mujer  Marrón  Bronze   40 EU](https://www.amazon.es/dp/B01NBQU7TZ/?tag=tolees-21) a 16.4 EUR (original: 54.95 EUR) (70.15 %  de descuento) en el siguiente enlace!

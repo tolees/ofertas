@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0759MKV9P/?tag=tolees-21'
 descuento: '54.15'
+average: '82.53'
 ---
 
 Tienes [Asics Gel-Kayano 24  Zapatillas de Running para Mujer  Rosa  Seashell White/Begonia Pink 1701   37 EU](https://www.amazon.es/dp/B0759MKV9P/?tag=tolees-21) con un 54.15 % de descuento con precio de oferta de 82.53 EUR (original: 180 EUR) en el siguiente enlace!

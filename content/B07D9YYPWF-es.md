@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D9YYPWF/?tag=tolees-21'
 descuento: '78.17'
+average: '21.82'
 ---
 
 Está [Puma Suede Heart Street 2 Wn s  Zapatillas para Mujer  Gris Laurel Wreath 02  40 EU](https://www.amazon.es/dp/B07D9YYPWF/?tag=tolees-21) con 78.17 de descuento por 21.82 EUR (original: 99.95 EUR) en el siguiente enlace!

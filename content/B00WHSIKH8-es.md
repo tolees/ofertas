@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00WHSIKH8/?tag=tolees-21'
 descuento: '50.06'
+average: '19.95'
 ---
 
 Ahora mismo tienes [Las bolas chinas"SingleBall" de AMOR Vibratissimo® de color púrpura y controlables mediante una aplicación móvil garantizan momentos de auténtico placer](https://www.amazon.es/dp/B00WHSIKH8/?tag=tolees-21) a 19.95 EUR (original: 39.95 EUR) (50.06 %  de descuento) en el siguiente enlace!

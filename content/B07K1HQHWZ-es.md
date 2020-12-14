@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07K1HQHWZ/?tag=tolees-21'
 descuento: '30.79'
+average: '38.13'
 ---
 
 Ahora mismo tienes [Emporio Armani 211725  Calzoncillos para Hombre  Blanco  Bianco 00010   52](https://www.amazon.es/dp/B07K1HQHWZ/?tag=tolees-21) a 38.13 EUR (original: 55.09 EUR) (30.79 %  de descuento) en el siguiente enlace!

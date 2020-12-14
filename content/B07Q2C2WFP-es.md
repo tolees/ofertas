@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07Q2C2WFP/?tag=tolees-21'
 descuento: '50.00'
+average: '13.99'
 ---
 
 Ahora mismo tienes [al Agua riñonera Bolsa de Cintura Bolsillos con Cremallera Bolsa riñonera de Viaje Senderismo al Aire Libre Deporte Vacaciones Dinero Bolsa de Cadera Paquete  Negro ](https://www.amazon.es/dp/B07Q2C2WFP/?tag=tolees-21) a 13.99 EUR (original: 27.98 EUR) (50.00 %  de descuento) en el siguiente enlace!

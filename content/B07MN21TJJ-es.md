@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MN21TJJ/?tag=tolees-21'
 descuento: '45.62'
+average: '19.57'
 ---
 
 Está [MTNG Collection 51085  Sandalia con Pulsera para Mujer   Vivin Negro C46265   39 EU](https://www.amazon.es/dp/B07MN21TJJ/?tag=tolees-21) con 45.62 de descuento por 19.57 EUR (original: 35.99 EUR) en el siguiente enlace!

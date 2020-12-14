@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XRT4TTL/?tag=tolees-21'
 descuento: '37.52'
+average: '9.99'
 ---
 
 Está [Zindoo Vinilos para Cristales Vinilo Ventana Privacidad Autoadhesivo Laminas para Ventanas Vinilos Decorativos Cristales Vinilo Translucido Vinilo Cocina Cristal 45 X 200CM](https://www.amazon.es/dp/B06XRT4TTL/?tag=tolees-21) con 37.52 de descuento por 9.99 EUR (original: 15.99 EUR) en el siguiente enlace!

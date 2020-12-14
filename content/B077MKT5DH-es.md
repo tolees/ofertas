@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077MKT5DH/?tag=tolees-21'
 descuento: '52.57'
+average: '18.95'
 ---
 
 Está [Puma Escaper SL V Jr  Zapatillas Unisex Niños  Blanco Soft Fluo Peach White  37.5 EU](https://www.amazon.es/dp/B077MKT5DH/?tag=tolees-21) con 52.57 de descuento por 18.95 EUR (original: 39.95 EUR) en el siguiente enlace!

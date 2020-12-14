@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JWVTKFY/?tag=tolees-21'
 descuento: '39.44'
+average: '10.87'
 ---
 
 Está [PUMA ftblNXT Adjustable Cap Gorra  Sin género  Black  OSFA](https://www.amazon.es/dp/B07JWVTKFY/?tag=tolees-21) con 39.44 de descuento por 10.87 EUR (original: 17.95 EUR) en el siguiente enlace!

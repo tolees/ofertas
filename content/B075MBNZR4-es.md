@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075MBNZR4/?tag=tolees-21'
 descuento: '37.03'
+average: '144.83'
 ---
 
 Está [Nike Tiempo Legend VII AG-Pro  Botas de fútbol para Hombre  Negro White/Laser Orange/Volt/Black  46 EU](https://www.amazon.es/dp/B075MBNZR4/?tag=tolees-21) con 37.03 de descuento por 144.83 EUR (original: 230 EUR) en el siguiente enlace!

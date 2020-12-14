@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B074P3GDP4/?tag=tolees-21'
 descuento: '35.06'
+average: '411.74'
 ---
 
 Tienes [HUION KAMVAS GT-221 Pro HD IPS Tableta Gráfica Profesional Pantalla para Lápiz Monitor con 8192 Sensibilidad de Presión del Lápiz y 10 Teclas de Accesos Directos 1 Barras Táctiles …  GT-221 Pro ](https://www.amazon.es/dp/B074P3GDP4/?tag=tolees-21) con un 35.06 % de descuento con precio de oferta de 411.74 EUR (original: 633.99 EUR) en el siguiente enlace!

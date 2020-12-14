@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07D8LH2L7/?tag=tolees-21'
 descuento: '61.49'
+average: '41.98'
 ---
 
 Tienes [BOSS Plisy  Polo para Hombre  Azul  Navy 410  Small](https://www.amazon.es/dp/B07D8LH2L7/?tag=tolees-21) con un 61.49 % de descuento con precio de oferta de 41.98 EUR (original: 109 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F6P7LGZ/?tag=tolees-21'
 descuento: '45.13'
+average: '16.46'
 ---
 
 Ahora mismo tienes [Salomon Hydro 45 Belt Cinturón portabotellas  Incluye Botella 3D de 600 ml  Cintura Ajustable de 60 a 120 cm  Unisex Adulto  Rojo  Fiery Red   Talla única](https://www.amazon.es/dp/B07F6P7LGZ/?tag=tolees-21) a 16.46 EUR (original: 30 EUR) (45.13 %  de descuento) en el siguiente enlace!

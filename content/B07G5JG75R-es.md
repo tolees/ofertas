@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G5JG75R/?tag=tolees-21'
 descuento: '40.00'
+average: '24'
 ---
 
 Tienes [Nike Jr Vapor 12 Club GS TF  Zapatillas de fútbol Sala Unisex niño   Wolf Grey/Lt Crimson-Black 060   36.5 EU](https://www.amazon.es/dp/B07G5JG75R/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 24 EUR (original: 40 EUR) en el siguiente enlace!

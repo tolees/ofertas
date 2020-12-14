@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B008ZO3PGO/?tag=tolees-21'
 descuento: '66.67'
+average: '11'
 ---
 
 Ahora mismo tienes [Oral-B Vitality Trizone Cepillo de Dientes Eléctrico Recargable con Tecnología Braun](https://www.amazon.es/dp/B008ZO3PGO/?tag=tolees-21) a 11 EUR (original: 33 EUR) (66.67 %  de descuento) en el siguiente enlace!

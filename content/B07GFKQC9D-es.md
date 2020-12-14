@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GFKQC9D/?tag=tolees-21'
 descuento: '40.00'
+average: '53.99'
 ---
 
 Está [Taladro eléctrico percutor martillo profesional con cable SDS 1000w](https://www.amazon.es/dp/B07GFKQC9D/?tag=tolees-21) con 40.00 de descuento por 53.99 EUR (original: 89.99 EUR) en el siguiente enlace!

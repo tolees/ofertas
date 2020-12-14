@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JHLV3JS/?tag=tolees-21'
 descuento: '59.37'
+average: '26.39'
 ---
 
 Está [Skechers Brendon-seldor  Zapatillas para Hombre  Azul  Blue White Bla   42 EU](https://www.amazon.es/dp/B07JHLV3JS/?tag=tolees-21) con 59.37 de descuento por 26.39 EUR (original: 64.95 EUR) en el siguiente enlace!

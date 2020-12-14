@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00LHYGO1C/?tag=tolees-21'
 descuento: '27.33'
+average: '5.61'
 ---
 
 Está [CEPSA 512564188 Lubricante Sintético para Vehículos Gasolina y Diésel](https://www.amazon.es/dp/B00LHYGO1C/?tag=tolees-21) con 27.33 de descuento por 5.61 EUR (original: 7.72 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004CCRY4W/?tag=tolees-21'
 descuento: '45.59'
+average: '51.69'
 ---
 
 Ahora mismo tienes [Leatherman LTG8602251N - Cortador](https://www.amazon.es/dp/B004CCRY4W/?tag=tolees-21) a 51.69 EUR (original: 95 EUR) (45.59 %  de descuento) en el siguiente enlace!

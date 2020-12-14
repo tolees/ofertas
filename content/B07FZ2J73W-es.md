@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FZ2J73W/?tag=tolees-21'
 descuento: '50.08'
+average: '44.9'
 ---
 
 Está [Adidas Predator 18.3 SG  Botas de fútbol para Hombre  Negro  Negbás/Ftwbla/Rojo 001   42 EU](https://www.amazon.es/dp/B07FZ2J73W/?tag=tolees-21) con 50.08 de descuento por 44.9 EUR (original: 89.95 EUR) en el siguiente enlace!
