@@ -24,8 +24,8 @@ Ahora mismo tienes [Puma Quarter Plain  Calcetín Unisex Adulto  Negro  Black/Re
 
 🔎:
 
-- Ofrecen una comodidad óptima
 - Tejido de algodón suave
+- Ofrecen una comodidad óptima
 - Costuras planas en la puntera para evitar molestias
 - Marca del producto: Puma
 

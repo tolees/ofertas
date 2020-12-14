@@ -24,10 +24,10 @@ Tienes [L OR Café Grano Forza - 4 paquetes de 500gr  2000gr ](https://www.amazo
 
 ℹ️:
 
-- Para los enamorados del café oscuro e intenso; un espresso intenso basado en una atrevida mezcla de roble y regaliz, e iluminado con tintes ámbar sobre una delicada capa de crema
-- Contiene 4 paquetes de 500 gr cada uno (4.000gr en total)
 - Aptos para ser utilizado en máquinas superautomáticas de grano; una vez molido, se puede utilizar en todo tipo de cafeteras
+- Para los enamorados del café oscuro e intenso; un espresso intenso basado en una atrevida mezcla de roble y regaliz, e iluminado con tintes ámbar sobre una delicada capa de crema
 - Intensidad 9
+- Contiene 4 paquetes de 500 gr cada uno (4.000gr en total)
 - Café en grano 100% Arábica
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00GRXEB18/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Walking Dead 14518 TV Negan and Glenn Fi al 27.29 % de descuento'
-date: 2020-12-09 16:58:50
+date: 2020-12-14 10:57:01
 image: 'https://m.media-amazon.com/images/I/41tODYCTjVL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,7 +22,11 @@ Ahora mismo tienes [Walking Dead 14518 TV Negan and Glenn Figura de acción  5 P
 
 [![Walking Dead 14518 TV Negan and Glenn Fi](https://m.media-amazon.com/images/I/41tODYCTjVL._SL200_.jpg)](https://www.amazon.es/dp/B06XKF86RP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Caja de ventana temática de Amc s The Walking Dead que muestra las figuras y accesorios incluidos
+- Las figuras cuentan con una imagen espectacular de negan y Glenn tomadas de escaneos 3D del actor Jeffery Dean Morgan y Steven Yeun
+- Dos figuras totalmente articuladas de 5 pulgadas de Negan y Glenn de su icónica escena de la temporada 7 de Amc s The Walking Dead
+- El juego de caja cuenta con dos fusiles de asalto, pistola, reloj y bate de béisbol "Lucille".
 
 [Visítala!!!](https://www.amazon.es/dp/B06XKF86RP/?tag=tolees-21)

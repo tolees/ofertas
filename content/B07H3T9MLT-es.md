@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fujifilm X-T3 - Cámara de objetivo inter al 26.69 % de descuento'
-date: 2020-11-20 18:34:12
+date: 2020-12-14 10:12:32
 image: 'https://m.media-amazon.com/images/I/41IDjrPXYHL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,10 @@ Está [Fujifilm X-T3 - Cámara de objetivo intercambiable sin espejo  con sensor
 
 ℹ️:
 
+- Excelente funcionamiento de sistema af
+- Perfecto visor electrónico para seguimiento de sujetos en movimiento
+- Capacidad de video dci 4k/60p 10 bits con sensor aps-c
+- 15 puntos de desarrollo sobre modelos anteriores siguiendo opiniones de los fotógrafos
+- Excepcional calidad de imagen gracias a sistema sensor/procesador de cuarta generación
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07H3T9MLT/?tag=tolees-21)

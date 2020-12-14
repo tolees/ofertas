@@ -24,12 +24,12 @@ Está [Olay Luminous Whip Light As Air Hidratante  Crema facial niacinamida para
 
 ℹ️:
 
-- Los productos Olay se crean en colaboración con más de 8000 mujeres al año
 - Trata la hiperpigmentación
-- Prueba Olay a diario durante 28 días. Experimenta una transformación real de la piel
 - Actúa como prebase e hidratante 2 en 1 para una piel lisa, luminosa y mate
-- Fórmula enriquecida con vitamina B3
-- Apta para piel normal, seca y grasa
+- Los productos Olay se crean en colaboración con más de 8000 mujeres al año
 - Hidrata e iguala el tono al instante, iluminando la piel
+- Apta para piel normal, seca y grasa
+- Fórmula enriquecida con vitamina B3
+- Prueba Olay a diario durante 28 días. Experimenta una transformación real de la piel
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KXKLCQK/?tag=tolees-21)

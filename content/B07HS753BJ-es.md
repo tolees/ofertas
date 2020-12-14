@@ -24,10 +24,10 @@ Está [Sharp GX-BT180 RD  - Altavoz Bluetooth portátil 14 W estéreo  Bajos Pro
 
 ℹ️:
 
-- Se suministra con: altavoz, cable aux de 3,5 mm, cable de carga usb, manual del usuario
+- Asistente de voz: acceso a siri o google, hasta 10 horas de reproducción, bateria recargable por usb incluida, manos libres integrado para hacer llamadas, control remoto desde la fuente
 - El tamaño compacto del altavoz y su diseño chulo lo hacen perfecto para poder llevarlo siempre contigo. Controles sencillos de un solo toque; cambia fácilmente entre las diferentes opciones: reproducir, pausar, avanzar, retroceder
 - Escucha tu música favorita en cualquier momento y en cualquier lugar: el altavoz inalámbrico de alto rendimiento sharp es ideal para el hogar, la piscina, la playa, el parque o la carretera, para escuchar música mientras practicas deportes, haces barbacoas, montas en en bici, te relajas en la terraza o animas tus fiestas (es resitente a salpicaduras, chorros de agua y polvo con certificado ip56)
 - Sonido potente gracias a sus 14w de potencía, indicador led de estado: encendido/carga; transmisión inalámbrica de música a través de bluetooth 4.2 fácil reproducción de tu música a través de un teléfono inteligente, tablet o pc, o mediante conexión aux 3,5mm
-- Asistente de voz: acceso a siri o google, hasta 10 horas de reproducción, bateria recargable por usb incluida, manos libres integrado para hacer llamadas, control remoto desde la fuente
+- Se suministra con: altavoz, cable aux de 3,5 mm, cable de carga usb, manual del usuario
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07HS753BJ/?tag=tolees-21)

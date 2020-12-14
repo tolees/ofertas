@@ -24,10 +24,10 @@ Está [L Or Café Grano Colombia 500 g - Pack de 4](https://www.amazon.es/dp/B08
 
 ℹ️:
 
+- Aptos para ser utilizado en máquinas superautomáticas de grano; una vez molido, se puede utilizar en todo tipo de cafeteras
+- El paisaje de la zona rural de Colombia y la leyenda de El Dorado son la inspiración para L’OR COLOMBIA, un espresso con cuerpo con un carácter complejo y ácido que perdura en el paladar
 - Contiene 4 paquetes de 500 gr cada uno (4000 gr en total)
 - Intensidad 8
 - Café en grano 100% Arábica
-- El paisaje de la zona rural de Colombia y la leyenda de El Dorado son la inspiración para L’OR COLOMBIA, un espresso con cuerpo con un carácter complejo y ácido que perdura en el paladar
-- Aptos para ser utilizado en máquinas superautomáticas de grano; una vez molido, se puede utilizar en todo tipo de cafeteras
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08NFRH68Z/?tag=tolees-21)

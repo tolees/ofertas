@@ -24,10 +24,10 @@ Está [Destroy All Humans - PC](https://www.amazon.es/dp/B07SRJJ3YH/?tag=tolees-
 
 ℹ️:
 
+- Disfruta de armas como la pistola de sondas anales
 - (Re)descubre por qué este juego es uno de los más divertidos de la historia
+- Vive el lado oscuro de una invasión alienígena estilo años 50
 - Reconstruido desde cero en todo su galáctico esplendor
 - Hazte pasar por humano e infíltrate en su frágil democracia
-- Vive el lado oscuro de una invasión alienígena estilo años 50
-- Disfruta de armas como la pistola de sondas anales
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07SRJJ3YH/?tag=tolees-21)

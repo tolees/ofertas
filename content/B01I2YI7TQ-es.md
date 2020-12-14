@@ -24,10 +24,10 @@ Está [Jané Mims + Saco Arrullo con Aperturas para Arnés de Grupo 0  Multifunc
 
 ℹ️:
 
-- Se transforma en un saco, un arrullo o una mantita
-- Apto para usarlo en tu grupo 0 colocado en el automóvil
-- De algodón
 - Universal
+- De algodón
+- Apto para usarlo en tu grupo 0 colocado en el automóvil
 - Para el grupo 0 y el capazo
+- Se transforma en un saco, un arrullo o una mantita
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01I2YI7TQ/?tag=tolees-21)

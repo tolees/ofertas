@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WD My Passport SSD 500GB - tecnología NV al 36.25 % de descuento'
-date: 2020-12-08 17:31:43
+date: 2020-12-14 10:37:15
 image: 'https://m.media-amazon.com/images/I/41r-UrzMHRL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,7 +22,12 @@ Ahora mismo tienes [WD My Passport SSD 500GB - tecnología NVMe  USB-C  velocida
 
 [![WD My Passport SSD 500GB - tecnología NV](https://m.media-amazon.com/images/I/41r-UrzMHRL._SL200_.jpg)](https://www.amazon.es/dp/B08F2CMHP7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Cifrado de hardware AES de 256 bits habilitado mediante contraseña
+- Copia de seguridad sencilla
+- La tecnología NVMe sorprendentemente rápida con velocidades de lectura de hasta 1050 MB/s y velocidades de escritura de hasta 1000 MB/s
+- Diseño elegante y compacto. USB 3.2 Gen. 2 de compatibilidad cruzada y USB-C (USB-A para sistemas más antiguos)
+- Resistente a golpes y vibraciones. Resistente a caídas de hasta 2 metros
 
 [Visítala!!!](https://www.amazon.es/dp/B08F2CMHP7/?tag=tolees-21)
