@@ -24,8 +24,8 @@ Tienes [The Legend of Heroes: Trails of Cold Steel III - Extracurricular Edition
 
 ℹ️:
 
-- Carta lenticular animada
 - Caratula reversible con arte alternativo
 - Mini Libro de arte de 20 pág
+- Carta lenticular animada
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08337NCJT/?tag=tolees-21)

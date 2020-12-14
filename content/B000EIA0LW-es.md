@@ -25,9 +25,9 @@ Tienes [Invicta 8928 Pro Diver Reloj Unisex acero inoxidable Automático Esfera 
 ℹ️:
 
 - Resistencia a la presión de agua de 20 bares. Tipo de Corona: Atornillar
-- 2 años de garantía Invicta
+- Este modelo es parte de la colección Invicta Pro Diver
 - Este modelo funciona con un movimiento de Automático preciso
 - El Invicta 8928 tiene una caja de acier inoxydable de 40 milímetros con una esfera azul
-- Este modelo es parte de la colección Invicta Pro Diver
+- 2 años de garantía Invicta
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000EIA0LW/?tag=tolees-21)

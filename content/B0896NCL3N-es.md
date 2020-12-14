@@ -24,10 +24,10 @@ Ahora mismo tienes [Captain Tsubasa: Rise Of New Champions - Collector Edition](
 
 🔎:
 
+- Insignias bordadas
+- Character Pass
+- Caja metálica
 - Lámina; tarjeta coleccionable
 - Pieza exclusiva Master Star (28cm)
-- Caja metálica
-- Character Pass
-- Insignias bordadas
 
 [Visítala!!!](https://www.amazon.es/dp/B0896NCL3N/?tag=tolees-21)

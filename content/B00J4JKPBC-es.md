@@ -24,10 +24,10 @@ Está [Invicta 8929OB Pro Diver Reloj Unisex Acero Inoxidable Automático Esfera
 
 ℹ️:
 
-- 2 años de garantía Invicta
 - El Invicta 8929OB tiene una caja de acier inoxydable de 40 milímetros con una esfera negro
-- Este modelo funciona con un movimiento de Automático preciso
 - Resistencia a la presión de agua de 20 bares. Tipo de Corona: Atornillar
+- 2 años de garantía Invicta
+- Este modelo funciona con un movimiento de Automático preciso
 - Este modelo es parte de la colección Invicta Pro Diver
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00J4JKPBC/?tag=tolees-21)

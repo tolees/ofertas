@@ -24,10 +24,10 @@ Está [GUESS Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidabl
 
 ℹ️:
 
-- Tamaño: 40MM
-- G TWIST
+- Caja Material/Color: Acero/Plateado
 - Correa Material/Color: Acero/Plateado
 - Movimiento: Cuarzo, Display: Analógico
-- Caja Material/Color: Acero/Plateado
+- G TWIST
+- Tamaño: 40MM
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07C7D32RC/?tag=tolees-21)
