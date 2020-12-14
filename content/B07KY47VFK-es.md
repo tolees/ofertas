@@ -25,10 +25,10 @@ Tienes [Rimmel London Lip Art gaphic barra de labios Tono 810  8 g](https://www.
 
 ℹ️:
 
-- Para conseguir un increíble Lip Art, juega a combinar diferentes tonos y labiales de Rimmel
-- Crea looks diferentes cada día y recrea los diseños más originales en maquillaje
-- Fórmula suave y sedosa con silicona que suaviza las arrugas e imperfecciones proporcionando una textura suave
 - Permite delinear y rellenar los labios para que se vean más definidos y gruesos
+- Para conseguir un increíble Lip Art, juega a combinar diferentes tonos y labiales de Rimmel
 - Perfilador y labial líquido a la vez; con aplicador fino y ultra preciso
+- Fórmula suave y sedosa con silicona que suaviza las arrugas e imperfecciones proporcionando una textura suave
+- Crea looks diferentes cada día y recrea los diseños más originales en maquillaje
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KY47VFK/?tag=tolees-21)

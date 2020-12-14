@@ -26,8 +26,8 @@ Ahora mismo tienes [Rolson Tools 48550 - Brocas planas para madera  10 unidades 
 🔎:
 
 - Planta de precisión para la perforación helicoidal precisa
-- 10 piezas juego de puntas de pala Rolson
 - Incl. Bolsa de Vinilo
+- 10 piezas juego de puntas de pala Rolson
 - Tallas: 6, 10, 13, 16, 19, 22, 25, 32 mm
 - Con agujeros para colgar
 

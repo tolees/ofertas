@@ -26,7 +26,7 @@ Ahora mismo tienes [Dove Original Desodorante  0% aluminio- Pack de 6 x 150 ml -
 🔎:
 
 - 1/4 de crema hidratante
-- Dove desodorante 0%
 - No contiene sales de aluminio ni alcohol
+- Dove desodorante 0%
 
 [Visítala!!!](https://www.amazon.es/dp/B07J5DNH5Q/?tag=tolees-21)

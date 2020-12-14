@@ -25,9 +25,9 @@ Ahora mismo tienes [Philips Barbero MG7770/15 Recortador de barba y pelo  óptim
 
 🔎:
 
-- 11 peines-guía para recortar la cara, el cabello y el cuerpo
 - Recorta y da forma a tu cara, cabello y cuerpo con las 18 herramientas
-- Impermeable para una limpieza y un uso en la ducha cómodos
 - Autonomía: 5 horas de uso sin cable por carga
+- 11 peines-guía para recortar la cara, el cabello y el cuerpo
+- Impermeable para una limpieza y un uso en la ducha cómodos
 
 [Visítala!!!](https://www.amazon.es/dp/B0743KVCJD/?tag=tolees-21)

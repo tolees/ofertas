@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asmodee - Barony  juego de mesa  BAR01ML al 30.01 % de descuento'
-date: 2020-11-24 15:10:47
+date: 2020-12-14 16:44:18
 image: 'https://m.media-amazon.com/images/I/41jNTI1T7mL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LGYC6PC/?tag=tolees-21'
 descuento: '30.01'
+average: '27.61111111111111'
 ---
 
 Está [Asmodee - Barony  juego de mesa  BAR01ML ](https://www.amazon.es/dp/B07LGYC6PC/?tag=tolees-21) con 30.01 de descuento por 27.99 EUR (original: 39.99 EUR) en el siguiente enlace!
@@ -24,5 +25,6 @@ Está [Asmodee - Barony  juego de mesa  BAR01ML ](https://www.amazon.es/dp/B07LG
 
 ℹ️:
 
+- Barony
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07LGYC6PC/?tag=tolees-21)

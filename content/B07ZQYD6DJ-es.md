@@ -25,10 +25,10 @@ Está [Emporio Armani Reloj Analogico para Mujer de Cuarzo con Correa en Cuero G
 
 ℹ️:
 
-- Material de la correa: Piel
-- Grosor de la caja: 8mm; Tamaño de la caja: 32mm
-- Ancho de la correa: 14mm; Circunferencia de la correa: 175+/- 5mm
 - Se presenta en caja de regalo Emporio Armani
+- Ancho de la correa: 14mm; Circunferencia de la correa: 175+/- 5mm
+- Material de la correa: Piel
 - Resistente al agua: 3 ATM
+- Grosor de la caja: 8mm; Tamaño de la caja: 32mm
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07ZQYD6DJ/?tag=tolees-21)

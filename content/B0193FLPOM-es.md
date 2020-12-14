@@ -25,8 +25,8 @@ Está [Makita D-29290 - Grata recta ondulada de acero trenzado 100mm](https://ww
 
 ℹ️:
 
+- Inserción: M14
 - Diámetro del alambre: 0.50 mm
 - Diámetro: 100 mm
-- Inserción: M14
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0193FLPOM/?tag=tolees-21)
