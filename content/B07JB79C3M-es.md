@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lee Extreme Motion Straight Jeans  Trip  al 42.83 % de descuento'
-date: 2020-12-13 04:48:34
+date: 2020-12-14 05:08:37
 image: 'https://m.media-amazon.com/images/I/41ou6pIRpNL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,8 +24,8 @@ Ahora mismo tienes [Lee Extreme Motion Straight Jeans  Trip  34W / 32L para Homb
 
 🔎:
 
-- Clasico botón tipo “donut”
 - Cintura flexible
+- Clasico botón tipo “donut”
 - Tejido elástico
 
 [Visítala!!!](https://www.amazon.es/dp/B07JB79C3M/?tag=tolees-21)

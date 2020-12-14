@@ -24,10 +24,10 @@ Ahora mismo tienes [PUMA Liga Training Maillot  Hombre  Electric Blue Lemonade/W
 
 🔎:
 
-- Cuello redondo
-- Tejido que absorbe la humedad
 - Drycell: tecnología puma que absorbe la humedad y ayuda a mantenerte seco y cómodo
-- Corte recto
 - Logotipo del felino puma en la parte derecha del pecho
+- Corte recto
+- Tejido que absorbe la humedad
+- Cuello redondo
 
 [Visítala!!!](https://www.amazon.es/dp/B078VR44FL/?tag=tolees-21)
