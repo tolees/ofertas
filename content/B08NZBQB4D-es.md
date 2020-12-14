@@ -26,8 +26,8 @@ Tienes [Anself 2pcs Herramienta de Detección Digital Domestica](https://www.ama
 
 - Comodidad de uso: fiabilidad exacta, funcionamiento de un teclado, basta con ponerlo en la mano y detenerlo automáticamente después de cinco segundos de apertura.
 - Fácil de leer: puede ver sus resultados claramente mostrados por los diodos emisores orgánicos de luz.
-- Amplia aplicación: adaptable a la familia, Office Use.
 - Tamaño pequeño: la herramienta de prueba es ligera, pequeña y fácil de transportar.
+- Amplia aplicación: adaptable a la familia, Office Use.
 - Multifunción: esta herramienta de prueba digital permite medir con precisión varios indicadores.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08NZBQB4D/?tag=tolees-21)

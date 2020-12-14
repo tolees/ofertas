@@ -24,9 +24,9 @@ Tienes [Salomon Quest Prime GTX  Zapatillas de Senderismo Hombre  Gris  Phantom/
 
 ℹ️:
 
-- Anchura del zapato: D
-- Cierre: Cordones
 - Composición: 100% textil
+- Anchura del zapato: D
 - Material exterior: Sintético
+- Cierre: Cordones
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B078SVFRXY/?tag=tolees-21)

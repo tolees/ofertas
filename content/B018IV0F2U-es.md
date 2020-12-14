@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Medisana HG 100 Higrómetro digital para  al 44.28 % de descuento'
-date: 2020-12-09 10:13:37
+date: 2020-12-14 07:06:11
 image: 'https://m.media-amazon.com/images/I/41YLsQX6-uL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,7 +22,12 @@ Ahora mismo tienes [Medisana HG 100 Higrómetro digital para interiores  termóm
 
 [![Medisana HG 100 Higrómetro digital para ](https://m.media-amazon.com/images/I/41YLsQX6-uL._SL200_.jpg)](https://www.amazon.es/dp/B018IV0F2U/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Indicador de zona de confort: El smiley sonriente es señal de un clima óptimo y saludable, el smiley triste es señal de un clima poco saludable.
+- Colgar y colocar: Puede colocar o colgar el higrómetro según necesidad. El higrómetro se puede colgar fácilmente con la ayuda de un soporte magnético
+- Funcional: El higrómetro HM 100 está equipado con una función de alarma y un indicador de la hora.
+- Clima interior saludable: Con el termohigrómetro digital HG 100 siempre tendrá a la vista el clima de la habitación para adaptarlo a sus necesidades personales
+- Función de memoria: Nuestro higrómetro está equipado con una función que le permite guardar fácilmente los valores máximos y mínimos
 
 [Visítala!!!](https://www.amazon.es/dp/B018IV0F2U/?tag=tolees-21)

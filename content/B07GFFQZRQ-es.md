@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marca Amazon - Movian Inari Modern - Esc al 48.17 % de descuento'
-date: 2020-12-10 20:24:13
+date: 2020-12-14 07:38:12
 image: 'https://m.media-amazon.com/images/I/21IyFPSWRGL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,12 +24,12 @@ Está [Marca Amazon - Movian Inari Modern - Escritorio con 1 cajón  50 x 90 x 
 
 ℹ️:
 
-- Tablero aglomerado de 16 mm de estructura resistente
 - Medidas: 50 x 90 x 73 cm
 - Acabado minimalista en melamina blanca
-- 2 años de garantía
-- Viene sin ensamblar
 - Montaje sencillo. Se requieren dos personas.
 - Diseño elegante y a la vez completamente práctico
+- Tablero aglomerado de 16 mm de estructura resistente
+- Viene sin ensamblar
+- 2 años de garantía
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07GFFQZRQ/?tag=tolees-21)
