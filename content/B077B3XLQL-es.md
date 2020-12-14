@@ -25,9 +25,9 @@ Ahora mismo tienes [find. Botines Chelsea Hombre  Marrón  Stone   46/46.5 EU](h
 
 🔎:
 
+- Elásticos en los laterales
 - Tirador con pespunte
 - Detalle trasero en contraste
 - Suela de goma
-- Elásticos en los laterales
 
 [Visítala!!!](https://www.amazon.es/dp/B077B3XLQL/?tag=tolees-21)

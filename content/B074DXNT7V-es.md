@@ -25,10 +25,10 @@ Tienes [Western Digital My Cloud Home - Almacenamiento en Red NAS de 6.TB  1 bah
 
 ℹ️:
 
-- Precio mínimo ofrecido por este vendedor en los 30 días anteriores a la oferta: 182.99€
-- Copia de seguridad automática de las fotos y los vídeos del teléfono
 - Acceso desde cualquier lugar con la aplicación para móviles, ordenadores o desde MyCloud.com
 - Configuración sencilla y rápida desde el teléfono
+- Precio mínimo ofrecido por este vendedor en los 30 días anteriores a la oferta: 182.99€
+- Copia de seguridad automática de las fotos y los vídeos del teléfono
 - Puerto USB para importar datos desde unidades flash USB y discos duros externos
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B074DXNT7V/?tag=tolees-21)

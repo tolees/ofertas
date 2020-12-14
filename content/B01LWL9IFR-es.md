@@ -25,11 +25,11 @@ Está [Cecotec Batidora Amasadora Cecomixer Easy Movimiento Orbital  Capacidad 3
 
 ℹ️:
 
-- Componentes incluidos: Varilla batidora, Varilla amasadora, Cuenco de acero inoxidable
-- Incorpora un motor reforzado para un perfecto funcionamiento, protegido por el diseño de las varillas y espirales; además, posee un sistema de seguridad que protege al motor de sobrecalentamientos; el security motor system provoca la interrupción del proceso cuando el motor alcanza elevadas temperaturas y solo permite su puesta en funcionamiento una vez se ha enfriado
-- Diseño de protección en las espirales y varillas que protege la unión con el cuerpo, consiguiendo así que la masa no entre en la parte mecánica y no ocasione ningún problema
-- Batidora amasadora con 5 funciones: amasar, batir, mezclar, montar y emulsionar
-- 6 niveles de potencía y movimiento planetario gracias al deslizador del bol que se encuentra en la base, con el que puedes elegir si dejar el bol en posición fija, o darle movimiento orbital
 - Posee 3 litros de capacidad, un bol de acero inoxidable y accesorios para todas sus funciones
+- Componentes incluidos: Varilla batidora, Varilla amasadora, Cuenco de acero inoxidable
+- Batidora amasadora con 5 funciones: amasar, batir, mezclar, montar y emulsionar
+- Diseño de protección en las espirales y varillas que protege la unión con el cuerpo, consiguiendo así que la masa no entre en la parte mecánica y no ocasione ningún problema
+- Incorpora un motor reforzado para un perfecto funcionamiento, protegido por el diseño de las varillas y espirales; además, posee un sistema de seguridad que protege al motor de sobrecalentamientos; el security motor system provoca la interrupción del proceso cuando el motor alcanza elevadas temperaturas y solo permite su puesta en funcionamiento una vez se ha enfriado
+- 6 niveles de potencía y movimiento planetario gracias al deslizador del bol que se encuentra en la base, con el que puedes elegir si dejar el bol en posición fija, o darle movimiento orbital
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01LWL9IFR/?tag=tolees-21)

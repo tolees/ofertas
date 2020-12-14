@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Four Calendar Café [Vinilo] al 28.58 % de descuento'
-date: 2020-12-13 12:19:28
+date: 2020-12-14 14:18:54
 image: 'https://m.media-amazon.com/images/I/61Crum-A8jL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M6PJ63M/?tag=tolees-21'
 descuento: '28.58'
+average: '15.99'
 ---
 
 Está [Four Calendar Café [Vinilo]](https://www.amazon.es/dp/B07M6PJ63M/?tag=tolees-21) con 28.58 de descuento por 15.99 EUR (original: 22.39 EUR) en el siguiente enlace!

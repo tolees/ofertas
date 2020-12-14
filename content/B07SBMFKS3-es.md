@@ -26,9 +26,9 @@ Está [5 Piezas de Repuesto de Instrumentos de Viento de Madera Suona Reeds - Me
 ℹ️:
 
 - * Pequeño: abajo EFG
-- * Las cañas suonarias están hechas de material plástico de alta calidad, estable y duradero.
-- * Grande: UP GA Abajo B
 - * Cómodo de usar y no necesita reparación, adecuado para amateurs o principiantes.
 - * Medio: CD hacia abajo E
+- * Grande: UP GA Abajo B
+- * Las cañas suonarias están hechas de material plástico de alta calidad, estable y duradero.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07SBMFKS3/?tag=tolees-21)

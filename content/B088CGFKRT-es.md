@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dove Desodorante Roll On Sensitive 0% Al al 25.03 % de descuento'
-date: 2020-11-23 16:32:15
+date: 2020-12-14 14:31:17
 image: 'https://m.media-amazon.com/images/I/41o1Dc0ThSL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B088CGFKRT/?tag=tolees-21'
 descuento: '25.03'
+average: '11.2'
 ---
 
 Está [Dove Desodorante Roll On Sensitive 0% Aluminio 50ml Pack de 6](https://www.amazon.es/dp/B088CGFKRT/?tag=tolees-21) con 25.03 de descuento por 11.2 EUR (original: 14.94 EUR) en el siguiente enlace!
@@ -24,5 +25,13 @@ Está [Dove Desodorante Roll On Sensitive 0% Aluminio 50ml Pack de 6](https://ww
 
 ℹ️:
 
+- Formato Aerosol
+- Sin sales de aluminio
+- Dove Desodorante Roll-on Sensitive 0%
+- Con 1/4 de crema hidratante
+- Hipoalergénico
+- Protección 48h
+- Con Fragancia Neutra
+- Sin Alcohol
 
 [Ver la oferta!!](https://www.amazon.es/dp/B088CGFKRT/?tag=tolees-21)

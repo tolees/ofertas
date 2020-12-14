@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 52.57 % en Rimmel London Lip Art gaphic barra de la'
-date: 2020-12-03 14:47:43
+date: 2020-12-14 14:54:34
 image: 'https://m.media-amazon.com/images/I/31NA6vF-NcL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KY47VFK/?tag=tolees-21'
 descuento: '52.57'
+average: '4.89'
 ---
 
 Tienes [Rimmel London Lip Art gaphic barra de labios Tono 810  8 g](https://www.amazon.es/dp/B07KY47VFK/?tag=tolees-21) con un 52.57 % de descuento con precio de oferta de 4.89 EUR (original: 10.31 EUR) en el siguiente enlace!
@@ -24,5 +25,10 @@ Tienes [Rimmel London Lip Art gaphic barra de labios Tono 810  8 g](https://www.
 
 ℹ️:
 
+- Para conseguir un increíble Lip Art, juega a combinar diferentes tonos y labiales de Rimmel
+- Crea looks diferentes cada día y recrea los diseños más originales en maquillaje
+- Perfilador y labial líquido a la vez; con aplicador fino y ultra preciso
+- Permite delinear y rellenar los labios para que se vean más definidos y gruesos
+- Fórmula suave y sedosa con silicona que suaviza las arrugas e imperfecciones proporcionando una textura suave
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KY47VFK/?tag=tolees-21)
