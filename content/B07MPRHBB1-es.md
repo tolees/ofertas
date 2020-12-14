@@ -24,9 +24,9 @@ Ahora mismo tienes [Funko POP Vinilo Games Figura de Fortnite  P.A.N.D.A Team Le
 
 🔎:
 
-- Figura de colección de la marca Funko
-- El artículo es adecuado para todos los fanáticos de Fortnite
 - Recomendado para niños a partir de 3 años
+- El artículo es adecuado para todos los fanáticos de Fortnite
+- Figura de colección de la marca Funko
 - El producto se envía en una caja ilustrada con ventana
 
 [Visítala!!!](https://www.amazon.es/dp/B07MPRHBB1/?tag=tolees-21)

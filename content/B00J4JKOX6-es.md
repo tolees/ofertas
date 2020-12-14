@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Invicta 8927OB Pro Diver Reloj Unisex ac al 30.75 % de descuento'
-date: 2020-12-09 13:36:40
+date: 2020-12-14 00:55:05
 image: 'https://m.media-amazon.com/images/I/41pynLFzGpL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,10 @@ Está [Invicta 8927OB Pro Diver Reloj Unisex acero inoxidable Automático Esfera
 
 ℹ️:
 
+- 2 años de garantía Invicta
+- Resistencia a la presión de agua de 20 bares. Tipo de Corona: Atornillar
+- El Invicta 8927OB tiene una caja de acier inoxydable de 40 milímetros con una esfera negro
+- Este modelo es parte de la colección Invicta Pro Diver
+- Este modelo funciona con un movimiento de Automático preciso
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00J4JKOX6/?tag=tolees-21)

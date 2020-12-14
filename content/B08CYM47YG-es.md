@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mimosín Intense Suavizante Elixir Floral al 28.37 % de descuento'
-date: 2020-11-19 10:14:01
+date: 2020-12-14 00:47:37
 image: 'https://m.media-amazon.com/images/I/51FeWVxbQJL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,9 @@ Está [Mimosín Intense Suavizante Elixir Floral 52 Lavados  1196 ml - Pack de 6
 
 ℹ️:
 
+- Suavizante concentrado intenso
+- Permite mantener la suavidad de la ropa incluso después de una pequeña temporada en el armario
+- Una explosión de suavidad
+- Mimosín Intense Elixir Floral
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08CYM47YG/?tag=tolees-21)

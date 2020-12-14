@@ -24,10 +24,10 @@ Ahora mismo tienes [Mr Wonderful Batería Externa 6000 mAh - 2 Puertos de Carga 
 
 🔎:
 
-- Aporta hasta 1 carga completa de batería extra a tu smartphone gracias a su capacidad de 6000 mAh.
-- Compacta, ligera y muy fina, ideal para llevar en la mochila o bolso.
-- Power Bank de carga rápida con diseño Good Vibes Loading de Mr. Wonderful.
-- Con cable micro USB incluido, función linterna y precargada, lista para usar.
 - Con 2 puertos de salida, permite cargar 2 dispositivos simultáneamente.
+- Aporta hasta 1 carga completa de batería extra a tu smartphone gracias a su capacidad de 6000 mAh.
+- Power Bank de carga rápida con diseño Good Vibes Loading de Mr. Wonderful.
+- Compacta, ligera y muy fina, ideal para llevar en la mochila o bolso.
+- Con cable micro USB incluido, función linterna y precargada, lista para usar.
 
 [Visítala!!!](https://www.amazon.es/dp/B077JSNMNV/?tag=tolees-21)

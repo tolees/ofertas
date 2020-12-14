@@ -24,12 +24,12 @@ Está [AEG 900279109 Aspirador sin cable con tecnología ciclónica y 60 minutos
 
 ℹ️:
 
-- Interfaz del usuario con 3 luces LED para mostrar el estado de carga y el nivel de potencia seleccionado
+- Manguera de succión extraíble y boquilla multifunción 3 en 1 para mayor libertad de movimiento y una limpieza completa
+- Gran depósito de 0,7L para una limpieza en profundidad
+- El centro de gravedad se puede cambiar hacia arriba o hacia abajo por medio de una unidad deslizante q8ue permite una limpieza más cómoda y versátil
+- Con función parking para tener la aspiradora siempre a mano en cualquier lugar y en cualquier momento
 - Con batería de Li-Ion de hasta 60 minutos de autonomía (o 270 m²) y 3 niveles de potencia. Aspira con el rendimiento de una aspiradora trineo con cable.
 - Cepillo motorizado con diez luces LED para los rincones más oscuro y que permiten una limpieza a fondo sin compromiso
-- Gran depósito de 0,7L para una limpieza en profundidad
-- Con función parking para tener la aspiradora siempre a mano en cualquier lugar y en cualquier momento
-- El centro de gravedad se puede cambiar hacia arriba o hacia abajo por medio de una unidad deslizante q8ue permite una limpieza más cómoda y versátil
-- Manguera de succión extraíble y boquilla multifunción 3 en 1 para mayor libertad de movimiento y una limpieza completa
+- Interfaz del usuario con 3 luces LED para mostrar el estado de carga y el nivel de potencia seleccionado
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07HB9GH9Q/?tag=tolees-21)
