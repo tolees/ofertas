@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crocs Crocband  Zuecos Unisex Adulto  Az al 28.90 % de descuento'
-date: 2020-12-12 16:51:26
+date: 2020-12-13 22:58:47
 image: 'https://m.media-amazon.com/images/I/41Z3UGtm-dL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,13 +24,13 @@ Ahora mismo tienes [Crocs Crocband  Zuecos Unisex Adulto  Azul  Navy   38/39 EU]
 
 🔎:
 
-- Altura del tacón: 1 centímetro
+- Composición: Sintético
+- Material de la suela: Goma
 - Revestimiento: Sintético
 - Tipo de talla: talla estándar
-- Material exterior: Espuma
-- Material de la suela: Goma
-- Composición: Sintético
-- Tipo de tacón: Plano
 - Cierre: Sin cordones
+- Tipo de tacón: Plano
+- Material exterior: Espuma
+- Altura del tacón: 1 centímetro
 
 [Visítala!!!](https://www.amazon.es/dp/B002JCSSZG/?tag=tolees-21)

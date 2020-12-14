@@ -25,9 +25,9 @@ Tienes [TESMED MAX 830 electroestimulador Muscular - 4 Canales - EMS Y MASAJES T
 ℹ️:
 
 - Adecuado incluso para un uso profesional - Resultados certificados por un importante instituto de investigación - tecnología TMS: no es necesario identificar la polaridad de los electrodos - pantalla LCD retroiluminada
-- Regulación intensidad - Regulación frecuencia: para los programas de 1 a 20 - funciona con pila recargable de larga duración
 - 4 canales independientes, 99 programas de los cuales 20 se pueden personalizar en cuanto a potencia e intensidad - más de 200 aplicaciones para abdominal, estética, gluteos, fitness, masaje TENS- funciona con pila recargable de larga duración, incluida
-- Patente Waims System: ondas secuenciales: comienzan desde abajo y llegan hasta arriba, en secuencia, excepcionales para la microcirculación - manual de uso multilingüe con ilustraciones detalladas de la posición de los electrodos y sugerencias para conseguir los mejores resultados
 - Tesmed rango superior - electroestimulador muscolar , masaje tens - incluidos: max 830 con batería insertada, 20 electrodos, adaptador, manual
+- Patente Waims System: ondas secuenciales: comienzan desde abajo y llegan hasta arriba, en secuencia, excepcionales para la microcirculación - manual de uso multilingüe con ilustraciones detalladas de la posición de los electrodos y sugerencias para conseguir los mejores resultados
+- Regulación intensidad - Regulación frecuencia: para los programas de 1 a 20 - funciona con pila recargable de larga duración
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00D3I0INA/?tag=tolees-21)

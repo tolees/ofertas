@@ -24,8 +24,8 @@ Ahora mismo tienes [Fantasy Flight Games- Star Wars X-Wing. EL Despertar DE LA F
 
 🔎:
 
+- Esta caja básica contiene todo lo necesario para que dos jugadores puedan empezar a jugar a X-Wing: miniaturas de naves pintadas a mano, dados especiales, cartas, fichas y un reglamento introductorio
 - Producto en castellano
 - También se incluyen reglas avanzadas y misiones especiales que llevan la experiencia de juego a un nuevo nivel
-- Esta caja básica contiene todo lo necesario para que dos jugadores puedan empezar a jugar a X-Wing: miniaturas de naves pintadas a mano, dados especiales, cartas, fichas y un reglamento introductorio
 
 [Visítala!!!](https://www.amazon.es/dp/B0158QJDR6/?tag=tolees-21)

@@ -24,8 +24,8 @@ Ahora mismo tienes [Nixon Reloj Analógico para Mujer de Cuarzo con Correa en Ac
 
 🔎:
 
-- Caja: acero inoxidable macizo de 38 mm, 50 M , 5 ATM, cristal mineral endurecido y parte posterior de la caja atornillada
 - Mecanismo: cuarzo japonés Miyota de 3 agujas
+- Caja: acero inoxidable macizo de 38 mm, 50 M , 5 ATM, cristal mineral endurecido y parte posterior de la caja atornillada
 - Esfera: incluye el ideograma Nixon y los marcadores de hora, números impresos y agujas moldeadas especiales
 - Correa: piel de 17,5 mm, hebilla de diseño exclusivo
 

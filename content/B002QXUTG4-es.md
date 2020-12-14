@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 51.41 % en Michael Kors Reloj con Correa de Acero M'
-date: 2020-12-07 19:42:12
+date: 2020-12-13 23:07:30
 image: 'https://m.media-amazon.com/images/I/41JH-OZKR4L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,9 @@ Tienes [Michael Kors Reloj con Correa de Acero MK5165](https://www.amazon.es/dp/
 
 ℹ️:
 
+- Brazalete de acero inoxidable con acabado pulido brillante y mate - Cierre desplegable
+- Reloj de mujer MICHAEL KORS - Caja redonda de acero inoxidable (diám. 39 mm) con acabado pulido - 2 pulsadores cromados - 10 ATM de resistencia a la presión del agua - Bisel con glitz
+- Presentado en estuche MICHAEL KORS
+- Esfera plateada con estampado, índices cromados y números árabes plateados a las 2/4/8/10/12 - Cronógrafo con fecha y modo 24h - Agujas plateadas - Cristal mineral
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B002QXUTG4/?tag=tolees-21)

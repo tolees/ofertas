@@ -24,8 +24,8 @@ Ahora mismo tienes [Fantasy Flight Games- SW X-Wing 2.0 - Escoria y Villanos: Ki
 
 🔎:
 
-- Juego de estrategia con miniaturas y dados
 - Sw x-wing 2.0 - escoria y villanos: kit de conversión - español
+- Juego de estrategia con miniaturas y dados
 - Kit de conversion para x-wing
 
 [Visítala!!!](https://www.amazon.es/dp/B07HB91NDQ/?tag=tolees-21)

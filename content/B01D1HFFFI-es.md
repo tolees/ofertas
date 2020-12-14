@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rimmel London Sculpting Palette  Polvos  al 42.18 % de descuento'
-date: 2020-12-12 22:39:14
+date: 2020-12-13 22:50:36
 image: 'https://m.media-amazon.com/images/I/417oWNj06QL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,11 +24,11 @@ Ahora mismo tienes [Rimmel London Sculpting Palette  Polvos de maquillaje - Tono
 
 🔎:
 
-- Sombreador para contornerar la nariz y la mandíbula
+- Colorete en polvo para dar color y definicióon
+- Tipo de piel: Piel normal
 - Fácil de desmaquillar
 - Polvo iluminador para resaltar mejillas, cejas, frente, barbilla y nariz
-- Tipo de piel: Piel normal
-- Colorete en polvo para dar color y definicióon
+- Sombreador para contornerar la nariz y la mandíbula
 - Paleta con 3 pasos para contouring
 
 [Visítala!!!](https://www.amazon.es/dp/B01D1HFFFI/?tag=tolees-21)

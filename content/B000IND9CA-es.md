@@ -24,9 +24,9 @@ Tienes [Tetera Chester el gato Purrrrrrrrrrr-fect para fiestas de té  comedor y
 
 ℹ️:
 
-- Aprobado por la FDA
-- Capacidad: aprox. 1050 ml de tu té favorito
 - Tamaño: 14 cm de alto
+- Capacidad: aprox. 1050 ml de tu té favorito
 - Cerámica pintada a mano
+- Aprobado por la FDA
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000IND9CA/?tag=tolees-21)

@@ -24,10 +24,10 @@ Tienes [Fujifilm Instax SQ6 - Cámara analógica instantánea Formato Cuadrado  
 
 ℹ️:
 
-- Modo selfie
-- Utiliza película instantánea instax square
 - Tres filtros de color para el flash
 - Modo doble exposición
+- Modo selfie
+- Utiliza película instantánea instax square
 - Control automático de exposición
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CV5WP9Q/?tag=tolees-21)

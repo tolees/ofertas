@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.03 % en PUMA Smash V2 L  Zapatillas Unisex Adult'
-date: 2020-12-12 22:33:57
+date: 2020-12-13 23:28:50
 image: 'https://m.media-amazon.com/images/I/31s8fRTR-KL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,11 +24,11 @@ Tienes [PUMA Smash V2 L  Zapatillas Unisex Adulto  Blanco White Black  45 EU](ht
 
 ℹ️:
 
-- Material de la suela: Goma
 - Tipo de tacón: Plano
-- Altura del tacón: 3 centímetros
 - Cierre: Cordones
 - Material exterior: Cuero
 - Revestimiento: Malla
+- Altura del tacón: 3 centímetros
+- Material de la suela: Goma
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0783PWMVB/?tag=tolees-21)

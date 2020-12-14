@@ -24,8 +24,8 @@ Está [Marca Amazon - Iris & Lilly Calzoncillo Tanga de Algodón Mujer  Pack de 
 
 ℹ️:
 
-- Dos tonos.
 - Ribete de encaje.
 - Pierna alta.
+- Dos tonos.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07N33HYVZ/?tag=tolees-21)

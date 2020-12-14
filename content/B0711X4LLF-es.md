@@ -24,10 +24,10 @@ Está [Fantasy Flight Games-El Reino de Jabba  colección Imperial Assault  FFSW
 
 ℹ️:
 
-- Este producto es una expansión y requiere Star Wars: Imperial Assault para poder jugarlo
-- El reino de Jabba también proporciona nuevas y emocionantes estrategias para tus partidas de escaramuza
-- Lucha junto a contrabandistas y cazarrecompensas en El reino de Jabba
 - Esta expansión presenta una nueva campaña con dieciséis misiones totalmente nuevas que exploran los sórdidos bajos fondos de la galaxia y los mundos de los viles señores Hutt
 - Producto en castellano
+- Este producto es una expansión y requiere Star Wars: Imperial Assault para poder jugarlo
+- Lucha junto a contrabandistas y cazarrecompensas en El reino de Jabba
+- El reino de Jabba también proporciona nuevas y emocionantes estrategias para tus partidas de escaramuza
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0711X4LLF/?tag=tolees-21)

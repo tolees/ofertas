@@ -24,8 +24,8 @@ Está [Fantasy Flight Games- Star Wars X-Wing: carguero yt-2400  Edge Entertainm
 
 ℹ️:
 
+- Gran rejugabilidad
 - Revolucionario sistema de juego
 - Miniaturas de naves pintadas a mano
-- Gran rejugabilidad
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00U79XTAC/?tag=tolees-21)

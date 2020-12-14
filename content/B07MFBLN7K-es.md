@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung MZ-V7S500BW 970 EVO Plus - Unida al 26.18 % de descuento'
-date: 2020-12-12 23:12:27
+date: 2020-12-13 23:25:04
 image: 'https://m.media-amazon.com/images/I/416rM0BbODL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,10 +24,10 @@ Ahora mismo tienes [Samsung MZ-V7S500BW 970 EVO Plus - Unidad SSD  500 GB  M.2 
 
 🔎:
 
-- Interfaz sata 6.gb/s y retrocompatible con sata 3.gbps y sata 1.5.gbps
-- Ssd con tecnología v-nand samsung
-- Velocidad de lectura secuencial hasta 3.500.mb/seg y velocidad de escritura secuencial hasta 3.300.mb/seg.
-- Factor de forma 2.5.pulgadas excelente tanto para ordenadores portátiles que fijos
 - Lectura al azar (4kb, qd32) hasta 600000.iops y escritura aleatorio (4kb, qd32) hasta 550000.iops
+- Factor de forma 2.5.pulgadas excelente tanto para ordenadores portátiles que fijos
+- Ssd con tecnología v-nand samsung
+- Interfaz sata 6.gb/s y retrocompatible con sata 3.gbps y sata 1.5.gbps
+- Velocidad de lectura secuencial hasta 3.500.mb/seg y velocidad de escritura secuencial hasta 3.300.mb/seg.
 
 [Visítala!!!](https://www.amazon.es/dp/B07MFBLN7K/?tag=tolees-21)

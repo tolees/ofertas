@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tarjeta SanDisk microSDXC UHS-I para Nin al 37.51 % de descuento'
-date: 2020-12-12 23:19:02
+date: 2020-12-13 23:38:09
 image: 'https://m.media-amazon.com/images/I/41wuFwHgE9L._SL200_.jpg'
 comments: true
 category: ofertas
