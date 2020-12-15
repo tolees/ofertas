@@ -26,7 +26,7 @@ Tienes [Case Logic BRYA111K - Maletín para Ordenador portátil de 11.6"  Color 
 ℹ️:
 
 - Organización de cables que permite realizar la carga cómodamente en el maletín. Compartimentos para revistas, carpetas
-- Compartimento acolchado para portátiles. Almacenamiento para iPad o tabletas de 10.1 pulgadas, asi como para accesorios
 - Correa para hombro acolchada desmontable, y de equipaje, asi como asas de transporte
+- Compartimento acolchado para portátiles. Almacenamiento para iPad o tabletas de 10.1 pulgadas, asi como para accesorios
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01EHG335Q/?tag=tolees-21)

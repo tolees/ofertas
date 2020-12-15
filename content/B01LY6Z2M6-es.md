@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.67 % en Blue Microphones Yeti - Micrófono USB pa'
-date: 2020-11-28 22:28:15
+date: 2020-12-15 18:55:39
 image: 'https://m.media-amazon.com/images/I/31N4OVy6lXL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LY6Z2M6/?tag=tolees-21'
 descuento: '26.67'
+average: '111.48857142857142'
 ---
 
 Tienes [Blue Microphones Yeti - Micrófono USB para grabación y transmisión en PC y Mac  transmisión de juegos  llamadas de Skype  transmisión de Youtube  Plug and Play  color Azul  Medianoche ](https://www.amazon.es/dp/B01LY6Z2M6/?tag=tolees-21) con un 26.67 % de descuento con precio de oferta de 109.99 EUR (original: 149.99 EUR) en el siguiente enlace!
@@ -24,5 +25,11 @@ Tienes [Blue Microphones Yeti - Micrófono USB para grabación y transmisión en
 
 ℹ️:
 
+- Conjunto de tres cápsulas personalizadas: Produce un sonido claro, potente y con calidad de difusión para YouTube, streaming de juegos, podcasting, llamadas de Skype y música
+- Plug and Play en Mac y PC: Empieza a grabar y hacer streaming al instante en Mac o PC
+- Legendario sonido de difusión Blue: Pone el toque profesional para grabar, hacer streaming y hacer crecer la audiencia
+- Cuatro patrones de captación: Los patrones de captación cardioide, omnidireccional, bidireccional y estéreo ofrecen una flexibilidad increíble, permitiendo grabar de formas que normalmente requerirían varios micrófonos
+- Diseño posicionable: Ajusta y gira el micrófono con relación a la fuente para optimizar la calidad del sonido
+- Controles de audio integrados: Los controles de estudio para el volumen de los auriculares, la selección de patrones, el silenciamiento instantáneo y la ganancia del micrófono ponen en tus manos el proceso de grabación y streaming
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01LY6Z2M6/?tag=tolees-21)

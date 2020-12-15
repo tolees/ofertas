@@ -25,8 +25,8 @@ Está [adidas Advantage  Sneaker Mens  Blanco  FTWR White/FTWR White/Green FTWR 
 
 ℹ️:
 
-- Cordones de zapatos
 - Corte regular
 - La parte superior de cuero
+- Cordones de zapatos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KFJCV78/?tag=tolees-21)

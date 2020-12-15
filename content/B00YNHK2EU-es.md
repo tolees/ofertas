@@ -26,9 +26,9 @@ Ahora mismo tienes [Castrol Power 1 2T Aceite de motor  1L](https://www.amazon.e
 🔎:
 
 - Castrol POWER1 Racing es fruto de la experiencia histórica de Castrol en el mundo de la competición
-- [ESPECIFICACIONES/ESTÁNDARES DE LA INDUSTRIA] API TC ISO-L-EGD JASO FD
 - Aceite totalmente sintético de motor CASTROL POWER1 RACING 2T Viscosidad del aceite: 10W40
 - Castrol POWER1 Racing 2T ,con su fórmula altamente protectora de combustión rápida, se ha diseñado para mejorar la respuesta de acelerador al dar gas en motores de 2 tiempos. Ofrece un gran rendimiento para una conducción extrema
 - 1 litro Para motores de 2 tiempos
+- [ESPECIFICACIONES/ESTÁNDARES DE LA INDUSTRIA] API TC ISO-L-EGD JASO FD
 
 [Visítala!!!](https://www.amazon.es/dp/B00YNHK2EU/?tag=tolees-21)

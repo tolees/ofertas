@@ -25,10 +25,10 @@ Tienes [Grohe BauEdge - Grifo de lavabo de baño para instalación en un solo ag
 
 ℹ️:
 
+- Fácil de limpiar, gracias al recubrimiento cromado GROHE StarLight
+- Cuerpo liso: para fregaderos que no requieren un vaciador automático o una cadena retráctil
 - GROHE EcoJoy con función de ahorro de agua para una reducción de tu consumo
 - GROHE LongLife: rendimiento de larga duración y uso suave y sencillo
-- Cuerpo liso: para fregaderos que no requieren un vaciador automático o una cadena retráctil
 - Cómodo caño de altura estándar
-- Fácil de limpiar, gracias al recubrimiento cromado GROHE StarLight
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00GXA9BCE/?tag=tolees-21)

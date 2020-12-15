@@ -25,9 +25,9 @@ Está [BOSS Orca Bañador  Azul  Navy 413   Small para Hombre](https://www.amazo
 
 ℹ️:
 
-- Con el logo de la marca estampado en la pernera izquierda
 - Con 2 bolsillos laterales y un bolsillo trasero
-- Presenta cordón en la cintura
 - Bañador con cintura elástica
+- Presenta cordón en la cintura
+- Con el logo de la marca estampado en la pernera izquierda
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00V0JJJ7K/?tag=tolees-21)

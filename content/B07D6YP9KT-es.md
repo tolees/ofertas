@@ -25,7 +25,7 @@ Está [adidas Gazelle  Zapatillas de Gimnasia Hombre  Rojo  Collegiate Burgundy/
 
 ℹ️:
 
-- adulto
 - Rojo
+- adulto
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07D6YP9KT/?tag=tolees-21)

@@ -25,10 +25,10 @@ Está [Sony ICD-Bx140 - Grabadora Digital  4GB   11.5x2.1x3.9 cm  Plateado](http
 
 ℹ️:
 
-- Grabadora de voz digital con grabación y reproducción de mp3/HVXC, altavoz de 300 mW y almacenamiento de 4 GB
 - Almacenamiento integrado de 4 GB
-- Altavoz de 300 mW integrado
 - Interfaz de ENTRADA Y SALIDA DE TERMINAL Toma de auriculares, entrada de micrófono
+- Altavoz de 300 mW integrado
 - Grabación de mp3/HVXC
+- Grabadora de voz digital con grabación y reproducción de mp3/HVXC, altavoz de 300 mW y almacenamiento de 4 GB
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00IZEJFF4/?tag=tolees-21)

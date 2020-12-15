@@ -25,10 +25,10 @@ Ahora mismo tienes [UKON 90mm Puente de Nariz de Tira de Aluminio 50/100/200/300
 
 🔎:
 
-- 【Servicio posventa】Las barras de aluminio de UKON solo se venden por las tiendas Love Sports, que se envía por Amazon, entrega rápida de 2 a 3 días, otras tiendas se envían desde China y normalmente el tiempo de entrega es de 30 días, si tienes alguna pregunta, siempre proporcionamos un soporte amistoso y fácil de alcanzar.
-- 【Amplia aplicación】Adecuado para esculturar, tejer alambre, hacer modelos de bicicleta, hacer joyas, hacer la cubierta de la cara hecha a mano y modelado Bonsai. Puedes hacer los modelos y utilizar la cubierta de arcilla, o deformar el hilo de aluminio con un paño, coserlo en una banda para el pelo.
-- 【Esencial para hacer manualidades】Con cinta adhesiva de aluminio de doble cara, que tiene una gran adherencia y efecto moldeador. Ideal para manualidades y joyería, accesorios esenciales para la cubierta frontal hecha a mano.
 - Suave y antioxidante: el clip de puente UKON está hecho de aluminio sólido, superficie lisa, sin rebabas, con esquinas elipse y anti óxido. Tiene las excelentes características de flexión y deformación por la acción de efecto de fuerza externa, sin retorceduras en la curvatura y mantiene la forma existente sin cambios. Se puede utilizar durante mucho tiempo.
+- 【Esencial para hacer manualidades】Con cinta adhesiva de aluminio de doble cara, que tiene una gran adherencia y efecto moldeador. Ideal para manualidades y joyería, accesorios esenciales para la cubierta frontal hecha a mano.
+- 【Servicio posventa】Las barras de aluminio de UKON solo se venden por las tiendas Love Sports, que se envía por Amazon, entrega rápida de 2 a 3 días, otras tiendas se envían desde China y normalmente el tiempo de entrega es de 30 días, si tienes alguna pregunta, siempre proporcionamos un soporte amistoso y fácil de alcanzar.
 - Tamaño y paquete: toda la tira de aluminio es de 5 mm de ancho, 90 mm de largo y 0,5 mm de grosor. Con barras de aluminio 50/100/200/300 piezas para su elección.
+- 【Amplia aplicación】Adecuado para esculturar, tejer alambre, hacer modelos de bicicleta, hacer joyas, hacer la cubierta de la cara hecha a mano y modelado Bonsai. Puedes hacer los modelos y utilizar la cubierta de arcilla, o deformar el hilo de aluminio con un paño, coserlo en una banda para el pelo.
 
 [Visítala!!!](https://www.amazon.es/dp/B087G2SNKH/?tag=tolees-21)
