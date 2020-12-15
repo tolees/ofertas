@@ -25,8 +25,8 @@ Ahora mismo tienes [Adidas Real Madrid Temporada 2020/21 Camiseta Entrenamiento 
 
 🔎:
 
-- Ropa deportiva Blanco de la marca Adidas
 - Los productos deportivos de la marca Adidas están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo.
+- Ropa deportiva Blanco de la marca Adidas
 - Camiseta para practicar Tiempo libre y sportwear de Hombre
 - Camiseta REAL TR JSY BLANCO
 - Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva

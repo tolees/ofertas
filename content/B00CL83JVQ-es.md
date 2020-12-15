@@ -25,9 +25,9 @@ Ahora mismo tienes [Bose Companion 2 Serie III - Altavoces de ordenador de 7 W  
 
 🔎:
 
+- Entrada de audio para un dispositivo adicional
 - Control de volumen y entrada de auriculares en la parte frontal del altavoz derecho
 - Sistema audio estéreo
-- Entrada de audio para un dispositivo adicional
 - Tension de entrada AC: 100 - 240V
 
 [Visítala!!!](https://www.amazon.es/dp/B00CL83JVQ/?tag=tolees-21)

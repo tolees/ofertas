@@ -26,9 +26,9 @@ Ahora mismo tienes [N/A/a Accesorio de Accesorio para la Boquilla del Cabezal de
 🔎:
 
 - Accesorio de limpieza para el hogar compatible con la aspiradora inalámbrica modelo V7 V8 V10 V11 SV10 SV11.
-- Accesorio de repuesto para modelo V7 V8 V10 V11, compatible con la pieza # 967763-01.
-- La herramienta de boquilla ancha elimina las partículas de polvo de los colchones y la tapicería.
 - Esta herramienta accesoria tiene un diseño de liberación rápida para que se pueda colocar y quitar fácilmente.
+- Accesorio de repuesto para modelo V7 V8 V10 V11, compatible con la pieza # 967763-01.
 - Las fibras son atrapadas por recolectores de pelusa en la parte delantera y trasera, que las enrollan en bolas y las liberan en el flujo de aire para ser succionadas.
+- La herramienta de boquilla ancha elimina las partículas de polvo de los colchones y la tapicería.
 
 [Visítala!!!](https://www.amazon.es/dp/B08NWMVZHF/?tag=tolees-21)

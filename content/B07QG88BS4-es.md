@@ -25,12 +25,12 @@ Tienes [D-Link DSP-W118 - Mini enchufe Wi-Fi Smart Plug compatible con Alexa y G
 
 ℹ️:
 
-- Encienda o apague los electrodomésticos conectados a este enchufe inteligente, desde su teléfono inteligente o tableta, ya sea en casa o desde fuera
-- Diseño compacto, sólo 6 cm x 6 cm
-- Programe el encendido de lámparas o calefactores para que se enciendan y apaguen automáticamente a la hora que decida
-- Compatible con las ‘recetas’ de IFTTT
 - Interactúa con otros dispositivos de la familia de productos mydlink, de forma que puede encenderse una luz cuando la cámara detecta movimiento, y acciones similares
+- Diseño compacto, sólo 6 cm x 6 cm
 - Se conecta por WiFi al router de su casa u oficina, fácil de configurar e instalar
+- Compatible con las ‘recetas’ de IFTTT
+- Programe el encendido de lámparas o calefactores para que se enciendan y apaguen automáticamente a la hora que decida
 - Este Smart Plug funciona con Alexa o Google Home y permite controlar cualquier enchufe con la voz
+- Encienda o apague los electrodomésticos conectados a este enchufe inteligente, desde su teléfono inteligente o tableta, ya sea en casa o desde fuera
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07QG88BS4/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Harry Potter Colección Completa Ed19 Bd  al 37.95 % de descuento'
-date: 2020-12-14 17:32:09
+date: 2020-12-15 17:53:41
 image: 'https://m.media-amazon.com/images/I/41zQkeN4YcL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07XW8DFN8/?tag=tolees-21'
 descuento: '37.95'
-average: '31.890000000000004'
+average: '31.846910569105695'
 ---
 
 Ahora mismo tienes [Harry Potter Colección Completa Ed19 Bd [Blu-ray]](https://www.amazon.es/dp/B07XW8DFN8/?tag=tolees-21) a 29.24 EUR (original: 47.12 EUR) (37.95 %  de descuento) en el siguiente enlace!
