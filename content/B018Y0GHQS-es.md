@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.58 % en Keter Capri Arcón exterior  Marrón  53.5'
-date: 2020-12-11 21:00:24
+date: 2020-12-15 20:25:59
 image: 'https://m.media-amazon.com/images/I/41WFg5Rf8ML._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B018Y0GHQS/?tag=tolees-21'
 descuento: '28.58'
+average: '49.917142857142856'
 ---
 
 Tienes [Keter Capri Arcón exterior  Marrón  53.5x123x57 cm. Capacidad de 305 litros](https://www.amazon.es/dp/B018Y0GHQS/?tag=tolees-21) con un 28.58 % de descuento con precio de oferta de 49.96 EUR (original: 69.95 EUR) en el siguiente enlace!

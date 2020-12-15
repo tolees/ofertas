@@ -1,28 +1,34 @@
 ---
 layout: post
-title: 'Harry Potter Lámpara Snitch Dorada  2.5  al 29.30 % de descuento'
-date: 2020-11-26 10:32:23
+title: 'Harry Potter Lámpara Snitch Dorada  2.5  al 25.23 % de descuento'
+date: 2020-12-15 20:12:01
 image: 'https://m.media-amazon.com/images/I/31kRTnc5uxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07B2Y1DZ6-es'
-actualPrice: 21.21 EUR
+actualPrice: 22.43 EUR
 currency: EUR
-price: 21.21
+price: 22.43
 comparePrice: 30.0 EUR
 prodname: 'Harry Potter Lámpara Snitch Dorada  2.5 W  Multicolor  Única'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B2Y1DZ6/?tag=tolees-21'
-descuento: '29.30'
+descuento: '25.23'
+average: '21.656796116504857'
 ---
 
-Está [Harry Potter Lámpara Snitch Dorada  2.5 W  Multicolor  Única](https://www.amazon.es/dp/B07B2Y1DZ6/?tag=tolees-21) con 29.30 de descuento por 21.21 EUR (original: 30.0 EUR) en el siguiente enlace!
+Está [Harry Potter Lámpara Snitch Dorada  2.5 W  Multicolor  Única](https://www.amazon.es/dp/B07B2Y1DZ6/?tag=tolees-21) con 25.23 de descuento por 22.43 EUR (original: 30.0 EUR) en el siguiente enlace!
 
 [![Harry Potter Lámpara Snitch Dorada  2.5 ](https://m.media-amazon.com/images/I/31kRTnc5uxL._SL200_.jpg)](https://www.amazon.es/dp/B07B2Y1DZ6/?tag=tolees-21)
 
 ℹ️:
 
+- Función de luz por tacto
+- Operación USB(cable incluido)
+- Altura 21 cm, diámetro 13. 5 cm
+- Snitch dorado debajo de la campana con el logotipo de HP
+- Lámpara de mesa Harry Potter con licencia oficial
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07B2Y1DZ6/?tag=tolees-21)

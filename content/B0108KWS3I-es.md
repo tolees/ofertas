@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 60.67 % en Cmp-Paris CMKB5691 Limpia VITROCERÁMICA '
-date: 2020-12-14 12:04:18
+date: 2020-12-15 20:41:54
 image: 'https://m.media-amazon.com/images/I/3160rWs3W3L._SL200_.jpg'
 comments: true
 category: ofertas

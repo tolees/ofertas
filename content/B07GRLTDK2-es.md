@@ -26,10 +26,10 @@ Tienes [Samsung Galaxy Watch - Reloj Inteligente  Bluetooth  Negro  42 mm- Versi
 ℹ️:
 
 - Memoria interna: 4 GB
-- Localización: GPS, Glonass
 - Pantalla de 1.2 pulgadas
-- Resistente al agua
 - Compatibilidad: Samsung, otro Android: Android 5.0 o superior y RAM de 1,5 GB por encima iPhone: iPhone 5 y superior, iOS 9.0 o superior
+- Resistente al agua
+- Localización: GPS, Glonass
 - El altavoz y micrófono integrados en Galaxy Watch le permiten comunicarse en modo manos libres
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GRLTDK2/?tag=tolees-21)
