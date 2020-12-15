@@ -25,9 +25,9 @@ Tienes [Pop Towns: Batman 80th - Hall of Justice w/Batman](https://www.amazon.es
 
 ℹ️:
 
-- Figure stands 15cm and comes in a window display box
 - Funko pop is the 2018 toy of the year and peoples choice award winner
 - From batman, hall of justice w/batman, as a stylized pop town vinyl from funko
+- Figure stands 15cm and comes in a window display box
 - Check out the other marvel figures from funko collect them all
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07SNDHP8L/?tag=tolees-21)

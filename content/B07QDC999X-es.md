@@ -25,10 +25,10 @@ Está [The Bellies - Noni No  Muñeco para Niños y Niñas a Partir de 3 Años  
 
 ℹ️:
 
-- Los Bellies son los muñecos más revoltosos, traviesos y divertidos listos para adoptar; cada Bellie tiene su propia personalidad; Noni No es la más gruñona, divertida y traviesa
-- Están llenos de sorpresas: al quitarle el cordón umbilical escucharás el latido de su corazón; después, Noni No comenzará a hablar en su propio idioma; tiene una preciosa marca de nacimiento que descubrirás al quitarle su pañal
-- Incluye piruleta-morderor para sus travesuras, chupete y Bellypedia El regalo óptimo para niños y niñas de 3 años; muñeca bebe de 17 cm; funciona con 2 pilas AAA, también incluidas
-- Tiene dos moñitos violeta con un lacito verde mono; además lleva un precioso pañal de purpurina color morado
 - Además, dentro de su pañal encontrarás una sorpresita divertida; deberás consultar la Poopypedia en la Bellypedia para ver qué cuidados necesita tu Bellie
+- Tiene dos moñitos violeta con un lacito verde mono; además lleva un precioso pañal de purpurina color morado
+- Incluye piruleta-morderor para sus travesuras, chupete y Bellypedia El regalo óptimo para niños y niñas de 3 años; muñeca bebe de 17 cm; funciona con 2 pilas AAA, también incluidas
+- Están llenos de sorpresas: al quitarle el cordón umbilical escucharás el latido de su corazón; después, Noni No comenzará a hablar en su propio idioma; tiene una preciosa marca de nacimiento que descubrirás al quitarle su pañal
+- Los Bellies son los muñecos más revoltosos, traviesos y divertidos listos para adoptar; cada Bellie tiene su propia personalidad; Noni No es la más gruñona, divertida y traviesa
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07QDC999X/?tag=tolees-21)

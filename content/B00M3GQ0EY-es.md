@@ -26,8 +26,8 @@ Tienes [NYX PROFESSIONAL MAKEUP - Primer/Sérum Honey Dew Me Up  con Ácido Hial
 ℹ️:
 
 - Prebase 2 en 1, con doble función de sérum y primer, especialmente indicado para neutralizar rojeces e imperfecciones
-- Prepara y nutre la piel, manteniéndola calmada e hidratada durante todo el día
 - Acabado luminoso, que unifica la tez aportando una textura ligera, cómoda y natural
+- Prepara y nutre la piel, manteniéndola calmada e hidratada durante todo el día
 - Con extractos de flores como lirio, rosa, jazmín e hibiscus, que aportan propiedades humectantes e hidratantes
 - Formulado con ácido hialurónico, extracto de miel y alantoína, que tienen propiedades calmantes y cicatrizantes
 

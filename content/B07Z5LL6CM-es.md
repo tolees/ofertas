@@ -26,9 +26,9 @@ Tienes [Cressi Baron Full Face Mask Máscara Integral Snorkel de Visión Grande 
 ℹ️:
 
 - Alta comodidad para uso prolongado
+- Tubo de snorkel con sistema dry
 - Limitación del fenómeno de nebulización
 - Respiración natural nariz y boca
 - Amplio campo de visión
-- Tubo de snorkel con sistema dry
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07Z5LL6CM/?tag=tolees-21)

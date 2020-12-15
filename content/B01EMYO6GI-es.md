@@ -25,10 +25,10 @@ Está [Tefal Character C6823802 Sartén para Crepes  25 Cm  Material Antiadheren
 
 ℹ️:
 
-- El revestimiento garantiza una cocción más sana sin añadir materias grasas para alimentos protegidos
-- Tipo de fondo: disco para inducción
 - Dos capas anti abrasión responsables
+- El revestimiento garantiza una cocción más sana sin añadir materias grasas para alimentos protegidos
 - Plaisir y facilidad en el día a día.
 - Titanium Pro: El revestimiento que dura hasta 2 x durante más tiempo.
+- Tipo de fondo: disco para inducción
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01EMYO6GI/?tag=tolees-21)
