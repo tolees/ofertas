@@ -1,28 +1,34 @@
 ---
 layout: post
-title: 'Casio Reloj de Pulsera AE-1200WH-1AVEF al 38.78 % de descuento'
-date: 2020-12-07 11:54:32
+title: 'Casio Reloj de Pulsera AE-1200WH-1AVEF al 46.69 % de descuento'
+date: 2020-12-15 08:37:13
 image: 'https://m.media-amazon.com/images/I/51ml+k5WYrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B0099M2IWI-es'
-actualPrice: 27.55 EUR
+actualPrice: 23.99 EUR
 currency: EUR
-price: 27.55
+price: 23.99
 comparePrice: 45.0 EUR
 prodname: 'Casio Reloj de Pulsera AE-1200WH-1AVEF'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0099M2IWI/?tag=tolees-21'
-descuento: '38.78'
+descuento: '46.69'
+average: '26.612727272727266'
 ---
 
-Ahora mismo tienes [Casio Reloj de Pulsera AE-1200WH-1AVEF](https://www.amazon.es/dp/B0099M2IWI/?tag=tolees-21) a 27.55 EUR (original: 45.0 EUR) (38.78 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Casio Reloj de Pulsera AE-1200WH-1AVEF](https://www.amazon.es/dp/B0099M2IWI/?tag=tolees-21) a 23.99 EUR (original: 45.0 EUR) (46.69 %  de descuento) en el siguiente enlace!
 
 [![Casio Reloj de Pulsera AE-1200WH-1AVEF](https://m.media-amazon.com/images/I/51ml+k5WYrL._SL200_.jpg)](https://www.amazon.es/dp/B0099M2IWI/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Luz LED para iluminar la esfera del reloj
+- Función de hora universal e indicador de hora de 12/24 horas
+- Resistente al agua hasta 10 bar / 100 metros
+- Incluye cronómetro, temporizadores, 5 alarmas diarias y calendario automático
+- La duración de la batería es de 10 años
 
 [Visítala!!!](https://www.amazon.es/dp/B0099M2IWI/?tag=tolees-21)

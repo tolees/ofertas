@@ -25,9 +25,9 @@ Ahora mismo tienes [PowerA - Mando inalámbrico mejorado Pokémon Ultra Ball  Ni
 
 🔎:
 
+- Incluye mandos de movimiento y botones de juego avanzado asignables
 - Libertad inalámbrica con Bluetooth 5.0
 - Con licencia oficial de Nintendo y The Pokémon Company International
-- Incluye mandos de movimiento y botones de juego avanzado asignables
 - Mando ergonómico con disposición de botones estándar
 - Luces led para indicar la asignación de botones, el número del jugador y el nivel bajo de batería
 
