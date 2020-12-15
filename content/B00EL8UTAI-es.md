@@ -25,9 +25,9 @@ Ahora mismo tienes [STANLEY FATMAX FME1250K-QS - Martillo percutor SDS Plus 1.25
 
 🔎:
 
-- Martillo neumático SDS Plus con motor de 1.250W de potencia y mecanismo de percusión neumático que ofrece hasta 4.100 impactos por minuto
-- La energía de impacto de 3.5 Julios permite una perforación eficaz y cincelado en hormigón y agregados.
-- Capacidad máxima de perforación en madera 40 mm, en metal 13 mm y en mampostería 32 mm.
 - Diseñado con 3 modos: percutor, cincelador, rotativo. Ideal para colocación de fijaciones en hormigón y mampostería.
+- Martillo neumático SDS Plus con motor de 1.250W de potencia y mecanismo de percusión neumático que ofrece hasta 4.100 impactos por minuto
+- Capacidad máxima de perforación en madera 40 mm, en metal 13 mm y en mampostería 32 mm.
+- La energía de impacto de 3.5 Julios permite una perforación eficaz y cincelado en hormigón y agregados.
 
 [Visítala!!!](https://www.amazon.es/dp/B00EL8UTAI/?tag=tolees-21)

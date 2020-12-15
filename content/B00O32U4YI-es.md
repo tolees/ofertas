@@ -25,10 +25,10 @@ Tienes [Bourjois Push Up Máscara de pestañas Tono 71 Noir - 7 ml](https://www.
 
 ℹ️:
 
-- El cepillo elevador máximiza las pestañas desde la primera pasada
 - Proporciona unas pestañas curvadas y gruesas sin grumos
 - Libre de parabenos y apta para ojos sensibles y usuarias de lentes de contacto
-- Fórmula que curva las pestañas manteniendo la flexibilidad sin endurecerlas
 - Máscara de pestañas que da volumen y levanta las pestañas
+- Fórmula que curva las pestañas manteniendo la flexibilidad sin endurecerlas
+- El cepillo elevador máximiza las pestañas desde la primera pasada
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00O32U4YI/?tag=tolees-21)

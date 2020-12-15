@@ -25,9 +25,9 @@ Está [Cry Pet - Peluche con lagrimas reales  al que tendras que cuidar. Recomen
 
 ℹ️:
 
+- Dale de beber con su biberón y veras como se le inundan sus ojos, presiónale la patita y llorará de verdad
 - 22cm de altura
 - Perrito con lagrimas reales
 - Biberón y toalla incluidos
-- Dale de beber con su biberón y veras como se le inundan sus ojos, presiónale la patita y llorará de verdad
 
 [Ver la oferta!!](https://www.amazon.es/dp/B088PDLJR6/?tag=tolees-21)

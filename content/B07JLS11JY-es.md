@@ -25,9 +25,9 @@ Tienes [Recinto Animales Granja](https://www.amazon.es/dp/B07JLS11JY/?tag=tolees
 
 ℹ️:
 
-- Desarrolla la imaginación y la creatividad
-- Incluye dos figuras y animales
 - Contiene varios accesorios
 - Recomendado a partir de 4 años
+- Desarrolla la imaginación y la creatividad
+- Incluye dos figuras y animales
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JLS11JY/?tag=tolees-21)
