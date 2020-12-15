@@ -25,10 +25,10 @@ Está [Wenko Cajones con Rieles 2 Repisas para cocina  Metal Recubrimiento de Po
 
 ℹ️:
 
-- Para más espacio de almacenamiento
-- Fácil instalación en armarios de cocina
-- Medidas (ancho x altura x profundidad): 45 x 45 x 23cm
 - Cestas de almacenaje extraíbles
+- Fácil instalación en armarios de cocina
 - Para el montaje en el suelo del armario
+- Medidas (ancho x altura x profundidad): 45 x 45 x 23cm
+- Para más espacio de almacenamiento
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00H4OBADG/?tag=tolees-21)

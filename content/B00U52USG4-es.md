@@ -25,9 +25,9 @@ Ahora mismo tienes [Adhesivo para MacBook de 13 pulgadas  diseño de Mickey Mous
 
 🔎:
 
-- Fácil de quitar y no deja residuos.
-- Elegante gama de adhesivos para Macbook para personalizar tu portátil.
 - Estampado de vinilo de alta calidad.
 - Fácil de aplicar.
+- Fácil de quitar y no deja residuos.
+- Elegante gama de adhesivos para Macbook para personalizar tu portátil.
 
 [Visítala!!!](https://www.amazon.es/dp/B00U52USG4/?tag=tolees-21)
