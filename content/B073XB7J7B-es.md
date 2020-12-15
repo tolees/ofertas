@@ -25,7 +25,7 @@ Tienes [Lotus Watches Reloj Análogo clásico para Mujer de Cuarzo con Correa en
 
 ℹ️:
 
-- 18568/2
 - Reloj para mujer. Elegante y sofisticado. El complemento perfecto para regalar. - Envíos GRATIS y en 24 h. - Por la compra se entrega un REGALO.
+- 18568/2
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B073XB7J7B/?tag=tolees-21)

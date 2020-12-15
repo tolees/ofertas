@@ -25,9 +25,9 @@ Tienes [Trials of Mana](https://www.amazon.es/dp/B07XW8BGJX/?tag=tolees-21) con 
 
 ℹ️:
 
+- Trials of Mana es un remake total en 3D del tercer juego de la serie Mana; el juego se ha vuelto a crear completamente desde cero con gráficos modernos en 3D
 - Podrás escoger a tu protagonista favorito y a dos compañeros de entre seis personajes distintos; la historia se desarrollará de forma distinta dependiendo del protagonista y de los compañeros elegidos
 - Sube de nivel para alcanzar las clases superiores; el aspecto del personaje, así como sus poderes mágicos y los ataques especiales que puede aprender, dependerán de la clase seleccionada y de su alineamiento con la luz o la oscuridad
-- Trials of Mana es un remake total en 3D del tercer juego de la serie Mana; el juego se ha vuelto a crear completamente desde cero con gráficos modernos en 3D
 - Un accesorio con el que te puedes equipar en el juego para conseguir más EXP después de un combate hasta el nivel 10
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07XW8BGJX/?tag=tolees-21)

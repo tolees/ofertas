@@ -25,10 +25,10 @@ Tienes [Persona 5 - Royal Launch Edition](https://www.amazon.es/dp/B082JGT5DJ/?t
 
 ℹ️:
 
-- Nuevos Persona desbloqueables
-- Escenas nuevas y finales alternativos
 - Nuevo semestre escolar
-- Explora Tokio y las nuevas zonas
+- Escenas nuevas y finales alternativos
 - Descubre un arco en la historia nunca visto
+- Explora Tokio y las nuevas zonas
+- Nuevos Persona desbloqueables
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B082JGT5DJ/?tag=tolees-21)
