@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Type 3 Sherpa Trucker  Chaqueta p al 33.85 % de descuento'
-date: 2020-12-14 05:01:26
+date: 2020-12-15 05:30:22
 image: 'https://m.media-amazon.com/images/I/41jGN+dRttL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DVM3SJB/?tag=tolees-21'
 descuento: '33.85'
+average: '87.84857142857143'
 ---
 
 Está [Levi s Type 3 Sherpa Trucker  Chaqueta para Hombre  Azul  Rockridge Trucker 0084   Large](https://www.amazon.es/dp/B07DVM3SJB/?tag=tolees-21) con 33.85 de descuento por 85.99 EUR (original: 130.0 EUR) en el siguiente enlace!
@@ -24,9 +25,9 @@ Está [Levi s Type 3 Sherpa Trucker  Chaqueta para Hombre  Azul  Rockridge Truck
 
 ℹ️:
 
-- Forro de las mangas: 100% poliamida
 - Parte frontal típica de 2 bolsillos
 - Trucker tipo 3 Sherpa
+- Forro de las mangas: 100% poliamida
 - La chaqueta tipo 3 Sherpa Trucker es una buena figura en los viajes de compra: clásico en este modelo de 84% algodón son la parte frontal típica de 2 bolsillos, las costuras decorativas dobles y las legendarias botones de camión
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07DVM3SJB/?tag=tolees-21)

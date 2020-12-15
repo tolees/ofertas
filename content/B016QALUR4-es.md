@@ -1,24 +1,25 @@
 ---
 layout: post
-title: 'adidas Parma 16 Intenso Pantalones Corto al 32.19 % de descuento'
-date: 2020-12-14 05:14:43
+title: 'adidas Parma 16 Intenso Pantalones Corto al 32.76 % de descuento'
+date: 2020-12-15 05:40:46
 image: 'https://m.media-amazon.com/images/I/31fnd4U5UsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B016QALUR4-es'
-actualPrice: 11.86 EUR
+actualPrice: 11.76 EUR
 currency: EUR
-price: 11.86
+price: 11.76
 comparePrice: 17.49 EUR
 prodname: 'adidas Parma 16 Intenso Pantalones Cortos para Fútbol  Hombre  Negro/Blanco  L'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B016QALUR4/?tag=tolees-21'
-descuento: '32.19'
+descuento: '32.76'
+average: '12.964864864864863'
 ---
 
-Ahora mismo tienes [adidas Parma 16 Intenso Pantalones Cortos para Fútbol  Hombre  Negro/Blanco  L](https://www.amazon.es/dp/B016QALUR4/?tag=tolees-21) a 11.86 EUR (original: 17.49 EUR) (32.19 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [adidas Parma 16 Intenso Pantalones Cortos para Fútbol  Hombre  Negro/Blanco  L](https://www.amazon.es/dp/B016QALUR4/?tag=tolees-21) a 11.76 EUR (original: 17.49 EUR) (32.76 %  de descuento) en el siguiente enlace!
 
 [![adidas Parma 16 Intenso Pantalones Corto](https://m.media-amazon.com/images/I/31fnd4U5UsL._SL200_.jpg)](https://www.amazon.es/dp/B016QALUR4/?tag=tolees-21)
 

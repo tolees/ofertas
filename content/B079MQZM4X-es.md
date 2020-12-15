@@ -25,10 +25,10 @@ Ahora mismo tienes [Wacom Intuos S Tableta Gráfica – Tableta Gráfica Portát
 
 🔎:
 
-- Contenido del envío: Wacom Intuos S Tableta gráfica / Lápiz digital sin pilas con 3 puntas estándar adicionales / Cable USB / Herramienta de extracción de puntas / Guía rápida/ Color negro
-- Los 4 Expresskeys configurables así como su área de dibujo de 152x95 mm, la hacen el dispositivo ideal para expresar su creatividad / Conexión vía USB a Mac OS X 10.11 / Windows 7 o superior)
-- Wacom Intuos S es una tableta gráfica ideal para dibujar, pintar y editar las fotografías gracias a su área activa de 7" y al lápiz digital ultrapreciso y ligero con 4096 niveles de presión
 - Junto a la potencia del lápiz, las aplicaciones gratuitas para Intuos S como Coral Painter Essential 7 y Corel Aftershot Pro 3 (licencia válida por 90 días), permiten alcanzar niveles artísticos altos
+- Wacom Intuos S es una tableta gráfica ideal para dibujar, pintar y editar las fotografías gracias a su área activa de 7" y al lápiz digital ultrapreciso y ligero con 4096 niveles de presión
 - El lápiz digital incluido tiene una precisión de 0,25 mm de tolerancia digital, 7 mm de altura de lectura, dos botones configurables, puntas reemplazables y diseño ergonómico / Sin pilas
+- Los 4 Expresskeys configurables así como su área de dibujo de 152x95 mm, la hacen el dispositivo ideal para expresar su creatividad / Conexión vía USB a Mac OS X 10.11 / Windows 7 o superior)
+- Contenido del envío: Wacom Intuos S Tableta gráfica / Lápiz digital sin pilas con 3 puntas estándar adicionales / Cable USB / Herramienta de extracción de puntas / Guía rápida/ Color negro
 
 [Visítala!!!](https://www.amazon.es/dp/B079MQZM4X/?tag=tolees-21)

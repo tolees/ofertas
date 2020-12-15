@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Citizen Reloj Analógico para Mujer de Cu al 35.07 % de descuento'
-date: 2020-12-05 06:22:28
+date: 2020-12-15 06:44:57
 image: 'https://m.media-amazon.com/images/I/41GfUU-Vd9L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MTA0IPV/?tag=tolees-21'
 descuento: '35.07'
+average: '97.10735294117646'
 ---
 
 Está [Citizen Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable EM0504-81A](https://www.amazon.es/dp/B01MTA0IPV/?tag=tolees-21) con 35.07 de descuento por 96.75 EUR (original: 149.0 EUR) en el siguiente enlace!
@@ -24,5 +25,10 @@ Está [Citizen Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxida
 
 ℹ️:
 
+- Material de la correa: acero inoxidable, plata milanesa
+- Diámetro de la caja: 32 mm
+- Sumergible: 5 bares
+- Esfera: nácar con índices dorados
+- Material de la carcasa: acero inoxidable plateado
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01MTA0IPV/?tag=tolees-21)
