@@ -26,8 +26,8 @@ Está [L’Oreal Paris La Petite Palette de Sombras  Tonos 05 Pigalle  4 g  5 x 
 ℹ️:
 
 - Textura suave y sedosa
+- 5 tonos para combinar a medida
 - Sombra de ojos LOreal
 - Pigmentos saturados
-- 5 tonos para combinar a medida
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07B41BVL1/?tag=tolees-21)

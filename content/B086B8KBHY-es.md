@@ -25,7 +25,7 @@ Está [Hisense ULED 2020 55U71QF - Smart TV 55" Resolución 4K  Quantum Dot  FAL
 
 ℹ️:
 
-- Fuente de alimentación: Alimentación eléctrica con cable
 - Tipo de conectividad: Ethernet
+- Fuente de alimentación: Alimentación eléctrica con cable
 
 [Ver la oferta!!](https://www.amazon.es/dp/B086B8KBHY/?tag=tolees-21)

@@ -26,8 +26,8 @@ Tienes [Skechers Skech-Air Stratus-Wind Breeze  Zapatillas Mujer  Negro  BKHP Bl
 ℹ️:
 
 - Temporada: Otoño / Invierno
-- De color negro
 - Diseño: Skechers
 - Artículo: 13278
+- De color negro
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07NW6BX53/?tag=tolees-21)
