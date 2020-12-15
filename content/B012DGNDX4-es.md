@@ -25,10 +25,10 @@ Está [deAO Tienda Pop-Up Con Diseño De Castillo Rojo – Diseño Plegable Auto
 
 ℹ️:
 
-- No adaptado a menores de 3 años.
 - 100% Poliéster. Diseñado para uso interior y exterior - NO IMPERMEABLE.
 - Tienda POP-UP plegable auto armable con diseño de castillo rojo.
-- Medidas: Altura 130cm, Diámetro 100cm.
 - Instalación rápida modo auto armable. Fácil de plegar y guardar en su correspondiente bolsa con cremallera.
+- No adaptado a menores de 3 años.
+- Medidas: Altura 130cm, Diámetro 100cm.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B012DGNDX4/?tag=tolees-21)

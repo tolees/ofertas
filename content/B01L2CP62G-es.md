@@ -25,9 +25,9 @@ Ahora mismo tienes [GoPro The Frame - Bastidor de Repuesto  para GoPro Hero5 Bla
 
 🔎:
 
-- Bastidor de montaje de repuesto para HERO5 Black
-- El sistema más pequeño y ligero para montar tu HERO5 Black
 - Permite una captura de audio óptima en actividades a baja velocidad
+- El sistema más pequeño y ligero para montar tu HERO5 Black
 - Diseño minimalista para un soporte compacto y de perfil bajo
+- Bastidor de montaje de repuesto para HERO5 Black
 
 [Visítala!!!](https://www.amazon.es/dp/B01L2CP62G/?tag=tolees-21)

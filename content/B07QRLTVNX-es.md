@@ -25,8 +25,8 @@ Está [Rexona Active Pro+ Desodorante Antitranspirante Invisible Mujer - Pack de
 
 ℹ️:
 
-- Nuestra mejor protección en formato spray para seguir en movimiento todo el día
 - Único con tecnología de encapsulación patentada MotionSense que se activa con el movimiento
+- Nuestra mejor protección en formato spray para seguir en movimiento todo el día
 - Protección eficaz 48h contra el sudor y el mal olor corporal
 - Fresca y energizante fragancia a hierbabuena y almizcle
 
