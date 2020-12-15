@@ -25,10 +25,10 @@ Ahora mismo tienes [Superga 2790Cotw Linea Up And Down  Zapatillas Unisex adulto
 
 🔎:
 
-- Suela de goma vulcanizada.
 - Tela Upper.
 - Para mujer.
 - Superga embroidery on inner collier
 - Fácil de poner.
+- Suela de goma vulcanizada.
 
 [Visítala!!!](https://www.amazon.es/dp/B00BYZG5FY/?tag=tolees-21)

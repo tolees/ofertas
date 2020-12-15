@@ -25,9 +25,9 @@ Ahora mismo tienes [CAMPER  Pelotas XL  Herren Sneakers  Schwarz  Black   40 EU 
 
 🔎:
 
-- Empeine: Piel (Piel vacuna)
-- Color: Negro
 - Forro:
+- Color: Negro
+- Empeine: Piel (Piel vacuna)
 - Plantilla: Plantilla extraíble de EVA con sistema amortiguador
 - Suela/Características: EVA para mayor ligereza
 
