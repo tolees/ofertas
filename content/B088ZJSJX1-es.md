@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Yakuza Like a Dragon Day Ichi Edition -  al 33.41 % de descuento'
-date: 2020-12-13 19:12:09
+date: 2020-12-15 00:05:30
 image: 'https://m.media-amazon.com/images/I/51FN+IsfXXL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B088ZJSJX1/?tag=tolees-21'
 descuento: '33.41'
+average: '54.573076923076925'
 ---
 
 Ahora mismo tienes [Yakuza Like a Dragon Day Ichi Edition - Xbox One](https://www.amazon.es/dp/B088ZJSJX1/?tag=tolees-21) a 39.95 EUR (original: 59.99 EUR) (33.41 %  de descuento) en el siguiente enlace!
