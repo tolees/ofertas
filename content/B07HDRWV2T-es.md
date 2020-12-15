@@ -25,8 +25,8 @@ Tienes [Nike Wmns Air MAX Bella TR 2  Zapatillas de Deporte para Mujer  Negro  B
 
 ℹ️:
 
-- Zapatillas deportivas
-- Tejido transpirable.
 - Unidad máxima de aire para amortiguación y estabilidad ideales
+- Tejido transpirable.
+- Zapatillas deportivas
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HDRWV2T/?tag=tolees-21)

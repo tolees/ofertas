@@ -25,10 +25,10 @@ Está [Harry Potter Lámpara Snitch Dorada  2.5 W  Multicolor  Única](https://w
 
 ℹ️:
 
-- Función de luz por tacto
-- Operación USB(cable incluido)
-- Altura 21 cm, diámetro 13. 5 cm
-- Snitch dorado debajo de la campana con el logotipo de HP
 - Lámpara de mesa Harry Potter con licencia oficial
+- Altura 21 cm, diámetro 13. 5 cm
+- Operación USB(cable incluido)
+- Función de luz por tacto
+- Snitch dorado debajo de la campana con el logotipo de HP
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07B2Y1DZ6/?tag=tolees-21)

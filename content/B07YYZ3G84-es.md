@@ -25,10 +25,10 @@ Está [Beats Solo Pro con cancelación de ruido - Auriculares supraaurales ina
 
 ℹ️:
 
+- La cancelación activa del ruido (ANC) bloquea los ruidos externos
+- Compatible con iOS y Android
 - El modo de sonido ambiente te ayuda a ser consciente de tu entorno mientras usas los auriculares
 - Con el chip Apple H1 y Bluetooth de Clase 1 para lograr un mayor alcance y menos errores de conexión
 - Auriculares inalámbricos de alto rendimiento con cancelación de ruido
-- Compatible con iOS y Android
-- La cancelación activa del ruido (ANC) bloquea los ruidos externos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07YYZ3G84/?tag=tolees-21)

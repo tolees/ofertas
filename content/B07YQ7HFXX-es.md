@@ -26,8 +26,8 @@ Ahora mismo tienes [Nestlé Caja Roja Dark Sublime 456 g](https://www.amazon.es/
 🔎:
 
 - Cacao, azúcar, grasa láctea, manteca de cacao, avellanas, habas de cacao caramelizadas, sal, aromas naturales de vainilla, aroma natural de naranja
-- Grasa láctea, avellanas, frutos de cáscara, gluten
 - País de origen: España
 - Conservar en un lugar fresco y seco
+- Grasa láctea, avellanas, frutos de cáscara, gluten
 
 [Visítala!!!](https://www.amazon.es/dp/B07YQ7HFXX/?tag=tolees-21)
