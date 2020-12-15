@@ -25,7 +25,7 @@ Tienes [Leds-c4 tiga - Luminaria ventilador tiga led 18w blanco](https://www.ama
 
 ℹ️:
 
-- Serie THE ONE 2015 - Decorative
 - Bombilla(s) incluida(s)
+- Serie THE ONE 2015 - Decorative
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00JLIY0AS/?tag=tolees-21)

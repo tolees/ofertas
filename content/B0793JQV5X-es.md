@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.03 % en Dove Aceite de Aguacate y Extracto de Ca'
-date: 2020-11-18 18:10:45
+date: 2020-12-15 14:43:43
 image: 'https://m.media-amazon.com/images/I/415aZJmHozL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0793JQV5X/?tag=tolees-21'
 descuento: '25.03'
+average: '11.822727272727272'
 ---
 
 Tienes [Dove Aceite de Aguacate y Extracto de Caléndula Crema de Manos 75 ml - [Pack de 6]](https://www.amazon.es/dp/B0793JQV5X/?tag=tolees-21) con un 25.03 % de descuento con precio de oferta de 11.2 EUR (original: 14.94 EUR) en el siguiente enlace!
@@ -24,5 +25,10 @@ Tienes [Dove Aceite de Aguacate y Extracto de Caléndula Crema de Manos 75 ml - 
 
 ℹ️:
 
+- Transforma la piel seca en una piel aterciopelada, luminosa y de aspecto uniforme
+- De uso diario para restablecer la máxima suavidad de las manos
+- Contenido de 75 ml
+- Apto para el uso diario
+- Dermatológicamente comprobado
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0793JQV5X/?tag=tolees-21)
