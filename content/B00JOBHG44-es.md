@@ -25,9 +25,9 @@ Ahora mismo tienes [Casio Reloj Analógico de Cuarzo con Correa en Acero Inoxida
 
 🔎:
 
+- Correa y caja sólida de acero inoxidable con cierre de seguridad
 - Cristal mineral, difícil de rayar, que protege el reloj de daños externos
 - La duración de la batería es de 3 años
 - Resistente al agua hasta 5 bar / 50 metros
-- Correa y caja sólida de acero inoxidable con cierre de seguridad
 
 [Visítala!!!](https://www.amazon.es/dp/B00JOBHG44/?tag=tolees-21)

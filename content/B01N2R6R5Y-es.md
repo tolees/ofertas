@@ -25,10 +25,10 @@ Ahora mismo tienes [Tristar AC-5531 Aire acondicionado de bajo consumo  función
 
 🔎:
 
-- Provisto de dos velocidades de ventilador y de función deshumidificador
-- Bajo consumo de energía: clase de eficiencia energética a
+- Capacidad de enfriamiento de 2500 frigorías y 3,0 kW para enfriar una habitación de hasta 90m3
 - Con Control remoto y temporizador digital
 - Aire acondicionado portátil y fácil de desplazar gracias a las ruedas giratorias
-- Capacidad de enfriamiento de 2500 frigorías y 3,0 kW para enfriar una habitación de hasta 90m3
+- Provisto de dos velocidades de ventilador y de función deshumidificador
+- Bajo consumo de energía: clase de eficiencia energética a
 
 [Visítala!!!](https://www.amazon.es/dp/B01N2R6R5Y/?tag=tolees-21)

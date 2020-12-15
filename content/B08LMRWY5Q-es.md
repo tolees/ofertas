@@ -25,8 +25,8 @@ Está [JIAJU Espumador de Leche inalámbrico Espumador de Mano Máquina de Capuc
 
 ℹ️:
 
-- 2. Cómodo de usar: Ligero y portátil.
 - 3. Amplia gama de aplicaciones: se puede utilizar tanto para leche fría como caliente.
+- 2. Cómodo de usar: Ligero y portátil.
 - 1. Meticulosa mano de obra: este es un nuevo espumador de leche portátil inalámbrico.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08LMRWY5Q/?tag=tolees-21)

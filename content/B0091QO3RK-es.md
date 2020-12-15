@@ -25,11 +25,11 @@ Está [Joseph Joseph - Rodillo Ajustable  4 Medidas  2-4-6-10 mm   Multicolor](h
 
 ℹ️:
 
-- Fácil montado y desmontado de discos para su lavado
-- Hecho con madera de haya
-- Este innovador rodillo ajustable elimina las suposiciones en la preparación de masa para bizcochos, bases de pizza, decoraciones de pasteles, láminas de lasaña y pasta filo
-- Una medida/un color para una fácil selección
 - Discos aptos para lavavajillas
+- Hecho con madera de haya
+- Una medida/un color para una fácil selección
+- Este innovador rodillo ajustable elimina las suposiciones en la preparación de masa para bizcochos, bases de pizza, decoraciones de pasteles, láminas de lasaña y pasta filo
 - Ajustable a 4 medidas de masa, tan solo usando el aro correspondiente
+- Fácil montado y desmontado de discos para su lavado
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0091QO3RK/?tag=tolees-21)

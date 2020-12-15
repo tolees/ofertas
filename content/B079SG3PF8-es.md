@@ -25,10 +25,10 @@ Tienes [Nenuco Nadador- Muñeco bebé interactivo  Famosa 700014071 ](https://ww
 
 ℹ️:
 
-- ¡Nenuco nadador, nada como un bebé de verdad!
-- Presiona su barriguita y comenzará a mover sus piernas dentro del agua: Nadará como una ranita
 - Nenuco de 35 cm, cuerpo especial sumergible y piernas articuladas: se puede usar en la piscina o en la bañera
-- Puede nadar boca arriba y boca abajo: si necesita ayuda, ajústale el churrito a su cuerpo de manera sencilla y enséñale a nadar
 - Funciona con tres pilas AAA no incluidas
+- Presiona su barriguita y comenzará a mover sus piernas dentro del agua: Nadará como una ranita
+- Puede nadar boca arriba y boca abajo: si necesita ayuda, ajústale el churrito a su cuerpo de manera sencilla y enséñale a nadar
+- ¡Nenuco nadador, nada como un bebé de verdad!
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B079SG3PF8/?tag=tolees-21)

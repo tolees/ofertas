@@ -25,8 +25,8 @@ Está [Calvo - Atun claro aceite girasol - pack 3 x 80g - [pack de 3]](https://w
 
 ℹ️:
 
-- Contiene Pescado y/o productos a base de pescados
 - Fuente Omega3
+- Contiene Pescado y/o productos a base de pescados
 - Fuente Ácidos Grasos Omega3
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01LXHTPA3/?tag=tolees-21)
