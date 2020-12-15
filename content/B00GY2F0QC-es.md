@@ -25,8 +25,8 @@ Ahora mismo tienes [Aquoral Monodosis Aquoral 1 Unidad 60 g](https://www.amazon.
 
 🔎:
 
-- Alivio rápido y duradero de la sequedad ocular
 - 20 monodosis de 0,5 ml recerrables que se pueden usar hasta 12 horas después de su apertura
+- Alivio rápido y duradero de la sequedad ocular
 - Alta concentración de ácido hialurónico
 
 [Visítala!!!](https://www.amazon.es/dp/B00GY2F0QC/?tag=tolees-21)

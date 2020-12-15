@@ -26,8 +26,8 @@ Ahora mismo tienes [Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Negro 9
 🔎:
 
 - Ojales en relieve Superga
-- Pestaña superga en el lado y el talón
 - Algodón totalmente transpirable
 - Suela de goma vulcanizada
+- Pestaña superga en el lado y el talón
 
 [Visítala!!!](https://www.amazon.es/dp/B002WGIXZO/?tag=tolees-21)

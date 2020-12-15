@@ -25,10 +25,10 @@ Ahora mismo tienes [Braun BeardTrimmer Recortadora Barba  Negro/ Gris](https://w
 
 🔎:
 
-- recortadora barba con Cuchillas afiladas de larga duración, para un corte más preciso
 - Corta barbas hombre totalmente lavable, para una limpieza sencilla bajo el grifo
+- recortadora barba con Cuchillas afiladas de larga duración, para un corte más preciso
 - La potente batería dual proporciona 50 minutos de funcionamiento
-- Barbero con 25 ajustes de longitud, para un resultado siempre perfecto
 - Recorte y estilo perfectos
+- Barbero con 25 ajustes de longitud, para un resultado siempre perfecto
 
 [Visítala!!!](https://www.amazon.es/dp/B019EE1FQ0/?tag=tolees-21)

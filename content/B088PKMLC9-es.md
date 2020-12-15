@@ -25,7 +25,7 @@ Está [Ride 4](https://www.amazon.es/dp/B088PKMLC9/?tag=tolees-21) con 33.46 de 
 
 ℹ️:
 
-- RIDE 4 aprovecha la tecnología Smart Delivery dando acceso al juego en Xbox One y en Xbox Series X cuando esté disponible
 - Disfruta del máximo potencial del juego con resolución dinámica de hasta 4K y 60FPS y carreras más exigentes con 20 motos por carrera online y offline.
+- RIDE 4 aprovecha la tecnología Smart Delivery dando acceso al juego en Xbox One y en Xbox Series X cuando esté disponible
 
 [Ver la oferta!!](https://www.amazon.es/dp/B088PKMLC9/?tag=tolees-21)

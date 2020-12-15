@@ -25,10 +25,10 @@ Está [Acer Chromebook 714 - Portátil Táctil 14" FullHD  Intel Core i3-8130U  
 
 ℹ️:
 
-- Ordenador portátil con memoria RAM de 4 GB, tarjeta gráfica integrada Intel UHD Graphics, disco eMMC de 64 GB y procesador Intel Core i3-8130U (2 núcleos, 4 MB de caché, 2,20 GHz hasta 3,4 GHz)
+- Línea Chromebook 714: Tu Chromebook más potente. Las aplicaciones cargan en menos tiempo, los gráficos son más rápidos y es posible realizar muchas tareas al mismo tiempo sin retrasos
 - Pantalla Full HD de 14 pulgadas con 10 puntos táctiles y una webcam HDR incorporada que permite capturar toda la sala, gracias a su amplio campo de visión de 75 º
 - Rápido como el primer día: Se inicia en cuestión de segundos y se actualiza de forma automática en segundo plano cuando está conectado a internet
-- Línea Chromebook 714: Tu Chromebook más potente. Las aplicaciones cargan en menos tiempo, los gráficos son más rápidos y es posible realizar muchas tareas al mismo tiempo sin retrasos
+- Ordenador portátil con memoria RAM de 4 GB, tarjeta gráfica integrada Intel UHD Graphics, disco eMMC de 64 GB y procesador Intel Core i3-8130U (2 núcleos, 4 MB de caché, 2,20 GHz hasta 3,4 GHz)
 - Sistema operativo Chrome OS, diseñado para ser intuitivo y práctico; te ayuda a hacer búsquedas de forma inteligente y mantiene la sincronización y la productividad durante un máximo de 12 horas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B085PDJ3V3/?tag=tolees-21)
