@@ -25,9 +25,9 @@ Tienes [Sony ICF-C1 - Radio despertador con pantalla LED  negro](https://www.ama
 
 ℹ️:
 
-- Brillo de la pantalla ajustable para una visualización práctica
-- Brillo de la pantalla ajustable para una visualización práctica
 - Configuración de alarma única con radio o sonido de zumbador
+- Brillo de la pantalla ajustable para una visualización práctica
+- Brillo de la pantalla ajustable para una visualización práctica
 - Configuración de aplazamiento ampliable
 - Opciones de modelos estándar, alarma dual o proyector
 - Elegante radio despertador AM/FM con ajuste automático de la hora, control de brillo y alarma gradual

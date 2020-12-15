@@ -25,9 +25,9 @@ Tienes [HyperX Impact HX316LS9IB/8 Memoria RAM 1600 MHz DDR3L CL9 SODIMM 1.35 V 
 
 ℹ️:
 
-- Aspecto fino y delgado compatible con portátiles
 - Overclocking automático
-- Configuración de bajo voltaje a 1.35 V
 - Capacidad de la memoria: 8 GB
+- Configuración de bajo voltaje a 1.35 V
+- Aspecto fino y delgado compatible con portátiles
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00KQCOTCM/?tag=tolees-21)

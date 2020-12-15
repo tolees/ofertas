@@ -25,11 +25,11 @@ Está [Hansgrohe 26824400 Ducha de mano  4 tipos de chorro  Blanco y Cromo](http
 
 ℹ️:
 
-- Con 4 tipos de chorro: un chorro de lluvia (Rain) un amplio chorro de ducha (Normal), un chorro potente para quitar champú (Champo) y un chorro de masaje (Massage)
-- Producto fabricado de acuerdo con las más altas normas de calidad
-- Cambio entre los chorros mediante un disco de chorro giratorio
-- Hansgrohe desde 1901, la marca de calidad para productos de cocina y baño de confianza
-- La ducha de mano puede utilizarse en la ducha o bañera de cualquier baño; basta con atornillarla al flexo de ducha existente
 - Ecológico y fácil de limpiar; eliminar la cal con un dedo es tan fácil como sumar dos y dos (QuickClean)
+- Con 4 tipos de chorro: un chorro de lluvia (Rain) un amplio chorro de ducha (Normal), un chorro potente para quitar champú (Champo) y un chorro de masaje (Massage)
+- Hansgrohe desde 1901, la marca de calidad para productos de cocina y baño de confianza
+- Cambio entre los chorros mediante un disco de chorro giratorio
+- La ducha de mano puede utilizarse en la ducha o bañera de cualquier baño; basta con atornillarla al flexo de ducha existente
+- Producto fabricado de acuerdo con las más altas normas de calidad
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00TAZNDQ4/?tag=tolees-21)

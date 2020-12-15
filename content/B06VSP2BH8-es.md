@@ -25,8 +25,8 @@ Está [Asmodee- Juego de Mesa  Edge Entertainment EDGMQ01 ](https://www.amazon.e
 
 ℹ️:
 
-- Mata a los monstruos; roba el tesoro
 - Ahora Munchkin Quest te trae un gigantesco Dungeon a todo color
 - Reúne objetos mágicos y oro para dar poder a tu munchkin, pero el Verdadero Objetivo son ¡los Niveles!
+- Mata a los monstruos; roba el tesoro
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06VSP2BH8/?tag=tolees-21)

@@ -25,10 +25,10 @@ Ahora mismo tienes [Levi s Housemark Polo  Camiseta para Hombre  Azul  104 DRESS
 
 🔎:
 
-- Cada conoce esta camiseta, se blanco, inmediatamente lo que usted llevar.
 - Clásico Polo de Levi s
 - Gran calidad.
-- 100% algodón.
 - Modellnr. 22401 – 0003
+- Cada conoce esta camiseta, se blanco, inmediatamente lo que usted llevar.
+- 100% algodón.
 
 [Visítala!!!](https://www.amazon.es/dp/B013V6O4WY/?tag=tolees-21)

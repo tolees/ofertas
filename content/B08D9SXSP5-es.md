@@ -26,9 +26,9 @@ Está [Filtros reemplazables 20 PM2.5 para adultos](https://www.amazon.es/dp/B08
 ℹ️:
 
 - 20 Pcs
+- 20 Pcs
+- 20 Pcs
+- 20 Pcs
 - 20 Pc
-- 20 Pcs
-- 20 Pcs
-- 20 Pcs
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08D9SXSP5/?tag=tolees-21)

@@ -25,10 +25,10 @@ Está [Asus VP228DE - Monitor 21.5" Full HD  1920 x 1080 píxeles  LCD  5ms  con
 
 ℹ️:
 
-- Monitor con luz azul reducida con certificado TÜV Rheinland
 - Teconología GamePlus que activa la función OSD punto de mira
+- Monitor con luz azul reducida con certificado TÜV Rheinland
 - Tasa de refresco de 5ms
-- Monitor de 21.5" Full HD (1920 x 1080)
 - Tecnología SplendidPlus y VividPlus
+- Monitor de 21.5" Full HD (1920 x 1080)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01MEETICH/?tag=tolees-21)

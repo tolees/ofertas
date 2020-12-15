@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 39.39 % en Pack Fringe Temporada 1-5 [DVD]'
-date: 2020-11-22 16:03:42
+date: 2020-12-15 12:27:56
 image: 'https://m.media-amazon.com/images/I/31oWSY5wehL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00O27MZIM/?tag=tolees-21'
 descuento: '39.39'
+average: '49.906000000000006'
 ---
 
 Tienes [Pack Fringe Temporada 1-5 [DVD]](https://www.amazon.es/dp/B00O27MZIM/?tag=tolees-21) con un 39.39 % de descuento con precio de oferta de 52.17 EUR (original: 86.08 EUR) en el siguiente enlace!
@@ -24,5 +25,6 @@ Tienes [Pack Fringe Temporada 1-5 [DVD]](https://www.amazon.es/dp/B00O27MZIM/?ta
 
 ℹ️:
 
+- Precio mínimo ofrecido por este vendedor en los 30 días anteriores a la oferta: 57.39€
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00O27MZIM/?tag=tolees-21)
