@@ -25,11 +25,11 @@ Ahora mismo tienes [Braun Reloj de Pulsera BN0211BKMHL](https://www.amazon.es/dp
 
 🔎:
 
-- Cristal mineral resistente a los arañazos
-- El ancho de la esfera es de 32 mm y la profundidad es de 6,9 mm
 - Mecanismo de cuarzo
+- Cristal mineral resistente a los arañazos
+- 2 años de garantía
+- El ancho de la esfera es de 32 mm y la profundidad es de 6,9 mm
 - Correa de malla de acero inoxidable
 - Acabado mate
-- 2 años de garantía
 
 [Visítala!!!](https://www.amazon.es/dp/B01GJ3BI16/?tag=tolees-21)

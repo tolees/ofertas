@@ -25,10 +25,10 @@ Ahora mismo tienes [Colador de té con forma de pez lindo Kawaii  tetera de filt
 
 🔎:
 
-- Un compañero ideal para la hora del té.
+- Seguro y duradero.
+- Maravilloso regalo para amigos a los que les encanta beber té.
 - Filtro ideal para infundir té y fácil de limpiar.
 - Moldeado de silicona insípida y apta para alimentos.
-- Maravilloso regalo para amigos a los que les encanta beber té.
-- Seguro y duradero.
+- Un compañero ideal para la hora del té.
 
 [Visítala!!!](https://www.amazon.es/dp/B08JGJKR6X/?tag=tolees-21)

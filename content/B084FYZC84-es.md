@@ -26,10 +26,10 @@ Tienes [Lenovo Tab E8 - Tablet de 8" HD  MediaTek MT8163B  1GB de RAM  16GB eMCP
 ℹ️:
 
 - Pantalla táctil de 8" HD, con una resolución de 1280x800 pixeles, IPS 350nits
-- Procesador MediaTek MT8163B (4C, 4x A35 @1.3GHz)
 - 1GB RAM, 16GB Almacenamiento, batería de 4850mAh
-- Sistema operativo Android Nugat
 - 8.9mm de grosor y 320g de peso
+- Procesador MediaTek MT8163B (4C, 4x A35 @1.3GHz)
+- Sistema operativo Android Nugat
 - Altavoz lateral con tecnología Dolby Audio
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B084FYZC84/?tag=tolees-21)

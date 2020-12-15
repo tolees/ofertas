@@ -25,14 +25,14 @@ Está [Kosmos 69342 - Juego de tablero  Multi  15 cm  4 3 cm  29 8 cm    color/m
 
 ℹ️:
 
-- Cada vez se crea un mundo completamente nuevo en el tablero de juego
-- Catan – El juego apareció por primera vez bajo el nombre de los colonios de Catan en 1995
-- Prueba las estrategias más variadas y determina tu suerte a través del factor aleatorio y la habilidad táctica
+- CATAN es sinónimo de un mecanismo de juego sencillo con gran diversidad: negociar e intercambiar materias primas para fundar con éxito asentamientos, construir caminos y obtener así prosperidad
 - Ideal para la noche de juego en grandes rondas
 - Solo con el juego básico Catan. El juego se puede tocar
-- CATAN es sinónimo de un mecanismo de juego sencillo con gran diversidad: negociar e intercambiar materias primas para fundar con éxito asentamientos, construir caminos y obtener así prosperidad
-- El juego de mesa para toda la familia: grandes y pequeños a partir de 10 años juegan con el reino de Catan, para hasta 6 jugadores
-- Catan – El juego de cinco o sexto juega con el complemento al galardonado éxito de juegos: juego del año (1995), pluma dorada (1995), premio alemán (1995), juego del siglo (2000)
+- Cada vez se crea un mundo completamente nuevo en el tablero de juego
 - Con material y reglas para otros dos jugadores
+- Catan – El juego de cinco o sexto juega con el complemento al galardonado éxito de juegos: juego del año (1995), pluma dorada (1995), premio alemán (1995), juego del siglo (2000)
+- Prueba las estrategias más variadas y determina tu suerte a través del factor aleatorio y la habilidad táctica
+- El juego de mesa para toda la familia: grandes y pequeños a partir de 10 años juegan con el reino de Catan, para hasta 6 jugadores
+- Catan – El juego apareció por primera vez bajo el nombre de los colonios de Catan en 1995
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00S5R2DAU/?tag=tolees-21)

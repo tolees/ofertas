@@ -26,9 +26,9 @@ Ahora mismo tienes [Medisana BU 546 connect Tensiómetro para el brazo con mangu
 🔎:
 
 - Producto médico: Control de la presión arterial con escala de colores tipo semáforo de la OMS para clasificar los resultados de la medición. También mide el pulso
-- Muchos espacios de memoria: El tensiómetro para el brazo cuenta con una memoria interna que permite almacenar 250 resultados de mediciones para 2 usuarios
-- Indicador de arritmia: El BU 546 puede indicar posibles arritmias cardíacas. Solo su médico puede evaluar el tipo y la gravedad de una arritmia
-- En casa o de viaje: El tensiómetro BU 546 se suministra con una práctica bolsa de almacenamiento para su transporte fácil y seguro.
 - Para el brazo: El manguito se ajusta a circunferencias de brazo de 22 a 42 cm. Una gran pantalla presenta los valores de sístole, diástole y pulso, así como la fecha y la hora
+- Indicador de arritmia: El BU 546 puede indicar posibles arritmias cardíacas. Solo su médico puede evaluar el tipo y la gravedad de una arritmia
+- Muchos espacios de memoria: El tensiómetro para el brazo cuenta con una memoria interna que permite almacenar 250 resultados de mediciones para 2 usuarios
+- En casa o de viaje: El tensiómetro BU 546 se suministra con una práctica bolsa de almacenamiento para su transporte fácil y seguro.
 
 [Visítala!!!](https://www.amazon.es/dp/B07NQ7GSWP/?tag=tolees-21)

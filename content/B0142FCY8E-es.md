@@ -26,7 +26,7 @@ Tienes [Fantasy Flight Games- Star Wars X-Wing: Castigador Tie  EDFEDGSWX34 ](ht
 ℹ️:
 
 - Juego de cartas
-- Expande y mejora tu copia de x-wing
 - Expansión
+- Expande y mejora tu copia de x-wing
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0142FCY8E/?tag=tolees-21)
