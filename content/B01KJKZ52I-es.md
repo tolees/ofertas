@@ -25,8 +25,8 @@ Ahora mismo tienes [Funko Director Orson Krennic Figura de Vinilo  colección de
 
 🔎:
 
+- Director Orson Krennic de Rogue One en una figura POP de Funko
 - Colecciona todos los POP de Rogue One
 - Miden 9.5 cm de alto, perfectos para todos los fans de Rogue One
-- Director Orson Krennic de Rogue One en una figura POP de Funko
 
 [Visítala!!!](https://www.amazon.es/dp/B01KJKZ52I/?tag=tolees-21)

@@ -25,9 +25,9 @@ Está [Wiko View - Smartphone 16GB  3GB RAM  Dual Sim  Cherry Red](https://www.a
 
 ℹ️:
 
-- Memoria RAM de 3GB y memoria interna de 16 GB (admite micro SD de hasta 128 GB)
-- Cámara frontal de 16MP para unos selfies naturales incluso en condiciones de poca luz y cámara principal de 13 MP, con función Super Pixel para fotos de hasta 52MP y estabilización en la grabación de vídeo.
 - Procesador Qualcomm Quad Core a 1.4 GHz Cortex-A53 con un potente rendimiento para una multitarea fluida.
+- Cámara frontal de 16MP para unos selfies naturales incluso en condiciones de poca luz y cámara principal de 13 MP, con función Super Pixel para fotos de hasta 52MP y estabilización en la grabación de vídeo.
 - Fingerprint, batería de 3000 mAh, Android Nougat 7.1 y elegante y robusto diseño metálico.
+- Memoria RAM de 3GB y memoria interna de 16 GB (admite micro SD de hasta 128 GB)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B075TY9JK7/?tag=tolees-21)

@@ -25,8 +25,8 @@ Está [Skechers D Lites-Biggest Fan  Zapatillas  Negro  BKW Black Trubuck/Mesh/T
 
 ℹ️:
 
+- Cordones, Zapatillas bajas
 - 1
 - Shoe Width : medium
-- Cordones, Zapatillas bajas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B017OIZBB8/?tag=tolees-21)
