@@ -25,10 +25,10 @@ Está [Lotus Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidabl
 
 ℹ️:
 
-- Resistente al agua: 50m
 - Caja Acero inoxidable, esfera Rosa
 - Movimiento Cuarzo
 - Brazalete Plateado Acero inoxidable
 - Diámetro caja: 29mm
+- Resistente al agua: 50m
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07QDDQYJZ/?tag=tolees-21)

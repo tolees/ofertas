@@ -25,10 +25,10 @@ Está [Rimmel London Stay Matte  Barra de Labios  Tono 500  5 5 ml](https://www.
 
 ℹ️:
 
+- Fórmula con aceite de coco y vitamina E para proteger los labios
 - A prueba de besos y roces
+- Contiene polímeros seleccionado para la adherencia óptima de la piel
 - Alto contenido en pigmentos para un mayor acabado mate aterciopelado
 - Color intenso, mate, y semipermanente
-- Contiene polímeros seleccionado para la adherencia óptima de la piel
-- Fórmula con aceite de coco y vitamina E para proteger los labios
 
 [Ver la oferta!!](https://www.amazon.es/dp/B071RL62ZH/?tag=tolees-21)

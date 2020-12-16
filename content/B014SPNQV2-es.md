@@ -25,10 +25,10 @@ Está [Hoover MBC500UV Ultra Vortex - Aspiradora de Mano  Ciclónica  Colchones 
 
 ℹ️:
 
-- Aspiradora de mano: para aspirar colchones, cojines, almohadas, sofás y pelos de animales
-- Recomendada para hogares con alergias: Sello de aprobación por la Fundación Británica de Alergia
 - Muy ligera: sólo 2.2 kgs
-- Depósito de fácil extracción y vaciado higiénico: 0.3 l
+- Aspiradora de mano: para aspirar colchones, cojines, almohadas, sofás y pelos de animales
 - Múltiples funciones incluidas: Aspiración, bateador y lámpara uv
+- Recomendada para hogares con alergias: Sello de aprobación por la Fundación Británica de Alergia
+- Depósito de fácil extracción y vaciado higiénico: 0.3 l
 
 [Ver la oferta!!](https://www.amazon.es/dp/B014SPNQV2/?tag=tolees-21)
