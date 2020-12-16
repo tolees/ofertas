@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 60.23 % en PUMA Smash V2 L V Inf  Zapatillas Unisex'
-date: 2020-12-09 11:16:05
+title: 'Descuento del 41.19 % en PUMA Smash V2 L V Inf  Zapatillas Unisex'
+date: 2020-12-16 17:49:14
 image: 'https://m.media-amazon.com/images/I/314WF9AysKL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -10,19 +10,28 @@ slug: 'B077LXJN1J-es'
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91
-comparePrice: 29.95 EUR
+comparePrice: 20.25 EUR
 prodname: 'PUMA Smash V2 L V Inf  Zapatillas Unisex niños  Blanco White White  23 EU'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077LXJN1J/?tag=tolees-21'
-descuento: '60.23'
+descuento: '41.19'
+average: '16.595'
 ---
 
-Tienes [PUMA Smash V2 L V Inf  Zapatillas Unisex niños  Blanco White White  23 EU](https://www.amazon.es/dp/B077LXJN1J/?tag=tolees-21) con un 60.23 % de descuento con precio de oferta de 11.91 EUR (original: 29.95 EUR) en el siguiente enlace!
+Tienes [PUMA Smash V2 L V Inf  Zapatillas Unisex niños  Blanco White White  23 EU](https://www.amazon.es/dp/B077LXJN1J/?tag=tolees-21) con un 41.19 % de descuento con precio de oferta de 11.91 EUR (original: 20.25 EUR) en el siguiente enlace!
 
 [![PUMA Smash V2 L V Inf  Zapatillas Unisex](https://m.media-amazon.com/images/I/314WF9AysKL._SL200_.jpg)](https://www.amazon.es/dp/B077LXJN1J/?tag=tolees-21)
 
 ℹ️:
 
+- Revestimiento: Sintético
+- Material de la suela: Goma
+- Material exterior: Cuero
+- Altura del tacón: 2 centímetros
+- Tipo de tacón: Plano
+- Composición: Cuero
+- Anchura del zapato: Normal
+- Cierre: Velcro
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B077LXJN1J/?tag=tolees-21)

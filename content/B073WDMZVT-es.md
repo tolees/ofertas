@@ -1,28 +1,36 @@
 ---
 layout: post
-title: 'Polar M430 Reloj de Running con GPS y Fr al 43.48 % de descuento'
-date: 2020-12-07 16:11:11
+title: 'Polar M430 Reloj de Running con GPS y Fr al 39.59 % de descuento'
+date: 2020-12-16 17:47:39
 image: 'https://m.media-amazon.com/images/I/41KZjuG5PnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B073WDMZVT-es'
-actualPrice: 129.99 EUR
+actualPrice: 138.95 EUR
 currency: EUR
-price: 129.99
+price: 138.95
 comparePrice: 230.0 EUR
 prodname: 'Polar M430 Reloj de Running con GPS y Frecuencia cardíaca en la muñeca - Multideporte - actividad 24/7 - Negro  M/L'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073WDMZVT/?tag=tolees-21'
-descuento: '43.48'
+descuento: '39.59'
+average: '117.30238095238097'
 ---
 
-Está [Polar M430 Reloj de Running con GPS y Frecuencia cardíaca en la muñeca - Multideporte - actividad 24/7 - Negro  M/L](https://www.amazon.es/dp/B073WDMZVT/?tag=tolees-21) con 43.48 de descuento por 129.99 EUR (original: 230.0 EUR) en el siguiente enlace!
+Está [Polar M430 Reloj de Running con GPS y Frecuencia cardíaca en la muñeca - Multideporte - actividad 24/7 - Negro  M/L](https://www.amazon.es/dp/B073WDMZVT/?tag=tolees-21) con 39.59 de descuento por 138.95 EUR (original: 230.0 EUR) en el siguiente enlace!
 
 [![Polar M430 Reloj de Running con GPS y Fr](https://m.media-amazon.com/images/I/41KZjuG5PnL._SL200_.jpg)](https://www.amazon.es/dp/B073WDMZVT/?tag=tolees-21)
 
 ℹ️:
 
+- Registro de la frecuencia cardíaca en la muñeca
+- Medidas: grosor 12 mm
+- GPS integrado, proporciona datos de velocidad, distancia, altimetría e inclinación y registro de actividad 24/7
+- Compatible con Polar Balance
+- Velocidad, distancia también en indoor
+- Tallas: M/L: circunferencia de la muñeca 130-210 mm
+- Analiza tu sueño al detalle con la función Sleep Plus
 
 [Ver la oferta!!](https://www.amazon.es/dp/B073WDMZVT/?tag=tolees-21)

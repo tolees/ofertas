@@ -27,8 +27,8 @@ Está [Lotus 18119/2 - Reloj para Hombre  Cuarzo  cronógrafo  cronógrafo  Corr
 
 - Caja redonda de acero inoxidable y cristal mineral endurecido
 - Incluye una caja de regalo elegante
+- Cuenta con una correa que ha sido fabricada en piel con cierre de hebilla
 - Visualización analógica con agujas luminiscentes, calendario con día y fecha
 - Resistente al agua hasta 50 metros
-- Cuenta con una correa que ha sido fabricada en piel con cierre de hebilla
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00WSSB952/?tag=tolees-21)

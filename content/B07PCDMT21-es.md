@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko- Pop Bobble: Marvel: Venom S2-Dare al 27.75 % de descuento'
-date: 2020-12-10 10:59:25
+date: 2020-12-16 17:16:30
 image: 'https://m.media-amazon.com/images/I/41zcOeie8dL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PCDMT21/?tag=tolees-21'
 descuento: '27.75'
+average: '10.974545454545453'
 ---
 
 Está [Funko- Pop Bobble: Marvel: Venom S2-Daredevil Figura coleccionable  Multicolor  40706 ](https://www.amazon.es/dp/B07PCDMT21/?tag=tolees-21) con 27.75 de descuento por 10.83 EUR (original: 14.99 EUR) en el siguiente enlace!
@@ -24,5 +25,10 @@ Está [Funko- Pop Bobble: Marvel: Venom S2-Daredevil Figura coleccionable  Multi
 
 ℹ️:
 
+- De la colección venom, daredevil como figura de vinilo pop de funko
+- Funko pop! bobble
+- Descúbre otras figuras de la colección disney marvel y colecciónalas todas!
+- Disney marvel
+- Venom daredevil
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07PCDMT21/?tag=tolees-21)

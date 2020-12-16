@@ -26,9 +26,9 @@ Está [Trust Tytan 2.1 GXT 628 - Altavoces Gaming 2.1 Iluminados de 120W](https:
 ℹ️:
 
 - Mando de control del volumen con auriculares y conectores de entrada para tableta/smartphone
-- Conjunto de altavoces que incluye un subwoofer de madera con un total de 120 vatios de potencia de salida
-- Subwoofer con LED parpadeantes
-- Sonido de gran calidad con bajos penetrantes
 - Compatible con PC, Wii, Sony PlayStation 3 y Xbox 360
+- Conjunto de altavoces que incluye un subwoofer de madera con un total de 120 vatios de potencia de salida
+- Sonido de gran calidad con bajos penetrantes
+- Subwoofer con LED parpadeantes
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00YH4BLDK/?tag=tolees-21)

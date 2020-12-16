@@ -26,8 +26,8 @@ Está [ORAL- B PRO-EXPERT Protección Profesional - Set 2](https://www.amazon.es
 ℹ️:
 
 - Pro-expert protección profesional lote 2 pz
-- Producto de uso sugerido unisex
 - 2 unidades
+- Producto de uso sugerido unisex
 - 2 x colutorio 500 ml
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01H5VKWU4/?tag=tolees-21)

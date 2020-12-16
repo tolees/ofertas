@@ -25,8 +25,8 @@ Está [Lee Rider Contrast Jeans  Blue Waters  31W / 32L para Hombre](https://www
 
 ℹ️:
 
-- Vaqueros para hombre
-- Estilo 5 bolsillos
 - Tienen un parche de piel en la parte trasera con la marca Lee
+- Estilo 5 bolsillos
+- Vaqueros para hombre
 
 [Ver la oferta!!](https://www.amazon.es/dp/B079K5CZ1R/?tag=tolees-21)
