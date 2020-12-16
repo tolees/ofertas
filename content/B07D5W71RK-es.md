@@ -26,7 +26,7 @@ Ahora mismo tienes [The Walking Dead 13058 - Figura de acción  Talla única](ht
 🔎:
 
 - Incluye accesorio lanzador de cohetes y base circular.
-- La figura está retratada en su icónico chaleco de motociclista cosido con alas de ángel.
 - Caja con diseño de The Walking Dead.
+- La figura está retratada en su icónico chaleco de motociclista cosido con alas de ángel.
 
 [Visítala!!!](https://www.amazon.es/dp/B07D5W71RK/?tag=tolees-21)

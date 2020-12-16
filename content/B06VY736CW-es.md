@@ -25,9 +25,9 @@ Está [Chicco-00007907100000 Caballito cabalgable  Color Rosa  00007907100000 ](
 
 ℹ️:
 
+- Robotizado: cierra los ojos y come zanahoria
 - Correpasillos 3 en 1: balancín, correpasillos y centro de actividades
 - Con luces y sonidos
-- Robotizado: cierra los ojos y come zanahoria
 - Con base extraíble para pasar de balancín a correpasillos
 - Peso máximo de 25 kg
 

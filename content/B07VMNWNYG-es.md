@@ -27,8 +27,8 @@ Está [Calvin Klein Medium Drawstring Bañador  Azul  Black Iris CBK   Small par
 
 - Tejido de poliéster reciclado
 - Forro interior de malla
+- Bolsillo de velcro en la parte trasera
 - Bolsillos de hendidura en la cintura
 - Cintura elástica con cordón
-- Bolsillo de velcro en la parte trasera
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07VMNWNYG/?tag=tolees-21)

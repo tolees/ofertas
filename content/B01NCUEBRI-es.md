@@ -25,11 +25,11 @@ Está [Campanilla con sombrilla de Peter Pan  Mundo de Miss Mindy Disney  resina
 
 ℹ️:
 
-- El producto es multicolor
-- Este producto tiene un diseño atractivo
-- Tipo de material: resina
 - Dimensiones del producto: 8.9 x 7.6 x 15.2 cm
+- El producto es multicolor
 - Colores resistentes al agua
+- Tipo de material: resina
 - Producto adecuado para regalar, decorar o coleccionar
+- Este producto tiene un diseño atractivo
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01NCUEBRI/?tag=tolees-21)

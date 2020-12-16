@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Einhell Pack taladro percutor y 15 pieza al 50.04 % de descuento'
-date: 2020-12-13 14:36:17
+date: 2020-12-16 21:10:14
 image: 'https://m.media-amazon.com/images/I/41kNQAsvb6L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01JGIF3DU/?tag=tolees-21'
 descuento: '50.04'
+average: '34.76500000000001'
 ---
 
 Está [Einhell Pack taladro percutor y 15 piezas de perforación  TC-ID 1000 Kit   1010 W  230V  color rojo y negro  ref. 4259838 ](https://www.amazon.es/dp/B01JGIF3DU/?tag=tolees-21) con 50.04 de descuento por 34.95 EUR (original: 69.95 EUR) en el siguiente enlace!
@@ -27,8 +28,8 @@ Está [Einhell Pack taladro percutor y 15 piezas de perforación  TC-ID 1000 Kit
 - Asidero adicional fijado de forma segura mediante nervadura
 - Función perforación / taladro de percusión
 - Gran zona de empuñadura antideslizante ergonómica para trabajo agradable
-- Apropiado para la fijación en un soporte de perforación con cuello de sujeción de 43 mm
-- Tope de profundidad de perforación ajustable sin escalonamiento de metal macizo
 - Unidad electrónica para regular el número de revoluciones
+- Tope de profundidad de perforación ajustable sin escalonamiento de metal macizo
+- Apropiado para la fijación en un soporte de perforación con cuello de sujeción de 43 mm
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01JGIF3DU/?tag=tolees-21)
