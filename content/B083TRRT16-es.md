@@ -25,9 +25,9 @@ Tienes [Crucial Ballistix BL2K8G32C16U4B 3200 MHz  DDR4  DRAM  Memoria Gamer par
 
 ℹ️:
 
-- Óptimo para jugadores y entusiastas del rendimiento
-- Desarrollada para las últimas plataformas AMD e Intel
-- Difusor térmico de aluminio moderno en tres colores a juego con su sistema o estilo
 - Compatible con XMP 2.0 para overclocking automático o ejecución con perfil JEDEC predeterminado
+- Óptimo para jugadores y entusiastas del rendimiento
+- Difusor térmico de aluminio moderno en tres colores a juego con su sistema o estilo
+- Desarrollada para las últimas plataformas AMD e Intel
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B083TRRT16/?tag=tolees-21)

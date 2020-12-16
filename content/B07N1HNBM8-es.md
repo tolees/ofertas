@@ -25,12 +25,12 @@ Está [Superga 2730-cotu  Zapatillas de Gimnasia Mujer  Rosa  Pink Skin W6y   45
 
 ℹ️:
 
-- Cierre: cordón.
-- Diámetro de la pantorrilla: normal.
-- Material de la suela: goma.
-- Material exterior: tela.
-- Ancho del zapato: normal.
 - Forro: tela.
+- Material exterior: tela.
+- Material de la suela: goma.
+- Diámetro de la pantorrilla: normal.
 - Tipo de tacón: tacón de bloqueo.
+- Cierre: cordón.
+- Ancho del zapato: normal.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07N1HNBM8/?tag=tolees-21)

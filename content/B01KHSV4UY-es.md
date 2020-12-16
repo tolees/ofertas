@@ -26,9 +26,9 @@ Ahora mismo tienes [Revlon Colorstay Creme Eye 24H Sombra de Ojos Tono 740 Black
 🔎:
 
 - Permite crear tonalidad y intensidades de color antes de su fijación
-- El producto incluye un cepillo
-- Producto de la colección Revlon ColorStay
 - Su textura es cremosa y de fácil y cómoda aplicación
+- Producto de la colección Revlon ColorStay
 - Posee una fórmula de larga duración sin manchas o arrugas, hasta 24 horas
+- El producto incluye un cepillo
 
 [Visítala!!!](https://www.amazon.es/dp/B01KHSV4UY/?tag=tolees-21)
