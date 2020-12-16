@@ -25,8 +25,8 @@ Está [Epson WFDS1660W - Escáner Plano de Color A4  Capacidad de USB  Blanco y 
 
 ℹ️:
 
-- Para A4
 - Alto rendimiento
 - Capacidad de USB
+- Para A4
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01LKWKCPE/?tag=tolees-21)

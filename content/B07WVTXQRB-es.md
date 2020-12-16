@@ -25,9 +25,9 @@ Está [Pop! Star Wars The Rise of Skywalker - KOR Cannon  Hematite Chrome ](http
 
 ℹ️:
 
-- De la colección star wars the rise of skywalker, kor cannon como figura de vinilo pop chrome de funko
-- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 - Descúbre otras figuras de la colección star wars the rise of skywalker y colecciónalas todas
 - Funko pop; el juguete del año 2018
+- La figura mide 9 cm y se envía en una caja ilustrada con ventana
+- De la colección star wars the rise of skywalker, kor cannon como figura de vinilo pop chrome de funko
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07WVTXQRB/?tag=tolees-21)

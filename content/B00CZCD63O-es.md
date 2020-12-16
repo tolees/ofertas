@@ -25,9 +25,9 @@ Tienes [Revlon Professional Equave Acodicionador Desenredante Cabello Normal/Sec
 
 ℹ️:
 
-- Tipo de producto: Acondicionador
 - Nota: El embalaje del producto puede diferir ligeramente de la imagen del producto.
 - Género: Mujer
 - Marca: Revlon Professional
+- Tipo de producto: Acondicionador
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00CZCD63O/?tag=tolees-21)

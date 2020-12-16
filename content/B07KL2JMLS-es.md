@@ -25,8 +25,8 @@ Tienes [adidas ID Stadium tee T-Shirt  Hombre  White  M](https://www.amazon.es/d
 
 ℹ️:
 
+- Adidas
 - Tessuto morbido
 - Pannello posteriore in mesh
-- Adidas
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KL2JMLS/?tag=tolees-21)

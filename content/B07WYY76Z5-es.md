@@ -25,10 +25,10 @@ Está [OFITURIA® Pizarra Blanca Magnética Lacada Con Marco De Aluminio Resiste
 
 ℹ️:
 
+- ✅ GARANTÍA: Si el tamaño no es correcto o si decide que esta pizarra no es la adecuada recibirá un reembolso completo dentro de los primeros 30 días. En Ofituria estamos siempre a tu disposición para ofrecerte un servicio de atención al cliente profesional.
 - ✅ SUPERFICIE DE ESCRITURA SUAVE Y AGRADABLE: Superficie de escritura lacada y resistente a los arañazos, muy fácil de limpiar en seco. Dibuja, pinta, apunta mensajes, recordatorios, calendarios, anotaciones y más con rotuladores especiales para pizarra blanca (no incluidos). Además, dada la gran calidad de su superficie, se puede utilizar como pantalla para proyector.
+- ✅ MAGNÉTICA: Al ser una pizarra magnética te permite tener a mano notas, fotos y citas con ayuda de imanes (no incluidos), ya sea en estudios, salas de reuniones, oficinas, pequeños negocios, en colegios, universidades, o incluso para uso familiar.
 - ✅ DURABILIDAD: Estas pizarras magnéticas están fabricadas con materiales de alta calidad, resistentes y de alto rendimiento, por lo que pueden durar mucho tiempo sin deteriorarse. Recomendamos seguir las instrucciones de limpieza y mantenimiento indicadas en el producto.
 - ✅ PRÁCTICA: Esta pizarra con marco de aluminio es de fácil instalación. Contiene un kit de accesorios para su montaje en pared, ya sea en vertical o en horizontal. Además, incluye una práctica bandeja para rotuladores de fácil colocación.
-- ✅ MAGNÉTICA: Al ser una pizarra magnética te permite tener a mano notas, fotos y citas con ayuda de imanes (no incluidos), ya sea en estudios, salas de reuniones, oficinas, pequeños negocios, en colegios, universidades, o incluso para uso familiar.
-- ✅ GARANTÍA: Si el tamaño no es correcto o si decide que esta pizarra no es la adecuada recibirá un reembolso completo dentro de los primeros 30 días. En Ofituria estamos siempre a tu disposición para ofrecerte un servicio de atención al cliente profesional.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07WYY76Z5/?tag=tolees-21)
