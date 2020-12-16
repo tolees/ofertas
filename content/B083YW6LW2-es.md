@@ -25,9 +25,9 @@ Está [Funko- Pop Harry Potter: 10" Voldemort w/Nagini S10 Figura Coleccionable 
 
 ℹ️:
 
+- Descúbre otras figuras de la colección harry potter y colecciónalas todas
+- Funko pop el juguete del año 2018
 - De la colección harry potter, 10" voldemort w/nagini como figura de vinilo pop de funko
 - La figura mide 25 cm y se envía en una caja ilustrada con ventana
-- Funko pop el juguete del año 2018
-- Descúbre otras figuras de la colección harry potter y colecciónalas todas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B083YW6LW2/?tag=tolees-21)

@@ -26,9 +26,9 @@ Tienes [NASUM Fitness Watches  Reloj Inteligente  Frecuencia Cardíaca y Monitor
 ℹ️:
 
 - 【Remote Camera】Nasum smart watch has the function of remote control of mobile phone to record images. You can seize every good moment anytime, anywhere. This fashionable and practical smart watch is the perfect gift for family and friends.
-- 【NASUM Guarantee】If you have any questions, we will try our best to help them.12 months product warranty period. Internal 2 months no problem return policy.
-- 【Close Watch】The NASUM smart watch closely monitors your heart rate and sleep quality. You can check your health by looking at the smart bracelet at any time. Health will improve your life.
 - 【Multiple sport modes】The NASUM smart Bracelet offers a variety of motion modes, in which you can choose the right sport mode. At the same time, it can accurately record the mileage, calories and track movement data.
+- 【Close Watch】The NASUM smart watch closely monitors your heart rate and sleep quality. You can check your health by looking at the smart bracelet at any time. Health will improve your life.
+- 【NASUM Guarantee】If you have any questions, we will try our best to help them.12 months product warranty period. Internal 2 months no problem return policy.
 - 【Color display communication】IPS color display is convenient for data display. Nasum smart watch supports Android 4.4 and later, IOS 8.0 or higher. You can use call notification, SMS, call and other functions.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07XX2VQQY/?tag=tolees-21)
