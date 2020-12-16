@@ -25,10 +25,10 @@ Tienes [FIND - Almohadillas desmaquilladores resistente al agua  4 x 60  240 alm
 
 ℹ️:
 
+- Es ideal para todo tipo de pieles. Dermatológicamente testado
+- Con aceite de salvado de arroz : propiedades hidratantes y protectoras
 - Elimina todos los restos de maquillaje de la cara, incluso resistente al agua
 - Contenido del paquete: 4 x 60 almohadillas (240 almohadillas)
 - 94% de ingredientes de origen natural
-- Es ideal para todo tipo de pieles. Dermatológicamente testado
-- Con aceite de salvado de arroz : propiedades hidratantes y protectoras
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07RLL7BG4/?tag=tolees-21)

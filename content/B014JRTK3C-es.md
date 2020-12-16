@@ -25,10 +25,10 @@ Ahora mismo tienes [Henry London Reloj Analógico para Unisex Adultos de Cuarzo 
 
 🔎:
 
-- Movimiento Cuarzo, Display Analogico
-- Otras Características: Movimiento Japones, día
 - Correa Material/color: Piel/verde
 - Caja Material/color: Acero/oro
 - Diámetro caja: 39MM
+- Movimiento Cuarzo, Display Analogico
+- Otras Características: Movimiento Japones, día
 
 [Visítala!!!](https://www.amazon.es/dp/B014JRTK3C/?tag=tolees-21)

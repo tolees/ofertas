@@ -25,10 +25,10 @@ Tienes [Skagen Reloj Analógico para Mujer de Cuarzo con Correa en Cuero SKW2778
 
 ℹ️:
 
-- Grosor de la caja: 4 mm; Tamaño de la caja: 25 mm
 - Ancho de la correa: 12 mm; Circunferencia de la correa: 175+/- 5 mm
 - Resistente al agua: 3 ATM
-- Material de la correa: Piel
 - Se presenta en caja de regalo Skagen
+- Grosor de la caja: 4 mm; Tamaño de la caja: 25 mm
+- Material de la correa: Piel
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07QDVSW8T/?tag=tolees-21)
