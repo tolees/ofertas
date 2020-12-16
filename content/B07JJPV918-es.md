@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trilogía El Señor De Los Anillos Extendi al 39.53 % de descuento'
-date: 2020-12-15 17:35:55
+date: 2020-12-16 18:18:04
 image: 'https://m.media-amazon.com/images/I/51bEuij7aYL._SL200_.jpg'
 comments: true
 category: ofertas

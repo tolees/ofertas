@@ -25,10 +25,10 @@ Ahora mismo tienes [Keter Linear Armario escobero  Negro/Gris Tiradores en Azul 
 
 🔎:
 
-- Tirador ergonómico y de tacto con posibilidad para cierre con candado (no incluído)
-- Certificado TUV que confirma que este artículo ha superado con éxito las pruebas específicas en materia de Seguridad y Calidad.
-- Sus patas son regulables en altura
 - Tres baldas regulables en altura con capacidad para soportar 15 kilogramos cada una
+- Certificado TUV que confirma que este artículo ha superado con éxito las pruebas específicas en materia de Seguridad y Calidad.
 - Fabricado en resina de alta resistencia y durabilidad
+- Tirador ergonómico y de tacto con posibilidad para cierre con candado (no incluído)
+- Sus patas son regulables en altura
 
 [Visítala!!!](https://www.amazon.es/dp/B00URUWIV2/?tag=tolees-21)

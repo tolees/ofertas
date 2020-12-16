@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 38.24 % en Sony ICF-M780SL - Radio portátil  FM/SW/'
-date: 2020-12-15 17:36:41
+date: 2020-12-16 18:10:10
 image: 'https://m.media-amazon.com/images/I/519JT-tu41L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IWZIQVU/?tag=tolees-21'
 descuento: '38.24'
-average: '53.71625'
+average: '53.473'
 ---
 
 Tienes [Sony ICF-M780SL - Radio portátil  FM/SW/MW/LW  pantalla LED   negro](https://www.amazon.es/dp/B00IWZIQVU/?tag=tolees-21) con un 38.24 % de descuento con precio de oferta de 52.5 EUR (original: 85.0 EUR) en el siguiente enlace!
@@ -25,11 +25,11 @@ Tienes [Sony ICF-M780SL - Radio portátil  FM/SW/MW/LW  pantalla LED   negro](ht
 
 ℹ️:
 
-- Función de despertador, estación meteorológica y reposo
 - Sintonizador digital FM, SW, MW, LW
-- Pantalla con retroiluminación LED
+- Función de despertador, estación meteorológica y reposo
 - Antena FM
-- Peso aprox 1.060 g
 - Diseño moderno y ligero
+- Pantalla con retroiluminación LED
+- Peso aprox 1.060 g
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00IWZIQVU/?tag=tolees-21)

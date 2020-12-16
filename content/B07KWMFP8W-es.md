@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.34 % en Hugo BOSS Reloj de pulsera 1513697'
-date: 2020-12-01 23:12:07
+date: 2020-12-16 18:14:04
 image: 'https://m.media-amazon.com/images/I/51WMWDE2d0L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KWMFP8W/?tag=tolees-21'
 descuento: '36.34'
+average: '209.45'
 ---
 
 Tienes [Hugo BOSS Reloj de pulsera 1513697](https://www.amazon.es/dp/B07KWMFP8W/?tag=tolees-21) con un 36.34 % de descuento con precio de oferta de 209.45 EUR (original: 329.0 EUR) en el siguiente enlace!
@@ -24,5 +25,10 @@ Tienes [Hugo BOSS Reloj de pulsera 1513697](https://www.amazon.es/dp/B07KWMFP8W/
 
 ℹ️:
 
+- Esfera negro
+- Grosor de la caja de 12,00 mm
+- Movimiento cronógrafo
+- 10 ATM de resistencia al agua
+- Correa negra de piel lisa
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KWMFP8W/?tag=tolees-21)

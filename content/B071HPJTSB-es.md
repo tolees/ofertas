@@ -25,10 +25,10 @@ Ahora mismo tienes [Tommy Hilfiger Core Stretch Slim Vneck tee Camiseta  Azul  N
 
 🔎:
 
-- Logo de Tommy Hilfiger bordado en el pecho
-- Cinta distintiva en el interior del cuello
-- Cuello de pico
 - Corte slim
+- Cuello de pico
+- Cinta distintiva en el interior del cuello
 - Algodón elástico
+- Logo de Tommy Hilfiger bordado en el pecho
 
 [Visítala!!!](https://www.amazon.es/dp/B071HPJTSB/?tag=tolees-21)

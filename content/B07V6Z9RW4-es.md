@@ -25,10 +25,10 @@ Ahora mismo tienes [Razer Viper - Esports Gaming Mouse Light  ratón ligero ambi
 
 🔎:
 
-- Cable Razer Speedflex: Con una gran flexibilidad y un arrastre mínimo para realizar movimientos sin obstáculos, permitiéndote un control fluido en tus partidas
 - Almacenamiento PPP integrado: Preconfigúralo con hasta 5 fases de PPP en Razer Synapse 3 y lleva tus ajustes a cualquier sitio para que siempre estés listo para competir independientemente del escenario
-- Switches ópticos para ratón Razer: Deslumbra en las jugadas críticas de los torneos con un sensor de luz que registra clics sin falsos accionamientos; los switches duran hasta 70 millones de clics
 - Diseño ligero de 69 g: Con un peso de tan solo 69 g, el ratón Razer Viper aprovecha todo el potencial de resistencia al cambiar una carcasa de esqueleto por un chasis ambidiestro sólido, óptimo para soportar la dureza de la competición
 - Sensor óptico Razer 5G: Diseñado con una sensibilidad de hasta 16 000 PPP y una precisión de resolución del 99,4 %: la ventaja incremental que necesitas para arrasar en la competición
+- Switches ópticos para ratón Razer: Deslumbra en las jugadas críticas de los torneos con un sensor de luz que registra clics sin falsos accionamientos; los switches duran hasta 70 millones de clics
+- Cable Razer Speedflex: Con una gran flexibilidad y un arrastre mínimo para realizar movimientos sin obstáculos, permitiéndote un control fluido en tus partidas
 
 [Visítala!!!](https://www.amazon.es/dp/B07V6Z9RW4/?tag=tolees-21)

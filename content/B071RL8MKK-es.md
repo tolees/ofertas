@@ -26,9 +26,9 @@ Está [Doodle Collection - M238 Wireless Mouse - SKATEBURGER - 2.4GHZ - N/A - EM
 ℹ️:
 
 - Fiable para ordenador con seguimiento preciso y uniforme
-- Ratón inalámbrico con pila de larga duración: 12 meses de duración con una sola pila AA preinstalada; encendido/apagado automático
-- Radio de acción inalámbrico de 10 metros - conexión rápida, fiable y segura entre el ratón inalámbrico y el receptor USB tipo "conectar y olvidar"
 - Tamaño reducido para portátil compatible con ordenadores Windows, Mac, Chrome OS y Linux
+- Ratón inalámbrico con pila de larga duración: 12 meses de duración con una sola pila AA preinstalada; encendido/apagado automático
 - Expresa tu creatividad y lleva tu felicidad a tus dispositivos con 15 adhesivos divertidos y llamativos incluidos
+- Radio de acción inalámbrico de 10 metros - conexión rápida, fiable y segura entre el ratón inalámbrico y el receptor USB tipo "conectar y olvidar"
 
 [Ver la oferta!!](https://www.amazon.es/dp/B071RL8MKK/?tag=tolees-21)

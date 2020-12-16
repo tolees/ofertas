@@ -25,13 +25,13 @@ Está [Jata TT588 Tostador Horizontal Clásico con Mueble y Parrilla de Acero In
 
 ℹ️:
 
-- Disfrute de las tostadas: con el tostador tt588 disfrutarás del aroma y del sabor del pan como si estuviera recién sacado del horno
-- Material: su mueble y su parrilla son de acero inoxidable
 - Característica: el tostador horizontal tt588 tiene tres barras de cuarzo lo que permite un tostado homogéneo en todas las tostadas que se pongan sobre su superficie
-- Garantía: todos los productos jata cuentan con tres años de garantía
-- Limpieza: lleva bandeja recogemigas extraíble, lo que permite una fácil limpieza
 - Temporizador: lleva un temporizador de 5 minutos por lo que puedes accionarlo y seguir haciendo otras tareas ya que se tiene la garantía de que aunque se olvide que está enchufado, las tostadas no se van a quemar
-- Interruptor: tiene un interruptor de encendido lo que permite saber en todo momento si el tostador está en marcha
+- Disfrute de las tostadas: con el tostador tt588 disfrutarás del aroma y del sabor del pan como si estuviera recién sacado del horno
 - Potencia: la potencia es de 600 w
+- Interruptor: tiene un interruptor de encendido lo que permite saber en todo momento si el tostador está en marcha
+- Limpieza: lleva bandeja recogemigas extraíble, lo que permite una fácil limpieza
+- Material: su mueble y su parrilla son de acero inoxidable
+- Garantía: todos los productos jata cuentan con tres años de garantía
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00OT7ES3K/?tag=tolees-21)
