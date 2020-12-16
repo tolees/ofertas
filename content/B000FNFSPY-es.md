@@ -25,13 +25,13 @@ Tienes [TP-Link TL-SF1005D - Switch Ethernet con 5 Puertos  10/100 Mbps  RJ45  C
 
 ℹ️:
 
+- Soporta 10k de Jumbo Frame, mejorando significantemente el rendimiento de las transfencias de grandes archivos.
+- El diseño sin ventilador garantiza un funcionamiento silencioso.
 - 5 puertos RJ45 con negociación automática de velocidad 10/100 Mbps, admite MDI/MDIX automático.
 - El control de flujo IEEE 802.3x proporciona una transferencia de datos confiable.
-- Soporta 10k de Jumbo Frame, mejorando significantemente el rendimiento de las transfencias de grandes archivos.
-- Tecnología de ahorro de energía para ethernet que reduce el consumo.
-- Requisitos del sistema : Microsoft Windows 8/7/Vista/XP , MAC OS, NetWare, UNIX o Linux.
-- El diseño sin ventilador garantiza un funcionamiento silencioso.
 - Plug and play, sin ninguna configuración adicional.
 - Carcasa de plástico, diseñado para ser usado como equipo de sobremesa.
+- Requisitos del sistema : Microsoft Windows 8/7/Vista/XP , MAC OS, NetWare, UNIX o Linux.
+- Tecnología de ahorro de energía para ethernet que reduce el consumo.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000FNFSPY/?tag=tolees-21)

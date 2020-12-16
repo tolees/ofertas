@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WH-CH700NB - Auriculares inalámbric al 46.12 % de descuento'
-date: 2020-12-15 05:58:21
+date: 2020-12-16 06:16:35
 image: 'https://m.media-amazon.com/images/I/41AEZriyA-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078VGQCZ4/?tag=tolees-21'
 descuento: '46.12'
-average: '97.0291919191919'
+average: '97.02841584158415'
 ---
 
 Está [Sony WH-CH700NB - Auriculares inalámbricos  Noise Cancelling  Bluetooth  NFC   color negro](https://www.amazon.es/dp/B078VGQCZ4/?tag=tolees-21) con 46.12 de descuento por 96.99 EUR (original: 180.0 EUR) en el siguiente enlace!
@@ -25,11 +25,11 @@ Está [Sony WH-CH700NB - Auriculares inalámbricos  Noise Cancelling  Bluetooth 
 
 ℹ️:
 
-- Escucha con mayor detalle con la unidad de diafragma de 40 mm
-- Transmisión inalámbrica Bluetooth mediante NFC con un solo toque
 - Perfiles compatible con Bluetooth: A2DP (Perfil de Distribución de Audio Avanzado); AVRCP (Perfil de control remoto de audio y video)
+- Transmisión inalámbrica Bluetooth mediante NFC con un solo toque
 - La compatibilidad con Smartphone te permite realizar llamadas con manos libres y utilizar el asistente de voz
-- Escucha duradera con hasta 35 horas de duración de batería y carga rápida
 - Cancelación digital de ruido se ajusta a tu entorno gracias a la función AINC con una sola pulsación
+- Escucha con mayor detalle con la unidad de diafragma de 40 mm
+- Escucha duradera con hasta 35 horas de duración de batería y carga rápida
 
 [Ver la oferta!!](https://www.amazon.es/dp/B078VGQCZ4/?tag=tolees-21)
