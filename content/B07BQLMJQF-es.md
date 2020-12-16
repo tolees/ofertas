@@ -25,7 +25,7 @@ Está [Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Rosa  Pink Skin W6y 
 
 ℹ️:
 
-- Con cordones.
 - Zapatillas Superga Fashion.
+- Con cordones.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07BQLMJQF/?tag=tolees-21)

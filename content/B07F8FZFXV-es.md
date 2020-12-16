@@ -25,9 +25,9 @@ Tienes [Max Factor Lasting Performance Spray Fijador  100 ml](https://www.amazon
 
 ℹ️:
 
+- Look intenso durante todo el día
 - Refresca la piel, la hidrata y despeja instantáneamente
 - Aplícalo las veces que lo necesites durante el día para un look fresco y cómodo en la piel
-- Look intenso durante todo el día
 - Fija durante 8 horas
 - Aumenta la durabilidad del maquillaje evitando que se transfiera el maquillaje
 
