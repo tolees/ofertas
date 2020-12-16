@@ -25,10 +25,10 @@ Tienes [Bosch Professional 12V System GSB 12V-15 - Taladro percutor a batería  
 
 ℹ️:
 
-- Professional 12V System; rendimiento con diseño compacto; máxima libertad; todas las baterías son compatibles con herramientas Bosch Professional nuevas y existentes del mismo voltaje
+- Mayor protección: El sistema Electronic Cell Protection evita la sobrecarga, el sobrecalentamiento y la descarga completa
 - Incluye: GSB 12V-15, 2 baterías GBA 12V 2.0Ah, cargador GAL 12V-20, juego de 39 accesorios, maletín de lona
 - Práctico: Su diseño compacto con cabezal de 169 mm permite un manejo fácil en todo momento, incluso en espacios estrechos y trabajos en altura
 - Combinación adecuada: Par de apriete duro de 30 Nm y velocidad de 0-1300 rpm para un equilibrio óptimo entre máxima potencia y mínimo tamaño de la herramienta
-- Mayor protección: El sistema Electronic Cell Protection evita la sobrecarga, el sobrecalentamiento y la descarga completa
+- Professional 12V System; rendimiento con diseño compacto; máxima libertad; todas las baterías son compatibles con herramientas Bosch Professional nuevas y existentes del mismo voltaje
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00YYBBUBY/?tag=tolees-21)
