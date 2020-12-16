@@ -25,10 +25,10 @@ Tienes [Bosch TSM6A013B - Molinillo de café eléctrico  180 W  capacidad 75 gra
 
 ℹ️:
 
-- Cuchillas de acero inoxidable para un molido fino y preciso
-- Interruptor de seguridad para evitar accidentes
-- Seguro: funciona solo cuando la tapa está correctamente cerrada
-- Podrás moler hasta 75 gramos de café en grano
 - Fácil de usar y de guardar gracias a su reducido tamaño: solo 9 cm de diámetro y 17 cm de altura
+- Podrás moler hasta 75 gramos de café en grano
+- Cuchillas de acero inoxidable para un molido fino y preciso
+- Seguro: funciona solo cuando la tapa está correctamente cerrada
+- Interruptor de seguridad para evitar accidentes
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07J6JLW11/?tag=tolees-21)

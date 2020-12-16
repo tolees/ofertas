@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Casio Collection B640WC-5AEF  Reloj Digi al 50.07 % de descuento'
-date: 2020-12-01 20:52:43
+date: 2020-12-16 19:12:43
 image: 'https://m.media-amazon.com/images/I/41sw9NltalL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,13 +16,19 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B008PDQT6I/?tag=tolees-21'
 descuento: '50.07'
+average: '41.72274193548387'
 ---
 
 Ahora mismo tienes [Casio Collection B640WC-5AEF  Reloj Digital Unisex  Acero Inoxidable  Marrón](https://www.amazon.es/dp/B008PDQT6I/?tag=tolees-21) a 44.38 EUR (original: 88.89 EUR) (50.07 %  de descuento) en el siguiente enlace!
 
 [![Casio Collection B640WC-5AEF  Reloj Digi](https://m.media-amazon.com/images/I/41sw9NltalL._SL200_.jpg)](https://www.amazon.es/dp/B008PDQT6I/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Función de claendario
+- Luz LED
+- Sumergible hasta 5 bares
+- Correa de acero inoxidable
+- Alarma multifunción
 
 [Visítala!!!](https://www.amazon.es/dp/B008PDQT6I/?tag=tolees-21)

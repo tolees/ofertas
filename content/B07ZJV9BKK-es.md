@@ -25,10 +25,10 @@ Está [Mya Cosmetics Kit de Maquillaje 1 Unidad 750 g](https://www.amazon.es/dp/
 
 ℹ️:
 
-- 90 sombras de ojos, 4 coloretes, 4 polvos, 6 correctores, 17 labiales, 1 lápiz de ojos y 1 perfilador de labios.
-- Todos los Kits de Mya Cosmetics están compuestos por materias primas y colorantes controlados en origen, disponiendo del certificado internacional GMPC.
 - Producto garantizado dermatológicamente.
-- Ingredientes de la mayor calidad con una moderna e irresistible selección de colores.
 - Rigurosa selección de tonos de acuerdo con las últimas tendencias y ordenación minuciosa del mosaico de colores.
+- Todos los Kits de Mya Cosmetics están compuestos por materias primas y colorantes controlados en origen, disponiendo del certificado internacional GMPC.
+- 90 sombras de ojos, 4 coloretes, 4 polvos, 6 correctores, 17 labiales, 1 lápiz de ojos y 1 perfilador de labios.
+- Ingredientes de la mayor calidad con una moderna e irresistible selección de colores.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07ZJV9BKK/?tag=tolees-21)

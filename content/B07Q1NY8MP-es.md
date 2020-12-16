@@ -25,10 +25,10 @@ Está [Permanente de café de Filtro Excelente Aromareicher Café Sabor - Blanco
 
 ℹ️:
 
-- Materiales: acero inoxidable, cerámica natural y caucho de silicona de grado alimenticio.
-- Disco cerámico para control de temperatura.
 - La cadena larga de acero inoxidable facilita el montaje y la extracción del filtro
 - Filtro de 1 pieza para café sifón
 - Filtro de café permanente reutilizable
+- Materiales: acero inoxidable, cerámica natural y caucho de silicona de grado alimenticio.
+- Disco cerámico para control de temperatura.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07Q1NY8MP/?tag=tolees-21)

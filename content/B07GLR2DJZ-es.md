@@ -25,10 +25,10 @@ Tienes [Manfrotto Befree Advanced Twist - Trípode de Viaje con Cabezal Fluido y
 
 ℹ️:
 
-- VERSÁTIL: permite cambiar la perspectiva y la altura del trípode sin perder el enfoque de la cámara. Los ángulos de las patas son independientes para tener plena libertad creativa
 - PORTÁTIL: fácil de usar y de configurar, este trípode de viaje se adapta a todas las situaciones de viaje, además su cuerpo de carbono lo hace ligero de llevar, pero fuerte y resistente
-- COMPACTO: el sistema de cierre M-Lock tiene un cierre Twist que no deja partes sobresalientes y por lo tanto hace que el trípode cerrado sea mucho más fácil de transportar
-- COMBINABLE: la placa suministrada es compatible con los accesorios de cabezal estándar más comunes - Manfrotto y Arca-Swiss - de fácil y rápida configuración
+- VERSÁTIL: permite cambiar la perspectiva y la altura del trípode sin perder el enfoque de la cámara. Los ángulos de las patas son independientes para tener plena libertad creativa
 - COMPLETO: la cabeza de bola de aluminio 494 permite posicionar la cámara de forma rápida y precisa, a través de los 3 controles independientes de sujeción, fricción y desplazamiento
+- COMBINABLE: la placa suministrada es compatible con los accesorios de cabezal estándar más comunes - Manfrotto y Arca-Swiss - de fácil y rápida configuración
+- COMPACTO: el sistema de cierre M-Lock tiene un cierre Twist que no deja partes sobresalientes y por lo tanto hace que el trípode cerrado sea mucho más fácil de transportar
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GLR2DJZ/?tag=tolees-21)
