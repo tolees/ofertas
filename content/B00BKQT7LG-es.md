@@ -25,9 +25,9 @@ Está [Daniel Wellington Classic Glasgow  Reloj Azul-Blanco/Plateado  40mm  NATO
 
 ℹ️:
 
-- Tamaño de Esfera: 40 mm
 - Diseñadas Suecia, las piezas de Daniel Wellington presentan un estilo escandinavo minimalista y son el regalo o accesorio personal óptimo para cada ocasión
 - Correa intercambiable
 - Longitud de la correa ajustable: (Min - Max) 165-220mm
+- Tamaño de Esfera: 40 mm
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00BKQT7LG/?tag=tolees-21)
