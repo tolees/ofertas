@@ -1,28 +1,33 @@
 ---
 layout: post
-title: 'Descuento del 42.29 % en Kingston DataTraveler 100 G3 -DT100G3/64'
-date: 2020-12-08 12:42:52
+title: 'Descuento del 41.70 % en Kingston DataTraveler 100 G3 -DT100G3/64'
+date: 2020-12-16 15:06:10
 image: 'https://m.media-amazon.com/images/I/31f-o1kzi3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B00C5K8CQ2-es'
-actualPrice: 6.92 EUR
+actualPrice: 6.99 EUR
 currency: EUR
-price: 6.92
+price: 6.99
 comparePrice: 11.99 EUR
 prodname: 'Kingston DataTraveler 100 G3 -DT100G3/64GB  USB 3.0  Flash Drive  64 GB  Negro'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00C5K8CQ2/?tag=tolees-21'
-descuento: '42.29'
+descuento: '41.70'
+average: '7.583888888888889'
 ---
 
-Tienes [Kingston DataTraveler 100 G3 -DT100G3/64GB  USB 3.0  Flash Drive  64 GB  Negro](https://www.amazon.es/dp/B00C5K8CQ2/?tag=tolees-21) con un 42.29 % de descuento con precio de oferta de 6.92 EUR (original: 11.99 EUR) en el siguiente enlace!
+Tienes [Kingston DataTraveler 100 G3 -DT100G3/64GB  USB 3.0  Flash Drive  64 GB  Negro](https://www.amazon.es/dp/B00C5K8CQ2/?tag=tolees-21) con un 41.70 % de descuento con precio de oferta de 6.99 EUR (original: 11.99 EUR) en el siguiente enlace!
 
 [![Kingston DataTraveler 100 G3 -DT100G3/64](https://m.media-amazon.com/images/I/31f-o1kzi3L._SL200_.jpg)](https://www.amazon.es/dp/B00C5K8CQ2/?tag=tolees-21)
 
 ℹ️:
 
+- Diseño elegante en negro y tapa deslizante
+- modelo: DT100G3/64GB
+- 64GB
+- Un dispositivo de almacenamiento USB 3.0
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00C5K8CQ2/?tag=tolees-21)

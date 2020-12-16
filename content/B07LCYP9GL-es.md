@@ -1,24 +1,25 @@
 ---
 layout: post
-title: 'Pack Bd Rompe Ralph 1+2 [Blu-ray] al 54.33 % de descuento'
-date: 2020-11-22 01:02:27
+title: 'Pack Bd Rompe Ralph 1+2 [Blu-ray] al 74.25 % de descuento'
+date: 2020-12-16 15:06:33
 image: 'https://m.media-amazon.com/images/I/51SQi5dBcYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07LCYP9GL-es'
-actualPrice: 15.96 EUR
+actualPrice: 9.0 EUR
 currency: EUR
-price: 15.96
+price: 9.0
 comparePrice: 34.95 EUR
 prodname: 'Pack Bd Rompe Ralph 1+2 [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07LCYP9GL/?tag=tolees-21'
-descuento: '54.33'
+descuento: '74.25'
+average: '14.776000000000002'
 ---
 
-Está [Pack Bd Rompe Ralph 1+2 [Blu-ray]](https://www.amazon.es/dp/B07LCYP9GL/?tag=tolees-21) con 54.33 de descuento por 15.96 EUR (original: 34.95 EUR) en el siguiente enlace!
+Está [Pack Bd Rompe Ralph 1+2 [Blu-ray]](https://www.amazon.es/dp/B07LCYP9GL/?tag=tolees-21) con 74.25 de descuento por 9.0 EUR (original: 34.95 EUR) en el siguiente enlace!
 
 [![Pack Bd Rompe Ralph 1+2 [Blu-ray]](https://m.media-amazon.com/images/I/51SQi5dBcYL._SL200_.jpg)](https://www.amazon.es/dp/B07LCYP9GL/?tag=tolees-21)
 

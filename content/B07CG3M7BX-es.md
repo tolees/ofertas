@@ -25,9 +25,9 @@ Ahora mismo tienes [Jack & Jones Jjebasic Knit Crew Neck Noos suéter  Negro  Na
 
 🔎:
 
-- De algodón agradable.
-- Composición del material: 100% algodón.
-- Punto de diseño ajustado.
 - Pequeña etiqueta con aspecto vaquero en el lateral.
+- Punto de diseño ajustado.
+- Composición del material: 100% algodón.
+- De algodón agradable.
 
 [Visítala!!!](https://www.amazon.es/dp/B07CG3M7BX/?tag=tolees-21)
