@@ -25,10 +25,10 @@ Ahora mismo tienes [bremermann Máquina de Pasta para Espaguetis  Pasta y lasañ
 
 🔎:
 
-- Materiales: Carcasa acero inoxidable y metal, rodillos acero inoxidable y aluminio
-- rodillos ajustables para 7 grosores distintos de pasta
 - con accionamiento de palanca de mano, patas antideslizantes y pinza para fijar en encimeras o en la mesa (espesor máx. de hasta 4 cm)
-- Dimensiones: aprox. 21 x 20 x 15 cm
+- rodillos ajustables para 7 grosores distintos de pasta
+- Materiales: Carcasa acero inoxidable y metal, rodillos acero inoxidable y aluminio
 - 3 rodillos de pasta distintos: para espaguetis, para tallarines y para lasaña (ancho de hasta 14 cm)
+- Dimensiones: aprox. 21 x 20 x 15 cm
 
 [Visítala!!!](https://www.amazon.es/dp/B072JC8BYN/?tag=tolees-21)

@@ -25,12 +25,12 @@ Ahora mismo tienes [Geox D New ANNYA A  Zapatos de Tacón Mujer  Azul  Navy C400
 
 🔎:
 
+- Cierre: Ponerse
+- Revestimiento: Sintético
+- Material de la suela: EVA
+- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
+- Altura del tacón: 7.5 centímetros
 - Material exterior: Cuero
 - Tipo de tacón: Tacón ancho
-- Revestimiento: Sintético
-- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
-- Cierre: Ponerse
-- Material de la suela: EVA
-- Altura del tacón: 7.5 centímetros
 
 [Visítala!!!](https://www.amazon.es/dp/B07LG1WZWN/?tag=tolees-21)

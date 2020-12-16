@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cavist Cavist.8 Cavist8 Vinoteca 8 Botel al 45.64 % de descuento'
-date: 2020-12-14 21:43:31
+date: 2020-12-16 08:12:45
 image: 'https://m.media-amazon.com/images/I/419xopnAtNL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,15 +25,15 @@ Ahora mismo tienes [Cavist Cavist.8 Cavist8 Vinoteca 8 Botellas  25 Litros  Ultr
 
 🔎:
 
-- Bajo nível de ruido: 41 d
-- Empotrable: no
-- Clase energética
 - Dimensiones: 26.1 x 50 x 46.5 cm
+- Clase energética
 - Tipo de refrigeración: termoeléctrica
-- Sistema antivibración y pies ajustables
 - Visualización electrónica de temperatura y panel de control táctil con pantalla led iluminado en color azúl
 - Vinoteca para 8 botellas con capacidad de 25 litros
-- 3 estantes de metal
+- Bajo nível de ruido: 41 d
+- Empotrable: no
 - Temperatura regulable de 8°a 18°c
+- 3 estantes de metal
+- Sistema antivibración y pies ajustables
 
 [Visítala!!!](https://www.amazon.es/dp/B078C7BV7C/?tag=tolees-21)
