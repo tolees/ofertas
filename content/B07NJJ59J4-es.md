@@ -25,10 +25,10 @@ Está [Canon EOS rp - cámara mirroless de 26.2 MP  wi-fi  Bluetooth  Sensor Dua
 
 ℹ️:
 
+- Pantalla táctil lcd de ángulo variable
 - Dual pixel cmos af con enfoque en todo el encuadre y posibilidad de disparar en las situaciones más oscuras (hasta -5 ev)
 - Funciones de vídeo 4k avanzadas para videógrafos
 - Disparo contínuo de hasta 5 imágenes por segundo
-- Pantalla táctil lcd de ángulo variable
 - Procesador de imagen avanzado, el digic 8
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07NJJ59J4/?tag=tolees-21)

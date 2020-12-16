@@ -25,10 +25,10 @@ Tienes [Hurley M Creeper Washed L/S Camisa  Hombre  Gym Blue  S](https://www.ama
 
 ℹ️:
 
-- Tejido supersuave para mantener la comodidad.
-- Ajuste clásico
-- Detalle de presilla para colgar en el canesú de la parte posterior
 - Bolsillos tipo parche dobles en el pecho con solapas abotonadas
+- Ajuste clásico
 - Aberturas laterales en el dobladillo con detalle de doble presilla
+- Detalle de presilla para colgar en el canesú de la parte posterior
+- Tejido supersuave para mantener la comodidad.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07VH5PVQP/?tag=tolees-21)

@@ -25,10 +25,10 @@ Está [Philips QP230/50 - Cuchilla de recambio para Philips OneBlade  3 cuchilla
 
 ℹ️:
 
-- Sistema de protección doble, para que la piel no sufra
 - Oneblade duradero
 - Exclusiva tecnología OneBlade
-- Apto para los modelos de producto: OneBlade (QP25xx), OneBlade (QP26xx), OneBlade Pro (QP65xx), y OneBlade Pro (QP66xx)
 - Recorta, perfila y afeita cualquier longitud
+- Sistema de protección doble, para que la piel no sufra
+- Apto para los modelos de producto: OneBlade (QP25xx), OneBlade (QP26xx), OneBlade Pro (QP65xx), y OneBlade Pro (QP66xx)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B073PD6YRQ/?tag=tolees-21)
