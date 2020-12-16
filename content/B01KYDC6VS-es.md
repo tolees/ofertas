@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asmodee Story Cubes Doctor Who - Más ver al 25.02 % de descuento'
-date: 2020-12-13 19:10:35
+date: 2020-12-16 09:04:59
 image: 'https://m.media-amazon.com/images/I/518UhwHTW3L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KYDC6VS/?tag=tolees-21'
 descuento: '25.02'
+average: '8.99'
 ---
 
 Está [Asmodee Story Cubes Doctor Who - Más versiones disponibles  Multilenguaje  STO05ML    color/modelo surtido](https://www.amazon.es/dp/B01KYDC6VS/?tag=tolees-21) con 25.02 de descuento por 8.99 EUR (original: 11.99 EUR) en el siguiente enlace!
@@ -24,10 +25,10 @@ Está [Asmodee Story Cubes Doctor Who - Más versiones disponibles  Multilenguaj
 
 ℹ️:
 
-- Rollo los nueve cubos, vea las imágenes y crear diversión sin límites, doctor who historias con millones de combinaciones.
-- Mezcla tu set de doctor who con otros conjuntos de rory s story cubes para crear su última historia.
-- Ergonómico carcasa de plástico para mantener su storycubes seguro mientras que sobre la marcha.
-- Tamaño de bolsillo generador de historia creativa que alienta a la imaginación y la creatividad.
 - El regalo perfecto para el fan de doctor who que quiere para extender su tiempo lord collection.
+- Tamaño de bolsillo generador de historia creativa que alienta a la imaginación y la creatividad.
+- Rollo los nueve cubos, vea las imágenes y crear diversión sin límites, doctor who historias con millones de combinaciones.
+- Ergonómico carcasa de plástico para mantener su storycubes seguro mientras que sobre la marcha.
+- Mezcla tu set de doctor who con otros conjuntos de rory s story cubes para crear su última historia.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01KYDC6VS/?tag=tolees-21)

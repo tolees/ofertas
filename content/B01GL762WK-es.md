@@ -25,10 +25,10 @@ Está [Monix 2 Aroma-Cafetera Italiana  Acero Inoxidable  18/10  6 Tazas  10 cm]
 
 ℹ️:
 
-- Diseño vanguardista y moderno
 - Fabricada en el mejor acero inoxidable, calidad 18/10
+- Diseño vanguardista y moderno
+- Apta para todo tipo de cocinas, incluidas las de inducción
 - Mango con recubrimiento de silicona suave para agarre fácil y seguro
 - Capacidad para 6 tazas de café - 300 ml
-- Apta para todo tipo de cocinas, incluidas las de inducción
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01GL762WK/?tag=tolees-21)
