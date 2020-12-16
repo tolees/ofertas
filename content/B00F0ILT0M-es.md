@@ -25,14 +25,14 @@ Tienes [Philips myLiving Denim - Plafón LED  iluminación de interior  luz blan
 
 ℹ️:
 
-- Garantía : 5 años
-- La luz blanca y cálida
-- Material: Plásticos
-- Potencia: 4 Watts
-- Ahorro de energía
+- Dimensiones: 24,3 x 24,3 x 6,3 cm
 - La iluminación LED de alta calidad
 - La pared / LED Philips myLiving Denim techo se puede instalar en el techo o en la pared . Diseñado para proporcionar un ahorro de energía sin precedentes , esta lámpara de níquel también tiene una vida útil más larga , por lo que es un elemento de elección para su hogar.
 - Ideal para la instalación en una pared o en el techo
-- Dimensiones: 24,3 x 24,3 x 6,3 cm
+- Material: Plásticos
+- Potencia: 4 Watts
+- Garantía : 5 años
+- La luz blanca y cálida
+- Ahorro de energía
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00F0ILT0M/?tag=tolees-21)

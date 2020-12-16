@@ -25,10 +25,10 @@ Está [Torres 10  Brandy - 700ml](https://www.amazon.es/dp/B003P58JHS/?tag=tolee
 
 ℹ️:
 
-- Ideal para combinar con refresco de cola.
-- Origen: Catalunya
-- Graduación: 38% vol.
-- Aroma intenso, cálidas notas de canela y vainilla. Final persistente, matices aromáticos del roble.
 - Ideal para combinar con cocina mexicana: tacos de pollo o ternera, Fajitas.
+- Graduación: 38% vol.
+- Ideal para combinar con refresco de cola.
+- Aroma intenso, cálidas notas de canela y vainilla. Final persistente, matices aromáticos del roble.
+- Origen: Catalunya
 
 [Ver la oferta!!](https://www.amazon.es/dp/B003P58JHS/?tag=tolees-21)
