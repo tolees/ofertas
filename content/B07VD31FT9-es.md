@@ -26,9 +26,9 @@ Ahora mismo tienes [BOSS Schino-Slim Shorts Pantalones Cortos  Beige  Open Beige
 🔎:
 
 - No secar en la secadora.
-- Planchar a baja temperatura.
 - No usar lejía.
-- No limpiar en seco.
+- Planchar a baja temperatura.
 - Schonwaesche fría 30øC
+- No limpiar en seco.
 
 [Visítala!!!](https://www.amazon.es/dp/B07VD31FT9/?tag=tolees-21)

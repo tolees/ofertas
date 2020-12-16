@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 38.30 % en Desigual Blus Verona  Azul  Navy 5000   '
-date: 2020-12-07 20:10:09
+date: 2020-12-16 12:15:25
 image: 'https://m.media-amazon.com/images/I/51yEgxpKXDL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07VHRJP71/?tag=tolees-21'
 descuento: '38.30'
+average: '36.99'
 ---
 
 Tienes [Desigual Blus Verona  Azul  Navy 5000   X-Large para Mujer](https://www.amazon.es/dp/B07VHRJP71/?tag=tolees-21) con un 38.30 % de descuento con precio de oferta de 36.99 EUR (original: 59.95 EUR) en el siguiente enlace!

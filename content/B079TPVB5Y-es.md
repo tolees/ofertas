@@ -25,10 +25,10 @@ Tienes [Russell Hobbs Desire – Juego de Batidora de Vaso  650 W  Jarra de Cris
 
 ℹ️:
 
-- Dos velocidades y función de pulso, 22000 rpm
-- Incluye bloqueo de seguridad en la base, pies de goma con ventosa para una mayor estabilidad y recogecable
 - Jarra de cristal de 1.5 l de capacidad y tapa de relleno extraíble para añadir ingredientes durante el uso
+- Dos velocidades y función de pulso, 22000 rpm
 - Cuchilla de acero inoxidable de 4 puntas que permite batir fácilmente y de sencilla extracción
 - Tiene 650 vatios de potencia; libre de BPA
+- Incluye bloqueo de seguridad en la base, pies de goma con ventosa para una mayor estabilidad y recogecable
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B079TPVB5Y/?tag=tolees-21)

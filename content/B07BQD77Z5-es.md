@@ -27,8 +27,8 @@ Ahora mismo tienes [Olay Total Effects SPF 30 7 en 1 Crema Hidratante Anti-Edad 
 
 - Nuestra protección UV más potente dentro de la gama Total Effects, SPF 30
 - 7 beneficios en uno que ayudan a mantener la piel joven y radiante
-- De rápida absorción, fórmula no grasa
-- Nuestra fórmula con complejo de VitaNiacina enriquecida con vitaminas B3, C y E ayuda a favorecer la renovación de la superficie de la piel
 - Ayuda a mantener la piel joven y radiante
+- Nuestra fórmula con complejo de VitaNiacina enriquecida con vitaminas B3, C y E ayuda a favorecer la renovación de la superficie de la piel
+- De rápida absorción, fórmula no grasa
 
 [Visítala!!!](https://www.amazon.es/dp/B07BQD77Z5/?tag=tolees-21)

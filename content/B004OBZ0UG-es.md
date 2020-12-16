@@ -25,8 +25,8 @@ Está [Sony CLMV55 - Monitor de 5" con tecnología LCD  Color Negro](https://www
 
 ℹ️:
 
-- Pesa solo 250 g
 - Monitor LCD con clip de 12,7 cm (5"), pantalla WVGA 800 x 480, ángulo ajustable, ampliación de píxeles
+- Pesa solo 250 g
 - Ángulo de visión ajustable
 - Monitor LCD de 12,7 cm
 
