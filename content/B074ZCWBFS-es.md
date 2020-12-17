@@ -25,9 +25,9 @@ Ahora mismo tienes [Seiko Reloj Analógico para Hombre de Cuarzo con Correa en C
 
 🔎:
 
+- Casual
 - Cuarzo
 - Gris oscuro y Marrón
-- Casual
 - Cronógrafo en Piel para Hombre
 - WR 100mt
 
