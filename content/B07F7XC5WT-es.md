@@ -25,9 +25,9 @@ Está [Cleo & Cuquin Muñeca Cleo Bailarina  juguete de la Familia Telerín  Mat
 
 ℹ️:
 
+- Representa las profesiones preferidas de Cleo
+- Incluye un lazo para la muñeca y la niña
 - Peina el pelo de Cleo
 - Muñeca Cleo de 20 cm con conjunto de bailarina de color rosa
-- Incluye un lazo para la muñeca y la niña
-- Representa las profesiones preferidas de Cleo
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07F7XC5WT/?tag=tolees-21)

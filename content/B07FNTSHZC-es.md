@@ -25,15 +25,15 @@ Está [LEGO Duplo Town - Comisaría de policía  Juguete Creativo de construcci�
 
 ℹ️:
 
+- Este juguete infantil de policía es un regalo ideal para pequeños en edad preescolar.
 - Usa los modernos personajes y accesorios junto con los ladrillos decorados para pasarlo genial mientras ayudas a tu pequeño a aprender qué hacen los policías y cómo nos ayudan.
+- Atrapa al ladrón para encerrarlo en la prisión de la Comisaría de Policía.
+- Contiene una Comisaría de Policía de fácil construcción con puerta de la celda que se abre, así como un coche de policía de juguete con luces y sonido de sirena.
+- Ayuda a tu peque a dominar las habilidades básicas de construcción con este sencillo modelo.
 - Incluye 3 figuras LEGO DUPLO: 2 agentes de policía y un ladrón.
 - Pulsa el botón para activar las luces y la sirena del coche de policía.
 - Los productos LEGO DUPLO se diseñan específicamente para ser divertidos y fáciles de usar en las manos de los más pequeños.
-- Ayuda a tu peque a dominar las habilidades básicas de construcción con este sencillo modelo.
 - Mi Ciudad LEGO DUPLO es una gama de productos para coleccionar que facilita la representación de la vida cotidiana de los niños dentro de un mundo DUPLO fácilmente reconocible.
-- Este juguete infantil de policía es un regalo ideal para pequeños en edad preescolar.
-- Atrapa al ladrón para encerrarlo en la prisión de la Comisaría de Policía.
 - Accesorios incluidos: una taza y ladrillos decorados como dónuts y cámara de seguridad.
-- Contiene una Comisaría de Policía de fácil construcción con puerta de la celda que se abre, así como un coche de policía de juguete con luces y sonido de sirena.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FNTSHZC/?tag=tolees-21)

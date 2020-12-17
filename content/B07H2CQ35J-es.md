@@ -25,9 +25,9 @@ Ahora mismo tienes [Naruto to Boruto: Shinobi Striker](https://www.amazon.es/dp/
 
 🔎:
 
-- Personajes y equipos de Naruto en la serie, incluidos Naruto, Sasuke y Team 7
-- Aprovecha el entorno de una arena con movimiento vertical y salto
 - Team 4 vs 4 Gameplay: 8 ninja luchando al mismo tiempo
 - Nuevo estilo gráfico con colores más vivos para personajes, mapas y ninjutsu
+- Aprovecha el entorno de una arena con movimiento vertical y salto
+- Personajes y equipos de Naruto en la serie, incluidos Naruto, Sasuke y Team 7
 
 [Visítala!!!](https://www.amazon.es/dp/B07H2CQ35J/?tag=tolees-21)

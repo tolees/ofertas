@@ -25,10 +25,10 @@ Está [PUMA R78  Zapatillas Unisex Adulto  Rosa  Bubblegum-High Rise White   38.
 
 ℹ️:
 
-- Malla, nylon ripstop y ante sintético superior
-- lengüeta del talón
-- cierre de cordones
 - suela de goma para un mejor agarre
 - La entresuela de EVA para comodidad amortiguada
+- lengüeta del talón
+- Malla, nylon ripstop y ante sintético superior
+- cierre de cordones
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07SBW2BZ1/?tag=tolees-21)

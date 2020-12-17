@@ -25,8 +25,8 @@ Está [Adidas Sambarose  Zapatillas Clasicas para Mujer  Blanco  Cloud White/Cor
 
 ℹ️:
 
+- Suela de plataforma añade 3 cm de altura.
 - Parte superior de piel.
 - Zapatillas
-- Suela de plataforma añade 3 cm de altura.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07DC9TZCP/?tag=tolees-21)

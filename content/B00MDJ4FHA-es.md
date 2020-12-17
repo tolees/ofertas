@@ -25,10 +25,10 @@ Está [FAC 3013055 Cerrojo 101-r/105-p Bombillo 70](https://www.amazon.es/dp/B00
 
 ℹ️:
 
-- Barra en acero calibrado de 18 mm.
-- Acabado pintado.
 - Se acciona por la parte interior con la mano. Para ello se oprime el botón que hay debajo de la barra, a la vez que se empuja el tirador. El exterior funciona con la llave.
 - Placa en acero de 2 mm.
+- Barra en acero calibrado de 18 mm.
+- Acabado pintado.
 - Sistema "R".
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00MDJ4FHA/?tag=tolees-21)

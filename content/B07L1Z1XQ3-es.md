@@ -25,9 +25,9 @@ Tienes [Edge Entertainment Card Wars - Juego de cartas Rey Hielo vs Marceline](h
 
 ℹ️:
 
-- Age range description: de 10 a 99
-- Item package quantity: 1.0
 - Package Dimensions: 4.0 L x 19.5 H x 10.6 W (centimeters)
 - King Ice vs Marceline
+- Item package quantity: 1.0
+- Age range description: de 10 a 99
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07L1Z1XQ3/?tag=tolees-21)
