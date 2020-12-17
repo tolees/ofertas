@@ -25,8 +25,8 @@ Está [Kensington 62397 - Reposamuñecas gel doble para teclado  color azul](htt
 
 ℹ️:
 
+- El cojín de gel se adapta a la curva natural de la muñeca y la mano, permitiéndole trabajar cómodamente con su ordenador
 - Canal de ventilación que mantiene sus manos frías y secas
 - Los reposamuñecas elevan las muñecas ayudándole a mantener una postura ergonómica
-- El cojín de gel se adapta a la curva natural de la muñeca y la mano, permitiéndole trabajar cómodamente con su ordenador
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0178FBICI/?tag=tolees-21)

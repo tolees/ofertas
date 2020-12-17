@@ -25,7 +25,7 @@ Ahora mismo tienes [JACK & JONES JFWALBANY Leather STS  Chukka Boots Hombre  Gri
 
 🔎:
 
-- Botines
 - piel.
+- Botines
 
 [Visítala!!!](https://www.amazon.es/dp/B07CTKSLP4/?tag=tolees-21)

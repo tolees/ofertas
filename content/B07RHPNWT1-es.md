@@ -25,8 +25,8 @@ Ahora mismo tienes [Salomon X Reveal GTX W  Zapatillas de Senderismo Mujer  Azul
 
 🔎:
 
-- Zapatillas de hiking montañismo, alpinismo y trekking mujer
 - Shoes x reveal gtx (l40971100)
 - Calzado salomon
+- Zapatillas de hiking montañismo, alpinismo y trekking mujer
 
 [Visítala!!!](https://www.amazon.es/dp/B07RHPNWT1/?tag=tolees-21)

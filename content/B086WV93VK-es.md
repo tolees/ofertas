@@ -25,8 +25,8 @@ Ahora mismo tienes [AXE Desodorante Bodyspray Black 150 ml](https://www.amazon.e
 
 🔎:
 
-- Tiene un aplicación rápida que ayudará a mantenerte fresco y seco
 - Ofrece una protección duradera y eficaz contra el sudor y los malos olores
 - AXE Edición Especial Sex Education Desodorante Black 150 ml
+- Tiene un aplicación rápida que ayudará a mantenerte fresco y seco
 
 [Visítala!!!](https://www.amazon.es/dp/B086WV93VK/?tag=tolees-21)

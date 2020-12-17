@@ -25,12 +25,12 @@ Tienes [Superga 2750-lamew  Zapatillas de Gimnasia  Blanco  Total White 956   35
 
 ℹ️:
 
-- Diámetro de la pantorrilla: normal.
-- Cierre: cordón.
-- Forro: tela.
-- Material exterior: sintético.
 - Material de la suela: goma.
 - Ancho del zapato: normal.
+- Diámetro de la pantorrilla: normal.
 - Tipo de tacón: sin tacón.
+- Forro: tela.
+- Cierre: cordón.
+- Material exterior: sintético.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07TS8WNL6/?tag=tolees-21)

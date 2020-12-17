@@ -25,10 +25,10 @@ Ahora mismo tienes [Acer Predator XB271HU - Monitor de 27" Wide Quad HD  con NVI
 
 🔎:
 
+- Pantalla de 27,2 pulgadas y resolución WQHD de 2560 x 1440 que permite visualizar imágenes más claras y nítidas
+- Línea Predator XB1: Diseño futurista con base de aluminio, acabado mate y biseles ZeroFrame, con ajustes ergonómicos de inclinación y altura
 - Con NVIDIA G-Sync que elimina el "tearing" de la pantalla y minimiza el parpadeo para proporcionarte sesiones de Gaming legendarias
 - Tecnología antiparpadeo, que reduce el molesto parpadeo de la pantalla causante del desgaste visual al mirar el monitor durante periodos largos de tiempo
-- Pantalla de 27,2 pulgadas y resolución WQHD de 2560 x 1440 que permite visualizar imágenes más claras y nítidas
 - Con tecnología Predator GameView, que permite ajustar los niveles de mejora de zonas oscuras, realizar precisos ajustes de color y configurar la asistencia de apuntado para una precisión milimétrica
-- Línea Predator XB1: Diseño futurista con base de aluminio, acabado mate y biseles ZeroFrame, con ajustes ergonómicos de inclinación y altura
 
 [Visítala!!!](https://www.amazon.es/dp/B017DG09WM/?tag=tolees-21)
