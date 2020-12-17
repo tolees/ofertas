@@ -25,10 +25,10 @@ Ahora mismo tienes [Seiko Reloj Analógico para Hombre de Cuarzo con Correa en C
 
 🔎:
 
-- Casual
-- Gris oscuro y Marrón
 - Cuarzo
-- WR 100mt
+- Gris oscuro y Marrón
+- Casual
 - Cronógrafo en Piel para Hombre
+- WR 100mt
 
 [Visítala!!!](https://www.amazon.es/dp/B074ZCWBFS/?tag=tolees-21)

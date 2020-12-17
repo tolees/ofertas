@@ -26,8 +26,8 @@ Está [adidas Originals Samba  Zapatillas de Fútbol para Hombre  Negro Black Ru
 ℹ️:
 
 - Ventilación Climacool.
-- Cintura elástica con cordón.
 - Bolsillos frontales con cremallera.
+- Cintura elástica con cordón.
 - Visera curvada.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B003QZ7OGE/?tag=tolees-21)
