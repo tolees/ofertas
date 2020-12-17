@@ -25,10 +25,10 @@ Tienes [Batidora Oster BVLB07-ES 4655  600 W  1.25 litros  0 Decibelios  Vidrio 
 
 ℹ️:
 
-- All Metal DriveTM, unión de metal contra metal entre el engranaje del motor y las cuchillas, este sistema evita la pérdida de potencia y el deterioro mecánico
-- Cuchillas de acero capaces de picar hielo
 - 600 W, 3 velocidades
-- Jarra de vidrio de 1,25L con tratamiento en borosilicato, este acabado permite el uso de líquidos tanto a altísimas como a muy bajas temperaturas sin que la jarra se estropee
+- Cuchillas de acero capaces de picar hielo
 - Fácil de limpiar, cuchillas desmontables
+- Jarra de vidrio de 1,25L con tratamiento en borosilicato, este acabado permite el uso de líquidos tanto a altísimas como a muy bajas temperaturas sin que la jarra se estropee
+- All Metal DriveTM, unión de metal contra metal entre el engranaje del motor y las cuchillas, este sistema evita la pérdida de potencia y el deterioro mecánico
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0056A7DTU/?tag=tolees-21)

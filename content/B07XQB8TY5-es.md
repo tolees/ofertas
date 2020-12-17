@@ -25,11 +25,11 @@ Ahora mismo tienes [D-Link DUB-M810 - Hub USB tipo C  8 en 1  adaptador USB C co
 
 🔎:
 
-- Puerto USB-C adicional para datos, con posibilidad de conectar la fuente de alimentación del dispositivo (portátil, tableta, etc.) para carga simultánea con el uso del hub, con capacidad de hasta 20V y 5A (100W)
 - Puerto HDMI 4K (resolución 3840 x 2160), 1080p, y 4096 x 2160 a 30 Hz
 - No necesita instalación de ningún tipo, enchufar y listo, compatible con Windows 10, Mac OS y Chrome OS
-- Puerto de red Gigabit RJ45 (10/100/1000 Mbps, megabits por segundo)
 - Lector de tarjetas micro SD y SD, compatibles SDHC y SDXC (UHS-I)
+- Puerto USB-C adicional para datos, con posibilidad de conectar la fuente de alimentación del dispositivo (portátil, tableta, etc.) para carga simultánea con el uso del hub, con capacidad de hasta 20V y 5A (100W)
 - Hub USB-C con 2 puertos USB 3.0 compatibles con USB 2.0 y USB 1.1, con carcasa de aluminio y cable de 15 cm
+- Puerto de red Gigabit RJ45 (10/100/1000 Mbps, megabits por segundo)
 
 [Visítala!!!](https://www.amazon.es/dp/B07XQB8TY5/?tag=tolees-21)

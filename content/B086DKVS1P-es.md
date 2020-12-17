@@ -26,12 +26,12 @@ Tienes [Nueva Blink Outdoor | Cámara de seguridad HD inalámbrica y resistente 
 ℹ️:
 
 - Ve, escucha y habla a las visitas en la app Blink Home Monitor con las funciones de vídeo en directo en tiempo real y el audio bidireccional (el vídeo en directo no es continuo).
+- Recibe notificaciones de detección de movimiento en tu teléfono: puedes personalizar las zonas de movimiento en la app Blink Home Monitor para recibir alertas únicamente cuando sea necesario.
+- La Blink Outdoor es una cámara de seguridad HD inalámbrica que funciona con pilas con la que podrás vigilar tu casa de día y también de noche gracias a su visión nocturna por infrarrojos.
+- Almacena clips de vídeo en el Cloud con el Blink Subscription Plan (período de prueba gratis hasta el 31 de marzo del 2021) y guárdalos localmente en el Blink Sync Module 2 incluido en la caja a través de una unidad de almacenamiento USB (se vende por separado).
+- La Blink Outdoor está diseñada para resistir a los elementos y ayudarte a proteger el interior y el exterior de tu casa, llueva o haga sol.
+- La Blink Outdoor tiene una autonomía de hasta dos años con dos pilas AA de litio (incluidas).
 - Diseñada para que puedas configurarla en cuestión de minutos. Sin cables y sin necesidad de instalación profesional.
 - Compatible con Alexa: usa tu voz para vigilar tu casa a través de los dispositivos con Alexa integrada compatibles.
-- La Blink Outdoor tiene una autonomía de hasta dos años con dos pilas AA de litio (incluidas).
-- La Blink Outdoor es una cámara de seguridad HD inalámbrica que funciona con pilas con la que podrás vigilar tu casa de día y también de noche gracias a su visión nocturna por infrarrojos.
-- La Blink Outdoor está diseñada para resistir a los elementos y ayudarte a proteger el interior y el exterior de tu casa, llueva o haga sol.
-- Almacena clips de vídeo en el Cloud con el Blink Subscription Plan (período de prueba gratis hasta el 31 de marzo del 2021) y guárdalos localmente en el Blink Sync Module 2 incluido en la caja a través de una unidad de almacenamiento USB (se vende por separado).
-- Recibe notificaciones de detección de movimiento en tu teléfono: puedes personalizar las zonas de movimiento en la app Blink Home Monitor para recibir alertas únicamente cuando sea necesario.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B086DKVS1P/?tag=tolees-21)

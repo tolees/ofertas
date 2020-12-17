@@ -25,8 +25,8 @@ Tienes [Levi s Declan Millstone 2 Tone - Zapatillas para Hombre  Blanco  R White
 
 ℹ️:
 
-- Suela de goma de alta calidad.
 - Suela interior extraíble.
+- Suela de goma de alta calidad.
 - Cordones con 7 orificios.
 - Parche lateral con logotipo
 - Material exterior: piel sintética.

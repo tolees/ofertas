@@ -25,9 +25,9 @@ Tienes [Duracell Pilas especiales alcalinas MN21 de 12 V  paquete de 2 unidades
 
 ℹ️:
 
+- Pilas alcalinas Duracell MN21 se han diseñada para su uso en mandos a distancia inalámbricos, timbres inalámbricos y sistemas de seguridad, alarmas y localizadores
 - Hasta 5 años de almacenamiento
 - Pilas alcalinas Duracell MN21, potencia de larga duración asegurada
 - Las pilas Duracell están disponibles en varios tamaños: J, N, AAAA, MN21, MN11, MN27
-- Pilas alcalinas Duracell MN21 se han diseñada para su uso en mandos a distancia inalámbricos, timbres inalámbricos y sistemas de seguridad, alarmas y localizadores
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B003UOWDCG/?tag=tolees-21)

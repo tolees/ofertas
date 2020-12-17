@@ -1,28 +1,35 @@
 ---
 layout: post
-title: 'Krups KP100B Cafetera Dolce Gusto cápsul al 78.89 % de descuento'
-date: 2020-12-01 12:53:30
+title: 'Krups KP100B Cafetera Dolce Gusto cápsul al 48.39 % de descuento'
+date: 2020-12-17 10:02:13
 image: 'https://m.media-amazon.com/images/I/41+IGeJAVJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B00J99F8KU-es'
-actualPrice: 19.0 EUR
+actualPrice: 46.44 EUR
 currency: EUR
-price: 19.0
+price: 46.44
 comparePrice: 89.99 EUR
 prodname: 'Krups KP100B Cafetera Dolce Gusto cápsulas  monodosis  15 bares presión  cafés  cappuccino  multibebida  1500 W  0.6 litros  antracita'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00J99F8KU/?tag=tolees-21'
-descuento: '78.89'
+descuento: '48.39'
+average: '41.320357142857134'
 ---
 
-Ahora mismo tienes [Krups KP100B Cafetera Dolce Gusto cápsulas  monodosis  15 bares presión  cafés  cappuccino  multibebida  1500 W  0.6 litros  antracita](https://www.amazon.es/dp/B00J99F8KU/?tag=tolees-21) a 19.0 EUR (original: 89.99 EUR) (78.89 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Krups KP100B Cafetera Dolce Gusto cápsulas  monodosis  15 bares presión  cafés  cappuccino  multibebida  1500 W  0.6 litros  antracita](https://www.amazon.es/dp/B00J99F8KU/?tag=tolees-21) a 46.44 EUR (original: 89.99 EUR) (48.39 %  de descuento) en el siguiente enlace!
 
 [![Krups KP100B Cafetera Dolce Gusto cápsul](https://m.media-amazon.com/images/I/41+IGeJAVJL._SL200_.jpg)](https://www.amazon.es/dp/B00J99F8KU/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Piccolo es tan versátil que también podrás preparar deliciosas bebidas frías con facilidad
+- Ultra compacta, de pequeño y moderno diseño (medidas: 16 cm x 29 cm x 22 cm)
+- Pack de bienvenida de 6 cápsulas incluido en tu cafetera de cápsulas de regalo
+- Simplemente inserta tu cápsula y, con un sencillo movimiento de la palanca manual, podrás preparar de forma perfecta la bebida que deseas
+- El modo ecológico hace que la cafetera NESCAFÉ Dolce Gusto Piccolo se apague tras 5 minutos de inactividad
+- Café de calidad profesional con una capa densa y cremosa gracias al sistema de alta presión de las máquinas (más de 15 bares)
 
 [Visítala!!!](https://www.amazon.es/dp/B00J99F8KU/?tag=tolees-21)

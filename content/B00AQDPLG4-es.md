@@ -25,10 +25,10 @@ Está [L´Oréal Paris Make Up Artist Pintalabios Infallible Permanente 24H  Col
 
 ℹ️:
 
-- Pintalabios de larga duración para un resultado mate intacto 24 horas
 - Primero aplica el color con pigmentos mate y cuando se seque, aplica el hidratante potenciador del color
-- Su textura líquida enriquecida con ácido hialurónico se fija en tus labios sin manchar o agrietarse
-- Color permanente hasta 24 horas disponible en 22 tonos
 - Resistencia absoluta para unos labios hidratados y confortables, sin retoques
+- Pintalabios de larga duración para un resultado mate intacto 24 horas
+- Color permanente hasta 24 horas disponible en 22 tonos
+- Su textura líquida enriquecida con ácido hialurónico se fija en tus labios sin manchar o agrietarse
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00AQDPLG4/?tag=tolees-21)
