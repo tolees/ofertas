@@ -25,9 +25,9 @@ Tienes [Pop! Animation: Naruto - Orochimaru](https://www.amazon.es/dp/B07XH4H4K9
 
 ℹ️:
 
-- De la colección naruto, orochimaru como figura de vinilo pop de funko
-- La figura mide 9 cm y se envía en una caja ilustrada con ventana
-- Funko pop. El juguete del año 2018
 - Descúbre otras figuras de la colección naruto y colecciónalas todas
+- De la colección naruto, orochimaru como figura de vinilo pop de funko
+- Funko pop. El juguete del año 2018
+- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07XH4H4K9/?tag=tolees-21)

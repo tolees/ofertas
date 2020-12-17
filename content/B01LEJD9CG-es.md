@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'POP! Bobble - Daredevil: Elektra al 33.36 % de descuento'
-date: 2020-12-14 19:28:59
+date: 2020-12-17 12:41:24
 image: 'https://m.media-amazon.com/images/I/51RvE0vN1kL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LEJD9CG/?tag=tolees-21'
 descuento: '33.36'
-average: '9.339864864864863'
+average: '9.356973684210523'
 ---
 
 Está [POP! Bobble - Daredevil: Elektra](https://www.amazon.es/dp/B01LEJD9CG/?tag=tolees-21) con 33.36 de descuento por 9.99 EUR (original: 14.99 EUR) en el siguiente enlace!
@@ -26,7 +26,7 @@ Está [POP! Bobble - Daredevil: Elektra](https://www.amazon.es/dp/B01LEJD9CG/?ta
 ℹ️:
 
 - Viene embalado en una caja con ventanas ilustrada
-- Material 100% vinilo
 - Cada personaje mide alrededor de 9 cm de altura
+- Material 100% vinilo
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01LEJD9CG/?tag=tolees-21)

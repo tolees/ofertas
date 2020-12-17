@@ -25,10 +25,10 @@ Ahora mismo tienes [WMF El Principito - Cubertería para niños 4 piezas  tenedo
 
 🔎:
 
-- Grupo de edad: comer por sí mismo (3+)
 - Los diseños de la cubertería son resistentes a los arañazos, seguros para los alimentos y están llenos de color
+- Grupo de edad: comer por sí mismo (3+)
 - Dimensiones ergonómicas, higiénico, resistente a los ácidos y duradero
-- Material Cromargan 18/10 acero inoxidable pulido
 - Compuesto por 1 tenedor, 1 cuchillo mesa, 1 cuchara y 1 cuchara pequeña
+- Material Cromargan 18/10 acero inoxidable pulido
 
 [Visítala!!!](https://www.amazon.es/dp/B00X3LFPQ2/?tag=tolees-21)

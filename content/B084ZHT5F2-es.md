@@ -25,10 +25,10 @@ Está [Educa- Planeta Tierra-Speed Animals Juego de Mesa  Multicolor  18709 ](ht
 
 ℹ️:
 
-- Planeta Tierra una divertida colección de juegos familiares para explorar el mundo, sus riquezas y concienciarse sobre la necesidad de protección del medio ambiente
+- Sé el primer explorador en encontrar los animales que poseen las características destacadas
 - Recomendado a partir de 7 años
 - Es un juego de rapidez donde te divertirás aprendiendo más sobre los animales
 - Contenido: 96 cartas, tablero de juego, 4 peones, 3 fichas e instrucciones
-- Sé el primer explorador en encontrar los animales que poseen las características destacadas
+- Planeta Tierra una divertida colección de juegos familiares para explorar el mundo, sus riquezas y concienciarse sobre la necesidad de protección del medio ambiente
 
 [Ver la oferta!!](https://www.amazon.es/dp/B084ZHT5F2/?tag=tolees-21)

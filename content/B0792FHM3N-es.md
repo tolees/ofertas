@@ -25,13 +25,13 @@ Tienes [Geox D Felicity F  Botines Mujer  Negro  Black C9999   39 EU](https://ww
 
 ℹ️:
 
-- Revestimiento: Sintético
-- Tipo de tacón: Plano
-- Diámetro de eje: Tobillo
-- Material de la suela: Sintético
-- Cierre: Cremallera
 - Material exterior: Cuero
 - Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
 - Altura del tacón: 3.5 centímetros
+- Material de la suela: Sintético
+- Revestimiento: Sintético
+- Tipo de tacón: Plano
+- Diámetro de eje: Tobillo
+- Cierre: Cremallera
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0792FHM3N/?tag=tolees-21)

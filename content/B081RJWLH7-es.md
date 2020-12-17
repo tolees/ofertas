@@ -25,10 +25,10 @@ Está [Artscope Juego de 4 Funda de Cojín 45x45cm Funda de Almohada para Cojín
 
 ℹ️:
 
-- ★ Cuidado de Lavavo: lavado con agua fría o lavable a máquina. Juego de 4 fundas de cojines para decorar tu hogar (¡el inserto de almohada no está incluido!)
-- ★ Estilo Simple Moderno: el estilo simple decora el dormitorio o el sofá de la sala de estar para hacer que su hogar sea más cálido, más moderno. Cree comodidad con estilo en el sofá, banco, silla, oficina, sofá o dormitorio, sala de estar, cafetería, patio, etc. Si coloca esta funda de almohada en el automóvil, sus pasajeros se divertirán más durante el viaje. ¡Es muy maravilloso!
-- ★ Cremallera Oculto: cierre invisible de cremallera en un lado, fácil de insertar y quitar la almohada. El diseño oculto de la cremallera hace que las fundas de almohada sean más hermosas y no te rayen.
-- ★ Tamaño Perfecto: cada funda de almohada mide 45x45 cm (18x18 pulgadas). Por favor permita una desviación de 1 ~ 2 cm porque es un producto hecho a mano. El patrón es sólo en la parte frontal.
 - ★ Artscope las fundas de cojín están hechas de tela de lino de algodón suave, duradera y ecológica, de alta calidad. A diferencia de otras telas de lino de algodón ligeras y duras, nuestra tela de lino de algodón es suave y agradable al tacto, y el patrón es más atractivo.
+- ★ Cremallera Oculto: cierre invisible de cremallera en un lado, fácil de insertar y quitar la almohada. El diseño oculto de la cremallera hace que las fundas de almohada sean más hermosas y no te rayen.
+- ★ Estilo Simple Moderno: el estilo simple decora el dormitorio o el sofá de la sala de estar para hacer que su hogar sea más cálido, más moderno. Cree comodidad con estilo en el sofá, banco, silla, oficina, sofá o dormitorio, sala de estar, cafetería, patio, etc. Si coloca esta funda de almohada en el automóvil, sus pasajeros se divertirán más durante el viaje. ¡Es muy maravilloso!
+- ★ Tamaño Perfecto: cada funda de almohada mide 45x45 cm (18x18 pulgadas). Por favor permita una desviación de 1 ~ 2 cm porque es un producto hecho a mano. El patrón es sólo en la parte frontal.
+- ★ Cuidado de Lavavo: lavado con agua fría o lavable a máquina. Juego de 4 fundas de cojines para decorar tu hogar (¡el inserto de almohada no está incluido!)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B081RJWLH7/?tag=tolees-21)

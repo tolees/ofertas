@@ -25,10 +25,10 @@ Tienes [OLAY Total effects 7 en 1 crema de noche hidratante reafirmante caja 50 
 
 ℹ️:
 
-- Aplicar en el rostro y el cuello
-- De absorción rápida
-- Hidratante reafirmante de noche anti-edad 7-en-uno, presentada por la marca líder del mundo en el cuidado facial femenino
 - Dermatológicamente testado
+- Hidratante reafirmante de noche anti-edad 7-en-uno, presentada por la marca líder del mundo en el cuidado facial femenino
+- De absorción rápida
+- Aplicar en el rostro y el cuello
 - Contiene el complejo multivitamínico dermatológico VitaNiacin con vitaminas B3, E y C
 - Combate los 7 signos del envejecimiento para obtener una piel con un aspecto joven y saludable cada mañana
 

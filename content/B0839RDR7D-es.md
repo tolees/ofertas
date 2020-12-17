@@ -26,9 +26,9 @@ Tienes [Nancy-Un día Haciendo Surf  Incluye Muñeca con Tabla y Neopreno  para 
 ℹ️:
 
 - Nancy mide 42 cm de largo y tiene sistema de drenaje para poder sumergirla en el agua
-- Para regalar a las niñas a las que les gusta llevar a su muñeca a la piscina o a la playa para crear mil historias y aventuras acuáticas
 - Nancy un día haciendo surf es la muñeca que todas las niñas van a querer tener para llevar a la playa o la piscina
-- Nancy, tiene un largo cabello rubio californiano y viste un traje de baño con parte de arriba de neopreno
+- Para regalar a las niñas a las que les gusta llevar a su muñeca a la piscina o a la playa para crear mil historias y aventuras acuáticas
 - Además incluye una tabla de surf a juego con su camsieta de neopreno que flota en el agua y con la que la niña podrá jugar a surfear todas las olas
+- Nancy, tiene un largo cabello rubio californiano y viste un traje de baño con parte de arriba de neopreno
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0839RDR7D/?tag=tolees-21)

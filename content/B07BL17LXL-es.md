@@ -25,11 +25,11 @@ Tienes [New Balance 997H Core  Zapatillas para Hombre  Negro  Black Silver Charc
 
 ℹ️:
 
-- Material de la suela: Sintético
-- Composición: Empeine de malla/ante
-- Material exterior: Cuero
-- Revestimiento: Tela
 - Cierre: Cordones
+- Revestimiento: Tela
+- Material exterior: Cuero
 - Tipo de tacón: Plano
+- Composición: Empeine de malla/ante
+- Material de la suela: Sintético
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BL17LXL/?tag=tolees-21)
