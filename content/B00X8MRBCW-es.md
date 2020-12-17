@@ -25,10 +25,10 @@ Ahora mismo tienes [Canon EF 50mm f/1.8 STM - Objetivo  Negro](https://www.amazo
 
 🔎:
 
-- Ideal para retratos, acción y fotografía nocturna
-- Motor paso a paso (stm) ofrece casi silencioso, continous move servo af para películas y suave af para imágenes fijas
-- 50. Mm de longitud focal y abertura máxima de f/1. 8
-- Distancia mínima de enfoque de 1, 15. Pies (0. 35. M) y un aumento máximo de 0, 21. X
 - Eficaz focal-length en cámaras aps-c, 50. Mm en cámaras de fotograma completo de 80. Mm; tamaño de rosca 49. Mm
+- 50. Mm de longitud focal y abertura máxima de f/1. 8
+- Motor paso a paso (stm) ofrece casi silencioso, continous move servo af para películas y suave af para imágenes fijas
+- Ideal para retratos, acción y fotografía nocturna
+- Distancia mínima de enfoque de 1, 15. Pies (0. 35. M) y un aumento máximo de 0, 21. X
 
 [Visítala!!!](https://www.amazon.es/dp/B00X8MRBCW/?tag=tolees-21)

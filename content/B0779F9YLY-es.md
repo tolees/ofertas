@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Deep Silver - Consola The C64 Mini al 37.55 % de descuento'
-date: 2020-12-12 21:28:15
+date: 2020-12-17 22:28:03
 image: 'https://m.media-amazon.com/images/I/51YjmvebcNL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0779F9YLY/?tag=tolees-21'
 descuento: '37.55'
+average: '49.95'
 ---
 
 Ahora mismo tienes [Deep Silver - Consola The C64 Mini](https://www.amazon.es/dp/B0779F9YLY/?tag=tolees-21) a 49.95 EUR (original: 79.99 EUR) (37.55 %  de descuento) en el siguiente enlace!
@@ -24,10 +25,10 @@ Ahora mismo tienes [Deep Silver - Consola The C64 Mini](https://www.amazon.es/dp
 
 🔎:
 
-- THE C64 Mini es una nueva concepción del ordenador doméstico que fue un éxito de ventas en la década de 1980. Con la mitad del tamaño del original
-- Viene con 64 juegos preinstalados
-- El THEC64 Mini se enchufa directamente a tu televisión a través de puerto HDMI
-- Incluye cable USB sin adaptador a corriente eléctrica
 - Incluye un clásico joystick, que se conecta a uno de los dos puertos USB disponibles, permitiendo al usuario jugar a los títulos integrados en el ordenador
+- THE C64 Mini es una nueva concepción del ordenador doméstico que fue un éxito de ventas en la década de 1980. Con la mitad del tamaño del original
+- Incluye cable USB sin adaptador a corriente eléctrica
+- El THEC64 Mini se enchufa directamente a tu televisión a través de puerto HDMI
+- Viene con 64 juegos preinstalados
 
 [Visítala!!!](https://www.amazon.es/dp/B0779F9YLY/?tag=tolees-21)

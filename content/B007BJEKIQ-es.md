@@ -25,11 +25,11 @@ Está [BaByliss C332E Tenacilla de pelo de 32 mm  10 ajustes de temperatura  mol
 
 ℹ️:
 
-- 10 posiciones de 110° C a 180° C
-- Diámetro de 38 mm
-- Soporte de apoyo
 - Cable giratorio
+- Diámetro de 38 mm
+- 10 posiciones de 110° C a 180° C
 - Fuente de alimentación: Red
+- Soporte de apoyo
 - Punta fría de agarre
 
 [Ver la oferta!!](https://www.amazon.es/dp/B007BJEKIQ/?tag=tolees-21)

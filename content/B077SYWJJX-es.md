@@ -27,7 +27,7 @@ Ahora mismo tienes [Maletín Go Kart](https://www.amazon.es/dp/B077SYWJJX/?tag=t
 
 - Desarrolla la imaginación y la creatividad
 - Incluye una figura, coche, bidón y señalización
-- Contiene 29 piezas
 - Juego individual o en grupo
+- Contiene 29 piezas
 
 [Visítala!!!](https://www.amazon.es/dp/B077SYWJJX/?tag=tolees-21)

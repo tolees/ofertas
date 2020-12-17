@@ -25,11 +25,11 @@ Ahora mismo tienes [Brabantia Sort & Go Cubo de Basura  12 L  Plástico  Menta  
 
 🔎:
 
-- Unidad compacta que ahorra espacio – óptimo para separar los residuos del hogar
 - Se puede utilizar de pie o colgarlo de la pared – soporte de fijación incluido
 - Para reciclar los desperdicios a tu manera
-- Capacidad de 12 litros
 - Disponibles bolsas de basura PerfecFit de Brabantia con autocierre – fáciles de ajustar
+- Capacidad de 12 litros
 - Material: plástico
+- Unidad compacta que ahorra espacio – óptimo para separar los residuos del hogar
 
 [Visítala!!!](https://www.amazon.es/dp/B01E6A73AY/?tag=tolees-21)
