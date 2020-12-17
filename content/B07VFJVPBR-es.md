@@ -25,10 +25,10 @@ Está [Logitech M350 PEBBLE Ratón Inalámbrico  Bluetooth o 2.4 GHz con Recepto
 
 ℹ️:
 
-- Conectividad Doble: Conecta como prefieras, mediante tecnología inalámbrica Bluetooth o con el mini receptor USB incluido
-- Compacta y Preciosa Forma de Guijarro: Disfrute su diseño agradable al tacto, y fácil de llevarlo
 - Adecuada Duración de la Pila: La carga de Logitech Pebble dura hasta 18 meses con una sola pila AA, compatibilidad Windows, Mac OS y i Pad OS
 - Seguimiento Óptico de Adecuada Precisión: Logitech Pebble realiza un seguimiento rápido y preciso donde quiera que lo uses
+- Compacta y Preciosa Forma de Guijarro: Disfrute su diseño agradable al tacto, y fácil de llevarlo
+- Conectividad Doble: Conecta como prefieras, mediante tecnología inalámbrica Bluetooth o con el mini receptor USB incluido
 - Clic Silenciosos y Desplazamiento silencioso: Disfruta de una experiencia de uso silencioso con la misma sensación de clic
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07VFJVPBR/?tag=tolees-21)
