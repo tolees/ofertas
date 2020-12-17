@@ -25,12 +25,12 @@ Tienes [Bizak - Patrulla Canina Vehículo y Figura Ultimate Rescue Modelos Surti
 
 ℹ️:
 
-- Figuras adecuadamente decoradas, se sirven de manera aleatoria
-- Vehículo de mayor tamaño para llevar hasta dos figuras a las misiones de rescate
-- Incluye 1 Vehículo y 1 figura
-- Se puede unir con los mini vehículos Ultimate Rescue para llevar más refuerzos a la acción
-- Incluye herramientas giratorias para facilitar los rescates
 - Modelos surtidos enviados al azar
 - Vehículos decorados con la temática Ultimate Rescue
+- Incluye 1 Vehículo y 1 figura
+- Incluye herramientas giratorias para facilitar los rescates
+- Se puede unir con los mini vehículos Ultimate Rescue para llevar más refuerzos a la acción
+- Figuras adecuadamente decoradas, se sirven de manera aleatoria
+- Vehículo de mayor tamaño para llevar hasta dos figuras a las misiones de rescate
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07C7C5J5N/?tag=tolees-21)
