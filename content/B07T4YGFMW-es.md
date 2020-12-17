@@ -27,7 +27,7 @@ Ahora mismo tienes [Kappa Authentic 222 GARKO 1  Zapatillas Deportivas para Homb
 
 - Banda Kappa
 - Comodidad y estilo
-- Comodidad en cada pisada
 - Omini Kappa
+- Comodidad en cada pisada
 
 [Visítala!!!](https://www.amazon.es/dp/B07T4YGFMW/?tag=tolees-21)

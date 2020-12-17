@@ -25,10 +25,10 @@ Ahora mismo tienes [Pop! Vinilo: Dragonball Z S6: Chi Chi](https://www.amazon.es
 
 🔎:
 
+- Funko pop vinyl
+- De la colección dragonball z, chi chi como figura de vinilo pop de funko
 - Juguete del año 2018
 - Chi Chi
-- Funko pop vinyl
 - Animation: dragonball z s6
-- De la colección dragonball z, chi chi como figura de vinilo pop de funko
 
 [Visítala!!!](https://www.amazon.es/dp/B07MZPW4LR/?tag=tolees-21)

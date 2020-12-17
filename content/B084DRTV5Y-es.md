@@ -26,7 +26,7 @@ Ahora mismo tienes [Clarks Rendell Work  Bota a la Altura de la Pantorrilla Homb
 🔎:
 
 - Material exterior: piel lisa.
-- Material interior: sintético.
 - Suela: piel y goma.
+- Material interior: sintético.
 
 [Visítala!!!](https://www.amazon.es/dp/B084DRTV5Y/?tag=tolees-21)

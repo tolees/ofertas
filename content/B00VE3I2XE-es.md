@@ -25,8 +25,8 @@ Ahora mismo tienes [Emsa 403762 Jarra Térmica  Azul  0 5 L](https://www.amazon.
 
 🔎:
 
-- Mantiene el calor 6 h y el frio 12 h. De alta calidad, tanque de acero inoxidable
-- Grande: basado en los tamaños grandes de las cadenas de cafeterias internacionales
 - Zona de agarre de silicona con letras grabadas. Base antideslizante
+- Grande: basado en los tamaños grandes de las cadenas de cafeterias internacionales
+- Mantiene el calor 6 h y el frio 12 h. De alta calidad, tanque de acero inoxidable
 
 [Visítala!!!](https://www.amazon.es/dp/B00VE3I2XE/?tag=tolees-21)

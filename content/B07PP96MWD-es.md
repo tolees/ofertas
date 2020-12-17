@@ -28,7 +28,7 @@ Está [Hisense WFGS9014V - Lavadora Superior Carga Frontal 9 Kg  1400 RPM  Motor
 - Capacidad de Carga 9Kg con una Eficiencia energética A+++ (-20%) y 1400 RPM
 - Ayuda a la dosificación Dose Assist, saber la cantidad exacta de detergente que se necesita en cada lavado
 - Dimensiones del producto (Ancho x Alto x Profundo) (Cm): 60 x 85 x 61
-- Lavado con Aire Ionizado Elimina hasta un 30% más de manchas incluso a bajas temperaturas de 20° C a 40° C
 - Motor Inverter extremadamente potente y altamente eficiente, consigue menor nivel de ruido y resultados de lavado mejorados
+- Lavado con Aire Ionizado Elimina hasta un 30% más de manchas incluso a bajas temperaturas de 20° C a 40° C
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07PP96MWD/?tag=tolees-21)

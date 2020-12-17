@@ -25,8 +25,8 @@ Tienes [Lee Extreme Motion Straight Pantalones  Cougar  29W / 30L para Hombre](h
 
 ℹ️:
 
+- Cintura flexible
 - Clasico botón tipo “donut”
 - Tejido elástico
-- Cintura flexible
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JW44MKT/?tag=tolees-21)

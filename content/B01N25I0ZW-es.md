@@ -26,7 +26,7 @@ Ahora mismo tienes [Geox UOMO Symbol D  Zapatos con Velcro Hombre  Negro  44 EU]
 🔎:
 
 - 1
-- Piel , cuero, Textil sintético, Piel , cuero, caucho, Derbie
 - Shoe Width : medium
+- Piel , cuero, Textil sintético, Piel , cuero, caucho, Derbie
 
 [Visítala!!!](https://www.amazon.es/dp/B01N25I0ZW/?tag=tolees-21)
