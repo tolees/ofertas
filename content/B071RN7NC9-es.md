@@ -25,9 +25,9 @@ Tienes [find. Mocasines Destalonados para Mujer  Negro  Black   41 EU](https://w
 
 ℹ️:
 
-- Puntera cuadrada
-- Estilo sofisticado y contemporáneo
-- Lengüeta estilo mocasín
 - Tacón bajo
+- Estilo sofisticado y contemporáneo
+- Puntera cuadrada
+- Lengüeta estilo mocasín
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B071RN7NC9/?tag=tolees-21)
