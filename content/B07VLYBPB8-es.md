@@ -26,9 +26,9 @@ Tienes [Coquimbo Linterna Taller LED Recargable  Talla Grande 360°Rotate 5 Modo
 ℹ️:
 
 - Base de imán: El fondo de Linterna Led Recargable de la magnética fuerte, se puede adsorber en hierro. Así que puede liberar sus manos para hacer otras cosas.
-- Linterna Led Recargable: Incorporado 2x 3.7v 1200mAh 18650 baterías del Li-ion y el cable micro del cargador del USB está incluido.
+- Extremadamente versátil: Grande para el hogar, al aire libre, el taller, el coche, el acampar, la caza, la pesca, el paseo del perro y el uso ligero de la emergencia.Y puede llevar la Linterna Led Recargable no importa dónde usted viaja.
 - Gancho giratorio 360°: Hay un gancho giratorio de 360 ° en la parte superior de la Linterna Led Recargable, por lo que la lámpara se puede colgar en todas partes fácilmente.
 - Modos de luz de trabajo de 2 vías: Alto brillo / Medio brillo / Iluminación frontal / Advertencia roja / Luz estroboscópica roja. Linterna Led Recargable tiene 2 modos de iluminación: el LED de haz de luz de 3W en la parte superior y la luz de cerca (COB LED) en el lado dos modos de iluminación diferentes para satisfacer sus necesidades de iluminación.
-- Extremadamente versátil: Grande para el hogar, al aire libre, el taller, el coche, el acampar, la caza, la pesca, el paseo del perro y el uso ligero de la emergencia.Y puede llevar la Linterna Led Recargable no importa dónde usted viaja.
+- Linterna Led Recargable: Incorporado 2x 3.7v 1200mAh 18650 baterías del Li-ion y el cable micro del cargador del USB está incluido.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07VLYBPB8/?tag=tolees-21)

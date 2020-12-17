@@ -25,10 +25,10 @@ Está [The Bellies From Bellyville- Beastree House  casa de los Beasties Amigos 
 
 ℹ️:
 
-- Recomendado a partir de 3 años
-- Los Beasties son los mejores amigos de los Bellies, les encanta quitarles las cosas a los Bellies y son aún más traviesos
-- Tiene una cesta para subir las cosas que le quitan a los Bellies, una hamaca para descansar y un biberón grande para beber agua
 - Incluye la Beastree House y accesorios
+- Recomendado a partir de 3 años
+- Tiene una cesta para subir las cosas que le quitan a los Bellies, una hamaca para descansar y un biberón grande para beber agua
+- Los Beasties son los mejores amigos de los Bellies, les encanta quitarles las cosas a los Bellies y son aún más traviesos
 - Beastree House es la increíble casa árbol de los Beasties; un lugar seguro donde los Beasties guardan todo lo que le quitan a los traviesos Bellies
 
 [Ver la oferta!!](https://www.amazon.es/dp/B088MTQ93S/?tag=tolees-21)

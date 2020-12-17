@@ -25,10 +25,10 @@ Está [Olay Total Effects 7 en 1 Tónico Limpiador - 200 ml](https://www.amazon
 
 ℹ️:
 
-- Tónico limpiador revitalizante
-- Aplicar en el rostro y el cuello
-- Dermatológicamente testado
 - Contiene el complejo supermultivitamínico dermatológico VitaNiacinTM con vitaminas B3, E y C
+- Dermatológicamente testado
+- Aplicar en el rostro y el cuello
 - Exfolia la piel y mejora el proceso natural de regeneración de la epidermis, otorgándole un aspecto saludable
+- Tónico limpiador revitalizante
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00OUV34IA/?tag=tolees-21)

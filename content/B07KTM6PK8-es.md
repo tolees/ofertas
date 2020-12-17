@@ -25,7 +25,7 @@ Tienes [Asmodee- Heroes A Medida - Español  Color](https://www.amazon.es/dp/B07
 
 ℹ️:
 
-- Juego de mesa
 - Juego de cartas
+- Juego de mesa
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KTM6PK8/?tag=tolees-21)

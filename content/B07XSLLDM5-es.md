@@ -25,8 +25,8 @@ Tienes [Ufesa - Purificador de Aire PF4500 Sistema de filtrado 3 capas: Pre filt
 
 ℹ️:
 
-- Temporizador: 2-4 o 8 horas
 - Función iónica
+- Temporizador: 2-4 o 8 horas
 - Ideal para superficie hasta 25 m2
 - Sistema de filtrado de 3 capas: pre filtro + filtro carbono activo + filtro hepa
 - Tasa de producción de aire limpio (cadr): 95 m3/h

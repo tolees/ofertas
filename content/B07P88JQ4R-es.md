@@ -25,13 +25,13 @@ Tienes [Jata EX1044 Exprimidor eléctrico de gran potencia Profesional Series de
 
 ℹ️:
 
-- Limpieza: se desmonta lo que permite así una fácil limpieza. Además cuenta con sistema antigoteo evitando manchar la superficie sobre la que esté el exprimidor
-- Potencia: 300 W lo que le permite ser muy rápido extrayendo el zumo de cualquier fruta
-- Silencioso
-- Brazo: cuenta con brazo lo que permite extraer el zumo de cualquier fruta sin hacer esfuerzo
 - Antideslizante: su base no se mueve del sitio sobre el que está colocada evitando así que el zumo se pueda desparramar
-- Conos: lleva dos conos para conseguir la máxima eficacia y sacar así el zumo tanto de las frutas pequeñas como de las grandes
+- Silencioso
+- Limpieza: se desmonta lo que permite así una fácil limpieza. Además cuenta con sistema antigoteo evitando manchar la superficie sobre la que esté el exprimidor
 - Garantía: todos los productos Jata cuentan con hasta 3 años de garantía
+- Potencia: 300 W lo que le permite ser muy rápido extrayendo el zumo de cualquier fruta
+- Conos: lleva dos conos para conseguir la máxima eficacia y sacar así el zumo tanto de las frutas pequeñas como de las grandes
 - Acero inoxidable: su cuerpo, el filtro y el vertedor son de acero inoxidable
+- Brazo: cuenta con brazo lo que permite extraer el zumo de cualquier fruta sin hacer esfuerzo
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07P88JQ4R/?tag=tolees-21)

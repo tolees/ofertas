@@ -25,10 +25,10 @@ Está [EGLO TOWNSHEND 5 lámpara colgante  60 W  Negro  marrón](https://www.ama
 
 ℹ️:
 
-- Lámpara colgante en diseño industrial elegante para interiores como salón, dormitorio, comedor, cocina o pasillo.
-- Las bombillas de filamento de la imagen no están incluidas en el envío y se venden por separado.
-- Cuando la lámpara se enciende, se crea a través de las pantallas de alambre una fascinante combinación de luz y sombra. Gracias a la sencilla técnica de enrollado, las sombrillas se pueden colgar de diferentes alturas.
-- La moderna mezcla de materiales de la vigas de madera maciza y clara y de acero negro confiere a esta lámpara un fantástico aspecto vintage.
 - Adecuado para cualquier bombilla con casquillo E27 (clase energética A++ hasta E, voltaje máximo por casquillo 60 W). Regulable según la bombilla utilizada.
+- Las bombillas de filamento de la imagen no están incluidas en el envío y se venden por separado.
+- Lámpara colgante en diseño industrial elegante para interiores como salón, dormitorio, comedor, cocina o pasillo.
+- La moderna mezcla de materiales de la vigas de madera maciza y clara y de acero negro confiere a esta lámpara un fantástico aspecto vintage.
+- Cuando la lámpara se enciende, se crea a través de las pantallas de alambre una fascinante combinación de luz y sombra. Gracias a la sencilla técnica de enrollado, las sombrillas se pueden colgar de diferentes alturas.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07VF1GF5F/?tag=tolees-21)
