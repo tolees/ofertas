@@ -25,10 +25,10 @@ Ahora mismo tienes [Durable 710210 almohadilla de escritorio  con ranura decorat
 
 🔎:
 
-- Los blocs de notas duraderos son más cómodos y tienen un aspecto atractivo en el lugar de trabajo
 - Una almohadilla de escritura con una superficie de escritura elástica para trabajar cómodamente
-- Almohadilla de escritorio 53x40 cm, ideal para la oficina y la oficina en casa
+- Los blocs de notas duraderos son más cómodos y tienen un aspecto atractivo en el lugar de trabajo
 - Descanso de escritorio gris con ranura decorativa
+- Almohadilla de escritorio 53x40 cm, ideal para la oficina y la oficina en casa
 - Alfombrilla de escritorio antideslizante para una escritura segura
 
 [Visítala!!!](https://www.amazon.es/dp/B000KT92PA/?tag=tolees-21)

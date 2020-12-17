@@ -25,10 +25,10 @@ Ahora mismo tienes [Rocketbook Cuaderno Digital Inteligente Core Diario Reutiliz
 
 🔎:
 
-- [REGALO PERFECTO] ¿No sabes qué comprar como regalo? Los maestros y estudiantes no necesitan más tazas o llaveros. ¡Cómprales el bloc de notas del futuro!
 - [NUNCA COMPRES OTRO CUADERNO] Presentamos el primer cuaderno de notas infinitamente reutilizable del mundo - 36 páginas reutilizables que se limpian con un paño húmedo cuando se utiliza con los bolígrafos FriXion de Pilot
+- [PAPEL DE PUNTOS] El Cuaderno Digital Inteligente viene en tamaños Executive, Letter y ahora Mini.
 - [SUBE TUS NOTAS A CUALQUIER SITIO] Envía imágenes de alta resolución de tus notas a Google Docs, Dropbox, iCloud, Evernote, correo electrónico y mucho más utilizando la aplicación de configuración rápida.
 - [EL MODERNO PLANIFICADOR PARA ESTUDIANTES Y PROFESORES] Al digitalizar las notas para el futuro, no tendrás que preocuparte nunca más de encontrar planes de estudio o notas de revisión. Guárdalo todo en la nube
-- [PAPEL DE PUNTOS] El Cuaderno Digital Inteligente viene en tamaños Executive, Letter y ahora Mini.
+- [REGALO PERFECTO] ¿No sabes qué comprar como regalo? Los maestros y estudiantes no necesitan más tazas o llaveros. ¡Cómprales el bloc de notas del futuro!
 
 [Visítala!!!](https://www.amazon.es/dp/B07CZ37LP3/?tag=tolees-21)

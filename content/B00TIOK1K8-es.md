@@ -1,33 +1,33 @@
 ---
 layout: post
-title: 'Descuento del 45.15 % en Dolce & Gabbana Pour Homme Perfume Hombr'
-date: 2020-12-15 23:53:20
+title: 'Descuento del 45.32 % en Dolce & Gabbana Pour Homme Perfume Hombr'
+date: 2020-12-17 00:37:16
 image: 'https://m.media-amazon.com/images/I/41r-8O2wuoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B00TIOK1K8-es'
-actualPrice: 65.0 EUR
+actualPrice: 64.79 EUR
 currency: EUR
-price: 65.0
+price: 64.79
 comparePrice: 118.5 EUR
 prodname: 'Dolce & Gabbana Pour Homme Perfume Hombre - 200 ml'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TIOK1K8/?tag=tolees-21'
-descuento: '45.15'
-average: '62.43152173913041'
+descuento: '45.32'
+average: '62.52979166666665'
 ---
 
-Tienes [Dolce & Gabbana Pour Homme Perfume Hombre - 200 ml](https://www.amazon.es/dp/B00TIOK1K8/?tag=tolees-21) con un 45.15 % de descuento con precio de oferta de 65.0 EUR (original: 118.5 EUR) en el siguiente enlace!
+Tienes [Dolce & Gabbana Pour Homme Perfume Hombre - 200 ml](https://www.amazon.es/dp/B00TIOK1K8/?tag=tolees-21) con un 45.32 % de descuento con precio de oferta de 64.79 EUR (original: 118.5 EUR) en el siguiente enlace!
 
 [![Dolce & Gabbana Pour Homme Perfume Hombr](https://m.media-amazon.com/images/I/41r-8O2wuoL._SL200_.jpg)](https://www.amazon.es/dp/B00TIOK1K8/?tag=tolees-21)
 
 ℹ️:
 
+- Nota de corazón: aromático y sorprendente, de lavanda, salvia y estragón
 - Fragancia: aromática fougère
 - Nota de salida: fresca y cítrica compuesta por bergamota, mandarina y naranja
-- Nota de corazón: aromático y sorprendente, de lavanda, salvia y estragón
 - Nota de fondo: amaderado con sándalo, cedro y el componente masculino se lo ofrece el tabaco y el iris
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00TIOK1K8/?tag=tolees-21)

@@ -25,7 +25,7 @@ Está [G-STAR RAW Revend Skinny Vaqueros  Dk Aged 6590-89  40W / 38L para Hombre
 
 ℹ️:
 
-- Tipo de corte: Slim
 - Arco 3d Slim
+- Tipo de corte: Slim
 
 [Ver la oferta!!](https://www.amazon.es/dp/B013X5S4PG/?tag=tolees-21)
