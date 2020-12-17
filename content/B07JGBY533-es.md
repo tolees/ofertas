@@ -25,10 +25,10 @@ Tienes [Vestido para niña Algodón Manga Larga Unicornio Bordado Gris 4 años](
 
 ℹ️:
 
-- encima de la rodilla.
-- 100% algodón
-- Vestidos para niña Talla 4 años. Por favor, ver la medida del tamaño abajo en la descripción del producto antes de comprar
 - Talla: Busto: 62CM, Cintura: 62CM, Longitud: 52CM
+- 100% algodón
+- encima de la rodilla.
 - lavable a máquina, bajo retroceder seca
+- Vestidos para niña Talla 4 años. Por favor, ver la medida del tamaño abajo en la descripción del producto antes de comprar
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JGBY533/?tag=tolees-21)

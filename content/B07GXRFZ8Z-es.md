@@ -25,7 +25,7 @@ Tienes [Camper Uno  Zapatillas Mujer  Naranja  Medium Orange 810   37 EU](https:
 
 ℹ️:
 
-- Cuero y medios mixtos.
 - Suela de goma.
+- Cuero y medios mixtos.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GXRFZ8Z/?tag=tolees-21)

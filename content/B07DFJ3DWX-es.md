@@ -25,9 +25,9 @@ Está [Pop! Bobble: Marvel: Ant-Man & The Wasp: Hank Pym](https://www.amazon.es/
 
 ℹ️:
 
-- Recomendado para niños a partir de 3 años
 - El artículo es adecuado para todos los fanáticos de Ant-Man
-- El producto se envía en una caja ilustrada con ventana
+- Recomendado para niños a partir de 3 años
 - Figura de colección de la marca Funko
+- El producto se envía en una caja ilustrada con ventana
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07DFJ3DWX/?tag=tolees-21)
