@@ -25,15 +25,15 @@ Tienes [Unilux First R7s Negro - iluminación de suelo  Negro  Metal  R7s  1860 
 
 ℹ️:
 
-- Color: Negro
-- Tipo de Lámpara : halógena
-- Color del cristal: Transparente
-- Material: metal
-- Diámetro: 280 mm
-- Descripción del producto: En primer lugar Unilux
-- Tipo de fuente de alimentación : AC
 - Potencia de lámpara : 300 W
+- Color: Negro
+- Color del cristal: Transparente
 - Tipo de lámpara caché : R7S
 - Altura: 1.860 mm
+- Material: metal
+- Tipo de Lámpara : halógena
+- Tipo de fuente de alimentación : AC
+- Diámetro: 280 mm
+- Descripción del producto: En primer lugar Unilux
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B004HV5QNY/?tag=tolees-21)

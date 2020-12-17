@@ -25,8 +25,8 @@ Tienes [Tommy Hilfiger Th Men Sock 5p Birdeye Tin Giftbox calcetines  azul marin
 
 ℹ️:
 
-- Algodón peinado para proporcionar una sensación de suavidad
 - Combinación clásica con motivo de ojo de perdiz de base
+- Algodón peinado para proporcionar una sensación de suavidad
 - Puntera terminada a mano para evitar molestias
 - Caja de regalo metálica de edición limitada
 

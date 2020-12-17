@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Yamaha NS-AW194 - Altavoces de exterior  al 33.92 % de descuento'
-date: 2020-12-13 20:53:12
+date: 2020-12-17 19:42:05
 image: 'https://m.media-amazon.com/images/I/51Nfr4MmuAL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005EOWGDG/?tag=tolees-21'
 descuento: '33.92'
+average: '85.72500000000001'
 ---
 
 Ahora mismo tienes [Yamaha NS-AW194 - Altavoces de exterior  2 canales  resistente al agua  8 ohms  85 dB   color negro](https://www.amazon.es/dp/B005EOWGDG/?tag=tolees-21) a 79.3 EUR (original: 120.0 EUR) (33.92 %  de descuento) en el siguiente enlace!

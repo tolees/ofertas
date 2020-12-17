@@ -25,10 +25,10 @@ Ahora mismo tienes [Kipling New Kichirou Fiambrera Con Asa Para Carrito  6 litro
 
 🔎:
 
-- Cuenta con dimensiones de 23 (An) x 205 (P) x 125 (Al) cm
-- Asa para carrito con cremallera en la parte posterior
 - Cuenta con un llavero de mono de peluche Kipling
 - Compartimento principal con solapa plegable
+- Cuenta con dimensiones de 23 (An) x 205 (P) x 125 (Al) cm
 - Cuenta con una correa ajustable y extraíble para colgar del hombro
+- Asa para carrito con cremallera en la parte posterior
 
 [Visítala!!!](https://www.amazon.es/dp/B076H1PNGW/?tag=tolees-21)

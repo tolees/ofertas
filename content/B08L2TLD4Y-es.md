@@ -25,11 +25,11 @@ Ahora mismo tienes [Isdin BodySenses RITUAL REVITALIZANTE con Té Matcha: Loció
 
 🔎:
 
-- Estas navidades regala isdin bodysenses: el cofre contiene 1 loción corporal, 1 crema de manos y obsequio de 1 ambientador con barritas aromáticas
-- El té matcha contiene vitaminas, polifenoles, aminoácidos y minerales, que ayudan a prevenir el envejecimiento prematuro de la piel
 - Con ácido hialurónico, aportando hidratación 24h
 - Para todo tipo de piel, incluso sensible
+- El té matcha contiene vitaminas, polifenoles, aminoácidos y minerales, que ayudan a prevenir el envejecimiento prematuro de la piel
 - De absorción inmediata
+- Estas navidades regala isdin bodysenses: el cofre contiene 1 loción corporal, 1 crema de manos y obsequio de 1 ambientador con barritas aromáticas
 - Nombre de la fragancia: Green
 
 [Visítala!!!](https://www.amazon.es/dp/B08L2TLD4Y/?tag=tolees-21)

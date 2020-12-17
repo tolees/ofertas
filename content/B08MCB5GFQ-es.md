@@ -25,9 +25,9 @@ Está [10 Mascarilla FFP2 Negras Ultra Protección](https://www.amazon.es/dp/B08
 
 ℹ️:
 
-- Contiene: 10 Mascarillas negras FFP2
 - Evitan irritaciones en la piel y son hipoalergénicas. Están diseñadas con 5 capas interiores duraderas y resistentes a la deformación que combinan tejido de No woven y algodón suave de alta calidad.
-- COMPOSICIÓN. 5 capas compuestas de tela no tejida spunbord: Polipropileno hidrófobo, tela no tejida spunlace: polipropileno. Está compuesta por el cuerpo, las cintas elásticas y la pinza nasal.
 - Categoría EN149 FFP2, CE 2163
+- Contiene: 10 Mascarillas negras FFP2
+- COMPOSICIÓN. 5 capas compuestas de tela no tejida spunbord: Polipropileno hidrófobo, tela no tejida spunlace: polipropileno. Está compuesta por el cuerpo, las cintas elásticas y la pinza nasal.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08MCB5GFQ/?tag=tolees-21)
