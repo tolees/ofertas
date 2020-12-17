@@ -26,8 +26,8 @@ Ahora mismo tienes [Diset- Juguete educativos Memo Photo Objects  Multicolor  68
 🔎:
 
 - Juego educativo clásico que consiste en memorizar la posición de las diferentes fichas/imágenes con el fin de emparejarlas
+- Valor educativo, Desarrollar la memoria
 - 54 imágenes de objetos cotidianos
 - multicolor
-- Valor educativo, Desarrollar la memoria
 
 [Visítala!!!](https://www.amazon.es/dp/B079P8NX5B/?tag=tolees-21)

@@ -25,9 +25,9 @@ Tienes [Sony MDR-ZX310L - Auriculares de diadema cerrados  sin micrófono   azul
 
 ℹ️:
 
-- Diseño plegable compacto
-- Auriculares tipo diadema con diseño plegable y ligero, diafragmas de 30 mm y sensibilidad de 98 db/mw
 - Rango de frecuencia 10-24.000 hz
+- Auriculares tipo diadema con diseño plegable y ligero, diafragmas de 30 mm y sensibilidad de 98 db/mw
 - Diafragmas de neodimio de 30 mm
+- Diseño plegable compacto
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00I3LUYNG/?tag=tolees-21)

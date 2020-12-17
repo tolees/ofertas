@@ -25,10 +25,10 @@ Está [VLUNT Filtros para Té Acero Inoxidable Malla Forma de Corazón Té Colad
 
 ℹ️:
 
-- Fácil de usar: llénelo con té, gire la tapa un poco y déjela reposar. Simplemente deseche las hojas usadas y enjuague con agua caliente.
-- El alcance de la aplicación：Filtra hojas de té sueltas, hierbas y especias.
-- Ocasiones aplicables：Trajes para cocina, sala de estar, hotel y todo tipo de fiestas.
 - Seguro y duradero ：Diseñado en acero inoxidable de grado alimenticio 304, sin ningún riesgo para su salud. Construido con durabilidad de larga duración.
 - Material：Hecho de 304 acero inoxidable, duradera para usar.
+- El alcance de la aplicación：Filtra hojas de té sueltas, hierbas y especias.
+- Fácil de usar: llénelo con té, gire la tapa un poco y déjela reposar. Simplemente deseche las hojas usadas y enjuague con agua caliente.
+- Ocasiones aplicables：Trajes para cocina, sala de estar, hotel y todo tipo de fiestas.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B079FMH3CZ/?tag=tolees-21)
