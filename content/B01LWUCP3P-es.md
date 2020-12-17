@@ -25,8 +25,8 @@ Está [Calvo - Atun Claro en aceite de oliva  bajo en sal - 3 x 80 g - [pack de 
 
 ℹ️:
 
-- Fuente Proteína
 - Bajo en sal
 - Contiene Pescado y/o productos a base de pescados
+- Fuente Proteína
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01LWUCP3P/?tag=tolees-21)

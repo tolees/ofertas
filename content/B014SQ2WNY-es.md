@@ -25,9 +25,9 @@ Está [Tamron SP - Objetivo para Canon DSLR  Distancia Focal Fija 45 mm  Apertur
 
 ℹ️:
 
-- Óptica digital angular con distancia focal fija para cámaras Canon DSLR de formato completo o APS-C de óptica intercambiable
+- Incluye parasol
 - VC (Estabilización de imagen). Di (Óptica digital para formato completo). USD (Motor ultrasónico silencioso)
 - Distancia mínima de enfoque 0,29m (11.4")
-- Incluye parasol
+- Óptica digital angular con distancia focal fija para cámaras Canon DSLR de formato completo o APS-C de óptica intercambiable
 
 [Ver la oferta!!](https://www.amazon.es/dp/B014SQ2WNY/?tag=tolees-21)

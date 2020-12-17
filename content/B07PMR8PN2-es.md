@@ -27,8 +27,8 @@ Ahora mismo tienes [KONKY 3 Rollos EVA Protector Antideslizante Cocina  Estantes
 
 - 【Super Practico】Adecuado para gabinetes de cocina, gabinetes de baño, gabinetes de lino, cajones, mesas, refrigeradores, estantes, mostradores, etc. También es seguro para el contacto directo con alimentos. A debe tener para su vida diaria.
 - 【Material】Hecho de EVA gruesa de alta calidad. Producto duradero y no se deshilacha ni se descolora. Solo la compra en la tienda "konky elec" puede obtener la garantía del producto y el servicio al cliente.
-- 【Características del producto】Es a prueba de humedad, repele la suciedad, resistente a la corrosión, bacteriostático, resistente al aceite y antideslizante. No deja residuos pegajosos ni se ensucia después del reemplazo. Mantenga su casa más limpia.
 - 【Fácil de Limpiar】Si se ensucia con manchas de aceite o agua, puede limpiarlo fácilmente con un paño pequeño. También se puede lavar y secar rápidamente si es necesario.
 - 【Tamaño de bricolaje】17.7 pulgadas x 59 pulgadas (150 x 45 cm) por rollo. Se puede cortar fácilmente a cualquier tamaño para una forma deseada. Solo disfruta el sabor del bricolaje.
+- 【Características del producto】Es a prueba de humedad, repele la suciedad, resistente a la corrosión, bacteriostático, resistente al aceite y antideslizante. No deja residuos pegajosos ni se ensucia después del reemplazo. Mantenga su casa más limpia.
 
 [Visítala!!!](https://www.amazon.es/dp/B07PMR8PN2/?tag=tolees-21)

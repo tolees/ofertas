@@ -26,9 +26,9 @@ Ahora mismo tienes [Max Factor Perfect Gel Shine; Laca de Uñas  Tono 001 - 12 m
 🔎:
 
 - Dura hasta 10 días
-- El pincel cubre toda la superficie de la uña con una sola aplicación
 - Fórmula 3 en 1: capa base, color y capa superior
-- Brillo que dura hasta 10 días, colores que no se gastan ni se descascarillan
 - Acabado gel profesional
+- El pincel cubre toda la superficie de la uña con una sola aplicación
+- Brillo que dura hasta 10 días, colores que no se gastan ni se descascarillan
 
 [Visítala!!!](https://www.amazon.es/dp/B07TWS1ZJQ/?tag=tolees-21)

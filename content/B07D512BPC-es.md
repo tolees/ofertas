@@ -25,9 +25,9 @@ Tienes [FUNKO Marvel Venom Figura de colección  Multicolor  32685](https://www.
 
 ℹ️:
 
-- Hecho de vinilo
-- La muñeca tiene aproximadamente 10 cm
-- Viene empaquetado en una caja de ventana ilustrada
 - Muñeco cabezón de Venom / Eddie Brock
+- La muñeca tiene aproximadamente 10 cm
+- Hecho de vinilo
+- Viene empaquetado en una caja de ventana ilustrada
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D512BPC/?tag=tolees-21)

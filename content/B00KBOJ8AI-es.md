@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'M MAGEFESA 01OPDINAM06 MAGEFESA 01OPDINA al 32.89 % de descuento'
-date: 2020-12-16 08:46:53
+date: 2020-12-17 14:13:25
 image: 'https://m.media-amazon.com/images/I/41HQNGFb1mL._SL200_.jpg'
 comments: true
 category: ofertas

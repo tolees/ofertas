@@ -25,10 +25,10 @@ Está [Molinillo Eléctrico de Café Semillas Especias Frutos Secos Molinos de C
 
 ℹ️:
 
+- ¡100% LIBRES DE BPA!- Creado en materiales de durabilidad y calidad, las filosas cuchillas y su cuerpo son de acero inoxidable, todo hecho de gran precisión para hacer un molido de alta calidad. Cuenta con una tapa superior de color transparente que permite ver el grado de molido del café.
 - SUPER POTENCIA - KYG molinillo de café con cuchillas de super potencia de 300 vatios, tiene lo necesario para hacer del molido de café una actividad muy rápida y segura, y por lo tanto con este motor fuerte que muele tan fino los granos para el café desprender todo su aroma y sabor.
 - DE MÚLTIPLES USOS - Depósito de granos de 80gr, apaximadamente, que procura satisfacer al máximo las necesidades básicas de la familia en moler los alimentos una vez. Se trata a un excelente herramiento para ahorrar su tiempo en la cocina, que no solo muelen café, sino que lo emplean para otro tipo de semillas como chía, pimienta, hierba, nuez, especia y otros lo esperado.
-- DISEÑO MUESTRA ELEGANCIA - Este molinillo eléctronico tiene un diseño de color negro, y de tamaño pequeño, lo que permite colocarlo en cualquier rincón de la cocina o guardarlo en el gabinete. Gracias a su forma estéticamente agradable, indudablemente sería a un fantástico regalo a la familia y los amigos en las fiestas para disfrutarlo.
-- ¡100% LIBRES DE BPA!- Creado en materiales de durabilidad y calidad, las filosas cuchillas y su cuerpo son de acero inoxidable, todo hecho de gran precisión para hacer un molido de alta calidad. Cuenta con una tapa superior de color transparente que permite ver el grado de molido del café.
 - MECANISMO DE SEGURIDAD - Pulsador de diseño ON/OFF, presionar el botón por tanto tiempo se desee y al soltarlo, se apaga. Se repite por varias veces hasta que el molido esté perfecto según se deseo. Al mismo tiempo se activa solo con la tapa correctamente colocada, que permite a los niños evitar los accidentes en cocina.
+- DISEÑO MUESTRA ELEGANCIA - Este molinillo eléctronico tiene un diseño de color negro, y de tamaño pequeño, lo que permite colocarlo en cualquier rincón de la cocina o guardarlo en el gabinete. Gracias a su forma estéticamente agradable, indudablemente sería a un fantástico regalo a la familia y los amigos en las fiestas para disfrutarlo.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B072F4CN6B/?tag=tolees-21)

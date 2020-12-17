@@ -25,10 +25,10 @@ Ahora mismo tienes [Bosch Professional Termómetro de infrarrojos GIS 1000 C  co
 
 🔎:
 
-- INCLUYE: Termómetro de infrarrojos GIS 1000 C, 4x pilas AA, adaptador de batería, cable micro USB
+- MIDE LA TEMPERATURA Y LA HUMEDAD: además de la temperatura superficial, el termómetro digital mide y registra con precisión la temperatura y la humedad relativa de la estancia gracias a su sensor exterior
 - GRAN VARIEDAD DE APLICACIONES: los diferentes modos permiten revisar los puentes térmicos, evaluar el riesgo de moho y revisar los sistemas de calefacción y ventilación, entre otros
+- INCLUYE: Termómetro de infrarrojos GIS 1000 C, 4x pilas AA, adaptador de batería, cable micro USB
 - AMPLIO INTERVALO DE TEMPERATURAS: el termodetector puede medir las temperaturas entre -40 °C y +1000 °C con una precisión de ±1,0 °C y puede usarse tanto en interiores como en exteriores
 - CONECTIVIDAD: documenta mediciones e intercambia rápidamente los datos con la app Measuring Master, de conexión Bluetooth, o use el puerto micro USB para transferir imágenes y crear informes
-- MIDE LA TEMPERATURA Y LA HUMEDAD: además de la temperatura superficial, el termómetro digital mide y registra con precisión la temperatura y la humedad relativa de la estancia gracias a su sensor exterior
 
 [Visítala!!!](https://www.amazon.es/dp/B00H491CSY/?tag=tolees-21)
