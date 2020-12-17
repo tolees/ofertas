@@ -25,10 +25,10 @@ Está [Smoby-Carrito de limpieza con aspirador y accesorios 330309  color azul y
 
 ℹ️:
 
-- Incluye 9 eccesorios: aspirador, escoba, recogedor, cepillo, mopa, cubo, esponja, botella de fregasuelos y cajita de jabón.
 - Con este juego de imitación, los peques de la casa podrán barrer, pasar la mopa, fregar el suelo y pasar el aspirador.
 - Mide 31 x 32,1 x 55,2 cm.
-- Este moderno carrito de limpieza de Smoby es un completo juguete que permitirá, a los niños y niñas a partir de 3 años, divertirse mientras aprenden a imitar las tareas que ven hacer a los adultos.
 - El aspirador hace sonidos como los aspiradores de verdad.
+- Este moderno carrito de limpieza de Smoby es un completo juguete que permitirá, a los niños y niñas a partir de 3 años, divertirse mientras aprenden a imitar las tareas que ven hacer a los adultos.
+- Incluye 9 eccesorios: aspirador, escoba, recogedor, cepillo, mopa, cubo, esponja, botella de fregasuelos y cajita de jabón.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07CJ9K9YN/?tag=tolees-21)

@@ -26,9 +26,9 @@ Está [Ownaco - Comba para adultos con pantalla LCD  contador ajustable con cont
 ℹ️:
 
 - Pantalla digital de contador LCD: diseño LCD, usted puede saber fácilmente sobre sus parámetros de movimiento: peso corporal W, número L de saltos, tiempo de entrenamiento T, consumo de calorías C. Esto significa que puedes entrenar científicamente y mantener la motivación a través de la cuerda de saltar.
-- Material premium: la comba está insertada fuera del cable de alambre con material de PVC espesado, prolonga la vida útil y reduce las grietas o roturas. Es duradera y robusta, lo que significa que puedes usarla en cualquier momento y en cualquier momento en asfalto, pavimentos, terrazas, al aire libre, etc.
-- Longitud ajustable: diseño de cuerda de saltar para adultos y niños. Puedes ajustar la longitud fácilmente para saltar. Y está equipado con un sistema de rodamiento de bolas de 360°, para garantizar un salto sin esfuerzo y sin enredos, lo que significa que te gusta saltar como uno mismo.
-- Diseño humano: los mangos ergonómicos de la línea de fitness están fabricados en ABS antideslizante y ofrecen un agarre firme. La cuerda se puede ajustar en longitud, por lo que es adecuada para personas de diferentes edades y para diferentes ejercicios.
 - Servicio al cliente: usted puede recibir una garantía gratuita de 12 meses para un reembolso o un sustituto debido a problemas de calidad y un servicio gratuito de por vida. Muchas gracias por haber elegido Ownaco para el mejor tiempo en su vida.
+- Diseño humano: los mangos ergonómicos de la línea de fitness están fabricados en ABS antideslizante y ofrecen un agarre firme. La cuerda se puede ajustar en longitud, por lo que es adecuada para personas de diferentes edades y para diferentes ejercicios.
+- Longitud ajustable: diseño de cuerda de saltar para adultos y niños. Puedes ajustar la longitud fácilmente para saltar. Y está equipado con un sistema de rodamiento de bolas de 360°, para garantizar un salto sin esfuerzo y sin enredos, lo que significa que te gusta saltar como uno mismo.
+- Material premium: la comba está insertada fuera del cable de alambre con material de PVC espesado, prolonga la vida útil y reduce las grietas o roturas. Es duradera y robusta, lo que significa que puedes usarla en cualquier momento y en cualquier momento en asfalto, pavimentos, terrazas, al aire libre, etc.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08GG4BLZ4/?tag=tolees-21)

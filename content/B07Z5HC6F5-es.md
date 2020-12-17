@@ -25,7 +25,7 @@ Ahora mismo tienes [Salomon XA COLLIDER GTX  Zapatillas de Trail Running Hombre 
 
 🔎:
 
-- Xa collider GTX Black/Ebony/Black
 - Número: 40 2/3
+- Xa collider GTX Black/Ebony/Black
 
 [Visítala!!!](https://www.amazon.es/dp/B07Z5HC6F5/?tag=tolees-21)

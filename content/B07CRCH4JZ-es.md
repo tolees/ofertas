@@ -25,8 +25,8 @@ Ahora mismo tienes [Pepe Jeans PIXLETTE Jeans  Azul  Medium Used Denim Gk5   7 a
 
 🔎:
 
-- Cierre con cremallera
 - Tienen un parche de piel en la parte trasera con la marca Pepe Jeans
 - Vaqueros para niñas
+- Cierre con cremallera
 
 [Visítala!!!](https://www.amazon.es/dp/B07CRCH4JZ/?tag=tolees-21)

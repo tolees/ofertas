@@ -25,12 +25,12 @@ Está [Panasonic EW1211W845 Irrigador Bucal Eléctrico Portátil de Viaje  Modo 
 
 ℹ️:
 
-- Sistema de limpieza del irrigador es complementario al uso del cepillo eléctrico de dientes. irrigador ew1211w845 limpia de manera efectiva los espacios interdentales que el cepillo dental no llega
-- Diseño compacto, portátil, inalámbrico sin cable con depósito de agua de 130 ml integrado en el mango; adecuado para llevárselo de viaje
-- Dispone de 3 modos de limpieza: modo jet, air in normal y air in soft. además de la limpieza, el irrigador dental ew1211w845 masajea las encías para mejorar la circulación de la sangre en las encías
-- Tiempo de funcionamiento inalámbrico de aprox. 15 min en modo air in normal
-- Contenido de la caja: irrigador bucal dental care ew1211w845, 2 x boquillas ew0950w835, cargador
-- Depósito de agua apto para limpieza en lavavajillas, irrigador lavable
 - El irrigador ew1211w845 cuanta con el modo air in finas burbujas de aire con el agua que proporciona limpieza a fondo de los espacios interdentales, las bolsas periodontales o alrededor de los puentes y los aparatos de ortodoncia
+- Tiempo de funcionamiento inalámbrico de aprox. 15 min en modo air in normal
+- Diseño compacto, portátil, inalámbrico sin cable con depósito de agua de 130 ml integrado en el mango; adecuado para llevárselo de viaje
+- Depósito de agua apto para limpieza en lavavajillas, irrigador lavable
+- Sistema de limpieza del irrigador es complementario al uso del cepillo eléctrico de dientes. irrigador ew1211w845 limpia de manera efectiva los espacios interdentales que el cepillo dental no llega
+- Dispone de 3 modos de limpieza: modo jet, air in normal y air in soft. además de la limpieza, el irrigador dental ew1211w845 masajea las encías para mejorar la circulación de la sangre en las encías
+- Contenido de la caja: irrigador bucal dental care ew1211w845, 2 x boquillas ew0950w835, cargador
 
 [Ver la oferta!!](https://www.amazon.es/dp/B009GUDVW4/?tag=tolees-21)

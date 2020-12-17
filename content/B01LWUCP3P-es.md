@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvo - Atun Claro en aceite de oliva  b al 32.23 % de descuento'
-date: 2020-11-11 17:37:45
+date: 2020-12-17 13:39:56
 image: 'https://m.media-amazon.com/images/I/41w+NfvP3kL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LWUCP3P/?tag=tolees-21'
 descuento: '32.23'
+average: '4.5'
 ---
 
 Está [Calvo - Atun Claro en aceite de oliva  bajo en sal - 3 x 80 g - [pack de 2]](https://www.amazon.es/dp/B01LWUCP3P/?tag=tolees-21) con 32.23 de descuento por 4.5 EUR (original: 6.64 EUR) en el siguiente enlace!
@@ -24,5 +25,8 @@ Está [Calvo - Atun Claro en aceite de oliva  bajo en sal - 3 x 80 g - [pack de 
 
 ℹ️:
 
+- Fuente Proteína
+- Bajo en sal
+- Contiene Pescado y/o productos a base de pescados
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01LWUCP3P/?tag=tolees-21)
