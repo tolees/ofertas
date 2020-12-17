@@ -25,10 +25,10 @@ Tienes [Crock-Pot CSC025X Olla de cocción lenta manual para preparar multitud d
 
 ℹ️:
 
-- Three cooking and serving spoons to help the slow cooking experience and recipes to inspire
-- Choose your recipe, prep for 10-15 minutes, enjoy your day whilst it cooks and serve up tasty food everytime.
 - 3.5L Removable Pot, which is the perfect size for family meals around the table
-- 3 heat settings
+- Three cooking and serving spoons to help the slow cooking experience and recipes to inspire
 - A premium high quality Crock-Pot Slow Cooker that allows you to build tasty, nutritional meals from scratch with minimal effort.
+- 3 heat settings
+- Choose your recipe, prep for 10-15 minutes, enjoy your day whilst it cooks and serve up tasty food everytime.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00ZA7QXR2/?tag=tolees-21)

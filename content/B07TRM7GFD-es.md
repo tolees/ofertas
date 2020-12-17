@@ -25,8 +25,8 @@ Ahora mismo tienes [Levi s 502 Taper Jeans  Adjustable Black  33W / 32L para Hom
 
 🔎:
 
-- Con ajuste estándar en el muslo
-- Diseño de cinco bolsillos
 - Se asientan debajo de la cintura
+- Diseño de cinco bolsillos
+- Con ajuste estándar en el muslo
 
 [Visítala!!!](https://www.amazon.es/dp/B07TRM7GFD/?tag=tolees-21)

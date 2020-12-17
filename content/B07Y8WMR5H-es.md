@@ -25,10 +25,10 @@ Ahora mismo tienes [Razer Firefly V2 - Alfombrilla de ratón para videojuegos  m
 
 🔎:
 
-- Con tecnología Razer Chroma para una personalización de la iluminación RGB sin límites
-- Superficie microtexturizada para un rastreo a nivel de píxel, calibrada para todos los sensores de ratón
-- Óptima abrazadera para cables incorporada para un arrastre mínimo del ratón
-- Iluminación periférica integral para una experiencia de juego inmersiva
 - Revestimiento de superficie optimizado para estilos de juego tanto controlados como rápidos
+- Óptima abrazadera para cables incorporada para un arrastre mínimo del ratón
+- Superficie microtexturizada para un rastreo a nivel de píxel, calibrada para todos los sensores de ratón
+- Con tecnología Razer Chroma para una personalización de la iluminación RGB sin límites
+- Iluminación periférica integral para una experiencia de juego inmersiva
 
 [Visítala!!!](https://www.amazon.es/dp/B07Y8WMR5H/?tag=tolees-21)
