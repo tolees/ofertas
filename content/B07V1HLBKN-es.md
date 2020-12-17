@@ -25,7 +25,7 @@ Ahora mismo tienes [Jack & Jones Jjehill Knit Crew Neck Noos suéter  Rojo  Port
 
 🔎:
 
-- Knit Pullover with Structure
 - High quality cotton
+- Knit Pullover with Structure
 
 [Visítala!!!](https://www.amazon.es/dp/B07V1HLBKN/?tag=tolees-21)

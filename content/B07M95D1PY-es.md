@@ -25,8 +25,8 @@ Está [Lee Scarlett Vaqueros  Black Orrick JN  30W / 29L para Mujer](https://www
 
 ℹ️:
 
-- Vaqueros para mujer
 - Tienen un parche de piel en la parte trasera con la marca Lee
+- Vaqueros para mujer
 - Estilo 5 bolsillos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07M95D1PY/?tag=tolees-21)

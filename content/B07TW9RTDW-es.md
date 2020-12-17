@@ -25,10 +25,10 @@ Está [TSUPY HUB USB 3.0  Adaptador USB 3.0 con 3 Puertos USB 3.0 y Lector de Ta
 
 ℹ️:
 
-- Puertos lector de tarjeta SD/TF: soporte la velocida de transferencia de datos hasta 5Gbps. Es la elección perfeto para tarjeta de cámara e y otra SD/TF.Soporte las tarjetas de tu Cámara Nikon, Canon, Sony como SD, Micro SD, TF, SDXC, SDHC,Micro SDXC, tarjeta Micro SDHC. más rápido y eficiente
-- Fácil de instalar: Plug-and-Play, Intercambiable en caliente, Conectable en caliente.Este hub usb 3.0 es compatible con Windows 10/ 8/ 7, Windows XP, Vista, Mac OS X 10.2, Linux y otros sistemas operativos
 - El paquete incluye el HUB USB 3.0 5-en-1 y el certificado de garantía. También ofrecemos una devolución dentro de los 30 días y un servicio de garantía de 24 meses,Si hay algún problema en el uso, no duda de ponerse en contacto con nuestro para cualquier pregunta
+- Puertos lector de tarjeta SD/TF: soporte la velocida de transferencia de datos hasta 5Gbps. Es la elección perfeto para tarjeta de cámara e y otra SD/TF.Soporte las tarjetas de tu Cámara Nikon, Canon, Sony como SD, Micro SD, TF, SDXC, SDHC,Micro SDXC, tarjeta Micro SDHC. más rápido y eficiente
 - Hay muchos cables de USB en tu escritorio que te molestan? prueba nuestro 5-en-1 hub usb 3.0, es función extendido，convierte un solo puerto USB 3.0 a tres USB 3.0 y ranuras para tarjetas SD y micro SD para el más posibles usos.
 - Puertos USB 3.0: transmisión de datos de hasta 5Gbps, 10 veces más rápido que un USB 2.0, ayuda a transmitir los datos más rápido que nunca, ahorrando así tiempo.pudiendo conectar varios perifericos a la vez, tal como Ratón,teclado, usb ventilador. Además, es compatible con dispositivos USB 2.0 y 1.x. Puedes descargar un archivo de película en segundos
+- Fácil de instalar: Plug-and-Play, Intercambiable en caliente, Conectable en caliente.Este hub usb 3.0 es compatible con Windows 10/ 8/ 7, Windows XP, Vista, Mac OS X 10.2, Linux y otros sistemas operativos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TW9RTDW/?tag=tolees-21)

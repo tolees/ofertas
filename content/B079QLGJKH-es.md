@@ -25,8 +25,8 @@ Está [Levi s 502 Taper Jeans  Onewash 95977  31W / 30L para Hombre](https://www
 
 ℹ️:
 
-- Con ajuste estándar en el muslo
 - Se asientan debajo de la cintura
+- Con ajuste estándar en el muslo
 - Diseño de cinco bolsillos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B079QLGJKH/?tag=tolees-21)

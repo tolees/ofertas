@@ -25,10 +25,10 @@ Está [Ilaz Guirnarldas Blancas Cálida Luces  50 LED](https://www.amazon.es/dp/
 
 ℹ️:
 
-- Elementos perfectos para la decoraciones de las fiestas, la boda, navidad creando un ambiente suave y romántico
-- Dos modos de luz elegibles: constante encedido y parpadeando con regularidad
-- Perfecta decoración para la navidad, día de los reyes magos; portátil y segura, luces decorativas- luces de hadas globo 50 bombillas de led blanco cálido crean un ambiente suave
-- Totalmente 17ft / 5,2m de largo, con pilas, requiere 3 baterías aa (no incluidas), las luces led no son reemplazables; baja tensión de seguridad para su uso en su hogar
 - El diámetro de cada globo es 0,7 pulgadas; hay 4 pulgadas (= 10 cm) de largo entre cada bola
+- Totalmente 17ft / 5,2m de largo, con pilas, requiere 3 baterías aa (no incluidas), las luces led no son reemplazables; baja tensión de seguridad para su uso en su hogar
+- Elementos perfectos para la decoraciones de las fiestas, la boda, navidad creando un ambiente suave y romántico
+- Perfecta decoración para la navidad, día de los reyes magos; portátil y segura, luces decorativas- luces de hadas globo 50 bombillas de led blanco cálido crean un ambiente suave
+- Dos modos de luz elegibles: constante encedido y parpadeando con regularidad
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01LOIDU3K/?tag=tolees-21)

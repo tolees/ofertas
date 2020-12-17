@@ -25,9 +25,9 @@ Tienes [Bontempi- Guitarra  24 5832](https://www.amazon.es/dp/B07ZTXS5CT/?tag=to
 
 ℹ️:
 
+- Alimentación: 2 pilas de 1, 5 V R6/AA (no incluidas)
+- Correa para el hombro
 - 6 cuerdas metálicas con 5 demo Rock al tacto, 3 fondos musicales en el Pickguard, 5 ritmos
 - Fácil de usar
-- Correa para el hombro
-- Alimentación: 2 pilas de 1, 5 V R6/AA (no incluidas)
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07ZTXS5CT/?tag=tolees-21)

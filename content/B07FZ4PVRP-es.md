@@ -25,10 +25,10 @@ Ahora mismo tienes [Imetec Bellissima My Pro Steam B28 100 - Plancha para cabell
 
 🔎:
 
-- Depósito de agua incorporado para la producción del vapor que sale por unos orificios presentes en la plancha que emite vapor cada vez que se cierra aunque no es siempre visible a simple vista
-- Adecuada para cabello rizado, encrespado, seco, frágil o estropeado
-- 3 niveles de temperatura regulables a 170 °C - 200 °C - 230 °C
 - Tecnología con vapor: liso adecuado y cabellos luminosos; efecto antivolumen y antiencrespado de duración prolongada, a prueba de humedad
+- Depósito de agua incorporado para la producción del vapor que sale por unos orificios presentes en la plancha que emite vapor cada vez que se cierra aunque no es siempre visible a simple vista
+- 3 niveles de temperatura regulables a 170 °C - 200 °C - 230 °C
 - Planchas térmicas revestidas con cerámica para proteger el cabello del calor
+- Adecuada para cabello rizado, encrespado, seco, frágil o estropeado
 
 [Visítala!!!](https://www.amazon.es/dp/B07FZ4PVRP/?tag=tolees-21)

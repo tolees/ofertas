@@ -27,8 +27,8 @@ Está [Multimetro Digital AoKoZo 21D Automático Polimetro Digital 6000 Cuentas 
 
 - 📌Seguridad de medición: cumplimiento del nivel de seguridad IEC 61010 600V II, doble fusible, nivel de protección IP65, brindándole una mayor seguridad en el trabajo.
 - 📌Conveniente de usar: función NCV / retención de datos / retroiluminación LED / función de iluminación / apagado automático y otras funciones, hacen que sea más conveniente usar el multímetro.
+- 📌Contenido del paquete: 1x AoKoZo Multímetro Digital,1x Cable de prueba, 3 * 1.5V AAA Batería,1x Manual ,1x Termopar K-Tipo,2 x pinzas de cocodrilo.
 - 📌Multifunción: Medición de corriente CA, corriente CC, voltaje CA, voltaje CC, resistencia, capacitancia, continuidad, diodo, temperatura, frecuencia, ciclo de trabajo, para satisfacer sus diversas necesidades.
 - 📌Tamaño147*71*45mm , Características: TRUE RMS, rango automático, 6000 recuentos, fusible 10A.
-- 📌Contenido del paquete: 1x AoKoZo Multímetro Digital,1x Cable de prueba, 3 * 1.5V AAA Batería,1x Manual ,1x Termopar K-Tipo,2 x pinzas de cocodrilo.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B085PVTTST/?tag=tolees-21)

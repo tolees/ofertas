@@ -25,10 +25,10 @@ Está [adidas TABELA 18 JSY Camiseta de Manga Corta  Hombre  Black/White  910Y](
 
 ℹ️:
 
-- 3-stripes on the shoulders
 - Climate technology wicks sweat away
-- Small logo on the front
 - V-neck
+- 3-stripes on the shoulders
+- Small logo on the front
 - Regular fit
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07798XRYJ/?tag=tolees-21)

@@ -26,8 +26,8 @@ Está [Burn Out Paradise Remastered](https://www.amazon.es/dp/B079ZF4S8M/?tag=to
 ℹ️:
 
 - Sáltate las reglas y arrasa con todo cuando y donde quieras.
-- Descubre la ciudad de Paradise City, y conduce desde las avenidas de la ciudad hasta las carretras más peligrosas por las montañas.
 - Incluye el juego original completo y todos los contenidos descargables.
 - Arrasa con tus amigos online y juntaos para superar cientos de desafíos online.
+- Descubre la ciudad de Paradise City, y conduce desde las avenidas de la ciudad hasta las carretras más peligrosas por las montañas.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B079ZF4S8M/?tag=tolees-21)
