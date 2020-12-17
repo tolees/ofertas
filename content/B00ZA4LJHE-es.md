@@ -26,8 +26,8 @@ Está [Helly Hansen W Crew Midlayer Jacket - Chaqueta para Mujer  Negro  Black 9
 ℹ️:
 
 - Con cremallera
-- Una mano bajo ajustable
 - Resistente al agua, resistente al viento y transpirable
+- Una mano bajo ajustable
 - Puños ajustables
 - Longitud de la cadera, diseño equipada
 
