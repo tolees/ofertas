@@ -25,8 +25,8 @@ Ahora mismo tienes [Skechers Energy Timeless Vision  Zapatillas Mujer  Blanco Bl
 
 🔎:
 
-- Suela que no deja marcas.
 - Suela flexible.
 - Estilo versátil.
+- Suela que no deja marcas.
 
 [Visítala!!!](https://www.amazon.es/dp/B07STXN1MQ/?tag=tolees-21)

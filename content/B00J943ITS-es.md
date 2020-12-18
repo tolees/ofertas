@@ -25,10 +25,10 @@ Está [Dometic PerfectCoffe MC 01 - Cafetera de 12 V para una taza Dometic  con 
 
 ℹ️:
 
-- Desconexión automática
-- Dispone de filtro permanente
 - Protección contra el encendido sin agua
-- Café listo en poco tiempo
 - Indicador de estado
+- Dispone de filtro permanente
+- Desconexión automática
+- Café listo en poco tiempo
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00J943ITS/?tag=tolees-21)

@@ -25,10 +25,10 @@ Tienes [Juicy Couture 24321 - Agua de perfume  100 ml](https://www.amazon.es/dp/
 
 ℹ️:
 
-- An eau de parfum for women
-- 100 ml bottle
 - Juicy Couture - 324-36491
+- 100 ml bottle
 - Eau de parfum Juicy Couture - Women
+- An eau de parfum for women
 - Frangance for the designer house of Juicy Couture
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000JL7Z5S/?tag=tolees-21)

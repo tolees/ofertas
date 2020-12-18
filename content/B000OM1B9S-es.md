@@ -26,8 +26,8 @@ Está [TRIXIE Malta para Gatos en Pasta  100 g  Gato](https://www.amazon.es/dp/B
 ℹ️:
 
 - peso: 100 g
-- facil de usar
 - emillas de césped a la libre tirando
+- facil de usar
 - comida para gatos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B000OM1B9S/?tag=tolees-21)

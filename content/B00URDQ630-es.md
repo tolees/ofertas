@@ -25,10 +25,10 @@ Tienes [MANN-FILTER FP 2939 Original Habitáculo  FreciousPlus Filtro antipolen 
 
 ℹ️:
 
-- Los filtros biofuncionales FreciousPlus protegen casi al 100 por ciento contra los NOx, PM, los alérgenos y el moho, eliminando los gases nocivos y olores desagradables
-- La tecnología de filtración en 3 etapas, retiene casi el 100 por ciento de las partículas ultra finas y los alérgenos y reduce el desarrollo de mohos y bacterias en más de 98 por ciento
 - Los productos cumplen los requisitos del reglamento Reach de la UE relativos a la protección de salud y el medio ambiente en los procesos de desarrollo, fabricación, uso y eliminación de residuos
-- MANN-FILTER Filtro de Habitáculo FP 2939 FreciousPlus; Filtro de cabina biofuncional; Dimensiones: H = 34; A = 288; B = 215; Filtro premium en calidad de original
+- Los filtros biofuncionales FreciousPlus protegen casi al 100 por ciento contra los NOx, PM, los alérgenos y el moho, eliminando los gases nocivos y olores desagradables
 - Encuentra el filtro compatible: selecciona la marca, modelo, variante y submodelo en el buscador en la parte superior de la página o consulta los documentos de tu coche
+- La tecnología de filtración en 3 etapas, retiene casi el 100 por ciento de las partículas ultra finas y los alérgenos y reduce el desarrollo de mohos y bacterias en más de 98 por ciento
+- MANN-FILTER Filtro de Habitáculo FP 2939 FreciousPlus; Filtro de cabina biofuncional; Dimensiones: H = 34; A = 288; B = 215; Filtro premium en calidad de original
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00URDQ630/?tag=tolees-21)
