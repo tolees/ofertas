@@ -25,10 +25,10 @@ Tienes [HyperX FURY Black HX426C16FB3/8 Memoria RAM 8GB 2666MHz DDR4 CL16 DIMM 1
 
 ℹ️:
 
-- Funcionalidad PLUG N PLAY A 2400 MHz y 2666 MHz¹
-- Compatible con AMD Ryzen
 - Actualización de DDR4 rentable y de alto rendimiento
+- Funcionalidad PLUG N PLAY A 2400 MHz y 2666 MHz¹
 - Velocidades de hasta 3733 MhZ Y capacidad del kit de hasta 128 GB
+- Compatible con AMD Ryzen
 - Compatible con XMP de Intel
 - Diseño de disipador de calor de perfil bajo actualizado
 

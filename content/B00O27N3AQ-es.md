@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.03 % en Pack Gremlins + Gremlins 2 [Blu-ray]'
-date: 2020-12-17 00:14:45
+date: 2020-12-18 00:22:04
 image: 'https://m.media-amazon.com/images/I/51zZ78UNRvL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00O27N3AQ/?tag=tolees-21'
 descuento: '43.03'
-average: '13.194444444444445'
+average: '12.807'
 ---
 
 Tienes [Pack Gremlins + Gremlins 2 [Blu-ray]](https://www.amazon.es/dp/B00O27N3AQ/?tag=tolees-21) con un 43.03 % de descuento con precio de oferta de 9.32 EUR (original: 16.36 EUR) en el siguiente enlace!

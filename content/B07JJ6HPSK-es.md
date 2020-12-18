@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pack Tierra Media Blu-Ray [Blu-ray] al 48.08 % de descuento'
-date: 2020-12-17 00:24:07
+date: 2020-12-18 00:40:19
 image: 'https://m.media-amazon.com/images/I/51wdSmlMLPL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JJ6HPSK/?tag=tolees-21'
 descuento: '48.08'
-average: '70.51023255813952'
+average: '69.98844444444444'
 ---
 
 Está [Pack Tierra Media Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07JJ6HPSK/?tag=tolees-21) con 48.08 de descuento por 58.77 EUR (original: 113.2 EUR) en el siguiente enlace!
