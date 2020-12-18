@@ -25,11 +25,11 @@ Tienes [Samsung 970 Evo Plus  Unidad de Estado Sólido M.2 1000GB V-NAND MLC  PC
 
 ℹ️:
 
-- Interfaz sata 6.gb/s y retrocompatible con sata 3.gbps y sata 1.5.gbps
 - Velocidad de lectura secuencial hasta 3.500.mb/seg y velocidad de escritura secuencial hasta 3.300.mb/seg
-- Ssd con tecnología v-nand samsung
-- Lectura al azar (4kb, qd32) hasta 600.000.iops y escritura aleatorio (4kb, qd32) hasta 550.000.iops
 - Este software solo es compatible con los sistemas operativos de Windows indicados en el manual del usuario
 - Factor de forma 2.5.pulgadas excelente tanto para ordenadores portátiles que fijos
+- Interfaz sata 6.gb/s y retrocompatible con sata 3.gbps y sata 1.5.gbps
+- Ssd con tecnología v-nand samsung
+- Lectura al azar (4kb, qd32) hasta 600.000.iops y escritura aleatorio (4kb, qd32) hasta 550.000.iops
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MBQPQ62/?tag=tolees-21)

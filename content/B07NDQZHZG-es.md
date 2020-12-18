@@ -25,12 +25,12 @@ Está [Samsung Galaxy Watch Active – Smartwatch  1 1” 40mm  Tizen  768 MB de
 
 ℹ️:
 
-- Resistente al agua 5 ATM y certificado MIL-STD-810G idóneo para nadar y realizar ejercicio o actividades al aire libre
-- Incorpora un monitor que mide tu frecuencia cardiaca y envía alertas en tiempo real cuando detecta anomalías D8
-- Te conecta con un mundo de entretenimiento desde tu muñeca. Descárgate apps motivacionales y personaliza tus metas diarias. Compatible con Samsung Pay
-- Compatible con Android e iOs a través de conexión Bluetooth. Sistema operativo Tizen 4.0 y procesador Exynos 9110
-- ¡Nota! No tiene altavoces. El audio se reproduce a través de dispositivos de audio bluetooth como auriculares o altavoces
 - Innovadora tecnología de carga inalámbrica compartida que te asegurará tener batería en cualquier momento con 230 mAh
 - Diseño discreto y ligero con pantalla de 40’’ Amoled Gorilla full color AOD Glass y esferas para combinar con el estilo que mejor encaje contigo. Tamaño: 39.5 x 39.5 x 10.5 mm – peso: 25 g
+- Compatible con Android e iOs a través de conexión Bluetooth. Sistema operativo Tizen 4.0 y procesador Exynos 9110
+- ¡Nota! No tiene altavoces. El audio se reproduce a través de dispositivos de audio bluetooth como auriculares o altavoces
+- Incorpora un monitor que mide tu frecuencia cardiaca y envía alertas en tiempo real cuando detecta anomalías D8
+- Te conecta con un mundo de entretenimiento desde tu muñeca. Descárgate apps motivacionales y personaliza tus metas diarias. Compatible con Samsung Pay
+- Resistente al agua 5 ATM y certificado MIL-STD-810G idóneo para nadar y realizar ejercicio o actividades al aire libre
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07NDQZHZG/?tag=tolees-21)
