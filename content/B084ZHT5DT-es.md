@@ -25,10 +25,10 @@ Ahora mismo tienes [Educa- Planeta Tierra-Animal Champions Juego de Mesa  Multic
 
 🔎:
 
-- Recomendado a partir de 7 años
-- Emocionante juego de cartas en el que los animales compiten a través de sus características más fuertes
-- Planeta Tierra una divertida colección de juegos familiares para explorar el mundo, sus riquezas y concienciarse sobre la necesidad de protección del medio ambiente
-- Contenido: 96 cartas, 5 mini tableros de categorías, 20 fichas, peón de madera e instrucciones
 - Es un juego de rapidez donde te divertirás aprendiendo más sobre los animales
+- Recomendado a partir de 7 años
+- Planeta Tierra una divertida colección de juegos familiares para explorar el mundo, sus riquezas y concienciarse sobre la necesidad de protección del medio ambiente
+- Emocionante juego de cartas en el que los animales compiten a través de sus características más fuertes
+- Contenido: 96 cartas, 5 mini tableros de categorías, 20 fichas, peón de madera e instrucciones
 
 [Visítala!!!](https://www.amazon.es/dp/B084ZHT5DT/?tag=tolees-21)

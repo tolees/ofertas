@@ -1,27 +1,27 @@
 ---
 layout: post
-title: 'Descuento del 38.59 % en Converse As Hi Can Optic. Wht  Zapatilla'
-date: 2020-12-16 08:16:22
-image: 'https://m.media-amazon.com/images/I/41aFdzKBNjL._SL200_.jpg'
+title: 'Descuento del 44.73 % en Converse As Hi Can Optic. Wht  Zapatilla'
+date: 2020-12-18 10:04:40
+image: 'https://m.media-amazon.com/images/I/41Y0YEl5QyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B000OLTR9K-es'
-actualPrice: 42.99 EUR
+actualPrice: 38.69 EUR
 currency: EUR
-price: 42.99
+price: 38.69
 comparePrice: 70.0 EUR
 prodname: 'Converse As Hi Can Optic. Wht  Zapatillas unisex  Blanco  Optical White   39.5 EU'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000OLTR9K/?tag=tolees-21'
-descuento: '38.59'
-average: '51.73869565217391'
+descuento: '44.73'
+average: '50.694799999999994'
 ---
 
-Tienes [Converse As Hi Can Optic. Wht  Zapatillas unisex  Blanco  Optical White   39.5 EU](https://www.amazon.es/dp/B000OLTR9K/?tag=tolees-21) con un 38.59 % de descuento con precio de oferta de 42.99 EUR (original: 70.0 EUR) en el siguiente enlace!
+Tienes [Converse As Hi Can Optic. Wht  Zapatillas unisex  Blanco  Optical White   39.5 EU](https://www.amazon.es/dp/B000OLTR9K/?tag=tolees-21) con un 44.73 % de descuento con precio de oferta de 38.69 EUR (original: 70.0 EUR) en el siguiente enlace!
 
-[![Converse As Hi Can Optic. Wht  Zapatilla](https://m.media-amazon.com/images/I/41aFdzKBNjL._SL200_.jpg)](https://www.amazon.es/dp/B000OLTR9K/?tag=tolees-21)
+[![Converse As Hi Can Optic. Wht  Zapatilla](https://m.media-amazon.com/images/I/41Y0YEl5QyL._SL200_.jpg)](https://www.amazon.es/dp/B000OLTR9K/?tag=tolees-21)
 
 ℹ️:
 

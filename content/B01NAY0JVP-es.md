@@ -25,8 +25,8 @@ Está [Tommy Hilfiger Logo Camiseta de Cuello Redondo Perfecta para El Tiempo Li
 
 ℹ️:
 
-- Logo bordado en la manga
 - Camiseta de corte clásico óptima para el tiempo libre
+- Logo bordado en la manga
 - Cinta distintiva en el interior del cuello
 - Logo de Tommy Hilfiger en la parte delantera
 

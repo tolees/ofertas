@@ -25,9 +25,9 @@ Tienes [Xiaomi Redmi Note 8 Pro - Smartphone de 6.53" FHD+  6 GB RAM  64 GB ROM 
 
 ℹ️:
 
-- Cámara cuádruple de 64 MP con ultra alta resolución, con video 4K y cámara selfie de 20 MP
-- Pantalla FHD+ de 6.53" y notch de gota; Certificación de pantalla TÜV Rheinland contra la luz azul
 - Batería de 4500 mAh con carga rápida de 18 W
+- Pantalla FHD+ de 6.53" y notch de gota; Certificación de pantalla TÜV Rheinland contra la luz azul
+- Cámara cuádruple de 64 MP con ultra alta resolución, con video 4K y cámara selfie de 20 MP
 - Procesador gaming Helio G90T con sistema de refrigeración líquida; antena Wi-Fi X, el arma secreta para los gamers profesionales
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07Y8Y6HVW/?tag=tolees-21)

@@ -25,10 +25,10 @@ Está [Luces Solares Led Exterior Tomshine 4 Pack 12 LEDs Luces Solares para Jar
 
 ℹ️:
 
-- 【PC Shell Engineering】: Nuestras luces de disco solar están hechas de una carcasa de PC súper confiable y resistente a los arañazos, pueden soportar un peso de 200 kg, no tiene que preocuparse por el pisoteo de automóviles y niños.
 - 【Ahorro de Energía con Energía Solar】: Panel solar de 150 mAh con batería NI-MH de gran capacidad incorporada de 800 mAh, alimentada por energía solar y convertida en electricidad, se ilumina en la oscuridad o por la noche automáticamente.
-- 【Luz Súper Brillante】:Cada lámpara solar tiene 12 piezas de LED blancos cálidos que te darán una luz más brillante en la oscuridad. Puede funcionar durante 8-12 horas con 6-8h de carga completa durante el día.
 - 【IP68 Impermeable】:Grado de impermeabilidad IP68. La superficie del interruptor está cubierta con silicona a prueba de humedad. Pueden flotar en el agua e iluminar su piscina o estanque.
+- 【Luz Súper Brillante】:Cada lámpara solar tiene 12 piezas de LED blancos cálidos que te darán una luz más brillante en la oscuridad. Puede funcionar durante 8-12 horas con 6-8h de carga completa durante el día.
 - 【Fácil de Instalar】: Simplemente instale las cuatro clavijas e insértelas en el suelo o en el vidrio, o puede dejar que flote en el agua. Coloque las luces en un lugar donde puedan estar expuestas a la máxima luz solar durante el día.
+- 【PC Shell Engineering】: Nuestras luces de disco solar están hechas de una carcasa de PC súper confiable y resistente a los arañazos, pueden soportar un peso de 200 kg, no tiene que preocuparse por el pisoteo de automóviles y niños.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07ZNT7YP5/?tag=tolees-21)

@@ -25,10 +25,10 @@ Ahora mismo tienes [Sony MDR-EX15APWZ CE7  Auriculares in-ear  con micrófono   
 
 🔎:
 
-- Auriculares internos ligeros con diafragma de 9 mm, 8 Hz-22 kHz, tapones de silicona, diversos colores
 - Diafragmas de neodimio (9 mm)
 - Precio anterior: 11.88 EUR
 - Disponible en diversos colores
 - Rango de frecuencia 8 Hz-22 kHz
+- Auriculares internos ligeros con diafragma de 9 mm, 8 Hz-22 kHz, tapones de silicona, diversos colores
 
 [Visítala!!!](https://www.amazon.es/dp/B00I3LV20A/?tag=tolees-21)
