@@ -25,10 +25,10 @@ Ahora mismo tienes [JETech Protector de Pantalla Compatible iPhone SE 2020 4 7 P
 
 🔎:
 
-- [Diseño fácil de usar] Fácil de instalar. Sin burbujas, resistente al agua, anti huellas dactilares y antipolvo
+- [Compatibilidad] NOTA: Debido al borde redondo del iPhone SE 2020 2.ª Generación, el protector de pantalla no cubrirá la pantalla completa, pero sólo el área plana
 - [Altamente transparente] 0.33mm ultra-delgado. Alta claridad, alta transparencia y alta sensibilidad al tocar. Promete la belleza de origen de la pantalla
+- [Diseño fácil de usar] Fácil de instalar. Sin burbujas, resistente al agua, anti huellas dactilares y antipolvo
 - [Protección confiable] Técnica de corte precisa y procesamiento templado avanzado. Protege la pantalla de arañazos y desgaste diario. Dureza 9H
 - [Excelente servicio postventa] El paquete incluye: Protector de pantalla de vidrio templado JETech * 3, kits de limpieza, instrucciones, tarjeta de servicio al cliente
-- [Compatibilidad] NOTA: Debido al borde redondo del iPhone SE 2020 2.ª Generación, el protector de pantalla no cubrirá la pantalla completa, pero sólo el área plana
 
 [Visítala!!!](https://www.amazon.es/dp/B07QQZDDR4/?tag=tolees-21)

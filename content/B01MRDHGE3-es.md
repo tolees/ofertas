@@ -25,11 +25,11 @@ Está [Taurus Fashion Professional 2300 - Secador de 2200 W  motor AC profesiona
 
 ℹ️:
 
+- Filtro extraíble para facilitar la limpieza y anilla para colgar y almacenar cómodamente el secador
 - Contenido de la caja: secador de pelo profesional, difusor, concentrador
 - Potencia (W): 2300.0 watts
-- Selector con 2 velocidades y 3 temperaturas
-- Filtro extraíble para facilitar la limpieza y anilla para colgar y almacenar cómodamente el secador
 - Secador de pelo con motor profesional ac de alto rendimiento, con 2200w de máxima potencia
+- Selector con 2 velocidades y 3 temperaturas
 - Accesorios: concentrador para centrar el caudal del aire y conseguir un alisado más rápido; y difusor para dar ondas y rizos a tu melena
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01MRDHGE3/?tag=tolees-21)

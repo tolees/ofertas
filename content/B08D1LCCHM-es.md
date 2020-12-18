@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 48.02 % en amiibo Heroe'
-date: 2020-11-22 23:42:08
+date: 2020-12-18 12:09:41
 image: 'https://m.media-amazon.com/images/I/41x3GfyMwSL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08D1LCCHM/?tag=tolees-21'
 descuento: '48.02'
+average: '16.870714285714286'
 ---
 
 Tienes [amiibo Heroe](https://www.amazon.es/dp/B08D1LCCHM/?tag=tolees-21) con un 48.02 % de descuento con precio de oferta de 12.99 EUR (original: 24.99 EUR) en el siguiente enlace!

@@ -26,7 +26,7 @@ Tienes [Lee Brooklyn Straight Hombre Vaqueros  Gris  Moto Flat EB   38W / 30L](h
 ℹ️:
 
 - Vaqueros para hombre
-- Presentan 5 bolsillos
 - Tienen bordado una etiqueta con la marca Lee
+- Presentan 5 bolsillos
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07VR2JLNX/?tag=tolees-21)

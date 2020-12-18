@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox U NEBULA B - zapatilla deportiva de al 62.87 % de descuento'
-date: 2020-12-17 12:18:05
+date: 2020-12-18 12:34:59
 image: 'https://m.media-amazon.com/images/I/41NgRIqspjL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00QRCGJQ4/?tag=tolees-21'
 descuento: '62.87'
-average: '73.04363636363637'
+average: '69.22615384615385'
 ---
 
 Está [Geox U NEBULA B - zapatilla deportiva de cuero hombre  Azul  NAVYC4002   42 EU](https://www.amazon.es/dp/B00QRCGJQ4/?tag=tolees-21) con 62.87 de descuento por 48.23 EUR (original: 129.9 EUR) en el siguiente enlace!
@@ -25,10 +25,10 @@ Está [Geox U NEBULA B - zapatilla deportiva de cuero hombre  Azul  NAVYC4002   
 
 ℹ️:
 
-- Tipo de tacón: Plano
+- Material de la suela: EVA
 - Revestimiento: Malla
 - Material exterior: Sintético
-- Material de la suela: EVA
+- Tipo de tacón: Plano
 - Cierre: Sin cordones
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00QRCGJQ4/?tag=tolees-21)

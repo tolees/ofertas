@@ -25,10 +25,10 @@ Tienes [Funko Pop! Television: Married with Children - Al Bundy with Remote #688
 
 ℹ️:
 
-- Figura coleccionable
-- Personaje matrimonio con hijos
-- Caja ilustrada con ventana
-- Licencia oficial
 - Figura funko pop nº 688 de matrimonio con hijos
+- Personaje matrimonio con hijos
+- Figura coleccionable
+- Licencia oficial
+- Caja ilustrada con ventana
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DFJ5XFM/?tag=tolees-21)
