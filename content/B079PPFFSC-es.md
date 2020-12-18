@@ -1,33 +1,33 @@
 ---
 layout: post
-title: 'Funko Pop! - Marvel Avengers Infinity Wa al 36.57 % de descuento'
-date: 2020-12-17 06:15:49
+title: 'Funko Pop! - Marvel Avengers Infinity Wa al 27.53 % de descuento'
+date: 2020-12-18 06:49:16
 image: 'https://m.media-amazon.com/images/I/51O6dttlNpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B079PPFFSC-es'
-actualPrice: 20.9 EUR
+actualPrice: 23.88 EUR
 currency: EUR
-price: 20.9
+price: 23.88
 comparePrice: 32.95 EUR
 prodname: 'Funko Pop! - Marvel Avengers Infinity War Figura de Vinilo 26898'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079PPFFSC/?tag=tolees-21'
-descuento: '36.57'
-average: '20.4734375'
+descuento: '27.53'
+average: '20.673823529411763'
 ---
 
-Está [Funko Pop! - Marvel Avengers Infinity War Figura de Vinilo 26898](https://www.amazon.es/dp/B079PPFFSC/?tag=tolees-21) con 36.57 de descuento por 20.9 EUR (original: 32.95 EUR) en el siguiente enlace!
+Está [Funko Pop! - Marvel Avengers Infinity War Figura de Vinilo 26898](https://www.amazon.es/dp/B079PPFFSC/?tag=tolees-21) con 27.53 de descuento por 23.88 EUR (original: 32.95 EUR) en el siguiente enlace!
 
 [![Funko Pop! - Marvel Avengers Infinity Wa](https://m.media-amazon.com/images/I/51O6dttlNpL._SL200_.jpg)](https://www.amazon.es/dp/B079PPFFSC/?tag=tolees-21)
 
 ℹ️:
 
 - El artículo es adecuado para todos los fanáticos de Avengers Infinity War
+- El producto se envía en una caja ilustrada con ventana
 - Recomendado para niños a partir de 3 años
 - Figura de colección de la marca Funko
-- El producto se envía en una caja ilustrada con ventana
 
 [Ver la oferta!!](https://www.amazon.es/dp/B079PPFFSC/?tag=tolees-21)

@@ -25,10 +25,10 @@ Está [Citizen Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxida
 
 ℹ️:
 
-- Reserva de marcha de 180 días
-- 1 diamante en la caja
-- Accionamiento de luz Eco-drive
 - Esfera de nácar
+- Accionamiento de luz Eco-drive
+- Reserva de marcha de 180 días
 - Cristal de zafiro
+- 1 diamante en la caja
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07GSKKH75/?tag=tolees-21)
