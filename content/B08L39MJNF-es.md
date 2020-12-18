@@ -25,10 +25,10 @@ Ahora mismo tienes [LIANQI Adaptador de Cargador de Coche Cuadrado Socket 2.1A 1
 
 🔎:
 
-- Doble interfaz USB de salida tipo cohete cuadrado
+- Circuito de control IC integrado, sobrecarga, sobretensión, sobrecorriente, protección contra cortocircuitos
 - 100 nuevo y de alta calidad
 - Para teléfonos móviles, MP3, PDA, auriculares Bluetooth, cámara digital, etc.
-- Circuito de control IC integrado, sobrecarga, sobretensión, sobrecorriente, protección contra cortocircuitos
 - Construido en tubo de seguridad
+- Doble interfaz USB de salida tipo cohete cuadrado
 
 [Visítala!!!](https://www.amazon.es/dp/B08L39MJNF/?tag=tolees-21)

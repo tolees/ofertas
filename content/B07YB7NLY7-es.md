@@ -25,10 +25,10 @@ Tienes [Xiaomi Redmi Note 8 Pro - Smartphone de 6.53" FHD+  6 GB RAM  128 GB ROM
 
 ℹ️:
 
-- Pantalla FHD+ de 6.53" y notch de gota; Certificación de pantalla TÜV Rheinland contra la luz azul
-- Cámara cuádruple de 64MP con ultra alta resolución, con video 4K y cámara selfie de 20MP
+- Batería de 4500mAh con carga rápida de 18W
 - Procesador gaming Helio G90T con sistema de refrigeración líquida; Antena Wi-Fi X, el arma secreta para los gamers profesionales
 - Redmi Note 8 Pro: El primer smartphone en España con cuádruple cámara de 64 MP
-- Batería de 4500mAh con carga rápida de 18W
+- Pantalla FHD+ de 6.53" y notch de gota; Certificación de pantalla TÜV Rheinland contra la luz azul
+- Cámara cuádruple de 64MP con ultra alta resolución, con video 4K y cámara selfie de 20MP
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07YB7NLY7/?tag=tolees-21)

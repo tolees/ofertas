@@ -25,10 +25,10 @@ Está [Belkin base de carga PowerHouse para Apple Watch + iPhone  estación dock
 
 ℹ️:
 
-- Compatible con la función de modo Reloj de Mesa/Alarma del Apple Watch durante la carga
-- Compatible con iPhone XS, iPhone XS Max, iPhone XR, iPhone X, iPhone 8, iPhone 8 Plus, Apple Watch Series 4, 3, 2 y 1
 - Compatible con iPhone 11, 11 Pro/Pro Max, XS, XS Max, XR, X, 8/8 Plus y modelos anteriores de iPhone (con conector Lightning)
-- Solución de carga integral para dispositivos Apple iPhone + Apple Watch + AirPods/iPad
+- Compatible con la función de modo Reloj de Mesa/Alarma del Apple Watch durante la carga
 - Ofrece la máxima velocidad de carga inalámbrica para iPhone con tecnología Qi a 7,5 W y Apple Watch a 5 W
+- Solución de carga integral para dispositivos Apple iPhone + Apple Watch + AirPods/iPad
+- Compatible con iPhone XS, iPhone XS Max, iPhone XR, iPhone X, iPhone 8, iPhone 8 Plus, Apple Watch Series 4, 3, 2 y 1
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07K1MP5PZ/?tag=tolees-21)

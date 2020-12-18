@@ -26,7 +26,7 @@ Ahora mismo tienes [adidas Tiro 19 JSY Camiseta de Manga Corta  Hombre  White/Bl
 🔎:
 
 - Climalite anti-humidity fabric
-- Adidas logo on the front
 - Slim fit
+- Adidas logo on the front
 
 [Visítala!!!](https://www.amazon.es/dp/B07K1VBFLM/?tag=tolees-21)

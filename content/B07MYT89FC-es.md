@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 70.64 % en IWEMEK Vestidos de Princesa Fiesta de la'
-date: 2020-12-11 15:02:39
+date: 2020-12-18 16:46:16
 image: 'https://m.media-amazon.com/images/I/31dDIvmqK2L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MYT89FC/?tag=tolees-21'
 descuento: '70.64'
+average: '12.62'
 ---
 
 Tienes [IWEMEK Vestidos de Princesa Fiesta de la Boda de Las Niñas 3/4 Largo Manga Tul Vestidos de Dama De Honor Fiesta Graduación Comunión Cumpleaños Paseo Baile Cóctel Vestido de Novia 11-12 Años](https://www.amazon.es/dp/B07MYT89FC/?tag=tolees-21) con un 70.64 % de descuento con precio de oferta de 12.62 EUR (original: 42.99 EUR) en el siguiente enlace!

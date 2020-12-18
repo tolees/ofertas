@@ -25,15 +25,15 @@ Está [Skechers Flex Appeal 3.0-First Insight  Zapatillas para Mujer - Gris  Gra
 
 ℹ️:
 
-- Material exterior: tela.
 - Sintético
-- Composición del material: sintético.
-- Tipo de tacón: plano.
 - Cierre: cordones.
-- Bajo
 - Mujer FLEX APPEAL 3.0 PRIMERA INVISIÓN. malla.
 - Ancho del zapato: B (ancho estándar)
-- Suela: EVA.
+- Bajo
 - Material interior: textil.
+- Material exterior: tela.
+- Tipo de tacón: plano.
+- Composición del material: sintético.
+- Suela: EVA.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07P1DH8VB/?tag=tolees-21)

@@ -25,11 +25,11 @@ Tienes [Hisense RR220D4AR2 - Frigorífico una puerta  clase A++  botellero croma
 
 ℹ️:
 
-- Practica zona de congelación que permite almacenar productos por un largo periodo de tiempo
-- Capacidad Neta 164 L con Clase Energética A++, Producto más sostenible consume menos energía y ahorra dinero durante todo el año
-- Iluminación LED proporciona optima iluminación en cada esquina del frigorífico además de menos calor, mas brillo y ahorro energético
-- Dimensiones del producto (Ancho x Alto x Profundo) (Cm): 51.9 x 128 x 53.6
-- Interior con Baldas Cristal de Seguridad Resistentes, con una cabado con bisagra oculta y tirador integrado
 - El botellero cromado ahorra espacio en los estantes laterales y evita que las botellas se muevan en las balda
+- Dimensiones del producto (Ancho x Alto x Profundo) (Cm): 51.9 x 128 x 53.6
+- Practica zona de congelación que permite almacenar productos por un largo periodo de tiempo
+- Iluminación LED proporciona optima iluminación en cada esquina del frigorífico además de menos calor, mas brillo y ahorro energético
+- Capacidad Neta 164 L con Clase Energética A++, Producto más sostenible consume menos energía y ahorra dinero durante todo el año
+- Interior con Baldas Cristal de Seguridad Resistentes, con una cabado con bisagra oculta y tirador integrado
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CC734ZK/?tag=tolees-21)

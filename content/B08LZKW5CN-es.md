@@ -27,7 +27,7 @@ Está [JIAJU Colador de té Filtro de infusor Bolsa de té vacía Difusor de Hoj
 
 - El colador de té de patrón lindo nos ayudará a disfrutar de una hora del té más agradable y enriquecida todos los días.
 - Perfecto para cocina, sala de estar, oficina.
-- Material de gel de sílice inofensivo de grado alimenticio, es inocuo para la salud.
 - ¡100 nuevo y de alta calidad!
+- Material de gel de sílice inofensivo de grado alimenticio, es inocuo para la salud.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08LZKW5CN/?tag=tolees-21)

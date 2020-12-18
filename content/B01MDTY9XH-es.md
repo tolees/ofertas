@@ -25,9 +25,9 @@ Está [G-STAR RAW ZED Cinturón  Marrón  Dk Brown/Black Metal 8127   75 para Ho
 
 ℹ️:
 
-- Correa de piel pesada de 4 cm
 - Hebilla grabada con acabado mate
-- Trabilla de piel
 - Logotipo en bajorrelieve en el extremo de la correa (estampado)
+- Trabilla de piel
+- Correa de piel pesada de 4 cm
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01MDTY9XH/?tag=tolees-21)

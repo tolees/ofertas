@@ -25,13 +25,13 @@ Tienes [Einhell 4258237 TC-RH 900 Martillo perforador con mecanismo percutor neu
 
 ℹ️:
 
-- El acoplamiento de sobrecarga proporciona seguridad
-- 3 funciones: martillo, martillo percutor, cincelador
-- Grip adicional fijado de manera segura con nervaduras.
 - Cabeza de engranaje de aluminio - ligera y robusta
 - Martillo perforador con mecanismo percutor neumático para una buena propulsión de perforación
 - Componentes de alta calidadr para una vida útil muy larga
-- Portabrocas universal SDS-plus
+- Grip adicional fijado de manera segura con nervaduras.
+- El acoplamiento de sobrecarga proporciona seguridad
 - Tope de profundidad de perforación ajustable sin escalonamiento de metal macizo
+- 3 funciones: martillo, martillo percutor, cincelador
+- Portabrocas universal SDS-plus
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00IYEEY0Q/?tag=tolees-21)
