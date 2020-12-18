@@ -25,9 +25,9 @@ Está [Fournier- Familias 7 Países Baraja de Cartas Infantil clásica  Multicol
 
 ℹ️:
 
-- Desde 1965
-- Baraja 42 cartas
 - Juego de cartas infantiles clásicas
 - Ayuda a desarrollar memoria, concentración, estrategia
+- Baraja 42 cartas
+- Desde 1965
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0013H3JUW/?tag=tolees-21)

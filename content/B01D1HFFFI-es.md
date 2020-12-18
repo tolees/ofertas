@@ -25,10 +25,10 @@ Ahora mismo tienes [Rimmel London Sculpting Palette  Polvos de maquillaje - Tono
 
 🔎:
 
-- 3 shades to highlight, contour and blush
-- Rimmel’s first Sculpting & Highlighting Kit designed by Kate Moss
 - For a radiant healthy glow
-- Long-lasting colour seamlessly blends with natural skin tone
+- 3 shades to highlight, contour and blush
 - Easy to remove
+- Rimmel’s first Sculpting & Highlighting Kit designed by Kate Moss
+- Long-lasting colour seamlessly blends with natural skin tone
 
 [Visítala!!!](https://www.amazon.es/dp/B01D1HFFFI/?tag=tolees-21)

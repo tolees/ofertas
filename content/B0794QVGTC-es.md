@@ -25,10 +25,10 @@ Ahora mismo tienes [Skechers Sure Track-Erath-II  Mujer  Negro  BLK Black Leathe
 
 🔎:
 
+- Composición Del Material: Cuero Liso
 - Ancho de zapato: normal
 - Material Interior: Textil
-- Cierre: cordones
 - Material exterior: cuero
-- Composición Del Material: Cuero Liso
+- Cierre: cordones
 
 [Visítala!!!](https://www.amazon.es/dp/B0794QVGTC/?tag=tolees-21)
