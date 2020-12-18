@@ -25,10 +25,10 @@ Ahora mismo tienes [400W DC-DC Convertidor de Refuerzo de Corriente Constante M�
 
 🔎:
 
-- La entrada y la salida están diseñadas con terminales de tornillo, puede conectar o desconectar el cable convenientemente
 - Diseñado con dos disipadores de calor, mejor rendimiento de disipación.
 - DC 8.5V a 50V voltaje de entrada, 10V a 60V voltaje de salida continuamente ajustable, 15A corriente de entrada máxima, 12A corriente de salida máxima
 - Adecuado para equipos eléctricos, productos digitales, portátiles, etc.
+- La entrada y la salida están diseñadas con terminales de tornillo, puede conectar o desconectar el cable convenientemente
 - 96% maximum conversion efficiency, stable and reliable performance
 
 [Visítala!!!](https://www.amazon.es/dp/B07HB4NVBL/?tag=tolees-21)
