@@ -25,10 +25,10 @@ Tienes [VTech- Teléfono Interactivo Infantil con luz y Voz  3480-068422 ](https
 
 ℹ️:
 
-- Teléfono interactivo con 3 modos de juego: números, animales y música
 - Enseña números, animales y vocabulario a través de sus educativas funciones
 - El cordón de arrastre y las ruedas favorecen la motricidad del niño y lo animan a gatear
 - Incluye 2 canciones y 9 melodías que favorecen el desarrollo del lenguaje
+- Teléfono interactivo con 3 modos de juego: números, animales y música
 - Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas de alto rendimiento específicas para productos tecnológicos
 - Botones con luz y números del 0 al 9 que enseñan números y animales; el auricular de mueve de lado a lado
 

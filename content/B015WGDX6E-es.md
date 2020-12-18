@@ -25,10 +25,10 @@ Tienes [Bosch Professional 12V System GSR 12V-15 - Atornillador a batería  30 N
 
 ℹ️:
 
-- Potente rendimiento: la caja de cambios de 2 velocidades proporciona una potente 30 Nm al perforar hasta 19 mm y atornillar hasta 7 mm
 - Incluye: GSR 12V-15, batería de 2x2,0 Ah, juego de accesorios de 39 piezas, 25x broca de destornillador, 7x taladro para madera, 7x taladro para metal, cargador, bolsa
-- Gran seguridad: La Protección de Célula Electrónica de Bosch ECP protege la batería de la sobrecarga, el sobrecalentamiento y la descarga profunda
 - Professional 12V System, rendimiento compacto, óptima libertad, todas nuestras baterías son compatibles con las herramientas o ya existentes de Bosch Professional de la misma categoría de potencia
+- Gran seguridad: La Protección de Célula Electrónica de Bosch ECP protege la batería de la sobrecarga, el sobrecalentamiento y la descarga profunda
 - Compacto: Con una longitud de cabeza de sólo 169 mm, el GSR 12V-15 proporciona un manejo óptimo, para aplicaciones de perforación y atornillado por encima de la cabeza y en lugares estrechos
+- Potente rendimiento: la caja de cambios de 2 velocidades proporciona una potente 30 Nm al perforar hasta 19 mm y atornillar hasta 7 mm
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B015WGDX6E/?tag=tolees-21)

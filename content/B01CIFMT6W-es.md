@@ -25,10 +25,10 @@ Está [Tefal D50319 Wok  Revestimiento Antiadherente  Negro  28 Cm  1 Unidad](ht
 
 ℹ️:
 
-- 28 centímetros de diámetro en el borde exterior
-- Base Diffusal: Mayor Inserción de Cobre que permite una distribución homogénea del calor
+- Exterior esmaltado: Mayor resistencia a las abrasiones
 - Nuevo Thermospot: mejor identificación y uso del control de la temperatura
 - Antiadherente Titanium Force: con inserciones de titanio, 2 veces más resistente
-- Exterior esmaltado: Mayor resistencia a las abrasiones
+- 28 centímetros de diámetro en el borde exterior
+- Base Diffusal: Mayor Inserción de Cobre que permite una distribución homogénea del calor
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01CIFMT6W/?tag=tolees-21)

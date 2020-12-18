@@ -26,8 +26,8 @@ Ahora mismo tienes [THULE Lithos Mochila Tipo Casual 50 Centimeters Negro  Black
 🔎:
 
 - Espacio para portátil y tablet
-- Materiales de calidad
-- Cremalleras duraderas
 - Alta resistencia al paso del tiempo
+- Cremalleras duraderas
+- Materiales de calidad
 
 [Visítala!!!](https://www.amazon.es/dp/B078TT6XH5/?tag=tolees-21)

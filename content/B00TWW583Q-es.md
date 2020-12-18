@@ -25,8 +25,8 @@ Está [LG BP250 - Reproductor de BLU-Ray 2D  USB - Plus  HDMI  Negro](https://ww
 
 ℹ️:
 
-- Reproducción desde disco duro externo por USB
 - Recibe señales claras para una mayor resolución de contenidos HD, sin distorsión o compresión
+- Reproducción desde disco duro externo por USB
 - Formatos de lectura: BD-R/RE, DVD-ROM/R/RW, CD-R/RW/Audio
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00TWW583Q/?tag=tolees-21)

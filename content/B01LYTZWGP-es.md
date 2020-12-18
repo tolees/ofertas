@@ -25,9 +25,9 @@ Está [GoPro Karma Controller](https://www.amazon.es/dp/B01LYTZWGP/?tag=tolees-2
 
 ℹ️:
 
-- El controlador karma hace que el vuelo simultáneo del dron y el funcionamiento de la cámara sean fáciles
-- La pantalla táctil integrada muestra una vista en vivo POV, lo que la cámara ve
 - La pantalla táctil está optimizada para ambientes exteriores con condiciones de luz intensa
 - Cambie todos los modos y ajustes de la cámara, añada etiquetas HiLight y mucho más durante el vuelo
+- El controlador karma hace que el vuelo simultáneo del dron y el funcionamiento de la cámara sean fáciles
+- La pantalla táctil integrada muestra una vista en vivo POV, lo que la cámara ve
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01LYTZWGP/?tag=tolees-21)
