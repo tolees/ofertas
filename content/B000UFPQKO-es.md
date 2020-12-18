@@ -26,7 +26,7 @@ Tienes [Zippo Vintage High Polish Brass - Mechero](https://www.amazon.es/dp/B000
 ℹ️:
 
 - Se recomienda el usa de los consumibles Zippo para garantizar el funcionamiento óptimo del mechero
-- Made in USA
 - Mechero básico Zippo Original
+- Made in USA
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000UFPQKO/?tag=tolees-21)

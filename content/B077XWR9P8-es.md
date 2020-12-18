@@ -25,10 +25,10 @@ Está [Surviving Mars](https://www.amazon.es/dp/B077XWR9P8/?tag=tolees-21) con 6
 
 ℹ️:
 
-- Exploración de los secretos de Marte: Inspirado en la clásica ciencia ficción de Asimov y Clarke, Surviving Mars tiene muchos secretos
-- Construye una colonia sostenible en el espacio: Construir en un planeta no apto para la vida humana te reta a construir una colonia inteligente y funcional
-- Soporte de mod expansivo: Diseñe sus propios edificios fantásticos, parques o incluso un misterio para compartir a través de las herramientas de modificación extensas y convenientes de Surviving Mars
-- Construcción futurista de Space Dome: Superestructuras futuristas que albergan colonos, fábricas y edificios comerciales con su propia personalidad del vecindario
 - Colonos individualmente simulados: Cada colono es un individuo único con problemas y fortalezas que influyen en las necesidades y el comportamiento de los otros colonos
+- Construye una colonia sostenible en el espacio: Construir en un planeta no apto para la vida humana te reta a construir una colonia inteligente y funcional
+- Exploración de los secretos de Marte: Inspirado en la clásica ciencia ficción de Asimov y Clarke, Surviving Mars tiene muchos secretos
+- Construcción futurista de Space Dome: Superestructuras futuristas que albergan colonos, fábricas y edificios comerciales con su propia personalidad del vecindario
+- Soporte de mod expansivo: Diseñe sus propios edificios fantásticos, parques o incluso un misterio para compartir a través de las herramientas de modificación extensas y convenientes de Surviving Mars
 
 [Ver la oferta!!](https://www.amazon.es/dp/B077XWR9P8/?tag=tolees-21)

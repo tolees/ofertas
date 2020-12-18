@@ -25,8 +25,8 @@ Tienes [HyperX Predator - Memoria RAM de 16 GB  DDR4  2666 MHz  CL13  DIMM XMP  
 
 ℹ️:
 
-- Probada al 100 % en fábrica a elevadas velocidades
 - Compatible con XMP de Intel y AMD Ryzen
 - Disipador de calor de aluminio de color negro intenso
+- Probada al 100 % en fábrica a elevadas velocidades
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B072MFHQ3K/?tag=tolees-21)

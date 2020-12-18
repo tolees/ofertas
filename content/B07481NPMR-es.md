@@ -25,10 +25,10 @@ Ahora mismo tienes [Philips HC5100/15 Cortapelos Profesional con 7 peines guía 
 
 🔎:
 
-- Anti-slip Handle
-- Steel Adjustable Blades from 0.5mm to 3mm
-- 7 Different Attached Accessories
 - Linear Powerful Motor lasting 4 times more than most other motors
+- Steel Adjustable Blades from 0.5mm to 3mm
 - Long 2.8 m Power Cable
+- 7 Different Attached Accessories
+- Anti-slip Handle
 
 [Visítala!!!](https://www.amazon.es/dp/B07481NPMR/?tag=tolees-21)

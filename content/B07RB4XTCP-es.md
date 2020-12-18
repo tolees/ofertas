@@ -25,10 +25,10 @@ Ahora mismo tienes [Garmin Dash CAM 56 - GPS Enabled con Pantalla de 2 Pulgadas 
 
 🔎:
 
-- La función travelapse registra y condensa horas de imágenes de conducción en divertidos momentos para compartir con la familia y los amigos
-- Incorpora tecnología bluetooth y conectividad wi-fi para facilitar las actualizaciones de software y seguridad de la cámara
 - Equipada con gps y detección automática de incidentes, guarda automáticamente secuencias de vídeo de los impactos para mostrar el lugar y el momento exactos de los incidentes
-- Avisos de colisión frontal, salida de carril y alertas de radares en semáforo y de velocidad cercanos, incluye actualizaciones de datos de radares de por vida con la app garmin drive
+- La función travelapse registra y condensa horas de imágenes de conducción en divertidos momentos para compartir con la familia y los amigos
 - Tamaño compacto y discreto (56 x 41 x 22 mm) dash cam con pantalla de 2" nítida y campo de visión de 140 grados, que captura con claridad y almacena detalles importantes en video de alta calidad de 1440p hd incluso en condiciones de escasa iluminación
+- Incorpora tecnología bluetooth y conectividad wi-fi para facilitar las actualizaciones de software y seguridad de la cámara
+- Avisos de colisión frontal, salida de carril y alertas de radares en semáforo y de velocidad cercanos, incluye actualizaciones de datos de radares de por vida con la app garmin drive
 
 [Visítala!!!](https://www.amazon.es/dp/B07RB4XTCP/?tag=tolees-21)

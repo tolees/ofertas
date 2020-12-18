@@ -25,8 +25,8 @@ Ahora mismo tienes [SD toys Antiestres Mazinger Z](https://www.amazon.es/dp/B007
 
 🔎:
 
-- Figura antiestrés de poliuretano Mazinger Z
-- Para los fans de Mazinger Z
 - Merchandising oficial de Mazinger Z
+- Para los fans de Mazinger Z
+- Figura antiestrés de poliuretano Mazinger Z
 
 [Visítala!!!](https://www.amazon.es/dp/B007KNETD4/?tag=tolees-21)
