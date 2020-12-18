@@ -26,8 +26,8 @@ Ahora mismo tienes [BANDAI-Tamagotchi Original Corazón – Alimentar  cuidar  n
 🔎:
 
 - Aliméntalo, juega con él, comprueba su salud
-- Levanta tu Tamagotchi de huevo a adulto y mira qué personaje obtienes. - Todo depende de cómo cuidas a tu mascota
 - Incluye un juego de personajes
+- Levanta tu Tamagotchi de huevo a adulto y mira qué personaje obtienes. - Todo depende de cómo cuidas a tu mascota
 - Pilas incluidas
 - Tamagotchi – la mascota original de realidad virtual
 

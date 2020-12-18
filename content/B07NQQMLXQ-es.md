@@ -25,11 +25,11 @@ Está [Dragon Quest XI: Ecos de un Pasado Perdido](https://www.amazon.es/dp/B07N
 
 ℹ️:
 
-- Emprende una gran aventura de clásico corte rolero, con personajes memorables y una historia apasionante
-- Un juego clásico de rol puesto al día. Disfruta de las novedades en el característico sistema de combate por turnos de la serie
-- Encarnas al Luminario, un joven que desciende de un héroe legendario que derrotó a las fuerzas del mal en el remoto pasado. Alíate con un elenco de compañeros carismáticos y embárcate en un viaje que te llevará a todo tipo de lugares para salvar al mundo de una terrible amenaza.
-- Compatible con el mando Pro
 - ¡La serie clásica de juegos de rol sube de nivel!
 - Además de todo el contenido del juego original, Dragon Quest XI S: Ecos de un pasado perdido incluye una amplia variedad de nuevas funciones
+- Compatible con el mando Pro
+- Un juego clásico de rol puesto al día. Disfruta de las novedades en el característico sistema de combate por turnos de la serie
+- Emprende una gran aventura de clásico corte rolero, con personajes memorables y una historia apasionante
+- Encarnas al Luminario, un joven que desciende de un héroe legendario que derrotó a las fuerzas del mal en el remoto pasado. Alíate con un elenco de compañeros carismáticos y embárcate en un viaje que te llevará a todo tipo de lugares para salvar al mundo de una terrible amenaza.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07NQQMLXQ/?tag=tolees-21)

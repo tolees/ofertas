@@ -25,9 +25,9 @@ Está [Motorola Moto G9 Play - Pantalla Max Vision HD+ de 6.5"  procesador Qualc
 
 ℹ️:
 
-- Cámara: Triple, 48MP+2MP+2MP
 - Pantalla: 6.5", 720 x 1600 pixels
-- Batería: 5000 mAh
+- Cámara: Triple, 48MP+2MP+2MP
 - Procesador: Snapdragon 662 2GHz
+- Batería: 5000 mAh
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08GMBCM5V/?tag=tolees-21)

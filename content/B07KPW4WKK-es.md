@@ -25,10 +25,10 @@ Ahora mismo tienes [Pop! Vinilo: Disney: Toy Story 4: Jessie](https://www.amazon
 
 🔎:
 
-- Juguete del año 2018
 - Funko pop vinyl
-- Descúbre otras figuras de la colección disney y colecciónalas todas
 - Disney toy story 4
+- Descúbre otras figuras de la colección disney y colecciónalas todas
+- Juguete del año 2018
 - De la colección toy story 4, jessie como figura de vinilo pop de funko
 
 [Visítala!!!](https://www.amazon.es/dp/B07KPW4WKK/?tag=tolees-21)

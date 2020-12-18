@@ -25,7 +25,7 @@ Está [Kingdom Hearts: The Story So Far](https://www.amazon.es/dp/B07PBKW6KL/?ta
 
 ℹ️:
 
-- Los portadores de la llave espada podrán volver a vivir las mágicas aventuras de Sora, Donald, Goofy y sus amigos mientras intentan detener a las hordas de sin corazón que amenazan el universo
 - Los fans viajarán por los inolvidables mundos de Disney y unirán fuerzas con los personajes de Disney y Final Fantasy para hacerle frente a la oscuridad y devolver la luz a todos los mundos
+- Los portadores de la llave espada podrán volver a vivir las mágicas aventuras de Sora, Donald, Goofy y sus amigos mientras intentan detener a las hordas de sin corazón que amenazan el universo
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07PBKW6KL/?tag=tolees-21)

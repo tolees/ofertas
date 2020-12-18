@@ -25,10 +25,10 @@ Está [Homyl - Auricular estéreo de Tubo estéreo de 3 5 mm Mono Auricular Lige
 
 ℹ️:
 
-- * Nuevo módulo "Smart switching mode" que le permite decir adiós a los problemas de cableado, equipado con auriculares de goma con cancelación de ruido para una máxima claridad.
-- * 2 almohadillas de silicona suave para un ajuste muy cómodo, aislamiento acústico y una funda de viaje resistente. (Auriculares de silicona de tamaño M en los auriculares).
 - * Protege tu salud: transporta un sonido nítido a través de tubos de aire sin radiación, evita perfectamente las radiaciones de las ondas de tu cerebro.
 - * Con el clip para el cuello y el interruptor de respuesta On Off, conveniente para fijar auriculares y micrófono, garantizar la calidad de la respuesta a la llamada.
+- * Nuevo módulo "Smart switching mode" que le permite decir adiós a los problemas de cableado, equipado con auriculares de goma con cancelación de ruido para una máxima claridad.
+- * 2 almohadillas de silicona suave para un ajuste muy cómodo, aislamiento acústico y una funda de viaje resistente. (Auriculares de silicona de tamaño M en los auriculares).
 - * El diseño mono puede darte una sensación diferente, como el agente F * B * I, y el jack de 3,5 mm se adapta a todos los dispositivos de audio de 3,5 mm.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07F6TCDG6/?tag=tolees-21)

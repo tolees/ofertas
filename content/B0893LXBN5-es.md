@@ -25,10 +25,10 @@ Está [Corsair Void Elite Stereo Auriculares para Juegos Tejido Microfibra Trans
 
 ℹ️:
 
-- Construcción duradera con diadema de aluminio: Diseñados para resistir a varios años de juego
 - Sonido adecuado: Los transductores de audio de neodimio de óptima densidad de 50 mm de ajuste personalizado con un rango de frecuencia ampliado de 20 Hz-30 000 Hz
-- Micrófono omnidireccional optimizado: Recoge la voz con una claridad adecuada, con una cómoda función de silenciado
 - Compatibles con varias plataformas: Úselos en PC, PS4, Xbox One, Switch y dispositivos móviles a través de un conector universal de 3.5 mm y cable divisor en Y incluido
+- Micrófono omnidireccional optimizado: Recoge la voz con una claridad adecuada, con una cómoda función de silenciado
+- Construcción duradera con diadema de aluminio: Diseñados para resistir a varios años de juego
 - Comodidad duradera: Un tejido de rejilla de microfibra transpirable y las lujosas almohadillas de espuma con memoria aseguran la comodidad en largas sesiones de juego
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0893LXBN5/?tag=tolees-21)
