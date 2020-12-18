@@ -25,10 +25,10 @@ Tienes [Rantoloys Oxígeno de Dedo y Temperatura infrarrojo para la Frente  Temp
 
 ℹ️:
 
+- Temperatura infrarrojo para la frente:Diseño humanizado, puede almacenar 32 datos de medición para una fácil comparación.Amplia gama de aplicaciones, aptas para uso hospitalario, clínico, de enfermería, escolar, institucional, de organización social y familiar.
 - Oxígeno de dedo:Pantalla LED: la lectura de la saturación de oxígeno en sangre y la frecuencia del pulso para controlar su estado de salud.
 - Temperatura infrarrojo para la frente:Fácil operación, apunte a la frente u otros objetos de medición, presione el botón de medición para iniciar la medición, y la pantalla LCD mostrará la temperatura medida actualmente.El sensor de infrarrojos de alta precisión ofrece un rendimiento estable y confiable, para un uso seguro, medición precisa y pequeños errores.
-- Oxígeno de dedo:Operación con un botón: medición rápida de 10 s presionando el botón en el medio del panel frontal. (El botón con la función de cambio de dirección entre la saturación de oxígeno en sangre y la frecuencia del pulso)
 - Oxígeno de dedo:Apagado automático: se apagará automáticamente después de 5 segundos cuando no se inserte ningún dedo.
-- Temperatura infrarrojo para la frente:Diseño humanizado, puede almacenar 32 datos de medición para una fácil comparación.Amplia gama de aplicaciones, aptas para uso hospitalario, clínico, de enfermería, escolar, institucional, de organización social y familiar.
+- Oxígeno de dedo:Operación con un botón: medición rápida de 10 s presionando el botón en el medio del panel frontal. (El botón con la función de cambio de dirección entre la saturación de oxígeno en sangre y la frecuencia del pulso)
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08PFM6Y1W/?tag=tolees-21)

@@ -28,7 +28,7 @@ Está [Columbia Windgates Chaqueta  Mujer  Azul  Nocturnal   XL](https://www.ama
 - Bolsillos de seguridad para mantener sus pertenencias a salvo
 - Ajuste adaptable para una protección extra contra la lluvia gracias a los puños ajustables y al cordón en el dobladillo
 - Impermeable y transpirable gracias a las costuras selladas con tecnología Omni-Tech
-- Contenido: 1x Columbia Windgates Chaqueta impermeable para mujer, Poliéster, Azul (Nocturnal), XL, Art. 1886614
 - Chaqueta impermeable adecuado para deportes al aire libre o aventuras urbanas
+- Contenido: 1x Columbia Windgates Chaqueta impermeable para mujer, Poliéster, Azul (Nocturnal), XL, Art. 1886614
 
 [Ver la oferta!!](https://www.amazon.es/dp/B081B6DM1P/?tag=tolees-21)

@@ -25,13 +25,13 @@ Ahora mismo tienes [Skechers Flex Appeal 3.0-First Insight  Zapatillas Mujer  Az
 
 🔎:
 
-- Ligero.
-- Skechers Plantilla de espuma viscoelástica refrigerada por aire
-- Duradero.
 - Suela: sintética.
-- Tipo de tacón: bajo.
 - Suela que no deja marcas.
 - 100% textil.
+- Skechers Plantilla de espuma viscoelástica refrigerada por aire
+- Duradero.
+- Tipo de tacón: bajo.
+- Ligero.
 - Estilo versátil.
 
 [Visítala!!!](https://www.amazon.es/dp/B07H5Z1F4C/?tag=tolees-21)

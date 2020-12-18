@@ -26,10 +26,10 @@ Está [Neutrogena Hydro Boost Limpiador Gel de Agua  Elimina las Impurezas y el 
 ℹ️:
 
 - Descubre toda la gama Hydro Boost de Neutrogena para cuerpo, manos y rostro, y convierte la hidratación en una parte esencial de tu rutina diaria
-- Su fórmula permite proteger la barrera cutánea a la vez que aporta hidratación a la piel; limpia de todas las impurezas, dejando la piel fresca y suave
+- Su fórmula ligera está desarrollada con la tecnología Barrier Care, enriquecida con ácido hialurónico
+- El paquete puede variar
 - El Limpiador Gel de Agua de Hydro Boost es un gel ligero e innovador que libera su poder en contacto con el agua para eliminar eficazmente las impurezas, el maquillaje y el exceso de grasa de la piel
 - No sólo limpia la piel, sino que además le proporciona un extra de hidratación mientras que contribuye a preservar la barrera cutánea
-- El paquete puede variar
-- Su fórmula ligera está desarrollada con la tecnología Barrier Care, enriquecida con ácido hialurónico
+- Su fórmula permite proteger la barrera cutánea a la vez que aporta hidratación a la piel; limpia de todas las impurezas, dejando la piel fresca y suave
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01MDOJGDK/?tag=tolees-21)
