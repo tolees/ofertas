@@ -26,7 +26,7 @@ Ahora mismo tienes [So Magic DIY- Jardín Mágico Playset  Color rosa  Canal Toy
 🔎:
 
 - Este playset viene con dos tipos de árboles diferentes
-- Crea y decora tu propio terrario mágico
 - Mira como crece tu árbol mágico
+- Crea y decora tu propio terrario mágico
 
 [Visítala!!!](https://www.amazon.es/dp/B07RXJY4HK/?tag=tolees-21)

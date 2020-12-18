@@ -25,12 +25,12 @@ Tienes [Samsung Galaxy S20+ - Smartphone 6.7" Dynamic AMOLED  8GB RAM  128GB ROM
 
 ℹ️:
 
-- Teleobjetivo de 64MP cámara frontal de 10 MP cámara gran angular de 12 MP y un gran zoom espacial de 30x Captura el mundo que te rodea como nunca antes
-- Pantalla Infinity-O Dynamic AMOLED de 120Hz y 6 7" WQHD+ experimenta cada momento con una claridad total y de extremo a extremo
-- 8 GB de RAM procesador Exynos 990 y capacidad de 1 1 TB de almacenamiento poder para días auténticamente épicos
-- La batería de Galaxy S20+ contiene 4 500 mAh para que puedas funcionar durante todo el día carga inalámbrica (12W) Power Sharing carga ultra rápida (25W)
-- Smartphone libre con el sistema operativo Android V10 pre-instalado
 - SIM híbrida (SIM ó mSD) eSIM IP 68 Samsung Pay
+- Smartphone libre con el sistema operativo Android V10 pre-instalado
 - Sensor ultrasónico de huella dactilar en pantalla reconocimiento facial Samsung Knox
+- Pantalla Infinity-O Dynamic AMOLED de 120Hz y 6 7" WQHD+ experimenta cada momento con una claridad total y de extremo a extremo
+- La batería de Galaxy S20+ contiene 4 500 mAh para que puedas funcionar durante todo el día carga inalámbrica (12W) Power Sharing carga ultra rápida (25W)
+- Teleobjetivo de 64MP cámara frontal de 10 MP cámara gran angular de 12 MP y un gran zoom espacial de 30x Captura el mundo que te rodea como nunca antes
+- 8 GB de RAM procesador Exynos 990 y capacidad de 1 1 TB de almacenamiento poder para días auténticamente épicos
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B084J4KB2B/?tag=tolees-21)

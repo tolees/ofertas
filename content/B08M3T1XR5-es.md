@@ -25,9 +25,9 @@ Ahora mismo tienes [Longspeed Carga Vintage Retro Tallados Empuje eléctrico Col
 
 🔎:
 
-- 5.Las tijeras se pueden lavar con agua: no daña la piel.
 - 4.Motor mejorado de alta velocidad y bajo ruido: larga vida útil, adecuado para todo tipo de cabello.
-- 2.Cómodo de usar: no se atasca el cabello.
 - 1.Adecuado para varias formas de hombres: degradado / cabeza de aceite / escultura / recorte / corte de pelo.
+- 2.Cómodo de usar: no se atasca el cabello.
+- 5.Las tijeras se pueden lavar con agua: no daña la piel.
 
 [Visítala!!!](https://www.amazon.es/dp/B08M3T1XR5/?tag=tolees-21)

@@ -25,11 +25,11 @@ Ahora mismo tienes [Sony XDRS41DB.EU8 - Radio portátil Digital  Dab/Dab+/FM  Al
 
 🔎:
 
-- Sintonizador de radio digital DAB/DAB+/FM
-- Funciona con 4 pilas AA
+- Vataje (W): 0.65
 - Temporizador de apagado y despertador
 - 5 botones para presintonías DAB y FM
+- Funciona con 4 pilas AA
+- Sintonizador de radio digital DAB/DAB+/FM
 - Diseño ligero y portátil
-- Vataje (W): 0.65
 
 [Visítala!!!](https://www.amazon.es/dp/B01N5WG98O/?tag=tolees-21)

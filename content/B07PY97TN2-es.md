@@ -25,9 +25,9 @@ Está [Pop! Figura De Vinil: Animation: Simpsons - Homer Kong](https://www.amazo
 
 ℹ️:
 
-- El artículo es adecuado para todos los fanáticos de The Simpsons
 - Figura de colección de la marca Funko
 - El producto se envía en una caja ilustrada con ventana
 - Recomendado para niños a partir de 3 años
+- El artículo es adecuado para todos los fanáticos de The Simpsons
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07PY97TN2/?tag=tolees-21)
