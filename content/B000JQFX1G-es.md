@@ -25,10 +25,10 @@ Está [Invicta 8926OB Pro Diver Reloj Unisex acero inoxidable Automático Esfera
 
 ℹ️:
 
-- El Invicta 8926OB tiene una caja de acier inoxydable de 40 milímetros con una esfera negro
-- Resistencia a la presión de agua de 20 bares. Tipo de Corona: Atornillar
-- 2 años de seguro Invicta
 - Este modelo funciona con un movimiento de Automático preciso
+- El Invicta 8926OB tiene una caja de acier inoxydable de 40 milímetros con una esfera negro
+- 2 años de seguro Invicta
 - Este modelo es parte de la colección Invicta Pro Diver
+- Resistencia a la presión de agua de 20 bares. Tipo de Corona: Atornillar
 
 [Ver la oferta!!](https://www.amazon.es/dp/B000JQFX1G/?tag=tolees-21)

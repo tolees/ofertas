@@ -25,8 +25,8 @@ Tienes [Adidas Tiro 19 Training Pnt Pantalones Deportivos  Hombre  Negro  Black/
 
 ℹ️:
 
-- Climacool technology
 - Elastic waistband with lanyard
 - Tapered fit
+- Climacool technology
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JP5MCTT/?tag=tolees-21)

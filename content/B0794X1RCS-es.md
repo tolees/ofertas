@@ -25,10 +25,10 @@ Tienes [Skechers Sure Track-Erath-II  Zapatillas sin Cordones Mujer  Multicolor 
 
 ℹ️:
 
+- Ancho de zapato: normal
+- Material exterior: cuero
+- Cierre: cordones
 - Composición Del Material: Cuero Liso
 - Material Interior: Textil
-- Ancho de zapato: normal
-- Cierre: cordones
-- Material exterior: cuero
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0794X1RCS/?tag=tolees-21)
