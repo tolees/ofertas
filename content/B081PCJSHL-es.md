@@ -26,7 +26,7 @@ Tienes [Saucony Jazz Original EU 42.5 Denim/CU](https://www.amazon.es/dp/B081PCJ
 ℹ️:
 
 - A estrenar y genuina. Somos un vendedor autorizado de Saucony.
-- Ver descripción del producto para obtener más información.
 - Saucony Azul Zapatillas Jazz Original Vintage Suede
+- Ver descripción del producto para obtener más información.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B081PCJSHL/?tag=tolees-21)

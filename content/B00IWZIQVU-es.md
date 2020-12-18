@@ -25,11 +25,11 @@ Tienes [Sony ICF-M780SL - Radio portátil  FM/SW/MW/LW  pantalla LED   negro](ht
 
 ℹ️:
 
-- Diseño moderno y ligero
 - Peso aprox 1.060 g
 - Pantalla con retroiluminación LED
+- Sintonizador digital FM, SW, MW, LW
 - Función de despertador, estación meteorológica y reposo
 - Antena FM
-- Sintonizador digital FM, SW, MW, LW
+- Diseño moderno y ligero
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00IWZIQVU/?tag=tolees-21)
