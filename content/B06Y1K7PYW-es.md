@@ -25,9 +25,9 @@ Ahora mismo tienes [Trust GXT 164 Sikanda - Ratón Gaming con 12 botones program
 
 🔎:
 
-- PPP ajustables hasta 5000
 - Memoria integrada para guardar 4 perfiles para juegos
-- Software avanzado para programar botones y macros
 - Iluminación LED RGB ajustable
+- PPP ajustables hasta 5000
+- Software avanzado para programar botones y macros
 
 [Visítala!!!](https://www.amazon.es/dp/B06Y1K7PYW/?tag=tolees-21)

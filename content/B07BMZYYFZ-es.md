@@ -26,9 +26,9 @@ Está [Osram Classic - Lámpara LED  Blanco cálido  A++  50-60 Hz  220 - 240 V 
 ℹ️:
 
 - Lámparas libres de mercurio
-- Casquillo: E27, B22d
-- Beneficios del producto: Consumo de energía muy bajo
-- Resistente a los golpes y a las vibraciones gracias a la tecnología LED
 - No regulable
+- Beneficios del producto: Consumo de energía muy bajo
+- Casquillo: E27, B22d
+- Resistente a los golpes y a las vibraciones gracias a la tecnología LED
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07BMZYYFZ/?tag=tolees-21)

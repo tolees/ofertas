@@ -25,8 +25,8 @@ Tienes [Catit Germinador Sin Hierba Gatera  Senses 2.0](https://www.amazon.es/dp
 
 ℹ️:
 
-- Las plantas más comunes en los hogares suelen ser tóxicas y por lo tanto no son adecuadas para su consumo
 - Para garantizar la frescura de las semillas y el sustrato el Germinador Grass Planter no las incluye, se venden por separado en el Recambio Cat Grass Kit
+- Las plantas más comunes en los hogares suelen ser tóxicas y por lo tanto no son adecuadas para su consumo
 - La hierba es una fuente natural de fibra, que estimula la digestión y ayuda a prevenir la acumulación de bolas de pelo
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00D3NI72Y/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ghost Recon - Figura Nomad Breakpoint al 71.81 % de descuento'
-date: 2020-12-14 11:03:46
+date: 2020-12-18 17:44:20
 image: 'https://m.media-amazon.com/images/I/61q2obwvMWL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RP1BNG9/?tag=tolees-21'
 descuento: '71.81'
-average: '23.635757575757584'
+average: '23.25085714285715'
 ---
 
 Ahora mismo tienes [Ghost Recon - Figura Nomad Breakpoint](https://www.amazon.es/dp/B07RP1BNG9/?tag=tolees-21) a 16.9 EUR (original: 59.95 EUR) (71.81 %  de descuento) en el siguiente enlace!

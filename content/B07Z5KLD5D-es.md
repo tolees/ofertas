@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Head Maria 25 Raqueta de Tenis  Juventud al 30.09 % de descuento'
-date: 2020-12-15 09:33:33
+date: 2020-12-18 17:25:46
 image: 'https://m.media-amazon.com/images/I/41bfAngN52L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Ahora mismo tienes [Head Maria 25 Raqueta de Tenis  Juventud Unisex  Multicolor 
 
 🔎:
 
-- La Maria 25 es perfecta para las niñas de entre 8 y 10 años que quieran probar el tenis por primera vez
-- Patrón de cuerdas: 16/19
-- Technology: Damp+
 - Peso: 240 g
 - Tamaño de la cabeza: 680 cm²
+- Technology: Damp+
+- La Maria 25 es perfecta para las niñas de entre 8 y 10 años que quieran probar el tenis por primera vez
+- Patrón de cuerdas: 16/19
 
 [Visítala!!!](https://www.amazon.es/dp/B07Z5KLD5D/?tag=tolees-21)

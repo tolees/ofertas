@@ -25,9 +25,9 @@ Está [Funko Pop Animation: Simpsons - Bart-Bartman](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- Figura de colección de la marca Funko
 - El artículo es adecuado para todos los fanáticos de los Simpsons
-- Recomendado para niños a partir de 3 años
+- Figura de colección de la marca Funko
 - El producto se envía en una caja ilustrada con ventana
+- Recomendado para niños a partir de 3 años
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07DFDQLKZ/?tag=tolees-21)
