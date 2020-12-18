@@ -25,8 +25,8 @@ Está [Hape- Cubo madera infantil con laberinto Campo  Barrutoys E1810    color 
 
 ℹ️:
 
-- Con esta súper caja tan divertida podrás tener a tu pequeño entretenido
 - Laberintos, formas, palancas, y mucho más
 - 5 actividades diferentes en 5 caras de este cubo
+- Con esta súper caja tan divertida podrás tener a tu pequeño entretenido
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00DUDSU7O/?tag=tolees-21)

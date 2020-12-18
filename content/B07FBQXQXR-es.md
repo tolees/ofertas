@@ -25,15 +25,15 @@ Está [Skechers Flex Appeal 3.0-First Insight  Zapatillas Mujer  Multicolor  WTR
 
 ℹ️:
 
-- Composición del material: sintético.
 - Bajo
-- Material interior: textil.
-- Material exterior: tela.
 - Suela: EVA.
+- Material exterior: tela.
+- Tipo de tacón: plano.
+- Composición del material: sintético.
 - Mujer FLEX APPEAL 3.0 PRIMERA INVISIÓN. malla.
 - Sintético
-- Tipo de tacón: plano.
-- Ancho del zapato: B (ancho estándar)
+- Material interior: textil.
 - Cierre: cordones.
+- Ancho del zapato: B (ancho estándar)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FBQXQXR/?tag=tolees-21)

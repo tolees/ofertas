@@ -25,9 +25,9 @@ Está [1.2.3 Camión de Construcción](https://www.amazon.es/dp/B07P6FPTTZ/?tag=
 
 ℹ️:
 
-- Desarrolla la imaginación y la creatividad
 - Con función basculante
 - Camión de basura con volquete y accesorios
+- Desarrolla la imaginación y la creatividad
 - Transporte los bloques de construcción junto con la trabajadora de la construcción
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07P6FPTTZ/?tag=tolees-21)

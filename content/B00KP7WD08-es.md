@@ -25,8 +25,8 @@ Tienes [Multidermol Gel - Higiene Protectora y Aséptica de la Piel  Acción Des
 
 ℹ️:
 
-- Products by MULTIDERMOL
 - Beauty products
 - Shower gels
+- Products by MULTIDERMOL
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00KP7WD08/?tag=tolees-21)

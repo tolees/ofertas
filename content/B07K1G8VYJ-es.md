@@ -25,8 +25,8 @@ Está [adidas Continental 80  Zapatillas de Gimnasia para Hombre  Blanco  FTWR W
 
 ℹ️:
 
-- Suela de goma preformada dividida con inserto de EVA.
 - Empeine de piel suave.
+- Suela de goma preformada dividida con inserto de EVA.
 - Forro interior de tela.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07K1G8VYJ/?tag=tolees-21)

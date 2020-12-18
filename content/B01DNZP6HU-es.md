@@ -25,8 +25,8 @@ Está [Catto´s  Catto´S Blended Scotch Whisky - 700 ml](https://www.amazon.es/
 
 ℹ️:
 
-- Vista: Cattos Blended Scotch tiene un color amarillo cobrizo, con un ligero brillo atenuado por su envejecimiento.
 - Catto´s es una marca registrada desde 1861, cuando James Catto (antiguo master distiller) elaboró un whisky de blended de categoría superior.
 - Boca: Intenso, elegante, largo, muy con notas ahumadas propias de su elaboración con turba de calidad.
+- Vista: Cattos Blended Scotch tiene un color amarillo cobrizo, con un ligero brillo atenuado por su envejecimiento.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01DNZP6HU/?tag=tolees-21)

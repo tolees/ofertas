@@ -27,8 +27,8 @@ Ahora mismo tienes [Belkin AVC003btBK - Adaptador USB-C multipuerto  Adaptador d
 
 - Compatible con dispositivos USB-C, incluyendo MacBook Pro, iPad Pro, Surface Pro, Chromebook y otros muchos
 - Adaptador de vídeo 4 en 1 con conectores VGA, DVI, HDMI y DsplayPort
-- El cable USB-C integrado ofrece un sencillo uso plug-and-play
-- Conecta tu portátil USB-C a cualquier pantalla
 - Conecta y ve contenido de vídeo en monitores 4K, televisiones Smart TV y en otros tipos de pantalla
+- Conecta tu portátil USB-C a cualquier pantalla
+- El cable USB-C integrado ofrece un sencillo uso plug-and-play
 
 [Visítala!!!](https://www.amazon.es/dp/B086STNMT3/?tag=tolees-21)
