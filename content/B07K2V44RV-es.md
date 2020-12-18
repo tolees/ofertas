@@ -25,8 +25,8 @@ Ahora mismo tienes [adidas Runfalcon  Running Shoe para Hombre  Negro  Core Blac
 
 🔎:
 
-- Cordones de zapatos
 - Corte regular
 - malla y parte superior de cuero sintético
+- Cordones de zapatos
 
 [Visítala!!!](https://www.amazon.es/dp/B07K2V44RV/?tag=tolees-21)

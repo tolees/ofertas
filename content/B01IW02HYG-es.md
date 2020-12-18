@@ -25,9 +25,9 @@ Tienes [NYX Professional Makeup Paleta de sombra de ojos Ultimate Shadow Palette
 
 ℹ️:
 
-- Contenido: 1x NYX Professional Makeup Paleta de sombra de ojos Ultimate Shadow Palette, Brights, Número de sombras: 16, Dimensiones: 1.8 x 9.9 x 9.6 cm
-- Selección de sombras de acabado mate, satinado, ligeramente brillante y metalizado, Elige desde un verde chartreuse hasta un rojo frambuesa
 - Intensidad del color modulable para una gran variedad de looks y vívida pigmentación, Tonos suaves y translúcidos o intensos y opacos, Combinar con una prebase para aumentar su intensidad y adherencia
+- Selección de sombras de acabado mate, satinado, ligeramente brillante y metalizado, Elige desde un verde chartreuse hasta un rojo frambuesa
+- Contenido: 1x NYX Professional Makeup Paleta de sombra de ojos Ultimate Shadow Palette, Brights, Número de sombras: 16, Dimensiones: 1.8 x 9.9 x 9.6 cm
 - Un exclusivo abanico de colores llamativos en tus manos, Paleta con 16 sombras de ojos de alto rendimiento, Para un look a la última de día y de noche
 - Calidad profesional y efecto de larga duración, Colores llamativos que se difuminan con facilidad, Polvos aterciopelados de larga duración, Humedecer los tonos metálicos para un mejor resultado
 

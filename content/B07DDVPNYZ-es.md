@@ -25,7 +25,7 @@ Está [Only Onlqueen L/s Long Cardigan Knt Noos Chaqueta Punto  Multicolor  Mist
 
 ℹ️:
 
-- De punto.
 - Cardigan
+- De punto.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07DDVPNYZ/?tag=tolees-21)
