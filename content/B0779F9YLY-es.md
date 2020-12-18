@@ -27,8 +27,8 @@ Ahora mismo tienes [Deep Silver - Consola The C64 Mini](https://www.amazon.es/dp
 
 - Incluye un clásico joystick, que se conecta a uno de los dos puertos USB disponibles, permitiendo al usuario jugar a los títulos integrados en el ordenador
 - THE C64 Mini es una nueva concepción del ordenador doméstico que fue un éxito de ventas en la década de 1980. Con la mitad del tamaño del original
-- Incluye cable USB sin adaptador a corriente eléctrica
 - El THEC64 Mini se enchufa directamente a tu televisión a través de puerto HDMI
+- Incluye cable USB sin adaptador a corriente eléctrica
 - Viene con 64 juegos preinstalados
 
 [Visítala!!!](https://www.amazon.es/dp/B0779F9YLY/?tag=tolees-21)

@@ -25,9 +25,9 @@ Ahora mismo tienes [L Oréal Color Riche  Pintalabios - 24 gr.](https://www.amaz
 
 🔎:
 
-- Deja los labios suaves y sedosos
 - Combinación de pigmentos ultra intensos y aceite de jojoba
-- Hidrata en profundidad y nutre intensamente
+- Deja los labios suaves y sedosos
 - Ofrece un acabado mate
+- Hidrata en profundidad y nutre intensamente
 
 [Visítala!!!](https://www.amazon.es/dp/B00MVLHQG2/?tag=tolees-21)

@@ -27,7 +27,7 @@ Está [Eastpak Springer Riñonera  23 Cm  2 L  Gris  Black Denim ](https://www.a
 
 - Cinturón ajustable a la cintura para una adecuada comodidad
 - Altura: 16.5 cm, Ancho: 23 cm, Fondo: 8.5 cm
-- Fabricada con 60 % nylon y 40 % poliéster
 - Compartimento principal con un bolsillo con cremallera en la parte de atrás para tarjetas y efectivo
+- Fabricada con 60 % nylon y 40 % poliéster
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00MGOP4KO/?tag=tolees-21)
