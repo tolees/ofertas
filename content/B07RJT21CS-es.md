@@ -25,8 +25,8 @@ Está [Salomon X Reveal W  Zapatillas de Senderismo Mujer  Azul  Icy Morn/Lead/S
 
 ℹ️:
 
-- Zapatillas de hiking montañismo, alpinismo y trekking mujer
 - Calzado salomon
+- Zapatillas de hiking montañismo, alpinismo y trekking mujer
 - Shoes x reveal (l40973400)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07RJT21CS/?tag=tolees-21)
