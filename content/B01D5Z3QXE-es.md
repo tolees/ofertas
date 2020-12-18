@@ -25,8 +25,8 @@ Tienes [INJUSA Correpasillos Diavolo con Balancín 9 en 1  con Capota y Sonidos 
 
 ℹ️:
 
-- Cinturó y arco de seguridad
 - Volante de actividades con sonidos electronicos
 - Balancín con mango para padre
+- Cinturó y arco de seguridad
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01D5Z3QXE/?tag=tolees-21)

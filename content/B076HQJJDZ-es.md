@@ -26,10 +26,10 @@ Está [adidas CORE18 PES PNT Pantalones de Deporte  Hombre  Negro/Blanco  XL](ht
 ℹ️:
 
 - Tiene una cintura elástica con cordón y dos bolsillos frontales
-- El material es compuesto de 100% poliéster
-- Tienen un corte clásico que se adapta al cuerpo cómodamente
-- El logotipo es bordado en la cadera izquierda
-- Presentan puños elásticos y unas perneras que se estrechan a la altura del tobillo para ofrecer libertad de movimiento
 - Pantalones deportivos son adecuados para el fútbol
+- Presentan puños elásticos y unas perneras que se estrechan a la altura del tobillo para ofrecer libertad de movimiento
+- El logotipo es bordado en la cadera izquierda
+- Tienen un corte clásico que se adapta al cuerpo cómodamente
+- El material es compuesto de 100% poliéster
 
 [Ver la oferta!!](https://www.amazon.es/dp/B076HQJJDZ/?tag=tolees-21)
