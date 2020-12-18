@@ -26,11 +26,11 @@ Tienes [Oral-B PRO 2 2000S Sensi Ultrathin - Cepillo de Dientes Eléctrico Recar
 ℹ️:
 
 - Contenido: 1 mango con cargador, 1 cabezal de recambio
-- Te ayuda a cepillarte durante más tiempo con el temporizador integrado de 2 minutos
-- LIMPIEZA PROFUNDA Y ENCÍAS MAS SALUDABLES con TECNOLOGÍA 3D y CONTROL DE PRESIÓN DE ENCÍAS VISIBLE que te avisa si te cepillas demasiado fuerte
-- De Oral-B, la marca N.º 1 utilizada por dentistas en todo el mundo
-- 2 MODOS DE CEPILLADO: Limpieza Diaria y Cuidado de las Encías
-- Para una limpieza sorprendente- elimina las bacterias eliminando hasta el 100% más de placa vs un cepillo de dientes manual
 - La batería dura más de 2 semanas con una carga gracias a la batería de iones de litio
+- 2 MODOS DE CEPILLADO: Limpieza Diaria y Cuidado de las Encías
+- Te ayuda a cepillarte durante más tiempo con el temporizador integrado de 2 minutos
+- De Oral-B, la marca N.º 1 utilizada por dentistas en todo el mundo
+- Para una limpieza sorprendente- elimina las bacterias eliminando hasta el 100% más de placa vs un cepillo de dientes manual
+- LIMPIEZA PROFUNDA Y ENCÍAS MAS SALUDABLES con TECNOLOGÍA 3D y CONTROL DE PRESIÓN DE ENCÍAS VISIBLE que te avisa si te cepillas demasiado fuerte
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B073CSXMD2/?tag=tolees-21)

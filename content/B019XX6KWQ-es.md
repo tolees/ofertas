@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trust GXT 101 - Ratón Iluminado para Gam al 33.36 % de descuento'
-date: 2020-11-24 13:00:23
+date: 2020-12-18 09:17:13
 image: 'https://m.media-amazon.com/images/I/41DmfbKyfZL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B019XX6KWQ/?tag=tolees-21'
 descuento: '33.36'
+average: '8.070731707317075'
 ---
 
 Está [Trust GXT 101 - Ratón Iluminado para Gaming  4800 PPP   Negro](https://www.amazon.es/dp/B019XX6KWQ/?tag=tolees-21) con 33.36 de descuento por 9.99 EUR (original: 14.99 EUR) en el siguiente enlace!
@@ -24,5 +25,9 @@ Está [Trust GXT 101 - Ratón Iluminado para Gaming  4800 PPP   Negro](https://w
 
 ℹ️:
 
+- Diseño cómodo y ergonómico
+- Logotipo iluminado con un patrón de colores cambiantes
+- Laterales de goma para un agarre firme
+- Botón de selección de velocidad (600-4800 ppp)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B019XX6KWQ/?tag=tolees-21)

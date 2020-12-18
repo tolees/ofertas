@@ -25,7 +25,7 @@ Está [Clarks Cotrell Easy  Mocasines para Hombre  Azul  Navy Combi Navy Combi  
 
 ℹ️:
 
-- Color exacto: combinación azul marino.
 - Material de la suela: Goma EVA.
+- Color exacto: combinación azul marino.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07MFM2PH4/?tag=tolees-21)

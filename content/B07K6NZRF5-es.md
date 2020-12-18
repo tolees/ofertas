@@ -25,8 +25,8 @@ Tienes [adidas Tiro19 TR Pnt Sport Trousers  Hombre  Dark Blue/White  XS](https:
 
 ℹ️:
 
-- Tapered fit
 - Climacool technology
+- Tapered fit
 - Elastic waistband with lanyard
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07K6NZRF5/?tag=tolees-21)
