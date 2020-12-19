@@ -1,28 +1,34 @@
 ---
 layout: post
-title: 'Pop! Vinilo: Castlevania: Trevor Belmont al 25.71 % de descuento'
-date: 2020-10-28 09:21:21
+title: 'Pop! Vinilo: Castlevania: Trevor Belmont al 49.66 % de descuento'
+date: 2020-12-18 23:56:14
 image: 'https://m.media-amazon.com/images/I/41QUKuFXBLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07KPSSW6V-es'
-actualPrice: 11.85 EUR
+actualPrice: 8.03 EUR
 currency: EUR
-price: 11.85
+price: 8.03
 comparePrice: 15.95 EUR
 prodname: 'Pop! Vinilo: Castlevania: Trevor Belmont'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KPSSW6V/?tag=tolees-21'
-descuento: '25.71'
+descuento: '49.66'
+average: '10.82375'
 ---
 
-Está [Pop! Vinilo: Castlevania: Trevor Belmont](https://www.amazon.es/dp/B07KPSSW6V/?tag=tolees-21) con 25.71 de descuento por 11.85 EUR (original: 15.95 EUR) en el siguiente enlace!
+Está [Pop! Vinilo: Castlevania: Trevor Belmont](https://www.amazon.es/dp/B07KPSSW6V/?tag=tolees-21) con 49.66 de descuento por 8.03 EUR (original: 15.95 EUR) en el siguiente enlace!
 
 [![Pop! Vinilo: Castlevania: Trevor Belmont](https://m.media-amazon.com/images/I/41QUKuFXBLL._SL200_.jpg)](https://www.amazon.es/dp/B07KPSSW6V/?tag=tolees-21)
 
 ℹ️:
 
+- Funko pop vinyl
+- De la colección castlevania, trevor belmont como figura de vinilo pop de funko
+- Animation: castlevania
+- Trevor Belmont
+- Juguete del año 2018
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KPSSW6V/?tag=tolees-21)

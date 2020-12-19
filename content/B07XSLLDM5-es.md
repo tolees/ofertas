@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.73 % en Ufesa - Purificador de Aire PF4500 Siste'
-date: 2020-12-17 14:55:32
+date: 2020-12-18 23:26:37
 image: 'https://m.media-amazon.com/images/I/31kwaYWWynL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,9 +26,9 @@ Tienes [Ufesa - Purificador de Aire PF4500 Sistema de filtrado 3 capas: Pre filt
 ℹ️:
 
 - Función iónica
-- Temporizador: 2-4 o 8 horas
+- Tasa de producción de aire limpio (cadr): 95 m3/h
 - Ideal para superficie hasta 25 m2
 - Sistema de filtrado de 3 capas: pre filtro + filtro carbono activo + filtro hepa
-- Tasa de producción de aire limpio (cadr): 95 m3/h
+- Temporizador: 2-4 o 8 horas
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07XSLLDM5/?tag=tolees-21)
