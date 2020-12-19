@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tous EDP 90ML al 52.05 % de descuento'
-date: 2020-12-18 18:26:26
+date: 2020-12-19 18:39:00
 image: 'https://m.media-amazon.com/images/I/41ARxqqv8xL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000VON5JS/?tag=tolees-21'
 descuento: '52.05'
-average: '37.165316455696185'
+average: '37.13555555555554'
 ---
 
 Ahora mismo tienes [Tous EDP 90ML](https://www.amazon.es/dp/B000VON5JS/?tag=tolees-21) a 35.96 EUR (original: 75.0 EUR) (52.05 %  de descuento) en el siguiente enlace!
@@ -25,8 +25,8 @@ Ahora mismo tienes [Tous EDP 90ML](https://www.amazon.es/dp/B000VON5JS/?tag=tole
 
 🔎:
 
-- Fondo: Musc blanco, cedro de marruecos e iris
-- Salida: hojas de casis, violeta, bergamota y coriandro.
 - Corazón: Jazmon blanco,, peonia amarilla, rosa y gardenia
+- Salida: hojas de casis, violeta, bergamota y coriandro.
+- Fondo: Musc blanco, cedro de marruecos e iris
 
 [Visítala!!!](https://www.amazon.es/dp/B000VON5JS/?tag=tolees-21)

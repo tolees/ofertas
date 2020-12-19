@@ -25,13 +25,13 @@ Ahora mismo tienes [Princess 201851 Exprimidor de Cítricos Master Juicer  Brazo
 
 🔎:
 
+- Dese un capricho con este exprimidor de cítricos semiprofesional con brazo de palanca para fácil itar el exprimido
+- Voltaje: 220 - 240 voltios, potencia: 160 vatios
+- Puede dejar que el zumo caiga directamente en el vaso para poder seguir exprimiendo
+- Filtro para pulpa, sistema anti goteo, asa integrada, pies anti-deslizantes, fácil de limpiar
 - Apto para lavavajillas, bajo ruido, motor potente, exterior en acero inoxidable
 - Fácil de limpiar gracias a las piezas aptas para el lavavajillas
-- Cono universal que puede usar para cítricos tanto grandes como pequeños
-- Filtro para pulpa, sistema anti goteo, asa integrada, pies anti-deslizantes, fácil de limpiar
-- Voltaje: 220 - 240 voltios, potencia: 160 vatios
-- Dese un capricho con este exprimidor de cítricos semiprofesional con brazo de palanca para fácil itar el exprimido
-- Puede dejar que el zumo caiga directamente en el vaso para poder seguir exprimiendo
 - El potente motor de 160.w garantiza que obtiene la mayor cantidad de zumo posible y es bastante silencioso
+- Cono universal que puede usar para cítricos tanto grandes como pequeños
 
 [Visítala!!!](https://www.amazon.es/dp/B00JRC3CP2/?tag=tolees-21)

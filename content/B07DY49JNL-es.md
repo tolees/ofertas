@@ -25,8 +25,8 @@ Ahora mismo tienes [Skechers Zapatillas Graceful - Get Connected 12615 Wine  40 
 
 🔎:
 
+- adulto
 - Red
 - synthetic
-- adulto
 
 [Visítala!!!](https://www.amazon.es/dp/B07DY49JNL/?tag=tolees-21)

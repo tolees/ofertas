@@ -25,10 +25,10 @@ Ahora mismo tienes [Cecotec Rizador de pelo Bamba SurfCare Magic Waves  800 Magi
 
 🔎:
 
-- El cilindro está recubierto con Queratina y aceite de Argán, que transfiere al cabello durante su uso, mantiene el cabello sano, fuerte y brillante.
-- El agarre vertical permite crear rizos simétricos y que el pelo se enrolle alrededor del cilindro consiguiendo un moldeado uniforme.
-- Cilindro XL de rizado para enrollar más cabello y moldear más cerca de la raíz en una sola pasada.
-- Función de memoria que permite guardar la configuración que utilizaste en tu sesión anterior.Temperatura ajustable entre 150º- 210ºC en 4 posiciones.
 - El sistema de rizado en 3 direcciones permite crear rizos en dirección hacia la cara, al revés o alternar la dirección.
+- Cilindro XL de rizado para enrollar más cabello y moldear más cerca de la raíz en una sola pasada.
+- El cilindro está recubierto con Queratina y aceite de Argán, que transfiere al cabello durante su uso, mantiene el cabello sano, fuerte y brillante.
+- Función de memoria que permite guardar la configuración que utilizaste en tu sesión anterior.Temperatura ajustable entre 150º- 210ºC en 4 posiciones.
+- El agarre vertical permite crear rizos simétricos y que el pelo se enrolle alrededor del cilindro consiguiendo un moldeado uniforme.
 
 [Visítala!!!](https://www.amazon.es/dp/B07YNPFD16/?tag=tolees-21)
