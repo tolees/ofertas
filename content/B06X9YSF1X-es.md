@@ -25,10 +25,10 @@ Está [Rimmel London Super Gel Esmalte de Uñas Tono 91 - 12 ml](https://www.ama
 
 ℹ️:
 
-- Sistema de gel color patentado en dos pasos
 - Esmalte de uñas de acabado gel
 - Aplicar 2 capas de color de Super Gel, seguido de la capa de Super Gel Top Coat para un acabado perfecto
 - Se desmaquilla con un quitaesmalte con acetona
 - Secado luz ambiental, no se precisa de lámpara de luz UV. Hasta 14 días de duración
+- Sistema de gel color patentado en dos pasos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06X9YSF1X/?tag=tolees-21)

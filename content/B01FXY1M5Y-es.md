@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ABYstyle - GAME OF THRONES - Llavero 3D  al 28.88 % de descuento'
-date: 2020-12-17 16:53:57
+date: 2020-12-19 16:30:00
 image: 'https://m.media-amazon.com/images/I/41hkn0kiaQL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Está [ABYstyle - GAME OF THRONES - Llavero 3D - Stark](https://www.amazon.es/dp
 
 ℹ️:
 
-- Colgante mide aproximadamente 5.5 cm x 4.5 cm
 - Producto oficial
+- Colgante mide aproximadamente 5.5 cm x 4.5 cm
 - Fabricado con materiales de alta calidad
-- Game of Thrones llavero con efecto 3d
 - Ideal para fijar a las llaves, bolsos, cinturones y otros artículos
+- Game of Thrones llavero con efecto 3d
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01FXY1M5Y/?tag=tolees-21)

@@ -25,10 +25,10 @@ Tienes [Teléfono Móvil Funker - C65 Negro Easy Plus- para Personas Mayores con
 
 ℹ️:
 
-- 【FÁCIL USO:】Teclas grandes, audio potente y claros botones laterales. Es un tamaño realmente compacto y diseñado para facilitar su manejo.
-- 【GARANTÍA:】Este móvil tiene 2 años de Garantía OFICIAL en toda la Comunidad Economica Europea.
 - 【BATERÍA:】Extraplano y muy ligero con batería de 600mAH de larga duración y pantalla 1,8" 240x320.
-- 【BASE CARGADORA:】Incluye una base cargadora que facilita el proceso de carga y ademas mantiene el teléfono en posición vertical. Muy útil para personas mayores.
+- 【GARANTÍA:】Este móvil tiene 2 años de Garantía OFICIAL en toda la Comunidad Economica Europea.
 - 【FUNCIONES:】Incorpora una linterna en la parte superior del teléfono y también un botón de marcación rápida SOS para emergencias en la parte trasera.
+- 【FÁCIL USO:】Teclas grandes, audio potente y claros botones laterales. Es un tamaño realmente compacto y diseñado para facilitar su manejo.
+- 【BASE CARGADORA:】Incluye una base cargadora que facilita el proceso de carga y ademas mantiene el teléfono en posición vertical. Muy útil para personas mayores.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B076JCFKD8/?tag=tolees-21)

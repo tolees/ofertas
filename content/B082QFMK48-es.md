@@ -25,10 +25,10 @@ Está [Acer Predator XB273GX - Monitor de 27 2" Full HD  con NVIDIA G-Sync y Zer
 
 ℹ️:
 
-- Pantalla de 27,2 pulgadas y resolución Full HD de 1920 x 1080 que permite visualizar imágenes más claras y nítidas
 - Con NVIDIA G-Sync que elimina el "tearing" de la pantalla y minimiza el parpadeo para proporcionarte sesiones de Gaming legendarias
+- Pantalla de 27,2 pulgadas y resolución Full HD de 1920 x 1080 que permite visualizar imágenes más claras y nítidas
+- Tecnología BlueLightShield, que reduce la exposición a la luz azul para proteger tus ojos de la tensión innecesaria
 - Línea predator XB3: con diseño EcoDisplay respetuoso con el medio ambiente y orientado a la reciclabilidad y el ahorro energético, entre otras cosas
 - Tecnología antiparpadeo, que reduce el molesto parpadeo de la pantalla causante del desgaste visual al mirar el monitor durante periodos largos de tiempo
-- Tecnología BlueLightShield, que reduce la exposición a la luz azul para proteger tus ojos de la tensión innecesaria
 
 [Ver la oferta!!](https://www.amazon.es/dp/B082QFMK48/?tag=tolees-21)

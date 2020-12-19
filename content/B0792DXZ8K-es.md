@@ -25,8 +25,8 @@ Ahora mismo tienes [Geox J RIDDOCK Boy F  Zapatillas Hombre  Negro  Black C9999 
 
 🔎:
 
-- Cuero superior
 - Geox
 - Escuela Zapatos
+- Cuero superior
 
 [Visítala!!!](https://www.amazon.es/dp/B0792DXZ8K/?tag=tolees-21)

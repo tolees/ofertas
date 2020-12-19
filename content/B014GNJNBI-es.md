@@ -26,7 +26,7 @@ Ahora mismo tienes [Skechers D Lites-Fresh Start  Zapatillas  Multicolor  WSL Bl
 🔎:
 
 - Textíl, Textíl, Piel , cuero, caucho, Cordones, Zapatillas bajas
-- Shoe Width : medium
 - 1
+- Shoe Width : medium
 
 [Visítala!!!](https://www.amazon.es/dp/B014GNJNBI/?tag=tolees-21)

@@ -27,7 +27,7 @@ Ahora mismo tienes [Under Armour Victory Tanque  Mujer  Blanco  LG](https://www.
 
 - Confección ceñida con textura acanalada para una silueta más elegante y femenina
 - Material que capilariza el sudor y se seca rápidamente
-- Suave tejido de punto elástico y transpirable, que aporta comodidad durante todo el día
 - Confección clásica de espalda cruzada con malla ligera para una mayor ventilación
+- Suave tejido de punto elástico y transpirable, que aporta comodidad durante todo el día
 
 [Visítala!!!](https://www.amazon.es/dp/B07PS73BXG/?tag=tolees-21)
