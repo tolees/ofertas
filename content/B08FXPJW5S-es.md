@@ -25,9 +25,9 @@ Está [SuperThings PST6S112UK00 Secret Spies-Starter Pack](https://www.amazon.es
 
 ℹ️:
 
-- Guía temática de cómics
 - Incluye un par de gafas espía.
-- Número de modelo: PST6S112UK00
+- Guía temática de cómics
 - Exclusivo detector de espías con efecto metálico.
+- Número de modelo: PST6S112UK00
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08FXPJW5S/?tag=tolees-21)

@@ -25,9 +25,9 @@ Tienes [One Punch Man: A Hero Nobody Knows](https://www.amazon.es/dp/B07TPVZ8ZT/
 
 ℹ️:
 
-- 40 gramos
-- Fácil de usar
-- Muy conveniente
 - 17 x 14 x 1.5 cm
+- Fácil de usar
+- 40 gramos
+- Muy conveniente
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07TPVZ8ZT/?tag=tolees-21)

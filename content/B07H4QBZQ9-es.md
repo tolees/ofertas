@@ -25,10 +25,10 @@ Ahora mismo tienes [Skechers Status 2.0 Lorano  Náuticos Hombre  Azul  Navy Can
 
 🔎:
 
-- Revestimiento: Tela
-- Material exterior: Cuero sintético
-- Material de la suela: Sintético
-- Cierre: con cordones
 - Tipo de tacón: Plataforma
+- Revestimiento: Tela
+- Material de la suela: Sintético
+- Material exterior: Cuero sintético
+- Cierre: con cordones
 
 [Visítala!!!](https://www.amazon.es/dp/B07H4QBZQ9/?tag=tolees-21)

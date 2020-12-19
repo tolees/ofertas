@@ -27,9 +27,9 @@ Ahora mismo tienes [Russell Hobbs Cook@Home 19270-56 - Vaporera  800 W  Cocina L
 
 - Dispone de 2 entradas de agua laterales, temporizador de 60 minutos con desconexión automática, señal de aviso de finalización del ciclo de cocción y bandeja para recoger el agua sobrante
 - Altura del producto: 35 cm
-- Incluye 3 recipientes apilables con una capacidad total de 9 litros, cubeta de 1 litro para arroz y rejilla para huevos en los recipientes
 - Base de acero inoxidable cepillado; Bandejas de plástico transparente y plástico blanco
-- Potencia de 800 vatios
 - Cocina arroz, verduras y pescado al vapor manteniendo el máximo de nutrientes y vitaminas
+- Incluye 3 recipientes apilables con una capacidad total de 9 litros, cubeta de 1 litro para arroz y rejilla para huevos en los recipientes
+- Potencia de 800 vatios
 
 [Visítala!!!](https://www.amazon.es/dp/B008Y6IN3S/?tag=tolees-21)

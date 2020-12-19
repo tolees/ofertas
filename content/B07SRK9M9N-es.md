@@ -25,12 +25,12 @@ Está [Geox D AIRELL A  Zapatillas Mujer  Azul  Navy C4002   39 EU](https://www.
 
 ℹ️:
 
-- Revestimiento: Malla
-- Material exterior: Sintético
 - Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
-- Cierre: Cordones
 - Tipo de tacón: Plano
-- Material de la suela: Sintético
+- Material exterior: Sintético
 - Altura del tacón: 4 centímetros
+- Cierre: Cordones
+- Revestimiento: Malla
+- Material de la suela: Sintético
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07SRK9M9N/?tag=tolees-21)

@@ -26,9 +26,9 @@ Ahora mismo tienes [Hot Wheels MarioKart Trucks Chaos Bowser  pista para coches 
 🔎:
 
 - El conjunto del castillo del caos de Bowser es el juguete perfecto para ampliar los conjuntos de juego de Mario Kart de Hot Wheels (se venden por separado y están sujetos a disponibilidad).
-- Conjunto de pista con doble looping, carreras de uno contra uno y figura de Bowser situada estratégicamente para detener el vehículo de Yoshi.
-- La figura de Bowser crea un gran obstáculo que los niños tendrán que superar mejorando sus habilidades y aprendiendo a calcular el tiempo.
-- Los fans de Mario Kart reconocerán al instante al personaje más conocido de la popular saga de videojuegos de carreras con este conjunto de juego de Mario Kart de Hot Wheels.
 - Carga y lanza el vehículo metálico de Mario Kart una y otra vez para ver quién consigue dejar atrás a Bowser y completar el máximo número de vueltas.
+- La figura de Bowser crea un gran obstáculo que los niños tendrán que superar mejorando sus habilidades y aprendiendo a calcular el tiempo.
+- Conjunto de pista con doble looping, carreras de uno contra uno y figura de Bowser situada estratégicamente para detener el vehículo de Yoshi.
+- Los fans de Mario Kart reconocerán al instante al personaje más conocido de la popular saga de videojuegos de carreras con este conjunto de juego de Mario Kart de Hot Wheels.
 
 [Visítala!!!](https://www.amazon.es/dp/B089FD9GNV/?tag=tolees-21)

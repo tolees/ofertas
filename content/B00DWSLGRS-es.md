@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 59.24 % en Geox Uomo Snake K  Zapatillas para Hombr'
-date: 2020-12-17 13:55:31
+date: 2020-12-19 08:39:44
 image: 'https://m.media-amazon.com/images/I/41imJ3ljVHL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Tienes [Geox Uomo Snake K  Zapatillas para Hombre  Beige  Beige/Dark Orange C084
 
 ℹ️:
 
-- Revestimiento: Malla
 - Material exterior: Cuero
+- Revestimiento: Malla
 - Tipo de tacón: Plano
 - Material de la suela: Goma
 - Cierre: Cordones
