@@ -25,10 +25,10 @@ Ahora mismo tienes [Bolsa de Viaje Pepe Jeans Molly](https://www.amazon.es/dp/B0
 
 🔎:
 
+- Very versatile. You can use it as a travel bag or as a sports bag. Base supports to protect the bag`s base.
 - Travel bag 53 cm x 29 cm x 25 cm. Made of Polyester.
 - By Joumma Bags.
 - Multiples ways of use: on the shoulder, as crossbody or hand bag
 - Front pocket with zipper.
-- Very versatile. You can use it as a travel bag or as a sports bag. Base supports to protect the bag`s base.
 
 [Visítala!!!](https://www.amazon.es/dp/B0853TSXK4/?tag=tolees-21)

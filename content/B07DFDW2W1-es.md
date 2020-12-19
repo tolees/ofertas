@@ -26,9 +26,9 @@ Está [Pop! The Simpsons - Figura de Vinilo Maggie Simpson](https://www.amazon.e
 ℹ️:
 
 - Funko pop
-- Licencia oficial
-- Figura coleccionable
 - Nº 498
+- Figura coleccionable
 - Colección los simpsons
+- Licencia oficial
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07DFDW2W1/?tag=tolees-21)

@@ -25,9 +25,9 @@ Ahora mismo tienes [Cribel Queen- Juego de sillas de metal y piel sintética  4 
 
 🔎:
 
-- Juego de 4 sillas
-- Con asiento y respaldo en cuero
 - Cepillado de metal lacado
+- Con asiento y respaldo en cuero
+- Juego de 4 sillas
 - Dimensiones de 40 x 47 x 96 cm
 
 [Visítala!!!](https://www.amazon.es/dp/B015OSA8HC/?tag=tolees-21)

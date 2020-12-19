@@ -25,8 +25,8 @@ Tienes [bollé 21874 Máscaras  Unisex Adulto  Negro  Mate   M](https://www.amaz
 
 ℹ️:
 
-- Lente: Black Chrome
-- Categoría: 3
 - Lente cilíndrica
+- Categoría: 3
+- Lente: Black Chrome
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FNG8XNX/?tag=tolees-21)

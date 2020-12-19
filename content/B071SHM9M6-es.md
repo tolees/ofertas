@@ -25,10 +25,10 @@ Ahora mismo tienes [Nenuco Super Set de Ropa  35 cm  Famosa 700013740 ](https://
 
 🔎:
 
-- Ayuda a desarrollar la motricidad y la destreza manual
-- Ropita para muñecos de 35 cm
 - Con detalles infantiles para llamar la atención de los más pequeños
+- Ayuda a desarrollar la motricidad y la destreza manual
 - Set de ropa compuesta por 6 diferentes piezas
 - Permite crear diferentes combinaciones para la muñeca
+- Ropita para muñecos de 35 cm
 
 [Visítala!!!](https://www.amazon.es/dp/B071SHM9M6/?tag=tolees-21)

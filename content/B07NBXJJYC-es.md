@@ -25,7 +25,7 @@ Está [Superdry OL Essential Tank Camiseta sin Mangas  Morado  Parma Violet Nda 
 
 ℹ️:
 
-- We recommend one size larger
 - Superdry clothing is made with the right balance between style and comfort. We recommend a size larger than your usual brands for a true Superdry experience
+- We recommend one size larger
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07NBXJJYC/?tag=tolees-21)

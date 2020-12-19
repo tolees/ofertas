@@ -25,8 +25,8 @@ Está [Xiaomi repetidor MI WiFi Range Extender Pro](https://www.amazon.es/dp/B08
 
 ℹ️:
 
-- Producto de alta calidad de la marca Xiaomi
 - Los mejores productos electrónicos para tu disfrute personal
+- Producto de alta calidad de la marca Xiaomi
 - Diseño moderno y funcional
 
 [Ver la oferta!!](https://www.amazon.es/dp/B084WT4WWK/?tag=tolees-21)

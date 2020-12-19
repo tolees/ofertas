@@ -26,8 +26,8 @@ Tienes [INJUSA – Moto Ninja Kawasaki ZX10 a 12V con Acelerador en Puño  Entra
 ℹ️:
 
 - Moto Ninja Kawasaki ZX10 a batería de 12V, con licencia oficial de marca, recomendada para niños desde los 3 años
-- Diseño ergonómico que incluye ruedas estabilizadoras y aceleración en el puño derecho del manillar
 - Alcanza una velocidad máxima de 6 km/h y dispone de entrada mp3 para escuchar música
 - Incluye 1 batería de 12V y cargador, se fabrica en España y cumple con las normativas de seguridad de la UE
+- Diseño ergonómico que incluye ruedas estabilizadoras y aceleración en el puño derecho del manillar
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07TLZ2HZX/?tag=tolees-21)

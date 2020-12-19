@@ -25,10 +25,10 @@ Está [RamonSoler 43D304796 Columna Telescópica 880-1460 mm  Negro Mate con Ter
 
 ℹ️:
 
-- Sistema Cooltouch antiquemaduras y sistema limitador de temperatura de uso eficiente de 38º a 42º
-- Su acabado negro mate de óptima resistencia por su tratamiento electrostático sobre galvanizado, proporciona un plus de elegancia y durabilidad
+- Columna telescópica que permite su extensión entre los 880-1460 mm, para adaptarse de la óptima manera al usuario
 - Rociador slim y teleducha con sistema de oxigenación interna, y sistema anti calcáreo con boquillas de silicona flexible, muy fácil de limpiar y de eliminar la cal
 - Consumo reducido y respetuoso con el medio ambiente, sin pérdida de confort para el usuario
-- Columna telescópica que permite su extensión entre los 880-1460 mm, para adaptarse de la óptima manera al usuario
+- Su acabado negro mate de óptima resistencia por su tratamiento electrostático sobre galvanizado, proporciona un plus de elegancia y durabilidad
+- Sistema Cooltouch antiquemaduras y sistema limitador de temperatura de uso eficiente de 38º a 42º
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08JHLXV2S/?tag=tolees-21)

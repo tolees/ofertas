@@ -25,10 +25,10 @@ Está [Proyector Portátil Home Movie Theater Mini HD 1080P  Proyector Miniatura
 
 ℹ️:
 
-- Convenient power supply mode, you can use the power bank 5V-2A output to supply power to the projector, wherever you go, you are not afraid of power failure.
-- The power consumption is reduced by 80% compared to previous metal halide lamps.
-- The environment-friendly miniature LED flat panel light source design has an extremely long life and can be used for 20,000 hours.
-- Quiet design and efficient heat dissipation. The combination of fan + aluminum radiator + eddy air duct is used to ensure stable operation for 24 hours.
 - Mini portable projector, compact and lightweight, easy to carry and use.
+- The power consumption is reduced by 80% compared to previous metal halide lamps.
+- Convenient power supply mode, you can use the power bank 5V-2A output to supply power to the projector, wherever you go, you are not afraid of power failure.
+- Quiet design and efficient heat dissipation. The combination of fan + aluminum radiator + eddy air duct is used to ensure stable operation for 24 hours.
+- The environment-friendly miniature LED flat panel light source design has an extremely long life and can be used for 20,000 hours.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B088NHSYGS/?tag=tolees-21)

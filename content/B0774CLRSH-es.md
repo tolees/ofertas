@@ -25,8 +25,8 @@ Tienes [Eastpak Benchmark Single Estuche  21 Cm  Azul  Cloud Navy ](https://www.
 
 ℹ️:
 
-- Fabricada 100 % en nylon
-- Compartimento principal amplio para lápices y otros esenciales
 - Altura: 6 cm, Ancho: 20.5 cm, Fondo: 7.5 cm
+- Compartimento principal amplio para lápices y otros esenciales
+- Fabricada 100 % en nylon
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0774CLRSH/?tag=tolees-21)

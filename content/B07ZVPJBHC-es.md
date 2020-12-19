@@ -26,7 +26,7 @@ Está [Levi s Original Trucker Chaqueta  All Mine  M para Mujer](https://www.ama
 ℹ️:
 
 - Bolsillos de parche en el pecho con solapa y corchete
-- Un básico versátil para completar cualquier conjunto
 - Trabillas ajustables en la parte posterior de la cinturilla
+- Un básico versátil para completar cualquier conjunto
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07ZVPJBHC/?tag=tolees-21)

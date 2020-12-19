@@ -25,10 +25,10 @@ Está [Michael Kors Reloj Cronógrafo para Mujer de Cuarzo con Correa en Acero I
 
 ℹ️:
 
+- Resistente al agua: 5 ATM
 - Material de la correa: acero inoxidable
-- Ancho de la correa: 20 mm; circunferencia de la correa: 190 +/- 5 mm
 - Se presenta en caja de regalo Michael Kors
 - Grosor de la caja: 13 mm; tamaño de la caja: 43 mm
-- Resistente al agua: 5 ATM
+- Ancho de la correa: 20 mm; circunferencia de la correa: 190 +/- 5 mm
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01BETGB9O/?tag=tolees-21)

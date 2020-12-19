@@ -25,10 +25,10 @@ Tienes [Enchantimals Fiesta pastelera  muñeca con accesorios  Mattel FJJ28 ](ht
 
 ℹ️:
 
-- El pack Fiesta pastelera, inspirado en el mundo de Enchantimals, incluye una muñeca de 15 cm, dos figuras de animales y accesorios para reproducir escenas familiares
-- Un llamativo horno amarillo en forma de cerdito con orejitas tiene una puerta rosa decorada con un corazón Se puede abrir para «hornear» la bandeja de magdalenas
-- El cerdito pequeño tiene pelo y lleva un gorro de cocinero azul que se puede poner y quitar
 - Petya Pig luce un colorido conjunto con un delantal en el corpiño, una falda extraíble con estampado de flores, un delantal amarillo con lunares rosas, zapatos rosas y gorro de cocinera
+- El pack Fiesta pastelera, inspirado en el mundo de Enchantimals, incluye una muñeca de 15 cm, dos figuras de animales y accesorios para reproducir escenas familiares
+- El cerdito pequeño tiene pelo y lleva un gorro de cocinero azul que se puede poner y quitar
+- Un llamativo horno amarillo en forma de cerdito con orejitas tiene una puerta rosa decorada con un corazón Se puede abrir para «hornear» la bandeja de magdalenas
 - Petya Pig, su mascota Streusel y otra figura de un cerdito están listas para saborear la diversión con esta cocina colorida
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0756Z9JZS/?tag=tolees-21)

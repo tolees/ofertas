@@ -26,7 +26,7 @@ Está [Petit Bateau 5371400 Mono  Multicolor  Variante 1 Zga   3-6 meses  Talla 
 ℹ️:
 
 - Se puede lavar a máquina.
-- Colegio de contraste
 - 100% algodón.
+- Colegio de contraste
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07VDM6KNL/?tag=tolees-21)

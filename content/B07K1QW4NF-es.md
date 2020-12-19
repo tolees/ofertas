@@ -25,8 +25,8 @@ Tienes [adidas TASTIGO19 SHO Pantalones Cortos de Deporte  Hombre  White/Black  
 
 ℹ️:
 
-- Elastic waistband with lanyard
 - Regular fit
 - Climalite anti-humidity fabric
+- Elastic waistband with lanyard
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07K1QW4NF/?tag=tolees-21)
