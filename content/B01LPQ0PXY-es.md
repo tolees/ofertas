@@ -25,10 +25,10 @@ Está [L Oreal Paris Dermo Expertise - Arcillas puras mascarilla purificante  co
 
 ℹ️:
 
-- Su textura cremosa no reseca la piel y revela su resplandor; para todas las edades y todo tipo de pieles
+- Su fórmula incluye carbón y 3 arcillas puras
 - Día tras día los puntos negros se ven reducidos, la piel respira y está visiblemente transformada
 - Mascarilla facial limpiadora con arcillas puras
-- Su fórmula incluye carbón y 3 arcillas puras
+- Su textura cremosa no reseca la piel y revela su resplandor; para todas las edades y todo tipo de pieles
 - Sobre la piel limpia: 3 veces por semana, aplicar una fina capa sobre todo el rostro evitando el contorno de los ojos y los labios; 10-15 minutos y aclarar abundantemente con agua tibia
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01LPQ0PXY/?tag=tolees-21)

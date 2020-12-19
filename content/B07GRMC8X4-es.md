@@ -25,10 +25,10 @@ Está [Samsung Galaxy Watch - Reloj Inteligente  Bluetooth  Plata  46 mm- Versio
 
 ℹ️:
 
-- Resistente al agua
 - Localización: GPS, Glonass
-- Pantalla de 1.3 pulgadas
 - El altavoz y micrófono integrados en Galaxy Watch le permiten comunicarse en modo manos libres
+- Pantalla de 1.3 pulgadas
 - Memoria interna: 4 GB
+- Resistente al agua
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07GRMC8X4/?tag=tolees-21)
