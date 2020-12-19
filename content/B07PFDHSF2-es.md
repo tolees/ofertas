@@ -25,9 +25,9 @@ Tienes [Sudden Strike 4 - Complete Collection](https://www.amazon.es/dp/B07PFDHS
 
 ℹ️:
 
-- Soundtrack (descargable)
-- Manual (descargable)
 - Libro de arte (descargable)
+- Manual (descargable)
+- Soundtrack (descargable)
 - Incluye todos los DLC (5)
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07PFDHSF2/?tag=tolees-21)

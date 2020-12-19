@@ -25,8 +25,8 @@ Tienes [Delsey Segur Maleta Unisex Adulto Khaki 76 cm / 105 L](https://www.amazo
 
 ℹ️:
 
+- Segur 2.0 (2058821)
 - Trolley delsey
 - Trolley Tiempo Libre Y Sportwear Unisex Adulto
-- Segur 2.0 (2058821)
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08436QKCB/?tag=tolees-21)

@@ -25,10 +25,10 @@ Está [Pop! Vinilo: Disney: Aladdin  Live Action : Prince Ali](https://www.amazo
 
 ℹ️:
 
-- Descúbre otras figuras de la colección disney y colecciónalas todas
-- De la colección aladdin, prince ali como figura de vinilo pop de funko
-- Funko pop vinyl
 - Disney aladdin
+- Funko pop vinyl
 - Juguete del año 2018
+- De la colección aladdin, prince ali como figura de vinilo pop de funko
+- Descúbre otras figuras de la colección disney y colecciónalas todas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KPSSW81/?tag=tolees-21)

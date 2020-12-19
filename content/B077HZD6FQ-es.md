@@ -26,7 +26,7 @@ Ahora mismo tienes [adidas TABELA 18 JSY L Long Sleeved t-Shirt  Hombre  Clear B
 🔎:
 
 - Climalite anti-humidity fabric
-- V-neck
 - Slim fit
+- V-neck
 
 [Visítala!!!](https://www.amazon.es/dp/B077HZD6FQ/?tag=tolees-21)

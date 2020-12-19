@@ -25,9 +25,9 @@ Está [Brother LC3211BK Cartucho de tinta negro original para las impresoras DCP
 
 ℹ️:
 
-- 200 lados
 - Color negro
 - Producto de alta calidad marca Brother
+- 200 lados
 - Número de páginas impresas: 200
 - Dispositivos compatibles: DCPJ772DW
 

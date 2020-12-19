@@ -27,8 +27,8 @@ Tienes [TRIXIE Set Higiene Dental  Pasta y cepillos dedos  Perro](https://www.am
 
 - FÁCIL DE USAR : Con diferentes cepillos para garantizar la limpieza de toda la boca
 - SALUD DENTAL : Ayuda a mantener unos dientes limpios y unas encías sanas evitando el sarro dental
-- SABOR MENTA : Sabor que atrae y facilita la limpieza
 - KIT COMPLETO : El kit perro contiene pasta dientes con menta (100 g), 1 cepillo dientes de dedo y 1 cepillo masajeador, así como 1 cepillo doble cara con 2 cabezales
 - TRIXIE : marca líder en accesorios para mascotas con variedad de productos de higiene para perros
+- SABOR MENTA : Sabor que atrae y facilita la limpieza
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000V9AZUU/?tag=tolees-21)
