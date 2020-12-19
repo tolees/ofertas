@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.79 % en Kärcher WD 3 Premium Aspirador en seco y'
-date: 2020-12-07 17:36:50
+date: 2020-12-19 10:57:23
 image: 'https://m.media-amazon.com/images/I/311F7wuTMnL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IAPOPAI/?tag=tolees-21'
 descuento: '29.79'
+average: '82.45'
 ---
 
 Tienes [Kärcher WD 3 Premium Aspirador en seco y húmedo  1000 W  17 litros  75 Decibelios  Corriente sin control de encendido  Metal  Acero Inoxidable  Amarillo  Model nuevo](https://www.amazon.es/dp/B00IAPOPAI/?tag=tolees-21) con un 29.79 % de descuento con precio de oferta de 77.2 EUR (original: 109.95 EUR) en el siguiente enlace!
@@ -24,5 +25,10 @@ Tienes [Kärcher WD 3 Premium Aspirador en seco y húmedo  1000 W  17 litros  75
 
 ℹ️:
 
+- Asa extraíble
+- Filtro de cartucho especial
+- Posición de estacionamiento práctica
+- El recién desarrollado boquilla de suelo y la manguera
+- Función de soplado práctico
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00IAPOPAI/?tag=tolees-21)

@@ -25,10 +25,10 @@ Ahora mismo tienes [Moleskine Cahier Journal  juego de 3 cuadernos con páginas 
 
 🔎:
 
-- El Cuaderno es un cuaderno con una tapa robusta de cartón flexible personalizable y con costuras en el canto
-- El papel de color marfil, sin ácido, está delicadamente calibrado para satisfacer las diferentes necesidades creativas y adaptarse a todas las herramientas de escritura y dibujo
 - Adecuado para tomar notas en el trabajo o en la universidad o para dar rienda suelta a tu creatividad con lápices de colores
-- Cuaderno con tapa de cartón de color, esquinas redondeadas y hojas
+- El Cuaderno es un cuaderno con una tapa robusta de cartón flexible personalizable y con costuras en el canto
 - Las últimas 16 páginas son separables y hay una solapa para guardar las notas tomadas en hojas separadas; cada uno de los 3 cuadernos presenta la historia de Moleskine
+- El papel de color marfil, sin ácido, está delicadamente calibrado para satisfacer las diferentes necesidades creativas y adaptarse a todas las herramientas de escritura y dibujo
+- Cuaderno con tapa de cartón de color, esquinas redondeadas y hojas
 
 [Visítala!!!](https://www.amazon.es/dp/B01K03DBX4/?tag=tolees-21)

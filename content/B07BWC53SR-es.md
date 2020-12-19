@@ -25,10 +25,10 @@ Tienes [deAO Soldados en Batalla Fuerzas Armadas Unidad de Defensa Militar Conju
 
 ℹ️:
 
-- ALMACENAMIENTO: Mantén tu habitación ordenada y tus figuras seguras! Playset viene en una práctica bolsa transparente con asas y cremallera.
-- RECOMENDACIONES Y ADVERTENCIAS: No es adecuado para menores de 3 años. Para ser utilizado bajo la supervisión directa de un adulto. Tenga en cuenta; El accesorio de la bandera puede variar de las imágenes.
 - CONTENIDOS: Set incluye, soldados, tanques, artillería, torres de vigilancia, calabozo, muros, rocas y más!
-- IMAGINACIÓN: Ideal para actividades recreativas, para inspirar juegos amistosos y para desarrollar la comunicación social, generar creatividad e imaginación.
+- ALMACENAMIENTO: Mantén tu habitación ordenada y tus figuras seguras! Playset viene en una práctica bolsa transparente con asas y cremallera.
 - SOLDADOS EN BATALLA: conjunto de figura de acción militar, vehículos y accesorios (303 piezas en total).
+- IMAGINACIÓN: Ideal para actividades recreativas, para inspirar juegos amistosos y para desarrollar la comunicación social, generar creatividad e imaginación.
+- RECOMENDACIONES Y ADVERTENCIAS: No es adecuado para menores de 3 años. Para ser utilizado bajo la supervisión directa de un adulto. Tenga en cuenta; El accesorio de la bandera puede variar de las imágenes.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BWC53SR/?tag=tolees-21)

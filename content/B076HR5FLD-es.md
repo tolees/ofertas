@@ -26,7 +26,7 @@ Tienes [adidas CORE18 tee T-Shirt  Hombre  Power Red/White  M](https://www.amazo
 ℹ️:
 
 - Adidas logo on the front
-- Climalite anti-humidity fabric
 - Regular fit
+- Climalite anti-humidity fabric
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B076HR5FLD/?tag=tolees-21)

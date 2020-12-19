@@ -25,8 +25,8 @@ Ahora mismo tienes [Plastoy -Asterix-Village Tube 7 Figurines](https://www.amazo
 
 🔎:
 
-- Astérix.
-- Revive las aventuras de Astérix gracias a este tubo que incluye 7 figuras pequeñas.
 - Este tubo incluye 7 figuras pequeñas.
+- Revive las aventuras de Astérix gracias a este tubo que incluye 7 figuras pequeñas.
+- Astérix.
 
 [Visítala!!!](https://www.amazon.es/dp/B06Y461FCC/?tag=tolees-21)

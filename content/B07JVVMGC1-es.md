@@ -25,8 +25,8 @@ Ahora mismo tienes [Asics Jolt 2  Zapatillas de Deporte para Hombre  Negro  Blac
 
 🔎:
 
-- Suela de goma sólida
 - Tapa interior del talón
 - Entresuela de EVA
+- Suela de goma sólida
 
 [Visítala!!!](https://www.amazon.es/dp/B07JVVMGC1/?tag=tolees-21)

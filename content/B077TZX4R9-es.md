@@ -25,10 +25,10 @@ Tienes [Railway Empire - Limited Day One Edition](https://www.amazon.es/dp/B077T
 
 ℹ️:
 
-- productGroup : Videojuegos
-- binding : Videojuegos
-- Classification PEGI : ages_3_and_over
 - Plate-forme : PlayStation 4
 - manufacturerMinimumAge : 84.0
+- productGroup : Videojuegos
+- Classification PEGI : ages_3_and_over
+- binding : Videojuegos
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B077TZX4R9/?tag=tolees-21)

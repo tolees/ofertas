@@ -25,10 +25,10 @@ Ahora mismo tienes [Educa- Dame Esos Cinco Juego de Mesa para Niños  Multicolor
 
 🔎:
 
-- Un divertidísimo juego para toda la familia
-- Ya tienes tus 5 respuestas? pues choca esos 5
-- Recomendado a partir de 12 años
-- Serás capaz de dar las 5 respuestas antes de que se acabe el tiempo? choca esos 5 y empieza la acción
 - Contenido: 1 mano loca, 160 tarjetas, instrucciones
+- Ya tienes tus 5 respuestas? pues choca esos 5
+- Serás capaz de dar las 5 respuestas antes de que se acabe el tiempo? choca esos 5 y empieza la acción
+- Un divertidísimo juego para toda la familia
+- Recomendado a partir de 12 años
 
 [Visítala!!!](https://www.amazon.es/dp/B07D7PMYFN/?tag=tolees-21)
