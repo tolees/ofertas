@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 56.86 % en HUGO Reloj Multiesfera para Hombre de Cu'
-date: 2020-11-06 19:56:33
+date: 2020-12-19 09:45:31
 image: 'https://m.media-amazon.com/images/I/41b58c6iQTL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07N7P4LQZ/?tag=tolees-21'
 descuento: '56.86'
+average: '149.94400000000002'
 ---
 
 Tienes [HUGO Reloj Multiesfera para Hombre de Cuarzo con Correa en Acero Inoxidable 1530028](https://www.amazon.es/dp/B07N7P4LQZ/?tag=tolees-21) con un 56.86 % de descuento con precio de oferta de 129.0 EUR (original: 299.0 EUR) en el siguiente enlace!
@@ -24,5 +25,10 @@ Tienes [HUGO Reloj Multiesfera para Hombre de Cuarzo con Correa en Acero Inoxida
 
 ℹ️:
 
+- Esfera negro
+- Grosor de la caja de 8, 0 mm; Diámetro de la caja: 41 mm
+- Movimiento multifunción de cuarzo de tres manecillas
+- 3 ATM de resistencia al agua
+- Pulsera con chapado iónico negro
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07N7P4LQZ/?tag=tolees-21)

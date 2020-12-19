@@ -25,9 +25,9 @@ Está [MONCEY: MALETA CABINA 4 RUEDAS DOBLES 55 CM](https://www.amazon.es/dp/B07
 
 ℹ️:
 
+- PESO: 2,9KG
 - MONCEY es una gama segura y resistente que protegerá sus pertenencias de todo tipo de impacto. Las maletas de esta gama están fabricadas al 100% con polipropileno, el material más resistente ante los golpes. Cuentan con carcasas y cierres de marco impermeables Además, su cerradura de combinación TSA que le permitirá proteger su equipaje con un código de apertura personal.
 - MEDIDAS: 55 X 40 X 21 CM
-- PESO: 2,9KG
 - GARANTÍA DE 5 AÑOS
 - CAPACIDAD: 41,2L
 

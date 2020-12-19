@@ -25,10 +25,10 @@ Ahora mismo tienes [Lacoste L1212  Polo Para Hombre  Verde  Vert 132   X-Small  
 
 🔎:
 
-- Ribbed collar and armbands
-- Mother-of-pearl buttons
 - Cotton petit piqué
-- Classic fit
+- Ribbed collar and armbands
 - 2-button placket
+- Classic fit
+- Mother-of-pearl buttons
 
 [Visítala!!!](https://www.amazon.es/dp/B002RJFG42/?tag=tolees-21)

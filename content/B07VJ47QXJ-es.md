@@ -26,9 +26,9 @@ Tienes [KYG Cortapelos Impermeable 2 Modo de Velocidad Máquina de Cortar Pelo G
 ℹ️:
 
 - 【CARGA USB】La máquina cortadora de pelo se puede usar con o sin cable. Además del cargador habitual, también proporcionamos un cable de carga USB para que lo lleves contigo en tus viajes.
-- 【8 PEINES DE LONGITUDES】 Ofrecemos las peines-guía 3-6-9-12-15mm y las 2 para un corte por izquierda y derecha/la de entresacar, cepillo limpiador. Es muy fácil para controlar la longitud del pelo, 8 accesorios de peine puede satisfechar cualquier estilo de peinado deseado.
-- 【CUCHILLAS PROFESIONALES】 La cuchilla de movimento de cerámica y otra estática de titanio, ofrecen un mecanismo de corte profesional. Las cuchillas cerámica no se calentarán ni se enredarán en su pelo cuando la de titanio robusto tendrá un rendimiento más duradero. Afilado como el primer día segura la larga duración del uso del cortapelos y se corta e incluso fácilmente el pelo más grueso.
 - 【 DISEÑO IMPERMEABLE】Con una recortadora impermeable podrás recortarte el pelo o la barba mientras disfrutas de una refrescante ducha y ahorras tiempo en tu rutina matinal.
 - 【240 MINUTOS DE USO】La cortadora de pelo soporta 240 minutos con una carga de 3 horas, Indicador de carga y de batería baja o completa para evitar la falta de baterías cuando hace el corte.
+- 【8 PEINES DE LONGITUDES】 Ofrecemos las peines-guía 3-6-9-12-15mm y las 2 para un corte por izquierda y derecha/la de entresacar, cepillo limpiador. Es muy fácil para controlar la longitud del pelo, 8 accesorios de peine puede satisfechar cualquier estilo de peinado deseado.
+- 【CUCHILLAS PROFESIONALES】 La cuchilla de movimento de cerámica y otra estática de titanio, ofrecen un mecanismo de corte profesional. Las cuchillas cerámica no se calentarán ni se enredarán en su pelo cuando la de titanio robusto tendrá un rendimiento más duradero. Afilado como el primer día segura la larga duración del uso del cortapelos y se corta e incluso fácilmente el pelo más grueso.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07VJ47QXJ/?tag=tolees-21)

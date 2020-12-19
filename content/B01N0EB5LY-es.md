@@ -25,8 +25,8 @@ Tienes [Wahl Cuchilla de Afeitar - 200 gr](https://www.amazon.es/dp/B01N0EB5LY/?
 
 ℹ️:
 
-- Beauty products
-- Womens razor blades
 - Products by Wahl
+- Womens razor blades
+- Beauty products
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N0EB5LY/?tag=tolees-21)

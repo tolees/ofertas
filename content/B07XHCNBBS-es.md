@@ -25,11 +25,11 @@ Está [Overwatch - Legendary Edition  Este juego contiene código de descarga pa
 
 ℹ️:
 
-- Esta versión incluye: El juego completo. 15 skins que incluyen 5 aspectos de héroe legendarios, 5 aspectos de héroe épicos y 5 aspectos de héroe originales; se necesitan una conexión a internet y PlaystationPlus, Xbox Live Gold o Nintendo Online para jugar
-- No se aceptan devoluciones. Cualquier incidencia con el funcionamiento del juego debe ser tratada directamente con el servicio técnico de Blizzard
-- Contiene un código gratuito de tres meses de acceso a Nintendo Online
 - Contiene un código de descarga del juego, no tiene cartucho
+- Esta versión incluye: El juego completo. 15 skins que incluyen 5 aspectos de héroe legendarios, 5 aspectos de héroe épicos y 5 aspectos de héroe originales; se necesitan una conexión a internet y PlaystationPlus, Xbox Live Gold o Nintendo Online para jugar
 - Overwatch Legendary Edition para Nintendo Switch debe estar conectado a los servidores de juego. Los servidores empezarán a funcionar el martes, 15 de octubre, a las 20:00 CEST. Ten en cuenta que solo se podrá jugar a Overwatch Legendary Edition a partir de entonces
 - Este producto sólo contiene contenido digital
+- No se aceptan devoluciones. Cualquier incidencia con el funcionamiento del juego debe ser tratada directamente con el servicio técnico de Blizzard
+- Contiene un código gratuito de tres meses de acceso a Nintendo Online
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07XHCNBBS/?tag=tolees-21)
