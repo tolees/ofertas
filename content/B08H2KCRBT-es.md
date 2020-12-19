@@ -25,10 +25,10 @@ Está [Forgotten Waters ¡Desaventuras de Piratas en un Mundo mágico! - Juego d
 
 ℹ️:
 
-- Juego de 3 a 7 Jugadores
-- Con una duración de 30-120 Minutos por partida
 - Nota: Es necesaria una app para jugar a Forgotten Waters.
 - Juego de Mesa en Español
+- Juego de 3 a 7 Jugadores
+- Con una duración de 30-120 Minutos por partida
 - Recomendado a Partir de 14 Años de Edad
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08H2KCRBT/?tag=tolees-21)

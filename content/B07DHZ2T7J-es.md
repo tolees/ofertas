@@ -25,11 +25,11 @@ Está [Geox U Calgary C  Zapatos con Cordones Derby Hombre  Negro  Black C9999  
 
 ℹ️:
 
-- Tipo de tacón: Plano
-- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
-- Material exterior: Cuero
+- Revestimiento: Cuero
 - Cierre: Cordones
 - Material de la suela: Sintético
-- Revestimiento: Cuero
+- Material exterior: Cuero
+- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
+- Tipo de tacón: Plano
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07DHZ2T7J/?tag=tolees-21)

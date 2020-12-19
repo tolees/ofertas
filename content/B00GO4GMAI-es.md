@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'V-MODA XS-Metal Noise Isolating - Auricu al 65.33 % de descuento'
-date: 2020-12-16 12:17:06
+date: 2020-12-19 11:24:41
 image: 'https://m.media-amazon.com/images/I/41efkgq7EJL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ Está [V-MODA XS-Metal Noise Isolating - Auriculares de diadema cerrados  contro
 
 ℹ️:
 
-- Sensibilidad: 105 dB a 1kHz 1mW
 - Impedancia: 28.5 ohmios
-- Respuesta de frecuencia: 5 – 30.000 Hz
 - Sensibilidad del micrófono: -42dB a 1kHz
+- Respuesta de frecuencia: 5 – 30.000 Hz
+- Sensibilidad: 105 dB a 1kHz 1mW
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00GO4GMAI/?tag=tolees-21)

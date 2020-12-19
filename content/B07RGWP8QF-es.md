@@ -25,10 +25,10 @@ Tienes [Toy Story Figura Articulada Woody Super Interactivo 40 cm  BIZAK 6123443
 
 ℹ️:
 
-- Habla en español
-- Altura de 42 cm
 - Dos modos de juego: modo vivo y modo juguete
 - Reconoce la frase y se tumba
+- Habla en español
+- Altura de 42 cm
 - Su cabeza se mueve
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07RGWP8QF/?tag=tolees-21)

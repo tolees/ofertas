@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corsair Glaive RGB Pro - Ratón cómodo pa al 25.00 % de descuento'
-date: 2020-12-16 20:12:39
+date: 2020-12-19 11:01:12
 image: 'https://m.media-amazon.com/images/I/41PUdkIM8kL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Ahora mismo tienes [Corsair Glaive RGB Pro - Ratón cómodo para Juegos FPS/MOBA
 
 🔎:
 
-- Conmutadores Omron de óptimo rendimiento con una vida útil de 50 millones de clics: disfrute de su durabilidad a lo largo de varios años de juego
 - Agarres intercambiables para la zona del pulgar: los tres agarres intercambiables incluidos para la zona del pulgar proporcionan un ajuste adaptado a su mano
-- Forma cómoda y contorneada: se ajusta a su mano de forma natural para que pueda seguir jugando durante más tiempo
+- Conmutadores Omron de óptimo rendimiento con una vida útil de 50 millones de clics: disfrute de su durabilidad a lo largo de varios años de juego
 - Iluminación RGB dinámica en tres zonas: personalice su experiencia de juego con un amplio abanico de colores y efectos para la retroiluminación RGB
+- Forma cómoda y contorneada: se ajusta a su mano de forma natural para que pueda seguir jugando durante más tiempo
 - Sensor óptico personalizable de calidad de juego de 18.000 ppp: con incrementos de resolución de 1 ppp para que disfrute de un rendimiento adecuado y fiable
 
 [Visítala!!!](https://www.amazon.es/dp/B07QD1DG9Z/?tag=tolees-21)

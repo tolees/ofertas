@@ -25,11 +25,11 @@ Está [Adidas CORE18 TEE T-shirt  Hombre  Dark Grey Heather/ Black  M](https://w
 
 ℹ️:
 
-- Costura lateral adelantada para un ajuste más cómodo y una mayor libertad de movimiento.
-- Cuello redondo.
-- Ribetes en contraste.
-- Logotipo de adidas en el pecho.
 - Corte clásico más ancho y silueta recta.
+- Costura lateral adelantada para un ajuste más cómodo y una mayor libertad de movimiento.
+- Ribetes en contraste.
 - Tiene un material de algodón altamente funcional
+- Logotipo de adidas en el pecho.
+- Cuello redondo.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B076PDTJQJ/?tag=tolees-21)
