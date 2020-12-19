@@ -25,8 +25,8 @@ Tienes [POP Movie Moment: Star Wars The Rise of Skywalker - First Order Tread Sp
 
 ℹ️:
 
-- De la colección star wars the rise of skywalker, first order tread speeder como figura exclusiva de vinilo pop movie moment de funko
 - La figura mide 9 cm y se envía en una caja ilustrada con ventana
+- De la colección star wars the rise of skywalker, first order tread speeder como figura exclusiva de vinilo pop movie moment de funko
 - Disney star wars
 - Descúbre otras figuras de la colección disney star wars y colecciónalas todas
 - First order tread speeder

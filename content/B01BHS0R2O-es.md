@@ -27,8 +27,8 @@ Tienes [Oral-B Oxyjet - Sistema De Limpieza Irrigador Bucal Con Tecnología Brau
 
 - Irrigador Oxyjet de Oral-B, la marca de cepillos de dientes recomendada por dentistas en el mundo
 - Enriquece el agua con microburbujas de aire purificado para contribuir a la salud de las encías
-- Ajusta la presión del agua de baja a alta con el selector de control de presión
 - Contenido: 1 sistema de limpieza Oxyjet, 4 cabezales Oxyjet
 - Limpia entre los dientes: elimina con suavidad los restos de comida
+- Ajusta la presión del agua de baja a alta con el selector de control de presión
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01BHS0R2O/?tag=tolees-21)

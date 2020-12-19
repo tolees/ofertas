@@ -25,10 +25,10 @@ Tienes [OGX  Acondicionador Biotina y Colágeno  Cabello Fino  385 ml](https://w
 
 ℹ️:
 
-- El Acondicionador Biotina y Colágeno de OGX está compuesto de una fórmula increíble con biotina y colágeno, que ayudan a dar volumen, textura, y un aspecto fantástico a cualquier tipo de pelo, mente al pelo fino
-- El colágeno ayuda a combatir los radicales libres que afectan la textura, el crecimiento y el espesor del cabello
-- Para mejores resultados, utilice este acondicionador junto con el resto de productos de la gama de Biotina y Colágeno de OGX.
 - Contiene proteína de trigo hidrolizada, la cual aumenta la capacidad del cabello para retener la hidratación y le añade volumen y cuerpo
+- Para mejores resultados, utilice este acondicionador junto con el resto de productos de la gama de Biotina y Colágeno de OGX.
+- El Acondicionador Biotina y Colágeno de OGX está compuesto de una fórmula increíble con biotina y colágeno, que ayudan a dar volumen, textura, y un aspecto fantástico a cualquier tipo de pelo, mente al pelo fino
 - La Biotina o vitamina B7 favorece el crecimiento y la formación de las células, ayudando a reducir la caída del pelo
+- El colágeno ayuda a combatir los radicales libres que afectan la textura, el crecimiento y el espesor del cabello
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00MXZ66VM/?tag=tolees-21)

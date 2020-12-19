@@ -26,9 +26,9 @@ Está [Mega Bloks Juego de construcción de 60 piezas  bolsa ecológica rosa  ju
 ℹ️:
 
 - Compatible con otros bloques de construcción mega bloks
-- bloques de construcción para bebés a partir de 12 meses y niños hasta 5 años
+- óptimo para desarrollar motricidad y coordinación
 - regalo óptimo de mega bloks para que los niños aprendan mientras se divierten
 - set de construcción para bebés y niños pequeños que incluye 60 mega bloks maxi y una bolsa ecológica con cierre de cremallera
-- óptimo para desarrollar motricidad y coordinación
+- bloques de construcción para bebés a partir de 12 meses y niños hasta 5 años
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0083F2XDQ/?tag=tolees-21)

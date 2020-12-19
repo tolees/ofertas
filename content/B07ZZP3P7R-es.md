@@ -25,9 +25,9 @@ Ahora mismo tienes [Pop! Harry Potter: Harry Potter - Neville w/Monster Book](ht
 
 🔎:
 
-- El producto se envía en una caja ilustrada con ventana
-- El artículo es adecuado para todos los fanáticos de Harry Potter
 - Figura de colección de la marca Funko
+- El artículo es adecuado para todos los fanáticos de Harry Potter
+- El producto se envía en una caja ilustrada con ventana
 - Recomendado para niños a partir de 3 años
 
 [Visítala!!!](https://www.amazon.es/dp/B07ZZP3P7R/?tag=tolees-21)

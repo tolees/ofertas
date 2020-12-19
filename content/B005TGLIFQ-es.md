@@ -25,10 +25,10 @@ Ahora mismo tienes [Banpresto - One Punch Man Estatua Premium Saitama  multicolo
 
 🔎:
 
-- One punch man
 - Incluye base
-- Licencia oficial
 - Premium
+- Licencia oficial
 - Estatua de colección
+- One punch man
 
 [Visítala!!!](https://www.amazon.es/dp/B005TGLIFQ/?tag=tolees-21)

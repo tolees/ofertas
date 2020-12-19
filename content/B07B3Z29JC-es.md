@@ -26,9 +26,9 @@ Tienes [FILA Disruptor  Zapatillas para Hombre  White  44 EU](https://www.amazon
 ℹ️:
 
 - Disruptor Low
-- 1010262-1FG
-- Hombre
 - Zapatillas
+- Hombre
+- 1010262-1FG
 - Fila
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07B3Z29JC/?tag=tolees-21)
