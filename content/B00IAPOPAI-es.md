@@ -25,10 +25,10 @@ Tienes [Kärcher WD 3 Premium Aspirador en seco y húmedo  1000 W  17 litros  75
 
 ℹ️:
 
-- El recién desarrollado boquilla de suelo y la manguera
-- Posición de estacionamiento práctica
-- Función de soplado práctico
-- Filtro de cartucho especial
 - Asa extraíble
+- Filtro de cartucho especial
+- Posición de estacionamiento práctica
+- El recién desarrollado boquilla de suelo y la manguera
+- Función de soplado práctico
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00IAPOPAI/?tag=tolees-21)

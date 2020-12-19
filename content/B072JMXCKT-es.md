@@ -25,8 +25,8 @@ Tienes [Reebok Club C 85  Zapatillas Mujer  Blanco  White/Light Grey 0   36 EU](
 
 ℹ️:
 
-- Amortiguación
 - Empeine de piel
 - Zapatillas deportivas
+- Amortiguación
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B072JMXCKT/?tag=tolees-21)

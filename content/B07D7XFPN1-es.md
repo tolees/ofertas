@@ -25,8 +25,8 @@ Tienes [Fantasy Flight Games- Eminent Domain Microcosmos - Español  Color Rojo 
 
 ℹ️:
 
-- Producto en castellano.
 - Viaja con Eminent Domain: Microcosmos al interior del universo creado por Seth Jaffee.
 - Tienes tan solo nueve turnos para levantar tu imperio y convertirlo en el más importante de la galaxia.
+- Producto en castellano.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D7XFPN1/?tag=tolees-21)
