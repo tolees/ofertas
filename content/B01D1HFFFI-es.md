@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rimmel London Sculpting Palette  Polvos  al 42.18 % de descuento'
-date: 2020-12-18 06:39:15
+date: 2020-12-19 13:27:21
 image: 'https://m.media-amazon.com/images/I/417oWNj06QL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01D1HFFFI/?tag=tolees-21'
 descuento: '42.18'
-average: '4.242473118279573'
+average: '4.242631578947371'
 ---
 
 Ahora mismo tienes [Rimmel London Sculpting Palette  Polvos de maquillaje - Tono Coral Glow  18.5 g](https://www.amazon.es/dp/B01D1HFFFI/?tag=tolees-21) a 4.25 EUR (original: 7.35 EUR) (42.18 %  de descuento) en el siguiente enlace!
@@ -25,10 +25,12 @@ Ahora mismo tienes [Rimmel London Sculpting Palette  Polvos de maquillaje - Tono
 
 🔎:
 
-- For a radiant healthy glow
-- 3 shades to highlight, contour and blush
-- Easy to remove
-- Rimmel’s first Sculpting & Highlighting Kit designed by Kate Moss
-- Long-lasting colour seamlessly blends with natural skin tone
+- Tipo de piel: piel normal
+- Fácil de desmaquillar
+- Tipo de piel: Piel normal
+- Sombreador para contornear la nariz y la mandíbula
+- Paleta con 3 pasos para contouring
+- Polvo iluminador para resaltar mejillas, cejas, frente, barbilla y nariz
+- Colorete en polvo para dar color y definición
 
 [Visítala!!!](https://www.amazon.es/dp/B01D1HFFFI/?tag=tolees-21)

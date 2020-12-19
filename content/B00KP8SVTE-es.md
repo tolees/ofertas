@@ -25,9 +25,9 @@ Ahora mismo tienes [XLS Medical Carboblocker Ayuda Extra para Quienes Comen Una 
 
 🔎:
 
-- Reduce la absorción de hidratos de carbono.
-- 60 comprimidos = 10 días de tratamiento
 - Producto sanitario. Cumple con la normativa de productos sanitarios. Debe utilizarse con una dieta hipocalórica adecuada, actividad física y estilo de vida saludable. CPSP19162CAT
 - Especialmente indicado para dietas ricas en pasta, arroz o pan, o antes de una elevada ingesta de hidratos de carbono.
+- Reduce la absorción de hidratos de carbono.
+- 60 comprimidos = 10 días de tratamiento
 
 [Visítala!!!](https://www.amazon.es/dp/B00KP8SVTE/?tag=tolees-21)

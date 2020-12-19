@@ -25,9 +25,9 @@ Ahora mismo tienes [Clementoni- Puzzle 1000 Piezas Impossible Strange Things  39
 
 🔎:
 
-- Favorece la concentración y las habilidades manuales
-- Un Puzzle de vívidos colores, y alta calidad, para poderlo montar y desmontar cuantas veces se desee
-- Hecho en Italia
 - Puzzle adulto 1000 piezas imposible, con imágenes de distintos personajes, de alta calidad de impresión, y troquelado preciso
+- Un Puzzle de vívidos colores, y alta calidad, para poderlo montar y desmontar cuantas veces se desee
+- Favorece la concentración y las habilidades manuales
+- Hecho en Italia
 
 [Visítala!!!](https://www.amazon.es/dp/B084HG2QQH/?tag=tolees-21)

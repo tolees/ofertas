@@ -25,9 +25,9 @@ Tienes [Jack & Jones Jones - Camiseta de manga corta con cuello redondo para hom
 
 ℹ️:
 
-- Artículo: 12058529 BASIC TEE
 - Designer: JACK&JONES
-- Estación: SIEMPRE DISPONIBLE
+- Artículo: 12058529 BASIC TEE
 - Color: OPTICAL BLANCO
+- Estación: SIEMPRE DISPONIBLE
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0085SFY8W/?tag=tolees-21)

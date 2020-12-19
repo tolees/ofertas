@@ -25,10 +25,10 @@ Está [Panama Jack Piola  Botas Altas para Mujer  Marrón  Cuero B8   42 EU](htt
 
 ℹ️:
 
-- Altura del tacón: 6,50 cm
 - Resistente al agua
 - Principal Material: napa, material del revestimiento: piel de oveja sintética. Material de la suela: goma. Material de la suela: no
-- Fabricado en España
 - Panama Jack - Botas clásicas de piel para mujer
+- Altura del tacón: 6,50 cm
+- Fabricado en España
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07N6GKGQW/?tag=tolees-21)

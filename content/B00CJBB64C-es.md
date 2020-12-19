@@ -25,8 +25,8 @@ Está [Brecon Ginebra - 700 ml](https://www.amazon.es/dp/B00CJBB64C/?tag=tolees-
 
 ℹ️:
 
-- Máxima calidad
 - Gran sabor
+- Máxima calidad
 - Ideal para cualquier ocasión
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00CJBB64C/?tag=tolees-21)

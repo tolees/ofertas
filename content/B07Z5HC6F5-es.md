@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Salomon XA COLLIDER GTX  Zapatillas de T al 41.35 % de descuento'
-date: 2020-12-17 11:14:36
+date: 2020-12-19 13:28:43
 image: 'https://m.media-amazon.com/images/I/41mpUihaXWL._SL200_.jpg'
 comments: true
 category: ofertas

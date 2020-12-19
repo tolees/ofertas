@@ -25,9 +25,9 @@ Tienes [Tiffen - Filtro de niebla  77 mm  1/4   color negro](https://www.amazon.
 
 ℹ️:
 
-- Crea un efecto pastel de luz suave
-- 77 mm de diámetro
 - Efecto delicado con destello de resaltado contenido
+- 77 mm de diámetro
 - El contraste se reduce, pero con menos iluminación de sombras para un efecto más delicado
+- Crea un efecto pastel de luz suave
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000NMQHLG/?tag=tolees-21)
