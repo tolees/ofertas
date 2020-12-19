@@ -25,9 +25,9 @@ Está [Emporio Armani Reloj de Pulsera AR2494](https://www.amazon.es/dp/B019K6FO
 
 ℹ️:
 
+- Presentado en estuche EMPORIO ARMANI
 - Correa de piel marrón con pespuntes marrones e imitación cocodrilo - Hebilla
 - Reloj de hombre EMPORIO ARMANI - Caja redonda de acero inoxidable (diám. 43 mm) con acabado pulido brillante y mate - 2 pulsadores cromados - 5 ATM de resistencia a la presión del agua
-- Presentado en estuche EMPORIO ARMANI
 - Esfera aziul estampada, índices cromados y logo del águila a las 12 - Cronógrafo con fecha y modo 24h - Agujas cromadas - Cristal Mineral
 
 [Ver la oferta!!](https://www.amazon.es/dp/B019K6FOGE/?tag=tolees-21)

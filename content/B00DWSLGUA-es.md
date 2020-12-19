@@ -25,10 +25,10 @@ Tienes [Geox Uomo Snake K  Zapatillas para Hombre  Beige  Beige/Dark Orange C084
 
 ℹ️:
 
-- Revestimiento: Malla
+- Material exterior: Cuero
 - Material de la suela: Goma
+- Revestimiento: Malla
 - Cierre: Cordones
 - Tipo de tacón: Plano
-- Material exterior: Cuero
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00DWSLGUA/?tag=tolees-21)

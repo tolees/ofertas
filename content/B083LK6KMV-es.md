@@ -26,9 +26,9 @@ Ahora mismo tienes [Anker PowerPort III USB-C 65W Ladegerät mit 3 Ladeports  mi
 🔎:
 
 - WAS DU BEKOMMST: Ein PowerPort III 3-Port 65W USB-C Ladegerät, eine Bedienungsanleitung, 18 Monate Herstellergarantie sowie freundlichen Kundenservice. (Ladekabel separat erhältlich.)
-- POWERED BY GaN: Silikon wurde erstmals mit Galliumnitrid (GaN) ersetzt. Das Ergebnis: Fantastische Effizienz bei weniger Wärmeerzeugung in einem kleinen, federleichten Design.
 - HIGH-SPEED USB-C: Der 45W PowerIQ 3.0 USB-C Ladeport sorgt für mehr als genug Energie für deinen USB-C Laptop, wie zum Beispiel Dell XPS 13 oder MacBook Air 2018.
-- DER PERFEKTE REISEBEGLEITER: Das federleichte und kompakte Design ist außerdem mit 3 austauschbaren Steckern ausgestattet, damit du mühelos in Europa, Großbritannien und den USA reisen und unterwegs laden kannst!
 - DOPPELTE KRAFT: Zwei USB-A ports und ein USB-C Port schenken dir insgesamt 65W Leistung, um 3 Geräte gleichzeitig zu Laden.
+- POWERED BY GaN: Silikon wurde erstmals mit Galliumnitrid (GaN) ersetzt. Das Ergebnis: Fantastische Effizienz bei weniger Wärmeerzeugung in einem kleinen, federleichten Design.
+- DER PERFEKTE REISEBEGLEITER: Das federleichte und kompakte Design ist außerdem mit 3 austauschbaren Steckern ausgestattet, damit du mühelos in Europa, Großbritannien und den USA reisen und unterwegs laden kannst!
 
 [Visítala!!!](https://www.amazon.es/dp/B083LK6KMV/?tag=tolees-21)

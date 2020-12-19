@@ -25,10 +25,10 @@ Tienes [Polti Vaporella Next VN 18.30 Centro de planchado con caldera de alta pr
 
 ℹ️:
 
-- Función Eco para limitar el consumo, función anti cal
-- Autonomía ilimitada, mango de corcho para un planchado más cómodo y práctico
+- Suela de aluminio para una distribución más uniforme del calor
 - Centro de planchado a vapor con 6 bares de presión
 - Orificios concentrados en la punta para una erogación de vapor más potente
-- Suela de aluminio para una distribución más uniforme del calor
+- Función Eco para limitar el consumo, función anti cal
+- Autonomía ilimitada, mango de corcho para un planchado más cómodo y práctico
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FZC8P3Z/?tag=tolees-21)

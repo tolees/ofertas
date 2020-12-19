@@ -25,10 +25,10 @@ Tienes [LUCK Extreme 3.0 MTB Zapatillas de Ciclismo  Adultos Unisex  Amarillo  4
 
 ℹ️:
 
+- Es recomendable pedir un número más, del número que usamos a diario en calzado de calle.
 - Construida en una sola pieza, sin costuras interiores.
 - Suela de Carbono, muy rígida y ligera.
-- Puntera y trasera de refuerzo.
 - 3 velcros para una sujeción perfecta.
-- Es recomendable pedir un número más, del número que usamos a diario en calzado de calle.
+- Puntera y trasera de refuerzo.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08HH8W98C/?tag=tolees-21)
