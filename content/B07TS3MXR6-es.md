@@ -26,7 +26,7 @@ Está [Levi s tee Camiseta  Pink  Peach Blush 0076   Medium para Mujer](https://
 ℹ️:
 
 - Modelo casual
-- Con un discreto logo en el pecho
 - Elaborada en punto suave
+- Con un discreto logo en el pecho
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TS3MXR6/?tag=tolees-21)

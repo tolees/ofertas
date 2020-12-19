@@ -25,8 +25,8 @@ Está [Sigma 886954 - Objetivo para cámara 18-300 mm F3.5-6.3 DC Macro OS HSM  
 
 ℹ️:
 
-- Función de estabilizador óptica (OS) que ofrece una excelente corrección
-- Nuevo y exclusivo objetivo macro que mantiene el valor MTF sobresaliente de objetivos Tele-zoom
 - Objetivo zoom "Todo-en-uno" con excelente rendimiento óptico  de la serie Contemporary
+- Nuevo y exclusivo objetivo macro que mantiene el valor MTF sobresaliente de objetivos Tele-zoom
+- Función de estabilizador óptica (OS) que ofrece una excelente corrección
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00NJ9K52W/?tag=tolees-21)

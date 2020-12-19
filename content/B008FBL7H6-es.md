@@ -25,8 +25,8 @@ Tienes [Martin Smith kit de guitarra acústica con cuerdas de guitarra negro pú
 
 ℹ️:
 
-- Esta guitarra acústica tiene un 20 trastes diapasón de palo de rosa con incrustaciones de puntos
 - Esta es una guitarra acústica de tamaño completo que tiene un cuerpo contorneado por lo que es ideal de edades 11+
+- Esta guitarra acústica tiene un 20 trastes diapasón de palo de rosa con incrustaciones de puntos
 - Esta guitarra acústica tiene dos cabezas del engranaje de metal y celosía de ajuste asegurando su guitarra tendrá una duración
 - El paquete incluye, piezas de cuerdas de la guitarra, púas de guitarra y correa de la guitarra
 - Esta guitarra acústica viene con cuerdas de acero que permanecerán en sintonía durante más tiempo

@@ -25,9 +25,9 @@ Tienes [Vilber Gran Chef Kollar Alfombra  Vinilo y PVC  AZUL  40 x 78 cm](https:
 
 ℹ️:
 
+- Antideslizantes, resistentes al fuego
+- Aislantes, protegen suelos delicados
 - Estampado digital
 - Uso decorativo
-- Aislantes, protegen suelos delicados
-- Antideslizantes, resistentes al fuego
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B077QC61NP/?tag=tolees-21)

@@ -27,8 +27,8 @@ Tienes [Mayor de Castilla Verdejo - Vino Blanco D.O Rueda  Pack de 6 Botellas x 
 
 - Gusto: En boca es sabroso y refrescante, abierto en boca, con un final persistente y un retrogusto afrutado
 - Elaboración: Elaborado con la selección de uvas Verdejo, la fermentación se hace en depósitos de acero inoxidable con un estricto control de temperatura entre 13 y 15 grados
+- Aroma: Destacan los aromas varietales frescos con alta intensidad de piña, melón y maracuyá sobre un fondo de anís
 - Consumo: Para disfrutar de sus cualidades óptimas, recomendamos su consumo entre los 6 y 8 ºC y conservarlo en en buenas condiciones de humedad
 - Apariencia: Vino blanco color amarillo pálido, con matices verdosos
-- Aroma: Destacan los aromas varietales frescos con alta intensidad de piña, melón y maracuyá sobre un fondo de anís
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00CDGQB0M/?tag=tolees-21)

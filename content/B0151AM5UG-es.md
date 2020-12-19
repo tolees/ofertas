@@ -25,10 +25,10 @@ Tienes [Tenda F3 - Router WiFi  300 Mbps  Color Blanco](https://www.amazon.es/dp
 
 ℹ️:
 
-- VpN PPTP, L2PT
 - WISP , WPS, Band with control, Mac Add . Clone, gestión remota
 - AP, WISP, WDS Bridge
-- 1 Puerto Wan
 - 64/128bit WEP, WPA-PSK, WPA2-PSK, WPS support
+- 1 Puerto Wan
+- VpN PPTP, L2PT
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0151AM5UG/?tag=tolees-21)

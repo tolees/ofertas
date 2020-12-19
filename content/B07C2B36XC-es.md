@@ -25,9 +25,9 @@ Tienes [Jack & Jones Jjebasic Knit V-Neck Noos suéter  Gris  Navy Blazer Detail
 
 ℹ️:
 
-- - Classic – and suitable for every day.
-- Regular fit knitted piece for men.
-- Material composition: 100 % cotton.
 - Made from comfortable cotton
+- Material composition: 100 % cotton.
+- Regular fit knitted piece for men.
+- - Classic – and suitable for every day.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07C2B36XC/?tag=tolees-21)

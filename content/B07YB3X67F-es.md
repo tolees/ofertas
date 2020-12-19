@@ -25,10 +25,10 @@ Ahora mismo tienes [Seiko Inspección automática SRPD69K1](https://www.amazon.e
 
 🔎:
 
-- Color de la esfera: Rojo
-- Pulsera: Acero inoxidable
 - Material de la caja: Acero inoxidable
 - Material de la esfera: Hardlex
+- Pulsera: Acero inoxidable
+- Color de la esfera: Rojo
 - Cierre: Cierre deployante
 
 [Visítala!!!](https://www.amazon.es/dp/B07YB3X67F/?tag=tolees-21)
