@@ -25,9 +25,9 @@ Está [Trust Gaming GXT 220 - Base de refrigeración para Ordenador portátil de
 
 ℹ️:
 
-- Para ordenadores portátiles de hasta 17.3"
 - Ventilador silencioso alimentado por USB
 - Ventilador muy grande iluminado en rojo
 - Mantiene su ordenador portátil refrigerado para aumentar el rendimiento
+- Para ordenadores portátiles de hasta 17.3"
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00OE1B3JS/?tag=tolees-21)

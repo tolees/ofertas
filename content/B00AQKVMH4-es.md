@@ -25,10 +25,10 @@ Está [ROGER ORFEVRE Guillotina para Cortar Embutidos - SO APERO ! 28x15  5x10 c
 
 ℹ️:
 
+- Imperdible y barra antivuelco para colocar las rodajas de salchicha y cortarlos a la medida
 - Una muñeca ergonómico
+- Micro hoja de acero inoxidable, dentada de 9.5 cm
 - Con bandeja de recogida de las rebanadas del corte
 - Hoja de acero de madera de haya
-- Micro hoja de acero inoxidable, dentada de 9.5 cm
-- Imperdible y barra antivuelco para colocar las rodajas de salchicha y cortarlos a la medida
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00AQKVMH4/?tag=tolees-21)
