@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trust Gaming GXT 220 - Base de refrigera al 33.34 % de descuento'
-date: 2020-12-14 03:31:18
+date: 2020-12-19 05:16:25
 image: 'https://m.media-amazon.com/images/I/41viCAJAneL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00OE1B3JS/?tag=tolees-21'
 descuento: '33.34'
+average: '16.068695652173915'
 ---
 
 Está [Trust Gaming GXT 220 - Base de refrigeración para Ordenador portátil de hasta 17.3"  Negro](https://www.amazon.es/dp/B00OE1B3JS/?tag=tolees-21) con 33.34 de descuento por 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!
@@ -24,9 +25,9 @@ Está [Trust Gaming GXT 220 - Base de refrigeración para Ordenador portátil de
 
 ℹ️:
 
-- Ventilador silencioso alimentado por USB
-- Mantiene su ordenador portátil refrigerado para aumentar el rendimiento
-- Ventilador muy grande iluminado en rojo
 - Para ordenadores portátiles de hasta 17.3"
+- Ventilador silencioso alimentado por USB
+- Ventilador muy grande iluminado en rojo
+- Mantiene su ordenador portátil refrigerado para aumentar el rendimiento
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00OE1B3JS/?tag=tolees-21)
