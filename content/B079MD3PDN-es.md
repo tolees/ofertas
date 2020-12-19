@@ -1,35 +1,36 @@
 ---
 layout: post
-title: 'Salomon XA Pro 3D CSWP J  Zapatillas de  al 30.00 % de descuento'
-date: 2020-12-13 06:56:54
-image: 'https://m.media-amazon.com/images/I/41KeyDw+dhL._SL200_.jpg'
+title: 'Salomon XA Pro 3D CSWP J  Zapatillas de  al 28.00 % de descuento'
+date: 2020-12-19 20:45:55
+image: 'https://m.media-amazon.com/images/I/51hO9HZLDvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B079MD3PDN-es'
-actualPrice: 52.49 EUR
+actualPrice: 53.99 EUR
 currency: EUR
-price: 52.49
+price: 53.99
 comparePrice: 74.99 EUR
 prodname: 'Salomon XA Pro 3D CSWP J  Zapatillas de Deporte Unisex Adulto  Azul Navy Blazer Mallard Blue Hawaiian Surf  38 EU'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079MD3PDN/?tag=tolees-21'
-descuento: '30.00'
+descuento: '28.00'
+average: '51.64123287671233'
 ---
 
-Está [Salomon XA Pro 3D CSWP J  Zapatillas de Deporte Unisex Adulto  Azul Navy Blazer Mallard Blue Hawaiian Surf  38 EU](https://www.amazon.es/dp/B079MD3PDN/?tag=tolees-21) con 30.00 de descuento por 52.49 EUR (original: 74.99 EUR) en el siguiente enlace!
+Está [Salomon XA Pro 3D CSWP J  Zapatillas de Deporte Unisex Adulto  Azul Navy Blazer Mallard Blue Hawaiian Surf  38 EU](https://www.amazon.es/dp/B079MD3PDN/?tag=tolees-21) con 28.00 de descuento por 53.99 EUR (original: 74.99 EUR) en el siguiente enlace!
 
-[![Salomon XA Pro 3D CSWP J  Zapatillas de ](https://m.media-amazon.com/images/I/41KeyDw+dhL._SL200_.jpg)](https://www.amazon.es/dp/B079MD3PDN/?tag=tolees-21)
+[![Salomon XA Pro 3D CSWP J  Zapatillas de ](https://m.media-amazon.com/images/I/51hO9HZLDvL._SL200_.jpg)](https://www.amazon.es/dp/B079MD3PDN/?tag=tolees-21)
 
 ℹ️:
 
-- Cierre: Cordones rápidos
 - Tipo de tacón: Plano
-- Revestimiento: Sintético
-- Composición: Sintético
 - LONGITUD DEL PIE: 23,5 cm
+- Revestimiento: Sintético
 - Material de la suela: Sintético
+- Cierre: Cordones rápidos
+- Composición: Sintético
 - Material exterior: Cuero sintético
 
 [Ver la oferta!!](https://www.amazon.es/dp/B079MD3PDN/?tag=tolees-21)

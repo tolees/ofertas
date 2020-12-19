@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjebasic Knit V-Neck Noos s al 30.01 % de descuento'
-date: 2020-12-14 19:20:02
+date: 2020-12-19 21:11:00
 image: 'https://m.media-amazon.com/images/I/314CcJK-8CL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C27SMPD/?tag=tolees-21'
 descuento: '30.01'
-average: '15.061428571428571'
+average: '15.12888888888889'
 ---
 
 Está [Jack & Jones Jjebasic Knit V-Neck Noos suéter  Azul  Navy Blazer Navy Blazer   X-Large para Hombre](https://www.amazon.es/dp/B07C27SMPD/?tag=tolees-21) con 30.01 de descuento por 17.49 EUR (original: 24.99 EUR) en el siguiente enlace!
@@ -25,8 +25,8 @@ Está [Jack & Jones Jjebasic Knit V-Neck Noos suéter  Azul  Navy Blazer Navy Bl
 
 ℹ️:
 
-- Jersey de manga larga de color azul marino. Cuello en pico. Detalle bordado.
-- Modelo: 12137194 JJEBASIC KNIT V-NECK NOOS NAVY BLAZER
 - Marca: Jack&Jones
+- Modelo: 12137194 JJEBASIC KNIT V-NECK NOOS NAVY BLAZER
+- Jersey de manga larga de color azul marino. Cuello en pico. Detalle bordado.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07C27SMPD/?tag=tolees-21)

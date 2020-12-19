@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 23.21 % en Gourmet - Gold Mousse con Pescado del Oc'
+date: 
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lGLmZZ1HL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B01G7G4N3K-es'
+actualPrice: 5.03 EUR
+currency: EUR
+price: 5.03
+comparePrice: 6.55 EUR
+prodname: 'Gourmet - Gold Mousse con Pescado del Océano Pack 12 x 85 g - 1020 g'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B01G7G4N3K/?tag=tolees-21'
+descuento: '23.21'
+average: '5.03'
+---
+
+Tienes [Gourmet - Gold Mousse con Pescado del Océano Pack 12 x 85 g - 1020 g](https://www.amazon.es/dp/B01G7G4N3K/?tag=tolees-21) con un 23.21 % de descuento con precio de oferta de 5.03 EUR (original: 6.55 EUR) en el siguiente enlace!
+
+[![Gourmet - Gold Mousse con Pescado del Oc](https://images-eu.ssl-images-amazon.com/images/I/41lGLmZZ1HL._SL200_.jpg)](https://www.amazon.es/dp/B01G7G4N3K/?tag=tolees-21)
+
+ℹ️:
+
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B01G7G4N3K/?tag=tolees-21)

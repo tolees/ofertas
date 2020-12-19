@@ -1,33 +1,34 @@
 ---
 layout: post
-title: 'Altavoz 30W Portátil Bluetooth 5.0 AY  I al 28.61 % de descuento'
-date: 2020-12-13 05:02:47
+title: 'Altavoz 30W Portátil Bluetooth 5.0 AY  I al 16.00 % de descuento'
+date: 2020-12-19 20:58:15
 image: 'https://m.media-amazon.com/images/I/51e3kpa8IrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07FDQB5P5-es'
-actualPrice: 35.69 EUR
+actualPrice: 41.99 EUR
 currency: EUR
-price: 35.69
+price: 41.99
 comparePrice: 49.99 EUR
 prodname: 'Altavoz 30W Portátil Bluetooth 5.0 AY  Impermeable IPX7 Altavozs Inalámbrico  Sonido estéreo HD Potentes conTWS & Micrófono  Resistente a Golpes  Autonomía de 24H para Camping Viajes  Aire Libre.'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FDQB5P5/?tag=tolees-21'
-descuento: '28.61'
+descuento: '16.00'
+average: '37.68999999999999'
 ---
 
-Ahora mismo tienes [Altavoz 30W Portátil Bluetooth 5.0 AY  Impermeable IPX7 Altavozs Inalámbrico  Sonido estéreo HD Potentes conTWS & Micrófono  Resistente a Golpes  Autonomía de 24H para Camping Viajes  Aire Libre.](https://www.amazon.es/dp/B07FDQB5P5/?tag=tolees-21) a 35.69 EUR (original: 49.99 EUR) (28.61 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Altavoz 30W Portátil Bluetooth 5.0 AY  Impermeable IPX7 Altavozs Inalámbrico  Sonido estéreo HD Potentes conTWS & Micrófono  Resistente a Golpes  Autonomía de 24H para Camping Viajes  Aire Libre.](https://www.amazon.es/dp/B07FDQB5P5/?tag=tolees-21) a 41.99 EUR (original: 49.99 EUR) (16.00 %  de descuento) en el siguiente enlace!
 
 [![Altavoz 30W Portátil Bluetooth 5.0 AY  I](https://m.media-amazon.com/images/I/51e3kpa8IrL._SL200_.jpg)](https://www.amazon.es/dp/B07FDQB5P5/?tag=tolees-21)
 
 🔎:
 
-- 【Sólido y Sólido y resistente al agua IPX7】: cubierto con un material de silicona resistente al agua, resistente a caídas y duradero, este gabinete ofrece un alto nivel de impermeabilización, más duradero que los demás. IPX7 a prueba de agua, es capaz de resistir la inmersión total en agua. Resistente al polvo, la nieve, el barro y las caídas, para que pueda usarse sin miedo en la ducha, senderismo, camping, en la playa, durante actividades extremas o en el jardín.
-- 【Doble efecto con tecnología avanzada TWS】: la tecnología de reducción de ruido y respiración, así como la estructura única de este altavoz, proporciona una calidad de sonido superior, bajos equilibrados y cristalinos. Al combinar dos altavoces Bluetooth del mismo modelo y usar TWS para lograr un potente sistema estéreo inalámbrico. Bluetooth 5.0 proporciona emparejamiento instantáneo y mantiene una conexión estable a una distancia de hasta 15 metros.
-- 【Sound Sonido increíble y Super Bass】: Dos altavoces de 15 W con dos diafragmas de radiador de bajos pasivos en los laterales, combinados con tecnología de audio DSP estéreo para lograr un sonido estéreo de 360 ​​° con graves profundos, claridad excepcional sin distorsión, lo que permite que su música se recupere al instante Vibrante y dinámico. Calidad de sonido perfecta para música y llamadas manos libres. No importa lo exigente que seas, te encantará este altavoz bluetooth.
-- 【Ultraportátil y elegante】: el uso de una superficie de metal de alta calidad de una sola pieza combinada con una forma artesanal exquisita tiene una apariencia simple y elegante, ya sea que se coloque vertical u horizontalmente, se adapta perfectamente a sus deseos. El altavoz le permite controlar una mano a voluntad, especialmente equipado con una cuerda, puede transportarlo fácilmente a cualquier lugar.
-- 【24 horas de música sin parar y llamadas con manos libres】: escuche música todo el tiempo que desee. Con su batería recargable de 5000 mAh, este altavoz le permite escuchar hasta 24 horas de música (a aproximadamente un 15% de volumen). Con el cable de audio de 3.5 mm conectado a la toma AUX-IN, reproduzca en un dispositivo que no sea Bluetooth. Micrófono incorporado con tecnología de reducción de ruido incorporada para llamadas más claras, más adecuado como altavoz.
+- 【Ultra-Portable & Hands-Free Calling】: Built in mic with anti-noise and anti-interference cancellation technology for more crystal and clear calls,better suited as a loud speakerphone.To be convenient for your life,Specially equipped with a rope, you can hang it anywhere. Compact size allows you to control one hand at will.
+- 【Long Battery Life & What you get】: Built-in 5000mAh rechargeable li-ion battery Supports up to 24 hours of playtime at 50% volum. Quick charge gets back to full in about 4 hours, so no need to worry about your devices dying when enjoy music. You can get: AY Bluetooth speaker,Micro USB charging cable,Aux in cable,quick start guide,feedback card, durable wrist strap and friendly customer service.
+- 【True Wireless Stereo Function】: Thanks to TWS function,pair 2 speakers together for stereo or party mode playback,build left-right channels for enabled speakers together to to enjoy 360°surround sound. Enjoy super bass sound of a wireless home cinema any time. Bluetooth 5.0 easily connect Tablets,cellphones,iPhones,iPad,Samsung,HTC to walking around 48ft more quickly and stable. Wired connection with non-Bluetooth devices with Integrated 3.5mm Audio Cable.
+- 【Tough and Solid & IPX7 Waterproof】: Covered in high quality anti-fall waterproof durable silicone material and protection design,So that the audio is more durable than others. Ipx7 waterproof means no more worrying about rain or spills, you canwithstand full immersion of up to 3.3ft for 30 mins,Perfect for beach,shower,boat,hiking, camping& risk,Enjoy the music wherever you want.
+- 【Brilliant Sound & Rich Bass】:Used high-sensitivity 30W powerful drivers with noise/wind reduction digital technology, to deliver premium stereo sound with deep bass, exceptional clarity and 0 distortion.Provide you enjoyful experience on HD clear music even in the noisy outdoor square.Perfect soundtrack for park, yard, parties, school, Christmas gift, Thanksgiving day, Halloween, Black Friday.
 
 [Visítala!!!](https://www.amazon.es/dp/B07FDQB5P5/?tag=tolees-21)

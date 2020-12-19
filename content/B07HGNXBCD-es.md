@@ -25,10 +25,10 @@ Está [Taurus Spiro - Barbero con aspirador  recorta tu barba sin ensuciar  11 a
 
 ℹ️:
 
+- Cabezal extraíble para una fácil limpieza
+- Uso con o sin cable; mayor comodidad y libertad de movimientos
+- Cuchillas de acero inoxidable de alta resistencia
 - 11 alturas de corte; ideal tanto para rasurar la barba como perfilar la o mantener la siempre a la misma medida
 - El aspirador incorporado en el barbero aspira el pelo mientras se corta, ideal para no ensuciar el baño
-- Cabezal extraíble para una fácil limpieza
-- Cuchillas de acero inoxidable de alta resistencia
-- Uso con o sin cable; mayor comodidad y libertad de movimientos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07HGNXBCD/?tag=tolees-21)

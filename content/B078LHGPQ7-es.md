@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'El Gran Showman [DVD] al 31.27 % de descuento'
-date: 2020-12-17 14:17:01
+date: 2020-12-19 21:02:40
 image: 'https://m.media-amazon.com/images/I/61ycJX5rLJL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078LHGPQ7/?tag=tolees-21'
 descuento: '31.27'
-average: '6.25'
+average: '6.503333333333334'
 ---
 
 Está [El Gran Showman [DVD]](https://www.amazon.es/dp/B078LHGPQ7/?tag=tolees-21) con 31.27 de descuento por 7.01 EUR (original: 10.2 EUR) en el siguiente enlace!

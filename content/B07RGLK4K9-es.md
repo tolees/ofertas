@@ -25,8 +25,8 @@ Ahora mismo tienes [Salomon Trailster 2  Zapatillas de Trail Running Hombre  Neg
 
 🔎:
 
-- Shoes trailster (l40962700)
 - Calzado salomon
 - Zapatillas de running running hombre
+- Shoes trailster (l40962700)
 
 [Visítala!!!](https://www.amazon.es/dp/B07RGLK4K9/?tag=tolees-21)
