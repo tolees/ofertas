@@ -25,9 +25,9 @@ Ahora mismo tienes [Logitech G920 Driving Force Volante de Carreras y Pedales  F
 
 🔎:
 
-- G920 Driving Force Pro también se puede usar en PC con determinados juegos
 - El mando de dirección, los botones de la consola semiautomáticas están situados en el volante para aportar comodidad
 - Volante y pedales de carreras, diseñados para los juegos de carreras en la consola Xbox One
+- G920 Driving Force Pro también se puede usar en PC con determinados juegos
 - Con cojinetes de acero en el eje del volante y pedales, Driving Force se ha diseñado para ofrecer una experiencia de conducción óptimo
 
 [Visítala!!!](https://www.amazon.es/dp/B011N78DMA/?tag=tolees-21)

@@ -25,10 +25,10 @@ Tienes [GREAT ART Set de 2 Carteles XXL - Banksy Graffiti & Havana Illustration 
 
 ℹ️:
 
-- ✅ CUADROS DE PARED arte urbano – Decoración de pared con muchas posibilidades de instalación como mural o póster – Recomendamos fijarlo a la pared o con cinta adhesiva o chinchetas
-- ✅ Descubra el conocido motivo "Flower Thrower" de Banksy con la típica cabina telefónica roja de Gran Bretaña, así como la pintura de un clásico Chevrolet en La Habana, un patrimonio cultural mundial.
 - ✅ 140cm x 100cm - 2 piezas - posters XXL en un set - 2 posters de pared con motivos de arte urbano. Trae un poco de Londres y Cuba a tu hogar.
-- ✅ Atención: ¡Abra el empaque con cuidado! Contiene materiales adicionales – Poster del horizonte de Nueva York (120cm x 42cm) y un mapa del mundo en calidad premium. ¡Ideal como regalo o decoración!
+- ✅ Descubra el conocido motivo "Flower Thrower" de Banksy con la típica cabina telefónica roja de Gran Bretaña, así como la pintura de un clásico Chevrolet en La Habana, un patrimonio cultural mundial.
+- ✅ CUADROS DE PARED arte urbano – Decoración de pared con muchas posibilidades de instalación como mural o póster – Recomendamos fijarlo a la pared o con cinta adhesiva o chinchetas
 - ✅ MADE IN GERMANY – Calidad GREAT ART hermosos motivos con coloresvivos ideales para sala de estar – dormitorio – cocina o para la habitación de los niños.
+- ✅ Atención: ¡Abra el empaque con cuidado! Contiene materiales adicionales – Poster del horizonte de Nueva York (120cm x 42cm) y un mapa del mundo en calidad premium. ¡Ideal como regalo o decoración!
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B084TPQRG9/?tag=tolees-21)
