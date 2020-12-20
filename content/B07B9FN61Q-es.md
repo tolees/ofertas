@@ -25,10 +25,10 @@ Ahora mismo tienes [Wonduu Máquina De Pasta Fresca Manual | Ky-901 Diferentes T
 
 🔎:
 
-- FÁCIL DE USAR: Selecciona la opción que deseas, solo tienes que enganchar su palanca en el hueco y de forma muy ligera y agradable empezar a girar. ¡También tienes la opción de incluir un motor.
 - HAZ 3 TIPOS DE PASTA DIFERENTES - Con la máquina de hacer pasta, podrás elegir entre 3 grosores diferentes. Puedes usar las anchas láminas de 15 cm para la lasaña y para hacer pasta con formas, usar el cortador para hacer tallarines o cambiar a la función alternativa del cortador de pasta para hacer espaguetis.
-- MEDIDAS: 18x17x13.5 cm. Destaca por su robustez y durabilidad.
 - MATERIALES RESISTENTES Y DURADEROS - Fabricada con acero inoxidable y aluminio, la máquina para hacer pasta fresca es uno de esos utensilios de cocina fiables que duran años. Fácil de ensamblar y de limpiar.
 - CHEF EN CASA: Sorprende en casa y conviértete en todo un chef de la cocina italiana.
+- MEDIDAS: 18x17x13.5 cm. Destaca por su robustez y durabilidad.
+- FÁCIL DE USAR: Selecciona la opción que deseas, solo tienes que enganchar su palanca en el hueco y de forma muy ligera y agradable empezar a girar. ¡También tienes la opción de incluir un motor.
 
 [Visítala!!!](https://www.amazon.es/dp/B07B9FN61Q/?tag=tolees-21)

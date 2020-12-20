@@ -26,8 +26,8 @@ Ahora mismo tienes [CUNIPIC Alimento para Hamster - 800 gr  Negro  Mediano  Ham 
 🔎:
 
 - Beneficios claves: Cereales: los cereales son una excelente fuente de hidratos de carbono y fibra indispensables para mantener la salud de los hamsters
-- Aditivos: Vitamina A 8000 UI/Kg, Vitamina D3 1500 UI/Kg, Vitamina E
 - Ingredientes: Trigo, cebada, extrusionados de maíz, copos de maíz, guisantes, pipa, sorgo, uva pasa, cacahuete y aceite de oliva.
+- Aditivos: Vitamina A 8000 UI/Kg, Vitamina D3 1500 UI/Kg, Vitamina E
 - Composición analítica: Proteína Bruta: 14,90 %. Aceites y Grasas Brutos: 6,62 %. Cenizas brutas: 3,86 %. Fibra Bruta: 7,27 %. Humedad: 10,28 %.
 - Modo de empleo: dejar a libre disposición del animal. Ofrecer siempre agua limpia y fresca al animal. Conservar en lugar fresco y seco.
 

@@ -25,8 +25,8 @@ Ahora mismo tienes [Nescafé DOLCE GUSTO CAFÉ CON LECHE DESCAFEINADO - Pack de 
 
 🔎:
 
-- Una idea simple pero con resultado delicioso y todo en una única cápsula inteligente
 - Un clásico del café que ha perdurado en el tiempo tanto para ocasiones especiales como para el día a día
 - Nescafé Dolce Gusto - Café con Leche Descafeinado
+- Una idea simple pero con resultado delicioso y todo en una única cápsula inteligente
 
 [Visítala!!!](https://www.amazon.es/dp/B07WLMX4BS/?tag=tolees-21)

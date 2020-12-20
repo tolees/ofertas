@@ -25,10 +25,10 @@ Tienes [ColiCor Conjunto de Luces Lluminación para Lego 76895 Speed Champions F
 
 ℹ️:
 
-- Set de luces para Speed ??Champions Ferrari F8 Tributo / LEGO set no incluido
-- Iluminación LED para LEGO 76895
-- Incluye: 1 juego de luces para LEGO 76895 Speed ??Champions Ferrari F8 Tributo. Solo se suministra luz LED, los juegos LEGO que se muestran en las imágenes no están incluidos
-- Batería: alimentado por 3 baterías AA (no incluidas)
 - Instalación fácil: use pinzas pequeñas para la instalación. Si se requieren instrucciones de instalación, las instrucciones de instalación en PDF se enviarán por correo electrónico.
+- Incluye: 1 juego de luces para LEGO 76895 Speed ??Champions Ferrari F8 Tributo. Solo se suministra luz LED, los juegos LEGO que se muestran en las imágenes no están incluidos
+- Set de luces para Speed ??Champions Ferrari F8 Tributo / LEGO set no incluido
+- Batería: alimentado por 3 baterías AA (no incluidas)
+- Iluminación LED para LEGO 76895
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08F52NTD3/?tag=tolees-21)

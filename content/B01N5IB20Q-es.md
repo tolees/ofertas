@@ -26,8 +26,8 @@ Ahora mismo tienes [Kingston A400 SSD SA400S37/240G - Disco duro sólido interno
 🔎:
 
 - Capacidad de la memoria: 240 GB
-- Velocidad de grabación: 350 MB/s
 - Rendimiento óptimo para la transferencia de archivos
 - Fiable y resistente
+- Velocidad de grabación: 350 MB/s
 
 [Visítala!!!](https://www.amazon.es/dp/B01N5IB20Q/?tag=tolees-21)

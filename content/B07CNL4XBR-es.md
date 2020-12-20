@@ -26,9 +26,9 @@ Ahora mismo tienes [Somat Oro Gel Lavavajillas Antigrasa - 70 Lavados](https://w
 🔎:
 
 - Permite dosificar, para medias cargas o ciclos cortos
-- Fácil disolución, para una limpieza impecable incluso en ciclos cortos
-- Somat gel con deep clean technology que penetra y ayuda a eliminar las suciedades resecas y difíciles
-- Efecto remojo que consigue eliminar las manchas de grasa quemada sin necesidad de pre-tratar
 - Anti-grasa - elimina hasta los restos de aceite más persistentes
+- Efecto remojo que consigue eliminar las manchas de grasa quemada sin necesidad de pre-tratar
+- Somat gel con deep clean technology que penetra y ayuda a eliminar las suciedades resecas y difíciles
+- Fácil disolución, para una limpieza impecable incluso en ciclos cortos
 
 [Visítala!!!](https://www.amazon.es/dp/B07CNL4XBR/?tag=tolees-21)

@@ -25,10 +25,10 @@ Ahora mismo tienes [POP! Vinilo: Disney: Toy Story 4: Buzz Lightyear](https://ww
 
 🔎:
 
-- De la colección toy story 4, buzz lightyear como figura de vinilo pop de funko
-- Funko pop vinyl
 - Juguete del año 2018
-- Disney toy story 4
+- De la colección toy story 4, buzz lightyear como figura de vinilo pop de funko
 - Descúbre otras figuras de la colección disney y colecciónalas todas
+- Disney toy story 4
+- Funko pop vinyl
 
 [Visítala!!!](https://www.amazon.es/dp/B07KPK1MPQ/?tag=tolees-21)

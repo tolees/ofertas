@@ -25,9 +25,9 @@ Tienes [POP! Bobble: Avengers Endgame: Thanos](https://www.amazon.es/dp/B07KPTBM
 
 ℹ️:
 
-- El producto se envía en una caja ilustrada con ventana
-- El artículo es adecuado para todos los fanáticos de Avengers Endgame
 - Recomendado para niños a partir de 3 años
 - Figura de colección de la marca Funko
+- El producto se envía en una caja ilustrada con ventana
+- El artículo es adecuado para todos los fanáticos de Avengers Endgame
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KPTBMY5/?tag=tolees-21)

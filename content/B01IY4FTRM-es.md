@@ -25,8 +25,8 @@ Ahora mismo tienes [Reebok Exofit Lo Clean Logo INT  Zapatillas Unisex Adulto  B
 
 🔎:
 
-- 1
 - Shoe Width : medium
 - Textíl, Textíl, Piel , cuero, caucho, Cordones, Zapatillas bajas
+- 1
 
 [Visítala!!!](https://www.amazon.es/dp/B01IY4FTRM/?tag=tolees-21)

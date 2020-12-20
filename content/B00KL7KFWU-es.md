@@ -25,9 +25,9 @@ Está [Orbegozo MS 4570 - Cortafiambres metálica con cuchilla de acero inoxidab
 
 ℹ️:
 
-- La marca del producto es Orbegozo
-- Cuchilla de acero inoxidable
 - Deslizador seguro y extraíble
+- La marca del producto es Orbegozo
 - Potencia: 150 W
+- Cuchilla de acero inoxidable
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00KL7KFWU/?tag=tolees-21)
