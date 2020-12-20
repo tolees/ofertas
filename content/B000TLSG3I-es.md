@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.67 % en Citizen Reloj Analógico para Hombre de C'
-date: 2020-12-07 06:28:22
+date: 2020-12-20 06:02:56
 image: 'https://m.media-amazon.com/images/I/51TuHddy5tL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000TLSG3I/?tag=tolees-21'
 descuento: '33.67'
+average: '311.7444444444444'
 ---
 
 Tienes [Citizen Reloj Analógico para Hombre de Cuarzo con Correa en Caucho JP2000-08E](https://www.amazon.es/dp/B000TLSG3I/?tag=tolees-21) con un 33.67 % de descuento con precio de oferta de 298.49 EUR (original: 450.0 EUR) en el siguiente enlace!
@@ -24,5 +25,7 @@ Tienes [Citizen Reloj Analógico para Hombre de Cuarzo con Correa en Caucho JP20
 
 ℹ️:
 
+- Brazalete Negro Goma
+- Movimiento Cuarzo
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000TLSG3I/?tag=tolees-21)
