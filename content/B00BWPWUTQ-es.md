@@ -26,9 +26,9 @@ Tienes [Woods of Windsor True Rose Polvo  100 gr](https://www.amazon.es/dp/B00BW
 ℹ️:
 
 - True Rose De Woods Of Windsor Para Mujeres Body Dusting Powder Con Puff 3.5 Oz
+- All our fragrances are 100% originals by their original designers. We do not sell any knockoffs or immitations.
 - El embalaje de este producto puede variar de la imagen mostrada arriba.
 - Nosotros ofrecemos muchas buenas ventas y descuentos que hacen este fragrancia más barato que en los grandes almacenes.
-- All our fragrances are 100% originals by their original designers. We do not sell any knockoffs or immitations.
 - Todo de nuestra fragancias son 100% originales de sus original diseñadores. Nosotros no venden imitaciones o imposturas.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00BWPWUTQ/?tag=tolees-21)

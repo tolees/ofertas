@@ -26,7 +26,7 @@ Tienes [Haribo Salino Dulces de Regaliz - 1000 gr](https://www.amazon.es/dp/B00X
 ℹ️:
 
 - Dulces de regaliz
-- Deliciosas piezas en forma de rombos
 - Irresistible sabor a regaliz
+- Deliciosas piezas en forma de rombos
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00XAPDOVE/?tag=tolees-21)

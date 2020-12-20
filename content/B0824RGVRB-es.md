@@ -25,10 +25,10 @@ Ahora mismo tienes [Avengers Power Moves Capitán América  Hasbro E7375EU4 ](ht
 
 🔎:
 
-- STEVE ROGERS ES CAPITÁN AMERICA: Al darle una fuerza sobrehumana mediante el suero del supersoldado, el héroe de la Segunda Guerra Mundial, Steve Rogers, es el Capitán America, líder de los Avengers
 - DISEÑO SIMBÓLICO INSPIRADO EN EL PERSONAJE DE MARVEL: Inspirados en los poderosos superhéroes del universo Marvel, estos juguetes para roleplay «Power Moves» para niños a partir de 5 años ofrecen toda la acción y aventura para tu roleplay Marvel
 - JUGUETES DE COLECCIÓN: Colecciona otros juguetes para roleplay de NERF Power Moves Marvel Avengers para empezar una colección, intercambiarlas con los amigos o regalar (Se venden por separado: Sujeto a disponibilidad:)
 - DEL UNIVERSO MARVEL: Los asombrosos 80 años de historia de Marvel están repletos de emoción, acción y aventura, y coloridos personajes como Iron Man, Spider-Man, Capitán America, Capitana Marvel, Black Panther, Black Widow y muchos más
+- STEVE ROGERS ES CAPITÁN AMERICA: Al darle una fuerza sobrehumana mediante el suero del supersoldado, el héroe de la Segunda Guerra Mundial, Steve Rogers, es el Capitán America, líder de los Avengers
 - ATAQUE LANZA ESCUDO: Los niños y niñas pueden imaginar que marchan como el Capitán America para solucionar los problemas: Mantén pulsado el botón y realiza un movimiento de lanza-escudo para lanzar el disco de escudo NERF
 
 [Visítala!!!](https://www.amazon.es/dp/B0824RGVRB/?tag=tolees-21)

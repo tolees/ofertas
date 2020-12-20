@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L Oréal Paris Color Riche Mate Pintalabi al 50.32 % de descuento'
-date: 2020-11-08 06:03:39
+date: 2020-12-20 20:17:52
 image: 'https://m.media-amazon.com/images/I/31bFaet5+CL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N9UORQR/?tag=tolees-21'
 descuento: '50.32'
+average: '6.76'
 ---
 
 Está [L Oréal Paris Color Riche Mate Pintalabios  Mate Rojo 346 Scarlet Silhouette](https://www.amazon.es/dp/B01N9UORQR/?tag=tolees-21) con 50.32 de descuento por 6.93 EUR (original: 13.95 EUR) en el siguiente enlace!
@@ -24,5 +25,10 @@ Está [L Oréal Paris Color Riche Mate Pintalabios  Mate Rojo 346 Scarlet Silhou
 
 ℹ️:
 
+- No reseca los labios gracias a la combinación de aceite de rosa mosqueta y aceites preciosos
+- Barra de Labios hidratante con un acabado mate y un color intenso
+- Una fórmula enriquecida con aceites de rosa mosqueta, jojoba y pigmentos de color intenso
+- Gama completa de 22 tonos
+- Colores mate intensos que nacen de los pigmentos puros; confort e hidratación; fragancia inolvidable
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01N9UORQR/?tag=tolees-21)

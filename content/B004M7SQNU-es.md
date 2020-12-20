@@ -25,10 +25,10 @@ Ahora mismo tienes [JVC HA-S160 - Auriculares de diadema abiertos  negro](https:
 
 🔎:
 
+- Cable de 1,2 m con delgado conector compatible iPhone bañado en oro
 - Sonido potente con excitador de neodimio de 30 mm
 - Diseño plano y plegable para un fácil transporte
 - Suaves almohadillas para excelente aislamiento de sonido y ajuste cómodo
-- Cable de 1,2 m con delgado conector compatible iPhone bañado en oro
 - Banda de acero inoxidable acolchada para la cabeza
 
 [Visítala!!!](https://www.amazon.es/dp/B004M7SQNU/?tag=tolees-21)

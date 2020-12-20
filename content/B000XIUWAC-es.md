@@ -25,10 +25,10 @@ Tienes [KNIPEX 97 53 04 Alicate autoajustable para entallar punteras de acceso l
 
 ℹ️:
 
-- Menor anchura del mango
-- Proceso de entallaje de gran calidad gracias al sistema de bloqueo con mecanismo de liberación automática
-- Ajuste automático al tamaño deseado de la puntera
 - Para un entallado correcto de punteras conforme a la norma DIN 46228 partes 1 + 4
+- Proceso de entallaje de gran calidad gracias al sistema de bloqueo con mecanismo de liberación automática
 - Estas herramientas han sido calibradas con precisión en fábrica
+- Ajuste automático al tamaño deseado de la puntera
+- Menor anchura del mango
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000XIUWAC/?tag=tolees-21)

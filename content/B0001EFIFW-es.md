@@ -25,9 +25,9 @@ Está [Nikon BAA664AA Action EX - Prismáticos  12 x 50 CF   Color Negro](https:
 
 ℹ️:
 
+- Impermeables y sin empañamiento gracias a las juntas tóricas y el gas nitrógeno
 - Resistente al agua (hasta 1m, durante 5 minutos) y sin empañamientos, con gas nitrógeno
 - Amplio campo de visión
 - Calidad garantizada por el fabricante
-- Impermeables y sin empañamiento gracias a las juntas tóricas y el gas nitrógeno
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0001EFIFW/?tag=tolees-21)

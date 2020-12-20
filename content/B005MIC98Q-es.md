@@ -25,11 +25,11 @@ Está [Hudora 14005 Big Wheel Air 205 - Patinete  Color Plateado](https://www.am
 
 ℹ️:
 
-- Apto para hasta 120 kg
 - <b>Edad mínima</b>: 60 meses.
-- <b></b> Freno de fricción trasera
+- Incluye asa bandolera y soporte
+- Apto para hasta 120 kg
 - Con manillar plegable con altura regulable (85-105 cm)
 - Manguitos de caucho antideslizantes
-- Incluye asa bandolera y soporte
+- <b></b> Freno de fricción trasera
 
 [Ver la oferta!!](https://www.amazon.es/dp/B005MIC98Q/?tag=tolees-21)

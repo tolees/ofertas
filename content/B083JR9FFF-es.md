@@ -26,9 +26,9 @@ Ahora mismo tienes [Bandai Figura Super Saiyan Vegeta V2 de Dragon Ball  17 cm ]
 🔎:
 
 - Character: Super Saiyan Vegeta Version 2
-- 16 points of articulation providing over 9, 000 individual figure positions.
+- 17 cm Figure
 - Collector figure from the Dragon Ball Z and Dragon Ball super series
 - Collect all the Bandai Dragon Stars Figures
-- 17 cm Figure
+- 16 points of articulation providing over 9, 000 individual figure positions.
 
 [Visítala!!!](https://www.amazon.es/dp/B083JR9FFF/?tag=tolees-21)

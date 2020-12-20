@@ -25,11 +25,11 @@ Ahora mismo tienes [Philips Serie 9000 S9711/32 - Máquina de afeitar con cabeza
 
 🔎:
 
-- Máquina de afeitar que corta hasta un 20 % más de pelo en una sola pasada
-- Incluye; sistema Smartclean plus, recortador de precisión para lucir un perfilado de patillas y de bigote adecuado y estuche de viaje
-- Ofrece 60 minutos de afeitado sin cable después de una hora de carga
 - Disfruta de un cómodo afeitado en seco o de un refrescante afeitado en húmedo
 - El sistema de limpieza Smartclean limpia, lubrica, seca y carga la afeitadora, manteniendo el mejor rendimiento, día tras día
 - Personaliza tu afeitado eligiendo entre 3 ajustes
+- Incluye; sistema Smartclean plus, recortador de precisión para lucir un perfilado de patillas y de bigote adecuado y estuche de viaje
+- Máquina de afeitar que corta hasta un 20 % más de pelo en una sola pasada
+- Ofrece 60 minutos de afeitado sin cable después de una hora de carga
 
 [Visítala!!!](https://www.amazon.es/dp/B00LO9Y44E/?tag=tolees-21)

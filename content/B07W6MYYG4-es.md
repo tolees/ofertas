@@ -25,10 +25,10 @@ Ahora mismo tienes [Linea Soldador Inverter 300A 15 KVA de Potencia Tecnologia I
 
 🔎:
 
-- Los Amperios se ajustan de forma sencilla mediante una ruleta y la pantalla ayuda a seleccionar los amperios deseados en cada momento.
 - Tiene un peso de 3.5 kilos (soldador + cable de corriente) y un tamaño 35 x 24 x 16cm aprox. (largo x ancho x alto) (soldador + cable de corriente).
-- Grupo de soldadura profesional con 300 Amperios y 15 KVA de potencia. Fabricado con la última tecnología IGBT. Protección de corriente de cortocircuito automática inmejorable.
-- Grado de protección IP21S, Factor de potencia: 0.93, Valido para electrodos de 1,6 a 4mm, Rango de corriente de soldadura desde 20A (20.8V) a 300A (32V).
 - Incluye un kit completo de accesorios para soldar: Careta de plástico, pinza de masa, pinza porta electrodos, cepillo - piqueta, 2 electrodos J422
+- Grado de protección IP21S, Factor de potencia: 0.93, Valido para electrodos de 1,6 a 4mm, Rango de corriente de soldadura desde 20A (20.8V) a 300A (32V).
+- Grupo de soldadura profesional con 300 Amperios y 15 KVA de potencia. Fabricado con la última tecnología IGBT. Protección de corriente de cortocircuito automática inmejorable.
+- Los Amperios se ajustan de forma sencilla mediante una ruleta y la pantalla ayuda a seleccionar los amperios deseados en cada momento.
 
 [Visítala!!!](https://www.amazon.es/dp/B07W6MYYG4/?tag=tolees-21)
