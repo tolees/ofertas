@@ -26,8 +26,8 @@ Ahora mismo tienes [Dr. Martens 1460 - Botas Militares de Mujer  Negro  Black Le
 🔎:
 
 - Cierre: cordones
-- Material de la suela: goma
 - Material exterior: cuero
+- Material de la suela: goma
 - Tipo de tacón: Plano
 - Adecuado para: unisex
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA COURTFLEX V2 V PS  Zapatillas Unise al 71.34 % de descuento'
-date: 2020-12-12 19:02:41
+date: 2020-12-20 17:01:26
 image: 'https://m.media-amazon.com/images/I/31vMS9eq4TL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07S6NRVDS/?tag=tolees-21'
 descuento: '71.34'
+average: '8.01'
 ---
 
 Está [PUMA COURTFLEX V2 V PS  Zapatillas Unisex niños  Azul  Peacoat/High Risk Red   32 EU](https://www.amazon.es/dp/B07S6NRVDS/?tag=tolees-21) con 71.34 de descuento por 8.01 EUR (original: 27.95 EUR) en el siguiente enlace!

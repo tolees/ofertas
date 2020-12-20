@@ -25,10 +25,10 @@ Ahora mismo tienes [Build a Bot- Mascota-Robot Mariquita  Famosa 700014570 ](htt
 
 🔎:
 
+- Incluye un motor eléctrico que permite a tu mascota corretear
 - Crea tu propia mascota-robot con Build A Bot
 - Puedes personalizar tu mascota con alas y decorarla con pegatinas
-- Incluye un motor eléctrico que permite a tu mascota corretear
-- Hay tres modelos disponibles: mariquita, abeja y hormiga
 - Fácil de montar, sólo con 20 piezas. Instrucciones de montaje incluidas en la caja
+- Hay tres modelos disponibles: mariquita, abeja y hormiga
 
 [Visítala!!!](https://www.amazon.es/dp/B07CDL7CTY/?tag=tolees-21)

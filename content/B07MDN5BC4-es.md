@@ -25,9 +25,9 @@ Está [Easy@Home Alivio del dolor Electroestimulador TENS y electroestimulación
 
 ℹ️:
 
+- 🍀¿QUIÉN SE BENEFICIA DE ESTE EQUIPO TENS + EMS 2 EN 1? Para aquellos que sufren de dolor muscular, crónico, del nervio y algunos dolores agudos. Es una alternativa libre de drogas para aliviar el dolor y la tensión.Ofrecemos almohadillas de electrodo de carbono autoadhesivas reemplazables para AS1080-16AB.
 - 🍀SEGURIDAD: NO utilices el producto si tienes un marcapasos cardiaco o una condición cardiaca existente, dispositivos de metal implantado, áreas del cuerpo o sufre de epilepsia. Por favor lea las advertencias de seguridad completa antes de comprar.
 - 🍀CANALES DUALES para ÁREAS DIFERENTES: Dos electrodos de control de canales independientes en pares que permiten la aplicación en diferentes áreas simultáneamente. Los 20 niveles de intensidad se pueden seleccionar independientemente para cualquier salida. 4 piezas de almohadillas de electrodo con muy Buena CF Calidad (las almohadillas de reemplazo se venden separada)
-- 🍀¿QUIÉN SE BENEFICIA DE ESTE EQUIPO TENS + EMS 2 EN 1? Para aquellos que sufren de dolor muscular, crónico, del nervio y algunos dolores agudos. Es una alternativa libre de drogas para aliviar el dolor y la tensión.Ofrecemos almohadillas de electrodo de carbono autoadhesivas reemplazables para AS1080-16AB.
 - 🍀ALIVIO SEGURO y EFICAZ: El dispositivo masajeador AS1080-16AB es una maquina natural, libre de drogas y muy eficaz para el alivio del dolor con efectos de estimulación muscular. Es un estimulador de músculo y nervio eléctrico y fácil de usar con una gran pantalla LCD retro iluminada, solo elija uno de los modos y la intensidad y llévalo a cualquier parte.
 - 🍀RECARGABLE y PODEROSO: Con 16 opciones de Auto Modos -7 EMS, 5 TENS, 4 TENS & EMS- y 8 tipos de masaje (tales como masaje, sobado, y acupuntura), el equipo portátil y de tamaño compacto proporciona el mejor alivio del dolor y la terapia para el dolor de espalda, dolor de rodilla, y mucho más. Este dispositivo de electroterapia requiere de una carga completa antes de su primer uso. Una vez cargado, la batería de litio le proporciona a este equipo profesional energía muy duradera.
 

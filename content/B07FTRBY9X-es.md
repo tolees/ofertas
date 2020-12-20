@@ -25,8 +25,8 @@ Está [Lee Slim Rider Chaqueta de mezclilla  Azul  Flick Dark Ka   XX-Large para
 
 ℹ️:
 
-- Con 2 bolsillos
 - Tiene bordado una etiqueta con el logotipo de la marca
+- Con 2 bolsillos
 - Chaqueta para hombre
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FTRBY9X/?tag=tolees-21)
