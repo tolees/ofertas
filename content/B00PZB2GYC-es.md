@@ -25,9 +25,9 @@ Ahora mismo tienes [Nike Wmns Court Royale  Zapatillas de Gimnasia Mujer  Blanco
 
 🔎:
 
-- Durable
-- embalaje original,
 - 100% autentico
 - para estrenar
+- Durable
+- embalaje original,
 
 [Visítala!!!](https://www.amazon.es/dp/B00PZB2GYC/?tag=tolees-21)

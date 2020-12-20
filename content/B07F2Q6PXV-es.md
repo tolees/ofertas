@@ -25,8 +25,8 @@ Tienes [PUMA Axis  Zapatillas Hombre  Negro Black/Asphalt  39 EU](https://www.am
 
 ℹ️:
 
-- Material exterior: Sintético
 - Revestimiento: Sintético
+- Material exterior: Sintético
 - Material de la suela: Goma
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07F2Q6PXV/?tag=tolees-21)

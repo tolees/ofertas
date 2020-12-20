@@ -25,12 +25,12 @@ Tienes [Geox D Felicity G  Barco Ecuestre Mujer  Marrón  36 EU](https://www.ama
 
 ℹ️:
 
-- Cierre: Cremallera
-- Revestimiento: Lona
-- Material de la suela: Sintético
-- Material exterior: Cuero
-- Altura del tacón: 3.5 centímetros
 - Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
 - Tipo de tacón: Tacón ancho
+- Material exterior: Cuero
+- Material de la suela: Sintético
+- Cierre: Cremallera
+- Altura del tacón: 3.5 centímetros
+- Revestimiento: Lona
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0825RPJVC/?tag=tolees-21)
