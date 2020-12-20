@@ -26,9 +26,9 @@ Tienes [Mega Construx Juego de Tronos bloques de construcción Drogon  Mattel GK
 ℹ️:
 
 - juego de construcción óptimo para los mayores de 14 años y fans de juego de tronos
+- el juego de bloques de construcción incluye una figura de acción de daenerys targaryen detallada y articulada
 - con estos bloques de construcción se puede construir un drogon negro y rojo, articulado en patas, cola y cabeza y alas extensibles
 - la figura construible de drogon mide 50 cm de largo y 60 cm de ancho con las alas extendidas
 - juego de construcción especial de mega construx sobre juego de tronos, con todo lujo de detalles y más de 700 piezas
-- el juego de bloques de construcción incluye una figura de acción de daenerys targaryen detallada y articulada
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07P8WTVNR/?tag=tolees-21)

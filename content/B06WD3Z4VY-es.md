@@ -25,11 +25,11 @@ Está [Educa- Enciclopedia Juego Connector para Niños  Multicolor  17205 ](http
 
 ℹ️:
 
-- Elemento adicional (Boli Sabio) para responder
-- Recomendado a partir de 7 años
 - El reto de las conexiones siempre diferentes para saberlo todo sobre deportes, naturaleza, inventos, historia, ecología, y mucho más
-- Contenido: 8 láminas, base multiconectora con tapa/cubierta y un boli Sabio con led
 - Versión española
 - Posee 8 temas nuevos con más de 350 preguntas para que te diviertas poniendo tu razonamiento y observación a trabajar
+- Elemento adicional (Boli Sabio) para responder
+- Contenido: 8 láminas, base multiconectora con tapa/cubierta y un boli Sabio con led
+- Recomendado a partir de 7 años
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06WD3Z4VY/?tag=tolees-21)

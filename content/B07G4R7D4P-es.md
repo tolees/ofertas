@@ -25,10 +25,10 @@ Está [Lacoste Reloj Analógico para Hombre de Cuarzo con Correa en Silicona 201
 
 ℹ️:
 
-- Grosor de la caja de 11,1 mm
 - 5 ATM de resistencia al agua
+- Grosor de la caja de 11,1 mm
 - Tres manecillas
-- Correa de silicona azul con diseño petit piqué
 - Esfera azul
+- Correa de silicona azul con diseño petit piqué
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07G4R7D4P/?tag=tolees-21)
