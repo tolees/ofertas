@@ -25,9 +25,9 @@ Ahora mismo tienes [Listerine - Enjuague Bucal Protección Dientes y Encías  2 
 
 🔎:
 
-- Su fórmula remineraliza el esmalte dental, protege los dientes y fortalece las encías en tan solo dos semanas
 - Reduce la placa y actúa incluso por debajo de la línea de las encías para mantenerlas sanas
 - Gracias a su contenido en flúor, fortalece los dientes y los protege contra la caries
 - Ayuda a prevenir la gingivitis
+- Su fórmula remineraliza el esmalte dental, protege los dientes y fortalece las encías en tan solo dos semanas
 
 [Visítala!!!](https://www.amazon.es/dp/B086KDL6WT/?tag=tolees-21)

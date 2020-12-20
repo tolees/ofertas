@@ -25,8 +25,8 @@ Está [Levi s Original Trucker Chaqueta vaquera  Negro  Black Rose 0070   X-Smal
 
 ℹ️:
 
-- Trabillas ajustables en la parte posterior de la cinturilla
 - Un básico versátil para completar cualquier conjunto
+- Trabillas ajustables en la parte posterior de la cinturilla
 - Bolsillos de parche en el pecho con solapa y corchete
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07LFMPXHW/?tag=tolees-21)

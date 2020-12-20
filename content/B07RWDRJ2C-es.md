@@ -26,9 +26,9 @@ Tienes [Chicos - Friendanimals - Sleepezzz Oso Perezoso  Peluche Interactivo par
 ℹ️:
 
 - Apto para niños a partir de 18 meses
-- Funciona con 3 pilas LR03 (AAA); pilas incluidas
+- Dos modos de juego: "Buenas noches" e interactivo
 - Si quieres seguir jugando con sleepezzz debes despertarlo tocándole las dos manos
 - Sleepezz es un oso perezoso muy dormilón,al poco rato de abrazarlo empieza a roncar; cuando el niño se duerme, se desconecta con función auto power-off tras 3 minutos
-- Dos modos de juego: "Buenas noches" e interactivo
+- Funciona con 3 pilas LR03 (AAA); pilas incluidas
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07RWDRJ2C/?tag=tolees-21)

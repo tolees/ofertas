@@ -26,9 +26,9 @@ Tienes [Chicco- Teddy enseña emociones  Multicolor  Artsana Spain 0000794700004
 ℹ️:
 
 - Bilingual Interactive Plush Toy
-- Heart changes color according to emotion
-- Different stories according to emotion
 - Teaches how to recognize and express emotions
 - More than 26 songs, melodies, sounds and stories
+- Heart changes color according to emotion
+- Different stories according to emotion
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CKY6YW5/?tag=tolees-21)

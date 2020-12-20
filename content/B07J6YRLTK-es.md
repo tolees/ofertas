@@ -25,11 +25,11 @@ Está [KG KitHome - Mesa Auxiliar Plegable con Altura Ajustable  43x43x63/68/73c
 
 ℹ️:
 
-- Medidas: 49x45x63/ 68/73 cm (Largo x Ancho x Alto)
 - Plegable: fácil de guardar
 - Altura y tablero ajustable: 3 posiciones
-- Tablero: 43x43 cm (Largo x Ancho)
 - Tipo de material: Plástico, Metal
 - Ligera y compacta
+- Medidas: 49x45x63/ 68/73 cm (Largo x Ancho x Alto)
+- Tablero: 43x43 cm (Largo x Ancho)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07J6YRLTK/?tag=tolees-21)

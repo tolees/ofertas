@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Acer Chromebook 714 - Portátil Táctil 14 al 26.31 % de descuento'
-date: 2020-12-18 22:00:28
+date: 2020-12-19 23:31:06
 image: 'https://m.media-amazon.com/images/I/41WdAT+I0NL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B085PDJ3V3/?tag=tolees-21'
 descuento: '26.31'
-average: '505.0525'
+average: '502.15777777777777'
 ---
 
 Está [Acer Chromebook 714 - Portátil Táctil 14" FullHD  Intel Core i3-8130U  4GB RAM  64GB eMMc  Intel UHD Graphics  Chrome OS   Teclado QWERTY Español  Color Gris](https://www.amazon.es/dp/B085PDJ3V3/?tag=tolees-21) con 26.31 de descuento por 479.0 EUR (original: 649.99 EUR) en el siguiente enlace!
@@ -25,10 +25,10 @@ Está [Acer Chromebook 714 - Portátil Táctil 14" FullHD  Intel Core i3-8130U  
 
 ℹ️:
 
-- Pantalla Full HD de 14 pulgadas con 10 puntos táctiles y una webcam HDR incorporada que permite capturar toda la sala, gracias a su amplio campo de visión de 75 º
-- Rápido como el primer día: Se inicia en cuestión de segundos y se actualiza de forma automática en segundo plano cuando está conectado a internet
 - Ordenador portátil con memoria RAM de 4 GB, tarjeta gráfica integrada Intel UHD Graphics, disco eMMC de 64 GB y procesador Intel Core i3-8130U (2 núcleos, 4 MB de caché, 2,20 GHz hasta 3,4 GHz)
-- Sistema operativo Chrome OS, diseñado para ser intuitivo y práctico; te ayuda a hacer búsquedas de forma inteligente y mantiene la sincronización y la productividad durante un máximo de 12 horas
 - Línea Chromebook 714: Tu Chromebook más potente. Las aplicaciones cargan en menos tiempo, los gráficos son más rápidos y es posible realizar muchas tareas al mismo tiempo sin retrasos
+- Pantalla Full HD de 14 pulgadas con 10 puntos táctiles y una webcam HDR incorporada que permite capturar toda la sala, gracias a su amplio campo de visión de 75 º
+- Sistema operativo Chrome OS, diseñado para ser intuitivo y práctico; te ayuda a hacer búsquedas de forma inteligente y mantiene la sincronización y la productividad durante un máximo de 12 horas
+- Rápido como el primer día: Se inicia en cuestión de segundos y se actualiza de forma automática en segundo plano cuando está conectado a internet
 
 [Ver la oferta!!](https://www.amazon.es/dp/B085PDJ3V3/?tag=tolees-21)
