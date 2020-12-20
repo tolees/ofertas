@@ -25,9 +25,9 @@ Tienes [Kingston Canvas Select Plus Tarjeta microSD  SDCS2/16GB-3P1A Class 10  3
 
 ℹ️:
 
-- Capacidad de la memoria: 16 GB
-- Velocidades de UHS-I Clase 10 de hasta 100 MB/s²
-- Optimizada para uso con dispositivos Android
 - Tipo de memoria flash: Micro SD
+- Velocidades de UHS-I Clase 10 de hasta 100 MB/s²
+- Capacidad de la memoria: 16 GB
+- Optimizada para uso con dispositivos Android
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07Z4GPW7Q/?tag=tolees-21)

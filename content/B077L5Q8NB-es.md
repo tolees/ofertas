@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.11 % en Bourjois Healthy Mix Primer Prebase Tono'
-date: 2020-12-03 19:50:32
+date: 2020-12-20 07:45:36
 image: 'https://m.media-amazon.com/images/I/41AJ5gXwk3L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077L5Q8NB/?tag=tolees-21'
 descuento: '42.11'
+average: '5.21'
 ---
 
 Tienes [Bourjois Healthy Mix Primer Prebase Tono 01 Universal shade - 20ml](https://www.amazon.es/dp/B077L5Q8NB/?tag=tolees-21) con un 42.11 % de descuento con precio de oferta de 5.21 EUR (original: 9.0 EUR) en el siguiente enlace!
@@ -24,5 +25,10 @@ Tienes [Bourjois Healthy Mix Primer Prebase Tono 01 Universal shade - 20ml](http
 
 ℹ️:
 
+- Enriquecida por las vitaminas A, C y B5 que proporcionan luminosidad y frescura a la piel
+- Prebase que oculta las signos de la fatiga al instante, dejando una piel suave e impecable
+- fórmula ligera, fresca, no pegajosa y no grasa
+- Con una fragancia fresca y afrutada
+- Contiene pigmentos con tecnologia correctora que igualan el tono de la piel y cubre las imperfecciones
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B077L5Q8NB/?tag=tolees-21)

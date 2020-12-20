@@ -25,10 +25,10 @@ Está [Vans SS20 Mochila Antigua SKOOL III OS Classic Camo](https://www.amazon.e
 
 ℹ️:
 
-- Mochila
 - Unisex
 - Vans
-- Old Skool III Classic Camo
 - VN0A3I6R97I1
+- Old Skool III Classic Camo
+- Mochila
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07QL1L5RV/?tag=tolees-21)

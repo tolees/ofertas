@@ -25,8 +25,8 @@ Está [Repsol 543050 Aceite DE Motor Elite Long Life 50700/50400 5W30 5 litros  
 
 ℹ️:
 
+- Aceite lubricante sintético desarrollado para cumplir las exigencias de los más modernos motores de gasolina y diésel del grupo VW-Audi-Seat-Skoda
 - 5l
 - Sus propiedades como lubricante de larga duración (Long Life) favorecen la reducción del consumo de combustible y de lubricante, y en consecuencia el de las emisiones contaminantes
-- Aceite lubricante sintético desarrollado para cumplir las exigencias de los más modernos motores de gasolina y diésel del grupo VW-Audi-Seat-Skoda
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00BFWNV4Y/?tag=tolees-21)

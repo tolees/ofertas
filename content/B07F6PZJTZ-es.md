@@ -25,8 +25,8 @@ Está [bollé Nova II Máscaras  Unisex Adulto  Negro  Mate   M/L](https://www.a
 
 ℹ️:
 
-- Lente cilíndrica
 - Lente: Photochromic Fire Red
+- Lente cilíndrica
 - Categoría: 1 to 3
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07F6PZJTZ/?tag=tolees-21)

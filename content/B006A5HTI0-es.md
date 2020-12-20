@@ -25,10 +25,10 @@ Ahora mismo tienes [Nenuco Agua de Colonia recomendado para bebés  fragancia or
 
 🔎:
 
-- Su fórmula ha sido clínicamente testada bajo estricto control dermatológico; Nenuco garantiza la idoneidad de sus productos con estudios realizados en laboratorios independientes
+- PH NEUTRO: El PH Neutro de la colonia respetará la suavidad de su delicada piel
+- Formato Spray de 240 ml
 - Disfrutad de esta especial fragancia que, junto con vuestros mimos que tanto le gustan, estimulará sus sentidos y creará momentos únicos
 - El Agua de Colonia Nenuco con su fragancia original de siempre cuidará de vuestro bebé y de toda la familia a diario
-- Formato Spray de 240 ml
-- PH NEUTRO: El PH Neutro de la colonia respetará la suavidad de su delicada piel
+- Su fórmula ha sido clínicamente testada bajo estricto control dermatológico; Nenuco garantiza la idoneidad de sus productos con estudios realizados en laboratorios independientes
 
 [Visítala!!!](https://www.amazon.es/dp/B006A5HTI0/?tag=tolees-21)
