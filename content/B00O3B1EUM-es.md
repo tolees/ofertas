@@ -25,9 +25,9 @@ Está [Croci C5055139 Arnés  Azul](https://www.amazon.es/dp/B00O3B1EUM/?tag=tol
 
 ℹ️:
 
-- Mecanismo de bloqueado
-- El mango ergonómico ofrece un agarre cómodo y seguro
 - Control sobre los movimientos de los perros con sólo pulsar un botón
 - para perros de hasta 12 kg
+- El mango ergonómico ofrece un agarre cómodo y seguro
+- Mecanismo de bloqueado
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00O3B1EUM/?tag=tolees-21)

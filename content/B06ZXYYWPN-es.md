@@ -25,13 +25,13 @@ Tienes [Netatmo NTH01-ES-EC - Termostato Wi-fi Inteligente para Caldera Individu
 
 ℹ️:
 
-- UN DISENO DE STARCK: una sutileza total con diseño de Philippe Starck y 4 adhesivos de diferentes colores, el Termostato Inteligente Netatmo se adapta discretamente a tu decoración
-- INFORMACION Y CONSEJOS PARA CONTROLAR TU CONSUMO: consulta tu historial y el Balance de Ahorro Energético personalizado para controlar y optimizar tu consumo de energía
-- CONTROL A DISTANCIA Y CON LA VOZ: controla el Termostato Inteligente a distancia con tu smartphone, tableta u ordenador y gracias a la compatibilidad con Apple HomeKit, Alexa y el Asistente de Google
-- LA TEMPERATURA ÓPTIMA EN CADA HABITACION: agrega Válvulas Inteligentes Adicionales que regulan por sí mismas el calor de cada radiador
-- UN TERMOSTATO INTELIGENTE: la función Auto-Adapt tiene en cuenta la temperatura exterior y las características térmicas de tu hogar para garantizar la temperatura deseada
-- INSTALACION RAPIDA Y SENCILLA: instala personalmente el Termostato Inteligente Netatmo, sin problemas y en menos de una hora
 - AHORRA SIN PENSARLO: ahorra energía con el programa de calefacción y calienta tu hogar según tus necesidades y si te vas de vacaciones, programa los modos Ausente y Antihielo
+- INSTALACION RAPIDA Y SENCILLA: instala personalmente el Termostato Inteligente Netatmo, sin problemas y en menos de una hora
+- UN TERMOSTATO INTELIGENTE: la función Auto-Adapt tiene en cuenta la temperatura exterior y las características térmicas de tu hogar para garantizar la temperatura deseada
+- CONTROL A DISTANCIA Y CON LA VOZ: controla el Termostato Inteligente a distancia con tu smartphone, tableta u ordenador y gracias a la compatibilidad con Apple HomeKit, Alexa y el Asistente de Google
+- INFORMACION Y CONSEJOS PARA CONTROLAR TU CONSUMO: consulta tu historial y el Balance de Ahorro Energético personalizado para controlar y optimizar tu consumo de energía
+- LA TEMPERATURA ÓPTIMA EN CADA HABITACION: agrega Válvulas Inteligentes Adicionales que regulan por sí mismas el calor de cada radiador
 - COMPATIBILIDAD: el Termostato Inteligente Netatmo es compatible con la mayoría de los modelos de calderas (electricidad, gas, combustible, madera o bomba de calor)
+- UN DISENO DE STARCK: una sutileza total con diseño de Philippe Starck y 4 adhesivos de diferentes colores, el Termostato Inteligente Netatmo se adapta discretamente a tu decoración
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B06ZXYYWPN/?tag=tolees-21)

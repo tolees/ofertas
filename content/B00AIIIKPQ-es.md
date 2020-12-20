@@ -25,11 +25,11 @@ Tienes [Logitech R700 Presentador Inalámbrico  2 4 GHz con Nano-Receptor USB  P
 
 ℹ️:
 
+- Control Total : recorra su presentación con toda confianza gracias a los controles intuitivos
+- Controles Intuitivos para Presentaciones : los botones se localizan fácilmente con el tacto y el diseño contorneado es perfecto para la mano para controlar su diapositivas desde la primera a la última
 - Puntero Laser Rojo : los asistentes verán exactamente qué señala el puntero
 - Receptor Inalámbrico Plug and Play : sin necesidad de instalar software,basta con conectar el receptor a un puerto USB para usarlo,y al terminar, puede guardar el receptor en el presentador
-- Pruebe Logitech Spotlight para Disfrutar de una Experiencia Óptima : el puntero digital avanzado funciona en todas las pantallas proyector, TV, LCD, LED y se carga rápidamente
-- Control Total : recorra su presentación con toda confianza gracias a los controles intuitivos
 - Pantalla LCD : controle el tiempo, las pilas y la recepción inalámbrica de un vistazo y con alertas vibrantes y silenciosas,para mantenerse concentrado en la presentación y no en el reloj
-- Controles Intuitivos para Presentaciones : los botones se localizan fácilmente con el tacto y el diseño contorneado es perfecto para la mano para controlar su diapositivas desde la primera a la última
+- Pruebe Logitech Spotlight para Disfrutar de una Experiencia Óptima : el puntero digital avanzado funciona en todas las pantallas proyector, TV, LCD, LED y se carga rápidamente
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00AIIIKPQ/?tag=tolees-21)

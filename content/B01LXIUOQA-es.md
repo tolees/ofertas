@@ -25,10 +25,10 @@ Está [Winning Moves Cluedo Juego De Tronos  81335   multicolor  Miscelanea  ELE
 
 ℹ️:
 
-- En esta edición especial de Cluedo Juego de Tronos te conviertes en un verdadero detective para encontrar pistas y resolver el misterio que te está esperando.
 - Usa tus habilidades de detective para descubrir quién ha coordinado esta sucia conspiración y buscar pistas, después haz tu acusación y encuentra al asesino.
-- El Clásico juego de Misterio divertido para toda la familia.
-- Esta edición exclusiva con TABLERO a DOBLE CARA incluye 2 misterios: la Fortaleza Roja y Meereen. ¡Cada uno con su propio conjunto de sospechosos y localizaciones!
 - Juega junto a tus personajes favoritos, incluidos Tyrion Lannister, Petyr Baelish y Missandei. Visita lugares especiales como la Pirámide de los Grandes Amos hasta la Fosa de Daznak y los Aposentos del Rey para descubrir los secretos ocultos que te esperan.
+- Esta edición exclusiva con TABLERO a DOBLE CARA incluye 2 misterios: la Fortaleza Roja y Meereen. ¡Cada uno con su propio conjunto de sospechosos y localizaciones!
+- El Clásico juego de Misterio divertido para toda la familia.
+- En esta edición especial de Cluedo Juego de Tronos te conviertes en un verdadero detective para encontrar pistas y resolver el misterio que te está esperando.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01LXIUOQA/?tag=tolees-21)

@@ -25,10 +25,10 @@ Está [ISDIN Isdinceutics Pack rutina facial antiedad  Pack Vitamina C Facial y 
 
 ℹ️:
 
-- K-OX EYES Minitalla: Crema contorno de ojos con vitamina K-óxido que reduce la apariencia de las bolsas, aclara el color de las ojeras y mejora la elasticidad de la piel
-- Disfruta de una piel deslumbrante gracias a la Vitamina C y los Ultraglicanos
-- ISDIN MICELLAR SOLUTION Minitalla: Solución de limpieza facial. Gracias a su formulación micelar hidratante con ingredientes de origen natural
-- Pack rutina facial antiedad de Isdinceutics: 30 ampollas faciales Flavo C Ultraglican, más minitallas de Agua Micelar ISDIN y Isdinceutics K Ox Eyes contorno de ojos
 - FLAVO-C ULTRAGLICAN: Sérum Antioxidante de día con VITAMINA C, ULTRAGLICANOS y ÁCIDO HIALURÓNICO
+- ISDIN MICELLAR SOLUTION Minitalla: Solución de limpieza facial. Gracias a su formulación micelar hidratante con ingredientes de origen natural
+- Disfruta de una piel deslumbrante gracias a la Vitamina C y los Ultraglicanos
+- K-OX EYES Minitalla: Crema contorno de ojos con vitamina K-óxido que reduce la apariencia de las bolsas, aclara el color de las ojeras y mejora la elasticidad de la piel
+- Pack rutina facial antiedad de Isdinceutics: 30 ampollas faciales Flavo C Ultraglican, más minitallas de Agua Micelar ISDIN y Isdinceutics K Ox Eyes contorno de ojos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07QLMBTTR/?tag=tolees-21)

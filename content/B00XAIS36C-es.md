@@ -25,8 +25,8 @@ Tienes [Instituto Español Gel de Baño y Ducha Avena - 1250 ML](https://www.ama
 
 ℹ️:
 
+- Género: unisex adulto
 - Tipo de producto: gel de baño
 - Marca: Instituto Español
-- Género: unisex adulto
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00XAIS36C/?tag=tolees-21)

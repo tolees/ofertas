@@ -25,9 +25,9 @@ Tienes [IMC TOYS 715098 - Figuritas para el baño Peppa Pig  4 figuras  surtido 
 
 ℹ️:
 
-- Disponibles dos surtidos de 4 figuritas: Peppa, George y sus papis o Suzy, Peppa, Candy y Rebecca
 - Recomendado a partir de 3 años
-- Si los aprietas lanzaran agua por la nariz
 - Hecho de plástico
+- Si los aprietas lanzaran agua por la nariz
+- Disponibles dos surtidos de 4 figuritas: Peppa, George y sus papis o Suzy, Peppa, Candy y Rebecca
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B009RUEPQE/?tag=tolees-21)

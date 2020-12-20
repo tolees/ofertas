@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asmodee- Kero - Español  One Size  HUKE0 al 30.01 % de descuento'
-date: 2020-11-21 20:04:59
+date: 2020-12-20 10:16:23
 image: 'https://m.media-amazon.com/images/I/512UUf7lPdL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BMD4V8Y/?tag=tolees-21'
 descuento: '30.01'
+average: '21.418571428571425'
 ---
 
 Está [Asmodee- Kero - Español  One Size  HUKE0001 ](https://www.amazon.es/dp/B07BMD4V8Y/?tag=tolees-21) con 30.01 de descuento por 20.99 EUR (original: 29.99 EUR) en el siguiente enlace!
@@ -24,5 +25,8 @@ Está [Asmodee- Kero - Español  One Size  HUKE0001 ](https://www.amazon.es/dp/B
 
 ℹ️:
 
+- Juego divertido y caótico para 2 jugadores
+- Juego de tablero
+- Juego de mesa
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07BMD4V8Y/?tag=tolees-21)

@@ -25,10 +25,10 @@ Ahora mismo tienes [PETKIT Botella de Agua de Viaje para Mascotas EVERSWEET  tam
 
 🔎:
 
-- Sistema de purificación portátil.
 - Todos las funciones a un precio.-
 - Uso con una mano.
 - Fuertes efectos antibacterianos.
 - Ganador del premio Reddot 2017 por su diseño antigoteo.
+- Sistema de purificación portátil.
 
 [Visítala!!!](https://www.amazon.es/dp/B073Z7CRXM/?tag=tolees-21)
