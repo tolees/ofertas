@@ -25,10 +25,10 @@ Tienes [Rimmel London 60 Seconds Super Shine #721-Siren 8 ml - 1 unidad](https:/
 
 ℹ️:
 
-- Tecnología de color de uñas 3 en 1.
 - Secado rápido, listo para usar en menos de 60 segundos.
-- Color de una sola pasada con una base y un acabado protector brillante en la parte superior.
-- Anti-astilla, anti-decoloración, color de larga duración, hasta 10 días.
 - Color de alto impacto, acabado ultra brillante.
+- Color de una sola pasada con una base y un acabado protector brillante en la parte superior.
+- Tecnología de color de uñas 3 en 1.
+- Anti-astilla, anti-decoloración, color de larga duración, hasta 10 días.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07P35ZBYS/?tag=tolees-21)

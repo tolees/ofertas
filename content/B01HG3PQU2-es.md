@@ -25,11 +25,11 @@ Tienes [adidas Gazelle  Zapatillas de deporte Unisex Adulto  Varios colores  Vap
 
 ℹ️:
 
-- Adecuado para: unisex-adulto
-- Cierre: cordones
-- Material exterior: cuero
 - Material de la suela: goma
-- Material interior: tela
+- Material exterior: cuero
 - Talla: 40
+- Material interior: tela
+- Cierre: cordones
+- Adecuado para: unisex-adulto
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01HG3PQU2/?tag=tolees-21)

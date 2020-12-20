@@ -25,10 +25,10 @@ Ahora mismo tienes [Rimmel Scandaleyes Volume on Demand Mascara  Máscara de Pes
 
 🔎:
 
-- Refresca la última capa cuando se aplica la máscara para conseguir un volumen sin grupo
-- Máscara de pestañas Rimmel Volume on Demand
 - Construye un volumen capas por capas para crear un look natural o una mirada intensa
+- Máscara de pestañas Rimmel Volume on Demand
 - Fórmula acondicionadora
 - su cepillo captura, separa y cubre cada pestaña para darles un volumen máximo
+- Refresca la última capa cuando se aplica la máscara para conseguir un volumen sin grupo
 
 [Visítala!!!](https://www.amazon.es/dp/B08159FKYW/?tag=tolees-21)

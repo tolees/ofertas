@@ -25,11 +25,11 @@ Tienes [Revlon ColorStay Gel Envy Esmalte de Uñas de Larga Duración 11 7ml  Al
 
 ℹ️:
 
-- Fórmula con ingredientes hidratantes: aceite de almendras, aceite de jojoba, y manteca de karité que ayuda a mantener la hidratación de la uñas.
-- Tiene Tecnología 7 Days Technology que funciona cuando se usan el esmalte y el Diamond Top Coat fijador conjuntamente
-- Las uñas se ven sanas y fuertes y muestran una mejora notable.
 - Se elimina fácilmente con quitaesmaltes.
-- No necesita lámpara UV.
 - No necesita base.
+- Las uñas se ven sanas y fuertes y muestran una mejora notable.
+- Tiene Tecnología 7 Days Technology que funciona cuando se usan el esmalte y el Diamond Top Coat fijador conjuntamente
+- No necesita lámpara UV.
+- Fórmula con ingredientes hidratantes: aceite de almendras, aceite de jojoba, y manteca de karité que ayuda a mantener la hidratación de la uñas.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B071YCCV73/?tag=tolees-21)

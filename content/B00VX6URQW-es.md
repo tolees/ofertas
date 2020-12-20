@@ -25,10 +25,10 @@ Tienes [Revlon ColorStay Base de Maquillaje piel normal/seca FPS20  #330 Natural
 
 ℹ️:
 
-- Buildable, medium to full coverage
-- Contains hyaluronic acid to hydrate your skin
-- This oil-free foundation formula gives you a natural finish
 - 24 hour wear
 - Humidity and sweat resistant
+- Buildable, medium to full coverage
+- This oil-free foundation formula gives you a natural finish
+- Contains hyaluronic acid to hydrate your skin
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00VX6URQW/?tag=tolees-21)

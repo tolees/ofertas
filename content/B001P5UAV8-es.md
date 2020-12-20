@@ -25,9 +25,9 @@ Ahora mismo tienes [Magic Whiteboard - Pizarra autoadhesiva](https://www.amazon.
 
 🔎:
 
-- Cada hoja se limpia y se puede reutilizar
 - Utilizada con marcadores de pizarra normales secos
-- Se adhiere a cualquier superficie dura, plana
 - Fabricadas de polipropileno reciclable con dimensiones de 60 cm x 80 cm
+- Cada hoja se limpia y se puede reutilizar
+- Se adhiere a cualquier superficie dura, plana
 
 [Visítala!!!](https://www.amazon.es/dp/B001P5UAV8/?tag=tolees-21)

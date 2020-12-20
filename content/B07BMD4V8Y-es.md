@@ -25,8 +25,8 @@ Está [Asmodee- Kero - Español  One Size  HUKE0001 ](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- Juego de tablero
 - Juego divertido y caótico para 2 jugadores
+- Juego de tablero
 - Juego de mesa
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07BMD4V8Y/?tag=tolees-21)

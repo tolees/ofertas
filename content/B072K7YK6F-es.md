@@ -25,9 +25,9 @@ Está [find. Botín Tipo Safari para Hombre  Negro  Black   43 EU](https://www.a
 
 ℹ️:
 
-- Caña al tobillo
 - Costuras decorativas
-- Detalle en color contrastado en suela
 - Cordonera con dos pasadas
+- Caña al tobillo
+- Detalle en color contrastado en suela
 
 [Ver la oferta!!](https://www.amazon.es/dp/B072K7YK6F/?tag=tolees-21)

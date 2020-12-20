@@ -25,10 +25,10 @@ Está [Pop! Vinilo: Castlevania: Trevor Belmont](https://www.amazon.es/dp/B07KPS
 
 ℹ️:
 
+- Juguete del año 2018
+- Animation: castlevania
+- Trevor Belmont
 - Funko pop vinyl
 - De la colección castlevania, trevor belmont como figura de vinilo pop de funko
-- Animation: castlevania
-- Juguete del año 2018
-- Trevor Belmont
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KPSSW6V/?tag=tolees-21)

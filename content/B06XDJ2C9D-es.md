@@ -26,9 +26,9 @@ Ahora mismo tienes [Bourjois Rouge Laque Barra de Labios Líquida Tono 04 Selfpe
 🔎:
 
 - Aplicación fácil y precisa gracias a su punta espumosa
-- Fórmula acuosa emulsionada con aceite para brindar ligereza y brillo sin pegajosidad
+- Labial líquido para un intenso acabado brillante y viniloso
 - Pigmentos saturados que proporcionan un color de larga duración
 - Hasta 16 horas de hidratación y brillo elegante sin sensación pegajosa
-- Labial líquido para un intenso acabado brillante y viniloso
+- Fórmula acuosa emulsionada con aceite para brindar ligereza y brillo sin pegajosidad
 
 [Visítala!!!](https://www.amazon.es/dp/B06XDJ2C9D/?tag=tolees-21)

@@ -25,10 +25,10 @@ Está [Space Hulk Tactics](https://www.amazon.es/dp/B07FLY7LP5/?tag=tolees-21) c
 
 ℹ️:
 
+- Fiel adaptación del juego de mesa de Warhammer 40.000 Space Hulk con un novedoso cambio de las reglas clásicas
+- Crea y comparte tus propias misiones en una intuitiva herramienta de creación de niveles
+- Gana experiencia en tus batallas y personaliza y mejora tu escuadrón
 - Enfréntate en sangrientas batallas tácticas a bordo de una gigante Space Hulk
 - Juega dos campañas desde el punto de vista de los Ángeles Sangrientos y, por primera vez en un juego de Space Hulk, los mortales Genstealers
-- Gana experiencia en tus batallas y personaliza y mejora tu escuadrón
-- Crea y comparte tus propias misiones en una intuitiva herramienta de creación de niveles
-- Fiel adaptación del juego de mesa de Warhammer 40.000 Space Hulk con un novedoso cambio de las reglas clásicas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FLY7LP5/?tag=tolees-21)

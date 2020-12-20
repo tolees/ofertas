@@ -25,15 +25,15 @@ Ahora mismo tienes [1906 Reserva Especial Cerveza - Paquete de 24 x 330 ml - Tot
 
 🔎:
 
-- Ingredientes: agua de la ciudad de A Coruña, maltas de dos carreras (pilsen y tostada), maíz y lúpulo Perle Hallertau. Levadura seleccionada Hijos de Rivera.
-- Aromas a malta tostada con suaves notas de caramelo y café. El lúpulo aparece en nariz con ligeros matices florales y herbales.
-- 1906 Reserva Especial Cerveza - Pack de 24 latas x 330 ml
-- Clasificación Helles Bock
-- Elaborada a partir de un mosto específicos, en la fábrica de Hijos de Rivera, en A Coruña. La cerveza 1906 Reserva Especial cuenta con uno de los períodos de maduración más largos entre las cervezas lager nacionales.
-- Alcohol 6,5%
-- Color 15,5 EBC
-- Temperatura recomendada 5-6 grados. Mantener en lugar fresco y seco
-- Amargor 25 EBU
 - Toda nuestra herencia resumida en una cerveza extraordinaria. Maltas tostadas, lúpulo aromático y una guarda prolongada para crear un sabor y aroma con carácter único.
+- Aromas a malta tostada con suaves notas de caramelo y café. El lúpulo aparece en nariz con ligeros matices florales y herbales.
+- Clasificación Helles Bock
+- Color 15,5 EBC
+- Elaborada a partir de un mosto específicos, en la fábrica de Hijos de Rivera, en A Coruña. La cerveza 1906 Reserva Especial cuenta con uno de los períodos de maduración más largos entre las cervezas lager nacionales.
+- Temperatura recomendada 5-6 grados. Mantener en lugar fresco y seco
+- Ingredientes: agua de la ciudad de A Coruña, maltas de dos carreras (pilsen y tostada), maíz y lúpulo Perle Hallertau. Levadura seleccionada Hijos de Rivera.
+- Amargor 25 EBU
+- 1906 Reserva Especial Cerveza - Pack de 24 latas x 330 ml
+- Alcohol 6,5%
 
 [Visítala!!!](https://www.amazon.es/dp/B086KCDWJ9/?tag=tolees-21)

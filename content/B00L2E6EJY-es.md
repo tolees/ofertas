@@ -25,8 +25,8 @@ Ahora mismo tienes [El Señor de los Anillos - Display Sobres Dragones [36]](htt
 
 🔎:
 
-- Edición descatalogada, últimas unidades de el Señor de los Anillos: Tierra Media (SATM) es el primer juego de cartas coleccionable basado en el libro El Señor de los Anillos.
 - Ocio y hogar
+- Edición descatalogada, últimas unidades de el Señor de los Anillos: Tierra Media (SATM) es el primer juego de cartas coleccionable basado en el libro El Señor de los Anillos.
 - Entretenimiento
 
 [Visítala!!!](https://www.amazon.es/dp/B00L2E6EJY/?tag=tolees-21)

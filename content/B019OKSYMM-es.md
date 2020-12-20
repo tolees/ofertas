@@ -25,10 +25,10 @@ Está [Chicco- Big & Small Proyector  Color Rosa  8015100000 ](https://www.amazo
 
 ℹ️:
 
-- 30 minutos de luces y melodías
-- Peluche proyector multicolor
 - 3 intensidades de luz diferentes
-- Muy suave, ideal para abrazar y acompañar al bebe
+- 30 minutos de luces y melodías
 - Se puede lavar a maquina
+- Muy suave, ideal para abrazar y acompañar al bebe
+- Peluche proyector multicolor
 
 [Ver la oferta!!](https://www.amazon.es/dp/B019OKSYMM/?tag=tolees-21)

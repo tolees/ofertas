@@ -25,10 +25,10 @@ Tienes [Cecotec Freidora dietética sin aceite compacta Cecofry Compact Rapid Wh
 
 ℹ️:
 
-- Resultados excepcionales en todas las recetas gracias a la tecnología PerfectCook de aire caliente. Posee función horno gracias al cestillo que incluye como accesorio.
-- Programable en tiempo y temperatura. Cocina hasta 400 gramos de patatas de una sola vez.
-- Freidora dietética que permite cocinar con una sola cucharada de aceite, consiguiendo resultados más sanos.
 - Dispone de termostato hasta alcanzar los 200º. Tiempo ajustable 0-30 min.
+- Freidora dietética que permite cocinar con una sola cucharada de aceite, consiguiendo resultados más sanos.
 - Recipiente de 1,5 litros de capacidad. Dispone de recetario de cocina.
+- Programable en tiempo y temperatura. Cocina hasta 400 gramos de patatas de una sola vez.
+- Resultados excepcionales en todas las recetas gracias a la tecnología PerfectCook de aire caliente. Posee función horno gracias al cestillo que incluye como accesorio.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07K8SY9CM/?tag=tolees-21)

@@ -26,7 +26,7 @@ Está [Ana Maria Lajusticia - Aceite de onagra – 275 perlas. Alivia dolores me
 ℹ️:
 
 - Indicado para personas con problemas circulatorios
-- Indicado para problema asociados con la menopausia
 - Indicado para problema asociados a dolores menstruales
+- Indicado para problema asociados con la menopausia
 
 [Ver la oferta!!](https://www.amazon.es/dp/B071FQR68L/?tag=tolees-21)

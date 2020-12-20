@@ -25,11 +25,11 @@ Está [Superga 2730-cotropew  Zapatillas de Gimnasia para Mujer  Verde  Green Sa
 
 ℹ️:
 
-- Forro: tela.
-- Material exterior: tela.
 - Material de la suela: goma.
-- Diámetro de la pantorrilla: normal.
+- Material exterior: tela.
 - Tipo de tacón: tacón de bloqueo.
+- Forro: tela.
 - Cierre: cordón.
+- Diámetro de la pantorrilla: normal.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TZMVK6L/?tag=tolees-21)

@@ -25,10 +25,10 @@ Tienes [Rimmel London Scandaleyes Wow Wings Máscara de Pestañas Tono Extreme B
 
 ℹ️:
 
-- Eleva tus pestañas de lado a lado
-- Fórmula ultra ligera para construir volumen capa tras capa
-- Volumen al instante con el lado en forma de ala
-- Define y alarga con el lado curvo
 - Libera tu wow
+- Eleva tus pestañas de lado a lado
+- Volumen al instante con el lado en forma de ala
+- Fórmula ultra ligera para construir volumen capa tras capa
+- Define y alarga con el lado curvo
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GDMQ8LN/?tag=tolees-21)

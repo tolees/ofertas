@@ -25,9 +25,9 @@ Está [Revlon Colorstay Creme Eye 24H Sombra de Ojos Tono 705 Creme Brulee - 4.8
 
 ℹ️:
 
+- Su textura es cremosa y de fácil y cómoda aplicación
 - Posee una fórmula de larga duración sin manchas o arrugas, hasta 24 horas
 - Permite crear tonalidad y intensidades de color antes de su fijación
-- Su textura es cremosa y de fácil y cómoda aplicación
 - Producto de la colección Revlon ColorStay
 - El producto incluye un cepillo
 

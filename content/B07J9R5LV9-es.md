@@ -26,7 +26,7 @@ Tienes [ASICS Jolt 2  Zapatillas de Deporte Hombre  Negro  Black/Dark Grey   40.
 ℹ️:
 
 - Tapa interior del talón
-- Suela de goma sólida
 - Entresuela de EVA
+- Suela de goma sólida
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07J9R5LV9/?tag=tolees-21)
