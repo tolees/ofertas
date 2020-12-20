@@ -27,8 +27,8 @@ Tienes [Kinshops Mini proyector de teléfono Inteligente de cartón portátil 2.
 
 - Magnifica hasta 8 veces la pantalla del teléfono inteligente.
 - Para una máxima efectividad, use en una habitación oscura y proyecte sobre una superficie blanca lisa.
-- Es práctico y divertido, ideal para cine en casa.
 - Se adapta a teléfonos con un tamaño máximo de 8 cm x 16 cm en el interior con un gran efecto.
 - Hecho de cartón, con lente de vidrio, duradero por mucho tiempo.
+- Es práctico y divertido, ideal para cine en casa.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B082G7GP7Y/?tag=tolees-21)

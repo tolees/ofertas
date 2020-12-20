@@ -25,9 +25,9 @@ Tienes [AGPTEK Smartwatch  Reloj Inteligente 1.3 Pulgadas Táctil Completa IP68 
 
 ℹ️:
 
-- 🏃【8 Modos Deportivos & Impermeable IP68】El reloj deportivo ofrece 8modos deportivos, como caminar, correr, yoga, nadar, etc. Este reloj inteligente es resistente al agua hasta 50 metros, lo podrá llevar puesto mientras se lave las manos, tome una ducha, nade.
-- ⌚【Funciones más Prácticas】 El reloj inteligente, se puede como monitores de actividad, tiene Modo multi-deporte. Monitar el sueño, la frecuencia cardíaca, los pasos y consumo de calorías, recordatorio de salud, recordatorio de sedentario, recordatorio de llamadas, recordatorio de reuniones, alarma etc.. Todo es crear un estilo de vida más saludable.
 - ⌚【Pantalla HD & Estilo Personalizado】Adopte Pantalla a color completa redonda de 1.3 pulgadas, brinda una mejor experiencia visual más que cuadrada. Y soporta elegir cualquier imagen que desee en su teléfono como fondo de pantalla, muestra su estilo personal.
+- ⌚【Funciones más Prácticas】 El reloj inteligente, se puede como monitores de actividad, tiene Modo multi-deporte. Monitar el sueño, la frecuencia cardíaca, los pasos y consumo de calorías, recordatorio de salud, recordatorio de sedentario, recordatorio de llamadas, recordatorio de reuniones, alarma etc.. Todo es crear un estilo de vida más saludable.
+- 🏃【8 Modos Deportivos & Impermeable IP68】El reloj deportivo ofrece 8modos deportivos, como caminar, correr, yoga, nadar, etc. Este reloj inteligente es resistente al agua hasta 50 metros, lo podrá llevar puesto mientras se lave las manos, tome una ducha, nade.
 - ⏳【Larga Duración & Gran Compatibilidad】 El reloj inteligente se puede utilizar durante 8-12 días o 30 días en espera cuando se carga durante 2 horas. Esta smartwatch es adecuada para casi todos los teléfonos inteligentes.
 - 💌【Monitor de Salud & Notificación de Mensaje】Admite monitoreo de frecuencia cardíaca dinámica en tiempo real y seguimiento del sueño. Despúes de conetar con la APP, puede recibir notificaciones en tiempo real de WhatsApp, LinkedIn, Instagram y Twitter.
 

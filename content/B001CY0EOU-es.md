@@ -25,8 +25,8 @@ Está [Fellowes Memory Foam - Alfombrilla con reposamuñecas para ratón  plata/
 
 ℹ️:
 
-- Alivia los puntos de presión y evita las lesiones
 - Base antideslizante adaptable a cualquier superficie
 - Fabricados en suave espuma para garantizar una comodidad excepcional
+- Alivia los puntos de presión y evita las lesiones
 
 [Ver la oferta!!](https://www.amazon.es/dp/B001CY0EOU/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 39.18 % en ROYAL CANIN Mother and Babydog Mini Star'
-date: 2020-12-18 09:02:37
+date: 2020-12-20 09:52:25
 image: 'https://m.media-amazon.com/images/I/411kp7Z-HXL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0089H7EMI/?tag=tolees-21'
 descuento: '39.18'
-average: '9.351999999999999'
+average: '9.105714285714285'
 ---
 
 Tienes [ROYAL CANIN Mother and Babydog Mini Starter - Comida para perros raza pequeña](https://www.amazon.es/dp/B0089H7EMI/?tag=tolees-21) con un 39.18 % de descuento con precio de oferta de 8.49 EUR (original: 13.96 EUR) en el siguiente enlace!

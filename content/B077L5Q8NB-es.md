@@ -25,10 +25,10 @@ Tienes [Bourjois Healthy Mix Primer Prebase Tono 01 Universal shade - 20ml](http
 
 ℹ️:
 
+- fórmula ligera, fresca, no pegajosa y no grasa
+- Contiene pigmentos con tecnologia correctora que igualan el tono de la piel y cubre las imperfecciones
+- Con una fragancia fresca y afrutada
 - Enriquecida por las vitaminas A, C y B5 que proporcionan luminosidad y frescura a la piel
 - Prebase que oculta las signos de la fatiga al instante, dejando una piel suave e impecable
-- fórmula ligera, fresca, no pegajosa y no grasa
-- Con una fragancia fresca y afrutada
-- Contiene pigmentos con tecnologia correctora que igualan el tono de la piel y cubre las imperfecciones
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B077L5Q8NB/?tag=tolees-21)

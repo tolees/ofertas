@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nerf E6717EU4 Fortnite - Sp L  Talla Úni al 27.24 % de descuento'
-date: 2020-12-16 12:38:30
+date: 2020-12-20 09:57:35
 image: 'https://m.media-amazon.com/images/I/41hpfYEkePL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07M931WGJ/?tag=tolees-21'
 descuento: '27.24'
-average: '18.310869565217388'
+average: '18.364246575342463'
 ---
 
 Ahora mismo tienes [Nerf E6717EU4 Fortnite - Sp L  Talla Única](https://www.amazon.es/dp/B07M931WGJ/?tag=tolees-21) a 18.91 EUR (original: 25.99 EUR) (27.24 %  de descuento) en el siguiente enlace!

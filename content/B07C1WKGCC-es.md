@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjebasic Knit V-Neck Noos s al 40.02 % de descuento'
-date: 2020-12-13 11:45:28
+date: 2020-12-20 09:10:03
 image: 'https://m.media-amazon.com/images/I/51fgt4ioWoL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C1WKGCC/?tag=tolees-21'
 descuento: '40.02'
+average: '15.748333333333333'
 ---
 
 Ahora mismo tienes [Jack & Jones Jjebasic Knit V-Neck Noos suéter  Gris  Navy Blazer Detail: Twisted with Jet Stream   X-Large para Hombre](https://www.amazon.es/dp/B07C1WKGCC/?tag=tolees-21) a 14.99 EUR (original: 24.99 EUR) (40.02 %  de descuento) en el siguiente enlace!

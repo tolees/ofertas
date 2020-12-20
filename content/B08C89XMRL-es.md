@@ -26,9 +26,9 @@ Está [Maybelline New York - Cofre Edición Limitada 8 tonos Superstay Matte Ink
 ℹ️:
 
 - Fórmula enriquecida con una alta concentración de pigmentos para un color intenso y vibrante, Sin olor y testada dermatológicamente
-- Cofre de 8 Pintalabios líquidos de acabado mate terciopelo con hasta 16 horas de duración
-- Sella el mate con su cobertura total que no transfiere gracias a su tecnología de tinta elástica, No reseca ni se cuartea
 - Contenido: 1x Pintalabios Superstay Matte Ink Maybelline New York, Tono 65 - Seductress, Rosa Nude, 5 ml; 1x Pintalabios Superstay Matte Ink Tono 125 – Inspirer, Malva Oscuro, 5 ml; 1x Pintalabios Superstay Matte Ink Tono 15 – Lover, Malva 5 ml; 1x Pintalabios Superstay Matte Ink Tono 80 – Ruler, Magenta Oscuro, 5 ml; 1x Pintalabios Superstay Matte Ink Tono 118 – Dancer, Rojo, 5 ml; 1x Pintalabios Superstay Matte Ink Tono 20 – Pioneer, Rojo, 5 ml; 1x Pintalabios Superstay Matte Ink Tono 115 – Founder, Burdeos, 5 ml; 1x Pintalabios Superstay Matte Ink Tono 50 – Voyager, Rojo Ladrillo, 5 ml
 - Su aplicador en forma de flecha permite un trazado preciso y sin excesos para una cobertura perfecta sin retoques, Desmaquillar con un desmaquillante bifásico waterproof
+- Sella el mate con su cobertura total que no transfiere gracias a su tecnología de tinta elástica, No reseca ni se cuartea
+- Cofre de 8 Pintalabios líquidos de acabado mate terciopelo con hasta 16 horas de duración
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08C89XMRL/?tag=tolees-21)

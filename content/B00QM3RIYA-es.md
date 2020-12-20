@@ -25,10 +25,10 @@ Tienes [AUKEY Receptor Bluetooth 5 Audio Adaptador Inalámbrico con 18 Horas de 
 
 ℹ️:
 
-- Transmisión Inalámbrica: Puede transferir audio desde su teléfono habilitado para Bluetooth, tableta o un ordenador a su estéreo con cable, altavoces o auriculares de forma inalámbrica. Ideal para cualquier sistema de audio de casa o de coche
-- Enlaces Dobles : El receptor puede conectar con dos dispositivos Bluetooth al mismo tiempo, puede cambiar la música y las llamadas libremente entre los dos dispositivos después de emparejarse correctamente
-- Las baterías incorporadas recargable ofrece un uso de 18 horas y una espera de 1000 horas
 - Llamadas manos libres: con micrófono incorporado, puede contestar llamadas con una tecla, ideal para hacer llamadas mientras conducir un coche
 - Reconexión automática: El adaptador se volverá a conectar automáticamente al último dispositivo que se emparejó con éxito y sin tener que sincronizar la conexión manualmente para emparejar de nuevo, es el real enchufar y jugar
+- Las baterías incorporadas recargable ofrece un uso de 18 horas y una espera de 1000 horas
+- Enlaces Dobles : El receptor puede conectar con dos dispositivos Bluetooth al mismo tiempo, puede cambiar la música y las llamadas libremente entre los dos dispositivos después de emparejarse correctamente
+- Transmisión Inalámbrica: Puede transferir audio desde su teléfono habilitado para Bluetooth, tableta o un ordenador a su estéreo con cable, altavoces o auriculares de forma inalámbrica. Ideal para cualquier sistema de audio de casa o de coche
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00QM3RIYA/?tag=tolees-21)
