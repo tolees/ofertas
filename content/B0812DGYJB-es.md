@@ -25,10 +25,10 @@ Ahora mismo tienes [L Oreal Paris Dermo Expertise Cofre Revitalift Laser Incluye
 
 🔎:
 
-- Sérum y Crema de Día Antiedad Intensiva en un cofre firmado por Jordi Labanda
-- La Adenosina, asociada al Ácido Hialurónico fragmentado, actúa eficazmente contra los signos del envejecimiento
-- El Pro-xylane es un activo anti-edad patentado por el equipo de invetigadores de LOréal Paris
 - Crema de día con alta concentración de activos anti-edad que mejora la calidad de la piel a la vez que corrige las arrugas
 - Sérum de textura fundente y efecto piel nueva que contiene Pro-Xylane concentrado 3%
+- El Pro-xylane es un activo anti-edad patentado por el equipo de invetigadores de LOréal Paris
+- Sérum y Crema de Día Antiedad Intensiva en un cofre firmado por Jordi Labanda
+- La Adenosina, asociada al Ácido Hialurónico fragmentado, actúa eficazmente contra los signos del envejecimiento
 
 [Visítala!!!](https://www.amazon.es/dp/B0812DGYJB/?tag=tolees-21)

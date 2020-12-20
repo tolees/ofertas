@@ -1,28 +1,33 @@
 ---
 layout: post
-title: 'Descuento del 27.86 % en Funko- Pop Deluxe: Game of Thrones-Hodor'
-date: 2020-12-03 09:56:50
+title: 'Descuento del 30.01 % en Funko- Pop Deluxe: Game of Thrones-Hodor'
+date: 2020-12-20 11:47:38
 image: 'https://m.media-amazon.com/images/I/41nDhT5+PaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07TZMZK5M-es'
-actualPrice: 28.1 EUR
+actualPrice: 27.99 EUR
 currency: EUR
-price: 28.1
-comparePrice: 38.95 EUR
+price: 27.99
+comparePrice: 39.99 EUR
 prodname: 'Funko- Pop Deluxe: Game of Thrones-Hodor Holding The Door Collectible Toy  Multicolor  45053 '
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07TZMZK5M/?tag=tolees-21'
-descuento: '27.86'
+descuento: '30.01'
+average: '26.12294117647059'
 ---
 
-Tienes [Funko- Pop Deluxe: Game of Thrones-Hodor Holding The Door Collectible Toy  Multicolor  45053 ](https://www.amazon.es/dp/B07TZMZK5M/?tag=tolees-21) con un 27.86 % de descuento con precio de oferta de 28.1 EUR (original: 38.95 EUR) en el siguiente enlace!
+Tienes [Funko- Pop Deluxe: Game of Thrones-Hodor Holding The Door Collectible Toy  Multicolor  45053 ](https://www.amazon.es/dp/B07TZMZK5M/?tag=tolees-21) con un 30.01 % de descuento con precio de oferta de 27.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![Funko- Pop Deluxe: Game of Thrones-Hodor](https://m.media-amazon.com/images/I/41nDhT5+PaL._SL200_.jpg)](https://www.amazon.es/dp/B07TZMZK5M/?tag=tolees-21)
 
 ℹ️:
 
+- From game of thrones, hodor holding the door, as a stylized pop deluxe vinyl from funko
+- Funko pop; is the 2018 toy of the year and peoples choice award winner
+- Figure stands 15cm and comes in a window display box
+- Check out the other game of thrones figures from funko collect them all
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07TZMZK5M/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 62.89 % en Fossil Reloj Cronógrafo para Mujer de Cu'
-date: 2020-12-08 20:03:17
+date: 2020-12-20 11:33:32
 image: 'https://m.media-amazon.com/images/I/51vDDzpLatL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M8PURK6/?tag=tolees-21'
 descuento: '62.89'
+average: '59.0'
 ---
 
 Tienes [Fossil Reloj Cronógrafo para Mujer de Cuarzo con Correa en Piel ES4113](https://www.amazon.es/dp/B01M8PURK6/?tag=tolees-21) con un 62.89 % de descuento con precio de oferta de 59.0 EUR (original: 159.0 EUR) en el siguiente enlace!
@@ -24,5 +25,10 @@ Tienes [Fossil Reloj Cronógrafo para Mujer de Cuarzo con Correa en Piel ES4113]
 
 ℹ️:
 
+- Ancho de la correa: 18 mm; circunferencia de la correa: 175 +/- 5 mm
+- Resistente al agua: 5 ATM
+- Grosor de la caja: 12 mm; tamaño de la caja: 38 mm
+- Se presenta en lata Fossil ilustrada de coleccionista (varios diseños)
+- Material de la correa: piel
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01M8PURK6/?tag=tolees-21)

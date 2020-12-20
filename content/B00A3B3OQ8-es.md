@@ -25,10 +25,10 @@ Ahora mismo tienes [Essie Esmalte de Uñas 061 Russian Roultte](https://www.amaz
 
 🔎:
 
-- Cobertura impecable
+- Fórmula con textura gel sin acetona
+- Colores vibrantes
 - Cepillo especial para fácil aplicación
 - Duración resistente entre 7 y 1 días
-- Colores vibrantes
-- Fórmula con textura gel sin acetona
+- Cobertura impecable
 
 [Visítala!!!](https://www.amazon.es/dp/B00A3B3OQ8/?tag=tolees-21)

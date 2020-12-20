@@ -27,8 +27,8 @@ Tienes [Hasbro Gaming - Juego infantil Vater loco  Hasbro C0447175 ](https://www
 
 - Tira de la cadena sin que el vater te tire el chorro
 - Gana el jugador que no acabe mojado
+- El número que aparece en la ruleta del rollo de papel higiénico determina el número de veces que cada jugador debe tirar de la cadena
 - Divertidismo juego para jugar con tu familia y amigos
 - Empieza la última persona que haya ido al baño
-- El número que aparece en la ruleta del rollo de papel higiénico determina el número de veces que cada jugador debe tirar de la cadena
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XD6XPXR/?tag=tolees-21)

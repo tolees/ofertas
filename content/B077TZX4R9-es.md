@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 83.35 % en Railway Empire - Limited Day One Edition'
-date: 2020-12-19 09:03:05
+date: 2020-12-20 11:56:43
 image: 'https://m.media-amazon.com/images/I/51TDed4sf9L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077TZX4R9/?tag=tolees-21'
 descuento: '83.35'
-average: '20.01875'
+average: '18.012999999999998'
 ---
 
 Tienes [Railway Empire - Limited Day One Edition](https://www.amazon.es/dp/B077TZX4R9/?tag=tolees-21) con un 83.35 % de descuento con precio de oferta de 9.99 EUR (original: 59.99 EUR) en el siguiente enlace!
@@ -27,8 +27,8 @@ Tienes [Railway Empire - Limited Day One Edition](https://www.amazon.es/dp/B077T
 
 - Plate-forme : PlayStation 4
 - manufacturerMinimumAge : 84.0
+- binding : Videojuegos
 - productGroup : Videojuegos
 - Classification PEGI : ages_3_and_over
-- binding : Videojuegos
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B077TZX4R9/?tag=tolees-21)

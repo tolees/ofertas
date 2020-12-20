@@ -26,9 +26,9 @@ Está [Fairy Profesional Pastillas Lavavajillas Original Todo en 1 - 200 cápsul
 ℹ️:
 
 - Incorpora sal y ayuda al aclarado, al igual que protege el cristal y la plata
-- Cápsulas de lavavajillas Fairy Todo en 1
 - Mantiene un aroma limpio y fresco en tu lavavajillas
-- Elimina las manchas más difíciles y deja un brillo inigualable
+- Cápsulas de lavavajillas Fairy Todo en 1
 - su acción limpiadora elimina a la primera hasta la grasa incrustada
+- Elimina las manchas más difíciles y deja un brillo inigualable
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07ZG2Y88B/?tag=tolees-21)

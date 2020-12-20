@@ -25,9 +25,9 @@ Ahora mismo tienes [Olay Total Effects Anti-Ageing 7-in-1 Set de Regalo: Day Moi
 
 🔎:
 
-- Rápida absorción, con SPF15 y testado dermatológicamente
-- Iguala el aspecto del tono de la piel, minimiza la apariencia de los poros
 - Suaviza las líneas finas y las arrugas, ayuda a la piel a mantener su humedad
+- Iguala el aspecto del tono de la piel, minimiza la apariencia de los poros
 - Reformulado con un 40% más de vitaminas, VitaNiacin Complejo, vitamina E, pro-vitamina B5 y vitamina B3
+- Rápida absorción, con SPF15 y testado dermatológicamente
 
 [Visítala!!!](https://www.amazon.es/dp/B00TQ08KES/?tag=tolees-21)

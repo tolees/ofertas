@@ -25,10 +25,10 @@ Está [Build a Bot - Mascota Robot 2 en 1 Dino/Dragón  Famosa 700014667 ](https
 
 ℹ️:
 
+- Dependiendo de los accesorios y ventosas que utilices, crearás un dinosaurio o un dragón
 - Incluye tu mascota dino/ dragón, pegatinas e instrucciones
 - El motor electrónico permite a tu mascota andar
-- Crea tu propia mascota-robot 2 en 1 y personalízala con un montón de pegatinas
-- Dependiendo de los accesorios y ventosas que utilices, crearás un dinosaurio o un dragón
 - ¡Monta, personaliza y juega
+- Crea tu propia mascota-robot 2 en 1 y personalízala con un montón de pegatinas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07DDCWQTB/?tag=tolees-21)

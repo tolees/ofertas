@@ -25,10 +25,10 @@ Está [Maui Moisture  Acondicionador Repara y Suaviza Extracto de Vainilla  pelo
 
 ℹ️:
 
-- Este acondicionador vegano contiene aceite de nuez de Kukui, el cual es un antiguo secreto hawaiano utilizado por su capacidad de resistencia a la humedad
-- Disfruta de un pelo sin encrespamiento y completamente hidratado gracias al Acondicionador Suaviza y Revitaliza con Extracto de Vainilla de Maui Moisture
 - Su fórmula también contiene vainilla y manteca de cacao cremosa, los cuales ayudan a suavizar, a alisar y a eliminar el pelo rebelde
 - Utiliza este acondicionador con el champú con Extracto de Vainilla de Maui Moisture, completando el tratamiento capilar natural sin parabenos, siliconas, colorantes sintéticos, ni sulfatos que tanto estás buscando para tratar tu pelo rebelde
+- Este acondicionador vegano contiene aceite de nuez de Kukui, el cual es un antiguo secreto hawaiano utilizado por su capacidad de resistencia a la humedad
+- Disfruta de un pelo sin encrespamiento y completamente hidratado gracias al Acondicionador Suaviza y Revitaliza con Extracto de Vainilla de Maui Moisture
 - La línea de Extracto de Vainilla de Maui Moisture contiene todos los ingredientes naturales optimas para darte un pelo suave sin encrespamiento
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TJXXGJM/?tag=tolees-21)

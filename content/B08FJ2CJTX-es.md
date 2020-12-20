@@ -25,10 +25,10 @@ Está [Counting Stars Calzoncillos Bóxers Hombre Algodon Calzoncillos Hombres R
 
 ℹ️:
 
-- Servicio posventa: Queremos que nuestros clientes estén contentos. En caso de que tengas alguna pregunta o problema, no dudes en contactarnos. Nuestro equipo de servicio al cliente siempre está listo para ayudarte y encontrar la mejor solución para tí
-- Excelente calidad:Los calzoncillos tipo boxer vinieron perfectamente embalados ，se nota que es 96% algodón , son muy comodos， tienen muy buena lavada , no se encogen.Una cintura elástica sin etiquetas ，buena calidad
-- Escenarios aplicables:Estos boxers te mantendrán cómodo, fresco, seco y sin complicaciones todo el día, ya sea en el trabajo, en tu vida cotidiana o en tus entrenamientos
 - Información sobre el tamaño:(S 30" - 32") (M 33" - 35") (L 36" - 38") (XL 39" - 41") (XXL 42" - 44"),Por favor, consulte la tabla de medidas y revise cuidadosamente.Si tienes problemas con el tamaño, te recomiendo comprar UN tamaño más grande.
+- Escenarios aplicables:Estos boxers te mantendrán cómodo, fresco, seco y sin complicaciones todo el día, ya sea en el trabajo, en tu vida cotidiana o en tus entrenamientos
+- Excelente calidad:Los calzoncillos tipo boxer vinieron perfectamente embalados ，se nota que es 96% algodón , son muy comodos， tienen muy buena lavada , no se encogen.Una cintura elástica sin etiquetas ，buena calidad
 - Comodidad íntima: cintura suave y suficientemente elástica para ajustarse a su figura y mantener en su sitio. Diseñado para evitar desplazamiento bajo la ropa.
+- Servicio posventa: Queremos que nuestros clientes estén contentos. En caso de que tengas alguna pregunta o problema, no dudes en contactarnos. Nuestro equipo de servicio al cliente siempre está listo para ayudarte y encontrar la mejor solución para tí
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08FJ2CJTX/?tag=tolees-21)
