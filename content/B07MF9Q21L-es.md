@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony SRS-XB12  Altavoz  Inalámbrico y al al 30.17 % de descuento'
-date: 2020-12-19 06:57:55
+date: 2020-12-20 13:46:46
 image: 'https://m.media-amazon.com/images/I/31iRyP8sR1L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MF9Q21L/?tag=tolees-21'
 descuento: '30.17'
-average: '40.63771929824559'
+average: '40.65948275862067'
 ---
 
 Está [Sony SRS-XB12  Altavoz  Inalámbrico y alámbrico  MicroUSB  Tamaño Único  Negro](https://www.amazon.es/dp/B07MF9Q21L/?tag=tolees-21) con 30.17 de descuento por 41.9 EUR (original: 60.0 EUR) en el siguiente enlace!
@@ -25,9 +25,9 @@ Está [Sony SRS-XB12  Altavoz  Inalámbrico y alámbrico  MicroUSB  Tamaño Úni
 
 ℹ️:
 
-- Diseño compacto y portátil
 - Se suministra con correa desmontable
 - Extra Bass para un sonido rotundo y profundo
+- Diseño compacto y portátil
 - Resistente al agua y al polvo (calificación IP67)
 - Hasta 16 horas de duración de la batería
 
