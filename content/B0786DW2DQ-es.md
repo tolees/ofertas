@@ -27,7 +27,7 @@ Ahora mismo tienes [Puma Liga Training Pant Core Pantalones  Hombre  Negro Negro
 
 - Confección anatómica
 - Refuerzo visible en la entrepierna
-- Corte normal
 - DryCELL: material altamente funcional que evacúa el sudor
+- Corte normal
 
 [Visítala!!!](https://www.amazon.es/dp/B0786DW2DQ/?tag=tolees-21)

@@ -25,10 +25,10 @@ Está [adidas Court Bold  Zapatillas de Deporte Mujer  NEGBÁS/FTWBLA/NEGBÁS  3
 
 ℹ️:
 
-- Calzado deportivo de la marca Adidas
-- Las Zapatillas de deporte de la marca Adidas están diseñadas con la última tecnología y la mejor calidad para que se adapten perfectamente a tu pie sin dejar de lado el estilo.
-- Zapatillas de deporte COURT BOLD (FX3490)
-- Practica tu deporte favorito gracias a las Zapatillas de deporte de Adidas. Comodidad y ligereza para que sólo tengas que preocuparte de rendir al máximo.
 - Zapatillas de deporte ideales para Skateboard de Mujer.
+- Zapatillas de deporte COURT BOLD (FX3490)
+- Las Zapatillas de deporte de la marca Adidas están diseñadas con la última tecnología y la mejor calidad para que se adapten perfectamente a tu pie sin dejar de lado el estilo.
+- Calzado deportivo de la marca Adidas
+- Practica tu deporte favorito gracias a las Zapatillas de deporte de Adidas. Comodidad y ligereza para que sólo tengas que preocuparte de rendir al máximo.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B085BWF96Z/?tag=tolees-21)

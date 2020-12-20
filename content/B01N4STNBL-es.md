@@ -25,9 +25,9 @@ Ahora mismo tienes [Tommy Hilfiger Logo Camiseta de Cuello Redondo Perfecta para
 
 🔎:
 
-- Logo bordado en la manga
 - Camiseta de corte clásico óptima para el tiempo libre
-- Cinta distintiva en el interior del cuello
 - Logo de Tommy Hilfiger en la parte delantera
+- Cinta distintiva en el interior del cuello
+- Logo bordado en la manga
 
 [Visítala!!!](https://www.amazon.es/dp/B01N4STNBL/?tag=tolees-21)
