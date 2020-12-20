@@ -25,10 +25,10 @@ Tienes [JULIUS-K9 Arnés Julius-K9 IDC  Mini-Mini/S  40–53 cm/22 mm  Rojo  Per
 
 ℹ️:
 
-- circunferencia torácica: 40-53 cm; peso del perro: 4-7 kg
 - ¡Para más productos, visite nuestro Amazon Storefront!
-- Un arnés para perros que garantiza la máxima libertad de movimiento.
 - Ideal para paseos, actividades deportivas y entrenamiento de perros.
+- circunferencia torácica: 40-53 cm; peso del perro: 4-7 kg
+- Un arnés para perros que garantiza la máxima libertad de movimiento.
 - Compatible con etiquetas intercambiables de gancho y bucle.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B004IEKT5U/?tag=tolees-21)

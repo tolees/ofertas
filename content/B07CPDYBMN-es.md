@@ -25,10 +25,10 @@ Está [Shave It - Recambio de 6 hojas para maquinilla de afeitar  12 cuchillas ]
 
 ℹ️:
 
-- Incluye 12 maquinillas de afeitar
-- Recortador para un contacto óptimo en los contornos, como las patillas o debajo de la nariz
-- Sistema de seis hojas para un afeitado espectacular
 - Se envía en una caja de cartón que cabe en el buzón
+- Incluye 12 maquinillas de afeitar
+- Sistema de seis hojas para un afeitado espectacular
 - Banda lubricante con áloe, vitamina E y extracto de lavanda para una piel suave e hidratada
+- Recortador para un contacto óptimo en los contornos, como las patillas o debajo de la nariz
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07CPDYBMN/?tag=tolees-21)

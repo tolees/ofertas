@@ -25,10 +25,10 @@ Ahora mismo tienes [Space Cowboys- Sherlock Holmes: Jack el Destripador  Asmodee
 
 🔎:
 
-- interrogando sospechosos, consultando periódicos y recorriendo las calles en busca de indicios.
-- Sherlock Holmes Detective Asesor es un juego cooperativo, donde los jugadores intentan resolver casos misteriosos
-- Una vez hayas completado tu investigación, compararás tus habilidades detectivescas con las del propio maestro de detectives: Sherlock Holmes.
-- Jack el Destripador y Aventuras en el West End es un juego independiente.
 - ¡Resuelve diez misterios en el Londres victoriano!
+- interrogando sospechosos, consultando periódicos y recorriendo las calles en busca de indicios.
+- Jack el Destripador y Aventuras en el West End es un juego independiente.
+- Una vez hayas completado tu investigación, compararás tus habilidades detectivescas con las del propio maestro de detectives: Sherlock Holmes.
+- Sherlock Holmes Detective Asesor es un juego cooperativo, donde los jugadores intentan resolver casos misteriosos
 
 [Visítala!!!](https://www.amazon.es/dp/B079Z8X5PY/?tag=tolees-21)

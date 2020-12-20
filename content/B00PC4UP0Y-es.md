@@ -26,10 +26,10 @@ Está [Trust Azul - Base de refrigeración para portátiles  Dos Ventiladores   
 ℹ️:
 
 - Superficie grande de 360 x 280 mm para ordenadores portátiles de hasta 17.3"
-- Atractiva iluminación en azul
-- Con un puerto USB extra y un interruptor de encendido/apagado del ventilador
-- 2 ventiladores con alimentación USB para una mejor refrigeración
-- Placa superior de red metálica para un flujo del aire optimizado
 - Evita el sobrecalentamiento del ordenador portátil
+- Atractiva iluminación en azul
+- Placa superior de red metálica para un flujo del aire optimizado
+- 2 ventiladores con alimentación USB para una mejor refrigeración
+- Con un puerto USB extra y un interruptor de encendido/apagado del ventilador
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00PC4UP0Y/?tag=tolees-21)

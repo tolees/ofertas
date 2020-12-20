@@ -25,8 +25,8 @@ Tienes [NIKE Court Borough Low 2  Sneaker Boys  White White White  31.5 EU](http
 
 ℹ️:
 
-- Cordones de Zapatos
-- Importado
 - Suave de Llevar
+- Importado
+- Cordones de Zapatos
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07YVQ11VH/?tag=tolees-21)

@@ -26,7 +26,7 @@ Está [adidas FL TRG tee Camiseta de Manga Corta  Hombre  Tech Indigo  L](https:
 ℹ️:
 
 - Regular fit
-- Crew-neck design
 - Climalite anti-humidity fabric
+- Crew-neck design
 
 [Ver la oferta!!](https://www.amazon.es/dp/B081TPD1RM/?tag=tolees-21)

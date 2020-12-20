@@ -25,15 +25,15 @@ Está [Jata FR678 Freidora 100% Desmontable 3 2 l Cestillo de Gran Capacidad Man
 
 ℹ️:
 
-- Recogecables integrado
-- Tapa inoxidable con asa
-- Asas laterales
-- Termostato regulable de temperatura
-- Sistema de seguridad antifuncionamiento involuntariio
-- Resistencia inox sumergida
-- 100% desmontable para su fácil limpieza
-- Cestillo de gran capacidad con mango abatible
-- Indicadores luminosos de encendido y preparado
 - Cuba esmaltada extraíble
+- Recogecables integrado
+- Resistencia inox sumergida
+- Tapa inoxidable con asa
+- Termostato regulable de temperatura
+- Cestillo de gran capacidad con mango abatible
+- Sistema de seguridad antifuncionamiento involuntariio
+- Indicadores luminosos de encendido y preparado
+- 100% desmontable para su fácil limpieza
+- Asas laterales
 
 [Ver la oferta!!](https://www.amazon.es/dp/B082LBHQPW/?tag=tolees-21)

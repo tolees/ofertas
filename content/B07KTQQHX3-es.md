@@ -25,10 +25,10 @@ Está [Hugo BOSS Reloj de pulsera 1513668](https://www.amazon.es/dp/B07KTQQHX3/?
 
 ℹ️:
 
-- Grosor de la caja de 11,1 mm
 - Correa tostado claro de piel lisa
 - Dos manecillas
 - Esfera azul
+- Grosor de la caja de 11,1 mm
 - 5 ATM de resistencia al agua
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KTQQHX3/?tag=tolees-21)
