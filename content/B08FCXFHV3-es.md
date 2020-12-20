@@ -25,10 +25,10 @@ Ahora mismo tienes [Pikmin 3 - Deluxe Edition NSW](https://www.amazon.es/dp/B08F
 
 🔎:
 
-- Three brave explorers land on planet PNF-404 on a mission to find food for their starving home planet. After a crash landing, these explorers must work with Pikmin to reunite and complete their mission.
 - When you arent busy collecting fruit and saving your planet, try out Mission mode to accomplish set requirements like defeating enemies or collecting items. Looking for some friendly competition? In Bingo Battle you must use Pikmin to retrieve items on your bingo card before your opponent does..With more options for cooperative play, its easy for newcomers to start their Pikmin journey, new side stories and more, these tiny Pikmin are in for their biggest adventure yet.
-- This deluxe version of the Pikmin 3 game includes new side-story missions featuring Olimar and Louie, the ability to play Story mode with a friend and all DLC stages from the original release. Feeling competitive? Enjoy fierce head-to-head Bingo Battles and online leader boards for Mission mode.
 - Direct, toss and grow Pikmin with different abilities and strengths; winged Pikmin can fly, while blue Pikmin can breathe underwater. By strategically choosing the right Pikmin for the job at hand and changing between the three captains (or coordinating with a second player), you can work efficiently to collect fruit and grow your Pikmin squad.
+- This deluxe version of the Pikmin 3 game includes new side-story missions featuring Olimar and Louie, the ability to play Story mode with a friend and all DLC stages from the original release. Feeling competitive? Enjoy fierce head-to-head Bingo Battles and online leader boards for Mission mode.
 - Grow a squad of adorable, plant-like Pikmin to traverse a strange world and save your planet
+- Three brave explorers land on planet PNF-404 on a mission to find food for their starving home planet. After a crash landing, these explorers must work with Pikmin to reunite and complete their mission.
 
 [Visítala!!!](https://www.amazon.es/dp/B08FCXFHV3/?tag=tolees-21)

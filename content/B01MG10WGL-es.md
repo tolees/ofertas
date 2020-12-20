@@ -25,9 +25,9 @@ Ahora mismo tienes [NANOCABLE 10.99.0101 - Adaptador para Disco Duro de 7 0mm en
 
 🔎:
 
+- Prueba de funcionamiento: 100% testado.
 - Incluye tornillos para el montaje.
 - Normas: RoHS.
 - Para discos duros de 2,5 pulgadas.
-- Prueba de funcionamiento: 100% testado.
 
 [Visítala!!!](https://www.amazon.es/dp/B01MG10WGL/?tag=tolees-21)

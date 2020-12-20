@@ -25,11 +25,11 @@ Tienes [Nespresso De Longhi Essenza Mini EN85.L - Cafetera monodosis de cápsula
 
 ℹ️:
 
+- 2 tamaños de taza seleccionables
 - Contenedor de cápsulas usadas con capacidad para 6
 - Apagado automático después de 9 minutos (programable)
-- Muy delgada: sólo 11 cm
 - Presión de 19 bares
-- 2 tamaños de taza seleccionables
+- Muy delgada: sólo 11 cm
 - Incluye 14 cápsulas y 20€ de crédito en café
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B073ZMK8DZ/?tag=tolees-21)

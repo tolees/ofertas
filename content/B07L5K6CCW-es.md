@@ -27,8 +27,8 @@ Tienes [Winning Moves- Trivial Bite Harry Potter  Multicolor  Talla Única  Elev
 
 - Esta edición de Trivial Pursuit presenta el mundo mágico de Harry Potter, con preguntas basadas tanto en los libros como en las películas.
 - Esta versión permite jugar de una manera rápida y sus 600 preguntas satisfarán a los fans más exigentes.
-- El juego incluye dados de colores, tarjetas y una práctica caja fácil de llevar. No se requiere tablero para jugar.
 - Divertido para toda la familia
+- El juego incluye dados de colores, tarjetas y una práctica caja fácil de llevar. No se requiere tablero para jugar.
 - Preguntas fascinantes, desconcertantes y cautivadoras que pondrán a prueba tu conocimiento y tu memoria.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07L5K6CCW/?tag=tolees-21)

@@ -25,10 +25,10 @@ Tienes [SanDisk iXpand - Memoria Flash USB de 64 GB para iPhone y iPad  Color Ne
 
 ℹ️:
 
-- Diseñada con un conector flexible compatible con la mayoría de fundas para iPhone
-- Transferencia USB 3.0 de alta velocidad a tu ordenador y desde este
-- Libera espacio en tu iPhone o iPad y realiza copias de seguridad automáticas de tus fotografías y vídeos
 - Gestiona tus fotografías y vídeos fácilmente con la aplicación iXpand Drive
+- Diseñada con un conector flexible compatible con la mayoría de fundas para iPhone
 - Te permite ver vídeos en los formatos más habituales directamente desde la memoria
+- Libera espacio en tu iPhone o iPad y realiza copias de seguridad automáticas de tus fotografías y vídeos
+- Transferencia USB 3.0 de alta velocidad a tu ordenador y desde este
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01CIEBS74/?tag=tolees-21)

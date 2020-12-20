@@ -25,10 +25,10 @@ Tienes [tomtoc Funda para tableta de 11 pulgadas para iPad Pro de 11 "  iPad Air
 
 ℹ️:
 
-- Calidad premium y diseño magnético: la funda de la tableta está hecha con cremallera ykk de alta calidad para una vida útil prolongada; Los cierres magnéticos del pequeño bolsillo frontal permiten un acceso rápido y sin complicaciones a los accesorios de su tableta, teléfono, auriculares, etc.
+- Hecho a medida para un ajuste perfecto: Dimensiones internas: 10,1" x 7,6" x 0,5"; Especialmente diseñado para iPad Pro de 11 pulgadas de Apple con Magic Keyboard y Smart Keyboard Folio o Logitech Slim Folio Pro Case; También compatible con iPad Air de 10.9 / 10.5 pulgadas, iPad Pro | iPad de 10,2 pulgadas | iPad de 9,7 pulgadas, iPad Pro | Microsoft Surface Go 2/1 de 10" | Acer Chromebook Tab 10 | Tabletas Samsung Galaxy Tab de 9,7" y 10,1", etc.
 - Compacto y delgado: al ser delgado y liviano, la funda para tableta tomtoc se puede llevar puesta sin agregar demasiado volumen a la tableta, o se puede transportar fácilmente dentro de otra bolsa, mochila o maleta.
 - Buena protección: el acolchado que absorbe los golpes con un interior de material de vellón suave proporciona una sensación de seda y protección adicional contra golpes y caídas, el material externo duradero resistente al agua protege su tableta de arañazos, suciedad y lluvia.
-- Hecho a medida para un ajuste perfecto: Dimensiones internas: 10,1" x 7,6" x 0,5"; Especialmente diseñado para iPad Pro de 11 pulgadas de Apple con Magic Keyboard y Smart Keyboard Folio o Logitech Slim Folio Pro Case; También compatible con iPad Air de 10.9 / 10.5 pulgadas, iPad Pro | iPad de 10,2 pulgadas | iPad de 9,7 pulgadas, iPad Pro | Microsoft Surface Go 2/1 de 10" | Acer Chromebook Tab 10 | Tabletas Samsung Galaxy Tab de 9,7" y 10,1", etc.
+- Calidad premium y diseño magnético: la funda de la tableta está hecha con cremallera ykk de alta calidad para una vida útil prolongada; Los cierres magnéticos del pequeño bolsillo frontal permiten un acceso rápido y sin complicaciones a los accesorios de su tableta, teléfono, auriculares, etc.
 - Bolsillos bien organizados: la funda de la tableta cuenta con un bolsillo grande para su iPad Pro | iPad Air, dos espacios de almacenamiento adicionales para llevar accesorios como cargador, cable, hub, apple pen, auriculares, etc.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BD5H3FV/?tag=tolees-21)

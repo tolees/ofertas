@@ -25,12 +25,12 @@ Está [Zwilling Jungle - Juego cubertería infantil  4 piezas con esmalte  acero
 
 ℹ️:
 
-- Acero inoxidable 18/10 pulido
-- Contiene un tenedor, un cuchillo sin punta, una cuchara sopera y una cuchara de postre
-- Diseño inspirado en la serie Jungle
-- Perfecto para niños desde 3 años
 - Apto para lavavajillas
 - No corrosivo
+- Acero inoxidable 18/10 pulido
 - Puntas redondeadas y borde suavizado para evitar lesiones
+- Diseño inspirado en la serie Jungle
+- Contiene un tenedor, un cuchillo sin punta, una cuchara sopera y una cuchara de postre
+- Perfecto para niños desde 3 años
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0091HAEGS/?tag=tolees-21)

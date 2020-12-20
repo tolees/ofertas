@@ -25,10 +25,10 @@ Ahora mismo tienes [Our World is Ended - Day One Edition](https://www.amazon.es/
 
 🔎:
 
+- Artbook
 - Keyring
-- A new masterpiece of narrative visual storytelling
 - A story with catastrophic consequences - Is it a computer game glitch? Or something more sinister?
 - Our World is Ended Game
-- Artbook
+- A new masterpiece of narrative visual storytelling
 
 [Visítala!!!](https://www.amazon.es/dp/B07M7PCDF9/?tag=tolees-21)

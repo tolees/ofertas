@@ -25,8 +25,8 @@ Tienes [adidas Tastigo19 SHO Pantalones Cortos de Deporte  Hombre  Bold Blue/Whi
 
 ℹ️:
 
+- Climalite anti-humidity fabric
 - Elastic waistband with lanyard
 - Regular fit
-- Climalite anti-humidity fabric
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07K19V1ZD/?tag=tolees-21)

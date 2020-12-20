@@ -25,10 +25,10 @@ Está [Asmodée- Untold  Castellano  Multicolor  UTD01ES ](https://www.amazon.es
 
 ℹ️:
 
-- Basado en tus series de televisión favoritas, untold: la aventura te espera es un juego cooperativo de narración de historias en el que jugarás en el papel de los héroes de tu propia serie de aventuras
-- En el transcurso del episodio, te enfrentarás a sorprendentes giros de la trama y a peligrosos encuentros, todos en función de tus elecciones
-- Cada partida de untold es un episodio completo e independiente que se desarrolla en cinco escenas
 - Untold se sirve de los icónicos dados de rorys story cubes, para inspirar e impulsar la narrativa durante tus aventuras
+- Cada partida de untold es un episodio completo e independiente que se desarrolla en cinco escenas
+- Basado en tus series de televisión favoritas, untold: la aventura te espera es un juego cooperativo de narración de historias en el que jugarás en el papel de los héroes de tu propia serie de aventuras
 - Así que coge el juego y tira tus rorys story cubes, conviértete en un héroe que esté a la altura
+- En el transcurso del episodio, te enfrentarás a sorprendentes giros de la trama y a peligrosos encuentros, todos en función de tus elecciones
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07X1S5WHD/?tag=tolees-21)

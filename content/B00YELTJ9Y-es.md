@@ -25,8 +25,8 @@ Tienes [Tanner 0.925 5 - Prinzenrolle Lata de Metal Lleno de Galletas detailgetr
 
 ℹ️:
 
-- Material: madera.
 - Producto en una réplica auténtica.
+- Material: madera.
 - A partir de 3 años.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00YELTJ9Y/?tag=tolees-21)

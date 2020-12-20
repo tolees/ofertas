@@ -25,9 +25,9 @@ Ahora mismo tienes [Al Haramain Perfumes Tanasuk - Aceite de perfume  1 unidad ]
 
 🔎:
 
+- Notas de base: vainilla, almizcle, azúcar moreno.
 - Notas medias: madera seca, jazmín, ámbar.
 - Experimentamos amistades y alianzas, abrazos, apretados apretados y cordiales apretados, reuniones formales y reuniones divertidas.
-- Notas de base: vainilla, almizcle, azúcar moreno.
 - Notas altas: rosa, granadina, azafrán
 
 [Visítala!!!](https://www.amazon.es/dp/B071N9PMXP/?tag=tolees-21)
