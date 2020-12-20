@@ -25,10 +25,10 @@ Está [APLI Kids Dinosaurios - Bolsa de pegatinas luminiscentes](https://www.ama
 
 ℹ️:
 
-- Cada bolsa incluye 9 dinosaurios de tamaño surtido y formas surtidas
-- Ideales para decorar habitaciones, cuadernos, carpetas, etc
 - Incluyen un punto de adhesivo permanente en la parte trasera para poder pegarlas donde quieras
 - Formas que brillan en la oscuridad con un grosor de 2 mm
 - Dinosaurios luminiscentes de plástico sólido en 3d
+- Cada bolsa incluye 9 dinosaurios de tamaño surtido y formas surtidas
+- Ideales para decorar habitaciones, cuadernos, carpetas, etc
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07PHV5MB7/?tag=tolees-21)

@@ -26,7 +26,7 @@ Ahora mismo tienes [Tous EDP 90ML](https://www.amazon.es/dp/B000VON5JS/?tag=tole
 🔎:
 
 - Fondo: Musc blanco, cedro de marruecos e iris
-- Corazón: Jazmon blanco,, peonia amarilla, rosa y gardenia
 - Salida: hojas de casis, violeta, bergamota y coriandro.
+- Corazón: Jazmon blanco,, peonia amarilla, rosa y gardenia
 
 [Visítala!!!](https://www.amazon.es/dp/B000VON5JS/?tag=tolees-21)

@@ -25,9 +25,9 @@ Ahora mismo tienes [Walking Dead 14518 TV Negan and Glenn Figura de acción  5 P
 
 🔎:
 
-- Las figuras cuentan con una imagen espectacular de negan y Glenn tomadas de escaneos 3D del actor Jeffery Dean Morgan y Steven Yeun
+- Dos figuras totalmente articuladas de 5 pulgadas de Negan y Glenn de su icónica escena de la temporada 7 de Amc s The Walking Dead
 - Caja de ventana temática de Amc s The Walking Dead que muestra las figuras y accesorios incluidos
 - El juego de caja cuenta con dos fusiles de asalto, pistola, reloj y bate de béisbol "Lucille".
-- Dos figuras totalmente articuladas de 5 pulgadas de Negan y Glenn de su icónica escena de la temporada 7 de Amc s The Walking Dead
+- Las figuras cuentan con una imagen espectacular de negan y Glenn tomadas de escaneos 3D del actor Jeffery Dean Morgan y Steven Yeun
 
 [Visítala!!!](https://www.amazon.es/dp/B06XKF86RP/?tag=tolees-21)

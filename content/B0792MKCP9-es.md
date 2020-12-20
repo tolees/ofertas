@@ -25,10 +25,10 @@ Tienes [Geox J RIDDOCK Boy F  Zapatillas Niños  Negro  Black C9999   29 EU](htt
 
 ℹ️:
 
-- Parte Superior: Cuero
-- Código Fabricante: J847sf
 - Fijación: Cinta De Rip
-- Suela: Goma, Suela Transpirable Geox
 - Guarnición: Plantillas (con Acabado Antibacteriano)
+- Código Fabricante: J847sf
+- Parte Superior: Cuero
+- Suela: Goma, Suela Transpirable Geox
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0792MKCP9/?tag=tolees-21)

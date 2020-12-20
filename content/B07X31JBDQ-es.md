@@ -26,9 +26,9 @@ Ahora mismo tienes [Tronsmart T2 Plus Altavoz Bluetooth 20W  Altavoz Portátil I
 🔎:
 
 - Bluetooth 5.0 y Asistente de voz: Bluetooth 5.0 es compatible con todos los dispositivos Bluetooth y es más estable que Bluetooth 4.2 o 4.0 (dentro de 20 m). Toque el botón de encendido una vez activado el asistente de voz, como Siri o el Asistente de Google. También es compatible con Amazon Echo Dot.
-- TWS y Manos Libres: Gracias a la función TWS, puede emparejar 2 T2 Plus juntos para la reproducción en modo estéreo o de fiesta, para disfrutar del sonido envolvente de 360 ​​°. Micrófono incorporado con tecnología integrada de cancelación de ruido y eso para llamadas más cristalinas y claras.
-- Tiempo de reproducción de 24 horas: Con su batería de litio de 3600 mah incorporada, se puede trabajar 24 horas en volumen de 50% (el tiempo de reproducción depende del nivel de volumen y del contenido de audio).
 - Resistencia al Agua IPX7: El altavoz inalámbrico es ideal tanto para uso en interiores como en exteriores, ya que es IPX7, incluso puede sumergirse bajo el agua durante 30 minutos. Ligero y ultra portátil. Fácil de coger con recubrimiento de goma, está protegido contra impactos y es más robusto.
+- Tiempo de reproducción de 24 horas: Con su batería de litio de 3600 mah incorporada, se puede trabajar 24 horas en volumen de 50% (el tiempo de reproducción depende del nivel de volumen y del contenido de audio).
+- TWS y Manos Libres: Gracias a la función TWS, puede emparejar 2 T2 Plus juntos para la reproducción en modo estéreo o de fiesta, para disfrutar del sonido envolvente de 360 ​​°. Micrófono incorporado con tecnología integrada de cancelación de ruido y eso para llamadas más cristalinas y claras.
 - Sonido Estéreo: Los altavoces con controles duales de rango completo con radiador pasivo ofrece sonido claro y melodioso, una excelente experiencia de escuchar música. Le ofrece sonido bajo fuerte.
 
 [Visítala!!!](https://www.amazon.es/dp/B07X31JBDQ/?tag=tolees-21)

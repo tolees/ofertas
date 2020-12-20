@@ -25,9 +25,9 @@ Ahora mismo tienes [Barbie- Collector Muñeca Wonder Woman  Mattel GJJ49 ](https
 
 🔎:
 
-- ​Diana Prince Barbie doll wears her stunning white gala gown complete with a wraparound tie detail at the waist Accessories include a golden cuff bracelet necklace and nude stilettos
 - ​Celebrate return of Wonder Woman in Wonder Woman 1984 with a 2-doll Barbie gift set that shines the spotlight on the timeless romance of Diana Prince and Steve Trevor
 - ​Wonder Woman 1984 Barbie dolls look just like their onscreen characters and feature flexibility for powerful poses
+- ​Diana Prince Barbie doll wears her stunning white gala gown complete with a wraparound tie detail at the waist Accessories include a golden cuff bracelet necklace and nude stilettos
 - ​Steve Trevor Barbie doll wears an all-black jacket over a white t-shirt with white sneakers aviator-style sunglasses a gray waist bag and matching watch
 - ​Relive the pairs most memorable scenes with film-inspired Barbie dolls in detailed true-to-movie fashions and accessories
 

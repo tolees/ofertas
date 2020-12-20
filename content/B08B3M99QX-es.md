@@ -25,8 +25,8 @@ Ahora mismo tienes [Sharp 32CB3E - TV 32 Pulgadas 32"  resolución 1368 x 720  3
 
 🔎:
 
-- Conexiones: 3x hdmi, 2x usb
 - Pantalla de diagonal 32" con resolución 1368 x 720
+- Conexiones: 3x hdmi, 2x usb
 - Sonido harman/kardon
 - Sintonizador dvb-t/t2/c/s/s2 (mpeg4 + hevc/h.265)
 

@@ -25,9 +25,9 @@ Está [Western Digital My Cloud Home - Almacenamiento En Red NAS de 3 TB  1 Bah
 
 ℹ️:
 
-- Configuración sencilla y rápida desde el teléfono
-- Acceso desde cualquier lugar con la aplicación para móviles o para ordenadores de My Cloud Home, o bien desde MyCloud.com
 - Puerto USB para importar fotos, vídeos y documentos desde unidades flash USB y discos duros externos
 - Copia de seguridad automática de las fotos y los vídeos del teléfono
+- Acceso desde cualquier lugar con la aplicación para móviles o para ordenadores de My Cloud Home, o bien desde MyCloud.com
+- Configuración sencilla y rápida desde el teléfono
 
 [Ver la oferta!!](https://www.amazon.es/dp/B074DXK5MP/?tag=tolees-21)

@@ -25,10 +25,10 @@ Está [L Oréal Paris Color Riche Mate Pintalabios  Mate Rojo 346 Scarlet Silhou
 
 ℹ️:
 
-- No reseca los labios gracias a la combinación de aceite de rosa mosqueta y aceites preciosos
-- Barra de Labios hidratante con un acabado mate y un color intenso
-- Una fórmula enriquecida con aceites de rosa mosqueta, jojoba y pigmentos de color intenso
 - Gama completa de 22 tonos
+- No reseca los labios gracias a la combinación de aceite de rosa mosqueta y aceites preciosos
+- Una fórmula enriquecida con aceites de rosa mosqueta, jojoba y pigmentos de color intenso
 - Colores mate intensos que nacen de los pigmentos puros; confort e hidratación; fragancia inolvidable
+- Barra de Labios hidratante con un acabado mate y un color intenso
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01N9UORQR/?tag=tolees-21)

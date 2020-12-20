@@ -25,10 +25,10 @@ Está [MVMT Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidabl
 
 ℹ️:
 
-- 5 ATM de resistencia al agua
-- Grosor de la caja de 11 mm; diámetro de la caja 41 mm
 - Ancho de la correa: 20 mm
 - Movimiento de cuarzo Miyota
+- 5 ATM de resistencia al agua
 - Caja color bronce mate en acero inoxidable y esfera negro mate
+- Grosor de la caja de 11 mm; diámetro de la caja 41 mm
 
 [Ver la oferta!!](https://www.amazon.es/dp/B084RK9M4M/?tag=tolees-21)

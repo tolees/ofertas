@@ -25,10 +25,10 @@ Está [BSEED 300W Smart WIFI Dimmer Interruptor táctil LED Compitable 2.4GHz de
 
 ℹ️:
 
-- ✅ Control remoto de la aplicación desde cualquier lugar con el teléfono: use el teléfono inteligente para encender / apagar las luces de forma remota o ajustar el brillo continuo en cualquier momento y en cualquier lugar a través de la aplicación, siempre qEU el teléfono iOS / Android tenga una red 3G / 4G / WIFI.
-- ✅ Schedu Programaciones de temporización: admite un máximo de 8 habilita la programación de temporización individual / repetición / cuenta regresiva para cada dispositivo. Los temporizadores preestablecidos pueden funcionar incluso si la red no está disponible, pero el dispositivo debe mantenerse encendido.
-- ✅ Compatible con Amazon Alexa / Google Home: el usuario puede controlar este interruptor continuo a través de la voz a través del dispositivo Alexa / Google para encender / apagar la luz y ajustar el brillo. Esto hace qEU la operación sea más conveniente y más inteligente.
-- ✅ Switch Interruptor de atenuación gradual con control táctil: admite una potencia máxima de 300W qEU puede funcionar con la mayoría de las luces con función de atenuación. Proporciona la máxima cantidad de rango de atenuación continua, el usuario puede atenuar la luz para ahorrar más electricidad y extender la vida útil de la bombilla. Voltaje: CA 90 Tensión -250V.
 - ✅ Switch Interruptor de atenuación WIFI: Adecuado para bombilla LED regulable por encima de 5W, y funciona con lámpara incandescente, lámpara halógena, lámpara de tungsteno de yodo, lámpara LED de resistencia resistiva, lámpara LED de atenuación continua.
+- ✅ Control remoto de la aplicación desde cualquier lugar con el teléfono: use el teléfono inteligente para encender / apagar las luces de forma remota o ajustar el brillo continuo en cualquier momento y en cualquier lugar a través de la aplicación, siempre qEU el teléfono iOS / Android tenga una red 3G / 4G / WIFI.
+- ✅ Compatible con Amazon Alexa / Google Home: el usuario puede controlar este interruptor continuo a través de la voz a través del dispositivo Alexa / Google para encender / apagar la luz y ajustar el brillo. Esto hace qEU la operación sea más conveniente y más inteligente.
+- ✅ Schedu Programaciones de temporización: admite un máximo de 8 habilita la programación de temporización individual / repetición / cuenta regresiva para cada dispositivo. Los temporizadores preestablecidos pueden funcionar incluso si la red no está disponible, pero el dispositivo debe mantenerse encendido.
+- ✅ Switch Interruptor de atenuación gradual con control táctil: admite una potencia máxima de 300W qEU puede funcionar con la mayoría de las luces con función de atenuación. Proporciona la máxima cantidad de rango de atenuación continua, el usuario puede atenuar la luz para ahorrar más electricidad y extender la vida útil de la bombilla. Voltaje: CA 90 Tensión -250V.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B088WTSSDK/?tag=tolees-21)

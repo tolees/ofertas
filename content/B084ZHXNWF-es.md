@@ -25,11 +25,11 @@ Tienes [Educa Planeta Tierra Juego de Mesa  Multicolor  18707 ](https://www.amaz
 
 ℹ️:
 
-- Planeta Tierra una divertida colección de juegos familiares para explorar el mundo, sus riquezas y concienciarse sobre la necesidad de protección del medio ambiente
-- Contenido: 1 tablero, 6 peones, 52 fichas, dado, bolsa de tejido, 192 cartas, caja-estuche e instrucciones
-- Conviértete en un explorador del Planeta Tierra y realiza la misión que tienes encomendada
 - Juego de mesa elaborado con materiales reciclables
-- Versión española
 - Recomendado a partir de 7 años
+- Versión española
+- Conviértete en un explorador del Planeta Tierra y realiza la misión que tienes encomendada
+- Contenido: 1 tablero, 6 peones, 52 fichas, dado, bolsa de tejido, 192 cartas, caja-estuche e instrucciones
+- Planeta Tierra una divertida colección de juegos familiares para explorar el mundo, sus riquezas y concienciarse sobre la necesidad de protección del medio ambiente
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B084ZHXNWF/?tag=tolees-21)

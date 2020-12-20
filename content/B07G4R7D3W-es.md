@@ -25,14 +25,14 @@ Tienes [Lacoste Reloj Analógico para Unisex Niños de Cuarzo con Correa en Sili
 
 ℹ️:
 
-- Navy silicone strap with printed design
-- 5 atm water resistance
+- case thickness 9.85mm
 - 3-Hand movement
 - Case thickness 9.85mm
-- white dial
-- navy silicone strap with printed design
-- White dial
-- case thickness 9.85mm
 - 5 atm water resistance
+- White dial
+- Navy silicone strap with printed design
+- white dial
+- 5 atm water resistance
+- navy silicone strap with printed design
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07G4R7D3W/?tag=tolees-21)
