@@ -25,10 +25,10 @@ Tienes [Michael Kors Reloj de Bolsillo para Mujer](https://www.amazon.es/dp/B07W
 
 ℹ️:
 
-- Con tecnología Wear OS by Google
-- Pantalla AMOLED: matriz activa de diodos orgánicos emisores de luz
 - Resistente al agua hasta 30 m
-- Actualizaciones de redes sociales; Alertas de mensajes/correo electrónico; Notificaciones de aplicaciones
+- Pantalla AMOLED: matriz activa de diodos orgánicos emisores de luz
+- Con tecnología Wear OS by Google
 - Compatible con teléfonos iPhone and Android
+- Actualizaciones de redes sociales; Alertas de mensajes/correo electrónico; Notificaciones de aplicaciones
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07WMSQZY5/?tag=tolees-21)

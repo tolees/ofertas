@@ -25,10 +25,10 @@ Ahora mismo tienes [Chicos Friendimals Coco loro peluche interactivo  41255 ](ht
 
 🔎:
 
-- Coco es un papagayo que repite todo. Se comporta como un papagayo real, repitiendo lo que dices pero cómo y cuándo quiere.
-- Cuando no está en modo grabadora, Coco repite todo lo que digas pero cómo y cuándo él quiera, de forma impredecible. ¡Es un pájaro loco! Emite sonidos, silbidos y canciones.
-- En modo grabadora, graba hasta 3 mensajes de voz y Coco los repetirá
-- Coco tiene dos modos de juego: grabadora y papagayo repetidor
 - Coco se mueve hacia arriba y hacia abajo cuando habla. Funciona con pilas LR3.
+- Cuando no está en modo grabadora, Coco repite todo lo que digas pero cómo y cuándo él quiera, de forma impredecible. ¡Es un pájaro loco! Emite sonidos, silbidos y canciones.
+- Coco tiene dos modos de juego: grabadora y papagayo repetidor
+- Coco es un papagayo que repite todo. Se comporta como un papagayo real, repitiendo lo que dices pero cómo y cuándo quiere.
+- En modo grabadora, graba hasta 3 mensajes de voz y Coco los repetirá
 
 [Visítala!!!](https://www.amazon.es/dp/B07D4TF3HJ/?tag=tolees-21)

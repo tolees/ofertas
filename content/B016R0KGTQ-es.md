@@ -26,7 +26,7 @@ Está [Skechers D Lites-Biggest Fan  Zapatillas Mujer  Negro  BKW Black Trubuck/
 ℹ️:
 
 - adulto
-- Black
 - synthetic
+- Black
 
 [Ver la oferta!!](https://www.amazon.es/dp/B016R0KGTQ/?tag=tolees-21)

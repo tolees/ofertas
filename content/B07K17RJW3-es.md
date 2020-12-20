@@ -25,8 +25,8 @@ Tienes [adidas TASTIGO19 SHO Pantalones Cortos de Deporte  Hombre  Legend Purple
 
 ℹ️:
 
-- Elastic waistband with lanyard
 - Climalite anti-humidity fabric
 - Regular fit
+- Elastic waistband with lanyard
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07K17RJW3/?tag=tolees-21)

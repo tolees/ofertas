@@ -25,10 +25,10 @@ Está [L OR Café Grano Classique - 4 paquetes de 500gr  2000gr ](https://www.am
 
 ℹ️:
 
-- Aptos para ser utilizado en máquinas superautomáticas de grano; una vez molido, se puede utilizar en todo tipo de cafeteras
-- L’OR Classique es el reflejo de un espresso de calidad incomparable, gracias a su aroma, a una capa de elegante crema dorada y al toque irresistible que le dan los frutos secos y su acabado cítrico
-- Intensidad 6
 - Contiene 4 paquetes de 500 gr cada uno (4.000gr en total)
+- L’OR Classique es el reflejo de un espresso de calidad incomparable, gracias a su aroma, a una capa de elegante crema dorada y al toque irresistible que le dan los frutos secos y su acabado cítrico
+- Aptos para ser utilizado en máquinas superautomáticas de grano; una vez molido, se puede utilizar en todo tipo de cafeteras
+- Intensidad 6
 - Selección exclusiva de granos de café de gran calidad perfectamente tostados y seleccionados por maestros tostadores
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01DPH6DAK/?tag=tolees-21)

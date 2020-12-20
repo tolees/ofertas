@@ -25,11 +25,11 @@ Está [Beoplay P2 de Bang & Olufsen - Altavoz Bluetooth portátil con micrófono
 
 ℹ️:
 
-- El P2, un mini altavoz con un gran sonido, brinda el sonido característico de Bang & Olufsen para que pueda experimentar un audio nítido; este altavoz está equipado con un micrófono integrado para la activación por voz y para realizar llamadas nítidas
 - La aplicación Beoplay incluso le permite asignar perfiles de sonido a sus actividades
 - Este altavoz inalámbrico personaliza el audio con características inteligentes tales como la función de repetición de alarma y la activación por voz, accesibles mediante una sacudida o toque
-- Una suave rejilla de aluminio anodizado tratada con chorro de granulado de vidrio encima de un marco de polímero le brinda durabilidad, mientras que su correa de cuero le permite llevar su música a todos lados sin problemas
-- La música no para gracias a la poderosa batería de este altavoz inalámbrico; el P2 ofrece hasta 10 horas de reproducción por carga y, por si no fuera suficiente, cuenta con el respaldo de su cable USB-C incluido
 - El altavoz Bluetooth portátil P2 brinda audio de calidad donde y cuando usted quiera; este altavoz resistente al polvo y las salpicaduras cabe en la palma de su mano y entre su bolsillo para llevarlo en todos los lugares
+- Una suave rejilla de aluminio anodizado tratada con chorro de granulado de vidrio encima de un marco de polímero le brinda durabilidad, mientras que su correa de cuero le permite llevar su música a todos lados sin problemas
+- El P2, un mini altavoz con un gran sonido, brinda el sonido característico de Bang & Olufsen para que pueda experimentar un audio nítido; este altavoz está equipado con un micrófono integrado para la activación por voz y para realizar llamadas nítidas
+- La música no para gracias a la poderosa batería de este altavoz inalámbrico; el P2 ofrece hasta 10 horas de reproducción por carga y, por si no fuera suficiente, cuenta con el respaldo de su cable USB-C incluido
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06XYS74L8/?tag=tolees-21)

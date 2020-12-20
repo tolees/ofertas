@@ -25,11 +25,11 @@ Está [Venom Twin Rechargable Battery Packs - cajas de video juegos y accesorios
 
 ℹ️:
 
-- Will Also charge in Standby Mode
-- 2.5 Hours Charge Time
 - 1 x 2 Meter USB Charge Cable with 1 Meter Split
-- Multi-Laguage Packaging including English, French, German, Italian, Dutch and Spanish
+- 2.5 Hours Charge Time
+- Will Also charge in Standby Mode
 - 18 Hours Gameplay, Play & Charge Simultaneously
 - 2 x Rechargeable Battery Packs
+- Multi-Laguage Packaging including English, French, German, Italian, Dutch and Spanish
 
 [Ver la oferta!!](https://www.amazon.es/dp/B002LSI5DI/?tag=tolees-21)

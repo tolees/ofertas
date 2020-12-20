@@ -25,10 +25,10 @@ Está [LIGHTAILING Conjunto de Luces  Ideas The Big Bang Theory  Modelo de Const
 
 ℹ️:
 
-- USO: El conjunto de luces se utiliza para iluminar el Ideas The Big Bang Theory (NO incluido en conjunto de Lego)
 - CARACTERÍSTICA DEL PRODUCTO: La Luz se hace uso de material de original puramente hecho a mano. Contiene 1 kits de Luz USB, guía de instrucciones, caja de batería. ¡Conecte el adaptador e ilumine sus bloques con nuestro increíble diseño!
-- ACERCA DE NOSOTROS: Estamos especializados en Kits de juguetes de iluminación diseñados a medida, nuestro objetivo es proporcionar al cliente buenos productos y servicios de calidad. Hacer que sus creaciones sean únicas con su abundante imaginación y creatividad. Iluminemos sus ladrillos y brindémosles nueva vitalidad. Si tiene algún problema, no dude en contactarnos. ¡Que tenga una feliz experiencia de compra!
 - CONSEJOS: Use pinzas pequeñas y tres baterías AAA, o el cargador USB y asegúrese de que el voltaje sea inferior a 5V para evitar que no se queme.
+- USO: El conjunto de luces se utiliza para iluminar el Ideas The Big Bang Theory (NO incluido en conjunto de Lego)
+- ACERCA DE NOSOTROS: Estamos especializados en Kits de juguetes de iluminación diseñados a medida, nuestro objetivo es proporcionar al cliente buenos productos y servicios de calidad. Hacer que sus creaciones sean únicas con su abundante imaginación y creatividad. Iluminemos sus ladrillos y brindémosles nueva vitalidad. Si tiene algún problema, no dude en contactarnos. ¡Que tenga una feliz experiencia de compra!
 - INSTRUCCIONES DE INSTALACIÓN: La instalación del conjunto de luces se realiza según su preferencia. Por favor, instale su luz LED con cuidado, sin tirar del cable y sin necesidad de doblarlo o sacudirlo.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FD48X6F/?tag=tolees-21)

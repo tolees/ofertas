@@ -25,10 +25,10 @@ Está [Build a Bot- Mascota-Robot Dinosaurio  Multicolor  Famosa 700013960 ](htt
 
 ℹ️:
 
-- Modelo Dinosaurio azul
 - Cada una de las mascotas incluye una comida motivadora que le hará corretear: dinosaurio + hoja
-- Crea tu propia mascota-robot a partir de 20 piezas y personalízala con un montón de pegatinas
-- ¡Monta, personaliza y juega!
 - El motor electrónico permite a tu mascota dar saltitos y esquivar obstáculos
+- Modelo Dinosaurio azul
+- ¡Monta, personaliza y juega!
+- Crea tu propia mascota-robot a partir de 20 piezas y personalízala con un montón de pegatinas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0742KQTYF/?tag=tolees-21)

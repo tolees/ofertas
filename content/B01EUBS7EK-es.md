@@ -25,10 +25,10 @@ Ahora mismo tienes [Schneider Consumer - Sintonizador TDT SC130TNT  Negro](https
 
 🔎:
 
-- Función TIME SHIFT
-- 2 modos de grabación: instantánea con un solo toque y programada. Modos de grabación diaria y semanal
 - Entrada USB compatible con MP3, JPEG, MPEG4 y AVI
+- 2 modos de grabación: instantánea con un solo toque y programada. Modos de grabación diaria y semanal
 - Puerto USB para actualización de firmware. Multilenguaje
+- Función TIME SHIFT
 - Sintonizador TDT incorporado para recibir canales DVB-T en HD, Sintonizador compatible con MPEG-2 y MPEG-4
 
 [Visítala!!!](https://www.amazon.es/dp/B01EUBS7EK/?tag=tolees-21)

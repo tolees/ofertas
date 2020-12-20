@@ -25,10 +25,10 @@ Está [Chicco Next2Stars - Proyector con efecto de luces  estrellas y melodías 
 
 ℹ️:
 
-- SENSOR DE SONIDO: automáticamente detecta si el bebé está llorando y reactiva las luces nocturnas y la música para ayudar al bebé a dormirse de nuevo
-- ATMÓSFERA MÁGICA: crea una atmósfera mágica a la hora de dormir en el dormitorio de tu bebé gracias a las canciones, el proyector de luz de colores y las estrellas del techo
-- IDEAL PARA CUNAS: el proyector está equipado con un sistema de fijación práctico y seguro, ideal para cunas y cunas de viaje. También se puede colocar en la mesilla de noche o en la cómoda
 - PROYECTOR DE LUZ DE NOCHE: lámpara proyector de cielo estrellado para bebés con cambio automático de color. 3 efectos de luz diferentes: proyección nocturna, proyección suave y luz nocturna
 - MÚSICA RELAJANTE: 30 minutos de música relajante con control de volumen y muchos géneros musicales diferentes: clásicos, pop, modernos, new age y sonidos de la naturaleza
+- SENSOR DE SONIDO: automáticamente detecta si el bebé está llorando y reactiva las luces nocturnas y la música para ayudar al bebé a dormirse de nuevo
+- IDEAL PARA CUNAS: el proyector está equipado con un sistema de fijación práctico y seguro, ideal para cunas y cunas de viaje. También se puede colocar en la mesilla de noche o en la cómoda
+- ATMÓSFERA MÁGICA: crea una atmósfera mágica a la hora de dormir en el dormitorio de tu bebé gracias a las canciones, el proyector de luz de colores y las estrellas del techo
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01BPLHUKK/?tag=tolees-21)

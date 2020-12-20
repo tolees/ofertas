@@ -26,9 +26,9 @@ Ahora mismo tienes [Casio Collection B640WC-5AEF  Reloj Digital Unisex  Acero In
 🔎:
 
 - Función de claendario
-- Sumergible hasta 5 bares
 - Alarma multifunción
 - Correa de acero inoxidable
+- Sumergible hasta 5 bares
 - Luz LED
 
 [Visítala!!!](https://www.amazon.es/dp/B008PDQT6I/?tag=tolees-21)
