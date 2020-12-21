@@ -25,10 +25,10 @@ Tienes [Geomag Classic Glitter Construcciones magnéticas y juegos educativos  6
 
 ℹ️:
 
+- Desarrolla la imaginación de los niños
 - Sistema de construcción magnética
-- Edad mínima recomendada: 36 meses
 - Un sinfín de posibilidades
 - Compatible con todos los productos Geomag
-- Desarrolla la imaginación de los niños
+- Edad mínima recomendada: 36 meses
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00BKNCOMS/?tag=tolees-21)

@@ -25,11 +25,11 @@ Ahora mismo tienes [Axe - Desodorante Leather & Cookies 48H Fresh - 150 ml](http
 
 🔎:
 
-- Mantén un aroma todo el día con el desodorante bodyspray AXE Leather & Cookies, una moderna fragancia masculina
 - Aplica el desodorante rociándolo sobre tus axilas y torso para que notes la diferencia y te olvides del sudor antes de que aparezca
-- AXE es una marca de cuidado personal masculino vendida en el mundo que ofrece óptima calidad
-- Ofrece una protección duradera y eficaz contra el sudor y los malos olores de hasta 48 horas de duración
-- Tiene una aplicación rápida que ayudará a mantenerte fresco y seco cualquier que sea la ocasión y para que siempre sigas fragante
+- Mantén un aroma todo el día con el desodorante bodyspray AXE Leather & Cookies, una moderna fragancia masculina
 - Estimulante fragancia inspirada en la brisa marina, tonificante y confortable frescor marino con notas de bergamota y limón
+- Ofrece una protección duradera y eficaz contra el sudor y los malos olores de hasta 48 horas de duración
+- AXE es una marca de cuidado personal masculino vendida en el mundo que ofrece óptima calidad
+- Tiene una aplicación rápida que ayudará a mantenerte fresco y seco cualquier que sea la ocasión y para que siempre sigas fragante
 
 [Visítala!!!](https://www.amazon.es/dp/B07KSJRXSM/?tag=tolees-21)
