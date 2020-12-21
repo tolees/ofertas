@@ -25,10 +25,10 @@ Tienes [TACKLIFE SEB04A Extractor de Tornillos  4 piezas Extractor de Tornillos 
 
 🔎:
 
-- ▲ Puede se utilizado para clavos de hierro y clavos de acero, extrayendo tornillos de 3-12 mm; Perfecto para varios tipos de tornillos de cabeza, como tornillos de cabeza Phillips, tornillos ranurados, tornillos hexagonales, etc
+- ▲ Extractor de tornillo con 4 piezas, hecho de acero de alta velocidad avanzado - H.S.S. 6542 #, procesamiento de control numérico computarizado, templado dos veces para una dureza extra de hasta 63-65 HRC
 - ▲ Contenido del paquete: Tacklife SEB04A Extractor de Tornillos Dañados con estuche.
 - ▲ Coja la cabeza del taladro y en sentido contrario a las agujas del reloj haga un agujero profundo en el tornillo dañado, luego invierta el extractor de tornillo en sentido contrario a las agujas del reloj en el tornillo dañado hasta que se suelte
-- ▲ Extractor de tornillo con 4 piezas, hecho de acero de alta velocidad avanzado - H.S.S. 6542 #, procesamiento de control numérico computarizado, templado dos veces para una dureza extra de hasta 63-65 HRC
 - ▲ Nuestro juego de extractor funciona con cualquier taladro y cualquier tamaño de tornillo o perno, ideal para extraer tornillos roto, atascado o dañado . Es bueno para carpinteros, mecánicos, artistas, aficionados, etc
+- ▲ Puede se utilizado para clavos de hierro y clavos de acero, extrayendo tornillos de 3-12 mm; Perfecto para varios tipos de tornillos de cabeza, como tornillos de cabeza Phillips, tornillos ranurados, tornillos hexagonales, etc
 
 [Comprar!!!](https://www.amazon.es/dp/B079DR54QC/?tag=tolees-21)

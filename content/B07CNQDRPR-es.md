@@ -25,10 +25,10 @@ Ahora mismo tienes [Ratón inalámbrico recargable  mini ratón óptico silencio
 
 🔎:
 
+- Amplia compatibilidad:compatible con Windows 10/8/7/XP/Me/2000/Vista y Mac OS.Puedee utilizar este ratón inalámbrico para ordenadores portátiles, tabletas, ordenadores de sobremesa y MacBook.-
+- Clic silencioso:diseño silencioso con sensor avanzado que proporciona clics silenciosos, perfecto para lugares públicos como bibliotecas, dormitorios, oficinas y cualquier otra ocasión en la que no quiera molestar a otros, como jugar juegos en casa tarde por la noche.
 - Diseño ultra delgado y ergonómico:en comparación con productos similares en el mercado, nuestro ratón inalámbrico para portátil es mucho más ligero y más fino.Se puede guardar fácilmente en la bolsa de su ordenador portátil, es perfecto para viajar.Su diseño ergonómico y estilo aerodinámico ofrece a su mano el máximo apoyo para una comodidad duradera.Nota: el nano receptor se almacena dentro de la parte posterior del ratón.
 - Transmisor de datos inalámbrico de 2,4 GHz:una experiencia más segura y precisa que un ratón USB tradicional con una distancia de trabajo de hasta 10 metros.Este ratón óptico inalámbrico no necesita software de instalación.Se puede utilizar como ratón de juego inalámbrico, 3 interruptores DPI (1000, 1200, 1600) para cambiar la velocidad del ratón libremente, puede ser aplicable a todo tipo de juegos.
-- Amplia compatibilidad:compatible con Windows 10/8/7/XP/Me/2000/Vista y Mac OS.Puedee utilizar este ratón inalámbrico para ordenadores portátiles, tabletas, ordenadores de sobremesa y MacBook.-
 - Ratón inalámbrico recargable:Batería de polímero de litio incorporada, una vez cargada dura 2000 horas, fácil de cargar a través de cable micro USB (aprox.2 horas para carga completa), nunca más utilice las pilas AA tradicionales.El ratón entrará en modo de suspensión automáticamente después de 3 minutos de inactividad, no se preocupe por que el ratón inalámbrico se quede sin energía.
-- Clic silencioso:diseño silencioso con sensor avanzado que proporciona clics silenciosos, perfecto para lugares públicos como bibliotecas, dormitorios, oficinas y cualquier otra ocasión en la que no quiera molestar a otros, como jugar juegos en casa tarde por la noche.
 
 [Visítala!!!](https://www.amazon.es/dp/B07CNQDRPR/?tag=tolees-21)

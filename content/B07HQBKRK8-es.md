@@ -25,10 +25,10 @@ En este momento está [Hilo Acrílico SOLEDI Ovillos de Lanas de Hilo lana prém
 
 🔎:
 
-- 🐑【Materiales de alta calidad】 - El hilo de SOLEDI está hecho de fibra acrílica, muy suave y agradable para la piel, el tejido hecho con nuestro hilo es muy cálido y duradero. Teñido de colorante viene de plantas, seguro y no perder color, sin encogimiento, no es fácil de deformar, fácil de lavar y limpiar, se recomienda lavar a mano.
 - 🎀【exquisito empaque】-12 bolas acrílicas de diferentes colores, 50 g / cada pieza, de aproximadamente 50 metros de largo, cada hilo tiene 2-3 mm de grosor, con 2 ganchillos (4 mm y 5 mm de tamaño). El Acrílico Hilo también viene con una bolsa de almacenamiento de alta calidad que puede reutilizarse, es liviana, fácil de almacenar y fácil para llevar.Además es mucho más ecológica que las bolsas de plástico.
-- 🎊【Vivos y abundantes colorles】 - 12 tipos de lana tejida con color brillante y tiene buena resistencia a la luz. Las cuales proporciona una variedad de opciones de color para su trabajo. Incluidos los colores básicos como el negro, el blanco, el gris, el rojo, el azul, el verde, el amarillo, el naranja, el púrpura, el rosa, etc., se reunirán todos los colores de claro a oscuro.
-- 👢【 Bellamente empaquetado】 - Nuestros productos son perfectos para regalos de Navidad y están bellamente empaquetados. Este es un regalo encantador para familiares y amigos.
 - 🎁【Regalo Perfecto】- El juego de hilos acrílicos lo ayuda a hacer un regalo llena de amor y creatividad para sus familias y los amigos. También se puede utilizar como un ideal regalo de Navidad, regalo de cumpleaños, etc.Adecuado para los principiantes, las novicias, las aficionados al tejido.
+- 👢【 Bellamente empaquetado】 - Nuestros productos son perfectos para regalos de Navidad y están bellamente empaquetados. Este es un regalo encantador para familiares y amigos.
+- 🐑【Materiales de alta calidad】 - El hilo de SOLEDI está hecho de fibra acrílica, muy suave y agradable para la piel, el tejido hecho con nuestro hilo es muy cálido y duradero. Teñido de colorante viene de plantas, seguro y no perder color, sin encogimiento, no es fácil de deformar, fácil de lavar y limpiar, se recomienda lavar a mano.
+- 🎊【Vivos y abundantes colorles】 - 12 tipos de lana tejida con color brillante y tiene buena resistencia a la luz. Las cuales proporciona una variedad de opciones de color para su trabajo. Incluidos los colores básicos como el negro, el blanco, el gris, el rojo, el azul, el verde, el amarillo, el naranja, el púrpura, el rosa, etc., se reunirán todos los colores de claro a oscuro.
 
 [Aquí!!!](https://www.amazon.es/dp/B07HQBKRK8/?tag=tolees-21)

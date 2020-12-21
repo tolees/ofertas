@@ -25,8 +25,8 @@ En este momento está [Kitchencraft Master Class Bandeja Asador Horno  Acero  Ne
 
 🔎:
 
-- 34x26x7
 - Horno
+- 34x26x7
 - Bandeja
 
 [Aquí!!!](https://www.amazon.es/dp/B0001IX3KK/?tag=tolees-21)

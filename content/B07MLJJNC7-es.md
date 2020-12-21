@@ -25,8 +25,8 @@ Ahora mismo tienes [Asmodee- Tokyo Highway - Español  ADEITTH01ES    color/mode
 
 🔎:
 
+- Juego de tablero
 - Juego de mesa
 - Juego de habilidad
-- Juego de tablero
 
 [Visítala!!!](https://www.amazon.es/dp/B07MLJJNC7/?tag=tolees-21)

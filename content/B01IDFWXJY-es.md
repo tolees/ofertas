@@ -25,8 +25,8 @@ Está [Rayen Tabla de Planchar de sobremesa | Mínimo Espacio Plegado | con Mall
 
 ℹ️:
 
-- Con gancho para colgarla, una vez utilizada
-- Con malla metálica que permite una correcta transpiración del vapor
 - Funda de algodón, espuma y muletón
+- Con malla metálica que permite una correcta transpiración del vapor
+- Con gancho para colgarla, una vez utilizada
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01IDFWXJY/?tag=tolees-21)

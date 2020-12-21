@@ -25,10 +25,10 @@ Tienes [Russell Hobbs Cook@Home 24530-56 - Sandwichera  2 Porciones  Tapa Acero 
 
 🔎:
 
-- Almacenamiento compacto: se puede guardar en vertical
 - Sandwichera con tapa de acero inoxidable y capacidad para 2 porciones con potencia de 700 vatios
-- Dispone de pilotos indicadores de conexión y listo para usar, recogecable y asas con pestaña de cierre
 - Placas antiadherentes de fácil limpieza
+- Dispone de pilotos indicadores de conexión y listo para usar, recogecable y asas con pestaña de cierre
 - Placas extra-hondas para sandwiches
+- Almacenamiento compacto: se puede guardar en vertical
 
 [Comprar!!!](https://www.amazon.es/dp/B079TKTQQJ/?tag=tolees-21)

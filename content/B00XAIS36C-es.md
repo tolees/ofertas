@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 50.68 % en Instituto Español Gel de Baño y Ducha Av'
-date: 2020-12-20 09:45:27
+title: 'Instituto Español Gel de Baño y Ducha Av al 50.68 % de descuento'
+date: 2020-12-21 12:20:18
 image: 'https://m.media-amazon.com/images/I/41h+ziz26jL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,17 +16,17 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00XAIS36C/?tag=tolees-21'
 descuento: '50.68'
-average: '1.9378571428571427'
+average: '1.9206249999999998'
 ---
 
-Tienes [Instituto Español Gel de Baño y Ducha Avena - 1250 ML](https://www.amazon.es/dp/B00XAIS36C/?tag=tolees-21) con un 50.68 % de descuento con precio de oferta de 1.8 EUR (original: 3.65 EUR) en el siguiente enlace!
+Está [Instituto Español Gel de Baño y Ducha Avena - 1250 ML](https://www.amazon.es/dp/B00XAIS36C/?tag=tolees-21) con 50.68 de descuento por 1.8 EUR (original: 3.65 EUR) en el siguiente enlace!
 
 [![Instituto Español Gel de Baño y Ducha Av](https://m.media-amazon.com/images/I/41h+ziz26jL._SL200_.jpg)](https://www.amazon.es/dp/B00XAIS36C/?tag=tolees-21)
 
 ℹ️:
 
-- Marca: Instituto Español
 - Tipo de producto: gel de baño
+- Marca: Instituto Español
 - Género: unisex adulto
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B00XAIS36C/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00XAIS36C/?tag=tolees-21)

@@ -25,12 +25,12 @@ Ahora mismo tienes [Garza 400603 Temporizador analógico mini  Blanco - Azul](ht
 
 🔎:
 
-- Temporizador analógico Mini de interiores
-- Protección infantil
-- Interruptor On/Auto
-- Potencia máxima: 3.680W
-- Programación 24 horas
 - Conmutación cada 15 minutos
 - Diseño robusto y compacto
+- Protección infantil
+- Interruptor On/Auto
+- Temporizador analógico Mini de interiores
+- Potencia máxima: 3.680W
+- Programación 24 horas
 
 [Visítala!!!](https://www.amazon.es/dp/B00URUVDW2/?tag=tolees-21)

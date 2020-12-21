@@ -26,9 +26,9 @@ Tienes [Aqua Control G6354 Grifo de Jardín Premium de Doble Salida 1/2   -3/4  
 ℹ️:
 
 - Con un raccord de latón estándar para conexiones automáticas de manguera ya sean metálicos o de plástico
+- Fabricado con latón de alta calidad, que garantiza su durabilidad y su resistencia frente a las temperaturas extremas o las inclemencias meteorológicas
+- Compatible con todos los accesorios de riego, gracias a su rosca europea bspt de 3/4"
 - Garantía de 2 años y calidad aqua control. Contacta con nuestro servicio de atención al cliente en caso de necesitar asistencia adicional
 - Grifo de jardín con dos salidas independientes que se pueden abrir y cerrar por separado; puedes usar una para lavarte las manos y otra para instalar un programador de riego o lo que tú quieras
-- Compatible con todos los accesorios de riego, gracias a su rosca europea bspt de 3/4"
-- Fabricado con latón de alta calidad, que garantiza su durabilidad y su resistencia frente a las temperaturas extremas o las inclemencias meteorológicas
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00MRYSEVE/?tag=tolees-21)

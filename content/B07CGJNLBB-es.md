@@ -26,10 +26,10 @@ Ahora mismo tienes [Samsung 970 EVO  Disco Duro Sólido  1 TB](https://www.amazo
 🔎:
 
 - Rendimiento superior
-- Tecnología inteligente turbowrite
-- NOTA! Por favor compruebe la compatibilidad del producto en la página del fabricante
 - Cifrado de datos avanzado
 - Nota: no se garantiza la compatibilidad del SSD 970 EVO con los modelos de MacBook. Los modelos de MacBook a partir de 2013 tienen su propio formato M.2 patentado. Por lo tanto, el Samsung SSD 970 EVO solo se puede usar con modelos MacBook en combinación con un adaptador adecuado
+- NOTA! Por favor compruebe la compatibilidad del producto en la página del fabricante
 - La avanzada controladora con revestimiento de níquel, junto con su disipador, consiguen una mejor disipación del calor. Además, la tecnología Dynamic Thermal Guard controla de forma automática la temperatura de la unidad, minimizando así los descensos en el rendimiento ocasionados por el sobrecalentamiento
+- Tecnología inteligente turbowrite
 
 [Visítala!!!](https://www.amazon.es/dp/B07CGJNLBB/?tag=tolees-21)

@@ -25,14 +25,14 @@ Tienes [Suki Gifts 10047 - Peluche con forma de jirafa  17 8 cm ](https://www.am
 
 ℹ️:
 
-- Recomendación Edad: desde el nacimiento
-- Tamaño: aprox. 17,8 cm
-- Impresión de la jirafa en dos tonos de color beige
-- Lavable a máquina a 30 ° C
 - Medio Suki Bebé Bing Bing Jirafa peluche
 - 7 " ( 17,8 cm ) de altura aprox
-- lavado a mano, secar al aire
+- Tamaño: aprox. 17,8 cm
+- Recomendación Edad: desde el nacimiento
 - felpa boa suave con detalles bordados
+- lavado a mano, secar al aire
 - Material: material de Caress muy suave
+- Lavable a máquina a 30 ° C
+- Impresión de la jirafa en dos tonos de color beige
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00BOUALUE/?tag=tolees-21)

@@ -25,9 +25,9 @@ Tienes [Pop! Vinyl: Disney: Nightmare Before Christmas: Snowman Jack Skellington
 
 ℹ️:
 
-- Figura de colección de la marca Funko
-- El producto se envía en una caja ilustrada con ventana
 - Recomendado para niños a partir de 3 años
+- Figura de colección de la marca Funko
 - El artículo es adecuado para todos los fanáticos de The Nightmare Before Christmas
+- El producto se envía en una caja ilustrada con ventana
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DFCXCY5/?tag=tolees-21)

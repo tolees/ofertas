@@ -25,8 +25,8 @@ Está [Seagate Barracuda - Disco duro interno de 1 TB  color plata](https://www.
 
 ℹ️:
 
-- gris
 - Disco Duro Interno de 1 TB (3,5", 256 MB de caché, SATA 6 GB/s, hasta 210 MB/s)
+- gris
 - Fiabilidad sólida basada en más de 20 años de innovación BarraCuda
 - Versatilidad de opciones en capacidad y para adaptarse a cualquier presupuesto
 

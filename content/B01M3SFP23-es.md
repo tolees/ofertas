@@ -25,8 +25,8 @@ En este momento está [Pantalón/UNDER ARMOUR:1290261-090 XL GRIS](https://www.a
 
 🔎:
 
-- Tipo de fábrica: Body: 100% Polyester
-- Instrucciones de cuidado: Lavar a máquina
 - Tipo de deporte: Ejercicio y fitness
+- Instrucciones de cuidado: Lavar a máquina
+- Tipo de fábrica: Body: 100% Polyester
 
 [Aquí!!!](https://www.amazon.es/dp/B01M3SFP23/?tag=tolees-21)

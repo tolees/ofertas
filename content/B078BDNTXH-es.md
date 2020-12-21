@@ -25,9 +25,9 @@ En este momento está [Simba- Mascha und Der Bär MUÑECA Masha Doctora 30 CM co
 
 🔎:
 
+- Adecuado para niños y niñas a partir de 3 años
 - ¡Los pacientes estarán bien atendidos
 - Muñeca Masha de 30 cm de cuerpo blando vestida de doctora y con muchos accesorios
 - Incluye estetoscopio, jeringuilla, termómetro, tijeras, otoscopio, bolsa de hielo y bote de medicinas
-- Adecuado para niños y niñas a partir de 3 años
 
 [Aquí!!!](https://www.amazon.es/dp/B078BDNTXH/?tag=tolees-21)

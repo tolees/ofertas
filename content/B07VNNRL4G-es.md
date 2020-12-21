@@ -25,10 +25,10 @@ Tienes [Calvin Klein Medium Drawstring Bañador  Azul  Black Iris CBK   Small pa
 
 🔎:
 
-- Brand: CALVIN KLEIN
-- Modello: KM0KM00456
 - Colore: Blu
-- Tipologia: UOMO
+- Brand: CALVIN KLEIN
 - Articolo: COSTUME
+- Tipologia: UOMO
+- Modello: KM0KM00456
 
 [Comprar!!!](https://www.amazon.es/dp/B07VNNRL4G/?tag=tolees-21)

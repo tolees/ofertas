@@ -26,7 +26,7 @@ En este momento está [Mochila/VANS:VANS OLD SKOOL III MISC NEGRO](https://www.a
 🔎:
 
 - 100% Polyester
-- The old school II backpack
 - Marca: Vans
+- The old school II backpack
 
 [Aquí!!!](https://www.amazon.es/dp/B07QKKW3HZ/?tag=tolees-21)

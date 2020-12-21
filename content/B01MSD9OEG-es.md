@@ -26,8 +26,8 @@ Tienes [adidas Vs Pace  Zapatillas Hombre  Azul Blanco  40 EU](https://www.amazo
 🔎:
 
 - Membrana GORE-TEX impermeable y transpirable.
-- Cómodo forro textil.
 - Suela Traxion para una adherencia óptima en todas las direcciones.
 - Mediasuela de EVA para una amortiguación más ligera y duradera.
+- Cómodo forro textil.
 
 [Comprar!!!](https://www.amazon.es/dp/B01MSD9OEG/?tag=tolees-21)

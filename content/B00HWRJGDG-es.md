@@ -25,8 +25,8 @@ Tienes [MAURER 93080 - Maletin Organizador 330 x 220 x 70 mm Negro / Amarillo](h
 
 ℹ️:
 
-- Articulo tambien conocido como: Caja de herramientas, caja ordenación, Caja tornillos, caja tornillería
 - Compartimentos extraibles.
+- Articulo tambien conocido como: Caja de herramientas, caja ordenación, Caja tornillos, caja tornillería
 - Compartimento en ambos lados del maletín.
 - Medidas: 330x220x70 mm.
 

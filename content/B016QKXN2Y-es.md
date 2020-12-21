@@ -25,10 +25,10 @@ Ahora mismo tienes [Ultima Comida Húmeda para Gatos Esterilizados - 10 multipac
 
 🔎:
 
-- 10 Multipacks compuestos por 4 bolsitas de 85 gr
-- Cada multipack contiene 2 bolsitas de 85 gramos de bocaditos de salmón y 2 de 85 gramos de bocaditos de pollo
 - Favorece el mantenimiento de la masa muscular
 - Con fibras naturales que proporcionan sensación de saciedad y ayudan a controlar el peso
 - Alimento húmedo completo para gatos esterilizados
+- Cada multipack contiene 2 bolsitas de 85 gramos de bocaditos de salmón y 2 de 85 gramos de bocaditos de pollo
+- 10 Multipacks compuestos por 4 bolsitas de 85 gr
 
 [Visítala!!!](https://www.amazon.es/dp/B016QKXN2Y/?tag=tolees-21)
