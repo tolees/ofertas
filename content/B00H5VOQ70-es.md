@@ -25,9 +25,9 @@ Tienes [Superga 2790Cotw Linea Up And Down  Zapatillas Unisex adulto  Azul  933 
 
 ℹ️:
 
-- Suela de goma vulcanizada para una altura extra
 - Texto de Superga en el lado del zapato.
 - Material exterior de lona.
+- Suela de goma vulcanizada para una altura extra
 - Material exterior de lona, material interior de tela.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00H5VOQ70/?tag=tolees-21)

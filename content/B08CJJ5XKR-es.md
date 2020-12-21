@@ -25,11 +25,11 @@ Está [Adidas Real Madrid Temporada 2020/21 Equipación Completa Oficial  Niños
 
 ℹ️:
 
-- Conjunto deportivo real h mini blanco
-- Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
-- Tipo de fábrica: Compuesto
-- Conjunto deportivo para practicar fútbol de unisex infantil
 - Los productos deportivos de la marca adidas están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo.
+- Conjunto deportivo real h mini blanco
+- Conjunto deportivo para practicar fútbol de unisex infantil
+- Tipo de fábrica: Compuesto
+- Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
 - Ropa deportiva blanco de la marca adidas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08CJJ5XKR/?tag=tolees-21)

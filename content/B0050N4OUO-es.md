@@ -25,17 +25,17 @@ Tienes [H.Koenig VIO7 Microondas con Grill  Potencia 900 W y Potencia Grill 1000
 
 ℹ️:
 
-- Tiene una capacidad de 23 litros y un diámetro del plato de cristal rotatorio de 27 cm, lo que hacen de el microondas vio7 un electrodoméstico con una gran capacidad
 - Disfruta del temporizador de hasta 30 minutos y programa el tiempo para poder dedicarte a otras tareas sin tener que preocuparte
-- La potencía del microondas de 900 w y la potencía del grill de 1000 w son perfectas para calentar tus alimentos en pocos segundos
-- Potencia del horno microondas 900 W, potencia del grill 1000 W
-- Dispone de 5 niveles de potencía de calentado y de grill para que ninguna receta se te resista logrando el acabado del plato perfecto; además, podrás descongelar tus alimentos en tan sólo unos minutos; olvídate de sacar del congelador tus alimentos el día de antes
-- Capacidad del horno y del microondas: 23 l
-- Su tamaño compacto con dimensiones 48.5 x 39.4 x 28 cm es perfecto para colocarlo en cualquier esquina y sólo tendrás que enchufarlo a la corriente para poder utilizarlo
-- Horno microondas con función grill
 - Temporizador: hasta 30 minutos
-- 9 configuraciones diferentes: 5 para el microondas (descongelación y cocción), el grill y 3 combinadas
 - El microondas vio7 es de color negro con acabados en acero inoxidable, perfecto para todo tipo de cocinas
+- Tiene una capacidad de 23 litros y un diámetro del plato de cristal rotatorio de 27 cm, lo que hacen de el microondas vio7 un electrodoméstico con una gran capacidad
+- Dispone de 5 niveles de potencía de calentado y de grill para que ninguna receta se te resista logrando el acabado del plato perfecto; además, podrás descongelar tus alimentos en tan sólo unos minutos; olvídate de sacar del congelador tus alimentos el día de antes
+- Su tamaño compacto con dimensiones 48.5 x 39.4 x 28 cm es perfecto para colocarlo en cualquier esquina y sólo tendrás que enchufarlo a la corriente para poder utilizarlo
+- Capacidad del horno y del microondas: 23 l
+- 9 configuraciones diferentes: 5 para el microondas (descongelación y cocción), el grill y 3 combinadas
+- Horno microondas con función grill
+- Potencia del horno microondas 900 W, potencia del grill 1000 W
+- La potencía del microondas de 900 w y la potencía del grill de 1000 w son perfectas para calentar tus alimentos en pocos segundos
 - El microondas vio7 de hkoenig te fácil itará la preparación de tus platos en tu día a día gracias a tu su fácil utilización
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0050N4OUO/?tag=tolees-21)

@@ -25,9 +25,9 @@ Está [Western Digital Black PCIe SSD - Disco duro sólido  PCI Express 3.0  x4 
 
 ℹ️:
 
+- Tiempo medio antes de fallos (MTTF) de 1,75 millones de horas, líder en el sector, para una mayor fiabilidad
 - Diseño M.2 ideal para chasis de sobremesa de torre y ordenadores de pequeño formato
 - Certificación del WD F.I.T. Lab para funcionar en una amplia gama de configuraciones de ordenadores de alto rendimiento
-- Tiempo medio antes de fallos (MTTF) de 1,75 millones de horas, líder en el sector, para una mayor fiabilidad
 - Gestión térmica y de energía optimizada que ayuda a mantener un alto rendimiento uniforme durante cargas de trabajo intensas
 - Velocidades de lectura secuenciales de hasta 2.050 MB/s, más de tres veces superiores a las de un SSD SATA
 

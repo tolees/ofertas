@@ -25,8 +25,8 @@ Ahora mismo tienes [Dreams](https://www.amazon.es/dp/B083VMNPJK/?tag=tolees-21) 
 
 🔎:
 
-- Es una experiencia ilimitada en la que puedes crear cualquier cosa, desde aventuras interactivas y juegos de plataformas hasta shoot ‘em ups, juegos de puzles y mucho más
 - Explora la acción y aventura del modo historia de Dreams, donde podrás jugar tres emocionantes relatos en una deslumbrante exhibición de lo que pueden conseguir las potentes herramientas de creación del juego
 - Cualquier cosa que crees podrás compartirla con una enorme comunidad online, donde también podrás examinar las creaciones de otros jugadores
+- Es una experiencia ilimitada en la que puedes crear cualquier cosa, desde aventuras interactivas y juegos de plataformas hasta shoot ‘em ups, juegos de puzles y mucho más
 
 [Visítala!!!](https://www.amazon.es/dp/B083VMNPJK/?tag=tolees-21)

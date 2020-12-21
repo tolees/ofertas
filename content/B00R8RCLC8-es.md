@@ -25,9 +25,9 @@ Está [Floid Masaje Genuino Vigoroso - 150 ml](https://www.amazon.es/dp/B00R8RCL
 
 ℹ️:
 
-- De la marca Floïd
 - La textura que ofrece es del tipo loción
 - Para todo tipo de pieles
+- De la marca Floïd
 - Contiene 150 ml
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00R8RCLC8/?tag=tolees-21)

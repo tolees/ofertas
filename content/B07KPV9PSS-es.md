@@ -27,8 +27,8 @@ Está [Pop! Vinilo: Disney: Aladdin  Live Action : Jafar](https://www.amazon.es/
 
 - Descúbre otras figuras de la colección disney y colecciónalas todas
 - Funko pop vinyl
-- Juguete del año 2018
-- De la colección aladdin, jafar como figura de vinilo pop de funko
 - Disney aladdin
+- De la colección aladdin, jafar como figura de vinilo pop de funko
+- Juguete del año 2018
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KPV9PSS/?tag=tolees-21)

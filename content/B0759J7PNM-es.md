@@ -25,10 +25,10 @@ Está [S&R Brocas Corona Perforadora Metal. Juego de 5 Fresas a taza: 16 + 18 5 
 
 ℹ️:
 
+- Juego de 5 sierra perforadora metal profesionales
 - Brocas HSS metal de corona para acero rapido. Fresas a Taza profesionales
+- Corona perforadora para metal de : 16 mm, 18,5 mm, 20 mm, 25 mm, 30 mm
 - Fresas a taza para trabajar con materiales duros, usen un refrigerante, non hagan demasiade presion.
 - Uso: acero inoxidable, acero, aluminio, materiales plásticos. Longitud de trabajo
-- Corona perforadora para metal de : 16 mm, 18,5 mm, 20 mm, 25 mm, 30 mm
-- Juego de 5 sierra perforadora metal profesionales
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0759J7PNM/?tag=tolees-21)

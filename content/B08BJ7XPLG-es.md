@@ -27,8 +27,8 @@ Tienes [MSI GT76 Titan DT 10SGS-042ES - Ordenador portátil de 17.3" UHD  Comet 
 
 - Sistema operativo Windows10 Pro
 - Tarjeta grafica GeForce RTX 2080 Super, GDDR6 8 GB
-- Disco de Disco de 2 TB (1 TB x 2) NVMe PCIe Gen3x4 SSD
 - Procesador Comet lake i9-10900K+Intel Z490 (10 núcleos, 20 MB Cache, 3.70 GHz hasta 5.30 GHz)
+- Disco de Disco de 2 TB (1 TB x 2) NVMe PCIe Gen3x4 SSD
 - Memoria RAM de 16 GBx4 (2666 MHz)
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08BJ7XPLG/?tag=tolees-21)
