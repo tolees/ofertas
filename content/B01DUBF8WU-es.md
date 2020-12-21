@@ -25,8 +25,8 @@ Tienes [Huawei AM115 - Auriculares de Manos Libres para Huawei Ascend G6  G7  G8
 
 ℹ️:
 
-- Asa de agarre.
-- Control del volumen.
 - Supresión del ruido exterior.
+- Control del volumen.
+- Asa de agarre.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01DUBF8WU/?tag=tolees-21)

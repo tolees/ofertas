@@ -25,10 +25,10 @@ Tienes [GUATAFAC-Juego de Mesa  Color Blanco  LA Caja LCGF0002 ](https://www.ama
 
 ℹ️:
 
+- 🍻 Un aluvión de humor negro y chiste verdes: 400 cartas con preguntas y 80 cartas especiales.
+- 🌳 Cartas impresas en la Unión Europea con papel de bosques gestionados de forma sostenible, un uno por ciento de los beneficios son donados a obras benéficas.
 - 🤣 Tienes 8 segundos para adivinar los pensamientos más bizarros de tu familia y amigos.
 - 🕙 Partidas de 20 a 30 min, de desde 3 hasta 10 jugadores y millones de posibles respuestas.
 - 🔞 Juego adulto de humor negro, desde los 18 años (no apto para menores de edad), 3 ó más jugadores.
-- 🌳 Cartas impresas en la Unión Europea con papel de bosques gestionados de forma sostenible, un uno por ciento de los beneficios son donados a obras benéficas.
-- 🍻 Un aluvión de humor negro y chiste verdes: 400 cartas con preguntas y 80 cartas especiales.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07X8CVLRP/?tag=tolees-21)

@@ -25,9 +25,9 @@ Está [Adidas Regista 18 - Pantalónes de fútbol para Hombre  Negro  XL](https:
 
 ℹ️:
 
-- Hecho de tela Climacool transpirable que te mantiene fresco y seco
-- Bolsillos ocultos en las costuras laterales
 - Cintura elástica con cordón
 - Prácticos puños con cremallera
+- Bolsillos ocultos en las costuras laterales
+- Hecho de tela Climacool transpirable que te mantiene fresco y seco
 
 [Ver la oferta!!](https://www.amazon.es/dp/B076HPCPVY/?tag=tolees-21)

@@ -25,10 +25,10 @@ Está [Crucial CT1000X8SSD9 - SSD portátil X8 1 TB  de hasta 1050 MB/s – USB 
 
 ℹ️:
 
-- Diseño hermoso y duradero, con un núcleo unibody de aluminio anodizado
-- Prueba de caída hasta 2 medida; temperatura extrema, a prueba de golpes y vibraciones
 - Rendimiento óptimo con velocidades de lectura de hasta 1050 MB/s
 - Funciona con Windows, Mac, iPad Pro, Chromebook, Android, Linux, PS4 y Xbox One con conectores USB-C 3.2 Gen2 y USB-A
+- Prueba de caída hasta 2 medida; temperatura extrema, a prueba de golpes y vibraciones
 - Respaldado por Micron, uno de los mayores fabricantes de almacenamiento flash del mundo
+- Diseño hermoso y duradero, con un núcleo unibody de aluminio anodizado
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07YD5TK4F/?tag=tolees-21)

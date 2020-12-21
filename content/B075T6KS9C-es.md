@@ -27,7 +27,7 @@ Tienes [HP Z5000 - Ratón inalámbrico Bluetooth con luz indicadora de batería 
 
 - Diseño ultrafino con laterales redondeados
 - Diseño ambidiestro para una mayor facilidad de control con rueda de desplazamiento central
-- Duración de la batería hasta 6 meses con una sola carga y LED indicador de carga
 - Funciona con cualquier PC con Bluetooth 4.0 (para MacBook después de 2016). No hay ninguna puerta para trabajar en Mac OS.
+- Duración de la batería hasta 6 meses con una sola carga y LED indicador de carga
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B075T6KS9C/?tag=tolees-21)

@@ -25,11 +25,11 @@ Está [Candy CDCP 6/E - Lavavajillas pequeño  Altura 43 8 cm  6 servicios  6 Pr
 
 ℹ️:
 
+- Dimensiones Alto x Ancho x Profundo (centimetros): 43,8 x 55 x 50
+- Evo space: gama que combina la flexibilidad en capacidad y la calidad en el lavado; para espacios reducidos como apartamentos, albergues, segundas residencias
 - Compacto: los lavavajillas compactos candy encajan incluso en los espacios más reducidos: eficiencia energética clase a+, 6 servicios, 6 programas con 5 niveles de temperatura diferentes y 7 litros de consumo de agua por ciclo
 - 6 programas: intensivo (140min), normal (120min),economy 50º (195min),cristal 45º (75min),diario 65º (90min),rápido 40º (30min)
 - Muy silencioso: tan sólo 51dba. Usa el lavavajillas en cualquier momento sin preocuparte por el ruido
-- Evo space: gama que combina la flexibilidad en capacidad y la calidad en el lavado; para espacios reducidos como apartamentos, albergues, segundas residencias
 - Ciclo eco: el ciclo con mejor rendimiento en términos de ahorro de agua y energía, ideado para ahorrar agua y dinero ofreciendo excelentes resultados de lavado y secado
-- Dimensiones Alto x Ancho x Profundo (centimetros): 43,8 x 55 x 50
 
 [Ver la oferta!!](https://www.amazon.es/dp/B019LZKMAW/?tag=tolees-21)
