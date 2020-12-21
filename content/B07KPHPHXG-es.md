@@ -25,10 +25,10 @@ Ahora mismo tienes [POP! Vinilo: Disney: Toy Story 4: Ducky](https://www.amazon.
 
 🔎:
 
-- De la colección toy story 4, ducky como figura de vinilo pop de funko
 - Juguete del año 2018
 - Disney toy story 4
-- Descúbre otras figuras de la colección disney y colecciónalas todas
 - Funko pop vinyl
+- Descúbre otras figuras de la colección disney y colecciónalas todas
+- De la colección toy story 4, ducky como figura de vinilo pop de funko
 
 [Visítala!!!](https://www.amazon.es/dp/B07KPHPHXG/?tag=tolees-21)

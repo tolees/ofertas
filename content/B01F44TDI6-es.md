@@ -27,8 +27,8 @@ Está [TP-Link TL-WPA8630P 2 PLC - KIT Repetidor de WiFi  WiFi AC1200 Mbps  Exte
 
 - 2X2 MIMO: establezca múltiples conexiones simultáneas para que disfrute de mayores velocidades de línea eléctrica y mayor estabilidad
 - Sincronización automática: agregue extensores adicionales a su red powerline usando el botón de emparejamiento, sincronización uniforme de configuraciones para todos los dispositivos de red como SSID, contraseña, programación de Wi-Fi y programación de LED
-- Enchufe de alimentación adicional: también puede alimentar otros dispositivos a través del enchufe integrado
 - HomePlug AV2: ofrece transferencias de velocidad de línea eléctrica ultrarrápidas de hasta 1300Mbps
 - AC1350: Wi-Fi de doble banda con velocidades combinadas de hasta 1350 Mbps
+- Enchufe de alimentación adicional: también puede alimentar otros dispositivos a través del enchufe integrado
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01F44TDI6/?tag=tolees-21)

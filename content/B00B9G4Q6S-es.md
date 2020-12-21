@@ -25,8 +25,8 @@ Está [Tous Kids Girl 100ml](https://www.amazon.es/dp/B00B9G4Q6S/?tag=tolees-21)
 
 ℹ️:
 
-- Fondo: frambuesas, almizcles tierno, helado de vainilla.
-- Corazón: flor de naranjo, albaricoques y margaritas de colores.
 - Salida: Caramelos de limón, magdalenas, mandarina
+- Corazón: flor de naranjo, albaricoques y margaritas de colores.
+- Fondo: frambuesas, almizcles tierno, helado de vainilla.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00B9G4Q6S/?tag=tolees-21)

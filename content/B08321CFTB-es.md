@@ -25,10 +25,10 @@ Está [Dungeons & Dragons Comienza la Aventura  Color  E9418105 ](https://www.am
 
 ℹ️:
 
-- pueden elegir y personalizar a sus personajes usando las 4 figuras que se corresponden con cada héroe
-- Este juego de mesa de fantasía es un portal al universo mágico de Dungeons & Dragons
-- Diseñado para 2-4 jugadores a partir de 10 años
-- luchar contra monstruos emblemáticos de D&D
 - experimentar una nueva aventura cada vez.
+- pueden elegir y personalizar a sus personajes usando las 4 figuras que se corresponden con cada héroe
+- Diseñado para 2-4 jugadores a partir de 10 años
+- Este juego de mesa de fantasía es un portal al universo mágico de Dungeons & Dragons
+- luchar contra monstruos emblemáticos de D&D
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08321CFTB/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Walking Dead 14717 TV Negan Deluxe Figur al 27.49 % de descuento'
-date: 2020-12-20 10:58:49
+date: 2020-12-21 18:59:58
 image: 'https://m.media-amazon.com/images/I/411IhozkNbL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01D65AY1U/?tag=tolees-21'
 descuento: '27.49'
-average: '32.954'
+average: '32.96'
 ---
 
 Está [Walking Dead 14717 TV Negan Deluxe Figura de acción  25.4 cm](https://www.amazon.es/dp/B01D65AY1U/?tag=tolees-21) con 27.49 de descuento por 32.99 EUR (original: 45.5 EUR) en el siguiente enlace!

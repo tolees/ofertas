@@ -26,8 +26,8 @@ Tienes [Michael Kors Reloj Analogico para Mujer de Cuarzo con Correa en Acero In
 🔎:
 
 - Packed in Michael Kors gift box
-- Stainless steel bracelet in polished and brushed gold finishing with rose gold links at the center - Locking clasp with push button
 - Rose gold sunray effect dial with gold indexes - 3 hand movement - Gold hands - Mineral glass
+- Stainless steel bracelet in polished and brushed gold finishing with rose gold links at the center - Locking clasp with push button
 - Round stainless steel case (diam. 42 mm) in polished gold finishing - 5 ATM water pressure resistance construction
 
 [Comprar!!!](https://www.amazon.es/dp/B017AQ4LEC/?tag=tolees-21)

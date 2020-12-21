@@ -26,7 +26,7 @@ Ahora mismo tienes [Levi s Relaxed Graphic Crewneck Sudadera  White  90 s Serif 
 🔎:
 
 - Fabricada en material suave que ofrece comodidad
-- La capa para cualquier temporada
 - Tiene estampado el logotipo Levis
+- La capa para cualquier temporada
 
 [Visítala!!!](https://www.amazon.es/dp/B07S3WPJC7/?tag=tolees-21)

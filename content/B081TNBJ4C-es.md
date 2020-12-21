@@ -25,8 +25,8 @@ Tienes [adidas 3s Clx SH Vsl Swimsuit  Hombre  Legend Ink  4](https://www.amazon
 
 🔎:
 
+- Mesh inner underwear
 - Swimsuit
 - Elastic Waistband with lanyard
-- Mesh inner underwear
 
 [Comprar!!!](https://www.amazon.es/dp/B081TNBJ4C/?tag=tolees-21)

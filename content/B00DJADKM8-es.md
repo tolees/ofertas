@@ -26,8 +26,8 @@ En este momento está [Educa Cuentos peliculas y tv Juego Educativo para Niños 
 🔎:
 
 - Incluye 12 actividades
-- Disfruta de los cuentos y aprende con las actividades
 - Electrónico, con la pantalla táctil
+- Disfruta de los cuentos y aprende con las actividades
 - Adecuado para niños de 2 - 6 años
 - Versión española
 

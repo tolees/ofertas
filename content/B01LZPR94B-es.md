@@ -25,10 +25,10 @@ Tienes [Skechers Women 12615 Low-Top Trainers  Black  Black Mesh/White Trim Bkw 
 
 🔎:
 
-- Upper material: textile.
+- Outer sole: polyurethane.
 - Inner material: textile.
 - Heel type: n/a.
-- Outer sole: polyurethane.
 - Closure type: laces.
+- Upper material: textile.
 
 [Comprar!!!](https://www.amazon.es/dp/B01LZPR94B/?tag=tolees-21)

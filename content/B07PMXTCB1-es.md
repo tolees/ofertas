@@ -25,10 +25,10 @@ Está [FRHOME - Nespresso 60 Cápsulas de Café compatibles - Il Caffè italiano
 
 ℹ️:
 
-- 6 mezclas diferentes con diferentes aromas y la intensidad, compatible con todas las máquinas Nespresso
-- Paquete de 60 cápsulas compatibles con Nespresso Kit de Tour deItalia
-- Mezclas diseñada por maestros tostadores desde 1870
 - Un recorrido por los diferentes tipos de café para todos los gustos
+- Paquete de 60 cápsulas compatibles con Nespresso Kit de Tour deItalia
+- 6 mezclas diferentes con diferentes aromas y la intensidad, compatible con todas las máquinas Nespresso
 - El paquete contiene 1 caja de 10 cápsulas de café cada Napoli, Torino, Roma, Trieste, Firenze y Venezia
+- Mezclas diseñada por maestros tostadores desde 1870
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07PMXTCB1/?tag=tolees-21)

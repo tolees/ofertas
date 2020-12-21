@@ -25,9 +25,9 @@ Ahora mismo tienes [Realme X3 Super Zoom - Smartphone 12GB RAM + 256GB ROM  Dua
 
 🔎:
 
-- Batería: 4200 mAh
+- Pantalla: 6.6", 1080 x 2400 pixels
 - Procesador: Snapdragon 855+ 2.96GHz
 - Cámara: Cuádruple, 64MP+8MP +8MP+2MP
-- Pantalla: 6.6", 1080 x 2400 pixels
+- Batería: 4200 mAh
 
 [Visítala!!!](https://www.amazon.es/dp/B088XP47XH/?tag=tolees-21)

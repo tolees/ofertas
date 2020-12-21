@@ -25,9 +25,9 @@ En este momento está [JACK & JONES JACWAISTBAND TRUNKS 3 PACK NOOS Bóxer  Gris
 
 🔎:
 
-- Pretina Ancha
-- Paquete Triple
-- Conjunto De Calzoncillos Boxer
 - Estiramiento
+- Pretina Ancha
+- Conjunto De Calzoncillos Boxer
+- Paquete Triple
 
 [Aquí!!!](https://www.amazon.es/dp/B073Q38RNP/?tag=tolees-21)
