@@ -25,10 +25,10 @@ En este momento está [AGPTEK Mp3 Acuatico 8GB con Pantalla  S07 Clip Reproducto
 
 🔎:
 
-- 🏊【HiFi Calida de Sonido y Batería Durable】Sonido sin pérdidas de alta fidelidad, soporta formatos de audio MP3 / WMA / APE / FLAC. 8GB memoria que admite 2000 canciones. 2horas carga completamente, se puede reproducir hasta 18horas.
 - 🏊【Nuevo Estilo de MP3 Acuatico con Pantalla】 El reproductor mp3 impermeable permite ver carpetas y listas de reproducción, lo que facilita la selección de su canción favorita. Admite el modo de reproducción aleatoria, repetir, ect.
-- 🏊【Características más Potentes】2019 Nuevo versión, admite música, radio FM, carpetas, Repetir A-B, aleatorio.Viene con manual en español, fácil de operar. En radio fm interfaz, puede guardar emisora que te gusta y grabar fm.
 - 🏊【Fácil de Usar】Super ligero sólo 18g, sin carga. Un clip con rotación de 360 grados te ayuda a conctar las gafas o al gorro de baño. Perfecto para actividades acuáticas, correr, surfear, nadar, etc. Tiene Garantía y Servicio postventa profesional, cualquier problema, por favor conetanos.
 - 🏊【Impermeable Auriculares Estéreo】 Con auriculares de cable corto no te preocupes por enrollar de cable y aísla el ruido externo para ofrecer claro estéro sonido. Viene con cable de extensión y 3 pair puntas de oreja（L / M / S） para adcuadar todos personas y cualquier deporte.
+- 🏊【Características más Potentes】2019 Nuevo versión, admite música, radio FM, carpetas, Repetir A-B, aleatorio.Viene con manual en español, fácil de operar. En radio fm interfaz, puede guardar emisora que te gusta y grabar fm.
+- 🏊【HiFi Calida de Sonido y Batería Durable】Sonido sin pérdidas de alta fidelidad, soporta formatos de audio MP3 / WMA / APE / FLAC. 8GB memoria que admite 2000 canciones. 2horas carga completamente, se puede reproducir hasta 18horas.
 
 [Aquí!!!](https://www.amazon.es/dp/B07X3CMVXX/?tag=tolees-21)

@@ -25,8 +25,8 @@ Tienes [Drasanvi Collmar Colageno Magnesio + Acido Hialuronico + Curcuma 300 gr 
 
 ℹ️:
 
-- Cuida tu salud de la mano de Drasanvi.
 - Cuidarse nunca fue tan fácil gracias a nuestros productos.
+- Cuida tu salud de la mano de Drasanvi.
 - Collmar magnesio curcuma vainilla 300g drasanvi
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B06Y24MG5T/?tag=tolees-21)

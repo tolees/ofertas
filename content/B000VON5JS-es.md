@@ -1,32 +1,32 @@
 ---
 layout: post
-title: 'Tous EDP 90ML al 52.05 % de descuento'
-date: 2020-12-20 19:17:48
+title: 'Descuento del 48.11 % en Tous EDP 90ML'
+date: 2020-12-21 19:19:37
 image: 'https://m.media-amazon.com/images/I/41ARxqqv8xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B000VON5JS-es'
-actualPrice: 35.96 EUR
+actualPrice: 38.92 EUR
 currency: EUR
-price: 35.96
+price: 38.92
 comparePrice: 75.0 EUR
 prodname: 'Tous EDP 90ML'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000VON5JS/?tag=tolees-21'
-descuento: '52.05'
-average: '37.10722891566264'
+descuento: '48.11'
+average: '37.14988235294116'
 ---
 
-Ahora mismo tienes [Tous EDP 90ML](https://www.amazon.es/dp/B000VON5JS/?tag=tolees-21) a 35.96 EUR (original: 75.0 EUR) (52.05 %  de descuento) en el siguiente enlace!
+Tienes [Tous EDP 90ML](https://www.amazon.es/dp/B000VON5JS/?tag=tolees-21) con un 48.11 % de descuento con precio de oferta de 38.92 EUR (original: 75.0 EUR) en el siguiente enlace!
 
 [![Tous EDP 90ML](https://m.media-amazon.com/images/I/41ARxqqv8xL._SL200_.jpg)](https://www.amazon.es/dp/B000VON5JS/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 - Fondo: Musc blanco, cedro de marruecos e iris
 - Salida: hojas de casis, violeta, bergamota y coriandro.
 - Corazón: Jazmon blanco,, peonia amarilla, rosa y gardenia
 
-[Visítala!!!](https://www.amazon.es/dp/B000VON5JS/?tag=tolees-21)
+[Accede a la oferta!!](https://www.amazon.es/dp/B000VON5JS/?tag=tolees-21)

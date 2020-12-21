@@ -25,10 +25,10 @@ Tienes [StarTech PEXSAT34RH - Tarjeta controladora con disipador](https://www.am
 
 🔎:
 
-- Se ajusta a cualquier caja estándar o de bajo perfil con los soportes incluidos
 - 4 puertos AHCI SATA III (6 Gbps) a través de PCI Express x2
-- Soporte de HyperDuo para organización automática en niveles SSD
 - Aprovechamiento del rendimiento SSD y de la capacidad HDD estándar con tecnología HyperDuo
 - Maximización de la capacidad del sistema con velocidades de conexión SATA III
+- Se ajusta a cualquier caja estándar o de bajo perfil con los soportes incluidos
+- Soporte de HyperDuo para organización automática en niveles SSD
 
 [Comprar!!!](https://www.amazon.es/dp/B00BUC3N74/?tag=tolees-21)

@@ -25,10 +25,10 @@ En este momento está [AMD CPU RYZEN 5 1600 AM4](https://www.amazon.es/dp/B07XTQ
 
 🔎:
 
-- Caché L2 total: 3MB
-- Reloj Boost: hasta 3.6 GHz
+- Sistema operativo: Windows 10 - Edición de 64 bits, RHEL x86 de 64 bits y Ubuntu x86 de 64 bits
 - Caché L3 total: 16MB
 - Solución térmica (PIB): Wraith Spire (sin LED)
-- Sistema operativo: Windows 10 - Edición de 64 bits, RHEL x86 de 64 bits y Ubuntu x86 de 64 bits
+- Caché L2 total: 3MB
+- Reloj Boost: hasta 3.6 GHz
 
 [Aquí!!!](https://www.amazon.es/dp/B07XTQZJ28/?tag=tolees-21)

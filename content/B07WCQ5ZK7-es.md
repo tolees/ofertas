@@ -25,8 +25,8 @@ Ahora mismo tienes [Salomon XA Pro 3D v8 W  Zapatillas de Trail Running para Muj
 
 🔎:
 
-- Xa PRO 3D V8 W
-- Salomon
 - Color: Pearl Blue/Sweet Grape/Patina Green
+- Salomon
+- Xa PRO 3D V8 W
 
 [Visítala!!!](https://www.amazon.es/dp/B07WCQ5ZK7/?tag=tolees-21)

@@ -25,10 +25,10 @@ Está [Listerine  Enjuague Bucal Mentol  Pack de 2  1000 ml](https://www.amazon.
 
 ℹ️:
 
+- Limpia en profundidad las zonas más difíciles y actúa entre los dientes y en la línea de las encías
 - Fórmula basada en aceites esenciales con flúor y sin alcohol que proporciona 24 horas de protección contra la placa
 - Gracias a su contenido en flúor, fortalece los dientes y los protege contra las caries
-- Su fórmula, clínicamente probada, asegura hasta un 97% de la eliminación de bacterias que forman la placa dental: alcanza los lugares a los que el cepillo no llega
-- Limpia en profundidad las zonas más difíciles y actúa entre los dientes y en la línea de las encías
 - LISTERINE Mentol Sabor Suave proporciona la tranquilidad de un aliento fresco duradero
+- Su fórmula, clínicamente probada, asegura hasta un 97% de la eliminación de bacterias que forman la placa dental: alcanza los lugares a los que el cepillo no llega
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07H6ZMZRW/?tag=tolees-21)

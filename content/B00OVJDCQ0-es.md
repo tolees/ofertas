@@ -25,10 +25,10 @@ Tienes [D-Link DWR-932 - Router móvil 4G para SIM de Datos  4G/LTE  3G  WiFi N 
 
 ℹ️:
 
+- 4G/LTE con velocidad máxima de descarga de 150 Mbps y 50 Mbps de subida; batería de 2000 mAh
+- Puedes usarlo mediante SIM de datos de cualquier operador 3G / 4G. Compatible con mini SIM o micro SIM mediante adaptador (no suministrado)
 - Hasta 10 usuarios simultáneos y 5 horas de duración de batería
 - Botón WPS de sincronización rápida de dispositivos
 - Incorpora el estándar WiFi N de hasta 150 Mbps
-- 4G/LTE con velocidad máxima de descarga de 150 Mbps y 50 Mbps de subida; batería de 2000 mAh
-- Puedes usarlo mediante SIM de datos de cualquier operador 3G / 4G. Compatible con mini SIM o micro SIM mediante adaptador (no suministrado)
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00OVJDCQ0/?tag=tolees-21)

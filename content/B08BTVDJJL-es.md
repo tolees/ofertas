@@ -25,11 +25,11 @@ En este momento está [ASUS ROG Zephyrus M15 GU502LW-AZ037T - Portátil Gaming d
 
 🔎:
 
+- Almacenamiento de 512GB SSD
 - Tarjeta gráfica NVIDIA GeForce RTX 2070 con Diseño Max-Q - 8GB
-- Procesador Intel Core i7-10750H (6 Núcleos, 12 Subprocesos, Caché: 12MB SmartCache, 2.60GHz hasta 5.00GHz, 64-bit)
-- Memoria RAM 16GB (8GB + 8GB [EN PLACA]) DDR4 3200MHz
 - Sistema operativo: Windows 10
 - Pantalla de 15.6" FullHD (1920 x 1080) 240 Hz
-- Almacenamiento de 512GB SSD
+- Procesador Intel Core i7-10750H (6 Núcleos, 12 Subprocesos, Caché: 12MB SmartCache, 2.60GHz hasta 5.00GHz, 64-bit)
+- Memoria RAM 16GB (8GB + 8GB [EN PLACA]) DDR4 3200MHz
 
 [Aquí!!!](https://www.amazon.es/dp/B08BTVDJJL/?tag=tolees-21)

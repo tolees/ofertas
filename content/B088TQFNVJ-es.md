@@ -28,7 +28,7 @@ En este momento está [HP Ratón inalámbrico X200  dongle USB  hasta 1600 PPP  
 - Compatible con sistemas operativos: Windows 10; Windows 8; Windows 7; MacOS 10.1 o superior.
 - Contenido del envío: ratón inalámbrico HP X200; instrucciones rápidas; tarjeta de garantía; información del producto; R.E.D. Tarjeta RTF
 - Gracias al diseño curvado el ratón se adapta cómodamente a la mano, tanto para diestros como para zurdos.
-- Este ratón cumple con tus necesidades – con una duración de la batería de hasta 18 meses.
 - Tamaño: 11,5 x 6,33 x 3,62 cm.
+- Este ratón cumple con tus necesidades – con una duración de la batería de hasta 18 meses.
 
 [Aquí!!!](https://www.amazon.es/dp/B088TQFNVJ/?tag=tolees-21)

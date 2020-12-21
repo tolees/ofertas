@@ -25,10 +25,10 @@ Tienes [Xiaomi Redmi Note 9S  Pantalla de 6 67" FHD+  DotDisplay  6GB+128GB  Cá
 
 🔎:
 
-- Cámara cuádruple 48 MP + 8 MP +5 MP + 2 MP
 - Pantalla de 6.67", 1080 x 2400 pixeles
 - Batería de 5020 mAh
 - Procesador Snapdragon 720G 2.3 GHz
+- Cámara cuádruple 48 MP + 8 MP +5 MP + 2 MP
 - Sistema operativo Android 10
 
 [Comprar!!!](https://www.amazon.es/dp/B085S4LC4V/?tag=tolees-21)

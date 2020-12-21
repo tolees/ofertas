@@ -27,7 +27,7 @@ Ahora mismo tienes [Toy Story 4 - Buzz Lightyear Feature Plush](https://www.amaz
 
 - Buzz está listo para sacar las alas y volar a aventuras emocionantes
 - Adecuado a partir de 3 años
-- Inclínalo y él volará contigo
 - Es suave y blandito y tiene muchos sonidos que simulan el vuelo
+- Inclínalo y él volará contigo
 
 [Visítala!!!](https://www.amazon.es/dp/B07PQMGGWF/?tag=tolees-21)
