@@ -25,10 +25,10 @@ Tienes [Waterpik WP-100 - Producto de cuidado dental  Azul/ Blanco](https://www.
 
 ℹ️:
 
-- Sistema de agua a presi-n para mejorar nuestra higiene bucal limpiando en zonas donde los cepillos
 - Recomendado utilizar tras el cepillado normal, ajustando la presi-n a cada boca
-- El depósito transparente tiene capacidad para 651ml
 - Totalmente silencioso y limpieza lista en 3 minutos
 - Irrigador dental, indicado para la limpieza de bocas con coronas, implantes
+- El depósito transparente tiene capacidad para 651ml
+- Sistema de agua a presi-n para mejorar nuestra higiene bucal limpiando en zonas donde los cepillos
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000GLRREU/?tag=tolees-21)

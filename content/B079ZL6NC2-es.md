@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 64.82 % en Rick and Morty the Pickle Rick Game'
-date: 2020-12-19 15:06:23
+title: 'Rick and Morty the Pickle Rick Game al 64.82 % de descuento'
+date: 2020-12-21 11:57:57
 image: 'https://m.media-amazon.com/images/I/41144eqbuXL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,19 +16,19 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079ZL6NC2/?tag=tolees-21'
 descuento: '64.82'
-average: '17.951139240506322'
+average: '17.9274074074074'
 ---
 
-Tienes [Rick and Morty the Pickle Rick Game](https://www.amazon.es/dp/B079ZL6NC2/?tag=tolees-21) con un 64.82 % de descuento con precio de oferta de 16.99 EUR (original: 48.3 EUR) en el siguiente enlace!
+Ahora mismo tienes [Rick and Morty the Pickle Rick Game](https://www.amazon.es/dp/B079ZL6NC2/?tag=tolees-21) a 16.99 EUR (original: 48.3 EUR) (64.82 %  de descuento) en el siguiente enlace!
 
 [![Rick and Morty the Pickle Rick Game](https://m.media-amazon.com/images/I/41144eqbuXL._SL200_.jpg)](https://www.amazon.es/dp/B079ZL6NC2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
-- Morty The Pickle Rick Game, Mixed Colours
-- 30 to 45 minutes play time For ages 13 and up
 - Includes 2 miniature figures: Pickle Rick and Jaguar Intense head-to-head gameplay, but also includes solo rules
-- Based on the insanely popular Rick and Morty episode "Pickle Rick."
 - Dispatched same day from the UK
+- Based on the insanely popular Rick and Morty episode "Pickle Rick."
+- 30 to 45 minutes play time For ages 13 and up
+- Morty The Pickle Rick Game, Mixed Colours
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B079ZL6NC2/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B079ZL6NC2/?tag=tolees-21)

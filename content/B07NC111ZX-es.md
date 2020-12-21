@@ -25,10 +25,10 @@ Está [AXE You - Desodorante Bodyspray para hombre  48 horas de protección  200
 
 ℹ️:
 
-- Una fragancia sutil y refinada con toque de madera de ámbar y canela especiada para los hombres sofisticados y elegantes
-- AXE es una marca de cuidado personal masculino vendida en el mundo que ofrece óptima calidad
-- El desodorante bodyspray AXE You es una fragancia masculina moderna que te proporcionará un aroma genial durante todo el día
 - Aplica el desodorante rocíandolo sobre tus axilas y torso para que notes la diferencia y te olvides del sudor antes de que aparezca
+- AXE es una marca de cuidado personal masculino vendida en el mundo que ofrece óptima calidad
+- Una fragancia sutil y refinada con toque de madera de ámbar y canela especiada para los hombres sofisticados y elegantes
+- El desodorante bodyspray AXE You es una fragancia masculina moderna que te proporcionará un aroma genial durante todo el día
 - Tiene una aplicación rápida que ayudará a mantenerte fresco y seco cualquier que sea la ocasión y para que siempre sigas fragante
 - Ofrece una protección duradera y eficaz contra el sudor y los malos olores de hasta 48 horas de duración que te ayudará a potenciar tu «algo» especial
 

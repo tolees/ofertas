@@ -25,10 +25,10 @@ En este momento está [Ark Survival Evolved](https://www.amazon.es/dp/B071WX3PSJ
 
 🔎:
 
+- Junta recursos, personaliza todo: Un sistema extremadamente ingenioso te invita a combinar y mezclar los materiales que rescatas de la isla, a la vez que te permite modificar los colores, las texturas, las formas y el estilo de cada aspecto de las paredes de tu hogar, así como la armadura, las armas y otros elementos de tu personaje
 - Explora la isla: Resuelve el misterio de ARK mientras exploras esta inmensa isla; para ello, descubre las Agendas de explorador (repletas de claves) dispersas por todas partes Hazte camino hasta convertirte en el jefe supremo y descubre por qué te dejaron en esta isla para vivir una experiencia jurásica
 - Cosecha, caza y construye: Corta árboles y úsalos para construirte una casa básica, que rápidamente podrás expandir hasta erigir una finca jurásica Caza para obtener carne o apáñatelas para conseguir plantas o incluso cultiva tu propia huerta
-- Captura y domestica dinosaurios: Descubre más de 100 dinosaurios diferentes y otras criaturas prehistóricas en la isla, descubre formas de domesticarlos para aumentar de forma útil la manada de dinosaurios de tu tribu
-- Junta recursos, personaliza todo: Un sistema extremadamente ingenioso te invita a combinar y mezclar los materiales que rescatas de la isla, a la vez que te permite modificar los colores, las texturas, las formas y el estilo de cada aspecto de las paredes de tu hogar, así como la armadura, las armas y otros elementos de tu personaje
 - Ante todo, sobrevive: Como parte del juego, tendrás que encontrar fuentes de alimentos y agua, así como buscar lugares seguros para protegerte contra el clima Si te alejas demasiado, no solo quedarás exhausto, sino que el hambre y la sed te afectarán con rapidez Los efectos del clima se basan en las condiciones climáticas del mundo real, por lo que deberás buscar refugio contra la lluvia y la nieve, a la vez que tendrás que aprovechar al máximo los días de sol
+- Captura y domestica dinosaurios: Descubre más de 100 dinosaurios diferentes y otras criaturas prehistóricas en la isla, descubre formas de domesticarlos para aumentar de forma útil la manada de dinosaurios de tu tribu
 
 [Aquí!!!](https://www.amazon.es/dp/B071WX3PSJ/?tag=tolees-21)

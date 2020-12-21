@@ -25,10 +25,10 @@ Tienes [MARSGAMING MHAX Negro  Auriculares RGB Multiplataforma con Mic extraíbl
 
 ℹ️:
 
-- [COMODIDAD SUPERIOR] Los auriculares se adaptan a tus movimientos y te permiten jugar con total comodidad gracias a la diadema de suspensión ligera totalmente adaptable y a sus almohadillas fabricadas en cuero sintético especiales PRO-AIR, que cuentan con una estructura rotativa que se adapta a tus movimientos en cada momento
 - [COMPATIBILIDAD] Windows, PS4, PS5, XBOX ONE, XBOX SERIES X-S, Mac, Nintendo Switch, Smartphone, Tablet
-- [MICRÓFONO EXTRAÍBLE CANCELACIÓN DE RUIDO] El micrófono cuenta con una estructura flexible que te permite adaptarlo y extraerlo con total comodidad cuando no lo necesites;
-- [CALIDAD DE SONIDO] Con controlador de neodimio de 53mm, podrás sumergirte en tus partidas o sesiones de música gracias a la calidad de sonido HIFI; Regula el volumen del sonido de una forma rápida y sencilla a través de la caja de control de fácil acceso incorporada con volumen y mute
 - [AURICULARES GAMING] Auriculares Over-ear pro-gaming con iluminación RGB Flow y transición de colores automática
+- [CALIDAD DE SONIDO] Con controlador de neodimio de 53mm, podrás sumergirte en tus partidas o sesiones de música gracias a la calidad de sonido HIFI; Regula el volumen del sonido de una forma rápida y sencilla a través de la caja de control de fácil acceso incorporada con volumen y mute
+- [COMODIDAD SUPERIOR] Los auriculares se adaptan a tus movimientos y te permiten jugar con total comodidad gracias a la diadema de suspensión ligera totalmente adaptable y a sus almohadillas fabricadas en cuero sintético especiales PRO-AIR, que cuentan con una estructura rotativa que se adapta a tus movimientos en cada momento
+- [MICRÓFONO EXTRAÍBLE CANCELACIÓN DE RUIDO] El micrófono cuenta con una estructura flexible que te permite adaptarlo y extraerlo con total comodidad cuando no lo necesites;
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08D6N35TJ/?tag=tolees-21)

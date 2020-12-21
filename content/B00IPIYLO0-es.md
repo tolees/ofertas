@@ -25,12 +25,12 @@ Tienes [Bosch PSM 100 A - Multilijadora  3 hojas de lija K 80/ K 120/ K 160  mal
 
 ℹ️:
 
-- Placa lijadora dividida en dos: para el aprovechamiento óptimo de la hoja de lija, la punta delta de la hoja y de la placa pueden soltarse y girarse sin esfuerzos
-- PSM 100 A: la lijadora multitalento de fácil manejo
 - Incluye: Multilijadora PSM 100 A, 3 hojas de lija K 80/ K 120/ K 160, maletín
+- PSM 100 A: la lijadora multitalento de fácil manejo
 - Cierre de cardillo para el cambio rápido de la hoja de lija
-- Conexión para aspiración de polvo para aspiradores universales
 - Ligera y compacta, perfecta para lijar en zonas de difícil acceso, así como en superficies pequeñas y medianas
+- Conexión para aspiración de polvo para aspiradores universales
+- Placa lijadora dividida en dos: para el aprovechamiento óptimo de la hoja de lija, la punta delta de la hoja y de la placa pueden soltarse y girarse sin esfuerzos
 - Trabajo limpio gracias al sistema microfiltro: el elemento de aspiración integrado aspira el polvo directamente al interior del depósito del sistema microfiltro suministrado
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00IPIYLO0/?tag=tolees-21)

@@ -26,7 +26,7 @@ Está [Proxxon 2224256 - Garras Para La Fresadora Mf 70](https://www.amazon.es/d
 ℹ️:
 
 - El juego consta de 2 bloques escalonados y 2 abrazaderas, tuercas con ranura en forma de t del estándar micromot
-- Para piezas de trabajo de hasta 20 mm de espesor
 - Caja de 1
+- Para piezas de trabajo de hasta 20 mm de espesor
 
 [Ver la oferta!!](https://www.amazon.es/dp/B000S86LCK/?tag=tolees-21)

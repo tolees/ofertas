@@ -25,10 +25,10 @@ Ahora mismo tienes [Puma Stadium Jacket  Hombre  Royal-White  L](https://www.ama
 
 🔎:
 
+- Mangas, pecho y espalda acolchados
 - Cuello alzado con mentonera y capucha oculta
 - Bolsillos laterales con cremallera
-- Mangas, pecho y espalda acolchados
-- Comodidad: forro polar en el cuerpo para mantenerte abrigado y cómodo
 - Protección meteorológica: el tejido exterior impermeable de la chaqueta protege del viento y la lluvia
+- Comodidad: forro polar en el cuerpo para mantenerte abrigado y cómodo
 
 [Visítala!!!](https://www.amazon.es/dp/B00G1PY7F2/?tag=tolees-21)

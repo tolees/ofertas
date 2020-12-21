@@ -25,10 +25,10 @@ Tienes [Bomba de succión de soldadura con innovadora boquilla de silicona  envo
 
 🔎:
 
-- Innovadora boquilla de silicona que permite una colocación más cercana a la punta del soldador (por lo tanto, mejor succión y mejor eliminación de soldadura)
-- Fabricado en Japón
-- Diseño compacto que permite un fácil manejo con una sola mano
-- Resiste el contacto directo con soldador (350 C máximo)
 - Construcción y componentes utilizados de la más alta calidad
+- Innovadora boquilla de silicona que permite una colocación más cercana a la punta del soldador (por lo tanto, mejor succión y mejor eliminación de soldadura)
+- Diseño compacto que permite un fácil manejo con una sola mano
+- Fabricado en Japón
+- Resiste el contacto directo con soldador (350 C máximo)
 
 [Comprar!!!](https://www.amazon.es/dp/B002MJMXD4/?tag=tolees-21)

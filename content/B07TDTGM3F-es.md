@@ -25,10 +25,10 @@ En este momento está [Fisher-Price - Correpasillos unicornio Andador bebés +1 
 
 🔎:
 
-- Encantador unicornio de colores vivos
 - Para bebés a partir de 12 meses
+- Encantador unicornio de colores vivos
+- El unicornio tintinea mientras se le empuja
 - Alas suaves y multicolores que se mueven y aletean mientras el bebé empuja al unicornio
 - Un correpasillos "mágico" que anima a andar a tu bebé
-- El unicornio tintinea mientras se le empuja
 
 [Aquí!!!](https://www.amazon.es/dp/B07TDTGM3F/?tag=tolees-21)

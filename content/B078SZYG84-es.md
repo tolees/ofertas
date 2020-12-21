@@ -25,9 +25,9 @@ Tienes [Joseph Joseph Pelador Triple 3 en 1  Acero Inoxidable  Naranja  Talla ú
 
 🔎:
 
-- Fácil de usar
 - 3 tipos de cuchilla: recta, juliana y sierra
 - Mango ergonómico
 - Ahorra espacio en la cocina, tres funciones en una
+- Fácil de usar
 
 [Comprar!!!](https://www.amazon.es/dp/B078SZYG84/?tag=tolees-21)

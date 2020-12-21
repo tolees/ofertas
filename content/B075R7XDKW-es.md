@@ -25,10 +25,10 @@ Ahora mismo tienes [Destornillador Eléctrico Inalámbrico  Tacklife SDP51DC Ato
 
 🔎:
 
-- LUZ LED y BLOQUEO DE SEGURIDAD: Más conveniente y seguro con luz LED en la oscuridad, el bloquedo de seguridad se diseña razonable, cuando empuja el botón hacia adelante, el taladro va a rotar en el sentido de las agujas del reloj; el botón hacia atrás, el taladro va a rotar en dirección opuesta; el botón está en medio, no funcionará
-- USOS MÚLTIPLES Y PODEROSOS: Se puede combinar con accesorios. La tapa de goma se puede desenganchar, puede cambinar con otros accesorio, por ejemplo ,abrebotellas de vino; Hay la batería del Li-ion de 1pc 3.6V, 2000mAh, Carga directamente, proporcione una energía más durable. Se puede cargar con USB (2A), 50 minutos con USB (2A)
+- 🎁Los regalos de Navidad🎁Felicitaciones de Año Nuevo🔥 APLICABILIDAD EXTRA VESERTILE: El adaptador de ángulo recto único es ideal para atornillar en espacio ciego / apretado; La tapa de goma se puede desmontar, puede instalar otros accesorios como sacacorchos y tijeras
 - ACCESORIOS RICOS: 30 taladros se incluye muchas tipos de brocas, satisface varias necesidades;la biela se puede excender espacio de opertación, puede usarlo en espacio muy reducido fácilmente
 - CONTENIDO DEL PAQUETE: 1×Tacklife SDP51DC Atornillador, 30x Taladro cambiadores, 1×Biela, 1×Manual, 1×línea de USB, 1×Adaptador de Ángulo Recto，1×Juegos de Broca
-- 🎁Los regalos de Navidad🎁Felicitaciones de Año Nuevo🔥 APLICABILIDAD EXTRA VESERTILE: El adaptador de ángulo recto único es ideal para atornillar en espacio ciego / apretado; La tapa de goma se puede desmontar, puede instalar otros accesorios como sacacorchos y tijeras
+- LUZ LED y BLOQUEO DE SEGURIDAD: Más conveniente y seguro con luz LED en la oscuridad, el bloquedo de seguridad se diseña razonable, cuando empuja el botón hacia adelante, el taladro va a rotar en el sentido de las agujas del reloj; el botón hacia atrás, el taladro va a rotar en dirección opuesta; el botón está en medio, no funcionará
+- USOS MÚLTIPLES Y PODEROSOS: Se puede combinar con accesorios. La tapa de goma se puede desenganchar, puede cambinar con otros accesorio, por ejemplo ,abrebotellas de vino; Hay la batería del Li-ion de 1pc 3.6V, 2000mAh, Carga directamente, proporcione una energía más durable. Se puede cargar con USB (2A), 50 minutos con USB (2A)
 
 [Visítala!!!](https://www.amazon.es/dp/B075R7XDKW/?tag=tolees-21)

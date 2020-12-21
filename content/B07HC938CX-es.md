@@ -27,8 +27,8 @@ En este momento está [Soporte Lavalier de Micrófono Clip de Solapa Atrapado en
 
 - Material: Metal
 - Puede ser utilizado para espectáculos, podios, conferencias.
-- Puede ser atrapado en el Collar de la ropa.
 - El cable de datos fijo y el cable de los auriculares pueden ocultar los incómodos datos del micrófono
 - Micrófono solapa lavalier holder.
+- Puede ser atrapado en el Collar de la ropa.
 
 [Aquí!!!](https://www.amazon.es/dp/B07HC938CX/?tag=tolees-21)

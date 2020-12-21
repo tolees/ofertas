@@ -25,9 +25,9 @@ En este momento está [WD Elements Desktop - Disco duro externo de sobremesa de 
 
 🔎:
 
-- Almacenamiento adicional de alta capacidad
-- Calidad wd por dentro y por fuera
 - Rápidas transferencias de datos
+- Calidad wd por dentro y por fuera
+- Almacenamiento adicional de alta capacidad
 - Plug-and-play para ordenadores windows
 
 [Aquí!!!](https://www.amazon.es/dp/B07Y3KDVZH/?tag=tolees-21)

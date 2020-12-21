@@ -25,10 +25,10 @@ Ahora mismo tienes [KARACTERMANIA Frozen Wind - Maleta Trolley Soft 3D  Multicol
 
 🔎:
 
-- Maleta infantil blanda con relieve frontal.
-- Dimensiones: 52 x 34 x 17 cm (ruedas incluidas).
-- Asa regulable.
 - 2 ruedas para fácil movimiento.
+- Asa regulable.
+- Dimensiones: 52 x 34 x 17 cm (ruedas incluidas).
 - Tamaño válido para equipaje de mano.
+- Maleta infantil blanda con relieve frontal.
 
 [Visítala!!!](https://www.amazon.es/dp/B07ZTPDCFQ/?tag=tolees-21)

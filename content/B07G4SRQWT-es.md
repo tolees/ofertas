@@ -25,10 +25,10 @@ Tienes [Lacoste Reloj Analógico para Unisex Niños de Cuarzo con Correa en Sili
 
 🔎:
 
-- Grosor de la caja de 9,85 mm
-- 5 ATM de resistencia al agua
-- Esfera azul claro
 - Tres manecillas
+- 5 ATM de resistencia al agua
+- Grosor de la caja de 9,85 mm
+- Esfera azul claro
 - Correa de silicona azul claro y diseño impreso
 
 [Comprar!!!](https://www.amazon.es/dp/B07G4SRQWT/?tag=tolees-21)

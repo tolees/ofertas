@@ -25,8 +25,8 @@ Ahora mismo tienes [Adidas Tiro 19 Polyestere Hose Pantalones Deportivos  Hombre
 
 🔎:
 
-- Elastic waistband with lanyard
 - Pockets with zip closure
+- Elastic waistband with lanyard
 - Tapered fit
 
 [Visítala!!!](https://www.amazon.es/dp/B07JZX96W2/?tag=tolees-21)
