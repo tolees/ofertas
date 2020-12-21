@@ -25,10 +25,10 @@ Está [Tile Mate  2020  Buscador de artículos - paquete de 1](https://www.amaz
 
 ℹ️:
 
-- ENCUENTRA LO QUE ESTÁ LEJOS -- Cuando estés fuera del alcance del Bluetooth, usa la aplicación Tile para ver su ubicación más reciente o pídele una mano a la Red Tile de forma segura y anónima.
-- Para usar Tile, se necesita instalar la aplicación Tile para iOS o Android, registrarse para obtener una cuenta Tile y aceptar la Política de privacidad y los Términos del servicio de Tile. El acceso a los servicios adicionales Premium es pago.
-- ENCUENTRA LO QUE ESTÁ CERCA -- Usa la aplicación Tile para hacer sonar tu Tile Mate cuando esté dentro de los 61 m (200 pies).
-- ENCUENTRA LLAVES, BOLSOS Y MÁS -- Mate es el localizador multipropósito para una variedad de objetos, desde llaves hasta bolsos. Este localizador fácil de usar y su aplicación gratuita funcionan con iOS y Android.
 - ENCUENTRA TU MÓVIL -- Usa tu Tile para encontrar tu móvil, aunque esté en modo silencioso.
+- ENCUENTRA LLAVES, BOLSOS Y MÁS -- Mate es el localizador multipropósito para una variedad de objetos, desde llaves hasta bolsos. Este localizador fácil de usar y su aplicación gratuita funcionan con iOS y Android.
+- Para usar Tile, se necesita instalar la aplicación Tile para iOS o Android, registrarse para obtener una cuenta Tile y aceptar la Política de privacidad y los Términos del servicio de Tile. El acceso a los servicios adicionales Premium es pago.
+- ENCUENTRA LO QUE ESTÁ LEJOS -- Cuando estés fuera del alcance del Bluetooth, usa la aplicación Tile para ver su ubicación más reciente o pídele una mano a la Red Tile de forma segura y anónima.
+- ENCUENTRA LO QUE ESTÁ CERCA -- Usa la aplicación Tile para hacer sonar tu Tile Mate cuando esté dentro de los 61 m (200 pies).
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07W9BBCTB/?tag=tolees-21)

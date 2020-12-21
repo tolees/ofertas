@@ -25,10 +25,10 @@ Ahora mismo tienes [Transcend Usd300S Tarjeta Microsd de 256Gb  Clase 10   V30  
 
 🔎:
 
-- Video Speed Clase 30, V30, para grabaciones de video 4K Ultra HD
 - Cumple con el estándar A1 para aplicaciones móviles
 - Software RecoveRx
 - Clase de velocidad 10, U3, hasta 95 MBs de Lectura
+- Video Speed Clase 30, V30, para grabaciones de video 4K Ultra HD
 - Velocidad de Escritura hasta 40 MBs
 
 [Visítala!!!](https://www.amazon.es/dp/B07N31KRZL/?tag=tolees-21)

@@ -25,8 +25,8 @@ Está [Carissima Gold Pendientes de mujer con oro amarillo de 9K  375/1000   sin
 
 ℹ️:
 
-- Tu joya es presentada en una elegante caja regalo
 - Oro amarillo de 9 quilates elegantemente elaborado con alta calidad para lograr un tono cálido y clásico
+- Tu joya es presentada en una elegante caja regalo
 - Las piezas reflejan la tradición italiana del diseño clásico y un minucioso trabajo artesanal para crear piezas especiales que deleitarán a los amantes de las joyas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00BN7QI00/?tag=tolees-21)

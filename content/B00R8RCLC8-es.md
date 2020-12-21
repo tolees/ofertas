@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Floid Masaje Genuino Vigoroso - 150 ml al 41.29 % de descuento'
-date: 2020-11-19 16:24:54
+date: 2020-12-20 22:47:58
 image: 'https://m.media-amazon.com/images/I/5159CokHqHL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00R8RCLC8/?tag=tolees-21'
 descuento: '41.29'
+average: '4.079'
 ---
 
 Está [Floid Masaje Genuino Vigoroso - 150 ml](https://www.amazon.es/dp/B00R8RCLC8/?tag=tolees-21) con 41.29 de descuento por 4.99 EUR (original: 8.5 EUR) en el siguiente enlace!
@@ -24,5 +25,9 @@ Está [Floid Masaje Genuino Vigoroso - 150 ml](https://www.amazon.es/dp/B00R8RCL
 
 ℹ️:
 
+- De la marca Floïd
+- La textura que ofrece es del tipo loción
+- Para todo tipo de pieles
+- Contiene 150 ml
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00R8RCLC8/?tag=tolees-21)

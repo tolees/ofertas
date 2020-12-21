@@ -25,10 +25,10 @@ Está [Ana Maria Lajusticia - Colágeno con magnesio – 180 comprimidos articul
 
 ℹ️:
 
-- El magnesio contribuye a disminuir el cansancio y la fatiga
 - El colágeno es la proteína más abundante en el cuerpo humano
-- El colágeno con magnesio contribuye a la salud del tejido conectivo como la piel, cabello y uñas.
+- El magnesio contribuye a disminuir el cansancio y la fatiga
 - El colágeno con magnesio interviene en la regeneración del tejido osteomuscular
 - Contribuye a mantener y aumentar la masa muscular
+- El colágeno con magnesio contribuye a la salud del tejido conectivo como la piel, cabello y uñas.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00DN9O7DQ/?tag=tolees-21)

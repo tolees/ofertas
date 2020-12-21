@@ -25,8 +25,8 @@ Está [Salomon Sense Feel  Zapatillas de Trail Running Hombre  Gris  Mineral Gra
 
 ℹ️:
 
+- Calzado salomon
 - Zapatillas de running running hombre
 - Shoes sense feel mineral (l40965500)
-- Calzado salomon
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07RFNGRGP/?tag=tolees-21)
