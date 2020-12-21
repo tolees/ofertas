@@ -26,8 +26,8 @@ Tienes [Exelvit Premenstrual - Complemento alimenticio contra síntomas premenst
 ℹ️:
 
 - Con Aceite de Onagra para combatir el dolor ovárico.
-- Fórmula rica en ácidos grasos Omega 6.
 - Con Vitamina E para reducir la tensión mamaria y Vit. B6 para mejorar el estado de animo.
+- Fórmula rica en ácidos grasos Omega 6.
 - Formulación desarrollada para aliviar los síntomas clave premenstruales: tensión mamaria, dolor de ovarios, estado de ánimo.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B073DCPVX5/?tag=tolees-21)

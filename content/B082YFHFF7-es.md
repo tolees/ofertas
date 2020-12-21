@@ -26,9 +26,9 @@ Ahora mismo tienes [GORE WEAR Phantom Gore-Tex INFINIUM Chaqueta  Hombre  Neon Y
 🔎:
 
 - GORE PHANTOM Chaqueta GORE-TEX INFINIUM, Talla: L, Color: Amarillo neón/Negro, 100645
-- Talle cómodo para mayor libertad de movimiento/Corte específico para ciclismo
-- GORE-TEX INFINIUM con tecnología WINDSTOPPER: cortaviento, altamente resistente al agua y extremadamente transpirable
-- Mangas desmontables, Parte posterior alargada, Bolsillo posterior de 3 compartimentos, Cuello alto
 - Práctica chaqueta 2 en 1 para hombre, Ideal para todas las condiciones climáticas
+- Mangas desmontables, Parte posterior alargada, Bolsillo posterior de 3 compartimentos, Cuello alto
+- GORE-TEX INFINIUM con tecnología WINDSTOPPER: cortaviento, altamente resistente al agua y extremadamente transpirable
+- Talle cómodo para mayor libertad de movimiento/Corte específico para ciclismo
 
 [Visítala!!!](https://www.amazon.es/dp/B082YFHFF7/?tag=tolees-21)

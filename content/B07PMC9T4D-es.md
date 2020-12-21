@@ -26,8 +26,8 @@ Tienes [Axe Desodorante Antitranspirante Gold Duplo Ahorro - Paquetes de 2 x 150
 🔎:
 
 - Protección anti manchas contra el sudor
-- Dermatológicamente comprobado
 - Axe Antitranspirante Gold
+- Dermatológicamente comprobado
 - Mantente fresco por más tiempo
 
 [Comprar!!!](https://www.amazon.es/dp/B07PMC9T4D/?tag=tolees-21)

@@ -25,10 +25,10 @@ Ahora mismo tienes [Sony SEL85F18 - Teleobjetivo  teleobjetivo prime de montura 
 
 🔎:
 
-- Un motor lineal para conseguir un enfoque preciso y silencioso
-- Teleobjetivo prime de alcance medio
 - Diseño resistente al polvo y la humedad
-- Apertura circular de 9 láminas para un atractivo efecto de desenfoque
+- Teleobjetivo prime de alcance medio
+- Un motor lineal para conseguir un enfoque preciso y silencioso
 - Cristal ED con compensación de distorsión cromática
+- Apertura circular de 9 láminas para un atractivo efecto de desenfoque
 
 [Visítala!!!](https://www.amazon.es/dp/B06VTFTZ17/?tag=tolees-21)

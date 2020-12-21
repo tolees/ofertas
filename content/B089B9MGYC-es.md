@@ -25,9 +25,9 @@ Tienes [Funko- Pop Star Clone Wars-Ahsoka Figura Coleccionable  Multicolor  5202
 
 🔎:
 
-- Funko POP! El juguete del año 2018
 - La figura mide 9 cm y se envía en una caja ilustrada con ventana
 - ¡Descúbre otras figuras de la colección Star Wars y colecciónalas todas!
+- Funko POP! El juguete del año 2018
 - De la colección Clone Wars, Ahsoka como figura de vinilo POP de Funko
 
 [Comprar!!!](https://www.amazon.es/dp/B089B9MGYC/?tag=tolees-21)

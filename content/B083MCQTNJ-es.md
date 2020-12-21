@@ -25,8 +25,8 @@ En este momento está [Funko- Pop Movies: Corpse Bride-Emily Figura Coleccionabl
 
 🔎:
 
-- Descúbre otras figuras de la colección corpse bride y colecciónalas todas
 - La figura mide 9 cm y se envía en una caja ilustrada con ventana
 - De la colección corpse bride, emily como figura de vinilo pop de funko
+- Descúbre otras figuras de la colección corpse bride y colecciónalas todas
 
 [Aquí!!!](https://www.amazon.es/dp/B083MCQTNJ/?tag=tolees-21)
