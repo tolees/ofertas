@@ -25,12 +25,12 @@ Ahora mismo tienes [VTech Little Love - Dulce Gatito  Muñeca interactiva Que Ha
 
 🔎:
 
-- Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas específicas para productos tecnológicos
+- Versión española
 - Enseña las letras a través de sus más de 20 sonidos, frases y canciones
-- Dulce muñeca interactiva disfrazada de gatito
 - Se puede lavar, módulo electrónico fácilmente extraíble
 - Tiene voz, pulsa el botón luminoso de su barriguita para escuchar qué cuidados necesita y para aprender sobre los gatitos
+- Dulce muñeca interactiva disfrazada de gatito
 - Existen otros dos modelos con distinta personalidad, voz y enseñanzas
-- Versión española
+- Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas específicas para productos tecnológicos
 
 [Visítala!!!](https://www.amazon.es/dp/B083VLXNHH/?tag=tolees-21)

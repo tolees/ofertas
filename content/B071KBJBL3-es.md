@@ -26,9 +26,9 @@ Ahora mismo tienes [Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa e
 🔎:
 
 - Cristal: cristal mineral
+- Pantalla: analógica
 - Material de la correa: caucho
 - Estilo: pulsera
-- Pantalla: analógica
 - Material: acero inoxidable
 
 [Visítala!!!](https://www.amazon.es/dp/B071KBJBL3/?tag=tolees-21)

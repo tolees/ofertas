@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'POP! Bobble - Daredevil: Elektra al 33.36 % de descuento'
-date: 2020-12-17 12:41:24
+date: 2020-12-21 08:49:25
 image: 'https://m.media-amazon.com/images/I/51RvE0vN1kL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LEJD9CG/?tag=tolees-21'
 descuento: '33.36'
-average: '9.356973684210523'
+average: '9.373205128205125'
 ---
 
 Está [POP! Bobble - Daredevil: Elektra](https://www.amazon.es/dp/B01LEJD9CG/?tag=tolees-21) con 33.36 de descuento por 9.99 EUR (original: 14.99 EUR) en el siguiente enlace!

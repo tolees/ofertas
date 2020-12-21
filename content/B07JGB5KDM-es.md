@@ -25,10 +25,10 @@ Tienes [Until Dawn Hits - Versión 16](https://www.amazon.es/dp/B07JGB5KDM/?tag=
 
 ℹ️:
 
-- Género: supervivencia/horror
-- Clasificación PEGI: 18
 - Plataforma: PlayStation 4
-- Rango ESRB: M (maduro)
+- Género: supervivencia/horror
 - Edición del juego: básica
+- Clasificación PEGI: 18
+- Rango ESRB: M (maduro)
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JGB5KDM/?tag=tolees-21)

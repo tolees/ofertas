@@ -25,10 +25,10 @@ Tienes [Second Son Hits - Edición Infamous  Versión 12](https://www.amazon.es/
 
 ℹ️:
 
+- Género: acción/aventura
+- Clasificación PEGI: 16
 - Plataforma: PlayStation 4
 - Rango ESRB: T (adolescente)
-- Clasificación PEGI: 16
-- Género: acción/aventura
 - Edición del juego: básica
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FF7X37N/?tag=tolees-21)

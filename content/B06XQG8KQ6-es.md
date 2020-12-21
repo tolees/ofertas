@@ -25,10 +25,10 @@ Ahora mismo tienes [Yizhet Adaptador de Red USB Super Velocidad USB 3.0 to RJ45 
 
 🔎:
 
-- ☀Soporte los sistemas operativos de Windows10, Windows 7 (32/64 bits), Windows 8 (32/64 bits), Windows 8.1 (32/64 bits), Windows Vista (32/64 bits), XP, Mac OS y Linux.
 - ☀Gracias a sus dimensiones reducidas, resulta bastante portátil que permite llevarse en una bolsa o mochila a cualquier lugar.
-- ☀Para Windows 8/8.1/10, instala automáticamente el programa, otros sistemas pueden instalar manualmente el controlador incorporado de la tarjeta de red (sin necesidad de descargar) para usar, muy conveniente, la velocidad de la red es muy estable.
-- ☀USB 3.0 Ethernet adaptador de red premite reemplazar o agregar un puerto de Ethernet para Macbook, mac y windows ordenadores, laptops y etc.
+- ☀Soporte los sistemas operativos de Windows10, Windows 7 (32/64 bits), Windows 8 (32/64 bits), Windows 8.1 (32/64 bits), Windows Vista (32/64 bits), XP, Mac OS y Linux.
 - ☀El adaptador de tarjeta de red externa puede proporcionar una velocidad de 1000Mbps por medio del USB puertos en el pc u ordenador compatible.
+- ☀USB 3.0 Ethernet adaptador de red premite reemplazar o agregar un puerto de Ethernet para Macbook, mac y windows ordenadores, laptops y etc.
+- ☀Para Windows 8/8.1/10, instala automáticamente el programa, otros sistemas pueden instalar manualmente el controlador incorporado de la tarjeta de red (sin necesidad de descargar) para usar, muy conveniente, la velocidad de la red es muy estable.
 
 [Visítala!!!](https://www.amazon.es/dp/B06XQG8KQ6/?tag=tolees-21)

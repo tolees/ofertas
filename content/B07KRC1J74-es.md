@@ -25,10 +25,10 @@ Está [FitFlop Twiss Sandalias de Punta Descubierta Mujer  Rojo  Blush 668   38 
 
 ℹ️:
 
-- Tipo de tacón: Plano
+- Cierre: Sin cordones
+- Revestimiento: Cuero
 - Material exterior: Cuero
 - Material de la suela: Sintético
-- Revestimiento: Cuero
-- Cierre: Sin cordones
+- Tipo de tacón: Plano
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KRC1J74/?tag=tolees-21)

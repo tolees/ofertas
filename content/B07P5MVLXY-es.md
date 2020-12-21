@@ -26,7 +26,7 @@ Tienes [Joma Cleo II Pantalon Largo Deportivo  Hombre  Negro  L](https://www.ama
 ℹ️:
 
 - Largo cleo ii negro
-- Pantalones
 - Resto textil
+- Pantalones
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07P5MVLXY/?tag=tolees-21)

@@ -25,10 +25,10 @@ Tienes [The Last of us Hits - Versión 14](https://www.amazon.es/dp/B07FF8XJWT/?
 
 ℹ️:
 
-- Plataforma: PlayStation 4
 - Género: acción/aventura
+- Plataforma: PlayStation 4
+- Edición del juego: básica
 - Rango ESRB: M (maduro)
 - Clasificación PEGI: 18
-- Edición del juego: básica
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FF8XJWT/?tag=tolees-21)

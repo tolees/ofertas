@@ -25,8 +25,8 @@ Está [IMC Toys Cazafantasmas Evolution  Distribución 96318 ](https://www.amazo
 
 ℹ️:
 
+- Ponte las gafas 3D y los monstruos se multiplicarán
 - Consigue capturar más fantasmas y vampiros que tu rival
 - Proyecta vampiros y fantasmas
-- Ponte las gafas 3D y los monstruos se multiplicarán
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06XYMQM7R/?tag=tolees-21)

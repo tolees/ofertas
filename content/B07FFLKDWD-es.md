@@ -25,10 +25,10 @@ Está [Ratchet And Clank Hits - Versión 12](https://www.amazon.es/dp/B07FFLKDWD
 
 ℹ️:
 
-- Género: acción/aventura
 - Rango ESRB: T (adolescente)
-- Edición del juego: básica
+- Género: acción/aventura
 - Plataforma: PlayStation 4
+- Edición del juego: básica
 - Clasificación PEGI: 7
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FFLKDWD/?tag=tolees-21)
