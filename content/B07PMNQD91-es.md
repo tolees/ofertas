@@ -25,10 +25,10 @@ Está [SUNCLAY Arcilla Polimerica - 1.28KG/2.82LB 46 Colores Segura y No Tóxic
 
 ℹ️:
 
-- 🎏【Regalos Ideales】Los padres también pueden proporcionar arcilla como regalo de cumpleaños o como una herramienta de rompecabezas para los maestros. Los maestros también pueden usar la arcilla como herramienta de enseñanza para el desarrollo mental.
+- 🎏【Método de los Estereotipos】Fije el horno a 135 ° C (275 ° F), precaliente y hornee por 10-15 minutos, hierva agua fría y ponga la arcilla en agua hirviendo por 10-20 minutos. La arcilla tarda 24 horas en endurecerse por completo.
 - 🎏【Diseño Especial】Nuestra arcilla polimérica contiene 46 colores y es libre de combinar colores para satisfacer las necesidades de los niños de diferentes colores. Cada arcilla pesa 28 g.
 - 🎏【Material y Características】El material de arcilla es un PVC de alta calidad, inodoro, no pegajoso, seguro y no tóxico, con buena flexibilidad y dureza, fácil de formar después de hornear.
-- 🎏【Método de los Estereotipos】Fije el horno a 135 ° C (275 ° F), precaliente y hornee por 10-15 minutos, hierva agua fría y ponga la arcilla en agua hirviendo por 10-20 minutos. La arcilla tarda 24 horas en endurecerse por completo.
+- 🎏【Regalos Ideales】Los padres también pueden proporcionar arcilla como regalo de cumpleaños o como una herramienta de rompecabezas para los maestros. Los maestros también pueden usar la arcilla como herramienta de enseñanza para el desarrollo mental.
 - 🎏【Desarrollo de Habilidades】El proceso de modelado en arcilla mejora la capacidad de las herramientas de los niños para usar y aprender, desarrollar su imaginación y creatividad y mejorar su memoria.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07PMNQD91/?tag=tolees-21)

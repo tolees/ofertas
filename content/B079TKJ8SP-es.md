@@ -1,28 +1,34 @@
 ---
 layout: post
-title: 'Descuento del 63.04 % en Columbia Silver Ridge II Pantalones de S'
-date: 2020-10-18 02:55:50
+title: 'Columbia Silver Ridge II Pantalones de S con un 66.17 % de descuento'
+date: 2020-12-21 17:49:57
 image: 'https://m.media-amazon.com/images/I/31G+0YcBVSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B079TKJ8SP-es'
-actualPrice: 27.72 EUR
+actualPrice: 25.37 EUR
 currency: EUR
-price: 27.72
+price: 25.37
 comparePrice: 74.99 EUR
 prodname: 'Columbia Silver Ridge II Pantalones de Senderismo Convertibles  Hombre  Beige  Tusk   W30/L34'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079TKJ8SP/?tag=tolees-21'
-descuento: '63.04'
+descuento: '66.17'
+average: '26.948'
 ---
 
-Tienes [Columbia Silver Ridge II Pantalones de Senderismo Convertibles  Hombre  Beige  Tusk   W30/L34](https://www.amazon.es/dp/B079TKJ8SP/?tag=tolees-21) con un 63.04 % de descuento con precio de oferta de 27.72 EUR (original: 74.99 EUR) en el siguiente enlace!
+En este momento está [Columbia Silver Ridge II Pantalones de Senderismo Convertibles  Hombre  Beige  Tusk   W30/L34](https://www.amazon.es/dp/B079TKJ8SP/?tag=tolees-21) a 25.37 EUR (original: 74.99 EUR) (66.17 %  de descuento) en el siguiente enlace!
 
 [![Columbia Silver Ridge II Pantalones de S](https://m.media-amazon.com/images/I/31G+0YcBVSL._SL200_.jpg)](https://www.amazon.es/dp/B079TKJ8SP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Construcción parcialmente elástica en puños y cintura para una gran movilidad, Tecnología Omni-Shade con protección solar UPF 50
+- Durabilidad y confort gracias al material de nylon Ripstop transpirable y al tejido elástico, Capacidad de secado rápido gracias a la tecnología Omni-Wick
+- Contenido: 1x Silver Ridge II Pantalones de senderismo Convertibles para hombre, Beige (Tusk), W30/L34, Article 1794891
+- Piernas con cremallera para convertirlos en pantalones cortos de 25,4 cm, Transformación ideal para los largos días de aventuras al aire libre en condiciones variables
+- Pantalones de senderismo para hombres con capacidad de conversión rápida en pantalones cortos, Combinación ideal de transpiración y elasticidad
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B079TKJ8SP/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B079TKJ8SP/?tag=tolees-21)

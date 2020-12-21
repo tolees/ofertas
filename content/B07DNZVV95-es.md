@@ -25,10 +25,10 @@ Tienes [Eastpak Crew Single Monedero  13 Cm  Azul  Triple Denim ](https://www.am
 
 ℹ️:
 
-- 100 Percent polyester, with an authentic denim feel
+- Height: 67 cm, Width: 35.5 cm, Depth: 30 cm
 - Trolley style case, with easy carry padded handle grips and smooth wheels
 - Big double deck compartments, with integrated TSA lock and zip front pocket
-- Height: 67 cm, Width: 35.5 cm, Depth: 30 cm
 - Packs away flat when youre not using it
+- 100 Percent polyester, with an authentic denim feel
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DNZVV95/?tag=tolees-21)

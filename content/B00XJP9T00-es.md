@@ -26,9 +26,9 @@ Tienes [NIVEA Q10 Plus Crema Remodeladora + Reafirmante  1 x 300 ml   crema corp
 ℹ️:
 
 - Strengthen Skin - NIVEA body lotion strengthens the natural structure of the skin. Firming and strengthening body moisturiser for all skin types
-- Moisturising and Soothing - With this body lotion dry skin will be instantly moisturised. With NIVEA Q10. Skincare dermatologically approved
 - Method of Application - Simply apply the body cream all over your body. Regularly massage problematic areas which require special treatment
-- Q10 - Formula enriched with skins own coenzyme Q10, a powerful ingredient that works with your skin to improve its firmness and elasticity
 - Firming Formula - Spoil yourself with this rich and firming body lotion which helps to effectively firm, lift and tone skin for improved contours
+- Q10 - Formula enriched with skins own coenzyme Q10, a powerful ingredient that works with your skin to improve its firmness and elasticity
+- Moisturising and Soothing - With this body lotion dry skin will be instantly moisturised. With NIVEA Q10. Skincare dermatologically approved
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00XJP9T00/?tag=tolees-21)

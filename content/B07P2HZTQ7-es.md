@@ -25,7 +25,7 @@ Ahora mismo tienes [FM London Hyfresh Zipped Capucha  Azul  Navy 12   X-Large pa
 
 🔎:
 
-- Super soft fleece Lining
 - Hyfresh odour protection technology attacks odour-causing bacteria in your clothing helping you feel fresh all day long (eco-friendly)
+- Super soft fleece Lining
 
 [Visítala!!!](https://www.amazon.es/dp/B07P2HZTQ7/?tag=tolees-21)

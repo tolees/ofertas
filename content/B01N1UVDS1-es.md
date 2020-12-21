@@ -25,10 +25,10 @@ Está [Bergner Infinity Chef Sartén de Inducción para Crepes  Aluminio Forjado
 
 ℹ️:
 
-- Mango extra largo Chef fabricado en acero inoxidable con tecnología Cold Handle que ofrece una mayor seguridad y tacto frío, con revestimiento de silicona en negro
 - Su revestimiento antiadherente QuanTanium es es el primero y único antiadherente multi-capa con una mezcla de partículas de titanio: alta resistencia al rayado, la abrasión y el desgaste
 - También incorpora un Disco 100% Real Full Induction, permitiendo un mayor contacto con la fuente de calor y un tiempo de cocción mucho más rápido con un menor coste energético
-- La base es Full-induction (Inducción 360): permite una distribución uniformé del calor, minimizando el tiempo de cocción y con el consiguiente ahorro de energía. 100% compatible con todos los fuegos
 - La gama de sartenes Infinity está fabricada en aluminio forjado, ligero y muy resistente, el mejor material para retener el calor con mayor eficiencia
+- Mango extra largo Chef fabricado en acero inoxidable con tecnología Cold Handle que ofrece una mayor seguridad y tacto frío, con revestimiento de silicona en negro
+- La base es Full-induction (Inducción 360): permite una distribución uniformé del calor, minimizando el tiempo de cocción y con el consiguiente ahorro de energía. 100% compatible con todos los fuegos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01N1UVDS1/?tag=tolees-21)

@@ -25,10 +25,10 @@ En este momento está [Pokémon: Escudo](https://www.amazon.es/dp/B07PB4JFF8/?ta
 
 🔎:
 
-- Fenómeno Dinamax hace que los Pokémon adquieran un tamaño gigantesco y una fuerza increíble
-- Los Pokémon que aparecen cambian en función del sector donde os encontréis y el tiempo que haga
-- Descubrirás Pokémon Legendarios conocidos como Zacian y Zamazenta
 - Una emocionante aventura en los nuevos juegos de rol Pokémon Escudo
 - Podréis controlar la cámara y así buscar objetos y Pokémon con mayor facilidad
+- Los Pokémon que aparecen cambian en función del sector donde os encontréis y el tiempo que haga
+- Fenómeno Dinamax hace que los Pokémon adquieran un tamaño gigantesco y una fuerza increíble
+- Descubrirás Pokémon Legendarios conocidos como Zacian y Zamazenta
 
 [Aquí!!!](https://www.amazon.es/dp/B07PB4JFF8/?tag=tolees-21)

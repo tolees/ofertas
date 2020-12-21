@@ -25,9 +25,9 @@ Tienes [MISS MOLY Camisetas Mujer Manga Larga Tops Y Blusas Camisa Túnica Tops 
 
 🔎:
 
-- Estilo: casual, elegante,moda
-- Características: Botón, Cuello capucha, Color sólido, Manga larga， Manga de siete cuartos.
 - Por favor, consulte con cuidado nuestra tabla de tallas detalladas en la imagen de la izquierda antes de comprar.
+- Características: Botón, Cuello capucha, Color sólido, Manga larga， Manga de siete cuartos.
+- Estilo: casual, elegante,moda
 - Ocasiones: perfecto para la primavera, el otoño o el invierno, fácil de combinar con jeans, pantalones cortos, leggings flacos para una apariencia decente.
 - El material es muy suave y cómodo.
 

@@ -1,28 +1,34 @@
 ---
 layout: post
-title: 'Dungeons & Dragons- Adventure Begins  Ha al 25.01 % de descuento'
-date: 2020-11-29 14:20:19
+title: 'Dungeons & Dragons Comienza la Aventura  al 23.47 % de descuento'
+date: 2020-12-21 17:20:23
 image: 'https://m.media-amazon.com/images/I/5164ZSoHCfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B08321CFTB-es'
-actualPrice: 22.49 EUR
+actualPrice: 22.95 EUR
 currency: EUR
-price: 22.49
+price: 22.95
 comparePrice: 29.99 EUR
-prodname: 'Dungeons & Dragons- Adventure Begins  Hasbro E9418105 '
+prodname: 'Dungeons & Dragons Comienza la Aventura  Color  E9418105 '
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08321CFTB/?tag=tolees-21'
-descuento: '25.01'
+descuento: '23.47'
+average: '22.72'
 ---
 
-Ahora mismo tienes [Dungeons & Dragons- Adventure Begins  Hasbro E9418105 ](https://www.amazon.es/dp/B08321CFTB/?tag=tolees-21) a 22.49 EUR (original: 29.99 EUR) (25.01 %  de descuento) en el siguiente enlace!
+Está [Dungeons & Dragons Comienza la Aventura  Color  E9418105 ](https://www.amazon.es/dp/B08321CFTB/?tag=tolees-21) con 23.47 de descuento por 22.95 EUR (original: 29.99 EUR) en el siguiente enlace!
 
-[![Dungeons & Dragons- Adventure Begins  Ha](https://m.media-amazon.com/images/I/5164ZSoHCfL._SL200_.jpg)](https://www.amazon.es/dp/B08321CFTB/?tag=tolees-21)
+[![Dungeons & Dragons Comienza la Aventura ](https://m.media-amazon.com/images/I/5164ZSoHCfL._SL200_.jpg)](https://www.amazon.es/dp/B08321CFTB/?tag=tolees-21)
 
 ℹ️:
 
+- pueden elegir y personalizar a sus personajes usando las 4 figuras que se corresponden con cada héroe
+- Este juego de mesa de fantasía es un portal al universo mágico de Dungeons & Dragons
+- Diseñado para 2-4 jugadores a partir de 10 años
+- luchar contra monstruos emblemáticos de D&D
+- experimentar una nueva aventura cada vez.
 
-[Visítala!!!](https://www.amazon.es/dp/B08321CFTB/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B08321CFTB/?tag=tolees-21)

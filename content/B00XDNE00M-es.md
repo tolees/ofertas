@@ -25,9 +25,9 @@ Tienes [Hero Muesly Chocolate Negro  1 paquete con 6 barritas x 23 g](https://ww
 
 ℹ️:
 
-- Contiene Leche o derivados de la leche (lactosa)
-- Sin colorantes ni conservantes
 - Muesly chocolate negro
+- Sin colorantes ni conservantes
 - Con cereales nutritivos
+- Contiene Leche o derivados de la leche (lactosa)
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00XDNE00M/?tag=tolees-21)
