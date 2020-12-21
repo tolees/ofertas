@@ -25,8 +25,8 @@ Ahora mismo tienes [Puma Liga Training Pant Core Pantalones  Hombre  Negro Negro
 
 🔎:
 
-- DryCELL: material altamente funcional que evacúa el sudor
 - Refuerzo visible en la entrepierna
+- DryCELL: material altamente funcional que evacúa el sudor
 - Corte normal
 - Confección anatómica
 
