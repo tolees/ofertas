@@ -25,10 +25,10 @@ Tienes [Shadow Fall Hits - Edición Killzone  Versión 13](https://www.amazon.es
 
 ℹ️:
 
-- Edición del juego: básica
 - Clasificación PEGI: 18
-- Género: de disparos
+- Edición del juego: básica
 - Rango ESRB: M (maduro)
+- Género: de disparos
 - Plataforma: PlayStation 4
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FFD6R2D/?tag=tolees-21)

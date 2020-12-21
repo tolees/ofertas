@@ -25,9 +25,9 @@ Ahora mismo tienes [BAUSCH + LOMB - Biotrue® Solución Única - Kit viaje Pack 
 
 🔎:
 
+- Incluye estuche portalentes
 - Formato de viaje
 - Usada diariamente, la solución disuelve las proteínas y limpia, suaviza y elimina las acumulaciones de partículas y residuos de las lentes de contacto blandas
-- Incluye estuche portalentes
 - Ayuda a prevenir la formación de depósitos sobre la superficie de las lentes que puedan irritar el ojo; destruye los microorganismos perjudiciales que se puedan acumular en la lente
 - Mientras las lentes están sumergidas en la solución, la fórmula envuelve la lente en una capa de protección que contribuye a que se sienta cómodo con ellas durante todo el día
 

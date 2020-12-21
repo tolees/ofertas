@@ -25,13 +25,13 @@ Está [BaByliss E837E Cortapelos para cara  cabello y cuerpo  con cuchillas prof
 
 ℹ️:
 
-- Guía de precisión con 6 posiciones: 0,5 a 3 mm
-- Recortador para nariz y oreja
-- Cabezal cuerpo: doble cabezal + peine guía
-- 2 guías de corte: 2-14 mm y 3-15 mm
 - Varios cabezales de afeitado para cara y cabello
-- Waterproof: resistente al agua
-- Cuchillas auto lubricantes 32 mm para cabello y barba
+- Recortador para nariz y oreja
+- Guía de precisión con 6 posiciones: 0,5 a 3 mm
 - Uso con o sin cable: 45 minutos de autonomía
+- Cabezal cuerpo: doble cabezal + peine guía
+- Cuchillas auto lubricantes 32 mm para cabello y barba
+- Waterproof: resistente al agua
+- 2 guías de corte: 2-14 mm y 3-15 mm
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00BJH46JE/?tag=tolees-21)

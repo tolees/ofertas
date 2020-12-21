@@ -25,10 +25,10 @@ Tienes [Little Big Planet 3 Hits - Versión 14](https://www.amazon.es/dp/B07FLWC
 
 ℹ️:
 
+- Clasificación PEGI: 7
 - Rango ESRB: T (adolescente)
 - Edición del juego: básica
-- Plataforma: PlayStation 4
-- Clasificación PEGI: 7
 - Género: acción/aventura
+- Plataforma: PlayStation 4
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FLWC8TX/?tag=tolees-21)

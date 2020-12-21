@@ -25,9 +25,9 @@ Está [Lotus Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxida
 
 ℹ️:
 
+- - Cristal: Cristal Mineral
 - - Color de la caja: Gris
 - Carcasa
-- - Cristal: Cristal Mineral
 - - Material de la Carcasa: Acero inoxidable
 - - Forma de la Carcasa: Redondo
 

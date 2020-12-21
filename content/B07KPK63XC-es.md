@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko- Pop Deluxe: Game of S10: Tyrion S al 48.00 % de descuento'
-date: 2020-12-20 07:11:35
+date: 2020-12-21 07:52:23
 image: 'https://m.media-amazon.com/images/I/41Kc-2gKrYL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KPK63XC/?tag=tolees-21'
 descuento: '48.00'
-average: '19.97'
+average: '19.96153846153846'
 ---
 
 Está [Funko- Pop Deluxe: Game of S10: Tyrion Sitting on Iron Throne Figura Coleccionable  Multicolor  37404 ](https://www.amazon.es/dp/B07KPK63XC/?tag=tolees-21) con 48.00 de descuento por 19.86 EUR (original: 38.19 EUR) en el siguiente enlace!
@@ -25,10 +25,10 @@ Está [Funko- Pop Deluxe: Game of S10: Tyrion Sitting on Iron Throne Figura Cole
 
 ℹ️:
 
-- Game of thrones s10
-- De la colección game of thrones, tyrion como figura exclusiva de vinilo pop deluxe de funko
-- Juguete del año 2018
-- Funko pop deluxe
 - Tyrion Sitting on Iron Throne
+- De la colección game of thrones, tyrion como figura exclusiva de vinilo pop deluxe de funko
+- Funko pop deluxe
+- Juguete del año 2018
+- Game of thrones s10
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KPK63XC/?tag=tolees-21)

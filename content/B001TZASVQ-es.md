@@ -25,10 +25,10 @@ Está [Nikka - Whisky Japonés From The Barrel  50 cl](https://www.amazon.es/dp/
 
 ℹ️:
 
+- Potente y firme. Especiado. Con notas de madera. Recuerdos de fruta madura, manzana caramelizada y flores. Final largo.
 - Origen: Miyagikyo/Yoichi
 - Graduación: 51,4% vol.
-- Potente y firme. Especiado. Con notas de madera. Recuerdos de fruta madura, manzana caramelizada y flores. Final largo.
-- Para disfrutar sólo con hielo, con agua o en formato cóctel con un refrescante Horses Neck.
 - Ideal para combinar con quesos curados, comidas grasas y chocolates.
+- Para disfrutar sólo con hielo, con agua o en formato cóctel con un refrescante Horses Neck.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B001TZASVQ/?tag=tolees-21)

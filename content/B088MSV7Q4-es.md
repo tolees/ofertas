@@ -26,9 +26,9 @@ Tienes [Mymy City- Funny Shopping  Set de Tiendas de Juguete con Accesorios  Fam
 ℹ️:
 
 - Mymy Funny Shopping es un set compuesto por dos tiendecitas con las que tu peque podrá hacer crecer su ciudad y tener sus propios negocios: una cafetería y una peluquería de animales
+- Este set incluye 2 tiendecitas: la cafetería y la peluquería de animales; además trae más de 35 accesorios realistas
 - Mymy City es la ciudad donde tu peque lo decide todo; podrá escoger su familia, decorar su casa y vivir mil aventuras haciendo crecer su ciudad
 - Además el playset incluye accesorios urbanos como buzón, banco, carteles de calles o plantas; podrán personalizar su tienda como quieran, y pueden conectarlas juntas, separadas o incluso hacer una esquina para crear la avenida a su gusto
 - Recomendado para niños a partir de 4 años; ayuda a desarrollar su creatividad, sociabilidad, imaginación y habilidades manuales
-- Este set incluye 2 tiendecitas: la cafetería y la peluquería de animales; además trae más de 35 accesorios realistas
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B088MSV7Q4/?tag=tolees-21)
