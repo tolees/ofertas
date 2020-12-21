@@ -25,13 +25,13 @@ Ahora mismo tienes [PUMA ICRA Trainer SD  Zapatillas Unisex Adulto  Negro  Black
 
 🔎:
 
-- Anchura del zapato: Normal
-- Revestimiento: Sintético
-- Composición: Veloursleder, Textil
-- Material exterior: Cuero
-- Tipo de tacón: Plano
-- Cierre: Cordones
 - Altura del tacón: 2 centímetros
+- Tipo de tacón: Plano
+- Material exterior: Cuero
+- Cierre: Cordones
+- Composición: Veloursleder, Textil
 - Material de la suela: Goma
+- Revestimiento: Sintético
+- Anchura del zapato: Normal
 
 [Visítala!!!](https://www.amazon.es/dp/B015OJSDN2/?tag=tolees-21)

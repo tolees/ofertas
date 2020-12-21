@@ -25,10 +25,10 @@ Está [PhD Smart Bar Brownie De Chocolate - 12 Unidades  12X64G   770 g](https:/
 
 ℹ️:
 
-- Las barras Smart Bar tienen un núcleo de proteínas suaves, rodeadas de caramelo
-- Suave, crujiente, que se derrite tiernamente, increíblemente sabroso
-- Una barra (64 g) tiene alredor de 238 calorías, 20 g de proteína, 20 g de carbohidratos de los cuales soólo 2 g de azúcar, puede variar ligeramente dependiendo part gusto
-- PhD Smart Bar es una barra energética alta en proteínas
 - Disponible en muchos sabores deliciosos
+- Las barras Smart Bar tienen un núcleo de proteínas suaves, rodeadas de caramelo
+- PhD Smart Bar es una barra energética alta en proteínas
+- Una barra (64 g) tiene alredor de 238 calorías, 20 g de proteína, 20 g de carbohidratos de los cuales soólo 2 g de azúcar, puede variar ligeramente dependiendo part gusto
+- Suave, crujiente, que se derrite tiernamente, increíblemente sabroso
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06XWRRJVT/?tag=tolees-21)

@@ -25,9 +25,9 @@ Tienes [Kerzo Champú Anticaída Fortificante para Cabellos Normales - 400 ml](h
 
 🔎:
 
-- Estimula el cuero cabelludo
 - El cabello es más resistente
-- Revitaliza el cabello
 - Eficacia científicamente demostrada
+- Estimula el cuero cabelludo
+- Revitaliza el cabello
 
 [Comprar!!!](https://www.amazon.es/dp/B01LYIJA64/?tag=tolees-21)

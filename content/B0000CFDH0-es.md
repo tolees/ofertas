@@ -26,8 +26,8 @@ Tienes [Intenso CD-R 700Mb 52x   25 discos ](https://www.amazon.es/dp/B0000CFDH0
 ℹ️:
 
 - El tiempo de grabación es de 80 minutos
-- El diámetro del disco óptico es de 120 mm
-- Cada CD tiene una capacidad de 700 MB
 - Paquete de 25 CDs imprimibles
+- Cada CD tiene una capacidad de 700 MB
+- El diámetro del disco óptico es de 120 mm
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0000CFDH0/?tag=tolees-21)

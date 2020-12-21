@@ -25,8 +25,8 @@ Tienes [Royal Canin C-09026 S.N. Maltese - 1.5 Kg](https://www.amazon.es/dp/B004
 
 ℹ️:
 
+- Comida para perros de edad adulta
 - Para perros de tamaño pequeño de 1 a 10 kg
 - Específico para raza Bichón Maltés
-- Comida para perros de edad adulta
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B004VK6P0E/?tag=tolees-21)

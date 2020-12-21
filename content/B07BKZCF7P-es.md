@@ -25,10 +25,10 @@ Ahora mismo tienes [Paladone Products Harry Potter Bell Jar Light Hagrid 13 cm D
 
 🔎:
 
-- GEEK LIGHT: Fans of the Harry Potter books and movies will love this Hagrid light This is a great themed bedroom decoration for kids; tweens; and teens
-- ETHICAL SUPPLIER: We Carefully select our suppliers: We pride ourselves on a strong ethical trading practice We constantly review and audit materials used; production and worker well-being
 - A UNIQUE IDEA: Light up the room and have your favourite gamekeeper by your side A cute lamp for fans of the Harry Potter series; this light is perfect for use on your desk; shelves; or bedside table
-- OFFICIALLY LICENSED: This is an officially licensed item with quality craftsmanship The Harry Potter Mini Bell Jar Light is 13cm (5") tall and is battery powered (2 AAA batteries not included)
 - LIGHT THE NIGHT: This Hagrid Mini Bell Jar Light features an adorable caricature figurine of Professor Rubeus Hagrid himself standing inside an illuminating bell jar
+- ETHICAL SUPPLIER: We Carefully select our suppliers: We pride ourselves on a strong ethical trading practice We constantly review and audit materials used; production and worker well-being
+- GEEK LIGHT: Fans of the Harry Potter books and movies will love this Hagrid light This is a great themed bedroom decoration for kids; tweens; and teens
+- OFFICIALLY LICENSED: This is an officially licensed item with quality craftsmanship The Harry Potter Mini Bell Jar Light is 13cm (5") tall and is battery powered (2 AAA batteries not included)
 
 [Visítala!!!](https://www.amazon.es/dp/B07BKZCF7P/?tag=tolees-21)

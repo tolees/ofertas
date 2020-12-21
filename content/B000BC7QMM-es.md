@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'D-Link DGS-105 - Switch de red  5 puerto al 43.31 % de descuento'
-date: 2020-12-19 12:38:10
+date: 2020-12-21 14:08:57
 image: 'https://m.media-amazon.com/images/I/3147mnzyuGL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,18 +16,18 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000BC7QMM/?tag=tolees-21'
 descuento: '43.31'
-average: '21.219583333333333'
+average: '21.141954545454542'
 ---
 
-Está [D-Link DGS-105 - Switch de red  5 puertos Gigabit RJ-45  10/100/1000 Mbps  chasis metálico  IGMP snooping  autosensing  priorización de tráfico QoS 802.1p  color negro](https://www.amazon.es/dp/B000BC7QMM/?tag=tolees-21) con 43.31 de descuento por 16.95 EUR (original: 29.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [D-Link DGS-105 - Switch de red  5 puertos Gigabit RJ-45  10/100/1000 Mbps  chasis metálico  IGMP snooping  autosensing  priorización de tráfico QoS 802.1p  color negro](https://www.amazon.es/dp/B000BC7QMM/?tag=tolees-21) a 16.95 EUR (original: 29.9 EUR) (43.31 %  de descuento) en el siguiente enlace!
 
 [![D-Link DGS-105 - Switch de red  5 puerto](https://m.media-amazon.com/images/I/3147mnzyuGL._SL200_.jpg)](https://www.amazon.es/dp/B000BC7QMM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 - Jumbo frames: Soporta tramas de datos de 9000 bytes
 - IGMP Snooping: si tienes servicio de TV por Internet, el tráfico de datos por tu red estará bajo control, sin bajadas de rendimiento para el resto de dispositivos
 - Enchufar y listo, no necesita configuración alguna
 - Incorpora la tecnología D-Link Green, hasta un 80% menos de consumo de energía
 
-[Ver la oferta!!](https://www.amazon.es/dp/B000BC7QMM/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B000BC7QMM/?tag=tolees-21)

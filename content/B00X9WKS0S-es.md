@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 48.82 % en L Oreal Elnett Protector Calor Spray Fij'
-date: 2020-12-14 19:04:27
+date: 2020-12-21 13:54:59
 image: 'https://m.media-amazon.com/images/I/31FLfxc9TRL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Tienes [L Oreal Elnett Protector Calor Spray Fijador Cabello Liso - 170 ml](http
 
 ℹ️:
 
-- Protege los daños del calor hasta 230 °c
-- Suaviza el pelo
 - Fórmula ligera que cubre el cabello de la raíz a las puntas
+- Suaviza el pelo
+- Protege los daños del calor hasta 230 °c
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00X9WKS0S/?tag=tolees-21)

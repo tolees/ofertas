@@ -26,9 +26,9 @@ Ahora mismo tienes [Otterbox Defender - Funda Robusta anticaídas para Samsung G
 🔎:
 
 - Shield Stand supports viewing in portrait or landscape mode and accommodates a natural typing angle
+- Port covers keep out dust and debris
 - Robust, 3-layer protection withstands drops, bumps and shocks
 - OtterBox Certified Drop+ Protection means 24+ tests over 238+ hours, which certify that this rugged, low-profile case performs when it matters most
 - 3-layer, drop proof case, solid inner shell, resilient outer slipcover
-- Port covers keep out dust and debris
 
 [Visítala!!!](https://www.amazon.es/dp/B07HMGQSKS/?tag=tolees-21)

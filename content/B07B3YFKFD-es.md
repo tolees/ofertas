@@ -25,9 +25,9 @@ En este momento está [FILA Disruptor  Zapatillas para Hombre  White  45 EU](htt
 
 🔎:
 
+- Fila Shoes Disruptor Low
+- Synthetic Leather
 - Disruptor Low
 - Men
-- Synthetic Leather
-- Fila Shoes Disruptor Low
 
 [Aquí!!!](https://www.amazon.es/dp/B07B3YFKFD/?tag=tolees-21)

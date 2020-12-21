@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 27.71 % en Candy CMXG 20DW Microondas con Grill y C'
-date: 2020-11-26 13:35:01
+title: 'Candy CMXG 20DW Microondas con Grill y C con un 27.71 % de descuento'
+date: 2020-12-21 13:43:19
 image: 'https://m.media-amazon.com/images/I/417lKJokhBL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,13 +16,14 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N09DY8M/?tag=tolees-21'
 descuento: '27.71'
+average: '74.87690476190477'
 ---
 
-Tienes [Candy CMXG 20DW Microondas con Grill y Cook In App  40 Programas Automáticos  700 W  20 litros  Blanco  36 x 44 x 25 8](https://www.amazon.es/dp/B01N09DY8M/?tag=tolees-21) con un 27.71 % de descuento con precio de oferta de 75.9 EUR (original: 105.0 EUR) en el siguiente enlace!
+En este momento está [Candy CMXG 20DW Microondas con Grill y Cook In App  40 Programas Automáticos  700 W  20 litros  Blanco  36 x 44 x 25 8](https://www.amazon.es/dp/B01N09DY8M/?tag=tolees-21) a 75.9 EUR (original: 105.0 EUR) (27.71 %  de descuento) en el siguiente enlace!
 
 [![Candy CMXG 20DW Microondas con Grill y C](https://m.media-amazon.com/images/I/417lKJokhBL._SL200_.jpg)](https://www.amazon.es/dp/B01N09DY8M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B01N09DY8M/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B01N09DY8M/?tag=tolees-21)

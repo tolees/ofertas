@@ -25,10 +25,10 @@ Está [Bourjois Velvet The Pencil - Pintalabios Tono 16 Rouge Di vin  3g](https:
 
 ℹ️:
 
-- Preciso como un perfilador
 - Confort extremo con su textura suave y aterciopelada
-- Labial mate, intenso, preciso y de larga duración
-- En formato jumbo, ideal para perfilar tus labios
 - Color intenso y alta cobertura en una sola pasada
+- En formato jumbo, ideal para perfilar tus labios
+- Preciso como un perfilador
+- Labial mate, intenso, preciso y de larga duración
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07PSPR2F1/?tag=tolees-21)

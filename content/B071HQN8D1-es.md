@@ -25,10 +25,10 @@ Está [Izas Besiberri Chaqueta Urban  Hombre  Verde Militar  XL](https://www.ama
 
 ℹ️:
 
+- Quilted lining
 - Urban parka with ventral patch pockets
 - Detachable hood with zipper
-- Quilted lining
-- Central zip with hidden snaps pressure in the front
 - System drawstring hood and waist
+- Central zip with hidden snaps pressure in the front
 
 [Ver la oferta!!](https://www.amazon.es/dp/B071HQN8D1/?tag=tolees-21)

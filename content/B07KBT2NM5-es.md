@@ -25,9 +25,9 @@ Tienes [Raid - Night & Day anti mosquitos y hormigas eléctrico sin olor  contro
 
 ℹ️:
 
-- 200 horas de protección.
-- Sistema sin goteos: posibilidad de colocarlo en cualquier posición
-- Tecnología innovadora de arena comprimida: máxima eficacia y seguridad
 - Insecticida eléctrico: protección rápida y continua contra mosquitos comunes, mosquitos tigre, moscas y hormigas
+- Tecnología innovadora de arena comprimida: máxima eficacia y seguridad
+- Sistema sin goteos: posibilidad de colocarlo en cualquier posición
+- 200 horas de protección.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KBT2NM5/?tag=tolees-21)

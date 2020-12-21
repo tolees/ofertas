@@ -25,10 +25,10 @@ En este momento está [Kativa Alisado Brasileño - Con Keratina  Argán y Karit�
 
 🔎:
 
-- Sin sulfatos, libre de sales y parabenos, sin ser testado en animales. Con certificación cruelty free.
-- El pack contiene un champú pre-tratamiento 15ml, la máscara alisado 150ml, el Champú Post 30ml y el acondicionador 30ml.
+- Fórmula enriquecida con Aceite Orgánico de Argán, Manteca de Karité, Proteína de Keratina Vegetal, Aminoácidos y Gyoxilic. La Proteína de Keratina Vegetal con aminoácidos de trigo y soja, ayuda a hidratar, dar brillo y suavidad al cabello.
 - Hasta 12 semanas de duración. Fácil de aplicar. Libre de Formol, guanidina y vapores tóxicos. Resultado profesional.
 - Liso keratina profesional hecho en casa. El resultado es un cabello liso con movimiento natural, hidratado, brillante y sedoso.
-- Fórmula enriquecida con Aceite Orgánico de Argán, Manteca de Karité, Proteína de Keratina Vegetal, Aminoácidos y Gyoxilic. La Proteína de Keratina Vegetal con aminoácidos de trigo y soja, ayuda a hidratar, dar brillo y suavidad al cabello.
+- El pack contiene un champú pre-tratamiento 15ml, la máscara alisado 150ml, el Champú Post 30ml y el acondicionador 30ml.
+- Sin sulfatos, libre de sales y parabenos, sin ser testado en animales. Con certificación cruelty free.
 
 [Aquí!!!](https://www.amazon.es/dp/B00IRSMZR8/?tag=tolees-21)

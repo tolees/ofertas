@@ -25,8 +25,8 @@ Tienes [Now 500mg Inositol 100 Cápsulas 200 g](https://www.amazon.es/dp/B0002PU
 
 ℹ️:
 
-- Soporta una función saludable de membrana
 - Mantenimiento del balance celular de calcio
 - Apoya un sistema nervioso saludable
+- Soporta una función saludable de membrana
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0002PU5YO/?tag=tolees-21)

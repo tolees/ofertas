@@ -25,9 +25,9 @@ En este momento está [PhD Smart Bar Barritas Proteína Bizcocho de Chocolate bl
 
 🔎:
 
+- PhD Smart Bar es una barrita energética rica en proteínas y reducida en azúcar; envase de 12 barritas de 64 g, respectivamente
 - Una barrita (64 g) posee aprox. 238 calorías, 20 g de proteínas, 20 g de carbohidratos, de los cuales tan solo 2 g son azúcar, puede desviarse ligeramente según el sabor
 - Las barritas Smart Bar poseen un blando núcleo proteico, recubierto alrededor con caramelo y crispis de proteínas, y todo ello cubierto por una capa de chocolate
 - Suave, crujiente, fundente y suave, increíblemente delicioso y con tan solo 2 g de azúcar por barrita
-- PhD Smart Bar es una barrita energética rica en proteínas y reducida en azúcar; envase de 12 barritas de 64 g, respectivamente
 
 [Aquí!!!](https://www.amazon.es/dp/B0788LQYJG/?tag=tolees-21)

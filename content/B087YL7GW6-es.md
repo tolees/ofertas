@@ -25,10 +25,10 @@ Está [Jenga Super Mario Edition Game  Block Stacking Tower Game para los Fans d
 
 ℹ️:
 
+- JENGA JUEGO CON UN TWIST SUPER MARIO: Es un emocionante juego de Jenga con ilustraciones, temas y personajes inspirados en los populares videojuegos de Super Mario
 - No dejes que la torre se caiga: los jugadores mueven sus clavijas hacia arriba y las clavijas de sus oponentes hacia abajo mientras quitan y apilan bloques. Pero si la torre cae a medida que suben o apilan, pierden monedas y el juego termina
 - GIRA, STACK, COLECCIÓN MONEDAS: Gira el spinner para determinar el número de bloques que debes apilar, cuántas capas debes subir tu personaje de Super Mario, o si quieres revertir el juego o recoger las monedas.
-- JENGA JUEGO CON UN TWIST SUPER MARIO: Es un emocionante juego de Jenga con ilustraciones, temas y personajes inspirados en los populares videojuegos de Super Mario
-- BATALLA HASTA LA TOP: ¡Corre hasta la cima de la torre Jenga para luchar y derrotar a Bowser! Todos los jugadores suman sus puntos al final del juego y la puntuación más alta gana
 - SUPER MARIO FANS: Jenga: Super Mario Edition juego es un juego divertido y desafiante para los fans de Super Mario! Es un gran regalo de cumpleaños o vacaciones para jugadores y fans de Super Mario, a partir de 8 años.
+- BATALLA HASTA LA TOP: ¡Corre hasta la cima de la torre Jenga para luchar y derrotar a Bowser! Todos los jugadores suman sus puntos al final del juego y la puntuación más alta gana
 
 [Ver la oferta!!](https://www.amazon.es/dp/B087YL7GW6/?tag=tolees-21)

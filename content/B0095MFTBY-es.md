@@ -25,9 +25,9 @@ Tienes [Televés F4312300 Conector macho diámetro 9 5mm](https://www.amazon.es/
 
 ℹ️:
 
-- With a diameter of 9.5 mm
 - Gender: Male
-- To connect the antenna cable (coaxial cable) from the TV or tdt receiver, to the wall television socket
+- With a diameter of 9.5 mm
 - Shielded angled cei connector
+- To connect the antenna cable (coaxial cable) from the TV or tdt receiver, to the wall television socket
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0095MFTBY/?tag=tolees-21)

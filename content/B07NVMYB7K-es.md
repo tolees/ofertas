@@ -25,8 +25,8 @@ Ahora mismo tienes [SEGA Megadrive Mini](https://www.amazon.es/dp/B07NVMYB7K/?ta
 
 🔎:
 
-- Réplica en Miniatura de la SEGA Mega Drive
 - Instalación automática – Plug and Play!
+- Réplica en Miniatura de la SEGA Mega Drive
 - Incluye 42 juegos legendarios
 
 [Visítala!!!](https://www.amazon.es/dp/B07NVMYB7K/?tag=tolees-21)

@@ -26,8 +26,8 @@ Ahora mismo tienes [Neceser Pepe Jeans emi Adaptable  Azul  26x16x12 cms](https:
 🔎:
 
 - Adaptable a trolley para mayor comodidad
-- Dos compartimentos y tres bolsillos interiores, uno de ellos con cremallera, para llevar perfectamente ordenados los accesorios de aseo y los productos de belleza
-- Asa para encontrarlo fácilmente y colgarlo
 - Neceser de 26 cm x 16 cm x 12 cm fabricado en poliéster
+- Asa para encontrarlo fácilmente y colgarlo
+- Dos compartimentos y tres bolsillos interiores, uno de ellos con cremallera, para llevar perfectamente ordenados los accesorios de aseo y los productos de belleza
 
 [Visítala!!!](https://www.amazon.es/dp/B084R2KPNY/?tag=tolees-21)

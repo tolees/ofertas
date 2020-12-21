@@ -25,10 +25,10 @@ Tienes [Tetra EX 800 plus Set completo de filtro exterior](https://www.amazon.es
 
 ℹ️:
 
+- Limpieza cómoda y sencilla de los materiales filtrantes; especialmente potente y silencioso
 - Con ayuda de succión para una activación rápida del filtro y válvulas para una regulación precisa del caudal de agua
 - Proporciona un agua cristalina y saludable para los peces y asegura una fascinante experiencia acuarística; apto para acuarios de 100 a 300 litros
 - Sistema de válvulas de cierre de seguridad para aislar el filtro del circuito de agua; juntas ajustables para una alineación individual de las mangueras
-- Limpieza cómoda y sencilla de los materiales filtrantes; especialmente potente y silencioso
 - El set incorpora todo lo necesario, incluyendo los materiales filtrantes, para una puesta en marcha inmediata
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00I5IU0RM/?tag=tolees-21)

@@ -26,9 +26,9 @@ Está [Pattex No Mas Clavos Para Todo HighTack Adhesivo de montaje resistente a 
 ℹ️:
 
 - Gran resistencia – Este adhesivo de pared es flexible y garantiza una alta resistencia a los rayos UV y a las temperaturas extremas tanto en interiores como en exteriores.
-- Superficies húmedas – Este pegamento universal para reparación y montaje es perfecto para aplicarlo sobre superficies húmedas y cuenta con un fuerte poder de relleno.
-- Pegamento multimaterial – Este adhesivo se usa sobre múltiples materiales, como cerámica, azulejos, metal o plástico*, por ejemplo para montar muebles o reparar muebles.
-- Adhesión inmediata – Este pegamento blanco se aplica directamente y garantiza una adhesión inmediata y fuerte. No se contrae y no contiene disolventes.
 - Envío y detalles – Pattex No Mas Clavos Para Todo HighTack, adhesivo multiusos con fórmula sin disolventes, con agarre inmediato, blanco, 1 x 142 g tubo, n.º de artículo: 2501909
+- Superficies húmedas – Este pegamento universal para reparación y montaje es perfecto para aplicarlo sobre superficies húmedas y cuenta con un fuerte poder de relleno.
+- Adhesión inmediata – Este pegamento blanco se aplica directamente y garantiza una adhesión inmediata y fuerte. No se contrae y no contiene disolventes.
+- Pegamento multimaterial – Este adhesivo se usa sobre múltiples materiales, como cerámica, azulejos, metal o plástico*, por ejemplo para montar muebles o reparar muebles.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01KCEVQBK/?tag=tolees-21)

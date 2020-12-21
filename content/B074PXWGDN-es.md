@@ -25,10 +25,10 @@ Tienes [Hape International- Hape Cocinita Gourmet  Multicolor  Talla única  E31
 
 🔎:
 
+- Cocina de madera blanca
+- Número de piezas: 1
+- Desde 3 años
 - Valor educativo: Descubrimiento de la cocina por el juego de imitación; Trabajo de la agarre
 - Dimensiones (lxlxh): 55 x 32 x 70,5 cm
-- Desde 3 años
-- Número de piezas: 1
-- Cocina de madera blanca
 
 [Comprar!!!](https://www.amazon.es/dp/B074PXWGDN/?tag=tolees-21)

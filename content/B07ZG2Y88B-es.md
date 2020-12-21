@@ -26,9 +26,9 @@ En este momento está [Fairy Profesional Pastillas Lavavajillas Original Todo en
 🔎:
 
 - Mantiene un aroma limpio y fresco en tu lavavajillas
-- su acción limpiadora elimina a la primera hasta la grasa incrustada
 - Incorpora sal y ayuda al aclarado, al igual que protege el cristal y la plata
 - Elimina las manchas más difíciles y deja un brillo inigualable
+- su acción limpiadora elimina a la primera hasta la grasa incrustada
 - Cápsulas de lavavajillas Fairy Todo en 1
 
 [Aquí!!!](https://www.amazon.es/dp/B07ZG2Y88B/?tag=tolees-21)

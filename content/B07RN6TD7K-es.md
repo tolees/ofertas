@@ -25,10 +25,10 @@ Ahora mismo tienes [Sony Videoconsolas 300111377](https://www.amazon.es/dp/B07RN
 
 🔎:
 
-- La secuela del premiado Tom Clancys Ghost Recon Wildlands
-- Crea tu propio ghost y elige entre miles de opciones de personalización de equipamiento y armas
-- Lucha por tu supervivencia: tendrás que afrontar el nuevo desafío que suponen las pendientes escarpadas, las heridas que se acumulan y el cansancio
-- Resérvalo ahora y consigue el pack Sentinel Corp., que incluye el vehículo blindado Landscape MK.2, el fusil de asalto “Valor”, y el conjunto de blindaje pesado Sentinel MK.3, con un casco, un chaleco y unos pantalones
 - Experimenta con un sistema de clases completamente nuevo que te da libertad absoluta en la forma de jugar: asalto, francotirador, sigilo… ¡tú decides
+- La secuela del premiado Tom Clancys Ghost Recon Wildlands
+- Lucha por tu supervivencia: tendrás que afrontar el nuevo desafío que suponen las pendientes escarpadas, las heridas que se acumulan y el cansancio
+- Crea tu propio ghost y elige entre miles de opciones de personalización de equipamiento y armas
+- Resérvalo ahora y consigue el pack Sentinel Corp., que incluye el vehículo blindado Landscape MK.2, el fusil de asalto “Valor”, y el conjunto de blindaje pesado Sentinel MK.3, con un casco, un chaleco y unos pantalones
 
 [Visítala!!!](https://www.amazon.es/dp/B07RN6TD7K/?tag=tolees-21)

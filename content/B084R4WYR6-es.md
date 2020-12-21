@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko- Pop 18" Harry Potter S10 Figura C al 30.46 % de descuento'
-date: 2020-12-20 01:51:30
+date: 2020-12-21 14:47:28
 image: 'https://m.media-amazon.com/images/I/41yDRgWenEL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B084R4WYR6/?tag=tolees-21'
 descuento: '30.46'
-average: '96.67999999999999'
+average: '94.58666666666666'
 ---
 
 Está [Funko- Pop 18" Harry Potter S10 Figura Coleccionable  Multicolor  48054 ](https://www.amazon.es/dp/B084R4WYR6/?tag=tolees-21) con 30.46 de descuento por 90.4 EUR (original: 129.99 EUR) en el siguiente enlace!

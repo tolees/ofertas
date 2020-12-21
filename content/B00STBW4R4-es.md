@@ -25,9 +25,9 @@ Tienes [L Oréal Paris Men Expert - 24H Hydra Energetic cuidado hidratante anti-
 
 🔎:
 
-- Formulated with Vitamin CG and oxigen-cp technology
 - ultra-fresco, not oily, not sticky
 - Fight against the 5 signs of fatigue
+- Formulated with Vitamin CG and oxigen-cp technology
 - Action anti-fatiga throughout the day
 
 [Comprar!!!](https://www.amazon.es/dp/B00STBW4R4/?tag=tolees-21)

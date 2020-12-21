@@ -25,8 +25,8 @@ Tienes [Filtros reemplazables 20 PM2.5 para adultos](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- 20 Pc
 - 20 Pcs
+- 20 Pc
 - 20 Pcs
 - 20 Pcs
 - 20 Pcs

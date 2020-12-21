@@ -25,10 +25,10 @@ Tienes [Lexar 633x 32GB MicroSDHC UHS-I Tarjeta de Alto Rendimiento](https://www
 
 🔎:
 
-- Garantía limitada de 10 años para la tarjeta y garantía limitada de un año para el adaptador
-- Incluye tarjeta de alta velocidad clase 10 y adaptador sd
-- Captura, reproduce y transfiere rápidamente archivos multimedia, incluyendo 1080p full-hd, 3d y vídeo 4k
-- Aprovecha la tecnología uhs-i para una velocidad de transferencia de hasta 100mb/s (633x)
 - Solución de memoria premium para tabletas, video cámara s deportivas y smartphones
+- Aprovecha la tecnología uhs-i para una velocidad de transferencia de hasta 100mb/s (633x)
+- Incluye tarjeta de alta velocidad clase 10 y adaptador sd
+- Garantía limitada de 10 años para la tarjeta y garantía limitada de un año para el adaptador
+- Captura, reproduce y transfiere rápidamente archivos multimedia, incluyendo 1080p full-hd, 3d y vídeo 4k
 
 [Comprar!!!](https://www.amazon.es/dp/B07DGC64BM/?tag=tolees-21)

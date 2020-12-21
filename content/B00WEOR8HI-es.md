@@ -25,9 +25,9 @@ En este momento está [Aquoral Multidosis Gotas Oftalmologicas Lubricantes  10 m
 
 🔎:
 
-- Solución oftálmica con ácido hialurónico
-- Con propiedades lubricantes debido su viscosidad
 - Proporciona un efecto hidratante y estabiliza la película lagrimal
 - Alivia la irritación, sequedad, ardor y el estrés visual
+- Con propiedades lubricantes debido su viscosidad
+- Solución oftálmica con ácido hialurónico
 
 [Aquí!!!](https://www.amazon.es/dp/B00WEOR8HI/?tag=tolees-21)

@@ -25,9 +25,9 @@ Tienes [PhD Smart Bar Barritas Proteína Crujiente de caramelo  12 x 64g   31% P
 
 ℹ️:
 
-- Una barrita (64 g) posee aprox. 238 calorías, 20 g de proteínas, 20 g de carbohidratos, de los cuales tan solo 2 g son azúcar, puede desviarse ligeramente según el sabor
-- Las barritas Smart Bar poseen un blando núcleo proteico, recubierto alrededor con caramelo y crispis de proteínas, y todo ello cubierto por una capa de chocolate
 - Suave, crujiente, fundente y suave, increíblemente delicioso y con tan solo 2 g de azúcar por barrita
+- Las barritas Smart Bar poseen un blando núcleo proteico, recubierto alrededor con caramelo y crispis de proteínas, y todo ello cubierto por una capa de chocolate
+- Una barrita (64 g) posee aprox. 238 calorías, 20 g de proteínas, 20 g de carbohidratos, de los cuales tan solo 2 g son azúcar, puede desviarse ligeramente según el sabor
 - PhD Smart Bar es una barrita energética rica en proteínas y reducida en azúcar; envase de 12 barritas de 64 g, respectivamente
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XT45CPG/?tag=tolees-21)

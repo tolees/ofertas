@@ -25,9 +25,9 @@ Está [Maxell CR2032 3V - Pilas  Litio  Button/coin   paquete de 5 unidades](htt
 
 ℹ️:
 
-- Pila de botón CR2032
 - Voltaje de 3 V y capacidad de 210 mAh
 - Incluye 5 unidades
 - Producto 100% reciclable
+- Pila de botón CR2032
 
 [Ver la oferta!!](https://www.amazon.es/dp/B000YSQ7O6/?tag=tolees-21)

@@ -25,10 +25,10 @@ Tienes [5X Pila Alcalina Pilas 23A 12V L1028 Mn21 A23 Lrv08 Lr23 Mando y Multius
 
 ℹ️:
 
+- Modelos compatibles: A23 / LR23A / L1028 / LRV08 / MN21 / MS21 / RVO8 / P23GA / V23GA / GP23A / E23A / 8LR23 / K23A / 8LR932 / VR22 / 8F10R / EL12
+- Presentación en blister
+- Pilas Alcalinas de larga duración de 12V
 - Altura: 28.5 mm
 - Diámetro: 10.3 mm
-- Pilas Alcalinas de larga duración de 12V
-- Presentación en blister
-- Modelos compatibles: A23 / LR23A / L1028 / LRV08 / MN21 / MS21 / RVO8 / P23GA / V23GA / GP23A / E23A / 8LR23 / K23A / 8LR932 / VR22 / 8F10R / EL12
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00GZ3T5VQ/?tag=tolees-21)
