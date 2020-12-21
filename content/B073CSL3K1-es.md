@@ -19,11 +19,11 @@ descuento: '33.44'
 average: '199'
 ---
 
-Ahora mismo tienes [Medion MD 60690 - Ordenador portátil convertible de 11.6" HD  Intel Atom x5-Z8350  RAM de 4 GB  EMMC de 64 GB  Intel HD Graphics  Windows 10  púrpura - teclado QWERTY Español](https://www.amazon.es/dp/B073CSL3K1/?tag=tolees-21) a 199 EUR (original: 299 EUR) (33.44 %  de descuento) en el siguiente enlace!
+Está [Medion MD 60690 - Ordenador portátil convertible de 11.6" HD  Intel Atom x5-Z8350  RAM de 4 GB  EMMC de 64 GB  Intel HD Graphics  Windows 10  púrpura - teclado QWERTY Español](https://www.amazon.es/dp/B073CSL3K1/?tag=tolees-21) con 33.44 de descuento por 199 EUR (original: 299 EUR) en el siguiente enlace!
 
 [![Medion MD 60690 - Ordenador portátil con](https://images-eu.ssl-images-amazon.com/images/I/31mlOV1Er%2BL._SL200_.jpg)](https://www.amazon.es/dp/B073CSL3K1/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B073CSL3K1/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B073CSL3K1/?tag=tolees-21)

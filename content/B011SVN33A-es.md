@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Canton Godfather. Gangster Para Un P al 45.53 % de descuento'
+title: 'The Canton Godfather. Gangster Para Un P con un 45.53 % de descuento'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51NS7ciWufL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '45.53'
 average: '5'
 ---
 
-Ahora mismo tienes [The Canton Godfather. Gangster Para Un Pequeño Milagro [Blu-ray]](https://www.amazon.es/dp/B011SVN33A/?tag=tolees-21) a 5 EUR (original: 9.18 EUR) (45.53 %  de descuento) en el siguiente enlace!
+En este momento está [The Canton Godfather. Gangster Para Un Pequeño Milagro [Blu-ray]](https://www.amazon.es/dp/B011SVN33A/?tag=tolees-21) a 5 EUR (original: 9.18 EUR) (45.53 %  de descuento) en el siguiente enlace!
 
 [![The Canton Godfather. Gangster Para Un P](https://images-eu.ssl-images-amazon.com/images/I/51NS7ciWufL._SL200_.jpg)](https://www.amazon.es/dp/B011SVN33A/?tag=tolees-21)
 
 🔎:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B011SVN33A/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B011SVN33A/?tag=tolees-21)

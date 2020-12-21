@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 18.60 % en J&B Urban Honey Whisky Escocés - 700 ml'
+title: 'J&B Urban Honey Whisky Escocés - 700 ml con un 18.60 % de descuento'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41MHkzA6qjL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '18.60'
 average: '9.76'
 ---
 
-Tienes [J&B Urban Honey Whisky Escocés - 700 ml](https://www.amazon.es/dp/B00OKD3ZXC/?tag=tolees-21) con un 18.60 % de descuento con precio de oferta de 9.76 EUR (original: 11.99 EUR) en el siguiente enlace!
+En este momento está [J&B Urban Honey Whisky Escocés - 700 ml](https://www.amazon.es/dp/B00OKD3ZXC/?tag=tolees-21) a 9.76 EUR (original: 11.99 EUR) (18.60 %  de descuento) en el siguiente enlace!
 
 [![J&B Urban Honey Whisky Escocés - 700 ml](https://images-eu.ssl-images-amazon.com/images/I/41MHkzA6qjL._SL200_.jpg)](https://www.amazon.es/dp/B00OKD3ZXC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B00OKD3ZXC/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B00OKD3ZXC/?tag=tolees-21)

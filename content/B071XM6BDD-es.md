@@ -19,11 +19,11 @@ descuento: '20.00'
 average: '14.4'
 ---
 
-Ahora mismo tienes [FIND 18136 camisetas  Blanco  White   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B071XM6BDD/?tag=tolees-21) a 14.4 EUR (original: 18 EUR) (20.00 %  de descuento) en el siguiente enlace!
+Está [FIND 18136 camisetas  Blanco  White   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B071XM6BDD/?tag=tolees-21) con 20.00 de descuento por 14.4 EUR (original: 18 EUR) en el siguiente enlace!
 
 [![FIND 18136 camisetas  Blanco  White   42](https://images-eu.ssl-images-amazon.com/images/I/41DLLXTBBUL._SL200_.jpg)](https://www.amazon.es/dp/B071XM6BDD/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B071XM6BDD/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B071XM6BDD/?tag=tolees-21)

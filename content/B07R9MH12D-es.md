@@ -19,11 +19,11 @@ descuento: '20.00'
 average: '7.68'
 ---
 
-Está [Farmatint Spray instantáneo capilar Stop Raíces  color rubio claro - 75 ml](https://www.amazon.es/dp/B07R9MH12D/?tag=tolees-21) con 20.00 de descuento por 7.68 EUR (original: 9.6 EUR) en el siguiente enlace!
+Ahora mismo tienes [Farmatint Spray instantáneo capilar Stop Raíces  color rubio claro - 75 ml](https://www.amazon.es/dp/B07R9MH12D/?tag=tolees-21) a 7.68 EUR (original: 9.6 EUR) (20.00 %  de descuento) en el siguiente enlace!
 
 [![Farmatint Spray instantáneo capilar Stop](https://images-eu.ssl-images-amazon.com/images/I/41fPpOKNBWL._SL200_.jpg)](https://www.amazon.es/dp/B07R9MH12D/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07R9MH12D/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07R9MH12D/?tag=tolees-21)

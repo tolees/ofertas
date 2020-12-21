@@ -19,11 +19,11 @@ descuento: '52.60'
 average: '37.9'
 ---
 
-Ahora mismo tienes [Bugatti J94066n  Zapatillas para Mujer  Dorado  Gold 804   38 EU](https://www.amazon.es/dp/B01N8TJ4V1/?tag=tolees-21) a 37.9 EUR (original: 79.95 EUR) (52.60 %  de descuento) en el siguiente enlace!
+Está [Bugatti J94066n  Zapatillas para Mujer  Dorado  Gold 804   38 EU](https://www.amazon.es/dp/B01N8TJ4V1/?tag=tolees-21) con 52.60 de descuento por 37.9 EUR (original: 79.95 EUR) en el siguiente enlace!
 
 [![Bugatti J94066n  Zapatillas para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/51IhBFg6UwL._SL200_.jpg)](https://www.amazon.es/dp/B01N8TJ4V1/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B01N8TJ4V1/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01N8TJ4V1/?tag=tolees-21)

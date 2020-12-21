@@ -19,11 +19,11 @@ descuento: '73.47'
 average: '13.26'
 ---
 
-Ahora mismo tienes [Esprit 077ee1i006  suéter Mujer   Off White 110   X-Large](https://www.amazon.es/dp/B071PFGVLP/?tag=tolees-21) a 13.26 EUR (original: 49.99 EUR) (73.47 %  de descuento) en el siguiente enlace!
+Está [Esprit 077ee1i006  suéter Mujer   Off White 110   X-Large](https://www.amazon.es/dp/B071PFGVLP/?tag=tolees-21) con 73.47 de descuento por 13.26 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![Esprit 077ee1i006  suéter Mujer   Off Wh](https://images-eu.ssl-images-amazon.com/images/I/51ANq3-lk6L._SL200_.jpg)](https://www.amazon.es/dp/B071PFGVLP/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B071PFGVLP/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B071PFGVLP/?tag=tolees-21)

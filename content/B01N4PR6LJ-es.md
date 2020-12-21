@@ -19,11 +19,11 @@ descuento: '20.00'
 average: '255.2'
 ---
 
-Ahora mismo tienes [Fujifilm TCL-X100 II Tele Lente de conversión  Color Negro  16534742 ](https://www.amazon.es/dp/B01N4PR6LJ/?tag=tolees-21) a 255.2 EUR (original: 319 EUR) (20.00 %  de descuento) en el siguiente enlace!
+Está [Fujifilm TCL-X100 II Tele Lente de conversión  Color Negro  16534742 ](https://www.amazon.es/dp/B01N4PR6LJ/?tag=tolees-21) con 20.00 de descuento por 255.2 EUR (original: 319 EUR) en el siguiente enlace!
 
 [![Fujifilm TCL-X100 II Tele Lente de conve](https://images-eu.ssl-images-amazon.com/images/I/41tY%2ByT61vL._SL200_.jpg)](https://www.amazon.es/dp/B01N4PR6LJ/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B01N4PR6LJ/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01N4PR6LJ/?tag=tolees-21)

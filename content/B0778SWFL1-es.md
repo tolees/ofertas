@@ -19,11 +19,11 @@ descuento: '72.43'
 average: '12.68'
 ---
 
-Ahora mismo tienes [MTNG SAURO  Botas Biker para Mujer   Tar Negro   36 EU](https://www.amazon.es/dp/B0778SWFL1/?tag=tolees-21) a 12.68 EUR (original: 45.99 EUR) (72.43 %  de descuento) en el siguiente enlace!
+Está [MTNG SAURO  Botas Biker para Mujer   Tar Negro   36 EU](https://www.amazon.es/dp/B0778SWFL1/?tag=tolees-21) con 72.43 de descuento por 12.68 EUR (original: 45.99 EUR) en el siguiente enlace!
 
 [![MTNG SAURO  Botas Biker para Mujer   Tar](https://images-eu.ssl-images-amazon.com/images/I/41ZJSxsSh8L._SL200_.jpg)](https://www.amazon.es/dp/B0778SWFL1/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B0778SWFL1/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0778SWFL1/?tag=tolees-21)

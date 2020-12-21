@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Berberana Carta Oro Reserva D.O Rioja Vi al 43.24 % de descuento'
+title: 'Berberana Carta Oro Reserva D.O Rioja Vi con un 43.24 % de descuento'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/311Q4v3n3lL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '43.24'
 average: '3.4'
 ---
 
-Está [Berberana Carta Oro Reserva D.O Rioja Vino tinto - 750 ml](https://www.amazon.es/dp/B01EARW3DK/?tag=tolees-21) con 43.24 de descuento por 3.4 EUR (original: 5.99 EUR) en el siguiente enlace!
+En este momento está [Berberana Carta Oro Reserva D.O Rioja Vino tinto - 750 ml](https://www.amazon.es/dp/B01EARW3DK/?tag=tolees-21) a 3.4 EUR (original: 5.99 EUR) (43.24 %  de descuento) en el siguiente enlace!
 
 [![Berberana Carta Oro Reserva D.O Rioja Vi](https://images-eu.ssl-images-amazon.com/images/I/311Q4v3n3lL._SL200_.jpg)](https://www.amazon.es/dp/B01EARW3DK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01EARW3DK/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B01EARW3DK/?tag=tolees-21)

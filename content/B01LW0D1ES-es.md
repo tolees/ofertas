@@ -19,11 +19,11 @@ descuento: '27.10'
 average: '106.44'
 ---
 
-Ahora mismo tienes [Imperial Confort Oslo - Colchón viscosoft - 140 x 200 x 24 - Color blanco](https://www.amazon.es/dp/B01LW0D1ES/?tag=tolees-21) a 106.44 EUR (original: 146 EUR) (27.10 %  de descuento) en el siguiente enlace!
+Está [Imperial Confort Oslo - Colchón viscosoft - 140 x 200 x 24 - Color blanco](https://www.amazon.es/dp/B01LW0D1ES/?tag=tolees-21) con 27.10 de descuento por 106.44 EUR (original: 146 EUR) en el siguiente enlace!
 
 [![Imperial Confort Oslo - Colchón viscosof](https://images-eu.ssl-images-amazon.com/images/I/41WjwyvFK1L._SL200_.jpg)](https://www.amazon.es/dp/B01LW0D1ES/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B01LW0D1ES/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01LW0D1ES/?tag=tolees-21)

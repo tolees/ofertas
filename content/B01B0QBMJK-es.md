@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'YES - Lubricantes y geles al 19.08 % de descuento'
+title: 'Descuento del 19.08 % en YES - Lubricantes y geles'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41YqgMwpWAL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '19.08'
 average: '18.11'
 ---
 
-Está [YES - Lubricantes y geles](https://www.amazon.es/dp/B01B0QBMJK/?tag=tolees-21) con 19.08 de descuento por 18.11 EUR (original: 22.38 EUR) en el siguiente enlace!
+Tienes [YES - Lubricantes y geles](https://www.amazon.es/dp/B01B0QBMJK/?tag=tolees-21) con un 19.08 % de descuento con precio de oferta de 18.11 EUR (original: 22.38 EUR) en el siguiente enlace!
 
 [![YES - Lubricantes y geles](https://images-eu.ssl-images-amazon.com/images/I/41YqgMwpWAL._SL200_.jpg)](https://www.amazon.es/dp/B01B0QBMJK/?tag=tolees-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01B0QBMJK/?tag=tolees-21)
+[Accede a la oferta!!](https://www.amazon.es/dp/B01B0QBMJK/?tag=tolees-21)

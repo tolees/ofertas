@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Makita HK0500 - Martillo Mini-Demoledor  al 32.17 % de descuento'
+title: 'Makita HK0500 - Martillo Mini-Demoledor  al 32.17 % de rebaja'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41EYpSj-ryL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '32.17'
 average: '297.92'
 ---
 
-Está [Makita HK0500 - Martillo Mini-Demoledor 3.2Kg](https://www.amazon.es/dp/B00004YOKX/?tag=tolees-21) con 32.17 de descuento por 297.92 EUR (original: 439.23 EUR) en el siguiente enlace!
+Tienes [Makita HK0500 - Martillo Mini-Demoledor 3.2Kg](https://www.amazon.es/dp/B00004YOKX/?tag=tolees-21) con precio final de  297.92 EUR (original: 439.23 EUR) (32.17 %  de rebaja) aqui!
 
 [![Makita HK0500 - Martillo Mini-Demoledor ](https://images-eu.ssl-images-amazon.com/images/I/41EYpSj-ryL._SL200_.jpg)](https://www.amazon.es/dp/B00004YOKX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00004YOKX/?tag=tolees-21)
+[Comprar!!!](https://www.amazon.es/dp/B00004YOKX/?tag=tolees-21)

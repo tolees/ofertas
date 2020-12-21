@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dolce & Gabbana  Perfume sólido - 100 ml al 18.35 % de descuento'
+title: 'Dolce & Gabbana  Perfume sólido - 100 ml con un 18.35 % de descuento'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31DnUj7cX8L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '18.35'
 average: '84.1'
 ---
 
-Ahora mismo tienes [Dolce & Gabbana  Perfume sólido - 100 ml.](https://www.amazon.es/dp/B0009OAHH8/?tag=tolees-21) a 84.1 EUR (original: 103 EUR) (18.35 %  de descuento) en el siguiente enlace!
+En este momento está [Dolce & Gabbana  Perfume sólido - 100 ml.](https://www.amazon.es/dp/B0009OAHH8/?tag=tolees-21) a 84.1 EUR (original: 103 EUR) (18.35 %  de descuento) en el siguiente enlace!
 
 [![Dolce & Gabbana  Perfume sólido - 100 ml](https://images-eu.ssl-images-amazon.com/images/I/31DnUj7cX8L._SL200_.jpg)](https://www.amazon.es/dp/B0009OAHH8/?tag=tolees-21)
 
 🔎:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B0009OAHH8/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B0009OAHH8/?tag=tolees-21)

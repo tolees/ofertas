@@ -19,11 +19,11 @@ descuento: '20.06'
 average: '37.21'
 ---
 
-Ahora mismo tienes [Inter-Tech B-42 Carcasa de Ordenador Midi-Tower Negro - Caja de Ordenador  Midi-Tower  PC  ATX Micro-ATX  Negro  15 cm  35 cm ](https://www.amazon.es/dp/B07KYG1NWQ/?tag=tolees-21) a 37.21 EUR (original: 46.55 EUR) (20.06 %  de descuento) en el siguiente enlace!
+Está [Inter-Tech B-42 Carcasa de Ordenador Midi-Tower Negro - Caja de Ordenador  Midi-Tower  PC  ATX Micro-ATX  Negro  15 cm  35 cm ](https://www.amazon.es/dp/B07KYG1NWQ/?tag=tolees-21) con 20.06 de descuento por 37.21 EUR (original: 46.55 EUR) en el siguiente enlace!
 
 [![Inter-Tech B-42 Carcasa de Ordenador Mid](https://images-eu.ssl-images-amazon.com/images/I/31Sk9aFfH0L._SL200_.jpg)](https://www.amazon.es/dp/B07KYG1NWQ/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07KYG1NWQ/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07KYG1NWQ/?tag=tolees-21)

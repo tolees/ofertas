@@ -19,11 +19,11 @@ descuento: '50.17'
 average: '14.95'
 ---
 
-Está [Nike NK BRSLA S Duff-AOP Bolsa de Gimnasio  Adultos Unisex  Neutral Olive/Black/White  One Size](https://www.amazon.es/dp/B005V2TAQM/?tag=tolees-21) con 50.17 de descuento por 14.95 EUR (original: 30 EUR) en el siguiente enlace!
+Ahora mismo tienes [Nike NK BRSLA S Duff-AOP Bolsa de Gimnasio  Adultos Unisex  Neutral Olive/Black/White  One Size](https://www.amazon.es/dp/B005V2TAQM/?tag=tolees-21) a 14.95 EUR (original: 30 EUR) (50.17 %  de descuento) en el siguiente enlace!
 
 [![Nike NK BRSLA S Duff-AOP Bolsa de Gimnas](https://images-eu.ssl-images-amazon.com/images/I/41o1uEtCqzL._SL200_.jpg)](https://www.amazon.es/dp/B005V2TAQM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B005V2TAQM/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B005V2TAQM/?tag=tolees-21)

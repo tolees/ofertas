@@ -19,11 +19,11 @@ descuento: '60.22'
 average: '31.82'
 ---
 
-Está [New Balance 220  Zapatillas para Mujer  Marfil  Nimbus Rain Cloud Ta   38 EU](https://www.amazon.es/dp/B07DFWKSND/?tag=tolees-21) con 60.22 de descuento por 31.82 EUR (original: 80 EUR) en el siguiente enlace!
+Ahora mismo tienes [New Balance 220  Zapatillas para Mujer  Marfil  Nimbus Rain Cloud Ta   38 EU](https://www.amazon.es/dp/B07DFWKSND/?tag=tolees-21) a 31.82 EUR (original: 80 EUR) (60.22 %  de descuento) en el siguiente enlace!
 
 [![New Balance 220  Zapatillas para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41wLVFlH7ZL._SL200_.jpg)](https://www.amazon.es/dp/B07DFWKSND/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07DFWKSND/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07DFWKSND/?tag=tolees-21)

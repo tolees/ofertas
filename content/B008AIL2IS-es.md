@@ -19,11 +19,11 @@ descuento: '31.47'
 average: '6.99'
 ---
 
-Está [Blade [Blu-ray]](https://www.amazon.es/dp/B008AIL2IS/?tag=tolees-21) con 31.47 de descuento por 6.99 EUR (original: 10.2 EUR) en el siguiente enlace!
+Ahora mismo tienes [Blade [Blu-ray]](https://www.amazon.es/dp/B008AIL2IS/?tag=tolees-21) a 6.99 EUR (original: 10.2 EUR) (31.47 %  de descuento) en el siguiente enlace!
 
 [![Blade [Blu-ray]](https://images-eu.ssl-images-amazon.com/images/I/51RmQRDd3RL._SL200_.jpg)](https://www.amazon.es/dp/B008AIL2IS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B008AIL2IS/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B008AIL2IS/?tag=tolees-21)

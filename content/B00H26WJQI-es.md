@@ -19,11 +19,11 @@ descuento: '17.95'
 average: '16.41'
 ---
 
-Ahora mismo tienes [American Crew Gel De Fijación Fuerte - 390 ml.](https://www.amazon.es/dp/B00H26WJQI/?tag=tolees-21) a 16.41 EUR (original: 20 EUR) (17.95 %  de descuento) en el siguiente enlace!
+Está [American Crew Gel De Fijación Fuerte - 390 ml.](https://www.amazon.es/dp/B00H26WJQI/?tag=tolees-21) con 17.95 de descuento por 16.41 EUR (original: 20 EUR) en el siguiente enlace!
 
 [![American Crew Gel De Fijación Fuerte - 3](https://images-eu.ssl-images-amazon.com/images/I/314hcLg5b8L._SL200_.jpg)](https://www.amazon.es/dp/B00H26WJQI/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B00H26WJQI/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00H26WJQI/?tag=tolees-21)

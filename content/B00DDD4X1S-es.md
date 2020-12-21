@@ -19,11 +19,11 @@ descuento: '20.00'
 average: '30.8'
 ---
 
-Ahora mismo tienes [Aerocool GTAD - Caja gaming para PC  semitorre  ATX  7 ranuras de expansión  capacidad hasta 3 ventiladores  incluye ventilador frontal y trasero 12 cm  USB 2.0/3.0   color negro](https://www.amazon.es/dp/B00DDD4X1S/?tag=tolees-21) a 30.8 EUR (original: 38.5 EUR) (20.00 %  de descuento) en el siguiente enlace!
+Está [Aerocool GTAD - Caja gaming para PC  semitorre  ATX  7 ranuras de expansión  capacidad hasta 3 ventiladores  incluye ventilador frontal y trasero 12 cm  USB 2.0/3.0   color negro](https://www.amazon.es/dp/B00DDD4X1S/?tag=tolees-21) con 20.00 de descuento por 30.8 EUR (original: 38.5 EUR) en el siguiente enlace!
 
 [![Aerocool GTAD - Caja gaming para PC  sem](https://images-eu.ssl-images-amazon.com/images/I/51YffucsARL._SL200_.jpg)](https://www.amazon.es/dp/B00DDD4X1S/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B00DDD4X1S/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00DDD4X1S/?tag=tolees-21)

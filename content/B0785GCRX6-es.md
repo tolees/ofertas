@@ -19,11 +19,11 @@ descuento: '40.98'
 average: '32.46'
 ---
 
-Ahora mismo tienes [Under Armour HG Printed Leggin  Mujer  Black/White/Metallic Silver  S](https://www.amazon.es/dp/B0785GCRX6/?tag=tolees-21) a 32.46 EUR (original: 55 EUR) (40.98 %  de descuento) en el siguiente enlace!
+Está [Under Armour HG Printed Leggin  Mujer  Black/White/Metallic Silver  S](https://www.amazon.es/dp/B0785GCRX6/?tag=tolees-21) con 40.98 de descuento por 32.46 EUR (original: 55 EUR) en el siguiente enlace!
 
 [![Under Armour HG Printed Leggin  Mujer  B](https://images-eu.ssl-images-amazon.com/images/I/41krMhLR-1L._SL200_.jpg)](https://www.amazon.es/dp/B0785GCRX6/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B0785GCRX6/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0785GCRX6/?tag=tolees-21)

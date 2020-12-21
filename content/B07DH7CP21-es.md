@@ -19,11 +19,11 @@ descuento: '48.77'
 average: '61.48'
 ---
 
-Ahora mismo tienes [Nero Giardini Camo Colorado Asfalt  Mocasines  Loafer  para Hombre  Gris  Ante Grey 102   41 EU](https://www.amazon.es/dp/B07DH7CP21/?tag=tolees-21) a 61.48 EUR (original: 120 EUR) (48.77 %  de descuento) en el siguiente enlace!
+Está [Nero Giardini Camo Colorado Asfalt  Mocasines  Loafer  para Hombre  Gris  Ante Grey 102   41 EU](https://www.amazon.es/dp/B07DH7CP21/?tag=tolees-21) con 48.77 de descuento por 61.48 EUR (original: 120 EUR) en el siguiente enlace!
 
 [![Nero Giardini Camo Colorado Asfalt  Moca](https://images-eu.ssl-images-amazon.com/images/I/31AIer2BJmL._SL200_.jpg)](https://www.amazon.es/dp/B07DH7CP21/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07DH7CP21/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DH7CP21/?tag=tolees-21)

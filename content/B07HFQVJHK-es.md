@@ -19,11 +19,11 @@ descuento: '52.38'
 average: '99.99'
 ---
 
-Está [HOMCOM Patinete Eléctrico Scooter Plegable para Niño con Manillar y Tipo Monopatín con Freno y Caballete 120W Carga 50kg 81.5x37x96cm  Negro ](https://www.amazon.es/dp/B07HFQVJHK/?tag=tolees-21) con 52.38 de descuento por 99.99 EUR (original: 209.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [HOMCOM Patinete Eléctrico Scooter Plegable para Niño con Manillar y Tipo Monopatín con Freno y Caballete 120W Carga 50kg 81.5x37x96cm  Negro ](https://www.amazon.es/dp/B07HFQVJHK/?tag=tolees-21) a 99.99 EUR (original: 209.99 EUR) (52.38 %  de descuento) en el siguiente enlace!
 
 [![HOMCOM Patinete Eléctrico Scooter Plegab](https://images-eu.ssl-images-amazon.com/images/I/31Q1IaeipqL._SL200_.jpg)](https://www.amazon.es/dp/B07HFQVJHK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07HFQVJHK/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07HFQVJHK/?tag=tolees-21)

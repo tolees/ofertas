@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Weider Thermo - 120 Capsulas al 37.48 % de descuento'
+title: 'Weider Thermo - 120 Capsulas con un 37.48 % de descuento'
 date: 
 image: 'http://images.amazon.com/images/P/B002C1B8HO.01._PI_SCMZZZZZZZ_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '37.48'
 average: '18.75'
 ---
 
-Ahora mismo tienes [Weider Thermo - 120 Capsulas](https://www.amazon.es/dp/B002C1B8HO/?tag=tolees-21) a 18.75 EUR (original: 29.99 EUR) (37.48 %  de descuento) en el siguiente enlace!
+En este momento está [Weider Thermo - 120 Capsulas](https://www.amazon.es/dp/B002C1B8HO/?tag=tolees-21) a 18.75 EUR (original: 29.99 EUR) (37.48 %  de descuento) en el siguiente enlace!
 
 [![Weider Thermo - 120 Capsulas](http://images.amazon.com/images/P/B002C1B8HO.01._PI_SCMZZZZZZZ_._SL200_.jpg)](https://www.amazon.es/dp/B002C1B8HO/?tag=tolees-21)
 
 🔎:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B002C1B8HO/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B002C1B8HO/?tag=tolees-21)

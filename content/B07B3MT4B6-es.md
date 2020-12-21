@@ -19,11 +19,11 @@ descuento: '87.88'
 average: '7.88'
 ---
 
-Ahora mismo tienes [Berg Outdoor Vetka Pantalones  Hombre  Beige  2XL](https://www.amazon.es/dp/B07B3MT4B6/?tag=tolees-21) a 7.88 EUR (original: 65 EUR) (87.88 %  de descuento) en el siguiente enlace!
+Está [Berg Outdoor Vetka Pantalones  Hombre  Beige  2XL](https://www.amazon.es/dp/B07B3MT4B6/?tag=tolees-21) con 87.88 de descuento por 7.88 EUR (original: 65 EUR) en el siguiente enlace!
 
 [![Berg Outdoor Vetka Pantalones  Hombre  B](https://images-eu.ssl-images-amazon.com/images/I/41kzCWjwUtL._SL200_.jpg)](https://www.amazon.es/dp/B07B3MT4B6/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07B3MT4B6/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07B3MT4B6/?tag=tolees-21)

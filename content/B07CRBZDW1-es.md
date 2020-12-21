@@ -19,11 +19,11 @@ descuento: '67.94'
 average: '42.35'
 ---
 
-Ahora mismo tienes [Parker Sonnet - Set de pluma estilográfica y cuaderno  acero inoxidable](https://www.amazon.es/dp/B07CRBZDW1/?tag=tolees-21) a 42.35 EUR (original: 132.1 EUR) (67.94 %  de descuento) en el siguiente enlace!
+Está [Parker Sonnet - Set de pluma estilográfica y cuaderno  acero inoxidable](https://www.amazon.es/dp/B07CRBZDW1/?tag=tolees-21) con 67.94 de descuento por 42.35 EUR (original: 132.1 EUR) en el siguiente enlace!
 
 [![Parker Sonnet - Set de pluma estilográfi](https://images-eu.ssl-images-amazon.com/images/I/314oolyw-uL._SL200_.jpg)](https://www.amazon.es/dp/B07CRBZDW1/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07CRBZDW1/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07CRBZDW1/?tag=tolees-21)

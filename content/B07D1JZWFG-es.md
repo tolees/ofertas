@@ -19,11 +19,11 @@ descuento: '40.00'
 average: '42'
 ---
 
-Ahora mismo tienes [Asics Amplica  Zapatillas de Entrenamiento para Mujer  Azul  Azure/Blue Print 400   40.5 EU](https://www.amazon.es/dp/B07D1JZWFG/?tag=tolees-21) a 42 EUR (original: 70 EUR) (40.00 %  de descuento) en el siguiente enlace!
+Está [Asics Amplica  Zapatillas de Entrenamiento para Mujer  Azul  Azure/Blue Print 400   40.5 EU](https://www.amazon.es/dp/B07D1JZWFG/?tag=tolees-21) con 40.00 de descuento por 42 EUR (original: 70 EUR) en el siguiente enlace!
 
 [![Asics Amplica  Zapatillas de Entrenamien](https://images-eu.ssl-images-amazon.com/images/I/41VIC3scRdL._SL200_.jpg)](https://www.amazon.es/dp/B07D1JZWFG/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07D1JZWFG/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07D1JZWFG/?tag=tolees-21)

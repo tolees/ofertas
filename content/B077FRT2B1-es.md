@@ -19,11 +19,11 @@ descuento: '85.73'
 average: '7.99'
 ---
 
-Ahora mismo tienes [LANGRIA Almohada Cervical Ergonómica de Espuma de Memoria Viscoelástica Cojín de Cuello en Forma de U Ajustable para Niños y Adultos para Viajes en Avión Coche Tren Bus  Diseño a Rayas Azul Celeste ](https://www.amazon.es/dp/B077FRT2B1/?tag=tolees-21) a 7.99 EUR (original: 56 EUR) (85.73 %  de descuento) en el siguiente enlace!
+Está [LANGRIA Almohada Cervical Ergonómica de Espuma de Memoria Viscoelástica Cojín de Cuello en Forma de U Ajustable para Niños y Adultos para Viajes en Avión Coche Tren Bus  Diseño a Rayas Azul Celeste ](https://www.amazon.es/dp/B077FRT2B1/?tag=tolees-21) con 85.73 de descuento por 7.99 EUR (original: 56 EUR) en el siguiente enlace!
 
 [![LANGRIA Almohada Cervical Ergonómica de ](https://images-eu.ssl-images-amazon.com/images/I/51LGWfxK3kL._SL200_.jpg)](https://www.amazon.es/dp/B077FRT2B1/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B077FRT2B1/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B077FRT2B1/?tag=tolees-21)

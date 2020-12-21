@@ -19,11 +19,11 @@ descuento: '40.08'
 average: '35.95'
 ---
 
-Está [Nike Downshifter 8  Zapatillas de Entrenamiento para Hombre  Azul  Midnight Navy/White-Dark Obsidian-Black 400   40.5 EU](https://www.amazon.es/dp/B075ZXZ67R/?tag=tolees-21) con 40.08 de descuento por 35.95 EUR (original: 60 EUR) en el siguiente enlace!
+Ahora mismo tienes [Nike Downshifter 8  Zapatillas de Entrenamiento para Hombre  Azul  Midnight Navy/White-Dark Obsidian-Black 400   40.5 EU](https://www.amazon.es/dp/B075ZXZ67R/?tag=tolees-21) a 35.95 EUR (original: 60 EUR) (40.08 %  de descuento) en el siguiente enlace!
 
 [![Nike Downshifter 8  Zapatillas de Entren](https://images-eu.ssl-images-amazon.com/images/I/4108EpTkSbL._SL200_.jpg)](https://www.amazon.es/dp/B075ZXZ67R/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B075ZXZ67R/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B075ZXZ67R/?tag=tolees-21)

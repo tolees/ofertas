@@ -19,11 +19,11 @@ descuento: '16.68'
 average: '49.95'
 ---
 
-Está [Puma Leader Vt Sl Zapatillas de Running Unisex Adulto  Negro  Puma Black- Puma White - Indigo Bunting   41 EU](https://www.amazon.es/dp/B07DBZRTZF/?tag=tolees-21) con 16.68 de descuento por 49.95 EUR (original: 59.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Puma Leader Vt Sl Zapatillas de Running Unisex Adulto  Negro  Puma Black- Puma White - Indigo Bunting   41 EU](https://www.amazon.es/dp/B07DBZRTZF/?tag=tolees-21) a 49.95 EUR (original: 59.95 EUR) (16.68 %  de descuento) en el siguiente enlace!
 
 [![Puma Leader Vt Sl Zapatillas de Running ](https://images-eu.ssl-images-amazon.com/images/I/41zwH5Nvt%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07DBZRTZF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07DBZRTZF/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07DBZRTZF/?tag=tolees-21)

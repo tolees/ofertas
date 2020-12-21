@@ -19,11 +19,11 @@ descuento: '49.99'
 average: '29.98'
 ---
 
-Ahora mismo tienes [Adidas Forest Grove J  Zapatillas de Gimnasia Unisex para Niños  Naranja FTWR White/Clear Orange  38 EU](https://www.amazon.es/dp/B07JYLL4L6/?tag=tolees-21) a 29.98 EUR (original: 59.95 EUR) (49.99 %  de descuento) en el siguiente enlace!
+Está [Adidas Forest Grove J  Zapatillas de Gimnasia Unisex para Niños  Naranja FTWR White/Clear Orange  38 EU](https://www.amazon.es/dp/B07JYLL4L6/?tag=tolees-21) con 49.99 de descuento por 29.98 EUR (original: 59.95 EUR) en el siguiente enlace!
 
 [![Adidas Forest Grove J  Zapatillas de Gim](https://images-eu.ssl-images-amazon.com/images/I/41rCzx-m9HL._SL200_.jpg)](https://www.amazon.es/dp/B07JYLL4L6/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07JYLL4L6/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07JYLL4L6/?tag=tolees-21)

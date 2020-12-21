@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Canon EOS 200D - Cámara Digital Réflex d al 35.52 % de descuento'
+title: 'Canon EOS 200D - Cámara Digital Réflex d con un 35.52 % de descuento'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51z%2BW9b7CML._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '35.52'
 average: '374'
 ---
 
-Está [Canon EOS 200D - Cámara Digital Réflex de 24.2 MP  Pantalla táctil de 3.0    WiFi  Bluetooth  Dual Pixel CMOS AF  Full HD  - Cuerpo](https://www.amazon.es/dp/B073D3FFGK/?tag=tolees-21) con 35.52 de descuento por 374 EUR (original: 579.99 EUR) en el siguiente enlace!
+En este momento está [Canon EOS 200D - Cámara Digital Réflex de 24.2 MP  Pantalla táctil de 3.0    WiFi  Bluetooth  Dual Pixel CMOS AF  Full HD  - Cuerpo](https://www.amazon.es/dp/B073D3FFGK/?tag=tolees-21) a 374 EUR (original: 579.99 EUR) (35.52 %  de descuento) en el siguiente enlace!
 
 [![Canon EOS 200D - Cámara Digital Réflex d](https://images-eu.ssl-images-amazon.com/images/I/51z%2BW9b7CML._SL200_.jpg)](https://www.amazon.es/dp/B073D3FFGK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B073D3FFGK/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B073D3FFGK/?tag=tolees-21)

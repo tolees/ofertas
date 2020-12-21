@@ -19,11 +19,11 @@ descuento: '22.06'
 average: '109.9'
 ---
 
-Ahora mismo tienes [Mars Gaming MGC2BY - Silla gaming profesional con ruedas  inclinación y altura regulables  inclinación 15 grados  reposacabezas acolchado  reposabrazos abatibles y acolchados  ergonómica   amarillo](https://www.amazon.es/dp/B01N1UYDTL/?tag=tolees-21) a 109.9 EUR (original: 141 EUR) (22.06 %  de descuento) en el siguiente enlace!
+Está [Mars Gaming MGC2BY - Silla gaming profesional con ruedas  inclinación y altura regulables  inclinación 15 grados  reposacabezas acolchado  reposabrazos abatibles y acolchados  ergonómica   amarillo](https://www.amazon.es/dp/B01N1UYDTL/?tag=tolees-21) con 22.06 de descuento por 109.9 EUR (original: 141 EUR) en el siguiente enlace!
 
 [![Mars Gaming MGC2BY - Silla gaming profes](https://images-eu.ssl-images-amazon.com/images/I/41YxVY8I4FL._SL200_.jpg)](https://www.amazon.es/dp/B01N1UYDTL/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B01N1UYDTL/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01N1UYDTL/?tag=tolees-21)

@@ -19,11 +19,11 @@ descuento: '63.75'
 average: '28.98'
 ---
 
-Está [Skechers Escape Plan 2.0  Zapatillas para Hombre  Verde  Olive Black Olbk   42.5 EU](https://www.amazon.es/dp/B07HCQBVMW/?tag=tolees-21) con 63.75 de descuento por 28.98 EUR (original: 79.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Skechers Escape Plan 2.0  Zapatillas para Hombre  Verde  Olive Black Olbk   42.5 EU](https://www.amazon.es/dp/B07HCQBVMW/?tag=tolees-21) a 28.98 EUR (original: 79.95 EUR) (63.75 %  de descuento) en el siguiente enlace!
 
 [![Skechers Escape Plan 2.0  Zapatillas par](https://images-eu.ssl-images-amazon.com/images/I/41hptFeQfRL._SL200_.jpg)](https://www.amazon.es/dp/B07HCQBVMW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07HCQBVMW/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07HCQBVMW/?tag=tolees-21)

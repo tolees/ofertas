@@ -19,11 +19,11 @@ descuento: '61.45'
 average: '42.41'
 ---
 
-Está [Clarks - Contempo East  Bolsos bandolera Mujer  Negro  Black   27x45x17 cm  B x H T ](https://www.amazon.es/dp/B07BR612ZS/?tag=tolees-21) con 61.45 de descuento por 42.41 EUR (original: 110 EUR) en el siguiente enlace!
+Ahora mismo tienes [Clarks - Contempo East  Bolsos bandolera Mujer  Negro  Black   27x45x17 cm  B x H T ](https://www.amazon.es/dp/B07BR612ZS/?tag=tolees-21) a 42.41 EUR (original: 110 EUR) (61.45 %  de descuento) en el siguiente enlace!
 
 [![Clarks - Contempo East  Bolsos bandolera](https://images-eu.ssl-images-amazon.com/images/I/41zUALAbcjL._SL200_.jpg)](https://www.amazon.es/dp/B07BR612ZS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07BR612ZS/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07BR612ZS/?tag=tolees-21)

@@ -19,11 +19,11 @@ descuento: '49.52'
 average: '30.26'
 ---
 
-Ahora mismo tienes [Dockers by Gerli 43ju004  Zapatillas Altas para Hombre  Gris  Dunkelgrau 220   42 EU](https://www.amazon.es/dp/B07DJLFHD1/?tag=tolees-21) a 30.26 EUR (original: 59.95 EUR) (49.52 %  de descuento) en el siguiente enlace!
+Está [Dockers by Gerli 43ju004  Zapatillas Altas para Hombre  Gris  Dunkelgrau 220   42 EU](https://www.amazon.es/dp/B07DJLFHD1/?tag=tolees-21) con 49.52 de descuento por 30.26 EUR (original: 59.95 EUR) en el siguiente enlace!
 
 [![Dockers by Gerli 43ju004  Zapatillas Alt](https://images-eu.ssl-images-amazon.com/images/I/41sPmR3KeHL._SL200_.jpg)](https://www.amazon.es/dp/B07DJLFHD1/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07DJLFHD1/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DJLFHD1/?tag=tolees-21)

@@ -19,11 +19,11 @@ descuento: '20.02'
 average: '103.96'
 ---
 
-Está [Nike Air Zm Pegasus 35 Shield  Zapatillas de Entrenamiento para Hombre   Black/White/Cool Vast Grey 001   41 EU](https://www.amazon.es/dp/B07BQY27ZR/?tag=tolees-21) con 20.02 de descuento por 103.96 EUR (original: 129.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Nike Air Zm Pegasus 35 Shield  Zapatillas de Entrenamiento para Hombre   Black/White/Cool Vast Grey 001   41 EU](https://www.amazon.es/dp/B07BQY27ZR/?tag=tolees-21) a 103.96 EUR (original: 129.99 EUR) (20.02 %  de descuento) en el siguiente enlace!
 
 [![Nike Air Zm Pegasus 35 Shield  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/41zbE40vj6L._SL200_.jpg)](https://www.amazon.es/dp/B07BQY27ZR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07BQY27ZR/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07BQY27ZR/?tag=tolees-21)

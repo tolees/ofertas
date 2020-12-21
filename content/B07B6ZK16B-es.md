@@ -19,11 +19,11 @@ descuento: '63.96'
 average: '30.63'
 ---
 
-Ahora mismo tienes [New Balance Fresh Foam Arishi Luxe  Zapatillas de Running para Mujer  Marfil  Flat White/Au Lait Pl1   41.5 EU](https://www.amazon.es/dp/B07B6ZK16B/?tag=tolees-21) a 30.63 EUR (original: 85 EUR) (63.96 %  de descuento) en el siguiente enlace!
+Está [New Balance Fresh Foam Arishi Luxe  Zapatillas de Running para Mujer  Marfil  Flat White/Au Lait Pl1   41.5 EU](https://www.amazon.es/dp/B07B6ZK16B/?tag=tolees-21) con 63.96 de descuento por 30.63 EUR (original: 85 EUR) en el siguiente enlace!
 
 [![New Balance Fresh Foam Arishi Luxe  Zapa](https://images-eu.ssl-images-amazon.com/images/I/41lr7ttNC2L._SL200_.jpg)](https://www.amazon.es/dp/B07B6ZK16B/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07B6ZK16B/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07B6ZK16B/?tag=tolees-21)

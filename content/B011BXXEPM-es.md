@@ -19,11 +19,11 @@ descuento: '23.82'
 average: '7.61'
 ---
 
-Ahora mismo tienes [Trust Primo - Ratón inalámbrico  Color Azul](https://www.amazon.es/dp/B011BXXEPM/?tag=tolees-21) a 7.61 EUR (original: 9.99 EUR) (23.82 %  de descuento) en el siguiente enlace!
+Está [Trust Primo - Ratón inalámbrico  Color Azul](https://www.amazon.es/dp/B011BXXEPM/?tag=tolees-21) con 23.82 de descuento por 7.61 EUR (original: 9.99 EUR) en el siguiente enlace!
 
 [![Trust Primo - Ratón inalámbrico  Color A](https://images-eu.ssl-images-amazon.com/images/I/41WpvEzjGoL._SL200_.jpg)](https://www.amazon.es/dp/B011BXXEPM/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B011BXXEPM/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B011BXXEPM/?tag=tolees-21)

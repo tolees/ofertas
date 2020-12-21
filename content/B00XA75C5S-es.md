@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ybarra Mayonesa - 1800 gr al 19.68 % de descuento'
+title: 'Descuento del 19.68 % en Ybarra Mayonesa - 1800 gr'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/419yOW1wo%2BL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '19.68'
 average: '4.98'
 ---
 
-Ahora mismo tienes [Ybarra Mayonesa - 1800 gr](https://www.amazon.es/dp/B00XA75C5S/?tag=tolees-21) a 4.98 EUR (original: 6.2 EUR) (19.68 %  de descuento) en el siguiente enlace!
+Tienes [Ybarra Mayonesa - 1800 gr](https://www.amazon.es/dp/B00XA75C5S/?tag=tolees-21) con un 19.68 % de descuento con precio de oferta de 4.98 EUR (original: 6.2 EUR) en el siguiente enlace!
 
 [![Ybarra Mayonesa - 1800 gr](https://images-eu.ssl-images-amazon.com/images/I/419yOW1wo%2BL._SL200_.jpg)](https://www.amazon.es/dp/B00XA75C5S/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B00XA75C5S/?tag=tolees-21)
+[Accede a la oferta!!](https://www.amazon.es/dp/B00XA75C5S/?tag=tolees-21)

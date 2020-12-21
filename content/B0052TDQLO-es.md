@@ -19,11 +19,11 @@ descuento: '18.41'
 average: '17.95'
 ---
 
-Está [New Era NY Yankees 39 Thirty - Gorra para hombre  color negro  black/ white   talla L/XL](https://www.amazon.es/dp/B0052TDQLO/?tag=tolees-21) con 18.41 de descuento por 17.95 EUR (original: 22 EUR) en el siguiente enlace!
+Ahora mismo tienes [New Era NY Yankees 39 Thirty - Gorra para hombre  color negro  black/ white   talla L/XL](https://www.amazon.es/dp/B0052TDQLO/?tag=tolees-21) a 17.95 EUR (original: 22 EUR) (18.41 %  de descuento) en el siguiente enlace!
 
 [![New Era NY Yankees 39 Thirty - Gorra par](https://images-eu.ssl-images-amazon.com/images/I/41ExR8xrAGL._SL200_.jpg)](https://www.amazon.es/dp/B0052TDQLO/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B0052TDQLO/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B0052TDQLO/?tag=tolees-21)

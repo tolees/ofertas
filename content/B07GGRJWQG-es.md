@@ -19,11 +19,11 @@ descuento: '24.45'
 average: '8.99'
 ---
 
-Está [Carrie - Halloween Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07GGRJWQG/?tag=tolees-21) con 24.45 de descuento por 8.99 EUR (original: 11.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [Carrie - Halloween Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07GGRJWQG/?tag=tolees-21) a 8.99 EUR (original: 11.9 EUR) (24.45 %  de descuento) en el siguiente enlace!
 
 [![Carrie - Halloween Blu-Ray [Blu-ray]](https://images-eu.ssl-images-amazon.com/images/I/51skS9DTZ0L._SL200_.jpg)](https://www.amazon.es/dp/B07GGRJWQG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07GGRJWQG/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07GGRJWQG/?tag=tolees-21)

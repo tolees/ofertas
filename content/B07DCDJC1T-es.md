@@ -19,11 +19,11 @@ descuento: '39.98'
 average: '53.99'
 ---
 
-Ahora mismo tienes [Puma Nova 90 s Bloc Wn s  Zapatillas para Mujer  Blanco White/Pale Pink  39 EU](https://www.amazon.es/dp/B07DCDJC1T/?tag=tolees-21) a 53.99 EUR (original: 89.95 EUR) (39.98 %  de descuento) en el siguiente enlace!
+Está [Puma Nova 90 s Bloc Wn s  Zapatillas para Mujer  Blanco White/Pale Pink  39 EU](https://www.amazon.es/dp/B07DCDJC1T/?tag=tolees-21) con 39.98 de descuento por 53.99 EUR (original: 89.95 EUR) en el siguiente enlace!
 
 [![Puma Nova 90 s Bloc Wn s  Zapatillas par](https://images-eu.ssl-images-amazon.com/images/I/41vcxnFg2mL._SL200_.jpg)](https://www.amazon.es/dp/B07DCDJC1T/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07DCDJC1T/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DCDJC1T/?tag=tolees-21)

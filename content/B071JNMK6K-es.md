@@ -19,11 +19,11 @@ descuento: '38.22'
 average: '49.39'
 ---
 
-Ahora mismo tienes [adidas X 17.3 AG  Botas de fútbol para Hombre  Negro  Negbas/Rojsol/Narsol   46 EU](https://www.amazon.es/dp/B071JNMK6K/?tag=tolees-21) a 49.39 EUR (original: 79.95 EUR) (38.22 %  de descuento) en el siguiente enlace!
+Está [adidas X 17.3 AG  Botas de fútbol para Hombre  Negro  Negbas/Rojsol/Narsol   46 EU](https://www.amazon.es/dp/B071JNMK6K/?tag=tolees-21) con 38.22 de descuento por 49.39 EUR (original: 79.95 EUR) en el siguiente enlace!
 
 [![adidas X 17.3 AG  Botas de fútbol para H](https://images-eu.ssl-images-amazon.com/images/I/51J5AUvkreL._SL200_.jpg)](https://www.amazon.es/dp/B071JNMK6K/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B071JNMK6K/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B071JNMK6K/?tag=tolees-21)

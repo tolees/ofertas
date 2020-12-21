@@ -19,11 +19,11 @@ descuento: '65.94'
 average: '30.64'
 ---
 
-Está [Puma Cell Viper  Zapatillas Unisex Adulto  Blanco White  45 EU](https://www.amazon.es/dp/B07DBWWJMF/?tag=tolees-21) con 65.94 de descuento por 30.64 EUR (original: 89.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Puma Cell Viper  Zapatillas Unisex Adulto  Blanco White  45 EU](https://www.amazon.es/dp/B07DBWWJMF/?tag=tolees-21) a 30.64 EUR (original: 89.95 EUR) (65.94 %  de descuento) en el siguiente enlace!
 
 [![Puma Cell Viper  Zapatillas Unisex Adult](https://images-eu.ssl-images-amazon.com/images/I/3138JC5esWL._SL200_.jpg)](https://www.amazon.es/dp/B07DBWWJMF/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07DBWWJMF/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07DBWWJMF/?tag=tolees-21)

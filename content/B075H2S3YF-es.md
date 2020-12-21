@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cámara Polaroid 600 al 27.69 % de descuento'
+title: 'Cámara Polaroid 600 con un 27.69 % de descuento'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41V%2BHWpf5ZL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '27.69'
 average: '94'
 ---
 
-Ahora mismo tienes [Cámara Polaroid 600](https://www.amazon.es/dp/B075H2S3YF/?tag=tolees-21) a 94 EUR (original: 129.99 EUR) (27.69 %  de descuento) en el siguiente enlace!
+En este momento está [Cámara Polaroid 600](https://www.amazon.es/dp/B075H2S3YF/?tag=tolees-21) a 94 EUR (original: 129.99 EUR) (27.69 %  de descuento) en el siguiente enlace!
 
 [![Cámara Polaroid 600](https://images-eu.ssl-images-amazon.com/images/I/41V%2BHWpf5ZL._SL200_.jpg)](https://www.amazon.es/dp/B075H2S3YF/?tag=tolees-21)
 
 🔎:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B075H2S3YF/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B075H2S3YF/?tag=tolees-21)

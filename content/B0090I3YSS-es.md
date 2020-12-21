@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 51.12 % en Diplomatico Rum Reserva Excl 70cl'
+title: 'Diplomatico Rum Reserva Excl 70cl con un 51.12 % de descuento'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41Fo%2BSbrxLL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '51.12'
 average: '21.97'
 ---
 
-Tienes [Diplomatico Rum Reserva Excl 70cl](https://www.amazon.es/dp/B0090I3YSS/?tag=tolees-21) con un 51.12 % de descuento con precio de oferta de 21.97 EUR (original: 44.95 EUR) en el siguiente enlace!
+En este momento está [Diplomatico Rum Reserva Excl 70cl](https://www.amazon.es/dp/B0090I3YSS/?tag=tolees-21) a 21.97 EUR (original: 44.95 EUR) (51.12 %  de descuento) en el siguiente enlace!
 
 [![Diplomatico Rum Reserva Excl 70cl](https://images-eu.ssl-images-amazon.com/images/I/41Fo%2BSbrxLL._SL200_.jpg)](https://www.amazon.es/dp/B0090I3YSS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B0090I3YSS/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B0090I3YSS/?tag=tolees-21)

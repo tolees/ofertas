@@ -19,11 +19,11 @@ descuento: '22.16'
 average: '30.2'
 ---
 
-Ahora mismo tienes [Waso Hidratacion Quick Matte Moisturizer Oil Free  75 Ml.](https://www.amazon.es/dp/B073QM4NF6/?tag=tolees-21) a 30.2 EUR (original: 38.8 EUR) (22.16 %  de descuento) en el siguiente enlace!
+Está [Waso Hidratacion Quick Matte Moisturizer Oil Free  75 Ml.](https://www.amazon.es/dp/B073QM4NF6/?tag=tolees-21) con 22.16 de descuento por 30.2 EUR (original: 38.8 EUR) en el siguiente enlace!
 
 [![Waso Hidratacion Quick Matte Moisturizer](https://images-eu.ssl-images-amazon.com/images/I/31k95-ojplL._SL200_.jpg)](https://www.amazon.es/dp/B073QM4NF6/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B073QM4NF6/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B073QM4NF6/?tag=tolees-21)

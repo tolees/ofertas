@@ -19,11 +19,11 @@ descuento: '50.62'
 average: '41.95'
 ---
 
-Ahora mismo tienes [Puma Smash Platform Vt  Zapatillas para Mujer  Azul  Cerulean White 01   38.5 EU](https://www.amazon.es/dp/B07DCZ9KZ1/?tag=tolees-21) a 41.95 EUR (original: 84.95 EUR) (50.62 %  de descuento) en el siguiente enlace!
+Está [Puma Smash Platform Vt  Zapatillas para Mujer  Azul  Cerulean White 01   38.5 EU](https://www.amazon.es/dp/B07DCZ9KZ1/?tag=tolees-21) con 50.62 de descuento por 41.95 EUR (original: 84.95 EUR) en el siguiente enlace!
 
 [![Puma Smash Platform Vt  Zapatillas para ](https://images-eu.ssl-images-amazon.com/images/I/41uVyu-d9dL._SL200_.jpg)](https://www.amazon.es/dp/B07DCZ9KZ1/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07DCZ9KZ1/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DCZ9KZ1/?tag=tolees-21)

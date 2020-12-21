@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 43.69 % en Kerastase 54061 - Cuidado capilar  150 m'
+title: 'Kerastase 54061 - Cuidado capilar  150 m con un 43.69 % de descuento'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31-%2BtVrtI1L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '43.69'
 average: '13.6'
 ---
 
-Tienes [Kerastase 54061 - Cuidado capilar  150 ml](https://www.amazon.es/dp/B00D1XLWC8/?tag=tolees-21) con un 43.69 % de descuento con precio de oferta de 13.6 EUR (original: 24.15 EUR) en el siguiente enlace!
+En este momento está [Kerastase 54061 - Cuidado capilar  150 ml](https://www.amazon.es/dp/B00D1XLWC8/?tag=tolees-21) a 13.6 EUR (original: 24.15 EUR) (43.69 %  de descuento) en el siguiente enlace!
 
 [![Kerastase 54061 - Cuidado capilar  150 m](https://images-eu.ssl-images-amazon.com/images/I/31-%2BtVrtI1L._SL200_.jpg)](https://www.amazon.es/dp/B00D1XLWC8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B00D1XLWC8/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B00D1XLWC8/?tag=tolees-21)

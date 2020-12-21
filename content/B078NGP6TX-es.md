@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 60.00 % en Gola Harrier 50 Leather White  Zapatilla'
+title: 'Gola Harrier 50 Leather White  Zapatilla al 60.00 % de descuento'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41dzl11pnwL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '60.00'
 average: '36'
 ---
 
-Tienes [Gola Harrier 50 Leather White  Zapatillas para Mujer  Blanco WW  41 EU](https://www.amazon.es/dp/B078NGP6TX/?tag=tolees-21) con un 60.00 % de descuento con precio de oferta de 36 EUR (original: 90 EUR) en el siguiente enlace!
+Está [Gola Harrier 50 Leather White  Zapatillas para Mujer  Blanco WW  41 EU](https://www.amazon.es/dp/B078NGP6TX/?tag=tolees-21) con 60.00 de descuento por 36 EUR (original: 90 EUR) en el siguiente enlace!
 
 [![Gola Harrier 50 Leather White  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/41dzl11pnwL._SL200_.jpg)](https://www.amazon.es/dp/B078NGP6TX/?tag=tolees-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B078NGP6TX/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B078NGP6TX/?tag=tolees-21)

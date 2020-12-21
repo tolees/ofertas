@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lacoste L1212  Polo Para Hombre  Verde   al 38.21 % de descuento'
-date: 2020-12-20 10:15:11
+date: 2020-12-21 10:24:03
 image: 'https://m.media-amazon.com/images/I/31jwBhSVSSL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002RJFG42/?tag=tolees-21'
 descuento: '38.21'
-average: '57.89'
+average: '57.626363636363635'
 ---
 
 Ahora mismo tienes [Lacoste L1212  Polo Para Hombre  Verde  Vert 132   X-Small  Talla del fabricante: 2 ](https://www.amazon.es/dp/B002RJFG42/?tag=tolees-21) a 54.99 EUR (original: 89.0 EUR) (38.21 %  de descuento) en el siguiente enlace!
@@ -25,9 +25,9 @@ Ahora mismo tienes [Lacoste L1212  Polo Para Hombre  Verde  Vert 132   X-Small  
 
 🔎:
 
-- Cuello y bordes de las mangas acanalados
-- Cocodrilo bordado en el pecho
 - Bajo recto con aberturas laterales
+- Cocodrilo bordado en el pecho
+- Cuello y bordes de las mangas acanalados
 - Botones de nácar
 
 [Visítala!!!](https://www.amazon.es/dp/B002RJFG42/?tag=tolees-21)

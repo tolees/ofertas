@@ -19,11 +19,11 @@ descuento: '78.58'
 average: '17.24'
 ---
 
-Ahora mismo tienes [New Reebok Hexride Intensity Mid Womens Running Trainers Size UK 2.5  EU 35 ](https://www.amazon.es/dp/B00RBQ86DY/?tag=tolees-21) a 17.24 EUR (original: 80.49 EUR) (78.58 %  de descuento) en el siguiente enlace!
+Está [New Reebok Hexride Intensity Mid Womens Running Trainers Size UK 2.5  EU 35 ](https://www.amazon.es/dp/B00RBQ86DY/?tag=tolees-21) con 78.58 de descuento por 17.24 EUR (original: 80.49 EUR) en el siguiente enlace!
 
 [![New Reebok Hexride Intensity Mid Womens ](https://images-eu.ssl-images-amazon.com/images/I/417jMJo2z5L._SL200_.jpg)](https://www.amazon.es/dp/B00RBQ86DY/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B00RBQ86DY/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00RBQ86DY/?tag=tolees-21)

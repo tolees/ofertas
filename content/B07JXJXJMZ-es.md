@@ -19,11 +19,11 @@ descuento: '67.93'
 average: '16.02'
 ---
 
-Está [XTI 48934  Zapatillas para Mujer  Azul Navy  39 EU](https://www.amazon.es/dp/B07JXJXJMZ/?tag=tolees-21) con 67.93 de descuento por 16.02 EUR (original: 49.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [XTI 48934  Zapatillas para Mujer  Azul Navy  39 EU](https://www.amazon.es/dp/B07JXJXJMZ/?tag=tolees-21) a 16.02 EUR (original: 49.95 EUR) (67.93 %  de descuento) en el siguiente enlace!
 
 [![XTI 48934  Zapatillas para Mujer  Azul N](https://images-eu.ssl-images-amazon.com/images/I/41M418DtQxL._SL200_.jpg)](https://www.amazon.es/dp/B07JXJXJMZ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07JXJXJMZ/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07JXJXJMZ/?tag=tolees-21)

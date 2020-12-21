@@ -19,11 +19,11 @@ descuento: '80.03'
 average: '5.99'
 ---
 
-Está [EIS  Lubricante Deluxe Aqua vainilla  efecto de larga duración acuoso  300ml](https://www.amazon.es/dp/B075DG37YY/?tag=tolees-21) con 80.03 de descuento por 5.99 EUR (original: 30 EUR) en el siguiente enlace!
+Ahora mismo tienes [EIS  Lubricante Deluxe Aqua vainilla  efecto de larga duración acuoso  300ml](https://www.amazon.es/dp/B075DG37YY/?tag=tolees-21) a 5.99 EUR (original: 30 EUR) (80.03 %  de descuento) en el siguiente enlace!
 
 [![EIS  Lubricante Deluxe Aqua vainilla  ef](https://images-eu.ssl-images-amazon.com/images/I/31k9CwXIniL._SL200_.jpg)](https://www.amazon.es/dp/B075DG37YY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B075DG37YY/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B075DG37YY/?tag=tolees-21)

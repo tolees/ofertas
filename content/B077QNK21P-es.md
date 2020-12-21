@@ -19,11 +19,11 @@ descuento: '43.97'
 average: '56'
 ---
 
-Ahora mismo tienes [Adidas Superstar Cm8073  Zapatillas de Deporte para Hombre  Blanco  Balcri/Veruni/Negbás 000   46 EU](https://www.amazon.es/dp/B077QNK21P/?tag=tolees-21) a 56 EUR (original: 99.95 EUR) (43.97 %  de descuento) en el siguiente enlace!
+Está [Adidas Superstar Cm8073  Zapatillas de Deporte para Hombre  Blanco  Balcri/Veruni/Negbás 000   46 EU](https://www.amazon.es/dp/B077QNK21P/?tag=tolees-21) con 43.97 de descuento por 56 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![Adidas Superstar Cm8073  Zapatillas de D](https://images-eu.ssl-images-amazon.com/images/I/41oJ905kNqL._SL200_.jpg)](https://www.amazon.es/dp/B077QNK21P/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B077QNK21P/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B077QNK21P/?tag=tolees-21)

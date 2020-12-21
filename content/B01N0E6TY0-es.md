@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pompadour - Hierba Luisa - Té de Plantas al 80.62 % de descuento'
+title: 'Descuento del 80.62 % en Pompadour - Hierba Luisa - Té de Plantas'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51yVxzvVXiL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '80.62'
 average: '1.89'
 ---
 
-Está [Pompadour - Hierba Luisa - Té de Plantas - 20 bolsitas - [Pack de 5]](https://www.amazon.es/dp/B01N0E6TY0/?tag=tolees-21) con 80.62 de descuento por 1.89 EUR (original: 9.75 EUR) en el siguiente enlace!
+Tienes [Pompadour - Hierba Luisa - Té de Plantas - 20 bolsitas - [Pack de 5]](https://www.amazon.es/dp/B01N0E6TY0/?tag=tolees-21) con un 80.62 % de descuento con precio de oferta de 1.89 EUR (original: 9.75 EUR) en el siguiente enlace!
 
 [![Pompadour - Hierba Luisa - Té de Plantas](https://images-eu.ssl-images-amazon.com/images/I/51yVxzvVXiL._SL200_.jpg)](https://www.amazon.es/dp/B01N0E6TY0/?tag=tolees-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01N0E6TY0/?tag=tolees-21)
+[Accede a la oferta!!](https://www.amazon.es/dp/B01N0E6TY0/?tag=tolees-21)

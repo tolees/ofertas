@@ -19,11 +19,11 @@ descuento: '79.09'
 average: '27.18'
 ---
 
-Ahora mismo tienes [Pepe Jeans London Maddox Ring  Botas para Mujer  Negro  Black 999   36 EU](https://www.amazon.es/dp/B079QJB1ZQ/?tag=tolees-21) a 27.18 EUR (original: 130 EUR) (79.09 %  de descuento) en el siguiente enlace!
+Está [Pepe Jeans London Maddox Ring  Botas para Mujer  Negro  Black 999   36 EU](https://www.amazon.es/dp/B079QJB1ZQ/?tag=tolees-21) con 79.09 de descuento por 27.18 EUR (original: 130 EUR) en el siguiente enlace!
 
 [![Pepe Jeans London Maddox Ring  Botas par](https://images-eu.ssl-images-amazon.com/images/I/41xNCOMjUAL._SL200_.jpg)](https://www.amazon.es/dp/B079QJB1ZQ/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B079QJB1ZQ/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B079QJB1ZQ/?tag=tolees-21)

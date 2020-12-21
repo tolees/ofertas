@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 28.52 % en Bombilla LED GU5.3 MR16 12V 5W Blanco Ca'
+title: 'Bombilla LED GU5.3 MR16 12V 5W Blanco Ca al 28.52 % de descuento'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51-Mo2B5hqL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '28.52'
 average: '15.99'
 ---
 
-Tienes [Bombilla LED GU5.3 MR16 12V 5W Blanco Calido Equivalente a Halogeno 35W Spot Luz 2800K GU 5.3 Foco Ojo de Buey 400 Lumen Ø50 x 48 mm （Pack de 6）](https://www.amazon.es/dp/B07NQ3ZK86/?tag=tolees-21) con un 28.52 % de descuento con precio de oferta de 15.99 EUR (original: 22.37 EUR) en el siguiente enlace!
+Está [Bombilla LED GU5.3 MR16 12V 5W Blanco Calido Equivalente a Halogeno 35W Spot Luz 2800K GU 5.3 Foco Ojo de Buey 400 Lumen Ø50 x 48 mm （Pack de 6）](https://www.amazon.es/dp/B07NQ3ZK86/?tag=tolees-21) con 28.52 de descuento por 15.99 EUR (original: 22.37 EUR) en el siguiente enlace!
 
 [![Bombilla LED GU5.3 MR16 12V 5W Blanco Ca](https://images-eu.ssl-images-amazon.com/images/I/51-Mo2B5hqL._SL200_.jpg)](https://www.amazon.es/dp/B07NQ3ZK86/?tag=tolees-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B07NQ3ZK86/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07NQ3ZK86/?tag=tolees-21)

@@ -19,11 +19,11 @@ descuento: '61.15'
 average: '19.95'
 ---
 
-Ahora mismo tienes [Dockers by Gerli 41mc104-610410  Zapatillas Altas para Hombre  Marrón  REH   46 EU](https://www.amazon.es/dp/B071RSFXFC/?tag=tolees-21) a 19.95 EUR (original: 51.35 EUR) (61.15 %  de descuento) en el siguiente enlace!
+Está [Dockers by Gerli 41mc104-610410  Zapatillas Altas para Hombre  Marrón  REH   46 EU](https://www.amazon.es/dp/B071RSFXFC/?tag=tolees-21) con 61.15 de descuento por 19.95 EUR (original: 51.35 EUR) en el siguiente enlace!
 
 [![Dockers by Gerli 41mc104-610410  Zapatil](https://images-eu.ssl-images-amazon.com/images/I/41rH2tsVXvL._SL200_.jpg)](https://www.amazon.es/dp/B071RSFXFC/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B071RSFXFC/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B071RSFXFC/?tag=tolees-21)

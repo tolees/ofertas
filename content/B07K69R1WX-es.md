@@ -19,11 +19,11 @@ descuento: '36.20'
 average: '8.9'
 ---
 
-Ahora mismo tienes [L Oréal Paris Rouge Signature 109 I Savor Pintalabios Mate Permanente Rosa - 7 ml](https://www.amazon.es/dp/B07K69R1WX/?tag=tolees-21) a 8.9 EUR (original: 13.95 EUR) (36.20 %  de descuento) en el siguiente enlace!
+Está [L Oréal Paris Rouge Signature 109 I Savor Pintalabios Mate Permanente Rosa - 7 ml](https://www.amazon.es/dp/B07K69R1WX/?tag=tolees-21) con 36.20 de descuento por 8.9 EUR (original: 13.95 EUR) en el siguiente enlace!
 
 [![L Oréal Paris Rouge Signature 109 I Savo](https://images-eu.ssl-images-amazon.com/images/I/31-JxL8UvOL._SL200_.jpg)](https://www.amazon.es/dp/B07K69R1WX/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07K69R1WX/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07K69R1WX/?tag=tolees-21)

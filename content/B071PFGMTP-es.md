@@ -19,11 +19,11 @@ descuento: '34.03'
 average: '32.95'
 ---
 
-Ahora mismo tienes [adidas Stan Smith CF I  Zapatillas Unisex bebé  Blanco Footwear White/Green 0  23 EU](https://www.amazon.es/dp/B071PFGMTP/?tag=tolees-21) a 32.95 EUR (original: 49.95 EUR) (34.03 %  de descuento) en el siguiente enlace!
+Está [adidas Stan Smith CF I  Zapatillas Unisex bebé  Blanco Footwear White/Green 0  23 EU](https://www.amazon.es/dp/B071PFGMTP/?tag=tolees-21) con 34.03 de descuento por 32.95 EUR (original: 49.95 EUR) en el siguiente enlace!
 
 [![adidas Stan Smith CF I  Zapatillas Unise](https://images-eu.ssl-images-amazon.com/images/I/41fu18P2dwL._SL200_.jpg)](https://www.amazon.es/dp/B071PFGMTP/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B071PFGMTP/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B071PFGMTP/?tag=tolees-21)

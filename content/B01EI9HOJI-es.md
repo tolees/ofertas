@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Originals Gazelle  Zapatillas Uni al 30.50 % de descuento'
+title: 'adidas Originals Gazelle  Zapatillas Uni al 30.50 % de rebaja'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41PIsRL2fsL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '30.50'
 average: '65.99'
 ---
 
-Está [adidas Originals Gazelle  Zapatillas Unisex Adulto  Varios colores  Collegiate Navy/White/Gold Metalic   46 EU](https://www.amazon.es/dp/B01EI9HOJI/?tag=tolees-21) con 30.50 de descuento por 65.99 EUR (original: 94.95 EUR) en el siguiente enlace!
+Tienes [adidas Originals Gazelle  Zapatillas Unisex Adulto  Varios colores  Collegiate Navy/White/Gold Metalic   46 EU](https://www.amazon.es/dp/B01EI9HOJI/?tag=tolees-21) con precio final de  65.99 EUR (original: 94.95 EUR) (30.50 %  de rebaja) aqui!
 
 [![adidas Originals Gazelle  Zapatillas Uni](https://images-eu.ssl-images-amazon.com/images/I/41PIsRL2fsL._SL200_.jpg)](https://www.amazon.es/dp/B01EI9HOJI/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01EI9HOJI/?tag=tolees-21)
+[Comprar!!!](https://www.amazon.es/dp/B01EI9HOJI/?tag=tolees-21)

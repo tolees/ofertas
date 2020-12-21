@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Canon Legria HF G50 - Videocámara de 3"  al 17.35 % de descuento'
+title: 'Canon Legria HF G50 - Videocámara de 3"  con un 17.35 % de descuento'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31ETPY60aZL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '17.35'
 average: '975.19'
 ---
 
-Está [Canon Legria HF G50 - Videocámara de 3"  Zoom óptico de 20x  Gran Angular 58 mm  Sensor 21.14 MP  Pantalla táctil  Filtro de gradación Incorporado  Color Negro](https://www.amazon.es/dp/B07QH4Y38D/?tag=tolees-21) con 17.35 de descuento por 975.19 EUR (original: 1179.9 EUR) en el siguiente enlace!
+En este momento está [Canon Legria HF G50 - Videocámara de 3"  Zoom óptico de 20x  Gran Angular 58 mm  Sensor 21.14 MP  Pantalla táctil  Filtro de gradación Incorporado  Color Negro](https://www.amazon.es/dp/B07QH4Y38D/?tag=tolees-21) a 975.19 EUR (original: 1179.9 EUR) (17.35 %  de descuento) en el siguiente enlace!
 
 [![Canon Legria HF G50 - Videocámara de 3" ](https://images-eu.ssl-images-amazon.com/images/I/31ETPY60aZL._SL200_.jpg)](https://www.amazon.es/dp/B07QH4Y38D/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07QH4Y38D/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B07QH4Y38D/?tag=tolees-21)

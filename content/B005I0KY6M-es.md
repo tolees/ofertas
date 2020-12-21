@@ -19,11 +19,11 @@ descuento: '42.08'
 average: '38.89'
 ---
 
-Ahora mismo tienes [Fleshjack Masturbadores Él - 1 unidad](https://www.amazon.es/dp/B005I0KY6M/?tag=tolees-21) a 38.89 EUR (original: 67.14 EUR) (42.08 %  de descuento) en el siguiente enlace!
+Está [Fleshjack Masturbadores Él - 1 unidad](https://www.amazon.es/dp/B005I0KY6M/?tag=tolees-21) con 42.08 de descuento por 38.89 EUR (original: 67.14 EUR) en el siguiente enlace!
 
 [![Fleshjack Masturbadores Él - 1 unidad](https://images-eu.ssl-images-amazon.com/images/I/410rxvilF1L._SL200_.jpg)](https://www.amazon.es/dp/B005I0KY6M/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B005I0KY6M/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B005I0KY6M/?tag=tolees-21)

@@ -19,11 +19,11 @@ descuento: '47.79'
 average: '36.55'
 ---
 
-Ahora mismo tienes [Under Armour UA Drift RN Mineral  Zapatillas de Running para Hombre  Gris  Glacier Gray   41 EU](https://www.amazon.es/dp/B01CE421OM/?tag=tolees-21) a 36.55 EUR (original: 70 EUR) (47.79 %  de descuento) en el siguiente enlace!
+Está [Under Armour UA Drift RN Mineral  Zapatillas de Running para Hombre  Gris  Glacier Gray   41 EU](https://www.amazon.es/dp/B01CE421OM/?tag=tolees-21) con 47.79 de descuento por 36.55 EUR (original: 70 EUR) en el siguiente enlace!
 
 [![Under Armour UA Drift RN Mineral  Zapati](https://images-eu.ssl-images-amazon.com/images/I/419icvbnISL._SL200_.jpg)](https://www.amazon.es/dp/B01CE421OM/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B01CE421OM/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01CE421OM/?tag=tolees-21)

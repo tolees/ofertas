@@ -19,11 +19,11 @@ descuento: '55.90'
 average: '128.07'
 ---
 
-Está [Memoria RAM G.Skill RipJaws Series 5  16 GB  4 x 4 GB  3000 CL15 DDR4  MHz](https://www.amazon.es/dp/B014V9ELX2/?tag=tolees-21) con 55.90 de descuento por 128.07 EUR (original: 290.4 EUR) en el siguiente enlace!
+Ahora mismo tienes [Memoria RAM G.Skill RipJaws Series 5  16 GB  4 x 4 GB  3000 CL15 DDR4  MHz](https://www.amazon.es/dp/B014V9ELX2/?tag=tolees-21) a 128.07 EUR (original: 290.4 EUR) (55.90 %  de descuento) en el siguiente enlace!
 
 [![Memoria RAM G.Skill RipJaws Series 5  16](https://images-eu.ssl-images-amazon.com/images/I/51MZggC8RnL._SL200_.jpg)](https://www.amazon.es/dp/B014V9ELX2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B014V9ELX2/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B014V9ELX2/?tag=tolees-21)

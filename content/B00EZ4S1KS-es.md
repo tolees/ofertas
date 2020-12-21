@@ -19,11 +19,11 @@ descuento: '54.52'
 average: '12.73'
 ---
 
-Ahora mismo tienes [Philips myLiving Chantilly - Plafón  casquillo E27  14 W  luz blanca cálida  IP20  color blanco](https://www.amazon.es/dp/B00EZ4S1KS/?tag=tolees-21) a 12.73 EUR (original: 27.99 EUR) (54.52 %  de descuento) en el siguiente enlace!
+Está [Philips myLiving Chantilly - Plafón  casquillo E27  14 W  luz blanca cálida  IP20  color blanco](https://www.amazon.es/dp/B00EZ4S1KS/?tag=tolees-21) con 54.52 de descuento por 12.73 EUR (original: 27.99 EUR) en el siguiente enlace!
 
 [![Philips myLiving Chantilly - Plafón  cas](https://images-eu.ssl-images-amazon.com/images/I/31PrBmPqbvL._SL200_.jpg)](https://www.amazon.es/dp/B00EZ4S1KS/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B00EZ4S1KS/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00EZ4S1KS/?tag=tolees-21)

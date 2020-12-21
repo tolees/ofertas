@@ -19,11 +19,11 @@ descuento: '67.06'
 average: '2.53'
 ---
 
-Está [Max Factor Colour Elixir Barra de Labios  Color Foxy Amb.025-4 gr](https://www.amazon.es/dp/B00D7BCWVE/?tag=tolees-21) con 67.06 de descuento por 2.53 EUR (original: 7.68 EUR) en el siguiente enlace!
+Ahora mismo tienes [Max Factor Colour Elixir Barra de Labios  Color Foxy Amb.025-4 gr](https://www.amazon.es/dp/B00D7BCWVE/?tag=tolees-21) a 2.53 EUR (original: 7.68 EUR) (67.06 %  de descuento) en el siguiente enlace!
 
 [![Max Factor Colour Elixir Barra de Labios](https://images-eu.ssl-images-amazon.com/images/I/21HEJcm7crL._SL200_.jpg)](https://www.amazon.es/dp/B00D7BCWVE/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00D7BCWVE/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00D7BCWVE/?tag=tolees-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 36.25 % en Samyang F1120406101 - Objetivo fotográfi'
+title: 'Samyang F1120406101 - Objetivo fotográfi al 36.25 % de descuento'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41mSrb%2BjBRL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '36.25'
 average: '298.98'
 ---
 
-Tienes [Samyang F1120406101 - Objetivo fotográfico DSLR para Sony E  Distancia Focal Fija 10mm  Apertura f/2.8-22 ED AS NCS CS   Negro](https://www.amazon.es/dp/B00LUP7PZ2/?tag=tolees-21) con un 36.25 % de descuento con precio de oferta de 298.98 EUR (original: 469 EUR) en el siguiente enlace!
+Ahora mismo tienes [Samyang F1120406101 - Objetivo fotográfico DSLR para Sony E  Distancia Focal Fija 10mm  Apertura f/2.8-22 ED AS NCS CS   Negro](https://www.amazon.es/dp/B00LUP7PZ2/?tag=tolees-21) a 298.98 EUR (original: 469 EUR) (36.25 %  de descuento) en el siguiente enlace!
 
 [![Samyang F1120406101 - Objetivo fotográfi](https://images-eu.ssl-images-amazon.com/images/I/41mSrb%2BjBRL._SL200_.jpg)](https://www.amazon.es/dp/B00LUP7PZ2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B00LUP7PZ2/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00LUP7PZ2/?tag=tolees-21)

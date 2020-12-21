@@ -19,11 +19,11 @@ descuento: '20.00'
 average: '20.8'
 ---
 
-Ahora mismo tienes [FIND Lace Up Baseball Zapatillas altas Mujer  Blanco  White   39 EU](https://www.amazon.es/dp/B071ZCLSXL/?tag=tolees-21) a 20.8 EUR (original: 26 EUR) (20.00 %  de descuento) en el siguiente enlace!
+Está [FIND Lace Up Baseball Zapatillas altas Mujer  Blanco  White   39 EU](https://www.amazon.es/dp/B071ZCLSXL/?tag=tolees-21) con 20.00 de descuento por 20.8 EUR (original: 26 EUR) en el siguiente enlace!
 
 [![FIND Lace Up Baseball Zapatillas altas M](https://images-eu.ssl-images-amazon.com/images/I/215PJnDrsPL._SL200_.jpg)](https://www.amazon.es/dp/B071ZCLSXL/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B071ZCLSXL/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B071ZCLSXL/?tag=tolees-21)

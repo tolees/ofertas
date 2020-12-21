@@ -19,11 +19,11 @@ descuento: '37.12'
 average: '62.85'
 ---
 
-Ahora mismo tienes [Salomon Trailster  Zapatillas de Trail Running para Hombre  Azul Black/Indigo Bunting  47 1/3 EU](https://www.amazon.es/dp/B07BS1BQHP/?tag=tolees-21) a 62.85 EUR (original: 99.95 EUR) (37.12 %  de descuento) en el siguiente enlace!
+Está [Salomon Trailster  Zapatillas de Trail Running para Hombre  Azul Black/Indigo Bunting  47 1/3 EU](https://www.amazon.es/dp/B07BS1BQHP/?tag=tolees-21) con 37.12 de descuento por 62.85 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![Salomon Trailster  Zapatillas de Trail R](https://images-eu.ssl-images-amazon.com/images/I/41bFQvHOcRL._SL200_.jpg)](https://www.amazon.es/dp/B07BS1BQHP/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07BS1BQHP/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07BS1BQHP/?tag=tolees-21)

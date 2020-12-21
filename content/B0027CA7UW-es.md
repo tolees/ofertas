@@ -19,11 +19,11 @@ descuento: '64.10'
 average: '4.29'
 ---
 
-Está [Kingston SDC4/8GBSP - Tarjeta Micro SDHC de 8 GB  Clase 4](https://www.amazon.es/dp/B0027CA7UW/?tag=tolees-21) con 64.10 de descuento por 4.29 EUR (original: 11.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Kingston SDC4/8GBSP - Tarjeta Micro SDHC de 8 GB  Clase 4](https://www.amazon.es/dp/B0027CA7UW/?tag=tolees-21) a 4.29 EUR (original: 11.95 EUR) (64.10 %  de descuento) en el siguiente enlace!
 
 [![Kingston SDC4/8GBSP - Tarjeta Micro SDHC]()](https://www.amazon.es/dp/B0027CA7UW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B0027CA7UW/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B0027CA7UW/?tag=tolees-21)

@@ -19,11 +19,11 @@ descuento: '65.09'
 average: '21.99'
 ---
 
-Ahora mismo tienes [CNASA Kit de Reemplazo para iRobot Roomba Serie 800/900 Recambios for 805 850 860 861 866 870 871 880 885 960 966 980  Roomba Recambios Serie Incluso Filtros  Cepillos y Tornillos](https://www.amazon.es/dp/B07DN85FR6/?tag=tolees-21) a 21.99 EUR (original: 62.99 EUR) (65.09 %  de descuento) en el siguiente enlace!
+Está [CNASA Kit de Reemplazo para iRobot Roomba Serie 800/900 Recambios for 805 850 860 861 866 870 871 880 885 960 966 980  Roomba Recambios Serie Incluso Filtros  Cepillos y Tornillos](https://www.amazon.es/dp/B07DN85FR6/?tag=tolees-21) con 65.09 de descuento por 21.99 EUR (original: 62.99 EUR) en el siguiente enlace!
 
 [![CNASA Kit de Reemplazo para iRobot Roomb](https://images-eu.ssl-images-amazon.com/images/I/51yEpiaxl2L._SL200_.jpg)](https://www.amazon.es/dp/B07DN85FR6/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07DN85FR6/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DN85FR6/?tag=tolees-21)

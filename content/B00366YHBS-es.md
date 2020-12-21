@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 35.31 % en Royal Canin C-08982 S.N. Shih Tzu 24 - 1'
+title: 'Royal Canin C-08982 S.N. Shih Tzu 24 - 1 al 35.31 % de descuento'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51AC6TgxynL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '35.31'
 average: '14.84'
 ---
 
-Tienes [Royal Canin C-08982 S.N. Shih Tzu 24 - 1.5 Kg](https://www.amazon.es/dp/B00366YHBS/?tag=tolees-21) con un 35.31 % de descuento con precio de oferta de 14.84 EUR (original: 22.94 EUR) en el siguiente enlace!
+Está [Royal Canin C-08982 S.N. Shih Tzu 24 - 1.5 Kg](https://www.amazon.es/dp/B00366YHBS/?tag=tolees-21) con 35.31 de descuento por 14.84 EUR (original: 22.94 EUR) en el siguiente enlace!
 
 [![Royal Canin C-08982 S.N. Shih Tzu 24 - 1](https://images-eu.ssl-images-amazon.com/images/I/51AC6TgxynL._SL200_.jpg)](https://www.amazon.es/dp/B00366YHBS/?tag=tolees-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B00366YHBS/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00366YHBS/?tag=tolees-21)

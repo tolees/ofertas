@@ -19,11 +19,11 @@ descuento: '77.66'
 average: '15.63'
 ---
 
-Ahora mismo tienes [Desires Kalvin 3 Mono Largo  Negro  Black   X-Small  Tamaño del Fabricante:XS  para Mujer](https://www.amazon.es/dp/B0733H1TTZ/?tag=tolees-21) a 15.63 EUR (original: 69.95 EUR) (77.66 %  de descuento) en el siguiente enlace!
+Está [Desires Kalvin 3 Mono Largo  Negro  Black   X-Small  Tamaño del Fabricante:XS  para Mujer](https://www.amazon.es/dp/B0733H1TTZ/?tag=tolees-21) con 77.66 de descuento por 15.63 EUR (original: 69.95 EUR) en el siguiente enlace!
 
 [![Desires Kalvin 3 Mono Largo  Negro  Blac](https://images-eu.ssl-images-amazon.com/images/I/31mv7dNrvhL._SL200_.jpg)](https://www.amazon.es/dp/B0733H1TTZ/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B0733H1TTZ/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0733H1TTZ/?tag=tolees-21)

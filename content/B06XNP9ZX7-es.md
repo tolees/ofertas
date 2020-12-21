@@ -19,11 +19,11 @@ descuento: '38.59'
 average: '51.51'
 ---
 
-Está [Panthera casco de moto modulable Hybrid negro mate talla S](https://www.amazon.es/dp/B06XNP9ZX7/?tag=tolees-21) con 38.59 de descuento por 51.51 EUR (original: 83.88 EUR) en el siguiente enlace!
+Ahora mismo tienes [Panthera casco de moto modulable Hybrid negro mate talla S](https://www.amazon.es/dp/B06XNP9ZX7/?tag=tolees-21) a 51.51 EUR (original: 83.88 EUR) (38.59 %  de descuento) en el siguiente enlace!
 
 [![Panthera casco de moto modulable Hybrid ](https://images-eu.ssl-images-amazon.com/images/I/41NCVJ5xSKL._SL200_.jpg)](https://www.amazon.es/dp/B06XNP9ZX7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B06XNP9ZX7/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B06XNP9ZX7/?tag=tolees-21)

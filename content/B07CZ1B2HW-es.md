@@ -19,11 +19,11 @@ descuento: '25.00'
 average: '52.5'
 ---
 
-Está [Nike MD Runner 2 Eng Mesh  Zapatillas para Hombre  Azul  Midnight Navy/Metallic Silver-Gym Blue 402   45 EU](https://www.amazon.es/dp/B07CZ1B2HW/?tag=tolees-21) con 25.00 de descuento por 52.5 EUR (original: 70 EUR) en el siguiente enlace!
+Ahora mismo tienes [Nike MD Runner 2 Eng Mesh  Zapatillas para Hombre  Azul  Midnight Navy/Metallic Silver-Gym Blue 402   45 EU](https://www.amazon.es/dp/B07CZ1B2HW/?tag=tolees-21) a 52.5 EUR (original: 70 EUR) (25.00 %  de descuento) en el siguiente enlace!
 
 [![Nike MD Runner 2 Eng Mesh  Zapatillas pa](https://images-eu.ssl-images-amazon.com/images/I/51k8DZpoyqL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ1B2HW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07CZ1B2HW/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07CZ1B2HW/?tag=tolees-21)

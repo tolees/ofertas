@@ -19,11 +19,11 @@ descuento: '15.38'
 average: '5.5'
 ---
 
-Ahora mismo tienes [oodji Ultra Mujer Calcetines Tobilleros  Pack de 6   Multicolor  ES 35-37 / S](https://www.amazon.es/dp/B077Q6YB6H/?tag=tolees-21) a 5.5 EUR (original: 6.5 EUR) (15.38 %  de descuento) en el siguiente enlace!
+Está [oodji Ultra Mujer Calcetines Tobilleros  Pack de 6   Multicolor  ES 35-37 / S](https://www.amazon.es/dp/B077Q6YB6H/?tag=tolees-21) con 15.38 de descuento por 5.5 EUR (original: 6.5 EUR) en el siguiente enlace!
 
 [![oodji Ultra Mujer Calcetines Tobilleros ](https://images-eu.ssl-images-amazon.com/images/I/312ngs9UseL._SL200_.jpg)](https://www.amazon.es/dp/B077Q6YB6H/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B077Q6YB6H/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B077Q6YB6H/?tag=tolees-21)

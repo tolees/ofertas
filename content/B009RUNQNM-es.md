@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 36.30 % en Licor Pernod 1L'
+title: 'Licor Pernod 1L al 36.30 % de rebaja'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31QGdpQoVCL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '36.30'
 average: '9.58'
 ---
 
-Tienes [Licor Pernod 1L](https://www.amazon.es/dp/B009RUNQNM/?tag=tolees-21) con un 36.30 % de descuento con precio de oferta de 9.58 EUR (original: 15.04 EUR) en el siguiente enlace!
+Tienes [Licor Pernod 1L](https://www.amazon.es/dp/B009RUNQNM/?tag=tolees-21) con precio final de  9.58 EUR (original: 15.04 EUR) (36.30 %  de rebaja) aqui!
 
 [![Licor Pernod 1L](https://images-eu.ssl-images-amazon.com/images/I/31QGdpQoVCL._SL200_.jpg)](https://www.amazon.es/dp/B009RUNQNM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B009RUNQNM/?tag=tolees-21)
+[Comprar!!!](https://www.amazon.es/dp/B009RUNQNM/?tag=tolees-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 50.11 % en Super Bomberman R - Shiny Edition'
+title: 'Super Bomberman R - Shiny Edition al 50.11 % de descuento'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/61x-KMJsUVL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '50.11'
 average: '19.95'
 ---
 
-Tienes [Super Bomberman R - Shiny Edition](https://www.amazon.es/dp/B07BF2PR6X/?tag=tolees-21) con un 50.11 % de descuento con precio de oferta de 19.95 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [Super Bomberman R - Shiny Edition](https://www.amazon.es/dp/B07BF2PR6X/?tag=tolees-21) con 50.11 de descuento por 19.95 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![Super Bomberman R - Shiny Edition](https://images-eu.ssl-images-amazon.com/images/I/61x-KMJsUVL._SL200_.jpg)](https://www.amazon.es/dp/B07BF2PR6X/?tag=tolees-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B07BF2PR6X/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07BF2PR6X/?tag=tolees-21)

@@ -19,11 +19,11 @@ descuento: '27.82'
 average: '8.95'
 ---
 
-Está [adidas Estro 19 JSY T-Shirt  Hombre  Maroon/White  L](https://www.amazon.es/dp/B07K16Q2KB/?tag=tolees-21) con 27.82 de descuento por 8.95 EUR (original: 12.4 EUR) en el siguiente enlace!
+Ahora mismo tienes [adidas Estro 19 JSY T-Shirt  Hombre  Maroon/White  L](https://www.amazon.es/dp/B07K16Q2KB/?tag=tolees-21) a 8.95 EUR (original: 12.4 EUR) (27.82 %  de descuento) en el siguiente enlace!
 
 [![adidas Estro 19 JSY T-Shirt  Hombre  Mar](https://images-eu.ssl-images-amazon.com/images/I/31ZgBZDsWeL._SL200_.jpg)](https://www.amazon.es/dp/B07K16Q2KB/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07K16Q2KB/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07K16Q2KB/?tag=tolees-21)

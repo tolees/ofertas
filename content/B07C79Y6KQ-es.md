@@ -19,11 +19,11 @@ descuento: '24.95'
 average: '7.67'
 ---
 
-Ahora mismo tienes [Marca Amazon Solimo Café molido Aroma compatible con todos los usos - certificado UTZ  1 36 kg  6 x 227g ](https://www.amazon.es/dp/B07C79Y6KQ/?tag=tolees-21) a 7.67 EUR (original: 10.22 EUR) (24.95 %  de descuento) en el siguiente enlace!
+Está [Marca Amazon Solimo Café molido Aroma compatible con todos los usos - certificado UTZ  1 36 kg  6 x 227g ](https://www.amazon.es/dp/B07C79Y6KQ/?tag=tolees-21) con 24.95 de descuento por 7.67 EUR (original: 10.22 EUR) en el siguiente enlace!
 
 [![Marca Amazon Solimo Café molido Aroma co](https://images-eu.ssl-images-amazon.com/images/I/41ztbLdYU6L._SL200_.jpg)](https://www.amazon.es/dp/B07C79Y6KQ/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07C79Y6KQ/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07C79Y6KQ/?tag=tolees-21)

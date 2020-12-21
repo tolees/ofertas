@@ -19,11 +19,11 @@ descuento: '19.20'
 average: '105'
 ---
 
-Está [adidas I-5923  Zapatillas de Gimnasia para Hombre  Amarillo Tribe Yellow/Night Indigo/Gum 3  42 EU](https://www.amazon.es/dp/B07JZPGWZC/?tag=tolees-21) con 19.20 de descuento por 105 EUR (original: 129.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [adidas I-5923  Zapatillas de Gimnasia para Hombre  Amarillo Tribe Yellow/Night Indigo/Gum 3  42 EU](https://www.amazon.es/dp/B07JZPGWZC/?tag=tolees-21) a 105 EUR (original: 129.95 EUR) (19.20 %  de descuento) en el siguiente enlace!
 
 [![adidas I-5923  Zapatillas de Gimnasia pa](https://images-eu.ssl-images-amazon.com/images/I/41uFdenbfdL._SL200_.jpg)](https://www.amazon.es/dp/B07JZPGWZC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07JZPGWZC/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07JZPGWZC/?tag=tolees-21)

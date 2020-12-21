@@ -19,11 +19,11 @@ descuento: '20.96'
 average: '79'
 ---
 
-Está [Keter -  Mesa comedor exterior Melody de 6 plazas  Color grafito](https://www.amazon.es/dp/B006LXTG7S/?tag=tolees-21) con 20.96 de descuento por 79 EUR (original: 99.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Keter -  Mesa comedor exterior Melody de 6 plazas  Color grafito](https://www.amazon.es/dp/B006LXTG7S/?tag=tolees-21) a 79 EUR (original: 99.95 EUR) (20.96 %  de descuento) en el siguiente enlace!
 
 [![Keter -  Mesa comedor exterior Melody de](https://images-eu.ssl-images-amazon.com/images/I/31SX8Efl1XL._SL200_.jpg)](https://www.amazon.es/dp/B006LXTG7S/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B006LXTG7S/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B006LXTG7S/?tag=tolees-21)

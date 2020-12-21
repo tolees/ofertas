@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 45.72 % en Makita DUH523Z - Cortasetos 18V Litio 52'
+title: 'Makita DUH523Z - Cortasetos 18V Litio 52 al 45.72 % de descuento'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/311Iz2JbsVL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '45.72'
 average: '90.82'
 ---
 
-Tienes [Makita DUH523Z - Cortasetos 18V Litio 52cm](https://www.amazon.es/dp/B00I8N1ABY/?tag=tolees-21) con un 45.72 % de descuento con precio de oferta de 90.82 EUR (original: 167.33 EUR) en el siguiente enlace!
+Está [Makita DUH523Z - Cortasetos 18V Litio 52cm](https://www.amazon.es/dp/B00I8N1ABY/?tag=tolees-21) con 45.72 de descuento por 90.82 EUR (original: 167.33 EUR) en el siguiente enlace!
 
 [![Makita DUH523Z - Cortasetos 18V Litio 52](https://images-eu.ssl-images-amazon.com/images/I/311Iz2JbsVL._SL200_.jpg)](https://www.amazon.es/dp/B00I8N1ABY/?tag=tolees-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B00I8N1ABY/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00I8N1ABY/?tag=tolees-21)

@@ -19,11 +19,11 @@ descuento: '24.63'
 average: '451.44'
 ---
 
-Está [Nokia 8](https://www.amazon.es/dp/B075R9YMG7/?tag=tolees-21) con 24.63 de descuento por 451.44 EUR (original: 599 EUR) en el siguiente enlace!
+Ahora mismo tienes [Nokia 8](https://www.amazon.es/dp/B075R9YMG7/?tag=tolees-21) a 451.44 EUR (original: 599 EUR) (24.63 %  de descuento) en el siguiente enlace!
 
 [![Nokia 8](https://images-eu.ssl-images-amazon.com/images/I/516-wAQM2rL._SL200_.jpg)](https://www.amazon.es/dp/B075R9YMG7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B075R9YMG7/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B075R9YMG7/?tag=tolees-21)

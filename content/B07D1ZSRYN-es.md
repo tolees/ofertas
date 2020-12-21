@@ -19,11 +19,11 @@ descuento: '19.93'
 average: '14.99'
 ---
 
-Ahora mismo tienes [Led Atomant Pantalla 60 cm Plus  Doble Potencia  36 W  Color Blanco Neutro 4500K  Tubo Integrado T8  Equivalente a 4 Tubos Fluorescentes 3400 LM  Regleta Led Slim  60cm](https://www.amazon.es/dp/B07D1ZSRYN/?tag=tolees-21) a 14.99 EUR (original: 18.72 EUR) (19.93 %  de descuento) en el siguiente enlace!
+Está [Led Atomant Pantalla 60 cm Plus  Doble Potencia  36 W  Color Blanco Neutro 4500K  Tubo Integrado T8  Equivalente a 4 Tubos Fluorescentes 3400 LM  Regleta Led Slim  60cm](https://www.amazon.es/dp/B07D1ZSRYN/?tag=tolees-21) con 19.93 de descuento por 14.99 EUR (original: 18.72 EUR) en el siguiente enlace!
 
 [![Led Atomant Pantalla 60 cm Plus  Doble P](https://images-eu.ssl-images-amazon.com/images/I/31VULDoytRL._SL200_.jpg)](https://www.amazon.es/dp/B07D1ZSRYN/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07D1ZSRYN/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07D1ZSRYN/?tag=tolees-21)

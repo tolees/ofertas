@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'This Is The Police al 50.23 % de descuento'
+title: 'This Is The Police con un 50.23 % de descuento'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41EaDd%2BVaZL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '50.23'
 average: '9.95'
 ---
 
-Ahora mismo tienes [This Is The Police](https://www.amazon.es/dp/B01N4TFUZ3/?tag=tolees-21) a 9.95 EUR (original: 19.99 EUR) (50.23 %  de descuento) en el siguiente enlace!
+En este momento está [This Is The Police](https://www.amazon.es/dp/B01N4TFUZ3/?tag=tolees-21) a 9.95 EUR (original: 19.99 EUR) (50.23 %  de descuento) en el siguiente enlace!
 
 [![This Is The Police](https://images-eu.ssl-images-amazon.com/images/I/41EaDd%2BVaZL._SL200_.jpg)](https://www.amazon.es/dp/B01N4TFUZ3/?tag=tolees-21)
 
 🔎:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B01N4TFUZ3/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B01N4TFUZ3/?tag=tolees-21)

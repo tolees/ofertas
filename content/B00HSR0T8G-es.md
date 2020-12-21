@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Burberry Brit Rhythm Woman Agua de toile al 73.13 % de descuento'
+title: 'Burberry Brit Rhythm Woman Agua de toile con un 73.13 % de descuento'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/513DmkNeK3L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '73.13'
 average: '18'
 ---
 
-Ahora mismo tienes [Burberry Brit Rhythm Woman Agua de toilette con vaporizador - 50 ml](https://www.amazon.es/dp/B00HSR0T8G/?tag=tolees-21) a 18 EUR (original: 67 EUR) (73.13 %  de descuento) en el siguiente enlace!
+En este momento está [Burberry Brit Rhythm Woman Agua de toilette con vaporizador - 50 ml](https://www.amazon.es/dp/B00HSR0T8G/?tag=tolees-21) a 18 EUR (original: 67 EUR) (73.13 %  de descuento) en el siguiente enlace!
 
 [![Burberry Brit Rhythm Woman Agua de toile](https://images-eu.ssl-images-amazon.com/images/I/513DmkNeK3L._SL200_.jpg)](https://www.amazon.es/dp/B00HSR0T8G/?tag=tolees-21)
 
 🔎:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B00HSR0T8G/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B00HSR0T8G/?tag=tolees-21)

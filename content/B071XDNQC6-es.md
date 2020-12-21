@@ -19,11 +19,11 @@ descuento: '81.55'
 average: '15.86'
 ---
 
-Ahora mismo tienes [Tamaris 25287  Botas Militar para Mujer  Negro  Black/Pewter   39 EU](https://www.amazon.es/dp/B071XDNQC6/?tag=tolees-21) a 15.86 EUR (original: 85.95 EUR) (81.55 %  de descuento) en el siguiente enlace!
+Está [Tamaris 25287  Botas Militar para Mujer  Negro  Black/Pewter   39 EU](https://www.amazon.es/dp/B071XDNQC6/?tag=tolees-21) con 81.55 de descuento por 15.86 EUR (original: 85.95 EUR) en el siguiente enlace!
 
 [![Tamaris 25287  Botas Militar para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41wGh5e0pAL._SL200_.jpg)](https://www.amazon.es/dp/B071XDNQC6/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B071XDNQC6/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B071XDNQC6/?tag=tolees-21)

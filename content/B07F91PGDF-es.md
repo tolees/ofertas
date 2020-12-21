@@ -19,11 +19,11 @@ descuento: '19.99'
 average: '56.26'
 ---
 
-Ahora mismo tienes [Dormio Ergonomic Sport - Colchón Espumación 90x200x14](https://www.amazon.es/dp/B07F91PGDF/?tag=tolees-21) a 56.26 EUR (original: 70.32 EUR) (19.99 %  de descuento) en el siguiente enlace!
+Está [Dormio Ergonomic Sport - Colchón Espumación 90x200x14](https://www.amazon.es/dp/B07F91PGDF/?tag=tolees-21) con 19.99 de descuento por 56.26 EUR (original: 70.32 EUR) en el siguiente enlace!
 
 [![Dormio Ergonomic Sport - Colchón Espumac](https://images-eu.ssl-images-amazon.com/images/I/4137Feo%2BWhL._SL200_.jpg)](https://www.amazon.es/dp/B07F91PGDF/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07F91PGDF/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07F91PGDF/?tag=tolees-21)

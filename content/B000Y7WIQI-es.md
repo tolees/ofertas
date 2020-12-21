@@ -19,11 +19,11 @@ descuento: '30.47'
 average: '12.85'
 ---
 
-Está [La Roche-Posay Kerium  Champú  125 ml](https://www.amazon.es/dp/B000Y7WIQI/?tag=tolees-21) con 30.47 de descuento por 12.85 EUR (original: 18.48 EUR) en el siguiente enlace!
+Ahora mismo tienes [La Roche-Posay Kerium  Champú  125 ml](https://www.amazon.es/dp/B000Y7WIQI/?tag=tolees-21) a 12.85 EUR (original: 18.48 EUR) (30.47 %  de descuento) en el siguiente enlace!
 
 [![La Roche-Posay Kerium  Champú  125 ml](https://images-eu.ssl-images-amazon.com/images/I/31vsqb8aGDL._SL200_.jpg)](https://www.amazon.es/dp/B000Y7WIQI/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B000Y7WIQI/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B000Y7WIQI/?tag=tolees-21)

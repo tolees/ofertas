@@ -19,11 +19,11 @@ descuento: '67.94'
 average: '8'
 ---
 
-Ahora mismo tienes [Mamma Mia! Una Y Otra Vez [Blu-ray]](https://www.amazon.es/dp/B07G3JZY1K/?tag=tolees-21) a 8 EUR (original: 24.95 EUR) (67.94 %  de descuento) en el siguiente enlace!
+Está [Mamma Mia! Una Y Otra Vez [Blu-ray]](https://www.amazon.es/dp/B07G3JZY1K/?tag=tolees-21) con 67.94 de descuento por 8 EUR (original: 24.95 EUR) en el siguiente enlace!
 
 [![Mamma Mia! Una Y Otra Vez [Blu-ray]](https://images-eu.ssl-images-amazon.com/images/I/51bT8bMup7L._SL200_.jpg)](https://www.amazon.es/dp/B07G3JZY1K/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07G3JZY1K/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07G3JZY1K/?tag=tolees-21)

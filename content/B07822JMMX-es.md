@@ -19,11 +19,11 @@ descuento: '21.52'
 average: '35.3'
 ---
 
-Está [adidas Iniki Runner CLS  Zapatillas de Gimnasia para Hombre  Blanco  Off White/Grey F17/grey Three F17   44 EU](https://www.amazon.es/dp/B07822JMMX/?tag=tolees-21) con 21.52 de descuento por 35.3 EUR (original: 44.98 EUR) en el siguiente enlace!
+Ahora mismo tienes [adidas Iniki Runner CLS  Zapatillas de Gimnasia para Hombre  Blanco  Off White/Grey F17/grey Three F17   44 EU](https://www.amazon.es/dp/B07822JMMX/?tag=tolees-21) a 35.3 EUR (original: 44.98 EUR) (21.52 %  de descuento) en el siguiente enlace!
 
 [![adidas Iniki Runner CLS  Zapatillas de G](https://images-eu.ssl-images-amazon.com/images/I/41qIPzObqJL._SL200_.jpg)](https://www.amazon.es/dp/B07822JMMX/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07822JMMX/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07822JMMX/?tag=tolees-21)

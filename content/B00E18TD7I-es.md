@@ -19,11 +19,11 @@ descuento: '57.35'
 average: '16.4'
 ---
 
-Está [Baby Boum Softy Stary 92 - Saco  0-3 meses   color grizou](https://www.amazon.es/dp/B00E18TD7I/?tag=tolees-21) con 57.35 de descuento por 16.4 EUR (original: 38.45 EUR) en el siguiente enlace!
+Ahora mismo tienes [Baby Boum Softy Stary 92 - Saco  0-3 meses   color grizou](https://www.amazon.es/dp/B00E18TD7I/?tag=tolees-21) a 16.4 EUR (original: 38.45 EUR) (57.35 %  de descuento) en el siguiente enlace!
 
 [![Baby Boum Softy Stary 92 - Saco  0-3 mes](https://images-eu.ssl-images-amazon.com/images/I/514rRnGwJuL._SL200_.jpg)](https://www.amazon.es/dp/B00E18TD7I/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00E18TD7I/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00E18TD7I/?tag=tolees-21)

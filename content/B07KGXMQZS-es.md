@@ -19,11 +19,11 @@ descuento: '41.60'
 average: '20.44'
 ---
 
-Está [Burton Friston Camisetas  Hombre  Pelican  M](https://www.amazon.es/dp/B07KGXMQZS/?tag=tolees-21) con 41.60 de descuento por 20.44 EUR (original: 35 EUR) en el siguiente enlace!
+Ahora mismo tienes [Burton Friston Camisetas  Hombre  Pelican  M](https://www.amazon.es/dp/B07KGXMQZS/?tag=tolees-21) a 20.44 EUR (original: 35 EUR) (41.60 %  de descuento) en el siguiente enlace!
 
 [![Burton Friston Camisetas  Hombre  Pelica](https://images-eu.ssl-images-amazon.com/images/I/31sSnxBW%2BxL._SL200_.jpg)](https://www.amazon.es/dp/B07KGXMQZS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07KGXMQZS/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07KGXMQZS/?tag=tolees-21)

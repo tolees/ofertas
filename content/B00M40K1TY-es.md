@@ -19,11 +19,11 @@ descuento: '49.18'
 average: '13'
 ---
 
-Ahora mismo tienes [El Profesor Layton Y La Diva Eterna - Edición Coleccionistas [Blu-ray]](https://www.amazon.es/dp/B00M40K1TY/?tag=tolees-21) a 13 EUR (original: 25.58 EUR) (49.18 %  de descuento) en el siguiente enlace!
+Está [El Profesor Layton Y La Diva Eterna - Edición Coleccionistas [Blu-ray]](https://www.amazon.es/dp/B00M40K1TY/?tag=tolees-21) con 49.18 de descuento por 13 EUR (original: 25.58 EUR) en el siguiente enlace!
 
 [![El Profesor Layton Y La Diva Eterna - Ed](https://images-eu.ssl-images-amazon.com/images/I/5109DhHOjjL._SL200_.jpg)](https://www.amazon.es/dp/B00M40K1TY/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B00M40K1TY/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00M40K1TY/?tag=tolees-21)

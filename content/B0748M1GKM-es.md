@@ -19,11 +19,11 @@ descuento: '35.02'
 average: '12.99'
 ---
 
-Ahora mismo tienes [Maison & White Espejo de aumento de maquillaje circular LED | Rotación 360 ° x10 Ampliación | Base de ventosa](https://www.amazon.es/dp/B0748M1GKM/?tag=tolees-21) a 12.99 EUR (original: 19.99 EUR) (35.02 %  de descuento) en el siguiente enlace!
+Está [Maison & White Espejo de aumento de maquillaje circular LED | Rotación 360 ° x10 Ampliación | Base de ventosa](https://www.amazon.es/dp/B0748M1GKM/?tag=tolees-21) con 35.02 de descuento por 12.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![Maison & White Espejo de aumento de maqu](https://images-eu.ssl-images-amazon.com/images/I/41chrLt4dGL._SL200_.jpg)](https://www.amazon.es/dp/B0748M1GKM/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B0748M1GKM/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0748M1GKM/?tag=tolees-21)

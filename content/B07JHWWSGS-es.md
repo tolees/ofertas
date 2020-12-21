@@ -19,11 +19,11 @@ descuento: '20.00'
 average: '39.96'
 ---
 
-Está [Puma Yogini Logo 7/8 Tight Mallas Deporte  Mujer  Azul  Peacoat Heather   XS](https://www.amazon.es/dp/B07JHWWSGS/?tag=tolees-21) con 20.00 de descuento por 39.96 EUR (original: 49.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Puma Yogini Logo 7/8 Tight Mallas Deporte  Mujer  Azul  Peacoat Heather   XS](https://www.amazon.es/dp/B07JHWWSGS/?tag=tolees-21) a 39.96 EUR (original: 49.95 EUR) (20.00 %  de descuento) en el siguiente enlace!
 
 [![Puma Yogini Logo 7/8 Tight Mallas Deport](https://images-eu.ssl-images-amazon.com/images/I/31sU-Yv2gVL._SL200_.jpg)](https://www.amazon.es/dp/B07JHWWSGS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07JHWWSGS/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07JHWWSGS/?tag=tolees-21)

@@ -19,11 +19,11 @@ descuento: '23.81'
 average: '15.58'
 ---
 
-Ahora mismo tienes [Optimum Nutrition Gold Standard 100% Whey Proteína en Polvo  Chocolate - 450 g](https://www.amazon.es/dp/B007VGDL1Q/?tag=tolees-21) a 15.58 EUR (original: 20.45 EUR) (23.81 %  de descuento) en el siguiente enlace!
+Está [Optimum Nutrition Gold Standard 100% Whey Proteína en Polvo  Chocolate - 450 g](https://www.amazon.es/dp/B007VGDL1Q/?tag=tolees-21) con 23.81 de descuento por 15.58 EUR (original: 20.45 EUR) en el siguiente enlace!
 
 [![Optimum Nutrition Gold Standard 100% Whe]()](https://www.amazon.es/dp/B007VGDL1Q/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B007VGDL1Q/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B007VGDL1Q/?tag=tolees-21)

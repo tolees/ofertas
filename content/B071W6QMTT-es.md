@@ -19,11 +19,11 @@ descuento: '51.07'
 average: '13.99'
 ---
 
-Ahora mismo tienes [Pretender Maletín de Médico con Accesorios para Juego de rol para Niños 3 Años  Rosa](https://www.amazon.es/dp/B071W6QMTT/?tag=tolees-21) a 13.99 EUR (original: 28.59 EUR) (51.07 %  de descuento) en el siguiente enlace!
+Está [Pretender Maletín de Médico con Accesorios para Juego de rol para Niños 3 Años  Rosa](https://www.amazon.es/dp/B071W6QMTT/?tag=tolees-21) con 51.07 de descuento por 13.99 EUR (original: 28.59 EUR) en el siguiente enlace!
 
 [![Pretender Maletín de Médico con Accesori](https://images-eu.ssl-images-amazon.com/images/I/51PwUW6-I8L._SL200_.jpg)](https://www.amazon.es/dp/B071W6QMTT/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B071W6QMTT/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B071W6QMTT/?tag=tolees-21)

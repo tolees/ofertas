@@ -19,11 +19,11 @@ descuento: '52.93'
 average: '15.9'
 ---
 
-Ahora mismo tienes [THE COSMETIC REPUBLIC - Keratin Fibers Castaño Oscuro - 12.5g](https://www.amazon.es/dp/B00LM8CW96/?tag=tolees-21) a 15.9 EUR (original: 33.78 EUR) (52.93 %  de descuento) en el siguiente enlace!
+Está [THE COSMETIC REPUBLIC - Keratin Fibers Castaño Oscuro - 12.5g](https://www.amazon.es/dp/B00LM8CW96/?tag=tolees-21) con 52.93 de descuento por 15.9 EUR (original: 33.78 EUR) en el siguiente enlace!
 
 [![THE COSMETIC REPUBLIC - Keratin Fibers C](https://images-eu.ssl-images-amazon.com/images/I/4177egOXVdL._SL200_.jpg)](https://www.amazon.es/dp/B00LM8CW96/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B00LM8CW96/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00LM8CW96/?tag=tolees-21)

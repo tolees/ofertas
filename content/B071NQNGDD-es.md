@@ -19,11 +19,11 @@ descuento: '20.01'
 average: '31.99'
 ---
 
-Ahora mismo tienes [Cressi Termico - Traje de baño para mujer  color negro / aguamarina  L](https://www.amazon.es/dp/B071NQNGDD/?tag=tolees-21) a 31.99 EUR (original: 39.99 EUR) (20.01 %  de descuento) en el siguiente enlace!
+Está [Cressi Termico - Traje de baño para mujer  color negro / aguamarina  L](https://www.amazon.es/dp/B071NQNGDD/?tag=tolees-21) con 20.01 de descuento por 31.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![Cressi Termico - Traje de baño para muje](https://images-eu.ssl-images-amazon.com/images/I/41aUyOE2RfL._SL200_.jpg)](https://www.amazon.es/dp/B071NQNGDD/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B071NQNGDD/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B071NQNGDD/?tag=tolees-21)

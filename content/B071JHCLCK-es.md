@@ -19,11 +19,11 @@ descuento: '21.62'
 average: '70.5'
 ---
 
-Ahora mismo tienes [adidas Campus  Zapatillas de Deporte para Hombre  Gris  Grey Three F17/ftwr White/chalk White   43 1/3 EU](https://www.amazon.es/dp/B071JHCLCK/?tag=tolees-21) a 70.5 EUR (original: 89.95 EUR) (21.62 %  de descuento) en el siguiente enlace!
+Está [adidas Campus  Zapatillas de Deporte para Hombre  Gris  Grey Three F17/ftwr White/chalk White   43 1/3 EU](https://www.amazon.es/dp/B071JHCLCK/?tag=tolees-21) con 21.62 de descuento por 70.5 EUR (original: 89.95 EUR) en el siguiente enlace!
 
 [![adidas Campus  Zapatillas de Deporte par](https://images-eu.ssl-images-amazon.com/images/I/41PvWSwxfgL._SL200_.jpg)](https://www.amazon.es/dp/B071JHCLCK/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B071JHCLCK/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B071JHCLCK/?tag=tolees-21)

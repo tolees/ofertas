@@ -19,11 +19,11 @@ descuento: '55.52'
 average: '33.36'
 ---
 
-Está [Kipling - New Shopper S  Bolsos totes Mujer  Verde  Jaded Green C ](https://www.amazon.es/dp/B07DKHFZMP/?tag=tolees-21) con 55.52 de descuento por 33.36 EUR (original: 75 EUR) en el siguiente enlace!
+Ahora mismo tienes [Kipling - New Shopper S  Bolsos totes Mujer  Verde  Jaded Green C ](https://www.amazon.es/dp/B07DKHFZMP/?tag=tolees-21) a 33.36 EUR (original: 75 EUR) (55.52 %  de descuento) en el siguiente enlace!
 
 [![Kipling - New Shopper S  Bolsos totes Mu](https://images-eu.ssl-images-amazon.com/images/I/41NenuNHelL._SL200_.jpg)](https://www.amazon.es/dp/B07DKHFZMP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07DKHFZMP/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07DKHFZMP/?tag=tolees-21)

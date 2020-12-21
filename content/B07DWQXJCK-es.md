@@ -19,11 +19,11 @@ descuento: '58.95'
 average: '30.79'
 ---
 
-Está [LE COQ SPORTIF Courtset  Zapatillas Unisex Adulto  Blanco Optical White/Evergreen  38 EU](https://www.amazon.es/dp/B07DWQXJCK/?tag=tolees-21) con 58.95 de descuento por 30.79 EUR (original: 75 EUR) en el siguiente enlace!
+Ahora mismo tienes [LE COQ SPORTIF Courtset  Zapatillas Unisex Adulto  Blanco Optical White/Evergreen  38 EU](https://www.amazon.es/dp/B07DWQXJCK/?tag=tolees-21) a 30.79 EUR (original: 75 EUR) (58.95 %  de descuento) en el siguiente enlace!
 
 [![LE COQ SPORTIF Courtset  Zapatillas Unis](https://images-eu.ssl-images-amazon.com/images/I/31AMG60QSCL._SL200_.jpg)](https://www.amazon.es/dp/B07DWQXJCK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07DWQXJCK/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07DWQXJCK/?tag=tolees-21)

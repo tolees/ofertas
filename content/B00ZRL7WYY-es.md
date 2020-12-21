@@ -19,11 +19,11 @@ descuento: '20.10'
 average: '155.72'
 ---
 
-Está [Corsair RM1000i - Fuente de Alimentación  Completamente Modular  80 Plus Gold  1000 Watt  Digital  EU ](https://www.amazon.es/dp/B00ZRL7WYY/?tag=tolees-21) con 20.10 de descuento por 155.72 EUR (original: 194.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [Corsair RM1000i - Fuente de Alimentación  Completamente Modular  80 Plus Gold  1000 Watt  Digital  EU ](https://www.amazon.es/dp/B00ZRL7WYY/?tag=tolees-21) a 155.72 EUR (original: 194.9 EUR) (20.10 %  de descuento) en el siguiente enlace!
 
 [![Corsair RM1000i - Fuente de Alimentación](https://images-eu.ssl-images-amazon.com/images/I/51kmZD2HltL._SL200_.jpg)](https://www.amazon.es/dp/B00ZRL7WYY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00ZRL7WYY/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00ZRL7WYY/?tag=tolees-21)

@@ -19,11 +19,11 @@ descuento: '42.99'
 average: '14.48'
 ---
 
-Está [Novadiet Complemento Alimenticio - 320 gr](https://www.amazon.es/dp/B01C387IBA/?tag=tolees-21) con 42.99 de descuento por 14.48 EUR (original: 25.4 EUR) en el siguiente enlace!
+Ahora mismo tienes [Novadiet Complemento Alimenticio - 320 gr](https://www.amazon.es/dp/B01C387IBA/?tag=tolees-21) a 14.48 EUR (original: 25.4 EUR) (42.99 %  de descuento) en el siguiente enlace!
 
 [![Novadiet Complemento Alimenticio - 320 g](https://images-eu.ssl-images-amazon.com/images/I/51dq8PoS1AL._SL200_.jpg)](https://www.amazon.es/dp/B01C387IBA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01C387IBA/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B01C387IBA/?tag=tolees-21)

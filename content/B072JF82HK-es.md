@@ -19,11 +19,11 @@ descuento: '61.77'
 average: '29.5'
 ---
 
-Está [DROP SHOT Briguitte Paletero Pádel  Adultos Unisex  Gris  1](https://www.amazon.es/dp/B072JF82HK/?tag=tolees-21) con 61.77 de descuento por 29.5 EUR (original: 77.17 EUR) en el siguiente enlace!
+Ahora mismo tienes [DROP SHOT Briguitte Paletero Pádel  Adultos Unisex  Gris  1](https://www.amazon.es/dp/B072JF82HK/?tag=tolees-21) a 29.5 EUR (original: 77.17 EUR) (61.77 %  de descuento) en el siguiente enlace!
 
 [![DROP SHOT Briguitte Paletero Pádel  Adul](https://images-eu.ssl-images-amazon.com/images/I/411Nz42cjTL._SL200_.jpg)](https://www.amazon.es/dp/B072JF82HK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B072JF82HK/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B072JF82HK/?tag=tolees-21)

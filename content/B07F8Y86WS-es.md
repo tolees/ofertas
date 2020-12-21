@@ -19,11 +19,11 @@ descuento: '22.23'
 average: '34.99'
 ---
 
-Ahora mismo tienes [HSP Himoto RC teledirigido Mini Submarino  Juego Completo con integr. Batería  Cargador  Control Remoto](https://www.amazon.es/dp/B07F8Y86WS/?tag=tolees-21) a 34.99 EUR (original: 44.99 EUR) (22.23 %  de descuento) en el siguiente enlace!
+Está [HSP Himoto RC teledirigido Mini Submarino  Juego Completo con integr. Batería  Cargador  Control Remoto](https://www.amazon.es/dp/B07F8Y86WS/?tag=tolees-21) con 22.23 de descuento por 34.99 EUR (original: 44.99 EUR) en el siguiente enlace!
 
 [![HSP Himoto RC teledirigido Mini Submarin](https://images-eu.ssl-images-amazon.com/images/I/51N0m-Ni6gL._SL200_.jpg)](https://www.amazon.es/dp/B07F8Y86WS/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07F8Y86WS/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07F8Y86WS/?tag=tolees-21)

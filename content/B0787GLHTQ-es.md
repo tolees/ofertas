@@ -19,11 +19,11 @@ descuento: '49.06'
 average: '43.3'
 ---
 
-Está [Pepe Jeans London Jayden 2.1 Essentials  Zapatillas Hombre  Beige  Sand   44 EU](https://www.amazon.es/dp/B0787GLHTQ/?tag=tolees-21) con 49.06 de descuento por 43.3 EUR (original: 85 EUR) en el siguiente enlace!
+Ahora mismo tienes [Pepe Jeans London Jayden 2.1 Essentials  Zapatillas Hombre  Beige  Sand   44 EU](https://www.amazon.es/dp/B0787GLHTQ/?tag=tolees-21) a 43.3 EUR (original: 85 EUR) (49.06 %  de descuento) en el siguiente enlace!
 
 [![Pepe Jeans London Jayden 2.1 Essentials ](https://images-eu.ssl-images-amazon.com/images/I/41CPOYZVVBL._SL200_.jpg)](https://www.amazon.es/dp/B0787GLHTQ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B0787GLHTQ/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B0787GLHTQ/?tag=tolees-21)

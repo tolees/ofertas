@@ -19,11 +19,11 @@ descuento: '20.01'
 average: '19.99'
 ---
 
-Está [Rollei Cable de Liberación Remota Canon - LCD retroiluminado de fácil lectura y fácil de usar - Negro](https://www.amazon.es/dp/B01KVE777S/?tag=tolees-21) con 20.01 de descuento por 19.99 EUR (original: 24.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Rollei Cable de Liberación Remota Canon - LCD retroiluminado de fácil lectura y fácil de usar - Negro](https://www.amazon.es/dp/B01KVE777S/?tag=tolees-21) a 19.99 EUR (original: 24.99 EUR) (20.01 %  de descuento) en el siguiente enlace!
 
 [![Rollei Cable de Liberación Remota Canon ](https://images-eu.ssl-images-amazon.com/images/I/41vL3j-MMIL._SL200_.jpg)](https://www.amazon.es/dp/B01KVE777S/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01KVE777S/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B01KVE777S/?tag=tolees-21)

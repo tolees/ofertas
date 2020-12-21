@@ -19,11 +19,11 @@ descuento: '52.01'
 average: '23.97'
 ---
 
-Ahora mismo tienes [DKNY Intimates Classic Lace  Sujetador Estilo Bralette para Mujer  Blanco  Poplin White LUE   Large](https://www.amazon.es/dp/B01LXUK1VO/?tag=tolees-21) a 23.97 EUR (original: 49.95 EUR) (52.01 %  de descuento) en el siguiente enlace!
+Está [DKNY Intimates Classic Lace  Sujetador Estilo Bralette para Mujer  Blanco  Poplin White LUE   Large](https://www.amazon.es/dp/B01LXUK1VO/?tag=tolees-21) con 52.01 de descuento por 23.97 EUR (original: 49.95 EUR) en el siguiente enlace!
 
 [![DKNY Intimates Classic Lace  Sujetador E](https://images-eu.ssl-images-amazon.com/images/I/51lN3Xn00aL._SL200_.jpg)](https://www.amazon.es/dp/B01LXUK1VO/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B01LXUK1VO/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01LXUK1VO/?tag=tolees-21)

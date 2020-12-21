@@ -19,11 +19,11 @@ descuento: '49.98'
 average: '14.98'
 ---
 
-Está [adidas Altasport CF I  Zapatillas de Gimnasia Unisex bebé  Azul True Blue/FTWR White/Active Orange  21 EU](https://www.amazon.es/dp/B07JZQBPXV/?tag=tolees-21) con 49.98 de descuento por 14.98 EUR (original: 29.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [adidas Altasport CF I  Zapatillas de Gimnasia Unisex bebé  Azul True Blue/FTWR White/Active Orange  21 EU](https://www.amazon.es/dp/B07JZQBPXV/?tag=tolees-21) a 14.98 EUR (original: 29.95 EUR) (49.98 %  de descuento) en el siguiente enlace!
 
 [![adidas Altasport CF I  Zapatillas de Gim](https://images-eu.ssl-images-amazon.com/images/I/41Zki6xNYLL._SL200_.jpg)](https://www.amazon.es/dp/B07JZQBPXV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07JZQBPXV/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07JZQBPXV/?tag=tolees-21)

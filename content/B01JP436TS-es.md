@@ -19,11 +19,11 @@ descuento: '38.94'
 average: '139.82'
 ---
 
-Ahora mismo tienes [Sennheiser HD 598Cs - Microauricular Cerrado  10 – 28000 Hz  115 dB   Color Negro](https://www.amazon.es/dp/B01JP436TS/?tag=tolees-21) a 139.82 EUR (original: 229 EUR) (38.94 %  de descuento) en el siguiente enlace!
+Está [Sennheiser HD 598Cs - Microauricular Cerrado  10 – 28000 Hz  115 dB   Color Negro](https://www.amazon.es/dp/B01JP436TS/?tag=tolees-21) con 38.94 de descuento por 139.82 EUR (original: 229 EUR) en el siguiente enlace!
 
 [![Sennheiser HD 598Cs - Microauricular Cer](https://images-eu.ssl-images-amazon.com/images/I/41u-ozaJQ2L._SL200_.jpg)](https://www.amazon.es/dp/B01JP436TS/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B01JP436TS/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01JP436TS/?tag=tolees-21)

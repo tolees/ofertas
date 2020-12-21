@@ -19,11 +19,11 @@ descuento: '20.00'
 average: '36'
 ---
 
-Ahora mismo tienes [Nike Impact Bra Sports  Mujer  Carbon Heather/Black/Volt Glow  M](https://www.amazon.es/dp/B07KMTH3R1/?tag=tolees-21) a 36 EUR (original: 45 EUR) (20.00 %  de descuento) en el siguiente enlace!
+Está [Nike Impact Bra Sports  Mujer  Carbon Heather/Black/Volt Glow  M](https://www.amazon.es/dp/B07KMTH3R1/?tag=tolees-21) con 20.00 de descuento por 36 EUR (original: 45 EUR) en el siguiente enlace!
 
 [![Nike Impact Bra Sports  Mujer  Carbon He](https://images-eu.ssl-images-amazon.com/images/I/31H0nNmhIoL._SL200_.jpg)](https://www.amazon.es/dp/B07KMTH3R1/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07KMTH3R1/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07KMTH3R1/?tag=tolees-21)

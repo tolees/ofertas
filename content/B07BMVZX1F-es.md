@@ -19,11 +19,11 @@ descuento: '32.05'
 average: '122.29'
 ---
 
-Ahora mismo tienes [AmazonBasics - Maleta rígida giratoria - Juego de 3 piezas   55 cm  68 cm  78 cm   Pizarra Gris](https://www.amazon.es/dp/B07BMVZX1F/?tag=tolees-21) a 122.29 EUR (original: 179.98 EUR) (32.05 %  de descuento) en el siguiente enlace!
+Está [AmazonBasics - Maleta rígida giratoria - Juego de 3 piezas   55 cm  68 cm  78 cm   Pizarra Gris](https://www.amazon.es/dp/B07BMVZX1F/?tag=tolees-21) con 32.05 de descuento por 122.29 EUR (original: 179.98 EUR) en el siguiente enlace!
 
 [![AmazonBasics - Maleta rígida giratoria -](https://images-eu.ssl-images-amazon.com/images/I/41SXUVdUxdL._SL200_.jpg)](https://www.amazon.es/dp/B07BMVZX1F/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07BMVZX1F/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07BMVZX1F/?tag=tolees-21)

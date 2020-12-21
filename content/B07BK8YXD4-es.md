@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hellmann S Mayonesa Light - Paquete de 1 al 31.23 % de descuento'
+title: 'Hellmann S Mayonesa Light - Paquete de 1 al 31.23 % de rebaja'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41xGRP82p9L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '31.23'
 average: '9.49'
 ---
 
-Está [Hellmann S Mayonesa Light - Paquete de 12 x 225 ml: Total: 2700 ml](https://www.amazon.es/dp/B07BK8YXD4/?tag=tolees-21) con 31.23 de descuento por 9.49 EUR (original: 13.8 EUR) en el siguiente enlace!
+Tienes [Hellmann S Mayonesa Light - Paquete de 12 x 225 ml: Total: 2700 ml](https://www.amazon.es/dp/B07BK8YXD4/?tag=tolees-21) con precio final de  9.49 EUR (original: 13.8 EUR) (31.23 %  de rebaja) aqui!
 
 [![Hellmann S Mayonesa Light - Paquete de 1](https://images-eu.ssl-images-amazon.com/images/I/41xGRP82p9L._SL200_.jpg)](https://www.amazon.es/dp/B07BK8YXD4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07BK8YXD4/?tag=tolees-21)
+[Comprar!!!](https://www.amazon.es/dp/B07BK8YXD4/?tag=tolees-21)

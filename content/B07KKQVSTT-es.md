@@ -19,11 +19,11 @@ descuento: '50.04'
 average: '6.47'
 ---
 
-Está [adidas Sport Performance Gym Sack  Unisex Adulto  Raw White/Grey Six  Talla Única](https://www.amazon.es/dp/B07KKQVSTT/?tag=tolees-21) con 50.04 de descuento por 6.47 EUR (original: 12.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [adidas Sport Performance Gym Sack  Unisex Adulto  Raw White/Grey Six  Talla Única](https://www.amazon.es/dp/B07KKQVSTT/?tag=tolees-21) a 6.47 EUR (original: 12.95 EUR) (50.04 %  de descuento) en el siguiente enlace!
 
 [![adidas Sport Performance Gym Sack  Unise](https://images-eu.ssl-images-amazon.com/images/I/31T3D8dgakL._SL200_.jpg)](https://www.amazon.es/dp/B07KKQVSTT/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07KKQVSTT/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07KKQVSTT/?tag=tolees-21)

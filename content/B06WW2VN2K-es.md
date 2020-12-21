@@ -19,11 +19,11 @@ descuento: '46.14'
 average: '21.54'
 ---
 
-Está [edc by Esprit 067cc1c009  Pantalones Cortos Mujer  Rosa  Pastel Pink 695   34](https://www.amazon.es/dp/B06WW2VN2K/?tag=tolees-21) con 46.14 de descuento por 21.54 EUR (original: 39.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [edc by Esprit 067cc1c009  Pantalones Cortos Mujer  Rosa  Pastel Pink 695   34](https://www.amazon.es/dp/B06WW2VN2K/?tag=tolees-21) a 21.54 EUR (original: 39.99 EUR) (46.14 %  de descuento) en el siguiente enlace!
 
 [![edc by Esprit 067cc1c009  Pantalones Cor](https://images-eu.ssl-images-amazon.com/images/I/41suo9%2B0KhL._SL200_.jpg)](https://www.amazon.es/dp/B06WW2VN2K/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B06WW2VN2K/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B06WW2VN2K/?tag=tolees-21)

@@ -19,11 +19,11 @@ descuento: '17.12'
 average: '90.28'
 ---
 
-Ahora mismo tienes [Microsoft ARC Mouse - Ratón  Ambidextro  BlueTrack  Bluetooth  Negro ](https://www.amazon.es/dp/B074DSR3W6/?tag=tolees-21) a 90.28 EUR (original: 108.93 EUR) (17.12 %  de descuento) en el siguiente enlace!
+Está [Microsoft ARC Mouse - Ratón  Ambidextro  BlueTrack  Bluetooth  Negro ](https://www.amazon.es/dp/B074DSR3W6/?tag=tolees-21) con 17.12 de descuento por 90.28 EUR (original: 108.93 EUR) en el siguiente enlace!
 
 [![Microsoft ARC Mouse - Ratón  Ambidextro ](https://images-eu.ssl-images-amazon.com/images/I/21UUYLrid8L._SL200_.jpg)](https://www.amazon.es/dp/B074DSR3W6/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B074DSR3W6/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B074DSR3W6/?tag=tolees-21)

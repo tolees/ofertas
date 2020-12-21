@@ -19,11 +19,11 @@ descuento: '48.47'
 average: '61.84'
 ---
 
-Ahora mismo tienes [Guess - Jade  Bolsos bandolera Mujer  Rosa  Rose/Ros   26x18x10 cm  W x H L ](https://www.amazon.es/dp/B07FK4JJ6T/?tag=tolees-21) a 61.84 EUR (original: 120 EUR) (48.47 %  de descuento) en el siguiente enlace!
+Está [Guess - Jade  Bolsos bandolera Mujer  Rosa  Rose/Ros   26x18x10 cm  W x H L ](https://www.amazon.es/dp/B07FK4JJ6T/?tag=tolees-21) con 48.47 de descuento por 61.84 EUR (original: 120 EUR) en el siguiente enlace!
 
 [![Guess - Jade  Bolsos bandolera Mujer  Ro](https://images-eu.ssl-images-amazon.com/images/I/31%2BIFQvGCRL._SL200_.jpg)](https://www.amazon.es/dp/B07FK4JJ6T/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07FK4JJ6T/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07FK4JJ6T/?tag=tolees-21)

@@ -19,11 +19,11 @@ descuento: '48.04'
 average: '23.38'
 ---
 
-Está [Under Armour UA PS Unlimited AC  Zapatillas de Running Unisex Niños  Rosa Penta Pink/Venetian Blue 600  29.5 EU](https://www.amazon.es/dp/B07BHBFYLK/?tag=tolees-21) con 48.04 de descuento por 23.38 EUR (original: 45 EUR) en el siguiente enlace!
+Ahora mismo tienes [Under Armour UA PS Unlimited AC  Zapatillas de Running Unisex Niños  Rosa Penta Pink/Venetian Blue 600  29.5 EU](https://www.amazon.es/dp/B07BHBFYLK/?tag=tolees-21) a 23.38 EUR (original: 45 EUR) (48.04 %  de descuento) en el siguiente enlace!
 
 [![Under Armour UA PS Unlimited AC  Zapatil](https://images-eu.ssl-images-amazon.com/images/I/41Z-yC-NdQL._SL200_.jpg)](https://www.amazon.es/dp/B07BHBFYLK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07BHBFYLK/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07BHBFYLK/?tag=tolees-21)

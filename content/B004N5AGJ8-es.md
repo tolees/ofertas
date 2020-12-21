@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Victoria al 71.64 % de descuento'
+title: 'Victoria con un 71.64 % de descuento'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41aCiGBQ9xL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '71.64'
 average: '6.24'
 ---
 
-Ahora mismo tienes [Victoria](https://www.amazon.es/dp/B004N5AGJ8/?tag=tolees-21) a 6.24 EUR (original: 22 EUR) (71.64 %  de descuento) en el siguiente enlace!
+En este momento está [Victoria](https://www.amazon.es/dp/B004N5AGJ8/?tag=tolees-21) a 6.24 EUR (original: 22 EUR) (71.64 %  de descuento) en el siguiente enlace!
 
 [![Victoria](https://images-eu.ssl-images-amazon.com/images/I/41aCiGBQ9xL._SL200_.jpg)](https://www.amazon.es/dp/B004N5AGJ8/?tag=tolees-21)
 
 🔎:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B004N5AGJ8/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B004N5AGJ8/?tag=tolees-21)

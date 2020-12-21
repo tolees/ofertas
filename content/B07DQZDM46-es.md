@@ -19,11 +19,11 @@ descuento: '21.31'
 average: '28.32'
 ---
 
-Ahora mismo tienes [MTNG Attitude 56406  Zapatillas para Mujer  Azul  Raspe Nylon Marino/Medi Plata C42956   39 EU](https://www.amazon.es/dp/B07DQZDM46/?tag=tolees-21) a 28.32 EUR (original: 35.99 EUR) (21.31 %  de descuento) en el siguiente enlace!
+Está [MTNG Attitude 56406  Zapatillas para Mujer  Azul  Raspe Nylon Marino/Medi Plata C42956   39 EU](https://www.amazon.es/dp/B07DQZDM46/?tag=tolees-21) con 21.31 de descuento por 28.32 EUR (original: 35.99 EUR) en el siguiente enlace!
 
 [![MTNG Attitude 56406  Zapatillas para Muj](https://images-eu.ssl-images-amazon.com/images/I/41OzwQ-UP-L._SL200_.jpg)](https://www.amazon.es/dp/B07DQZDM46/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07DQZDM46/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DQZDM46/?tag=tolees-21)

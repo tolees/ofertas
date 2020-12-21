@@ -19,11 +19,11 @@ descuento: '20.00'
 average: '40'
 ---
 
-Está [SALOMON Explore Polo Shirt  Hombre  Azul  Night Sky   XL](https://www.amazon.es/dp/B07MXKWKQJ/?tag=tolees-21) con 20.00 de descuento por 40 EUR (original: 50 EUR) en el siguiente enlace!
+Ahora mismo tienes [SALOMON Explore Polo Shirt  Hombre  Azul  Night Sky   XL](https://www.amazon.es/dp/B07MXKWKQJ/?tag=tolees-21) a 40 EUR (original: 50 EUR) (20.00 %  de descuento) en el siguiente enlace!
 
 [![SALOMON Explore Polo Shirt  Hombre  Azul](https://images-eu.ssl-images-amazon.com/images/I/315p9JdwoFL._SL200_.jpg)](https://www.amazon.es/dp/B07MXKWKQJ/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07MXKWKQJ/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07MXKWKQJ/?tag=tolees-21)

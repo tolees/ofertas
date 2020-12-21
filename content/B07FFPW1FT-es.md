@@ -19,11 +19,11 @@ descuento: '22.37'
 average: '286.46'
 ---
 
-Ahora mismo tienes [Michael Kors Smartwatch para Mujer con Correa en Acero Inoxidable MKT5045](https://www.amazon.es/dp/B07FFPW1FT/?tag=tolees-21) a 286.46 EUR (original: 369 EUR) (22.37 %  de descuento) en el siguiente enlace!
+Está [Michael Kors Smartwatch para Mujer con Correa en Acero Inoxidable MKT5045](https://www.amazon.es/dp/B07FFPW1FT/?tag=tolees-21) con 22.37 de descuento por 286.46 EUR (original: 369 EUR) en el siguiente enlace!
 
 [![Michael Kors Smartwatch para Mujer con C](https://images-eu.ssl-images-amazon.com/images/I/41bMv6Z-XyL._SL200_.jpg)](https://www.amazon.es/dp/B07FFPW1FT/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07FFPW1FT/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07FFPW1FT/?tag=tolees-21)

@@ -19,11 +19,11 @@ descuento: '16.67'
 average: '93.56'
 ---
 
-Ahora mismo tienes [MDF® Bravata® - Esfigmomanómetro aneroide de palma - Monitor de presión arterial profesional con puño de tamaño adulto incluido - gris  MDF848XPD-12 ](https://www.amazon.es/dp/B00K1PNE16/?tag=tolees-21) a 93.56 EUR (original: 112.28 EUR) (16.67 %  de descuento) en el siguiente enlace!
+Está [MDF® Bravata® - Esfigmomanómetro aneroide de palma - Monitor de presión arterial profesional con puño de tamaño adulto incluido - gris  MDF848XPD-12 ](https://www.amazon.es/dp/B00K1PNE16/?tag=tolees-21) con 16.67 de descuento por 93.56 EUR (original: 112.28 EUR) en el siguiente enlace!
 
 [![MDF® Bravata® - Esfigmomanómetro aneroid](https://images-eu.ssl-images-amazon.com/images/I/41IgY4BWNTL._SL200_.jpg)](https://www.amazon.es/dp/B00K1PNE16/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B00K1PNE16/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00K1PNE16/?tag=tolees-21)

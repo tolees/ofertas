@@ -19,11 +19,11 @@ descuento: '30.02'
 average: '9.09'
 ---
 
-Ahora mismo tienes [Los extraños: Cacería nocturna [Blu-ray]](https://www.amazon.es/dp/B07J4VX6ZJ/?tag=tolees-21) a 9.09 EUR (original: 12.99 EUR) (30.02 %  de descuento) en el siguiente enlace!
+Está [Los extraños: Cacería nocturna [Blu-ray]](https://www.amazon.es/dp/B07J4VX6ZJ/?tag=tolees-21) con 30.02 de descuento por 9.09 EUR (original: 12.99 EUR) en el siguiente enlace!
 
 [![Los extraños: Cacería nocturna [Blu-ray]](https://images-eu.ssl-images-amazon.com/images/I/516Q7bmJu0L._SL200_.jpg)](https://www.amazon.es/dp/B07J4VX6ZJ/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07J4VX6ZJ/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07J4VX6ZJ/?tag=tolees-21)

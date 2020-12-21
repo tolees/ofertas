@@ -19,11 +19,11 @@ descuento: '59.94'
 average: '40.06'
 ---
 
-Ahora mismo tienes [New Balance 840  Zapatillas para Mujer  Blanco  White/Classic Gold AA   41.5 EU](https://www.amazon.es/dp/B07DFWB1BW/?tag=tolees-21) a 40.06 EUR (original: 100 EUR) (59.94 %  de descuento) en el siguiente enlace!
+Está [New Balance 840  Zapatillas para Mujer  Blanco  White/Classic Gold AA   41.5 EU](https://www.amazon.es/dp/B07DFWB1BW/?tag=tolees-21) con 59.94 de descuento por 40.06 EUR (original: 100 EUR) en el siguiente enlace!
 
 [![New Balance 840  Zapatillas para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41OzQwZeOsL._SL200_.jpg)](https://www.amazon.es/dp/B07DFWB1BW/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07DFWB1BW/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DFWB1BW/?tag=tolees-21)

@@ -19,11 +19,11 @@ descuento: '38.31'
 average: '30.23'
 ---
 
-Está [Hackett London New Classic  Polo para Niños  Azul 9 Años](https://www.amazon.es/dp/B07BYYRXPV/?tag=tolees-21) con 38.31 de descuento por 30.23 EUR (original: 49 EUR) en el siguiente enlace!
+Ahora mismo tienes [Hackett London New Classic  Polo para Niños  Azul 9 Años](https://www.amazon.es/dp/B07BYYRXPV/?tag=tolees-21) a 30.23 EUR (original: 49 EUR) (38.31 %  de descuento) en el siguiente enlace!
 
 [![Hackett London New Classic  Polo para Ni](https://images-eu.ssl-images-amazon.com/images/I/41thUsWclAL._SL200_.jpg)](https://www.amazon.es/dp/B07BYYRXPV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07BYYRXPV/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07BYYRXPV/?tag=tolees-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Diesel - Fuel For Life - Eau de parfum p al 18.85 % de descuento'
+title: 'Descuento del 18.85 % en Diesel - Fuel For Life - Eau de parfum p'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51nUqtstyPL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '18.85'
 average: '38.95'
 ---
 
-Ahora mismo tienes [Diesel - Fuel For Life - Eau de parfum para mujer - 30 ml](https://www.amazon.es/dp/B000VJ5RBW/?tag=tolees-21) a 38.95 EUR (original: 48 EUR) (18.85 %  de descuento) en el siguiente enlace!
+Tienes [Diesel - Fuel For Life - Eau de parfum para mujer - 30 ml](https://www.amazon.es/dp/B000VJ5RBW/?tag=tolees-21) con un 18.85 % de descuento con precio de oferta de 38.95 EUR (original: 48 EUR) en el siguiente enlace!
 
 [![Diesel - Fuel For Life - Eau de parfum p](https://images-eu.ssl-images-amazon.com/images/I/51nUqtstyPL._SL200_.jpg)](https://www.amazon.es/dp/B000VJ5RBW/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B000VJ5RBW/?tag=tolees-21)
+[Accede a la oferta!!](https://www.amazon.es/dp/B000VJ5RBW/?tag=tolees-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste L.12.12 BL 2 CAW  Zapatillas par al 67.35 % de descuento'
+title: 'Lacoste L.12.12 BL 2 CAW  Zapatillas par al 67.35 % de rebaja'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41mn6TDeunL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '67.35'
 average: '35.59'
 ---
 
-Está [Lacoste L.12.12 BL 2 CAW  Zapatillas para Mujer  Azul  Nvy   37.5 EU](https://www.amazon.es/dp/B01MY09VMC/?tag=tolees-21) con 67.35 de descuento por 35.59 EUR (original: 109 EUR) en el siguiente enlace!
+Tienes [Lacoste L.12.12 BL 2 CAW  Zapatillas para Mujer  Azul  Nvy   37.5 EU](https://www.amazon.es/dp/B01MY09VMC/?tag=tolees-21) con precio final de  35.59 EUR (original: 109 EUR) (67.35 %  de rebaja) aqui!
 
 [![Lacoste L.12.12 BL 2 CAW  Zapatillas par](https://images-eu.ssl-images-amazon.com/images/I/41mn6TDeunL._SL200_.jpg)](https://www.amazon.es/dp/B01MY09VMC/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01MY09VMC/?tag=tolees-21)
+[Comprar!!!](https://www.amazon.es/dp/B01MY09VMC/?tag=tolees-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Slam Dunk - Box 3 [Blu-ray] al 48.74 % de descuento'
+title: 'Slam Dunk - Box 3 [Blu-ray] al 48.74 % de rebaja'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51bnTor9haL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '48.74'
 average: '21'
 ---
 
-Ahora mismo tienes [Slam Dunk - Box 3 [Blu-ray]](https://www.amazon.es/dp/B01MSM4PAW/?tag=tolees-21) a 21 EUR (original: 40.97 EUR) (48.74 %  de descuento) en el siguiente enlace!
+Tienes [Slam Dunk - Box 3 [Blu-ray]](https://www.amazon.es/dp/B01MSM4PAW/?tag=tolees-21) con precio final de  21 EUR (original: 40.97 EUR) (48.74 %  de rebaja) aqui!
 
 [![Slam Dunk - Box 3 [Blu-ray]](https://images-eu.ssl-images-amazon.com/images/I/51bnTor9haL._SL200_.jpg)](https://www.amazon.es/dp/B01MSM4PAW/?tag=tolees-21)
 
 🔎:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B01MSM4PAW/?tag=tolees-21)
+[Comprar!!!](https://www.amazon.es/dp/B01MSM4PAW/?tag=tolees-21)

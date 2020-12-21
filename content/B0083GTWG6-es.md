@@ -19,11 +19,11 @@ descuento: '66.99'
 average: '22.78'
 ---
 
-Ahora mismo tienes [Dockers 310712-003093  Botas Militar Unisex  Beige  40 EU](https://www.amazon.es/dp/B0083GTWG6/?tag=tolees-21) a 22.78 EUR (original: 69 EUR) (66.99 %  de descuento) en el siguiente enlace!
+Está [Dockers 310712-003093  Botas Militar Unisex  Beige  40 EU](https://www.amazon.es/dp/B0083GTWG6/?tag=tolees-21) con 66.99 de descuento por 22.78 EUR (original: 69 EUR) en el siguiente enlace!
 
 [![Dockers 310712-003093  Botas Militar Uni](https://images-eu.ssl-images-amazon.com/images/I/41EowyH1%2BQL._SL200_.jpg)](https://www.amazon.es/dp/B0083GTWG6/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B0083GTWG6/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0083GTWG6/?tag=tolees-21)

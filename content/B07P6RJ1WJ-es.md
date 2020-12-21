@@ -19,11 +19,11 @@ descuento: '17.79'
 average: '949.99'
 ---
 
-Ahora mismo tienes [Lenovo T530-28ICB - Ordenador sobremesa  Intel Core i7-8700  16GB RAM  1TB HDD + 128GB SSD  Tarjeta gráfica GTX1050Ti-4GB  sin sistema operativo  negro.](https://www.amazon.es/dp/B07P6RJ1WJ/?tag=tolees-21) a 949.99 EUR (original: 1155.59 EUR) (17.79 %  de descuento) en el siguiente enlace!
+Está [Lenovo T530-28ICB - Ordenador sobremesa  Intel Core i7-8700  16GB RAM  1TB HDD + 128GB SSD  Tarjeta gráfica GTX1050Ti-4GB  sin sistema operativo  negro.](https://www.amazon.es/dp/B07P6RJ1WJ/?tag=tolees-21) con 17.79 de descuento por 949.99 EUR (original: 1155.59 EUR) en el siguiente enlace!
 
 [![Lenovo T530-28ICB - Ordenador sobremesa ](https://images-eu.ssl-images-amazon.com/images/I/414rWUrLoAL._SL200_.jpg)](https://www.amazon.es/dp/B07P6RJ1WJ/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07P6RJ1WJ/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07P6RJ1WJ/?tag=tolees-21)

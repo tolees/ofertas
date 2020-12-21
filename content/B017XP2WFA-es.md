@@ -19,11 +19,11 @@ descuento: '41.55'
 average: '151.96'
 ---
 
-Está [Helly Hansen W Salt Power Jacket  Mujer  Navy  XS](https://www.amazon.es/dp/B017XP2WFA/?tag=tolees-21) con 41.55 de descuento por 151.96 EUR (original: 260 EUR) en el siguiente enlace!
+Ahora mismo tienes [Helly Hansen W Salt Power Jacket  Mujer  Navy  XS](https://www.amazon.es/dp/B017XP2WFA/?tag=tolees-21) a 151.96 EUR (original: 260 EUR) (41.55 %  de descuento) en el siguiente enlace!
 
 [![Helly Hansen W Salt Power Jacket  Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41VeTl-dSXL._SL200_.jpg)](https://www.amazon.es/dp/B017XP2WFA/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B017XP2WFA/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B017XP2WFA/?tag=tolees-21)

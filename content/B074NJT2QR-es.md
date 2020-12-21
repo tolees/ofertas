@@ -19,11 +19,11 @@ descuento: '63.38'
 average: '5.49'
 ---
 
-Está [Funko Pop!- Movies Figura de Vinilo Papa Elf  21381 ](https://www.amazon.es/dp/B074NJT2QR/?tag=tolees-21) con 63.38 de descuento por 5.49 EUR (original: 14.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Funko Pop!- Movies Figura de Vinilo Papa Elf  21381 ](https://www.amazon.es/dp/B074NJT2QR/?tag=tolees-21) a 5.49 EUR (original: 14.99 EUR) (63.38 %  de descuento) en el siguiente enlace!
 
 [![Funko Pop!- Movies Figura de Vinilo Papa](https://images-eu.ssl-images-amazon.com/images/I/41TMTXPzqkL._SL200_.jpg)](https://www.amazon.es/dp/B074NJT2QR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B074NJT2QR/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B074NJT2QR/?tag=tolees-21)

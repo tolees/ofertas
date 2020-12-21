@@ -19,11 +19,11 @@ descuento: '48.20'
 average: '18.13'
 ---
 
-Está [Salomon Race Visor Visera de Corriendo  Unisex Adulto  Blanco  Talla única Ajustable](https://www.amazon.es/dp/B01HNYD912/?tag=tolees-21) con 48.20 de descuento por 18.13 EUR (original: 35 EUR) en el siguiente enlace!
+Ahora mismo tienes [Salomon Race Visor Visera de Corriendo  Unisex Adulto  Blanco  Talla única Ajustable](https://www.amazon.es/dp/B01HNYD912/?tag=tolees-21) a 18.13 EUR (original: 35 EUR) (48.20 %  de descuento) en el siguiente enlace!
 
 [![Salomon Race Visor Visera de Corriendo  ](https://images-eu.ssl-images-amazon.com/images/I/31yIOsdoulL._SL200_.jpg)](https://www.amazon.es/dp/B01HNYD912/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01HNYD912/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B01HNYD912/?tag=tolees-21)

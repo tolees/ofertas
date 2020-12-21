@@ -19,11 +19,11 @@ descuento: '49.25'
 average: '16.19'
 ---
 
-Está [Kit inicial recién nacido Medela con complementos para la lactancia materna](https://www.amazon.es/dp/B00U2P2TNY/?tag=tolees-21) con 49.25 de descuento por 16.19 EUR (original: 31.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [Kit inicial recién nacido Medela con complementos para la lactancia materna](https://www.amazon.es/dp/B00U2P2TNY/?tag=tolees-21) a 16.19 EUR (original: 31.9 EUR) (49.25 %  de descuento) en el siguiente enlace!
 
 [![Kit inicial recién nacido Medela con com](https://images-eu.ssl-images-amazon.com/images/I/51xxftafsWL._SL200_.jpg)](https://www.amazon.es/dp/B00U2P2TNY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00U2P2TNY/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00U2P2TNY/?tag=tolees-21)

@@ -19,11 +19,11 @@ descuento: '33.48'
 average: '19.95'
 ---
 
-Está [SteamWorld Dig 2](https://www.amazon.es/dp/B07BBBXFCP/?tag=tolees-21) con 33.48 de descuento por 19.95 EUR (original: 29.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [SteamWorld Dig 2](https://www.amazon.es/dp/B07BBBXFCP/?tag=tolees-21) a 19.95 EUR (original: 29.99 EUR) (33.48 %  de descuento) en el siguiente enlace!
 
 [![SteamWorld Dig 2](https://images-eu.ssl-images-amazon.com/images/I/61z%2BgK%2B2nNL._SL200_.jpg)](https://www.amazon.es/dp/B07BBBXFCP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07BBBXFCP/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07BBBXFCP/?tag=tolees-21)

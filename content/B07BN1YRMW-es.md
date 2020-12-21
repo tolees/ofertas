@@ -19,11 +19,11 @@ descuento: '50.00'
 average: '17.5'
 ---
 
-Ahora mismo tienes [Vans Ward Slip-on  Zapatillas Unisex Niños  Rosa   Canvas  Sepia Rose Oln   24 EU](https://www.amazon.es/dp/B07BN1YRMW/?tag=tolees-21) a 17.5 EUR (original: 35 EUR) (50.00 %  de descuento) en el siguiente enlace!
+Está [Vans Ward Slip-on  Zapatillas Unisex Niños  Rosa   Canvas  Sepia Rose Oln   24 EU](https://www.amazon.es/dp/B07BN1YRMW/?tag=tolees-21) con 50.00 de descuento por 17.5 EUR (original: 35 EUR) en el siguiente enlace!
 
 [![Vans Ward Slip-on  Zapatillas Unisex Niñ](https://images-eu.ssl-images-amazon.com/images/I/417QOL5tcZL._SL200_.jpg)](https://www.amazon.es/dp/B07BN1YRMW/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07BN1YRMW/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07BN1YRMW/?tag=tolees-21)

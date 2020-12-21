@@ -19,11 +19,11 @@ descuento: '56.50'
 average: '21.73'
 ---
 
-Está [Desigual Capri Tonal Geo 5189 Mallas y Bodies  Mujer  Turquesa  Peacoat   S](https://www.amazon.es/dp/B07BYYVBNS/?tag=tolees-21) con 56.50 de descuento por 21.73 EUR (original: 49.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Desigual Capri Tonal Geo 5189 Mallas y Bodies  Mujer  Turquesa  Peacoat   S](https://www.amazon.es/dp/B07BYYVBNS/?tag=tolees-21) a 21.73 EUR (original: 49.95 EUR) (56.50 %  de descuento) en el siguiente enlace!
 
 [![Desigual Capri Tonal Geo 5189 Mallas y B](https://images-eu.ssl-images-amazon.com/images/I/31suF2gyBKL._SL200_.jpg)](https://www.amazon.es/dp/B07BYYVBNS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07BYYVBNS/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07BYYVBNS/?tag=tolees-21)

@@ -19,11 +19,11 @@ descuento: '82.45'
 average: '14.91'
 ---
 
-Ahora mismo tienes [Gioseppo Tatanka - Botas para Mujer  Color Negro  Talla 36](https://www.amazon.es/dp/B01INA1JJO/?tag=tolees-21) a 14.91 EUR (original: 84.95 EUR) (82.45 %  de descuento) en el siguiente enlace!
+Está [Gioseppo Tatanka - Botas para Mujer  Color Negro  Talla 36](https://www.amazon.es/dp/B01INA1JJO/?tag=tolees-21) con 82.45 de descuento por 14.91 EUR (original: 84.95 EUR) en el siguiente enlace!
 
 [![Gioseppo Tatanka - Botas para Mujer  Col](https://images-eu.ssl-images-amazon.com/images/I/41dMSN1gMfL._SL200_.jpg)](https://www.amazon.es/dp/B01INA1JJO/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B01INA1JJO/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01INA1JJO/?tag=tolees-21)

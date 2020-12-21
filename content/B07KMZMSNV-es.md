@@ -19,11 +19,11 @@ descuento: '21.45'
 average: '31.57'
 ---
 
-Está [adidas Supernova Short Men Shorts  Hombre  Grey Six  M 5"](https://www.amazon.es/dp/B07KMZMSNV/?tag=tolees-21) con 21.45 de descuento por 31.57 EUR (original: 40.19 EUR) en el siguiente enlace!
+Ahora mismo tienes [adidas Supernova Short Men Shorts  Hombre  Grey Six  M 5"](https://www.amazon.es/dp/B07KMZMSNV/?tag=tolees-21) a 31.57 EUR (original: 40.19 EUR) (21.45 %  de descuento) en el siguiente enlace!
 
 [![adidas Supernova Short Men Shorts  Hombr](https://images-eu.ssl-images-amazon.com/images/I/41RGHhRNRRL._SL200_.jpg)](https://www.amazon.es/dp/B07KMZMSNV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07KMZMSNV/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07KMZMSNV/?tag=tolees-21)

@@ -19,11 +19,11 @@ descuento: '19.98'
 average: '28'
 ---
 
-Está [My Arcade - Consola Micro Player Retro Galaga](https://www.amazon.es/dp/B07CRTBBHG/?tag=tolees-21) con 19.98 de descuento por 28 EUR (original: 34.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [My Arcade - Consola Micro Player Retro Galaga](https://www.amazon.es/dp/B07CRTBBHG/?tag=tolees-21) a 28 EUR (original: 34.99 EUR) (19.98 %  de descuento) en el siguiente enlace!
 
 [![My Arcade - Consola Micro Player Retro G](https://images-eu.ssl-images-amazon.com/images/I/51PWQm4UlbL._SL200_.jpg)](https://www.amazon.es/dp/B07CRTBBHG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07CRTBBHG/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07CRTBBHG/?tag=tolees-21)

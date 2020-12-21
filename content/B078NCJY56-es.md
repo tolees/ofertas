@@ -19,11 +19,11 @@ descuento: '42.92'
 average: '39.9'
 ---
 
-Ahora mismo tienes [Tommy Hilfiger Medium Drawstring  Bañador para Hombre  Azul  Navy Blazer 416  ](https://www.amazon.es/dp/B078NCJY56/?tag=tolees-21) a 39.9 EUR (original: 69.9 EUR) (42.92 %  de descuento) en el siguiente enlace!
+Está [Tommy Hilfiger Medium Drawstring  Bañador para Hombre  Azul  Navy Blazer 416  ](https://www.amazon.es/dp/B078NCJY56/?tag=tolees-21) con 42.92 de descuento por 39.9 EUR (original: 69.9 EUR) en el siguiente enlace!
 
 [![Tommy Hilfiger Medium Drawstring  Bañado](https://images-eu.ssl-images-amazon.com/images/I/41DKi1kGg9L._SL200_.jpg)](https://www.amazon.es/dp/B078NCJY56/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B078NCJY56/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B078NCJY56/?tag=tolees-21)

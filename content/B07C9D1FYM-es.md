@@ -19,11 +19,11 @@ descuento: '59.07'
 average: '57.71'
 ---
 
-Ahora mismo tienes [Nike Air Zoom Spiridon  16  Zapatillas de Gimnasia para Hombre  Negro Black/University Red/White 006  42.5 EU](https://www.amazon.es/dp/B07C9D1FYM/?tag=tolees-21) a 57.71 EUR (original: 141 EUR) (59.07 %  de descuento) en el siguiente enlace!
+Está [Nike Air Zoom Spiridon  16  Zapatillas de Gimnasia para Hombre  Negro Black/University Red/White 006  42.5 EU](https://www.amazon.es/dp/B07C9D1FYM/?tag=tolees-21) con 59.07 de descuento por 57.71 EUR (original: 141 EUR) en el siguiente enlace!
 
 [![Nike Air Zoom Spiridon  16  Zapatillas d](https://images-eu.ssl-images-amazon.com/images/I/41yigOPPaKL._SL200_.jpg)](https://www.amazon.es/dp/B07C9D1FYM/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07C9D1FYM/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07C9D1FYM/?tag=tolees-21)

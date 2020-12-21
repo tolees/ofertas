@@ -19,11 +19,11 @@ descuento: '66.59'
 average: '20.03'
 ---
 
-Está [Puma Vikky v2 Studs  Zapatillas para Mujer  Negro Black Silver-Whisper White  39 EU](https://www.amazon.es/dp/B07DCLZZVV/?tag=tolees-21) con 66.59 de descuento por 20.03 EUR (original: 59.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Puma Vikky v2 Studs  Zapatillas para Mujer  Negro Black Silver-Whisper White  39 EU](https://www.amazon.es/dp/B07DCLZZVV/?tag=tolees-21) a 20.03 EUR (original: 59.95 EUR) (66.59 %  de descuento) en el siguiente enlace!
 
 [![Puma Vikky v2 Studs  Zapatillas para Muj](https://images-eu.ssl-images-amazon.com/images/I/31GsvrNfE2L._SL200_.jpg)](https://www.amazon.es/dp/B07DCLZZVV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07DCLZZVV/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07DCLZZVV/?tag=tolees-21)

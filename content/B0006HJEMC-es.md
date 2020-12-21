@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 43.33 % en Revell- R.M.S. Titanic Escala 1/1200-Rev'
+title: 'Revell- R.M.S. Titanic Escala 1/1200-Rev al 43.33 % de descuento'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51ntobDZCYL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '43.33'
 average: '8.2'
 ---
 
-Tienes [Revell- R.M.S. Titanic Escala 1/1200-Revell RE05804   22 3 cm de Largo  05804 ](https://www.amazon.es/dp/B0006HJEMC/?tag=tolees-21) con un 43.33 % de descuento con precio de oferta de 8.2 EUR (original: 14.47 EUR) en el siguiente enlace!
+Está [Revell- R.M.S. Titanic Escala 1/1200-Revell RE05804   22 3 cm de Largo  05804 ](https://www.amazon.es/dp/B0006HJEMC/?tag=tolees-21) con 43.33 de descuento por 8.2 EUR (original: 14.47 EUR) en el siguiente enlace!
 
 [![Revell- R.M.S. Titanic Escala 1/1200-Rev](https://images-eu.ssl-images-amazon.com/images/I/51ntobDZCYL._SL200_.jpg)](https://www.amazon.es/dp/B0006HJEMC/?tag=tolees-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B0006HJEMC/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0006HJEMC/?tag=tolees-21)

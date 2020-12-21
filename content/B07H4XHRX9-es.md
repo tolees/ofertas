@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samyang SA3502 - Tele-Objetivo Medio CSC al 20.00 % de descuento'
+title: 'Samyang SA3502 - Tele-Objetivo Medio CSC al 20.00 % de rebaja'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/312H3V7BYQL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '20.00'
 average: '279.2'
 ---
 
-Ahora mismo tienes [Samyang SA3502 - Tele-Objetivo Medio CSC 85 mm F1.8 para Sensor APS-C Fuji X](https://www.amazon.es/dp/B07H4XHRX9/?tag=tolees-21) a 279.2 EUR (original: 349 EUR) (20.00 %  de descuento) en el siguiente enlace!
+Tienes [Samyang SA3502 - Tele-Objetivo Medio CSC 85 mm F1.8 para Sensor APS-C Fuji X](https://www.amazon.es/dp/B07H4XHRX9/?tag=tolees-21) con precio final de  279.2 EUR (original: 349 EUR) (20.00 %  de rebaja) aqui!
 
 [![Samyang SA3502 - Tele-Objetivo Medio CSC](https://images-eu.ssl-images-amazon.com/images/I/312H3V7BYQL._SL200_.jpg)](https://www.amazon.es/dp/B07H4XHRX9/?tag=tolees-21)
 
 🔎:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07H4XHRX9/?tag=tolees-21)
+[Comprar!!!](https://www.amazon.es/dp/B07H4XHRX9/?tag=tolees-21)

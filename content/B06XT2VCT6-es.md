@@ -19,11 +19,11 @@ descuento: '80.59'
 average: '9.89'
 ---
 
-Ahora mismo tienes [Izas Kea Pantalones Cortos  Mujer  Rosa  Fuxia / Spicy Green   XXL](https://www.amazon.es/dp/B06XT2VCT6/?tag=tolees-21) a 9.89 EUR (original: 50.95 EUR) (80.59 %  de descuento) en el siguiente enlace!
+Está [Izas Kea Pantalones Cortos  Mujer  Rosa  Fuxia / Spicy Green   XXL](https://www.amazon.es/dp/B06XT2VCT6/?tag=tolees-21) con 80.59 de descuento por 9.89 EUR (original: 50.95 EUR) en el siguiente enlace!
 
 [![Izas Kea Pantalones Cortos  Mujer  Rosa ](https://images-eu.ssl-images-amazon.com/images/I/41hx8q1iY6L._SL200_.jpg)](https://www.amazon.es/dp/B06XT2VCT6/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B06XT2VCT6/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B06XT2VCT6/?tag=tolees-21)

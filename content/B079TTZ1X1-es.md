@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 24.10 % en WD My Passport - Disco Duro Portátil de '
+title: 'WD My Passport - Disco Duro Portátil de  al 24.10 % de descuento'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41FdCVBZMCL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '24.10'
 average: '62.99'
 ---
 
-Tienes [WD My Passport - Disco Duro Portátil de 2 TB y Software de Copia de Seguridad Automática  Azul](https://www.amazon.es/dp/B079TTZ1X1/?tag=tolees-21) con un 24.10 % de descuento con precio de oferta de 62.99 EUR (original: 82.99 EUR) en el siguiente enlace!
+Está [WD My Passport - Disco Duro Portátil de 2 TB y Software de Copia de Seguridad Automática  Azul](https://www.amazon.es/dp/B079TTZ1X1/?tag=tolees-21) con 24.10 de descuento por 62.99 EUR (original: 82.99 EUR) en el siguiente enlace!
 
 [![WD My Passport - Disco Duro Portátil de ](https://images-eu.ssl-images-amazon.com/images/I/41FdCVBZMCL._SL200_.jpg)](https://www.amazon.es/dp/B079TTZ1X1/?tag=tolees-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B079TTZ1X1/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B079TTZ1X1/?tag=tolees-21)

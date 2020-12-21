@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Black Mirror al 50.61 % de descuento'
+title: 'Black Mirror al 50.61 % de rebaja'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51epqdE2gfL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '50.61'
 average: '19.75'
 ---
 
-Está [Black Mirror](https://www.amazon.es/dp/B074WC8QN9/?tag=tolees-21) con 50.61 de descuento por 19.75 EUR (original: 39.99 EUR) en el siguiente enlace!
+Tienes [Black Mirror](https://www.amazon.es/dp/B074WC8QN9/?tag=tolees-21) con precio final de  19.75 EUR (original: 39.99 EUR) (50.61 %  de rebaja) aqui!
 
 [![Black Mirror](https://images-eu.ssl-images-amazon.com/images/I/51epqdE2gfL._SL200_.jpg)](https://www.amazon.es/dp/B074WC8QN9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B074WC8QN9/?tag=tolees-21)
+[Comprar!!!](https://www.amazon.es/dp/B074WC8QN9/?tag=tolees-21)

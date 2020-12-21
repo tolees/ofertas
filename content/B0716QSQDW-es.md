@@ -19,11 +19,11 @@ descuento: '74.79'
 average: '30.25'
 ---
 
-Ahora mismo tienes [Under Armour UA W Blur  Zapatillas de Entrenamiento para Mujer  Negro  Black 001   38.5 EU](https://www.amazon.es/dp/B0716QSQDW/?tag=tolees-21) a 30.25 EUR (original: 120 EUR) (74.79 %  de descuento) en el siguiente enlace!
+Está [Under Armour UA W Blur  Zapatillas de Entrenamiento para Mujer  Negro  Black 001   38.5 EU](https://www.amazon.es/dp/B0716QSQDW/?tag=tolees-21) con 74.79 de descuento por 30.25 EUR (original: 120 EUR) en el siguiente enlace!
 
 [![Under Armour UA W Blur  Zapatillas de En](https://images-eu.ssl-images-amazon.com/images/I/413UBK19ItL._SL200_.jpg)](https://www.amazon.es/dp/B0716QSQDW/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B0716QSQDW/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0716QSQDW/?tag=tolees-21)

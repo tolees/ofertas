@@ -19,11 +19,11 @@ descuento: '36.45'
 average: '83.82'
 ---
 
-Está [Bosch Professional GWS 1000 - Amoladora angular](https://www.amazon.es/dp/B002GEA2PG/?tag=tolees-21) con 36.45 de descuento por 83.82 EUR (original: 131.89 EUR) en el siguiente enlace!
+Ahora mismo tienes [Bosch Professional GWS 1000 - Amoladora angular](https://www.amazon.es/dp/B002GEA2PG/?tag=tolees-21) a 83.82 EUR (original: 131.89 EUR) (36.45 %  de descuento) en el siguiente enlace!
 
 [![Bosch Professional GWS 1000 - Amoladora ](https://images-eu.ssl-images-amazon.com/images/I/41SOaYT1ccL._SL200_.jpg)](https://www.amazon.es/dp/B002GEA2PG/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B002GEA2PG/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B002GEA2PG/?tag=tolees-21)

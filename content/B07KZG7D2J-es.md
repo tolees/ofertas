@@ -19,11 +19,11 @@ descuento: '33.48'
 average: '7.79'
 ---
 
-Está [Danko  calor rojo - BD [Blu-ray]](https://www.amazon.es/dp/B07KZG7D2J/?tag=tolees-21) con 33.48 de descuento por 7.79 EUR (original: 11.71 EUR) en el siguiente enlace!
+Ahora mismo tienes [Danko  calor rojo - BD [Blu-ray]](https://www.amazon.es/dp/B07KZG7D2J/?tag=tolees-21) a 7.79 EUR (original: 11.71 EUR) (33.48 %  de descuento) en el siguiente enlace!
 
 [![Danko  calor rojo - BD [Blu-ray]](https://images-eu.ssl-images-amazon.com/images/I/516g5V6fR%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07KZG7D2J/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07KZG7D2J/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07KZG7D2J/?tag=tolees-21)

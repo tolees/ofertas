@@ -19,11 +19,11 @@ descuento: '47.25'
 average: '15.8'
 ---
 
-Ahora mismo tienes [Salomon Military Flex  Gorra Hombre  Marrón  Walnut   Talla única](https://www.amazon.es/dp/B076MT31VL/?tag=tolees-21) a 15.8 EUR (original: 29.95 EUR) (47.25 %  de descuento) en el siguiente enlace!
+Está [Salomon Military Flex  Gorra Hombre  Marrón  Walnut   Talla única](https://www.amazon.es/dp/B076MT31VL/?tag=tolees-21) con 47.25 de descuento por 15.8 EUR (original: 29.95 EUR) en el siguiente enlace!
 
 [![Salomon Military Flex  Gorra Hombre  Mar](https://images-eu.ssl-images-amazon.com/images/I/5136s8l02oL._SL200_.jpg)](https://www.amazon.es/dp/B076MT31VL/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B076MT31VL/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B076MT31VL/?tag=tolees-21)

@@ -19,11 +19,11 @@ descuento: '68.16'
 average: '28.66'
 ---
 
-Está [Nike W Blazer Low ESS  Zapatillas para Mujer  Negro Black 001  40 EU](https://www.amazon.es/dp/B07CPV537T/?tag=tolees-21) con 68.16 de descuento por 28.66 EUR (original: 90 EUR) en el siguiente enlace!
+Ahora mismo tienes [Nike W Blazer Low ESS  Zapatillas para Mujer  Negro Black 001  40 EU](https://www.amazon.es/dp/B07CPV537T/?tag=tolees-21) a 28.66 EUR (original: 90 EUR) (68.16 %  de descuento) en el siguiente enlace!
 
 [![Nike W Blazer Low ESS  Zapatillas para M](https://images-eu.ssl-images-amazon.com/images/I/41jVXe6Ai5L._SL200_.jpg)](https://www.amazon.es/dp/B07CPV537T/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07CPV537T/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07CPV537T/?tag=tolees-21)

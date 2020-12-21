@@ -19,11 +19,11 @@ descuento: '15.02'
 average: '33.95'
 ---
 
-Está [Fantasy Flight Games - Madre de Dragones - Español  VA103ES ](https://www.amazon.es/dp/B07MTVRKTL/?tag=tolees-21) con 15.02 de descuento por 33.95 EUR (original: 39.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Fantasy Flight Games - Madre de Dragones - Español  VA103ES ](https://www.amazon.es/dp/B07MTVRKTL/?tag=tolees-21) a 33.95 EUR (original: 39.95 EUR) (15.02 %  de descuento) en el siguiente enlace!
 
 [![Fantasy Flight Games - Madre de Dragones](https://images-eu.ssl-images-amazon.com/images/I/51f36fUEZEL._SL200_.jpg)](https://www.amazon.es/dp/B07MTVRKTL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07MTVRKTL/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07MTVRKTL/?tag=tolees-21)

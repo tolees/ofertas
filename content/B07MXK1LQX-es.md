@@ -19,11 +19,11 @@ descuento: '27.07'
 average: '51.05'
 ---
 
-Ahora mismo tienes [SALOMON Discovery LT FZ Full Zip Fleece  Mujer  Azul  Night Sky   S](https://www.amazon.es/dp/B07MXK1LQX/?tag=tolees-21) a 51.05 EUR (original: 70 EUR) (27.07 %  de descuento) en el siguiente enlace!
+Está [SALOMON Discovery LT FZ Full Zip Fleece  Mujer  Azul  Night Sky   S](https://www.amazon.es/dp/B07MXK1LQX/?tag=tolees-21) con 27.07 de descuento por 51.05 EUR (original: 70 EUR) en el siguiente enlace!
 
 [![SALOMON Discovery LT FZ Full Zip Fleece ](https://images-eu.ssl-images-amazon.com/images/I/31TD2-DHoTL._SL200_.jpg)](https://www.amazon.es/dp/B07MXK1LQX/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07MXK1LQX/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07MXK1LQX/?tag=tolees-21)

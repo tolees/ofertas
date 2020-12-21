@@ -19,11 +19,11 @@ descuento: '37.50'
 average: '25'
 ---
 
-Ahora mismo tienes [New Balance 570  Zapatillas de Running Unisex Niños  Rosa Purple Pink  38 EU](https://www.amazon.es/dp/B07DFW1PBJ/?tag=tolees-21) a 25 EUR (original: 40 EUR) (37.50 %  de descuento) en el siguiente enlace!
+Está [New Balance 570  Zapatillas de Running Unisex Niños  Rosa Purple Pink  38 EU](https://www.amazon.es/dp/B07DFW1PBJ/?tag=tolees-21) con 37.50 de descuento por 25 EUR (original: 40 EUR) en el siguiente enlace!
 
 [![New Balance 570  Zapatillas de Running U](https://images-eu.ssl-images-amazon.com/images/I/41u1QCgXNxL._SL200_.jpg)](https://www.amazon.es/dp/B07DFW1PBJ/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07DFW1PBJ/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DFW1PBJ/?tag=tolees-21)

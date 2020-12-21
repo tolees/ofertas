@@ -19,11 +19,11 @@ descuento: '61.04'
 average: '27.27'
 ---
 
-Está [New Balance 480 Zapatillas de Running para Mujer  Azul  Enamel Blue/Polaris/Pigment Le6  36.5 EU](https://www.amazon.es/dp/B07B6ZK12M/?tag=tolees-21) con 61.04 de descuento por 27.27 EUR (original: 70 EUR) en el siguiente enlace!
+Ahora mismo tienes [New Balance 480 Zapatillas de Running para Mujer  Azul  Enamel Blue/Polaris/Pigment Le6  36.5 EU](https://www.amazon.es/dp/B07B6ZK12M/?tag=tolees-21) a 27.27 EUR (original: 70 EUR) (61.04 %  de descuento) en el siguiente enlace!
 
 [![New Balance 480 Zapatillas de Running pa](https://images-eu.ssl-images-amazon.com/images/I/41G9a1LkpFL._SL200_.jpg)](https://www.amazon.es/dp/B07B6ZK12M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07B6ZK12M/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07B6ZK12M/?tag=tolees-21)

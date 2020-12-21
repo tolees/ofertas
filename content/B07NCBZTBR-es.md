@@ -19,11 +19,11 @@ descuento: '23.15'
 average: '38.35'
 ---
 
-Está [Pepe Jeans MC Queen Short para Hombre  Blanco  Optic White 802  W28  Talla del fabricante: 28 ](https://www.amazon.es/dp/B07NCBZTBR/?tag=tolees-21) con 23.15 de descuento por 38.35 EUR (original: 49.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [Pepe Jeans MC Queen Short para Hombre  Blanco  Optic White 802  W28  Talla del fabricante: 28 ](https://www.amazon.es/dp/B07NCBZTBR/?tag=tolees-21) a 38.35 EUR (original: 49.9 EUR) (23.15 %  de descuento) en el siguiente enlace!
 
 [![Pepe Jeans MC Queen Short para Hombre  B](https://images-eu.ssl-images-amazon.com/images/I/41jJnnD6dWL._SL200_.jpg)](https://www.amazon.es/dp/B07NCBZTBR/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07NCBZTBR/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07NCBZTBR/?tag=tolees-21)

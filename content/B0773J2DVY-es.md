@@ -19,11 +19,11 @@ descuento: '30.06'
 average: '55.95'
 ---
 
-Está [Levi s Almayer Lite  Zapatillas para Hombre  Azul  Navy Blue 17   43 EU](https://www.amazon.es/dp/B0773J2DVY/?tag=tolees-21) con 30.06 de descuento por 55.95 EUR (original: 80 EUR) en el siguiente enlace!
+Ahora mismo tienes [Levi s Almayer Lite  Zapatillas para Hombre  Azul  Navy Blue 17   43 EU](https://www.amazon.es/dp/B0773J2DVY/?tag=tolees-21) a 55.95 EUR (original: 80 EUR) (30.06 %  de descuento) en el siguiente enlace!
 
 [![Levi s Almayer Lite  Zapatillas para Hom](https://images-eu.ssl-images-amazon.com/images/I/41TeZ7xVlIL._SL200_.jpg)](https://www.amazon.es/dp/B0773J2DVY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B0773J2DVY/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B0773J2DVY/?tag=tolees-21)

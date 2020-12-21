@@ -19,11 +19,11 @@ descuento: '59.76'
 average: '28.15'
 ---
 
-Está [Puma Vikky Mid WTR  Zapatillas Altas para Mujer  Azul  Peacoat-Magenta Haze 02   38.5 EU](https://www.amazon.es/dp/B07DCZSZVK/?tag=tolees-21) con 59.76 de descuento por 28.15 EUR (original: 69.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Puma Vikky Mid WTR  Zapatillas Altas para Mujer  Azul  Peacoat-Magenta Haze 02   38.5 EU](https://www.amazon.es/dp/B07DCZSZVK/?tag=tolees-21) a 28.15 EUR (original: 69.95 EUR) (59.76 %  de descuento) en el siguiente enlace!
 
 [![Puma Vikky Mid WTR  Zapatillas Altas par](https://images-eu.ssl-images-amazon.com/images/I/41rruMYcCIL._SL200_.jpg)](https://www.amazon.es/dp/B07DCZSZVK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07DCZSZVK/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07DCZSZVK/?tag=tolees-21)

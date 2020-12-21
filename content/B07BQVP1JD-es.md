@@ -19,11 +19,11 @@ descuento: '45.53'
 average: '25'
 ---
 
-Ahora mismo tienes [Kelme Olimpo JR  Zapatillas de fútbol Sala para Niños   Blanco 6   31 EU](https://www.amazon.es/dp/B07BQVP1JD/?tag=tolees-21) a 25 EUR (original: 45.9 EUR) (45.53 %  de descuento) en el siguiente enlace!
+Está [Kelme Olimpo JR  Zapatillas de fútbol Sala para Niños   Blanco 6   31 EU](https://www.amazon.es/dp/B07BQVP1JD/?tag=tolees-21) con 45.53 de descuento por 25 EUR (original: 45.9 EUR) en el siguiente enlace!
 
 [![Kelme Olimpo JR  Zapatillas de fútbol Sa](https://images-eu.ssl-images-amazon.com/images/I/31z0A0jMB-L._SL200_.jpg)](https://www.amazon.es/dp/B07BQVP1JD/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07BQVP1JD/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07BQVP1JD/?tag=tolees-21)

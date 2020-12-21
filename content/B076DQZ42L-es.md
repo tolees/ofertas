@@ -19,11 +19,11 @@ descuento: '61.51'
 average: '5'
 ---
 
-Está [El Señor De Los Anillos: La Comunidad Del Anillo Blu-Ray Digibook [Blu-ray]](https://www.amazon.es/dp/B076DQZ42L/?tag=tolees-21) con 61.51 de descuento por 5 EUR (original: 12.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [El Señor De Los Anillos: La Comunidad Del Anillo Blu-Ray Digibook [Blu-ray]](https://www.amazon.es/dp/B076DQZ42L/?tag=tolees-21) a 5 EUR (original: 12.99 EUR) (61.51 %  de descuento) en el siguiente enlace!
 
 [![El Señor De Los Anillos: La Comunidad De](https://images-eu.ssl-images-amazon.com/images/I/518JeGVpuWL._SL200_.jpg)](https://www.amazon.es/dp/B076DQZ42L/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B076DQZ42L/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B076DQZ42L/?tag=tolees-21)

@@ -19,11 +19,11 @@ descuento: '20.00'
 average: '39.99'
 ---
 
-Está [Minecraft Master Collection](https://www.amazon.es/dp/B07JVPXJTM/?tag=tolees-21) con 20.00 de descuento por 39.99 EUR (original: 49.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Minecraft Master Collection](https://www.amazon.es/dp/B07JVPXJTM/?tag=tolees-21) a 39.99 EUR (original: 49.99 EUR) (20.00 %  de descuento) en el siguiente enlace!
 
 [![Minecraft Master Collection](https://images-eu.ssl-images-amazon.com/images/I/51wLR5aDuGL._SL200_.jpg)](https://www.amazon.es/dp/B07JVPXJTM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07JVPXJTM/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07JVPXJTM/?tag=tolees-21)

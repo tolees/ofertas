@@ -19,11 +19,11 @@ descuento: '35.22'
 average: '12.95'
 ---
 
-Ahora mismo tienes [JACK & JONES Jjepaulos Polo SS Noos  Azul  True Navy Detail: Slim Fit   X-Large para Hombre](https://www.amazon.es/dp/B079BS1JSL/?tag=tolees-21) a 12.95 EUR (original: 19.99 EUR) (35.22 %  de descuento) en el siguiente enlace!
+Está [JACK & JONES Jjepaulos Polo SS Noos  Azul  True Navy Detail: Slim Fit   X-Large para Hombre](https://www.amazon.es/dp/B079BS1JSL/?tag=tolees-21) con 35.22 de descuento por 12.95 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![JACK & JONES Jjepaulos Polo SS Noos  Azu](https://images-eu.ssl-images-amazon.com/images/I/41BeOfHmhXL._SL200_.jpg)](https://www.amazon.es/dp/B079BS1JSL/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B079BS1JSL/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B079BS1JSL/?tag=tolees-21)

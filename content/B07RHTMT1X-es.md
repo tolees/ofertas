@@ -19,11 +19,11 @@ descuento: '20.01'
 average: '11.99'
 ---
 
-Ahora mismo tienes [Swiffer Kit Básico para Limpiar Madera y Suelos - 12 Piezas](https://www.amazon.es/dp/B07RHTMT1X/?tag=tolees-21) a 11.99 EUR (original: 14.99 EUR) (20.01 %  de descuento) en el siguiente enlace!
+Está [Swiffer Kit Básico para Limpiar Madera y Suelos - 12 Piezas](https://www.amazon.es/dp/B07RHTMT1X/?tag=tolees-21) con 20.01 de descuento por 11.99 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![Swiffer Kit Básico para Limpiar Madera y](https://images-eu.ssl-images-amazon.com/images/I/51L6uBpQX%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07RHTMT1X/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07RHTMT1X/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07RHTMT1X/?tag=tolees-21)

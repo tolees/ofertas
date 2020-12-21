@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BLACK+DECKER RT650KA-QS - Multiherramien al 50.88 % de descuento'
+title: 'BLACK+DECKER RT650KA-QS - Multiherramien al 50.88 % de rebaja'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51swPoVQguL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '50.88'
 average: '43.69'
 ---
 
-Está [BLACK+DECKER RT650KA-QS - Multiherramienta oscilante  90 W  con 87 accesorios y maletín](https://www.amazon.es/dp/B004QWACNI/?tag=tolees-21) con 50.88 de descuento por 43.69 EUR (original: 88.95 EUR) en el siguiente enlace!
+Tienes [BLACK+DECKER RT650KA-QS - Multiherramienta oscilante  90 W  con 87 accesorios y maletín](https://www.amazon.es/dp/B004QWACNI/?tag=tolees-21) con precio final de  43.69 EUR (original: 88.95 EUR) (50.88 %  de rebaja) aqui!
 
 [![BLACK+DECKER RT650KA-QS - Multiherramien](https://images-eu.ssl-images-amazon.com/images/I/51swPoVQguL._SL200_.jpg)](https://www.amazon.es/dp/B004QWACNI/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B004QWACNI/?tag=tolees-21)
+[Comprar!!!](https://www.amazon.es/dp/B004QWACNI/?tag=tolees-21)

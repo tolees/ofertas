@@ -19,11 +19,11 @@ descuento: '30.77'
 average: '45'
 ---
 
-Ahora mismo tienes [Asics Gel-Contend 5  Zapatillas de Running para Hombre  Blanco  White/Black 100   46 EU](https://www.amazon.es/dp/B07K6ZFC91/?tag=tolees-21) a 45 EUR (original: 65 EUR) (30.77 %  de descuento) en el siguiente enlace!
+Está [Asics Gel-Contend 5  Zapatillas de Running para Hombre  Blanco  White/Black 100   46 EU](https://www.amazon.es/dp/B07K6ZFC91/?tag=tolees-21) con 30.77 de descuento por 45 EUR (original: 65 EUR) en el siguiente enlace!
 
 [![Asics Gel-Contend 5  Zapatillas de Runni](https://images-eu.ssl-images-amazon.com/images/I/41pfHctNInL._SL200_.jpg)](https://www.amazon.es/dp/B07K6ZFC91/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07K6ZFC91/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07K6ZFC91/?tag=tolees-21)

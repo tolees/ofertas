@@ -19,11 +19,11 @@ descuento: '70.47'
 average: '14.75'
 ---
 
-Está [Marco Tozzi 2-2-25110-31  Botas Militar para Mujer  Verde  Khaki Antic 727   36 EU](https://www.amazon.es/dp/B07C46DCD2/?tag=tolees-21) con 70.47 de descuento por 14.75 EUR (original: 49.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Marco Tozzi 2-2-25110-31  Botas Militar para Mujer  Verde  Khaki Antic 727   36 EU](https://www.amazon.es/dp/B07C46DCD2/?tag=tolees-21) a 14.75 EUR (original: 49.95 EUR) (70.47 %  de descuento) en el siguiente enlace!
 
 [![Marco Tozzi 2-2-25110-31  Botas Militar ](https://images-eu.ssl-images-amazon.com/images/I/41AI06BJkbL._SL200_.jpg)](https://www.amazon.es/dp/B07C46DCD2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07C46DCD2/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07C46DCD2/?tag=tolees-21)

@@ -19,11 +19,11 @@ descuento: '22.67'
 average: '115.99'
 ---
 
-Ahora mismo tienes [Asus Intel B360 ATX - Placa base gaming con Aura Sync RGB iluminación LED  pre-mounted I/O shield  dual M.2  onboard M.2 heatsink  SATA 6Gbps y USB 3.1 Gen 2.](https://www.amazon.es/dp/B07BRM1RWD/?tag=tolees-21) a 115.99 EUR (original: 150 EUR) (22.67 %  de descuento) en el siguiente enlace!
+Está [Asus Intel B360 ATX - Placa base gaming con Aura Sync RGB iluminación LED  pre-mounted I/O shield  dual M.2  onboard M.2 heatsink  SATA 6Gbps y USB 3.1 Gen 2.](https://www.amazon.es/dp/B07BRM1RWD/?tag=tolees-21) con 22.67 de descuento por 115.99 EUR (original: 150 EUR) en el siguiente enlace!
 
 [![Asus Intel B360 ATX - Placa base gaming ](https://images-eu.ssl-images-amazon.com/images/I/51NIiCuvT%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07BRM1RWD/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07BRM1RWD/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07BRM1RWD/?tag=tolees-21)

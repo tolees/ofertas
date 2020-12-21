@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nikon AF-Nikkor 20mm F2.8 D - Objetivo c al 30.85 % de descuento'
+title: 'Descuento del 30.85 % en Nikon AF-Nikkor 20mm F2.8 D - Objetivo c'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/3118SSH64FL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '30.85'
 average: '434.93'
 ---
 
-Ahora mismo tienes [Nikon AF-Nikkor 20mm F2.8 D - Objetivo con Montura para Nikon  Distancia Focal Fija 20mm  Apertura f/2.8 ](https://www.amazon.es/dp/B00005LEOC/?tag=tolees-21) a 434.93 EUR (original: 629 EUR) (30.85 %  de descuento) en el siguiente enlace!
+Tienes [Nikon AF-Nikkor 20mm F2.8 D - Objetivo con Montura para Nikon  Distancia Focal Fija 20mm  Apertura f/2.8 ](https://www.amazon.es/dp/B00005LEOC/?tag=tolees-21) con un 30.85 % de descuento con precio de oferta de 434.93 EUR (original: 629 EUR) en el siguiente enlace!
 
 [![Nikon AF-Nikkor 20mm F2.8 D - Objetivo c](https://images-eu.ssl-images-amazon.com/images/I/3118SSH64FL._SL200_.jpg)](https://www.amazon.es/dp/B00005LEOC/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B00005LEOC/?tag=tolees-21)
+[Accede a la oferta!!](https://www.amazon.es/dp/B00005LEOC/?tag=tolees-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 30.01 % en Friday The 13th: The Game - Ultimate Sla'
+title: 'Friday The 13th: The Game - Ultimate Sla al 30.01 % de descuento'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51FCqjiSy8L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '30.01'
 average: '17.49'
 ---
 
-Tienes [Friday The 13th: The Game - Ultimate Slasher Edition](https://www.amazon.es/dp/B07G22MQ1Z/?tag=tolees-21) con un 30.01 % de descuento con precio de oferta de 17.49 EUR (original: 24.99 EUR) en el siguiente enlace!
+Está [Friday The 13th: The Game - Ultimate Slasher Edition](https://www.amazon.es/dp/B07G22MQ1Z/?tag=tolees-21) con 30.01 de descuento por 17.49 EUR (original: 24.99 EUR) en el siguiente enlace!
 
 [![Friday The 13th: The Game - Ultimate Sla](https://images-eu.ssl-images-amazon.com/images/I/51FCqjiSy8L._SL200_.jpg)](https://www.amazon.es/dp/B07G22MQ1Z/?tag=tolees-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B07G22MQ1Z/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07G22MQ1Z/?tag=tolees-21)

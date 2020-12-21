@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bausch & Lomb - Soflens 59 Esféricas - L al 81.43 % de descuento'
+title: 'Bausch & Lomb - Soflens 59 Esféricas - L con un 81.43 % de descuento'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51f6UelEOBL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '81.43'
 average: '8.95'
 ---
 
-Está [Bausch & Lomb - Soflens 59 Esféricas - Lentes de Contacto Mensuales - Pack de 6](https://www.amazon.es/dp/B004LHGJ3K/?tag=tolees-21) con 81.43 de descuento por 8.95 EUR (original: 48.2 EUR) en el siguiente enlace!
+En este momento está [Bausch & Lomb - Soflens 59 Esféricas - Lentes de Contacto Mensuales - Pack de 6](https://www.amazon.es/dp/B004LHGJ3K/?tag=tolees-21) a 8.95 EUR (original: 48.2 EUR) (81.43 %  de descuento) en el siguiente enlace!
 
 [![Bausch & Lomb - Soflens 59 Esféricas - L](https://images-eu.ssl-images-amazon.com/images/I/51f6UelEOBL._SL200_.jpg)](https://www.amazon.es/dp/B004LHGJ3K/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B004LHGJ3K/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B004LHGJ3K/?tag=tolees-21)

@@ -19,11 +19,11 @@ descuento: '50.23'
 average: '9.95'
 ---
 
-Ahora mismo tienes [adidas Messi CPT - Balon de fútbol  Hombre  Football Blue/Active Red/Silver Met  5](https://www.amazon.es/dp/B07KKPZCB1/?tag=tolees-21) a 9.95 EUR (original: 19.99 EUR) (50.23 %  de descuento) en el siguiente enlace!
+Está [adidas Messi CPT - Balon de fútbol  Hombre  Football Blue/Active Red/Silver Met  5](https://www.amazon.es/dp/B07KKPZCB1/?tag=tolees-21) con 50.23 de descuento por 9.95 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![adidas Messi CPT - Balon de fútbol  Homb](https://images-eu.ssl-images-amazon.com/images/I/41nGUR7HbvL._SL200_.jpg)](https://www.amazon.es/dp/B07KKPZCB1/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07KKPZCB1/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07KKPZCB1/?tag=tolees-21)

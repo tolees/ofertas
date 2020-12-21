@@ -19,11 +19,11 @@ descuento: '42.66'
 average: '8.79'
 ---
 
-Ahora mismo tienes [Cuenta conmigo [Blu-ray]](https://www.amazon.es/dp/B0059DZFH6/?tag=tolees-21) a 8.79 EUR (original: 15.33 EUR) (42.66 %  de descuento) en el siguiente enlace!
+Está [Cuenta conmigo [Blu-ray]](https://www.amazon.es/dp/B0059DZFH6/?tag=tolees-21) con 42.66 de descuento por 8.79 EUR (original: 15.33 EUR) en el siguiente enlace!
 
 [![Cuenta conmigo [Blu-ray]](https://images-eu.ssl-images-amazon.com/images/I/51ecHx7sJmL._SL200_.jpg)](https://www.amazon.es/dp/B0059DZFH6/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B0059DZFH6/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0059DZFH6/?tag=tolees-21)

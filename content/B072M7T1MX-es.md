@@ -19,11 +19,11 @@ descuento: '61.27'
 average: '23.22'
 ---
 
-Ahora mismo tienes [Reebok Sublite XT Cushion MT  Zapatillas de Running para Mujer  Morado  Coal/Vicious Violet/White/Pewter  36 EU](https://www.amazon.es/dp/B072M7T1MX/?tag=tolees-21) a 23.22 EUR (original: 59.95 EUR) (61.27 %  de descuento) en el siguiente enlace!
+Está [Reebok Sublite XT Cushion MT  Zapatillas de Running para Mujer  Morado  Coal/Vicious Violet/White/Pewter  36 EU](https://www.amazon.es/dp/B072M7T1MX/?tag=tolees-21) con 61.27 de descuento por 23.22 EUR (original: 59.95 EUR) en el siguiente enlace!
 
 [![Reebok Sublite XT Cushion MT  Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/41oY8YT5nEL._SL200_.jpg)](https://www.amazon.es/dp/B072M7T1MX/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B072M7T1MX/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B072M7T1MX/?tag=tolees-21)

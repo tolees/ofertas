@@ -19,11 +19,11 @@ descuento: '48.85'
 average: '26.39'
 ---
 
-Ahora mismo tienes [Pulidor de Uñas Aparatos eléctricos y accesorios para manicura y pedicura portátil torno para uñas con 100 bandas de lijado blanco](https://www.amazon.es/dp/B07H91MWTF/?tag=tolees-21) a 26.39 EUR (original: 51.59 EUR) (48.85 %  de descuento) en el siguiente enlace!
+Está [Pulidor de Uñas Aparatos eléctricos y accesorios para manicura y pedicura portátil torno para uñas con 100 bandas de lijado blanco](https://www.amazon.es/dp/B07H91MWTF/?tag=tolees-21) con 48.85 de descuento por 26.39 EUR (original: 51.59 EUR) en el siguiente enlace!
 
 [![Pulidor de Uñas Aparatos eléctricos y ac](https://images-eu.ssl-images-amazon.com/images/I/51qZj7olopL._SL200_.jpg)](https://www.amazon.es/dp/B07H91MWTF/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07H91MWTF/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07H91MWTF/?tag=tolees-21)

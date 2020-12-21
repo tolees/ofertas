@@ -19,11 +19,11 @@ descuento: '67.58'
 average: '21.07'
 ---
 
-Está [Under Armour UA W Rapid  Zapatillas de Entrenamiento para Mujer  Negro  Black   36 EU](https://www.amazon.es/dp/B01N9FZ87X/?tag=tolees-21) con 67.58 de descuento por 21.07 EUR (original: 65 EUR) en el siguiente enlace!
+Ahora mismo tienes [Under Armour UA W Rapid  Zapatillas de Entrenamiento para Mujer  Negro  Black   36 EU](https://www.amazon.es/dp/B01N9FZ87X/?tag=tolees-21) a 21.07 EUR (original: 65 EUR) (67.58 %  de descuento) en el siguiente enlace!
 
 [![Under Armour UA W Rapid  Zapatillas de E](https://images-eu.ssl-images-amazon.com/images/I/4119DjpZQOL._SL200_.jpg)](https://www.amazon.es/dp/B01N9FZ87X/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01N9FZ87X/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B01N9FZ87X/?tag=tolees-21)

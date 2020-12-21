@@ -19,11 +19,11 @@ descuento: '63.17'
 average: '128.55'
 ---
 
-Está [KAITT Furia Mate 2018](https://www.amazon.es/dp/B07ND4JKW2/?tag=tolees-21) con 63.17 de descuento por 128.55 EUR (original: 349 EUR) en el siguiente enlace!
+Ahora mismo tienes [KAITT Furia Mate 2018](https://www.amazon.es/dp/B07ND4JKW2/?tag=tolees-21) a 128.55 EUR (original: 349 EUR) (63.17 %  de descuento) en el siguiente enlace!
 
 [![KAITT Furia Mate 2018](https://images-eu.ssl-images-amazon.com/images/I/411%2BGLZbEYL._SL200_.jpg)](https://www.amazon.es/dp/B07ND4JKW2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07ND4JKW2/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07ND4JKW2/?tag=tolees-21)

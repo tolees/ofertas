@@ -19,11 +19,11 @@ descuento: '23.41'
 average: '11.45'
 ---
 
-Ahora mismo tienes [Lavazza Cápsulas de café Armonico - Paquete de 5 x 10 cápsulas - Total 250 g](https://www.amazon.es/dp/B074P66YKR/?tag=tolees-21) a 11.45 EUR (original: 14.95 EUR) (23.41 %  de descuento) en el siguiente enlace!
+Está [Lavazza Cápsulas de café Armonico - Paquete de 5 x 10 cápsulas - Total 250 g](https://www.amazon.es/dp/B074P66YKR/?tag=tolees-21) con 23.41 de descuento por 11.45 EUR (original: 14.95 EUR) en el siguiente enlace!
 
 [![Lavazza Cápsulas de café Armonico - Paqu](https://images-eu.ssl-images-amazon.com/images/I/41Wss9LlW2L._SL200_.jpg)](https://www.amazon.es/dp/B074P66YKR/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B074P66YKR/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B074P66YKR/?tag=tolees-21)

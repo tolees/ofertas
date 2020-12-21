@@ -19,11 +19,11 @@ descuento: '20.00'
 average: '36'
 ---
 
-Ahora mismo tienes [FIND vestidos mujer  Verde  Green   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B07B19S6GP/?tag=tolees-21) a 36 EUR (original: 45 EUR) (20.00 %  de descuento) en el siguiente enlace!
+Está [FIND vestidos mujer  Verde  Green   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B07B19S6GP/?tag=tolees-21) con 20.00 de descuento por 36 EUR (original: 45 EUR) en el siguiente enlace!
 
 [![FIND vestidos mujer  Verde  Green   42  ](https://images-eu.ssl-images-amazon.com/images/I/41sH%2BuL19fL._SL200_.jpg)](https://www.amazon.es/dp/B07B19S6GP/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07B19S6GP/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07B19S6GP/?tag=tolees-21)

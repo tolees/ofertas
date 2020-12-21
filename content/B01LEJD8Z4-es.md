@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko- Minerva McGonagall Figura de Vini al 15.54 % de descuento'
+title: 'Funko- Minerva McGonagall Figura de Vini al 15.54 % de rebaja'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41sK8ARjMuL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '15.54'
 average: '12.66'
 ---
 
-Está [Funko- Minerva McGonagall Figura de Vinilo  colección de Pop  seria Harry Potter  Talla única  10989 ](https://www.amazon.es/dp/B01LEJD8Z4/?tag=tolees-21) con 15.54 de descuento por 12.66 EUR (original: 14.99 EUR) en el siguiente enlace!
+Tienes [Funko- Minerva McGonagall Figura de Vinilo  colección de Pop  seria Harry Potter  Talla única  10989 ](https://www.amazon.es/dp/B01LEJD8Z4/?tag=tolees-21) con precio final de  12.66 EUR (original: 14.99 EUR) (15.54 %  de rebaja) aqui!
 
 [![Funko- Minerva McGonagall Figura de Vini](https://images-eu.ssl-images-amazon.com/images/I/41sK8ARjMuL._SL200_.jpg)](https://www.amazon.es/dp/B01LEJD8Z4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01LEJD8Z4/?tag=tolees-21)
+[Comprar!!!](https://www.amazon.es/dp/B01LEJD8Z4/?tag=tolees-21)

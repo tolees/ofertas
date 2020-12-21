@@ -19,11 +19,11 @@ descuento: '60.15'
 average: '15.94'
 ---
 
-Ahora mismo tienes [Nike Poloshirt TS Core Polo de Golf  Hombre  Azul/Blanco  Royal Blue/White   S](https://www.amazon.es/dp/B007T7YZ6C/?tag=tolees-21) a 15.94 EUR (original: 40 EUR) (60.15 %  de descuento) en el siguiente enlace!
+Está [Nike Poloshirt TS Core Polo de Golf  Hombre  Azul/Blanco  Royal Blue/White   S](https://www.amazon.es/dp/B007T7YZ6C/?tag=tolees-21) con 60.15 de descuento por 15.94 EUR (original: 40 EUR) en el siguiente enlace!
 
 [![Nike Poloshirt TS Core Polo de Golf  Hom](https://images-eu.ssl-images-amazon.com/images/I/41RNipmZjoL._SL200_.jpg)](https://www.amazon.es/dp/B007T7YZ6C/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B007T7YZ6C/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B007T7YZ6C/?tag=tolees-21)

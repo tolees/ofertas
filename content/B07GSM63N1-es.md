@@ -19,11 +19,11 @@ descuento: '50.00'
 average: '35'
 ---
 
-Ahora mismo tienes [find. Cotton Utility Abrigos Negro 52  Talla del Fabricante: Large ](https://www.amazon.es/dp/B07GSM63N1/?tag=tolees-21) a 35 EUR (original: 70 EUR) (50.00 %  de descuento) en el siguiente enlace!
+Está [find. Cotton Utility Abrigos Negro 52  Talla del Fabricante: Large ](https://www.amazon.es/dp/B07GSM63N1/?tag=tolees-21) con 50.00 de descuento por 35 EUR (original: 70 EUR) en el siguiente enlace!
 
 [![find. Cotton Utility Abrigos Negro 52  T](https://images-eu.ssl-images-amazon.com/images/I/31-CrsS63OL._SL200_.jpg)](https://www.amazon.es/dp/B07GSM63N1/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07GSM63N1/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07GSM63N1/?tag=tolees-21)

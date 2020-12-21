@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Osram Luminarias Móviles  0.4 W  Platead al 36.37 % de descuento'
+title: 'Osram Luminarias Móviles  0.4 W  Platead al 36.37 % de rebaja'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31l7ad09Y%2BL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '36.37'
 average: '8.24'
 ---
 
-Está [Osram Luminarias Móviles  0.4 W  Plateada  3.6 x 10.8 x 4.2 cm](https://www.amazon.es/dp/B072JT4XJV/?tag=tolees-21) con 36.37 de descuento por 8.24 EUR (original: 12.95 EUR) en el siguiente enlace!
+Tienes [Osram Luminarias Móviles  0.4 W  Plateada  3.6 x 10.8 x 4.2 cm](https://www.amazon.es/dp/B072JT4XJV/?tag=tolees-21) con precio final de  8.24 EUR (original: 12.95 EUR) (36.37 %  de rebaja) aqui!
 
 [![Osram Luminarias Móviles  0.4 W  Platead](https://images-eu.ssl-images-amazon.com/images/I/31l7ad09Y%2BL._SL200_.jpg)](https://www.amazon.es/dp/B072JT4XJV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B072JT4XJV/?tag=tolees-21)
+[Comprar!!!](https://www.amazon.es/dp/B072JT4XJV/?tag=tolees-21)

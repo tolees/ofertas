@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Scitec L-Leucina - 100 cápsulas al 31.43 % de descuento'
+title: 'Scitec L-Leucina - 100 cápsulas al 31.43 % de rebaja'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41k6fpwH-HL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '31.43'
 average: '7.2'
 ---
 
-Ahora mismo tienes [Scitec L-Leucina - 100 cápsulas](https://www.amazon.es/dp/B004EPYCR4/?tag=tolees-21) a 7.2 EUR (original: 10.5 EUR) (31.43 %  de descuento) en el siguiente enlace!
+Tienes [Scitec L-Leucina - 100 cápsulas](https://www.amazon.es/dp/B004EPYCR4/?tag=tolees-21) con precio final de  7.2 EUR (original: 10.5 EUR) (31.43 %  de rebaja) aqui!
 
 [![Scitec L-Leucina - 100 cápsulas](https://images-eu.ssl-images-amazon.com/images/I/41k6fpwH-HL._SL200_.jpg)](https://www.amazon.es/dp/B004EPYCR4/?tag=tolees-21)
 
 🔎:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B004EPYCR4/?tag=tolees-21)
+[Comprar!!!](https://www.amazon.es/dp/B004EPYCR4/?tag=tolees-21)

@@ -19,11 +19,11 @@ descuento: '60.71'
 average: '27.5'
 ---
 
-Está [adidas Swivel Push Ups Barras](https://www.amazon.es/dp/B003ULP8L2/?tag=tolees-21) con 60.71 de descuento por 27.5 EUR (original: 69.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [adidas Swivel Push Ups Barras](https://www.amazon.es/dp/B003ULP8L2/?tag=tolees-21) a 27.5 EUR (original: 69.99 EUR) (60.71 %  de descuento) en el siguiente enlace!
 
 [![adidas Swivel Push Ups Barras](https://images-eu.ssl-images-amazon.com/images/I/41nubhF%2BJBL._SL200_.jpg)](https://www.amazon.es/dp/B003ULP8L2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B003ULP8L2/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B003ULP8L2/?tag=tolees-21)

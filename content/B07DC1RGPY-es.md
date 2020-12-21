@@ -19,11 +19,11 @@ descuento: '31.59'
 average: '44.43'
 ---
 
-Ahora mismo tienes [Puma Vista  Zapatillas de Deporte Unisex Adulto  Rojo  Cordovan White-Silver Gray   41 EU](https://www.amazon.es/dp/B07DC1RGPY/?tag=tolees-21) a 44.43 EUR (original: 64.95 EUR) (31.59 %  de descuento) en el siguiente enlace!
+Está [Puma Vista  Zapatillas de Deporte Unisex Adulto  Rojo  Cordovan White-Silver Gray   41 EU](https://www.amazon.es/dp/B07DC1RGPY/?tag=tolees-21) con 31.59 de descuento por 44.43 EUR (original: 64.95 EUR) en el siguiente enlace!
 
 [![Puma Vista  Zapatillas de Deporte Unisex](https://images-eu.ssl-images-amazon.com/images/I/41Hydx-GU9L._SL200_.jpg)](https://www.amazon.es/dp/B07DC1RGPY/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07DC1RGPY/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DC1RGPY/?tag=tolees-21)

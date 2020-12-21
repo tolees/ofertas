@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kick Ass: Listo para machacar [Blu-ray] al 35.21 % de descuento'
+title: 'Kick Ass: Listo para machacar [Blu-ray] al 35.21 % de rebaja'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51LPqzLG7DL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '35.21'
 average: '9.99'
 ---
 
-Ahora mismo tienes [Kick Ass: Listo para machacar [Blu-ray]](https://www.amazon.es/dp/B0055KOLL4/?tag=tolees-21) a 9.99 EUR (original: 15.42 EUR) (35.21 %  de descuento) en el siguiente enlace!
+Tienes [Kick Ass: Listo para machacar [Blu-ray]](https://www.amazon.es/dp/B0055KOLL4/?tag=tolees-21) con precio final de  9.99 EUR (original: 15.42 EUR) (35.21 %  de rebaja) aqui!
 
 [![Kick Ass: Listo para machacar [Blu-ray]](https://images-eu.ssl-images-amazon.com/images/I/51LPqzLG7DL._SL200_.jpg)](https://www.amazon.es/dp/B0055KOLL4/?tag=tolees-21)
 
 🔎:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B0055KOLL4/?tag=tolees-21)
+[Comprar!!!](https://www.amazon.es/dp/B0055KOLL4/?tag=tolees-21)

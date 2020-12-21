@@ -19,11 +19,11 @@ descuento: '81.80'
 average: '9.1'
 ---
 
-Ahora mismo tienes [Esprit 118ee2i013  suéter Hombre  Blanco  Off White 110   Small](https://www.amazon.es/dp/B07G9KL1DC/?tag=tolees-21) a 9.1 EUR (original: 49.99 EUR) (81.80 %  de descuento) en el siguiente enlace!
+Está [Esprit 118ee2i013  suéter Hombre  Blanco  Off White 110   Small](https://www.amazon.es/dp/B07G9KL1DC/?tag=tolees-21) con 81.80 de descuento por 9.1 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![Esprit 118ee2i013  suéter Hombre  Blanco](https://images-eu.ssl-images-amazon.com/images/I/41awPmZyIQL._SL200_.jpg)](https://www.amazon.es/dp/B07G9KL1DC/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07G9KL1DC/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07G9KL1DC/?tag=tolees-21)

@@ -19,11 +19,11 @@ descuento: '37.36'
 average: '20.42'
 ---
 
-Está [Isfjord Ginebra - 700 ml](https://www.amazon.es/dp/B00I0QM82O/?tag=tolees-21) con 37.36 de descuento por 20.42 EUR (original: 32.6 EUR) en el siguiente enlace!
+Ahora mismo tienes [Isfjord Ginebra - 700 ml](https://www.amazon.es/dp/B00I0QM82O/?tag=tolees-21) a 20.42 EUR (original: 32.6 EUR) (37.36 %  de descuento) en el siguiente enlace!
 
 [![Isfjord Ginebra - 700 ml](https://images-eu.ssl-images-amazon.com/images/I/41inzQgf0zL._SL200_.jpg)](https://www.amazon.es/dp/B00I0QM82O/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00I0QM82O/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00I0QM82O/?tag=tolees-21)

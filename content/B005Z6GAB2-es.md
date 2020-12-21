@@ -19,11 +19,11 @@ descuento: '30.00'
 average: '17.85'
 ---
 
-Está [Farmacell 312  Carne  S/M  Faja pantalon moldeadora y contenitiva con efecto masajeador y anti-celulitis](https://www.amazon.es/dp/B005Z6GAB2/?tag=tolees-21) con 30.00 de descuento por 17.85 EUR (original: 25.5 EUR) en el siguiente enlace!
+Ahora mismo tienes [Farmacell 312  Carne  S/M  Faja pantalon moldeadora y contenitiva con efecto masajeador y anti-celulitis](https://www.amazon.es/dp/B005Z6GAB2/?tag=tolees-21) a 17.85 EUR (original: 25.5 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
 [![Farmacell 312  Carne  S/M  Faja pantalon](https://images-eu.ssl-images-amazon.com/images/I/31%2BVAjZ0MnL._SL200_.jpg)](https://www.amazon.es/dp/B005Z6GAB2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B005Z6GAB2/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B005Z6GAB2/?tag=tolees-21)

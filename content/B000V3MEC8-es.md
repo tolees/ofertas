@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vichy - Purete Thermale - Limpiador faci al 50.86 % de descuento'
+title: 'Vichy - Purete Thermale - Limpiador faci con un 50.86 % de descuento'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31tY2vxGVsL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '50.86'
 average: '8.6'
 ---
 
-Ahora mismo tienes [Vichy - Purete Thermale - Limpiador facial calmante micelar para mujer - 400 ml](https://www.amazon.es/dp/B000V3MEC8/?tag=tolees-21) a 8.6 EUR (original: 17.5 EUR) (50.86 %  de descuento) en el siguiente enlace!
+En este momento está [Vichy - Purete Thermale - Limpiador facial calmante micelar para mujer - 400 ml](https://www.amazon.es/dp/B000V3MEC8/?tag=tolees-21) a 8.6 EUR (original: 17.5 EUR) (50.86 %  de descuento) en el siguiente enlace!
 
 [![Vichy - Purete Thermale - Limpiador faci](https://images-eu.ssl-images-amazon.com/images/I/31tY2vxGVsL._SL200_.jpg)](https://www.amazon.es/dp/B000V3MEC8/?tag=tolees-21)
 
 🔎:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B000V3MEC8/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B000V3MEC8/?tag=tolees-21)

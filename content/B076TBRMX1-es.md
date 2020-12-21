@@ -19,11 +19,11 @@ descuento: '18.47'
 average: '7.99'
 ---
 
-Ahora mismo tienes [Bra Efficient Cuchillo Tomatero  Acero Inoxidable  Gris  3x3x24 cm](https://www.amazon.es/dp/B076TBRMX1/?tag=tolees-21) a 7.99 EUR (original: 9.8 EUR) (18.47 %  de descuento) en el siguiente enlace!
+Está [Bra Efficient Cuchillo Tomatero  Acero Inoxidable  Gris  3x3x24 cm](https://www.amazon.es/dp/B076TBRMX1/?tag=tolees-21) con 18.47 de descuento por 7.99 EUR (original: 9.8 EUR) en el siguiente enlace!
 
 [![Bra Efficient Cuchillo Tomatero  Acero I](https://images-eu.ssl-images-amazon.com/images/I/21FjIRoadLL._SL200_.jpg)](https://www.amazon.es/dp/B076TBRMX1/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B076TBRMX1/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B076TBRMX1/?tag=tolees-21)

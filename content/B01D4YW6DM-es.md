@@ -19,11 +19,11 @@ descuento: '18.82'
 average: '21.74'
 ---
 
-Ahora mismo tienes [Orbegozo TF 0134 Ventilador de sobremesa  40 W  Color negro](https://www.amazon.es/dp/B01D4YW6DM/?tag=tolees-21) a 21.74 EUR (original: 26.78 EUR) (18.82 %  de descuento) en el siguiente enlace!
+Está [Orbegozo TF 0134 Ventilador de sobremesa  40 W  Color negro](https://www.amazon.es/dp/B01D4YW6DM/?tag=tolees-21) con 18.82 de descuento por 21.74 EUR (original: 26.78 EUR) en el siguiente enlace!
 
 [![Orbegozo TF 0134 Ventilador de sobremesa](https://images-eu.ssl-images-amazon.com/images/I/41CcDmQxJDL._SL200_.jpg)](https://www.amazon.es/dp/B01D4YW6DM/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B01D4YW6DM/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01D4YW6DM/?tag=tolees-21)

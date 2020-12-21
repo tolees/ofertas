@@ -19,11 +19,11 @@ descuento: '40.00'
 average: '11.4'
 ---
 
-Está [Kipling - Trix  Monederos Mujer  Verde  Jaded Green C ](https://www.amazon.es/dp/B07DKH732W/?tag=tolees-21) con 40.00 de descuento por 11.4 EUR (original: 19 EUR) en el siguiente enlace!
+Ahora mismo tienes [Kipling - Trix  Monederos Mujer  Verde  Jaded Green C ](https://www.amazon.es/dp/B07DKH732W/?tag=tolees-21) a 11.4 EUR (original: 19 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
 [![Kipling - Trix  Monederos Mujer  Verde  ](https://images-eu.ssl-images-amazon.com/images/I/51tVJ7x4K-L._SL200_.jpg)](https://www.amazon.es/dp/B07DKH732W/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07DKH732W/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07DKH732W/?tag=tolees-21)

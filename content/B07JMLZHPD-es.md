@@ -19,11 +19,11 @@ descuento: '61.78'
 average: '15.27'
 ---
 
-Está [XTI 48891  Zapatillas para Mujer  Negro  39 EU](https://www.amazon.es/dp/B07JMLZHPD/?tag=tolees-21) con 61.78 de descuento por 15.27 EUR (original: 39.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [XTI 48891  Zapatillas para Mujer  Negro  39 EU](https://www.amazon.es/dp/B07JMLZHPD/?tag=tolees-21) a 15.27 EUR (original: 39.95 EUR) (61.78 %  de descuento) en el siguiente enlace!
 
 [![XTI 48891  Zapatillas para Mujer  Negro ](https://images-eu.ssl-images-amazon.com/images/I/41bvKFMWdpL._SL200_.jpg)](https://www.amazon.es/dp/B07JMLZHPD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07JMLZHPD/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07JMLZHPD/?tag=tolees-21)

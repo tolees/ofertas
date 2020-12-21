@@ -19,11 +19,11 @@ descuento: '20.00'
 average: '95.96'
 ---
 
-Ahora mismo tienes [Gore Wear 100369 Maillot  Hombre  Negro/Rojo  L](https://www.amazon.es/dp/B077XYR6MX/?tag=tolees-21) a 95.96 EUR (original: 119.95 EUR) (20.00 %  de descuento) en el siguiente enlace!
+Está [Gore Wear 100369 Maillot  Hombre  Negro/Rojo  L](https://www.amazon.es/dp/B077XYR6MX/?tag=tolees-21) con 20.00 de descuento por 95.96 EUR (original: 119.95 EUR) en el siguiente enlace!
 
 [![Gore Wear 100369 Maillot  Hombre  Negro/](https://images-eu.ssl-images-amazon.com/images/I/41-HAHrT4zL._SL200_.jpg)](https://www.amazon.es/dp/B077XYR6MX/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B077XYR6MX/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B077XYR6MX/?tag=tolees-21)

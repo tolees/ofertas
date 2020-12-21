@@ -19,11 +19,11 @@ descuento: '46.84'
 average: '47.84'
 ---
 
-Está [Nike Air Max Nostalgic  Zapatillas de Gimnasia para Hombre  Negro  Black/White   44 EU](https://www.amazon.es/dp/B071NN32CV/?tag=tolees-21) con 46.84 de descuento por 47.84 EUR (original: 90 EUR) en el siguiente enlace!
+Ahora mismo tienes [Nike Air Max Nostalgic  Zapatillas de Gimnasia para Hombre  Negro  Black/White   44 EU](https://www.amazon.es/dp/B071NN32CV/?tag=tolees-21) a 47.84 EUR (original: 90 EUR) (46.84 %  de descuento) en el siguiente enlace!
 
 [![Nike Air Max Nostalgic  Zapatillas de Gi](https://images-eu.ssl-images-amazon.com/images/I/41EW%2Bq50sYL._SL200_.jpg)](https://www.amazon.es/dp/B071NN32CV/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B071NN32CV/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B071NN32CV/?tag=tolees-21)

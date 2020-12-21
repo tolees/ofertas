@@ -19,11 +19,11 @@ descuento: '67.26'
 average: '25'
 ---
 
-Ahora mismo tienes [Asics Gel-Fujitrabuco 5  Zapatillas de Correr Mujer  Gris  Midgrey/silver/diva Pink   38 EU](https://www.amazon.es/dp/B01NA9G3B1/?tag=tolees-21) a 25 EUR (original: 76.35 EUR) (67.26 %  de descuento) en el siguiente enlace!
+Está [Asics Gel-Fujitrabuco 5  Zapatillas de Correr Mujer  Gris  Midgrey/silver/diva Pink   38 EU](https://www.amazon.es/dp/B01NA9G3B1/?tag=tolees-21) con 67.26 de descuento por 25 EUR (original: 76.35 EUR) en el siguiente enlace!
 
 [![Asics Gel-Fujitrabuco 5  Zapatillas de C](https://images-eu.ssl-images-amazon.com/images/I/51Av7u7TmKL._SL200_.jpg)](https://www.amazon.es/dp/B01NA9G3B1/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B01NA9G3B1/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01NA9G3B1/?tag=tolees-21)

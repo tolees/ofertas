@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 21.90 % en Foco proyector LED 50W para exteriores -'
+title: 'Foco proyector LED 50W para exteriores - al 21.90 % de descuento'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51c%2BdUlp5-L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '21.90'
 average: '22.22'
 ---
 
-Tienes [Foco proyector LED 50W para exteriores - GreeSuit Reflector Super brillante  luz blanca  luz de seguridad IP65 para exteriores  reflector para exteriores para garaje  jardín  césped y patio](https://www.amazon.es/dp/B07K7F1NYT/?tag=tolees-21) con un 21.90 % de descuento con precio de oferta de 22.22 EUR (original: 28.45 EUR) en el siguiente enlace!
+Está [Foco proyector LED 50W para exteriores - GreeSuit Reflector Super brillante  luz blanca  luz de seguridad IP65 para exteriores  reflector para exteriores para garaje  jardín  césped y patio](https://www.amazon.es/dp/B07K7F1NYT/?tag=tolees-21) con 21.90 de descuento por 22.22 EUR (original: 28.45 EUR) en el siguiente enlace!
 
 [![Foco proyector LED 50W para exteriores -](https://images-eu.ssl-images-amazon.com/images/I/51c%2BdUlp5-L._SL200_.jpg)](https://www.amazon.es/dp/B07K7F1NYT/?tag=tolees-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B07K7F1NYT/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07K7F1NYT/?tag=tolees-21)

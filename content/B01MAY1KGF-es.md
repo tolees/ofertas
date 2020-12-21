@@ -19,11 +19,11 @@ descuento: '60.28'
 average: '33.74'
 ---
 
-Ahora mismo tienes [Skechers Vasar-Bota  Entrenadores para Mujer  Negro  Black  37.5 EU](https://www.amazon.es/dp/B01MAY1KGF/?tag=tolees-21) a 33.74 EUR (original: 84.95 EUR) (60.28 %  de descuento) en el siguiente enlace!
+Está [Skechers Vasar-Bota  Entrenadores para Mujer  Negro  Black  37.5 EU](https://www.amazon.es/dp/B01MAY1KGF/?tag=tolees-21) con 60.28 de descuento por 33.74 EUR (original: 84.95 EUR) en el siguiente enlace!
 
 [![Skechers Vasar-Bota  Entrenadores para M](https://images-eu.ssl-images-amazon.com/images/I/41oTewIndYL._SL200_.jpg)](https://www.amazon.es/dp/B01MAY1KGF/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B01MAY1KGF/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01MAY1KGF/?tag=tolees-21)

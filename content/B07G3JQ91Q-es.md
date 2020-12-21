@@ -19,11 +19,11 @@ descuento: '75.28'
 average: '354.01'
 ---
 
-Ahora mismo tienes [APC Instruments Luthier - Instrumento de cuerdas](https://www.amazon.es/dp/B07G3JQ91Q/?tag=tolees-21) a 354.01 EUR (original: 1432.24 EUR) (75.28 %  de descuento) en el siguiente enlace!
+Está [APC Instruments Luthier - Instrumento de cuerdas](https://www.amazon.es/dp/B07G3JQ91Q/?tag=tolees-21) con 75.28 de descuento por 354.01 EUR (original: 1432.24 EUR) en el siguiente enlace!
 
 [![APC Instruments Luthier - Instrumento de](https://images-eu.ssl-images-amazon.com/images/I/311WnLsu0IL._SL200_.jpg)](https://www.amazon.es/dp/B07G3JQ91Q/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07G3JQ91Q/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07G3JQ91Q/?tag=tolees-21)

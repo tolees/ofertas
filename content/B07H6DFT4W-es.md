@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Riot: Civil Unrest al 36.01 % de descuento'
+title: 'Riot: Civil Unrest al 36.01 % de rebaja'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51uCg6kmKpL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '36.01'
 average: '15.99'
 ---
 
-Ahora mismo tienes [Riot: Civil Unrest](https://www.amazon.es/dp/B07H6DFT4W/?tag=tolees-21) a 15.99 EUR (original: 24.99 EUR) (36.01 %  de descuento) en el siguiente enlace!
+Tienes [Riot: Civil Unrest](https://www.amazon.es/dp/B07H6DFT4W/?tag=tolees-21) con precio final de  15.99 EUR (original: 24.99 EUR) (36.01 %  de rebaja) aqui!
 
 [![Riot: Civil Unrest](https://images-eu.ssl-images-amazon.com/images/I/51uCg6kmKpL._SL200_.jpg)](https://www.amazon.es/dp/B07H6DFT4W/?tag=tolees-21)
 
 🔎:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07H6DFT4W/?tag=tolees-21)
+[Comprar!!!](https://www.amazon.es/dp/B07H6DFT4W/?tag=tolees-21)

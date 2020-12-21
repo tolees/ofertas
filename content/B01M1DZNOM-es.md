@@ -19,11 +19,11 @@ descuento: '20.23'
 average: '9.54'
 ---
 
-Ahora mismo tienes [Chocolates Valor - Choholate con y Marconas Enteras - 250 g - [pack de 4]](https://www.amazon.es/dp/B01M1DZNOM/?tag=tolees-21) a 9.54 EUR (original: 11.96 EUR) (20.23 %  de descuento) en el siguiente enlace!
+Está [Chocolates Valor - Choholate con y Marconas Enteras - 250 g - [pack de 4]](https://www.amazon.es/dp/B01M1DZNOM/?tag=tolees-21) con 20.23 de descuento por 9.54 EUR (original: 11.96 EUR) en el siguiente enlace!
 
 [![Chocolates Valor - Choholate con y Marco](http://images.amazon.com/images/P/B01M1DZNOM.01._PI_SCMZZZZZZZ_._SL200_.jpg)](https://www.amazon.es/dp/B01M1DZNOM/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B01M1DZNOM/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01M1DZNOM/?tag=tolees-21)

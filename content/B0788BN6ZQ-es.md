@@ -19,11 +19,11 @@ descuento: '49.99'
 average: '32.48'
 ---
 
-Ahora mismo tienes [Adidas CAFLAIRE  Zapatillas de Deporte para Hombre  Blanco  Ftwbla/Carbon/Pertiz 000   46 EU](https://www.amazon.es/dp/B0788BN6ZQ/?tag=tolees-21) a 32.48 EUR (original: 64.95 EUR) (49.99 %  de descuento) en el siguiente enlace!
+Está [Adidas CAFLAIRE  Zapatillas de Deporte para Hombre  Blanco  Ftwbla/Carbon/Pertiz 000   46 EU](https://www.amazon.es/dp/B0788BN6ZQ/?tag=tolees-21) con 49.99 de descuento por 32.48 EUR (original: 64.95 EUR) en el siguiente enlace!
 
 [![Adidas CAFLAIRE  Zapatillas de Deporte p](https://images-eu.ssl-images-amazon.com/images/I/41D9e0O1zLL._SL200_.jpg)](https://www.amazon.es/dp/B0788BN6ZQ/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B0788BN6ZQ/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0788BN6ZQ/?tag=tolees-21)

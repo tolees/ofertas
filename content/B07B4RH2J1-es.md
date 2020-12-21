@@ -19,11 +19,11 @@ descuento: '82.05'
 average: '1.14'
 ---
 
-Ahora mismo tienes [Colgate Total Pro Gum Health cepillo de dientes suave  medio](https://www.amazon.es/dp/B07B4RH2J1/?tag=tolees-21) a 1.14 EUR (original: 6.35 EUR) (82.05 %  de descuento) en el siguiente enlace!
+Está [Colgate Total Pro Gum Health cepillo de dientes suave  medio](https://www.amazon.es/dp/B07B4RH2J1/?tag=tolees-21) con 82.05 de descuento por 1.14 EUR (original: 6.35 EUR) en el siguiente enlace!
 
 [![Colgate Total Pro Gum Health cepillo de ](https://images-eu.ssl-images-amazon.com/images/I/4188e6KijCL._SL200_.jpg)](https://www.amazon.es/dp/B07B4RH2J1/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07B4RH2J1/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07B4RH2J1/?tag=tolees-21)

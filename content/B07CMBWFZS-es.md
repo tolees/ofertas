@@ -19,11 +19,11 @@ descuento: '55.23'
 average: '24.92'
 ---
 
-Está [San Jamón Guerra de Pura Cepa Tinto Mecía Bierzo - Paquete de 12 x 750 ml - Total: 9000 ml](https://www.amazon.es/dp/B07CMBWFZS/?tag=tolees-21) con 55.23 de descuento por 24.92 EUR (original: 55.66 EUR) en el siguiente enlace!
+Ahora mismo tienes [San Jamón Guerra de Pura Cepa Tinto Mecía Bierzo - Paquete de 12 x 750 ml - Total: 9000 ml](https://www.amazon.es/dp/B07CMBWFZS/?tag=tolees-21) a 24.92 EUR (original: 55.66 EUR) (55.23 %  de descuento) en el siguiente enlace!
 
 [![San Jamón Guerra de Pura Cepa Tinto Mecí](https://images-eu.ssl-images-amazon.com/images/I/41H-NX-4nFL._SL200_.jpg)](https://www.amazon.es/dp/B07CMBWFZS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07CMBWFZS/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07CMBWFZS/?tag=tolees-21)

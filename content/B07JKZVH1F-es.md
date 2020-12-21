@@ -19,11 +19,11 @@ descuento: '22.71'
 average: '11.2'
 ---
 
-Ahora mismo tienes [Amazon Essentials Slim-Fit Short-Sleeve Shirt button-down-shirts  White/Navy Large Plaid  US L  EU L ](https://www.amazon.es/dp/B07JKZVH1F/?tag=tolees-21) a 11.2 EUR (original: 14.49 EUR) (22.71 %  de descuento) en el siguiente enlace!
+Está [Amazon Essentials Slim-Fit Short-Sleeve Shirt button-down-shirts  White/Navy Large Plaid  US L  EU L ](https://www.amazon.es/dp/B07JKZVH1F/?tag=tolees-21) con 22.71 de descuento por 11.2 EUR (original: 14.49 EUR) en el siguiente enlace!
 
 [![Amazon Essentials Slim-Fit Short-Sleeve ](https://images-eu.ssl-images-amazon.com/images/I/41Xe5EvGZML._SL200_.jpg)](https://www.amazon.es/dp/B07JKZVH1F/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07JKZVH1F/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07JKZVH1F/?tag=tolees-21)

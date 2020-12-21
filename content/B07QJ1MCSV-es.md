@@ -19,11 +19,11 @@ descuento: '50.03'
 average: '15'
 ---
 
-Ahora mismo tienes [New Look Cosy Shirt Mono  Negro  Black 1   42  Talla del Fabricante: 14  para Mujer](https://www.amazon.es/dp/B07QJ1MCSV/?tag=tolees-21) a 15 EUR (original: 30.02 EUR) (50.03 %  de descuento) en el siguiente enlace!
+Está [New Look Cosy Shirt Mono  Negro  Black 1   42  Talla del Fabricante: 14  para Mujer](https://www.amazon.es/dp/B07QJ1MCSV/?tag=tolees-21) con 50.03 de descuento por 15 EUR (original: 30.02 EUR) en el siguiente enlace!
 
 [![New Look Cosy Shirt Mono  Negro  Black 1](https://images-eu.ssl-images-amazon.com/images/I/31j9t8pX1XL._SL200_.jpg)](https://www.amazon.es/dp/B07QJ1MCSV/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07QJ1MCSV/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07QJ1MCSV/?tag=tolees-21)

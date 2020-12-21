@@ -19,11 +19,11 @@ descuento: '19.21'
 average: '9.84'
 ---
 
-Ahora mismo tienes [Shiseido Senscience Silk Moisture - Champú  300 ml](https://www.amazon.es/dp/B00IRD8DA6/?tag=tolees-21) a 9.84 EUR (original: 12.18 EUR) (19.21 %  de descuento) en el siguiente enlace!
+Está [Shiseido Senscience Silk Moisture - Champú  300 ml](https://www.amazon.es/dp/B00IRD8DA6/?tag=tolees-21) con 19.21 de descuento por 9.84 EUR (original: 12.18 EUR) en el siguiente enlace!
 
 [![Shiseido Senscience Silk Moisture - Cham](https://images-eu.ssl-images-amazon.com/images/I/21eo95Au9PL._SL200_.jpg)](https://www.amazon.es/dp/B00IRD8DA6/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B00IRD8DA6/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00IRD8DA6/?tag=tolees-21)

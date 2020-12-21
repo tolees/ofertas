@@ -19,11 +19,11 @@ descuento: '20.97'
 average: '9.5'
 ---
 
-Ahora mismo tienes [H&S Classic 2 en 1 Anticaspa Champú y Acondicionador - 1000 ml](https://www.amazon.es/dp/B07PB9M46H/?tag=tolees-21) a 9.5 EUR (original: 12.02 EUR) (20.97 %  de descuento) en el siguiente enlace!
+Está [H&S Classic 2 en 1 Anticaspa Champú y Acondicionador - 1000 ml](https://www.amazon.es/dp/B07PB9M46H/?tag=tolees-21) con 20.97 de descuento por 9.5 EUR (original: 12.02 EUR) en el siguiente enlace!
 
 [![H&S Classic 2 en 1 Anticaspa Champú y Ac](https://images-eu.ssl-images-amazon.com/images/I/41zetjG0wXL._SL200_.jpg)](https://www.amazon.es/dp/B07PB9M46H/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07PB9M46H/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07PB9M46H/?tag=tolees-21)

@@ -19,11 +19,11 @@ descuento: '44.15'
 average: '22.34'
 ---
 
-Está [New Balance 570  Zapatillas Deportivas para Interior Unisex Niños  Azul  Blue/White Bl   32 EU](https://www.amazon.es/dp/B07DJ79S2F/?tag=tolees-21) con 44.15 de descuento por 22.34 EUR (original: 40 EUR) en el siguiente enlace!
+Ahora mismo tienes [New Balance 570  Zapatillas Deportivas para Interior Unisex Niños  Azul  Blue/White Bl   32 EU](https://www.amazon.es/dp/B07DJ79S2F/?tag=tolees-21) a 22.34 EUR (original: 40 EUR) (44.15 %  de descuento) en el siguiente enlace!
 
 [![New Balance 570  Zapatillas Deportivas p](https://images-eu.ssl-images-amazon.com/images/I/41ELFw1iFFL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ79S2F/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07DJ79S2F/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07DJ79S2F/?tag=tolees-21)

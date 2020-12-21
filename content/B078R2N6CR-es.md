@@ -19,11 +19,11 @@ descuento: '68.15'
 average: '41.4'
 ---
 
-Ahora mismo tienes [Asics Gel-Lyte V  Zapatillas para Hombre  Beige Marzipan 0505  46 EU](https://www.amazon.es/dp/B078R2N6CR/?tag=tolees-21) a 41.4 EUR (original: 130 EUR) (68.15 %  de descuento) en el siguiente enlace!
+Está [Asics Gel-Lyte V  Zapatillas para Hombre  Beige Marzipan 0505  46 EU](https://www.amazon.es/dp/B078R2N6CR/?tag=tolees-21) con 68.15 de descuento por 41.4 EUR (original: 130 EUR) en el siguiente enlace!
 
 [![Asics Gel-Lyte V  Zapatillas para Hombre](https://images-eu.ssl-images-amazon.com/images/I/417eCBVQMDL._SL200_.jpg)](https://www.amazon.es/dp/B078R2N6CR/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B078R2N6CR/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B078R2N6CR/?tag=tolees-21)

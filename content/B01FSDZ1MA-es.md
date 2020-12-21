@@ -19,11 +19,11 @@ descuento: '62.30'
 average: '26.39'
 ---
 
-Ahora mismo tienes [New Balance Flash Run V1  Zapatillas Deportivas para Interior para Hombre  Gris  Grey   45 EU](https://www.amazon.es/dp/B01FSDZ1MA/?tag=tolees-21) a 26.39 EUR (original: 70 EUR) (62.30 %  de descuento) en el siguiente enlace!
+Está [New Balance Flash Run V1  Zapatillas Deportivas para Interior para Hombre  Gris  Grey   45 EU](https://www.amazon.es/dp/B01FSDZ1MA/?tag=tolees-21) con 62.30 de descuento por 26.39 EUR (original: 70 EUR) en el siguiente enlace!
 
 [![New Balance Flash Run V1  Zapatillas Dep](https://images-eu.ssl-images-amazon.com/images/I/51WD6j0m3OL._SL200_.jpg)](https://www.amazon.es/dp/B01FSDZ1MA/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B01FSDZ1MA/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01FSDZ1MA/?tag=tolees-21)

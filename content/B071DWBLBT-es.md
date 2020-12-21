@@ -19,11 +19,11 @@ descuento: '23.46'
 average: '85.99'
 ---
 
-Ahora mismo tienes [COAVAS Mesa Redonda de Cocina Comedor o Café Moderna Estilo Eames Eiffel Color Blanco Crema Vintage y Patas de Madera](https://www.amazon.es/dp/B071DWBLBT/?tag=tolees-21) a 85.99 EUR (original: 112.34 EUR) (23.46 %  de descuento) en el siguiente enlace!
+Está [COAVAS Mesa Redonda de Cocina Comedor o Café Moderna Estilo Eames Eiffel Color Blanco Crema Vintage y Patas de Madera](https://www.amazon.es/dp/B071DWBLBT/?tag=tolees-21) con 23.46 de descuento por 85.99 EUR (original: 112.34 EUR) en el siguiente enlace!
 
 [![COAVAS Mesa Redonda de Cocina Comedor o ](https://images-eu.ssl-images-amazon.com/images/I/418wBUEvI8L._SL200_.jpg)](https://www.amazon.es/dp/B071DWBLBT/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B071DWBLBT/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B071DWBLBT/?tag=tolees-21)

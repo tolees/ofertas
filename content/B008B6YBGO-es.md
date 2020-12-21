@@ -19,11 +19,11 @@ descuento: '24.43'
 average: '23.42'
 ---
 
-Ahora mismo tienes [Krups Nespresso - Portacápsulas metálico giratorio  acero inoxidable  color plata  para 40 cápsulas](https://www.amazon.es/dp/B008B6YBGO/?tag=tolees-21) a 23.42 EUR (original: 30.99 EUR) (24.43 %  de descuento) en el siguiente enlace!
+Está [Krups Nespresso - Portacápsulas metálico giratorio  acero inoxidable  color plata  para 40 cápsulas](https://www.amazon.es/dp/B008B6YBGO/?tag=tolees-21) con 24.43 de descuento por 23.42 EUR (original: 30.99 EUR) en el siguiente enlace!
 
 [![Krups Nespresso - Portacápsulas metálico](https://images-eu.ssl-images-amazon.com/images/I/41Puj6d18sL._SL200_.jpg)](https://www.amazon.es/dp/B008B6YBGO/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B008B6YBGO/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B008B6YBGO/?tag=tolees-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'El Principito [DVD] al 19.47 % de descuento'
+title: 'Descuento del 19.47 % en El Principito [DVD]'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51yuCN1ObIL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '19.47'
 average: '11.95'
 ---
 
-Está [El Principito [DVD]](https://www.amazon.es/dp/B01M9JR0OR/?tag=tolees-21) con 19.47 de descuento por 11.95 EUR (original: 14.84 EUR) en el siguiente enlace!
+Tienes [El Principito [DVD]](https://www.amazon.es/dp/B01M9JR0OR/?tag=tolees-21) con un 19.47 % de descuento con precio de oferta de 11.95 EUR (original: 14.84 EUR) en el siguiente enlace!
 
 [![El Principito [DVD]](https://images-eu.ssl-images-amazon.com/images/I/51yuCN1ObIL._SL200_.jpg)](https://www.amazon.es/dp/B01M9JR0OR/?tag=tolees-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01M9JR0OR/?tag=tolees-21)
+[Accede a la oferta!!](https://www.amazon.es/dp/B01M9JR0OR/?tag=tolees-21)

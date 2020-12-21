@@ -19,11 +19,11 @@ descuento: '30.00'
 average: '160.3'
 ---
 
-Ahora mismo tienes [rainforest](https://www.amazon.es/dp/B075QH11SR/?tag=tolees-21) a 160.3 EUR (original: 229 EUR) (30.00 %  de descuento) en el siguiente enlace!
+Está [rainforest](https://www.amazon.es/dp/B075QH11SR/?tag=tolees-21) con 30.00 de descuento por 160.3 EUR (original: 229 EUR) en el siguiente enlace!
 
 [![rainforest](https://images-eu.ssl-images-amazon.com/images/I/412ShOoAxjL._SL200_.jpg)](https://www.amazon.es/dp/B075QH11SR/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B075QH11SR/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B075QH11SR/?tag=tolees-21)

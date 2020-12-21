@@ -19,11 +19,11 @@ descuento: '30.11'
 average: '6.8'
 ---
 
-Ahora mismo tienes [Organic Shop Exfoliante Corporal Estimulante Almendra y Leche de Miel - 450 ml](https://www.amazon.es/dp/B01H241EZQ/?tag=tolees-21) a 6.8 EUR (original: 9.73 EUR) (30.11 %  de descuento) en el siguiente enlace!
+Está [Organic Shop Exfoliante Corporal Estimulante Almendra y Leche de Miel - 450 ml](https://www.amazon.es/dp/B01H241EZQ/?tag=tolees-21) con 30.11 de descuento por 6.8 EUR (original: 9.73 EUR) en el siguiente enlace!
 
 [![Organic Shop Exfoliante Corporal Estimul](https://images-eu.ssl-images-amazon.com/images/I/41QYnrSAb6L._SL200_.jpg)](https://www.amazon.es/dp/B01H241EZQ/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B01H241EZQ/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01H241EZQ/?tag=tolees-21)

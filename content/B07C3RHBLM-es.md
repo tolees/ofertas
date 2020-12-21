@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lenovo ThinkPad X280 - Ordenador portáti al 16.92 % de descuento'
+title: 'Lenovo ThinkPad X280 - Ordenador portáti con un 16.92 % de descuento'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31KWxxKYvIL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '16.92'
 average: '1121.51'
 ---
 
-Está [Lenovo ThinkPad X280 - Ordenador portátil de 12.5    Intel Core i5-8250U  DDR4 de hasta 8 GB + 2400 MHz  256 GB SSD  Windows Pro ](https://www.amazon.es/dp/B07C3RHBLM/?tag=tolees-21) con 16.92 de descuento por 1121.51 EUR (original: 1349.99 EUR) en el siguiente enlace!
+En este momento está [Lenovo ThinkPad X280 - Ordenador portátil de 12.5    Intel Core i5-8250U  DDR4 de hasta 8 GB + 2400 MHz  256 GB SSD  Windows Pro ](https://www.amazon.es/dp/B07C3RHBLM/?tag=tolees-21) a 1121.51 EUR (original: 1349.99 EUR) (16.92 %  de descuento) en el siguiente enlace!
 
 [![Lenovo ThinkPad X280 - Ordenador portáti](https://images-eu.ssl-images-amazon.com/images/I/31KWxxKYvIL._SL200_.jpg)](https://www.amazon.es/dp/B07C3RHBLM/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07C3RHBLM/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B07C3RHBLM/?tag=tolees-21)

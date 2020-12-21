@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Haribo Discos Negros  2kg  al 38.40 % de descuento'
+title: 'Haribo Discos Negros  2kg  con un 38.40 % de descuento'
 date: 
 image: 'http://images.amazon.com/images/P/B00XAP1G28.01._PI_SCMZZZZZZZ_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '38.40'
 average: '9.24'
 ---
 
-Ahora mismo tienes [Haribo Discos Negros  2kg ](https://www.amazon.es/dp/B00XAP1G28/?tag=tolees-21) a 9.24 EUR (original: 15 EUR) (38.40 %  de descuento) en el siguiente enlace!
+En este momento está [Haribo Discos Negros  2kg ](https://www.amazon.es/dp/B00XAP1G28/?tag=tolees-21) a 9.24 EUR (original: 15 EUR) (38.40 %  de descuento) en el siguiente enlace!
 
 [![Haribo Discos Negros  2kg ](http://images.amazon.com/images/P/B00XAP1G28.01._PI_SCMZZZZZZZ_._SL200_.jpg)](https://www.amazon.es/dp/B00XAP1G28/?tag=tolees-21)
 
 🔎:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B00XAP1G28/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B00XAP1G28/?tag=tolees-21)

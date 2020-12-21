@@ -19,11 +19,11 @@ descuento: '28.41'
 average: '21.47'
 ---
 
-Ahora mismo tienes [MTNG Attitude 84100  Zapatillas para Hombre  Rojo  Wax Suede Mesh HT Burdeos C44865   41 EU](https://www.amazon.es/dp/B07MN211XW/?tag=tolees-21) a 21.47 EUR (original: 29.99 EUR) (28.41 %  de descuento) en el siguiente enlace!
+Está [MTNG Attitude 84100  Zapatillas para Hombre  Rojo  Wax Suede Mesh HT Burdeos C44865   41 EU](https://www.amazon.es/dp/B07MN211XW/?tag=tolees-21) con 28.41 de descuento por 21.47 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![MTNG Attitude 84100  Zapatillas para Hom](https://images-eu.ssl-images-amazon.com/images/I/41nloXO7-qL._SL200_.jpg)](https://www.amazon.es/dp/B07MN211XW/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B07MN211XW/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07MN211XW/?tag=tolees-21)

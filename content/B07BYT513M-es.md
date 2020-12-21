@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L Oreal Paris Excellence  Coloración per al 17.99 % de descuento'
+title: 'L Oreal Paris Excellence  Coloración per con un 17.99 % de descuento'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51CkSrVqfNL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '17.99'
 average: '6.52'
 ---
 
-Está [L Oreal Paris Excellence  Coloración permanente - 268 gr.](https://www.amazon.es/dp/B07BYT513M/?tag=tolees-21) con 17.99 de descuento por 6.52 EUR (original: 7.95 EUR) en el siguiente enlace!
+En este momento está [L Oreal Paris Excellence  Coloración permanente - 268 gr.](https://www.amazon.es/dp/B07BYT513M/?tag=tolees-21) a 6.52 EUR (original: 7.95 EUR) (17.99 %  de descuento) en el siguiente enlace!
 
 [![L Oreal Paris Excellence  Coloración per](https://images-eu.ssl-images-amazon.com/images/I/51CkSrVqfNL._SL200_.jpg)](https://www.amazon.es/dp/B07BYT513M/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07BYT513M/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B07BYT513M/?tag=tolees-21)

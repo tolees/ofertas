@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mayoral  Crianza D.O Jumilla. Vino Tinto al 27.50 % de descuento'
+title: 'Mayoral  Crianza D.O Jumilla. Vino Tinto al 27.50 % de rebaja'
 date: 
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51C35Zlv7GL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '27.50'
 average: '21.75'
 ---
 
-Está [Mayoral  Crianza D.O Jumilla. Vino Tinto - 6 Botellas x 750 ml - Total: 4500 ml](https://www.amazon.es/dp/B01ET9UFNO/?tag=tolees-21) con 27.50 de descuento por 21.75 EUR (original: 30 EUR) en el siguiente enlace!
+Tienes [Mayoral  Crianza D.O Jumilla. Vino Tinto - 6 Botellas x 750 ml - Total: 4500 ml](https://www.amazon.es/dp/B01ET9UFNO/?tag=tolees-21) con precio final de  21.75 EUR (original: 30 EUR) (27.50 %  de rebaja) aqui!
 
 [![Mayoral  Crianza D.O Jumilla. Vino Tinto](https://images-eu.ssl-images-amazon.com/images/I/51C35Zlv7GL._SL200_.jpg)](https://www.amazon.es/dp/B01ET9UFNO/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01ET9UFNO/?tag=tolees-21)
+[Comprar!!!](https://www.amazon.es/dp/B01ET9UFNO/?tag=tolees-21)
