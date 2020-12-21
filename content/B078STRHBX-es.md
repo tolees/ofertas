@@ -25,10 +25,10 @@ Tienes [SanDisk Extreme SSD portátil 1TB - hasta 550MB/s Velocidad de Lectura](
 
 ℹ️:
 
-- Las transferencias de gran velocidad de hasta 550MB/s te permiten mover rápidamente vídeos y fotografías de gran resolución
-- Núcleo de estado sólido resistente a golpes para una optima durabilidad
 - Para usuarios de PC y Mac
 - Compacta y de bolsillo
 - Robusta, resistente al agua y al polvo, certificación IP-55
+- Núcleo de estado sólido resistente a golpes para una optima durabilidad
+- Las transferencias de gran velocidad de hasta 550MB/s te permiten mover rápidamente vídeos y fotografías de gran resolución
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B078STRHBX/?tag=tolees-21)

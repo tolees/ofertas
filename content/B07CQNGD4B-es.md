@@ -25,10 +25,10 @@ Ahora mismo tienes [MSI GL62MVR 7RFX-1272XES - Ordenador portátil de 15.6 FHD  
 
 🔎:
 
-- Memoria RAM de 16 GB DDR4
-- Tarjeta gráfica Nvidia GeForce GTX 1060, 6GB GDDR5
-- Disco duro HDD SATA de 1 TB (7 mm) y 256 GB SSD
-- Procesador Kabylake i7-7700HQ (2.8 GHz, hasta 3.8 GHz, 6 MB cache)
 - Sin sistema operativo
+- Disco duro HDD SATA de 1 TB (7 mm) y 256 GB SSD
+- Tarjeta gráfica Nvidia GeForce GTX 1060, 6GB GDDR5
+- Memoria RAM de 16 GB DDR4
+- Procesador Kabylake i7-7700HQ (2.8 GHz, hasta 3.8 GHz, 6 MB cache)
 
 [Visítala!!!](https://www.amazon.es/dp/B07CQNGD4B/?tag=tolees-21)

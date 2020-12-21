@@ -27,7 +27,7 @@ Tienes [Oral-B Pro-Expert Protección Profesional Pasta Dentífrica 2x75 ml](htt
 
 - La pasta dentífrica con nuestra tecnología más nueva
 - 24 horas de protección contra la placa al cepillarse dos veces al día
-- Con sabor a menta fresca para un aliento fresco
 - Contiene una combinación distinta de fluoruro de estaño y otros ingredientes activos
+- Con sabor a menta fresca para un aliento fresco
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XV96HNZ/?tag=tolees-21)

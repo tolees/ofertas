@@ -25,9 +25,9 @@ Ahora mismo tienes [Intel NUC BLKNUC7I3DNK2E- Ordenador Mini PC  Intel Core i3-7
 
 🔎:
 
-- Tipo de ranuras de memoria SO-DIMM
 - Tipos de memoria compatibles DDR4-SDRAM
 - Memoria interna máxima de 32 GB
+- Tipo de ranuras de memoria SO-DIMM
 - Procesador Intel Core i3
 - Tecnología de virtualización Intel para E / S dirigida (VT-d)
 

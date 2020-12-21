@@ -25,9 +25,9 @@ Ahora mismo tienes [Gigaset AS405 - Teléfono Inalámbrico  Manos Libres  100 Co
 
 🔎:
 
-- Gran calidad
-- Fácil instalación
-- Con manos libres
 - Máximo rendimiento
+- Gran calidad
+- Con manos libres
+- Fácil instalación
 
 [Visítala!!!](https://www.amazon.es/dp/B019ZX9B4I/?tag=tolees-21)
