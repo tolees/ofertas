@@ -25,8 +25,8 @@ Está [Clinique 31399 - Loción anti-imperfecciones](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- Marca: Clinique
 - Productos de belleza y el cuidado personal
 - Tipo de producto: Locion anti-imperfecciones
+- Marca: Clinique
 
 [Ver la oferta!!](https://www.amazon.es/dp/B000Z4SIBY/?tag=tolees-21)

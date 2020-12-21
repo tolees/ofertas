@@ -25,10 +25,10 @@ Está [SanDisk iXpand Go - Memoria Flash USB de 128 GB para tu iPhone y iPad](ht
 
 ℹ️:
 
-- Graba vídeos directamente en la iXpand y libera espacio en tu iPhone
 - Libera espacio fácilmente en tu iPhone
-- Mueve el contenido rápidamente de tu iXpand a tu ordenador usando el conector usb 3.0 de alta velocidad
-- Realiza copias de seguridad automáticas de tus fotografías y vídeos
 - Protege tus archivos con contraseña en dispositivos iPhone, ordenadores PC y Mac
+- Mueve el contenido rápidamente de tu iXpand a tu ordenador usando el conector usb 3.0 de alta velocidad
+- Graba vídeos directamente en la iXpand y libera espacio en tu iPhone
+- Realiza copias de seguridad automáticas de tus fotografías y vídeos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07VNGVKGF/?tag=tolees-21)

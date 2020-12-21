@@ -25,10 +25,10 @@ Está [Funko- Pop Deluxe: Game of S10: Tyrion Sitting on Iron Throne Figura Cole
 
 ℹ️:
 
-- De la colección game of thrones, tyrion como figura exclusiva de vinilo pop deluxe de funko
 - Juguete del año 2018
-- Tyrion Sitting on Iron Throne
+- De la colección game of thrones, tyrion como figura exclusiva de vinilo pop deluxe de funko
 - Funko pop deluxe
 - Game of thrones s10
+- Tyrion Sitting on Iron Throne
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KPK63XC/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KARACTERMANIA Frozen Wind - Maleta Troll al 29.64 % de descuento'
-date: 2020-12-20 08:09:31
+date: 2020-12-21 09:48:55
 image: 'https://m.media-amazon.com/images/I/41NE2hActUL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Está [KARACTERMANIA Frozen Wind - Maleta Trolley Soft 3D  Multicolor](https://w
 
 ℹ️:
 
+- Asa regulable.
 - 2 ruedas para fácil movimiento.
-- Tamaño válido para equipaje de mano.
 - Dimensiones: 52 x 34 x 17 cm (ruedas incluidas).
 - Maleta infantil blanda con relieve frontal.
-- Asa regulable.
+- Tamaño válido para equipaje de mano.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07ZTPDCFQ/?tag=tolees-21)

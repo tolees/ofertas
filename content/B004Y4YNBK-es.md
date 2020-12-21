@@ -27,7 +27,7 @@ Ahora mismo tienes [STANLEY 1-79-215 FATMAX - Mochila con Ruedas  capacidad max 
 
 - Las asas ergonómicas fueron diseñadas para soportar el peso de las herramientas
 - Los divisores interiores extraíbles tienen una asa propia para facilitar el transporte
-- La base rígida de plástico está a prueba de agua
 - Los cierres laterales permiten conseguir la seguridad de su interior
+- La base rígida de plástico está a prueba de agua
 
 [Visítala!!!](https://www.amazon.es/dp/B004Y4YNBK/?tag=tolees-21)

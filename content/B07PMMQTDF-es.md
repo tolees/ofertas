@@ -25,10 +25,10 @@ Está [Cable Adaptador de alimentación para portátil Acer Chromebook C720 C720
 
 ℹ️:
 
-- Paquete: 1 adaptador de corriente CA y 1 cable de alimentación de CA de 4,92 pies y 1 manual de usuario (idioma español no garantizado).
 - Salida: 19 V ~ 3,42 A ~ 65 W, Entrada: 100 ~ 240 V / 50 ~ 60 Hz.
-- Compra con confianza.
-- 100% nuevo del fabricante, 100% compatibilidad con el cargador de CA del ordenador portátil, certificado de seguridad CE/FCC/RoHS.
 - Conector: 3,0 mm x 1,1 mm (ten cuidadosamente!! ¡Comprueba la imagen del conector!
+- Compra con confianza.
+- Paquete: 1 adaptador de corriente CA y 1 cable de alimentación de CA de 4,92 pies y 1 manual de usuario (idioma español no garantizado).
+- 100% nuevo del fabricante, 100% compatibilidad con el cargador de CA del ordenador portátil, certificado de seguridad CE/FCC/RoHS.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07PMMQTDF/?tag=tolees-21)

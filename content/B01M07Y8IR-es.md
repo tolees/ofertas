@@ -26,9 +26,9 @@ Está [Bosch Professional GBH 2-26 F - Martillo perforador combinado  2 7 J  má
 ℹ️:
 
 - Incluye: GBH 2-26 F, empuñadura adicional, tope de profundidad, paño para la máquina, portabrocas de cambio rápido, portabrocas intercambiable SDS plus, maletín (3165140859202)
-- Martillo perforador GBH 2-26 F de Bosch Professional: herramienta rápida y versátil para el uso diario en la obra
-- Alto rendimiento de cincelado gracias al potente motor de 830 W y una energía de impacto de 2,7 J
-- Portabrocas SDS plus, Ø de perforación máx. de hasta 26 mm en hormigón y de hasta 68 mm en hormigón con coronas perforadoras huecas
 - Múltiples posibilidades de aplicación gracias a la parada de giro para trabajos de cincelado y a la regulación electrónica de la velocidad para un trabajo limpio
+- Portabrocas SDS plus, Ø de perforación máx. de hasta 26 mm en hormigón y de hasta 68 mm en hormigón con coronas perforadoras huecas
+- Alto rendimiento de cincelado gracias al potente motor de 830 W y una energía de impacto de 2,7 J
+- Martillo perforador GBH 2-26 F de Bosch Professional: herramienta rápida y versátil para el uso diario en la obra
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01M07Y8IR/?tag=tolees-21)

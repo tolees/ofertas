@@ -25,9 +25,9 @@ Está [adidas Regista 18 JSY T-Shirt  Hombre  Power Red/White  11-12Y](https://w
 
 ℹ️:
 
-- Tiene el logotipo de Adidas en el pecho
-- Con tecnología Climalite que elimina el sudor
 - Camiseta de manga corta para hombre
 - Ofrece libertad de movimiento
+- Tiene el logotipo de Adidas en el pecho
+- Con tecnología Climalite que elimina el sudor
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0779G2HMY/?tag=tolees-21)

@@ -25,10 +25,10 @@ Ahora mismo tienes [Blood and Truth](https://www.amazon.es/dp/B07RNKTK1S/?tag=to
 
 🔎:
 
-- Una narrativa muy cuidada con un ritmo cinematográfico digno de Hollywood
 - Explosiones
-- Basado en la ciudad actual de Londres recreando hasta el último detalle de una forma fotorrealista
-- Persecuciones y accidentes de coches
 - Todos los personajes transmited sensación de acción
+- Basado en la ciudad actual de Londres recreando hasta el último detalle de una forma fotorrealista
+- Una narrativa muy cuidada con un ritmo cinematográfico digno de Hollywood
+- Persecuciones y accidentes de coches
 
 [Visítala!!!](https://www.amazon.es/dp/B07RNKTK1S/?tag=tolees-21)

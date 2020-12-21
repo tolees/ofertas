@@ -26,7 +26,7 @@ Está [Funko Pocket POP! Keychain: Marvel: Ant-Man & The Wasp: Wasp](https://www
 ℹ️:
 
 - Wasp
-- Pocket pop! keychain
 - Marvel: Ant-Man & The Wasp
+- Pocket pop! keychain
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07CHVKZYG/?tag=tolees-21)

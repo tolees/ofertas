@@ -25,10 +25,10 @@ Está [Cayro - Mi Primer ajedrez— Juego de observación y lógica - Juego Mesa
 
 ℹ️:
 
-- 🗂️ COMPONENTES: 1 tablero, fichas de ajedrez, instrucciones EDAD: +6 NIVEL: 6 años, primaria.
+- 🧠 INTELIGENCIAS MÚLTIPLES - Visual y espacial para buscar las figuras adecuadas. Kinestésica y corporal, se mejoran las habilidades motoras finas. Interpersonal, mejora de las relaciones sociales y la comunicación con los compañeros de juego.
 - ⚙️ DESCRIPCIÓN DEL JUEGO - Con éste juego podrás introducir a los más pequeños en el apasionante mundo del ajedrez, incluye figuras de plástico, un gran tablero de 40x40 cm. y un asistente con los movimientos de cada una de las figuras.
 - 👨‍🏫 COMPETENCIAS CLAVE - Sociales y cívicas: respetar turno, tolerancia a la frustración, comprender códigos de conducta, empatía. Aprender a aprender: escuchar normas y controlar que las están aplicando bien, percepción de autoeficacia. Coordinación óculo-manual. Razonamiento y pensamiento estratégico
+- 🗂️ COMPONENTES: 1 tablero, fichas de ajedrez, instrucciones EDAD: +6 NIVEL: 6 años, primaria.
 - 👩‍🏫 HABILIDADES COGNITIVAS - Razonamiento y pensamiento estratégico. Resolución de problemas y pensamiento creativo para buscar nuevos caminos y soluciones.
-- 🧠 INTELIGENCIAS MÚLTIPLES - Visual y espacial para buscar las figuras adecuadas. Kinestésica y corporal, se mejoran las habilidades motoras finas. Interpersonal, mejora de las relaciones sociales y la comunicación con los compañeros de juego.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00FMLTH88/?tag=tolees-21)

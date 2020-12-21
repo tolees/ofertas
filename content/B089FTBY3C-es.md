@@ -25,7 +25,7 @@ Ahora mismo tienes [Proyector WiFi  YABER Mini Proyector Portátil 5800 Lúmenes
 
 🔎:
 
-- With screen mirror function, you can connect devices with the YABER home theater projector via wifi or USB cable directly.
 - WiFi projector, YABER Mini Projector 2020 Updated
+- With screen mirror function, you can connect devices with the YABER home theater projector via wifi or USB cable directly.
 
 [Visítala!!!](https://www.amazon.es/dp/B089FTBY3C/?tag=tolees-21)

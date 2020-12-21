@@ -25,9 +25,9 @@ Ahora mismo tienes [Ladrón de Manzanas Cider Mazana - Caja de 24 Latas x 330 ml
 
 🔎:
 
-- Naturalmente refrescante
 - No contiene gluten.
 - Tiene un 40% menos kcal que el vino
 - Bebida natural de manzana
+- Naturalmente refrescante
 
 [Visítala!!!](https://www.amazon.es/dp/B07B18MXF1/?tag=tolees-21)

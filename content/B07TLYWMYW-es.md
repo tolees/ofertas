@@ -25,10 +25,10 @@ Está [Sabrent 1TB Rocket Nvme PCIe 4.0 M.2 2280 SSD Interno Unidad de Estado s�
 
 ℹ️:
 
-- Nivelación de desgaste avanzada, gestión de bloques defectuosos, código de corrección de errores y exceso de provisión.
 - Soporte de administración de energía para APST / ASPM / L1.2.
-- Todos los SSD Sabrent vienen con Sabrent Acronis True Image GRATIS para el software Sabrent para una fácil clonación. Para aquellos que requieren un tamaño de sector específico para clonar sus SSD existentes: una utilidad Sabrent recientemente lanzada permite a los usuarios volver a formatear la unidad Rocket y elegir el tamaño de sector de su agrado, ya sea 512 bytes o 4K bytes.
 - NVMe M.2 PCIe Gen4 x4 interfaz. Cumple con PCIe 4.0 / Cumple con NVMe 1.3.
+- Todos los SSD Sabrent vienen con Sabrent Acronis True Image GRATIS para el software Sabrent para una fácil clonación. Para aquellos que requieren un tamaño de sector específico para clonar sus SSD existentes: una utilidad Sabrent recientemente lanzada permite a los usuarios volver a formatear la unidad Rocket y elegir el tamaño de sector de su agrado, ya sea 512 bytes o 4K bytes.
 - Soporta los comandos SMART y TRIM. Admite las interfaces ONFi 2.3, ONFi 3.0, ONFi 3.2 y ONFi 4.0.
+- Nivelación de desgaste avanzada, gestión de bloques defectuosos, código de corrección de errores y exceso de provisión.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TLYWMYW/?tag=tolees-21)
