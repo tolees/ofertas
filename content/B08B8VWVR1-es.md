@@ -25,11 +25,11 @@ Ahora mismo tienes [MSI WF65 10TJ-467ES - Ordenador portátil de 15.6" FHD  Inte
 
 🔎:
 
-- Sistema operativo Windows 10 Pro
-- Memoria RAM de 32 GB (16GB x 2), 3200 MHz, DDR IV
 - Procesador Intel Core i7-10750H (6 núcleos, 12 MB Cache, 2.6 GHz hasta 5 GHz)
-- Disco de 1 TB NVMe PCIe Gen3x4 SSD
-- Tarjeta grafica NVIDIA Quadro T2000, 4 GB GDDR6
 - Pantalla de 15.6" FHD (1920*1080), IPS-Level 60Hz 72%NTSC Thin Bezel, close to 100%sRGB
+- Disco de 1 TB NVMe PCIe Gen3x4 SSD
+- Memoria RAM de 32 GB (16GB x 2), 3200 MHz, DDR IV
+- Tarjeta grafica NVIDIA Quadro T2000, 4 GB GDDR6
+- Sistema operativo Windows 10 Pro
 
 [Visítala!!!](https://www.amazon.es/dp/B08B8VWVR1/?tag=tolees-21)
