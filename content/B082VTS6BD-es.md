@@ -25,11 +25,11 @@ Está [AXE Urban Advanced - Desodorante antitranspirante en Aerosol para hombre 
 
 ℹ️:
 
+- Cuenta con unas innovadoras cápsulas microactivas que refrescan tu estilo una y otra vez, además de liberar una suave ráfaga de frescura cuando la necesitas
+- Perfumado con una sutil y refinada fragancia de cálido tabaco y notas de ámbar
 - Aplica el antitranspirante rociándolo en las axilas para que notes la diferencia y te olvides del sudor antes de que aparezca
 - El desodorante antitranspirante en aerosol AXE Urban Advanced Protection te protege del sudor y del mal olor con sus innovadoras cápsulas microactivas
 - AXE es una marca de cuidado personal masculino vendida en el mundo que ofrece óptima calidad
-- Cuenta con unas innovadoras cápsulas microactivas que refrescan tu estilo una y otra vez, además de liberar una suave ráfaga de frescura cuando la necesitas
 - Ofrece a tus axilas una protección duradera y eficaz de hasta 48 horas de duración
-- Perfumado con una sutil y refinada fragancia de cálido tabaco y notas de ámbar
 
 [Ver la oferta!!](https://www.amazon.es/dp/B082VTS6BD/?tag=tolees-21)

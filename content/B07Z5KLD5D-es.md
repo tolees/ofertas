@@ -25,10 +25,10 @@ Tienes [Head Maria 25 Raqueta de Tenis  Juventud Unisex  Multicolor  8-10 años]
 
 ℹ️:
 
-- Peso: 240 g
 - Tamaño de la cabeza: 680 cm²
+- La Maria 25 es perfecta para las niñas de entre 8 y 10 años que quieran probar el tenis por primera vez
 - Technology: Damp+
 - Patrón de cuerdas: 16/19
-- La Maria 25 es perfecta para las niñas de entre 8 y 10 años que quieran probar el tenis por primera vez
+- Peso: 240 g
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07Z5KLD5D/?tag=tolees-21)

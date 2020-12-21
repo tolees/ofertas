@@ -25,9 +25,9 @@ En este momento está [Delaviuda - Turrón Blando  250 g](https://www.amazon.es/
 
 🔎:
 
-- Aporto calórico de 556 kcal/100 g
 - Contiene 67% almendras seleccionadas tostadas
-- Conservar en lugar fresco y seco
+- Aporto calórico de 556 kcal/100 g
 - Puede contener trazas de otros frutos de cascara
+- Conservar en lugar fresco y seco
 
 [Aquí!!!](https://www.amazon.es/dp/B01DUXVA8Y/?tag=tolees-21)

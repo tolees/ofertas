@@ -25,9 +25,9 @@ En este momento está [Funko- Pop Star Wars: The Mandalorian-Mando Flying w/Jet 
 
 🔎:
 
-- ¡Descúbre otras figuras de la colección Star Wars y colecciónalas todas!
 - Funko POP! El juguete del año 2018
-- La figura mide 9 cm y se envía en una caja ilustrada con ventana
+- ¡Descúbre otras figuras de la colección Star Wars y colecciónalas todas!
 - De la colección The Mandalorian, Mando Flying w/Jet Pack como figura de vinilo POP de Funko
+- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 
 [Aquí!!!](https://www.amazon.es/dp/B087N3XFJP/?tag=tolees-21)

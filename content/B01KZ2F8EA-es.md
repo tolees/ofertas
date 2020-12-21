@@ -25,10 +25,10 @@ En este momento está [Beurer BS55 - Espejo maquillaje con luz  luz LED brillant
 
 🔎:
 
-- Alta calidad, acabados cromados
-- Mecanismo de encendido con sensor táctil
 - Conectado a la corriente
-- Luz LED brillante (18 LEDs)
+- Mecanismo de encendido con sensor táctil
+- Alta calidad, acabados cromados
 - Pilas (4 x AAA) incluidas
+- Luz LED brillante (18 LEDs)
 
 [Aquí!!!](https://www.amazon.es/dp/B01KZ2F8EA/?tag=tolees-21)
