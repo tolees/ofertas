@@ -25,7 +25,7 @@ Ahora mismo tienes [Clarks](https://www.amazon.es/dp/B07KM9CK1M/?tag=tolees-21) 
 
 🔎:
 
-- Material de la suela: goma
 - Color exacto: combinación negra
+- Material de la suela: goma
 
 [Visítala!!!](https://www.amazon.es/dp/B07KM9CK1M/?tag=tolees-21)

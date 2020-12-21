@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.48 % en Shadow Fall Hits - Edición Killzone  Ver'
-date: 2020-11-23 11:16:52
+date: 2020-12-21 06:22:02
 image: 'https://m.media-amazon.com/images/I/51-2yI3x2mL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FFD6R2D/?tag=tolees-21'
 descuento: '50.48'
+average: '12.841666666666669'
 ---
 
 Tienes [Shadow Fall Hits - Edición Killzone  Versión 13](https://www.amazon.es/dp/B07FFD6R2D/?tag=tolees-21) con un 50.48 % de descuento con precio de oferta de 9.9 EUR (original: 19.99 EUR) en el siguiente enlace!
@@ -24,5 +25,10 @@ Tienes [Shadow Fall Hits - Edición Killzone  Versión 13](https://www.amazon.es
 
 ℹ️:
 
+- Edición del juego: básica
+- Clasificación PEGI: 18
+- Género: de disparos
+- Rango ESRB: M (maduro)
+- Plataforma: PlayStation 4
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FFD6R2D/?tag=tolees-21)
