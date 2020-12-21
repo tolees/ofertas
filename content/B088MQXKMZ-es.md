@@ -25,9 +25,9 @@ En este momento está [Mr. Wonderful Estuche triple - Haz de cada día tu gran d
 
 🔎:
 
-- Medidas producto: 21 x 10,5 x 4 cm
-- Materiales: poliéster
 - Estuche con tres compartimentos y mucho espacio para separar tu material escolar como prefieras
 - Peso: 29 gr
+- Materiales: poliéster
+- Medidas producto: 21 x 10,5 x 4 cm
 
 [Aquí!!!](https://www.amazon.es/dp/B088MQXKMZ/?tag=tolees-21)

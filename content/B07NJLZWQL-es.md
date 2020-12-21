@@ -25,11 +25,11 @@ Ahora mismo tienes [World War Z](https://www.amazon.es/dp/B07NJLZWQL/?tag=tolees
 
 🔎:
 
-- Enfréntate a otros jugadores para sobrevivir: diversos modos jugador complementan las campañas cooperativas
 - Lucha contra cientos de zombis: Swarm Engine crea hordas en tiroteos alucinantes. Los sistemas avanzados de violencia garantizan una acción brutal
-- Cuando se te canse el brazo, saca tu fusil de asalto, tu subfusil y pistola dorados para acabar con los últimos infectados con el DLC Lobo
-- Campañas cooperativas narrativas: sobrevive por todo el mundo y descubre historias de perseverancia
-- DLC Lobo: Incluye el arma Lobo y 3 skins doradas para armas
 - Hazte más fuerte: desbloquea armas poderosas y sube de nivel a 6 clases de personajes para enfrentarte a más desafíos
+- Campañas cooperativas narrativas: sobrevive por todo el mundo y descubre historias de perseverancia
+- Cuando se te canse el brazo, saca tu fusil de asalto, tu subfusil y pistola dorados para acabar con los últimos infectados con el DLC Lobo
+- DLC Lobo: Incluye el arma Lobo y 3 skins doradas para armas
+- Enfréntate a otros jugadores para sobrevivir: diversos modos jugador complementan las campañas cooperativas
 
 [Visítala!!!](https://www.amazon.es/dp/B07NJLZWQL/?tag=tolees-21)

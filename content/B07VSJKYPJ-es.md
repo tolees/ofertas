@@ -26,7 +26,7 @@ Ahora mismo tienes [Lee Scarlett High Zip Vaqueros Skinny  Azul  Broken Blue WQ 
 🔎:
 
 - Vaqueros para mujer
-- Tienen un parche en la parte trasera con la marca Lee
 - Presentan 5 bolsillos
+- Tienen un parche en la parte trasera con la marca Lee
 
 [Visítala!!!](https://www.amazon.es/dp/B07VSJKYPJ/?tag=tolees-21)

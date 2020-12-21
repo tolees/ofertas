@@ -25,9 +25,9 @@ Tienes [Trust Almo - Juego de altavoces 2.0  color negro](https://www.amazon.es/
 
 🔎:
 
-- Alimentado por USB - no requiere alimentación eléctrica
-- Botones de control para encendido y ajuste de volumen
 - Para una reproducción más nítida de los efectos de sonido y la música
+- Botones de control para encendido y ajuste de volumen
 - Conexión frontal para auriculares
+- Alimentado por USB - no requiere alimentación eléctrica
 
 [Comprar!!!](https://www.amazon.es/dp/B07G4SVXTC/?tag=tolees-21)

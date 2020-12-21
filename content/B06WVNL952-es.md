@@ -25,10 +25,10 @@ Ahora mismo tienes [Reloj Burgmeister - Hombre BMT03-922](https://www.amazon.es/
 
 🔎:
 
-- Burgmeister Reloj de caballero de cuarzo (con cronómetro)
+- carcasa de acero fino
 - cronógrafo
 - pulsera de cuero
 - mano y indicadores fluorescentes
-- carcasa de acero fino
+- Burgmeister Reloj de caballero de cuarzo (con cronómetro)
 
 [Visítala!!!](https://www.amazon.es/dp/B06WVNL952/?tag=tolees-21)

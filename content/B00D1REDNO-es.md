@@ -25,10 +25,10 @@ Está [SIGEL GL210 Pizarra magnética de cristal  120 x 90 cm  negro - Artverum]
 
 ℹ️:
 
-- Esta pizarra sin marco se fija con un sistema de suspensión de pared (probado y certificado por SGS TÜV Saar - Inspección técnica alemana), que le da un aspecto flotante en 3D. Se puede colocar verticalmente u horizontalmente
 - Características de la pizarra: - dimensiones: 120 x 90 cm; - Color: negro; - Material: vidrio templado de alta calidad (vidrio de seguridad ESG, certificación europea EN 12150-1)
 - Esta pizarra de la marca SIGEL tiene una garantía para escritura y borrado de 25 años, siempre que use accesorios de la marca SIGEL. Para obtener más información, consulte la sección "Especificaciones técnicas" en esta página
-- Pizarra rectangular magnética multifunción Artverum. Pizarra muy decorativa, fácil de instalar y de mantener. Disponible en diferentes formas, tamaños y colores
 - Pizarra está entregada con : - 2 imanes de neodimio "Extra-Strong" C10. Importante: los imanes estándares no son adecuados para esta pizarra - material de montaje, instrucciones de montaje y plantilla de perforación (las instrucciones de montaje están disponibles a continuación, consulte "Especificaciones técnicas")
+- Pizarra rectangular magnética multifunción Artverum. Pizarra muy decorativa, fácil de instalar y de mantener. Disponible en diferentes formas, tamaños y colores
+- Esta pizarra sin marco se fija con un sistema de suspensión de pared (probado y certificado por SGS TÜV Saar - Inspección técnica alemana), que le da un aspecto flotante en 3D. Se puede colocar verticalmente u horizontalmente
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00D1REDNO/?tag=tolees-21)

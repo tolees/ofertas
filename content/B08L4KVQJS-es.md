@@ -25,10 +25,10 @@ Tienes [Longspeed Directo de fábrica 12.7mm sata3 Unidad de Disco óptico bit b
 
 🔎:
 
-- Interfaz del producto: SATA3 (compatible con SATA, SATA1, SATA2)
-- Tamaño del producto: espesor 12.7MM, ancho 127MM, longitud 126MM
-- En pocas palabras: siempre que el grosor de la unidad óptica de su computadora portátil sea de 12.7MM, se puede utilizar la interfaz SATA
 - Disco duro aplicable: 2.5 pulgadas SATA 7MM 9.5MM 12.5MM de espesor de tamaño completo
+- En pocas palabras: siempre que el grosor de la unidad óptica de su computadora portátil sea de 12.7MM, se puede utilizar la interfaz SATA
+- Tamaño del producto: espesor 12.7MM, ancho 127MM, longitud 126MM
 - Portátil aplicable: unidad óptica de 12,7MM / SATA portátil de interfaz universal
+- Interfaz del producto: SATA3 (compatible con SATA, SATA1, SATA2)
 
 [Comprar!!!](https://www.amazon.es/dp/B08L4KVQJS/?tag=tolees-21)

@@ -25,7 +25,7 @@ Ahora mismo tienes [Esprit 020eo1g303 Abrigo  Azul  Grey Blue 420   X-Large para
 
 🔎:
 
-- Una variante elegante con un cuello voluminoso.
 - Elegante y moderno abrigo corto con un material exterior suave y aterciopelado.
+- Una variante elegante con un cuello voluminoso.
 
 [Visítala!!!](https://www.amazon.es/dp/B07YKSFXZH/?tag=tolees-21)

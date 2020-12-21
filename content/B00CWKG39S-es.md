@@ -25,10 +25,10 @@ Tienes [Pattex SP101 Original  Adhesivo Sellador para Interiores y Exteriores  P
 
 🔎:
 
-- Multimaterial – Pensado para interiores y exteriores, este adhesivo sellador elástico puede aplicarse en vidrio, material de construcción, metales o plásticos técnicos
-- Aplicación – Este sellador adhesivo con fórmula Flextec en formato de cartucho se debe utilizar con pistola aplicadora. Así se garantiza una aplicación fácil y precisa
-- Resistente – El sellador profesional con eficacia fungicida puede aplicarse sobre superficies húmedas. Es resistente a los rayos UV y a temperaturas de -40 °C a +80 °C
-- Envío y detalles – Pattex SP101 Original, adhesivo sellador neutro, sella y pega múltiples materiales en interior y exterior, con base Flextec, blanco, 1 x 280 ml cartucho, n.º de artículo: 2024184
 - Alto rendimiento – El adhesivo impermeable flexible ofrece grandes prestaciones, y sella y pega una gran variedad de materiales gracias a sus propiedades mecánicas.
+- Envío y detalles – Pattex SP101 Original, adhesivo sellador neutro, sella y pega múltiples materiales en interior y exterior, con base Flextec, blanco, 1 x 280 ml cartucho, n.º de artículo: 2024184
+- Multimaterial – Pensado para interiores y exteriores, este adhesivo sellador elástico puede aplicarse en vidrio, material de construcción, metales o plásticos técnicos
+- Resistente – El sellador profesional con eficacia fungicida puede aplicarse sobre superficies húmedas. Es resistente a los rayos UV y a temperaturas de -40 °C a +80 °C
+- Aplicación – Este sellador adhesivo con fórmula Flextec en formato de cartucho se debe utilizar con pistola aplicadora. Así se garantiza una aplicación fácil y precisa
 
 [Comprar!!!](https://www.amazon.es/dp/B00CWKG39S/?tag=tolees-21)

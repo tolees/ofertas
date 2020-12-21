@@ -25,9 +25,9 @@ Tienes [Pantalla de proyeccion Manual Luxscreen 92" Pulgadas  Formato panorámic
 
 🔎:
 
-- ✔ Garantía del fabricante 2 años con servicio post venta en España, llamenos al 951102122
-- ✔ Se precisa un hueco de 2,18 metros para la instalación del producto. Parte posterior de la tela negra para evitar perder luminosidad y profundidad a la imagen
-- ✔ Borde perimetal negro para mayor concentracion de contraste, superficie de la tela blanco mate que la dotan de una fiel calidad de color escala RGB
 - ✔ Pantalla de proyeccion manual de 92" formato 16:9 ideal para proyectores de alta definición, fullhd ó 4K
+- ✔ Se precisa un hueco de 2,18 metros para la instalación del producto. Parte posterior de la tela negra para evitar perder luminosidad y profundidad a la imagen
+- ✔ Garantía del fabricante 2 años con servicio post venta en España, llamenos al 951102122
+- ✔ Borde perimetal negro para mayor concentracion de contraste, superficie de la tela blanco mate que la dotan de una fiel calidad de color escala RGB
 
 [Comprar!!!](https://www.amazon.es/dp/B01HMH3VK4/?tag=tolees-21)

@@ -25,9 +25,9 @@ Ahora mismo tienes [Oninaki Switch](https://www.amazon.es/dp/B07VSCJ2XK/?tag=tol
 
 🔎:
 
-- Disfruta de unos gráficos dibujados con esmero para reflejar a la perfección el drástico contraste entre el "Living World" (el mundo de los vivos) y el "Beyond" (el más allá)
-- Disfruta de frenéticas batallas fluidas y en tiempo real: lucha contra enemigos mediante el Daemons Battle System y usa una gran variedad de armas alucinantes
 - Personalización de personajes: vincula diferentes Daemons a tu héroe, Kagachi, para mejorar sus habilidades en pleno combate
 - Daemon Battle System: traza tu estrategia de combate y elige un Daemon que contrarreste los atributos de tu enemigo; observa cómo Kagachi se apodera del poder de los Daemon y adopta diferentes estados para aumentar los niveles de ataque
+- Disfruta de frenéticas batallas fluidas y en tiempo real: lucha contra enemigos mediante el Daemons Battle System y usa una gran variedad de armas alucinantes
+- Disfruta de unos gráficos dibujados con esmero para reflejar a la perfección el drástico contraste entre el "Living World" (el mundo de los vivos) y el "Beyond" (el más allá)
 
 [Visítala!!!](https://www.amazon.es/dp/B07VSCJ2XK/?tag=tolees-21)
