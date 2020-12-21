@@ -25,9 +25,9 @@ Está [Skechers Melson Raymon  Zapatillas Hombre  Verde  Khaki Canvas Khk   45 E
 
 ℹ️:
 
-- Streetwear
-- Goga Mat Arco
 - refrigerado por aire de espuma de memoria
 - Classic Fit
+- Goga Mat Arco
+- Streetwear
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TF9MMHL/?tag=tolees-21)

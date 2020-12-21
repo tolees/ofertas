@@ -26,8 +26,8 @@ Tienes [3M AG15.6W9 - Filtro anti-reflejo  para pantallas de 15.6"](https://www.
 ℹ️:
 
 - Se adhiere con tiras adhesivas transparentes que pueden aplicarse fácilmente y volver a aplicarse muchas veces
-- Reduce el brillo y los reflejos efecto espejo
-- Protege la pantalla de arañazos
 - Filtro anti-reflejos adecuado para pantallas de hasta 15.6 pulgadas y resolución de 2880 x 1620 pixeles
+- Protege la pantalla de arañazos
+- Reduce el brillo y los reflejos efecto espejo
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00IQCRP0C/?tag=tolees-21)
