@@ -25,10 +25,10 @@ Está [BERING Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Acero
 
 ℹ️:
 
-- El cristal de zafiro es resistente a golpes y rayaduras
-- Resistente al agua hasta 5 ATM / 50 metros / 168 pies , resistencia general a salpicaduras, duchas, períodos cortos de natación, pero no al esnórquel o buceo
-- Caja: acero inoxidable de grado médico 316l / plata / 35 mm de diámetro / 6 mm de espesor
 - Ceramic Watch Collection , Cerámica de gran tecnología: gran resistencia a los arañazos, muy ligera, resistente al calor y antialérgica , Quartz
+- El cristal de zafiro es resistente a golpes y rayaduras
+- Caja: acero inoxidable de grado médico 316l / plata / 35 mm de diámetro / 6 mm de espesor
+- Resistente al agua hasta 5 ATM / 50 metros / 168 pies , resistencia general a salpicaduras, duchas, períodos cortos de natación, pero no al esnórquel o buceo
 - Correa: acero inoxidable de grado médico 316l / negro / 180 mm de largo / 18 mm de ancho
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07B4ZLG56/?tag=tolees-21)

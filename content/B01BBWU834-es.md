@@ -25,12 +25,12 @@ Tienes [Sony NWWS413 Walkman - Reproductor MP3 Deportivo  4 GB  Resistente al Ag
 
 🔎:
 
+- Resistente al agua (agua salada) hasta 2 m de profundidad
+- Capacidad 4 GB
+- Requisitos de sistema: Mac OS X (10.6 o posterior), Microsoft Windows 8, Windows Vista (SP2 o posterior), Windows 7 (SP1 o posterior), Windows XP (SP3 o posterior)
 - Carga rápida, 12 horas de batería
 - Diseño todo en uno para entrenamientos sin cables
-- Capacidad 4 GB
-- Funciona a temperaturas de entre -5°C y 45°C
-- Requisitos de sistema: Mac OS X (10.6 o posterior), Microsoft Windows 8, Windows Vista (SP2 o posterior), Windows 7 (SP1 o posterior), Windows XP (SP3 o posterior)
-- Resistente al agua (agua salada) hasta 2 m de profundidad
 - Conectividad: Conexión USB: USB de alta velocidad (compatible con USB 2.0)
+- Funciona a temperaturas de entre -5°C y 45°C
 
 [Comprar!!!](https://www.amazon.es/dp/B01BBWU834/?tag=tolees-21)

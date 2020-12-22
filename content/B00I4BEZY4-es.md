@@ -25,10 +25,10 @@ Tienes [MSV 3 L Papelera Negra 3L  Acero Inoxidable  2 cm](https://www.amazon.es
 
 🔎:
 
+- Elegante papelera con capacidad para 3 litros, con cubo extraíble, que facilita su manipulación
+- De color negro.
 - Fabricada en acero inoxidable
 - La tapa se abre con un práctico pedal de fácil acceso y accionamiento
 - Dimensiones: Ø16.7 x 25,1 cm
-- Elegante papelera con capacidad para 3 litros, con cubo extraíble, que facilita su manipulación
-- De color negro.
 
 [Comprar!!!](https://www.amazon.es/dp/B00I4BEZY4/?tag=tolees-21)

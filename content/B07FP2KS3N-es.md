@@ -25,15 +25,15 @@ En este momento está [LEGO Friends - Casa de Mia  casa de muñecas divertida pa
 
 🔎:
 
-- Accesorios incluidos: batidora, espátula, recipiente, barra de pan, sartén, huevo frito, plato, cubiertos, 3 tazas, 3 cápsulas para magdalenas y una bandeja de hornear, montura, brida, casco, patines, colmena, teléfono móvil y cámara.
 - Quita el suelo de la habitación de Mia para acceder fácilmente a toda la cocina y ayuda a mamá y papá a preparar el almuerzo.
-- Cuida de la yegua Metzie y da de comer al conejo en el área de acicalado exterior.
-- Ayuda a Mia a practicar su afición por la fotografía de la flora y fauna con la cámara.
-- Interpreta la vida en familia con mamá y papá en esta casa rural de juguete.
+- Cuenta con una casa estilo cabaña rural de 2 plantas que incluye la habitación de Mia, la sala de estar, el baño con lavabo e inodoro, y una cocina. También tiene un rocódromo con una entrada oculta a la habitación de Mia y un pozo en el exterior con un cubo.
 - La cocina cuenta con un horno, una placa con quemadores y una zona de comedor.
+- Cuida de la yegua Metzie y da de comer al conejo en el área de acicalado exterior.
 - Incluye 3 minipersonajes: LEGO Friends Mia, su mamá, Ann, y su papá, Angus; incluye también 2 figuras de animales: un conejo y un caballo.
 - Trepa por el rocódromo hasta la habitación de Mia cuando llegue la hora de irse a dormir.
+- Accesorios incluidos: batidora, espátula, recipiente, barra de pan, sartén, huevo frito, plato, cubiertos, 3 tazas, 3 cápsulas para magdalenas y una bandeja de hornear, montura, brida, casco, patines, colmena, teléfono móvil y cámara.
 - La habitación de Mia cuenta con una litera, una lámpara, un escritorio y una silla.
-- Cuenta con una casa estilo cabaña rural de 2 plantas que incluye la habitación de Mia, la sala de estar, el baño con lavabo e inodoro, y una cocina. También tiene un rocódromo con una entrada oculta a la habitación de Mia y un pozo en el exterior con un cubo.
+- Ayuda a Mia a practicar su afición por la fotografía de la flora y fauna con la cámara.
+- Interpreta la vida en familia con mamá y papá en esta casa rural de juguete.
 
 [Aquí!!!](https://www.amazon.es/dp/B07FP2KS3N/?tag=tolees-21)

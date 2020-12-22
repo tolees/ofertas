@@ -25,8 +25,8 @@ Está [Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero F2033
 
 ℹ️:
 
-- Resistente al agua hasta 100 m
 - Diámetro de la caja: 45 mm
+- Resistente al agua hasta 100 m
 - Visualización del tiempo cronógrafo
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0721PQYYX/?tag=tolees-21)

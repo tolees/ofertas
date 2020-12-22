@@ -25,8 +25,8 @@ Tienes [Mr Wonderful Batería Externa 6000 mAh - 2 Puertos de Carga  Cable Micro
 
 ℹ️:
 
-- 6000 mAh battery approximately two loads
 - Compact, with the perfect size to hold in the hand or outdoor use
 - Light weight
+- 6000 mAh battery approximately two loads
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B077K5CTZN/?tag=tolees-21)

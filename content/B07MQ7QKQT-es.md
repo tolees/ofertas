@@ -26,8 +26,8 @@ Ahora mismo tienes [UMIPUBO Bluas de Mujer Camisa Algodón Blusa Mujer Elegante 
 🔎:
 
 - Short sleeves.
-- Casual V-neck pleats, long tops, decorated buttons, a flip-down line hem, stylish long sleeve t-shirts
 - Basic shirt, perfect for spring, autumn or summer, easy to match with jeans, shorts, tight leggings for a decent look.
+- Casual V-neck pleats, long tops, decorated buttons, a flip-down line hem, stylish long sleeve t-shirts
 - - S, M, L, X-L, XX-L is available
 - - Loose shirt, not Amazon size, please check our size details before buying.
 
