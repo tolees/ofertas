@@ -25,10 +25,10 @@ Tienes [Sigma Macro Art 260965 105mm F2.8 DG DN  Sony E-Mount ](https://www.amaz
 
 🔎:
 
-- Fórmula óptica completamente nueva para una nitidez excepcional y agradable bokeh
-- Anillo de apertura con interruptor de bloqueo de anillo de apertura
 - Interruptor limitador de enfoque para macro, retrato o enfoque automático de rango completo
-- Aumento de tamaño real (1:1) corto tele macro para marco completo sin espejo
+- Anillo de apertura con interruptor de bloqueo de anillo de apertura
 - Motor hipersónico optimizado para un AF suave y preciso
+- Aumento de tamaño real (1:1) corto tele macro para marco completo sin espejo
+- Fórmula óptica completamente nueva para una nitidez excepcional y agradable bokeh
 
 [Comprar!!!](https://www.amazon.es/dp/B08KGQR14B/?tag=tolees-21)

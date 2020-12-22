@@ -25,8 +25,8 @@ Ahora mismo tienes [XIAOMI Mi Electric Scooter 1S  Black ](https://www.amazon.es
 
 🔎:
 
+- Elegante y elegante, portátil y seguro.
 - Diseño minimalista, aluminio de grado
 - [Potencia nominal <350V, velocidad max <25km/h, autonomía >20Km, sistema de luces completo alimentado por batería, carga máxima superior a 60Kg]
-- Elegante y elegante, portátil y seguro.
 
 [Visítala!!!](https://www.amazon.es/dp/B08BQDB37G/?tag=tolees-21)
