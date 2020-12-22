@@ -25,8 +25,8 @@ Ahora mismo tienes [LEGO City Fire - Rescate del Incendio en la Hamburguesería 
 
 🔎:
 
-- Build a fire truck toy with rotating back end, 2 storage compartments and new directional pump with ‘water jet’ function
 - LEGO City Fire sets set can be built together with all other original LEGO building toy sets and LEGO bricks for creative building
+- Build a fire truck toy with rotating back end, 2 storage compartments and new directional pump with ‘water jet’ function
 - Accessory elements include a fire axe, 2 helmets, oxygen tank, trash can, motorbike helmet, small fire extinguisher and 5 buildable fire elements
 - Features a fire truck toy with a minifigure cab, rotating back end, new directional pump with ‘water jet’ function and 2 storage compartments, plus a toy motorbike
 - Includes 3 LEGO City minifigures : 2 firefighters and a grill chef

@@ -25,11 +25,11 @@ En este momento está [TP-Link TL-WA801N - Punto de Acceso inalámbrico/Extensor
 
 🔎:
 
-- Fácil configuración para una conexión segura WPA
-- Soporta multiples modos de operación: Punto de Acceso, Multi-SSID, Cliente, Repetidor Universal /WDS Repeater, Bridge con AP
-- Posibilidad de fijarlo en la pared o colocarlo horizontalmente sobre una mesa o escritorio
 - Sus antenas externas son desmontables, lo que permite orientarlas mejor y sustituirlas por antenas de mayor ganancia
-- Velocidad de transmisión inalámbrica de 300 Mbps, aporta una experiencia inalámbrica
+- Posibilidad de fijarlo en la pared o colocarlo horizontalmente sobre una mesa o escritorio
 - Se envía en un embalaje certificado
+- Fácil configuración para una conexión segura WPA
+- Velocidad de transmisión inalámbrica de 300 Mbps, aporta una experiencia inalámbrica
+- Soporta multiples modos de operación: Punto de Acceso, Multi-SSID, Cliente, Repetidor Universal /WDS Repeater, Bridge con AP
 
 [Aquí!!!](https://www.amazon.es/dp/B0873SLW3V/?tag=tolees-21)

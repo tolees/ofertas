@@ -25,10 +25,10 @@ En este momento está [Philips Thermoprotect BHD006 - Secador de Pelo de Viaje  
 
 🔎:
 
-- Ajuste de temperatura ThermoProtect
-- Diseñado para un secado silencioso
-- Funda de viaje
-- 3 niveles de temperatura
 - 1600 W
+- 3 niveles de temperatura
+- Funda de viaje
+- Diseñado para un secado silencioso
+- Ajuste de temperatura ThermoProtect
 
 [Aquí!!!](https://www.amazon.es/dp/B00LO9AB8C/?tag=tolees-21)

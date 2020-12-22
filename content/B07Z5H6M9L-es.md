@@ -25,7 +25,7 @@ Tienes [Salomon XA COLLIDER  Zapatillas de Trail Running Hombre  Color: Rojo  Re
 
 🔎:
 
-- Xa collider Red Ochre/Black/Cherry Tomato
 - Número: 41 1/3
+- Xa collider Red Ochre/Black/Cherry Tomato
 
 [Comprar!!!](https://www.amazon.es/dp/B07Z5H6M9L/?tag=tolees-21)
