@@ -25,13 +25,13 @@ En este momento está [Nike MD Runner 2  Zapatillas de Running Mujer  Negro  Bla
 
 🔎:
 
-- Material de la suela: Goma
 - Anchura del zapato: Normal
-- Revestimiento: Sintético
 - Composición: Cuero
 - Tipo de tacón: Plano
-- Altura del tacón: 10 centímetros
+- Material de la suela: Goma
 - Material exterior: Sintético
+- Altura del tacón: 10 centímetros
 - Cierre: Cordones
+- Revestimiento: Sintético
 
 [Aquí!!!](https://www.amazon.es/dp/B00PZ8ZEGW/?tag=tolees-21)

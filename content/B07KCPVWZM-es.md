@@ -25,9 +25,9 @@ Ahora mismo tienes [Adidas T19 KN SHO W Pantalones Cortos de Deporte  Mujer  Pow
 
 🔎:
 
+- Climalite anti-humidity fabric
+- Para el aficionado a la natación que busca comodidad y estilo.
 - Cordón interior en la cintura.
 - Bloques de color y detalles de adidas engomados en contraste.
-- Para el aficionado a la natación que busca comodidad y estilo.
-- Climalite anti-humidity fabric
 
 [Visítala!!!](https://www.amazon.es/dp/B07KCPVWZM/?tag=tolees-21)

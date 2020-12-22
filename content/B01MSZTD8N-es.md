@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 20.33 % en Intel NUC BOXNUC6CAYH - Kit ordenador Mi'
-date: 2020-12-21 07:31:40
+title: 'Intel NUC BOXNUC6CAYH - Kit ordenador Mi con un 20.33 % de descuento'
+date: 2020-12-22 07:44:28
 image: 'https://m.media-amazon.com/images/I/41dZHytPdjL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,18 +16,18 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MSZTD8N/?tag=tolees-21'
 descuento: '20.33'
-average: '133.12428571428583'
+average: '132.9114062500001'
 ---
 
-Tienes [Intel NUC BOXNUC6CAYH - Kit ordenador Mini PC  Intel Celeron J3455  espacio para 8 GB DDR3L RAM  espacio para disco M.2 + 2.5" SSD/HDD  Intel HD Graphics 500 ](https://www.amazon.es/dp/B01MSZTD8N/?tag=tolees-21) con un 20.33 % de descuento con precio de oferta de 119.5 EUR (original: 149.99 EUR) en el siguiente enlace!
+En este momento está [Intel NUC BOXNUC6CAYH - Kit ordenador Mini PC  Intel Celeron J3455  espacio para 8 GB DDR3L RAM  espacio para disco M.2 + 2.5" SSD/HDD  Intel HD Graphics 500 ](https://www.amazon.es/dp/B01MSZTD8N/?tag=tolees-21) a 119.5 EUR (original: 149.99 EUR) (20.33 %  de descuento) en el siguiente enlace!
 
 [![Intel NUC BOXNUC6CAYH - Kit ordenador Mi](https://m.media-amazon.com/images/I/41dZHytPdjL._SL200_.jpg)](https://www.amazon.es/dp/B01MSZTD8N/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
-- Conexión de disco duro M.2 (PCIe x1) y slot 2.5" adicional para HDD/SSD
 - 1 slot para memoria RAM DDR3L-1600/1866 hasta 8 GB SO-DIMM
 - Procesador Intel Celeron J3455 (Hasta 2.3 GHz, 2 MB cache)
 - WiFi AC + Bluetooth 4.2, ranura para tarjeta microSD
+- Conexión de disco duro M.2 (PCIe x1) y slot 2.5" adicional para HDD/SSD
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B01MSZTD8N/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B01MSZTD8N/?tag=tolees-21)

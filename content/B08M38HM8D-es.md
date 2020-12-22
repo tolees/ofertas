@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 16.67 % en Lenovo Legion 5 - Portátil Gaming 15.6" '
-date: 2020-12-20 01:01:44
+title: 'Lenovo Legion 5 - Portátil Gaming 15.6"  con un 16.67 % de descuento'
+date: 2020-12-22 07:54:46
 image: 'https://m.media-amazon.com/images/I/41IVg7nDFKL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,20 +16,20 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08M38HM8D/?tag=tolees-21'
 descuento: '16.67'
-average: '1047.0488235294117'
+average: '1047.2627272727273'
 ---
 
-Tienes [Lenovo Legion 5 - Portátil Gaming 15.6" FullHD 120Hz  AMD Ryzen 7-4800H  16GB RAM  512GB SSD  NVIDIA RTX2060-6GB  Sin Sistema Operativo   Negro - Teclado QWERTY Español](https://www.amazon.es/dp/B08M38HM8D/?tag=tolees-21) con un 16.67 % de descuento con precio de oferta de 999.99 EUR (original: 1199.99 EUR) en el siguiente enlace!
+En este momento está [Lenovo Legion 5 - Portátil Gaming 15.6" FullHD 120Hz  AMD Ryzen 7-4800H  16GB RAM  512GB SSD  NVIDIA RTX2060-6GB  Sin Sistema Operativo   Negro - Teclado QWERTY Español](https://www.amazon.es/dp/B08M38HM8D/?tag=tolees-21) a 999.99 EUR (original: 1199.99 EUR) (16.67 %  de descuento) en el siguiente enlace!
 
 [![Lenovo Legion 5 - Portátil Gaming 15.6" ](https://m.media-amazon.com/images/I/41IVg7nDFKL._SL200_.jpg)](https://www.amazon.es/dp/B08M38HM8D/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
-- Procesador Intel Core i7-10750H (6C/12T, 2.6/5.0GHz, 12MB)
+- Pantalla de 15.6", FullHD 1920 x 1080 pixeles, 120Hz, 250 nits
 - Sin sistema operativo
 - Memoria RAM de 16GB (2x 8GB SO-DIMM DDR4-3200)
-- Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
-- Pantalla de 15.6", FullHD 1920 x 1080 pixeles, 120Hz, 250 nits
+- Procesador Intel Core i7-10750H (6C/12T, 2.6/5.0GHz, 12MB)
 - Almacenamiento de 512GB SSD M.2 2242 PCIe NVMe 3.0x4
+- Tarjeta gráfica NVIDIA GeForce GTX 1650 4GB GDDR6
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B08M38HM8D/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B08M38HM8D/?tag=tolees-21)

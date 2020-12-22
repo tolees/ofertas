@@ -25,9 +25,9 @@ Está [adidas Parma 16 SHO W Sport Shorts  Mujer  Dark Blue/White  L](https://ww
 
 ℹ️:
 
-- Con cordones.
 - Suela de goma vulcanizada
 - Climalite anti-humidity fabric
+- Con cordones.
 - Cómodo forro textil
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0786LYCM1/?tag=tolees-21)

@@ -25,9 +25,9 @@ En este momento está [Skechers Go Walk 5  Zapatillas  Negro  Black Textile/Trim
 
 🔎:
 
+- Parte superior de malla para una mayor transpirabilidad.
 - Plantilla Skechers Air Cooled Goga.
 - Se puede lavar a máquina; secar al aire.
 - Suela ligera de doble densidad Ultra Go con tecnología de asiento cómodo.
-- Parte superior de malla para una mayor transpirabilidad.
 
 [Aquí!!!](https://www.amazon.es/dp/B07N133GLV/?tag=tolees-21)

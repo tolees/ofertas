@@ -25,10 +25,10 @@ Tienes [Teka | Microondas Integración + Grill | Modelo MWE 225 FI | Capacidad 2
 
 🔎:
 
+- Dimensiones Alto x Ancho x Profundo (cm): 38.2 x 5.9 x 36.9
 - Grill simultáneo de metal, 1.000 w. 5 niveles de potencía, 800 w salida
 - "electrónico + grill
 - Interior en acero inoxidable"
 - Panel de mandos electrónico
-- Dimensiones Alto x Ancho x Profundo (cm): 38.2 x 5.9 x 36.9
 
 [Comprar!!!](https://www.amazon.es/dp/B010CT4OCS/?tag=tolees-21)
