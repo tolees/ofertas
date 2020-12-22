@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Pop! Games: The Last of Us- Ellie al 23.67 % de descuento'
-date: 2020-12-20 01:38:25
+title: 'Pop! Games: The Last of Us- Ellie con un 23.67 % de descuento'
+date: 2020-12-22 01:45:33
 image: 'https://m.media-amazon.com/images/I/4198tuJxdmL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,17 +16,17 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B082FRMFP3/?tag=tolees-21'
 descuento: '23.67'
-average: '15.844999999999999'
+average: '15.013333333333332'
 ---
 
-Está [Pop! Games: The Last of Us- Ellie](https://www.amazon.es/dp/B082FRMFP3/?tag=tolees-21) con 23.67 de descuento por 13.35 EUR (original: 17.49 EUR) en el siguiente enlace!
+En este momento está [Pop! Games: The Last of Us- Ellie](https://www.amazon.es/dp/B082FRMFP3/?tag=tolees-21) a 13.35 EUR (original: 17.49 EUR) (23.67 %  de descuento) en el siguiente enlace!
 
 [![Pop! Games: The Last of Us- Ellie](https://m.media-amazon.com/images/I/4198tuJxdmL._SL200_.jpg)](https://www.amazon.es/dp/B082FRMFP3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 - La figura mide 9 cm y se envía en una caja ilustrada con ventana
-- De la colección the last of us, ellie como figura de vinilo pop de funko
 - Descúbre otras figuras de la colección the last of us y colecciónalas todas
+- De la colección the last of us, ellie como figura de vinilo pop de funko
 
-[Ver la oferta!!](https://www.amazon.es/dp/B082FRMFP3/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B082FRMFP3/?tag=tolees-21)

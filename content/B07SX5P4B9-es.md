@@ -25,8 +25,8 @@ Tienes [Skechers Energy Timeless Vision  Zapatillas Mujer  Blanco Blanco Cuero R
 
 🔎:
 
-- Suela flexible.
-- Suela que no deja marcas.
 - Estilo versátil.
+- Suela que no deja marcas.
+- Suela flexible.
 
 [Comprar!!!](https://www.amazon.es/dp/B07SX5P4B9/?tag=tolees-21)

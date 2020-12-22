@@ -25,10 +25,10 @@ Ahora mismo tienes [TACKLIFE Juego de destornilladores magnéticos profesionales
 
 🔎:
 
-- 【Embalaje perfecto】Todas las piezas están empaquetadas en una caja de transporte y almacenamiento robusta y compacta. Cada herramienta se adapta perfectamente al lugar respectivo para evitar que se mueva y raspe.
 - 【La fuerte punta magnética】Insertos forjados y pulidos de precisión con punta negra, es magnético fuerte y fácil de succionar el tornillo.
-- 【Fácil de distinguir】No importa lo que busques, el tamaño y el tipo de la punta se indica directamente en el mango. ¡Una importante ventaja que te ahorra tiempo!
-- 【Selección de rango múltiple】3.5*100, 4*100, 5.5*125, 6.5*150, ph1*80, ph2*100, t10*80, t15*100, t20*100, t25*125, pz1*80, pz2*100
 - 【Materiales ambientales biodegradables】Mango rígido de acetato... respetuoso con el medio ambiente. Las barras de los destornilladores están hechas de CRV, más fuerte y duro que la mayoría de los aceros al carbono.
+- 【Selección de rango múltiple】3.5*100, 4*100, 5.5*125, 6.5*150, ph1*80, ph2*100, t10*80, t15*100, t20*100, t25*125, pz1*80, pz2*100
+- 【Fácil de distinguir】No importa lo que busques, el tamaño y el tipo de la punta se indica directamente en el mango. ¡Una importante ventaja que te ahorra tiempo!
+- 【Embalaje perfecto】Todas las piezas están empaquetadas en una caja de transporte y almacenamiento robusta y compacta. Cada herramienta se adapta perfectamente al lugar respectivo para evitar que se mueva y raspe.
 
 [Visítala!!!](https://www.amazon.es/dp/B08D357CHY/?tag=tolees-21)

@@ -25,10 +25,10 @@ Tienes [Shadow Of The Tomb Raider - Standard Edition](https://www.amazon.es/dp/B
 
 🔎:
 
-- Desentierra la historia viva: descubre la Ciudad Oculta y explora la mayor instalación jamás vista en un juego de Tomb Raider
-- Sé uno con la selva: en inferioridad numérica y mal equipada, Lara debe aprovechar la selva en su favor
-- Ataca por sorpresa y desaparece como un jaguar, camúflate en el barro y desata el pánico entre los enemigos para sembrar el caos
 - Descubre tumbas oscuras y despiadadas: estas son aterradoras, pues se requieren técnicas avanzadas de exploración para llegar a ellas y, una vez te encuentres en su interior, verás que están repletas de puzles mortales
+- Ataca por sorpresa y desaparece como un jaguar, camúflate en el barro y desata el pánico entre los enemigos para sembrar el caos
+- Sé uno con la selva: en inferioridad numérica y mal equipada, Lara debe aprovechar la selva en su favor
+- Desentierra la historia viva: descubre la Ciudad Oculta y explora la mayor instalación jamás vista en un juego de Tomb Raider
 - Sobrevive en el lugar más mortal de la Tierra: domina un entorno selvático inclemente para no perecer y explora entornos subacuáticos llenos de cavidades y profundos sistemas de túneles
 
 [Comprar!!!](https://www.amazon.es/dp/B07GW4GYFW/?tag=tolees-21)

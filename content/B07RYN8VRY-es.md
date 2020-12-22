@@ -25,10 +25,10 @@ En este momento está [FIA Truck Racing [Versión Española]](https://www.amazon
 
 🔎:
 
-- 5 modos para un jugador y 5 modos multijugador
+- 45 camiones con su decoración oficial, incluyendo los principales fabricantes como Volvo, Man, Freightliner y Western Star
 - 14 circuitos incluyendo los oficiales de ETRC (Nürbürgring, Le Mans, Zolder, Misano.) así como Laguna Seca, Circuito de las Américas y Fuji Speedway
 - 20 equipos que te permiten ponerte en la piel de los mejores pilotos del Campeonato
+- 5 modos para un jugador y 5 modos multijugador
 - Multijugador en pantalla dividida
-- 45 camiones con su decoración oficial, incluyendo los principales fabricantes como Volvo, Man, Freightliner y Western Star
 
 [Aquí!!!](https://www.amazon.es/dp/B07RYN8VRY/?tag=tolees-21)
