@@ -26,9 +26,9 @@ Está [MVMT Reloj Analógico para Mujer de Cuarzo con Correa en Cuero D-FR01-RGP
 ℹ️:
 
 - Caja oro rosa en acero inoxidable pulida y esfera Blanca
-- Ancho de la correa: 16 mm
-- Movimiento de cuarzo Miyota
 - 3 ATM de resistencia al agua
+- Movimiento de cuarzo Miyota
+- Ancho de la correa: 16 mm
 - Grosor de la caja de 10 mm / Diámetro de la caja: 36 mm
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07VN8NS96/?tag=tolees-21)

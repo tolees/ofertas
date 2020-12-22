@@ -25,8 +25,8 @@ Ahora mismo tienes [Nike Team Hustle D 9  GS   Basketball Shoe  White/Black-Volt
 
 🔎:
 
-- El tejido transpirable está provisto de cubiertas resistentes.
-- La espuma suave permite la amortiguación con poco peso.
 - El cómodo acolchado en el talón y el tobillo proporciona amortiguación.
+- La espuma suave permite la amortiguación con poco peso.
+- El tejido transpirable está provisto de cubiertas resistentes.
 
 [Visítala!!!](https://www.amazon.es/dp/B07HHTRWPS/?tag=tolees-21)

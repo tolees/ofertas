@@ -25,10 +25,10 @@ En este momento está [Columbia Sun Ridge Polo  Hombre  Sage  XS](https://www.am
 
 🔎:
 
-- Una solapa con dos botones junto al cuello bien diseñado para poder darse la vuelta
-- Mezcla de tejido modal/poliéster ligero, corte adecuado para las capas, buen rendimiento en salidas largas con posibilidades ilimitadas
 - Polo repelente al sol y de rápida absorción, lo suficientemente elegante para diversas aventuras, desde el tenis hasta el senderismo o una cena con amigos
-- Ajuste activo, pensado para la movilidad, diseñado para un look elegante
+- Una solapa con dos botones junto al cuello bien diseñado para poder darse la vuelta
 - 1x Columbia Sun Ridge, Polo, Hombre, Fibra sintética, Verde (Sage), XL, Art. 1399471
+- Ajuste activo, pensado para la movilidad, diseñado para un look elegante
+- Mezcla de tejido modal/poliéster ligero, corte adecuado para las capas, buen rendimiento en salidas largas con posibilidades ilimitadas
 
 [Aquí!!!](https://www.amazon.es/dp/B0817KNMQ8/?tag=tolees-21)

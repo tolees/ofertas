@@ -25,8 +25,8 @@ Ahora mismo tienes [Lee Austin Vaqueros Tapered  Azul  Mid Worn Foam EQ   34W / 
 
 🔎:
 
-- Estilo 5 bolsillos
-- Vaqueros para hombre
 - Tienen un parche de piel en la parte trasera con la marca Lee
+- Vaqueros para hombre
+- Estilo 5 bolsillos
 
 [Visítala!!!](https://www.amazon.es/dp/B07VR2JHLQ/?tag=tolees-21)

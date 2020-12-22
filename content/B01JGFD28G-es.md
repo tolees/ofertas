@@ -26,9 +26,9 @@ En este momento está [Bourjois Velvet Barra de Labios Líquida Tono 19 Jolie-de
 🔎:
 
 - Hasta 24 horas de duración, sin sensación de sequedad
-- Textura suave y fundente que proporciona unos labios aterciopelados
 - Labial líquido para un intenso acabado mate aterciopelado
-- Contiene aceites esenciales que dan a los labios una sensación natural y saludable
 - Fórmula enriquecida con un 25% de pigmentos lacados que proporcionan color e intensidad
+- Contiene aceites esenciales que dan a los labios una sensación natural y saludable
+- Textura suave y fundente que proporciona unos labios aterciopelados
 
 [Aquí!!!](https://www.amazon.es/dp/B01JGFD28G/?tag=tolees-21)

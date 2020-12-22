@@ -25,9 +25,9 @@ Está [HP Z3700 RF Raton óptico inalámbrico 1200DPI Blanco  Ambidiestro  - Rat
 
 ℹ️:
 
-- La tecnología LED Azul le permite la función en una amplia gama de superficies
-- Compatible con Windows 7/Vista/XP o Mac OS X 10.4+
-- Adaptable a cualquier mano
 - Dispone de un sensor óptico de alta resolución de 1200 DPI
+- Adaptable a cualquier mano
+- Compatible con Windows 7/Vista/XP o Mac OS X 10.4+
+- La tecnología LED Azul le permite la función en una amplia gama de superficies
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01FNRWH96/?tag=tolees-21)

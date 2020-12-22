@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skechers Graceful-Get Connected  Zapatil al 29.95 % de descuento'
-date: 2020-12-21 14:13:08
+date: 2020-12-22 14:20:33
 image: 'https://m.media-amazon.com/images/I/41m5NfDZTIL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,7 +25,7 @@ Está [Skechers Graceful-Get Connected  Zapatillas Mujer  Negro  BBK Black Mesh/
 
 ℹ️:
 
-- Suela flexible.
 - Peso ligero.
+- Suela flexible.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01LZDYPAE/?tag=tolees-21)

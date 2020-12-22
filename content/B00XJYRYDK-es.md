@@ -25,7 +25,7 @@ Tienes [Reebok Classic Leather Zapatillas  Mujer  Blanco  Int-White / Gum   42 E
 
 ℹ️:
 
-- Parte superior de piel suave para un confort excepcional.
 - Mediasuela moldeada de EVA y amortiguación ligera.
+- Parte superior de piel suave para un confort excepcional.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00XJYRYDK/?tag=tolees-21)

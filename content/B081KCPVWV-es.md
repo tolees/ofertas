@@ -25,10 +25,10 @@ Está [Bosch Professional - Juego de llaves allen Hexagonales  set 9 uds.  angul
 
 ℹ️:
 
-- Diseño robusto: acero endurecido s2 para un par de giro óptimo
-- El juego de llaves angulares hex con multitud de uso gracias a la combinación de diferentes tamaños de llave
-- Gran comodidad: su longitud permite un efecto de palanca adicional con un par de torsión mayor
 - Incluye: juego de llaves angulares hex (1.5, 2, 2.5, 3, 4, 5, 6, 8, 10 mm)
+- Gran comodidad: su longitud permite un efecto de palanca adicional con un par de torsión mayor
+- El juego de llaves angulares hex con multitud de uso gracias a la combinación de diferentes tamaños de llave
+- Diseño robusto: acero endurecido s2 para un par de giro óptimo
 - Ideal para lugares de difícil acceso: los cabezales de bola ofrecen flexibilidad y acceso a las fijaciones difíciles de alcanzar, hasta un ángulo de 25°
 
 [Ver la oferta!!](https://www.amazon.es/dp/B081KCPVWV/?tag=tolees-21)

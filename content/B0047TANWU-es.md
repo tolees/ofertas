@@ -25,10 +25,10 @@ Ahora mismo tienes [Crocs Crocband U  Zuecos Unisex Adulto  Marrón  Espresso-Kh
 
 🔎:
 
-- Altura del tacón: 1.5 pulgadas
+- Material exterior: Espuma
 - Revestimiento: Sintético
 - Material de la suela: Goma
+- Altura del tacón: 1.5 pulgadas
 - Cierre: Sin cordones
-- Material exterior: Espuma
 
 [Visítala!!!](https://www.amazon.es/dp/B0047TANWU/?tag=tolees-21)

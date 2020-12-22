@@ -25,9 +25,9 @@ Tienes [Jaggets - Paula Pop Challenge  Famosa 700014284 ](https://www.amazon.es/
 
 🔎:
 
-- Juego 3: ¡estilo libre! puedes conectarle tu propia música y bailar, ¡paula te anima
-- Paula pop es una muñeca interactiva (35 cm) que te reta a 3 juegos diferentes: cantar, bailar y estilo libre! al final sabrás el resultado, ¿prueba superada
 - Juego 1: ¡baila con paula! te dice los pasos y tú los sigues bailando con paula en tus manos… el ritmo cambia y cada vez es más difícil (dos idiomas: español y portugués)
+- Paula pop es una muñeca interactiva (35 cm) que te reta a 3 juegos diferentes: cantar, bailar y estilo libre! al final sabrás el resultado, ¿prueba superada
+- Juego 3: ¡estilo libre! puedes conectarle tu propia música y bailar, ¡paula te anima
 - Juego 2: cantar nunca fue tan divertido. Paula te cambia la voz y el ritmo se acelera… rápido, ultra lento y súper rápido
 - Paula Pop es tu profesora de baile, tu micrófono y tu altavoz con más de 30 frases y sonidos. Incluye música de las Jaggets
 

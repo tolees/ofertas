@@ -25,10 +25,10 @@ Ahora mismo tienes [Asmodee- Juego de Mesa  Edge Entertainment EE2F11 ](https://
 
 🔎:
 
-- Amables moradores del bosque te ayudarán en esa búsqueda: te darán frutas, las intercambiarán contigo o te ayudarán de otras formas
-- Había una vez un maravilloso bosque lleno de riquísimas frutas; esas frutas podían ser exprimidas y mezcladas para hacer los zumos más deliciosos
+- Tú vives en ese bosque y vas en busca de las frutas más sabrosas
 - Producto en castellano
 - Eres glotón y estás sediento; ¿serás el primero en satisfacer tu apetito de Frutas Fabulosas?
-- Tú vives en ese bosque y vas en busca de las frutas más sabrosas
+- Había una vez un maravilloso bosque lleno de riquísimas frutas; esas frutas podían ser exprimidas y mezcladas para hacer los zumos más deliciosos
+- Amables moradores del bosque te ayudarán en esa búsqueda: te darán frutas, las intercambiarán contigo o te ayudarán de otras formas
 
 [Visítala!!!](https://www.amazon.es/dp/B0722PYXL2/?tag=tolees-21)
