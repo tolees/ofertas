@@ -25,7 +25,7 @@ Tienes [Star Trek Beyond Command Insignia Magnetic Badge](https://www.amazon.es/
 
 ℹ️:
 
-- Dimensions: 3.33 cm wide x 5.56 cm high
 - Material: Zinc alloy
+- Dimensions: 3.33 cm wide x 5.56 cm high
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01M0KOKBP/?tag=tolees-21)

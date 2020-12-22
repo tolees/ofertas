@@ -25,8 +25,8 @@ En este momento está [Skechers ON-The-GO Capri-Wavy  Zapatillas Mujer  Beige  N
 
 🔎:
 
-- Plantilla Air Cooled Goga Mat de Skechers.
 - Empeine de punto transpirable en dos tonos.
 - Amortiguación ligera y flexible Ultra Go.
+- Plantilla Air Cooled Goga Mat de Skechers.
 
 [Aquí!!!](https://www.amazon.es/dp/B07VLWJ4D8/?tag=tolees-21)

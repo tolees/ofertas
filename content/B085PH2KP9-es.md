@@ -25,9 +25,9 @@ Tienes [Funko- Pop Animation Ball Z S8-10 Dragonball Z S8 10" Shenron Dragon Fig
 
 🔎:
 
-- Funko pop el juguete del año 2018
+- De la colección dragon ball z, 10" shenron dragon como figura de vinilo pop de funko
 - La figura mide 25 cm y se envía en una caja ilustrada con ventana
 - Descúbre otras figuras de la colección dragon ball z y colecciónalas todas
-- De la colección dragon ball z, 10" shenron dragon como figura de vinilo pop de funko
+- Funko pop el juguete del año 2018
 
 [Comprar!!!](https://www.amazon.es/dp/B085PH2KP9/?tag=tolees-21)

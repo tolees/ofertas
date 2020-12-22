@@ -25,10 +25,10 @@ En este momento está [Monopoly- Lluvia de Diner  Hasbro E3037105 ](https://www.
 
 🔎:
 
-- Utiliza las cartas de Suerte para planear cómo conseguir más dinero
-- Emprende una carrera loca por hacerte con el dinero; los jugadores deberán atrapar todo lo que puedan
 - anza el dinero y las cartas de Suerte al aire
-- Un juego de Monopoly diferente
 - Edad: A partir de 8 años
+- Un juego de Monopoly diferente
+- Emprende una carrera loca por hacerte con el dinero; los jugadores deberán atrapar todo lo que puedan
+- Utiliza las cartas de Suerte para planear cómo conseguir más dinero
 
 [Aquí!!!](https://www.amazon.es/dp/B07SKHKMT3/?tag=tolees-21)

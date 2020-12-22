@@ -25,10 +25,10 @@ Ahora mismo tienes [Walking Dead Michonne Caja Completa  con Revista ](https://w
 
 🔎:
 
-- Basado en la serie AMC TV.
-- Cada figura viene con un folleto de personajes.
 - La figura está en escala 1:21.
+- Basado en la serie AMC TV.
 - La colección definitiva de figuras The Walking Dead.
+- Cada figura viene con un folleto de personajes.
 - Meticulosamente procesado.
 
 [Visítala!!!](https://www.amazon.es/dp/B01AVFEBL2/?tag=tolees-21)

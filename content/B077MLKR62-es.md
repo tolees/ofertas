@@ -25,11 +25,11 @@ Ahora mismo tienes [PUMA Smash V2 L  Zapatillas Unisex Adulto  Blanco White Whit
 
 🔎:
 
-- Material de la suela: Goma
-- Altura del tacón: 3 centímetros
-- Revestimiento: Malla
-- Cierre: Cordones
-- Tipo de tacón: Plano
 - Material exterior: Cuero
+- Material de la suela: Goma
+- Tipo de tacón: Plano
+- Revestimiento: Malla
+- Altura del tacón: 3 centímetros
+- Cierre: Cordones
 
 [Visítala!!!](https://www.amazon.es/dp/B077MLKR62/?tag=tolees-21)

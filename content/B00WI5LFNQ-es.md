@@ -25,9 +25,9 @@ Tienes [Sustratos - Sustrato Cactus 5l. - Batlle](https://www.amazon.es/dp/B00WI
 
 ℹ️:
 
-- Evita las podredumbres radiculares
 - Buena proporción sólida
-- Altas dosis de magnesio
 - Hecho en España
+- Evita las podredumbres radiculares
+- Altas dosis de magnesio
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00WI5LFNQ/?tag=tolees-21)

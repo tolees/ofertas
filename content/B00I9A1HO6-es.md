@@ -25,10 +25,10 @@ Está [Lotus Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 15961/1]
 
 ℹ️:
 
-- Cuenta con una correa que ha sido fabricada en piel
-- Resistente al agua hasta 50 metros
 - Incluye una caja de regalo elegante
+- Cuenta con una correa que ha sido fabricada en piel
 - Pantalla de cristal mineral endurecido
 - Caja redonda chapada en acero inoxidable
+- Resistente al agua hasta 50 metros
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00I9A1HO6/?tag=tolees-21)

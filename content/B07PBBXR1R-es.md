@@ -28,7 +28,7 @@ Está [Funko Pop! Figura de Vinilo: Harry Potter S7 - Ginny  Yule   Multicolor  
 - Funko pop! vinyl
 - Harry Potter
 - De la colección harry potter, ginny (yule) como figura de vinilo pop de funko
-- Descúbre otras figuras de la colección harry potter y colecciónalas todas!
 - Harry potter ginny (yule)
+- Descúbre otras figuras de la colección harry potter y colecciónalas todas!
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07PBBXR1R/?tag=tolees-21)
