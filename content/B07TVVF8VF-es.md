@@ -25,8 +25,8 @@ En este momento está [Skechers Moreno  Zapatillas Hombre  Negro  Black Natural 
 
 🔎:
 
-- Goga Mat Arco
 - Ajuste clásico.
 - Espuma viscoelástica refrigerada por aire.
+- Goga Mat Arco
 
 [Aquí!!!](https://www.amazon.es/dp/B07TVVF8VF/?tag=tolees-21)

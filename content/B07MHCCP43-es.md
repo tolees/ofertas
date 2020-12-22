@@ -25,10 +25,10 @@ En este momento está [Le Creuset Taza con asa  200 ml  Cerámica de gres  Altur
 
 🔎:
 
-- Cómoda sujeción gracias al mango resistente, diseño sencillo y atemporal que combina con la gama de desayuno le Creuset Poterie, óptimo para regalar
 - Cerámica de gres resistente y duradera para un uso diario: resistente a arañazos y cortes, ácidos y manchas, no absorbe olores ni sabores
 - Contenido: 1 x Le Creuset Taza, volumen: 200 ml, material: Cerámica de gres, diámetro: 7,9 cm, altura: 10 cm, peso: 249 g, color: Gris(Flint)
-- Resistente de -18 °C a +260 °C, no apto para calor directo, limpieza fácil gracias al esmalte, apto para lavavajillas y microondas
 - Elegante taza con asa para todo tipo de bebidas frías o calientes, apta también para hornear postres
+- Resistente de -18 °C a +260 °C, no apto para calor directo, limpieza fácil gracias al esmalte, apto para lavavajillas y microondas
+- Cómoda sujeción gracias al mango resistente, diseño sencillo y atemporal que combina con la gama de desayuno le Creuset Poterie, óptimo para regalar
 
 [Aquí!!!](https://www.amazon.es/dp/B07MHCCP43/?tag=tolees-21)

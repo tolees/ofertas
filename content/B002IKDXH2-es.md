@@ -25,10 +25,10 @@ Ahora mismo tienes [Bosch Professional GBH 3-28 DFR - Martillo perforador  3 1 J
 
 🔎:
 
-- Incluye: Paño para la máquina, portabrocas de cambio rápido de 13 mm, portabrocas intercambiable SDS plus, empuñadura adicional, tubo de grasa, maletín
-- El GBH 3-28 DFR ofrece un rápido avance de perforación y un alto rendimiento de cincelado
-- Martillo perforador GBH 3-28 DFR de Bosch Professional: alta potencia y mínimas vibraciones
-- El portabrocas intercambiable permite un cambio rápido entre taladrado con percusión (en hormigón) y sin percusión (en madera y metal)
 - Debido a las bajas vibraciones y la distribución equilibrada del peso, trabajar con el martillo perforador resulta extremadamente cómodo
+- Incluye: Paño para la máquina, portabrocas de cambio rápido de 13 mm, portabrocas intercambiable SDS plus, empuñadura adicional, tubo de grasa, maletín
+- Martillo perforador GBH 3-28 DFR de Bosch Professional: alta potencia y mínimas vibraciones
+- El GBH 3-28 DFR ofrece un rápido avance de perforación y un alto rendimiento de cincelado
+- El portabrocas intercambiable permite un cambio rápido entre taladrado con percusión (en hormigón) y sin percusión (en madera y metal)
 
 [Visítala!!!](https://www.amazon.es/dp/B002IKDXH2/?tag=tolees-21)

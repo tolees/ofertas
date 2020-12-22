@@ -25,10 +25,10 @@ En este momento está [BEPER 40.967N - Sauna Facial y Aromaterapia 2 Potencias  
 
 🔎:
 
-- Hidratante de la piel: Gracias a la tecnología de nebulizador en aerosol, se adapta a todo tipo de piel: piel seca, grasa, mixta, normal, sensible, propensa al acné y masculina
-- Recipiente de evaporación antiadherente: Recomendamos agregar unas gotas de aceite esencial para obtener un efecto purificador y regenerador inmediato sobre la piel
-- Comodidad y practicidad: Calienta el agua rápidamente, lo que hace que los tiempos de espera sean nulos; luz de operación LED, pies antideslizantes que lo hacen estable en cualquier superficie
 - Configuraciones: Equipado con un botón de regulación de vapor de 3 velocidades; está equipado con una tapa reguladora de vapor para obtener la intensidad de acuerdo con el tipo de tratamiento deseado
+- Hidratante de la piel: Gracias a la tecnología de nebulizador en aerosol, se adapta a todo tipo de piel: piel seca, grasa, mixta, normal, sensible, propensa al acné y masculina
+- Comodidad y practicidad: Calienta el agua rápidamente, lo que hace que los tiempos de espera sean nulos; luz de operación LED, pies antideslizantes que lo hacen estable en cualquier superficie
+- Recipiente de evaporación antiadherente: Recomendamos agregar unas gotas de aceite esencial para obtener un efecto purificador y regenerador inmediato sobre la piel
 - SPA en su hogar: Sauna facial diseñada para realizar tratamientos curativos y relajantes desde la comodidad de tu hogar, sin tener que ir a un spa o centro de bienestar; enchufe Europeo (2 pines)
 
 [Aquí!!!](https://www.amazon.es/dp/B00FAJUDU8/?tag=tolees-21)

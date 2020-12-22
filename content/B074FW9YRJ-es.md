@@ -26,8 +26,8 @@ Tienes [World Brands- Alerta Calavera  678406 ](https://www.amazon.es/dp/B074FW9
 🔎:
 
 - Funciona con cuatro pilas AAA
+- Incluye detector de movimiento
 - Velas con luces de dos colores
 - La acción empieza al intentar liberar al Sr. Esqueleto del malvado Jhonny Ojos Verdes
-- Incluye detector de movimiento
 
 [Comprar!!!](https://www.amazon.es/dp/B074FW9YRJ/?tag=tolees-21)

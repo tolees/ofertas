@@ -25,8 +25,8 @@ En este momento está [adidas Superstar  Sneaker  Footwear White/Footwear White/
 
 🔎:
 
+- Cordones de zapatos
 - Parte superior de cuero
 - Zapatilla clásica de cuero
-- Cordones de zapatos
 
 [Aquí!!!](https://www.amazon.es/dp/B0813YHXPV/?tag=tolees-21)

@@ -25,7 +25,7 @@ Tienes [Desigual Accessories PU Long Wallet  Largo Walet. para Mujer  Verde  U](
 
 ℹ️:
 
-- Diseño: accesorios, carteras, bolso largo, verde
 - Verde
+- Diseño: accesorios, carteras, bolso largo, verde
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B083YGSB5J/?tag=tolees-21)

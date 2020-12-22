@@ -27,8 +27,8 @@ En este momento está [Casio Collection A168WA-1YES  Reloj Rectangular  Unisex  
 
 - Retro
 - Correa de acero inoxidable
-- Cronómetro
 - Función de claendario
+- Cronómetro
 - Luz de fondo
 
 [Aquí!!!](https://www.amazon.es/dp/B000LAKYW8/?tag=tolees-21)

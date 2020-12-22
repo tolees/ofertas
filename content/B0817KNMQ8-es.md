@@ -1,28 +1,34 @@
 ---
 layout: post
-title: 'Descuento del 72.57 % en Columbia Sun Ridge Polo  Hombre  Sage  X'
-date: 2020-12-07 19:37:52
+title: 'Columbia Sun Ridge Polo  Hombre  Sage  X con un 67.33 % de descuento'
+date: 2020-12-22 13:27:04
 image: 'https://m.media-amazon.com/images/I/41Hq-Ynr7jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B0817KNMQ8-es'
-actualPrice: 13.71 EUR
+actualPrice: 16.33 EUR
 currency: EUR
-price: 13.71
+price: 16.33
 comparePrice: 49.99 EUR
 prodname: 'Columbia Sun Ridge Polo  Hombre  Sage  XS'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0817KNMQ8/?tag=tolees-21'
-descuento: '72.57'
+descuento: '67.33'
+average: '16.302500000000002'
 ---
 
-Tienes [Columbia Sun Ridge Polo  Hombre  Sage  XS](https://www.amazon.es/dp/B0817KNMQ8/?tag=tolees-21) con un 72.57 % de descuento con precio de oferta de 13.71 EUR (original: 49.99 EUR) en el siguiente enlace!
+En este momento está [Columbia Sun Ridge Polo  Hombre  Sage  XS](https://www.amazon.es/dp/B0817KNMQ8/?tag=tolees-21) a 16.33 EUR (original: 49.99 EUR) (67.33 %  de descuento) en el siguiente enlace!
 
 [![Columbia Sun Ridge Polo  Hombre  Sage  X](https://m.media-amazon.com/images/I/41Hq-Ynr7jL._SL200_.jpg)](https://www.amazon.es/dp/B0817KNMQ8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Una solapa con dos botones junto al cuello bien diseñado para poder darse la vuelta
+- Mezcla de tejido modal/poliéster ligero, corte adecuado para las capas, buen rendimiento en salidas largas con posibilidades ilimitadas
+- Polo repelente al sol y de rápida absorción, lo suficientemente elegante para diversas aventuras, desde el tenis hasta el senderismo o una cena con amigos
+- Ajuste activo, pensado para la movilidad, diseñado para un look elegante
+- 1x Columbia Sun Ridge, Polo, Hombre, Fibra sintética, Verde (Sage), XL, Art. 1399471
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B0817KNMQ8/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B0817KNMQ8/?tag=tolees-21)

@@ -25,10 +25,10 @@ Tienes [Polaroid - Película instantánea Color para i - Type - Pack Doble  6009
 
 🔎:
 
-- Formato polaroid 8, 8 cm x 10, 7 cm – área de imagen 7, 9 cm x 7, 9 cm – en cada paquete hay 16 imágenes inmediatas
-- Almacenar en frío, fotografiar en caliente: la potencia de la película depende de la temperatura. Mantener la película en el refrigerador, pero nunca congelar. Lo mejor es colocarlo a temperatura ambiente antes de usarlo, aprox. 13-28°C (55-82°F)
 - Se puede utilizar con i-type cameras polaroid lab, no se puede utilizar con vintage cameras
 - Desarrollar en la oscuridad todas las fotos aparecen en primer lugar vacías. Ya que son más sensibles durante este tiempo, no deben doblarse ni agitarse. Protéjalo de la luz mientras se desarrolla y mire hacia abajo
+- Formato polaroid 8, 8 cm x 10, 7 cm – área de imagen 7, 9 cm x 7, 9 cm – en cada paquete hay 16 imágenes inmediatas
 - Con luz cuanto más luz sea en su grabación, mejor será su foto. La película instantánea ama la luz, especialmente la luz natural. Utilice el flash para todas sus fotos interiores
+- Almacenar en frío, fotografiar en caliente: la potencia de la película depende de la temperatura. Mantener la película en el refrigerador, pero nunca congelar. Lo mejor es colocarlo a temperatura ambiente antes de usarlo, aprox. 13-28°C (55-82°F)
 
 [Comprar!!!](https://www.amazon.es/dp/B084TDB4HK/?tag=tolees-21)

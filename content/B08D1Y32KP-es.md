@@ -25,10 +25,10 @@ Ahora mismo tienes [CERDÁ LIFE S LITTLE MOMENTS Cerdá-Zapatilla con Luz Mickey
 
 🔎:
 
-- Deportivas niños con luces - Licencia oficial Disney Studios
-- Deportivas niños invierno - con velcro para una mayor sujección
-- Zapatillas de polipiel - resistentes a la abrasión, elásticas y flexibles ¡ideales para los peques!
-- Zapatillas reforzadas niños - refuerzo en la puntera para una mayor seguridad y comodidad de los pequeños monstruitos durante su uso | Packaging con la cara del personaje, ¡a juego con sus zapatillas nuevas!
 - Deportivas LED - con luz LED intermitente de un color
+- Deportivas niños invierno - con velcro para una mayor sujección
+- Zapatillas reforzadas niños - refuerzo en la puntera para una mayor seguridad y comodidad de los pequeños monstruitos durante su uso | Packaging con la cara del personaje, ¡a juego con sus zapatillas nuevas!
+- Deportivas niños con luces - Licencia oficial Disney Studios
+- Zapatillas de polipiel - resistentes a la abrasión, elásticas y flexibles ¡ideales para los peques!
 
 [Visítala!!!](https://www.amazon.es/dp/B08D1Y32KP/?tag=tolees-21)

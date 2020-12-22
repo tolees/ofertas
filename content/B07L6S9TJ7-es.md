@@ -25,9 +25,9 @@ Ahora mismo tienes [Kärcher 1.676-020.0 K3 Full Control - Hidrolimpiadora de Al
 
 🔎:
 
-- Contiene sujeciones para accesorios, pistola de alta presión y cable
-- Hidrolimpiadora Presión (bar/MPa) 20 - máx. 120 / 2 - máx. 12
-- Incluye Full Control Power Gun y lanzas pulverizadoras
 - Conector para mangueras de riego A3/4"
+- Contiene sujeciones para accesorios, pistola de alta presión y cable
+- Incluye Full Control Power Gun y lanzas pulverizadoras
+- Hidrolimpiadora Presión (bar/MPa) 20 - máx. 120 / 2 - máx. 12
 
 [Visítala!!!](https://www.amazon.es/dp/B07L6S9TJ7/?tag=tolees-21)

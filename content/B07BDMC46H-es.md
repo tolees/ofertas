@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ricardo Corazón de León Juego de Mesa  E al 64.29 % de descuento'
-date: 2020-12-20 20:26:07
+date: 2020-12-22 13:15:31
 image: 'https://m.media-amazon.com/images/I/51U0YPoYQ3L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,15 +16,15 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BDMC46H/?tag=tolees-21'
 descuento: '64.29'
-average: '31.1468'
+average: '30.69074074074074'
 ---
 
-Ahora mismo tienes [Ricardo Corazón de León Juego de Mesa  Edge Entertainment ](https://www.amazon.es/dp/B07BDMC46H/?tag=tolees-21) a 24.99 EUR (original: 69.99 EUR) (64.29 %  de descuento) en el siguiente enlace!
+Está [Ricardo Corazón de León Juego de Mesa  Edge Entertainment ](https://www.amazon.es/dp/B07BDMC46H/?tag=tolees-21) con 64.29 de descuento por 24.99 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![Ricardo Corazón de León Juego de Mesa  E](https://m.media-amazon.com/images/I/51U0YPoYQ3L._SL200_.jpg)](https://www.amazon.es/dp/B07BDMC46H/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 - Juego de cartas
 
-[Visítala!!!](https://www.amazon.es/dp/B07BDMC46H/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07BDMC46H/?tag=tolees-21)

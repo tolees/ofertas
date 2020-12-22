@@ -25,10 +25,10 @@ Ahora mismo tienes [1 pieza de Soporte de Mic Anti Choque Accesorios de micrófo
 
 🔎:
 
-- * Fácil de usar. Está hecho de caucho de silicona, puede proteger su micrófono de golpes, golpes y caídas.
-- * Material: Caucho de silicona.
-- * Idea para protección de micrófono inalámbrico e identifica varios micrófonos de escenario.
-- * El paquete incluye: 1Pcs sostenedor de la manga de la barra inferior.
 - * Diámetro interior: 35 mm, la altura es de 45 mm.
+- * Fácil de usar. Está hecho de caucho de silicona, puede proteger su micrófono de golpes, golpes y caídas.
+- * Idea para protección de micrófono inalámbrico e identifica varios micrófonos de escenario.
+- * Material: Caucho de silicona.
+- * El paquete incluye: 1Pcs sostenedor de la manga de la barra inferior.
 
 [Visítala!!!](https://www.amazon.es/dp/B07D4GV2VT/?tag=tolees-21)

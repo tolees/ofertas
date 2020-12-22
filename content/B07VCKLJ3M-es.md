@@ -25,10 +25,10 @@ En este momento está [HUGO Reloj Analógico para Unisex Adulto de Cuarzo con Co
 
 🔎:
 
-- Esfera azul con detalles en marrón
 - Tres manecillas
-- Correa de piel marrón
 - 5 ATM de resistencia al agua
+- Correa de piel marrón
 - Grosor de la caja de 8,5 mm, Diámetro de la caja: 44 mm
+- Esfera azul con detalles en marrón
 
 [Aquí!!!](https://www.amazon.es/dp/B07VCKLJ3M/?tag=tolees-21)

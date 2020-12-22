@@ -25,10 +25,10 @@ En este momento está [Nike Court Borough Low 2  Gymnastics Shoe Unisex-Child  B
 
 🔎:
 
-- Cuello de zapato forrado para una mayor comodidad de uso Acolchado
 - Construcción de la suela de la copa para una amortiguación de bajo peso
+- Lengua de malla para mejorar la transpirabilidad
 - Material superior de cuero para un aspecto de alta calidad y una gran comodidad de uso
 - Suela exterior de goma para una tracción robusta
-- Lengua de malla para mejorar la transpirabilidad
+- Cuello de zapato forrado para una mayor comodidad de uso Acolchado
 
 [Aquí!!!](https://www.amazon.es/dp/B07VPTSG68/?tag=tolees-21)
