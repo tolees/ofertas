@@ -26,8 +26,8 @@ Ahora mismo tienes [Pop! Movies: Back to The Future- Marty in Puffy Vest](https:
 🔎:
 
 - El artículo es adecuado para todos los fanáticos de Back to The Future
-- El producto se envía en una caja ilustrada con ventana
-- Figura de colección de la marca Funko
 - Recomendado para niños a partir de 3 años
+- Figura de colección de la marca Funko
+- El producto se envía en una caja ilustrada con ventana
 
 [Visítala!!!](https://www.amazon.es/dp/B082FRKNSG/?tag=tolees-21)

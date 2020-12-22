@@ -25,9 +25,9 @@ Está [Pop! Icon: Ninja- Ninja](https://www.amazon.es/dp/B07YQH31DV/?tag=tolees-
 
 ℹ️:
 
-- La figura mide 9 cm y se envía en una caja ilustrada con ventana
-- Descúbre otras figuras de la colección ninja y colecciónalas todas
 - Funko pop. El juguete del año 2018
+- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 - De la colección ninja, ninja como figura de vinilo pop de funko
+- Descúbre otras figuras de la colección ninja y colecciónalas todas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07YQH31DV/?tag=tolees-21)

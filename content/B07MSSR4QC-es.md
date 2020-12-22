@@ -27,8 +27,8 @@ Tienes [HP 24fw - Monitor Full HD de 23.8"  1920 x 1080  panel IPS LED  16:9  HD
 
 - Disfruta del sol y de tu contenido favorito con este panel antirreflectante
 - Pantalla de 60.45 cm con retroiluminación led
-- Tecnología amd freesync
 - El diseño de microborde crea una experiencia de visualización más amplia
+- Tecnología amd freesync
 - La tecnología ips te ofrece vistas claras desde casi cualquier ángulo
 
 [Comprar!!!](https://www.amazon.es/dp/B07MSSR4QC/?tag=tolees-21)
