@@ -26,9 +26,9 @@ En este momento está [D-Work - Juego de 2 raquetas de playa  19 cm de diámetro
 🔎:
 
 - DK-18311841001.
-- 3664100204835.
 - 2 palas de playa D. 19 cm de velcro + bola D. 6,3 cm. D-Work.
-- Balón, pelota y pala
+- 3664100204835.
 - D-Work.
+- Balón, pelota y pala
 
 [Aquí!!!](https://www.amazon.es/dp/B08F3JNJMR/?tag=tolees-21)

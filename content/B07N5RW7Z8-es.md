@@ -26,9 +26,9 @@ En este momento está [Pop! Vinilo: Big Bang Theory S2: Amy](https://www.amazon.
 🔎:
 
 - De la colección big bang theory, amy como figura de vinilo pop de funko
-- Television: big bang theory s2
 - Amy
-- Funko pop vinyl
+- Television: big bang theory s2
 - Juguete del año 2018
+- Funko pop vinyl
 
 [Aquí!!!](https://www.amazon.es/dp/B07N5RW7Z8/?tag=tolees-21)

@@ -25,8 +25,8 @@ En este momento está [ROIDMI Nano – Aspiradora de Mano sin Cables  45000 RPM 
 
 🔎:
 
-- Luz LED incorporada: roidmi nano incorpora una luz LED que permite limpiar en profundidad en cualquier situación, incluso en zonas oscuras o poco iluminadas
 - Llévatelo donde quieras: su diseño ligero y ergonómico te permite transportar Roidmi Nano donde vayas, ya sea de viaje, en el bolso o en el coche
+- Luz LED incorporada: roidmi nano incorpora una luz LED que permite limpiar en profundidad en cualquier situación, incluso en zonas oscuras o poco iluminadas
 - Gran poder de succión y batería de larga duración: El motor de Roidmi Nano alcanza 45000 rpm y un poder de succión de 8W; además, incluye una batería de alto rendimiento que dura 25 minutos con una sola carga
 - Filtro hepa: Roidmi Nano viene equiPado con un filtro hepa y con una esponja que elimina los ácaros de polvo y los alérgenos, evitando la segunda contaminación causada por el flujo de retorno del polvo y devolviendo el aire limpio
 

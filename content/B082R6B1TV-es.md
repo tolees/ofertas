@@ -26,7 +26,7 @@ Está [NIKE Air MAX Command  Sneaker Hombre  White/Mystic Navy-Cardinal Red  42 
 ℹ️:
 
 - The waffle sole combines traditional style with strength and traction
-- The upper in leather, fabric and synthetic material guarantees comfort and resistance
 - The foam midsole offers lasting cushioning
+- The upper in leather, fabric and synthetic material guarantees comfort and resistance
 
 [Ver la oferta!!](https://www.amazon.es/dp/B082R6B1TV/?tag=tolees-21)

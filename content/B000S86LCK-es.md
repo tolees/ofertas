@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Proxxon 2224256 - Garras Para La Fresado al 18.01 % de descuento'
-date: 2020-12-21 10:24:06
+date: 2020-12-22 17:17:17
 image: 'https://m.media-amazon.com/images/I/418wlGDZYlL._SL200_.jpg'
 comments: true
 category: ofertas
