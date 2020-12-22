@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Amazfit T-Rex Reloj Inteligente V al 39.35 % de descuento'
-date: 2020-12-21 06:24:34
+date: 2020-12-22 11:20:36
 image: 'https://m.media-amazon.com/images/I/51rt5MUZnEL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0842XCJCN/?tag=tolees-21'
 descuento: '39.35'
-average: '111.9823076923077'
+average: '110.04785714285715'
 ---
 
 Ahora mismo tienes [Xiaomi Amazfit T-Rex Reloj Inteligente Verde AMOLED 3 3 cm  1.3"  GPS  satélite  - Amazfit W1919OV1N  3 3 cm  1.3"   AMOLED  Pantalla táctil  GPS  satélite   58 g  Verde](https://www.amazon.es/dp/B0842XCJCN/?tag=tolees-21) a 84.9 EUR (original: 139.99 EUR) (39.35 %  de descuento) en el siguiente enlace!
@@ -25,11 +25,11 @@ Ahora mismo tienes [Xiaomi Amazfit T-Rex Reloj Inteligente Verde AMOLED 3 3 cm  
 
 🔎:
 
-- 20 días de batería escenario de uso diario
-- 20 horas de GPD siempre encendido
 - 12 Certificados de categoría militar
-- Pantalla Amoled de 1,3"
-- 14 modos de deporte
+- 20 días de batería escenario de uso diario
 - Sumergible hasta 50 metros
+- 20 horas de GPD siempre encendido
+- 14 modos de deporte
+- Pantalla Amoled de 1,3"
 
 [Visítala!!!](https://www.amazon.es/dp/B0842XCJCN/?tag=tolees-21)

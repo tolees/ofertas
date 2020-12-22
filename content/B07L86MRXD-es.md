@@ -25,10 +25,10 @@ Está [Anker PowerCore Speed 20000PD  batería externa de 20100 mAh con cargador
 
 ℹ️:
 
+- Carga rápida: a través de USB-C Power Delivery la batería externa se carga completamente con el cargador de pared incluido en solo cuatro horas.
+- El ancla Plus: cierra a los más de 30 millones de clientes felices. Carga Anker.
+- Power Delivery: carga ordenadores portátiles, teléfonos móviles, tabletas y muchos más con hasta 22,5 W a través del puerto USB-C.
 - Contenido del paquete: una batería externa PowerCore Speed 20000 PD, un cargador de pared de 30 W, un estuche de viaje, un cable USB-C de 90 cm de largo, un manual de instrucciones (idioma español no garantizado). (El cable Lightning para iPhone se vende por separado).
 - Capacidad colosal: carga tu iPhone 7 seis veces, el MacBook 2016 una vez completamente o el iPad Air 2 casi dos veces.
-- El ancla Plus: cierra a los más de 30 millones de clientes felices. Carga Anker.
-- Carga rápida: a través de USB-C Power Delivery la batería externa se carga completamente con el cargador de pared incluido en solo cuatro horas.
-- Power Delivery: carga ordenadores portátiles, teléfonos móviles, tabletas y muchos más con hasta 22,5 W a través del puerto USB-C.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07L86MRXD/?tag=tolees-21)

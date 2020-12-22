@@ -25,8 +25,8 @@ Tienes [Eleven Force Trivial Bite El Señor de Los Anillos  Multicolor  única  
 
 🔎:
 
-- Producto de la marca Eleven Force
 - Juegos de mesa juegos de acción y reflejos
+- Producto de la marca Eleven Force
 - Trivial bite el señor de los anillos (10285)
 
 [Comprar!!!](https://www.amazon.es/dp/B07L5SN6D9/?tag=tolees-21)

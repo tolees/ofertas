@@ -26,9 +26,9 @@ Tienes [Helly Hansen Crew Midlayer Chaqueta deportiva impermeable  Hombre  Azul 
 🔎:
 
 - Tratamiento de impermeabilidad duradera, costuras totalmente selladas
-- Construcción de tela de 2 capas
-- Bajo ajustable con una sola mano, puños ajustables
 - Bolsillos en el pecho con cremallera
 - Bolsillos térmicos para las manos, forro polar
+- Construcción de tela de 2 capas
+- Bajo ajustable con una sola mano, puños ajustables
 
 [Comprar!!!](https://www.amazon.es/dp/B00IN4STXK/?tag=tolees-21)

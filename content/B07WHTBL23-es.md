@@ -25,10 +25,10 @@ En este momento está [Fossil Smartwatch Pantalla táctil para Hombre de Connect
 
 🔎:
 
-- Los smartwatches que funcionan con la tecnología Wear OS by Google funcionan con teléfonos iPhoneⓇ¹ y Android
-- Acelera los pagos con tu reloj gracias a Google Pay
-- Funciona varios días con una única carga en modo de batería ampliada.
 - Ahora con un altavoz para alertas audibles y para coger llamadas de teléfono¹, respuestas de Google Assistant y mucho más. Recibe notificaciones y alertas en tu smartphone, gestiona tu calendario, controla tu música, personaliza la esfera de tu reloj y descarga aplicaciones de terceros con una capacidad de almacenamiento aún mayor.
+- Funciona varios días con una única carga en modo de batería ampliada.
+- Acelera los pagos con tu reloj gracias a Google Pay
+- Los smartwatches que funcionan con la tecnología Wear OS by Google funcionan con teléfonos iPhoneⓇ¹ y Android
 - Seguimiento de actividad y frecuencia cardíaca, GPS incorporado para seguimiento de distancias, diseño apto para nadar
 
 [Aquí!!!](https://www.amazon.es/dp/B07WHTBL23/?tag=tolees-21)

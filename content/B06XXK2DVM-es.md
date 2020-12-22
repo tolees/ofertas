@@ -26,11 +26,11 @@ Ahora mismo tienes [Rowenta Express Liss Elite SF4012F0 - Plancha de Pelo con re
 🔎:
 
 - Placas estrechas de 2,5 cm para un resultado óptimo y ajuste de temperatura de precisión (de 130 °c a 230 °c) para un control total
-- Función wet & dry para usar con el cabello seco o húmedo gracias a su sistema de evaporación
-- Tipo de fuente de energía: con cable eléctrico
-- Apagado automático tras 60 minutos sin usar para mayor seguridad
-- Calentamiento rápido en 30 segundos, cuenta con un sistema de bloqueo de las placas para mayor seguridad
-- Plancha inferior flotante que se ajusta en función del grosor del mechón de pelo para mantener una excelente presión sobre el cabello
 - Alisado adecuado y brillante gracias a su recubrimiento de keratina y turmalina; la keratina protege el cabello dándole brillo y elasticidad mientras que la turmalina quita el encrespamiento
+- Tipo de fuente de energía: con cable eléctrico
+- Función wet & dry para usar con el cabello seco o húmedo gracias a su sistema de evaporación
+- Plancha inferior flotante que se ajusta en función del grosor del mechón de pelo para mantener una excelente presión sobre el cabello
+- Calentamiento rápido en 30 segundos, cuenta con un sistema de bloqueo de las placas para mayor seguridad
+- Apagado automático tras 60 minutos sin usar para mayor seguridad
 
 [Visítala!!!](https://www.amazon.es/dp/B06XXK2DVM/?tag=tolees-21)

@@ -25,10 +25,10 @@ Está [Moleskine - Snoopy Agenda Semanal de 18 Meses  Agenda Semanal 2020/2021  
 
 ℹ️:
 
-- Lleva a cabo tus proyectos, alcanza tus metas y planifica tus días y semanas con un toque de humor y ternura junto con los adorables personajes de Snoopy
-- La agenda incluye las icónicas esquinas redondeadas, cierre elástico, cinta marcapáginas y el aviso "En caso de pérdida"; papel sin ácido de 70 g/m² de color marfil
-- Esta agenda semanal 2020/2021 abarca 18 meses, desde julio de 2020 hasta diciembre de 2021, para anotar tus citas y tareas diarias y semanales
-- El paquete contiene una agenda semanal de 18 meses de Snoopy de edición limitada, con tapa dura y disponible en tamaño de bolsillo de 9 x 14 cm, 208 páginas
 - La agenda semanal incluye una portada dura y gráficos temáticos de Snoopy - Lucy van Pelt y Charlie Brown; cada agenda contiene una tarjeta temática con una historia y una hoja de pegatinas
+- Lleva a cabo tus proyectos, alcanza tus metas y planifica tus días y semanas con un toque de humor y ternura junto con los adorables personajes de Snoopy
+- Esta agenda semanal 2020/2021 abarca 18 meses, desde julio de 2020 hasta diciembre de 2021, para anotar tus citas y tareas diarias y semanales
+- La agenda incluye las icónicas esquinas redondeadas, cierre elástico, cinta marcapáginas y el aviso "En caso de pérdida"; papel sin ácido de 70 g/m² de color marfil
+- El paquete contiene una agenda semanal de 18 meses de Snoopy de edición limitada, con tapa dura y disponible en tamaño de bolsillo de 9 x 14 cm, 208 páginas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07Y5Y7D1J/?tag=tolees-21)

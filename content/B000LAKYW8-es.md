@@ -1,28 +1,34 @@
 ---
 layout: post
-title: 'Casio Collection A168WA-1YES  Reloj Rect al 26.25 % de descuento'
-date: 2020-11-29 19:36:01
+title: 'Casio Collection A168WA-1YES  Reloj Rect con un 22.46 % de descuento'
+date: 2020-12-22 11:16:43
 image: 'https://m.media-amazon.com/images/I/41l9tEAa5IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B000LAKYW8-es'
-actualPrice: 25.74 EUR
+actualPrice: 27.06 EUR
 currency: EUR
-price: 25.74
+price: 27.06
 comparePrice: 34.9 EUR
 prodname: 'Casio Collection A168WA-1YES  Reloj Rectangular  Unisex  Plateado'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000LAKYW8/?tag=tolees-21'
-descuento: '26.25'
+descuento: '22.46'
+average: '25.194464285714282'
 ---
 
-Ahora mismo tienes [Casio Collection A168WA-1YES  Reloj Rectangular  Unisex  Plateado](https://www.amazon.es/dp/B000LAKYW8/?tag=tolees-21) a 25.74 EUR (original: 34.9 EUR) (26.25 %  de descuento) en el siguiente enlace!
+En este momento está [Casio Collection A168WA-1YES  Reloj Rectangular  Unisex  Plateado](https://www.amazon.es/dp/B000LAKYW8/?tag=tolees-21) a 27.06 EUR (original: 34.9 EUR) (22.46 %  de descuento) en el siguiente enlace!
 
 [![Casio Collection A168WA-1YES  Reloj Rect](https://m.media-amazon.com/images/I/41l9tEAa5IL._SL200_.jpg)](https://www.amazon.es/dp/B000LAKYW8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Función de claendario
+- Retro
+- Luz de fondo
+- Cronómetro
+- Correa de acero inoxidable
 
-[Visítala!!!](https://www.amazon.es/dp/B000LAKYW8/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B000LAKYW8/?tag=tolees-21)

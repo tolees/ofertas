@@ -25,10 +25,10 @@ Está [Moleskine Batman Edición Limitada  Cuaderno de Rayas con Gráficos y Det
 
 ℹ️:
 
-- Libreta disponible en tamaño grande 13 x 21 cm, 240 páginas
 - Moleskine celebra a uno de los superhéroes más queridos de DC Comics: Batman
+- Libreta disponible en tamaño grande 13 x 21 cm, 240 páginas
+- Papel de color marfil de 70 g/m2 sin ácido
 - Cuaderno con páginas regladas y tapa dura en blanco y negro
 - La cubierta en blanco y negro encarna óptimamente las cualidades del personaje: el cuaderno está lleno de gráficos temáticos y contiene pegatinas
-- Papel de color marfil de 70 g/m2 sin ácido
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00NOIH936/?tag=tolees-21)

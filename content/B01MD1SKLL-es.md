@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link - Repetidor WiFi AC1200  5 GHz & al 41.67 % de descuento'
-date: 2020-12-19 21:04:39
+date: 2020-12-22 11:05:20
 image: 'https://m.media-amazon.com/images/I/31Ds+55JQXL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,23 +16,23 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MD1SKLL/?tag=tolees-21'
 descuento: '41.67'
-average: '34.9'
+average: '34.900888888888886'
 ---
 
-Ahora mismo tienes [TP-Link - Repetidor WiFi AC1200  5 GHz & 2.4 Ghz  Amplificador WiFi Extensor  con Puerto Ethernet  Repetidor Inalámbrico  Blanco  RE305 ](https://www.amazon.es/dp/B01MD1SKLL/?tag=tolees-21) a 34.94 EUR (original: 59.9 EUR) (41.67 %  de descuento) en el siguiente enlace!
+Está [TP-Link - Repetidor WiFi AC1200  5 GHz & 2.4 Ghz  Amplificador WiFi Extensor  con Puerto Ethernet  Repetidor Inalámbrico  Blanco  RE305 ](https://www.amazon.es/dp/B01MD1SKLL/?tag=tolees-21) con 41.67 de descuento por 34.94 EUR (original: 59.9 EUR) en el siguiente enlace!
 
 [![TP-Link - Repetidor WiFi AC1200  5 GHz &](https://m.media-amazon.com/images/I/31Ds+55JQXL._SL200_.jpg)](https://www.amazon.es/dp/B01MD1SKLL/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
-- Tiene dos antenas externas que mejoran la cobertura inalámbrica y admite la conexión de múltiples dispositivos al mismo tiempo
-- El extensor de rango RE305 se conecta de forma inalámbrica al módem, fortaleciendo y expandiendo su señal Wi-Fi a áreas que la red del módem no puede alcanzar, hasta 300Mbps a 2.4GHz y 867Mbps a 5GHz
-- Puede usar la banda de 2.4GHz para actividades simples como enviar correos electrónicos y navegar por la web y aprovechar la banda de 5 GHz para transmisión de video HD / 4K y juegos en línea
-- El dispositivo transforma la conexión a Internet por cable en un punto de acceso inalámbrico de doble banda insertando un cable Ethernet en el puerto apropiado
-- Toda la señal WiFi 5G disminuirá al atravesar la pared; si tiene paredes gruesas en casa y necesita señal WiFi 5G, elija PLC o Wifi Mesh
 - TP-Link Spain proporciona soporte técnico local gratuito para usuarios en España; es compatible con Microsoft Windows 98, NT, 2000, XP, Vista o Windows 7, 8, 8.1, 10, MAC OS, NetWare, UNIX o Linux
+- Tiene dos antenas externas que mejoran la cobertura inalámbrica y admite la conexión de múltiples dispositivos al mismo tiempo
 - RE305 es compatible con todos los tipos de módem / enrutador y simplemente presione el botón WPS en el enrutador y el botón WPS en el producto para configurarlo
+- Toda la señal WiFi 5G disminuirá al atravesar la pared; si tiene paredes gruesas en casa y necesita señal WiFi 5G, elija PLC o Wifi Mesh
+- Puede usar la banda de 2.4GHz para actividades simples como enviar correos electrónicos y navegar por la web y aprovechar la banda de 5 GHz para transmisión de video HD / 4K y juegos en línea
 - NB: el modo nocturno está disponible en la página de Administración para aquellos que encuentran la luz molesta por la noche
+- El dispositivo transforma la conexión a Internet por cable en un punto de acceso inalámbrico de doble banda insertando un cable Ethernet en el puerto apropiado
 - El producto tiene un indicador de señal que ayuda al usuario a encontrar el mejor lugar para RE305: la luz azul significa buena conexión; luz roja para demasiado lejos del enrutador
+- El extensor de rango RE305 se conecta de forma inalámbrica al módem, fortaleciendo y expandiendo su señal Wi-Fi a áreas que la red del módem no puede alcanzar, hasta 300Mbps a 2.4GHz y 867Mbps a 5GHz
 
-[Visítala!!!](https://www.amazon.es/dp/B01MD1SKLL/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01MD1SKLL/?tag=tolees-21)

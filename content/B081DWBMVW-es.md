@@ -25,8 +25,8 @@ Está [adidas DFB H JSY W T-Shirt  Mujer  White  L](https://www.amazon.es/dp/B08
 
 ℹ️:
 
-- Climalite anti-humidity fabric
 - Regular fit
+- Climalite anti-humidity fabric
 - Logo on the frontal
 
 [Ver la oferta!!](https://www.amazon.es/dp/B081DWBMVW/?tag=tolees-21)

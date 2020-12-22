@@ -25,10 +25,10 @@ Ahora mismo tienes [Moleskine - Cuaderno El Señor de los Anillos Edición Limit
 
 🔎:
 
-- La colección de cuadernos El Señor de los Anillos, de edición limitada, celebra esta clásica aventura literaria y el épico viaje que se desarrolla en las páginas escritas por JRR Tolkien
-- El papel color marfil, libre de ácidos, está delicadamente fabricado para satisfacer diferentes necesidades creativas, apto para escribir y dibujar
 - Las páginas interiores te invitan a anotar todos los maravillosos lugares donde viajes y tu imaginación te lleve; una puerta de entrada a tus ideas y a tu creatividad
+- El papel color marfil, libre de ácidos, está delicadamente fabricado para satisfacer diferentes necesidades creativas, apto para escribir y dibujar
 - Los cuadernos presentan algunos de los paisajes más típicos y mágicos atravesados por los personajes del libro; un mundo rico creado en la mente del autor que con el tiempo se ha convertido en parte de nuestra imaginación colectiva
 - Cuaderno con tapa dura, esquinas redondeadas, goma elástica y hojas con rayas; etiqueta "En caso de pérdida" impresa en la contraportada; cuaderno de diseño clásico con un práctico marcador para no perder nunca la página
+- La colección de cuadernos El Señor de los Anillos, de edición limitada, celebra esta clásica aventura literaria y el épico viaje que se desarrolla en las páginas escritas por JRR Tolkien
 
 [Visítala!!!](https://www.amazon.es/dp/B07JVF7QVM/?tag=tolees-21)

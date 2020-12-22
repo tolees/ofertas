@@ -25,10 +25,10 @@ Tienes [Moleskine - Agenda 2020/2021 un Día por Página  Agenda de 18 Meses  Pl
 
 ℹ️:
 
-- La agenda incluye las icónicas esquinas redondeadas, cierre elástico, cinta marcapáginas y el aviso "En caso de pérdida"; papel sin ácido de 70 g/m² de color marfil
 - Gracias a la disposición por días de la agenda se dedica una página entera a cada día para tomar notas, anotar los acontecimientos importantes y los objetivos mensuales y semanales
-- El paquete contiene una agenda diaria de 18 meses con tapa dura, disponible en tamaño grande 13 x 21 cm, 608 páginas, color negro
 - Esta agenda 2020/2021 de un día por página abarca 18 meses, desde julio de 2020 hasta diciembre de 2021, para anotar tus citas y tareas diarias y semanales
+- La agenda incluye las icónicas esquinas redondeadas, cierre elástico, cinta marcapáginas y el aviso "En caso de pérdida"; papel sin ácido de 70 g/m² de color marfil
+- El paquete contiene una agenda diaria de 18 meses con tapa dura, disponible en tamaño grande 13 x 21 cm, 608 páginas, color negro
 - Cada agenda incluye 295 pegatinas especiales para personalizar tu agenda: 1 hoja con letras y 2 hojas con muchos iconos diferentes
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07Y5W1QM5/?tag=tolees-21)

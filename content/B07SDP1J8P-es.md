@@ -25,8 +25,8 @@ En este momento está [Lee Rider Tonal Jeans  Moto Worn  28W / 32L para Hombre](
 
 🔎:
 
-- Presentan 5 bolsillos
 - Vaqueros para hombre
 - Tienen un parche de piel en la parte trasera con la marca Lee
+- Presentan 5 bolsillos
 
 [Aquí!!!](https://www.amazon.es/dp/B07SDP1J8P/?tag=tolees-21)
