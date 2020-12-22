@@ -27,10 +27,10 @@ Ahora mismo tienes [D-Link DIR-1960 – Router WiFi AC1900 MU-MIMO Smart Mesh Ga
 
 - Protección de la red con la tecnología McAfee Secure Home Platform durante 5 años y McAfee LifeSafe Antivirus para PCs y tabletas durante 2 años
 - 1 puerto SuperSpeed USB 3.0 y un puerto USB 2.0, para conectar memorias USB y compartir datos
+- Compatible con los asistentes de voz Amazon Alexa y Google Home
 - Incorpora la última tecnología Wireless: MU-MIMO Wave 2, para un rendimiento hasta 4x veces superior y Smart Mesh para una red Wi-Fi sin cortes en toda la casa
 - Velocidad WiFi combinada de hasta 2600 Mbps WLAN, para un Streaming 4K sin cortes, tirones o videos pixelados
-- 4 antenas WiFi MIMO de alta potencia con SmartBeam avanzado, para maximizar la zona de cobertura y la velocidad de tu red inalámbrica
-- Compatible con los asistentes de voz Amazon Alexa y Google Home
 - Puertos de red LAN y de Internet a Gigabit Ethernet RJ45, para que los datos fluyan por tu red a toda velocidad y puedas aprovechar al máximo tu conexión de fibra
+- 4 antenas WiFi MIMO de alta potencia con SmartBeam avanzado, para maximizar la zona de cobertura y la velocidad de tu red inalámbrica
 
 [Visítala!!!](https://www.amazon.es/dp/B07Q7LMPVJ/?tag=tolees-21)

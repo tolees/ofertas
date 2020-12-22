@@ -25,9 +25,9 @@ Tienes [Scooby-DOO! Aventura en el Caldero de la Bruja](https://www.amazon.es/dp
 
 ℹ️:
 
-- Recomendado a partir de 5 meses
-- Incluye dos figuras y Scooby Doo
 - Con fuego LED que necesita dos pilas AAA
 - Desarrolla la imaginación y la creatividad
+- Incluye dos figuras y Scooby Doo
+- Recomendado a partir de 5 meses
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B081HQJ5SF/?tag=tolees-21)

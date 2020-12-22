@@ -25,8 +25,8 @@ Tienes [Lee Breese Pantalones para Mujer  Negro  Black 01   30W / 35L](https://w
 
 🔎:
 
-- Tienen un parche de piel con el logo de la marca en la parte trasera
 - Con un diseño de cinco bolsillos
+- Tienen un parche de piel con el logo de la marca en la parte trasera
 - Vaqueros evasé para mujer
 
 [Comprar!!!](https://www.amazon.es/dp/B07SCKJDP4/?tag=tolees-21)

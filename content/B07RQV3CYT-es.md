@@ -26,9 +26,9 @@ En este momento está [Oral-B 80327521 Oral-B Pro 2 2500 - Cepillo de dientes el
 🔎:
 
 - Hace que tus dientes sean más blandos desde el primer día eliminando las manchas de la superficie
-- Hasta un 100% más de placa extraída: la cabeza redondeada limpia mejor para unas encías más sanas
 - 2 modos de cepillado: estándar y suave
-- Hay un temporizador que vibra cada 30 segundos para indicar la duración del cepillado. Al final de esta duración, hay una vibración más larga que indica que los 2 minutos han terminado
 - Proteja sus encías - Sensor de presión que le avisa cuando ejerce una presión excesiva
+- Hasta un 100% más de placa extraída: la cabeza redondeada limpia mejor para unas encías más sanas
+- Hay un temporizador que vibra cada 30 segundos para indicar la duración del cepillado. Al final de esta duración, hay una vibración más larga que indica que los 2 minutos han terminado
 
 [Aquí!!!](https://www.amazon.es/dp/B07RQV3CYT/?tag=tolees-21)

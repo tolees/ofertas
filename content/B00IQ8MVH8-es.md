@@ -25,10 +25,10 @@ En este momento está [Mattel Games Bounce-Off  Juego de Mesa  Mattel CBJ83 ](ht
 
 🔎:
 
-- Para ganar el juego hay que conseguir tres cartas
-- Incluye nueve cartas con desafíos, 16 pelotas y una bandeja de juego
 - De 2 a 4 jugadores
-- El primero en completar el dibujo gana la carta
 - Hay que recrear a toda prisa el dibujo de cada carta haciendo botar las pelotas en la bandeja
+- Incluye nueve cartas con desafíos, 16 pelotas y una bandeja de juego
+- Para ganar el juego hay que conseguir tres cartas
+- El primero en completar el dibujo gana la carta
 
 [Aquí!!!](https://www.amazon.es/dp/B00IQ8MVH8/?tag=tolees-21)

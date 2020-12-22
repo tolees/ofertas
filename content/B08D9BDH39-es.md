@@ -26,8 +26,8 @@ Tienes [Bosch Professional GST 150 CE - Sierra de calar  780 W  500-3100 cpm  pr
 🔎:
 
 - La sierra de calar permite lograr óptimas resultados incluso en vigas duras y gruesas gracias a su potente motor de 780 W
-- Gran precisión de corte, adecuada para cortes curvos en madera maciza, aglomerado y compuestos de madera
 - La sierra de calar también es adecuada para las aplicaciones más exigentes gracias a la robusta placa base con una alta resistencia a la flexión
+- Gran precisión de corte, adecuada para cortes curvos en madera maciza, aglomerado y compuestos de madera
 - La empuñadura recta facilita el manejo de la herramienta, para un agarre cómodo incluso en cortes desde abajo
 - Incluye: GST 150 CE, set aspiración, zapata deslizamiento, cubierta, boquilla aspiración, protección antiastillas, 1 hoja T 144 DP Precision for Wood, 3 esponjas, medio, fino, superfino, maletín
 

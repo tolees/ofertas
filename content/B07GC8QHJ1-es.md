@@ -25,10 +25,10 @@ Está [Persona 3: Dancing in Moonlight - Edición Estándar](https://www.amazon.
 
 ℹ️:
 
-- Desbloquea un total de 25 canciones favoritas de los fans
-- Colecciona y equipa una gran variedad de trajes y accesorios para crear una experiencia de baile mas llamativa
-- Elige entre cuatro niveles de dificultad y baila junto a los miembros de SEES y los legendarios Ladrones Fantasma
-- Elige escuchar las voces de tus personajes favoritos tanto en inglés como en japonés
 - Los personajes podrán romper la pista de baile con un compañero
+- Elige entre cuatro niveles de dificultad y baila junto a los miembros de SEES y los legendarios Ladrones Fantasma
+- Colecciona y equipa una gran variedad de trajes y accesorios para crear una experiencia de baile mas llamativa
+- Elige escuchar las voces de tus personajes favoritos tanto en inglés como en japonés
+- Desbloquea un total de 25 canciones favoritas de los fans
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07GC8QHJ1/?tag=tolees-21)

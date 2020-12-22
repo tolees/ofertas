@@ -25,7 +25,7 @@ Ahora mismo tienes [G-STAR RAW Eyevi Fit and Flare Vestido  Gris  Sun Faded Basa
 
 🔎:
 
-- Sin mangas.
 - La colección de vestido G-Star Raw te ofrece un aspecto fresco que realza tu estilo femenino perfectamente.
+- Sin mangas.
 
 [Visítala!!!](https://www.amazon.es/dp/B07VRYBPXB/?tag=tolees-21)

@@ -25,10 +25,10 @@ Ahora mismo tienes [Trust Lumo10 Cargador inalámbrico rápido RGB para Smartpho
 
 🔎:
 
-- Base de carga inalámbrica circular para poder depositar el teléfono fácilmente; con luces led rgb (onda de arco iris)
-- Sirve cualquier cargador usb de 2 a/10 w o más para entrada de alimentación (cable incluido; cargador no incluido); para realizar cargas rápidas, se requiere un cargador usb compatible con quick charge 2.0/3.0
+- La carga funciona sin tener que quitar la funda de teléfono (compatible con fundas de plástico de hasta 3 mm de grosor); smart safety design con fod (foreign object detection, detección de objetos extraños) para evitar interferencias de objetos metálicos y daños a los mismos
 - Compatible con salida de carga rápida de 7,5 w para iphone y salida de 10 w para teléfonos samsung galaxy
 - Pulsar y cargar: simplemente deposite el smartphone en la base para que se cargue automáticamente; puede utilizarse con todos los smartphones compatibles con qi
-- La carga funciona sin tener que quitar la funda de teléfono (compatible con fundas de plástico de hasta 3 mm de grosor); smart safety design con fod (foreign object detection, detección de objetos extraños) para evitar interferencias de objetos metálicos y daños a los mismos
+- Base de carga inalámbrica circular para poder depositar el teléfono fácilmente; con luces led rgb (onda de arco iris)
+- Sirve cualquier cargador usb de 2 a/10 w o más para entrada de alimentación (cable incluido; cargador no incluido); para realizar cargas rápidas, se requiere un cargador usb compatible con quick charge 2.0/3.0
 
 [Visítala!!!](https://www.amazon.es/dp/B07WTGZCZG/?tag=tolees-21)

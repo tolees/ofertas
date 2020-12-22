@@ -26,8 +26,8 @@ Está [Lenovo Ideacentre 510A-15ARR - Ordenador de sobremesa  AMD Ryzen 5  8GB R
 ℹ️:
 
 - Tarjeta grafica AMD Radeon RX 560 de 4GB GDDR5
-- Memoria RAM de 8GB, DDR4
 - Sistema operativo: Windows10
+- Memoria RAM de 8GB, DDR4
 - Procesador AMD Ryzen 5 2400G, QuadCore 3.6Ghz hasta 3.9Ghz
 - Almacenamiento HDD de 1TB, 7200rpm
 

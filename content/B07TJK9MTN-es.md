@@ -25,7 +25,7 @@ Tienes [Clarks Foxwell Mid  Botas Chukka  Marrón  British Tan British Tan   43 
 
 🔎:
 
-- Material de la suela: goma.
 - Color exacto: bronceado británico.
+- Material de la suela: goma.
 
 [Comprar!!!](https://www.amazon.es/dp/B07TJK9MTN/?tag=tolees-21)
