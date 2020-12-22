@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 49.30 % en La Sirenita  2014  [DVD]'
-date: 2020-12-19 21:07:05
+date: 2020-12-22 22:29:58
 image: 'https://m.media-amazon.com/images/I/51tl7DTuOdL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00JVQUZWW/?tag=tolees-21'
 descuento: '49.30'
-average: '9.266249999999998'
+average: '9.240204081632651'
 ---
 
 Tienes [La Sirenita  2014  [DVD]](https://www.amazon.es/dp/B00JVQUZWW/?tag=tolees-21) con un 49.30 % de descuento con precio de oferta de 7.99 EUR (original: 15.76 EUR) en el siguiente enlace!

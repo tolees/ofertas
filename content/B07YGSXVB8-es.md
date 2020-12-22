@@ -25,10 +25,10 @@ En este momento está [GoPro HERO8 Black - Cámara de acción Digital 4K Resiste
 
 🔎:
 
+- Captura vídeos secuenciales totalmente estabilizados sin dejar de moverte. Ahora, timewarp ajusta automáticamente la velocidad en función del movimiento, la detección de escena y la iluminación
 - Haz todo sin manos gracias a los 14 comandos de voz, como "gopro, toma una foto". Aunque la cámara esté apagada, puedes decir "gopro, enciéndete"
 - Vloggers, cineastas profesionales y creadores de contenido podrán hacer más de lo que nunca habían imaginado con accesorios de rápida instalación, como luces led, micrófonos o pantallas lcd , entre otros
-- Captura vídeos secuenciales totalmente estabilizados sin dejar de moverte. Ahora, timewarp ajusta automáticamente la velocidad en función del movimiento, la detección de escena y la iluminación
-- Graba 1,5 segundos antes y después de la toma y elige el mejor encuadre para la foto perfecta. O consigue un vídeo increíble para compartir
 - Si lo anterior te parecía fluido, espera a ver esto. Ahora, la hero8 black incluye tres niveles de estabilización (activado, alto y potencía ción). Elige el que más te convenga en cada situación
+- Graba 1,5 segundos antes y después de la toma y elige el mejor encuadre para la foto perfecta. O consigue un vídeo increíble para compartir
 
 [Aquí!!!](https://www.amazon.es/dp/B07YGSXVB8/?tag=tolees-21)

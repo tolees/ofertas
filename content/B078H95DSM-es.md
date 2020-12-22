@@ -1,28 +1,34 @@
 ---
 layout: post
-title: 'Energy Sistem Party 6 - Altavoz DJ con B al 41.05 % de descuento'
-date: 2020-11-27 07:09:59
+title: 'Descuento del 44.45 % en Energy Sistem Party 6 - Altavoz DJ con B'
+date: 2020-12-22 22:19:29
 image: 'https://m.media-amazon.com/images/I/41RIuiRXHhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B078H95DSM-es'
-actualPrice: 135.0 EUR
+actualPrice: 127.2 EUR
 currency: EUR
-price: 135.0
+price: 127.2
 comparePrice: 229.0 EUR
 prodname: 'Energy Sistem Party 6 - Altavoz DJ con Bluetooth 240 W  Sistema de Sonido 2.1  Energy Music Power 600  Función Karaoke  Luces  Pantalla Led  USB  Micrófono  Panel de Control con Ecualizador '
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078H95DSM/?tag=tolees-21'
-descuento: '41.05'
+descuento: '44.45'
+average: '143.033'
 ---
 
-Ahora mismo tienes [Energy Sistem Party 6 - Altavoz DJ con Bluetooth 240 W  Sistema de Sonido 2.1  Energy Music Power 600  Función Karaoke  Luces  Pantalla Led  USB  Micrófono  Panel de Control con Ecualizador ](https://www.amazon.es/dp/B078H95DSM/?tag=tolees-21) a 135.0 EUR (original: 229.0 EUR) (41.05 %  de descuento) en el siguiente enlace!
+Tienes [Energy Sistem Party 6 - Altavoz DJ con Bluetooth 240 W  Sistema de Sonido 2.1  Energy Music Power 600  Función Karaoke  Luces  Pantalla Led  USB  Micrófono  Panel de Control con Ecualizador ](https://www.amazon.es/dp/B078H95DSM/?tag=tolees-21) con un 44.45 % de descuento con precio de oferta de 127.2 EUR (original: 229.0 EUR) en el siguiente enlace!
 
 [![Energy Sistem Party 6 - Altavoz DJ con B](https://m.media-amazon.com/images/I/41RIuiRXHhL._SL200_.jpg)](https://www.amazon.es/dp/B078H95DSM/?tag=tolees-21)
 
 ℹ️:
 
+- Energy Music Power 600: maximiza los graves y sube el volumen con sólo pulsar un botón en el momento que tú decidas
+- Sistema 2.1 con 240 W de potencia y luces LED que animarán todas tus fiestas
+- Entrada / salida RCA para poder conectar diferentes Energy Party 6 y ampliar tu red
+- Entradas para micrófono y guitarra, para poder conectar tus instrumentos musicales
+- Sonido sin ataduras: transfiere tu música sin cables y hasta 10 metros de distancia gracias a la tecnología Bluetooth 4.0
 
-[Visítala!!!](https://www.amazon.es/dp/B078H95DSM/?tag=tolees-21)
+[Accede a la oferta!!](https://www.amazon.es/dp/B078H95DSM/?tag=tolees-21)

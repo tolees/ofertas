@@ -25,8 +25,8 @@ Está [Nike Revolution 5  Running Shoe Unisex-Child  Black/White/Anthracite  35 
 
 ℹ️:
 
-- Forro blando.
-- Plantilla blanda
 - La suave suela intermedia de espuma proporciona una sensación suave y estable.
+- Plantilla blanda
+- Forro blando.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07NM6YMBV/?tag=tolees-21)
