@@ -26,7 +26,7 @@ En este momento está [Eastpak Benchmark Single Estuche  21 Cm  Gris  Sunday Gre
 🔎:
 
 - Altura: 6 cm, Ancho: 20.5 cm, Fondo: 7.5 cm
-- Fabricado con 60 % nylon y 40 % poliéster
 - Compartimento principal amplio para lápices y otros esenciales
+- Fabricado con 60 % nylon y 40 % poliéster
 
 [Aquí!!!](https://www.amazon.es/dp/B003PHF73A/?tag=tolees-21)

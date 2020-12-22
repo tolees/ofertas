@@ -25,13 +25,13 @@ Tienes [Panasonic TGC312SPB- Teléfono Fijo Inalámbrico Dúo  LCD  Identificado
 
 🔎:
 
-- Modo ECO con un toque: ahorra de la batería y del consumo de luz
-- Agenda de 50 nombres y números y rellamada de 10 números de memoria
-- Batería de 16h uso continuo y en espera de 200h
-- Diseño compacto y elegante: el teléfono es compacto como para ajustarse a espacios estrechos, su aspecto elegante queda bien con los interiores
-- Teléfono Single: para utilizarlo como supletorio de tus otros teléfonos fijos
-- DECT con pantalla : LCD 1.6"
-- Bloqueo de llamadas no deseadas: para dejar de recibir llamadas indeseadas
 - Fácil uso- Conéctalo a la corriente y listo
+- Batería de 16h uso continuo y en espera de 200h
+- Bloqueo de llamadas no deseadas: para dejar de recibir llamadas indeseadas
+- DECT con pantalla : LCD 1.6"
+- Agenda de 50 nombres y números y rellamada de 10 números de memoria
+- Diseño compacto y elegante: el teléfono es compacto como para ajustarse a espacios estrechos, su aspecto elegante queda bien con los interiores
+- Modo ECO con un toque: ahorra de la batería y del consumo de luz
+- Teléfono Single: para utilizarlo como supletorio de tus otros teléfonos fijos
 
 [Comprar!!!](https://www.amazon.es/dp/B00NW2R4XO/?tag=tolees-21)

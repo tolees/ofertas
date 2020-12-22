@@ -25,10 +25,10 @@ En este momento está [Intex 28038 - Cobertor piscina rectangular Prisma/small f
 
 🔎:
 
-- De color azul marino, está fabricado con vinilo resistente de 0;18 mm; El cobertor tiene pequeños orificios de drenaje para evitar acumulaciones de agua
-- Cobertor rectangular para piscinas desmontables Intex de las líneas Prisma y Small Frame
-- Compatible con la referencia: 28272
 - Incluye cuerda para sujetar el cobertor a la piscina ante situaciones climatológicas adversas como el viento
 - Cobertor para piscinas rectangulares de medidas 300 x 200 cm y con voladizo de 20 cm; Peso cobertor: 2 kg
+- De color azul marino, está fabricado con vinilo resistente de 0;18 mm; El cobertor tiene pequeños orificios de drenaje para evitar acumulaciones de agua
+- Compatible con la referencia: 28272
+- Cobertor rectangular para piscinas desmontables Intex de las líneas Prisma y Small Frame
 
 [Aquí!!!](https://www.amazon.es/dp/B00UHNCA3K/?tag=tolees-21)

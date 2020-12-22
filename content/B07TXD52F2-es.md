@@ -25,10 +25,10 @@ Ahora mismo tienes [3V-36V Motor mit zwei Anschlüssen für Gleichstrom-MOSFET I
 
 🔎:
 
-- Der Dirigent hat 0% -99% des PWM-Moduls und der Bedingung des Motorschutzes ausgeführt.
-- Puede controlar directamente dos motores de CC und la salida del motor utilizando diodos Schottky de ocho velocidades como protección.
 - Puede soportar una alta sobrecarga de corriente, la corriente máxima de hasta 30A.
-- Es wird ein Pull-up-Pin für 10K und ein Vin.ADR-Pin für den I2C-Dirección-Pin ausgegeben.?Es wird eine Best?tigungsnachricht für 10 K in der Reihenfolge der I2C-Voreinstellung für das Meer 0x44 gesendet.?Puede atar este pin a Vin para hacer la dirección 0x45.RST -Hardware restablece pinta.??Erstelle eine Tierra Para Hacer Un Reinicio De Hardware!?ALR - Alarm / Unterbrechungs-Salida.?Puede configurear el sensor para que le avise cuando ha ocurrido un evento.
 - Der Dirigent ist in der Lage, die richtige Leistung zu erbringen und die Dauer der Fahrt zu bestimmen.
+- Es wird ein Pull-up-Pin für 10K und ein Vin.ADR-Pin für den I2C-Dirección-Pin ausgegeben.?Es wird eine Best?tigungsnachricht für 10 K in der Reihenfolge der I2C-Voreinstellung für das Meer 0x44 gesendet.?Puede atar este pin a Vin para hacer la dirección 0x45.RST -Hardware restablece pinta.??Erstelle eine Tierra Para Hacer Un Reinicio De Hardware!?ALR - Alarm / Unterbrechungs-Salida.?Puede configurear el sensor para que le avise cuando ha ocurrido un evento.
+- Puede controlar directamente dos motores de CC und la salida del motor utilizando diodos Schottky de ocho velocidades como protección.
+- Der Dirigent hat 0% -99% des PWM-Moduls und der Bedingung des Motorschutzes ausgeführt.
 
 [Visítala!!!](https://www.amazon.es/dp/B07TXD52F2/?tag=tolees-21)

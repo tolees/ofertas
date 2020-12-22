@@ -25,8 +25,8 @@ Tienes [Salomon XA Pro 3D V8  Zapatillas De Trail Running Y Sanderismo Versión 
 
 🔎:
 
-- Color: Grape Leaf/Peat/Shadow
 - Salomon
+- Color: Grape Leaf/Peat/Shadow
 - Xa PRO 3D V8
 
 [Comprar!!!](https://www.amazon.es/dp/B07WM9FN79/?tag=tolees-21)

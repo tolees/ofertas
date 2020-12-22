@@ -25,10 +25,10 @@ Está [Fossil Reloj Cronógrafo para Mujer de Cuarzo con Correa en Piel ES4113](
 
 ℹ️:
 
-- Resistente al agua: 5 ATM
-- Material de la correa: piel
-- Ancho de la correa: 18 mm; circunferencia de la correa: 175 +/- 5 mm
 - Grosor de la caja: 12 mm; tamaño de la caja: 38 mm
 - Se presenta en lata Fossil ilustrada de coleccionista (varios diseños)
+- Material de la correa: piel
+- Ancho de la correa: 18 mm; circunferencia de la correa: 175 +/- 5 mm
+- Resistente al agua: 5 ATM
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01M8PURK6/?tag=tolees-21)

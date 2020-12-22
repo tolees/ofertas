@@ -25,10 +25,10 @@ En este momento está [SanDisk Ultra Flair Memoria flash USB 3.0 de 512 GB con 
 
 🔎:
 
-- Transfiere a la memoria hasta 15 veces más rápido que con las memorias usb 2.0 estándar
-- Carcasa de metal elegante y duradera
-- Transfiere una película en menos de 30 segundos
 - Protección con contraseña fácil de usar para tus archivos privados
+- Transfiere una película en menos de 30 segundos
+- Carcasa de metal elegante y duradera
 - Rendimiento usb 3.0 y altas velocidades de hasta 150 mb/s
+- Transfiere a la memoria hasta 15 veces más rápido que con las memorias usb 2.0 estándar
 
 [Aquí!!!](https://www.amazon.es/dp/B083ZRDXSQ/?tag=tolees-21)

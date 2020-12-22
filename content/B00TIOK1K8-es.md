@@ -25,9 +25,9 @@ En este momento está [Dolce & Gabbana Pour Homme Perfume Hombre - 200 ml](https
 
 🔎:
 
-- Nota de corazón: aromático y sorprendente, de lavanda, salvia y estragón
+- Nota de salida: fresca y cítrica compuesta por bergamota, mandarina y naranja
 - Nota de fondo: amaderado con sándalo, cedro y el componente masculino se lo ofrece el tabaco y el iris
 - Fragancia: aromática fougère
-- Nota de salida: fresca y cítrica compuesta por bergamota, mandarina y naranja
+- Nota de corazón: aromático y sorprendente, de lavanda, salvia y estragón
 
 [Aquí!!!](https://www.amazon.es/dp/B00TIOK1K8/?tag=tolees-21)
