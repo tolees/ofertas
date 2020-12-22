@@ -25,9 +25,9 @@ En este momento está [Vans Herren Classic T-Shirt  Weiß  WHITE-BLACK YB2   Med
 
 🔎:
 
-- Con cuello redondo
 - Hecha de material de 100% algodón
-- Camiseta de manga corta
+- Con cuello redondo
 - Con print personalizado en el frontal
+- Camiseta de manga corta
 
 [Aquí!!!](https://www.amazon.es/dp/B003XDU3IA/?tag=tolees-21)

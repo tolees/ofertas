@@ -25,8 +25,8 @@ Tienes [Daniel Wellington Classic Cornwall  Reloj Negro/Plateado  40mm  NATO  pa
 
 🔎:
 
-- Tamaño de Esfera: 40 mm
 - Diseñadas Suecia, las piezas de Daniel Wellington presentan un estilo escandinavo minimalista y son el regalo o accesorio personal óptimo para cada ocasión
+- Tamaño de Esfera: 40 mm
 - Correa intercambiable
 - Longitud de la correa ajustable: (Min - Max) 165-220mm
 
