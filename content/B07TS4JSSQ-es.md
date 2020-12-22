@@ -25,8 +25,8 @@ Tienes [NBA 2k20](https://www.amazon.es/dp/B07TS4JSSQ/?tag=tolees-21) con precio
 
 🔎:
 
-- Marca: Take Two Interactive Spain
 - Nba 2K20 Nintendo Switch
 - Producto de alta calidad
+- Marca: Take Two Interactive Spain
 
 [Comprar!!!](https://www.amazon.es/dp/B07TS4JSSQ/?tag=tolees-21)

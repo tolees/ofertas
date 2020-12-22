@@ -25,10 +25,10 @@ Ahora mismo tienes [Rii RK907 USB - Teclado con Cable  QWERTY español  Negro](h
 
 🔎:
 
-- Teclado ergonómico ideal tanto para trabajo y oficina como para hogar y escuela. Con teclas multimedia dedicadas. Construcción robusta de larga durabilidad, los soportes plegables mantienen sus manos en una posición de escritura más cómoda.
-- Teclas con perfil bajo para una pulsación más cómoda y silenciosa, diseño centrado en el escritorio，resistente a salpicaduras.
 - Conexión USB Plug&Play. Con membrana silenciosa y cómoda de pulsar.
-- Rii RK907 teclado USB posee tamaño completo, ultra delgado y compacto. Cuenta con cable y 105 teclas con teclado numérico. Una gama completa de funciones
 - Compatible con todos los Sistemas Operativos. Linux, Windows, Mac, Raspberry, etc.
+- Rii RK907 teclado USB posee tamaño completo, ultra delgado y compacto. Cuenta con cable y 105 teclas con teclado numérico. Una gama completa de funciones
+- Teclas con perfil bajo para una pulsación más cómoda y silenciosa, diseño centrado en el escritorio，resistente a salpicaduras.
+- Teclado ergonómico ideal tanto para trabajo y oficina como para hogar y escuela. Con teclas multimedia dedicadas. Construcción robusta de larga durabilidad, los soportes plegables mantienen sus manos en una posición de escritura más cómoda.
 
 [Visítala!!!](https://www.amazon.es/dp/B0832FHGKD/?tag=tolees-21)

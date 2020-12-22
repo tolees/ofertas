@@ -26,8 +26,8 @@ Está [Cif - Crema de limpieza - 750 ml](https://www.amazon.es/dp/B082VTPHF6/?ta
 ℹ️:
 
 - Aplique sobre las superficies con una esponja húmeda o un paño y limpia
+- Puede aplicarse incluso sobre esmalte y cerámica delicados
 - Cantidad del producto 750 ml
 - Limpia eficiente los retos de cal y las suciedades difíciles
-- Puede aplicarse incluso sobre esmalte y cerámica delicados
 
 [Ver la oferta!!](https://www.amazon.es/dp/B082VTPHF6/?tag=tolees-21)
