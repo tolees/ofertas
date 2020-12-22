@@ -25,11 +25,11 @@ Tienes [realme X50 Pro – Smartphone 5G de 6.44”  8 GB RAM + 128 GB ROM  proc
 
 🔎:
 
+- Procesador Qualcomm Snapdragon 865, 5G
+- Altavoces estéreo duales Dolby Atmos
+- Cuádruple Cámara AI de 64MP, zoom 20X
+- Sistema de enfriamiento de vapor
 - Pantalla de 6.44” Super AMOLED de 90Hz
 - Batería de 4200mAh con carga SuperDart de 65W
-- Procesador Qualcomm Snapdragon 865, 5G
-- Sistema de enfriamiento de vapor
-- Cuádruple Cámara AI de 64MP, zoom 20X
-- Altavoces estéreo duales Dolby Atmos
 
 [Comprar!!!](https://www.amazon.es/dp/B085PL99KG/?tag=tolees-21)

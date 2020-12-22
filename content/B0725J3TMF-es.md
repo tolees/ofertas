@@ -25,7 +25,7 @@ En este momento está [Sine Mora EX](https://www.amazon.es/dp/B0725J3TMF/?tag=to
 
 🔎:
 
-- Grafica, boss-fight e musiche epiche
 - Classico sparatutto e scorrimento interpretato in chiave moderna
+- Grafica, boss-fight e musiche epiche
 
 [Aquí!!!](https://www.amazon.es/dp/B0725J3TMF/?tag=tolees-21)
