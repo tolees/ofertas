@@ -26,9 +26,9 @@ Ahora mismo tienes [Jata PL618 Plancha de Vapor Inox Suela Inox con 386 Salidas 
 🔎:
 
 - Suela con diseño 3D: temperatura uniforme, vapor óptimo. Golpe de vapor. Max 80 g/min. Vapor nominal. Max 35 g/min. Vapor regulable. Vapor vertical
+- Suela inox con 386 salidas de vapor
 - Antigoteo. Autolimpieza. Antical permanente
 - Mandos independientes: vapor extra / spray. Termostato regulable de temperatura. Potencia de 2.600 W
-- Suela inox con 386 salidas de vapor
 - Capacidad del depósito de agua 300 ml, con tapa de seguridad. Cordón pivotante. Asa tacto goma. Indicador luminoso
 
 [Visítala!!!](https://www.amazon.es/dp/B01B8SXQ2Q/?tag=tolees-21)

@@ -26,7 +26,7 @@ Está [ATOYX AT-96 - Drone para niños](https://www.amazon.es/dp/B07MLF1XJH/?tag
 ℹ️:
 
 - Accesorio original: compatible con ATOYX AT-96 dron con cámara.
-- El paquete incluye: 4 hélices, 1 cable de carga USB, 1 destornillador, 1 tornillos.
 - Garantía: 12 meses.
+- El paquete incluye: 4 hélices, 1 cable de carga USB, 1 destornillador, 1 tornillos.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07MLF1XJH/?tag=tolees-21)

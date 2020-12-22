@@ -1,28 +1,38 @@
 ---
 layout: post
-title: 'Descuento del 33.38 % en realme X50 Pro – Smartphone 5G de 6.44” '
-date: 2020-12-01 15:45:56
+title: 'realme X50 Pro – Smartphone 5G de 6.44”  al 35.92 % de descuento'
+date: 2020-12-22 12:33:23
 image: 'https://m.media-amazon.com/images/I/5162nulqZjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B086DZ97YK-es'
-actualPrice: 499.0 EUR
+actualPrice: 479.99 EUR
 currency: EUR
-price: 499.0
+price: 479.99
 comparePrice: 749.0 EUR
-prodname: 'realme X50 Pro – Smartphone 5G de 6.44”  12 GB RAM + 256 GB ROM  procesador OctaCore Qualcomm Snapdragon 865  cuádruple cámara AI 64MP  MicroSD  Rust Red'
+prodname: 'realme X50 Pro – Smartphone 5G de 6.44”  12GB RAM + 256GB ROM  procesador OctaCore Qualcomm Snapdragon 865  cuádruple cámara AI 64MP  MicroSD  Rust Red'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B086DZ97YK/?tag=tolees-21'
-descuento: '33.38'
+descuento: '35.92'
+average: '509.99857142857144'
 ---
 
-Tienes [realme X50 Pro – Smartphone 5G de 6.44”  12 GB RAM + 256 GB ROM  procesador OctaCore Qualcomm Snapdragon 865  cuádruple cámara AI 64MP  MicroSD  Rust Red](https://www.amazon.es/dp/B086DZ97YK/?tag=tolees-21) con un 33.38 % de descuento con precio de oferta de 499.0 EUR (original: 749.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [realme X50 Pro – Smartphone 5G de 6.44”  12GB RAM + 256GB ROM  procesador OctaCore Qualcomm Snapdragon 865  cuádruple cámara AI 64MP  MicroSD  Rust Red](https://www.amazon.es/dp/B086DZ97YK/?tag=tolees-21) a 479.99 EUR (original: 749.0 EUR) (35.92 %  de descuento) en el siguiente enlace!
 
 [![realme X50 Pro – Smartphone 5G de 6.44” ](https://m.media-amazon.com/images/I/5162nulqZjL._SL200_.jpg)](https://www.amazon.es/dp/B086DZ97YK/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Batería de 4200mAh con carga SuperDart de 65W
+- Altavoces estéreo duales Dolby Atmos
+- Tecnología 5G
+- Móvil compatible con Portugal
+- Procesador Qualcomm Snapdragon 865
+- Sistema de enfriamiento de vapor
+- Pantalla de 6.44” Super AMOLED de 90Hz
+- 2 años de garantía del fabricante (ES)
+- Cuádruple Cámara AI de 64MP, zoom 20X
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B086DZ97YK/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B086DZ97YK/?tag=tolees-21)

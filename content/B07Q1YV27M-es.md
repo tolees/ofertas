@@ -25,10 +25,10 @@ Ahora mismo tienes [Lansay 64652 - Pistola láser de Buzz Ranger del Espacio  di
 
 🔎:
 
-- A partir de 4 años.
 - Contiene: 1 pistola.
-- Funciona con 2 pilas LR03 incluidas.
-- Super La pistola se ilumina y emite sonidos cuando se presiona el gatillo, como en la película.
 - Recupera las aventuras de Toy Story 4 con esta pistola láser de zuz.
+- Super La pistola se ilumina y emite sonidos cuando se presiona el gatillo, como en la película.
+- Funciona con 2 pilas LR03 incluidas.
+- A partir de 4 años.
 
 [Visítala!!!](https://www.amazon.es/dp/B07Q1YV27M/?tag=tolees-21)

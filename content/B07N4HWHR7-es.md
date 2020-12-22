@@ -25,10 +25,10 @@ Ahora mismo tienes [Educa  18238  Mesa De Diseño de luz Gorjuss Designer  color
 
 🔎:
 
-- Contiene: mesa de luz, librito de 32 páginas con modelos, patrones e instrucciones, lápiz y hoja con adhesivos
-- Recomendado a partir de 5 años
-- Crea tus diseños de Gorjuss con la mesa de luz, coloréalos y decóralos con los adhesivos
 - La colección Mesa De Diseño, Distroller estimula la fijación de la atención, desarrolla la psicomotricidad, creatividad e imaginación
+- Recomendado a partir de 5 años
+- Contiene: mesa de luz, librito de 32 páginas con modelos, patrones e instrucciones, lápiz y hoja con adhesivos
+- Crea tus diseños de Gorjuss con la mesa de luz, coloréalos y decóralos con los adhesivos
 - Requiere 3 pilas AAA (no incluidas)
 
 [Visítala!!!](https://www.amazon.es/dp/B07N4HWHR7/?tag=tolees-21)

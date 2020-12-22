@@ -25,15 +25,15 @@ Tienes [BigBen RR70PGB - Reloj con proyector  230 V  Pantalla LCD y Altavoces in
 
 ℹ️:
 
-- Alimentación mediante 230v
-- Proyector ajustable y reversible
-- Función repetición de alarma
-- Radio reloj despertador con proyector
-- Sintonizador digital fm
-- Pantalla lcd con retroiluminación
-- Función de calendario
-- Función alarma dual y función fin de semana
 - Despertador mediante zumbido y radio
+- Pantalla lcd con retroiluminación
+- Función alarma dual y función fin de semana
+- Proyector ajustable y reversible
+- Sintonizador digital fm
+- Alimentación mediante 230v
+- Función de calendario
 - Función de autoguardado de la hora con 2xaaa, no incluidas
+- Radio reloj despertador con proyector
+- Función repetición de alarma
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00TYAY0MQ/?tag=tolees-21)

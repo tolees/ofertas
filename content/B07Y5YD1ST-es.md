@@ -25,10 +25,10 @@ Está [Moleskine - Agenda Semanal Edición Limitada El Principito  Tema El Plane
 
 ℹ️:
 
-- Comienza el 2021 en compañía del dulce Principito, su amada rosa, el lindo zorro y las famosas citas de este gran clásico
-- La agenda semanal tiene una tapa dura y gráficos temáticos de El Principito - El Planeta. Cada agenda tiene un póster con citas e ilustraciones temáticas
-- Moleskine rinde homenaje a uno de los libros más famosos del mundo con esta edición limitada de "El Principito" de Antoine de Saint-Exupéry
-- La agenda posee las icónicas esquinas redondeadas, cierre elástico, cinta marcapáginas y el aviso "En caso de pérdida" en la primera página. Papel sin ácido de 70 g/m² de color marfil
 - El paquete incluye una agenda semanal de 12 meses de edición limitada de El Principito, con tapa dura y disponible en tamaño grande 13 x 21 cm, 144 páginas
+- La agenda semanal tiene una tapa dura y gráficos temáticos de El Principito - El Planeta. Cada agenda tiene un póster con citas e ilustraciones temáticas
+- La agenda posee las icónicas esquinas redondeadas, cierre elástico, cinta marcapáginas y el aviso "En caso de pérdida" en la primera página. Papel sin ácido de 70 g/m² de color marfil
+- Moleskine rinde homenaje a uno de los libros más famosos del mundo con esta edición limitada de "El Principito" de Antoine de Saint-Exupéry
+- Comienza el 2021 en compañía del dulce Principito, su amada rosa, el lindo zorro y las famosas citas de este gran clásico
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07Y5YD1ST/?tag=tolees-21)

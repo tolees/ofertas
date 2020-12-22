@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nikka - Whisky Japonés From The Barrel   al 33.73 % de descuento'
-date: 2020-12-21 06:00:48
+date: 2020-12-22 12:05:11
 image: 'https://m.media-amazon.com/images/I/31CMLCkwh4L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Está [Nikka - Whisky Japonés From The Barrel  50 cl](https://www.amazon.es/dp/
 
 ℹ️:
 
-- Potente y firme. Especiado. Con notas de madera. Recuerdos de fruta madura, manzana caramelizada y flores. Final largo.
-- Origen: Miyagikyo/Yoichi
-- Graduación: 51,4% vol.
 - Ideal para combinar con quesos curados, comidas grasas y chocolates.
 - Para disfrutar sólo con hielo, con agua o en formato cóctel con un refrescante Horses Neck.
+- Origen: Miyagikyo/Yoichi
+- Potente y firme. Especiado. Con notas de madera. Recuerdos de fruta madura, manzana caramelizada y flores. Final largo.
+- Graduación: 51,4% vol.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B001TZASVQ/?tag=tolees-21)

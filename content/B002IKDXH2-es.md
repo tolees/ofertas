@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Professional GBH 3-28 DFR - Martil al 51.35 % de descuento'
-date: 2020-11-23 09:32:23
+date: 2020-12-22 12:08:27
 image: 'https://m.media-amazon.com/images/I/5180xrs+tiL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,13 +16,19 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002IKDXH2/?tag=tolees-21'
 descuento: '51.35'
+average: '231.172'
 ---
 
-Está [Bosch Professional GBH 3-28 DFR - Martillo perforador  3 1 J  máx. hormigón 28 mm  portabrocas SDS plus + cilíndrico  en maletín ](https://www.amazon.es/dp/B002IKDXH2/?tag=tolees-21) con 51.35 de descuento por 228.99 EUR (original: 470.69 EUR) en el siguiente enlace!
+Ahora mismo tienes [Bosch Professional GBH 3-28 DFR - Martillo perforador  3 1 J  máx. hormigón 28 mm  portabrocas SDS plus + cilíndrico  en maletín ](https://www.amazon.es/dp/B002IKDXH2/?tag=tolees-21) a 228.99 EUR (original: 470.69 EUR) (51.35 %  de descuento) en el siguiente enlace!
 
 [![Bosch Professional GBH 3-28 DFR - Martil](https://m.media-amazon.com/images/I/5180xrs+tiL._SL200_.jpg)](https://www.amazon.es/dp/B002IKDXH2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Incluye: Paño para la máquina, portabrocas de cambio rápido de 13 mm, portabrocas intercambiable SDS plus, empuñadura adicional, tubo de grasa, maletín
+- El GBH 3-28 DFR ofrece un rápido avance de perforación y un alto rendimiento de cincelado
+- Martillo perforador GBH 3-28 DFR de Bosch Professional: alta potencia y mínimas vibraciones
+- El portabrocas intercambiable permite un cambio rápido entre taladrado con percusión (en hormigón) y sin percusión (en madera y metal)
+- Debido a las bajas vibraciones y la distribución equilibrada del peso, trabajar con el martillo perforador resulta extremadamente cómodo
 
-[Ver la oferta!!](https://www.amazon.es/dp/B002IKDXH2/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B002IKDXH2/?tag=tolees-21)

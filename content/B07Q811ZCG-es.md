@@ -26,8 +26,8 @@ Está [Homyl Soporte de Micrófono Diseño de Portátil de Negro con Diámetro d
 ℹ️:
 
 - Soporte de micrófono de escritorio.
-- Soporte superior de acero inoxidable para mantener el micrófono ultra estable.
-- Mejorado con una base de metal, moverlo sin causar ruido y dejar arañazos en la mesa.
 - Micrófono adecuado ≤3,8 cm.
+- Mejorado con una base de metal, moverlo sin causar ruido y dejar arañazos en la mesa.
+- Soporte superior de acero inoxidable para mantener el micrófono ultra estable.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07Q811ZCG/?tag=tolees-21)

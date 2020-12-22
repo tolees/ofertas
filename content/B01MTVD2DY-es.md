@@ -27,7 +27,7 @@ Ahora mismo tienes [adidas Vs Pace  Zapatillas Hombre  Azul Blanco  40 2/3 EU](h
 
 - Bolsillos canguro.
 - Mediasuela de EVA para una amortiguación más ligera y duradera.
-- Suela Traxion para una adherencia óptima en todas las direcciones.
 - Membrana GORE-TEX impermeable y transpirable.
+- Suela Traxion para una adherencia óptima en todas las direcciones.
 
 [Visítala!!!](https://www.amazon.es/dp/B01MTVD2DY/?tag=tolees-21)

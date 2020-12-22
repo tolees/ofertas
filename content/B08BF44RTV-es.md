@@ -26,9 +26,9 @@ Tienes [Rocket Arena Standard | Código Origin para PC](https://www.amazon.es/dp
 🔎:
 
 - Diseña nuevas tácticas especiales para tu bando, experimenta con una gran variedad de mapas dinámicos y descubre todas las dimensiones del juego de cohetes.
-- ¡Aprende a manejar las habilidades y los cohetes exclusivos de tu héroe si quieres triunfar en la arena y convertirte en la nueva estrella!Prueba cada uno de los héroes para ver sus puntos fuertes particulares.
-- ¡En este mundo, las reglas se escriben con tinta de combustible!
 - ¡Todo gira en torno a los cohetes! Llega Rocket Arena, un explosivo juego de disparos para 3c3 donde la acción no tiene límites.
 - ¿Quieres que encendamos ya la mecha?
+- ¡En este mundo, las reglas se escriben con tinta de combustible!
+- ¡Aprende a manejar las habilidades y los cohetes exclusivos de tu héroe si quieres triunfar en la arena y convertirte en la nueva estrella!Prueba cada uno de los héroes para ver sus puntos fuertes particulares.
 
 [Comprar!!!](https://www.amazon.es/dp/B08BF44RTV/?tag=tolees-21)
