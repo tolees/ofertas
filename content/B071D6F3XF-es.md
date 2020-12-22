@@ -25,10 +25,10 @@ En este momento está [Joseph Joseph Titan Cubo de Basura Compactador  Acero Ino
 
 🔎:
 
-- Integrado un filtro en la tapa para evitar los malos olores
 - Diseño elegante acabado en plata
-- Con el sistema compactador consigues almacenar hasta tres veces más los residuos
 - La estructura del pedal para su abertura ha sido testeada hasta 100.000 veces para asegurar su larga vida
+- Con el sistema compactador consigues almacenar hasta tres veces más los residuos
 - El sistema de Titan evita rasgar las bolsas y que se rompan al llenarlas o extraerlas del cubo
+- Integrado un filtro en la tapa para evitar los malos olores
 
 [Aquí!!!](https://www.amazon.es/dp/B071D6F3XF/?tag=tolees-21)

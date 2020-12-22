@@ -25,9 +25,9 @@ Ahora mismo tienes [Toy Story - Pack de Amigos Buzz 30 cm y Woody 40 cm  Bizak 6
 
 🔎:
 
-- Figura de woody de 40 cm de altura con cuerpo suave y gran cantidad de detalles
-- Fantastica figura de buzz de 30 cm con acción de karate
-- Pack con los dos personajes principales
 - Recrea las aventuras de la película
+- Fantastica figura de buzz de 30 cm con acción de karate
+- Figura de woody de 40 cm de altura con cuerpo suave y gran cantidad de detalles
+- Pack con los dos personajes principales
 
 [Visítala!!!](https://www.amazon.es/dp/B084HCJ3J2/?tag=tolees-21)

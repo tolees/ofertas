@@ -25,8 +25,8 @@ Está [Brabantia 333460 - Panera con Tapa Deslizante  tamaño Normal  Color Negr
 
 ℹ️:
 
-- Compacta ya que no utiliza espacio adicional cuando está abierta
 - Capacidad suficiente para dos bollos de pan
+- Compacta ya que no utiliza espacio adicional cuando está abierta
 - Panera duradera y sólida para guardar el pan
 - Base con superficie rugosa para una ventilación adecuada
 - Duradera, fabricada con material resistente a la corrosión

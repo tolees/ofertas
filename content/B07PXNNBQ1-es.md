@@ -25,9 +25,9 @@ Está [Lansay 64517 - Figura de Toy Story  72 figuras  multicolor   color/modelo
 
 ℹ️:
 
-- Recupera las aventuras de Toy Story con el famoso cubo de soldados versión "firma". El cubo contiene 72 soldados, 2 de ellos con paracaídas de plástico.
-- Las figuras son muy detalladas con diferentes armas y posiciones y se reproducen de forma idéntica a partir de los archivos digitales de disney-pixar.
 - Contiene: 72 soldados
+- Las figuras son muy detalladas con diferentes armas y posiciones y se reproducen de forma idéntica a partir de los archivos digitales de disney-pixar.
 - Tamaño de los soldados: 6 cm aprox.
+- Recupera las aventuras de Toy Story con el famoso cubo de soldados versión "firma". El cubo contiene 72 soldados, 2 de ellos con paracaídas de plástico.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07PXNNBQ1/?tag=tolees-21)
