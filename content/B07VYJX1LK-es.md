@@ -25,9 +25,9 @@ Está [Pepe Jeans Fringe Bolso Shopper Marrón 30x31x12 cms Piel Sintética](htt
 
 ℹ️:
 
-- Three inner pockets, one of them with zipper, to improve organization
-- Adjustable shoulder strap for comfort and carrying as a handbag
 - Bag 30 cm x 31 cm x 12 cm made of synthetic leather
+- Adjustable shoulder strap for comfort and carrying as a handbag
+- Three inner pockets, one of them with zipper, to improve organization
 - Front and back pocket for easy access to smaller personal effects
 - From Joumma Bags
 

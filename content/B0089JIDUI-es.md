@@ -25,10 +25,10 @@ Tienes [Kingston KVR16S11/8 - Memoria RAM de 8 GB  1600 MHz DDR3 Non-ECC CL11 SO
 
 🔎:
 
+- El cliente puede recibir color azul o verde
+- Han sido diseñadas y comprobadas con arreglo a las normas JEDEC, y le permitirá comprar memoria de acuerdo con las especificaciones.
 - Las memorias Kingston están testeadas al 100%
 - Por favor, comprobar la compatibilidad con Kingston antes comprar
 - 8GB 1600MHz DDR3 Non-ECC CL11 SODIMM, 204-pin, 1.5V
-- El cliente puede recibir color azul o verde
-- Han sido diseñadas y comprobadas con arreglo a las normas JEDEC, y le permitirá comprar memoria de acuerdo con las especificaciones.
 
 [Comprar!!!](https://www.amazon.es/dp/B0089JIDUI/?tag=tolees-21)

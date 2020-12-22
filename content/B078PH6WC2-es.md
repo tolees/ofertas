@@ -25,11 +25,11 @@ Ahora mismo tienes [Vans Ward - Zapatillas para Mujer  Negro  Suede/Canvas/Black
 
 🔎:
 
+- Cierre: Cordones
+- Material exterior: Cuero
 - Revestimiento: Tela
 - Material de la suela: Goma
-- Cierre: Cordones
 - Precio mínimo ofrecido por este vendedor en los 30 días anteriores a la oferta: 53.9€
 - Tipo de tacón: Plano
-- Material exterior: Cuero
 
 [Visítala!!!](https://www.amazon.es/dp/B078PH6WC2/?tag=tolees-21)

@@ -25,10 +25,10 @@ Tienes [ColiCor Conjunto de Luces Lluminación para Lego 76896 Speed Champions -
 
 🔎:
 
-- Iluminación LED para LEGO 76896
+- Contenido: 1 juego de luces para LEGO 76896 Speed Champions Nissan GT-R NISMO Racer. Solo se suministra luz LED, los juegos LEGO que se muestran en las imágenes no están incluidos
 - Fácil instalación: use unas pinzas pequeñas para instalar. Si se requieren instrucciones de instalación, las instrucciones de instalación en formato PDF se enviarán por correo electrónico.
 - Juego de luces para Speed Champions Nissan GT-R NISMO Racer / LEGO no incluido
 - Batería: funciona con batería de botón (no incluida)
-- Contenido: 1 juego de luces para LEGO 76896 Speed Champions Nissan GT-R NISMO Racer. Solo se suministra luz LED, los juegos LEGO que se muestran en las imágenes no están incluidos
+- Iluminación LED para LEGO 76896
 
 [Comprar!!!](https://www.amazon.es/dp/B08FJ8ZF4W/?tag=tolees-21)
