@@ -25,10 +25,10 @@ Está [POWERADD EnergyCell Powerbank 15000mAh Batería Externa Cargador Portáti
 
 ℹ️:
 
-- Cuenta con 2 salida de alta velocidad,cargar 2 dispositivos a la vez, ahorra el espacio y su tiempo, es muy practica para hogar, oficina,y etc.
 - Paquete contenido:EnergyCell 15000mAh,cable de micro usb,usuario manual,tarjeta de bienvenido, bolsa de almacenamiento
-- Con gran capacidad como 15000mah,puede cargar iPhone 11 3 veces, Samsung S9 2 veces, HUAWEI Mate 20 2 veces.
+- Cuenta con 2 salida de alta velocidad,cargar 2 dispositivos a la vez, ahorra el espacio y su tiempo, es muy practica para hogar, oficina,y etc.
 - Batería de alta calidad: use la batería de iones de litio de LG que tiene alta confiabilidad y estabilidad también tiene múltiple protección y más seguro.
+- Con gran capacidad como 15000mah,puede cargar iPhone 11 3 veces, Samsung S9 2 veces, HUAWEI Mate 20 2 veces.
 - 2 salida de alta velocidad hasta 3.1A, más rápida que el otro cargador portátil de 15000mAh,rápidomente y eficantecante estabilidad también tiene múltiple protección y más seguro.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07XYV46RS/?tag=tolees-21)

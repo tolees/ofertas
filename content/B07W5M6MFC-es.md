@@ -25,15 +25,15 @@ Está [Control Wild Nature 3 en 1 - Gel de masaje corporal con aroma a té negro
 
 ℹ️:
 
-- Formato 200 ml. Fabricado en Italia
-- Hidratante e hipoalergénico
+- Incluye tapón masajeador fácil de limpiar
 - El contacto oral no supone un riesgo
 - No es graso, no mancha y es fácil de eliminar con agua
 - Compatible con el uso del preservativo
+- Hidratante e hipoalergénico
+- Formato 200 ml. Fabricado en Italia
 - Sin azúcar, sin gluten
+- Gel de masaje 3 en 1 de base acuosa con ingredientes naturales para masajes, uso en zonas íntimas y textura para estimulación
 - Aroma a té negro
 - Ideal para añadir un extra de sensualidad y estimulación en tus relaciones
-- Incluye tapón masajeador fácil de limpiar
-- Gel de masaje 3 en 1 de base acuosa con ingredientes naturales para masajes, uso en zonas íntimas y textura para estimulación
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07W5M6MFC/?tag=tolees-21)

@@ -25,11 +25,11 @@ Ahora mismo tienes [Lékué Botella Vidrio con Funda de Silicona  Turquesa  600 
 
 🔎:
 
-- Reduce el consumo de botellas de plástico
-- Vidrio de alta calidad (borosilicato)
-- Permite abrir y cerrar la botella por la parte inferior o por la embocadura; de esta manera fácil itamos el llenado y la limpieza
 - Capacidad para 600 ml
+- Reduce el consumo de botellas de plástico
 - 100 % hermético
+- Vidrio de alta calidad (borosilicato)
 - Recubrimiento de goma antideslizante y anti - impacto
+- Permite abrir y cerrar la botella por la parte inferior o por la embocadura; de esta manera fácil itamos el llenado y la limpieza
 
 [Visítala!!!](https://www.amazon.es/dp/B07Q62NFMN/?tag=tolees-21)

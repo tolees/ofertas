@@ -25,10 +25,10 @@ En este momento está [Durex Preservativos Invisible Extra Fino Extra Sensitivo 
 
 🔎:
 
-- FORMA RECTA: Preservativos de forma recta y depósito
 - PERÍMETRO AJUSTADO: Anchura nominal de 52 mm
-- CONDONES LUBRICADOS: Lubricación de silicona
 - SUPER FINOS: Grosor super fino para así maximizar la sensibilidad en tus relaciones
 - PRESERVATIVOS INVISIBLES, EXTRA SENSITIVOS: Maximiza la sensibilidad ofreciendo un alto nivel de seguridad y protección
+- FORMA RECTA: Preservativos de forma recta y depósito
+- CONDONES LUBRICADOS: Lubricación de silicona
 
 [Aquí!!!](https://www.amazon.es/dp/B01B4BF78S/?tag=tolees-21)

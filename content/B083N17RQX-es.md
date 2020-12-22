@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Terminator: Destino Oscuro [Blu-ray] al 52.60 % de descuento'
-date: 2020-12-21 19:50:41
+date: 2020-12-22 20:45:09
 image: 'https://m.media-amazon.com/images/I/51ahVUZcFQL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B083N17RQX/?tag=tolees-21'
 descuento: '52.60'
-average: '11.299999999999999'
+average: '11.171428571428569'
 ---
 
 Ahora mismo tienes [Terminator: Destino Oscuro [Blu-ray]](https://www.amazon.es/dp/B083N17RQX/?tag=tolees-21) a 9.95 EUR (original: 20.99 EUR) (52.60 %  de descuento) en el siguiente enlace!

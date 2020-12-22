@@ -25,10 +25,10 @@ Tienes [Beurer MP62 - Set manicura pedicura Profesional  luz LED  10 accesorios 
 
 🔎:
 
-- Velocidad de 2.000 U/min – 5.400 U/min
-- 10 accesorios incluidos
-- Estuche incluido
-- Giro hacia a la derecha y a la izquierda
 - Con luz LED brillante
+- 10 accesorios incluidos
+- Giro hacia a la derecha y a la izquierda
+- Velocidad de 2.000 U/min – 5.400 U/min
+- Estuche incluido
 
 [Comprar!!!](https://www.amazon.es/dp/B00N9BOOZ4/?tag=tolees-21)

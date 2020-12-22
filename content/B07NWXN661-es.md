@@ -25,10 +25,10 @@ Está [KODAK Smile Cámara digital de impresión instantánea  Cámara de 10MP q
 
 ℹ️:
 
-- Llévate una sonrisa, ve al milímetro, no más correr fuera de pilas, su cámara de impresión instantánea es recargable a través del cable mini USB incluido, disfruta de hasta 40 impresiones en una sola carga mientras que también ve y edita fotos en memoria o en formato MicroSD
-- Características de usuario - ya sea un niño curioso o adulto feliz, la cámara de 10 mp hace que sea fácil de tomar, editar y compartir fotos en cualquier lugar, los pernos incluyen auto flash, visor LCD, editor integrado, 2 modos de imagen y enfoque fijo
-- Aspecto feliz que no sea bueno en ti, pasa hacia fuera con estilo con una mini cámara de impresoras combo que es ligera, delgada y pequeña como un teléfono, cuando no está en su bolsillo o bolsa, utiliza la ranura de la correa para llevar, luego desliza abierta para capturar el momento rápidamente, incluye 5 marcos de pegatinas
 - Así que muchas razones para sonreír – la cámara digital kodak smile instant print lleva un paquete de cheer a cualquier ajuste, la cámara utiliza la tecnología de tinta cero para imprimir fotos de calidad HD en papel fotográfico de 5 x 7, 6 cm con base adhesiva de zink
+- Aspecto feliz que no sea bueno en ti, pasa hacia fuera con estilo con una mini cámara de impresoras combo que es ligera, delgada y pequeña como un teléfono, cuando no está en su bolsillo o bolsa, utiliza la ranura de la correa para llevar, luego desliza abierta para capturar el momento rápidamente, incluye 5 marcos de pegatinas
+- Características de usuario - ya sea un niño curioso o adulto feliz, la cámara de 10 mp hace que sea fácil de tomar, editar y compartir fotos en cualquier lugar, los pernos incluyen auto flash, visor LCD, editor integrado, 2 modos de imagen y enfoque fijo
+- Llévate una sonrisa, ve al milímetro, no más correr fuera de pilas, su cámara de impresión instantánea es recargable a través del cable mini USB incluido, disfruta de hasta 40 impresiones en una sola carga mientras que también ve y edita fotos en memoria o en formato MicroSD
 - Diseño deslizante de moda – a diferencia de otras cámara s de impresión instantánea voluminosas, la sonrisa es agradable y compacta con una funda protectora deslizante única, la carcasa de poliresina duradera se desliza abierta para revelar una lente de 8 mm con enfoque automático
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07NWXN661/?tag=tolees-21)

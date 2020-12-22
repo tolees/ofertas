@@ -25,10 +25,10 @@ Ahora mismo tienes [Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa e
 
 🔎:
 
-- Caja: acero inoxidable plateado
-- Sumergible: 5 bares
-- Diámetro de la caja: 44 mm
 - Material de la correa: piel azul y rojo
 - Esfera blanca con índices y manecillas azules y detalles rojos
+- Sumergible: 5 bares
+- Caja: acero inoxidable plateado
+- Diámetro de la caja: 44 mm
 
 [Visítala!!!](https://www.amazon.es/dp/B07GDS8B7X/?tag=tolees-21)

@@ -25,9 +25,9 @@ Está [Brabantia Cepillo Fregaplatos con Soporte de Ventosa  Gris Oscuro  11 x 2
 
 ℹ️:
 
-- Con una práctica espátula a la que no se le resisten ni los restos más incrustados
-- Dimensiones: 23 x 11 x 6 cm
 - Este cepillo lavaplatos viene con un robusto soporte con ventosa
+- Dimensiones: 23 x 11 x 6 cm
 - Mango ergonómico y agarre seguro
+- Con una práctica espátula a la que no se le resisten ni los restos más incrustados
 
 [Ver la oferta!!](https://www.amazon.es/dp/B079P31TVW/?tag=tolees-21)

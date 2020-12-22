@@ -25,8 +25,8 @@ Ahora mismo tienes [Xiaomi GPX4015RT  2.1 W  Lightstrip Plus](https://www.amazon
 
 🔎:
 
-- Lightstrip Plus
 - DESCONOCIDO
+- Lightstrip Plus
 - Xiaomi
 
 [Visítala!!!](https://www.amazon.es/dp/B07YCQVRVQ/?tag=tolees-21)

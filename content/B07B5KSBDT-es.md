@@ -26,8 +26,8 @@ Tienes [L Oréal Paris Make-up designer Wake Up & Glow Colorete Universal 01 Ecl
 ℹ️:
 
 - Con un aroma espectacular
-- Aplica en el rostro con la ayuda de una brocha ancha y difumina
 - Añade un toque de color a tus mejillas con efecto glow
+- Aplica en el rostro con la ayuda de una brocha ancha y difumina
 - Apariencia fresca y natural
 - Ingredientes de origen natural con aceite de coco y melocotón para un aspecto saludable
 

@@ -27,7 +27,7 @@ Ahora mismo tienes [TRIXIE Anti Bolas Pelo  Malta y Queso  100 g  Gato](https://
 
 - Número de modelo del producto: 4011905427386
 - facil de usar
-- Anti Bolas Pelo
 - 100 g
+- Anti Bolas Pelo
 
 [Visítala!!!](https://www.amazon.es/dp/B00UFMEE82/?tag=tolees-21)

@@ -26,7 +26,7 @@ Tienes [adidas CON20 WRM Top Sudadera  Hombre  Black/White  L](https://www.amazo
 ℹ️:
 
 - Adidas logo
-- Regular fit
 - Soft fabric
+- Regular fit
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B081SHMNS5/?tag=tolees-21)
