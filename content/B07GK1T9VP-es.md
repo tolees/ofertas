@@ -26,9 +26,9 @@ Tienes [Merge Cube Juguete STEM de Realidad Aumentada - Juegos Educativos para e
 🔎:
 
 - Encuentra aplicaciones gratuitas y de pago y juegos educativos en Miniverse online; desentierra un dinosaurio, resuelve un cubo de Rubik virtual, construye un mundo Minecraft, aprende ciencia y más
-- Las aplicaciones educativas de Merge son gratuitas, sin embargo, el contenido y las funciones adicionales requieren una suscripción
-- Con el Visor de Objetos Merge puedes subir, ver y compartir cualquier objeto 3D en el Cubo Merge; incluye características como colecciones privadas de objetos y grabación de pantalla; hay una versión gratis y un periodo de prueba gratis disponibles
-- Sostén cualquier cosa con el Cubo de Fusión; es usado por escuelas en aulas, bibliotecas, espacios creativos, en casa, escuelas en línea y aprendizaje a distancia; para involucrar a los niños en lecciones prácticas de ciencia, ingeniería, arte y más, donde quiera que estén
 - Con Merge Explorer; los estudiantes aprenden por medio de la realidad aumentada práctica usando esta aplicación STEM alineada con los estándares para sostener el sistema solar, explorar el ADN, jugar juegos matemáticos, investigar la tectónica de placas, diseccionar una rana, y más; hay una versión gratis y un periodo de prueba gratis disponibles
+- Sostén cualquier cosa con el Cubo de Fusión; es usado por escuelas en aulas, bibliotecas, espacios creativos, en casa, escuelas en línea y aprendizaje a distancia; para involucrar a los niños en lecciones prácticas de ciencia, ingeniería, arte y más, donde quiera que estén
+- Con el Visor de Objetos Merge puedes subir, ver y compartir cualquier objeto 3D en el Cubo Merge; incluye características como colecciones privadas de objetos y grabación de pantalla; hay una versión gratis y un periodo de prueba gratis disponibles
+- Las aplicaciones educativas de Merge son gratuitas, sin embargo, el contenido y las funciones adicionales requieren una suscripción
 
 [Comprar!!!](https://www.amazon.es/dp/B07GK1T9VP/?tag=tolees-21)

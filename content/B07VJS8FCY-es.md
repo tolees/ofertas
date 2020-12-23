@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lee Extreme Motion Straight Jeans  Theo  con un 57.68 % de descuento'
-date: 2020-12-22 07:23:20
+date: 2020-12-23 09:06:22
 image: 'https://m.media-amazon.com/images/I/416RA5UoULL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ En este momento está [Lee Extreme Motion Straight Jeans  Theo  32W / 34L para H
 
 🔎:
 
-- Clasico botón tipo “donut”
 - Tejido elástico
+- Clasico botón tipo “donut”
 - Cintura flexible
 
 [Aquí!!!](https://www.amazon.es/dp/B07VJS8FCY/?tag=tolees-21)

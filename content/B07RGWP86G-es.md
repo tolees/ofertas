@@ -26,9 +26,9 @@ Está [Toy Story Figura Articulada Buzz Lightyear con Voz 30 cm  BIZAK 61234070 
 ℹ️:
 
 - Casco retráctil y botones pulsables
-- Habla en español
 - Con sonido y ¡20 frases de la película!
-- Altura de 30 cm
+- Habla en español
 - No recomendado para menores de 4 años
+- Altura de 30 cm
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07RGWP86G/?tag=tolees-21)

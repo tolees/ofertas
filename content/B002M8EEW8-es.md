@@ -25,11 +25,11 @@ En este momento está [AKAI Professional LPD8 - Controlador USB MIDI portátil c
 
 🔎:
 
+- Conexión USB plug-and-play para Mac y PC
 - Ocho knobs MPC Q-Link para mapeo contínuo de parámetros de tu DAW, instrumentos virtuales y efectos para un control práctico y expresivo durante las interpretaciones
+- Cuatro bancos de memoria programables para un mapeo instantáneo de tu DAW, instrumentos virtuales, efectos y mucho más
 - Pad controlador fino y ultra-portátil de 33 cm con 8 drum-pads sensibles a la velocidad, retro-iluminados para disparar samples, loops, controlar instrumentos virtuales y mucho más
 - La experiencia de la producción musical MPC - incluye el software MPC Beats que ofrece las mejores prestaciones y herramientas de producción típicas de la serie MPC de AKAI Professional
-- Cuatro bancos de memoria programables para un mapeo instantáneo de tu DAW, instrumentos virtuales, efectos y mucho más
-- Conexión USB plug-and-play para Mac y PC
 - Diseño ligero, ultra-portátil que se guarda perfectamente en la mochila de tu portátil para que produzcas allá donde estés
 
 [Aquí!!!](https://www.amazon.es/dp/B002M8EEW8/?tag=tolees-21)

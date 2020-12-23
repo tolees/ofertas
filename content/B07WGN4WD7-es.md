@@ -25,9 +25,9 @@ Ahora mismo tienes [Reloj Seiko para Hombre  Negro  Specialist  5K3](https://www
 
 🔎:
 
-- Material de la esfera: Hardlex
-- Pulsera: Plástico Negro
 - Cierre: Hebilla
+- Pulsera: Plástico Negro
+- Material de la esfera: Hardlex
 - Color de la esfera: Negro
 - Material de la caja: Acero inoxidable
 

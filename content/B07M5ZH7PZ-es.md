@@ -25,8 +25,8 @@ Ahora mismo tienes [Lee Luke Pants Jeans  Moto Black HL  28W / 32L para Hombre](
 
 🔎:
 
+- Vaqueros para hombre
 - Tienen un parche de piel en la parte trasera con la marca Lee
 - Estilo 5 bolsillos
-- Vaqueros para hombre
 
 [Visítala!!!](https://www.amazon.es/dp/B07M5ZH7PZ/?tag=tolees-21)

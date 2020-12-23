@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Elite Novo Force - Rodillo magnético de  al 40.10 % de descuento'
-date: 2020-12-22 08:26:22
+date: 2020-12-23 09:17:15
 image: 'https://m.media-amazon.com/images/I/41e2ixlA0LL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Está [Elite Novo Force - Rodillo magnético de ciclismo  sistema de fijación r
 
 ℹ️:
 
-- 8 niveles de resistencia magnética
 - El rodillo se pliega fácilmente y se vuelve compacto para facilitar su transporte o almacenamiento cuando no esté en uso
-- Compatible con Misuro B+ y App My E-Training
-- Chasis compatible con ruedas de 24" a 29"
 - Rodillo de elastogel del diámetro de 30 mm
+- Chasis compatible con ruedas de 24" a 29"
+- 8 niveles de resistencia magnética
+- Compatible con Misuro B+ y App My E-Training
 
 [Ver la oferta!!](https://www.amazon.es/dp/B006JYDIBO/?tag=tolees-21)

@@ -25,10 +25,10 @@ En este momento está [WMF Set de dos sartenes Devil 24 cm y 28 cm  con antiadhe
 
 🔎:
 
-- Las sartenes se pueden utilizar en todo tipo de fuegos: inducción, gas, eléctrica, vitrocerámica. Gracias a la óptima distribución del calor, nada se quema en cualquier plato.
 - Garantía del fabricante: 2 años de garantía sobre material, procesamiento y antiadherencia. Las condiciones de garantía se pueden encontrar bajo más información técnica.
 - La base (TransTherm) garantiza una larga conservación del calor, ideal para asar crujientes con poca grasa. Manejo seguro gracias al mango ergonómico de plástico con protección contra llamas.
-- Contenido: 2 sartenes con revestimiento de 24 cm (Altura 5 cm), 28 cm (Altura 5,5 cm) – Ideal para placas con diámetro de 18 cm, 22 cm – Número de artículo: 0733026299.
 - Material: acero inoxidable Cromargan 18/10. Revestimiento antiadherente PTFE (PermaDur). Cocina sin pegar. Resistente al calor hasta 270 °C, apto para horno hasta 70 °C.
+- Las sartenes se pueden utilizar en todo tipo de fuegos: inducción, gas, eléctrica, vitrocerámica. Gracias a la óptima distribución del calor, nada se quema en cualquier plato.
+- Contenido: 2 sartenes con revestimiento de 24 cm (Altura 5 cm), 28 cm (Altura 5,5 cm) – Ideal para placas con diámetro de 18 cm, 22 cm – Número de artículo: 0733026299.
 
 [Aquí!!!](https://www.amazon.es/dp/B074HF33ZP/?tag=tolees-21)
