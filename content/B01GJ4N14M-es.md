@@ -25,10 +25,10 @@ Tienes [Essie Pintauñas Blanco Rosado Gel Couture Efecto Gel Larga Duración To
 
 🔎:
 
-- Larga duración hasta 12 días (aplicando el top coat cada 2 días)
-- Manicura efecto gel sin salir de casa y en solo 2 pasos: color Gel Couture y Top Coat
-- Aplicación súper fácil sin necesidad de lámpara UV; aplicar una base en una uña limpia, aplicar 2 capas de color Gel Couture y aplicar el Top Coat Gel Couture cada 2 días
-- Colores lujosos con pigmentos puros, elegidos por expertos e ideales para cualquier ocasión
 - Aplicación precisa gracias al cepillo con tallo retorcido
+- Aplicación súper fácil sin necesidad de lámpara UV; aplicar una base en una uña limpia, aplicar 2 capas de color Gel Couture y aplicar el Top Coat Gel Couture cada 2 días
+- Manicura efecto gel sin salir de casa y en solo 2 pasos: color Gel Couture y Top Coat
+- Larga duración hasta 12 días (aplicando el top coat cada 2 días)
+- Colores lujosos con pigmentos puros, elegidos por expertos e ideales para cualquier ocasión
 
 [Comprar!!!](https://www.amazon.es/dp/B01GJ4N14M/?tag=tolees-21)

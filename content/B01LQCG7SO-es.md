@@ -25,12 +25,12 @@ Ahora mismo tienes [Original Buff Knitted & Polar Neckwarmer Airon  Braga De Cue
 
 🔎:
 
-- Línea completa de forro suave, tejido con fibra de baja densidad; contiene bolsas de aire que regulan la calidez y el flujo de aire
 - Tipo de deporte: Ropa deportiva al aire libre
-- Instrucciones de cuidado: lavar a mano
-- Línea completa de forro suave, tejido con fibra de baja densidad; contiene bolsas de aire que regulan la calidez y el flujo de aire
 - Tipo de fábrica: 100% acrílico, forro: 85% poliéster reciclado, 15% poliéster
 - Tipo de deporte: ropa deportiva al aire libre
+- Instrucciones de cuidado: lavar a mano
+- Línea completa de forro suave, tejido con fibra de baja densidad; contiene bolsas de aire que regulan la calidez y el flujo de aire
+- Línea completa de forro suave, tejido con fibra de baja densidad; contiene bolsas de aire que regulan la calidez y el flujo de aire
 - Línea completa de forro suave, tejido con fibra de baja densidad; contiene bolsas de aire que regulan la calidez y el flujo de aire
 
 [Visítala!!!](https://www.amazon.es/dp/B01LQCG7SO/?tag=tolees-21)

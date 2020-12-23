@@ -25,8 +25,8 @@ En este momento está [Buff Trek Cap Gorra  Unisex-Adult  Brown  S/M](https://ww
 
 🔎:
 
-- Diseño estampado en el reverso de la visera
 - Gorra de trekking ideal para disfrutar de la naturaleza
+- Diseño estampado en el reverso de la visera
 - Varias tallas disponibles para un mejor ajuste
 
 [Aquí!!!](https://www.amazon.es/dp/B082LBDW88/?tag=tolees-21)

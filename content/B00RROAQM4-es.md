@@ -25,10 +25,10 @@ Tienes [Instituto Español Poseidon Gold Eau de Toilette para Hombre - Set Colon
 
 🔎:
 
+- Dirigido a un hombre moderno y elegante.
 - Disfruta de un aroma sofisticado y armonioso.
 - El set contiene: Eau de Toilette 150 ml, After Shave 150 ml.
-- Fabricado por Instituto Español, expertos perfumistas desde 1903.
 - Gran durabilidad.
-- Dirigido a un hombre moderno y elegante.
+- Fabricado por Instituto Español, expertos perfumistas desde 1903.
 
 [Comprar!!!](https://www.amazon.es/dp/B00RROAQM4/?tag=tolees-21)

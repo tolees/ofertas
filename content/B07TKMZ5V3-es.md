@@ -25,10 +25,10 @@ En este momento está [Borras-Un Año en Hogwarts Mesa Harry Potter  4 Modos de 
 
 🔎:
 
-- Juego de mesa para los verdaderos amantes de Harry Potter. Participa en partidos de Quidditch, enfréntate a duelos, haz tus exámenes y lleva a cabo tus misiones. Revive todas las aventuras de Harry Potter y sus amigos para ganar el juego
 - 3 modos de juego distintos según el nivel de conocimientos: modo magos jóvenes, modo magos expertos y el regreso de Voldemort.
-- Contenido del juego: 1 tablero principal, 1 tablero de ubicaciones, 1 tablero del callejón diagon, 1 tablero de quidditch, 210 cartas (acción, combate, duelo, eventos, libro, poción, quidditch, hechizo), 30 cartas de "misión", 30 fichas de "objeto", 6 fichas "mortífagos", 60 fichas de "copa de las casas", 20 fichas de "polvos flu", 10 fichas de "traslator", 70 fichas de puntos de vida, 15 hojas de jugadores y 15 fichas de jugadores
-- Objetivo principal del juego: los estudiantes de Gryffindor, Ravenclaw, Hufflepuff y Slytherin competirán entre ellos para conseguir la copa de las casas completando diferentes misiones
 - Recomendado a partir de 7 años
+- Contenido del juego: 1 tablero principal, 1 tablero de ubicaciones, 1 tablero del callejón diagon, 1 tablero de quidditch, 210 cartas (acción, combate, duelo, eventos, libro, poción, quidditch, hechizo), 30 cartas de "misión", 30 fichas de "objeto", 6 fichas "mortífagos", 60 fichas de "copa de las casas", 20 fichas de "polvos flu", 10 fichas de "traslator", 70 fichas de puntos de vida, 15 hojas de jugadores y 15 fichas de jugadores
+- Juego de mesa para los verdaderos amantes de Harry Potter. Participa en partidos de Quidditch, enfréntate a duelos, haz tus exámenes y lleva a cabo tus misiones. Revive todas las aventuras de Harry Potter y sus amigos para ganar el juego
+- Objetivo principal del juego: los estudiantes de Gryffindor, Ravenclaw, Hufflepuff y Slytherin competirán entre ellos para conseguir la copa de las casas completando diferentes misiones
 
 [Aquí!!!](https://www.amazon.es/dp/B07TKMZ5V3/?tag=tolees-21)

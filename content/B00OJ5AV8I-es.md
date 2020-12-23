@@ -26,9 +26,9 @@ En este momento está [Sabrent Adaptador Externo de Sonido estéreo de Aluminio 
 🔎:
 
 - Funcionalidad Plug and Play, incluye cable USB de extensión de 2 pies
+- Audio de alta calidad (entrada / salida) a una frecuencia de muestreo de 48KHz / 44.1KHz con resolución de 16 bits
 - Incluye un cable de extensión USB de 2 pies de largo
 - Compatible con Windows: XP/Vista/7/8/8.1/10 (Tanto 32-bit como 64-bit) Mac OS 8.6 o superior
-- Audio de alta calidad (entrada / salida) a una frecuencia de muestreo de 48KHz / 44.1KHz con resolución de 16 bits
 - La carcasa reforzada de aluminio premium coincide con el Macbook / Ultrabook
 
 [Aquí!!!](https://www.amazon.es/dp/B00OJ5AV8I/?tag=tolees-21)
