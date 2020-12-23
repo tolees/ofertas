@@ -25,10 +25,10 @@ En este momento está [Nox Hummer H-240CL -NXHUMMERH240CL- Refrigeración líqui
 
 🔎:
 
-- Ventilador, Rodamiento, Hidráulico-Velocidad ventilador 800 ~ 2000 RPM-Flujo de aire 88.3 CFM (máximo)-Presión estática 2.2 mm H2O (máximo)-Nivel sonoro < 25.0 dBA (máximo)-Voltaje 12 V
-- Compatible con Intel y AMD.Ventilador de 120 mm con control PWM.Radiador doble con base de aluminio
-- Bloque CPU58(Al) x 58(An) x 34.65(Pr) mm.Material Cobre (base), plástico (cuerpo ppal., carcasa).BombaCojinete Cerámico.Velocidad del motor 2500 RPM ± 10%.Voltaje 12 V
 - Socket Intel Intel LGA 775 / 1155 / 1156 / 1151 / 1150 / 1366 / 2011 (Core i3, i5, i7).Socket AMD FM2 / FM1 / AM3+ / AM3 / AM2+ / AM2 / AM4
+- Bloque CPU58(Al) x 58(An) x 34.65(Pr) mm.Material Cobre (base), plástico (cuerpo ppal., carcasa).BombaCojinete Cerámico.Velocidad del motor 2500 RPM ± 10%.Voltaje 12 V
+- Compatible con Intel y AMD.Ventilador de 120 mm con control PWM.Radiador doble con base de aluminio
+- Ventilador, Rodamiento, Hidráulico-Velocidad ventilador 800 ~ 2000 RPM-Flujo de aire 88.3 CFM (máximo)-Presión estática 2.2 mm H2O (máximo)-Nivel sonoro < 25.0 dBA (máximo)-Voltaje 12 V
 - Bomba con base de cobre.Fácil montaje e instalación
 
 [Aquí!!!](https://www.amazon.es/dp/B075DLNCL3/?tag=tolees-21)

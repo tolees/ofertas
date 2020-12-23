@@ -25,9 +25,9 @@ Ahora mismo tienes [Razer Sphex V2  Alfombrilla Gaming Con Diseño Chroma  M  Ch
 
 🔎:
 
-- Alfombrilla de ratón de juego; formato ultra fino 0,5 mm / 0,02"; para una experiencia de inmersión total
-- La superficie de policarbonato de alta resistencia de la Razer Sphex V2 ha sido sometida a exigentes pruebas de impactos, desgaste y roturas
-- Superficie de juego optimizada para sensores; diseñada especialmente para sensores láser y ópticos
 - Acabado de policarbonato de alta resistencia; diseñada para una máxima durabilidad
+- La superficie de policarbonato de alta resistencia de la Razer Sphex V2 ha sido sometida a exigentes pruebas de impactos, desgaste y roturas
+- Alfombrilla de ratón de juego; formato ultra fino 0,5 mm / 0,02"; para una experiencia de inmersión total
+- Superficie de juego optimizada para sensores; diseñada especialmente para sensores láser y ópticos
 
 [Visítala!!!](https://www.amazon.es/dp/B06WVCC2XR/?tag=tolees-21)

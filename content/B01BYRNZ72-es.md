@@ -25,8 +25,8 @@ Ahora mismo tienes [Fantasy Flight Games- Star Wars Imperial Assault  Sombras Ge
 
 🔎:
 
-- Sombras gemelas lleva tu experiencia de Imperial Assault al desolado planeta Tatooine
 - Producto en castellano
+- Sombras gemelas lleva tu experiencia de Imperial Assault al desolado planeta Tatooine
 - La oscuridad se cierne sobre Tatooine
 - Las nuevas piezas de tablero muestran las sucias cantinas de Mos Eisley
 

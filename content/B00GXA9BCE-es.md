@@ -26,9 +26,9 @@ Tienes [Grohe BauEdge - Grifo de lavabo de baño para instalación en un solo ag
 🔎:
 
 - GROHE LongLife: rendimiento de larga duración y uso suave y sencillo
-- Cómodo caño de altura estándar
-- GROHE EcoJoy con función de ahorro de agua para una reducción de tu consumo
 - Fácil de limpiar, gracias al recubrimiento cromado GROHE StarLight
+- GROHE EcoJoy con función de ahorro de agua para una reducción de tu consumo
+- Cómodo caño de altura estándar
 - Cuerpo liso: para fregaderos que no requieren un vaciador automático o una cadena retráctil
 
 [Comprar!!!](https://www.amazon.es/dp/B00GXA9BCE/?tag=tolees-21)

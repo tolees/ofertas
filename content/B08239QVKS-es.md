@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Type 3 Chaqueta de Jean  Roadster al 50.45 % de rebaja'
-date: 2020-12-22 13:08:55
+date: 2020-12-23 19:32:56
 image: 'https://m.media-amazon.com/images/I/41p5y4NKfNL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,7 +26,7 @@ Tienes [Levi s Type 3 Chaqueta de Jean  Roadster Sherpa Trucker  S para Hombre](
 🔎:
 
 - Bajo ajustable en el lateral
-- Manga larga con cierre de botón en los puños
 - Bolsillos de parche en el pecho con solapa y cierre de botón automático
+- Manga larga con cierre de botón en los puños
 
 [Comprar!!!](https://www.amazon.es/dp/B08239QVKS/?tag=tolees-21)

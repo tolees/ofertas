@@ -25,8 +25,8 @@ Tienes [Toshiba Canvio Basics - Disco duro externo de 2 TB  2.5"  USB 3.0  SATA 
 
 ℹ️:
 
-- Almacenamiento adicional ideal para su PC, Xbox One o PS4
-- capacidad de 2 TB
 - De alta velocidad USB 3.0 puerto
+- capacidad de 2 TB
+- Almacenamiento adicional ideal para su PC, Xbox One o PS4
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00KWHJVCY/?tag=tolees-21)
