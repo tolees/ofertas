@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tayg 16 Caja Herramienta Plástico  Azul/ al 36.94 % de descuento'
-date: 2020-12-22 01:28:36
+date: 2020-12-23 01:53:36
 image: 'https://m.media-amazon.com/images/I/41J8FKZhOvL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004JPO51W/?tag=tolees-21'
 descuento: '36.94'
-average: '14.98983122362869'
+average: '14.989832635983262'
 ---
 
 Está [Tayg 16 Caja Herramienta Plástico  Azul/Rojo  500 x 258 x 255 mm](https://www.amazon.es/dp/B004JPO51W/?tag=tolees-21) con 36.94 de descuento por 14.99 EUR (original: 23.77 EUR) en el siguiente enlace!
@@ -26,8 +26,8 @@ Está [Tayg 16 Caja Herramienta Plástico  Azul/Rojo  500 x 258 x 255 mm](https:
 ℹ️:
 
 - Bandeja-rojo
-- Color:caja-azul
-- Estuche-rojo
 - Material: pp y cierres metálicos
+- Estuche-rojo
+- Color:caja-azul
 
 [Ver la oferta!!](https://www.amazon.es/dp/B004JPO51W/?tag=tolees-21)

@@ -25,9 +25,9 @@ Está [Wahl 9818-116 - Recortadora](https://www.amazon.es/dp/B00PUGF1YY/?tag=tol
 
 ℹ️:
 
-- Tecnología de iones de litio: 50% más potencia
 - Hasta 4 horas de uso a batería
 - Carga rápida de 1 minuto
+- Tecnología de iones de litio: 50% más potencia
 - Todo en uno: recortadora de precisión para detalles, recortadora para nariz y oreja, afeitadora
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00PUGF1YY/?tag=tolees-21)

@@ -25,10 +25,10 @@ En este momento está [Michael Kors MK5491 - Reloj de pulsera](https://www.amazo
 
 🔎:
 
-- Diámetro caja: 39mm
+- Otras Características: Cronografo, Dia
 - Movimiento Cuarzo, Display Analogico
 - Caja Material/color: Acero/oro Rosa
-- Otras Características: Cronografo, Dia
+- Diámetro caja: 39mm
 - Correa Material/color: Acero/oro Rosa
 
 [Aquí!!!](https://www.amazon.es/dp/B0058XWUHA/?tag=tolees-21)

@@ -25,7 +25,7 @@ Tienes [ASTERIX Y OBELIX XXL 3 - THE CRYSTAL MENHIR COLLECTOR EDITION](https://w
 
 ℹ️:
 
-- Dos Skins In-Game para Asterix y Obelix
 - Figura de 15 cm Obelix e Ideafix
+- Dos Skins In-Game para Asterix y Obelix
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07WF7JPT5/?tag=tolees-21)
