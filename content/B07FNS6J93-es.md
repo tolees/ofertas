@@ -25,12 +25,12 @@ En este momento está [LEGO La LEGO Película 2 - ¡Mejores Amigos de Unikitty e
 
 🔎:
 
-- Accesorios incluidos: una tetera, una taza de café y una tarta
 - Disfruta del juego creativo y recrea las deliciosas escenas de la lego película 2 con este divertido juguete para construir
+- Accesorios incluidos: una tetera, una taza de café y una tarta
 - El carrito mide más de 5 cm de altura, 3 cm de longitud y 3 cm de ancho
 - La figura de Chocolatina mide más de 5 cm de altura
-- Este set LEGO inspirado en Unikitty incluye 3 personajes para construir de la LEGO PELÍCULA 2: Unikitty con 2 expresiones faciales intercambiables, Cucurucho de Helado y Chocolatina; incluye también un carrito de té
 - La figura de Cucurucho de Helado mide más de 5 cm de altura
 - La figura de Unikitty mide más de 5 cm de altura
+- Este set LEGO inspirado en Unikitty incluye 3 personajes para construir de la LEGO PELÍCULA 2: Unikitty con 2 expresiones faciales intercambiables, Cucurucho de Helado y Chocolatina; incluye también un carrito de té
 
 [Aquí!!!](https://www.amazon.es/dp/B07FNS6J93/?tag=tolees-21)

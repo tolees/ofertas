@@ -25,8 +25,8 @@ Ahora mismo tienes [adidas Galaxy 5  Running Shoe Hombre  Core Black/Footwear Wh
 
 🔎:
 
+- Cordones de zapatos
 - Corte regular
 - malla superior
-- Cordones de zapatos
 
 [Visítala!!!](https://www.amazon.es/dp/B082SYNHZR/?tag=tolees-21)

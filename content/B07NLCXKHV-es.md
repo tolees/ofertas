@@ -25,9 +25,9 @@ Ahora mismo tienes [NIKE Revolution 5  Running Shoe Womens  Black/Anthracite  38
 
 🔎:
 
+- Material de la suela: caucho
 - Forro blando
 - Plantilla blanda
-- Material de la suela: caucho
 - La suave suela intermedia de espuma proporciona una sensación suave y estable
 
 [Visítala!!!](https://www.amazon.es/dp/B07NLCXKHV/?tag=tolees-21)

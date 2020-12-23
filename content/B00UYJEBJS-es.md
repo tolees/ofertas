@@ -25,10 +25,10 @@ Tienes [Rimmel London 60 Seconds Super Shine Esmalte de Uñas Tono 300 Glaston-B
 
 ℹ️:
 
-- Cada pasada proporciona una base de color y un acabado protector brillante
+- Esmalte de uñas de secado rápido
 - Con cepillo diseñado para una aplicación rápida y uniforme
 - Tecnología 3 en 1: base, color y top coat glossy
-- Esmalte de uñas de secado rápido
 - Alto impacto de color y acabado ultra brillante
+- Cada pasada proporciona una base de color y un acabado protector brillante
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00UYJEBJS/?tag=tolees-21)

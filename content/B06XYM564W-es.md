@@ -25,8 +25,8 @@ Tienes [IMC Toys Ráscate Rosco  Distribución 96257 ](https://www.amazon.es/dp/
 
 🔎:
 
-- Usa el detector y presiónalo tantas veces como indique para atrapar tantas pulgas como sea posible
 - Juego en el que deberás tratar de encontrar todas las pulgas que molestan a Rosco
 - El jugador que atrape más pulgas gana
+- Usa el detector y presiónalo tantas veces como indique para atrapar tantas pulgas como sea posible
 
 [Comprar!!!](https://www.amazon.es/dp/B06XYM564W/?tag=tolees-21)

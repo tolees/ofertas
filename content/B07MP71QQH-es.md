@@ -25,9 +25,9 @@ Está [Orbegozo MI2020 Microondas con 20 litros de Capacidad  6 Niveles  Tempori
 
 ℹ️:
 
-- Incorpora programa de descongelación, así como también otras funciones que facilitan el uso del aparato, tales como: señal acústica de fin de cocción y temporizador de hasta 30 minutos
 - Moderno y elegante con mandos giratorios y tirador cromado
-- Tiene una capacidad para 20 litros
 - Microondas orbegozo con potencia de 700 w y seis niveles de funcionamiento que garantizan un óptimo resultado de cocción
+- Incorpora programa de descongelación, así como también otras funciones que facilitan el uso del aparato, tales como: señal acústica de fin de cocción y temporizador de hasta 30 minutos
+- Tiene una capacidad para 20 litros
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07MP71QQH/?tag=tolees-21)

@@ -25,10 +25,10 @@ Ahora mismo tienes [Redmi Note 8 Pro – Smartphone con pantalla 6 53" FullHD+  
 
 🔎:
 
-- Pantalla FHD+ de 6,53" y notch de gota, Corning Gorilla Glass 5 delante y detrás
-- Gran batería de 4500 mAh (típ), Carga rápida de 18 W
 - Alto rendimiento con el procesador Helio G90T, Sistema de refrigeración líquida
-- Cámara de ultra alta resolución de 64 MP, 4 cámaras con ultra gran angular y lente macro
+- Pantalla FHD+ de 6,53" y notch de gota, Corning Gorilla Glass 5 delante y detrás
 - NFC, Duo 4G Nano SIM / Micro-SD hasta 256 GB
+- Cámara de ultra alta resolución de 64 MP, 4 cámaras con ultra gran angular y lente macro
+- Gran batería de 4500 mAh (típ), Carga rápida de 18 W
 
 [Visítala!!!](https://www.amazon.es/dp/B07YD2RLCC/?tag=tolees-21)
