@@ -25,10 +25,10 @@ Tienes [AVM FRITZ!WLAN Repeater 3000 International - Repetidor/Extensor WiFi AC+
 
 ℹ️:
 
-- Compatible con cualquier router inalámbrico que soporta 802.11 ac/n/g/b/a, seguridad máxima con WPA2, se adapta perfectamente al FRITZ!Box
-- 2 x Gigabit LAN: la funcionalidad WiFi estará a disposición de los dispositivos conectados (videoconsolas, ordenadores, Smart TV, etc), Puente LAN como conexión alternativa
-- Contenido de la caja: FRITZ!Repeater 3000 International, fuente de alimentación, 2 cables de red, guía rápida de instalación en Español
 - LEDs para la visualización de la calidad de conexión y del estado WiFi y que ayudan a encontrar la posición óptima para el repetidor, fácil de instalar con solo presionar un botón
+- Compatible con cualquier router inalámbrico que soporta 802.11 ac/n/g/b/a, seguridad máxima con WPA2, se adapta perfectamente al FRITZ!Box
 - WiFi Tribanda para transmisiones ultrarrápidas, 2 x AC + N, 1.733 Mbps + 886 Mbps (5 GHz) + 400 Mbps (2,4 GHz), Mesh, para llegar a velocidades de hasta 3000 Mbps y una cobertura óptima y fiable, WPS
+- Contenido de la caja: FRITZ!Repeater 3000 International, fuente de alimentación, 2 cables de red, guía rápida de instalación en Español
+- 2 x Gigabit LAN: la funcionalidad WiFi estará a disposición de los dispositivos conectados (videoconsolas, ordenadores, Smart TV, etc), Puente LAN como conexión alternativa
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07R5BHQTQ/?tag=tolees-21)

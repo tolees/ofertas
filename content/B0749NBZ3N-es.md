@@ -25,10 +25,10 @@ En este momento está [Lector de DNI electrónico + Tarjetas + SIM + CF Sveon](h
 
 🔎:
 
-- Compatible con el nuevo dni 3.0
-- Alimentacion por usb y leds indicadores
 - Lector de dnie y tarjetas inteligentes (smart cards)
-- Compatible con compact flash/sim/smartcard/dnie/sd/sdhc/microsd/xd/ microsdhc/mmc/ms/ms-pro/ms-produo/ms duo/m2
+- Alimentacion por usb y leds indicadores
+- Compatible con el nuevo dni 3.0
 - Compatible windows 7 y windows 8, windows 10, linux (ubuntu 14.04 y 14.10) y mac os x 10.10 y 10.11 (yosemite y el capitan)
+- Compatible con compact flash/sim/smartcard/dnie/sd/sdhc/microsd/xd/ microsdhc/mmc/ms/ms-pro/ms-produo/ms duo/m2
 
 [Aquí!!!](https://www.amazon.es/dp/B0749NBZ3N/?tag=tolees-21)

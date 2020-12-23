@@ -25,9 +25,9 @@ Tienes [TerraMaster F5-221 Caja de Servidor NAS 5 bahías Intel Dual Core 2.0GHz
 
 🔎:
 
-- HARDWARE POTENTE: CPU Intel Apollo J3355 de doble núcleo a 2.0 GHz y 2 GB de RAM (ampliables a 4 GB). Velocidad de escritura increíblemente rápida de 200 MB/s, Velocidad de lectura increíblemente rápida de 190 MB/s.
 - Transcodificación de hardware en tiempo real de hasta dos videos 4K simultáneos
 - Sistema de archivos Btrfs avanzado con más de 71.680 instantáneas para todo el sistema y 1.024 instantáneas por carpeta compartida
+- HARDWARE POTENTE: CPU Intel Apollo J3355 de doble núcleo a 2.0 GHz y 2 GB de RAM (ampliables a 4 GB). Velocidad de escritura increíblemente rápida de 200 MB/s, Velocidad de lectura increíblemente rápida de 190 MB/s.
 - Cuenta con una carcasa de aleación de aluminio y un ventilador inteligente ultrasilencioso con buena disipación del calor para el control de la temperatura. Soporte Seagate IHM. Para un rendimiento estable, se recomienda utilizar los discos duros Seagate IronWolf y WD Red.
 - AES hardware Cifrado, carpetas compartidas cifradas y transmisión de datos por la red para evitar el acceso no autorizado
 

@@ -26,8 +26,8 @@ Está [AmazonBasics - Cable USB tipo C a USB-A 2.0 macho  1.8 m   color blanco](
 ℹ️:
 
 - Diseño reversible: es fácil introducir el conector tipo C en cualquier dispositivo compatible (no importa qué lado va hacia arriba).
-- El puerto tipo C mide la mitad de ancho y un tercio de alto que el conector USB-A estándar (ligeramente más grande que los puertos Lightning o Micro-USB).
 - Ideal para cargar dispositivos USB tipo C, así como para sincronizar datos, fotos y música.
+- El puerto tipo C mide la mitad de ancho y un tercio de alto que el conector USB-A estándar (ligeramente más grande que los puertos Lightning o Micro-USB).
 - Certificado USB-IF de cumplimiento con el estándar USB 2.0. Cuenta con garantía limita de 1 año de AmazonBasics.
 - Velocidad de transferencia de datos de hasta 480 Mbps; salida de corriente de hasta 5 V y 3 A.
 

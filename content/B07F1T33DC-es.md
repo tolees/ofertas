@@ -25,10 +25,10 @@ En este momento está [WAVLINK AC1200 Dual Band WiFi Gigabit Range Extender  Rep
 
 🔎:
 
-- Dos puertos Gigabit Ethernet: para una transferencia de datos de velocidad ultra alta, la velocidad de transmisión es 10 veces más rápida que los puertos Ethernet estándar
 - Hay tres modos: además de actuar como repetidor, también se puede utilizar como un punto de acceso inalámbrico (AP) o enrutador
-- 3 veces más rápido que Wireless-N: opera a velocidades de hasta 1167Mbps, incluyendo 300Mbps para canales de 2.4GHz y 867Mbps para canales de 5GHz, ideal para juegos en línea y experiencias de transmisión
 - Fácil de operar: solo presione el botón WPS para completar la instalación, y un indicador de señal inteligente para ayudar a encontrar la mejor ubicación de instalación del repetidor
 - Mayor la cobertura: con 4 antenas de alta ganancia, la cobertura de la red aumenta a áreas de difícil acceso
+- Dos puertos Gigabit Ethernet: para una transferencia de datos de velocidad ultra alta, la velocidad de transmisión es 10 veces más rápida que los puertos Ethernet estándar
+- 3 veces más rápido que Wireless-N: opera a velocidades de hasta 1167Mbps, incluyendo 300Mbps para canales de 2.4GHz y 867Mbps para canales de 5GHz, ideal para juegos en línea y experiencias de transmisión
 
 [Aquí!!!](https://www.amazon.es/dp/B07F1T33DC/?tag=tolees-21)

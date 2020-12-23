@@ -25,10 +25,10 @@ En este momento está [LEADSTAR Funda para Samsung Galaxy Tab A 10.1 2019  Liger
 
 🔎:
 
-- 【PERFECT GIFT】LEADSTAR Samsung Galaxy Tab A 10.1 kids case is safe, friendly and attractive for children, grownups and olders alike. which is light, durable and anti-fall.
-- 【PLEASE CHECK THE SPECIFICATIONS】Our case ONLY Compatible with Samsung Galaxy Tab A 10.1 Inch (SM-T510 / SM-T515, No S-Pen Version) Tablet 2019 Release. Any other model isnt suitable. You can look up the small words on the back of tablet to confirm model of your device.
-- 【HIGH QUALITY MATERIAL】Made entirely of non-toxic dense heavy duty EVA foam rubber material. Same as used in the soles of High-end sneakers. Provide extreme shock, tear and fall protection.
 - 【FULL PROTECTION & EASY ACCESS】Fully cover the back, sides and extends above the surface of the screen. Display protected from drop falls with raised screen bezel. Cutouts for clear access to all Samsung Galaxy Tab A 10.1 2019 tablet case buttons, ports, speakers and rear-camera.
+- 【PERFECT GIFT】LEADSTAR Samsung Galaxy Tab A 10.1 kids case is safe, friendly and attractive for children, grownups and olders alike. which is light, durable and anti-fall.
+- 【HIGH QUALITY MATERIAL】Made entirely of non-toxic dense heavy duty EVA foam rubber material. Same as used in the soles of High-end sneakers. Provide extreme shock, tear and fall protection.
+- 【PLEASE CHECK THE SPECIFICATIONS】Our case ONLY Compatible with Samsung Galaxy Tab A 10.1 Inch (SM-T510 / SM-T515, No S-Pen Version) Tablet 2019 Release. Any other model isnt suitable. You can look up the small words on the back of tablet to confirm model of your device.
 - 【HANDLE and STAND 2 in 1 】Built-in handle feature doubles as a stand support for hands-free display. Fun Driven Covertible Stand Case Can Change in To A Handle for Easy Handling and Carrying Around (Travel/ School/ Home).
 
 [Aquí!!!](https://www.amazon.es/dp/B07SSXWV3R/?tag=tolees-21)

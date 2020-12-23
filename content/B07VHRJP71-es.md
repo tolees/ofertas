@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Desigual Blus Verona  Azul  Navy 5000    al 38.30 % de descuento'
-date: 2020-12-21 14:16:09
+date: 2020-12-23 02:00:19
 image: 'https://m.media-amazon.com/images/I/51yEgxpKXDL._SL200_.jpg'
 comments: true
 category: ofertas

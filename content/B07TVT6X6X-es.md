@@ -25,9 +25,9 @@ Está [EzLife Ventilador USB  Mini Ventilador Portátil 4 Pulgadas Rotación 360
 
 ℹ️:
 
+- ★ Compatibilidad USB universal: el mini ventilador está equipado con un simple interruptor de encendido / apagado y funciona con un cable USB de 1,2 m (no se necesitan baterías), compatible con computadoras, computadoras portátiles, cargadores de automóviles, cargadores de teléfonos y otros dispositivos con salida USB.
 - ★ Silencioso: este ventilador USB utiliza el último motor sin escobillas totalmente de cobre con alta velocidad de rotación y bajo nivel de ruido. Mientras tanto, está equipado con un gran volumen de aire y un ventilador silencioso de cuatro lóbulos diseñado en base a la aerodinámica, para que el ventilador pueda proporcionar una gran fuerza del viento sin demasiado ruido en el proceso de trabajo.
 - ★ Rotación de 360​​°: nuestro ventilador USB portátil es ajustable, inclinable a cualquier ángulo y puede girar 360 grados, brindando flexibilidad y una amplia cobertura. 3 almohadillas de goma en la base hacen que el ventilador sea estable durante el uso.
-- ★ Compatibilidad USB universal: el mini ventilador está equipado con un simple interruptor de encendido / apagado y funciona con un cable USB de 1,2 m (no se necesitan baterías), compatible con computadoras, computadoras portátiles, cargadores de automóviles, cargadores de teléfonos y otros dispositivos con salida USB.
 - ★ 3 años de devolución gratuita: ofrecemos ofertas de devolución gratuita y una garantía totalmente reembolsable por 3 años a partir de la fecha de compra. Estamos seguros de la calidad y el rendimiento del mini ventilador USB, para cualquier problema, no dude en contactarnos para obtener una solución perfecta.
 - ★ Ahorro de energía y portátil: este mini ventilador consume solo 2,25 vatios por hora y ahorra alrededor del 95% de energía en comparación con los ventiladores de CA tradicionales. El ventilador USB es pequeño y exquisito, se inserta fácilmente en una bolsa dentro.
 

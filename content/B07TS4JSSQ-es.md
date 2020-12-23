@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NBA 2k20 al 40.85 % de rebaja'
-date: 2020-12-22 01:35:51
+date: 2020-12-23 02:01:42
 image: 'https://m.media-amazon.com/images/I/51i9Y7p81hL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07TS4JSSQ/?tag=tolees-21'
 descuento: '40.85'
-average: '23.126875000000002'
+average: '22.72878787878788'
 ---
 
 Tienes [NBA 2k20](https://www.amazon.es/dp/B07TS4JSSQ/?tag=tolees-21) con precio final de  9.99 EUR (original: 16.89 EUR) (40.85 %  de rebaja) aqui!
@@ -25,8 +25,8 @@ Tienes [NBA 2k20](https://www.amazon.es/dp/B07TS4JSSQ/?tag=tolees-21) con precio
 
 🔎:
 
+- Producto de alta calidad
 - Marca: Take Two Interactive Spain
 - Nba 2K20 Nintendo Switch
-- Producto de alta calidad
 
 [Comprar!!!](https://www.amazon.es/dp/B07TS4JSSQ/?tag=tolees-21)
