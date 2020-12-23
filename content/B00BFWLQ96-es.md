@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Repsol RP141N55 Elite Multiválvulas 10W- al 33.32 % de descuento'
-date: 2020-12-22 07:32:42
+date: 2020-12-23 08:02:40
 image: 'https://m.media-amazon.com/images/I/41OIEK-vMmL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00BFWLQ96/?tag=tolees-21'
 descuento: '33.32'
-average: '22.5972'
+average: '22.604805194805195'
 ---
 
 Está [Repsol RP141N55 Elite Multiválvulas 10W-40 Aceite de Motor para Coche  Multicolor  5 L](https://www.amazon.es/dp/B00BFWLQ96/?tag=tolees-21) con 33.32 de descuento por 22.89 EUR (original: 34.33 EUR) en el siguiente enlace!

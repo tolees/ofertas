@@ -26,9 +26,9 @@ Tienes [Peppa Pig - Peluches con luz Glow Friends  Peppa ](https://www.amazon.es
 🔎:
 
 - También disponible modelo George Pig
-- Peluche con luz de 14 cm de Peppa Pig
-- Pequeño peluche quitamiedos
 - Llévalo contigo a todas partes
+- Peluche con luz de 14 cm de Peppa Pig
 - Presiona la tripita y la cara se ilumina
+- Pequeño peluche quitamiedos
 
 [Comprar!!!](https://www.amazon.es/dp/B07DPH9TTN/?tag=tolees-21)
