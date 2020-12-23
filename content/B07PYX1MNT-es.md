@@ -25,10 +25,10 @@ Está [deAO Juego de Comida  Frutas y Verduras para Cortar Conjunto Infantil de 
 
 ℹ️:
 
-- RECOMENDACIONES Y ADVERTENCIAS: No apto para menores de 3 años debido a piezas pequeñas. Para ser utilizado bajo la supervisión directa de un adulto.
-- CARACTERÍSTICAS: La comida de juguete ha sido diseñada con doble pieza (unida con velcro) para crear una simulación de cortar porciones con los accesorios incluidos.
-- CONTENIDO: 42 piezas en total, incluye variedad de alimentos artificiales, platos, cubiertos, tabla de cortar, olla con tapa y fogones de cocina. Caja de almacenaje adicional incluida.
-- PERFECTO PARA LOS PEQUES: Conjunto de accesorios de imitación con características realistas, para cocina de juguete. ¡Perfecto para añadir a la colección de cocinitas de tu peque!
 - BENEFICIOS: Juego de imitación, perfecto para desarrollar la creatividad e imaginación. Descubre y aprende más sobre la cocina, sus funciones y utensilios. Introduce a tus peques de una forma divertida y segura.
+- CARACTERÍSTICAS: La comida de juguete ha sido diseñada con doble pieza (unida con velcro) para crear una simulación de cortar porciones con los accesorios incluidos.
+- PERFECTO PARA LOS PEQUES: Conjunto de accesorios de imitación con características realistas, para cocina de juguete. ¡Perfecto para añadir a la colección de cocinitas de tu peque!
+- CONTENIDO: 42 piezas en total, incluye variedad de alimentos artificiales, platos, cubiertos, tabla de cortar, olla con tapa y fogones de cocina. Caja de almacenaje adicional incluida.
+- RECOMENDACIONES Y ADVERTENCIAS: No apto para menores de 3 años debido a piezas pequeñas. Para ser utilizado bajo la supervisión directa de un adulto.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07PYX1MNT/?tag=tolees-21)

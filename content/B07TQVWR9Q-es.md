@@ -26,7 +26,7 @@ Tienes [Clarks Sift Speed  Zapatillas Hombre  Blanco  White Leather White Leathe
 🔎:
 
 - Exterior: piel.
-- Interior: textil.
 - Suela: goma.
+- Interior: textil.
 
 [Comprar!!!](https://www.amazon.es/dp/B07TQVWR9Q/?tag=tolees-21)

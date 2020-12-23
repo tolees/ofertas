@@ -25,8 +25,8 @@ Tienes [Tommy Hilfiger 3p Trunk Bóxer  Multicolor  Multi/Peacoat 904   Small  P
 
 ℹ️:
 
-- Ajuste cómodo y adecuado
 - Producto con diseño clásico y estilo para todos los días
+- Ajuste cómodo y adecuado
 - Cintura con la inscripción de Tommy Hilfiger
 - Cinta distintiva en la cintura
 
