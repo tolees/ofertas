@@ -25,10 +25,10 @@ En este momento está [Geox D Sukie B  Zapatillas para Mujer  Beige  Lt Taupe C6
 
 🔎:
 
-- Tipo de tacón: Plano
-- Material exterior: Cuero
-- Revestimiento: Sintético
 - Material de la suela: Sintético
+- Tipo de tacón: Plano
+- Revestimiento: Sintético
+- Material exterior: Cuero
 - Cierre: Cordones
 
 [Aquí!!!](https://www.amazon.es/dp/B07SSK2N3S/?tag=tolees-21)

@@ -25,10 +25,10 @@ Tienes [ASUS VM45-GC072Z - Mini Ordenador de sobremesa  Intel Celeron 3865U  4 G
 
 🔎:
 
-- Tarjeta gráfica integrada Intel HD Graphics 610
-- Procesador Intel Celeron 3865U (2 Núcleos, 2 M Caché, 1.80 GHz)
 - Memoria RAM de 4 GB DDR4, 2133 MHz
+- Procesador Intel Celeron 3865U (2 Núcleos, 2 M Caché, 1.80 GHz)
 - Sistema operativo Windows 10 Original (64 Bits)
+- Tarjeta gráfica integrada Intel HD Graphics 610
 - Disco SSD de 64 GB
 
 [Comprar!!!](https://www.amazon.es/dp/B07L9ZVDBD/?tag=tolees-21)

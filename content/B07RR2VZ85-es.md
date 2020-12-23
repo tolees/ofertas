@@ -27,8 +27,8 @@ Tienes [DEARRAY Botella de Agua de Cristal de Borosilicato Deportivo 400ml / 750
 
 - ELEGANTE Y PORTATIL: Nuestro diseño elegante hace que la botella de agua de vidrio tenga tener un compañero de viaje ideal y una apariencia elegante. Funda de silicona ofrece un agarre seguro y ayuda a proteger contra la rotura.
 - SERVICIO AL CLIENTE: Si su botella de agua de vidrio o tapa se rompe dentro del primer año de compra, PÓNGASE EN CONTACTO CON NOSOTROS, le enviaremos un reemplazo.
-- BOTELLA DE CRISTAL DURADABLE: Botella de agua de vidrio de DEARRAY está hecha de vidrio de borosilicato 100% de alta, que puede soportar temperaturas extremadamente altas y bajas.
-- SEGURO: Sin plásticos nocivos, olores químicos o toxinas. Nuestras botellas de vidrio son sin plomo, sin BPA, sin BPS, sin ftalatos y sin cadmio.
 - ANTIFUGAS: Tapa de bambú con junta tórica de silicona de grado alimenticio, evitar eficazmente las fugas de agua; Tamaño de boca perfecto adecuado para beber sin fugas. Tenga en cuenta que la tapa de bambú necesita lavarse a mano
+- SEGURO: Sin plásticos nocivos, olores químicos o toxinas. Nuestras botellas de vidrio son sin plomo, sin BPA, sin BPS, sin ftalatos y sin cadmio.
+- BOTELLA DE CRISTAL DURADABLE: Botella de agua de vidrio de DEARRAY está hecha de vidrio de borosilicato 100% de alta, que puede soportar temperaturas extremadamente altas y bajas.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07RR2VZ85/?tag=tolees-21)
