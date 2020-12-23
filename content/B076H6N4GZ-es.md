@@ -25,12 +25,12 @@ Tienes [Kipling 100 PENS Estuche Grande  Rosa  True Pink ](https://www.amazon.es
 
 🔎:
 
-- Logo de Kipling redondo
-- Capacidad para hasta 100 bolis
 - Ligero
+- 26 portabolígrafos
+- Capacidad para hasta 100 bolis
 - Repelente al agua
 - Compartimento principal con cremallera
 - Mono de peluche de Kipling
-- 26 portabolígrafos
+- Logo de Kipling redondo
 
 [Comprar!!!](https://www.amazon.es/dp/B076H6N4GZ/?tag=tolees-21)

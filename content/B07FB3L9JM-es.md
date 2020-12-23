@@ -25,11 +25,11 @@ Tienes [Yo-Kai Watch Blasters: Liga Del Gato Rojo](https://www.amazon.es/dp/B07F
 
 🔎:
 
-- Durante los combates, controlarás directamente a tus Yo-kai. Traza una estrategia con la ayuda de las habilidades y los objetos para derrotar a los jefes
 - Modo multijugador: une tus fuerzas con hasta 3 jugadores más para formar equipo y enfrentarte a los Grandes Jefes con la ayuda de habilidades y poderosos movimientos animáximum
-- Si transfieres datos de guardado de Yo-Kai Watch 2: Fantaesqueletos, Yo-Kai Watch 2: Carnánimas o Yo-Kai Watch 2: Mentespectros, podrás conseguir uno de los tres Yo-kai especiales y llevártelos contigo al combate
-- Participa en misiones de acción y embárcate en una aventura en la que te enfrentarás a multitud de Yo-kai con los que también entablar trabar amistad. Hay más de 400 en total, entre nuevos y habituales de la serie
 - Cada versión del juego contiene Yo-kai, misiones y jefes diferentes. Realiza intercambios entre ambas versiones para conseguir a todos los Yo-kai
+- Participa en misiones de acción y embárcate en una aventura en la que te enfrentarás a multitud de Yo-kai con los que también entablar trabar amistad. Hay más de 400 en total, entre nuevos y habituales de la serie
 - Podrás participar en combates a tiempo real, a diferencia delas entregas anteriores de Yo-Kai Watch en las que se los combates se realizaban por turnos
+- Si transfieres datos de guardado de Yo-Kai Watch 2: Fantaesqueletos, Yo-Kai Watch 2: Carnánimas o Yo-Kai Watch 2: Mentespectros, podrás conseguir uno de los tres Yo-kai especiales y llevártelos contigo al combate
+- Durante los combates, controlarás directamente a tus Yo-kai. Traza una estrategia con la ayuda de las habilidades y los objetos para derrotar a los jefes
 
 [Comprar!!!](https://www.amazon.es/dp/B07FB3L9JM/?tag=tolees-21)

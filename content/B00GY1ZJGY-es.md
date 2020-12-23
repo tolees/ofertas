@@ -25,10 +25,10 @@ Está [BIMANAN - beSLIM - Sustitutivos para Adelgazar - Natilla de Vainilla - 6u
 
 ℹ️:
 
-- 1 natilla = 1 comida
-- Sin Aceite de Palma.
-- Controla tu peso de forma fácil y sabrosa.
-- 205 kcal por comida
 - Natilla sustitutiva para adelgazar
+- 205 kcal por comida
+- 1 natilla = 1 comida
+- Controla tu peso de forma fácil y sabrosa.
+- Sin Aceite de Palma.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00GY1ZJGY/?tag=tolees-21)

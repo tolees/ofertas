@@ -25,8 +25,8 @@ Tienes [Sakura Wars](https://www.amazon.es/dp/B084QY1V5L/?tag=tolees-21) con un 
 
 ℹ️:
 
-- La Launch edition incluye carátula reversible y un surtido de pegatinas
 - Brillante producción de anime: magníficas secuencias animadas, una banda sonora exuberante y personajes diseñados por luminarias del anime y JRPG que te transportarán a una Tokio steampunk de los años 40
+- La Launch edition incluye carátula reversible y un surtido de pegatinas
 - Emocionantes resultados de combate: tus lazos con los miembros del equipo desembocan en el final del combate de cada episodio, con peleas llenas de acción con mechas gigantes impulsados por vapor
 - Interacción con los personajes: interactúa con un variado elenco a través del dinámico sistema de diálogo LIPS donde lo que dices y cómo lo dices tiene un profundo impacto en las relaciones fuera y dentro del campo de batalla
 

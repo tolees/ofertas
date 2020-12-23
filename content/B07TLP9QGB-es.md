@@ -25,10 +25,10 @@ Tienes [Oficial Borderlands 3 Mercancías Mad Moxxi Figurita Carácter del Pato]
 
 🔎:
 
+- Oficial Gearbox/Borderlands 3 Mercancías.
 - Se sitúa en el 9 cm (3,54” ) de altura.
 - Obtener un poco más caliente moxi con el nuevo coleccionable para unirse al espectáculo!
-- Icónica efecto cel-shading.
-- Oficial Gearbox/Borderlands 3 Mercancías.
 - Viene en caja de presentación de colección.
+- Icónica efecto cel-shading.
 
 [Comprar!!!](https://www.amazon.es/dp/B07TLP9QGB/?tag=tolees-21)

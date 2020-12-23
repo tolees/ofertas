@@ -25,8 +25,8 @@ En este momento está [SAMSUNG - Cargador rápido  45 W  Ep-TA845   Color Blanco
 
 🔎:
 
+- Soporta carga rápida de hasta 45 W.
 - Cable USB tipo C a USB tipo C (ep-dn975).
 - Cargador rápido para cargar dispositivos compatibles a través de USB tipo C.
-- Soporta carga rápida de hasta 45 W.
 
 [Aquí!!!](https://www.amazon.es/dp/B07VD48LYB/?tag=tolees-21)

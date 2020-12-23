@@ -25,9 +25,9 @@ Tienes [Diario Secreto Electrónico de Chica Vampiro con luz y sonido  Simba 941
 
 🔎:
 
-- Con la llave se abre un compartimento secreto; entra en el mundo de chica vampiro
-- De la serie Chica Vampiro llega este diario secreto electrónico personalizado con Daisy y su mundo
-- Medida: 26,6 x 6 x 30,5; el regalo óptimo para niñas a partir de 5 años, al desarrollar el juego simbólico y la imaginación
 - Este diario de juguete incluye un brazalete que abre el diario con un sonido mágico; con el rotulador de tinta se puede escribir en la libreta y descifrar el mensaje oculto gracias la la luz uv
+- Medida: 26,6 x 6 x 30,5; el regalo óptimo para niñas a partir de 5 años, al desarrollar el juego simbólico y la imaginación
+- De la serie Chica Vampiro llega este diario secreto electrónico personalizado con Daisy y su mundo
+- Con la llave se abre un compartimento secreto; entra en el mundo de chica vampiro
 
 [Comprar!!!](https://www.amazon.es/dp/B07DPH9TZL/?tag=tolees-21)
