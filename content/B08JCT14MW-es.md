@@ -26,9 +26,9 @@ Tienes [dowowdo USB Bluetooth 5.0 Adaptador Bluetooth Transmisor Receptor Blueto
 🔎:
 
 - 【Transmisión de datos y audio】este receptor bluetooth 5.0 admite transmisión de datos y audio, conecte su computadora sin Bluetooth a dispositivos Bluetooth como impresoras, ratones, etc.
-- 【Bluetouth V5.0】mejor rendimiento que las versiones anteriores en términos de mayor distancia de transmisión (20 m), velocidad de datos más rápida （3 Mbps） y menor consumo de energía.
 - 【Conecte 7 dispositivos simultáneamente】soporte para configurar 7 dispositivos inalámbricos, como impresoras, ratones, teclados, teléfonos inteligentes, altavoces y auriculares
 - 【Alta compatibilidad】este bluetooth de doogle funciona con computadoras portátiles y de escritorio que ejecutan Microsoft Windows 10/8.1/8/7/XP. Convierte una PC o computadora portátil sin Bluetooth en una habilitada para Bluetooth.
+- 【Bluetouth V5.0】mejor rendimiento que las versiones anteriores en términos de mayor distancia de transmisión (20 m), velocidad de datos más rápida （3 Mbps） y menor consumo de energía.
 - Transmisor bluetooth para computadora portátil o PC.Visite el sitio web especificado para descargar el software del controlador correspondiente a su sistema: 🔸 【dropbox.com/s/vcvemz9rwr711rl】 🔸Si tiene problemas con el dispositivo dentro de los 12 meses, contáctenos, haremos todo lo posible para resolverlo por usted.
 
 [Comprar!!!](https://www.amazon.es/dp/B08JCT14MW/?tag=tolees-21)

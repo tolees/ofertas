@@ -25,10 +25,10 @@ Ahora mismo tienes [Vicloon Digital Cronómetro con Silbato de Acero Inoxidable 
 
 🔎:
 
-- 【Cronómetro multifuncional cronómetro】 - Ligero, cumplir con los requisitos de la mayoría de situaciones. Servir como cronómetro, reloj, cronógrafo y alarma. Aplicar a muchos deportes. Fútbol, ​​baloncesto, funcionamiento, aptitud, natación, béisbol, lucha, taekwondo, y así sucesivamente
 - 【Silbato de acero inoxidable con cordón】 - El silbato de acero inoxidable de alta calidad ofrece un sonido nítido. Y con cordón amarillo desprendible puede liberar sus manos de la celebración, esencial para la raza, la formación y otros deportes
-- 【Dar un botón de la batería】 - Alimentado por 1 * AG13 batería (Incluido, no es necesario comprar). La batería es reemplazable
 - 【Silencio estado de trabajo】 - Este cronómetro árbitro está trabajando en silencio durante el uso normal del tiempo, le dan un ambiente silencioso cuando se utiliza
 - 【Pantalla LCD Lagare + Función precisa】 - Puede mostrar minutos, segundos. Medir el tiempo con una precisión de una centésima de segundo
+- 【Cronómetro multifuncional cronómetro】 - Ligero, cumplir con los requisitos de la mayoría de situaciones. Servir como cronómetro, reloj, cronógrafo y alarma. Aplicar a muchos deportes. Fútbol, ​​baloncesto, funcionamiento, aptitud, natación, béisbol, lucha, taekwondo, y así sucesivamente
+- 【Dar un botón de la batería】 - Alimentado por 1 * AG13 batería (Incluido, no es necesario comprar). La batería es reemplazable
 
 [Visítala!!!](https://www.amazon.es/dp/B075N7JSHB/?tag=tolees-21)

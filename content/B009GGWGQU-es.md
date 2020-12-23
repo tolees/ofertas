@@ -25,9 +25,9 @@ Tienes [TRIXIE Pasta de Malta Multifrutas  100 g  Pequeños Mamíferos](https://
 
 🔎:
 
-- Peso del producto: 600 g
-- Se utiliza como un regalo entre comidas o para refinar la comida principal
 - Malta con 70% de malta y 12% de fruta
 - Los fructo-oligosacáridos ayudan a mantener una flora intestinal saludable
+- Peso del producto: 600 g
+- Se utiliza como un regalo entre comidas o para refinar la comida principal
 
 [Comprar!!!](https://www.amazon.es/dp/B009GGWGQU/?tag=tolees-21)

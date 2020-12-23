@@ -25,10 +25,10 @@ En este momento está [deAO Centro de Belleza Tocador con Espejo y Joyero Conjun
 
 🔎:
 
-- CONJUNTO: Consiste en una superficie de mesa con cajones, un espejo con función de luz y sonidos. Accesorios de pulseras, collares, peine y maquillaje artificial también incluidos.
 - DISEÑO: Superficie de mesa con espejo a juego. Cajones para guardar los accesorios incluidos y espacio adicional. Al presionar el corazón del espejo, las luces parpadearán y reproducirá sonidos.
-- CENTRO DE BELLEZA: este tocador es perfecto para los peques con creatividad e imaginación, interesados en el maquillaje y estilismo. Incluye accesorios y espejo musical.
-- MONTAJE: Fácil de ensamblar, con instrucciones e imágenes impresas en la caja del producto.
 - RECOMENDACIONES Y ADVERTENCIAS: No es adecuado para menores de 3 años. Para ser utilizado bajo la supervisión directa de un adulto. Por favor, siga el manual de instrucciones correctamente.
+- CONJUNTO: Consiste en una superficie de mesa con cajones, un espejo con función de luz y sonidos. Accesorios de pulseras, collares, peine y maquillaje artificial también incluidos.
+- MONTAJE: Fácil de ensamblar, con instrucciones e imágenes impresas en la caja del producto.
+- CENTRO DE BELLEZA: este tocador es perfecto para los peques con creatividad e imaginación, interesados en el maquillaje y estilismo. Incluye accesorios y espejo musical.
 
 [Aquí!!!](https://www.amazon.es/dp/B07PZ88HFB/?tag=tolees-21)

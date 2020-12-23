@@ -25,10 +25,10 @@ Tienes [Lenovo TAB4 - Tablet de 8" HD/IPS  Qualcomm Snapdragon 425  2 GB de RAM 
 
 🔎:
 
+- Memoria RAM: 2 GB de LPDDR3
+- Tarjeta grafica: Qualcomm Adreno 308 GPU
+- Procesador Qualcomm Snapdragon 425
 - Sistema operativo: Android 7.1.1
 - Disco duro: 16 GB de eMCP
-- Tarjeta grafica: Qualcomm Adreno 308 GPU
-- Memoria RAM: 2 GB de LPDDR3
-- Procesador Qualcomm Snapdragon 425
 
 [Comprar!!!](https://www.amazon.es/dp/B0721KF4NH/?tag=tolees-21)

@@ -25,10 +25,10 @@ Ahora mismo tienes [Disco Duro Kingdian  60 / 120 / 240 / 480 Gb  Ssd con 128 Mb
 
 🔎:
 
-- 3.7mm Metal case, compatible with9MM thick hard disk situation;
 - 2.Compatible system: Windows series, Unix Series, Linux Series, Mac and others usual systems;
 - 1.SATA3(6.0Gbps) interface, compatible with SATA2(3.0 Gbps) interface;
-- 5. Use for: tablet pc, Mini-pc, POS Machines, All-in-one PC, On-board Computers, Video Surveillance, Servers, Medical products and can be used on other devices which can use HDD
 - 4.High Speed and Performance :R:519/W:421MB/s ;Faster Boot ti: it will be within 11 seconds from boot to enter the system ; Fast loading while play games and open large application software (such as PS, AI); quiet running, no noise; anti-shock;
+- 3.7mm Metal case, compatible with9MM thick hard disk situation;
+- 5. Use for: tablet pc, Mini-pc, POS Machines, All-in-one PC, On-board Computers, Video Surveillance, Servers, Medical products and can be used on other devices which can use HDD
 
 [Visítala!!!](https://www.amazon.es/dp/B01B2OR2TY/?tag=tolees-21)

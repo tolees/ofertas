@@ -25,10 +25,10 @@ Tienes [Sony SEL55210 - Objetivo para Sony de Distancia Focal 55-210m  Negro](ht
 
 🔎:
 
-- Teleobjetivo zoom con rango de ampliación de 3.8x
 - Montura tipo E, formato APS-C
-- Distancia focal equivalente a 35 mm: 82.5 - 315 mm
-- Estabilización SteadyShot óptica
+- Teleobjetivo zoom con rango de ampliación de 3.8x
 - Lente de zoom telescópico
+- Estabilización SteadyShot óptica
+- Distancia focal equivalente a 35 mm: 82.5 - 315 mm
 
 [Comprar!!!](https://www.amazon.es/dp/B00HV9TB4O/?tag=tolees-21)

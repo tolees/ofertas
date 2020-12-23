@@ -26,8 +26,8 @@ Tienes [Kingston DataTraveler 100 G3 -DT100G3/256GB  USB 3.0  Flash Drive  256 G
 ℹ️:
 
 - Un dispositivo de almacenamiento USB 3.0
-- Velocidad de la lectura: 130 MB/s
 - Diseño elegante en negro y tapa deslizante
 - Capacidad de la memoria: 256 GB
+- Velocidad de la lectura: 130 MB/s
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DM3S5QB/?tag=tolees-21)

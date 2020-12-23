@@ -27,8 +27,8 @@ Ahora mismo tienes [PLAYMOBIL City Life Guardería  A partir de 4 años  5567 ](
 
 - Diversión de principio a fin: PLAYMOBIL Guardería con profesor, figuras infantiles y muchos accesorios para jugar
 - Para jugar a diario: incluye instrucciones para montarlo con ayuda de los padres, alta calidad y diseño robusto, limpieza de las piezas (sin pegatinas) con agua corriente y sin químicos
-- Juego de figuras para niños a partir de 4 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
-- Mobiliario en 2 plantas: cocina de juguete, acogedor rincón, torre de escalada, cocina y sanitarios, pizarra funcional, reloj con manecillas ajustables y mucho más
 - Contenido: 1 PLAYMOBIL City Life Guardería, juego de 394 piezas con instrucciones: 1 Guardería, 5 figuras, 388 accesorios, material: plástico, Dimensiones aprox.: (LxPxA) 43,5x34x33,5 cm, 5576
+- Mobiliario en 2 plantas: cocina de juguete, acogedor rincón, torre de escalada, cocina y sanitarios, pizarra funcional, reloj con manecillas ajustables y mucho más
+- Juego de figuras para niños a partir de 4 años: óptimo para el tamaño de sus manos y bordes redondeados agradables al tacto
 
 [Visítala!!!](https://www.amazon.es/dp/B00IF1VVC2/?tag=tolees-21)

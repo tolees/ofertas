@@ -25,10 +25,10 @@ Tienes [AOC E2270SWN - Monitor TN WLED de 21 5"  1920 x 1080 Pixels  Full HD  VE
 
 ℹ️:
 
-- Pantalla LED de 21.5" con una resolución de 1920 x 1080 pixeles
-- Brillo de 200 cd / m², Angulo de inclinación: -5 15°
-- Tiempo de respuesta: 5 ms, frecuencia de 60 Hz
 - Soporte VESA 100x100
+- Pantalla LED de 21.5" con una resolución de 1920 x 1080 pixeles
+- Tiempo de respuesta: 5 ms, frecuencia de 60 Hz
 - Contrast satico de 700:1 y dinámico de 20.000.000:1
+- Brillo de 200 cd / m², Angulo de inclinación: -5 15°
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00DULAVPA/?tag=tolees-21)

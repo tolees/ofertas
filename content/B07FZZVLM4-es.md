@@ -25,10 +25,10 @@ Tienes [Hugo BOSS Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero 15
 
 🔎:
 
-- Grosor de la caja de 12,00 mm
+- 5 ATM de resistencia al agua
 - Esfera gris cepillada con efecto de rayo de sol
 - Cronógrafo de cuarzo
-- 5 ATM de resistencia al agua
 - Correa gris de piel con estampado de cocodrilo
+- Grosor de la caja de 12,00 mm
 
 [Comprar!!!](https://www.amazon.es/dp/B07FZZVLM4/?tag=tolees-21)
