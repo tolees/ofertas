@@ -25,8 +25,8 @@ Está [Calvin Klein Deep Euphoria Agua de Perfume - 30 ml](https://www.amazon.es
 
 ℹ️:
 
-- Notas de salida: Cascalone, hojas de mandarina y pimienta blanca.
 - Familia olfativa: Floral Chipre.
+- Notas de salida: Cascalone, hojas de mandarina y pimienta blanca.
 - Notas de corazón: rosa negra, peonía, geranio y jazmín sambac.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01HMKVUEK/?tag=tolees-21)

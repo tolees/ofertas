@@ -25,8 +25,8 @@ Ahora mismo tienes [Levi s 512 Slim Taper Vaqueros  Sage Nightshine ADV Tnl  31W
 
 🔎:
 
-- Apertura de pierna pitillo
 - Diseño de cinco bolsillos
 - Corte ajustado en los muslos
+- Apertura de pierna pitillo
 
 [Visítala!!!](https://www.amazon.es/dp/B07ZVRSBMJ/?tag=tolees-21)

@@ -25,9 +25,9 @@ Tienes [Seagate Backup Plus Hub  6 TB  Disco duro externo HDD  USB 3.0 para ord
 
 ℹ️:
 
+- Utilice la unidad sin problemas entre Windows y Mac mediante la instalación del controlador NTFS para Mac
+- Este concentrador una es unidad de disco duro para Mac y Windows que le permite cargar dispositivos móviles y transferir archivos desde cámaras USB y unidades USB a través de sus dos puertos USB 3.1
 - Almacene y acceda a contenido durante los próximos años con 6 TB de espacio masivo en una unidad USB
 - Aproveche la suscripción gratuita de dos meses al plan de Adobe Creative Cloud Photography para acceder a aplicaciones de edición de fotos y vídeos
-- Este concentrador una es unidad de disco duro para Mac y Windows que le permite cargar dispositivos móviles y transferir archivos desde cámaras USB y unidades USB a través de sus dos puertos USB 3.1
-- Utilice la unidad sin problemas entre Windows y Mac mediante la instalación del controlador NTFS para Mac
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01IAD5ZEE/?tag=tolees-21)

@@ -25,10 +25,10 @@ Está [Rimmel London Kate Sculpting Palette Paleta de Maquillaje Tono 1 Golden S
 
 ℹ️:
 
-- Fácil de desmaquillar
 - Polvo iluminador para resaltar mejillas, cejas, frente, barbilla y nariz
+- polvo bronceador oscuro para contornerar pómulos, nariz y mandíbula
 - Colorete en polvo para dar color y definicióon
 - Paleta con 3 pasos para contouring diseñada por Kate Moss
-- polvo bronceador oscuro para contornerar pómulos, nariz y mandíbula
+- Fácil de desmaquillar
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01FSJVOQ6/?tag=tolees-21)

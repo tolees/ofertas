@@ -25,12 +25,12 @@ Tienes [ASUS PRIME A320M-K - Placa Base AMD AM4 mATX con iluminación LED  DDR4 
 
 🔎:
 
-- Sistema operativo: Windows 10 de 64 bits, Windows 7 de 64 bits
-- Tipos de memoria compatibles: DDR4-SDRAM
-- Socket de procesador: Zócalo AM4
-- Procesador compatible: AMD Ryzen
-- Tipo de ranuras de memoria: DIMM
 - Nota: Windows 7 de 64 bits solo es compatible cuando se utilizan procesadores AMD Ryzen de segunda generación / primera generación / séptima generación A / Athlon X4
 - Velocidades de reloj de memoria soportadas: 2133, 2400, 2666, 2933, 3200 MHz
+- Socket de procesador: Zócalo AM4
+- Sistema operativo: Windows 10 de 64 bits, Windows 7 de 64 bits
+- Procesador compatible: AMD Ryzen
+- Tipo de ranuras de memoria: DIMM
+- Tipos de memoria compatibles: DDR4-SDRAM
 
 [Comprar!!!](https://www.amazon.es/dp/B06Y6GDYD4/?tag=tolees-21)

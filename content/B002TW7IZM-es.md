@@ -25,8 +25,8 @@ Ahora mismo tienes [Royal and Langnickel - Lote de Caballete y Pinturas al óleo
 
 🔎:
 
+- Contienen Todo Que Lo Necesario Para Empezar
 - Compacto Y Fácil De Transportar
 - Ideal Para Principiantes Y Estudiantes
-- Contienen Todo Que Lo Necesario Para Empezar
 
 [Visítala!!!](https://www.amazon.es/dp/B002TW7IZM/?tag=tolees-21)
