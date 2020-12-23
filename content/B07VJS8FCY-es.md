@@ -25,8 +25,8 @@ En este momento está [Lee Extreme Motion Straight Jeans  Theo  32W / 34L para H
 
 🔎:
 
-- Tejido elástico
-- Clasico botón tipo “donut”
 - Cintura flexible
+- Clasico botón tipo “donut”
+- Tejido elástico
 
 [Aquí!!!](https://www.amazon.es/dp/B07VJS8FCY/?tag=tolees-21)

@@ -26,8 +26,8 @@ Está [KKmoon 52mm Medidor 3 en 1 Voltimetro Medidor de Presion de Aceite Temper
 ℹ️:
 
 - With LED back-lit gauge.
-- Black metal bracket and black bezel panel.
 - Oil Pressure & Water Temperature & Volmeter 3 in 1 gauge kit.
 - The gauge is of high sensitivity and unrivaled accuracy.
+- Black metal bracket and black bezel panel.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01FF2VI26/?tag=tolees-21)

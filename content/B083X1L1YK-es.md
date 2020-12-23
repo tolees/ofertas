@@ -25,10 +25,10 @@ Está [HUAWEI 4G Router 3 Pro B535 - Mobile WiFi 4G LTE  CAT.7  con punto de acc
 
 ℹ️:
 
-- El router Huawei 4G 3 Pro B535 proporciona un punto de acceso WiFi de doble banda a 1167 mbps de 2,4 ghz y 5 ghz.
-- 5G/4G estándar, 3GPP versión 11, LTE CAT7, Red aplicable 4G, Velocidad de transmisión 4G 300Mbps / 100Mbps (valor teórico, la velocidad real depende del operador), Banda de frecuencia de red LTE B1 / B3 / B7 / B8 / B20 / B28 / B32 / B38, UMTS B1 / B8; Antenas principales y de diversidad LTE / UMTS
 - Un WiFi de bolsillo para viajes de ocio y negocio, actividades al aire libre o donde quiera que estés.
+- El router Huawei 4G 3 Pro B535 proporciona un punto de acceso WiFi de doble banda a 1167 mbps de 2,4 ghz y 5 ghz.
 - Con Wi-Fi tx beamforming integrado envía señales a los dispositivos específicos para que se puedan detectar y estabilizar la comunicación.
+- 5G/4G estándar, 3GPP versión 11, LTE CAT7, Red aplicable 4G, Velocidad de transmisión 4G 300Mbps / 100Mbps (valor teórico, la velocidad real depende del operador), Banda de frecuencia de red LTE B1 / B3 / B7 / B8 / B20 / B28 / B32 / B38, UMTS B1 / B8; Antenas principales y de diversidad LTE / UMTS
 - Con 4 puertos Gigabit Ethernet y WiFi de doble banda a 1167 mbps, el rendimiento es 4 veces mayor que la generación anterior.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B083X1L1YK/?tag=tolees-21)

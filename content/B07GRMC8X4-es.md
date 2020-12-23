@@ -27,8 +27,8 @@ Tienes [Samsung Galaxy Watch - Reloj Inteligente  Bluetooth  Plata  46 mm- Versi
 
 - El altavoz y micrófono integrados en Galaxy Watch le permiten comunicarse en modo manos libres
 - Resistente al agua
-- Memoria interna: 4 GB
-- Pantalla de 1.3 pulgadas
 - Localización: GPS, Glonass
+- Pantalla de 1.3 pulgadas
+- Memoria interna: 4 GB
 
 [Comprar!!!](https://www.amazon.es/dp/B07GRMC8X4/?tag=tolees-21)

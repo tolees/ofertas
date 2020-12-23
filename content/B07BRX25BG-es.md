@@ -25,10 +25,10 @@ Tienes [100 ETIQUETAS DE TELA PARA MARCAR LA ROPA  PLANCHAR  CINTA TERMOADHESIVA
 
 ℹ️:
 
-- Composición: 70% polyester 30% algodón. Resistente a la lavadora máx 60º y secadora.
-- Las etiquetas personalizadas con nombre sirven para marcar cualquier tipo de ropa escolar, de campamento, deportiva, de residencias, hospitales, chaquetas...
 - Las etiquetas para ropa termoadhesivas sirven para marcar cualquier tipo de ropa escolar, de campamento, deportiva, de residencias, hospitales, chaquetas...
-- Impresas mediante sofisticado sistema de transferencia de tinta que garantiza su larga duración
 - 100 etiquetas de 1 x 7 cm de largo. Se planchan en 15 segundos a la ropa.
+- Las etiquetas personalizadas con nombre sirven para marcar cualquier tipo de ropa escolar, de campamento, deportiva, de residencias, hospitales, chaquetas...
+- Impresas mediante sofisticado sistema de transferencia de tinta que garantiza su larga duración
+- Composición: 70% polyester 30% algodón. Resistente a la lavadora máx 60º y secadora.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BRX25BG/?tag=tolees-21)

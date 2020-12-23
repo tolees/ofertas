@@ -25,15 +25,15 @@ Está [VTech Kidizoom Touch 5.0 Cámara de fotos digital infantil color azul ver
 
 ℹ️:
 
-- Cámara infantil 10 en 1 con pantalla táctil y Zoom x4
-- Micrófono integrado para grabar la voz y deformarla con diferentes y divertidos efectos
 - Las pilas son con finalidad demostrativa, se recomienda el uso de pilas alcalinas específicas para productos tecnológicos
-- Auriculares, cable USB y correa incluidos
-- Versión española
-- Existe versión rosa de este artículo
-- Incorpora auriculares para escuchar música al mismo tiempo que juega, fotografía o reproduce vídeos
-- Multilingüe: español, inglés, francés, alemán y holandés
 - 10 funciones incluidas: Doble objetivo, vídeo, reproductor de música, juegos, retoque de fotos, grabadora de voz, crea animaciones, foto panorámica, calculadora y detector de caras
+- Cámara infantil 10 en 1 con pantalla táctil y Zoom x4
+- Versión española
 - Posibilidad de ampliar la memoria con tarjeta microSD (no incluida)
+- Auriculares, cable USB y correa incluidos
+- Incorpora auriculares para escuchar música al mismo tiempo que juega, fotografía o reproduce vídeos
+- Micrófono integrado para grabar la voz y deformarla con diferentes y divertidos efectos
+- Existe versión rosa de este artículo
+- Multilingüe: español, inglés, francés, alemán y holandés
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07L3FF7Y1/?tag=tolees-21)

@@ -27,8 +27,8 @@ Tienes [G-STAR RAW Wavy Logo Originals Camiseta  Azul Imperial B353-1305  Medium
 
 - Straight hem
 - Ribbed, round neck
-- High density print G-Star RAW Originals graphic at the chest
-- Ribbed, round neck
 - Short sleeves, straight inset
+- Ribbed, round neck
+- High density print G-Star RAW Originals graphic at the chest
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B084R2X5FM/?tag=tolees-21)

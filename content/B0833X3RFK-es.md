@@ -25,10 +25,10 @@ En este momento está [Osciloscopio Digital Hanmatek DOS1102 con 2 Canales y Pan
 
 🔎:
 
-- Con función de rango automático, soporte horizontal, vertical, seguimiento de forma de onda única / multi-onda; múltiplos de atenuación de sonda de 1X, 10X, 100X, 1000X
 - Con 30 tipos de funciones de medición automática, puede personalizar el menú de medición; con la función de intercepción de forma de onda, se puede conectar sin problemas con el mismo generador de señal de marca. Soporte de comunicación LABVIEW, soporte de desarrollo secundario. Osciloscopio ultraportátil, volumen 301 x 152 x 70 mm, diseño de cuerpo ultra delgado, espesor 70 mm, peso 1.1 kg, ahorrando más espacio en el escritorio, diseño ultra silencioso, consumo de energía no superior a 18W
+- Medidor de frecuencia de hardware de 6 bits incorporado, que puede medir 2Hz ~ 20MHz; con función de medición de corriente, rango de medición: 100.0mA / V ~ 1KA / V
+- Con función de rango automático, soporte horizontal, vertical, seguimiento de forma de onda única / multi-onda; múltiplos de atenuación de sonda de 1X, 10X, 100X, 1000X
 - Pantalla LCD TFT (color verdadero) de 7 pulgadas, 65535 colores, resolución 800 × 480 píxeles; admite la medición del cursor, el modo del cursor no es menor que la diferencia de voltaje (△ V), la diferencia de tiempo (△ T), la diferencia de tiempo y la diferencia de voltaje (△ V) , Cuatro modos de cursor automático;
 - Ancho de banda de 110MHz, frecuencia de muestreo en tiempo real de 1GSa / s, doble canal, rango base de tiempo 2ns / div ～ 1000s / div; la profundidad de la memoria (longitud de registro de cada forma de onda adquirida) no es inferior a 10K puntos de muestreo; no menos de 16 grupos de formas de onda almacenadas; Con función de almacenamiento en disco U; Dispositivo USB e interfaz de host;
-- Medidor de frecuencia de hardware de 6 bits incorporado, que puede medir 2Hz ~ 20MHz; con función de medición de corriente, rango de medición: 100.0mA / V ~ 1KA / V
 
 [Aquí!!!](https://www.amazon.es/dp/B0833X3RFK/?tag=tolees-21)

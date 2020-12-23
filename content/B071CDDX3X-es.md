@@ -26,9 +26,9 @@ En este momento está [Star Wars: Battlefront II - Edición estándar](https://w
 🔎:
 
 - Forma equipo con un amigo y jugad juntos con el modo de pantalla dividida, sólo disponible en versiones de PlayStation 4 y Xbox One
-- Usa la Fuerza para enfrentarte a personajes emblemáticos como Kylo Ren, Darth Maul o Han Solo
-- Conviértete en Iden, soldado imperial de élite de las fuerzas especiales, y vive en una apasionante historia para un jugador que se desarrolla a lo largo de 30 años
-- Con el progreso de personajes personalizable, podrás mejorar las habilidades especiales de tu héroe, soldado o caza estelar
 - Descubre el universo multijugador, en el que hasta 40 jugadores pueden luchar por tierra y aire como héroes emblemáticos de las distintas épocas: precuela, clásica y nueva
+- Con el progreso de personajes personalizable, podrás mejorar las habilidades especiales de tu héroe, soldado o caza estelar
+- Conviértete en Iden, soldado imperial de élite de las fuerzas especiales, y vive en una apasionante historia para un jugador que se desarrolla a lo largo de 30 años
+- Usa la Fuerza para enfrentarte a personajes emblemáticos como Kylo Ren, Darth Maul o Han Solo
 
 [Aquí!!!](https://www.amazon.es/dp/B071CDDX3X/?tag=tolees-21)

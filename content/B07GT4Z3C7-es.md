@@ -1,28 +1,33 @@
 ---
 layout: post
-title: 'Descuento del 43.14 % en Sony SRSXB01W  Altavoz Portátil  Compact'
-date: 2020-10-23 15:32:41
+title: 'Sony SRSXB01W  Altavoz Portátil  Compact al 39.54 % de descuento'
+date: 2020-12-23 10:54:21
 image: 'https://m.media-amazon.com/images/I/51tC+nx16iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07GT4Z3C7-es'
-actualPrice: 19.9 EUR
+actualPrice: 21.16 EUR
 currency: EUR
-price: 19.9
+price: 21.16
 comparePrice: 35.0 EUR
 prodname: 'Sony SRSXB01W  Altavoz Portátil  Compacto  Bluetooth  Extra Bass  6H de Batería  Resistente Al Agua IPX5  Viene con Correa   Inalámbrico  MicroUSB  Blanco'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GT4Z3C7/?tag=tolees-21'
-descuento: '43.14'
+descuento: '39.54'
+average: '16.63857142857143'
 ---
 
-Tienes [Sony SRSXB01W  Altavoz Portátil  Compacto  Bluetooth  Extra Bass  6H de Batería  Resistente Al Agua IPX5  Viene con Correa   Inalámbrico  MicroUSB  Blanco](https://www.amazon.es/dp/B07GT4Z3C7/?tag=tolees-21) con un 43.14 % de descuento con precio de oferta de 19.9 EUR (original: 35.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Sony SRSXB01W  Altavoz Portátil  Compacto  Bluetooth  Extra Bass  6H de Batería  Resistente Al Agua IPX5  Viene con Correa   Inalámbrico  MicroUSB  Blanco](https://www.amazon.es/dp/B07GT4Z3C7/?tag=tolees-21) a 21.16 EUR (original: 35.0 EUR) (39.54 %  de descuento) en el siguiente enlace!
 
 [![Sony SRSXB01W  Altavoz Portátil  Compact](https://m.media-amazon.com/images/I/51tC+nx16iL._SL200_.jpg)](https://www.amazon.es/dp/B07GT4Z3C7/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Resistente al agua IPX5 para un uso sin preocupaciones
+- Diseño compacto y portátil
+- Extra Bass para un sonido rotundo y profundo
+- Hasta 6 horas de duración de la batería
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B07GT4Z3C7/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07GT4Z3C7/?tag=tolees-21)

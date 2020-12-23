@@ -25,10 +25,10 @@ Está [Elite Novo Force - Rodillo magnético de ciclismo  sistema de fijación r
 
 ℹ️:
 
-- El rodillo se pliega fácilmente y se vuelve compacto para facilitar su transporte o almacenamiento cuando no esté en uso
-- Rodillo de elastogel del diámetro de 30 mm
-- Chasis compatible con ruedas de 24" a 29"
 - 8 niveles de resistencia magnética
+- Chasis compatible con ruedas de 24" a 29"
 - Compatible con Misuro B+ y App My E-Training
+- Rodillo de elastogel del diámetro de 30 mm
+- El rodillo se pliega fácilmente y se vuelve compacto para facilitar su transporte o almacenamiento cuando no esté en uso
 
 [Ver la oferta!!](https://www.amazon.es/dp/B006JYDIBO/?tag=tolees-21)

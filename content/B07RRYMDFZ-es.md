@@ -25,10 +25,10 @@ Ahora mismo tienes [Orbegozo TRM 54 - Termo eléctrico 50 litros  modo ECO  tanq
 
 🔎:
 
-- Máxima eficacia energética y ahorro eléctrico gracias a su modo ECO
 - Controlador de temperatura mucho más preciso con un rango ajustable de entre los 30 a 75 grados centígrados
+- Máxima eficacia energética y ahorro eléctrico gracias a su modo ECO
 - Termo eléctrico de agua Orbegozo con 50 litros de capacidad, control automático de agua fría y calentamiento inmediato
-- Es resistente a las incrustaciones y con elementos de seguridad que previenen fugas y otorgan una vida útil más larga
 - Depósito interior de esmalte de zafiro, antioxidante y a prueba de corrosión
+- Es resistente a las incrustaciones y con elementos de seguridad que previenen fugas y otorgan una vida útil más larga
 
 [Visítala!!!](https://www.amazon.es/dp/B07RRYMDFZ/?tag=tolees-21)
