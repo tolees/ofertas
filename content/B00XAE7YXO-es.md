@@ -25,10 +25,10 @@ Ahora mismo tienes [Air Wick Freshmatic - Recambio de Ambientador Spray Automát
 
 🔎:
 
+- Fragancia Oasis Turquesa, rodéate de la belleza salvaje de un paradisíaco oasis y sus aromas de la madera a la deriva bañada por el sol, la espuma salada del mar y la brisa cálida
 - Hasta 70 días de frescor, disfruta de un aroma duradero y consistente para tu hogar
 - Descubre el resto de fragancias Air Wick Freshmatic
 - Elige entre tres niveles de intensidad para conseguir tu nivel de fragancia deseada
-- Fragancia Oasis Turquesa, rodéate de la belleza salvaje de un paradisíaco oasis y sus aromas de la madera a la deriva bañada por el sol, la espuma salada del mar y la brisa cálida
 - Recambio para ambientador spray automático Air Wick Freshmatic. El empaque puede ser diferente
 
 [Visítala!!!](https://www.amazon.es/dp/B00XAE7YXO/?tag=tolees-21)

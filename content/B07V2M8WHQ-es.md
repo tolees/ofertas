@@ -26,8 +26,8 @@ En este momento está [So Bomb DIY Fábrica de Bombas de baño de Cristal  color
 🔎:
 
 - Con su nuevo diseño moderno podrás realizarlas fácilmente
-- La hora del baño nunca ha sido tan divertida
 - Agrega cristales de colores (sales) para añadir un toque relajante a tu baño
+- La hora del baño nunca ha sido tan divertida
 - Con la nueva fábrica de bombas de baño de cristal tienes todo lo necesario para realizar fantásticas bombas de baño gaseosas
 
 [Aquí!!!](https://www.amazon.es/dp/B07V2M8WHQ/?tag=tolees-21)

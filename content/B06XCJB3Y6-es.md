@@ -25,8 +25,8 @@ Está [IMC Toys Boom Ball  juego de mesa  Innovación 95977    color/modelo surt
 
 ℹ️:
 
+- Juego de acción y movimiento en el que los jugadores para ganar, con su canasta-cabeza, deberán atrapar las pelotas lanzadas aleatoriamente
 - Juego para 1 ó 2 jugadores
 - Altura del disparo ajustable gracias a las diferentes posiciones de las patas
-- Juego de acción y movimiento en el que los jugadores para ganar, con su canasta-cabeza, deberán atrapar las pelotas lanzadas aleatoriamente
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06XCJB3Y6/?tag=tolees-21)

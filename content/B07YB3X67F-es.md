@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Seiko Inspección automática SRPD69K1 al 17.89 % de descuento'
-date: 2020-12-19 20:27:52
+date: 2020-12-23 14:54:02
 image: 'https://m.media-amazon.com/images/I/51bM5IjlykL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Ahora mismo tienes [Seiko Inspección automática SRPD69K1](https://www.amazon.e
 
 🔎:
 
-- Material de la caja: Acero inoxidable
 - Material de la esfera: Hardlex
-- Pulsera: Acero inoxidable
-- Color de la esfera: Rojo
 - Cierre: Cierre deployante
+- Pulsera: Acero inoxidable
+- Material de la caja: Acero inoxidable
+- Color de la esfera: Rojo
 
 [Visítala!!!](https://www.amazon.es/dp/B07YB3X67F/?tag=tolees-21)

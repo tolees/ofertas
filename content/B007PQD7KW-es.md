@@ -25,8 +25,8 @@ Ahora mismo tienes [Bulldog Gel Limpiador Facial - 150 ml](https://www.amazon.es
 
 🔎:
 
+- Género - Hombre
 - Marca - Bulldog
 - Tipo de producto -
-- Género - Hombre
 
 [Visítala!!!](https://www.amazon.es/dp/B007PQD7KW/?tag=tolees-21)

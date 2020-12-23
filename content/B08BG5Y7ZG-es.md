@@ -25,10 +25,10 @@ Ahora mismo tienes [adidas Lite Racer RBN 2.0  Zapatillas para Mujer  NEGBÁS/NE
 
 🔎:
 
-- Diseño ligero y transpirable
-- Parte superior de malla estampada
 - Horma clásica
 - Zapatilla deportiva inspirada en el running
+- Diseño ligero y transpirable
 - Cierre de cordones
+- Parte superior de malla estampada
 
 [Visítala!!!](https://www.amazon.es/dp/B08BG5Y7ZG/?tag=tolees-21)

@@ -25,9 +25,9 @@ Ahora mismo tienes [MasterClass Soplete Deluxe de Gas para Crème Brulee  Pastel
 
 🔎:
 
-- Soplete de cocina robusto con una llama potente y un gran cilindro recargable para un uso largo
 - Este soplete de cocina tiene todo tipo de medidas de seguridad, incluyendo un encendedor instantáneo, bloqueo de seguridad y soporte, con cuerpo de metal antideslizante para garantizar un agarre firme
-- Diseño de metal duradero para un uso regular por parte de los chefs más apasionados; cumple con BS EN ISO 22702:2003
+- Soplete de cocina robusto con una llama potente y un gran cilindro recargable para un uso largo
 - El sistema anti-llama ajustable lo hace oportuno para diversas tareas de cocina, desde caramelizar las crème brulees hasta pelar tomates
+- Diseño de metal duradero para un uso regular por parte de los chefs más apasionados; cumple con BS EN ISO 22702:2003
 
 [Visítala!!!](https://www.amazon.es/dp/B007NIVYHA/?tag=tolees-21)

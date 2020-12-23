@@ -27,8 +27,8 @@ Ahora mismo tienes [Dietisa Jalea - 100 gr](https://www.amazon.es/dp/B01I2ZCIJA/
 
 - Jalea real que fácil ita la expectoración y ayuda a las funciones defensivas del organismo
 - La Jalea Real Royal Vit contiene un 2% mínimo de HDA y un nivel del 1% de Prolina valorada marcadores de frescura, actividad y calidad de una jalea
-- Sabor herbal
 - Aporta 1.000 mg de Jalea Real y enriquecido a base de llantén, eucalipto, vitamina c
 - ¡Refuerza tu organismo
+- Sabor herbal
 
 [Visítala!!!](https://www.amazon.es/dp/B01I2ZCIJA/?tag=tolees-21)

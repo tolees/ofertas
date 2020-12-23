@@ -25,9 +25,9 @@ Tienes [PUMA ESS Logo tee T-Shirt  Mujer  Light Gray Heather  M](https://www.ama
 
 ℹ️:
 
+- Corte recto
 - Cuello redondo acanalado
 - Para uso diario o entrenamiento
 - Logotipo del felino de PUMA estampado
-- Corte recto
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D5SBD65/?tag=tolees-21)

@@ -25,10 +25,10 @@ Tienes [Buff - Gorro de punto para adultos  otoño/invierno  unisex  color Vario
 
 🔎:
 
-- fleece band: regula el calor y el flujo de aire con un peso reducido
 - Tipo de deporte: ropa deportiva al aire libre
 - Lavar a mano
 - Airon
+- fleece band: regula el calor y el flujo de aire con un peso reducido
 - Material: 100% acrílico, banda: 85% poliéster reciclado 15% poliéster
 
 [Comprar!!!](https://www.amazon.es/dp/B012GSMW54/?tag=tolees-21)

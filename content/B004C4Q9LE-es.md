@@ -25,8 +25,8 @@ Tienes [Nike Air Force 1  07  Zapatillas de Deporte Hombre  Blanco White White  
 
 🔎:
 
-- adulto
 - White
 - Leather
+- adulto
 
 [Comprar!!!](https://www.amazon.es/dp/B004C4Q9LE/?tag=tolees-21)

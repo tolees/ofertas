@@ -25,11 +25,11 @@ Tienes [Motorola Moto G8 Power Lite  Pantalla 6 5" HD+  procesador octa-core 2.3
 
 🔎:
 
-- Batería de larga duración de 5000 mAh; aguanta hasta tres días con una sola carga¹ gracias a la gran batería de 5000 mAh
 - Lector de huellas; desbloquea tu teléfono de forma segura simplemente tocándolo con el dedo
 - Sistema de triple cámara de 16 MP; haz fotos más nítidas, increíbles tomas de primeros planos y preciosos retratos
-- Rendimiento con alta capacidad de respuesta; observa la respuesta del teléfono cuando lo tocas y pasas el dedo por él
 - Pantalla superancha Max Vision; da vida a tus películas, programas de televisión y juegos favoritos en la amplia pantalla Max Vision HD+ de 6,5"
+- Batería de larga duración de 5000 mAh; aguanta hasta tres días con una sola carga¹ gracias a la gran batería de 5000 mAh
 - 64 GB de almacenamiento; lleva miles de fotos, canciones y vídeos, y añade incluso más con una ranura para tarjeta microSD de 256 GB3 específica
+- Rendimiento con alta capacidad de respuesta; observa la respuesta del teléfono cuando lo tocas y pasas el dedo por él
 
 [Comprar!!!](https://www.amazon.es/dp/B0846JTM4Z/?tag=tolees-21)
