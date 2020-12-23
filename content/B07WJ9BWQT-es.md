@@ -25,9 +25,9 @@ Tienes [Art 2C - Esmaltes de uñas clásicos en tonos innovadores  3 unidades de
 
 🔎:
 
-- Fórmula vegana no tóxica y no testada en animales; no contiene formaldehído, tolueno, alcanfor, plomo, parabenos, xileno, estireno ni DBP
 - Fórmula avanzada de secado rápido para uso diario y colores vivos que duran, y duran, y duran
 - Aplicación uniforme y una perfecta distribución del color con una sola capa; se elimina rápida y fácilmente con quitaesmalte
 - Viene con un pincel para conseguir una aplicación de calidad profesional; el esmalte está formulado con filtro UV para un color más duradero
+- Fórmula vegana no tóxica y no testada en animales; no contiene formaldehído, tolueno, alcanfor, plomo, parabenos, xileno, estireno ni DBP
 
 [Comprar!!!](https://www.amazon.es/dp/B07WJ9BWQT/?tag=tolees-21)

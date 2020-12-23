@@ -25,10 +25,10 @@ Está [Percussion Plus - Batería para aprender a tocar](https://www.amazon.es/d
 
 ℹ️:
 
-- Incluye pedal de bombo
 - Completamente ajustable en altura e inclinación.
-- Juego completo de almohadillas
 - Conjunto de ensayo sólido y de buena calidad
 - Juego completo de soportes
+- Juego completo de almohadillas
+- Incluye pedal de bombo
 
 [Ver la oferta!!](https://www.amazon.es/dp/B002R0CQW6/?tag=tolees-21)

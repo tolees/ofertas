@@ -25,8 +25,8 @@ Ahora mismo tienes [Kipling - Fundamental Nc  Mochilas Mujer  Negro  Lively Blac
 
 🔎:
 
-- Material exterior: Sintético
-- Cierre: Cordón
 - Composición: Sintético
+- Cierre: Cordón
+- Material exterior: Sintético
 
 [Visítala!!!](https://www.amazon.es/dp/B07BH9T87T/?tag=tolees-21)

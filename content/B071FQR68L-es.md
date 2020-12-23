@@ -25,8 +25,8 @@ En este momento está [Ana Maria Lajusticia - Aceite de onagra – 275 perlas. A
 
 🔎:
 
+- Indicado para problema asociados con la menopausia
 - Indicado para problema asociados a dolores menstruales
 - Indicado para personas con problemas circulatorios
-- Indicado para problema asociados con la menopausia
 
 [Aquí!!!](https://www.amazon.es/dp/B071FQR68L/?tag=tolees-21)

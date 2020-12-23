@@ -25,10 +25,10 @@ Ahora mismo tienes [VYPE ePen 3 Cigarrillo electrónico Rojo](https://www.amazon
 
 🔎:
 
-- FÁCIL USO: Dispositivo fácil y sin complicaciones. Su efectivo ajuste por click asegura un encaje perfecto de las recargas para disfrutar fácilmente de los diferentes sabores.El dispositivo NO CONTIENE NICOTINA, recargas no incluidas.
-- ePen3: Compuesto por un dispositivo Vype ePen3, un cargador de cable USB y una guía de inicio rápido. Disponible en 2 colores con acabado suave, elige el Vype ePen 3 que se adapta a tu estilo.+Producto exclusivo para fumadores adultos (+18).
-- CARGA Y BATERÍA: Cargador de cable USB. Con su batería completamente cargada es capaz de aguantar tanto como la recarga que utilices, proporcionando una indudable comodidad.
-- ALTO RENDIMIENTO: Vapeador de sistema cerrado que proporciona 200 caladas por recarga, es fácil de usar y es perfecto para llevarlo siempre contigo gracias a su diseño compacto y ergonómico.
 - EXPERIENCIA INTENSA: Su sistema de mecha de algodón que calienta el eLiquid asegura una experiencia de vapor intensa y máximo sabor.
+- CARGA Y BATERÍA: Cargador de cable USB. Con su batería completamente cargada es capaz de aguantar tanto como la recarga que utilices, proporcionando una indudable comodidad.
+- ePen3: Compuesto por un dispositivo Vype ePen3, un cargador de cable USB y una guía de inicio rápido. Disponible en 2 colores con acabado suave, elige el Vype ePen 3 que se adapta a tu estilo.+Producto exclusivo para fumadores adultos (+18).
+- FÁCIL USO: Dispositivo fácil y sin complicaciones. Su efectivo ajuste por click asegura un encaje perfecto de las recargas para disfrutar fácilmente de los diferentes sabores.El dispositivo NO CONTIENE NICOTINA, recargas no incluidas.
+- ALTO RENDIMIENTO: Vapeador de sistema cerrado que proporciona 200 caladas por recarga, es fácil de usar y es perfecto para llevarlo siempre contigo gracias a su diseño compacto y ergonómico.
 
 [Visítala!!!](https://www.amazon.es/dp/B08FR77JSS/?tag=tolees-21)

@@ -25,8 +25,8 @@ En este momento está [Superga 2578-cotu  Zapatillas de Gimnasia Unisex Adulto  
 
 🔎:
 
+- Forro: tela
 - Material de la suela: goma
 - Material exterior: tela
-- Forro: tela
 
 [Aquí!!!](https://www.amazon.es/dp/B07TXLQ88N/?tag=tolees-21)

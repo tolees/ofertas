@@ -25,8 +25,8 @@ Tienes [3rd Avenue STX10ABBPK - Paquete de guitarra acústica  Azul  Blueburst  
 
 🔎:
 
-- El paquete incluye: guitarra, gancho, picos, correa para el hombro y conjunto de reemplazo de cuerdas
 - Fantástico paquete de guitarra para principiantes de 11 años o más
+- El paquete incluye: guitarra, gancho, picos, correa para el hombro y conjunto de reemplazo de cuerdas
 - Guitarra acústica de tamaño completo con cuerdas de acero: Blueburst, Sunburst o Natural
 - Precioso acabado de alto brillo con bonito diseño de roseta alrededor del agujero de sonido
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Casio Collection A168WA-1YES  Reloj Rect con un 22.46 % de descuento'
-date: 2020-12-22 11:16:43
+date: 2020-12-23 11:38:46
 image: 'https://m.media-amazon.com/images/I/41l9tEAa5IL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000LAKYW8/?tag=tolees-21'
 descuento: '22.46'
-average: '25.194464285714282'
+average: '25.258793103448273'
 ---
 
 En este momento está [Casio Collection A168WA-1YES  Reloj Rectangular  Unisex  Plateado](https://www.amazon.es/dp/B000LAKYW8/?tag=tolees-21) a 27.06 EUR (original: 34.9 EUR) (22.46 %  de descuento) en el siguiente enlace!
@@ -25,10 +25,10 @@ En este momento está [Casio Collection A168WA-1YES  Reloj Rectangular  Unisex  
 
 🔎:
 
-- Retro
-- Correa de acero inoxidable
-- Función de claendario
-- Cronómetro
 - Luz de fondo
+- Cronómetro
+- Retro
+- Función de claendario
+- Correa de acero inoxidable
 
 [Aquí!!!](https://www.amazon.es/dp/B000LAKYW8/?tag=tolees-21)
