@@ -25,8 +25,8 @@ En este momento está [San Ignacio - Set 3 sartenes  16-20-24 cm   aluminio pren
 
 🔎:
 
-- Aluminio prensado recubrimiento mármol
 - Mango de baquelita en negro
+- Aluminio prensado recubrimiento mármol
 - Compatible con todo tipo de cocina, incluyendo inducción.
 - Incluye: 1 pieza de Ø16 x 3,3 cm, 1 pieza: Ø20 x 3,5 cm, 1 pieza: Ø24 x 3,8 cm
 

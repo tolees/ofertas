@@ -25,11 +25,11 @@ Tienes [Swarovski Colgante Creativity Circle  Blanco  Baño de Rodio](https://ww
 
 ℹ️:
 
-- Este diseño altamente refinado brilla en cristal pavé transparente
-- Largo: 38 cm Colgante: 1.5x2 cm
-- El metal con baño de rodio aporta un toque moderno
 - El colgante mide 1,5 x 2 cm e incluye una cadena de 38 cm
 - Puede lucirse con un colgante más largo para conseguir un look que refleje la tendencia de superposiciones a distintos niveles
+- Largo: 38 cm Colgante: 1.5x2 cm
+- Este diseño altamente refinado brilla en cristal pavé transparente
+- El metal con baño de rodio aporta un toque moderno
 - Una moderna e imponente interpretación de un clásico atemporal: el colgante circular
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01EE3P6H0/?tag=tolees-21)

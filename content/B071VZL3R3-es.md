@@ -25,9 +25,9 @@ En este momento está [Flexi New Comfort - Cinta   Rojo  Talla M](https://www.am
 
 🔎:
 
-- Fabricado en Alemania
 - Correa Extensible 5m
 - Empuñadura ajustable
+- Fabricado en Alemania
 - Componentes reflectantes
 
 [Aquí!!!](https://www.amazon.es/dp/B071VZL3R3/?tag=tolees-21)

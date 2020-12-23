@@ -25,8 +25,8 @@ Está [Anjou Aceites Esenciales 12 pcs Aceites Esenciales para Difusor 100% Natu
 
 ℹ️:
 
-- 【Grado Terapéutico y 100% Puro】: Sin parabenos añadidos, Examen GC para probar la pureza, amistoso para vegetarianos y veganos
 - 【Productos Hechos en Casa】: Cree sus propios productos naturales con los aceites esenciales incluyendo jabones, bálsamos de labios, e hidratantes de cuerpo y lociones – todos son libres de aditivos y conservantes
+- 【Grado Terapéutico y 100% Puro】: Sin parabenos añadidos, Examen GC para probar la pureza, amistoso para vegetarianos y veganos
 - 【Amplia Gama de Usos】: Use con un difusor, un ambientador, un vaporizador, o un humidificador para un mejor aire; Use cada aceite para aromaterapia, masaje, perfumes, relajación o limpieza
 - 【El Perfecto Set Perfumado de Regalo 】: Navidad, Cumpleaños, Aniversarios, Vacaciones, Día del Padre, Día de la Madre, Día de San Valentín, o como una manera de mostrar su agradecimiento a alguien especial
 - 【Set de 12 *5ml Aceites Esenciales Naturales】: Incluye Lavanda, Naranja Dulce, Árbol de Té, Eucalipto, Hierba de Limón, Menta, Bergamota, Incienso, Limón, Romero, Canela y Ylang-Ylang
