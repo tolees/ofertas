@@ -25,10 +25,10 @@ Tienes [GPC Image - 44A - Cartuchos de tóner compatibles para impresoras HP CF2
 
 ℹ️:
 
-- 2. Adecuado para impresora láser HP LaserJet Pro M15a, M15w, MFP M28a, MFP M28w.
-- 5. Nuestros cartuchos ofrecen impresiones de calidad, brillantes y naturales.
-- 1. GPC Image: juego de 2 cartuchos de tóner compatibles de repuesto para HP CF244A 44A (no original).
-- 4. Capacidad de impresión: 1000 páginas por cartucho de tóner negro al 5% de cobertura de una hoja tamaño A4.
 - 3. Contenido del paquete: 2 cartuchos de tóner de color negro CF244A 44A.
+- 2. Adecuado para impresora láser HP LaserJet Pro M15a, M15w, MFP M28a, MFP M28w.
+- 1. GPC Image: juego de 2 cartuchos de tóner compatibles de repuesto para HP CF244A 44A (no original).
+- 5. Nuestros cartuchos ofrecen impresiones de calidad, brillantes y naturales.
+- 4. Capacidad de impresión: 1000 páginas por cartucho de tóner negro al 5% de cobertura de una hoja tamaño A4.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08FBX5ZFB/?tag=tolees-21)

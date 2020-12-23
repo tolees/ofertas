@@ -26,7 +26,7 @@ Está [find. DREPY-1W4-001 Botas Chelsea  Marrón Tan Nubuk  37 EU](https://www.
 ℹ️:
 
 - Suela de goma cosida en el marco.
-- Piel de napa.
 - Laterales elásticos.
+- Piel de napa.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B084LLTCX1/?tag=tolees-21)
