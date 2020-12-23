@@ -25,8 +25,8 @@ Ahora mismo tienes [adidas FIT Suit 3S Traje de Baño  Mujer  Black/White  34](h
 
 🔎:
 
-- Shoulder straps crossed on the back
 - Chlorine-resistant fabric
+- Shoulder straps crossed on the back
 - Swimsuit
 
 [Visítala!!!](https://www.amazon.es/dp/B07KMFPFVG/?tag=tolees-21)

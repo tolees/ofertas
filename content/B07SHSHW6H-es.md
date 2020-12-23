@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AGPTEK Micrófono de Solapa con Parabrisa al 23.54 % de descuento'
-date: 2020-12-21 16:55:12
+date: 2020-12-23 18:35:38
 image: 'https://m.media-amazon.com/images/I/41-O0JGHG9L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Está [AGPTEK Micrófono de Solapa con Parabrisas  Z02C Lavalier Micrófono Omni
 
 ℹ️:
 
-- ☀[Professional Omnidirectional Flawless Recordings] The microphone ensures impeccable sound quality with the superior material and high sensitivity, so that its better for sound transmission, wont pick up any atmospheric noise and reduce the loss of tone. Plug and play, no driver and battery required!
-- ☀[Small Yet Powerful] Made of metal case, a combination of fashion and technology design, its reliable and durable design provides perfect protection for this microphone. Lightweight and portable size is easy to fit in your pocket and put almost anywhere. Included storage bag for convenient transportation and secure protection.
-- ☀[Hands-free Design] Metal lavalier clip can clip microphone to shirt or tie or pocket for using it hands-free. Its lightweight materials to make sure you barely even notice the mic is there. Great recording assistant for Podcasts, Youtube, Video Conferences, Dictations, Interviews, Studios!
-- ☀[What You Get] Except the Professional Omnidirectional Mic, you will get a Type-C headphone jack adapter, 3.5 mm straight adapter, 3.5 mm right angle adapter, wind muff, mic cover, storage bag, user manual, which aims at enable maximum device compatibility and capture clear, crisp and professional audio content at your convenience.
-- ☀[Compatible with Most Devices] Want an on-the-go microphone that can work with all your gadgets? The AGPTEK Lavalier Lapel Microphone is designed to work with your Smart Phones (iPhone & Android), Computers, PCs, DSLE Cameras, Camcorders, and more, Which makes your device a dynamic audio recording accessory instantly. (For iPhone 7+, lightning to 3.5mm headphone adapter is needed)
+- ✔【Con 3 * Adaptador, Mejor Compatibilidad】: Viene con 3 adaptador incluye cable de tipo C. Adecuado para grabar voces o videos por Varios Smartphone Android, iPhone (Por iPhone 7+, se necesita lightning adaptador), Computadoras, Tableta, Grabadora de línea, etc. No se requieren enchufes ni baterías adicionales. Plug and Play.
+- ✔【Mejor Graba en Aire Libre】: Viene con una parabrisa, diseñado para uso en entornos de mucho viento o exterior. Efectivamente corta los ruidos externos de distracción mientras permanece acústicamente transparente.
+- ✔【Fácil de Usar y Llevar】: El micrófono tiene un cable de 2M de largo, por lo tanto, la grabación no está limitada por la distancia. Viene con un clip de solapa de metal puede sujetar el micrófono a la camisa, corbata o bolsillo para usarlo con las manos libres. Incluye un bolso PU para proteger mejor su micrófono.
+- ✔【Usos Amplios】: Adecuado para la enseñanza en el aula, la grabación de entrevistas, la grabación de programas, los discursos de conferencias, los discursos de video, la organización de eventos, las canciones K, etc.
+- ✔【Grabaciones Impecables Profesionales】: El micrófono lavalier tiene una amplia respuesta de frecuencia y alta sensibilidad, y se puede reducir efectivamente el ruido para resultados profesionales. Puede grabar fácilmente archivos de audio y video perfectamente en su teléfono inteligente y tableta.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07SHSHW6H/?tag=tolees-21)

@@ -26,9 +26,9 @@ Tienes [Emuca 2036717 - Lote de 4 ruedas pivotantes negras para mueble   sin fre
 ℹ️:
 
 - Capacidad de carga de 15kg por rueda.
-- Placa para atornillar al mueble en acero cincado (tornillos de montaje incluidos).
-- Diámetro de la rueda: 30mm.
-- Juego de 4 ruedas para mueble sin freno.
 - Fabricada en plástico negro y acero cincado.
+- Juego de 4 ruedas para mueble sin freno.
+- Diámetro de la rueda: 30mm.
+- Placa para atornillar al mueble en acero cincado (tornillos de montaje incluidos).
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01BKHG0P0/?tag=tolees-21)

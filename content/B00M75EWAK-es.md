@@ -26,8 +26,8 @@ Tienes [Audimer Tapones - Ayuda a disolver el tapón de cera. Eficacia probada. 
 ℹ️:
 
 - Seguro para Adultos y Niños, a partir de 3 años
-- Contiene únicamente ingredientes naturales.
 - Audimer Tapones es una emulsión segura, con ingredientes 100% de origen natural, que de forma delicada ayuda a disolver el tapón de cerumen y ayuda a mantener la audición.
+- Contiene únicamente ingredientes naturales.
 - Eficacia probada
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00M75EWAK/?tag=tolees-21)

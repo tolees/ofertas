@@ -25,9 +25,9 @@ En este momento está [Marco Tozzi 2-2-28707-24  Sandalia con Pulsera Mujer  Mar
 
 🔎:
 
-- Material exterior: textil.
-- Hebilla.
-- Material interior: textil.
 - Suela sintética.
+- Hebilla.
+- Material exterior: textil.
+- Material interior: textil.
 
 [Aquí!!!](https://www.amazon.es/dp/B07VTYHB68/?tag=tolees-21)

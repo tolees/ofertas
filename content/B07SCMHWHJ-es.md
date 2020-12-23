@@ -25,8 +25,8 @@ Ahora mismo tienes [Lee Austin Jeans  Azul  Dk Worn Foam If   31W / 34L para Hom
 
 🔎:
 
-- Tienen un parche de piel en la parte trasera con la marca Lee
 - Vaqueros para hombre
+- Tienen un parche de piel en la parte trasera con la marca Lee
 - Estilo 5 bolsillos
 
 [Visítala!!!](https://www.amazon.es/dp/B07SCMHWHJ/?tag=tolees-21)

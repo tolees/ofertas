@@ -25,8 +25,8 @@ En este momento está [Lámpara Secador de Uñas  Carttiya LED/UV Gel Esmalte de
 
 🔎:
 
-- DISEÑO INTELIGENTE DEL SENSOR AUTOMÁTICO: El secador de uñas Carttiya tiene 3 configuraciones de temporizador: 30s / 60s / 90s. Manos / pies adentro, lámpara encendida. Manos / pies afuera, lámpara apagada. El diseño del orificio de disipación de calor evita el sobrecalentamiento. LED en ángulo de 180 °, sin esquina muerta, cura 5 uñas o uñas de los pies de manera uniforme y simultánea.
 - CURAR TODAS LAS CLAVOS DE GEL: Longitud de onda óptica doble (365nm + 405nm), hace que la lámpara de uñas Carttiya LED sea compatible con todos los esmaltes de uñas LED y geles UV, incluidos geles duros, gel acrílico, cola de gema, gel de escultura, etc. Por favor tenga en cuenta NO SUGERIR PARA PULIDO NORMAL.
+- DISEÑO INTELIGENTE DEL SENSOR AUTOMÁTICO: El secador de uñas Carttiya tiene 3 configuraciones de temporizador: 30s / 60s / 90s. Manos / pies adentro, lámpara encendida. Manos / pies afuera, lámpara apagada. El diseño del orificio de disipación de calor evita el sobrecalentamiento. LED en ángulo de 180 °, sin esquina muerta, cura 5 uñas o uñas de los pies de manera uniforme y simultánea.
 - SALÓN DE UÑAS PORTÁTILES: Compacto, liviano pero potente, puede ser alimentado por un cargador USB, banco de energía, computadora portátil o cargador de automóvil. Máquina portátil de manicura de uñas para la escuela, la oficina, el hogar, los viajes y el uso al aire libre.
 - DURADERO, RÁPIDO Y SEGURO: 12 perlas de luz LED duraderas con una vida útil de 50,000 horas, sin necesidad de preocuparse por el reemplazo de bombillas como la lámpara UV tradicional. Y el tiempo de curado es aproximadamente un 50% más rápido que los secadores UV o CCFL + UV. Se sugiere que use el cargador de 5V / 2A y NI USE el cargador de más de 5A o menos de 2A.No dañe los ojos y la piel como el secador de esmalte de uñas obsoleto.
 

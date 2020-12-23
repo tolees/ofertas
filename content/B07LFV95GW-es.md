@@ -25,10 +25,10 @@ Tienes [Geox D ANNYTAH Moc A  Mocasines Mujer  Negro  Black C9997   36.5 EU](htt
 
 ℹ️:
 
-- Cierre: sin cierre
-- Forma del tacón: tacón plano
-- Transpirable
-- Suela: goma
 - Material interior: piel
+- Transpirable
+- Forma del tacón: tacón plano
+- Cierre: sin cierre
+- Suela: goma
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07LFV95GW/?tag=tolees-21)

@@ -28,9 +28,9 @@ En este momento está [Imetec Bellissima DF1 1000 Difusor de Aire Caliente para 
 - Rejilla perforada desarrollada especialmente para evitar que el cabello se enrede
 - Mango ergonómico para un uso fácil en toda la cabeza
 - Poder: 700W
-- 2 combinaciones de aire/temperatura para un secado personalizado
-- Difusor profesional y secador en un solo instrumento para secar delicadamente el cabello rizado resaltando su belleza natural
 - Longitud del cable: 2.2 m
+- Difusor profesional y secador en un solo instrumento para secar delicadamente el cabello rizado resaltando su belleza natural
 - 12 dedos largos para una distribución uniforme del aire en los rizos
+- 2 combinaciones de aire/temperatura para un secado personalizado
 
 [Aquí!!!](https://www.amazon.es/dp/B006UFWP3E/?tag=tolees-21)

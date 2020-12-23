@@ -25,9 +25,9 @@ Está [Rotulador punta fina STABILO point 88 - Estuche premium Colorparade con 2
 
 ℹ️:
 
-- Punta 0,4 mm de fibra con refuerzo de metal
-- Calidad alemana
 - Gama de 30 colores
+- Punta 0,4 mm de fibra con refuerzo de metal
 - Número 1 en Europa
+- Calidad alemana
 
 [Ver la oferta!!](https://www.amazon.es/dp/B000OZQB36/?tag=tolees-21)

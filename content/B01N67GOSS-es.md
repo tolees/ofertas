@@ -25,9 +25,9 @@ Ahora mismo tienes [Cable SEGA DC VGA Cable SEGA Dreamcast VGA Adaptador HD DC V
 
 🔎:
 
-- Salida: RCA (Audio) y VGA, calidad de salida simular como comparar a VGA BOX Dreamcast. Enquipado Aniti interferencia (núcleo RH)
 - ENDARK calidad 100% garantizada, probada uno por uno antes del envío, usted puede elegir diversos accesorios del juego del reemplazo de ENDARK
-- Dreamcast. NTSC / J, NTSC / EE.UU. / Canadá y PAL consolas Sólo unos pocos juegos no es compatible con este cable, en algunos casos muy raros pantalla de menú de algunos juegos de pantalla para ser en blanco y negro. Compruebe por favor si su LCD TV apoya la resolución 640 x 480
 - 1,8 M de largo Dreamcast VGA de alta definición con cable de oro con conectores RCA conectados sonido (Funciona igual que una caja de VGA) Además de libre macho a conector macho y 2 a 1 RCA convertidor de audio Versión: Compatible con todas las versiones de la consola Dreamcast. NTSC / J, NTSC / EE.UU. / Canadá y PAL
+- Salida: RCA (Audio) y VGA, calidad de salida simular como comparar a VGA BOX Dreamcast. Enquipado Aniti interferencia (núcleo RH)
+- Dreamcast. NTSC / J, NTSC / EE.UU. / Canadá y PAL consolas Sólo unos pocos juegos no es compatible con este cable, en algunos casos muy raros pantalla de menú de algunos juegos de pantalla para ser en blanco y negro. Compruebe por favor si su LCD TV apoya la resolución 640 x 480
 
 [Visítala!!!](https://www.amazon.es/dp/B01N67GOSS/?tag=tolees-21)
