@@ -25,8 +25,8 @@ Está [adidas ULT Alpha Bra Sujetador de Deporte  Mujer  Black  XS](https://www.
 
 ℹ️:
 
+- Great freedom of movement
 - Sports bra
 - Stretch fabric
-- Great freedom of movement
 
 [Ver la oferta!!](https://www.amazon.es/dp/B081TPL7H1/?tag=tolees-21)

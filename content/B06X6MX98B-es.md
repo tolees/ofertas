@@ -25,10 +25,10 @@ En este momento está [Anself chuangdian – Dispensador de jabón para pared Fi
 
 🔎:
 
-- Viene con etiquetas en inglés para que escribas lo que hay dentro.
 - Boquilla de fluido en la parte superior, sin fugas y jabón con precisión.
-- Adecuado para el hogar, oficina, escuela, banco, hotel, centro comercial, hospital, bar, etc.
+- Viene con etiquetas en inglés para que escribas lo que hay dentro.
 - Diseño de bloqueo, equipado con una llave adecuada para lugares públicos.
+- Adecuado para el hogar, oficina, escuela, banco, hotel, centro comercial, hospital, bar, etc.
 - Tiene una ventana para que sepas cuándo tienes que llenarlo.
 
 [Aquí!!!](https://www.amazon.es/dp/B06X6MX98B/?tag=tolees-21)

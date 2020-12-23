@@ -25,9 +25,9 @@ Está [Audio-Técnica ATH-M50x - Auriculares para DJ  color negro](https://www.a
 
 ℹ️:
 
-- Diseño circumaural alrededor de la orejas para obtener un aislamiento sonoro en entornos ruidosos
-- Audífonos giratorios 90° para facilitar la escucha
-- Claridad en toda su amplia gama de frecuencias, con una respuesta en graves profunda y precisa
 - Transductores de gran apertura de 45 mm con imanes de tierras raras y bobinas con hilo de aluminio recubierto de cobre
+- Claridad en toda su amplia gama de frecuencias, con una respuesta en graves profunda y precisa
+- Audífonos giratorios 90° para facilitar la escucha
+- Diseño circumaural alrededor de la orejas para obtener un aislamiento sonoro en entornos ruidosos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00HVLUR86/?tag=tolees-21)

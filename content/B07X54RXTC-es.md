@@ -25,10 +25,10 @@ Tienes [Weta Collectibles Figura Coleccionable Bilbo  Multicolor  11 cm](https:/
 
 🔎:
 
-- Sabemos que tienes una gran colección de todos los personajes de El Señor de los Anillos, pero esta seguro que no la tienes
-- Producto con licencia 100% oficial
-- Inspirada en El Señor de los Anillos
-- Medidas:  9,5 x 11 x 8,5 cm
 - Fabricada en vinilo, pertenece a la línea Mini Epics
+- Sabemos que tienes una gran colección de todos los personajes de El Señor de los Anillos, pero esta seguro que no la tienes
+- Inspirada en El Señor de los Anillos
+- Producto con licencia 100% oficial
+- Medidas:  9,5 x 11 x 8,5 cm
 
 [Comprar!!!](https://www.amazon.es/dp/B07X54RXTC/?tag=tolees-21)

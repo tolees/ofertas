@@ -25,8 +25,8 @@ Tienes [Sony MDRAS210W.Ae - Auriculares Deportivos de botón con Agarre al oído
 
 🔎:
 
-- Agarre alrededor del oído para una sujeción cómoda y sin molestias
 - Cable con longitud de 1,2 m
+- Agarre alrededor del oído para una sujeción cómoda y sin molestias
 - Auriculares deportivos resistentes a salpicaduras
 - Auriculares ligeros, 12 g de peso
 

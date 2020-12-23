@@ -26,9 +26,9 @@ Tienes [Dodot Activity Pañales Talla 5  162 Pañales  11-16 kg  Pañales con aj
 🔎:
 
 - Cómodo ajuste en cintura, piernas y culito para prevenir las fugas donde más ocurren
-- Óptima absorción y comodidad de Dodot
-- Óptima absorción de caquita líquida y pipí de Dodot, cuidando la piel de tu bebé
 - Con canales de aire que mantienen la piel del bebé seca y aireada
+- Óptima absorción de caquita líquida y pipí de Dodot, cuidando la piel de tu bebé
+- Óptima absorción y comodidad de Dodot
 - Ajuste más resistente que antes para adaptarse a cualquier movimiento de tu bebé
 - Diseños divertidos y coloridos que harán el cambio de pañal una experiencia más agradable
 

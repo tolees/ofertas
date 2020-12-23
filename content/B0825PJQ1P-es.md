@@ -25,12 +25,12 @@ Está [Geox B Each Girl A  First Walker Shoe Niñas   Smoke Grey   26 EU](https:
 
 ℹ️:
 
+- Cierre: Velcro
 - Tipo de tacón: Plano
 - Material de la suela: Caucho
-- Altura del tacón: 2 centímetros
-- Revestimiento: Cuero
 - Tipo de talla: Los zapatos Geox son holgados
-- Cierre: Velcro
+- Revestimiento: Cuero
 - Material exterior: Cuero
+- Altura del tacón: 2 centímetros
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0825PJQ1P/?tag=tolees-21)
