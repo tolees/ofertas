@@ -25,9 +25,9 @@ Tienes [Exquisite Gaming MMFTMR300029 - Taza Black Panther Disney Marvel](https:
 
 🔎:
 
-- Mango esculpido en 3d
-- Black panther
 - Licencia oficial
+- Black panther
 - Uso fácil y conveniente
+- Mango esculpido en 3d
 
 [Comprar!!!](https://www.amazon.es/dp/B07MWSY74Z/?tag=tolees-21)

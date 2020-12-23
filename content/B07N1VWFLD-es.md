@@ -25,12 +25,12 @@ Está [Seiko Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidab
 
 ℹ️:
 
+- Cristal Hardlex (cristal mineral endurecido de la superficie)
+- Carcasa de acero inoxidable
+- Resistente al agua hasta 100 metros
+- Tapa atornillada
 - LumiBrite (desarrollado por Seiko)
 - Correa de metal con cierre desplegable
-- Resistente al agua hasta 100 metros
 - 43,0 x 11,0 mm
-- Tapa atornillada
-- Carcasa de acero inoxidable
-- Cristal Hardlex (cristal mineral endurecido de la superficie)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07N1VWFLD/?tag=tolees-21)

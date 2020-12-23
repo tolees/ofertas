@@ -26,9 +26,9 @@ Está [Tristar KA-5039 Calefactor con ventilador eléctrico y 3 funciones ajusta
 ℹ️:
 
 - Puede calentar en invierno y refrescar en verano gracias al modo ventilador
+- Termostato ajustable y dos modos de 1000 y 2000 W para calentar a la perfección habitaciones pequeñas
 - Calefactor fácil de utilizar gracias a los dos diales giratorios situados en la parte delantera
 - Fácil de almacenar gracias a su tamaño compacto de 12,8 x 22,3 x 26,1 cm
-- Termostato ajustable y dos modos de 1000 y 2000 W para calentar a la perfección habitaciones pequeñas
 - Adecuado como calefactor adicional en casa
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00FK151WG/?tag=tolees-21)

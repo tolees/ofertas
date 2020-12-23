@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'MSI WT75 8SK-004ES - Ordenador portátil  al 25.00 % de descuento'
-date: 2020-11-25 18:32:59
+title: 'MSI WT75 8SK-004ES - Ordenador portátil  al 25.00 % de rebaja'
+date: 2020-12-23 22:42:57
 image: 'https://m.media-amazon.com/images/I/41o5t2DjdrL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,13 +16,19 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G7N6BW9/?tag=tolees-21'
 descuento: '25.00'
+average: '2019.889'
 ---
 
-Ahora mismo tienes [MSI WT75 8SK-004ES - Ordenador portátil de 17.3" FullHD  Intel Core i7-8700  32 GB RAM  256GB SDD + 1TB HDD  Nvidia Quadro P3200-6GB   Windows 10 Pro  Negro - Teclado QWERTY Español](https://www.amazon.es/dp/B07G7N6BW9/?tag=tolees-21) a 2099.99 EUR (original: 2799.99 EUR) (25.00 %  de descuento) en el siguiente enlace!
+Tienes [MSI WT75 8SK-004ES - Ordenador portátil de 17.3" FullHD  Intel Core i7-8700  32 GB RAM  256GB SDD + 1TB HDD  Nvidia Quadro P3200-6GB   Windows 10 Pro  Negro - Teclado QWERTY Español](https://www.amazon.es/dp/B07G7N6BW9/?tag=tolees-21) con precio final de  2099.99 EUR (original: 2799.99 EUR) (25.00 %  de rebaja) aqui!
 
 [![MSI WT75 8SK-004ES - Ordenador portátil ](https://m.media-amazon.com/images/I/41o5t2DjdrL._SL200_.jpg)](https://www.amazon.es/dp/B07G7N6BW9/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Disco SDD de 256 GB, disco HDD de 1 TB (7200 rpm)
+- Tarjeta gráfica Nvidia Quadro P3200 de 6 GB GDDR10
+- Sistema operativo Windows 10 Pro sin ODD
+- Procesador Intel Core i7-8700 (6 núcleos, 12 MB Cache, 3.2 GHz hasta 4.6 GHz)
+- Memoria RAM de 32 GB (16 GB x 2) DDR4
 
-[Visítala!!!](https://www.amazon.es/dp/B07G7N6BW9/?tag=tolees-21)
+[Comprar!!!](https://www.amazon.es/dp/B07G7N6BW9/?tag=tolees-21)

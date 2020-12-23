@@ -25,9 +25,9 @@ Tienes [Funko Pop! - Marvel Avengers Infinity War Figura de Vinilo 26898](https:
 
 🔎:
 
-- El artículo es adecuado para todos los fanáticos de Avengers Infinity War
-- Figura de colección de la marca Funko
-- El producto se envía en una caja ilustrada con ventana
 - Recomendado para niños a partir de 3 años
+- El producto se envía en una caja ilustrada con ventana
+- Figura de colección de la marca Funko
+- El artículo es adecuado para todos los fanáticos de Avengers Infinity War
 
 [Comprar!!!](https://www.amazon.es/dp/B079PPFFSC/?tag=tolees-21)
