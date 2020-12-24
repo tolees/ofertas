@@ -25,8 +25,8 @@ Ahora mismo tienes [Adam s Venture Origins](https://www.amazon.es/dp/B0851D2JMV/
 
 🔎:
 
-- Ambientada en los trepidantes años 20, explorarás ruinas milenarias y recuperarás misteriosos artefactos: mientras tratas de superar en astucia a la malvada compañía Clairvaux, junto a tu leal compañera Evelyn
 - Sus desafiantes puzles, fascinantes gráficos, su historia y una gran jugabilidad hacen de Adam’s Venture: Origins un juego de aventuras que no te puedes perder
+- Ambientada en los trepidantes años 20, explorarás ruinas milenarias y recuperarás misteriosos artefactos: mientras tratas de superar en astucia a la malvada compañía Clairvaux, junto a tu leal compañera Evelyn
 - Embárcate en una fascinante con Adam’s Venture: Origins: descubre una nueva e intrigante trama donde Adam revivirá sus primeros pasos como Explorador
 
 [Visítala!!!](https://www.amazon.es/dp/B0851D2JMV/?tag=tolees-21)

@@ -1,32 +1,32 @@
 ---
 layout: post
-title: 'Descuento del 48.11 % en Tous EDP 90ML'
-date: 2020-12-22 19:55:29
+title: 'Descuento del 48.08 % en Tous EDP 90ML'
+date: 2020-12-24 01:57:50
 image: 'https://m.media-amazon.com/images/I/41ARxqqv8xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B000VON5JS-es'
-actualPrice: 38.92 EUR
+actualPrice: 38.94 EUR
 currency: EUR
-price: 38.92
+price: 38.94
 comparePrice: 75.0 EUR
 prodname: 'Tous EDP 90ML'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000VON5JS/?tag=tolees-21'
-descuento: '48.11'
-average: '37.19057471264366'
+descuento: '48.08'
+average: '37.22988764044942'
 ---
 
-Tienes [Tous EDP 90ML](https://www.amazon.es/dp/B000VON5JS/?tag=tolees-21) con un 48.11 % de descuento con precio de oferta de 38.92 EUR (original: 75.0 EUR) en el siguiente enlace!
+Tienes [Tous EDP 90ML](https://www.amazon.es/dp/B000VON5JS/?tag=tolees-21) con un 48.08 % de descuento con precio de oferta de 38.94 EUR (original: 75.0 EUR) en el siguiente enlace!
 
 [![Tous EDP 90ML](https://m.media-amazon.com/images/I/41ARxqqv8xL._SL200_.jpg)](https://www.amazon.es/dp/B000VON5JS/?tag=tolees-21)
 
 ℹ️:
 
 - Corazón: Jazmon blanco,, peonia amarilla, rosa y gardenia
-- Fondo: Musc blanco, cedro de marruecos e iris
 - Salida: hojas de casis, violeta, bergamota y coriandro.
+- Fondo: Musc blanco, cedro de marruecos e iris
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000VON5JS/?tag=tolees-21)
