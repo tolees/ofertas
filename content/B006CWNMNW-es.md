@@ -25,10 +25,10 @@ Está [Motivlocher 3 5 cm Juego de 4 Troqueles con diseños navideños  árbol  
 
 ℹ️:
 
-- Troquelado en la parte trasera y permite el resultado.
-- Capacidad máxima: Gramaje: 160 gr.
 - Con protección de seguridad, ideal para niños.
-- Manejo sencillo y sin esfuerzo.
 - 2 x 0,375" - 1 cm + 2 x 0,6 - 1,6 cm.
+- Capacidad máxima: Gramaje: 160 gr.
+- Troquelado en la parte trasera y permite el resultado.
+- Manejo sencillo y sin esfuerzo.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B006CWNMNW/?tag=tolees-21)

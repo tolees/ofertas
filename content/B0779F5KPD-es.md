@@ -27,8 +27,8 @@ Tienes [adidas Entrada 18 JSY T-Shirt  Hombre  Black/White  7-8Y](https://www.am
 
 - Con el cuello redondeado
 - Tiene un pequeño logotipo de Adidas impreso en el pecho
-- Cuenta con mangas cortas
 - Camiseta de futbol para hombres
+- Cuenta con mangas cortas
 - Esta hecha de 100% poliéster
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0779F5KPD/?tag=tolees-21)

@@ -25,7 +25,7 @@ Tienes [Diesel UMBX-DAMIENTHREEPACK  Calzoncillo para Hombre  Multicolor  Bright
 
 🔎:
 
-- De la marca Diesel.
 - Muy cómodo de llevar.
+- De la marca Diesel.
 
 [Comprar!!!](https://www.amazon.es/dp/B0792L9LST/?tag=tolees-21)

@@ -25,10 +25,10 @@ Está [Seiko Reloj Cronógrafo para Hombre de Energía Solar con Correa en Acero
 
 ℹ️:
 
+- Casual
+- Solar
+- Wr 100mt
 - Cronógrafo en acero inoxidable para Hombre
 - Azul y metálico
-- Solar
-- Casual
-- Wr 100mt
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07N7TC6NK/?tag=tolees-21)
