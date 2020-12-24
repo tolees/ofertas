@@ -25,8 +25,8 @@ Está [Avengers-los  Vengadores Libreta Folio 80 Hojas Tapas duras  Color Negro 
 
 ℹ️:
 
+- Producto para niñas y niños
 - Medidas: 21,5 x 31 cm
 - Edad mínima recomendada: 2 años
-- Producto para niñas y niños
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06WVBTZZP/?tag=tolees-21)

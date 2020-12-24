@@ -25,10 +25,10 @@ Tienes [adidas Parma 16 SHO W Pantalones Cortos de Deporte  Mujer  Dark Blue/Whi
 
 🔎:
 
-- 100% Poliéster, 100% Poliéster
 - PARMA 16 SHO W
-- Pantalón – Mujer
 - Producto de alta calidad
 - Producto original Adidas
+- 100% Poliéster, 100% Poliéster
+- Pantalón – Mujer
 
 [Comprar!!!](https://www.amazon.es/dp/B072R6BT4Q/?tag=tolees-21)

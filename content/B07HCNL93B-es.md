@@ -27,8 +27,8 @@ En este momento está [Nocilla Original Porciones 72un.de 15g](https://www.amazo
 
 - Estuche de 72 unidades de 15 gramos. Receta sin aceite de palma y sin gluten
 - Nocillear es convertir un alimento rico en algo aún más delicioso, añadiendo Nocilla para crear un momento de felicidad de la buena y sin aceite de palma.
-- Alérgenos: Este producto contiene leche, avellanas y soja y puede contener frutos de cáscara. Mantener fuera del frigorífico, en lugar fresco y seco.
 - Este formato es ideal para famílias, buffets y sector Hotelero.
+- Alérgenos: Este producto contiene leche, avellanas y soja y puede contener frutos de cáscara. Mantener fuera del frigorífico, en lugar fresco y seco.
 - Dulce y sabrosa perfecta para adultos y para niños, para desayunos, merienda o tentempié
 
 [Aquí!!!](https://www.amazon.es/dp/B07HCNL93B/?tag=tolees-21)

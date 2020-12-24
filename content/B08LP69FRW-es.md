@@ -25,11 +25,11 @@ Tienes [Nan Optipro 2 líquida 500 ml - Pack de 12](https://www.amazon.es/dp/B08
 
 🔎:
 
-- Sin aceite de palma
-- Leche, lactosa, pescado y soja
-- Nan optipro 2 líquida, es una leche de continuación para bebés sanos a partir de los 6 meses que, junto con otros alimentos, forma parte de una alimentación diversificada
-- Hmo (2-fl)/optipro/dha/sin aceite de palma
-- Procedencia: ESPAÑA
 - Optipro es un proceso tecnológico único para conseguir la calidad óptima de proteínas para tu bebé
+- Sin aceite de palma
+- Nan optipro 2 líquida, es una leche de continuación para bebés sanos a partir de los 6 meses que, junto con otros alimentos, forma parte de una alimentación diversificada
+- Procedencia: ESPAÑA
+- Hmo (2-fl)/optipro/dha/sin aceite de palma
+- Leche, lactosa, pescado y soja
 
 [Comprar!!!](https://www.amazon.es/dp/B08LP69FRW/?tag=tolees-21)

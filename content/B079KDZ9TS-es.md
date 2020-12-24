@@ -25,10 +25,10 @@ Tienes [Concord Soul Baby Set Sistema Modular Silla Paseo Soul + Capazo Blando S
 
 🔎:
 
-- Plegado muy compacto
-- Scout, capazo de plegado muy reducido, ideal para los primeros paseos
-- Perfecto para la vida urbana
 - Reclinación total de la hamaca que la hace compatible para recién nacido
+- Scout, capazo de plegado muy reducido, ideal para los primeros paseos
 - Manillar regulable en altura para adecuarse a cualquier persona
+- Plegado muy compacto
+- Perfecto para la vida urbana
 
 [Comprar!!!](https://www.amazon.es/dp/B079KDZ9TS/?tag=tolees-21)

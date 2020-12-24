@@ -25,10 +25,10 @@ En este momento está [Pop! Figura de Vinilo: Animación: Rick & Morty S6 - Snow
 
 🔎:
 
-- Descúbre otras figuras de la colección rick & morty y colecciónalas todas!
 - De la colección rick & morty, snowball in mech suit como figura de vinilo pop de funko
-- Rick & morty snowball in mech suit
 - Rick & morty
+- Descúbre otras figuras de la colección rick & morty y colecciónalas todas!
 - Funko pop! vinyl
+- Rick & morty snowball in mech suit
 
 [Aquí!!!](https://www.amazon.es/dp/B07NSPT8PD/?tag=tolees-21)
