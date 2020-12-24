@@ -25,9 +25,9 @@ Tienes [Clementoni- Dominó de los Animales Juego  Multicolor  55314 ](https://w
 
 ℹ️:
 
-- Hecho en Italia
-- Juguete en español
 - Un juego de dominó especial con 21 fichas de dos caras para descubrir todo sobre los animales y los números
 - Al usar estas fichas, los niños estimulan su imaginación, juntando las imágenes de las figuras de los animales y desarrollan sus capacidades matemáticas al emparejarlas con sus correspondientes cantidades
+- Juguete en español
+- Hecho en Italia
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07PM23J5R/?tag=tolees-21)

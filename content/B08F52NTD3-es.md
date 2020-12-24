@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ColiCor Conjunto de Luces Lluminación pa con un 23.09 % de descuento'
-date: 2020-12-23 20:20:06
+date: 2020-12-24 20:40:36
 image: 'https://m.media-amazon.com/images/I/41wcwwW5vML._SL200_.jpg'
 comments: true
 category: ofertas

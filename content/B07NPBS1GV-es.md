@@ -26,9 +26,9 @@ Está [Pea Pod Babies CIFE 41800 - Muñecos bebé con accesorios  Multicolor  Ta
 ℹ️:
 
 - Colecciona los 24 bebes sorpresa que hay en esta colección
-- Una vaina con tres guisantes dentro, sácalos para descubrir los accesorios, ropa y personajes sorpresa que hay en su interior
-- Vístelos con sus ropas y accesorios, o intercámbialos entre ellos, la diversión no termina nunca
-- Los Pea Pod Babies ya están aquí, descubre un nuevo formato de unboxing; no podrás parar de tocarlo
 - Dales de beber con sus biberones y apriétales ¡escupen agua! juega con ellos en la bañera, en la piscina o dónde tu quieras
+- Los Pea Pod Babies ya están aquí, descubre un nuevo formato de unboxing; no podrás parar de tocarlo
+- Vístelos con sus ropas y accesorios, o intercámbialos entre ellos, la diversión no termina nunca
+- Una vaina con tres guisantes dentro, sácalos para descubrir los accesorios, ropa y personajes sorpresa que hay en su interior
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07NPBS1GV/?tag=tolees-21)

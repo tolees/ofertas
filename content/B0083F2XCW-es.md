@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mega Bloks Bolsa clásica con 60 bloques  al 16.61 % de descuento'
-date: 2020-12-23 19:53:35
+date: 2020-12-24 20:07:22
 image: 'https://m.media-amazon.com/images/I/51Z4pec8RJL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0083F2XCW/?tag=tolees-21'
 descuento: '16.61'
-average: '12.001666666666665'
+average: '12.04'
 ---
 
 Ahora mismo tienes [Mega Bloks Bolsa clásica con 60 bloques de construcción  juguetes bebés 1 año  Mattel DCH55 ](https://www.amazon.es/dp/B0083F2XCW/?tag=tolees-21) a 12.5 EUR (original: 14.99 EUR) (16.61 %  de descuento) en el siguiente enlace!

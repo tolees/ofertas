@@ -25,10 +25,10 @@ Está [Razer Goliathus Medium  Speed  - Overwatch Lucio Edition](https://www.ama
 
 ℹ️:
 
-- Diseño altamente portátil basado en tela
-- Tejido liso y tenso para que el ratón se mueva rápidamente
-- Marco cosido antideshilachado
-- Optimizado para todas las sensibilidades de ratón y sensores
 - Segmentación y seguimiento con precisión de píxeles
+- Tejido liso y tenso para que el ratón se mueva rápidamente
+- Optimizado para todas las sensibilidades de ratón y sensores
+- Diseño altamente portátil basado en tela
+- Marco cosido antideshilachado
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07YB4RSY1/?tag=tolees-21)
