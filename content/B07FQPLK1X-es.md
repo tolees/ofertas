@@ -1,28 +1,30 @@
 ---
 layout: post
-title: 'Clarks Un Adorn Zip  Mocasines  Negro  B al 60.75 % de descuento'
-date: 2020-11-24 19:01:49
+title: 'Clarks Un Adorn Zip  Mocasines  Negro  B al 52.86 % de descuento'
+date: 2020-12-23 23:48:52
 image: 'https://m.media-amazon.com/images/I/31+cXjLEbGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07FQPLK1X-es'
-actualPrice: 43.18 EUR
+actualPrice: 51.85 EUR
 currency: EUR
-price: 43.18
+price: 51.85
 comparePrice: 110.0 EUR
 prodname: 'Clarks Un Adorn Zip  Mocasines  Negro  Black Combi-   43 EU'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FQPLK1X/?tag=tolees-21'
-descuento: '60.75'
+descuento: '52.86'
+average: '46.96090909090909'
 ---
 
-Ahora mismo tienes [Clarks Un Adorn Zip  Mocasines  Negro  Black Combi-   43 EU](https://www.amazon.es/dp/B07FQPLK1X/?tag=tolees-21) a 43.18 EUR (original: 110.0 EUR) (60.75 %  de descuento) en el siguiente enlace!
+Está [Clarks Un Adorn Zip  Mocasines  Negro  Black Combi-   43 EU](https://www.amazon.es/dp/B07FQPLK1X/?tag=tolees-21) con 52.86 de descuento por 51.85 EUR (original: 110.0 EUR) en el siguiente enlace!
 
 [![Clarks Un Adorn Zip  Mocasines  Negro  B](https://m.media-amazon.com/images/I/31+cXjLEbGL._SL200_.jpg)](https://www.amazon.es/dp/B07FQPLK1X/?tag=tolees-21)
 
 ℹ️:
 
+- cuero
 
-[Visítala!!!](https://www.amazon.es/dp/B07FQPLK1X/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07FQPLK1X/?tag=tolees-21)

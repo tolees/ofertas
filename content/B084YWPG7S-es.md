@@ -25,10 +25,10 @@ Ahora mismo tienes [Taza Friends Personalizada con Nombre/Texto. Regalos Frikis 
 
 🔎:
 
-- La Taza Friends puede usarse en el microondas y en el lavavajillas.
 - Interior Taza Friends disponible en varios colores.
-- Tamaño de la Taza Friends 80ØX95 mm/Capacidad 330ml.
 - La taza Friends personalizada se entrega con una caja cofre regalo de calidad premium totalmente lista para entregar. Ver en foto detalle.
 - Taza Friends de cerámica blanca de calidad premium. Personalizada de manera completa desde el borde superior al inferior. La impresión de la taza queda integrada, por lo que no se percibe al tacto, no se raya y no pierde color con el paso del tiempo. Colores vivos e intensos.
+- Tamaño de la Taza Friends 80ØX95 mm/Capacidad 330ml.
+- La Taza Friends puede usarse en el microondas y en el lavavajillas.
 
 [Visítala!!!](https://www.amazon.es/dp/B084YWPG7S/?tag=tolees-21)

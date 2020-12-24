@@ -25,8 +25,8 @@ Tienes [Asmodee- Tsukiji  ADE0RBTSU01 ](https://www.amazon.es/dp/B07KJM85MG/?tag
 
 ℹ️:
 
+- Tsukiji
 - Number of players: 2-4
 - Paqueteage Dimensiones: 5.4 L x 22.6 H x 22.6 W (centimeters)
-- Tsukiji
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KJM85MG/?tag=tolees-21)

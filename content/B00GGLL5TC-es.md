@@ -26,8 +26,8 @@ Tienes [ASUS USB-AC56 - Adaptador de red inalámbrico WiFi AC1300 y antena  USB 
 ℹ️:
 
 - Fácil instalación
-- Alto rendimiento
 - Uso rápido
 - La conexión USB 3.0 permite transmitir datos al equipo con una velocidad de 300 Mbit/s en la banda de 2,4 GHz y 867 Mbit/s en la de 5 GHz desde routers compatibles
+- Alto rendimiento
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00GGLL5TC/?tag=tolees-21)
