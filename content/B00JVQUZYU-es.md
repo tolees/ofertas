@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 20.02 % en Mulan [DVD]'
-date: 2020-12-22 22:31:54
+date: 2020-12-24 22:53:35
 image: 'https://m.media-amazon.com/images/I/51aiNl+s2xL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00JVQUZYU/?tag=tolees-21'
 descuento: '20.02'
-average: '8.925111111111113'
+average: '8.885319148936171'
 ---
 
 Tienes [Mulan [DVD]](https://www.amazon.es/dp/B00JVQUZYU/?tag=tolees-21) con un 20.02 % de descuento con precio de oferta de 7.99 EUR (original: 9.99 EUR) en el siguiente enlace!
