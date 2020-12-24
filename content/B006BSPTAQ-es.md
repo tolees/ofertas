@@ -25,10 +25,10 @@ Está [TP-Link TL-WN881ND - WIFI Adaptador PCI Express  Tarjeta de Red  300 Mbps
 
 ℹ️:
 
-- Wireless N speed up to 300Mbps makes it ideal for video streaming, online gaming and Internet calls
-- MIMO technology with stronger signal penetration strength, wider wireless coverage, providing better performance and stability
 - Includes a low profile bracket
-- Easily setup a highly secured wireless link with WPS (Wi-Fi Protected Setup)
+- MIMO technology with stronger signal penetration strength, wider wireless coverage, providing better performance and stability
+- Wireless N speed up to 300Mbps makes it ideal for video streaming, online gaming and Internet calls
 - Supports Windows 7/8/8.1/10 and Linux 2.6.24~4.1
+- Easily setup a highly secured wireless link with WPS (Wi-Fi Protected Setup)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B006BSPTAQ/?tag=tolees-21)

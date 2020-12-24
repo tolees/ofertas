@@ -25,10 +25,10 @@ Tienes [TP-Link Archer T2U Adaptador WiFi USB  Receptor WiFi con Doble Banda AC 
 
 🔎:
 
-- Come with manufacturers 3 Years Warranty
 - A tiny way to get speedy next generation Wi-Fi connections
-- Supports Windows 10/8.1/8/7/XP, Mac OS X 10.7~10.13
 - Selectable Dual Band connections for lag-free HD video streaming and gaming
+- Come with manufacturers 3 Years Warranty
 - Hotspot: Easily establish a high speed Wi-Fi hotspot with just a few clicks
+- Supports Windows 10/8.1/8/7/XP, Mac OS X 10.7~10.13
 
 [Comprar!!!](https://www.amazon.es/dp/B00K11UIV4/?tag=tolees-21)

@@ -25,9 +25,9 @@ Tienes [Vital Proteins Colageno en Polvo  Collagen Peptides Criados en Pastos  C
 
 🔎:
 
-- ▶ 【Facilidad de Uso】- Soluble en líquidos fríos o calientes, como café, té y batidos. Todo lo que necesitas es 1 o 2 cucharadas al día. Se puede tomar por la mañana, por la tarde o por la noche.
-- ▶ 【Certificaciones】- No transgénico. Apto para la dieta paleo y aprobado según el programa Whole30. No contiene azúcares ni edulcorantes añadidos. Libre de gluten, colesterol, metales pesados y productos lácteos. Sin sabor y sin olor.
-- ▶ 【20 g de Polvo de Colágeno por Ración】- Este producto incluye una cuchara medidora y dos cucharadas de polvo equivalen a 20 g. El recipiente no está lleno por este motivo, para que haya espacio para la cuchara. Además, la cantidad de producto se basa en el peso, no en el tamaño del envase.
 - ▶ 【Péptidos de Colágeno Biodisponible en Polvo】- Procedente de ganado bovino alimentado con pasto y criado en libertad para garantizar una fuente sostenible y de alta calidad de este poderoso ingrediente. El cuerpo lo digiere y absorbe rápidamente para obtener los máximos beneficios.
+- ▶ 【Facilidad de Uso】- Soluble en líquidos fríos o calientes, como café, té y batidos. Todo lo que necesitas es 1 o 2 cucharadas al día. Se puede tomar por la mañana, por la tarde o por la noche.
+- ▶ 【20 g de Polvo de Colágeno por Ración】- Este producto incluye una cuchara medidora y dos cucharadas de polvo equivalen a 20 g. El recipiente no está lleno por este motivo, para que haya espacio para la cuchara. Además, la cantidad de producto se basa en el peso, no en el tamaño del envase.
+- ▶ 【Certificaciones】- No transgénico. Apto para la dieta paleo y aprobado según el programa Whole30. No contiene azúcares ni edulcorantes añadidos. Libre de gluten, colesterol, metales pesados y productos lácteos. Sin sabor y sin olor.
 
 [Comprar!!!](https://www.amazon.es/dp/B07MMWH9RX/?tag=tolees-21)

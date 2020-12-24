@@ -25,10 +25,10 @@ Ahora mismo tienes [Rimmel London Provocalips  Barra de labios  Tono 210 Flirty 
 
 🔎:
 
-- Color intenso inalterable hasta 16 horas
-- Resistente a besos y roces ¡no deja rastro, ni mancha
-- Bálsamo hidratante que ofrece un acabado brillante y suave
-- Aplicar color y mantener los labios separados hasta su secado
 - Aplicar top coat para sellar el color, hidratar y proporcionar brillo
+- Aplicar color y mantener los labios separados hasta su secado
+- Resistente a besos y roces ¡no deja rastro, ni mancha
+- Color intenso inalterable hasta 16 horas
+- Bálsamo hidratante que ofrece un acabado brillante y suave
 
 [Visítala!!!](https://www.amazon.es/dp/B07MP7NGDW/?tag=tolees-21)

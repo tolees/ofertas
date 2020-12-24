@@ -25,9 +25,9 @@ En este momento está [Clarks](https://www.amazon.es/dp/B07NVRL3TG/?tag=tolees-2
 
 🔎:
 
-- Ajuste: (d) Estándar
-- Suela: Goma
-- Superiores: Cuero / Ante
 - Forro: Cuero
+- Suela: Goma
+- Ajuste: (d) Estándar
+- Superiores: Cuero / Ante
 
 [Aquí!!!](https://www.amazon.es/dp/B07NVRL3TG/?tag=tolees-21)

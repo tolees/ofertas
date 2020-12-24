@@ -25,10 +25,10 @@ Está [Blomus 65193 Cioso - Botellero con fijación a la pared](https://www.amaz
 
 ℹ️:
 
-- Estante de pared para botellas de vino
 - Material: acero inoxidable
-- Altura: 74 cm, ancho: 3,5 cm, profundidad: 7 cm
-- Diseñador: Flöz Diseño
 - Por aproximadamente . 8 botellas
+- Altura: 74 cm, ancho: 3,5 cm, profundidad: 7 cm
+- Estante de pared para botellas de vino
+- Diseñador: Flöz Diseño
 
 [Ver la oferta!!](https://www.amazon.es/dp/B000BKHL1K/?tag=tolees-21)

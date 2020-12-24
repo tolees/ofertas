@@ -25,11 +25,11 @@ Tienes [MSI GE75 Raider 10SFS-083ES - Ordenador portátil de 15.6" FHD  Intel Co
 
 🔎:
 
-- Disco SSD de 2 TB NVMe PCIe Gen3x4
-- Pantalla de 17.3" FullHD (1920*1080), 240Hz Thin Bezel, typ. 300 nit , CR 1000
-- Memoria RAM de 64 GB, DDR IV 32GB*2 (2666MHz)
-- Procesador Intel i9-10980HK (8 núcleos, 16 MB Cache, 2.40 GHz hasta 5.30 GHz)
 - Sistema operativo Windows 10 Home Advanced sin ODD
+- Procesador Intel i9-10980HK (8 núcleos, 16 MB Cache, 2.40 GHz hasta 5.30 GHz)
+- Memoria RAM de 64 GB, DDR IV 32GB*2 (2666MHz)
+- Pantalla de 17.3" FullHD (1920*1080), 240Hz Thin Bezel, typ. 300 nit , CR 1000
+- Disco SSD de 2 TB NVMe PCIe Gen3x4
 - Tarjeta gráfica Nvidia GeForce RTX 2070 Super de 8 GB GDDR6
 
 [Comprar!!!](https://www.amazon.es/dp/B086Z79QTJ/?tag=tolees-21)

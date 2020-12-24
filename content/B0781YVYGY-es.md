@@ -25,10 +25,10 @@ Está [PUMA Liga Training Pant Core Pantalones  Hombre  Negro  Black/White   L](
 
 ℹ️:
 
-- Apliques de malla detrás y en la entrepierna, tejido de microfibra y poliéster de punto doble
-- DryCELL: material altamente funcional que evacúa el sudor
-- Corte normal
-- Cintura de goma con cordón y bolsillos laterales abiertos
 - Estampado con pigmentos
+- DryCELL: material altamente funcional que evacúa el sudor
+- Apliques de malla detrás y en la entrepierna, tejido de microfibra y poliéster de punto doble
+- Cintura de goma con cordón y bolsillos laterales abiertos
+- Corte normal
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0781YVYGY/?tag=tolees-21)

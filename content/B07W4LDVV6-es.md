@@ -26,9 +26,9 @@ Está [LEGO Trolls - Aventura en Globo de Poppy  Juguete de Construcción de glo
 ℹ️:
 
 - With The LEGO Trolls World Tour Poppy’s Hot Air Balloon Adventure toy, Trolls fans can recreate exciting scenes from the movie
-- Features three Trolls minifigures: Poppy, Branch, plus exclusive character Biggie (and Mr. Dinkles) and a stack of Trolls-inspired extras
-- With a map and binoculars to navigate, plus flapping hearts to change position kids will love steering a pink hot air balloon
 - Troll fans will enjoy making new looks for the minifigures, styling their hair with binoculars, cupcake, heart or flowers before adventures
 - Lots for kids to discover; find the collectible musical string hidden in the metronome
+- With a map and binoculars to navigate, plus flapping hearts to change position kids will love steering a pink hot air balloon
+- Features three Trolls minifigures: Poppy, Branch, plus exclusive character Biggie (and Mr. Dinkles) and a stack of Trolls-inspired extras
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07W4LDVV6/?tag=tolees-21)

@@ -26,9 +26,9 @@ Tienes [Edge Entertainment - Juego de Tronos el juego de tablero - Español](htt
 ℹ️:
 
 - los jugadores toman el control de las grandes Casas de Poniente y se embarcan en una épica lucha para hacerse con el Trono de Hierro.
-- ¡Reclama el Trono de Hierro y las tierras de Poniente!
-- A partir de 14 Años de edad
-- De 3 a 6 Jugadores
 - En Juego de Tronos: El Juego de Tablero, basado en la popular serie de novelas Canción de Hielo y Fuego de George R.R. Martin
+- A partir de 14 Años de edad
+- ¡Reclama el Trono de Hierro y las tierras de Poniente!
+- De 3 a 6 Jugadores
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00YUZ70IQ/?tag=tolees-21)

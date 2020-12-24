@@ -25,9 +25,9 @@ Ahora mismo tienes [Orofluido Original Elixir de Belleza Serum para todo tipo de
 
 🔎:
 
-- Apto para todo tipo de pelo.
-- De la marca Orofluido.
 - Este producto está indicado tanto para mujeres como para hombres.
+- De la marca Orofluido.
+- Apto para todo tipo de pelo.
 - Contiene 100 ml.
 
 [Visítala!!!](https://www.amazon.es/dp/B004FET2QU/?tag=tolees-21)
