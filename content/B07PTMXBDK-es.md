@@ -25,12 +25,12 @@ Ahora mismo tienes [Netgear GS305 Switch 5 puertos 10/100/100  Switch Gigabit Un
 
 🔎:
 
+- EFICIENCIA ENERGÉTICA: Diseñado para optimizar el uso de energía reduciendo su costo de funcionamiento; la mayoría de modelos son compatibles con el modo de eficiencia energética IEEE802.3az Ethernet
 - PLUG AND PLAY: Configuración simple sin necesidad de instalar software o configuración
 - CONSTRUIDO PARA DURAR: Cada conmutador de la red de NETGEAR se prueba rigurosamente en cuanto a su fiabilidad, calidad y rendimiento
-- EFICIENCIA ENERGÉTICA: Diseñado para optimizar el uso de energía reduciendo su costo de funcionamiento; la mayoría de modelos son compatibles con el modo de eficiencia energética IEEE802.3az Ethernet
-- Switch Gigabit Ethernet no gestionado, 5 puertos de NETGEAR (GS305) - Hub de red doméstica, distribuidor Ethernet oficina, Plug-and-Play, carcasa metálica sin ventilador, montaje de sobremesa o pared
 - FUNCIONAMIENTO SILENCIOSO: El diseño sin ventilador significa cero ruido añadido dondequiera que se encuentre, lo que lo hace ideal para entornos sensibles al ruido
-- OPCIONES DE MONTAJE VERSÁTILES: Soporta la colocación en sobremesa o en la pared
 - CONFIGURACIÓN DE PUERTOS ETHERNET: 5 puertos Gigabit
+- Switch Gigabit Ethernet no gestionado, 5 puertos de NETGEAR (GS305) - Hub de red doméstica, distribuidor Ethernet oficina, Plug-and-Play, carcasa metálica sin ventilador, montaje de sobremesa o pared
+- OPCIONES DE MONTAJE VERSÁTILES: Soporta la colocación en sobremesa o en la pared
 
 [Visítala!!!](https://www.amazon.es/dp/B07PTMXBDK/?tag=tolees-21)

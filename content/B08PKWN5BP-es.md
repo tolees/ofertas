@@ -25,10 +25,10 @@ Tienes [Limpieza dental con ultrasonidos  kit blanqueamiento  sarro y lengua ](h
 
 ℹ️:
 
-- BLANQUEA TUS DIENTES: Limpia y protege tu esmalte con la vibración suave a la vez que consigues un efecto blanqueador.
-- LUZ LED INCORPORADA: Te ayuda a iluminar toda la cavidad oral y le permite limpiar sus dientes con precisión.
+- ELIMINA EL SARRO: Gracias al ultrasonido dental conseguirás una higiene bucal perfecta, así como una dentadura sana reluciente.
 - ELIMINA LAS MANCHAS: Te permite borrar los restos de comida o manchas en los dientes con eficacia gracias a su cabezal quita manchas con ultrasonidos.
 - LIMPIA TU LENGUA: Elimina las bacterias de tu lengua de forma sencilla con el raspador profesional.
-- ELIMINA EL SARRO: Gracias al ultrasonido dental conseguirás una higiene bucal perfecta, así como una dentadura sana reluciente.
+- BLANQUEA TUS DIENTES: Limpia y protege tu esmalte con la vibración suave a la vez que consigues un efecto blanqueador.
+- LUZ LED INCORPORADA: Te ayuda a iluminar toda la cavidad oral y le permite limpiar sus dientes con precisión.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08PKWN5BP/?tag=tolees-21)
