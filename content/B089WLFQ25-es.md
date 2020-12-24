@@ -25,9 +25,9 @@ Tienes [Plantronics Blackwire C3210 - Auriculares con cancelación de Ruido  Pro
 
 ℹ️:
 
-- C3210
-- Diseño funcional
 - 209744-201
 - Plantronics BLACKWIRE 3210
+- C3210
+- Diseño funcional
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B089WLFQ25/?tag=tolees-21)

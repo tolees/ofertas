@@ -26,9 +26,9 @@ Tienes [ASUS XG258Q 24.5" Full HD TN Negro  Rojo Pantalla para PC - Monitor  62 
 🔎:
 
 - G-SYNC Compatible, este monitor ofrece un rango de refresco variable (VRR) que produce una experiencia de juego sin defectos de imagen
-- La serie de monitores ROG Strix XG incluye iluminación trasera ASUS Aura RGB y una proyección de luz que los usuarios pueden personalizar
-- Adaptive-Sync (FreeSync) evita que las imágenes se entrecorten y que la acción se muestre borrosa
 - Monitor Full HD para gaming de 24,5 pulgadas (62.23 cm) con 240 Hz de frecuencia de refresco nativa para jugar con fluidez
+- La serie de monitores ROG Strix XG incluye iluminación trasera ASUS Aura RGB y una proyección de luz que los usuarios pueden personalizar
 - Compatible con sistema de montaje VESA; la peana ergonómica permite regular la inclinación, altura, rotación y el ángulo de la pantalla
+- Adaptive-Sync (FreeSync) evita que las imágenes se entrecorten y que la acción se muestre borrosa
 
 [Comprar!!!](https://www.amazon.es/dp/B075CKS1M4/?tag=tolees-21)
