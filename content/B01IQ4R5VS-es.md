@@ -25,9 +25,9 @@ Tienes [Camper Right Nina  Mary Jane  Rot  Medium Red 610   35 EU](https://www.a
 
 ℹ️:
 
-- Tipo de correa: Mary Jane
 - Flexibilidad.
-- Sistema de amortiguación.
 - Fácil de montar.
+- Tipo de correa: Mary Jane
+- Sistema de amortiguación.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01IQ4R5VS/?tag=tolees-21)

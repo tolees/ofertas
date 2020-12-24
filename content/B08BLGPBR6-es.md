@@ -25,11 +25,11 @@ Está [Burton Distortion 2.0  Adultos Unisex  Barren Camo Print](https://www.ama
 
 ℹ️:
 
-- Tirantes ergonómicos con correa ajustable para el esternón.
-- Poliéster 600d aprobado por bluesign con respaldo de pu
-- Tipo de deporte: snowboarding
-- Compartimento inferior separado
-- Dimensiones: 19in x 13in x 7in / 48cm x 32cm x 18cm; peso: 1.7 libras; volumen: 29l
 - Visite burton.elasticsuite.com para ver más detalles sobre todos nuestros productos bluesign
+- Poliéster 600d aprobado por bluesign con respaldo de pu
+- Dimensiones: 19in x 13in x 7in / 48cm x 32cm x 18cm; peso: 1.7 libras; volumen: 29l
+- Compartimento inferior separado
+- Tirantes ergonómicos con correa ajustable para el esternón.
+- Tipo de deporte: snowboarding
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08BLGPBR6/?tag=tolees-21)

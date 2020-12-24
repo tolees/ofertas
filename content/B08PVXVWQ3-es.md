@@ -27,7 +27,7 @@ En este momento está [Yinuo Candle Juego de regalo para el hogar  velas perfuma
 
 - Larga duración: una sola vela perfumada puede durar de 45 a 50 horas, lo que puede crear un ambiente romántico en festivales, fiestas o yoga.
 - Uso versátil: este juego de velas de aromaterapia es perfecto para festivales, fiestas, spas, estudios de yoga, dormitorios, baños y decoraciones de mesa e iluminación, esta vela grande crea un ambiente hermoso.
-- Fragancia única: el juego de regalo de velas perfumadas consta de lavanda crepuscular y aroma de abeto de higo. El aroma es fresco y único que puede aliviar el estrés y relajarse.
 - Exquisito embalaje: tarros de vela perfumados de diseño vintage, exquisitas cajas de embalaje, regalo ideal para mujeres.
+- Fragancia única: el juego de regalo de velas perfumadas consta de lavanda crepuscular y aroma de abeto de higo. El aroma es fresco y único que puede aliviar el estrés y relajarse.
 
 [Aquí!!!](https://www.amazon.es/dp/B08PVXVWQ3/?tag=tolees-21)

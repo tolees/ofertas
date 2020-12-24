@@ -25,11 +25,11 @@ En este momento está [Burton Kilo 2.0  Adultos Unisex  Barren Camo Print](https
 
 🔎:
 
-- Tipo de deporte: snowboarding
-- Correas de transporte
 - Poliéster 600d aprobado por bluesign con respaldo de pu
-- Visite burton.elasticsuite.com para ver más detalles sobre todos nuestros productos bluesign
-- Tirantes ergonómicos con correa ajustable para el esternón.
 - Dimensiones: 19in x 11in x 7in / 49cm x 28cm x 18cm; peso: 1.3 libras; volumen: 27l
+- Tirantes ergonómicos con correa ajustable para el esternón.
+- Visite burton.elasticsuite.com para ver más detalles sobre todos nuestros productos bluesign
+- Correas de transporte
+- Tipo de deporte: snowboarding
 
 [Aquí!!!](https://www.amazon.es/dp/B08BLGWNKC/?tag=tolees-21)

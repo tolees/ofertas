@@ -26,7 +26,7 @@ Tienes [Levi s The Jacket Chaqueta vaquera  Palmer Trucker  XS para Hombre](http
 🔎:
 
 - Bolsillos de parche en el pecho con solapa y cierre de botón automático
-- Bajo ajustable en el lateral
 - Manga larga con cierre de botón en los puños
+- Bajo ajustable en el lateral
 
 [Comprar!!!](https://www.amazon.es/dp/B07KF4TFML/?tag=tolees-21)
