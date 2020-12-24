@@ -25,9 +25,9 @@ Está [Kingston DataTraveler 50  Llave USB de 128 GB  Plata](https://www.amazon.
 
 ℹ️:
 
-- Carcasa metálica codificada por colores en función de la capacidad de memoria
-- Diseño compacto, ligero y sin capuchón
-- Tipo de memoria interna: DDR3 SDRAM
 - Capacidad del disco duro: 128 GB
+- Diseño compacto, ligero y sin capuchón
+- Carcasa metálica codificada por colores en función de la capacidad de memoria
+- Tipo de memoria interna: DDR3 SDRAM
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01JHE501I/?tag=tolees-21)

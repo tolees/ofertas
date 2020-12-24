@@ -25,8 +25,8 @@ Tienes [Levi s 501 Crop Vaqueros Boyfriend  Black Heart  23W / 26L para Mujer](h
 
 🔎:
 
-- Un corte de inspiración vintage con una versátil pernera recta
 - Diseño de cinco bolsillos
+- Un corte de inspiración vintage con una versátil pernera recta
 - Largo recortado para lucir un aire moderno
 
 [Comprar!!!](https://www.amazon.es/dp/B07KF6W9FW/?tag=tolees-21)

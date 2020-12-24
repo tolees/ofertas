@@ -25,12 +25,12 @@ En este momento está [Pepe Jeans Vincent Polo  Blanco  White 800   Large para H
 
 🔎:
 
-- Fit regular
-- Polo manga corta de algodón
-- Bajo irregular con aberturas laterales
-- Cuello cierre botones
 - Cuello y detalle en mangas elásticos
 - Tinte en prenda
+- Bajo irregular con aberturas laterales
+- Fit regular
+- Polo manga corta de algodón
 - Logo bordado en el pecho
+- Cuello cierre botones
 
 [Aquí!!!](https://www.amazon.es/dp/B078TMCKQR/?tag=tolees-21)

@@ -25,8 +25,8 @@ Tienes [Superga 2578-cotu  Zapatillas de Gimnasia Unisex Adulto  Blanco  White 9
 
 ℹ️:
 
-- Material de la suela: goma
-- Forro: tela
 - Material exterior: tela
+- Forro: tela
+- Material de la suela: goma
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07TS8WM5L/?tag=tolees-21)

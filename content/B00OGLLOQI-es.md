@@ -25,8 +25,8 @@ Tienes [AEG 4935442850 Taladro percutor  750 W](https://www.amazon.es/dp/B00OGLL
 
 ℹ️:
 
-- Fuente de energía: corriente alterna
-- Idle speed (max): 3000 rpm
 - Entrada de energía: 750 w
+- Idle speed (max): 3000 rpm
+- Fuente de energía: corriente alterna
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00OGLLOQI/?tag=tolees-21)

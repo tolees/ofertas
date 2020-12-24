@@ -25,8 +25,8 @@ Está [NIKE Air MAX Command  Sneaker Hombre  White/Mystic Navy-Cardinal Red  42 
 
 ℹ️:
 
+- Suave de Llevar
 - Importado
 - Cordones de Zapatos
-- Suave de Llevar
 
 [Ver la oferta!!](https://www.amazon.es/dp/B082R6B1TV/?tag=tolees-21)

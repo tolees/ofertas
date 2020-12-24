@@ -25,10 +25,10 @@ Ahora mismo tienes [Skechers Magna-Lights  Zapatillas  Rosa  Pink & Multi Textil
 
 🔎:
 
+- Presilla en talón.
+- Cordones elásticos con diseño atlético.
 - Entresuela con luz.
 - Exterior de malla y sintético.
-- Cordones elásticos con diseño atlético.
 - Costuras acentuadas.
-- Presilla en talón.
 
 [Visítala!!!](https://www.amazon.es/dp/B07W4B7G7Q/?tag=tolees-21)

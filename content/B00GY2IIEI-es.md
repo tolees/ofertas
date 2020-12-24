@@ -25,10 +25,10 @@ Ahora mismo tienes [JUANOLA Jalea Energy  Complemento alimenticio con jalea real
 
 🔎:
 
-- La maca favorece el rendimiento físico y mental
-- Contiene prebioticos, maca, vitamina C y vitamina B6
 - Los prebióticos intervienen en el mantenimiento de la flora intestinal
+- La maca favorece el rendimiento físico y mental
 - El paquete tiene 14 viales
+- Contiene prebioticos, maca, vitamina C y vitamina B6
 - Para adultos y mayores de 14 años se recomienda un vial al día
 
 [Visítala!!!](https://www.amazon.es/dp/B00GY2IIEI/?tag=tolees-21)

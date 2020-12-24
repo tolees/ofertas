@@ -25,12 +25,12 @@ Ahora mismo tienes [Casio Collection LA680WEA-7EF Reloj de pulsera para Mujer  G
 
 🔎:
 
-- Incluye cronómetro, alarma diaria, calendario automático y formato de 12 o 24 horas
 - Nota: Los colores pueden diferir ligeramente del original
-- La duración de la batería es de 5 años
-- Ancho: 2,9 cm, Altura: 3,3 cm,Grueso: 0,9 cm, Peso: 36 g
-- Para iluminar la esfera del reloj se usa un diodo emisor de luz LED
 - Caja de resina y correa de acero inoxidable con cierre ajustable
+- Para iluminar la esfera del reloj se usa un diodo emisor de luz LED
+- La duración de la batería es de 5 años
+- Incluye cronómetro, alarma diaria, calendario automático y formato de 12 o 24 horas
 - Resistente al agua y soporta pequeñas salpicaduras de agua
+- Ancho: 2,9 cm, Altura: 3,3 cm,Grueso: 0,9 cm, Peso: 36 g
 
 [Visítala!!!](https://www.amazon.es/dp/B00DSYVL7Q/?tag=tolees-21)

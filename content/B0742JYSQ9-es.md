@@ -25,10 +25,10 @@ Tienes [Build a Bot- Mascota-Robot Conejo  Multicolor  Famosa 700013960 ](https:
 
 🔎:
 
-- Modelo conejito rosa
-- ¡Monta, personaliza y juega!
 - Cada una de las mascotas incluye una comida motivadora que le hará corretear: conejo + zanahoria
 - El motor electrónico permite a tu mascota dar saltitos y esquivar obstáculos
 - Crea tu propia mascota-robot a partir de 20 piezas y personalízala con un montón de pegatinas
+- Modelo conejito rosa
+- ¡Monta, personaliza y juega!
 
 [Comprar!!!](https://www.amazon.es/dp/B0742JYSQ9/?tag=tolees-21)
