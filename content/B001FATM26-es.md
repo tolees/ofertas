@@ -25,9 +25,9 @@ Está [Nixon Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidab
 
 ℹ️:
 
-- Correa: acero inoxidable, cierre a presión de acero inoxidable
-- Esfera: incluye índices aplicados y agujas moldeadas a medida
 - Mecanismo: cuarzo japonés de 3 agujas
+- Esfera: incluye índices aplicados y agujas moldeadas a medida
+- Correa: acero inoxidable, cierre a presión de acero inoxidable
 - Caja: acero inoxidable de 43,25 x 37 mm, 100 M , 10 ATM, cristal mineral endurecido, corona de triple junta
 
 [Ver la oferta!!](https://www.amazon.es/dp/B001FATM26/?tag=tolees-21)

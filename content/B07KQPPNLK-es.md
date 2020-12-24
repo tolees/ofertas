@@ -25,10 +25,10 @@ Ahora mismo tienes [Xiaomi Mi Casual Daypack Orange](https://www.amazon.es/dp/B0
 
 🔎:
 
-- Tamaño: 34 x 22,5 x 13 cm
+- Correas de hombro ajustables
+- Circulación del aire en la parte posterior
 - Bolsa para botella
 - Volumen: 10 litros, resistente al agua
-- Circulación del aire en la parte posterior
-- Correas de hombro ajustables
+- Tamaño: 34 x 22,5 x 13 cm
 
 [Visítala!!!](https://www.amazon.es/dp/B07KQPPNLK/?tag=tolees-21)

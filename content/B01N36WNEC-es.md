@@ -25,8 +25,8 @@ Está [Levi s The Perfect Tee  Camiseta  Mujer  Blanco  White 297   M](https://w
 
 ℹ️:
 
-- Tiene estampado la marca Levis
-- Modelo casual
 - Con tacto suave de forro polar
+- Modelo casual
+- Tiene estampado la marca Levis
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01N36WNEC/?tag=tolees-21)

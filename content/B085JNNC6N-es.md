@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUAWEI P Smart Pro - Smartphone con Pant al 22.83 % de descuento'
-date: 2020-12-23 20:33:18
+date: 2020-12-24 21:01:22
 image: 'https://m.media-amazon.com/images/I/41bGxmDy82L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B085JNNC6N/?tag=tolees-21'
 descuento: '22.83'
-average: '189.32600000000005'
+average: '188.76138888888894'
 ---
 
 Está [HUAWEI P Smart Pro - Smartphone con Pantalla Ultra FullView FHD+ de 6.59"  6GB de RAM + 128GB de ROM  Triple Cámara IA de 48MP  4000 mAh  Android 9  Color Negro](https://www.amazon.es/dp/B085JNNC6N/?tag=tolees-21) con 22.83 de descuento por 169.0 EUR (original: 219.0 EUR) en el siguiente enlace!

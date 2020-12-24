@@ -25,10 +25,10 @@ Ahora mismo tienes [Kärcher K5 Full Control Home - Hidrolimpiadora de alta pres
 
 🔎:
 
-- Tiene 3 niveles de presión y un nivel de detergente
-- Filtro interno de agua que protege la bomba de alta presión contra las impurezas que contiene el agua
 - Adecuado para la limpieza de vehículos, muebles de jardín y bicicletas
 - El nivel de presión se ajusta desde la lanza pulverizadora
+- Filtro interno de agua que protege la bomba de alta presión contra las impurezas que contiene el agua
 - Lanza Vario Power y una boquilla rotativa
+- Tiene 3 niveles de presión y un nivel de detergente
 
 [Visítala!!!](https://www.amazon.es/dp/B0185UN2UQ/?tag=tolees-21)

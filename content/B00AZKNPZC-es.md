@@ -25,10 +25,10 @@ Tienes [Logitech B100 Ratón con Cable  3 Botones  Seguimiento Óptico  Ambidies
 
 ℹ️:
 
-- Un Ratón Ultra-Preciso : con una sensibilidad de 800 DPI, obtendrá un control del cursor preciso que le permitirá editar documentos y navegar por Internet en su ordenador con optima eficiencia
-- Diseño Ambidiestro : el cómodo diseño ambidiestro resulta fácil de usar con cualquier mano, por lo que podrá trabajar de forma más agradable, incluso al final del día
+- Plug and Play : sin configuración para usar nada más desembalarlo, sólo hay que conectarlo al puerto USB
 - Desplazamiento Sencillo : el desplazamiento horizontal y zoom permite el desplazamiento horizontal o vertical y la aplicación de zoom al instante,optimo para hojas de cálculo y presentaciones
 - Prueba el Ratón Inalámbrico Silencioso Logitech B220 : con fiable conexión inalámbrica, clics silenciosos y duración de pilas prolongada 18 meses
-- Plug and Play : sin configuración para usar nada más desembalarlo, sólo hay que conectarlo al puerto USB
+- Diseño Ambidiestro : el cómodo diseño ambidiestro resulta fácil de usar con cualquier mano, por lo que podrá trabajar de forma más agradable, incluso al final del día
+- Un Ratón Ultra-Preciso : con una sensibilidad de 800 DPI, obtendrá un control del cursor preciso que le permitirá editar documentos y navegar por Internet en su ordenador con optima eficiencia
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00AZKNPZC/?tag=tolees-21)

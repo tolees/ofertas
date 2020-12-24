@@ -26,8 +26,8 @@ Tienes [Puma Fundamentals Sports Bag M Bag  Unisex Adulto  Puma Black  OSFA](htt
 ℹ️:
 
 - Cremallera de dos direcciones que se abre al compartimento principal
+- Bolsillo con cremallera en el lado derecho
 - Bolsillo de malla en el lado izquierdo
 - Bolsillo con cremallera en la parte delantera
-- Bolsillo con cremallera en el lado derecho
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D85KDPK/?tag=tolees-21)

@@ -27,8 +27,8 @@ Tienes [Seiko Reloj Cronógrafo para Unisex Adultos de Cuarzo con Correa en Acer
 
 - WR 100mt
 - Casual
+- Solar
 - Gris oscuro y Metálico
 - Cronógrafo en Acero inoxidable para Hombre
-- Solar
 
 [Comprar!!!](https://www.amazon.es/dp/B07N1WPH4Y/?tag=tolees-21)
