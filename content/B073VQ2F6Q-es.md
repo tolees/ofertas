@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Old Boy Edición Coleccionista  2 Discos  al 36.94 % de descuento'
-date: 2020-12-22 07:37:18
+date: 2020-12-24 02:35:21
 image: 'https://m.media-amazon.com/images/I/51XBtDKtxdL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073VQ2F6Q/?tag=tolees-21'
 descuento: '36.94'
-average: '18.083750000000002'
+average: '18.017058823529414'
 ---
 
 Está [Old Boy Edición Coleccionista  2 Discos + Libreto  [Blu-ray]](https://www.amazon.es/dp/B073VQ2F6Q/?tag=tolees-21) con 36.94 de descuento por 16.95 EUR (original: 26.88 EUR) en el siguiente enlace!

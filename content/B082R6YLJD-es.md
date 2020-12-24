@@ -25,10 +25,10 @@ Está [Nike W React Infinity Run FK  Zapatillas para Correr Mujer  Violet Ash Wh
 
 ℹ️:
 
-- Cierre: con cordones
 - Material exterior: sintético
-- Ancho del zapato: normal
 - Suela: goma
+- Cierre: con cordones
+- Ancho del zapato: normal
 - Lining: sintético
 
 [Ver la oferta!!](https://www.amazon.es/dp/B082R6YLJD/?tag=tolees-21)

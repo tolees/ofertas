@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'El Gran Showman Blu-Ray [Blu-ray] con un 35.09 % de descuento'
-date: 2020-12-22 20:34:24
+date: 2020-12-24 02:09:43
 image: 'https://m.media-amazon.com/images/I/515lGrSCJgL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078LGQNC3/?tag=tolees-21'
 descuento: '35.09'
-average: '10.760714285714283'
+average: '10.706666666666663'
 ---
 
 En este momento está [El Gran Showman Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B078LGQNC3/?tag=tolees-21) a 9.95 EUR (original: 15.33 EUR) (35.09 %  de descuento) en el siguiente enlace!
