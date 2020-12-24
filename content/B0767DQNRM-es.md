@@ -25,8 +25,8 @@ Ahora mismo tienes [Intel NUC BLKNUC7I3DNH2E - Ordenador Mini PC  Intel Core i3-
 
 🔎:
 
-- Cuenta con tipo de memoria DDR4-2133 1.2 V SO-DIMM
 - Con 2 canales de memoria
+- Cuenta con tipo de memoria DDR4-2133 1.2 V SO-DIMM
 - Tiene 4 puertos USB
 - Cuenta con gráficos del procesador Intel HD Graphics 620
 

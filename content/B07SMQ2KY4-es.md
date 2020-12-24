@@ -27,8 +27,8 @@ Tienes [Disney- Frozen 2 Elsa Anna y Olaf Multipack  Hasbro E8749EP5    color/mo
 
 - ANNA Y ELSA DE LAS PELÍCULAS DE FROZEN DE DISNEY: Personajes famosos de las películas de Frozen de Disney, estas muñecas clásicas de Anna y Elsa presentan sus peinados característicos
 - CONJUNTOS Y ACCESORIOS PRECIOSOS: Anna y Elsa visten conjuntos inspirados en los preciosos conjuntos que llevan en Frozen 2 de Disney
+- PARA NIÑOS A PARTIR DE 3 AÑOS: A los fans de las películas de Frozen de Disney les encantará el kit de muñecas a la moda, optimo como regalo de cumpleaños o Navidad, para recrear escenas o inventar las suyas propias
 - POSTURAS DIVERTIDAS: Representa diferentes posturas y juega a que Anna y Elsa están interpretando las diferentes y divertidas escenas de las películas de Frozen de Disney con 9 puntos de articulación
 - INCLUYE EL MUÑECO DE OLAF: Este kit incluye al encantador compañero de Anna y Elsa: Olaf
-- PARA NIÑOS A PARTIR DE 3 AÑOS: A los fans de las películas de Frozen de Disney les encantará el kit de muñecas a la moda, optimo como regalo de cumpleaños o Navidad, para recrear escenas o inventar las suyas propias
 
 [Comprar!!!](https://www.amazon.es/dp/B07SMQ2KY4/?tag=tolees-21)

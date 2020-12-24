@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'La Bella Y La Bestia [DVD] con un 20.02 % de descuento'
-date: 2020-12-22 22:32:38
+date: 2020-12-24 16:26:42
 image: 'https://m.media-amazon.com/images/I/51vksbNEfkL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XPY9TB8/?tag=tolees-21'
 descuento: '20.02'
-average: '11.304285714285712'
+average: '10.789999999999997'
 ---
 
 En este momento está [La Bella Y La Bestia [DVD]](https://www.amazon.es/dp/B06XPY9TB8/?tag=tolees-21) a 7.19 EUR (original: 8.99 EUR) (20.02 %  de descuento) en el siguiente enlace!

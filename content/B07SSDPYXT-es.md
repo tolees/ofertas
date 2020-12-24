@@ -27,10 +27,10 @@ Ahora mismo tienes [Nordés Atlantic Galician Gin - 1 botella de 70 cl + Vaso Co
 
 - Regalo de vaso coleccionable disponible en dos colores.
 - El fabricante nos proporciona este producto en colores/modelos aleatorios. Nos resulta imposible proporcionarte el producto en un color/modelo en particular. Al confirmar tu compra, recibirás uno de los modelos que se muestran en la imagen o en el título, en función de la disponibilidad.
-- Elaborada mediante un proceso lento y muy cuidado, utilizando una porción de uva albariño de la que se obtiene el aguardiente de vino, alma del producto.
 - El pack podrá incluir el vaso azul o el vaso blanco.
-- Ginebra premium gallega, fresca y aromática.
+- Elaborada mediante un proceso lento y muy cuidado, utilizando una porción de uva albariño de la que se obtiene el aguardiente de vino, alma del producto.
 - Su característica botella blanca está inspirada en la cerámica gallega de Sargadelos, elaborada tradicionalmente de manera artesanal.
 - Perfecto para regalo, celebraciones especiales, o para disfrutar de una copa agradable en buena compañía.
+- Ginebra premium gallega, fresca y aromática.
 
 [Visítala!!!](https://www.amazon.es/dp/B07SSDPYXT/?tag=tolees-21)

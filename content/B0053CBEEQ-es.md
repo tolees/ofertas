@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Friends - Colección Completa [DVD] con un 34.63 % de descuento'
-date: 2020-12-22 18:45:29
+date: 2020-12-24 16:30:20
 image: 'https://m.media-amazon.com/images/I/51N994txTQL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0053CBEEQ/?tag=tolees-21'
 descuento: '34.63'
-average: '73.18'
+average: '71.21111111111111'
 ---
 
 En este momento está [Friends - Colección Completa [DVD]](https://www.amazon.es/dp/B0053CBEEQ/?tag=tolees-21) a 64.32 EUR (original: 98.39 EUR) (34.63 %  de descuento) en el siguiente enlace!

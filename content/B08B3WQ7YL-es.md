@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bizak- Playset Batcueva DC Comics Batman al 19.84 % de descuento'
-date: 2020-12-21 12:11:06
+date: 2020-12-24 16:31:28
 image: 'https://m.media-amazon.com/images/I/51K2w+NTowL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Ahora mismo tienes [Bizak- Playset Batcueva DC Comics Batman Juguete  61927819 ]
 
 🔎:
 
-- Incluye: 1 playset y 1 figura de Batman de 10 cm
-- En el primer piso podrás aparcar y reparar el batmóvil y la batmoto, En el segundo podrás guardar y equipar a Batman con sus armaduras y en el tercer piso dispondrás de las misiones para salvar Gotham
-- Con Slime para paralizar a los enemigos
 - Incluye 3 pisos desmontables, con el frontal camuflado como si se tratara de un edificio la parte trasera está la BatCueva
+- Incluye: 1 playset y 1 figura de Batman de 10 cm
 - Usa las trampillas para sorprender a los bandidos, desciende por la escotilla secreta y escapa abriendo la valla de salida
+- Con Slime para paralizar a los enemigos
+- En el primer piso podrás aparcar y reparar el batmóvil y la batmoto, En el segundo podrás guardar y equipar a Batman con sus armaduras y en el tercer piso dispondrás de las misiones para salvar Gotham
 
 [Visítala!!!](https://www.amazon.es/dp/B08B3WQ7YL/?tag=tolees-21)

@@ -25,12 +25,12 @@ Ahora mismo tienes [TP-Link TL-WPA7510 - KIT de Adaptadores Powerline Gigabit AV
 
 🔎:
 
-- Enchufar, Emparejar y Listo – Configura tu red powerline y comienza a disfrutar de conexiones por cable o por Wi-Fi sin interrupciones y rápidas en cuestión de minutos
+- Requisitos del sistema: Windows 10/8.1/8/7/Vista/XP, Mac OS, Linux2
 - El puerto Gigabit proporciona una red cableada segura para ordenadores, smart TVs o videoconsolas
 - Indicador de LED: Power, Powerline, Ethernet, 2.4G Wi-Fi, 5G Wi-Fi
-- Compatible con el estándar HomePlug AV2, transferencia de datos de alta velocidad con tasas de transferencia de hasta 1000Mbps, soporta todas tus necesidades online
 - Auto-Sincronización Wi-Fi – Configuración sencilla con Clonado Wifi y sincronización con Wi-Fi Move
-- Requisitos del sistema: Windows 10/8.1/8/7/Vista/XP, Mac OS, Linux2
+- Compatible con el estándar HomePlug AV2, transferencia de datos de alta velocidad con tasas de transferencia de hasta 1000Mbps, soporta todas tus necesidades online
+- Enchufar, Emparejar y Listo – Configura tu red powerline y comienza a disfrutar de conexiones por cable o por Wi-Fi sin interrupciones y rápidas en cuestión de minutos
 - Doble Banda Wi-Fi 802.11ac – Extiende 2.4GHz (300Mbps) + 5GHz (433Mbps) de velocidad Wi-Fi en doble banda para todas las habitaciones de tu casa
 
 [Visítala!!!](https://www.amazon.es/dp/B06WWFLS77/?tag=tolees-21)
