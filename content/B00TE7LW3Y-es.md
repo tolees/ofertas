@@ -25,8 +25,8 @@ En este momento está [Heelys Fresh  770494  - Zapatillas de deporte para niños
 
 🔎:
 
-- De alta calidad y con diseño deportivo
 - Patines Patinaje Unisex Infantil
 - Material duro Heelys
+- De alta calidad y con diseño deportivo
 
 [Aquí!!!](https://www.amazon.es/dp/B00TE7LW3Y/?tag=tolees-21)

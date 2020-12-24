@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BlackBerry Classic - Smartphone de 3.5"  al 45.30 % de descuento'
-date: 2020-12-23 07:01:11
+date: 2020-12-24 10:30:27
 image: 'https://m.media-amazon.com/images/I/51etHztVb+L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00SFZ1AE2/?tag=tolees-21'
 descuento: '45.30'
-average: '257.85999999999996'
+average: '254.28923076923073'
 ---
 
 Ahora mismo tienes [BlackBerry Classic - Smartphone de 3.5"  Qualcomm MSM 8960 1.5 GHz  cámara de 8 MP  S.O. BlackBerry 10  teclado QWERTY ](https://www.amazon.es/dp/B00SFZ1AE2/?tag=tolees-21) a 234.65 EUR (original: 429.0 EUR) (45.30 %  de descuento) en el siguiente enlace!
@@ -26,9 +26,9 @@ Ahora mismo tienes [BlackBerry Classic - Smartphone de 3.5"  Qualcomm MSM 8960 1
 🔎:
 
 - Batería 2515 mAh que proporciona hasta 22 h de autonomía
-- Teclas de navegación clásica BlackBerry más teclado QWERTY completo
-- Sistema operativo BlackBerry 10
 - Botón central óptico
 - Pantalla 3.5", cámara de 8 MP
+- Sistema operativo BlackBerry 10
+- Teclas de navegación clásica BlackBerry más teclado QWERTY completo
 
 [Visítala!!!](https://www.amazon.es/dp/B00SFZ1AE2/?tag=tolees-21)

@@ -25,9 +25,9 @@ En este momento está [Funko Pop! Bobble Marvel: 80th - First Appearance Wolveri
 
 🔎:
 
+- Recomendado para niños a partir de 3 años
 - Figura de colección de la marca Funko
 - El artículo es adecuado para todos los fanáticos de Marvel Wolverine
-- Recomendado para niños a partir de 3 años
 - El producto se envía en una caja ilustrada con ventana
 
 [Aquí!!!](https://www.amazon.es/dp/B07RPB593G/?tag=tolees-21)

@@ -25,10 +25,10 @@ En este momento está [ELEGOO Kit Básico de Componentes Electrónicos con Resis
 
 🔎:
 
-- Con un potenciómetro de precisión de mejor calidad.
-- Con transistores y circuitos integrados (IC) básicos.
 - Con más de 200 componentes.
+- Con transistores y circuitos integrados (IC) básicos.
 - 100% compatible con Arduino UNO R3, MEGA. Tenga en cuenta que este kit no viene con una placa controladora
 - Las hojas de datos están disponibles para descargar desde aquí: http://bit.ly/2jKlJMO
+- Con un potenciómetro de precisión de mejor calidad.
 
 [Aquí!!!](https://www.amazon.es/dp/B06Y3SQBZZ/?tag=tolees-21)

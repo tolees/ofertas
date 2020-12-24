@@ -25,10 +25,10 @@ Tienes [Tetra Test 6in1- Prueba de agua para controlar los seis valores más imp
 
 ℹ️:
 
-- Mide el pH, la dureza total y la dureza de carbonatos (DC + DT), el nitrito (NO2-), el nitrato (NO3-) y el cloro (Cl2)
 - pH: informa acerca de la proporción de ácidos y bases en el agua, un indicador importante para la salud de los peces; El intervalo de pH adecuado es 6.5-8.5
 - Prueba que permite una comprobación rápida y sencilla de la calidad del agua de estanque en 60 segundos
 - Encontrará en las instrucciones de uso información detallada e ideas de posibles medidas correctivas
 - DC: la dureza de carbonatos asegura un pH estable; Por regla general, se recomienda un grado de dureza entre 3° y 10° dH
+- Mide el pH, la dureza total y la dureza de carbonatos (DC + DT), el nitrito (NO2-), el nitrato (NO3-) y el cloro (Cl2)
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B001B65ZVQ/?tag=tolees-21)
