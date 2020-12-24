@@ -25,13 +25,13 @@ En este momento está [Vans Ward Platform Canvas Zapatillas Mujer  Negro  Canvas
 
 🔎:
 
-- Altura del tacón: 3 centímetros
-- Composición: Textile
 - Anchura del zapato: Normal
-- Revestimiento: Tela
-- Material exterior: Lona
 - Tipo de tacón: Tacón ancho
 - Cierre: Cordones
+- Composición: Textile
+- Altura del tacón: 3 centímetros
 - Material de la suela: Goma
+- Revestimiento: Tela
+- Material exterior: Lona
 
 [Aquí!!!](https://www.amazon.es/dp/B07C8YJHDX/?tag=tolees-21)

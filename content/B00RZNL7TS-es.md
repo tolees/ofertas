@@ -25,11 +25,11 @@ Ahora mismo tienes [WENKO 7730100 Recipiente para cocina para recoger las basura
 
 🔎:
 
+- Hecho de plástico higiénico
 - Adecuado para lavavajillas
 - Medidas (an x al x l): cuenco: 32, 4 x 17, 3 x 9, 2 cm, rascador: 12, 2 x 6, 2 x 0, 3 cm
 - Carga menos la espalda y ahorra papel de cocina
 - El grosor máximo del armario en el que se puede colgar: 2,5 cm
-- Hecho de plástico higiénico
 - Simplemente enganchar en un cajón o una puerta
 
 [Visítala!!!](https://www.amazon.es/dp/B00RZNL7TS/?tag=tolees-21)

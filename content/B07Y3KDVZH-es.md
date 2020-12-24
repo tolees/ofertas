@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WD Elements Desktop - Disco duro externo con un 25.83 % de descuento'
-date: 2020-12-22 13:50:59
+date: 2020-12-24 09:44:43
 image: 'https://m.media-amazon.com/images/I/31FLxlT6AYL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ En este momento está [WD Elements Desktop - Disco duro externo de sobremesa de 
 
 🔎:
 
-- Plug-and-play para ordenadores windows
-- Rápidas transferencias de datos
-- Almacenamiento adicional de alta capacidad
-- Calidad wd por dentro y por fuera
+- Wd quality inside and out
+- Plug-and-play ready for Windows PCs
+- High-capacity add-on storage
+- Fast data transfers
 
 [Aquí!!!](https://www.amazon.es/dp/B07Y3KDVZH/?tag=tolees-21)

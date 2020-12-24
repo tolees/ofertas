@@ -25,10 +25,10 @@ Tienes [Intel NUC 8I7HVKVA2 - Ordenador Mini PC  Intel Core i7-8809G  16 GB DDR4
 
 🔎:
 
-- Windows 10 64-bit
 - 1 TB NVMe SSD (PCIe x4)
 - WiFi AC + Bluetooth 4.2
 - Procesador Intel Core i7-8809G (Hasta 4.20 GHz, 8 MB cache) con gráficos Radeon RX Vega M GH
 - 16 GB RAM DDR4-2400
+- Windows 10 64-bit
 
 [Comprar!!!](https://www.amazon.es/dp/B07J6TRW4D/?tag=tolees-21)

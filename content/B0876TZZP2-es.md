@@ -25,10 +25,10 @@ Ahora mismo tienes [Freixenet Mini Ice Cava Rosé Pack 3 botellas de 200 ml - Lo
 
 🔎:
 
-- Designaciónes varietales: Garnacha/Pinot noir/Chardonnay
-- Recomendamos servir en copa balón con grandes cubitos de hielo
 - Semi Seco: 45 g/l
-- Pruébalo incluso combinándolo con tus sabores favoritos para realzar su intensidad.
 - Garnacha, Pinot Noir y un toque de Chardonnay. (Chardonnay en Licor de Expedición: Garnacha + Chardonnay)
+- Designaciónes varietales: Garnacha/Pinot noir/Chardonnay
+- Pruébalo incluso combinándolo con tus sabores favoritos para realzar su intensidad.
+- Recomendamos servir en copa balón con grandes cubitos de hielo
 
 [Visítala!!!](https://www.amazon.es/dp/B0876TZZP2/?tag=tolees-21)

@@ -25,8 +25,8 @@ En este momento está [Dengc Mini Ventilador USB Flexible Ventilador de refriger
 
 🔎:
 
-- 2. Ajustable: cuello flexible y ajustable.
 - 1. Ligero: diseño flexible único, ligero y portátil.
 - 3. Bajo nivel de ruido: bajo nivel de ruido con bajo consumo de energía, súper silencioso.
+- 2. Ajustable: cuello flexible y ajustable.
 
 [Aquí!!!](https://www.amazon.es/dp/B08GKBSSLG/?tag=tolees-21)

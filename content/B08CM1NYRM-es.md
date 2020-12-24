@@ -25,10 +25,10 @@ Está [Casio Reloj. MWA-100H-2AVEF](https://www.amazon.es/dp/B08CM1NYRM/?tag=tol
 
 ℹ️:
 
+- Banda de resina
+- La pulsera está equipada con una hebilla
 - Luz LED
 - La carcasa de resina de acero inoxidable resistente a los golpes ofrece protección contra impactos y golpes
-- La pulsera está equipada con una hebilla
 - 3 años - 1 batería
-- Banda de resina
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08CM1NYRM/?tag=tolees-21)
