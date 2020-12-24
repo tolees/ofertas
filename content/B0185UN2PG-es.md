@@ -25,13 +25,13 @@ Ahora mismo tienes [Kärcher 1.324-000.0 K4 Full Control - Hidrolimpiadora de Al
 
 🔎:
 
-- Motor refrigerado por agua
-- Para mayor comodidad en los trabajos en altura
-- Aplicación de detergente mediante, Sistema Plug ’n’ Clean
+- Pistola de alta presión, G 145 Q Full Control
 - Manguera de alta presión, 6 m
 - Asa telescópica
 - Adaptador para conector para mangueras de riego A3/4"
+- Motor refrigerado por agua
+- Aplicación de detergente mediante, Sistema Plug ’n’ Clean
 - Se puede retraer completamente para un óptimo almacenamiento
-- Pistola de alta presión, G 145 Q Full Control
+- Para mayor comodidad en los trabajos en altura
 
 [Visítala!!!](https://www.amazon.es/dp/B0185UN2PG/?tag=tolees-21)

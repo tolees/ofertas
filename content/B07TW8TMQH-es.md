@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 27.57 % en The Witcher 3: Wild Hunt - Complete Edit'
-date: 2020-12-05 21:16:49
+title: 'The Witcher 3: Wild Hunt - Complete Edit con un 27.57 % de descuento'
+date: 2020-12-24 13:06:36
 image: 'https://m.media-amazon.com/images/I/51FjGJFNIJL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,13 +16,14 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07TW8TMQH/?tag=tolees-21'
 descuento: '27.57'
+average: '42.15'
 ---
 
-Tienes [The Witcher 3: Wild Hunt - Complete Edition](https://www.amazon.es/dp/B07TW8TMQH/?tag=tolees-21) con un 27.57 % de descuento con precio de oferta de 44.9 EUR (original: 61.99 EUR) en el siguiente enlace!
+En este momento está [The Witcher 3: Wild Hunt - Complete Edition](https://www.amazon.es/dp/B07TW8TMQH/?tag=tolees-21) a 44.9 EUR (original: 61.99 EUR) (27.57 %  de descuento) en el siguiente enlace!
 
 [![The Witcher 3: Wild Hunt - Complete Edit](https://m.media-amazon.com/images/I/51FjGJFNIJL._SL200_.jpg)](https://www.amazon.es/dp/B07TW8TMQH/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B07TW8TMQH/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B07TW8TMQH/?tag=tolees-21)

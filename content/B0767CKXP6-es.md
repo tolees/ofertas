@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Intel NUC BLKNUC7I3DNK2E- Ordenador Mini al 18.83 % de descuento'
-date: 2020-12-23 08:20:39
+date: 2020-12-24 14:38:32
 image: 'https://m.media-amazon.com/images/I/31ztJz0CjgL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0767CKXP6/?tag=tolees-21'
 descuento: '18.83'
-average: '240.5707171314742'
+average: '240.46557312252975'
 ---
 
 Está [Intel NUC BLKNUC7I3DNK2E- Ordenador Mini PC  Intel Core i3-7100U  Espacio para 32 GB DDR4 RAM  Intel Optane Memory  Intel HD Graphics 620 ](https://www.amazon.es/dp/B0767CKXP6/?tag=tolees-21) con 18.83 de descuento por 227.27 EUR (original: 279.99 EUR) en el siguiente enlace!
@@ -25,10 +25,10 @@ Está [Intel NUC BLKNUC7I3DNK2E- Ordenador Mini PC  Intel Core i3-7100U  Espacio
 
 ℹ️:
 
-- Procesador Intel Core i3
-- Tecnología de virtualización Intel para E / S dirigida (VT-d)
-- Tipos de memoria compatibles DDR4-SDRAM
-- Tipo de ranuras de memoria SO-DIMM
 - Memoria interna máxima de 32 GB
+- Tipos de memoria compatibles DDR4-SDRAM
+- Tecnología de virtualización Intel para E / S dirigida (VT-d)
+- Procesador Intel Core i3
+- Tipo de ranuras de memoria SO-DIMM
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0767CKXP6/?tag=tolees-21)

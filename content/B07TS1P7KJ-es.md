@@ -25,10 +25,10 @@ Ahora mismo tienes [Camper Peu Cami  Bota Media Pantorrilla Mujer  Negro  38 EU]
 
 🔎:
 
-- Color: negro
-- Leather Working Group certificado
 - Suela de TPU con tecnología Contact Earth: resistencia a la abrasión
 - Piel vacuna
 - Cosido 360º: mayor durabilidad.
+- Color: negro
+- Leather Working Group certificado
 
 [Visítala!!!](https://www.amazon.es/dp/B07TS1P7KJ/?tag=tolees-21)

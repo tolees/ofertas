@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gonher-Pistola Policía con 8 Disparos  M al 20.02 % de descuento'
-date: 2020-12-22 18:31:05
+date: 2020-12-24 14:17:11
 image: 'https://m.media-amazon.com/images/I/415V+rPB3eL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001C6FNYY/?tag=tolees-21'
 descuento: '20.02'
-average: '8.508333333333331'
+average: '8.494324324324321'
 ---
 
 Está [Gonher-Pistola Policía con 8 Disparos  Multicolor  sin Talla  45 ](https://www.amazon.es/dp/B001C6FNYY/?tag=tolees-21) con 20.02 de descuento por 7.99 EUR (original: 9.99 EUR) en el siguiente enlace!
@@ -25,10 +25,10 @@ Está [Gonher-Pistola Policía con 8 Disparos  Multicolor  sin Talla  45 ](https
 
 ℹ️:
 
-- Fulminantes no incluidos
-- Juguete de metal de alta calidad
 - Fabricado en España
-- Utiliza fulminantes de 8 disparos
+- Juguete de metal de alta calidad
 - Conforme a normativa UE
+- Fulminantes no incluidos
+- Utiliza fulminantes de 8 disparos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B001C6FNYY/?tag=tolees-21)

@@ -25,8 +25,8 @@ Ahora mismo tienes [Nike Pico 5  TDV   Zapatillas  Multicolor  White/Pink Blast 
 
 🔎:
 
-- Material exterior de piel auténtica y artificial
-- Alta tracción gracias a la suela exterior de goma
 - Cierre de velcro para poner y quitar rápidamente
+- Alta tracción gracias a la suela exterior de goma
+- Material exterior de piel auténtica y artificial
 
 [Visítala!!!](https://www.amazon.es/dp/B07SKKQMZV/?tag=tolees-21)
