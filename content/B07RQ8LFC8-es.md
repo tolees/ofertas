@@ -25,10 +25,10 @@ En este momento está [San Ignacio PK1410 Professional Chef Copper Plus Set 6 Sa
 
 🔎:
 
-- Dispone de revestimiento interior antiadherente xylan de whitford, a juego con su exterior en color cobre; y libre de pfoa
-- Juego de sartenes san ignacio, de la mano de bergner, de la colección professional chef copper plus en todas las dimensiones, ideal para que tengas todo un surtido disponible para tus placas de cocina
+- De 18, 20, 22, 24, 26 y 28 cm
 - Están fabricadas en aluminio prensado, lo que les confiere ligereza y efectividad, tanto en la captación como en la distribución del calor incluso con inducción a baja potencía, con el consiguiente ahorro energético
 - Los mangos son profesionales, en tubo, y remachados (mayor durabilidad), en acero inoxidable; por ello, y con las debidas precauciones, son aptas para horno; aptas para todo tipo de fuegos, incluido el de inducción
-- De 18, 20, 22, 24, 26 y 28 cm
+- Dispone de revestimiento interior antiadherente xylan de whitford, a juego con su exterior en color cobre; y libre de pfoa
+- Juego de sartenes san ignacio, de la mano de bergner, de la colección professional chef copper plus en todas las dimensiones, ideal para que tengas todo un surtido disponible para tus placas de cocina
 
 [Aquí!!!](https://www.amazon.es/dp/B07RQ8LFC8/?tag=tolees-21)

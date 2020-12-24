@@ -25,10 +25,10 @@ Tienes [LG XBOOM Go PL5 - Altavoz Bluetooth de 20W de Potencia con Sonido Meridi
 
 🔎:
 
-- Gran potencia de 20 W para disfrutar de la música donde quieras; LG pone el sonido, tú eliges el lugar
-- 18h de música sin parar gracias a la batería de larga duración de LG XBOOM Go PL5, iluminación LED; la luz se mueve al ritmo de tu música y el lugar
 - Llévate el LG XBOOM Go a cualquier sitio incluso si llueve o estás cerca del agua con la protección al agua IPX5 no tienes que preocuparte por nada
 - Conectividad Bluetooth 5.0, la conexión que con mayor calidad y menor consumo de batería, comandos de voz Google e Siri; pon a prueba tus conocimientos musicales mientras suena la música
+- Gran potencia de 20 W para disfrutar de la música donde quieras; LG pone el sonido, tú eliges el lugar
 - Calidad de sonido Meridian, el LG XBOOM Go PL5 marca el ritmo con la tecnología Meridian para disfrutar de un sonido de calidad
+- 18h de música sin parar gracias a la batería de larga duración de LG XBOOM Go PL5, iluminación LED; la luz se mueve al ritmo de tu música y el lugar
 
 [Comprar!!!](https://www.amazon.es/dp/B087R3CPJ4/?tag=tolees-21)

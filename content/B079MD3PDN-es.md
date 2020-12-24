@@ -25,12 +25,12 @@ En este momento está [Salomon XA Pro 3D CSWP J  Zapatillas de Deporte Unisex Ad
 
 🔎:
 
-- Composición: Sintético
-- Tipo de tacón: Plano
-- Material de la suela: Sintético
-- Cierre: Cordones rápidos
-- Revestimiento: Sintético
-- Material exterior: Cuero sintético
 - LONGITUD DEL PIE: 23,5 cm
+- Cierre: Cordones rápidos
+- Material de la suela: Sintético
+- Composición: Sintético
+- Revestimiento: Sintético
+- Tipo de tacón: Plano
+- Material exterior: Cuero sintético
 
 [Aquí!!!](https://www.amazon.es/dp/B079MD3PDN/?tag=tolees-21)

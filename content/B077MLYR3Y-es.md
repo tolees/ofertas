@@ -25,7 +25,7 @@ En este momento está [PUMA Smash V2 L  Zapatillas Unisex Adulto  Negro Black Wh
 
 🔎:
 
-- Smash sneakers
 - Soft suede or leather upper
+- Smash sneakers
 
 [Aquí!!!](https://www.amazon.es/dp/B077MLYR3Y/?tag=tolees-21)
