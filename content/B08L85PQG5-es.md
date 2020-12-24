@@ -25,8 +25,8 @@ Tienes [Pearl Games Troyes Juego de Dados](https://www.amazon.es/dp/B08L85PQG5/?
 
 ℹ️:
 
-- A partir de 10 años de Edad
 - Juego de dados en Español
+- A partir de 10 años de Edad
 - Troyes Dice es un juego de estrategia ambientado en el universo Troyes. Estudia las opciones que te dan los dados para dejar huella en la historia de la ciudad.
 - En este juego descubrirás la ciudad de Troyes durante la Edad Media.
 - De 1 a 10 Jugadores

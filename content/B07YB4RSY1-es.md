@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Razer Goliathus Medium  Speed  - Overwat al 60.02 % de descuento'
-date: 2020-12-21 09:33:35
+date: 2020-12-24 18:22:12
 image: 'https://m.media-amazon.com/images/I/41eSAgzDacL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07YB4RSY1/?tag=tolees-21'
 descuento: '60.02'
-average: '11.786666666666665'
+average: '12.337499999999999'
 ---
 
 Está [Razer Goliathus Medium  Speed  - Overwatch Lucio Edition](https://www.amazon.es/dp/B07YB4RSY1/?tag=tolees-21) con 60.02 de descuento por 13.99 EUR (original: 34.99 EUR) en el siguiente enlace!
@@ -25,10 +25,10 @@ Está [Razer Goliathus Medium  Speed  - Overwatch Lucio Edition](https://www.ama
 
 ℹ️:
 
+- Segmentación y seguimiento con precisión de píxeles
 - Marco cosido antideshilachado
 - Diseño altamente portátil basado en tela
-- Tejido liso y tenso para que el ratón se mueva rápidamente
-- Segmentación y seguimiento con precisión de píxeles
 - Optimizado para todas las sensibilidades de ratón y sensores
+- Tejido liso y tenso para que el ratón se mueva rápidamente
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07YB4RSY1/?tag=tolees-21)

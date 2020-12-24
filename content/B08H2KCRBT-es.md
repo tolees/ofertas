@@ -25,10 +25,10 @@ Ahora mismo tienes [Forgotten Waters ¡Desaventuras de Piratas en un Mundo mági
 
 🔎:
 
-- Nota: Es necesaria una app para jugar a Forgotten Waters.
-- Recomendado a Partir de 14 Años de Edad
 - Con una duración de 30-120 Minutos por partida
 - Juego de Mesa en Español
+- Nota: Es necesaria una app para jugar a Forgotten Waters.
 - Juego de 3 a 7 Jugadores
+- Recomendado a Partir de 14 Años de Edad
 
 [Visítala!!!](https://www.amazon.es/dp/B08H2KCRBT/?tag=tolees-21)

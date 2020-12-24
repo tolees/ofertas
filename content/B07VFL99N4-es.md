@@ -1,30 +1,31 @@
 ---
 layout: post
-title: 'Clarks Un Trail Form  Derbys Derby  Brau al 46.37 % de descuento'
-date: 2020-12-11 12:28:15
-image: 'https://m.media-amazon.com/images/I/41GuLSXLg1L._SL200_.jpg'
+title: 'Clarks Un Trail Form  Derbys Derby  Brau al 61.67 % de rebaja'
+date: 2020-12-24 18:40:12
+image: 'https://m.media-amazon.com/images/I/41R8CTOV9ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07VFL99N4-es'
-actualPrice: 53.6 EUR
+actualPrice: 38.31 EUR
 currency: EUR
-price: 53.6
+price: 38.31
 comparePrice: 99.95 EUR
 prodname: 'Clarks Un Trail Form  Derbys Derby  Braun Mahogany Leather Mahogany Leather  40 EU'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07VFL99N4/?tag=tolees-21'
-descuento: '46.37'
+descuento: '61.67'
+average: '48.176000000000016'
 ---
 
-Ahora mismo tienes [Clarks Un Trail Form  Derbys Derby  Braun Mahogany Leather Mahogany Leather  40 EU](https://www.amazon.es/dp/B07VFL99N4/?tag=tolees-21) a 53.6 EUR (original: 99.95 EUR) (46.37 %  de descuento) en el siguiente enlace!
+Tienes [Clarks Un Trail Form  Derbys Derby  Braun Mahogany Leather Mahogany Leather  40 EU](https://www.amazon.es/dp/B07VFL99N4/?tag=tolees-21) con precio final de  38.31 EUR (original: 99.95 EUR) (61.67 %  de rebaja) aqui!
 
-[![Clarks Un Trail Form  Derbys Derby  Brau](https://m.media-amazon.com/images/I/41GuLSXLg1L._SL200_.jpg)](https://www.amazon.es/dp/B07VFL99N4/?tag=tolees-21)
+[![Clarks Un Trail Form  Derbys Derby  Brau](https://m.media-amazon.com/images/I/41R8CTOV9ML._SL200_.jpg)](https://www.amazon.es/dp/B07VFL99N4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
-- Color exacto: piedra Nubuck
 - Material de la suela: goma.
+- Color exacto: piedra Nubuck
 
-[Visítala!!!](https://www.amazon.es/dp/B07VFL99N4/?tag=tolees-21)
+[Comprar!!!](https://www.amazon.es/dp/B07VFL99N4/?tag=tolees-21)

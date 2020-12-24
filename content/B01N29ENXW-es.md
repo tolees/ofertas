@@ -26,9 +26,9 @@ Tienes [Jakks Pacific-Exclusiva varita de Harry Potter con hechizos interactivos
 🔎:
 
 - ⚡siéntete como el protagonista de la película con la autentica varita de harry potter
-- ⚡mueve la varita y aprieta sus botones según un patrón adecuado para lanzar el hechizo que quieras, y alucina con sus efectos de sonido y luz
-- ⚡entra en el fantástico mundo de harry potter con la reproducción de las varitas mágicas con hechizos de harry potter
 - ⚡empieza a entrenar y domina todos los hechizos para ser el mejor mago de todos y formar parte del ejercito de dumbledore; expelliarmus
 - ⚡podrás lanzar hasta 11 hechizos mágicos y luchar contra tu contrincante por ver quién es el mejor mago
+- ⚡entra en el fantástico mundo de harry potter con la reproducción de las varitas mágicas con hechizos de harry potter
+- ⚡mueve la varita y aprieta sus botones según un patrón adecuado para lanzar el hechizo que quieras, y alucina con sus efectos de sonido y luz
 
 [Comprar!!!](https://www.amazon.es/dp/B01N29ENXW/?tag=tolees-21)

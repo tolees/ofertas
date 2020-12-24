@@ -26,7 +26,7 @@ Tienes [Smile SMI16510 - Funda protectora para cámara réflex  DSLR  I’m Casu
 ℹ️:
 
 - Funda protectora para cámaras réflex
-- Cierre con velcro
 - Incorpora un mosquetón para una mayor comodidad de llevarla colgada.
+- Cierre con velcro
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B018XOOT0Q/?tag=tolees-21)

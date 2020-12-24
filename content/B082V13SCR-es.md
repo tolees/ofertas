@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LACKINGONE Naruto Portable Plastic Big K con un 15.40 % de descuento'
-date: 2020-12-22 10:07:09
+date: 2020-12-24 18:47:19
 image: 'https://m.media-amazon.com/images/I/41LuuK72pBL._SL200_.jpg'
 comments: true
 category: ofertas

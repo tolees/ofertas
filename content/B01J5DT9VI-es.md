@@ -26,7 +26,7 @@ Tienes [Smile Smart - Mochila para accesorios de fotografía  Azul  Turquesa ](h
 🔎:
 
 - Interior acolchado. Incluye separadores extraíbles para cámara de fotos y objetivos
-- Ideal para llevar accesorios de fotografía. Bolsillo con cremallera en la parte frontal. Bolsillo interior con rejilla
 - Fácil de usar. Diseño único
+- Ideal para llevar accesorios de fotografía. Bolsillo con cremallera en la parte frontal. Bolsillo interior con rejilla
 
 [Comprar!!!](https://www.amazon.es/dp/B01J5DT9VI/?tag=tolees-21)

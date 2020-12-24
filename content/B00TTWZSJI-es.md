@@ -25,9 +25,9 @@ Tienes [Esteve After Bite Xtreme Gel alivio inmediato de larga duración del pic
 
 ℹ️:
 
-- Formato gel para poder extender mejor
-- Eficacia demostrada científicamente
 - Apto para niños a partir de 2 años
+- Eficacia demostrada científicamente
+- Formato gel para poder extender mejor
 - Alivio inmediato de larga duración del picor ocasionado por insectos, medusas y plantas
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00TTWZSJI/?tag=tolees-21)

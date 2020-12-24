@@ -25,9 +25,9 @@ Tienes [Calvin Klein One crema hidratante corporal  250 ml](https://www.amazon.e
 
 🔎:
 
+- Crema hidratante para la piel con aroma de limón, mandarina y notas verdes
 - Cantidad del producto de 250 ml
 - Ideal pata todos los tipos de piel
-- Crema hidratante para la piel con aroma de limón, mandarina y notas verdes
 - Deja la piel suave y ligera
 
 [Comprar!!!](https://www.amazon.es/dp/B000Q39KBQ/?tag=tolees-21)

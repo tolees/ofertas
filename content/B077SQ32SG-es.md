@@ -25,15 +25,15 @@ Ahora mismo tienes [Fantasy Flight Games- Star Wars: El Despertar de la Fuerza: 
 
 🔎:
 
+- 0
+- 0
 - A partir de 12 años de edad
 - 0
 - 0
-- 0
+- Esta caja de inicio es la introducción perfecta para jugadores de todos los niveles, ya sean recién iniciados en los juegos de rol o veteranos que aún no han probado los juegos de rol de star wars
 - Con el contenido de esta caja podréis empezar a jugar sin necesidad de preparativos
+- Este producto es un juego independiente diseñado para grupos de 3 a 5 jugadores
 - 0
 - Reúne a tus amigos y preparaos para vivir aventuras en la galaxia de star wars
-- 0
-- Este producto es un juego independiente diseñado para grupos de 3 a 5 jugadores
-- Esta caja de inicio es la introducción perfecta para jugadores de todos los niveles, ya sean recién iniciados en los juegos de rol o veteranos que aún no han probado los juegos de rol de star wars
 
 [Visítala!!!](https://www.amazon.es/dp/B077SQ32SG/?tag=tolees-21)

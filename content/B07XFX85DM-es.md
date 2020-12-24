@@ -25,10 +25,10 @@ Tienes [PUMA Ftblnxt Graphic Sr Pantalones Cortos de Fútbol  Hombre  Negro Blac
 
 ℹ️:
 
-- Parte inferior abierta
 - Cinturilla elástica
+- Largo por encima de la rodilla
+- Parte inferior abierta
 - Logotipo del felino de PUMA e identidad gráfica en la cinturilla
 - Logotipo del felino PUMA en la pernera izquierda
-- Largo por encima de la rodilla
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07XFX85DM/?tag=tolees-21)
