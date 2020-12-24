@@ -25,9 +25,9 @@ Tienes [Tacens Aura II - Ventilador para ordenador  8 cm  +60.000 h  sistema ant
 
 🔎:
 
-- Ofrece una vida útil de un total de 60.000 horas
-- Es un ventilador ultra-silencioso fabricado con el exclusivo y reconocido sistema de rodamientos de alta tecnología Tacens Fluxus Pro (10-12-12dB)
 - Temperatura de trabajo: -10º hasta + 65ºC
+- Es un ventilador ultra-silencioso fabricado con el exclusivo y reconocido sistema de rodamientos de alta tecnología Tacens Fluxus Pro (10-12-12dB)
 - Evita cualquier ruido producido por las vibraciones no deseadas con su sistema anti-vibración
+- Ofrece una vida útil de un total de 60.000 horas
 
 [Comprar!!!](https://www.amazon.es/dp/B004MMHSKC/?tag=tolees-21)

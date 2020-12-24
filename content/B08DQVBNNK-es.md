@@ -27,7 +27,7 @@ En este momento está [PLAYMOBIL Calendario De Adviento Back To The Future Jugue
 
 - Con varios accesorios
 - Calendario de adviento de Back to The Future
-- Con 24 ventanas sorpresa para una escena de Back to The Future
 - Desarrolla la imaginación y la creatividad
+- Con 24 ventanas sorpresa para una escena de Back to The Future
 
 [Aquí!!!](https://www.amazon.es/dp/B08DQVBNNK/?tag=tolees-21)

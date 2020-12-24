@@ -25,15 +25,15 @@ Tienes [Bosch X-Line Titanio - Maletín de 103 unidades para taladrar y atornill
 
 🔎:
 
-- Brocas para piedra duraderas y reforzadas con metal duro
-- Brocas estándar para madera y brocas fresadoras planas con recubrimiento de nitruro de titanio, para una elevada velocidad de corte y orificios limpios y precisos en madera
-- Las brocas para metal con recubrimiento de nitruro de titanio se caracterizan por una vida útil larga y una elevada resistencia
-- Aviso de seguridad: utilizar la protección necesaria según la aplicación: perforar metal: gafas protectoras; perforar madera: gafas; protectoras y máscara contra el polvo; perforar piedra: gafas protectoras, máscara contra el polvo, orejeras y guantes
-- Sierras de corona para orificios en techos, paredes o muebles; son adecuadas para madera dura y blanda, madera contrachapada, tableros de virutas y de pladur
-- Perforar de forma rápida y limpia en los metales más diversos, plexiglás y plásticos duros (no utilizar para aluminio)
-- Nota: al perforar metal se recomienda la utilización de líquido de refrigeración como, por ejemplo, aceite para corte universal Bosch 2 607 001 409
 - Puntas de atornillar para todos los tipos de cabezas de tornillo convencionales
-- Brocas para metal con recubrimiento de nitruro de titanio
+- Perforar de forma rápida y limpia en los metales más diversos, plexiglás y plásticos duros (no utilizar para aluminio)
+- Brocas estándar para madera y brocas fresadoras planas con recubrimiento de nitruro de titanio, para una elevada velocidad de corte y orificios limpios y precisos en madera
 - Maletín robusto de plástico con buena disposición del contenido, se puede reequipar cuando sea necesario
+- Nota: al perforar metal se recomienda la utilización de líquido de refrigeración como, por ejemplo, aceite para corte universal Bosch 2 607 001 409
+- Aviso de seguridad: utilizar la protección necesaria según la aplicación: perforar metal: gafas protectoras; perforar madera: gafas; protectoras y máscara contra el polvo; perforar piedra: gafas protectoras, máscara contra el polvo, orejeras y guantes
+- Brocas para piedra duraderas y reforzadas con metal duro
+- Brocas para metal con recubrimiento de nitruro de titanio
+- Las brocas para metal con recubrimiento de nitruro de titanio se caracterizan por una vida útil larga y una elevada resistencia
+- Sierras de corona para orificios en techos, paredes o muebles; son adecuadas para madera dura y blanda, madera contrachapada, tableros de virutas y de pladur
 
 [Comprar!!!](https://www.amazon.es/dp/B000P4IQSO/?tag=tolees-21)

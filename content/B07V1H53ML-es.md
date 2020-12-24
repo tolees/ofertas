@@ -25,7 +25,7 @@ En este momento está [Jack & Jones Jjehill Knit Crew Neck Noos suéter  Marfil 
 
 🔎:
 
-- Knit Pullover with Structure
 - High quality cotton
+- Knit Pullover with Structure
 
 [Aquí!!!](https://www.amazon.es/dp/B07V1H53ML/?tag=tolees-21)

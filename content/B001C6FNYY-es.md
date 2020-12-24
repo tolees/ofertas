@@ -27,8 +27,8 @@ Está [Gonher-Pistola Policía con 8 Disparos  Multicolor  sin Talla  45 ](https
 
 - Fabricado en España
 - Juguete de metal de alta calidad
-- Conforme a normativa UE
-- Fulminantes no incluidos
 - Utiliza fulminantes de 8 disparos
+- Fulminantes no incluidos
+- Conforme a normativa UE
 
 [Ver la oferta!!](https://www.amazon.es/dp/B001C6FNYY/?tag=tolees-21)

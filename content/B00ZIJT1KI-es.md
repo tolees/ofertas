@@ -25,11 +25,11 @@ Está [Trust Gaming GXT 155 - Ratón para Gaming  PC   Color Gris](https://www.a
 
 ℹ️:
 
-- 11 botones programables en total
 - 5 botones adicionales para pulgar, ideales para juegos MOBA
-- Software avanzado para programar botones y macros
-- Peso ajustable, 8 pesos metálicos de 2 gramos cada uno
-- Cable trenzado de 1,9 m
 - Memoria integrada para almacenar un máximo de 5 perfiles de juego
+- Cable trenzado de 1,9 m
+- Software avanzado para programar botones y macros
+- 11 botones programables en total
+- Peso ajustable, 8 pesos metálicos de 2 gramos cada uno
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00ZIJT1KI/?tag=tolees-21)

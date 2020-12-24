@@ -25,9 +25,9 @@ Está [Goo Jit Zu - Súper Figura Héroe Goo Jit Zu  CO41012 ](https://www.amazo
 
 ℹ️:
 
-- Figura de 20 cm con luces y sonidos
 - Estirable, estrujable y súper divertida
 - Funciona con pilas 3 x lr44
+- Figura de 20 cm con luces y sonidos
 - Pilas incluidas
 - Incluye funcionalidad especial bola de fuego
 

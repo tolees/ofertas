@@ -25,11 +25,11 @@ Está [Smile - Funda Sleeve Neopreno para portátiles y Tablets de hasta 10 Pulg
 
 ℹ️:
 
-- Doble cremallera de cierre
-- Funda para portátiles o tablets de hasta 10 pulgadas
-- Logo de silicona
-- Bolsillo principal acolchado para proteger el dispositivo. Doble cremallera de cierre.
-- Dimensiones: 27,5 x 22,5 x 2,5 cm
 - Funda de Neopreno
+- Bolsillo principal acolchado para proteger el dispositivo. Doble cremallera de cierre.
+- Logo de silicona
+- Dimensiones: 27,5 x 22,5 x 2,5 cm
+- Funda para portátiles o tablets de hasta 10 pulgadas
+- Doble cremallera de cierre
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07YLZCRZ1/?tag=tolees-21)
