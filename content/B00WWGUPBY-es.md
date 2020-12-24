@@ -26,7 +26,7 @@ Tienes [Funda para cámara compacta Mod  Interior Estampado a Juego con la Tira]
 ℹ️:
 
 - Fácil de usar. Diseño único
-- Exterior resistente
 - MOD SMILE!! Los modernos del vintage! Vespas, sombreros, fiestas, corbatas, formas geométricas, tirantes… lo que se os ocurra para dar la nota ” de color :)” Antes muerto que sencillo
+- Exterior resistente
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00WWGUPBY/?tag=tolees-21)

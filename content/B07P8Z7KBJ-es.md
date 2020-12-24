@@ -25,10 +25,10 @@ Ahora mismo tienes [Pokémon: Espada](https://www.amazon.es/dp/B07P8Z7KBJ/?tag=t
 
 🔎:
 
-- Podréis controlar la cámara y así buscar objetos y Pokémon con mayor facilidad
 - Una emocionante aventura en los nuevos juegos de rol Pokémon Espada
+- Podréis controlar la cámara y así buscar objetos y Pokémon con mayor facilidad
+- Los Pokémon que aparecen cambian en función del sector donde os encontréis y el tiempo que haga
 - Descubrirás Pokémon Legendarios conocidos como Zacian y Zamazenta
 - Fenómeno Dinamax hace que los Pokémon adquieran un tamaño gigantesco y una fuerza increíble
-- Los Pokémon que aparecen cambian en función del sector donde os encontréis y el tiempo que haga
 
 [Visítala!!!](https://www.amazon.es/dp/B07P8Z7KBJ/?tag=tolees-21)

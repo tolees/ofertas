@@ -25,9 +25,9 @@ Tienes [L.O.L. Surprise Reloj de Pulsera 22020](https://www.amazon.es/dp/B07NVQ8
 
 🔎:
 
-- Reloj LCD
-- Bolígrafo colorido y diario con cerradura
 - En blíster de 26,3 x 2,5 x 26,3 cm
 - L.O.L. Surprise
+- Bolígrafo colorido y diario con cerradura
+- Reloj LCD
 
 [Comprar!!!](https://www.amazon.es/dp/B07NVQ8H4X/?tag=tolees-21)

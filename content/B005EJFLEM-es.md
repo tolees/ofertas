@@ -25,12 +25,12 @@ Tienes [Duracell Plus AAA - Pilas Alcalinas Paquete de 12  1.5 Voltios LR03 MN24
 
 ℹ️:
 
-- Fabricado en Bélgica, disponible en tamaños AA, AAA, C, D, 4.5V y 9V
-- ICONICO: Duracell y su famoso Conejito han ofrecido pilas de gran rendimiento por más de 50 años, en 1969, Duracell formó parte de la misión Apolo 11 y así ser la primera pila en llegar a la luna
 - SEGURIDAD: el cierre superior de nylon ayuda a evitar fugas y protege los dispositivos cotidianos favoritos de la familia, como linternas, mandos a distancia, relojes, juguetes
 - DURABILIDAD: la tecnología Duralock mantiene durante 10 años toda la energía de las pilas Duracell sin utilizar y en su embalaje, en condiciones normales de almacenamiento
 - Todos conocen la resistencia del Conejito Duracell
-- Rendimiento de longevidad comparado con la duración promedio mínima en el ensayo de cámara digital AAA de 2015 por la CEI, los resultados pueden variar según el dispositivo o su método de uso
+- Fabricado en Bélgica, disponible en tamaños AA, AAA, C, D, 4.5V y 9V
 - POTENCIA Y LONGEVIDAD: las pilas Duracell Plus AAA proporcionan energía confiable y duradera para alimentar todos sus dispositivos con hasta un 50% más de energía
+- ICONICO: Duracell y su famoso Conejito han ofrecido pilas de gran rendimiento por más de 50 años, en 1969, Duracell formó parte de la misión Apolo 11 y así ser la primera pila en llegar a la luna
+- Rendimiento de longevidad comparado con la duración promedio mínima en el ensayo de cámara digital AAA de 2015 por la CEI, los resultados pueden variar según el dispositivo o su método de uso
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B005EJFLEM/?tag=tolees-21)

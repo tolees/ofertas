@@ -25,9 +25,9 @@ Ahora mismo tienes [Nescafé DOLCE GUSTO Magnum ESPRESSO INTENSO - Cápsulas de 
 
 🔎:
 
-- Cápsulas inteligentes
-- Café gourmet seleccionando los orígenes de mayor calidad con el inconfundible sabor NESCAFÉ Dolce Gusto
-- Su sellado hermético mantiene el café fresco conservando todos sus aromas
 - Descubre nuestras más de 30 variedades de cápsulas de café, té, chocolate y especialidades de espresso con leche
+- Cápsulas inteligentes
+- Su sellado hermético mantiene el café fresco conservando todos sus aromas
+- Café gourmet seleccionando los orígenes de mayor calidad con el inconfundible sabor NESCAFÉ Dolce Gusto
 
 [Visítala!!!](https://www.amazon.es/dp/B07SLLTPHD/?tag=tolees-21)

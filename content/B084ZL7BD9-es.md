@@ -26,7 +26,7 @@ Tienes [Cool Maker - Máquina de Coser](https://www.amazon.es/dp/B084ZL7BD9/?tag
 🔎:
 
 - con telas y accesorios ya cortados para crear diseños increíbles!
-- ¡Crea tu propia moda con la Máquina de Coser de Cool Maker!
 - ¡Crea, cose y decora!
+- ¡Crea tu propia moda con la Máquina de Coser de Cool Maker!
 
 [Comprar!!!](https://www.amazon.es/dp/B084ZL7BD9/?tag=tolees-21)

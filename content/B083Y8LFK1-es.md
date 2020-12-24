@@ -25,9 +25,9 @@ Está [Jack & Jones Jorvictor Jacket Chaqueta  Blazer Azul Marino  L para Hombre
 
 ℹ️:
 
-- Designer: JACK&JONES
-- Artículo: 12167800 VICTOR JKT
 - Estación: Primavera/Verano
+- Artículo: 12167800 VICTOR JKT
+- Designer: JACK&JONES
 - Color: NAVY BLAZER
 
 [Ver la oferta!!](https://www.amazon.es/dp/B083Y8LFK1/?tag=tolees-21)

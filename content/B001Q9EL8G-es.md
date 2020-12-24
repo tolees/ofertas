@@ -25,9 +25,9 @@ En este momento está [Chicco - Radiocontrol Billy Bigwheels](https://www.amazon
 
 🔎:
 
-- Mando a distancia con una forma de " volante real"
-- Radiofrecuencia utilizada: 40.675 MHz
 - Pulse el botón y el sonido de la bocina, entonces todas las luces parpadean
+- Radiofrecuencia utilizada: 40.675 MHz
+- Mando a distancia con una forma de " volante real"
 - Cuando se acelera, los faros iluminan y el motor ruge
 - Vehículo de carretera con un control intuitivo
 
