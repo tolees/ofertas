@@ -25,10 +25,10 @@ Tienes [SEVERIN Hornillo de Inducción Doble  2 Placas de Inducción de Cerámic
 
 🔎:
 
-- Práctico y estable hornillo de inducción doble para usar en casa, en la oficina, de camping o de mudanza - Placas de inducción de cerámica
+- Regulación óptima de la temperatura: 2 Placas de inducción de 2x 22 cm Ø, 3.400 W aprox., Termostatos y luces pilotos independientes, Temporizador de 180 min con señal de aviso, Distribución uniforme del calor, Pérdida de energía mínima, Termostato regulable
 - Contenido: 1 Hornillo de Inducción Doble SEVERIN, DK 1031, Material: Plástico, Dimensiones (LxAnxAl): 59 x 35,5 x 4,8 cm, Peso: 4,4kg, Potencia: 3.400 W aprox. ,Color: Negro
 - Calidad alemana - Fácil de limpiar con agua caliente y un paño húmedo, Control de temperatura y enchufe, Pies de goma en la parte inferior
-- Regulación óptima de la temperatura: 2 Placas de inducción de 2x 22 cm Ø, 3.400 W aprox., Termostatos y luces pilotos independientes, Temporizador de 180 min con señal de aviso, Distribución uniforme del calor, Pérdida de energía mínima, Termostato regulable
 - Disfrute al instante – Calentamiento rápido de alimentos gracias a sus 2 grandes placas de inducción con autodetección de recipientes y reguladores de temperaturas independientes de 60 a 240°C o 10 niveles de potencia
+- Práctico y estable hornillo de inducción doble para usar en casa, en la oficina, de camping o de mudanza - Placas de inducción de cerámica
 
 [Comprar!!!](https://www.amazon.es/dp/B00ON9ZJCS/?tag=tolees-21)

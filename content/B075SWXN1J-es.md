@@ -25,9 +25,9 @@ Está [prorelax Conjunto de manicura-pedicura DELUXE - el secreto de unas manos 
 
 ℹ️:
 
-- Recomendado también para diabéticos – esterilizable - impide la producción de hongos y virus
-- Potente micromotor con marcha a la derecha/izquierda - iluminación de la superficie de aplicación mediante led - regulación continua de la velocidad de 2.000 - 5.400 rpm
 - 15 accesorios de alta calidad de acero quirúrgico revestidos de zafiro - protección contra el polvo para la recogida de restos de piel y polvo de uñas
+- Potente micromotor con marcha a la derecha/izquierda - iluminación de la superficie de aplicación mediante led - regulación continua de la velocidad de 2.000 - 5.400 rpm
 - Conjunto de manicura-pedicura de alta calidad - para recortar y dar forma a las uñas - para hombre y mujer - elimina durezas, callos, callosidades, hiperqueratosis
+- Recomendado también para diabéticos – esterilizable - impide la producción de hongos y virus
 
 [Ver la oferta!!](https://www.amazon.es/dp/B075SWXN1J/?tag=tolees-21)

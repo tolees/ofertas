@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Realme X50 5G - Smartphone 128GB  6GB RA con un 20.28 % de descuento'
-date: 2020-12-23 10:07:34
+date: 2020-12-25 18:36:41
 image: 'https://m.media-amazon.com/images/I/41aIBYXIRAL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08CR8ZBYP/?tag=tolees-21'
 descuento: '20.28'
-average: '295.0575609756098'
+average: '294.3106976744187'
 ---
 
 En este momento está [Realme X50 5G - Smartphone 128GB  6GB RAM  Dual Sim  Jungle Green](https://www.amazon.es/dp/B08CR8ZBYP/?tag=tolees-21) a 279.0 EUR (original: 349.99 EUR) (20.28 %  de descuento) en el siguiente enlace!
@@ -25,9 +25,9 @@ En este momento está [Realme X50 5G - Smartphone 128GB  6GB RAM  Dual Sim  Jung
 
 🔎:
 
-- Procesador: Snapdragon 865 2.84GHz
 - Pantalla: 6.44", 1080 x 2400 pixels
-- Cámara: Cuádruple, 64MP+12MP +8MP+2MP
 - Batería: 4200 mAh
+- Cámara: Cuádruple, 64MP+12MP +8MP+2MP
+- Procesador: Snapdragon 865 2.84GHz
 
 [Aquí!!!](https://www.amazon.es/dp/B08CR8ZBYP/?tag=tolees-21)

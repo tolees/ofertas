@@ -25,10 +25,10 @@ En este momento está [Under Armour UA Showdown Taper Pant  pantalones de chánd
 
 🔎:
 
-- Pantalón largo cómodo y ligero – Estos pantalones para correr están hechos con un tejido elástico y ligero que ofrece comodidad para deporte y ocio.
-- Elegante y funcional – Este pantalón cómodo combina estilo y funcionalidad y tiene 4 prácticos bolsillos para guardar objetos de forma segura.
-- Material y forma – Pantalones deportivos Under Armour UA Showdown Taper Pant, material – 58% de nailon/36% de poliéster/6% de elastano, forma – cónica
-- Fresca ropa de deporte – El tejido novedoso de estos pantalones transpirables absorbe el sudor y mantiene fresco al atleta mientras hace deporte.
 - Mucha movilidad – Esta prenda de ropa de fitness cuenta con una cintura elástica que proporciona mucha comodidad y una gran libertad de movimiento.
+- Material y forma – Pantalones deportivos Under Armour UA Showdown Taper Pant, material – 58% de nailon/36% de poliéster/6% de elastano, forma – cónica
+- Pantalón largo cómodo y ligero – Estos pantalones para correr están hechos con un tejido elástico y ligero que ofrece comodidad para deporte y ocio.
+- Fresca ropa de deporte – El tejido novedoso de estos pantalones transpirables absorbe el sudor y mantiene fresco al atleta mientras hace deporte.
+- Elegante y funcional – Este pantalón cómodo combina estilo y funcionalidad y tiene 4 prácticos bolsillos para guardar objetos de forma segura.
 
 [Aquí!!!](https://www.amazon.es/dp/B0728BNSBH/?tag=tolees-21)

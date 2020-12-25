@@ -26,8 +26,8 @@ Tienes [Huion 420 Negro 4-por-2.23 Pulgadas Osu! Tableta Gráfica para Dibujo co
 ℹ️:
 
 - Tableta de Alto Valor con Resolución 4000 LPI, Tasa de Respuesta de 200PPS y 2048 Niveles de Presión del Lápiz. Ofrece un gran rendimiento para la creación artística, los juegos, y la firma de documentos. Apto para usuarios diestros y zurdos.
-- Compatibilidad OS: compatible con Windows 10, Windows 8, Windows 7, Windows 8.1, y Mac 10.8.0 o superior. Para diferentes versiones de controladores, visite nuestro sitio web oficial para descargar.
 - Usos diversos: el lápiz óptico es un fantástico sustituto del ratón tradicional. Huion 420 es ideal para jugar, especialmente para Osu!, firmar, escribir a mano en Word, Excel y PDF, dibujar, hacer bocetos, pintar y más.
+- Compatibilidad OS: compatible con Windows 10, Windows 8, Windows 7, Windows 8.1, y Mac 10.8.0 o superior. Para diferentes versiones de controladores, visite nuestro sitio web oficial para descargar.
 - Lápiz con Pila P68: viene con un lápiz con pila que tiene dos botones personalizables. Pulsar le botón de encendido/apagado en la parte superior del lápiz antes de usarlo. Necesita una pila AAA (No incluida en el paquete).
 - Diseño compacto: Área Activa: 101.6mm X 56.64mm. Dimensiones 176.78mm X 111.76mm. Es fácil de guardar en tu bolso para llevar a cualquier lugar.
 

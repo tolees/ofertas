@@ -25,9 +25,9 @@ En este momento está [IBILI - Molde PANETTONE 500 GR](https://www.amazon.es/dp/
 
 🔎:
 
-- Para panettone de 500 g
 - Se pueden calentar hasta 200 °C
-- Incluye 5 unidades
 - Moldes desechables para panettone
+- Incluye 5 unidades
+- Para panettone de 500 g
 
 [Aquí!!!](https://www.amazon.es/dp/B01NA6PZZ3/?tag=tolees-21)
