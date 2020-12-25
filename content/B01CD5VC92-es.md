@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Melopero Raspberry Pi 3 Model B  CPU Qua al 25.05 % de descuento'
-date: 2020-12-19 15:37:08
+date: 2020-12-25 10:22:33
 image: 'https://m.media-amazon.com/images/I/51Vt9f26ryL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01CD5VC92/?tag=tolees-21'
 descuento: '25.05'
-average: '37.62909090909091'
+average: '37.6'
 ---
 
 Ahora mismo tienes [Melopero Raspberry Pi 3 Model B  CPU Quad Core 1 2GHz Broadcom BCM2837 64bit   1GB RAM  WiFi  Bluetooth BLE  plata](https://www.amazon.es/dp/B01CD5VC92/?tag=tolees-21) a 37.44 EUR (original: 49.95 EUR) (25.05 %  de descuento) en el siguiente enlace!
@@ -26,7 +26,7 @@ Ahora mismo tienes [Melopero Raspberry Pi 3 Model B  CPU Quad Core 1 2GHz Broadc
 🔎:
 
 - Tipo de procesador Core 2 Quad
-- Coprocesador gráfico Dual Core VideoCore IV
 - Dimensión de la pantalla 60 pulgadas
+- Coprocesador gráfico Dual Core VideoCore IV
 
 [Visítala!!!](https://www.amazon.es/dp/B01CD5VC92/?tag=tolees-21)

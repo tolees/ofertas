@@ -25,9 +25,9 @@ Tienes [Jack & Jones Jprnon Iron Shirt L/s Noos Camisa  Blanco  White Fit:Slim F
 
 🔎:
 
-- Buttons closure. Slim fit.
 - Model name: 12125792 JPRNON IRON SHIRT L/S NOOS NAVY BLAZER/SLIM FIT
 - White long-sleeve shirt.
 - Brand: Jack&Jones
+- Buttons closure. Slim fit.
 
 [Comprar!!!](https://www.amazon.es/dp/B071GZ6ZD4/?tag=tolees-21)

@@ -25,7 +25,7 @@ Está [G-STAR RAW 5621 Wrap Rock Falda  Azul  3D Raw Denim Processed 8973-9020  
 
 ℹ️:
 
-- Falda acampanada
 - Ya sea que elijas un estilo de negocios o un aspecto más informal en nuestra colección de faldas, encontrarás lo que estás buscando.
+- Falda acampanada
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07VSW5QQ6/?tag=tolees-21)

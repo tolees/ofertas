@@ -25,10 +25,10 @@ Ahora mismo tienes [Paladone - Reloj Despertador  único](https://www.amazon.es/
 
 🔎:
 
-- Despertador alimentado por usb en el diseño del clásico controlador playstation
 - Hecho de material sintético: se descomponen naturalmente en vertederos y reciclables
-- Pantalla lcd inversa con retroiluminación y sonido de alarma (cable usb incluido)
 - Producto oficial de playstation con licencia
+- Pantalla lcd inversa con retroiluminación y sonido de alarma (cable usb incluido)
+- Despertador alimentado por usb en el diseño del clásico controlador playstation
 - Controla la alarma mediante el botón d pad, x y circle
 
 [Visítala!!!](https://www.amazon.es/dp/B07MJHVZDQ/?tag=tolees-21)

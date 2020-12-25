@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi 14273 - Auriculares  color negro al 16.69 % de descuento'
-date: 2020-12-24 08:01:40
+date: 2020-12-25 10:28:21
 image: 'https://m.media-amazon.com/images/I/31PbKsRK72L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Está [Xiaomi 14273 - Auriculares  color negro](https://www.amazon.es/dp/B01N0Z1
 
 ℹ️:
 
+- Micrófono incorporado para llamadas manos libres
 - Auriculares de aleación de aluminio, anti-huella dactilar y duradero
 - Sistema de equilibrio de amortiguación de tercera generación para un sonido más claro y detallado
-- Micrófono incorporado para llamadas manos libres
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01N0Z1YKE/?tag=tolees-21)

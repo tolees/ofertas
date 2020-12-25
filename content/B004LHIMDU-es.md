@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BAUSCH + LOMB - SofLens® 59 - Lentes de  al 80.15 % de rebaja'
-date: 2020-12-24 05:00:23
+date: 2020-12-25 10:19:27
 image: 'https://m.media-amazon.com/images/I/3168zEKDlzL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004LHIMDU/?tag=tolees-21'
 descuento: '80.15'
-average: '9.332561983471072'
+average: '9.33642276422764'
 ---
 
 Tienes [BAUSCH + LOMB - SofLens® 59 - Lentes de contacto de reemplazo mensual - Pack de 6](https://www.amazon.es/dp/B004LHIMDU/?tag=tolees-21) con precio final de  9.57 EUR (original: 48.2 EUR) (80.15 %  de rebaja) aqui!
@@ -25,9 +25,9 @@ Tienes [BAUSCH + LOMB - SofLens® 59 - Lentes de contacto de reemplazo mensual -
 
 🔎:
 
-- Diseñadas para uso diario o prolongado de 1 a 7 días según las recomendaciones del profesional de la visión.
 - Cada vez que las use, deberá limpiarlas, aclararlas y desinfectarlas antes de volver a ponérselas.
-- Para miopía o hipermetropía.
 - Siga siempre las recomendaciones de uso y reemplazo proporcionadas por su profesional de la visión.
+- Diseñadas para uso diario o prolongado de 1 a 7 días según las recomendaciones del profesional de la visión.
+- Para miopía o hipermetropía.
 
 [Comprar!!!](https://www.amazon.es/dp/B004LHIMDU/?tag=tolees-21)
