@@ -25,10 +25,10 @@ En este momento está [adidas Duramo SL  Zapatillas Mujer  FTWBLA/FTWBLA/ROSSEN 
 
 🔎:
 
-- Cierre de cordones
 - Parte superior de malla
-- Diseño ligero
 - Zapatilla de running versátil
 - Horma clásica
+- Diseño ligero
+- Cierre de cordones
 
 [Aquí!!!](https://www.amazon.es/dp/B082T4NVV3/?tag=tolees-21)

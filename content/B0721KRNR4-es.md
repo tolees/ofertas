@@ -25,8 +25,8 @@ Tienes [Safta Glowlab Bolsa de deporte infantil  50cm  Multicolor  Rosa/ Azul ](
 
 🔎:
 
-- Bolsos de deporte
-- Material de alta calidad
 - Medidas: 48 x 33 x 21 cm
+- Material de alta calidad
+- Bolsos de deporte
 
 [Comprar!!!](https://www.amazon.es/dp/B0721KRNR4/?tag=tolees-21)
