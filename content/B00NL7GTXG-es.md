@@ -25,10 +25,10 @@ Ahora mismo tienes [Belkin soporte de smartphone para posavasos del coche  iPhon
 
 🔎:
 
-- Compatible con los smartphones de hasta 3,3 pulgadas de ancho
-- La base se despliega para adaptarse al soporte para portavasos de cualquier vehículo
-- Gira 360° y se inclina en 90 grados para colocar el dispositivo en plano
 - La abertura de la base del soporte evita que el cable de carga se enrolle
+- La base se despliega para adaptarse al soporte para portavasos de cualquier vehículo
 - Monta el teléfono en el coche con total seguridad
+- Compatible con los smartphones de hasta 3,3 pulgadas de ancho
+- Gira 360° y se inclina en 90 grados para colocar el dispositivo en plano
 
 [Visítala!!!](https://www.amazon.es/dp/B00NL7GTXG/?tag=tolees-21)

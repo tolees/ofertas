@@ -25,9 +25,9 @@ Está [IMC Toys - Juego de Troles  93546 ](https://www.amazon.es/dp/B07YN6WQWN/?
 
 ℹ️:
 
+- Primer juego de mesa basado en retos de los Auronplay & Wismichu
+- Encontrarás videos exclusivos del juego hechos por los Auronplay y Wismichu
 - Consigue tu Golden Ticket comprando el juego y comprueba el código para saber si eres uno de los tres afortunados que conocerán en persona a Wismichu y a Auronplay
 - Tendrás que usar tus Redes Sociales para hacer bromas a tus rivales
-- Encontrarás videos exclusivos del juego hechos por los Auronplay y Wismichu
-- Primer juego de mesa basado en retos de los Auronplay & Wismichu
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07YN6WQWN/?tag=tolees-21)

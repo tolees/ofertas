@@ -25,8 +25,8 @@ Ahora mismo tienes [Jack & Jones Jjebasic Knit V-Neck Noos suéter  Azul  Navy B
 
 🔎:
 
+- Jersey de manga larga de color azul marino. Cuello en pico. Detalle bordado.
 - Marca: Jack&Jones
 - Modelo: 12137194 JJEBASIC KNIT V-NECK NOOS NAVY BLAZER
-- Jersey de manga larga de color azul marino. Cuello en pico. Detalle bordado.
 
 [Visítala!!!](https://www.amazon.es/dp/B07C27SMPD/?tag=tolees-21)

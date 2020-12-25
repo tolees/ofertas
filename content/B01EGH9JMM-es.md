@@ -27,8 +27,8 @@ Tienes [Ana Maria Lajusticia - Triptófano con magnesio + VIT B6  reduce la ansi
 
 - El L-triptófano es un aminoácido esencial, lo que significa que nuestro organismo no puede producirlo por sí mismo y debe ser adoptado de manera exógena al organismo.
 - Participa en la formación de melatonina.
-- Los aminoácidos son imprescindibles para muchos de los procesos de nuestro metabolismo
 - El triptófano actúa como precursor de la serotonina, un neurotransmisor implicado en la regulación del estado anímico, el estrés, y el descanso.
+- Los aminoácidos son imprescindibles para muchos de los procesos de nuestro metabolismo
 - El magnesio contribuye a disminuir el cansancio y la fatiga.
 
 [Comprar!!!](https://www.amazon.es/dp/B01EGH9JMM/?tag=tolees-21)
