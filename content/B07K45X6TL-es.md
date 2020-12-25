@@ -25,8 +25,8 @@ Está [Adidas Continental 80 W  Zapatillas de Deporte para Mujer  Multicolor  Ft
 
 ℹ️:
 
+- Textíl, Textíl, Piel , cuero, caucho, Cordones, Zapatillas bajas
 - Shoe Width : medium
 - 1
-- Textíl, Textíl, Piel , cuero, caucho, Cordones, Zapatillas bajas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07K45X6TL/?tag=tolees-21)

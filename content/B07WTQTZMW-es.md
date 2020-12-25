@@ -25,10 +25,10 @@ Ahora mismo tienes [Hugo BOSS Reloj para de Cuarzo con Correa en Cuero-Piel de B
 
 🔎:
 
-- Movimiento cronógrafo / Función de fecha
-- Grosor de la caja de 12,3 mm, diámetro de la caja: 43 mm
 - Esfera negro
-- 5 ATM de resistencia al agua
+- Movimiento cronógrafo / Función de fecha
 - Correa de piel negra
+- 5 ATM de resistencia al agua
+- Grosor de la caja de 12,3 mm, diámetro de la caja: 43 mm
 
 [Visítala!!!](https://www.amazon.es/dp/B07WTQTZMW/?tag=tolees-21)

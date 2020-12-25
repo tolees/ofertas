@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 48.08 % en Tous EDP 90ML'
-date: 2020-12-24 01:57:50
+date: 2020-12-25 02:09:06
 image: 'https://m.media-amazon.com/images/I/41ARxqqv8xL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000VON5JS/?tag=tolees-21'
 descuento: '48.08'
-average: '37.22988764044942'
+average: '37.267472527472506'
 ---
 
 Tienes [Tous EDP 90ML](https://www.amazon.es/dp/B000VON5JS/?tag=tolees-21) con un 48.08 % de descuento con precio de oferta de 38.94 EUR (original: 75.0 EUR) en el siguiente enlace!

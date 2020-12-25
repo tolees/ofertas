@@ -25,8 +25,8 @@ En este momento está [Don Limpio Profesional Limpiador Líquido Multiusos Limó
 
 🔎:
 
-- Deja un aroma fresco y agradable
 - Brillo duradero
+- Deja un aroma fresco y agradable
 - No necesita aclarado cuando se usa diluido
 - Limpieza profesional que disuelve la grasa y la suciedad
 
