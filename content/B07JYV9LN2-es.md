@@ -25,12 +25,12 @@ Ahora mismo tienes [Energy Sistem Party 3 Go Altavoz portátil con Ruedas Blueto
 
 🔎:
 
-- Energy music power 100: maximiza los graves y sube el volumen con sólo pulsar un botón en el momento que tú decidas
-- Sistema 2.1 con 40 w de potencía y luces led que animarán todas tus fiestas
 - La batería integrada de larga duración y el formato trolley te permitirá llevar la fiesta a cualquier lugar
-- Domina el sonido: con el ecualizador analógico de 5 bandas podrás ajustar como suena tu música con un control sin precedentes
-- Transfiere tu música sin cables, de forma eficiente y hasta 10 metros de distancia gracias a la tecnología bluetooth 4.2
 - Sonido sin ataduras
 - Entradas para micrófono y guitarra, para poder conectar tus instrumentos musicales
+- Transfiere tu música sin cables, de forma eficiente y hasta 10 metros de distancia gracias a la tecnología bluetooth 4.2
+- Domina el sonido: con el ecualizador analógico de 5 bandas podrás ajustar como suena tu música con un control sin precedentes
+- Sistema 2.1 con 40 w de potencía y luces led que animarán todas tus fiestas
+- Energy music power 100: maximiza los graves y sube el volumen con sólo pulsar un botón en el momento que tú decidas
 
 [Visítala!!!](https://www.amazon.es/dp/B07JYV9LN2/?tag=tolees-21)
