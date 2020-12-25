@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Canal Toys Amazon ES1 SGD 004 Magic Jar  al 61.09 % de descuento'
-date: 2020-12-22 08:11:38
+date: 2020-12-25 13:45:00
 image: 'https://m.media-amazon.com/images/I/51ExU0f29pL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DPH2YCC/?tag=tolees-21'
 descuento: '61.09'
-average: '17.786'
+average: '17.088333333333335'
 ---
 
 Ahora mismo tienes [Canal Toys Amazon ES1 SGD 004 Magic Jar  Multicolor   color/modelo surtido](https://www.amazon.es/dp/B07DPH2YCC/?tag=tolees-21) a 13.6 EUR (original: 34.95 EUR) (61.09 %  de descuento) en el siguiente enlace!

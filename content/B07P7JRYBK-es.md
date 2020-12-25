@@ -25,9 +25,9 @@ Ahora mismo tienes [Sala Hospital Infantil 70192](https://www.amazon.es/dp/B07P7
 
 🔎:
 
-- Incluye tiras reutilizables y vendajes
-- Juego educativo para los niños
 - Con pegatinas para personalizar las paredes
+- Juego educativo para los niños
+- Incluye tiras reutilizables y vendajes
 - Desarrolla la imaginación y la creatividad
 
 [Visítala!!!](https://www.amazon.es/dp/B07P7JRYBK/?tag=tolees-21)

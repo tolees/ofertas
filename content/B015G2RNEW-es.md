@@ -26,9 +26,9 @@ Ahora mismo tienes [legrand 191501 Interruptor Conmutador Estanco de Superficie 
 🔎:
 
 - PULSADOR PARED: Medidas: 8 x 7,8 x 5,7 cm. Peso: 132 gr.
-- INTERRUPTOR ELECTRICO: Datos eléctricos: 6A, 230V.
 - "INTERRUPTOR EMPOTRABLE: La instalación en superficie. Ideal para instalación en exteriores, sótanos, garajes. "
 - PULSADOR: Interruptor pulsador de la gama PLEXO. Color Gris.
+- INTERRUPTOR ELECTRICO: Datos eléctricos: 6A, 230V.
 - SEGURIDAD: Protección contra goteo de agua. (IP55)
 
 [Visítala!!!](https://www.amazon.es/dp/B015G2RNEW/?tag=tolees-21)

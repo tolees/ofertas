@@ -25,10 +25,10 @@ Tienes [ERA Edad Media - ¡Bienvenidos a la España Medieval! - Juego de Mesa en
 
 ℹ️:
 
-- Juego de 1 a 4 Jugadores
-- Recomendado a Partir de 8 Años de Edad
 - Con una duración de 30-45 Minutos por partida
 - Juego de Mesa en Español
+- Juego de 1 a 4 Jugadores
+- Recomendado a Partir de 8 Años de Edad
 - Contiene: 130 miniaturas, 36 dados, 4 tableros de jugador, 25 clavijas, 5 marcadores, 1 bloc de hojas de puntuación, 4 pantallas y 1 reglamento.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08H2L25WH/?tag=tolees-21)
