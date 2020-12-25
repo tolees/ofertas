@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko- Pop 18" Harry Potter S10 Figura C al 30.46 % de descuento'
-date: 2020-12-24 08:49:52
+date: 2020-12-25 09:10:13
 image: 'https://m.media-amazon.com/images/I/41yDRgWenEL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B084R4WYR6/?tag=tolees-21'
 descuento: '30.46'
-average: '93.1911111111111'
+average: '92.68363636363635'
 ---
 
 Está [Funko- Pop 18" Harry Potter S10 Figura Coleccionable  Multicolor  48054 ](https://www.amazon.es/dp/B084R4WYR6/?tag=tolees-21) con 30.46 de descuento por 90.4 EUR (original: 129.99 EUR) en el siguiente enlace!
@@ -25,9 +25,9 @@ Está [Funko- Pop 18" Harry Potter S10 Figura Coleccionable  Multicolor  48054 ]
 
 ℹ️:
 
+- Funko pop el juguete del año 2018
+- Descúbre otras figuras de la colección harry potter y colecciónalas todas
 - De la colección harry potter, 18" harry potter como figura de vinilo pop de funko
 - La figura mide 45 cm y se envía en una caja ilustrada con ventana
-- Descúbre otras figuras de la colección harry potter y colecciónalas todas
-- Funko pop el juguete del año 2018
 
 [Ver la oferta!!](https://www.amazon.es/dp/B084R4WYR6/?tag=tolees-21)

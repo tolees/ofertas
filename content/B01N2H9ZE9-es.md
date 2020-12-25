@@ -25,11 +25,11 @@ Tienes [Don Luciano Blue Moscato - Charmat Moscato Azul - Caja de 6 Botellas x 7
 
 🔎:
 
-- Consumo: Para disfrutar de sus cualidades óptimas, recomendamos servir frío, entre 5°C y 7°C
-- Tipo de uva: Elaborado a base de uvas Verdejo mediante el método charmat; dando como resultado un vino espumoso
-- Maridaje: Oportuno para celebraciones, fiestas, postres y aperitivos
-- Aroma: Aromas intensos y atractivos de albaricoque, melón y pétalos de rosa
 - Apariencia: Atractivo color azul, brillante y con finas burbujas que se desprenden lentamente
 - Gusto: Fresco, ligeramente dulce, con rico sabor a lichis
+- Aroma: Aromas intensos y atractivos de albaricoque, melón y pétalos de rosa
+- Maridaje: Oportuno para celebraciones, fiestas, postres y aperitivos
+- Consumo: Para disfrutar de sus cualidades óptimas, recomendamos servir frío, entre 5°C y 7°C
+- Tipo de uva: Elaborado a base de uvas Verdejo mediante el método charmat; dando como resultado un vino espumoso
 
 [Comprar!!!](https://www.amazon.es/dp/B01N2H9ZE9/?tag=tolees-21)

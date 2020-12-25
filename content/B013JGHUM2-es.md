@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony ICF-P26 - Radio portátil  con altav al 30.03 % de descuento'
-date: 2020-12-24 07:57:55
+date: 2020-12-25 08:21:57
 image: 'https://m.media-amazon.com/images/I/4129+n8I17L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B013JGHUM2/?tag=tolees-21'
 descuento: '30.03'
-average: '22.251071428571436'
+average: '22.207586206896558'
 ---
 
 Ahora mismo tienes [Sony ICF-P26 - Radio portátil  con altavoz y sintonizador AM/FM   negro](https://www.amazon.es/dp/B013JGHUM2/?tag=tolees-21) a 20.99 EUR (original: 30.0 EUR) (30.03 %  de descuento) en el siguiente enlace!
@@ -25,10 +25,10 @@ Ahora mismo tienes [Sony ICF-P26 - Radio portátil  con altavoz y sintonizador A
 
 🔎:
 
-- Correa de mano integrada para una mayor portabilidad
+- Funciona con 2 pilas AA
+- Toma de auriculares dedicada para una escucha personal
 - Sintonizador de radio AM/FM integrado
 - Indicadores de estado de carga y sintonización LED
-- Toma de auriculares dedicada para una escucha personal
-- Funciona con 2 pilas AA
+- Correa de mano integrada para una mayor portabilidad
 
 [Visítala!!!](https://www.amazon.es/dp/B013JGHUM2/?tag=tolees-21)

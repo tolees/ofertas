@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'bollé Scarlett Máscaras  Unisex adulto   al 32.17 % de rebaja'
-date: 2020-12-24 02:51:05
+date: 2020-12-25 08:40:40
 image: 'https://m.media-amazon.com/images/I/31OaBDoTNvL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FF354PY/?tag=tolees-21'
 descuento: '32.17'
-average: '55.33142857142857'
+average: '53.43555555555555'
 ---
 
 Tienes [bollé Scarlett Máscaras  Unisex adulto  Blanco Mate & Rosa  S/M](https://www.amazon.es/dp/B07FF354PY/?tag=tolees-21) con precio final de  46.8 EUR (original: 69.0 EUR) (32.17 %  de rebaja) aqui!
@@ -25,8 +25,8 @@ Tienes [bollé Scarlett Máscaras  Unisex adulto  Blanco Mate & Rosa  S/M](https
 
 🔎:
 
+- Lente: Vermillon Gun
 - Categoría: 2
 - Lente cilíndrica
-- Lente: Vermillon Gun
 
 [Comprar!!!](https://www.amazon.es/dp/B07FF354PY/?tag=tolees-21)

@@ -25,10 +25,10 @@ Tienes [Vermouth Padró & Co Blanco Reserva - 3 botellas de 75 cl  Total: 2250 m
 
 ℹ️:
 
-- Graduación: 18% vol.
-- Ideal para combinar con quesos curados y aperitivos. Servir frío.
+- Ideal acompañado con una rodaja de limón.
 - Intenso y agradable, con recuerdos a hierbas dulces. Elegante, untuoso, fino y redondo. Leve dulzor y amargura.
 - Origen: Zona/Región vinícola Tarragona
-- Ideal acompañado con una rodaja de limón.
+- Ideal para combinar con quesos curados y aperitivos. Servir frío.
+- Graduación: 18% vol.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BY5HLKT/?tag=tolees-21)

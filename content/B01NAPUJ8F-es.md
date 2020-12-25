@@ -25,13 +25,13 @@ En este momento está [Lacoste 2010901 - Reloj de pulsera para hombre](https://w
 
 🔎:
 
-- Visualización análogico clásico
-- Forma del producto: redondo
-- Símbolo de Lacoste (cocodrilo) en la posición de las 3
 - Esfera en plata con detalles en azul
+- Símbolo de Lacoste (cocodrilo) en la posición de las 3
+- Cierre: hebilla
+- Visualización análogico clásico
 - Correa de malla de acero inoxidable
 - Caja de acero inoxidable
-- Cierre: hebilla
 - Diseño con 2 manecillas
+- Forma del producto: redondo
 
 [Aquí!!!](https://www.amazon.es/dp/B01NAPUJ8F/?tag=tolees-21)

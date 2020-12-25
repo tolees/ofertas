@@ -25,10 +25,10 @@ Tienes [Wonder Cakes by Silikomart POP02 Molde de Silicona para Hacer piruletas 
 
 ℹ️:
 
-- compatibilidad al microondas
 - compatibilidad al lavavajillas
-- Fabricado en Italia
 - recetas dentro del packaging
+- Fabricado en Italia
+- compatibilidad al microondas
 - compatibilidad al horno
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00BPVZMOM/?tag=tolees-21)

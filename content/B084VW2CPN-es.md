@@ -26,9 +26,9 @@ Ahora mismo tienes [Velites Lija de Callos para Manos y Pies. Elimina Piel Muert
 🔎:
 
 - SUAVIZA Y REFUERZA LOS CALLOS - Sistema de larga duración para mantenimiento o eliminación de callos. Super sencillo de guardar y de utilizar. el Mango permite que llegues a cualquier zona con facilidad y elimines toda la piel muerta en manos y pies. Para áreas con un nivel de piel muerta mayor puedes adquirir la lija Rocky Stone aparte.
-- LIJAS DE LARGA DURACIÓN Y MANGO DE ALUMINIO - El mango está hecho con aluminio de aplicaciones aeronáuticas para ofrecer una gran resistencia a golpes y lo puedas llevar a cualquier parte contigo. Simplemente guarda la lija en su interior y tíralo en el bolso para tenerlo contigo después de entrenar.
-- SISTEMA INTERCAMBIABLE DE LIJAS - Una vez tengas el mango en el futuro solo tendrás que cambiar las lijas de vez en cuando. Simplemente cambia la lija una vez quede inservible por el uso. No tendrás que comprar todo el sistema de nuevo como con otras alternativas.
 - GARANTÍA 100% Y ACCESO GRATUITO A LA VELITES ACADEMY- La lija Velites Stone incluye acceso gratuito a la Velites academy donde tienes programas de entrenamiento, cursos Gratuitos de gimnásticos, alimentación o comba. En Velites nunca te dejaremos desatendido y devolvemos el 100% de tu compra si no estás satisfecho.
 - ADIÓS A LOS ENTRENOS CON DOLOR - Olvídate de abrirte las manos durante los WOD debido a la acumulación de piel. Lo mismo aplica a los callos de correr o en escalada. El mantenimiento correcto de los callos marca la diferencia entre parar de entrenar por heridas o no.
+- SISTEMA INTERCAMBIABLE DE LIJAS - Una vez tengas el mango en el futuro solo tendrás que cambiar las lijas de vez en cuando. Simplemente cambia la lija una vez quede inservible por el uso. No tendrás que comprar todo el sistema de nuevo como con otras alternativas.
+- LIJAS DE LARGA DURACIÓN Y MANGO DE ALUMINIO - El mango está hecho con aluminio de aplicaciones aeronáuticas para ofrecer una gran resistencia a golpes y lo puedas llevar a cualquier parte contigo. Simplemente guarda la lija en su interior y tíralo en el bolso para tenerlo contigo después de entrenar.
 
 [Visítala!!!](https://www.amazon.es/dp/B084VW2CPN/?tag=tolees-21)
