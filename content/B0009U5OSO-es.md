@@ -26,9 +26,9 @@ Tienes [Marcato MC002057 - Máquina para hacer pasta  color plateado](https://ww
 ℹ️:
 
 - Permite obtener 3 formatos de pasta: lasañas (anchura 150 mm), fettuccine (6 mm) y tagliolini (1,5 mm)
-- Regulador con 10 posiciones para varios grosores de masa en hoja: de 4,8 mm hasta 0,6 mm
-- Made in Italia: producto enteramente realizado en Italia por marcato
 - Estructura de acero cromado con rodillos de aleación de aluminio galvanizado para alimentos, para proteger la salud del consumidor
+- Made in Italia: producto enteramente realizado en Italia por marcato
+- Regulador con 10 posiciones para varios grosores de masa en hoja: de 4,8 mm hasta 0,6 mm
 - Accesorio intercambiable para el corte de la pasta y conexión rápida para motor (opcional)
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0009U5OSO/?tag=tolees-21)

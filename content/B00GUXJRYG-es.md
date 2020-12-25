@@ -26,7 +26,7 @@ Tienes [Columbia Woodburn II  Zapatillas Hombre  Marrón  Cordovan Cinnamon   42
 ℹ️:
 
 - Uses: Hiking
-- Imported
 - Omni-tech waterproof breathable seam-sealed membrane bootie construction
+- Imported
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00GUXJRYG/?tag=tolees-21)

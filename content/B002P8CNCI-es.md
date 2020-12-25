@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bahco 9029 BH9029  170mm con un 40.24 % de descuento'
-date: 2020-12-23 16:02:35
+date: 2020-12-25 03:46:00
 image: 'https://m.media-amazon.com/images/I/311KXcJgv8L._SL200_.jpg'
 comments: true
 category: ofertas

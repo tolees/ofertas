@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Pop! Figura De Vinil Disney: Holid al 18.56 % de rebaja'
-date: 2020-12-22 20:07:41
+date: 2020-12-25 03:02:33
 image: 'https://m.media-amazon.com/images/I/31hq3nNg92L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QJ29QDB/?tag=tolees-21'
 descuento: '18.56'
-average: '9.702499999999999'
+average: '10.357812499999998'
 ---
 
 Tienes [Funko Pop! Figura De Vinil Disney: Holiday - Minnie  Multicolor  Estándar](https://www.amazon.es/dp/B07QJ29QDB/?tag=tolees-21) con precio final de  12.99 EUR (original: 15.95 EUR) (18.56 %  de rebaja) aqui!
@@ -26,8 +26,8 @@ Tienes [Funko Pop! Figura De Vinil Disney: Holiday - Minnie  Multicolor  Estánd
 🔎:
 
 - Figura de colección de la marca Funko
+- El producto se envía en una caja ilustrada con ventana
 - Recomendado para niños a partir de 3 años
 - El artículo es adecuado para todos los fanáticos de Minnie Mouse
-- El producto se envía en una caja ilustrada con ventana
 
 [Comprar!!!](https://www.amazon.es/dp/B07QJ29QDB/?tag=tolees-21)

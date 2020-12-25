@@ -25,13 +25,13 @@ En este momento está [Geox U New Damon B  Mocasines para Hombre  Marrón  DK BR
 
 🔎:
 
-- Cierre: Sin cordones
-- Material de la suela: Caucho
-- Material exterior: Cuero
 - Tipo de tacón: Plano
-- Anchura del zapato: Normal
-- Revestimiento: Cuero
 - Altura del tacón: 3.0 centímetros
+- Material exterior: Cuero
+- Cierre: Sin cordones
+- Revestimiento: Cuero
+- Material de la suela: Caucho
+- Anchura del zapato: Normal
 - Tipo de talla:Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
 
 [Aquí!!!](https://www.amazon.es/dp/B01GWX233K/?tag=tolees-21)
