@@ -25,10 +25,10 @@ Tienes [KidKraft- Amelia Casa de muñecas de madera con muebles y accesorios inc
 
 ℹ️:
 
-- Estructura de resistente madera está pensada para largas horas de juego
 - Distintas posibilidades de jugar con muñecas de 30 cm de alto
 - Moderna cocina rosa y negra
-- Hecha de madera resistente de alta calidad
 - Fácil de montar
+- Estructura de resistente madera está pensada para largas horas de juego
+- Hecha de madera resistente de alta calidad
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B004CT5GOU/?tag=tolees-21)

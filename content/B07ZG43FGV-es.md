@@ -25,9 +25,9 @@ En este momento está [Don Limpio Profesional Limpiador Líquido Multiusos Limó
 
 🔎:
 
-- No necesita aclarado cuando se usa diluido
-- Limpieza profesional que disuelve la grasa y la suciedad
 - Deja un aroma fresco y agradable
 - Brillo duradero
+- No necesita aclarado cuando se usa diluido
+- Limpieza profesional que disuelve la grasa y la suciedad
 
 [Aquí!!!](https://www.amazon.es/dp/B07ZG43FGV/?tag=tolees-21)
