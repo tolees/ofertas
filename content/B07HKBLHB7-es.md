@@ -25,10 +25,10 @@ Ahora mismo tienes [2 Piezas Cuenco de Matcha de Cerámica de Té Adecuado para 
 
 🔎:
 
-- Bueno para tomar café o té, comer, servir sopa o postre, adecuado para el hogar, hotel, restaurante, cafetería, etc.
-- El tazón de matcha se puede apreciar como una taza de té para beber té verde matcha todos los días, o realizar en la ceremonia japonesa del té
-- Un regalo especial perfecto para amigos, familias o colegas
 - Este cuenco de té está hecho de cerámica, durable y respetuoso del medio ambiente
+- Bueno para tomar café o té, comer, servir sopa o postre, adecuado para el hogar, hotel, restaurante, cafetería, etc.
+- Un regalo especial perfecto para amigos, familias o colegas
+- El tazón de matcha se puede apreciar como una taza de té para beber té verde matcha todos los días, o realizar en la ceremonia japonesa del té
 - Patrón distintivo de estilo chino tradicional, único y exquisito, creando una sensación nostálgica, añadiendo un atractivo artístico duradero a su hogar
 
 [Visítala!!!](https://www.amazon.es/dp/B07HKBLHB7/?tag=tolees-21)

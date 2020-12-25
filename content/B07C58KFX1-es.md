@@ -25,10 +25,10 @@ Está [Western Digital WDBKVX0010PSL-WESN My Passport Portable SSD 1TB  Negro / 
 
 ℹ️:
 
+- Transferencias de archivos ultrarrápidas, con velocidades que alcanzan hasta los 540 MB/s
+- Copia de seguridad automática
 - Protección por contraseñas con cifrado de hardware
 - Disco reconocido fabricado con la confiabilidad WD
 - Listos para USB tipo C y USB 3.1, 2ª gen; compatible con USB 3.0, USB 2.0 y USB-A
-- Transferencias de archivos ultrarrápidas, con velocidades que alcanzan hasta los 540 MB/s
-- Copia de seguridad automática
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07C58KFX1/?tag=tolees-21)

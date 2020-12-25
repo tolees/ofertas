@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.77 % en Falomir Atalaya  Juego de Mesa  Clásicos'
-date: 2020-12-24 13:39:45
+date: 2020-12-25 14:08:22
 image: 'https://m.media-amazon.com/images/I/41Dc0D3g8zL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,8 +27,8 @@ Tienes [Falomir Atalaya  Juego de Mesa  Clásicos  Multicolor  1 ](https://www.a
 
 - Controla bien tu pulso si no quieres tirar la torre
 - Un juego ideal para trabajar la psicomotricidad fina
-- Número de jugadores: 2+
 - Tira el dado para saber cuantas piezas tienes que coger
 - Fijate bien en las piezas que coges o la torre caerá
+- Número de jugadores: 2+
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07P5ZJZPP/?tag=tolees-21)

@@ -25,10 +25,10 @@ Ahora mismo tienes [Proyector  APEMAN Full HD 1920x1080P Nativo  Proyector 4K So
 
 🔎:
 
-- Diseño antipolvo y bajo nivel de ruido: el diseño de componentes ópticos completamente sellados mantiene el polvo fuera para garantizar que no haya puntos negros en la imagen proyectada. Es normal que el proyector produzca algo de ruido porque es causado por la alta velocidad de rotación del ventilador cuando está funcionando. Sin embargo, el proyector LC650 tiene menos ruido que otros.
+- Garantía y servicio: proporcionamos servicio al cliente profesional y soporte técnico de por vida. Si tiene alguna pregunta sobre el control remoto u otras cosas, comuníquese con nuestro servicio posventa en el manual del usuario de inmediato y obtendrá una solución rápida en el menor tiempo posible.
 - Proyector Full HD Native 1080P compatible con 4k: El proyector APEMAN LC650 tiene una resolución nativa de 1920x1080P, contraste de 5000: 1 y una relación de aspecto de 16: 9/4: 3. Las fotos o los videos se pueden mostrar claramente y los detalles de la proyección son más claros que 720P.
 - Cine en casa con pantalla de 300 ”: el proyector LC650 tiene una pantalla de visualización máxima de 300” y tecnología LED de baja luz estroboscópica que puede proteger sus ojos. Está equipado con dos altavoces estéreo, para que pueda disfrutar de un sonido envolvente con calidad cinematográfica.
-- Garantía y servicio: proporcionamos servicio al cliente profesional y soporte técnico de por vida. Si tiene alguna pregunta sobre el control remoto u otras cosas, comuníquese con nuestro servicio posventa en el manual del usuario de inmediato y obtendrá una solución rápida en el menor tiempo posible.
 - Corrección trapezoidal digital y conexión múltiple: este proyector Full HD 1080P está equipado con una corrección trapezoidal horizontal y vertical digital avanzada de ± 25 °. Siempre puedes obtener una imagen rectangular. Está equipado con interfaces de audio HDMI, USB * 2, AV y 3,5 mm; Es compatible con iPhone/Android/TV box/Firestick/Xbox/PC.
+- Diseño antipolvo y bajo nivel de ruido: el diseño de componentes ópticos completamente sellados mantiene el polvo fuera para garantizar que no haya puntos negros en la imagen proyectada. Es normal que el proyector produzca algo de ruido porque es causado por la alta velocidad de rotación del ventilador cuando está funcionando. Sin embargo, el proyector LC650 tiene menos ruido que otros.
 
 [Visítala!!!](https://www.amazon.es/dp/B082TTMYRT/?tag=tolees-21)

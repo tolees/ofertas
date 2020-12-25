@@ -26,9 +26,9 @@ En este momento está [Brother ADS-1200 - Escáner departamental compacto y pote
 🔎:
 
 - Alta velocidad: hasta 25 hojas / 50 paginas por minuto
-- Escaneado a PDF, fichero, email y USB
 - Incluye el software Nuance Power PDF
-- Ranura para tarjetas plásticas de identificación
 - Portable mediante la alimentación eléctrica USB 3.0 ADF para 20 hojas
+- Escaneado a PDF, fichero, email y USB
+- Ranura para tarjetas plásticas de identificación
 
 [Aquí!!!](https://www.amazon.es/dp/B07H3CTHF3/?tag=tolees-21)

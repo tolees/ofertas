@@ -25,10 +25,10 @@ Tienes [Orbegozo MI 2115 Microondas con 20 litros de capacidad  6 niveles de fun
 
 🔎:
 
-- Tiene una capacidad de 20 litros y unas dimensiones externas de 44.6 x 24.3 x 35.3 cm con un peso bruto de 10.9 kg
 - Moderno, elegante y sencillo diseño en color blanco con mandos giratorios y tirador en color blanco
 - Incluye un programa de descongelación, además de otras funciones para fácil itar el uso del aparato tales como: función temporizador hasta 30 minutos con señal de fin de cocción o puerta con cierre de seguridad
-- Posee un interior esmaltado que fácil ita su limpieza, cuidado y mantenimiento
 - Microondas orbegozo con seis niveles de funcionamiento repartidos en 700 w que garantizan una óptima cocción de los alimentos
+- Posee un interior esmaltado que fácil ita su limpieza, cuidado y mantenimiento
+- Tiene una capacidad de 20 litros y unas dimensiones externas de 44.6 x 24.3 x 35.3 cm con un peso bruto de 10.9 kg
 
 [Comprar!!!](https://www.amazon.es/dp/B082WXLF59/?tag=tolees-21)

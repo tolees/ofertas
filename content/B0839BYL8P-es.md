@@ -25,10 +25,10 @@ En este momento está [Casio Reloj para Hombre de Cuarzo con Correa en plástico
 
 🔎:
 
+- Material de la esfera: Plástico
+- Pulsera: Plástico Negro
+- Color de la esfera: Amarillo
 - Cierre: Hebilla
 - Material de la caja: Plástico
-- Color de la esfera: Amarillo
-- Pulsera: Plástico Negro
-- Material de la esfera: Plástico
 
 [Aquí!!!](https://www.amazon.es/dp/B0839BYL8P/?tag=tolees-21)

@@ -26,8 +26,8 @@ Ahora mismo tienes [Ya! 21426 Pastillas Enciendefuegos](https://www.amazon.es/dp
 🔎:
 
 - La exposición repetida puede provocar sequedad o formación de grietas en la piel
+- Óptima llama y duración
 - Con 1 o 2 pastillas podrás encender tu chimenea, estufa o barbacoa
 - 40 pastillas instantáneas
-- Óptima llama y duración
 
 [Visítala!!!](https://www.amazon.es/dp/B06XD87XJD/?tag=tolees-21)

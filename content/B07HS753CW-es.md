@@ -27,7 +27,7 @@ En este momento está [SHARP DR-450 BK  Radio Despertador con sintonizador Dab  
 
 - Gracias al reloj con función despertador, también podrá despertarse con su emisora favorita y así comenzar el día de buen humor; la pantalla LCD con función de atenuación también muestra la hora, la fecha y la emisora actual
 - Sharp dr-450 es una radio digital moderna con un diseño retro atemporal; el dispositivo le ofrece calidad, variedad y excelente recepción; gracias a la carcasa de madera de alta calidad y al altavoz de 6 vatios, el versátil radio despertador dr-450 tiene un sonido nítido y de gran calidad
-- Escuche sus emisoras favoritas en la radio o reproduzca sus listas de reproducción de spotify, prime music o deezer cómodamente a través de smartphone/teléfonos móviles, tablet, pc u otros dispositivos con bluetooth; el dispositivo también está equ ipad o con antena telescópica para una mejor recepción
 - Principales ventajas en un vistazo; radio fm; radio digital dab y dab; transmisión inalámbrica de música a través de bluetooth 4.2; memoria para 60 emisoras; reloj con función de despertador; antena telescópica; diseño elegante en madera con panel frontal de acero inoxidable; pantalla lcd con regulador de intensidad
+- Escuche sus emisoras favoritas en la radio o reproduzca sus listas de reproducción de spotify, prime music o deezer cómodamente a través de smartphone/teléfonos móviles, tablet, pc u otros dispositivos con bluetooth; el dispositivo también está equ ipad o con antena telescópica para una mejor recepción
 
 [Aquí!!!](https://www.amazon.es/dp/B07HS753CW/?tag=tolees-21)
