@@ -25,10 +25,10 @@ En este momento está [ASUS RP-AC55- Repetidor Extensor de Red WiFi AC1200 Doble
 
 🔎:
 
-- Modos de uso: repetidor, punto de acceso y puente de medios
-- Aumenta la zona de cobertura inalámbrica a lo largo de tu hogar: dos antenas externas de dos bandas para cubrir todas las estancias con Wi-Fi de alta velocidad
-- ASUS Extender App: Configúralo sin tocar el ordenador, cuando quieras y desde cualquier lugar
-- Configuración sencilla: Encuentra el mejor emplazamiento con el indicador LED de señal y conéctalo con un clic
 - Extiende la conectividad inalámbrica de tu router con hasta 1200 Mbps de velocidad combinada
+- Configuración sencilla: Encuentra el mejor emplazamiento con el indicador LED de señal y conéctalo con un clic
+- ASUS Extender App: Configúralo sin tocar el ordenador, cuando quieras y desde cualquier lugar
+- Aumenta la zona de cobertura inalámbrica a lo largo de tu hogar: dos antenas externas de dos bandas para cubrir todas las estancias con Wi-Fi de alta velocidad
+- Modos de uso: repetidor, punto de acceso y puente de medios
 
 [Aquí!!!](https://www.amazon.es/dp/B073QJCJWG/?tag=tolees-21)

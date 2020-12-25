@@ -25,14 +25,14 @@ Ahora mismo tienes [Tommy Hilfiger Heritage Zip-Through Hoodie Capucha  Azul  Mi
 
 🔎:
 
-- 64 % algodón, 36 % poliéster
 - Capucha con cordón
-- Lavable a máquina
-- Ajuste regular
 - Estilo del cuello: con capucha
-- WW0WW24971
-- Manga larga
+- 64 % algodón, 36 % poliéster
+- Ajuste regular
 - Mezcla de algodón
 - Rayas de la marca en el dobladillo
+- Lavable a máquina
+- WW0WW24971
+- Manga larga
 
 [Visítala!!!](https://www.amazon.es/dp/B07N8PXBK7/?tag=tolees-21)

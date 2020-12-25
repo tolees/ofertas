@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ana Maria Lajusticia - Magnesio total 5  al 41.91 % de descuento'
-date: 2020-12-23 10:07:49
+date: 2020-12-25 17:47:51
 image: 'https://m.media-amazon.com/images/I/41+dY0YRpqL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Está [Ana Maria Lajusticia - Magnesio total 5 – 100 comp. Disminuye el cansan
 
 ℹ️:
 
-- El magnesio contribuye al funcionamiento normal de los músculos.
 - El magnesio contribuye al equilibrio electrolítico
-- El magnesio contribuye a disminuir el cansancio y la fatiga
 - El magnesio contribuye al mantenimiento de los huesos y dientes en condiciones normales.
+- El magnesio contribuye al funcionamiento normal de los músculos.
+- El magnesio contribuye a disminuir el cansancio y la fatiga
 - Está involucrado en multitud de procesos: metabolismo energético, la síntesis proteica, la síntesis y degradación de ácidos grasos.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07H9F4X1P/?tag=tolees-21)

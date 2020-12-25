@@ -25,10 +25,10 @@ Ahora mismo tienes [Lámpara LED UV Uñas 84W Secador de Uñas Profesional Horno
 
 🔎:
 
-- 💅 【Sensor Automático】 Gracias al diseño con sensor de infrarrojos integrado, la lámpara se activa automáticamente cuando se introduce la mano y se apaga automáticamente cuando se retira.
-- 💅 【Potencia máxima】 Lámpara de uñas UV con una potencia de hasta 84W y 42 lámparas con tecnología de longitud de onda de luz dual (365nm + 405nm) para mayor eficiencia, 4 lámparas de blanqueamiento infrarrojas mejoradas, no oscurecerán el sus manos, puede secar rápidamente gel UV / gel LED.
 - 💅 【Regalo perfecto】 Este horno no solo es la mejor opción para manicuristas, sino que también es perfecto como regalo para el Día de la Madre, el Día de San Valentín, cumpleaños, Navidad y aniversarios de boda. Disfrute de la experiencia del salón con sus amigos y familiares en casa.
-- 💅 【3 Temporizador】 30 s, 60 s, 120 s (modo de calor bajo), puede controlar fácilmente el tiempo que desea secar las uñas. la pantalla LCD muestra la cuenta atrás del número de segundos necesarios para el secado. Interruptor táctil, detección sensible.
+- 💅 【Sensor Automático】 Gracias al diseño con sensor de infrarrojos integrado, la lámpara se activa automáticamente cuando se introduce la mano y se apaga automáticamente cuando se retira.
 - 💅 【Funciona bien con esmalte de gel】 Lámpara de uñas LED UV Cure con casi todos los geles de uñas, como terapia de gel UV, gel prolongado, esmalte de uñas de gel LED, gel constructor fuerte, gel de escultura, gel pegamento, etc.
+- 💅 【Potencia máxima】 Lámpara de uñas UV con una potencia de hasta 84W y 42 lámparas con tecnología de longitud de onda de luz dual (365nm + 405nm) para mayor eficiencia, 4 lámparas de blanqueamiento infrarrojas mejoradas, no oscurecerán el sus manos, puede secar rápidamente gel UV / gel LED.
+- 💅 【3 Temporizador】 30 s, 60 s, 120 s (modo de calor bajo), puede controlar fácilmente el tiempo que desea secar las uñas. la pantalla LCD muestra la cuenta atrás del número de segundos necesarios para el secado. Interruptor táctil, detección sensible.
 
 [Visítala!!!](https://www.amazon.es/dp/B08BHSLJ62/?tag=tolees-21)
