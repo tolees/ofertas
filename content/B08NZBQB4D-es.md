@@ -25,9 +25,9 @@ Tienes [Anself 2pcs Herramienta de Detección Digital Domestica](https://www.ama
 
 🔎:
 
-- Multifunción: esta herramienta de prueba digital permite medir con precisión varios indicadores.
 - Comodidad de uso: fiabilidad exacta, funcionamiento de un teclado, basta con ponerlo en la mano y detenerlo automáticamente después de cinco segundos de apertura.
 - Tamaño pequeño: la herramienta de prueba es ligera, pequeña y fácil de transportar.
+- Multifunción: esta herramienta de prueba digital permite medir con precisión varios indicadores.
 - Fácil de leer: puede ver sus resultados claramente mostrados por los diodos emisores orgánicos de luz.
 - Amplia aplicación: adaptable a la familia, Office Use.
 

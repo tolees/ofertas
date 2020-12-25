@@ -25,11 +25,11 @@ Está [FAMOGAMES Boom Juego de Mesa Adultos  Famosa  700013151 ](https://www.ama
 
 ℹ️:
 
-- El juego oficial del concurso de televisión "Boom"
-- En Boom, participan dos equipos enfrentándose ante las Bombas Negras y la Bomba Plata
-- Si dispones de ambas versiones (Boom! Adultos y Boom! Junior) podrás enfrentar a adultos contra niños respondiendo cada equipo a su nivel de conocimiento
 - Sólo el ganador podrá enfrentarse al reto de la fase final: La Bomba Oro
-- Versión española
+- En Boom, participan dos equipos enfrentándose ante las Bombas Negras y la Bomba Plata
+- El juego oficial del concurso de televisión "Boom"
 - Boom, el juego del concurso en el que cada pregunta es una bomba y cada respuesta un cable
+- Versión española
+- Si dispones de ambas versiones (Boom! Adultos y Boom! Junior) podrás enfrentar a adultos contra niños respondiendo cada equipo a su nivel de conocimiento
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01FUDFKFG/?tag=tolees-21)

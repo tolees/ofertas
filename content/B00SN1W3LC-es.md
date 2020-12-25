@@ -25,9 +25,9 @@ En este momento está [Pinypon - City Pack con Cuatro Figuras  Famosa 700012060 
 
 🔎:
 
-- Favorece el desarrollo motriz, intelectual, sensitivo
 - El interior de una cajita que simula un centro comercial
 - Estimula el ritmo, la atención y la imaginación
 - Tiene cuatro figuras diferentes y dos mascotas
+- Favorece el desarrollo motriz, intelectual, sensitivo
 
 [Aquí!!!](https://www.amazon.es/dp/B00SN1W3LC/?tag=tolees-21)
