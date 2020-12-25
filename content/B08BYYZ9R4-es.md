@@ -25,10 +25,10 @@ Tienes [POP Funko Naruto: Shippuden 739- Rock Lee Special Edition](https://www.a
 
 🔎:
 
-- ¡Funko Pop! con las siguientes características:
-- Medidas: tamaño estándar
 - Figura de colección || Merch para fans y divertido || Patrón: monocromo
 - Anime, Fan merch, Series TV
 - el perfecto regalo de Navidad
+- Medidas: tamaño estándar
+- ¡Funko Pop! con las siguientes características:
 
 [Comprar!!!](https://www.amazon.es/dp/B08BYYZ9R4/?tag=tolees-21)

@@ -25,7 +25,7 @@ Está [Winning Moves Cluedo The Big Bang Theory Niños y Adultos Deducción - Ju
 
 ℹ️:
 
-- Alemán Cluedo con los personajes de the Big Bang Theory: de dos a seis jugadores: Seis escenarios diferentes: artículo con licencia oficial.
 - Número de jugadores: 2 – 6: recomendación Edad: 8 +: Idioma: Alemán.
+- Alemán Cluedo con los personajes de the Big Bang Theory: de dos a seis jugadores: Seis escenarios diferentes: artículo con licencia oficial.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00QTV6AVM/?tag=tolees-21)

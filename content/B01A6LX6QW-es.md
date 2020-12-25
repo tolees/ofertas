@@ -25,10 +25,10 @@ Está [Crocs Classic Slipper  Zapatillas de Estar por casa Unisex Adulto  Negro 
 
 ℹ️:
 
-- Material: Textil
 - Farbe: schwarz
 - Weitere Informationen: Core
-- Type: Slipper
 - Hersteller Artikelnummer: 203600-060
+- Type: Slipper
+- Material: Textil
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01A6LX6QW/?tag=tolees-21)

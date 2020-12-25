@@ -25,10 +25,10 @@ Tienes [CASIO A158 - Reloj de Pulsera con Correa de Acero Inoxidable](https://ww
 
 🔎:
 
-- Marca Casio. Modelo LA-158-WA-1DF Colección Vintage Series
-- Caja cromada y cadena de acero inoxidable con cierre plegado. Diámetro de la caja: 33 mm.
 - Formato horario 12/24 horas, Luz LED lateral. Precisión: +/-30 seg./mes.
-- Reloj digital de cuarzo unisex.
+- Caja cromada y cadena de acero inoxidable con cierre plegado. Diámetro de la caja: 33 mm.
 - Cronometro, (1/100 seg.- 1 hora), Alarma diaria, Señal horaria, AutoCalendario (28 días en Febrero).
+- Reloj digital de cuarzo unisex.
+- Marca Casio. Modelo LA-158-WA-1DF Colección Vintage Series
 
 [Comprar!!!](https://www.amazon.es/dp/B000VGXK9G/?tag=tolees-21)

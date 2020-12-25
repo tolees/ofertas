@@ -25,10 +25,10 @@ Tienes [Sony MDR-ZX310APL - Auriculares de diadema cerrados  con micrófono  con
 
 🔎:
 
-- Diafragmas de neodimio de 30 mm
 - Auriculares tipo diadema con sensibilidad de 98 dB/mW
-- Rango de frecuencia 10-24.000 Hz
 - Diseño plegable compacto
+- Rango de frecuencia 10-24.000 Hz
+- Diafragmas de neodimio de 30 mm
 - Cascos acolchados para una escucha cómoda
 
 [Comprar!!!](https://www.amazon.es/dp/B00I3LV3P4/?tag=tolees-21)
