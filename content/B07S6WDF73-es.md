@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Aladdín [DVD] con un 58.90 % de descuento'
-date: 2020-12-24 16:27:26
+date: 2020-12-25 16:31:53
 image: 'https://m.media-amazon.com/images/I/51s3+7Y8HGL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07S6WDF73/?tag=tolees-21'
 descuento: '58.90'
-average: '9.56186046511628'
+average: '9.519555555555558'
 ---
 
 En este momento está [Aladdín [DVD]](https://www.amazon.es/dp/B07S6WDF73/?tag=tolees-21) a 8.61 EUR (original: 20.95 EUR) (58.90 %  de descuento) en el siguiente enlace!

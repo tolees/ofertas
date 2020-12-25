@@ -25,10 +25,10 @@ En este momento está [Orbegozo KT 5002 - Hervidor de agua eléctrico  1 litro d
 
 🔎:
 
-- Visor de nivel de agua
-- Hervidor de agua 1 litro
-- Resistencia sumergid
-- Protección contra sobre calentamiento
 - Tapa abatible con cierre de seguridad
+- Protección contra sobre calentamiento
+- Visor de nivel de agua
+- Resistencia sumergid
+- Hervidor de agua 1 litro
 
 [Aquí!!!](https://www.amazon.es/dp/B07M8DBTG8/?tag=tolees-21)

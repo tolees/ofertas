@@ -25,10 +25,10 @@ Tienes [Chicco- Baby Bear Big & Small Osito Proyector  Color Rosa  8015100000 ](
 
 🔎:
 
-- 3 intensidades de luz diferentes
-- Peluche proyector multicolor
 - Muy suave, ideal para abrazar y acompañar al bebe
-- 30 minutos de luces y melodías
 - Se puede lavar a maquina
+- 3 intensidades de luz diferentes
+- 30 minutos de luces y melodías
+- Peluche proyector multicolor
 
 [Comprar!!!](https://www.amazon.es/dp/B019OKSYMM/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dragon Ball Z Sagas Completas Box 1 Ep.  al 23.46 % de descuento'
-date: 2020-12-23 22:24:22
+date: 2020-12-25 16:29:53
 image: 'https://m.media-amazon.com/images/I/51WFyK5-dhL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PNKB6XD/?tag=tolees-21'
 descuento: '23.46'
-average: '54.36363636363636'
+average: '54.40833333333333'
 ---
 
 Está [Dragon Ball Z Sagas Completas Box 1 Ep. 1 A 117 [DVD]](https://www.amazon.es/dp/B07PNKB6XD/?tag=tolees-21) con 23.46 de descuento por 54.9 EUR (original: 71.73 EUR) en el siguiente enlace!

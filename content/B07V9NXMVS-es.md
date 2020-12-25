@@ -26,8 +26,8 @@ Tienes [Pepe Jeans Daphne Riñonera Marrón 18x12x5 cms Piel Sintética](https:/
 🔎:
 
 - Bolsillo de cremallera con tres ranuras para tarjetas y otra más grande para documentos o recibos
-- Cierre de clic y cinta ajustable para llevarla cómodamente a la cintura
-- Riñonera de 18 cm x 12 cm x 5 cm fabricada en Piel Sintética
 - Posibilidad de poder llevarla también como bandolera
+- Riñonera de 18 cm x 12 cm x 5 cm fabricada en Piel Sintética
+- Cierre de clic y cinta ajustable para llevarla cómodamente a la cintura
 
 [Comprar!!!](https://www.amazon.es/dp/B07V9NXMVS/?tag=tolees-21)

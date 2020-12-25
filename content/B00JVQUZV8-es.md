@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'El Rey León [España] [Blu-ray] con un 30.02 % de descuento'
-date: 2020-12-24 16:21:35
+date: 2020-12-25 16:29:56
 image: 'https://m.media-amazon.com/images/I/51PO7Z1IqlL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00JVQUZV8/?tag=tolees-21'
 descuento: '30.02'
-average: '10.09537313432836'
+average: '10.066231884057972'
 ---
 
 En este momento está [El Rey León [España] [Blu-ray]](https://www.amazon.es/dp/B00JVQUZV8/?tag=tolees-21) a 9.09 EUR (original: 12.99 EUR) (30.02 %  de descuento) en el siguiente enlace!

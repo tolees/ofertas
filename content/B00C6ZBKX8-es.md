@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony DVPSR370B - Reproductor de DVDs con con un 21.80 % de descuento'
-date: 2020-12-24 16:21:57
+date: 2020-12-25 16:27:53
 image: 'https://m.media-amazon.com/images/I/31Kpa5vXW2L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00C6ZBKX8/?tag=tolees-21'
 descuento: '21.80'
-average: '39.858394160583956'
+average: '39.791223021582745'
 ---
 
 En este momento está [Sony DVPSR370B - Reproductor de DVDs con USB  CD-R/RW  DVD+RW/+R/+R DL  DVD-RW/-R/-R DL  incluidos DVD de 8 cm   JPEG  mp3  MPEG-4  WMA  AAC y PCM lineal  Diseño Compacto 270 mm  Negro](https://www.amazon.es/dp/B00C6ZBKX8/?tag=tolees-21) a 35.19 EUR (original: 45.0 EUR) (21.80 %  de descuento) en el siguiente enlace!
@@ -25,10 +25,10 @@ En este momento está [Sony DVPSR370B - Reproductor de DVDs con USB  CD-R/RW  DV
 
 🔎:
 
-- Reproduce contenidos mediante USB
 - Señal de vídeo analógica: NTSC, PAL
-- Dimensión de la pantalla: 2.4 pulgadas
+- Reproduce contenidos mediante USB
 - Reproducción de DVD/CD multiformato
 - Longitud focal mínima: 35 mm
+- Dimensión de la pantalla: 2.4 pulgadas
 
 [Aquí!!!](https://www.amazon.es/dp/B00C6ZBKX8/?tag=tolees-21)
