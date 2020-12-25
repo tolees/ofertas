@@ -25,9 +25,9 @@ Ahora mismo tienes [Huawei Matebook Backpack - Mochila para Tablet y Ordenador p
 
 🔎:
 
+- Huawei matebook mochila
 - Peso de 525g
 - Tamaño 300x425x105mm
 - Color gris
-- Huawei matebook mochila
 
 [Visítala!!!](https://www.amazon.es/dp/B078PWHS2B/?tag=tolees-21)

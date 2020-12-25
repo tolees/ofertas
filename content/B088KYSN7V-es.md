@@ -25,10 +25,10 @@ Ahora mismo tienes [Immortal Realms: Vampire Wars](https://www.amazon.es/dp/B088
 
 🔎:
 
-- Estrategia y tácticas: dirige a tus ejércitos, recluta nuevas unidades y desbloquea tecnologías vitales en el estratégico modo reino, después, pon a prueba tus habilidades tácticas en el modo combate cargado de acción
+- Cada clan y señor vampiro tiene acceso a su propio conjunto de cartas, y estas pueden juntarse para formar combinaciones poderosas
 - Dirige a uno de los tres clanes de vampiros únicos con unidades, poderes, mecánicas de juego y personajes distintivos; juega como los sanguinarios Dracul, los antiguos Nosfernus o los místicos Moroia, elige entre tres modos de juego diferentes: la campaña centrada en la historia, el mundo abierto y el difícil modo escaramuza
 - Poderes vampíricos: los elementos originales de juegos de cartas mejoran la jugabilidad y proporcionan una visión única del género
-- Cada clan y señor vampiro tiene acceso a su propio conjunto de cartas, y estas pueden juntarse para formar combinaciones poderosas
 - Se desvela la verdad: Descubre los secretos de Nemire y vive una historia apasionante que se cuenta a lo largo de 12 misiones diseñadas meticulosamente y cuatro entornos únicos desde la perspectiva de cuatro poderosos señores vampiro, cada uno con sus propios planes y objetivos
+- Estrategia y tácticas: dirige a tus ejércitos, recluta nuevas unidades y desbloquea tecnologías vitales en el estratégico modo reino, después, pon a prueba tus habilidades tácticas en el modo combate cargado de acción
 
 [Visítala!!!](https://www.amazon.es/dp/B088KYSN7V/?tag=tolees-21)

@@ -25,8 +25,8 @@ Está [Wolfcraft 6182000 - Banco de trabajo master 600 - 650x420-530x780-955 mm]
 
 ℹ️:
 
-- Banco de trabajo plegable
 - Regulable en graduación
+- Banco de trabajo plegable
 - Regulable en altura
 - Uso: apoyo de trabajo y apoyo de máquinas
 
