@@ -1,28 +1,32 @@
 ---
 layout: post
-title: 'Levi s 502 Regular Taper Jeans  Azul  Ba al 50.91 % de descuento'
-date: 2020-10-26 18:12:40
+title: 'Descuento del 67.55 % en Levi s 502 Taper Jeans  Baltic Adapt  30'
+date: 2020-12-25 11:44:47
 image: 'https://m.media-amazon.com/images/I/41L-xhZ9rgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07KF4QV5C-es'
-actualPrice: 54.0 EUR
+actualPrice: 35.69 EUR
 currency: EUR
-price: 54.0
+price: 35.69
 comparePrice: 110.0 EUR
-prodname: 'Levi s 502 Regular Taper Jeans  Azul  Baltic Adapt 0472   30W / 34L para Hombre'
+prodname: 'Levi s 502 Taper Jeans  Baltic Adapt  30W / 34L para Hombre'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KF4QV5C/?tag=tolees-21'
-descuento: '50.91'
+descuento: '67.55'
+average: '49.44444444444444'
 ---
 
-Está [Levi s 502 Regular Taper Jeans  Azul  Baltic Adapt 0472   30W / 34L para Hombre](https://www.amazon.es/dp/B07KF4QV5C/?tag=tolees-21) con 50.91 de descuento por 54.0 EUR (original: 110.0 EUR) en el siguiente enlace!
+Tienes [Levi s 502 Taper Jeans  Baltic Adapt  30W / 34L para Hombre](https://www.amazon.es/dp/B07KF4QV5C/?tag=tolees-21) con un 67.55 % de descuento con precio de oferta de 35.69 EUR (original: 110.0 EUR) en el siguiente enlace!
 
-[![Levi s 502 Regular Taper Jeans  Azul  Ba](https://m.media-amazon.com/images/I/41L-xhZ9rgL._SL200_.jpg)](https://www.amazon.es/dp/B07KF4QV5C/?tag=tolees-21)
+[![Levi s 502 Taper Jeans  Baltic Adapt  30](https://m.media-amazon.com/images/I/41L-xhZ9rgL._SL200_.jpg)](https://www.amazon.es/dp/B07KF4QV5C/?tag=tolees-21)
 
 ℹ️:
 
+- Diseño de cinco bolsillos
+- Con ajuste estándar en el muslo
+- Se asientan debajo de la cintura
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07KF4QV5C/?tag=tolees-21)
+[Accede a la oferta!!](https://www.amazon.es/dp/B07KF4QV5C/?tag=tolees-21)

@@ -25,8 +25,8 @@ En este momento está [Adidas Real Madrid Temporada 2020/21 Chaqueta Entrenamien
 
 🔎:
 
+- Adidas logo on the front
 - Front pockets
 - Sport jacket
-- Adidas logo on the front
 
 [Aquí!!!](https://www.amazon.es/dp/B08CJBHSDR/?tag=tolees-21)

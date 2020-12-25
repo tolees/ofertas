@@ -25,9 +25,9 @@ Ahora mismo tienes [Adidas CORE18 POLO Polo shirt  Hombre  Bold Blue/ White  XS]
 
 🔎:
 
-- Logotipo de adidas estampado.
-- Cámara de butilo para una mejor retención del aire.
-- Climalite anti-humidity fabric
 - Es necesario inflarlo.
+- Climalite anti-humidity fabric
+- Cámara de butilo para una mejor retención del aire.
+- Logotipo de adidas estampado.
 
 [Visítala!!!](https://www.amazon.es/dp/B076HSD2HZ/?tag=tolees-21)
