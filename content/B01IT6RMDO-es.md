@@ -25,11 +25,11 @@ Está [Delaviuda Turrón Duro de Almendra - 250 gr  70002 ](https://www.amazon.e
 
 ℹ️:
 
-- Receta tradicional
-- Turrón duro Delaviuda 250 gr
-- Calidad Suprema
-- 63% almendras seleccionadas tostadas
-- Sin gluten
 - Conservar en lugar fresco y seco.
+- 63% almendras seleccionadas tostadas
+- Calidad Suprema
+- Turrón duro Delaviuda 250 gr
+- Sin gluten
+- Receta tradicional
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01IT6RMDO/?tag=tolees-21)

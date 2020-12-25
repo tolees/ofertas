@@ -25,9 +25,9 @@ Tienes [TOUS Reloj Straight Ceramic de acero y bisel de cerámica con correa de 
 
 🔎:
 
-- Movimiento de cuarzo analógico - Cierre de hebilla
 - Correa de silicona - Caja de acero inoxidable
-- Cristal mineral - Funciones: Hora, minutos y segundos
 - Diámetro: 38 mm. - Resistente al agua hasta 5 ATM
+- Movimiento de cuarzo analógico - Cierre de hebilla
+- Cristal mineral - Funciones: Hora, minutos y segundos
 
 [Comprar!!!](https://www.amazon.es/dp/B07Z1ZY34L/?tag=tolees-21)

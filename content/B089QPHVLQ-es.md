@@ -25,10 +25,10 @@ Tienes [adidas Lite Racer RBN 2.0  Zapatillas Mujer  NEGBÁS/NEGBÁS/GRIPAL  42 
 
 🔎:
 
-- Diseño ligero y transpirable
-- Parte superior de malla estampada
-- Zapatilla deportiva inspirada en el running
 - Horma clásica
+- Diseño ligero y transpirable
+- Zapatilla deportiva inspirada en el running
+- Parte superior de malla estampada
 - Cierre de cordones
 
 [Comprar!!!](https://www.amazon.es/dp/B089QPHVLQ/?tag=tolees-21)

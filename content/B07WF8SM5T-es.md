@@ -25,8 +25,8 @@ Tienes [Salomon XA Pro 3D V8 GTX  Zapatillas De Trail Running Y Sanderismo Imper
 
 ℹ️:
 
-- Xa PRO 3D V8 GTX
 - Color: Ebony/Caramel Cafe/Black
+- Xa PRO 3D V8 GTX
 - Salomon
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07WF8SM5T/?tag=tolees-21)

@@ -27,7 +27,7 @@ Está [JACK & JONES JACSENSE TRUNKS NOOS  Bóxer Hombre  Blanco  White   Large](
 
 - Nuevo en paquete en color blanco.
 - Jack & Jones Designer Sense Boxer troncos negros todos los tamaños disponibles
-- 100% original.
 - Jack & Jones Sense Boxer Troncos Core
+- 100% original.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00FPGEZT6/?tag=tolees-21)

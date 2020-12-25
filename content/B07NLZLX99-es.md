@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIKE Revolution 5   Zapatillas Hombre  B al 30.93 % de rebaja'
-date: 2020-12-24 20:34:18
+date: 2020-12-25 20:53:55
 image: 'https://m.media-amazon.com/images/I/41qoPAyxhnL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NLZLX99/?tag=tolees-21'
 descuento: '30.93'
-average: '40.12213675213676'
+average: '40.08630252100841'
 ---
 
 Tienes [NIKE Revolution 5   Zapatillas Hombre  Black/Anthracite  40 EU](https://www.amazon.es/dp/B07NLZLX99/?tag=tolees-21) con precio final de  37.99 EUR (original: 55.0 EUR) (30.93 %  de rebaja) aqui!

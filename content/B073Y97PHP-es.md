@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Purina Felix Fantastic comida para gato  al 15.65 % de descuento'
-date: 2020-12-24 20:13:19
+date: 2020-12-25 20:38:38
 image: 'https://m.media-amazon.com/images/I/511JYQUmxrL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B073Y97PHP/?tag=tolees-21'
 descuento: '15.65'
-average: '16.23100840336135'
+average: '16.17743801652893'
 ---
 
 Ahora mismo tienes [Purina Felix Fantastic comida para gato surtido variado Pack 44 x 100 g](https://www.amazon.es/dp/B073Y97PHP/?tag=tolees-21) a 12.99 EUR (original: 15.4 EUR) (15.65 %  de descuento) en el siguiente enlace!
