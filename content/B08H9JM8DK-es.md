@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Just Dance 2021 SWITCH con un 18.21 % de descuento'
-date: 2020-12-24 14:46:08
+title: 'Just Dance 2021 SWITCH con un 27.23 % de descuento'
+date: 2020-12-25 21:05:08
 image: 'https://m.media-amazon.com/images/I/51sUPVgtMDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B08H9JM8DK-es'
-actualPrice: 44.9 EUR
+actualPrice: 39.95 EUR
 currency: EUR
-price: 44.9
+price: 39.95
 comparePrice: 54.9 EUR
 prodname: 'Just Dance 2021 SWITCH'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08H9JM8DK/?tag=tolees-21'
-descuento: '18.21'
-average: '49.00539682539683'
+descuento: '27.23'
+average: '48.726769230769236'
 ---
 
-En este momento está [Just Dance 2021 SWITCH](https://www.amazon.es/dp/B08H9JM8DK/?tag=tolees-21) a 44.9 EUR (original: 54.9 EUR) (18.21 %  de descuento) en el siguiente enlace!
+En este momento está [Just Dance 2021 SWITCH](https://www.amazon.es/dp/B08H9JM8DK/?tag=tolees-21) a 39.95 EUR (original: 54.9 EUR) (27.23 %  de descuento) en el siguiente enlace!
 
 [![Just Dance 2021 SWITCH](https://m.media-amazon.com/images/I/51sUPVgtMDL._SL200_.jpg)](https://www.amazon.es/dp/B08H9JM8DK/?tag=tolees-21)
 

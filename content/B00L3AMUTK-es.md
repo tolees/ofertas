@@ -25,8 +25,8 @@ En este momento está [PORT DESIGNS Torino Funda para portátil de 15 6"  Gris](
 
 🔎:
 
-- Cierre por cremallera con doble tirador
-- Parche con logo y extractor: cuero genuino
 - Funda de neopreno
+- Parche con logo y extractor: cuero genuino
+- Cierre por cremallera con doble tirador
 
 [Aquí!!!](https://www.amazon.es/dp/B00L3AMUTK/?tag=tolees-21)

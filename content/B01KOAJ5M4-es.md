@@ -27,8 +27,8 @@ Tienes [100 Etiquetas para ropa personalizadas. Etiquetas de tela con CERTIFICAD
 
 - 100 Etiquetas personalizadas con nombre para marcar ropa. Cinta termoadhesiva para plancha.
 - Composición: 70% polyester 30% algodón y certificado ecológico.
-- Medidas: etiquetas de 7 cms de largo x 1 cms de ancho en un rollo de 9 metros
-- Uso: estas etiquetas termoadhesivas se fijan a cualquier prenda. Resistentes hasta 60º en la lavadora y secadora.
 - Resistencia: gracias a un sofisticado sistema de transferencia de tinta, garantizamos la durabilidad de la impresión
+- Uso: estas etiquetas termoadhesivas se fijan a cualquier prenda. Resistentes hasta 60º en la lavadora y secadora.
+- Medidas: etiquetas de 7 cms de largo x 1 cms de ancho en un rollo de 9 metros
 
 [Comprar!!!](https://www.amazon.es/dp/B01KOAJ5M4/?tag=tolees-21)

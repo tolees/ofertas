@@ -25,11 +25,11 @@ Está [Educa- Aprendo Inglés Juego Connector para Niños  Multicolor  17206 ](h
 
 ℹ️:
 
-- Versión española
 - Recomendado a partir de 7 años
+- Posee 8 temas nuevos con más de 350 preguntas para que te diviertas poniendo tu razonamiento y observación a trabajar
+- Versión española
+- Come in; Descubre el curso de Ingles más divertido que recogen lo fundamental del inglés: vocabulario, verbo, las primeras fases; Todo lo que necesitas para adquirir el vocabulario básico y ampliar el conocimiento del idioma inglés
 - Contenido: 8 láminas, base multiconectora con tapa/cubierta y un boli Sabio con led
 - Elemento adicional (Boli Sabio) para responder
-- Come in; Descubre el curso de Ingles más divertido que recogen lo fundamental del inglés: vocabulario, verbo, las primeras fases; Todo lo que necesitas para adquirir el vocabulario básico y ampliar el conocimiento del idioma inglés
-- Posee 8 temas nuevos con más de 350 preguntas para que te diviertas poniendo tu razonamiento y observación a trabajar
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06WGPYBBD/?tag=tolees-21)

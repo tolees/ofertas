@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Watch Dogs 2 - Standard Edition al 40.23 % de descuento'
-date: 2020-12-24 16:26:49
+date: 2020-12-25 21:54:53
 image: 'https://m.media-amazon.com/images/I/61ocRea-QwL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00ZIW2V1Q/?tag=tolees-21'
 descuento: '40.23'
-average: '16.827735849056605'
+average: '16.866727272727275'
 ---
 
 Está [Watch Dogs 2 - Standard Edition](https://www.amazon.es/dp/B00ZIW2V1Q/?tag=tolees-21) con 40.23 de descuento por 17.9 EUR (original: 29.95 EUR) en el siguiente enlace!
@@ -25,8 +25,8 @@ Está [Watch Dogs 2 - Standard Edition](https://www.amazon.es/dp/B00ZIW2V1Q/?tag
 
 ℹ️:
 
-- ACCION Y AVENTURAS
 - PS4
+- ACCION Y AVENTURAS
 - 18+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00ZIW2V1Q/?tag=tolees-21)
