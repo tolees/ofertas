@@ -25,8 +25,8 @@ Tienes [No Man s Sky - Edición Estándar](https://www.amazon.es/dp/B00ZV86FV4/?
 
 🔎:
 
+- Traza tu recorrido por un universo vivo y de una escala sin precedentes y descubre nuevos mundos de entre millones planetas únicos
 - Descubre nuevas especies, recoge valiosos recursos y marca tus reinos celestiales para siempre en el mapa galáctico con el fin de que otros cosmonautas los visiten
 - Viaja desde las profundidades más lejanas del espacio para acudir a la llamada de un irresistible misterio en el centro de la galaxia
-- Traza tu recorrido por un universo vivo y de una escala sin precedentes y descubre nuevos mundos de entre millones planetas únicos
 
 [Comprar!!!](https://www.amazon.es/dp/B00ZV86FV4/?tag=tolees-21)

@@ -25,10 +25,10 @@ Ahora mismo tienes [Western Digital WD Green - Internal SSD 2.5" SATA  1 TB - WD
 
 🔎:
 
-- La caché de slc (celda de nivel único) mejora el rendimiento de escritura para que pueda realizar sus tareas diarias rápidamente
-- Resistente a los golpes y con la certificación del wd f.i.t; lapara una mayor compatibilidad y fiabilidad
-- El panel de control ssd de western digital, gratuito y que puede descargar en internet, le permite monitorizar fácilmente el estado de su disco
-- Consumo eléctrico muy reducido para que pueda usar su ordenador portátil durante largos períodos de tiempo
 - Disponible en carcasas de 2,5”/7 mm y en modelos m.2 2280 que se adaptan a la mayoría de los ordenadores
+- La caché de slc (celda de nivel único) mejora el rendimiento de escritura para que pueda realizar sus tareas diarias rápidamente
+- El panel de control ssd de western digital, gratuito y que puede descargar en internet, le permite monitorizar fácilmente el estado de su disco
+- Resistente a los golpes y con la certificación del wd f.i.t; lapara una mayor compatibilidad y fiabilidad
+- Consumo eléctrico muy reducido para que pueda usar su ordenador portátil durante largos períodos de tiempo
 
 [Visítala!!!](https://www.amazon.es/dp/B07NNRTTCM/?tag=tolees-21)
