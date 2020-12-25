@@ -25,10 +25,10 @@ Ahora mismo tienes [Festina Reloj Analógico para Hombre de Cuarzo con Correa en
 
 🔎:
 
-- Sumergible: 10 bares
-- Material de la correa: acero inoxidable plateado
 - Color de la esfera: azul, con manecillas luminiscentes. Tipo de esfera: mineral
-- Material de la carcasa: acero inoxidable plateado. Bisel: azul
+- Sumergible: 10 bares
 - Diámetro de la caja: 44 mm
+- Material de la carcasa: acero inoxidable plateado. Bisel: azul
+- Material de la correa: acero inoxidable plateado
 
 [Visítala!!!](https://www.amazon.es/dp/B07DP37LXR/?tag=tolees-21)

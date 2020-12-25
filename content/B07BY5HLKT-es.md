@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 20.48 % en Vermouth Padró & Co Blanco Reserva - 3 b'
-date: 2020-12-24 07:26:24
+date: 2020-12-25 07:30:43
 image: 'https://m.media-amazon.com/images/I/61h6OsayVZL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,9 +26,9 @@ Tienes [Vermouth Padró & Co Blanco Reserva - 3 botellas de 75 cl  Total: 2250 m
 ℹ️:
 
 - Graduación: 18% vol.
-- Intenso y agradable, con recuerdos a hierbas dulces. Elegante, untuoso, fino y redondo. Leve dulzor y amargura.
-- Ideal acompañado con una rodaja de limón.
 - Ideal para combinar con quesos curados y aperitivos. Servir frío.
+- Intenso y agradable, con recuerdos a hierbas dulces. Elegante, untuoso, fino y redondo. Leve dulzor y amargura.
 - Origen: Zona/Región vinícola Tarragona
+- Ideal acompañado con una rodaja de limón.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BY5HLKT/?tag=tolees-21)

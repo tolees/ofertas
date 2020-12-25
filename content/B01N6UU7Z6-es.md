@@ -27,7 +27,7 @@ Está [KIDDUS Reloj LED Digital para niña o niño. Pulsera de Silicona Suave pa
 
 - HORA Y FECHA DIGITALES, divertido y fácil de usar para niños, adolescentes y adultos por igual. ¡Presione el único botón una vez para ver la hora y dos veces ver la fecha!
 - COMPRA SIN PREOCUPACIONES: nuestros relojes se prueban rigurosamente y creemos firmemente en la alta calidad de nuestro producto. Por lo tanto, ofrecemos una GARANTÍA incondicional de devolución de dinero de 30 días y una garantía de 12 MESES. Incluso si se lo das a otra persona, ¡tambien está cubierto! Si tienes problemas con el reloj, contáctanos y te ayudaremos.
-- DISEÑOS ORIGINALES creados por Kiddus. Su hijo sonreirá cada vez que mire el reloj. Regalo ideal para Navidad, cumpleaños, premios…
 - BATERÍA japonesa INCLUIDA, usamos baterías de buena calidad y larga duración. Disfrutará de nuestro reloj durante mucho tiempo y son FÁCILMENTE REEMPLAZABLES. La banda de silicona es ultra delgada, suave, ligera y muy cómoda en la muñeca. Adecuado para muñecas con un diámetro de 15 cm - 22 cm
+- DISEÑOS ORIGINALES creados por Kiddus. Su hijo sonreirá cada vez que mire el reloj. Regalo ideal para Navidad, cumpleaños, premios…
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01N6UU7Z6/?tag=tolees-21)
