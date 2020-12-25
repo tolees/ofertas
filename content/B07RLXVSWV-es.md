@@ -25,8 +25,8 @@ Ahora mismo tienes [Samsung A20e Blue 5.8" 3gb/32gb Dual Sim](https://www.amazon
 
 🔎:
 
-- Capacidad de la memoria 32 gb ampliable hasta microsd de 512 gb
 - Sistema operativo: android 9.0 (pie)
+- Capacidad de la memoria 32 gb ampliable hasta microsd de 512 gb
 - Cámara : 13+5 mp, f1.9 e f2.2
 
 [Visítala!!!](https://www.amazon.es/dp/B07RLXVSWV/?tag=tolees-21)

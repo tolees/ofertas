@@ -25,9 +25,9 @@ En este momento está [G-STAR RAW Classic Trunk Clr 3 Pack Pantalones Cortos  Mu
 
 🔎:
 
-- Color: rojo bordeaux negro
 - Artículo: D05095 2058 3PACK
 - Estación: SIEMPRE DISPONIBLE
+- Color: rojo bordeaux negro
 - Designer: G-STAR
 
 [Aquí!!!](https://www.amazon.es/dp/B06XC7JTM3/?tag=tolees-21)

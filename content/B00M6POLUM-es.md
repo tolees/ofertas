@@ -25,10 +25,10 @@ Está [Philips Avent - Juego de recipientes para comida de bebé  20 recipientes
 
 ℹ️:
 
-- 1 cuchara
-- 180 ml y 240 ml
-- Incluye un libro de recetas
 - 20 recipientes
+- 1 cuchara
+- Incluye un libro de recetas
+- 180 ml y 240 ml
 - 20 tapas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00M6POLUM/?tag=tolees-21)

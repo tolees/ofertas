@@ -25,10 +25,10 @@ Tienes [Julius-K9 16IDC Power Harness](https://www.amazon.es/dp/B01J5RGUOI/?tag=
 
 ℹ️:
 
-- Compatible con etiquetas intercambiables de gancho y bucle.
-- ¡Para más productos, visite nuestro Amazon Storefront!
-- Un arnés para perros que garantiza la máxima libertad de movimiento.
-- Ideal para paseos, actividades deportivas y entrenamiento de perros.
 - circunferencia torácica: 71-96 cm; peso del perro: 28-40 kg
+- ¡Para más productos, visite nuestro Amazon Storefront!
+- Ideal para paseos, actividades deportivas y entrenamiento de perros.
+- Compatible con etiquetas intercambiables de gancho y bucle.
+- Un arnés para perros que garantiza la máxima libertad de movimiento.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01J5RGUOI/?tag=tolees-21)
