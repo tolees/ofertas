@@ -25,10 +25,10 @@ Ahora mismo tienes [Scuderia Ferrari Reloj de pulsera Analógico Para Unisex Ni�
 
 🔎:
 
-- Esfera roja con detalles de acero inoxidable
 - Tres manecillas
-- 3 ATM de resistencia al agua
-- Grosor de la caja de 8,5 mm
 - Correa de silicona roja con detalles en negro
+- Esfera roja con detalles de acero inoxidable
+- Grosor de la caja de 8,5 mm
+- 3 ATM de resistencia al agua
 
 [Visítala!!!](https://www.amazon.es/dp/B07KTQFQBT/?tag=tolees-21)

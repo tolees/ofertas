@@ -25,10 +25,10 @@ En este momento está [Hugo BOSS Reloj de pulsera 1513707](https://www.amazon.es
 
 🔎:
 
-- Esfera azul
-- Dos manecillas
 - Grosor de la caja de 11,1 mm
-- 5 ATM de resistencia al agua
+- Esfera azul
 - Pulsera de acero inoxidable
+- Dos manecillas
+- 5 ATM de resistencia al agua
 
 [Aquí!!!](https://www.amazon.es/dp/B07KTQFQB3/?tag=tolees-21)
