@@ -25,8 +25,8 @@ En este momento está [Elizabeth Arden 5th Avenue Eau de Parfum 125 ml](https://
 
 🔎:
 
-- Notas de fondo: ámbar, almizcle tibetano, sándalo, iris y vainilla
 - Notas de corazón: rosa damascena, violeta, ylang-ylang, jazmín, nardo, melocotón, clavo y nuez moscada
+- Notas de fondo: ámbar, almizcle tibetano, sándalo, iris y vainilla
 - Notas de salida: lila, brotes de tilo, magnolia matutina, lirio de los valles, mandarina exótica y bergamota
 - Tipo de producto: chispeante y ligero perfume floral de sutil calidez y riqueza
 

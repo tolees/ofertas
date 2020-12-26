@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 63.09 % en Smile - 16522 - Bolsa Messenger Urban No'
-date: 2020-12-24 18:59:42
+date: 2020-12-26 10:49:36
 image: 'https://m.media-amazon.com/images/I/51XQhs7kw-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,7 +26,7 @@ Tienes [Smile - 16522 - Bolsa Messenger Urban Nomad Wind S Azul oscuro](https://
 ℹ️:
 
 - Funda de cámara moderna con look "Old School"
-- Para cámara tamaño de bolsillo: Messenger Urban Nomad Wind
 - Diseño exclusivo
+- Para cámara tamaño de bolsillo: Messenger Urban Nomad Wind
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01J5C75DS/?tag=tolees-21)

@@ -26,9 +26,9 @@ En este momento está [Le Creuset Evolution Cocotte con Tapa  Redonda  Todas Las
 🔎:
 
 - Distribución uniforme del calor, cocina adecuada gracias a su construcción de hierro fundido,todo tipo de fuentes de calor (incl. inducción) y horno
+- Cacerola redonda de hierro fundido para guisar y asar carne o verduras, ideal para preparar guisos y sopas u hornear pan
 - Hecho en Francia, fácil de lavar a mano o en lavavajillas, tapa de hierro fundido con pomo de acero inoxidable resistente al calor
 - Grandes asas para una sujeción segura y cómoda al levantar y transportar la cacerola, incluso con guantes de horno,interior esmaltado claro
 - Contenido:1xLe Creuset Cocotte Evolution de hierro fundido con tapa, Ø 24cm, redonda, dimensiones:32,5x25,2x16,6cm, peso:4,305kg, color:Naranja(Volcánico)
-- Cacerola redonda de hierro fundido para guisar y asar carne o verduras, ideal para preparar guisos y sopas u hornear pan
 
 [Aquí!!!](https://www.amazon.es/dp/B00VA5H8AY/?tag=tolees-21)

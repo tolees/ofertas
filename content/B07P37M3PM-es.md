@@ -25,9 +25,9 @@ En este momento está [Moon and Back de Hanna Andersson - Pack de 5 calzoncillos
 
 🔎:
 
+- Incluye 5 calzoncillos.
 - Con certificación STANDARD 100 de OEKO-TEX que garantiza la ausencia de sustancias nocivas.
 - Fabricados con algodón orgánico para garantizar la comodidad durante todo el día.
-- Incluye 5 calzoncillos.
 - Amazon Fashion se ha asociado con Hanna Andersson para crear Moon and Back de Hanna Andersson, una marca exclusiva de Amazon diseñada con tejidos de primera calidad, calidad duradera, comodidad y cuidado.
 
 [Aquí!!!](https://www.amazon.es/dp/B07P37M3PM/?tag=tolees-21)

@@ -26,9 +26,9 @@ En este momento está [Sony MDR-EX110AP - Auriculares in-ear  con micrófono  co
 🔎:
 
 - Cable tipo Y, 1,2 m de longitud
-- Diafragmas de neodimio de 9 mm para un sonido dinámico
-- Cómodos tapones de auricular de silicona de ajuste seguro
-- Gran variedad de colores para adaptarse a tu estilo
 - Rango de frecuencia de 5-24.000 Hz
+- Gran variedad de colores para adaptarse a tu estilo
+- Cómodos tapones de auricular de silicona de ajuste seguro
+- Diafragmas de neodimio de 9 mm para un sonido dinámico
 
 [Aquí!!!](https://www.amazon.es/dp/B00I3LUUYO/?tag=tolees-21)

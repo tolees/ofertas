@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Goo Jit Zu - Súper Figura Héroe Goo Jit  al 15.79 % de descuento'
-date: 2020-12-24 13:33:53
+date: 2020-12-26 10:56:52
 image: 'https://m.media-amazon.com/images/I/51UVxYpM+CL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Está [Goo Jit Zu - Súper Figura Héroe Goo Jit Zu  CO41012 ](https://www.amazo
 
 ℹ️:
 
+- Incluye funcionalidad especial bola de fuego
+- Figura de 20 cm con luces y sonidos
 - Estirable, estrujable y súper divertida
 - Funciona con pilas 3 x lr44
-- Figura de 20 cm con luces y sonidos
 - Pilas incluidas
-- Incluye funcionalidad especial bola de fuego
 
 [Ver la oferta!!](https://www.amazon.es/dp/B083F6JSTM/?tag=tolees-21)
