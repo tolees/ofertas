@@ -25,10 +25,10 @@ Está [Marcato Accesorio Spaghetti Máquina para Pasta Atlas 150  Acero Inoxidab
 
 ℹ️:
 
-- Conexión rápida para motor (opcional)
 - Accesorio para Espaguetis: pasta larga de sección redonda y 2 mm de diámetro
-- Estructura de acero cromado con rodillos de aleación de aluminio galvanizado para alimentos, para proteger la salud del consumidor
 - Espesor de la masa en hoja nº 4 del regulador de la máquina para pasta Atlas 150
+- Conexión rápida para motor (opcional)
 - Made in Italy: producto enteramente realizado en Italia por Marcato
+- Estructura de acero cromado con rodillos de aleación de aluminio galvanizado para alimentos, para proteger la salud del consumidor
 
 [Ver la oferta!!](https://www.amazon.es/dp/B000BI8ED6/?tag=tolees-21)

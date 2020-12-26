@@ -25,8 +25,8 @@ Ahora mismo tienes [Belkin cargador para coche USB-C de 30 W  cargador rápido p
 
 🔎:
 
-- La diferencia de belkin: liderando tecnología e innovación durante más de 35 años
-- El puerto usb-a de 12 w adicional permite la carga simultánea de un segundo dispositivo
 - El puerto usb-c de 18 w admite carga rápida para iphone 8 o posterior y ipad pro de 10,5 pulgadas (de 0 a 50 % en 30 minutos usando el cable de usb-c a lightning que se vende por separado)
+- El puerto usb-a de 12 w adicional permite la carga simultánea de un segundo dispositivo
+- La diferencia de belkin: liderando tecnología e innovación durante más de 35 años
 
 [Visítala!!!](https://www.amazon.es/dp/B07TXMXCKY/?tag=tolees-21)

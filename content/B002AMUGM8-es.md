@@ -25,9 +25,9 @@ En este momento está [Sisley Express Máscara hidratante y tonificante de gel d
 
 🔎:
 
+- De la marca Sisley.
+- Este producto está indicado para todo tipo de pieles.
 - Contiene 60 ml.
 - Este producto está indicado para mujeres.
-- Este producto está indicado para todo tipo de pieles.
-- De la marca Sisley.
 
 [Aquí!!!](https://www.amazon.es/dp/B002AMUGM8/?tag=tolees-21)
