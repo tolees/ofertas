@@ -25,10 +25,10 @@ Tienes [PUMA Classic Tricot Suit Op Chándal  Mujer  Foxglove  L](https://www.am
 
 ℹ️:
 
-- Chaqueta: corte normal
-- bluesign: Este material cuenta con el certificado bluesign
-- Dobladillo y puños acanalados
 - Bolsillos en las costuras laterales
+- Dobladillo y puños acanalados
 - Hombros caídos para dar más libertad de movimiento
+- bluesign: Este material cuenta con el certificado bluesign
+- Chaqueta: corte normal
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B086PG8X5G/?tag=tolees-21)

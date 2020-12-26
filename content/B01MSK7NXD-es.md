@@ -25,10 +25,10 @@ Ahora mismo tienes [Festina Reloj Análogo clásico para Mujer de Cuarzo con Cor
 
 🔎:
 
-- Brazalete Negro Piel de vaca
-- Movimiento Cuarzo
-- Caja Acero inoxidable, esfera Negro
-- Resistente al agua: 30m
 - Diámetro caja: 29mm
+- Brazalete Negro Piel de vaca
+- Caja Acero inoxidable, esfera Negro
+- Movimiento Cuarzo
+- Resistente al agua: 30m
 
 [Visítala!!!](https://www.amazon.es/dp/B01MSK7NXD/?tag=tolees-21)

@@ -25,8 +25,8 @@ Ahora mismo tienes [Fantasy Flight Games- Keyforge - Mundos en Colisión Caja de
 
 🔎:
 
-- Dos nuevas casas se unen al conflicto
 - Los mundos entrarán en colisión con la tercera serie de mazos de keyforge.
+- Dos nuevas casas se unen al conflicto
 - Mundos en colisión incluye 284 cartas nuevas que generan una nueva gama de mazos únicos para descubrir, explorar y dominar
 
 [Visítala!!!](https://www.amazon.es/dp/B07ZKYHDPB/?tag=tolees-21)

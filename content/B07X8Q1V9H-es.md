@@ -25,10 +25,10 @@ Tienes [DeepCool Matrexx 50 Black Case ATX USB 3.0 PC Gaming 0 6 mm SPCC con 4 V
 
 🔎:
 
-- Soporte para radiadores: frontal 120/140/240/280/360 mm / parte superior 120/140/240/280 mm / parte trasera 120 mm.
-- Frontal y panel lateral de cristal templado donde será posible resaltar toda la componente.
-- Deepcool matrexx 50 es compatible con tarjetas gráficas de hasta 370 mm (horizontal) y 340 mm (vertical) y CPU Cooler de hasta 168 mm de altura, cubierta cápsu, filtro antipolvo en el panel inferior y superior.
-- 4 ventiladores deslizantes de 120 mm preinstalados: 3 frontales 1 trasero; posibilidad de instalar ventiladores: Top 2 x 120 mm o 2 x 140 mm.
 - Carcasa spcc de 0,60 mm, compatible con placa base E-ATX, ATX, m-ATX, mini-ITX
+- Frontal y panel lateral de cristal templado donde será posible resaltar toda la componente.
+- 4 ventiladores deslizantes de 120 mm preinstalados: 3 frontales 1 trasero; posibilidad de instalar ventiladores: Top 2 x 120 mm o 2 x 140 mm.
+- Deepcool matrexx 50 es compatible con tarjetas gráficas de hasta 370 mm (horizontal) y 340 mm (vertical) y CPU Cooler de hasta 168 mm de altura, cubierta cápsu, filtro antipolvo en el panel inferior y superior.
+- Soporte para radiadores: frontal 120/140/240/280/360 mm / parte superior 120/140/240/280 mm / parte trasera 120 mm.
 
 [Comprar!!!](https://www.amazon.es/dp/B07X8Q1V9H/?tag=tolees-21)

@@ -26,9 +26,9 @@ Tienes [GIOSEPPO Bastogne  Zapatillas para Mujer  Blanco  37 EU](https://www.ama
 🔎:
 
 - Temporada Primavera Verano 2020
-- Mix texturas en colores neutros
-- Cuña interna 3cm
 - Cierre cordoneras al tono
+- Cuña interna 3cm
 - Sneakers Gioseppo para mujer
+- Mix texturas en colores neutros
 
 [Comprar!!!](https://www.amazon.es/dp/B07Y8FPL9T/?tag=tolees-21)

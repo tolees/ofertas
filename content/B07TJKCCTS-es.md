@@ -25,10 +25,10 @@ Ahora mismo tienes [Peaky Blinders  het bordspel ](https://www.amazon.es/dp/B07T
 
 🔎:
 
+- Caja ilustrada
+- Arthur Shelby
 - Licencia Oficial
 - Peaky Blinders
-- Arthur Shelby
 - Thomas Shelby
-- Caja ilustrada
 
 [Visítala!!!](https://www.amazon.es/dp/B07TJKCCTS/?tag=tolees-21)

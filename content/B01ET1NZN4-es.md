@@ -26,9 +26,9 @@ Tienes [Garza 400600 Temporizador analógico  Blanco](https://www.amazon.es/dp/B
 🔎:
 
 - Temporizador analógico de uso interior
-- Protección infantil
-- Con la garantía de Garza Power
-- Diseño compacto
 - Programación 24 horas: Conmutación cada 15 minutos
+- Diseño compacto
+- Con la garantía de Garza Power
+- Protección infantil
 
 [Comprar!!!](https://www.amazon.es/dp/B01ET1NZN4/?tag=tolees-21)

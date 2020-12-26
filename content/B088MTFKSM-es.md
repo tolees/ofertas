@@ -25,10 +25,10 @@ En este momento está [The Bellies From Bellyville- Beastie Misty  Amigo  Mascot
 
 🔎:
 
-- Cada Beastie viene con su accesorio, pañal y su Beastiepedia
 - Misty es la raza más presumida de todos los Beasties Cualquier cosa que parezca una joya va a querer que sea suya y que no te extrañe que se las ponga como accesorios
-- Recomendado a partir de 3 años; regalo que asegurará la diversión y risas de los más pequeños con muchas historias y contenido digital sobre ellos
 - Los Beasties son los mejores amigos de los Bellies, les encanta quitarles las cosas a los Bellies y son aún más traviesos
+- Cada Beastie viene con su accesorio, pañal y su Beastiepedia
 - Los Beasties tienen su propia experiencia, primero tendrán que quitarles una pequeña bacteria que traen y agitarlo para comprobar que no quedan más, después ponerle su propio nombre, fijarse en el chip para saber que raza les ha tocado y luego ver que caquita tiene en su pañal
+- Recomendado a partir de 3 años; regalo que asegurará la diversión y risas de los más pequeños con muchas historias y contenido digital sobre ellos
 
 [Aquí!!!](https://www.amazon.es/dp/B088MTFKSM/?tag=tolees-21)

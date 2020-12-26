@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft Surface Laptop 3 - Ordenador p con un 22.00 % de descuento'
-date: 2020-12-22 12:04:27
+date: 2020-12-26 11:19:45
 image: 'https://m.media-amazon.com/images/I/31QIVc4AK+L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,12 +25,12 @@ En este momento está [Microsoft Surface Laptop 3 - Ordenador portátil de 13.5"
 
 🔎:
 
-- Procesador Intel 10ª Gen. Core i5-1035G7 (1.2GHz Base, 3.7GHz Turbo)
-- Tarjeta gráfica Intel Iris plus 950
 - Pantalla táctil de 13.5 pulgadas (2256x1504 pixels)
-- Sistema operativo Windows 10 Home
-- Disco duro sólido de 128GB
+- Procesador Intel 10ª Gen. Core i5-1035G7 (1.2GHz Base, 3.7GHz Turbo)
 - Memoria RAM de 8GB LPDDR4X
 - Teclado QWERTY español, plata metálico
+- Disco duro sólido de 128GB
+- Tarjeta gráfica Intel Iris plus 950
+- Sistema operativo Windows 10 Home
 
 [Aquí!!!](https://www.amazon.es/dp/B07Y8RC33Z/?tag=tolees-21)

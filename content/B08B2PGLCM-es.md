@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FIFA 21 Standard | Código Origin para PC al 50.01 % de descuento'
-date: 2020-12-22 10:49:03
+date: 2020-12-26 11:02:27
 image: 'https://m.media-amazon.com/images/I/51lHYvffLpL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08B2PGLCM/?tag=tolees-21'
 descuento: '50.01'
-average: '31.41857142857143'
+average: '31.240000000000002'
 ---
 
 Ahora mismo tienes [FIFA 21 Standard | Código Origin para PC](https://www.amazon.es/dp/B08B2PGLCM/?tag=tolees-21) a 29.99 EUR (original: 59.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

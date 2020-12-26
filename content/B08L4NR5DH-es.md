@@ -25,10 +25,10 @@ Tienes [L Oreal Paris Make-up Designer Megavolumen Colágeno 24H Máscara De Pes
 
 ℹ️:
 
-- Fórmula con colágeno para volumen, impacto y intensidad 
 - Fácil aplicación sin grumos
-- Máscara de pestañas mega volumen, mega negro 24H 
-- Cepillo 2 veces más grueso que un cepillo clásico de LOréal Paris proporciona un volumen impactante
 - Cubre totalmente tus pestañas sin apelmazar, durante 24H Volumen Non-Stop
+- Cepillo 2 veces más grueso que un cepillo clásico de LOréal Paris proporciona un volumen impactante
+- Máscara de pestañas mega volumen, mega negro 24H 
+- Fórmula con colágeno para volumen, impacto y intensidad 
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08L4NR5DH/?tag=tolees-21)

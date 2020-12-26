@@ -26,8 +26,8 @@ En este momento está [Funko- Pop Movies: Gladiator – Commodus Collectible Toy
 🔎:
 
 - Figure stands 9cm and comes in a window display box
-- From gladiator, commodus, as a stylized pop vinyl from funko
 - Check out the other gladiator figures from funko collect them all
 - Funko pop. Is the 2018 toy of the year and peoples choice award winner
+- From gladiator, commodus, as a stylized pop vinyl from funko
 
 [Aquí!!!](https://www.amazon.es/dp/B07TWHH33H/?tag=tolees-21)

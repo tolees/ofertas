@@ -25,8 +25,8 @@ Tienes [Petzl E02 P4 nuevo e + Lite emergencia faro Ultra compacto  30 lúmene
 
 ℹ️:
 
-- Hasta 50 lúmenes.
-- Se puede utilizar para emergencias.
 - Ligeros.
+- Se puede utilizar para emergencias.
+- Hasta 50 lúmenes.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01KYTR0HM/?tag=tolees-21)
