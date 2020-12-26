@@ -25,10 +25,10 @@ Tienes [Merrell Trail Glove 5  Zapatillas Deportivas para Interior Hombre  Gris 
 
 🔎:
 
-- Material de la suela: Sintético
 - Revestimiento: Malla
-- Anchura del zapato: normal
 - Cierre: Cordones
+- Material de la suela: Sintético
+- Anchura del zapato: normal
 - Material exterior: Sintético
 
 [Comprar!!!](https://www.amazon.es/dp/B07KMC34JH/?tag=tolees-21)

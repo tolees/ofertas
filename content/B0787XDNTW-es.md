@@ -26,8 +26,8 @@ Ahora mismo tienes [Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Cu
 🔎:
 
 - Grosor de la caja: 6 mm; Tamaño de la caja: 36 mm; Ancho de la correa: 14 mm; Circunferencia de la correa: 175+/- 5mm
-- Reloj Jacqueline de piel rosada con tres agujas y fecha
 - Material de la correa: Piel; Resistente al agua: 3 ATM
+- Reloj Jacqueline de piel rosada con tres agujas y fecha
 - Se presenta en lata Fossil ilustrada de coleccionista (varios diseños)
 - Fossil
 
