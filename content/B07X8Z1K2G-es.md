@@ -27,8 +27,8 @@ Ahora mismo tienes [Barbie Quiero Ser maestra de arte  muñeca rubia con bebé y
 
 - Entre los accesorios del juego de barbie profesora de dibujo se incluyen un caballete con óptimaficie para pintar, recipientes de pintura y agua, una paleta, un pincel y un taburete para la niña pequeña
 - La muñeca barbie profesora de dibujo, lleva unos leggings, una camiseta y una bata vaquera e incluye una muñeca niña pequeña con un vestido y una mochila
-- Conjunto de juego de barbie profesora de dibujo con una muñeca rubia, una muñeca niña pequeña, un caballete que cambia de color, paleta, pincel, recipientes y taburete, para niños y niñas a partir de 3 años
-- Incluye todo lo necesario para una clase de dibujo, con la muñeca barbie profesora de dibujo, muñeca niña pequeña, y accesorios de dibujo para aprender y expresarse de forma creativa
 - Con el conjunto de juego de barbie profesora de dibujo, los niños y los más pequeños pueden sacar la creatividad que llevan dentro
+- Incluye todo lo necesario para una clase de dibujo, con la muñeca barbie profesora de dibujo, muñeca niña pequeña, y accesorios de dibujo para aprender y expresarse de forma creativa
+- Conjunto de juego de barbie profesora de dibujo con una muñeca rubia, una muñeca niña pequeña, un caballete que cambia de color, paleta, pincel, recipientes y taburete, para niños y niñas a partir de 3 años
 
 [Visítala!!!](https://www.amazon.es/dp/B07X8Z1K2G/?tag=tolees-21)

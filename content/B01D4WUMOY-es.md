@@ -25,10 +25,10 @@ Tienes [Termix PRO Styling Brush - Cepillo de pelo Alisador eléctrico Adaptable
 
 🔎:
 
-- Punta fría en el extremo para una mayor comodidad y seguridad de uso
-- Evita daños en tu pelo gracias a la tecnología innovadora de Termix que incorpora, como el Sistema de infrarrojos y el sistema iónico, que evitan la electricidad estática, aportan suavidad y evitan la rotura
-- Púas rígidas y gruesas, adaptables a todo tipo de cabellos
-- Tubo con recubrimiento de cerámica y turmalina para reducir el encrespamiento
 - Presenta un sistema de regulación digital de temperatura de 130º a 230º, que permite elegir la temperatura que más se adapte a tu cabello sin dañarlo
+- Evita daños en tu pelo gracias a la tecnología innovadora de Termix que incorpora, como el Sistema de infrarrojos y el sistema iónico, que evitan la electricidad estática, aportan suavidad y evitan la rotura
+- Tubo con recubrimiento de cerámica y turmalina para reducir el encrespamiento
+- Punta fría en el extremo para una mayor comodidad y seguridad de uso
+- Púas rígidas y gruesas, adaptables a todo tipo de cabellos
 
 [Comprar!!!](https://www.amazon.es/dp/B01D4WUMOY/?tag=tolees-21)

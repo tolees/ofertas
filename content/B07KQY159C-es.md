@@ -26,7 +26,7 @@ Tienes [NIKE NK Brsla M Duff-9.0  60L  Bolsa Lona de Deporte  Unisex Adulto  Mid
 🔎:
 
 - Dimensions: 71.1 cm L x 27.9 cm B x 33 cm H
-- Double handles and detachable shoulder strap
 - Training bag
+- Double handles and detachable shoulder strap
 
 [Comprar!!!](https://www.amazon.es/dp/B07KQY159C/?tag=tolees-21)

@@ -25,10 +25,10 @@ En este momento está [Orbegozo HCE 73 - Estufa de gas butano  cerámica  4200 W
 
 🔎:
 
-- Potencia de 4200 W
-- Encendido automático mediante pulsador
-- Cuenta con asas para transporte y ruedas pivotantes multidireccionales
 - Estufa cerámica con triple sistema de seguridad
+- Encendido automático mediante pulsador
+- Potencia de 4200 W
+- Cuenta con asas para transporte y ruedas pivotantes multidireccionales
 - Gas butano con un consumo máximo de 305 g/h
 
 [Aquí!!!](https://www.amazon.es/dp/B01M1NCHK8/?tag=tolees-21)

@@ -25,9 +25,9 @@ Tienes [KabelDirekt 3m Cable Óptico TOSLINK Audio   Stereo Dolby Digital Normal
 
 🔎:
 
-- Mano de obra Perfecto
+- Cable óptico TOSLINK - Compatible con cualquier dispositivo con clavija TOSLINK
 - 36 meses de garantía del fabricante
 - Altamente flexible - pero robusto
-- Cable óptico TOSLINK - Compatible con cualquier dispositivo con clavija TOSLINK
+- Mano de obra Perfecto
 
 [Comprar!!!](https://www.amazon.es/dp/B004YEI7Y4/?tag=tolees-21)

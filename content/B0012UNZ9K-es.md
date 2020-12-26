@@ -25,10 +25,10 @@ Tienes [Bosch 2607019444 - Set con 5 brocas para hormigón](https://www.amazon.e
 
 🔎:
 
-- Aviso de seguridad: utilizar gafas protectoras, máscara contra el polvo, orejeras y guantes durante el trabajo
-- Larga vida útil
-- Los orificios precisos garantizan una fijación firme del taco en la mampostería
 - Cinco brocas de alto rendimiento con punta resistente a la percusión para un rendimiento de perforación elevado y unos resultados precisos, incluso para hormigón duro
+- Los orificios precisos garantizan una fijación firme del taco en la mampostería
+- Larga vida útil
 - Apropiado para todas las marcas de herramientas eléctricas
+- Aviso de seguridad: utilizar gafas protectoras, máscara contra el polvo, orejeras y guantes durante el trabajo
 
 [Comprar!!!](https://www.amazon.es/dp/B0012UNZ9K/?tag=tolees-21)
