@@ -25,10 +25,10 @@ Tienes [Papel seda kraft  papel fino para envolver  patrones de costura  marrón
 
 ℹ️:
 
-- 100% reciclable respetuoso con el medio ambiente. Composición: 100% celulosa fibra larga. Fabricado en España
+- Se amolda con facilidad para adaptarse al producto al envolverlo. Resistente a la rotura, y al desgaste cuando se arruga, al tirar de él, no se rompe fácilmente. ¿Lo quieres de colores? Busca en Amazon el producto B08P9XX9T1
 - Papel manila seda color kraft de alta calidad, fino y resistente. Apto para envolver productos logrando un excelente empaquetado. También sirve para patrones, regalos, manualidades, calco, etc.
 - Superficie ligeramente brillante y satinada, a la vez que deja ver sus fibras recicladas, con un aspecto muy elegante. No se deteriora al contacto con aceites y grasas.
-- Se amolda con facilidad para adaptarse al producto al envolverlo. Resistente a la rotura, y al desgaste cuando se arruga, al tirar de él, no se rompe fácilmente. ¿Lo quieres de colores? Busca en Amazon el producto B08P9XX9T1
 - Pack de 100 hojas. Tamaño de la hoja: 28 x 62 cm, Gramaje: 24 gramos. También puede imprimirle su logo, es compatible con algunas impresoras domésticas (probar antes).
+- 100% reciclable respetuoso con el medio ambiente. Composición: 100% celulosa fibra larga. Fabricado en España
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07TBV5VXK/?tag=tolees-21)

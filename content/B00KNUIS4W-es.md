@@ -26,8 +26,8 @@ Tienes [Game of Thrones Figura Robb Stark 15 cm](https://www.amazon.es/dp/B00KNU
 🔎:
 
 - Hecho de plástico moldeado
-- Adecuado para niños a partir de 3 anos
-- Tiene una altura de 15 cm
 - Figura de Robb Stark de la serie Game of Thrones
+- Tiene una altura de 15 cm
+- Adecuado para niños a partir de 3 anos
 
 [Comprar!!!](https://www.amazon.es/dp/B00KNUIS4W/?tag=tolees-21)

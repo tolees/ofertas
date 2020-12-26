@@ -25,9 +25,9 @@ Está [Funko- Pop 18" Harry Potter S10 Figura Coleccionable  Multicolor  48054 ]
 
 ℹ️:
 
-- Descúbre otras figuras de la colección harry potter y colecciónalas todas
-- De la colección harry potter, 18" harry potter como figura de vinilo pop de funko
-- La figura mide 45 cm y se envía en una caja ilustrada con ventana
 - Funko pop el juguete del año 2018
+- La figura mide 45 cm y se envía en una caja ilustrada con ventana
+- De la colección harry potter, 18" harry potter como figura de vinilo pop de funko
+- Descúbre otras figuras de la colección harry potter y colecciónalas todas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B084R4WYR6/?tag=tolees-21)

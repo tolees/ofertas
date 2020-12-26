@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crucial P5 500GB CT500P5SSD8 Unidad inte al 27.56 % de descuento'
-date: 2020-12-24 07:24:45
+date: 2020-12-26 16:14:29
 image: 'https://m.media-amazon.com/images/I/317282Qw8CL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B087QTMXS7/?tag=tolees-21'
 descuento: '27.56'
-average: '73.9225'
+average: '73.336'
 ---
 
 Ahora mismo tienes [Crucial P5 500GB CT500P5SSD8 Unidad interna de estado sólido-hasta 3400 MB/s  3D NAND  NVMe  PCIe  M.2  2280SS ](https://www.amazon.es/dp/B087QTMXS7/?tag=tolees-21) a 70.99 EUR (original: 98.0 EUR) (27.56 %  de descuento) en el siguiente enlace!
