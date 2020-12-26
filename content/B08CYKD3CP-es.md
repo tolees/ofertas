@@ -26,8 +26,8 @@ En este momento está [Mimosín Intense Suavizante Explosión de Frescor 52 Lava
 🔎:
 
 - Una explosión de suavidad
-- Suavizante concentrado intenso
 - Mimosín Intense Explosión de Frescor
 - Permite mantener la suavidad de la ropa incluso después de una pequeña temporada en el armario
+- Suavizante concentrado intenso
 
 [Aquí!!!](https://www.amazon.es/dp/B08CYKD3CP/?tag=tolees-21)

@@ -26,8 +26,8 @@ Ahora mismo tienes [Mimosín Intense Suavizante Elixir Floral 52 Lavados  1196 m
 🔎:
 
 - Suavizante concentrado intenso
-- Mimosín Intense Elixir Floral
-- Permite mantener la suavidad de la ropa incluso después de una pequeña temporada en el armario
 - Una explosión de suavidad
+- Permite mantener la suavidad de la ropa incluso después de una pequeña temporada en el armario
+- Mimosín Intense Elixir Floral
 
 [Visítala!!!](https://www.amazon.es/dp/B08CYM47YG/?tag=tolees-21)
