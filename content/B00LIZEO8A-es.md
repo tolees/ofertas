@@ -26,8 +26,8 @@ En este momento está [Nines Artesanals D Onil- Muñeca Tita con Chupete  Color 
 🔎:
 
 - Incluye chupete
-- Cuerpo blandito y tacto suave y perfumado
 - Vestido de jacquard con gorrito a juego y botitas de piel
+- Cuerpo blandito y tacto suave y perfumado
 - 100% fabricado en España
 
 [Aquí!!!](https://www.amazon.es/dp/B00LIZEO8A/?tag=tolees-21)

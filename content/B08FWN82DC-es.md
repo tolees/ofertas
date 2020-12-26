@@ -26,9 +26,9 @@ Ahora mismo tienes [HNJKJEU Tiras de Pastel para Hornear  Tiras para Hornear Inc
 🔎:
 
 - BUENA CALIDAD Y SEGURO: hecho de algodón y poliéster, el raspador y el cuchillo de moldeo están hechos de plástico de calidad alimentaria, seguro de usar.
-- TAMAÑO ADECUADO: Una sola tira de pastel es perfecta para moldes para pasteles redondos de (6 "* 2") - 8 "- 9" -10 "y 12"
 - ÚTIL Y DURADERO: Ayuda a hornear pasteles húmedos y nivelados sin coronas, grietas, partes superiores agrietadas o bordes crujientes. Evita los centros altos y los bordes demasiado cocidos.
 - OTRAS HERRAMIENTAS: Para la decoración de la tarta se utiliza el kit raspador cortador de diferentes formas y dientes dentados y el cuchillo para pelar moldes para tartas.
+- TAMAÑO ADECUADO: Una sola tira de pastel es perfecta para moldes para pasteles redondos de (6 "* 2") - 8 "- 9" -10 "y 12"
 - GRAN PAQUETE: Incluye 1 paquete de tiras uniformes para hornear de 31.5 "de largo x 1.45" de ancho, 6 paquetes de raspador más suave para pasteles y 1 paquete de cuchillo de plástico para pelar moldes para pasteles, hacen que sea fácil de hornear.
 
 [Visítala!!!](https://www.amazon.es/dp/B08FWN82DC/?tag=tolees-21)

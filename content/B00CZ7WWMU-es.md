@@ -25,10 +25,10 @@ Ahora mismo tienes [Bolero Bebida Instantánea sin Azúcar  Sabor Té Melocotón
 
 🔎:
 
-- Disolver cada sobre en 1.5 L de agua
-- Edulcorado con Stevia
-- Sin conservantes artificiales. Saborizantes y colorantes de origen natural
 - Alérgenos: sin gluten, sin lactosa, sin huevo, sin frutos secos
+- Sin conservantes artificiales. Saborizantes y colorantes de origen natural
+- Edulcorado con Stevia
 - Bebida instantánea en polvo sin azúcar y con vitamina C. Baja en calorías y en carbohidratos
+- Disolver cada sobre en 1.5 L de agua
 
 [Visítala!!!](https://www.amazon.es/dp/B00CZ7WWMU/?tag=tolees-21)

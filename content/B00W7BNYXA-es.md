@@ -25,9 +25,9 @@ Ahora mismo tienes [Goliath-35880 Photo Pearls con 7500 Piezas  35.88 ](https://
 
 🔎:
 
-- 7500 perlas, instrucciones detalladas, acceso a la APP y software
-- Con Photopearls podrás crear mosaicos a partir de tus fotografías
 - Edad recomendada a partir de 7 años
 - Contiene 6 parillas de construcción, papel adhesivo
+- Con Photopearls podrás crear mosaicos a partir de tus fotografías
+- 7500 perlas, instrucciones detalladas, acceso a la APP y software
 
 [Visítala!!!](https://www.amazon.es/dp/B00W7BNYXA/?tag=tolees-21)

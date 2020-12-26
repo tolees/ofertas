@@ -25,8 +25,8 @@ En este momento está [Jack & Jones NOS Jacjens Sock 10 Pack Noos  Calcetines pa
 
 🔎:
 
-- Multipack
 - Suave
+- Multipack
 - 72% algodón, 26% poliéster, 2% elastano
 
 [Aquí!!!](https://www.amazon.es/dp/B079KCTDR8/?tag=tolees-21)

@@ -25,10 +25,10 @@ Ahora mismo tienes [Nenuco Summer- Muñeco bebé de Verano  niñas a Partir de 3
 
 🔎:
 
-- Recomendado para mayores de 3 años; ayuda a potencía r la coordinación y afectividad emocional
-- Nenuco es una muñeca de 35 cm de cuerpo duro, con pequitas y pelo rubio peinado en dos coletas; puede vestirse y desvestirse; para jugar en el agua
-- A nenuco summer le encanta jugar en la arena; con su gorrito y la crema estará bien protegida del sol, y al terminar el día, mira, se ha puesto morena
-- Protege la piel de nenuco summer con su cremita y ponle el gorrito
 - Incluye un gorrito rosa, un cubo y una pala para jugar en la arena, un botecito de crema rellenable y un trikini colorido con volantes
+- Protege la piel de nenuco summer con su cremita y ponle el gorrito
+- Recomendado para mayores de 3 años; ayuda a potencía r la coordinación y afectividad emocional
+- A nenuco summer le encanta jugar en la arena; con su gorrito y la crema estará bien protegida del sol, y al terminar el día, mira, se ha puesto morena
+- Nenuco es una muñeca de 35 cm de cuerpo duro, con pequitas y pelo rubio peinado en dos coletas; puede vestirse y desvestirse; para jugar en el agua
 
 [Visítala!!!](https://www.amazon.es/dp/B0837KLJPP/?tag=tolees-21)
