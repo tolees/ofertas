@@ -25,7 +25,7 @@ En este momento está [Ubi Heroes - Series 1 Chibi AC Ezio Figurine](https://www
 
 🔎:
 
-- height: 10 cm/ 4"
 - Chibi figure, inspired from Ezio in the Assassins Creed
+- height: 10 cm/ 4"
 
 [Aquí!!!](https://www.amazon.es/dp/B08BGJCLTJ/?tag=tolees-21)

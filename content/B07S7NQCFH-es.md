@@ -25,10 +25,10 @@ Ahora mismo tienes [Grifo Cocina bedee Grifo Cocina Extraible 100 cm Agua Fría 
 
 🔎:
 
-- 🍓🍓【Ahorro de agua】🍓🍓 Esta punta de grifo de cocina con un cabezal de espuma de ahorro de agua permite el agua suave sin ruido ni salpicaduras.
-- 🍓🍓【Material de alta calidad】🍓🍓 Hecho de 304 acero inoxidable, material de primera calidad (sin plomo). Resistente a la corrosión y a las altas temperaturas, producto de larga durabilidad y poco ruido durante el uso.Con válvula de cerámica, burbujeador de ABS, hasta 30% de ahorro de agua.
 - 🍓🍓【Riegue el rociador para una mejor limpieza】🍓🍓 este grifo del fregadero de la cocina con rociador desplegable le permite tirar de la cabeza unos 100 cm. Es muy fácil para usted limpiar el área de su fregadero y conveniente para limpiar sus alimentos o platos. Con la bola de gravedad de 192 g, la cabeza del rociador que se debe bajar siempre debe permanecer en su lugar original después de su uso.
+- 🍓🍓【Ahorro de agua】🍓🍓 Esta punta de grifo de cocina con un cabezal de espuma de ahorro de agua permite el agua suave sin ruido ni salpicaduras.
 - 🍓🍓【Ajuste Flexible】🍓🍓 Giratorio a 360º, apto para fregadero doble. El grifo de cocina con ducha extraíble, Diseño antideslizante y ducha extraíble ,Gracias a su diseño pullable, el rango de estiramiento máximo,alcanza los 100 cm después de la instalación,para poder llegar a todos los rincones del fregadero.
 - 🍓🍓【Controle el agua fría y caliente】🍓🍓 el simple manejo de este grifo de la ducha de la cocina facilita el control del agua fría y caliente.
+- 🍓🍓【Material de alta calidad】🍓🍓 Hecho de 304 acero inoxidable, material de primera calidad (sin plomo). Resistente a la corrosión y a las altas temperaturas, producto de larga durabilidad y poco ruido durante el uso.Con válvula de cerámica, burbujeador de ABS, hasta 30% de ahorro de agua.
 
 [Visítala!!!](https://www.amazon.es/dp/B07S7NQCFH/?tag=tolees-21)

@@ -25,11 +25,11 @@ Está [Tommy Hilfiger Heritage Boat Neck tee 3/4 Camiseta  Azul  Midnight/Classi
 
 ℹ️:
 
-- Logo de Tommy Hilfiger bordado en el pecho
+- Manga tres cuartos
 - Corte regular
+- Mezcla de viscosa elástica
+- Logo de Tommy Hilfiger bordado en el pecho
 - Cuello barco
 - Diseño de rayas
-- Manga tres cuartos
-- Mezcla de viscosa elástica
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07P7HPX1R/?tag=tolees-21)
