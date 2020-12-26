@@ -27,7 +27,7 @@ Tienes [Ana Maria Lajusticia - Jalea real liofilizada – 60 cápsulas. Reduce e
 
 - Tres veces más concentrado que la jalea real fresca.
 - Para temporadas de cansancio, decaimiento, falta de energía y desánimo.
-- También en épocas de exámenes y gran esfuerzo intelectual
 - Para personas con tendencia a resfriarse o en temporadas de invierno.
+- También en épocas de exámenes y gran esfuerzo intelectual
 
 [Comprar!!!](https://www.amazon.es/dp/B00DN9NRAK/?tag=tolees-21)

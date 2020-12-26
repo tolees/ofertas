@@ -26,9 +26,9 @@ Está [Grohe New Tempesta 210 - Sistema de ducha con diverter  Ref. 26381001 ](h
 ℹ️:
 
 - Ducha con Inner WaterGuide para protegerte de las quemaduras
+- Fácil de limpiar, gracias al recubrimiento cromado GROHE StarLight
+- Distribución uniforme del agua para todos los tipos de chorro
 - SpeedClean: boquillas antical para un funcionamiento duradero
 - El anillo de silicona ShockProof protege el cabezal de ducha
-- Distribución uniforme del agua para todos los tipos de chorro
-- Fácil de limpiar, gracias al recubrimiento cromado GROHE StarLight
 
 [Ver la oferta!!](https://www.amazon.es/dp/B075RC6XXN/?tag=tolees-21)

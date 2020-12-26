@@ -25,8 +25,8 @@ Tienes [Nissens 90682 Bloque de Motor](https://www.amazon.es/dp/B00DZMVTVY/?tag=
 
 ℹ️:
 
-- Clase de caja de cambios: Caja de cambios manual
 - Producto de calidad
+- Clase de caja de cambios: Caja de cambios manual
 - Malla radiador: 96 x 62 x 46 mm
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00DZMVTVY/?tag=tolees-21)

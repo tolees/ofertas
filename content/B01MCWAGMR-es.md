@@ -25,10 +25,10 @@ Está [RockJam Superkit de guitarra eléctrica de tamaño completo con amplifica
 
 ℹ️:
 
-- Sintonizador digital de guitarra clip con pantalla
-- Amplificador de 10 vatios con función de sobrealimentación y salida de auriculares con cable conector de guitarra
 - Tiene bolso con cierre de cremallera
 - Guitarra eléctrica de tamaño completo
+- Sintonizador digital de guitarra clip con pantalla
 - Incluye accesorios como correa, púas de guitarra y cable
+- Amplificador de 10 vatios con función de sobrealimentación y salida de auriculares con cable conector de guitarra
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01MCWAGMR/?tag=tolees-21)

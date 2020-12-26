@@ -25,10 +25,10 @@ Tienes [Shirylzee - Juego de manicura eléctrica  11 en 1  20000 rpm  velocidad 
 
 🔎:
 
-- Seguro y duradero: el kit de manicura eléctrico tiene un cuerpo de aluminio que puede contribuir a la disipación del calor eficaz y permite un largo tiempo de trabajo y ofrece una larga vida útil. Carga con fuente de alimentación, no te preocupes por el cambio de batería.
-- Introducción – Este dispositivo solo se puede utilizar con cables. Debe conectarse a una fuente de alimentación para utilizarlo.
-- Multifunción: manicura, pedicura. Nuestras limas de uñas eléctricas con 11 taladros, 16 bandas de lijado, 1 cepillo de uñas (envío aleatorio en azul o rojo), 1 lima de uñas, 1 cortador de uñas para la pedicura, de acero inoxidable, para recortar, limar, dar forma y pulir las uñas y para eliminar callos, cutículas, callos y callos.
 - Velocidad y dirección de rotación regulables: la velocidad se puede ajustar de 0 rpm a 20000 rpm (velocidad máxima). y puedes controlar fácilmente las direcciones de giro pulsando el botón hacia adelante y hacia atrás.
+- Multifunción: manicura, pedicura. Nuestras limas de uñas eléctricas con 11 taladros, 16 bandas de lijado, 1 cepillo de uñas (envío aleatorio en azul o rojo), 1 lima de uñas, 1 cortador de uñas para la pedicura, de acero inoxidable, para recortar, limar, dar forma y pulir las uñas y para eliminar callos, cutículas, callos y callos.
+- Introducción – Este dispositivo solo se puede utilizar con cables. Debe conectarse a una fuente de alimentación para utilizarlo.
+- Seguro y duradero: el kit de manicura eléctrico tiene un cuerpo de aluminio que puede contribuir a la disipación del calor eficaz y permite un largo tiempo de trabajo y ofrece una larga vida útil. Carga con fuente de alimentación, no te preocupes por el cambio de batería.
 - Fácil de usar: conecta el cable USB en el adaptador USB (o cualquier fuente de conexión USB) en la toma de corriente, selecciona la velocidad deseada girando el mando giratorio en la parte de la mano. El diseño compacto y ligero facilita el manejo y cambia la broca sin herramientas.
 
 [Comprar!!!](https://www.amazon.es/dp/B085DJL4GP/?tag=tolees-21)

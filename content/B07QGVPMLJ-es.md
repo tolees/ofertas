@@ -1,0 +1,34 @@
+---
+layout: post
+title: 'Umi. by Amazon Auriculares de botón inal al 30.01 % de descuento'
+date: 2020-12-26 20:33:46
+image: 'https://m.media-amazon.com/images/I/41e2QXsi6dL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07QGVPMLJ-es'
+actualPrice: 20.99 EUR
+currency: EUR
+price: 20.99
+comparePrice: 29.99 EUR
+prodname: 'Umi. by Amazon Auriculares de botón inalámbricos  TWS  W5s con Bluetooth 5.0 y certificación IPX7 compatibles con iPhone Samsung Huawei y Estuche metálico con Base de Carga  Plata '
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B07QGVPMLJ/?tag=tolees-21'
+descuento: '30.01'
+average: '20.99'
+---
+
+Ahora mismo tienes [Umi. by Amazon Auriculares de botón inalámbricos  TWS  W5s con Bluetooth 5.0 y certificación IPX7 compatibles con iPhone Samsung Huawei y Estuche metálico con Base de Carga  Plata ](https://www.amazon.es/dp/B07QGVPMLJ/?tag=tolees-21) a 20.99 EUR (original: 29.99 EUR) (30.01 %  de descuento) en el siguiente enlace!
+
+[![Umi. by Amazon Auriculares de botón inal](https://m.media-amazon.com/images/I/41e2QXsi6dL._SL200_.jpg)](https://www.amazon.es/dp/B07QGVPMLJ/?tag=tolees-21)
+
+🔎:
+
+- [Modo monoaural y biaural] Usa los dos auriculares juntos, solo uno de ellos o completamente por separado. Ambos auriculares te permiten controlar las acciones más comunes: reproducir, pausar, avanzar o retroceder la pista de audio, subir y bajar el volumen y gestionar las llamadas entrantes para responderlas, finalizarlas o rechazarlas. Es como tener dos auriculares completamente independientes. Conecta los auriculares a un solo dispositivo para compartir música con tus amigos o úsalos para con
+- [W5s con estuche inteligente para carga] Los auriculares se cargan automáticamente al cerrar la cubierta del estuche, que también es recargable. Los auriculares W5S te ofrecen hasta 6 horas de uso con una sola carga. Una carga completa de la base te permite cargar los auriculares entre 3 y 4 veces. Disfruta de 24 horas de música o tiempo de llamada, o bien de 100 horas de tiempo de inactividad con la función de carga rápida de una hora.
+- [Estuche metálico con tecnología patentada de gestión de la batería] La exclusiva tecnología patentada de gestión de la batería te permite cargar los auriculares de forma independiente para un máximo rendimiento. Coloca uno o ambos auriculares en la base. Una luz LED de color rojo indica que están cargando, mientras que una azul te avisa de que la carga ha terminado. Los auriculares se cargan automáticamente
+- [Tecnología Bluetooth 5.0 y graves claros] Gracias a la tecnología antinterferencias, la velocidad de transmisión mediante Bluetooth puede alcanzar hasta 48 MB/s desde una distancia de 15 metros. Disfruta de un sonido claro y olvídate de perder la conexión durante una llamada o mientras escuchas música. ¡Siente la música! El diseño estéreo único garantiza un sonido de gran calidad
+- [Diseño miniergonómico y certificación IPX7] Gracias a la superficie texturizada, el diseño invisible que se ajusta al oído, las suaves almohadillas y la tecnología inalámbrica, estos auriculares de alta calidad resultan muy prácticos y modernos. Disfruta de una auténtica experiencia manos libres con el certificado IPX7, que garantiza la resistencia al agua y al sudor. Elegante estuche metálico de bolsillo que también puedes llevar en la mano
+
+[Visítala!!!](https://www.amazon.es/dp/B07QGVPMLJ/?tag=tolees-21)

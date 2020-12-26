@@ -25,9 +25,9 @@ Tienes [Juego de Mesa para Niños Volcán Aventura de Play Fun - IMC Toys](https
 
 🔎:
 
-- El volcán puede estallar en todo momento a otro
-- multicolor
 - modelo: 96738IMIT
 - Ayuda los esploratori a poner en salvo las piedras
+- El volcán puede estallar en todo momento a otro
+- multicolor
 
 [Comprar!!!](https://www.amazon.es/dp/B07CVGZ4QR/?tag=tolees-21)

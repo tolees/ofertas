@@ -25,11 +25,11 @@ Está [Vans U Old Skool - Zapatillas  Unisex Adulto  Negro  Nero  Schwarz/Black/
 
 ℹ️:
 
-- Material Composición: Canvas/cuero
-- Ancho de caña: normal
-- Material exterior: cuero
-- Material interior: textil
 - Suela: Goma
+- Ancho de caña: normal
+- Material Composición: Canvas/cuero
+- Material interior: textil
 - Cierre: schnürband
+- Material exterior: cuero
 
 [Ver la oferta!!](https://www.amazon.es/dp/B001UKZZLS/?tag=tolees-21)

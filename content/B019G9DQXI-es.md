@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Pack Bond Daniel Craig Blu-Ray [Blu-ray] al 29.47 % de rebaja'
-date: 2020-12-25 15:26:42
-image: 'https://m.media-amazon.com/images/I/41lHmGjtWML._SL200_.jpg'
+date: 2020-12-26 20:58:10
+image: 'https://m.media-amazon.com/images/I/51hehOrSbXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -16,12 +16,12 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B019G9DQXI/?tag=tolees-21'
 descuento: '29.47'
-average: '23.3503125'
+average: '23.25088235294118'
 ---
 
 Tienes [Pack Bond Daniel Craig Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B019G9DQXI/?tag=tolees-21) con precio final de  21.66 EUR (original: 30.71 EUR) (29.47 %  de rebaja) aqui!
 
-[![Pack Bond Daniel Craig Blu-Ray [Blu-ray]](https://m.media-amazon.com/images/I/41lHmGjtWML._SL200_.jpg)](https://www.amazon.es/dp/B019G9DQXI/?tag=tolees-21)
+[![Pack Bond Daniel Craig Blu-Ray [Blu-ray]](https://m.media-amazon.com/images/I/51hehOrSbXL._SL200_.jpg)](https://www.amazon.es/dp/B019G9DQXI/?tag=tolees-21)
 
 🔎:
 

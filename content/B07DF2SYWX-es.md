@@ -25,9 +25,9 @@ Ahora mismo tienes [Xiaomi Estabilizador de Imagen para cámara de Deporte](http
 
 🔎:
 
-- Tiempo de carga: aproximadamente 2, 5.horas
 - Batería integrada: 5000.mah de litio
-- Compatible cámara xiaomi mi drone 4.k
+- Tiempo de carga: aproximadamente 2, 5.horas
 - 8.4 Voltios
+- Compatible cámara xiaomi mi drone 4.k
 
 [Visítala!!!](https://www.amazon.es/dp/B07DF2SYWX/?tag=tolees-21)

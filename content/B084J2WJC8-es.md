@@ -26,10 +26,10 @@ En este momento está [Educa- Aprender es Divertido: Los Números Juego Educativ
 🔎:
 
 - Versión española
-- Contenido: 40 piezas (10 encajables) e instrucciones
 - El primer paso para entrar en el universo de las matemáticas de una forma lúdica y divertida
+- Contenido: 40 piezas (10 encajables) e instrucciones
+- Aprenderán a diferenciar los números del 1 al 10, a relacionarlos con las cantidades
 - También, podrá similar el orden de los números
 - Recomendado a partir de 3 años
-- Aprenderán a diferenciar los números del 1 al 10, a relacionarlos con las cantidades
 
 [Aquí!!!](https://www.amazon.es/dp/B084J2WJC8/?tag=tolees-21)
