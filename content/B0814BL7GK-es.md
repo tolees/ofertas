@@ -26,9 +26,9 @@ Ahora mismo tienes [Columbia Abbott Peak Insulated Chaqueta De Esquí con Capuch
 🔎:
 
 - Colorida chaqueta de deportes de invierno con una combinación óptima de calidez, transpirabilidad y estilo. adecuada para actividades en temperaturas frías a cualquier altura
+- Contenido: 1x Columbia Abbott Peak Chaqueta aislante de esquí para Mujer, Shell: Todo poliéster; Forro: O-H Reflectante Todo poliéster; Aislamiento: Termostato Todo poliéster y 150g Microtemp XF II Todo poliéster, Gris, Blanco (Grey Ash/White/Cirrus Grey), M
 - Faldón para la nieve ajustable para protección adicional contra nieve y lluvia, Confortables puños con orificio para el pulgar para más personalización en la zona de las manos
 - Excelente calidez gracias al aislamiento del termostato con la tecnología Omni-Heat, Capucha ajustable para la protección esencial de los oídos y la cabeza, Impermeabilización Omni-Tech
 - Bolsillo para forfait, Bolsillo interior de seguridad, Bolsillo para gafas, Bolsillos para las manos con cremallera, Puños ajustables, Caída por detrás, Clip interno para llaves
-- Contenido: 1x Columbia Abbott Peak Chaqueta aislante de esquí para Mujer, Shell: Todo poliéster; Forro: O-H Reflectante Todo poliéster; Aislamiento: Termostato Todo poliéster y 150g Microtemp XF II Todo poliéster, Gris, Blanco (Grey Ash/White/Cirrus Grey), M
 
 [Visítala!!!](https://www.amazon.es/dp/B0814BL7GK/?tag=tolees-21)

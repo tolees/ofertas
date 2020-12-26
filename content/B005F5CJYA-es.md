@@ -25,10 +25,10 @@ Tienes [Trust Xstream Breeze - Base de refrigeración para Ordenador portátil h
 
 ℹ️:
 
-- El enchufe y el cable USB pueden colocarse dentro del soporte cuando no se estén utilizando
-- Refrigera el ordenador con mayor nivel de eficacia y protege su mobiliario o piernas del calor
 - Protectores de caucho para evitar que el ordenador se deslice y se raye
+- El enchufe y el cable USB pueden colocarse dentro del soporte cuando no se estén utilizando
 - Ventiladores alimentados por USB: no requiere conexión a la corriente eléctrica
 - Ideal para cualquier ordenador portátil, netbook o MacBook con tamaños de pantalla de hasta 16"
+- Refrigera el ordenador con mayor nivel de eficacia y protege su mobiliario o piernas del calor
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B005F5CJYA/?tag=tolees-21)

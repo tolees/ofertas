@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fisher Price Little People Bebés Nursery al 36.11 % de descuento'
-date: 2020-12-25 12:26:20
+date: 2020-12-26 13:16:22
 image: 'https://m.media-amazon.com/images/I/41g9Nsd7XyL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07X2TZ1SK/?tag=tolees-21'
 descuento: '36.11'
-average: '22.338333333333335'
+average: '21.884285714285713'
 ---
 
 Está [Fisher Price Little People Bebés Nursery  Mattel Gkp70 ](https://www.amazon.es/dp/B07X2TZ1SK/?tag=tolees-21) con 36.11 de descuento por 19.16 EUR (original: 29.99 EUR) en el siguiente enlace!

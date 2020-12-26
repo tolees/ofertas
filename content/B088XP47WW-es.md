@@ -25,12 +25,12 @@ Ahora mismo tienes [HUAWEI MatePad T8 - Tablet de 8"  Wifi  RAM de 2GB  ROM de 1
 
 🔎:
 
-- El cuerpo de metal con bordes curvos le da a la HUAWEI MatePad T 8 un aspecto elegante. Con un peso de solo 310 g, es tan ligera que puede meterla fácilmente en la bolsa o transportarlo con una sola mano para entretenerse o estudiar.
-- Con biseles laterales ultradelgados de 4.9 mm y una relación pantalla / cuerpo del 80%, la HUAWEI MatePad T 8 te brinda un amplio espacio en pantalla para un entretenimiento envolvente. Una tableta perfecta para ver tus películas favoritas y leer libros electrónicos mientras viajas.
 - Ofreciendo herramientas divertidas pero educativas para niños y controles parentales para ti, esta tableta es un lugar de juegos seguro para sus hijos.
 - El modo Eye Comfort mejorado ayuda a proteger los ojos de tus hijos de la luz azul. Y cuando estén viendo la tableta mientras están acostados, recibirán una alerta para ajustar el ángulo para proteger aún más la vista.
-- Al incorporar un chipset Octa-core avanzado, la HUAWEI MatePad T 8 ofrece velocidades de procesamiento rápidas, lo que te permite realizar tus tareas diarias sin esfuerzo
-- Esta tablet viene con EMUI 10.0.1 (basado en Android 10) y Huawei Mobile Services (HMS). No contiene los servicios de Google (GMS) preinstalados tales como Google Play Store, Gmail, YouTube, Google Maps, etc.
 - Con un rendimiento significativamente mejorado, el EMUI 10 le permite iniciar rápidamente y cambiar entre aplicaciones. Y el modo oscuro mejorado hace que sea más cómodo de leer.
+- Con biseles laterales ultradelgados de 4.9 mm y una relación pantalla / cuerpo del 80%, la HUAWEI MatePad T 8 te brinda un amplio espacio en pantalla para un entretenimiento envolvente. Una tableta perfecta para ver tus películas favoritas y leer libros electrónicos mientras viajas.
+- Esta tablet viene con EMUI 10.0.1 (basado en Android 10) y Huawei Mobile Services (HMS). No contiene los servicios de Google (GMS) preinstalados tales como Google Play Store, Gmail, YouTube, Google Maps, etc.
+- Al incorporar un chipset Octa-core avanzado, la HUAWEI MatePad T 8 ofrece velocidades de procesamiento rápidas, lo que te permite realizar tus tareas diarias sin esfuerzo
+- El cuerpo de metal con bordes curvos le da a la HUAWEI MatePad T 8 un aspecto elegante. Con un peso de solo 310 g, es tan ligera que puede meterla fácilmente en la bolsa o transportarlo con una sola mano para entretenerse o estudiar.
 
 [Visítala!!!](https://www.amazon.es/dp/B088XP47WW/?tag=tolees-21)

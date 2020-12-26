@@ -25,9 +25,9 @@ Ahora mismo tienes [Russell Hobbs Retro 21702-56 - Cafetera de goteo  jarra cafe
 
 🔎:
 
+- Incluye soporte de filtro lavable, indicador del nivel de agua y cuchara de medición, clase de eficiencia energética A++
 - Jarra de cristal de 1.25 litros para preparar 10 tazas grandes
 - Indica el progreso de preparación del café y el tiempo de la función de mantenimiento del calor y dispone también de función de pausa para servir
-- Incluye soporte de filtro lavable, indicador del nivel de agua y cuchara de medición, clase de eficiencia energética A++
 - Máquina Cafetera vintage de acero inoxidable con impresionantes adornos retro con potencia de 1000 vatios
 - Extracción de café mejorada; tecnología de rociado avanzada para extraer toda la esencia del café, logrando un sabor óptimo
 

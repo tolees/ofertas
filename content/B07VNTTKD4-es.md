@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lee Rider Vaqueros Slim  Azul  Lt Vintag al 57.99 % de rebaja'
-date: 2020-12-24 10:31:51
+date: 2020-12-26 13:04:23
 image: 'https://m.media-amazon.com/images/I/41EHkQ5Hi+L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,7 +26,7 @@ Tienes [Lee Rider Vaqueros Slim  Azul  Lt Vintage Worn LP   28W / 32L para Hombr
 🔎:
 
 - Cinco bolsillos
-- Tienen un parche de piel en la parte trasera con la marca Lee
 - De algodón muy suave
+- Tienen un parche de piel en la parte trasera con la marca Lee
 
 [Comprar!!!](https://www.amazon.es/dp/B07VNTTKD4/?tag=tolees-21)

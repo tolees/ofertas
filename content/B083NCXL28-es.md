@@ -25,11 +25,11 @@ En este momento está [MSI Prestige 14 A10RB-020ES - Ordenador portátil de 14" 
 
 🔎:
 
+- Procesador Intel Core i7-10510U (1.80Ghz,8MB)
 - Tarjeta Gráfica GeForce MX250 2GB GDDR5
 - Pantalla de 14" FullHD (1920*1080), IPS-Level 60Hz 72%NTSC Thin Bezel, close to 100%sRGB
-- Almacenamiento 1TB SSD NVMe PCIe Gen3x4
-- Procesador Intel Core i7-10510U (1.80Ghz,8MB)
 - Memoria RAM 16GB DDR4 2133Mhz
+- Almacenamiento 1TB SSD NVMe PCIe Gen3x4
 - Sistema operativo Windows 10 Pro without ODD
 
 [Aquí!!!](https://www.amazon.es/dp/B083NCXL28/?tag=tolees-21)

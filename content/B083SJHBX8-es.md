@@ -26,9 +26,9 @@ En este momento está [Bola de Cristal de Harry Potter jugando al Quidditch    H
 🔎:
 
 - Lleva la magia de los libros y películas a casa
-- Embalaje de marca a todo color
 - Pintado a mano y hecho a mano
 - El mundo mago de Harry Potter
 - Inspirado en los libros y películas
+- Embalaje de marca a todo color
 
 [Aquí!!!](https://www.amazon.es/dp/B083SJHBX8/?tag=tolees-21)

@@ -25,10 +25,10 @@ Tienes [Micro Player Pac Man](https://www.amazon.es/dp/B07CRTVM5F/?tag=tolees-21
 
 ℹ️:
 
-- Features artwork inspired by the original PAC-MAN arcade cabinet.
-- Removable joystick.
-- Volume control and 3.5mm headphone jack.
 - Full colour, 2.75 screen.
 - Perfect for any game room, office, or display case!
+- Features artwork inspired by the original PAC-MAN arcade cabinet.
+- Volume control and 3.5mm headphone jack.
+- Removable joystick.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CRTVM5F/?tag=tolees-21)
