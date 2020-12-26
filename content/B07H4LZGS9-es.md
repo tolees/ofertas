@@ -25,10 +25,10 @@ Tienes [Locisne Multi Colored 12 Mini Barba Adorno navideño Adornos con Adornos
 
 🔎:
 
-- Incluye un surtido de 12 adornos brillantes (6 forma redonda + 6 forma de gota en color de mezcla) y agarraderas mini barba para asegurar a la barba.
-- Las bolas miden alrededor de 20 mm de diámetro.
-- ¡Recorta estos mini adornos en tu cabello / barba y disfruta de lo bonito que se siente al ser un árbol de Navidad!
 - Tenga en cuenta: Mantenga el accesorio pequeño lejos de los niños.
+- Incluye un surtido de 12 adornos brillantes (6 forma redonda + 6 forma de gota en color de mezcla) y agarraderas mini barba para asegurar a la barba.
+- ¡Recorta estos mini adornos en tu cabello / barba y disfruta de lo bonito que se siente al ser un árbol de Navidad!
 - Adecuado para cabello facial corto o largo (no apto para rastrojo)
+- Las bolas miden alrededor de 20 mm de diámetro.
 
 [Comprar!!!](https://www.amazon.es/dp/B07H4LZGS9/?tag=tolees-21)

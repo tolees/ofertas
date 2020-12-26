@@ -25,10 +25,10 @@ Tienes [XL-S Medical Max Strength - Bloqueador de la absorción de Carbohidratos
 
 ℹ️:
 
-- El tratamiento es excelente para prevenir el aumento de peso y ayuda a perder más kilos que con solo dieta y ejercicio
-- Producto sanitario. Cumple con la normativa de productos sanitarios. Debe utilizarse con una dieta hipocalórica adecuada, actividad física y estilo de vida saludable. CPSP19162CAT
-- Formulado con Clavitanol, un complejo natural patentado a base de plantas y sin componentes artificiales - Clínicamente testado para reducir la ingesta de calorías provenientes de carbohidratos, azúcares y grasas
 - Los sticks granulados reducen la ingesta de calorías, disminuyen los antojos, controlan la glucosa en sangre y ayudan a perder peso - ¡Combate esos molestos kilos de más con XL-S Medical Max Strength!
 - Ingredientes de origen natural sin colorantes artificiales, sal o conservadores - XL-S Medical Max Strength incluye 2 x 60 sticks fáciles de tomar y llevar - Tratamiento de 2 meses
+- El tratamiento es excelente para prevenir el aumento de peso y ayuda a perder más kilos que con solo dieta y ejercicio
+- Formulado con Clavitanol, un complejo natural patentado a base de plantas y sin componentes artificiales - Clínicamente testado para reducir la ingesta de calorías provenientes de carbohidratos, azúcares y grasas
+- Producto sanitario. Cumple con la normativa de productos sanitarios. Debe utilizarse con una dieta hipocalórica adecuada, actividad física y estilo de vida saludable. CPSP19162CAT
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DNBP95Z/?tag=tolees-21)

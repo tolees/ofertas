@@ -25,10 +25,10 @@ En este momento está [WenVen Chaquetas de Algodón a Prueba de Viento Abrigos P
 
 🔎:
 
-- Rib cuffs for better fit and freedom of movement
-- Double collar and front closure for optimal wind repellent performance & high-density cotton outer shell and thick flannel lining enhanced heat retention performance
 - Machine wash (wash dark color clothes separately)
-- Metallic copper zipper and snaps offer better details and textures for this jacket
 - A must-have for your closet & suitable for everydays outfit and ideal piece for chilly days
+- Rib cuffs for better fit and freedom of movement
+- Metallic copper zipper and snaps offer better details and textures for this jacket
+- Double collar and front closure for optimal wind repellent performance & high-density cotton outer shell and thick flannel lining enhanced heat retention performance
 
 [Aquí!!!](https://www.amazon.es/dp/B071V8KGPK/?tag=tolees-21)

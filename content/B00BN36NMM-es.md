@@ -25,11 +25,11 @@ Está [D-Link DWR-921 - Router wireless 4G/LTE N300  3G  300 Mbps  WPS  4 puerto
 
 ℹ️:
 
-- Puedes usarlo con tu operador habitual de Internet o mediante SIM de datos de cualquier operador 3G / 4G; compatible con mini SIM o micro SIM mediante adaptador (no suministrado)
-- Velocidad máxima de subida por 4G: 50 Mbps
-- Dos antenas externas de telefonía para captar el máximo de cobertura 4G, ideal para lugares donde la señal 4G es débil
-- Velocidad máxima de descarga por 4G: 150 Mbps
-- Ranura para tarjeta SIM, compatible con todas las operadoras 3G/4G. Plug and Play
 - Tipo de conectividad: 3G, 4G, HSDPA, HSUPA
+- Velocidad máxima de descarga por 4G: 150 Mbps
+- Puedes usarlo con tu operador habitual de Internet o mediante SIM de datos de cualquier operador 3G / 4G; compatible con mini SIM o micro SIM mediante adaptador (no suministrado)
+- Ranura para tarjeta SIM, compatible con todas las operadoras 3G/4G. Plug and Play
+- Dos antenas externas de telefonía para captar el máximo de cobertura 4G, ideal para lugares donde la señal 4G es débil
+- Velocidad máxima de subida por 4G: 50 Mbps
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00BN36NMM/?tag=tolees-21)

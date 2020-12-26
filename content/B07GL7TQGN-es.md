@@ -27,8 +27,8 @@ Ahora mismo tienes [Barbie Muñeca Daisy vamos de viaje con accesorios  Mattel F
 
 - Daisy vamos de viaje, viene con un gatito, equipaje, guitarra y 9 accesorios
 - Daisy vamos de viaje es un gran regalo para viajeros de 3 a 9 años y fans de la serie barbie dreamhouse adventures
-- Además de su emblemática maleta morada, daisy tiene un montón de accesorios de viaje, como un cojín de cuello, una botella de agua, un cepillo de dientes y muchas cosas más
-- La maleta morada de daisy tiene un asa plegable y se abre para llenarla de diversión: decórala con las pegatinas incluidas
 - Regalo óptimo para niñas y niños de más de 3 años
+- La maleta morada de daisy tiene un asa plegable y se abre para llenarla de diversión: decórala con las pegatinas incluidas
+- Además de su emblemática maleta morada, daisy tiene un montón de accesorios de viaje, como un cojín de cuello, una botella de agua, un cepillo de dientes y muchas cosas más
 
 [Visítala!!!](https://www.amazon.es/dp/B07GL7TQGN/?tag=tolees-21)

@@ -26,9 +26,9 @@ Está [Juegos Bizak Atrapa Monsters  BIZAK 64011060    color/modelo surtido](htt
 ℹ️:
 
 - Juega solo o con tus amigos
-- Proyectará 4 diferentes tipos de monstruos
-- Busca en la oscuridad con la lámpara delatrapa monster y encuentra tu atrapa monsters
 - El contenedor se irá llenando mientras más monstruos atrapes
 - Quien atrape más monstruos ganará
+- Proyectará 4 diferentes tipos de monstruos
+- Busca en la oscuridad con la lámpara delatrapa monster y encuentra tu atrapa monsters
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07SHHF6DP/?tag=tolees-21)

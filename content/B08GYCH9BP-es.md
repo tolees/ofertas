@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Robot de cocina Mambo 9590. Con  al 42.32 % de rebaja'
-date: 2020-12-25 03:00:27
+date: 2020-12-26 15:08:55
 image: 'https://m.media-amazon.com/images/I/41ciOGxAh6L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08GYCH9BP/?tag=tolees-21'
 descuento: '42.32'
-average: '298.2933333333334'
+average: '297.18647887323954'
 ---
 
 Tienes [Cecotec Robot de cocina Mambo 9590. Con Jarra Habana  30 Funciones  Báscula incorporada  Jarra de Acero Inox  Capacidad 3 3 litros  Apta para lavavajillas ](https://www.amazon.es/dp/B08GYCH9BP/?tag=tolees-21) con precio final de  259.0 EUR (original: 449.0 EUR) (42.32 %  de rebaja) aqui!
@@ -25,10 +25,10 @@ Tienes [Cecotec Robot de cocina Mambo 9590. Con Jarra Habana  30 Funciones  Bás
 
 🔎:
 
-- 30 FUNCTIONS KITCHEN TOOL: crushes, chops, juices, mashes, roasts, paints, powdered, grates, heats, stirs, whips cream, mixes, cooks, preserves, kneades, steams, boils, keeps warm, fermented, boils in extra slow mode, SlowMambo and function turbo and much more. Ceramic Covered Habana Jug Integrated Scale
-- Stainless steel jug, dishwasher safe, for quick and easy cleaning. Thanks to the zero speed setting, it can also be used for cooking and frying, just like in a pot or pan, and without the necessary lid. With the innovative function of the roasting pan it is possible to sear food golden brown.
-- The SlowMambo movement allows you to cook at the lowest temperature setting, while the MamboMix mixing mixing spoon stirs the dishes and achieves an intense taste of all recipes. Safety seal of the lid to prevent splashes when using the turbo or chopping function, e.g. It offers a great kind of personalised possibilities in any preparation.
-- Includes a steam accessory with 2 functions, which is placed on the bowl. The security check system allows the cutting and mixing knives to be removed with the utmost safety for cleaning.
-- Boiling cups to perform 4 preparations at the same time. Ideal cooking in the pot, in the basket and in the steam pot below 2 levels saves time in the kitchen. Includes recipes and access to the Cecotec corporal community. The intelligent calorie control system moves between 0-10 strengths and simulates a strong, medium or weak flame.
+- Cestillo de hervir para poder preparar hasta 4 elaboraciones al mismo tiempo. Cocinar en la jarra, en el cestillo y en la vaporera a dos niveles es ideal para ahorrar tiempo en la cocina. Incluye un completo recetario y acceso a la comunidad social interactiva de Cecotec. El sistema inteligente de potencia calorífica oscila de 0 a 10 niveles simulando un fuego tradicional con llama suave, media o fuerte.
+- Robot de cocina multifunción con 30 funciones: trocea, pica, licua, tritura, sofríe, muele, pulveriza, ralla, recalienta, bate, yogurtera, monta, emulsiona, mezcla, cocina, remueve, cocina al vapor, escalfa, confita, amasa, cocina a baja temperatura, hierve, mantiene caliente, fermenta, SlowMambo, cocina con precisión grado a grado, cocina al baño maría, cocción lenta, velocidad cero y dispone de función Turbo. Jarra Habana de acero inoxidable con revestimiento cerámico. Báscula incorporada
+- Incorpora una vaporera de dos niveles con gran capacidad para poder cocinar al vapor sin límites. El accesorio se ensambla sin la tapa de la jarra para poder cocer al vapor una mayor superficie. Cuenta con Security Check System uno de los sistemas de seguridad más avanzados para poner y quitar las cuchillas fácilmente sin riesgo.
+- Jarra de acero inoxidable apta para una limpieza rápida y fácil en el lavavajillas. Su velocidad cero permite cocer y sofreír sin necesidad de poner velocidad, como si de una cazuela o una sartén se tratase. Y, además, con la ventaja de cocinar sin tapa. La innovadora función sofrito a una temperatura superior cuando desees utilizarla para dorar los alimentos.
+- Movimiento SlowMambo que permite cocinar a baja temperatura lentamente mientras remueve constantemente con la cuchara MamboMix de forma tradicional. Consigue los sabores más intensos. El tapón dosificador cuenta con un cierre de seguridad específico para triturar o dar golpes de Turbo sin riesgo de salpicaduras. Completamente personalizable en todos los parámetros para ofrecer infinidad de posibilidades en la cocina diaria.
 
 [Comprar!!!](https://www.amazon.es/dp/B08GYCH9BP/?tag=tolees-21)

@@ -27,8 +27,8 @@ Está [Geographical Norway Belissima - Chaqueta de invierno para mujer con capuc
 
 - Chaqueta para mujer con características funcionales.
 - Cierre: cremallera doble.
-- Corte entallado para hacer una hermosa silueta.
 - Acabados de alta calidad, estilo casual moderno, se puede combinar de muchas maneras.
 - Abrigo resistente al viento, al agua y al frío, forro extragrueso para que la mujer nunca pase frío.
+- Corte entallado para hacer una hermosa silueta.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B076PTMSCN/?tag=tolees-21)

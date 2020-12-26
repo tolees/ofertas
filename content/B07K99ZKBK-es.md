@@ -25,10 +25,10 @@ Tienes [Samsung C43J892 - Monitor Curvo de 43"  Dual Full HD  5ms  120 Hz  LED  
 
 🔎:
 
+- Kvm switch
 - Refresco de pantalla 120 hz
 - 2 puertos usb-c
-- Kvm switch
-- Monitor curvo 43 ultra panorámico (32:10), equivalente a dos monitores de 24 juntos
 - Altavoces stereo
+- Monitor curvo 43 ultra panorámico (32:10), equivalente a dos monitores de 24 juntos
 
 [Comprar!!!](https://www.amazon.es/dp/B07K99ZKBK/?tag=tolees-21)
