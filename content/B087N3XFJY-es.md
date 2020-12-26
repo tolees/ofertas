@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 27.50 % en Funko- Pop Star Wars: The Mandalorian-Ch'
-date: 2020-12-11 09:11:03
+title: 'Funko- Pop Star Wars: The Mandalorian-Ch con un 29.61 % de descuento'
+date: 2020-12-26 12:11:22
 image: 'https://m.media-amazon.com/images/I/41Y72z-HQQL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -10,23 +10,24 @@ slug: 'B087N3XFJY-es'
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9
-comparePrice: 21.93 EUR
+comparePrice: 22.59 EUR
 prodname: 'Funko- Pop Star Wars: The Mandalorian-Child w/Bag Figura Coleccionable  Multicolor  50963 '
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B087N3XFJY/?tag=tolees-21'
-descuento: '27.50'
+descuento: '29.61'
+average: '16.713333333333335'
 ---
 
-Tienes [Funko- Pop Star Wars: The Mandalorian-Child w/Bag Figura Coleccionable  Multicolor  50963 ](https://www.amazon.es/dp/B087N3XFJY/?tag=tolees-21) con un 27.50 % de descuento con precio de oferta de 15.9 EUR (original: 21.93 EUR) en el siguiente enlace!
+En este momento está [Funko- Pop Star Wars: The Mandalorian-Child w/Bag Figura Coleccionable  Multicolor  50963 ](https://www.amazon.es/dp/B087N3XFJY/?tag=tolees-21) a 15.9 EUR (original: 22.59 EUR) (29.61 %  de descuento) en el siguiente enlace!
 
 [![Funko- Pop Star Wars: The Mandalorian-Ch](https://m.media-amazon.com/images/I/41Y72z-HQQL._SL200_.jpg)](https://www.amazon.es/dp/B087N3XFJY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 - De la colección The Mandalorian, Child w/ Bag como figura de vinilo POP de Funko
-- Funko POP! El juguete del año 2018
-- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 - ¡Descúbre otras figuras de la colección Star Wars y colecciónalas todas!
+- La figura mide 9 cm y se envía en una caja ilustrada con ventana
+- Funko POP! El juguete del año 2018
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B087N3XFJY/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B087N3XFJY/?tag=tolees-21)

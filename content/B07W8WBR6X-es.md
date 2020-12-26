@@ -25,9 +25,9 @@ Está [Ultima Nature Comida Húmeda para Gatos con Salmón y Trucha  13 Multipac
 
 ℹ️:
 
-- 13 Multipacks compuestos por 4 bolsitas de 85 g
-- Alimento húmedo completo para gatos adultos
-- Cada multipack contiene 2 bolsitas de 85 g con bocaditos de salmón y 2 bolsitas de 85 g con bocaditos de trucha
 - Con proteínas de alta calidad, verduras y frutas
+- Alimento húmedo completo para gatos adultos
+- 13 Multipacks compuestos por 4 bolsitas de 85 g
+- Cada multipack contiene 2 bolsitas de 85 g con bocaditos de salmón y 2 bolsitas de 85 g con bocaditos de trucha
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07W8WBR6X/?tag=tolees-21)

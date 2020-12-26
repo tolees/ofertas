@@ -25,8 +25,8 @@ Está [adidas Galaxy 5  Running Shoe Hombre  Core Black/Footwear White/Footwear 
 
 ℹ️:
 
+- malla superior
 - Corte regular
 - Cordones de zapatos
-- malla superior
 
 [Ver la oferta!!](https://www.amazon.es/dp/B082T11XMP/?tag=tolees-21)

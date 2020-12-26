@@ -25,8 +25,8 @@ Está [tesa 05454-00100-00 05454-00100-00-Burlete de espuma-10m Blanca  White  1
 
 ℹ️:
 
-- Tesa moll burlete de espuma para puertas y ventanas; fácil de adaptar a cualquier desajuste
-- Para desajustes pequeños de 1 a 5 mm
 - Suave y flexible
+- Para desajustes pequeños de 1 a 5 mm
+- Tesa moll burlete de espuma para puertas y ventanas; fácil de adaptar a cualquier desajuste
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0071OREGG/?tag=tolees-21)

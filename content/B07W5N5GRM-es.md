@@ -25,9 +25,9 @@ Tienes [Ultima Nature Comida Húmeda para Gatos con Pollo y Aves del Corral  13 
 
 ℹ️:
 
-- 13 Multipacks compuestos por 4 bolsitas de 85 g
-- Cada multipack contiene 2 bolsitas de 85 g con bocaditos de pollo y 2 bolsitas de 85 g con bocaditos de aves del corral
 - Con proteínas de alta calidad, verduras y frutas
 - Alimento húmedo completo para gatos adultos
+- 13 Multipacks compuestos por 4 bolsitas de 85 g
+- Cada multipack contiene 2 bolsitas de 85 g con bocaditos de pollo y 2 bolsitas de 85 g con bocaditos de aves del corral
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07W5N5GRM/?tag=tolees-21)

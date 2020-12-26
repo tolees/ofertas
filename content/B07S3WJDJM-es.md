@@ -25,13 +25,13 @@ En este momento está [Lacor 25440 Paellera Antiadherente Eco-Piedra  Compatibil
 
 🔎:
 
-- Compatibilidad: todo tipo de cocinas, incluida la inducción. Apto para el horno
 - Medidas: Ø40 cm. Número de raciones aproximadamente: 9
+- Ahorro energético, hasta un 45% más eficiente, gracias a su fondo FULL INDUCTION. La base de aluminio permite una distribución homogénea del calor, permitiendo que los alimentos se cocinen rápidamente y de manera uniforme, sin apenas utilizar aceite
+- Incluyen asas ergonómicas extraíbles de silicona en color gris de alta resistencia (230ºC) y termo aislantes
+- Fácil limpieza interior y exterior gracias a su protección antiadherente
+- Compatibilidad: todo tipo de cocinas, incluida la inducción. Apto para el horno
 - Garantía de 2 años
 - Diseñada para uso doméstico y rendimiento profesional. Máxima resistencia al desgaste
-- Fácil limpieza interior y exterior gracias a su protección antiadherente
-- Incluyen asas ergonómicas extraíbles de silicona en color gris de alta resistencia (230ºC) y termo aislantes
-- Ahorro energético, hasta un 45% más eficiente, gracias a su fondo FULL INDUCTION. La base de aluminio permite una distribución homogénea del calor, permitiendo que los alimentos se cocinen rápidamente y de manera uniforme, sin apenas utilizar aceite
 - Paellera antiadherente Eco-Piedra fabricada en aluminio fundido de gran calidad y espesor. Recubrimiento antiadherente TRIcapa reforzado con partículas a base de piedra, libre de materiales tóxicos y pesados. Ecológico y libre de PFOA
 
 [Aquí!!!](https://www.amazon.es/dp/B07S3WJDJM/?tag=tolees-21)

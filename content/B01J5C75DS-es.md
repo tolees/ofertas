@@ -25,8 +25,8 @@ Tienes [Smile - 16522 - Bolsa Messenger Urban Nomad Wind S Azul oscuro](https://
 
 ℹ️:
 
-- Funda de cámara moderna con look "Old School"
 - Diseño exclusivo
+- Funda de cámara moderna con look "Old School"
 - Para cámara tamaño de bolsillo: Messenger Urban Nomad Wind
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01J5C75DS/?tag=tolees-21)

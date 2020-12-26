@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Professional 2607017160 Pack Unida al 60.58 % de rebaja'
-date: 2020-12-24 20:20:18
+date: 2020-12-26 12:07:28
 image: 'https://m.media-amazon.com/images/I/41qlWnt-XpL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0071IK9CI/?tag=tolees-21'
 descuento: '60.58'
-average: '14.700333333333333'
+average: '14.5253125'
 ---
 
 Tienes [Bosch Professional 2607017160 Pack Unidades para Atornillar  con Llave de carraca  versión estándar  Standard  750 W  Negro/Verde  1 pack  Set de 27 Piezas](https://www.amazon.es/dp/B0071IK9CI/?tag=tolees-21) con precio final de  11.9 EUR (original: 30.19 EUR) (60.58 %  de rebaja) aqui!
@@ -25,13 +25,13 @@ Tienes [Bosch Professional 2607017160 Pack Unidades para Atornillar  con Llave d
 
 🔎:
 
-- Incluye: 19 puntas de atornillar con codificación por colores; 5 llaves de vaso; 1 trinquete (giro reversible); 1 soporte universal de cambio rápido, magnético 1 adaptador para llave de vaso
 - Dimensiones: 12 x 8.9 x 3.3 cm
+- Incluye: 19 puntas de atornillar con codificación por colores; 5 llaves de vaso; 1 trinquete (giro reversible); 1 soporte universal de cambio rápido, magnético 1 adaptador para llave de vaso
 - Buena sujeción del tornillo mediante el imán integrado en el adaptador
+- Puntas de atornillar codificadas por colores para una buena y sencilla elección
+- Apropiadas para todas las marcas de herramientas eléctricas y destornilladores manuales
 - Disposición perfecta en el práctico depósito de clasificación
 - Puntas de atornillar duraderas para 5 tipos de cabeza de tornillo en 20 tamaños convencionales
-- Apropiadas para todas las marcas de herramientas eléctricas y destornilladores manuales
 - Buena sujeción y cambio rápido de las puntas de atornillar
-- Puntas de atornillar codificadas por colores para una buena y sencilla elección
 
 [Comprar!!!](https://www.amazon.es/dp/B0071IK9CI/?tag=tolees-21)

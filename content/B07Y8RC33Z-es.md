@@ -25,12 +25,12 @@ En este momento está [Microsoft Surface Laptop 3 - Ordenador portátil de 13.5"
 
 🔎:
 
-- Pantalla táctil de 13.5 pulgadas (2256x1504 pixels)
-- Procesador Intel 10ª Gen. Core i5-1035G7 (1.2GHz Base, 3.7GHz Turbo)
+- Sistema operativo Windows 10 Home
+- Disco duro sólido de 128GB
 - Memoria RAM de 8GB LPDDR4X
 - Teclado QWERTY español, plata metálico
-- Disco duro sólido de 128GB
+- Pantalla táctil de 13.5 pulgadas (2256x1504 pixels)
 - Tarjeta gráfica Intel Iris plus 950
-- Sistema operativo Windows 10 Home
+- Procesador Intel 10ª Gen. Core i5-1035G7 (1.2GHz Base, 3.7GHz Turbo)
 
 [Aquí!!!](https://www.amazon.es/dp/B07Y8RC33Z/?tag=tolees-21)

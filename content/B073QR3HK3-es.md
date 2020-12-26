@@ -25,10 +25,10 @@ En este momento está [Mimosín Concentrado Suavizante Jazmín 66lav x 8botellas
 
 🔎:
 
-- Mantiene una suavidad estupenda en todas las prendas
-- Permite mantener el color y el brillo
-- Promueve y se adapta a un secado más rápido
 - Suavizante concentrado con la fragancia de la flor de jazmín
 - Permite una duración de hasta 58 lavados
+- Mantiene una suavidad estupenda en todas las prendas
+- Promueve y se adapta a un secado más rápido
+- Permite mantener el color y el brillo
 
 [Aquí!!!](https://www.amazon.es/dp/B073QR3HK3/?tag=tolees-21)

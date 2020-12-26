@@ -26,9 +26,9 @@ Tienes [Citizen Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero CA42
 ℹ️:
 
 - Dial del reloj Citizen CA4210-16E: caracasa de 40 mm: 49 mm (corona incluida) x 45 mm de ancho x 13 mm de espesor.
-- Caja y embalaje: las cajas del reloj son originales, pero es para la región de Asia, podría ser diferente en la imagen que se muestra o diferente con la caja para los EE.UU. y mercado de la UE.
-- - -
 - -
+- - -
 - Incluye: manual Citizen (idioma español no garantizado) + caja Citizen (modelo de Asia).
+- Caja y embalaje: las cajas del reloj son originales, pero es para la región de Asia, podría ser diferente en la imagen que se muestra o diferente con la caja para los EE.UU. y mercado de la UE.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00R7PSPS0/?tag=tolees-21)

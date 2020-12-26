@@ -25,12 +25,12 @@ Tienes [TP-Link TL-MR3020 - Router de viaje Wi-Fi portátil  3G/4G de 300 Mbps  
 
 🔎:
 
-- Requisitos del sistema: Microsoft Windows 98SE, NT, 2000, XP, Vista o Windows 7, MAC OS, NetWare, UNIX o Linux
 - Wi-Fi con velocidad hasta 300 Mbps
-- Sim-unlocked, comparte su conexión 3G/4G, compatible con múltiples módems USB 3G/4G UMTS/HSPA+/HSPA/EVDO probados en condiciones reales
-- Funciona de tres formas diferentes según la situación: como router 3G/4G, router cliente WISP y router de viaje (AP Modelo)
 - Se envía en un embalaje certificado
-- El TL-MR3020 le permite estar conectado a Internet permanentemente gracias a su modo de conexión redundante 3G/4G y WAN
 - El tamaño y peso del TL-MR3020 lo convierten en el equipo ideal para llevárselo de viaje y compartir su conexión móvil en cualquier lugar con cobertura 3G/4G
+- Requisitos del sistema: Microsoft Windows 98SE, NT, 2000, XP, Vista o Windows 7, MAC OS, NetWare, UNIX o Linux
+- Funciona de tres formas diferentes según la situación: como router 3G/4G, router cliente WISP y router de viaje (AP Modelo)
+- Sim-unlocked, comparte su conexión 3G/4G, compatible con múltiples módems USB 3G/4G UMTS/HSPA+/HSPA/EVDO probados en condiciones reales
+- El TL-MR3020 le permite estar conectado a Internet permanentemente gracias a su modo de conexión redundante 3G/4G y WAN
 
 [Comprar!!!](https://www.amazon.es/dp/B00634PLTW/?tag=tolees-21)
