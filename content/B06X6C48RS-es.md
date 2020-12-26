@@ -25,8 +25,8 @@ En este momento está [Asmodee - El Mercado de los Ladrones  Edge Entertainment 
 
 🔎:
 
-- ¡y convertirte así en el ladrón con peor fama de todos!
 - En cada ronda de El Mercado de los Ladrones los jugadores lanzan los dados de botín y los reparten entre ellos
 - Usa tus ganancias para comprar planes de atracos, contratar a secuaces y hacerte con ropas elegantes
+- ¡y convertirte así en el ladrón con peor fama de todos!
 
 [Aquí!!!](https://www.amazon.es/dp/B06X6C48RS/?tag=tolees-21)

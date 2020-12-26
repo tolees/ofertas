@@ -26,8 +26,8 @@ Tienes [Minicuna colecho regulable Asalvo](https://www.amazon.es/dp/B01MSQFSR9/?
 🔎:
 
 - Incluye: colchón, bolsa de transporte con asas, almohada, funda almohada, edredón, funda edredón estampada y sábana bajera.
-- Ajustable a 5 alturas
 - Patas ajustables en 3 posiciones.
+- Ajustable a 5 alturas
 - Desenfundable y lavable.
 - Aptas para somier y canapé. Fijación con correas de más de 4 metros
 

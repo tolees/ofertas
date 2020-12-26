@@ -26,9 +26,9 @@ Tienes [Nidina 2 Leche Infantil  Caja de 3 Latas - 2400 g](https://www.amazon.es
 🔎:
 
 - Fórmula infantil única que contiene protect plus con bífidus lactis, una bifidobacteria que forma parte de la flora intestinal
-- Leche para bebés con inmunonutrientes protectores (hierro, zinc, vitaminas a, c y d) que contribuyen a la función normal del sistema inmunitario
-- Leche de continuación nidina, fórmula infantil en polvo desde los 6 meses sin aceite de palma
 - Alimento infantil con dha que ayuda al desarrollo cerebral normal
+- Leche para bebés con inmunonutrientes protectores (hierro, zinc, vitaminas a, c y d) que contribuyen a la función normal del sistema inmunitario
 - Leche de continuación desde los 6 meses
+- Leche de continuación nidina, fórmula infantil en polvo desde los 6 meses sin aceite de palma
 
 [Comprar!!!](https://www.amazon.es/dp/B0829GHC9Z/?tag=tolees-21)

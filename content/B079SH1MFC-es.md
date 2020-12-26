@@ -25,10 +25,10 @@ Está [GB Eye LTD  El Señor de los Anillos  Póney Pisador  Taza 3D](https://ww
 
 ℹ️:
 
+- Lavar a mano solamente.
+- Capacidad: 500 ml.
 - Taza 3D 100% oficial.
 - Cuidadosamente embalado para llegar en perfecto estado.
 - Inspirado en ti. Creado por nosotros.
-- Lavar a mano solamente.
-- Capacidad: 500 ml.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B079SH1MFC/?tag=tolees-21)

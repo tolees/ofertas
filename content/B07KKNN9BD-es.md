@@ -25,8 +25,8 @@ Tienes [Nike U Nk H86 Cap Metal Swoosh Hat  Unisex Adulto  Dark Grey/ Metallic S
 
 🔎:
 
-- 100% poliéster reciclado
-- Cierre ajustable
 - Ojales bordados
+- Cierre ajustable
+- 100% poliéster reciclado
 
 [Comprar!!!](https://www.amazon.es/dp/B07KKNN9BD/?tag=tolees-21)

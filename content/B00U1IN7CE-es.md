@@ -26,9 +26,9 @@ Ahora mismo tienes [Kitchen Craft Living Nostalgia - Tarro para azúcar  17 cm  
 🔎:
 
 - Elegante acabado en pintura gris
-- Tapa con asa
-- Lavable a mano
 - Con palabra Sugar
+- Lavable a mano
 - Fabricado de acero
+- Tapa con asa
 
 [Visítala!!!](https://www.amazon.es/dp/B00U1IN7CE/?tag=tolees-21)

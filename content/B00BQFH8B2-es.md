@@ -25,10 +25,10 @@ Ahora mismo tienes [TRIXIE flexi NEON GIANT  L  8 m  hasta 50 kg  Negro-Neón  P
 
 🔎:
 
-- Componentes reflectantes
 - Sistema de frenos de carrera corta
 - Correa retráctil
-- 8-10 m-cuerda larga cinta
+- Componentes reflectantes
 - Empuñadura ajustable
+- 8-10 m-cuerda larga cinta
 
 [Visítala!!!](https://www.amazon.es/dp/B00BQFH8B2/?tag=tolees-21)

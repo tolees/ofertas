@@ -25,10 +25,10 @@ Tienes [Haier WS50GA - Vinoteca de botellas  filtros carbono  filtro anti-uv  co
 
 🔎:
 
-- Filtro Carbon Activo: evita que los olores externos penetren por la porosidad del corcho y alteren las propiedades del vino
 - Sistema Anti-Vibraciones con compresor, para una mínima sonoridad
-- Clase A: bodega para vinos con la mayor eficiencia energética de su categoría
-- Filtro Anti UV: protege el vino de los rayos UV que pueden modificar el color y el sabor del vino
+- Filtro Carbon Activo: evita que los olores externos penetren por la porosidad del corcho y alteren las propiedades del vino
 - Diseño de cristal con baldas de madera: elegante y exclusivo, para dar un toque de sotisficación único a tu cocina
+- Filtro Anti UV: protege el vino de los rayos UV que pueden modificar el color y el sabor del vino
+- Clase A: bodega para vinos con la mayor eficiencia energética de su categoría
 
 [Comprar!!!](https://www.amazon.es/dp/B00GKMHRE4/?tag=tolees-21)
