@@ -25,10 +25,10 @@ En este momento está [El Desenlace Del Ladrón Hits - Edición Uncharted 4  Ver
 
 🔎:
 
-- Rango ESRB: T (adolescente)
-- Plataforma: PlayStation 4
 - Clasificación PEGI: 16
-- Edición del juego: básica
 - Género: acción/aventura
+- Plataforma: PlayStation 4
+- Edición del juego: básica
+- Rango ESRB: T (adolescente)
 
 [Aquí!!!](https://www.amazon.es/dp/B07FFFWP8T/?tag=tolees-21)

@@ -26,9 +26,9 @@ Tienes [Clatronic MA 3585 Cortafiambres  150 W  Acero Inoxidable  Plateado](http
 🔎:
 
 - Protección para las manos
-- Cuchilla de acero inoxidable de 19 cm de diámetro
-- Regulador de corte con calibrador (0-15 mm)
 - Fácil limpieza
+- Cuchilla de acero inoxidable de 19 cm de diámetro
 - Cuerpo en acero inoxidable
+- Regulador de corte con calibrador (0-15 mm)
 
 [Comprar!!!](https://www.amazon.es/dp/B00R7HH4LM/?tag=tolees-21)
