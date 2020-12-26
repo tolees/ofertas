@@ -1,31 +1,31 @@
 ---
 layout: post
-title: 'Descuento del 40.88 % en Asmodee- Heroes A Medida - Español  Colo'
-date: 2020-12-17 14:23:47
+title: 'Asmodee- Heroes A Medida - Español  Colo con un 49.75 % de descuento'
+date: 2020-12-26 19:40:39
 image: 'https://m.media-amazon.com/images/I/510UJLWsfjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07KTM6PK8-es'
-actualPrice: 17.73 EUR
+actualPrice: 15.07 EUR
 currency: EUR
-price: 17.73
+price: 15.07
 comparePrice: 29.99 EUR
 prodname: 'Asmodee- Heroes A Medida - Español  Color'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KTM6PK8/?tag=tolees-21'
-descuento: '40.88'
-average: '15.538'
+descuento: '49.75'
+average: '15.46'
 ---
 
-Tienes [Asmodee- Heroes A Medida - Español  Color](https://www.amazon.es/dp/B07KTM6PK8/?tag=tolees-21) con un 40.88 % de descuento con precio de oferta de 17.73 EUR (original: 29.99 EUR) en el siguiente enlace!
+En este momento está [Asmodee- Heroes A Medida - Español  Color](https://www.amazon.es/dp/B07KTM6PK8/?tag=tolees-21) a 15.07 EUR (original: 29.99 EUR) (49.75 %  de descuento) en el siguiente enlace!
 
 [![Asmodee- Heroes A Medida - Español  Colo](https://m.media-amazon.com/images/I/510UJLWsfjL._SL200_.jpg)](https://www.amazon.es/dp/B07KTM6PK8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
-- Juego de cartas
 - Juego de mesa
+- Juego de cartas
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B07KTM6PK8/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B07KTM6PK8/?tag=tolees-21)

@@ -25,10 +25,10 @@ En este momento está [L Oréal Paris Men Expert Hydra Sensitive Cuidado Hidrata
 
 🔎:
 
-- No grasa, no pegajosa, penetra rápidamente
-- Tono fresco y piel lisa
 - Protege de las agresiones y vuelve la piel más fuerte
 - Hidrata continuamente la piel
+- Tono fresco y piel lisa
 - Textura ultra-refrescante
+- No grasa, no pegajosa, penetra rápidamente
 
 [Aquí!!!](https://www.amazon.es/dp/B00X9W2ZQ8/?tag=tolees-21)

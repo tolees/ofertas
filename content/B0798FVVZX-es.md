@@ -26,7 +26,7 @@ En este momento está [Frantics](https://www.amazon.es/dp/B0798FVVZX/?tag=tolees
 🔎:
 
 - Compatibilidad: PlayStation 4
-- Número de jugadores: 1 - 4
 - Los minijuegos están presentados por un travieso anfitrión en la línea PlayLink
+- Número de jugadores: 1 - 4
 
 [Aquí!!!](https://www.amazon.es/dp/B0798FVVZX/?tag=tolees-21)

@@ -25,9 +25,9 @@ Ahora mismo tienes [Vans Ward  Sneaker Hombre  Canvas White White  39 EU](https:
 
 🔎:
 
-- Material exterior con doble costura para mayor durabilidad
 - Suela original tipo gofre
-- Marca Vans Sidestripe
+- Material exterior con doble costura para mayor durabilidad
 - Construcción vulcanizada
+- Marca Vans Sidestripe
 
 [Visítala!!!](https://www.amazon.es/dp/B073WW2HW2/?tag=tolees-21)

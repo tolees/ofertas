@@ -25,7 +25,7 @@ Ahora mismo tienes [Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Rosa  P
 
 🔎:
 
-- Con cordones.
 - Zapatillas Superga Fashion.
+- Con cordones.
 
 [Visítala!!!](https://www.amazon.es/dp/B07BQLMJQF/?tag=tolees-21)

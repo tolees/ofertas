@@ -25,11 +25,11 @@ En este momento está [Medion Akoya S6445 - Portátil ultrafino 15.6" FullHD  In
 
 🔎:
 
-- Procesador intel core i7-8565u (4 núcleos, 8 mb cache, 1.8 ghz hasta 4.6 ghz)
-- Memoria ram de 8 gb ddr4
-- Tarjeta gráfica integrada intel uhd graphics
-- Pantalla de 15,6", FullHD 1920x1080 pixeles
-- Sistema operativo windows 10 home plus
 - Almacenamiento de 256GB SSD M.2 PCIe NVMe
+- Memoria ram de 8 gb ddr4
+- Pantalla de 15,6", FullHD 1920x1080 pixeles
+- Tarjeta gráfica integrada intel uhd graphics
+- Procesador intel core i7-8565u (4 núcleos, 8 mb cache, 1.8 ghz hasta 4.6 ghz)
+- Sistema operativo windows 10 home plus
 
 [Aquí!!!](https://www.amazon.es/dp/B07QZS9SL3/?tag=tolees-21)

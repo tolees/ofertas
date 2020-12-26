@@ -28,8 +28,8 @@ En este momento está [Einhell GC- SP 2768 - Bomba de aguas sucias  270W  capaci
 - La bomba sumergible está equipada con una conexión universal (47,8 mm o G11/2 IG) y un ángulo de 90º para que se pueda conectar con toda flexibilidad
 - Su interruptor de flotación regulable sin límite permite la opción de funcionar de forma continua y encenderse y apagarse de forma preseleccionada
 - La bomba sumergible está provista de una empuñadura de transporte para desplazarla con comodidad; gracias al enrollado de cable integrado, el dispositivo se puede guardar de forma ordenada y segura en un abrir y cerrar de ojos
-- El sello mecánico de alta calidad de la bomba GC-SP 2768 protege su potente motor incluso en trabajos prolongados y tediosos sin necesidad de mantenimiento; la bomba sumergible es capaz de gestionar partículas grandes de hasta 5 mm con su capacidad de succión
-- La bomba sumergible GC-SP 2768 es un dispositivo potente y robusto para constructores, propietarios de viviendas y aficionados a la jardinería que buscan una bomba dinámica y de alta calidad para trabajos intensivos
 - Con 270 vatios de potencia, la bomba es capaz de gestionar un caudal de 6800 litros por hora; es posible vaciar piscinas, cubos de agua de lluvia y estanques en un abrir y cerrar de ojos, así como secar excavaciones y sótanos con rapidez
+- La bomba sumergible GC-SP 2768 es un dispositivo potente y robusto para constructores, propietarios de viviendas y aficionados a la jardinería que buscan una bomba dinámica y de alta calidad para trabajos intensivos
+- El sello mecánico de alta calidad de la bomba GC-SP 2768 protege su potente motor incluso en trabajos prolongados y tediosos sin necesidad de mantenimiento; la bomba sumergible es capaz de gestionar partículas grandes de hasta 5 mm con su capacidad de succión
 
 [Aquí!!!](https://www.amazon.es/dp/B00B18KADW/?tag=tolees-21)

@@ -25,8 +25,8 @@ En este momento está [American Tourister Disney Wavebreaker Marvel - Maleta  Cu
 
 🔎:
 
-- Superficie texturizada que protege de los arañazos
-- Cintas cruzadas, separador con cremallera y bolsillo que facilitan organizar el equipaje
 - Serigrafías de moda
+- Cintas cruzadas, separador con cremallera y bolsillo que facilitan organizar el equipaje
+- Superficie texturizada que protege de los arañazos
 
 [Aquí!!!](https://www.amazon.es/dp/B07BZ293DQ/?tag=tolees-21)

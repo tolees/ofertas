@@ -25,10 +25,10 @@ Está [Figura con motivos navideños de la Cenicienta  Jack y Gusgus  Disney  Re
 
 ℹ️:
 
+- La figura está hecha de resina
 - Personajes clásicos de Disney
 - Hecho y pintado a mano
-- Colección Disney - Cenicienta
 - Ideal como regalo
-- La figura está hecha de resina
+- Colección Disney - Cenicienta
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07N83TTZ6/?tag=tolees-21)

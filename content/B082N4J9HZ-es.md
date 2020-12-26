@@ -25,10 +25,10 @@ Tienes [Skechers Ultra Flex  Zapatillas Mujer  Black  37 EU](https://www.amazon.
 
 🔎:
 
-- Bio-Dry
+- Lavable a máquina
 - Espuma viscoelástica refrigerada por aire
 - 0
-- Lavable a máquina
 - Ajuste elástico
+- Bio-Dry
 
 [Comprar!!!](https://www.amazon.es/dp/B082N4J9HZ/?tag=tolees-21)
