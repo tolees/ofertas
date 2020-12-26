@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FIFA 21 Champions | Código Origin para P al 50.01 % de rebaja'
-date: 2020-12-23 15:45:21
+date: 2020-12-26 07:24:45
 image: 'https://m.media-amazon.com/images/I/51mGVRFzDeL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08B2QD4BW/?tag=tolees-21'
 descuento: '50.01'
-average: '40.656666666666666'
+average: '40.49'
 ---
 
 Tienes [FIFA 21 Champions | Código Origin para PC](https://www.amazon.es/dp/B08B2QD4BW/?tag=tolees-21) con precio final de  39.99 EUR (original: 79.99 EUR) (50.01 %  de rebaja) aqui!
