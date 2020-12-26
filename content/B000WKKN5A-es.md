@@ -25,10 +25,10 @@ Tienes [Pentel 100526 - Juego de ceras pastel al aceite  50 unidades   multicolo
 
 ℹ️:
 
-- Dilute with turps of mineral spirits for liquid-like application in order to blend and shade colours
 - Fade-resistant colours
+- Dilute with turps of mineral spirits for liquid-like application in order to blend and shade colours
 - Oil Pastels with a creamy softness - easy to use
-- Blend smoothly and easily for subtle shades, tints or colour mixtures
 - Apply directly to canvas, paper or other media for thick, thin, rough or smooth effects
+- Blend smoothly and easily for subtle shades, tints or colour mixtures
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000WKKN5A/?tag=tolees-21)

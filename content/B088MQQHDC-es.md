@@ -26,7 +26,7 @@ En este momento está [Skip - Liquido Active Clean  170 lavados](https://www.ama
 🔎:
 
 - Eficacia quitamanchas, incluso en ciclos cortos y en agua fría
-- Pack XXL Skip Detergente líquido Active Clean 170 lavados (85 + 85)
 - Fragancia fresca y limpia, que deja en la ropa una sensación de recién lavado más duradera
+- Pack XXL Skip Detergente líquido Active Clean 170 lavados (85 + 85)
 
 [Aquí!!!](https://www.amazon.es/dp/B088MQQHDC/?tag=tolees-21)

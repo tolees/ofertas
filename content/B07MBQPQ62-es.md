@@ -25,10 +25,10 @@ Ahora mismo tienes [Samsung 970 Evo Plus  Unidad de Estado Sólido M.2 1000GB V-
 
 🔎:
 
-- Interface : NVMe (PCIe Gen 3.0 x 4)
-- Form Factor : M.2
-- Designed for tech enthusiasts, hardcore gamers and professionals who need unrivaled performance
 - Sequential Read/Write speeds up to 3,500/3,300 MB/s respectively. Performance varies based on system hardware and configuration
+- Designed for tech enthusiasts, hardcore gamers and professionals who need unrivaled performance
 - Available Capacity : Up to 2 TB
+- Form Factor : M.2
+- Interface : NVMe (PCIe Gen 3.0 x 4)
 
 [Visítala!!!](https://www.amazon.es/dp/B07MBQPQ62/?tag=tolees-21)

@@ -25,11 +25,11 @@ Ahora mismo tienes [MSI GF63 Thin 10SCXR-042XES - Ordenador portátil de 15.6" F
 
 🔎:
 
-- Memoria RAM de 16GB DDR IV (2666MHz)
-- Tarjeta gráfica Nvidia GeForce GTX 1650 MAX Q de GDDR5 4 GB
-- Pantalla de 15.6" FHD (1920*1080), IPS-Level 60Hz 45%NTSCThin Bezel
-- Disco SSD de 1 TB NVMe PCIe Gen3x4
 - Procesador Intel i7-10750H (6 núcleos, 12 MB Cache, 2.6 GHz hasta 5 GHz)
+- Disco SSD de 1 TB NVMe PCIe Gen3x4
+- Tarjeta gráfica Nvidia GeForce GTX 1650 MAX Q de GDDR5 4 GB
 - Sin sistema operativo
+- Pantalla de 15.6" FHD (1920*1080), IPS-Level 60Hz 45%NTSCThin Bezel
+- Memoria RAM de 16GB DDR IV (2666MHz)
 
 [Visítala!!!](https://www.amazon.es/dp/B086V7RGHD/?tag=tolees-21)
