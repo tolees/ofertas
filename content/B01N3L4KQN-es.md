@@ -26,7 +26,7 @@ Tienes [Game of Thrones Serie TV Pin la Mano de la Reina  Dark Horse DKHHBO00047
 🔎:
 
 - Para los fans de Game Of Thrones
-- Accesorio perteneciente a la licencia Game Of Thrones
 - Producto oficial Game Of Thrones
+- Accesorio perteneciente a la licencia Game Of Thrones
 
 [Comprar!!!](https://www.amazon.es/dp/B01N3L4KQN/?tag=tolees-21)

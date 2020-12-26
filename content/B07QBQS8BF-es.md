@@ -25,9 +25,9 @@ En este momento está [Nuevo Cartel de Alarma Conectada de PVC expandido de 3mm.
 
 🔎:
 
+- Cartel de alarma y vídeovigilancia de PVC expandido 3mm para exterior
 - Diseño en a4 21x30 con rojo intenso ideal para exterior
 - PVC expandido ( forex) resistente al fuego y a la intemperie; fácil instalación para una máxima protección frente a intrusos
 - Si compras el cartel para nuestra alarma wifi w07pro, te abonamos el importe de un cartel para que dispongas del cartel gratuitamente
-- Cartel de alarma y vídeovigilancia de PVC expandido 3mm para exterior
 
 [Aquí!!!](https://www.amazon.es/dp/B07QBQS8BF/?tag=tolees-21)

@@ -25,8 +25,8 @@ Tienes [Corteco 407711S Bloque de Motor](https://www.amazon.es/dp/B00CUWHDLU/?ta
 
 ℹ️:
 
-- Diámetro exterior [mm]: 22
-- Diámetro interior [mm]: 16,3
 - EsPesor [mm]: 2
+- Diámetro interior [mm]: 16,3
+- Diámetro exterior [mm]: 22
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00CUWHDLU/?tag=tolees-21)

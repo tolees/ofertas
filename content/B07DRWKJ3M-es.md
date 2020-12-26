@@ -27,8 +27,8 @@ En este momento está [Amigo 01880 Familia Juego  Multicolor](https://www.amazo
 
 - A partir de 6 años
 - 12 tarjetas de Nueva acción para aún más diversión.
-- 2 – 6 jugadores
-- del éxito de autor de halli Galli – haim shafir
 - igenständig y también como ampliación spielbar
+- del éxito de autor de halli Galli – haim shafir
+- 2 – 6 jugadores
 
 [Aquí!!!](https://www.amazon.es/dp/B07DRWKJ3M/?tag=tolees-21)

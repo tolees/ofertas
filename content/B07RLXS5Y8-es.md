@@ -25,8 +25,8 @@ En este momento está [Salomon TRAILSTER 2 W  Zapatillas de Running para Asfalto
 
 🔎:
 
-- Shoes trailster (l40963000)
 - Calzado salomon
 - Zapatillas de running running mujer
+- Shoes trailster (l40963000)
 
 [Aquí!!!](https://www.amazon.es/dp/B07RLXS5Y8/?tag=tolees-21)

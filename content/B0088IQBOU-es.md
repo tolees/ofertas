@@ -25,10 +25,10 @@ En este momento está [Caldex - Comedero doble alto con platos  2 x 1600 ml  300
 
 🔎:
 
-- Alto Soporte Comedero
 - Fácil De Llenar
 - admite cualquier One O DOS PLATOS
-- Viene Con Dos perro BOLS
+- Alto Soporte Comedero
 - más fácil Comida para perros
+- Viene Con Dos perro BOLS
 
 [Aquí!!!](https://www.amazon.es/dp/B0088IQBOU/?tag=tolees-21)

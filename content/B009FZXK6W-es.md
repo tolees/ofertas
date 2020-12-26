@@ -25,11 +25,11 @@ Está [Allocacoc 1100GN/DEORPC Power Cube Original  16 W  Verde](https://www.ama
 
 ℹ️:
 
-- Adaptador y enchufe múltiple de viaje con 5 tomas
 - Carga máxima: 3500 W (16 A)
-- Voltaje nominal de entrada: 220 - 240V
+- Adaptador y enchufe múltiple de viaje con 5 tomas
 - Voltaje nominal de entrada: 220-240V
 - Carga máxima: 3500 W (16 A)
 - Adaptador y enchufe múltiple de viaje con 5 tomas
+- Voltaje nominal de entrada: 220 - 240V
 
 [Ver la oferta!!](https://www.amazon.es/dp/B009FZXK6W/?tag=tolees-21)

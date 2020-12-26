@@ -25,10 +25,10 @@ Tienes [Imetec Zero-Glu - Panificadora  20 Programas Pan y Dulces  sin Gluten  A
 
 ℹ️:
 
+- Elaboración con levadura tradicional y masa madre
+- Hace todo sola: amasa, fermenta y cuece con encendido programable de hasta 15 horas
+- Panificadora para pan y postres sin gluten hechos en casa
 - 20 programas adecuados para todo tipo de harinas: 7 sin gluten para celíacos, 6 dietéticos, 7 tradicionales; tres moldes diferentes para pan
 - Recetario con 100 recetas dulces y saladas del Chef Marco Scaglione
-- Panificadora para pan y postres sin gluten hechos en casa
-- Hace todo sola: amasa, fermenta y cuece con encendido programable de hasta 15 horas
-- Elaboración con levadura tradicional y masa madre
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00KU2O2R0/?tag=tolees-21)

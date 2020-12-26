@@ -28,7 +28,7 @@ Ahora mismo tienes [Barbie National Geographic Quiero Ser Conservadora de la nat
 - A las jóvenes mentes les encantará ayudar a barbie y a national geographic trabajando como científicas, exploradores y educadores muñecas coleccionables
 - La muñeca barbie conservadora de la vida salvaje luce pantalones marrones, una blusa marrón clara con insignias y bolsillos, y zapatos verdes
 - La muñeca barbie y national geographic colaboran para fomentar la imaginación, la expresión y los descubrimientos a través de la diversión
-- Regalo para niñas y niños de entre 3 y 7 años que sienten curiosidad por el mundo, la naturaleza y la ciencia
 - Muñeca barbie conservadora de la vida salvaje, morena con mono y libreta, inspirada en national geographic
+- Regalo para niñas y niños de entre 3 y 7 años que sienten curiosidad por el mundo, la naturaleza y la ciencia
 
 [Visítala!!!](https://www.amazon.es/dp/B07NQGDXRS/?tag=tolees-21)

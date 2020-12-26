@@ -25,10 +25,10 @@ Está [SEVERIN Microondas  Incl. Plato Giratorio  Ø 31 5 cm   con Temporizador 
 
 ℹ️:
 
-- Calidad alemana, carcasa de metal de alta calidad, fácil de limpiar con un paño húmedo, plato giratorio extraíble
-- Contenido: 1 microondas, incl. plato giratorio, MW 7873, material metal/plástico, dimensiones (LxAnxAl) 51.7 x 42.8 x 30.5 cm, peso 14,71 kg, potencia 900 W, color blanco
-- Fácil de usar: Espacioso interior con plato giratorio: (Ø 31,5 cm), programa de descongelación por peso y tiempo, potencia máxima del microondas de 900 W
 - Microondas de alta calidad, para calentar y descongelar alimentos, con 2 mandos giratorios con 5 niveles de potencia y ajuste de temporizador con señal de aviso integrada
 - Atractivo diseño interior y exterior: interior revestido con iluminación, carcasa altamente resistente al calor
+- Contenido: 1 microondas, incl. plato giratorio, MW 7873, material metal/plástico, dimensiones (LxAnxAl) 51.7 x 42.8 x 30.5 cm, peso 14,71 kg, potencia 900 W, color blanco
+- Fácil de usar: Espacioso interior con plato giratorio: (Ø 31,5 cm), programa de descongelación por peso y tiempo, potencia máxima del microondas de 900 W
+- Calidad alemana, carcasa de metal de alta calidad, fácil de limpiar con un paño húmedo, plato giratorio extraíble
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00JGF6LPS/?tag=tolees-21)
