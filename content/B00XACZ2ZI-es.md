@@ -26,9 +26,9 @@ Ahora mismo tienes [Durex Preservativos Originales Natural Plus Talla XL - 12 co
 🔎:
 
 - Condones lubricados: lubricación de silicona para una experiencia más suave
-- Preservativos extra grandes: perímetro de anchura nominal de 60mm para un mayor comfort
 - Durex natural, transparentes: los preservativos originales de durex son transparentes y de látex de caucho natural
-- Forma recta: preservativos de forma recta y depósito
 - Preservativos de grosor medio
+- Preservativos extra grandes: perímetro de anchura nominal de 60mm para un mayor comfort
+- Forma recta: preservativos de forma recta y depósito
 
 [Visítala!!!](https://www.amazon.es/dp/B00XACZ2ZI/?tag=tolees-21)

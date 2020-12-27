@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Safety 1st Easy Close Metal Barrera de s con un 16.67 % de descuento'
-date: 2020-12-25 16:55:20
+date: 2020-12-27 18:55:54
 image: 'https://m.media-amazon.com/images/I/314MjX8c4HL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0177W8HBW/?tag=tolees-21'
 descuento: '16.67'
-average: '31.566486486486482'
+average: '31.7425641025641'
 ---
 
 En este momento está [Safety 1st Easy Close Metal Barrera de seguridad metalica para puertas y escaleras  puerta de seguridad 80 cm hasta 136 cm con extensiones  barrera escalera bebé  niños y perros  Blanco](https://www.amazon.es/dp/B0177W8HBW/?tag=tolees-21) a 35.0 EUR (original: 42.0 EUR) (16.67 %  de descuento) en el siguiente enlace!
@@ -25,11 +25,11 @@ En este momento está [Safety 1st Easy Close Metal Barrera de seguridad metalica
 
 🔎:
 
+- Se puede extender hasta 136 cm con extensiones separadas (7 cm, 14 cm, 28 cm)
 - El indicador visual SecureTech confirma cuándo la barrera de escalera está bien cerrada e instalada
-- Fácil de instalar: esta barrera para niños se fija con cuatro tornillos de ajuste dentro de las puertas o escaleras con una abertura de 73 cm a 80 cm; no es necesario hacer agujeros
 - Seguridad: gracias al doble sistema de cierre, los niños no pueden abrir la puerta, mientras que los adultos pueden abrirla con una mano en ambas direcciones
 - Autoajuste: la desalineación/ranura inicial a nivel del mecanismo de cierre desaparece apretando los tornillos de fijación en el marco
-- Se puede extender hasta 136 cm con extensiones separadas (7 cm, 14 cm, 28 cm)
 - Para barandillas redondas: utilizar los adaptadores en Y (disponibles por separado), la puerta también puede fijarse a barandillas redondas de hasta 10 cm de diámetro
+- Fácil de instalar: esta barrera para niños se fija con cuatro tornillos de ajuste dentro de las puertas o escaleras con una abertura de 73 cm a 80 cm; no es necesario hacer agujeros
 
 [Aquí!!!](https://www.amazon.es/dp/B0177W8HBW/?tag=tolees-21)

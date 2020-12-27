@@ -25,10 +25,10 @@ Tienes [Kollea Bolsas de Silicona Reutilizables 12 Pack  Bolsas de conservación
 
 ℹ️:
 
-- 【Seguridad del material 】：Las bolsas reutilizables para sándwich están hechas de material PEVA biodegradable aprobado por la FDA que es PVC, BPA, cloruro y sin plomo; son saludables, seguras y no dañan el cuerpo humano ni el medio ambiente.
-- 【Garantía y Servicio】: Protege el medio ambiente y mejora una vida mas sana y salud.Si tienes cualquier problema ,por favor ¡contáctenos y le reembolsaremos su pedido completo! Le ofrecemos un servicio de reemplazo gratuito de 12 meses.
-- 【Antifugas y Resistente al agua】: Las bolsas de alimentos se echo con una tecnología mejorada de sellado con cierre de doble cierre que es más sellada, a prueba de fugas e higiénica. Asi puede aislar algunas bacterias microbianas.No le preocupes por la comida derramada en el refrigerador o la bolsa.
-- 【Fácil de limpiar】： El Diseño transparente le provene un vistazo claramente al contenido interior. Es fácil de limpiar, solo tienes que lavar a mano la bolsa y ponerla en la parte superior de una taza para secar al aire. Se viene con 6 * tamaño pequeño 215mm*120mm y 6 * tamaño grande 215mm*180mm.
 - 【Multipropósito】：Ideal para guardar las comidas como bocadillos cosméticos, maquillaje frescas sándwiches,verduras,frutas,carne, sopas, salsas y adobos así como cosméticos, joyas medicamentos,etc.Es conveniente para llevarlas con ellas para ir de Excursión con las familiares.
+- 【Fácil de limpiar】： El Diseño transparente le provene un vistazo claramente al contenido interior. Es fácil de limpiar, solo tienes que lavar a mano la bolsa y ponerla en la parte superior de una taza para secar al aire. Se viene con 6 * tamaño pequeño 215mm*120mm y 6 * tamaño grande 215mm*180mm.
+- 【Antifugas y Resistente al agua】: Las bolsas de alimentos se echo con una tecnología mejorada de sellado con cierre de doble cierre que es más sellada, a prueba de fugas e higiénica. Asi puede aislar algunas bacterias microbianas.No le preocupes por la comida derramada en el refrigerador o la bolsa.
+- 【Garantía y Servicio】: Protege el medio ambiente y mejora una vida mas sana y salud.Si tienes cualquier problema ,por favor ¡contáctenos y le reembolsaremos su pedido completo! Le ofrecemos un servicio de reemplazo gratuito de 12 meses.
+- 【Seguridad del material 】：Las bolsas reutilizables para sándwich están hechas de material PEVA biodegradable aprobado por la FDA que es PVC, BPA, cloruro y sin plomo; son saludables, seguras y no dañan el cuerpo humano ni el medio ambiente.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07VV2B5TT/?tag=tolees-21)

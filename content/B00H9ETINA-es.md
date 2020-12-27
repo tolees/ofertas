@@ -25,8 +25,8 @@ Tienes [Tommy Hilfiger Mujer ROME RW ABSOLUTE BLUE Jeans  Azul  ABSOLUTE BLUE WA
 
 🔎:
 
-- Presentan 5 bolsillos
-- Tienen un parche con el logotipo de la marca en la parte trasera
 - Vaqueros para hombre
+- Tienen un parche con el logotipo de la marca en la parte trasera
+- Presentan 5 bolsillos
 
 [Comprar!!!](https://www.amazon.es/dp/B00H9ETINA/?tag=tolees-21)

@@ -25,10 +25,10 @@ Tienes [ESSIE BASE COAT As Strong As It Gets](https://www.amazon.es/dp/B07D9MC5Y
 
 ℹ️:
 
-- Alisa la superficie de la uña
-- Esmalte fortalecedor para uñas quebradizas y dañadas
-- Evita que las uñas se rompan y se deshojen
-- Fortalece y endurece las uñas
 - Formula con extracto de biotina
+- Esmalte fortalecedor para uñas quebradizas y dañadas
+- Alisa la superficie de la uña
+- Fortalece y endurece las uñas
+- Evita que las uñas se rompan y se deshojen
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D9MC5YF/?tag=tolees-21)

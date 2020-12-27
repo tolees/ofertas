@@ -25,9 +25,9 @@ En este momento está [Doro Magna 4000  Teléfono analógico  Negro](https://www
 
 🔎:
 
+- Volumen del auricular de hasta +60 dB
 - Tono ajustable para adaptarse a necesidades auditivas individuales
 - Máximo volumen del timbre 90(dB (A)) a 1 metro
 - Directorio telefónico 50 contactos, 5 x 50 x registro de llamadas y volver a marcar
-- Volumen del auricular de hasta +60 dB
 
 [Aquí!!!](https://www.amazon.es/dp/B00IKP43XM/?tag=tolees-21)

@@ -25,10 +25,10 @@ Está [Lékué Polo apilable mini 10 5 cm  4 Unidades  Surtido multicolor  Silic
 
 ℹ️:
 
-- Tapa para proteger el helado de olores y sabores del congelador
 - Incluye recetas fáciles, también sin lactosa y sin gluten
-- Rellenado más fácil en posición horizontal
-- Incluye un palo para cada molde
 - Apilables entre ellos ocupan muy poco espacio
+- Rellenado más fácil en posición horizontal
+- Tapa para proteger el helado de olores y sabores del congelador
+- Incluye un palo para cada molde
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01EHQ7FT6/?tag=tolees-21)

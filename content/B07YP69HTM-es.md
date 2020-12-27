@@ -25,10 +25,10 @@ Tienes [Intel Core i9-10900X LGA2066 X299 Series - Procesador de sobremesa  10 n
 
 🔎:
 
-- Hasta 4. 7 ghz desbloqueado
-- Requiere gráficos discretos
 - Compatible con placas base basadas en chipset intel x299
 - Cascade lake, clx, 10th, generación, desktop, cpu, ci9, core, 165w, i9-10900x, entusiasta, creador, creación de contenidos, lga, 2066, 200 series, x299, x299-made to create, 10c, 20t
+- Hasta 4. 7 ghz desbloqueado
+- Requiere gráficos discretos
 - Compatible con memoria intel optane
 
 [Comprar!!!](https://www.amazon.es/dp/B07YP69HTM/?tag=tolees-21)

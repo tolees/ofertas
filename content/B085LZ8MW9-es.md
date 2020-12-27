@@ -25,9 +25,9 @@ Tienes [Princesas Disney - Muñeca Cantarina Rapunzel  Hasbro E3149TG0 ](https:/
 
 🔎:
 
-- Preciosa muñeca con vestido brillante
-- Canta "cuándo empezaré a vivir?"
 - Imagínate un sinfín de aventuras musicales con esta princesa de disney de espíritu libre
+- Canta "cuándo empezaré a vivir?"
+- Preciosa muñeca con vestido brillante
 - El corsé se ilumina cuando canta
 
 [Comprar!!!](https://www.amazon.es/dp/B085LZ8MW9/?tag=tolees-21)
