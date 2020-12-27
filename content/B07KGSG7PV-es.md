@@ -25,8 +25,8 @@ Ahora mismo tienes [Esprit 999ee2k800 Camiseta  Azul  Bright Blue 410   Small pa
 
 🔎:
 
-- Con logotipo estampado en el pecho
 - Adecuada para cualquier atuendo
+- Con logotipo estampado en el pecho
 - Tiene un tejido ligero que ofrece comodidad
 
 [Visítala!!!](https://www.amazon.es/dp/B07KGSG7PV/?tag=tolees-21)

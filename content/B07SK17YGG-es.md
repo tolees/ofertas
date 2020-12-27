@@ -25,8 +25,8 @@ Ahora mismo tienes [Adidas TENSAUR C  Zapatillas de Running  Blanco  Ftwbla/Negb
 
 🔎:
 
-- Zapatillas deportivas
-- Empeine de piel.
 - Cierres de velcro.
+- Empeine de piel.
+- Zapatillas deportivas
 
 [Visítala!!!](https://www.amazon.es/dp/B07SK17YGG/?tag=tolees-21)

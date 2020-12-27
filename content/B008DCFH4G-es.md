@@ -25,10 +25,10 @@ Tienes [Faibo - Bolsa con 3 Plantillas  mapas España 15 x 12 cm  250 ](https://
 
 🔎:
 
-- Blister con 3 mapas de plástico España
 - En uno se muestran los ríos
-- En otro las montañas
-- Edad recomendada: 5 años y más
 - El tercero se muestran las provincias
+- Edad recomendada: 5 años y más
+- En otro las montañas
+- Blister con 3 mapas de plástico España
 
 [Comprar!!!](https://www.amazon.es/dp/B008DCFH4G/?tag=tolees-21)

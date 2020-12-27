@@ -25,10 +25,10 @@ Ahora mismo tienes [Poweradd Pilas Alcalinas AAA Baterías LR03 de 10 Años Larg
 
 🔎:
 
-- 🔋【Energía de Larga Duración】Las pilas alcalinas poweradd dura un 50% más que otras baterías comunes en el mercado, eliminando la molestia de reemplazar con frecuencia las batería.
 - 🔋【Larga Vida】Las baterías son a prueba de fugas y se puede almacenar durante 10 años, por lo que siempre están disponibles cuando las necesitas.
-- 🔋【Ecológica y Segura】Estas baterías alcalinas sin metales pesados tóxicos（por ejemplo: el mercurio, el plomo y el cadmio）Seguro para la familia y mejor para el medio ambiente.
-- 🔋【Ideales para Todos los Dispositivos】36 x Poweradd Pilas alcalinas LR03 AAA de 1.5V para equipos comunes: juguetes a pilas, mandos a distancia para tv, radios, linternas,cámaras digitales, relojes despertadores.
 - 🔋【Prevención de Fugas】La tecnología mejorada a prueba de fugas evita eficazmente el cortocircuito de la batería, las fugas y garantiza un uso seguro.
+- 🔋【Ideales para Todos los Dispositivos】36 x Poweradd Pilas alcalinas LR03 AAA de 1.5V para equipos comunes: juguetes a pilas, mandos a distancia para tv, radios, linternas,cámaras digitales, relojes despertadores.
+- 🔋【Energía de Larga Duración】Las pilas alcalinas poweradd dura un 50% más que otras baterías comunes en el mercado, eliminando la molestia de reemplazar con frecuencia las batería.
+- 🔋【Ecológica y Segura】Estas baterías alcalinas sin metales pesados tóxicos（por ejemplo: el mercurio, el plomo y el cadmio）Seguro para la familia y mejor para el medio ambiente.
 
 [Visítala!!!](https://www.amazon.es/dp/B08D32RN7H/?tag=tolees-21)

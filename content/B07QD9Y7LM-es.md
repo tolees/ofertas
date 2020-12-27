@@ -25,8 +25,8 @@ Ahora mismo tienes [Adidas Grand Court K  Zapatos de Tenis Unisex Niños  FTWR W
 
 🔎:
 
+- Zapatillas deportivas
 - Empeine de piel sintética.
 - Estilo clásico.
-- Zapatillas deportivas
 
 [Visítala!!!](https://www.amazon.es/dp/B07QD9Y7LM/?tag=tolees-21)

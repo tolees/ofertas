@@ -25,10 +25,10 @@ Tienes [Fuegonet 231198 Liquido para encendido  Negro  7.2x27x7.2 cm](https://ww
 
 ℹ️:
 
-- Encendido rápido y uniforme. Cómodo y sencillo de usar
 - ideal para chimeneas, estufas, barbacoas
-- No desprende humos ni olores molestos, perfecto para barbacoas
-- Gran poder de encendido y alto rendimiento
 - Sin retorno de llama
+- Gran poder de encendido y alto rendimiento
+- No desprende humos ni olores molestos, perfecto para barbacoas
+- Encendido rápido y uniforme. Cómodo y sencillo de usar
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00FRDS0RA/?tag=tolees-21)

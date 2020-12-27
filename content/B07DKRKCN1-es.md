@@ -25,11 +25,11 @@ Está [Casio G-SHOCK Reloj Digital  Reloj radiocontrolado y solar  20 BAR  Negro
 
 ℹ️:
 
-- Carcasa resistente a la suciedad
-- Cronómetro - 1/100 seg. - 24 horas
-- Solar
-- Función de hora mundial
 - Sumergible hasta 20 bares
 - Ancho: 5,3 cm, Altura: 5,5 cm, Grueso: 1,7 cm, Peso: 88 g
+- Cronómetro - 1/100 seg. - 24 horas
+- Carcasa resistente a la suciedad
+- Función de hora mundial
+- Solar
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07DKRKCN1/?tag=tolees-21)

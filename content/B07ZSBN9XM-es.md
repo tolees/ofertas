@@ -27,8 +27,8 @@ Tienes [Bosch Professional Amoladora Angular GWX 750-125  disco Ø 125 mm  incl.
 
 - Potente amoladora angular con un robusto motor de 750 W para uso industrial pesado con X-LOCK
 - Confiable: cuando el X-LOCK está activado, los accesorios están correctamente fijados y los accesorios direccionales como los discos de diamante están siempre correctamente posicionados
-- Amplio: Amplia gama de herramientas X-LOCK y accesorios X-LOCK, que también se pueden utilizar con amoladoras angulares normales sin soportes X-LOCK
-- Cómodo de usar: Cambio simple y rápido de accesorios con un solo clic y sin ningún equipo de montaje adicional o partes desmontables
 - Incluye: GWX 750-125, incl. juego de discos de corte y desbaste de 5 piezas, cubierta protectora de 125 mm, maletín
+- Cómodo de usar: Cambio simple y rápido de accesorios con un solo clic y sin ningún equipo de montaje adicional o partes desmontables
+- Amplio: Amplia gama de herramientas X-LOCK y accesorios X-LOCK, que también se pueden utilizar con amoladoras angulares normales sin soportes X-LOCK
 
 [Comprar!!!](https://www.amazon.es/dp/B07ZSBN9XM/?tag=tolees-21)
