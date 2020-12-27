@@ -25,9 +25,9 @@ Está [Mars Gaming MMBC  Ratón Gaming Oficial FC Barcelona  Ergonómico  PS4/XB
 
 ℹ️:
 
-- RATÓN OFICIAL FC BARCELONA: Ratón gaming Oficial del Barça con el escudo del equipo impreso
-- MÁXIMA PRECISIÓN: Sensor óptico profesional de hasta 3200DPI, pies de teflón que te permiten disfrutar de un deslizamiento suave y aumentar la precisión, cable trenzado y USB chapado en oro para obtener una conectividad total
 - DISEÑO GAMING: El MMBC cuenta con un diseño ergonómico ambidiestro con laterales de goma para obtener un agarre perfecto durante las partidas; 6 Botones y cambio de alta velocidad on-the-fly 400/800/1600/3200DPI con indicadores LED
+- MÁXIMA PRECISIÓN: Sensor óptico profesional de hasta 3200DPI, pies de teflón que te permiten disfrutar de un deslizamiento suave y aumentar la precisión, cable trenzado y USB chapado en oro para obtener una conectividad total
+- RATÓN OFICIAL FC BARCELONA: Ratón gaming Oficial del Barça con el escudo del equipo impreso
 - COMPATIBILIDAD: Compatible con Windows, Linux, Mac, PS4, PS5, XBOX ONE, XBOX SERIES X-S, Nintendo Switch
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07BYMG51N/?tag=tolees-21)

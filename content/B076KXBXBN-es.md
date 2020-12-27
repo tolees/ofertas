@@ -25,9 +25,9 @@ Está [Trust Ziva - Teclado y ratón inalámbricos  layout español  negro](http
 
 ℹ️:
 
-- Micro receptor USB de fácil almacenamiento. Para usuarios diestros y zurdos (Teclado)
+- Preciso sensor óptico (1600 ppp). Cobertura inalámbrica de 10 m (Teclado)
 - Cobertura inalámbrica de 10 m. Un microrreceptor USB para ambos dispositivos (Teclado)
 - Teclado de tamaño normal con teclado numérico. Resistente a los vertidos (Teclado)
-- Preciso sensor óptico (1600 ppp). Cobertura inalámbrica de 10 m (Teclado)
+- Micro receptor USB de fácil almacenamiento. Para usuarios diestros y zurdos (Teclado)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B076KXBXBN/?tag=tolees-21)

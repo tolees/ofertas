@@ -26,9 +26,9 @@ Está [Samsung Odyssey G9 LC49G93TSSUXEN - Monitor curvo de 49   DQHD  5120 x 14
 ℹ️:
 
 - Monitor curvo gaming de 49" con resolución DQHD (5120 x 1440 pixeles) muestra imágenes detalladas y nítidas y gracias a la tecnología QLED y a un panel de 10bits, los colores son realistas
+- Freesync Premium Pro y Gsync compatible, evita el desgarro de la pantalla. Antiparpadeo y menos luz azul: juego aún más prolongado y evita fatiga y fatiga visual
+- HDR 1000 que soporta un pico de luminosidad de 1.000 nits muestra el mínimo detalle incluso en las escenas oscuras o luminosas
 - Tiempo de respuesta de 1ms (GTG) y 240Hz de tasa de refresco para una jugabilidad fluida
 - Permite ajustar la altura así como la inclinación para una mejor experiencia de juego
-- HDR 1000 que soporta un pico de luminosidad de 1.000 nits muestra el mínimo detalle incluso en las escenas oscuras o luminosas
-- Freesync Premium Pro y Gsync compatible, evita el desgarro de la pantalla. Antiparpadeo y menos luz azul: juego aún más prolongado y evita fatiga y fatiga visual
 
 [Ver la oferta!!](https://www.amazon.es/dp/B086FGMQLN/?tag=tolees-21)

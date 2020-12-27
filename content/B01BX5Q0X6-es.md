@@ -25,9 +25,9 @@ Está [Fossil Reloj Analogico para Hombre de Automático con Correa en Piel ME31
 
 ℹ️:
 
-- Esfera de dos capas en color azul con estampado, índices dorados y números romanos a las 3/6/9 y 12 y maquinaria a la vista con detalles plateados y dorados de las 6 a las 8 - Movimiento automático de 2 agujas con modo 24h y segunderos pequeños - Agujas doradas - Cristal Mineral
 - Presentado en lata ilustrada de coleccionista (diferentes diseños)
 - Correa de piel marrón oscuro con pespuntes en color marrón - Hebilla
 - Reloj de Hombre FOSSIL - Caja redonda de acero inoxidable (diám. 44 mm) con acabado pulido brillante y mate - 5 ATM de resistencia a la presión del agua
+- Esfera de dos capas en color azul con estampado, índices dorados y números romanos a las 3/6/9 y 12 y maquinaria a la vista con detalles plateados y dorados de las 6 a las 8 - Movimiento automático de 2 agujas con modo 24h y segunderos pequeños - Agujas doradas - Cristal Mineral
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01BX5Q0X6/?tag=tolees-21)
