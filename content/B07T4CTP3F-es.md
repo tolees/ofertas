@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Immortals Fenyx Rising SWITCH con un 46.22 % de descuento'
-date: 2020-12-26 02:36:21
+date: 2020-12-27 02:48:07
 image: 'https://m.media-amazon.com/images/I/51ytgAKP-qL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07T4CTP3F/?tag=tolees-21'
 descuento: '46.22'
-average: '45.36312499999999'
+average: '44.74764705882352'
 ---
 
 En este momento está [Immortals Fenyx Rising SWITCH](https://www.amazon.es/dp/B07T4CTP3F/?tag=tolees-21) a 34.9 EUR (original: 64.9 EUR) (46.22 %  de descuento) en el siguiente enlace!

@@ -25,9 +25,9 @@ Ahora mismo tienes [Mannesmann - M29086-176 piezas Juego de herramientas](https:
 
 🔎:
 
-- Cinta métrica, conectores y brocas de titanio
-- Vienen en una caja con mango
 - Juego de 175 herramientas
+- Cinta métrica, conectores y brocas de titanio
 - Incluyen alicates, llave ajustable y destornilladores
+- Vienen en una caja con mango
 
 [Visítala!!!](https://www.amazon.es/dp/B009I4HY2Q/?tag=tolees-21)

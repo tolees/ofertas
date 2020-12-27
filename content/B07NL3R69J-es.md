@@ -25,11 +25,11 @@ Tienes [Lenovo Yoga C930 - Portátil táctil Convertible 13.9" 4K  Procesador In
 
 🔎:
 
-- Pantalla de 13.3" Full HD, 1920x1080 pixeles
-- Almacenamiento de 256GB SSD M.2 PCIe NVMe
-- Tarjeta gráfica Intel UHD Graphics 620
 - Sistema Operativo: Windows Home 10
-- Memoria RAM de 8 GB DDR4, 2400MHz
+- Pantalla de 13.3" Full HD, 1920x1080 pixeles
 - Procesador Intel Core i5-8265U, QuadCore 1.6GHz hasta 3.9GHz, 6MB
+- Tarjeta gráfica Intel UHD Graphics 620
+- Almacenamiento de 256GB SSD M.2 PCIe NVMe
+- Memoria RAM de 8 GB DDR4, 2400MHz
 
 [Comprar!!!](https://www.amazon.es/dp/B07NL3R69J/?tag=tolees-21)

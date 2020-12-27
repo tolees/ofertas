@@ -25,9 +25,9 @@ Está [Plastoy Playmobil Figura Vintage Collection Soldado Americano  Multicolor
 
 ℹ️:
 
-- Figura de coleccionista
-- Licencia oficial
 - Material resistente
+- Licencia oficial
+- Figura de coleccionista
 - Playmobil
 - Figura vintage collection
 

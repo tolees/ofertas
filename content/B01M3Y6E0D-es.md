@@ -27,10 +27,10 @@ Tienes [Jata Hervidor de agua HA722 - Rápido  Capacidad 1 7 l  Fácil limpieza 
 
 - Capacidad: Tiene capacidad de 1,7 litros.
 - Garantía: Todos los productos JATA cuentan con tres años de garantía
-- Limpieza: La resistencia está oculta, por lo que la limpieza es sencilla.
-- Desconexión automática: Tiene un indicador que se enciende cuando el hervidor está en funcionamiento. Si lleva mucho tiempo sin usarse se desconectará sola automáticamente.
-- Cuerpo: El cuerpo es de acero inoxidable, al igual que su placa calefactora. Lleva tapa abatible. La jarra no lleva cable ya que éste está en su base. La base gira 360º.
 - Visor: Desde el exterior se puede ver a qué altura está el agua.
+- Limpieza: La resistencia está oculta, por lo que la limpieza es sencilla.
+- Cuerpo: El cuerpo es de acero inoxidable, al igual que su placa calefactora. Lleva tapa abatible. La jarra no lleva cable ya que éste está en su base. La base gira 360º.
+- Desconexión automática: Tiene un indicador que se enciende cuando el hervidor está en funcionamiento. Si lleva mucho tiempo sin usarse se desconectará sola automáticamente.
 - Potencia: El hervidor de agua HA722 logra una rápida ebullición gracias a su potencia de 2.000 W.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01M3Y6E0D/?tag=tolees-21)

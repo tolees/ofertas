@@ -25,9 +25,9 @@ Tienes [Funko- Pop Deluxe: Game of Thrones-Hodor Holding The Door Collectible To
 
 ℹ️:
 
-- Funko pop; is the 2018 toy of the year and peoples choice award winner
-- Check out the other game of thrones figures from funko collect them all
 - From game of thrones, hodor holding the door, as a stylized pop deluxe vinyl from funko
+- Check out the other game of thrones figures from funko collect them all
+- Funko pop; is the 2018 toy of the year and peoples choice award winner
 - Figure stands 15cm and comes in a window display box
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07TZMZK5M/?tag=tolees-21)

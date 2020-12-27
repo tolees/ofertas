@@ -25,10 +25,10 @@ Tienes [Jata V142 Cocina Eléctrica Vitrocerámica con Dos Placas de 16 5 cm Cue
 
 🔎:
 
-- 2 fuegos: cuenta con 2 placas caloríficas de vitrocerámica; cada una de ellas tiene una potencia de 1.200 W y tienen un diámetro de 165 mm
-- 2 termostatos: cada fuego lleva su propio termostato por lo que se puede regular la temperatura de forma independiente
-- Indicadores: lleva indicadores luminosos que avisan cuando las placas caloríficas están encendidas
 - Cocina eléctrica vitrocerámica de cuerpo metálico
 - Seguridad: cuenta con protección contra sobrecalentamiento
+- Indicadores: lleva indicadores luminosos que avisan cuando las placas caloríficas están encendidas
+- 2 termostatos: cada fuego lleva su propio termostato por lo que se puede regular la temperatura de forma independiente
+- 2 fuegos: cuenta con 2 placas caloríficas de vitrocerámica; cada una de ellas tiene una potencia de 1.200 W y tienen un diámetro de 165 mm
 
 [Comprar!!!](https://www.amazon.es/dp/B01N2L34EU/?tag=tolees-21)

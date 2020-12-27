@@ -25,11 +25,11 @@ Ahora mismo tienes [Logitech M570 Trackman Ratón Trackball Inalámbrico  2.4 GH
 
 🔎:
 
-- Diseño Probado: Creado para uso con la mano derecha, el trackball se mantiene donde lo coloque, por eso es óptimo cuando no sobra espacio en la mesa
-- Botones Cómodos: Incluye botones de avance y retroceso y puede personalizar los botones del trackball para agilizar las acciones que desea realizar
-- Prueba el Trackball MX Ergo para Adecuada Comodidad: Bisagra ajustable, posición natural de la mano, USB/Bluetooth, recubrimiento de goma suave, desplazamiento horizontal
 - Diseño Compacto: La bola queda fija, lo que le permite controlar el cursor sin tener que mover el brazo
-- Duración de las Pilas de Hasta 18 Meses: Logitech M570 funciona con una pila tipo AA y la adecuada duración de las pilas minimiza los inconvenientes de tener que cambiarlas
 - Minúsculo Receptor Inalámbrico: Es tan pequeño que puede permanecer en el puerto USB; así se evitan preocupaciones en los desplazamientos; cuenta con tecnología inalámbrica adecuada de 2.4 GHz
+- Prueba el Trackball MX Ergo para Adecuada Comodidad: Bisagra ajustable, posición natural de la mano, USB/Bluetooth, recubrimiento de goma suave, desplazamiento horizontal
+- Duración de las Pilas de Hasta 18 Meses: Logitech M570 funciona con una pila tipo AA y la adecuada duración de las pilas minimiza los inconvenientes de tener que cambiarlas
+- Botones Cómodos: Incluye botones de avance y retroceso y puede personalizar los botones del trackball para agilizar las acciones que desea realizar
+- Diseño Probado: Creado para uso con la mano derecha, el trackball se mantiene donde lo coloque, por eso es óptimo cuando no sobra espacio en la mesa
 
 [Visítala!!!](https://www.amazon.es/dp/B0042BBR2S/?tag=tolees-21)
