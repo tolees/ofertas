@@ -26,7 +26,7 @@ Ahora mismo tienes [adidas Tastigo19 SHO Pantalones Cortos de Deporte  Hombre  B
 🔎:
 
 - Elastic waistband with lanyard
-- Regular fit
 - Climalite anti-humidity fabric
+- Regular fit
 
 [Visítala!!!](https://www.amazon.es/dp/B07JZKXHQK/?tag=tolees-21)

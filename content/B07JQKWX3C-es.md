@@ -27,8 +27,8 @@ En este momento está [IVANKY Cable DisplayPort 2m  4K@60Hz  2K@144Hz  2K@165Hz 
 
 - ✔️【Garantía y Servicio】: Garantía de 18 meses de iVANKY. Servicio al cliente amigable y de fácil acceso para resolver sus problemas en 24 horas.
 - ✔️【Transmisión simultánea de sonido y video】El displayport 144hz es compatible con los formato de audio: DTS-HD, 3D, Dolby Digital. Conecta su portátil/torre equipada con DisplayPort a un HDTV, monitor, pantalla, tarjeta gráfica de juegos para vídeo de alta definición y audio ultra claro.
-- ✔️【Conexión Fiable】El cable DP 1.2 está formada por conectores chapados en oro de 24K, cobre estañado 28AWG y trenza de nailon. No necesita preocuparle de la pérdida de conexión. La junta reforzada puede resistir la corrosión y soportar más de 5000 ciclos de doblado y más de 10000 enchufados y desenchufados.
 - ✔️【Resolución compatible con Gaming】El Cable Display Port admite de hasta 4K Ultra HD (3840x2160@60Hz), 2K@165Hz, 2K@144Hz, 1080P Full HD; Funciona completamente con DP, DP++ y DisplayPort ++. Una elección óptima para su experiencia de juego, entretenimiento en el hogar y conferencias.
 - ✔️【Alta frecuencia de actualización】Brinda un rendimiento excepcional a 2K a 165Hz en juegos RPG / FPS como Dota 2, Battlegrounds, HORIZON ZERO DAWN, Cyberpunk 2077, este cable DP a DP admite 3D, profundidades de color de 8 y 10 bit, por lo que una imagen envolvente brinda una experiencia superior.
+- ✔️【Conexión Fiable】El cable DP 1.2 está formada por conectores chapados en oro de 24K, cobre estañado 28AWG y trenza de nailon. No necesita preocuparle de la pérdida de conexión. La junta reforzada puede resistir la corrosión y soportar más de 5000 ciclos de doblado y más de 10000 enchufados y desenchufados.
 
 [Aquí!!!](https://www.amazon.es/dp/B07JQKWX3C/?tag=tolees-21)

@@ -26,9 +26,9 @@ Ahora mismo tienes [NYX Professional Makeup Paleta de sombra de ojos Ultimate Sh
 🔎:
 
 - Contenido: 1x nyx professional makeup paleta de sombra de ojos ultimate shadow palette, warm neutrals, número de sombras: 16, dimensiones: 1.8 x 9.9 x 9.6 cm
-- Calidad profesional y efecto de larga duración, colores llamativos que se difuminan con facilidad, polvos aterciopelados de larga duración, humedecer los tonos metálicos para un mejor resultado
 - Un exclusivo abanico de tonos cálidos y neutros en tus manos, paleta con 16 sombras de ojos de alto rendimiento, para un look a la última de día y de noche
 - Selección de sombras de acabado mate, satinado, ligeramente brillante y metalizado, elige desde un ligero color miel a un avellana más profundo
+- Calidad profesional y efecto de larga duración, colores llamativos que se difuminan con facilidad, polvos aterciopelados de larga duración, humedecer los tonos metálicos para un mejor resultado
 - Intensidad del color modulable para una gran variedad de looks y vívida pigmentación, tonos suaves y translúcidos o intensos y opacos, combinar con una prebase para aumentar su intensidad y adherencia
 
 [Visítala!!!](https://www.amazon.es/dp/B01IW02HX2/?tag=tolees-21)
