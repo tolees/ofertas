@@ -27,10 +27,10 @@ Está [Razer Raiju Ultimate 2019 - Controlador de juego PS4/PC inalámbrico  con
 
 - Sticks y cruceta intercambiables y panel de control rápido: Puedes cambiar la altura y la forma gracias al stick intercambiable, además de elegir entre un diseño de la cruceta inclinable o individual; personaliza el mando Razer Raiju Ultimate para disfrutar de la adecuada comodidad y experiencia de juego
 - Cambio de modo: Con el cambio de modo puedes cambiar fácilmente entre los tres modos de conectividad: PS4, USB y PC; esto hace que la resincronización al cambiar de dispositivo sea eficiente
-- Toma las riendas con los 4 botones multifunción reasignables para disfrutar de técnicas adecuadas al alcance de tus dedos; o cambia al modo de gatillo sensible y reduce la distancia de recorrido de los dos gatillos principales, lo que permite accionar rápidamente el gatillo para lograr la ventaja competitiva
 - Botones de acción táctiles mecanizados Razer: Prueba una primicia mundial; el mando Raiju Ultimate cuenta con botones de acción táctiles mecanizados Razer que proporcionan una combinación de suave tacto almohadillado y una retroalimentación táctil precisa
-- Un panel de control rápido también proporciona acceso inmediato a las funciones importantes, mientras que el botón de bloqueo de seguridad evita las pulsaciones involuntarias
-- Configuración adecuada en la aplicación: La personalización adecuada ahora es mucho más sencilla; con la aplicación para móviles propia, podrás reasignar los botones multifunción y los gatillos, cambiar las opciones de ajuste de sensibilidad o afinar la intensidad de los motores de vibración para completar tu experiencia de juego, donde y cuando sea
 - Botones multifunción y modo de gatillo sensible: El mando Razer Raiju Ultimate está diseñado con todo lo que necesitas para vencer a tus rivales
+- Un panel de control rápido también proporciona acceso inmediato a las funciones importantes, mientras que el botón de bloqueo de seguridad evita las pulsaciones involuntarias
+- Toma las riendas con los 4 botones multifunción reasignables para disfrutar de técnicas adecuadas al alcance de tus dedos; o cambia al modo de gatillo sensible y reduce la distancia de recorrido de los dos gatillos principales, lo que permite accionar rápidamente el gatillo para lograr la ventaja competitiva
+- Configuración adecuada en la aplicación: La personalización adecuada ahora es mucho más sencilla; con la aplicación para móviles propia, podrás reasignar los botones multifunción y los gatillos, cambiar las opciones de ajuste de sensibilidad o afinar la intensidad de los motores de vibración para completar tu experiencia de juego, donde y cuando sea
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07N16TRPT/?tag=tolees-21)

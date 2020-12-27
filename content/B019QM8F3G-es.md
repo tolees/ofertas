@@ -25,10 +25,10 @@ En este momento está [Tesa Assa Abloy ENTRKIT1T603035 Cerradura Inteligente Mot
 
 🔎:
 
+- Perfecto para infinidad de tipos y dimensiones de puerta, si tú cilindro de casa es de perfil europeo sustitúyalo por el ENTR, disponible en múltiple medidas
+- Sin cableados - ENTR es un sistema que funciona con batería
 - Comunicación Wireless encriptada entre elementos del sistema
 - ¡Nota! Consulte la ficha técnica para obtener instrucciones sobre cómo elegir la cerradura adecuada para su puerta
-- Sin cableados - ENTR es un sistema que funciona con batería
 - Bloqueo automático- la puerta echa la llave automáticamente cada vez que cierras la puerta, smart.
-- Perfecto para infinidad de tipos y dimensiones de puerta, si tú cilindro de casa es de perfil europeo sustitúyalo por el ENTR, disponible en múltiple medidas
 
 [Aquí!!!](https://www.amazon.es/dp/B019QM8F3G/?tag=tolees-21)

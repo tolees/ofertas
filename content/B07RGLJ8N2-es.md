@@ -25,8 +25,8 @@ Ahora mismo tienes [Salomon Sense Feel GTX  Zapatillas para Correr Hombre  Negro
 
 🔎:
 
-- Calzado salomon
 - Shoes sense feel gtx (l40966300)
 - Zapatillas de running running hombre
+- Calzado salomon
 
 [Visítala!!!](https://www.amazon.es/dp/B07RGLJ8N2/?tag=tolees-21)

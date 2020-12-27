@@ -25,10 +25,10 @@ Está [Bee Simulator NSW [Versión Española]](https://www.amazon.es/dp/B07VBMWM
 
 ℹ️:
 
-- Una relajante experiencia para un jugador en el modo Libre (Free Flight)
 - Con la opción de jugar en pantalla dividida y en modo cooperativo; un mundo abierto lleno de variedad y vida (zoo, parque de atracciones, etc.)
-- Horas y horas de juego en el modo Historia ¡Vive la gran aventura de una pequeña abeja y explora el mundo para salvar tu colmena
 - Un juego educativo sin violencia.Un juego diseñado para niños y toda la familia, único en el mercado
 - Temas de actualidad (protección de las abejas y del medio ambiente)
+- Una relajante experiencia para un jugador en el modo Libre (Free Flight)
+- Horas y horas de juego en el modo Historia ¡Vive la gran aventura de una pequeña abeja y explora el mundo para salvar tu colmena
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07VBMWMF6/?tag=tolees-21)
