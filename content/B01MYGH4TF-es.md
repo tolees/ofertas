@@ -25,10 +25,10 @@ Tienes [Licor del Polo - Pasta de dientes 2 en 1 Acción 3 - Protección en 3 Di
 
 🔎:
 
-- Combate la placa entre los dientes
 - Ofrece protección anticaries
 - Tiene un aliento fresco
 - Es formulado con micro-granulos
 - Tiene acción blanqueadora
+- Combate la placa entre los dientes
 
 [Comprar!!!](https://www.amazon.es/dp/B01MYGH4TF/?tag=tolees-21)

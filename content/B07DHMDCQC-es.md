@@ -25,10 +25,10 @@ Ahora mismo tienes [RC Drone de Bola Voladora Juguete de Control Remoto para Ni�
 
 🔎:
 
-- Un juego de 1 pelota voladora, 4 hélices, 1 cable de carga USB.
-- La pelota voladora es muy robusta y resistirá el daño cuando caiga, Duradera en uso.
 - Puede usar su mano para controlarla hacia arriba y hacia abajo, o para apagarla y caer al suelo.
-- La bola voladora presenta una bola de cristal transparente con una brillante y brillante luz intermitente de LED desde el aspecto.
 - Tiempo de carga: aproximadamente 30 minutos / tiempo de ejecución: 8-10 minutos.
+- La pelota voladora es muy robusta y resistirá el daño cuando caiga, Duradera en uso.
+- La bola voladora presenta una bola de cristal transparente con una brillante y brillante luz intermitente de LED desde el aspecto.
+- Un juego de 1 pelota voladora, 4 hélices, 1 cable de carga USB.
 
 [Visítala!!!](https://www.amazon.es/dp/B07DHMDCQC/?tag=tolees-21)

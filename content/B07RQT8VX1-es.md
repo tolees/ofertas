@@ -25,11 +25,11 @@ Está [TP-Link LS108G - Switch 8 Puertos  10/100/1000  Switch ethernet  Switch g
 
 ℹ️:
 
-- Silencioso - El diseño sin ventilador garantiza un funcionamiento silencioso
-- Optimización del tráfico - 802.1p y QoS dscp habilita un tráfico estable de baja latencia pensado para el uso de voz y vídeo, y el IGMP Snooping optimizando el flujo de datos multicast
 - Enchufar y listo - Sin ninguna configuración adicional; las funcionalidades automáticas de este switch gigabit posibilitan una instalación plug and play sin complicaciones; no es necesaria ninguna configuración
 - Super disipación de calor - Carcasa de metal ultraligero, diseñado para ser usado como equipo de sobremesa o montarlo en la pared y no se calentará nada, mientras mantiene su rendimiento
+- Silencioso - El diseño sin ventilador garantiza un funcionamiento silencioso
 - Switch Gigabit de 8 puertos RJ45 - 10/100/1000mbps con detección automática de velocidad, soporte para MDI/MDIX automático, con indicador del estado de cada puerto
 - Tecnología verde Ethernet - Reduce el consumo de energía
+- Optimización del tráfico - 802.1p y QoS dscp habilita un tráfico estable de baja latencia pensado para el uso de voz y vídeo, y el IGMP Snooping optimizando el flujo de datos multicast
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07RQT8VX1/?tag=tolees-21)

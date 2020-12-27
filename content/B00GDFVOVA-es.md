@@ -25,8 +25,8 @@ Tienes [Loctite Super Glue-3 Power Flex formato gel Control  adhesivo instantán
 
 ℹ️:
 
-- Mayor envase, uso intensivo
-- Máxima fuerza de unión
 - Flexibilidad
+- Máxima fuerza de unión
+- Mayor envase, uso intensivo
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00GDFVOVA/?tag=tolees-21)

@@ -25,13 +25,13 @@ Tienes [Bosch Professional 2607017160 Pack Unidades para Atornillar  con Llave d
 
 🔎:
 
-- Dimensiones: 12 x 8.9 x 3.3 cm
 - Apropiadas para todas las marcas de herramientas eléctricas y destornilladores manuales
-- Disposición perfecta en el práctico depósito de clasificación
-- Buena sujeción del tornillo mediante el imán integrado en el adaptador
-- Incluye: 19 puntas de atornillar con codificación por colores; 5 llaves de vaso; 1 trinquete (giro reversible); 1 soporte universal de cambio rápido, magnético 1 adaptador para llave de vaso
-- Buena sujeción y cambio rápido de las puntas de atornillar
 - Puntas de atornillar duraderas para 5 tipos de cabeza de tornillo en 20 tamaños convencionales
+- Disposición perfecta en el práctico depósito de clasificación
+- Dimensiones: 12 x 8.9 x 3.3 cm
+- Buena sujeción del tornillo mediante el imán integrado en el adaptador
 - Puntas de atornillar codificadas por colores para una buena y sencilla elección
+- Buena sujeción y cambio rápido de las puntas de atornillar
+- Incluye: 19 puntas de atornillar con codificación por colores; 5 llaves de vaso; 1 trinquete (giro reversible); 1 soporte universal de cambio rápido, magnético 1 adaptador para llave de vaso
 
 [Comprar!!!](https://www.amazon.es/dp/B0071IK9CI/?tag=tolees-21)
