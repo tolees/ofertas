@@ -25,10 +25,10 @@ Tienes [Day Z](https://www.amazon.es/dp/B07SY3TD14/?tag=tolees-21) con precio fi
 
 🔎:
 
-- survive against environmental dangers, including the infected, dynamic weather, and animal predators
 - become immersed in a tense, emotional experience driven by the emergent interactions of 60 players on a single server, each one fighting for survival.
-- explore the authentic open world of chernarus, featuring 230 square kilometres of hand-crafted terrain based on real-life locations.
-- experience a wide variety of complex survival mechanics, from hunting and crafting, through to sophisticated injury simulation and transferable diseases.
 - Use any means necessary to survive a hostile open world for as long as possible.
+- experience a wide variety of complex survival mechanics, from hunting and crafting, through to sophisticated injury simulation and transferable diseases.
+- explore the authentic open world of chernarus, featuring 230 square kilometres of hand-crafted terrain based on real-life locations.
+- survive against environmental dangers, including the infected, dynamic weather, and animal predators
 
 [Comprar!!!](https://www.amazon.es/dp/B07SY3TD14/?tag=tolees-21)

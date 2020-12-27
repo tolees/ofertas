@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Candy CS C8LF-S - Secadora de condensaci al 22.92 % de rebaja'
-date: 2020-12-23 10:56:34
+date: 2020-12-27 12:53:57
 image: 'https://m.media-amazon.com/images/I/31GZgomW+bL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Tienes [Candy CS C8LF-S - Secadora de condensación 8Kgs  15 programas  NFC  pue
 
 🔎:
 
-- Detector de kgs: reduce el consumo en electricidad con los sensores de peso
 - Puerta XXL, grande y alta: di adiós a los dolores de espalda mientras introduces la colada en la secadora
+- Detector de kgs: reduce el consumo en electricidad con los sensores de peso
 - Dimensiones alto x ancho x profundo (centímetros): 85 x 59.6 x 58.5
 - Tu lana en buenas manos: ciclo específicamente diseñado para lavar tus prendas de lana con la suavidad de un lavado a mano
 - Secadora conectada a NFC: conecta tu lavadora con la App Simply-Fi y consigue los mejores ciclos de secado

@@ -25,11 +25,11 @@ Tienes [Kenwood KCook Multi CCL401WH - Robot de cocina multifunción de 1500 W  
 
 ℹ️:
 
-- Hasta 4 platos a la vez: podrás cocinar 4 recetas al mismo tiempo gracias a los programas predefeterminados y su capacidad
-- Potencia: calienta de 30º a 180º, permite hacer sofritos y freír e incluye programas de hasta 8 horas
-- Accesorio vapor: incluye bandeja de vapor de gran capacidad (7.2 L) para poder cocer pescados enteros o gran cantidad de verduras u otros alimentos
 - Accesorio Direct Prep integrado permite rebanar, cortar y rallar directamente en el bol de cocción o en un recipiente aparte (incluye 5 discos de corte)
+- Hasta 4 platos a la vez: podrás cocinar 4 recetas al mismo tiempo gracias a los programas predefeterminados y su capacidad
 - Fácil limpieza: el bol y todos los accesorios se desmontan fácilmente y son aptos para el lavavajillas
+- Accesorio vapor: incluye bandeja de vapor de gran capacidad (7.2 L) para poder cocer pescados enteros o gran cantidad de verduras u otros alimentos
+- Potencia: calienta de 30º a 180º, permite hacer sofritos y freír e incluye programas de hasta 8 horas
 - Dimensiones del producto: 26 x 29 x 33.5 cm
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01B1OXKU0/?tag=tolees-21)

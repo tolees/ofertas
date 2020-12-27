@@ -26,9 +26,9 @@ Ahora mismo tienes [Apple iPad Pro - Tableta de 12 9" 256 GB Wi-Fi + Cellular Or
 🔎:
 
 - Chip A10X
+- Pantalla Retina de 12,9 pulgadas
+- Cuatro altavoces
 - Cámara trasera de 12 Mpx y cámara frontal 7 Mpx
 - Wi-Fi 802.11ac y 4G LTE
-- Cuatro altavoces
-- Pantalla Retina de 12,9 pulgadas
 
 [Visítala!!!](https://www.amazon.es/dp/B072QXXRVB/?tag=tolees-21)

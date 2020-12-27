@@ -25,9 +25,9 @@ Ahora mismo tienes [Astrid con Globoglob](https://www.amazon.es/dp/B07JKWPRSS/?t
 
 🔎:
 
-- Desarrolla la imaginación y la creatividad
-- Astrid con traje volador
 - Contiene 12 piezas
 - Con dos tipos de peinado para poder colocar el casco
+- Desarrolla la imaginación y la creatividad
+- Astrid con traje volador
 
 [Visítala!!!](https://www.amazon.es/dp/B07JKWPRSS/?tag=tolees-21)

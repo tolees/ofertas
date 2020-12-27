@@ -27,8 +27,8 @@ Tienes [KYG 112 en 1 Destornilladores de Precisión Juego de Destornilladores Pr
 
 - 112 en 1: Incluida 90 puntas magnéticas para tornillos y 21 componentes, este kit de 112 en 1 juego de destornilladores puede satisfacer el uso domestico y el profesional.
 - Fácil de almacenar: Los accesorios se ponen en una caja de almacenaje que se fabrica por el buen material PP. Esta herramienta de reparación es fácil de almacenar.
+- Uso amplio: Un juego de destornilladores de reparación para iPad, iPhone, tabletas, ordenador portátil, PC, teléfonos inteligentes, relojes, gafas, cámara PS4 / Xbox y otros dispositivos electrónicos.
 - Punta magnética: Las puntas de Crv6150 son magnéticas y puede ayudarle a facilitar los trabajos para reparar los objetos delicados.
 - Buena calidad: Este juego de destornilladoresas incluye las puntas para tornillos, hechas del material Crv6150 y la caja de almacenamiento, hecha del material PP. Otros accesorios están fabricados por el material correspondiente de buena calidad. Es resistente y duradero.
-- Uso amplio: Un juego de destornilladores de reparación para iPad, iPhone, tabletas, ordenador portátil, PC, teléfonos inteligentes, relojes, gafas, cámara PS4 / Xbox y otros dispositivos electrónicos.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07T5SDCWM/?tag=tolees-21)

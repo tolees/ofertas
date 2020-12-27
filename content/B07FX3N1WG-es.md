@@ -25,10 +25,10 @@ Está [Bosch Professional 18V System Taladro percutor a batería GSB 18V-28  tor
 
 ℹ️:
 
-- Incluye: GSB 18V-28, juego de accesorios de 35 piezas, batería de 2x2,0 Ah, L-BOXX 136
-- Óptima seguridad y vida útil del dispositivo gracias a la Protección Celular Electrónica ECP y a la Protección Electrónica del Motor EMP
+- La luz LED proporciona iluminación de áreas de trabajo oscuras
 - Professional 18V System, óptimo rendimiento, óptima libertad, todas nuestras baterías son compatibles con las herramientas o ya existentes de Bosch Professional de la misma categoría de potencia
 - Durabilidad: Gracias al mandril de 13mm con manga metálica
-- La luz LED proporciona iluminación de áreas de trabajo oscuras
+- Óptima seguridad y vida útil del dispositivo gracias a la Protección Celular Electrónica ECP y a la Protección Electrónica del Motor EMP
+- Incluye: GSB 18V-28, juego de accesorios de 35 piezas, batería de 2x2,0 Ah, L-BOXX 136
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FX3N1WG/?tag=tolees-21)
