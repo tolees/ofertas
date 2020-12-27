@@ -25,10 +25,10 @@ En este momento está [Star Wars Legión - Clan WREN Expansión de Unidad](https
 
 🔎:
 
-- Contiene: 7 miniaturas de plástico, 2 cartas de Unidad, 8 cartas de Mejora, 12 fichas diversas y 1 hoja de reglas.
-- Recomendado a Partir de 14 Años de Edad
-- Juego para 2 Jugadores
 - Con una duración de 1-2 Horas por partida
 - Juego de Miniaturas en Español
+- Contiene: 7 miniaturas de plástico, 2 cartas de Unidad, 8 cartas de Mejora, 12 fichas diversas y 1 hoja de reglas.
+- Juego para 2 Jugadores
+- Recomendado a Partir de 14 Años de Edad
 
 [Aquí!!!](https://www.amazon.es/dp/B08H2JRL8Z/?tag=tolees-21)

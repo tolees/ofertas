@@ -25,10 +25,10 @@ Tienes [Sanex Zero% - Gel de ducha  600 ml](https://www.amazon.es/dp/B00XAC6C0W/
 
 ℹ️:
 
-- Cumple con los requisitos de biodegradabilidad
+- Ideal para todo topi de piel
 - Tiene una fórmula suave y biodegradable
+- Cumple con los requisitos de biodegradabilidad
 - Tipo de piel: Normal
 - Contiene hidrantes de origen 100% natural
-- Ideal para todo topi de piel
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00XAC6C0W/?tag=tolees-21)

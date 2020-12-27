@@ -25,10 +25,10 @@ Tienes [Columbia Woodburn II  Zapatillas Hombre  Marrón  Cordovan Cinnamon   46
 
 ℹ️:
 
-- Material exterior: Cuero
-- Cierre: Cordones
 - Material de la suela: Goma
 - Revestimiento: Sintético
 - Tipo de tacón: Plano
+- Material exterior: Cuero
+- Cierre: Cordones
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00GUXJVQA/?tag=tolees-21)
