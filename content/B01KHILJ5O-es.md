@@ -25,11 +25,11 @@ Tienes [Philips GU10 LED - Bombillas Cristal  4.6 W Equivalentes a 50 W en Incan
 
 ℹ️:
 
-- Larga duración: hasta 15 años (15.000 horas)
-- No regulable
-- Bombillas LED de bajo consumo, ahorra hasta un 80%
-- Luz instantánea al encenderse
 - Iluminación de acento para resaltar zonas o realzar espacios concretos
+- Bombillas LED de bajo consumo, ahorra hasta un 80%
+- No regulable
+- Larga duración: hasta 15 años (15.000 horas)
 - Recomendado para uso en salones, habitaciones y pasillos creando un espacio acogedor
+- Luz instantánea al encenderse
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01KHILJ5O/?tag=tolees-21)

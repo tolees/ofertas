@@ -25,10 +25,10 @@ Ahora mismo tienes [GORJUSS - Muñeca Little Violet  04906 ](https://www.amazon.
 
 🔎:
 
+- Envoltorio: Caja individual
 - Perfumada con fragancia de madreselva, exclusiva de Gorjuss
 - Medida: 32 cm
 - Realizada en vinilo con las extemidades articuladas
 - Incluye ropa de tela, el icono personal de cada muñeca impreso en su bolsa, etiqueta de autenticidad, imágenes de los seis diseños y un mensaje Gorjuss
-- Envoltorio: Caja individual
 
 [Visítala!!!](https://www.amazon.es/dp/B01CRGIGD2/?tag=tolees-21)

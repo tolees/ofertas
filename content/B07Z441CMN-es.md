@@ -25,9 +25,9 @@ Está [OPPO A9 2020 - Smartphone de 6.5   HD+  4G Dual SIM  8 Core  128 GB  4 GB
 
 ℹ️:
 
-- Pantalla: 6.5", 720 x 1600 pixels
-- Procesador: Snapdragon 665 2GHz
-- Cámara: Cuádruple, 48MP+8MP +2MP+2MP
 - Batería: 5000 mAh
+- Procesador: Snapdragon 665 2GHz
+- Pantalla: 6.5", 720 x 1600 pixels
+- Cámara: Cuádruple, 48MP+8MP +2MP+2MP
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07Z441CMN/?tag=tolees-21)

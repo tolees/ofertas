@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fantasy Flight Games- Keyforge - Mundos  al 39.92 % de descuento'
-date: 2020-12-26 09:55:35
+date: 2020-12-27 15:26:38
 image: 'https://m.media-amazon.com/images/I/61oB9BtLIWL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,7 +26,7 @@ Ahora mismo tienes [Fantasy Flight Games- Keyforge - Mundos en Colisión Caja de
 🔎:
 
 - Los mundos entrarán en colisión con la tercera serie de mazos de keyforge.
-- Dos nuevas casas se unen al conflicto
 - Mundos en colisión incluye 284 cartas nuevas que generan una nueva gama de mazos únicos para descubrir, explorar y dominar
+- Dos nuevas casas se unen al conflicto
 
 [Visítala!!!](https://www.amazon.es/dp/B07ZKYHDPB/?tag=tolees-21)

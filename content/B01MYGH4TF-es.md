@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Licor del Polo - Pasta de dientes 2 en 1 al 25.64 % de rebaja'
-date: 2020-12-26 14:54:40
+date: 2020-12-27 15:12:55
 image: 'https://m.media-amazon.com/images/I/41uX6mmgNsL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MYGH4TF/?tag=tolees-21'
 descuento: '25.64'
-average: '1.4711594202898552'
+average: '1.4705633802816904'
 ---
 
 Tienes [Licor del Polo - Pasta de dientes 2 en 1 Acción 3 - Protección en 3 Dimensiones: Anticaries - Blanqueador - Aliento Fresco - 1 ud de 75 ml](https://www.amazon.es/dp/B01MYGH4TF/?tag=tolees-21) con precio final de  1.45 EUR (original: 1.95 EUR) (25.64 %  de rebaja) aqui!
@@ -25,10 +25,10 @@ Tienes [Licor del Polo - Pasta de dientes 2 en 1 Acción 3 - Protección en 3 Di
 
 🔎:
 
-- Tiene un aliento fresco
 - Combate la placa entre los dientes
-- Tiene acción blanqueadora
-- Es formulado con micro-granulos
 - Ofrece protección anticaries
+- Tiene un aliento fresco
+- Es formulado con micro-granulos
+- Tiene acción blanqueadora
 
 [Comprar!!!](https://www.amazon.es/dp/B01MYGH4TF/?tag=tolees-21)
