@@ -25,9 +25,9 @@ Tienes [Old Spice Citron - Desodorante Spray antitranspirante  pack de 6 x 150 m
 
 🔎:
 
-- La tecnología de Old Spice evita que la fragancia desaparezca a lo largo del día, para que huelas bien hasta que vuelvas a casa
-- El poder antitranspirante y desodorante de Old Spice es tan fuerte que podría secar un río entero
 - El antitranspirante y desodorante Old Spice no contiene alcohol
+- El poder antitranspirante y desodorante de Old Spice es tan fuerte que podría secar un río entero
+- La tecnología de Old Spice evita que la fragancia desaparezca a lo largo del día, para que huelas bien hasta que vuelvas a casa
 - El antitranspirante y desodorante Old Spice te protege durante 48 horas de la sudoración y el mal olor
 
 [Comprar!!!](https://www.amazon.es/dp/B07S4C84QH/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 45.29 % en Bond Pack 24 Dvd Col.Completa  Incluye S'
-date: 2020-12-24 22:47:39
+date: 2020-12-27 11:21:22
 image: 'https://m.media-amazon.com/images/I/41Hhj+HYoyL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B019G9DR5A/?tag=tolees-21'
 descuento: '45.29'
-average: '51.84'
+average: '52.00823529411765'
 ---
 
 Tienes [Bond Pack 24 Dvd Col.Completa  Incluye Spectre ](https://www.amazon.es/dp/B019G9DR5A/?tag=tolees-21) con un 45.29 % de descuento con precio de oferta de 53.27 EUR (original: 97.36 EUR) en el siguiente enlace!

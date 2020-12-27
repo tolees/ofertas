@@ -25,10 +25,10 @@ Tienes [Lékué - Recipiente hermético para transportar alimentos  Turquesa  40
 
 🔎:
 
-- Nuevos colores tendencia
-- Incluye vaso contenedor colapsale para mantener los ingredientes secos
-- Libre de bpa
-- 100 % hermético, puedes llevarlo en cvartra, mochila sin preocuparte de que se vierta el contenido
 - Muy fácil de limpiar
+- Incluye vaso contenedor colapsale para mantener los ingredientes secos
+- Nuevos colores tendencia
+- 100 % hermético, puedes llevarlo en cvartra, mochila sin preocuparte de que se vierta el contenido
+- Libre de bpa
 
 [Comprar!!!](https://www.amazon.es/dp/B07H4RDDM9/?tag=tolees-21)

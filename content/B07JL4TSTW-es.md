@@ -26,7 +26,7 @@ Tienes [adidas Adi Sock 18 Calcetines  Unisex Adulto  Collegiate Green/White  43
 🔎:
 
 - Soccer socks
-- Breathable fabric
 - Climacool technology
+- Breathable fabric
 
 [Comprar!!!](https://www.amazon.es/dp/B07JL4TSTW/?tag=tolees-21)

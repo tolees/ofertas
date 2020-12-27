@@ -26,12 +26,12 @@ Está [Lékué - Recipiente para cocinar tortillas francesas en microondas  colo
 ℹ️:
 
 - Color: Rojo
+- Material antiadherente
+- Rápida cocción
+- Cocina tortillas francesas en el microondas
+- Silicona platino
 - Contiene recetas
 - Apto para microondas y lavavajillas
-- Material antiadherente
 - Capacidad: 250 ml
-- Rápida cocción
-- Silicona platino
-- Cocina tortillas francesas en el microondas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00BB64RA6/?tag=tolees-21)

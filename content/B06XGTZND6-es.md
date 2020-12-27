@@ -25,12 +25,12 @@ Está [Moulinex Optimo OX484810 - Horno de Conveccción 39 L  6 Modos de Cocció
 
 ℹ️:
 
-- Incluye estos accesorios: una rejilla de acero inoxidable reversible que ofrece 8 niveles diferentes de cocción y una bandeja antiadherente para hornear y calentar fácilmente tus platos
-- Horno de 2000 W con 39 L de capacidad de diseño elegante con acabados en acero inoxidable
-- El horno de convección Optimo proporciona una cocción uniforme con la que podrás preparar fácilmente todo tipo de platos, un complemento óptimo para cualquier cocina gracias a sus 6 modos de cocción
-- Temporizador de hasta 120 min para poder programar cuándo estarán listos tus platos
-- Dimensiones exteriores 56 (anchura) x40 (profundidad) x36.5 cm (altura); interiores 40.4 (anchura) x 32.2 (profundidad) x 30.3 cm (altura)
-- Regulador de temperatura de 100 a 240 grados, con luz termostato que se apaga cuando el horno alcanza la temperatura indicada
 - 6 modos de cocción: Convección, Convencional, Parrilla, Repostería, Baño María y Función de descongelación
+- Dimensiones exteriores 56 (anchura) x40 (profundidad) x36.5 cm (altura); interiores 40.4 (anchura) x 32.2 (profundidad) x 30.3 cm (altura)
+- El horno de convección Optimo proporciona una cocción uniforme con la que podrás preparar fácilmente todo tipo de platos, un complemento óptimo para cualquier cocina gracias a sus 6 modos de cocción
+- Regulador de temperatura de 100 a 240 grados, con luz termostato que se apaga cuando el horno alcanza la temperatura indicada
+- Horno de 2000 W con 39 L de capacidad de diseño elegante con acabados en acero inoxidable
+- Incluye estos accesorios: una rejilla de acero inoxidable reversible que ofrece 8 niveles diferentes de cocción y una bandeja antiadherente para hornear y calentar fácilmente tus platos
+- Temporizador de hasta 120 min para poder programar cuándo estarán listos tus platos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06XGTZND6/?tag=tolees-21)

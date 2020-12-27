@@ -25,10 +25,10 @@ En este momento está [Samsung 860 EVO MZ-76E250B/EU - Disco duro sólido intern
 
 🔎:
 
+- Dispone de interfaz SATA
 - Es diseñado para ordenadores de alta gama, estaciones de trabajo y NAS
 - Compatible con cualquier versión de Windows y todas las PC con interfaz Sata 2.5 "
-- Dispone de interfaz SATA
-- La tecnología V-NAND ofrece fiabilidad con 2.400 TBW
 - Escritura secuencial: 520MB/s
+- La tecnología V-NAND ofrece fiabilidad con 2.400 TBW
 
 [Aquí!!!](https://www.amazon.es/dp/B078WQJXNF/?tag=tolees-21)

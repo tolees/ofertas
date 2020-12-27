@@ -25,8 +25,8 @@ En este momento está [Kitchen Craft Master Class - Fuente de horno rectangular 
 
 🔎:
 
-- Bandeja para asados
 - De alta calidad y con un diseño moderno
+- Bandeja para asados
 - 39x7 cm
 
 [Aquí!!!](https://www.amazon.es/dp/B0001IX3KA/?tag=tolees-21)
