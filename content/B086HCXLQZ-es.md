@@ -25,10 +25,10 @@ Está [TOPERSUN Cargador de Batería Coche Rápido 6A 12V Mantenimiento Automát
 
 ℹ️:
 
-- 🚗 [Cuidado y regeneración de la batería] El cargador se utiliza para la carga básica, la actualización y el mantenimiento para mejorar la capacidad de arranque del motor y prolongar la vida de la batería. Es una herramienta ideal para la carga de la batería y el mantenimiento a largo plazo.
-- ❤ [Modo de carga humanizado]: En el modo de verano e invierno, este cargador de batería totalmente automático puede detectar la temperatura y cambiar automáticamente al voltaje de carga apropiado.
 - 🚗 [Pantalla digital inteligente] está equipada con una pantalla LCD que puede ver claramente el estado de la carga, y también puede mostrar la temperatura de carga, el voltaje de carga, la corriente de carga y la potencia de la batería. Cuando la batería esté completamente cargada, la carga se detendrá automáticamente.
 - ❤ [Modo de Protección Múltiple]: Protección de circuito incorporado contra inversión de polaridad (conexión errónea de los polos positivos y negativos), sobrecalentamiento, sobretensión, sobrecorriente y cortocircuito. Una variedad de precauciones de seguridad para asegurar que use el cargador de batería con seguridad.
+- 🚗 [Cuidado y regeneración de la batería] El cargador se utiliza para la carga básica, la actualización y el mantenimiento para mejorar la capacidad de arranque del motor y prolongar la vida de la batería. Es una herramienta ideal para la carga de la batería y el mantenimiento a largo plazo.
 - 🚗 [Amplia gama de usos] Está estrictamente prohibido cargar la batería de litio. Adecuado para baterías de plomo de 12V 4AH-100AH (AGM, GEL, MF, SLA, VRLA) para baterías de automoción, de motocicletas, de cortacésped o marinas.
+- ❤ [Modo de carga humanizado]: En el modo de verano e invierno, este cargador de batería totalmente automático puede detectar la temperatura y cambiar automáticamente al voltaje de carga apropiado.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B086HCXLQZ/?tag=tolees-21)

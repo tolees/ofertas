@@ -25,10 +25,10 @@ Está [Bosch Athlet Serie 6 BBH6POWER - Aspirador sin Cable  3 Velocidades  28 V
 
 ℹ️:
 
-- Limpieza sencilla: un led luminoso te avisa de cuándo hay que cambiar el filtro; el cepillo se saca fácilmente para limpiarse
-- Ideal para un alto rendimiento; accesorio especial para recoger el polvo al taladrar, que conduce la suciedad directamente al depósito
-- Sin cable, sin límites y hasta 65 minutos de autonomía; su potente batería de 28 v máx, con tecnología de litio, se recarga por completo en solo 3 horas
-- Motor especialmente diseñado para conseguir un alto rendimiento constante durante toda la vida útil del aspirador
 - Efectivo sobre todo tipo de suelos gracias al cepillo turbo motorizado y la tecnología exclusiva de aspiración smartsensor control para asegurar el máximo rendimiento
+- Motor especialmente diseñado para conseguir un alto rendimiento constante durante toda la vida útil del aspirador
+- Ideal para un alto rendimiento; accesorio especial para recoger el polvo al taladrar, que conduce la suciedad directamente al depósito
+- Limpieza sencilla: un led luminoso te avisa de cuándo hay que cambiar el filtro; el cepillo se saca fácilmente para limpiarse
+- Sin cable, sin límites y hasta 65 minutos de autonomía; su potente batería de 28 v máx, con tecnología de litio, se recarga por completo en solo 3 horas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07NW4Y1RY/?tag=tolees-21)

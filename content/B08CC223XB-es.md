@@ -25,10 +25,10 @@ En este momento está [Medias/Adidas:REAL H SHO 34-36 Blanco](https://www.amazon
 
 🔎:
 
-- Calcetines para practicar Fútbol de Unisex Adulto
-- Calcetines REAL H SO BLANCO
-- Los productos deportivos de la marca Adidas están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo.
-- Ropa deportiva Blanco de la marca Adidas
 - Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
+- Ropa deportiva Blanco de la marca Adidas
+- Calcetines REAL H SO BLANCO
+- Calcetines para practicar Fútbol de Unisex Adulto
+- Los productos deportivos de la marca Adidas están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo.
 
 [Aquí!!!](https://www.amazon.es/dp/B08CC223XB/?tag=tolees-21)

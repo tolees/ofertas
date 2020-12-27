@@ -25,10 +25,10 @@ Ahora mismo tienes [Barbie- Muñeca Fashionistas n.º 154  Mattel GHW70 ](https:
 
 🔎:
 
-- El pelo del muñeco Ken cuenta con un tono púrpura lavanda.
-- Las zapatillas negras añaden un toque moderno para disfrutar de un look informal.
-- El muñeco Ken es más esbelto que el cuerpo original y lleva una camisa de cuadros y bloques de color y unos pantalones tejanos negros.
 - Los muñecos Ken Fashionistas causan sensación con sus looks a la última moda y sus estilos sin igual.
+- Las zapatillas negras añaden un toque moderno para disfrutar de un look informal.
+- El pelo del muñeco Ken cuenta con un tono púrpura lavanda.
+- El muñeco Ken es más esbelto que el cuerpo original y lleva una camisa de cuadros y bloques de color y unos pantalones tejanos negros.
 - Es un regalo ideal para niñas a partir de 3 años. Podrán jugar con estilo, crear historias y descubrir a Barbie.
 
 [Visítala!!!](https://www.amazon.es/dp/B084BSJ1J7/?tag=tolees-21)

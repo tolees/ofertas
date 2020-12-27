@@ -26,14 +26,14 @@ Ahora mismo tienes [Baby Dove - Loción Corporal Dove Baby Hidratación Profunda
 🔎:
 
 - Repone la hidratación y nutrientes esenciales de la piel del bebé
-- Sin colorantes artificiales
-- Loción para bebés adecuada para recién nacidos
-- Con nutrientes 100% naturalmente presentes en la piel del bebé
-- Respetuoso con el microbioma de la piel del bebé y el mantenimiento de su equilibrio natural, para una piel protegida
-- Calma la piel seca desde el primer uso y la hidrata durante todo el día
-- Con ¼ de crema hidratante
 - Dermatológica y pediátricamente testado
+- Loción para bebés adecuada para recién nacidos
+- Respetuoso con el microbioma de la piel del bebé y el mantenimiento de su equilibrio natural, para una piel protegida
+- Con nutrientes 100% naturalmente presentes en la piel del bebé
+- Calma la piel seca desde el primer uso y la hidrata durante todo el día
 - Con hidratante prebiótico
+- Con ¼ de crema hidratante
 - Fórmula hipoalergénica y con pH neutro para la piel del bebé
+- Sin colorantes artificiales
 
 [Visítala!!!](https://www.amazon.es/dp/B07G5XJ2PB/?tag=tolees-21)

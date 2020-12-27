@@ -25,10 +25,10 @@ En este momento está [BERING Reloj Analógico para Hombre de Energía Solar con
 
 🔎:
 
-- El cristal de zafiro es resistente a golpes y rayaduras
-- Resistente al agua hasta 3 ATM / 30 metros / 98 pies , resistencia general a la lluvia, salpicaduras, inmersión accidental y ducha, no apto para nadar o bañarse
 - Correa: acero inoxidable de grado médico 316l / gris / 200 mm de largo / 22 mm de ancho
 - Solar Watch Collection , cualquier tipo de luz lo cargará y, cuando esté completamente cargado, funcionará durante 6-12 meses , Solar
+- Resistente al agua hasta 3 ATM / 30 metros / 98 pies , resistencia general a la lluvia, salpicaduras, inmersión accidental y ducha, no apto para nadar o bañarse
 - Caja: acero inoxidable de grado médico 316l / gris / 40 mm de diámetro / 7 mm de espesor
+- El cristal de zafiro es resistente a golpes y rayaduras
 
 [Aquí!!!](https://www.amazon.es/dp/B01BPF3IZW/?tag=tolees-21)

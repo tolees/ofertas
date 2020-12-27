@@ -25,9 +25,9 @@ Está [De Buyer InoCuivre - Cazuela de cobre y acero inoxidable abombada  espeso
 
 ℹ️:
 
-- Compuesto de 90 % de cobre y acero inoxidable 10 %, esto saltee pan- asegura una buena disipación del calor
 - Fácil de limpiar
 - Las asas de acero inoxidable de fundición ergonómico están firmemente clavados
+- Compuesto de 90 % de cobre y acero inoxidable 10 %, esto saltee pan- asegura una buena disipación del calor
 - Apto para todas las fuentes de calor, con exclusión de la inducción
 - 20 cm de diámetro
 

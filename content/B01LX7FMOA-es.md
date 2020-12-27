@@ -27,7 +27,7 @@ Ahora mismo tienes [Manfrotto MB MS-SB-GR Street CSC Bolso Bandolera](https://ww
 
 - Tiene un interior acolchado y un compartimiento para iPad de 9.7"
 - Viene con un asa de respaldo
-- Cuenta con una correa de hombro ajustable y acolchada
 - Dispone de una apertura superior con cremallera y tiene múltiples bolsillos con cremallera
+- Cuenta con una correa de hombro ajustable y acolchada
 
 [Visítala!!!](https://www.amazon.es/dp/B01LX7FMOA/?tag=tolees-21)

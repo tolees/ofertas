@@ -25,9 +25,9 @@ Ahora mismo tienes [Pinypon - Bote Pirata con una figurita  Famosa 700014203 ](h
 
 🔎:
 
-- Incluye trampilla secreta, cofre de tesoros, remos y vela pirata
-- Conjunto que contiene barco pirata con una figura pirata Pinypon
 - Ayuda a desarrollar la imaginación
 - Para niñas a partir de 3 años
+- Conjunto que contiene barco pirata con una figura pirata Pinypon
+- Incluye trampilla secreta, cofre de tesoros, remos y vela pirata
 
 [Visítala!!!](https://www.amazon.es/dp/B07GCNDKMQ/?tag=tolees-21)

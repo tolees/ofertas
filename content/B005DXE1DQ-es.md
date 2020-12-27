@@ -25,10 +25,10 @@ Está [Geox U Federico W  Zapatos de Cordones Derby Hombre  Negro  BLACKC9999   
 
 ℹ️:
 
+- Perforierte Sohle mit einer inneren Membran – sorgt für Atmungsaktivität und ist wasserundurchlässig
+- Hochwertiges Leder ist strapazierfähig und langlebig
+- Anlass: Business
 - Der U Federico W für Herren von Geox ist ein atmungsaktiver Schnür-Halbschuh für Beruf und Alltag.
 - Komfortable Innensohle
-- Hochwertiges Leder ist strapazierfähig und langlebig
-- Perforierte Sohle mit einer inneren Membran – sorgt für Atmungsaktivität und ist wasserundurchlässig
-- Anlass: Business
 
 [Ver la oferta!!](https://www.amazon.es/dp/B005DXE1DQ/?tag=tolees-21)

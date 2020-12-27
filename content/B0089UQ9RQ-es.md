@@ -25,8 +25,8 @@ Tienes [SD toys - The Big Bang Theory  Set A Punto de Libro magnético  SDTWRN27
 
 🔎:
 
-- Para los fans de The Big Bang Theory
-- Merchandising oficial de The Big Bang Theory
 - Set punto de libro The Big Bang Theory
+- Merchandising oficial de The Big Bang Theory
+- Para los fans de The Big Bang Theory
 
 [Comprar!!!](https://www.amazon.es/dp/B0089UQ9RQ/?tag=tolees-21)

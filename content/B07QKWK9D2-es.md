@@ -25,10 +25,10 @@ Ahora mismo tienes [Lékué - Kit Estuche de vapor 3 4 personas + libro de recet
 
 🔎:
 
-- Estuche de vapor tamaño para 3, 4 personas
 - Tu guía completa con más de 70 recetas
-- El libro contiene tablas para cada ingrediente, cantidades, potencía del microondas, tiempo + una receta deliciosa
 - El estuche de vapor incluye bandeja multifunción
+- El libro contiene tablas para cada ingrediente, cantidades, potencía del microondas, tiempo + una receta deliciosa
 - El libro además también contiene 10 recetas integras con el estuche de vapor y weekly menú plan dentro del packaging para dar ideas de qué recetas combinar
+- Estuche de vapor tamaño para 3, 4 personas
 
 [Visítala!!!](https://www.amazon.es/dp/B07QKWK9D2/?tag=tolees-21)

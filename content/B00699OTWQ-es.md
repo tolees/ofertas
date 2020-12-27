@@ -25,9 +25,9 @@ Tienes [Goliath - Sin Palabras Junior  Juego de habilidad  70110 ](https://www.a
 
 🔎:
 
-- Recomendado para mayores de 5 años ¡Es adecuado para 3 a 12 jugadores, y es muy fácil y cómodo de transportar, por lo que podrás llevártelo donde quieras!
 - ¡Sin Palabras Junior es un juego de habilidad en el que tendrás que dibujar para que los demás jugadores adivinen tus cartas! ¿Crees que serás capaz?
 - Durante la partida puedes encontrarte pruebas con 3 tipos de lentes diferentes. El color verde indica que es fácil, el amarillo dificultad media y el azul difícil.
 - El objetivo del juego es ser el primer equipo en llegar a la última casilla del tablero.
+- Recomendado para mayores de 5 años ¡Es adecuado para 3 a 12 jugadores, y es muy fácil y cómodo de transportar, por lo que podrás llevártelo donde quieras!
 
 [Comprar!!!](https://www.amazon.es/dp/B00699OTWQ/?tag=tolees-21)

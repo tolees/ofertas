@@ -27,8 +27,8 @@ Tienes [HFY Mujer Mochila Impermeable  Mochila para portátil Multiusos Daypacks
 
 - Materiales de alta calidad y comodidad: la mochila para estudiantes está hecha de tela oxford, lo que crea una impresión muy fuerte y es elegante a través de pequeñas manchas blancas.
 - Uso versátil y de ocio: la mochila es adecuada para todas las ocasiones. Apto para mujeres, hombres y estudiantes. Puedes llevarlo a la escuela, a la universidad, a hacer caminatas, ir de compras, andar en bicicleta, viajar, salir o trabajar.
+- La correa del hombro es de aproximadamente el ancho. 6 cm. Longitud de la correa de hombro: 45-92 cm. Correa de hombro ajustable para llevar cómodo.
 - Tamaño de la mochila: Tamaño de la mochila para computadora portátil: 30 X 13 X45 cm, capacidad 15-20L. El compartimiento con una computadora portátil especial es de hasta 14 pulgadas.
 - Mochila de diseño único: mochila ligera de oxford. El interior es de rayas rojas y blancas, haciendo que todo se vea muy amigable.
-- La correa del hombro es de aproximadamente el ancho. 6 cm. Longitud de la correa de hombro: 45-92 cm. Correa de hombro ajustable para llevar cómodo.
 
 [Comprar!!!](https://www.amazon.es/dp/B07SSX4RHX/?tag=tolees-21)

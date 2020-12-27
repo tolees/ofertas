@@ -26,9 +26,9 @@ En este momento está [Rollo Césped de 7mm 2x2 5 Metros](https://www.amazon.es/
 🔎:
 
 - Fabricado con materiales ecológicos y no tóxicos
-- Césped muy suave y fino, ideal para niños, no raspa, tacto de cesped natural, moqueta fina de calidad
 - Cuenta con un sistema de drenaje automático, no encharca.
 - Para colocar de base y alrededor de las piscinas, terrazas y jardines.
+- Césped muy suave y fino, ideal para niños, no raspa, tacto de cesped natural, moqueta fina de calidad
 - Fácil de instalar sin necesidad de ninguna herramienta.
 
 [Aquí!!!](https://www.amazon.es/dp/B085S3SZJS/?tag=tolees-21)
