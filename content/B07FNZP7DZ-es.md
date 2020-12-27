@@ -25,10 +25,10 @@ Ahora mismo tienes [Rick and Morty - Adhesivos Impermeables Reutilizables para G
 
 🔎:
 
+- Reutilizable, resistente al agua y algunos brillan en la oscuridad
+- 4 hojas de pegatinas de gadget
+- Con personajes de rick and morty
 - Gran regalo para los amantes de la serie cult tv rick and morty
 - Producto oficial autorizado
-- Con personajes de rick and morty
-- 4 hojas de pegatinas de gadget
-- Reutilizable, resistente al agua y algunos brillan en la oscuridad
 
 [Visítala!!!](https://www.amazon.es/dp/B07FNZP7DZ/?tag=tolees-21)

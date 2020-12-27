@@ -25,8 +25,8 @@ Ahora mismo tienes [CLUSE Reloj Analógico para Mujer de Cuarzo con Correa en Ac
 
 🔎:
 
+- Redondo, 38 mm.
 - negro
 - Metal / acero inoxidable.
-- Redondo, 38 mm.
 
 [Visítala!!!](https://www.amazon.es/dp/B07VBXYCDT/?tag=tolees-21)

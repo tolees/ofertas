@@ -25,9 +25,9 @@ En este momento está [Bandai Saint Seiya Figura Articulada  color dorado  18 cm
 
 🔎:
 
-- Diseño moderno
 - Figura articulada
-- Para los fans de Saint Seiya
 - Mide unos 18 cm
+- Para los fans de Saint Seiya
+- Diseño moderno
 
 [Aquí!!!](https://www.amazon.es/dp/B00ZI3C8IQ/?tag=tolees-21)

@@ -26,7 +26,7 @@ Está [Físico y Político- Esfera Elite Luminosa con App  Multicolor  26 cm  35
 ℹ️:
 
 - Incluye una app
-- Modelo a escala tridimensional
 - Incorpora luz halógena de 18W
+- Modelo a escala tridimensional
 
 [Ver la oferta!!](https://www.amazon.es/dp/B008HP6KEA/?tag=tolees-21)
