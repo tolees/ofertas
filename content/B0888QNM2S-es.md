@@ -1,34 +1,34 @@
 ---
 layout: post
-title: 'Xiaomi Redmi Note 9 Pro - Smartphone con al 23.41 % de descuento'
-date: 2020-12-26 02:55:48
+title: 'Xiaomi Redmi Note 9 Pro - Smartphone con al 19.92 % de descuento'
+date: 2020-12-27 09:12:29
 image: 'https://m.media-amazon.com/images/I/517CiZQimmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B0888QNM2S-es'
-actualPrice: 229.0 EUR
+actualPrice: 239.44 EUR
 currency: EUR
-price: 229.0
+price: 239.44
 comparePrice: 299.0 EUR
 prodname: 'Xiaomi Redmi Note 9 Pro - Smartphone con pantalla FHD+ 6.67" DotDisplay  6 GB+128 GB  cámara cuádruple 64 MP con IA  SnapdragonTM 720G  batería 5020 mAh  Verde [Version Española]'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0888QNM2S/?tag=tolees-21'
-descuento: '23.41'
-average: '235.28378378378383'
+descuento: '19.92'
+average: '235.3573451327434'
 ---
 
-Ahora mismo tienes [Xiaomi Redmi Note 9 Pro - Smartphone con pantalla FHD+ 6.67" DotDisplay  6 GB+128 GB  cámara cuádruple 64 MP con IA  SnapdragonTM 720G  batería 5020 mAh  Verde [Version Española]](https://www.amazon.es/dp/B0888QNM2S/?tag=tolees-21) a 229.0 EUR (original: 299.0 EUR) (23.41 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Xiaomi Redmi Note 9 Pro - Smartphone con pantalla FHD+ 6.67" DotDisplay  6 GB+128 GB  cámara cuádruple 64 MP con IA  SnapdragonTM 720G  batería 5020 mAh  Verde [Version Española]](https://www.amazon.es/dp/B0888QNM2S/?tag=tolees-21) a 239.44 EUR (original: 299.0 EUR) (19.92 %  de descuento) en el siguiente enlace!
 
 [![Xiaomi Redmi Note 9 Pro - Smartphone con](https://m.media-amazon.com/images/I/517CiZQimmL._SL200_.jpg)](https://www.amazon.es/dp/B0888QNM2S/?tag=tolees-21)
 
 🔎:
 
 - OS: Android 10
-- Redmi Note 9 Pro incluye un procesador Qualcomm SnapdragonTM 720G de quinta generación con hasta 2.3 GHz, con tecnología de procesamiento de 8 nm
-- El Redmi Note 9 Pro incluye una batería de 5020 mAh; Se carga a través de USB-C y soporta hasta 30 W de carga rápida; el cargador rápido de 33 W está incluido
-- Redmi Note 9 Pro cuenta con una pantalla FHD+ DotDisplay de 6.67", con certificación de luz azul baja de TÜV Rheinland
 - Redmi Note 9 Pro incorpora una cámara cuádruple con IA con un sensor primario de 64 MP, puede tomar fotos en gran angular para paisajes, en modo retrato y modo macro
+- Redmi Note 9 Pro cuenta con una pantalla FHD+ DotDisplay de 6.67", con certificación de luz azul baja de TÜV Rheinland
+- El Redmi Note 9 Pro incluye una batería de 5020 mAh; Se carga a través de USB-C y soporta hasta 30 W de carga rápida; el cargador rápido de 33 W está incluido
+- Redmi Note 9 Pro incluye un procesador Qualcomm SnapdragonTM 720G de quinta generación con hasta 2.3 GHz, con tecnología de procesamiento de 8 nm
 
 [Visítala!!!](https://www.amazon.es/dp/B0888QNM2S/?tag=tolees-21)

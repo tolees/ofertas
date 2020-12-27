@@ -25,10 +25,10 @@ Tienes [REPSOL ACEITE DE MOTOR PREMIUM GTI/TDI 10W40 5 Litros  Multicolor  5 L](
 
 ℹ️:
 
-- Aceite semi-sintético de motor REPSOL PREMIUM GTI/TDI Viscosidad del aceite: 10W40 5 litros Para motores diésel y gasolina
+- [ESPECIFICACIONES/ESTÁNDARES DE LA INDUSTRIA] API SL/CF ACEA A3/B4
 - Aceite multigrado con bases minerales y sintéticas, puede emplearse en motores gasolina y diesel de la mayoría de fabricantes de vehículos. - Entre sus características destaca la resistencia a la formación de depósitos a altas temperaturas y de lodos a bajas temperaturas, manteniendo la limpieza del motor y por lo tanto aumentando su durabilidad
 - Aceite lubricante multigrado que combina componentes sintéticos con minerales de muy alto nivel de calidad para uso en motores de turismos y vehículos comerciales ligeros. Combina una elevada resistencia a la oxidación para optimizar el periodo de cambio, y una viscosidad que facilita el arranque del vehículo, disminuyendo los desgastes
+- Aceite semi-sintético de motor REPSOL PREMIUM GTI/TDI Viscosidad del aceite: 10W40 5 litros Para motores diésel y gasolina
 - Es un lubricante estable a la pérdida de viscosidad que presentan algunos aceites multigrados en servicio. Así se consigue mantener la correcta lubricación del motor durante todo el periodo de uso del lubricante
-- [ESPECIFICACIONES/ESTÁNDARES DE LA INDUSTRIA] API SL/CF ACEA A3/B4
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00GXVTU5Q/?tag=tolees-21)

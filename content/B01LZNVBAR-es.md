@@ -25,10 +25,10 @@ Está [Orient Reloj Analógico para Unisex Adultos de Automático con Correa en 
 
 ℹ️:
 
-- Clâsico
-- Automático
+- Negro y Metálico
 - Analógico en Acero inoxidable para Unisex
 - WR 200mt
-- Negro y Metálico
+- Automático
+- Clâsico
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01LZNVBAR/?tag=tolees-21)

@@ -25,9 +25,9 @@ En este momento está [Nescafé DOLCE GUSTO Magnum CAFÉ CON LECHE - Cápsulas d
 
 🔎:
 
-- Descubre nuestras más de 30 variedades de cápsulas de café, té, chocolate y especialidades de espresso con leche
+- Café gourmet seleccionando los orígenes de mayor calidad con el inconfundible sabor NESCAFÉ Dolce Gusto
 - Su sellado hermético mantiene el café fresco conservando todos sus aromas
 - Cápsulas inteligentes
-- Café gourmet seleccionando los orígenes de mayor calidad con el inconfundible sabor NESCAFÉ Dolce Gusto
+- Descubre nuestras más de 30 variedades de cápsulas de café, té, chocolate y especialidades de espresso con leche
 
 [Aquí!!!](https://www.amazon.es/dp/B013W8QZXM/?tag=tolees-21)

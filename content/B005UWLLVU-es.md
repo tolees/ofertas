@@ -25,8 +25,8 @@ Tienes [NIKE Nk Heritage S Smit Small Items waistpacks  Hombre  Black/Black/Whit
 
 ℹ️:
 
+- Sportware
 - Training
 - Nike
-- Sportware
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B005UWLLVU/?tag=tolees-21)

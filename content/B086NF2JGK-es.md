@@ -25,10 +25,10 @@ Ahora mismo tienes [Kingdom Majestic - Limited Edition](https://www.amazon.es/dp
 
 🔎:
 
-- Funda especial para la caja
-- Banda Sonora Digital
 - Imagen lenticular 3D
 - Carátula reversible
+- Funda especial para la caja
 - Arte desplegable que forma un mapa
+- Banda Sonora Digital
 
 [Visítala!!!](https://www.amazon.es/dp/B086NF2JGK/?tag=tolees-21)

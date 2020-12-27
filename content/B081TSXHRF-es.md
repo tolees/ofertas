@@ -25,8 +25,8 @@ Está [adidas CON20 TR Top Sweatshirt  Hombre  Team Royal Blue  L](https://www.a
 
 ℹ️:
 
-- Regular fit
 - Adidas logo
+- Regular fit
 - Soft fabric
 
 [Ver la oferta!!](https://www.amazon.es/dp/B081TSXHRF/?tag=tolees-21)
