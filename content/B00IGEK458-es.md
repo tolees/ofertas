@@ -26,8 +26,8 @@ En este momento está [Lotus 15956/2 - Reloj de Cuarzo para Hombre  con Correa d
 🔎:
 
 - Viene en una caja de regalo
-- Visualización analógica, calendario con día y fecha
 - Resistencia al agua de 50 m
+- Visualización analógica, calendario con día y fecha
 - Incluye agujas luminiscentes
 - Cristal mineral endurecido
 

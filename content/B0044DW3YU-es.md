@@ -25,10 +25,10 @@ En este momento está [CAMPER  Pelotas XL  Herren Sneakers  Schwarz  Black   40 
 
 🔎:
 
-- Suela/Características: EVA para mayor ligereza
-- Color: Negro
-- Forro:
 - Empeine: Piel (Piel vacuna)
+- Forro:
+- Color: Negro
+- Suela/Características: EVA para mayor ligereza
 - Plantilla: Plantilla extraíble de EVA con sistema amortiguador
 
 [Aquí!!!](https://www.amazon.es/dp/B0044DW3YU/?tag=tolees-21)

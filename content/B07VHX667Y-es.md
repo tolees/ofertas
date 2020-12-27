@@ -25,8 +25,8 @@ Ahora mismo tienes [Rouge Signature Parisian Sunset](https://www.amazon.es/dp/B0
 
 🔎:
 
+- Labios mate durante todo el día pero con la sensación de no llevar nada puesto
 - Pintalabios líquido metálico permanente
 - Disponible en 12 tonos mate permanentes
-- Labios mate durante todo el día pero con la sensación de no llevar nada puesto
 
 [Visítala!!!](https://www.amazon.es/dp/B07VHX667Y/?tag=tolees-21)
