@@ -25,10 +25,10 @@ Ahora mismo tienes [PRIXTON Kitchen Gourmet KG200 - Robot de Cocina Multifunció
 
 🔎:
 
-- Tiene pantalla LCD, potencia calentar de 1000 vatios y potencia picadora de 800 vatios
+- Báscula integrada, recetario y accesorios incluidos
 - Vaso y cuchillas de acero inoxidable y capacidad del vaso de 2.5 litros / 2 litros en uso
 - Temperatura ajustable 30 - 140 grados y temporizador de 0 a 99 minutos
-- Báscula integrada, recetario y accesorios incluidos
+- Tiene pantalla LCD, potencia calentar de 1000 vatios y potencia picadora de 800 vatios
 - Con 10 velocidades, velocidad cuchillas: 45 -5000 rpm
 
 [Visítala!!!](https://www.amazon.es/dp/B07TZ572KF/?tag=tolees-21)

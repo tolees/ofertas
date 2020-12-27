@@ -26,9 +26,9 @@ Tienes [adidas Duramo SL  Zapatillas para Hombre  NEGBÁS/NEGBÁS/GRISEI  39.33 
 🔎:
 
 - Horma clásica
-- Diseño ligero
 - Parte superior de malla
 - Zapatilla de running versátil
 - Cierre de cordones
+- Diseño ligero
 
 [Comprar!!!](https://www.amazon.es/dp/B0834BDHKK/?tag=tolees-21)

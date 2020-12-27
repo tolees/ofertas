@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS PRIME B450-PLUS - Placa base AMD AM al 30.04 % de descuento'
-date: 2020-12-24 13:38:14
+date: 2020-12-27 20:27:51
 image: 'https://m.media-amazon.com/images/I/51M9aTE-krL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F6ZXNXK/?tag=tolees-21'
 descuento: '30.04'
-average: '84.462'
+average: '80.3157142857143'
 ---
 
 Está [ASUS PRIME B450-PLUS - Placa base AMD AM4 ATX con conector Aura Sync RGB  DDR4 3200 MHz  M.2  HDMI 2.0b  SATA 6 Gbps y USB 3.1 Gen. 2  soporta Ryzen 3000](https://www.amazon.es/dp/B07F6ZXNXK/?tag=tolees-21) con 30.04 de descuento por 69.95 EUR (original: 99.99 EUR) en el siguiente enlace!
@@ -25,9 +25,9 @@ Está [ASUS PRIME B450-PLUS - Placa base AMD AM4 ATX con conector Aura Sync RGB 
 
 ℹ️:
 
-- Conectividad de alta velocidad: USB 3.1 Gen. 2 y M.2 proporcionan más flexibilidad
-- 5X Protection III: Protecciones hardware para una protección integral del sistema
-- Fan Xpert 4 Core: Controles integrales de los ventiladores y bombas todo en uno, y supervisión de temperaturas GPU para optimizar la refrigeración
 - Conector ASUS Aura Sync: Conecta tiras LED RGB y sincronízalas con el resto de dispositivos compatibles
+- 5X Protection III: Protecciones hardware para una protección integral del sistema
+- Conectividad de alta velocidad: USB 3.1 Gen. 2 y M.2 proporcionan más flexibilidad
+- Fan Xpert 4 Core: Controles integrales de los ventiladores y bombas todo en uno, y supervisión de temperaturas GPU para optimizar la refrigeración
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07F6ZXNXK/?tag=tolees-21)

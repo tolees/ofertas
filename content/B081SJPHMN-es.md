@@ -26,7 +26,7 @@ Está [adidas CON20 PRE PNT Pantalones de Deporte  Hombre  Black/White  XL](http
 ℹ️:
 
 - Tapered fit
-- Climalite anti-humidity fabric
 - Elastic waistband with lanyard
+- Climalite anti-humidity fabric
 
 [Ver la oferta!!](https://www.amazon.es/dp/B081SJPHMN/?tag=tolees-21)

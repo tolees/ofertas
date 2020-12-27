@@ -25,10 +25,10 @@ Está [Intex 58785EU - Figura realista Perrito Pug con asas](https://www.amazon.
 
 ℹ️:
 
-- Las medidas de la colchoneta son 173 x 130 cm y el grosor del vinilo 0.28 mm
-- Soporta un peso máximo de 100 kg y se aconseja a partir de los 14 años de edad
-- La colchoneta tiene una impresión fotorrealista con la forma de un carlino
-- Cuenta con 2 asas soldadas a la lona que mejoran la sujeció y el transporte
 - Contiene un set de reparación de productos Intex para poros o pinchazos
+- Las medidas de la colchoneta son 173 x 130 cm y el grosor del vinilo 0.28 mm
+- Cuenta con 2 asas soldadas a la lona que mejoran la sujeció y el transporte
+- La colchoneta tiene una impresión fotorrealista con la forma de un carlino
+- Soporta un peso máximo de 100 kg y se aconseja a partir de los 14 años de edad
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07HKW81SH/?tag=tolees-21)

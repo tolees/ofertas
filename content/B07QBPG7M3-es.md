@@ -1,28 +1,34 @@
 ---
 layout: post
-title: 'G-STAR RAW Roxic Tapered Cargo Pantalone al 35.48 % de descuento'
-date: 2020-12-06 12:28:07
+title: 'G-STAR RAW Roxic Tapered Cargo Pantalone con un 40.00 % de descuento'
+date: 2020-12-27 20:31:49
 image: 'https://m.media-amazon.com/images/I/4131dqgw8yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07QBPG7M3-es'
-actualPrice: 64.49 EUR
+actualPrice: 59.97 EUR
 currency: EUR
-price: 64.49
+price: 59.97
 comparePrice: 99.95 EUR
 prodname: 'G-STAR RAW Roxic Tapered Cargo Pantalones  Gris  Asfalt 4893-995   25W / 30L para Hombre'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QBPG7M3/?tag=tolees-21'
-descuento: '35.48'
+descuento: '40.00'
+average: '62.983333333333334'
 ---
 
-Ahora mismo tienes [G-STAR RAW Roxic Tapered Cargo Pantalones  Gris  Asfalt 4893-995   25W / 30L para Hombre](https://www.amazon.es/dp/B07QBPG7M3/?tag=tolees-21) a 64.49 EUR (original: 99.95 EUR) (35.48 %  de descuento) en el siguiente enlace!
+En este momento está [G-STAR RAW Roxic Tapered Cargo Pantalones  Gris  Asfalt 4893-995   25W / 30L para Hombre](https://www.amazon.es/dp/B07QBPG7M3/?tag=tolees-21) a 59.97 EUR (original: 99.95 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
 [![G-STAR RAW Roxic Tapered Cargo Pantalone](https://m.media-amazon.com/images/I/4131dqgw8yL._SL200_.jpg)](https://www.amazon.es/dp/B07QBPG7M3/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Cierre de botones y cremallera
+- Bajo ajustable con cinta
+- Cierre de botones y cremallera
+- Logotipo de G-Star RAW en el bolsillo para monedas y etiqueta tejida en el bajo
+- Talle medio
 
-[Visítala!!!](https://www.amazon.es/dp/B07QBPG7M3/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B07QBPG7M3/?tag=tolees-21)

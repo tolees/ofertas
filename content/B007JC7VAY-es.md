@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PALMOLIVE NATURALS DELICATE CARE WITH AL al 69.14 % de descuento'
-date: 2020-12-26 14:42:59
+date: 2020-12-27 20:51:13
 image: 'https://m.media-amazon.com/images/I/4109YwiLdbL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B007JC7VAY/?tag=tolees-21'
 descuento: '69.14'
-average: '1.4864661654135343'
+average: '1.486666666666667'
 ---
 
 Ahora mismo tienes [PALMOLIVE NATURALS DELICATE CARE WITH ALMOND MILK LOTE 3 piezas](https://www.amazon.es/dp/B007JC7VAY/?tag=tolees-21) a 1.5 EUR (original: 4.86 EUR) (69.14 %  de descuento) en el siguiente enlace!

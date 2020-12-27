@@ -25,10 +25,10 @@ Tienes [Suhctup Funda Transparent Compatible para Huawei Mate 10 Pro Carcasa Pro
 
 ℹ️:
 
-- ✤ Hecho de ultra fina flexible transparente silicona TPU gel con moda dibujo, conserva el aspecto original de tu Huawei Mate 10 Pro y agrega más personalidad. Buena calidad TPU ofreciendo de anti-amarillea Anti-Rasguños, Protección Caídas, Anti-Choque, Anti-Arañazos, anti polvo, anti huella digital, etc.
+- ✤ Diseño anticaídas con colchón de aire en las cuatro esquinas, absorbe y disipa eficazmente la fuerza de impacto, impidiendo que esa fuerza pase a tu Huawei Mate 10 Pro.
 - ✤ Carcasa Esquinas Reforzadas compatible con 【Huawei Mate 10 Pro】, la forma de la funda para Huawei Mate 10 Pro ajusta perfectamente a las curvas de tu dispositivo sin añadir volumen.
 - ✤ El borde sobresale ligeramente, los labios levantados protegen la cámara trasera y protege la pantalla, protege tu Huawei Mate 10 Pro de la superficie para evitar que el teléfono roce contra el plano.
 - ✤ Fácil de instalar y quitar sin rayar tu Huawei Mate 10 Pro. Fácil acceso a todos los botones, altavoces, cámaras, carga, volumen y otros recortes para puertos sin abrir el estuche para una. También admite carga inalámbrica perfectamente.
-- ✤ Diseño anticaídas con colchón de aire en las cuatro esquinas, absorbe y disipa eficazmente la fuerza de impacto, impidiendo que esa fuerza pase a tu Huawei Mate 10 Pro.
+- ✤ Hecho de ultra fina flexible transparente silicona TPU gel con moda dibujo, conserva el aspecto original de tu Huawei Mate 10 Pro y agrega más personalidad. Buena calidad TPU ofreciendo de anti-amarillea Anti-Rasguños, Protección Caídas, Anti-Choque, Anti-Arañazos, anti polvo, anti huella digital, etc.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B087X5YF5G/?tag=tolees-21)
