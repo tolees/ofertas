@@ -25,10 +25,10 @@ Tienes [Linterna de Trabajo Recargable 1800mAh  lámpara de Inspección 5 Modos 
 
 ℹ️:
 
+- 【Batería recargable de alta capacidad】Construido en 1800mAh 18650 baterías de Li-ion y cable de cargador micro USB está incluido. Se puede usar continuamente durante de 6-8 horas en modo resaltado y 15-20 horas en modo de poca luz.
 - 【Cómodo de usar】COB Linterna proporciona una luz de inundación de gran alcance que Distancia de iluminación alcanzado 50-100M. Ideal para el hogar, al aire libre, defensa personal, taller, camping, espeleología, senderismo, caza, pesca, paseos de perros y luz de emergencia.
-- 【5 modos de luz & 800 lúmenes】Alto COB LED, bajo COB LED, luz LED, luz roja y luz roja intermitente 5 modos de iluminación diferentes para satisfacer sus necesidades de iluminación. 500-800 lúmenes satisfacen más necesidades de iluminación.
 - 【Antorcha portátil liviana】 Fabricada en material 100% ABS premium+ aleación de aluminio, la linterna es resistente a los arañazos. Diseño plegable, puede llevar la linterna no importa dónde usted viaja.
 - 【Diseño único】Rotación de 360° proporciona iluminación de varios ángulos. Fuertes imanes se puede unir dentro de los vehículos y lugares de trabajo.Diseño compacto y clip, fácil de transportar.
-- 【Batería recargable de alta capacidad】Construido en 1800mAh 18650 baterías de Li-ion y cable de cargador micro USB está incluido. Se puede usar continuamente durante de 6-8 horas en modo resaltado y 15-20 horas en modo de poca luz.
+- 【5 modos de luz & 800 lúmenes】Alto COB LED, bajo COB LED, luz LED, luz roja y luz roja intermitente 5 modos de iluminación diferentes para satisfacer sus necesidades de iluminación. 500-800 lúmenes satisfacen más necesidades de iluminación.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B079GZMQD5/?tag=tolees-21)

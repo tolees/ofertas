@@ -28,7 +28,7 @@ En este momento está [Olliwon Alcachofa de Ducha con Alta Presión Acero Inoxid
 - Fácil de quitar y limpiar: El cabezal de ducha está equipado con un filtro para evitar la acumulación de cal. Gracias a su cabezal desmontable , es fácil de quitar y limpiar.
 - Material Ecológico: Fabricada en acero inoxidable de calidad (no contiene plástico ABS ni cromo), sin tóxicos ni plomo. Estas alcachofas para ducha no contiene ningún material perjudicial y es cuidadosa con el medio ambiente, previniendo los descoloramientos.
 - Garantía: Tiene 2 años de garantía para esta alcachofa de ducha, en caso de encontrar cualquier problema, pongase en contacto con nosotros y se le dará uno nuevo gratis.
-- Fácil de Instalar y Limpiar: Fácil de montar gracias a la conexión estándar de 21 mm (G 1/2"). compatible con la mayoría de las mangueras y soporte de ducha del mercado, sus piezas son desmontables para lavar por separado.
 - Alcachofa de ducha de alta presión: Esta avanzada alcachofa de ducha de Mano está realizada en acero inoxidable y con 310 microaperturas de 0.15 mm, que sirven para aumentar la velocidad del flujo de agua y la fuerza del agua aún en zonas con poca presión.
+- Fácil de Instalar y Limpiar: Fácil de montar gracias a la conexión estándar de 21 mm (G 1/2"). compatible con la mayoría de las mangueras y soporte de ducha del mercado, sus piezas son desmontables para lavar por separado.
 
 [Aquí!!!](https://www.amazon.es/dp/B07VL48XHZ/?tag=tolees-21)

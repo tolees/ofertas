@@ -25,10 +25,10 @@ Ahora mismo tienes [Vileda Smart - Tabla de planchar con sistema de seguridad Cl
 
 🔎:
 
-- La tabla de planchado Vileda Smart es un accesorio indispensable para planchar la ropa de manera cómoda y rápida, gracias a su estabilidad, resistencia y tamaño reducido
-- Tabla de planchado que ofrece una superficie de trabajo de 34 cm de ancho, un reposa caldera con partes en silicona y bloqueo vertical, peso máximo que la tabla soporta 10 kg
 - ¡Atención! La tabla de planchar tiene 132 cm x 40 cm y la superficie de planchado es de 114 x 34 cm
+- La tabla de planchado Vileda Smart es un accesorio indispensable para planchar la ropa de manera cómoda y rápida, gracias a su estabilidad, resistencia y tamaño reducido
 - Tiene una buena transpiración del vapor gracias a la malla de metal y a la funda transpirable de algodón y espuma, altura ajustable hasta 95 cm para planchar con comodidad, sin inclinarse
 - Las dimensiones reducidas son óptimas para aquellos que necesitan de una tabla de planchado pero no tienen suficiente espacio, ligera y manejable permite trasladarla y guardarla con facilidad
+- Tabla de planchado que ofrece una superficie de trabajo de 34 cm de ancho, un reposa caldera con partes en silicona y bloqueo vertical, peso máximo que la tabla soporta 10 kg
 
 [Visítala!!!](https://www.amazon.es/dp/B005U8N7JI/?tag=tolees-21)

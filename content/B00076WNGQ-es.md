@@ -25,8 +25,8 @@ Está [BarCraft KCBCCON3 Connoisseur - Juego de sacacorchos de palanca y brazo d
 
 ℹ️:
 
-- Limpiar solo. Asas suaves al tacto. Garantía de 25 años
 - Presentado en una presentación para regalo de lujo y caja de almacenamiento , con el cierre magnético
 - El juego consta de: sacacorchos con brazo de palanca, tapón, soporte de exhibición, cortador de aluminio, tornillo de sacacorchos de repuesto
+- Limpiar solo. Asas suaves al tacto. Garantía de 25 años
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00076WNGQ/?tag=tolees-21)

@@ -26,8 +26,8 @@ En este momento está [Juego para Niños mayores de 5 años Comando Detectives d
 🔎:
 
 - Juega con tu comando y demostrad que sois los mejores detectives de la ciudad
-- Fijad los 3 lugares con el triángulo para conseguir la descripción del sospechoso ¿seréis capaces de encontrarlo en el segundo mapa?
-- Deberéis entrevistar a los sospechosos e identificar al culpable
 - Tendréis que seguir las indicaciones del puntero y buscar entre los periódico y ¡las pistas os llevarán a distintos lugares del mapa!
+- Deberéis entrevistar a los sospechosos e identificar al culpable
+- Fijad los 3 lugares con el triángulo para conseguir la descripción del sospechoso ¿seréis capaces de encontrarlo en el segundo mapa?
 
 [Aquí!!!](https://www.amazon.es/dp/B07TTDCR3F/?tag=tolees-21)
