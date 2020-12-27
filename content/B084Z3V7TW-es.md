@@ -25,8 +25,8 @@ Ahora mismo tienes [Reebok Classic Nylon  Sneaker Mujer  Black/Black/White  42 E
 
 🔎:
 
-- Parte superior de gamuza de nylon transpirable para un ajuste cómodo
 - Suela intermedia EVA ergonómica y ligera para una excelente amortiguación
 - Plantilla de espuma acolchada para una amortiguación óptima y una mayor comodidad de uso
+- Parte superior de gamuza de nylon transpirable para un ajuste cómodo
 
 [Visítala!!!](https://www.amazon.es/dp/B084Z3V7TW/?tag=tolees-21)

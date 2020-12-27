@@ -25,9 +25,9 @@ En este momento está [Sony SRSXB01L - Altavoz inalámbrico portátil  Compacto 
 
 🔎:
 
+- Resistente al agua IPX5 para un uso sin preocupaciones
 - Hasta 6 horas de duración de la batería
 - Diseño compacto y portátil
-- Resistente al agua IPX5 para un uso sin preocupaciones
 - Extra Bass para un sonido rotundo y profundo
 
 [Aquí!!!](https://www.amazon.es/dp/B07GT8CMHP/?tag=tolees-21)
