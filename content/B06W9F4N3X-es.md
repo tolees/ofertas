@@ -25,8 +25,8 @@ En este momento está [Tommy Hilfiger 3p Trunk Bóxer  Multicolor  Multi/Peacoat
 
 🔎:
 
-- Cinta distintiva en la cintura
 - Producto con diseño clásico y estilo para todos los días
+- Cinta distintiva en la cintura
 - Ajuste cómodo y adecuado
 - Cintura con la inscripción de Tommy Hilfiger
 
