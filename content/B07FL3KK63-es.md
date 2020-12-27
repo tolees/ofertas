@@ -25,10 +25,10 @@ En este momento está [Tommy Hilfiger Reloj Analógico para Hombre de Cuarzo con
 
 🔎:
 
-- Dos manecillas
 - Grosor de la caja de 6,20mm
 - Pulsera oro amarillo
-- 5 ATM de resistencia al agua
+- Dos manecillas
 - Esfera azul
+- 5 ATM de resistencia al agua
 
 [Aquí!!!](https://www.amazon.es/dp/B07FL3KK63/?tag=tolees-21)

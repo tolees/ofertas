@@ -25,12 +25,12 @@ Está [New Balance Mujer 574v2 Core  Zapatillas Azul  WL574EN   36.5 EU](https:/
 
 ℹ️:
 
-- Cierre: Cordones
-- Revestimiento: Tela
 - Composición: Empeine de malla y ante
-- Tipo de tacón: Plano
-- Material exterior: Cuero
-- Anchura del zapato: Normal
+- Cierre: Cordones
 - Material de la suela: Sintético
+- Revestimiento: Tela
+- Anchura del zapato: Normal
+- Material exterior: Cuero
+- Tipo de tacón: Plano
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06XWSSXTR/?tag=tolees-21)

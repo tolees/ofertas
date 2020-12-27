@@ -25,10 +25,10 @@ Está [Tommy Hilfiger Original Rib Camisa  Negro  Tommy Black 078   Small para H
 
 ℹ️:
 
-- Diseño ajustado
-- Algodón orgánico puro
-- Cuello redondo
-- Logotipo Tommy Jeans
 - Logotipo Tommy Jeans bordado en el pecho
+- Cuello redondo
+- Diseño ajustado
+- Logotipo Tommy Jeans
+- Algodón orgánico puro
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07771GVSZ/?tag=tolees-21)

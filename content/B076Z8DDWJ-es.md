@@ -25,10 +25,10 @@ En este momento está [Dock Station Stand PS4 Musou USB Dual Base controller PS4
 
 🔎:
 
-- Conexión del cable también permitirá a la carga sin dejar de ser utilizado
-- El cargador de mandos PS4 es ideal para ahorrar espacio al guardar tus mandos en el cargador cuando no estés jugando.
-- Le permite almacenar de forma segura y cargar hasta dos controladores al mismo tiempo PS4
-- Alimentación a través del puerto USB, ya sea del PS4 o PC;El diseño práctico puede recargar 2 Gamepads a la vez
 - Salida: salida de 5v con 200 a 400 mAh, un solo controlador podría estar completamente cargada antes de 2 horas, y dos controladores sólo necesitan alrededor de 4 horas
+- Conexión del cable también permitirá a la carga sin dejar de ser utilizado
+- Le permite almacenar de forma segura y cargar hasta dos controladores al mismo tiempo PS4
+- El cargador de mandos PS4 es ideal para ahorrar espacio al guardar tus mandos en el cargador cuando no estés jugando.
+- Alimentación a través del puerto USB, ya sea del PS4 o PC;El diseño práctico puede recargar 2 Gamepads a la vez
 
 [Aquí!!!](https://www.amazon.es/dp/B076Z8DDWJ/?tag=tolees-21)

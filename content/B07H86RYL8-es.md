@@ -25,15 +25,15 @@ En este momento está [Panasonic ES-LL41-K503 Afeitadora  Recortadora y Perfilad
 
 🔎:
 
-- Accesorio TRIMMER para recortar y estilizar la barba y el bigote- 2 peines guía para 6 longitudes de corte (1,2,3 mm y 5,6,7mm)
-- 3 Cuchillas de acero inoxidable japonés
-- WET&DRY- uso a seco y mojado/ 100% lavable
-- Tiempo de carga: 1 hora; Alimentación universal 100V- 240V; Duración de la batería: 50 minutos; 2 indicadores LED
-- Afeita, recorta y perfila contornos con esta afeitadora 3 en 1; Afeitado suave pero apurado
-- Recortador desplegable con dos accesorios
+- Las hojas recortadoras te permiten cortar la barba con un efecto de barba incipiente y dar forma al bigote para lucir fácilmente un aspecto estilizado
 - Modo TURBO- limpieza t bloqueo de viaje
 - Motor lineal de 13.000 oscilaciones por minuto con sensor de afeitado inteligente
-- Las hojas recortadoras te permiten cortar la barba con un efecto de barba incipiente y dar forma al bigote para lucir fácilmente un aspecto estilizado
 - Recortadora de precisión pop-up integrada; Sistema de corte de triple hoja
+- Accesorio TRIMMER para recortar y estilizar la barba y el bigote- 2 peines guía para 6 longitudes de corte (1,2,3 mm y 5,6,7mm)
+- WET&DRY- uso a seco y mojado/ 100% lavable
+- Recortador desplegable con dos accesorios
+- 3 Cuchillas de acero inoxidable japonés
+- Tiempo de carga: 1 hora; Alimentación universal 100V- 240V; Duración de la batería: 50 minutos; 2 indicadores LED
+- Afeita, recorta y perfila contornos con esta afeitadora 3 en 1; Afeitado suave pero apurado
 
 [Aquí!!!](https://www.amazon.es/dp/B07H86RYL8/?tag=tolees-21)

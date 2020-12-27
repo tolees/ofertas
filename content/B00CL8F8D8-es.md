@@ -25,9 +25,9 @@ En este momento está [KabelDirekt 5m Cable Coaxial Antena en Ángulo 90°   Cla
 
 🔎:
 
-- 36 meses de garantía del fabricante
-- En ángulo 90°
-- Cable de antena para la transmisión de señales analógicas, digitales y de alta definición digital para receptores, radios, set-top boxes de televisión y otros dispositivos con instalaciones de recepción adecuadas
 - Blindaje de alta densidad calificación blindaje = 100db - pero flexible
+- En ángulo 90°
+- 36 meses de garantía del fabricante
+- Cable de antena para la transmisión de señales analógicas, digitales y de alta definición digital para receptores, radios, set-top boxes de televisión y otros dispositivos con instalaciones de recepción adecuadas
 
 [Aquí!!!](https://www.amazon.es/dp/B00CL8F8D8/?tag=tolees-21)

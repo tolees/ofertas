@@ -25,9 +25,9 @@ Ahora mismo tienes [Mars Gaming MCK  Caja PC ATX  Triple Franja LED  Ventilador 
 
 🔎:
 
-- Acceso multimedia Fácil y Cómodo: cuenta con diferentes puertos de entrada multimedia en el panel superior; 1x USB 3.0, 1xUSB 2.0 y conectores de audioHD
-- Diseño avanzado: Caja gaming para ordenador con frontal triple franja LED RGB y estructura optimizada para ofrecer un espacio óptimo a tus componentes y ofrecer una estación ATX de alto rendimiento
 - Ventilador RGB Simncronizado: Incluye ventilador trasero de 120mm Ring RGB con sistema de luz sincronizado
+- Acceso multimedia Fácil y Cómodo: cuenta con diferentes puertos de entrada multimedia en el panel superior; 1x USB 3.0, 1xUSB 2.0 y conectores de audioHD
 - Iluminación RGB: espectacular frontal con triple franja LED RGB sincronizada con el ventilador Ring de 120mm, creando armonía y efectos únicos de luz a través de los 20 efectos, logrando potenciar la estética de la caja
+- Diseño avanzado: Caja gaming para ordenador con frontal triple franja LED RGB y estructura optimizada para ofrecer un espacio óptimo a tus componentes y ofrecer una estación ATX de alto rendimiento
 
 [Visítala!!!](https://www.amazon.es/dp/B089YDT1X2/?tag=tolees-21)

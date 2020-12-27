@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fantasy Flight Games- Star Wars: El Desp al 56.63 % de descuento'
-date: 2020-12-24 17:13:18
+date: 2020-12-27 14:32:03
 image: 'https://m.media-amazon.com/images/I/51rPIMG8kJL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077SQ32SG/?tag=tolees-21'
 descuento: '56.63'
-average: '13.551702127659576'
+average: '13.528775510204083'
 ---
 
 Ahora mismo tienes [Fantasy Flight Games- Star Wars: El Despertar de la Fuerza: Caja de Inicio - Español  Color  FFSWR09 ](https://www.amazon.es/dp/B077SQ32SG/?tag=tolees-21) a 12.99 EUR (original: 29.95 EUR) (56.63 %  de descuento) en el siguiente enlace!
@@ -26,14 +26,14 @@ Ahora mismo tienes [Fantasy Flight Games- Star Wars: El Despertar de la Fuerza: 
 🔎:
 
 - 0
-- 0
-- Esta caja de inicio es la introducción perfecta para jugadores de todos los niveles, ya sean recién iniciados en los juegos de rol o veteranos que aún no han probado los juegos de rol de star wars
-- Este producto es un juego independiente diseñado para grupos de 3 a 5 jugadores
-- 0
 - Reúne a tus amigos y preparaos para vivir aventuras en la galaxia de star wars
 - 0
-- Con el contenido de esta caja podréis empezar a jugar sin necesidad de preparativos
-- 0
+- Esta caja de inicio es la introducción perfecta para jugadores de todos los niveles, ya sean recién iniciados en los juegos de rol o veteranos que aún no han probado los juegos de rol de star wars
 - A partir de 12 años de edad
+- Con el contenido de esta caja podréis empezar a jugar sin necesidad de preparativos
+- Este producto es un juego independiente diseñado para grupos de 3 a 5 jugadores
+- 0
+- 0
+- 0
 
 [Visítala!!!](https://www.amazon.es/dp/B077SQ32SG/?tag=tolees-21)

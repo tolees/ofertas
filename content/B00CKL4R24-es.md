@@ -25,10 +25,10 @@ Tienes [The Glenlivet 12 años Whisky Escocés de Malta Premium - 700 ml](https:
 
 🔎:
 
+- Se recomienda servir solo o con hielo en un vaso de cristal ancho
 - El roble americano le aporta toques de vainilla que le otorgan su particular sabor
 - Su aroma es afrutado con un toque veraniego
-- Whisky escocés de 12 años, que combina diferentes tipos de barriles europeos y americanos de gran calidad
-- Se recomienda servir solo o con hielo en un vaso de cristal ancho
 - Es un whiskey de color dorado intenso y brillante, y presenta un sabor con un equilibrio delicado y fuertes notas de piña
+- Whisky escocés de 12 años, que combina diferentes tipos de barriles europeos y americanos de gran calidad
 
 [Comprar!!!](https://www.amazon.es/dp/B00CKL4R24/?tag=tolees-21)
