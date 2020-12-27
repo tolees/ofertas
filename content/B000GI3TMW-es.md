@@ -25,8 +25,8 @@ En este momento está [Shiseido 57288 - Champú](https://www.amazon.es/dp/B000GI
 
 🔎:
 
-- 300 ml
-- Genero - Unisex
 - Marca - Shiseido
+- Genero - Unisex
+- 300 ml
 
 [Aquí!!!](https://www.amazon.es/dp/B000GI3TMW/?tag=tolees-21)

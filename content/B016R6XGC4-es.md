@@ -25,11 +25,11 @@ Tienes [Adidas Milano 16 Sock Socks  Hombre  Amarillo/Negro  37-39 EU  1 par](ht
 
 🔎:
 
-- Bolsillos tipo parche en el pecho.
-- Tejido técnico que acompaña el movimiento natural del cuerpo.
-- Confeccionada parcialmente en tejido reciclado.
-- Cuello de pico de canalé.
 - Franjas de acolchado apoya y protege las áreas
+- Cuello de pico de canalé.
+- Bolsillos tipo parche en el pecho.
 - Diseño a rayas del mismo tono.
+- Confeccionada parcialmente en tejido reciclado.
+- Tejido técnico que acompaña el movimiento natural del cuerpo.
 
 [Comprar!!!](https://www.amazon.es/dp/B016R6XGC4/?tag=tolees-21)
