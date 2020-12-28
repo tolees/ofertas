@@ -26,9 +26,9 @@ Tienes [winfun - Arrastre caracol  46312 ](https://www.amazon.es/dp/B07S4VD9NT/?
 🔎:
 
 - Pulsando sobre la mariquita, las bolas giran dentro del caparazón y se mezclan como en una divertida batidora
-- El caparazón tiene 2 huecos a los lados para insertar las 3 pelotas de colores que incluye y una puertecita en la parte trasera
 - Es un juguete eléctrico que emite melodías mientras acompaña al pequeño en sus paseos, incluye pilas (2xAA)
-- El caracol tiene cuatro ruedas y una cuerda en la parte delantera para que el pequeño lo arrastre cómodamente mientras pasea
 - Caracol de arrastre con juego de bolas y melodías, adecuado para acompañarle en sus primeros pasos (12 a 18 meses)
+- El caparazón tiene 2 huecos a los lados para insertar las 3 pelotas de colores que incluye y una puertecita en la parte trasera
+- El caracol tiene cuatro ruedas y una cuerda en la parte delantera para que el pequeño lo arrastre cómodamente mientras pasea
 
 [Comprar!!!](https://www.amazon.es/dp/B07S4VD9NT/?tag=tolees-21)

@@ -25,7 +25,7 @@ Ahora mismo tienes [Reebok Classic Leather - Zapatillas de cuero para hombre  co
 
 🔎:
 
-- Hombre
 - 2018
+- Hombre
 
 [Visítala!!!](https://www.amazon.es/dp/B00XJYW0A2/?tag=tolees-21)

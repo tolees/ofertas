@@ -25,11 +25,11 @@ Tienes [Candy CDCP 6/E-S - Lavavajillas pequeño  6 servicios  6 Programas  Inic
 
 🔎:
 
-- Evo Space: Gama que combina la flexibilidad en capacidad y la calidad en el lavado; adecuado para espacios reducidos como apartamentos, albergues, segundas residencias
-- Muy silencioso: Tan sólo 51dba; usa el lavavajillas en cualquier momento sin preocuparte por el ruido
 - Compacto: Los Lavavajillas compactos Candy encajan incluso en los espacios más reducidos: eficiencia energética clase A+, 6 servicios, 6 programas con 5 niveles de temperatura diferentes y 7 litros de consumo de agua por ciclo
 - Dimensiones Alto x Ancho x Profundo (centimetros): 43,8 x 55 x 50
 - Ciclo ECO: El ciclo con mejor rendimiento en términos de ahorro de agua y energía, para ahorrar agua y dinero ofreciendo resultados de lavado y secado
 - 6 programas: intensivo (140min), normal (120min),economy 50º (195min),cristal 45º (75min),diario 65º (90min),rápido 40º (30min)
+- Muy silencioso: Tan sólo 51dba; usa el lavavajillas en cualquier momento sin preocuparte por el ruido
+- Evo Space: Gama que combina la flexibilidad en capacidad y la calidad en el lavado; adecuado para espacios reducidos como apartamentos, albergues, segundas residencias
 
 [Comprar!!!](https://www.amazon.es/dp/B019LZKOHS/?tag=tolees-21)

@@ -25,10 +25,10 @@ En este momento está [Pack 2 en 1 de Ratón y Alfombrilla Marca Mr. Wonderful d
 
 🔎:
 
+- Pack de alfombrilla y ratón de corazones
 - Ratón wireless de baterías con receptor usb
-- Divertido y original diseño
 - Mousepad con tejido antideslizante y adherente para escritorios de todo tipo.
 - Con infrarojo óptico para mayor precisión, scroller y botón on/off
-- Pack de alfombrilla y ratón de corazones
+- Divertido y original diseño
 
 [Aquí!!!](https://www.amazon.es/dp/B08CHC63TC/?tag=tolees-21)

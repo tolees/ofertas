@@ -25,9 +25,9 @@ En este momento está [Fujifilm Instax Mini 70 - Cámara analógica instantánea
 
 🔎:
 
+- Espejo frontal para encuadrar los selfies
 - Modo Selfie para autorretratos
 - Modo macro 0,3 m - 0,6 m
-- Espejo frontal para encuadrar los selfies
 - Control automático de exposición
 
 [Aquí!!!](https://www.amazon.es/dp/B01618VDVO/?tag=tolees-21)
