@@ -25,13 +25,13 @@ Tienes [Jata BT797 Batidora de Vaso Capacidad 1 5 l Cuerpo de Acero Inoxidable C
 
 ℹ️:
 
-- Garantía: todos los productos jata cuentan con tres años de garantía
-- Velocidades: lleva un regulador electrónico de 2 velocidades diferentes
-- Jarra: la batidora BT797 lleva una jarra de cristal de 1,5 litros de capacidad; la jarra es desmontable para poder lavar fácilmente
-- Potencia: la potencia es de 1.300 w
-- Hielo: es capaz de picar hielo por lo que se pueden preparar unos riquísimos smoothies, batidos, granizados o mojitos
 - Cuchillas: en su interior cuenta con cuchillas dentadas de acero inoxidable
-- Cuerpo: su cuerpo es de acero inoxidable lo que la hace muy atractiva e ideal para cualquier cocina
+- Potencia: la potencia es de 1.300 w
 - Seguridad: lleva un sistema homologado de seguridad para evitar cualquier tipo de incidencia con el producto
+- Garantía: todos los productos jata cuentan con tres años de garantía
+- Jarra: la batidora BT797 lleva una jarra de cristal de 1,5 litros de capacidad; la jarra es desmontable para poder lavar fácilmente
+- Hielo: es capaz de picar hielo por lo que se pueden preparar unos riquísimos smoothies, batidos, granizados o mojitos
+- Velocidades: lleva un regulador electrónico de 2 velocidades diferentes
+- Cuerpo: su cuerpo es de acero inoxidable lo que la hace muy atractiva e ideal para cualquier cocina
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07C85PTGJ/?tag=tolees-21)

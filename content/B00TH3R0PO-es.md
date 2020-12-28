@@ -25,10 +25,10 @@ Tienes [Bourjois Twist Up Máscara de pestañas Tono 52 Ultra Black - 8 ml](http
 
 ℹ️:
 
-- Sin parabenos
-- La posición rotada del cepillo intensifca y da volumen a las pestañas
 - Máscara de pestañas con un cepillo con dos posiciones que hace que las pestañas sean más largas y voluminosas
-- La posición extendida del cepillo alarga las pestañas
 - Su fórmula proporciona una cobertura completa y un volumen asombroso en cada pestaña
+- La posición rotada del cepillo intensifca y da volumen a las pestañas
+- La posición extendida del cepillo alarga las pestañas
+- Sin parabenos
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00TH3R0PO/?tag=tolees-21)
