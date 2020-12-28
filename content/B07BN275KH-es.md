@@ -27,8 +27,8 @@ Tienes [Vans Ward Suede Canvas   Zapatillas Unisex niños  Black/True White Pvj 
 
 - Material exterior: Cuero
 - Tipo de tacón: Plano
+- Material de la suela: Goma
 - Revestimiento: Tela
 - Cierre: Cordones
-- Material de la suela: Goma
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BN275KH/?tag=tolees-21)

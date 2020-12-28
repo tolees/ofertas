@@ -26,8 +26,8 @@ Está [SSD portátil SanDisk Extreme 500 de 1 TB y hasta 440 MB/s de Velocidad d
 ℹ️:
 
 - El software SanDisk SecureAccess cifra los archivos privados
+- Diseño robusto y duradero con núcleo de estado sólido resistente a golpes
 - Hasta cuatro veces más velocidad que un disco duro externo
 - Almacenamiento de alta velocidad para fotografías de alta resolución, vídeos y otros archivos
-- Diseño robusto y duradero con núcleo de estado sólido resistente a golpes
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01MZI4Y51/?tag=tolees-21)

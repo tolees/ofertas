@@ -26,8 +26,8 @@ Tienes [Starrett K53M-300-S - Intenta cuadrado](https://www.amazon.es/dp/B00RD59
 🔎:
 
 - La longitud del cuadrado es de 200 mm
-- Ideal para marcar y medir ángulos rectos en carpintería
-- La altura del paquete del producto es de 18 cm
 - Diseño atractivo, ligero y cómodo
+- La altura del paquete del producto es de 18 cm
+- Ideal para marcar y medir ángulos rectos en carpintería
 
 [Comprar!!!](https://www.amazon.es/dp/B00RD59PNS/?tag=tolees-21)

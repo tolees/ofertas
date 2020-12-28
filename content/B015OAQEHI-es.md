@@ -25,8 +25,8 @@ Tienes [Instituto Español Leche Hidratante de Urea - 950 ml](https://www.amazon
 
 ℹ️:
 
+- Texturas: Leche
 - Género: Unisex Adulto
 - Tipo de Piel: Seca
-- Texturas: Leche
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B015OAQEHI/?tag=tolees-21)

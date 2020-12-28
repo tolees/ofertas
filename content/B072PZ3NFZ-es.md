@@ -26,8 +26,8 @@ En este momento está [ABYstyle - ONE PUNCH MAN - Llavero - Saitama cabeza](http
 🔎:
 
 - Producto con licencia oficial
+- Los llaveros ABYstyle reproducen logotipos o personajes emblemáticos de películas, series de televisión, series animadas, cómics, videojuegos y mucho más
 - Los llaveros miden entre 4 y 5 cm, sin incluir la cadena
 - El producto se vende en su caja original
-- Los llaveros ABYstyle reproducen logotipos o personajes emblemáticos de películas, series de televisión, series animadas, cómics, videojuegos y mucho más
 
 [Aquí!!!](https://www.amazon.es/dp/B072PZ3NFZ/?tag=tolees-21)

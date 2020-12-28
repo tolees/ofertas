@@ -25,8 +25,8 @@ En este momento está [adidas 10K  Zapatillas de Gimnasia Hombre  Azul  Collegia
 
 🔎:
 
-- Plantilla extraíble.
 - Forro textil.
+- Plantilla extraíble.
 - Clip para el talón.
 - Suela exterior de goma.
 

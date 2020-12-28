@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony CFD-70 - Reproductor Boombox  FM/AM al 23.15 % de descuento'
-date: 2020-12-27 08:51:31
+date: 2020-12-28 13:38:23
 image: 'https://m.media-amazon.com/images/I/41P5YdB6-nL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01CDNDPUS/?tag=tolees-21'
 descuento: '23.15'
-average: '67.85461538461539'
+average: '69.054'
 ---
 
 Está [Sony CFD-70 - Reproductor Boombox  FM/AM  Casete  CD   Color Negro](https://www.amazon.es/dp/B01CDNDPUS/?tag=tolees-21) con 23.15 de descuento por 76.85 EUR (original: 100.0 EUR) en el siguiente enlace!
@@ -25,10 +25,10 @@ Está [Sony CFD-70 - Reproductor Boombox  FM/AM  Casete  CD   Color Negro](https
 
 ℹ️:
 
-- Sintonizador FM/AM con 30 presintonías digitales
-- Con capacidad de lectura de MP3 tanto desde un CD
-- Con función de radio FM
 - Cuenta con 2 salidas de RMS estéreo de 1.7 W
 - Salida de auriculares Jack de 3.5 mm
+- Con función de radio FM
+- Con capacidad de lectura de MP3 tanto desde un CD
+- Sintonizador FM/AM con 30 presintonías digitales
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01CDNDPUS/?tag=tolees-21)

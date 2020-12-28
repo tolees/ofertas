@@ -25,9 +25,9 @@ Ahora mismo tienes [Scalextric Advance Coche Audi R8 LMS GT3 Seinteloc Escala 1/
 
 🔎:
 
-- Fácil de usar
+- Producto creado tanto para aficionados como para profesionales
 - Producto de calidad
 - Material duradero
-- Producto creado tanto para aficionados como para profesionales
+- Fácil de usar
 
 [Visítala!!!](https://www.amazon.es/dp/B07VJJBXZQ/?tag=tolees-21)

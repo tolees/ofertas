@@ -25,10 +25,10 @@ Tienes [COMPO 750 g Abono setos de Larga  Tipo de coníferas y Plantas de Hoja p
 
 ℹ️:
 
-- Abono óptimo para Abetos, Pinos, Tuyas, Siemprevivas, Cipreses, Cedros
-- Un puñado de producto equivale a 30/45 gr aproximadamente, una cuchara sopera a 8/10 gr, aproximadamente, mantener en un sitio fresco y seco, entre 6 y 35 ºC
-- Contenido: 1 x COMPO Abono Coníferas y Setos de larga duración, 6 meses de duración, 750 g
 - El nitrógeno proporciona un verde atractivo e intenso a las hojas, el magnesio corta el amarronamiento de las hojas y agujas
 - Potencia el crecimiento del árbol y las hojas, asegura plantas sanas y fuertes, evita el amarronamiento de hojas y agujas
+- Contenido: 1 x COMPO Abono Coníferas y Setos de larga duración, 6 meses de duración, 750 g
+- Abono óptimo para Abetos, Pinos, Tuyas, Siemprevivas, Cipreses, Cedros
+- Un puñado de producto equivale a 30/45 gr aproximadamente, una cuchara sopera a 8/10 gr, aproximadamente, mantener en un sitio fresco y seco, entre 6 y 35 ºC
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01IDLUA5M/?tag=tolees-21)

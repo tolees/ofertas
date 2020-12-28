@@ -25,10 +25,10 @@ Tienes [Wera 0007662700025 Destornillador  Schraubendreher  0.4 x 2.5 x 75 mm](h
 
 🔎:
 
-- Con sistema anti-rodamiento hexagonal para evitar que la herramienta ruede
-- Con indicación de la medida en el mango para encontrar y ordenar la herramienta más fácilmente
 - En niquelado mate
+- Con indicación de la medida en el mango para encontrar y ordenar la herramienta más fácilmente
 - Destornillador plano electricista
+- Con sistema anti-rodamiento hexagonal para evitar que la herramienta ruede
 - Mango Kraftform multicomponente con zonas duras para un rápido reposicionamiento en la mano y blandas para una mayor trasmisión de par
 
 [Comprar!!!](https://www.amazon.es/dp/B00154ZXKC/?tag=tolees-21)

@@ -25,10 +25,10 @@ En este momento está [Complete Keyboard Edition V. 2](https://www.amazon.es/dp/
 
 🔎:
 
-- Preludio corale BWV 765 Wir glauben all an einen
-- Preludio corale BWV 737 Vater unser im Himmelreic
 - Preludio corale BWV 1085 O Lamm Gottes
 - Preludio corale BWV 1098 Wir glauben all an einen
+- Preludio corale BWV 765 Wir glauben all an einen
+- Preludio corale BWV 737 Vater unser im Himmelreic
 - Towards the North (Vers le Nord)
 
 [Aquí!!!](https://www.amazon.es/dp/B07N3RG73H/?tag=tolees-21)

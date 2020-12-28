@@ -25,9 +25,9 @@ Tienes [Dajana DJ10 Bloque de Calcio para Tortugas](https://www.amazon.es/dp/B07
 
 ℹ️:
 
+- Contenido: 45 g
 - Producto de calidad
 - facil de usar
 - Nuestra experiencia nos avala
-- Contenido: 45 g
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B075QDGPXK/?tag=tolees-21)
