@@ -26,9 +26,9 @@ Está [NIKE Nk Heritage Smit - 2.0 Gym Bag  Unisex adulto  black/black/ white   
 ℹ️:
 
 - Tipo de deporte: Bags
-- Large main Compartiment
-- Training Bag
 - Tipo de fábrica: 100% Polyester
 - Durable fabric
+- Large main Compartiment
+- Training Bag
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07MK82H6Z/?tag=tolees-21)

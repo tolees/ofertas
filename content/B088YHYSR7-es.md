@@ -26,7 +26,7 @@ Ahora mismo tienes [Asics Contend 6  Sneaker Unisex-Child  Fiery Red/Black  31.5
 🔎:
 
 - AMPLIFOAM Tecnología de amortiguación
-- GEL Tecnología de Acolchado
 - Material exterior sin costuras
+- GEL Tecnología de Acolchado
 
 [Visítala!!!](https://www.amazon.es/dp/B088YHYSR7/?tag=tolees-21)

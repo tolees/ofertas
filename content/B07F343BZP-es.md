@@ -25,8 +25,8 @@ En este momento está [Adidas Falcon W  Sneaker Womens  Footwear White/Footwear 
 
 🔎:
 
-- malla y parte superior de cuero sintético
 - Cordones de zapatos
+- malla y parte superior de cuero sintético
 - Corte regular
 
 [Aquí!!!](https://www.amazon.es/dp/B07F343BZP/?tag=tolees-21)

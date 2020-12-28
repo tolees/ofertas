@@ -26,10 +26,10 @@ Tienes [Educa-Te Suena  Juego de mesa familiar de música  a partir de 8 años  
 🔎:
 
 - Escucha un breve clip de audio y adivina de qué o quién se trata lo más rápido posible; el director del juego te da una pista
-- Tendrás que ser rápido y acertar a la primera
-- Versión española
 - Diferentes niveles de juego; a partir de 8 años de 2 a 5 jugadores; funciona con 3 pilas AA
-- Apasionante juego de preguntas sobre cultura general
 - Si respondes correctamente consigues un punto, pero si fallas todos los demás conseguirán 1 punto
+- Tendrás que ser rápido y acertar a la primera
+- Apasionante juego de preguntas sobre cultura general
+- Versión española
 
 [Comprar!!!](https://www.amazon.es/dp/B0725BS4RN/?tag=tolees-21)

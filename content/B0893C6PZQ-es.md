@@ -25,10 +25,10 @@ Está [ACADGQ Purificador de Aire Portátil Ultrasilencioso Generador de Ozono I
 
 ℹ️:
 
-- 🍃Esterilización segura: El valor LD-50 de la prueba de toxicidad aguda muestra que no es tóxico; No tiene efectos irritantes en la piel, mucosas, ojos, células, etc.
-- 🍃Eficacia: Rompe instantáneamente las hebras de ADN y ARN y hace que mueran rápidamente. La capacidad bacteriana es 600 veces mayor que la de los antibióticos, 3000 veces la de los rayos ultravioleta y decenas de miles de veces la de los medicamentos herbarios chinos.
 - 🍃Amplio espectro: Nuestro purificador de aire tiene un efecto de muerte simultáneo en varias bacterias, virus, moho y clamidia protozoos. Esto no tiene parangón en ningún otro antibiótico, antiviral y desinfectante.
-- 🍃Penetrabilidad: Debido al pequeño peso molecular, tiene un fuerte efecto de penetración en las células y tejidos y puede penetrar rápidamente las células y los tejidos para matar los microorganismos patógenos.
 - 🍃Sin resistencia: Su principio de acción es diferente al de cualquier antibiótico y antivirina y finalmente se forma oxígeno. Los virus bacterianos no tienen resistencia a ella y no producirán resistencia para uso a largo plazo. Hay un protector de pantalla en el purificador de aire, por favor despegue antes del primer uso.
+- 🍃Eficacia: Rompe instantáneamente las hebras de ADN y ARN y hace que mueran rápidamente. La capacidad bacteriana es 600 veces mayor que la de los antibióticos, 3000 veces la de los rayos ultravioleta y decenas de miles de veces la de los medicamentos herbarios chinos.
+- 🍃Penetrabilidad: Debido al pequeño peso molecular, tiene un fuerte efecto de penetración en las células y tejidos y puede penetrar rápidamente las células y los tejidos para matar los microorganismos patógenos.
+- 🍃Esterilización segura: El valor LD-50 de la prueba de toxicidad aguda muestra que no es tóxico; No tiene efectos irritantes en la piel, mucosas, ojos, células, etc.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0893C6PZQ/?tag=tolees-21)

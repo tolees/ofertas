@@ -26,8 +26,8 @@ Tienes [Worx WX291 Atornillador Impacto 20V 2.0Ah](https://www.amazon.es/dp/B084
 🔎:
 
 - Caja de engranajes metálica para mayor durabilidad de la máquina
+- Luz led integrada para trabajar en áreas oscuras y 20 segundos de retardo led
 - Plataforma powershare; batería extraíble e intercambiable con todas las herramientas eléctricas y de jardín de la gama 20v de worx
 - Diseño compacto y ligero para trabajar en espacios reducidos
-- Luz led integrada para trabajar en áreas oscuras y 20 segundos de retardo led
 
 [Comprar!!!](https://www.amazon.es/dp/B084TMLG9Z/?tag=tolees-21)

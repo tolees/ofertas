@@ -26,8 +26,8 @@ Está [Plameca - Curarti Colagtium 30 Cápsulas](https://www.amazon.es/dp/B07YT3
 ℹ️:
 
 - Mantiene las articulaciones en buen estado
-- Ayuda a reducir el cansancio y la fatiga
 - Formación normal de colágeno para la función normal del cartílago y el hueso
+- Ayuda a reducir el cansancio y la fatiga
 - Contiene cúrcuma, que ayuda al mantenimiento de la salud de las articulaciones y los huesos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07YT3HPW6/?tag=tolees-21)
