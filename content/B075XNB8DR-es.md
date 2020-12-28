@@ -25,9 +25,9 @@ En este momento está [Z-man Games España- Cuentos de Hadas  Pendragón ANASY01
 
 🔎:
 
-- StoryLine: Cuentos de hadas es un juego en el que pueden participar de 3 a 8 jugadores creando un cuento de magia y aventura
-- Prepárate para vivir una aventura como ninguna otra; averigua qué ocurre entre el “Érase una vez” y el “fueron felices para siempre”!
 - Producto en castellano
+- StoryLine: Cuentos de hadas es un juego en el que pueden participar de 3 a 8 jugadores creando un cuento de magia y aventura
 - ¿Tu protagonista será una bruja astuta o un cochinillo sabio? ¿En su aventura se dirigirá a una montaña o a una panadería?
+- Prepárate para vivir una aventura como ninguna otra; averigua qué ocurre entre el “Érase una vez” y el “fueron felices para siempre”!
 
 [Aquí!!!](https://www.amazon.es/dp/B075XNB8DR/?tag=tolees-21)

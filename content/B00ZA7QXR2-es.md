@@ -25,9 +25,9 @@ Ahora mismo tienes [Crock-Pot CSC025X Olla de cocción lenta manual para prepara
 
 🔎:
 
-- Sostenible y fácil de limpiar: Crock-Pot trabaja con bajo consumo y se puede lavar en lavavajillas. Se limpia fácilmente gracias a su tratamiento antiadherente
-- Potencia el sabor y la textura de tus platos, conservando mejor el aporte nutricional de los ingredientes
-- Prepara recetas de carne, pescado, verduras, legumbres, postres, bizcochos, yogur, pan...
 - La Crock-Pot manual de 3.5L (3-4 raciones) cuenta con dos ajustes de calor (Alta y Baja), y función «Mantener caliente». La olla cerámica desmontable es apta para horno y lavavajillas
+- Prepara recetas de carne, pescado, verduras, legumbres, postres, bizcochos, yogur, pan...
+- Potencia el sabor y la textura de tus platos, conservando mejor el aporte nutricional de los ingredientes
+- Sostenible y fácil de limpiar: Crock-Pot trabaja con bajo consumo y se puede lavar en lavavajillas. Se limpia fácilmente gracias a su tratamiento antiadherente
 
 [Visítala!!!](https://www.amazon.es/dp/B00ZA7QXR2/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kärcher 1.676-020.0 K3 Full Control - Hi al 29.32 % de descuento'
-date: 2020-12-27 07:12:42
+date: 2020-12-28 16:36:10
 image: 'https://m.media-amazon.com/images/I/41PS-x+4E0L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L6S9TJ7/?tag=tolees-21'
 descuento: '29.32'
-average: '115.86125000000001'
+average: '114.76444444444446'
 ---
 
 Ahora mismo tienes [Kärcher 1.676-020.0 K3 Full Control - Hidrolimpiadora de Alta Presión para Exteriores 120 bares  1600 W  380 L/h](https://www.amazon.es/dp/B07L6S9TJ7/?tag=tolees-21) a 105.99 EUR (original: 149.95 EUR) (29.32 %  de descuento) en el siguiente enlace!
@@ -25,9 +25,9 @@ Ahora mismo tienes [Kärcher 1.676-020.0 K3 Full Control - Hidrolimpiadora de Al
 
 🔎:
 
+- Hidrolimpiadora Presión (bar/MPa) 20 - máx. 120 / 2 - máx. 12
 - Contiene sujeciones para accesorios, pistola de alta presión y cable
 - Conector para mangueras de riego A3/4"
 - Incluye Full Control Power Gun y lanzas pulverizadoras
-- Hidrolimpiadora Presión (bar/MPa) 20 - máx. 120 / 2 - máx. 12
 
 [Visítala!!!](https://www.amazon.es/dp/B07L6S9TJ7/?tag=tolees-21)

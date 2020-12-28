@@ -25,8 +25,8 @@ Está [Beurer MP 70 - Masaje de parafina para manos  pies y codos  temperatura a
 
 ℹ️:
 
-- Display que muestra el nivel de calor
 - Incluye 2 bolsitas de cera de parafina 450 g, con aroma naranja; incluye 30 bolsas de plástico para envolver
+- Display que muestra el nivel de calor
 - Promueve la absorción de nutrientes y la humedad; cuida la piel áspera y seca
 - Baño de parafina para manos, pies y codos suave con temperatura ajustable
 - Fomenta el flujo de sangre

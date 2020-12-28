@@ -25,11 +25,11 @@ Ahora mismo tienes [Rowenta RH9252WO Air Force 460 - Aspirador Escoba sin Cable 
 
 🔎:
 
-- Cabezal de aspiración ligero con cepillo motorizado para atrapar el polvo debajo de los muebles bajos y equipado con luces LED para mayor visibilidad en zonas oscuras
-- Incluye una base de pared para su carga y almacenamiento (también puede cargarse fuera de su base)
-- Equipado con una batería de tecnología ión-litio 21,9 V de larga duración que proporciona una autonomía de hasta 30 minutos de limpieza como aspirador de mano y 20 min con cabezal estándar con sólo 3 horas de carga
-- Capacidad del depósito de suciedad extraíble de 0,4 L y gatillo ergonómico sin necesidad de presionar constantemente
-- Aspirador escoba sin cable con diseño ergonómico muy versátil ya que puede convertirse en aspirador de mano o en un aspirador de zonas altas; posee un cabezal de aspiración motorizado y dos velocidades para un rendimiento de gran potencia en todo tipo de suelos: baldosas, madera y moquetas
 - Viene equipado con cepillo para sofás, boquilla XL, 2 cepillos Easy Brush, cabezal delta y un kit con 3 cepillos intercambiables: Textile, Intensive y Respect
+- Aspirador escoba sin cable con diseño ergonómico muy versátil ya que puede convertirse en aspirador de mano o en un aspirador de zonas altas; posee un cabezal de aspiración motorizado y dos velocidades para un rendimiento de gran potencia en todo tipo de suelos: baldosas, madera y moquetas
+- Equipado con una batería de tecnología ión-litio 21,9 V de larga duración que proporciona una autonomía de hasta 30 minutos de limpieza como aspirador de mano y 20 min con cabezal estándar con sólo 3 horas de carga
+- Incluye una base de pared para su carga y almacenamiento (también puede cargarse fuera de su base)
+- Capacidad del depósito de suciedad extraíble de 0,4 L y gatillo ergonómico sin necesidad de presionar constantemente
+- Cabezal de aspiración ligero con cepillo motorizado para atrapar el polvo debajo de los muebles bajos y equipado con luces LED para mayor visibilidad en zonas oscuras
 
 [Visítala!!!](https://www.amazon.es/dp/B07B2DBLJY/?tag=tolees-21)

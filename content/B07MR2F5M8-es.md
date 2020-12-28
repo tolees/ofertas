@@ -25,8 +25,8 @@ En este momento está [Lotus Reloj Cronógrafo para Hombre de Cuarzo con Correa 
 
 🔎:
 
-- Material de la Pulsera Acero inoxdable (Milanesa)
 - Tipo de Pantalla Cronógrafo
 - Diámetro (sin corona) en mm/pulgada 43/1.69
+- Material de la Pulsera Acero inoxdable (Milanesa)
 
 [Aquí!!!](https://www.amazon.es/dp/B07MR2F5M8/?tag=tolees-21)

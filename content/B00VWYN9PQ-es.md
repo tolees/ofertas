@@ -25,9 +25,9 @@ Tienes [Joma Nilo - Pantalones largos para hombre  color Azul Marino  talla M](h
 
 🔎:
 
-- Cintura elástica para mayor comodidad
 - Pantalón de puño
-- Pierna cremallera lateral para cerrar o abrir para ajustar el flujo de aire al cuerpo
+- Cintura elástica para mayor comodidad
 - Cintura elástica y bolsillos laterales
+- Pierna cremallera lateral para cerrar o abrir para ajustar el flujo de aire al cuerpo
 
 [Comprar!!!](https://www.amazon.es/dp/B00VWYN9PQ/?tag=tolees-21)

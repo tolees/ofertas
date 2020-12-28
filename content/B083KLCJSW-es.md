@@ -27,8 +27,8 @@ En este momento está [Samsung Galaxy S10 Lite - Smartphone de 6.7" FHD+  4G  8G
 
 - Pantalla infinity-o disfruta de tus videos y fotos favoritas con una resolución nítida en una pantalla full HD + super amoled plus de 6 7"
 - Un rendimiento real con 128 gde memoria interna y 6 g/ 8 gde ram tienes casi la potencía de un ordenador portátil en tus manos
-- Tus datos privados protegidos de forma segura el escáner de huellas dactilares integrado en la pantalla te brinda un acceso personalizado a tu smartphone
 - Una cámara para cada situación captura todo tu mundo gracias a su 4 cámara s principales y muestra tu mejor cara con la cámara frontal para selfies de 32 mp
+- Tus datos privados protegidos de forma segura el escáner de huellas dactilares integrado en la pantalla te brinda un acceso personalizado a tu smartphone
 - Es difícil obtener más potencía con una batería de 4 500 mAhpuedes comenzar tu próximo maratón de series incluso estando de viaje
 
 [Aquí!!!](https://www.amazon.es/dp/B083KLCJSW/?tag=tolees-21)
