@@ -26,7 +26,7 @@ Tienes [Hailo Mini Taburete de Acero con 2 peldaños y botón de Bloqueo/desbloq
 🔎:
 
 - La más fácil de guardar, plegado sólo tiene 4 cm de fondo
-- Certificado de seguridad EN14183
 - Resiste hasta 150 kg de carga
+- Certificado de seguridad EN14183
 
 [Comprar!!!](https://www.amazon.es/dp/B002SA9O4S/?tag=tolees-21)

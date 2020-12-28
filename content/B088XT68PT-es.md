@@ -25,8 +25,8 @@ En este momento está [Asics Upcourt 4  Sneaker Womens  White/Aquarium  37 EU](h
 
 🔎:
 
-- Carga estroboscópica continua
 - Entresuela de EVA
 - DURATEX- Plantilla
+- Carga estroboscópica continua
 
 [Aquí!!!](https://www.amazon.es/dp/B088XT68PT/?tag=tolees-21)

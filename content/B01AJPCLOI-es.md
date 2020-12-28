@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL City Action Coche de Policía c al 38.30 % de descuento'
-date: 2020-12-27 08:42:21
+date: 2020-12-28 15:15:34
 image: 'https://m.media-amazon.com/images/I/51pkfeKblgL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01AJPCLOI/?tag=tolees-21'
 descuento: '38.30'
-average: '26.139565217391304'
+average: '26.115106382978723'
 ---
 
 Está [PLAYMOBIL City Action Coche de Policía con Luces y Sonido  a Partir de 5 Años  6920 ](https://www.amazon.es/dp/B01AJPCLOI/?tag=tolees-21) con 38.30 de descuento por 24.99 EUR (original: 40.5 EUR) en el siguiente enlace!

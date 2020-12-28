@@ -25,8 +25,8 @@ En este momento está [Lee Austin Jeans  Negro  Moto Black HL   30W / 30L para H
 
 🔎:
 
-- Estilo 5 bolsillos
-- Tienen un parche de piel en la parte trasera con la marca Lee
 - Vaqueros para hombre
+- Tienen un parche de piel en la parte trasera con la marca Lee
+- Estilo 5 bolsillos
 
 [Aquí!!!](https://www.amazon.es/dp/B07MGXCNQ3/?tag=tolees-21)

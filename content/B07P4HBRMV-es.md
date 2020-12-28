@@ -25,10 +25,10 @@ Tienes [SanDisk High Endurance - Tarjeta MicroSD para Video vigilancia  256 GB](
 
 🔎:
 
-- Guarda más vídeos con capacidades de hasta 256 GB
 - Diseñada para ofrecer una alta resistencia, de manera que podrás grabar hasta 20 000 horas sin preocupaciones
-- Fabricada para ser usada en condiciones difíciles y sometida a pruebas en dichas condiciones; resistente a temperatura, agua, golpes y rayos X
-- Ideal para cámaras de salpicadero y sistemas de vigilancia del hogar
 - Graba en Full HD y 4K con las categorías de velocidad de vídeo Class 10, U3 y V30
+- Ideal para cámaras de salpicadero y sistemas de vigilancia del hogar
+- Fabricada para ser usada en condiciones difíciles y sometida a pruebas en dichas condiciones; resistente a temperatura, agua, golpes y rayos X
+- Guarda más vídeos con capacidades de hasta 256 GB
 
 [Comprar!!!](https://www.amazon.es/dp/B07P4HBRMV/?tag=tolees-21)

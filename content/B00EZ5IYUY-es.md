@@ -26,7 +26,7 @@ Tienes [Pepe Jeans Eggo Long PM501321 Top de manga larga  Azul  Navy 595   Small
 ℹ️:
 
 - Tiene estampado en el pecho la marca Pepe Jeans
-- Camiseta básica para hombre
 - Fabricada en tejido suave que ofrece comodidad
+- Camiseta básica para hombre
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00EZ5IYUY/?tag=tolees-21)

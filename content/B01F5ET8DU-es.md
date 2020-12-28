@@ -25,8 +25,8 @@ En este momento está [The Walking Dead Abraham Figura  18 cm  MC Farlane MCFWD1
 
 🔎:
 
-- The Walking Dead
 - Para los fans The Walking Dead The Walking Dead
 - Figuras
+- The Walking Dead
 
 [Aquí!!!](https://www.amazon.es/dp/B01F5ET8DU/?tag=tolees-21)
