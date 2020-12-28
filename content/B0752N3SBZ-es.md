@@ -25,10 +25,10 @@ En este momento está [G-STAR RAW D-STAQ 5-Pocket Slim  Jeans  Azul  medium indi
 
 🔎:
 
+- Bolsillo para monedas colocado hacia la parte delantera
+- Talle medio
+- La prenda se estrecha del muslo a los bajos
 - Costuras con forma en la parte interior de la rodilla
 - La prenda se estrecha del muslo a los bajos
-- La prenda se estrecha del muslo a los bajos
-- Talle medio
-- Bolsillo para monedas colocado hacia la parte delantera
 
 [Aquí!!!](https://www.amazon.es/dp/B0752N3SBZ/?tag=tolees-21)
