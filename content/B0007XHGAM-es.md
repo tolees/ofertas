@@ -25,10 +25,10 @@ Ahora mismo tienes [Ritter Markant 01 - Cortafiambres eléctrico con motor ecol�
 
 🔎:
 
-- Producto de calidad de fabricación alemana
-- Cortafiambres plegable de plástico de fácil cuidado (cuando está plegado solo tiene 10,5 cm de ancho)
-- Carro para producto de corte extraíble y divisible, recorrido del carro de aproximadamente 18 cm
 - Incluido en la entrega: Cortafiambres en blanco con Cuchilla dentada, Carro de producto de corte, Recogedor de restos, Instrucciones de uso
+- Cortafiambres plegable de plástico de fácil cuidado (cuando está plegado solo tiene 10,5 cm de ancho)
 - Ajuste de intensidad de corte gradual desde lonchas finísimas hasta de aproximadamente 14 mm
+- Carro para producto de corte extraíble y divisible, recorrido del carro de aproximadamente 18 cm
+- Producto de calidad de fabricación alemana
 
 [Visítala!!!](https://www.amazon.es/dp/B0007XHGAM/?tag=tolees-21)

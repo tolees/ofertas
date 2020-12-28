@@ -25,13 +25,13 @@ En este momento está [Trust Sydney - Maletín para Ordenador portátil de hasta
 
 🔎:
 
-- Correa para el hombro, ajustable y resistente, con calces metálicos y almohadilla
 - Doble cremallera metálica y correas de cinta velcro
-- Interior acolchado para proteger el ordenador
+- Correa para el hombro, ajustable y resistente, con calces metálicos y almohadilla
 - Acabado de alta calidad en material robusto con calces metálicos y cierres de cremallera
+- Material robusto de alta resistencia al uso pesado
+- Interior acolchado para proteger el ordenador
 - Compartimientos adicionales para guardar su iPod, reproductor de MP3, PDA, fuente de alimentación, etc.
 - Con correa posterior para fijar la bolsa al maletín trolley
-- Material robusto de alta resistencia al uso pesado
 - Sección principal expandible que se ajusta a casi todos los tamaños de ordenador portátil con pantallas de hasta 17.3" (420 x 298 x 50 mm)
 
 [Aquí!!!](https://www.amazon.es/dp/B004DTT3SE/?tag=tolees-21)

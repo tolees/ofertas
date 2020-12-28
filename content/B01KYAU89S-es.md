@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pack 57 Sabores de Bebidas Bolero al 18.31 % de rebaja'
-date: 2020-12-27 03:03:54
+date: 2020-12-28 03:17:39
 image: 'https://m.media-amazon.com/images/I/41tF2Gozo2L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KYAU89S/?tag=tolees-21'
 descuento: '18.31'
-average: '16.459329608938567'
+average: '16.448066298342564'
 ---
 
 Tienes [Pack 57 Sabores de Bebidas Bolero](https://www.amazon.es/dp/B01KYAU89S/?tag=tolees-21) con precio final de  15.44 EUR (original: 18.9 EUR) (18.31 %  de rebaja) aqui!
