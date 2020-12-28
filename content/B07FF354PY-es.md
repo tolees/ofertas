@@ -25,8 +25,8 @@ Tienes [bollé Scarlett Máscaras  Unisex adulto  Blanco Mate & Rosa  S/M](https
 
 🔎:
 
-- Categoría: 2
 - Lente: Vermillon Gun
+- Categoría: 2
 - Lente cilíndrica
 
 [Comprar!!!](https://www.amazon.es/dp/B07FF354PY/?tag=tolees-21)

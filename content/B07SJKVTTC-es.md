@@ -26,9 +26,9 @@ Ahora mismo tienes [Mymy City - Bruno el delfín  Figura de Mascota articulada n
 🔎:
 
 - Una vez hayas formado tu familia es hora de adoptar una mascota para ser miembro de mymy city
-- Figura individual de animal mymy city: es un delfín al que le encanta cantar y adora las piscinas
-- Incluye figura de animal con accesorios acorde a su personalidad
-- El regalo perfecto para que los niños desarrollen su imaginación y habilidades motrices creando mil historias con sus figuras en mymy city
 - Pack individual: figura de mascota del delfín bruno pools de mymy city
+- Incluye figura de animal con accesorios acorde a su personalidad
+- Figura individual de animal mymy city: es un delfín al que le encanta cantar y adora las piscinas
+- El regalo perfecto para que los niños desarrollen su imaginación y habilidades motrices creando mil historias con sus figuras en mymy city
 
 [Visítala!!!](https://www.amazon.es/dp/B07SJKVTTC/?tag=tolees-21)

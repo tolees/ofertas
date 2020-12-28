@@ -25,10 +25,10 @@ Tienes [SunSun CUV-724 clarificador Agua Estanque Acero Inoxidable Filtro luz UV
 
 ℹ️:
 
-- Potencia UV 24W, estanque máx. 40m³, conector manguera de 38 a 50mm, cable 5m
 - Circulacion del agua en rotación y espejo de acero inox. para una máxima intensi
 - Garantiza agua clara, limpia el agua del estanque sin el uso de componentes quím
-- Protege a sus peces de enfermedades. Seguro y bueno para peces y plantas.
+- Potencia UV 24W, estanque máx. 40m³, conector manguera de 38 a 50mm, cable 5m
 - Caudal máx. 5000 l/h ,para una presión máx. de 1,0 bares.
+- Protege a sus peces de enfermedades. Seguro y bueno para peces y plantas.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01NCZ0GLC/?tag=tolees-21)

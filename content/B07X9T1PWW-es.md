@@ -25,10 +25,10 @@ Está [Puma Power BND M TR tee Camiseta de Manga Corta  Hombre  Blanco White  S]
 
 ℹ️:
 
-- Cuello redondo
-- Manga corta
-- Poliéster y elastano
-- Logotipo del felino PUMA en la parte izquierda del pecho
 - Marca PUMA escrita invertida en la espalda
+- Poliéster y elastano
+- Manga corta
+- Cuello redondo
+- Logotipo del felino PUMA en la parte izquierda del pecho
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07X9T1PWW/?tag=tolees-21)

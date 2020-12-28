@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asmodee - El Mercado de los Ladrones  Ed con un 39.90 % de descuento'
-date: 2020-12-26 13:03:51
+date: 2020-12-28 10:01:27
 image: 'https://m.media-amazon.com/images/I/41m27HGeJ1L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,7 +26,7 @@ En este momento está [Asmodee - El Mercado de los Ladrones  Edge Entertainment 
 🔎:
 
 - En cada ronda de El Mercado de los Ladrones los jugadores lanzan los dados de botín y los reparten entre ellos
-- Usa tus ganancias para comprar planes de atracos, contratar a secuaces y hacerte con ropas elegantes
 - ¡y convertirte así en el ladrón con peor fama de todos!
+- Usa tus ganancias para comprar planes de atracos, contratar a secuaces y hacerte con ropas elegantes
 
 [Aquí!!!](https://www.amazon.es/dp/B06X6C48RS/?tag=tolees-21)

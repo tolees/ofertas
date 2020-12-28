@@ -25,10 +25,10 @@ Está [HP H4F02AA - Adaptador HDMI a VGA  Negro](https://www.amazon.es/dp/B009T6
 
 ℹ️:
 
-- ?conector 2: vga (d-sub)
-- Tipo de género: macho/macho
 - Dimensiones del producto: 26,5 x 12 x 3,2 cm
+- ?conector 2: vga (d-sub)
 - ?conector 1: hdmi
+- Tipo de género: macho/macho
 - Longitud de cable: 0,045m
 
 [Ver la oferta!!](https://www.amazon.es/dp/B009T6EPBQ/?tag=tolees-21)
