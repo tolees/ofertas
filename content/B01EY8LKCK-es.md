@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B Genius 8900 - Cepillo de dientes  con un 45.61 % de descuento'
-date: 2020-12-24 15:58:25
+date: 2020-12-28 11:29:53
 image: 'https://m.media-amazon.com/images/I/51AHlbs8kBL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01EY8LKCK/?tag=tolees-21'
 descuento: '45.61'
-average: '136.80026315789473'
+average: '136.62564102564102'
 ---
 
 En este momento está [Oral-B Genius 8900 - Cepillo de dientes eléctrico  con Tecnología de Braun  2 unidades](https://www.amazon.es/dp/B01EY8LKCK/?tag=tolees-21) a 129.99 EUR (original: 239.0 EUR) (45.61 %  de descuento) en el siguiente enlace!
@@ -25,13 +25,12 @@ En este momento está [Oral-B Genius 8900 - Cepillo de dientes eléctrico  con T
 
 🔎:
 
-- 100 % de cobertura del cepillado: el cepillo con detección de posición para que no te olvides de ninguna zona
-- Protege tus encías: el control de presión reduce la velocidad de cepillado y te avisa si te cepillas demasiado fuerte
-- 5 modos de cepillado, incluidos Pro Clean, blanqueante, cuidado de las encías y dientes sensibles
-- Elimina hasta un 100 % más de placa: el cabezal redondeado limpia mejor para lograr unas encías más sanas
-- La batería dura más de 2 semanas con una sola carga
-- Blanquea tus dientes con suavidad desde el primer día, eliminando las manchas superficiales
-- Genius, el cepillo de dientes de Oral-B, la marca recomendada por dentistas en el mundo
-- Contenido: 2 mangos, 3 cabezales de recambio, batería de iones de litio, 1 estuche de viaje, soporte para smartphone
+- Genius, the best toothbrush from the #1 Dentist recommended brand worldwide
+- Gently whitens your teeth starting from day one by removing surface stains
+- Healthier gums forever with pressure control that reduces the speed if you brush too hard
+- Up to 100 percent more plaque removal: Round head cleans better for healthier gums in 30 days vs a manual toothbrush
+- 100 percent brushing coverage: The only brush with position detection guides you to a ideal clean
+- Contents: 2 x silver handles, charger with a 2 pin UK plug, 3 x brush heads, Lithium Ion battery, 1 x travel case, smartphone holder
+- Lithium-ION battery lasts over 2 weeks between charges
 
 [Aquí!!!](https://www.amazon.es/dp/B01EY8LKCK/?tag=tolees-21)

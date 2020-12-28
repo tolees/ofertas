@@ -25,8 +25,8 @@ En este momento está [Levis Stan Buck Ribbon 230331-733-51 - Zapatillas para ho
 
 🔎:
 
-- Designer: LEVIS
 - Item: 230331 00733 STAN
+- Designer: LEVIS
 - Season: Spring/Summer
 
 [Aquí!!!](https://www.amazon.es/dp/B07PVSQD8C/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Ultra Fit  Memoria flash USB 3.1 al 48.11 % de descuento'
-date: 2020-12-27 11:21:06
+date: 2020-12-28 11:27:24
 image: 'https://m.media-amazon.com/images/I/41XBPPF1zNL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077VYCV37/?tag=tolees-21'
 descuento: '48.11'
-average: '10.85572222222222'
+average: '10.861813186813183'
 ---
 
 Ahora mismo tienes [SanDisk Ultra Fit  Memoria flash USB 3.1 de 64 GB con hasta 130 MB/s de velocidad de lectura Tradicional Negro 64GB](https://www.amazon.es/dp/B077VYCV37/?tag=tolees-21) a 11.41 EUR (original: 21.99 EUR) (48.11 %  de descuento) en el siguiente enlace!

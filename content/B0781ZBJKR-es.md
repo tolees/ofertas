@@ -25,10 +25,10 @@ Está [Puma Liga Trainings Chándal  Hombre  Negro Black White  3XL](https://www
 
 ℹ️:
 
-- Refuerzo visible
 - La tecnología drycell te mantiene seco y cómodo mientras haces ejercicio
+- Diseños anatómicos
+- Refuerzo visible
 - Dos bolsillos de ojal. Modelo Liga Training
 - Corte recto
-- Diseños anatómicos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0781ZBJKR/?tag=tolees-21)

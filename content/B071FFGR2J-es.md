@@ -27,8 +27,8 @@ Ahora mismo tienes [Just Podium Colagenium 600 | Colágeno Hidrolizado + Magnesi
 
 - El colágeno funciona como regenerador tisular, aporta resistencia y flexibilidad en las articulaciones
 - Con vitaminas a y c, magnesio y colágeno; ayuda a proteger las articulaciones, actúa como regenerador de tejidos, fortalece el sistema inmunitario y al buen funcionamiento de los huesos y cartílagos
-- La european food safety authority recomienda la ingesta de vitamina c, ya que contribuye a la formación de colágeno
-- El magnesio favorece el buen funcionamiento de los huesos y los músculos, regula la función de los músculos y el sistema nervioso y el nivel de azúcar en sangre
 - El colágeno funciona como regenerador tisular, aporta resistencia y flexibilidad en las articulaciones
+- El magnesio favorece el buen funcionamiento de los huesos y los músculos, regula la función de los músculos y el sistema nervioso y el nivel de azúcar en sangre
+- La european food safety authority recomienda la ingesta de vitamina c, ya que contribuye a la formación de colágeno
 
 [Visítala!!!](https://www.amazon.es/dp/B071FFGR2J/?tag=tolees-21)

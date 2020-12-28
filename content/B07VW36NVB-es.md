@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Noble Collection Set ajedrez El Seño al 24.66 % de descuento'
-date: 2020-12-20 17:04:01
+date: 2020-12-28 11:48:59
 image: 'https://m.media-amazon.com/images/I/51pZVDxyq2L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07VW36NVB/?tag=tolees-21'
 descuento: '24.66'
-average: '60.7875'
+average: '60.36000000000001'
 ---
 
 Está [The Noble Collection Set ajedrez El Señor de los Anillos  Multicolor  NOB2174 ](https://www.amazon.es/dp/B07VW36NVB/?tag=tolees-21) con 24.66 de descuento por 58.65 EUR (original: 77.85 EUR) en el siguiente enlace!
@@ -26,8 +26,8 @@ Está [The Noble Collection Set ajedrez El Señor de los Anillos  Multicolor  NO
 ℹ️:
 
 - Licencia oficial
-- Tematizado el señor de los anillos
 - Colección el señor de los anillos
+- Tematizado el señor de los anillos
 - Set ajedrez
 - Dimensión piezas 5-11cm y tablero 47x47cm
 

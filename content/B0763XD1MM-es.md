@@ -26,7 +26,7 @@ Está [Funko Pop!- The Walking Dead Richard Figura de Vinilo  25203 ](https://ww
 ℹ️:
 
 - Richard
-- Funko POP
 - The Walking Dead
+- Funko POP
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0763XD1MM/?tag=tolees-21)

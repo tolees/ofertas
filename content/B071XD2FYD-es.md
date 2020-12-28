@@ -25,8 +25,8 @@ Ahora mismo tienes [Funko Pop! - Figura de Vinilo Eclipse Cultist  22611 ](https
 
 🔎:
 
-- Material 100% vinilo
-- Cada personaje mide alrededor de 9 cm de altura
 - Viene embalado en una caja con ventanas ilustrada
+- Cada personaje mide alrededor de 9 cm de altura
+- Material 100% vinilo
 
 [Visítala!!!](https://www.amazon.es/dp/B071XD2FYD/?tag=tolees-21)

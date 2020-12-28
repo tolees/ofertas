@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FAIRY Lavavajillas 1 Unidad  820 ml al 59.21 % de descuento'
-date: 2020-12-21 14:02:18
+date: 2020-12-28 11:04:57
 image: 'https://m.media-amazon.com/images/I/41P3TFTj-yL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07YYRR4P1/?tag=tolees-21'
 descuento: '59.21'
-average: '2.6090476190476184'
+average: '2.6081818181818175'
 ---
 
 Está [FAIRY Lavavajillas 1 Unidad  820 ml](https://www.amazon.es/dp/B07YYRR4P1/?tag=tolees-21) con 59.21 de descuento por 2.59 EUR (original: 6.35 EUR) en el siguiente enlace!
@@ -25,9 +25,9 @@ Está [FAIRY Lavavajillas 1 Unidad  820 ml](https://www.amazon.es/dp/B07YYRR4P1/
 
 ℹ️:
 
+- 820 ml
 - facil de usar
 - Número de modelo del producto: 8001090760364
-- 820 ml
 - Detergente para lavavajillas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07YYRR4P1/?tag=tolees-21)

@@ -26,9 +26,9 @@ Ahora mismo tienes [Bourjois Liner Stylo Lápiz de ojos Tono 61 Ultra Black - 4 
 🔎:
 
 - Convenient combination of an easy-to-use pencil with a long-wearing hold of a liquid liner
-- Precise, long-lasting eyeliner in pencil with a built-in sharpener
-- Built-in sharpener ensures precise application at any time
-- Ultra soft texture enhanced by carnauba wax and beeswax
 - Intense, deep colour from the very first stroke
+- Built-in sharpener ensures precise application at any time
+- Precise, long-lasting eyeliner in pencil with a built-in sharpener
+- Ultra soft texture enhanced by carnauba wax and beeswax
 
 [Visítala!!!](https://www.amazon.es/dp/B00TH3R2ES/?tag=tolees-21)

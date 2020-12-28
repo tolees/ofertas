@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.77 % en Garza 400604 Temporizador Analógico Mini'
-date: 2020-12-26 23:42:31
+date: 2020-12-28 11:29:26
 image: 'https://m.media-amazon.com/images/I/41jM1CUeCBL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00VADMYDM/?tag=tolees-21'
 descuento: '41.77'
-average: '5.79'
+average: '5.723333333333334'
 ---
 
 Tienes [Garza 400604 Temporizador Analógico Mini  Blanco  Set De 2  ](https://www.amazon.es/dp/B00VADMYDM/?tag=tolees-21) con un 41.77 % de descuento con precio de oferta de 5.59 EUR (original: 9.6 EUR) en el siguiente enlace!
@@ -25,14 +25,14 @@ Tienes [Garza 400604 Temporizador Analógico Mini  Blanco  Set De 2  ](https://w
 
 ℹ️:
 
-- Máximo: 3680w 16a/ 230v/ 50 Hz
+- Programación 24 horas
+- Garantía de 2 años
+- Protección infantil
+- Interruptor: on / auto
 - Con la garantía de calidad de Garza Power
 - Pack económico: 2 unidades
-- Interruptor: on / auto
+- Máximo: 3680w 16a/ 230v/ 50 Hz
 - Temporizador analógico mini; blíster de 2 unidades
-- Programación 24 horas
-- Protección infantil
-- Garantía de 2 años
 - Conmutación cada 15 minutos
 - Apto para uso interior
 
