@@ -25,10 +25,10 @@ En este momento está [Maid of Sker](https://www.amazon.es/dp/B0862VRZ3G/?tag=to
 
 🔎:
 
-- Juega como Thomas Evans, un músico que se ve envuelto en una aventura aterradora para salvar a Elizabeth de su malvado padre
-- Gráficos Realistas: Impresionantes gráficos 3D de próxima generación en tiempo real con valores de producción triple “A”
 - Ambientada en 1898 y basada en la inquietante historia de Elizabeth Williams, una joven mujer encarcelada en Sker House por su padre para evitar que se case con el hombre que ama
-- Supervivencia basada en el sonido: Un sistema de IA basado en sonido 3D es la mecánica principal del juego de supervivencia; ocultar, correr, arrastrarse, atrapar y distraer son algunas de las técnicas que necesita dominar para sobrevivir; los enemigos no pueden ver pero tienen una audición excelente
+- Gráficos Realistas: Impresionantes gráficos 3D de próxima generación en tiempo real con valores de producción triple “A”
 - Experimenta una narrativa de múltiples hilos donde tus decisiones importan, desbloqueando diferentes caminos de historia y múltiples finales
+- Juega como Thomas Evans, un músico que se ve envuelto en una aventura aterradora para salvar a Elizabeth de su malvado padre
+- Supervivencia basada en el sonido: Un sistema de IA basado en sonido 3D es la mecánica principal del juego de supervivencia; ocultar, correr, arrastrarse, atrapar y distraer son algunas de las técnicas que necesita dominar para sobrevivir; los enemigos no pueden ver pero tienen una audición excelente
 
 [Aquí!!!](https://www.amazon.es/dp/B0862VRZ3G/?tag=tolees-21)

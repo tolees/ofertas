@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WD Elements Desktop - Disco duro externo al 28.02 % de descuento'
-date: 2020-12-24 11:17:43
+date: 2020-12-28 01:01:21
 image: 'https://m.media-amazon.com/images/I/31we9ujOxbL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FNK6QMT/?tag=tolees-21'
 descuento: '28.02'
-average: '156.31620689655176'
+average: '155.84419354838712'
 ---
 
 Está [WD Elements Desktop - Disco duro externo de sobremesa de 8 TB  color negro](https://www.amazon.es/dp/B07FNK6QMT/?tag=tolees-21) con 28.02 de descuento por 149.0 EUR (original: 206.99 EUR) en el siguiente enlace!
@@ -25,10 +25,10 @@ Está [WD Elements Desktop - Disco duro externo de sobremesa de 8 TB  color negr
 
 ℹ️:
 
-- Gran almacenamiento adicional
-- El artículo viene con adaptadores de la UE y el Reino Unido.
-- Calidad WD por dentro y por fuera
-- Transferencias rápidas de datos
 - Listo para enchufar y listo para PC con Windows
+- Transferencias rápidas de datos
+- Calidad WD por dentro y por fuera
+- El artículo viene con adaptadores de la UE y el Reino Unido.
+- Gran almacenamiento adicional
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FNK6QMT/?tag=tolees-21)
