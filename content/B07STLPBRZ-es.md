@@ -25,10 +25,10 @@ Ahora mismo tienes [Geox U Eolo A  Zapatillas para Hombre  Azul  Avio C4005   40
 
 🔎:
 
-- Material de la suela: Goma
-- Material exterior: Cuero
 - Revestimiento: Malla
+- Material de la suela: Goma
 - Cierre: Cordones
+- Material exterior: Cuero
 - Tipo de tacón: Plano
 
 [Visítala!!!](https://www.amazon.es/dp/B07STLPBRZ/?tag=tolees-21)

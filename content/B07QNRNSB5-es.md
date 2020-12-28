@@ -26,9 +26,9 @@ Tienes [Bamibi® Almohada Embarazada y Cojín Interno Multifuncional  Cojín Lac
 ℹ️:
 
 - Postembarazo - Este cojín de lactancia puede usarse también para apoyar de forma correcta y cómoda al bebé durante la lactancia y para también después de darle el pecho para evitar regurgitaciones de después de comer o incluso dejarle recostado para dormir.
-- Funda hecha de algodón- Diseñado para durante y después del embarazo, al no utilizar materiales sintéticos podrás disfrutar de la almohada lactancia sin que con el paso del tiempo emita crujidos o ruidos molestos al moverte tú o el bebé.
 - Durante el embarazo - Por fin podrás dormir cómodamente de forma lateral apoyando el vientre.
-- Incluye cojín interno - Este pequeño cojín que se sitúa en medio lo podrás utilizar como nido para bebe en el sofá, cama o dentro de la cuna como protector de cuna.
+- Funda hecha de algodón- Diseñado para durante y después del embarazo, al no utilizar materiales sintéticos podrás disfrutar de la almohada lactancia sin que con el paso del tiempo emita crujidos o ruidos molestos al moverte tú o el bebé.
 - Broches de cierre - Podrás unir ambos extremos y así utilizarlo para cogerlo en brazos mientras el bebé está sentado.
+- Incluye cojín interno - Este pequeño cojín que se sitúa en medio lo podrás utilizar como nido para bebe en el sofá, cama o dentro de la cuna como protector de cuna.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07QNRNSB5/?tag=tolees-21)

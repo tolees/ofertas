@@ -25,10 +25,10 @@ Está [WD Elements Desktop - Disco duro externo de sobremesa de 8 TB  color negr
 
 ℹ️:
 
-- Listo para enchufar y listo para PC con Windows
-- Transferencias rápidas de datos
-- Calidad WD por dentro y por fuera
 - El artículo viene con adaptadores de la UE y el Reino Unido.
 - Gran almacenamiento adicional
+- Listo para enchufar y listo para PC con Windows
+- Calidad WD por dentro y por fuera
+- Transferencias rápidas de datos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FNK6QMT/?tag=tolees-21)
