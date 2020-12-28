@@ -25,8 +25,8 @@ En este momento está [MSI Force GC20 - Mando para Videojuegos  USB para Windows
 
 🔎:
 
-- Motores de vibración dual en el interior
 - Sistema operativo: windows 10 / 8.1 / 7, android 4.1 anterior
+- Motores de vibración dual en el interior
 - Soporte para pc, android y consolas populares
 
 [Aquí!!!](https://www.amazon.es/dp/B07L8H9J3T/?tag=tolees-21)

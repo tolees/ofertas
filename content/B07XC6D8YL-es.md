@@ -27,8 +27,8 @@ En este momento está [Black+Decker BXRA2000E Radiador  2000 W  Negro](https://w
 
 - Elegante diseño: en acabados de color negro, el convector está cubierto con pintura especial resistente al calor; su diseño hará que el aparato luzca espectacular en cualquier ambiente
 - Auto apagado ante sobrecalentamiento: para proteger el aparato contra el sobrecalentamiento el convector cuenta con autoapagado de seguridad; cuando detecta que el aparato se está calentando más de lo debido, se apaga automáticamente
+- Gran capacidad de calefacción: con 2000 w y 11 elementos de 140mm cada uno que llevarán el calor a cualquier estancia dónde decidas colocar el radiador
 - Termostato ajustable: termostato incluido que permite seleccionar el nivel de temperatura para ajustar el convector a las necesidades de calefacción; el convector funcionará hasta conseguir la temperatura deseada y luego se pondrá en reposo hasta que la temperatura de la habitación vuelva a descender
 - 2 potencía s: úsalo a plena potencía o a media potencía dependiendo del tipo de estancia y las necesidades de calefacción de tu hogar; luz piloto integrada que indica cuando el convector está en funcionamiento
-- Gran capacidad de calefacción: con 2000 w y 11 elementos de 140mm cada uno que llevarán el calor a cualquier estancia dónde decidas colocar el radiador
 
 [Aquí!!!](https://www.amazon.es/dp/B07XC6D8YL/?tag=tolees-21)

@@ -25,9 +25,9 @@ Tienes [Reebok Workout Plus  Zapatillas de Deporte para Hombre  Blanco  white/ro
 
 🔎:
 
+- Detalles de la banda en H:
 - Suela exterior de goma para mayor durabilidad y tracción.
 - Parte superior de piel granulada.
-- Detalles de la banda en H:
 - Entresuela de EVA para una amortiguación ligera.
 
 [Comprar!!!](https://www.amazon.es/dp/B001T4DFNK/?tag=tolees-21)

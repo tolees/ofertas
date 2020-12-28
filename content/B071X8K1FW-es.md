@@ -25,8 +25,8 @@ Está [Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa en Caucho F203
 
 ℹ️:
 
-- Cristal: cristal mineral
 - Pantalla: analógica
+- Cristal: cristal mineral
 - Estilo: pulsera
 - Material: acero inoxidable
 - Material de la correa: caucho
