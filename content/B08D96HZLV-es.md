@@ -26,9 +26,9 @@ Está [JKZJ 212 Leds Luz Solar Exterior con 3 Modos  Impermeable Lampara Solar F
 ℹ️:
 
 - ☔FÁCIL INSTALACIÓN Y DURABLE IP64 IMPERMEABLE - Está hecho de ABS de alta resistencia y tiene resistencia a altas temperaturas, anticorrosión e impermeable. No se requiere cable ni alambre.
+- 👍3 MODOS DE ILUMINACIÓN OPCIONALES - 1. Modo de sensor normal (se apaga por la noche y permanece brillante con detección de movimiento durante 20 segundos) 2. Modo de sensor de luz (se enciende en modo tenue por la noche y se ilumina durante 20 segundos cuando detecta movimiento) 3. Modo de luz tenue (se enciende por la noche y permanece con tenue luz toda la noche)
 - 👣PANEL SOLAR DE ALTA EFICIENCIA - Las aplique pared exterior alimentadas por energía solar con batería recargable de iones de litio de 2400 mAh. Los placas solares funcionan durante el día para almacenar electricidad e iluminar el exterior por la noche. Puede proporcionar más de 12 horas de iluminación. Ahorro de dinero y ecológico.
 - 🌟ÁNGULO DE ILUMINACIÓN MÁS ANCHO & LUZ SUPER BRILLANTE - La focos led mejorada con sensor equipado con 212 LED en 4 lados y super gran angular de 270 °, más brillante que la mayoría de las luces solares LED 120/180/200 para exteriores. Proporcione una iluminación exterior más brillante y más amplia para porche, camino de entrada, patio, terraza, garaje, poste de la cerca, camino.
 - 🔋INDUCTOR DE MOVIMIENTO PIR MEJORADO - Sensor de movimiento PIR sensible incorporado, la luces kit solar puede detectar cualquier movimiento dentro de los 5 m con un ángulo de detección de 120 °. Cada tiempo de iluminación es de unos 20 s.
-- 👍3 MODOS DE ILUMINACIÓN OPCIONALES - 1. Modo de sensor normal (se apaga por la noche y permanece brillante con detección de movimiento durante 20 segundos) 2. Modo de sensor de luz (se enciende en modo tenue por la noche y se ilumina durante 20 segundos cuando detecta movimiento) 3. Modo de luz tenue (se enciende por la noche y permanece con tenue luz toda la noche)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08D96HZLV/?tag=tolees-21)

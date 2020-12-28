@@ -25,8 +25,8 @@ Tienes [Levi s Otis Beanie  Gorro de punto Unisex adulto  Azul  Blue   Medium  T
 
 🔎:
 
-- Levi s rojo Tab Cosido a la Lip
-- beanie mide aproximadamente 21 cm
 - Sombrero Tamaño Info: S/M encaja 55 cm a 58 cm. L/XL para 59 cm a 62 cm).
+- beanie mide aproximadamente 21 cm
+- Levi s rojo Tab Cosido a la Lip
 
 [Comprar!!!](https://www.amazon.es/dp/B0169EULGI/?tag=tolees-21)

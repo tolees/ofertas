@@ -25,8 +25,8 @@ Ahora mismo tienes [Disney Princess Muñecas Comfy Squad Rapunzel  Hasbro E8402E
 
 🔎:
 
+- Colecciona todos los productos Hasbro
 - Producto Hasbro
 - Un producto sin igual y original de Hasbro
-- Colecciona todos los productos Hasbro
 
 [Visítala!!!](https://www.amazon.es/dp/B07RS2FBLW/?tag=tolees-21)

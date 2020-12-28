@@ -25,9 +25,9 @@ Tienes [Ufesa TT7920 Optima - Tostador plano  700 W  Pantalla LCD  Selección de
 
 🔎:
 
-- Recogecables
 - Bandeja recogemigas extraíble de fácil limpieza
 - Función descongelación
+- Recogecables
 - Potencia 650 W
 - LCD display: temporizador electrónico
 

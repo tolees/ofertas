@@ -27,8 +27,8 @@ Ahora mismo tienes [21in Ukelele Soprano Ukulele de Tilo Incluye una Bolsa de Tr
 
 - También incluye una bolsa de transporte, una correa de ukele, 4 cuerdas extra, 4 púas. (Selección de color aleatorio)
 - Viene con un sintonizador para ayudarte a mantener el ukelele en sintonía todo el tiempo.
+- Cuerpo de madera de tilo, y la superficie están recubiertas con pintura ecológica en color brillante, muy atractivo.
 - Diseño de clavijas de afinación de tipo abierto y cuerdas de nailon producen sonidos realmente bonitos y brillantes.
 - Ukelele soprano acústico de 21 pulgadas, un gran regalo musical para niños, estudiantes o principiantes de instrumentos de cuerda.
-- Cuerpo de madera de tilo, y la superficie están recubiertas con pintura ecológica en color brillante, muy atractivo.
 
 [Visítala!!!](https://www.amazon.es/dp/B07DWN5TL2/?tag=tolees-21)

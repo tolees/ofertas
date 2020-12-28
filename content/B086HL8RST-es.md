@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Alma Atlántica Albariño Espumoso - 750 m con un 24.20 % de descuento'
-date: 2020-12-24 17:11:07
+date: 2020-12-28 17:39:33
 image: 'https://m.media-amazon.com/images/I/41mvhFpJ0gL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ En este momento está [Alma Atlántica Albariño Espumoso - 750 ml](https://www.
 
 🔎:
 
-- Frutal con aromas de manzana y pera madura, melón y macedonia. Notas florales (gardenia y azahar). Boca refrescante, persistente, sabrosa, con retronasal muy fruta
-- Una manera diferente de sentir el Albariño: Refrescante, sabroso, frutal y con burbujas
 - Espumoso blanco de albariño
+- Una manera diferente de sentir el Albariño: Refrescante, sabroso, frutal y con burbujas
+- Frutal con aromas de manzana y pera madura, melón y macedonia. Notas florales (gardenia y azahar). Boca refrescante, persistente, sabrosa, con retronasal muy fruta
 - Un proyecto de Bodegas Martín Códax en el que se viaja al origen y a varietales únicos
 
 [Aquí!!!](https://www.amazon.es/dp/B086HL8RST/?tag=tolees-21)

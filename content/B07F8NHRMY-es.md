@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Toki Retrocollector Edition con un 40.01 % de descuento'
-date: 2020-12-27 10:09:57
+date: 2020-12-28 17:35:09
 image: 'https://m.media-amazon.com/images/I/51hTJpxYjmL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F8NHRMY/?tag=tolees-21'
 descuento: '40.01'
-average: '29.814285714285713'
+average: '29.82378378378378'
 ---
 
 En este momento está [Toki Retrocollector Edition](https://www.amazon.es/dp/B07F8NHRMY/?tag=tolees-21) a 29.99 EUR (original: 49.99 EUR) (40.01 %  de descuento) en el siguiente enlace!

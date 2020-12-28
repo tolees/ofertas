@@ -27,8 +27,8 @@ Ahora mismo tienes [Oscar Charles Juego de brochas de maquillaje profesional con
 
 - Juego de belleza completo con 15 pinceles de maquillaje profesionales de lujo y una impecable licuadora de belleza Oscar Charles y un limpiador de pinceles; bellamente presentado en un elegante estuche para almacenamiento y transporte
 - Fibras lujosamente suaves, sedosas y de alta densidad diseñadas y elaboradas por expertos de la industria; este juego incluye todo lo que necesita para obtener resultados perfectos en todo momento.
-- Incluye una guía del propietario de Luxe Pro para ayudar con el uso y mantenimiento del cepillo; cada pincel está numerado para facilitar su referencia.
 - Cepillos de calidad profesional con fibras hipoalergénicas y libres de crueldad que son suaves para la piel sensible.
 - El regalo perfecto para ti o un ser querido, entregado en una elegante y hermosa caja de regalo.
+- Incluye una guía del propietario de Luxe Pro para ayudar con el uso y mantenimiento del cepillo; cada pincel está numerado para facilitar su referencia.
 
 [Visítala!!!](https://www.amazon.es/dp/B07NQJ82ZC/?tag=tolees-21)

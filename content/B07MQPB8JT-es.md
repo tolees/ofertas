@@ -26,8 +26,8 @@ En este momento está [Pack Star Wars - Chapas Dark Side](https://www.amazon.es/
 🔎:
 
 - 5 x assorted size badges.
-- In a display bag.
 - Official licensed product.
+- In a display bag.
 - Button badge set.
 
 [Aquí!!!](https://www.amazon.es/dp/B07MQPB8JT/?tag=tolees-21)

@@ -25,9 +25,9 @@ Ahora mismo tienes [Funko- Pop Movies: Gladiator-Maximus Collectible Toy  Multic
 
 🔎:
 
-- From gladiator, maximus, as a stylized pop vinyl from funko
 - Figure stands 9cm and comes in a window display box
-- Funko pop is the 2018 toy of the year and peoples choice award winner
 - Check out the other gladiator figures from funko collect them all
+- From gladiator, maximus, as a stylized pop vinyl from funko
+- Funko pop is the 2018 toy of the year and peoples choice award winner
 
 [Visítala!!!](https://www.amazon.es/dp/B07TVDQRM2/?tag=tolees-21)

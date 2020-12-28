@@ -25,8 +25,8 @@ Ahora mismo tienes [Funko - Altered Beast - Estatua Multicolor  32234](https://w
 
 🔎:
 
+- Los Funko Pop son reproducciones estilizadas de personajes icónicos de películas, series de televisión, series animadas, cómics, videojuegos y mucho más
 - El producto se vende en su caja original con ventana frontal
 - Las reproducciones miden aproximadamente 9 cm, pero también existen versiones extragrandes
-- Los Funko Pop son reproducciones estilizadas de personajes icónicos de películas, series de televisión, series animadas, cómics, videojuegos y mucho más
 
 [Visítala!!!](https://www.amazon.es/dp/B07DFDW2PK/?tag=tolees-21)

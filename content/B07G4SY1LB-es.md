@@ -25,10 +25,10 @@ Está [Hugo BOSS Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 1513
 
 ℹ️:
 
-- Esfera negra cepillada con efecto de rayo de sol
 - Con tres manecillas de cuarzo
 - Correa negra de piel lisa
-- 3 ATM de resistencia al agua
 - Grosor de la caja de 9,0 mm
+- 3 ATM de resistencia al agua
+- Esfera negra cepillada con efecto de rayo de sol
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07G4SY1LB/?tag=tolees-21)
