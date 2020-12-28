@@ -25,9 +25,9 @@ Ahora mismo tienes [Clarks Paulson Mid  Botas clásicas. para Hombre  Gris Pardo
 
 🔎:
 
-- Revestimientos textiles:
 - Suela: TPR
-- Fitting Anchura: Standard (G)
 - Parte superior: cuero o gamuza
+- Fitting Anchura: Standard (G)
+- Revestimientos textiles:
 
 [Visítala!!!](https://www.amazon.es/dp/B07MJ7GZRV/?tag=tolees-21)

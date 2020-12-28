@@ -25,8 +25,8 @@ Está [Clarks Paulson Mid  Botas clásicas. Hombre  Piel de Caoba marrón  41 EU
 
 ℹ️:
 
+- Interior: textil.
 - Suela: goma.
 - Material exterior: piel.
-- Interior: textil.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07MC11MVX/?tag=tolees-21)
