@@ -25,9 +25,9 @@ Tienes [Asterix & Obelix XXL2](https://www.amazon.es/dp/B07NRZBBQ4/?tag=tolees-2
 
 🔎:
 
-- Versión actualizada
-- Juego para todas las edades
-- Aventura única y atractiva
 - ¡Nuevo sistema para mejorar tus ataques y la capacidad de plantear desafíos especiales!
+- Aventura única y atractiva
+- Juego para todas las edades
+- Versión actualizada
 
 [Comprar!!!](https://www.amazon.es/dp/B07NRZBBQ4/?tag=tolees-21)

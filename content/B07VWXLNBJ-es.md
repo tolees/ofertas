@@ -25,8 +25,8 @@ Ahora mismo tienes [Nike W Air MAX 200  Zapatillas de Running para Asfalto para 
 
 🔎:
 
-- Amortiguación
 - Zapatillas deportivas
 - Ligereza.
+- Amortiguación
 
 [Visítala!!!](https://www.amazon.es/dp/B07VWXLNBJ/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Brother ADS-1200 - Escáner departamental con un 21.03 % de descuento'
-date: 2020-12-25 12:31:05
+date: 2020-12-28 07:45:12
 image: 'https://m.media-amazon.com/images/I/41QRf3pOnBL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H3CTHF3/?tag=tolees-21'
 descuento: '21.03'
-average: '224.1245652173913'
+average: '224.32770833333333'
 ---
 
 En este momento está [Brother ADS-1200 - Escáner departamental compacto y potente  hasta 50 ppm  resolución óptica hasta 600 x 600 ppp  ranura para tarjetas plásticas de identificación  blanco](https://www.amazon.es/dp/B07H3CTHF3/?tag=tolees-21) a 229.0 EUR (original: 289.99 EUR) (21.03 %  de descuento) en el siguiente enlace!
@@ -25,10 +25,10 @@ En este momento está [Brother ADS-1200 - Escáner departamental compacto y pote
 
 🔎:
 
+- Portable mediante la alimentación eléctrica USB 3.0 ADF para 20 hojas
+- Ranura para tarjetas plásticas de identificación
+- Escaneado a PDF, fichero, email y USB
 - Alta velocidad: hasta 25 hojas / 50 paginas por minuto
 - Incluye el software Nuance Power PDF
-- Portable mediante la alimentación eléctrica USB 3.0 ADF para 20 hojas
-- Escaneado a PDF, fichero, email y USB
-- Ranura para tarjetas plásticas de identificación
 
 [Aquí!!!](https://www.amazon.es/dp/B07H3CTHF3/?tag=tolees-21)
