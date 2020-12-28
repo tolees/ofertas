@@ -25,9 +25,9 @@ Está [FAIRY Lavavajillas 1 Unidad  820 ml](https://www.amazon.es/dp/B07YYRR4P1/
 
 ℹ️:
 
-- 820 ml
 - facil de usar
-- Número de modelo del producto: 8001090760364
+- 820 ml
 - Detergente para lavavajillas
+- Número de modelo del producto: 8001090760364
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07YYRR4P1/?tag=tolees-21)

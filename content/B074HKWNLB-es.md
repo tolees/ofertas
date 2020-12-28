@@ -25,9 +25,9 @@ Tienes [Blade Runner 2049-Funko Pop Blade Runner 2049 Figura de vinilo Luv  Mult
 
 🔎:
 
+- Recomendado para niños a partir de 3 años
 - Viene embalado en una caja ilustrada con ventana
 - Figura de colección de la marca Funko
-- Recomendado para niños a partir de 3 años
 - El artículo es adecuado para todos los fanáticos de Blade Runner
 
 [Comprar!!!](https://www.amazon.es/dp/B074HKWNLB/?tag=tolees-21)

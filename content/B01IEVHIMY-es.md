@@ -25,10 +25,10 @@ Está [Targus THZ64508GL Funda giratoria Universal SafeFit para Dispositivos de 
 
 ℹ️:
 
+- Soporte giratorio manos libres para ver y teclear en formato vertical y horizontal. Test militar de caída realizado - protege el dispositivo de caídas de 1.2m
+- Funda para tablets de entre 9 y 10" de encaje universal para dispositivos de Amazon, Asus, Dell, HP, Lenovo, Samsung y muchos más
 - Garantía limitada de por vida
 - Interior suave diseñado para proteger el dispositivo frente a arañazos. Disponible en una amplia gama de colores
 - El sistema de silicona elástica sujeta el tablet por las cuatro esquinas
-- Soporte giratorio manos libres para ver y teclear en formato vertical y horizontal. Test militar de caída realizado - protege el dispositivo de caídas de 1.2m
-- Funda para tablets de entre 9 y 10" de encaje universal para dispositivos de Amazon, Asus, Dell, HP, Lenovo, Samsung y muchos más
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01IEVHIMY/?tag=tolees-21)

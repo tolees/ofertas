@@ -25,10 +25,10 @@ Ahora mismo tienes [NYX Professional Makeup Spray fijador Makeup Setting Spray  
 
 🔎:
 
+- No mancha, fórmula translúcida, apto para todo tipo de pieles
 - Contenido: 2x nyx professional makeup spray fijador de maquillaje makeup setting spray, acabado dewy, 60 ml
 - Spray vegano: fijador ligero que aporta frescura y mantiene el maquillaje en su sitio con un acabado jugoso, hidratado y de larga duración
 - Pulverizador fácil de usar, aplicar después del maquillaje, se recomienda aplicar a 15 cm de distancia del rostro, sugerencia: pulverizar de 3 a 5 veces, dejar secar para un acabado profesional
-- No mancha, fórmula translúcida, apto para todo tipo de pieles
 - Fija la base de maquillaje líquida y en polvo, mantiene el color del maquillaje durante horas, compacto y fácil de llevar para retocar sobre la marcha
 
 [Visítala!!!](https://www.amazon.es/dp/B07VB2HWNS/?tag=tolees-21)

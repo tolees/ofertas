@@ -26,10 +26,10 @@ Tienes [Lékué Microwave Grill  Red microondas  Acero  rojo y negro  25 4 x 14 
 ℹ️:
 
 - Las tiras de sujección de las planchas son también de silicona y permiten sujetar las dos partes del producto entre si para presionar el ingrediente y asegurar la cocción
-- Nuevo diseño de 2019
+- Pfoa free
 - Asas 100% silicona platinum; una alternativa al plástico; permiten sujetar y manipular de manera cómoda y segura el producto
 - Planchas fabricadas en acero y superficie de material susceptor; consiguen crear el efecto grill en el alimento
-- Pfoa free
+- Nuevo diseño de 2019
 - Dimensiones del producto: 25,4 x 14,5 x 5,3 cm
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07RL945PM/?tag=tolees-21)
