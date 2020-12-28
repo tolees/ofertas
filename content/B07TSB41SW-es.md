@@ -25,9 +25,9 @@ Está [Belkin cargador de pared USB-C de 30 W  cargador rápido para iPhone 12 
 
 ℹ️:
 
+- El diseño fino y plano permite una instalación ceñida en la toma de pared, siendo perfecto para colocarlo detrás de un mueble
 - La diferencia de belkin: liderando tecnología e innovación durante más de 35 años
 - El puerto usb-a de 12 w adicional permite la carga simultánea de un segundo dispositivo
 - El puerto usb-c (18 w) admite carga rápida para iphone 8 o posterior y ipad pro de 10,5 y 12,9 pulgadas de 2a generación (50 % en 30 minutos con el cable usb-c a lightning que se vende por separado)
-- El diseño fino y plano permite una instalación ceñida en la toma de pared, siendo perfecto para colocarlo detrás de un mueble
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TSB41SW/?tag=tolees-21)

@@ -25,10 +25,10 @@ Está [San Ignacio Premium Nona - Bateria de cocina de 4 piezas  acero inoxidabl
 
 ℹ️:
 
+- Las tapas disponen de válvula para escape del vapor, y al ser de cristal, puedes vigilar la cocción sin necesidad de destapar.
+- Excepcional batería de 8 piezas de San Ignacio en su colección Premium: 4 cacerolas/ollas con sus respectivas tapas de vidrio; aptas para todo tipo de fuegos, incluido inducción.
+- Dispone de unos espectaculares asas y pomos en color cobre, para un cuerpo cromado, con el detalle de tres elegantes líneas satinadas.
 - Fabricadas en acero inoxidable 201, con un estudiado grosor de 0,35 mm. para una efectiva y rápida distribución del calor; con escala medidora en el interior.
 - Las dimensiones de las ollas son ideales: Ø16x9,5; Ø18x10,5; Ø20x11,5 y Ø24x13,5 cms; con capacidades de 1,9 L; 2,7 L; 3,5 L; y 5,1 Litros
-- Las tapas disponen de válvula para escape del vapor, y al ser de cristal, puedes vigilar la cocción sin necesidad de destapar.
-- Dispone de unos espectaculares asas y pomos en color cobre, para un cuerpo cromado, con el detalle de tres elegantes líneas satinadas.
-- Excepcional batería de 8 piezas de San Ignacio en su colección Premium: 4 cacerolas/ollas con sus respectivas tapas de vidrio; aptas para todo tipo de fuegos, incluido inducción.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FJMX2F6/?tag=tolees-21)

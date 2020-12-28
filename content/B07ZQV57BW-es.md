@@ -25,8 +25,8 @@ Ahora mismo tienes [Noris- Tricky Cube Cubo mágico-Clásico Juego de Combinar C
 
 🔎:
 
+- Medidas 5,5x5,5x5,5cm
 - A partir de 3 años
 - Clásico cubo para combinar colores
-- Medidas 5,5x5,5x5,5cm
 
 [Visítala!!!](https://www.amazon.es/dp/B07ZQV57BW/?tag=tolees-21)

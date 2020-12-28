@@ -25,10 +25,10 @@ Ahora mismo tienes [Sabrent 512GB Rocket NVMe PCIe M.2 2280 SSD Interno Unidad d
 
 🔎:
 
-- Cumple con PCIe 3.1 / Cumple con NVMe 1.3.
 - Todos los SSD Sabrent vienen con Sabrent Acronis True Image GRATIS para el software Sabrent para una fácil clonación. Para aquellos que requieren un tamaño de sector específico para clonar sus SSD existentes: una utilidad Sabrent recientemente lanzada permite a los usuarios volver a formatear la unidad Rocket y elegir el tamaño de sector de su agrado, ya sea 512 bytes o 4K bytes.
-- Interfaz M.2 PCIe Gen3 x 4.
 - Soporte de administración de energía para APST / ASPM / L1.2.
+- Cumple con PCIe 3.1 / Cumple con NVMe 1.3.
 - Soporta los comandos SMART y TRIM. Admite las interfaces ONFi 2.3, ONFi 3.0, ONFi 3.2 y ONFi 4.0.
+- Interfaz M.2 PCIe Gen3 x 4.
 
 [Visítala!!!](https://www.amazon.es/dp/B07KGMBCKD/?tag=tolees-21)

@@ -25,9 +25,9 @@ Ahora mismo tienes [Diadermine - Crema de Día Lift+ Hidratante- Con tecnología
 
 🔎:
 
-- Efecto lifting duradero
 - Hidratación intensa
-- Anti-arrugas reafirmante
 - Efecto intensa
+- Efecto lifting duradero
+- Anti-arrugas reafirmante
 
 [Visítala!!!](https://www.amazon.es/dp/B00X9UU6P2/?tag=tolees-21)

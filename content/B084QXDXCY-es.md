@@ -25,9 +25,9 @@ Tienes [Karactermania Rick y Morty Psycho-Estuche Portatodo Cuadrado HS  Multico
 
 🔎:
 
-- Dimensiones: 8 x 22 x 5,5 cm
 - Forro interior
 - Estuche portatodo de perfil cuadrado
 - Compartimento único y cierre de cremallera
+- Dimensiones: 8 x 22 x 5,5 cm
 
 [Comprar!!!](https://www.amazon.es/dp/B084QXDXCY/?tag=tolees-21)

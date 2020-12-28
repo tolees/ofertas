@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 19.99 % en Columbia Woodburn II  Zapatillas Hombre '
-date: 2020-12-22 01:43:43
+date: 2020-12-28 21:31:13
 image: 'https://m.media-amazon.com/images/I/41iFsf8lSZL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00KWFH0AG/?tag=tolees-21'
 descuento: '19.99'
-average: '68.1674074074074'
+average: '68.58999999999997'
 ---
 
 Tienes [Columbia Woodburn II  Zapatillas Hombre  Negro  Black Caramel   42.5 EU](https://www.amazon.es/dp/B00KWFH0AG/?tag=tolees-21) con un 19.99 % de descuento con precio de oferta de 80.0 EUR (original: 99.99 EUR) en el siguiente enlace!
@@ -25,10 +25,10 @@ Tienes [Columbia Woodburn II  Zapatillas Hombre  Negro  Black Caramel   42.5 EU]
 
 ℹ️:
 
+- Cierre: Cordones
 - Material exterior: Cuero
 - Tipo de tacón: Plano
 - Material de la suela: Goma
 - Revestimiento: Sintético
-- Cierre: Cordones
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00KWFH0AG/?tag=tolees-21)

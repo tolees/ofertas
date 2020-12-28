@@ -25,11 +25,11 @@ Ahora mismo tienes [Bosch Professional GDX 18V-200 C - Llave de impacto a bater�
 
 🔎:
 
-- Incluye: GDX 18V-200 C, maletín L-BOXX 136
-- Trabajo eficiente gracias a los tres niveles de velocidad ajustables
 - Potente: Óptima combinación de cabezal especialmente corto y par de apriete
-- Uso flexible gracias al portapuntas 2 en 1 para hexágonos interiores de 1/4" y cuadrados exteriores de 1/2"
 - Professional 18V System. Máximo rendimiento. Máxima libertad. Todas nuestras baterías son compatibles con las herramientas nuevas o existentes Bosch Professional del mismo voltaje
+- Incluye: GDX 18V-200 C, maletín L-BOXX 136
+- Uso flexible gracias al portapuntas 2 en 1 para hexágonos interiores de 1/4" y cuadrados exteriores de 1/2"
 - Gracias a la luz LED integrada se puede trabajar con precisión en lugares oscuros
+- Trabajo eficiente gracias a los tres niveles de velocidad ajustables
 
 [Visítala!!!](https://www.amazon.es/dp/B07FWPQF2T/?tag=tolees-21)

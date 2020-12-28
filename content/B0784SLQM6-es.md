@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crucial MX500 500GB CT500MX500SSD1 Z  Un al 26.40 % de descuento'
-date: 2020-12-26 13:32:40
+date: 2020-12-28 21:47:01
 image: 'https://m.media-amazon.com/images/I/41IDhZNmL1L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0784SLQM6/?tag=tolees-21'
 descuento: '26.40'
-average: '66.46005235602092'
+average: '66.36191709844557'
 ---
 
 Está [Crucial MX500 500GB CT500MX500SSD1 Z  Unidad interna de estado sólido-hasta 560 MB/s  3D NAND  SATA  2.5 Pulgadas ](https://www.amazon.es/dp/B0784SLQM6/?tag=tolees-21) con 26.40 de descuento por 56.99 EUR (original: 77.43 EUR) en el siguiente enlace!
@@ -25,11 +25,11 @@ Está [Crucial MX500 500GB CT500MX500SSD1 Z  Unidad interna de estado sólido-ha
 
 ℹ️:
 
-- Acelerado por tecnología NAND Micron 3D
 - El cifrado basado en hardware AES de 256 bits mantiene los datos seguros fuera del alcance de los piratas y ladrones informáticos
 - El producto se envía con el paquete Amazon Certified Frustration Free (puede variar del paquete representado en el adjunto del producto)
-- Lecturas/escrituras secuenciales hasta 560/510 MB/s en todos los tipos de archivo y lecturas/escrituras aleatorias hasta 95/90k en todos los tipos de archivo
 - ¡ADVERTENCIA! Verifique la compatibilidad del producto en el sitio web de Crucial antes de comprarlo
 - La Inmunidad de Pérdida de Energía Integrada conserva todo si trabajo archivado si la corriente eléctrica se corta inesperadamente
+- Lecturas/escrituras secuenciales hasta 560/510 MB/s en todos los tipos de archivo y lecturas/escrituras aleatorias hasta 95/90k en todos los tipos de archivo
+- Acelerado por tecnología NAND Micron 3D
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0784SLQM6/?tag=tolees-21)

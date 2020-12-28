@@ -25,7 +25,7 @@ Ahora mismo tienes [Mercurio- Juego de Mesa  39200118 ](https://www.amazon.es/dp
 
 🔎:
 
-- Paqueteage Dimensiones: 3.8 L x 12.8 H x 11.8 W (centimeters)
 - Juegos de Mesa
+- Paqueteage Dimensiones: 3.8 L x 12.8 H x 11.8 W (centimeters)
 
 [Visítala!!!](https://www.amazon.es/dp/B0771PMH7T/?tag=tolees-21)

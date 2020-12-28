@@ -25,9 +25,9 @@ Tienes [Microsoft Signature Type Cover - Funda con teclado para Surface Pro  Neg
 
 🔎:
 
+- Ultra-fino, pero con rendimiento de un teclado de portátil tradicional
 - Teclado con retro-iluminación LED
 - Se acopla fácilmente, transformando tu dispositivo Surface Pro de tablet a portátil
-- Ultra-fino, pero con rendimiento de un teclado de portátil tradicional
 - Teclado español
 
 [Comprar!!!](https://www.amazon.es/dp/B0759VQCQG/?tag=tolees-21)

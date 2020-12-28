@@ -26,8 +26,8 @@ Tienes [L Oréal Paris Age Perfect Golden Age Contorno de Ojos Antiojeras Pieles
 🔎:
 
 - El contorno de los ojos se siente más firme; recupera su luminosidad natural y su vitalidad
-- Age Perfect Golden Age contorno de ojos antiojeras, hidrata intensamente y corrige incluso las ojeras más persistentes
-- Hidrata intensamente y corrige incluso las ojeras más persistentes
 - Para pieles maduras y apagadas
+- Hidrata intensamente y corrige incluso las ojeras más persistentes
+- Age Perfect Golden Age contorno de ojos antiojeras, hidrata intensamente y corrige incluso las ojeras más persistentes
 
 [Comprar!!!](https://www.amazon.es/dp/B07QCSGL4V/?tag=tolees-21)

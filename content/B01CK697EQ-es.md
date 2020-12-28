@@ -26,9 +26,9 @@ Ahora mismo tienes [Chicco-00007651000000 Big & Small Guante  Multicolor  000076
 🔎:
 
 - 5 personajes diferentes libro ilustrado
-- Guante Cuentacuentos
 - Sonido en algunos personajes
 - Aprenderá los números y los animales
 - Ruido de sonajero y sonidos
+- Guante Cuentacuentos
 
 [Visítala!!!](https://www.amazon.es/dp/B01CK697EQ/?tag=tolees-21)

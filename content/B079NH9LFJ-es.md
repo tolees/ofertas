@@ -26,8 +26,8 @@ Tienes [Schleich- Pegaso Joya  Semental  70574 ](https://www.amazon.es/dp/B079NH
 🔎:
 
 - Pintada minunciosamente a mano
-- Figura pegaso joya yegua modelada con gran detalle
 - Gama Bayala de Schleich
 - Dimensiones: 15 x 8,2 x 18 cm. (Ancho x Largo x Alto)
+- Figura pegaso joya yegua modelada con gran detalle
 
 [Comprar!!!](https://www.amazon.es/dp/B079NH9LFJ/?tag=tolees-21)
