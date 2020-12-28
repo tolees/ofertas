@@ -26,7 +26,7 @@ Ahora mismo tienes [Mepamsa Inset Mwe 25 Microondas Digital  900 W  25 litros  A
 🔎:
 
 - 8 niveles de potencia + grill
-- Potencia max: 900W / Pot grill: 1000W
 - Capacidad: 25 l
+- Potencia max: 900W / Pot grill: 1000W
 
 [Visítala!!!](https://www.amazon.es/dp/B0055ZOXL2/?tag=tolees-21)

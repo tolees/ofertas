@@ -27,8 +27,8 @@ Ahora mismo tienes [Jura Seven Wood - Whisky de Malta Escocés - 700 ml](https:/
 
 - Un toque de spray de mar y humo
 - Perfecto como un regalo
-- Una fusión aromática de café, especias de jengibre
 - Color: oro caoba
 - Capacidad: 70cl
+- Una fusión aromática de café, especias de jengibre
 
 [Visítala!!!](https://www.amazon.es/dp/B07CCRY7SF/?tag=tolees-21)

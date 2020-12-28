@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.00 % en BERING Reloj Analógico para Hombre de Cu'
-date: 2020-12-27 16:28:53
+date: 2020-12-28 20:32:41
 image: 'https://m.media-amazon.com/images/I/41AlMoJn-ML._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Tienes [BERING Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxid
 
 ℹ️:
 
+- El cristal de zafiro es resistente a golpes y rayaduras
+- Caja: acero inoxidable de grado médico 316l / negro / 40 mm de diámetro / 5 mm de espesor
 - Classic Watch Collection , clásico, purista y, sin embargo, emocionante: inspirado en el diseño danés , Quartz
 - Correa: acero inoxidable de grado médico 316l / negro / 200 mm de largo / 22 mm de ancho
-- Caja: acero inoxidable de grado médico 316l / negro / 40 mm de diámetro / 5 mm de espesor
 - Resistente al agua hasta 3 ATM / 30 metros / 98 pies , resistencia general a la lluvia, salpicaduras, inmersión accidental y ducha, no apto para nadar o bañarse
-- El cristal de zafiro es resistente a golpes y rayaduras
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00VANHHFM/?tag=tolees-21)

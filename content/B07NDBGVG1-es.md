@@ -27,11 +27,11 @@ Está [LEGO Technic - Grúa sobre Orugas Compacta  Juguete de construcción de M
 
 - Este set de construcción es ideal tanto para principiantes como para constructores que ya estén familiarizados con el sistema de construcción LEGO Technic.
 - Cuenta con estabilizadores extensibles que se mueven tanto lateral como verticalmente, una pluma extensible, un complejo polipasto de cable con bloqueo de seguridad, una superestructura que gira 180° y robustas orugas.
-- Maniobra para colocar la Grúa sobre Orugas Compacta en posición; después, acciona el cabrestante y usa la superestructura para elevar y despachar la carga con precisión milimétrica.
+- Este set LEGO Technic ha sido diseñado para proporcionar una experiencia de construcción envolvente y gratificante.
+- Modelo “2 en 1”: conviértelo en una grúa torre compacta.
 - Ayuda a tu joven constructor LEGO a comprender los fundamentos de los engranajes, la fuerza y el movimiento con este set de construcción LEGO Technic de gran realismo.
 - La Grúa sobre Orugas Compacta, con la pluma y las patas extendidas, mide más de 51 cm de altura, 49 cm de longitud y 40 cm de ancho.
+- Maniobra para colocar la Grúa sobre Orugas Compacta en posición; después, acciona el cabrestante y usa la superestructura para elevar y despachar la carga con precisión milimétrica.
 - La grúa torre compacta, con la pluma y las patas extendidas, mide más de 50 cm de altura, 35 cm de longitud y 22 cm de ancho.
-- Modelo “2 en 1”: conviértelo en una grúa torre compacta.
-- Este set LEGO Technic ha sido diseñado para proporcionar una experiencia de construcción envolvente y gratificante.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07NDBGVG1/?tag=tolees-21)

@@ -25,8 +25,8 @@ Ahora mismo tienes [Joma Academy Chandal Caballero  Hombre  Rojo/Marino  M](http
 
 🔎:
 
-- Chándales
-- Resto textil
 - Academy rojo-marino
+- Resto textil
+- Chándales
 
 [Visítala!!!](https://www.amazon.es/dp/B07FKWRVGT/?tag=tolees-21)

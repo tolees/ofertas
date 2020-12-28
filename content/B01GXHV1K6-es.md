@@ -25,10 +25,10 @@ Está [Meizu MX6 - Smartphone DE 5.5"  Deca Core Helio X20 1.4 GHz  Memoria Inte
 
 ℹ️:
 
-- Producto oficial, homologado
 - Pantalla de 5.5" 1920x1080, full incell, mtouch 2.1, velocidad de respuesta 0.2s
+- Batería de 3060mah
+- Producto oficial, homologado
 - Cámara trasera de 12mpx, delantera de 5Mpx
 - Procesador mediatek helio x20, arm cortex-a53
-- Batería de 3060mah
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01GXHV1K6/?tag=tolees-21)

@@ -26,7 +26,7 @@ En este momento está [Esprit 999ee2k800 Camiseta  Azul  Bright Blue 410   Mediu
 🔎:
 
 - Tiene un tejido ligero que ofrece comodidad
-- Adecuada para cualquier atuendo
 - Con logotipo estampado en el pecho
+- Adecuada para cualquier atuendo
 
 [Aquí!!!](https://www.amazon.es/dp/B07KGS7F88/?tag=tolees-21)

@@ -25,10 +25,10 @@ En este momento está [IKOHS NETBOT LS23 - Robot Aspirador Láser  Aspira  Barre
 
 🔎:
 
+- Complete work control: Control total a distancia del robot vía Wifi a través de su APP Android e iOS. Con diversos programas de limpieza y controles: Automático, Spot, zona limpieza, zona prohibida, potencia, encontrar robot, etc. "
 - Robot aspirador friegasuelos con sistema de navegación inteligente guiada por láser 3D Mapping System que mediante su APP puedes programar siempre que necesites, ya que está diseñado para tener el control del robot limpiador desde cualquier lugar y en cualquier momento.
-- Animal Care: Cepillo compuesto de dos materiales y dos tipos de cerdas que permite la aspiración eficaz de los pelos de nuestras mascotas. Limpia sin dañar las superficies más delicadas como parqués o madera. "
 - 3D Mapping system: Tecnología navegación y mapeo 3d láser para una limpieza profunda y exhaustiva de tu hogar. Gracias a esta tecnología conserva un historial de limpiezas que le permite no repetir recorrido y, por tanto, no perder el tiempo. "
 - Laser navigation: Sensores de navegación inteligentes guiados por láser y ultrasonidos, el resultado una limpieza mucho más eficiente y completa en todas las superficies, además supera obstáculos hasta 2cm de altura. "
-- Complete work control: Control total a distancia del robot vía Wifi a través de su APP Android e iOS. Con diversos programas de limpieza y controles: Automático, Spot, zona limpieza, zona prohibida, potencia, encontrar robot, etc. "
+- Animal Care: Cepillo compuesto de dos materiales y dos tipos de cerdas que permite la aspiración eficaz de los pelos de nuestras mascotas. Limpia sin dañar las superficies más delicadas como parqués o madera. "
 
 [Aquí!!!](https://www.amazon.es/dp/B07ZD8JHJJ/?tag=tolees-21)

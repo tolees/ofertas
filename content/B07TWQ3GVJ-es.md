@@ -25,10 +25,10 @@ En este momento está [DC Shoes Tintern - Chaqueta Aislante Ligera Resistente al
 
 🔎:
 
-- __Cierre:__ cremallera Vislon en la parte frontal
-- __Bolsillos: __bolsillos de ojal con cierre de cremallera
 - __Corte:__ corte normal, cómodo
+- __Cierre:__ cremallera Vislon en la parte frontal
 - __Tejido interior/acolchado:__ interior de tafetán de poliéster acolchado con relleno ligero
+- __Bolsillos: __bolsillos de ojal con cierre de cremallera
 - __Tejido:__ tejido mini-ripstop ligero (39 g/m2)
 
 [Aquí!!!](https://www.amazon.es/dp/B07TWQ3GVJ/?tag=tolees-21)

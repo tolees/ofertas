@@ -25,10 +25,10 @@ Está [Alfonso Casas Bateria Externa 4000 mAh - Diseño Low Battery con Corazón
 
 ℹ️:
 
-- Con conexión micro USB, función linterna y precargada, lista para usar.
-- Ideal para regalo, un gadget que no puede faltar entre tus accesorios.
-- Power Bank con diseño de Alfonso Casas y patrón corazón, modelo Low Battery.
 - Compacta, ligera y muy fina, ideal para llevar en la mochila o bolso.
+- Ideal para regalo, un gadget que no puede faltar entre tus accesorios.
+- Con conexión micro USB, función linterna y precargada, lista para usar.
+- Power Bank con diseño de Alfonso Casas y patrón corazón, modelo Low Battery.
 - Aporta hasta 18 horas de batería extra a tu smartphone gracias a su capacidad de 4000 mAh.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B075DKC6VH/?tag=tolees-21)
