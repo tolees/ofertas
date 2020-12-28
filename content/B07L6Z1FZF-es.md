@@ -25,9 +25,9 @@ Está [Bissell 2005N Stain Eraser - Borrador de Manchas  763 milliliters  76 Dec
 
 ℹ️:
 
-- Potencia: 7,2 volts
 - Comodidad sin cables: disfrute de la libertad de un limpiador de alfombras portátil de litio que elimina las manchas con su fórmula y su potente succión
 - Pulverice, friegue y aspire para eliminar manchas y suciedad de alfombras, tapicería, escaleras, alfombras, interiores de automóviles y más
 - Elimina instantánea y permanentemente manchas como orina, excrementos, vómitos, suciedad, barro, sangre, hierba, salsa de tomate, vino, maquillaje, grasa de alimentos, aceites vegetales, café, cola, aceites de motor, y más
+- Potencia: 7,2 volts
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07L6Z1FZF/?tag=tolees-21)

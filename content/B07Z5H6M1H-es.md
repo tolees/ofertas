@@ -25,7 +25,7 @@ Está [Salomon Speedcross 4 W  Zapatillas de Trail Running Mujer  Rojo  Brick Du
 
 ℹ️:
 
-- Número: 37 1/3
 - Speedcross 4 W Brick Dust/Winetasting/Apple Butter
+- Número: 37 1/3
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07Z5H6M1H/?tag=tolees-21)

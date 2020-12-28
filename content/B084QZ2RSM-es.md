@@ -25,9 +25,9 @@ Ahora mismo tienes [BaBylissMEN Barbero profesional T890E Recortadora de barba c
 
 🔎:
 
-- Guía de corte con 24 longitudes desde 0,5 hasta 12 mm con incrementos de 0,5mm.
-- Cuchillas de Acero japonés extra afiladas de 34 mm para mayor precisión. Lavables bajo el grifo.
 - Estuche de almacenamiento, cepillo de limpieza y aceite lubricante incluido.
 - Batería de Litio: Uso Con/Sin cable con 120 min de autonomía en 2h de carga; Carga rápida 20 min.
+- Cuchillas de Acero japonés extra afiladas de 34 mm para mayor precisión. Lavables bajo el grifo.
+- Guía de corte con 24 longitudes desde 0,5 hasta 12 mm con incrementos de 0,5mm.
 
 [Visítala!!!](https://www.amazon.es/dp/B084QZ2RSM/?tag=tolees-21)

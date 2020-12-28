@@ -25,14 +25,14 @@ Ahora mismo tienes [Logitech G MX518 Gaming Mouse HERO Sensor 16 000 Dpi ARM Pro
 
 🔎:
 
-- Construye, agáchate, lucha cuerpo a cuerpo, sana... pon tus poderes al alcance de tus dedos
-- La configuración guardada funcionará en cualquier pc sin necesidad de software adicional ni de iniciar sesión
-- Memoria integrada: guarda hasta cinco perfiles en la memoria integrada, utilizando logitech gaming software (lgs) o logitech g hub, y llévatelos contigo
-- Sensor hero: el renacido mx518 cuenta con nuestro exclusivo sensor hero 16k
 - Personaliza estos valores de dpi con lgs o g hub, o utiliza la configuración predeterminada (400, 800, 1.600, 3.200 y 6.400) lista para usar
-- Es nuestro sensor de gaming más preciso hasta la fecha: con una velocidad de captura de hasta 17.000 fotogramas por segundo, supera los 400 ips en toda la gama de 100.-.16.000 dpi, sin suavizado, aceleración ni filtros
 - 8 botones programables: usa lgs o g hub para programar los ocho botones con tus macros y comandos favoritos
+- Construye, agáchate, lucha cuerpo a cuerpo, sana... pon tus poderes al alcance de tus dedos
+- Sensor hero: el renacido mx518 cuenta con nuestro exclusivo sensor hero 16k
+- Memoria integrada: guarda hasta cinco perfiles en la memoria integrada, utilizando logitech gaming software (lgs) o logitech g hub, y llévatelos contigo
 - Cambio de dpi sobre la marcha: sube y baja por hasta cinco valores de dpi
+- Es nuestro sensor de gaming más preciso hasta la fecha: con una velocidad de captura de hasta 17.000 fotogramas por segundo, supera los 400 ips en toda la gama de 100.-.16.000 dpi, sin suavizado, aceleración ni filtros
 - Procesador arm de 32 bits: con memoria integrada y velocidad de respuesta de 1.ms, hereda la sensación del mx518 original, con el rendimiento avanzado actual
+- La configuración guardada funcionará en cualquier pc sin necesidad de software adicional ni de iniciar sesión
 
 [Visítala!!!](https://www.amazon.es/dp/B07NDVF9V7/?tag=tolees-21)

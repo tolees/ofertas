@@ -25,8 +25,8 @@ Está [Edge Entertainment Dead of Winter - La Larga Noche  Juego de Mesa  Edge E
 
 ℹ️:
 
-- La Larga Noche incorpora la Localización Raxxon, de la que surgirán horribles experimentos a menos que los jugadores puedan contenerlos
 - Los supervivientes afrontan sus propios imperativos psicológicos, pero también deben encontrar la manera de trabajar juntos para enfrentarse a amenazas
+- La Larga Noche incorpora la Localización Raxxon, de la que surgirán horribles experimentos a menos que los jugadores puedan contenerlos
 - Dead of Winter es una experiencia que solo puede vivirse a través de un juego de mesa; es un juego centrado en historias de supervivencia
 - Incorpora bandidos, mejoras para la colonia, el cementerio, localizaciones y objetos, Supervivientes, figuras de Zombis, Objetivos y encrucijadas ,escenarios especiales
 

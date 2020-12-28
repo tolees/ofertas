@@ -25,7 +25,7 @@ En este momento está [Esprit 999ee1g801  Chaqueta Punto Mujer  Negro  Black 001
 
 🔎:
 
-- Cierre de gancho
 - Blazer elástico de jersey con cuello mao y corte entallado muy femenino
+- Cierre de gancho
 
 [Aquí!!!](https://www.amazon.es/dp/B07S1Q3MR8/?tag=tolees-21)
