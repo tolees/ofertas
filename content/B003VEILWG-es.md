@@ -25,10 +25,10 @@ En este momento está [Bosch GDR 12V-105 - Atornillador de impacto  Litio-Ion po
 
 🔎:
 
-- Gracias a su potente par de 105 Nm, es apto para el 80 % de las aplicaciones más habituales en metal y hormigón con atornillador de impacto a batería
-- Professional 12V System. Rendimiento compacto. Máxima libertad. Todas nuestras baterías son compatibles con las herramientas nuevas o existentes Bosch Professional del mismo voltaje
-- El atornillador de impacto a batería más pequeño de su categoría
-- Manejo óptimo, sobre todo en trabajos de atornillado en lugares estrechos y por encima de la cabeza, gracias al tamaño reducido (tan solo 137 mm)
 - Incluye: GDR 12V-105, en caja
+- Manejo óptimo, sobre todo en trabajos de atornillado en lugares estrechos y por encima de la cabeza, gracias al tamaño reducido (tan solo 137 mm)
+- El atornillador de impacto a batería más pequeño de su categoría
+- Professional 12V System. Rendimiento compacto. Máxima libertad. Todas nuestras baterías son compatibles con las herramientas nuevas o existentes Bosch Professional del mismo voltaje
+- Gracias a su potente par de 105 Nm, es apto para el 80 % de las aplicaciones más habituales en metal y hormigón con atornillador de impacto a batería
 
 [Aquí!!!](https://www.amazon.es/dp/B003VEILWG/?tag=tolees-21)

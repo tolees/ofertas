@@ -25,9 +25,9 @@ En este momento está [Kingston A400 SSD SA400M8/120G - Disco duro sólido inter
 
 🔎:
 
-- Fiable y resistente
-- Capacidad del disco duro: 120 GB
-- Rendimiento óptimo para la transferencia de archivos
 - Velocidad de grabación: 320 MB/s
+- Rendimiento óptimo para la transferencia de archivos
+- Capacidad del disco duro: 120 GB
+- Fiable y resistente
 
 [Aquí!!!](https://www.amazon.es/dp/B07P22T3VD/?tag=tolees-21)

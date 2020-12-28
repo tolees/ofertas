@@ -25,10 +25,10 @@ En este momento está [Yosoy Avena Barista Para Café -  Caja De 6x1L  6000 ml](
 
 🔎:
 
-- Bebida de Avena 100% vegetal para Baristas
 - Textura cremosa perfecto para el café
-- Ingredientes: Agua de parque natural, Avena (12%), Aceite de Nabina, Carbonato Cálcico + Fosfato tricálcico, Sal marina
-- Pack de 6 x 1L
 - Sin azúcares añadidos, sin aditivos, hecha con Agua del parque natural del Montseny
+- Ingredientes: Agua de parque natural, Avena (12%), Aceite de Nabina, Carbonato Cálcico + Fosfato tricálcico, Sal marina
+- Bebida de Avena 100% vegetal para Baristas
+- Pack de 6 x 1L
 
 [Aquí!!!](https://www.amazon.es/dp/B08JDQVFZJ/?tag=tolees-21)

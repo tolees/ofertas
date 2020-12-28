@@ -26,10 +26,10 @@ Ahora mismo tienes [Polar M430 Reloj de Running con GPS  Adultos Unisex  Negro  
 🔎:
 
 - Compatible con polar balance
-- Registro de la frecuencia cardíaca en la muñeca
-- Velocidad, distancia también en indoor
-- Gps integrado, proporciona datos de velocidad, distancia, altimetría e inclinación y registro de actividad 24/7
 - Analiza tu sueño al detalle con la función Sleep Plus
+- Gps integrado, proporciona datos de velocidad, distancia, altimetría e inclinación y registro de actividad 24/7
+- Velocidad, distancia también en indoor
+- Registro de la frecuencia cardíaca en la muñeca
 - Tallas: S: circunferencia de la muñeca 130-187 mm
 
 [Visítala!!!](https://www.amazon.es/dp/B07WQGY2RW/?tag=tolees-21)

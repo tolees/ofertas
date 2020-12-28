@@ -25,7 +25,7 @@ Tienes [Goodthreads Paquete de 3 Calcetines Acanalados casual-socks  Rayas dorad
 
 🔎:
 
-- Para la comodidad y el estilo cotidiano, hazte con estos elementos básicos imprescindibles.
 - En Goodthreads, estamos en una misión para crear ropa increíble hecha con cuidado.
+- Para la comodidad y el estilo cotidiano, hazte con estos elementos básicos imprescindibles.
 
 [Comprar!!!](https://www.amazon.es/dp/B07X5M5B4W/?tag=tolees-21)

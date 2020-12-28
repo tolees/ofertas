@@ -25,8 +25,8 @@ En este momento está [adidas Continental 80  Zapatillas de Gimnasia para Hombre
 
 🔎:
 
+- Forro interior de tela.
 - Suela de goma preformada dividida con inserto de EVA.
 - Empeine de piel suave.
-- Forro interior de tela.
 
 [Aquí!!!](https://www.amazon.es/dp/B07K1G8VYJ/?tag=tolees-21)

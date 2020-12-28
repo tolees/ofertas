@@ -25,9 +25,9 @@ Está [Speedo Equipment Mesh Bag Mochila  Unisex  Verde  Talla única](https://w
 
 ℹ️:
 
+- Rápido drenaje y ventilación para que tu equipo se seque rápidamente
 - Amplia y espaciosa
 - 100 % poliéster
-- Rápido drenaje y ventilación para que tu equipo se seque rápidamente
 - Ideal para almacenar accesorios de entrenamiento y equipamientos de piscina
 - Mochila de malla con cierre con cordón
 

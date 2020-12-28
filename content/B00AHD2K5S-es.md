@@ -25,9 +25,9 @@ Tienes [Old El Paso - Sazonador para Guacamole  20g](https://www.amazon.es/dp/B0
 
 ℹ️:
 
+- Sin conservantes
 - Para 3-4 amigos
 - Tu guacamole listo en un instante
 - Machaca dos aguacates maduros y añade el sazonador
-- Sin conservantes
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00AHD2K5S/?tag=tolees-21)

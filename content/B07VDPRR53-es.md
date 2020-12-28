@@ -25,10 +25,10 @@ En este momento está [Diesel Reloj Cronógrafo para Hombre de Cuarzo con Correa
 
 🔎:
 
-- Resistente al agua hasta 50 m: apto para nadar en aguas poco profundas
-- Caja redonda de acero inoxidable en tonos dorados con esfera en color negro
 - Correa de piel negra
-- Se presenta en caja de regalo Diesel
 - Caja de 48 mm, correa de 22 mm de ancho, cristal mineral, movimiento de cuarzo con pantalla analógica de cronógrafo
+- Caja redonda de acero inoxidable en tonos dorados con esfera en color negro
+- Se presenta en caja de regalo Diesel
+- Resistente al agua hasta 50 m: apto para nadar en aguas poco profundas
 
 [Aquí!!!](https://www.amazon.es/dp/B07VDPRR53/?tag=tolees-21)

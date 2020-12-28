@@ -25,10 +25,10 @@ Está [Sony CFD-70 - Reproductor Boombox  FM/AM  Casete  CD   Color Negro](https
 
 ℹ️:
 
-- Cuenta con 2 salidas de RMS estéreo de 1.7 W
 - Salida de auriculares Jack de 3.5 mm
-- Con función de radio FM
-- Con capacidad de lectura de MP3 tanto desde un CD
 - Sintonizador FM/AM con 30 presintonías digitales
+- Con capacidad de lectura de MP3 tanto desde un CD
+- Con función de radio FM
+- Cuenta con 2 salidas de RMS estéreo de 1.7 W
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01CDNDPUS/?tag=tolees-21)

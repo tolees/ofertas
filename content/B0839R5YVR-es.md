@@ -27,8 +27,8 @@ Tienes [Shark Aspiradora escoba sin cable  IZ251EU  Anti Hair Wrap  DuoClean  Fl
 
 - Alfombras y suelos duros: su sistema duoclean pasa de alfombras a suelos duros sin necesidad de cambiar el cabezal
 - Garantía del fabricante de cinco años (dos años de garantía en la batería)
-- Aspiradora sin cable anti hair wrap elimina eficazmente el pelo del cepillo mientras aspiras
-- La varilla flexology se dobla para limpiar debajo de los muebles y poder guardarla fácilmente
 - Hasta 80 minutos de autonomía; modelo batería doble
+- La varilla flexology se dobla para limpiar debajo de los muebles y poder guardarla fácilmente
+- Aspiradora sin cable anti hair wrap elimina eficazmente el pelo del cepillo mientras aspiras
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0839R5YVR/?tag=tolees-21)

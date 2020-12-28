@@ -25,13 +25,13 @@ Está [Nespresso De Longhi Inissia EN80.CW - Cafetera monodosis de cápsulas Nes
 
 ℹ️:
 
-- Parada de flujo automático Flow Stop: 2 botones programables (espresso y lungo)
 - Función de autoapagado tras 9 minutos de inactividad
-- Sistema de calentamiento rápido Thermoblock: lista para usar en 25 segundos
-- Disponible en color negro, naranja, crema y blanco
-- Clase de eficiencia energética: A +
-- Compacta, ligera y con asa ergonómica
 - Bomba de presión de 19 bares
+- Clase de eficiencia energética: A +
+- Sistema de calentamiento rápido Thermoblock: lista para usar en 25 segundos
 - Incluye 14 cápsulas y 20€ de crédito en café
+- Compacta, ligera y con asa ergonómica
+- Parada de flujo automático Flow Stop: 2 botones programables (espresso y lungo)
+- Disponible en color negro, naranja, crema y blanco
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00G5YP1ZE/?tag=tolees-21)

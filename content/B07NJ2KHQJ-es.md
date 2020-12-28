@@ -25,10 +25,10 @@ Ahora mismo tienes [Mobiclinic  Light  Cama de Masaje  Camilla fisioterapia pleg
 
 🔎:
 
-- MOBICLINIC S.L. es una empresa fabricante líder de mobiliario clínico y hospitalario, ayudas técnicas y ortopedia. Empresa especialista que ofrece la mejor calidad y confianza a sus clientes desde 1985
-- REGULABLE: dispone de varios niveles para regular la altura de la camilla siendo muy fácil su colocación
-- CÓMODA: cuenta con un tapizado en polipiel muy elegante y agradable al tacto con la piel
 - PLEGABLE: por lo que ocupa poco espacio y puede ser transportada si realizas consultas a domicilio. Incluye bolsa de transporte con asa para mayor comodidad
+- REGULABLE: dispone de varios niveles para regular la altura de la camilla siendo muy fácil su colocación
 - SEGURA: cuenta con sistemas de bloqueos para que no se abra o cierre de manera aleatoria y muestra mucha resistencia de carga
+- MOBICLINIC S.L. es una empresa fabricante líder de mobiliario clínico y hospitalario, ayudas técnicas y ortopedia. Empresa especialista que ofrece la mejor calidad y confianza a sus clientes desde 1985
+- CÓMODA: cuenta con un tapizado en polipiel muy elegante y agradable al tacto con la piel
 
 [Visítala!!!](https://www.amazon.es/dp/B07NJ2KHQJ/?tag=tolees-21)

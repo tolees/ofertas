@@ -25,10 +25,10 @@ En este momento está [Príncipe Original - Galletas Rellenas de Chocolate con L
 
 🔎:
 
-- Alérgenos: soja, huevos, leche, frutos de cáscara, harina de trigo.
-- Fórmula mejorada; disfruta aún más de la crujiente galleta de trigo y la crema de chocolate
-- Conservar en lugar fresco y seco
 - Práctico sistema de abre y cierra, que ayuda a una mejor conservación
+- Alérgenos: soja, huevos, leche, frutos de cáscara, harina de trigo.
+- Conservar en lugar fresco y seco
+- Fórmula mejorada; disfruta aún más de la crujiente galleta de trigo y la crema de chocolate
 - Galleta tipo sándwich rellena de crema de chocolate con leche
 
 [Aquí!!!](https://www.amazon.es/dp/B00TB7PD3W/?tag=tolees-21)
