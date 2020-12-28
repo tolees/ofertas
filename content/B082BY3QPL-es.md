@@ -25,7 +25,7 @@ En este momento está [LEVIS FOOTWEAR AND ACCESORIOS JAX PLUS  zapatillas de hom
 
 🔎:
 
-- Este modelo está confeccionado con piel de nobuk con tacto de ante y luce el emblemático logotipo de nuestra ropa deportiva, directamente llegado de los
 - Estas botas con cordones de cuero clásicas son ideales para que las combines con tus prendas vaqueras
+- Este modelo está confeccionado con piel de nobuk con tacto de ante y luce el emblemático logotipo de nuestra ropa deportiva, directamente llegado de los
 
 [Aquí!!!](https://www.amazon.es/dp/B082BY3QPL/?tag=tolees-21)

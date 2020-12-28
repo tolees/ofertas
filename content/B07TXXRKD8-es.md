@@ -25,10 +25,10 @@ En este momento está [PIKOLINOS Botín de Piel York M2M](https://www.amazon.es/
 
 🔎:
 
-- Composición Exterior: Piel Autentica
-- Disfruta De Los Mejores Zapatos De La Marca: Pikolinos
-- Estación: Invierno
 - Composición Interior: Textil
+- Composición Exterior: Piel Autentica
+- Estación: Invierno
+- Disfruta De Los Mejores Zapatos De La Marca: Pikolinos
 - Si no sabes cuál es tu talla, te recomendamos: Selecciona tu talla habitual
 
 [Aquí!!!](https://www.amazon.es/dp/B07TXXRKD8/?tag=tolees-21)
