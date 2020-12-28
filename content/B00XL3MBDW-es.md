@@ -27,8 +27,8 @@ En este momento está [El Gobernador Pisco  70 cl - 700 ml](https://www.amazon.e
 
 - Graduación: 40% vol.
 - Ideal para tomar mezclado con refresco de cola o tónica. También en cóctel como Pisco Sour. .
-- Incoloro. Floral, con notas de rosas, jazmín y pieles de cítricos confitadas. Redondo y cremoso con final persistente.
-- Su variedad en aromas y sabores permiten que se pueda disfrutar mucho mejor con mariscos y postres.
 - Origen: Valle Limarí (Chile)
+- Su variedad en aromas y sabores permiten que se pueda disfrutar mucho mejor con mariscos y postres.
+- Incoloro. Floral, con notas de rosas, jazmín y pieles de cítricos confitadas. Redondo y cremoso con final persistente.
 
 [Aquí!!!](https://www.amazon.es/dp/B00XL3MBDW/?tag=tolees-21)

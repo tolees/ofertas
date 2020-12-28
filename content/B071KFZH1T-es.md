@@ -26,7 +26,7 @@ Está [Funko Pop! - Figura de Vinilo LIU Kang  21688 ](https://www.amazon.es/dp/
 ℹ️:
 
 - Cada personaje mide alrededor de 9 cm de altura
-- Viene embalado en una caja con ventanas ilustrada
 - Material 100% vinilo
+- Viene embalado en una caja con ventanas ilustrada
 
 [Ver la oferta!!](https://www.amazon.es/dp/B071KFZH1T/?tag=tolees-21)

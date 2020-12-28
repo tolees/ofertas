@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FM London Hyfresh Slim Fit  Pantalones d al 19.96 % de rebaja'
-date: 2020-12-27 09:19:30
+date: 2020-12-28 09:28:44
 image: 'https://m.media-amazon.com/images/I/314+ZuVM6PL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07P1D4RBD/?tag=tolees-21'
 descuento: '19.96'
-average: '12.456666666666667'
+average: '12.39'
 ---
 
 Tienes [FM London Hyfresh Slim Fit  Pantalones deportivos Hombre  Gris  Grey 15   Large](https://www.amazon.es/dp/B07P1D4RBD/?tag=tolees-21) con precio final de  11.99 EUR (original: 14.98 EUR) (19.96 %  de rebaja) aqui!

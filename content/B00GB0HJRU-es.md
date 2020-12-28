@@ -25,10 +25,10 @@ Tienes [Rimmel London Moisture Renew Barra De Labios Tono 220 Heather Shimmer - 
 
 ℹ️:
 
-- Testado dermatológica con SPF 20
 - Barra de labios enriquecida con vitaminas A,C y E que consiguen que tus labios esten totalmente hidratados
-- Labio hidratado y brillante
 - Fórmula con pigmentos que bridan un color birllante, fresco e intenso
 - Color intenso hasta 8 horas
+- Labio hidratado y brillante
+- Testado dermatológica con SPF 20
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00GB0HJRU/?tag=tolees-21)

@@ -25,10 +25,10 @@ Ahora mismo tienes [Resident Evil 7 Biohazard  PSVR Compatible ](https://www.ama
 
 🔎:
 
-- La vista en primera persona trae el terror aterrador directamente de cerca y personal
-- Inmersivo, horror visceral
 - La próxima entrada importante en la renombrada serie resident evil hace un nuevo cambio dramático
 - La compatibilidad con psvr aumenta aún más la experiencia de enfriamiento y fotorrealista
 - Exploración, rompecabezas y una actualización completa de los sistemas de juego
+- La vista en primera persona trae el terror aterrador directamente de cerca y personal
+- Inmersivo, horror visceral
 
 [Visítala!!!](https://www.amazon.es/dp/B07TQNC5L2/?tag=tolees-21)

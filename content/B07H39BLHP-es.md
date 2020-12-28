@@ -25,14 +25,14 @@ Tienes [Panasonic ER-GN300K503 Cortapelos Nariz Hombre Recortador de Vello Facia
 
 🔎:
 
-- Uso flexible: nariz, orejas, cejas, bigote
-- Motor muy potente
-- El producto adecuado para cada estilo, facilitando la limpieza habitual
-- Contenido de la caja: 1x Panasonic Naricero ER-GN300/ Cepillo de limpieza/ Protección para el cabezal/ Manual
-- Cono de seguridad exterior para minimizar la irritación de la piel
-- Lavable
-- El naricero ER-GN300 recorta con una suavidad especial gracias al nuevo y potente motor que se arranca los pelos de la nariz sin dolor. Gracias a la función de aspiración los pelos recortados no queda en la nariz. Se puede quitar los pelos cortados sin la necesidad de desmontar el aparato, por lo que la limpieza después del recorte no podría ser más fácil
 - Fácil limpieza gracias a la función de aspiración y lavado con agua
+- Lavable
+- Uso flexible: nariz, orejas, cejas, bigote
 - Operación inalámbrica con pilas
+- Motor muy potente
+- El naricero ER-GN300 recorta con una suavidad especial gracias al nuevo y potente motor que se arranca los pelos de la nariz sin dolor. Gracias a la función de aspiración los pelos recortados no queda en la nariz. Se puede quitar los pelos cortados sin la necesidad de desmontar el aparato, por lo que la limpieza después del recorte no podría ser más fácil
+- Cono de seguridad exterior para minimizar la irritación de la piel
+- Contenido de la caja: 1x Panasonic Naricero ER-GN300/ Cepillo de limpieza/ Protección para el cabezal/ Manual
+- El producto adecuado para cada estilo, facilitando la limpieza habitual
 
 [Comprar!!!](https://www.amazon.es/dp/B07H39BLHP/?tag=tolees-21)

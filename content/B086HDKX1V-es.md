@@ -25,8 +25,8 @@ Está [Star Wars: The Mandalorian RK39061C  llavero de goma  Baby Yoda   unisex 
 
 ℹ️:
 
-- Artículo fabricado con licencia oficial.
 - Ideal como regalo.
 - Material: goma.
+- Artículo fabricado con licencia oficial.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B086HDKX1V/?tag=tolees-21)

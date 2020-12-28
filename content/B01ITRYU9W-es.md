@@ -25,10 +25,10 @@ Tienes [Nocilla Original - 3kg](https://www.amazon.es/dp/B01ITRYU9W/?tag=tolees-
 
 🔎:
 
-- Envase enlatado de 3kg. Receta sin aceite de palma y sin gluten.
-- Alérgenos: Este producto contiene leche, avellanas y soja y puede contener frutos de cáscara. Mantener fuera del frigorífico, en lugar fresco y seco.
 - Formato de 3kg enlatado dando un rendimiento de 100 sándwiches aproximadamente. Ideal para hacer Crepes, gofres, pasteles, helados…
+- Envase enlatado de 3kg. Receta sin aceite de palma y sin gluten.
 - Dulce y sabrosa perfecta para adultos y para niños, para desayuno, merienda o tentempié. Perfecto para recetas de repostería.
+- Alérgenos: Este producto contiene leche, avellanas y soja y puede contener frutos de cáscara. Mantener fuera del frigorífico, en lugar fresco y seco.
 - Nocillear es convertir un alimento rico en algo aún más delicioso, añadiendo Nocilla para crear un momento de felicidad de la buena y sin aceite de palma.
 
 [Comprar!!!](https://www.amazon.es/dp/B01ITRYU9W/?tag=tolees-21)

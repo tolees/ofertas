@@ -26,8 +26,8 @@ Tienes [Dungeon of the Endless - Signature Edition](https://www.amazon.es/dp/B08
 ℹ️:
 
 - Recolecta recursos usa el polvo que recoges para alimentar las salas y utiliza los escasos recursos que encuentres para ayudar a tu equipo a sobrevivir; levanta tus defensas y construye módulos menores y principales para rechazar a las oleadas de monstruos; descifra las ruinas de los infinitos para descubrir tecnologías que podrían salvarte la vida
-- Abre la puerta cada puerta supone un peligro prepara a tu equipo para cualquier cosa; transporta tu cristal entre oleadas de monstruos hasta la salida de cada nivel; explora y descubre una infinidad de niveles y salas y abre el paso hasta la superficie para descubrir la verdad sobre auriga
 - Reúne un equipo forma un equipo de héroes, cada uno con sus propios puntos fuertes (y sus psicosis); equípalos, despliégalos y consigue poderosas habilidades; gestiona el equilibrio entre antiguos prisioneros y guardias
+- Abre la puerta cada puerta supone un peligro prepara a tu equipo para cualquier cosa; transporta tu cristal entre oleadas de monstruos hasta la salida de cada nivel; explora y descubre una infinidad de niveles y salas y abre el paso hasta la superficie para descubrir la verdad sobre auriga
 - La signature edition incluye caja de coleccionista, juego + 4 dlcs, 2 pins edición limitada, libro de arte de 60 páginas, llavero y certificado de autenticidad numerado
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B085YSKDHL/?tag=tolees-21)

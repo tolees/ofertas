@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Flower 40512 40512-Conservante Flor Cort al 44.34 % de descuento'
-date: 2020-12-26 08:28:29
+date: 2020-12-28 09:37:21
 image: 'https://m.media-amazon.com/images/I/41ipriszktL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Ahora mismo tienes [Flower 40512 40512-Conservante Flor Cortada liquido  250 ml 
 
 🔎:
 
+- 250ml
 - Conservante para ramos y flores cortadas
 - Prolonga el frescor de las flores
-- 250ml
 
 [Visítala!!!](https://www.amazon.es/dp/B01EAGP2PW/?tag=tolees-21)

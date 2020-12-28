@@ -25,10 +25,10 @@ En este momento está [Mobicool MV30 - Nevera portátil termoeléctrica portáti
 
 🔎:
 
-- Enfría hasta 18 °C por debajo de la temperatura ambiente.
 - Nevera eléctrica para coche de 12 V CC y enchufe de 230 V CA.
 - Refrigeración rápida mediante doble ventilador.
-- 29 litros de capacidad, espacio para seis botellas verticales de 1,5 l.
+- Enfría hasta 18 °C por debajo de la temperatura ambiente.
 - Asa de transporte como bloqueo o soporte de tapa.
+- 29 litros de capacidad, espacio para seis botellas verticales de 1,5 l.
 
 [Aquí!!!](https://www.amazon.es/dp/B07ZTQB8MQ/?tag=tolees-21)
