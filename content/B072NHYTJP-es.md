@@ -25,10 +25,10 @@ Ahora mismo tienes [Vans Ward Canvas  Zapatillas para Hombre Negro  Canvas/Black
 
 🔎:
 
-- Tipo de tacón: Plano
 - Cierre: Cordones
-- Revestimiento: Tela
 - Material exterior: Cuero
+- Revestimiento: Tela
+- Tipo de tacón: Plano
 - Material de la suela: Goma
 
 [Visítala!!!](https://www.amazon.es/dp/B072NHYTJP/?tag=tolees-21)

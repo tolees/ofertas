@@ -25,8 +25,8 @@ Tienes [Panini SA- Caja 50 Sobres Staks Dragon Ball Super  004044BOX50E ](https:
 
 🔎:
 
-- Diseño funcional
 - Plástico
+- Diseño funcional
 - De la marca Panini SA
 - Alta calidad
 

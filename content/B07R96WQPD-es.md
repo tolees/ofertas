@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Cecotec HidroBoost 1400 EasyMove Hidroli al 17.21 % de descuento'
-date: 2020-12-24 15:24:34
+title: 'Cecotec hidrolimpiadora HidroBoost 1400  al 17.21 % de descuento'
+date: 2020-12-29 20:41:07
 image: 'https://m.media-amazon.com/images/I/41+GIY3fZSL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -11,24 +11,24 @@ actualPrice: 52.9 EUR
 currency: EUR
 price: 52.9
 comparePrice: 63.9 EUR
-prodname: 'Cecotec HidroBoost 1400 EasyMove Hidrolimpiadora Compacta  potente y portátil  Ruedas y asa alta  1400 W  Caudal 408 l/h  Bomba aluminio  105 bares  Radio de acción +11m  Boquilla turbo ajustable'
+prodname: 'Cecotec hidrolimpiadora HidroBoost 1400 EasyMove. Compacta  potente y portátil. Ruedas y asa alta. Máx potencia 1400 W. Caudal máx 408 l/h. 105 bares máx. Boquilla turbo y boquilla ajustable.'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07R96WQPD/?tag=tolees-21'
 descuento: '17.21'
-average: '54.75121212121212'
+average: '54.64542857142857'
 ---
 
-Está [Cecotec HidroBoost 1400 EasyMove Hidrolimpiadora Compacta  potente y portátil  Ruedas y asa alta  1400 W  Caudal 408 l/h  Bomba aluminio  105 bares  Radio de acción +11m  Boquilla turbo ajustable](https://www.amazon.es/dp/B07R96WQPD/?tag=tolees-21) con 17.21 de descuento por 52.9 EUR (original: 63.9 EUR) en el siguiente enlace!
+Está [Cecotec hidrolimpiadora HidroBoost 1400 EasyMove. Compacta  potente y portátil. Ruedas y asa alta. Máx potencia 1400 W. Caudal máx 408 l/h. 105 bares máx. Boquilla turbo y boquilla ajustable.](https://www.amazon.es/dp/B07R96WQPD/?tag=tolees-21) con 17.21 de descuento por 52.9 EUR (original: 63.9 EUR) en el siguiente enlace!
 
-[![Cecotec HidroBoost 1400 EasyMove Hidroli](https://m.media-amazon.com/images/I/41+GIY3fZSL._SL200_.jpg)](https://www.amazon.es/dp/B07R96WQPD/?tag=tolees-21)
+[![Cecotec hidrolimpiadora HidroBoost 1400 ](https://m.media-amazon.com/images/I/41+GIY3fZSL._SL200_.jpg)](https://www.amazon.es/dp/B07R96WQPD/?tag=tolees-21)
 
 ℹ️:
 
-- Amplio enrollacables lateral para recoger el cable de manera ordenada. Manguera de alta presión de 5 metros de longitud para ofrecer amplia libertad de movimiento. Ruedas y asa alta para mejorar el transporte y la movilidad durante el uso.
-- Gran potencia de 1400 W para eliminar la suciedad más difícil de manera rápida y eficiente. Máximo caudal de 408 litros/hora que permite limpiar una mayor superficie en menor tiempo. Bomba HardPump de aluminio para mayor fiabilidad que permite tiempos de uso prolongados.
-- Radio de acción superior a 11 metros para un uso cómodo y total libertad de movimiento. Máxima presión de 105 bares que genera un disparo de agua potente. Boquilla turbo y boquilla pulverizadora con salida de agua adaptable que regula la intensidad.
-- Gracias a la lanza, que se conecta a la pistola, permite limpiar superficies menos accesibles o a mayor altura. Se puede utilizar con agua a una elevada temperatura de hasta 50 ºC. Kit de limpieza para evitar posibles obstrucciones indeseadas y mantenerla siempre limpia.
-- Conexión rápida y fácil de la manguera de alta presión y de la lanza a la pistola mediante sistema iClick. Pistola ergonómica para limpiar de manera cómoda y segura gracias a su sistema de bloqueo de gatillo BS-Block. Gatillo con sistema Auto Start-Stop para conseguir mayor seguridad y control.
+- Usa tranquilamente la hidrolimpiadora durante periodos de limpieza intensivos tranquilamente gracias a su bomba de aluminio que ofrece mayor fiabilidad, y permite tiempos de uso superiores, que las bombas comunes gracias a una menor fatiga.
+- Gracias a su máximo caudal de 408 litros/hora permite limpiar una mayor superficie en menos tiempo. Limpiarás rápida y eficazmente cualquier superficie sin darte cuenta.
+- Puedes limpiar desplazándote cómodamente gracias a su gran radio de acción de hasta 11 metros. Así, podrás centrarte en el placer de ver cómo desaparece la suciedad sin tener que preocuparte en trasladar la hidrolimpiadora constantemente. Además, permite un fácil desplazamiento gracias a sus ruedas y el asa alta.
+- La HidroBoost 1400 EasyMove permite eliminar la suciedad más difícil gracias a su potente presión máxima que genera hasta 105 bar. Paredes de piedra, suelos cerámicos (de exterior), mobiliario de jardín, herramientas de campo… ¡adiós suciedad, hola limpieza!
+- Incorpora una boquilla pulverizadora que puede variar la presión de la salida de agua gracias a su regulación girando únicamente la punta. Elige entre un chorro en modo concentrado, para suciedad puntual muy adherida, o en modo spray para abarcar superficies amplias sin riesgo a dañarlas.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07R96WQPD/?tag=tolees-21)

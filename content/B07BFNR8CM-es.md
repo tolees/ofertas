@@ -25,8 +25,8 @@ En este momento está [los Barriguitas- Coche   Famosa 700014220 ](https://www.a
 
 🔎:
 
-- El coche mide 22 cm x 14 cm x 12 cm
 - Barriguitas cuenta con todo un mundo de juego; con casas; hospitales; tiendas; coches y mucho más
+- El coche mide 22 cm x 14 cm x 12 cm
 - Incluye una figura de Barriguitas de 12 cm
 - Ideal para niños de entre 4 a 8 años
 - Divertido coche descapotable de Barriguitas

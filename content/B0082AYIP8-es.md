@@ -25,10 +25,10 @@ En este momento está [Panama Jack Felia B8 - Botas Antideslizantes de cuero muj
 
 🔎:
 
-- Altura del tacón: 3,00 cm.
-- Fabricado en España.
-- Resistente al agua.
 - Material principal: napa, material del forro: piel sintética de oveja. Material de la suela: goma natural. Interior: sí.
 - Panama Jack - Botas de motorista para mujer (piel)
+- Resistente al agua.
+- Fabricado en España.
+- Altura del tacón: 3,00 cm.
 
 [Aquí!!!](https://www.amazon.es/dp/B0082AYIP8/?tag=tolees-21)

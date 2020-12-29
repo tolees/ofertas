@@ -1,28 +1,32 @@
 ---
 layout: post
-title: 'Eastpak Oval Single Estuche  22 Cm  Gris al 25.06 % de descuento'
-date: 2020-12-05 05:58:06
+title: 'Eastpak Oval Single Estuche  22 Cm  Gris con un 22.28 % de descuento'
+date: 2020-12-29 20:43:18
 image: 'https://m.media-amazon.com/images/I/41UJ9o9pX0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B00NWIYDR8-es'
-actualPrice: 13.49 EUR
+actualPrice: 13.99 EUR
 currency: EUR
-price: 13.49
+price: 13.99
 comparePrice: 18.0 EUR
 prodname: 'Eastpak Oval Single Estuche  22 Cm  Gris  Black Denim '
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00NWIYDR8/?tag=tolees-21'
-descuento: '25.06'
+descuento: '22.28'
+average: '13.39'
 ---
 
-Ahora mismo tienes [Eastpak Oval Single Estuche  22 Cm  Gris  Black Denim ](https://www.amazon.es/dp/B00NWIYDR8/?tag=tolees-21) a 13.49 EUR (original: 18.0 EUR) (25.06 %  de descuento) en el siguiente enlace!
+En este momento está [Eastpak Oval Single Estuche  22 Cm  Gris  Black Denim ](https://www.amazon.es/dp/B00NWIYDR8/?tag=tolees-21) a 13.99 EUR (original: 18.0 EUR) (22.28 %  de descuento) en el siguiente enlace!
 
 [![Eastpak Oval Single Estuche  22 Cm  Gris](https://m.media-amazon.com/images/I/41UJ9o9pX0L._SL200_.jpg)](https://www.amazon.es/dp/B00NWIYDR8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Altura: 5 cm, Ancho: 22 cm, Fondo: 9 cm
+- Fabricado con 60 % nylon y 40 % poliéster
+- Compartimento único para tener todo a mano
 
-[Visítala!!!](https://www.amazon.es/dp/B00NWIYDR8/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B00NWIYDR8/?tag=tolees-21)

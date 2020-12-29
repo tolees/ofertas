@@ -25,9 +25,9 @@ Ahora mismo tienes [Kodak Pixpro AZ422 Roja](https://www.amazon.es/dp/B01IJZURS2
 
 🔎:
 
+- Total de megapíxeles 20 MP
+- Zoom óptico 42 x
 - Resolución de pantalla numérica de 460000 píxeles
 - Voltaje de la batería de 3.7 V
-- Zoom óptico 42 x
-- Total de megapíxeles 20 MP
 
 [Visítala!!!](https://www.amazon.es/dp/B01IJZURS2/?tag=tolees-21)

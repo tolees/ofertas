@@ -25,15 +25,15 @@ Está [Fonestar RDS-584WHD - Receptor Satélite HD  WiFi  USB 2.0  Ethernet  12 
 
 ℹ️:
 
-- Formatos de salida HD: 1080p, 1080i, 720p, 576p y 480p
-- Puerto USB 2.0, pantalla 4:3 y 16:9
-- Mando a distancia, menú multilenguaje, búsqueda automática y manual
-- Actualización de software mediante USB, guía electrónica de programas (EPG)
-- Videograbador personal (PVR con función time shift)
-- Lector de tarjetas smart card de acceso condicional (CA)
 - Tecnologías de conectividad: Wi-Fi y Ethernet
-- DiSeqC 1.0/1.1/1.2/1.3 (USALS)
-- Soporte DVB-S2/MPEG-4/MPEG-2
+- Lector de tarjetas smart card de acceso condicional (CA)
+- Videograbador personal (PVR con función time shift)
 - Reproductor multimedia
+- Puerto USB 2.0, pantalla 4:3 y 16:9
+- Soporte DVB-S2/MPEG-4/MPEG-2
+- Actualización de software mediante USB, guía electrónica de programas (EPG)
+- Formatos de salida HD: 1080p, 1080i, 720p, 576p y 480p
+- Mando a distancia, menú multilenguaje, búsqueda automática y manual
+- DiSeqC 1.0/1.1/1.2/1.3 (USALS)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01BLVMMGG/?tag=tolees-21)
