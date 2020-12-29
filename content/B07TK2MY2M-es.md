@@ -25,10 +25,10 @@ Ahora mismo tienes [CARTA RAL](https://www.amazon.es/dp/B07TK2MY2M/?tag=tolees-2
 
 🔎:
 
-- Paleta de colores profesional
-- Sector industrial y decoración
-- Contiene 192 colores
 - Esmaltes, plásticas, artes gráficas, etc.
+- Sector industrial y decoración
 - Análisis rápido del color
+- Contiene 192 colores
+- Paleta de colores profesional
 
 [Visítala!!!](https://www.amazon.es/dp/B07TK2MY2M/?tag=tolees-21)

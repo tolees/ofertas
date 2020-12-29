@@ -25,10 +25,10 @@ Está [KitchenCraft Master Class - Escurreplatos Horizontal Grande de Acero Inox
 
 ℹ️:
 
-- Cuenta con la garantía de 5 años de MasterClass
 - Un utensilio esencial para fregar tu vajilla: Este escurridor alta calidad, práctico y resistente al deslustre proporciona años de uso sin oxidarse. Es perfecto para secar tu vajilla y tus cubiertos
-- Está hecho de acero inoxidable resistente al deslustre y fácil de limpiar, y viene con un escurridor de cubiertos extraíble y un estante para tazas integrado
 - Es un escurridor de platos de tamaño generoso. Es una forma rápida e higiénica de secar vajilla, cubertería y utensilios. Cuenta con una bandeja de goteo y un ingenioso caño giratorio para drenar
+- Cuenta con la garantía de 5 años de MasterClass
 - Hace que lavar tu vajilla sea una tarea fácil y ordenada: La rejilla para platos integral ofrece mucho espacio para los platos de la cena, con espacio adicional para tazas, vasos y cuencos
+- Está hecho de acero inoxidable resistente al deslustre y fácil de limpiar, y viene con un escurridor de cubiertos extraíble y un estante para tazas integrado
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01ARVPGPU/?tag=tolees-21)

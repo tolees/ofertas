@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pack Friends Temporada 1-10 Colección Co al 19.78 % de rebaja'
-date: 2020-12-28 15:16:57
+date: 2020-12-29 15:50:49
 image: 'https://m.media-amazon.com/images/I/51khmO1B4UL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00FF9GVNG/?tag=tolees-21'
 descuento: '19.78'
-average: '68.72272727272728'
+average: '69.57333333333334'
 ---
 
 Tienes [Pack Friends Temporada 1-10 Colección Completa Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B00FF9GVNG/?tag=tolees-21) con precio final de  78.93 EUR (original: 98.39 EUR) (19.78 %  de rebaja) aqui!

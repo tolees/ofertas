@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 17.04 % en Sony PlayStation - Consola Classic + 2 m'
-date: 2020-12-28 15:21:24
+date: 2020-12-29 15:52:26
 image: 'https://m.media-amazon.com/images/I/41O+k0K+akL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HHJQ1D5/?tag=tolees-21'
 descuento: '17.04'
-average: '78.20579166666674'
+average: '78.24500000000006'
 ---
 
 Tienes [Sony PlayStation - Consola Classic + 2 mandos](https://www.amazon.es/dp/B07HHJQ1D5/?tag=tolees-21) con un 17.04 % de descuento con precio de oferta de 82.95 EUR (original: 99.99 EUR) en el siguiente enlace!
