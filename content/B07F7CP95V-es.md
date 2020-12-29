@@ -25,8 +25,8 @@ Tienes [Saucony Jazz Original Vintage  Zapatillas para Hombre  Marrón  Brown/Bl
 
 ℹ️:
 
-- Parte superior de nailon y gamuza para un uso prolongado.
 - Con cordones en la parte delantera con cuello acolchado y lengua.
+- Parte superior de nailon y gamuza para un uso prolongado.
 - Entresuela EVA a rayas que absorbe los golpes.
 - La cama proporciona absorción de impactos, ajuste y comodidad extra.
 - Suela de tracción de goma duradera.
