@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Robot Aspirador y Fregasuelos Co al 41.77 % de descuento'
-date: 2020-12-27 17:01:53
+date: 2020-12-29 08:21:43
 image: 'https://m.media-amazon.com/images/I/41JxaAjceVL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RSWL6DZ/?tag=tolees-21'
 descuento: '41.77'
-average: '153.99627118644062'
+average: '153.7013114754098'
 ---
 
 Está [Cecotec Robot Aspirador y Fregasuelos Conga Serie 1090 Connected. 1400 Pa  Compatible con Alexa y Google Home  Aspira  Barre  Friega y Pasa la Mopa  Cepillo Especial Mascotas  Muro Magnético](https://www.amazon.es/dp/B07RSWL6DZ/?tag=tolees-21) con 41.77 de descuento por 145.0 EUR (original: 249.0 EUR) en el siguiente enlace!

@@ -25,8 +25,8 @@ Tienes [PUMA R78  Zapatillas Unisex Adulto  Rosa  Bubblegum-High Rise White   36
 
 ℹ️:
 
-- Descripción del producto: los nuevos coches de los ShakeGo película Cars 2. Simplemente agitar el coche y empieza a rodar y se reproducen los sonidos de la película. Cada coche está equipado con sonidos ligeros y divertidos! El coche puede viajar hasta 6 metros! Esta caja contiene el carácter Corvette.
 - Edad mínima: 3 años
+- Descripción del producto: los nuevos coches de los ShakeGo película Cars 2. Simplemente agitar el coche y empieza a rodar y se reproducen los sonidos de la película. Cada coche está equipado con sonidos ligeros y divertidos! El coche puede viajar hasta 6 metros! Esta caja contiene el carácter Corvette.
 - Necesita pilas: ninguno
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07S6NW5MD/?tag=tolees-21)
