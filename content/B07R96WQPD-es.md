@@ -25,10 +25,10 @@ Está [Cecotec hidrolimpiadora HidroBoost 1400 EasyMove. Compacta  potente y por
 
 ℹ️:
 
-- Usa tranquilamente la hidrolimpiadora durante periodos de limpieza intensivos tranquilamente gracias a su bomba de aluminio que ofrece mayor fiabilidad, y permite tiempos de uso superiores, que las bombas comunes gracias a una menor fatiga.
-- Gracias a su máximo caudal de 408 litros/hora permite limpiar una mayor superficie en menos tiempo. Limpiarás rápida y eficazmente cualquier superficie sin darte cuenta.
 - Puedes limpiar desplazándote cómodamente gracias a su gran radio de acción de hasta 11 metros. Así, podrás centrarte en el placer de ver cómo desaparece la suciedad sin tener que preocuparte en trasladar la hidrolimpiadora constantemente. Además, permite un fácil desplazamiento gracias a sus ruedas y el asa alta.
+- Usa tranquilamente la hidrolimpiadora durante periodos de limpieza intensivos tranquilamente gracias a su bomba de aluminio que ofrece mayor fiabilidad, y permite tiempos de uso superiores, que las bombas comunes gracias a una menor fatiga.
 - La HidroBoost 1400 EasyMove permite eliminar la suciedad más difícil gracias a su potente presión máxima que genera hasta 105 bar. Paredes de piedra, suelos cerámicos (de exterior), mobiliario de jardín, herramientas de campo… ¡adiós suciedad, hola limpieza!
+- Gracias a su máximo caudal de 408 litros/hora permite limpiar una mayor superficie en menos tiempo. Limpiarás rápida y eficazmente cualquier superficie sin darte cuenta.
 - Incorpora una boquilla pulverizadora que puede variar la presión de la salida de agua gracias a su regulación girando únicamente la punta. Elige entre un chorro en modo concentrado, para suciedad puntual muy adherida, o en modo spray para abarcar superficies amplias sin riesgo a dañarlas.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07R96WQPD/?tag=tolees-21)

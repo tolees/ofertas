@@ -25,8 +25,8 @@ Está [POP! Bobble - Daredevil: Wilson Fisk](https://www.amazon.es/dp/B017NUFG76
 
 ℹ️:
 
-- Material 100% vinilo
-- Viene embalado en una caja con ventanas ilustrada
 - Cada personaje mide alrededor de 9 cm de altura
+- Viene embalado en una caja con ventanas ilustrada
+- Material 100% vinilo
 
 [Ver la oferta!!](https://www.amazon.es/dp/B017NUFG76/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony NWWS413 Walkman - Reproductor MP3 D al 22.74 % de rebaja'
-date: 2020-12-28 21:18:50
+date: 2020-12-29 21:42:27
 image: 'https://m.media-amazon.com/images/I/41kWubq1-qL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BBWU834/?tag=tolees-21'
 descuento: '22.74'
-average: '81.13490196078433'
+average: '81.28037735849058'
 ---
 
 Tienes [Sony NWWS413 Walkman - Reproductor MP3 Deportivo  4 GB  Resistente al Agua Salada y Altas temperaturas   Color Negro](https://www.amazon.es/dp/B01BBWU834/?tag=tolees-21) con precio final de  84.99 EUR (original: 110.0 EUR) (22.74 %  de rebaja) aqui!
@@ -25,12 +25,12 @@ Tienes [Sony NWWS413 Walkman - Reproductor MP3 Deportivo  4 GB  Resistente al Ag
 
 🔎:
 
-- Conectividad: Conexión USB: USB de alta velocidad (compatible con USB 2.0)
-- Carga rápida, 12 horas de batería
+- Capacidad 4 GB
 - Funciona a temperaturas de entre -5°C y 45°C
 - Resistente al agua (agua salada) hasta 2 m de profundidad
+- Conectividad: Conexión USB: USB de alta velocidad (compatible con USB 2.0)
 - Requisitos de sistema: Mac OS X (10.6 o posterior), Microsoft Windows 8, Windows Vista (SP2 o posterior), Windows 7 (SP1 o posterior), Windows XP (SP3 o posterior)
 - Diseño todo en uno para entrenamientos sin cables
-- Capacidad 4 GB
+- Carga rápida, 12 horas de batería
 
 [Comprar!!!](https://www.amazon.es/dp/B01BBWU834/?tag=tolees-21)

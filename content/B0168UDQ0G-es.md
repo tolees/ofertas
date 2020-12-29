@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.22 % en El Hobbit 3: La Batalla De Los Cinco Eje'
-date: 2020-12-28 21:26:14
+date: 2020-12-29 21:56:30
 image: 'https://m.media-amazon.com/images/I/61PyX8HH77L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0168UDQ0G/?tag=tolees-21'
 descuento: '32.22'
-average: '13.742222222222221'
+average: '13.622499999999999'
 ---
 
 Tienes [El Hobbit 3: La Batalla De Los Cinco Ejercitos Edición Extendida Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B0168UDQ0G/?tag=tolees-21) con un 32.22 % de descuento con precio de oferta de 10.39 EUR (original: 15.33 EUR) en el siguiente enlace!

@@ -27,8 +27,8 @@ Tienes [Corsair Vengeance RGB Pro  Módulo de Memoria  1  Vengeance RGB Pro](htt
 
 - Placa impresa personalizada para el máximo rendimiento: proporciona la mejor calidad de señal para conseguir el máximo nivel de rendimiento y estabilidad
 - Ancho de banda máximo y tiempo de respuesta ajustado: optimizado para proporcionar el rendimiento más exigente de las placas base Intel y AMD DDR4 más recientes
-- Iluminación RGB dinámica multizona: 10 LED RGB ultra brillantes programables individualmente en cada módulo
 - Tome el control del software Corsair iCUE y sincronice la iluminación con otros productos Corsair RGB, como sistemas de refrigeración de CPU, teclados y ventiladores; Vengeance RGB PRO es compatible con Gigabyte RGB Fusion y MSI Mystic Light
 - RAM rigurosamente seleccionada: circuitos impresos cuidadosamente seleccionados para un mayor potencial de overclocking
+- Iluminación RGB dinámica multizona: 10 LED RGB ultra brillantes programables individualmente en cada módulo
 
 [Comprar!!!](https://www.amazon.es/dp/B07D1XJ8J9/?tag=tolees-21)

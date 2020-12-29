@@ -25,11 +25,11 @@ Tienes [Metronic 477170 Radio y Reproductor de CD portátil con Toma USB/SD  Rad
 
 ℹ️:
 
-- Discreto: puedes conectar unos auriculares en la salida jack 3.5mm
 - Práctico: las tomas usb / sd / mmc permiten reproducir archivos mp3
-- Conéctalo: la entrada line in permite conectarlo a otros dispositivos
 - Muévelo: además de su alimentación eléctrica (230v-50hz), puede funcionar con 6 pilas (no incluidas) 1,5v tipo c/lr14
-- Funcional: este radio cd portátil estéreo con una potencía de 3w ofrece la posibilidad de reproducir cd, cd-r, cd-rw
+- Conéctalo: la entrada line in permite conectarlo a otros dispositivos
+- Discreto: puedes conectar unos auriculares en la salida jack 3.5mm
 - Sintonizado: busca tus emisoras favoritas con la rueda lateral para sintonizar emisoras fm
+- Funcional: este radio cd portátil estéreo con una potencía de 3w ofrece la posibilidad de reproducir cd, cd-r, cd-rw
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MVRLC5T/?tag=tolees-21)
