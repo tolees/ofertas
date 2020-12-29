@@ -25,10 +25,10 @@ Tienes [Kepae Juegos de Construcción Kit de Iluminación LED para Lego Speed Ch
 
 ℹ️:
 
-- Puedes iluminar tu Lego Speed Champions - 1985 Audi Sport quattro S1,y darle vida.
 - Alimentado por USB o caja de batería 3 AAA (las baterías no están incluidas)
+- Puedes iluminar tu Lego Speed Champions - 1985 Audi Sport quattro S1,y darle vida.
 - Contenido del paquete: 1Set x Kit de iluminación
-- Todos los LEDs tienen un patrón de iluminación uniforme y los conectores de cables encajan perfectamente entre ellos.
 - El regalo perfecto para niños y amigos. Impulsa tu creatividad y diviértete.
+- Todos los LEDs tienen un patrón de iluminación uniforme y los conectores de cables encajan perfectamente entre ellos.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08BFLQ5LP/?tag=tolees-21)

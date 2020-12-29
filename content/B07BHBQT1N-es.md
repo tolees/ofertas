@@ -25,9 +25,9 @@ Está [Kipling Firefly Up  Mochilas para Mujer  Beige  True Beige   22x31x14 cm]
 
 ℹ️:
 
-- Cierre: Cremallera
-- Revestimiento: Sintético
 - Composición: Sintético
 - Material exterior: Sintético
+- Cierre: Cremallera
+- Revestimiento: Sintético
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07BHBQT1N/?tag=tolees-21)
