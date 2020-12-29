@@ -26,9 +26,9 @@ Tienes [Elgato Thunderbolt 3 Mini - Dock con cable Thunderbolt integrado  40 Gb/
 🔎:
 
 - HDMI and DisplayPort: drive dual displays up to 4K resolution at 60 Hz each
-- Built-in Thunderbolt 3 cable: connect everything to your MacBook Pro or Windows notebook at once
-- Gigabit Ethernet: capitalize on increased network performance
 - Thunderbolt 3: enjoy 40 Gb/s throughput for maximum performance across all ports
+- Gigabit Ethernet: capitalize on increased network performance
+- Built-in Thunderbolt 3 cable: connect everything to your MacBook Pro or Windows notebook at once
 - USB 3.1 Gen 1: benefit from high-performance support for SSDs, SuperDrive and more
 
 [Comprar!!!](https://www.amazon.es/dp/B07GS9XM54/?tag=tolees-21)

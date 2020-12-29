@@ -25,10 +25,10 @@ En este momento está [JBL Flip Essential - altavoz portátil con Bluetooth resi
 
 🔎:
 
-- Items delivered: 1x JBL Flip four portable wireless speaker in black/amplify your party with JBL connect+ (connect more than 100 enabled devices/power adaptor ) and charging cable included
 - JBL pure bass - experience the stereo sound with your all-weather companion/ this wireless speaker features a built-in noise and echo cancelling speakerphone for crystal clear conference calls
 - Share the playlist with wireless bluetooth streaming, connect your device (i.e tablet or smartphone) and enjoy high-quality stereo sound
 - Quality sound, wherever you go - charge four is fully waterproof (IPX7) so live free from worry of rain or spills/Elegant design for pools or the beach - go ahead, dive in
 - Your music, non-stop high-capacity 3000 mAh rechargeable battery lasts up to 12 hours on a single charge keep that party going all day long
+- Items delivered: 1x JBL Flip four portable wireless speaker in black/amplify your party with JBL connect+ (connect more than 100 enabled devices/power adaptor ) and charging cable included
 
 [Aquí!!!](https://www.amazon.es/dp/B07YBQ6M8L/?tag=tolees-21)

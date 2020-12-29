@@ -26,9 +26,9 @@ Tienes [Superga 2790 Acotw Linea Up and Down  Zapatillas Mujer  Azul  933 Navy  
 ℹ️:
 
 - Lona superior
-- Forro de lona
-- Flatform
 - Suela de goma
+- Flatform
+- Forro de lona
 - Marina de guerra
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00HWO9N0K/?tag=tolees-21)

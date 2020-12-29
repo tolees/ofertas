@@ -25,11 +25,11 @@ Ahora mismo tienes [Los Sims 4 - Edición Estándar](https://www.amazon.es/dp/B0
 
 🔎:
 
-- Información acerca de los requisitos mínimos de funcionamiento en la descripción del producto
-- Género: simulación
-- Compatible con Windows XP, Vista, 7, 8, 8.1
-- Clasificación PEGI: más de 12 años
 - Disponible para PC y Mac
 - Incluye sólo el juego
+- Género: simulación
+- Información acerca de los requisitos mínimos de funcionamiento en la descripción del producto
+- Compatible con Windows XP, Vista, 7, 8, 8.1
+- Clasificación PEGI: más de 12 años
 
 [Visítala!!!](https://www.amazon.es/dp/B00F9WGF12/?tag=tolees-21)
