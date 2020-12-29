@@ -25,11 +25,11 @@ Tienes [Somat Todo En 1 Detergente Pastillas para Lavavajillas Máquina - 52 Lav
 
 🔎:
 
-- Pastilla multifuncional: Resultados de limpieza impecables.
 - Con abrillantador: Vasos y vajilla brillantes.
 - Somat Todo en 1 elimina incluso restos más difíciles y ofrece resultados de limpieza impecables.
 - Fácil disolución: Resultados impecables en todos los programas de lavado.
 - Elimina las manchas de té y café.
+- Pastilla multifuncional: Resultados de limpieza impecables.
 - Protección del cristal: Ayuda a protegerlos de la corrosión.
 
 [Comprar!!!](https://www.amazon.es/dp/B00X9VFYBC/?tag=tolees-21)
