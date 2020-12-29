@@ -25,10 +25,10 @@ Tienes [Max Factor Pack uñas  Incluye Topcoat Perfect Stay 2 Step Gel 12 ml  Pe
 
 🔎:
 
-- Perfect Stay 2 Step Gel tono 1
-- Perfect Stay 2 Step Gel tono 303
+- El pack incluye:
 - Perfect Stay 2 Step Gel tono 5
 - TOP COAT Perfect Stay 2 step Gel
-- El pack incluye:
+- Perfect Stay 2 Step Gel tono 1
+- Perfect Stay 2 Step Gel tono 303
 
 [Comprar!!!](https://www.amazon.es/dp/B084LK39HM/?tag=tolees-21)

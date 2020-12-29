@@ -25,10 +25,10 @@ Está [Lékué Colador de Silicona  Verde  23 cm](https://www.amazon.es/dp/B007F
 
 ℹ️:
 
-- Comodidad en el uso: Sus asas deslizantes aseguran un fácil transporte
-- Flexible: podrás verter fácilmente los ingredientes del colador al plato
 - Colapsable: Ahorra espacio gracias al sistema de pliegue compacto
+- Flexible: podrás verter fácilmente los ingredientes del colador al plato
 - Gran tamaño y capacidad: Cuela, escurre y enjuaga gran cantidad de alimentos
 - Fabricado de silicona platino 100 %
+- Comodidad en el uso: Sus asas deslizantes aseguran un fácil transporte
 
 [Ver la oferta!!](https://www.amazon.es/dp/B007F6ETCM/?tag=tolees-21)

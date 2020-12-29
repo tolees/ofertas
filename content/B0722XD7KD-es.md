@@ -25,8 +25,8 @@ Ahora mismo tienes [Paladone paladonegifpal319 Abysse Disney La Bella y la Best
 
 🔎:
 
-- Lámina de oro Detalles
-- La belleza y la bestia
 - Con forma de taza de carácter
+- La belleza y la bestia
+- Lámina de oro Detalles
 
 [Visítala!!!](https://www.amazon.es/dp/B0722XD7KD/?tag=tolees-21)

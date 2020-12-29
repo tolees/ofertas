@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Yoshi s Crafted World al 24.33 % de descuento'
-date: 2020-12-22 23:13:34
+date: 2020-12-29 17:28:34
 image: 'https://m.media-amazon.com/images/I/51dYb8T6NcL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071GQSDQZ/?tag=tolees-21'
 descuento: '24.33'
-average: '45.677499999999995'
+average: '45.85214285714285'
 ---
 
 Está [Yoshi s Crafted World](https://www.amazon.es/dp/B071GQSDQZ/?tag=tolees-21) con 24.33 de descuento por 46.9 EUR (original: 61.98 EUR) en el siguiente enlace!
@@ -25,11 +25,11 @@ Está [Yoshi s Crafted World](https://www.amazon.es/dp/B071GQSDQZ/?tag=tolees-21
 
 ℹ️:
 
-- Explora un mundo con aspecto de diorama hecho de cajas de cartón y vasos de papel
 - Partidas cooperativas de dos jugadores solo con pasarle el mando Joy-Con!
+- Explora un mundo con aspecto de diorama hecho de cajas de cartón y vasos de papel
+- Una nueva aventura en Nintendo Switch
 - sigue la línea del creado para Yoshi´s Woolly World (con lanas) o Kirby Epic Yarn (con tejidos) creando un mundo muy impactante y original
 - Docenas de escenarios
-- Una nueva aventura en Nintendo Switch
 - Compatible con todos los amiibo
 
 [Ver la oferta!!](https://www.amazon.es/dp/B071GQSDQZ/?tag=tolees-21)
