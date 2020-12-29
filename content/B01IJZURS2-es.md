@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 28.65 % en Kodak Pixpro AZ422 Roja'
-date: 2020-11-06 19:23:41
+title: 'Kodak Pixpro AZ422 Roja al 28.65 % de descuento'
+date: 2020-12-29 19:10:13
 image: 'https://m.media-amazon.com/images/I/41xjUhAoDeL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,13 +16,18 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01IJZURS2/?tag=tolees-21'
 descuento: '28.65'
+average: '179.99'
 ---
 
-Tienes [Kodak Pixpro AZ422 Roja](https://www.amazon.es/dp/B01IJZURS2/?tag=tolees-21) con un 28.65 % de descuento con precio de oferta de 179.99 EUR (original: 252.28 EUR) en el siguiente enlace!
+Ahora mismo tienes [Kodak Pixpro AZ422 Roja](https://www.amazon.es/dp/B01IJZURS2/?tag=tolees-21) a 179.99 EUR (original: 252.28 EUR) (28.65 %  de descuento) en el siguiente enlace!
 
 [![Kodak Pixpro AZ422 Roja](https://m.media-amazon.com/images/I/41xjUhAoDeL._SL200_.jpg)](https://www.amazon.es/dp/B01IJZURS2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Resolución de pantalla numérica de 460000 píxeles
+- Voltaje de la batería de 3.7 V
+- Zoom óptico 42 x
+- Total de megapíxeles 20 MP
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B01IJZURS2/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B01IJZURS2/?tag=tolees-21)

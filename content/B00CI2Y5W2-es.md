@@ -25,8 +25,8 @@ Ahora mismo tienes [NANOCABLE 10.20.0702-FLEX - Cable de Red Ethernet Flexible R
 
 🔎:
 
-- El producto está 100% testado
 - Bobina cable de red Cat.5e FTP AWG24 flexible
+- El producto está 100% testado
 - Cumple las normas ANSI/TIA/EIA 568-B, 2 Cat.5e, ISO/IEC 11801 (2da edición), CENELEC EN 50173-1, IEC 61156-5, CENELEC EN 50288-2-1, IEC 61156-6, CENELEC EN 50288-2-2. Resistencia a la propagación de las llamas según IEC 60332-1-2
 - Normativas: RoHS
 

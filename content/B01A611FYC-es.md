@@ -26,7 +26,7 @@ Está [Fonestar ELIPSE-4 - Pareja de altavoces](https://www.amazon.es/dp/B01A611
 ℹ️:
 
 - ALTAVOCES: 1 woofer polipropileno 4" 1 tweeter 1"
-- RESPUESTA: 100-20.000 Hz
 - POTENCIA: 60 W máximo, 30 W RMS
+- RESPUESTA: 100-20.000 Hz
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01A611FYC/?tag=tolees-21)

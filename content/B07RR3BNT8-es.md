@@ -27,8 +27,8 @@ En este momento está [Habitdesign Estantería Juvenil 6 baldas  Librería Verti
 
 - Las medidas de la estantería i-joy son 180 cm (alto) x 52 cm (ancho) x 25 cm (fondo)
 - Este tipo de material tiene una superficie no porosa y muy resistente; por lo tanto, es un mueble fácil y rápido de limpiar con un paño húmedo; requiere montaje (incluye instrucciones y herrajes)
+- La librería i-joy es ideal para cualquier rincón del hogar, dando accesibilidad a objetos, material de papelería, carpetas, libros de uso diario, decoración, cajas e incluso muñecos y juguetes
 - El acabado de la estantería de estudio i-joy se presenta en color blanco artik
 - Fabricado con aglomerado de alta densidad, melanina de gran calidad y de larga durabilidad, producto certificado por la pefc (asociación española para la sostenibilidad forestal)
-- La librería i-joy es ideal para cualquier rincón del hogar, dando accesibilidad a objetos, material de papelería, carpetas, libros de uso diario, decoración, cajas e incluso muñecos y juguetes
 
 [Aquí!!!](https://www.amazon.es/dp/B07RR3BNT8/?tag=tolees-21)

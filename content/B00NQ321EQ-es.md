@@ -25,10 +25,10 @@ Está [Arcoroc J2610 Vasos Bajos Vidrio  transparente  16 cl  6 unidades](https:
 
 ℹ️:
 
+- 16cl
+- Apto microondas
+- Fabricado en francia
 - Facil de limpiar
 - Apto frigorífico
-- Fabricado en francia
-- Apto microondas
-- 16cl
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00NQ321EQ/?tag=tolees-21)

@@ -25,7 +25,7 @@ En este momento está [Camper Uno  Zapatillas Mujer  Naranja  Medium Orange 810 
 
 🔎:
 
-- Cuero y medios mixtos.
 - Suela de goma.
+- Cuero y medios mixtos.
 
 [Aquí!!!](https://www.amazon.es/dp/B07GXRFZ8Z/?tag=tolees-21)

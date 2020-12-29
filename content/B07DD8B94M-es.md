@@ -25,10 +25,10 @@ Tienes [Voltron - Legendary Lion Leon Negro Articulado con +50 Frases y Sonidos 
 
 🔎:
 
-- pilas: 3 AAA incluidas
-- El León Negro es totalmente articulado
 - La historia de 5 chicos elegidos para pilotar los 5 leones que forman Voltron y liderar grandes batallas Intergalácticas
 - Tiene +50 de frases y sonidos originales de la serie
+- pilas: 3 AAA incluidas
 - Voltron: vuelve la mítica serie con 78 nuevos episodios en CLAN
+- El León Negro es totalmente articulado
 
 [Comprar!!!](https://www.amazon.es/dp/B07DD8B94M/?tag=tolees-21)

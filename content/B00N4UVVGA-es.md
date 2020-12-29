@@ -27,7 +27,7 @@ Tienes [WD Red 6TB NAS 3.5 pulgadas Disco duro interno Clase 5400 r.p.m  SATA 6 
 
 - Capacidad: 6 TB
 - RPM: IntelliPower
-- Factor de forma: 3.5 pulgadas
 - Caché: 64 MB
+- Factor de forma: 3.5 pulgadas
 
 [Comprar!!!](https://www.amazon.es/dp/B00N4UVVGA/?tag=tolees-21)
