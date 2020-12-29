@@ -26,9 +26,9 @@ Ahora mismo tienes [Lékué - Estuche de vapor  1-2 personas  color verde](https
 🔎:
 
 - La cocción en el microondas o en el horno es más nutritiva que en la cocina tradicional (fritos y hervidos)
-- Opción ecológica: Los microondas son energéticamente eficientes; La cocción y el recalentado en el microondas puede ahorrar el 80% de la energía que usa el horno
-- Cocción en papillote: una de las formas más sanas de cocción; La comida sabe mejor y resulta más nutritiva en el Estuche de Vapor: los sabores quedan bloqueados y la humedad se mantiene, gracias a la circulación del calor por el espacio ovalado
-- Seguro: las asas se mantienen frías y, además, pesa poco
 - Las tapas del Estuche evitan las salpicaduras, manteniendo el microondas limpio y la cocina libre de olores
+- Seguro: las asas se mantienen frías y, además, pesa poco
+- Cocción en papillote: una de las formas más sanas de cocción; La comida sabe mejor y resulta más nutritiva en el Estuche de Vapor: los sabores quedan bloqueados y la humedad se mantiene, gracias a la circulación del calor por el espacio ovalado
+- Opción ecológica: Los microondas son energéticamente eficientes; La cocción y el recalentado en el microondas puede ahorrar el 80% de la energía que usa el horno
 
 [Visítala!!!](https://www.amazon.es/dp/B015O2CBNW/?tag=tolees-21)

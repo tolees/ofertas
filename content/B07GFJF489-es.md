@@ -25,9 +25,9 @@ Tienes [Vino aperitivo Vermouth Rojo Osborne - 3 botellas de 75 cl - Total: 225
 
 🔎:
 
-- ¿Cómo disfrutarlo? Recomendamos añadir hielo, piel de naranja bien fresca y… ¡a disfrutar de los matices de este vermouth!
-- Delicado vermouth elaborado a partir de la combinación de dos de sus afamados vinos de Jerez, Medium y Pedro Ximenez, que aportan un toque dulce, intenso y untuoso.
-- Su carácter aterciopelado culmina en una armonía de sabores procedentes de la cuidadosas selección de botánicos típicos de la zona.
 - El vermouth de Osborne con carácter genuinamente andaluz.
+- Delicado vermouth elaborado a partir de la combinación de dos de sus afamados vinos de Jerez, Medium y Pedro Ximenez, que aportan un toque dulce, intenso y untuoso.
+- ¿Cómo disfrutarlo? Recomendamos añadir hielo, piel de naranja bien fresca y… ¡a disfrutar de los matices de este vermouth!
+- Su carácter aterciopelado culmina en una armonía de sabores procedentes de la cuidadosas selección de botánicos típicos de la zona.
 
 [Comprar!!!](https://www.amazon.es/dp/B07GFJF489/?tag=tolees-21)

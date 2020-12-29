@@ -26,9 +26,9 @@ Tienes [Energy Sistem Clock Speaker 3 Light Altavoz portátil con Bluetooth  Dua
 🔎:
 
 - RADIO FM: Altavoz con radio FM con 50 presintonias. Podrás programar la alarma con tu emisora de radio favorita.
-- 36 MESES DE GARANTÍA: Disfruta del producto con una garantía especial de 36 meses. Y realiza cualquier tipo de consulta de forma gratuita e ilimitada a lo largo del tiempo.
 - WAKE-UP LIGHT: Radio despertador con luces LED RGB para despertarte cada día con la luz que prefieras. Cambia el color de la luz con su panel táctil
 - 8 W: Altavoz Bluetooth de 8 W con función radio-despertador. Despierta con sus 5 posibilidades de alarma y su sistema 2.0 con realce de graves
 - DUAL ALARM: Programa hasta alarmas independientes para despertar con un sonido preseleccionado o bien con la emisora de radio que tu prefieras
+- 36 MESES DE GARANTÍA: Disfruta del producto con una garantía especial de 36 meses. Y realiza cualquier tipo de consulta de forma gratuita e ilimitada a lo largo del tiempo.
 
 [Comprar!!!](https://www.amazon.es/dp/B0839VM9BN/?tag=tolees-21)

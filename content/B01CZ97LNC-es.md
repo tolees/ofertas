@@ -26,7 +26,7 @@ Ahora mismo tienes [Eglo Lámpara de Pie Alamonte 1  E27  60 watts  Negro  15 x 
 🔎:
 
 - Acero galvanizado-negro
-- Bombilla: no incluida
 - De alta calidad
+- Bombilla: no incluida
 
 [Visítala!!!](https://www.amazon.es/dp/B01CZ97LNC/?tag=tolees-21)

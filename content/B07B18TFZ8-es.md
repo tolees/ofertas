@@ -25,9 +25,9 @@ En este momento está [Amstel Oro Cerveza - Caja de 24 Latas x 330 ml - Total: 7
 
 🔎:
 
+- Cerveza estilo lager especial tostada
 - Maltas tostadas en 3 tiempos: secado, tostación y golpe de fuego
 - Consumirla entre 2 y 4 grados C para obtener sus máximas cualidades
-- Cerveza estilo lager especial tostada
 - Ingredientes: agua tratada, 100% con mexcla de maltas de cebadas claras y oscuras, lúpulo y exclusiva levadura Amstel
 - De color dorado oscuro y espuma cremosa De cuerpo medio y amargor suave
 

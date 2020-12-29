@@ -25,11 +25,11 @@ Está [Yoshi s Crafted World](https://www.amazon.es/dp/B071GQSDQZ/?tag=tolees-21
 
 ℹ️:
 
-- Partidas cooperativas de dos jugadores solo con pasarle el mando Joy-Con!
-- Explora un mundo con aspecto de diorama hecho de cajas de cartón y vasos de papel
-- Una nueva aventura en Nintendo Switch
 - sigue la línea del creado para Yoshi´s Woolly World (con lanas) o Kirby Epic Yarn (con tejidos) creando un mundo muy impactante y original
+- Explora un mundo con aspecto de diorama hecho de cajas de cartón y vasos de papel
 - Docenas de escenarios
+- Partidas cooperativas de dos jugadores solo con pasarle el mando Joy-Con!
+- Una nueva aventura en Nintendo Switch
 - Compatible con todos los amiibo
 
 [Ver la oferta!!](https://www.amazon.es/dp/B071GQSDQZ/?tag=tolees-21)

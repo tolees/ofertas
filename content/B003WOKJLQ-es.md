@@ -26,9 +26,9 @@ En este momento está [Remington HC5810 Genius - Máquina de Cortar Pelo  Cuchil
 🔎:
 
 - Cuchillas de cerámica avanzada, acabado de goma antideslizante e indicador LED de niveles de carga
-- Incluye además una botella de aceite, la base de carga y maletín
-- Incluye 10 peines guía (3 - 40 mm), tijeras, cepillo para el cuello, peine, cepillo para la limpieza, cabezal de corte preciso (0 8 - 2 mm)
-- Funciona tanto con cable como inalámbrico; hasta 50 minutos de autonomía y tiempo de carga completa de 90 minutos
 - Cortapelos profesional con Motor Pro Power con potencia de 1400 vatios
+- Incluye 10 peines guía (3 - 40 mm), tijeras, cepillo para el cuello, peine, cepillo para la limpieza, cabezal de corte preciso (0 8 - 2 mm)
+- Incluye además una botella de aceite, la base de carga y maletín
+- Funciona tanto con cable como inalámbrico; hasta 50 minutos de autonomía y tiempo de carga completa de 90 minutos
 
 [Aquí!!!](https://www.amazon.es/dp/B003WOKJLQ/?tag=tolees-21)

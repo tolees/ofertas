@@ -26,9 +26,9 @@ Ahora mismo tienes [Remington B5 Style Series - Barbero  17 Ajustes  Inalámbric
 🔎:
 
 - Recortadora de barba con cuchillas lavables y autoafilables que ofrecen un 55% más control a la hora de recortar
-- Incluye cepillo para la barba con cerdas 100% de nylon y neceser para guardar
 - Incluye peine ajustable con longitudes de 0,4 a 18 mm; hasta la longitud de 5 mm los incrementos de los ajustes son cada 0,5 mm. Para longitudes de 6 a 18 mm, los incrementos son de 2 mm
-- Uso con o sin cable: hasta 60 minutos de autonomía y tiempo de carga completa de 2 horas
 - 17 ajustes de longitud para todo tipo de barbas
+- Incluye cepillo para la barba con cerdas 100% de nylon y neceser para guardar
+- Uso con o sin cable: hasta 60 minutos de autonomía y tiempo de carga completa de 2 horas
 
 [Visítala!!!](https://www.amazon.es/dp/B084DPT52B/?tag=tolees-21)

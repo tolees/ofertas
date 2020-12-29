@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Descuento del 29.44 % en Vans Ward Canvas  Zapatillas para Hombre'
-date: 2020-12-09 18:56:06
-image: 'https://m.media-amazon.com/images/I/31VKXn0SYZL._SL200_.jpg'
+title: 'Vans Ward Canvas  Zapatillas para Hombre al 29.44 % de descuento'
+date: 2020-12-29 18:50:08
+image: 'https://m.media-amazon.com/images/I/41a0HK+XPyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -16,13 +16,19 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072NHYTJP/?tag=tolees-21'
 descuento: '29.44'
+average: '49.04624999999999'
 ---
 
-Tienes [Vans Ward Canvas  Zapatillas para Hombre Negro  Canvas/Black 186  41 EU](https://www.amazon.es/dp/B072NHYTJP/?tag=tolees-21) con un 29.44 % de descuento con precio de oferta de 49.39 EUR (original: 70.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Vans Ward Canvas  Zapatillas para Hombre Negro  Canvas/Black 186  41 EU](https://www.amazon.es/dp/B072NHYTJP/?tag=tolees-21) a 49.39 EUR (original: 70.0 EUR) (29.44 %  de descuento) en el siguiente enlace!
 
-[![Vans Ward Canvas  Zapatillas para Hombre](https://m.media-amazon.com/images/I/31VKXn0SYZL._SL200_.jpg)](https://www.amazon.es/dp/B072NHYTJP/?tag=tolees-21)
+[![Vans Ward Canvas  Zapatillas para Hombre](https://m.media-amazon.com/images/I/41a0HK+XPyL._SL200_.jpg)](https://www.amazon.es/dp/B072NHYTJP/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Revestimiento: Tela
+- Material exterior: Cuero
+- Tipo de tacón: Plano
+- Material de la suela: Goma
+- Cierre: Cordones
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B072NHYTJP/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B072NHYTJP/?tag=tolees-21)

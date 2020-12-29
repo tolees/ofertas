@@ -25,9 +25,9 @@ Tienes [Braun BR710 - cepillos para el cabello y peines](https://www.amazon.es/d
 
 🔎:
 
-- Almohadilla es desmontable para facilitar la limpieza
-- Apagado automático para una mayor duración
-- Cerdas naturales que ofrecen un cepillado increíblemente suave
 - Un cepillo iónico con iones activos que aumenta el brillo visiblemente desde la primera pasada
+- Almohadilla es desmontable para facilitar la limpieza
+- Cerdas naturales que ofrecen un cepillado increíblemente suave
+- Apagado automático para una mayor duración
 
 [Comprar!!!](https://www.amazon.es/dp/B00WSJCMD4/?tag=tolees-21)

@@ -27,8 +27,8 @@ Tienes [Columbia Powder Lite  Chaqueta  Mujer  C142Azul  Nocturnal  Talla M](htt
 
 - Contenido: 1x Columbia Powder Lite Chaqueta para mujer, Exterior: Storm-Lite DP II 100% poliéster; Forro: Omni-Heat Reflective Forro 100% poliéster; Aislamiento: Thermarator 100% poliéster, Color: Azul (Nocturnal), Talla: M, Art.No.1699061
 - Chaqueta de mujer elegante y con estilo con dobladillo ajustable con cordón, Una prenda imprescindible en cualquier armario de invierno
-- Tejido resistente al agua que la protege de la lluvia y la niebla, Aislamiento Thermarator para mayor calidez
 - La tecnología reflectante Omni-Heat de la chaqueta ofrece un mayor aislamiento para mantenerte caliente incluso en los días más fríos
+- Tejido resistente al agua que la protege de la lluvia y la niebla, Aislamiento Thermarator para mayor calidez
 - Los bolsillos con cremallera te dan versatilidad Mantén tus manos calientes cuando lo necesites o guarda tu teléfono y otros accesorios sin temor a que se caigan
 
 [Comprar!!!](https://www.amazon.es/dp/B07J9KFGMZ/?tag=tolees-21)

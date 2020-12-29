@@ -25,10 +25,10 @@ En este momento está [FEBER - Ponyfeber Correpasillos  Famosa 800006280 ](https
 
 🔎:
 
-- Para niños y niñas a partir de 1 año
-- Correpasillos con forma de pony
-- Convertible en balancín
-- Estable por sus grandes ruedas
 - Incluye sonido de trote y relincho
+- Estable por sus grandes ruedas
+- Para niños y niñas a partir de 1 año
+- Convertible en balancín
+- Correpasillos con forma de pony
 
 [Aquí!!!](https://www.amazon.es/dp/B003IDO8OA/?tag=tolees-21)
