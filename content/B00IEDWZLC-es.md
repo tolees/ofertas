@@ -25,9 +25,9 @@ Tienes [Hape E8018 - Cocina de juguete de madera  multicolor](https://www.amazon
 
 ℹ️:
 
-- para la Cocina para niños casi esencial
-- garantizado Diversión del juego
 - juguete de calidad de la casa Hape/Beleduc
 - garantizado que encantará a todos los niños
+- garantizado Diversión del juego
+- para la Cocina para niños casi esencial
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00IEDWZLC/?tag=tolees-21)

@@ -25,8 +25,8 @@ Tienes [Garmin Fenix 5S - Reloj multideporte  con GPS y medidor de frecuencia ca
 
 ℹ️:
 
-- Widget de rendimiento muestra el estado de su formación, la carga de entrenamiento, VO2 Max, el asesor de la recuperación y más
 - Material del bisel: acero inoxidable
+- Widget de rendimiento muestra el estado de su formación, la carga de entrenamiento, VO2 Max, el asesor de la recuperación y más
 - Clasificación de agua: 10 ATM
 - Widget de rendimiento muestra el estado de su formación, la carga de entrenamiento, VO2 Max, el asesor de la recuperación y más
 - Material de la caja: polímero reforzado con fibra con cubierta trasera de acero inoxidable

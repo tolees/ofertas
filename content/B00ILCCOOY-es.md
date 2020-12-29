@@ -25,13 +25,13 @@ Tienes [Lékué - Molde de silicona triple en formas redondas  silicona](https:/
 
 ℹ️:
 
-- Libro de recetas incluido
-- Recetario incluido en el pack, incluye modo de uso, dos recetas paso a paso, ideas de fiesta
 - El kit contiene 3 moldes, su tamaño permite colocar todos los moldes que se cocinan en el horno al mismo tiempo
+- Recetario incluido en el pack, incluye modo de uso, dos recetas paso a paso, ideas de fiesta
+- Libro de recetas incluido
 - Ideado en colaboración con el prestigioso pastelero barcelonés Christian Escribà
+- Crea tu mismo un original pastel de tres pisos con sorpresa
 - Círculo de figuras de porcelana blanca del amor
 - Cake Surprise Kit, ¿cuál es la sorpresa escondida dentro de la torta
-- Crea tu mismo un original pastel de tres pisos con sorpresa
 - Hecho de 100 % de silicona platium
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00ILCCOOY/?tag=tolees-21)

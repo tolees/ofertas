@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 45.90 % en Tous EDT 90ml'
-date: 2020-12-28 09:05:23
+date: 2020-12-29 09:26:19
 image: 'https://m.media-amazon.com/images/I/41WYtbF0M3L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000VON5KM/?tag=tolees-21'
 descuento: '45.90'
-average: '37.839059829059806'
+average: '37.85773109243696'
 ---
 
 Tienes [Tous EDT 90ml](https://www.amazon.es/dp/B000VON5KM/?tag=tolees-21) con un 45.90 % de descuento con precio de oferta de 38.95 EUR (original: 72.0 EUR) en el siguiente enlace!

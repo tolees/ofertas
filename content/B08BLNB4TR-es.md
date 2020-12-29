@@ -26,9 +26,9 @@ Tienes [Bizak- Fábrica de Globos Artist Juguete  64040001 ](https://www.amazon.
 🔎:
 
 - Pon el globo en el estudio, llénalo con todos tus adornos favoritos y bombea para inflarlo
+- Accesorios para rellenarlos
 - Globos flexibles, puedes desinflar, inflar y convertir tu globo en un globo decorado original
 - Puedes guardarlo para ti o regalárselo
-- Accesorios para rellenarlos
 - Es la forma de crear tu propio globo decorado
 
 [Comprar!!!](https://www.amazon.es/dp/B08BLNB4TR/?tag=tolees-21)

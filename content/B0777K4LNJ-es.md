@@ -25,8 +25,8 @@ Tienes [Funko Pop!- Royal Family Prince Harry Figura de Vinilo  21949 ](https://
 
 🔎:
 
-- Funko POP
 - Prince Harry
+- Funko POP
 - Royal Family
 
 [Comprar!!!](https://www.amazon.es/dp/B0777K4LNJ/?tag=tolees-21)

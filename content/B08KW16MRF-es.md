@@ -26,9 +26,9 @@ Está [PLAYMOBIL - Juguete Stuntshow Crashcar  70551 ](https://www.amazon.es/dp/
 ℹ️:
 
 - Conduce hábilmente alrededor de los barriles en llamas y conduce a gran velocidad
+- Incluye conductor y muñeco prueba de choque
+- Medidas: 23.5 - 26 x 12 x 7.5 cm
 - Deportes extremos absolutamente fascinantes
 - Se puede usar como coche de carreras o de acrobacias intercambiando varias partes como el parachoques, una rampa o un bloque con llamas
-- Medidas: 23.5 - 26 x 12 x 7.5 cm
-- Incluye conductor y muñeco prueba de choque
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08KW16MRF/?tag=tolees-21)

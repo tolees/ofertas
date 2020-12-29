@@ -25,9 +25,9 @@ Ahora mismo tienes [Tommy Hilfiger 3p Brief Slip  Ngro  Negro 990   S para Hombr
 
 🔎:
 
-- Cintura elástica con la inscripción de Tommy Hilfiger
 - Detalles distintivos de Tommy Hilfiger
 - Ajuste cómodo y adecuado
 - Estos calzoncillos están disponibles en tres colores distintos
+- Cintura elástica con la inscripción de Tommy Hilfiger
 
 [Visítala!!!](https://www.amazon.es/dp/B00K5RA2RO/?tag=tolees-21)

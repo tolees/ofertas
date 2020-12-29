@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Science4you - Fábrica de Jabones - Jugue al 20.01 % de rebaja'
-date: 2020-12-28 09:14:48
+date: 2020-12-29 09:28:11
 image: 'https://m.media-amazon.com/images/I/51qolmNj10L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00HAOMM9Q/?tag=tolees-21'
 descuento: '20.01'
-average: '16.56142857142857'
+average: '16.49'
 ---
 
 Tienes [Science4you - Fábrica de Jabones - Juguete científico y Educativo](https://www.amazon.es/dp/B00HAOMM9Q/?tag=tolees-21) con precio final de  15.99 EUR (original: 19.99 EUR) (20.01 %  de rebaja) aqui!
@@ -25,10 +25,10 @@ Tienes [Science4you - Fábrica de Jabones - Juguete científico y Educativo](htt
 
 🔎:
 
-- La visión de Science4you es mejorar los niveles de educación en la sociedad, a través del desarrollo de juguetes científicos y juegos que permitan a los niños aprender mientras juegan.
-- 8 Experimentos Cientificos
-- Incluye libro educativo de 36 páginas y más de 65€ en entradas para Museos de Ciencia
 - ¡Juguete educativo para producir jabones perfumados y descubrir cómo hacer fantásticos jabones en forma de pez, caracola y caballito de mar, cómo puedes hacer jabones con fantásticos olores y purpurina, cómo hacer jabones de avena y de flores secas para regalárselos a tus amigas y cómo puedes transformarte en un científico y hacer jabón líquido!
+- 8 Experimentos Cientificos
+- La visión de Science4you es mejorar los niveles de educación en la sociedad, a través del desarrollo de juguetes científicos y juegos que permitan a los niños aprender mientras juegan.
+- Incluye libro educativo de 36 páginas y más de 65€ en entradas para Museos de Ciencia
 - Edad 8+
 
 [Comprar!!!](https://www.amazon.es/dp/B00HAOMM9Q/?tag=tolees-21)

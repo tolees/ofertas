@@ -25,11 +25,11 @@ Tienes [Oral B iO Ultimate Clean Cabezales de recambio  Pack de 4 unidades](htt
 
 ℹ️:
 
-- Para eliminar hasta un 100 % de la placa desde el primer día
-- Número de cabezales de cepillo de dientes incluidos en este pack: 2
-- De la marca recomendada por dentistas en todo el mundo
-- Diseñado para tu Oral-B iO; compatibilidad asegurada
 - Ultimate Clean combina el ángulo óptimo de Oral-B con filamentos para la mejor limpieza de Oral-B
+- De la marca recomendada por dentistas en todo el mundo
+- Número de cabezales de cepillo de dientes incluidos en este pack: 2
+- Diseñado para tu Oral-B iO; compatibilidad asegurada
+- Para eliminar hasta un 100 % de la placa desde el primer día
 - Los dentistas recomiendan substituir el cabezal cada 3 meses para una mejor limpieza
 - En el cabezal redondo de Oral-B, los filamentos se disponen meticulosamente para rodear mejor cada diente y lograr la mejor limpieza posible
 

@@ -25,10 +25,10 @@ Tienes [Candy - FCS100X/E - Horno eléctrico - 2100W  Capacidad 70L  Puerta desm
 
 🔎:
 
-- Sencillez: un modelo que encaja a la perfección con cualquier tipo de cocina, con puerta efecto espejo y 70L de capacidad.
+- Seguridad en tu cocina: puerta con doble cristal desmontable con temperatura media de sólo 55°C mientras que en el interior del horno es de 200°C.
 - 4 funciones disponibles: iluminación, convección natural, grill y resistencia inferior.
 - Fácil de limpiar: la superficie de la puerta es de cristal sin tornillos a la vista, por lo que es más fácil de limpiar.
-- Seguridad en tu cocina: puerta con doble cristal desmontable con temperatura media de sólo 55°C mientras que en el interior del horno es de 200°C.
+- Sencillez: un modelo que encaja a la perfección con cualquier tipo de cocina, con puerta efecto espejo y 70L de capacidad.
 - Incluye: rejillas antivuelco, 1 bandeja, 1 rejilla y la cuba esta preparada para la limpieza por agua.
 
 [Comprar!!!](https://www.amazon.es/dp/B073FQ4HT9/?tag=tolees-21)

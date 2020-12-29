@@ -25,8 +25,8 @@ En este momento está [Colgate  Pasta de Dientes Triple Acción Extra Fresh  Pac
 
 🔎:
 
-- Protección anticaries probada
 - Pasta de dientes con una banda refrescante para una sensación extra de frescura
 - Elimina las manchas de la superficie
+- Protección anticaries probada
 
 [Aquí!!!](https://www.amazon.es/dp/B08FBVLY68/?tag=tolees-21)

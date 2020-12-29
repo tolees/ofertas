@@ -25,8 +25,8 @@ Tienes [DVD Portátil 10" LENCO DVP-1045 Negro  2 Pantallas](https://www.amazon.
 
 🔎:
 
-- Puerto USB Accionado por una batería recargable
 - Incluye control remoto, accesorio para el reposacabezas y auriculares.
+- Puerto USB Accionado por una batería recargable
 - Reproductor de DVD portátil de 10 pulgadas
 
 [Comprar!!!](https://www.amazon.es/dp/B06XGLXCY4/?tag=tolees-21)

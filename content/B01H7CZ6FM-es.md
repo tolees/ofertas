@@ -25,10 +25,10 @@ Está [Emporio Armani Reloj Analogico para Mujer de Cuarzo con Correa en Piel AR
 
 ℹ️:
 
-- Resistente al agua hasta 30 m: Soporta salpicaduras de agua
 - Correa de piel beis
 - Caja redonda de acero inoxidable en tono oro rosa, con una esfera en tono plateado
 - Caja de 32 mm, ancho de la correa de 14 mm, cristal mineral, movimiento de cuarzo con pantalla analógica con 2 agujas
 - Presentación en una caja de regalo Emporio Armani
+- Resistente al agua hasta 30 m: Soporta salpicaduras de agua
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01H7CZ6FM/?tag=tolees-21)

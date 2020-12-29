@@ -25,13 +25,13 @@ Está [Garmin Vivoactive 3 - Smartwatch con GPS y pulso en la muñeca  Negro/Pla
 
 ℹ️:
 
+- Material de la carcasa: Polímero reforzado con fibra o acero inoxidable
+- 7 actividades cronometradas; 14 días de datos de seguimiento de actividad;
 - Incluye monitorización del estado físico, así como de la edad física y del estrés durante todo el día
-- Notificaciones inteligentes que incluyen la capacidad de enviar mensajes a mensajes de texto, LiveTrack, Connect IQ y aplicaciones
 - Modo GPS: hasta 13 horas;Modo inteligente: hasta 7 días
 - Las aplicaciones deportivas incluyen yoga, cardio, entrenamiento de fuerza, correr, nadar y muchas más
 - Tipo de pantalla: Visible a la luz del sol, transflectiva, memoria a nivel de píxeles (MIP)
 - Tamaño de la pantalla (Ancho/Alto): Diámetro de 30,4 mm (1,2")
-- Material de la carcasa: Polímero reforzado con fibra o acero inoxidable
-- 7 actividades cronometradas; 14 días de datos de seguimiento de actividad;
+- Notificaciones inteligentes que incluyen la capacidad de enviar mensajes a mensajes de texto, LiveTrack, Connect IQ y aplicaciones
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0751GBCKN/?tag=tolees-21)

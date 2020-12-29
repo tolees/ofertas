@@ -25,8 +25,8 @@ Tienes [Adidas Tiro 19 Training Pnt Pantalones Deportivos  Hombre  Azul  Dark Bl
 
 🔎:
 
-- Tapered fit
-- Climacool technology
 - Elastic waistband with lanyard
+- Climacool technology
+- Tapered fit
 
 [Comprar!!!](https://www.amazon.es/dp/B07JYN49MM/?tag=tolees-21)

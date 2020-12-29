@@ -25,8 +25,8 @@ Está [Bosch Professional GHO 26-82 D - Cepillo  710 W  rebaje 9 mm  en maletín
 
 ℹ️:
 
-- Potente motor de 710 w para profundidades de corte de hasta 2,6 mm
-- Expulsión de virutas por la izquierda o la derecha
 - Placa de asiento plana y estable que ofrece los mejores resultados de cepillado
+- Expulsión de virutas por la izquierda o la derecha
+- Potente motor de 710 w para profundidades de corte de hasta 2,6 mm
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01F1SZAO6/?tag=tolees-21)
