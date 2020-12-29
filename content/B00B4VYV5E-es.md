@@ -25,11 +25,11 @@ Tienes [Converse 2 Pack Booties Calcetines  Rojo  Red   0/6 meses  Talla del fab
 
 ℹ️:
 
+- Tamaño Unica
 - Material exterior algodón
 - Fabricado en material 100% algodón
-- Tamaño Unica
-- Adecuado para bebé niños
-- Color rojo y blanco
 - Material interior algodón
+- Color rojo y blanco
+- Adecuado para bebé niños
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00B4VYV5E/?tag=tolees-21)

@@ -26,10 +26,10 @@ Está [Garmin Vivofit Jr. 2 Disney Frozen 2 Elsa Pulsera de Actividad para Niño
 ℹ️:
 
 - Tracks steps, sleep and 60 minutes of daily recommended activity
-- Parents can access chore management and reward tools on the parent-controlled app, reminder alerts and task timer keep kids on top of chores such as homework, practice time and brushing teeth
-- Motivates kids to achieve active minute goals that unlock app adventures, games and step icons featuring Anna, Elsa and their Disney Frozen 2 friends
-- 6 Years and Up
-- Disney Frozen 2 kids fitness tracker includes interactive app experience
 - Swim-friendly band features a customisable colour screen and more than a year of battery life — no recharging needed and user replaceable
+- Disney Frozen 2 kids fitness tracker includes interactive app experience
+- 6 Years and Up
+- Motivates kids to achieve active minute goals that unlock app adventures, games and step icons featuring Anna, Elsa and their Disney Frozen 2 friends
+- Parents can access chore management and reward tools on the parent-controlled app, reminder alerts and task timer keep kids on top of chores such as homework, practice time and brushing teeth
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07YXB336S/?tag=tolees-21)

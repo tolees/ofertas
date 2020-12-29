@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Elgato Thunderbolt 3 Mini - Dock con cab al 26.67 % de rebaja'
-date: 2020-12-23 12:15:50
+date: 2020-12-29 06:26:32
 image: 'https://m.media-amazon.com/images/I/31+R8jbhOML._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Tienes [Elgato Thunderbolt 3 Mini - Dock con cable Thunderbolt integrado  40 Gb/
 
 🔎:
 
-- Thunderbolt 3: disfruta de una conexión de 40 Gbps que garantiza el rendimiento máximo en todos los puertos
-- USB 3.1 Gen 1: disfruta del máximo rendimiento con unidades SSD, el SuperDrive, etc.
-- Cable Thunderbolt 3 integrado: conéctalo todo a la vez a tu MacBook Pro o a tu portátil con Windows
-- Gigabit Ethernet: aprovecha un rendimiento de red superior
-- HDMI y DisplayPort: conecta dos pantallas de hasta 4K a 60 fps cada una
+- HDMI and DisplayPort: drive dual displays up to 4K resolution at 60 Hz each
+- Built-in Thunderbolt 3 cable: connect everything to your MacBook Pro or Windows notebook at once
+- Gigabit Ethernet: capitalize on increased network performance
+- Thunderbolt 3: enjoy 40 Gb/s throughput for maximum performance across all ports
+- USB 3.1 Gen 1: benefit from high-performance support for SSDs, SuperDrive and more
 
 [Comprar!!!](https://www.amazon.es/dp/B07GS9XM54/?tag=tolees-21)

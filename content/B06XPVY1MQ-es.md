@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'La Bella y La Bestia [Blu-ray] al 29.79 % de descuento'
-date: 2020-12-25 16:33:33
+date: 2020-12-29 06:25:16
 image: 'https://m.media-amazon.com/images/I/61t7tlu1CvL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XPVY1MQ/?tag=tolees-21'
 descuento: '29.79'
-average: '9.566666666666668'
+average: '9.449000000000002'
 ---
 
 Está [La Bella y La Bestia [Blu-ray]](https://www.amazon.es/dp/B06XPVY1MQ/?tag=tolees-21) con 29.79 de descuento por 8.39 EUR (original: 11.95 EUR) en el siguiente enlace!
