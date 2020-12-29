@@ -25,9 +25,9 @@ Ahora mismo tienes [Hibron Mascarillas faciales Deshechable  pack con 50 unidade
 
 🔎:
 
+- La mascarilla higiénica está destinada a personas adultas sin síntomas que no sean susceptibles de utilizar mascarillas quirúrgicas ni máscaras filtrantes de protección contra partículas, según las medidas establecidas en el documento técnico “Prevención y control de la infección en el manejo de pacientes" publicado por el Ministerio de Sanidad.
 - Permiten una agradable respiración. Buen filtrado
 - BFE (Filtración) >90%, Respiralidad (Presión diferencial) < 60 Pa/cm²
-- La mascarilla higiénica está destinada a personas adultas sin síntomas que no sean susceptibles de utilizar mascarillas quirúrgicas ni máscaras filtrantes de protección contra partículas, según las medidas establecidas en el documento técnico “Prevención y control de la infección en el manejo de pacientes" publicado por el Ministerio de Sanidad.
 - Fabricado bajo las especificaciones técnicas GB/T 32610-2016 equivanlente a las especificaciones españolas UNE 0064-1:2020
 - "ADVERTENCIA: Este dispositivo no es un producto sanitario en el sentido de la Directiva 93/42 o del Reglamento UE / 2017/745, ni un equipo de protección individual en el sentido del Reglamento UE / 2016/425";
 
