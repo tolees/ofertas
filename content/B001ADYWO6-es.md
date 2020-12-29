@@ -27,8 +27,8 @@ Está [Relaxdays Soporte Bicicleta Suspensión  Adultos Unisex  Negro  8 x 100 x
 
 - Para garajes y sótanos; ayuda a preservar los neumáticos y evitar arañazos
 - Incluye material de montaje
-- Soporta hasta 20 kg; para techos hasta 4 m de alto
-- Con montaje al techo fácil y rápido
 - Ganchos con revestimiento de goma para evitar arañazos
+- Con montaje al techo fácil y rápido
+- Soporta hasta 20 kg; para techos hasta 4 m de alto
 
 [Ver la oferta!!](https://www.amazon.es/dp/B001ADYWO6/?tag=tolees-21)

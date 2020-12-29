@@ -26,8 +26,8 @@ Ahora mismo tienes [Bourjois Liner Stylo Lápiz de ojos Tono 61 Ultra Black - 4 
 🔎:
 
 - Cantidad: 1 unidad
-- Lápiz y delineador ojos automático
 - Es lo que necesitas para reforzar al máximo tu atractivo
+- Lápiz y delineador ojos automático
 - Mina retractable ultraprecisa
 
 [Visítala!!!](https://www.amazon.es/dp/B00TH3R2ES/?tag=tolees-21)

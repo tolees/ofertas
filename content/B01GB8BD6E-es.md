@@ -25,10 +25,10 @@ Está [Hoover Athen Evo ATV324LD - Aspiradora escoba sin cable  Cepillo suelos d
 
 ℹ️:
 
-- Control y visibilidad: Display led & luces led en la tobera
+- Para la limpieza de todo tipo de superficies: suelos duros, parquet y alfombras
 - Filtros de alta calidad: epa, para una mayor vida útil del producto y un menor mantenimiento
 - Escoba sin cable: 32.4v batería de litio
+- Control y visibilidad: Display led & luces led en la tobera
 - Gran autonomía: hasta 120 min, con accesorios y toberas incluidos
-- Para la limpieza de todo tipo de superficies: suelos duros, parquet y alfombras
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01GB8BD6E/?tag=tolees-21)

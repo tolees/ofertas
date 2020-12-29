@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Panama Jack Panama 03 C1 - Náuticos de c al 24.73 % de rebaja'
-date: 2020-12-28 08:15:59
+date: 2020-12-29 13:11:38
 image: 'https://m.media-amazon.com/images/I/51r7JNNqGUL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B004XC4JNK/?tag=tolees-21'
 descuento: '24.73'
-average: '122.05333333333334'
+average: '122.65882352941178'
 ---
 
 Tienes [Panama Jack Panama 03 C1 - Náuticos de cuero hombre  color amarillo  talla 40](https://www.amazon.es/dp/B004XC4JNK/?tag=tolees-21) con precio final de  127.2 EUR (original: 169.0 EUR) (24.73 %  de rebaja) aqui!

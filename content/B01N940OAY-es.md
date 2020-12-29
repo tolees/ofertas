@@ -25,11 +25,11 @@ Tienes [Pata Negra Apasionado - Vino Tinto D.O Jumilla - Caja de 6 Botellas x 75
 
 ℹ️:
 
-- Maridaje: Este vino combina óptimamente simplemente por copas o con carnes a la parrilla y comida picante. Pruébalo con una onza de chocolate negro
-- Aroma: Perfil aromático intenso y atractivo con notas de café tostado, ciruelas y frutos negros
-- Apariencia: Vino tinto de color picota oscuro y brillante, de capa muy cubierta
 - Consumo: Para disfrutar de sus cualidades óptimas, recomendamos servir a 16ºC
-- Gusto: Da sensación de plenitud en boca, sabroso y largo; con taninos suaves y redondos unidos a un final muy persistente
+- Apariencia: Vino tinto de color picota oscuro y brillante, de capa muy cubierta
+- Maridaje: Este vino combina óptimamente simplemente por copas o con carnes a la parrilla y comida picante. Pruébalo con una onza de chocolate negro
 - Tipo de uva: Elaborado con una interesante combinación de uvas Monastrell, Petit Verdot y Cabernet Sauvignon; cada variedad se elabora por separado y solo después de estar los vinos terminados, se decide cuál es el porcentaje de cada uno que se añade a la mezcla final
+- Gusto: Da sensación de plenitud en boca, sabroso y largo; con taninos suaves y redondos unidos a un final muy persistente
+- Aroma: Perfil aromático intenso y atractivo con notas de café tostado, ciruelas y frutos negros
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N940OAY/?tag=tolees-21)

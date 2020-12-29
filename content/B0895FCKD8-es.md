@@ -25,10 +25,10 @@ En este momento está [DURHAND Escalera Telescópica Plagable Multifuncional Est
 
 🔎:
 
-- ✅SEGURA: Fabricada con aluminio de alta calidad, cumple con la normativa en seguridad EN131.
-- ✅PORTÁTIL: Totalmente plegada tiene un tamaño compacto que resulta muy práctico para transportar a mano o en coche.
-- ✅ESCALERA MULTIFUNCIÓN: Resulta perfecta para uso profesional como particular. Como adopta diferentes posiciones podrás utilizarla en infinidad de lugares y tareas. Colócala en forma de A o totalmente en vertical.
-- ✅MEDIDAS: Totalmente desplegada: 320x67x7 cm (LxAnxAl). Plegada: 47x14x82 cm (LxAnxAl). Soporta un máximo de 150kg.
 - ✅BLOQUEO Y PATAS ANTIDESLIZANTES: Con sistema de bloqueo para que la escalera no pierda la forma adoptada y con protectores de goma antideslizante para evitar que se resbale.
+- ✅SEGURA: Fabricada con aluminio de alta calidad, cumple con la normativa en seguridad EN131.
+- ✅MEDIDAS: Totalmente desplegada: 320x67x7 cm (LxAnxAl). Plegada: 47x14x82 cm (LxAnxAl). Soporta un máximo de 150kg.
+- ✅ESCALERA MULTIFUNCIÓN: Resulta perfecta para uso profesional como particular. Como adopta diferentes posiciones podrás utilizarla en infinidad de lugares y tareas. Colócala en forma de A o totalmente en vertical.
+- ✅PORTÁTIL: Totalmente plegada tiene un tamaño compacto que resulta muy práctico para transportar a mano o en coche.
 
 [Aquí!!!](https://www.amazon.es/dp/B0895FCKD8/?tag=tolees-21)

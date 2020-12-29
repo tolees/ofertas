@@ -25,10 +25,10 @@ Tienes [Weta- Figura Coleccionable Señor de los Nazgûl  Color Standard  865002
 
 🔎:
 
-- Fabricada en vinilo, con unas medidas de unos 19 cm
-- El producto viene en una caja impresa
+- Producto con licencia 100% oficial
 - Inspirada en el señor de los anillos, pertenece a la línea mini epics
 - Podrás coleccionar todos los personajes de el señor de los anillos con estas figuras que vienen con todos los detalles
-- Producto con licencia 100% oficial
+- Fabricada en vinilo, con unas medidas de unos 19 cm
+- El producto viene en una caja impresa
 
 [Comprar!!!](https://www.amazon.es/dp/B07RF9QPRB/?tag=tolees-21)

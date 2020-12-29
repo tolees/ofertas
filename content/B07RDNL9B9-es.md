@@ -25,10 +25,10 @@ Tienes [FCSDETAIL Botella de Agua de Cristal sin BPA  Botella de Agua de Vidrio 
 
 🔎:
 
-- NO TÓXICO: Nuestras botellas no contienen BPA, PVC, PLOMO ni ftalatos. ¡Disfrutemos de agua fresca y limpia sin plástico residual o sabor metálico utilizando una botella de agua de vidrio reutilizable!
-- Las botellas de agua de cristal FCSDETAIL están hechas de vidrio de borosilicato puro, que es seguro, duradero, respetuoso con el medio ambiente y puede soportar temperaturas extremadamente altas y bajas. Nota: No utilice el detergente lavavajillas cuando lo lave en el lavavajillas (la impresión puede desvanecerse). Lave la tapa a mano.
-- ANTIFUGAS: Cada tapa de bambú está forrada con un anillo de sello de silicona de grado alimenticio para evitar fugas.
-- SERVICIO AL CLIENTE: Por favor contáctenos libremente si tiene algún problema con nuestras botellas de vidrio. FCSDETAIL hará todo lo posible para garantizar su completa satisfacción y una experiencia de compra perfecta.
 - PORTATIL Y DURADABLE: Nuestra botella de vidrio viene con una funda de neopreno suave para brindarle un agarre cómodo y también podría proporcionar cierta protección contra impactos.
+- ANTIFUGAS: Cada tapa de bambú está forrada con un anillo de sello de silicona de grado alimenticio para evitar fugas.
+- Las botellas de agua de cristal FCSDETAIL están hechas de vidrio de borosilicato puro, que es seguro, duradero, respetuoso con el medio ambiente y puede soportar temperaturas extremadamente altas y bajas. Nota: No utilice el detergente lavavajillas cuando lo lave en el lavavajillas (la impresión puede desvanecerse). Lave la tapa a mano.
+- SERVICIO AL CLIENTE: Por favor contáctenos libremente si tiene algún problema con nuestras botellas de vidrio. FCSDETAIL hará todo lo posible para garantizar su completa satisfacción y una experiencia de compra perfecta.
+- NO TÓXICO: Nuestras botellas no contienen BPA, PVC, PLOMO ni ftalatos. ¡Disfrutemos de agua fresca y limpia sin plástico residual o sabor metálico utilizando una botella de agua de vidrio reutilizable!
 
 [Comprar!!!](https://www.amazon.es/dp/B07RDNL9B9/?tag=tolees-21)

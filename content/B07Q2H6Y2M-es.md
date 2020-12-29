@@ -25,7 +25,7 @@ Ahora mismo tienes [Amazon Essentials Quarter-Zip High-Pile Polar Fleece Jacket 
 
 🔎:
 
-- Envuelve a tu pequeño con esta chaqueta suave y cómoda.
 - Todos los días mejores: escuchamos los comentarios de los clientes y sintonizamos cada detalle para garantizar la calidad, el ajuste y la comodidad.
+- Envuelve a tu pequeño con esta chaqueta suave y cómoda.
 
 [Visítala!!!](https://www.amazon.es/dp/B07Q2H6Y2M/?tag=tolees-21)

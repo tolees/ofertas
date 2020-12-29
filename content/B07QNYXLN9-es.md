@@ -25,10 +25,10 @@ Tienes [Habitdesign Mesa de Despacho 3 Cajones  Mesa Escritorio  Modelo Stylus  
 
 🔎:
 
-- Medidas de la mesa de despacho Stylus: 138 (Largo) x 60 cm (Ancho) x 74 (Alto)
+- Este tipo de material tiene una superficie no porosa y muy resistente; por lo tanto, es un mueble fácil y rápido de limpiar con un paño húmedo; requiere montaje (incluye instrucciones y herrajes) No incluye los objetos de decoración y accesorios (cestas no incluidas).
 - Fabricado con aglomerado de alta densidad, melamina de gran calidad y durabilidad; producto certificado por la pefc (asociación española para la sostenibilidad forestal), muy combinable con todo tipo de decoración.
 - El acabado de la estantería de estudio Stylus se presenta en color Blanco Artik.
-- Este tipo de material tiene una superficie no porosa y muy resistente; por lo tanto, es un mueble fácil y rápido de limpiar con un paño húmedo; requiere montaje (incluye instrucciones y herrajes) No incluye los objetos de decoración y accesorios (cestas no incluidas).
 - La mesa de estudio de despacho Stylus es una mesa de oficina o escritorio de líneas depuradas y formas sencillas pero muy práctico.La mesa incluye 3 cajones, ideales para guardar y ordenar todo aquello que precises.
+- Medidas de la mesa de despacho Stylus: 138 (Largo) x 60 cm (Ancho) x 74 (Alto)
 
 [Comprar!!!](https://www.amazon.es/dp/B07QNYXLN9/?tag=tolees-21)

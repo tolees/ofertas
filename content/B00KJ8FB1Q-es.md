@@ -25,11 +25,11 @@ Está [OMRON M2 BASIC Tensiómetro de Brazo digital  Blanco y Azul](https://www.
 
 ℹ️:
 
-- Con una medición rápida
+- Detección de movimiento de pulso arrítmico
 - Pantalla grande y fácil de leer
-- Tiene un manguito de 22 - 32 cm
+- Con una medición rápida
 - Tiene la tecnología Intellisense para dar lecturas de presión arterial rápidas, cómodas y precisas
 - Funciona con pilas (incluidas), opcional adaptador de corriente para no gastar pilas aunque son necesarias si se quieren guardar las lecturas
-- Detección de movimiento de pulso arrítmico
+- Tiene un manguito de 22 - 32 cm
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00KJ8FB1Q/?tag=tolees-21)

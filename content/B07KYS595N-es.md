@@ -25,10 +25,10 @@ Tienes [Grabadora de DVD/CD Externa USB 3.0 Portátil Diseño Ultra Delgado  Lec
 
 ℹ️:
 
-- DISEÑO PORTATIL ULTRA DELGADO: Gracias a su diseño portátil, esta grabadora de DVD está pensada para ocupar el mínimo espacio y ser fácilmente transportada. El cable de transmisión de datos integrado de alta estabilidad te facilitará su instalación y uso
 - TECNOLOGIA USB 3.0: Adoptando la tecnología USB 3.0, la transmisión de datos de la unidad óptica para DVD y CD es mucho más rápida, precisa y estable. Se alimenta sólo por USB, no necesitarás fuentes de alimentación externa
-- GRAN COMPATIBILIDAD: La grabadora de CD/DVD externa WIN98/XP/WIN7/WIN8/WIN10/XP/VISTA/ Mac OS 8.6 o superior. Ideal para laptops, notebooks y sobremesas. Además de soportar la lectura y escritura de DVD-ROM, DVD-R, DVD + R, DVD-RW, DVD-R DL CDA, CD-ROM, CD-R, VCD, SVCD y CD-RW
 - PLUG & PLAY” CONECTAR Y USAR: Fácil de usar, simplemente basta con conectar el cable USB, sin necesidad de instalación de drivers. Este lector de DVD y CD es una opción rápida, fácil y eficiente a la hora de quemar o leer tus discos
 - GRAN FUNCIONAMIENTO: Dispone de un funcionamiento estable con gran capacidad de corrección de errores, antigolpes y con tecnología de reducción de ruido. Con un bajo consumo que te ayudará a ahorrar energía sin perder velocidad de lectura y escritura
+- DISEÑO PORTATIL ULTRA DELGADO: Gracias a su diseño portátil, esta grabadora de DVD está pensada para ocupar el mínimo espacio y ser fácilmente transportada. El cable de transmisión de datos integrado de alta estabilidad te facilitará su instalación y uso
+- GRAN COMPATIBILIDAD: La grabadora de CD/DVD externa WIN98/XP/WIN7/WIN8/WIN10/XP/VISTA/ Mac OS 8.6 o superior. Ideal para laptops, notebooks y sobremesas. Además de soportar la lectura y escritura de DVD-ROM, DVD-R, DVD + R, DVD-RW, DVD-R DL CDA, CD-ROM, CD-R, VCD, SVCD y CD-RW
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KYS595N/?tag=tolees-21)
