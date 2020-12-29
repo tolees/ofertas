@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.89 % en NYX PROFESSIONAL MAKEUP - Primer/Sérum H'
-date: 2020-12-15 13:32:13
+date: 2020-12-29 10:23:21
 image: 'https://m.media-amazon.com/images/I/41cG9GyNbqL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,9 +26,9 @@ Tienes [NYX PROFESSIONAL MAKEUP - Primer/Sérum Honey Dew Me Up  con Ácido Hial
 ℹ️:
 
 - Prebase 2 en 1, con doble función de sérum y primer, especialmente indicado para neutralizar rojeces e imperfecciones
-- Acabado luminoso, que unifica la tez aportando una textura ligera, cómoda y natural
 - Prepara y nutre la piel, manteniéndola calmada e hidratada durante todo el día
-- Con extractos de flores como lirio, rosa, jazmín e hibiscus, que aportan propiedades humectantes e hidratantes
 - Formulado con ácido hialurónico, extracto de miel y alantoína, que tienen propiedades calmantes y cicatrizantes
+- Acabado luminoso, que unifica la tez aportando una textura ligera, cómoda y natural
+- Con extractos de flores como lirio, rosa, jazmín e hibiscus, que aportan propiedades humectantes e hidratantes
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00M3GQ0EY/?tag=tolees-21)

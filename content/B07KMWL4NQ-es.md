@@ -25,10 +25,10 @@ Tienes [Kriogor Cámara de Fotos para Niños  Juguete Digital Cámara 4 Zoom Dig
 
 🔎:
 
-- 2. Píxeles de la cámara 8MP. 3264 * 2488 para resolución de fotos y 1920 * 1080 de grabación de video. Todo esto hará que sea suficiente para que los niños lo usen.
-- 4. Diseño mini y ligero, solo 68 g apto para niños. El estante resistente y el estuche de material de calidad alimentaria lo mantienen de manera segura.
-- 1.La primera cámara de padres a hijos y la primera cámara para que los niños vean y graben el mundo. Es un buen comienzo para que los niños fotografíen y registren su vida.
-- 5. Batería recargable 1200mAh USB, 5-7h de uso cuando está completamente cargada. Con pegatinas de bricolaje, una buena opción para los niños cumpleaños regalos de Navidad.
 - 3.Funciones: fotografía time-lapse, disparo con temporizador, autofoto, grabación de video. Zoom digital de 4x, 4 filtros, 32 marcos de fotos divertidos y soporte para toma de fotos regular y continua.
+- 2. Píxeles de la cámara 8MP. 3264 * 2488 para resolución de fotos y 1920 * 1080 de grabación de video. Todo esto hará que sea suficiente para que los niños lo usen.
+- 5. Batería recargable 1200mAh USB, 5-7h de uso cuando está completamente cargada. Con pegatinas de bricolaje, una buena opción para los niños cumpleaños regalos de Navidad.
+- 1.La primera cámara de padres a hijos y la primera cámara para que los niños vean y graben el mundo. Es un buen comienzo para que los niños fotografíen y registren su vida.
+- 4. Diseño mini y ligero, solo 68 g apto para niños. El estante resistente y el estuche de material de calidad alimentaria lo mantienen de manera segura.
 
 [Comprar!!!](https://www.amazon.es/dp/B07KMWL4NQ/?tag=tolees-21)

@@ -1,34 +1,34 @@
 ---
 layout: post
-title: 'New Balance 373 Core  Zapatillas Bajas H al 22.91 % de descuento'
-date: 2020-12-28 07:45:45
+title: 'New Balance 373 Core  Zapatillas Bajas H al 24.11 % de descuento'
+date: 2020-12-29 11:42:57
 image: 'https://m.media-amazon.com/images/I/31cKbVuOCKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B01M2WBMCK-es'
-actualPrice: 61.67 EUR
+actualPrice: 60.71 EUR
 currency: EUR
-price: 61.67
+price: 60.71
 comparePrice: 80.0 EUR
 prodname: 'New Balance 373 Core  Zapatillas Bajas Hombre  Negro  Black   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M2WBMCK/?tag=tolees-21'
-descuento: '22.91'
-average: '63.21933333333335'
+descuento: '24.11'
+average: '63.178196721311494'
 ---
 
-Ahora mismo tienes [New Balance 373 Core  Zapatillas Bajas Hombre  Negro  Black   41.5 EU](https://www.amazon.es/dp/B01M2WBMCK/?tag=tolees-21) a 61.67 EUR (original: 80.0 EUR) (22.91 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [New Balance 373 Core  Zapatillas Bajas Hombre  Negro  Black   41.5 EU](https://www.amazon.es/dp/B01M2WBMCK/?tag=tolees-21) a 60.71 EUR (original: 80.0 EUR) (24.11 %  de descuento) en el siguiente enlace!
 
 [![New Balance 373 Core  Zapatillas Bajas H](https://m.media-amazon.com/images/I/31cKbVuOCKL._SL200_.jpg)](https://www.amazon.es/dp/B01M2WBMCK/?tag=tolees-21)
 
 🔎:
 
-- Estilo: zapatillas de running
-- Material de la suela: goma
 - Material exterior: material sintético
-- Material interior: tela
+- Material de la suela: goma
 - Cierre: cordones
+- Material interior: tela
+- Estilo: zapatillas de running
 
 [Visítala!!!](https://www.amazon.es/dp/B01M2WBMCK/?tag=tolees-21)

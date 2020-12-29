@@ -26,8 +26,8 @@ Tienes [Pentel GFKPN-SP0 Bolígrafo con tinta sepia de pigmentos para caligrafí
 🔎:
 
 - Bolígrafo recargable con 4 cartuchos de tinta FP10.
-- Bolígrafo de punta fina con tinta sepia de pigmento
 - Tinta resistente al agua y a la luz.
 - Pelo sintético duradero y muy resistente.
+- Bolígrafo de punta fina con tinta sepia de pigmento
 
 [Comprar!!!](https://www.amazon.es/dp/B07F7XTJL4/?tag=tolees-21)

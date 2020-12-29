@@ -25,11 +25,11 @@ Ahora mismo tienes [Dodot Sensitive - Pañales Talla 6  13 kg+  117 Unidades](ht
 
 🔎:
 
-- El indicador de humedad varía su color cuando tu bebé se ha hecho pipí
-- Canales de aire que mantienen la piel de tu bebé seca y aireada
-- Suave capa absorbente gracias a los materiales seleccionados que cuida la piel de tu bebé
-- Su exclusiva capa absorbente proporciona la absorción óptima de Dodot de pipís y caquitas líquidas
-- Óptima protección de la piel de Dodot
 - Tiras suaves y transpirables que se adaptan suavemente a la barriguita de tu bebé
+- Canales de aire que mantienen la piel de tu bebé seca y aireada
+- El indicador de humedad varía su color cuando tu bebé se ha hecho pipí
+- Suave capa absorbente gracias a los materiales seleccionados que cuida la piel de tu bebé
+- Óptima protección de la piel de Dodot
+- Su exclusiva capa absorbente proporciona la absorción óptima de Dodot de pipís y caquitas líquidas
 
 [Visítala!!!](https://www.amazon.es/dp/B07RN7PWFL/?tag=tolees-21)

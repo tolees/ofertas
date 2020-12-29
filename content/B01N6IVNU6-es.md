@@ -1,34 +1,34 @@
 ---
 layout: post
-title: 'The Last of Us Parte II al 18.02 % de descuento'
-date: 2020-12-27 13:08:19
+title: 'The Last of Us Parte II al 28.78 % de descuento'
+date: 2020-12-29 11:06:25
 image: 'https://m.media-amazon.com/images/I/41ukZdswq3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B01N6IVNU6-es'
-actualPrice: 40.5 EUR
+actualPrice: 34.9 EUR
 currency: EUR
-price: 40.5
-comparePrice: 49.4 EUR
+price: 34.9
+comparePrice: 49.0 EUR
 prodname: 'The Last of Us Parte II'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N6IVNU6/?tag=tolees-21'
-descuento: '18.02'
-average: '51.610425531914906'
+descuento: '28.78'
+average: '50.928367346938785'
 ---
 
-Está [The Last of Us Parte II](https://www.amazon.es/dp/B01N6IVNU6/?tag=tolees-21) con 18.02 de descuento por 40.5 EUR (original: 49.4 EUR) en el siguiente enlace!
+Está [The Last of Us Parte II](https://www.amazon.es/dp/B01N6IVNU6/?tag=tolees-21) con 28.78 de descuento por 34.9 EUR (original: 49.0 EUR) en el siguiente enlace!
 
 [![The Last of Us Parte II](https://m.media-amazon.com/images/I/41ukZdswq3L._SL200_.jpg)](https://www.amazon.es/dp/B01N6IVNU6/?tag=tolees-21)
 
 ℹ️:
 
-- Los jugadores asumirán el control de Ellie
-- Tipo de producto: videojuego
-- Plataforma del juego: PlayStation 4
-- Es un juego para un solo jugador
 - Es un videojuego de acción y aventura
+- Es un juego para un solo jugador
+- Tipo de producto: videojuego
+- Los jugadores asumirán el control de Ellie
+- Plataforma del juego: PlayStation 4
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01N6IVNU6/?tag=tolees-21)
