@@ -25,9 +25,9 @@ Tienes [Tristar FR-6937 Freidora  capacidad 2 x 3 l  3600 W  6 litros  Acero Ino
 
 🔎:
 
+- La freidora se puede limpiar con facilidad y las piezas sueltas se pueden lavar en el lavavajillas.
 - La zona fría le permite freír de manera más saludable y mantener el aceite nuevo durante más tiempo.
 - Espaciosa freidora con un volumen de 2 x 3 litros que ofrece mucho espacio
-- La freidora se puede limpiar con facilidad y las piezas sueltas se pueden lavar en el lavavajillas.
 - Puede freír fácilmente varios productos al mismo tiempo gracias a los recipientes dobles.
 - Ambos recipientes cuentan con un termostato individual que hace que sean sencillos de usar y manejar.
 

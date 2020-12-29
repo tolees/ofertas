@@ -25,8 +25,8 @@ Ahora mismo tienes [adidas Swift Run 2.0  Zapatillas Hombre  None/None/None  41 
 
 🔎:
 
-- Amortiguación
-- Empeine de tela
 - Zapatillas de running
+- Empeine de tela
+- Amortiguación
 
 [Visítala!!!](https://www.amazon.es/dp/B0813XJFN2/?tag=tolees-21)

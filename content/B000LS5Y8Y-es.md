@@ -25,9 +25,9 @@ En este momento está [WMF Palma Cromargan - Cubertería  Acero Inoxidable  24 P
 
 🔎:
 
-- Diseño contemporáneo óptimo para todo tipo de cocinas y mesas
 - Son forjados en una pieza y los cuchillos de mesa tienen hoja de acero inoxidable
 - Compuesto por 24 piezas para 6 personas con 6 tenedores, 6 cuchillos mesa, 6 cucharas y 6 cucharas café
+- Diseño contemporáneo óptimo para todo tipo de cocinas y mesas
 - Diseñador: wmf atelier
 - Apto para lavado en lavavajillas
 - Acero inoxidable cromargan 18/10, un tipo de aleación patentada por wmf, que las hace más robustas, más resistentes al rayado y más fáciles de cuidar

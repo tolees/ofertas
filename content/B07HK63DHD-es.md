@@ -28,7 +28,7 @@ En este momento está [ROSALIND Esmalte Semipermanentes UV LED 12pcs Kit Uñas d
 - Servicio al cliente: Si tiene alguna pregunta, comuníquese directamente con el vendedor, le proporcionamos un servicio de reemplazo o devolución.
 - Duradero: guárdelo durante al menos 14 días, fácil de aplicar el esmalte de uñas, puede usarse como un gel, fácil de quitar.
 - Portátil y ligero: mini botella. Es conveniente que traigas tu propio salón de uñas.
-- El paquete incluye: esmalte de uñas de gel semipermanente 12PCS ROSALIND, capacidad: 7 ml.
 - Seguridad: Fabricado en materiales naturales con poco olor. No es perjudicial para la piel.
+- El paquete incluye: esmalte de uñas de gel semipermanente 12PCS ROSALIND, capacidad: 7 ml.
 
 [Aquí!!!](https://www.amazon.es/dp/B07HK63DHD/?tag=tolees-21)

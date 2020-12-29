@@ -26,7 +26,7 @@ En este momento está [Imex El Zorro 10504 Protector para estufas pellet  72 x 6
 🔎:
 
 - Manejo práctico
-- Montaje fácil
 - Dimensiones: 72 x 63 x 70 cm
+- Montaje fácil
 
 [Aquí!!!](https://www.amazon.es/dp/B018JY7D8K/?tag=tolees-21)
