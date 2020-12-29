@@ -25,10 +25,10 @@ Tienes [Croci C6020879 Pequeña Casa Rascadora en Cartón](https://www.amazon.es
 
 ℹ️:
 
-- Equipado con inserciones de cartón corrugado
-- Casa de cartón para
-- Fácil de montar
-- Material particularmente amado por los gatos como se indica para satisfacer su instinto natural de obtener sus uñas
 - Dimensiones 50 x 38 x 35 cm
+- Casa de cartón para
+- Material particularmente amado por los gatos como se indica para satisfacer su instinto natural de obtener sus uñas
+- Equipado con inserciones de cartón corrugado
+- Fácil de montar
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01KX0RUWW/?tag=tolees-21)

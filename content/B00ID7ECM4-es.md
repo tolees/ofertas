@@ -25,10 +25,10 @@ Tienes [KNIPEX 95 05 155 SB Tijeras de electricista con fundas en dos componente
 
 🔎:
 
-- Mangos con fundas multicomponentes, reforzadas con fibras de vidrio
 - Filos de corte de precisión y afilados con dentado fino para un corte limpio y sin deslizamiento
+- Producto en cartulina autoservicio/en blíster
+- Mangos con fundas multicomponentes, reforzadas con fibras de vidrio
 - Con portaherramientas de plástico
 - Filo de corte con corta-cables
-- Producto en cartulina autoservicio/en blíster
 
 [Comprar!!!](https://www.amazon.es/dp/B00ID7ECM4/?tag=tolees-21)

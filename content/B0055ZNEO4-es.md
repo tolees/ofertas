@@ -25,10 +25,10 @@ Tienes [Orbegozo BP 5003 - Estufa de cuarzo  2 niveles de potencia  sistema anti
 
 🔎:
 
+- Estufa de cuarzo con 1200 W de potencia
 - Medidas: 20,5 x 16 x 57,5 cm
-- Dispositivo de seguridad antivuelco que apaga el aparato automáticamente
 - Pantalla orientable y control giratorio con luz indicadora
 - 2 niveles de potencia con emisión de calor instantánea
-- Estufa de cuarzo con 1200 W de potencia
+- Dispositivo de seguridad antivuelco que apaga el aparato automáticamente
 
 [Comprar!!!](https://www.amazon.es/dp/B0055ZNEO4/?tag=tolees-21)
