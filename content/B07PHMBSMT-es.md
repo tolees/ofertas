@@ -25,10 +25,10 @@ Ahora mismo tienes [Memoria USB para iPhone y iPad Memoria USB iPhone 256 pendri
 
 🔎:
 
-- ✔【18 MESES DE GARANTÍA】 - Hecho de los materiales del metal,conector de rayos están certificados,protección cifrada mantendrá su privacidad no revelada
-- ✔【COMPATIBILIDAD VERSÁTIL】 - Funciona con la mayoría de los dispositivos y equipos de iOS: iPhone X、iPhone 8、iPhone 7 Plus / iPhone 7 / iPhone 6s Plus / iPhone 6 / iPhone 6s / iPhone 6 plus / iPhone 5s / iPhone 5c / iPhone 5 / iPhone 4 / iPad Pro / iPad 4 / iPad Air;La mayoría de los formatos son compatibles : AVI、M4V、MKV、MOV、MP4、MPG、RM、RMVB、TS、WMV、FLV、3GP
+- ✔【LIBERA ESPACIO RÁPIDAMENTE CON 256GB DE ESPACIO EXTERNO】 - Solo enchufa la memoria USB, mueve con facilidad fotos, vídeos y otros archivos de tu iPhone o iPad a la memoria USB, desde donde después podrás transferir estos archivos a tu Mac, PC u otros dispositivos.
 - ✔【RESPALDO AUTOMÁTICO DE FOTOS o VÍDEO 】 - Cada vez que conectes la memoria USB, utiliza la App de la cámara para hacer fotos/vídeo, y se almacenará automáticamente en la memoria USB.
 - ✔【TRANSFERENCIAS DE ALTA VELOCIDAD CON USB 3.0】 - La memoria USB con Certificado garantiza una transferencia de datos rápida y estable. Una película de alta definición HD (aproximadamente 1 GB) solo necesita unos 20 seg.
-- ✔【LIBERA ESPACIO RÁPIDAMENTE CON 256GB DE ESPACIO EXTERNO】 - Solo enchufa la memoria USB, mueve con facilidad fotos, vídeos y otros archivos de tu iPhone o iPad a la memoria USB, desde donde después podrás transferir estos archivos a tu Mac, PC u otros dispositivos.
+- ✔【COMPATIBILIDAD VERSÁTIL】 - Funciona con la mayoría de los dispositivos y equipos de iOS: iPhone X、iPhone 8、iPhone 7 Plus / iPhone 7 / iPhone 6s Plus / iPhone 6 / iPhone 6s / iPhone 6 plus / iPhone 5s / iPhone 5c / iPhone 5 / iPhone 4 / iPad Pro / iPad 4 / iPad Air;La mayoría de los formatos son compatibles : AVI、M4V、MKV、MOV、MP4、MPG、RM、RMVB、TS、WMV、FLV、3GP
+- ✔【18 MESES DE GARANTÍA】 - Hecho de los materiales del metal,conector de rayos están certificados,protección cifrada mantendrá su privacidad no revelada
 
 [Visítala!!!](https://www.amazon.es/dp/B07PHMBSMT/?tag=tolees-21)

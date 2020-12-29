@@ -25,9 +25,9 @@ En este momento está [EooCoo Funda para 2020-2016 MacBook Pro 13 Pulgadas M1 A2
 
 🔎:
 
-- ✔️ Case Dura: el plástico para PC de alta calidad tiene alta resistencia al impacto, amplio rango de temperatura y buena estabilidad dimensional (no tiene que preocuparse por la deformación del estuche debido a las altas temperaturas).
-- ✔️ Protegiendo su Macbook de raspaduras y rasguños cotidianos. El color totalmente transparente restaura en gran medida el color original de su Mac.
-- ✔️Solo compatible con el nuevo Macbook Pro 13 pulgadas (Número de modelo: M1 A2338 A2251 A2289 A2159 A1989 A1706, lanzado en 2016 2017 2018 2019 2020).
 - ❌ No es compatible con Old Pro 13: Modelo A1502 A1425 A1708 A1278. Compruebe el modelo de Macbook "AXXXX" en la parte posterior antes de comprar. No compatible con otro modelo de Macbook
+- ✔️ Case Dura: el plástico para PC de alta calidad tiene alta resistencia al impacto, amplio rango de temperatura y buena estabilidad dimensional (no tiene que preocuparse por la deformación del estuche debido a las altas temperaturas).
+- ✔️Solo compatible con el nuevo Macbook Pro 13 pulgadas (Número de modelo: M1 A2338 A2251 A2289 A2159 A1989 A1706, lanzado en 2016 2017 2018 2019 2020).
+- ✔️ Protegiendo su Macbook de raspaduras y rasguños cotidianos. El color totalmente transparente restaura en gran medida el color original de su Mac.
 
 [Aquí!!!](https://www.amazon.es/dp/B08GPDFBXK/?tag=tolees-21)

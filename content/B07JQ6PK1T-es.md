@@ -25,10 +25,10 @@ Está [Mortlach 12 Whisky Escocés Single Malt - 700 ml](https://www.amazon.es/d
 
 ℹ️:
 
-- Se recomienda añadir agua para apreciar su dulzor y el carácter auténtico de su destilería
-- Mortlach 12YO es el whisky puro de malta ideal sin ese complejo sabor ahumado de otros Speyside
 - Destilado 2.81 veces y envejecido durante 12 años en barricas previamente utilizadas para jerez y bourbon
+- Se recomienda añadir agua para apreciar su dulzor y el carácter auténtico de su destilería
 - Envejecido en dos barricas de roble europeo y americano para dotarle de un sabor rico y robusto
+- Mortlach 12YO es el whisky puro de malta ideal sin ese complejo sabor ahumado de otros Speyside
 - Sabor dulce y especiado; cuerpo entre moderado y complejo; notas de azúcar moreno, chocolate negro, cereza y tabaco
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07JQ6PK1T/?tag=tolees-21)

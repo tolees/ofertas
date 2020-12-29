@@ -25,9 +25,9 @@ Tienes [Final Fantasy VII Remake](https://www.amazon.es/dp/B00ZRVX5P4/?tag=tolee
 
 🔎:
 
-- Es adecuado para PlayStation 4
 - La marca del producto es Square Enix
-- Tipo de producto: Juego video
 - La edad mínima recomendada es 16 años
+- Tipo de producto: Juego video
+- Es adecuado para PlayStation 4
 
 [Comprar!!!](https://www.amazon.es/dp/B00ZRVX5P4/?tag=tolees-21)
