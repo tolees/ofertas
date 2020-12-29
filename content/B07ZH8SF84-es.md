@@ -25,10 +25,10 @@ Tienes [IKOHS Cafetera Express Barismatic - Cafetera Automática Espress para Es
 
 🔎:
 
-- Su potente motor desarrolla 20 bares de presión reales para poder ofrecerte en cada taza el sabor y aroma de los mejores cafés del mundo.
+- Elige tu variedad de café favorito y con solo apretar un botón podrás sentir todo el aroma y la cremosidad de una excelente taza de café espresso.
+- Empieza a disfrutar de preparar un café como lo haría un barista. Descubre todo lo que la nueva cafetera express de IKOHS puede ofrecerte.
 - Pero además, gracias a su vaporizador orientable de alta presurización, también podrás elaborar cappuccino, y café late con esa espuma perfecta que buscas.
 - Disfruta del mejor café todos los días. Nueva BARISMATIC 20bar de IKOHS una máquina de café espresso pensada y diseñada para los amantes del café diario con alma de barista profesional.
-- Empieza a disfrutar de preparar un café como lo haría un barista. Descubre todo lo que la nueva cafetera express de IKOHS puede ofrecerte.
-- Elige tu variedad de café favorito y con solo apretar un botón podrás sentir todo el aroma y la cremosidad de una excelente taza de café espresso.
+- Su potente motor desarrolla 20 bares de presión reales para poder ofrecerte en cada taza el sabor y aroma de los mejores cafés del mundo.
 
 [Comprar!!!](https://www.amazon.es/dp/B07ZH8SF84/?tag=tolees-21)

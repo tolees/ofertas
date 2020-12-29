@@ -28,7 +28,7 @@ Está [SAMSONITE Uplite - Three-Way Laptop Expandable Mochila Tipo Casual 40 Cen
 - El Spinner 55 con bolsillo superior viene con una bolsa de aseo extraíble, que permite pasar el control fácilmente y sin preocupaciones
 - Compartimento para portátil 14\"
 - 3-Way Laptop Backpack Expandable: 30 x 10 x 40 cm - 18 L - 0, 90 kg
-- Gran variedad de artículos de tamaño de cabina que se adaptan a las diferentes normativas de las aerolíneas, ampliados con modelos underseater. El Upright 45, que incluye un puerto USB, se puede colocar debajo del asiento frente a ti, de manera práctica y segura en todo momento, mientras que el modelo Backpack Expandable 3-Way es el tamaño ideal para el segundo equipaje de mano, aceptado por el 70 % de las aerolíneas
 - No hay excusa para limitar sus compras mientras está de viaje: la extensibilidad práctica en varios Uplite modelos (incluyendo los Duffles) ofrece mucha capacidad de embalaje adicional
+- Gran variedad de artículos de tamaño de cabina que se adaptan a las diferentes normativas de las aerolíneas, ampliados con modelos underseater. El Upright 45, que incluye un puerto USB, se puede colocar debajo del asiento frente a ti, de manera práctica y segura en todo momento, mientras que el modelo Backpack Expandable 3-Way es el tamaño ideal para el segundo equipaje de mano, aceptado por el 70 % de las aerolíneas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07N9GQ6JQ/?tag=tolees-21)

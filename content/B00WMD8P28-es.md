@@ -26,9 +26,9 @@ En este momento está [Scholl Recambio para Lima Pies - Durezas Persistentes - 2
 🔎:
 
 - Funcionan incluso sobre la piel más difícil
+- Pies bonitos y suaves al instante; tras un solo uso
+- Pies bonitos y suaves sin esfuerzo
 - Recomendamos utilizar estas limas de recambio únicamente con la lima electrónica Velvet Smooth de Scholl
 - Con cristales de diamante, óptimos exfoliantes para el exceso de durezas
-- Pies bonitos y suaves sin esfuerzo
-- Pies bonitos y suaves al instante; tras un solo uso
 
 [Aquí!!!](https://www.amazon.es/dp/B00WMD8P28/?tag=tolees-21)

@@ -25,9 +25,9 @@ Está [Joma Nilo - Pantalones largos para hombre  color Negro  talla M](https://
 
 ℹ️:
 
-- Cintura elástica para mayor comodidad
-- Pierna cremallera lateral para cerrar o abrir para ajustar el flujo de aire al cuerpo
 - Cintura elástica y bolsillos laterales
+- Pierna cremallera lateral para cerrar o abrir para ajustar el flujo de aire al cuerpo
+- Cintura elástica para mayor comodidad
 - Pantalón de puño
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00VWYN956/?tag=tolees-21)

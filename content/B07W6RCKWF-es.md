@@ -25,11 +25,11 @@ Está [Corsair iCUE 465X RGB Cristal Templado Chasis Semi-torre ATX Inteligente 
 
 ℹ️:
 
-- Almacenamiento extenso: Las bandejas para unidades permiten instalar hasta dos HDD de 3,5 pulgadas y dos SSD de 2,5 pulgadas, con dos soportes adicionales de 2,5 pulgadas
 - Iluminación RGB inteligente desde el primer momento: Controle y sincronice la iluminación RGB por completo con el iCUE Lighting Node CORE incluido y el software CORSAIR iCUE
-- Direct Airflow Path: Un diseño sin impedimentos que dirige el aire frío hacia los componentes más calientes del ordenador
 - Tres ventiladores CORSAIR LL120 RGB incluidos: Un flujo de aire abundante de hasta 1.500 RPM y 16 LED RGB brillantes por ventilador, con siete perfiles fascinantes de iluminación iCUE preajustados
-- Paneles lateral y frontal de cristal templado de 4 mm de grosor: Un chasis resistente de acero con dos paneles lateral y frontal de cristal templado que dejan sus componentes RGB a la vista
 - Opciones de refrigeración versátiles: Espacio para instalar un máximo de 6 ventiladores de 120 mm o varios radiadores de diversos tamaños hasta 360 mm
+- Almacenamiento extenso: Las bandejas para unidades permiten instalar hasta dos HDD de 3,5 pulgadas y dos SSD de 2,5 pulgadas, con dos soportes adicionales de 2,5 pulgadas
+- Direct Airflow Path: Un diseño sin impedimentos que dirige el aire frío hacia los componentes más calientes del ordenador
+- Paneles lateral y frontal de cristal templado de 4 mm de grosor: Un chasis resistente de acero con dos paneles lateral y frontal de cristal templado que dejan sus componentes RGB a la vista
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07W6RCKWF/?tag=tolees-21)

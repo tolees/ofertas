@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Skip Active Clean Detergente Líquido par al 28.01 % de descuento'
-date: 2020-12-23 20:28:52
+date: 2020-12-29 22:23:29
 image: 'https://m.media-amazon.com/images/I/51lb9mu4JgL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FDD84Y1/?tag=tolees-21'
 descuento: '28.01'
-average: '20.06063291139241'
+average: '17.99'
 ---
 
 Está [Skip Active Clean Detergente Líquido para Lavadora - Paquete de 2 x 4 l  Total: 8 l ](https://www.amazon.es/dp/B07FDD84Y1/?tag=tolees-21) con 28.01 de descuento por 17.99 EUR (original: 24.99 EUR) en el siguiente enlace!
