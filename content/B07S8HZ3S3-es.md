@@ -25,9 +25,9 @@ En este momento está [Under Armour Zapatillas de running para Unisex niños  Az
 
 🔎:
 
-- Suela exterior de goma con una textura nodular exclusiva para una mayor versatilidad
 - Puntera de TPU con película para más protección y durabilidad
-- Parte superior de tela ligera y transpirable para ofrecer comodidad durante todo el día
 - Mediasuela ligera para una mayor amortiguación y comodidad durante todo el día
+- Parte superior de tela ligera y transpirable para ofrecer comodidad durante todo el día
+- Suela exterior de goma con una textura nodular exclusiva para una mayor versatilidad
 
 [Aquí!!!](https://www.amazon.es/dp/B07S8HZ3S3/?tag=tolees-21)

@@ -25,12 +25,12 @@ Tienes [Duracell Pilas Recargables AA 1300 mAh  paquete de 4](https://www.amazon
 
 ℹ️:
 
-- Las pilas Duracell Recargables AA 1300mAh están precargadas y listas para usar
-- Las pilas Duracell Recargables AA 1300mAh, admiten cientos de recargas
-- Las pilas Duracell AA 1300mAh Recargables, permanecen cargadas hasta 12 meses
-- Las pilas Duracell Recargables AA 1300mAh están aseguradas para durar 3 años cuando no están en uso
-- Son adecuadas para los dispositivos de uso regular como por ejemplo un ratón inalámbrico o un vigilabebés
-- Están disponibles en tamaños: AA 1300mAh y AAA 750mAh
 - Funcionan con cualquier cargador de Baterías NiMH
+- Las pilas Duracell Recargables AA 1300mAh están aseguradas para durar 3 años cuando no están en uso
+- Las pilas Duracell Recargables AA 1300mAh, admiten cientos de recargas
+- Son adecuadas para los dispositivos de uso regular como por ejemplo un ratón inalámbrico o un vigilabebés
+- Las pilas Duracell Recargables AA 1300mAh están precargadas y listas para usar
+- Están disponibles en tamaños: AA 1300mAh y AAA 750mAh
+- Las pilas Duracell AA 1300mAh Recargables, permanecen cargadas hasta 12 meses
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B008NF1Y0Y/?tag=tolees-21)

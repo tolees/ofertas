@@ -25,10 +25,10 @@ Ahora mismo tienes [OMOTON Combos Teclado y Ratón Inalámbrico para Windows  2.
 
 🔎:
 
+- El teclado y Ratón hay la función de sueño automáticamente, puede ahorrar el energía. Si en el proceso de uso,hay problema , voy a darte resolver la solucion.(Nota: las pilas no incluidas)
+- Instalacion Simple: El metodo de Instalacion es muy simple, solo insertar el USB en el puerto de Computadora, espera unos segundos, puede usarlo.
 - Combinación inalámbrico de teclado y Ratón: Compatible para Windows 10/XP/7/8/Vista.
 - Conexión inalámbrica estable de 2.4GHZ: conexión potente y confiable de hasta 10 m. El teclado y el ratón comparten un receptor USB (en la parte inferior del ratón） sin instalar ningún software adicional, plug and play).
 - La funcion de Ratón: Hay tres niveles de DPI(800/1200/1600DPI), Puede elegis en cualquier nivel. y El Teclado es muy pequeño, Se puede llever en cualquier sitio.
-- Instalacion Simple: El metodo de Instalacion es muy simple, solo insertar el USB en el puerto de Computadora, espera unos segundos, puede usarlo.
-- El teclado y Ratón hay la función de sueño automáticamente, puede ahorrar el energía. Si en el proceso de uso,hay problema , voy a darte resolver la solucion.(Nota: las pilas no incluidas)
 
 [Visítala!!!](https://www.amazon.es/dp/B0882QQMHB/?tag=tolees-21)

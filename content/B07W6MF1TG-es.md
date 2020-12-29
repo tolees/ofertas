@@ -25,10 +25,10 @@ Está [ORICO Aluminio 3.5 Pulgadas 5 Bahías Gabinete Disco Duro Externo - Libre
 
 ℹ️:
 
-- 【Speed ​​Velocidad de transferencia de 5 Gbps】USB3.0 a SATA3.0 doble transmisión de alta velocidad, admite protocolo de aceleración UASP, velocidad de hasta 5 Gbps, compatible con versiones anteriores USB 2.0 / 1.1, archivo 1G 3 segundos de transmisión.
 - 【Body Cuerpo de aleación de aluminio de una pieza】Diseño sin costuras de cuerpo de aleación de aluminio, actualización de grosor a 4 mm, ralentización efectiva del impacto, se admiten todos los discos duros SATA (I / II / III) de 3.5 "con capacidad de hasta 80 TB.
-- 【Adapter Adaptador de alimentación interno de 150 W】Actualice el adaptador de alimentación incorporado de 150 W para admitir discos duros de mayor capacidad, proporcione suficiente energía para un gran intercambio de datos, haga que la transmisión de datos sea segura.
-- 【Garantía】ORICO Technologies Co., Ltd ofrece 12 meses de garantía y soporte técnico de por vida.
 - 【Compatibilidad】compatible con Windows XP / Vista / 7/8, Mac OS X 10.2 y versiones posteriores y Linux.
+- 【Adapter Adaptador de alimentación interno de 150 W】Actualice el adaptador de alimentación incorporado de 150 W para admitir discos duros de mayor capacidad, proporcione suficiente energía para un gran intercambio de datos, haga que la transmisión de datos sea segura.
+- 【Speed ​​Velocidad de transferencia de 5 Gbps】USB3.0 a SATA3.0 doble transmisión de alta velocidad, admite protocolo de aceleración UASP, velocidad de hasta 5 Gbps, compatible con versiones anteriores USB 2.0 / 1.1, archivo 1G 3 segundos de transmisión.
+- 【Garantía】ORICO Technologies Co., Ltd ofrece 12 meses de garantía y soporte técnico de por vida.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07W6MF1TG/?tag=tolees-21)
