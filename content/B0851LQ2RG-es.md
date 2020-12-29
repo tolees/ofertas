@@ -25,15 +25,15 @@ Ahora mismo tienes [Dr. Tree | Champú Sólido 2 en 1 | Champú Sólido + Acondi
 
 🔎:
 
-- CHAMPÚ + ACONDICIONADOR NUTRITIVO - Esta especialmente formulado con agentes de limpieza derivados del coco que limpian y acondicionan el cabello en profundidad.
-- AGENTES DE LIMPIEZA DERIVADOS DEL COCO - Limpian de forma suave y delicada. Además presenta excelentes propiedades acondicionadoras.
-- LIMPIA Y ACONDICIONA - Concentrado y cremoso, emulsión sólida, no conglomerado.
-- MODO DE EMPLEO - Desliza la pastilla varias veces por el cabello. Masajea con las manos suavemente la raíz y el cabello como lo harías habitualmente con tu champú líquido formando espuma. Acláralo con agua, comprobarás tu cabello limpio, brillante y acondicionado. En tu higiene habitual deja la pastilla al aire libre para que se seque, y si viajas usa la jabonera.
-- MANTECA DE CACAO - Hidrata, suaviza y reduce la descamación al tiempo que aumenta la elasticidad del cuero cabelludo. Con Aceite de Argán altamente concentrado en ácido oléico, vitamina E y A. Nutre y revitaliza la fibra capilar, reparando el cabello dañado y quebradizo. El cabello recupera su brillo y vitalidad natural.
-- ACEITE DE SEMILLAS MEADOWFOAM - Aporta antioxidantes y ácidos grasos Ω 6 y Ω 9. Además tiene un alto poder acondicionador.
-- 99% ORIGEN NATURAL - Ingredientes orgánicos y naturales testados dermatológicamente.
-- ECOCERT - Cosmética natural cerfificada, ingredientes puros, sin sls y sles, parabenes, PEGs ni siliconas añadidas.
-- UNA PASTILLA EQUIVALE A 3 BOTELLAS DE 300ML - Los champús sólidos de Dr. Tree proporcionan 75-90 lavados, equivalente a tres botellas de champú de 300ml.
 - Indicado para cabellos dañados y quebrados.
+- LIMPIA Y ACONDICIONA - Concentrado y cremoso, emulsión sólida, no conglomerado.
+- ECOCERT - Cosmética natural cerfificada, ingredientes puros, sin sls y sles, parabenes, PEGs ni siliconas añadidas.
+- MANTECA DE CACAO - Hidrata, suaviza y reduce la descamación al tiempo que aumenta la elasticidad del cuero cabelludo. Con Aceite de Argán altamente concentrado en ácido oléico, vitamina E y A. Nutre y revitaliza la fibra capilar, reparando el cabello dañado y quebradizo. El cabello recupera su brillo y vitalidad natural.
+- MODO DE EMPLEO - Desliza la pastilla varias veces por el cabello. Masajea con las manos suavemente la raíz y el cabello como lo harías habitualmente con tu champú líquido formando espuma. Acláralo con agua, comprobarás tu cabello limpio, brillante y acondicionado. En tu higiene habitual deja la pastilla al aire libre para que se seque, y si viajas usa la jabonera.
+- 99% ORIGEN NATURAL - Ingredientes orgánicos y naturales testados dermatológicamente.
+- UNA PASTILLA EQUIVALE A 3 BOTELLAS DE 300ML - Los champús sólidos de Dr. Tree proporcionan 75-90 lavados, equivalente a tres botellas de champú de 300ml.
+- ACEITE DE SEMILLAS MEADOWFOAM - Aporta antioxidantes y ácidos grasos Ω 6 y Ω 9. Además tiene un alto poder acondicionador.
+- AGENTES DE LIMPIEZA DERIVADOS DEL COCO - Limpian de forma suave y delicada. Además presenta excelentes propiedades acondicionadoras.
+- CHAMPÚ + ACONDICIONADOR NUTRITIVO - Esta especialmente formulado con agentes de limpieza derivados del coco que limpian y acondicionan el cabello en profundidad.
 
 [Visítala!!!](https://www.amazon.es/dp/B0851LQ2RG/?tag=tolees-21)

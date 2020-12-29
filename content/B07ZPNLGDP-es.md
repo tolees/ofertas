@@ -26,12 +26,12 @@ Ahora mismo tienes [Apple AirPods Pro](https://www.amazon.es/dp/B07ZPNLGDP/?tag=
 🔎:
 
 - Cancelación activa de ruido para sumergirte en lo que escuchas
-- Resistencia al sudor y al agua
-- Configuración sencilla para todos tus dispositivos apple
-- Modo de sonido ambiente para no desconectar del mundo exterior
-- Ecualización adaptativa que ajusta la música según la forma de tu oído
-- Acceso rápido a siri con solo decir «oye siri»
 - Almohadillas cónicas de silicona suave en tres tamaños para un ajuste a medida
 - Estuche de carga inalámbrica para disfrutar de más de 24 horas de autonomía
+- Modo de sonido ambiente para no desconectar del mundo exterior
+- Resistencia al sudor y al agua
+- Configuración sencilla para todos tus dispositivos apple
+- Acceso rápido a siri con solo decir «oye siri»
+- Ecualización adaptativa que ajusta la música según la forma de tu oído
 
 [Visítala!!!](https://www.amazon.es/dp/B07ZPNLGDP/?tag=tolees-21)

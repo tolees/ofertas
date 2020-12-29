@@ -25,8 +25,8 @@ Está [Asics Patriot 12  Sneaker Mens  Black/Black  41.5 EU](https://www.amazon.
 
 ℹ️:
 
-- Entresuela de EVA
 - Tapa interior del talón
+- Entresuela de EVA
 - Suela de goma sólida
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0823JH6GH/?tag=tolees-21)

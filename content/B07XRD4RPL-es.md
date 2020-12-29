@@ -25,10 +25,10 @@ Tienes [HOMCOM Máquina de Step Stepper Up-Down Máquina de Paso con 2 Reposapi�
 
 🔎:
 
-- ✅STEPPER CON MANILLAR. Ideal para ejercicios de subir-bajar escaleras, movimientos laterales y ejercicios de la parte superior del cuerpo.
-- ✅REPOSAPIÉS REGULABLES Y ANTIDESLIZANTES.
 - ✅PANTALLA LCD. Perfecta para controlar el tiempo, calorías quemadas, etc.
-- ✅MEDIDAS: 40x40x118cm (LxANxAL). Soporta un máximo de 100kg
+- ✅REPOSAPIÉS REGULABLES Y ANTIDESLIZANTES.
 - ✅BANDAS ELÁSTICAS INCORPORADAS. Ideales para trabajar pecho, espalda y brazos.
+- ✅STEPPER CON MANILLAR. Ideal para ejercicios de subir-bajar escaleras, movimientos laterales y ejercicios de la parte superior del cuerpo.
+- ✅MEDIDAS: 40x40x118cm (LxANxAL). Soporta un máximo de 100kg
 
 [Comprar!!!](https://www.amazon.es/dp/B07XRD4RPL/?tag=tolees-21)
