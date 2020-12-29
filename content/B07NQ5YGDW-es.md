@@ -26,8 +26,8 @@ Tienes [TP-Link UB400 Nano - Adaptador Bluetooth 4.0 USB Dongle para ordenador  
 ℹ️:
 
 - Nano-dimensionado: ultra-pequeño para una portabilidad conveniente con un alto rendimiento confiable
-- Compatible con windows 10 / 8.1 / 8/7 / xp
 - Bluetooth 4.0: aplica la última tecnología bluetooth 4.0 con tecnología de bajo consumo (ble) y es compatible con versiones anteriores de bluetooth v3.0 / 2.1 / 2.0 / 1.1
+- Compatible con windows 10 / 8.1 / 8/7 / xp
 - Plug and Play: no se requiere configuración (para Win 8, Win 8.1 y Win 10)
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07NQ5YGDW/?tag=tolees-21)

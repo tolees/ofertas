@@ -25,9 +25,9 @@ Tienes [Pepe Jeans Eggo PM500465 Camiseta  Negro  Black 999   Medium para Hombre
 
 ℹ️:
 
-- Logo estampado en el pecho
 - Camiseta básica para hombre
 - Fabricada en tejido suave
+- Logo estampado en el pecho
 - Manga corta
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00DGUZJ0C/?tag=tolees-21)
