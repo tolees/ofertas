@@ -25,10 +25,10 @@ Tienes [Bourjois Smokey Stories Sombra de ojos Tono 14 Tomber des nudes - 40 gr.
 
 🔎:
 
-- La fórmula prolonga la duración del color hasta 12 horas
 - Elige el grado de ahumado deseado
-- El aplicador de doble punta hace que la aplicación sea fácil
 - La textura permite obtener un acabado graduable
+- El aplicador de doble punta hace que la aplicación sea fácil
 - Paleta de 4 tonos complentarios diseñadors para crear un ahumado perfecto
+- La fórmula prolonga la duración del color hasta 12 horas
 
 [Comprar!!!](https://www.amazon.es/dp/B01N9IN99V/?tag=tolees-21)

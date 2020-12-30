@@ -25,10 +25,10 @@ Tienes [Max Factor LipFinity Classic Pintalabios Tono 335Just In Love](https://w
 
 🔎:
 
+- Labial permante de larga duración en dos pasos
+- Aplicador en forma de curva para adaptarse a la forma del labio
+- Usa el bálsamo top-coat durante el día para mantener los labios hidratados y brillantes
 - 6 Pasos: una bálsamo con color inalterable y top-coat para dar brillo a los labios
 - Color seductor e irrestible hasta 24 horas
-- Labial permante de larga duración en dos pasos
-- Usa el bálsamo top-coat durante el día para mantener los labios hidratados y brillantes
-- Aplicador en forma de curva para adaptarse a la forma del labio
 
 [Comprar!!!](https://www.amazon.es/dp/B00I98YPM4/?tag=tolees-21)

@@ -25,10 +25,10 @@ Está [Max Factor FaceFinity 3 en 1 All Day Flawless Base de Maquillaje Tono 035
 
 ℹ️:
 
-- Corrector que elimina los brillos
+- Libre de aceites con factor de protección SPF 20
+- Cobertura media-alta, acabado mate
 - Primer incorporado que proporciona una base uniforme y lisa
 - Maquillaje 3 en 1: Primer, base y corrector
-- Cobertura media-alta, acabado mate
-- Libre de aceites con factor de protección SPF 20
+- Corrector que elimina los brillos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00CD1YPZU/?tag=tolees-21)

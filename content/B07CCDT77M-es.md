@@ -26,9 +26,9 @@ Ahora mismo tienes [Rimmel London Stay Matte Liquid Lip Colour Nude Barra De Lab
 🔎:
 
 - Alto contenido en pigmentos para un mayor acabado mate aterciopelado
-- A prueba de besos y roces
-- Color intenso, mate, y semipermanente
 - Fórmula con aceite de coco y vitamina E para proteger los labios
+- A prueba de besos y roces
 - Contiene polímeros seleccionado para la adherencia óptima de la piel
+- Color intenso, mate, y semipermanente
 
 [Visítala!!!](https://www.amazon.es/dp/B07CCDT77M/?tag=tolees-21)

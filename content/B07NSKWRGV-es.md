@@ -25,9 +25,9 @@ Ahora mismo tienes [Rimmel London Wonder Luxe Volume Máscara de Pestañas Tono 
 
 🔎:
 
-- Negro intenso sin grumos
-- Volumen al instante desde la raíz a las puntas
-- Cepillo detangling para separar las pestañas
 - Pestañas visiblemente más suaves y sanas
+- Negro intenso sin grumos
+- Cepillo detangling para separar las pestañas
+- Volumen al instante desde la raíz a las puntas
 
 [Visítala!!!](https://www.amazon.es/dp/B07NSKWRGV/?tag=tolees-21)

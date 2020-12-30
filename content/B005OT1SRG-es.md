@@ -26,7 +26,7 @@ Está [Gum Soft-Picks Original  Regular / Medium - cepillos interdentales  80 pi
 ℹ️:
 
 - Enjuague bucal Cuidado personal Unisex adulto
-- Enjuague bucal Gum
 - Gum Soft Picks Regular 80U R632 (70942304559)
+- Enjuague bucal Gum
 
 [Ver la oferta!!](https://www.amazon.es/dp/B005OT1SRG/?tag=tolees-21)

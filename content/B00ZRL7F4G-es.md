@@ -25,10 +25,10 @@ Tienes [Corsair RM650i - Fuente de Alimentación  Completamente Modular  80 Plus
 
 🔎:
 
-- Condensadores japoneses preparados para funcionar a 105 °C; los componentes internos de primera calidad hacen un suministro de alimentación continuado y fiabilidad a largo plazo
 - Opciones de raíl de +12V configurables, el modo multiraíl de +12 V predeterminado o la configuración de raíl único
 - Certificación 80 PLUS Gold, funcionamiento altamente eficaz con menos calor y menores costes operativos
-- Totalmente modular, facilita los ensamblajes y actualizaciones con resultados de una limpieza y aspecto inmejorables
 - Modo de cero rpm del ventilador, funcionamiento silencioso con cargas bajas y medias
+- Totalmente modular, facilita los ensamblajes y actualizaciones con resultados de una limpieza y aspecto inmejorables
+- Condensadores japoneses preparados para funcionar a 105 °C; los componentes internos de primera calidad hacen un suministro de alimentación continuado y fiabilidad a largo plazo
 
 [Comprar!!!](https://www.amazon.es/dp/B00ZRL7F4G/?tag=tolees-21)

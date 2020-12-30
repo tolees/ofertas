@@ -25,9 +25,9 @@ Está [Walking Dead 14717 TV Negan Deluxe Figura de acción  Multicolor  25.4 cm
 
 ℹ️:
 
+- Número de modelo: 14717
+- La figura incluye bate de béisbol de alambre de púas "Lucille"
 - Figura de escala de 25,4 cm mostrada en caja de ventana temática de The Walking Dead e incluye base circular negra
 - Cuenta con una espectacular semejanza del actor Jeffery Dean Morgan y esculpido en el icónico atuendo de la temporada 7 de The Walking Dead de AMC
-- La figura incluye bate de béisbol de alambre de púas "Lucille"
-- Número de modelo: 14717
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01D65AY1U/?tag=tolees-21)

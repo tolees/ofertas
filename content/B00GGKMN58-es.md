@@ -25,13 +25,13 @@ En este momento está [Bosch V-Line Titanio - Maletín de 83 unidades para talad
 
 🔎:
 
-- Diez brocas para piedra de diámetro de 3-10 mm, con punta de metal duro resistente a la percusión para trabajos en mampostería, piedra caliza, piedra natural y piedra sintética
 - Vida útil hasta 6 veces superior, si se utiliza una refrigeración adecuada
-- Cuarenta y cinco puntasde atornillar con cabeza Phillips, Pozidriv, Torx, hexagonal y de ranura longitudinal con todos los tamaños convencionales y 6 llaves de vaso
-- Las brocas para metal con recubrimiento de nitruro de titanio se caracterizan por una vida útil larga y una elevada resistencia
-- Con un avance de perforación de hasta un 40 % superior al de otras brocas comparables pero sin recubrimiento de nitruro de titanio
-- Perforar de forma rápida y limpia en los metales más diversos, plexiglás y plásticos duros (no utilizar para aluminio)
 - Ocho brocas para madera de diámetro de 3-10 mm, con punta centradora para un inicio del taladrado en el punto exacto
 - Dos brocas fresadoras planas para perforar grandes diámetros de orificio en madera
+- Diez brocas para piedra de diámetro de 3-10 mm, con punta de metal duro resistente a la percusión para trabajos en mampostería, piedra caliza, piedra natural y piedra sintética
+- Las brocas para metal con recubrimiento de nitruro de titanio se caracterizan por una vida útil larga y una elevada resistencia
+- Cuarenta y cinco puntasde atornillar con cabeza Phillips, Pozidriv, Torx, hexagonal y de ranura longitudinal con todos los tamaños convencionales y 6 llaves de vaso
+- Con un avance de perforación de hasta un 40 % superior al de otras brocas comparables pero sin recubrimiento de nitruro de titanio
+- Perforar de forma rápida y limpia en los metales más diversos, plexiglás y plásticos duros (no utilizar para aluminio)
 
 [Aquí!!!](https://www.amazon.es/dp/B00GGKMN58/?tag=tolees-21)

@@ -25,10 +25,10 @@ Está [Rimmel London Maxi Blush Colorete Tono 4 Sweet Cheeks - 9 g](https://www.
 
 ℹ️:
 
-- Textura suave que se funde fácilmente con la piel
 - Fórmula ligera
-- Efecto recién aplicado durante todo el día
 - Larga duración
+- Textura suave que se funde fácilmente con la piel
+- Efecto recién aplicado durante todo el día
 - Colorete pigmentado para marcar el pómulo
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07D7G2D1Y/?tag=tolees-21)

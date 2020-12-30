@@ -25,10 +25,10 @@ Tienes [L Oreal Paris Dermo Expertise Hydragenius Aloe Water - Cuidado Líquido 
 
 ℹ️:
 
-- Aplicar diariamente, mañana y noche realizando movimientos circulares en el rostro y cuello
-- Rica en Aloe Vera, minerales y Ácido Hialurónico, molécula capaz de retener hasta 1000 veces su peso en agua
-- Aporta a la piel frescor, suavidad e hidratación sin dejar sensación grasa ni pegajosa
-- Resultados visibles y rápidos, piel más bella, intensa y duraderamente hidratada
 - Emulsión líquida de textura en gel concentrada en agua altamente hidratante
+- Resultados visibles y rápidos, piel más bella, intensa y duraderamente hidratada
+- Aporta a la piel frescor, suavidad e hidratación sin dejar sensación grasa ni pegajosa
+- Rica en Aloe Vera, minerales y Ácido Hialurónico, molécula capaz de retener hasta 1000 veces su peso en agua
+- Aplicar diariamente, mañana y noche realizando movimientos circulares en el rostro y cuello
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N5XFVRZ/?tag=tolees-21)
