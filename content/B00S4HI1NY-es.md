@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'My Arcade Retro Machine - 200 Juegos Vin al 39.22 % de descuento'
-date: 2020-12-27 16:43:50
+date: 2020-12-30 16:33:25
 image: 'https://m.media-amazon.com/images/I/51Pi7lymIxL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ Está [My Arcade Retro Machine - 200 Juegos Vintage  8 Bit ](https://www.amazon.
 
 ℹ️:
 
-- Juegos a color
-- Llévate tus juegos contigo! Perfecto para viajar
 - Requiere 3 pilas AA (No incluidas)
 - Juegos de deporte, puzzles, acción, etc. Encuentra el que más te guste
+- Juegos a color
+- Llévate tus juegos contigo! Perfecto para viajar
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00S4HI1NY/?tag=tolees-21)
