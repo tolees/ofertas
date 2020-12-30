@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Toy Story 4 [Blu-ray] al 42.09 % de descuento'
-date: 2020-12-29 06:10:41
+date: 2020-12-30 06:41:09
 image: 'https://m.media-amazon.com/images/I/51TjsDnP+YL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07T6JFCV2/?tag=tolees-21'
 descuento: '42.09'
-average: '13.400638297872337'
+average: '13.396122448979588'
 ---
 
 Ahora mismo tienes [Toy Story 4 [Blu-ray]](https://www.amazon.es/dp/B07T6JFCV2/?tag=tolees-21) a 13.29 EUR (original: 22.95 EUR) (42.09 %  de descuento) en el siguiente enlace!

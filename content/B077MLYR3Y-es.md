@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Smash V2 L  Zapatillas Unisex Adult con un 20.02 % de descuento'
-date: 2020-12-24 05:13:49
+date: 2020-12-30 06:51:29
 image: 'https://m.media-amazon.com/images/I/31WHjt0YcsL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077MLYR3Y/?tag=tolees-21'
 descuento: '20.02'
-average: '39.31029999999997'
+average: '39.32284313725487'
 ---
 
 En este momento está [PUMA Smash V2 L  Zapatillas Unisex Adulto  Negro Black White  36 EU](https://www.amazon.es/dp/B077MLYR3Y/?tag=tolees-21) a 39.95 EUR (original: 49.95 EUR) (20.02 %  de descuento) en el siguiente enlace!
@@ -25,7 +25,11 @@ En este momento está [PUMA Smash V2 L  Zapatillas Unisex Adulto  Negro Black Wh
 
 🔎:
 
-- Smash sneakers
-- Soft suede or leather upper
+- Altura del tacón: 3 centímetros
+- Tipo de tacón: Plano
+- Material exterior: Cuero
+- Material de la suela: Goma
+- Revestimiento: Malla
+- Cierre: Cordones
 
 [Aquí!!!](https://www.amazon.es/dp/B077MLYR3Y/?tag=tolees-21)
