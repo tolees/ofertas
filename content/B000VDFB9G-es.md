@@ -25,8 +25,8 @@ Tienes [Converse Chuck Taylor All Star Ox  Zapatillas Unisex Adulto  Azul  Navy 
 
 🔎:
 
-- La tapa de goma del dedo del pie
 - Suela exterior de caucho vulcanizado
 - Parte superior de lona
+- La tapa de goma del dedo del pie
 
 [Comprar!!!](https://www.amazon.es/dp/B000VDFB9G/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Galaxy A31 - Smartphone 6.4" Sup al 19.77 % de descuento'
-date: 2020-12-29 03:27:41
+date: 2020-12-30 03:46:21
 image: 'https://m.media-amazon.com/images/I/31ac3zelphL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08GPC6LNW/?tag=tolees-21'
 descuento: '19.77'
-average: '218.18115384615388'
+average: '218.98555555555558'
 ---
 
 Está [Samsung Galaxy A31 - Smartphone 6.4" Super AMOLED  teléfono 4GB RAM  128GB ROM   Color Negro [Versión española]](https://www.amazon.es/dp/B08GPC6LNW/?tag=tolees-21) con 19.77 de descuento por 239.9 EUR (original: 299.0 EUR) en el siguiente enlace!
@@ -25,9 +25,9 @@ Está [Samsung Galaxy A31 - Smartphone 6.4" Super AMOLED  teléfono 4GB RAM  128
 
 ℹ️:
 
-- Pantalla del móvil - Super AMOLED infinity-U, con 6.4 pulgadas con FHD+
 - Cámara del móvil - cámara principal de 48MP, cámara ultra gran angular de 8MP y cámara de profundidad de 5MP
 - Batería del smartphone - 5.000 mAh con carga rápida de 15kW
+- Pantalla del móvil - Super AMOLED infinity-U, con 6.4 pulgadas con FHD+
 - Consigue aún más espacio. Memoria ampliable a 512 GB con tarjeta Micro SD
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08GPC6LNW/?tag=tolees-21)
