@@ -25,9 +25,9 @@ Tienes [Mascarilla ffp2 con marcado CE según Norma Europea EN 149:2001+A1:2009
 
 🔎:
 
-- Con doble protección, tanto para el portador de la mascarilla como para las personas del entorno. Fabricación de 5 capas y acabado termosellado, incluyendo arneses de fijación, pinza adaptable en nariz para un firme ajuste y ajustador. Presentada en bolsa individual, con manual de instrucciones en español e inglés.
-- Catalogada como EPI (Equipo de Protección Individual) según la Norma Europea EN 149:2001+A1:2009 por organismo notificado nº. 2834, con marcado CE.
 - SE SUMINISTRAN EN EMBALAJE INDIVIDUAL. Mascarilla autofiltrante de protección y seguridad FFP2.
 - Eficacia mínima de filtración ≥ 94%. Modelo desechable, no reutilizable. No contiene Látex. 5 Capas. 50% Non-Woven (2 Capas)/ 50% Meltblown (3 Capas)
+- Con doble protección, tanto para el portador de la mascarilla como para las personas del entorno. Fabricación de 5 capas y acabado termosellado, incluyendo arneses de fijación, pinza adaptable en nariz para un firme ajuste y ajustador. Presentada en bolsa individual, con manual de instrucciones en español e inglés.
+- Catalogada como EPI (Equipo de Protección Individual) según la Norma Europea EN 149:2001+A1:2009 por organismo notificado nº. 2834, con marcado CE.
 
 [Comprar!!!](https://www.amazon.es/dp/B08MH79PNM/?tag=tolees-21)
