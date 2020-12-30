@@ -25,10 +25,10 @@ Está [JACK & JONES JACCOLOMBIA Tie Noos Corbata  Azul  Dark Navy Detail:Solid  
 
 ℹ️:
 
-- Forro estampado
 - Pajarita de estilo actual con sutil estampado
-- Corbata
 - 152 x 3,5 cm (parte superior) 7cm (inferior)
 - Confección con seda de calidad superior
+- Forro estampado
+- Corbata
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0711ZBFGP/?tag=tolees-21)

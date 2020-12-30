@@ -25,12 +25,12 @@ En este momento está [OPERACION TRIUNFO Karaoke  Negro con Luces led  41656 ](h
 
 🔎:
 
-- Podrás cantar las canciones que más te gusten gracias al reproductor mp3 y gráfico
 - Las luces led cambian al ritmo de la música
-- Podrás cantar canciones a duo, ya que admite conectar dos micrófonos con control de volumen por separado
-- Podrás llevártelo a cualquier parte gracias a su mini tamaño y su conexión por cable o pilas
-- Incluye múltiples conectores para que puedas cantar a través de tu mp3, smartphone, tablet o conectándolo a la tv u otros dispositivos de audio (incluye salida rca)
 - Canta las canciones que más te gusten e imita a tus ídolos de operación triunfo
+- Podrás cantar canciones a duo, ya que admite conectar dos micrófonos con control de volumen por separado
+- Incluye múltiples conectores para que puedas cantar a través de tu mp3, smartphone, tablet o conectándolo a la tv u otros dispositivos de audio (incluye salida rca)
+- Podrás llevártelo a cualquier parte gracias a su mini tamaño y su conexión por cable o pilas
 - Diviértete con los seis efectos de voz que incorpora
+- Podrás cantar las canciones que más te gusten gracias al reproductor mp3 y gráfico
 
 [Aquí!!!](https://www.amazon.es/dp/B07DD6VKC8/?tag=tolees-21)

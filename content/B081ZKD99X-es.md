@@ -25,10 +25,10 @@ Tienes [Edge Entertainment- Zombicide Invader - Dark Side - Español  Color  EEC
 
 🔎:
 
-- Nosotros somos el Escuadrón Verde, una unidad de soldados de élite atrapada en las minas de xenio de PK-L7; la horda de xenos se alza desde las profundidades, están ansiosos por llegar a la superficie y destruir todo a su paso
-- Pero algo fue mal; pK-L7, el único punto de extracción de xenio, fue invadido; los xenos, una especie alienígena, se volvieron locos y se convirtieron en máquinas de matar
-- Estamos en una era de viajes espaciales y nuevos descubrimientos; la humanidad está preparada para sobrepasar nuevas fronteras gracias al xenio, un combustible revolucionario que permite a las naves espaciales llegar más lejos y a mayor velocidad
 - Somos pocos, pero estamos decididos a detenerlos a toda costa; es hora de…
 - Zombicide Invaders: Dark Side
+- Pero algo fue mal; pK-L7, el único punto de extracción de xenio, fue invadido; los xenos, una especie alienígena, se volvieron locos y se convirtieron en máquinas de matar
+- Estamos en una era de viajes espaciales y nuevos descubrimientos; la humanidad está preparada para sobrepasar nuevas fronteras gracias al xenio, un combustible revolucionario que permite a las naves espaciales llegar más lejos y a mayor velocidad
+- Nosotros somos el Escuadrón Verde, una unidad de soldados de élite atrapada en las minas de xenio de PK-L7; la horda de xenos se alza desde las profundidades, están ansiosos por llegar a la superficie y destruir todo a su paso
 
 [Comprar!!!](https://www.amazon.es/dp/B081ZKD99X/?tag=tolees-21)

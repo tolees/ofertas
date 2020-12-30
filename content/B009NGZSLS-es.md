@@ -25,8 +25,8 @@ Tienes [Tesa 948882 - Tiras adhesivas  doble cara  10 unidades](https://www.amaz
 
 🔎:
 
-- Ref - 948882
-- Tiras adhesivas doble cara 10 unidades - Tesa
 - Marca - Tesa
+- Tiras adhesivas doble cara 10 unidades - Tesa
+- Ref - 948882
 
 [Comprar!!!](https://www.amazon.es/dp/B009NGZSLS/?tag=tolees-21)

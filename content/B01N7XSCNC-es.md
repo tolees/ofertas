@@ -25,10 +25,10 @@ Ahora mismo tienes [Kit Primeiros Socorros para a empresa  segundo a informaçao
 
 🔎:
 
+- Agrupados na Europa. Todos os produtos estão em conformidade com os regulamentos da CE.
+- 12 compartimentos em seu interior extensível para facilitar a distribuição do material.
 - Conteúdo do kit segundo a informação técnica de 2/2010
 - Abrindo e fechando com zip externo
 - Kit de primeiros socorros equipado com vários itens essenciais para fazer as primeiras curas em caso de emergência.
-- Agrupados na Europa. Todos os produtos estão em conformidade com os regulamentos da CE.
-- 12 compartimentos em seu interior extensível para facilitar a distribuição do material.
 
 [Visítala!!!](https://www.amazon.es/dp/B01N7XSCNC/?tag=tolees-21)

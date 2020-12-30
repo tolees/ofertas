@@ -25,7 +25,7 @@ Tienes [G-STAR RAW 3301 Slim Fit Vaqueros  Medium Aged 9118-071  35W / 30L para 
 
 🔎:
 
-- Estos jeans básicos, reducidos a su forma más pura, combinan detalles originales con un estilo limpio. Presentan un cierre de cremallera.
 - Los G-Star 3301 presentan un estilo neutro y la clásica construcción con cinco bolsillos.
+- Estos jeans básicos, reducidos a su forma más pura, combinan detalles originales con un estilo limpio. Presentan un cierre de cremallera.
 
 [Comprar!!!](https://www.amazon.es/dp/B075LRNN9G/?tag=tolees-21)

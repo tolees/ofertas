@@ -25,10 +25,10 @@ Ahora mismo tienes [Becoyou Amplificador de voz  Amplificador de voz Portatil Re
 
 🔎:
 
-- 【Conveniente】:Puedes usar el clip trasero para fijarlo en tu cinturón o bolsillo y también puedes usar cinturón para atarlo alrededor de tu cintura.
 - 【El paquete incluye】: Micrófono con cable + micrófono lavalier + cable de carga + cordón para cinturón.Tamaño de la palma:95 x 85 x 30mm. Ligero y fácil de llevar.
-- 【Amplificador con Dos Micrófono】:Micrófono de diadema con cable y micrófono lavalier.Micrófono de diadema con cable más resistente a interferencias, mayor distancia de transmisión y mejor experiencia auditiva.
 - 【2200mAh recargable amplificador】:Amplificador voz portatil inalambrico incorpora una batería de litio 2200mAh y se puede utilizar de forma continua durante aproximadamente 18-20 horas.
+- 【Amplificador con Dos Micrófono】:Micrófono de diadema con cable y micrófono lavalier.Micrófono de diadema con cable más resistente a interferencias, mayor distancia de transmisión y mejor experiencia auditiva.
 - 【Admite reproducción de música】:El amplificador de voz portatil Soporte tarjeta de TF (Micro SD) y flash USB. Puede repetir single, repetir toda la música e intercambiar canciones.
+- 【Conveniente】:Puedes usar el clip trasero para fijarlo en tu cinturón o bolsillo y también puedes usar cinturón para atarlo alrededor de tu cintura.
 
 [Visítala!!!](https://www.amazon.es/dp/B08LH7H57G/?tag=tolees-21)

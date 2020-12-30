@@ -25,8 +25,8 @@ En este momento está [Bandai Hobby Thousand Sunny Model Ship One Piece New Worl
 
 🔎:
 
-- Puede ensamblarse sin necesidad de pegamento ni necesita ser pintado
 - Mide 30 cm largo
+- Puede ensamblarse sin necesidad de pegamento ni necesita ser pintado
 - Model kit para montar el barco Thousand Sunny
 
 [Aquí!!!](https://www.amazon.es/dp/B005JABN8Y/?tag=tolees-21)

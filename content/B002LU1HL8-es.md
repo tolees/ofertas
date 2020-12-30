@@ -25,9 +25,9 @@ En este momento está [Lacoste L1212 Camiseta Polo  Azul  Marine   XS para Hombr
 
 🔎:
 
+- Botones de nácar
+- Bajo recto con aberturas laterales
 - Cuello y bordes de las mangas acanalados
 - Cocodrilo bordado en el pecho
-- Bajo recto con aberturas laterales
-- Botones de nácar
 
 [Aquí!!!](https://www.amazon.es/dp/B002LU1HL8/?tag=tolees-21)

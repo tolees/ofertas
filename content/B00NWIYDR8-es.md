@@ -25,8 +25,8 @@ En este momento está [Eastpak Oval Single Estuche  22 Cm  Gris  Black Denim ](h
 
 🔎:
 
-- Compartimento único para tener todo a mano
 - Altura: 5 cm, Ancho: 22 cm, Fondo: 9 cm
 - Fabricado con 60 % nylon y 40 % poliéster
+- Compartimento único para tener todo a mano
 
 [Aquí!!!](https://www.amazon.es/dp/B00NWIYDR8/?tag=tolees-21)

@@ -25,10 +25,10 @@ Está [PANTONE GP6102A - Puente de color con guía  revestido y sin revestimient
 
 ℹ️:
 
-- 2135 colores en total sobre cubiertas de mano que proporcionan referencia sobre la marcha.
-- Colour Bridge es la única herramienta PANTONE que ofrece valores CMYK, HTML y RGB para los colores PANTONE
-- La página indicadora de iluminación muestra cuando las condiciones de iluminación son adecuadas para la evaluación del color.
 - Uso para diseño digital, animación y embalaje cuando se requiere impresión de procesos CMYK
+- 2135 colores en total sobre cubiertas de mano que proporcionan referencia sobre la marcha.
+- La página indicadora de iluminación muestra cuando las condiciones de iluminación son adecuadas para la evaluación del color.
 - Colores dispuestos en formato cromático, con índice en la parte posterior de las guías proporciona la ubicación numérica para cada color.
+- Colour Bridge es la única herramienta PANTONE que ofrece valores CMYK, HTML y RGB para los colores PANTONE
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07WYL29M1/?tag=tolees-21)
