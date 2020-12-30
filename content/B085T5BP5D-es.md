@@ -25,8 +25,8 @@ Tienes [KATOOM 2020 Graduación Banner Graduate Celebration Bunting Garland Grad
 
 ℹ️:
 
-- Widely Usage :Great way to celebrate graduation party with this grad pennant flags.You can hanging it on wall,over the door or window,above the table and any other place,perfect outdoor or indoor wall decoration.
 - Graduation Party Decor :Party Decorations Includes 1pc graduation banner,15 pcs latex balloon in 3 different color.The banner And balloon all prite 2020 or doctoral hat pattern on it.
+- Widely Usage :Great way to celebrate graduation party with this grad pennant flags.You can hanging it on wall,over the door or window,above the table and any other place,perfect outdoor or indoor wall decoration.
 - Special Design :Using the popular swallowtail cardboard design,with the classic black and gold,good accessory set create party atmosphere,bringing more fun and joy to everyone.
 - Party Photo Props :More than a decorative banner,also a perfect backdrop and props for your photos.As an amazing photo props for high school,college graduate or themed party,leave a special memory for those occasions.
 - Simple and Convenient :This banner is pre-assembled by 3 meters ribbon,easy and quick to put all the flags together.Ribbon is long enough,you can tie it off easier wherever you like,balloon quantity also meet your need.

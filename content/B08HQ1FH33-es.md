@@ -25,10 +25,10 @@ En este momento está [IMC Toys- Laffies Happy Babies Greta Y Snaffy  93362 ](ht
 
 🔎:
 
-- Las Laffies son las muñecas interactivas que se ríen como los bebés de verdad y tienen expresiones faciales reales
 - Cuando encuentres el punto que las hace reír, podrás tocarlo hasta 3 veces y se reirán más y más… pero después, cambiará de forma aleatoria y…tendrás que volver a buscarlo
-- Llevan un chupete, la bata del cole, y su juguete interactivo favorito; interactúan entre ellas. Lloran y ríen todas juntas
 - Descárgate la app de Laffies, conéctala con tu muñeca y… diviértete todavía más
+- Llevan un chupete, la bata del cole, y su juguete interactivo favorito; interactúan entre ellas. Lloran y ríen todas juntas
 - Encuentra cuál de los 5 puntos las hace reír: su barriga, su oreja, su culito, su nariz o cuando les acerques su juguete; si les tocas el punto equivocado… se ponen tristes! Pero si lo encuentras… no pararán de reír
+- Las Laffies son las muñecas interactivas que se ríen como los bebés de verdad y tienen expresiones faciales reales
 
 [Aquí!!!](https://www.amazon.es/dp/B08HQ1FH33/?tag=tolees-21)

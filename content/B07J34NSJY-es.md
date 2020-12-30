@@ -25,10 +25,10 @@ Tienes [Moleskine - Cuaderno Clásico con Páginas Cuadriculada  Tapa Dura y Gom
 
 🔎:
 
-- Ivory-colored paper, acid-free, calibrated to meet all your creative needs and adapt to all the tools for writing and for art
-- Classic design with hard cover, elastic closure and a matching bookmark ribbon takes you straight to the right page every time. Expandable back pocket for storing items like tickets or souvenirs
-- Classic notebook with colored cover, rounded corners and squared pages. In case of loss notice printed on the flyleaf
 - Lies flat and opens at 180°. Reusable paperband that also features additional printed tools. The history of Moleskine is printed within all our produts
+- Classic design with hard cover, elastic closure and a matching bookmark ribbon takes you straight to the right page every time. Expandable back pocket for storing items like tickets or souvenirs
 - Bring this notepad always with you in your bag or backpack. Take notes, write down your to-do list and tick off all your days tasks
+- Classic notebook with colored cover, rounded corners and squared pages. In case of loss notice printed on the flyleaf
+- Ivory-colored paper, acid-free, calibrated to meet all your creative needs and adapt to all the tools for writing and for art
 
 [Comprar!!!](https://www.amazon.es/dp/B07J34NSJY/?tag=tolees-21)

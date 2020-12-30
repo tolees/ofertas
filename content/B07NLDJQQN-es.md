@@ -25,9 +25,9 @@ Ahora mismo tienes [Nike Wmns Court Vision Low  Zapatillas de Baloncesto Mujer  
 
 🔎:
 
-- Plantilla ligeramente acolchada.
-- Suela de goma de tracción.
 - Marca: Nike.
 - Cómodo de llevar.
+- Plantilla ligeramente acolchada.
+- Suela de goma de tracción.
 
 [Visítala!!!](https://www.amazon.es/dp/B07NLDJQQN/?tag=tolees-21)

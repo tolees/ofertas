@@ -25,7 +25,7 @@ En este momento está [Los Sims 4 - Las Cuatro Estaciones DLC | Código Origin p
 
 🔎:
 
-- Experimenta el impacto de las estaciones: disfruta de cuatro estaciones y de condiciones meteorológicas que cambian de forma dinámica y afectan a la vida de tus Sims.
 - La promoción del juego de base de Los Sims 4 de regalo sólo se puede canjear una vez por cada consumidor final.
+- Experimenta el impacto de las estaciones: disfruta de cuatro estaciones y de condiciones meteorológicas que cambian de forma dinámica y afectan a la vida de tus Sims.
 
 [Aquí!!!](https://www.amazon.es/dp/B07NC6H4R3/?tag=tolees-21)

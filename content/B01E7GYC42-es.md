@@ -25,11 +25,11 @@ Ahora mismo tienes [Blindecor Lira Estor Enrollable de Doble Capa  Noche y Día 
 
 🔎:
 
-- Más abajo encontrarás modelos de ventanas compatibles con este estor; óptimas para todo tipo de estancias (Habitaciones, Salas de estar, Salones, Oficinas)
-- Instalación a pared o techo con los mismos enganches; mecanismo y cadena de PVC en color blanco
-- Doble tejido Noche y Día 100% poliéster; producto premontado sobre perfil de aluminio, de fácil instalación
 - Nota: El ancho del producto (incluido soportes) es de 140 cm; el tejido mide 137 cm de ancho, el largo del producto abierto completamente más el mecanismo mide 180 cm, solo el tejido mide 175 cm
-- ANTI-DESHILACHADO: Contiene discos de protección del tejido a los lados para evitar el deshilachamiento; fácil limpieza con un trapo húmedo
+- Doble tejido Noche y Día 100% poliéster; producto premontado sobre perfil de aluminio, de fácil instalación
 - Regulación de altura y de entrada de luz mediante mecanismo de cadena con seguridad infantil
+- Instalación a pared o techo con los mismos enganches; mecanismo y cadena de PVC en color blanco
+- Más abajo encontrarás modelos de ventanas compatibles con este estor; óptimas para todo tipo de estancias (Habitaciones, Salas de estar, Salones, Oficinas)
+- ANTI-DESHILACHADO: Contiene discos de protección del tejido a los lados para evitar el deshilachamiento; fácil limpieza con un trapo húmedo
 
 [Visítala!!!](https://www.amazon.es/dp/B01E7GYC42/?tag=tolees-21)

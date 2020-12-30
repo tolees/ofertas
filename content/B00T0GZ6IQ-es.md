@@ -25,10 +25,10 @@ Está [Kaiyodo Evangelion 2.0: LR-036 Tipo 02 Prototype Figura](https://www.amaz
 
 ℹ️:
 
-- La figura mide más de 1,5 cm de altura.
+- Múltiples puntos de articulación.
 - Una importación Kaiyodo
 - Soporte de pantalla incluido.
 - De la clásica anime
-- Múltiples puntos de articulación.
+- La figura mide más de 1,5 cm de altura.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00T0GZ6IQ/?tag=tolees-21)

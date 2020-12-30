@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BaBylissMEN Barbero profesional T890E Re al 30.91 % de descuento'
-date: 2020-12-28 17:15:16
+date: 2020-12-30 13:48:27
 image: 'https://m.media-amazon.com/images/I/41kQ6MeXJnL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ Ahora mismo tienes [BaBylissMEN Barbero profesional T890E Recortadora de barba c
 
 🔎:
 
-- Batería de Litio: Uso Con/Sin cable con 120 min de autonomía en 2h de carga; Carga rápida 20 min.
 - Estuche de almacenamiento, cepillo de limpieza y aceite lubricante incluido.
 - Cuchillas de Acero japonés extra afiladas de 34 mm para mayor precisión. Lavables bajo el grifo.
 - Guía de corte con 24 longitudes desde 0,5 hasta 12 mm con incrementos de 0,5mm.
+- Batería de Litio: Uso Con/Sin cable con 120 min de autonomía en 2h de carga; Carga rápida 20 min.
 
 [Visítala!!!](https://www.amazon.es/dp/B084QZ2RSM/?tag=tolees-21)

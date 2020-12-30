@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance Hombre 574v2-core Trainers Z al 40.00 % de descuento'
-date: 2020-12-29 08:21:23
+date: 2020-12-30 13:09:26
 image: 'https://m.media-amazon.com/images/I/41vmanq4rNL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,7 +25,7 @@ Ahora mismo tienes [New Balance Hombre 574v2-core Trainers Zapatillas  Rojo  Bur
 
 🔎:
 
-- Revestimiento: Tela
 - Material exterior: Cuero
+- Revestimiento: Tela
 
 [Visítala!!!](https://www.amazon.es/dp/B06Y2WSJJQ/?tag=tolees-21)

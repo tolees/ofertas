@@ -25,7 +25,7 @@ Está [Los Sims 4 - A Trabajar DLC | Código Origin para PC PLUS Los Sims 4 Los 
 
 ℹ️:
 
-- Abre cualquier tipo de tienda que te guste: panaderías, tiendas de ropa, galerías de arte, librerías o lo que se te ocurra.
 - La promoción del juego de base de Los Sims 4 de regalo sólo se puede canjear una vez por cada consumidor final.
+- Abre cualquier tipo de tienda que te guste: panaderías, tiendas de ropa, galerías de arte, librerías o lo que se te ocurra.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07NC6TMGY/?tag=tolees-21)

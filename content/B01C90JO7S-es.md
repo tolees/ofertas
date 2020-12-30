@@ -25,7 +25,7 @@ Ahora mismo tienes [Dyson Pure Cool Link - Ventilador purificador de torre  56 W
 
 🔎:
 
-- Dyson.
 - Ventilador de refrigeración.
+- Dyson.
 
 [Visítala!!!](https://www.amazon.es/dp/B01C90JO7S/?tag=tolees-21)

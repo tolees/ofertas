@@ -26,8 +26,8 @@ Ahora mismo tienes [Pop! Figura De Vinil: Animation: Simpsons - Bart Fly](https:
 🔎:
 
 - El artículo es adecuado para todos los fanáticos de The Simpsons
+- Figura de colección de la marca Funko
 - El producto se envía en una caja ilustrada con ventana
 - Recomendado para niños a partir de 3 años
-- Figura de colección de la marca Funko
 
 [Visítala!!!](https://www.amazon.es/dp/B07PY97ZR7/?tag=tolees-21)

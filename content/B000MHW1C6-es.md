@@ -25,8 +25,8 @@ Está [Intenso 4311142 - Pack de 10 DVD+R  8x  8.5 GB](https://www.amazon.es/dp/
 
 ℹ️:
 
+- Soportes muy seguros, una vez que se ha escrito en ellos, la información no puede borrarse ni sobrescribirse
 - DVD +R 8.5 GB 8x
 - Gran capacidad de almacenamiento
-- Soportes muy seguros, una vez que se ha escrito en ellos, la información no puede borrarse ni sobrescribirse
 
 [Ver la oferta!!](https://www.amazon.es/dp/B000MHW1C6/?tag=tolees-21)

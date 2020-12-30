@@ -25,10 +25,10 @@ Ahora mismo tienes [New Balance 373 Core  Zapatillas Bajas Hombre  Negro  Black 
 
 🔎:
 
+- Material de la suela: goma
+- Material exterior: material sintético
+- Cierre: cordones
 - Estilo: zapatillas de running
 - Material interior: tela
-- Material de la suela: goma
-- Cierre: cordones
-- Material exterior: material sintético
 
 [Visítala!!!](https://www.amazon.es/dp/B01M2WBMCK/?tag=tolees-21)

@@ -25,10 +25,10 @@ Está [Western Digital My Cloud Home Duo  Disco Duro Externo  LAN 3.5"  USB 3.0 
 
 ℹ️:
 
-- Configuración sencilla y rápida desde el teléfono
-- Con el modo de duplicación todo se guarda dos veces automáticamente
+- Un solo sitio centralizado para almacenar todas sus fotos, vídeos, música y archivos
 - Acceso desde cualquier lugar con la aplicación para móviles o para ordenadores de My Cloud Home, o bien desde MyCloud.com
 - Copia de seguridad automática de las fotos y los vídeos del teléfono
-- Un solo sitio centralizado para almacenar todas sus fotos, vídeos, música y archivos
+- Con el modo de duplicación todo se guarda dos veces automáticamente
+- Configuración sencilla y rápida desde el teléfono
 
 [Ver la oferta!!](https://www.amazon.es/dp/B074DYGH76/?tag=tolees-21)

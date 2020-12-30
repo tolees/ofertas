@@ -25,10 +25,10 @@ En este momento está [Caso Comfort C2000 Placa de inducción portátil  2000 W 
 
 🔎:
 
-- Keep-warm, mantiene su comida a unos 60°c caliente  control parental
 - Temperatura regulable de 60°c a 200°c función booster: 30 seg; máx; potencía (2000w); después se regula automáticamente a la selección elegida anteriormente (pej 80 c° )
-- Panel de control touchpad con gran pantalla digital.  10 niveles de potencía
-- Temporizador de 1 a 180 minutos.  superficie cristal cerámico.  limpieza fácil y sencilla
 - Placa portátil de inducción individual de 2000w
+- Temporizador de 1 a 180 minutos.  superficie cristal cerámico.  limpieza fácil y sencilla
+- Panel de control touchpad con gran pantalla digital.  10 niveles de potencía
+- Keep-warm, mantiene su comida a unos 60°c caliente  control parental
 
 [Aquí!!!](https://www.amazon.es/dp/B017A8CKBQ/?tag=tolees-21)

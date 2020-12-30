@@ -25,10 +25,10 @@ En este momento está [Death Stranding - Edición Estandar](https://www.amazon.e
 
 🔎:
 
-- Es un videojuego de acción mundial abierta
 - Tipo de producto: videojuego
+- Es un videojuego de acción mundial abierta
+- Incluye funciones multijugador
 - Plataforma del juego: PlayStation 4
 - El título del juego es una referencia al fenómeno de encallamiento de cetáceos
-- Incluye funciones multijugador
 
 [Aquí!!!](https://www.amazon.es/dp/B07TC26VY8/?tag=tolees-21)

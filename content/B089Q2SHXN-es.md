@@ -25,10 +25,10 @@ Ahora mismo tienes [HOMCOM Gabinete de Archivos Móvil con 2 Cajones Armario par
 
 🔎:
 
+- ✅5 RUEDAS: Las ruedas hacen que mover este archivador sea sumamente sencillo, además, gracias a que sus 3 ruedas delanteras están provistas de freno, siempre podrás dejarlo fijo y resulta muy estable.
 - ✅CAJONES CON LLAVE: se pueden bloquear los dos cajones simultáneamente mediante la cerradura del cajón superior.
 - ✅ARMARIO ARCHIVADOR PARA OFICINA: perfecto para mantener seguros tus artículos y documentos de oficina. Su diseño simple y moderno se adapta a cualquier despacho u oficina.
 - ✅MEDIDAS: 40x45,5x52,5 cm (LxAnxAl).
-- ✅5 RUEDAS: Las ruedas hacen que mover este archivador sea sumamente sencillo, además, gracias a que sus 3 ruedas delanteras están provistas de freno, siempre podrás dejarlo fijo y resulta muy estable.
 - ✅GRAN ESPACIO DE ALMACENAJE Y FUNCIONALIDAD: la apertura suave de los cajones hace que sea muy cómodo aprovechar su amplio espacio. El cajón inferior está diseñado para que puedas colgar carpetas tamaño A4.
 
 [Visítala!!!](https://www.amazon.es/dp/B089Q2SHXN/?tag=tolees-21)

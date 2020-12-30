@@ -25,10 +25,10 @@ Tienes [Los Sims 4 - Días de Universidad [Expension Pack 8] Standard | Código 
 
 ℹ️:
 
-- La promoción del juego de base de Los Sims 4 de regalo sólo se puede canjear una vez por cada consumidor final.
-- Aborda las clases con clase
 - Expresa tu estilo estudiantil
-- Establécete como estudiante
 - Relaciónate y explora
+- Aborda las clases con clase
+- Establécete como estudiante
+- La promoción del juego de base de Los Sims 4 de regalo sólo se puede canjear una vez por cada consumidor final.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07ZQN6CG5/?tag=tolees-21)

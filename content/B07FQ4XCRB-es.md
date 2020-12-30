@@ -25,11 +25,11 @@ Tienes [Kindle  ahora con luz frontal integrada  blanco](https://www.amazon.es/d
 
 🔎:
 
-- Elige entre millones de libros. Tiene capacidad para miles de títulos, así que siempre podrás llevar tu biblioteca contigo.
-- Una sola carga y la batería dura semanas, no horas.
-- Lee sin distracciones. Subraya pasajes, busca definiciones, traduce palabras o ajusta el tamaño del texto: todo ello sin abandonar la página que estás leyendo.
-- La luz integrada regulable te permite leer durante horas dentro y fuera de casa, tanto de día como de noche.
 - Diseñado para la lectura: dispone de una pantalla de 167 ppp y alto contraste en la que se lee como en papel impreso, sin ningún reflejo, incluso bajo la luz del sol.
 - Los miembros Prime tienen acceso a cientos de libros.
+- Elige entre millones de libros. Tiene capacidad para miles de títulos, así que siempre podrás llevar tu biblioteca contigo.
+- La luz integrada regulable te permite leer durante horas dentro y fuera de casa, tanto de día como de noche.
+- Una sola carga y la batería dura semanas, no horas.
+- Lee sin distracciones. Subraya pasajes, busca definiciones, traduce palabras o ajusta el tamaño del texto: todo ello sin abandonar la página que estás leyendo.
 
 [Comprar!!!](https://www.amazon.es/dp/B07FQ4XCRB/?tag=tolees-21)

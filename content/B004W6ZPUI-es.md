@@ -25,11 +25,11 @@ Está [BaByliss 8438E Espejo de maquillaje de doble cara con X1 y X8 aumentos  c
 
 ℹ️:
 
-- Botón de encendido y apagado
 - Diámetro: 20,5 cm
-- Marco con movimiento para inclinar el espejo
-- Un lado de ampliación 8x y lado normal
 - La iluminación (2x20W) con 3 colores: luz fría, simula la iluminación de neón; iluminación cálida, simula la iluminación convencional dentro de una habitación; iluminación neutral, simula la luz del día
+- Botón de encendido y apagado
+- Un lado de ampliación 8x y lado normal
+- Marco con movimiento para inclinar el espejo
 - Halo circular de iluminación perfecto para cara y cuello
 
 [Ver la oferta!!](https://www.amazon.es/dp/B004W6ZPUI/?tag=tolees-21)
