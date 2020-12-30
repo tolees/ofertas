@@ -25,10 +25,10 @@ En este momento está [L Oreal Paris Make-up Designer Bambi Eye  Máscara de Pes
 
 🔎:
 
-- Mirada con más volumen en cada pasada
 - Pestañas desplegadas, curvas y flexibles
+- Mirada con más volumen en cada pasada
 - Consigue el efecto Bambi Eye en tus pestañas y luce una mirada ultra amplia al instante
-- Aplicar realizando zig-zags para facilitar la separación de las pestañas
 - Su cepillo ovalado con filamentos cortos permite llegar a todas las pestañas de una pasada, incluso a las más pequeñas
+- Aplicar realizando zig-zags para facilitar la separación de las pestañas
 
 [Aquí!!!](https://www.amazon.es/dp/B07VKYBKP3/?tag=tolees-21)

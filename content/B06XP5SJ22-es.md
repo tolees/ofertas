@@ -25,8 +25,8 @@ Ahora mismo tienes [Farpoint - Edición Estándar](https://www.amazon.es/dp/B06X
 
 🔎:
 
-- Narrativa inversiva en VR
 - Aventura, exploración y supervivencia (combate) en primera persona
+- Narrativa inversiva en VR
 - Sonido envolvente
 
 [Visítala!!!](https://www.amazon.es/dp/B06XP5SJ22/?tag=tolees-21)

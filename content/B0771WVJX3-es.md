@@ -25,10 +25,10 @@ En este momento está [Philips QP6620/30 OneBlade Pro Cara y Cuerpo - Recortador
 
 🔎:
 
-- Batería de iones de litio de 90 minutos
-- El peine-guía de precisión tiene 14 posiciones de longitud (de 0,4 a 10 mm)
-- Recorta, perfila y afeita cualquier longitud de pelo y crea líneas precisas y definidas con la cuchilla de doble cara
 - Incluye una hoja para el cuerpo con un protector para la piel y las zonas sensibles; ya no tendrás que utilizar varios productos, OneBlade se encarga de todo
+- Batería de iones de litio de 90 minutos
+- Recorta, perfila y afeita cualquier longitud de pelo y crea líneas precisas y definidas con la cuchilla de doble cara
+- El peine-guía de precisión tiene 14 posiciones de longitud (de 0,4 a 10 mm)
 - Incluye: peine-guía con 14 longitudes (0.4 - 10 mm), protector para la piel, peine-guía para el cuerpo, cuchilla de recambio adicional, soporte de carga, funda de viaje
 - Uso en seco o en húmedo, incluso en la ducha
 

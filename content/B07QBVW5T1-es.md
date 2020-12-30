@@ -25,11 +25,11 @@ Está [Lékué Botella Vidrio con Funda de Silicona y Filtro para Agua  Gris  50
 
 ℹ️:
 
-- Filtrado al instante; el diseño de la botella y la calidad del filtro permiten filtrar al instante rellenando por completo toda la botella (600ml sin filtro); mejor sabor durante 30 días (150l)
 - Filtro hecho de carbón activado de cascarás de coco 100% natural
-- Capacidad para 500 ml (con filtro)
-- Vidrio de alta calidad (borosilicato)
 - Asa integrada en el tapón para un mejor transporte y comodidad; imperdible
 - Reduce el consumo de 150 botellas de 1l de plástico. (1 filtro = 150l)
+- Filtrado al instante; el diseño de la botella y la calidad del filtro permiten filtrar al instante rellenando por completo toda la botella (600ml sin filtro); mejor sabor durante 30 días (150l)
+- Vidrio de alta calidad (borosilicato)
+- Capacidad para 500 ml (con filtro)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07QBVW5T1/?tag=tolees-21)

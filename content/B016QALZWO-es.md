@@ -26,9 +26,9 @@ Está [adidas Parma 16 Intenso Pantalones Cortos para Fútbol  Hombre  Negro/Bla
 ℹ️:
 
 - El material suave garantiza un ajuste cómodo
+- Cintura elástica de goma con cordón interior para un ajuste individual
 - Logotipo de Adidas bordado en la pierna izquierda
 - Tecnología Climalite para una excelente gestión de la humedad
 - Logotipo Climalite impreso en la parte posterior derecha superior
-- Cintura elástica de goma con cordón interior para un ajuste individual
 
 [Ver la oferta!!](https://www.amazon.es/dp/B016QALZWO/?tag=tolees-21)

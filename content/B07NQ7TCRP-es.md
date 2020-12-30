@@ -25,10 +25,10 @@ Ahora mismo tienes [Pop! Vinilo: Star Wars: C-3PO on Throne](https://www.amazon.
 
 🔎:
 
-- Juguete del año 2018
 - De la colección star wars, c-3po como figura de vinilo pop de funko
-- C-3PO on Throne
 - Movie moments: star wars
+- Juguete del año 2018
 - Funko pop vinyl
+- C-3PO on Throne
 
 [Visítala!!!](https://www.amazon.es/dp/B07NQ7TCRP/?tag=tolees-21)

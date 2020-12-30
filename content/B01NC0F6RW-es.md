@@ -25,10 +25,10 @@ Está [Cecotec Robot de Cocina Multifunción IronMix. Capacidad de 3 3l  Tempera
 
 ℹ️:
 
-- Motor AC de 1000 W +500 W de potencia calorífica. Security Check System: dispositivo de seguridad que asegura el funcionamiento solo con el cierre
-- Incluye 22 funciones: trocea, pica, tritura, muele, pulveriza, ralla, bate, monta, emulsiona, mezcla, cocina, remueve, cocina al vapor, escalfa, confita, amasa, hierve, mantiene caliente, fermenta, cocina al baño maría, recalienta y función turbo
-- Low Gear Technology: máxima potencia en bajas revoluciones. Fácil manejo. Posee pantalla LCD azul. Niveles de temperatura regulables: de 20 ºC a 120 ºC. 12 velocidades
-- Jarra de gran capacidad de 3,3 litros de acero inoxidable. Incluye recetario, mariposa, espátula y vaporera a 2 niveles de gran capacidad. Puedes preparar hasta 3 elaboraciones a la vez
 - Robot de cocina multifunción que cocina y tritura. Pica hielo y amasa. Dispone de función Turbo Boost: tritura y pulveriza a velocidad máxima
+- Low Gear Technology: máxima potencia en bajas revoluciones. Fácil manejo. Posee pantalla LCD azul. Niveles de temperatura regulables: de 20 ºC a 120 ºC. 12 velocidades
+- Incluye 22 funciones: trocea, pica, tritura, muele, pulveriza, ralla, bate, monta, emulsiona, mezcla, cocina, remueve, cocina al vapor, escalfa, confita, amasa, hierve, mantiene caliente, fermenta, cocina al baño maría, recalienta y función turbo
+- Jarra de gran capacidad de 3,3 litros de acero inoxidable. Incluye recetario, mariposa, espátula y vaporera a 2 niveles de gran capacidad. Puedes preparar hasta 3 elaboraciones a la vez
+- Motor AC de 1000 W +500 W de potencia calorífica. Security Check System: dispositivo de seguridad que asegura el funcionamiento solo con el cierre
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01NC0F6RW/?tag=tolees-21)

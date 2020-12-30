@@ -25,8 +25,8 @@ Está [Ecovacs Deebot OZMO 920 Limpiador de vacío  110 min  Negro](https://www.
 
 ℹ️:
 
-- Ecovacs deebot ozmo 920 limpiador de vacío
-- Color: negro
 - Producto de alta calidad de la marca Ecovacs
+- Color: negro
+- Ecovacs deebot ozmo 920 limpiador de vacío
 
 [Ver la oferta!!](https://www.amazon.es/dp/B084ZR6HWN/?tag=tolees-21)

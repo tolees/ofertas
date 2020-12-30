@@ -26,9 +26,9 @@ Tienes [Pepe Jeans Strike Carteron Adaptable para Portátil 15 6" Negro 42x33x11
 🔎:
 
 - Bolsillo frontal de cremallera para objetos más pequeños
-- De joumma bags
 - Maletín para portátil de 42 cm x 33 cm x 11 cm fabricado en algodón con detalles en piel sintética
 - Posibilidad de llevarla tipo maletín, como bandolera o adaptada a la maleta con la banda trasera que incorpora
 - Doble compartimento con un espacio específico para un ordenador de hasta 15, 6 pulgadas y un bolsillo para la tablet
+- De joumma bags
 
 [Comprar!!!](https://www.amazon.es/dp/B07VZNCXM9/?tag=tolees-21)
