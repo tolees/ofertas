@@ -26,7 +26,7 @@ Está [Acqua Di Parma Desodorante Stick - 75 gr](https://www.amazon.es/dp/B000J1
 ℹ️:
 
 - Género : unisex adulto
-- Tipo de producto: desodorante
 - Marca : Acqua di Parma
+- Tipo de producto: desodorante
 
 [Ver la oferta!!](https://www.amazon.es/dp/B000J1UGZO/?tag=tolees-21)

@@ -25,11 +25,11 @@ Tienes [Trust Gaming GXT 545 - Gamepad inalámbrico para Playstation 3 y PC](htt
 
 ℹ️:
 
-- Interruptor de entrada X y entrada directa, para máxima compatibilidad en el entorno de videojuegos
 - Cobertura inalámbrica de 10 metros
-- 13 botones, 2 palancas de control y panel digital
-- Indicadores de PS3 y botón de inicio
-- Recargable en puerto USB (Cable incluido)
 - Cubierta de goma para un perfecto agarre
+- Indicadores de PS3 y botón de inicio
+- 13 botones, 2 palancas de control y panel digital
+- Recargable en puerto USB (Cable incluido)
+- Interruptor de entrada X y entrada directa, para máxima compatibilidad en el entorno de videojuegos
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00ZIJXTEW/?tag=tolees-21)

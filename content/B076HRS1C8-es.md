@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas Core18 PES Jkt Chaqueta  Hombre   con un 30.01 % de descuento'
-date: 2020-12-26 10:31:04
+date: 2020-12-30 08:37:37
 image: 'https://m.media-amazon.com/images/I/4137iEVL0XL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,10 @@ En este momento está [adidas Core18 PES Jkt Chaqueta  Hombre  Azul  Bold Blue/W
 
 🔎:
 
-- Cuello altamente cerrable
-- Material 100% poliéster
-- Puños con puños elásticos
-- Chaqueta con bolsillos con cremallera
+- Stand up collar
+- Designed with full front Zip closure
+- Two front pockets
+- Contrasting piping on the sleeves
+- Ribbed hem and cuffs construction for durability
 
 [Aquí!!!](https://www.amazon.es/dp/B076HRS1C8/?tag=tolees-21)

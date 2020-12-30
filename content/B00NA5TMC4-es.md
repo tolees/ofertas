@@ -25,10 +25,10 @@ Tienes [Calvin Klein Cotton Stretch-3er Slip  Blanco  White   Small  Pack de 3  
 
 🔎:
 
-- Paquete de 21
 - Calvin Klein Calzoncillos slip de tiro bajo
+- Pretina con el logotipo de Calvin Klein
+- Paquete de 21
 - Ajuste cómodo y adecuado
 - Algodón elástico
-- Pretina con el logotipo de Calvin Klein
 
 [Comprar!!!](https://www.amazon.es/dp/B00NA5TMC4/?tag=tolees-21)

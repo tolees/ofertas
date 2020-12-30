@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.04 % en adidas Tiro19 TR Pnt Sport Trousers  Hom'
-date: 2020-12-18 08:47:35
+date: 2020-12-30 08:50:44
 image: 'https://m.media-amazon.com/images/I/31dD94D1FAL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Tienes [adidas Tiro19 TR Pnt Sport Trousers  Hombre  Dark Blue/White  XS](https:
 
 ℹ️:
 
+- Climacool technology
 - Tapered fit
 - Elastic waistband with lanyard
-- Climacool technology
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07K6NZRF5/?tag=tolees-21)
