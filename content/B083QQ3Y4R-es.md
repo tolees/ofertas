@@ -28,7 +28,7 @@ Tienes [Suunto 3 Reloj deportivo con medición del ritmo cardiaco en la muñeca 
 - Correa con orificios de ventilación, botones de metal, GPS conectado al móvil, pasos y calorías
 - Comparte en redes sociales, compara tus marcas en Strava, TrainingPeaks, Endomondo, planes de entrenamiento 7 días según tu historial
 - Versátil compañero de entrenamiento para fitness y deporte exterior, diseño escandinavo, hecho en Finlandia: material de calidad con acabado mate
-- Contenido: 1 x SUUNTO 3 Gen 2 PEBBLE WHITE, Reloj multideporte unisex, Cable USB y batería recargable de iones de litio, Acero inox/Poliamida, Reloj: 43 mm, Correa: 24.5 cm, Blanco, SS050416000
 - Modos de deporte integrados para natación hasta 30 m, ciclismo, running o yoga, gráficos en tiempo real del ritmo cardiaco desde la muñeca incluso en reposo
+- Contenido: 1 x SUUNTO 3 Gen 2 PEBBLE WHITE, Reloj multideporte unisex, Cable USB y batería recargable de iones de litio, Acero inox/Poliamida, Reloj: 43 mm, Correa: 24.5 cm, Blanco, SS050416000
 
 [Comprar!!!](https://www.amazon.es/dp/B083QQ3Y4R/?tag=tolees-21)

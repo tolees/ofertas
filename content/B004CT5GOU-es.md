@@ -25,9 +25,9 @@ Tienes [KidKraft- Amelia Casa de muñecas de madera con muebles y accesorios inc
 
 ℹ️:
 
-- FUN & EASY ASSEMBLY - Play sooner without the headache from overcomplicated assemblies. Our doll houses come with incredibly easy step-by-step instructions for even easier assembling. Set up the house by yourself to surprise your child or turn it into a bonding activity by building it together
-- ENDLESS HOURS OF FUN - This modern pink and black dollhouse is a childs dream home offering 3 floors, 4 rooms, and a balcony. This play set stands at 120.9cm tall and is made from high-quality wood
 - BUILT TO LAST - Built with the child in mind, our sturdy wood construction is built to last through hours of play
+- ENDLESS HOURS OF FUN - This modern pink and black dollhouse is a childs dream home offering 3 floors, 4 rooms, and a balcony. This play set stands at 120.9cm tall and is made from high-quality wood
+- FUN & EASY ASSEMBLY - Play sooner without the headache from overcomplicated assemblies. Our doll houses come with incredibly easy step-by-step instructions for even easier assembling. Set up the house by yourself to surprise your child or turn it into a bonding activity by building it together
 - A TIMELESS GIFT - Give your child their first dollhouse. Young children and toddlers of all ages will have fun roleplaying and playing pretend with this classic toy - the perfect Christmas gift or Birthday present
 - DESIGN YOUR OWN HOME - Let your childs creativity flourish with a kit of 15 furniture pieces and home accessories. Your child will explore the creative possibilities of playing with 12-inch dolls in multiple rooms with a gliding elevator
 

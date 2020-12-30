@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bakugan: Campeones de Vestroia al 50.05 % de descuento'
-date: 2020-12-26 23:11:40
+date: 2020-12-30 09:11:19
 image: 'https://m.media-amazon.com/images/I/41IKECvKwfL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08DRZJSG7/?tag=tolees-21'
 descuento: '50.05'
-average: '32.485'
+average: '30.977999999999998'
 ---
 
 Ahora mismo tienes [Bakugan: Campeones de Vestroia](https://www.amazon.es/dp/B08DRZJSG7/?tag=tolees-21) a 24.95 EUR (original: 49.95 EUR) (50.05 %  de descuento) en el siguiente enlace!

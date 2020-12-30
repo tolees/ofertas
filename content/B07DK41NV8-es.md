@@ -25,8 +25,8 @@ En este momento está [Festina Reloj Cronógrafo para Mujer de Cuarzo con Correa
 
 🔎:
 
-- BRACCIALE: Correa de eslabones de acero inoxidable plateada | CASSA: Silberfarbenes Edelstahlgehäuse | CHIUSURA: Cierre desplegable | DIMENSIONI: Diámetro de la caja: 38,5 mm | FUNZIONI: Horas, minutos, segundos, fecha, función stop
 - VETRO DOROLOGIO: Mineralglas | VISUALIZZAZIONE DEL TEMPO: Analógico
+- BRACCIALE: Correa de eslabones de acero inoxidable plateada | CASSA: Silberfarbenes Edelstahlgehäuse | CHIUSURA: Cierre desplegable | DIMENSIONI: Diámetro de la caja: 38,5 mm | FUNZIONI: Horas, minutos, segundos, fecha, función stop
 - IMPERMEABILIT&AGRAVE;: Resistente al agua hasta 10 bares. Que corresponde a aproximadamente 100 metros | MOVIMENTO: Cuarzo | PACKAGING: Verpackt in original Herstellerverpackung. | PESO: 110 g | QUADRANTE: Weißes Zifferblatt mit Strichindex und einem Diamanten auf der 12 Uhr-Position
 
 [Aquí!!!](https://www.amazon.es/dp/B07DK41NV8/?tag=tolees-21)
