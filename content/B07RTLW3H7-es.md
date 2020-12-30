@@ -26,8 +26,8 @@ Ahora mismo tienes [Funko POP! TV: Game of Thrones - Sansa Stark](https://www.am
 🔎:
 
 - Recomendado para niños a partir de 3 años
-- El artículo es adecuado para todos los fanáticos de Game of Thrones
 - El producto se envía en una caja ilustrada con ventana
+- El artículo es adecuado para todos los fanáticos de Game of Thrones
 - Figura de colección de la marca Funko
 
 [Visítala!!!](https://www.amazon.es/dp/B07RTLW3H7/?tag=tolees-21)

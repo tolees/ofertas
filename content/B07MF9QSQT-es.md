@@ -25,9 +25,9 @@ Tienes [Sony HT-S350 - Barra de Sonido 2.1  Bluetooth  subwoofer inalámbrico  3
 
 🔎:
 
-- Conectividad Bluetooth para la transmisión inalámbrica de audio
 - Conecta el televisor con un único cable gracias a HDMI ARC
 - Subwoofer inalámbrico para un sonido Profundo excepcional
+- Conectividad Bluetooth para la transmisión inalámbrica de audio
 - Instala tu barra de sonido en la pared para ahorrar espacio
 - S-Force Pro Front Surround crea un sonido cinematográfico
 

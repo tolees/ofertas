@@ -25,10 +25,10 @@ En este momento está [Agenda rotu 2020-2021 Semana vista - A vivir  que son 365
 
 🔎:
 
-- Peso: 500 gr Medidas del producto: 15 x 19,5 x 2,5 cm
 - Frases diarias motivacionales, separadores con pestaña para cada mes y bolsillo interior transparente
-- Horarios, calendarios, tablas de ahorro y cierre con goma elástica
-- Blocs de notas adhesivas con formas, 8 hojas de pagtinas, planificador mensual
 - Agenda semanal escolar con encuadernación en espiral.160 páginas de papel de 100 gr.
+- Blocs de notas adhesivas con formas, 8 hojas de pagtinas, planificador mensual
+- Peso: 500 gr Medidas del producto: 15 x 19,5 x 2,5 cm
+- Horarios, calendarios, tablas de ahorro y cierre con goma elástica
 
 [Aquí!!!](https://www.amazon.es/dp/B088RRL8SB/?tag=tolees-21)

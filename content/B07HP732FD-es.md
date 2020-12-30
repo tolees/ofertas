@@ -25,7 +25,7 @@ Ahora mismo tienes [Skechers Status 2.0-Pexton  Zapatillas Hombre  Azul  NVY Bla
 
 🔎:
 
-- 2019
 - Hombre
+- 2019
 
 [Visítala!!!](https://www.amazon.es/dp/B07HP732FD/?tag=tolees-21)
