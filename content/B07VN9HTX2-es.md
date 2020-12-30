@@ -27,7 +27,7 @@ Ahora mismo tienes [Xbox One S Gears 5](https://www.amazon.es/dp/B07VN9HTX2/?tag
 
 - 29.1 x 11.3 x 42.9 cm
 - Muy conveniente
-- Fácil de usar
 - 4.18 kilogramos
+- Fácil de usar
 
 [Visítala!!!](https://www.amazon.es/dp/B07VN9HTX2/?tag=tolees-21)

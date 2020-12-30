@@ -26,8 +26,8 @@ Ahora mismo tienes [Conservas Cabezón Lata de Rabo de Toro - 800 gr](https://ww
 🔎:
 
 - origen: España
-- producto de calidad
 - fácil de usar
+- producto de calidad
 - 800 gr
 
 [Visítala!!!](https://www.amazon.es/dp/B01HZ64BE2/?tag=tolees-21)

@@ -25,10 +25,10 @@ En este momento está [Placa Base Asrock B550 Phantom Gaming 4  Compatible con 3
 
 🔎:
 
+- 1 PCIe 4.0 x16, 1 PCIe 3.0 x16, 2 PCIe 3.0 x1, 1 llave M.2 E para WiFi
 - Compatible con procesadores AMD AM4 Ryzen y futuros AMD Ryzen.
 - Soporta DDR4 4733+ (OC)
 - Opciones de salida de gráficos: HDMI
 - 8 Diseño de fase de potencia, Digi Power
-- 1 PCIe 4.0 x16, 1 PCIe 3.0 x16, 2 PCIe 3.0 x1, 1 llave M.2 E para WiFi
 
 [Aquí!!!](https://www.amazon.es/dp/B089VTZ83Q/?tag=tolees-21)

@@ -25,10 +25,10 @@ Está [AEG NE 5637 - Cortapelos para nariz y orejas  color negro](https://www.am
 
 ℹ️:
 
-- Cepillo y capucha protectora
-- Cuerpo del aparato protegido contra salpicaduras de agua
 - Incluye luz para mejorar su uso
+- Cuerpo del aparato protegido contra salpicaduras de agua
 - Cortapelos de nariz, orejas y cejas
+- Cepillo y capucha protectora
 - Cuchillas de acero refinado desmontables para fácil limpieza
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00FBVOB6M/?tag=tolees-21)

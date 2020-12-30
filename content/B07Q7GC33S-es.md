@@ -25,10 +25,10 @@ En este momento está [Soporte De Micrófono De Escritorio En El Escenario  Negr
 
 🔎:
 
-- Diámetro de la base: 13 cm, altura: 18 cm.
-- Altura media utilizada en la mesa.
 - Con un embrague para capturar el micrófono, no se desliza del escritorio.
-- Diseño portátil para facilitar el transporte y el almacenamiento.
+- Altura media utilizada en la mesa.
 - Este soporte de micrófono para podcast, chat en línea, conferencias, reuniones, etc.
+- Diseño portátil para facilitar el transporte y el almacenamiento.
+- Diámetro de la base: 13 cm, altura: 18 cm.
 
 [Aquí!!!](https://www.amazon.es/dp/B07Q7GC33S/?tag=tolees-21)
