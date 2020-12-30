@@ -25,10 +25,10 @@ Ahora mismo tienes [PUMA Rebound Layup Lo SD  Zapatillas Unisex Adulto  Negro Bl
 
 🔎:
 
+- Parte superior de gamuza
 - Logotipo de Puma n.º 1 en la lengua
+- Suela de goma
 - Puma formstrip en el lateral
 - Logotipo de Puma en el talón
-- Parte superior de gamuza
-- Suela de goma
 
 [Visítala!!!](https://www.amazon.es/dp/B07QD9NY7K/?tag=tolees-21)

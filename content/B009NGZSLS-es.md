@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tesa 948882 - Tiras adhesivas  doble car al 34.89 % de rebaja'
-date: 2020-12-29 07:29:32
+date: 2020-12-30 20:49:40
 image: 'https://m.media-amazon.com/images/I/51Ih68LH2SL._SL200_.jpg'
 comments: true
 category: ofertas

@@ -25,8 +25,8 @@ En este momento está [Kensington K64538EU - Candado de Seguridad retráctil par
 
 🔎:
 
-- 1.2 m
 - Kensington MicroSaver Retractable
+- 1.2 m
 - Bloqueo de cable de seguridad
 
 [Aquí!!!](https://www.amazon.es/dp/B001COLVS8/?tag=tolees-21)

@@ -25,10 +25,10 @@ En este momento está [Suunto Spartan Sport Wrist HR - Reloj GPS Multideporte  s
 
 🔎:
 
-- Gráfico en tiempo real de la frecuencia cardiaca y calorías quemadas, Número de pasos y calorías (en los últimos 7 días), Ubicación y navegación con itinerario sobre puntos de referencia y creación de la ruta en tiempo real, Registro de activdad 24h
-- El compañero diario para entrenar y competir en más de 80 deportes como natación (sumergible hasta 100m), ciclismo, running, actividades multisport y triatlón, Perfecto para fitness gracias a su diseño plano, Imprescindible la actualización regular del software para grantizar un correcto funcionamiento del producto
-- Ubicación rápida GPS/GLONASS, altímetro GPS, Bluetooth (a partir de 4.0), Brújula, Sistema de coordenadas, Pantalla táctil con 3 botones, Ritmo de marcha preciso gracias a Fused Speed
 - Resolución: 1 m. Intervalo: -500 - 9999 m
+- Gráfico en tiempo real de la frecuencia cardiaca y calorías quemadas, Número de pasos y calorías (en los últimos 7 días), Ubicación y navegación con itinerario sobre puntos de referencia y creación de la ruta en tiempo real, Registro de activdad 24h
+- Ubicación rápida GPS/GLONASS, altímetro GPS, Bluetooth (a partir de 4.0), Brújula, Sistema de coordenadas, Pantalla táctil con 3 botones, Ritmo de marcha preciso gracias a Fused Speed
 - Altimetro: Ascenso/descenso total : en ejercicio. Velocidad vertical: en ejercicio
+- El compañero diario para entrenar y competir en más de 80 deportes como natación (sumergible hasta 100m), ciclismo, running, actividades multisport y triatlón, Perfecto para fitness gracias a su diseño plano, Imprescindible la actualización regular del software para grantizar un correcto funcionamiento del producto
 
 [Aquí!!!](https://www.amazon.es/dp/B06XKPCZ8F/?tag=tolees-21)
