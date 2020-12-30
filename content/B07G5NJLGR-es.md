@@ -25,10 +25,10 @@ Tienes [Impresora Multifuncional Canon PIXMA MG3650S Blanca Wifi de inyección d
 
 ℹ️:
 
-- Impresión, copia y escaneo de alta calidad
-- Ahorra dinero con los cartuchos de tinta XL
-- Uso fácil desde tu smartphone o tablet con la aplicación Canon PRINT
-- Conéctate fácilmente a la nube con PIXMA Cloud Link
 - Crea y personaliza tarjetas, calendarios y mucho más
+- Ahorra dinero con los cartuchos de tinta XL
+- Conéctate fácilmente a la nube con PIXMA Cloud Link
+- Impresión, copia y escaneo de alta calidad
+- Uso fácil desde tu smartphone o tablet con la aplicación Canon PRINT
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07G5NJLGR/?tag=tolees-21)

@@ -25,10 +25,10 @@ Tienes [PUMA St Runner V2 NL  Zapatillas Unisex Adulto  Rosa  Rosewater White/Gr
 
 🔎:
 
+- nailon, ante sintético, acento de piel
 - EVA moldeada y cómoda de llevar
 - Suela de goma resistente y antideslizante
-- nailon, ante sintético, acento de piel
-- Entresuela de EVA
 - No importa si son zapatos modernos, zapatillas deportivas informales o zapatillas de calle deportivas: las zapatillas de ocio de Puma garantizan siempre unos pies bien recubiertos en combinación con un estilo único
+- Entresuela de EVA
 
 [Comprar!!!](https://www.amazon.es/dp/B07SD1B4LP/?tag=tolees-21)
