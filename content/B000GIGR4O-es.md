@@ -25,8 +25,8 @@ Tienes [Hama - portátil Mini Microteléfono  1400 Ohmio  -62 Db  30-16000 Hz  c
 
 🔎:
 
-- Perfecto para aplicaciones como la telefonía por Internet para chatear con todos tus amigos y familiares, así como para usar con programas de reconocimiento de voz, el micrófono en sí también es flexible para permitir una alineación ideal para una comunicación óptima. Lo único que tienes que preocuparte es quedarte sin cosas de las que hablar
 - Ahorra comprando unos auriculares caros y voluminosos que carecen de portabilidad y pueden resultar extremadamente engorrosos para llevar contigo sobre la marcha, así como ser potencialmente bastante incómodos de llevar durante largos períodos de tiempo, Hama te presenta el mini micrófono compacto y ultraportátil.
+- Perfecto para aplicaciones como la telefonía por Internet para chatear con todos tus amigos y familiares, así como para usar con programas de reconocimiento de voz, el micrófono en sí también es flexible para permitir una alineación ideal para una comunicación óptima. Lo único que tienes que preocuparte es quedarte sin cosas de las que hablar
 - Con su diseño altamente ligero, este pequeño micrófono (2,3 x 3,2 cm) es fácil de meter en una bolsa o bolsillo para uso sobre la marcha, ocupando muy poco espacio.
 - Su uso no podría ser más sencillo, simplemente enchufa y reproduce. Todo lo que tienes que hacer es conectarlo a tu portátil o computadora con el conector jack de 3,5 mm y estará listo para usar al instante y compatible con cualquier tarjeta de sonido.
 

@@ -25,10 +25,10 @@ En este momento está [Berrcom JXB-178 Termómetro infrarrojo Medición sin cont
 
 🔎:
 
-- Pantalla a color y fácil de usar.
-- Pilas: 2 x pilas Mignon (AA).
-- Ámbito de aplicación: frente y siembra.
 - Rango de temperatura: de 0 a 60 °C.
+- Ámbito de aplicación: frente y siembra.
+- Pilas: 2 x pilas Mignon (AA).
+- Pantalla a color y fácil de usar.
 - Medición sin contacto: máxima higiene/perfecto para niños.
 
 [Aquí!!!](https://www.amazon.es/dp/B088ZGCGC3/?tag=tolees-21)

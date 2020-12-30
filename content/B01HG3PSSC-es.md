@@ -25,8 +25,8 @@ En este momento está [adidas Gazelle  Zapatillas de deporte Unisex Adulto  Vari
 
 🔎:
 
+- Sports shoes
 - Essential style
 - Leather upper
-- Sports shoes
 
 [Aquí!!!](https://www.amazon.es/dp/B01HG3PSSC/?tag=tolees-21)

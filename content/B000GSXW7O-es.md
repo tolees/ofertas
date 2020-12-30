@@ -25,9 +25,9 @@ Ahora mismo tienes [Sony SAL35F14G - Objetivo para Sony/Minolta  Distancia Focal
 
 🔎:
 
-- A-mount, 35mm Full Frame
-- Wide-angle prime Sony G Lens
-- 35mm F1.4 G lens
 - Aspherical lens
+- A-mount, 35mm Full Frame
+- 35mm F1.4 G lens
+- Wide-angle prime Sony G Lens
 
 [Visítala!!!](https://www.amazon.es/dp/B000GSXW7O/?tag=tolees-21)

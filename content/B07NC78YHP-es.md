@@ -25,7 +25,7 @@ En este momento está [Los Sims 4 - Urbanitas DLC | Código Origin para PC PLUS 
 
 🔎:
 
-- Explora una ciudad repleta de gente y de barrios diversos, cada uno con su propia personalidad.
 - La promoción del juego de base de Los Sims 4 de regalo sólo se puede canjear una vez por cada consumidor final.
+- Explora una ciudad repleta de gente y de barrios diversos, cada uno con su propia personalidad.
 
 [Aquí!!!](https://www.amazon.es/dp/B07NC78YHP/?tag=tolees-21)

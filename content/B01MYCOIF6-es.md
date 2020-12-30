@@ -25,10 +25,10 @@ Está [Mars Gaming MPII850  Fuente de Alimentación Para Pc  850 W  12 V  Atx  C
 
 ℹ️:
 
-- Ventilador de 12 cm y 14 dB con sistema antivibraciones y control de velocidad
-- Diseño ecológico y una eficiencia alta de hasta 85% para el ahorro de energía
-- Dispone de un sistema avanzado de cableado MODULAR para máxima compatibilidad
 - Dispone de corrección de potencia activa (PFC activo) con un 99% de eficiencia
+- Diseño ecológico y una eficiencia alta de hasta 85% para el ahorro de energía
+- Ventilador de 12 cm y 14 dB con sistema antivibraciones y control de velocidad
 - Potencia de 850 W y cuenta con una potente tecnología de rail único de 12 V
+- Dispone de un sistema avanzado de cableado MODULAR para máxima compatibilidad
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01MYCOIF6/?tag=tolees-21)

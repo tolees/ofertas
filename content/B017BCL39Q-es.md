@@ -25,9 +25,9 @@ Tienes [Max Factor Creme Puff Blush Colorete Tono 15 Seductive Pink - 30 gr](htt
 
 🔎:
 
-- Marca: Max Factor
 - Cantidad: 1 unidad
-- Género: mujer
 - Tipo de producto: colorete
+- Género: mujer
+- Marca: Max Factor
 
 [Comprar!!!](https://www.amazon.es/dp/B017BCL39Q/?tag=tolees-21)

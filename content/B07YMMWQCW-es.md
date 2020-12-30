@@ -1,28 +1,29 @@
 ---
 layout: post
-title: 'La heredera [Blu-ray] al 58.30 % de descuento'
-date: 2020-12-13 09:58:35
+title: 'La heredera [Blu-ray] al 20.00 % de descuento'
+date: 2020-12-30 12:43:50
 image: 'https://m.media-amazon.com/images/I/51i81bqKSjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07YMMWQCW-es'
-actualPrice: 5.0 EUR
+actualPrice: 4.0 EUR
 currency: EUR
-price: 5.0
-comparePrice: 11.99 EUR
+price: 4.0
+comparePrice: 5.0 EUR
 prodname: 'La heredera [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07YMMWQCW/?tag=tolees-21'
-descuento: '58.30'
+descuento: '20.00'
+average: '7.205'
 ---
 
-Está [La heredera [Blu-ray]](https://www.amazon.es/dp/B07YMMWQCW/?tag=tolees-21) con 58.30 de descuento por 5.0 EUR (original: 11.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [La heredera [Blu-ray]](https://www.amazon.es/dp/B07YMMWQCW/?tag=tolees-21) a 4.0 EUR (original: 5.0 EUR) (20.00 %  de descuento) en el siguiente enlace!
 
 [![La heredera [Blu-ray]](https://m.media-amazon.com/images/I/51i81bqKSjL._SL200_.jpg)](https://www.amazon.es/dp/B07YMMWQCW/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07YMMWQCW/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07YMMWQCW/?tag=tolees-21)

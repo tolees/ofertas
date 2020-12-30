@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lékué Polo apilable mini 10 5 cm  4 Unid al 32.14 % de descuento'
-date: 2020-12-27 16:40:34
+date: 2020-12-30 12:34:06
 image: 'https://m.media-amazon.com/images/I/51OFX7SroEL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,11 @@ Está [Lékué Polo apilable mini 10 5 cm  4 Unidades  Surtido multicolor  Silic
 
 ℹ️:
 
-- Incluye recetas fáciles, también sin lactosa y sin gluten
-- Apilables entre ellos ocupan muy poco espacio
-- Rellenado más fácil en posición horizontal
-- Tapa para proteger el helado de olores y sabores del congelador
-- Incluye un palo para cada molde
+- Dimensions: 10,5 x 6,5 x 2,6 cm
+- Material: Platinum-Silicone
+- volume: 4x 60 ml
+- dimensions: 10,5 x 6,5 x 2,6 cm
+- material: platinum-silicone
+- Volume: 4x 60 ml
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01EHQ7FT6/?tag=tolees-21)

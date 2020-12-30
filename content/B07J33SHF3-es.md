@@ -25,10 +25,10 @@ En este momento está [Moleskine - Cuaderno Clásico con Páginas Cuadriculada  
 
 🔎:
 
-- Papel de color marfil, sin ácido, adecuado para responder a las diferentes necesidades creativas, apto para escribir o dibujar
-- Diseño clásico con cubierta dura de color, goma elástica y una cinta para marcar la prágina correcta; tapa trasera plegable para guardar objetos como tickets y recuerdos
-- Cuaderno clásico con portada de color, esquinas redondeadas y páginas cuadriculada; nota de aviso En caso de pérdida impreso en la contra portada
 - El cuaderno Classic Medium lo convierten en el compañero perfecto para llevar con usted; toma notas, apunta las cosas que debes hacer y anota todas las tareas diarias
 - Se abre 180°; marcador de papel reutilizable B-SIDE con mensaje impreso; en nuestros productos se haya toda la historia de Moleskine
+- Diseño clásico con cubierta dura de color, goma elástica y una cinta para marcar la prágina correcta; tapa trasera plegable para guardar objetos como tickets y recuerdos
+- Cuaderno clásico con portada de color, esquinas redondeadas y páginas cuadriculada; nota de aviso En caso de pérdida impreso en la contra portada
+- Papel de color marfil, sin ácido, adecuado para responder a las diferentes necesidades creativas, apto para escribir o dibujar
 
 [Aquí!!!](https://www.amazon.es/dp/B07J33SHF3/?tag=tolees-21)

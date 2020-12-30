@@ -25,7 +25,7 @@ Tienes [Los Sims 4 - Perros y Gatos DLC | Código Origin para PC PLUS Los Sims 4
 
 ℹ️:
 
-- Disfruta de la compañía y la diversión que los amigos peludos aportan a la vida de un Sim.
 - La promoción del juego de base de Los Sims 4 de regalo sólo se puede canjear una vez por cada consumidor final.
+- Disfruta de la compañía y la diversión que los amigos peludos aportan a la vida de un Sim.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07NC5Z5TZ/?tag=tolees-21)
