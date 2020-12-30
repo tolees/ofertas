@@ -25,10 +25,10 @@ En este momento está [Receptor Bluetooth  Adaptador de Audio Inalámbrico Hi-Fi
 
 🔎:
 
-- 【Sonido inalámbrico de alta calidad】 El 1Mii B06 añade señal de Bluetooth a aquellos dispositivos de tu hogar que no dispongan de esta tecnología. Disfruta de una señal inalámbrica de la mejor calidad de sonido en tu casa.
-- 【Audio 3D surround】Dispone de un botón para activar el sonido 3D Surround una vez el dispositivo de ha emparejado. Esta tecnología te permitirá disfrutar de tus películas y otro audio con Surround en altavoces Bluetooth inalámbricos. Un LED verde se enciende si está activado el sonido 3D.
-- 【Bluetooth Mulipunto】El 1Mii B06 puede conectar hasta dos smartphones al mismo tiempo para reproducir sonido de forma inalámbrica.
 - 【Hasta 50 metros de distancia】Con la tecnología Bluetooth de Clase 1, el receptor 1Mii Bluetooth puede alcanzar, en su línea de visión, una distancia de hasta 50 m al aire libre y de hasta 20-30 m en interiores.
+- 【Audio 3D surround】Dispone de un botón para activar el sonido 3D Surround una vez el dispositivo de ha emparejado. Esta tecnología te permitirá disfrutar de tus películas y otro audio con Surround en altavoces Bluetooth inalámbricos. Un LED verde se enciende si está activado el sonido 3D.
 - 【Fácil de instalar y fácil de usar】implemente conectando el receptor a una toma de corriente y con el cable Jack 3.5 mm que incorpora conectado a una fuente de audio, podrás disponer de señal bluetooth en ese aparato que antes no tenía. Empareja el Bluetooth con un dispositivo receptor de señal, como un teléfono, o un ordenador, y disfruta de sonido de alta calidad sin necesidad de cables.
+- 【Sonido inalámbrico de alta calidad】 El 1Mii B06 añade señal de Bluetooth a aquellos dispositivos de tu hogar que no dispongan de esta tecnología. Disfruta de una señal inalámbrica de la mejor calidad de sonido en tu casa.
+- 【Bluetooth Mulipunto】El 1Mii B06 puede conectar hasta dos smartphones al mismo tiempo para reproducir sonido de forma inalámbrica.
 
 [Aquí!!!](https://www.amazon.es/dp/B07D3RGXYP/?tag=tolees-21)
