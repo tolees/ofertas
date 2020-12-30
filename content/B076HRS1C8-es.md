@@ -25,10 +25,10 @@ En este momento está [adidas Core18 PES Jkt Chaqueta  Hombre  Azul  Bold Blue/W
 
 🔎:
 
-- Ribbed hem and cuffs construction for durability
-- Contrasting piping on the sleeves
 - Designed with full front Zip closure
 - Two front pockets
 - Stand up collar
+- Contrasting piping on the sleeves
+- Ribbed hem and cuffs construction for durability
 
 [Aquí!!!](https://www.amazon.es/dp/B076HRS1C8/?tag=tolees-21)

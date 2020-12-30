@@ -25,10 +25,10 @@ Tienes [Remington AC5999 Pro Air - Secador de Pelo Profesional  Secador Iónico 
 
 ℹ️:
 
-- Dispone de rejilla trasera desmontable para una limpieza fácil, cable profesional de 3 metros y gancho para colgar
 - 3 temperaturas y 2 velocidades; ráfaga real de aire frío para fijar el peinado y chorro de 130 km/h
+- Dispone de rejilla trasera desmontable para una limpieza fácil, cable profesional de 3 metros y gancho para colgar
 - Acondicionamiento iónico: 90 % más de iones para reducir el encrespamiento y aumentar el brillo
-- Incluye un difusor y dos concentradores: de boquilla estrecha de 7 milímetros; y de secado rápido
 - Potente secador profesional de 2300 vatios y motor de AC de larga duración y calidad profesional
+- Incluye un difusor y dos concentradores: de boquilla estrecha de 7 milímetros; y de secado rápido
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00IBDVTSU/?tag=tolees-21)

@@ -26,9 +26,9 @@ Tienes [Candy Brava CDPN 2D360PW - Lavavajillas 60 cm independiente  13 servicio
 🔎:
 
 - Conectividad wi-fi bluetooh: a través de la app simply-fi podrás controlar el lavavajillas por móvil o por voz (con altavoces inteligentes google home o alexa), realizar el mantenimiento y agregar ciclos de lavado
-- Zoom programa de lavado 39: ciclo de lavado y secado rápido, con resultados de clase a en lavado
 - Display led táctil: panel de control de uso fácil e intuitivo; configura tus ciclos de lavado y activa las distintas funciones disponibles de la forma más rápida y cómoda
 - Bajo consumo y muy silencioso: ahorra con el lavavajillas candy gracias a su bajo consumo de 10l/ciclo y lava con un nivel de ruido muy bajo de hasta 47dba
 - Eficiencia de espacio: Lava hasta 13 servicios en un solo ciclo con el lavavajillas inteligente de Candy
+- Zoom programa de lavado 39: ciclo de lavado y secado rápido, con resultados de clase a en lavado
 
 [Comprar!!!](https://www.amazon.es/dp/B07QW3GS9Q/?tag=tolees-21)
