@@ -25,10 +25,10 @@ Tienes [Grohe New Tempesta 100 - alcachofa de ducha 3 chorros  Ref. 28261002 ](h
 
 ℹ️:
 
-- Chorro Massage para disfrutar de una ducha revitalizante.
-- Chorro SmartRain para una ducha lujosa pero respetuosa con el medioambiente.
-- una ducha lujosa para cuerpo y alma.
 - SpeedClean: para que te olvides de la acumulación de residuos de cal en el cabezal de ducha.
+- Chorro Massage para disfrutar de una ducha revitalizante.
+- una ducha lujosa para cuerpo y alma.
+- Chorro SmartRain para una ducha lujosa pero respetuosa con el medioambiente.
 - El anillo de silicona ShockProof protege el cabezal de ducha.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B075RC15ZZ/?tag=tolees-21)

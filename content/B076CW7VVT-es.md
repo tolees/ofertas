@@ -25,10 +25,10 @@ Ahora mismo tienes [Orbegozo BP 5007 – Estufa de cuarzo con 2 niveles de poten
 
 🔎:
 
-- Dimensiones 38 x 28 x 16 cm
 - Incorpora sistema antivuelco que apagará la estufa en caso de caída
-- Estufa eléctrica de cuarzo Orbegozo en color blanco y reflector protegido de alta brillantez
-- 2 barras de cuarzo que permiten distribuir la potencia entre 400 W y 800 W
 - Control manual giratorio en color naranja con el que se podrá seleccionar la potencia deseada de manera sencilla
+- Dimensiones 38 x 28 x 16 cm
+- 2 barras de cuarzo que permiten distribuir la potencia entre 400 W y 800 W
+- Estufa eléctrica de cuarzo Orbegozo en color blanco y reflector protegido de alta brillantez
 
 [Visítala!!!](https://www.amazon.es/dp/B076CW7VVT/?tag=tolees-21)

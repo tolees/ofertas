@@ -25,7 +25,7 @@ En este momento está [Wenger 600662 - Equipaje para portátiles de 15.4 "  con 
 
 🔎:
 
-- Equipaje para portátiles
 - El logotipo puede ser rojo o negro
+- Equipaje para portátiles
 
 [Aquí!!!](https://www.amazon.es/dp/B000NOP9L8/?tag=tolees-21)

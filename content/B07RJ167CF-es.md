@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nike Pico 5  PSV   Zapatillas  Blanco  W al 30.14 % de descuento'
-date: 2020-12-22 18:14:28
+date: 2020-12-30 11:28:24
 image: 'https://m.media-amazon.com/images/I/41h9YE4DyqL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RJ167CF/?tag=tolees-21'
 descuento: '30.14'
-average: '20.625'
+average: '20.733333333333334'
 ---
 
 Ahora mismo tienes [Nike Pico 5  PSV   Zapatillas  Blanco  White/Pink Blast 102   35 EU](https://www.amazon.es/dp/B07RJ167CF/?tag=tolees-21) a 20.95 EUR (original: 29.99 EUR) (30.14 %  de descuento) en el siguiente enlace!

@@ -25,8 +25,8 @@ Tienes [Geomag Glow Construcciones magnéticas y juegos educativos  64 piezas  3
 
 🔎:
 
-- Ninguna indicación
-- Edad aconsejada de 3 a 99 años
 - 1 jugador, a partir de los 3 años
+- Edad aconsejada de 3 a 99 años
+- Ninguna indicación
 
 [Comprar!!!](https://www.amazon.es/dp/B01ACKR9NI/?tag=tolees-21)

@@ -26,7 +26,7 @@ Ahora mismo tienes [GLOBE Encore-2  Zapatillas de Skateboard Hombre  Marrón  Wh
 🔎:
 
 - Encore-2 (Gbenco2).
-- Zapatos para globos.
 - Zapatillas de monopatín para hombre.
+- Zapatos para globos.
 
 [Visítala!!!](https://www.amazon.es/dp/B07MXXKHWW/?tag=tolees-21)

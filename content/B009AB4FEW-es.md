@@ -25,8 +25,8 @@ Tienes [Disney Traditions Figurillas Decorativas con Diseño Tradition  Resina  
 
 🔎:
 
-- Disney tradition
 - Medias: 19 x 1,1 cm
 - Figurillas decorativas disney tradition del artista jim shore
+- Disney tradition
 
 [Comprar!!!](https://www.amazon.es/dp/B009AB4FEW/?tag=tolees-21)

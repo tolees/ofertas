@@ -27,7 +27,7 @@ En este momento está [THERMACARE Parche Térmico Terapéutico - 3 parches - Ada
 
 - No contiene medicamentos
 - Alivio prolongado del dolor
-- Fácil de usar, discreto, fino y sin olor
 - 9 de cada 10 consumidores asegura que es cómodo, práctico y eficaz (1)
+- Fácil de usar, discreto, fino y sin olor
 
 [Aquí!!!](https://www.amazon.es/dp/B00Z73HWSS/?tag=tolees-21)

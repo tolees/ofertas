@@ -25,10 +25,10 @@ Está [Jandei - 10x Bombilla led GU10 de 7W equivalente a 50W  120º de apertura
 
 ℹ️:
 
-- Hasta 35.000 horas de vida. Bombilla libre de plomo y mercurio
 - Luz intensa e instantánea
+- Bombilla LED GU10 de 7W, 4200K, con conector estándar GU10. Puede sustituir las bombillas clásicos de 50W
+- Hasta 35.000 horas de vida. Bombilla libre de plomo y mercurio
 - Tiene la eficiencia energética del typo A+, lo que permitirá un ahorra energético de hasta un 60%
 - El luz 4200K crea un gran contraste y cantidad de luz
-- Bombilla LED GU10 de 7W, 4200K, con conector estándar GU10. Puede sustituir las bombillas clásicos de 50W
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07N1TBGDN/?tag=tolees-21)
