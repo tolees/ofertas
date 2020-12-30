@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony HT-S350 - Barra de Sonido 2.1  Blue al 27.31 % de rebaja'
-date: 2020-12-29 03:31:39
+date: 2020-12-30 04:54:43
 image: 'https://m.media-amazon.com/images/I/21YuT5RvLsL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MF9QSQT/?tag=tolees-21'
 descuento: '27.31'
-average: '167.71935483870968'
+average: '169.0090909090909'
 ---
 
 Tienes [Sony HT-S350 - Barra de Sonido 2.1  Bluetooth  subwoofer inalámbrico  320W  S-Force Pro Surround  Negro](https://www.amazon.es/dp/B07MF9QSQT/?tag=tolees-21) con precio final de  189.0 EUR (original: 260.0 EUR) (27.31 %  de rebaja) aqui!
@@ -26,9 +26,9 @@ Tienes [Sony HT-S350 - Barra de Sonido 2.1  Bluetooth  subwoofer inalámbrico  3
 🔎:
 
 - Conectividad Bluetooth para la transmisión inalámbrica de audio
-- S-Force Pro Front Surround crea un sonido cinematográfico
 - Conecta el televisor con un único cable gracias a HDMI ARC
 - Subwoofer inalámbrico para un sonido Profundo excepcional
 - Instala tu barra de sonido en la pared para ahorrar espacio
+- S-Force Pro Front Surround crea un sonido cinematográfico
 
 [Comprar!!!](https://www.amazon.es/dp/B07MF9QSQT/?tag=tolees-21)
