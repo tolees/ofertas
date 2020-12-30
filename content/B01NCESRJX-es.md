@@ -26,9 +26,9 @@ Está [Intel BX80677I37100 - 51W Core i3-7100 Kaby Lake de doble núcleo a 3.9 G
 ℹ️:
 
 - Tipo de zócalo de CPU LGA 1151, nombre principal Kaby Lake, de núcleos de doble núcleo, de subprocesos 4
-- PCI Express Revision 3.0, número máximo de PCI Express Lanes 16, Thermal Design Power 51W, disipador de calor y ventilador incluidos,
-- Frecuencia de operación 3.9 GHz, Caché L3 de 3MB, Tecnología de fabricación 14nm, Compatibilidad con 64 bits Sí, Compatibilidad con el subprocesamiento de hilo Sí,
 - Marca Intel, tipo de procesador de escritorio, serie Core i3 7th Gen, nombre Intel Core i3-7100, modelo BX80677I37100
+- Frecuencia de operación 3.9 GHz, Caché L3 de 3MB, Tecnología de fabricación 14nm, Compatibilidad con 64 bits Sí, Compatibilidad con el subprocesamiento de hilo Sí,
+- PCI Express Revision 3.0, número máximo de PCI Express Lanes 16, Thermal Design Power 51W, disipador de calor y ventilador incluidos,
 - Tipos de memoria DDR4-2133 / 2400, DDR3L-1333/1600 a 1.35V, Memory Channel 2, Soporte de tecnología de virtualización Sí, Gráficos integrados Intel HD Graphics 630, Frecuencia base de gráficos 350 MHz, Gráficos Frecuencia dinámica máxima 1.1 GHz,
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01NCESRJX/?tag=tolees-21)

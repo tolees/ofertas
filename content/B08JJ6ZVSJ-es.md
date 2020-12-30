@@ -25,10 +25,10 @@ Está [Home Heavenly®- Pack 4 sillas Comedor salón Modelo NÓRDICA  con Pata d
 
 ℹ️:
 
-- Material fácil y rápido de limpiar con el solo uso de un paño húmedo. ¡Importante! Las sillas no se pueden empilar.
+- La medida de la silla es de 47cm (ancho) x 81cm (alto) x 56cm (fondo). Es una silla que con sus líneas simples permite dar un toque divertido y rejuvenecido, así pues, lograrás dar frescura a tu hogar.
 - Sillas de comedor modelo NÓRDICA, nuevo modelo elegante y lineal ideal para hogar y oficina: salas de estar, comedores, dormitorios, vestíbulo, recepción, salas de espera y banquetes. Una silla de estilo nórdico con toda la elegante sobriedad y el minimalismo de los muebles escandinavos.
+- Material fácil y rápido de limpiar con el solo uso de un paño húmedo. ¡Importante! Las sillas no se pueden empilar.
 - Las sillas requieren montaje y el pack incluye manual de instrucciones y herramientas de montaje.
 - Silla en polipropileno de alta calidad, material ultra resistente y ligero resistente a la humedad. Elegantes patas en madera de haya en color natural robustas y duraderas.
-- La medida de la silla es de 47cm (ancho) x 81cm (alto) x 56cm (fondo). Es una silla que con sus líneas simples permite dar un toque divertido y rejuvenecido, así pues, lograrás dar frescura a tu hogar.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08JJ6ZVSJ/?tag=tolees-21)

@@ -25,10 +25,10 @@ Ahora mismo tienes [DYNASONIC - Altavoz Bluetooth Portatil 10W | Reproductor mp3
 
 🔎:
 
+- Potencía de salida de 10w (5w x 2pcs, 4 inch) calidad y limpieza de audio
+- Inalámbrico y portátil 100%, también usable con cables (incluídos) la batería interna y recargable, opción de añadir batería extra tipo polímero de litio (no incluida)
 - Lector usb y lector de tarjeta micro sd
 - Radio fm interna, guarda más de 60 emisoras
 - Diseños exclusivos, subwoofer cromados y mando de control remoto incluido
-- Potencía de salida de 10w (5w x 2pcs, 4 inch) calidad y limpieza de audio
-- Inalámbrico y portátil 100%, también usable con cables (incluídos) la batería interna y recargable, opción de añadir batería extra tipo polímero de litio (no incluida)
 
 [Visítala!!!](https://www.amazon.es/dp/B07D2HJK27/?tag=tolees-21)

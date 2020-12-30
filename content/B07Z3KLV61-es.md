@@ -25,10 +25,10 @@ Está [IKOHS THERA Retro - Cafetera Express para Espresso y Cappucino  1100W  15
 
 ℹ️:
 
-- Es completamente apta con café molido y con monodosis ESE (Easy Serving Espresso). Tiene además un depósito de agua extraíble de 1,5 litros y una bandeja superior calientatazas. Con toda la elegancia y ornamentación de una cafetera de las de toda la vida, su bandeja de goteo extraíble de fácil limpieza y su válvula de seguridad con liberador automático de presión la convierten en una cafetera completamente moderna.
-- Disfruta del café a diario, con solo apretar un botón toda la magia de un buen café en tu taza, vive la experiencia del mejor barista. Es adecuado para café molido y monodosis suaves ESE de 55 mm (Easy Serving Espresso).
-- Cafetera THERA espress estilo vintage para café espresso y cappuccino con una bomba de presión de 15 bares y 1100W de potencia. Con vaporizador orientable con protección: espuma leche, calienta agua y otros líquidos. Bonito y exclusivo diseño en su brazo con doble salida con dos portafiltros: prepara uno o dos cafés a la vez.
 - Conseguir el café perfecto, el buen café, no es fácil. Son muchos los factores a tener en cuenta: presión adecuada, temperatura, molido, etc. pero la nueva THERA está pensada para eso y mucho más. También para que tu solo tengas que relajarte disfrutando de la esencia del buen café.
 - Como en los mejores cafés del mundo, la nueva Espresso de IKOHS THERA, prepara el café con todo el aroma de la tradición cafetera
+- Es completamente apta con café molido y con monodosis ESE (Easy Serving Espresso). Tiene además un depósito de agua extraíble de 1,5 litros y una bandeja superior calientatazas. Con toda la elegancia y ornamentación de una cafetera de las de toda la vida, su bandeja de goteo extraíble de fácil limpieza y su válvula de seguridad con liberador automático de presión la convierten en una cafetera completamente moderna.
+- Cafetera THERA espress estilo vintage para café espresso y cappuccino con una bomba de presión de 15 bares y 1100W de potencia. Con vaporizador orientable con protección: espuma leche, calienta agua y otros líquidos. Bonito y exclusivo diseño en su brazo con doble salida con dos portafiltros: prepara uno o dos cafés a la vez.
+- Disfruta del café a diario, con solo apretar un botón toda la magia de un buen café en tu taza, vive la experiencia del mejor barista. Es adecuado para café molido y monodosis suaves ESE de 55 mm (Easy Serving Espresso).
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07Z3KLV61/?tag=tolees-21)

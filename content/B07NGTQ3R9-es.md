@@ -25,8 +25,8 @@ Tienes [IMC Toys - Bebés Llorones  Portabebés  90019 ](https://www.amazon.es/d
 
 🔎:
 
-- Cruza las asas por detrás para ajuste más ergonómico
 - Puedes colocar a tu Bebé Llorón de espaldas o de frente
+- Cruza las asas por detrás para ajuste más ergonómico
 - Llévate a tu Bebé Llorón donde quieras que vayas
 
 [Comprar!!!](https://www.amazon.es/dp/B07NGTQ3R9/?tag=tolees-21)

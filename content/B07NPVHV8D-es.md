@@ -25,11 +25,11 @@ En este momento está [Monster Jam Pack de dos Vehículos 1:64 Modelos Surtido  
 
 🔎:
 
-- Gran nivel de detalle y acabado.
-- Haz extraordinarias acrobacias.
-- Provoca "locos accidentes" con sus enormes ruedas.
-- Replicas de los monsters jams de los shows.
-- Modelos aleatorios.
 - Dos modelos para doble diversión.
+- Haz extraordinarias acrobacias.
+- Replicas de los monsters jams de los shows.
+- Provoca "locos accidentes" con sus enormes ruedas.
+- Gran nivel de detalle y acabado.
+- Modelos aleatorios.
 
 [Aquí!!!](https://www.amazon.es/dp/B07NPVHV8D/?tag=tolees-21)

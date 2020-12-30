@@ -25,10 +25,10 @@ En este momento está [Bosch Professional GAS 18V-10 L - Aspirador a batería  1
 
 🔎:
 
-- El diseño compacto y ligero facilitan el transporte
 - Aspirador en seco/húmedo a batería GAS 18V-10 L de Bosch Professional con depósito de 10 l (bruto)
-- El GAS 18V-10L ofrece una excelente potencia de aspiración durante un período prolongado gracias al flujo de aire rotativo fácil de filtrar
+- El diseño compacto y ligero facilitan el transporte
 - Incluye: GAS 18V-10, manguera de alta calidad: 1,6 m, tubo acodado,3 tubos prolongación, boquilla pr. ranuras:250 mm,boquilla pr. suelos,filtro HEPA, correa hombro,4 ruedas desmontables,adaptador,caja
 - Professional 18V System. Máximo rendimiento. Máxima libertad. Todas nuestras baterías son compatibles con las herramientas nuevas o existentes Bosch Professional del mismo voltaje
+- El GAS 18V-10L ofrece una excelente potencia de aspiración durante un período prolongado gracias al flujo de aire rotativo fácil de filtrar
 
 [Aquí!!!](https://www.amazon.es/dp/B07WH4QD8H/?tag=tolees-21)

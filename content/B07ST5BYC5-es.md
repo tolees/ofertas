@@ -25,14 +25,14 @@ Tienes [Patrulla Canina Vehículo y Personaje  Modelos Surtidos  BIZAK 61926775 
 
 ℹ️:
 
-- El vehículo de Chase: las ruedas giran de verdad
-- Cada cachorro tiene su propio vehículo y las figuras encajan en su interior
-- El vehículo de Skye: la hélice gira
 - El vehículo de Everest
+- El vehículo de Chase: las ruedas giran de verdad
 - El Vehículo de Rocky: el montacargas gira y la parte trasera se abre
 - El vehículo de Zuma: las aspas se mueven
-- El vehículo de Marshall: la escalera es móvil
+- El vehículo de Skye: la hélice gira
+- Cada cachorro tiene su propio vehículo y las figuras encajan en su interior
 - El Vehículo de Rubble: el taladro y la pala se mueven
+- El vehículo de Marshall: la escalera es móvil
 - No hay opción para elegir el modelo.
 - Vehículos con funciones básicas, sus ruedas giran y partes móviles; incluye 1 vehículo y 1 figura
 

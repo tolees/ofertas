@@ -25,13 +25,13 @@ En este momento está [Bloopies Shellies- Sirenitas  IMC Toys 91917IME    color/
 
 🔎:
 
-- Cada perla contiene el objeto favorito de tu shellie; además está relacionado con su personalidad
-- Colección de 12+2 sirenitas que viven dentro de una concha
-- Llévate tu concha a todas partes, es como un bolsito
-- Encuentra las 2 Shellies con acabados especiales y el objeto de su perla plateado o dorado
-- La concha se abre de forma mágica dentro del agua
-- Descubre todos los accesorios; saca el mapa de la botella para resolver el laberinto y libera la perla
 - Hay más de 12 Shellies para coleccionar
+- Descubre todos los accesorios; saca el mapa de la botella para resolver el laberinto y libera la perla
+- Colección de 12+2 sirenitas que viven dentro de una concha
 - Las shellies tienen un cinturón especial para llevar su perla a todas partes
+- La concha se abre de forma mágica dentro del agua
+- Encuentra las 2 Shellies con acabados especiales y el objeto de su perla plateado o dorado
+- Cada perla contiene el objeto favorito de tu shellie; además está relacionado con su personalidad
+- Llévate tu concha a todas partes, es como un bolsito
 
 [Aquí!!!](https://www.amazon.es/dp/B082Q5STP8/?tag=tolees-21)

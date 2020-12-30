@@ -25,9 +25,9 @@ Está [ECOVACS Deebot Ozmo T8 + Robot Aspirador y Limpiador con estación de aut
 
 ℹ️:
 
-- Mapas optimizados: TrueMapping
 - Sistema de limpieza a presión: OZMO Pro.
-- Estación de autovaciado.
 - Detección de obstáculos: TrueDetect 3D.
+- Mapas optimizados: TrueMapping
+- Estación de autovaciado.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08FCQ1Z6Y/?tag=tolees-21)

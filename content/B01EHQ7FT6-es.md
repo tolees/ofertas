@@ -25,11 +25,11 @@ Está [Lékué Polo apilable mini 10 5 cm  4 Unidades  Surtido multicolor  Silic
 
 ℹ️:
 
-- volume: 4x 60 ml
-- Material: Platinum-Silicone
-- Volume: 4x 60 ml
 - dimensions: 10,5 x 6,5 x 2,6 cm
-- material: platinum-silicone
+- Volume: 4x 60 ml
 - Dimensions: 10,5 x 6,5 x 2,6 cm
+- material: platinum-silicone
+- Material: Platinum-Silicone
+- volume: 4x 60 ml
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01EHQ7FT6/?tag=tolees-21)

@@ -26,9 +26,9 @@ Tienes [Walimex Pro easyCover - Funda de protección para Nikon D5300  Incluye P
 ℹ️:
 
 - Profundidad de 8 cm
-- Altura de 9.5 cm
-- Anchura de 13 cm
-- Peso de 60 g
 - Fabricada en silicona
+- Altura de 9.5 cm
+- Peso de 60 g
+- Anchura de 13 cm
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00IZSVHGU/?tag=tolees-21)

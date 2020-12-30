@@ -25,10 +25,10 @@ Tienes [Taza Harry Potter Personalizada con Nombre/Texto. Regalos Frikis Persona
 
 🔎:
 
-- Taza Harry Potter de cerámica blanca de calidad premium. Personalizada de manera completa desde el borde superior al inferior. La impresión de la taza queda integrada, por lo que no se percibe al tacto, no se raya y no pierde color con el paso del tiempo. Colores vivos e intensos.
-- La Taza Harry Potter puede usarse en el microondas y en el lavavajillas.
-- Tamaño de la Taza Harry Potter 80ØX95 mm/Capacidad 330ml.
 - Interior Taza Harry Potter disponible en varios colores.
+- Tamaño de la Taza Harry Potter 80ØX95 mm/Capacidad 330ml.
+- La Taza Harry Potter puede usarse en el microondas y en el lavavajillas.
 - La taza Harry Potter personalizada se entrega con una caja cofre regalo de calidad premium totalmente lista para entregar. Ver en foto detalle.
+- Taza Harry Potter de cerámica blanca de calidad premium. Personalizada de manera completa desde el borde superior al inferior. La impresión de la taza queda integrada, por lo que no se percibe al tacto, no se raya y no pierde color con el paso del tiempo. Colores vivos e intensos.
 
 [Comprar!!!](https://www.amazon.es/dp/B084YTDFSB/?tag=tolees-21)

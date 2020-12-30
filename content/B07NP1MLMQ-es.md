@@ -25,8 +25,8 @@ Está [Heelys Voyager  He100606   Zapatillas de Skateboarding Unisex Adulto  Mul
 
 ℹ️:
 
-- Shoe Width : medium
-- sintética, Textíl, sintética, caucho, Cordones, Zapatos con ruedas
 - 1
+- sintética, Textíl, sintética, caucho, Cordones, Zapatos con ruedas
+- Shoe Width : medium
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07NP1MLMQ/?tag=tolees-21)

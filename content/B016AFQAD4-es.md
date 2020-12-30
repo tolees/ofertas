@@ -26,9 +26,9 @@ Tienes [Dormio Zafiro - Colchón viscoelástico  Blanco  90 x 190 x 21 cm](https
 🔎:
 
 - Tratamiento antiácaros, antibacterias, antimoho, antiestático y antialérgico
-- Altura total 21 cm
-- Núcleo de ELIOCEL de alta resistencia y acolchado de 3 capas
 - Su óptima adaptabilidad consigue evitar tensión muscular y favorecer un descanso saludable y reparador
+- Núcleo de ELIOCEL de alta resistencia y acolchado de 3 capas
+- Altura total 21 cm
 - Combina la firmeza de su núcleo con la propiedad termorreguladora de la viscoelástica, sensible a la temperatura corporal y ambiental
 
 [Comprar!!!](https://www.amazon.es/dp/B016AFQAD4/?tag=tolees-21)

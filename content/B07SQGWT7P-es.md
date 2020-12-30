@@ -25,10 +25,10 @@ Ahora mismo tienes [Geox D Sukie B  Zapatillas para Mujer  Beige  Dk Skin C8191 
 
 🔎:
 
-- Cierre: Cordones
 - Revestimiento: Sintético
+- Cierre: Cordones
 - Tipo de tacón: Plano
-- Material exterior: Cuero
 - Material de la suela: Sintético
+- Material exterior: Cuero
 
 [Visítala!!!](https://www.amazon.es/dp/B07SQGWT7P/?tag=tolees-21)

@@ -25,8 +25,8 @@ Tienes [NECA Cuchillo Cabezon Head Knocker 18 cm Chucky  NEC0NC04711 ](https://w
 
 ℹ️:
 
-- Figura de chucky
 - Figura versión cabezón
+- Figura de chucky
 - Fabricada en pvc
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000ZOQCBM/?tag=tolees-21)

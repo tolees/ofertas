@@ -26,9 +26,9 @@ En este momento está [Rybozen Convertidor y Reproductor de Cinta casetes Conver
 🔎:
 
 - Cinta de cassette para convertidor de MP3, Plug and Play, con rebobinado automático
+- La salida de audio le permite escuchar sus auriculares u otro sistema de altavoces
 - Canal de audio: I / D, Velocidad de bits: 128 Kbbs, Partición automática o manual de cada canción.(No incluye: unidad flash USB y pilas AA).
 - La reproducción le permite verificar la música grabada en el dispositivo
 - Conver Tape Musik auf MP3 fils und speichern Sie in USB-Flash-PC nicht erforderlich
-- La salida de audio le permite escuchar sus auriculares u otro sistema de altavoces
 
 [Aquí!!!](https://www.amazon.es/dp/B079NZ8WVF/?tag=tolees-21)

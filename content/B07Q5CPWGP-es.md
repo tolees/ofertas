@@ -25,10 +25,10 @@ Tienes [Moleskine  Libreta Clásica con Páginas Punteadas  Tapa Dura y Cierre E
 
 ℹ️:
 
-- El compañero óptimo para tomar notas en la universidad o en la oficina, anotar objetivos, listas de tareas o recordatorios
-- Este cuaderno tiene todas las características legendarias de los cuadernos Classic: esquinas redondeadas, cierre elástico y marcapáginas del mismo color que la portada
-- Clásico e icónico cuaderno con toda la historia de Moleskine; nuevo tamaño y páginas con diferentes diseños para completarlas con tus ideas
-- Papel de color marfil de 70 g/m2 de tapa dura y sin ácido, con páginas punteadas
 - A4 21 x 29.7 cm - Negro - 192 páginas
+- Papel de color marfil de 70 g/m2 de tapa dura y sin ácido, con páginas punteadas
+- El compañero óptimo para tomar notas en la universidad o en la oficina, anotar objetivos, listas de tareas o recordatorios
+- Clásico e icónico cuaderno con toda la historia de Moleskine; nuevo tamaño y páginas con diferentes diseños para completarlas con tus ideas
+- Este cuaderno tiene todas las características legendarias de los cuadernos Classic: esquinas redondeadas, cierre elástico y marcapáginas del mismo color que la portada
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07Q5CPWGP/?tag=tolees-21)

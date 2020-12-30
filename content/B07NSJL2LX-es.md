@@ -28,7 +28,7 @@ Ahora mismo tienes [MOJIPOPS - Display de 24 figuras coleccionables MojiPops   c
 - Juguete para a partir de los 3 años de edad
 - Pack de 24 sobres individuales de MojiPops - hay más de 90 figuras a coleccionar
 - Gira sus caritas o intercámbialas con otros MojiPops para inventarte tus historias
-- Los MojiPops son muy especiales: ¡Pueden cambiar sus emociones!
 - Ideal para desarrollar la imaginación y habilidad emocional de los niños
+- Los MojiPops son muy especiales: ¡Pueden cambiar sus emociones!
 
 [Visítala!!!](https://www.amazon.es/dp/B07NSJL2LX/?tag=tolees-21)

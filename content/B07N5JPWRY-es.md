@@ -25,8 +25,8 @@ Tienes [Banpresto Dragon Ball Super estatuas  Idea Regalo  Personaje  Multicolor
 
 ℹ️:
 
-- El producto se vende en el paquete original
 - Estupenda estatua de colección de plástico rígido, con gran cuidado para los colores y detalles
 - Producto original banpresto
+- El producto se vende en el paquete original
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07N5JPWRY/?tag=tolees-21)

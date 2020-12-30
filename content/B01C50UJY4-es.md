@@ -25,10 +25,10 @@ Tienes [IMC Toys- Bebés Llorones Lágrimas Mágicas  Bibe Casita - Chupete  979
 
 🔎:
 
-- Para saber quién te ha tocado, gira el pomo de la casita para ir descubriendo todos sus accesorios, hay 4 comunes y 4 personalizados para cada uno
 - Bebés Llorones Lágrimas Mágicas Fantasy ofrecen una divertida forma de inculcar valores de amistad y compañerismo; tamaño aproximado: 13.5 cm, edad recomendada: 3+ años
-- Llegan los Bebés Llorones Lágrimas Mágicas FANTASY, con glitter y mucho brillo; se venden surtidos
-- Dale de beber con su biberón mágico, aprieta su barriguita y llorará lágrimas de colores
 - Hay 6+ personajes para coleccionar y cada uno tiene su casita en forma de chupete; cuando su lágrima cae en la casa… wooww se abre sola
+- Dale de beber con su biberón mágico, aprieta su barriguita y llorará lágrimas de colores
+- Llegan los Bebés Llorones Lágrimas Mágicas FANTASY, con glitter y mucho brillo; se venden surtidos
+- Para saber quién te ha tocado, gira el pomo de la casita para ir descubriendo todos sus accesorios, hay 4 comunes y 4 personalizados para cada uno
 
 [Comprar!!!](https://www.amazon.es/dp/B01C50UJY4/?tag=tolees-21)

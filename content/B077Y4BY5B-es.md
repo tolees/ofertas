@@ -25,10 +25,10 @@ Tienes [FILA Disruptor  Zapatillas Mujer  Negro  Black   38 EU](https://www.amaz
 
 ℹ️:
 
-- 1010302-25Y
-- fila
 - Mujer
-- Disruptor Low Wmn
 - Zapatillas
+- 1010302-25Y
+- Disruptor Low Wmn
+- fila
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B077Y4BY5B/?tag=tolees-21)
