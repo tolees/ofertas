@@ -25,10 +25,10 @@ Está [WD My Cloud Pro PR2100 Pro Series 2-Bay Almacenamiento en red - NAS - WDB
 
 ℹ️:
 
+- Procesador Intel Pentium N3710 de cuatro núcleos a 1,6 GHz con 4 GB de memoria DDR3L
+- Transcodificación de vídeo integrada para transmitir en alta definición mediante Plex
 - Completa seguridad gracias a la protección con contraseña y el cifrado de volúmenes con AES de 256 bits
 - Configuración fácil y sencilla con gestión avanzada del dispositivo mediante My Cloud OS 5
 - Almacenamiento centralizado para organizar los contenidos multimedia y mejorar el flujo de trabajo
-- Procesador Intel Pentium N3710 de cuatro núcleos a 1,6 GHz con 4 GB de memoria DDR3L
-- Transcodificación de vídeo integrada para transmitir en alta definición mediante Plex
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01GRFF1ZU/?tag=tolees-21)

@@ -25,8 +25,8 @@ Está [BOSS Mix & Match Pants Pantalones  Azul  Dark Blue 403   46  Talla del Fa
 
 ℹ️:
 
-- Con bolsillos laterales
-- Presentan cordón en la cintura
 - Pantalones con puños
+- Presentan cordón en la cintura
+- Con bolsillos laterales
 
 [Ver la oferta!!](https://www.amazon.es/dp/B071X8RKP1/?tag=tolees-21)

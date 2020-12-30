@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo ideapad 530S-14IKB - Ordenador Po con un 36.36 % de descuento'
-date: 2020-12-28 20:36:19
+date: 2020-12-30 00:00:30
 image: 'https://m.media-amazon.com/images/I/41+8dWVWT2L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07ND38GKT/?tag=tolees-21'
 descuento: '36.36'
-average: '742.9311764705882'
+average: '738.411052631579'
 ---
 
 En este momento está [Lenovo ideapad 530S-14IKB - Ordenador Portátil 14" FullHD  Intel Core i7-8550U  RAM de 8GB  512GB SSD  Nvidia MX130-2GB  Windows 10  Gris - Teclado QWERTY Español](https://www.amazon.es/dp/B07ND38GKT/?tag=tolees-21) a 699.99 EUR (original: 1099.99 EUR) (36.36 %  de descuento) en el siguiente enlace!
@@ -26,9 +26,9 @@ En este momento está [Lenovo ideapad 530S-14IKB - Ordenador Portátil 14" FullH
 🔎:
 
 - Tarjeta gráfica Nvidia MX130 con 2GB RAM, DDR5
+- Sistema operativo: Windows10
 - Procesador Intel Core i7-8550U, Quadcore 1.8GHz hasta 4GHz
 - Pantalla de 14" Full HD, 1920 x 1080 pixeles
-- Sistema operativo: Windows10
 - Almacenamiento SSD de 512GB M.2 PCIE
 - Memoria RAM de 8GB DDR4, 2400Mhz
 
