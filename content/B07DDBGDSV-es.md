@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pinypon Action - Policía Vehículos de Ac al 40.45 % de descuento'
-date: 2020-12-30 10:11:09
+date: 2020-12-31 16:44:55
 image: 'https://m.media-amazon.com/images/I/41rdE-+7cmL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DDBGDSV/?tag=tolees-21'
 descuento: '40.45'
-average: '13.716272727272727'
+average: '13.69972972972973'
 ---
 
 Ahora mismo tienes [Pinypon Action - Policía Vehículos de Acción  Famosa 700014495 ](https://www.amazon.es/dp/B07DDBGDSV/?tag=tolees-21) a 11.88 EUR (original: 19.95 EUR) (40.45 %  de descuento) en el siguiente enlace!

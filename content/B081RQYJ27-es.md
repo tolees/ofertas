@@ -25,11 +25,11 @@ Ahora mismo tienes [Hisense WFGA9014V - Lavadora Carga Frontal 9Kg  1400 RPM Mot
 
 🔎:
 
-- Ayuda a la dosificación. Indica la cantidad exacta necesaria en cada lavado
-- Dimensiones (Ancho x Profundo x Alto cm): 60 x 61 x 85
-- Tambor Wave Plus Diseño para minizar las arrugas simplificando el proceso de planchado
-- Motor Inverter, menor ruido y más duración de la vida útil de la lavadora
-- Velocidad Máxima de centriguado 1.400 rpm
 - Capacidad de carga 9Kg con una Eficiencia energética A+++(-20%) ahorra energía y tiempo
+- Motor Inverter, menor ruido y más duración de la vida útil de la lavadora
+- Dimensiones (Ancho x Profundo x Alto cm): 60 x 61 x 85
+- Ayuda a la dosificación. Indica la cantidad exacta necesaria en cada lavado
+- Tambor Wave Plus Diseño para minizar las arrugas simplificando el proceso de planchado
+- Velocidad Máxima de centriguado 1.400 rpm
 
 [Visítala!!!](https://www.amazon.es/dp/B081RQYJ27/?tag=tolees-21)

@@ -25,10 +25,10 @@ Ahora mismo tienes [Moleskine - Agenda Semanal de 18 Meses  Agenda Semanal 2020/
 
 🔎:
 
-- Cada agenda incluye 295 pegatinas especiales para personalizar tu agenda: 1 hoja con letras y 2 hojas con muchos iconos diferentes
-- La agenda incluye las icónicas esquinas redondeadas, cierre elástico, cinta marcapáginas y el aviso "En caso de pérdida"; papel sin ácido de 70 g/m² de color marfil
 - El paquete contiene una agenda semanal de 18 meses con tapa blanda, disponible en tamaño XL 19 x 25 cm, 208 páginas, color negro
-- Esta agenda semanal 2020/2021 abarca 18 meses, desde julio de 2020 hasta diciembre de 2021, para anotar tus citas y tareas diarias y semanales
 - Gracias a la disposición semanal puedes ver las citas a la izquierda, mientras que a la derecha encontrarás una página para escribir notas como en el clásico cuaderno de Moleskine
+- La agenda incluye las icónicas esquinas redondeadas, cierre elástico, cinta marcapáginas y el aviso "En caso de pérdida"; papel sin ácido de 70 g/m² de color marfil
+- Cada agenda incluye 295 pegatinas especiales para personalizar tu agenda: 1 hoja con letras y 2 hojas con muchos iconos diferentes
+- Esta agenda semanal 2020/2021 abarca 18 meses, desde julio de 2020 hasta diciembre de 2021, para anotar tus citas y tareas diarias y semanales
 
 [Visítala!!!](https://www.amazon.es/dp/B07Y62DGMF/?tag=tolees-21)

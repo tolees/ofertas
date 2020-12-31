@@ -28,7 +28,7 @@ Tienes [Columbia Carson Pass II Chaqueta Larga con Capucha  Mujer  Chalk  XS](ht
 - Chaqueta de mujer clásica y estilosa con cinturón y piel de imitación para un look urbano y chic
 - La tecnología Omni-Tech de sellado de costuras combina la impermeabilidad y la transpiración al más alto nivel No importa cuál sea el terreno, te mantienes fresco y seco
 - La tecnología reflectante Omni-Heat de la chaqueta ofrece un mayor aislamiento para mantenerte caliente incluso en los días más fríos
-- Capucha integrada y ajustable para ofrecer una mayor protección contra los elementos, Bolsillos para las manos y Multimedia
 - Contiene: 1x Columbia Carson Pass II Chaqueta para mujer, Exterior: Legacy Dobby 72% nailon, 28% poliéster; Forro: Omni-Heat Reflective Microtex Light 100% poliéster; Aislamiento: 100 g de aislamiento térmico Omni-Heat 50% poliéster, 50% poliéster reciclado, Color: Beige (Chalk), Talla: XS, Art.No 1515501
+- Capucha integrada y ajustable para ofrecer una mayor protección contra los elementos, Bolsillos para las manos y Multimedia
 
 [Comprar!!!](https://www.amazon.es/dp/B0814CGQBG/?tag=tolees-21)

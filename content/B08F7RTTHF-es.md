@@ -25,15 +25,15 @@ Ahora mismo tienes [Adidas Real Madrid Temporada 2020/21 Camiseta Segunda Equipa
 
 🔎:
 
+- Tejido tricot 100 % poliéster reciclado
 - Real a jsy
-- Tecnología de absorción de humedad aeroready
-- 100% poliéster reciclado, 100% poliéster reciclado
 - Manga de puño
+- Closure: pull on
+- Lavar a máquina
+- Tecnología de absorción de humedad aeroready
 - Una camiseta de visitante con un llamativo diseño; tipo de deporte: Fútbol americano
 - Cuello en v acanalado
-- Lavar a máquina
 - Corte clásico
-- Closure: pull on
-- Tejido tricot 100 % poliéster reciclado
+- 100% poliéster reciclado, 100% poliéster reciclado
 
 [Visítala!!!](https://www.amazon.es/dp/B08F7RTTHF/?tag=tolees-21)
