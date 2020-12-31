@@ -25,10 +25,10 @@ Tienes [Seiko Reloj de Pulsera SUP857P1](https://www.amazon.es/dp/B07NNT69LV/?ta
 
 🔎:
 
-- Analógico en piel para Unisex
-- Blanco y azul
-- Wr 30mt
-- Solar
 - Clsico
+- Analógico en piel para Unisex
+- Wr 30mt
+- Blanco y azul
+- Solar
 
 [Comprar!!!](https://www.amazon.es/dp/B07NNT69LV/?tag=tolees-21)

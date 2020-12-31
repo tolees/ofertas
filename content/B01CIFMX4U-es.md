@@ -25,11 +25,11 @@ Tienes [Tefal Comfort Grip - Sartén de aluminio de 24 cm con exterior negro esm
 
 🔎:
 
-- Antiadherente Titanium Force con inserciones de Titanio; seguro: sin PFOA, sin Plomo, sin Cadmio
+- Sartén de 24 cm de diámetro en el borde exterior y 4 cm de alto (18,5 cm de diámetro en la base)
 - Interior con efecto holográfico y mango ergonómico de silicona para un extra confort
 - Sartén de Aluminio con base Diffusal con inserciones de cobre para una adecuada y homogénea conducción del calor; exterior antiadherente para una fácil limpieza
-- Sartén de 24 cm de diámetro en el borde exterior y 4 cm de alto (18,5 cm de diámetro en la base)
 - Compatible con cocinas: Gas, Placa eléctrica y Vitrocerámica (no inducción)
 - Thermospot: el punto central ayuda al control de la temperatura, cambia de color cuando la sartén alcanza 180ºC, adecuada para cocinar la mayoría de platos
+- Antiadherente Titanium Force con inserciones de Titanio; seguro: sin PFOA, sin Plomo, sin Cadmio
 
 [Comprar!!!](https://www.amazon.es/dp/B01CIFMX4U/?tag=tolees-21)

@@ -25,9 +25,9 @@ Tienes [Cobeco Gel a Base de Agua de Masaje - 1000 ml](https://www.amazon.es/dp/
 
 ℹ️:
 
+- No pegajosa
 - No se seca
 - Lubricante anal
 - Suavemente
-- No pegajosa
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00GTXNISS/?tag=tolees-21)

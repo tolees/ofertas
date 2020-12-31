@@ -26,8 +26,8 @@ Ahora mismo tienes [Joma Miami Bermuda Deporte de Tenis  Hombres  Blanco  2XS](h
 🔎:
 
 - Tiene un ajuste óptimo
+- Hecho 100 % de poliéster
 - Cintura elástica con cordón
 - Pantalón corto con bolsillos
-- Hecho 100 % de poliéster
 
 [Visítala!!!](https://www.amazon.es/dp/B06Y32LCGK/?tag=tolees-21)

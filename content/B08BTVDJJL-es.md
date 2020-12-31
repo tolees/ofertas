@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS ROG Zephyrus M15 GU502LW-AZ037T - P con un 23.96 % de descuento'
-date: 2020-12-27 05:01:29
+date: 2020-12-31 21:45:14
 image: 'https://m.media-amazon.com/images/I/41tM0YTL4CL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08BTVDJJL/?tag=tolees-21'
 descuento: '23.96'
-average: '1720.4545454545457'
+average: '1722.8333333333335'
 ---
 
 En este momento está [ASUS ROG Zephyrus M15 GU502LW-AZ037T - Portátil Gaming de 15.6" FullHD 240Hz  Intel Core i7-10750H  16GB RAM  512GB SSD  NVIDIA RTX2070-8GB  Windows 10  Negro - Teclado QWERTY español](https://www.amazon.es/dp/B08BTVDJJL/?tag=tolees-21) a 1749.0 EUR (original: 2299.99 EUR) (23.96 %  de descuento) en el siguiente enlace!
@@ -25,11 +25,11 @@ En este momento está [ASUS ROG Zephyrus M15 GU502LW-AZ037T - Portátil Gaming d
 
 🔎:
 
-- Procesador Intel Core i7-10750H (6 Núcleos, 12 Subprocesos, Caché: 12MB SmartCache, 2.60GHz hasta 5.00GHz, 64-bit)
-- Memoria RAM 16GB (8GB + 8GB [EN PLACA]) DDR4 3200MHz
 - Tarjeta gráfica NVIDIA GeForce RTX 2070 con Diseño Max-Q - 8GB
-- Pantalla de 15.6" FullHD (1920 x 1080) 240 Hz
-- Sistema operativo: Windows 10
 - Almacenamiento de 512GB SSD
+- Sistema operativo: Windows 10
+- Pantalla de 15.6" FullHD (1920 x 1080) 240 Hz
+- Memoria RAM 16GB (8GB + 8GB [EN PLACA]) DDR4 3200MHz
+- Procesador Intel Core i7-10750H (6 Núcleos, 12 Subprocesos, Caché: 12MB SmartCache, 2.60GHz hasta 5.00GHz, 64-bit)
 
 [Aquí!!!](https://www.amazon.es/dp/B08BTVDJJL/?tag=tolees-21)

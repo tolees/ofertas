@@ -25,9 +25,9 @@ Tienes [Daniel Wellington Classic Canterbury  Reloj Azul-Blanco-Rojo/Oro Rosado 
 
 ℹ️:
 
-- Tamaño de Esfera: 36 mm
-- Diseñadas Suecia, las piezas de Daniel Wellington presentan un estilo escandinavo minimalista y son el regalo o accesorio personal óptimo para cada ocasión
 - Correa intercambiable
 - Longitud de la correa ajustable: (Min - Max) 150-200mm
+- Tamaño de Esfera: 36 mm
+- Diseñadas Suecia, las piezas de Daniel Wellington presentan un estilo escandinavo minimalista y son el regalo o accesorio personal óptimo para cada ocasión
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00BKQT590/?tag=tolees-21)
