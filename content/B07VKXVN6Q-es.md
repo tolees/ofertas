@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Avengers- Figura Titan Hero Deluxe Thano al 24.17 % de descuento'
-date: 2020-12-25 10:22:21
+date: 2020-12-31 13:36:54
 image: 'https://m.media-amazon.com/images/I/519a9iViMYL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07VKXVN6Q/?tag=tolees-21'
 descuento: '24.17'
-average: '19.296666666666667'
+average: '19.21'
 ---
 
 Está [Avengers- Figura Titan Hero Deluxe Thanos  Hasbro E73815L0 ](https://www.amazon.es/dp/B07VKXVN6Q/?tag=tolees-21) con 24.17 de descuento por 18.95 EUR (original: 24.99 EUR) en el siguiente enlace!

@@ -25,10 +25,10 @@ En este momento está [AUKEY Auriculares Bluetooth  Auriculares Inalámbricos Bl
 
 🔎:
 
-- Convenient Touch Control: Effortlessly manage audio playback & calls with the multi-function touch panel and microphone on each earphone. The wireless headphones can even be used alone like a Bluetooth headset
 - One-Step Reconnection: Simply take the earbuds out of the charging case and they will automatically connect to your phone (after being paired the first time)
+- Package Contents: AUKEY EP-T21 True Wireless Earphones, Charging Case, Three Pairs of Ear-Tips (S/M/L), Micro-USB Cable, User Manual, Quick Start Guide, 45-Day Money Back Guarantee and 24-Month Product Replacement Warranty
 - Great Battery Life: The Bluetooth earphones alone provide up to 5 hours of high-quality sound output on a single charge, and the included charging case provides an additional 4 charges, giving 25 hours of total playtime
 - Superior Sound Quality: Experience crisp, high-fidelity sound while Bluetooth 5 provides faster pairing and a stable, efficient wireless connection
-- Package Contents: AUKEY EP-T21 True Wireless Earphones, Charging Case, Three Pairs of Ear-Tips (S/M/L), Micro-USB Cable, User Manual, Quick Start Guide, 45-Day Money Back Guarantee and 24-Month Product Replacement Warranty
+- Convenient Touch Control: Effortlessly manage audio playback & calls with the multi-function touch panel and microphone on each earphone. The wireless headphones can even be used alone like a Bluetooth headset
 
 [Aquí!!!](https://www.amazon.es/dp/B07Y398JBX/?tag=tolees-21)

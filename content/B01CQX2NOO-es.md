@@ -25,10 +25,10 @@ Ahora mismo tienes [Rowenta Moveling CV3812F0 - Secador de pelo  2100 Effiwatts 
 
 🔎:
 
-- Recubrimiento Keratine & Shine: keratine, aporta protección, fortaleza, elasticidad y brillo al cabello; la torumalina emite iones de forma natural y aporta brillo y efecto anti estático
-- Boquilla concentradora de 8mm (anchura de la ranura )para obtener resultados rápidos y eficientes
-- Compacto de fácil transporte y ergonomía óptima para conseguir la comodidad de uso
 - 6 niveles: 3 ajustes de temperatura y 2 velocidades para adaptar el flujo de aire y la temperatura durante la sesión de secado
+- Boquilla concentradora de 8mm (anchura de la ranura )para obtener resultados rápidos y eficientes
 - Cable extra-largo de 1.8 m y anilla para colgar para aportar mayor comodidad de uso
+- Recubrimiento Keratine & Shine: keratine, aporta protección, fortaleza, elasticidad y brillo al cabello; la torumalina emite iones de forma natural y aporta brillo y efecto anti estático
+- Compacto de fácil transporte y ergonomía óptima para conseguir la comodidad de uso
 
 [Visítala!!!](https://www.amazon.es/dp/B01CQX2NOO/?tag=tolees-21)

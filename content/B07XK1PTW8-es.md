@@ -25,12 +25,12 @@ En este momento está [Apple Funda de cuero  para iPhone 11 Pro  - Azul medianoc
 
 🔎:
 
-- Just like every Apple-designed case, it’s put through thousands of hours of testing throughout the design and manufacturing process.
-- So not only does it look great, it’s built to protect your iPhone from scratches and drops.
-- These Apple-designed cases fit snugly over the curves of your iPhone without adding bulk.
-- Compatibility: iPhone 11 Pro
 - And you can keep it on all the time, even when you’re charging wirelessly.
 - They’re made from specially tanned and finished European leather, so the outside feels soft to the touch and develops a natural patina over time.
+- These Apple-designed cases fit snugly over the curves of your iPhone without adding bulk.
 - The machined aluminum buttons match the finish of your leather case, while a microfiber lining inside helps protect your iPhone.
+- Compatibility: iPhone 11 Pro
+- So not only does it look great, it’s built to protect your iPhone from scratches and drops.
+- Just like every Apple-designed case, it’s put through thousands of hours of testing throughout the design and manufacturing process.
 
 [Aquí!!!](https://www.amazon.es/dp/B07XK1PTW8/?tag=tolees-21)

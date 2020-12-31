@@ -25,12 +25,12 @@ Está [Apple Funda Leather Case  para el iPhone 11 Pro  -  PRODUCT RED](https://
 
 ℹ️:
 
-- Como todas las fundas de Apple, se ha sometido a miles de horas de pruebas a lo largo de todo el proceso de diseño y fabricación.
+- Los botones de aluminio combinan a la perfección con el acabado de la piel, y el forro de microfibra protege el iPhone.
+- Además, puedes dejar la funda siempre puesta, incluso durante la carga inalámbrica.
 - Para el iPhone 11 Pro
+- Están fabricadas en piel europea curtida y teñida con un proceso especial, son suaves al tacto y adquieren un tono natural con el tiempo.
 - Para que protejas tu iPhone de arañazos y caídas sin renunciar al estilo.
 - Estas fundas diseñadas por Apple se adaptan perfectamente a las curvas del iPhone sin abultar nada.
-- Además, puedes dejar la funda siempre puesta, incluso durante la carga inalámbrica.
-- Los botones de aluminio combinan a la perfección con el acabado de la piel, y el forro de microfibra protege el iPhone.
-- Están fabricadas en piel europea curtida y teñida con un proceso especial, son suaves al tacto y adquieren un tono natural con el tiempo.
+- Como todas las fundas de Apple, se ha sometido a miles de horas de pruebas a lo largo de todo el proceso de diseño y fabricación.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07XL5J11B/?tag=tolees-21)

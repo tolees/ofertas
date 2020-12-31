@@ -26,7 +26,7 @@ Ahora mismo tienes [Dior - J Adore - Eau de parfum para mujer - 50 ml](https://w
 🔎:
 
 - Tipo de producto - Agua de perfume
-- Producto pensado para mujeres
 - Marca - Dior
+- Producto pensado para mujeres
 
 [Visítala!!!](https://www.amazon.es/dp/B00017XYNM/?tag=tolees-21)

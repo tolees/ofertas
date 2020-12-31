@@ -25,8 +25,8 @@ Tienes [Capazo Kaos Capitone en color negro  695900285 ](https://www.amazon.es/d
 
 ℹ️:
 
-- Bolso capazo TOUS Kaos Capitone de vinilo hidrófugo con acabado acolchado Kaos. Color negro
 - Certificado autenticidad TOUS
+- Bolso capazo TOUS Kaos Capitone de vinilo hidrófugo con acabado acolchado Kaos. Color negro
 - Que el negro sigue siendo el color de la moda por excelencia es algo que se puede apreciar simplemente saliendo a la calle
 - El street style sigue rendido a sus pies y se trata de una relación indestructible. Descubre la magia del negro con este capazo
 - Medidas: 26x33,5x14,5 cm

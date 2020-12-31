@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kitchen Craft Master Class - Fuente de h con un 25.16 % de descuento'
-date: 2020-12-27 10:09:22
+date: 2020-12-31 13:13:36
 image: 'https://m.media-amazon.com/images/I/31-fcvSWAqL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,7 +26,7 @@ En este momento está [Kitchen Craft Master Class - Fuente de horno rectangular 
 🔎:
 
 - De alta calidad y con un diseño moderno
-- Bandeja para asados
 - 39x7 cm
+- Bandeja para asados
 
 [Aquí!!!](https://www.amazon.es/dp/B0001IX3KA/?tag=tolees-21)

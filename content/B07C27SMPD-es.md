@@ -26,8 +26,8 @@ Ahora mismo tienes [Jack & Jones Jjebasic Knit V-Neck Noos suéter  Azul  Navy B
 🔎:
 
 - Regular fit knitted piece for men.
+- - Classic – and suitable for every day.
 - Material composition: 100 % cotton.
 - Made from comfortable cotton
-- - Classic – and suitable for every day.
 
 [Visítala!!!](https://www.amazon.es/dp/B07C27SMPD/?tag=tolees-21)

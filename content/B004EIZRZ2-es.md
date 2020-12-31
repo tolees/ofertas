@@ -26,9 +26,9 @@ Ahora mismo tienes [Intex 59065NP - Pelota hinchable gigante círculos de diáme
 🔎:
 
 - Diseño colorido y transparente de círculos de color: rosas, verdes, azules, violetas, naranjas y amarillos
+- Resistente al cloro y a la acción del agua salada: recomendado para jugar en la playa, en piscinas o en jardines
 - Balón hinchable Intex Jumbo; diámetro: 107 cm
 - El balón hinchable está fabricado de vinilo resistente
 - Incluye kit de parches para reparar pequeños poros o pinchazos
-- Resistente al cloro y a la acción del agua salada: recomendado para jugar en la playa, en piscinas o en jardines
 
 [Visítala!!!](https://www.amazon.es/dp/B004EIZRZ2/?tag=tolees-21)
