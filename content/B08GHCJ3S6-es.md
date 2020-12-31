@@ -25,12 +25,12 @@ Está [Tefal Unlimited On Set Sartenes 20-24-28 cm con revestimiento resistente 
 
 ℹ️:
 
-- Thanks to its stainless steel construction and handles and handles, it is oven safe up to 175 ° C
-- Fast and consistent results, the Ultimate On pan will be your unwavering ally recipe after recipe
 - Thermo-Fusion+ provides fast and uniform heating of the entire pan, for homogeneous and optimal cooking of food thanks to its wide surface and thick base
 - Set of 20 - 24 - 28 cm pans with high quality non-stick coating that lasts up to 6 times longer than standard Tefal titanium coating, and durable thanks to its reinforced structure and protective layer enriched with titanium
-- Thermo-Signal technology indicates the optimal temperature to start cooking and ensures texture, color and flavor, so your meals are delicious and tasty every day
 - Compatible with all types of cookers (gas, electric, ceramic and induction) for total versatility; for easy cleaning, dishwasher safe
+- Fast and consistent results, the Ultimate On pan will be your unwavering ally recipe after recipe
 - Safe non-stick coating: 0% PFOA; we carry out strictest controls than those stipulated by current legislation on food contact materials
+- Thermo-Signal technology indicates the optimal temperature to start cooking and ensures texture, color and flavor, so your meals are delicious and tasty every day
+- Thanks to its stainless steel construction and handles and handles, it is oven safe up to 175 ° C
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08GHCJ3S6/?tag=tolees-21)

@@ -26,9 +26,9 @@ Ahora mismo tienes [Lomvum Medidor Laser de Distancia  120M Profesional Metro La
 🔎:
 
 - 👍🏽 Multifuncional: el LOMVUM telémetro se puede utilizar para medir la distancia, el área, el volumen, la distancia indirecta (Pythagoras), tiene 2 puntos de referencia, función de aumento/reducción de la lectura, función de calibración automática. Los datos de mediciones de distancia se pueden acumular de forma independiente y se pueden guardar 20 conjuntos de datos.
-- 👍🏽 Nivel Electrónico: El LOMVUM medidor de distancia puede mostrar el ángulo con el plano horizontal para que la medición sea más precisa.
-- 👍🏽 La luz solar intensa puede debilitar la energía del láser y afectar la precisión y el rango de la medición (esto puede suceder para el telémetro de cualquier marca), por lo que le recomendamos que no lo use bajo una luz fuerte, si tiene que utilizarlo, que lo use con el reflector incluido.
-- 👍🏽 Rango de medición: 120M, precisión de medición: ±2mm, puede alterarse entre las tres unidades M/in/ft.
 - 👍🏽 El Paquete Incluye: el LOMVUM telémetro láser 120M, batería de 2*AAA, manual de usuario en alemán, bolsa de almacenamiento, garantía de calidad de 24 meses. Cualquier problema que se encuentra durante el uso, póngase en contacto con nosotros directamente por favor.
+- 👍🏽 Rango de medición: 120M, precisión de medición: ±2mm, puede alterarse entre las tres unidades M/in/ft.
+- 👍🏽 La luz solar intensa puede debilitar la energía del láser y afectar la precisión y el rango de la medición (esto puede suceder para el telémetro de cualquier marca), por lo que le recomendamos que no lo use bajo una luz fuerte, si tiene que utilizarlo, que lo use con el reflector incluido.
+- 👍🏽 Nivel Electrónico: El LOMVUM medidor de distancia puede mostrar el ángulo con el plano horizontal para que la medición sea más precisa.
 
 [Visítala!!!](https://www.amazon.es/dp/B07FQDGRZF/?tag=tolees-21)

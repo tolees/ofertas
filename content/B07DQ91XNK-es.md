@@ -25,10 +25,10 @@ Está [Seagate Portable  Unidad de disco duro externa de 2 TB  HDD portátil  US
 
 ℹ️:
 
-- Esta unidad de disco duro externa, diseñada para trabajar con ordenadores Windows o Mac, permite realizar una copia de seguridad en un momento. Tan solo tiene que arrastrar y soltar
-- Para configurarla, conecte la unidad de disco duro portátil a un ordenador para realizar un reconocimiento automático; no es necesario ningún software
 - Almacene y acceda fácilmente a 2 TB de contenido allá donde vaya con Seagate Portable Drive, una unidad de disco duro externa USB
-- Disfrute de la tranquilidad a largo plazo que le proporcionan los 2 años de servicios Rescue Data Recovery Service Plan para recuperación de datos.
+- Para configurarla, conecte la unidad de disco duro portátil a un ordenador para realizar un reconocimiento automático; no es necesario ningún software
 - Esta unidad USB proporciona la simplicidad de la tecnología plug-and-play con el cable USB 3.0 de 45 cm incluido
+- Esta unidad de disco duro externa, diseñada para trabajar con ordenadores Windows o Mac, permite realizar una copia de seguridad en un momento. Tan solo tiene que arrastrar y soltar
+- Disfrute de la tranquilidad a largo plazo que le proporcionan los 2 años de servicios Rescue Data Recovery Service Plan para recuperación de datos.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07DQ91XNK/?tag=tolees-21)

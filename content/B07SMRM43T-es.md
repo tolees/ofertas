@@ -26,7 +26,7 @@ En este momento está [Animal Crossing: New Horizons [Importación Inglesa]](htt
 🔎:
 
 - ¡Haz regalos, compite cazando bichos o simplemente disfruta en compañía de tus amigos
-- Y ahí no queda la cosa: hasta ocho personas que tengan un perfil de usuario en una única consola Nintendo Switch pueden vivir en la misma isla, y hasta cuatro pueden disfrutar de la vida en la isla de manera simultánea
 - También puedes jugar con hasta otros siete usuarios de forma local o en línea, ya sea viajando a sus islas o invitándolos a la tuya
+- Y ahí no queda la cosa: hasta ocho personas que tengan un perfil de usuario en una única consola Nintendo Switch pueden vivir en la misma isla, y hasta cuatro pueden disfrutar de la vida en la isla de manera simultánea
 
 [Aquí!!!](https://www.amazon.es/dp/B07SMRM43T/?tag=tolees-21)

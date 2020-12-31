@@ -25,10 +25,10 @@ Tienes [Ramón Bilbao Crianza - 6 botellas 750 ml](https://www.amazon.es/dp/B00O
 
 🔎:
 
-- Color rojo rubi con ciertos matices de juventud en forma de notas violaceas
-- Tipo de Uva: 100% Tempranillo
-- Maridaje con embutidos, quesos suaves y gran variedad de carnes, incluso pescados azules
-- Criado 14 meses en barricas de roble americano nuevo y 8 meses en botella
 - Capacidad: 75 CL
+- Maridaje con embutidos, quesos suaves y gran variedad de carnes, incluso pescados azules
+- Tipo de Uva: 100% Tempranillo
+- Criado 14 meses en barricas de roble americano nuevo y 8 meses en botella
+- Color rojo rubi con ciertos matices de juventud en forma de notas violaceas
 
 [Comprar!!!](https://www.amazon.es/dp/B00O39QLD4/?tag=tolees-21)

@@ -25,10 +25,10 @@ Tienes [Abollria Pijama para Mujer 2 Piezas Conjuntos Camiseta y Pantalones Ropa
 
 ℹ️:
 
-- ☬ La mejor opción ☬ - una buena opción para su ropa de salón y su ropa de dormir en primavera, otoño e invierno. Regalo de festival perfecto para madre, esposa, amiga y etc.
-- ☬ Set de Pijamas largos de dos piezas ☬ - Parte superior e inferior. Top: cuello redondo con escote, puños y ribete con bandas y tiene 3 botones decorativos. Parte inferior: Pantalón estilo jogger con dos bolsillos laterales, cinturilla elástica elástica, puños con banda ancha.
+- ☬ Instrucciones de cuidado ☬ - El conjunto de pijamas largos se recomienda lavar a mano o lavar a máquina en una bolsa de lavandería. Lavar en agua fría con colores similares. Secar a fuego lento solamente.
 - ☬ Tela suave y cómoda ☬ - Hecho de tela de alta calidad, cómodo para dormir o descansando en la casa, te mantiene fresco y cómodo toda la noche.
 - ☬ Información de tamaño ☬ - Para la guía de tamaño, vea la última imagen. Por favor, no solo compare el título del tamaño (S / M / L / XL) con su ropa habitual, lea atentamente cada elemento de la guía de tamaño (busto, cintura, longitud, etc.)
-- ☬ Instrucciones de cuidado ☬ - El conjunto de pijamas largos se recomienda lavar a mano o lavar a máquina en una bolsa de lavandería. Lavar en agua fría con colores similares. Secar a fuego lento solamente.
+- ☬ Set de Pijamas largos de dos piezas ☬ - Parte superior e inferior. Top: cuello redondo con escote, puños y ribete con bandas y tiene 3 botones decorativos. Parte inferior: Pantalón estilo jogger con dos bolsillos laterales, cinturilla elástica elástica, puños con banda ancha.
+- ☬ La mejor opción ☬ - una buena opción para su ropa de salón y su ropa de dormir en primavera, otoño e invierno. Regalo de festival perfecto para madre, esposa, amiga y etc.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07QG1H5TJ/?tag=tolees-21)

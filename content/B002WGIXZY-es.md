@@ -25,11 +25,11 @@ Ahora mismo tienes [Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Negro 9
 
 🔎:
 
-- Material de la suela: Goma
-- Material exterior: Lona
-- Tipo de talla: talla estándar
-- Tipo de tacón: Plano
 - Revestimiento: Sin forro
+- Tipo de tacón: Plano
+- Material exterior: Lona
+- Material de la suela: Goma
+- Tipo de talla: talla estándar
 - Cierre: Cordones
 
 [Visítala!!!](https://www.amazon.es/dp/B002WGIXZY/?tag=tolees-21)

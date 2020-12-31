@@ -25,9 +25,9 @@ Está [Tayg 16 Caja Herramienta Plástico  Azul/Rojo  500 x 258 x 255 mm](https:
 
 ℹ️:
 
-- Bandeja-rojo
-- Material: pp y cierres metálicos
 - Color:caja-azul
 - Estuche-rojo
+- Material: pp y cierres metálicos
+- Bandeja-rojo
 
 [Ver la oferta!!](https://www.amazon.es/dp/B004JPO51W/?tag=tolees-21)

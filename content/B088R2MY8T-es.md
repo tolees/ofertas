@@ -27,8 +27,8 @@ En este momento está [Viña Esmeralda  Vino Blanco - 6 botellas de 75 cl  Total
 
 - Muy fragante, con delicadas notas florales (rosa) y frutales (lichi). En boca es suave, seductor, con un final goloso.
 - Graduación: 11,5% vol.
-- Sublime con aperitivos de marisco, pescado y patés. A probar con platos de cocina oriental. Servir a 11°C.
 - Origen: DO Catalunya
+- Sublime con aperitivos de marisco, pescado y patés. A probar con platos de cocina oriental. Servir a 11°C.
 - Puede disfrutarlo desde ahora, bien conservado aguantará 2 años.
 
 [Aquí!!!](https://www.amazon.es/dp/B088R2MY8T/?tag=tolees-21)
