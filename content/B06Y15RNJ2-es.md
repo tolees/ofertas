@@ -25,9 +25,9 @@ Ahora mismo tienes [KS Tools 917.0216 Juego de llave de vaso de 1/4" + 3/8" + 1/
 
 🔎:
 
-- Fiable en condiciones extremas
-- 1/4 "+ 3/8" + 1/2 llave de frase, 216 piezas
-- Fabricado en España
 - Herramientas para profesionales
+- Fabricado en España
+- 1/4 "+ 3/8" + 1/2 llave de frase, 216 piezas
+- Fiable en condiciones extremas
 
 [Visítala!!!](https://www.amazon.es/dp/B06Y15RNJ2/?tag=tolees-21)

@@ -25,9 +25,9 @@ En este momento está [Tefal Talent - Sartén sin tapa  20 centímetros](https:/
 
 🔎:
 
-- Diámetro: 20 cm
-- Adecuado para hornos hasta 180 ° C 2
 - Conveniente para la inducción : Sí
+- Diámetro: 20 cm
 - Material: Aleación
+- Adecuado para hornos hasta 180 ° C 2
 
 [Aquí!!!](https://www.amazon.es/dp/B005ZAJT3O/?tag=tolees-21)

@@ -26,9 +26,9 @@ Ahora mismo tienes [Rick and Morty the Pickle Rick Game](https://www.amazon.es/d
 🔎:
 
 - Dispatched same day from the UK
-- Based on the insanely popular Rick and Morty episode "Pickle Rick."
 - Morty The Pickle Rick Game, Mixed Colours
-- Includes 2 miniature figures: Pickle Rick and Jaguar Intense head-to-head gameplay, but also includes solo rules
+- Based on the insanely popular Rick and Morty episode "Pickle Rick."
 - 30 to 45 minutes play time For ages 13 and up
+- Includes 2 miniature figures: Pickle Rick and Jaguar Intense head-to-head gameplay, but also includes solo rules
 
 [Visítala!!!](https://www.amazon.es/dp/B079ZL6NC2/?tag=tolees-21)

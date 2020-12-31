@@ -25,7 +25,7 @@ Tienes [Best Price Square Cooling Stand  Notebook  XSTREAM Breeze 17805 by Trust
 
 ℹ️:
 
-- Manufacturer Part Number: 17805
 - COOLING STAND, NOTEBOOK, XSTREAM BREEZE
+- Manufacturer Part Number: 17805
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B005F5CJYA/?tag=tolees-21)
