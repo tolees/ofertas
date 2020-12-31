@@ -25,10 +25,10 @@ Está [Pinceles con depósito de agua recargables](https://www.amazon.es/dp/B01M
 
 ℹ️:
 
-- Escritura fluida y sin goteo para un trazo limpio y con precisión.
 - Deja volar tu imaginación con este set de pinceles con depósito de agua acuarelables recargables.
-- Depósito de 10ml de capacidad para rellenarlo de líquidos como agua, tinta, pintura… Cuando termines de usarlos, para su limpieza, bastará con sumergirlos en agua y listo para empezar de nuevo!
 - Dibuja trazos desde el más fino al más grueso utilizando los diferentes pinceles.
+- Escritura fluida y sin goteo para un trazo limpio y con precisión.
+- Depósito de 10ml de capacidad para rellenarlo de líquidos como agua, tinta, pintura… Cuando termines de usarlos, para su limpieza, bastará con sumergirlos en agua y listo para empezar de nuevo!
 - Cerdas de Nylon de gran calidad que no se deforman con el uso.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01MUC6EFS/?tag=tolees-21)

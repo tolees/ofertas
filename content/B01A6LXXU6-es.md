@@ -25,10 +25,10 @@ Está [Crocs Classic Slipper  Zapatillas de Estar por casa Unisex Adulto  Azul  
 
 ℹ️:
 
-- Suela Tallas SON EEUU LABEL espectáculos Reino unido. M = hombre con = MUJER
-- Material Composición: Los principales el material es TEXTIL
-- FIT Recomendaciones for 1/2 Talla SE recomienda A Talla
 - El CROCS Zapatos serán mostrará EEUU tallas
+- FIT Recomendaciones for 1/2 Talla SE recomienda A Talla
 - Iconos Cómodo Croslite Material Base
+- Material Composición: Los principales el material es TEXTIL
+- Suela Tallas SON EEUU LABEL espectáculos Reino unido. M = hombre con = MUJER
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01A6LXXU6/?tag=tolees-21)
