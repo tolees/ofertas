@@ -25,9 +25,9 @@ Está [LEGO®-Box-CONF-MF2020-3 Minifigures Juego de construcción  Multicolor 7
 
 ℹ️:
 
-- Las instrucciones fáciles de seguir facilitan la construcción
-- Viene con una o más accesorios y un folleto informativo
 - Portátil y listo para jugar o mostrar
+- Viene con una o más accesorios y un folleto informativo
 - Contiene una de los 16 juguetes minifigura del universo de Harry Potter
+- Las instrucciones fáciles de seguir facilitan la construcción
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0813RWM1V/?tag=tolees-21)

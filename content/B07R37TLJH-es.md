@@ -25,10 +25,10 @@ Ahora mismo tienes [Asmodee- Nagaraja - Juego de Mesa - Idiomas: EN/ES/FR/NL  Co
 
 🔎:
 
+- Se rumorea que las reliquias arcanas ocultas en rincones alrededor de los templos son la fuente de sus poderes divinos.
+- Para alcanzar los escondites secretos y descubrir las reliquias de Ananta antes que tu rival, debes abrirte paso a través de un laberinto de caminos en constante cambio…
 - Los primeros en triunfar dominarán su fabuloso poder.... a menos que se revelen las tres reliquias malditas de Garuda, en cuyo caso, ¡el desafortunado que lo encuentre quedará condenado para toda la eternidad!
 - Como arqueólogo intrépido estás obsesionado con la idea de añadir estas reliquias a tu colección…
-- Se rumorea que las reliquias arcanas ocultas en rincones alrededor de los templos son la fuente de sus poderes divinos.
 - Al entrar en el recinto del templo en busca de sus tesoros, tu archirrival, otro renombrado coleccionista, está entrando en el otro templo
-- Para alcanzar los escondites secretos y descubrir las reliquias de Ananta antes que tu rival, debes abrirte paso a través de un laberinto de caminos en constante cambio…
 
 [Visítala!!!](https://www.amazon.es/dp/B07R37TLJH/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips HP8232/00 DryCare Advanced - Sec al 28.17 % de rebaja'
-date: 2020-12-30 12:36:47
+date: 2020-12-31 14:17:50
 image: 'https://m.media-amazon.com/images/I/41w5GPGXf-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00BCQIK4O/?tag=tolees-21'
 descuento: '28.17'
-average: '23.538516483516492'
+average: '23.53244565217392'
 ---
 
 Tienes [Philips HP8232/00 DryCare Advanced - Secador ThermoProtect Ionic con Ionizador para Suavizar el Cabello  2200 W  Blanco](https://www.amazon.es/dp/B00BCQIK4O/?tag=tolees-21) con precio final de  22.98 EUR (original: 31.99 EUR) (28.17 %  de rebaja) aqui!

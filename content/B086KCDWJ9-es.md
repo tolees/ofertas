@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '1906 Reserva Especial Cerveza - Paquete  al 18.49 % de rebaja'
-date: 2020-12-24 14:34:32
+date: 2020-12-31 14:49:23
 image: 'https://m.media-amazon.com/images/I/31T2JRPHIfL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B086KCDWJ9/?tag=tolees-21'
 descuento: '18.49'
-average: '19.9904'
+average: '19.947716535433074'
 ---
 
 Tienes [1906 Reserva Especial Cerveza - Paquete de 24 x 330 ml - Total: 7 92 L](https://www.amazon.es/dp/B086KCDWJ9/?tag=tolees-21) con precio final de  17.28 EUR (original: 21.2 EUR) (18.49 %  de rebaja) aqui!
@@ -26,14 +26,14 @@ Tienes [1906 Reserva Especial Cerveza - Paquete de 24 x 330 ml - Total: 7 92 L](
 🔎:
 
 - Clasificación Helles Bock
-- Alcohol 6,5%
-- Temperatura recomendada 5-6 grados. Mantener en lugar fresco y seco
-- Ingredientes: agua de la ciudad de A Coruña, maltas de dos carreras (pilsen y tostada), maíz y lúpulo Perle Hallertau. Levadura seleccionada Hijos de Rivera.
 - Color 15,5 EBC
-- Elaborada a partir de un mosto específicos, en la fábrica de Hijos de Rivera, en A Coruña. La cerveza 1906 Reserva Especial cuenta con uno de los períodos de maduración más largos entre las cervezas lager nacionales.
-- Amargor 25 EBU
+- Ingredientes: agua de la ciudad de A Coruña, maltas de dos carreras (pilsen y tostada), maíz y lúpulo Perle Hallertau. Levadura seleccionada Hijos de Rivera.
 - Toda nuestra herencia resumida en una cerveza extraordinaria. Maltas tostadas, lúpulo aromático y una guarda prolongada para crear un sabor y aroma con carácter único.
+- Amargor 25 EBU
 - 1906 Reserva Especial Cerveza - Pack de 24 latas x 330 ml
 - Aromas a malta tostada con suaves notas de caramelo y café. El lúpulo aparece en nariz con ligeros matices florales y herbales.
+- Alcohol 6,5%
+- Temperatura recomendada 5-6 grados. Mantener en lugar fresco y seco
+- Elaborada a partir de un mosto específicos, en la fábrica de Hijos de Rivera, en A Coruña. La cerveza 1906 Reserva Especial cuenta con uno de los períodos de maduración más largos entre las cervezas lager nacionales.
 
 [Comprar!!!](https://www.amazon.es/dp/B086KCDWJ9/?tag=tolees-21)

@@ -26,8 +26,8 @@ Tienes [Tristar VE-5933 - Ventilador de suelo con circulador de aire  Metálico 
 🔎:
 
 - Ventilador de suelo resistente gracias a su robusto marco metálico
-- Rango de inclinación de 130 grados para refrigerar una zona más amplia
 - Potente motor de 55 W para un flujo de aire óptimo
+- Rango de inclinación de 130 grados para refrigerar una zona más amplia
 - Tres ajustes diferentes para su confort.
 - Uso seguro con patas antideslizantes y protección contra sobrecalentamiento
 

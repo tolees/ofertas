@@ -26,7 +26,7 @@ Ahora mismo tienes [JACK & JONES Jacharry Belt Noos Cinturón  Negro  Black Deta
 🔎:
 
 - Cinturón de color negro. Cierre con hebilla metálica.
-- Marca: Jack&Jones
 - Modelo: 12120697 JACHARRY BELT NOOS BLACK
+- Marca: Jack&Jones
 
 [Visítala!!!](https://www.amazon.es/dp/B078H8NDS7/?tag=tolees-21)

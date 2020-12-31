@@ -25,8 +25,8 @@ Tienes [Star Wars - Destiny  Figuras de Leia y R2D2  Hasbro C1629ES0 ](https://w
 
 🔎:
 
-- Aumenta la imaginación y la creatividad
-- Destiny, figuras de Leia y R2D2 de Star Wars
 - Edad recomendada: a partir de 4 años
+- Destiny, figuras de Leia y R2D2 de Star Wars
+- Aumenta la imaginación y la creatividad
 
 [Comprar!!!](https://www.amazon.es/dp/B06X9RJT4Z/?tag=tolees-21)

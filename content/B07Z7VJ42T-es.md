@@ -25,8 +25,8 @@ Ahora mismo tienes [Bella Aurora Crema Contorno de Ojos Hidratante Anti-ojeras A
 
 🔎:
 
-- Aplicar a toques con el dedo anular (el dedo que menos fuerza tiene) en la zona orbicular justo encima del hueso. El producto cuando penetra, emigra y trata una zona más amplia hasta su completa absorción. También podemos trabajarlo con lisajes en la zona donde se observen líneas de expresión marcadas, y sobre el contorno de labios o rictus. Posteriormente aplicar el tratamiento habitual en todo el rostro.
 - Tratamiento del contorno de ojos anti-ojeras y anti-fatiga. Ideal para tratar los problemas específicos del contorno de ojos, rictus y labios.
 - Con la combinación de activos ayuda a hidratar intensamente la parte más frágil del rostro, atenuar bolsas y ojeras visibles y a reafirmar el párpado caído, dando luz y juventud a la mirada.
+- Aplicar a toques con el dedo anular (el dedo que menos fuerza tiene) en la zona orbicular justo encima del hueso. El producto cuando penetra, emigra y trata una zona más amplia hasta su completa absorción. También podemos trabajarlo con lisajes en la zona donde se observen líneas de expresión marcadas, y sobre el contorno de labios o rictus. Posteriormente aplicar el tratamiento habitual en todo el rostro.
 
 [Visítala!!!](https://www.amazon.es/dp/B07Z7VJ42T/?tag=tolees-21)

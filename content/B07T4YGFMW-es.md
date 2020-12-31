@@ -26,8 +26,8 @@ Tienes [Kappa Authentic 222 GARKO 1  Zapatillas Deportivas Hombre  Blanco/Rojo  
 🔎:
 
 - Comodidad en cada pisada
-- Omini Kappa
 - Banda Kappa
 - Comodidad y estilo
+- Omini Kappa
 
 [Comprar!!!](https://www.amazon.es/dp/B07T4YGFMW/?tag=tolees-21)

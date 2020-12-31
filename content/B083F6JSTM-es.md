@@ -27,8 +27,8 @@ Está [Goo Jit Zu - Súper Figura Héroe Goo Jit Zu  CO41012 ](https://www.amazo
 
 - Pilas incluidas
 - Estirable, estrujable y súper divertida
-- Incluye funcionalidad especial bola de fuego
 - Figura de 20 cm con luces y sonidos
 - Funciona con pilas 3 x lr44
+- Incluye funcionalidad especial bola de fuego
 
 [Ver la oferta!!](https://www.amazon.es/dp/B083F6JSTM/?tag=tolees-21)

@@ -26,9 +26,9 @@ Ahora mismo tienes [G-Technology G-Drive Mobile USB-C - Disco Duro Portátil  1 
 🔎:
 
 - Usb 3.0 Y Thunderbolt 3 Compatibles
-- Diseño Elegante, De Aluminio
-- Usb-C Listo
-- Mac Listo
 - Hasta 4 Tb De Capacidad De Almacenamiento Portátil
+- Mac Listo
+- Usb-C Listo
+- Diseño Elegante, De Aluminio
 
 [Visítala!!!](https://www.amazon.es/dp/B07DK2LPDD/?tag=tolees-21)
