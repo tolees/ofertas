@@ -25,10 +25,10 @@ Ahora mismo tienes [FITTOO Leggings Push Up Mujer Mallas Pantalones Deportivos A
 
 🔎:
 
-- Tiene relieve en el trasero
-- Da mucha Forma & Push up
 - Textura geométrica
-- Suave & muy elástica - bastante cómoda
 - No hace cameltoe
+- Tiene relieve en el trasero
+- Suave & muy elástica - bastante cómoda
+- Da mucha Forma & Push up
 
 [Visítala!!!](https://www.amazon.es/dp/B07GL47DP7/?tag=tolees-21)

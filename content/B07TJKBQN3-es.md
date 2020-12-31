@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Saint Seiya Serie Clásica Completa. Epis con un 23.42 % de descuento'
-date: 2020-12-30 17:59:08
+date: 2020-12-31 18:48:25
 image: 'https://m.media-amazon.com/images/I/51fwFF93hLL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07TJKBQN3/?tag=tolees-21'
 descuento: '23.42'
-average: '48.846'
+average: '49.86'
 ---
 
 En este momento está [Saint Seiya Serie Clásica Completa. Episodios 1 A 114. [DVD]](https://www.amazon.es/dp/B07TJKBQN3/?tag=tolees-21) a 54.93 EUR (original: 71.73 EUR) (23.42 %  de descuento) en el siguiente enlace!

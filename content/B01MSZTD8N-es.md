@@ -25,9 +25,9 @@ En este momento está [Intel NUC BOXNUC6CAYH - Kit ordenador Mini PC  Intel Cele
 
 🔎:
 
-- WiFi AC + Bluetooth 4.2, ranura para tarjeta microSD
 - Procesador Intel Celeron J3455 (Hasta 2.3 GHz, 2 MB cache)
 - Conexión de disco duro M.2 (PCIe x1) y slot 2.5" adicional para HDD/SSD
 - 1 slot para memoria RAM DDR3L-1600/1866 hasta 8 GB SO-DIMM
+- WiFi AC + Bluetooth 4.2, ranura para tarjeta microSD
 
 [Aquí!!!](https://www.amazon.es/dp/B01MSZTD8N/?tag=tolees-21)

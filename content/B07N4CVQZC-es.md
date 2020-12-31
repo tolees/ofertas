@@ -25,10 +25,10 @@ Tienes [L Oreal Paris Infalible More Than Concealer  Corrector Cobertura Complet
 
 🔎:
 
-- Para cubrir y ocultar todas las imperfecciones del rostro, consiguiendo un resultado radiante
 - Se puede usar como corrector o fondo de maquillaje para una cobertura completa con un acabado natural
-- Modo de empleo: aplica una capa ligera del corrector directamente en la zona dañada
+- Para cubrir y ocultar todas las imperfecciones del rostro, consiguiendo un resultado radiante
 - Enmascara los ojos hinchados y oculta las líneas finas de expresión
 - Muy pigmentado para todo tipo de pieles
+- Modo de empleo: aplica una capa ligera del corrector directamente en la zona dañada
 
 [Comprar!!!](https://www.amazon.es/dp/B07N4CVQZC/?tag=tolees-21)

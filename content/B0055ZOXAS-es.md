@@ -25,10 +25,10 @@ Tienes [Orbegozo MIG 2325 - Microondas integrable de acero inoxidable  23 L de c
 
 ℹ️:
 
-- Posee 9 menús de cocción rápida
 - Potencia del grill de 1.000 w
+- Posee 9 menús de cocción rápida
 - Incluye mecanismo de seguridad para niños
-- Microondas de acero inoxidable con 900 w de potencia y 23 litros de capacidad
 - Incorpora 8 niveles de potencia, temporizador digital hasta 95 minutos, programa de descongelación y señal acústica de fin de cocción
+- Microondas de acero inoxidable con 900 w de potencia y 23 litros de capacidad
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0055ZOXAS/?tag=tolees-21)

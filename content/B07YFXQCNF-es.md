@@ -26,9 +26,9 @@ Ahora mismo tienes [Imaginext- Fisher-Price Batmovil Transformable  Mattel GMH33
 🔎:
 
 - Use the remote to let Bartender fire in the Batmobile forward, backward, sideways or in all directions
-- Batmobile transforms with lights and sounds and then returns to vehicle mode
-- Use the remote to launch shells in battle mode (includes 4 projectile discs)
-- For children aged 3 to 8 years
 - Remote Control Batmobile transforms for battle!
+- Use the remote to launch shells in battle mode (includes 4 projectile discs)
+- Batmobile transforms with lights and sounds and then returns to vehicle mode
+- For children aged 3 to 8 years
 
 [Visítala!!!](https://www.amazon.es/dp/B07YFXQCNF/?tag=tolees-21)

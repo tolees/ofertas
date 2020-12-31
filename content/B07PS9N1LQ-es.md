@@ -25,10 +25,10 @@ Está [YORJA Bolsas para Excrementos de Perro con Dispensador 34 Rollos/510 Unid
 
 ℹ️:
 
-- ¿Por qué elegir biodegradable? Porque amamos a nuestras mascotas, los niños y la tierra, y necesitamos protegerlos.
-- ¿Qué es más? No solo la bolsa de residuos es biodegradable, sino que también la caja de empaque está hecha de materiales reciclados. Todos son ecológicos.
 - ¿Cual es el tamaño? 9x13 pulgadas (23x33 cm) se ajusta a todos los dispensadores de tamaño estándar.15 bolsas/rollos y 34 rollos/paquete, un total de 510 bolsas puede suministrar hasta 7 meses.
 - ¿Cómo biodegradable? Todas las bolsas de caca están hechas de almidón de maíz que puede ser descompuesto por microorganismos y convertirse en vinilo, dióxido de carbono y agua.
+- ¿Qué es más? No solo la bolsa de residuos es biodegradable, sino que también la caja de empaque está hecha de materiales reciclados. Todos son ecológicos.
+- ¿Por qué elegir biodegradable? Porque amamos a nuestras mascotas, los niños y la tierra, y necesitamos protegerlos.
 - ¿Cómo es la calidad? Extra grueso y resistente, a prueba de fugas e impermeable. Fácil de abrir y arrancar. Excelente capacidad de carga, se adapta a perros grandes y pequeños.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07PS9N1LQ/?tag=tolees-21)

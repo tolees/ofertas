@@ -25,10 +25,10 @@ Está [TRIXIE Pañales Cachorro  60 × 90 cm  8 uds  Perro](https://www.amazon.e
 
 ℹ️:
 
-- Made of long fibrous, natural cellulose material
-- Can be used in dog baskets or beds in case of incontinence
 - Use for fast and effective training
+- Can be used in dog baskets or beds in case of incontinence
 - Extremely absorbent puppy pad
+- Made of long fibrous, natural cellulose material
 - Sealed rim prevents moisture from escaping
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00BF93U1Q/?tag=tolees-21)

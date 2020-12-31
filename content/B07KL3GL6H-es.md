@@ -25,8 +25,8 @@ Está [Nike M CFD FLC TM Club19 - Pantalones  Hombre  Obsidian/White  M](https:/
 
 ℹ️:
 
+- Tecnología Dri-Fit
 - Cintura elástica con cordón
 - Tapered fit
-- Tecnología Dri-Fit
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KL3GL6H/?tag=tolees-21)

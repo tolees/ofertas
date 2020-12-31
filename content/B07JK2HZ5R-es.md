@@ -25,10 +25,10 @@ Tienes [Deponia Doomsday](https://www.amazon.es/dp/B07JK2HZ5R/?tag=tolees-21) co
 
 ℹ️:
 
+- Vierter Teil der preisgekrönten Deponia-Serie: Dystopia vs. Utopia gemischt mit Neill Blomkamps Elysium und Ridley Scotts Interstellar - Willkommen in Deponia Doomsday!
+- Goal, Bonzo, Lotti oder auch Wenzel - Wiedersehen mit bekannten und über 70 neuen skurrilen Charakten mit schrägem Humor
+- Mit ca. 20 Stunden Spielzeit und über 140 Spielhintergründen ist Deponia Doomsday das bislang größte und aufwendigste Deponia-Spiel
 - Episches Adventure Gameplay: Nach Goodbye Deponia erstes wieder zu 100% entwickeltes Spiel von Jan Müller-Michaelis (alias Poki)
 - Einzigartiger handgezeichneter Comic-Stil: Deponia Doomsday bedient ein zeitloses (!) Genre und lässt klassische Adventures erneut aufleben
-- Vierter Teil der preisgekrönten Deponia-Serie: Dystopia vs. Utopia gemischt mit Neill Blomkamps Elysium und Ridley Scotts Interstellar - Willkommen in Deponia Doomsday!
-- Mit ca. 20 Stunden Spielzeit und über 140 Spielhintergründen ist Deponia Doomsday das bislang größte und aufwendigste Deponia-Spiel
-- Goal, Bonzo, Lotti oder auch Wenzel - Wiedersehen mit bekannten und über 70 neuen skurrilen Charakten mit schrägem Humor
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JK2HZ5R/?tag=tolees-21)

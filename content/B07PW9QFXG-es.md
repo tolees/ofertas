@@ -26,8 +26,8 @@ Tienes [Victoria 1915 Doble Lona  Zapatillas para Mujer  Rosa  Nude 170   40 EU]
 🔎:
 
 - País de fabricación : Ceuta y Melilla
+- Textíl, Textíl, canvas, sintética, Cordones, Zapatillas bajas
 - 1
 - Shoe Width : medium
-- Textíl, Textíl, canvas, sintética, Cordones, Zapatillas bajas
 
 [Comprar!!!](https://www.amazon.es/dp/B07PW9QFXG/?tag=tolees-21)
