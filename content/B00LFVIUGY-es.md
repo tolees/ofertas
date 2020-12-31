@@ -25,10 +25,10 @@ Tienes [Transcend JetFlash 710 - Memoria USB 3.0 de 64 GB plateado  resistente a
 
 ℹ️:
 
-- Fabricado con tecnología cob especial, resistente al agua, los golpes y el polvo
-- Con memoria flash mlc de la más alta calidad para una alta durabilidad y máximo rendimiento
 - Diseño amigable al ambiente, cumple estrictas regulaciones ambientales (rohs, reach, erp, pfos, weee)
 - Elegante y diminuto diseño para uso discreto en equipos multimedia, solo pesa 3.3 gramos
+- Fabricado con tecnología cob especial, resistente al agua, los golpes y el polvo
+- Con memoria flash mlc de la más alta calidad para una alta durabilidad y máximo rendimiento
 - Lujosa y metálica memoria usb 3.0 de 8 gb de alta velocidad hasta 90 mb/s
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00LFVIUGY/?tag=tolees-21)

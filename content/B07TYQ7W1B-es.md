@@ -25,9 +25,9 @@ Está [Funko- Pop Games: Dungeons & Dragons-Mind Flayer Collectible Toy  Multico
 
 ℹ️:
 
-- From dungeons dragons, mind flayer, as a stylized pop vinyl from funko
-- Funko pop is the 2018 toy of the year and peoples choice award winner
-- Figure stands 9cm and comes in a window display box
 - Check out the other dungeons dragons figures from funko collect them all
+- Funko pop is the 2018 toy of the year and peoples choice award winner
+- From dungeons dragons, mind flayer, as a stylized pop vinyl from funko
+- Figure stands 9cm and comes in a window display box
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TYQ7W1B/?tag=tolees-21)

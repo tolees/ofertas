@@ -27,7 +27,7 @@ En este momento está [Reebok CL LTHR 2232 - Zapatillas de deporte de cuero para
 
 - Dispone de suela intermedia EVA para amortiguar ligeramente
 - Tiene la parte superior de cuero suave para óptima comodidad y apoyo
-- Forro acolchado de calcetín de espuma para óptima comodidad
 - Suela de goma de alta abrasión añade durabilidad y tracción
+- Forro acolchado de calcetín de espuma para óptima comodidad
 
 [Aquí!!!](https://www.amazon.es/dp/B003QHRVVU/?tag=tolees-21)

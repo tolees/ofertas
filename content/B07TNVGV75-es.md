@@ -25,11 +25,11 @@ Tienes [Educa 125 Borras  con diversos trucos de magia  a partir de 7 años  col
 
 ℹ️:
 
-- Gran Set de Magia Borras que conmemora el 125 aniversario de Borras
-- Y los trucos más espectaculares de tecnomagia como la predicción atravesar billetes, nudos en auriculares, entre otro; Así como el espectacular cofre de magia que se convierte, a la vez, en un auténtico escenario para crear un brillante espectáculo de magia
-- Versión española
-- El gran set incluye los mejores trucos de magia clásica como la barita encantada, los pañuelos que cambian de color, los dados bomba
 - Recomendado a partir de 7 años
+- El gran set incluye los mejores trucos de magia clásica como la barita encantada, los pañuelos que cambian de color, los dados bomba
+- Y los trucos más espectaculares de tecnomagia como la predicción atravesar billetes, nudos en auriculares, entre otro; Así como el espectacular cofre de magia que se convierte, a la vez, en un auténtico escenario para crear un brillante espectáculo de magia
 - La colección Magia Borras posee una variedad de trucos que te convertirán en el próximo mago de tu generación
+- Versión española
+- Gran Set de Magia Borras que conmemora el 125 aniversario de Borras
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07TNVGV75/?tag=tolees-21)

@@ -25,11 +25,11 @@ En este momento está [Hisense I6456C - Placa Inducción  4 zonas  Zona Flexible
 
 🔎:
 
-- Dimensiones del producto (Ancho x Alto x Profundo) (mm): 595x54x520
 - Insta Recognition detecta automáticamente la posición del recipiente
-- Smart Cooking: la placa viene con programas automáticos, cinco funciones predeterminadas que ayudan a cocinar de manera más sencilla
+- Dimensiones del producto (Ancho x Alto x Profundo) (mm): 595x54x520
 - Inducción es la tecnología perfecta para cocinar mas rápido, más económico y más seguro
 - Con Flexible Zone las zonas se pueden combinar en dirección vertical, creando grandes zonas de cocción
 - Rapid Boil permite cocinar a máxima potencia aportando hasta un 35% de potencia adicional
+- Smart Cooking: la placa viene con programas automáticos, cinco funciones predeterminadas que ayudan a cocinar de manera más sencilla
 
 [Aquí!!!](https://www.amazon.es/dp/B07PP8RHXF/?tag=tolees-21)

@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Elizabeth Arden 5th Avenue Eau de Parfum con un 15.64 % de descuento'
-date: 2020-12-30 09:34:52
+title: 'Elizabeth Arden 5th Avenue Eau de Parfum con un 15.46 % de descuento'
+date: 2020-12-31 09:44:34
 image: 'https://m.media-amazon.com/images/I/41Ogx-S7Z5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B0010MG8NU-es'
-actualPrice: 16.45 EUR
+actualPrice: 16.4 EUR
 currency: EUR
-price: 16.45
-comparePrice: 19.5 EUR
+price: 16.4
+comparePrice: 19.4 EUR
 prodname: 'Elizabeth Arden 5th Avenue Eau de Parfum 125 ml'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0010MG8NU/?tag=tolees-21'
-descuento: '15.64'
-average: '18.08999999999999'
+descuento: '15.46'
+average: '18.060862068965506'
 ---
 
-En este momento está [Elizabeth Arden 5th Avenue Eau de Parfum 125 ml](https://www.amazon.es/dp/B0010MG8NU/?tag=tolees-21) a 16.45 EUR (original: 19.5 EUR) (15.64 %  de descuento) en el siguiente enlace!
+En este momento está [Elizabeth Arden 5th Avenue Eau de Parfum 125 ml](https://www.amazon.es/dp/B0010MG8NU/?tag=tolees-21) a 16.4 EUR (original: 19.4 EUR) (15.46 %  de descuento) en el siguiente enlace!
 
 [![Elizabeth Arden 5th Avenue Eau de Parfum](https://m.media-amazon.com/images/I/41Ogx-S7Z5L._SL200_.jpg)](https://www.amazon.es/dp/B0010MG8NU/?tag=tolees-21)
 

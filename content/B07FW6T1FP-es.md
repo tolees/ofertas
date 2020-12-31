@@ -25,10 +25,10 @@ Está [Razer Blackwidow Elite - Teclado Gaming Teclado Mecánico Para Juegos Com
 
 ℹ️:
 
-- Switches mecánicos Razer: Diseñados específicamente para juegos, los switches mecánicos de Razer cuentan con puntos de accionamiento y restablecimiento optimizados para que los comandos se ejecuten con una capacidad de respuesta rápida, estos switches incluyen modernos laterales que aseguran una optima estabilidad y una adecuada protección contra el polvo y los líquidos, entre los tres tipos de switches, seguro que encontrarás alguno que se adapte a tus gustos
+- Reposamuñecas ergonómico: El teclado cuenta con un reposamuñecas ergonómico magnético que encaja en la parte frontal del teclado y está hecho de piel sintética suave para ofrecer una comodidad optima
 - Dial digital multifunción: Razer BlackWidow Elite ofrece una funcionalidad completa gracias a los controles del teclado, desde el brillo al volumen a través del dial digital multifunción programable con tres teclas multimedia táctiles
 - Teclas totalmente controlables: Se pueden personalizar todas las teclas de Razer BlackWidow Elite, para que puedas reasignarlas a otra tecla o función, o incluso grabar múltiples pulsaciones en una macro, controla la iluminación de Razer Chroma, con hasta 16,8 millones de colores entre los que elegir y una amplia gama de efectos de iluminación animados
-- Reposamuñecas ergonómico: El teclado cuenta con un reposamuñecas ergonómico magnético que encaja en la parte frontal del teclado y está hecho de piel sintética suave para ofrecer una comodidad optima
 - Diseñado para la durabilidad: Los switches mecánicos de Razer ofrecen un rendimiento de optimo nivel y una durabilidad para asegurarte una ventaja durante tus partidas, los switches siguen un proceso de fabricación interno para asegurar que todos los switches producidos cumplen requisitos estrictos y, de esta forma, conseguir que las teclas alcancen una vida útil de hasta 80 millones de pulsaciones
+- Switches mecánicos Razer: Diseñados específicamente para juegos, los switches mecánicos de Razer cuentan con puntos de accionamiento y restablecimiento optimizados para que los comandos se ejecuten con una capacidad de respuesta rápida, estos switches incluyen modernos laterales que aseguran una optima estabilidad y una adecuada protección contra el polvo y los líquidos, entre los tres tipos de switches, seguro que encontrarás alguno que se adapte a tus gustos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FW6T1FP/?tag=tolees-21)

@@ -25,10 +25,10 @@ Tienes [Creative Tops Mikasa Cheers de Cristal Copas de Vino Blanco  Juego de 4 
 
 🔎:
 
-- Capacidad: 473 ml (245 fl oz)
-- Hecho de cristal
 - Disfrute de vino con tus amigos con estos Quirky copas de vino
 - Diseñado por Mikasa
 - Solo se puede lavar a mano
+- Hecho de cristal
+- Capacidad: 473 ml (245 fl oz)
 
 [Comprar!!!](https://www.amazon.es/dp/B013WSBSI4/?tag=tolees-21)

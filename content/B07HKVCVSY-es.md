@@ -25,10 +25,10 @@ Ahora mismo tienes [Audio-Technica ATH-M50XBT - Auriculares inalámbricos  Color
 
 🔎:
 
-- Diseño plegable para ofrecer portabilidad con poco espacio
-- Diseño over-ear para un excelente aislamiento sonoro en entornos ruidosos
 - Transductores de gran apertura, de 45 mm, que proporcionan una claridad excepcional a través de una amplia gama de frecuencias, con graves profundos y precisos
 - Cable de 1,2 m con micro/controles que proporciona una conexión cableada opcional
 - Audífonos y diadema con materiales de calidad profesional para ofrecer durabilidad y comodidad a largo plazo
+- Diseño over-ear para un excelente aislamiento sonoro en entornos ruidosos
+- Diseño plegable para ofrecer portabilidad con poco espacio
 
 [Visítala!!!](https://www.amazon.es/dp/B07HKVCVSY/?tag=tolees-21)

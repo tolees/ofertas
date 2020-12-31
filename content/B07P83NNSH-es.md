@@ -27,8 +27,8 @@ En este momento está [Toy Story Figura Jessie la Vaquera 35 cm  BIZAK 61234112 
 
 - Cuerpo suave con cabeza y sombrero duros
 - Ponlo encima de perdigón y recrea las aventuras de las película toy story 4
-- Sombrero de quita y pon
 - Réplica exacta de jessie la vaquera, una de los protagonistas de la peli
 - Diviértete con esta fantástica muñeca de de 35 cm de altura
+- Sombrero de quita y pon
 
 [Aquí!!!](https://www.amazon.es/dp/B07P83NNSH/?tag=tolees-21)

@@ -25,9 +25,9 @@ Ahora mismo tienes [Nestlé Yogolino Bolsita Manzana Pera 90 G 1440 g - Pack de 
 
 🔎:
 
-- Elaborada con ingredientes específicos y adaptados para bebés
-- Para bebés a partir de los seis meses
 - Tiene un práctico formato: bolsita listo para llevar
 - Una bolsita proporciona el 33% de los valores de referencia del Calcio
+- Elaborada con ingredientes específicos y adaptados para bebés
+- Para bebés a partir de los seis meses
 
 [Visítala!!!](https://www.amazon.es/dp/B079ZYKHX7/?tag=tolees-21)

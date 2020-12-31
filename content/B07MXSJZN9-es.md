@@ -25,10 +25,10 @@ Tienes [Gb Gold Qbit + All Terrain - Silla de Paseo  Silla de Viaje de Lujo  Tra
 
 🔎:
 
-- Capota xxl, barra apoyabrazos y arnés de 5 puntos para una fijación firme, gran cesta para compra, accesorios no incluidos: capazo cot to go, plástico de lluvia, adaptador para portabebés
 - Fácil plegado a tamaño de transporte con una mano l:33x an:49x al:53 cm, utilizable como travel system 3 en 1 con los adaptadores, por separado para portabebés gb o cybex y el capazo to go
-- Silla de paseo todoterreno robusta y de gran calidad hasta los 4 años, 15 kg con mecanismo de plegado con una mano, respaldo ajustable y plegado compacto, lxanxal: 33 x 49 x 53 cm
+- Capota xxl, barra apoyabrazos y arnés de 5 puntos para una fijación firme, gran cesta para compra, accesorios no incluidos: capazo cot to go, plástico de lluvia, adaptador para portabebés
 - Ruedas dobles todoterreno delante, giratorias y bloqueables y detrás, cómoda y fácil de empujar con una mano, respaldo y reposapiés ajustables con una mano, gran movilidad para el pequeño
 - Contenido: 1 gb silla de paseo Qbit+ all terrain, chasis de aluminio, funda de poliéster, dimensiones, lxanxal: 71 x 49 x 103 cm, plegado, lxanxal: 33 x 49 x 53 cm, peso: 7.7 kg, color: night blue
+- Silla de paseo todoterreno robusta y de gran calidad hasta los 4 años, 15 kg con mecanismo de plegado con una mano, respaldo ajustable y plegado compacto, lxanxal: 33 x 49 x 53 cm
 
 [Comprar!!!](https://www.amazon.es/dp/B07MXSJZN9/?tag=tolees-21)
