@@ -25,10 +25,10 @@ Ahora mismo tienes [Eono by Amazon - Báscula de cocina digital; báscula de ace
 
 🔎:
 
-- 【FÁCIL DE USAR】 La rápida función de tara permite integrar fácilmente el peso de otros recipientes; conversión sencilla de unidades (g, oz, ml y lb); pantalla LCD con retroiluminación que facilita la lectura de los resultados.
-- 【TRES MODOS DIFERENTES】La báscula de cocina digital de Eono pesa ingredientes secos e indica el volumen de los líquidos (agua y leche).
+- 【GARANTÍA DE SATISFACCIÓN 】Alimentada por 2 pilas AAA (incluidas); con certificados CE/FCC/ROHS; devolución del importe durante 90 días y 15 años de garantía
 - 【GRAN CUENCO】Cuenco para mezclar, grande y desmontable, de acero inoxidable de 21 cm de diámetro y 10 cm de altura. Estructura de acero inoxidable fácil de limpiar.
 - 【MEDIDAS PRECISAS】 La báscula de cocina de Eono cuenta con 4 nuevos sensores de alta precisión y capacidad para 5 kg con una desviación de 1 g. Peso mínimo recomendado de 3-5 g.
-- 【GARANTÍA DE SATISFACCIÓN 】Alimentada por 2 pilas AAA (incluidas); con certificados CE/FCC/ROHS; devolución del importe durante 90 días y 15 años de garantía
+- 【FÁCIL DE USAR】 La rápida función de tara permite integrar fácilmente el peso de otros recipientes; conversión sencilla de unidades (g, oz, ml y lb); pantalla LCD con retroiluminación que facilita la lectura de los resultados.
+- 【TRES MODOS DIFERENTES】La báscula de cocina digital de Eono pesa ingredientes secos e indica el volumen de los líquidos (agua y leche).
 
 [Visítala!!!](https://www.amazon.es/dp/B087M42XTT/?tag=tolees-21)

@@ -25,9 +25,9 @@ Tienes [Crosstour CT9700 Cámara Deportiva Nativa 4K50FPS / 20MP con Pantalla t�
 
 ℹ️:
 
-- Múltiples formas de conexión - puede controlar la cámara en el teléfono / ipad a través de Wi-Fi, compartir sus maravillosos momentos en el televisor / proyector a través de HDMI y descargar sus valiosos recuerdos en la computadora a través del cable USB.
 - Cámara deportiva con pantalla táctil 4K50fps - puede controlar la cámara de manera más intuitiva y sencilla con la pantalla táctil. El video nativo 4K a 50 fps y la resolución de fotos de 20MP pueden ayudarlo a capturar cada momento maravilloso con una mayor claridad.
 - Corrección de distorsión de lente y antivibración - LDC podría eliminar el efecto de ojo de pez que produce la lente gran angular. El anti-temblor avanzado podría mantener el metraje estable y suave mientras graba los deportes. Todos admiten resolución 4K.
+- Múltiples formas de conexión - puede controlar la cámara en el teléfono / ipad a través de Wi-Fi, compartir sus maravillosos momentos en el televisor / proyector a través de HDMI y descargar sus valiosos recuerdos en la computadora a través del cable USB.
 - Cámara sumergible a prueba de agua 40M - la resistente carcasa resistente al agua le permite disfrutar del increíble mundo submarino con la cámara a menos de 40 metros. Y las fotos y videos serían vivider después de elegir el modo submarino.
 - Paquete de accesorios de montaje abundantes - la cámara incluirá varios accesorios, como control remoto, cargador de batería, baterías de 2 * 1350 mAh, kits de montaje, etc. El kit satisfará diferentes demandas de deportes al aire libre.
 

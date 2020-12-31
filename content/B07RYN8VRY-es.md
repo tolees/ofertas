@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FIA Truck Racing [Versión Española] con un 58.38 % de descuento'
-date: 2020-12-21 23:35:01
+date: 2020-12-31 12:54:07
 image: 'https://m.media-amazon.com/images/I/41sy+9wLnoL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RYN8VRY/?tag=tolees-21'
 descuento: '58.38'
-average: '31.235714285714284'
+average: '29.83888888888889'
 ---
 
 En este momento está [FIA Truck Racing [Versión Española]](https://www.amazon.es/dp/B07RYN8VRY/?tag=tolees-21) a 24.95 EUR (original: 59.95 EUR) (58.38 %  de descuento) en el siguiente enlace!
@@ -25,10 +25,5 @@ En este momento está [FIA Truck Racing [Versión Española]](https://www.amazon
 
 🔎:
 
-- 45 camiones con su decoración oficial, incluyendo los principales fabricantes como Volvo, Man, Freightliner y Western Star
-- 14 circuitos incluyendo los oficiales de ETRC (Nürbürgring, Le Mans, Zolder, Misano.) así como Laguna Seca, Circuito de las Américas y Fuji Speedway
-- 20 equipos que te permiten ponerte en la piel de los mejores pilotos del Campeonato
-- 5 modos para un jugador y 5 modos multijugador
-- Multijugador en pantalla dividida
 
 [Aquí!!!](https://www.amazon.es/dp/B07RYN8VRY/?tag=tolees-21)

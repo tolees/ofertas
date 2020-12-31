@@ -25,7 +25,7 @@ Está [Geographical Norway Polar Upload de Hombre Gris Oscuro Talla M](https://w
 
 ℹ️:
 
-- Resistente al frío
 - Cremallera
+- Resistente al frío
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08NPK6BNG/?tag=tolees-21)

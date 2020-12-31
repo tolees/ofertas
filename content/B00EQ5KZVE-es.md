@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.52 % en Microsoft – All-in-One Media Keyboard Es'
-date: 2020-12-28 13:04:40
+date: 2020-12-31 12:01:47
 image: 'https://m.media-amazon.com/images/I/31ZswhZ-J9L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00EQ5KZVE/?tag=tolees-21'
 descuento: '33.52'
-average: '32.03555555555556'
+average: '31.63818181818182'
 ---
 
 Tienes [Microsoft – All-in-One Media Keyboard Español](https://www.amazon.es/dp/B00EQ5KZVE/?tag=tolees-21) con un 33.52 % de descuento con precio de oferta de 29.85 EUR (original: 44.9 EUR) en el siguiente enlace!
@@ -25,8 +25,8 @@ Tienes [Microsoft – All-in-One Media Keyboard Español](https://www.amazon.es/
 
 ℹ️:
 
-- Diseño anti-derrame
 - Compatible con Windows
+- Diseño anti-derrame
 - Teclas de acceso rápido multimedia
 - Conectividad inalámbrica de hasta 4,5 metros
 - Controles de volumen de acceso fácil

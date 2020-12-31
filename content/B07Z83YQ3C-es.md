@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maléfica Maestra del Mal [DVD] con un 45.63 % de descuento'
-date: 2020-12-30 06:47:31
+date: 2020-12-31 12:37:31
 image: 'https://m.media-amazon.com/images/I/51aTMsrxMrL._SL200_.jpg'
 comments: true
 category: ofertas

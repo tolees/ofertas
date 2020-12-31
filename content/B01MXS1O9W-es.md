@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vaiana [Blu-ray] al 28.11 % de rebaja'
-date: 2020-12-30 06:47:56
+date: 2020-12-31 12:33:56
 image: 'https://m.media-amazon.com/images/I/61D5fNRvklL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MXS1O9W/?tag=tolees-21'
 descuento: '28.11'
-average: '10.967441860465117'
+average: '10.929772727272729'
 ---
 
 Tienes [Vaiana [Blu-ray]](https://www.amazon.es/dp/B01MXS1O9W/?tag=tolees-21) con precio final de  9.31 EUR (original: 12.95 EUR) (28.11 %  de rebaja) aqui!
