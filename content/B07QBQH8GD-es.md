@@ -25,8 +25,8 @@ En este momento está [Finish Limpiamáquinas - Líquido para lavavajillas contr
 
 🔎:
 
-- Se recomienda utilizar una vez al mes
 - Finish Limpiamáquinas limpia tu lavavajillas para que brillen tus platos y elimina los malos olores
+- Se recomienda utilizar una vez al mes
 - Neutraliza los malos olores
 - Elimina la suciedad y la cal escondida del lavavajillas
 - Finish es la marca recomendada por los principales fabricantes de lavavajillas

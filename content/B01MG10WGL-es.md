@@ -25,8 +25,8 @@ Tienes [NANOCABLE 10.99.0101 - Adaptador para Disco Duro de 7 0mm en Unidad opti
 
 ℹ️:
 
-- Para discos duros de 2,5 pulgadas
 - Prueba de funcionamiento: 100% testado
+- Para discos duros de 2,5 pulgadas
 - Normas: RoHS
 - Incluye tornillos para el montaje
 
