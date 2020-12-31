@@ -25,9 +25,9 @@ En este momento está [GIGABYTE X570 AORUS Pro Funda de protección Negro](https
 
 🔎:
 
-- Rgb fusion
-- Diseño moderno
-- Compatible con procesadores amd ryzen / ryzen de 2ª y 3ª generación con radeon vega graphics desktop processors para zócalos am4
 - Arquitectura de memoria de doble canal
+- Rgb fusion
+- Compatible con procesadores amd ryzen / ryzen de 2ª y 3ª generación con radeon vega graphics desktop processors para zócalos am4
+- Diseño moderno
 
 [Aquí!!!](https://www.amazon.es/dp/B07TSKR5T3/?tag=tolees-21)

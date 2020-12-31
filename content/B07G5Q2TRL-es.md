@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Extreme PRO - Tarjeta de memoria al 41.50 % de descuento'
-date: 2020-12-29 17:57:30
+date: 2020-12-31 07:30:16
 image: 'https://m.media-amazon.com/images/I/41oTnpMDkZL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07G5Q2TRL/?tag=tolees-21'
 descuento: '41.50'
-average: '97.25352941176472'
+average: '96.48894736842107'
 ---
 
 Ahora mismo tienes [SanDisk Extreme PRO - Tarjeta de memoria microSDXC de 400 GB con adaptador SD  A2  hasta 170 MB/s  Class 10  U3 y V30](https://www.amazon.es/dp/B07G5Q2TRL/?tag=tolees-21) a 89.99 EUR (original: 153.82 EUR) (41.50 %  de descuento) en el siguiente enlace!

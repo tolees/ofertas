@@ -26,7 +26,7 @@ Ahora mismo tienes [Pepe Jeans PIXLETTE Jeans  Negro  Black Denim Wl0   2 años 
 🔎:
 
 - Tienen un parche de piel en la parte trasera con la marca Pepe Jeans
-- Cierre con cremallera
 - Vaqueros para niñas
+- Cierre con cremallera
 
 [Visítala!!!](https://www.amazon.es/dp/B07CRCKSNP/?tag=tolees-21)
