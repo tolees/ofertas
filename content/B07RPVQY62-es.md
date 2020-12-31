@@ -25,13 +25,13 @@ Ahora mismo tienes [TP-Link LS105G - Switch Ethernet 5 Puertos  10/100/1000Mbps 
 
 🔎:
 
-- Admite QoS 802.1p/dscp para establecer la prioridad del tráfico.
-- NOTA: Para alcanzar la máxima velocidad de la red es importante disponer del cable ethernet adecuado, recomendable Cat 5e o Cat6.
-- La Tecnología Green ethernet ahorra energía
-- La arquitectura antibloqueo garantiza una transferencia de datos fiable.
 - 5 puertos Gigabit RJ45 de 10/100/1000mbps compatibles con mdi/mdix.
+- NOTA: Para alcanzar la máxima velocidad de la red es importante disponer del cable ethernet adecuado, recomendable Cat 5e o Cat6.
 - Diseño compacto, estructura sólida de metal y ultraligero; ideal para sitios industriales de riesgo, sobremesa o montarlo en la pared.
-- El diseño sin ventilador garantiza un funcionamiento silencioso.
 - Plug and play, no requiere configuración.
+- El diseño sin ventilador garantiza un funcionamiento silencioso.
+- La Tecnología Green ethernet ahorra energía
+- Admite QoS 802.1p/dscp para establecer la prioridad del tráfico.
+- La arquitectura antibloqueo garantiza una transferencia de datos fiable.
 
 [Visítala!!!](https://www.amazon.es/dp/B07RPVQY62/?tag=tolees-21)
