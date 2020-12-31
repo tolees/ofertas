@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '3M ReMount - Adhesivo reposicionable  40 al 15.51 % de descuento'
-date: 2020-12-29 13:11:59
+date: 2020-12-31 08:17:59
 image: 'https://m.media-amazon.com/images/I/41G9hjTDU-L._SL200_.jpg'
 comments: true
 category: ofertas

@@ -25,10 +25,10 @@ Ahora mismo tienes [Dickie - Harry Potter - Torre de Gryffindor   3185001    col
 
 🔎:
 
-- Este playset escenario tiene características exclusivas que lo convierte en una de las formas más auténticas e imaginativas de mostrar tu colección de figuras
-- Para los fans de Harry Potter llega la torre de Gryffindor
-- Es una réplica de la que aparece en las películas de Harry Potter; puedes utilizarlo para jugar con tus figuras de colección de Harry Potter o para guardarlas dentro
 - Con figuras exclusivas de Harry Potter y el profesor Snape, 6 muebles móviles, una entrada oculta detrás del cuadro del segundo piso, una puerta para los duendes de la casa y pegatinas para poder personalizarla con más detalles
 - Ensamblaje fácil para niños y niñas mayores de 5 años; medida montada: 30 cm alto x 26 cm ancho x 20 cm fondo
+- Es una réplica de la que aparece en las películas de Harry Potter; puedes utilizarlo para jugar con tus figuras de colección de Harry Potter o para guardarlas dentro
+- Este playset escenario tiene características exclusivas que lo convierte en una de las formas más auténticas e imaginativas de mostrar tu colección de figuras
+- Para los fans de Harry Potter llega la torre de Gryffindor
 
 [Visítala!!!](https://www.amazon.es/dp/B07PNJDBX7/?tag=tolees-21)

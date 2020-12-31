@@ -25,10 +25,10 @@ Está [Gomas para el cabello  Lolli - 24 elásticos para el cabello - Modelo al 
 
 ℹ️:
 
-- Cada paleta incluye 24 elásticos para el cabello.
-- Lollipop bandas de goma para el pelo.
-- Longitud aproximada: 14,5 x 7 x 3 cm.
 - La paleta se vende por separado.
+- Lollipop bandas de goma para el pelo.
+- Cada paleta incluye 24 elásticos para el cabello.
+- Longitud aproximada: 14,5 x 7 x 3 cm.
 - Colores aleatorios entre los modelos de la imagen pero diferentes en el caso de varias compras en el mismo orden.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06XJRZTG1/?tag=tolees-21)

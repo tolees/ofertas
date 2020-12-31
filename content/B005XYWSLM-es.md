@@ -26,9 +26,9 @@ Tienes [Tefal Sartén Talent Pro E4400685  28 cm de diámetro  Aluminio  Negro](
 ℹ️:
 
 - Tipo de producto: cacerola
+- Es apta para lavavajillas
+- Diámetro de molde para horno: 28 cm
 - Está fabricado de acero inoxidable y titanio
 - Viene con un indicador de calor
-- Diámetro de molde para horno: 28 cm
-- Es apta para lavavajillas
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B005XYWSLM/?tag=tolees-21)

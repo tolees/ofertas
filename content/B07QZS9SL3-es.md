@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Medion Akoya S6445 - Portátil ultrafino  con un 21.02 % de descuento'
-date: 2020-12-26 17:15:36
+date: 2020-12-31 08:46:44
 image: 'https://m.media-amazon.com/images/I/41dl8ze616L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QZS9SL3/?tag=tolees-21'
 descuento: '21.02'
-average: '635.7560869565216'
+average: '641.6947999999999'
 ---
 
 En este momento está [Medion Akoya S6445 - Portátil ultrafino 15.6" FullHD  Intel Core i7-8565U  8GB RAM  256GB SSD  Intel UHD Graphics  Windows 10 Home Plus  color gris - Teclado QWERTY Español](https://www.amazon.es/dp/B07QZS9SL3/?tag=tolees-21) a 709.99 EUR (original: 899.0 EUR) (21.02 %  de descuento) en el siguiente enlace!
@@ -25,11 +25,11 @@ En este momento está [Medion Akoya S6445 - Portátil ultrafino 15.6" FullHD  In
 
 🔎:
 
-- Almacenamiento de 256GB SSD M.2 PCIe NVMe
-- Memoria ram de 8 gb ddr4
 - Pantalla de 15,6", FullHD 1920x1080 pixeles
-- Tarjeta gráfica integrada intel uhd graphics
 - Procesador intel core i7-8565u (4 núcleos, 8 mb cache, 1.8 ghz hasta 4.6 ghz)
+- Memoria ram de 8 gb ddr4
+- Almacenamiento de 256GB SSD M.2 PCIe NVMe
 - Sistema operativo windows 10 home plus
+- Tarjeta gráfica integrada intel uhd graphics
 
 [Aquí!!!](https://www.amazon.es/dp/B07QZS9SL3/?tag=tolees-21)
