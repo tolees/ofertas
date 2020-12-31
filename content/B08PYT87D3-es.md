@@ -26,8 +26,8 @@ En este momento está [P Prettyia Memory Stick USB 3.0 de 1 Pieza con Carcasa  A
 🔎:
 
 - . capacidad, sin razón y sin necesidad de eliminar sus datos valiosos. Fácil de leer y leer a velocidad.
+- . Un dispositivo de almacenamiento de datos conveniente, le permite llevar fácilmente sus datos a casa, a su oficina, escuela o cualquier otro lugar.
 - . Interfaz tipo C, USB3.0 de velocidad.
 - . Fácil de leer y leer a velocidad, sin necesidad de conectar el disco o la fuente de alimentación
-- . Un dispositivo de almacenamiento de datos conveniente, le permite llevar fácilmente sus datos a casa, a su oficina, escuela o cualquier otro lugar.
 
 [Aquí!!!](https://www.amazon.es/dp/B08PYT87D3/?tag=tolees-21)

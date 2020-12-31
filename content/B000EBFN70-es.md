@@ -26,9 +26,9 @@ Tienes [Hama Star 05 - Trípode para cámaras Foto/Video  106.5 cm  Aluminio  Ca
 ℹ️:
 
 - Tipo de articulo: trípodes
-- Está disponible con 4 patas/secciones
 - Tiene nivel de burbuja
 - Viene con rótula 3D
+- Está disponible con 4 patas/secciones
 - Incluye bolsa de transporte
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000EBFN70/?tag=tolees-21)

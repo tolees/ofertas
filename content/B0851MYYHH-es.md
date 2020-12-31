@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pack Star Wars: The Skywalker Saga Blu-R al 19.97 % de descuento'
-date: 2020-12-30 20:12:05
+date: 2020-12-31 22:15:35
 image: 'https://m.media-amazon.com/images/I/51wLveJ8nHL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0851MYYHH/?tag=tolees-21'
 descuento: '19.97'
-average: '104.21428571428571'
+average: '103.66599999999998'
 ---
 
 Está [Pack Star Wars: The Skywalker Saga Blu-Ray  9 películas + 9 discos extra  [Blu-ray]](https://www.amazon.es/dp/B0851MYYHH/?tag=tolees-21) con 19.97 de descuento por 95.99 EUR (original: 119.95 EUR) en el siguiente enlace!

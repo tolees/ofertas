@@ -25,10 +25,10 @@ En este momento está [Rimmel London  Pintalabios  410 Not Guilty  - 18 gr.](htt
 
 🔎:
 
-- Bálsamo hidratante que ofrece un acabado brillante y suave
-- Color intenso inalterabke hasta 16 horas
-- Resistente a besos y roces… ¡No deja rastro, ni mancha
-- Aplicar top coat para sellar el color, hidratar y proporcionar brillo
 - Aplicar color y mantener los labios separados hasta su secado
+- Resistente a besos y roces… ¡No deja rastro, ni mancha
+- Bálsamo hidratante que ofrece un acabado brillante y suave
+- Aplicar top coat para sellar el color, hidratar y proporcionar brillo
+- Color intenso inalterabke hasta 16 horas
 
 [Aquí!!!](https://www.amazon.es/dp/B019ZMC8YY/?tag=tolees-21)

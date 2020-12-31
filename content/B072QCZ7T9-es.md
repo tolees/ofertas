@@ -25,9 +25,9 @@ Tienes [Daniel Wellington Petite Bondi  Reloj Blanco/Oro Rosado  32mm  Cuero  pa
 
 🔎:
 
-- Longitud de la correa ajustable: (Min - Max) 145-185mm
 - Diseñadas Suecia, las piezas de Daniel Wellington presentan un estilo escandinavo minimalista y son el regalo o accesorio personal óptimo para cada ocasión
-- Correa intercambiable
 - Tamaño de Esfera: 32 mm
+- Correa intercambiable
+- Longitud de la correa ajustable: (Min - Max) 145-185mm
 
 [Comprar!!!](https://www.amazon.es/dp/B072QCZ7T9/?tag=tolees-21)

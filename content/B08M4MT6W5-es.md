@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 21.06 % en Mulán  Imagen real  [Blu-ray]'
-date: 2020-12-30 22:13:37
+date: 2020-12-31 22:22:52
 image: 'https://m.media-amazon.com/images/I/51lH-ra7GiL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08M4MT6W5/?tag=tolees-21'
 descuento: '21.06'
-average: '18.054067796610166'
+average: '17.953606557377046'
 ---
 
 Tienes [Mulán  Imagen real  [Blu-ray]](https://www.amazon.es/dp/B08M4MT6W5/?tag=tolees-21) con un 21.06 % de descuento con precio de oferta de 14.99 EUR (original: 18.99 EUR) en el siguiente enlace!

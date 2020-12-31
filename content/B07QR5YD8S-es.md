@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HAWKERS AUDREY Gafas de sol  Fusion Brow con un 25.56 % de descuento'
-date: 2020-12-30 22:13:50
+date: 2020-12-31 22:21:45
 image: 'https://m.media-amazon.com/images/I/31EWAIYwdPL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QR5YD8S/?tag=tolees-21'
 descuento: '25.56'
-average: '28.83'
+average: '29.064999999999998'
 ---
 
 En este momento está [HAWKERS AUDREY Gafas de sol  Fusion Brown  One Size  Pack de 110027 ](https://www.amazon.es/dp/B07QR5YD8S/?tag=tolees-21) a 29.77 EUR (original: 39.99 EUR) (25.56 %  de descuento) en el siguiente enlace!
@@ -26,9 +26,9 @@ En este momento está [HAWKERS AUDREY Gafas de sol  Fusion Brown  One Size  Pack
 🔎:
 
 - Montura fabricada en TR90 con que dota a las gafas de gran ligereza, flexibilidad y resistencia, muy resistente a altas y bajas temperaturas
-- Producto original Hawkers; la caja incluye funda de microfibra, caja y set de pegatinas decorativas
-- Gafas de sol Audrey para mujer, inspiradas en el icónico modelo que llevaba la actriz Audrey Hepburn en la película Desayuno con Diamantes, con montura negra brillante y cristal rosa dorado con efecto espejo
-- Medidas: Frente:14,4 cm, Altura: 5,64 cm, Diámetro de la lente: 5,2 cm, Puente: 1,9 cm; Varillas: 14 cm
 - Lente en rosa dorada con efecto espejo fabricada en TR18, con reducción de brillos y con gran equilibrio entre claridad y protección; lente de categoría 3 con protección UV402
+- Gafas de sol Audrey para mujer, inspiradas en el icónico modelo que llevaba la actriz Audrey Hepburn en la película Desayuno con Diamantes, con montura negra brillante y cristal rosa dorado con efecto espejo
+- Producto original Hawkers; la caja incluye funda de microfibra, caja y set de pegatinas decorativas
+- Medidas: Frente:14,4 cm, Altura: 5,64 cm, Diámetro de la lente: 5,2 cm, Puente: 1,9 cm; Varillas: 14 cm
 
 [Aquí!!!](https://www.amazon.es/dp/B07QR5YD8S/?tag=tolees-21)

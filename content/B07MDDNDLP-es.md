@@ -25,7 +25,7 @@ Ahora mismo tienes [Lotus Reloj Analógico para Mujer de Cuarzo con Correa en Cu
 
 🔎:
 
-- Ziffernblatt: Weiß mit Leuchtzeigern, goldenen Indizes und einem klaren Kristall
 - Wasserdichtigkeit: 5 bar
+- Ziffernblatt: Weiß mit Leuchtzeigern, goldenen Indizes und einem klaren Kristall
 
 [Visítala!!!](https://www.amazon.es/dp/B07MDDNDLP/?tag=tolees-21)

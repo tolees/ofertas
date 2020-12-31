@@ -25,10 +25,10 @@ Tienes [OMRON C28P CompAir Inhalador con tecnología Virtual Valve](https://www.
 
 🔎:
 
-- La tecnología Virtual Valve (VVT) captura la medicación al espirar, lo que reduce el gasto de medicamento y aumenta la eficacia del tratamiento
+- Se suministra con kit nebulizador, mascarilla para niños, mascarilla para adultos, boquilla, pieza nasal, tubo de aire, 5 filtros de aire, manual de instrucciones y estuche
 - Compresor robusto de diseño japonés, con una mayor vida útil y más potencia para distribuir la medicación rápidamente
 - Diseñado para uso frecuente, por lo que es adecuado como dispositivo único para tratar a toda la familia
 - Nebulizador para tratar afecciones de las vías respiratorias bajas
-- Se suministra con kit nebulizador, mascarilla para niños, mascarilla para adultos, boquilla, pieza nasal, tubo de aire, 5 filtros de aire, manual de instrucciones y estuche
+- La tecnología Virtual Valve (VVT) captura la medicación al espirar, lo que reduce el gasto de medicamento y aumenta la eficacia del tratamiento
 
 [Comprar!!!](https://www.amazon.es/dp/B0081EL4OS/?tag=tolees-21)
