@@ -1,35 +1,35 @@
 ---
 layout: post
-title: 'PUMA Smash Wns V2 L  Zapatillas Mujer  B al 37.92 % de descuento'
-date: 2020-12-24 20:38:48
+title: 'PUMA Smash Wns V2 L  Zapatillas Mujer  B al 37.48 % de descuento'
+date: 2020-12-30 22:05:10
 image: 'https://m.media-amazon.com/images/I/31CtiC1XhuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B077MLPMX1-es'
-actualPrice: 31.01 EUR
+actualPrice: 31.23 EUR
 currency: EUR
-price: 31.01
+price: 31.23
 comparePrice: 49.95 EUR
 prodname: 'PUMA Smash Wns V2 L  Zapatillas Mujer  Blanco White White  38 EU'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077MLPMX1/?tag=tolees-21'
-descuento: '37.92'
-average: '35.28156862745098'
+descuento: '37.48'
+average: '35.14150943396227'
 ---
 
-Está [PUMA Smash Wns V2 L  Zapatillas Mujer  Blanco White White  38 EU](https://www.amazon.es/dp/B077MLPMX1/?tag=tolees-21) con 37.92 de descuento por 31.01 EUR (original: 49.95 EUR) en el siguiente enlace!
+Está [PUMA Smash Wns V2 L  Zapatillas Mujer  Blanco White White  38 EU](https://www.amazon.es/dp/B077MLPMX1/?tag=tolees-21) con 37.48 de descuento por 31.23 EUR (original: 49.95 EUR) en el siguiente enlace!
 
 [![PUMA Smash Wns V2 L  Zapatillas Mujer  B](https://m.media-amazon.com/images/I/31CtiC1XhuL._SL200_.jpg)](https://www.amazon.es/dp/B077MLPMX1/?tag=tolees-21)
 
 ℹ️:
 
 - Composición: Leder
-- Cierre: Cordones
-- Revestimiento: Sintético
 - Tipo de tacón: Plano
-- Material de la suela: Goma
 - Material exterior: Cuero
+- Revestimiento: Sintético
+- Cierre: Cordones
+- Material de la suela: Goma
 
 [Ver la oferta!!](https://www.amazon.es/dp/B077MLPMX1/?tag=tolees-21)

@@ -25,10 +25,10 @@ Ahora mismo tienes [Multímetro Meterk 2000 Cuentas Multímetro Digital Multi Te
 
 🔎:
 
-- 🎄2000 Count & Multi-function➤Can pantalla 2000 cuenta y prueba voltaje / corriente AC / DC, diodo, resistencia, capacitancia, frecuencia, ciclo de trabajo, temperatura, continuidad, prueba NCV y HFE con 10 auto-rango.
-- 🎄Placa de circuito de precisión y protección contra sobrecarga➤Utilice el circuito de protección de cerámica PTC para resistencia, medición de frecuencia, interferencia de blindaje y la prueba de continuidad puede ser de 50Ω.
 - 🎄Fácil de usar y transparente para leer➤ Gran pantalla LCD con retroiluminación y herramientas domésticas perfectas y fáciles de usar para el laboratorio, las fábricas y los entusiastas de la radio.
+- 🎄Placa de circuito de precisión y protección contra sobrecarga➤Utilice el circuito de protección de cerámica PTC para resistencia, medición de frecuencia, interferencia de blindaje y la prueba de continuidad puede ser de 50Ω.
 - 🎄Diseño portátil➤ Hay un soporte trasero para soportar el multímetro, y también puede recoger la sonda de prueba para su conveniencia.
+- 🎄2000 Count & Multi-function➤Can pantalla 2000 cuenta y prueba voltaje / corriente AC / DC, diodo, resistencia, capacitancia, frecuencia, ciclo de trabajo, temperatura, continuidad, prueba NCV y HFE con 10 auto-rango.
 - 🎄Tecla "FUNC" para algunas funciones Selección➤ La NCV con alarma visual y audible garantiza la seguridad de su vida, la retención de datos y la función de apagado automático.
 
 [Visítala!!!](https://www.amazon.es/dp/B076Q32GXZ/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Let s Sing 13+ 2 micros con un 21.95 % de descuento'
-date: 2020-12-29 22:04:43
+date: 2020-12-30 22:22:10
 image: 'https://m.media-amazon.com/images/I/51prv0ncgAL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08HZTGRP8/?tag=tolees-21'
 descuento: '21.95'
-average: '50.362903225806456'
+average: '50.148181818181826'
 ---
 
 En este momento está [Let s Sing 13+ 2 micros](https://www.amazon.es/dp/B08HZTGRP8/?tag=tolees-21) a 46.82 EUR (original: 59.99 EUR) (21.95 %  de descuento) en el siguiente enlace!

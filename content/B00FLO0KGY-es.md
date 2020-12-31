@@ -25,8 +25,8 @@ Tienes [Bollé SOLIPSF - Gafas de seguridad de cristal ahumado  talla única  co
 
 ℹ️:
 
-- Antiestática.
 - Puente antideslizante.
+- Antiestática.
 - Patillas antideslizantes.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00FLO0KGY/?tag=tolees-21)
