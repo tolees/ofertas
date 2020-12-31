@@ -25,10 +25,10 @@ Tienes [Sony SRS-XB23 - Altavoz Bluetooth Potente  con Luces  Extra Bass  Resist
 
 🔎:
 
-- Experiencia de sonido potente, profundidad e intensidad en graves y claridad vocal
 - Altavoz portátil resistente al agua, al polvo, al óxido (IP67), al agua salada y a los golpes (hasta 1.2 m) con hasta 12h de batería
 - Controla tu altavoz de fiesta con tu smartphone vía las apps Fiestable y Sony o Music Center
-- El SRS-XB23 es compacto, ligero y fácil de llevar, además con su correa incluida lo podrás llevar contigo a cualquier lugar
 - Haz tu fiesta aún más grande, conecta hasta 100 altavoces inalámbricos compatibles o haz stereo pair
+- El SRS-XB23 es compacto, ligero y fácil de llevar, además con su correa incluida lo podrás llevar contigo a cualquier lugar
+- Experiencia de sonido potente, profundidad e intensidad en graves y claridad vocal
 
 [Comprar!!!](https://www.amazon.es/dp/B08B444CWD/?tag=tolees-21)

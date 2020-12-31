@@ -25,8 +25,8 @@ Está [Pepe Jeans PIXLETTE Jeans  Azul  Light Used Denim Mj7   5 años  Talla de
 
 ℹ️:
 
-- Tienen un parche de piel en la parte trasera con la marca Pepe Jeans
 - Cierre con cremallera
+- Tienen un parche de piel en la parte trasera con la marca Pepe Jeans
 - Vaqueros para niñas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07CRF1PJW/?tag=tolees-21)
