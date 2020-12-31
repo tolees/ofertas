@@ -25,10 +25,10 @@ En este momento está [GHB Vigilabebés Inalámbrico con Cámara Visión Nocturn
 
 🔎:
 
-- Modo VOX (Acivado por voz): Si activa este modo, la pantalla entrará en un estado de ahorro de energía y solo se activará cuando la cámara reciba el ruido del bebé. Esto aumentará en gran medida la autonomía de la pantalla
-- Pantalla de 3,2 Pulgada HD: Gran pantalla LCD TFT a color asegurar que la imagen es nítida y colorida, que permite una óptima claridad para vigilar a su bebé
+- Intercomunicador: Excelente para padres y bebés por igual, el sistema de audio bidireccional le permite escuchar su lloro o llanto y le permite hablar con bebe o cantarle desde otra habitación para una respuesta más rápida
 - Batería incorporada de gran capacidad de 1150 mAh, autonomía optimizada de la batería, el módulo de antena externa puede garantizar una mejor transmisión de señal entre dispositivos
 - Cámara de Visión Nocturna: La cámara cambiará automáticamente el modo de visión nocturna de acuerdo con la intensidad de la luz, la unidad de bebé (cámara) tiene que enchufar el adaptador de corriente siempre
-- Intercomunicador: Excelente para padres y bebés por igual, el sistema de audio bidireccional le permite escuchar su lloro o llanto y le permite hablar con bebe o cantarle desde otra habitación para una respuesta más rápida
+- Modo VOX (Acivado por voz): Si activa este modo, la pantalla entrará en un estado de ahorro de energía y solo se activará cuando la cámara reciba el ruido del bebé. Esto aumentará en gran medida la autonomía de la pantalla
+- Pantalla de 3,2 Pulgada HD: Gran pantalla LCD TFT a color asegurar que la imagen es nítida y colorida, que permite una óptima claridad para vigilar a su bebé
 
 [Aquí!!!](https://www.amazon.es/dp/B081N8FLX3/?tag=tolees-21)

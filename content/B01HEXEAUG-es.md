@@ -25,12 +25,12 @@ Está [Crocs Classic Clog  Zuecos Unisex Niños  Naranja  Tangerine   32-33 EU](
 
 ℹ️:
 
-- Cierre: Sin cordones
-- Composición: Espuma
+- Material exterior: Espuma
 - Anchura del zapato: Normal
 - Revestimiento: Sin forro
-- Material de la suela: EVA
 - Tipo de tacón: Plano
-- Material exterior: Espuma
+- Cierre: Sin cordones
+- Composición: Espuma
+- Material de la suela: EVA
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01HEXEAUG/?tag=tolees-21)

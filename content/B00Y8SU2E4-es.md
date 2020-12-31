@@ -27,8 +27,8 @@ Tienes [PureSilverH2O 1000ml Plata coloidal 2 x Botellas  Cada 500ml/15ppm  Plat
 
 - ✔ CALIDAD PROFESIONAL ✔ PRODUCTO PRUEBA DE LABORATORIO - Recuperación óptima de electrolitos con proceso de baja tensión. La producción diaria nos permite ofrecer un producto siempre fresco y de alta calidad. Los análisis de laboratorio independientes muestran la más alta calidad
 - ✔ ENTREGA - 1000ml Plata coloidal PureSilverH2O / 2 x Botellas (cada 500ml/15ppm) Plata coloidal - 99,99% de plata pura - la mejor calidad - Made in Germany + instrucciones
+- ✔ INGREDIENTES Y RELLENO - agua ultrapura / destilada desmineralizada <0.5 microsiemens (microsegundos) y plata fina 99.99% - El relleno está hecho de vidrio médico ámbar, que protege la plata coloidal de la luz ultravioleta y evita las direcciones químicas no deseadas
 - ✔ PureSilverH2O - Plata coloidal pura, obtenida electrolíticamente, sin aditivos ni sales de plata. Solo la plata coloidal fresca desarrolla sus propiedades de manera óptima. Por lo tanto, expresamente renunciamos al envío de AMAZON PRIME. Prescindimos de la producción de almacenamiento y almacenamiento intermedio a favor de nuestros clientes y la calidad
 - ✔ 100% NATURAL & ANTIBAKTERIAL - efectiva para cada vida y la vida vegetal: propiedades antibióticas, anti-inflamatorio, el fortalecimiento del sistema inmunológico, eficaces contra hongos, virus y bacterias dañinas, eficaz para los problemas de la piel y mucho más
-- ✔ INGREDIENTES Y RELLENO - agua ultrapura / destilada desmineralizada <0.5 microsiemens (microsegundos) y plata fina 99.99% - El relleno está hecho de vidrio médico ámbar, que protege la plata coloidal de la luz ultravioleta y evita las direcciones químicas no deseadas
 
 [Comprar!!!](https://www.amazon.es/dp/B00Y8SU2E4/?tag=tolees-21)

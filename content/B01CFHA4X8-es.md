@@ -25,10 +25,10 @@ En este momento está [4-en-1 Yosoo multifunción de hidratación bolsa de hidra
 
 🔎:
 
-- ✔ Cepillo grande para limpiar el depósito.
-- ✔ Cepillo de alambre de resorte largo para limpiar el tubo.
-- ✔ El estante plegable ayuda a secar tu vejiga después de la limpieza.
 - ✔ Útil kit de limpieza 4 en 1 para limpiar tu bolsa de agua.
+- ✔ Cepillo de alambre de resorte largo para limpiar el tubo.
 - ✔ Cepillo pequeño para limpiar la válvula de mordida.
+- ✔ Cepillo grande para limpiar el depósito.
+- ✔ El estante plegable ayuda a secar tu vejiga después de la limpieza.
 
 [Aquí!!!](https://www.amazon.es/dp/B01CFHA4X8/?tag=tolees-21)

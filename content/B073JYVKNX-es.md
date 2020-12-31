@@ -25,11 +25,11 @@ En este momento está [SanDisk Ultra Tarjeta de memoria microSDXC con adaptador 
 
 🔎:
 
-- Recomendado para smartphones y tabletas con sistema operativo Android y cámaras MIL
 - Incluye la nueva categoría A1: para un rendimiento más rápido de las aplicaciones
-- Clase 10 para la grabación y reproducción de vídeos en calidad Full HD
-- Los resultados y la compatibilidad con el video full HD (1920 x 1080) pueden variar según el dispositivo, los atributos de archivo y otros factores
-- Compatible con microSDHC y microSDXC que admiten dispositivos host
+- Recomendado para smartphones y tabletas con sistema operativo Android y cámaras MIL
 - Velocidades de transferencia de hasta 100 MB/s
+- Clase 10 para la grabación y reproducción de vídeos en calidad Full HD
+- Compatible con microSDHC y microSDXC que admiten dispositivos host
+- Los resultados y la compatibilidad con el video full HD (1920 x 1080) pueden variar según el dispositivo, los atributos de archivo y otros factores
 
 [Aquí!!!](https://www.amazon.es/dp/B073JYVKNX/?tag=tolees-21)

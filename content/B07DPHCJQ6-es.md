@@ -25,10 +25,10 @@ Está [Wolfenstein Youngblood - Edición Deluxe PC    La caja contiene un códig
 
 ℹ️:
 
-- Usa un arsenal de nuevas armas, dispositivos y habilidades de armadura para echar a los nazis de la ciudad de la luz
-- Juega como una de las hijas gemelas de B. J; blazkowicz en una misión a vida o muerte para encontrarle en el París de los años 80
 - La caja incluye código de descarga
-- Youngblood es una aventura cooperativa del galardonado estudio MachineGames
+- Juega como una de las hijas gemelas de B. J; blazkowicz en una misión a vida o muerte para encontrarle en el París de los años 80
+- Usa un arsenal de nuevas armas, dispositivos y habilidades de armadura para echar a los nazis de la ciudad de la luz
 - No incluye disco. Requiere ua cuenta Bethesda.net, descarga y validación periódica
+- Youngblood es una aventura cooperativa del galardonado estudio MachineGames
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07DPHCJQ6/?tag=tolees-21)

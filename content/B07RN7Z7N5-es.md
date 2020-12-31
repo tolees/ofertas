@@ -25,8 +25,8 @@ Tienes [NIKE Baby Casa 2019/2020  Equipación de fútbol Set  Unisex niños  Roj
 
 ℹ️:
 
-- Lavable en lavadora
-- Cinta elástica, calcetines cortos y elásticos para una vestibilidad perfecta
 - Tejido Dri-fit para una piel seca y máximo confort
+- Cinta elástica, calcetines cortos y elásticos para una vestibilidad perfecta
+- Lavable en lavadora
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07RN7Z7N5/?tag=tolees-21)
