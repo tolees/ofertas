@@ -25,8 +25,8 @@ Tienes [Skechers Status 2.0-Pexton  Zapatillas Hombre  Azul  NVY Black Canvas   
 
 ℹ️:
 
-- Ajuste clásico.
 - Espuma viscoelástica refrigerada por aire.
 - Goga Mat Arch
+- Ajuste clásico.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HP5TJZD/?tag=tolees-21)

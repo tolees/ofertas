@@ -25,10 +25,10 @@ Ahora mismo tienes [WENKO 7730100 Recipiente para cocina para recoger las basura
 
 🔎:
 
-- Carga menos la espalda y ahorra papel de cocina
 - El grosor máximo del armario en el que se puede colgar: 2,5 cm
 - Medidas (an x al x l): cuenco: 32, 4 x 17, 3 x 9, 2 cm, rascador: 12, 2 x 6, 2 x 0, 3 cm
 - Simplemente enganchar en un cajón o una puerta
+- Carga menos la espalda y ahorra papel de cocina
 - Adecuado para lavavajillas
 - Hecho de plástico higiénico
 

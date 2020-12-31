@@ -25,8 +25,8 @@ Tienes [Funko Pop TV Who 13th Doctor Figura de Vinilo-Coleccionable  Multicolor 
 
 ℹ️:
 
-- Nº 899
 - Funko POP Vinilo
+- Nº 899
 - Colección Doctor Who
 - Licencia Oficial
 - Caja ilustrada con ventana

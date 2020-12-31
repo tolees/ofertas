@@ -25,10 +25,10 @@ Ahora mismo tienes [MOJIPOPS - I like Pets con 2 exclusivas figuras MojiPops y v
 
 🔎:
 
-- Los MojiPops son muy especiales: ¡Pueden cambiar sus emociones!
-- Gira sus caritas o intercámbialas con otros MojiPops para inventarte tus historias
 - ¡Cuida y entrena a los MojiPops Pets en el Pet Club!
-- Ideal para desarrollar la imaginación y habilidad emocional de los niños
 - Juega con ellos en el tobogán, cuídalos y pásatelo genial viviendo mil aventuras juntos.
+- Los MojiPops son muy especiales: ¡Pueden cambiar sus emociones!
+- Ideal para desarrollar la imaginación y habilidad emocional de los niños
+- Gira sus caritas o intercámbialas con otros MojiPops para inventarte tus historias
 
 [Visítala!!!](https://www.amazon.es/dp/B07NSPPKBW/?tag=tolees-21)

@@ -25,9 +25,9 @@ Ahora mismo tienes [OUNONA Dispensador de jabón de acero inoxidable sin contact
 
 🔎:
 
-- Adecuado para una variedad de líquidos viscosos, como desinfectante, desinfectante de manos, gel de ducha, champú, etc.
+- Movimiento automático de la mano humana del líquido para evitar la infección cruzada secundaria.
 - Adopte la tecnología infrarroja avanzada de inducción del cuerpo humano.
 - Revestimiento a prueba de fugas de acero inoxidable (la mayor parte del mercado es revestimiento moldeado por soplado, que es fácil de filtrar).
-- Movimiento automático de la mano humana del líquido para evitar la infección cruzada secundaria.
+- Adecuado para una variedad de líquidos viscosos, como desinfectante, desinfectante de manos, gel de ducha, champú, etc.
 
 [Visítala!!!](https://www.amazon.es/dp/B07GCGPVJ7/?tag=tolees-21)

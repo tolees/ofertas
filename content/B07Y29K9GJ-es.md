@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'APEX LIFELINE al 75.04 % de rebaja'
-date: 2020-12-29 07:48:31
+title: 'APEX LIFELINE al 15.46 % de rebaja'
+date: 2020-12-31 19:12:38
 image: 'https://m.media-amazon.com/images/I/515QoG3TrEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07Y29K9GJ-es'
-actualPrice: 4.99 EUR
+actualPrice: 16.9 EUR
 currency: EUR
-price: 4.99
+price: 16.9
 comparePrice: 19.99 EUR
 prodname: 'APEX LIFELINE'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07Y29K9GJ/?tag=tolees-21'
-descuento: '75.04'
-average: '9.268181818181816'
+descuento: '15.46'
+average: '10.44230769230769'
 ---
 
-Tienes [APEX LIFELINE](https://www.amazon.es/dp/B07Y29K9GJ/?tag=tolees-21) con precio final de  4.99 EUR (original: 19.99 EUR) (75.04 %  de rebaja) aqui!
+Tienes [APEX LIFELINE](https://www.amazon.es/dp/B07Y29K9GJ/?tag=tolees-21) con precio final de  16.9 EUR (original: 19.99 EUR) (15.46 %  de rebaja) aqui!
 
 [![APEX LIFELINE](https://m.media-amazon.com/images/I/515QoG3TrEL._SL200_.jpg)](https://www.amazon.es/dp/B07Y29K9GJ/?tag=tolees-21)
 

@@ -27,8 +27,8 @@ Tienes [CSL – Adaptador WLAN USB 300 Mbit s - Mini WiFi Stick - WEP WPA WPA2-2
 
 - Incluye CD de controladores para sistemas Windows 7-10 (32/64 bit) con interfaz fácil de usar. Se requiere la instalación del controlador.
 - Otras características: con pantalla LED de alimentación azul | Chipset: MT7603UN | Estándares: 2.4 GHz 2T2R, STBC, WoWLAN RF FEM, Airtime Fairness, TxBF | Amplificación de 18 dBm | Dimensiones: (AlxAnxL): 8 x 20 x 37 mm, peso: 4 g | Volumen de suministro: adaptador WLAN CSL 2,4 Ghz 300 Mbit / s
-- El dongle USB WLAN está equipado con el estándar WLAN IEEE 802.11b / g / ny cifra los enrutadores de forma segura a través de WPA / WPA2 y clave WEP.
 - La velocidad en la banda de 2,4 GHz es de hasta 300 Mbit / s. ¡ Disfrute de transmisión rápida, juegos en línea o telefonía VoIP !
 - Para una conexión óptima de su ordenador a una red inalámbrica. El stick USB 2.0 CSL WLAN está desarrollado para aplicaciones móviles y con sus dimensiones compactas siempre está con usted. Ideal para viajar con un Notebook o portátil. | Número de modelo: 304463
+- El dongle USB WLAN está equipado con el estándar WLAN IEEE 802.11b / g / ny cifra los enrutadores de forma segura a través de WPA / WPA2 y clave WEP.
 
 [Comprar!!!](https://www.amazon.es/dp/B08NVZST4G/?tag=tolees-21)

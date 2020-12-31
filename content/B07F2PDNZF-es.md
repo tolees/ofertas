@@ -25,10 +25,10 @@ Ahora mismo tienes [TOUCHBeauty Pluma para el acné con terapia de luz  Pluma pa
 
 🔎:
 
+- 👉【TRATAMIENTO DE TERAPIA CON LUCES AZULES Y ROJAS】: Terapia de luz clara Tratamiento dirigido y rápido para el acné. Luz azul para prevenir la recurrencia del acné, y tiene el papel de minimizar los poros; Luz roja para tratar cicatrices de acné.
+- 👉【SEGURIDAD Y PORTÁTIL】: no tóxico, sin efectos secundarios, sin residuos químicos en la piel, ofrece un tratamiento saludable y seguro para usted. Portátil, se puede usar en cualquier momento y en cualquier lugar
 - 👉【FÁCIL DE USAR】: Presione el botón, opcionalmente puede cambiar las luces de color para el tratamiento. Tratar durante 2,5 minutos por vez, tres veces al día. Energía alimentada por 1 x batería AA (no incluida)
 - 👉【LÁPIZ DE TRATAMIENTO CON PUNTOS PARA EL ACNÉ DE TERAPIA LIGERA】: Utilice la terapia térmica junto con una luz especial, puede usarse para eliminar el acné, las marcas de acné y para prevenir la recaída del acné y es adecuado para reparar la piel y el cuidado de la piel
-- 👉【TRATAMIENTO DE TERAPIA CON LUCES AZULES Y ROJAS】: Terapia de luz clara Tratamiento dirigido y rápido para el acné. Luz azul para prevenir la recurrencia del acné, y tiene el papel de minimizar los poros; Luz roja para tratar cicatrices de acné.
 - 👉【GARANTÍA DE 1 AÑO】 --- Usted está completamente cubierto por nuestra GARANTÍA DE 1 AÑO y GARANTÍA DE DEVOLUCIÓN DE 30 DÍAS. No dude en contactarnos si tiene algún problema.
-- 👉【SEGURIDAD Y PORTÁTIL】: no tóxico, sin efectos secundarios, sin residuos químicos en la piel, ofrece un tratamiento saludable y seguro para usted. Portátil, se puede usar en cualquier momento y en cualquier lugar
 
 [Visítala!!!](https://www.amazon.es/dp/B07F2PDNZF/?tag=tolees-21)

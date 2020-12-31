@@ -25,9 +25,9 @@ Tienes [MOJIPOPS - I like Movies con 2 exclusivas figuras Mojipops y variedad de
 
 🔎:
 
+- Gira sus caritas o intercámbialas con otros MojiPops para inventarte tus historias
 - Los MojiPops son muy especiales: ¡Pueden cambiar sus emociones!
 - Ideal para desarrollar la imaginación y habilidad emocional de los niños
-- Gira sus caritas o intercámbialas con otros MojiPops para inventarte tus historias
 - Juguete para a partir de los 3 años de edad
 - Disfruta con los MojiPops viendo una peli y comiendo palomitas.
 

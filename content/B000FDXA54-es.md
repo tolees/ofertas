@@ -25,8 +25,8 @@ Tienes [Rubies ST-882848 M - Disfraz de Darth Vader para niños   M](https://www
 
 🔎:
 
-- Producto con licencia oficial de Star Wars
 - Incluye mono con cubrebotas, cinturón, capa y máscara
+- Producto con licencia oficial de Star Wars
 - Talla: M, 5-7 años, longitud 132 cm, cintura 72 cm
 
 [Comprar!!!](https://www.amazon.es/dp/B000FDXA54/?tag=tolees-21)

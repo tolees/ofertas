@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'TP-Link TL-WR802N Nano Router N300 Wi-Fi al 27.66 % de descuento'
-date: 2020-12-05 05:46:06
+title: 'TP-Link TL-WR802N Nano Router N300 Wi-Fi con un 27.66 % de descuento'
+date: 2020-12-31 19:15:52
 image: 'https://m.media-amazon.com/images/I/31zptAbcUzL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,13 +16,21 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TQEX8BO/?tag=tolees-21'
 descuento: '27.66'
+average: '21.61181818181818'
 ---
 
-Ahora mismo tienes [TP-Link TL-WR802N Nano Router N300 Wi-Fi portátil  300 Mbps  1 puerto LAN /WAN  1 puerto micro USB  modos de funcionamiento: enrutador  repetidor  cliente / receptor  AP y WISP](https://www.amazon.es/dp/B00TQEX8BO/?tag=tolees-21) a 21.63 EUR (original: 29.9 EUR) (27.66 %  de descuento) en el siguiente enlace!
+En este momento está [TP-Link TL-WR802N Nano Router N300 Wi-Fi portátil  300 Mbps  1 puerto LAN /WAN  1 puerto micro USB  modos de funcionamiento: enrutador  repetidor  cliente / receptor  AP y WISP](https://www.amazon.es/dp/B00TQEX8BO/?tag=tolees-21) a 21.63 EUR (original: 29.9 EUR) (27.66 %  de descuento) en el siguiente enlace!
 
 [![TP-Link TL-WR802N Nano Router N300 Wi-Fi](https://m.media-amazon.com/images/I/31zptAbcUzL._SL200_.jpg)](https://www.amazon.es/dp/B00TQEX8BO/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Con una velocidad de transferencia de 300 Mbps, es óptimo para llamadas por Internet, ver videos en streaming y juegos en línea
+- Admite los siguientes modos: enrutador, repetidor, cliente, punto de acceso y WISP
+- Fácil instalación en minutos
+- Puertos: 1 puerto WAN / LAN de 10/100 Mbps, 1 puerto micro USB
+- Tamaño de bolsillo: diseño de tamaño Nano, óptimo para el hogar y los viajes
+- Alimentado por un puerto micro USB, por un adaptador de corriente externo o conectándolo por USB a la computadora; proporciona flexibilidad para cualquier situación
+- Requisitos del sistema: Internet Explorer 11+, Firefox 12.0+, Chrome 20.0+, Safari 4.0+ u otro navegador habilitado para JavaScript; Módem por cable o DSL (si es necesario); Suscripción con un proveedor de servicios de Internet (para acceso a Internet)
 
-[Visítala!!!](https://www.amazon.es/dp/B00TQEX8BO/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B00TQEX8BO/?tag=tolees-21)
