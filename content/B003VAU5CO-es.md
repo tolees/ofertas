@@ -25,9 +25,9 @@ Tienes [Nixon Reloj Unisex de Digital con Correa en Acero Inoxidable Chapado A15
 
 ℹ️:
 
+- Correa: acero inoxidable 12,70 mm, cierre de bloqueo deslizable y ajustable
+- Mecanismo: digital de 4 funciones con calendario, doble huso horario, alarma, temporizador de cuenta atrás y luz
 - Esfera: pantalla LCD en negativo
 - Caja: acero inoxidable de 43 x 38,50 mm, 30 M , 3 ATM, pulsadores de poliuretano y cristal mineral endurecido
-- Mecanismo: digital de 4 funciones con calendario, doble huso horario, alarma, temporizador de cuenta atrás y luz
-- Correa: acero inoxidable 12,70 mm, cierre de bloqueo deslizable y ajustable
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B003VAU5CO/?tag=tolees-21)

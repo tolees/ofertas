@@ -26,7 +26,7 @@ Está [HP Omen 600 - Ratón con cable gaming 12000 ppp  negro y rojo](https://ww
 ℹ️:
 
 - Es para gaming
-- Es de la marca HP
 - Ratón con cable
+- Es de la marca HP
 
 [Ver la oferta!!](https://www.amazon.es/dp/B071JR6NHL/?tag=tolees-21)
