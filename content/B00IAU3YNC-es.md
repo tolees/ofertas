@@ -25,10 +25,10 @@ En este momento está [Microsoft – Wireless Mobile Mouse 1850 Rosa Claro](http
 
 🔎:
 
-- Rueda de desplazamiento
 - Compatible con Windows y Mac
+- Diseño cómodo y portable
 - Nano transceptor: deja conectado el nano transceptor durante tus desplazamientos o guárdalo en el ratón
 - Cómodo para ambas manos
-- Diseño cómodo y portable
+- Rueda de desplazamiento
 
 [Aquí!!!](https://www.amazon.es/dp/B00IAU3YNC/?tag=tolees-21)

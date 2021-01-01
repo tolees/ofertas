@@ -25,14 +25,14 @@ Tienes [Ring Floodlight Cam | Cámara de seguridad HD con focos integrados  comu
 
 🔎:
 
-- Compatible con determinados dispositivos Alexa para ver vídeo en directo solo usando la voz.
 - Puedes ver, escuchar y hablar con tus visitas a través del smartphone, el tablet o PC.
-- Las funcionalidades básicas, como las notificaciones instantáneas, el vídeo en directo y la comunicación bidireccional, están disponibles de manera gratuita en todos los dispositivos Ring nada más sacarlos de la caja. Añade el plan Ring Protect (la suscripción se vende por separado) para grabar, revisar y compartir los momentos que te has perdido (prueba de 30 días gratis incluida con la compra).
-- Requiere instalación por cable a la red eléctrica doméstica.
 - Recibirás notificaciones instantáneas cuando se detecte movimiento.
-- Incluye focos de alta potencia y una alarma sonora.
-- Incluye protección contra robo: si roban la cámara, la sustituiremos por una nueva gratis.
 - Vigila tu casa con vídeo HD 1080p, visión nocturna por infrarrojos y vídeo en directo.
+- Compatible con determinados dispositivos Alexa para ver vídeo en directo solo usando la voz.
+- Incluye focos de alta potencia y una alarma sonora.
+- Requiere instalación por cable a la red eléctrica doméstica.
+- Las funcionalidades básicas, como las notificaciones instantáneas, el vídeo en directo y la comunicación bidireccional, están disponibles de manera gratuita en todos los dispositivos Ring nada más sacarlos de la caja. Añade el plan Ring Protect (la suscripción se vende por separado) para grabar, revisar y compartir los momentos que te has perdido (prueba de 30 días gratis incluida con la compra).
+- Incluye protección contra robo: si roban la cámara, la sustituiremos por una nueva gratis.
 - ¿Te ayudamos? Contacta con el Servicio al Cliente de Ring: 00 800 87 00 97 81 o por correo electrónico help@ring.com
 
 [Comprar!!!](https://www.amazon.es/dp/B074G9DPXD/?tag=tolees-21)
