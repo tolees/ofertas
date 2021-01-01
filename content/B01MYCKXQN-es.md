@@ -25,10 +25,10 @@ Está [OtterBox Symmetry Funda anticaídas](https://www.amazon.es/dp/B01MYCKXQN/
 
 ℹ️:
 
-- Diseño delgado: se desliza fácilmente en bolsillos y bolsos
-- Certificada Otterbox Protección Drop + : Pruebas de 24 horas . Más de 238 horas de pruebas. Fabricado para ti
 - Certificada para protección a las caídas
 - Elegante, encaja con las líneas de precisión de tu dispositivo
 - Funda transparente que permite mostrar tu dispositivo
+- Diseño delgado: se desliza fácilmente en bolsillos y bolsos
+- Certificada Otterbox Protección Drop + : Pruebas de 24 horas . Más de 238 horas de pruebas. Fabricado para ti
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01MYCKXQN/?tag=tolees-21)

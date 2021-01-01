@@ -25,7 +25,7 @@ Ahora mismo tienes [New Balance Hombre 574v2-core Trainers Zapatillas  Azul  Nav
 
 🔎:
 
-- Revestimiento: Malla
 - Material exterior: Cuero
+- Revestimiento: Malla
 
 [Visítala!!!](https://www.amazon.es/dp/B07ND7BLDH/?tag=tolees-21)

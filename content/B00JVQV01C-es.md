@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'El Rey León  2011  [DVD] al 15.02 % de descuento'
-date: 2020-12-30 06:46:30
+date: 2021-01-01 12:26:13
 image: 'https://m.media-amazon.com/images/I/51vYbNJPkaL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00JVQV01C/?tag=tolees-21'
 descuento: '15.02'
-average: '8.908070175438596'
+average: '8.886206896551723'
 ---
 
 Está [El Rey León  2011  [DVD]](https://www.amazon.es/dp/B00JVQV01C/?tag=tolees-21) con 15.02 de descuento por 7.64 EUR (original: 8.99 EUR) en el siguiente enlace!

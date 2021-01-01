@@ -26,9 +26,9 @@ Tienes [Rubiks Cage Es el Cubo 3 en Raya](https://www.amazon.es/dp/B07Z9NNYVR/?t
 🔎:
 
 - Un juego de estrategia en el que no necesitas saber resolver el famoso cubo de Rubiks
-- ¡COLOCA, GIRA, VOLTEA, GANA! ¡Es el cubo de Rubiks 3 en raya!
-- De 2 a 4 juagadores. A partir de 7 años. Contenido: Rubik’s Cage, 24 Cubitos de 6 colores distintos e instrucciones
 - Solo necesitarás utilizar tu inteligencia para ganar a tus rivales siendo el primero en hacer 3 en raya. Tú decides si colocas un nuevo cubo, giras una cara o le das toda la vuelta al cubo.
+- De 2 a 4 juagadores. A partir de 7 años. Contenido: Rubik’s Cage, 24 Cubitos de 6 colores distintos e instrucciones
 - Concéntrate y elige bien tu movimiento, porque cuando estés a punto de conseguirlo otro jugador puede darle la vuelta al cubo o girar una cara y cambiarte tu estrategia. ¡Un 3 en raya nunca fue tan divertido! ¡Atrévete con lo nuevo de Rubiks!
+- ¡COLOCA, GIRA, VOLTEA, GANA! ¡Es el cubo de Rubiks 3 en raya!
 
 [Comprar!!!](https://www.amazon.es/dp/B07Z9NNYVR/?tag=tolees-21)

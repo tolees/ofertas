@@ -25,9 +25,9 @@ Tienes [adidas Cuerda de Velocidad](https://www.amazon.es/dp/B004KQTYCU/?tag=tol
 
 🔎:
 
-- 3 m de largo
 - Cuerda ajustable
 - Rodamientos Integrados para mayor velocidad
 - Mango de foam
+- 3 m de largo
 
 [Comprar!!!](https://www.amazon.es/dp/B004KQTYCU/?tag=tolees-21)

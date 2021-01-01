@@ -26,8 +26,8 @@ Tienes [Oral-B 3DWhite Luxe Brillo Seductor Pasta Dentífrica Blanqueadora 2 x 7
 🔎:
 
 - Sabor a menta para un aliento fresco durante más tiempo
-- Protege contra nuevas manchas
 - Blanquea eliminando las manchas superficiales
+- Protege contra nuevas manchas
 - Pasta dentífrica que protege el esmalte
 - Elimina hasta el 100 % de las manchas superficiales* en 3 días y ayuda a prevenir futuras manchas
 

@@ -25,9 +25,9 @@ Ahora mismo tienes [Funko- Pop Disney:Fantasia 80th-Menacing Chernabog Fantasia 
 
 🔎:
 
-- Funko POP! El juguete del año 2018
 - De la colección Fantasia 80th, Menacing Chernabog como figura de vinilo POP de Funko
 - La figura mide 9 cm y se envía en una caja ilustrada con ventana
 - ¡Descúbre otras figuras de la colección Disney y colecciónalas todas!
+- Funko POP! El juguete del año 2018
 
 [Visítala!!!](https://www.amazon.es/dp/B089B8BH2F/?tag=tolees-21)

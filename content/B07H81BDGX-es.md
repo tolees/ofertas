@@ -25,9 +25,9 @@ Está [Orbegozo RF 2000 Radiador de aceite  2000W de potencia  construcción mod
 
 ℹ️:
 
-- Termostato regulable de alta precisión
-- Termofusible de seguridad con limitador y piloto luminoso de encendido
 - Radiador de aceite Orbegozo en color blanco, 4 ruedas pivotantes, asa para transporte y recoge cables
 - Potencia de 2000W
+- Termostato regulable de alta precisión
+- Termofusible de seguridad con limitador y piloto luminoso de encendido
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07H81BDGX/?tag=tolees-21)
