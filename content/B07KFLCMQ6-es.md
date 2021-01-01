@@ -25,8 +25,8 @@ Está [Adidas Runfalcon Zapatillas de trail running Hombre  Blanco  Ftwbla/Ftwbl
 
 ℹ️:
 
-- Corte regular
-- malla y parte superior de cuero sintético
 - Cordones de zapatos
+- malla y parte superior de cuero sintético
+- Corte regular
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KFLCMQ6/?tag=tolees-21)

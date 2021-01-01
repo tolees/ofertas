@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi X-SJL4014GL Mi Smart Compact Proy con un 29.95 % de descuento'
-date: 2020-12-31 06:44:00
+date: 2021-01-01 09:40:12
 image: 'https://m.media-amazon.com/images/I/51SJgIDodML._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0823BTNYV/?tag=tolees-21'
 descuento: '29.95'
-average: '456.3575862068966'
+average: '458.50419354838715'
 ---
 
 En este momento está [Xiaomi X-SJL4014GL Mi Smart Compact Proyector](https://www.amazon.es/dp/B0823BTNYV/?tag=tolees-21) a 489.63 EUR (original: 699.0 EUR) (29.95 %  de descuento) en el siguiente enlace!
@@ -25,9 +25,9 @@ En este momento está [Xiaomi X-SJL4014GL Mi Smart Compact Proyector](https://ww
 
 🔎:
 
-- 2 altavoces integrados.
-- Screen Size up to 120"
 - 1080p Full HD
+- Screen Size up to 120"
+- 2 altavoces integrados.
 - Sistema Android TV 9.0.
 
 [Aquí!!!](https://www.amazon.es/dp/B0823BTNYV/?tag=tolees-21)

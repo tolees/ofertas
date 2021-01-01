@@ -26,9 +26,9 @@ Está [Webcam para PC  PAPALOOK PA150S Full HD 1080p/30fps Videollamadas  Cámar
 ℹ️:
 
 - Plug and play, compatibilidad universal: puerto USB y fácil de usar. Disfrute de una experiencia de video en línea fluida con Windows XP, Windows 7, Windows 8, Windows 10, Mac OS 10.6, Android V5.0 y Chrome OS. Cualquier reembolso/reemplazo/problema técnico, no dude en contactarnos.
-- Ángulo de visión de 60 grados: perfecto para hablar con clientes comerciales en una computadora portátil en la oficina y para comunicaciones de video grupales en una computadora de escritorio cuando está en casa. Excelente para consultas en línea, entrevistas en video y grabación de videos, etc.
-- Cámara web de video Full HD 1080P actualizada: la cámara funciona en alta definición completa en Zoom, Skype, FaceTime, Youtube, Twitter, Google Hangouts y más. Fácil de iniciar reuniones en línea, videoconferencias y llamadas de chat con sus colegas. La resolución máxima es de hasta 1920*1080píxeles / 30fps.
 - Micrófono estéreo omnidireccional: el micrófono incorporado se combina con la tecnología de reducción de ruido que reduce el ruido del circuito y el ruido de fondo para controlar el ruido externo. Capture su voz natural desde todos los ángulos, hágase escuchar con mucha claridad.
 - Corrección automática de poca luz Predeterminado: Equipado con balance de blancos automático y función de corrección automática de poca luz. Incluso en entornos oscuros, se puede ajustar a las condiciones de iluminación para producir imágenes brillantes y bien contrastadas que lo hacen más atractivo en los videos.
+- Cámara web de video Full HD 1080P actualizada: la cámara funciona en alta definición completa en Zoom, Skype, FaceTime, Youtube, Twitter, Google Hangouts y más. Fácil de iniciar reuniones en línea, videoconferencias y llamadas de chat con sus colegas. La resolución máxima es de hasta 1920*1080píxeles / 30fps.
+- Ángulo de visión de 60 grados: perfecto para hablar con clientes comerciales en una computadora portátil en la oficina y para comunicaciones de video grupales en una computadora de escritorio cuando está en casa. Excelente para consultas en línea, entrevistas en video y grabación de videos, etc.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01FDCK6FS/?tag=tolees-21)

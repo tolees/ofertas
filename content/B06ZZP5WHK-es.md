@@ -26,9 +26,9 @@ Tienes [Wipeout Omega Collection](https://www.amazon.es/dp/B06ZZP5WHK/?tag=tolee
 ℹ️:
 
 - Reta a tus amigos en carreras en línea de ocho jugadores o en las partidas clásicas de dos jugadores con pantalla dividida
-- Compite en 26 circuitos reversibles, 46 naves únicas y 9 modos de juego con todo el contenido de WipEout HD, WipEout HD Fury y WipEout 2048
 - Tecnología HDR (alto rango dinámico) para colores más vivos y brillantes
-- Elimina los competidores con una variedad de armas mientras cortas el aire al ritmo de algunas de las melodías más memorables de los juegos de carreras
 - Resolución dinámica 4K y 60 FPS
+- Compite en 26 circuitos reversibles, 46 naves únicas y 9 modos de juego con todo el contenido de WipEout HD, WipEout HD Fury y WipEout 2048
+- Elimina los competidores con una variedad de armas mientras cortas el aire al ritmo de algunas de las melodías más memorables de los juegos de carreras
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B06ZZP5WHK/?tag=tolees-21)

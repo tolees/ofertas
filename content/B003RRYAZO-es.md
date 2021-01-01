@@ -25,15 +25,15 @@ En este momento está [NUK almohadillas de lactancia materna | 60 unidades](http
 
 🔎:
 
-- Extrafinos y a la vez extra absorbentes gracias a las exclusivas fibras confort (absorben los líquidos y los convierten en un gel espeso que no se filtra)
-- Muy discretos y confortables
-- Capa exterior transpirable, sensación de sequedad
-- Pack de 60 discos que van en bolsas individuales
 - Punto de fijación nuk que evita el desplazamiento del disco
-- Prácticos: embalaje individual de protección durante los desplazamientos
-- Casi imperceptibles, suaves para la piel
+- Muy discretos y confortables
 - Higiénicos: velo impermeable externo que protegerá tu ropa interior
-- Su concepción multicapa garantiza una excelente absorción
+- Capa exterior transpirable, sensación de sequedad
 - Adhesivo que garantiza una sujeción perfecta
+- Pack de 60 discos que van en bolsas individuales
+- Casi imperceptibles, suaves para la piel
+- Prácticos: embalaje individual de protección durante los desplazamientos
+- Extrafinos y a la vez extra absorbentes gracias a las exclusivas fibras confort (absorben los líquidos y los convierten en un gel espeso que no se filtra)
+- Su concepción multicapa garantiza una excelente absorción
 
 [Aquí!!!](https://www.amazon.es/dp/B003RRYAZO/?tag=tolees-21)

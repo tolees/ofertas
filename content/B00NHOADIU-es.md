@@ -25,10 +25,10 @@ Tienes [Severin RB 7025 Robot aspirador  batería de iones de litio de 12.8 V  C
 
 ℹ️:
 
-- Tres modos de limpieza: zig-zag/espiral/limpieza de rincones, batería de iones de litio 12,8V para una autonomía de hasta 90 minutos, tiempo de carga de 6,5 horas, indicador de carga luminoso y sensor de limpieza LED Sensor Clean
-- Canal de succión sin mantenimiento y cepillos XL redondos para una limpieza óptima de rincones y juntas, solo 7 cm de alto para limpiar debajo de los muebles, protección de goma para muebles, sensores de detección de escalones
-- Contenido: 1 x Severin Robot aspirador, Chill, Incluye: 2 filtros, 4 cepillos redondos, 1 cepillo de limpieza, capacidad: 350 ml, peso: 1,5 kg, color: gris/rojo/negro, RB 7025
 - Incluye: 1 par de cepillos redondos de recambio, 1 filtro de recambio y 1 cepillo de limpieza, depósito higiénico fácil de vaciar, es recomendable limpiar ocasionalmente los filtros y sensores
+- Contenido: 1 x Severin Robot aspirador, Chill, Incluye: 2 filtros, 4 cepillos redondos, 1 cepillo de limpieza, capacidad: 350 ml, peso: 1,5 kg, color: gris/rojo/negro, RB 7025
+- Canal de succión sin mantenimiento y cepillos XL redondos para una limpieza óptima de rincones y juntas, solo 7 cm de alto para limpiar debajo de los muebles, protección de goma para muebles, sensores de detección de escalones
+- Tres modos de limpieza: zig-zag/espiral/limpieza de rincones, batería de iones de litio 12,8V para una autonomía de hasta 90 minutos, tiempo de carga de 6,5 horas, indicador de carga luminoso y sensor de limpieza LED Sensor Clean
 - Robot aspirador silencioso (65 dBA) para habitaciones de hasta 100 m², apto para suelos duros y moquetas de pelo corto (aprox. hasta 3 mm de alto), óptimo para aspirar suciedad
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00NHOADIU/?tag=tolees-21)

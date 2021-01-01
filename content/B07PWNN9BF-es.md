@@ -25,10 +25,10 @@ Tienes [Under Armour Skylar 2  Zapatillas de Running Mujer  Gris  Jet Gray/Black
 
 🔎:
 
-- Suela exterior de goma de doble densidad que proporciona suavidad y durabilidad, y un look dimensional en dos tonos en la parte inferior del pie
-- Plantilla Micro G que proporciona una mayor amortiguación para ofrecer una comodidad inigualable bajo el pie
-- Mediasuela baja y ligera para una comodidad y una estabilidad excepcionales que resulta perfecta para un uso diario
-- Amortiguación adicional alrededor del talón y la zona del tobillo para ofrecer una pisada más cómoda
 - Parte superior de tejido ligero que proporciona transpirabilidad y sujeción
+- Plantilla Micro G que proporciona una mayor amortiguación para ofrecer una comodidad inigualable bajo el pie
+- Amortiguación adicional alrededor del talón y la zona del tobillo para ofrecer una pisada más cómoda
+- Mediasuela baja y ligera para una comodidad y una estabilidad excepcionales que resulta perfecta para un uso diario
+- Suela exterior de goma de doble densidad que proporciona suavidad y durabilidad, y un look dimensional en dos tonos en la parte inferior del pie
 
 [Comprar!!!](https://www.amazon.es/dp/B07PWNN9BF/?tag=tolees-21)
