@@ -25,9 +25,9 @@ Ahora mismo tienes [Tefal E4400485 Sartén Talent Pro E44004  24 Cm  Titanium Ex
 
 🔎:
 
-- Material: Aleación
-- Adecuado para hornos hasta 180 ° C 2
 - Diámetro: 24,0 cm
 - Conveniente para la inducción : Sí
+- Material: Aleación
+- Adecuado para hornos hasta 180 ° C 2
 
 [Visítala!!!](https://www.amazon.es/dp/B005ZAJTZ2/?tag=tolees-21)

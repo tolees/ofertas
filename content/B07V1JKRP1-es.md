@@ -25,10 +25,10 @@ Está [Fantasy Flight Games- SW X-Wing 2.0 - Caza Tie/SF  Color  SWZ44ES ](https
 
 ℹ️:
 
-- Este pack incluye todo lo necesario para añadir 1 caza tie/sf a tus partidas
 - El caza estelar resultante está provisto de una versátil combinación de armas, escudos y sensores apta para cualquier situación
-- Contenido: 13 cartas, 21 fichas, 1 selector de maniobras y 1 miniatura pintada a mano con peana y clavijas
 - El desarrollo del caza tie/sf requirió que sistemas de flota sienar-jaemus ideara nuevos diseños de células de energía capaces de alimentar los avanzados sistemas exigidos por las fuerzas especiales de la primera orden
 - Expande y mejora tus partidas de star wars: x-wing
+- Contenido: 13 cartas, 21 fichas, 1 selector de maniobras y 1 miniatura pintada a mano con peana y clavijas
+- Este pack incluye todo lo necesario para añadir 1 caza tie/sf a tus partidas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07V1JKRP1/?tag=tolees-21)

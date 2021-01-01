@@ -25,8 +25,8 @@ Tienes [Kingdom Hearts Melody of Memory](https://www.amazon.es/dp/B08HZVT5VY/?ta
 
 ℹ️:
 
-- Más de 140 canciones y 20 personajes
 - Sumérgete en la historia de KINGDOM HEARTS
 - Juega en solitario, con amigos en modo cooperativo o contra ellos en combates en línea multijugador
+- Más de 140 canciones y 20 personajes
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08HZVT5VY/?tag=tolees-21)

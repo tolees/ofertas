@@ -25,10 +25,10 @@ Ahora mismo tienes [Talius Caja ATX Gaming Xentinel- USB 3.0 - USB 2.0 - Sin Fue
 
 🔎:
 
-- Lector SD/TF, 2USB 2.0 + 1USB 3.0, Ventilador trasero 12cm de 15 led azul incluido.
-- Compartimento aislado para fuente de alimentación.
-- Admite ventilador CPU de 15cm, y GPU de 28cm.
 - Filtro inferior desmontable, superior fijo. Detalles frontales led azul y logo proyectado.
+- Compartimento aislado para fuente de alimentación.
 - Capacidad para 2x 3.5 HDD, 2x 2.5 SDD,
+- Admite ventilador CPU de 15cm, y GPU de 28cm.
+- Lector SD/TF, 2USB 2.0 + 1USB 3.0, Ventilador trasero 12cm de 15 led azul incluido.
 
 [Visítala!!!](https://www.amazon.es/dp/B071DQV7KM/?tag=tolees-21)
