@@ -25,10 +25,10 @@ Tienes [Consola inalámbrica por USB  4 K  HDMI  miniconsola  videojuegos  8 bit
 
 🔎:
 
-- Simplemente conecte la consola de juegos a la interfaz HD del televisor, conecte el cable de datos alimentado por USB a la unidad del cuerpo y ajuste la fuente del televisor al canal HD para mostrar la pantalla de la lista de juegos en el televisor.
-- Salir del juego: Pulse SECECT + START al mismo tiempo durante dos segundos.
-- Usos: Compatible con la mayoría de los televisores con interfaz HD.
-- Compatible con uno o dos jugadores, le permite jugar a muchos juegos, le hará pasar un rato más agradable con sus hijos o amigos, consola de videojuegos HD portátil, 3500 juegos clásicos incorporados.
 - El mando se puede controlar de forma inalámbrica colocando una pila. Fácil de operar y jugar, simple y elegante.
+- Salir del juego: Pulse SECECT + START al mismo tiempo durante dos segundos.
+- Compatible con uno o dos jugadores, le permite jugar a muchos juegos, le hará pasar un rato más agradable con sus hijos o amigos, consola de videojuegos HD portátil, 3500 juegos clásicos incorporados.
+- Simplemente conecte la consola de juegos a la interfaz HD del televisor, conecte el cable de datos alimentado por USB a la unidad del cuerpo y ajuste la fuente del televisor al canal HD para mostrar la pantalla de la lista de juegos en el televisor.
+- Usos: Compatible con la mayoría de los televisores con interfaz HD.
 
 [Comprar!!!](https://www.amazon.es/dp/B08FYL999F/?tag=tolees-21)

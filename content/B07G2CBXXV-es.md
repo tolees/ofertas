@@ -25,10 +25,10 @@ Ahora mismo tienes [Real Madrid 811854513 2018 Estuches  21 cm  Blanco](https://
 
 🔎:
 
-- Ideal para niños que cursan la etapa escolar tanto guardería como primaria y secundaria
-- Dos compartimentos separados con cremalleras, tiradores en los cursores para facilitar su apertura, asa de mano en la parte lateral, tirador en el cursor para facilitar su apertura
-- Safta Real Madrid 1ª Equip. 18/19 Oficial estuche escolar con doble cremallera
 - Medidas: Ancho 210mm, largo 60mm, alto 80mm, capacidad 1L, peso 0,11kg
+- Ideal para niños que cursan la etapa escolar tanto guardería como primaria y secundaria
+- Safta Real Madrid 1ª Equip. 18/19 Oficial estuche escolar con doble cremallera
 - Confeccionada con un material de poliéster muy resistente y cremalleras suaves, fácil de lavar
+- Dos compartimentos separados con cremalleras, tiradores en los cursores para facilitar su apertura, asa de mano en la parte lateral, tirador en el cursor para facilitar su apertura
 
 [Visítala!!!](https://www.amazon.es/dp/B07G2CBXXV/?tag=tolees-21)
