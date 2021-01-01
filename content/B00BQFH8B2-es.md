@@ -26,7 +26,7 @@ Ahora mismo tienes [TRIXIE flexi NEON GIANT  Correa Extensible  L  8 m  hasta 50
 🔎:
 
 - LO MEJOR PARA EL CUIDADO DE TU MASCOTA: Producto especialmente destinado para cuidar a las mascotas.
-- para mayor libertad de movimiento
 - muy resistente, correa de cinta enrollable con asa suave
+- para mayor libertad de movimiento
 
 [Visítala!!!](https://www.amazon.es/dp/B00BQFH8B2/?tag=tolees-21)

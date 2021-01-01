@@ -25,13 +25,13 @@ Ahora mismo tienes [Suavinex Pack Tetina Biberón Zero-Zero Anticólicos  Flujo 
 
 🔎:
 
-- Esta tetina de silicona se puede usar para el bierón Zero Zero 180ml y 270ml.
-- Esta tetina de flujo lento (S) deja pasar poca cantidad de líquido y es perfecta para los primeros días de vida, para las tomas de leche, glucosa o agua.
-- Tetina de silicona ultra-suave que simula en forma, longitud y tacto el pezón materno; flujo lento s.
 - Pack 2 tetinas de repuesto para el biberón anticólicos Zero Zero de talla S.
 - Imita física y fisiológicamente el pecho de la madre evitando la confusión al bebé.
+- Esta tetina de flujo lento (S) deja pasar poca cantidad de líquido y es perfecta para los primeros días de vida, para las tomas de leche, glucosa o agua.
 - Las tetinas de los chupetes de Suavinex avaladas por la Sociedad Española de Odontopediatría.
-- Biberón recomendado para poder combinar con la lactancia materna.
 - Tetina para el biberón zero-zero con una bolsa anticólico que funciona de la misma manera que lo hacen las glándulas mamarias.
+- Biberón recomendado para poder combinar con la lactancia materna.
+- Tetina de silicona ultra-suave que simula en forma, longitud y tacto el pezón materno; flujo lento s.
+- Esta tetina de silicona se puede usar para el bierón Zero Zero 180ml y 270ml.
 
 [Visítala!!!](https://www.amazon.es/dp/B07KXWQVHM/?tag=tolees-21)

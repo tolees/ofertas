@@ -25,9 +25,9 @@ En este momento está [POP TV: Game of Thrones - 6" The Mountain  Unmasked ](htt
 
 🔎:
 
-- Check out the other game of thrones figures from funko collect them all
 - From game of thrones, the mountain (unmasked), as a stylized 6" pop vinyl from funko
-- Funko pop is the 2018 toy of the year and peoples choice award winner
+- Check out the other game of thrones figures from funko collect them all
 - Figure stands 15cm and comes in a window display box
+- Funko pop is the 2018 toy of the year and peoples choice award winner
 
 [Aquí!!!](https://www.amazon.es/dp/B07S6C6YB3/?tag=tolees-21)

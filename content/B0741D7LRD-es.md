@@ -25,10 +25,10 @@ Ahora mismo tienes [Princess 182050 Family Aerofryer XXL  Freidora de aire calie
 
 🔎:
 
-- Gracias al gran volumen (5,2 litros) y a la potencia de 1700 W, se pueden freír suficientes patatas fritas para toda la familia a la vez.
-- La tecnología de convección por aire de alta velocidad permite preparar los ingredientes utilizando solo aire caliente.
-- Prepare a la parrilla, ase y hornee sus platos favoritos con menos calorías pero conservando el mismo sabor y textura que con una freidora convencional.
-- Fácil de usar, control de temperatura ajustable, temporizador integrado y panel de pantalla táctil digital.
 - Sus piezas son extraíbles y aptas para el lavavajillas para una fácil limpieza.
+- Fácil de usar, control de temperatura ajustable, temporizador integrado y panel de pantalla táctil digital.
+- Gracias al gran volumen (5,2 litros) y a la potencia de 1700 W, se pueden freír suficientes patatas fritas para toda la familia a la vez.
+- Prepare a la parrilla, ase y hornee sus platos favoritos con menos calorías pero conservando el mismo sabor y textura que con una freidora convencional.
+- La tecnología de convección por aire de alta velocidad permite preparar los ingredientes utilizando solo aire caliente.
 
 [Visítala!!!](https://www.amazon.es/dp/B0741D7LRD/?tag=tolees-21)

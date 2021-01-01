@@ -26,7 +26,7 @@ Ahora mismo tienes [adidas Solid Clx SH SL Swimsuit  Hombre  Black  4](https://w
 🔎:
 
 - Elastic Waistband with lanyard
-- Swimsuit
 - Chlorine-resistant fabric
+- Swimsuit
 
 [Visítala!!!](https://www.amazon.es/dp/B07VHVYFLC/?tag=tolees-21)

@@ -25,8 +25,8 @@ En este momento está [Newskill Kitsune - Silla gaming profesional  Inclinación
 
 🔎:
 
+- Reposabrazos ergonómico y funcional en dos posiciones (altura y ángulo)
 - Base de nylon reforzado con reposapiés en color
 - Respaldo ajustable en 180º
-- Reposabrazos ergonómico y funcional en dos posiciones (altura y ángulo)
 
 [Aquí!!!](https://www.amazon.es/dp/B073TYR8QQ/?tag=tolees-21)

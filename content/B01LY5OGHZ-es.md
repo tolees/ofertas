@@ -25,10 +25,10 @@ Tienes [Tristar KA-5287 Calefactor de Exterior eléctrico con 3 ajustes de calor
 
 ℹ️:
 
-- Tres ajustes de calor de 650, 1300 y 2000 W, adecuadoes para la terraza y las fiestas al aire libre
-- Se puede utilizar sobre su soporte o montado en la pared
-- Protegido contra salpicaduras y, por lo tanto, apto para el uso exterior
 - Uso seguro gracias a la protección antivuelco
 - Tamaño máximo de 50 x 50 x 200 mm
+- Se puede utilizar sobre su soporte o montado en la pared
+- Protegido contra salpicaduras y, por lo tanto, apto para el uso exterior
+- Tres ajustes de calor de 650, 1300 y 2000 W, adecuadoes para la terraza y las fiestas al aire libre
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01LY5OGHZ/?tag=tolees-21)
