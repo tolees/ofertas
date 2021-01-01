@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 711 Skinny Jeans  Believe It Or N al 40.03 % de descuento'
-date: 2020-12-31 05:54:55
+date: 2021-01-01 19:10:36
 image: 'https://m.media-amazon.com/images/I/41M-x8CNyqL._SL200_.jpg'
 comments: true
 category: ofertas

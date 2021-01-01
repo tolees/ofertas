@@ -26,9 +26,9 @@ En este momento está [luosh Accesorios para máquina de café  Filtro  Juego de
 🔎:
 
 - Hecho de acero inoxidable 304 de alta calidad, seguro y diseñado para un uso prolongado.
-- Robusto y de gran robustez.
 - Adecuado para: Breville, Delongh i, Krups
 - Tamaño compacto y conveniente
 - SERVICIO AL CLIENTE 100% -Proporcione un servicio al cliente amigable, si el producto tiene algún problema de calidad, le garantizamos un reembolso incondicional o reemplazo gratuito.
+- Robusto y de gran robustez.
 
 [Aquí!!!](https://www.amazon.es/dp/B08MWHTSGF/?tag=tolees-21)

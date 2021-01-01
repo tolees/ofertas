@@ -25,10 +25,10 @@ Está [Hugo BOSS Reloj para hombre 1513476](https://www.amazon.es/dp/B01NBVQDUF/
 
 ℹ️:
 
-- Stainless steel case
-- Grey dial. Date Mechanism: Multi-eye
-- Smooth perf brown leather strap
-- Water resistant to 3 ATM or 30 meters. Featuring three totalisers, a grey sunray brushed dial and a three hand movement
 - Quartz chronograph(Minute/Second/24-hour counters) movement
+- Smooth perf brown leather strap
+- Stainless steel case
+- Water resistant to 3 ATM or 30 meters. Featuring three totalisers, a grey sunray brushed dial and a three hand movement
+- Grey dial. Date Mechanism: Multi-eye
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01NBVQDUF/?tag=tolees-21)

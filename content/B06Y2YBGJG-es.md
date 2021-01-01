@@ -25,8 +25,8 @@ Ahora mismo tienes [New Balance 574 Core Zapatillas Hombre  Rojo  Burgundy   37.
 
 🔎:
 
-- TPU heel clip
 - Removable insert
+- TPU heel clip
 - ENCAP heel
 - EVA midsole and heel
 

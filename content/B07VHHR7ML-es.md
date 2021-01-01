@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazfit GTR 47mm Reloj inteligente Smart al 23.15 % de descuento'
-date: 2020-12-25 08:10:24
+date: 2021-01-01 19:26:55
 image: 'https://m.media-amazon.com/images/I/51p3ZXX6tUL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07VHHR7ML/?tag=tolees-21'
 descuento: '23.15'
-average: '99.93'
+average: '99.92250000000001'
 ---
 
 Ahora mismo tienes [Amazfit GTR 47mm Reloj inteligente Smartwatch Deportivo AMOLED de 1.39"  GPS + GLONASS  Frecuencia cardíaca Continua de 24 Horas  Larga duración de batería  12 Deportes Diferentes  Marrón - Aluminio](https://www.amazon.es/dp/B07VHHR7ML/?tag=tolees-21) a 99.9 EUR (original: 129.99 EUR) (23.15 %  de descuento) en el siguiente enlace!

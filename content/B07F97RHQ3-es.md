@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIKE NK J Guard-CE Espinilleras  Unisex  con un 40.50 % de descuento'
-date: 2020-12-31 12:01:54
+date: 2021-01-01 19:20:39
 image: 'https://m.media-amazon.com/images/I/51j09x0dKUL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07F97RHQ3/?tag=tolees-21'
 descuento: '40.50'
-average: '7.3'
+average: '6.760000000000001'
 ---
 
 En este momento está [NIKE NK J Guard-CE Espinilleras  Unisex Adulto  Black/White  XS](https://www.amazon.es/dp/B07F97RHQ3/?tag=tolees-21) a 5.95 EUR (original: 10.0 EUR) (40.50 %  de descuento) en el siguiente enlace!
@@ -26,8 +26,8 @@ En este momento está [NIKE NK J Guard-CE Espinilleras  Unisex Adulto  Black/Whi
 🔎:
 
 - Impact absorbtion
+- Tipo de deporte: Ropa deportiva atlética
 - Strategic cushioning
 - Flexible coating
-- Tipo de deporte: Ropa deportiva atlética
 
 [Aquí!!!](https://www.amazon.es/dp/B07F97RHQ3/?tag=tolees-21)

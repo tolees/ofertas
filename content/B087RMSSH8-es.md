@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI Pro 24X 10M-042EU - Ordenador de sob con un 16.67 % de descuento'
-date: 2020-12-23 23:00:58
+date: 2021-01-01 19:31:07
 image: 'https://m.media-amazon.com/images/I/41OPnVIT6IL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ En este momento está [MSI Pro 24X 10M-042EU - Ordenador de sobremesa de 23.8" F
 
 🔎:
 
+- Memoria RAM de 8 GB SO-DIMM DDR4
 - Procesador Intel Core i5-10210U (4 núcleos, 6 MB Cache, 1.6 GHz hasta 4.2 GHz)
 - Sistema operativo Windows 10 Mobile
-- Disco SSD de 512 GB
-- Memoria RAM de 8 GB SO-DIMM DDR4
 - Tarjeta gráfica IntelHD Graphics
+- Disco SSD de 512 GB
 
 [Aquí!!!](https://www.amazon.es/dp/B087RMSSH8/?tag=tolees-21)
