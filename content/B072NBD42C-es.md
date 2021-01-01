@@ -25,9 +25,9 @@ Ahora mismo tienes [NGS GMX-100 - Ratón con Cable de Gaming  2400 dpi  Conector
 
 🔎:
 
-- Ratón de cable con sensor óptico ajustable a 1000/1200/1800/2400 DPI y seis botones para juegos de ordenador.
-- Incorpora una base de Teflón para asegurar un deslizamiento perfecto en cualquier superficie así como un cable de 1.4 metros con conector USB para un rendimiento máximo y mayor movilidad.
 - Dispone de una espectacular iluminación gracias al LED de siete colores con efecto respiración que le proporciona un aspecto gaming total.
 - Con este ratón podrás alcanzar una gran precisión y control gracias a sus seis botones con capacidad de hasta veinte millones de pulsaciones y a su rueda de scroll de alta velocidad.
+- Ratón de cable con sensor óptico ajustable a 1000/1200/1800/2400 DPI y seis botones para juegos de ordenador.
+- Incorpora una base de Teflón para asegurar un deslizamiento perfecto en cualquier superficie así como un cable de 1.4 metros con conector USB para un rendimiento máximo y mayor movilidad.
 
 [Visítala!!!](https://www.amazon.es/dp/B072NBD42C/?tag=tolees-21)

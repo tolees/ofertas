@@ -25,10 +25,10 @@ Tienes [MOJIPOPS - I like Party con 2 exclusivas figuras MojiPops y variedad de 
 
 🔎:
 
-- Juguete para a partir de los 3 años de edad
+- Gira sus caritas o intercámbialas con otros MojiPops para inventarte tus historias
 - Ideal para desarrollar la imaginación y habilidad emocional de los niños
 - Los MojiPops son muy especiales: ¡Pueden cambiar sus emociones!
+- Juguete para a partir de los 3 años de edad
 - ¿Preparado para pasártelo genial en la fiesta que han montado? Hay un tobogán, pastel… ¡Y música para bailar!
-- Gira sus caritas o intercámbialas con otros MojiPops para inventarte tus historias
 
 [Comprar!!!](https://www.amazon.es/dp/B07NSM1M4Z/?tag=tolees-21)

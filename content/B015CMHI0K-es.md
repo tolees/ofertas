@@ -25,10 +25,10 @@ Tienes [Rimmel London Match Perfection Foundation Base de Maquillaje Tono 103 Tr
 
 ℹ️:
 
-- Hidrata y oculta las imperfecciones, poros y ojeras
-- Acabado sin brillos y natural, cobertura media
 - Aplica la base de maquillaje con los dedos o una brocha des del centro hasta el exterior para mezclarla con el tono de tu piel
-- Indicado para piel seca o mixta
+- Hidrata y oculta las imperfecciones, poros y ojeras
 - Complejo hidratante con SPF 20
+- Acabado sin brillos y natural, cobertura media
+- Indicado para piel seca o mixta
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B015CMHI0K/?tag=tolees-21)

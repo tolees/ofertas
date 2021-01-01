@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Intel NUC BOXNUC6CAYH - Kit ordenador Mi con un 20.33 % de descuento'
-date: 2020-12-31 16:45:09
+date: 2021-01-01 22:30:52
 image: 'https://m.media-amazon.com/images/I/41dZHytPdjL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MSZTD8N/?tag=tolees-21'
 descuento: '20.33'
-average: '131.82397260273981'
+average: '131.65743243243253'
 ---
 
 En este momento está [Intel NUC BOXNUC6CAYH - Kit ordenador Mini PC  Intel Celeron J3455  espacio para 8 GB DDR3L RAM  espacio para disco M.2 + 2.5" SSD/HDD  Intel HD Graphics 500 ](https://www.amazon.es/dp/B01MSZTD8N/?tag=tolees-21) a 119.5 EUR (original: 149.99 EUR) (20.33 %  de descuento) en el siguiente enlace!
@@ -25,9 +25,9 @@ En este momento está [Intel NUC BOXNUC6CAYH - Kit ordenador Mini PC  Intel Cele
 
 🔎:
 
-- Procesador Intel Celeron J3455 (Hasta 2.3 GHz, 2 MB cache)
-- Conexión de disco duro M.2 (PCIe x1) y slot 2.5" adicional para HDD/SSD
-- 1 slot para memoria RAM DDR3L-1600/1866 hasta 8 GB SO-DIMM
 - WiFi AC + Bluetooth 4.2, ranura para tarjeta microSD
+- Procesador Intel Celeron J3455 (Hasta 2.3 GHz, 2 MB cache)
+- 1 slot para memoria RAM DDR3L-1600/1866 hasta 8 GB SO-DIMM
+- Conexión de disco duro M.2 (PCIe x1) y slot 2.5" adicional para HDD/SSD
 
 [Aquí!!!](https://www.amazon.es/dp/B01MSZTD8N/?tag=tolees-21)

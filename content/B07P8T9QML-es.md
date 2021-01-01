@@ -25,10 +25,10 @@ Tienes [MOJIPOPS - I Like CupCake con 2 exclusivas figuras MojiPops y variedad d
 
 🔎:
 
-- Los MojiPops son muy especiales: ¡Pueden cambiar sus emociones!
-- Gira sus caritas o intercámbialas con otros MojiPops para inventarte tus historias
-- Personaliza tus cupcakes en la cocinita MojiPops para que se los coman sentados mientras hablan con sus expresiones
-- Contiene 2 MojiPops exclusivos y variedad de accesorios para personalizar tus cupcakes
 - Ideal para desarrollar la imaginación y habilidad emocional de los niños
+- Personaliza tus cupcakes en la cocinita MojiPops para que se los coman sentados mientras hablan con sus expresiones
+- Gira sus caritas o intercámbialas con otros MojiPops para inventarte tus historias
+- Contiene 2 MojiPops exclusivos y variedad de accesorios para personalizar tus cupcakes
+- Los MojiPops son muy especiales: ¡Pueden cambiar sus emociones!
 
 [Comprar!!!](https://www.amazon.es/dp/B07P8T9QML/?tag=tolees-21)

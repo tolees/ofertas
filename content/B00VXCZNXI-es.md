@@ -25,13 +25,13 @@ Tienes [G-STAR RAW ARC 3D Slim Jeans Vaqueros  Dk Aged 4639-89  26W / 30L para H
 
 ℹ️:
 
+- Arco 3d Slim
+- Slim
+- Baja
 - Tipo de corte: Slim
 - 100% Algodón
+- Cierre: Botones
 - Vintage
 - Lavado a máquina, 40 grados.
-- Cierre: Botones
-- Baja
-- Slim
-- Arco 3d Slim
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00VXCZNXI/?tag=tolees-21)
