@@ -26,9 +26,9 @@ En este momento está [IDEAPARK Coche Teledirigido  4WD Coche de Control Remoto 
 🔎:
 
 - 【Tiempo de reproducción prolongado】 Equipado con una potente batería de coche de salida recargable de 4,8 V 700 mAh, este coche de control remoto crea mucha diversión para usted.
-- 【Juguete totalmente funcional】 Transmisor de 2,4 GHz y distancia de control lejana de hasta 60 m, permiten que varios jugadores compitan con el coche RC al mismo tiempo.
-- 【Coche RC giratorio de 360 grados】 Los lados dobles se ejecutan, el coche de acrobacias puede moverse en todas las direcciones y hacer giros extremos de 360 grados y voltear en ambos lados.
 - 【Tracción en las 4 ruedas】 Este automóvil de control remoto está equipado con 2 motores potentes, puede romper la tierra, la playa y la hierba fácilmente.
+- 【Juguete totalmente funcional】 Transmisor de 2,4 GHz y distancia de control lejana de hasta 60 m, permiten que varios jugadores compitan con el coche RC al mismo tiempo.
 - 【Seguridad y calidad】 Este coche de acrobacias a control remoto está hecho de plástico ABS y material de PVC no tóxico y a prueba de explosiones, que tiene funciones anticaídas e impermeables, y es adecuado para que jueguen los niños.
+- 【Coche RC giratorio de 360 grados】 Los lados dobles se ejecutan, el coche de acrobacias puede moverse en todas las direcciones y hacer giros extremos de 360 grados y voltear en ambos lados.
 
 [Aquí!!!](https://www.amazon.es/dp/B088YWMZVQ/?tag=tolees-21)

@@ -25,10 +25,10 @@ En este momento está [Logitech G300s Ratón Gaming con Cable  Ambidiestro  RGB 
 
 🔎:
 
-- Forma Ambidiestra y Contorneada : la forma contorneada simétrica resulta cómoda para ambas manos y también es perfecto para quienes quieren un ratón ergonómico y no demasiado optima
-- Sensor Óptico Avanzado para Gaming : un sensor óptico para juegos sigue los movimientos lentos o rápidos en diversas superficies y ofrece una respuesta coherente a las acciones de la mano
-- Perfiles de Memoria Integrada : la memoria integrada permite almacenar hasta tres perfiles en el ratón USB Logitech y pase de un ordenador a otro sin tener que volver a configurarlo todo cada vez
 - 9 Controles Programables : los nueve controles programables permiten asignar comandos del teclado a botones más accesibles en este ratón para gaming
+- Perfiles de Memoria Integrada : la memoria integrada permite almacenar hasta tres perfiles en el ratón USB Logitech y pase de un ordenador a otro sin tener que volver a configurarlo todo cada vez
+- Sensor Óptico Avanzado para Gaming : un sensor óptico para juegos sigue los movimientos lentos o rápidos en diversas superficies y ofrece una respuesta coherente a las acciones de la mano
+- Forma Ambidiestra y Contorneada : la forma contorneada simétrica resulta cómoda para ambas manos y también es perfecto para quienes quieren un ratón ergonómico y no demasiado optima
 - Botones Programables : no hace falta ser un genio para programar este ratón para gaming con el software de configuración fácil de usar, puede arrastrar y colocar comandos según le convenga
 
 [Aquí!!!](https://www.amazon.es/dp/B00PVWZH78/?tag=tolees-21)

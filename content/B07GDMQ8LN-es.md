@@ -25,10 +25,10 @@ En este momento está [Rimmel London Scandaleyes Wow Wings Máscara de Pestañas
 
 🔎:
 
-- Define y alarga con el lado curvo
 - Volumen al instante con el lado en forma de ala
-- Fórmula ultra ligera para construir volumen capa tras capa
-- Libera tu wow
 - Eleva tus pestañas de lado a lado
+- Fórmula ultra ligera para construir volumen capa tras capa
+- Define y alarga con el lado curvo
+- Libera tu wow
 
 [Aquí!!!](https://www.amazon.es/dp/B07GDMQ8LN/?tag=tolees-21)

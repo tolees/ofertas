@@ -25,10 +25,10 @@ En este momento está [Hokky Caja de Primeros Auxilios Plástico  Botiquín de M
 
 🔎:
 
-- Duradero y multifuncional, hecho de plástico resistente
-- Tener una bandeja extraíble con muchas particiones, adecuada para almacenar diferentes cosas pequeñas
-- Se puede usar para almacenar medicamentos normales en automóviles, escuelas, oficinas, hogares y más
-- Los clips laterales sujetan firmemente la tapa junto con la caja para un mejor almacenamiento
 - Solo vende la caja vacía sin medicina
+- Los clips laterales sujetan firmemente la tapa junto con la caja para un mejor almacenamiento
+- Tener una bandeja extraíble con muchas particiones, adecuada para almacenar diferentes cosas pequeñas
+- Duradero y multifuncional, hecho de plástico resistente
+- Se puede usar para almacenar medicamentos normales en automóviles, escuelas, oficinas, hogares y más
 
 [Aquí!!!](https://www.amazon.es/dp/B0833NNYCR/?tag=tolees-21)

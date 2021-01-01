@@ -26,7 +26,7 @@ Está [The Big Bang Theory - Figura Pixel  SD Toys SDTWRN89372 ](https://www.ama
 ℹ️:
 
 - Figura Pixel plastico
-- Para los fans de The Big Bang Theory
 - Producto oficial The Big Bang Theory
+- Para los fans de The Big Bang Theory
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01AIII1TA/?tag=tolees-21)

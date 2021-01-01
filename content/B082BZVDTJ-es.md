@@ -25,8 +25,8 @@ Ahora mismo tienes [NIKE M J Remastered Hbr Crew Short Sleeve T-Shirt  Hombre  M
 
 🔎:
 
-- Training
-- Sportware
 - Nike
+- Sportware
+- Training
 
 [Visítala!!!](https://www.amazon.es/dp/B082BZVDTJ/?tag=tolees-21)

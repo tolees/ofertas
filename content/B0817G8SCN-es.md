@@ -25,9 +25,9 @@ En este momento está [PLAYMOBIL-Scooby-Doo  figuras Misterio  Serie 1   70288  
 
 🔎:
 
-- Desarrolla la imaginación y la creatividad
-- Recomendado a partir de 4 años
 - Material de las figuras: plástico
+- Recomendado a partir de 4 años
+- Desarrolla la imaginación y la creatividad
 - Incluye 12 figuras
 
 [Aquí!!!](https://www.amazon.es/dp/B0817G8SCN/?tag=tolees-21)

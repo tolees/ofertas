@@ -25,8 +25,8 @@ Está [adidas CONDIVO20 JSY T-Shirt  Hombre  White/Black  M](https://www.amazon.
 
 ℹ️:
 
-- Breathable fabric
-- Adidas logo
 - Regular fit
+- Adidas logo
+- Breathable fabric
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07VKYX81P/?tag=tolees-21)
