@@ -25,8 +25,8 @@ Está [Converse Chuck Taylor All Star Ox   Zapatillas Unisex Adulto  Black White
 
 ℹ️:
 
-- Parte superior de lona
 - Suela exterior de caucho vulcanizado
 - La tapa de goma del dedo del pie
+- Parte superior de lona
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07DGN1KGS/?tag=tolees-21)

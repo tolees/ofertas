@@ -25,10 +25,10 @@ Tienes [Bizak- Cubo Perplexus 2x2 Juguete  61924624 ](https://www.amazon.es/dp/B
 
 🔎:
 
-- Gira como el cubo de Rubik para interconectar el recorrido, las diferentes secciones
-- Lleva la bola a través de obstáculos difíciles sin que la bola salga de la pista
-- Trabaja con la gravedad, los cambios de dirección para completar el recorrido
-- Resultado de una emocionante colaboración de Perplexus con el Cubo de Rubik, que celebra su 40 aniversario
 - Si la bolas sale de la pista, debes volves a la casilla de inicio e intentarlo de nuevo
+- Resultado de una emocionante colaboración de Perplexus con el Cubo de Rubik, que celebra su 40 aniversario
+- Gira como el cubo de Rubik para interconectar el recorrido, las diferentes secciones
+- Trabaja con la gravedad, los cambios de dirección para completar el recorrido
+- Lleva la bola a través de obstáculos difíciles sin que la bola salga de la pista
 
 [Comprar!!!](https://www.amazon.es/dp/B08BLMHL64/?tag=tolees-21)

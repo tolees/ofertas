@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney Princess Comfy Squad Ariel  Hasbr al 16.68 % de descuento'
-date: 2020-12-30 13:43:34
+date: 2021-01-01 04:21:14
 image: 'https://m.media-amazon.com/images/I/41QeSG9ysaL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07X2WHYCP/?tag=tolees-21'
 descuento: '16.68'
-average: '14.979999999999999'
+average: '13.316666666666666'
 ---
 
 Ahora mismo tienes [Disney Princess Comfy Squad Ariel  Hasbro E9160ES0 ](https://www.amazon.es/dp/B07X2WHYCP/?tag=tolees-21) a 9.99 EUR (original: 11.99 EUR) (16.68 %  de descuento) en el siguiente enlace!

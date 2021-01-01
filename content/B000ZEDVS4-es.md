@@ -25,10 +25,10 @@ Tienes [KNIPEX 95 36 280 Cortacables tipo carraca aislados con fundas en dos com
 
 🔎:
 
-- Para cables de cobre y aluminio, simples y múltiples
-- Fácil y cómodo manejo con una sola mano, gracias a su efecto carraca
-- ¡¡NO ADECUADO PARA ALAMBRE DE ACERO O CABLES TRENZADOS!!
 - Corte limpio sin deformaciones ni aplastamientos
+- Fácil y cómodo manejo con una sola mano, gracias a su efecto carraca
 - Cuchillas de corte templadas y afiladas con gran precisión
+- ¡¡NO ADECUADO PARA ALAMBRE DE ACERO O CABLES TRENZADOS!!
+- Para cables de cobre y aluminio, simples y múltiples
 
 [Comprar!!!](https://www.amazon.es/dp/B000ZEDVS4/?tag=tolees-21)

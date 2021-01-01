@@ -25,7 +25,7 @@ En este momento está [Skechers Flex Advantage Sr Fourche  Zapatos de Vestir par
 
 🔎:
 
-- EN ISO 20347:2012; OB FO SRC
 - Cuello acolchado con cordones con suela Sr
+- EN ISO 20347:2012; OB FO SRC
 
 [Aquí!!!](https://www.amazon.es/dp/B07WLN3HVN/?tag=tolees-21)
