@@ -26,7 +26,7 @@ Tienes [Lacoste L1312 Polo  Verde  Vert   6XL  Talla del fabricante: 11  para Ho
 🔎:
 
 - Cuello y puños acanalados
-- Camiseta para hombres, marca Lacoste
 - Cocodrilo verde bordado en el pecho
+- Camiseta para hombres, marca Lacoste
 
 [Comprar!!!](https://www.amazon.es/dp/B071RZY4QS/?tag=tolees-21)

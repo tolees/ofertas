@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DIGIFLEX Carcasa para Disco Duro IDE 2 5 al 33.37 % de descuento'
-date: 2020-12-27 11:45:26
+date: 2021-01-01 14:00:46
 image: 'https://m.media-amazon.com/images/I/41T951quZAL._SL200_.jpg'
 comments: true
 category: ofertas

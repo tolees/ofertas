@@ -25,10 +25,10 @@ Tienes [KESOTO 8 Piezas Props De Hélices De 60 Mm para Pequeño RC Racing Drone
 
 🔎:
 
+- Repuestos para Quadcopter UAV pequeño RC Racing Drone
+- Lanzamiento rápido, fácil de instalar
 - Material: Plástico
 - Ala fija, ligero para vuelo ligero
-- Repuestos para Quadcopter UAV pequeño RC Racing Drone
 - 8pcs 60mm Propulsores cuchilla para pequeño RC Racing Drone UAV Quadcopter
-- Lanzamiento rápido, fácil de instalar
 
 [Comprar!!!](https://www.amazon.es/dp/B07FDH6XD9/?tag=tolees-21)

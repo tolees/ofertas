@@ -25,10 +25,10 @@ Ahora mismo tienes [Bosch Home and Garden 2 607 019 327 Bosch X-Line Titanio - J
 
 🔎:
 
-- Once brocas para metal de diámetro de 1,5-6,5 mm con recubrimiento de nitruro de titanio, que se caracterizan por un avance de perforación rápido y una durabilidad especialmente larga (no utilizar para aluminio)
+- Aviso de seguridad: utilizar la protección necesaria según la aplicación: perforar metal: gafas protectoras; perforar madera: gafas protectoras y máscara contra el polvo; perforar piedra: gafas protectoras, máscara contra el polvo, orejeras y guantes
 - Apropiado para todas las marcas de herramientas eléctricas
 - Nota: trabajar solo con líquido de refrigeración; por ejemplo, aceite para corte universal Bosch 2 607 001 409
-- Aviso de seguridad: utilizar la protección necesaria según la aplicación: perforar metal: gafas protectoras; perforar madera: gafas protectoras y máscara contra el polvo; perforar piedra: gafas protectoras, máscara contra el polvo, orejeras y guantes
+- Once brocas para metal de diámetro de 1,5-6,5 mm con recubrimiento de nitruro de titanio, que se caracterizan por un avance de perforación rápido y una durabilidad especialmente larga (no utilizar para aluminio)
 - Seis brocas para piedra y metales duros de diámetro de 4-10 mm, que convencen por su larga vida útil, su rápido arranque de material, su escasa generación de calor y su precisión
 - Cinco brocas para madera de diámetro de 4-10 mm, con punta centradora para unas perforaciones precisas y sin roturas, y Dos brocas fresadoras planas de diámetro de 16/22 mm con recubrimiento de nitruro de titanio
 

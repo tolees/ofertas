@@ -25,8 +25,8 @@ Está [Famosa Nenuco Muñeco Smell of Happiness  Multicolor  714772 ](https://ww
 
 ℹ️:
 
+- En color Azul
 - Muñeco 17 cm
 - Nenuco Blandito
-- En color Azul
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07NC6WQCJ/?tag=tolees-21)

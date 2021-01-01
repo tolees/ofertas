@@ -26,7 +26,7 @@ En este momento está [PUMA Ferrari Race Future Kart Cat  Zapatillas Unisex Adul
 🔎:
 
 - Suela de goma que proporciona un agarre ideal.
-- Parte superior sintética con detalles cosidos.
 - Dos siluetas icónicas de automovilismo.
+- Parte superior sintética con detalles cosidos.
 
 [Aquí!!!](https://www.amazon.es/dp/B081NXY78G/?tag=tolees-21)

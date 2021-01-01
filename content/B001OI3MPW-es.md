@@ -25,11 +25,11 @@ En este momento está [Havaianas Brasil Logo Chanclas Unisex Adulto  Azul  Navy 
 
 🔎:
 
-- Cierre: Sin cordones
-- Material de la suela: Goma
 - Composición: Goma
-- Material exterior: Caucho
 - Revestimiento: Caucho
 - Tipo de tacón: Plano
+- Material exterior: Caucho
+- Material de la suela: Goma
+- Cierre: Sin cordones
 
 [Aquí!!!](https://www.amazon.es/dp/B001OI3MPW/?tag=tolees-21)
