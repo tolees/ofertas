@@ -26,7 +26,7 @@ Tienes [CAMISETA SEÑORA TERMAL YSABEL MORA  M ](https://www.amazon.es/dp/B06XXZ
 🔎:
 
 - AFELPADO INTERIOR
-- CUELLO REDONDO
 - TERMICA
+- CUELLO REDONDO
 
 [Comprar!!!](https://www.amazon.es/dp/B06XXZP729/?tag=tolees-21)

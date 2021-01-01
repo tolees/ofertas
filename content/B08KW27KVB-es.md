@@ -25,10 +25,10 @@ Ahora mismo tienes [PLAYMOBIL - Juguete Stuntshow Monster Truck Shark  70550 ](h
 
 🔎:
 
-- Medidas: 32x 16.5 x 18 cm
-- El portón de la parte trasera se puede plegar
-- Con cuatro neumáticos con resorte para una adaptación óptima al suelo
 - Incluye un trozo de un coche y un conductor
+- Con cuatro neumáticos con resorte para una adaptación óptima al suelo
+- El portón de la parte trasera se puede plegar
+- Medidas: 32x 16.5 x 18 cm
 - Puede manejar las acrobacias y los obstáculos más difíciles
 
 [Visítala!!!](https://www.amazon.es/dp/B08KW27KVB/?tag=tolees-21)
