@@ -25,7 +25,7 @@ Ahora mismo tienes [Levi s Levis 168sf Mid Cut 3p Calcetines  Azul  Navy 321   4
 
 🔎:
 
-- Tejido de algodón suave.
 - Talón y puntera reforzados para mayor durabilidad.
+- Tejido de algodón suave.
 
 [Visítala!!!](https://www.amazon.es/dp/B07VTG86Y2/?tag=tolees-21)
