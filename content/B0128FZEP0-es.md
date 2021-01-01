@@ -26,9 +26,9 @@ Tienes [Flower 80070 80070-Coco  9 l  No Aplica  10.5x21x5.5 cm](https://www.ama
 ℹ️:
 
 - 100% natural
-- Facilita la aireación y esponjosidad
-- Biodegradable
 - 9 litros
 - Ideal para enraizar y germinar
+- Facilita la aireación y esponjosidad
+- Biodegradable
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0128FZEP0/?tag=tolees-21)

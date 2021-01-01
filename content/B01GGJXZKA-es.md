@@ -25,8 +25,8 @@ Está [Underground Toys - Star Wars: Tabla Para Picar BB-8](https://www.amazon.e
 
 ℹ️:
 
+- Homewares
 - Star Wars
 - Cutting Boards
-- Homewares
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01GGJXZKA/?tag=tolees-21)

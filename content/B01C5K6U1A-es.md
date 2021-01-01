@@ -27,8 +27,8 @@ Está [Avengers Camera Watch DMW100AV Reloj-cámara  Multicolor  Lexibook](https
 
 - Mi primer reloj camera 100% diversión con diseño de Los Vengadores
 - Despertador, cronómetro y cuenta atrás
-- Graba tu voz
-- Graba también tus propios videos
 - Cámara de 0,3MP
+- Graba también tus propios videos
+- Graba tu voz
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01C5K6U1A/?tag=tolees-21)
