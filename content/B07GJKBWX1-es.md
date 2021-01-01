@@ -25,12 +25,12 @@ Está [SHARP YC-MS01ES microondas 20L con Función de descongelado  Control mec�
 
 ℹ️:
 
-- Cavidad: color gris/negro; 306 mm x 304 mm x 205 mm
-- Función de temporizador
-- 5 niveles de potencia de microondas
-- Función de descongelado
-- Iluminación de la cavidad
 - Microondas 20L con Función de descongelado, Control mecánico, y 800W de potencia
+- 5 niveles de potencia de microondas
+- Cavidad: color gris/negro; 306 mm x 304 mm x 205 mm
+- Iluminación de la cavidad
+- Función de descongelado
 - Diseño plano de fácil limpieza
+- Función de temporizador
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07GJKBWX1/?tag=tolees-21)

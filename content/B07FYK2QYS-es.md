@@ -27,8 +27,8 @@ Ahora mismo tienes [tado° Cabezal Termostático Inteligente - Pack Quattro  Acc
 
 - Kit de Inicio (V2, V3, V3+) de tado° con Bridge de Internet conforman tu configuración base
 - La caja contiene: 4x Cabezal Termostático Inteligente, adaptadores varios, 4x 2 pilas AA
+- Actualiza a control de habitaciones múltiples y maximiza tu confort y ahorro energético; administra todas las zonas y ajustes desde la app de tado°
 - Es compatible con todos los radiadores con válvulas termostáticas; simplemente reemplaza el cabezal tradicional - no necesita herramientas
 - Adicional a los Kits de Inicio de tado°: agrega Cabezales Termostáticos Inteligentes a tu casa para controlar radiadores y habitaciones
-- Actualiza a control de habitaciones múltiples y maximiza tu confort y ahorro energético; administra todas las zonas y ajustes desde la app de tado°
 
 [Visítala!!!](https://www.amazon.es/dp/B07FYK2QYS/?tag=tolees-21)

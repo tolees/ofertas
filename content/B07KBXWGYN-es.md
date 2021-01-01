@@ -25,10 +25,10 @@ Ahora mismo tienes [La Mujer Casual Harem Pantalones De Pierna Ancha  con Cadena
 
 🔎:
 
-- ♥♥ Tamaño: S (EU 36) ** M (EU 38) ** L (EU 40) ** XL (EU 42)
 - ♥ Ocasiones: Adecuado para el trabajo, citas, escuela, vacaciones, fiesta, ciclismo, tiempo libre, ropa de calle, ropa diaria.
-- ♥ Características: casual, sólido, moderno y fresco, pierna ancha, cintura alta, largo, con cadena, pantalones holgados sueltos para mujer
 - ♥ Consejos de lavado: se recomienda lavar a mano / No lavar a máquina / agua fría / NO usar lejía
+- ♥ Características: casual, sólido, moderno y fresco, pierna ancha, cintura alta, largo, con cadena, pantalones holgados sueltos para mujer
+- ♥♥ Tamaño: S (EU 36) ** M (EU 38) ** L (EU 40) ** XL (EU 42)
 - ♥ Temporada: Los pantalones son adecuados para usar en primavera y otoño. Luce genial y a la moda para combinar con las botas Martens.
 
 [Visítala!!!](https://www.amazon.es/dp/B07KBXWGYN/?tag=tolees-21)

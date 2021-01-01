@@ -25,8 +25,8 @@ En este momento está [TAZA MICRO 350 ML | UNICORNIOS](https://www.amazon.es/dp/
 
 🔎:
 
-- Todos los productos de la marca Stor están libres de BPA y han pasado los tests requeridos en su categoría para cumplir con la normativa Europea.
-- Producto con licencia oficial, 100% original.
 - Práctica taza que hará las delicias de los más pequeños de la casa, al estar decorada con algunos de sus personajes favoritos del mundo del cine y la televisión. Es apta para el microondas, por lo que son ideales para calentar el desayuno de los niños a diario y, gracias a su material resistente, aguantará las caídas accidentales típicas del día a día. Características: - Capacidad: 350 Ml. - Apta para microondas. - Libre de BPA - Fácil de limpiar - Material totalmente apto para alimentación
+- Producto con licencia oficial, 100% original.
+- Todos los productos de la marca Stor están libres de BPA y han pasado los tests requeridos en su categoría para cumplir con la normativa Europea.
 
 [Aquí!!!](https://www.amazon.es/dp/B07FG15S8L/?tag=tolees-21)

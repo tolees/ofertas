@@ -25,8 +25,8 @@ Tienes [Shunga Vela de Masaje Romance  Aroma de Vino Espumoso con Fresas  Color 
 
 ℹ️:
 
-- Hecha a partir de ingredientes naturales ricos en vitamina E, proporcionando hidratación y suavidad a la piel. No grasienta
-- Vela perfumada que se convierte en un rico aceite para masaje corporal
 - Una vez apagada la mecha el aceite obtenido no quema encima de la piel. Dura hasta 40 horas encendida
+- Vela perfumada que se convierte en un rico aceite para masaje corporal
+- Hecha a partir de ingredientes naturales ricos en vitamina E, proporcionando hidratación y suavidad a la piel. No grasienta
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00SUNGTMW/?tag=tolees-21)

@@ -27,7 +27,7 @@ Tienes [Piko - Estación ferroviaria de modelismo ferroviario](https://www.amazo
 
 - Kit de construcción
 - Número de artículo Piko: 61820
-- Edad recomendada: a partir de 14 años
 - Ancho de vía H0
+- Edad recomendada: a partir de 14 años
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0000WPMXI/?tag=tolees-21)

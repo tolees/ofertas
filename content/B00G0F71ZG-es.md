@@ -25,9 +25,9 @@ Está [HP X500 - Ratón con cable  3 botones  óptico  USB   negro](https://www.
 
 ℹ️:
 
+- Seguimiento óptico: proporciona el seguimiento adecuado en la mayoría de superficies para un control preciso y sin contratiempos
+- Ligero: tan solo pesa 106 gramos
 - Simplicidad: Conéctalo cómodamente a tu PC a través del puerto USB
 - Productividad: El ratón cuenta con 3 botones y rueda de desplazamiento
-- Ligero: tan solo pesa 106 gramos
-- Seguimiento óptico: proporciona el seguimiento adecuado en la mayoría de superficies para un control preciso y sin contratiempos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00G0F71ZG/?tag=tolees-21)

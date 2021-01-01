@@ -25,9 +25,9 @@ Está [INJUSA - Quad The Beast Spiderman a Batería 12V Licenciado con Acelerado
 
 ℹ️:
 
+- La batería y el cargador están incluidos, se fabrica en España y cumple con las normativas de seguridad requeridas por la UE
 - Quad Spiderman a batería de 12V con Licencia oficial, recomendado a partir de los 24 meses
 - Alcanza una velocidad de 4-5 km/h gracias a su acelerador en pie
-- La batería y el cargador están incluidos, se fabrica en España y cumple con las normativas de seguridad requeridas por la UE
 - Dispone de ruedas anchas para mayor estabilidad con bandas de goma en las traseras, que proporcionan mayor agarre
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07R1LJSJJ/?tag=tolees-21)
