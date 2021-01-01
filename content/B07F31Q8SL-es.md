@@ -25,8 +25,8 @@ En este momento está [Puma Basket Crush Wn s  Zapatillas para Mujer  Blanco Whi
 
 🔎:
 
-- Piel , cuero, caucho, Cordones, Zapatillas bajas
 - Shoe Width : medium
+- Piel , cuero, caucho, Cordones, Zapatillas bajas
 - 1
 
 [Aquí!!!](https://www.amazon.es/dp/B07F31Q8SL/?tag=tolees-21)

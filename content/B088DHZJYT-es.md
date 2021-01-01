@@ -26,9 +26,9 @@ En este momento está [Monix New Cream - Cafetera Italiana de Aluminio  Capacida
 🔎:
 
 - Se recomienda utilizar en inducción un fogón del mismo tamaño que la base de la cafetera; base= 10 cm
-- Diseño interior del calderín sin cantos para una limpieza más cómoda
-- Cafetera italiana de aluminio de 9 tazas (490 ml) apta para todo tipo de cocinas incluida inducción
-- Asa de baquelita termo-resistente ergonómica para un agarre fácil y seguro
 - Acabado exterior color marrón mate
+- Cafetera italiana de aluminio de 9 tazas (490 ml) apta para todo tipo de cocinas incluida inducción
+- Diseño interior del calderín sin cantos para una limpieza más cómoda
+- Asa de baquelita termo-resistente ergonómica para un agarre fácil y seguro
 
 [Aquí!!!](https://www.amazon.es/dp/B088DHZJYT/?tag=tolees-21)

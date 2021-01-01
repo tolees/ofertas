@@ -25,10 +25,10 @@ Tienes [Jack & Jones Jjeholmen Sweat Zip Hood Noos Sudadera  Negro  Black   Larg
 
 ℹ️:
 
-- Color: negro
 - Designer: JACK&JONES
-- Material: Algodón
 - Estación: Continua
+- Color: negro
+- Material: Algodón
 - Artículo: 12136884
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07C5YJDQS/?tag=tolees-21)

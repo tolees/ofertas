@@ -25,7 +25,7 @@ Ahora mismo tienes [Geographical Norway Polar Upload](https://www.amazon.es/dp/B
 
 🔎:
 
-- Cremallera
 - Resistente al frío
+- Cremallera
 
 [Visítala!!!](https://www.amazon.es/dp/B08NPT65P2/?tag=tolees-21)

@@ -25,10 +25,10 @@ Está [Vans Authentic  Zapatillas de Tela Unisex  Rojo  Red   41 EU](https://www
 
 ℹ️:
 
-- Material de la suela: goma
-- Material exterior: lona
-- La estación ideal: para todas las estaciones
-- Adecuado para: unisex (adultos)
 - Cierre: cordones
+- Material de la suela: goma
+- Adecuado para: unisex (adultos)
+- La estación ideal: para todas las estaciones
+- Material exterior: lona
 
 [Ver la oferta!!](https://www.amazon.es/dp/B001DCXEOI/?tag=tolees-21)

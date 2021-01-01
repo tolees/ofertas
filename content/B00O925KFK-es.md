@@ -25,9 +25,9 @@ Tienes [Komono Reloj Analógico de Cuarzo Unisex con Correa de Cuero – KOM-W22
 
 ℹ️:
 
-- Caja metálica cepillada
 - Tapa trasera: acero inoxidable
 - Mecanismo: cuarzo japonés
+- Caja metálica cepillada
 - Brazalete: cuero genuino
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00O925KFK/?tag=tolees-21)
