@@ -1,31 +1,31 @@
 ---
 layout: post
-title: 'Clarks Un Trail Form  Derbys Derby  Brau al 46.32 % de descuento'
-date: 2020-12-31 16:43:35
+title: 'Clarks Un Trail Form  Derbys Derby  Brau al 46.69 % de descuento'
+date: 2021-01-01 17:01:41
 image: 'https://m.media-amazon.com/images/I/41R8CTOV9ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07TXDZ72C-es'
-actualPrice: 53.65 EUR
+actualPrice: 53.28 EUR
 currency: EUR
-price: 53.65
+price: 53.28
 comparePrice: 99.95 EUR
 prodname: 'Clarks Un Trail Form  Derbys Derby  Braun  Mahogany Leather Mahogany Leather   42.5 EU'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07TXDZ72C/?tag=tolees-21'
-descuento: '46.32'
-average: '55.156540880503144'
+descuento: '46.69'
+average: '55.1332298136646'
 ---
 
-Ahora mismo tienes [Clarks Un Trail Form  Derbys Derby  Braun  Mahogany Leather Mahogany Leather   42.5 EU](https://www.amazon.es/dp/B07TXDZ72C/?tag=tolees-21) a 53.65 EUR (original: 99.95 EUR) (46.32 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Clarks Un Trail Form  Derbys Derby  Braun  Mahogany Leather Mahogany Leather   42.5 EU](https://www.amazon.es/dp/B07TXDZ72C/?tag=tolees-21) a 53.28 EUR (original: 99.95 EUR) (46.69 %  de descuento) en el siguiente enlace!
 
 [![Clarks Un Trail Form  Derbys Derby  Brau](https://m.media-amazon.com/images/I/41R8CTOV9ML._SL200_.jpg)](https://www.amazon.es/dp/B07TXDZ72C/?tag=tolees-21)
 
 🔎:
 
-- Único Material: Caucho
 - Color Exacto: Cuero Caoba
+- Único Material: Caucho
 
 [Visítala!!!](https://www.amazon.es/dp/B07TXDZ72C/?tag=tolees-21)

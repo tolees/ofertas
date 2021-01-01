@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haribo Caramelos Grageados - 2 kg con un 34.35 % de descuento'
-date: 2020-12-31 06:01:21
+date: 2021-01-01 18:08:10
 image: 'https://m.media-amazon.com/images/I/61c4sJ9+1GL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ En este momento está [Haribo Caramelos Grageados - 2 kg](https://www.amazon.es/
 
 🔎:
 
-- Hechos en España.
 - No contiene alérgenos
 - Caramelos con un variado de colores y múltiples sabores
+- Hechos en España.
 
 [Aquí!!!](https://www.amazon.es/dp/B005T3QXNQ/?tag=tolees-21)

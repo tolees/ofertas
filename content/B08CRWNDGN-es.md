@@ -25,10 +25,10 @@ En este momento está [Lenovo IdeaPad 3 - Portátil 15.6" FullHD  AMD Athlon 302
 
 🔎:
 
-- Almacenamiento de 256GB SSD M.2 2242 PCIe 3.0x2 NVMe
 - Tarjeta gráfica integrada AMD Radeon Graphics
-- Procesador AMD 3020e (2C / 2T, 1.2 / 2.6GHz, 1MB L2 / 4MB L3)
 - Sin sistema operativo
+- Procesador AMD 3020e (2C / 2T, 1.2 / 2.6GHz, 1MB L2 / 4MB L3)
+- Almacenamiento de 256GB SSD M.2 2242 PCIe 3.0x2 NVMe
 - Pantalla de 15.6" FullHD 1920x1080 píxeles, TN, 220nits
 - Memoria RAM de 8GB SO-DIMM DDR4-2400
 

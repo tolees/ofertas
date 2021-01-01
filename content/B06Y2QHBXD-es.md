@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance 574 Core Zapatillas Hombre   al 61.22 % de descuento'
-date: 2020-12-30 06:47:37
+date: 2021-01-01 18:58:27
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41fzbDkTKwL._SL200_.jpg'
 comments: true
 category: ofertas

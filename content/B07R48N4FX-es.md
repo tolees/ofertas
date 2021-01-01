@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'CARE OF by PUMA Zapatillas de satén para al 45.21 % de rebaja'
-date: 2020-12-29 20:15:08
+title: 'CARE OF by PUMA Zapatillas de satén para al 22.65 % de rebaja'
+date: 2021-01-01 18:07:56
 image: 'https://m.media-amazon.com/images/I/31ep-K3FsZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07R48N4FX-es'
-actualPrice: 29.37 EUR
+actualPrice: 27.9 EUR
 currency: EUR
-price: 29.37
-comparePrice: 53.6 EUR
+price: 27.9
+comparePrice: 36.07 EUR
 prodname: 'CARE OF by PUMA Zapatillas de satén para mujer  Beige  39 EU'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07R48N4FX/?tag=tolees-21'
-descuento: '45.21'
-average: '29.37'
+descuento: '22.65'
+average: '28.634999999999998'
 ---
 
-Tienes [CARE OF by PUMA Zapatillas de satén para mujer  Beige  39 EU](https://www.amazon.es/dp/B07R48N4FX/?tag=tolees-21) con precio final de  29.37 EUR (original: 53.6 EUR) (45.21 %  de rebaja) aqui!
+Tienes [CARE OF by PUMA Zapatillas de satén para mujer  Beige  39 EU](https://www.amazon.es/dp/B07R48N4FX/?tag=tolees-21) con precio final de  27.9 EUR (original: 36.07 EUR) (22.65 %  de rebaja) aqui!
 
 [![CARE OF by PUMA Zapatillas de satén para](https://m.media-amazon.com/images/I/31ep-K3FsZL._SL200_.jpg)](https://www.amazon.es/dp/B07R48N4FX/?tag=tolees-21)
 

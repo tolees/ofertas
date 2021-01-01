@@ -25,10 +25,10 @@ Está [LEGO Architecture 6101026 Flatiron Building 21023 Building Kit by LEGO](h
 
 ℹ️:
 
-- medidas 5" (15 cm) de altura, 3" (8 cm) de ancho y 4" (11 cm) de profundidad
 - interpretación de hito arquitectónico en el mundo real, el edificio Flatiron; cuenta con una placa de identificación
+- recoger la totalidad de los conjuntos de la arquitectura de la serie LEGO punto de referencia y arquitecto
 - folleto incluido con detalles sobre el diseño, la arquitectura y la historia del edificio (idioma Inglés solamente)
 - otros idiomas disponibles para su descarga en lego.com/architecture
-- recoger la totalidad de los conjuntos de la arquitectura de la serie LEGO punto de referencia y arquitecto
+- medidas 5" (15 cm) de altura, 3" (8 cm) de ancho y 4" (11 cm) de profundidad
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00UY56OLU/?tag=tolees-21)

@@ -25,10 +25,10 @@ Está [Mr Wonderful MRMAC003 Estuche para Apple MacBook 13.3 " Pro deseno Fruit]
 
 ℹ️:
 
-- Decoración galáctica para tu pc con dibujos de planetas y estrellas y con acabado mate rubber touch.
-- Accesorio anti arañazos y anti salpicaduras para tu laptop de colores pastel azul, blanco y rosa.
-- Funda protectora para ordenador portátil con un diseño divertido y original de la marca Mr. Wonderful
-- Gadget facilmente extraible que permite una buena ventilación y mantiene todos los puertos y funciones accesibles.
 - Case rígida y resistente, que encaja a la perfección con el Macbook Air 2.
+- Funda protectora para ordenador portátil con un diseño divertido y original de la marca Mr. Wonderful
+- Accesorio anti arañazos y anti salpicaduras para tu laptop de colores pastel azul, blanco y rosa.
+- Decoración galáctica para tu pc con dibujos de planetas y estrellas y con acabado mate rubber touch.
+- Gadget facilmente extraible que permite una buena ventilación y mantiene todos los puertos y funciones accesibles.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01LXCSDJT/?tag=tolees-21)
