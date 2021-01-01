@@ -26,9 +26,9 @@ Ahora mismo tienes [Panasonic NN-GT46K - Microondas con Grill  1000W  31L  7 niv
 🔎:
 
 - Cuenta con 24 modos automáticos y función add time que ofrece flexibilidad personalizada en la cocina para añadir un tiempo extra si con el programa de cocción automática no es suficiente
+- Capacidad hasta 31l y con plato giratorio de 340mm de diámetro
+- Panel de control táctil y programa “junior menu”, que te permite cocinar 3 auto menús diarios para niños
 - Los hornos microondas con inverter proporcionan un flujo de energía constante sin interrupciones para una cocción precisa que preserve el sabor y la textura de sus alimentos; cuidando la temperatura y potencía ideal dependiendo del alimento
 - Grill de cuarzo de 1100w con 3 niveles de potencía
-- Panel de control táctil y programa “junior menu”, que te permite cocinar 3 auto menús diarios para niños
-- Capacidad hasta 31l y con plato giratorio de 340mm de diámetro
 
 [Visítala!!!](https://www.amazon.es/dp/B07QJZJ2DH/?tag=tolees-21)

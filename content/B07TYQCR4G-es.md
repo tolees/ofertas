@@ -25,8 +25,8 @@ Tienes [Superga 2736-cotu Dbl3  Zapatillas de Gimnasia Unisex Adulto  Blanco  To
 
 🔎:
 
-- Forro: tela
 - Material exterior: tela
 - Material de la suela: goma
+- Forro: tela
 
 [Comprar!!!](https://www.amazon.es/dp/B07TYQCR4G/?tag=tolees-21)

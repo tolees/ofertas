@@ -25,7 +25,7 @@ Ahora mismo tienes [Geox U SIRON A  Mocasines Hombre  Negro  Black C9999   39 EU
 
 🔎:
 
-- Negro
 - adulto
+- Negro
 
 [Visítala!!!](https://www.amazon.es/dp/B008X3PV7S/?tag=tolees-21)
