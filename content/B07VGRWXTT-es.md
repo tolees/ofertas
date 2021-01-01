@@ -25,10 +25,10 @@ Ahora mismo tienes [Hugo BOSS Reloj Analógico para Hombre de Cuarzo con Correa 
 
 🔎:
 
-- Pulsera de malla con chapado iónico gris
-- 3 ATM de resistencia al agua
-- Esfera azul
-- Movimiento de dos manecillas
 - Grosor de la caja de 7 mm, Diámetro de la caja: 40 mm
+- Pulsera de malla con chapado iónico gris
+- Movimiento de dos manecillas
+- Esfera azul
+- 3 ATM de resistencia al agua
 
 [Visítala!!!](https://www.amazon.es/dp/B07VGRWXTT/?tag=tolees-21)

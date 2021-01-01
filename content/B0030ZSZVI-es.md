@@ -25,14 +25,14 @@ Tienes [adidas Duramo Slide  Chanclas Unisex Adulto  Negro  Black/White/Black   
 
 ℹ️:
 
-- Estilo: sandalias
 - Sandalias de punta abierta unisex
-- Adecuado para: unisex (adultos)
-- Tipo de material: compuesto
-- Adecuados para antes y después de los entrenamientos
-- Diseño de una pieza
-- La estación ideal: para todas las estaciones
 - en tallas
+- La estación ideal: para todas las estaciones
+- Adecuado para: unisex (adultos)
 - Limpio y de secado rápido
+- Tipo de material: compuesto
+- Diseño de una pieza
+- Estilo: sandalias
+- Adecuados para antes y después de los entrenamientos
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0030ZSZVI/?tag=tolees-21)

@@ -25,8 +25,8 @@ Tienes [Lee Malone Pants Jeans  True Blue Hq  26W / 32L para Hombre](https://www
 
 🔎:
 
-- Vaqueros para hombre
-- Tienen un parche de piel en la parte trasera con la marca Lee
 - Presentan 5 bolsillos
+- Tienen un parche de piel en la parte trasera con la marca Lee
+- Vaqueros para hombre
 
 [Comprar!!!](https://www.amazon.es/dp/B07MR9LF4T/?tag=tolees-21)

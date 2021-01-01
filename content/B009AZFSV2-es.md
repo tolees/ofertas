@@ -25,9 +25,9 @@ Ahora mismo tienes [Michael Kors Reloj Cronógrafo para Mujer de Cuarzo con Corr
 
 🔎:
 
-- Reloj de mujer MICHAEL KORS - Caja redonda de acero inoxidable (diám. 43 mm) con acabado pulido en color dorado - 2 pulsadores dorados - 10 ATM de resistencia a la presión del agua
-- Brazalete de acero inoxidable con acabado pulido brillante y mate dorado - Cierre de seguridad desplegable
 - Presentado en estuche MICHAEL KORS
+- Reloj de mujer MICHAEL KORS - Caja redonda de acero inoxidable (diám. 43 mm) con acabado pulido en color dorado - 2 pulsadores dorados - 10 ATM de resistencia a la presión del agua
 - Esfera negra con índices dorados y números romanos a las 2/4/8/10/12 - Cronógrafo con fecha y modo 24h - Agujas doradas - Cristal mineral
+- Brazalete de acero inoxidable con acabado pulido brillante y mate dorado - Cierre de seguridad desplegable
 
 [Visítala!!!](https://www.amazon.es/dp/B009AZFSV2/?tag=tolees-21)

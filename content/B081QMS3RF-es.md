@@ -25,10 +25,10 @@ En este momento está [PUMA St Runner V2 NL   Zapatillas Unisex Adulto  Gris  Wh
 
 🔎:
 
-- Entresuela de EVA
-- nailon, ante sintético, acento de piel.
+- Suela de goma resistente y antideslizante.
 - EVA moldeada y cómoda de llevar.
 - No importa si son zapatos modernos, zapatillas deportivas informales o zapatillas de calle deportivas: las zapatillas de ocio de Puma garantizan siempre unos pies bien recubiertos en combinación con un estilo único.
-- Suela de goma resistente y antideslizante.
+- nailon, ante sintético, acento de piel.
+- Entresuela de EVA
 
 [Aquí!!!](https://www.amazon.es/dp/B081QMS3RF/?tag=tolees-21)

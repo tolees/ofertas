@@ -25,8 +25,8 @@ Tienes [Kallos  Acondicionador de pelo - 500 ml.](https://www.amazon.es/dp/B00KG
 
 ℹ️:
 
+- Productos para tu cuidado personal, para tu bienestar, y para la higiene personal.
 - Kallos lab 35 signature hair conditioner 500 mlkallos
 - Kallos lab 35 signature hair conditioner 500 ml
-- Productos para tu cuidado personal, para tu bienestar, y para la higiene personal.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00KGHLCOA/?tag=tolees-21)

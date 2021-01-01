@@ -26,9 +26,9 @@ Ahora mismo tienes [Russell Hobbs Desire - Procesador de Alimentos  Licuadora  A
 🔎:
 
 - El cuenco y las piezas se pueden lavar en el lavavajillas
-- Doble bloqueo de seguridad en el cuenco, con 2 velocidades y función de pulso., contiene recogecable y pies de goma con ventosa para una mayor estabilidad
-- Incluye un bol de 2,5 litros con capacidad útil para 1,5 litros, y una jarra batidora de plástico de 1,5 litros
 - Cuchilla de acero inoxidable, disco de corte y de rallado, amasador y disco para preparar cremas
+- Incluye un bol de 2,5 litros con capacidad útil para 1,5 litros, y una jarra batidora de plástico de 1,5 litros
 - Picadora de Alimentos con 600 vatios de potencia
+- Doble bloqueo de seguridad en el cuenco, con 2 velocidades y función de pulso., contiene recogecable y pies de goma con ventosa para una mayor estabilidad
 
 [Visítala!!!](https://www.amazon.es/dp/B079TPV7SH/?tag=tolees-21)

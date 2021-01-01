@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko 34488 POP Vinyl  Juguete  modelos  al 20.01 % de descuento'
-date: 2020-12-31 16:26:57
+date: 2021-01-01 16:46:13
 image: 'https://m.media-amazon.com/images/I/41Vx3IATXdL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HJFNHCK/?tag=tolees-21'
 descuento: '20.01'
-average: '14.406923076923077'
+average: '14.351333333333333'
 ---
 
 Ahora mismo tienes [Funko 34488 POP Vinyl  Juguete  modelos surtidos](https://www.amazon.es/dp/B07HJFNHCK/?tag=tolees-21) a 13.99 EUR (original: 17.49 EUR) (20.01 %  de descuento) en el siguiente enlace!

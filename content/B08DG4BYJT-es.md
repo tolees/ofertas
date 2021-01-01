@@ -25,10 +25,10 @@ Tienes [Ravensburger Regreso al futuro - Versión española  Light Strategy Game
 
 🔎:
 
-- Una ronda se compone de las siguientes fases: robar cartas de suceso, lanzar los dados, realizar acciones, avanzar la ficha OUTATIME, añadir fichas de paradoja y pasar el marcador de jugador inicial
+- Este juego de mesa se recomienda para mayores de 10 años, la duración media de una partida es de 60 minutos y es óptimo para las tardes de juegos con los amigos o la familia; regreso al Futuro también es un regalo óptimo para los entusiastas del cine
 - Regreso al Futuro: Viaja en el Tiempo a Golpe de Dado se desarrolla en una serie de rondas; los jugadores colaboran para completar sucesos clave y para encontrar y devolver a su lugar los objetos perdidos
 - Juego de sociedad para 2-4 jugadores que permite revivir escenas memorables de la trilogía cinematográfica Regreso al Futuro con unos materiales de calidad optima que representan los detalles de la película y sus objetos y lugares más icónicos
-- Este juego de mesa se recomienda para mayores de 10 años, la duración media de una partida es de 60 minutos y es óptimo para las tardes de juegos con los amigos o la familia; regreso al Futuro también es un regalo óptimo para los entusiastas del cine
 - El juego contiene: 1 tablero, 4 tablerillos, 4 miniaturas del DeLorean, 4 figuras de Biff con bases de plástico, 16 dados, 72 cartas de suceso, 20 cartas de objeto, 20 fichas de paradoja, 24 fichas de Einstein, 1 ficha OUTATIME con base de plástico, 1 marcador de jugador inicial, reglamento
+- Una ronda se compone de las siguientes fases: robar cartas de suceso, lanzar los dados, realizar acciones, avanzar la ficha OUTATIME, añadir fichas de paradoja y pasar el marcador de jugador inicial
 
 [Comprar!!!](https://www.amazon.es/dp/B08DG4BYJT/?tag=tolees-21)

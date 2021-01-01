@@ -25,10 +25,10 @@ Está [SODIAL 2GB DDR2 PC2-6400 800MHz 200Pin 1.8V Memoria para Computadora Port
 
 ℹ️:
 
+- Chipset: 8 bits ETT chipset.
 - Velocidad de memoria: 800 MHz PC2-6400S 667 MHz PC2-5300S.
 - Toma de memoria: SO-DIMM.
 - Modelo: portátil DDR2 2 2 GB.
-- Chipset: 8 bits ETT chipset.
 - Capacidad: 2 GB.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07WW9ZJ6M/?tag=tolees-21)

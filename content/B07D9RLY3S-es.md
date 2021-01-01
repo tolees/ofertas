@@ -25,8 +25,8 @@ En este momento está [Adidas Sambarose  Zapatillas Clasicas Mujer  Blanco  Clou
 
 🔎:
 
-- Zapatillas deportivas
 - Suela de plataforma que añade 3 cm de alto.
+- Zapatillas deportivas
 - Parte superior de piel.
 
 [Aquí!!!](https://www.amazon.es/dp/B07D9RLY3S/?tag=tolees-21)
