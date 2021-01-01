@@ -25,9 +25,9 @@ En este momento está [Pop! Bobble: Avengers Endgame: Captain Marvel](https://ww
 
 🔎:
 
-- Recomendado para niños a partir de 3 años
-- El producto se envía en una caja ilustrada con ventana
-- El artículo es adecuado para todos los fanáticos de Avengers Endgame
 - Figura de colección de la marca Funko
+- El artículo es adecuado para todos los fanáticos de Avengers Endgame
+- El producto se envía en una caja ilustrada con ventana
+- Recomendado para niños a partir de 3 años
 
 [Aquí!!!](https://www.amazon.es/dp/B07KPSN8TZ/?tag=tolees-21)

@@ -25,11 +25,11 @@ Tienes [Russell Hobbs Cook@Home - Robot de cocina con función panificadora  900
 
 ℹ️:
 
-- Tapa anticondensación
-- Recipiente de acero inoxidable, cuerpo de la olla programable con embellecedor de acero inoxidable
-- Robot de cocina con capacidad de 5 litros y potencia de 900 vatios
-- Pantalla digital de gran tamaño con temporizador de 24 horas
 - 11 programas disponibles (arroz, cocción a fuego lento, estofado, carne, pescado, sopa, al vapor, yogur, gachas y pan/ pasteles) con función de mantenimiento del calor
+- Recipiente de acero inoxidable, cuerpo de la olla programable con embellecedor de acero inoxidable
+- Pantalla digital de gran tamaño con temporizador de 24 horas
+- Robot de cocina con capacidad de 5 litros y potencia de 900 vatios
+- Tapa anticondensación
 - Función panificadora
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00U65CWOG/?tag=tolees-21)

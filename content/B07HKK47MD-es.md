@@ -25,13 +25,13 @@ Ahora mismo tienes [Under Armour Micro G Pursuit BP Calzado deportivo  Hombre](h
 
 🔎:
 
-- La parte superior de malla ligera y diseñada es extremadamente flexible y transpirable, con apoyo estratégico donde lo necesites
-- Peso: 248 g
-- La entresuela de espuma Micro G de una sola pieza convierte los aterrizajes acolchados en despegues explosivos
-- Desplazamiento: 8 mm
 - La plantilla cómoda adopta la forma de tu pie con acolchado adicional en el talón para una máxima amortiguación en el talón
-- Neutral: para corredores que necesitan flexibilidad, amortiguación y versatilidad
+- Desplazamiento: 8 mm
+- Peso: 248 g
+- La parte superior de malla ligera y diseñada es extremadamente flexible y transpirable, con apoyo estratégico donde lo necesites
 - Acolchado de espuma colocado alrededor del cuello del tobillo y debajo de la lengua para un ajuste y sensación increíblemente cómodos
+- Neutral: para corredores que necesitan flexibilidad, amortiguación y versatilidad
+- La entresuela de espuma Micro G de una sola pieza convierte los aterrizajes acolchados en despegues explosivos
 - El patrón de suela inspirado en los neumáticos proporciona la máxima flexibilidad y tracción superior
 
 [Visítala!!!](https://www.amazon.es/dp/B07HKK47MD/?tag=tolees-21)

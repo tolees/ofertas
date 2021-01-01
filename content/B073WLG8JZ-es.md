@@ -26,9 +26,9 @@ En este momento está [FUEGO VALYRIO Licor Verde - 700 ml](https://www.amazon.es
 🔎:
 
 - Graduación: 33º
-- Al agitarse libera una nube de colores metalizados
-- Capacidad: 70 cl
-- Optimo para chupitos, a 4º
 - Licor blackstrap con canela y picante
+- Optimo para chupitos, a 4º
+- Capacidad: 70 cl
+- Al agitarse libera una nube de colores metalizados
 
 [Aquí!!!](https://www.amazon.es/dp/B073WLG8JZ/?tag=tolees-21)

@@ -25,10 +25,10 @@ En este momento está [Aenllosi Funda Caso para HP Sprocket Plus & Sprocket Sele
 
 🔎:
 
-- Aenllosi Portable Storage Carrying Hard Case for HP Sprocket Plus & Sprocket Select , Mini Instant Photos Printer fits Zink 2.3x3.4 Photo Paper and Charging Cables.
-- para la venta es único caso (dispositivo y los accesorios no están incluidos)
 - Features: Made to fit Mount is Made of Engineering Plastic, Heavy Duty, Could be Mounted on Handlebar and other Positions of Bike.
 - Material: EVA,color:Gris
 - Internal size: 5.8x3.6x0.8 inch, external size: 6.5x4.5x2 inch, weight:100g, material:EVA
+- para la venta es único caso (dispositivo y los accesorios no están incluidos)
+- Aenllosi Portable Storage Carrying Hard Case for HP Sprocket Plus & Sprocket Select , Mini Instant Photos Printer fits Zink 2.3x3.4 Photo Paper and Charging Cables.
 
 [Aquí!!!](https://www.amazon.es/dp/B07DG2KV3Z/?tag=tolees-21)

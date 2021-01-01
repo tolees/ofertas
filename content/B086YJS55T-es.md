@@ -25,10 +25,10 @@ Tienes [NASUM Encendedor Eléctrico  Encendedor a Prueba de Viento para Carga US
 
 ℹ️:
 
-- ☞ 【REGALOS CHIC】: Esquinas redondeadas y pulidas, excelente tacto, líneas suaves, apariencia elegante, hermosa caja de regalo, adecuada para amigos varones, padre.
-- ☞ 【GARANTÍA DE CALIDAD】: Brindamos garantía de calidad. Si tiene alguna pregunta sobre nuestros productos, contáctenos. Ofrecemos un servicio de devolución. Para 100% de satisfacción del cliente.
-- ☞ 【ENCENDEDOR RECARGABLE, EFICIENTE Y A PRUEBA DE VIENTO】: Carga USB, conveniente y rápida, interfaz de carga universal, carga de teléfono móvil / computadora / teléfono móvil. Arco de actualización, encendido por corriente giratoria, alta eficiencia y a prueba de viento.
 - ☞ 【CHIP INTELIGENTE, SEGURO Y ECOLÓGICO】: Adopta un diseño innovador, actualiza el chip, la detección táctil, la protección de apagado automático para evitar el sobrecalentamiento y la recarga. Interruptor inteligente, que muestra el poder, la situación de energía de un vistazo. A diferencia de los encendedores de gas tradicionales, este encendedor no tiene olores especiales y es ecológico.
+- ☞ 【GARANTÍA DE CALIDAD】: Brindamos garantía de calidad. Si tiene alguna pregunta sobre nuestros productos, contáctenos. Ofrecemos un servicio de devolución. Para 100% de satisfacción del cliente.
+- ☞ 【REGALOS CHIC】: Esquinas redondeadas y pulidas, excelente tacto, líneas suaves, apariencia elegante, hermosa caja de regalo, adecuada para amigos varones, padre.
 - ☞ 【AMPLIA GAMA DE APLICACIONES】: Los encendedores de doble arco son pequeños y miden dimensiones: 7.8 x 3.5 x 1.3 cm. No importa a dónde vayas, puedes llevarlo contigo. Se puede usar para encender cigarrillos, velas, madera seca, barbacoas, etc.
+- ☞ 【ENCENDEDOR RECARGABLE, EFICIENTE Y A PRUEBA DE VIENTO】: Carga USB, conveniente y rápida, interfaz de carga universal, carga de teléfono móvil / computadora / teléfono móvil. Arco de actualización, encendido por corriente giratoria, alta eficiencia y a prueba de viento.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B086YJS55T/?tag=tolees-21)

@@ -25,7 +25,7 @@ Ahora mismo tienes [G-STAR RAW Lynn D-Mid Waist Super Skinny Vaqueros  Medium Ag
 
 🔎:
 
-- Estos pantalones vaqueros Revend Super Slim están fabricados con una goma elástica de alta calidad y duradera.
 - Denim de peso medio de 10,3 ozs.
+- Estos pantalones vaqueros Revend Super Slim están fabricados con una goma elástica de alta calidad y duradera.
 
 [Visítala!!!](https://www.amazon.es/dp/B07JWXLN7L/?tag=tolees-21)

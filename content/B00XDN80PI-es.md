@@ -26,7 +26,7 @@ Tienes [Matutano - Boca Bits - Producto aperitivo de trigo frito con sabor a car
 ℹ️:
 
 - Con sabor a carne
-- Conservar en lugar fresco y seco
 - Contiene gluten
+- Conservar en lugar fresco y seco
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00XDN80PI/?tag=tolees-21)

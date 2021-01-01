@@ -25,9 +25,9 @@ Tienes [Thule EnRoute - Mochila de 18L  Color Negro](https://www.amazon.es/dp/B0
 
 🔎:
 
+- Espacio para portátil y tablet
 - Cremalleras duraderas
 - Alta resistencia al paso del tiempo
 - Materiales de calidad
-- Espacio para portátil y tablet
 
 [Comprar!!!](https://www.amazon.es/dp/B01MYZR4HS/?tag=tolees-21)
