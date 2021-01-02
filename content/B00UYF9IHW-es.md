@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tristar FR-6937 Freidora  capacidad 2 x  al 31.37 % de rebaja'
-date: 2020-12-30 17:44:58
+date: 2021-01-02 14:14:13
 image: 'https://m.media-amazon.com/images/I/410w1qEBgHL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,8 +26,8 @@ Tienes [Tristar FR-6937 Freidora  capacidad 2 x 3 l  3600 W  6 litros  Acero Ino
 🔎:
 
 - Ambos recipientes cuentan con un termostato individual que hace que sean sencillos de usar y manejar.
-- Puede freír fácilmente varios productos al mismo tiempo gracias a los recipientes dobles.
 - La zona fría le permite freír de manera más saludable y mantener el aceite nuevo durante más tiempo.
+- Puede freír fácilmente varios productos al mismo tiempo gracias a los recipientes dobles.
 - La freidora se puede limpiar con facilidad y las piezas sueltas se pueden lavar en el lavavajillas.
 - Espaciosa freidora con un volumen de 2 x 3 litros que ofrece mucho espacio
 

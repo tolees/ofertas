@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 31.95 % en adidas Galaxy 5  Running Shoe Mujer  Gre'
-date: 2020-12-31 18:25:13
+date: 2021-01-02 14:09:46
 image: 'https://m.media-amazon.com/images/I/41F3nBUlm6L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Tienes [adidas Galaxy 5  Running Shoe Mujer  Grey/Glory Grey/Pink Tint  38 2/3 E
 
 ℹ️:
 
-- Corte regular
 - malla superior
 - Cordones de zapatos
+- Corte regular
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B082SZJJ5R/?tag=tolees-21)

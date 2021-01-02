@@ -26,7 +26,7 @@ Está [ABYstyle ABYDCO426 Abysse Corp ABYDCO426 - Cartera 9 Carteles Wanted Luff
 ℹ️:
 
 - Producto oficial de una pieza
-- Incluye los personajes "buscados": Luffy, Zoro, Nami, Sogeking, Sanji, Chopper, Robin, Franky, Brook
 - La colección completa de carteles de Luffy Crew Wanted está en esta cartera de una pieza
+- Incluye los personajes "buscados": Luffy, Zoro, Nami, Sogeking, Sanji, Chopper, Robin, Franky, Brook
 
 [Ver la oferta!!](https://www.amazon.es/dp/B071RNBVX6/?tag=tolees-21)

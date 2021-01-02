@@ -25,10 +25,10 @@ Ahora mismo tienes [tado° Control de Climatización Inteligente V3+  Instálalo
 
 🔎:
 
+- Disfruta siempre de la temperatura óptima en cualquier habitación con la Programación Inteligente y mantén un clima saludable en casa
+- Tado° es compatible con aires acondicionados / bombas de calor aire-aire que tengan un mando infrarrojo con pantalla de funciones y funciona con el Asistente de Google, Amazon Alexa y HomeKit de Apple
 - Controla tu calefacción desde donde estés con la app de tado°, reduce tu consumo energético y ahorra dinero con la ayuda de las Skills inteligentes
 - El Control de Climatización Inteligente V3+ de tado° es tu Asistente Climático que se encarga del confort en casa mientras que ayuda a reducir la factura energética
 - Auto-Assist: Para una mayor comodidad puedes automatizar la Geolocalización y la Detección de Ventanas Abiertas - también tendrás acceso a Cuidado y Protección (en la app, 2,99€/mes; 24,99€/año)
-- Disfruta siempre de la temperatura óptima en cualquier habitación con la Programación Inteligente y mantén un clima saludable en casa
-- Tado° es compatible con aires acondicionados / bombas de calor aire-aire que tengan un mando infrarrojo con pantalla de funciones y funciona con el Asistente de Google, Amazon Alexa y HomeKit de Apple
 
 [Visítala!!!](https://www.amazon.es/dp/B07PDZSYCM/?tag=tolees-21)

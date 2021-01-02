@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.47 % en Final Fantasy X/X-2: HD Remaster'
-date: 2021-01-01 12:56:30
+date: 2021-01-02 14:45:10
 image: 'https://m.media-amazon.com/images/I/51nwO-c5npL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00R7DQW0U/?tag=tolees-21'
 descuento: '35.47'
-average: '15.051851851851852'
+average: '14.903448275862068'
 ---
 
 Tienes [Final Fantasy X/X-2: HD Remaster](https://www.amazon.es/dp/B00R7DQW0U/?tag=tolees-21) con un 35.47 % de descuento con precio de oferta de 12.9 EUR (original: 19.99 EUR) en el siguiente enlace!
@@ -25,7 +25,7 @@ Tienes [Final Fantasy X/X-2: HD Remaster](https://www.amazon.es/dp/B00R7DQW0U/?t
 
 ℹ️:
 
-- Dos juegos de rol clásicos ahora en alta definición – Descubre dos de los títulos más celebrados de esta legendaria serie de juegos de rol, ahora con un aspecto todavía mejor de lo que recordabas
 - Ediciones internacionales de ambos juegos – La versión internacional de Final Fantasy X-2 llega a PS4 y llega cargada de contenidos adicionales que no se incluyeron en la versión original
+- Dos juegos de rol clásicos ahora en alta definición – Descubre dos de los títulos más celebrados de esta legendaria serie de juegos de rol, ahora con un aspecto todavía mejor de lo que recordabas
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00R7DQW0U/?tag=tolees-21)

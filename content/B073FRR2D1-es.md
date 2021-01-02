@@ -25,10 +25,10 @@ Está [Max Factor Healthy Skin Harmony Base de Maquillaje Tono 80 Bronze - 146 g
 
 ℹ️:
 
-- Maquillaje con fórmula inteligente que se adapta a todos los factores de estrés que sufre la piel
+- Hidratación 24 horas con tecnología para controlar los brillos
 - Fórmula no-comedogénica, no obstruye los poros
 - Dertmatológicamente testado, con SPF 24
-- Hidratación 24 horas con tecnología para controlar los brillos
+- Maquillaje con fórmula inteligente que se adapta a todos los factores de estrés que sufre la piel
 - Base de maquillaje cobertura media acabado natural
 
 [Ver la oferta!!](https://www.amazon.es/dp/B073FRR2D1/?tag=tolees-21)

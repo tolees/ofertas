@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crazy Color Silver Nº 27 Crema Colorante con un 61.68 % de descuento'
-date: 2020-12-31 19:40:32
+date: 2021-01-02 14:22:53
 image: 'https://m.media-amazon.com/images/I/31-I2IWKG4L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ En este momento está [Crazy Color Silver Nº 27 Crema Colorante del Cabello Sem
 
 🔎:
 
-- Modelo: 002270
-- Aporta alto brillo al cabello
 - No contiene amoniaco
+- Aporta alto brillo al cabello
 - Coloración semi-permanente
+- Modelo: 002270
 
 [Aquí!!!](https://www.amazon.es/dp/B003UTE2T8/?tag=tolees-21)
