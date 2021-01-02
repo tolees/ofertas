@@ -25,9 +25,9 @@ Está [Philips AirFryer HD9216/80 - Freidora sin Aceite con Tecnología Rapid Ai
 
 ℹ️:
 
-- La exclusiva tecnología rapid air de Philips te permite freír con aire alimentos que quedan crujientes por fuera y tiernos por dentro
 - Con esta freidora de aire caliente podrás freír, tostar, asar e incluso hornear
 - Fácil de limpiar y produce menos olores que las freidoras normales
+- La exclusiva tecnología rapid air de Philips te permite freír con aire alimentos que quedan crujientes por fuera y tiernos por dentro
 - Diseño exclusivo para unos resultados deliciosos y con poca grasa
 - Control de tiempo y temperatura ajustable manualmente
 

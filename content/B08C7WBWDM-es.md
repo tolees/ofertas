@@ -25,10 +25,10 @@ Ahora mismo tienes [adidas Puremotion Men  Zapatillas para Hombre  NEGBÁS/FTWBL
 
 🔎:
 
-- Diseño ligero y transpirable
-- Horma clásica
-- Parte superior textil
 - Zapatilla inspirada en el estilo del tenis
 - Cierre de cordones
+- Horma clásica
+- Parte superior textil
+- Diseño ligero y transpirable
 
 [Visítala!!!](https://www.amazon.es/dp/B08C7WBWDM/?tag=tolees-21)
