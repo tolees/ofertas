@@ -25,10 +25,10 @@ Ahora mismo tienes [Bosch medidor láser PLR 30 C   con función de aplicación 
 
 🔎:
 
-- App para smartphone con conexión por Bluetooth: Permite transferir resultados de medición a la aplicación Bosch, añadir medidas a fotos, diseñar estancias, crear listas de medidas, exportar datos y más
-- Suma y resta de resultados: Utilice las características de suma y resta para combinar los resultados de diferentes mediciones
 - Dos ajustes de referencia: El ajuste de referencia permite medir desde la parte frontal o la trasera del aparato
-- Resultados precisos: El PLR 30 C mide distancias hasta 30 m con una precisión de ±2 mm
 - Cuatro modos de medición: Fácil medición de longitud y cálculo de áreas y volúmenes; se puede usar el modo continuo para conocer los valores mínimos y máximos en una medición continua
+- Suma y resta de resultados: Utilice las características de suma y resta para combinar los resultados de diferentes mediciones
+- App para smartphone con conexión por Bluetooth: Permite transferir resultados de medición a la aplicación Bosch, añadir medidas a fotos, diseñar estancias, crear listas de medidas, exportar datos y más
+- Resultados precisos: El PLR 30 C mide distancias hasta 30 m con una precisión de ±2 mm
 
 [Visítala!!!](https://www.amazon.es/dp/B00UN62Q7Q/?tag=tolees-21)

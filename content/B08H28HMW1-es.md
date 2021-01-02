@@ -25,10 +25,10 @@ Está [B Baosity Soporte de Metal de Muñeca Extraíble de 10-15 Pulgadas para D
 
 ℹ️:
 
-- Material: acero inoxidable + plástico
-- Apto para 1/3 y 1/4 Scale Doll, para BJD / SD / Night Lolita Dolls u otras muñecas del mismo tamaño.
 - Soporte de exhibición de muñeca desmontable ajustable Figuras de acción Soporte Soporte.
 - Es adecuado para escaparates, decoración, colección, etc.
 - La base es estable y no es fácil de deformar. Ajustable según la altura de la muñeca.
+- Material: acero inoxidable + plástico
+- Apto para 1/3 y 1/4 Scale Doll, para BJD / SD / Night Lolita Dolls u otras muñecas del mismo tamaño.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08H28HMW1/?tag=tolees-21)

@@ -25,9 +25,9 @@ En este momento está [Crazy Color Silver Nº 27 Crema Colorante del Cabello Sem
 
 🔎:
 
-- No contiene amoniaco
-- Aporta alto brillo al cabello
 - Coloración semi-permanente
+- No contiene amoniaco
 - Modelo: 002270
+- Aporta alto brillo al cabello
 
 [Aquí!!!](https://www.amazon.es/dp/B003UTE2T8/?tag=tolees-21)

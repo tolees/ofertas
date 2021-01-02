@@ -28,7 +28,7 @@ Ahora mismo tienes [#N/A/a Soporte de Metal de Muñeca Ajustable de 2 Piezas con
 - Apto para 1/3 y 1/4 Scale Doll, para BJD / SD / Night Lolita Dolls u otras muñecas del mismo tamaño.
 - Es adecuado para escaparates, decoración, colección, etc.
 - Material: acero inoxidable + plástico
-- Soporte de exhibición de muñeca desmontable ajustable Figuras de acción Soporte Soporte.
 - La base es estable y no es fácil de deformar. Ajustable según la altura de la muñeca.
+- Soporte de exhibición de muñeca desmontable ajustable Figuras de acción Soporte Soporte.
 
 [Visítala!!!](https://www.amazon.es/dp/B08MDJ2YMT/?tag=tolees-21)

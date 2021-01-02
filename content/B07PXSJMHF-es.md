@@ -25,10 +25,10 @@ Ahora mismo tienes [Ravensburger - Minecraft: Builders & Biomes Juego de Mesa  L
 
 🔎:
 
-- Minecraft es un juego para 2-4 jugadores a partir de 10 años y las partidas duran mediamente 30-60 minutos, las instrucciones son fáciles de entender y permiten empezar a jugar enseguida sencillamente
-- Builders & Biomes es un juego de mesa desarrollado en colaboración con Mojang y reúne a los jugadores en una experiencia de juego real y compartida con apasionados de Minecraft y juegos de estrategia
-- Calidad que perdura: Ravensburger lleva más de 130 años haciendo productos para la cabeza, el corazón y las manos
 - Los jugadores viven una aventura cada vez; con su propio personaje, cada jugador recoge los recursos ladrillo y se defiende luchando contra las criaturas de cada mundo
+- Calidad que perdura: Ravensburger lleva más de 130 años haciendo productos para la cabeza, el corazón y las manos
+- Builders & Biomes es un juego de mesa desarrollado en colaboración con Mojang y reúne a los jugadores en una experiencia de juego real y compartida con apasionados de Minecraft y juegos de estrategia
+- Minecraft es un juego para 2-4 jugadores a partir de 10 años y las partidas duran mediamente 30-60 minutos, las instrucciones son fáciles de entender y permiten empezar a jugar enseguida sencillamente
 - Tanto si juegas con un grupo de fanáticos del videojuego como con amantes de los juegos de estrategia clásicos o con tu familia, este juego es óptimo para una tarde de juegos y un regalo
 
 [Visítala!!!](https://www.amazon.es/dp/B07PXSJMHF/?tag=tolees-21)

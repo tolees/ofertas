@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Piofiore: Fated Memories al 22.73 % de descuento'
-date: 2021-01-01 11:50:12
+date: 2021-01-02 15:29:34
 image: 'https://m.media-amazon.com/images/I/51c9QsV4R8L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Está [Piofiore: Fated Memories](https://www.amazon.es/dp/B0851FNTJG/?tag=tolees
 
 ℹ️:
 
-- Navega por organizaciones llenas de intriga y traición mientras tres familias luchan por el honor y el control
 - Desbloquea opciones de historia adicionales, nuevas perspectivas y secretos más profundos y mortales a medida que completa el juego varias veces
 - Experimenta la música y las obras de arte que representan el mundo bañado por el sol (y lleno de pecado) de la Italia de principios del siglo XX
+- Navega por organizaciones llenas de intriga y traición mientras tres familias luchan por el honor y el control
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0851FNTJG/?tag=tolees-21)

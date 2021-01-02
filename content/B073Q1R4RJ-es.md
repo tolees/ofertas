@@ -25,10 +25,10 @@ Tienes [Cecotec Rock nGrill 1000 - Parrilla Eléctrica  Revestimiento Antiadhere
 
 🔎:
 
-- Indicador luminoso de funcionamiento. Superficie amplia de cocinado de 25,4 x 17,5 cm
 - Parrilla eléctrica Contact Grill con 1000 W de potencia y con cajetín recogegrasas para mejorar el uso y la limpieza
 - Asa de tacto frío y pinza de cierre que permite guardarlo en vertical. Hueco recogecables y base antideslizante
-- Revestimiento de piedra RockStone que asegura la máxima antiadherencia y la mejor limpieza. Revestimiento ecológico, libre de PTFE, PFOA y otros tóxicos
+- Indicador luminoso de funcionamiento. Superficie amplia de cocinado de 25,4 x 17,5 cm
 - Placa superior flotante que se adapta en altura. Placas adaptadas con saliente viertegrasas para un uso más cómodo y limpio
+- Revestimiento de piedra RockStone que asegura la máxima antiadherencia y la mejor limpieza. Revestimiento ecológico, libre de PTFE, PFOA y otros tóxicos
 
 [Comprar!!!](https://www.amazon.es/dp/B073Q1R4RJ/?tag=tolees-21)
