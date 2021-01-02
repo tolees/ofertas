@@ -25,10 +25,10 @@ Tienes [JIANYE Calcetines Ciclismo Transpirable Que Absorbe Running Deporte Bici
 
 🔎:
 
-- Cómoda boca calcetín: de acuerdo con el diseño de ingeniería del cuerpo humano Refuerzo en el talón: prevenir eficazmente la caída, más adaptarse a las articulaciones de las piernas
-- Procesamiento sin costuras en el área del pie, única una costura en la parte frontal del sistema garantiza una máxima durabilidad.
-- Unidad funcional calcetín de transpirable y material antibacteriano.
-- Material: 75% algodón, 20% poliéster, 5% Spandex
 - 1 pares calcetines （Talla única）
+- Cómoda boca calcetín: de acuerdo con el diseño de ingeniería del cuerpo humano Refuerzo en el talón: prevenir eficazmente la caída, más adaptarse a las articulaciones de las piernas
+- Unidad funcional calcetín de transpirable y material antibacteriano.
+- Procesamiento sin costuras en el área del pie, única una costura en la parte frontal del sistema garantiza una máxima durabilidad.
+- Material: 75% algodón, 20% poliéster, 5% Spandex
 
 [Comprar!!!](https://www.amazon.es/dp/B075R8CSF9/?tag=tolees-21)

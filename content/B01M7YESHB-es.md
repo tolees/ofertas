@@ -25,13 +25,13 @@ Ahora mismo tienes [LG MH7265DPS Grill Smart Inverter - Microondas Grill 2 en 1 
 
 🔎:
 
+- Capacidad de 32 litros y plato interior de 36 cm de diámetro; óptimo capacidad interior en medidas estándar gracias a su distinto diseño compacto
+- Cocina hasta 1,6 veces más rápido ahorrando hasta un 28% de electricidad;
 - Microondas con Grill 2 en 1 (Microondas y Grill); microondas 1200W, Grill 1000W, Micro+Grill 1500W
-- Buena higiene y fácil limpieza interior
 - Tecnología Smart Inverter: descongela, calienta y cocina de manera uniforme
 - Mantiene el sabor y los nutrientes de tus platos al evitar la destrucción de las células
-- Capacidad de 32 litros y plato interior de 36 cm de diámetro; óptimo capacidad interior en medidas estándar gracias a su distinto diseño compacto
-- Dimensiones: 52.5 x 54,4 x 32,7 cm; Dimensiones plato interior: 36 cm
-- Cocina hasta 1,6 veces más rápido ahorrando hasta un 28% de electricidad;
 - Múltiples formas de cocinar y menús automáticos; con plato Crispy para asar y freir con menos grasa
+- Dimensiones: 52.5 x 54,4 x 32,7 cm; Dimensiones plato interior: 36 cm
+- Buena higiene y fácil limpieza interior
 
 [Visítala!!!](https://www.amazon.es/dp/B01M7YESHB/?tag=tolees-21)

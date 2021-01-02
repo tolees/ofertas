@@ -26,9 +26,9 @@ Está [Burton Prospect 2.0 Mochilas  Unisex Adulto  True Black](https://www.amaz
 ℹ️:
 
 - dual mesh water bottle pockets with compression straps; two external accessory pockets
-- internal zippered mesh pocket with key clip
-- volume: 20 liter
 - laptop compartment (33cm x 27cm x 2, 5cm); tablet sleeve (28, 5cm x 29cm)
 - adjustable sternum strap; ergonomic shoulder straps
+- internal zippered mesh pocket with key clip
+- volume: 20 liter
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07PH1JJCP/?tag=tolees-21)

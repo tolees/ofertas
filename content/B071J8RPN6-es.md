@@ -25,9 +25,9 @@ Está [ABYstyle - MARVEL - Llavero - Iron Man](https://www.amazon.es/dp/B071J8RP
 
 ℹ️:
 
-- El producto se vende en su embalaje original.
 - Los llaveros ABYstyle reproducen logotipos o personajes icónicos de películas, series de televisión, series animadas, cómics, videojuegos y mucho más.
-- Producto con licencia oficial.
 - Los llaveros miden entre 4 y 5 cm sin incluir la cadena.
+- Producto con licencia oficial.
+- El producto se vende en su embalaje original.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B071J8RPN6/?tag=tolees-21)

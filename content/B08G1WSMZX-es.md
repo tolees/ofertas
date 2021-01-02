@@ -26,8 +26,8 @@ Está [Caylus 1303 - Un clásico imprescindible](https://www.amazon.es/dp/B08G1W
 ℹ️:
 
 - Tus trabajadores se dedicarán a sus quehaceres bajo la atenta mirada del preboste. Solo así podrás reunir los recursos necesarios para construir el castillo más grande, y obtener el prestigio y los favores del rey.
-- Descubre la última versión de Caylus, el aclamado juego de tablero publicado en 2005.
 - Las reglas han sido revisadas por el equipo de desarrollo original, manteniendo algunas y modernizando otras para crear Caylus 1303.
+- Descubre la última versión de Caylus, el aclamado juego de tablero publicado en 2005.
 - Ahora las rondas transcurren rápidas y fluidas, combinando reglas sencillas con partidas siempre diferentes.
 - ¡Bienvenido a Caylus, maestro de obras! Construye granjas, aserraderos, mercados, gremios y otros edificios a lo largo de este camino.
 

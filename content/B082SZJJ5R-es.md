@@ -25,8 +25,8 @@ Tienes [adidas Galaxy 5  Running Shoe Mujer  Grey/Glory Grey/Pink Tint  38 2/3 E
 
 ℹ️:
 
-- malla superior
 - Corte regular
 - Cordones de zapatos
+- malla superior
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B082SZJJ5R/?tag=tolees-21)

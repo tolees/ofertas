@@ -25,8 +25,8 @@ Ahora mismo tienes [Little Live Pets Kissing Rollie  Multicolor  GIOCHI PREZIOSI
 
 🔎:
 
-- Sensores para interacción, reacción y reacción
-- Un pequeño perro interactivo demasiado bonito con muchas funciones
 - 6 modos de juego y más de 35 sonidos
+- Un pequeño perro interactivo demasiado bonito con muchas funciones
+- Sensores para interacción, reacción y reacción
 
 [Visítala!!!](https://www.amazon.es/dp/B07VZJ2KXY/?tag=tolees-21)
