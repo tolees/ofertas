@@ -25,10 +25,10 @@ Tienes [Ventilador de pie de miniatura Tristar VE-5952 – 25 centímetros – M
 
 🔎:
 
+- Rango de oscilación de 50 grados que permite enfriar una habitación entera
+- Uso seguro con patas antideslizantes y protección contra sobrecalentamiento
 - Fácilmente ajustable en altura de 65 hasta 85 centímetros
 - Tres ajustes de flujo de aire para su confort.
 - Potente motor de 30 W para obtener aire fresco
-- Uso seguro con patas antideslizantes y protección contra sobrecalentamiento
-- Rango de oscilación de 50 grados que permite enfriar una habitación entera
 
 [Comprar!!!](https://www.amazon.es/dp/B0074ZYFGY/?tag=tolees-21)

@@ -25,11 +25,11 @@ Tienes [Yamaha HPH-MT8 - Auriculares](https://www.amazon.es/dp/B01M74SGOL/?tag=t
 
 🔎:
 
-- Transductores de 45mm diseñados con bobinas de voz CCAW
-- Práctica bolsa de transporte incluida
 - Diseño circumaural cerrado por la parte posterior que consigue un óptimo aislamiento
 - Almohadillas de cuero sintético
-- Carcasa de ABS y brazos plegables
+- Transductores de 45mm diseñados con bobinas de voz CCAW
 - Construcción con pivote de brazo tridimensional
+- Carcasa de ABS y brazos plegables
+- Práctica bolsa de transporte incluida
 
 [Comprar!!!](https://www.amazon.es/dp/B01M74SGOL/?tag=tolees-21)

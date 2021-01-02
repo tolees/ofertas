@@ -25,9 +25,9 @@ Está [Energy Sistem Tower EU Torre de Sonido con Bluetooth True Wireless  65W  
 
 ℹ️:
 
-- - 65 W: Altavoz estéreo en forma de torre con subwoofer incorporado y una potencia real de 65 W para reproducir música en el hogar.
-- - BLUETOOTH 5.0: Sistema de sonido 2.1 en forma de torre con Bluetooth 5.0 que permite conectar tu smartphone, tablet o cualquier otro dispositivo bluetooth de forma inalámbrica.
-- - USB/ MICROSD MP3 PLAYER: Reproduce archivos MP3 desde tarjetas SD/SDHC/MMC, memorias USB con capacidad de hasta 128 GB o entrada de audio de 3,5 mm.
 - - TRUE WIRELESS STEREO: Conecta dos towers para reproducir simultáneamente cualquier canción con la tecnología True Wireless y duplica la potencia.
+- - USB/ MICROSD MP3 PLAYER: Reproduce archivos MP3 desde tarjetas SD/SDHC/MMC, memorias USB con capacidad de hasta 128 GB o entrada de audio de 3,5 mm.
+- - BLUETOOTH 5.0: Sistema de sonido 2.1 en forma de torre con Bluetooth 5.0 que permite conectar tu smartphone, tablet o cualquier otro dispositivo bluetooth de forma inalámbrica.
+- - 65 W: Altavoz estéreo en forma de torre con subwoofer incorporado y una potencia real de 65 W para reproducir música en el hogar.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08HZ7S1LX/?tag=tolees-21)

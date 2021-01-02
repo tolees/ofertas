@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft Signature Type Cover - Funda c al 29.97 % de rebaja'
-date: 2020-12-28 20:34:16
+date: 2021-01-02 00:12:52
 image: 'https://m.media-amazon.com/images/I/41QKLakQnML._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0759VQCQG/?tag=tolees-21'
 descuento: '29.97'
-average: '118.37857142857143'
+average: '114.07'
 ---
 
 Tienes [Microsoft Signature Type Cover - Funda con teclado para Surface Pro  Negro - Teclado QWERTY Español](https://www.amazon.es/dp/B0759VQCQG/?tag=tolees-21) con precio final de  98.99 EUR (original: 141.35 EUR) (29.97 %  de rebaja) aqui!

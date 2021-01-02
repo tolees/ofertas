@@ -27,10 +27,10 @@ En este momento está [LEGO Star Wars TM - Trepidante Persecución en Pasaana  S
 
 - El Treadspeeder tiene un asiento para un soldado, así como una oruga de caucho y 2 cañones laterales que disparan para fomentar el juego simbólico y dar paso a la acción más emocionante
 - Armas incluidas: espada láser azul de Rey, pistola bláster del piloto de Treadspeeder y bláster del soldado jet
-- El speeder de transporte cuenta con espacio para Rey y BB-8, y lleva una base transparente con la que realmente parece flotar
 - El elemento moldeado que representa un cohete y los propulsores del soldado jet son novedad en octubre de 2019
-- Recrea los emocionantes momentos de la película Star Wars: El Ascenso de Skywalker con este divertido juguete LEGO Star Wars para niños
 - Este set es fantástico para regalar con motivo de un cumpleaños, por Navidad o en cualquier ocasión en la que quieras hacer feliz a alguien con un obsequio inspirado en el universo Star Wars
+- Recrea los emocionantes momentos de la película Star Wars: El Ascenso de Skywalker con este divertido juguete LEGO Star Wars para niños
 - El speeder de transporte mide más de 10 cm de altura, 19 cm de longitud y 11 cm de ancho
+- El speeder de transporte cuenta con espacio para Rey y BB-8, y lleva una base transparente con la que realmente parece flotar
 
 [Aquí!!!](https://www.amazon.es/dp/B07ND6C3RK/?tag=tolees-21)

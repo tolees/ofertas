@@ -25,10 +25,10 @@ Está [Mr. Wonderful Mister Bolso Bandolera  35 cm  Negro](https://www.amazon.es
 
 ℹ️:
 
-- Medidas del bolso bandolera: 35 x 27 x 7 cm
-- Mister Collection de Mr; wonderful
-- Bolso bandolera negra - Make it work (ENG)
-- No lavar (las manchas pueden eliminarse frotando suavemente con un paño húmedo)
 - Bolso tipo bandolera para hombres, realizado en poliéster, algodón y detalles en PU; cuidados
+- Mister Collection de Mr; wonderful
+- No lavar (las manchas pueden eliminarse frotando suavemente con un paño húmedo)
+- Medidas del bolso bandolera: 35 x 27 x 7 cm
+- Bolso bandolera negra - Make it work (ENG)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07JJ6DFBN/?tag=tolees-21)
