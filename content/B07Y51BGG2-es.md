@@ -25,10 +25,10 @@ Ahora mismo tienes [AKSEA Ratón Inalámbrico  2.4GHz Wireless Ratón Gaming Opt
 
 🔎:
 
-- 【Diseño Ergonómico】Diseño asimétrico, adaptación a la curva de la palma, uso cómodo durante todo el día, no es fácil sentirse cansado,Adecuado para bibliotecas, cafés, oficinas, salas de conferencias, etc.
-- 【Plug and Play】La tecnología de transmisión bidireccional inalámbrica de 2.4G es más segura y precisa, la distancia de transmisión puede alcanzar los 10 metros (aproximadamente 30 pies). Puede evitar efectivamente el bluetooth, la interferencia de WIFI, la libertad de movimiento.
 - 【Operation Fácil Operación】Viene con un nano receptor de mouse, 3 niveles de DPI ajustable (800-1200-1600 DPI) le permiten controlar la velocidad del mouse libremente, la tecnología de infrarrojos garantiza una trayectoria suave en una variedad de superficies. El pequeño receptor USB ocupa un espacio mínimo cuando se conecta a su computadora.
-- 【 Auto Dormir & Super ahorro de energía 】Hasta 12 meses de vida útil de la batería prácticamente elimina la necesidad de cambiar las baterías (NO INCLUIDAS).Si el ratón no se utiliza durante más de 8 minutos, se activa al modo de ahorro de energía para ahorrar energía. Haga clic en cualquier botón para reiniciarlo.
+- 【Plug and Play】La tecnología de transmisión bidireccional inalámbrica de 2.4G es más segura y precisa, la distancia de transmisión puede alcanzar los 10 metros (aproximadamente 30 pies). Puede evitar efectivamente el bluetooth, la interferencia de WIFI, la libertad de movimiento.
 - 【Sistemas compatibles】 Compatible con la mayoría de los sistemas, incluyendo Windows 2000/7 / 8 / 10 / XP/Vista , Mac and Linux.Adecuado para laptop, PC, Macbook y otros dispositivos.[Diseño silencioso] con sensor avanzado proporciona clics silenciosos, lo que lo hace ideal para cualquier ocasión en la que no quiera molestar a los demás. Tales como bibliotecas, oficinas u otras ocasiones públicas.
+- 【Diseño Ergonómico】Diseño asimétrico, adaptación a la curva de la palma, uso cómodo durante todo el día, no es fácil sentirse cansado,Adecuado para bibliotecas, cafés, oficinas, salas de conferencias, etc.
+- 【 Auto Dormir & Super ahorro de energía 】Hasta 12 meses de vida útil de la batería prácticamente elimina la necesidad de cambiar las baterías (NO INCLUIDAS).Si el ratón no se utiliza durante más de 8 minutos, se activa al modo de ahorro de energía para ahorrar energía. Haga clic en cualquier botón para reiniciarlo.
 
 [Visítala!!!](https://www.amazon.es/dp/B07Y51BGG2/?tag=tolees-21)

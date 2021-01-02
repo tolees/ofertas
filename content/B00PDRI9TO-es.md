@@ -25,8 +25,8 @@ Tienes [Scottex Megarollo Papel Higiénico - 9 Rollos](https://www.amazon.es/dp/
 
 🔎:
 
-- Brand - Scottex
 - Ref - 1147-38544
+- Brand - Scottex
 - Content - 9 rolls
 
 [Comprar!!!](https://www.amazon.es/dp/B00PDRI9TO/?tag=tolees-21)

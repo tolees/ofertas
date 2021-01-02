@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.87 % en SOS Arroz Redondo - 1 kg'
-date: 2020-11-18 21:09:45
+date: 2021-01-02 22:37:54
 image: 'https://m.media-amazon.com/images/I/4188mfBa19L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00BL4IK5Q/?tag=tolees-21'
 descuento: '34.87'
+average: '0.99'
 ---
 
 Tienes [SOS Arroz Redondo - 1 kg](https://www.amazon.es/dp/B00BL4IK5Q/?tag=tolees-21) con un 34.87 % de descuento con precio de oferta de 0.99 EUR (original: 1.52 EUR) en el siguiente enlace!
@@ -24,5 +25,10 @@ Tienes [SOS Arroz Redondo - 1 kg](https://www.amazon.es/dp/B00BL4IK5Q/?tag=tolee
 
 ℹ️:
 
+- No tienes que ser tu madre para comer un buen arroz, solo tienes que utilizar su mismo arroz
+- Sin gluten
+- Envase 100% papel, garantía de frescura
+- Siguiendo nuestro compromiso con la salud y el planeta, desde SOS hemos realizado el primer cálculo certificado de huella ambiental sobre productos de arroz
+- Arroz redondo con el que aprendimos a cocinar, el arroz de nuestras madres
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00BL4IK5Q/?tag=tolees-21)
