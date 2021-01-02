@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 57.54 % en DKNY Be Delicious Fresh Blossom - Agua d'
-date: 2021-01-01 04:38:16
+date: 2021-01-02 04:43:38
 image: 'https://m.media-amazon.com/images/I/41oOMqY4H1L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0036FTF5M/?tag=tolees-21'
 descuento: '57.54'
-average: '34.60531249999998'
+average: '34.631627906976725'
 ---
 
 Tienes [DKNY Be Delicious Fresh Blossom - Agua de perfume spray  100 ml](https://www.amazon.es/dp/B0036FTF5M/?tag=tolees-21) con un 57.54 % de descuento con precio de oferta de 38.0 EUR (original: 89.5 EUR) en el siguiente enlace!
@@ -25,8 +25,8 @@ Tienes [DKNY Be Delicious Fresh Blossom - Agua de perfume spray  100 ml](https:/
 
 ℹ️:
 
-- Marca: Donna Karan
 - Productos de belleza y el cuidado personal
 - Tipo de producto: Agua de perfume
+- Marca: Donna Karan
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0036FTF5M/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Repsol 543050 Aceite DE Motor Elite Long al 21.05 % de rebaja'
-date: 2021-01-01 04:25:05
+date: 2021-01-02 04:39:19
 image: 'https://m.media-amazon.com/images/I/41yjOwFm0ML._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00BFWNV4Y/?tag=tolees-21'
 descuento: '21.05'
-average: '28.461553784860552'
+average: '28.46747035573122'
 ---
 
 Tienes [Repsol 543050 Aceite DE Motor Elite Long Life 50700/50400 5W30 5 litros  Multicolor  5 L](https://www.amazon.es/dp/B00BFWNV4Y/?tag=tolees-21) con precio final de  29.21 EUR (original: 37.0 EUR) (21.05 %  de rebaja) aqui!
