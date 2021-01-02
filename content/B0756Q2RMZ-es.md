@@ -25,11 +25,11 @@ Ahora mismo tienes [Olympus OM-D E-M10 Mark III Kit  Cámara de Sistema Micro Cu
 
 🔎:
 
-- Fácil conectividad con WLAN incorporada: comparta momentos preciosos con amigos y familiares al instante
-- Óptima movilidad gracias a su peso ligero y su diseño compacto, así como a una amplia gama de objetivos de alta calidad
-- Estabilización de imagen de cinco ejes integrada con desplazamiento del sensor para obtener vídeos y fotos nítidas y claras sin vibración
 - Sistema de eliminación de polvo a través de un silencioso filtro de ondas sónicas
-- Óptimo procesamiento y carcasa compacta
+- Estabilización de imagen de cinco ejes integrada con desplazamiento del sensor para obtener vídeos y fotos nítidas y claras sin vibración
+- Óptima movilidad gracias a su peso ligero y su diseño compacto, así como a una amplia gama de objetivos de alta calidad
+- Fácil conectividad con WLAN incorporada: comparta momentos preciosos con amigos y familiares al instante
 - Una calidad de imagen óptima con imágenes muy nítidas hasta los bordes de la imagen
+- Óptimo procesamiento y carcasa compacta
 
 [Visítala!!!](https://www.amazon.es/dp/B0756Q2RMZ/?tag=tolees-21)

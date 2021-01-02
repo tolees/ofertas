@@ -25,10 +25,10 @@ Tienes [LIANQI Fashion 1Pcs Durable DIY Stainless Steel Vacuum Flasks Travel Cof
 
 ℹ️:
 
-- Fascinating details such as the image stabilisation switch, autofocus switch, distance information window and technical information like aperture size could even fool a professional into believing this cup is a genuine camera lens.
 - These stunning camera lens cups are the perfect gift for the photography enthusiast in your life.
+- They are built to look practically identical to one of the most recognisable camera lens designs.
+- Fascinating details such as the image stabilisation switch, autofocus switch, distance information window and technical information like aperture size could even fool a professional into believing this cup is a genuine camera lens.
 - The details really make this product shine, 1:1 size having every part of a classic camera lens replicated to an incredible standard.
 - Kick start your day with a coffee in your professional camera lens cup.
-- They are built to look practically identical to one of the most recognisable camera lens designs.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08L39RT5K/?tag=tolees-21)

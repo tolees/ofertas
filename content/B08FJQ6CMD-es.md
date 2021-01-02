@@ -25,7 +25,7 @@ Está [Ancestors Legacy - Day One Edition](https://www.amazon.es/dp/B08FJQ6CMD/?
 
 ℹ️:
 
-- Banda Sonora Digital
 - Libro de arte
+- Banda Sonora Digital
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08FJQ6CMD/?tag=tolees-21)

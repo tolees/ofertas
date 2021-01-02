@@ -25,10 +25,10 @@ Ahora mismo tienes [KELITCH Lencería para Mujer Chemise Babydoll Cómoda Ropa d
 
 🔎:
 
-- Material suave y amigable, cómodo y transpirable.
-- Estilo de moda ajustable.
-- Ocasiones: un pijama cómodo y transpirable.
 - 90% poliéster, 10% elastano
 - Elección perfecta para la vida informal, vacaciones, aniversarios, regalos para vacaciones, etc.
+- Estilo de moda ajustable.
+- Ocasiones: un pijama cómodo y transpirable.
+- Material suave y amigable, cómodo y transpirable.
 
 [Visítala!!!](https://www.amazon.es/dp/B087PDXDDY/?tag=tolees-21)

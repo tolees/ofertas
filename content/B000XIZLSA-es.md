@@ -26,9 +26,9 @@ Tienes [Knipex 7656090250 Tenazas bombas agua  Multicolor](https://www.amazon.es
 ℹ️:
 
 - Mordazas con dientes adicionalmente templados, dureza aprox. de los dientes 61 HRC: poco desgaste y gran seguridad en el agarre
-- Ajuste preciso para adaptarse optimamente a diversos tamaños de piezas y para una posición ergonómica del mango
-- Articulación machihembrada: gran estabilidad por la doble guía
 - Auto-retención en tuberías y tuercas, agarre perfecto a la pieza con el mínimo esfuerzo
+- Articulación machihembrada: gran estabilidad por la doble guía
+- Ajuste preciso para adaptarse optimamente a diversos tamaños de piezas y para una posición ergonómica del mango
 - Ajuste automático mediante pulsación de botón directamente en la pieza de trabajo
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000XIZLSA/?tag=tolees-21)

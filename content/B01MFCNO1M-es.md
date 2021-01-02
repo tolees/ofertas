@@ -25,9 +25,9 @@ Está [GHF - GHF Cascara Sagrada 100 comprimidos 500 mg](https://www.amazon.es/d
 
 ℹ️:
 
-- De la marca Ghf
-- También reduce la absorción de líquido y electrolitos
-- Mejora el extreñimiento
 - Laxante estimulante
+- De la marca Ghf
+- Mejora el extreñimiento
+- También reduce la absorción de líquido y electrolitos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01MFCNO1M/?tag=tolees-21)

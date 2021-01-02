@@ -25,7 +25,7 @@ En este momento está [Desigual Accessories PU Long Wallet  Largo Walet. para Mu
 
 🔎:
 
-- Desigual; accessories; wallets; long wallet; blue
 - Blue
+- Desigual; accessories; wallets; long wallet; blue
 
 [Aquí!!!](https://www.amazon.es/dp/B083YGZBSL/?tag=tolees-21)

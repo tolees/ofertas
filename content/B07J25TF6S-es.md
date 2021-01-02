@@ -25,10 +25,10 @@ Está [Bosch Professional 1600A016BF Set de 6 destornilladores  softgrip  en caj
 
 ℹ️:
 
-- Items included: 2 x PH 125 mm, 1 x PH 100 mm, 1 x SL6.5 125 mm, 1 x SL5.5 100 mm, 1 x SL4.5 100 mm, 1 x SL3.5 75 mm, plastic half inlay for L-BOXX, box
-- The six-part screwdriver set from the hand tool range for screwdriving, chiselling and loosening tightly-fixed screws
-- Excellent handling thanks to ergonomic design and soft-grip zone
 - Extremely robust thanks to universal stainless steel blade, solid steel cap and hardened tip
 - Highest possible torques due to integrated hexagon head socket for open-ended spanners
+- The six-part screwdriver set from the hand tool range for screwdriving, chiselling and loosening tightly-fixed screws
+- Excellent handling thanks to ergonomic design and soft-grip zone
+- Items included: 2 x PH 125 mm, 1 x PH 100 mm, 1 x SL6.5 125 mm, 1 x SL5.5 100 mm, 1 x SL4.5 100 mm, 1 x SL3.5 75 mm, plastic half inlay for L-BOXX, box
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07J25TF6S/?tag=tolees-21)
