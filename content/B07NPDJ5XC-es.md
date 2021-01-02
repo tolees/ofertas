@@ -25,10 +25,10 @@ Tienes [Elite99 Esmaltes Semipermanentes de Uñas en Gel UV LED  6pcs Kit de Esm
 
 ℹ️:
 
-- Esmales semipermanentes durables: Ofrece una larga duración de 10-14 días.
-- Elite99 6 colores de esmalte semipermanente en gel de 10ml.
 - Uso amplio: Esmaltes en gel que mantienen las uñas impecables y flexibles, no se parten ni se escaman. Apto para uñas naturales, artificiales y acrílicas.
+- Elite99 6 colores de esmalte semipermanente en gel de 10ml.
 - Lámpara requerida: hay que secar el esmalte en gel bajo lámpara uv o led.
+- Esmales semipermanentes durables: Ofrece una larga duración de 10-14 días.
 - Resina no tóxica: Esmalte en gel de alta calidad con leve olor y buena tenacidad. Colores resistentes y flexibles, se adhiere a la uña de manera rápida y fuerte, con un brillo permanente y espectacular.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07NPDJ5XC/?tag=tolees-21)

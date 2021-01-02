@@ -25,8 +25,8 @@ Tienes [adidas Duramo 9  Zapatillas para Correr Mujer  Dash Grey/Pink Spirit/FTW
 
 ℹ️:
 
+- Zapatillas de running
 - Empeine de malla y ante suave.
 - Amortiguación
-- Zapatillas de running
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07SM5LFZB/?tag=tolees-21)
