@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLANTS VS ZOMBIES GARDEN WARFARE 2 - Sta al 66.53 % de rebaja'
-date: 2020-12-22 11:54:20
+date: 2021-01-02 12:09:18
 image: 'https://m.media-amazon.com/images/I/51-va-37c6L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NC6JV9D/?tag=tolees-21'
 descuento: '66.53'
-average: '4.391538461538461'
+average: '4.698'
 ---
 
 Tienes [PLANTS VS ZOMBIES GARDEN WARFARE 2 - Standard | Código Origin para PC](https://www.amazon.es/dp/B07NC6JV9D/?tag=tolees-21) con precio final de  6.69 EUR (original: 19.99 EUR) (66.53 %  de rebaja) aqui!

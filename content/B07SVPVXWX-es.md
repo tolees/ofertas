@@ -25,12 +25,12 @@ Ahora mismo tienes [Geox D Nebula B  Zapatillas sin Cordones Mujer  Negro  Black
 
 🔎:
 
-- Cierre: Sin cordones
-- Material exterior: Sintético
 - Tipo de tacón: Plano
-- Material de la suela: Sintético
+- Cierre: Sin cordones
 - Altura del tacón: 3 centímetros
+- Material exterior: Sintético
 - Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
 - Revestimiento: Malla
+- Material de la suela: Sintético
 
 [Visítala!!!](https://www.amazon.es/dp/B07SVPVXWX/?tag=tolees-21)

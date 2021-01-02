@@ -25,9 +25,9 @@ Está [Mars Gaming MCLW  caja PC  cristal templado  ventilador 12cm  46 efectos 
 
 ℹ️:
 
-- Estructura atx optimizada con espacio ideal para pc de alto rendimiento
-- Semitorre gaming atx con ventana lateral de cristal templado en color blanco
-- Panel lateral y forntal de cristal templado
 - Franja led especial led rgb frontal y ventilador trasero rgb core
+- Panel lateral y forntal de cristal templado
+- Semitorre gaming atx con ventana lateral de cristal templado en color blanco
+- Estructura atx optimizada con espacio ideal para pc de alto rendimiento
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07YSWG31W/?tag=tolees-21)

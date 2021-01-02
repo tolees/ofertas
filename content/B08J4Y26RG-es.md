@@ -25,9 +25,9 @@ Está [PACK X2 Old Spice Original Loción Aftershave  100 ml](https://www.amazon
 
 ℹ️:
 
-- El aftershave de Old Spice calma, estimula y refresca
-- La fragancia de Old Spice te hará inolvidable, como si fueras el centro del mundo
 - La loción aftershave de Old Spice contiene propiedades antisépticas que ayudan a cicatrizar pequenos cortes y rasgunos causados durante el afeitado
+- La fragancia de Old Spice te hará inolvidable, como si fueras el centro del mundo
 - Un aftershave poderoso y revitalizante para los hombres que quieren sentirse seguros de sí mismos. Siempre
+- El aftershave de Old Spice calma, estimula y refresca
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08J4Y26RG/?tag=tolees-21)

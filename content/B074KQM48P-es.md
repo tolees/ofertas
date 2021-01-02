@@ -25,9 +25,9 @@ En este momento está [Philips Viva Collection Tostadora  950 W  1 Liter  INOX  
 
 🔎:
 
-- Tostador con ranura larga de acero inoxidable con ocho ajustes y una ranura extraancha paraobtener resultados uniformes y dorados
 - Modo para descongelar con botón e indicador LED
 - Ranura con centrado automático para obtener unos resultados uniformes por ambos lados
+- Tostador con ranura larga de acero inoxidable con ocho ajustes y una ranura extraancha paraobtener resultados uniformes y dorados
 - Ranura extraancha para rebanadas de pan gruesas o finas
 - 8 ajustes de tostado para todos los gustos
 

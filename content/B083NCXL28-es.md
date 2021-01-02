@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI Prestige 14 A10RB-020ES - Ordenador  con un 16.34 % de descuento'
-date: 2021-01-01 02:45:36
+date: 2021-01-02 12:14:05
 image: 'https://m.media-amazon.com/images/I/31Kqdo3J+OL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B083NCXL28/?tag=tolees-21'
 descuento: '16.34'
-average: '1198.1953846153842'
+average: '1196.2721428571424'
 ---
 
 En este momento está [MSI Prestige 14 A10RB-020ES - Ordenador portátil de 14" FullHD  Intel Core i7-10510U  16GB RAM  1 TB SSD  Nvidia MX250-2GB  Windows 10 Pro  blanco - Teclado QWERTY Español](https://www.amazon.es/dp/B083NCXL28/?tag=tolees-21) a 1171.27 EUR (original: 1399.99 EUR) (16.34 %  de descuento) en el siguiente enlace!
@@ -25,11 +25,11 @@ En este momento está [MSI Prestige 14 A10RB-020ES - Ordenador portátil de 14" 
 
 🔎:
 
-- Almacenamiento 1TB SSD NVMe PCIe Gen3x4
-- Procesador Intel Core i7-10510U (1.80Ghz,8MB)
-- Sistema operativo Windows 10 Pro without ODD
 - Pantalla de 14" FullHD (1920*1080), IPS-Level 60Hz 72%NTSC Thin Bezel, close to 100%sRGB
-- Memoria RAM 16GB DDR4 2133Mhz
+- Almacenamiento 1TB SSD NVMe PCIe Gen3x4
+- Sistema operativo Windows 10 Pro without ODD
 - Tarjeta Gráfica GeForce MX250 2GB GDDR5
+- Memoria RAM 16GB DDR4 2133Mhz
+- Procesador Intel Core i7-10510U (1.80Ghz,8MB)
 
 [Aquí!!!](https://www.amazon.es/dp/B083NCXL28/?tag=tolees-21)

@@ -25,10 +25,10 @@ En este momento está [Tefal - Sartén cerámica All-in-One  Sartén 3 en 1 Comp
 
 🔎:
 
-- Nuestro compromiso es cocinar sano pensando en el medio ambiente. Nuestro objetivo es hacer productos duraderos, preservando la salud de nuestro planeta, gracias a productos reciclables con un revestimiento antiadherente seguro (sin PFOA, sin plomo, sin cadmio)
-- Esta sartén es 3 en 1 gracias a su gran versatilidad, pudiendo reemplazar 3 productos de cocina, sirve como molde para pasteles, así como recipiente para usar en el horno y como sartén.
 - Extra resistente. Cubierto con una superficie mineral dura, la sartén todo en uno es extra resistente y fácil de limpiar
-- Apto para horno hasta 250 °C. El revestimiento de cerámica extra resistente de la sartén soporta temperaturas extremas de hasta 250 ° C
 - Compatible con todas las placas de cocina gas, eléctrica, cerámica e inducción
+- Esta sartén es 3 en 1 gracias a su gran versatilidad, pudiendo reemplazar 3 productos de cocina, sirve como molde para pasteles, así como recipiente para usar en el horno y como sartén.
+- Nuestro compromiso es cocinar sano pensando en el medio ambiente. Nuestro objetivo es hacer productos duraderos, preservando la salud de nuestro planeta, gracias a productos reciclables con un revestimiento antiadherente seguro (sin PFOA, sin plomo, sin cadmio)
+- Apto para horno hasta 250 °C. El revestimiento de cerámica extra resistente de la sartén soporta temperaturas extremas de hasta 250 ° C
 
 [Aquí!!!](https://www.amazon.es/dp/B08FMRB78X/?tag=tolees-21)

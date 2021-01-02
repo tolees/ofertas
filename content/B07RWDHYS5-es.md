@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.03 % en Mr. Wonderful Set de Escritura para arra'
-date: 2020-12-27 19:02:55
+date: 2021-01-02 12:14:53
 image: 'https://m.media-amazon.com/images/I/41wc2EYYPTL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RWDHYS5/?tag=tolees-21'
 descuento: '30.03'
-average: '13.004999999999999'
+average: '12.915999999999999'
 ---
 
 Tienes [Mr. Wonderful Set de Escritura para arrasar a tu Ritmo y con  Multicolor  Talla Única](https://www.amazon.es/dp/B07RWDHYS5/?tag=tolees-21) con un 30.03 % de descuento con precio de oferta de 12.56 EUR (original: 17.95 EUR) en el siguiente enlace!
@@ -27,8 +27,8 @@ Tienes [Mr. Wonderful Set de Escritura para arrasar a tu Ritmo y con  Multicolor
 
 - Medidas con pack: 14,5 x 21,5 x 3 cm
 - Materiales: Metal para los elementos de escritura, PU para el estuche y cartón y PVC para el packaging.
-- Medidas del producto: 13,8 x 1 cm
 - Peso: 233 gr
 - Diseñado con amor en Barcelona
+- Medidas del producto: 13,8 x 1 cm
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07RWDHYS5/?tag=tolees-21)

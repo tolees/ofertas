@@ -25,9 +25,9 @@ Tienes [Neceser Pepe Jeans JASP Adaptable  Marrón  26x16x12 cm](https://www.ama
 
 🔎:
 
-- Bolsillo frontal para guardar los accesorios más pequeños
-- Asa lateral
 - De joumma bags
+- Asa lateral
+- Bolsillo frontal para guardar los accesorios más pequeños
 - Neceser de 26 cm x 16 cm x 12 cm fabricado en algodón y detalles de piél sintética
 - Banda trasera para adaptarlo al trolley cuando viajes y ahorrar espacio dentro de la maleta
 
