@@ -26,7 +26,7 @@ Tienes [Gigabyte B450 - Placa base AORUS Pro Socket AM4  color negro](https://ww
 ℹ️:
 
 - Tecnología AMD StoreMI
-- Máxima durabilidad con Dual M.2
 - Excelente rendimiento de AORUS
+- Máxima durabilidad con Dual M.2
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07G2N5SST/?tag=tolees-21)

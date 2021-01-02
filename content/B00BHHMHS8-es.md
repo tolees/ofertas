@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Elizabeth Arden 5th Avenue NYC Eau de Pa con un 48.21 % de descuento'
-date: 2021-01-01 04:27:14
+date: 2021-01-02 08:15:33
 image: 'https://m.media-amazon.com/images/I/411AcobWjKL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ En este momento está [Elizabeth Arden 5th Avenue NYC Eau de Parfum 75 ml](https
 
 🔎:
 
-- Notas de corazón: grosellas negras, jazmín, peonía y flor del ciruelo
 - Notas principales: orientales, florales
-- Notas de salida: bergamota, durazno (melocotón) y manzana
 - Notas de fondo son ámbar, vainilla, haba tonka, almizcle y sándalo
+- Notas de salida: bergamota, durazno (melocotón) y manzana
+- Notas de corazón: grosellas negras, jazmín, peonía y flor del ciruelo
 
 [Aquí!!!](https://www.amazon.es/dp/B00BHHMHS8/?tag=tolees-21)

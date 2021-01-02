@@ -25,10 +25,10 @@ Tienes [Biwond JoyBox Karaoke Altavoz 10W + Micrófono  Bluetooth TWS  Mando IR 
 
 🔎:
 
-- 【Batería】: Incluye Batería Interna de 1.2 mAh y Ranura para Segunda Batería Opcional.
-- 【Portátil】: Podrás llevártelo a donde quieras y cuando quieras gracias a su asa, este excelente altavoz presenta un tamaño pequeño y manejable, lo que lo convierte en el karaoke que siempre quisiste tener.
 - 【TWS】: Multiplica la potencia al doble. Con la función Bluetooth TWS podrás emparejar dos dispositivos de audio por separado.
-- 【Compatible】: Escucha la radio FM, y reproduce desde USB o SD tus canciones para aprovechar al máximo sus funciones.
+- 【Batería】: Incluye Batería Interna de 1.2 mAh y Ranura para Segunda Batería Opcional.
 - 【Karaoke】: Atrévete a cantar sin parar tus canciones favoritas. Gracias a su micrófono incluido podrás poner a prueba tu voz con tu familia y amigos.
+- 【Portátil】: Podrás llevártelo a donde quieras y cuando quieras gracias a su asa, este excelente altavoz presenta un tamaño pequeño y manejable, lo que lo convierte en el karaoke que siempre quisiste tener.
+- 【Compatible】: Escucha la radio FM, y reproduce desde USB o SD tus canciones para aprovechar al máximo sus funciones.
 
 [Comprar!!!](https://www.amazon.es/dp/B01IVST09Y/?tag=tolees-21)

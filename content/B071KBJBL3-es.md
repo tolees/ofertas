@@ -25,9 +25,9 @@ En este momento está [Festina Reloj Cronógrafo para Hombre de Cuarzo con Corre
 
 🔎:
 
-- Pantalla: analógica
 - Material: acero inoxidable
 - Cristal: cristal mineral
+- Pantalla: analógica
 - Material de la correa: caucho
 - Estilo: pulsera
 

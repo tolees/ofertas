@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 23.59 % en Lay s - Patatas Fritas Sabor Campesinas '
-date: 2020-12-28 12:53:02
+date: 2021-01-02 08:30:43
 image: 'https://m.media-amazon.com/images/I/51-WWIfQi2L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Tienes [Lay s - Patatas Fritas Sabor Campesinas - 250 gr](https://www.amazon.es/
 
 ℹ️:
 
-- Patatas fritas con aromas vegetales
 - Envasado en atmosfera protectora
+- Patatas fritas con aromas vegetales
 - Sin aceite de palma
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01IUWAXL0/?tag=tolees-21)
