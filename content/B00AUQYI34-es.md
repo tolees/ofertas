@@ -25,10 +25,10 @@ Tienes [Gullón - Barquillos sin azúcar con chocolate Pack de 3  180g](https://
 
 🔎:
 
-- Sin aceite de palma. Producto elaborado con aceite de girasol alto oleico.
 - Los barquillos Diet Nature son perfectos para cualquier momento del día.
+- Sin aceite de palma. Producto elaborado con aceite de girasol alto oleico.
 - Barquillos con varias capas rellenas de crema de chocolate, sin azúcares ni grasas hidrógenas
-- Su alto contenido en fibra convierte estos barquillos en un tentempié perfecto.
 - Fabricado por Galletas Gullón.
+- Su alto contenido en fibra convierte estos barquillos en un tentempié perfecto.
 
 [Comprar!!!](https://www.amazon.es/dp/B00AUQYI34/?tag=tolees-21)

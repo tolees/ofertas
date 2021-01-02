@@ -25,10 +25,10 @@ En este momento está [POP! Deluxe: Game of Thrones S10: Jon Snow Sitting on Iro
 
 🔎:
 
+- De la colección game of thrones, jon snow como figura exclusiva de vinilo pop deluxe de funko
+- Juguete del año 2018
+- Game of thrones s10
 - Funko pop deluxe
 - Jon snow sitting on iron throne
-- Juguete del año 2018
-- De la colección game of thrones, jon snow como figura exclusiva de vinilo pop deluxe de funko
-- Game of thrones s10
 
 [Aquí!!!](https://www.amazon.es/dp/B07KPK663S/?tag=tolees-21)

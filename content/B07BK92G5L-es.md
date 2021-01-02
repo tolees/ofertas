@@ -25,9 +25,9 @@ Tienes [Gorjuss CK-01A-G Set Regalo Muñeca y Despertador You Brought Me Love](h
 
 ℹ️:
 
-- Con luz para poder ver la hora a oscuras
 - Producto Oficial Gorjuss
-- Con luz para poder ver la hora a oscuras
 - Set de regalo de muñeca de trapo y reloj despertador
+- Con luz para poder ver la hora a oscuras
+- Con luz para poder ver la hora a oscuras
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BK92G5L/?tag=tolees-21)

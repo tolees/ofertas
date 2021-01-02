@@ -25,10 +25,10 @@ Tienes [Smartwares 1000914 Farol clásico con conector E27  adecuado para bombil
 
 🔎:
 
-- Farola impermeable, óptima para uso exterior
+- Fabricada en aluminio fundido de alta calidad y cristal, altura de 170 cm
 - Decore a su entrada o jardín un diseño rural clásico con la farola Classico
+- Farola impermeable, óptima para uso exterior
 - Farol con conector E27, adecuado para bombillas de hasta 60 W
 - Fácil de instalar con el manual de instrucciones y el kit de instalación
-- Fabricada en aluminio fundido de alta calidad y cristal, altura de 170 cm
 
 [Comprar!!!](https://www.amazon.es/dp/B005MQC9HE/?tag=tolees-21)

@@ -25,8 +25,8 @@ Ahora mismo tienes [Bosch PST 650 - Sierra de calar 230V  500 W  en maletín ](h
 
 🔎:
 
-- Vibraciones mínimas y trabajo seguro y cómodo con el sistema "Low Vibration" de Bosch con compensación lineal de masas y empuñadura ergonómica antivibraciones Softgrip
 - Potente motor de 500 W y profundidad de corte de 65 mm en madera: permite realizar con facilidad incluso los trabajos más pesados
+- Vibraciones mínimas y trabajo seguro y cómodo con el sistema "Low Vibration" de Bosch con compensación lineal de masas y empuñadura ergonómica antivibraciones Softgrip
 - La función de soplado de aire (conexión adicional) garantiza una vista clara de la línea de corte en todo momento
 - Incluye: Sierra de Calar PST 650, 1 hoja de sierra T 144 para madera, maletín
 - Nadie se lo pone más fácil: tamaño compacto, peso reducido y manejabilidad excepcional que garantizan gran comodidad al usuario y un control máximo de la herramienta

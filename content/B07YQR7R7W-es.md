@@ -25,10 +25,10 @@ Ahora mismo tienes [AUKEY USB C Hub 8 en 1 Adaptador USB Type C 4K HDMI  Etherne
 
 🔎:
 
-- Video Ultra HD: El puerto HDMI emite resoluciones de hasta 4K @ 30Hz a una pantalla conectada
 - Contenido del paquete: AUKEY CB-C71 Link PD Pro Hub USB-C, bolsa de transporte, manual de usuario
 - Concentrador USB-C 8 en 1: Convierta un solo puerto USB-C en seis puertos y dos ranuras para tarjetas para transferencia de datos, expansión de pantalla, conexión a Internet y carga
 - Transferencia de datos rápida y conexión de red: tres puertos USB 3. 1 Gen 1 (USB 3. 0) y ranuras para tarjetas SD y micros, todas admiten velocidades de transferencia de datos de hasta 5 Gbps. El puerto Gigabit Ethernet admite velocidades de red de 10/100/1000 Mbps
+- Video Ultra HD: El puerto HDMI emite resoluciones de hasta 4K @ 30Hz a una pantalla conectada
 - Carga conveniente: El puerto USB Power Delivery de 100 W mantiene su MacBook Pro de 15 pulgadas con Thunderbolt 3 u otra computadora portátil compatible totalmente cargada (utilizando el adaptador de alimentación original de su dispositivo) mientras utiliza todas las demás funciones del concentrador
 
 [Visítala!!!](https://www.amazon.es/dp/B07YQR7R7W/?tag=tolees-21)

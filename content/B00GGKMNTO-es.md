@@ -25,13 +25,13 @@ Tienes [Bosch Professional 2607017195 Bosch V-Line Titanio - Maletín de 91 unid
 
 ℹ️:
 
-- Vida útil hasta 6 veces superior si se utiliza una refrigeración adecuada
-- Incluye: 1 destornillador; 1 barra imantada; 11 brocas para metal; 11 para piedra; 8 para madera; 49 puntas de atornillar; 8 llaves de vaso; 1 portapuntas universal magnético y 1 avellanador
 - Práctico maletín con una buena disposición del contenido
-- 10 brocas para piedra Ø 3-10 mm con punta de metal duro resistente a la percusión
-- Soporte universal magnético para un cambio rápido de las puntas de atornillar
 - Aviso de seguridad: utilizar la protección correspondiente y necesaria en función de la aplicación
-- 8 brocas para madera Ø 3-10 mm con punta centradora para un inicio del taladrado en el punto exacto
+- Soporte universal magnético para un cambio rápido de las puntas de atornillar
+- Incluye: 1 destornillador; 1 barra imantada; 11 brocas para metal; 11 para piedra; 8 para madera; 49 puntas de atornillar; 8 llaves de vaso; 1 portapuntas universal magnético y 1 avellanador
 - 45 puntas de atornillar con cabeza y de ranura longitudinal con todos los tamaños convencionales
+- 10 brocas para piedra Ø 3-10 mm con punta de metal duro resistente a la percusión
+- Vida útil hasta 6 veces superior si se utiliza una refrigeración adecuada
+- 8 brocas para madera Ø 3-10 mm con punta centradora para un inicio del taladrado en el punto exacto
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00GGKMNTO/?tag=tolees-21)

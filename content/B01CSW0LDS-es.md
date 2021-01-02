@@ -25,8 +25,8 @@ Tienes [Prince Beach Waikiki  Rojo/Blanco  Talla Única](https://www.amazon.es/d
 
 ℹ️:
 
-- Buenos y diversos materiales y tecnologías
 - Pala padel
 - Pala profesional
+- Buenos y diversos materiales y tecnologías
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01CSW0LDS/?tag=tolees-21)

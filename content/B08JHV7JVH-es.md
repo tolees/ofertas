@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marvel´s Spider-Man: Miles Morales Ultim al 31.37 % de descuento'
-date: 2020-12-30 16:24:18
+date: 2021-01-02 10:12:45
 image: 'https://m.media-amazon.com/images/I/41-edR-GLqL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08JHV7JVH/?tag=tolees-21'
 descuento: '31.37'
-average: '70.52573643410852'
+average: '70.28717557251908'
 ---
 
 Ahora mismo tienes [Marvel´s Spider-Man: Miles Morales Ultimate Edition](https://www.amazon.es/dp/B08JHV7JVH/?tag=tolees-21) a 54.9 EUR (original: 79.99 EUR) (31.37 %  de descuento) en el siguiente enlace!

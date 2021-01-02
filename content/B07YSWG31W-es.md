@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mars Gaming MCLW  caja PC  cristal templ al 20.17 % de descuento'
-date: 2020-12-27 19:56:41
+date: 2021-01-02 10:16:50
 image: 'https://m.media-amazon.com/images/I/41GuuCoiCNL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Está [Mars Gaming MCLW  caja PC  cristal templado  ventilador 12cm  46 efectos 
 
 ℹ️:
 
-- Franja led especial led rgb frontal y ventilador trasero rgb core
 - Semitorre gaming atx con ventana lateral de cristal templado en color blanco
+- Franja led especial led rgb frontal y ventilador trasero rgb core
 - Panel lateral y forntal de cristal templado
 - Estructura atx optimizada con espacio ideal para pc de alto rendimiento
 
