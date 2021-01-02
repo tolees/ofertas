@@ -25,9 +25,9 @@ Tienes [Black+Decker BDCDC18KST-QW - Taladro atornillador 18V 1.5Ah Litio con ba
 
 ℹ️:
 
-- Empuñadura antideslizante y ergonómica para mayor comodidad.
-- Incluye: 1 batería litio 18V de 1.5 Ah y maletín
 - 10 posiciones de par que proveen el control preciso para taladrar en madera, metal, plastico y todas las tareas de atornillado
+- Empuñadura antideslizante y ergonómica para mayor comodidad.
 - La potencia y velocidad necesarias para taladrar en madera, metal y todos los trabajos de atornillado
+- Incluye: 1 batería litio 18V de 1.5 Ah y maletín
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01KZ0WDIG/?tag=tolees-21)

@@ -26,7 +26,7 @@ Ahora mismo tienes [New Balance 574 Core Zapatillas Hombre  Rojo  Burgundy   36 
 🔎:
 
 - Closing: briefly
-- Lining: knit
 - Outer material: Leather
+- Lining: knit
 
 [Visítala!!!](https://www.amazon.es/dp/B06Y2QHBXD/?tag=tolees-21)

@@ -1,28 +1,30 @@
 ---
 layout: post
-title: 'Descuento del 33.51 % en Vans Ward Canvas  Zapatillas Hombre  Neg'
-date: 2020-11-26 14:13:19
-image: 'https://m.media-amazon.com/images/I/41d8BDy6fsL._SL200_.jpg'
+title: 'Vans Ward Canvas  Zapatillas Hombre  Neg al 25.70 % de descuento'
+date: 2021-01-02 21:27:27
+image: 'https://m.media-amazon.com/images/I/41kSsy3uzUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07BN4C5J2-es'
-actualPrice: 46.54 EUR
+actualPrice: 52.01 EUR
 currency: EUR
-price: 46.54
+price: 52.01
 comparePrice: 70.0 EUR
 prodname: 'Vans Ward Canvas  Zapatillas Hombre  Negro   Suede/Canvas  Black/White C4R   38.5 EU'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BN4C5J2/?tag=tolees-21'
-descuento: '33.51'
+descuento: '25.70'
+average: '47.64285714285714'
 ---
 
-Tienes [Vans Ward Canvas  Zapatillas Hombre  Negro   Suede/Canvas  Black/White C4R   38.5 EU](https://www.amazon.es/dp/B07BN4C5J2/?tag=tolees-21) con un 33.51 % de descuento con precio de oferta de 46.54 EUR (original: 70.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Vans Ward Canvas  Zapatillas Hombre  Negro   Suede/Canvas  Black/White C4R   38.5 EU](https://www.amazon.es/dp/B07BN4C5J2/?tag=tolees-21) a 52.01 EUR (original: 70.0 EUR) (25.70 %  de descuento) en el siguiente enlace!
 
-[![Vans Ward Canvas  Zapatillas Hombre  Neg](https://m.media-amazon.com/images/I/41d8BDy6fsL._SL200_.jpg)](https://www.amazon.es/dp/B07BN4C5J2/?tag=tolees-21)
+[![Vans Ward Canvas  Zapatillas Hombre  Neg](https://m.media-amazon.com/images/I/41kSsy3uzUL._SL200_.jpg)](https://www.amazon.es/dp/B07BN4C5J2/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Precio mínimo ofrecido por este vendedor en los 30 días anteriores a la oferta: 56€
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B07BN4C5J2/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07BN4C5J2/?tag=tolees-21)

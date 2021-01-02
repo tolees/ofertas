@@ -25,7 +25,7 @@ Está [Desigual Accessories PU Long Wallet  Largo Walet. para Mujer  Negro  U](h
 
 ℹ️:
 
-- negro
 - Diseño, accesorios, carteras, bolso largo, color negro
+- negro
 
 [Ver la oferta!!](https://www.amazon.es/dp/B083YH4MW1/?tag=tolees-21)

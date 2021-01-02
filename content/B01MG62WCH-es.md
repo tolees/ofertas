@@ -25,10 +25,10 @@ Ahora mismo tienes [Locisne 8 en 1 herramienta de la cocina su multifuncionalida
 
 🔎:
 
-- viene en diferentes colores vivos para su fácil reconocimiento. cocina de cada día de forma fácil y en buen estado de ánimo. Todos los productos de primera necesidad para cualquier cocina.
-- Tamaño: D8.4cm * H28cm Peso: sobre 250g, hecha de grado alimenticio BPA plástico no tóxico libre. Pls no utilizar hervir el agua para limpiarla antes de su uso.
 - Viene con un embudo, exprimidor, rallador, galleta de huevo, trituradora, abrelatas, separador de huevo y taza de medición. Sin necesidad de comprar sus herramientas de cocina por separado, un gran descuento para ahorrar espacio y ser respetuoso del medio ambiente. El color de las herramientas es al azar!
-- Resistencia a la temperatura: Cortador de huevo: -20 ~ 120 grados centígrados, trituradora -30 ~ 80 grados centígrados.
+- viene en diferentes colores vivos para su fácil reconocimiento. cocina de cada día de forma fácil y en buen estado de ánimo. Todos los productos de primera necesidad para cualquier cocina.
 - 100% nuevo con buena calidad, correo rastreable. Durable, fácil de limpiar, y viene en un estilo botella con diferentes colores para el atractivo estético.
+- Resistencia a la temperatura: Cortador de huevo: -20 ~ 120 grados centígrados, trituradora -30 ~ 80 grados centígrados.
+- Tamaño: D8.4cm * H28cm Peso: sobre 250g, hecha de grado alimenticio BPA plástico no tóxico libre. Pls no utilizar hervir el agua para limpiarla antes de su uso.
 
 [Visítala!!!](https://www.amazon.es/dp/B01MG62WCH/?tag=tolees-21)

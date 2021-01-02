@@ -25,10 +25,10 @@ Está [HP Z5000 - Ratón inalámbrico Bluetooth  Negro](https://www.amazon.es/dp
 
 ℹ️:
 
-- - Al venderse y enviarse por un tercero, se aplican las condiciones de éste.
 - Incluye: ratón inalámbrico HP Z5000 (W2Q00AA) en cobre, tarjeta de garantía, instrucciones.
-- Tamaño: 101,7 x 64,6 x 25 mm. Peso: 0,04 kg.
 - Características: diseño estiloso con indicador LED de batería, el emparejamiento mediante Bluetooth permite una conexión inalámbrica, soporta Windows, Mac OS X, Android y Chrome, duración de la batería hasta 24 meses.
+- - Al venderse y enviarse por un tercero, se aplican las condiciones de éste.
+- Tamaño: 101,7 x 64,6 x 25 mm. Peso: 0,04 kg.
 - Funciona con cualquier PC con Bluetooth 4.0 (para MacBook después de 2016). No hay ninguna puerta para trabajar en Mac OS.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01FNRWNPO/?tag=tolees-21)

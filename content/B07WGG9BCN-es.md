@@ -25,10 +25,10 @@ Tienes [Cecotec Batidora de Varillas PowerTwist 500 Steel  con 500 W y Bol de Ac
 
 🔎:
 
-- Cuenta con dos varillas batidoras de acero inoxidable y dos resistentes garfios amasadores de acero inoxidable.
-- Pulsador QuickOut para fácil extracción de accesorios y evitar que te manches las manos. Sistema de fijación con ventosas,para sujección de la base.
-- Bol autogiratorio de acero inoxidable con 3,5 litros de capacidad que consigue autocentrar todos los ingredientes para conseguir un mezclado óptimo.
 - Espátula de repostería para ayudar en la preparación. Su diseño ergonómico permite un agarre de la batidora mucho más cómodo y seguro.
+- Cuenta con dos varillas batidoras de acero inoxidable y dos resistentes garfios amasadores de acero inoxidable.
+- Bol autogiratorio de acero inoxidable con 3,5 litros de capacidad que consigue autocentrar todos los ingredientes para conseguir un mezclado óptimo.
+- Pulsador QuickOut para fácil extracción de accesorios y evitar que te manches las manos. Sistema de fijación con ventosas,para sujección de la base.
 - Batidora de varillas para batir, mezclar, montar, remover y amasar, logrando resultados de alta cocina. Cuenta con un potente motor de 500 W
 
 [Comprar!!!](https://www.amazon.es/dp/B07WGG9BCN/?tag=tolees-21)

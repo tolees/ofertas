@@ -25,11 +25,11 @@ Tienes [TP-Link TL-WR940N Router Inalámbrico Repetidor de WIFI Punto de Acceso 
 
 ℹ️:
 
+- Administración sin problemas con la aplicación Tether: La administración de la red es fácil con la aplicación TP-Link Tether, disponible en cualquier dispositivo Android
 - Velocidad inalámbrica de 450 Mbps óptimo para las aplicaciones sensibles como el streaming de vídeo HD sin interrupciones
 - Red de invitados y control parental: Mantenga segura su red principal mediante la creación de una red separada para amigos y visitantes; con los controles parentales puede administrar cuándo y cómo los dispositivos de los niños pueden acceder a internet
-- 3 en 1 - 3 modos como router, repetidor y punto de acceso, que cumple todas necesidades, además, tres 5dBi antenas inalámbricas que incrementan la robustez y estabilidad
-- Requisitos del sistema: Microsoft Windows 98SE, NT, 2000, XP, Vista o Windows 7, MAC OS, NetWare, UNIX o Linux
 - Fácil gestión del ancho de banda: El control de ancho de banda asigna la velocidad necesaria de cada dispositivo conectado para garantizar la calidad de la transmisión multimedia
-- Administración sin problemas con la aplicación Tether: La administración de la red es fácil con la aplicación TP-Link Tether, disponible en cualquier dispositivo Android
+- Requisitos del sistema: Microsoft Windows 98SE, NT, 2000, XP, Vista o Windows 7, MAC OS, NetWare, UNIX o Linux
+- 3 en 1 - 3 modos como router, repetidor y punto de acceso, que cumple todas necesidades, además, tres 5dBi antenas inalámbricas que incrementan la robustez y estabilidad
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00VVHONRM/?tag=tolees-21)

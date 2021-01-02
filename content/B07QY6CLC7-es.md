@@ -25,8 +25,8 @@ Ahora mismo tienes [Levi s 711 Skinny Jeans  Believe It Or Not  28W / 30L Donna]
 
 🔎:
 
-- Modelo ajustado en la cadera y los muslos
 - Diseño de cinco bolsillos
+- Modelo ajustado en la cadera y los muslos
 - Con bragueta de botones
 
 [Visítala!!!](https://www.amazon.es/dp/B07QY6CLC7/?tag=tolees-21)

@@ -25,10 +25,10 @@ Ahora mismo tienes [Bright Starts  Oball Pelota sonajero  para recién nacidos  
 
 🔎:
 
-- Ideal para bebés a partir de 0 meses
 - Pelota con 3 sonajeros
+- Ideal para bebés a partir de 0 meses
 - De fácil manejo para el bebé gracias a los agujeros característicos de oball
-- Favorece el desarrollo psicomotor
 - La puede aplastar y deformar que siempre recobrará su forma original
+- Favorece el desarrollo psicomotor
 
 [Visítala!!!](https://www.amazon.es/dp/B0772WYFPP/?tag=tolees-21)

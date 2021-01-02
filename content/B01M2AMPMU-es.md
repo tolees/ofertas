@@ -25,8 +25,8 @@ Ahora mismo tienes [Apple Cable de carga USB-C  2 metros ](https://www.amazon.es
 
 🔎:
 
-- This 2-metre charge cable — with USB-C connectors on both ends — is ideal for charging, syncing and transferring data between USB-C devices
 - USB-C Power Adapters sold separately
+- This 2-metre charge cable — with USB-C connectors on both ends — is ideal for charging, syncing and transferring data between USB-C devices
 - Pair the USB-C Charge Cable with a compatible USB-C power adapter to conveniently charge your devices from a wall outlet and take advantage of fast-charging capabilities
 
 [Visítala!!!](https://www.amazon.es/dp/B01M2AMPMU/?tag=tolees-21)

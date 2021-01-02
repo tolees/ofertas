@@ -25,10 +25,10 @@ Tienes [Thule TH969100 CRUZBER  Aluminio  127 cm](https://www.amazon.es/dp/B005V
 
 ℹ️:
 
-- La escala de longitud deslizable funciona como cubierta aerodinámica
-- Instalación rápida y sin complicaciones
-- Barra de carga para sistema de portaequipajes
 - El diseño reduce el rozamiento aerodinámico
 - La tapa del extremo se abre sobre uno de sus lados
+- Instalación rápida y sin complicaciones
+- Barra de carga para sistema de portaequipajes
+- La escala de longitud deslizable funciona como cubierta aerodinámica
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B005VNFIOO/?tag=tolees-21)

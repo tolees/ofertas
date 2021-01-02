@@ -25,10 +25,10 @@ En este momento está [Brabantia 108181 Dispensador de jabón  Blanco  0.18 L](h
 
 🔎:
 
-- Adecuado para zonas húmedas como baños, aseos y cocinas – realizado con materiales resistentes a la corrosión
 - Garantía 10 años
 - Adecuado también para champús, lociones, etc
 - Fácil de llenar – con orificio de llenado de gran tamaño
 - Antes de rellenar el bote, llénelo primero con agua caliente y presione el dispensador varias veces para limpiar el mecanismo
+- Adecuado para zonas húmedas como baños, aseos y cocinas – realizado con materiales resistentes a la corrosión
 
 [Aquí!!!](https://www.amazon.es/dp/B00WJPY3OI/?tag=tolees-21)

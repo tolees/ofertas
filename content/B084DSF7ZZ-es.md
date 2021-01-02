@@ -25,8 +25,8 @@ Ahora mismo tienes [Clarks Sharon Heights  Botas Cortas al Tobillo Mujer  Ante G
 
 🔎:
 
-- Suela: piel y goma
-- Material interior: sintético
 - Material exterior: piel lisa
+- Material interior: sintético
+- Suela: piel y goma
 
 [Visítala!!!](https://www.amazon.es/dp/B084DSF7ZZ/?tag=tolees-21)

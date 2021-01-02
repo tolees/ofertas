@@ -25,11 +25,11 @@ En este momento está [Bramacartuchos - 20X Hojas Papel Transfer para Camisetas 
 
 🔎:
 
-- Revestimiento de seco instantáneo que se activa de plancha eléctrica
 - Compatibilidad con la mayoría de impresoras de inyección tales como: HP, Canon, Epson, Apple, Digital, Kodak, Lexmark, Olivetti, Tektronix, Xerox y mas
-- Para usar con impresoras de inyección de tinta
-- Papel de transfer para imprimir en camisetas blancas o de tonos claros y telas de algodón
+- Revestimiento de seco instantáneo que se activa de plancha eléctrica
 - Formato A4
 - Especial para imprimir sus propios diseños en camisetas
+- Para usar con impresoras de inyección de tinta
+- Papel de transfer para imprimir en camisetas blancas o de tonos claros y telas de algodón
 
 [Aquí!!!](https://www.amazon.es/dp/B00HFUX18Q/?tag=tolees-21)
