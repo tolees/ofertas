@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OMRON M2 BASIC Tensiómetro de Brazo digi al 49.00 % de descuento'
-date: 2020-12-30 16:53:56
+date: 2021-01-02 19:35:07
 image: 'https://m.media-amazon.com/images/I/41z6SqkmO7L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00KJ8FB1Q/?tag=tolees-21'
 descuento: '49.00'
-average: '30.090256410256416'
+average: '29.962750000000007'
 ---
 
 Está [OMRON M2 BASIC Tensiómetro de Brazo digital  Blanco y Azul](https://www.amazon.es/dp/B00KJ8FB1Q/?tag=tolees-21) con 49.00 de descuento por 24.99 EUR (original: 49.0 EUR) en el siguiente enlace!
@@ -26,10 +26,10 @@ Está [OMRON M2 BASIC Tensiómetro de Brazo digital  Blanco y Azul](https://www.
 ℹ️:
 
 - Pantalla grande y fácil de leer
-- Con una medición rápida
+- Tiene un manguito de 22 - 32 cm
 - Funciona con pilas (incluidas), opcional adaptador de corriente para no gastar pilas aunque son necesarias si se quieren guardar las lecturas
 - Detección de movimiento de pulso arrítmico
 - Tiene la tecnología Intellisense para dar lecturas de presión arterial rápidas, cómodas y precisas
-- Tiene un manguito de 22 - 32 cm
+- Con una medición rápida
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00KJ8FB1Q/?tag=tolees-21)

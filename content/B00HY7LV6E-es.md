@@ -25,9 +25,9 @@ Está [Bosch 2607017322 Puntas de destornillador + trinquete  juego de 26 ](http
 
 ℹ️:
 
-- Apropiadas para todas las marcas de herramientas eléctricas y destornilladores manuales
-- Cambio de broca rápido y buena sujeción del tornillo en la punta de atornillar gracias al portapuntas universal magnético de cambio rápido
-- Disposición cómoda en práctico envase
 - Carraca compacta para fijación sencilla sin herramienta eléctrica
+- Apropiadas para todas las marcas de herramientas eléctricas y destornilladores manuales
+- Disposición cómoda en práctico envase
+- Cambio de broca rápido y buena sujeción del tornillo en la punta de atornillar gracias al portapuntas universal magnético de cambio rápido
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00HY7LV6E/?tag=tolees-21)

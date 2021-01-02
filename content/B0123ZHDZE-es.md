@@ -26,9 +26,9 @@ En este momento está [HG - Limpiador para Juntas  Spray  500ml](https://www.ama
 🔎:
 
 - Repara el color de las juntas
-- Un potente producto de limpieza
-- Este blanqueador de juntas es un limpiador tampón sintético para juntas de azulejos
 - Formulado especialmente para limpiar juntas de baldosas, juntas de suelo, juntas de azulejos de baño y otras juntas de pared
+- Este blanqueador de juntas es un limpiador tampón sintético para juntas de azulejos
 - Un limpiador de juntas listo para usar
+- Un potente producto de limpieza
 
 [Aquí!!!](https://www.amazon.es/dp/B0123ZHDZE/?tag=tolees-21)

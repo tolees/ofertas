@@ -25,10 +25,10 @@ Está [Pop Disney: Frozen 2 - Anna  Multicolor  Estándar](https://www.amazon.es
 
 ℹ️:
 
-- Anna
-- De la colección frozen 2, anna como figura de vinilo pop de funko
-- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 - Descúbre otras figuras de la colección disney y colecciónalas todas
+- De la colección frozen 2, anna como figura de vinilo pop de funko
+- Anna
 - Disney frozen 2
+- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07QSBWS6G/?tag=tolees-21)

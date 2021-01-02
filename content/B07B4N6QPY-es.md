@@ -25,15 +25,15 @@ Está [Altavoz Portátil Inalámbrico Con Bluetooth  Luces Disco  Micrófono  To
 
 ℹ️:
 
-- Puerto de c arga mini USB (cable incluido)
+- Toma de entrada auxiliar de 3,5 mm para conectar cualquier dispositivo de audio
+- Dimensiones del producto: 25 x 17.5 x 8.5 cm
+- Puerto USB y ranura para tarjeta SD/TF (soporta hasta 32GB) para reproducción MP3
 - Potencia de salida del altavoz : 4W RMS
+- Asa en la parte superior y pila recargable para que pueda llevar el altavoz consigo a todas partes
+- Puerto de c arga mini USB (cable incluido)
 - Luces LED que parpadean alrededor de los 2 altavoces
 - Garantía: 2 años
-- Toma de entrada auxiliar de 3,5 mm para conectar cualquier dispositivo de audio
 - 1 micrófono incluido con función de adjuste de eco para cantar sus canciones favoritas
-- Puerto USB y ranura para tarjeta SD/TF (soporta hasta 32GB) para reproducción MP3
 - Alimentación: bateria de litio recargable
-- Asa en la parte superior y pila recargable para que pueda llevar el altavoz consigo a todas partes
-- Dimensiones del producto: 25 x 17.5 x 8.5 cm
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07B4N6QPY/?tag=tolees-21)

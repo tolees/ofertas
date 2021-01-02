@@ -25,10 +25,10 @@ Ahora mismo tienes [Crucial CT2000X8SSD9 X8 2 TB SSD portátil – de hasta 1050
 
 🔎:
 
-- Funciona con Windows, Mac, iPad Pro, Chromebook, Android, Linux, PS4 y Xbox One con conectores USB-C 3.2 Gen2 y USB-A
 - Diseño hermoso y duradero, con un núcleo unibody de aluminio anodizado
 - Respaldado por Micron, uno de los mayores fabricantes de almacenamiento flash del mundo
-- Increíble rendimiento con velocidades de lectura de hasta 1050 MB/s
 - Prueba de caída hasta 2 m. Temperatura extrema, a prueba de golpes y vibraciones
+- Funciona con Windows, Mac, iPad Pro, Chromebook, Android, Linux, PS4 y Xbox One con conectores USB-C 3.2 Gen2 y USB-A
+- Increíble rendimiento con velocidades de lectura de hasta 1050 MB/s
 
 [Visítala!!!](https://www.amazon.es/dp/B08C3XVP2P/?tag=tolees-21)

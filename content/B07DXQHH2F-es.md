@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Batman Arkham Knight Ps Hits al 50.48 % de descuento'
-date: 2021-01-01 15:14:26
+date: 2021-01-02 19:04:07
 image: 'https://m.media-amazon.com/images/I/51-kcjS2v7L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DXQHH2F/?tag=tolees-21'
 descuento: '50.48'
-average: '13.154799999999998'
+average: '12.913703703703701'
 ---
 
 Ahora mismo tienes [Batman Arkham Knight Ps Hits](https://www.amazon.es/dp/B07DXQHH2F/?tag=tolees-21) a 9.9 EUR (original: 19.99 EUR) (50.48 %  de descuento) en el siguiente enlace!

@@ -26,9 +26,9 @@ Ahora mismo tienes [Vestido para niña Algodón Manga Larga Unicornio Bordado Gr
 🔎:
 
 - lavable a máquina, bajo retroceder seca
-- encima de la rodilla.
+- 100% algodón
 - Talla: Busto: 60CM, Cintura: 60CM, Longitud: 48CM
 - Vestidos para niña Talla 3 años. Por favor, ver la medida del tamaño abajo en la descripción del producto antes de comprar
-- 100% algodón
+- encima de la rodilla.
 
 [Visítala!!!](https://www.amazon.es/dp/B07JFPYNSZ/?tag=tolees-21)

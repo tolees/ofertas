@@ -26,8 +26,8 @@ Ahora mismo tienes [Spin Master- Santorini Gordon Hamilton Board Game  6040699 ]
 🔎:
 
 - Juego de estrategia
-- Para niños y adultos
 - Con tablero de juego incluido
+- Para niños y adultos
 - Adecuado para 2-4 jugadores
 
 [Visítala!!!](https://www.amazon.es/dp/B06Y1B2LZ7/?tag=tolees-21)

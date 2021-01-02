@@ -26,9 +26,9 @@ Tienes [Disney Traditions - Figura Decorativa  diseño de pinocho](https://www.a
 🔎:
 
 - Hecho y pintado a mano.
-- Patrones inspirados en arte popular con colores llamativos.
 - Caja de regalo de la marca.
-- Figura de Disney Traditions.
+- Patrones inspirados en arte popular con colores llamativos.
 - Diseñado por Jim Shore.
+- Figura de Disney Traditions.
 
 [Comprar!!!](https://www.amazon.es/dp/B07SZ2Q4TD/?tag=tolees-21)

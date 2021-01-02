@@ -25,11 +25,11 @@ Ahora mismo tienes [MSI GF63 Thin 10SCSR-876XES - Ordenador portátil Gaming de 
 
 🔎:
 
+- Pantalla de 15.6" FHD (1920*1080), IPS-Level 60Hz 45% NTSC Thin Bezel º
+- Memoria RAM: 16GB DDR4 2666MHz
+- Procesador Intel Core i7-10750H (6 núcleos, 12 MB cache, 2.6 GHz hasta 5.0 GHz)º
 - Almacenamiento: 1TB NVMe PCIe Gen3x4 SSD
 - Sistema operativo FreeDOS
-- Procesador Intel Core i7-10750H (6 núcleos, 12 MB cache, 2.6 GHz hasta 5.0 GHz)º
 - Tarjeta gráfica Nvidia GeForce GTX1650 Ti Max Q, GDDR6 4GB
-- Memoria RAM: 16GB DDR4 2666MHz
-- Pantalla de 15.6" FHD (1920*1080), IPS-Level 60Hz 45% NTSC Thin Bezel º
 
 [Visítala!!!](https://www.amazon.es/dp/B08HJG1YV7/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Charles Wilson Paquete 5 Camisetas Cuell al 19.07 % de descuento'
-date: 2021-01-01 00:05:43
+date: 2021-01-02 19:27:43
 image: 'https://m.media-amazon.com/images/I/414W1D18p6L._SL200_.jpg'
 comments: true
 category: ofertas

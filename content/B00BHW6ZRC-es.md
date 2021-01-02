@@ -25,11 +25,11 @@ Está [Educa Touch - Junior L abecedari  en catalán  15677 ](https://www.amazon
 
 ℹ️:
 
-- Con Aprendo el ABECEDARIO los niños aprenderán... · A reconocer las letras · A leer las primeras palabras escritas · Canciones sobre el abecedario · Vocabulario básico
 - Electrónico
-- Electrónico
+- Letras
 - Letras
 - Con "Aprendo el abecedario" los niños aprenderán a reconocer las letras, leer las primeras palabras escritas, canciones sobre el abecedario, vocabulario básico
-- Letras
+- Electrónico
+- Con Aprendo el ABECEDARIO los niños aprenderán... · A reconocer las letras · A leer las primeras palabras escritas · Canciones sobre el abecedario · Vocabulario básico
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00BHW6ZRC/?tag=tolees-21)

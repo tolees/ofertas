@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 48.25 % en UGG Female Bailey Bow II Classic Boot  B'
-date: 2021-01-01 18:58:17
+date: 2021-01-02 19:51:30
 image: 'https://m.media-amazon.com/images/I/41bHcygK4nL._SL200_.jpg'
 comments: true
 category: ofertas
