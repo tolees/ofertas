@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Educa Touch - Junior L abecedari  en cat al 19.88 % de descuento'
-date: 2020-12-31 10:38:50
+date: 2021-01-02 18:06:35
 image: 'https://m.media-amazon.com/images/I/51UwIZSbtLL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,11 +25,11 @@ Está [Educa Touch - Junior L abecedari  en catalán  15677 ](https://www.amazon
 
 ℹ️:
 
+- Con Aprendo el ABECEDARIO los niños aprenderán... · A reconocer las letras · A leer las primeras palabras escritas · Canciones sobre el abecedario · Vocabulario básico
+- Electrónico
+- Electrónico
+- Letras
 - Con "Aprendo el abecedario" los niños aprenderán a reconocer las letras, leer las primeras palabras escritas, canciones sobre el abecedario, vocabulario básico
 - Letras
-- Electrónico
-- Con Aprendo el ABECEDARIO los niños aprenderán... · A reconocer las letras · A leer las primeras palabras escritas · Canciones sobre el abecedario · Vocabulario básico
-- Letras
-- Electrónico
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00BHW6ZRC/?tag=tolees-21)

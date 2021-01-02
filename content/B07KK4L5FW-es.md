@@ -26,9 +26,9 @@ Tienes [Columbia Youth Firecamp Mid 2  Zapatillas Impermeables  Azul  Negro  Roj
 ℹ️:
 
 - Cierre: Cordones
-- Anchura del zapato: Regular
+- Material exterior: Sintético
 - Material de la suela: Goma
 - Revestimiento: Sintético
-- Material exterior: Sintético
+- Anchura del zapato: Regular
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KK4L5FW/?tag=tolees-21)

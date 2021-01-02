@@ -26,11 +26,11 @@ En este momento está [Imperial Confort VisConfort - Colchón Viscoelástico efe
 🔎:
 
 - 2 años de garantía.
-- Colchón Alta Gama de 30 cm de Grosor con Viscoelástica efecto memoria; Máxima adaptación y firmeza
-- Núcleo especial Excellent Plus HR de alta resiliencia, con estructura de células abiertas termoregulable
 - Tejido de alto gramaje con tratamiento Bayscent Neutralizer certificado por los laboratorios Bayer; Evita la sudoración, elimina y neutraliza los malos olores
+- Núcleo especial Excellent Plus HR de alta resiliencia, con estructura de células abiertas termoregulable
+- Colchón Alta Gama de 30 cm de Grosor con Viscoelástica efecto memoria; Máxima adaptación y firmeza
 - Fibras naturales preparadas para absorber la humedad y eliminar el calor.
-- Fabricado en España.
 - Tecnología Duo-System: la cual proporciona dos firmezas independientes por cada cara; Con Acolchado especial Tapa-Tapa
+- Fabricado en España.
 
 [Aquí!!!](https://www.amazon.es/dp/B0883LLRLT/?tag=tolees-21)

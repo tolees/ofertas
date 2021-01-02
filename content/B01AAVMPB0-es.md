@@ -25,10 +25,10 @@ Tienes [JVC KW-R520E - Receptor de CD  entrada frontal USB / AUX  negro](https:/
 
 ℹ️:
 
-- Audio modo y Auto modo 1 para Android
-- Formatos de reproducción WAV, MP3, WMA, FLAC
-- EQ paramétrico de 3 bandas y 12 pre ajustes de ecualización
-- Radio CD con entrada frontal USB/AUX y salida MOS-FET 50 W x 4
 - Conexión directa de subwoofer, nivel de pre salida de línea en subwoofer de 2.5 V
+- EQ paramétrico de 3 bandas y 12 pre ajustes de ecualización
+- Formatos de reproducción WAV, MP3, WMA, FLAC
+- Radio CD con entrada frontal USB/AUX y salida MOS-FET 50 W x 4
+- Audio modo y Auto modo 1 para Android
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01AAVMPB0/?tag=tolees-21)

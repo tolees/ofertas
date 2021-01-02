@@ -25,8 +25,8 @@ Tienes [Rowenta RO2544WA Aspiradora sin bolsa  750 W  1.2 litros  77 Decibelios 
 
 ℹ️:
 
+- Tipo de tubo Metalico
 - Potencia (watios) 750
 - Capacidad de la bolsa (litros) 1.2 l
-- Tipo de tubo Metalico
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00MEGSOXS/?tag=tolees-21)

@@ -25,10 +25,10 @@ En este momento está [Moleskine - Cartera para dispositivos electrónicos  para
 
 🔎:
 
-- La bolsa está equ ipad a con una correa para sujetarla al asa de la maleta cuando viajas y te desplazas
-- La metro device bag es una bolsa elegante y funcional para guardar tu dispositivo digital, ordenador portátil, notebook, ipad de hasta 15 pulgadas
 - Cuerpo de poliamida y base de poliuretano, disponible en tamaño 40 x 29 x 6 cm, azul zafiro
 - Interior acolchado y espacioso para guardar dispositivos digitales de hasta 15 pulgadas pero también bolígrafos, cable usb y todo lo necesario para el día a día
+- La bolsa está equ ipad a con una correa para sujetarla al asa de la maleta cuando viajas y te desplazas
+- La metro device bag es una bolsa elegante y funcional para guardar tu dispositivo digital, ordenador portátil, notebook, ipad de hasta 15 pulgadas
 - Exterior recubierto de tejido resistente al agua e impermeable
 
 [Aquí!!!](https://www.amazon.es/dp/B07ZJQ8SNK/?tag=tolees-21)

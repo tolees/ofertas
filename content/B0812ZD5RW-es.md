@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 22.22 % en Crosstour CT9700 Cámara Deportiva Nativa'
-date: 2021-01-01 16:43:59
+date: 2021-01-02 17:16:17
 image: 'https://m.media-amazon.com/images/I/518QGsNS9jL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0812ZD5RW/?tag=tolees-21'
 descuento: '22.22'
-average: '97.08090909090909'
+average: '96.6765671641791'
 ---
 
 Tienes [Crosstour CT9700 Cámara Deportiva Nativa 4K50FPS / 20MP con Pantalla táctil EIS LDC de Videocámara Subacuátic  40M Resistente al Agua  WiFi  Control Remoto  Kit de Accesorios de instalación ](https://www.amazon.es/dp/B0812ZD5RW/?tag=tolees-21) con un 22.22 % de descuento con precio de oferta de 69.99 EUR (original: 89.99 EUR) en el siguiente enlace!
@@ -26,9 +26,9 @@ Tienes [Crosstour CT9700 Cámara Deportiva Nativa 4K50FPS / 20MP con Pantalla t�
 ℹ️:
 
 - Múltiples formas de conexión - puede controlar la cámara en el teléfono / ipad a través de Wi-Fi, compartir sus maravillosos momentos en el televisor / proyector a través de HDMI y descargar sus valiosos recuerdos en la computadora a través del cable USB.
+- Cámara sumergible a prueba de agua 40M - la resistente carcasa resistente al agua le permite disfrutar del increíble mundo submarino con la cámara a menos de 40 metros. Y las fotos y videos serían vivider después de elegir el modo submarino.
 - Paquete de accesorios de montaje abundantes - la cámara incluirá varios accesorios, como control remoto, cargador de batería, baterías de 2 * 1350 mAh, kits de montaje, etc. El kit satisfará diferentes demandas de deportes al aire libre.
 - Corrección de distorsión de lente y antivibración - LDC podría eliminar el efecto de ojo de pez que produce la lente gran angular. El anti-temblor avanzado podría mantener el metraje estable y suave mientras graba los deportes. Todos admiten resolución 4K.
 - Cámara deportiva con pantalla táctil 4K50fps - puede controlar la cámara de manera más intuitiva y sencilla con la pantalla táctil. El video nativo 4K a 50 fps y la resolución de fotos de 20MP pueden ayudarlo a capturar cada momento maravilloso con una mayor claridad.
-- Cámara sumergible a prueba de agua 40M - la resistente carcasa resistente al agua le permite disfrutar del increíble mundo submarino con la cámara a menos de 40 metros. Y las fotos y videos serían vivider después de elegir el modo submarino.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0812ZD5RW/?tag=tolees-21)

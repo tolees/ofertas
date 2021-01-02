@@ -25,12 +25,12 @@ Está [Imperial Confort VisConfort - Colchón Viscoelástico efecto memoria - Tr
 
 ℹ️:
 
-- Núcleo especial Excellent Plus HR de alta resiliencia, con estructura de células abiertas termoregulable
-- Fibras naturales preparadas para absorber la humedad y eliminar el calor.
 - Tecnología Duo-System: la cual proporciona dos firmezas independientes por cada cara; Con Acolchado especial Tapa-Tapa
-- Tejido de alto gramaje con tratamiento Bayscent Neutralizer certificado por los laboratorios Bayer; Evita la sudoración, elimina y neutraliza los malos olores
-- Colchón Alta Gama de 30 cm de Grosor con Viscoelástica efecto memoria; Máxima adaptación y firmeza
+- Fibras naturales preparadas para absorber la humedad y eliminar el calor.
+- Núcleo especial Excellent Plus HR de alta resiliencia, con estructura de células abiertas termoregulable
 - 2 años de garantía.
+- Tejido de alto gramaje con tratamiento Bayscent Neutralizer certificado por los laboratorios Bayer; Evita la sudoración, elimina y neutraliza los malos olores
 - Fabricado en España.
+- Colchón Alta Gama de 30 cm de Grosor con Viscoelástica efecto memoria; Máxima adaptación y firmeza
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0883KGLH6/?tag=tolees-21)
