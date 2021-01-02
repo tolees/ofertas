@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tefal Talent - Sartén sin tapa  20 centí con un 31.00 % de descuento'
-date: 2020-12-31 19:00:39
+date: 2021-01-02 07:45:39
 image: 'https://m.media-amazon.com/images/I/41JEtRZu7WL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ En este momento está [Tefal Talent - Sartén sin tapa  20 centímetros](https:/
 
 🔎:
 
-- Conveniente para la inducción : Sí
 - Diámetro: 20 cm
+- Conveniente para la inducción : Sí
 - Material: Aleación
 - Adecuado para hornos hasta 180 ° C 2
 

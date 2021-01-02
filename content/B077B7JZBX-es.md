@@ -1,29 +1,34 @@
 ---
 layout: post
-title: 'Motorola MBP 667 Connect - Vigilabebés v al 15.00 % de descuento'
-date: 
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41fDA2l36qL._SL200_.jpg'
+title: 'Motorola MBP667 Connect - Vigilabebés Ví al 40.84 % de descuento'
+date: 2021-01-02 07:48:35
+image: 'https://m.media-amazon.com/images/I/41fDA2l36qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B077B7JZBX-es'
-actualPrice: 169.99 EUR
+actualPrice: 118.32 EUR
 currency: EUR
-price: 169.99
+price: 118.32
 comparePrice: 199.99 EUR
-prodname: 'Motorola MBP 667 Connect - Vigilabebés vídeo Wi-Fi con pantalla LCD a color de 2.8"  modo eco  alertas para movimiento  sonido y temperatura ambiente'
+prodname: 'Motorola MBP667 Connect - Vigilabebés Vídeo Wi-Fi con Pantalla LCD a Color de 2.8"  Modo Eco  Alertas para Movimiento  Sonido y Temperatura Ambiente  Blanco'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077B7JZBX/?tag=tolees-21'
-descuento: '15.00'
-average: '169.99'
+descuento: '40.84'
+average: '135.54333333333332'
 ---
 
-Ahora mismo tienes [Motorola MBP 667 Connect - Vigilabebés vídeo Wi-Fi con pantalla LCD a color de 2.8"  modo eco  alertas para movimiento  sonido y temperatura ambiente](https://www.amazon.es/dp/B077B7JZBX/?tag=tolees-21) a 169.99 EUR (original: 199.99 EUR) (15.00 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Motorola MBP667 Connect - Vigilabebés Vídeo Wi-Fi con Pantalla LCD a Color de 2.8"  Modo Eco  Alertas para Movimiento  Sonido y Temperatura Ambiente  Blanco](https://www.amazon.es/dp/B077B7JZBX/?tag=tolees-21) a 118.32 EUR (original: 199.99 EUR) (40.84 %  de descuento) en el siguiente enlace!
 
-[![Motorola MBP 667 Connect - Vigilabebés v](https://images-eu.ssl-images-amazon.com/images/I/41fDA2l36qL._SL200_.jpg)](https://www.amazon.es/dp/B077B7JZBX/?tag=tolees-21)
+[![Motorola MBP667 Connect - Vigilabebés Ví](https://m.media-amazon.com/images/I/41fDA2l36qL._SL200_.jpg)](https://www.amazon.es/dp/B077B7JZBX/?tag=tolees-21)
 
 🔎:
 
+- Indicador visual del nivel acústico, notificaciones y control de sonido, movimiento y temperatura
+- Tecnología inalámbrica 2.4GHz FHSS (para visualización local) y conectividad inalámbrica wifi (para una visualización remota)
+- Grabación de vídeo y toma de imágenes manuales
+- Visión Nocturna por infrarrojos
+- Alcance de hasta 300 m o convertir su smartphone o tableta conectados a internet en una cámara vigilabebés con vídeo para controlar a su bebé desde cualquier lugar.
 
 [Visítala!!!](https://www.amazon.es/dp/B077B7JZBX/?tag=tolees-21)
