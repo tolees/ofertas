@@ -25,8 +25,8 @@ Ahora mismo tienes [Tommy Hilfiger Logo T-Shirt Camiseta Informal  Gris  Cloud H
 
 🔎:
 
+- Ver descripción del producto para obtener más información.
 - A estrenar y genuina. Somos un vendedor autorizado de Tommy Hilfiger.
 - Tommy Hilfiger Gris Playera con logo
-- Ver descripción del producto para obtener más información.
 
 [Visítala!!!](https://www.amazon.es/dp/B07JRC97JJ/?tag=tolees-21)

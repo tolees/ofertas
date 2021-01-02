@@ -25,7 +25,7 @@ Ahora mismo tienes [Marvel´s Spider-Man: Miles Morales Ultimate Edition](https:
 
 🔎:
 
-- Asiste al ascenso de Miles Morales a medida que el nuevo héroe controla sus increíbles y explosivos poderes para convertirse en su propio Spider-Man
 - Juego completo Marvel´s Spider-man remasterizado
+- Asiste al ascenso de Miles Morales a medida que el nuevo héroe controla sus increíbles y explosivos poderes para convertirse en su propio Spider-Man
 
 [Visítala!!!](https://www.amazon.es/dp/B08JHV7JVH/?tag=tolees-21)

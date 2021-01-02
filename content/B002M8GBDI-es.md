@@ -25,11 +25,11 @@ En este momento está [AKAI Professional LPK25 - Teclado controlador USB MIDI de
 
 🔎:
 
+- Botones de cambio de octava arriba/abajo para ampliar el rango melódico del teclado y un botón de sustain para interpretaciones más expresivas
+- Cuatro bancos de memoria programables para mapear DAWs, instrumentos virtuales, efectos y mucho más
+- La experiencia de la producción musical MPC - incluye el software MPC Beats que ofrece las mejores prestaciones y herramientas de producción típicas de la serie MPC de AKAI Professional
 - Conexión USB plug-and-play para Mac y PC
 - Teclado fino y ultra-portátil de 33 cm con 25 teclas mini sensibles a la velocidad para tocar melodías, líneas de bajo, acordes y mucho más
 - Arpegiador incluido para pasar por acordes y crear melodías inspiradoras rápidamente
-- La experiencia de la producción musical MPC - incluye el software MPC Beats que ofrece las mejores prestaciones y herramientas de producción típicas de la serie MPC de AKAI Professional
-- Botones de cambio de octava arriba/abajo para ampliar el rango melódico del teclado y un botón de sustain para interpretaciones más expresivas
-- Cuatro bancos de memoria programables para mapear DAWs, instrumentos virtuales, efectos y mucho más
 
 [Aquí!!!](https://www.amazon.es/dp/B002M8GBDI/?tag=tolees-21)

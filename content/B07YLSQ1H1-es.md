@@ -26,7 +26,7 @@ Está [Nike Court Borough Low 2  Sneaker Baby-Boys  White/White-White  21 EU](ht
 ℹ️:
 
 - Cordones de Zapatos
-- Importado
 - Suave de Llevar
+- Importado
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07YLSQ1H1/?tag=tolees-21)

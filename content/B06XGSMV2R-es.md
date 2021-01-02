@@ -26,7 +26,7 @@ Ahora mismo tienes [Stranger Things-Funko Pop Keychain Dustin Llavero de Vinilo 
 🔎:
 
 - Viene embalado en una caja con ventanas ilustrada
-- Material 100% vinilo
 - Cada personaje mide alrededor de 5 cm de altura
+- Material 100% vinilo
 
 [Visítala!!!](https://www.amazon.es/dp/B06XGSMV2R/?tag=tolees-21)
