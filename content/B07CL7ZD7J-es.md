@@ -27,9 +27,9 @@ Ahora mismo tienes [D-Link Dcs-8010Lh - Cámara De Vigilancia/Seguridad Wifi Con
 
 - Video vigilancia sin cuotas mensuales, ver y oír lo que ocurra en tu casa exclusivamente desde tu móvil o tableta estés donde estés con la app gratuita mydlink para iOS o Android, fácil de usar
 - Visión de 120° HD 720p (1280x720), con infrarrojos, para poder ver incluso en la más completa oscuridad, y con zoom digital táctil desde la propia app gratuita
+- Compatible con Amazon Alexa, Google Assistant o IFTTT, que permite usar tu voz para enviar el vídeo de la cámara a un SmartTV, o activar el modo de privacidad
 - Notificaciones push: recibe notificaciones emergentes si la cámara detecta movimiento o sonido, con parámetros de detección personalizables
 - Interactúa con otros dispositivos de la familia de productos mydlink, de forma que puede encenderse una luz cuando la cámara detecta movimiento, y acciones similares
-- Compatible con Amazon Alexa, Google Assistant o IFTTT, que permite usar tu voz para enviar el vídeo de la cámara a un SmartTV, o activar el modo de privacidad
 - Se instala fácilmente: se configura desde la propia app mediante WiFi o Bluetooth y no se necesita un ordenador, ni para instalarla ni para funcionar
 
 [Visítala!!!](https://www.amazon.es/dp/B07CL7ZD7J/?tag=tolees-21)

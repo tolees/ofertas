@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance 500 Core  Zapatillas Hombre  al 25.13 % de descuento'
-date: 2020-12-31 09:08:32
+date: 2021-01-02 13:58:58
 image: 'https://m.media-amazon.com/images/I/41+a60KuroL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,12 +25,12 @@ Está [New Balance 500 Core  Zapatillas Hombre  Gris  Grey   43 EU](https://www.
 
 ℹ️:
 
+- Material de la suela: Sintético
+- Material exterior: Cuero sintético
 - Tipo de tacón: Plano
 - Cierre: Cordones
+- Composición: Microfibra y malla
 - Anchura del zapato: Normal
 - Revestimiento: Tela
-- Material de la suela: Sintético
-- Composición: Microfibra y malla
-- Material exterior: Cuero sintético
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01AZLN686/?tag=tolees-21)

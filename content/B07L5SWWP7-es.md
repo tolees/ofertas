@@ -25,10 +25,10 @@ Ahora mismo tienes [TENGA Orb Orange Crash - 1 Unidad](https://www.amazon.es/dp/
 
 🔎:
 
+- Countless nubs mesh for enveloping sensations as you push through the orbs
 - Use the pressure pads to directly control the intensity of stimulation
+- The product is fully waterproof and easy to clean
 - Tenga Flip Orb masturbator with elastomer sleeve and 10 stimulating spheres
 - Reusable. Sample lubricant included
-- Countless nubs mesh for enveloping sensations as you push through the orbs
-- The product is fully waterproof and easy to clean
 
 [Visítala!!!](https://www.amazon.es/dp/B07L5SWWP7/?tag=tolees-21)

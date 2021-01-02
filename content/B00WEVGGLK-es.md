@@ -25,8 +25,8 @@ Tienes [Nike Y Po Flc Tm Club19  Sudadera con Capucha Unisex Niños  Negro  M](h
 
 ℹ️:
 
-- Capucha con cordón
 - Dri-Fit Technology
+- Capucha con cordón
 - Regular fit
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00WEVGGLK/?tag=tolees-21)

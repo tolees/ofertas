@@ -25,10 +25,10 @@ En este momento está [Jaypar One Punch Man Figura Saitama Figura Anime Figura F
 
 🔎:
 
-- La figura mide poco más de 8.6 "de alto
 - Figuras de China, versión modificada, diferente de otras versiones
-- Del hombre de un solo golpe
 - Este es un gran regalo para las personas que les gustan los personajes de acción.
 - Materiales y diseño de alta calidad.
+- Del hombre de un solo golpe
+- La figura mide poco más de 8.6 "de alto
 
 [Aquí!!!](https://www.amazon.es/dp/B07XS8ZSNG/?tag=tolees-21)

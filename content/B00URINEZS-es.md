@@ -25,8 +25,8 @@ Tienes [SD toys Taza Vidrio  Targaryen Game of Thrones  Color translucida](https
 
 ℹ️:
 
-- Admite lavavajillas y microondas
-- Para los fans de Game of Thrones
 - Producto oficial Game of Thrones
+- Para los fans de Game of Thrones
+- Admite lavavajillas y microondas
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00URINEZS/?tag=tolees-21)

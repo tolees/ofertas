@@ -25,8 +25,8 @@ Tienes [POP! Vinilo - DC: DC Bombshells Batgirl](https://www.amazon.es/dp/B01NCE
 
 ℹ️:
 
+- Funko POP
 - Dc
 - DC Bombshells Batgirl
-- Funko POP
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01NCE0LUC/?tag=tolees-21)

@@ -25,9 +25,9 @@ Tienes [Dragon Ball - Playset Dragon Ball Tenkaichi Budokai](https://www.amazon.
 
 🔎:
 
-- Playset de gran tamaño
 - Ideal para las figuras Deluxe de 17 cm
-- El escenario puede romperse en 3 zonas para mayor realismo de combate
 - Increíble nivel de detalle
+- El escenario puede romperse en 3 zonas para mayor realismo de combate
+- Playset de gran tamaño
 
 [Comprar!!!](https://www.amazon.es/dp/B08C4SKVBJ/?tag=tolees-21)
