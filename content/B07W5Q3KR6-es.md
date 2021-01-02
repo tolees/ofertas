@@ -25,8 +25,8 @@ Está [adidas Tiro 19 Cotton Pant Pantalones  Hombre  Black/White  S](https://ww
 
 ℹ️:
 
-- Cordón en la cintura elástica
 - Bolsillos frontales con cremallera
 - Cremalleras de tobillo
+- Cordón en la cintura elástica
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07W5Q3KR6/?tag=tolees-21)
