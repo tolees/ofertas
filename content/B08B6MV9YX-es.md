@@ -25,9 +25,9 @@ Tienes [Nestlé Yogolino Melocotón Plátano Sin Azúcar Añadido  A Partir De L
 
 🔎:
 
-- Sin azúcares añadidos
-- Elaborada a base de fruta y leche
-- Elaborado con ingredientes 100% naturales
 - Con ingredientes específicos para bebés a partir de seis meses
+- Elaborada a base de fruta y leche
+- Sin azúcares añadidos
+- Elaborado con ingredientes 100% naturales
 
 [Comprar!!!](https://www.amazon.es/dp/B08B6MV9YX/?tag=tolees-21)

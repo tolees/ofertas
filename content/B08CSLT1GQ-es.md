@@ -25,9 +25,9 @@ Está [topCASE Funda Compatible con Huawei MediaPad T5 10 Ultra Delgado Carcasa 
 
 ℹ️:
 
-- ☞Magnéticamente cerrado,la cubierta magnética protege la pantalla más perfectamente, la conexión magnética hace que la carcasa del Huawei MediaPad T5 10 sea más estable.
 - ☞Diseñado específicamente para Huawei MediaPad T5 10 SOLAMENTE, NO APTO PARA otra tableta Huawei.
 - ☞Proteja su tableta Huawei MediaPad T5 10 10.1 pulgadas de golpes, polvo, arañazos y otros daños. La Carcasa brinda protección total para el frente y la espalda.
+- ☞Magnéticamente cerrado,la cubierta magnética protege la pantalla más perfectamente, la conexión magnética hace que la carcasa del Huawei MediaPad T5 10 sea más estable.
 - ☞Las aberturas precisas no afectarán las operaciones clave y las funciones básicas, como la cámara, los auriculares, la carga, el control de volumen, etc.
 - ☞Soporte ajustable con dos ángulos de visión. Permite alternar fácilmente entre los modos de escribir y apaisado. Perfecto para chat en vídeo y ver películas.
 

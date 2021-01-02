@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Realme X50 5G - Smartphone 128GB  6GB RA al 20.28 % de descuento'
-date: 2020-12-31 18:25:40
+date: 2021-01-02 09:28:31
 image: 'https://m.media-amazon.com/images/I/41XllIVIyAL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ Ahora mismo tienes [Realme X50 5G - Smartphone 128GB  6GB RAM  Dual Sim  Ice Sil
 
 🔎:
 
-- Batería: 4200 mAh
 - Pantalla: 6.44", 1080 x 2400 pixels
 - Procesador: Snapdragon 865 2.84GHz
 - Cámara: Cuádruple, 64MP+12MP +8MP+2MP
+- Batería: 4200 mAh
 
 [Visítala!!!](https://www.amazon.es/dp/B08DCV82BS/?tag=tolees-21)

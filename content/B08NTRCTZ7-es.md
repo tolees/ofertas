@@ -25,10 +25,10 @@ Ahora mismo tienes [ASUS ROG Zephyrus M15 GU502LW-AZ196T - Portátil Gaming de 1
 
 🔎:
 
-- Procesador Intel Core i7-10750H ( 6 núcleos, 12MB cache, 2.6 GHz hasta 5.0 GHz)
 - Disco du 1TB NVMe PCIe
-- Tarjeta grafica GeForce RTX 2070 de 8GB GDDR6
 - Sistema operativo Windows 10 Home
+- Procesador Intel Core i7-10750H ( 6 núcleos, 12MB cache, 2.6 GHz hasta 5.0 GHz)
+- Tarjeta grafica GeForce RTX 2070 de 8GB GDDR6
 - Pantalla de 15.6" FullHD (1920 x 1080)
 - Memoria RAM de 32GB, DDR 4
 

@@ -25,9 +25,9 @@ Tienes [Ana Maria Lajusticia - Complemento alimenticio a base de miel y jalea re
 
 ℹ️:
 
-- Formato miel fresca de romero
-- Para personas con tendencia a resfriarse o en temporadas de invierno.
-- También en épocas de exámenes y gran esfuerzo intelectual
 - Para temporadas de cansancio, decaimiento, falta de energía y desánimo.
+- También en épocas de exámenes y gran esfuerzo intelectual
+- Para personas con tendencia a resfriarse o en temporadas de invierno.
+- Formato miel fresca de romero
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00DN9NYX0/?tag=tolees-21)

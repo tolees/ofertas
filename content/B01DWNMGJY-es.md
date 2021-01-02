@@ -25,8 +25,8 @@ Está [Verbatim Stick USB 3.0 De 256 GB  Tela A Rayas Negro Ampolla Al por Menor
 
 ℹ️:
 
-- Compatibilidad: Mac OS, Linux, Windows XP, Windows Vista, Windows 7, Windows 8, Windows 10
 - Conexión: USB 1.1
+- Compatibilidad: Mac OS, Linux, Windows XP, Windows Vista, Windows 7, Windows 8, Windows 10
 - Capacidad: 256 GB
 - Color: negro
 

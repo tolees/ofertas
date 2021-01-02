@@ -25,8 +25,8 @@ Ahora mismo tienes [Teksta - Mascota interactiva 4G con app  IMC Toys 9936 ](htt
 
 🔎:
 
-- Teksta, el perro robot que responde a la voz, el tacto y a los gestos de la mano
 - Incluye dos accesorios: una pelota y un hueso
+- Teksta, el perro robot que responde a la voz, el tacto y a los gestos de la mano
 - Camina, se sienta y da increíbles volteretas hacia atrás, mueve la cabeza, la cola y las orejas y expresa sus emociones a través de sus ojos
 
 [Visítala!!!](https://www.amazon.es/dp/B013RLFJ2W/?tag=tolees-21)

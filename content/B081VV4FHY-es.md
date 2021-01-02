@@ -25,9 +25,9 @@ Tienes [Nûby - My Real Potty - Orinal infantil con sonido - 18 meses+](https://
 
 🔎:
 
-- PILAS INCLUIDAS: Se necesitan pilas de tipo AAA (incluidas)
-- COMO LOS ORINALES DE LOS ADULTOS: Con botón que reproduce el sonido de los Orinales para adultos
 - PARA QUE TUS BEBES APRENDAN: Perfecto para entrenar en el baño
+- COMO LOS ORINALES DE LOS ADULTOS: Con botón que reproduce el sonido de los Orinales para adultos
+- PILAS INCLUIDAS: Se necesitan pilas de tipo AAA (incluidas)
 - FACIL DE LIMPIAR: un orinal infantil con olla y tapa que se quitan
 
 [Comprar!!!](https://www.amazon.es/dp/B081VV4FHY/?tag=tolees-21)

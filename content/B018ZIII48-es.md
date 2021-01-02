@@ -25,10 +25,10 @@ En este momento está [Biwond JoyBox Pocket Altavoz 5W  Bluetooth TWS  AUX  Radi
 
 🔎:
 
-- 【Potencia】: A pesar de su tamaño, ofrece una gran potencia y calidad de audio para que disfrutes en cualquier sitio.
-- 【Coloridos】: Elije entre los diferentes estampados disponibles, Band, Guitar o Picasso.
-- 【Portátil】: Podrás llevártelo a donde quieras y cuando quieras, este excelente altavoz presenta un tamaño pequeño y manejable, lo que lo convierte en el karaoke que siempre quisiste tener.
 - 【Compatible】: Escucha la radio FM, y reproduce desde USB o MicroSD tus canciones para aprovechar al máximo sus funciones.
+- 【Coloridos】: Elije entre los diferentes estampados disponibles, Band, Guitar o Picasso.
 - 【TWS】: Multiplica la potencia al doble. Con la función Bluetooth TWS podrás emparejar dos dispositivos de audio por separado.
+- 【Potencia】: A pesar de su tamaño, ofrece una gran potencia y calidad de audio para que disfrutes en cualquier sitio.
+- 【Portátil】: Podrás llevártelo a donde quieras y cuando quieras, este excelente altavoz presenta un tamaño pequeño y manejable, lo que lo convierte en el karaoke que siempre quisiste tener.
 
 [Aquí!!!](https://www.amazon.es/dp/B018ZIII48/?tag=tolees-21)

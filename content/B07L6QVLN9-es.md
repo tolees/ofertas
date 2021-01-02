@@ -25,10 +25,10 @@ Tienes [KHOMO iPad Pro 12.9  3 Gen  Funda Origami Semi Transparente con Smart Co
 
 🔎:
 
-- Todos los botónes y puertos son accesibles sin necesidad de remover la funda
-- Tiene soporte de multi-posición y Smart Cover con cierre magnético para reposo automático
 - Marca Registrada KHOMO - Diseñada en Estados Unidos
-- Diseño moderno de bajo perfil y alta protección para obtener la máxima comodidad al viajar
 - Dale un look único a tu nuevo iPad PRO 12.9 (3era Generación, 2018) Modelos compatibles: A1876, A2014, A1895, A1983
+- Todos los botónes y puertos son accesibles sin necesidad de remover la funda
+- Diseño moderno de bajo perfil y alta protección para obtener la máxima comodidad al viajar
+- Tiene soporte de multi-posición y Smart Cover con cierre magnético para reposo automático
 
 [Comprar!!!](https://www.amazon.es/dp/B07L6QVLN9/?tag=tolees-21)

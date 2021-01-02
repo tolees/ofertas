@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gullón - Barquillos sin azúcar vainilla  al 35.71 % de descuento'
-date: 2020-12-08 09:37:38
+date: 2021-01-02 09:11:08
 image: 'https://m.media-amazon.com/images/I/41IvZQDALQL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,13 +16,19 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B005SYQ2ZU/?tag=tolees-21'
 descuento: '35.71'
+average: '1.0166666666666666'
 ---
 
-Está [Gullón - Barquillos sin azúcar vainilla Diet Nature Pack de 3  180g](https://www.amazon.es/dp/B005SYQ2ZU/?tag=tolees-21) con 35.71 de descuento por 0.99 EUR (original: 1.54 EUR) en el siguiente enlace!
+Ahora mismo tienes [Gullón - Barquillos sin azúcar vainilla Diet Nature Pack de 3  180g](https://www.amazon.es/dp/B005SYQ2ZU/?tag=tolees-21) a 0.99 EUR (original: 1.54 EUR) (35.71 %  de descuento) en el siguiente enlace!
 
 [![Gullón - Barquillos sin azúcar vainilla ](https://m.media-amazon.com/images/I/41IvZQDALQL._SL200_.jpg)](https://www.amazon.es/dp/B005SYQ2ZU/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Sin aceite de palma. Producto elaborado con aceite de girasol alto oleico.
+- Barquillos con varias capas rellenas de vainilla, sin azúcares ni grasas hidrógenas
+- Fabricado por Galletas Gullón.
+- Su alto contenido en fibra convierte estos barquillos en un tentempié perfecto
+- Los barquillos Diet Nature son perfectos para cualquier momento del día.
 
-[Ver la oferta!!](https://www.amazon.es/dp/B005SYQ2ZU/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B005SYQ2ZU/?tag=tolees-21)

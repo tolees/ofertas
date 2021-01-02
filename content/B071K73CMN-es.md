@@ -25,10 +25,10 @@ En este momento está [Funda KHOMO Compatible con Apple iPad de 9 7 Pulgadas 201
 
 🔎:
 
-- Diseño de bajo perfil y alta protección para obtener la máxima comodidad al viajar. Todos los botónes y puertos son accesibles sin necesidad de remover la carcasa.
-- Compatible con Smart Cover original (no incluido). Carcasa ultra delgada y ligera de policarbonato.
-- Marca Registrada KHOMO - Diseñada en Estados Unidos
 - Carcasa trasera diseñada para Apple iPad 9.7 2018, 2017, Air 1 - Compatible únicamente con los siguientes modelos: A1893 A1954 A1822 A1823 A1474 A1475 A1476
+- Marca Registrada KHOMO - Diseñada en Estados Unidos
+- Compatible con Smart Cover original (no incluido). Carcasa ultra delgada y ligera de policarbonato.
 - Dale un look único a tu iPad 9.7 con esta fantástica funda, escoge el color que más te guste!
+- Diseño de bajo perfil y alta protección para obtener la máxima comodidad al viajar. Todos los botónes y puertos son accesibles sin necesidad de remover la carcasa.
 
 [Aquí!!!](https://www.amazon.es/dp/B071K73CMN/?tag=tolees-21)
