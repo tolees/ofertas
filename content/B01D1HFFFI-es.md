@@ -25,12 +25,12 @@ Está [Rimmel London Sculpting Palette  Polvos de maquillaje - Tono Coral Glow  
 
 ℹ️:
 
-- Sombreador para contornear la nariz y la mandíbula
-- Colorete en polvo para dar color y definición
 - Tipo de piel: Piel normal
-- Fácil de desmaquillar
-- Tipo de piel: piel normal
 - Polvo iluminador para resaltar mejillas, cejas, frente, barbilla y nariz
+- Tipo de piel: piel normal
+- Fácil de desmaquillar
 - Paleta con 3 pasos para contouring
+- Colorete en polvo para dar color y definición
+- Sombreador para contornear la nariz y la mandíbula
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01D1HFFFI/?tag=tolees-21)

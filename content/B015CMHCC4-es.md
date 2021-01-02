@@ -25,10 +25,10 @@ Tienes [Rimmel London Match Perfection Foundation Base de Maquillaje Tono 102 Li
 
 🔎:
 
-- Piel perfecta, cobertura media
 - Indicado para piel seca o mixta
-- Hidrata y oculta las imperciones, poros y ojeras
-- Cobertura media para un acabado natural
 - Aplica la base de maquillaje con los dedos o una brocha des del centro hasta el exterior para mezclarla con el tono de tu piel
+- Cobertura media para un acabado natural
+- Piel perfecta, cobertura media
+- Hidrata y oculta las imperciones, poros y ojeras
 
 [Comprar!!!](https://www.amazon.es/dp/B015CMHCC4/?tag=tolees-21)

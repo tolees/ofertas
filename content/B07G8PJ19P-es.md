@@ -26,9 +26,9 @@ Tienes [Russell Hobbs 24990-70 Victory - Hervidor de Agua Eléctrico acero inox 
 🔎:
 
 - Dispone de boquilla de precisión y luz indicadora de encendido
-- Hierve una taza de agua en 55 segundos y ahorra hasta un 66 % de electricidad
+- Incluye filtro extraíble y lavable; base de 360° con recogecable
 - Zona de ebullición rápida con indicador de 1/2/3 tazas e indicador del nivel de agua
 - Hervidor compacto de acero inoxidable cepillado con detalles en plástico y 1 l de capacidad y 2200 vatios
-- Incluye filtro extraíble y lavable; base de 360° con recogecable
+- Hierve una taza de agua en 55 segundos y ahorra hasta un 66 % de electricidad
 
 [Comprar!!!](https://www.amazon.es/dp/B07G8PJ19P/?tag=tolees-21)

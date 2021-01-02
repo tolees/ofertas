@@ -25,10 +25,10 @@ Ahora mismo tienes [Cluse Reloj Analógico Automático para Mujer con Correa de 
 
 🔎:
 
-- Movimiento de cuarzo
-- Esfera redonda
 - Estilo del reloj moderno
 - Material del cristal en mineral
 - Espesor de la caja de 7 mm
+- Esfera redonda
+- Movimiento de cuarzo
 
 [Visítala!!!](https://www.amazon.es/dp/B01N02DXVY/?tag=tolees-21)

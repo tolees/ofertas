@@ -25,10 +25,10 @@ En este momento está [Vans Authentic  Zapatillas de Tela Unisex  Negro  Black/W
 
 🔎:
 
+- La estación ideal: para todas las estaciones
 - Adecuado para: unisex (adultos)
 - Material exterior: lona
-- Material de la suela: goma
-- La estación ideal: para todas las estaciones
 - Cierre: cordones
+- Material de la suela: goma
 
 [Aquí!!!](https://www.amazon.es/dp/B000UYJB88/?tag=tolees-21)
