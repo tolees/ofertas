@@ -25,13 +25,13 @@ Tienes [BOSCH 2607019504 - Set de bricolaje: 46 uds atornillar y atornillador  c
 
 🔎:
 
-- Un práctico destornillador manual con función de carraca y depósito para las puntas en la empuñadura
-- Colores surtidos
-- Puntas de atornillar duraderas para todos los tipos y tamaños de tornillos convencionales
-- Apropiadas para todas las marcas de herramientas eléctricas y destornilladores manuales
 - Con 12 llaves de vaso para tornillos hexagonales
-- Un soporte universal magnético para un cambio rápido de las puntas de atornillar y para una buena sujeción del tornillo en la punta de atornillar
+- Puntas de atornillar duraderas para todos los tipos y tamaños de tornillos convencionales
+- Colores surtidos
+- Un práctico destornillador manual con función de carraca y depósito para las puntas en la empuñadura
 - Disposición cómoda en práctico envase
+- Apropiadas para todas las marcas de herramientas eléctricas y destornilladores manuales
+- Un soporte universal magnético para un cambio rápido de las puntas de atornillar y para una buena sujeción del tornillo en la punta de atornillar
 - Incluye: 32 puntas de atornillar, 2 llaves de vaso para tornillos hexagonales, 1 portapuntas universal magnético, 1 destornillador manual, depósito para brocas en la empuñadura
 
 [Comprar!!!](https://www.amazon.es/dp/B000NDGQD4/?tag=tolees-21)

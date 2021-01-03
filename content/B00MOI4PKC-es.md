@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Big Bang Theory - Rajesh  llavero an al 57.84 % de rebaja'
-date: 2020-12-23 11:57:02
+date: 2021-01-03 16:02:38
 image: 'https://m.media-amazon.com/images/I/41eWaE8IRlL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Tienes [The Big Bang Theory - Rajesh  llavero antiestrés mosquetón  8 cm  SD T
 
 🔎:
 
-- Dimensión 8 cm
 - Presentado en blíster
+- Dimensión 8 cm
 - Llavero antiestres con el personaje de Rajesh, de la serie de televisión The Big Bang Theory
 
 [Comprar!!!](https://www.amazon.es/dp/B00MOI4PKC/?tag=tolees-21)

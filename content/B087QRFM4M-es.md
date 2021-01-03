@@ -26,9 +26,9 @@ Tienes [Plastoy One Piece Luffy Hucha Chibi  Multicolor  7B3957481A ](https://ww
 🔎:
 
 - Licencia Oficial
-- Hucha
 - One Piece
-- Caja ilustrada
 - chibi
+- Hucha
+- Caja ilustrada
 
 [Comprar!!!](https://www.amazon.es/dp/B087QRFM4M/?tag=tolees-21)

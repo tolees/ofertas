@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.37 % en Hasbro Gaming Juego de mesa Operación  H'
-date: 2021-01-02 16:42:12
+date: 2021-01-03 16:49:40
 image: 'https://m.media-amazon.com/images/I/51T91XwPqxL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00STL6W40/?tag=tolees-21'
 descuento: '29.37'
-average: '21.650781249999998'
+average: '21.636818181818178'
 ---
 
 Tienes [Hasbro Gaming Juego de mesa Operación  Hasbro B2176B09](https://www.amazon.es/dp/B00STL6W40/?tag=tolees-21) con un 29.37 % de descuento con precio de oferta de 21.19 EUR (original: 30.0 EUR) en el siguiente enlace!
@@ -27,8 +27,8 @@ Tienes [Hasbro Gaming Juego de mesa Operación  Hasbro B2176B09](https://www.ama
 
 - Incluye 13 piezas del cuerpo divertidas
 - Los niños pueden jugar solos o con amigos
-- El jugador que quite más piezas del cuerpo gana
-- La nariz se ilumina cuando las pinzas tocan los laterales
 - El juego clásico de Operación desafía a los niños a quitar las piezas sin hacer sonar la alarma
+- La nariz se ilumina cuando las pinzas tocan los laterales
+- El jugador que quite más piezas del cuerpo gana
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00STL6W40/?tag=tolees-21)

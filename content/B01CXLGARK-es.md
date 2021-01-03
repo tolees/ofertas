@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Libellud- Loony Quest: The Lost City - e al 46.70 % de descuento'
-date: 2020-12-16 20:25:42
+date: 2021-01-03 16:20:51
 image: 'https://m.media-amazon.com/images/I/41zKb4rjDxL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Está [Libellud- Loony Quest: The Lost City - español  Color  Asmodee LOO02ES ]
 
 ℹ️:
 
-- Juego de tablero.
 - Juego de mesa.
+- Juego de tablero.
 - Juego entretenido y divertido para amigos y familia.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01CXLGARK/?tag=tolees-21)
