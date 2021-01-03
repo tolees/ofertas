@@ -25,11 +25,11 @@ Ahora mismo tienes [bollé Backline Visor Cascos de Esquí  Unisex Adulto  Negro
 
 🔎:
 
+- Cat. 3 buen tiempo
+- Construcción: hardshell-abs
+- Lente: pc silver gun
+- Tipo de deporte: snow skiing
 - Con pintura metálica y un interior forrado de fieltro, el backline visor ofrece un confort extremo en su versión premium. Características clave: carcasa de abs, visor con amplio campo de visión y ventilación ajustable
 - Sistema de ventilación ajustable
-- Lente: pc silver gun
-- Construcción: hardshell-abs
-- Tipo de deporte: snow skiing
-- Cat. 3 buen tiempo
 
 [Visítala!!!](https://www.amazon.es/dp/B01D4VC7SE/?tag=tolees-21)

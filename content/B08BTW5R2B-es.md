@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tribu de Sinvergüenzas 🤣 WASA 🤣 – Juego  al 15.04 % de descuento'
-date: 2021-01-02 17:25:41
+date: 2021-01-03 17:29:41
 image: 'https://m.media-amazon.com/images/I/517anAepqrL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08BTW5R2B/?tag=tolees-21'
 descuento: '15.04'
-average: '16.8474358974359'
+average: '16.85'
 ---
 
 Ahora mismo tienes [Tribu de Sinvergüenzas 🤣 WASA 🤣 – Juego de Mesa - Juego de Cartas para Fiestas y Risas. 🔥 by](https://www.amazon.es/dp/B08BTW5R2B/?tag=tolees-21) a 16.95 EUR (original: 19.95 EUR) (15.04 %  de descuento) en el siguiente enlace!

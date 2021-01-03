@@ -25,10 +25,10 @@ En este momento está [Iris Ohyama  ventilador silencioso  oscilante y potente -
 
 🔎:
 
-- Inclinación de 75 ° hacia arriba y oscilación de hasta 45 ° para adaptar perfectamente el aire soplado a su nivel.
 - Woozoo con 3 poderes de aire soplado, con un modo ultra silencioso, que permite utilizarlo día y noche.
+- También se puede utilizar en invierno para distribuir mejor el calor y así ahorrar energía.
 - Ideal para usar en su oficina / hogar: ventilador que puede enfriar una superficie de 13 m².
 - El chorro de aire se difunde en forma de espiral, lo que favorece una mejor distribución del aire dentro de su interior.
-- También se puede utilizar en invierno para distribuir mejor el calor y así ahorrar energía.
+- Inclinación de 75 ° hacia arriba y oscilación de hasta 45 ° para adaptar perfectamente el aire soplado a su nivel.
 
 [Aquí!!!](https://www.amazon.es/dp/B07NC328SH/?tag=tolees-21)

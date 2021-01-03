@@ -26,9 +26,9 @@ Ahora mismo tienes [Barbie Dreamtopia Unicornio Mágico para las muñecas  jugue
 🔎:
 
 - Gracias a la fácil activación, los niños repetirán el efecto una y otra vez para conseguir efectos mágicos
-- El reluciente cuerpo blanco con estrellitas con bordes de colores se iluminará, mientras que las crines y la cola rosas, y las pezuñas azules harán la experiencia más divertida
 - Existen dos modos de juego: cepillando las largas crines rosas del unicornio con el cepillo o pulsando el botón en el cuerpo del unicornio, en ambos casos el efecto siempre es mágico
-- El unicornio brillos de arcoíris de barbie dreamtopia aporta magia a la diversión con 4 tipos distintos de luces y sonidos
 - Regalo óptimo para niñas y niños de más de 3 años
+- El reluciente cuerpo blanco con estrellitas con bordes de colores se iluminará, mientras que las crines y la cola rosas, y las pezuñas azules harán la experiencia más divertida
+- El unicornio brillos de arcoíris de barbie dreamtopia aporta magia a la diversión con 4 tipos distintos de luces y sonidos
 
 [Visítala!!!](https://www.amazon.es/dp/B07FDFBZVR/?tag=tolees-21)

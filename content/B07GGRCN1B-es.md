@@ -25,10 +25,10 @@ Está [IEFIEL Conjuntos Deportivos para Niña Pantalones Cortos Y Crop Top Ajust
 
 ℹ️:
 
-- Suave y la tela suave, cómoda y transpirable para llevar.
-- Adecuado para la clase de danza, gimnasia, escenario, etc
-- Pantalón con cintura elástica.
-- Manga corta, cuello elástico.
 - Conjunto ropa verano de niña.
+- Pantalón con cintura elástica.
+- Suave y la tela suave, cómoda y transpirable para llevar.
+- Manga corta, cuello elástico.
+- Adecuado para la clase de danza, gimnasia, escenario, etc
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07GGRCN1B/?tag=tolees-21)

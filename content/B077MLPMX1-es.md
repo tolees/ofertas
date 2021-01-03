@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Smash Wns V2 L  Zapatillas Mujer  B al 34.23 % de descuento'
-date: 2021-01-02 16:45:17
+date: 2021-01-03 17:07:34
 image: 'https://m.media-amazon.com/images/I/31CtiC1XhuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077MLPMX1/?tag=tolees-21'
 descuento: '34.23'
-average: '34.94473684210527'
+average: '34.87372881355933'
 ---
 
 Está [PUMA Smash Wns V2 L  Zapatillas Mujer  Blanco White White  38 EU](https://www.amazon.es/dp/B077MLPMX1/?tag=tolees-21) con 34.23 de descuento por 32.85 EUR (original: 49.95 EUR) en el siguiente enlace!
@@ -25,11 +25,11 @@ Está [PUMA Smash Wns V2 L  Zapatillas Mujer  Blanco White White  38 EU](https:/
 
 ℹ️:
 
+- Cierre: Cordones
+- Material exterior: Cuero
+- Material de la suela: Goma
+- Revestimiento: Sintético
 - Tipo de tacón: Plano
 - Composición: Leder
-- Material de la suela: Goma
-- Material exterior: Cuero
-- Cierre: Cordones
-- Revestimiento: Sintético
 
 [Ver la oferta!!](https://www.amazon.es/dp/B077MLPMX1/?tag=tolees-21)

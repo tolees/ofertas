@@ -25,10 +25,10 @@ Tienes [Barbie - Casa amueblada pleglable con cocina  piscina  dormitorio y lava
 
 🔎:
 
-- Prepara un almuerzo fantástico en la cocina, que incluye un fregadero, un horno, una cacerola y vajilla para dos
-- Despliega la cama abatible del dormitorio y sueña con los angelitos con tu manta y almohada
-- Llena la piscina de agua y pásatelo en grande mientras Barbie nada bajo las luces de colores que cuelgan del techo extensible del patio
 - Acerca las dos sillas a la barra de la cocina para cenar dentro o fuera de la casa
+- Llena la piscina de agua y pásatelo en grande mientras Barbie nada bajo las luces de colores que cuelgan del techo extensible del patio
+- Despliega la cama abatible del dormitorio y sueña con los angelitos con tu manta y almohada
 - La casa portátil de Barbie se despliega para descubrir 60 cm de espacio para jugar dentro o fuera de la casa. Este conjunto cuenta con una cocina, un dormitorio, un cuarto de baño y una piscina exterior, pero también incluye una muñeca Barbie con un bonito vestido de flores y zapatos a juego
+- Prepara un almuerzo fantástico en la cocina, que incluye un fregadero, un horno, una cacerola y vajilla para dos
 
 [Comprar!!!](https://www.amazon.es/dp/B086VYMK9W/?tag=tolees-21)

@@ -26,9 +26,9 @@ Tienes [Cuerdas de Liu Qin Laúd Chino de Soprano para Instalacion y Reparacion 
 🔎:
 
 - * 4 Cuerdas Tipo para Liu Qin Laúd chino Laúd soprano
-- * Alta calidad y buen rendimiento.
+- * Perfecto como una cadena de reemplazo para los viejos o sucios.
 - * Cuerdas de núcleo de acero, sonido pleno y claro.
 - * Grande para el regalo del amante de la música del principiante.
-- * Perfecto como una cadena de reemplazo para los viejos o sucios.
+- * Alta calidad y buen rendimiento.
 
 [Comprar!!!](https://www.amazon.es/dp/B06XNSF389/?tag=tolees-21)

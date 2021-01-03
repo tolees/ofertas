@@ -25,10 +25,10 @@ En este momento está [MSI Pro 24X 10M-042EU - Ordenador de sobremesa de 23.8" F
 
 🔎:
 
-- Tarjeta gráfica IntelHD Graphics
 - Sistema operativo Windows 10 Mobile
 - Memoria RAM de 8 GB SO-DIMM DDR4
-- Disco SSD de 512 GB
 - Procesador Intel Core i5-10210U (4 núcleos, 6 MB Cache, 1.6 GHz hasta 4.2 GHz)
+- Tarjeta gráfica IntelHD Graphics
+- Disco SSD de 512 GB
 
 [Aquí!!!](https://www.amazon.es/dp/B087RMSSH8/?tag=tolees-21)

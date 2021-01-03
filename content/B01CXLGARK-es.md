@@ -25,8 +25,8 @@ Está [Libellud- Loony Quest: The Lost City - español  Color  Asmodee LOO02ES ]
 
 ℹ️:
 
-- Juego de mesa.
 - Juego de tablero.
+- Juego de mesa.
 - Juego entretenido y divertido para amigos y familia.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01CXLGARK/?tag=tolees-21)

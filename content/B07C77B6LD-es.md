@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sardinas en aceite de oliva  Sardinillas al 24.97 % de descuento'
-date: 2021-01-01 22:38:37
+date: 2021-01-03 17:20:23
 image: 'https://m.media-amazon.com/images/I/41qwP1YttrL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C77B6LD/?tag=tolees-21'
 descuento: '24.97'
-average: '13.600000000000001'
+average: '13.511111111111113'
 ---
 
 Está [Sardinas en aceite de oliva  Sardinillas -10-14 pzs/lata- Portomar- Pack 8 x 115gr-total= 920 gr.](https://www.amazon.es/dp/B07C77B6LD/?tag=tolees-21) con 24.97 de descuento por 12.8 EUR (original: 17.06 EUR) en el siguiente enlace!
@@ -27,8 +27,8 @@ Está [Sardinas en aceite de oliva  Sardinillas -10-14 pzs/lata- Portomar- Pack 
 
 - Rico en Omega 3, fuente natural de calcio y vitamina D.
 - Enlatadas manualmente pieza por pieza.
-- Ingredientes: sardinas, aceite de oliva y sal.
 - Tamaño: 10/14 piezas/lata.
 - Solas, como aperitivo o en ensalada, aportan un plus de sabor, aroma y textura a cualquier elaboración.
+- Ingredientes: sardinas, aceite de oliva y sal.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07C77B6LD/?tag=tolees-21)

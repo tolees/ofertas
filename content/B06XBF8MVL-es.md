@@ -25,10 +25,10 @@ En este momento está [Sensilis Supreme - Renewal Detox  Mascarilla Detoxificant
 
 🔎:
 
-- Ideal incluso para las pieles más irritadas
-- Con textura mousse, suave y cremosa
-- Mascarilla detoxificante e hidratante, elaborada con aceites vegetales
-- Acción reparadora, regeneradora, detoxificante, renovadora y calmante
 - Con excelente poder emoliente, que suaviza y calma
+- Acción reparadora, regeneradora, detoxificante, renovadora y calmante
+- Con textura mousse, suave y cremosa
+- Ideal incluso para las pieles más irritadas
+- Mascarilla detoxificante e hidratante, elaborada con aceites vegetales
 
 [Aquí!!!](https://www.amazon.es/dp/B06XBF8MVL/?tag=tolees-21)
