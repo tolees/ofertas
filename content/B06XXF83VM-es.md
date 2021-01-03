@@ -25,7 +25,7 @@ En este momento está [New Balance Hombre 574v2-core Trainers Zapatillas  Verde 
 
 🔎:
 
-- Revestimiento: Tela
 - Material exterior: Cuero
+- Revestimiento: Tela
 
 [Aquí!!!](https://www.amazon.es/dp/B06XXF83VM/?tag=tolees-21)

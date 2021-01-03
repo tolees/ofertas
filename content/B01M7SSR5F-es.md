@@ -25,10 +25,10 @@ Tienes [Blink Sistema de cámaras de seguridad  1. Gen  para interiores con dete
 
 ℹ️:
 
-- DETECTOR DE MOVIMIENTO: Cuando el sensor de movimiento integrado se activa, la cámara wifi envía una alerta a tu smartphone, realiza una breve grabación y la almacena en la nube.
 - ALMACENAMIENTO EN LA NUBE SIN COSTE ADICIONAL: Olvídate de los cables, de las cuotas mensuales y de los contratos de servicio
-- SISTEMA DE SEGURIDAD CON FUNCIONAMIENTO A PILAS: Sistema de seguridad inalámbrico para el hogar que funciona con 2 pilas AA de litio (incluidas) y tiene una autonomía de 2 años. Las cámaras IP realizan la transferencia de datos a través de wifi.
 - SEGURIDAD PARA EL HOGAR DIGITAL: Sistema muy fácil de instalar. Controla las cámaras inalámbricas cómodamente a través de la app disponible para iOS y Android.
+- DETECTOR DE MOVIMIENTO: Cuando el sensor de movimiento integrado se activa, la cámara wifi envía una alerta a tu smartphone, realiza una breve grabación y la almacena en la nube.
 - SISTEMA DE SEGURIDAD DE ÚLTIMA GENERACIÓN: Échale un vistazo a tu mascota o comprueba que todo está en orden en tu hogar en tiempo real gracias al modo en directo.
+- SISTEMA DE SEGURIDAD CON FUNCIONAMIENTO A PILAS: Sistema de seguridad inalámbrico para el hogar que funciona con 2 pilas AA de litio (incluidas) y tiene una autonomía de 2 años. Las cámaras IP realizan la transferencia de datos a través de wifi.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01M7SSR5F/?tag=tolees-21)

@@ -1,28 +1,33 @@
 ---
 layout: post
-title: 'Kingston Canvas Select Plus Tarjeta micr al 41.70 % de descuento'
-date: 2020-11-25 06:15:46
+title: 'Kingston Canvas Select Plus Tarjeta micr con un 34.03 % de descuento'
+date: 2021-01-03 14:11:36
 image: 'https://m.media-amazon.com/images/I/41H0dBfajxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07YGZQ4H8-es'
-actualPrice: 6.99 EUR
+actualPrice: 7.91 EUR
 currency: EUR
-price: 6.99
+price: 7.91
 comparePrice: 11.99 EUR
 prodname: 'Kingston Canvas Select Plus Tarjeta microSD  SDCS2/64GB Class 10 con Adaptador SD'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07YGZQ4H8/?tag=tolees-21'
-descuento: '41.70'
+descuento: '34.03'
+average: '8.695365853658537'
 ---
 
-Está [Kingston Canvas Select Plus Tarjeta microSD  SDCS2/64GB Class 10 con Adaptador SD](https://www.amazon.es/dp/B07YGZQ4H8/?tag=tolees-21) con 41.70 de descuento por 6.99 EUR (original: 11.99 EUR) en el siguiente enlace!
+En este momento está [Kingston Canvas Select Plus Tarjeta microSD  SDCS2/64GB Class 10 con Adaptador SD](https://www.amazon.es/dp/B07YGZQ4H8/?tag=tolees-21) a 7.91 EUR (original: 11.99 EUR) (34.03 %  de descuento) en el siguiente enlace!
 
 [![Kingston Canvas Select Plus Tarjeta micr](https://m.media-amazon.com/images/I/41H0dBfajxL._SL200_.jpg)](https://www.amazon.es/dp/B07YGZQ4H8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Tipo de tarjeta flash: MicroSDXC
+- Optimizadas para uso con dispositivos Android
+- Funciones de protección: resistente a golpes, resistente a las vibraciones, a prueba de rayos X
+- Velocidades de UHS-I Clase 10 de hasta 100 MB/s
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07YGZQ4H8/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B07YGZQ4H8/?tag=tolees-21)

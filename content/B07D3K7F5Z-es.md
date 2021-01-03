@@ -25,10 +25,10 @@ Tienes [Playxtrem Estel Fix 106214F 865 - Silla de coche con Isofix para grupo 2
 
 ℹ️:
 
-- Conectores Isofix regulables
-- Grupo 2/3
 - Plegado compacto que facilita el transporte
-- Cabezal y laterales ajustables
+- Grupo 2/3
 - 3 posiciones de reclinado
+- Cabezal y laterales ajustables
+- Conectores Isofix regulables
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D3K7F5Z/?tag=tolees-21)

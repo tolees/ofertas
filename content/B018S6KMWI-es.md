@@ -25,9 +25,9 @@ Está [Lamaze - Olga la oruga presumida  Bizak 30697244    color  modelo surtido
 
 ℹ️:
 
-- Tiene un tejido agradable y suave al tacto
-- Oruga con ocho partes que se pueden volver, mezclar o clasificar
-- Los colores vivos invitan al bebé a concentrarse y explorar
 - Ayuda a desarrollar percepción y habilidades motoras finas
+- Tiene un tejido agradable y suave al tacto
+- Los colores vivos invitan al bebé a concentrarse y explorar
+- Oruga con ocho partes que se pueden volver, mezclar o clasificar
 
 [Ver la oferta!!](https://www.amazon.es/dp/B018S6KMWI/?tag=tolees-21)
