@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Halloween EDT 100 ml al 62.50 % de descuento'
-date: 2021-01-02 04:26:27
+date: 2021-01-03 04:40:29
 image: 'https://m.media-amazon.com/images/I/41AGSrDPLuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000C1Z6NS/?tag=tolees-21'
 descuento: '62.50'
-average: '25.553612903225787'
+average: '25.552929936305713'
 ---
 
 Está [Halloween EDT 100 ml](https://www.amazon.es/dp/B000C1Z6NS/?tag=tolees-21) con 62.50 de descuento por 25.5 EUR (original: 68.0 EUR) en el siguiente enlace!

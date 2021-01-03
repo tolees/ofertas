@@ -25,10 +25,10 @@ Tienes [Superga 2578-cotu  Zapatillas de Gimnasia  Blanco  White 901   35 EU](ht
 
 🔎:
 
-- Material de la suela: Goma
-- Cierre: Cordones
 - Revestimiento: Tela
 - Material exterior: Lona
+- Cierre: Cordones
+- Material de la suela: Goma
 - Tipo de tacón: Tacón ancho
 
 [Comprar!!!](https://www.amazon.es/dp/B07TS8VF4Q/?tag=tolees-21)

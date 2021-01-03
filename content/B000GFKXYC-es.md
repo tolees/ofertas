@@ -25,8 +25,8 @@ Tienes [Ngs MS 102 Microfono de sobremesa para el escritorio y monitor  Negro](h
 
 ℹ️:
 
-- Fácil instalación
-- Flexible
 - Micrófono con cable, multimedia
+- Flexible
+- Fácil instalación
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000GFKXYC/?tag=tolees-21)
