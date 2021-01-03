@@ -25,8 +25,8 @@ Ahora mismo tienes [PUMA Basket Heart Patent Wn S  Zapatillas Mujer  Beis  Rock 
 
 🔎:
 
-- Cierre: cordones
-- Material exterior: sintético
 - Tipo de tacón: plano
+- Material exterior: sintético
+- Cierre: cordones
 
 [Visítala!!!](https://www.amazon.es/dp/B077MKTMJV/?tag=tolees-21)

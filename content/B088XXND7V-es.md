@@ -25,8 +25,8 @@ Ahora mismo tienes [ASICS Gel-Cumulus 22  Zapatillas para Correr Hombre  Black D
 
 🔎:
 
+- Zapatillas de running
 - Entresuela con tecnología Flytefoam.
 - Empeine de malla.
-- Zapatillas de running
 
 [Visítala!!!](https://www.amazon.es/dp/B088XXND7V/?tag=tolees-21)

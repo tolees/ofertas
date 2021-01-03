@@ -25,8 +25,8 @@ Tienes [Lee Luke Vaqueros  Grey Used SF  29W / 34L para Hombre](https://www.amaz
 
 🔎:
 
+- Presentan 5 bolsillos
 - Vaqueros para hombre
 - Tienen un parche de piel en la parte trasera con la marca Lee
-- Presentan 5 bolsillos
 
 [Comprar!!!](https://www.amazon.es/dp/B079KG94LC/?tag=tolees-21)

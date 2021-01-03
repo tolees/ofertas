@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'MARSGAMING Mars Gaming MHBC  Cascos Gami al 56.93 % de rebaja'
-date: 2020-12-24 17:16:27
+title: 'MARSGAMING Mars Gaming MHBC  Cascos Gami al 63.61 % de rebaja'
+date: 2021-01-03 12:05:29
 image: 'https://m.media-amazon.com/images/I/41tco7mXTXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07BYZ99MH-es'
-actualPrice: 12.9 EUR
+actualPrice: 10.9 EUR
 currency: EUR
-price: 12.9
+price: 10.9
 comparePrice: 29.95 EUR
 prodname: 'MARSGAMING Mars Gaming MHBC  Cascos Gaming FC Barcelona Oficial  Superbass  PS4/XBOX/SWITCH'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BYZ99MH/?tag=tolees-21'
-descuento: '56.93'
-average: '12.362'
+descuento: '63.61'
+average: '11.944285714285716'
 ---
 
-Tienes [MARSGAMING Mars Gaming MHBC  Cascos Gaming FC Barcelona Oficial  Superbass  PS4/XBOX/SWITCH](https://www.amazon.es/dp/B07BYZ99MH/?tag=tolees-21) con precio final de  12.9 EUR (original: 29.95 EUR) (56.93 %  de rebaja) aqui!
+Tienes [MARSGAMING Mars Gaming MHBC  Cascos Gaming FC Barcelona Oficial  Superbass  PS4/XBOX/SWITCH](https://www.amazon.es/dp/B07BYZ99MH/?tag=tolees-21) con precio final de  10.9 EUR (original: 29.95 EUR) (63.61 %  de rebaja) aqui!
 
 [![MARSGAMING Mars Gaming MHBC  Cascos Gami](https://m.media-amazon.com/images/I/41tco7mXTXL._SL200_.jpg)](https://www.amazon.es/dp/B07BYZ99MH/?tag=tolees-21)
 
