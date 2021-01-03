@@ -25,10 +25,10 @@ Tienes [SOTYA Jugo Aloe Vera 1 litro](https://www.amazon.es/dp/B00PYD0GH0/?tag=t
 
 ℹ️:
 
-- De la marca Sotya
-- Dosis medias: efecto laxante.
 - Dosis elevadas: efecto purgante.
 - Alimento complementario en casos de estreñimiento, gastritis y úlceras de estomago.
+- Dosis medias: efecto laxante.
+- De la marca Sotya
 - Dosis bajas: colagogo y cicatrizante estomacal.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00PYD0GH0/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Orbegozo NVE 4500 B - Nevera eléctrica   al 25.93 % de descuento'
-date: 2020-12-23 14:28:42
+date: 2021-01-03 10:03:34
 image: 'https://m.media-amazon.com/images/I/31rMJZSe-ZL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B008ZBNI46/?tag=tolees-21'
 descuento: '25.93'
-average: '106.57600000000001'
+average: '105.96000000000001'
 ---
 
 Está [Orbegozo NVE 4500 B - Nevera eléctrica  refrigeración termoeléctrica  sistema "No Frost"  patas ajustables  luz LED interna  70 W  38 L](https://www.amazon.es/dp/B008ZBNI46/?tag=tolees-21) con 25.93 de descuento por 102.88 EUR (original: 138.9 EUR) en el siguiente enlace!
@@ -26,10 +26,10 @@ Está [Orbegozo NVE 4500 B - Nevera eléctrica  refrigeración termoeléctrica  
 ℹ️:
 
 - Luz interior tipo LED de bajo consumo, control de temperatura ajustable, patas de altura regulable en altura y peso de 9 kg
-- Rango de temperatura entre 5⁰C - 12⁰C según temperatura ambiente
 - Motor silencioso con un nivel de ruido de 39 dB y sin vibraciones
 - Conexión 230V, 50Hz
 - Mini frigorífico Orbegozo en color negro, 38 litros de capacidad y puerta reversible que permitirá elegir su lado de apertura
+- Rango de temperatura entre 5⁰C - 12⁰C según temperatura ambiente
 - Electrodoméstico de larga duración y fácil mantenimiento y limpieza. Sistema de frío sin refrigerante respetuoso con el medio ambiente
 
 [Ver la oferta!!](https://www.amazon.es/dp/B008ZBNI46/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Orbegozo RF 2000 Radiador de aceite  200 al 18.68 % de descuento'
-date: 2021-01-02 10:56:59
+date: 2021-01-03 10:58:12
 image: 'https://m.media-amazon.com/images/I/31LXWKPCI1L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H81BDGX/?tag=tolees-21'
 descuento: '18.68'
-average: '46.90677419354839'
+average: '46.9669696969697'
 ---
 
 Está [Orbegozo RF 2000 Radiador de aceite  2000W de potencia  construcción modular de 9 elementos y diseño en color blanco](https://www.amazon.es/dp/B07H81BDGX/?tag=tolees-21) con 18.68 de descuento por 47.9 EUR (original: 58.9 EUR) en el siguiente enlace!

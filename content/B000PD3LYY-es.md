@@ -26,8 +26,8 @@ En este momento está [Winsor & Newton Cotman - Pack de 12 tubos de pintura para
 🔎:
 
 - Adecuado para todas las técnicas de acuarela
+- El sistema de cartuchos ofrece seguridad y versatilidad
 - Marca: Winsor & Newton
 - Incluye un pincel Cotman
-- El sistema de cartuchos ofrece seguridad y versatilidad
 
 [Aquí!!!](https://www.amazon.es/dp/B000PD3LYY/?tag=tolees-21)

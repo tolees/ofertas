@@ -25,9 +25,9 @@ Tienes [Roadstar HRA-1200N/WH - Radio portátil  analógico  AM  FM  1.2 W  blan
 
 ℹ️:
 
-- Radio también puede ser operado con baterías (4 x UM-3), no incluidos
-- Radio con estilo retro y luz de fondo azul
 - Sintonizador FM/AM y transmisor analógico
 - Con 1 altavoz de 10 vatios de potencia musical
+- Radio con estilo retro y luz de fondo azul
+- Radio también puede ser operado con baterías (4 x UM-3), no incluidos
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00CG62G0S/?tag=tolees-21)

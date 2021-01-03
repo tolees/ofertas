@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vero Moda VMLADY L/S G-String Shirt Noos al 19.89 % de descuento'
-date: 2021-01-02 10:29:17
+date: 2021-01-03 10:47:58
 image: 'https://m.media-amazon.com/images/I/31BY0LbVqCL._SL200_.jpg'
 comments: true
 category: ofertas

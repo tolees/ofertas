@@ -27,7 +27,7 @@ Ahora mismo tienes [Funko- Pop Disney: Archives-Tailor Mickey Figura Coleccionab
 
 - Recomendado para niños a partir de 3 años
 - El artículo es adecuado para todos los fanáticos de Mickey Mouse
-- Figura de vinilo de la marca Funko
 - El producto se envía en una caja ilustrada con ventana
+- Figura de vinilo de la marca Funko
 
 [Visítala!!!](https://www.amazon.es/dp/B083MCSM2X/?tag=tolees-21)

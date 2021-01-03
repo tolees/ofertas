@@ -27,7 +27,7 @@ En este momento está [Gru  Mi Villano Favorito - Disfraz de Minion para niña  
 
 - Incluye vestido, guantes, calcetines hasta la rodilla, cinta para la cabeza y gafas
 - Disfraz de Minion para niña
-- Hecho de material de poliéster
 - Disponible en varias tallas
+- Hecho de material de poliéster
 
 [Aquí!!!](https://www.amazon.es/dp/B00BIUZPS8/?tag=tolees-21)
