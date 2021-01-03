@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Deik Bascula Baño  Báscula Baño Digital  al 15.02 % de descuento'
-date: 2020-12-29 21:00:39
+date: 2021-01-03 07:35:44
 image: 'https://m.media-amazon.com/images/I/31HGGX1bmeL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CZ1X7V6/?tag=tolees-21'
 descuento: '15.02'
-average: '15.630256410256413'
+average: '15.48878048780488'
 ---
 
 Está [Deik Bascula Baño  Báscula Baño Digital con Pantalla LCD Retroiluminada  Alta Precisión  Gran Plataforma  180 Kilogramm  Incluida Herramienta de Medida y 2 Baterías AAA  Transparente  blanco ](https://www.amazon.es/dp/B07CZ1X7V6/?tag=tolees-21) con 15.02 de descuento por 12.73 EUR (original: 14.98 EUR) en el siguiente enlace!
