@@ -25,15 +25,15 @@ Está [Beurer EM49 - Electroestimulador digital  para aliviar el dolor muscular 
 
 ℹ️:
 
-- Desconexión de seguridad
+- Doctors-Function para conseguir la adaptación ideal a su programa de tratamiento personalizado
+- Pantalla LCD inversa con retroiluminación azul
 - Intensidad ajustable
-- Tratamiento del dolor (TENS); Estimulación muscular (EMS)
 - Indicación de posicionamiento de los electrodos
 - 6 programas individualizables: frecuencia, ancho del pulso, tiempo de encendido/apagado programables
 - 64 aplicaciones preprogramadas
-- Pantalla LCD inversa con retroiluminación azul
-- Doctors-Function para conseguir la adaptación ideal a su programa de tratamiento personalizado
 - 4 electrodos de gel autoadhesivos incluidos (45 x 45 mm)
+- Tratamiento del dolor (TENS); Estimulación muscular (EMS)
 - 2 canales regulables por separado
+- Desconexión de seguridad
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01KUJ1VMG/?tag=tolees-21)

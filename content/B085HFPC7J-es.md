@@ -25,10 +25,10 @@ Ahora mismo tienes [Duérmete Online - Colchón Viscoelástico Nature Biogel | A
 
 🔎:
 
-- Diseño y calidad: el colchón nature biogel incorpora un núcleo de hr con gran densidad, que nos aporta firmeza, junto a su exclusivo y mullido acolchado viscoelástico con biogel, con microcápsulas de gel que regulan la temperatura, garantizando un confort total en cualquier época del año, además de una excelente aireación interna del colchón, elaborado con materiales 100% transpirables
-- Libertad de movimientos: independencia de lechos, de esa no notamos los movimientos del otro durmiente
-- Producto de confianza: fabricado de forma sostenible en españa, con certificados oeko-tex y certipur de ausencia de sustancias nocivas; la seguridad y bienestar de los tuyos son lo primero; altura total 29cm (+/-1cm)
 - Confort máximo: colchón exclusivo, firme pero confortable, ideal para quien busca un descanso de calidad a un precio justo y razonable
 - Tejido premium: colchón totalmente protegido de ácaros, bacterias y hongos, gracias al tratamiento que incorpora en su tejido premium de alto gramaje, evitando la aparición de reacciones alérgicas y aportando un tacto suave y sedoso; en la cara inferior incorpora tejido 3d súper transpirable para una total ventilación y aireación del colchón
+- Producto de confianza: fabricado de forma sostenible en españa, con certificados oeko-tex y certipur de ausencia de sustancias nocivas; la seguridad y bienestar de los tuyos son lo primero; altura total 29cm (+/-1cm)
+- Libertad de movimientos: independencia de lechos, de esa no notamos los movimientos del otro durmiente
+- Diseño y calidad: el colchón nature biogel incorpora un núcleo de hr con gran densidad, que nos aporta firmeza, junto a su exclusivo y mullido acolchado viscoelástico con biogel, con microcápsulas de gel que regulan la temperatura, garantizando un confort total en cualquier época del año, además de una excelente aireación interna del colchón, elaborado con materiales 100% transpirables
 
 [Visítala!!!](https://www.amazon.es/dp/B085HFPC7J/?tag=tolees-21)

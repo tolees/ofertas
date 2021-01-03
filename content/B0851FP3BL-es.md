@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Collar X Malice -Unlimited- con un 22.73 % de descuento'
-date: 2021-01-01 11:50:06
+date: 2021-01-03 13:20:49
 image: 'https://m.media-amazon.com/images/I/51RuVwDDfAL._SL200_.jpg'
 comments: true
 category: ofertas

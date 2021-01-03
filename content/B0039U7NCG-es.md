@@ -25,9 +25,9 @@ Ahora mismo tienes [Abratools - Bobina hilo acero diámetro 200/0 8mm 5kg](https
 
 🔎:
 
-- Soldar todas las posiciones
-- Elevada estabilidad del arco en altas corrientes
-- Excelentes propiedades de cebado
 - Buena resistencia del alambre a la corrosión
+- Elevada estabilidad del arco en altas corrientes
+- Soldar todas las posiciones
+- Excelentes propiedades de cebado
 
 [Visítala!!!](https://www.amazon.es/dp/B0039U7NCG/?tag=tolees-21)

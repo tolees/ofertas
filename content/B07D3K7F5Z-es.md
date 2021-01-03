@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.99 % en Playxtrem Estel Fix 106214F 865 - Silla '
-date: 2020-12-29 07:04:20
+date: 2021-01-03 13:05:12
 image: 'https://m.media-amazon.com/images/I/41xMgeihQhL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Tienes [Playxtrem Estel Fix 106214F 865 - Silla de coche con Isofix para grupo 2
 
 ℹ️:
 
-- 3 posiciones de reclinado
-- Cabezal y laterales ajustables
 - Conectores Isofix regulables
 - Grupo 2/3
 - Plegado compacto que facilita el transporte
+- Cabezal y laterales ajustables
+- 3 posiciones de reclinado
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D3K7F5Z/?tag=tolees-21)

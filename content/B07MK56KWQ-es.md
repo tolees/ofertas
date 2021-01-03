@@ -25,11 +25,11 @@ Está [Figura de Stitch  Disney  Resina  Multicolor  Enesco](https://www.amazon.
 
 ℹ️:
 
-- Colores resistentes al agua
-- Tipo de material: resina
-- Pintado a mano
-- Producto adecuado para regalar, decorar o coleccionar
-- Peso del producto: 90.7 g
 - Fácil de limpiar y mantener
+- Peso del producto: 90.7 g
+- Tipo de material: resina
+- Producto adecuado para regalar, decorar o coleccionar
+- Pintado a mano
+- Colores resistentes al agua
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07MK56KWQ/?tag=tolees-21)

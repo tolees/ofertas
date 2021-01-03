@@ -27,8 +27,8 @@ Ahora mismo tienes [Theo Klein 9356 Caja registradora de juguete  Con teclado de
 
 - La gran caja registradora de juguete convierte la habitación de los niños en una tienda, con sonidos y efectos de luz reales
 - Este juguete de aprendizaje bien diseñado también incluye dinero de juguete con el que los pequeños clientes pueden comprar y vender mercancías
-- Sello «Spiel Gut», Medidas: 31 cm x 15.5 cm x 23 cm, apto para niños a partir de tres años, Pilas necesarias 3 x R6-AA, No incluidas en la entrega
-- La caja registradora suma todo correctamente, el escáner se ilumina y emite un pitido, la balanza, el teclado e incluso la propia caja al abrirla suenan igual que cuando se va de compras
 - Los niños pueden asumir el rol de dueños de tiendas, cajeros o clientes con la versátil caja registradora y aprender aritmética de forma divertida
+- La caja registradora suma todo correctamente, el escáner se ilumina y emite un pitido, la balanza, el teclado e incluso la propia caja al abrirla suenan igual que cuando se va de compras
+- Sello «Spiel Gut», Medidas: 31 cm x 15.5 cm x 23 cm, apto para niños a partir de tres años, Pilas necesarias 3 x R6-AA, No incluidas en la entrega
 
 [Visítala!!!](https://www.amazon.es/dp/B007CCQXKA/?tag=tolees-21)
