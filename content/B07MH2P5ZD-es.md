@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.74 % en WD BLACK SN750 de 500 GB - SSD NVMe inte'
-date: 2021-01-02 04:32:01
+date: 2021-01-03 05:15:35
 image: 'https://m.media-amazon.com/images/I/41Cn4nC47hL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MH2P5ZD/?tag=tolees-21'
 descuento: '40.74'
-average: '86.76177215189874'
+average: '86.677125'
 ---
 
 Tienes [WD BLACK SN750 de 500 GB - SSD NVMe interno de alto rendimiento para gaming](https://www.amazon.es/dp/B07MH2P5ZD/?tag=tolees-21) con un 40.74 % de descuento con precio de oferta de 79.99 EUR (original: 134.99 EUR) en el siguiente enlace!
@@ -25,9 +25,9 @@ Tienes [WD BLACK SN750 de 500 GB - SSD NVMe interno de alto rendimiento para gam
 
 ℹ️:
 
-- El panel de control exclusivo de la SSD WD Black mejora el rendimiento al jugar
 - Disponible en capacidades que van de 250 GB a 1 TB
 - Velocidades de transferencia de hasta 3470 MB/s para disfrutar de mejores tiempos de carga
+- El panel de control exclusivo de la SSD WD Black mejora el rendimiento al jugar
 - Diseño elegante para personalizar tu red de juegos
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MH2P5ZD/?tag=tolees-21)

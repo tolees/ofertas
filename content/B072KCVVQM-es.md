@@ -25,10 +25,10 @@ Ahora mismo tienes [Disney Un Beso Inesperado Figurina de Peter Pan y Wendy  Res
 
 🔎:
 
-- Arte popular inspirado con colores vivos
-- Diseñada por Jim Shore
 - Altura: 19.0 cm
-- Figurilla decorativa de la colección Disney Traditions
 - Está destinada para adultos, no es un juguete
+- Figurilla decorativa de la colección Disney Traditions
+- Diseñada por Jim Shore
+- Arte popular inspirado con colores vivos
 
 [Visítala!!!](https://www.amazon.es/dp/B072KCVVQM/?tag=tolees-21)

@@ -25,9 +25,9 @@ Tienes [Martina D Antiochia  La Diversión de Martina  Grey-Estuche Portatodo Tr
 
 🔎:
 
-- Portatodo plano para lápices
-- Forro interior
-- 3 compartimentos y cierre con cremallera
 - Dimensiones: 11 x 23,5 x 5 cm
+- Forro interior
+- Portatodo plano para lápices
+- 3 compartimentos y cierre con cremallera
 
 [Comprar!!!](https://www.amazon.es/dp/B07XCRLPG9/?tag=tolees-21)

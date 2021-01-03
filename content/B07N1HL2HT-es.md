@@ -25,12 +25,12 @@ Ahora mismo tienes [Superga 2730-cotu  Zapatillas de Gimnasia Mujer  Negro  Full
 
 🔎:
 
-- Material de la suela: goma.
-- Tipo de tacón: tacón de bloqueo.
-- Diámetro de la pantorrilla: normal.
 - Forro: tela.
-- Material exterior: tela.
-- Ancho del zapato: normal.
+- Diámetro de la pantorrilla: normal.
 - Cierre: cordón.
+- Material exterior: tela.
+- Tipo de tacón: tacón de bloqueo.
+- Ancho del zapato: normal.
+- Material de la suela: goma.
 
 [Visítala!!!](https://www.amazon.es/dp/B07N1HL2HT/?tag=tolees-21)
