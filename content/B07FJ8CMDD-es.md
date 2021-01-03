@@ -25,8 +25,8 @@ En este momento está [Bollé Schuss Máscaras  Unisex adulto  Azul  Navy Mate  
 
 🔎:
 
-- Categoría: 1
 - Lente: Light Vermillon Blue
+- Categoría: 1
 - Lente cilíndrica
 
 [Aquí!!!](https://www.amazon.es/dp/B07FJ8CMDD/?tag=tolees-21)
