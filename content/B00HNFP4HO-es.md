@@ -25,8 +25,8 @@ Tienes [TP-LINK TL-WR840N - Router WiFi  300 Mbps](https://www.amazon.es/dp/B00H
 
 🔎:
 
-- Encriptación de seguridad inalámbrica fácil con sólo pulsar el botón WPS
 - Puente inalámbrico WDS proporciona el enlace inconsútil para ampliar su red inalámbrica
 - Control de ancho de banda basado en IP permite a los administradores determinar cuánto ancho de banda se asigna a cada PC
+- Encriptación de seguridad inalámbrica fácil con sólo pulsar el botón WPS
 
 [Comprar!!!](https://www.amazon.es/dp/B00HNFP4HO/?tag=tolees-21)

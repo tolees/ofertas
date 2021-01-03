@@ -25,10 +25,10 @@ Tienes [FITTOO Mallas Pantalones Deportivos Leggings Mujer Yoga de Alta Cintura 
 
 ℹ️:
 
-- se le queda bien con mucho tipo de chaqueta.
 - Rango de uso： Perfecto para Yoga,Pilates, Ejercicio, gimnasio,se uso todos los dias
-- Pantalones Depotivos de Yoga : extensible es para una mejor libertad de movimiento
 - Diseño sexy
 - La material de alta calidad
+- Pantalones Depotivos de Yoga : extensible es para una mejor libertad de movimiento
+- se le queda bien con mucho tipo de chaqueta.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07LFS5VZX/?tag=tolees-21)
