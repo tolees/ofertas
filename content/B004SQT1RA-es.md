@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'tesa 56192-00011-02 Cinta aislante en PV al 28.29 % de descuento'
-date: 2020-12-21 14:04:44
+date: 2021-01-02 23:41:21
 image: 'https://m.media-amazon.com/images/I/514aRH64GLL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Está [tesa 56192-00011-02 Cinta aislante en PVC 10m x 15mm  blanco](https://www
 
 ℹ️:
 
-- Resistente a la abrasión
-- Protege líneas eléctricas
-- Protección segura de la corriente eléctrica hasta 6.000 V
-- Se adapta y sujeta fácilmente superficies desiguales
 - Para aislar y sujetar cables eléctricos
+- Resistente a la abrasión
+- Protección segura de la corriente eléctrica hasta 6.000 V
+- Protege líneas eléctricas
+- Se adapta y sujeta fácilmente superficies desiguales
 
 [Ver la oferta!!](https://www.amazon.es/dp/B004SQT1RA/?tag=tolees-21)

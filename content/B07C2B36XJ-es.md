@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjebasic Knit V-Neck Noos s al 40.02 % de descuento'
-date: 2020-12-26 19:01:03
+date: 2021-01-02 23:02:05
 image: 'https://m.media-amazon.com/images/I/51fgt4ioWoL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,7 +25,9 @@ Está [Jack & Jones Jjebasic Knit V-Neck Noos suéter  Gris  Navy Blazer Detail:
 
 ℹ️:
 
-- Para mayor comodidad, los puños de punto elásticos también garantizan la estabilidad de la forma de este conjunto de moda. Se adapta perfectamente a look de negocios y a conjuntos informales y te protege siempre contra el frío.
-- Este jersey atemporal convence por su diseño inteligente. Puedes elegir entre diferentes colores y un cuello redondo o en V. El suave punto fino de algodón es agradable de llevar.
+- De algodón cómodo
+- Composición: 100% algodón
+- Parte de punto de ajuste regular para hombre
+- - Danza clásica – y adecuada para cada día
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07C2B36XJ/?tag=tolees-21)

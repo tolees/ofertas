@@ -25,10 +25,10 @@ Está [SZXCX Tablero de Escritura de Pantalla LCD eléctrico de 4.4 Pulgadas Tab
 
 ℹ️:
 
-- 1.La exclusiva tecnología LCD flexible de consumo cero, la capa reflectante incorporada en el panel LCD, sin energía adicional para mantener el contenido de la pantalla, mientras que cuanto más brillante es el entorno, más claro es el efecto de visualización.
+- 2. El tamaño de una fuente o línea se puede cambiar cambiando la intensidad de la escritura.
 - 4.Principio de visualización: utilizando las características del cristal líquido biestable, cuando hay presión en la superficie de la pantalla de cristal líquido se puede registrar la trayectoria.
 - 3. Cuanto mayor sea la intensidad de la prensa, más gruesa será la marca, lo que da como resultado un rico efecto de boceto. Después de escribir, si no lo necesita, simplemente presione el botón de arriba, la pantalla volverá a un nuevo estado.
-- 2. El tamaño de una fuente o línea se puede cambiar cambiando la intensidad de la escritura.
+- 1.La exclusiva tecnología LCD flexible de consumo cero, la capa reflectante incorporada en el panel LCD, sin energía adicional para mantener el contenido de la pantalla, mientras que cuanto más brillante es el entorno, más claro es el efecto de visualización.
 - 5. Impulsada por una cierta forma de onda de voltaje, la pantalla LCD biestable se restaura a su estado inicial. Solo se necesita una corriente débil al conducir la actualización para lograr un bajo consumo de energía.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08LKXYWR1/?tag=tolees-21)

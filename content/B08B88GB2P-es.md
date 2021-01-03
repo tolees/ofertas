@@ -25,10 +25,10 @@ Ahora mismo tienes [YGoal Funda Compatible con Huawei Matebook D15 2020  Cubiert
 
 🔎:
 
-- [Instalación fácil] Fácil de instalar y quitar. Acceso total a todos los puertos y funciones, conecte su cargador, cable o auriculares sin quitar la funda. Pies de goma para mantener su Huawei Matebook D15 2020 firmemente en su lugar.
 - Funda rígida de PC para HONOR MagicBook 15 2020 /Huawei Matebook D15 15.6 pulgada 2020 (BoB-WAE9P / BoB-WAH9P / BoB-WAH9) Solamente. NO NO NO es apto para huawei Matebook D 2018 (MRC-W00/MRC-W10BR / MRC-W60R / MRC-W60 / MRC-W50R / MRC-W50 / MRC-W70 / MRC-W00 / PL-W19 / PL-W29).
 - Lista de paquetes: 1 x Funda rígida de PC para Huawei Matebook D15 2020 15.6". Por favor revise cuidadosamente el modelo de su computadora portátil antes de realizar el pedido. Si tiene alguna pregunta, no dude en ponerse en contacto con el vendedor.
-- [Skin Touch] El revestimiento de goma suave ofrece un tacto suave y sedoso mientras protege su Huawei Matebook D15 2020 contra golpes, arañazos, polvo y otros daños.
 - [Peso ligero] La carcasa solo pesa 13.4 oz y tiene un grosor de 1.2 mm. Sin diseño de logotipo cortado, la transparencia es diferente según el color diferente.
+- [Instalación fácil] Fácil de instalar y quitar. Acceso total a todos los puertos y funciones, conecte su cargador, cable o auriculares sin quitar la funda. Pies de goma para mantener su Huawei Matebook D15 2020 firmemente en su lugar.
+- [Skin Touch] El revestimiento de goma suave ofrece un tacto suave y sedoso mientras protege su Huawei Matebook D15 2020 contra golpes, arañazos, polvo y otros daños.
 
 [Visítala!!!](https://www.amazon.es/dp/B08B88GB2P/?tag=tolees-21)

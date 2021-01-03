@@ -25,10 +25,10 @@ Ahora mismo tienes [Cable guy Battery  soporte de sujeción y carga para mando d
 
 🔎:
 
-- Producto con licencia oficial Call of Duty de Activision
-- Incluye cable de carga de 2 metros (conector lightning, mini usb y usb)
 - Compatible con todos los teléfonos móviles o smartphones actuales
-- Personaje Battery de la saga Black Ops 4
 - Compatible con mando o controller PS4, Xbox one y PC
+- Incluye cable de carga de 2 metros (conector lightning, mini usb y usb)
+- Personaje Battery de la saga Black Ops 4
+- Producto con licencia oficial Call of Duty de Activision
 
 [Visítala!!!](https://www.amazon.es/dp/B07DDWNPMP/?tag=tolees-21)

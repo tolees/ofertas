@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'POP! Vinilo: Disney: Toy Story 4: Alien al 23.67 % de rebaja'
-date: 2021-01-01 22:47:20
+date: 2021-01-02 23:09:17
 image: 'https://m.media-amazon.com/images/I/31tnBDtKIRL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KPK6G4R/?tag=tolees-21'
 descuento: '23.67'
-average: '13.872539682539683'
+average: '13.85646153846154'
 ---
 
 Tienes [POP! Vinilo: Disney: Toy Story 4: Alien](https://www.amazon.es/dp/B07KPK6G4R/?tag=tolees-21) con precio final de  13.35 EUR (original: 17.49 EUR) (23.67 %  de rebaja) aqui!
@@ -25,10 +25,10 @@ Tienes [POP! Vinilo: Disney: Toy Story 4: Alien](https://www.amazon.es/dp/B07KPK
 
 🔎:
 
-- Funko pop vinyl
-- Juguete del año 2018
-- Disney toy story 4
 - De la colección toy story 4, alien como figura de vinilo pop de funko
+- Juguete del año 2018
 - Descúbre otras figuras de la colección disney y colecciónalas todas
+- Funko pop vinyl
+- Disney toy story 4
 
 [Comprar!!!](https://www.amazon.es/dp/B07KPK6G4R/?tag=tolees-21)

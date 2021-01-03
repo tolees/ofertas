@@ -25,9 +25,9 @@ Está [Western Digital Expert Series EX2 Ultra My Cloud - Almacenamiento en Red 
 
 ℹ️:
 
-- 1 GB de memoria DDR3 para poder realizar varias tareas con facilidad
-- Equipado con My Cloud OS 3
-- Sincronización automática de archivos en todos sus ordenadores
 - Almacenamiento en red centralizado y acceso desde cualquier lugar
+- Equipado con My Cloud OS 3
+- 1 GB de memoria DDR3 para poder realizar varias tareas con facilidad
+- Sincronización automática de archivos en todos sus ordenadores
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01BIGSRLS/?tag=tolees-21)

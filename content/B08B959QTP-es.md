@@ -25,10 +25,10 @@ Tienes [King C. Gillette Recortadora de Barba y Cortapelos Inalámbrica  con Cuc
 
 🔎:
 
-- 3 cabezales para todos los estilos de barba: barba de tres días (1 mm), corta (3-11 mm) y larga (13-21 mm)
-- Con tecnología Braun de recorte de barba
-- Hojas afiladas de larga duración para obtener excelentes resultados
 - Incluye un cabezal, peines lavables, escobilla de limpieza y cargador
+- Con tecnología Braun de recorte de barba
 - Batería recargable con 50 minutos de autonomía por carga
+- Hojas afiladas de larga duración para obtener excelentes resultados
+- 3 cabezales para todos los estilos de barba: barba de tres días (1 mm), corta (3-11 mm) y larga (13-21 mm)
 
 [Comprar!!!](https://www.amazon.es/dp/B08B959QTP/?tag=tolees-21)

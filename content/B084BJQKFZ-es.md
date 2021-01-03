@@ -25,10 +25,10 @@ Tienes [Spin Master Games Rubik S Perplexus Hybrid 2 x 2  desafiante Juego de Ha
 
 🔎:
 
-- Llévate a cualquier lugar: el tamaño de Rubik Perplexus Fusion hace que sea el rompecabezas perfecto para llevar a cualquier lugar para diversión sobre la marcha
-- Fácil de aprender, difícil de dominar: una curva de aprendizaje rápido permite un comienzo fácil, pero necesitas desarrollar tus habilidades para ser un maestro. A partir de 8 años
-- Combina los juegos de Rubbike y Perplexo: gira y gira el Perplexo en tu camino para resolver el rompecabezas definitivo
-- 200 barreras desafiantes: hazlo a través de este intrincado laberinto, donde docenas de barreras aumentan el desafío
 - Incluye: 1 fusión de perplexo de Rubik, instrucciones (idioma español no garantizado)
+- Fácil de aprender, difícil de dominar: una curva de aprendizaje rápido permite un comienzo fácil, pero necesitas desarrollar tus habilidades para ser un maestro. A partir de 8 años
+- 200 barreras desafiantes: hazlo a través de este intrincado laberinto, donde docenas de barreras aumentan el desafío
+- Combina los juegos de Rubbike y Perplexo: gira y gira el Perplexo en tu camino para resolver el rompecabezas definitivo
+- Llévate a cualquier lugar: el tamaño de Rubik Perplexus Fusion hace que sea el rompecabezas perfecto para llevar a cualquier lugar para diversión sobre la marcha
 
 [Comprar!!!](https://www.amazon.es/dp/B084BJQKFZ/?tag=tolees-21)

@@ -1,28 +1,36 @@
 ---
 layout: post
-title: 'Vans Filmore  Zapatillas para Hombre Neg al 37.16 % de descuento'
-date: 2020-12-02 10:08:36
+title: 'Vans Filmore Suede Canvas   Zapatillas H con un 19.87 % de descuento'
+date: 2021-01-02 23:15:08
 image: 'https://m.media-amazon.com/images/I/41UpJGDR2kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B078W3BTC8-es'
-actualPrice: 43.99 EUR
+actualPrice: 56.09 EUR
 currency: EUR
-price: 43.99
+price: 56.09
 comparePrice: 70.0 EUR
-prodname: 'Vans Filmore  Zapatillas para Hombre Negro  Suede/canvas  44 EU'
+prodname: 'Vans Filmore Suede Canvas   Zapatillas Hombre  Black/White Iju  44 EU'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078W3BTC8/?tag=tolees-21'
-descuento: '37.16'
+descuento: '19.87'
+average: '45.61933333333334'
 ---
 
-Ahora mismo tienes [Vans Filmore  Zapatillas para Hombre Negro  Suede/canvas  44 EU](https://www.amazon.es/dp/B078W3BTC8/?tag=tolees-21) a 43.99 EUR (original: 70.0 EUR) (37.16 %  de descuento) en el siguiente enlace!
+En este momento está [Vans Filmore Suede Canvas   Zapatillas Hombre  Black/White Iju  44 EU](https://www.amazon.es/dp/B078W3BTC8/?tag=tolees-21) a 56.09 EUR (original: 70.0 EUR) (19.87 %  de descuento) en el siguiente enlace!
 
-[![Vans Filmore  Zapatillas para Hombre Neg](https://m.media-amazon.com/images/I/41UpJGDR2kL._SL200_.jpg)](https://www.amazon.es/dp/B078W3BTC8/?tag=tolees-21)
+[![Vans Filmore Suede Canvas   Zapatillas H](https://m.media-amazon.com/images/I/41UpJGDR2kL._SL200_.jpg)](https://www.amazon.es/dp/B078W3BTC8/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Material de la suela: Goma
+- Revestimiento: Tela
+- Cierre: Cordones
+- Composición: textil
+- Material exterior: Cuero
+- Tipo de tacón: Plano
+- Anchura del zapato: Regular
 
-[Visítala!!!](https://www.amazon.es/dp/B078W3BTC8/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B078W3BTC8/?tag=tolees-21)
