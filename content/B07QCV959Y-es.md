@@ -25,9 +25,9 @@ Tienes [Asmodee - Azul Vitrales de Sintra  NMG00011ES ](https://www.amazon.es/dp
 
 🔎:
 
+- Tiempo de juego: 15-45 minutos
 - Juego de Mesa con Fichas
 - De 2 a 4 jugadores
 - De 8 años en adelante
-- Tiempo de juego: 15-45 minutos
 
 [Comprar!!!](https://www.amazon.es/dp/B07QCV959Y/?tag=tolees-21)

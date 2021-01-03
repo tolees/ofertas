@@ -25,10 +25,10 @@ En este momento está [Russell Hobbs Retro – Cafetera Espresso  Presión 15 Ba
 
 🔎:
 
-- Diseño retro de estilo industrial y elegante indicador de control
-- Depósito de agua extraíble y transparente para controlar el nivel de agua
-- Calentador de termobloque para calentar el agua rápidamente y función calienta tazas
 - Varilla de vapor giratoria para tus expresos, lattes y capuchinos
 - Máquina de café espresso com presión de 15 bares para utilizar con café molido o cápsulas ESE
+- Depósito de agua extraíble y transparente para controlar el nivel de agua
+- Diseño retro de estilo industrial y elegante indicador de control
+- Calentador de termobloque para calentar el agua rápidamente y función calienta tazas
 
 [Aquí!!!](https://www.amazon.es/dp/B08DNZN3CS/?tag=tolees-21)

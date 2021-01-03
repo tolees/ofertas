@@ -25,11 +25,11 @@ En este momento está [Mrs Pott y Chip de La Bella y La Bestia  Mundo de Miss Mi
 
 🔎:
 
-- Colores resistentes al agua
+- Dimensiones del producto: 11 x 7 x 10.3 cm
 - Tipo de material: resina de piedra
 - Este producto tiene un diseño atractivo
 - Producto adecuado para regalar, decorar o coleccionar
-- Dimensiones del producto: 11 x 7 x 10.3 cm
 - El producto es multicolor
+- Colores resistentes al agua
 
 [Aquí!!!](https://www.amazon.es/dp/B07DKY8GVG/?tag=tolees-21)

@@ -25,11 +25,11 @@ Ahora mismo tienes [Alicia de Alicia en el País de las Maravillas  Mundo de Mis
 
 🔎:
 
-- El producto es multicolor
-- Dimensiones del producto: 8 x 14 x 18 cm
+- Producto adecuado para regalar, decorar o coleccionar
 - Colores resistentes al agua
 - Este producto tiene un diseño atractivo
 - Tipo de material: vinilo
-- Producto adecuado para regalar, decorar o coleccionar
+- Dimensiones del producto: 8 x 14 x 18 cm
+- El producto es multicolor
 
 [Visítala!!!](https://www.amazon.es/dp/B07DKRSX77/?tag=tolees-21)

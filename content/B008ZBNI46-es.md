@@ -28,8 +28,8 @@ Está [Orbegozo NVE 4500 B - Nevera eléctrica  refrigeración termoeléctrica  
 - Luz interior tipo LED de bajo consumo, control de temperatura ajustable, patas de altura regulable en altura y peso de 9 kg
 - Motor silencioso con un nivel de ruido de 39 dB y sin vibraciones
 - Conexión 230V, 50Hz
-- Mini frigorífico Orbegozo en color negro, 38 litros de capacidad y puerta reversible que permitirá elegir su lado de apertura
-- Rango de temperatura entre 5⁰C - 12⁰C según temperatura ambiente
 - Electrodoméstico de larga duración y fácil mantenimiento y limpieza. Sistema de frío sin refrigerante respetuoso con el medio ambiente
+- Rango de temperatura entre 5⁰C - 12⁰C según temperatura ambiente
+- Mini frigorífico Orbegozo en color negro, 38 litros de capacidad y puerta reversible que permitirá elegir su lado de apertura
 
 [Ver la oferta!!](https://www.amazon.es/dp/B008ZBNI46/?tag=tolees-21)

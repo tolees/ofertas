@@ -25,8 +25,8 @@ En este momento está [Real Madrid PB-24-RM Portatodo Bota](https://www.amazon.e
 
 🔎:
 
-- Suela con tacos
 - Producto oficial real madrid
 - Cordones de verdad
+- Suela con tacos
 
 [Aquí!!!](https://www.amazon.es/dp/B073SQ4YK8/?tag=tolees-21)

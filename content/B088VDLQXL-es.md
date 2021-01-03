@@ -27,7 +27,7 @@ En este momento está [Panasonic SC-HTB400EGK - Barra de Sonido 2.1 All-In-One c
 
 - Subwoofer integrado: olvídate de buscar un rincón para el subwoofer, en esta barra ya lo tiene integrado por lo que nativamente ofrece unos graves muy potentes y precisos
 - Montaje en pared: totalmente posible para que encaje en cualquier rincón de tu hogar
-- Entrada y conexiones: ofrece múltiples opciones para que el dispositivo este conectado: Bluetooth, HDMI, ARC, Entrada digital óptica
 - Canal 2.1: disfruta del mejor sonido en tus series favoritas
+- Entrada y conexiones: ofrece múltiples opciones para que el dispositivo este conectado: Bluetooth, HDMI, ARC, Entrada digital óptica
 
 [Aquí!!!](https://www.amazon.es/dp/B088VDLQXL/?tag=tolees-21)

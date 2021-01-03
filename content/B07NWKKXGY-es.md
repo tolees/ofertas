@@ -25,10 +25,10 @@ Ahora mismo tienes [Bella y Bestia  Mundo de Miss Mindy Disney  vinilo  Enesco](
 
 🔎:
 
+- Prodcuto con licencia oficial disney
+- Inspirada en la Bella y en una mini Bestia
+- Pintada a mano con todo lujo de detalles
 - Su tamaño es de unos 18 cm y está fabricada en resina
 - Si eres fan de las películas disney, esta figura de bella te va a encantar
-- Pintada a mano con todo lujo de detalles
-- Inspirada en la Bella y en una mini Bestia
-- Prodcuto con licencia oficial disney
 
 [Visítala!!!](https://www.amazon.es/dp/B07NWKKXGY/?tag=tolees-21)
