@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.52 % en Roadstar HRA-1200N/WH - Radio portátil  '
-date: 2020-12-30 15:23:03
+date: 2021-01-03 08:20:43
 image: 'https://m.media-amazon.com/images/I/51A+3um6gbL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ Tienes [Roadstar HRA-1200N/WH - Radio portátil  analógico  AM  FM  1.2 W  blan
 
 ℹ️:
 
-- Sintonizador FM/AM y transmisor analógico
-- Con 1 altavoz de 10 vatios de potencia musical
 - Radio también puede ser operado con baterías (4 x UM-3), no incluidos
 - Radio con estilo retro y luz de fondo azul
+- Con 1 altavoz de 10 vatios de potencia musical
+- Sintonizador FM/AM y transmisor analógico
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00CG62G0S/?tag=tolees-21)

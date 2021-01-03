@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FEBER - Ponyfeber Correpasillos  Famosa  con un 30.01 % de descuento'
-date: 2021-01-02 07:45:30
+date: 2021-01-03 08:10:47
 image: 'https://m.media-amazon.com/images/I/41TeeryUGfL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,9 +26,9 @@ En este momento está [FEBER - Ponyfeber Correpasillos  Famosa 800006280 ](https
 🔎:
 
 - Para niños y niñas a partir de 1 año
-- Convertible en balancín
-- Correpasillos con forma de pony
 - Incluye sonido de trote y relincho
+- Correpasillos con forma de pony
+- Convertible en balancín
 - Estable por sus grandes ruedas
 
 [Aquí!!!](https://www.amazon.es/dp/B003IDO8OA/?tag=tolees-21)
