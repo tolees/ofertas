@@ -25,10 +25,10 @@ Ahora mismo tienes [Bosch Professional GWS 18-125 V-LI Amoladora Angular  2 bate
 
 🔎:
 
-- Incluye: GWS 18-125 V-LI, 2 baterías, GBA 18V 4.0ah, empuñadura adicional, brida, tuerca de apriete, cubierta protectora, llave de dos agujeros, cargador rápido, GAL 18V-40, en maletín L-BOXX 136
 - Óptimo rendimiento de desbaste y de corte de su categoría por cada carga de batería
-- La amoladora angular a batería GWS 18-125 V-LI profesional, la amoladora angular de 18 Voltios más ligera de su clase
-- Profesional 12 v system; rendimiento compacto, óptima libertad
 - Prolongada vida útil gracias al robusto y resistente motor de alto rendimiento de cuatro polos
+- Incluye: GWS 18-125 V-LI, 2 baterías, GBA 18V 4.0ah, empuñadura adicional, brida, tuerca de apriete, cubierta protectora, llave de dos agujeros, cargador rápido, GAL 18V-40, en maletín L-BOXX 136
+- Profesional 12 v system; rendimiento compacto, óptima libertad
+- La amoladora angular a batería GWS 18-125 V-LI profesional, la amoladora angular de 18 Voltios más ligera de su clase
 
 [Visítala!!!](https://www.amazon.es/dp/B01G2UNYKE/?tag=tolees-21)

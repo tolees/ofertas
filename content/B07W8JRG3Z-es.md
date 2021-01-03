@@ -25,9 +25,9 @@ En este momento está [Funko- Huckleberry-Pop 6 Collectible Toy  Multicolor  455
 
 🔎:
 
-- Figure stands 9.5cm and comes in a window display box
 - From star wars: mandalorian, the client, as a stylized pop vinyl from funko
-- Funko pop; is the 2018 toy of the year and peoples choice award winner
 - Check out the other disney figures from funko and collect them all
+- Figure stands 9.5cm and comes in a window display box
+- Funko pop; is the 2018 toy of the year and peoples choice award winner
 
 [Aquí!!!](https://www.amazon.es/dp/B07W8JRG3Z/?tag=tolees-21)

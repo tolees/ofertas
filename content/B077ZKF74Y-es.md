@@ -26,9 +26,9 @@ Tienes [Kärcher 1.512-050.0 SC 2 EasyFix - Limpiadora de Vapor Manual](https://
 🔎:
 
 - Limpieza profunda sin químicos, puede eliminar hasta el 99,99% de las bacterias
-- Rellenar con agua del grifo junto con el descalcificadora según dureza del agua, no usar nunca con agua destilada
 - Con múltiples accesorios para la limpieza de toda la casa y kit de suelos Easyfix que evita el contacto con la suciedad
-- Práctico alojamiento para los accesorios
 - Limpiadora de vapor fácil de manejar y recomendada como iniciación a la limpieza a vapor
+- Rellenar con agua del grifo junto con el descalcificadora según dureza del agua, no usar nunca con agua destilada
+- Práctico alojamiento para los accesorios
 
 [Comprar!!!](https://www.amazon.es/dp/B077ZKF74Y/?tag=tolees-21)

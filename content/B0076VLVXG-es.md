@@ -25,9 +25,9 @@ Está [Black+Decker A7188 - Set de 50 piezas con brocas y puntas para atornillar
 
 ℹ️:
 
-- Las brocas para metal tienen revestimiento de titanio
+- Dispone de soporte magnético, avellanado
 - Los accesorios vienen almacenados en un maletín de color negro y naranja
 - Incluye llaves de vaso hexagonales y adaptador
-- Dispone de soporte magnético, avellanado
+- Las brocas para metal tienen revestimiento de titanio
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0076VLVXG/?tag=tolees-21)

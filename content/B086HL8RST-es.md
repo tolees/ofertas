@@ -25,9 +25,9 @@ En este momento está [Alma Atlántica Albariño Espumoso - 750 ml](https://www.
 
 🔎:
 
-- Frutal con aromas de manzana y pera madura, melón y macedonia. Notas florales (gardenia y azahar). Boca refrescante, persistente, sabrosa, con retronasal muy fruta
-- Espumoso blanco de albariño
 - Un proyecto de Bodegas Martín Códax en el que se viaja al origen y a varietales únicos
 - Una manera diferente de sentir el Albariño: Refrescante, sabroso, frutal y con burbujas
+- Espumoso blanco de albariño
+- Frutal con aromas de manzana y pera madura, melón y macedonia. Notas florales (gardenia y azahar). Boca refrescante, persistente, sabrosa, con retronasal muy fruta
 
 [Aquí!!!](https://www.amazon.es/dp/B086HL8RST/?tag=tolees-21)

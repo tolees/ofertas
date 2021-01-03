@@ -25,10 +25,10 @@ Ahora mismo tienes [IGLESIAS - Paleta de cebo Ibérica  50% raza ibérica Lonche
 
 🔎:
 
-- Mantener en un lugar fresco y seco
-- Sobres de 100g/ud envasados al vacío, elaborado en Salamanca, con larga curación, mínimo 20 meses
-- Apto para Celiacos
 - País de origen: España
 - Incluye caja de regalo "Permítase un regalo"
+- Sobres de 100g/ud envasados al vacío, elaborado en Salamanca, con larga curación, mínimo 20 meses
+- Mantener en un lugar fresco y seco
+- Apto para Celiacos
 
 [Visítala!!!](https://www.amazon.es/dp/B07R6SR7HW/?tag=tolees-21)

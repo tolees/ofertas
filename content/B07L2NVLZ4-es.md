@@ -26,9 +26,9 @@ Tienes [BLACK+DECKER BDCHD18S1KA-QW - Taladro percutor 18V con set de 104 acceso
 🔎:
 
 - Diámetro máximo de perforación en madera 25 mm, en metal 10 mm y en mampostería 10 mm.
+- El kit también incluye: 1 batería de litio 18V 1.5Ah, cargador y caja de herramientas.
 - Taladro percutor a batería 18V con porta brocas de 10 mm y 2 velocidades para mayor control en tareas de perforación y atornillado.
 - Acción percutora de 21.000 ipm (impactos por minuto) ideal para aplicaciones de perforación en mampostería y hormigón.
-- El kit también incluye: 1 batería de litio 18V 1.5Ah, cargador y caja de herramientas.
 - Juego de 104 piezas para atornillar y taladrar incluye: 10 brocas para metal con revestimiento de titanio, 5 brocas para mampostería, 11 brocas para madera, 1 adaptador magnético para puntas, 57 puntas para atornillar 25mm, 10 puntas para atornillar 50mm, 1 avellanador y 9 llaves de vaso hexagonal.
 
 [Comprar!!!](https://www.amazon.es/dp/B07L2NVLZ4/?tag=tolees-21)

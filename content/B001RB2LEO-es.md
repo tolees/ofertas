@@ -25,9 +25,9 @@ Ahora mismo tienes [Einhell 4500067 Banco corte  ideal para hacer leña con segu
 
 🔎:
 
-- Robusto y con perfiles metálicos galvanizados
-- 3 alturas diferentes de trabajo
 - Para troncos de hasta 40 cm de diámetro
+- 3 alturas diferentes de trabajo
 - Plegable, con el consiguiente ahorro de espacio de almacenamiento
+- Robusto y con perfiles metálicos galvanizados
 
 [Visítala!!!](https://www.amazon.es/dp/B001RB2LEO/?tag=tolees-21)
