@@ -25,8 +25,8 @@ Tienes [Avengers Legends E91835X0 Captain America Figura de acción](https://www
 
 🔎:
 
-- Avengers Legends E91835X0 Captain America
-- Peso del producto: 231 gr
 - Dimensiones del producto: 6,4 x 15,2 x 26,7 cm
+- Peso del producto: 231 gr
+- Avengers Legends E91835X0 Captain America
 
 [Comprar!!!](https://www.amazon.es/dp/B083T9CMSZ/?tag=tolees-21)

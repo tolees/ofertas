@@ -25,10 +25,10 @@ Está [Deik Bascula Baño  Báscula Baño Digital con Pantalla LCD Retr
 
 ℹ️:
 
-- Seguro y Duradero: la plataforma grande de 30 "x 30"cm construida con vidrio templado es gruesa y duradera, la báscula tiene un diseño delgado, simple y antideslizante
 - 100% GARANTÍ Aprobado por CE / ROHS / FCC; 2 años de garantía y soporte de por vida por Deik.
-- MultifunciónAuto cero, auto encendido/apagado, batería baja e indicación de sobrecarga. (La báscula viene con una cinta métrica y 2 pilas AAA).
 - Durable y de seguridad Construido con una plataforma de vidrio templado transparente de 8 mm, gruesa y duradera, y esquinas redondeadas de aspecto elegante.Gran plataforma(300 x 300 x 21 mm) y gran pantalla LCD(73 x 38 mm)
 - Alta precisión 4 sensores con la última tecnología ofrecen mediciones de peso precisas de 5 kg a 180 kg en incrementos de 0.1Kg.
+- Seguro y Duradero: la plataforma grande de 30 "x 30"cm construida con vidrio templado es gruesa y duradera, la báscula tiene un diseño delgado, simple y antideslizante
+- MultifunciónAuto cero, auto encendido/apagado, batería baja e indicación de sobrecarga. (La báscula viene con una cinta métrica y 2 pilas AAA).
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07CZ1X7V6/?tag=tolees-21)

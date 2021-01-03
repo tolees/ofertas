@@ -25,10 +25,10 @@ En este momento está [Baby Einstein  Hape Tableta táctil madera Magic Touch   
 
 🔎:
 
-- Reproduce más de 150 melodías y habla en tres idiomas distintos
+- Juguete ideal a partir de los 6 meses de edad
 - Juguete de madera sin pantalla que ofrece una diversión duradera
 - Juguete infantil fácil de agarrar y portátil
-- Juguete ideal a partir de los 6 meses de edad
 - ¡Toca la tablet de madera para comenzar a explorar!
+- Reproduce más de 150 melodías y habla en tres idiomas distintos
 
 [Aquí!!!](https://www.amazon.es/dp/B07QXL2T8Z/?tag=tolees-21)

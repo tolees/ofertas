@@ -25,10 +25,10 @@ Tienes [TP-Link TL-SG1024 - Gigabit Ethernet de 24 Puerto  Conmutador no Gestion
 
 🔎:
 
-- Plug and play, no requiere configuración
-- Switch gigabit de 24 puertos, RJ45 de negociación automática gigabit de 10/100/1000 Mbps óptimamente expanden la capacidad de la red
-- Apoya la dirección MAC de autoaprendizaje, auto MDI / MDIX y auto negociación
 - La innovadora tecnología energéticamente eficiente ahorra el consumo de energía
+- Plug and play, no requiere configuración
+- Apoya la dirección MAC de autoaprendizaje, auto MDI / MDIX y auto negociación
 - Caja de acero montable en rack estándar de 19 pulgadas
+- Switch gigabit de 24 puertos, RJ45 de negociación automática gigabit de 10/100/1000 Mbps óptimamente expanden la capacidad de la red
 
 [Comprar!!!](https://www.amazon.es/dp/B000RSTX9O/?tag=tolees-21)

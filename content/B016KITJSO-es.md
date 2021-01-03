@@ -26,7 +26,7 @@ Está [Catit Reductor de Olores Magic Blue](https://www.amazon.es/dp/B016KITJSO/
 ℹ️:
 
 - Producto para gatos
-- Magic Blue es una almohadilla filtrante exclusiva no tóxica para bandejas sanitarias que absorbe y retiene hasta el 80% de amoniaco, que es el componente más peligroso e irritante de la orina de gato
 - Catit Reductor de Olores Magic Blue
+- Magic Blue es una almohadilla filtrante exclusiva no tóxica para bandejas sanitarias que absorbe y retiene hasta el 80% de amoniaco, que es el componente más peligroso e irritante de la orina de gato
 
 [Ver la oferta!!](https://www.amazon.es/dp/B016KITJSO/?tag=tolees-21)

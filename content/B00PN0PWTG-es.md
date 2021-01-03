@@ -26,8 +26,8 @@ Tienes [Tommy Hilfiger Core Hilfiger Regular Polo  Blanco  Bright White 100   Sm
 ℹ️:
 
 - Tejido a contraste en el interior del cuello
-- Polo de corte regular para hombre
 - Logo de Tommy Hilfiger bordado en el pecho
+- Polo de corte regular para hombre
 - Cinta distintiva en el interior del cuello
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00PN0PWTG/?tag=tolees-21)

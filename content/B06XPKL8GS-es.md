@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Nier Automata al 60.09 % de descuento'
-date: 2020-12-04 05:25:41
+title: 'Nier Automata con un 60.09 % de descuento'
+date: 2021-01-03 09:50:29
 image: 'https://m.media-amazon.com/images/I/41mP-vlgB2L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,13 +16,19 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XPKL8GS/?tag=tolees-21'
 descuento: '60.09'
+average: '21.616666666666667'
 ---
 
-Ahora mismo tienes [Nier Automata](https://www.amazon.es/dp/B06XPKL8GS/?tag=tolees-21) a 19.95 EUR (original: 49.99 EUR) (60.09 %  de descuento) en el siguiente enlace!
+En este momento está [Nier Automata](https://www.amazon.es/dp/B06XPKL8GS/?tag=tolees-21) a 19.95 EUR (original: 49.99 EUR) (60.09 %  de descuento) en el siguiente enlace!
 
 [![Nier Automata](https://m.media-amazon.com/images/I/41mP-vlgB2L._SL200_.jpg)](https://www.amazon.es/dp/B06XPKL8GS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Combates cargados de acción: Alterna entre ataques a corta y larga distancia al enfrentarte a hordas de enemigos y desafiantes jefes en múltiples mapas de mundo abierto. Los controles de combate son fáciles de dominar para los neófitos y a la vez ofrecen una profundidad formidable para los jugadores más avanzados. Podrás ejecutar ofensivas a gran velocidad combinando ataques ligeros y pesados, y probar todo tu arsenal de armas mientras esquivas enemigos ágilmente
+- Elementos de los juegos de rol: Consigue distintos tipos de armas, sube de nivel al luchar, aprende nuevas habilidades de combate y personaliza tu equipo en función de tu estilo
+- Una historia y unos personajes muy cuidados: NieR Automata narra la historia de los androides 2B, 9D y A2, que luchan enardecidamente para recuperar el mundo distópico dirigido por las máquinas que han invadido unas poderosas formas de vida mecánicas
+- Aprovecha las vainas de apoyo táctico dentro y fuera del combate: Las vainas pueden atacar al enemigo de forma manual y automática. También pueden proporcionar ayuda fuera del combate, por ejemplo, para desplazarse por el aire. Es posible mejorar las vainas a lo largo del juego con nuevos ataques y modificaciones
+- Un hermoso y desolado mundo abierto: El juego conecta los sobrecogedores paisajes y localizaciones fluidamente sin necesidad de carga. Los entornos se ejecutan a 60 fps y contienen un gran número de tramas secundarias además de la historia principal
 
-[Visítala!!!](https://www.amazon.es/dp/B06XPKL8GS/?tag=tolees-21)
+[Aquí!!!](https://www.amazon.es/dp/B06XPKL8GS/?tag=tolees-21)

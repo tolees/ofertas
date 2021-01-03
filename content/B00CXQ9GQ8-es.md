@@ -26,9 +26,9 @@ En este momento está [De Longhi DLSC002 Filtro agua antical  para cafeteras sup
 🔎:
 
 - Mantiene la eficiencia de la máquina
-- Ayuda a preservar el aroma del café
 - Descalificador natural
-- 100% biodegradable
 - Uso sencillo
+- 100% biodegradable
+- Ayuda a preservar el aroma del café
 
 [Aquí!!!](https://www.amazon.es/dp/B00CXQ9GQ8/?tag=tolees-21)

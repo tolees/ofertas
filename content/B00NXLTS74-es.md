@@ -25,9 +25,9 @@ Tienes [Tescoma Sello para Galletas con 6 ANIMALITOS Delicia](https://www.amazon
 
 🔎:
 
-- Sello con 6 motivos intercambiables
+- Adecuada para la preparación de galletas caseras decoradas
 - También dispone de un cortador redondo de la galleta
 - Los motivos se almacenan en el contenedor de almacenamiento
-- Adecuada para la preparación de galletas caseras decoradas
+- Sello con 6 motivos intercambiables
 
 [Comprar!!!](https://www.amazon.es/dp/B00NXLTS74/?tag=tolees-21)

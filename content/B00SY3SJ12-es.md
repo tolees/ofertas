@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Einhell 4513660 Taladro atornillador sin al 40.04 % de descuento'
-date: 2020-12-31 12:50:46
+date: 2021-01-03 09:51:12
 image: 'https://m.media-amazon.com/images/I/41CYjRw6TzL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00SY3SJ12/?tag=tolees-21'
 descuento: '40.04'
-average: '30.441153846153846'
+average: '30.40607142857143'
 ---
 
 Ahora mismo tienes [Einhell 4513660 Taladro atornillador sin cable TH-CD 12-2 Li  12 V  Fuerza 24Nm  Par de apriete 20  color rojo](https://www.amazon.es/dp/B00SY3SJ12/?tag=tolees-21) a 29.95 EUR (original: 49.95 EUR) (40.04 %  de descuento) en el siguiente enlace!
@@ -25,12 +25,12 @@ Ahora mismo tienes [Einhell 4513660 Taladro atornillador sin cable TH-CD 12-2 Li
 
 🔎:
 
-- Batería adecuada para varios equipos 12 V
-- Engranaje de 2 velocidades para el atornillado potente y perforación rápida
-- Mandril portabrocas de sujeción rápida de carcasa única con parada rápida
-- Bloqueo automático del husillo para cambio sencillo de herramientas
-- Batería de iones de litio: sin autodescarga, pequeña, ligera, de fácil manejo; batería de recambio integrada en el asa
 - Acoplamiento a fricción de par contra el paso de rosca de tornillos; empuñadura antideslizante ergonómica
+- Mandril portabrocas de sujeción rápida de carcasa única con parada rápida
 - Motor de gran potencia y engranaje metálico para par de giro elevado
+- Engranaje de 2 velocidades para el atornillado potente y perforación rápida
+- Bloqueo automático del husillo para cambio sencillo de herramientas
+- Batería adecuada para varios equipos 12 V
+- Batería de iones de litio: sin autodescarga, pequeña, ligera, de fácil manejo; batería de recambio integrada en el asa
 
 [Visítala!!!](https://www.amazon.es/dp/B00SY3SJ12/?tag=tolees-21)

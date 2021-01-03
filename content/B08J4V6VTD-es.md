@@ -25,8 +25,8 @@ Está [PACK X2 Old Spice Captain Loción Aftershave 100 ml](https://www.amazon.
 
 ℹ️:
 
-- El aftershave de Old Spice calma, estimula y refresca
 - La loción aftershave de Old Spice contiene propiedades antisépticas que ayudan a cicatrizar pequeños cortes y rasguños causados durante el afeitado
+- El aftershave de Old Spice calma, estimula y refresca
 - La tecnología exclusiva de Old Spice evita que la fragancia desaparezca a lo largo del día, para que huelas bien hasta que vuelvas a casa
 - La exquisita fragancia de Old Spice te hará inolvidable, como si fueras el centro del mundo
 

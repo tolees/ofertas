@@ -28,7 +28,7 @@ Ahora mismo tienes [Prodisac ® Forte | Energía natural | 60 cápsulas vegetale
 - ✔FORMULA EXTRAFUERTE 60 CÁPSULAS VEGETALES: Formulado con ingredientes naturales y de máxima calidad.
 - ✔FÁCIL DE USAR: Se recomienda tomar una cápsula al día. Para potenciar sus efectos tomar 3 cápsulas en una sola toma.
 - ✔SEGURO Y EFECTIVO: Contiene 1g por cápsula por lo que se convierte en uno de los productos más efectivos del mercado. Compuesto con ingredientes que actúan de forma rápida y con sinergia, para obtener los mejores resultados
-- ✔COMPLEMENTO ALIMENTICIO: Prodisac esta diseñado para todas las personas que quieren mejorar su rendimiento de forma natural.
 - ✔PARA TU DIA A DIA: Este complemento alimenticio a base de aminoácidos, extractos de plantas, zinc y vitaminas puede utilizarse en el día a día aportando la energía que tu cuerpo necesita.
+- ✔COMPLEMENTO ALIMENTICIO: Prodisac esta diseñado para todas las personas que quieren mejorar su rendimiento de forma natural.
 
 [Visítala!!!](https://www.amazon.es/dp/B088GNYB92/?tag=tolees-21)
