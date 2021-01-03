@@ -27,7 +27,7 @@ En este momento está [Bref Blue Active Higiene Colgador WC - Pack de 10 unidade
 
 - Cesta Higiénica para WC.
 - ¡Con Bref, tu WC siempre limpio y fresco, incluso entre descargas!
-- Con cuatro funciones: Espuma limpiadora, Fórmula antical, Protector contra la suciedad, Frescor extra
 - Limpia y protege contra la suciedad con sus poderosas bolas azules
+- Con cuatro funciones: Espuma limpiadora, Fórmula antical, Protector contra la suciedad, Frescor extra
 
 [Aquí!!!](https://www.amazon.es/dp/B01LQAX3GK/?tag=tolees-21)

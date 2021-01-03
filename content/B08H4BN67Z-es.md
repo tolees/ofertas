@@ -25,8 +25,8 @@ Ahora mismo tienes [Cudy WE3500 AX3000 Adaptador inalámbrico de Doble Banda Blu
 
 🔎:
 
-- Tecnología Bluetooth 5.0. El adaptador Bluetooth PCIe WE3500 es compatible con la última tecnología Bluetooth 5.0, logrando una velocidad 2 veces más rápida y una cobertura 4 veces más amplia que Bluetooth 4.2. Compatibilidad total para dispositivos Bluetooth 5.0 / 4.2 / 4.0.
 - WiFi 6 funciona más rápido, más suave y más amplio. 1024-QAM y un ancho de banda de 160 MHz brindan una señal Wi-Fi potente y continua, logrando velocidades 3 veces más rápidas que el Wi-Fi de CA estándar. La tecnología OFDMA reduce el retraso hasta en un 75%, garantiza un juego en tiempo real ultra sensible y una experiencia más fluida.
+- Tecnología Bluetooth 5.0. El adaptador Bluetooth PCIe WE3500 es compatible con la última tecnología Bluetooth 5.0, logrando una velocidad 2 veces más rápida y una cobertura 4 veces más amplia que Bluetooth 4.2. Compatibilidad total para dispositivos Bluetooth 5.0 / 4.2 / 4.0.
 - Hasta 2402Mbps + 574Mbps WiFi de 6 velocidades. Combinada con la tarjeta Intel AX200 WiFi 6, esta tarjeta WiFi 6 PCIe brinda Wi-Fi más rápido y más claro para desbloquear completamente el potencial de su enrutador Wi-Fi 6. 2.4GHz proporciona una velocidad máxima de 574Mbps y un rango extremadamente largo, 5GHz alcanza una velocidad máxima de 2402Mbps, ideal para juegos y transmisión 4K. Compatibilidad total para enrutadores 802.11ax / ac / a / b / g / n.
 - Todo el accesorio contiene: WE3500 con perfil estándar, dos antenas de alta ganancia de 5 dBi, soporte de bajo perfil, cable de cabecera Bluetooth, guía de instalación rápida, controladores de CD de recursos. Requisitos del sistema: Windows 10 (64 bits).
 - WPA3 Seguridad avanzada. Las últimas mejoras de seguridad: WPA3 proporciona un cifrado más seguro e individualizado en la seguridad de contraseñas personales, protegiendo su red de la piratería inalámbrica.

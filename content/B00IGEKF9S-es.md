@@ -25,9 +25,9 @@ Tienes [Lotus Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 15961/3
 
 🔎:
 
-- Cuenta con una correa que ha sido fabricada en piel
-- Cristal mineral endurecido
 - Resistente al agua hasta 50 metros
 - Tiene una forma de caja redonda de acero inoxidable
+- Cristal mineral endurecido
+- Cuenta con una correa que ha sido fabricada en piel
 
 [Comprar!!!](https://www.amazon.es/dp/B00IGEKF9S/?tag=tolees-21)

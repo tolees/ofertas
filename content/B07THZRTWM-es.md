@@ -25,10 +25,10 @@ Ahora mismo tienes [Repetidor wifi BrosTrend 1200Mbps  amplificador wifi  extens
 
 🔎:
 
-- CONFIGURACIÓN FÁCIL EN SEGUNDOS - Pulse el botón WPS de su router actual y este amplificador señal wifi extenderá instantáneamente su cobertura de red wifi. El LED Smart en el extensor de wifi indica la intensidad de la señal con el router existente. Muévalo a cualquier toma de corriente después de la configuración inicial
-- VELOCIDAD WIFI AC1200 - Gracias a su velocidad extendida simultánea de 867 Mbps en las bandas wifi de 5 GHz y 2.4 GHz, podrá disfrutar de transmisión online de vídeo 4K, juegos multijugador, música, etc. Solo debe conectar sus dispositivos wifi a la red extendida del amplificador wifi de BrosTrend
-- COMPATIBILIDAD UNIVERSAL - Este repetidor wifi largo alcance extiende el alcance de la red WLAN de todos los router WLAN (estándares inalámbricos 802.11ac/n/g/b/a)
 - COBERTURA WIFI ENTENDIDA - Añada alcance al wifi y conecte hasta 20 dispositivos wifi como smartphones, tablets, portátiles, altavoces, cámaras IP, dispositivos IoT, dispositivos Alexa y más con este repetidor wifi
 - 2 AÑOS DE GARANTÍA SIN PREOCUPACIONES - También incluye soporte técnico 24/7, correo: support@brostrend.com. Para ampliar señal wifi en casa, tiene un puerto Ethernet de alta velocidad. Conecte un dispositivo por cable al wifi, como la TV, PlayStation, Xbox, reproductor de Blue-Ray, etc. También admite el modo Access Point (AP, punto de acceso) para crear otra red wifi AC1200
+- COMPATIBILIDAD UNIVERSAL - Este repetidor wifi largo alcance extiende el alcance de la red WLAN de todos los router WLAN (estándares inalámbricos 802.11ac/n/g/b/a)
+- CONFIGURACIÓN FÁCIL EN SEGUNDOS - Pulse el botón WPS de su router actual y este amplificador señal wifi extenderá instantáneamente su cobertura de red wifi. El LED Smart en el extensor de wifi indica la intensidad de la señal con el router existente. Muévalo a cualquier toma de corriente después de la configuración inicial
+- VELOCIDAD WIFI AC1200 - Gracias a su velocidad extendida simultánea de 867 Mbps en las bandas wifi de 5 GHz y 2.4 GHz, podrá disfrutar de transmisión online de vídeo 4K, juegos multijugador, música, etc. Solo debe conectar sus dispositivos wifi a la red extendida del amplificador wifi de BrosTrend
 
 [Visítala!!!](https://www.amazon.es/dp/B07THZRTWM/?tag=tolees-21)

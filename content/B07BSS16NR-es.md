@@ -25,9 +25,9 @@ Está [Transcend Usd300S Tarjeta Microsd de 64Gb  Clase 10  U1  A1  Hasta 95 Mbs
 
 ℹ️:
 
-- Clase de velocidad 10, U1, hasta 95 MBs de Lectura
-- Software RecoveRx
-- Cumple con el estándar A1 para aplicaciones móviles
 - Velocidad de Escritura hasta 25 MBs
+- Cumple con el estándar A1 para aplicaciones móviles
+- Software RecoveRx
+- Clase de velocidad 10, U1, hasta 95 MBs de Lectura
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07BSS16NR/?tag=tolees-21)

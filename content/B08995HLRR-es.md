@@ -25,8 +25,8 @@ Tienes [Ori and the Will of the Wisps Peluches [Bundle]](https://www.amazon.es/d
 
 ℹ️:
 
-- Se pueden separar pero no se venden individualmente
 - Ori mide 25 cm y tiene 4 imanes cosidos dentro de sus manos y piernas, así como una articulación implementada en su cuello para que pueda acurrucarse bien en la espalda de Ku
+- Se pueden separar pero no se venden individualmente
 - Ku mide 33 cm de altura y es especialmente suave, casi puedes sentir las "plumas"
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08995HLRR/?tag=tolees-21)

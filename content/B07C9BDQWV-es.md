@@ -25,10 +25,10 @@ Tienes [L Oréal Paris Paradise Extatic Máscara de Pestañas  Waterproof  Negro
 
 🔎:
 
-- Intense, volumised lashes; ultra-soft brush makes it easy to apply; feather-soft, longer-looking fluttery lashes
-- 95 Percent agree it lasts all day
 - Flake-free; ophthalmologist tested and suitable for contact lens wearers
+- 95 Percent agree it lasts all day
 - With a soft-gliding application thanks to gentle oils
 - Upgraded formula suitable for sensitive eyes; enriched with lash-loving ingredients: castor and rose oils
+- Intense, volumised lashes; ultra-soft brush makes it easy to apply; feather-soft, longer-looking fluttery lashes
 
 [Comprar!!!](https://www.amazon.es/dp/B07C9BDQWV/?tag=tolees-21)

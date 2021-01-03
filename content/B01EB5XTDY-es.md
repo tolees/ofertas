@@ -25,11 +25,11 @@ Tienes [Tefal Secure 5 Neo Olla Express de 6L  con 5 Sistemas Seguridad  2 Modos
 
 ℹ️:
 
-- 5 sistemas de seguridad para una cocción segura (cierre seguro, apertura segura, válvula de control de presión, válvula de seguridad y junta de escape como medida de seguridad excepcional) con sistema de apertura y cierre fácil
-- Bloqueo automático extremadamente seguro para el cierre y la apertura
-- Modos de cocción de alta (117°C / 80 kPa para carnes y pescados) y baja presión (110°C / 50 kPa para verduras, arroces y legumbres)
 - Control del exceso de vapor a presión mediante la salida controlada; Capacidad de hasta 6 personas
-- Olla de acero inoxidable ultra resistente y fácil de limpiar con funcionamiento en tipo de cocinas, incluidas las de inducción; Compatible con el lavavajillas
 - Olla a presión de 6 litros de capacidad de uso con (15 y 21 cm de alto de diámetro en la base); Incluye una tapa
+- Bloqueo automático extremadamente seguro para el cierre y la apertura
+- Olla de acero inoxidable ultra resistente y fácil de limpiar con funcionamiento en tipo de cocinas, incluidas las de inducción; Compatible con el lavavajillas
+- 5 sistemas de seguridad para una cocción segura (cierre seguro, apertura segura, válvula de control de presión, válvula de seguridad y junta de escape como medida de seguridad excepcional) con sistema de apertura y cierre fácil
+- Modos de cocción de alta (117°C / 80 kPa para carnes y pescados) y baja presión (110°C / 50 kPa para verduras, arroces y legumbres)
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01EB5XTDY/?tag=tolees-21)
