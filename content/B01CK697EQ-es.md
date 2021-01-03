@@ -25,9 +25,9 @@ Ahora mismo tienes [Chicco-00007651000000 Big & Small Guante  Multicolor  000076
 
 🔎:
 
-- The cob creaks, the duck is a squeaker, Mickey and cow with rattle
-- With first illustrated booklet open-and-close to learn to count up to 3
-- Machine washable
 - Soft glove, universal size for adults
+- The cob creaks, the duck is a squeaker, Mickey and cow with rattle
+- Machine washable
+- With first illustrated booklet open-and-close to learn to count up to 3
 
 [Visítala!!!](https://www.amazon.es/dp/B01CK697EQ/?tag=tolees-21)

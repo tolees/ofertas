@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 54.57 % en Dorbz - Daredevil: Wilson Fisk'
-date: 2020-12-31 12:53:35
+date: 2021-01-03 20:11:49
 image: 'https://m.media-amazon.com/images/I/41kSF6BaEVL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01B5TU5PY/?tag=tolees-21'
 descuento: '54.57'
-average: '14.946666666666665'
+average: '14.363529411764704'
 ---
 
 Tienes [Dorbz - Daredevil: Wilson Fisk](https://www.amazon.es/dp/B01B5TU5PY/?tag=tolees-21) con un 54.57 % de descuento con precio de oferta de 9.99 EUR (original: 21.99 EUR) en el siguiente enlace!
@@ -25,8 +25,8 @@ Tienes [Dorbz - Daredevil: Wilson Fisk](https://www.amazon.es/dp/B01B5TU5PY/?tag
 
 ℹ️:
 
-- Cada personaje mide alrededor de 9 cm de altura
 - Viene embalado en una caja con ventanas ilustrada
+- Cada personaje mide alrededor de 9 cm de altura
 - Material 100% vinilo
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01B5TU5PY/?tag=tolees-21)

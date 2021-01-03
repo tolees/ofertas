@@ -26,7 +26,7 @@ Ahora mismo tienes [TRIXIE Pelota  Caucho Natural  con Sonido  ø5.5 cm  Perro](
 🔎:
 
 - motivos surtidos
-- con sonido
 - caucho natural
+- con sonido
 
 [Visítala!!!](https://www.amazon.es/dp/B002TDT7PA/?tag=tolees-21)

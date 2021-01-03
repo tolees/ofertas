@@ -25,9 +25,9 @@ Está [Huawei P40 Lite 5G - Smartphone 128GB  6GB RAM  Dual Sim  Space Silver](h
 
 ℹ️:
 
-- Batería: 4000 mAh
-- Pantalla: 6.5", 1080 x 2400 pixels
 - Procesador: Kirin 820 5G 2.36Ghz
 - Cámara: Cuádruple, 64MP+8MP +2MP+2MP
+- Batería: 4000 mAh
+- Pantalla: 6.5", 1080 x 2400 pixels
 
 [Ver la oferta!!](https://www.amazon.es/dp/B088KSMQ11/?tag=tolees-21)

@@ -25,7 +25,7 @@ Ahora mismo tienes [LEVIS FOOTWEAR AND ACCESORIAS Hodges 2.0 Zapatillas Hombre  
 
 🔎:
 
-- These rugged boots will get you there, and are great for trekking the urban landscape
 - Features a nubuck leather upper for a smooth sueded feel, sturdy rubber outsole, and speedlace hooks
+- These rugged boots will get you there, and are great for trekking the urban landscape
 
 [Visítala!!!](https://www.amazon.es/dp/B082BYRFNP/?tag=tolees-21)

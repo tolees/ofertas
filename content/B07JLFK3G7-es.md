@@ -25,9 +25,9 @@ Ahora mismo tienes [Playmobil-70000 Barco de Hadas](https://www.amazon.es/dp/B07
 
 🔎:
 
-- Incluye dos figuras, dos animales y varios accesorios
 - Para nadar en barco y delfines
-- Desarrolla la imaginación y la creatividad
 - Los delfines pueden estar en posición vertical sobre la aleta móvil
+- Incluye dos figuras, dos animales y varios accesorios
+- Desarrolla la imaginación y la creatividad
 
 [Visítala!!!](https://www.amazon.es/dp/B07JLFK3G7/?tag=tolees-21)
