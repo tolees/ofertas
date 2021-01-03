@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kensington K64538EU - Candado de Segurid con un 35.78 % de descuento'
-date: 2020-12-30 18:45:28
+date: 2021-01-03 06:30:29
 image: 'https://m.media-amazon.com/images/I/410GAGXyiOL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ En este momento está [Kensington K64538EU - Candado de Seguridad retráctil par
 
 🔎:
 
-- Kensington MicroSaver Retractable
 - 1.2 m
+- Kensington MicroSaver Retractable
 - Bloqueo de cable de seguridad
 
 [Aquí!!!](https://www.amazon.es/dp/B001COLVS8/?tag=tolees-21)
