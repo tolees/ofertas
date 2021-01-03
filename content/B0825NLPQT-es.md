@@ -25,12 +25,12 @@ Tienes [Geox U LEVICO B ABX C  Zapatillas Hombre  Browncotto Dk Coffee  44 EU](h
 
 ℹ️:
 
-- Suela: goma
 - Ancho del zapato: estrecho
-- Cierre: cordones
-- Nota sobre la talla: Ten en cuenta que los zapatos Geox tienen un ajuste cómodo, por lo que recomendamos elegir media talla
 - Material interior: sintético
 - Resistente al agua
+- Suela: goma
 - Material exterior: sintético
+- Nota sobre la talla: Ten en cuenta que los zapatos Geox tienen un ajuste cómodo, por lo que recomendamos elegir media talla
+- Cierre: cordones
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0825NLPQT/?tag=tolees-21)

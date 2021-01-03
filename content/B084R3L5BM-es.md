@@ -25,8 +25,8 @@ Tienes [Tommy Hilfiger Reloj Analógico para Hombre de Cuarzo con Correa en Acer
 
 ℹ️:
 
-- Movimiento multifunción
 - Grosor de la caja de 10.5 mm; Diámetro de la caja: 44 mm
+- Movimiento multifunción
 - 5 ATM de resistencia al agua
 - Pulsera de malla gris oscuro
 - Esfera blanca

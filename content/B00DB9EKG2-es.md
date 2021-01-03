@@ -25,12 +25,12 @@ Ahora mismo tienes [Autan Protection Plus Repelente de Mosquitos](https://www.am
 
 🔎:
 
-- Eficacia inmediata: ideal para ir de campo, a la playa o a la piscina
-- Formato: 100 ml
-- Protección duradera: hasta 8 horas para moscas y mosquitos y hasta 4 horas para garrapatas
-- Uso agradable: fórmula cosmética amigable para la piel
 - Formato vaporizador: aplica el producto directamente sobre la piel
-- Exclusivas propiedades de su ingrediente activo: icaridin
+- Protección duradera: hasta 8 horas para moscas y mosquitos y hasta 4 horas para garrapatas
+- Eficacia inmediata: ideal para ir de campo, a la playa o a la piscina
 - AUTAN Protection Plus Vaporizador forma sobra la piel una barrera protectora que ahuyenta los insectos
+- Exclusivas propiedades de su ingrediente activo: icaridin
+- Uso agradable: fórmula cosmética amigable para la piel
+- Formato: 100 ml
 
 [Visítala!!!](https://www.amazon.es/dp/B00DB9EKG2/?tag=tolees-21)

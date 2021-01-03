@@ -26,7 +26,7 @@ En este momento está [Campingaz Urban Picnic Coolbag 18L - Nevera Flexible Form
 🔎:
 
 - Nevera flexible de 10l; rendimiento: conserva los alimentos fríos durante 11hrs (en una temperatura ambiente de 32°c)
-- Revestimiento exterior de poliéster 600 deniers; aislamiento de espuma pe de 6mm de espesor; certificado de compatibilidad de alimentos.bolsillo frontal y bolsillos laterales sin aislamiento
 - Fondo de pvc reforzado negro; correa ajustable al hombro
+- Revestimiento exterior de poliéster 600 deniers; aislamiento de espuma pe de 6mm de espesor; certificado de compatibilidad de alimentos.bolsillo frontal y bolsillos laterales sin aislamiento
 
 [Aquí!!!](https://www.amazon.es/dp/B019X3EOBA/?tag=tolees-21)

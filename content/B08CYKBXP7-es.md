@@ -26,8 +26,8 @@ Ahora mismo tienes [Mimosín Intense Suavizante Estallido De Pasión 52 Lavados 
 🔎:
 
 - Suavizante concentrado intenso
-- Mimosín Intense Estallido de Pasión
 - Permite mantener la suavidad de la ropa incluso después de una pequeña temporada en el armario
+- Mimosín Intense Estallido de Pasión
 - Una explosión de suavidad
 
 [Visítala!!!](https://www.amazon.es/dp/B08CYKBXP7/?tag=tolees-21)
