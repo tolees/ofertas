@@ -27,8 +27,8 @@ Está [tesa 56192-00011-02 Cinta aislante en PVC 10m x 15mm  blanco](https://www
 
 - Para aislar y sujetar cables eléctricos
 - Resistente a la abrasión
-- Protección segura de la corriente eléctrica hasta 6.000 V
-- Protege líneas eléctricas
 - Se adapta y sujeta fácilmente superficies desiguales
+- Protege líneas eléctricas
+- Protección segura de la corriente eléctrica hasta 6.000 V
 
 [Ver la oferta!!](https://www.amazon.es/dp/B004SQT1RA/?tag=tolees-21)

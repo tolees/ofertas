@@ -25,10 +25,10 @@ Ahora mismo tienes [Clarks Deva Bell  Sandalias de Talón Abierto para Mujer  Ne
 
 🔎:
 
-- Suela: Caucho
-- Altura Del Talón: 7 Cm
-- Forro: Textil
-- Ajuste: (d) Estándar
 - Uppers: Gamuza
+- Ajuste: (d) Estándar
+- Suela: Caucho
+- Forro: Textil
+- Altura Del Talón: 7 Cm
 
 [Visítala!!!](https://www.amazon.es/dp/B07TPYPWRP/?tag=tolees-21)

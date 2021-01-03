@@ -26,9 +26,9 @@ Ahora mismo tienes [The Legend Of Zelda: Breath Of The Wild - Edición Estándar
 🔎:
 
 - Juego de aventura y acción para Nintendo Switch
-- Equipa a Link con la ropa y armas adecuadas a cada entorno y enemigo
-- Compatible con el amiibo Link Lobo, a la venta por separado
 - Incluye el idioma español
+- Equipa a Link con la ropa y armas adecuadas a cada entorno y enemigo
 - Explora el mundo abierto de Hyrule y descubre sus santuarios
+- Compatible con el amiibo Link Lobo, a la venta por separado
 
 [Visítala!!!](https://www.amazon.es/dp/B01MZ977QM/?tag=tolees-21)

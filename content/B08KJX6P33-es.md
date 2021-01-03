@@ -25,10 +25,10 @@ En este momento está [Frozen II in Time Beauty Travel X6 - Maletín de Maquilla
 
 🔎:
 
-- UN VIAJE FANTÁSTICO - ¡Deja que tu imaginación te lleve donde desee tu corazón! Podrás crear los mismos looks de Elsa y Anna para divertirte con tus amigas
-- UN KIT COMPLETO - El maletín con espejo contiene 12 brillos de labios, 12 sombras de ojos en crema, pinzas para el cabello, 1 anillo con bálsamo labial y ¡mucho más!
-- PARA UN FUTURO MÁS SOSTENIBLE - Hacemos productos sostenibles. Estamos comprometidos con reducir los residuos y valoramos las acciones eco-responsables
 - EL REGALO PERFECTO PARA LAS NIÑAS - Descubre nuestra nueva y exclusiva colección de productos de maquillaje! ¡Nunca olvidarás este cumpleaños!
+- PARA UN FUTURO MÁS SOSTENIBLE - Hacemos productos sostenibles. Estamos comprometidos con reducir los residuos y valoramos las acciones eco-responsables
 - INCREĺBLES AVENTURAS BAJO CERO - El maletín que podrás llevar a cualquier parte. Sus brillos exteriores te harán lucir como Elsa y Anna. Todo el maquillaje que necesitas para irte de fin de semana
+- UN KIT COMPLETO - El maletín con espejo contiene 12 brillos de labios, 12 sombras de ojos en crema, pinzas para el cabello, 1 anillo con bálsamo labial y ¡mucho más!
+- UN VIAJE FANTÁSTICO - ¡Deja que tu imaginación te lleve donde desee tu corazón! Podrás crear los mismos looks de Elsa y Anna para divertirte con tus amigas
 
 [Aquí!!!](https://www.amazon.es/dp/B08KJX6P33/?tag=tolees-21)
