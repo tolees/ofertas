@@ -26,8 +26,8 @@ Tienes [Casio Reloj de Pulsera LRW-200H-4BVEF](https://www.amazon.es/dp/B00IAOLK
 ℹ️:
 
 - Incluye indicador de fecha y pantalla de neón que brilla en la oscuridad
-- Resistente al agua hasta 10 bar / 100 metros
 - Caja y correa de resina sintética, un material flexible y resistente
+- Resistente al agua hasta 10 bar / 100 metros
 - La duración de la batería es de 3 años
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00IAOLKPW/?tag=tolees-21)

@@ -26,9 +26,9 @@ Tienes [UGREEN Hub USB 3.0 Ethernet Adaptador 1000 Gigabit Ethernet  Tarjeta Red
 ℹ️:
 
 - PARA SER MÁS POTENTE: Con el chipset AX88179 integrado, es una buena solución para dispositivos con conexión limitada de red o USB puertos, y resulta un accesorio muy últil para iMac, Macbook, Macbook Air, Macbook Pro, Microsoft Surface, Xiaomi Mi Box, Nintendo Switch, Raspberry Pi y etc.
+- LED INDICADOR: El hub ethernet adaptador se ha diseñado unos LED indicadores de notificación en la parte superior, para indicar que el adaptador está operando de forma correcta en cuestión a los USB puertos y el estado de conexión RJ45.
+- CONEXIÓN GIGABIT ETHERNET: Además de los 3 USB 3.0 puertos, el RJ45 ethernet te ofrecerá una manera eficiente y práctica para sustituir la tarjeta de red averiada de la placa, o mejorar la conexión LAN por Gigabit 1000Mbps GigaE.
 - COMPATIBILIDAD MEJORADA: Admite principales sistemas operativos 32 y 64bits de Windows 10 / 8 / 8.1 / 7 / Vista / XP, Mac OS X 10.6 y posteriores, ChromeOS y el Linux Ubuntu/Debian, etc. Plug-And-Play en Windows 8/8.1/10, Nintendo Switch y Xiaomi Mi Box. CD driver o documento digital disponible para los otros.
 - HUB USB 3.0 5GBPS VELOCIDAD: Fácilmente expande 3 puertos USB 3.0 para su portátil, ultrabook o sobremesa y disfrutas de la 5Gbps velocidad de transferencia siendo aún más productiva. Es ideal para conectar cualquier periférico como memorias externas, teclados, ratones, impresoras, discos duros, receptor BT, cámaras y más.
-- CONEXIÓN GIGABIT ETHERNET: Además de los 3 USB 3.0 puertos, el RJ45 ethernet te ofrecerá una manera eficiente y práctica para sustituir la tarjeta de red averiada de la placa, o mejorar la conexión LAN por Gigabit 1000Mbps GigaE.
-- LED INDICADOR: El hub ethernet adaptador se ha diseñado unos LED indicadores de notificación en la parte superior, para indicar que el adaptador está operando de forma correcta en cuestión a los USB puertos y el estado de conexión RJ45.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00LLUEJFU/?tag=tolees-21)

@@ -25,10 +25,10 @@ Tienes [Satechi Puntero Inalámbrico Bluetooth Recargable y Control Remoto para 
 
 ℹ️:
 
-- PRESENTACIÓN REMOTA - cambia diapositivas, comienza y detén presentaciones, y pausa presentaciones de PowerPoint
-- BATERÍA RECARGABLE - ¡sin necesidad de comprar caras pilas!
 - COMPATIBILIDAD - compatible con iPad Pro, Air, Mini, iPhone X, 8 Plus, 8, 7 Plus, 7, 6 Plus, 6, 5, Samsung Galaxy S8, S7, S6, S5, MacBook Pro/Air, iMac, Mac Mini, Surface Pro, Windows 7, 8/8.1, 10 y todos los demás ordenadores con Bluetooth activado
-- BLUETOOTH 3.0 - conéctalo a tus dispositivos Bluetooth con un rango inalámbrico de hasta 33 pies
+- BATERÍA RECARGABLE - ¡sin necesidad de comprar caras pilas!
 - DISEÑO DELGADO Y PORTÁTIL - cabe fácilmente en cualquier mochila, bolso o maleta
+- BLUETOOTH 3.0 - conéctalo a tus dispositivos Bluetooth con un rango inalámbrico de hasta 33 pies
+- PRESENTACIÓN REMOTA - cambia diapositivas, comienza y detén presentaciones, y pausa presentaciones de PowerPoint
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01B55YIRY/?tag=tolees-21)

@@ -25,10 +25,10 @@ Tienes [Llavero de Pareja  Llavero para mi Amor  corazón y Llavero de Novia par
 
 🔎:
 
-- Color principal: tono plateado, negro, rojo
 - Diámetro del anillo: 30 mm
-- Longitud de la cadena: 25 mm
 - Dimensión colgante: 28x31x2mm; 36x17x2mm
 - Diseño único con el llavero colgante Heart Head Key para niña y el llavero colgante Heart Lock para niño, y hay patrones de símbolos de género en los colgantes.
+- Color principal: tono plateado, negro, rojo
+- Longitud de la cadena: 25 mm
 
 [Comprar!!!](https://www.amazon.es/dp/B08MF1CGP9/?tag=tolees-21)

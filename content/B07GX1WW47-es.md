@@ -26,9 +26,9 @@ Ahora mismo tienes [SATECHI Soporte de Aluminio Tipo-C con USB-C de Datos Integr
 🔎:
 
 - PUERTOS DE EXPANSIÓN INTEGRADOS – añade transferencia de datos USB-C (hasta 5 Gbps), 3 puertos USB 3.0 (hasta 5 Gbps), ranuras para tarjetas micro/SD (hasta 104 Mbps) y jack de audio para acceso integrado a todos tus puertos usados frecuentemente
-- MAXIMIZA TU ESPACIO – crea una organización de escritorio valiosa para colocar tus teclados, portátiles, cargadores y más cosas! Ancho máximo: 8.5 pulgadas
-- COMPATIBILIDAD - compatible con todos los modelos de Apple iMac con nuestro adaptador Tipo-A a Tipo-C incluido
 - ELEGANTE Y FUNCIONAL – su diseño elegante aunque resistente se mezcla perfectamente con tu moderna instalación de escritorio, para sobremesas y monitores de hasta 22.5 kg
 - ELEVA TU IMAC – eleva el monitor de tu iMac hasta un ángulo de visión cómodo para ayudar a reducir el dolor en el cuello y conseguir una postura mejor
+- MAXIMIZA TU ESPACIO – crea una organización de escritorio valiosa para colocar tus teclados, portátiles, cargadores y más cosas! Ancho máximo: 8.5 pulgadas
+- COMPATIBILIDAD - compatible con todos los modelos de Apple iMac con nuestro adaptador Tipo-A a Tipo-C incluido
 
 [Visítala!!!](https://www.amazon.es/dp/B07GX1WW47/?tag=tolees-21)

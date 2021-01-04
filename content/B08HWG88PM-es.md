@@ -25,10 +25,10 @@ En este momento está [Babacom Funda Compatible con iPhone 12 y 12 Pro  6.1 Pulg
 
 🔎:
 
-- Diseño Minimalista: Ligero y delgado, no agrega volumen a su teléfono. La funda realza su máxima simplicidad, deja que se vea el color y el estilo del phone
 - Protección Completa: El marco de TPU suave con cuatro esquinas reforzadas proporciona un amortiguador para proteger su phone, y los labios levantados mantienen la pantalla y la cámara fuera de la superficie del suelo
 - Nice Grip: El material de TPU premium proporciona un buen agarre para un teléfono resbaladizo y es fácil de poner y quitar sin preocuparse por rayar el teléfono
 - Fundas Protectora: Admite Carga Inalámbrica
 - Ajuste Perfecto: Los recortes precisos le brindan acceso completo a los puertos, los altavoces y la cámara; Las cubiertas de botones sensibles permiten presiones sensibles
+- Diseño Minimalista: Ligero y delgado, no agrega volumen a su teléfono. La funda realza su máxima simplicidad, deja que se vea el color y el estilo del phone
 
 [Aquí!!!](https://www.amazon.es/dp/B08HWG88PM/?tag=tolees-21)

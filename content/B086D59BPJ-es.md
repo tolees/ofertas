@@ -25,10 +25,10 @@ Tienes [TedGem Raton Teclado Inalambricos  2.4G Teclados Inalambricos  Raton y T
 
 🔎:
 
-- 【Operación Ergonómica De Alta Precisión】El diseño elegante y simétrico llega al mouse inalámbrico y lo hace cómodo tanto para usuarios diestros como para zurdos. El mouse de diseño silencioso garantiza clics silenciosos; y el teclado tiene un ángulo de inclinación para la gran posición de escritura.
-- 【Ahorrar Electricidad】Cuando no los use teclado y raton inalambrico espanol durante 5 segundos, el teclado y raton se pondrán en espera para ahorrar energía. Simplemente haga clic en el mouse o presione cualquier tecla del teclado inalámbrico para activarlos (el teclado funciona con 2 pilas AAA, el mouse funciona con 1 pilas AA, no incluidas).
-- 【Teclado Inhalambrico Estable 】La conexión inalámbrica de 2.4G proporciona una conexión potente y confiable de hasta 10 m. Plug & Play, simplemente conecte su teclado y mouse con un receptor USB (el nano receptor simplemente se guarda en el almacenamiento del mouse cerca del compartimiento de la batería).
-- 【Amplia Compatibilidad】El combo de teclado y mouse es totalmente compatible con los sistemas Windows XP, Windows Vista, Windows 7, Windows 8 y Windows 10. el teclado y mouse funcionan muy bien para computadoras de escritorio, computadoras portátiles y otros dispositivos.
 - 【Diseño Ultra Delgado y Compacto】El teclado inalámbrico cuenta con teclas de respuesta rápida, el teclado de diseño compacto hace que ahorre más espacio. Y las 12 teclas multimedia le ahorrarán energía y tiempo, puede acceder fácilmente a Música, Control de volumen, Página de inicio, etc.
+- 【Teclado Inhalambrico Estable 】La conexión inalámbrica de 2.4G proporciona una conexión potente y confiable de hasta 10 m. Plug & Play, simplemente conecte su teclado y mouse con un receptor USB (el nano receptor simplemente se guarda en el almacenamiento del mouse cerca del compartimiento de la batería).
+- 【Ahorrar Electricidad】Cuando no los use teclado y raton inalambrico espanol durante 5 segundos, el teclado y raton se pondrán en espera para ahorrar energía. Simplemente haga clic en el mouse o presione cualquier tecla del teclado inalámbrico para activarlos (el teclado funciona con 2 pilas AAA, el mouse funciona con 1 pilas AA, no incluidas).
+- 【Operación Ergonómica De Alta Precisión】El diseño elegante y simétrico llega al mouse inalámbrico y lo hace cómodo tanto para usuarios diestros como para zurdos. El mouse de diseño silencioso garantiza clics silenciosos; y el teclado tiene un ángulo de inclinación para la gran posición de escritura.
+- 【Amplia Compatibilidad】El combo de teclado y mouse es totalmente compatible con los sistemas Windows XP, Windows Vista, Windows 7, Windows 8 y Windows 10. el teclado y mouse funcionan muy bien para computadoras de escritorio, computadoras portátiles y otros dispositivos.
 
 [Comprar!!!](https://www.amazon.es/dp/B086D59BPJ/?tag=tolees-21)

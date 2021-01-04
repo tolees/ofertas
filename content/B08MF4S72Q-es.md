@@ -26,9 +26,9 @@ Ahora mismo tienes [1000 Etiqueta Adhesiva Redonda Gracias Pegatinas Adhesivas E
 🔎:
 
 - 【El paquete contiene】 Se incluye 2 rollo de pegatinas con 500 pegatinas cada una.El tamaño de una sola pegatina es de 1 pulgadas / 2.5 cm.
-- 【Ampliamente utilizado】Usado para cajas de regalo, regalo, álbumes de fotos, obra de arte,decoración,sobres, floristerías, etc.
-- 【Moda y fuerte adhesión 】Las patrón floral y "Thank you" están impresas en la superficie de las pegatinas,amado por la mayoría de la gente.Buena adhesión, se pueden adherir bien al papel, plástico, vidrio,No se necesita pegamento.
 - 【Fácil de almacenar】La etiqueta autoadhesiva es de tamaño pequeño y no ocupa espacio, puedes guardarla en tu bolsillo y llevarla contigo.
 - 【material】 La pegatina está hecho de papel adhesivo de alta calidad,tiene una fuerte autoadhesividad, es duradero,impermeables,no tóxico.
+- 【Moda y fuerte adhesión 】Las patrón floral y "Thank you" están impresas en la superficie de las pegatinas,amado por la mayoría de la gente.Buena adhesión, se pueden adherir bien al papel, plástico, vidrio,No se necesita pegamento.
+- 【Ampliamente utilizado】Usado para cajas de regalo, regalo, álbumes de fotos, obra de arte,decoración,sobres, floristerías, etc.
 
 [Visítala!!!](https://www.amazon.es/dp/B08MF4S72Q/?tag=tolees-21)

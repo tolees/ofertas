@@ -26,9 +26,9 @@ En este momento está [Webcam Full HD 1080p autofoco portátil Webcam micrófono
 🔎:
 
 - Clips universales: con un clip de montaje integrado y una rosca para trípode, puedes conectarlo con casi todo lo que se puede imaginar. Ya sea en un monitor LED, tapa del ordenador portátil o mesa o encimera.
+- Universal Plug and Play, fácil instalación: controlador USB e instalación automática. Conexión USB 2.0
+- Mejor reproducción cromática: la cámara web C920 dispone de corrección automática de exposición HD y se puede ajustar exactamente a las condiciones de luz predominantes y hacer fotos claras y de alto contraste, incluso en condiciones de poca luz.
 - Más rápido, suave y claro: 1920 x 1080 de alta resolución 1/2.7 2 MP COMS sensor y lente de cristal. Vídeos de alta definición 1080p que graba los detalles más emocionantes a 30 fotogramas por segundo. Corrección automática de la luz. Micrófono estéreo incorporado.
 - Gran compatibilidad: compatible con Skype, Yahoo. @Messenger, MSN, Windows Live @ Messager, Google Mail, Android IPTV, WeChat, QQ, etc. aplicaciones de mensajería instantánea. Se adapta a multioperación, incluyendo sistemas operativos Windows 7/8/10, Mac OSX 10.7 y Android 4.0 o superior. Trabaje con PC, portátil, ordenador de sobremesa y TV Android que dispone de un puerto USB.
-- Mejor reproducción cromática: la cámara web C920 dispone de corrección automática de exposición HD y se puede ajustar exactamente a las condiciones de luz predominantes y hacer fotos claras y de alto contraste, incluso en condiciones de poca luz.
-- Universal Plug and Play, fácil instalación: controlador USB e instalación automática. Conexión USB 2.0
 
 [Aquí!!!](https://www.amazon.es/dp/B07PV8NKVD/?tag=tolees-21)
