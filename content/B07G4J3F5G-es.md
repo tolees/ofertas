@@ -25,9 +25,9 @@ Tienes [Space Cowboys-Los crímenes del Támesis y Otros Casos¡  Color  Asmodee
 
 ℹ️:
 
+- Es adecuado para 1-8 jugadores
 - La edad mínima recomendada es de 12 años
 - Contiene 1 plano de Londres, 10 cuadernos de casos, 10 periódicos, 1 guía de Londres y 1 libro de reglas
-- Es adecuado para 1-8 jugadores
 - La marca del producto es Space Cowboys
 - El producto representa un juego de mesa
 

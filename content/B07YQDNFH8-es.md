@@ -25,9 +25,9 @@ En este momento está [Kipling SUPERTABOO Mochila Escolar  Rosa  Robot Camo Azul
 
 🔎:
 
-- Robot Camo Azul
-- KI563757E
-- Supertaboo
 - Bolsas escolares.
+- Supertaboo
+- KI563757E
+- Robot Camo Azul
 
 [Aquí!!!](https://www.amazon.es/dp/B07YQDNFH8/?tag=tolees-21)

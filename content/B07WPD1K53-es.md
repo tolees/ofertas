@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bandai - Dragon Ball Personaje 12 cm  Mo con un 15.01 % de descuento'
-date: 2020-12-31 15:48:07
+date: 2021-01-04 14:43:53
 image: 'https://m.media-amazon.com/images/I/31hSsly5skL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ En este momento está [Bandai - Dragon Ball Personaje 12 cm  Modelos Surtidos  3
 
 🔎:
 
-- Super Sayan Blue Goku, Super Sayan Blue Vegeta, Broly
 - Los personajes se venden individualmente
 - Vive las aventuras del dibujo animado Dragon Ball
+- Super Sayan Blue Goku, Super Sayan Blue Vegeta, Broly
 - Figura articulada de acción de 12 cm
 
 [Aquí!!!](https://www.amazon.es/dp/B07WPD1K53/?tag=tolees-21)

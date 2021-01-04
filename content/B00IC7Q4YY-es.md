@@ -25,10 +25,10 @@ Tienes [Weta Collectibles- Estatua Figura Coleccionable Gandalf  El Señor de lo
 
 🔎:
 
-- El producto viene en una caja impresa
 - Producto con licencia 100% oficial
+- Fabricada en resina y pintada a mano; medidas: 11 x 15 x 12 cm
+- El producto viene en una caja impresa
 - Si eres fan de el señor de los anillos, no te pierdas la fantástica figura de gandalf un gran mago de la tierra media
 - Inspirada en el señor de los anillos, con gran lujo de detalles
-- Fabricada en resina y pintada a mano; medidas: 11 x 15 x 12 cm
 
 [Comprar!!!](https://www.amazon.es/dp/B00IC7Q4YY/?tag=tolees-21)
