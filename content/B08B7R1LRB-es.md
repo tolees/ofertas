@@ -26,9 +26,9 @@ Está [Botas de Nieve Hombre Antideslizante Invierno Botines Calientes Trekking 
 ℹ️:
 
 - La parte superior de cuero de los zapatos de invierno evita que el agua se filtre en las botas.
-- Todo el diseño de las botas es clásico, lo que hace que las botas se ajusten a lo que te pongas, y te lleven a cualquier parte.
-- Las botas de senderismo tienen una suela intermedia flexible de EVA y una suela exterior antideslizante de TPR para que sea resistente al desgaste y tenga un soporte amortiguado.
-- Perfecto para caminar, esquiar, excursionismo, alpinismo, camping, casual, trabajo, compras, conducción, vacaciones, también es un buen regalo
 - Las botas de invierno de los hombres tienen un interior de piel que mantiene los pies calientes y secos durante todo el día.
+- Todo el diseño de las botas es clásico, lo que hace que las botas se ajusten a lo que te pongas, y te lleven a cualquier parte.
+- Perfecto para caminar, esquiar, excursionismo, alpinismo, camping, casual, trabajo, compras, conducción, vacaciones, también es un buen regalo
+- Las botas de senderismo tienen una suela intermedia flexible de EVA y una suela exterior antideslizante de TPR para que sea resistente al desgaste y tenga un soporte amortiguado.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08B7R1LRB/?tag=tolees-21)

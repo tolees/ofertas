@@ -25,10 +25,10 @@ Tienes [Yabano Plancha de Vapor 2400W  320g Golpe de Vapor  Vapor Continuo 180 g
 
 🔎:
 
-- 💨System Sistema de autolimpieza, descalcificación, 3 modos de apagado automático, cable de alimentación extralargo giratorio 360º de 2,5 m, botones táctiles suaves y mango y modo ECO, todo esto está diseñado para una operación conveniente y segura
 - 💨Temperatura variable y control de vapor: dial del termostato de control para seleccionar fácilmente la temperatura de salida de vapor ideal según el tipo de tela. Control de vapor variable, ajuste de 5 velocidades, para eliminar fácilmente las arrugas de todo tipo de tela
-- 💨 400 ml tanque y antigoteo: plancha vertical con tanque transparente de 400 ml para un trabajo más prolongado, puede satisfacer múltiples necesidades de planchado, hay una cuchara medidora como regalo. Con el dispositivo antigoteo, no se preocupe por perder agua
 - 💨Potencia y más vapor: 2400W de potencia para un calentamiento rápido. El vapor variable de 180 g / min, con botón de ráfaga de vapor puede llegar hasta 310 g / min, permanece constante y te ayuda a arrugar las arrugas sin esfuerzo. Gracias a la punta de triple precisión, te facilita incluso en los puntos más difíciles de la ropa, como puños, cuellos, alrededor de los botones
+- 💨 400 ml tanque y antigoteo: plancha vertical con tanque transparente de 400 ml para un trabajo más prolongado, puede satisfacer múltiples necesidades de planchado, hay una cuchara medidora como regalo. Con el dispositivo antigoteo, no se preocupe por perder agua
+- 💨System Sistema de autolimpieza, descalcificación, 3 modos de apagado automático, cable de alimentación extralargo giratorio 360º de 2,5 m, botones táctiles suaves y mango y modo ECO, todo esto está diseñado para una operación conveniente y segura
 - 💨Placa de cerámica: hierro con placa de cerámica con múltiples orificios, conductividad térmica rápida y alta suavidad, protegiendo bien su ropa. La vida útil es más de 10 años
 
 [Comprar!!!](https://www.amazon.es/dp/B0811QN9PN/?tag=tolees-21)

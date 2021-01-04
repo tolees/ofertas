@@ -25,13 +25,13 @@ Está [BaByliss AS952E Big Hair Dual - Cepillo de Aire  2 Cabezales Cerámicos y
 
 ℹ️:
 
+- Cable giratorio profesional de 2,5m
+- Dos ajustes de temperatura y ajuste de frío
 - Cepillo cerámico rotatorio de 40mm y 50mm
+- 650 W
 - Airflow uniforme
 - Dos sentidos de rotación
-- 650 W
 - Funda protectora de las cerdas
-- Cable giratorio profesional de 2,5m
 - Tecnología iónica que elimina el encrespamiento
-- Dos ajustes de temperatura y ajuste de frío
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07WCCK6BC/?tag=tolees-21)

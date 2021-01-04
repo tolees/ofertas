@@ -26,9 +26,9 @@ En este momento está [KidKraft 27027- Mesa de madera redonda natural y blanca c
 🔎:
 
 - Fácil de montar
-- Complemento para cualquier cuarto o sala de juegos
 - Hecha de madera resistente de alta calidad
-- Ideal para realizar todo tipo de actividades, manualidades e inclusive los deberes
 - Juego de mesa redonda
+- Ideal para realizar todo tipo de actividades, manualidades e inclusive los deberes
+- Complemento para cualquier cuarto o sala de juegos
 
 [Aquí!!!](https://www.amazon.es/dp/B00L3NQQKQ/?tag=tolees-21)

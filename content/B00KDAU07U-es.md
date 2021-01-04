@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Orbegozo HBF 95 Estufa de Butano Catalít al 24.94 % de descuento'
-date: 2021-01-01 09:28:14
+date: 2021-01-04 10:44:16
 image: 'https://m.media-amazon.com/images/I/418rp5Lt+gL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00KDAU07U/?tag=tolees-21'
 descuento: '24.94'
-average: '98.35272727272726'
+average: '98.40666666666665'
 ---
 
 Ahora mismo tienes [Orbegozo HBF 95 Estufa de Butano Catalítica  Triple Sistema de Seguridad  3500 W  Negro/Burdeos](https://www.amazon.es/dp/B00KDAU07U/?tag=tolees-21) a 99.0 EUR (original: 131.9 EUR) (24.94 %  de descuento) en el siguiente enlace!
@@ -25,12 +25,12 @@ Ahora mismo tienes [Orbegozo HBF 95 Estufa de Butano Catalítica  Triple Sistema
 
 🔎:
 
-- Asas para tranporte y ruedas pivotantes
 - Triple sistema de seguridad
 - Tecnologia "Llama Azul", con cerámico imitación leña, efecto fuego real
-- Estufa gas butano
-- Potencia: 3500 W
 - Encendido mediante pulsador
 - Dimensiones: ancho: 400 mm, alto: 700 mm, fondo, 290 mm
+- Potencia: 3500 W
+- Asas para tranporte y ruedas pivotantes
+- Estufa gas butano
 
 [Visítala!!!](https://www.amazon.es/dp/B00KDAU07U/?tag=tolees-21)

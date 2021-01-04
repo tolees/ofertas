@@ -25,10 +25,10 @@ Tienes [Lubricante Intimo a Base de Agua - 300 ml](https://www.amazon.es/dp/B01N
 
 ℹ️:
 
+- Contenido: 1 x 300 ml. Lubricante base agua trae una cantidad de 300ml mas que suficiente para que dure bastante tiempo.
 - 100% Compatible con Preservativos: No se preocupe por la compatibilidad con condones o juguetes, para el uso con preservativos de látex y preservativos de poliisopreno.
-- A Base de Agua: El ingrediente principal es el agua, agradable para la piel. El material natrual está diseñado para reducir la sequedad y la fricción para mejorar su PLACER.
 - Soluble en agua: De base acuosa, libre de fragancias y colorantes. Se limpia fácilmente con agua o jabón.
 - PH óptimo: El gel sexuales a base de agua es inodoro e incoloro sin sabor, lo que lo hace perfecto para la administración oral, pero se puede usar en todas partes. Diseñado con PH equilibrado y prebióticos.
-- Contenido: 1 x 300 ml. Lubricante base agua trae una cantidad de 300ml mas que suficiente para que dure bastante tiempo.
+- A Base de Agua: El ingrediente principal es el agua, agradable para la piel. El material natrual está diseñado para reducir la sequedad y la fricción para mejorar su PLACER.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01NB0GV0W/?tag=tolees-21)

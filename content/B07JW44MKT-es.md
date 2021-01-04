@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lee Extreme Motion Straight Pantalones   al 39.97 % de rebaja'
-date: 2020-12-30 19:13:27
+date: 2021-01-04 10:38:01
 image: 'https://m.media-amazon.com/images/I/31ktMlIIo1L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Tienes [Lee Extreme Motion Straight Pantalones  Cougar  29W / 30L para Hombre](h
 
 🔎:
 
-- Clasico botón tipo “donut”
 - Cintura flexible
 - Tejido elástico
+- Clasico botón tipo “donut”
 
 [Comprar!!!](https://www.amazon.es/dp/B07JW44MKT/?tag=tolees-21)

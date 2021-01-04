@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tristar Bl-4020 Picadora con un botón op al 25.01 % de rebaja'
-date: 2021-01-01 15:36:57
+date: 2021-01-04 10:47:10
 image: 'https://m.media-amazon.com/images/I/31SAPl7I9DL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,8 +26,8 @@ Tienes [Tristar Bl-4020 Picadora con un botón operacional  cuchillas de acero i
 🔎:
 
 - Carcasa de plástico, recipiente 0.5 L, fácil de desmontar para su limpieza
+- Base antideslizante, potencia: 200 vatios
 - Capacidad: 0.5 L, cuchillas de acero inoxidable
 - Apto para lavavajillas, indicador de nivel
-- Base antideslizante, potencia: 200 vatios
 
 [Comprar!!!](https://www.amazon.es/dp/B01N6EDG89/?tag=tolees-21)

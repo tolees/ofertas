@@ -25,10 +25,10 @@ Ahora mismo tienes [BeMatik - Ventilador de chasis 120x120x25 mm de 24 VDC para 
 
 🔎:
 
+- Ventilador de chasis, montado en estructura de plástico cuadrada; con perforaciones estándar para fijación a equipos electrónicos
+- Voltaje: 24 vdc (0.20 a)
 - Flujo de aire: 83 cfm
 - Velocidad: 2200 rpm
-- Ventilador de chasis, montado en estructura de plástico cuadrada; con perforaciones estándar para fijación a equipos electrónicos
 - Tamaño total del ventilador: 120 x 120 x 25 mm
-- Voltaje: 24 vdc (0.20 a)
 
 [Visítala!!!](https://www.amazon.es/dp/B07NSKTZNL/?tag=tolees-21)
