@@ -25,10 +25,10 @@ Tienes [Catisfaction Premios para Gatos  Sabor Pollo  Pack de 6 x 60g ](https://
 
 ℹ️:
 
-- Premios con doble textura, irresistibles para tu gato
-- Deliciosamente crujientes por fuera y suaves por dentro
+- Sólo 2 kcal en cada snack de gato; Dreamies están disponibles en 7 deliciosas y sabrosas variedades: pollo, ternera, pato, salmón, queso, pavo y atún
 - Galletas para gatos, con vitaminas y minerales y sin aromas artificiales
 - Con pollo para aportar a un crecimiento fuerte
-- Sólo 2 kcal en cada snack de gato; Dreamies están disponibles en 7 deliciosas y sabrosas variedades: pollo, ternera, pato, salmón, queso, pavo y atún
+- Premios con doble textura, irresistibles para tu gato
+- Deliciosamente crujientes por fuera y suaves por dentro
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00U5PWLNO/?tag=tolees-21)

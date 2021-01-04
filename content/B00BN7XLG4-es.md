@@ -25,9 +25,9 @@ Tienes [Oraldine Antiséptico  Colutorio de Uso Diario con Doble Poder Antibacte
 
 🔎:
 
-- Anti-Placa. Evita la formación de placa bacteriana
 - Protección bucal activa con hexetidina, que elimina las bacterias dañinas y te protege durante horas
 - Anti-Gingivitis y Anti-Periodontitis. Previene el sangrado y la inflamación de las encías
+- Anti-Placa. Evita la formación de placa bacteriana
 - Colutorio de uso diario con doble poder antiséptico, para tratar y prevenir problemas bucales
 - Anti-Halitosis. Previene y elimina el mal aliento
 

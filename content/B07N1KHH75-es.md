@@ -25,10 +25,10 @@ Tienes [Rick And Morty 4839 Taza  Cerámica](https://www.amazon.es/dp/B07N1KHH75
 
 ℹ️:
 
-- Capacidad de 400 ml.
-- La manera perfecta de disfrutar de una pausa
-- Fabricado en cerámica.
-- Una gran idea de regalo para los verdaderos amantes de la serie.
 - Producto con licencia oficial 100% con la garantía paladone
+- Fabricado en cerámica.
+- La manera perfecta de disfrutar de una pausa
+- Una gran idea de regalo para los verdaderos amantes de la serie.
+- Capacidad de 400 ml.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07N1KHH75/?tag=tolees-21)

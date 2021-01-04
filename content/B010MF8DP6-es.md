@@ -25,10 +25,10 @@ Está [Lotus 1824/02 - Reloj de Cuarzo para Mujer  Esfera Blanca analógica y Co
 
 ℹ️:
 
-- Resistente al agua hasta 50 metros.
 - Tiene una correa de piel con una hebilla clásica de acero inoxidable.
 - Está diseñado con una caja redonda de acero inoxidable.
 - Indicación de la fecha.
 - Cristal mineral endurecido-
+- Resistente al agua hasta 50 metros.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B010MF8DP6/?tag=tolees-21)

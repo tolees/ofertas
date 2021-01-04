@@ -25,9 +25,9 @@ Ahora mismo tienes [La Virgen Cerveza Artesana Madrid Lager - pack 24 botellas x
 
 🔎:
 
-- Mejor Lager de España por cuarto año consecutivo
 - Especialmente recomendada para cañear y tapear con tortilla de patata, aperitivos y encurtidos
 - Moderadamente amarga
+- Mejor Lager de España por cuarto año consecutivo
 - Cerveza Lager estilo Helles de baja fermentación
 
 [Visítala!!!](https://www.amazon.es/dp/B07P82HFDR/?tag=tolees-21)
