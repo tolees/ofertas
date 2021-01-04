@@ -27,8 +27,8 @@ En este momento está [EBL 1100mAh AAA Ni-MH 1200 Ciclo de Pilas Recargables par
 
 - Tecnología ProCyco: Ciclos de carga y descarga de hasta 1200 veces. Es muy conveniente y le permite ahorrar dinero en su larga vida.
 - 8 Unidades Pilas Recargables: 8 piezas de AAA 1100mAh Ni-MH pilas recargables (Incluyendo 2 * Cajas de almacenamiento de la pila).
+- Baja Autodescarga: Mejorar la autodescarga baja hace que todavía mantienen el 80% de su capacidad después de 3 años de no utilización.
 - Súper Celosía: EBL pila recargable fabricadas en tecnología de súper celosía, hacen que sea más espacio interior, proporcionan voltaje constante y el excelente rendimiento en la carga y descarga.
 - Compatibilidad con: Las pilas son muy adecuado para los equipos domésticos, es muy conveniente.
-- Baja Autodescarga: Mejorar la autodescarga baja hace que todavía mantienen el 80% de su capacidad después de 3 años de no utilización.
 
 [Aquí!!!](https://www.amazon.es/dp/B01CZS4TX8/?tag=tolees-21)

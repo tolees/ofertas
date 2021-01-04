@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dragon Ball Z Sagas Completas Box 2 Ep.  al 24.82 % de descuento'
-date: 2021-01-03 06:44:52
+date: 2021-01-04 07:11:45
 image: 'https://m.media-amazon.com/images/I/51BBAOQuHFL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RQ3V1K2/?tag=tolees-21'
 descuento: '24.82'
-average: '48.15449999999999'
+average: '48.67954545454545'
 ---
 
 Ahora mismo tienes [Dragon Ball Z Sagas Completas Box 2 Ep. 118 A 199 [DVD]](https://www.amazon.es/dp/B07RQ3V1K2/?tag=tolees-21) a 53.93 EUR (original: 71.73 EUR) (24.82 %  de descuento) en el siguiente enlace!

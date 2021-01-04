@@ -27,8 +27,8 @@ Ahora mismo tienes [Samsonite PRO-DLX 5 - Spinner Tote for 15.6   Laptop 3.3 KG 
 
 - Bolsillo de apertura superior con cremallera.
 - Easy Pass permite que los dispositivos electrónicos permanezcan cómodamente en el bolso mientras se cargan. También incluye un bolsillo exclusivo Powerbank en el interior.
-- To Go Side PocketTM para pequeñas pertenencias en todos los artículos con ruedas.
 - Compartimento acolchado y resistente de nylon balístico para portátil/tablet.
+- To Go Side PocketTM para pequeñas pertenencias en todos los artículos con ruedas.
 - Bolsillo con protección RFID.
 
 [Visítala!!!](https://www.amazon.es/dp/B07DLX9XF7/?tag=tolees-21)

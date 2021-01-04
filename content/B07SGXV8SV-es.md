@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Haglöfs Essens Down Chaqueta De Plumas p con un 30.78 % de descuento'
-date: 2020-12-22 22:02:18
+date: 2021-01-04 07:27:51
 image: 'https://m.media-amazon.com/images/I/51YIrt6xQuL._SL200_.jpg'
 comments: true
 category: ofertas

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LG 49NANO80ALEXA - Smart TV 4K NanoCell  al 25.95 % de descuento'
-date: 2020-11-26 18:25:59
+date: 2021-01-04 07:39:12
 image: 'https://m.media-amazon.com/images/I/417n5oKq77L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,13 +16,20 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B084XT6K7G/?tag=tolees-21'
 descuento: '25.95'
+average: '560.3199999999999'
 ---
 
-Está [LG 49NANO80ALEXA - Smart TV 4K NanoCell 123 cm  49" con Inteligencia Artificial  Procesador Inteligente Quad Core  Deep Learning  Local Dimming  HDR 10 Pro  HLG  Sonido Ultra Surround](https://www.amazon.es/dp/B084XT6K7G/?tag=tolees-21) con 25.95 de descuento por 525.0 EUR (original: 709.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [LG 49NANO80ALEXA - Smart TV 4K NanoCell 123 cm  49" con Inteligencia Artificial  Procesador Inteligente Quad Core  Deep Learning  Local Dimming  HDR 10 Pro  HLG  Sonido Ultra Surround](https://www.amazon.es/dp/B084XT6K7G/?tag=tolees-21) a 525.0 EUR (original: 709.0 EUR) (25.95 %  de descuento) en el siguiente enlace!
 
 [![LG 49NANO80ALEXA - Smart TV 4K NanoCell ](https://m.media-amazon.com/images/I/417n5oKq77L._SL200_.jpg)](https://www.amazon.es/dp/B084XT6K7G/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Mando Magic Control AN-MR20GA, necesario para las funciones de Inteligencia Artificial, incluido
+- Sistema operativo Smart TV webOS 5.0, fácil, rápido y seguro (certificado por UL Cybersecurity) con Inteligencia Artificial: LG ThinQ AI, Alexa, Asistente de Google
+- Disfruta de la experiencia del Sonido Ultra Surround
+- Compatible con HDR10 Pro y HLG
+- LG NanoCell, la gran tecnología de las grandes pulgadas
+- Caja reforzada para Amazon (certificación ISTA6) con diseño genérico 49NANO806NA
 
-[Ver la oferta!!](https://www.amazon.es/dp/B084XT6K7G/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B084XT6K7G/?tag=tolees-21)

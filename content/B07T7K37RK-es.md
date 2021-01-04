@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Toy Story 4 [DVD] al 42.91 % de descuento'
-date: 2021-01-03 01:25:31
+date: 2021-01-04 07:30:26
 image: 'https://m.media-amazon.com/images/I/51bwIWeCG8L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07T7K37RK/?tag=tolees-21'
 descuento: '42.91'
-average: '11.162432432432436'
+average: '11.174102564102567'
 ---
 
 Ahora mismo tienes [Toy Story 4 [DVD]](https://www.amazon.es/dp/B07T7K37RK/?tag=tolees-21) a 11.39 EUR (original: 19.95 EUR) (42.91 %  de descuento) en el siguiente enlace!

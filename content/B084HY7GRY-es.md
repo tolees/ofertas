@@ -25,8 +25,8 @@ Ahora mismo tienes [Tommy Hilfiger Th Men Sock 5p Birdeye Tin Giftbox calcetines
 
 🔎:
 
-- Combinación clásica con motivo de ojo de perdiz de base
 - Caja de regalo metálica de edición limitada
+- Combinación clásica con motivo de ojo de perdiz de base
 - Algodón peinado para proporcionar una sensación de suavidad
 - Puntera terminada a mano para evitar molestias
 

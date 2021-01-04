@@ -25,9 +25,9 @@ Tienes [Plus Office EH303A-8/FC - Fundas multitaladro folio-cristal  90 micras  
 
 ℹ️:
 
-- Con lomo reforzado blanco
-- Más grandes que hojas de tamaño A4
 - Fabricadas de polipropileno
+- Con lomo reforzado blanco
 - Paquete de 100 fundas multitaladro
+- Más grandes que hojas de tamaño A4
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00NXMCFK0/?tag=tolees-21)

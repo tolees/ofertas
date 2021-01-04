@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vaiana [DVD] al 20.02 % de descuento'
-date: 2021-01-03 01:29:22
+date: 2021-01-04 07:24:31
 image: 'https://m.media-amazon.com/images/I/61mm7hGTk5L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MRR8T2B/?tag=tolees-21'
 descuento: '20.02'
-average: '9.278674698795175'
+average: '9.263333333333328'
 ---
 
 Ahora mismo tienes [Vaiana [DVD]](https://www.amazon.es/dp/B01MRR8T2B/?tag=tolees-21) a 7.99 EUR (original: 9.99 EUR) (20.02 %  de descuento) en el siguiente enlace!

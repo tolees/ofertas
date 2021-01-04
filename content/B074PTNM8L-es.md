@@ -25,10 +25,10 @@ En este momento está [Saucony Jazz Original Vintage  Zapatillas de Cross Unisex
 
 🔎:
 
-- Parte superior de nailon y gamuza para un uso prolongado.
-- Entresuela EVA a rayas que absorbe los golpes.
 - Suela de tracción de goma duradera.
-- Con cordones en la parte delantera con cuello acolchado y lengua.
+- Entresuela EVA a rayas que absorbe los golpes.
+- Parte superior de nailon y gamuza para un uso prolongado.
 - La cama proporciona absorción de impactos, ajuste y comodidad extra.
+- Con cordones en la parte delantera con cuello acolchado y lengua.
 
 [Aquí!!!](https://www.amazon.es/dp/B074PTNM8L/?tag=tolees-21)
