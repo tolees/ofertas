@@ -26,9 +26,9 @@ Ahora mismo tienes [LG DSK8 - Barra de sonido 2.1 con 360W de potencia  Dolby At
 🔎:
 
 - Salida HDMI 1.4 (ARC)
-- Bluetooth 4.0
-- 360W 2.1 Canales
-- Sonido Dolby Atmos
 - Sonido de alta resolución Hi-Res
+- Sonido Dolby Atmos
+- 360W 2.1 Canales
+- Bluetooth 4.0
 
 [Visítala!!!](https://www.amazon.es/dp/B08ML7CZ72/?tag=tolees-21)

@@ -25,9 +25,9 @@ En este momento está [INTERBABY-Set Primera Puesta 5 Piezas Beige](https://www.
 
 🔎:
 
-- Incluye: 1 par de manoplas, un babero, un gorrito de primera puesta, una camisa y una polaina
-- El set de la canastilla de bebé viene en una bonita caja perfecta para regalo
 - Pack regalo para bebés “Primera Puesta” 5 Piezas, en color beige
+- El set de la canastilla de bebé viene en una bonita caja perfecta para regalo
+- Incluye: 1 par de manoplas, un babero, un gorrito de primera puesta, una camisa y una polaina
 - Talla Única de 0-6 meses
 - Set regalo de ropita para recién nacido 100% Algodón
 

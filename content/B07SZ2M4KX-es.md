@@ -25,10 +25,10 @@ Tienes [Collection of Mana](https://www.amazon.es/dp/B07SZ2M4KX/?tag=tolees-21) 
 
 🔎:
 
-- Conviértete en el caballero que estás destinado a ser y párale los pies al señor oscuro que pretende controlar la fuente de toda vida: el Árbol de Mana
-- Reproductor de música: Te permite escuchar los temas clásicos de cada juego
-- Disponible por primera vez fuera de Japón, ya puedes jugar al venerado tercer título de la serie Mana y descubrir una historia que evoluciona en función del héroe y de los personajes que elijas para tu grupo
 - Guardado rápido: Guarda la partida en cualquier momento y retómala desde el último punto de guardado
 - Emprende esta aventura clásica para proteger al mundo y al Árbol de Mana de las garras del Imperio
+- Reproductor de música: Te permite escuchar los temas clásicos de cada juego
+- Disponible por primera vez fuera de Japón, ya puedes jugar al venerado tercer título de la serie Mana y descubrir una historia que evoluciona en función del héroe y de los personajes que elijas para tu grupo
+- Conviértete en el caballero que estás destinado a ser y párale los pies al señor oscuro que pretende controlar la fuente de toda vida: el Árbol de Mana
 
 [Comprar!!!](https://www.amazon.es/dp/B07SZ2M4KX/?tag=tolees-21)

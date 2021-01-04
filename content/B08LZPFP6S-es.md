@@ -25,10 +25,10 @@ Está [Discos desmaquillantes reutilizables ecologicos. Grandes suaves y lavable
 
 ℹ️:
 
+- [MULTIUSOS] Diferentes materiales y tamaños que abarcan todos los usos: incluye almohadillas suaves, exfoliantes, toallitas de mayor tamaño para limpiezas difíciles, zonas delicadas, etc. Apto para todo tipo de pieles, desde secas a grasas o tan sensibles como la piel de un bebé
 - 🔥¡NOVEDAD! OFERTA DE LANZAMIENTO!🔥 Novedad Navidades 2020
 - [REGALO] Caja regalo para guardar las toallitas, fabricada en bambú natural. Mucho más elegante y duradero que las cajas de cartón y otro tipo de envases
-- [EL KIT MÁS COMPLETO] 8 almohadillas multicolor de bambú (Ø8cm) + 4 almohadillas de carbón de bambú (Ø8cm) + 2 toallitas desmaquillantes (15x15cm) + diadema desmaquillante + bolsa de lavado + bonita caja de bambú natural para guardar las toallitas
 - [ECOLÓGICO] Cero Residuos. No más almohadillas ni toallitas deshechables. Nuestras almohadillas son lavables y reutilizables cientos de veces, no generan residuos
-- [MULTIUSOS] Diferentes materiales y tamaños que abarcan todos los usos: incluye almohadillas suaves, exfoliantes, toallitas de mayor tamaño para limpiezas difíciles, zonas delicadas, etc. Apto para todo tipo de pieles, desde secas a grasas o tan sensibles como la piel de un bebé
+- [EL KIT MÁS COMPLETO] 8 almohadillas multicolor de bambú (Ø8cm) + 4 almohadillas de carbón de bambú (Ø8cm) + 2 toallitas desmaquillantes (15x15cm) + diadema desmaquillante + bolsa de lavado + bonita caja de bambú natural para guardar las toallitas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08LZPFP6S/?tag=tolees-21)

@@ -25,10 +25,10 @@ En este momento está [Candados para equipaje  2-Piezas-Tacklife HCL3A TSA Appro
 
 🔎:
 
-- ♥ Small and light exquisito- size, economic and practical, suitable to bags, travel bags, briefcases, computer bags, luggage, etc. for outdoor trips, vacation, honeymoon, business travel and go abroad
 - ♥ certified TSA lock – TSA accepted and recognized lock luggage aduana. is more convenient for the inspection of customs, to a large extent, prevent damage caused by the inspection and must fade over time
 - ♥ combination: the initial password "0 0 0, that can be reset as a convenient new combination for the Memory according to individual needs
 - ♥ Ultra rugged, durable and safety: made of zinc alloy, full body spray paint, effectively prevents oxidation in the humid environment, the private combination locks without key, with 3 Passwords, gives you more protection
 - ♥ what you get: 2 x tacklife combination lock hcl3 a 1 x User Manual 1 x Warranty Card, Warranty 24 months, risk free returns within 30 days
+- ♥ Small and light exquisito- size, economic and practical, suitable to bags, travel bags, briefcases, computer bags, luggage, etc. for outdoor trips, vacation, honeymoon, business travel and go abroad
 
 [Aquí!!!](https://www.amazon.es/dp/B079DJX3KT/?tag=tolees-21)

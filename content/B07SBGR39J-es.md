@@ -25,8 +25,8 @@ Tienes [Lee Rider Jeans Vaqueros  Mission Worn  28W / 32L para Hombre](https://w
 
 🔎:
 
-- Tienen un parche de piel en la parte trasera con la marca Lee
 - Vaqueros para hombre
+- Tienen un parche de piel en la parte trasera con la marca Lee
 - Estilo 5 bolsillos
 
 [Comprar!!!](https://www.amazon.es/dp/B07SBGR39J/?tag=tolees-21)
