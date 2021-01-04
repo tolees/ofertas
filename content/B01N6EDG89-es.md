@@ -25,9 +25,9 @@ Tienes [Tristar Bl-4020 Picadora con un botón operacional  cuchillas de acero i
 
 🔎:
 
+- Capacidad: 0.5 L, cuchillas de acero inoxidable
 - Carcasa de plástico, recipiente 0.5 L, fácil de desmontar para su limpieza
 - Base antideslizante, potencia: 200 vatios
-- Capacidad: 0.5 L, cuchillas de acero inoxidable
 - Apto para lavavajillas, indicador de nivel
 
 [Comprar!!!](https://www.amazon.es/dp/B01N6EDG89/?tag=tolees-21)

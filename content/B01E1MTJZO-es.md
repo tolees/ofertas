@@ -26,8 +26,8 @@ Está [Edge Entertainment Zombicide - Wulfsburg  Juego de Mesa EDGBP002](https:/
 ℹ️:
 
 - Si logramos recuperar una ciudad, podremos recuperarlas todas Vamos a liberar Wulfsburg y a sus irreductibles supervivientes. Les enseñaremos a todos el verdadero significado de... Zombicide
-- Producto en castellano
 - Los más fuertes e inteligentes sobrevivimos practicando el zombicidio en masa
+- Producto en castellano
 - El reino entero se desmoronó durante los primeros días de la guerra contra los zombis
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01E1MTJZO/?tag=tolees-21)

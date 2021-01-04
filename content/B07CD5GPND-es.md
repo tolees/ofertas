@@ -26,7 +26,7 @@ Tienes [LEVIS FOOTWEAR AND ACCESSORIESBanana SlingHombreShoppers y bolsos de hom
 ℹ️:
 
 - Ver descripción del producto para obtener más información.
-- A estrenar y genuina. Somos un vendedor autorizado de Levis.
 - Levis Negro Banana Sling Bag
+- A estrenar y genuina. Somos un vendedor autorizado de Levis.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CD5GPND/?tag=tolees-21)

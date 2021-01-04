@@ -25,10 +25,10 @@ Ahora mismo tienes [CIARRA CBCB6201 Campana de pared 60cm 380 m³/h 65W - 3 velo
 
 🔎:
 
+- Fácil de instalar y Garantñia es 24 meses.
 - Velocidad de extracción máximo hasta 380 m³/h y el potencia de motor máximo es 65W
 - Dos Tipo de extracción: Evacuación al exterior y De recirculación con Filtro CBCF002X2(El filtro de carbón NO está incluido, se vende separado )
-- Fácil de instalar y Garantñia es 24 meses.
-- Operación más fáfcil con botones y diseño más moderno.
 - Decibel del ruido máximo al 63dB(A).
+- Operación más fáfcil con botones y diseño más moderno.
 
 [Visítala!!!](https://www.amazon.es/dp/B06XQ7NQGK/?tag=tolees-21)

@@ -25,7 +25,7 @@ En este momento está [adidas Fitness 3 Bandas Bañador Slip  Hombre  Azul  Coll
 
 🔎:
 
-- Se ha confeccionado en un tejido resistente al cloro con hilo reciclado a partir de redes de pesca
 - Este bañador se ha diseñado para sacar el máximo partido a tu entrenamiento
+- Se ha confeccionado en un tejido resistente al cloro con hilo reciclado a partir de redes de pesca
 
 [Aquí!!!](https://www.amazon.es/dp/B07SNB4KR3/?tag=tolees-21)
