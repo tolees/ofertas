@@ -25,10 +25,10 @@ Está [NEWYES 12" Tableta de Escritura LCD  Tableta gráfica  Ideal para hogar  
 
 ℹ️:
 
-- IMANES: Incluye 2 imanes para que lo puedas colgar en la nevera o cualquier superficie metálica.
+- IDEAL PARA NIÑOS: Para que desarrollen su creatividad dibujando y aprendiendo a escribir, también podrán usarlo para crear sus propios juegos de mesa y manualidades niños.
 - NO MÁS PAPEL: Nunca más se tendrá que preocupar por malgastar papel, tiene una vida útil de más de 100.000 borrados lo que ahorra 100.000 hojas de papel, que equivalen a 3 árboles.
 - CÓMODO: Podrá crear líneas de diferente grosor según de la fuerza con la escriba, la sensación será idéntica que al usar lápiz y papel tradicional. Cada vez que pulse el botón de borrado aparecerá una nueva hoja.
+- IMANES: Incluye 2 imanes para que lo puedas colgar en la nevera o cualquier superficie metálica.
 - GARANTÍA DE CALIDAD: Newyes garantiza la calidad de sus productos ofreciendo 30 días la devolución si no está satisfecho con el producto y 2 años de garantía.
-- IDEAL PARA NIÑOS: Para que desarrollen su creatividad dibujando y aprendiendo a escribir, también podrán usarlo para crear sus propios juegos de mesa y manualidades niños.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B071FZVRKW/?tag=tolees-21)

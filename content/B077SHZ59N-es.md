@@ -25,10 +25,10 @@ Tienes [XP-Pen Deco 01 10 x 6.25”Tableta Gráfica de Dibujo Digital con 8192 N
 
 🔎:
 
-- Deco 01 de panel completa cuenta con diseño de moldura integral para romper limitación entre los márgenes de la área activa y teclas express, obtiene imagen delicado y fluido. Los cuadrados especialmente diseñados en la parte atrás hacen que la tableta se ve más retro y elegante.
 - Deco 01 está diseñado con 4 luces opacas alrededor de la área activa que le pueda inspirar aun en las noches.
+- El nuevo Deco 01 viene con área de trabajo de 10 x 6.25 pulgadas, tiene más espacio para crear y realizar el trabajo. Cuenta con sólo 8 mm de espesor, más portátil para llevarlo a cualquier lado.
 - La superficie del Deco 01 aplica tratamiento de artesanía especial y es completamente integral hace que la tableta sea más resistente de rayas y polvos.
 - El Deco 01 tiene ocho teclas express, redondas y personalizables que calce perfectamente a sus dedos. Los puntos ciegos en las teclas le ayudará a encontrar posiciones de las teclas que quiere presionar de forma más eficiente. El driver permite sincronizar los ajustes de las teclas en programas diferentes.
-- El nuevo Deco 01 viene con área de trabajo de 10 x 6.25 pulgadas, tiene más espacio para crear y realizar el trabajo. Cuenta con sólo 8 mm de espesor, más portátil para llevarlo a cualquier lado.
+- Deco 01 de panel completa cuenta con diseño de moldura integral para romper limitación entre los márgenes de la área activa y teclas express, obtiene imagen delicado y fluido. Los cuadrados especialmente diseñados en la parte atrás hacen que la tableta se ve más retro y elegante.
 
 [Comprar!!!](https://www.amazon.es/dp/B077SHZ59N/?tag=tolees-21)

@@ -25,10 +25,10 @@ Tienes [OMOTON Pack de Teclado y Ratón Inalámbrico  Compatible con iPad Air 10
 
 🔎:
 
-- Ratón el tatón hay tres DPI, 800DPI, 1200DPI, 1600DPI, Puede satisfacer completamente las necesidades de jugar juegos
 - DISEÑO ERGONÓMICO - El teclado inalámbrico está inclinado para facilitar la escritura. El teclado es diseñado por España, tiene la tecla ¨Ñ¨ y los simbolos españoles
-- 【 El Método simple】:1. Encende el interruptor del teclado y raton .2 . Abrir el Bluetooth de ipad. 3. Buscar el bluetooth de teclado y raton, 4. Luego ajusta la lengua del teclado.
 - Compatible: Este conjunto de Teclado y Ratón inalámbrico es compatible con iPad 7ª / 8ª generación 10.2 2019/2020, iPad Air 4, iPad 10.9, iPad Air 10.9 nuevo iPad 2018, iPad 2017, iPad Pro 9.7, iPad Pro 10.5, iPad Pro 11 2020/2018, iPad Pro 12.9 2020/2018, iPad Air 3/2/1, iPad mini 4/3/2/1, iPad mini 5 2019, iPad Air 3 2019 y todos los teléfonos móviles iPhone.
+- 【 El Método simple】:1. Encende el interruptor del teclado y raton .2 . Abrir el Bluetooth de ipad. 3. Buscar el bluetooth de teclado y raton, 4. Luego ajusta la lengua del teclado.
 - Diseño compacto: el teclado / teclado es lo suficientemente grande como para que tus dedos lo sientan y pequeño para que lo lleves contigo
+- Ratón el tatón hay tres DPI, 800DPI, 1200DPI, 1600DPI, Puede satisfacer completamente las necesidades de jugar juegos
 
 [Comprar!!!](https://www.amazon.es/dp/B082S7Y9RY/?tag=tolees-21)

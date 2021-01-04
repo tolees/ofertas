@@ -28,7 +28,7 @@ Ahora mismo tienes [GeekerChip Webcam 1080P con Micrófono Estéreo USB Webcam c
 - Plug and Play: Fácil de configurar, esta cámara web USB para computadora puede simplemente conectar y reproducir video en 5 minutos, sin instalar ningún software o controlador adicional. Es compatible con USB 2.0.
 - Micrófono Estéreo Claro Incorporado: El micrófono estéreo incorporado ofrece una comunicación súper clara durante el tiempo de video, disponible para capturar audio. El micrófono está diseñado con la función de cancelación de eco y ruido, que permite que la comunicación sea lo suficientemente clara, como si estuviera hablando con alguien cara a cara.
 - Cámara Web de Streaming Profesional: Diseñado específicamente y optimizado para la transmisión en vivo profesional en sitios de juegos sociales y entretenimiento como Twitch, YouTube, Xbox One, Streamlabs OBS、Xsplit, Mixer, Skype, Facebook y Vloging. Plug and Play, compatible con Windows, Mac, Android, Linux, Ubuntu, Chrome OS, etc.
-- Cámara Web HD de 1080p: la PC con cámara web graba videos en HD a una velocidad excepcional de 1920X1080P a 30 cuadros por segundo.Webcam 1080P con resolución de alta calidad y calidad de construcción excepcional.
 - Soporte Giratorio:Con clip ajustable de 90 °, le permite montarlo en cualquier dispositivo como computadora portátil, trípode, computadora de escritorio, computadoras, pantalla LCD e incluso simplemente colocarlo en un escritorio.
+- Cámara Web HD de 1080p: la PC con cámara web graba videos en HD a una velocidad excepcional de 1920X1080P a 30 cuadros por segundo.Webcam 1080P con resolución de alta calidad y calidad de construcción excepcional.
 
 [Visítala!!!](https://www.amazon.es/dp/B08C4SJJ2D/?tag=tolees-21)

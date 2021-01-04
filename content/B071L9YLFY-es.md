@@ -25,10 +25,10 @@ Tienes [ONLYU 18XL Cartuchos de Tinta Reemplazo para Epson 18 18 XL Compatible c
 
 🔎:
 
-- Super cartucho de tinta garantiza imágenes claras, nítidas y sin manchas
+- Página de alto rendimiento: 600 páginas para negro, 450 páginas para colores
 - Contenido del paquete: Paquete de 20 (8 Negro, 4 Cian, 4 Amarillo, 4 Magenta)
+- Super cartucho de tinta garantiza imágenes claras, nítidas y sin manchas
 - Colores brillantes: Alta capacidad para cartucho de tinta, líneas flexibles; imágenes duraderas. Para proteger bien los productos, cada cartucho de tinta utiliza una bolsa de plástico única
 - Modelos compatibles: Epson Expression Home XP-102, XP-202, XP-205, XP-212, XP-215, XP-225, XP-30, XP-33, XP-302, XP-305, XP- 312, Impresora XP-315, XP-322, XP-325, XP-402, XP-405, XP-405WH, XP-412, XP-415, XP-422
-- Página de alto rendimiento: 600 páginas para negro, 450 páginas para colores
 
 [Comprar!!!](https://www.amazon.es/dp/B071L9YLFY/?tag=tolees-21)

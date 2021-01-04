@@ -25,10 +25,10 @@ Tienes [TeckNet Ratón con Cable Cable USB de 1 5 m  6 Botones  hasta 2000 dpi  
 
 🔎:
 
-- Sistemas de seguimiento óptico: Blue Wave Sensor proporciona un seguimiento constante y sin errores en muchos tipos de superficies diferentes, como escritorios, revistas, superficies mate, etc.
-- Agarre ergonómico: material parecido a la piel, la rueda de desplazamiento con goma garantiza que su mano no se deslice al usar el mouse. Forma ergonómica diseñada para sentirse cómodo y sin tensiones. Tamaño moderado que se adapta a la mayoría de las manos para proporcionar un agarre cómodo.
-- DPI 2000: dos niveles de DPI de 1000 a 2000 (la configuración predeterminada es de 1000 DPI), el movimiento suave y los clics precisos mejoraron la experiencia de uso.
-- Compatibilidad: Windows 2000, 2003, XP, Vista, Win7, Win8, Win8.1, Win10, Tecknet ofrece 18 meses de garantía y soporte técnico las 24 horas.(Nota: los botones laterales no se pueden usar en Mac o en el sistema IOS).
 - Confiable y duradero: no hay problemas para saltar el marco, tartamudear. Probado más de 1 millón de veces las pulsaciones de teclas. Enchufe y use un cable de 1,5 m de alta intensidad.
+- Sistemas de seguimiento óptico: Blue Wave Sensor proporciona un seguimiento constante y sin errores en muchos tipos de superficies diferentes, como escritorios, revistas, superficies mate, etc.
+- DPI 2000: dos niveles de DPI de 1000 a 2000 (la configuración predeterminada es de 1000 DPI), el movimiento suave y los clics precisos mejoraron la experiencia de uso.
+- Agarre ergonómico: material parecido a la piel, la rueda de desplazamiento con goma garantiza que su mano no se deslice al usar el mouse. Forma ergonómica diseñada para sentirse cómodo y sin tensiones. Tamaño moderado que se adapta a la mayoría de las manos para proporcionar un agarre cómodo.
+- Compatibilidad: Windows 2000, 2003, XP, Vista, Win7, Win8, Win8.1, Win10, Tecknet ofrece 18 meses de garantía y soporte técnico las 24 horas.(Nota: los botones laterales no se pueden usar en Mac o en el sistema IOS).
 
 [Comprar!!!](https://www.amazon.es/dp/B07JM4FRTJ/?tag=tolees-21)

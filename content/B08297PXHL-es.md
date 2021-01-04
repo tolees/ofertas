@@ -25,10 +25,10 @@ Ahora mismo tienes [NGS SKYCHARM - Altavoz Torre de Sonido con Bluetooth y Entra
 
 🔎:
 
-- Conecta 2 torres en estéreo gracias al cable de audio, desde la salida de Audio de la torre principal a la entrada de Audio de la torre secundaria. La torre secundaria solo responderá a los controles de la principal.
 - Permite cargar la batería de tu dispositivo bluetooth mediante el puerto USB de salida del que dispone la torre.
 - Equipado con radio FM y memoria de emisoras para convertirse en un reproductor multimedia super completo.
-- Además, puedes escuchar las canciones MP3 almacenadas en tu memoria USB durante horas y disfrutar de tus playlist favoritas.
 - Conecta tu home cinema, televisión o cualquier otro dispositivo de una forma sencilla vía Bluetooth y con entrada óptica.
+- Conecta 2 torres en estéreo gracias al cable de audio, desde la salida de Audio de la torre principal a la entrada de Audio de la torre secundaria. La torre secundaria solo responderá a los controles de la principal.
+- Además, puedes escuchar las canciones MP3 almacenadas en tu memoria USB durante horas y disfrutar de tus playlist favoritas.
 
 [Visítala!!!](https://www.amazon.es/dp/B08297PXHL/?tag=tolees-21)

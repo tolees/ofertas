@@ -25,10 +25,10 @@ Tienes [ESR Funda para iPad 8ª  2020 /7ª  2019  generación 10 2 Pulgadas con 
 
 🔎:
 
-- [SOPORTE PARA PENCIL 1 INTEGRADO]: La ranura para Pencil integrada te permite llevar tu lápiz siempre contigo de forma cómoda y segura.
+- [ACABADO SUAVE]: Hecha con un polímero muy suave parecido al caucho, muy agradable al tacto y evita que tu iPad se resbale entre tus dedos.
 - [COMPATIBILIDAD]: Diseñado exclusivamente para el iPad 2020 de 8ª generación y para el iPad 2019 de 7ª generación. No es compatible con ningún otro modelo de iPad.
 - [SOPORTE TRÍPTICO]: Los potentes imanes entrelazados mantienen el soporte de tu iPad muy estable tanto en el modo de visualización como en el de escritura.
-- [ACABADO SUAVE]: Hecha con un polímero muy suave parecido al caucho, muy agradable al tacto y evita que tu iPad se resbale entre tus dedos.
 - [MODO AUTOMÁTICO DE REPOSO/ACTIVIDAD]: Tu iPad se enciende rápidamente al abrir la tapa y se apaga al cerrarla, ahorrando valiosa batería.
+- [SOPORTE PARA PENCIL 1 INTEGRADO]: La ranura para Pencil integrada te permite llevar tu lápiz siempre contigo de forma cómoda y segura.
 
 [Comprar!!!](https://www.amazon.es/dp/B07WNPQSL9/?tag=tolees-21)

@@ -25,10 +25,10 @@ Tienes [Trackimo  V-Multi Tracker by Vodafone  Localizador GPS para Vehículos  
 
 🔎:
 
-- Mide tan sólo 39 mm de ancho y 12 mm de alto y pesa menos de 20 g, duración de batería: 1-2 días, dependiendo del uso
-- En caso de emergencia, permite enviar un aviso de sos con sólo mantener pulsado durante 3 segundos el botón SOS
-- Este dispositivo inteligente utiliza 3 tecnologías de localización, GPS , WI-FI y móvil
-- Recibe una alerta si se sale del área de proximidad de tu teléfono para que puedas localizarlo antes de alejarte
 - Recibe una alerta si supera el límite de velocidad que tú mismo puedes definir a través de la app
+- En caso de emergencia, permite enviar un aviso de sos con sólo mantener pulsado durante 3 segundos el botón SOS
+- Recibe una alerta si se sale del área de proximidad de tu teléfono para que puedas localizarlo antes de alejarte
+- Este dispositivo inteligente utiliza 3 tecnologías de localización, GPS , WI-FI y móvil
+- Mide tan sólo 39 mm de ancho y 12 mm de alto y pesa menos de 20 g, duración de batería: 1-2 días, dependiendo del uso
 
 [Comprar!!!](https://www.amazon.es/dp/B07MV16RK4/?tag=tolees-21)
