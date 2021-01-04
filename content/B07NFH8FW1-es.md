@@ -25,9 +25,9 @@ Está [Casio Reloj Analógico para Mujer de Cuarzo con Correa en Resina LRW-200H
 
 ℹ️:
 
-- Indicador de Fecha
+- Pantalla de neón
 - Clasificación de resistencia al agua (10 bar)
 - Caja de resina
-- Pantalla de neón
+- Indicador de Fecha
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07NFH8FW1/?tag=tolees-21)

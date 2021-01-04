@@ -25,10 +25,10 @@ Tienes [Pack Persona - Dancing Endless Night Collection  Incluye 3 Juegos ](http
 
 🔎:
 
-- Desbloquea un total de canciones favoritas de los fans
 - En “Social” los jugadores podrán conectar con sus personajes favoritos y profundizar en sus lazos sociales mediante conversaciones y mini-eventos
-- Elige entre cuatro niveles de dificultad y baila junto a los miembros de SEES y los legendarios Ladrones Fantasma
 - Elige escuchar las voces de tus personajes favoritos tanto en inglés como en japonés
+- Desbloquea un total de canciones favoritas de los fans
 - Los personajes podrán romper la pista de baile con un compañero realizando una buena actuación durante una canción
+- Elige entre cuatro niveles de dificultad y baila junto a los miembros de SEES y los legendarios Ladrones Fantasma
 
 [Comprar!!!](https://www.amazon.es/dp/B07GJ14SWH/?tag=tolees-21)

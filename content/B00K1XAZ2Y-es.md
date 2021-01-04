@@ -25,13 +25,13 @@ Ahora mismo tienes [HUNTER Original Tall Classic  Botas de Agua Unisex Adulto  A
 
 🔎:
 
-- Heel type: tacón ancho
-- Lining: sin forro
-- Sole material: caucho
-- Heel height: 2 centimeters
-- Outer material: caucho
-- Shaft diameter: normal
-- Shoe width: normal
 - Closure: sin cordones
+- Shaft diameter: normal
+- Lining: sin forro
+- Heel height: 2 centimeters
+- Sole material: caucho
+- Outer material: caucho
+- Heel type: tacón ancho
+- Shoe width: normal
 
 [Visítala!!!](https://www.amazon.es/dp/B00K1XAZ2Y/?tag=tolees-21)

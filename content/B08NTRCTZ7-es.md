@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS ROG Zephyrus M15 GU502LW-AZ196T - P al 25.04 % de descuento'
-date: 2021-01-03 13:12:55
+date: 2021-01-04 17:19:16
 image: 'https://m.media-amazon.com/images/I/41g9VubaIHL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,11 +25,11 @@ Ahora mismo tienes [ASUS ROG Zephyrus M15 GU502LW-AZ196T - Portátil Gaming de 1
 
 🔎:
 
-- Memoria RAM de 32GB, DDR 4
-- Pantalla de 15.6" FullHD (1920 x 1080)
-- Disco du 1TB NVMe PCIe
-- Procesador Intel Core i7-10750H ( 6 núcleos, 12MB cache, 2.6 GHz hasta 5.0 GHz)
 - Tarjeta grafica GeForce RTX 2070 de 8GB GDDR6
+- Pantalla de 15.6" FullHD (1920 x 1080)
 - Sistema operativo Windows 10 Home
+- Memoria RAM de 32GB, DDR 4
+- Procesador Intel Core i7-10750H ( 6 núcleos, 12MB cache, 2.6 GHz hasta 5.0 GHz)
+- Disco du 1TB NVMe PCIe
 
 [Visítala!!!](https://www.amazon.es/dp/B08NTRCTZ7/?tag=tolees-21)
