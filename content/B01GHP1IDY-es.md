@@ -25,12 +25,12 @@ Está [Logitech G910 Orion Spectrum Teclado Gaming Mecánico Retroiluminado  RGB
 
 ℹ️:
 
-- Segunda Pentalla Arx: Mediante la base ajustable se pueden conectar Smartphones y tablets a Orion Spectrum, con Arx Control, los dispositivos móviles pueden mostrar información del juego en curso
-- RGB LIGHTSYNC: La iluminación RGB de Orion Spectrum se puede personalizar con una paleta de 16 millones de colores, la parte superior de cada tecla está iluminada para un resplandor uniforme
-- Romer-G Táctil: Los interruptores mecánicos Romer-G exclusivos convierten a Orion Spectrum en el teclado rápido de nuestra historia,una actuación de 1,5 mm permite la entrada de datos en Orion
-- Teclas G Programables: El teclado Orion Spectrum dispone de 9 teclas G totalmente personalizables, a las que se pueden asignar comandos por perfil, colocadas para optimizar el acceso
-- La Calidad Logitech: Descubre nuestros teclados y ratones con cable, inalámbricos o Bluetooth, accesorios diseñados para el gaming como teclados mecánicos y ratones precisos
 - Velocidad y Rendimiento: El teclado con cable USB Logtiech Orion Spectrum ofrece una gran velocidad, con un 40 por ciento de durabilidad para un rendimiento optimo usado con un ratón Logitech
 - Controles Multimedia Específicos: Los controles de Orion Spectrum permiten reproducir, poner en pausa y silenciar, usa el rodillo integrado para ajustar el volumen o saltarte escenas
+- La Calidad Logitech: Descubre nuestros teclados y ratones con cable, inalámbricos o Bluetooth, accesorios diseñados para el gaming como teclados mecánicos y ratones precisos
+- Teclas G Programables: El teclado Orion Spectrum dispone de 9 teclas G totalmente personalizables, a las que se pueden asignar comandos por perfil, colocadas para optimizar el acceso
+- Romer-G Táctil: Los interruptores mecánicos Romer-G exclusivos convierten a Orion Spectrum en el teclado rápido de nuestra historia,una actuación de 1,5 mm permite la entrada de datos en Orion
+- Segunda Pentalla Arx: Mediante la base ajustable se pueden conectar Smartphones y tablets a Orion Spectrum, con Arx Control, los dispositivos móviles pueden mostrar información del juego en curso
+- RGB LIGHTSYNC: La iluminación RGB de Orion Spectrum se puede personalizar con una paleta de 16 millones de colores, la parte superior de cada tecla está iluminada para un resplandor uniforme
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01GHP1IDY/?tag=tolees-21)

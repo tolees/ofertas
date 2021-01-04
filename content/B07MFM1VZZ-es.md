@@ -25,7 +25,7 @@ Está [Clarks Ronnie Limit  Zapatos de Cordones Brogue  Braun British Tan Leathe
 
 ℹ️:
 
-- Material de la suela: TR
 - Color exacto: British Leather Tan
+- Material de la suela: TR
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07MFM1VZZ/?tag=tolees-21)

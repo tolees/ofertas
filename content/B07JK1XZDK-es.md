@@ -25,10 +25,10 @@ Está [WAVLINK USB C Docking Station Portátil 4K Dual con 60W Carga/para Sistem
 
 ℹ️:
 
-- ♥ USB-C CON PD: Soporta USB Power Delivery de hasta 60W, Compatible con computadoras portátiles y de escritorio Thunderbolt 3 USB Tipo-C, tenga en cuenta que la salida de video de USB-C cargando 2.0 y modo alternativo ("Modo Alt") debe compatibilidad con su portátil USB-C.Un puerto USB 3.0 admite el sleep modo de carga rápida a 1.5A
-- ♥ SOPORTE DE SISTEMA: Sistemas Windows 10, 8.1, 8, 7, XP, Mac OS 10.6 a 10.13.3, NO SOPORTE en Mac os 10.13.4 o posterior. No es compatible con sistemas operativos Windows / Unix o ARM basados en Windows
-- ♥ ULTIMATE HD EXPERIENCE - Resoluciones de hasta 5K (5120 x 2880 a 60Hz) con pantalla única cuando se usan puertos duales DisplayPort / Dual 4K HDMI / 4K HDMI + 4K DisplayPort (4096 x 2160) a 60Hz
 - ♥ NUEVO DISEÑO COMPACTO Y MODERNO - Las dimensiones de la unidad de la base negra de perfil bajo: 223 X 80 X 26 mm (L x H x W), y su peso de la base solo 890 g con material de carcasa ABS. No dude en ponerse
 - ♥ DOCKING STATION TODO EN UNO: 4 puertos USB 3.0 y 2 puertos USB-C Gen1 le permiten acceder a velocidades de transferencia de datos SuperSpeed de hasta 5 Gbps. Integra 2 salidas de video duales HDMI y 2 DP,
+- ♥ USB-C CON PD: Soporta USB Power Delivery de hasta 60W, Compatible con computadoras portátiles y de escritorio Thunderbolt 3 USB Tipo-C, tenga en cuenta que la salida de video de USB-C cargando 2.0 y modo alternativo ("Modo Alt") debe compatibilidad con su portátil USB-C.Un puerto USB 3.0 admite el sleep modo de carga rápida a 1.5A
+- ♥ ULTIMATE HD EXPERIENCE - Resoluciones de hasta 5K (5120 x 2880 a 60Hz) con pantalla única cuando se usan puertos duales DisplayPort / Dual 4K HDMI / 4K HDMI + 4K DisplayPort (4096 x 2160) a 60Hz
+- ♥ SOPORTE DE SISTEMA: Sistemas Windows 10, 8.1, 8, 7, XP, Mac OS 10.6 a 10.13.3, NO SOPORTE en Mac os 10.13.4 o posterior. No es compatible con sistemas operativos Windows / Unix o ARM basados en Windows
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07JK1XZDK/?tag=tolees-21)

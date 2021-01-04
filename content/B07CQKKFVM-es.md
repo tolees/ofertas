@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'El Bebe Jefazo [Blu-ray] al 27.35 % de descuento'
-date: 2020-12-22 20:49:26
+date: 2021-01-03 23:12:44
 image: 'https://m.media-amazon.com/images/I/51fEmtzjnXL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07CQKKFVM/?tag=tolees-21'
 descuento: '27.35'
-average: '8.215000000000002'
+average: '9.94352941176471'
 ---
 
 Ahora mismo tienes [El Bebe Jefazo [Blu-ray]](https://www.amazon.es/dp/B07CQKKFVM/?tag=tolees-21) a 8.95 EUR (original: 12.32 EUR) (27.35 %  de descuento) en el siguiente enlace!

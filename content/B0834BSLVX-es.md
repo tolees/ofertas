@@ -25,10 +25,10 @@ Tienes [adidas Duramo SL  Zapatillas Hombre  NEGBÁS/NEGBÁS/GRISEI  40 2/3 EU](
 
 🔎:
 
+- Horma clásica
 - Parte superior de malla
 - Diseño ligero
 - Cierre de cordones
-- Horma clásica
 - Zapatilla de running versátil
 
 [Comprar!!!](https://www.amazon.es/dp/B0834BSLVX/?tag=tolees-21)

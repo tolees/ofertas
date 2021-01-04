@@ -25,12 +25,12 @@ Está [Bosch Professional GAS 35 L AFC - Aspirador seco/húmedo  1380 W  capacid
 
 ℹ️:
 
-- El aspirador en húmedo/seco portátil con limpieza de filtro automática
-- Potencia de aspiración duradera para un avance continuo en el trabajo mediante la limpieza de filtro automática (AFC)
-- Óptimos resultados de aspiración gracias a la potente turbina de 1200 W con una depresión muy elevada de hasta 254 mbar
-- Aspirador de seguridad certificado para la clase de polvo «L» según la normativa europea para una buena protección del usuario
 - Incluye: Aspirador para seco/húmedo GAS 35 L AFC, filtro de pliegues planos, manguera de 5 m, 3 tubos de aspiración, boquilla para ranuras, Codo, juego de boquillas para suelos, saco de evacuación polvo
 - Toma de corriente para la conexión de herramientas eléctricas con sistema automático de conexión y desconexión, incluido el funcionamiento retardado para mayor comodidad de uso
 - Soportes integrados para múltiples accesorios, así como para el cable y la manguera directamente en el aspirador
+- Potencia de aspiración duradera para un avance continuo en el trabajo mediante la limpieza de filtro automática (AFC)
+- El aspirador en húmedo/seco portátil con limpieza de filtro automática
+- Óptimos resultados de aspiración gracias a la potente turbina de 1200 W con una depresión muy elevada de hasta 254 mbar
+- Aspirador de seguridad certificado para la clase de polvo «L» según la normativa europea para una buena protección del usuario
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00D1ULILQ/?tag=tolees-21)
