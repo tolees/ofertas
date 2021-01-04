@@ -25,10 +25,10 @@ Está [Tayg 58 Trailbox - Caja de Herramientas  Multicolor  Tamaño único](http
 
 ℹ️:
 
-- Dos asas, en primer lugar para tirar y asa de transporte por separado cuando el producto se separa
-- Dimensiones del producto: 470 x 290 x 630 mm
-- La sección superior dispone caso compartimento transparente y bandeja extraíble de color rojo
 - Ruedas de goma con eje de metal
 - Dos secciones principales de almacenamiento
+- Dos asas, en primer lugar para tirar y asa de transporte por separado cuando el producto se separa
+- La sección superior dispone caso compartimento transparente y bandeja extraíble de color rojo
+- Dimensiones del producto: 470 x 290 x 630 mm
 
 [Ver la oferta!!](https://www.amazon.es/dp/B001AXRDHO/?tag=tolees-21)

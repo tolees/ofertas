@@ -25,9 +25,9 @@ Tienes [YGoal Funda Compatible con Huawei MateBook 13 2020  Cubierta de Carcasa 
 
 ℹ️:
 
+- Funda rígida de PC para HUAWEI MateBook 13 pulgada 2020 (WRT-W19/WRT-W29/WRT-W19L/WRT-W29L).
 - Lista de paquetes: 1 x Funda rígida de PC para HUAWEI MateBook 13 2020 (WRT-W19/WRT-W29/WRT-W19L/WRT-W29L)
 - [Skin Touch] El revestimiento de goma suave ofrece un tacto suave y sedoso mientras protege su HUAWEI MateBook 13 2020 contra golpes, arañazos, polvo y otros daños.
-- Funda rígida de PC para HUAWEI MateBook 13 pulgada 2020 (WRT-W19/WRT-W29/WRT-W19L/WRT-W29L).
 - [Peso ligero] La carcasa solo pesa 10 oz y tiene un grosor de 1.2 mm. Sin diseño de logotipo cortado, la transparencia es diferente según el color diferente.
 - [Instalación fácil] Fácil de instalar y quitar. Acceso total a todos los puertos y funciones, conecte su cargador, cable o auriculares sin quitar la funda. Pies de goma para mantener su HUAWEI MateBook 13 2020 firmemente en su lugar.
 

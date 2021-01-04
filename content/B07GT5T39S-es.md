@@ -25,9 +25,9 @@ Tienes [Sony DSX-A416BT - Reproductor multimedia para coche  Bluetooth  NFC  con
 
 🔎:
 
-- El terminal USB compatible con AOA 2.0 te permite conectar reproductores de música y Smartphone
 - El amplificador de alta potencia ofrece un sonido nítido y natural
-- Sintonizador de radio AM / FM integrado
+- El terminal USB compatible con AOA 2.0 te permite conectar reproductores de música y Smartphone
 - Facil Instalación
+- Sintonizador de radio AM / FM integrado
 
 [Comprar!!!](https://www.amazon.es/dp/B07GT5T39S/?tag=tolees-21)

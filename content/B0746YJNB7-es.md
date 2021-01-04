@@ -25,7 +25,7 @@ Ahora mismo tienes [Camper Uno  Zapatillas para Mujer  Negro  Black 047   39 EU]
 
 🔎:
 
-- Precio mínimo ofrecido por este vendedor en los 30 días anteriores a la oferta: 79.2€
 - Precio mínimo en los 30 días previos a la oferta: 62.15€
+- Precio mínimo ofrecido por este vendedor en los 30 días anteriores a la oferta: 79.2€
 
 [Visítala!!!](https://www.amazon.es/dp/B0746YJNB7/?tag=tolees-21)

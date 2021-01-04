@@ -26,8 +26,8 @@ Está [Nixon Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Acero 
 ℹ️:
 
 - Caja: acero inoxidable de 43,25 x 37 mm, 100 M , 10 ATM, cristal mineral endurecido, corona de triple junta
-- Mecanismo: cuarzo japonés de 3 agujas
-- Esfera: incluye índices aplicados y agujas moldeadas a medida
 - Correa: acero inoxidable, cierre a presión de acero inoxidable
+- Esfera: incluye índices aplicados y agujas moldeadas a medida
+- Mecanismo: cuarzo japonés de 3 agujas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00SSGIK96/?tag=tolees-21)
