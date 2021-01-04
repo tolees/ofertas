@@ -25,10 +25,10 @@ Ahora mismo tienes [YUIN Amplificador Señal WiFi - 300Mbps Repetidor WiFi Ampli
 
 🔎:
 
-- 【Fácil Instalación】Repetidor WiFi con el diseño del enchufe de pared, lo que facilita su instalación y traslado. conecte, conéctese al repetidor a través de WiFi, seleccione el modo y listo. en su teléfono, tableta o PC. Puede ser operado. Dondequiera que se conecte a Internet, cree un punto de acceso Wi-Fi instantáneo.enlace de operación：https://youtu.be/hfs851xmwSY
-- 【Signal Señal Estable】 Repetidor WiFi con antenas omnidireccionales 2 * 2dBi, cobertura WiFi de hasta 100m². para aumentar rápida y fácilmente el alcance de la red WLAN hasta 300 Mbit / s (banda de 2.4 GHz).
 - 【Configuración de Un Botón de WPS 】Este Amplificador de Señal Inalámbrico Wi-Fi admite la configuración de un botón de WPS, simple y conveniente de configurar en su teléfono, tableta, PC, accesible desde casi cualquier dispositivo, incluidos los sistemas iOS y Android. El botón RST se puede usar para restaurar la configuración de fábrica.
+- 【Fácil Instalación】Repetidor WiFi con el diseño del enchufe de pared, lo que facilita su instalación y traslado. conecte, conéctese al repetidor a través de WiFi, seleccione el modo y listo. en su teléfono, tableta o PC. Puede ser operado. Dondequiera que se conecte a Internet, cree un punto de acceso Wi-Fi instantáneo.enlace de operación：https://youtu.be/hfs851xmwSY
 - 【Extensor de WiFi】Repetidor WiFi Admite repetidor WiFi y modo AP. El modo repetidor amplía su área wifi y elimina los puntos muertos. Más rango de WiFi para todos los dispositivos conectados, WiFi en toda la casa y en el jardín, pisos, garaje, ideal para transmisión de video, juegos en línea y VoIP.
 - 【Amplia compatibilidad】Este amplificador Wifi ha sido certificado y es compatible con casi todos los routers y dispositivos del mercado español, como iOS, Android, PC, dispositivos Echo / Alexa y enchufes inteligentes. El repetidor WiFi tiene un puerto Gigabit Ethernet y un modo de punto de acceso opcional, que puede proporcionar fácilmente una red para su dispositivo a través de un cable Ethernet.
+- 【Signal Señal Estable】 Repetidor WiFi con antenas omnidireccionales 2 * 2dBi, cobertura WiFi de hasta 100m². para aumentar rápida y fácilmente el alcance de la red WLAN hasta 300 Mbit / s (banda de 2.4 GHz).
 
 [Visítala!!!](https://www.amazon.es/dp/B08QCKFR7L/?tag=tolees-21)

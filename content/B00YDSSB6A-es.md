@@ -25,9 +25,9 @@ Está [Rii Mini i8 - Teclado ergonómico con touchpad  RF 2.4 GHz  USB   color n
 
 ℹ️:
 
-- Receptor USB (Wireless RF 2.4 GHz) incluido
 - Indicadores LED de nivel de batería, señal y de carga
 - Batería de litio recargable con cable USB incluido
 - Este dispositivo es compatible con: PC, Smart TV
+- Receptor USB (Wireless RF 2.4 GHz) incluido
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00YDSSB6A/?tag=tolees-21)

@@ -26,9 +26,9 @@ Está [Zambrero CF244A 44A Cartucho Tóner Compatible para HP LaserJet Pro HP La
 ℹ️:
 
 - 1.Zambrero tóner CF244A compatibles con el HP 44A CF244A toner.
-- 3.Alto rendimiento de páginas: 1000 páginas por tóner 44A con un 5% de cobertura de papel A4.
 - 2.Contenido del paquete: 2 x CF 244A toner negro. (No es original)
 - 4.Impresoras compatibles: HP LaserJet Pro M15w M15a M16a M16w M17a M17w M15 M16 M17, HP LaserJet Pro MFP-M28w MFP-M28a MFP-M29w MFP-M29a MFP-M28 MFP-M29.
+- 3.Alto rendimiento de páginas: 1000 páginas por tóner 44A con un 5% de cobertura de papel A4.
 - 5.La tecnología probada de Zambrero mantiene la impresión alejada de las rayas y las manchas, lo que permite disfrutar de los resultados de impresión de alta calidad. Fabricado en instalaciones con certificación ISO 9001 ISO 14001 en las que puede confiar.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0872R1BBF/?tag=tolees-21)

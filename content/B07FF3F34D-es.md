@@ -25,10 +25,10 @@ Tienes [HUION Graphic Tablet H610Pro V2 OTG  Stylus sin batería con función de
 
 🔎:
 
-- Diseño elegante y compacto con una amplia superficie de dibujo de 10 x 6,25 pulgadas: perfecta para escritorios con una superficie limitada, proporcionando un mayor espacio creativo.
-- Compatibilidad: perfectamente compatible con Windows 7 o posterior, OS X 10.11 o posterior y otros de los principales sistemas operativos, y se adapta a la configuración de tu PC sin ningún problema.
 - Soporte de conexión telefónica: puede dibujar en la tableta que conecta su teléfono móvil.Lápiz táctil mejorado con función de inclinación y que funciona sin pilas: 60 niveles de reconocimiento de inclinación en todas direcciones.
-- Teclas rápidas personalizables: 8 teclas de presión + 16 teclas programables personalizablesse aúnan para proporcionar una mejor experiencia para tu proceso creativo.
 - 8192 niveles de sensibilidad a la presión: su sensibilidad a la presión es cuatro veces mayor que la de otros productos similares disponibles recientemente en el mercado, con sólo 2048 niveles, lo que te proporcionará increíbles ventajas creativas.
+- Compatibilidad: perfectamente compatible con Windows 7 o posterior, OS X 10.11 o posterior y otros de los principales sistemas operativos, y se adapta a la configuración de tu PC sin ningún problema.
+- Diseño elegante y compacto con una amplia superficie de dibujo de 10 x 6,25 pulgadas: perfecta para escritorios con una superficie limitada, proporcionando un mayor espacio creativo.
+- Teclas rápidas personalizables: 8 teclas de presión + 16 teclas programables personalizablesse aúnan para proporcionar una mejor experiencia para tu proceso creativo.
 
 [Comprar!!!](https://www.amazon.es/dp/B07FF3F34D/?tag=tolees-21)

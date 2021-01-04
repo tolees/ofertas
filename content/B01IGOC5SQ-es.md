@@ -25,10 +25,10 @@ Tienes [NEWYES Tablet Dibujo 12 Pulgadas  Tableta de Escritura LCD  Pizarra elec
 
 ℹ️:
 
-- 【PRÁCTICO】Podrás crear líneas de diferente grosor en función de la fuerza con la escribas, la sensación será la misma que al usar lápiz y papel. Cada vez que pulses el botón de borrado se reiniciará la pantalla.
-- 【ECOLÓGICO】 Con esta tableta podrás susituir el papel para hacer dibujos o tomar notas que no desees conservar. Nunca más tendrás que preocuparte por malgastar papel.
 - 【GARANTÍA DE CALIDAD】 NEWYES garantiza la calidad de sus productos ofreciendo 30 días la devolución si no está satisfecho con el producto y 7 años de garantía.
 - 【SEGURO】La tableta está fabricado con plástico de gran calidad, la pantalla tiene una gran resistencia sin cristal y la pila esta resguardada por una carcasa atornillada.
 - 【IDEAL PARA NIÑOS】 Para que desarrollen su creatividad dibujando y practicando caligrafia. Pesa poco mas de 0.2 Kg por lo que podran llevarlo a cualquier lado.
+- 【ECOLÓGICO】 Con esta tableta podrás susituir el papel para hacer dibujos o tomar notas que no desees conservar. Nunca más tendrás que preocuparte por malgastar papel.
+- 【PRÁCTICO】Podrás crear líneas de diferente grosor en función de la fuerza con la escribas, la sensación será la misma que al usar lápiz y papel. Cada vez que pulses el botón de borrado se reiniciará la pantalla.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01IGOC5SQ/?tag=tolees-21)

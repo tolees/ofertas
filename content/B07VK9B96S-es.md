@@ -25,9 +25,9 @@ Está [Rubik´s Rubiks Race  multicolor  Talla Única 72170   color/modelo surti
 
 ℹ️:
 
-- Pero esto no acaba aquí, cuando ya seas un experto de rubiks race atrévete con los distintos desafíos que encontrarás en las instrucciones: el reto del cubo, la carrera de relevos y el concurso de los tres colores; además, podrás crear tus propias combinaciones e inventar tu forma de jugar; hazlo cada vez más rápido y supera tus propios tiempos y los de tus amigos
-- Por fin un rubiks para todo el mundo agítalo, muévelo, resuélvelo agita la coctelera para crear una nueva combinación de rubiks
 - Desliza las fichas del tablero para hacerlas coincidir con la combinación de la coctelera; el primer jugador en resolver la combinación y derribar el marco central gana
 - Sé el primero en completar la combinación
+- Pero esto no acaba aquí, cuando ya seas un experto de rubiks race atrévete con los distintos desafíos que encontrarás en las instrucciones: el reto del cubo, la carrera de relevos y el concurso de los tres colores; además, podrás crear tus propias combinaciones e inventar tu forma de jugar; hazlo cada vez más rápido y supera tus propios tiempos y los de tus amigos
+- Por fin un rubiks para todo el mundo agítalo, muévelo, resuélvelo agita la coctelera para crear una nueva combinación de rubiks
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07VK9B96S/?tag=tolees-21)
