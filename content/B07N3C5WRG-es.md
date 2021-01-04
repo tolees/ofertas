@@ -26,8 +26,8 @@ Tienes [Garmin HRM Dual  Monitor de frecuencia cardíaca con transmisión dual  
 ℹ️:
 
 - Autonomía de la batería hasta 3,5 años.
-- Transmite datos de frecuencia cardiaca en tiempo real gracias a la conectividad ANT+ y a la tecnología BLUETOOTH.
 - Correa ajustable cómoda y suave.
+- Transmite datos de frecuencia cardiaca en tiempo real gracias a la conectividad ANT+ y a la tecnología BLUETOOTH.
 - Obtén datos precisos de frecuencia cardíaca en tu dispositivo Garmin compatible, aplicaciones de entrenamiento o equipos de fitness compatibles.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07N3C5WRG/?tag=tolees-21)

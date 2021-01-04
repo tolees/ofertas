@@ -26,9 +26,9 @@ Ahora mismo tienes [Adidas TABELA 18 JSY T-shirt  Hombre  Maroon/ White  910Y](h
 🔎:
 
 - Corte clásico más ancho.
-- Panel de tejido técnico con finas rayas.
-- Cuello de pico de canalé.
 - Tiene mangas cortas
 - Logotipo de adidas termotransferido a la derecha del pecho.
+- Cuello de pico de canalé.
+- Panel de tejido técnico con finas rayas.
 
 [Visítala!!!](https://www.amazon.es/dp/B0779D7NHK/?tag=tolees-21)

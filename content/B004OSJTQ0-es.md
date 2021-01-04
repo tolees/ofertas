@@ -25,13 +25,13 @@ Tienes [Ibiza Sound PORT12VHF- BT Sistema de sonido portátil y autónomo de 12"
 
 ℹ️:
 
-- Vaso (orificio) en la parte inferior del altavoz para colocarlo en un soporte o trípode
-- Con lector USB, tuner, bluetooth, entrada línea, mando a distancia y funda
-- Tiene un micrófono inalámbrico de mano VHF y un micrófono de diadema
 - Es portátil con batería, micrófonos y ruedas incorporados
-- Pinza de micro con rosca para ser enroscado en la parte superior del altavoz
+- Vaso (orificio) en la parte inferior del altavoz para colocarlo en un soporte o trípode
+- Tiene un micrófono inalámbrico de mano VHF y un micrófono de diadema
 - Autonomía de 3 - 5 Horas
-- 2 x Micrófono VHF: MANO Y CABEZA (207.5 & 203.5MHz) (homologado R&TTE)
 - Altavoz amplificado de 12" con una potencia màxim de 700 W y RMS de 350 W
+- Con lector USB, tuner, bluetooth, entrada línea, mando a distancia y funda
+- Pinza de micro con rosca para ser enroscado en la parte superior del altavoz
+- 2 x Micrófono VHF: MANO Y CABEZA (207.5 & 203.5MHz) (homologado R&TTE)
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B004OSJTQ0/?tag=tolees-21)
