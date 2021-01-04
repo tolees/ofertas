@@ -25,10 +25,10 @@ Tienes [Saber Es Poder: Generaciones](https://www.amazon.es/dp/B07JH99WZR/?tag=t
 
 🔎:
 
-- Género: Social/Quiz
-- Vuelve el juego de preguntas y respuestas con lo mejor de las décadas de los ‘80, ‘90, ‘00 y ’10 en categorías como música, cine, TV, y cultura pop
-- Ten tu móvil o Tablet a mano
 - Jugadores: 1-6 Offline
 - Nuevos personajes añadidos inspirados en las cuatro décadas que abarca el juego
+- Vuelve el juego de preguntas y respuestas con lo mejor de las décadas de los ‘80, ‘90, ‘00 y ’10 en categorías como música, cine, TV, y cultura pop
+- Ten tu móvil o Tablet a mano
+- Género: Social/Quiz
 
 [Comprar!!!](https://www.amazon.es/dp/B07JH99WZR/?tag=tolees-21)

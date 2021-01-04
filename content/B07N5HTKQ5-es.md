@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.67 % en Banpresto One Punch Man estatuas  Idea R'
-date: 2020-12-30 12:28:44
+date: 2021-01-04 16:32:30
 image: 'https://m.media-amazon.com/images/I/31HUEx-vW+L._SL200_.jpg'
 comments: true
 category: ofertas

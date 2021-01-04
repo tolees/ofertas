@@ -25,9 +25,9 @@ Tienes [Pop! Marvel. X-Men 20Th- Jean Grey](https://www.amazon.es/dp/B082FS34HC/
 
 🔎:
 
+- El producto se envía en una caja ilustrada con ventana
 - El artículo es adecuado para todos los fanáticos de X-Men
 - Figura de colección de la marca Funko
 - Recomendado para niños a partir de 3 años
-- El producto se envía en una caja ilustrada con ventana
 
 [Comprar!!!](https://www.amazon.es/dp/B082FS34HC/?tag=tolees-21)

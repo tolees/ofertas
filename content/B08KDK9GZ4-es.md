@@ -25,9 +25,9 @@ Tienes [LIANQI Paja de Beber de Acero Inoxidable Cuchara Filtro de té Yerba Mat
 
 🔎:
 
-- Ahorre dinero en té comprando tés de hojas sueltas en lugar de bolsitas de té.
 - Duradero y lavable a máquina.
 - Reducir los desechos ambientales asociados con las pajitas de plástico.
+- Ahorre dinero en té comprando tés de hojas sueltas en lugar de bolsitas de té.
 - Sin plástico, sin lixiviación química.
 - Ideal para beber yerba mate o té.
 
