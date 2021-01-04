@@ -25,14 +25,14 @@ Está [New Balance Mujer 574v2 Core  Zapatillas para Blanco  White   44 EU](http
 
 ℹ️:
 
-- Anchura del zapato: Normal
 - Cierre: Cordones
+- Anchura del zapato: Normal
 - Altura del tacón: 2 centímetros
-- Composición: Cuero sintético
+- Cierre: Cordones
 - Tipo de tacón: Plano
-- Material exterior: Cuero
+- Composición: Cuero sintético
 - Material de la suela: Goma
 - Revestimiento: Tela
-- Cierre: Cordones
+- Material exterior: Cuero
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06XX596VF/?tag=tolees-21)

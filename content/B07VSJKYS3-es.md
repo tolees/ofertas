@@ -26,7 +26,7 @@ En este momento está [Lee Scarlett Vaqueros Skinny  Blanco  Rinse 36   34W / 33
 🔎:
 
 - Presentan 5 bolsillos
-- Vaqueros para mujer
 - Tienen un parche de piel en la parte trasera con la marca Lee
+- Vaqueros para mujer
 
 [Aquí!!!](https://www.amazon.es/dp/B07VSJKYS3/?tag=tolees-21)

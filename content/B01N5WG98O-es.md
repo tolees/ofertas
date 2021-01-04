@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony XDRS41DB.EU8 - Radio portátil Digit con un 23.33 % de descuento'
-date: 2021-01-03 10:56:17
+date: 2021-01-04 12:03:52
 image: 'https://m.media-amazon.com/images/I/41teNDQxOzL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N5WG98O/?tag=tolees-21'
 descuento: '23.33'
-average: '63.72200000000001'
+average: '64.11296296296297'
 ---
 
 En este momento está [Sony XDRS41DB.EU8 - Radio portátil Digital  Dab/Dab+/FM  Altavoz  5 presintonías Digitales y 5 analógicas  Pantalla LCD  Temporizador  Adaptador CA  Negro](https://www.amazon.es/dp/B01N5WG98O/?tag=tolees-21) a 69.0 EUR (original: 90.0 EUR) (23.33 %  de descuento) en el siguiente enlace!
@@ -25,11 +25,11 @@ En este momento está [Sony XDRS41DB.EU8 - Radio portátil Digital  Dab/Dab+/FM 
 
 🔎:
 
-- Sintonizador de radio digital DAB/DAB+/FM
-- Diseño ligero y portátil
-- Funciona con 4 pilas AA
-- Temporizador de apagado y despertador
 - 5 botones para presintonías DAB y FM
 - Vataje (W): 0.65
+- Temporizador de apagado y despertador
+- Funciona con 4 pilas AA
+- Diseño ligero y portátil
+- Sintonizador de radio digital DAB/DAB+/FM
 
 [Aquí!!!](https://www.amazon.es/dp/B01N5WG98O/?tag=tolees-21)

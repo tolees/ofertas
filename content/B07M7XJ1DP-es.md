@@ -25,7 +25,7 @@ Está [G-STAR RAW 3301 Slim 1/2 Pantalones cortos  Mehrfarbig  Medium Indigo Age
 
 ℹ️:
 
-- Los pantalones cortos 3301 Slim tienen un diseño clásico de 5 bolsillos.
 - Un corte entallado y piernas enrolladas le dan al estilo un aspecto especial.
+- Los pantalones cortos 3301 Slim tienen un diseño clásico de 5 bolsillos.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07M7XJ1DP/?tag=tolees-21)

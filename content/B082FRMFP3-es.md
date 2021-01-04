@@ -25,8 +25,8 @@ En este momento está [Pop! Games: The Last of Us- Ellie](https://www.amazon.es/
 
 🔎:
 
-- De la colección the last of us, ellie como figura de vinilo pop de funko
 - Descúbre otras figuras de la colección the last of us y colecciónalas todas
+- De la colección the last of us, ellie como figura de vinilo pop de funko
 - La figura mide 9 cm y se envía en una caja ilustrada con ventana
 
 [Aquí!!!](https://www.amazon.es/dp/B082FRMFP3/?tag=tolees-21)

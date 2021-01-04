@@ -25,10 +25,10 @@ En este momento está [Parlux Advance Light - Secador de pelo ionico  Lila](http
 
 🔎:
 
-- Cuenta con 2 interruptores soft para mayor confort de uso y 3 metros de cable robusto
 - Accionado del motor K-Advanced con la tecnología cerámica-iónica
-- Con 2 boquillas: 1 boquilla de 6 cm de ancho y 0.6 cm de alto y 1 boquilla de 7.5 cm de ancho y 0.7 cm de alto
 - Aire frío instantáneo accionado por micro interruptor
 - Potencia eléctrica de 2200 vatios
+- Cuenta con 2 interruptores soft para mayor confort de uso y 3 metros de cable robusto
+- Con 2 boquillas: 1 boquilla de 6 cm de ancho y 0.6 cm de alto y 1 boquilla de 7.5 cm de ancho y 0.7 cm de alto
 
 [Aquí!!!](https://www.amazon.es/dp/B01D8YGNEQ/?tag=tolees-21)

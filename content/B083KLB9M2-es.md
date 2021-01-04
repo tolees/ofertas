@@ -25,11 +25,11 @@ Ahora mismo tienes [Samsung Galaxy S10 Lite - Smartphone de 6.7" FHD+  4G  8GB R
 
 🔎:
 
-- Un rendimiento real con 128 gde memoria interna y 6 g/ 8 gde ram tienes casi la potencía de un ordenador portátil en tus manos
-- Pantalla infinity-o disfruta de tus videos y fotos favoritas con una resolución nítida en una pantalla full HD + super amoled plus de 6 7"
-- Una cámara para cada situación captura todo tu mundo gracias a su 4 cámara s principales y muestra tu mejor cara con la cámara frontal para selfies de 32 mp
-- Es difícil obtener más potencía con una batería de 4 500 mAhpuedes comenzar tu próximo maratón de series incluso estando de viaje
 - Sistema operativo Android
 - Tus datos privados protegidos de forma segura el escáner de huellas dactilares integrado en la pantalla te brinda un acceso personalizado a tu smartphone
+- Una cámara para cada situación captura todo tu mundo gracias a su 4 cámara s principales y muestra tu mejor cara con la cámara frontal para selfies de 32 mp
+- Un rendimiento real con 128 gde memoria interna y 6 g/ 8 gde ram tienes casi la potencía de un ordenador portátil en tus manos
+- Pantalla infinity-o disfruta de tus videos y fotos favoritas con una resolución nítida en una pantalla full HD + super amoled plus de 6 7"
+- Es difícil obtener más potencía con una batería de 4 500 mAhpuedes comenzar tu próximo maratón de series incluso estando de viaje
 
 [Visítala!!!](https://www.amazon.es/dp/B083KLB9M2/?tag=tolees-21)

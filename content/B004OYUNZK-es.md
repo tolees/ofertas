@@ -25,10 +25,10 @@ Tienes [Casio Reloj analógico para Mujer de Cuarzo con Correa en Acero Inoxidab
 
 🔎:
 
-- La duración de la batería es de 3 años
-- Cristal mineral que protege el reloj de daños externos
-- Resistente al agua hasta 5 bar / 50 metros
-- Caja de latón y correa de acero inoxidable con cierre a presión
 - Las agujas y/o el índice están cubiertos por una capa fluorescente
+- La duración de la batería es de 3 años
+- Caja de latón y correa de acero inoxidable con cierre a presión
+- Resistente al agua hasta 5 bar / 50 metros
+- Cristal mineral que protege el reloj de daños externos
 
 [Comprar!!!](https://www.amazon.es/dp/B004OYUNZK/?tag=tolees-21)

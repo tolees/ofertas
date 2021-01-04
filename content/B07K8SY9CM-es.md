@@ -25,10 +25,10 @@ Tienes [Cecotec Freidora dietética Cecofry Compact Rapid White.Capacidad para 4
 
 🔎:
 
-- Resultados excepcionales en todas las recetas gracias a la tecnología PerfectCook de aire caliente. Posee función horno gracias al cestillo que incluye como accesorio.
-- Recipiente de 1,5 litros de capacidad. Dispone de recetario de cocina.
-- Dispone de termostato hasta alcanzar los 200º. Tiempo ajustable 0-30 min.
-- Programable en tiempo y temperatura. Cocina hasta 400 gramos de patatas de una sola vez.
 - Freidora dietética que permite cocinar con una sola cucharada de aceite, consiguiendo resultados más sanos.
+- Recipiente de 1,5 litros de capacidad. Dispone de recetario de cocina.
+- Resultados excepcionales en todas las recetas gracias a la tecnología PerfectCook de aire caliente. Posee función horno gracias al cestillo que incluye como accesorio.
+- Programable en tiempo y temperatura. Cocina hasta 400 gramos de patatas de una sola vez.
+- Dispone de termostato hasta alcanzar los 200º. Tiempo ajustable 0-30 min.
 
 [Comprar!!!](https://www.amazon.es/dp/B07K8SY9CM/?tag=tolees-21)

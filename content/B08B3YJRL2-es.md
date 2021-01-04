@@ -25,8 +25,8 @@ Ahora mismo tienes [Calcio 800 mg con Magnesio y Vitamina D | Mantenimiento de H
 
 🔎:
 
-- MANTENIMIENTO DE HUESOS Y DIENTES FUERTES. Según la regulación de la CE, el calcio es necesario para el mantenimiento de los huesos y los dientes en condiciones normales, igual que el magnesio y la vitamina D incluidos en el suplemento, los cuales también contribuyen al funcionamiento normal de los músculos. Para favorecer la efectividad del producto, individualmente la vitamina D contribuye a la absorción y utilización normal del calcio y el fósforo.
 - CALIDAD NUTRALIE. Nuestro Calcio ha sido elaborado bajo un proceso controlado y certificado mediante los más estrictos protocolos de calidad, desde el origen hasta el producto final.
+- MANTENIMIENTO DE HUESOS Y DIENTES FUERTES. Según la regulación de la CE, el calcio es necesario para el mantenimiento de los huesos y los dientes en condiciones normales, igual que el magnesio y la vitamina D incluidos en el suplemento, los cuales también contribuyen al funcionamiento normal de los músculos. Para favorecer la efectividad del producto, individualmente la vitamina D contribuye a la absorción y utilización normal del calcio y el fósforo.
 - FÓRMULA COMPLETA CON MAGNESIO Y VITAMINA D. Las ventajas del calcio son solo la primera parte de la fórmula. Por una parte, se añaden 112 mg de magnesio en cada dosis. Por la otra, se añaden también una concentrada dosis de 25 µg de vitamina D3 o colecalciferol. Dicha combinación convierten al Calcio de Nutralie en uno de los suplementos de calcio más completos y potentes de Amazon.
 - CALCIO 800 MG. El calcio es el mineral más abundante del cuerpo, y se encuentra mayormente en los dientes y en los huesos. El complemento del Calcio de Nutralie contiene hasta 800 mg de este mineral en cada dosis para garantizarte la máxima cantidad y, por tanto, todos sus beneficios.
 

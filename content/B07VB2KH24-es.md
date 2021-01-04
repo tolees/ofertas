@@ -25,10 +25,10 @@ Tienes [NYX Professional Makeup Delineador de ojos Epic Ink Liner  Punta de pinc
 
 🔎:
 
-- Aplicación suave y sin esfuerzo, Fórmula vegana
-- Contenido: 2x NYX Professional Makeup Delineador de ojos Epic Ink Liner, Negro
 - Versátil tono negro apto para cualquier color de ojos, Color vivo y de larga duración
-- Punta de pincel fina y flexible, Controla el grosor de la línea variando la presión, Para un resultado fino y natural o líneas gruesas y llamativas
+- Contenido: 2x NYX Professional Makeup Delineador de ojos Epic Ink Liner, Negro
 - Eyeliner con punta de pincel resistente al agua y de alta pigmentación, Adecuado para líneas definidas y gran variedad de looks, Óptimo para principiantes
+- Aplicación suave y sin esfuerzo, Fórmula vegana
+- Punta de pincel fina y flexible, Controla el grosor de la línea variando la presión, Para un resultado fino y natural o líneas gruesas y llamativas
 
 [Comprar!!!](https://www.amazon.es/dp/B07VB2KH24/?tag=tolees-21)
