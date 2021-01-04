@@ -25,14 +25,14 @@ Tienes [Tommy Hilfiger Heritage Zip-Through Hoodie Capucha  Azul  Midnight 403  
 
 🔎:
 
+- Capucha con cordón
 - Lavable a máquina
-- Ajuste regular
+- 64 % algodón, 36 % poliéster
+- WW0WW24971
 - Mezcla de algodón
 - Estilo del cuello: con capucha
-- WW0WW24971
-- Capucha con cordón
-- Rayas de la marca en el dobladillo
 - Manga larga
-- 64 % algodón, 36 % poliéster
+- Ajuste regular
+- Rayas de la marca en el dobladillo
 
 [Comprar!!!](https://www.amazon.es/dp/B07PCZQ6K4/?tag=tolees-21)

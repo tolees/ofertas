@@ -26,8 +26,8 @@ Está [DonnaPlus Oilnagra Perlas - 60 Cápsulas - de 2 a 4 perlas al día](https
 ℹ️:
 
 - Los ácidos grasos poliinsaturados omega 6 como el ácido linoleico juegan un papel importante en la regulación de una gran variedad de funciones celulares y de diferentes procesos corporales
+- En aquellos productos ricos en GLA es importante incluir también vitamina E, potente antioxidante natural que ayuda a la conservación del producto una vez abierto
 - Complemento alimenticio a base de aceite puro de semillas de onagra
 - El GLA también es un elemento esencial para la estructura de la piel, lo que ayuda a mantenerla suave
-- En aquellos productos ricos en GLA es importante incluir también vitamina E, potente antioxidante natural que ayuda a la conservación del producto una vez abierto
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00TTWT826/?tag=tolees-21)

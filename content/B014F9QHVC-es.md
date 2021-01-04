@@ -26,8 +26,8 @@ Tienes [Acer Monitor Predator Z35 89cm  35"  Curved 2000R 21:9 Ultra FullHD VA L
 🔎:
 
 - ComfyView
-- Flicker-Less
-- G-SYNC, ULMB
 - Curved screen/TFT
+- G-SYNC, ULMB
+- Flicker-Less
 
 [Comprar!!!](https://www.amazon.es/dp/B014F9QHVC/?tag=tolees-21)
