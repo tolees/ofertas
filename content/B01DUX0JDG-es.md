@@ -25,8 +25,8 @@ Tienes [Lindt Dulces Deseos – Caja de bombones surtidos  345 g](https://www.am
 
 ℹ️:
 
-- Puede contener HUEVO y otros FRUTOS DE CÁSCARAS
 - Los mejores bombones surtidos de Lindt para hacer el regalo más exclusivo
 - Caja de bombones perfecta para celebraciones o para darte un capricho
+- Puede contener HUEVO y otros FRUTOS DE CÁSCARAS
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01DUX0JDG/?tag=tolees-21)

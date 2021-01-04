@@ -26,9 +26,9 @@ Está [L Oreal Paris Dermo Expertise - Arcillas puras mascarilla purificante y m
 ℹ️:
 
 - Sobre la piel limpia: 3 veces por semana, aplicar una fina capa sobre todo el rostro evitando el contorno de los ojos y los labios; 10-15 minutos y aclarar abundantemente con agua tibia
-- Para pieles normales a secas, con textura irregular
-- Combina 3 arcillas puras con extractos de eucalipto
-- Mascarilla facial purificante y matificante con arcillas puras
 - Piel profundamente limpia, más uniforme, suave y con un tono saludable
+- Combina 3 arcillas puras con extractos de eucalipto
+- Para pieles normales a secas, con textura irregular
+- Mascarilla facial purificante y matificante con arcillas puras
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01LPQ0ND6/?tag=tolees-21)

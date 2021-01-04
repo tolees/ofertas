@@ -25,10 +25,10 @@ Tienes [Dickie - Camión bomberos de aeropuerto 24 cm  luz y sonido  lanza agua 
 
 ℹ️:
 
-- Adecuado a partir de 3 años
 - Ruedas de giro libre
+- Adecuado a partir de 3 años
 - Brazo extensible con manguera que lanza agua de verdad, interior realista
-- Camión de bomberos de aeropuerto con luz y sonido
 - Medida: 24 cm
+- Camión de bomberos de aeropuerto con luz y sonido
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B089QFRP25/?tag=tolees-21)

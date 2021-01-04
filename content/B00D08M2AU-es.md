@@ -25,10 +25,10 @@ Ahora mismo tienes [Timberland Euro Rock Hiker  Botas Hombre  Marrón Medium Bro
 
 🔎:
 
-- Realizado en piel
+- Cierre de cordones
 - Suela TM y EVA
 - Otoño-Invierno
-- Cierre de cordones
+- Realizado en piel
 - Color marrón
 
 [Visítala!!!](https://www.amazon.es/dp/B00D08M2AU/?tag=tolees-21)

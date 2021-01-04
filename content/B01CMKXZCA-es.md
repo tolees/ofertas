@@ -26,7 +26,7 @@ Está [Valentino Rossi Stripes  Sudadera Mujer  Amarillo  XS](https://www.amazon
 ℹ️:
 
 - Logos en la parte delantera y trasera.
-- 80%% de poliéster Cotone20
 - Cremallera completa
+- 80%% de poliéster Cotone20
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01CMKXZCA/?tag=tolees-21)

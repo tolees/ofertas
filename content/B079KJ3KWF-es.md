@@ -25,10 +25,10 @@ En este momento está [Vans Filmore Suede Canvas   Zapatillas Hombre  Cabernet/P
 
 🔎:
 
-- Tipo de tacón: Plano
 - Material de la suela: Goma
+- Cierre: Cordones
+- Tipo de tacón: Plano
 - Revestimiento: Tela
 - Material exterior: Cuero
-- Cierre: Cordones
 
 [Aquí!!!](https://www.amazon.es/dp/B079KJ3KWF/?tag=tolees-21)
