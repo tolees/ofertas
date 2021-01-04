@@ -27,8 +27,8 @@ Tienes [APLI Kids 12816 - Tijera escolar 13 cm](https://www.amazon.es/dp/B00C6ZI
 
 - Punta redondeada, no punzante, para una mayor seguridad
 - Apta para niños a partir de 4 años
+- Corta todo tipo de material: papel, cartón, goma EVA, fieltro, etc
 - Tijera ergonómica para uso ambidiestro; aros simétricos de plástico ABS y hojas de acero inoxidable
 - Tijera escolar de color rojo y amarillo de tamaño 13 cm
-- Corta todo tipo de material: papel, cartón, goma EVA, fieltro, etc
 
 [Comprar!!!](https://www.amazon.es/dp/B00C6ZIV9O/?tag=tolees-21)

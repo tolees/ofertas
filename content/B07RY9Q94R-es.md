@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Juego De Tronos Temporada 1-8 Blu-Ray Co al 16.88 % de rebaja'
-date: 2021-01-03 05:06:47
+date: 2021-01-04 05:10:47
 image: 'https://m.media-amazon.com/images/I/519ZVZAfEuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RY9Q94R/?tag=tolees-21'
 descuento: '16.88'
-average: '111.94044334975364'
+average: '112.09517073170726'
 ---
 
 Tienes [Juego De Tronos Temporada 1-8 Blu-Ray Colección Completa [Blu-ray]](https://www.amazon.es/dp/B07RY9Q94R/?tag=tolees-21) con precio final de  127.8 EUR (original: 153.75 EUR) (16.88 %  de rebaja) aqui!
