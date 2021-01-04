@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Frozen  El Reino Del Hielo [Blu-ray] al 30.19 % de descuento'
-date: 2021-01-03 12:46:56
+title: 'Frozen  El Reino Del Hielo [Blu-ray] al 30.13 % de descuento'
+date: 2021-01-04 13:56:31
 image: 'https://m.media-amazon.com/images/I/51+YVd-Om1L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -10,16 +10,16 @@ slug: 'B00GZOCN1E-es'
 actualPrice: 9.02 EUR
 currency: EUR
 price: 9.02
-comparePrice: 12.92 EUR
+comparePrice: 12.91 EUR
 prodname: 'Frozen  El Reino Del Hielo [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00GZOCN1E/?tag=tolees-21'
-descuento: '30.19'
-average: '10.877755102040817'
+descuento: '30.13'
+average: '10.840600000000002'
 ---
 
-Está [Frozen  El Reino Del Hielo [Blu-ray]](https://www.amazon.es/dp/B00GZOCN1E/?tag=tolees-21) con 30.19 de descuento por 9.02 EUR (original: 12.92 EUR) en el siguiente enlace!
+Está [Frozen  El Reino Del Hielo [Blu-ray]](https://www.amazon.es/dp/B00GZOCN1E/?tag=tolees-21) con 30.13 de descuento por 9.02 EUR (original: 12.91 EUR) en el siguiente enlace!
 
 [![Frozen  El Reino Del Hielo [Blu-ray]](https://m.media-amazon.com/images/I/51+YVd-Om1L._SL200_.jpg)](https://www.amazon.es/dp/B00GZOCN1E/?tag=tolees-21)
 

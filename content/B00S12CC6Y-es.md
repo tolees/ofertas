@@ -25,9 +25,9 @@ Está [Fermax 80447 - Telefono citymax basic blanco](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- Es fabricado en plástico ABS
 - Permite la comunicación con la placa de calle
 - Teléfono que puede ser instalado en las viviendas
+- Es fabricado en plástico ABS
 - Recomendado en edificios de tamaño pequeño/medio (hasta 50 vecinos)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00S12CC6Y/?tag=tolees-21)

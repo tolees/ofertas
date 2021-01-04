@@ -25,10 +25,10 @@ En este momento está [Kinderkraft Cuna de Viaje JOY  Transporte Fácil  Plegabl
 
 🔎:
 
+- SEGURIDAD - La cuna JOY está fabricada de acuerdo con la norma europea EN 716 que define los requisitos de seguridad y los métodos de ensayo para las cunas
 - PATAS DE BALANCEO - Gracias a ellas, la cuna JOY se puede transformar de forma rápida y fácil, añadiéndola la función de balanceo. El balanceo delicado facilita dormirse al niño
 - TRANSPORTE FÀCIL - Sistema de plegado/desplegado fácil y rápido, con doble protección contra el plegado. De forma plegada tiene un tamaño muy pequeño (76x20x20 cm), y gracias al bolso especial es muy fácil de transportar
 - CARRUSEL MULTIMEDIA - Con sonido, luces y 3 juguetes de peluche. Gracias a ella, el niño podrá desarrollar la función cognitiva al mirar los juguetes en movimiento y escuchar los sonidos
 - COMODIDAD - El marco metálico con estructura reforzada asegura plena estabilidad y el material blando garantiza una protección adecuada - sin la necesidad de montar protecciones adicionales, como en caso de las cunas convencionales con barras
-- SEGURIDAD - La cuna JOY está fabricada de acuerdo con la norma europea EN 716 que define los requisitos de seguridad y los métodos de ensayo para las cunas
 
 [Aquí!!!](https://www.amazon.es/dp/B07QXRQ3JV/?tag=tolees-21)

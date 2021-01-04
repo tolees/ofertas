@@ -26,7 +26,7 @@ Está [Watch Dogs 2 - Standard Edition](https://www.amazon.es/dp/B00ZIW2V1Q/?tag
 ℹ️:
 
 - PS4
-- 18+
 - ACCION Y AVENTURAS
+- 18+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00ZIW2V1Q/?tag=tolees-21)

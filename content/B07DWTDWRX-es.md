@@ -26,9 +26,9 @@ Ahora mismo tienes [SIMMAX Memorias USB 2 Piezas 16GB USB 2.0 Stick Giratoria Fl
 🔎:
 
 - Memorias USB 2 Piezas 16GB Memoria USB 2.0 Excelente rendimiento en genial costos y alta calidad, Dos Colores Mezclados: Verde Negro.
-- Mini diseño para que puedas ponerlo en el bolsillo o en cualquier espacio pequeño. Buen rendimiento en el almacenamiento, transferencia y uso de datos digitales con familias, amigos, compañeros de trabajo, clientes y máquinas. Puede almacenar música, fotos, películas, diseños, manuales, programas, folletos a una velocidad rápida.
-- El logotipo de SIMMAX está impreso con láser en la superficie del conector USB, nuestros productos son de buena calidad y prometemos que cualquier problema con el producto dentro de un año desde que lo compre estará garantizado de forma gratuita.
 - Fácil de usar, Plug and work, compatible con Windows 7/8/10 / Vista / XP / 2000 / ME / NT Linux y Mac OS, Compatible con USB 2.0 y versiones anteriores.
 - TwistTurn Design: The metal clip rotates 360°round the ABS plastic body which with rubber oil skin feeling finish. The capless design can avoid lossing of cap, and providing efficient protection to the USB port. The available capacity: 14.6GB-14.9GB.
+- El logotipo de SIMMAX está impreso con láser en la superficie del conector USB, nuestros productos son de buena calidad y prometemos que cualquier problema con el producto dentro de un año desde que lo compre estará garantizado de forma gratuita.
+- Mini diseño para que puedas ponerlo en el bolsillo o en cualquier espacio pequeño. Buen rendimiento en el almacenamiento, transferencia y uso de datos digitales con familias, amigos, compañeros de trabajo, clientes y máquinas. Puede almacenar música, fotos, películas, diseños, manuales, programas, folletos a una velocidad rápida.
 
 [Visítala!!!](https://www.amazon.es/dp/B07DWTDWRX/?tag=tolees-21)
