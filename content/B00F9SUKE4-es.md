@@ -26,9 +26,9 @@ Tienes [Russell Hobbs 20562-56 - SteamGlide Professional - Plancha de Ropa de Va
 🔎:
 
 - Vapor vertical: vapor continuo de 40 gramos y golpe de vapor de 140 gramos; depósito de agua de 300 mililitros
-- Suela de carámica
-- 2600 W; uso en seco o con vapor
 - Incluye pulverizador y chorro de vapor; función de autolimpieza
+- 2600 W; uso en seco o con vapor
+- Suela de carámica
 - Antideslizante; dispone de asa soft touch, selector de temperatura y 2 metros de cable
 
 [Comprar!!!](https://www.amazon.es/dp/B00F9SUKE4/?tag=tolees-21)

@@ -25,10 +25,10 @@ En este momento está [Sony WH-H910N - Auriculares inalámbricos  Bluetooth  Can
 
 🔎:
 
-- Finos, ligeros y cómodos para escuchar música durante todo el día
-- La función noise cancelling digital y el modo sonido ambiente te permiten controlar qué quieres escuchar
-- Audio inalámbrico de alta calidad con tecnología bluetooth y ldac
 - Ajusta con precisión tu sonido con la aplicación sony headphones connect
 - Compatible con audio de alta resolución
+- Audio inalámbrico de alta calidad con tecnología bluetooth y ldac
+- Finos, ligeros y cómodos para escuchar música durante todo el día
+- La función noise cancelling digital y el modo sonido ambiente te permiten controlar qué quieres escuchar
 
 [Aquí!!!](https://www.amazon.es/dp/B07X2T6K3H/?tag=tolees-21)
