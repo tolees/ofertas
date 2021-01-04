@@ -25,10 +25,10 @@ Está [OMOTON Teclado Bluetooth Español con Sistema de iPadOS iOS  Teclado Inal
 
 ℹ️:
 
-- Teclado en español: todas las teclas están diseñadas en la escritura española, includos los símbolos y la letra Ñ, muy práctico para escribir en Español.
-- Compatible con el sistema de todos los iPad y iPhone. NO CON EL MACBOOK.
 - Ligero y portátil: fácil para llevarse a su oficina y a casa.
-- Teclado numérico: cuenta con un teclado de números al lado, facilitando mucho si emplea los números con mucha frecuencia.
+- Compatible con el sistema de todos los iPad y iPhone. NO CON EL MACBOOK.
 - Teclado inalámbrico bluetooth: no se limita su uso en comparación con los teclados con cable, utiliza dos baterías (NO incluido en paquete).
+- Teclado en español: todas las teclas están diseñadas en la escritura española, includos los símbolos y la letra Ñ, muy práctico para escribir en Español.
+- Teclado numérico: cuenta con un teclado de números al lado, facilitando mucho si emplea los números con mucha frecuencia.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B083TBSS6J/?tag=tolees-21)

@@ -25,10 +25,10 @@ Está [Netgear GS324P Switch de red no gestionable con 24 puertos Gigabit Ethern
 
 ℹ️:
 
-- Funcionamiento silencioso: el diseño sin ventilador garantiza un funcionamiento silencioso independientemente de la ubicación, ideal para entornos sensibles al ruido
-- Configuración de conexión de red: switch de red de 24 gigabits (10/100/1000 mbit/s)
 - Opciones de montaje versátiles: montaje en sobremesa, pared o bastidor, se incluyen todas las sujecciones necesarias
 - Plug and play: configuración sencilla del switch de distribución lan, no se requiere software ni configuración
+- Configuración de conexión de red: switch de red de 24 gigabits (10/100/1000 mbit/s)
+- Funcionamiento silencioso: el diseño sin ventilador garantiza un funcionamiento silencioso independientemente de la ubicación, ideal para entornos sensibles al ruido
 - Alimentación a través de ethernet: 16 puertos poe + con un gasto de energía total de 190 w
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07ZPFHF36/?tag=tolees-21)

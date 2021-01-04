@@ -27,8 +27,8 @@ Tienes [Maybelline New York  Corrector de Ojeras  Bolsas e Imperfecciones  Borra
 
 - Contenido: 1 x Corrector/borrador de ojeras, Tono: 01 Light, Cantidad: 6.8 ml
 - Fórmula enriquecida con bayas de goji y haloxyl para ralentizar el envejecimiento cutáneo, Aplicador de esponja recubierto por miles de microfibras suaves para llegar a todas las imperfecciones
-- Aplica el producto en el contorno de los ojos, sobre las ojeras y las patas de gallo, Cuando lo uses por primera vez, gira el cuello del aplicador 8 veces hasta que la fórmula aparezca en la esponja
 - Resultado: corrección precisa, Cobertura uniforme, Acabado natural y larga duración, Ojeras y signos de fatiga borrados en un instante
 - Corrector de ojeras fluido multiusos para disimular las ojeras, corregir imperfecciones y realzar e iluminar la piel, También atenúa las arrugas
+- Aplica el producto en el contorno de los ojos, sobre las ojeras y las patas de gallo, Cuando lo uses por primera vez, gira el cuello del aplicador 8 veces hasta que la fórmula aparezca en la esponja
 
 [Comprar!!!](https://www.amazon.es/dp/B00KLXFUW4/?tag=tolees-21)

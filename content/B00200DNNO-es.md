@@ -25,9 +25,9 @@ Tienes [Ruko 102143 - Avellanador manual  DIN 335 forma C 90º  12 5 x 132 mm ](
 
 ℹ️:
 
-- Adecuada para metales no férricos, acero, termoplásticos y plásticos duros, así como chapas de metal hasta 4 mm de espesor
-- Ø 12,5 mm; Longitud 132 mm
-- Punto de corte con split point DIN 1412 C, Ángulo de corte 118º, Ángulo de cono 20/30º, Corte a derecha
 - El rectificado CBN y el diseño de los canales de salida de viruta garantizan un óptimo corte sin ruidos, vibraciones ni rebabas
+- Punto de corte con split point DIN 1412 C, Ángulo de corte 118º, Ángulo de cono 20/30º, Corte a derecha
+- Ø 12,5 mm; Longitud 132 mm
+- Adecuada para metales no férricos, acero, termoplásticos y plásticos duros, así como chapas de metal hasta 4 mm de espesor
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00200DNNO/?tag=tolees-21)
