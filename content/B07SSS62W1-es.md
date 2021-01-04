@@ -25,11 +25,11 @@ Está [Geox D SMERALDO A  Zapatillas Mujer  Negro  Black C9999   38 EU](https://
 
 ℹ️:
 
-- Material de la suela: Sintético
 - Material exterior: Sintético
 - Cierre: Cordones
-- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
+- Material de la suela: Sintético
 - Tipo de tacón: Plano
 - Revestimiento: Tela
+- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07SSS62W1/?tag=tolees-21)

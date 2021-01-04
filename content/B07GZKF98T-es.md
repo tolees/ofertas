@@ -27,8 +27,8 @@ En este momento está [Guirnalda Luces 12M 120 LED  OMERIL Cadena de Luces Imper
 
 - ⭐ Seguro y Portátil - Diseño especial en cadena de luces para mantenerlo seguro, incluso si lo enciende durante mucho tiempo. Usted y su familia pueden decorar su hogar de manera muy bella sin preocupaciones.
 - ⭐ IP65 Impermeable - Proporcionado su firefly luz con buena protección frente a salpicaduras o rociaduras de agua desde cualquier ángulo. Ideal para uso en interior y exterior.
-- ⭐ 12M 120 LED Guirnalda Luces - 120 LED blancos cálidos entregan una luz Hermosa; Envuélvalo alrededor del árbol de Navidad, póngalo en una botella de vidrio o cuélguelo en la pared con sus fotos. Ideal para habitación, Navidad, jardines, bodas, fiestas, puertas, Halloween.
 - ⭐ Fácil de Usar – Solo conéctelo con DC 5V Power, las guirnalda luces se encenderán. 1.5M cable USB es fácil de trabajar con 5V cargador de pared, Banco de potencia, PC, laptop, etcetera. (Adaptador USB no incluido)
 - ⭐ Flexible y Duradero - Las luces de alambre de plata de alta calidad de 12M / 39ft se pueden ser fácilmente doblada y forma alrededor de las plantas, carteles, muebles y casi todo lo demás.
+- ⭐ 12M 120 LED Guirnalda Luces - 120 LED blancos cálidos entregan una luz Hermosa; Envuélvalo alrededor del árbol de Navidad, póngalo en una botella de vidrio o cuélguelo en la pared con sus fotos. Ideal para habitación, Navidad, jardines, bodas, fiestas, puertas, Halloween.
 
 [Aquí!!!](https://www.amazon.es/dp/B07GZKF98T/?tag=tolees-21)

@@ -25,13 +25,13 @@ Tienes [Panasonic KX-TGC313 - Teléfono Fijo Inalámbrico Trio  LCD  Identificad
 
 🔎:
 
-- Diseño compacto y elegante: el teléfono es compacto como para ajustarse a espacios estrechos; su aspecto elegante queda bien con los interiores
+- Modo ECO con un toque: ahorra de la batería y del consumo de luz
+- Teléfono Single: para utilizarlo como supletorio de tus otros teléfonos fijos
+- Bloqueo de llamadas no deseadas: para dejar de recibir llamadas indeseadas
 - DECT con pantalla: LCD 1.6"
 - Fácil uso: conéctalo a la corriente y listo
-- Teléfono Single: para utilizarlo como supletorio de tus otros teléfonos fijos
-- Agenda de 50 nombres y números y rellamada de 10 números de memoria
 - Batería de 16 h uso continuo y en espera de 200 h
-- Bloqueo de llamadas no deseadas: para dejar de recibir llamadas indeseadas
-- Modo ECO con un toque: ahorra de la batería y del consumo de luz
+- Diseño compacto y elegante: el teléfono es compacto como para ajustarse a espacios estrechos; su aspecto elegante queda bien con los interiores
+- Agenda de 50 nombres y números y rellamada de 10 números de memoria
 
 [Comprar!!!](https://www.amazon.es/dp/B00O7JNV4W/?tag=tolees-21)
