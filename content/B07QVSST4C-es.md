@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko- Pop Disney: Frozen 2-Elsa Figura  al 45.95 % de rebaja'
-date: 2021-01-03 17:03:51
+date: 2021-01-04 18:20:21
 image: 'https://m.media-amazon.com/images/I/31xnUoYPb8L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07QVSST4C/?tag=tolees-21'
 descuento: '45.95'
-average: '11.586406250000001'
+average: '11.536515151515154'
 ---
 
 Tienes [Funko- Pop Disney: Frozen 2-Elsa Figura coleccionable  Multicolor  40884 ](https://www.amazon.es/dp/B07QVSST4C/?tag=tolees-21) con precio final de  9.94 EUR (original: 18.39 EUR) (45.95 %  de rebaja) aqui!
@@ -25,10 +25,10 @@ Tienes [Funko- Pop Disney: Frozen 2-Elsa Figura coleccionable  Multicolor  40884
 
 🔎:
 
-- Descúbre otras figuras de la colección disney y colecciónalas todas
-- Disney frozen 2
-- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 - Elsa
+- Disney frozen 2
 - De la colección frozen 2, elsa como figura de vinilo pop de funko
+- Descúbre otras figuras de la colección disney y colecciónalas todas
+- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 
 [Comprar!!!](https://www.amazon.es/dp/B07QVSST4C/?tag=tolees-21)

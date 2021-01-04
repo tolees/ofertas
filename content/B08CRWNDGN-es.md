@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo IdeaPad 3 - Portátil 15.6" FullHD con un 20.46 % de descuento'
-date: 2021-01-03 17:01:07
+date: 2021-01-04 18:28:17
 image: 'https://m.media-amazon.com/images/I/41AZFiiE-lL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,11 +25,11 @@ En este momento está [Lenovo IdeaPad 3 - Portátil 15.6" FullHD  AMD Athlon 302
 
 🔎:
 
-- Almacenamiento de 256GB SSD M.2 2242 PCIe 3.0x2 NVMe
 - Pantalla de 15.6" FullHD 1920x1080 píxeles, TN, 220nits
-- Memoria RAM de 8GB SO-DIMM DDR4-2400
-- Sin sistema operativo
-- Procesador AMD 3020e (2C / 2T, 1.2 / 2.6GHz, 1MB L2 / 4MB L3)
 - Tarjeta gráfica integrada AMD Radeon Graphics
+- Sin sistema operativo
+- Almacenamiento de 256GB SSD M.2 2242 PCIe 3.0x2 NVMe
+- Procesador AMD 3020e (2C / 2T, 1.2 / 2.6GHz, 1MB L2 / 4MB L3)
+- Memoria RAM de 8GB SO-DIMM DDR4-2400
 
 [Aquí!!!](https://www.amazon.es/dp/B08CRWNDGN/?tag=tolees-21)

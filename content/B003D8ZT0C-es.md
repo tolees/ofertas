@@ -25,11 +25,11 @@ Tienes [Logitech M90 Ratón con cable  sensor de 1000 DPI  conexión USB  3 tecl
 
 ℹ️:
 
+- Compatibilidad: Windows Vista, Windows 7, Windows 8, Windows 10, Mac OS X 10.5 posterior, Linux kernel 2.6+, Chrome OS, se necesita un puerto USB
 - Seguimiento Óptico de Adecuada Definición: Con 100 DPI tiene un control de cursor fiable y uniforme para el seguimiento preciso y la fácil selección de texto
+- Prueba el Ratón Inalámbrico Silencioso Logitech M330, para Adecuada Comodidad: Forma contorneada y recubrimiento de goma suave, clics silenciosos y libertad inalámbrica
+- Sencillo de Configurar y Usar: No hay necesidad de instalar software con el ratón M90 Logitech; como tiene cable, se puede conectar a un puerto USB y usar inmediatamente
 - Fabricado por Logitech: Se ha creado con la calidad y el diseño adecuados
 - El ratón inalámbrico M330 Silent Plus es hecha para la mano derecha y ofrece un mundo de silencio
-- Sencillo de Configurar y Usar: No hay necesidad de instalar software con el ratón M90 Logitech; como tiene cable, se puede conectar a un puerto USB y usar inmediatamente
-- Compatibilidad: Windows Vista, Windows 7, Windows 8, Windows 10, Mac OS X 10.5 posterior, Linux kernel 2.6+, Chrome OS, se necesita un puerto USB
-- Prueba el Ratón Inalámbrico Silencioso Logitech M330, para Adecuada Comodidad: Forma contorneada y recubrimiento de goma suave, clics silenciosos y libertad inalámbrica
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B003D8ZT0C/?tag=tolees-21)

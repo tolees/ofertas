@@ -25,12 +25,12 @@ Tienes [Casio LTP-2069D-4AVEF - Reloj Multiesfera para Mujer de Cuarzo con Corre
 
 ℹ️:
 
-- Dimensiones (A x A x P) 36,50mm x 31,00mm x 8,40mm
-- Tiene indicador de fecha y día de la semana
-- Correa y caja sólida de acero inoxidable
-- La duración de la batería es de 3 años
 - Resistente al agua hasta 5 bar / 50 metros
 - Cristal mineral, duro y difícil de rayar, que protege el reloj de daños externos
+- Dimensiones (A x A x P) 36,50mm x 31,00mm x 8,40mm
+- Tiene indicador de fecha y día de la semana
 - Siempre confiable: este reloj tiene un seguro particularmente seguro, que ayuda a evitar que la correa se abra por error
+- La duración de la batería es de 3 años
+- Correa y caja sólida de acero inoxidable
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000NLYPOS/?tag=tolees-21)

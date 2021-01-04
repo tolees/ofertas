@@ -26,9 +26,9 @@ Está [Medela Swing Flex sacaleches eléctrico simple  extractor de leche con em
 ℹ️:
 
 - Apoya la lactancia con el nuevo extractor de leche de Medela que te hará sentirte cómoda mientras te extraes leche.
-- Medela tiene diferentes tamaños de embudo con tecnología flex disponibles para usar con tu extractor de leche ofreciéndote la máxima comodidad (tamaño S, 21mm y m, 24 mm, incluidos).
+- Utiliza el extractor eléctrico Swing flex con las bolsas de limpieza quick clean de Medela, Crema para pezones de lanolina (Purelan) y protectores para pezones de Medela.
 - Sacaleches eléctrico con tecnología flex de Medela para uso diario.
 - Fácil de limpiar; se puede usar con las botellas biberón de Medela y con las bolsas de almacenamiento de Medela para guardar y congelar la leche materna.
-- Utiliza el extractor eléctrico Swing flex con las bolsas de limpieza quick clean de Medela, Crema para pezones de lanolina (Purelan) y protectores para pezones de Medela.
+- Medela tiene diferentes tamaños de embudo con tecnología flex disponibles para usar con tu extractor de leche ofreciéndote la máxima comodidad (tamaño S, 21mm y m, 24 mm, incluidos).
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07PMDK1WM/?tag=tolees-21)

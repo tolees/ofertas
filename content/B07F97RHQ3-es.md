@@ -25,9 +25,9 @@ En este momento está [NIKE NK J Guard-CE Espinilleras  Unisex Adulto  Black/Whi
 
 🔎:
 
-- Tipo de deporte: Ropa deportiva atlética
-- Flexible coating
 - Strategic cushioning
 - Impact absorbtion
+- Tipo de deporte: Ropa deportiva atlética
+- Flexible coating
 
 [Aquí!!!](https://www.amazon.es/dp/B07F97RHQ3/?tag=tolees-21)

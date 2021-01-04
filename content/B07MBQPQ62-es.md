@@ -1,35 +1,35 @@
 ---
 layout: post
-title: 'Samsung 970 Evo Plus  Unidad de Estado S al 25.83 % de descuento'
-date: 2021-01-03 16:58:52
+title: 'Samsung 970 Evo Plus  Unidad de Estado S al 25.10 % de descuento'
+date: 2021-01-04 18:45:55
 image: 'https://m.media-amazon.com/images/I/412szvtRYaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07MBQPQ62-es'
-actualPrice: 189.13 EUR
+actualPrice: 191.0 EUR
 currency: EUR
-price: 189.13
+price: 191.0
 comparePrice: 254.99 EUR
 prodname: 'Samsung 970 Evo Plus  Unidad de Estado Sólido M.2 1000GB V-NAND MLC  PCI Express 3.0  Negro'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MBQPQ62/?tag=tolees-21'
-descuento: '25.83'
-average: '195.44319066147864'
+descuento: '25.10'
+average: '195.40888030888036'
 ---
 
-Ahora mismo tienes [Samsung 970 Evo Plus  Unidad de Estado Sólido M.2 1000GB V-NAND MLC  PCI Express 3.0  Negro](https://www.amazon.es/dp/B07MBQPQ62/?tag=tolees-21) a 189.13 EUR (original: 254.99 EUR) (25.83 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Samsung 970 Evo Plus  Unidad de Estado Sólido M.2 1000GB V-NAND MLC  PCI Express 3.0  Negro](https://www.amazon.es/dp/B07MBQPQ62/?tag=tolees-21) a 191.0 EUR (original: 254.99 EUR) (25.10 %  de descuento) en el siguiente enlace!
 
 [![Samsung 970 Evo Plus  Unidad de Estado S](https://m.media-amazon.com/images/I/412szvtRYaL._SL200_.jpg)](https://www.amazon.es/dp/B07MBQPQ62/?tag=tolees-21)
 
 🔎:
 
+- Ssd con tecnología v-nand samsung
 - Lectura al azar (4kb, qd32) hasta 600.000.iops y escritura aleatorio (4kb, qd32) hasta 550.000.iops
 - Este software solo es compatible con los sistemas operativos de Windows indicados en el manual del usuario
-- Ssd con tecnología v-nand samsung
-- Velocidad de lectura secuencial hasta 3.500.mb/seg y velocidad de escritura secuencial hasta 3.300.mb/seg
-- Interfaz sata 6.gb/s y retrocompatible con sata 3.gbps y sata 1.5.gbps
 - Factor de forma 2.5.pulgadas excelente tanto para ordenadores portátiles que fijos
+- Interfaz sata 6.gb/s y retrocompatible con sata 3.gbps y sata 1.5.gbps
+- Velocidad de lectura secuencial hasta 3.500.mb/seg y velocidad de escritura secuencial hasta 3.300.mb/seg
 
 [Visítala!!!](https://www.amazon.es/dp/B07MBQPQ62/?tag=tolees-21)
