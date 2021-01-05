@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch 2607017322 Puntas de destornillado al 28.10 % de descuento'
-date: 2021-01-02 18:14:37
+date: 2021-01-05 20:10:37
 image: 'https://m.media-amazon.com/images/I/41Ro0-cUe4L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00HY7LV6E/?tag=tolees-21'
 descuento: '28.10'
-average: '15.064'
+average: '15.022857142857141'
 ---
 
 Está [Bosch 2607017322 Puntas de destornillador + trinquete  juego de 26 ](https://www.amazon.es/dp/B00HY7LV6E/?tag=tolees-21) con 28.10 de descuento por 14.92 EUR (original: 20.75 EUR) en el siguiente enlace!
@@ -25,9 +25,9 @@ Está [Bosch 2607017322 Puntas de destornillador + trinquete  juego de 26 ](http
 
 ℹ️:
 
-- Disposición cómoda en práctico envase
-- Carraca compacta para fijación sencilla sin herramienta eléctrica
-- Apropiadas para todas las marcas de herramientas eléctricas y destornilladores manuales
 - Cambio de broca rápido y buena sujeción del tornillo en la punta de atornillar gracias al portapuntas universal magnético de cambio rápido
+- Carraca compacta para fijación sencilla sin herramienta eléctrica
+- Disposición cómoda en práctico envase
+- Apropiadas para todas las marcas de herramientas eléctricas y destornilladores manuales
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00HY7LV6E/?tag=tolees-21)

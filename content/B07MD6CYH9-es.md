@@ -25,10 +25,10 @@ Tienes [Nfortec Antares Torre Gaming Negra RGB  Cristal Templado ](https://www.a
 
 🔎:
 
+- Diseño minimalista y gaming fabricada en acero de 0.90mm
+- Acero de 0,90mm de alta calidad y consistencia
+- Placas base compatibles: atx/micro-atx/itx
 - Sistema de iluminación compatible con asus aura system
 - Mando inalambrico rgb incluido para controlar la iluminación
-- Placas base compatibles: atx/micro-atx/itx
-- Acero de 0,90mm de alta calidad y consistencia
-- Diseño minimalista y gaming fabricada en acero de 0.90mm
 
 [Comprar!!!](https://www.amazon.es/dp/B07MD6CYH9/?tag=tolees-21)

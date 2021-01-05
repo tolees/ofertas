@@ -25,13 +25,13 @@ Ahora mismo tienes [VTech Storio MAX XL 2.0 - Tablet educativo multifunción  co
 
 🔎:
 
-- Versión española
-- Multifunción: hace fotos, vídeos y grabaciones, reproduce contenido multimedia (fotos, vídeos y música), juegos de aprendizaje, historias interactivas, estudio de arte y cine, aplicaciones de organización (bloc de notas y calendario)
-- Utiliza vtech kidconnect para enviar mensajes y estar conectado con toda la familia y amigos (necesario a través de conexión wi-fi)
-- cámara giratoria 180º
-- Tapa protectora y pie plegable para la pantalla
-- Compatible con cartuchos de juego y ampliable a través de explor park (descarga de historias, juegos, música, vídeos)
-- Tablet con gran pantalla de alta resolución táctil de 7" (1024 x 600)
 - Navegador seguro y control parental
+- Versión española
+- Tablet con gran pantalla de alta resolución táctil de 7" (1024 x 600)
+- Tapa protectora y pie plegable para la pantalla
+- cámara giratoria 180º
+- Multifunción: hace fotos, vídeos y grabaciones, reproduce contenido multimedia (fotos, vídeos y música), juegos de aprendizaje, historias interactivas, estudio de arte y cine, aplicaciones de organización (bloc de notas y calendario)
+- Compatible con cartuchos de juego y ampliable a través de explor park (descarga de historias, juegos, música, vídeos)
+- Utiliza vtech kidconnect para enviar mensajes y estar conectado con toda la familia y amigos (necesario a través de conexión wi-fi)
 
 [Visítala!!!](https://www.amazon.es/dp/B07DD3RR7R/?tag=tolees-21)

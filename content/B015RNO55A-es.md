@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.36 % en Lotus 18140/1 Trendy- Reloj de cuarzo pa'
-date: 2021-01-03 02:21:01
+date: 2021-01-05 20:29:15
 image: 'https://m.media-amazon.com/images/I/41NRJfiPRcL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Tienes [Lotus 18140/1 Trendy- Reloj de cuarzo para mujer con correa de acero  co
 
 ℹ️:
 
-- - Forma de la Carcasa: Redondo
 - Carcasa
+- - Forma de la Carcasa: Redondo
 - - Material de la Carcasa: Acero Inoxidable (bruñido)
 - - Color de la caja: Oro
 - - Cristal: Cristal Mineral

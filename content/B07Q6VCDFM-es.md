@@ -25,8 +25,8 @@ Está [NIKE M NP Top SS Tight T-Shirt  Hombre  Black/White  S](https://www.amazo
 
 ℹ️:
 
-- Regular fit
 - Elongated edge on the back
+- Regular fit
 - Dri-Fit Technology
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07Q6VCDFM/?tag=tolees-21)

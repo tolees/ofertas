@@ -27,7 +27,7 @@ Ahora mismo tienes [Sony MDR-EX110LP - Auriculares in-ear  negro](https://www.am
 
 - Auriculares internos con diafragmas de neodimio de 9 mm
 - Rango de frecuencia de 5-24.000 Hz
-- Cable tipo Y, 1,2 m de longitud
 - Cómodos tapones de auricular de silicona de ajuste seguro
+- Cable tipo Y, 1,2 m de longitud
 
 [Visítala!!!](https://www.amazon.es/dp/B00I3LUSN2/?tag=tolees-21)

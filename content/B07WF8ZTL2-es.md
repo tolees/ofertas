@@ -25,8 +25,8 @@ Ahora mismo tienes [Salomon XA Pro 3D V8 GTX  Zapatillas De Trail Running Y Sand
 
 🔎:
 
-- Color: Poseidon/Violet Indigo/Forever Blue
-- Salomon
 - Xa PRO 3D V8 W
+- Salomon
+- Color: Poseidon/Violet Indigo/Forever Blue
 
 [Visítala!!!](https://www.amazon.es/dp/B07WF8ZTL2/?tag=tolees-21)

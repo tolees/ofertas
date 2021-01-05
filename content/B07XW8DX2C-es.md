@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Harry Potter Colección Completa Ed19 [DV al 36.55 % de descuento'
-date: 2021-01-04 07:26:33
+date: 2021-01-05 20:16:37
 image: 'https://m.media-amazon.com/images/I/51gcelkvjTL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07XW8DX2C/?tag=tolees-21'
 descuento: '36.55'
-average: '26.716071428571432'
+average: '26.578965517241382'
 ---
 
 Ahora mismo tienes [Harry Potter Colección Completa Ed19 [DVD]](https://www.amazon.es/dp/B07XW8DX2C/?tag=tolees-21) a 22.74 EUR (original: 35.84 EUR) (36.55 %  de descuento) en el siguiente enlace!

@@ -26,8 +26,8 @@ Está [BLACK+DECKER BDCD8-QW - Taladro atornillador sin cable 7.2V con batería 
 ℹ️:
 
 - Se puede usar en áreas de difícil acceso gracias a su tamaño compacto
+- Es adecuado para perforar, atornillar, montar muebles, colgar cuadros, estanterías, cortinas
 - Dispone de cargador con adaptador micro USB y luz LED para indicar el estado de carga
 - Para las tareas de atornillado se puede usar la función reversible
-- Es adecuado para perforar, atornillar, montar muebles, colgar cuadros, estanterías, cortinas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B016XLYKMS/?tag=tolees-21)

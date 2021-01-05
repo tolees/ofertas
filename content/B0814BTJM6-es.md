@@ -25,10 +25,10 @@ Está [Columbia Sweet View Bomber Aislante para Mujer  Negro  M](https://www.ama
 
 ℹ️:
 
-- Chaqueta bomber clásica para mujer, Un básico imprescindible para cualquier armario
-- Ajuste y comodidad óptimos gracias al elástico en cintura y puños
-- Diseño sutil y elegante del logotipo de Columbia en la parte superior del brazo
 - Siéntete protegido de los elementos gracias al cordón y la capucha ajustable
+- Diseño sutil y elegante del logotipo de Columbia en la parte superior del brazo
+- Ajuste y comodidad óptimos gracias al elástico en cintura y puños
 - Contenido: 1x Columbia Sweet View Bomber aislante para mujer, Exterior: Cortavientos Matte Face Tejido liso 100% poliéster; Forro: 100% poliéster; Aislamiento: 80 g Microtemp XF II 100% poliéster, Color: Negro, Talla: M, Art.No 1910221
+- Chaqueta bomber clásica para mujer, Un básico imprescindible para cualquier armario
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0814BTJM6/?tag=tolees-21)

@@ -25,8 +25,8 @@ En este momento está [adidas Sh3.Ro Mid 3s S Traje de Baño  Mujer  Team Royal 
 
 🔎:
 
-- Chlorine-resistant fabric
-- Gran freedom of movimiento
 - Swimsuit
+- Gran freedom of movimiento
+- Chlorine-resistant fabric
 
 [Aquí!!!](https://www.amazon.es/dp/B081TQG5Z8/?tag=tolees-21)
