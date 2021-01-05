@@ -25,11 +25,11 @@ Está [Crucial MX500 500GB CT500MX500SSD1 Z  Unidad interna de estado sólido-ha
 
 ℹ️:
 
-- Lecturas/escrituras secuenciales hasta 560/510 MB/s en todos los tipos de archivo y lecturas/escrituras aleatorias hasta 95/90k en todos los tipos de archivo
 - La Inmunidad de Pérdida de Energía Integrada conserva todo si trabajo archivado si la corriente eléctrica se corta inesperadamente
 - ¡ADVERTENCIA! Verifique la compatibilidad del producto en el sitio web de Crucial antes de comprarlo
-- Acelerado por tecnología NAND Micron 3D
 - El cifrado basado en hardware AES de 256 bits mantiene los datos seguros fuera del alcance de los piratas y ladrones informáticos
+- Acelerado por tecnología NAND Micron 3D
 - El producto se envía con el paquete Amazon Certified Frustration Free (puede variar del paquete representado en el adjunto del producto)
+- Lecturas/escrituras secuenciales hasta 560/510 MB/s en todos los tipos de archivo y lecturas/escrituras aleatorias hasta 95/90k en todos los tipos de archivo
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0784SLQM6/?tag=tolees-21)

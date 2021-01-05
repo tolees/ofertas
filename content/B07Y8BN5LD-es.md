@@ -25,8 +25,8 @@ Tienes [Lazzon Camisas Manga Larga Mujer Blusa Casual Suelto Túnico Botones Tal
 
 ℹ️:
 
-- Temporada: Perfecto para la primavera, otoño o invierno, fácil de combinar con jeans, pantalones cortos y leggings ajustados para un look decente.
 - Tamaño: M / L / XL / 2XL, consulte nuestra tabla de tallas antes de realizar el pedido.
+- Temporada: Perfecto para la primavera, otoño o invierno, fácil de combinar con jeans, pantalones cortos y leggings ajustados para un look decente.
 - Ocasión: FIT para vacaciones, casual, fecha, trabajo, viaje, fiesta, etc.
 - Diseño: Las blusas sueltas de manga larga y diseño exclusivo hacen que la moda sea más atractiva y encantadora.
 - Material: Mezcla de algodon. Cómodo de llevar y suave al tacto.

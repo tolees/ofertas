@@ -25,8 +25,8 @@ En este momento está [GANT The Original Solid T-Shirt Camiseta  Blanco  White 1
 
 🔎:
 
+- Ver descripción del producto para obtener más información.
 - GANT Blanco Camiseta con logo liso
 - A estrenar y genuina. Somos un vendedor autorizado de GANT.
-- Ver descripción del producto para obtener más información.
 
 [Aquí!!!](https://www.amazon.es/dp/B008CIXUTK/?tag=tolees-21)

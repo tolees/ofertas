@@ -25,12 +25,12 @@ Está [BRA Silver- Set sartenes 18 - 22 - 26 cm antiadherente tricapa reforzado 
 
 ℹ️:
 
-- Revestimiento antiadherente tricapa de alta calidad y libre de PFOA
 - Cocina sana con poco aceite
-- Fácil limpieza interior y exterior gracias a protección antiadherente tricapa reforzado
+- Diámetro para placa de inducción: 18 cm - 124 mm / 22 cm - 158 mm / 26 cm - 195 mm
 - Mayor aprovechamiento de la energía
+- Revestimiento antiadherente tricapa de alta calidad y libre de PFOA
 - Mangos fabricados en baquelita anti-quemaduras
 - Aluminio forjado con fondo de gran espesor (5 mm)
-- Diámetro para placa de inducción: 18 cm - 124 mm / 22 cm - 158 mm / 26 cm - 195 mm
+- Fácil limpieza interior y exterior gracias a protección antiadherente tricapa reforzado
 
 [Ver la oferta!!](https://www.amazon.es/dp/B075SWTZ1X/?tag=tolees-21)

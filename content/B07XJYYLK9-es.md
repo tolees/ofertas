@@ -25,10 +25,10 @@ Tienes [Instax 16640670  Impresora Para Smartphone  Rosa  Tamaño Único](https:
 
 🔎:
 
+- Bateria recargable np-45s litio
+- Más de 25 plantillas de diseño y captura de video frame.
 - Impresora portátil de fotos instax mini directamente desde tu smartphone, instagram, facebook o cámara s fujifilm compatibles
 - Compatible con películas instax mini
-- Más de 25 plantillas de diseño y captura de video frame.
 - Impresión de alta velocidad (12 seg.)
-- Bateria recargable np-45s litio
 
 [Comprar!!!](https://www.amazon.es/dp/B07XJYYLK9/?tag=tolees-21)

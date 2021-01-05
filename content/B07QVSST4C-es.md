@@ -25,10 +25,10 @@ Tienes [Funko- Pop Disney: Frozen 2-Elsa Figura coleccionable  Multicolor  40884
 
 🔎:
 
-- Disney frozen 2
-- Elsa
 - La figura mide 9 cm y se envía en una caja ilustrada con ventana
-- De la colección frozen 2, elsa como figura de vinilo pop de funko
 - Descúbre otras figuras de la colección disney y colecciónalas todas
+- Elsa
+- Disney frozen 2
+- De la colección frozen 2, elsa como figura de vinilo pop de funko
 
 [Comprar!!!](https://www.amazon.es/dp/B07QVSST4C/?tag=tolees-21)
