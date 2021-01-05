@@ -25,9 +25,9 @@ Tienes [Dyson v8 absolute - Aspiradora Sin Cable Con 2 Funciones  Naranja  2.04 
 
 ℹ️:
 
-- Selector de potencia con 2 modos de aspiración
 - Deposito extraíble de 0.54 l con sistema mejorado de vaciado
 - Motor Digital Dyson - 3 veces más potente que un motor convencional
 - Batería sin efecto memoria de ion-litio de 22,2 V
+- Selector de potencia con 2 modos de aspiración
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B073ZL5VDK/?tag=tolees-21)

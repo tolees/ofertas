@@ -25,9 +25,9 @@ Está [Emuca - Lote de 150 fieltros autoadhesivos redondos diametro 16 mm  color
 
 ℹ️:
 
-- Puede utilizarse en: mesas, sillas, baúles pesados, escritorios, camas, armarios, etc
-- Espesor: 3.5 mm
 - Almohadillas de fieltro autoadhesivo para la protección de muebles y superficies
+- Espesor: 3.5 mm
 - Paquete de 150 fieltros redondos diámetro 16 mm
+- Puede utilizarse en: mesas, sillas, baúles pesados, escritorios, camas, armarios, etc
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01MZDRZEV/?tag=tolees-21)

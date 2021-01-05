@@ -25,12 +25,12 @@ Ahora mismo tienes [Geox U Wells C  Zapatillas Hombre  Negro  Black/Dk Jeans C9b
 
 🔎:
 
+- Tipo de tacón: Plano
 - Material de la suela: Goma
+- Altura del tacón: 2 centímetros
+- Revestimiento: Malla
 - Cierre: Cordones
 - Material exterior: Cuero
 - Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
-- Revestimiento: Malla
-- Tipo de tacón: Plano
-- Altura del tacón: 2 centímetros
 
 [Visítala!!!](https://www.amazon.es/dp/B0792HCXMR/?tag=tolees-21)

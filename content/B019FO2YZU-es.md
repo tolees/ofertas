@@ -25,8 +25,8 @@ Ahora mismo tienes [Safta Funda para Ordenador portátil de 15.6"  con Estilo de
 
 🔎:
 
+- Con estilo de FC Barcelona
 - Funda para ordenador portátil de 15.6 "
 - Medidas: 29 x 40 x 11,5 cm
-- Con estilo de FC Barcelona
 
 [Visítala!!!](https://www.amazon.es/dp/B019FO2YZU/?tag=tolees-21)

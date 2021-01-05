@@ -25,10 +25,10 @@ Tienes [GORE WEAR M Thermo Camiseta de Manga Larga para Hombre  S  Negro/Amarill
 
 ℹ️:
 
-- Tejidos GORE Selected Fabrics: altamente transpirables con rápida evacuación del sudor
-- Ajuste cómodo, Detalles reflectantes
-- GORE M Thermo Long Sleeve Zip Shirt, Talla: S, Color: Negro/Amarillo neón, 100529
 - Cálida y versátil camiseta de hombre para condiciones meteorológicas frías
 - Suave forro interior aterciopelado, Cintura y puños elásticos, Cuello alto con garaje para la cremallera
+- Ajuste cómodo, Detalles reflectantes
+- Tejidos GORE Selected Fabrics: altamente transpirables con rápida evacuación del sudor
+- GORE M Thermo Long Sleeve Zip Shirt, Talla: S, Color: Negro/Amarillo neón, 100529
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000HMDUJE/?tag=tolees-21)

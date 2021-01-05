@@ -25,12 +25,12 @@ Tienes [Geox D New ANNYA A  Zapatos de Tacón Mujer  Negro  Black C9999   40 EU]
 
 🔎:
 
+- Tipo de tacón: Tacón ancho
+- Cierre: Ponerse
+- Revestimiento: Sintético
+- Altura del tacón: 7.5 centímetros
 - Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
 - Material de la suela: EVA
-- Altura del tacón: 7.5 centímetros
-- Cierre: Ponerse
 - Material exterior: Cuero
-- Revestimiento: Sintético
-- Tipo de tacón: Tacón ancho
 
 [Comprar!!!](https://www.amazon.es/dp/B07LG14RVW/?tag=tolees-21)

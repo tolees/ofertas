@@ -25,10 +25,10 @@ En este momento está [Seiko Reloj Analógico Automático para Mujer con Correa 
 
 🔎:
 
+- Brazalete Plateado Acero inoxidable
+- Movimiento Automático
 - Caja Acero inoxidable, esfera Blanco
 - Diámetro caja: 26mm
 - Resistente al agua: 50m
-- Brazalete Plateado Acero inoxidable
-- Movimiento Automático
 
 [Aquí!!!](https://www.amazon.es/dp/B002YVTY8C/?tag=tolees-21)
