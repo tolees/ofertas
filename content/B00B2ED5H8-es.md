@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Herschel Retreat Backpack - Mochila casu con un 29.79 % de descuento'
-date: 2021-01-04 14:25:54
+date: 2021-01-05 21:36:14
 image: 'https://m.media-amazon.com/images/I/41yRskDJfbL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,8 +26,8 @@ En este momento está [Herschel Retreat Backpack - Mochila casual unisex  Azul  
 🔎:
 
 - External sleeve pocket
-- Signature striped fabric liner
 - Contoured shoulder straps
+- Signature striped fabric liner
 - Fully padded and fleece lined 15" laptop sleeve
 - Reinforced bottom
 

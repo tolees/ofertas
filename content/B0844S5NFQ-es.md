@@ -25,8 +25,8 @@ Tienes [Levi s Barstow Western Standard Shirt  Modern Stretch Dark Worn  XL para
 
 ℹ️:
 
-- Camisa denim clásica de manga larga Western Shirt
 - Modelo casual
+- Camisa denim clásica de manga larga Western Shirt
 - Dos bolsillos con botón en el pecho
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0844S5NFQ/?tag=tolees-21)

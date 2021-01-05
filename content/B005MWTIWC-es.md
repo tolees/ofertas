@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 22.83 % en Sumex 2505055 - Extintor Homologado Polv'
-date: 2021-01-04 14:18:54
+date: 2021-01-05 21:36:04
 image: 'https://m.media-amazon.com/images/I/418eTxhCY-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Tienes [Sumex 2505055 - Extintor Homologado Polvo  1 Kg  Con Manómetro](https:/
 
 ℹ️:
 
-- homologado
-- fabricado en aluminio
 - con manómetro,
-- capacidad 1 kg
 - color rojo
+- homologado
+- capacidad 1 kg
+- fabricado en aluminio
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B005MWTIWC/?tag=tolees-21)

@@ -25,10 +25,10 @@ Está [Mini FoldingLightbox Photography Studio Softbox LED Light Soft Box Camera
 
 ℹ️:
 
-- 5.Ideal for you to shoot for small products
-- 3.Foldable design, Easy for you to store and carry about
 - 1.Magnetic structure, easy for you to assemble
-- 2.Super bright LED beads, provide average light for your product
+- 5.Ideal for you to shoot for small products
 - 4.Supplied suit your needs better
+- 2.Super bright LED beads, provide average light for your product
+- 3.Foldable design, Easy for you to store and carry about
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08DFTZ1CY/?tag=tolees-21)

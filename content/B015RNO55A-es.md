@@ -25,10 +25,10 @@ Tienes [Lotus 18140/1 Trendy- Reloj de cuarzo para mujer con correa de acero  co
 
 ℹ️:
 
+- - Cristal: Cristal Mineral
+- - Material de la Carcasa: Acero Inoxidable (bruñido)
 - Carcasa
 - - Forma de la Carcasa: Redondo
-- - Material de la Carcasa: Acero Inoxidable (bruñido)
 - - Color de la caja: Oro
-- - Cristal: Cristal Mineral
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B015RNO55A/?tag=tolees-21)

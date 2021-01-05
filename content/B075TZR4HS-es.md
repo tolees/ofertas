@@ -26,9 +26,9 @@ Tienes [VLIKE Estación meteorológica con 1PCS sensores Estación meteorológic
 🔎:
 
 - Muestra las temperaturas y la humedad en interiores y exteriores, registra lecturas mínimas y máximas que se pueden restablecer diariamente o manualmente. La temperatura, la humedad y la barométrica podrían calibrarse
-- MAX admite 3 sensores exteriores. El sensor exterior transmite hasta 300 pies en la línea de visión (100 pies en la mayoría de las condiciones) incluye una pantalla LCD, por lo que la temperatura y la humedad se pueden leer tanto en la consola de la pantalla como en el sensor exterior
 - Icono de pronóstico de color que reacciona a los cambios en la presión barométrica, proporcionando un pronóstico del tiempo que se avecina en las próximas 12 horas con una precisión razonable, esta predicción solo tiene una precisión del 70%
-- Hora controlada por la radio DCF, configure la ZONA HORARIA, se ajusta automáticamente al horario de verano
 - Otras características incluyen punto de rocío, presión barométrica, fase lunar, alarma de tiempo, alarma de hielo, alarma de baja temperatura, alarma de alarma de temperatura / humedad, flechas de tendencia a la presión. Tres niveles de brillo ALTO / MEDIO / DESACTIVADO, 12 o 24 horas monitor
+- MAX admite 3 sensores exteriores. El sensor exterior transmite hasta 300 pies en la línea de visión (100 pies en la mayoría de las condiciones) incluye una pantalla LCD, por lo que la temperatura y la humedad se pueden leer tanto en la consola de la pantalla como en el sensor exterior
+- Hora controlada por la radio DCF, configure la ZONA HORARIA, se ajusta automáticamente al horario de verano
 
 [Comprar!!!](https://www.amazon.es/dp/B075TZR4HS/?tag=tolees-21)

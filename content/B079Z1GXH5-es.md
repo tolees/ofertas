@@ -25,11 +25,11 @@ Tienes [Element Cornell Classic-Sudadera para Hombre  Gris  Charcoal Heather   X
 
 ℹ️:
 
-- Corte: corte normal
-- Tipo de deporte: Fitness y ejercicio
 - Cuello redondo
-- Cepillado para mayor suavidad
-- Logo del árbol en contraste bordado en el pecho
 - Tela: Tejido de mezcla de poliéster y algodón [260 g/m2]
+- Logo del árbol en contraste bordado en el pecho
+- Cepillado para mayor suavidad
+- Tipo de deporte: Fitness y ejercicio
+- Corte: corte normal
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B079Z1GXH5/?tag=tolees-21)
