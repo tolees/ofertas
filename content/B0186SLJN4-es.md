@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cafetera italiana elec. ORBEGOZO KFE660  al 34.01 % de rebaja'
-date: 2020-12-27 12:08:46
+date: 2021-01-05 09:33:43
 image: 'https://m.media-amazon.com/images/I/31ufMe0espL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ Tienes [Cafetera italiana elec. ORBEGOZO KFE660 | ORBEGOZO 3 - 6 tazas](https://
 
 🔎:
 
-- Mantiene el café caliente hasta 30 minutos
-- Incorpora función de apagado automático
 - Cafetera eléctrica de diseño clásico con 480 w de potencia
+- Mantiene el café caliente hasta 30 minutos
 - Capacidad de 3 a 6 tazas
+- Incorpora función de apagado automático
 
 [Comprar!!!](https://www.amazon.es/dp/B0186SLJN4/?tag=tolees-21)

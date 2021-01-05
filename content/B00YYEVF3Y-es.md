@@ -28,7 +28,7 @@ En este momento está [CAMPER  Pelotas XL Herren Oxford SchnÃ¼rhalbschuhe  Bla
 - Forro:
 - Plantilla: Plantilla extraíble de EVA con sistema amortiguador
 - Color: Azul marino
-- Suela/Características: EVA para mayor ligereza
 - Empeine: Tejido técnico (Poliéster) / Ante
+- Suela/Características: EVA para mayor ligereza
 
 [Aquí!!!](https://www.amazon.es/dp/B00YYEVF3Y/?tag=tolees-21)

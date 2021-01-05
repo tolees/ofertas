@@ -25,8 +25,8 @@ Está [Hugo Boss Bottled Desodorante Stick - 75 ml](https://www.amazon.es/dp/B00
 
 ℹ️:
 
-- Productos de belleza y el cuidado personal
 - Marca: Hugo Boss-boss
 - Tipo de producto: Desodorante
+- Productos de belleza y el cuidado personal
 
 [Ver la oferta!!](https://www.amazon.es/dp/B001BQXPBS/?tag=tolees-21)

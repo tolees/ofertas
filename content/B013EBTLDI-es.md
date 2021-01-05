@@ -26,8 +26,8 @@ En este momento está [Metabo 620045000 620045000-Atornillador eléctrico SE 400
 🔎:
 
 - Velocidad de ralentí: 0-4.400 / min
+- Potencía de entrada nominal: 600 w de salida
 - Max torque suave: 9 nm
 - Potencía : 275 W
-- Potencía de entrada nominal: 600 w de salida
 
 [Aquí!!!](https://www.amazon.es/dp/B013EBTLDI/?tag=tolees-21)

@@ -26,9 +26,9 @@ Tienes [Kindle Oasis  ahora con luz cálida ajustable  resistente al agua  8 GB 
 ℹ️:
 
 - Acceso instantáneo a millones de libros.
-- Luz cálida ajustable que permite cambiar el tono de la pantalla de blanco a ámbar.
 - Nuestra mejor pantalla Paperwhite de 7 pulgadas con resolución de 300 ppp y diseño frontal sin bordes.
 - Diseño fino, ligero y ergonómico con botones de paso de página.
+- Luz cálida ajustable que permite cambiar el tono de la pantalla de blanco a ámbar.
 - Resistente al agua (IPX8) para que puedas leer en la bañera o en la piscina.
 - Se lee como en papel impreso gracias a la última tecnología E-Ink.
 

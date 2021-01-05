@@ -25,10 +25,10 @@ En este momento está [Cecotec Full Crystal - Placa de Inducción portatil  Cont
 
 🔎:
 
-- Función reservar, que mantiene caliente la comida el tiempo deseado; 10 niveles de potencia hasta 2000 W, 4 programas preconfigurados y función "Timer" y "Hora de comer".
-- Programable 24h. Desconexión automática
-- Protección contra sobrecalentamiento. Temporizador digital hasta 180 minutos
-- Control táctil. 10 niveles de potencia (permite cocinar hasta a 240ºC). 4 Programas preconfigurados: Mantener caliente, Café, Arroz y Sopa
 - Placa de inducción portátil digital Full crystal. Superficie de cristal esmaltado de alta resistencia
+- Programable 24h. Desconexión automática
+- Función reservar, que mantiene caliente la comida el tiempo deseado; 10 niveles de potencia hasta 2000 W, 4 programas preconfigurados y función "Timer" y "Hora de comer".
+- Control táctil. 10 niveles de potencia (permite cocinar hasta a 240ºC). 4 Programas preconfigurados: Mantener caliente, Café, Arroz y Sopa
+- Protección contra sobrecalentamiento. Temporizador digital hasta 180 minutos
 
 [Aquí!!!](https://www.amazon.es/dp/B01N8TWR13/?tag=tolees-21)

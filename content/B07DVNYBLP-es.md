@@ -25,10 +25,10 @@ Ahora mismo tienes [Levi s Type 3 Sherpa Trucker  Chaqueta para Hombre  Azul  Ro
 
 🔎:
 
+- Updated with warm sherpa insulation and a soft quilted lining in the sleeves
 - A symbol of self expression for decades, and a great starting point for customization
 - The original jean jacket since 1967
 - Gets better over time from natural wear with fading, stains and holes
-- Updated with warm sherpa insulation and a soft quilted lining in the sleeves
 - Regular fit
 
 [Visítala!!!](https://www.amazon.es/dp/B07DVNYBLP/?tag=tolees-21)

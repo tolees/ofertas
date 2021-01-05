@@ -25,10 +25,10 @@ En este momento está [Rollo gofrado de envasado al vacío  30cm x 6 metros   2 
 
 🔎:
 
-- La promoción incluye 2 rollos de 6 metros.
+- ESTOS ROLLOS SON DEMASIADO GRANDES PARA FOODSAVER.
 - Corte y confeccione la medida de bolsa deseada.
 - 30 cm de ancho y 6 metros de longitud.
 - Sirve para casi todo tipo de envasadora doméstica: Lacor, Alfa, Caso, Jata, Magic Vac, Gastroback, Vacpack, etc…
-- ESTOS ROLLOS SON DEMASIADO GRANDES PARA FOODSAVER.
+- La promoción incluye 2 rollos de 6 metros.
 
 [Aquí!!!](https://www.amazon.es/dp/B01BLT2J8E/?tag=tolees-21)

@@ -25,8 +25,8 @@ Ahora mismo tienes [Aveeno loción hidratante 300ml con harina de avena coloidal
 
 🔎:
 
-- Ayuda la salud de la piel seca en 1 día
 - Loción que dejara su piel suave y hidratada
+- Ayuda la salud de la piel seca en 1 día
 - Asegura una mejora significativa en 2 semanas
 - Libre de fragancia, no grasa y noncomedogenic
 

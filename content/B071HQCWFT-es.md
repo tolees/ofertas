@@ -25,10 +25,10 @@ Está [Prodigiosa: Las aventuras de Ladybug - Diario Interactivo  Bandai 84963 ]
 
 ℹ️:
 
-- Tus secretos estarán a salvo en el Diario de Ladybug
-- Compartimentos secretos
 - Tiene luces, sonidos y frases de la serie
-- Sólo tú conocerás la clave secreta
 - Incluye un Tikki-boli
+- Sólo tú conocerás la clave secreta
+- Compartimentos secretos
+- Tus secretos estarán a salvo en el Diario de Ladybug
 
 [Ver la oferta!!](https://www.amazon.es/dp/B071HQCWFT/?tag=tolees-21)

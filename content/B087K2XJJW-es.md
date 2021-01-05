@@ -26,8 +26,8 @@ Ahora mismo tienes [ultima Pienso para Perro Medium-Maxi Adulto con Pollo  Pack 
 🔎:
 
 - Huesos y articulaciones fuertes: Contribuye a unos huesos y articulaciones fuertes gracias a minerales, vitamina D, antioxidantes (vitaminas C, E), magnesio y colágeno natural procedente del huevo.
-- Condición física ideal: Nivel de proteínas y calorías adaptado a su grado de actividad
 - Dientes fuertes: Vitamina D y minerales
+- Condición física ideal: Nivel de proteínas y calorías adaptado a su grado de actividad
 - Fácil de digerir :Pollo y arroz, fuentes de proteínas e hidratos de carbono de fácil digestión
 - Pelo brillante y piel cuidada: Ácidos grasos omega-3 y omega-6, biotina y zinc
 

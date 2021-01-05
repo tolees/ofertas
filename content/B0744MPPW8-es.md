@@ -25,9 +25,9 @@ En este momento está [Gor-juss Gorjuss Baraja de Cartas Infantil  Multicolor  N
 
 🔎:
 
-- Baraja con 40 cartas
 - Juego de familias de estaciones
 - Licencia artística santoro
+- Baraja con 40 cartas
 - Con los diseños de santoro gorjuss
 
 [Aquí!!!](https://www.amazon.es/dp/B0744MPPW8/?tag=tolees-21)
