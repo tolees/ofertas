@@ -26,8 +26,8 @@ Tienes [Brandit Check Shirt Camisa  Gris-Negro  XL para Hombre](https://www.amaz
 ℹ️:
 
 - Muchos colores y tamaños
-- Camisa de franela a cuadros de Brandit con acabado redondo. Diseño clásico con dos bolsillos en el pecho, tira de botones continua y corte recto.
 - Agradable al tacto y cálida de algodón puro.
+- Camisa de franela a cuadros de Brandit con acabado redondo. Diseño clásico con dos bolsillos en el pecho, tira de botones continua y corte recto.
 - Corte recto clásico
 - Procesamiento de alta calidad. Instrucciones de cuidado: lavable a máquina a 30 °C
 

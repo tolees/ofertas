@@ -26,12 +26,12 @@ Está [Alcatel 2019G Metallic Silver Pantalla 2.4" Teléfono Móvil Fácil Uso T
 ℹ️:
 
 - Sistema operativo: Thread X
-- Memoria 16MB + 8MB
 - Boton SOS
-- Bluetooth 2 1 + EDR
-- Camara 2MP
-- Pantalla 2 4” QVGA display
+- Memoria 16MB + 8MB
 - Bateria 970mAh
+- Camara 2MP
+- Bluetooth 2 1 + EDR
 - Procesador SC6531F
+- Pantalla 2 4” QVGA display
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07X1X16NH/?tag=tolees-21)

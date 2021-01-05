@@ -25,10 +25,10 @@ En este momento está [Agenda rotu 2020-2021 Día por página - Ilusiónate  pla
 
 🔎:
 
-- Peso: 600 gr Medidas del producto: 15 x 19,5 x 3,4 cm
-- Blocs de notas adhesivas con formas, 8 hojas de pagtinas, planificador mensual
-- Agenda escolar diaria con 368 páginas de papel de 80 gr.
-- Frases diarias motivacionales, separadores con pestaña para cada mes y bolsillo interior transparente
 - Horarios, calendarios, tablas de ahorro y cierre con goma elástica
+- Blocs de notas adhesivas con formas, 8 hojas de pagtinas, planificador mensual
+- Frases diarias motivacionales, separadores con pestaña para cada mes y bolsillo interior transparente
+- Peso: 600 gr Medidas del producto: 15 x 19,5 x 3,4 cm
+- Agenda escolar diaria con 368 páginas de papel de 80 gr.
 
 [Aquí!!!](https://www.amazon.es/dp/B088RRJ3K3/?tag=tolees-21)
