@@ -25,10 +25,10 @@ Está [Corsair K60 RGB Pro Low Profile Teclado Mecánico para Juegos  Interrupto
 
 ℹ️:
 
+- Ilumine su escritorio con la retroiluminación RGB brillante y dinámica en cada tecla, completamente personalizable con colores y efectos prácticamente ilimitados.
+- Los interruptores mecánicos 100% CHERRY MX Low Profile SPEED RGB ofrecen una distancia de accionamiento inigualable e increíblemente corta, de solo 1,0 mm, para que disfrute de partidas rápidas con pulsaciones más suaves y 50 millones de golpes de tecla garantizados.
+- El potente software CORSAIR iCUE permite controlar la iluminación RGB dinámica, asignar teclas y programar macros personalizadas, así como sincronizar toda la iluminación del sistema con todos los dispositivos de CORSAIR compatibles con iCUE.
 - Disfrute de un nivel de inmersión sin precedentes al jugar a juegos con integración de iCUE, puesto que la iluminación RGB reacciona dinámicamente ante las acciones y eventos del juego en tiempo real.
 - Un diseño estiloso e increíblemente fino, con una estructura de aluminio cepillado anodizado negro y resistente que crea un aspecto aerodinámico y moderno con una durabilidad excepcional.
-- Ilumine su escritorio con la retroiluminación RGB brillante y dinámica en cada tecla, completamente personalizable con colores y efectos prácticamente ilimitados.
-- El potente software CORSAIR iCUE permite controlar la iluminación RGB dinámica, asignar teclas y programar macros personalizadas, así como sincronizar toda la iluminación del sistema con todos los dispositivos de CORSAIR compatibles con iCUE.
-- Los interruptores mecánicos 100% CHERRY MX Low Profile SPEED RGB ofrecen una distancia de accionamiento inigualable e increíblemente corta, de solo 1,0 mm, para que disfrute de partidas rápidas con pulsaciones más suaves y 50 millones de golpes de tecla garantizados.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08KQBL6FM/?tag=tolees-21)

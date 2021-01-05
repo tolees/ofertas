@@ -25,14 +25,14 @@ Está [Bosch Professional Robust Line CYL-9 MultiConstruction - Juego de 7 Broca
 
 ℹ️:
 
-- Aristas de corte rectificadas con diamante; rectificado especial que permite la perforar casi todos los materiales o materiales multicapa
+- Color: azul, pulida al brillo
 - Resultados óptimos con o sin percusión
-- Indicada para perforar prácticamente todo tipo de materiales o materiales multicapa para acabado de interiores, p. ej., hormigón, mampostería, ladrillo, eternita, materiales de construcción ligeros, cerámica y azulejos, madera, plástico, chapas de metal finas y aluminio
+- Aristas de corte rectificadas con diamante; rectificado especial que permite la perforar casi todos los materiales o materiales multicapa
 - 2 aristas de corte, soldadura y endurecimiento AWB; tecnología de soldadura y endurecimiento optimizada para incrementar la robustez de la broca y reducir las vibraciones durante la perforación
 - Juego con 7 brocas
-- Metal duro de grano muy fino; larga vida útil y máxima capacidad de resistencia
-- Punta centradora; punta centradora activa para perforar el hormigón
+- Indicada para perforar prácticamente todo tipo de materiales o materiales multicapa para acabado de interiores, p. ej., hormigón, mampostería, ladrillo, eternita, materiales de construcción ligeros, cerámica y azulejos, madera, plástico, chapas de metal finas y aluminio
 - Diseño de 4 espirales; para mejorar la resistencia y la estabilidad al perforar hormigón
-- Color: azul, pulida al brillo
+- Punta centradora; punta centradora activa para perforar el hormigón
+- Metal duro de grano muy fino; larga vida útil y máxima capacidad de resistencia
 
 [Ver la oferta!!](https://www.amazon.es/dp/B001IBKQWM/?tag=tolees-21)

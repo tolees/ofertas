@@ -25,10 +25,10 @@ Está [HP 27FW - Monitor Full HD de 27"  1920 x 1080  panel IPS LED  16:9  HDMI 
 
 ℹ️:
 
-- Nota sobre el tipo de entrada de pantalla: compatibilidad HDCP en entradas HDMI
-- Pantalla de 68.58 cm con audio y retroiluminación led
 - El diseño de microborde crea una experiencia de visualización más amplia
 - Tecnología amd freesync
+- Pantalla de 68.58 cm con audio y retroiluminación led
+- Nota sobre el tipo de entrada de pantalla: compatibilidad HDCP en entradas HDMI
 - La tecnología ips te ofrece vistas claras desde casi cualquier ángulo
 - Un panel casi de borde a borde equivale a un área de pantalla maximizada y entretenimiento expansivo
 - Tipo de entrada de la pantalla: 1 VGA, 2 HDMI 1.4

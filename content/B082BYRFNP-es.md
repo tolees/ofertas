@@ -25,7 +25,7 @@ Ahora mismo tienes [LEVIS FOOTWEAR AND ACCESORIAS Hodges 2.0 Zapatillas Hombre  
 
 🔎:
 
-- Cuentan con un empeine de piel de nobuk con un suave tacto de ante, una resistente suela de goma y ganchos para poder atarlas rápidamente
 - Estas botas robustas te llevarán a donde quieras, y son perfectas para hacer caminatas por paisajes urbanos
+- Cuentan con un empeine de piel de nobuk con un suave tacto de ante, una resistente suela de goma y ganchos para poder atarlas rápidamente
 
 [Visítala!!!](https://www.amazon.es/dp/B082BYRFNP/?tag=tolees-21)
