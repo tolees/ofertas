@@ -25,11 +25,11 @@ Tienes [Timberland Newport Bay Bumper Toe Oxford  Zapatillas Mujer  Blanco White
 
 ℹ️:
 
-- Ancho del zapato: normal
 - Tipo de tacón: plano
 - Material exterior: tela
 - Cierre: cordones
 - Forro: tela
 - Material de la suela: goma
+- Ancho del zapato: normal
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07T6NP8G5/?tag=tolees-21)

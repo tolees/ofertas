@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Orbegozo RA 2500 E  Radiador de Aceite   con un 19.24 % de descuento'
-date: 2020-12-26 03:00:25
+date: 2021-01-05 06:10:32
 image: 'https://m.media-amazon.com/images/I/41YukP0rRtL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M0CWZR3/?tag=tolees-21'
 descuento: '19.24'
-average: '52.4335294117647'
+average: '52.5266037735849'
 ---
 
 En este momento está [Orbegozo RA 2500 E  Radiador de Aceite  Construcción Modular de 11 Elementos  2500 W  Blanco](https://www.amazon.es/dp/B01M0CWZR3/?tag=tolees-21) a 54.9 EUR (original: 67.98 EUR) (19.24 %  de descuento) en el siguiente enlace!
@@ -25,9 +25,9 @@ En este momento está [Orbegozo RA 2500 E  Radiador de Aceite  Construcción Mod
 
 🔎:
 
-- Radiador de aceite en color blanco, con 4 ruedas pivotantes, asa para transporte y recoge cables
-- Potencia de 2500 W
 - Termostato regulable de alta precisión
+- Potencia de 2500 W
 - Termofusible de seguridad con limitador y piloto luminoso de encendido
+- Radiador de aceite en color blanco, con 4 ruedas pivotantes, asa para transporte y recoge cables
 
 [Aquí!!!](https://www.amazon.es/dp/B01M0CWZR3/?tag=tolees-21)

@@ -25,10 +25,10 @@ Ahora mismo tienes [Kensington K64955WW - Candado de Seguridad retráctil con Ll
 
 🔎:
 
-- Cable de acero retráctil de 4 pies
 - Diseño compacto que viaja fácilmente
 - Funciona con el 99% de los ordenadores portátiles
 - Solo un clic para asegurar tu portátil
+- Cable de acero retráctil de 4 pies
 - Cierre de seguridad de acero templado
 
 [Visítala!!!](https://www.amazon.es/dp/B0087XPZ2U/?tag=tolees-21)
