@@ -25,10 +25,10 @@ Está [LE CREUSET WA126 Funda enfriadora para Botellas de Vino o Cava  Tejido Im
 
 ℹ️:
 
-- Composición de tejido impermeable y antimanchas de buen calidad
-- Resistente y extensible, forma estudiada para resfrescar la botella hasta el cuello, apta para botellas estándar de 75 cl y magnums
-- Mantener en el congelador, contiene un gel que enfría la botella en pocos minutos
-- Funda enfriadora Le Creuset para mantener frescas las botellas de vino tranquilo o espumoso
 - Contenido: 1 x Funda enfriadora Le Creuset, color: Burdeos, WA-126
+- Funda enfriadora Le Creuset para mantener frescas las botellas de vino tranquilo o espumoso
+- Mantener en el congelador, contiene un gel que enfría la botella en pocos minutos
+- Resistente y extensible, forma estudiada para resfrescar la botella hasta el cuello, apta para botellas estándar de 75 cl y magnums
+- Composición de tejido impermeable y antimanchas de buen calidad
 
 [Ver la oferta!!](https://www.amazon.es/dp/B005GUA6BC/?tag=tolees-21)

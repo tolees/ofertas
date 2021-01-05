@@ -1,28 +1,31 @@
 ---
 layout: post
-title: 'Clarks Un Costa Lace  Zapatillas  Marrón al 26.71 % de descuento'
-date: 2020-12-02 00:37:50
+title: 'Clarks Un Costa Lace  Zapatillas  Marrón al 50.03 % de descuento'
+date: 2021-01-05 15:15:49
 image: 'https://m.media-amazon.com/images/I/31TRMpPeVZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07TKNDKXD-es'
-actualPrice: 73.25 EUR
+actualPrice: 49.95 EUR
 currency: EUR
-price: 73.25
+price: 49.95
 comparePrice: 99.95 EUR
 prodname: 'Clarks Un Costa Lace  Zapatillas  Marrón  British Tan Lea British Tan Lea   41.5 EU'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07TKNDKXD/?tag=tolees-21'
-descuento: '26.71'
+descuento: '50.03'
+average: '61.6'
 ---
 
-Está [Clarks Un Costa Lace  Zapatillas  Marrón  British Tan Lea British Tan Lea   41.5 EU](https://www.amazon.es/dp/B07TKNDKXD/?tag=tolees-21) con 26.71 de descuento por 73.25 EUR (original: 99.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Clarks Un Costa Lace  Zapatillas  Marrón  British Tan Lea British Tan Lea   41.5 EU](https://www.amazon.es/dp/B07TKNDKXD/?tag=tolees-21) a 49.95 EUR (original: 99.95 EUR) (50.03 %  de descuento) en el siguiente enlace!
 
 [![Clarks Un Costa Lace  Zapatillas  Marrón](https://m.media-amazon.com/images/I/31TRMpPeVZL._SL200_.jpg)](https://www.amazon.es/dp/B07TKNDKXD/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Color exacto: piel de titanio británica
+- Material de la suela: EVA
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07TKNDKXD/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07TKNDKXD/?tag=tolees-21)

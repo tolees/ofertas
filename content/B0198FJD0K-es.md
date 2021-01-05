@@ -25,10 +25,10 @@ Tienes [Edge Entertainment EDGRC01- Robinson Crusoe  Aventuras en la isla maldit
 
 ℹ️:
 
-- Explora la isla: Descubre nuevos terrenos; busca nuevos recursos; encuentra la mejor ubicación para tu campamento
-- Producto en castellano
-- Crea refugios para protegerte de la lluvia, el viento y el frío; erige una empalizada para alejar a los animales salvajes; busca comida en la isla y haz acopio de reservas para el invierno
 - A partir de 14 años
+- Crea refugios para protegerte de la lluvia, el viento y el frío; erige una empalizada para alejar a los animales salvajes; busca comida en la isla y haz acopio de reservas para el invierno
+- Producto en castellano
 - Descubre sus secretos: Descubre el destino de otros náufragos; explora construcciones de tribus salvajes; encuentra tesoros ocultos
+- Explora la isla: Descubre nuevos terrenos; busca nuevos recursos; encuentra la mejor ubicación para tu campamento
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0198FJD0K/?tag=tolees-21)
