@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Superga 2750 COTU Classic  Zapatillas Un al 28.81 % de descuento'
-date: 2020-12-08 09:51:41
+title: 'Descuento del 28.81 % en Superga 2750 COTU Classic  Zapatillas Un'
+date: 2021-01-05 08:23:03
 image: 'https://m.media-amazon.com/images/I/31bOz06WqpL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,13 +16,20 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B002WGHYO0/?tag=tolees-21'
 descuento: '28.81'
+average: '42.256666666666675'
 ---
 
-Ahora mismo tienes [Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Negro 996  40 EU](https://www.amazon.es/dp/B002WGHYO0/?tag=tolees-21) a 42.0 EUR (original: 59.0 EUR) (28.81 %  de descuento) en el siguiente enlace!
+Tienes [Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Negro 996  40 EU](https://www.amazon.es/dp/B002WGHYO0/?tag=tolees-21) con un 28.81 % de descuento con precio de oferta de 42.0 EUR (original: 59.0 EUR) en el siguiente enlace!
 
 [![Superga 2750 COTU Classic  Zapatillas Un](https://m.media-amazon.com/images/I/31bOz06WqpL._SL200_.jpg)](https://www.amazon.es/dp/B002WGHYO0/?tag=tolees-21)
 
 ℹ️:
 
+- Revestimiento: Sin forro
+- Cierre: Cordones
+- Material exterior: Lona
+- Material de la suela: Goma
+- Tipo de talla: talla estándar
+- Tipo de tacón: Plano
 
-[Visítala!!!](https://www.amazon.es/dp/B002WGHYO0/?tag=tolees-21)
+[Accede a la oferta!!](https://www.amazon.es/dp/B002WGHYO0/?tag=tolees-21)

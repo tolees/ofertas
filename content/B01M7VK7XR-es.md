@@ -25,10 +25,10 @@ Ahora mismo tienes [Festina Reloj Análogo clásico para Mujer de Cuarzo con Cor
 
 🔎:
 
-- Resistente al agua: 30m
-- Brazalete Dorado Acero inoxidable bañado en oro
-- Movimiento Cuarzo
-- Caja Acero chapado en oro, esfera Plateado
 - Diámetro caja: 20mm
+- Caja Acero chapado en oro, esfera Plateado
+- Resistente al agua: 30m
+- Movimiento Cuarzo
+- Brazalete Dorado Acero inoxidable bañado en oro
 
 [Visítala!!!](https://www.amazon.es/dp/B01M7VK7XR/?tag=tolees-21)
