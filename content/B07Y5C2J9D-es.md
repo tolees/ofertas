@@ -26,9 +26,9 @@ Tienes [GRIDINLUX. Elite Chef Munich. Batería de Cocina. Acero Inoxidable  8 Pi
 🔎:
 
 - SISTEMA OPTIMAL HEAT: Distribución homogénea del calor en toda su base para un cocinado óptimo. Sometida a test extremos de calidad, dureza, anti corrosión, resistencia al agua, resistencia y optimización del tratamiento.
-- PREMIUM: Fabricada en acero inoxidable Premium y encapsulado reforzado, para una mayor durabilidad y ligereza.
-- 8 PIEZAS: Batería de cocina de 8 piezas formada por: 1 cacerola de 24 cm Ø, dos ollas de 22 y 18 cm Ø, 1 cazo de 16 cm Ø y 4 tapas de cristal de vidrio templado y salida de vapor.
 - DISEÑO MODERNO y alegre. Asas y mangos recubiertos de silicona ergonómicos y termoaislantes de color rojo.
 - MENOS GRASAS: Cocina más saludable gracias a su superficie antiadherente, necesitarás menos grasa para cocinar tus alimentos: Cocina carnes, pescados, verduras, legumbres, pastas, sopas, arroces, y todo tipo de recetas de la manera más natural, conservando los nutrientes. Ideal para cocina dietética.
+- PREMIUM: Fabricada en acero inoxidable Premium y encapsulado reforzado, para una mayor durabilidad y ligereza.
+- 8 PIEZAS: Batería de cocina de 8 piezas formada por: 1 cacerola de 24 cm Ø, dos ollas de 22 y 18 cm Ø, 1 cazo de 16 cm Ø y 4 tapas de cristal de vidrio templado y salida de vapor.
 
 [Comprar!!!](https://www.amazon.es/dp/B07Y5C2J9D/?tag=tolees-21)

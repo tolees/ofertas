@@ -25,10 +25,10 @@ En este momento está [Bola de cristal de Sititch  Disney Traditions  Enesco](ht
 
 🔎:
 
-- Caja de regalo de marca.
 - Figura tradicional de Disney.
-- Hecha y pintada a mano.
 - Diseñado por Jim Shore.
+- Caja de regalo de marca.
 - Patrón inspirado en el pueblo con colores intensos.
+- Hecha y pintada a mano.
 
 [Aquí!!!](https://www.amazon.es/dp/B083SJJX93/?tag=tolees-21)

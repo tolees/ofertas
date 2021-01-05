@@ -26,9 +26,9 @@ Está [FAGORY Linterna LED Alta Potencia - Mini Potentes 2000 Lúmenes Antorcha 
 ℹ️:
 
 - 【Ultra-Brillante Fuente LED】Fabricado con una potencia lumínica máxima de 2000 lumens bombilla LED, posee una vida útil de más de 50,000 horas. Su foco ajustable, le permitirá regular la intensidad de brillo como desee, pudiendo ajustarlo hasta una distancia de 250 metros.
-- 【Haz de Luz Ajustable con Múltiples Modos】Podrá focalizarlo para observación a larga distancia, o aumentarlo para iluminar un área. Tiene 5 modos de iluminación: Fuerte, Mediano, Débil, Flash y SOS.
 - 【Portable to Carry】Fácil de transportar con usted como copia de seguridad y es lo suficientemente pequeño para caber en su bolsillo, bolso, cajón o compartimiento del coche. Toma 3 estándar AAA (no incluido).
 - 【Uso Práctico】Perfecto para acampar, senderismo, pesca, correr, caminar con perros, apagones, emergencias, búsquedas específicas y uso general del hogar.
+- 【Haz de Luz Ajustable con Múltiples Modos】Podrá focalizarlo para observación a larga distancia, o aumentarlo para iluminar un área. Tiene 5 modos de iluminación: Fuerte, Mediano, Débil, Flash y SOS.
 - 【Impermeable y Resistente a Los Golpes】Diseñado para una manipulación brusca, es perfecto para su uso en situaciones de lluvia, nieve o emergencia. Puede ser completamente sumergido bajo el agua por un corto período.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B079CDFNR6/?tag=tolees-21)

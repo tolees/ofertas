@@ -25,10 +25,10 @@ Tienes [MSI WT75 8SK-004ES - Ordenador portátil de 17.3" FullHD  Intel Core i7-
 
 🔎:
 
-- Sistema operativo Windows 10 Pro sin ODD
 - Memoria RAM de 32 GB (16 GB x 2) DDR4
-- Procesador Intel Core i7-8700 (6 núcleos, 12 MB Cache, 3.2 GHz hasta 4.6 GHz)
-- Disco SDD de 256 GB, disco HDD de 1 TB (7200 rpm)
+- Sistema operativo Windows 10 Pro sin ODD
 - Tarjeta gráfica Nvidia Quadro P3200 de 6 GB GDDR10
+- Disco SDD de 256 GB, disco HDD de 1 TB (7200 rpm)
+- Procesador Intel Core i7-8700 (6 núcleos, 12 MB Cache, 3.2 GHz hasta 4.6 GHz)
 
 [Comprar!!!](https://www.amazon.es/dp/B07G7N6BW9/?tag=tolees-21)

@@ -25,9 +25,9 @@ Ahora mismo tienes [Wipp Express Detergente Líquido Lavanda - 50 Lavados  2 5 L
 
 🔎:
 
-- Perfume más duradero: Nuevo perfume con aroma lavanda, más intenso y con tecnología de larga duración.
 - Poder Quitamanchas: Nuevo tensioactivo con mayor efecto anti manchas en todo tipo de tejidos
-- Protege las fibras: Cuida los tejidos protegiendo y reparando las fibras de tus prendas
 - Limpieza Brillante: Más brillo en las prendas gracias a su fórmula con blanqueante óptico mejorado
+- Perfume más duradero: Nuevo perfume con aroma lavanda, más intenso y con tecnología de larga duración.
+- Protege las fibras: Cuida los tejidos protegiendo y reparando las fibras de tus prendas
 
 [Visítala!!!](https://www.amazon.es/dp/B077X87PZQ/?tag=tolees-21)

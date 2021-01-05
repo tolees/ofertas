@@ -25,9 +25,9 @@ Tienes [Rexona Tropical Antitranspirante Roll On para mujer  protección 48 hora
 
 ℹ️:
 
-- El desodorante aporta hasta 48 horas de protección
 - Dermatológicamente comprobado
-- Género: Mujer
 - Apto para el uso diario
+- Género: Mujer
+- El desodorante aporta hasta 48 horas de protección
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B007HBXWF0/?tag=tolees-21)

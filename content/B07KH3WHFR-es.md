@@ -25,10 +25,10 @@ En este momento está [Under Armour Qualifier WG Perf  Pantalones Cortos Hombre 
 
 🔎:
 
-- Confección con tejido elástico en 4 direcciones que permite una mayor movilidad
-- Material que capilariza el sudor y se seca rápidamente
-- Cintura elástica con revestimiento y cordón interior
-- Elástico expuesto en la cintura interior para un detalle de contraste
 - Tejido elástico y ultraligero para un movimiento total y sin restricciones
+- Material que capilariza el sudor y se seca rápidamente
+- Elástico expuesto en la cintura interior para un detalle de contraste
+- Confección con tejido elástico en 4 direcciones que permite una mayor movilidad
+- Cintura elástica con revestimiento y cordón interior
 
 [Aquí!!!](https://www.amazon.es/dp/B07KH3WHFR/?tag=tolees-21)

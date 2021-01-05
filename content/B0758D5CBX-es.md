@@ -25,8 +25,8 @@ Tienes [Superga 2754-Cotu  Zapatillas Altas Unisex Adulto  Negro  996 Full Black
 
 ℹ️:
 
+- hombre, mujer, Unisex.
 - superga.
 - Azul oscuro.
-- hombre, mujer, Unisex.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0758D5CBX/?tag=tolees-21)

@@ -25,8 +25,8 @@ En este momento está [Asics Dynablast  Sneaker Hombre  Black/Lime Zest  44.5 EU
 
 🔎:
 
+- FLYTEFOAM BLAST
 - Suela de goma sólida
 - AMPLIFOAM Tecnología de amortiguación
-- FLYTEFOAM BLAST
 
 [Aquí!!!](https://www.amazon.es/dp/B088Y88KSF/?tag=tolees-21)

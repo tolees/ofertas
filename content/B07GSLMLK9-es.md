@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rubies - Disfraz de Batman Deluxe para n al 20.11 % de rebaja'
-date: 2021-01-02 19:03:44
+date: 2021-01-05 10:43:07
 image: 'https://m.media-amazon.com/images/I/41JHLVhTBqL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GSLMLK9/?tag=tolees-21'
 descuento: '20.11'
-average: '36.63249999999999'
+average: '35.69599999999999'
 ---
 
 Tienes [Rubies - Disfraz de Batman Deluxe para niño  5-6 años  Rubies 300002-M ](https://www.amazon.es/dp/B07GSLMLK9/?tag=tolees-21) con precio final de  31.95 EUR (original: 39.99 EUR) (20.11 %  de rebaja) aqui!

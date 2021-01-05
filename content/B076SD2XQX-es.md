@@ -25,7 +25,7 @@ Ahora mismo tienes [Unno DIM Basic Algodón Elástico Braguita  Blanco  Negro/Bl
 
 🔎:
 
-- No planchar; no limpieza en seco
 - Lavar máximo 40º; no usar lejía; no usar secadora
+- No planchar; no limpieza en seco
 
 [Visítala!!!](https://www.amazon.es/dp/B076SD2XQX/?tag=tolees-21)
