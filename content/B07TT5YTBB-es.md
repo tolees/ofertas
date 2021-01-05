@@ -27,7 +27,7 @@ Tienes [Daniel Wellington Petite Dover  Reloj Blanco/Oro Rosado  32mm  NATO  par
 
 - Tamaño de Esfera: 32 mm
 - Correa intercambiable
-- Longitud de la correa ajustable: (Min - Max) 143-190mm
 - Diseñadas Suecia, las piezas de Daniel Wellington presentan un estilo escandinavo minimalista y son el regalo o accesorio personal óptimo para cada ocasión
+- Longitud de la correa ajustable: (Min - Max) 143-190mm
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07TT5YTBB/?tag=tolees-21)

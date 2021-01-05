@@ -25,10 +25,10 @@ Ahora mismo tienes [KATIVA Alisado Brasileño de Pelo  Hidratante con Keratina y
 
 🔎:
 
-- FACIL APLICACIÓN; Este kit contiene Champú 50 ml + Máscara de Tratamiento 150 ml + Acondicionador 30 ml. Instrucciones paso a paso incluidas en el Kit. Para que el alisado sea efectivo es importante que sigas los pasos como indican las instrucciones.
 - LISO PERFECTO, con la misma efectividad que los alisados realizados por profesionales (pero sin gastar una fortuna); este producto esta diseñado para obtener un alisado de keratina que dura hasta 10 semanas.
+- HIDRATANTE; para un cabello liso con movimiento natural, hidratado, brillante y sedoso. Olvídate de las planchas y del secador de pelo por al menos 10 semanas.
+- FACIL APLICACIÓN; Este kit contiene Champú 50 ml + Máscara de Tratamiento 150 ml + Acondicionador 30 ml. Instrucciones paso a paso incluidas en el Kit. Para que el alisado sea efectivo es importante que sigas los pasos como indican las instrucciones.
 - CON INGREDIENTES NATURALES, todos nuestros productos están elaborados con ingredientes de alta calidad y bajo exahustivos controles; Libre De Parabenos, sulfatos, de Formol, sal y guanidina. SIN vapores tóxicos. CON Aceite Orgánico de Argán, Manteca de Karité, Proteína de Keratina Vegetal, Aminoácidos y Glyoxilic. La Proteína de Keratina Vegetal con aminoácidos de trigo y soja, ayuda a hidratar, dar brillo y suavidad al cabello.
 - Por favor tiene en cuenta que el embalaje puede variar
-- HIDRATANTE; para un cabello liso con movimiento natural, hidratado, brillante y sedoso. Olvídate de las planchas y del secador de pelo por al menos 10 semanas.
 
 [Visítala!!!](https://www.amazon.es/dp/B017KK5T2G/?tag=tolees-21)

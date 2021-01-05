@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Martina D Antiochia  La Diversión de Mar al 16.00 % de rebaja'
-date: 2021-01-03 04:49:21
+date: 2021-01-05 00:59:25
 image: 'https://m.media-amazon.com/images/I/41TvRep5-tL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ Tienes [Martina D Antiochia  La Diversión de Martina  Grey-Estuche Portatodo Tr
 
 🔎:
 
-- Forro interior
 - Dimensiones: 11 x 23,5 x 5 cm
-- Portatodo plano para lápices
+- Forro interior
 - 3 compartimentos y cierre con cremallera
+- Portatodo plano para lápices
 
 [Comprar!!!](https://www.amazon.es/dp/B07XCRLPG9/?tag=tolees-21)
