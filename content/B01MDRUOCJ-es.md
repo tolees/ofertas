@@ -25,8 +25,8 @@ Está [Lacoste TH6712 Camiseta  Azul  Marine   Large  Talla del Fabricante: 5  p
 
 ℹ️:
 
+- Camiseta para hombres, marca Lacoste
 - Cocodrilo verde bordado en el pecho
 - Ajuste regular
-- Camiseta para hombres, marca Lacoste
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01MDRUOCJ/?tag=tolees-21)

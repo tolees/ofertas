@@ -25,10 +25,10 @@ Tienes [Auriculares Manos libres Estéreo EHS64AVFWE Samsung en EU BLISTER para 
 
 ℹ️:
 
+- Sonido estéreo.
+- Botón para responder / finalizar llamada.
 - Suave ear-gels ayuda aislamiento de ruido.
 - Mando a distancia con función de micrófono.
 - Accesorio original de Samsung.
-- Sonido estéreo.
-- Botón para responder / finalizar llamada.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00GSPGJCE/?tag=tolees-21)

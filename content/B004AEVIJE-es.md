@@ -26,9 +26,9 @@ Tienes [STANLEY FATMAX 0-20-108 - Sierra multifunción](https://www.amazon.es/dp
 🔎:
 
 - Accesorio original de Stanley
-- Longitud de la hoja: 3 mm
 - Profundidad de corte máx.: 12 mm
-- Las hojas de sierra pueden ser guardadas en el cuerpo
+- Longitud de la hoja: 3 mm
 - Número de dientes/pulgada: 24
+- Las hojas de sierra pueden ser guardadas en el cuerpo
 
 [Comprar!!!](https://www.amazon.es/dp/B004AEVIJE/?tag=tolees-21)

@@ -25,9 +25,9 @@ Tienes [SD toys - The Big Bang Theory  Disfraz Flash Protagonistas  Taza de cer�
 
 🔎:
 
+- Taza con motivos de The Big Bang Theory
+- Merchandising oficial de The Big Bang Theory
 - Peso del Paquete: 1.014 pounds
 - Fácil de usar
-- Merchandising oficial de The Big Bang Theory
-- Taza con motivos de The Big Bang Theory
 
 [Comprar!!!](https://www.amazon.es/dp/B009DZJBT4/?tag=tolees-21)

@@ -26,9 +26,9 @@ Está [Airthings Wave Plus Smart Radon  detector de CO2 y TVOCs con sensores de 
 ℹ️:
 
 - Recibe notificaciones de calidad del aire, actualizaciones de datos y baja potencia de la batería
-- AirThings Wave Plus tiene 6 sensores integrados para radon, CO2, TVOCs, temperatura, humedad y presión de aire
-- Radon es la principal causa de cáncer de pulmón entre los no fumadores y se encuentra en cada hogar
 - Utiliza la aplicación o onda gratuita en la parte frontal del detector para notificaciones codificadas por colores (verde/amarillo/rojo)
 - El gas de radón fluctúa diariamente y necesita una vigilancia constante para minimizar los efectos de salud
+- AirThings Wave Plus tiene 6 sensores integrados para radon, CO2, TVOCs, temperatura, humedad y presión de aire
+- Radon es la principal causa de cáncer de pulmón entre los no fumadores y se encuentra en cada hogar
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07JB8QWH6/?tag=tolees-21)

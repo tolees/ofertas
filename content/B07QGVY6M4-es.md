@@ -25,9 +25,9 @@ Tienes [Catunambú  Cápsulas de café  Leche  - 160 gr](https://www.amazon.es/d
 
 🔎:
 
-- Una vez abierto, conservar en lugar fresco y seco
-- País de origen: España
 - Ingredientes: café
+- País de origen: España
+- Una vez abierto, conservar en lugar fresco y seco
 - Alérgenos: no posee
 
 [Comprar!!!](https://www.amazon.es/dp/B07QGVY6M4/?tag=tolees-21)

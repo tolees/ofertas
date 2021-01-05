@@ -25,10 +25,10 @@ Tienes [Chicco Dj Mixy- Piano interactivo con luces y melodías y 2 modos de jue
 
 🔎:
 
-- Acelera o desacelera el ritmo
-- Mesa de mezclas y piano DJ
 - Con luces led al ritmo de la música
 - Descubre su propio estilo musical
 - 4 estilos musicales con 8 melodías
+- Mesa de mezclas y piano DJ
+- Acelera o desacelera el ritmo
 
 [Comprar!!!](https://www.amazon.es/dp/B07B14DJSM/?tag=tolees-21)

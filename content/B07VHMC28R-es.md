@@ -25,9 +25,9 @@ En este momento está [Napapijri Agadir Chaqueta  Azul  Blu Marine 1761   X-Larg
 
 🔎:
 
-- AGADIR
-- Uomo
 - GIUBBOTTERIA
+- Uomo
+- AGADIR
 - Poliammide
 
 [Aquí!!!](https://www.amazon.es/dp/B07VHMC28R/?tag=tolees-21)

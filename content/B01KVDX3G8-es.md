@@ -25,10 +25,10 @@ En este momento está [Presidente Marti Añejo Ron Oscuro - 700 ml](https://www.
 
 🔎:
 
-- Dulce y salado con toques de vainilla y pastel de frutas acabado
-- Suave con notas de melón, pasas y azúcar de jengibre
 - Ideal para cóctel
-- Intenso y dulce aroma de caramelo, vainilla y naranja
+- Dulce y salado con toques de vainilla y pastel de frutas acabado
 - Sistema de maduración dividido en barricas de roble francés y americano
+- Suave con notas de melón, pasas y azúcar de jengibre
+- Intenso y dulce aroma de caramelo, vainilla y naranja
 
 [Aquí!!!](https://www.amazon.es/dp/B01KVDX3G8/?tag=tolees-21)
