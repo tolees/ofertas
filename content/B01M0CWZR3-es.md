@@ -25,9 +25,9 @@ En este momento está [Orbegozo RA 2500 E  Radiador de Aceite  Construcción Mod
 
 🔎:
 
-- Termostato regulable de alta precisión
+- Radiador de aceite en color blanco, con 4 ruedas pivotantes, asa para transporte y recoge cables
 - Potencia de 2500 W
 - Termofusible de seguridad con limitador y piloto luminoso de encendido
-- Radiador de aceite en color blanco, con 4 ruedas pivotantes, asa para transporte y recoge cables
+- Termostato regulable de alta precisión
 
 [Aquí!!!](https://www.amazon.es/dp/B01M0CWZR3/?tag=tolees-21)

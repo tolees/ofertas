@@ -25,10 +25,10 @@ Ahora mismo tienes [Funko- Pop Deluxe: Game of S10: Daenerys Sitting On Throne F
 
 🔎:
 
-- Funko pop deluxe
 - Daenerys sitting on throne
-- De la colección game of thrones, daenerys como figura exclusiva de vinilo pop deluxe de funko
+- Funko pop deluxe
 - Juguete del año 2018
+- De la colección game of thrones, daenerys como figura exclusiva de vinilo pop deluxe de funko
 - Game of thrones s10
 
 [Visítala!!!](https://www.amazon.es/dp/B07KPHPDMZ/?tag=tolees-21)

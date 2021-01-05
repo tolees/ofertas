@@ -25,8 +25,8 @@ Tienes [Oral-B Protección Profesional Pasta Dentífrica  Pack de 6](https://www
 
 ℹ️:
 
-- Contiene una combinación única de fluoruro de estaño y otros ingredientes activos
 - Con sabor a menta fresca para un aliento fresco
+- Contiene una combinación única de fluoruro de estaño y otros ingredientes activos
 - 24 horas de protección contra la placa al cepillarse dos veces al día
 - La pasta dentífrica con nuestra tecnología más avanzada
 
