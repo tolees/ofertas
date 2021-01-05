@@ -27,9 +27,9 @@ Ahora mismo tienes [Dodot Activity Toallitas para Bebé 16 Paquetes de 54 Unidad
 
 - Óptima protección de la piel de Dodot
 - Ayuda instantáneamente a recuperar el pH natural en pieles delicadas
-- Testado dermatológicamente y 0% de fenoxietanol, parabenos y alcohol
 - Su loción ayuda a prevenir la irritación de la piel
 - Limpia de manera eficaz la piel gracias a su textura extra gruesa y suave
 - Con aroma refrescante para una experiencia agradable a la hora de cambiar el pañal
+- Testado dermatológicamente y 0% de fenoxietanol, parabenos y alcohol
 
 [Visítala!!!](https://www.amazon.es/dp/B082N3BNH2/?tag=tolees-21)

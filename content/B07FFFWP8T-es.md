@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'El Desenlace Del Ladrón Hits - Edición U con un 30.28 % de descuento'
-date: 2021-01-03 23:32:59
+date: 2021-01-05 01:01:47
 image: 'https://m.media-amazon.com/images/I/51gm0wA29xL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FFFWP8T/?tag=tolees-21'
 descuento: '30.28'
-average: '15.49965317919075'
+average: '15.481485714285713'
 ---
 
 En este momento está [El Desenlace Del Ladrón Hits - Edición Uncharted 4  Versión 16](https://www.amazon.es/dp/B07FFFWP8T/?tag=tolees-21) a 13.91 EUR (original: 19.95 EUR) (30.28 %  de descuento) en el siguiente enlace!
@@ -26,9 +26,9 @@ En este momento está [El Desenlace Del Ladrón Hits - Edición Uncharted 4  Ver
 🔎:
 
 - Plataforma: PlayStation 4
-- Género: acción/aventura
 - Rango ESRB: T (adolescente)
 - Clasificación PEGI: 16
 - Edición del juego: básica
+- Género: acción/aventura
 
 [Aquí!!!](https://www.amazon.es/dp/B07FFFWP8T/?tag=tolees-21)

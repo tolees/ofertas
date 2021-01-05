@@ -25,10 +25,10 @@ Ahora mismo tienes [Casio GA-400-1BER G-Shock – Reloj Hombre Correa de Resina 
 
 🔎:
 
-- Carcasa resistente a golpes que protege contra impactos y vibraciones
 - Funciones de hora universal, de rueda de desplazamiento, de movimiento de la aguja
-- La duración de la batería es de 3 años
-- Resistente al agua hasta 20 bar / 200 metros
 - Incluye luz LED automática, cronómetro, temporizadores y 5 alarmas diarias
+- Resistente al agua hasta 20 bar / 200 metros
+- La duración de la batería es de 3 años
+- Carcasa resistente a golpes que protege contra impactos y vibraciones
 
 [Visítala!!!](https://www.amazon.es/dp/B00SSX257M/?tag=tolees-21)
