@@ -25,10 +25,10 @@ Está [Revlon ColorStay Base de Maquillaje piel mixto/graso FPS15  #340 Early Ta
 
 ℹ️:
 
-- Fabricada específicamente para la piel mixta o grasa para controlar el brillo y la absorción de aceite
-- Viene en frasco de 30 ml en varios tonos, para combinar con cualquier tono de piel
-- Proporciona una sensación cómoda y al mismo tiempo ilumina la piel
 - Agitar bien antes de aplicar. Para una aplicación perfecta, extienda la base de maquillaje con los dedos o con una esponja o brocha de maquillaje.
+- Viene en frasco de 30 ml en varios tonos, para combinar con cualquier tono de piel
+- Fabricada específicamente para la piel mixta o grasa para controlar el brillo y la absorción de aceite
+- Proporciona una sensación cómoda y al mismo tiempo ilumina la piel
 - Especialmente formulado para mixto o piel graso, esta fórmula hidratante mantiene su humedad de la piel nivel equilibrado con un hermoso acabado satinado
 
 [Ver la oferta!!](https://www.amazon.es/dp/B012T1DCOI/?tag=tolees-21)

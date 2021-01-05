@@ -25,9 +25,9 @@ Ahora mismo tienes [Babaria para Pies Desodorante Spray para Pies con Talco  150
 
 🔎:
 
-- Género, Unisex
-- Babaria es un nombre de marca reconocido
 - Marca, BABARIA
 - Tipo de producto, Desodorante spray para pies con talco
+- Género, Unisex
+- Babaria es un nombre de marca reconocido
 
 [Visítala!!!](https://www.amazon.es/dp/B00BEXE7HO/?tag=tolees-21)

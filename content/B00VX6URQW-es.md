@@ -25,11 +25,11 @@ Está [Revlon ColorStay Base de Maquillaje piel normal/seca FPS20  #330 Natural 
 
 ℹ️:
 
+- Mantiene la piel libre de brillo, no se agrieta, no corre, no obstruye los poros
+- stá fortificado con SPF 15, Libre de fragancia y aceites
+- Proporciona cobertura media a completa
+- SoftFlex para polímeros base para un máximo confort en la piel y Time release para piel equilibrada
 - Gitar bien antes de aplicar. Para una aplicación perfecta, extienda la base de maquillaje con los dedos o con una esponja o brocha de maquillaje
 - Esta base de maquillaje líquida se usa hasta por 24 horas
-- Mantiene la piel libre de brillo, no se agrieta, no corre, no obstruye los poros
-- SoftFlex para polímeros base para un máximo confort en la piel y Time release para piel equilibrada
-- Proporciona cobertura media a completa
-- stá fortificado con SPF 15, Libre de fragancia y aceites
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00VX6URQW/?tag=tolees-21)

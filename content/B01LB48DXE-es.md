@@ -26,9 +26,9 @@ En este momento está [Taurus Rabat-Emisor térmico  600 W  4 Elementos  Tempori
 🔎:
 
 - Sin fluidos, tecnologia seca
-- Resistencia en aluminio
 - 4 elementos
-- Temporizador digital: 24h
 - Potencia 600 W
+- Resistencia en aluminio
+- Temporizador digital: 24h
 
 [Aquí!!!](https://www.amazon.es/dp/B01LB48DXE/?tag=tolees-21)

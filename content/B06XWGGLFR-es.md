@@ -25,8 +25,8 @@ Está [Los Vengadores  Avengers  Vaso con tapa y caña 430 ml  Stor 87730 ](http
 
 ℹ️:
 
-- Con diseño Los Vengadores (Avengers)
 - Licencia 100% original
+- Con diseño Los Vengadores (Avengers)
 - Materiales de alta calidad
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06XWGGLFR/?tag=tolees-21)
