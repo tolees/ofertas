@@ -25,10 +25,10 @@ Está [TROTEC Deshumidificador eléctrico TTK 28 E /10L / Desagüe 2 L/Portátil
 
 ℹ️:
 
-- El dispositivo tiene un controlado por higrostato. Se selecciona de antemano un valor fijo de humedad del aire con preselección del valor objetivo como objetivo. El rango de ajuste es entre 40 y 60% de humedad relativa, en pasos de 10%.
-- Una connessione di drenaggio integrata permette anche il funzionamento permanente non presidiato del TTK 28 E - la soluzione ideale per luso continuo, ad esempio in locali dove non è possibile svuotare regolarmente il contenitore.
-- En este paquete de ahorro se obtiene la estación meteorológica de diseño BZ06 a un precio especial. La pantalla digital le muestra la temperatura interior actual (en °C o °F), la humedad (en %), la fecha, el día de la semana, la hora y un pronóstico de las tendencias del tiempo.
-- El TTK 28 ha sido desarrollado especialmente para habitaciones pequeñas con calefacción - y convence por su gran potencia. Así mantiene secas de manera segura viviendas y oficinas de hasta 15 m² - con una capacidad de deshumidificación diaria de hasta 10 litros.
 - Una luz de aviso cuando el depósito de agua está lleno, así como la protección contra llenado excesivo con desconexión automática, se encargan de detener inmediatamente el funcionamiento.
+- El dispositivo tiene un controlado por higrostato. Se selecciona de antemano un valor fijo de humedad del aire con preselección del valor objetivo como objetivo. El rango de ajuste es entre 40 y 60% de humedad relativa, en pasos de 10%.
+- En este paquete de ahorro se obtiene la estación meteorológica de diseño BZ06 a un precio especial. La pantalla digital le muestra la temperatura interior actual (en °C o °F), la humedad (en %), la fecha, el día de la semana, la hora y un pronóstico de las tendencias del tiempo.
+- Una connessione di drenaggio integrata permette anche il funzionamento permanente non presidiato del TTK 28 E - la soluzione ideale per luso continuo, ad esempio in locali dove non è possibile svuotare regolarmente il contenitore.
+- El TTK 28 ha sido desarrollado especialmente para habitaciones pequeñas con calefacción - y convence por su gran potencia. Así mantiene secas de manera segura viviendas y oficinas de hasta 15 m² - con una capacidad de deshumidificación diaria de hasta 10 litros.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TSKL911/?tag=tolees-21)

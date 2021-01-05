@@ -25,10 +25,10 @@ Está [FEBER - Triciclo Baby Trike Easy Evolution  Color Rosa  Famosa 800009561 
 
 ℹ️:
 
-- Asiento reclinable y acolchado con giro 180º
-- Estructura metálica robusta y segura
-- Triciclo evolutivo que se adapta a tu bebé desde los 6 meses a los 5 años
 - Se convierte en bici; 4 en 1: carrito, carrito-triciclo, triciclo, bici
+- Triciclo evolutivo que se adapta a tu bebé desde los 6 meses a los 5 años
+- Asiento reclinable y acolchado con giro 180º
 - Pack musical para que los viajes sean más entretenidos
+- Estructura metálica robusta y segura
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00OKU1WWQ/?tag=tolees-21)
