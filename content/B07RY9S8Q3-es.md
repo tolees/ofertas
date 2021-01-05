@@ -25,8 +25,8 @@ En este momento está [Nike Wmns Free RN Flyknit 3.0  Zapatilla de Correr Mujer 
 
 🔎:
 
+- Amortiguación
 - Zapatillas de running
 - Transpirable.
-- Amortiguación
 
 [Aquí!!!](https://www.amazon.es/dp/B07RY9S8Q3/?tag=tolees-21)

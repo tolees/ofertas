@@ -25,10 +25,10 @@ Tienes [Cocoda Soporte de Pared para Dot 3.ª Generación  Solución de Ahorro d
 
 🔎:
 
-- Simple yet Functional: Easy setup, no drilling holes or screwing. You can install the speaker on the wall in seconds. Works with vertical and horizontal outlets, and great for kitchens, study, living room, bathrooms and bedrooms
-- Perfect Cord Arrangement: Built-in cable storage, allows you to wrap the messy wires in the back effortlessly, which frees up counter space and provides a much cleaner look, also keeps the dot safe from any potential damage due to liquid spills or food splatter
-- Speaker Wall Mount: Designed for Dot 3nd Gen ONLY (Device is not included)
 - Awesome Speaker Companion: Keeps your speaker on wall vertically, and lets it project louder when shes singing out facing you instead of yelling up from flat on her back, providing you better audition experience
 - Secure and Stable: Fit is snug, and retention is strong with the small fingers that "grab" the speaker. Compact design with a tailored hook portion for the original wall plug, makes the dot fit snug in the mount and the mount fit snug in the outlet
+- Speaker Wall Mount: Designed for Dot 3nd Gen ONLY (Device is not included)
+- Perfect Cord Arrangement: Built-in cable storage, allows you to wrap the messy wires in the back effortlessly, which frees up counter space and provides a much cleaner look, also keeps the dot safe from any potential damage due to liquid spills or food splatter
+- Simple yet Functional: Easy setup, no drilling holes or screwing. You can install the speaker on the wall in seconds. Works with vertical and horizontal outlets, and great for kitchens, study, living room, bathrooms and bedrooms
 
 [Comprar!!!](https://www.amazon.es/dp/B07JNZH9ZF/?tag=tolees-21)

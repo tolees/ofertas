@@ -25,10 +25,10 @@ En este momento está [MIQUELRIUS - Agenda 2021 Colour Marble - Español  Día P
 
 🔎:
 
-- AGENDA ANUAL 2021. Anualidad formato DÍA PÁGINA (Enero - Diciembre). Idioma agenda completamente trilingüe (Español/Inglés/Portugués). Festivos Nacionales y portugueses. Iconos que indican: cambio horario, inicio estaciones, año nuevo chino, carnaval y lluvia de estrellas (entre otros).
-- CONTIENE: hoja de datos personales, calendario 2 años, planning mensual, hojas para notas y para direcciones.
 - TAMAÑO HOJA: 90 x 140 mm. PAPEL: Color Marfil [70g/m] aportando ese toque de elegancia que resaltará tu escritura.
-- MIQUELRIUS - Agenda Anual 2021 Colour Marble - Español, Día Página, Tamaño 90 x 140 mm, Papel 70g, Cubierta Rígida Cartón Forrado, Color Azul Marino/Multicolor
 - CUBIERTA rígidas símil piel. Encuadernación cosida con cinta marcador. Dispone de una goma elástica para cerrar y bolsillo interior con fuelle portabolígrafos. Año en stamping.
+- MIQUELRIUS - Agenda Anual 2021 Colour Marble - Español, Día Página, Tamaño 90 x 140 mm, Papel 70g, Cubierta Rígida Cartón Forrado, Color Azul Marino/Multicolor
+- CONTIENE: hoja de datos personales, calendario 2 años, planning mensual, hojas para notas y para direcciones.
+- AGENDA ANUAL 2021. Anualidad formato DÍA PÁGINA (Enero - Diciembre). Idioma agenda completamente trilingüe (Español/Inglés/Portugués). Festivos Nacionales y portugueses. Iconos que indican: cambio horario, inicio estaciones, año nuevo chino, carnaval y lluvia de estrellas (entre otros).
 
 [Aquí!!!](https://www.amazon.es/dp/B08F1PBR3G/?tag=tolees-21)

@@ -25,10 +25,10 @@ Está [S&M 321535 Kit Tubería homologada de Gas Butano de 1 5 Metros-Ø 9mm con
 
 ℹ️:
 
-- Fecha de caducidad en tubo
+- Indicado para cocinas, calentadores y estufas de gas
 - 2 abrazaderas de unión para garantizar la estanqueidad de todo el equipo
 - Manguera de goma naranja flexible bicapa con un diámetro interior de diámetro 9 mm homologado según la norma europea (une-en12864) con fecha de caducidad en el tubo; medidas de 1,5 metros; incluye dos abrazaderas de unión con pestañas; indicado para cocinas y estufas de gas butano
-- Indicado para cocinas, calentadores y estufas de gas
 - El uso de la manguera no debe mantenerse más allá de la fecha de seguridad impresa
+- Fecha de caducidad en tubo
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FQ1CDQG/?tag=tolees-21)

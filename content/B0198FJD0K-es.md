@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 15.60 % en Edge Entertainment EDGRC01- Robinson Cru'
-date: 2021-01-04 07:33:32
+date: 2021-01-05 14:05:34
 image: 'https://m.media-amazon.com/images/I/51uQXSmx42L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0198FJD0K/?tag=tolees-21'
 descuento: '15.60'
-average: '47.775000000000006'
+average: '49.1875'
 ---
 
 Tienes [Edge Entertainment EDGRC01- Robinson Crusoe  Aventuras en la isla maldita   color/modelo surtido](https://www.amazon.es/dp/B0198FJD0K/?tag=tolees-21) con un 15.60 % de descuento con precio de oferta de 50.6 EUR (original: 59.95 EUR) en el siguiente enlace!
