@@ -25,8 +25,8 @@ En este momento está [Vans U Classic Slip-On - Mocasines Unisex  Color Negro  T
 
 🔎:
 
-- Vans Blanco Zapatillas Slip On clásicas
 - A estrenar y genuina. Somos un vendedor autorizado de Vans.
 - Ver descripción del producto para obtener más información.
+- Vans Blanco Zapatillas Slip On clásicas
 
 [Aquí!!!](https://www.amazon.es/dp/B000K7CR3G/?tag=tolees-21)

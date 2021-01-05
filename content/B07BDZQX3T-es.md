@@ -25,8 +25,8 @@ En este momento está [Microsoft Surface Precision Mouse  Gris](https://www.amaz
 
 🔎:
 
+- Batería recargable integrada, con cable e inalámbrica, con un tiempo de ejecución de hasta 3 meses
 - Desplazamiento preciso y fluido
 - Tres botones personalizables
-- Batería recargable integrada, con cable e inalámbrica, con un tiempo de ejecución de hasta 3 meses
 
 [Aquí!!!](https://www.amazon.es/dp/B07BDZQX3T/?tag=tolees-21)

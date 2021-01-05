@@ -25,10 +25,10 @@ Tienes [Sony A6000 - Cuerpo de cámara EVIL de 24 Mp  enfoque automático híbri
 
 🔎:
 
-- Sensor de 24 MP con tamaño 23.5 x 16.5 mm
-- Cuenta con la tecnología CMOS
-- Pantalla LCD de 3 pulgadas
 - Grabación de vídeo 1080p Full HD
 - Estabilizador de imagen óptico
+- Sensor de 24 MP con tamaño 23.5 x 16.5 mm
+- Pantalla LCD de 3 pulgadas
+- Cuenta con la tecnología CMOS
 
 [Comprar!!!](https://www.amazon.es/dp/B00IE9XHCM/?tag=tolees-21)

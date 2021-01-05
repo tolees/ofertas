@@ -25,9 +25,9 @@ En este momento está [Funko Pop! Anime: One Punch Man - Saitama casual  multico
 
 🔎:
 
-- Estilizado coleccionable mide 3 ¾ pulgadas de alto, perfecto para cualquier fan de One Punch Man
-- Colecciona y muestra todos los Pop de One Punch Man. Vinilos
 - Dimensiones del paquete: 8,9 x 16,5 x 11,8 cm (largo x alto x ancho)
 - De One Punch Man, Casual Saitama, como un Pop estilizado
+- Colecciona y muestra todos los Pop de One Punch Man. Vinilos
+- Estilizado coleccionable mide 3 ¾ pulgadas de alto, perfecto para cualquier fan de One Punch Man
 
 [Aquí!!!](https://www.amazon.es/dp/B0853VBZC8/?tag=tolees-21)

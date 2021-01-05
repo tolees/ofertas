@@ -25,11 +25,11 @@ Está [WMF Boston Cromargan - Cubertería 66 piezas para 12 comensales](https://
 
 ℹ️:
 
-- Apto para lavado en lavavajillas
+- Compuesto por 66 piezas para 12 personas con 12 tenedores, 12 cuchillos mesa, 12 cucharas, 12 tenedores de postre, 12 cucharas café; 1 cubierto para servir grande; 1 cuchara para servir; 1 tener para servir; 1 cazo de sopa y 1 pala
+- Diseño contemporáneo óptimo para todo tipo de cocinas y mesas
 - Diseñadorwmf atelier
+- Apto para lavado en lavavajillas
 - Acero inoxidable cromargan 18/10, un tipo de aleación patentada por wmf, que las hace más robustas, más resistentes al rayado y más fáciles de cuidar
 - Son forjados en una pieza y los cuchillos de mesa tienen hoja de acero inoxidable
-- Diseño contemporáneo óptimo para todo tipo de cocinas y mesas
-- Compuesto por 66 piezas para 12 personas con 12 tenedores, 12 cuchillos mesa, 12 cucharas, 12 tenedores de postre, 12 cucharas café; 1 cubierto para servir grande; 1 cuchara para servir; 1 tener para servir; 1 cazo de sopa y 1 pala
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01B1M6NMO/?tag=tolees-21)

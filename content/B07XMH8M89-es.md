@@ -25,10 +25,10 @@ Tienes [Coffee Crisis - Special Edition](https://www.amazon.es/dp/B07XMH8M89/?ta
 
 🔎:
 
-- ¡Disfruta de la aventura con un amigo gracias a su Cooperativo Local
-- ¡Encuentra modificadores aleatorios que podrían convertirte en una máquina de matar invencible o invocar un enjambre de furiosas vaqueras poseídas. ¡Nunca experimentarás la misma taza de masacre de café cósmico dos veces
-- Coffee crisis: special edition incluye juego, manual de instruciones, joystick grips personalizados, pin alienígena y banda sonora física
-- ¡Menea tu cabeza con esta increíble banda sonora llena de heavy metal
 - ¡Echa a puñetazos a los alienígenas en este Neo Rogue Brawler
+- ¡Menea tu cabeza con esta increíble banda sonora llena de heavy metal
+- ¡Encuentra modificadores aleatorios que podrían convertirte en una máquina de matar invencible o invocar un enjambre de furiosas vaqueras poseídas. ¡Nunca experimentarás la misma taza de masacre de café cósmico dos veces
+- ¡Disfruta de la aventura con un amigo gracias a su Cooperativo Local
+- Coffee crisis: special edition incluye juego, manual de instruciones, joystick grips personalizados, pin alienígena y banda sonora física
 
 [Comprar!!!](https://www.amazon.es/dp/B07XMH8M89/?tag=tolees-21)

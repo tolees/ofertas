@@ -25,8 +25,8 @@ En este momento está [Funko- Pop Animation: Rick & Morty-Hospice Morty Rick and
 
 🔎:
 
-- Check out the other rick morty figures from funko collect them all
 - Funko pop; is the 2018 toy of the year and peoples choice award winner
+- Check out the other rick morty figures from funko collect them all
 - Figure stands 9cm and comes in a window display box
 - From rick morty, hospice morty, as a stylized pop vinyl from funko
 
