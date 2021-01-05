@@ -25,10 +25,10 @@ Tienes [CASIO Reloj Hombre de Digital con Correa en Resina F-91WG-9QEF](https://
 
 🔎:
 
-- Cuarzo
+- LCD y Negro
+- WR 30mt
 - Casual
 - Digital en Resina para Unisex
-- WR 30mt
-- LCD y Negro
+- Cuarzo
 
 [Comprar!!!](https://www.amazon.es/dp/B07QK2BQ9K/?tag=tolees-21)

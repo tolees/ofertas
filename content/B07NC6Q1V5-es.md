@@ -25,10 +25,10 @@ Tienes [D-Link DCH-S161 - Detector de agua  Batería  AA  Alcalino  68 mm  31 mm
 
 ℹ️:
 
-- Se conecta al Wi-Fi de la caja.
-- Notificación instantánea cuando se detecta agua.
 - Mydlink - Detector de fugas de agua Wi-Fi
+- Se conecta al Wi-Fi de la caja.
 - Funciona con los productos conectados, IFTTT y Google asistido. Alimentación por pilas AA, duración máxima de 1, 5 años.
 - Alerta sonora de 90 dB cuando se detecta agua.
+- Notificación instantánea cuando se detecta agua.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07NC6Q1V5/?tag=tolees-21)

@@ -25,7 +25,7 @@ Ahora mismo tienes [Clarks Un Costa Lace  Zapatillas  Marrón  British Tan Lea B
 
 🔎:
 
-- Color exacto: piel de titanio británica
 - Material de la suela: EVA
+- Color exacto: piel de titanio británica
 
 [Visítala!!!](https://www.amazon.es/dp/B07TKNDKXD/?tag=tolees-21)

@@ -25,13 +25,13 @@ Tienes [Lotus Watches Reloj Análogo clásico para Mujer de Cuarzo con Correa en
 
 ℹ️:
 
-- Diámetro de caja: 38mm
 - Resistencia al agua: 5 ATM / 50 M
+- Función: Cuarzo analógico
+- Género - Mujer
 - Marca - Lotus
+- Diámetro de caja: 38mm
+- Reloj Casual
 - Correa de Acero inoxidable
 - Esfera de Mineral
-- Género - Mujer
-- Reloj Casual
-- Función: Cuarzo analógico
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00RN5TFIS/?tag=tolees-21)

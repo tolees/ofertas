@@ -25,8 +25,8 @@ Está [Termómetro de cocina con pantalla LCD digital con sonda de acero inoxida
 
 ℹ️:
 
+- Accesorio indispensable y ideal de cocina para la preparación de alimentos que tienen necesidad del continuo control de la temperatura de cocción
 - Alimentado por batería LR44 (incluida)
 - Mide grados Celsius y Fahrenheit: Min -50 °C Max 300 °C
-- Accesorio indispensable y ideal de cocina para la preparación de alimentos que tienen necesidad del continuo control de la temperatura de cocción
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01BFGRGN6/?tag=tolees-21)

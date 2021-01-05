@@ -25,11 +25,11 @@ Tienes [Lelit PS355 Plancha en Seco  800 W  Aluminum  Negro/Plateado](https://ww
 
 ℹ️:
 
-- POR QUÉ ELEGIR UNA PLANCHA PROFESIONAL - nuestros hierros luchan hasta con los pliegues de tela más difíciles. La plancha hecha totalmente de aluminio siempre está a la temperatura adecuada para que sus prendas se planchen más rápido y perfectamente
-- CONSUMOS REDUCIDOS - gracias a las soluciones técnicas adoptadas en las calderas Lelit, se obtienen tiempos de calentamiento reducidos y un bajo consumo de energía con ahorro de electricidad, por el bien del medio ambiente y de la cartera
 - INTERNAMENTE HECHO EN ITALIA - todos los productos Lelit están completamente diseñados y fabricados en Italia
 - Planchado perfecto en una sola pasada - la plancha seco es diseñadas para satisfacer las necesidades de aquellos que siempre aspiran a resultados perfectos, incluso con poco tiempo disponible y en una sola pasada; el rendimiento de las máquinas de planchar lelit le ayudará a tratar con cuidado incluso las telas más delicadas
+- POR QUÉ ELEGIR UNA PLANCHA PROFESIONAL - nuestros hierros luchan hasta con los pliegues de tela más difíciles. La plancha hecha totalmente de aluminio siempre está a la temperatura adecuada para que sus prendas se planchen más rápido y perfectamente
 - POR QUÉ LOS PRODUCTOS LELIT DURANTE ESTA LARGA DURACIÓN - Los productos Lelit se fabrican utilizando sólo los mejores componentes del mercado, diseñados para el mundo profesional y ensamblados en productos para uso doméstico; esto asegura que los productos son fiables y de la más alta calidad
+- CONSUMOS REDUCIDOS - gracias a las soluciones técnicas adoptadas en las calderas Lelit, se obtienen tiempos de calentamiento reducidos y un bajo consumo de energía con ahorro de electricidad, por el bien del medio ambiente y de la cartera
 - MÁXIMA COMODIDAD - Las planchas Lelit están diseñadas con un mango de corcho antideslizante y anti-sudor, y un peso equilibrado para que el planchado sea más cómodo
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0050IJ5QM/?tag=tolees-21)
