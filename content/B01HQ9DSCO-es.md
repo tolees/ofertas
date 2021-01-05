@@ -25,9 +25,9 @@ Tienes [Trust - Lector de DNI  Negro](https://www.amazon.es/dp/B01HQ9DSCO/?tag=t
 
 🔎:
 
+- Compatible con todas las tarjetas DNIe y SmartCards
+- Se conecta fácilmente al ordenador
 - Conexión USB 2.0 (bajo consumo)
 - Longitud del cable de 110 cm
-- Se conecta fácilmente al ordenador
-- Compatible con todas las tarjetas DNIe y SmartCards
 
 [Comprar!!!](https://www.amazon.es/dp/B01HQ9DSCO/?tag=tolees-21)

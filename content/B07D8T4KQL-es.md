@@ -25,7 +25,7 @@ Tienes [Skechers Street Cleat-Bring It Back  Zapatillas  Negro  BLK Black Canvas
 
 🔎:
 
-- Suela flexible.
 - espuma viscoelástica refrigerada por aire
+- Suela flexible.
 
 [Comprar!!!](https://www.amazon.es/dp/B07D8T4KQL/?tag=tolees-21)

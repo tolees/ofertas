@@ -25,9 +25,9 @@ Está [We R Memory Keepers 58886000 Trim y Scoreboard  SB-Blister  Multicolor  T
 
 ℹ️:
 
-- Contiene una tarjeta del sacador de la caja del caramelo, un sistema de instrucciones
-- Adecuado para hacer las cajas para requisitos particulares del caramelo en diversas longitudes
 - Crear pestañas de pliegue y bordes decorativos con el punzón de 2 vías
+- Contiene una tarjeta del sacador de la caja del caramelo, un sistema de instrucciones
 - Con un sacador de 2 vías y una herramienta que anota
+- Adecuado para hacer las cajas para requisitos particulares del caramelo en diversas longitudes
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00EOC6T6E/?tag=tolees-21)
