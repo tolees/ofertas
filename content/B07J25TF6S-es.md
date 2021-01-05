@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Professional 1600A016BF Set de 6 d al 21.84 % de descuento'
-date: 2021-01-02 19:34:56
+date: 2021-01-05 18:25:31
 image: 'https://m.media-amazon.com/images/I/31T4hLhAjCL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J25TF6S/?tag=tolees-21'
 descuento: '21.84'
-average: '29.558999999999997'
+average: '29.834166666666665'
 ---
 
 Está [Bosch Professional 1600A016BF Set de 6 destornilladores  softgrip  en caja  Azul  6 piezas](https://www.amazon.es/dp/B07J25TF6S/?tag=tolees-21) con 21.84 de descuento por 31.21 EUR (original: 39.93 EUR) en el siguiente enlace!
@@ -25,10 +25,10 @@ Está [Bosch Professional 1600A016BF Set de 6 destornilladores  softgrip  en caj
 
 ℹ️:
 
-- Excellent handling thanks to ergonomic design and soft-grip zone
-- The six-part screwdriver set from the hand tool range for screwdriving, chiselling and loosening tightly-fixed screws
-- Items included: 2 x PH 125 mm, 1 x PH 100 mm, 1 x SL6.5 125 mm, 1 x SL5.5 100 mm, 1 x SL4.5 100 mm, 1 x SL3.5 75 mm, plastic half inlay for L-BOXX, box
-- Highest possible torques due to integrated hexagon head socket for open-ended spanners
-- Extremely robust thanks to universal stainless steel blade, solid steel cap and hardened tip
+- Excelente manejo gracias a su diseño ergonómico y su agarre con Softgrip
+- Incluye: 2x PH 125 mm, 1x PH 100 mm, 1x SL6.5 125 mm, 1x SL5.5 100 mm, 1x SL4.5 100 mm, 1x SL3.5 75 mm, media bandeja de plástico para maletín L-BOXX, en caja
+- Juego de 6 destornilladores del surtido de herramientas manuales para atornillar, cincelar y aflojar tornillos que se resisten
+- Pares de apriete máximos gracias al encaje hexagonal integrado para llave de boca
+- Robustez extrema gracias a la hoja continua de acero inoxidable, la cabeza de acero maciza y la punta endurecida
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07J25TF6S/?tag=tolees-21)

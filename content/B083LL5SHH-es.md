@@ -26,9 +26,9 @@ Tienes [WDXFD Naruto Pop Figura 2.020 Año # 24 Ciclo de Cine Figura en Caja de 
 ℹ️:
 
 - * El mejor regalo para usted o sus amigos
-- * Anime figura emergente
 - * Si usted tiene alguna pregunta acerca de este producto, no dude en ponerse en contacto con nosotros.
-- * en caja
 - * Hecho de material de PVC
+- * Anime figura emergente
+- * en caja
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B083LL5SHH/?tag=tolees-21)

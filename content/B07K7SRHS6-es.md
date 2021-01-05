@@ -26,9 +26,9 @@ Está [Britax Römer Silla de coche 3 5 años - 12 años  15 - 36 kg  KIDFIX S  
 ℹ️:
 
 - Con SICT: Sistema de absorción de impactos laterals; ver el video
-- Fabricado en Alemania
 - Con SecureGuard: Protección contra impactos frontales única
 - Silla de coche 2 en 1: elevador con respaldo alto y cojín elevador gracias a su respaldo extraíble; el elevador solo puede utilizarse a partir de los 135 cm de estatura
+- Fabricado en Alemania
 - Elevador con respaldo alto para una protección contra impacto laterales y una correcta orientación del cinturón de seguridad
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07K7SRHS6/?tag=tolees-21)

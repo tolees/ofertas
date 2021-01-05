@@ -25,10 +25,10 @@ En este momento está [Faber-Castell-110024 Lápices de Colores  24 Unidades  Mu
 
 🔎:
 
+- Colores vivos
+- Máxima resistencia a la luz
+- Estuche metálico. 24 unidades
 - Lápices de colores Faber-Castell artistas profesionales
 - Un empaque atractivo hace de este un regalo ideal
-- Máxima resistencia a la luz
-- Colores vivos
-- Estuche metálico. 24 unidades
 
 [Aquí!!!](https://www.amazon.es/dp/B0007OECK8/?tag=tolees-21)

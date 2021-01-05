@@ -25,10 +25,10 @@ Ahora mismo tienes [Ziaja Aguacate Crema Facial 50 ml](https://www.amazon.es/dp/
 
 🔎:
 
+- Calma y alivia irritaciones y reduce la sensación de rugosidad
+- Ingredientes principales: aceite de aguacate bio, vitamina E, glicerina y D-pantenol
 - Reduce la pérdida de agua transepidérmica, aumentando la hidratación de la piel en un 49%
 - Hidrata profundamente y facilita que se vea una piel sana, relajada y natural
-- Ingredientes principales: aceite de aguacate bio, vitamina E, glicerina y D-pantenol
 - Crema para el rostro que nutre intensamente y alivia la piel seca y opaca
-- Calma y alivia irritaciones y reduce la sensación de rugosidad
 
 [Visítala!!!](https://www.amazon.es/dp/B07NTMVXCZ/?tag=tolees-21)

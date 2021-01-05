@@ -25,9 +25,9 @@ En este momento está [Spiuk Sportline Casco Eleo  Adultos Unisex  Rojo  Small](
 
 🔎:
 
-- Perfecto para salidas de intensidad moderadas/altas o altas temperaturas
 - Arquitectura interna Airflow que favorece los flujos de aire para la refrigeración
 - Casco de ciclismo de excelente ventilación
+- Perfecto para salidas de intensidad moderadas/altas o altas temperaturas
 - Incluye visera extraíble y red anti-insectos integrada en la almohadilla
 - Retención trasera Spiuk X1 y divisores laterales Spiuk Arrow Head para un ajuste muy preciso
 

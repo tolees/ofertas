@@ -25,8 +25,8 @@ Tienes [Sterillium  Crema para manos y uñas - 50 ml.](https://www.amazon.es/dp/
 
 ℹ️:
 
+- Sterillium Gel 50Ml Manos En Seco (4031678063512)
 - Crema de manos Cuidado personal Unisex adulto
 - Crema de manos STERILLIUM
-- Sterillium Gel 50Ml Manos En Seco (4031678063512)
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00WIBHLBA/?tag=tolees-21)

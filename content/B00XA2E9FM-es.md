@@ -25,9 +25,9 @@ Tienes [Fontaneda - Digestive Galletas Cubiertas de Chocolate con Leche  300 g](
 
 🔎:
 
+- Deliciosa mezcla de cereales con chocolate, premiada con la distinción Sabor del Año 2018
 - Conservar en lugar fresco y seco
 - Las clásicas galletas Digestive recubiertas de chocolate con leche
-- Deliciosa mezcla de cereales con chocolate, premiada con la distinción Sabor del Año 2018
 - Alérgenos: contiene gluten, leche y soja
 - Fuente de fibra con aceite de girasol alto oleico, para un desayuno saludable
 
