@@ -25,10 +25,10 @@ Está [Cara Splash Desafio - Hasbro Gaming  Hasbro C0193105 ](https://www.amazon
 
 ℹ️:
 
-- Fácil de montar y de limpiar
-- Con Cara Splash Showdown podrás reunir a tus amigos y familia para disfrutar de grandes risas; puede ser caótico, pero es muy divertido
-- Incluye esponja para usarla con agua o puedes utilizarlo con tu propia nata montada
-- Cuando se juega con jugadores más jóvenes, se puede simplificar el juego para que estos puedan ganar
 - Siente como crece el suspense mientras los jugadores asumen el desafío y se divierten a lo grande
+- Fácil de montar y de limpiar
+- Cuando se juega con jugadores más jóvenes, se puede simplificar el juego para que estos puedan ganar
+- Incluye esponja para usarla con agua o puedes utilizarlo con tu propia nata montada
+- Con Cara Splash Showdown podrás reunir a tus amigos y familia para disfrutar de grandes risas; puede ser caótico, pero es muy divertido
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01GG1BHRG/?tag=tolees-21)

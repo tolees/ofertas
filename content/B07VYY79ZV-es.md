@@ -25,10 +25,10 @@ Tienes [Ultima Pienso para Perros Mini con Pollo - Pack de 4 x 1.5 kg  Total: 6 
 
 🔎:
 
-- Tamaño de partículas adaptado a su mandíbula
 - Pelo brillante y piel sana debido a los ácidos grasos omega-3 y omega-6 y zinc
-- Condición física ideal gracias al nivel óptimo de proteínas y calorías de acuerdo con su alto nivel de actividad
-- Sin colorantes ni conservantes
 - Digestión óptima por los ingredientes de calidad: pollo, arroz y fibras (pulpa de remolacha) con efecto prebiótico
+- Sin colorantes ni conservantes
+- Tamaño de partículas adaptado a su mandíbula
+- Condición física ideal gracias al nivel óptimo de proteínas y calorías de acuerdo con su alto nivel de actividad
 
 [Comprar!!!](https://www.amazon.es/dp/B07VYY79ZV/?tag=tolees-21)

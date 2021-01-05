@@ -26,7 +26,7 @@ Tienes [edc by Esprit 998cc2b819 Vaqueros Slim  Azul  Blue Medium Wash 902   W30
 🔎:
 
 - Tienen cintura con trabillas para cinturón
-- Vaqueros con tejido elástico para hombres
 - Presentan diseño clásico de cinco bolsillos
+- Vaqueros con tejido elástico para hombres
 
 [Comprar!!!](https://www.amazon.es/dp/B07JQLS2Y9/?tag=tolees-21)

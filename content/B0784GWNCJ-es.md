@@ -25,12 +25,12 @@ Tienes [New Balance 500 Core  Zapatillas Hombre  Negro  Black Silver   44 EU](ht
 
 🔎:
 
-- Material exterior: Cuero sintético
-- Anchura del zapato: Normal
-- Composición: Microfibra y malla
-- Cierre: Cordones
-- Material de la suela: Sintético
 - Revestimiento: Tela
 - Tipo de tacón: Plano
+- Cierre: Cordones
+- Anchura del zapato: Normal
+- Composición: Microfibra y malla
+- Material de la suela: Sintético
+- Material exterior: Cuero sintético
 
 [Comprar!!!](https://www.amazon.es/dp/B0784GWNCJ/?tag=tolees-21)

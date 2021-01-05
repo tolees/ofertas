@@ -27,8 +27,8 @@ Tienes [Adidas CORE18 PES PNTY Pantalones de Deporte  Unisex Niños  Negro/Blanc
 
 - Bolsillos laterales para objetos pequeños
 - Logotipo de adidas bordado.
+- Cintura elástica con cordón ajustable.
 - La tecnología climalite aleja el sudor de la piel.
 - Calzoncillo interior.
-- Cintura elástica con cordón ajustable.
 
 [Comprar!!!](https://www.amazon.es/dp/B076HMSFQ4/?tag=tolees-21)

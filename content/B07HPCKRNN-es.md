@@ -1,28 +1,35 @@
 ---
 layout: post
-title: 'Fila Disruptor  Zapatillas Unisex niños  al 31.80 % de descuento'
-date: 2020-12-07 09:51:32
-image: 'https://m.media-amazon.com/images/I/41M2E6r+zOL._SL200_.jpg'
+title: 'Fila Disruptor  Zapatillas Unisex niños  al 43.48 % de descuento'
+date: 2021-01-05 11:29:47
+image: 'https://m.media-amazon.com/images/I/41ECqPILMOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07HPCKRNN-es'
-actualPrice: 55.24 EUR
+actualPrice: 52.0 EUR
 currency: EUR
-price: 55.24
-comparePrice: 81.0 EUR
+price: 52.0
+comparePrice: 92.0 EUR
 prodname: 'Fila Disruptor  Zapatillas Unisex niños  Blanco  White   35 EU'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HPCKRNN/?tag=tolees-21'
-descuento: '31.80'
+descuento: '43.48'
+average: '53.620000000000005'
 ---
 
-Está [Fila Disruptor  Zapatillas Unisex niños  Blanco  White   35 EU](https://www.amazon.es/dp/B07HPCKRNN/?tag=tolees-21) con 31.80 de descuento por 55.24 EUR (original: 81.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Fila Disruptor  Zapatillas Unisex niños  Blanco  White   35 EU](https://www.amazon.es/dp/B07HPCKRNN/?tag=tolees-21) a 52.0 EUR (original: 92.0 EUR) (43.48 %  de descuento) en el siguiente enlace!
 
-[![Fila Disruptor  Zapatillas Unisex niños ](https://m.media-amazon.com/images/I/41M2E6r+zOL._SL200_.jpg)](https://www.amazon.es/dp/B07HPCKRNN/?tag=tolees-21)
+[![Fila Disruptor  Zapatillas Unisex niños ](https://m.media-amazon.com/images/I/41ECqPILMOL._SL200_.jpg)](https://www.amazon.es/dp/B07HPCKRNN/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Heel height: 10 millimeters
+- Sole material: caucho
+- Outer material: sintético
+- Material composition: sintético
+- Lining: sintético
+- Closure: encaje
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07HPCKRNN/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07HPCKRNN/?tag=tolees-21)

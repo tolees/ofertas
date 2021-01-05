@@ -25,7 +25,7 @@ Ahora mismo tienes [Desigual Accessories PU Medium Wallet  Tamaño Mediano. para
 
 🔎:
 
-- negro
 - Diseño: accesorios, carteras, color negro
+- negro
 
 [Visítala!!!](https://www.amazon.es/dp/B083YHC42X/?tag=tolees-21)

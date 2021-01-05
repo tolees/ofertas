@@ -25,10 +25,10 @@ Ahora mismo tienes [Olivia Burton Reloj Analógico para Mujer de Cuarzo con Corr
 
 🔎:
 
-- Esfera rosada con números romanos en oro rosado y mariposa tridimensional
+- Caja en acero inoxidable con chapado iónico en oro rosa
 - Correa rosada en piel auténtica
 - Movimiento de cuarzo japonés de tres manecillas
-- Caja en acero inoxidable con chapado iónico en oro rosa
+- Esfera rosada con números romanos en oro rosado y mariposa tridimensional
 - Diámetro de la caja: 30 mm
 
 [Visítala!!!](https://www.amazon.es/dp/B07FBFW7VV/?tag=tolees-21)

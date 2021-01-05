@@ -25,9 +25,9 @@ Está [Columbia Pouring Adventure II Jacket  Mujer  Negro  L](https://www.amazon
 
 ℹ️:
 
-- Chaqueta para usar todo el año: Tejido repelente al agua, Capucha para tormentas fija y ajustable, Puños elásticos
-- Contenido: 1x Columbia Pouring Adventure II Chaqueta para mujer, Material: Omni-Tech Rip-Stop 100% Nailon, Malla 100% Poliéster, Color: Negro, Talla: L, 1760071012L
 - Cremallera completa, Dos bolsillos frontales, Fácilmente plegable en su propio bolsillo frontal para mayor comodidad de almacenamiento
+- Contenido: 1x Columbia Pouring Adventure II Chaqueta para mujer, Material: Omni-Tech Rip-Stop 100% Nailon, Malla 100% Poliéster, Color: Negro, Talla: L, 1760071012L
+- Chaqueta para usar todo el año: Tejido repelente al agua, Capucha para tormentas fija y ajustable, Puños elásticos
 - Chaqueta impermeable para mujer con capucha apta para todas las estaciones, adecuado para cualquier momento del día y actividades al aire libre
 - Impermeable y transpirable gracias a las costuras selladas con tecnología Omni-Tech
 

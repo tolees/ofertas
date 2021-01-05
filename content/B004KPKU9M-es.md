@@ -25,11 +25,11 @@ Tienes [Casio Reloj de Pulsera LA670WEGA-1EF](https://www.amazon.es/dp/B004KPKU9
 
 🔎:
 
-- El reloj cuenta con una capacidad de medición de hasta una hora
-- Incluye cronómetro, 7 temporizadores programables, alarma diaria y calendario automático
-- Caja de resina y correa de acero inoxidable, resistente y elegante con cierre ajustable
 - La duración de la batería es de 2 años
 - Resistente al agua y soporta pequeñas salpicaduras de agua
+- Caja de resina y correa de acero inoxidable, resistente y elegante con cierre ajustable
 - Dimensiones: 30,3 mm x 24,6 mm x 7,3 mm (Al x An x Pr)
+- El reloj cuenta con una capacidad de medición de hasta una hora
+- Incluye cronómetro, 7 temporizadores programables, alarma diaria y calendario automático
 
 [Comprar!!!](https://www.amazon.es/dp/B004KPKU9M/?tag=tolees-21)

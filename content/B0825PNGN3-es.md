@@ -25,11 +25,11 @@ En este momento está [Geox B Kaytan B  First Walker Shoe Niñas   Dk Pink   25 
 
 🔎:
 
-- Material exterior: Cuero
 - Altura del tacón: 1.5 centímetros
-- Revestimiento: Cuero
-- Cierre: Velcro
 - Tipo de talla: Los zapatos Geox son holgados
 - Material de la suela: Caucho
+- Revestimiento: Cuero
+- Cierre: Velcro
+- Material exterior: Cuero
 
 [Aquí!!!](https://www.amazon.es/dp/B0825PNGN3/?tag=tolees-21)

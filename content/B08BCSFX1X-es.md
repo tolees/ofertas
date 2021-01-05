@@ -25,11 +25,11 @@ Está [Educa - Caza Monstruos. Un Juego de Agilidad Visual y rapidez. A Partir d
 
 ℹ️:
 
-- Contenido: maquina crea monstruos, 4 garras con ventosa, 27 cartas e instrucciones
-- De 2 a 4 jugadores. A partir de 5 años.
-- Versión española
-- Localiza y caza al monstruo que coincide con la imagen sugerida: cabeza, cuerpo y pies pueden cambiar
-- Juego de acción 3D. Diversión monstruosa ¡Cuidado, los monstruos andan sueltos! ¡No los dejes escapar!
 - Un juego de agilidad visual y rapidez.
+- Juego de acción 3D. Diversión monstruosa ¡Cuidado, los monstruos andan sueltos! ¡No los dejes escapar!
+- Versión española
+- De 2 a 4 jugadores. A partir de 5 años.
+- Contenido: maquina crea monstruos, 4 garras con ventosa, 27 cartas e instrucciones
+- Localiza y caza al monstruo que coincide con la imagen sugerida: cabeza, cuerpo y pies pueden cambiar
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08BCSFX1X/?tag=tolees-21)

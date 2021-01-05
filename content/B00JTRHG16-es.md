@@ -25,10 +25,10 @@ Está [Rimmel London Exaggerate Automatic Eyeliner Waterproof - Delineador de Oj
 
 ℹ️:
 
+- Fórmula líquida muy pigmentada que proporciona un look de ojos atrevido
 - Delineador líquido con punta de fieltro de precisión
 - Dermatológicamente y oftalmológicamente probado
-- El aplicador, con máximo control, ayuda a crear una línea uniforme y definida alrededor del contorno del ojo
-- Fórmula líquida muy pigmentada que proporciona un look de ojos atrevido
 - Fórmula a prueba de roces, no se cuartea y resiste hasta 16 horas, eyeliner de larga duración
+- El aplicador, con máximo control, ayuda a crear una línea uniforme y definida alrededor del contorno del ojo
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00JTRHG16/?tag=tolees-21)

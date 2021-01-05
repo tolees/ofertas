@@ -25,9 +25,9 @@ Tienes [Cafetera italiana elec. ORBEGOZO KFE660 | ORBEGOZO 3 - 6 tazas](https://
 
 🔎:
 
-- Cafetera eléctrica de diseño clásico con 480 w de potencia
-- Mantiene el café caliente hasta 30 minutos
 - Incorpora función de apagado automático
+- Mantiene el café caliente hasta 30 minutos
 - Capacidad de 3 a 6 tazas
+- Cafetera eléctrica de diseño clásico con 480 w de potencia
 
 [Comprar!!!](https://www.amazon.es/dp/B0186SLJN4/?tag=tolees-21)
