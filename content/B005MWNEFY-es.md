@@ -25,9 +25,9 @@ Tienes [Savon Le Naturel - Vértiable Savon de Marseille Extra Pur au Lait 5 x 1
 
 ℹ️:
 
+- Savon Le Naturel, gran marca marsellesa de los siglos XIX y XX, sigue ofreciendo en la actualidad las ventajas de los jabones de Marsella.
 - Estos jabones están hechos con leche y con glicerina natural. Además, están probados dermatológicamente y garantizados sin conservantes.
 - Los jabones Le Naturel han sido fabricados siguiendo el auténtico método marsellés, respetando la tradición y el oficio de los maestros jaboneros.
-- Savon Le Naturel, gran marca marsellesa de los siglos XIX y XX, sigue ofreciendo en la actualidad las ventajas de los jabones de Marsella.
 - Elaborados y fabricados en la Provenza, las fragancias de los jabones Le Naturel dejan un perfume delicado en la piel.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B005MWNEFY/?tag=tolees-21)

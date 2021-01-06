@@ -1,33 +1,29 @@
 ---
 layout: post
-title: 'Seagate Barracuda - Disco duro interno d al 18.69 % de descuento'
-date: 2020-12-25 17:59:19
+title: 'Seagate Barracuda - Disco duro interno d al 19.50 % de descuento'
+date: 2021-01-06 08:59:33
 image: 'https://m.media-amazon.com/images/I/419rhDEWehL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B0767D1BZY-es'
-actualPrice: 42.41 EUR
+actualPrice: 41.99 EUR
 currency: EUR
-price: 42.41
+price: 41.99
 comparePrice: 52.16 EUR
 prodname: 'Seagate Barracuda - Disco duro interno de 1 TB  color plata'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0767D1BZY/?tag=tolees-21'
-descuento: '18.69'
-average: '41.55'
+descuento: '19.50'
+average: '41.696666666666665'
 ---
 
-Está [Seagate Barracuda - Disco duro interno de 1 TB  color plata](https://www.amazon.es/dp/B0767D1BZY/?tag=tolees-21) con 18.69 de descuento por 42.41 EUR (original: 52.16 EUR) en el siguiente enlace!
+Está [Seagate Barracuda - Disco duro interno de 1 TB  color plata](https://www.amazon.es/dp/B0767D1BZY/?tag=tolees-21) con 19.50 de descuento por 41.99 EUR (original: 52.16 EUR) en el siguiente enlace!
 
 [![Seagate Barracuda - Disco duro interno d](https://m.media-amazon.com/images/I/419rhDEWehL._SL200_.jpg)](https://www.amazon.es/dp/B0767D1BZY/?tag=tolees-21)
 
 ℹ️:
 
-- gris
-- Disco Duro Interno de 1 TB (3,5", 256 MB de caché, SATA 6 GB/s, hasta 210 MB/s)
-- Fiabilidad sólida basada en más de 20 años de innovación BarraCuda
-- Versatilidad de opciones en capacidad y para adaptarse a cualquier presupuesto
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0767D1BZY/?tag=tolees-21)

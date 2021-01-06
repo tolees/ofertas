@@ -26,10 +26,10 @@ En este momento está [Panasonic KX-TGK212 - Teléfono fijo inalámbrico de dise
 🔎:
 
 - Teléfono inalámbrico digital de diseño con memoria con agenda para 50 elementos (nombre número)
-- Duración batería en reposo 200hs
-- Pantalla LCD retroiluminada en blanco de 1.5"
-- Sistema de sonido personalizado agudo / alto / bajo, reloj y alarma despertador
-- Identificador de llamadas e identificador de llamadas en espera, modo no molestar y restricción de llamadas
 - Teléfono doble/duo
+- Pantalla LCD retroiluminada en blanco de 1.5"
+- Identificador de llamadas e identificador de llamadas en espera, modo no molestar y restricción de llamadas
+- Sistema de sonido personalizado agudo / alto / bajo, reloj y alarma despertador
+- Duración batería en reposo 200hs
 
 [Aquí!!!](https://www.amazon.es/dp/B078CQHN8B/?tag=tolees-21)
