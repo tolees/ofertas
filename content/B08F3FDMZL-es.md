@@ -26,8 +26,8 @@ En este momento está [Teakpeak Maqueta Metalica  Modelo 3D de Ensamblar Maqueta
 🔎:
 
 - Regalo ideal para cumpleaños, Navidad, etc. Adecuado para personas mayores de 12 años.
-- Decora tu habitación: un modelo tan genial es realmente llamativo.
 - Maquetas de metal para construir, Jeep maqueta
+- Decora tu habitación: un modelo tan genial es realmente llamativo.
 - El proceso de montaje de bricolaje desafiará tu paciencia y tu habilidad.
 - Tamaño: 9 x 3,6 x 4,2cm, material: acero inoxidable
 

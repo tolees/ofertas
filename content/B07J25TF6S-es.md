@@ -25,9 +25,9 @@ Está [Bosch Professional 1600A016BF Set de 6 destornilladores  softgrip  en caj
 
 ℹ️:
 
-- Juego de 6 destornilladores del surtido de herramientas manuales para atornillar, cincelar y aflojar tornillos que se resisten
 - Robustez extrema gracias a la hoja continua de acero inoxidable, la cabeza de acero maciza y la punta endurecida
 - Incluye: 2x PH 125 mm, 1x PH 100 mm, 1x SL6.5 125 mm, 1x SL5.5 100 mm, 1x SL4.5 100 mm, 1x SL3.5 75 mm, media bandeja de plástico para maletín L-BOXX, en caja
+- Juego de 6 destornilladores del surtido de herramientas manuales para atornillar, cincelar y aflojar tornillos que se resisten
 - Pares de apriete máximos gracias al encaje hexagonal integrado para llave de boca
 - Excelente manejo gracias a su diseño ergonómico y su agarre con Softgrip
 

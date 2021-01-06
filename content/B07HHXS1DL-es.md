@@ -25,10 +25,10 @@ Está [Orbegozo SP 6000 – Calefactor de baño Split programable con mando a di
 
 ℹ️:
 
-- Sistema inteligente Energy Saver: función que detecta variaciones de temperatura provocadas por ventanas o puertas abiertas y detiene automáticamente el calefactor con el fin de optimizar su rendimiento y consumo energético.
-- Mayor comodidad gracias a su sistema de programación diaria y semanal que hará que te olvides de encenderlo y apagarlo.
 - Potencia de 2000 W distribuidos en 2 niveles de calefacción a los que se añaden su función ventilador de aire frío para un uso continuado durante todo el año.
+- Sistema inteligente Energy Saver: función que detecta variaciones de temperatura provocadas por ventanas o puertas abiertas y detiene automáticamente el calefactor con el fin de optimizar su rendimiento y consumo energético.
 - Calefactor especial para baño Orbegozo con índice de protección IP-22, elementos calefactables cerámicos PTC y display digital que nos ayudará a controlar las distintas funciones del aparato.
 - Mando a distancia incorporado que permite controlar el calefactor de una manera más cómoda y sencilla.
+- Mayor comodidad gracias a su sistema de programación diaria y semanal que hará que te olvides de encenderlo y apagarlo.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07HHXS1DL/?tag=tolees-21)

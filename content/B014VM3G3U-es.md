@@ -25,11 +25,11 @@ En este momento está [Toshiba Hayabusa - Memoria USB 2.0 de 32 GB  color blanco
 
 🔎:
 
-- Velocidad de escritura 4 mb/s
 - Sistemas operativos mac soportado: mac os x 10.6/10.7/10.8/10.9
-- Velocidad de lectura 17 mb/s
-- Conexión usb 2.0
 - Sistemas operativos windows soportado: windows 7/8/vista/10
+- Velocidad de escritura 4 mb/s
+- Velocidad de lectura 17 mb/s
 - Modo cómodo y rápido de realizar copias de seguridad y transportar su información
+- Conexión usb 2.0
 
 [Aquí!!!](https://www.amazon.es/dp/B014VM3G3U/?tag=tolees-21)

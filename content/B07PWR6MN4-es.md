@@ -25,10 +25,10 @@ Tienes [Chanson D Eau EDT Mar Azul para mujer - 200 ml](https://www.amazon.es/dp
 
 🔎:
 
-- Con toques de bergamota, pera y rocío verde
-- Corazón de rosa de damasco y lirio del valle
-- Esencia afrutada y floral
 - Aroma agradable, juvenil y a la vez muy elegante.
+- Con toques de bergamota, pera y rocío verde
 - Eau de Toilette para mujer 200 ml
+- Esencia afrutada y floral
+- Corazón de rosa de damasco y lirio del valle
 
 [Comprar!!!](https://www.amazon.es/dp/B07PWR6MN4/?tag=tolees-21)
