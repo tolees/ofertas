@@ -25,11 +25,11 @@ Ahora mismo tienes [Bourjois  Maquillaje corrector  Ojeras  Rojeces  Piel Apagad
 
 🔎:
 
-- Pack muy cómodo personalizado a tus necesidades
 - Stick anti rojeces, anti manchas oscuras y ojeras y Anti rostro apagado
-- Corrección perfecta del color, resultados profesionales
-- Textura cremosa fácil de difuminar
+- Pack muy cómodo personalizado a tus necesidades
 - Pigmentos suaves 3D para borrar y alisar las imperfecciones
 - Para el cabello: Dry
+- Corrección perfecta del color, resultados profesionales
+- Textura cremosa fácil de difuminar
 
 [Visítala!!!](https://www.amazon.es/dp/B07N4KBR2S/?tag=tolees-21)

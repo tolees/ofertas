@@ -25,14 +25,14 @@ Ahora mismo tienes [Bosch Professional 2 608 228 0  Azul  Gris  Superfino](https
 
 🔎:
 
-- Color verde en la espuma para identificar más fácilmente la aplicación terminar
-- La estructura abierta impide el embotamiento
-- Adecuado para preparar madera, plástico o metal antes de pintar y para el lijado intermedio de barnices y pinturas también para lijar rebajes y curvas ligeras, así como para realizar un lijado fino de tapaporos
-- Dimensiones: 69 x 97 x 26 mm
-- Taco de lija de grano superfino para lijar superficies diversas, planas o en bordes, a mano
-- Sin disolventes, lo que evita ensuciar la superficie
-- Lavable y reutilizable repetidamente
 - Taco cubierto por cuatro caras con grano abrasivo resistente a la rotura
+- Dimensiones: 69 x 97 x 26 mm
 - Para terminar de lijar la superficie de trabajo, tras los procesos de remover y preparar el material
+- Sin disolventes, lo que evita ensuciar la superficie
+- Taco de lija de grano superfino para lijar superficies diversas, planas o en bordes, a mano
+- La estructura abierta impide el embotamiento
+- Color verde en la espuma para identificar más fácilmente la aplicación terminar
+- Lavable y reutilizable repetidamente
+- Adecuado para preparar madera, plástico o metal antes de pintar y para el lijado intermedio de barnices y pinturas también para lijar rebajes y curvas ligeras, así como para realizar un lijado fino de tapaporos
 
 [Visítala!!!](https://www.amazon.es/dp/B0053PVDL2/?tag=tolees-21)

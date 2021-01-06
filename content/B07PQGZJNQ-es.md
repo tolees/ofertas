@@ -25,10 +25,10 @@ Ahora mismo tienes [Bourjois Velvet The Pencil - Pintalabios. Tono 8 Less is Bro
 
 🔎:
 
-- Color intenso y alta cobertura en una sola pasada
-- Labial mate, intenso, preciso y de larga duración
-- Preciso como un perfilador
 - En formato jumbo, ideal para perfilar tus labios
+- Preciso como un perfilador
 - Confort extremo con su textura suave y aterciopelada
+- Labial mate, intenso, preciso y de larga duración
+- Color intenso y alta cobertura en una sola pasada
 
 [Visítala!!!](https://www.amazon.es/dp/B07PQGZJNQ/?tag=tolees-21)

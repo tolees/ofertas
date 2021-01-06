@@ -25,9 +25,9 @@ En este momento está [Floid Aftershave Loción Suave Masaje - 150 ml  841082502
 
 🔎:
 
-- cuidado personal
 - Producto de belleza
 - 150 ml
+- cuidado personal
 - Número de modelo del producto: 8410825021876
 
 [Aquí!!!](https://www.amazon.es/dp/B0098WSYDQ/?tag=tolees-21)

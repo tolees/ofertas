@@ -25,8 +25,8 @@ Tienes [PLAYMOBIL- Escuela de Esquí  única  9282 ](https://www.amazon.es/dp/B0
 
 🔎:
 
-- Desarrolla la imaginación y la creatividad
 - Incluye tres figuras y varios accesorios
+- Desarrolla la imaginación y la creatividad
 - Arco de meta decorado
 - Con traje de oso desmontable
 

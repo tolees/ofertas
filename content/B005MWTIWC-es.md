@@ -25,10 +25,10 @@ Tienes [Sumex 2505055 - Extintor Homologado Polvo  1 Kg  Con Manómetro](https:/
 
 ℹ️:
 
+- con manómetro,
 - fabricado en aluminio
 - homologado
 - capacidad 1 kg
 - color rojo
-- con manómetro,
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B005MWTIWC/?tag=tolees-21)

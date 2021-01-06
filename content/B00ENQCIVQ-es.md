@@ -25,8 +25,8 @@ Tienes [iRobot 3 paños de Textura Azul Pro-Clean para fregado  Microfibra  7x17
 
 ℹ️:
 
+- Microfiber Mopping cloths, 3-pack (3 x Wet)
 - Machine washable
 - 3 Microfiber cloths for Braava 320, 380, 380
-- Microfiber Mopping cloths, 3-pack (3 x Wet)
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00ENQCIVQ/?tag=tolees-21)
