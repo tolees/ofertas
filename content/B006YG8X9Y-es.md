@@ -25,10 +25,10 @@ Tienes [Crucial RAM CT102464BF160B 8 GB DDR3 1600 MHz CL11 Memoria Portátil](ht
 
 🔎:
 
-- Tipo ECC: No ECC, Factor de forma: SODIMM, Recuento de pines: 204 pines, Velocidad de PC: PC3-12800, Voltaje: 1.35V/1.5V, Rango y Configuración: 2R x 8
 - La calidad y fiabilidad de Micron están respaldadas por las exigentes pruebas a las que sometemos nuestros módulos y componentes, así como gracias a los 42 años de experiencia fabricando dispositivos de memoria
-- Mejore la capacidad de respuesta de su sistema, ejecute las aplicaciones más rápido y realice multitareas de forma sencilla
+- Tipo ECC: No ECC, Factor de forma: SODIMM, Recuento de pines: 204 pines, Velocidad de PC: PC3-12800, Voltaje: 1.35V/1.5V, Rango y Configuración: 2R x 8
 - Fácil de instalar: no le harán falta conocimientos informáticos; manuales de instrucciones disponibles en Crucial
 - La compatibilidad está garantizada cuando se usa Crucial System Scanner o la herramienta Crucial Advisor
+- Mejore la capacidad de respuesta de su sistema, ejecute las aplicaciones más rápido y realice multitareas de forma sencilla
 
 [Comprar!!!](https://www.amazon.es/dp/B006YG8X9Y/?tag=tolees-21)
