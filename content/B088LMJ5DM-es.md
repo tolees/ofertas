@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 15.01 % en ANTAPRCIS 4WD RC Coche  1:14 Off-Road Co'
-date: 2020-12-26 08:01:11
+title: 'Descuento del 22.73 % en ANTAPRCIS 4WD RC Coche  1:14 Off-Road Co'
+date: 2021-01-06 09:08:51
 image: 'https://m.media-amazon.com/images/I/51zlENIdxAL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -10,16 +10,16 @@ slug: 'B088LMJ5DM-es'
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49
-comparePrice: 29.99 EUR
+comparePrice: 32.99 EUR
 prodname: 'ANTAPRCIS 4WD RC Coche  1:14 Off-Road Coche Teledirigido  2.4GHz Crawler Camiones de Control Remoto Juguete con 2 Baterías Recargables  Regalo para Niños'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B088LMJ5DM/?tag=tolees-21'
-descuento: '15.01'
-average: '35.20428571428572'
+descuento: '22.73'
+average: '33.99'
 ---
 
-Tienes [ANTAPRCIS 4WD RC Coche  1:14 Off-Road Coche Teledirigido  2.4GHz Crawler Camiones de Control Remoto Juguete con 2 Baterías Recargables  Regalo para Niños](https://www.amazon.es/dp/B088LMJ5DM/?tag=tolees-21) con un 15.01 % de descuento con precio de oferta de 25.49 EUR (original: 29.99 EUR) en el siguiente enlace!
+Tienes [ANTAPRCIS 4WD RC Coche  1:14 Off-Road Coche Teledirigido  2.4GHz Crawler Camiones de Control Remoto Juguete con 2 Baterías Recargables  Regalo para Niños](https://www.amazon.es/dp/B088LMJ5DM/?tag=tolees-21) con un 22.73 % de descuento con precio de oferta de 25.49 EUR (original: 32.99 EUR) en el siguiente enlace!
 
 [![ANTAPRCIS 4WD RC Coche  1:14 Off-Road Co](https://m.media-amazon.com/images/I/51zlENIdxAL._SL200_.jpg)](https://www.amazon.es/dp/B088LMJ5DM/?tag=tolees-21)
 
