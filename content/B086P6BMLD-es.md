@@ -25,10 +25,10 @@ Está [PUMA Evostripe Evoknit 7/8 Tight Mallas Deporte  Mujer  Black  XL](https:
 
 ℹ️:
 
-- evoKNIT: El diseño tejido y la tecnología sin costuras de PUMA para una adaptación ligera, cómoda y transpirable, y un ajuste ergonómico máximo
-- Tecnología sin costuras
 - Marca denominativa de PUMA repetida en ambas piernas
-- Corte ceñido
 - Estándar OEKO-TEX: Elaboración en conformidad con el estándar OEKO-TEX, con el que se evita el uso de sustancias nocivas desde el hilo hasta el producto final
+- evoKNIT: El diseño tejido y la tecnología sin costuras de PUMA para una adaptación ligera, cómoda y transpirable, y un ajuste ergonómico máximo
+- Corte ceñido
+- Tecnología sin costuras
 
 [Ver la oferta!!](https://www.amazon.es/dp/B086P6BMLD/?tag=tolees-21)

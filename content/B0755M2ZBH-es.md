@@ -25,9 +25,9 @@ Ahora mismo tienes [Rick and Morty Botella De Agua  Metal  plástico  Standard](
 
 🔎:
 
+- Inspired By You. Created By Us.
 - Licencia oficial. Capacidad aproximada 700 centilitros.
 - Lavar antes del primer uso. Utilizar sólo para líquidos fríos.
 - Se recomienda lavar a mano en agua templada, no utilizar lavavajillas.
-- Inspired By You. Created By Us.
 
 [Visítala!!!](https://www.amazon.es/dp/B0755M2ZBH/?tag=tolees-21)

@@ -25,8 +25,8 @@ Ahora mismo tienes [Lee Extreme Motion Straight Jeans  Trip  40W / 34L para Homb
 
 🔎:
 
-- Tejido elástico
 - Cintura flexible
+- Tejido elástico
 - Clasico botón tipo “donut”
 
 [Visítala!!!](https://www.amazon.es/dp/B07JC42QZH/?tag=tolees-21)

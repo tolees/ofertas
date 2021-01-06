@@ -25,10 +25,10 @@ En este momento está [PUMA Stadium Jacket  Hombre  Black-White  M](https://www.
 
 🔎:
 
-- Cuello alzado con mentonera y capucha oculta
+- Protección meteorológica: el tejido exterior impermeable de la chaqueta protege del viento y la lluvia
 - Mangas, pecho y espalda acolchados
 - Bolsillos laterales con cremallera
-- Protección meteorológica: el tejido exterior impermeable de la chaqueta protege del viento y la lluvia
 - Comodidad: forro polar en el cuerpo para mantenerte abrigado y cómodo
+- Cuello alzado con mentonera y capucha oculta
 
 [Aquí!!!](https://www.amazon.es/dp/B00G1PYF18/?tag=tolees-21)

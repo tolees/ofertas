@@ -25,10 +25,10 @@ Está [Rescue Runts- Pomerania  Multicolor  Bandai KD19012 ](https://www.amazon.
 
 ℹ️:
 
+- El cepillo ayuda a alisar y desenredar su pelo
 - Tienen heridas, lagrimitas en los ojos, patitas sucias y el pelo enredado
 - Las pinzas ayudan a quitarle las pulgas
-- Las patitas sucias se pueden limpiar con la toalla y un poquito de agua caliente
-- El cepillo ayuda a alisar y desenredar su pelo
 - Tipo de producto: perritos de peluche que necesitan cuidado y un hogar
+- Las patitas sucias se pueden limpiar con la toalla y un poquito de agua caliente
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07SNZFDJ6/?tag=tolees-21)
