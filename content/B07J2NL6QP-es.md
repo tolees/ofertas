@@ -1,28 +1,34 @@
 ---
 layout: post
-title: 'Descuento del 31.57 % en Lenovo Ideacentre 510S - Ordenador de so'
-date: 2020-11-15 16:13:23
+title: 'Lenovo Ideacentre 510S - Ordenador de so al 31.43 % de descuento'
+date: 2021-01-06 14:22:23
 image: 'https://m.media-amazon.com/images/I/41HWryu4tGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07J2NL6QP-es'
-actualPrice: 479.0 EUR
+actualPrice: 479.99 EUR
 currency: EUR
-price: 479.0
+price: 479.99
 comparePrice: 699.99 EUR
 prodname: 'Lenovo Ideacentre 510S - Ordenador de sobremesa  Intel Core i5-7400  8GB de RAM + 16GB Intel Optane  1TB HDD  Intel HD Grahpics 630  Windows 10  Plateado - Teclado QWERTY Español + ratón'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07J2NL6QP/?tag=tolees-21'
-descuento: '31.57'
+descuento: '31.43'
+average: '483.34529411764714'
 ---
 
-Tienes [Lenovo Ideacentre 510S - Ordenador de sobremesa  Intel Core i5-7400  8GB de RAM + 16GB Intel Optane  1TB HDD  Intel HD Grahpics 630  Windows 10  Plateado - Teclado QWERTY Español + ratón](https://www.amazon.es/dp/B07J2NL6QP/?tag=tolees-21) con un 31.57 % de descuento con precio de oferta de 479.0 EUR (original: 699.99 EUR) en el siguiente enlace!
+Está [Lenovo Ideacentre 510S - Ordenador de sobremesa  Intel Core i5-7400  8GB de RAM + 16GB Intel Optane  1TB HDD  Intel HD Grahpics 630  Windows 10  Plateado - Teclado QWERTY Español + ratón](https://www.amazon.es/dp/B07J2NL6QP/?tag=tolees-21) con 31.43 de descuento por 479.99 EUR (original: 699.99 EUR) en el siguiente enlace!
 
 [![Lenovo Ideacentre 510S - Ordenador de so](https://m.media-amazon.com/images/I/41HWryu4tGL._SL200_.jpg)](https://www.amazon.es/dp/B07J2NL6QP/?tag=tolees-21)
 
 ℹ️:
 
+- Procesador Intel Core i5-7400, Quadcore 3GHz hasta 3.5GHz
+- Memoria RAM de 8GB DDR4, 2400Mhz + 16GB Intel Optane
+- Tarjeta gráfica Intel HD Grahpics 630
+- Sistema Operativo: Windows Home 10
+- Almacenamiento HDD de 1TB, 7200RPM
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B07J2NL6QP/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07J2NL6QP/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Polar M430 Reloj de Running con GPS  Adu al 34.97 % de descuento'
-date: 2021-01-05 08:24:15
+date: 2021-01-06 14:20:56
 image: 'https://m.media-amazon.com/images/I/41KZjuG5PnL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07WQGY2RW/?tag=tolees-21'
 descuento: '34.97'
-average: '125.43848484848485'
+average: '125.69857142857144'
 ---
 
 Ahora mismo tienes [Polar M430 Reloj de Running con GPS  Adultos Unisex  Negro  S](https://www.amazon.es/dp/B07WQGY2RW/?tag=tolees-21) a 129.99 EUR (original: 199.9 EUR) (34.97 %  de descuento) en el siguiente enlace!
@@ -25,11 +25,11 @@ Ahora mismo tienes [Polar M430 Reloj de Running con GPS  Adultos Unisex  Negro  
 
 🔎:
 
+- Registro de la frecuencia cardíaca en la muñeca
 - Velocidad, distancia también en indoor
 - Compatible con polar balance
 - Gps integrado, proporciona datos de velocidad, distancia, altimetría e inclinación y registro de actividad 24/7
 - Analiza tu sueño al detalle con la función Sleep Plus
 - Tallas: S: circunferencia de la muñeca 130-187 mm
-- Registro de la frecuencia cardíaca en la muñeca
 
 [Visítala!!!](https://www.amazon.es/dp/B07WQGY2RW/?tag=tolees-21)

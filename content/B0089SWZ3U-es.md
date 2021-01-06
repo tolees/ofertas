@@ -25,10 +25,10 @@ En este momento está [Canon EF-S 18-135mm f/3.5-5.6 IS STM - Objetivo para cano
 
 🔎:
 
-- Rango de zoom versátil de 18-135 mm, ideal para viajes.
 - Distancia mínima de enfoque de 0,39 m.
-- Enfoque STM suave y silencioso al grabar vídeos en cámaras compatibles.
-- Estabilizador de imagen dinámico para lograr grabaciones de vídeo estables
 - Autoenfoque rápido con anulación del enfoque manual continuo.
+- Estabilizador de imagen dinámico para lograr grabaciones de vídeo estables
+- Enfoque STM suave y silencioso al grabar vídeos en cámaras compatibles.
+- Rango de zoom versátil de 18-135 mm, ideal para viajes.
 
 [Aquí!!!](https://www.amazon.es/dp/B0089SWZ3U/?tag=tolees-21)

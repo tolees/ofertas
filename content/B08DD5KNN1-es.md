@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Persona 5 Royal Estándar Edición al 45.74 % de descuento'
-date: 2021-01-02 13:35:14
+date: 2021-01-06 14:24:47
 image: 'https://m.media-amazon.com/images/I/51-7Dw5d7wL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08DD5KNN1/?tag=tolees-21'
 descuento: '45.74'
-average: '27.98666666666667'
+average: '28.90571428571429'
 ---
 
 Está [Persona 5 Royal Estándar Edición](https://www.amazon.es/dp/B08DD5KNN1/?tag=tolees-21) con 45.74 de descuento por 34.42 EUR (original: 63.44 EUR) en el siguiente enlace!
@@ -25,10 +25,10 @@ Está [Persona 5 Royal Estándar Edición](https://www.amazon.es/dp/B08DD5KNN1/?
 
 ℹ️:
 
-- Escenas nuevas y finales alternativos
-- Nuevos Persona desbloqueables
-- Explora Tokio y las nuevas zonas
 - Nuevo semestre escolar
 - Descubre un arco en la historia nunca visto
+- Nuevos Persona desbloqueables
+- Escenas nuevas y finales alternativos
+- Explora Tokio y las nuevas zonas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08DD5KNN1/?tag=tolees-21)
