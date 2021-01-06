@@ -25,10 +25,10 @@ Tienes [Bruguer 106515 Pintura paredes y techos  Alaska Blanco Luminoso  4 litro
 
 ℹ️:
 
-- Acabado Mate
 - Secado rápido
-- Ecológica, apenas sin olor
 - Dilución y limpieza con agua
 - Para interiores
+- Acabado Mate
+- Ecológica, apenas sin olor
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00UCMDVLQ/?tag=tolees-21)

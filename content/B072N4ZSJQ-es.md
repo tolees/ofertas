@@ -25,8 +25,8 @@ Tienes [BOSS Mix & Match Pants Pantalones  Negro  Black 001   50  Talla del Fabr
 
 🔎:
 
+- Pantalones con puños
 - Con bolsillos laterales
 - Presentan cordón en la cintura
-- Pantalones con puños
 
 [Comprar!!!](https://www.amazon.es/dp/B072N4ZSJQ/?tag=tolees-21)

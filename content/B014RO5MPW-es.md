@@ -26,9 +26,9 @@ Tienes [OMRON E3 Intense - Electroestimulador para aliviar el dolor muscular sin
 ℹ️:
 
 - E3 Intense utiliza tecnología de Triple Action Tens (electro estimulación nerviosa transcutánea de triple acción)
+- Intensidad tiene programas preestablecidos para las zonas del cuerpo dedicado: hombros, espalda, articulaciones, brazos, piernas o pies únicos
 - Se puede utilizar en espalda, hombros, articulaciones y músculos
 - Validado clínicamente
 - Calma naturalmente el dolor sin necesidad de medicarse
-- Intensidad tiene programas preestablecidos para las zonas del cuerpo dedicado: hombros, espalda, articulaciones, brazos, piernas o pies únicos
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B014RO5MPW/?tag=tolees-21)
