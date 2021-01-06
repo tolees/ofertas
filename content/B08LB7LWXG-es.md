@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vikingos - Temporada 6: Primera parte [B al 35.55 % de descuento'
-date: 2021-01-05 00:24:28
+date: 2021-01-06 18:38:40
 image: 'https://m.media-amazon.com/images/I/51hOEwxgvOL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08LB7LWXG/?tag=tolees-21'
 descuento: '35.55'
-average: '26.49'
+average: '25.656666666666666'
 ---
 
 Ahora mismo tienes [Vikingos - Temporada 6: Primera parte [Blu-ray]](https://www.amazon.es/dp/B08LB7LWXG/?tag=tolees-21) a 23.99 EUR (original: 37.22 EUR) (35.55 %  de descuento) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Odyssey G7 LC27G73TQSUXEN - Moni al 21.43 % de descuento'
-date: 2021-01-05 17:48:12
+date: 2021-01-06 18:44:07
 image: 'https://m.media-amazon.com/images/I/41ezUZ7Ds1L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Ahora mismo tienes [Samsung Odyssey G7 LC27G73TQSUXEN - Monitor Curvo Gaming de 
 
 🔎:
 
+- HDR600 ofrece contraste con tonos negros profundos y blancos intensos
 - Freesync Premium Pro y Gsync compatible, evita el desgarro de la pantalla. Antiparpadeo y menos luz azul: juego aún más prolongado y evita fatiga y fatiga visual
 - La curvatura 1000R se ajusta a los contornos del ojo humano para un realismo óptimo
-- Con un 1 ms de tiempo de respuesta y una tasa de refresco de 140 Hz se consigue una jugabilidad fluida
-- HDR600 ofrece contraste con tonos negros profundos y blancos intensos
 - Monitor curvo gaming de 27" con resolución WQHD (2560 x 1440 pixeles) muestra imágenes detalladas y nítidas y gracias a la tecnología QLED colores realistas
+- Con un 1 ms de tiempo de respuesta y una tasa de refresco de 140 Hz se consigue una jugabilidad fluida
 
 [Visítala!!!](https://www.amazon.es/dp/B0859SVYN7/?tag=tolees-21)

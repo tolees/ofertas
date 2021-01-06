@@ -25,10 +25,10 @@ En este momento está [Helly Hansen TRANSAT Polo Polo  Hombre  Blanco  Blanco 00
 
 🔎:
 
+- 100% costuras pegadas en 2 capas
 - Falda de polvo extraíble
 - El Gore-Tex te mantiene seco
-- 100% costuras pegadas en 2 capas
-- Compatible con casco
 - Recco Avalanche Rescue - Reflector
+- Compatible con casco
 
 [Aquí!!!](https://www.amazon.es/dp/B073RPGDNQ/?tag=tolees-21)

@@ -25,10 +25,10 @@ Tienes [Panama Jack Glasgow Igloo  Botas Clasicas Hombre  Marrón  Castaño C6  
 
 ℹ️:
 
-- Principal Material: napa, material del forro: madera natural / material de la suela: TR interior desmontable. Inserto: no
-- Fabricado en España
 - Panama Jack Men Castaño / Chestnut Wüste Boots
-- Altura del tacón: 2 cm
 - Resistente al agua
+- Fabricado en España
+- Principal Material: napa, material del forro: madera natural / material de la suela: TR interior desmontable. Inserto: no
+- Altura del tacón: 2 cm
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07B9PGJ5B/?tag=tolees-21)

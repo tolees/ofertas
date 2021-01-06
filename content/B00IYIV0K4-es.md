@@ -25,12 +25,12 @@ Tienes [Fantasy Flight Games Eldritch Horror  Talla única  FFEH01 ](https://www
 
 🔎:
 
-- Extrañas sectas y terribles monstruos siembran el caos en todos los continentes mientras el tejido de la realidad se desgarra, abriendo portales a extraños mundos.
-- Eldritch Horror es un juego de aventuras cooperativo para 1–8 jugadores inspirado en el exitoso juego de tablero Arkham Horror.
-- El mundo está al borde de la catástrofe. Estamos en 1926 y un ser de increíble poder amenaza con despertar de su largo letargo trayendo muerte y destrucción.
 - Sólo unos pocos valerosos investigadores entienden lo que está ocurriendo realmente.
-- ¡Se acerca el fin del mundo!
-- ¡Su tarea es explorar los rincones más remotos del planeta para combatir a las criaturas de pesadilla que acechan en las sombras y encontrar las respuestas a los antiguos misterios de Eldritch Horror!
+- Eldritch Horror es un juego de aventuras cooperativo para 1–8 jugadores inspirado en el exitoso juego de tablero Arkham Horror.
 - Estas tenaces almas de todo tipo y condición emplean sus habilidades y armas para enfrentarse a la amenaza del Primigenio.
+- ¡Se acerca el fin del mundo!
+- Extrañas sectas y terribles monstruos siembran el caos en todos los continentes mientras el tejido de la realidad se desgarra, abriendo portales a extraños mundos.
+- ¡Su tarea es explorar los rincones más remotos del planeta para combatir a las criaturas de pesadilla que acechan en las sombras y encontrar las respuestas a los antiguos misterios de Eldritch Horror!
+- El mundo está al borde de la catástrofe. Estamos en 1926 y un ser de increíble poder amenaza con despertar de su largo letargo trayendo muerte y destrucción.
 
 [Comprar!!!](https://www.amazon.es/dp/B00IYIV0K4/?tag=tolees-21)

@@ -1,34 +1,34 @@
 ---
 layout: post
-title: 'Figura de Jazmin y el tigre Raja de Alad con un 46.77 % de descuento'
-date: 2020-12-31 22:21:18
+title: 'Figura de Jazmin y el tigre Raja de Alad con un 46.97 % de descuento'
+date: 2021-01-06 18:26:07
 image: 'https://m.media-amazon.com/images/I/51JJIMn4eCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07MCPR8NH-es'
-actualPrice: 36.6 EUR
+actualPrice: 36.46 EUR
 currency: EUR
-price: 36.6
+price: 36.46
 comparePrice: 68.76 EUR
 prodname: 'Figura de Jazmin y el tigre Raja de Aladín  Disney Traditions  Resina  Multicolor  Enesco'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MCPR8NH/?tag=tolees-21'
-descuento: '46.77'
-average: '34.733636363636364'
+descuento: '46.97'
+average: '34.99923076923077'
 ---
 
-En este momento está [Figura de Jazmin y el tigre Raja de Aladín  Disney Traditions  Resina  Multicolor  Enesco](https://www.amazon.es/dp/B07MCPR8NH/?tag=tolees-21) a 36.6 EUR (original: 68.76 EUR) (46.77 %  de descuento) en el siguiente enlace!
+En este momento está [Figura de Jazmin y el tigre Raja de Aladín  Disney Traditions  Resina  Multicolor  Enesco](https://www.amazon.es/dp/B07MCPR8NH/?tag=tolees-21) a 36.46 EUR (original: 68.76 EUR) (46.97 %  de descuento) en el siguiente enlace!
 
 [![Figura de Jazmin y el tigre Raja de Alad](https://m.media-amazon.com/images/I/51JJIMn4eCL._SL200_.jpg)](https://www.amazon.es/dp/B07MCPR8NH/?tag=tolees-21)
 
 🔎:
 
-- Producto adecuado para regalar, decorar o coleccionar
 - Material: resina
+- Producto adecuado para regalar, decorar o coleccionar
 - Figura de Jasmine
-- Dimensiones del producto: 15 x 9 x 19 cm
 - Colores resistentes al agua
+- Dimensiones del producto: 15 x 9 x 19 cm
 
 [Aquí!!!](https://www.amazon.es/dp/B07MCPR8NH/?tag=tolees-21)

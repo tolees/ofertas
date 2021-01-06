@@ -25,7 +25,7 @@ Está [Desigual Accessories Fabric Small Wallets  Mallas pequeñas. para Mujer  
 
 ℹ️:
 
-- Diseño; accesorios; carteras; marrón
 - marrón
+- Diseño; accesorios; carteras; marrón
 
 [Ver la oferta!!](https://www.amazon.es/dp/B083YHDMY1/?tag=tolees-21)

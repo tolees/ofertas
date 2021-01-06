@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only Onltahoe Hood Jacket Otw Noos Chaqu al 40.01 % de descuento'
-date: 2020-12-30 09:49:51
+date: 2021-01-06 18:22:39
 image: 'https://m.media-amazon.com/images/I/41DcMEtMvbL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,7 +25,7 @@ Está [Only Onltahoe Hood Jacket Otw Noos Chaqueta  Negro  Black Black   Medium 
 
 ℹ️:
 
-- Quilted jacket with hood
 - Padded outdoor jacket
+- Quilted jacket with hood
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07CJLJ6H1/?tag=tolees-21)

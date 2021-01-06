@@ -25,10 +25,10 @@ Tienes [Fujifilm Instax mini Rainbow - Película instantánea](https://www.amazo
 
 ℹ️:
 
-- Instax Rainbow Film asegura colores vibrantes y tonos de piel naturales
+- Está disponible con tamaño de película de 54 x 86 mm
+- Contiene 10 unidades
 - La emulsión de la película se realiza a temperaturas tan bajas como 5°C y hasta 40°C
 - Para uso en todas las cámaras instantáneas Instax Mini e impresoras SHARE de Instax
-- Contiene 10 unidades
-- Está disponible con tamaño de película de 54 x 86 mm
+- Instax Rainbow Film asegura colores vibrantes y tonos de piel naturales
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00AFTDWVA/?tag=tolees-21)

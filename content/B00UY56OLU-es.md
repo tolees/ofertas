@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Architecture 6101026 Flatiron Build al 20.67 % de descuento'
-date: 2021-01-05 18:16:16
+date: 2021-01-06 18:50:46
 image: 'https://m.media-amazon.com/images/I/518Mr96fR3L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00UY56OLU/?tag=tolees-21'
 descuento: '20.67'
-average: '133.7541379310345'
+average: '132.79533333333336'
 ---
 
 Está [LEGO Architecture 6101026 Flatiron Building 21023 Building Kit by LEGO](https://www.amazon.es/dp/B00UY56OLU/?tag=tolees-21) con 20.67 de descuento por 104.99 EUR (original: 132.34 EUR) en el siguiente enlace!
@@ -25,10 +25,10 @@ Está [LEGO Architecture 6101026 Flatiron Building 21023 Building Kit by LEGO](h
 
 ℹ️:
 
+- folleto incluido con detalles sobre el diseño, la arquitectura y la historia del edificio (idioma Inglés solamente)
 - interpretación de hito arquitectónico en el mundo real, el edificio Flatiron; cuenta con una placa de identificación
+- medidas 5" (15 cm) de altura, 3" (8 cm) de ancho y 4" (11 cm) de profundidad
 - otros idiomas disponibles para su descarga en lego.com/architecture
 - recoger la totalidad de los conjuntos de la arquitectura de la serie LEGO punto de referencia y arquitecto
-- medidas 5" (15 cm) de altura, 3" (8 cm) de ancho y 4" (11 cm) de profundidad
-- folleto incluido con detalles sobre el diseño, la arquitectura y la historia del edificio (idioma Inglés solamente)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00UY56OLU/?tag=tolees-21)
