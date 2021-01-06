@@ -25,8 +25,8 @@ Está [Jack & Jones Jjebasic Knit V-Neck Noos suéter  Gris  Navy Blazer Detail:
 
 ℹ️:
 
-- De algodón cómodo
 - Composición: 100% algodón
+- De algodón cómodo
 - - Danza clásica – y adecuada para cada día
 - Parte de punto de ajuste regular para hombre
 

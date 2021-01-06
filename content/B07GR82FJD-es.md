@@ -25,11 +25,11 @@ Ahora mismo tienes [Lenovo Ideapad 720S-13IKBR - Ordenador Portátil 13.3" FullH
 
 🔎:
 
-- Tarjeta gráfica integrada Intel UHD Graphics 620
+- Sistema Operativo: Windows Home 10
+- Procesador Intel Core i5-8250U Kaby Lake, 1.6 GHz up to 3.4GHz
 - Pantalla de 13.3" Full HD, 1920x1080 pixeles
 - Almacenamiento de 256GB de SSD M.2 PCIE
-- Procesador Intel Core i5-8250U Kaby Lake, 1.6 GHz up to 3.4GHz
-- Sistema Operativo: Windows Home 10
 - Memoria RAM de 8 GB DDR4, 2133MHz
+- Tarjeta gráfica integrada Intel UHD Graphics 620
 
 [Visítala!!!](https://www.amazon.es/dp/B07GR82FJD/?tag=tolees-21)

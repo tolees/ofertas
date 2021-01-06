@@ -25,9 +25,9 @@ Está [adidas Courtset  Zapatillas Mujer  Azul  Collegiate Navy/Footwear White/G
 
 ℹ️:
 
-- Etiqueta de adidas cosida en la lengüeta.
-- 3 bandas cosidas.
-- Cómodo forro textil.
 - Bolsillos canguro.
+- 3 bandas cosidas.
+- Etiqueta de adidas cosida en la lengüeta.
+- Cómodo forro textil.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B078YKPWX6/?tag=tolees-21)

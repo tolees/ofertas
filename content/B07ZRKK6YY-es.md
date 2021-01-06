@@ -25,10 +25,10 @@ Está [Evelure Caja de música de Madera de Queen  Cajas de música de Madera ta
 
 ℹ️:
 
-- Regalo perfecto para cualquier ocasión: regalo de cumpleaños, regalo de San Valentín, regalo del día de la madre, regalo del día del padre, regalo de Navidad, regalo del día de acción de gracias, regalos de boda.
 - Winch Music Box, solo gire la manija y toque "Queen" Melody.
-- Caja de música de manivela original, solo gire el mango y toque esta famosa melodía.
-- Caja de música de madera grabada a mano: cada caja de música es ligera y portátil, se puede colocar donde desee.
 - SIZE:64mm*52mm*42mm
+- Regalo perfecto para cualquier ocasión: regalo de cumpleaños, regalo de San Valentín, regalo del día de la madre, regalo del día del padre, regalo de Navidad, regalo del día de acción de gracias, regalos de boda.
+- Caja de música de madera grabada a mano: cada caja de música es ligera y portátil, se puede colocar donde desee.
+- Caja de música de manivela original, solo gire el mango y toque esta famosa melodía.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07ZRKK6YY/?tag=tolees-21)

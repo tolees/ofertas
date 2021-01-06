@@ -25,11 +25,11 @@ Ahora mismo tienes [Crocs Classic Clog  Zuecos Unisex Adulto  Rosa  Candy Pink 6
 
 🔎:
 
-- Cierre: Tira de tobillo
-- Material de la suela: Sintético
-- Material exterior: Espuma
-- Composición: Sintético
 - Revestimiento: Sin forro
+- Composición: Sintético
+- Material de la suela: Sintético
+- Cierre: Tira de tobillo
+- Material exterior: Espuma
 - Tipo de tacón: Plano
 
 [Visítala!!!](https://www.amazon.es/dp/B00HUIO52E/?tag=tolees-21)
