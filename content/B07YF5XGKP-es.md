@@ -26,8 +26,8 @@ Tienes [Ultima Pienso para Perros Mini Junior con Pollo - Pack de 8 x 800 g  Tot
 ℹ️:
 
 - Cerebro y Visión: DHA de aceite de pescado
-- Comida para perros pequeños (1-10 kg) Junior (hasta los 12 meses)
 - Crecimiento Óptimo: Vitaminas A, C, D, E, levadura como fuente de vitaminas B, minerales (hierro, cobre, manganeso), proteínas de alta calidad
+- Comida para perros pequeños (1-10 kg) Junior (hasta los 12 meses)
 - Tamaño de Partícula adaptado a su mandíbula
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07YF5XGKP/?tag=tolees-21)

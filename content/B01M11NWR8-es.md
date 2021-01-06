@@ -25,11 +25,11 @@ En este momento está [Kit Autocultivo de setas ostra sobre posos de café recic
 
 🔎:
 
+- Tiempo de germinación: 15.0 days
+- Producto garantizado, comestible y 100% seguro
+- Con este kit de autocultivo de setas ostra, podrás disfrutar en casa de una experiencia fácil, divertida y sostenible
 - De cada kit es posible obtener hasta 3 cosechas; en total podrás disfrutar de unos 700 gr; de setas ostra
 - Un regalo original, artesano y hecho en españa
-- Tiempo de germinación: 15.0 days
 - Su uso es muy sencillo, sólo tienes que abrir, regar y en unos pocos días cosechar
-- Con este kit de autocultivo de setas ostra, podrás disfrutar en casa de una experiencia fácil, divertida y sostenible
-- Producto garantizado, comestible y 100% seguro
 
 [Aquí!!!](https://www.amazon.es/dp/B01M11NWR8/?tag=tolees-21)

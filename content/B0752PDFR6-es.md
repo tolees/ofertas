@@ -25,10 +25,10 @@ Está [G-STAR RAW D-STAQ 5-Pocket Slim  Jeans  Azul  medium indigo aged 8968-602
 
 ℹ️:
 
-- Costuras con forma en la parte interior de la rodilla
+- La prenda se estrecha del muslo a los bajos
 - Talle medio
+- La prenda se estrecha del muslo a los bajos
 - Bolsillo para monedas colocado hacia la parte delantera
-- La prenda se estrecha del muslo a los bajos
-- La prenda se estrecha del muslo a los bajos
+- Costuras con forma en la parte interior de la rodilla
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0752PDFR6/?tag=tolees-21)

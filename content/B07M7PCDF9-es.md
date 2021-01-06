@@ -25,10 +25,10 @@ Tienes [Our World is Ended - Day One Edition](https://www.amazon.es/dp/B07M7PCDF
 
 🔎:
 
+- Our World is Ended Game
+- Keyring
 - A story with catastrophic consequences - Is it a computer game glitch? Or something more sinister?
 - Artbook
-- Keyring
 - A new masterpiece of narrative visual storytelling
-- Our World is Ended Game
 
 [Comprar!!!](https://www.amazon.es/dp/B07M7PCDF9/?tag=tolees-21)

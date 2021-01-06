@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance 997H Core  Zapatillas Hombre al 40.88 % de descuento'
-date: 2020-12-22 12:58:12
+date: 2021-01-06 11:56:17
 image: 'https://m.media-amazon.com/images/I/41etxZfhwVL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,11 +25,11 @@ Ahora mismo tienes [New Balance 997H Core  Zapatillas Hombre  Negro  Black Silve
 
 🔎:
 
-- Revestimiento: Tela
-- Material exterior: Cuero
-- Composición: Empeine de malla/ante
 - Tipo de tacón: Plano
+- Material exterior: Cuero
 - Material de la suela: Sintético
 - Cierre: Cordones
+- Revestimiento: Tela
+- Composición: Empeine de malla/ante
 
 [Visítala!!!](https://www.amazon.es/dp/B07BL17Z2K/?tag=tolees-21)

@@ -25,10 +25,10 @@ Está [Oral-B Vitality 100 Cepillo Eléctrico Recargable con Tecnología de Brau
 
 ℹ️:
 
-- El cepillo esencial para conseguir una limpieza diaria
-- Elimina más placa que un cepillo manual normal
-- Vibra cada 30 segundos para avisarte de que cambies la zona que te estás cepillando
 - Tipo de fuente de energía: batería
+- El cepillo esencial para conseguir una limpieza diaria
+- Vibra cada 30 segundos para avisarte de que cambies la zona que te estás cepillando
 - Contenido: 1 mango de cepillo de dientes, 1 cabezal de recambio
+- Elimina más placa que un cepillo manual normal
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07DGJ6NZB/?tag=tolees-21)

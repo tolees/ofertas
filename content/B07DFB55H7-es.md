@@ -25,10 +25,10 @@ Ahora mismo tienes [Pop! The Lord of The Rings - Figura de Vinilo Dunharrow King
 
 🔎:
 
-- Nº 633
-- Funko Pop
 - Colección El Señor de los Anillos
+- Funko Pop
 - Caja ilustrada con ventana
+- Nº 633
 - Licencia Oficial
 
 [Visítala!!!](https://www.amazon.es/dp/B07DFB55H7/?tag=tolees-21)

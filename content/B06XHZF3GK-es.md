@@ -26,9 +26,9 @@ En este momento está [Robot Trenes 80171 – Estación de Lavado de Kay 123 
 🔎:
 
 - Playset, figura tren Kay y acessoires de lavado. Pilas no incluidas.
-- Mágico: El tren se detiene tan pronto como se enfrenta a un obstáculo y luego repart una vez el obstáculo quitado.
 - Efectos de sonido y luz.
-- Una auténtica estación de lavado equipada con un cepillo de néttoyage pivotante, zona de secado...
 - Centro de actividades manuales y electrónicos.
+- Mágico: El tren se detiene tan pronto como se enfrenta a un obstáculo y luego repart una vez el obstáculo quitado.
+- Una auténtica estación de lavado equipada con un cepillo de néttoyage pivotante, zona de secado...
 
 [Aquí!!!](https://www.amazon.es/dp/B06XHZF3GK/?tag=tolees-21)

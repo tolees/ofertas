@@ -25,10 +25,10 @@ Está [Finocam - Agenda 2021 Semana vista apaisada Espiral Opaque Negro Español
 
 ℹ️:
 
+- Material principal: Tapas de polipropileno opaco y espiral simple metálica. Papel.Papel de 80gr/m2. Papel FSC ecológico libre de cloro elemental y de ácido, fabricado mediante la utilización de energías limpias, con el 100% de celulosa controlada, y bajo los certificados de calidad ISO9001:2015 y medio ambiente ISO14001:2015, cumpliendo así la normativa ISO9706 sobre la permanencia del papel. El Forest Stewardship Council (FSC) es una organización no gubernamental, independiente, sin ánimo de lucro, establecida para promover una gestión forestal ambientalmente responsable, socialmente beneficiosa y económicamente viable en los bosques de todo el mundo.
+- 12 meses (enero-diciembre)
 - Contenido: Datos personales, horarios, calendarios, plan anual, festivos internacionales, cómo buscar mejor en Google, métodos abreviados de teclado, mapa de Europa Husos horarios, hojas para notas y hojas para teléfonos, direcciones y e-mails.
 - Interior: Semana vista apaisada. Visión de la semana completa en apaisado que permite la escritura natural. Con espacio para concretar horario. Con información de los festivos de España.
 - Conoce más detalles de este artículo en la descripción de producto. Los artículos Finocam están diseñados para optimizar tu organización personal, haciendo tu vida más práctica, cómoda y a la vez más bella. Comprando Finocam adquieres productos de calidad.
-- 12 meses (enero-diciembre)
-- Material principal: Tapas de polipropileno opaco y espiral simple metálica. Papel.Papel de 80gr/m2. Papel FSC ecológico libre de cloro elemental y de ácido, fabricado mediante la utilización de energías limpias, con el 100% de celulosa controlada, y bajo los certificados de calidad ISO9001:2015 y medio ambiente ISO14001:2015, cumpliendo así la normativa ISO9706 sobre la permanencia del papel. El Forest Stewardship Council (FSC) es una organización no gubernamental, independiente, sin ánimo de lucro, establecida para promover una gestión forestal ambientalmente responsable, socialmente beneficiosa y económicamente viable en los bosques de todo el mundo.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08D3JQ6DH/?tag=tolees-21)
