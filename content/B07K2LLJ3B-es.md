@@ -25,8 +25,8 @@ En este momento está [adidas Adilette Aqua  Slide Sandal Unisex-Adult  Core Bla
 
 🔎:
 
-- Corte regular
-- Diseño del Slip-On
 - Cinturón de EVA preformado de una pieza
+- Diseño del Slip-On
+- Corte regular
 
 [Aquí!!!](https://www.amazon.es/dp/B07K2LLJ3B/?tag=tolees-21)

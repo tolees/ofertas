@@ -25,12 +25,12 @@ Está [MSI Creator 15 A10SD-276ES - Ordenador portátil de 15.6" FullHD 144Hz  I
 
 ℹ️:
 
-- Memoria RAM 32GB (16GB*2) 2666MHz
-- Durabilidad de grado militar, estándar militar MIL-STD-810G de confiabilidad y durabilidad.
-- Sistema operativo Windows 10 Home
-- Almacenamiento de 1 TB NVMe PCIe Gen3x4 SSD
-- Tarjeta grafica GeForce GTX 1660 Ti MAX Q, GDDR6 6 GB
 - Display 15.6" FullHD (1920*1080) 16:9 144hz
+- Memoria RAM 32GB (16GB*2) 2666MHz
+- Tarjeta grafica GeForce GTX 1660 Ti MAX Q, GDDR6 6 GB
+- Sistema operativo Windows 10 Home
 - Procesador Intel Core i7-10875H+HM470 (8 núcleos, 16 MB Cache, 2.3 GHz hasta 5.1 GHz)
+- Almacenamiento de 1 TB NVMe PCIe Gen3x4 SSD
+- Durabilidad de grado militar, estándar militar MIL-STD-810G de confiabilidad y durabilidad.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08CY9QM1C/?tag=tolees-21)

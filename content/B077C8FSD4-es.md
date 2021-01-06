@@ -25,7 +25,7 @@ Tienes [Converse Taylor Chuck 70 Hi  Sneaker Unisex-Adult  White/Garnet/Egret  3
 
 🔎:
 
-- Detalles modernos
 - La tapa de goma del dedo del pie
+- Detalles modernos
 
 [Comprar!!!](https://www.amazon.es/dp/B077C8FSD4/?tag=tolees-21)

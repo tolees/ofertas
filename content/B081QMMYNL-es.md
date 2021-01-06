@@ -25,10 +25,10 @@ Está [PUMA Carina Leo H  Zapatillas Mujer  Negro Black Black  38 EU](https://ww
 
 ℹ️:
 
-- Cierre con cordones
 - Zapatillas deportivas Carina Leo (373228-01)
-- Detalle leopardo en la parte trasera
 - Logotipo de la marca en el talón y la lengüeta
 - Parte superior de cuero
+- Cierre con cordones
+- Detalle leopardo en la parte trasera
 
 [Ver la oferta!!](https://www.amazon.es/dp/B081QMMYNL/?tag=tolees-21)
