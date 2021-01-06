@@ -26,9 +26,9 @@ Ahora mismo tienes [Bourjois City Radiance Base de Maquillaje Tono 05 Golden bei
 🔎:
 
 - Fondo de maquillaje a prueba de roces que proporciona una cobertura media
-- Hasta 24 horas de piel radiante y hidratada gracias a su fórmula con 40% de agua
+- Fórmula con complejo antipolución que evita la adherencia de particulas de carbón y deja que la piel respire
 - Apto para todo tipo de pieles, especialmente para pieles secas
 - SPF 30 UV que protege la piel de los rayos UVA y UVB
-- Fórmula con complejo antipolución que evita la adherencia de particulas de carbón y deja que la piel respire
+- Hasta 24 horas de piel radiante y hidratada gracias a su fórmula con 40% de agua
 
 [Visítala!!!](https://www.amazon.es/dp/B01CLMHDR2/?tag=tolees-21)

@@ -25,10 +25,10 @@ Tienes [Bourjois Contour Edition Perfilador de Labios Tono 12 Chocolate chip - 4
 
 🔎:
 
-- Hasta 12 horas de larga duración sin retoques
 - Perfilador de Labios de larga duración con textura fundente y cremosa
-- Enriquecido con manteca de Karité y esencia de uva
 - Tonos fundentes y acordes a las barras de labios de Bourjois
+- Enriquecido con manteca de Karité y esencia de uva
+- Hasta 12 horas de larga duración sin retoques
 - Textura suave y cremosa que se desliza fácilmente sobre los labios
 
 [Comprar!!!](https://www.amazon.es/dp/B00O32UW9U/?tag=tolees-21)

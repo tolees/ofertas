@@ -25,10 +25,10 @@ Tienes [Under Armour Vanish Woven Graphic STS Corto  Hombre  Negro  LG](https://
 
 🔎:
 
+- Confección con tejido elástico en 4 direcciones que permite una mayor movilidad
 - Material que capilariza el sudor y se seca rápidamente
 - Paneles de malla para una ventilación estratégica
-- Confección con tejido elástico en 4 direcciones que permite una mayor movilidad
-- Tejido ultraligero y resistente diseñado para los entrenamientos más intensos
 - Cintura elástica para un ajuste seguro y cómodo, que queda plana en la parte delantera para proporcionar un look impecable y suave
+- Tejido ultraligero y resistente diseñado para los entrenamientos más intensos
 
 [Comprar!!!](https://www.amazon.es/dp/B07YXNM4TP/?tag=tolees-21)

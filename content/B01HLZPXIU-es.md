@@ -25,10 +25,10 @@ Está [Etekcity Báscula de Cocina Digital de Alta Precisión  5Kg / 11Lbs  Peso
 
 ℹ️:
 
-- ➤MEDICIÓN DE PESO Y VOLUMEN: incluye el modo de medición de volumen de agua y la leche. rápidamente y convenientemente convertir los resultados de la medición en cualquier momento entre g/ml / lboz /floz con la pulsación de un solo botón
 - ➤OBTENER INMEDIATA: capacidad: 5kg / 11lbs; división: 1g/0,1oz; fabricada con sistema de sensores de alta precisión para proporcionar los resultados más exactos, perfecta para hornear, cocinar y pesaje de joyas
-- ➤ELEGANTE Y LISO: plataforma de acero inoxidable añade una estética moderna a su cocina mientras que proporciona una superficie de medición duradera, amplia y fácil de limpiar
-- ➤TARA INSTANTÁNEA: la Función de Tara instantánea ofrece mayor comodidad de medición; le permite deducir el peso de un recipiente del peso total con el fin de determinar el peso neto del contenido
 - ➤FÁCIL DE USAR: incluye Indicador de Batería Baja y función de Auto-Apagado (120s) para ahorrar energía; Función de Valor de Peso Negativo/ Baja Potencia/ Indicador de Sobrecarga; 2 pilas AAA incluidas.
+- ➤TARA INSTANTÁNEA: la Función de Tara instantánea ofrece mayor comodidad de medición; le permite deducir el peso de un recipiente del peso total con el fin de determinar el peso neto del contenido
+- ➤MEDICIÓN DE PESO Y VOLUMEN: incluye el modo de medición de volumen de agua y la leche. rápidamente y convenientemente convertir los resultados de la medición en cualquier momento entre g/ml / lboz /floz con la pulsación de un solo botón
+- ➤ELEGANTE Y LISO: plataforma de acero inoxidable añade una estética moderna a su cocina mientras que proporciona una superficie de medición duradera, amplia y fácil de limpiar
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01HLZPXIU/?tag=tolees-21)

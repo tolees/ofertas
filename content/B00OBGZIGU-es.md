@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 21.40 % en Only onlROYAL REG SKINNY JEANS PIM504 NO'
-date: 2021-01-04 12:45:49
+date: 2021-01-06 00:10:16
 image: 'https://m.media-amazon.com/images/I/31EzvkEp1QL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00OBGZIGU/?tag=tolees-21'
 descuento: '21.40'
-average: '18.813943661971823'
+average: '18.818767123287664'
 ---
 
 Tienes [Only onlROYAL REG SKINNY JEANS PIM504 NOOS - Vaqueros Mujer  Azul  Medium Blue Denim   M  30 ](https://www.amazon.es/dp/B00OBGZIGU/?tag=tolees-21) con un 21.40 % de descuento con precio de oferta de 18.99 EUR (original: 24.16 EUR) en el siguiente enlace!

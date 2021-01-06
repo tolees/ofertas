@@ -25,8 +25,8 @@ Ahora mismo tienes [Emporio Armani Reloj Cronógrafo para Hombre de Cuarzo con C
 
 🔎:
 
-- Forma de la Carcasa: Redondo
 - Brazalete de acero inoxidable con acabado pulido brillante y mate en color oro rosa
 - Diámetro de la caja : 43 milímetros
+- Forma de la Carcasa: Redondo
 
 [Visítala!!!](https://www.amazon.es/dp/B00ID6T92S/?tag=tolees-21)

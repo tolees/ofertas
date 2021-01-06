@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WFXB700B True Wireless - Auriculare al 47.72 % de descuento'
-date: 2021-01-04 12:52:38
+date: 2021-01-06 00:51:19
 image: 'https://m.media-amazon.com/images/I/31ATCxtDIdL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B086LKXYMD/?tag=tolees-21'
 descuento: '47.72'
-average: '76.48805084745761'
+average: '76.52024999999999'
 ---
 
 Está [Sony WFXB700B True Wireless - Auriculares  Totalmente inalámbrico  Bluetooth  Extra Bass  Micro para llamadas Manos Libres  18h de batería  Resistencia IPX4   Negro](https://www.amazon.es/dp/B086LKXYMD/?tag=tolees-21) con 47.72 de descuento por 78.42 EUR (original: 150.0 EUR) en el siguiente enlace!
@@ -25,10 +25,10 @@ Está [Sony WFXB700B True Wireless - Auriculares  Totalmente inalámbrico  Bluet
 
 ℹ️:
 
-- Totalmente inalámbrico
-- Resistencia IPX4
 - Hasta 18h de batería con caja (9 h de uso sin caja)
-- Conexión Bluetooth simultánea en ambos auriculares
+- Totalmente inalámbrico
 - Llamadas manos libres
+- Conexión Bluetooth simultánea en ambos auriculares
+- Resistencia IPX4
 
 [Ver la oferta!!](https://www.amazon.es/dp/B086LKXYMD/?tag=tolees-21)
