@@ -27,8 +27,8 @@ Tienes [Microsoft - Wired Stereo Headset - Nueva Reedición  Xbox One ](https://
 
 - Compatibles con Xbox One, Xbox One X, Xbox One S y PC
 - Incluye adaptador que se conecta al mando para una experiencia completa
-- Con micrófono
 - Auriculares con cable
+- Con micrófono
 - Diseño cómodo para jugar a partidas durante varias horas
 
 [Comprar!!!](https://www.amazon.es/dp/B07CHQJZJ9/?tag=tolees-21)

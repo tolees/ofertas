@@ -25,8 +25,8 @@ Está [NIVEA Creme Care Jabón en pastilla en pack de 3  3 x 100 g   jabón de m
 
 ℹ️:
 
+- Brand - Nivea
 - Content - 3 units
 - Ref - 1017-23968
-- Brand - Nivea
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01AI26DRS/?tag=tolees-21)
