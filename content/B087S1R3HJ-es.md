@@ -25,10 +25,10 @@ En este momento está [Chicco Baby Market - Bilingües](https://www.amazon.es/dp
 
 🔎:
 
-- Botón de sonido ON/OFF
+- juguete educativo electrónico Bilingüe
+- Modo dejuego de preguntas hace que sea aún más divertido aprender nombres, colores y recetas en 2 idiomas.
 - Más de 40 canciones, palabras y sonidos
 - Contenido bilingüe sobre frutas y vegetales, colores, recetas, frases para juegos de simulación.
-- Modo dejuego de preguntas hace que sea aún más divertido aprender nombres, colores y recetas en 2 idiomas.
-- juguete educativo electrónico Bilingüe
+- Botón de sonido ON/OFF
 
 [Aquí!!!](https://www.amazon.es/dp/B087S1R3HJ/?tag=tolees-21)

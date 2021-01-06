@@ -25,7 +25,7 @@ Está [Skechers Flex Advantage Sr Fourche  Zapatos de Vestir par Uniforme Hombre
 
 ℹ️:
 
-- Cuello acolchado con cordones con suela Sr
 - EN ISO 20347:2012; OB FO SRC
+- Cuello acolchado con cordones con suela Sr
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07W86HPBM/?tag=tolees-21)

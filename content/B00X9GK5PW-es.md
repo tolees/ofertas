@@ -25,10 +25,10 @@ Tienes [Toshiba TransMemory U301 - Memoria USB de 32 GB  Color Blanco](https://w
 
 ℹ️:
 
-- Intervalo de temperatura operativa: 0 - 50° C
-- Sistemas operativos Windows soportado: Windows 7/8/Vista/10
-- Modo cómodo y rápido de realizar copias de seguridad y transportar su información
 - Sistemas operativos Mac soportado: Mac OS X 10.6/10.7/10.8/10.9
+- Intervalo de temperatura operativa: 0 - 50° C
+- Modo cómodo y rápido de realizar copias de seguridad y transportar su información
 - Tipo de conexión USB 3.0
+- Sistemas operativos Windows soportado: Windows 7/8/Vista/10
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00X9GK5PW/?tag=tolees-21)

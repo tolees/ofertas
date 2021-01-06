@@ -25,10 +25,10 @@ Tienes [Boston Tech BA-104 - Bascula para bebés y Mascotas. Balanza digital con
 
 🔎:
 
-- ✅Esta Bascula para Bebés y Mascotas tiene un mecanismo de desconexión automática que ahorra batería y almacena en la memoria la ultima medida.
-- ✅La Boston Tech BA-104 Funciona con 3 pilas AAA, incluidas en el producto.
-- ✅Esta bascula cuenta con una funcion TARA para medir con mayor precicion y HOLD que toma en cuenta los movimientos de su bebe durante el proceso de medición. Con una capacidad de 20kg. y medición en incrementos de 5g.
 - ✅La Boston tech BA-104 hace conversiones entre Kg./Lb/OZ es muy facil de limpiar con una superficie cóncava anti-resbalante y patas de goma antideslizantes resistentes al desgaste y para mayor estabilidad
+- ✅Esta bascula cuenta con una funcion TARA para medir con mayor precicion y HOLD que toma en cuenta los movimientos de su bebe durante el proceso de medición. Con una capacidad de 20kg. y medición en incrementos de 5g.
+- ✅Esta Bascula para Bebés y Mascotas tiene un mecanismo de desconexión automática que ahorra batería y almacena en la memoria la ultima medida.
 - ✅La Bascula de Bebes Boston Tech BA-104, tiene una pantalla LCD retro-iluminada con dígitos grandes para su fácil lectura desde cualquier angulo.
+- ✅La Boston Tech BA-104 Funciona con 3 pilas AAA, incluidas en el producto.
 
 [Comprar!!!](https://www.amazon.es/dp/B077N7X4LW/?tag=tolees-21)

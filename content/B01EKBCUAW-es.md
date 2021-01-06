@@ -26,8 +26,8 @@ Está [Playmobil Crucero- Playset  Miscelanea  6978 ](https://www.amazon.es/dp/B
 ℹ️:
 
 - Desarrolla la imaginación y la creatividad
-- Se puede extraer la cubierta inferior
 - Incluye dos habitaciones con cuarto de baño
 - Barco crucero de dos plantas y cubierta solárium
+- Se puede extraer la cubierta inferior
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01EKBCUAW/?tag=tolees-21)

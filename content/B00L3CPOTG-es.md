@@ -25,10 +25,10 @@ En este momento está [Camper Nautico  Zapatos para Hombre  Marrón  Medium Brow
 
 🔎:
 
-- Cosido 360º: mayor durabilidad.
 - Color: marrón
-- Material principal: Piel lisa
 - Suela con cortes verticales: flexibilidad
+- Cosido 360º: mayor durabilidad.
+- Material principal: Piel lisa
 - Forro: 100 % Piel vacuna
 
 [Aquí!!!](https://www.amazon.es/dp/B00L3CPOTG/?tag=tolees-21)
