@@ -25,7 +25,7 @@ Tienes [Intel 7260.HMWWB.R - Tarjeta de Red AC 7260 + Bluetooth  PCIe  867Mbps  
 
 ℹ️:
 
-- Si el producto tiene enchufe puede necesitar un adaptador para clavija de Reino Unido. Si el producto tiene teclado, es configuración de Reino Unido
 - Host interface:mini pci express
+- Si el producto tiene enchufe puede necesitar un adaptador para clavija de Reino Unido. Si el producto tiene teclado, es configuración de Reino Unido
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00HCOV830/?tag=tolees-21)

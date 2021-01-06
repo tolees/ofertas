@@ -25,9 +25,9 @@ Está [Hellmann s - Gran Salsa Barbacoa  285 g](https://www.amazon.es/dp/B00XAC1
 
 ℹ️:
 
-- Salsa predilecta para la carne
 - Contiene Pescado y/o productos a base de pescados
-- Añade un toque de distinción a tu plato
 - Puro sabor para conquistar tus platos
+- Salsa predilecta para la carne
+- Añade un toque de distinción a tu plato
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00XAC1ISS/?tag=tolees-21)

@@ -25,11 +25,11 @@ Ahora mismo tienes [LG 49NANO80ALEXA - Smart TV 4K NanoCell 123 cm  49" con Inte
 
 🔎:
 
-- Compatible con HDR10 Pro y HLG
-- Sistema operativo Smart TV webOS 5.0, fácil, rápido y seguro (certificado por UL Cybersecurity) con Inteligencia Artificial: LG ThinQ AI, Alexa, Asistente de Google
-- Caja reforzada para Amazon (certificación ISTA6) con diseño genérico 49NANO806NA
-- Mando Magic Control AN-MR20GA, necesario para las funciones de Inteligencia Artificial, incluido
 - LG NanoCell, la gran tecnología de las grandes pulgadas
+- Mando Magic Control AN-MR20GA, necesario para las funciones de Inteligencia Artificial, incluido
 - Disfruta de la experiencia del Sonido Ultra Surround
+- Sistema operativo Smart TV webOS 5.0, fácil, rápido y seguro (certificado por UL Cybersecurity) con Inteligencia Artificial: LG ThinQ AI, Alexa, Asistente de Google
+- Compatible con HDR10 Pro y HLG
+- Caja reforzada para Amazon (certificación ISTA6) con diseño genérico 49NANO806NA
 
 [Visítala!!!](https://www.amazon.es/dp/B084XT6K7G/?tag=tolees-21)

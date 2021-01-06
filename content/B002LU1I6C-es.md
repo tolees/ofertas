@@ -25,8 +25,8 @@ Está [Lacoste L1312 Polo  Blanco  Blanc   XS  Talla del fabricante: 2  para Hom
 
 ℹ️:
 
-- Camiseta para hombres, marca Lacoste
-- Cuello y puños acanalados
 - Cocodrilo verde bordado en el pecho
+- Cuello y puños acanalados
+- Camiseta para hombres, marca Lacoste
 
 [Ver la oferta!!](https://www.amazon.es/dp/B002LU1I6C/?tag=tolees-21)
