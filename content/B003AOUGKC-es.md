@@ -25,11 +25,11 @@ En este momento está [Havaianas Top  Chanclas Unisex Adulto  Amarillo  Citrus Y
 
 🔎:
 
-- Material de la suela: Goma
-- Cierre: Sin cordones
-- Revestimiento: Sin forro
-- Material exterior: Goma
-- Composición: Goma
 - Tipo de tacón: Plano
+- Revestimiento: Sin forro
+- Composición: Goma
+- Cierre: Sin cordones
+- Material exterior: Goma
+- Material de la suela: Goma
 
 [Aquí!!!](https://www.amazon.es/dp/B003AOUGKC/?tag=tolees-21)

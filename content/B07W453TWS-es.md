@@ -25,11 +25,11 @@ En este momento está [Johnnie Walker Song of Fire Whisky Escocés  Edición lim
 
 🔎:
 
-- Una edición limitada para regalar y coleccionar
-- La edición especial Johnny Walker Song of Ice y Song of Fire es perfecta para los amantes del whisky y fanáticos de la serie
-- Contenido del envío: 1x Johnnie Walker – Song of Fire – Whisky edición limitada Game of Thrones / Casa Stark / 40.8% Vol. / 700 ml
 - El diseño de la botella evoca un ambiente ardiente con colores rojos intensos inspirados en los dragones de la casa Targaryen. Johnnie Walker Song of Fire se disfruta mejor combinado con cerveza de jengibre fría
 - Esta mezcla tiene un sabor rico y picante, inspirado en el fuego que corre por las venas de los Targaryen y cuyos dragones respiran flamas feroces
 - Johnnie Walker Song of Fire es uno de los dos innovadores whiskies inspirados en las Casas que se enfrentan a la última temporada de Juego de Tronos: la Casa Stark y la Casa Targaryen
+- Una edición limitada para regalar y coleccionar
+- La edición especial Johnny Walker Song of Ice y Song of Fire es perfecta para los amantes del whisky y fanáticos de la serie
+- Contenido del envío: 1x Johnnie Walker – Song of Fire – Whisky edición limitada Game of Thrones / Casa Stark / 40.8% Vol. / 700 ml
 
 [Aquí!!!](https://www.amazon.es/dp/B07W453TWS/?tag=tolees-21)

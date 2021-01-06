@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok Classic Leather - Zapatillas de c al 36.03 % de descuento'
-date: 2020-11-23 13:28:03
+date: 2021-01-06 22:26:54
 image: 'https://m.media-amazon.com/images/I/31HInix87lL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,13 +16,18 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001NYDI1U/?tag=tolees-21'
 descuento: '36.03'
+average: '58.002857142857145'
 ---
 
-Ahora mismo tienes [Reebok Classic Leather - Zapatillas de cuero para hombre  color blanco  int-white / lt. grey   talla 44.5](https://www.amazon.es/dp/B001NYDI1U/?tag=tolees-21) a 55.97 EUR (original: 87.49 EUR) (36.03 %  de descuento) en el siguiente enlace!
+Está [Reebok Classic Leather - Zapatillas de cuero para hombre  color blanco  int-white / lt. grey   talla 44.5](https://www.amazon.es/dp/B001NYDI1U/?tag=tolees-21) con 36.03 de descuento por 55.97 EUR (original: 87.49 EUR) en el siguiente enlace!
 
 [![Reebok Classic Leather - Zapatillas de c](https://m.media-amazon.com/images/I/31HInix87lL._SL200_.jpg)](https://www.amazon.es/dp/B001NYDI1U/?tag=tolees-21)
 
 ℹ️:
 
+- Parte superior de piel suave para un confort excepcional
+- Suela de caucho resistente a la fricción que potencia la tracción y la durabilidad
+- La plantilla moldeada de poliuretano añade confort y durabilidad
+- Mediasuela moldeada de EVA y amortiguación ligera
 
-[Visítala!!!](https://www.amazon.es/dp/B001NYDI1U/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B001NYDI1U/?tag=tolees-21)

@@ -25,10 +25,10 @@ Ahora mismo tienes [Monopoly - The Walking Dead [Importado de Inglaterra]](https
 
 🔎:
 
-- R.V.
-- Telephone
-- Ricks Hat
 - Katana
+- Telephone
+- R.V.
+- Ricks Hat
 - Lucille (Bat)
 
 [Visítala!!!](https://www.amazon.es/dp/B00D8U2NCW/?tag=tolees-21)

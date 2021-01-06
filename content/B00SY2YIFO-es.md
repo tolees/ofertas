@@ -25,10 +25,10 @@ Ahora mismo tienes [Lotus Reloj Análogo clásico para niñas de Cuarzo con Corr
 
 🔎:
 
-- Cristal mineral endurecido
-- Patrones de flores en la correa
 - Caja redonda de acero inoxidable
-- Correa de piel con hebilla clásica de acero inoxidable
+- Patrones de flores en la correa
 - Resistencia al agua hasta 50 metros
+- Cristal mineral endurecido
+- Correa de piel con hebilla clásica de acero inoxidable
 
 [Visítala!!!](https://www.amazon.es/dp/B00SY2YIFO/?tag=tolees-21)
