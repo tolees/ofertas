@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Our World is Ended - Day One Edition al 60.01 % de descuento'
-date: 2020-12-20 18:21:21
+title: 'Our World is Ended - Day One Edition al 60.01 % de rebaja'
+date: 2021-01-06 10:54:41
 image: 'https://m.media-amazon.com/images/I/61U1qcR3CuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,16 +19,16 @@ descuento: '60.01'
 average: '19.99'
 ---
 
-Ahora mismo tienes [Our World is Ended - Day One Edition](https://www.amazon.es/dp/B07M7PCDF9/?tag=tolees-21) a 19.99 EUR (original: 49.99 EUR) (60.01 %  de descuento) en el siguiente enlace!
+Tienes [Our World is Ended - Day One Edition](https://www.amazon.es/dp/B07M7PCDF9/?tag=tolees-21) con precio final de  19.99 EUR (original: 49.99 EUR) (60.01 %  de rebaja) aqui!
 
 [![Our World is Ended - Day One Edition](https://m.media-amazon.com/images/I/61U1qcR3CuL._SL200_.jpg)](https://www.amazon.es/dp/B07M7PCDF9/?tag=tolees-21)
 
 🔎:
 
+- A story with catastrophic consequences - Is it a computer game glitch? Or something more sinister?
 - Artbook
-- Our World is Ended Game
 - Keyring
 - A new masterpiece of narrative visual storytelling
-- A story with catastrophic consequences - Is it a computer game glitch? Or something more sinister?
+- Our World is Ended Game
 
-[Visítala!!!](https://www.amazon.es/dp/B07M7PCDF9/?tag=tolees-21)
+[Comprar!!!](https://www.amazon.es/dp/B07M7PCDF9/?tag=tolees-21)

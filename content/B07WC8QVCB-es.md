@@ -25,10 +25,10 @@ En este momento está [MSI B450M-A Pro MAX B450](https://www.amazon.es/dp/B07WC8
 
 🔎:
 
-- Wifi: no
-- Conectores paralelo/serie: 0/ 0
 - Ps/2: conexiones: 0
-- Conexiones esata: 0
+- Conectores paralelo/serie: 0/ 0
 - Conexiones sata: 0
+- Wifi: no
+- Conexiones esata: 0
 
 [Aquí!!!](https://www.amazon.es/dp/B07WC8QVCB/?tag=tolees-21)

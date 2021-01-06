@@ -27,8 +27,8 @@ Ahora mismo tienes [Doctor Who DW01153 Pop Vinilo  Multi](https://www.amazon.es/
 
 - Con compartimentos para tarjetas, dinero en efectivo y papel psíquico, el bolso TARDIS es un artículo imprescindible para cualquier amante elegante.
 - Viaja a través del tiempo y el espacio con Doctor Who!
-- Presentamos el bolso TARDIS en relieve
 - Fabricada en piel sintética. Cuenta con un cierre de metal y cremallera interna. Mide 19 x 10 cm (cerrado).
+- Presentamos el bolso TARDIS en relieve
 - ¿Buscas un bolso que sea más grande en el interior? Entonces no busques más
 
 [Visítala!!!](https://www.amazon.es/dp/B00NNQTW02/?tag=tolees-21)

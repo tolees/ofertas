@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geographical Norway Parka DE Hombre BECO al 29.39 % de rebaja'
-date: 2021-01-05 09:10:59
+date: 2021-01-06 10:26:03
 image: 'https://m.media-amazon.com/images/I/41haDwd4BRL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Tienes [Geographical Norway Parka DE Hombre BECO rol 7 001](https://www.amazon.e
 
 🔎:
 
+- Capucha
 - insignia PVC en la manga
 - Cierre cremallera parte central
-- Capucha
 
 [Comprar!!!](https://www.amazon.es/dp/B082BBKYP9/?tag=tolees-21)

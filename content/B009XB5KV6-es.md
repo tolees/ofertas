@@ -25,8 +25,8 @@ Está [Quantum Mechanix QST030 Star Trek Enterprise D llavero](https://www.amazo
 
 ℹ️:
 
-- EE. UU. Enterprise NCC-1701-D
 - Quantum Mechanix
 - Llavero Star Trek Enterprise D
+- EE. UU. Enterprise NCC-1701-D
 
 [Ver la oferta!!](https://www.amazon.es/dp/B009XB5KV6/?tag=tolees-21)

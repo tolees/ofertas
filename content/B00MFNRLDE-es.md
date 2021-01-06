@@ -25,13 +25,13 @@ Tienes [Disney HP010FZ Auriculares Estéreo  Diadema Ajustable Y Plegable  Azul]
 
 ℹ️:
 
-- Compatible con Sony PSP, PlayStation VITA, Nintendo DS y Nintendo 3DS
-- Se pueden plegarse para guardarlos en tu bolsa, compatible con todos los lectores audio y vídeo con entrada jack
-- La longitud de los laterales de la diadema puede ajustarse para adaptarla perfectamente a tu cabeza
-- Respuesta de frecuencia: de 10 a 24 000 Hz, Impedancia (resistencia acústica): 150 Ohmios
-- Para proteger tu capacidad auditiva, la potencia de los cascos se ha limitado a un máximo de 100 mW, Sensibilidad de 85 dB
 - Muy ligero
-- Al ser extremadamente livianos, podrás llevarlos a todas partes contigo: al colegio, de vacaciones..
+- La longitud de los laterales de la diadema puede ajustarse para adaptarla perfectamente a tu cabeza
+- Se pueden plegarse para guardarlos en tu bolsa, compatible con todos los lectores audio y vídeo con entrada jack
+- Respuesta de frecuencia: de 10 a 24 000 Hz, Impedancia (resistencia acústica): 150 Ohmios
+- Compatible con Sony PSP, PlayStation VITA, Nintendo DS y Nintendo 3DS
 - Diseño plegable práctico
+- Para proteger tu capacidad auditiva, la potencia de los cascos se ha limitado a un máximo de 100 mW, Sensibilidad de 85 dB
+- Al ser extremadamente livianos, podrás llevarlos a todas partes contigo: al colegio, de vacaciones..
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00MFNRLDE/?tag=tolees-21)

@@ -25,8 +25,8 @@ Está [WD Elements - Disco duro externo portátil de 1 5 TB con USB 3.0  color n
 
 ℹ️:
 
+- Capacidad de almacenamiento de 1,5 TB
 - Conexión USB 3.0 y compatibilidad con versiones anteriores de dispositivos USB 2.3
 - Diseñado para ordenadores con sistema operativo Windows, formatable para Mac
-- Capacidad de almacenamiento de 1,5 TB
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06XDKWLJH/?tag=tolees-21)

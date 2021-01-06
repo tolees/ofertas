@@ -26,9 +26,9 @@ Ahora mismo tienes [PUMA Evostripe Evoknit 7/8 Tight Mallas Deporte  Mujer  Foxg
 🔎:
 
 - Estándar OEKO-TEX: Elaboración en conformidad con el estándar OEKO-TEX, con el que se evita el uso de sustancias nocivas desde el hilo hasta el producto final
-- Marca denominativa de PUMA repetida en ambas piernas
 - Tecnología sin costuras
-- Corte ceñido
 - evoKNIT: El diseño tejido y la tecnología sin costuras de PUMA para una adaptación ligera, cómoda y transpirable, y un ajuste ergonómico máximo
+- Marca denominativa de PUMA repetida en ambas piernas
+- Corte ceñido
 
 [Visítala!!!](https://www.amazon.es/dp/B086Q8PL2X/?tag=tolees-21)

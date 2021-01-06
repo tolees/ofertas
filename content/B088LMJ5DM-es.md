@@ -25,10 +25,10 @@ Tienes [ANTAPRCIS 4WD RC Coche  1:14 Off-Road Coche Teledirigido  2.4GHz Crawler
 
 ℹ️:
 
-- Vehículo Todo Turno: Coche RC accionado por un motor de doble imán. La tracción delantera y trasera de 4 ruedas, que puede ofrecer una potente velocidad de par que permite al vehículo escalar superficies rocosas o irregulares. Es perfecto para la tierra, la playa, el área cubierta de hierba, los robustos camiones de montaña rocosa.
-- Transmisor de 2.4GHz, Rango de 50 Metros: Transmisor RC de 2.4GHz con un rango de control de 50 metros, que puede soportar varios coches jugar al mismo tiempo.
 - Batería Doble: Este RC Crawler viene con dos baterías 600mAh 4.8v NiMh. ¡Dos baterías significan doble diversión! Lo que puede ofrecer 25-30 minutos para jugar.
+- Vehículo Todo Turno: Coche RC accionado por un motor de doble imán. La tracción delantera y trasera de 4 ruedas, que puede ofrecer una potente velocidad de par que permite al vehículo escalar superficies rocosas o irregulares. Es perfecto para la tierra, la playa, el área cubierta de hierba, los robustos camiones de montaña rocosa.
 - Juguete probado al 100%: Este coche se ha fabricado usando material ABS y PA de alta calidad, y ha superado pruebas de impactos y caídas, garantizando así la máxima durabilidad y robustez.
 - Protección de Calidad Off-Road:Sistema de muelles de suspensión 4WD hace que el cuerpo de coche sea flexible y no se verá afectado por impactos o caídas. Neumáticos de goma está hecho de TPE de alta calidad, con un fuerte agarre y control estable en tierra.
+- Transmisor de 2.4GHz, Rango de 50 Metros: Transmisor RC de 2.4GHz con un rango de control de 50 metros, que puede soportar varios coches jugar al mismo tiempo.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B088LMJ5DM/?tag=tolees-21)
