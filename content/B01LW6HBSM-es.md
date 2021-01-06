@@ -25,8 +25,8 @@ Está [Kingston ValueRAM - Memoria RAM Interna 1 x 8 GB  DDR4  Color Verde](http
 
 ℹ️:
 
-- Memoria interna: 8 gb
 - Tipo de memoria interna: ddr4
 - Velocidad de memoria del reloj: 2400 mhz
+- Memoria interna: 8 gb
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01LW6HBSM/?tag=tolees-21)

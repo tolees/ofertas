@@ -25,9 +25,9 @@ Ahora mismo tienes [Funko Pop! Figura De Vinil TV: Walking Dead - Daryl](https:/
 
 🔎:
 
-- Recomendado para niños a partir de 3 años
-- Figura de colección de la marca Funko
-- El artículo es adecuado para todos los fanáticos de Walking Dead
 - El producto se envía en una caja ilustrada con ventana
+- Recomendado para niños a partir de 3 años
+- El artículo es adecuado para todos los fanáticos de Walking Dead
+- Figura de colección de la marca Funko
 
 [Visítala!!!](https://www.amazon.es/dp/B07QGWYPDG/?tag=tolees-21)

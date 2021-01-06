@@ -25,8 +25,8 @@ Está [TRIXIE flexi New CLASSIC Long  Correa Extensible  S  8 m  Rojo  Perro](ht
 
 ℹ️:
 
-- desde talla S, con banda reflectante y ampliable con los accesorios Caja Multiusos flexi y Sistema de Iluminación LED
-- con sistema anti tensión
 - correa de cuerda enrollable
+- con sistema anti tensión
+- desde talla S, con banda reflectante y ampliable con los accesorios Caja Multiusos flexi y Sistema de Iluminación LED
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00O3B1ZCO/?tag=tolees-21)

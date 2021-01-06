@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Bombilla LED esférica casquillo  al 46.68 % de descuento'
-date: 2021-01-05 13:25:33
+date: 2021-01-06 19:48:01
 image: 'https://m.media-amazon.com/images/I/41MaEaOXJIL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KHIM7OG/?tag=tolees-21'
 descuento: '46.68'
-average: '18.751136363636355'
+average: '18.70992537313432'
 ---
 
 Ahora mismo tienes [Philips Bombilla LED esférica casquillo E27  8 W  equivalente a 60 W  luz blanca cálida  806 lúmenes  pack de 6](https://www.amazon.es/dp/B01KHIM7OG/?tag=tolees-21) a 15.99 EUR (original: 29.99 EUR) (46.68 %  de descuento) en el siguiente enlace!
@@ -25,9 +25,9 @@ Ahora mismo tienes [Philips Bombilla LED esférica casquillo E27  8 W  equivalen
 
 🔎:
 
-- Bombillas LED de bajo consumo, ahorra hasta un 80%
 - Larga duración: hasta 15 años (15.000 horas)
 - No regulable
+- Bombillas LED de bajo consumo, ahorra hasta un 80%
 - Su acabado mate es adecuado para iluminación general sin crear sombras
 - Luz instantánea al encenderse
 - Recomendado para uso en salones, habitaciones y pasillos creando un espacio acogedor

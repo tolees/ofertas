@@ -25,12 +25,12 @@ Ahora mismo tienes [Sony LSPXS2 - Altavoz portátil de Cristal  Bluetooth  Wi-Fi
 
 🔎:
 
-- Unidad de altavoz integrada de 35.mm para una gama de medios bien equilibrados
-- Accede a tu música de spotify sin usar el dispositivo con solo pulsar un botón
-- Fuente de alimentación: Corriente alterna, Batería
 - Radiador pasivo que genera graves claros
-- Tweeter de tubo de cristal orgánico para agudos nítidos y un sonido de 360
 - Tipo de conectividad: Inalámbrico MicroUSB
 - Con 32 pasos de brillo y dos modos de luz de vela, el parpadeo es hiperrealista
+- Accede a tu música de spotify sin usar el dispositivo con solo pulsar un botón
+- Tweeter de tubo de cristal orgánico para agudos nítidos y un sonido de 360
+- Fuente de alimentación: Corriente alterna, Batería
+- Unidad de altavoz integrada de 35.mm para una gama de medios bien equilibrados
 
 [Visítala!!!](https://www.amazon.es/dp/B07MPQVDYM/?tag=tolees-21)

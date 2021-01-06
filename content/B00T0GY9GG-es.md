@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Thames & Kosmos Kahuna al 46.47 % de rebaja'
-date: 2021-01-05 15:50:42
+date: 2021-01-06 19:11:17
 image: 'https://m.media-amazon.com/images/I/61g7KgnqGcL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00T0GY9GG/?tag=tolees-21'
 descuento: '46.47'
-average: '13.493333333333334'
+average: '13.535'
 ---
 
 Tienes [Thames & Kosmos Kahuna](https://www.amazon.es/dp/B00T0GY9GG/?tag=tolees-21) con precio final de  13.66 EUR (original: 25.52 EUR) (46.47 %  de rebaja) aqui!
@@ -25,9 +25,9 @@ Tienes [Thames & Kosmos Kahuna](https://www.amazon.es/dp/B00T0GY9GG/?tag=tolees-
 
 🔎:
 
-- Fácil de usar
-- Kahuna board game (2-player)
-- Hecho en España
 - Practico y util
+- Hecho en España
+- Kahuna board game (2-player)
+- Fácil de usar
 
 [Comprar!!!](https://www.amazon.es/dp/B00T0GY9GG/?tag=tolees-21)
