@@ -25,10 +25,10 @@ En este momento está [Bosch Professional 2 607 017 082 Bosch 082-Juego de 7 bro
 
 🔎:
 
-- Diámetro: 4,0; 5,0; 6,0; 6,0; 7,0; 8,0; 10,0 mm
+- Longitud de trabajo: 40; 50; 60; 60; 60; 80; 80 mm
 - Longitud total: 75; 85; 100; 100; 100; 120; 120 mm
 - Juego de 7 brocas para hormigón CYL-3
 - El programa de brocas para todas las aplicaciones
-- Longitud de trabajo: 40; 50; 60; 60; 60; 80; 80 mm
+- Diámetro: 4,0; 5,0; 6,0; 6,0; 7,0; 8,0; 10,0 mm
 
 [Aquí!!!](https://www.amazon.es/dp/B008HRFFJE/?tag=tolees-21)

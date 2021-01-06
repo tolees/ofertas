@@ -25,9 +25,9 @@ Tienes [PLAYMOBIL-Pirata con cañón  70415 ](https://www.amazon.es/dp/B08175FKQ
 
 ℹ️:
 
-- Contiene 21 piezas
-- Recomendado a partir de 5 años
-- Desarrolla la imaginación y la creatividad
 - Incluye un pirata y un cañón que dispara calaveras
+- Recomendado a partir de 5 años
+- Contiene 21 piezas
+- Desarrolla la imaginación y la creatividad
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08175FKQJ/?tag=tolees-21)

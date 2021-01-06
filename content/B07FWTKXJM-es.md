@@ -26,9 +26,9 @@ Ahora mismo tienes [Bosch Professional 18V System Taladro percutor a batería GS
 🔎:
 
 - Modelo de entrada con escobillas de carbono intercambiables y caja de engranajes totalmente metálica para perforar, percutar y atornillar
-- Uso flexible gracias a la pinza de 13 mm y a la luz LED para iluminar áreas de trabajo oscuras
-- Incluye: GSB 18V-21, batería recargable de 2x2,0 Ah, juego de accesorios de 40 piezas, cargador GAL 18V-40, L-BOXX 136
 - El destornillador inalámbrico GSB 18 V-21 ofrece un rendimiento profesional gracias a un par de 55 Nm
+- Incluye: GSB 18V-21, batería recargable de 2x2,0 Ah, juego de accesorios de 40 piezas, cargador GAL 18V-40, L-BOXX 136
+- Uso flexible gracias a la pinza de 13 mm y a la luz LED para iluminar áreas de trabajo oscuras
 - Professional 18V System, óptimo rendimiento, óptima libertad, todas nuestras baterías son compatibles con las herramientas o ya existentes de Bosch Professional de la misma categoría de potencia
 
 [Visítala!!!](https://www.amazon.es/dp/B07FWTKXJM/?tag=tolees-21)

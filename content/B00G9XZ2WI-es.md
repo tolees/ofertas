@@ -26,7 +26,7 @@ Ahora mismo tienes [Syma-S107G Helicóptero con giroscopio  Color Rojo  5090 ](h
 🔎:
 
 - Giroscopio
-- Infrarrojo
 - 3 Canales
+- Infrarrojo
 
 [Visítala!!!](https://www.amazon.es/dp/B00G9XZ2WI/?tag=tolees-21)
