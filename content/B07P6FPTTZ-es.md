@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '1.2.3 Camión de Construcción al 41.63 % de descuento'
-date: 2020-12-29 18:46:25
+date: 2021-01-06 15:50:36
 image: 'https://m.media-amazon.com/images/I/51YtnboIq0L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07P6FPTTZ/?tag=tolees-21'
 descuento: '41.63'
-average: '16.41485714285714'
+average: '16.281621621621618'
 ---
 
 Está [1.2.3 Camión de Construcción](https://www.amazon.es/dp/B07P6FPTTZ/?tag=tolees-21) con 41.63 de descuento por 13.95 EUR (original: 23.9 EUR) en el siguiente enlace!
@@ -26,8 +26,8 @@ Está [1.2.3 Camión de Construcción](https://www.amazon.es/dp/B07P6FPTTZ/?tag=
 ℹ️:
 
 - Con función basculante
+- Camión de basura con volquete y accesorios
 - Desarrolla la imaginación y la creatividad
 - Transporte los bloques de construcción junto con la trabajadora de la construcción
-- Camión de basura con volquete y accesorios
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07P6FPTTZ/?tag=tolees-21)

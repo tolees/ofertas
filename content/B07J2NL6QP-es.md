@@ -25,10 +25,10 @@ Está [Lenovo Ideacentre 510S - Ordenador de sobremesa  Intel Core i5-7400  8GB 
 
 ℹ️:
 
-- Procesador Intel Core i5-7400, Quadcore 3GHz hasta 3.5GHz
-- Memoria RAM de 8GB DDR4, 2400Mhz + 16GB Intel Optane
 - Tarjeta gráfica Intel HD Grahpics 630
-- Sistema Operativo: Windows Home 10
 - Almacenamiento HDD de 1TB, 7200RPM
+- Memoria RAM de 8GB DDR4, 2400Mhz + 16GB Intel Optane
+- Procesador Intel Core i5-7400, Quadcore 3GHz hasta 3.5GHz
+- Sistema Operativo: Windows Home 10
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07J2NL6QP/?tag=tolees-21)

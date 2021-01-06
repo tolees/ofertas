@@ -25,8 +25,8 @@ Ahora mismo tienes [adidas Galaxy 5  Running Shoe Mujer  Grey/Glory Grey/Pink Ti
 
 🔎:
 
-- Corte regular
-- malla superior
 - Cordones de zapatos
+- malla superior
+- Corte regular
 
 [Visítala!!!](https://www.amazon.es/dp/B082SYPHQD/?tag=tolees-21)
