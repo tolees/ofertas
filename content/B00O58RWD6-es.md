@@ -25,8 +25,8 @@ Está [Eastpak Benchmark Single Estuche  21 Cm  Gris  Black Denim ](https://www.
 
 ℹ️:
 
-- Compartimento principal amplio para lápices y otros esenciales
 - Altura: 6 cm, Ancho: 20.5 cm, Fondo: 7.5 cm
 - Fabricado con 60 % nylon y 40 % poliéster
+- Compartimento principal amplio para lápices y otros esenciales
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00O58RWD6/?tag=tolees-21)

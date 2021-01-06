@@ -25,8 +25,8 @@ Ahora mismo tienes [adidas Parma 16 Intenso Pantalones Cortos para Fútbol  Homb
 
 🔎:
 
-- Construidos para mantenerlo seco y cómodo para que pueda concentrarse en perfeccionar sus habilidades
 - La tela climalite barre el sudor de la piel
+- Construidos para mantenerlo seco y cómodo para que pueda concentrarse en perfeccionar sus habilidades
 - 100% poliéster piqué
 - Cordón en la cintura elástica
 

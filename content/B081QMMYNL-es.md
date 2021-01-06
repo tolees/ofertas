@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'PUMA Carina Leo H  Zapatillas Mujer  Neg al 22.82 % de descuento'
-date: 2020-12-26 03:39:08
+title: 'PUMA Carina Leo H  Zapatillas Mujer  Neg al 20.25 % de descuento'
+date: 2021-01-06 03:15:54
 image: 'https://m.media-amazon.com/images/I/31z5Jng84wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B081QMMYNL-es'
-actualPrice: 36.97 EUR
+actualPrice: 36.28 EUR
 currency: EUR
-price: 36.97
-comparePrice: 47.9 EUR
+price: 36.28
+comparePrice: 45.49 EUR
 prodname: 'PUMA Carina Leo H  Zapatillas Mujer  Negro Black Black  38 EU'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B081QMMYNL/?tag=tolees-21'
-descuento: '22.82'
-average: '36.97'
+descuento: '20.25'
+average: '39.24'
 ---
 
-Está [PUMA Carina Leo H  Zapatillas Mujer  Negro Black Black  38 EU](https://www.amazon.es/dp/B081QMMYNL/?tag=tolees-21) con 22.82 de descuento por 36.97 EUR (original: 47.9 EUR) en el siguiente enlace!
+Está [PUMA Carina Leo H  Zapatillas Mujer  Negro Black Black  38 EU](https://www.amazon.es/dp/B081QMMYNL/?tag=tolees-21) con 20.25 de descuento por 36.28 EUR (original: 45.49 EUR) en el siguiente enlace!
 
 [![PUMA Carina Leo H  Zapatillas Mujer  Neg](https://m.media-amazon.com/images/I/31z5Jng84wL._SL200_.jpg)](https://www.amazon.es/dp/B081QMMYNL/?tag=tolees-21)
 
@@ -27,8 +27,8 @@ Está [PUMA Carina Leo H  Zapatillas Mujer  Negro Black Black  38 EU](https://ww
 
 - Parte superior de cuero
 - Detalle leopardo en la parte trasera
+- Cierre con cordones
 - Logotipo de la marca en el talón y la lengüeta
 - Zapatillas deportivas Carina Leo (373228-01)
-- Cierre con cordones
 
 [Ver la oferta!!](https://www.amazon.es/dp/B081QMMYNL/?tag=tolees-21)

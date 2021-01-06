@@ -25,11 +25,11 @@ Tienes [Crocs Classic U  Zuecos Unisex Adulto  Lemon  36/37 EU](https://www.amaz
 
 ℹ️:
 
-- Cierre: Tira de tobillo
-- Tipo de tacón: Plano
-- Revestimiento: Sin forro
 - Composición: Sintético
 - Material de la suela: Sintético
+- Cierre: Tira de tobillo
+- Revestimiento: Sin forro
+- Tipo de tacón: Plano
 - Material exterior: Espuma
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B010PELNRY/?tag=tolees-21)
