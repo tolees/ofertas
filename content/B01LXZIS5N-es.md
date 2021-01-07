@@ -25,11 +25,11 @@ Tienes [Timberland Killington Half Cab  Zapatillas Hombre  Gris Dark Grey Full G
 
 ℹ️:
 
-- Material de la suela: goma.
-- Tipo de tacón: plano.
 - Material exterior: piel.
-- Composición: Nubuck
-- Cierre: cordones.
+- Material de la suela: goma.
 - Forro: tela.
+- Cierre: cordones.
+- Composición: Nubuck
+- Tipo de tacón: plano.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01LXZIS5N/?tag=tolees-21)
