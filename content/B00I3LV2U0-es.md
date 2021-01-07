@@ -25,9 +25,9 @@ Tienes [Sony MDR-EX15AP Dentro de oído Binaurale Alámbrico Azul - Auriculares 
 
 ℹ️:
 
-- Disponible en diversos colores
 - Rango de frecuencia 8 Hz-22 kHz
 - Auriculares internos ligeros con diafragma de 9 mm, 8 Hz-22 kHz, tapones de silicona, diversos colores
 - Diafragmas de neodimio (9 mm)
+- Disponible en diversos colores
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00I3LV2U0/?tag=tolees-21)

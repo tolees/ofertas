@@ -25,10 +25,10 @@ En este momento está [HOMCOM Perchero Acero INOX Colgador Ropa 4 Ruedas Alto y 
 
 🔎:
 
-- ✅Peso neto: 2.7 kg , Capacidad de carga: 25 kg
 - ✅Perchero colgador estable y resistente con 4 ruedas
-- ✅Acabados de alta calidad
-- ✅Altura y longitud ajustables
 - ✅Dimensiones (L x P x Al): aprox. 86-160 x 45 x 95-170 cm
+- ✅Altura y longitud ajustables
+- ✅Acabados de alta calidad
+- ✅Peso neto: 2.7 kg , Capacidad de carga: 25 kg
 
 [Aquí!!!](https://www.amazon.es/dp/B07WN1V8PK/?tag=tolees-21)

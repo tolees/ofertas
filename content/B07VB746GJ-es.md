@@ -25,10 +25,10 @@ Está [Napapijri Agard Chaqueta bomber  Azul  Blu Marine 1761   Small para Hombr
 
 ℹ️:
 
-- Bomber jacket.
-- Inner zip pocket.
 - Zip fastening.
 - Pockets with button fastening.
+- Inner zip pocket.
 - Laminated polyamide ottoman fabric.
+- Bomber jacket.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07VB746GJ/?tag=tolees-21)

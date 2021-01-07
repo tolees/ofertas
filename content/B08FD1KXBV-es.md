@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Bluecoats - North vs South Limited E al 35.01 % de descuento'
-date: 2021-01-03 09:25:21
+date: 2021-01-07 09:13:16
 image: 'https://m.media-amazon.com/images/I/51DMKtz1NnL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08FD1KXBV/?tag=tolees-21'
 descuento: '35.01'
-average: '30.490000000000002'
+average: '28.99'
 ---
 
 Está [The Bluecoats - North vs South Limited Edition](https://www.amazon.es/dp/B08FD1KXBV/?tag=tolees-21) con 35.01 de descuento por 25.99 EUR (original: 39.99 EUR) en el siguiente enlace!

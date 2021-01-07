@@ -25,10 +25,10 @@ En este momento está [HORI - Battle Pad Mario  Nintendo Switch ](https://www.am
 
 🔎:
 
+- Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
+- Licencia oficial de Nintendo
+- Réplica del mando original para GameCube
 - Botones L y R de corto recorrido
 - Integración perfecta con Super Smash Bros.
-- Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
-- Réplica del mando original para GameCube
-- Licencia oficial de Nintendo
 
 [Aquí!!!](https://www.amazon.es/dp/B01AD478IY/?tag=tolees-21)

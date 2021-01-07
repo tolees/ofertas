@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Codemasters - DiRT Rally 2.0 Day One Edi al 53.24 % de descuento'
-date: 2021-01-01 15:49:07
+date: 2021-01-07 09:44:52
 image: 'https://m.media-amazon.com/images/I/51syZaD1QeL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Está [Codemasters - DiRT Rally 2.0 Day One Edition  PC ](https://www.amazon.es/
 
 ℹ️:
 
-- Mejoras en el manejo, superficies, y los escenarios ofrecen la experiencia todoterreno mas autentica y centrada de la historia
 - Crea tu propio equipo y su identidad. Expande tu garage de vehículos, controla la plantilla de trabajadores y mejora tus talleres
-- Mas de 50 de los todoterrenos mas potentes jamás construidos- Atraviesa los escenarios con un plantel de coches de rally antiguos y modernos
+- Mejoras en el manejo, superficies, y los escenarios ofrecen la experiencia todoterreno mas autentica y centrada de la historia
 - Tunea tu vehiculo para adaptarlo a tu estilo de conducción y las características del terreno
+- Mas de 50 de los todoterrenos mas potentes jamás construidos- Atraviesa los escenarios con un plantel de coches de rally antiguos y modernos
 - 6 localizaciones de rally reales- Coge el volante a lo largo de los imponentes paisajes de Nueva Zelanda, Argentina, España, Polonia Australia y Estado Unidos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07HZGNT1P/?tag=tolees-21)

@@ -25,10 +25,10 @@ Tienes [GOOD YEAR GOD2110 Aspirador para Coche 12V y Cable de 4 Metros sin Bolsa
 
 ℹ️:
 
-- Potencia de entrada de 12 v, potencia de succión 30 MBar potencia de 90 w
 - Con cable de 12 v para el mechero del coche, longitud del cable de 4 metros
-- Homologación ce
 - Capacidad de recogida de 470 ml, acción ciclónica, incluye accesorios de limpieza para las distintas partes del coche
+- Homologación ce
+- Potencia de entrada de 12 v, potencia de succión 30 MBar potencia de 90 w
 - 1 unidad. Aspirador de coche.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00KSFVBQO/?tag=tolees-21)

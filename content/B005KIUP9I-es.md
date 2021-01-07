@@ -25,8 +25,8 @@ Tienes [Baby Tous 100ml](https://www.amazon.es/dp/B005KIUP9I/?tag=tolees-21) con
 
 🔎:
 
-- Salida: Bergamota, mandarina, neroli
-- Fondo: cedro, almizcle y petit grain
 - Corazón: Pera, manzana y flor de naranjo
+- Fondo: cedro, almizcle y petit grain
+- Salida: Bergamota, mandarina, neroli
 
 [Comprar!!!](https://www.amazon.es/dp/B005KIUP9I/?tag=tolees-21)

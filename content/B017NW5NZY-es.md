@@ -1,29 +1,34 @@
 ---
 layout: post
-title: 'Descuento del 35.47 % en Corsair Vengeance LPX - Módulo de Memori'
-date: 
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31DMg0nfnZL._SL200_.jpg'
+title: 'Descuento del 47.66 % en Corsair CMK16GX4M2A2400C16 Vengeance LPX'
+date: 2021-01-07 09:58:06
+image: 'https://m.media-amazon.com/images/I/31UCSqDY9ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B017NW5NZY-es'
-actualPrice: 83.82 EUR
+actualPrice: 67.99 EUR
 currency: EUR
-price: 83.82
+price: 67.99
 comparePrice: 129.9 EUR
-prodname: 'Corsair Vengeance LPX - Módulo de Memoria XMP 2.0 de 16 Gb  2 X 8 Gb  DDR4  2400 MHz  C16   Negro'
+prodname: 'Corsair CMK16GX4M2A2400C16 Vengeance LPX 16 GB  2 x 8 GB  DDR4 2400 MHz C16 XMP 2.0 Módulo de Memoria de Alto Rendimiento  Negro'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B017NW5NZY/?tag=tolees-21'
-descuento: '35.47'
-average: '83.82'
+descuento: '47.66'
+average: '73.26666666666667'
 ---
 
-Tienes [Corsair Vengeance LPX - Módulo de Memoria XMP 2.0 de 16 Gb  2 X 8 Gb  DDR4  2400 MHz  C16   Negro](https://www.amazon.es/dp/B017NW5NZY/?tag=tolees-21) con un 35.47 % de descuento con precio de oferta de 83.82 EUR (original: 129.9 EUR) en el siguiente enlace!
+Tienes [Corsair CMK16GX4M2A2400C16 Vengeance LPX 16 GB  2 x 8 GB  DDR4 2400 MHz C16 XMP 2.0 Módulo de Memoria de Alto Rendimiento  Negro](https://www.amazon.es/dp/B017NW5NZY/?tag=tolees-21) con un 47.66 % de descuento con precio de oferta de 67.99 EUR (original: 129.9 EUR) en el siguiente enlace!
 
-[![Corsair Vengeance LPX - Módulo de Memori](https://images-eu.ssl-images-amazon.com/images/I/31DMg0nfnZL._SL200_.jpg)](https://www.amazon.es/dp/B017NW5NZY/?tag=tolees-21)
+[![Corsair CMK16GX4M2A2400C16 Vengeance LPX](https://m.media-amazon.com/images/I/31UCSqDY9ZL._SL200_.jpg)](https://www.amazon.es/dp/B017NW5NZY/?tag=tolees-21)
 
 ℹ️:
 
+- Vengeane LPX está optimizada y es compatible con las últimas placas de la serie X99, 100 y 200 y ofrece frecuencias más altas, mayor ancho de banda y menor consumo
+- Compatible con: Intel 100 Series, Intel 200 Series, Intel 300 Series, Intel 400 Series, Intel X299
+- La altura de los módulos Vengeance LPX está pensada incluso para espacios pequeños
+- Disponible en varios colores para combinarlo con tu placa base, tus componentes o simplemente tu estilo
+- Cada módulo Vengeance LPX se fabrica con un disipador de aluminio puro para una disipación térmica más rápida
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B017NW5NZY/?tag=tolees-21)
