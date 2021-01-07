@@ -25,8 +25,8 @@ Tienes [Microsoft Mando inalámbrico Xbox + cable USB-C](https://www.amazon.es/d
 
 🔎:
 
-- Juega de forma inalámbrica o usa el cable USB-C de 2,7 m incluido para disfrutar de una experiencia de juego con cable
-- Mantén el objetivo con un mando de dirección híbrido y agarre texturizado en los gatillos, botones y funda trasera
 - Disfruta del diseño modernizado del mando inalámbrico Xbox, con superficies esculpidas y una geometría refinada para una buena comodidad durante el juego
+- Mantén el objetivo con un mando de dirección híbrido y agarre texturizado en los gatillos, botones y funda trasera
+- Juega de forma inalámbrica o usa el cable USB-C de 2,7 m incluido para disfrutar de una experiencia de juego con cable
 
 [Comprar!!!](https://www.amazon.es/dp/B08JW624NN/?tag=tolees-21)

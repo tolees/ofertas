@@ -25,7 +25,7 @@ En este momento está [Desigual Coat Land Abrigo  Amarillo  Solar Power 8067   E
 
 🔎:
 
-- Moderno, con capucha.
 - Chaqueta clásica, color amarillo.
+- Moderno, con capucha.
 
 [Aquí!!!](https://www.amazon.es/dp/B07N3YWLFF/?tag=tolees-21)

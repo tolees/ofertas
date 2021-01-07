@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trust Gaming GXT 138 X-Ray - Ratón Gamin al 46.34 % de descuento'
-date: 2021-01-04 21:15:36
+date: 2021-01-07 21:50:14
 image: 'https://m.media-amazon.com/images/I/41vbiY0ZBgL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B075F1VVQB/?tag=tolees-21'
 descuento: '46.34'
-average: '24.62'
+average: '24.476363636363637'
 ---
 
 Está [Trust Gaming GXT 138 X-Ray - Ratón Gaming Iluminado RGB con 10 Botones programables  Negro](https://www.amazon.es/dp/B075F1VVQB/?tag=tolees-21) con 46.34 de descuento por 21.46 EUR (original: 39.99 EUR) en el siguiente enlace!
@@ -26,8 +26,8 @@ Está [Trust Gaming GXT 138 X-Ray - Ratón Gaming Iluminado RGB con 10 Botones p
 ℹ️:
 
 - Almohadillas de deslizamiento suaves con baja fricción
-- Iluminación RGB personalizable
 - Software avanzado para programar botones y macros
+- Iluminación RGB personalizable
 - 10 botones programables
 
 [Ver la oferta!!](https://www.amazon.es/dp/B075F1VVQB/?tag=tolees-21)

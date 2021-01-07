@@ -25,10 +25,10 @@ Tienes [PacSafe Citysafe CX Anti-Theft Backpack Mochila Tipo Casual  37 cm  17 L
 
 🔎:
 
-- Volume: 17L
-- Weight: 1 lb. 8.9 oz. / 705 g
-- Materials: (Outer material) 100D nylon twill, (lining) 75D Polyester
-- Dimensions: (H x W x D): 14.6 x 10.6 x 6.3 in / 37 x 27 x 16 cm
 - Strap Length: backpack strap length (min): 69cm / 27.2in; backpack strap length (max): 82cm / 32.3in
+- Volume: 17L
+- Dimensions: (H x W x D): 14.6 x 10.6 x 6.3 in / 37 x 27 x 16 cm
+- Materials: (Outer material) 100D nylon twill, (lining) 75D Polyester
+- Weight: 1 lb. 8.9 oz. / 705 g
 
 [Comprar!!!](https://www.amazon.es/dp/B01M2D4WDW/?tag=tolees-21)

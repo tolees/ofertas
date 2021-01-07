@@ -25,10 +25,10 @@ Tienes [Pipedream Basix Rubber Huevo Vibrador - 120 gr](https://www.amazon.es/dp
 
 🔎:
 
-- La gelatina fabricada en Estados Unidos es 100% libre de ftalatos y látex, ambientalmente segura e hipoalergénica.
-- Funciona con 2 pilas AA (no incluidas)
 - Esperamos que disfrutes de este producto tanto como lo disfrutamos nosotros fabricándolo para ti!
+- Funciona con 2 pilas AA (no incluidas)
 - Medidas del huevo: 6 cm. longitud x 3 cm. diámetro.
+- La gelatina fabricada en Estados Unidos es 100% libre de ftalatos y látex, ambientalmente segura e hipoalergénica.
 - Pipedream ha dado un nuevo giro al clásico huevo vibrador con control remoto para ofrecerte el mejor material y de primera calidad.
 
 [Comprar!!!](https://www.amazon.es/dp/B002UV39AK/?tag=tolees-21)
