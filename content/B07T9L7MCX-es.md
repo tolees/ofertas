@@ -26,8 +26,8 @@ Ahora mismo tienes [AmazonBasics - Comba cilíndrica  gris](https://www.amazon.e
 🔎:
 
 - Con esta comba cilíndrica podrás integrar rápidamente un ejercicio cardiovascular de alta intensidad en cualquier entrenamiento
-- Mangos con pesas para que ganes músculo mientras saltes a la comba, lo que te hará quemar calorías, mejorar la coordinación y tonificar las piernas, los glúteos, los hombros, los brazos y los abdominales.
 - La longitud se puede ajustar fácilmente para adaptarse a los diferentes usuarios
+- Mangos con pesas para que ganes músculo mientras saltes a la comba, lo que te hará quemar calorías, mejorar la coordinación y tonificar las piernas, los glúteos, los hombros, los brazos y los abdominales.
 - Cuerda de plástico (PP). Mangos de PVC y espuma de NBR para un agarre cómodo. Elegante color gris
 - Mide 2.74 m de largo y 5 cm de diámetro
 

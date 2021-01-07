@@ -25,8 +25,8 @@ Tienes [Joma Treviso Pantalones Cortos Equipamiento  Hombre  Negro  XL](https://
 
 🔎:
 
-- Short con cintura elástica
-- Ajustable con cordón
 - Tecnología DRY MX
+- Ajustable con cordón
+- Short con cintura elástica
 
 [Comprar!!!](https://www.amazon.es/dp/B06Y69RLRP/?tag=tolees-21)

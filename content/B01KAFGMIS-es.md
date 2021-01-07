@@ -25,10 +25,10 @@ Está [Trust 21059 - Regleta de Seis Tomas con protección de sobretensiones  Ne
 
 ℹ️:
 
-- 6 enchufes protegidos contra sobretensiones para conectar y alimentar dispositivos de forma segura
 - Enchufes dotados con protección infantil para evitar que los niños accedan a los contactos de los enchufes
-- Práctico interruptor general para apagar simultáneamente todos los dispositivos conectados
+- 6 enchufes protegidos contra sobretensiones para conectar y alimentar dispositivos de forma segura
 - Orificios de sujeción para montaje fácil en pared
+- Práctico interruptor general para apagar simultáneamente todos los dispositivos conectados
 - Enchufes situados en ángulo de 45 grados para un mejor acceso
 - Interruptor iluminado con indicación de modo activado o desactivado
 

@@ -25,7 +25,7 @@ Tienes [Fjällräven Kånken Mini Mochila de Senderismo Unisex Adulto  Azul  Rid
 
 🔎:
 
-- Tipo de fábrica: 100% Polyester
 - Tipo de deporte: Camping & Outdoor
+- Tipo de fábrica: 100% Polyester
 
 [Comprar!!!](https://www.amazon.es/dp/B01KLA99KA/?tag=tolees-21)

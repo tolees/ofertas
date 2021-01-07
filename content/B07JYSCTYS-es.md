@@ -26,7 +26,7 @@ Ahora mismo tienes [Tommy Hilfiger Logo T-Shirt Camiseta Informal  Azul  Sky Cap
 🔎:
 
 - Ver descripción del producto para obtener más información.
-- A estrenar y genuina. Somos un vendedor autorizado de Tommy Hilfiger.
 - Tommy Hilfiger Azul Camiseta con logo
+- A estrenar y genuina. Somos un vendedor autorizado de Tommy Hilfiger.
 
 [Visítala!!!](https://www.amazon.es/dp/B07JYSCTYS/?tag=tolees-21)

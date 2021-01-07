@@ -25,8 +25,8 @@ En este momento está [Joma Treviso Pantalones Cortos Equipamiento  Hombre  Azul
 
 🔎:
 
-- Ajustable con cordón
 - Short con cintura elástica
 - Tecnología DRY MX
+- Ajustable con cordón
 
 [Aquí!!!](https://www.amazon.es/dp/B06Y63CN8X/?tag=tolees-21)
