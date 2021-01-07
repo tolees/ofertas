@@ -25,7 +25,7 @@ Tienes [Calvin Klein Underwear  Braguitas para Mujer  Negro  BLACK 001   M](http
 
 ℹ️:
 
-- Tiro medio
 - Punto de algodón modal
+- Tiro medio
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00K8J8K5K/?tag=tolees-21)

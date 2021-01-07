@@ -26,9 +26,9 @@ Tienes [Eastpak Oval Zippl R Estuche  22 Cm  Negro  Black ](https://www.amazon.e
 🔎:
 
 - Fabricada en 100 % nailon
+- Pequeño bolsillo con cremallera en la parte superior
 - Estuche para lápices de compartimento individual con un montón de espacio
 - Alto: 9 cm, Ancho: 22 cm, Fondo: 5 cm
 - Portabolígrafos extra para una organización adecuada
-- Pequeño bolsillo con cremallera en la parte superior
 
 [Comprar!!!](https://www.amazon.es/dp/B07L35DQ9L/?tag=tolees-21)

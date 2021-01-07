@@ -25,9 +25,9 @@ Ahora mismo tienes [Fimbul](https://www.amazon.es/dp/B07HC47THN/?tag=tolees-21) 
 
 🔎:
 
-- Use items from the distant past to grow and battle the mighty Jutons, a race of giants olders than the gods themselves
 - Navigate your choices, go to any intersection, and follow a different path through your story.
 - Fight the Vikings using a complex but easy-to-learn weapon-based combat system and gather fellow Vikings to help you defeat trolls the size of trees.
+- Use items from the distant past to grow and battle the mighty Jutons, a race of giants olders than the gods themselves
 - Use the time-line-tree at any point to explore the decisions that changed your fate.
 
 [Visítala!!!](https://www.amazon.es/dp/B07HC47THN/?tag=tolees-21)

@@ -26,10 +26,10 @@ Tienes [Helly Hansen Crew Chaqueta  Hombre  Azul  Azul Navy   XL](https://www.am
 ℹ️:
 
 - Anchura: 40.0 centímetros
-- Ropa náutica
-- Tipo de deporte: Deportes acuáticos
+- Longitud: 60.0 centímetros
 - Chaqueta técnica navegación
 - Impermeable y transpirable
-- Longitud: 60.0 centímetros
+- Tipo de deporte: Deportes acuáticos
+- Ropa náutica
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00EFFSOUY/?tag=tolees-21)
