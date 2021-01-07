@@ -25,9 +25,9 @@ Está [Pepe Jeans Eighties Cartera Azul 10 5x9x2 cms Piel Sintética](https://ww
 
 ℹ️:
 
-- De joumma bags
 - Cartera de 10,5 cm x 9 cm x 2 cm fabricada en piel sintética
-- Tres ranuras para carnets o tarjetas, un bolsillo para monedas y un compartimento para los billetes, papeles y tickets
+- De joumma bags
 - Tamaño ideal para llevarlo en todo tipo de bolso, grande o pequeño
+- Tres ranuras para carnets o tarjetas, un bolsillo para monedas y un compartimento para los billetes, papeles y tickets
 
 [Ver la oferta!!](https://www.amazon.es/dp/B084KYMN6M/?tag=tolees-21)

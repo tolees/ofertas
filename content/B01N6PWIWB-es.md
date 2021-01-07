@@ -25,8 +25,8 @@ Está [Central Lechera Asturiana Batido Cacao - Paquete de 6 x 1000 ml - Total: 
 
 ℹ️:
 
-- Con vitaminas A, D y E
 - Bajo en grasa
 - Batido UHT de cacao
+- Con vitaminas A, D y E
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01N6PWIWB/?tag=tolees-21)

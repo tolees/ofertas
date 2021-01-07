@@ -25,10 +25,10 @@ En este momento está [For the King - Signature Edition](https://www.amazon.es/d
 
 🔎:
 
+- 1 llavero
 - BSO
+- 2 pins
 - Guía + Bestiario
 - Certificado firmado
-- 1 llavero
-- 2 pins
 
 [Aquí!!!](https://www.amazon.es/dp/B07RCZJ8MP/?tag=tolees-21)

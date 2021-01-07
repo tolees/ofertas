@@ -25,12 +25,12 @@ Está [Samsung Galaxy A30s - Smartphone de 6.4" Super AMOLED  4 GB RAM  64 GB RO
 
 ℹ️:
 
-- Galaxy A30s cuenta con carga rápida de 15W
-- Peso 169 gramos
 - Memoria ampliable hasta 512 gb
-- Sensor de huella dactilar en pantalla
-- Procesador exynos 7904 (dual 1.8 ghz + hexa 1.6 ghz)
 - Triple cámara de 25 mp + ultra gran angular de 8 mp + cámara profundidad de 5 mp y 123 grados de visión
+- Galaxy A30s cuenta con carga rápida de 15W
+- Procesador exynos 7904 (dual 1.8 ghz + hexa 1.6 ghz)
 - 6,4 pulgadas completas con pantalla infinity-v y hd+ super amoled
+- Sensor de huella dactilar en pantalla
+- Peso 169 gramos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07WDQJ6NT/?tag=tolees-21)

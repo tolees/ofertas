@@ -26,10 +26,10 @@ Tienes [Chupa Chups Gomis  Golosinas de Sabores Variados con Aromas Naturales  B
 🔎:
 
 - Irresistibles gominolas de colores. Una auténtica experiencia de sabor y un divertido diseño que garantiza diversión, emoción y entretenimiento para pequeños y grandes.
-- Ideal para cualquier ocasión y evento: en clase, en el parque, en la oficina, en casa, en fiestas y entre horas. Para compartir, regalar y disfrutar solo o en compañía.
-- Bolsa de golosinas Margaritas Chupa Chups de sabores a cereza, melocotón, pera, mora y naranja, con zumo de limón y aromas naturales. El producto contiene 175 gr. de gominolas margaritas de Chupa Chups.
 - Descubre más sobre este y otros productos de Chupa Chups más abajo.
-- En Chupa Chups pensamos en ti. Trabajamos cada día para ofrecerte caramelos y golosinas más saludables. ¡Que nada te quite la oportunidad de divertirte! Este producto es SIN GLUTEN y contiene zumo de limón y aromas naturales.
 - Formato práctico e higiénico. Lo puedes llevar en el bolsillo, en la mochila, en el bolso. ¡Diviértete y disfrútalo!
+- En Chupa Chups pensamos en ti. Trabajamos cada día para ofrecerte caramelos y golosinas más saludables. ¡Que nada te quite la oportunidad de divertirte! Este producto es SIN GLUTEN y contiene zumo de limón y aromas naturales.
+- Bolsa de golosinas Margaritas Chupa Chups de sabores a cereza, melocotón, pera, mora y naranja, con zumo de limón y aromas naturales. El producto contiene 175 gr. de gominolas margaritas de Chupa Chups.
+- Ideal para cualquier ocasión y evento: en clase, en el parque, en la oficina, en casa, en fiestas y entre horas. Para compartir, regalar y disfrutar solo o en compañía.
 
 [Comprar!!!](https://www.amazon.es/dp/B07Q1SBJ9Q/?tag=tolees-21)

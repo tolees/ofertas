@@ -26,8 +26,8 @@ Tienes [Black+Decker BDCD12-QW - Taladro atornillador a batería 10.8 V litio  2
 🔎:
 
 - Tecnología de litio sin efecto memoria y baja autodescarga
-- Alto rendimiento de un mini cargador USB te permite cargar la batería lithium. el indicador de carga LED permite ver el nivel de la batería
-- Diseño atractivo y moderno la empuñadura suave da a esta atornillador Diseño atractivo y máxima ergonomía
 - Compacta y ligera extremos un motor ultra compacto y una batería de peso ligero garantizan una compacta y una ligera fuera de lo común
+- Diseño atractivo y moderno la empuñadura suave da a esta atornillador Diseño atractivo y máxima ergonomía
+- Alto rendimiento de un mini cargador USB te permite cargar la batería lithium. el indicador de carga LED permite ver el nivel de la batería
 
 [Comprar!!!](https://www.amazon.es/dp/B01BATE39I/?tag=tolees-21)

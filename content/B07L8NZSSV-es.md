@@ -25,10 +25,10 @@ En este momento está [HOMCOM Triciclo Bebé 4 en 1 Trolley Trike Bicicletas par
 
 🔎:
 
-- ✅GRAN REGALO: El regalo perfecto para el cumpleaños de los más pequeños o para Navidad. Montaje fácil. Cuando no lo uses lo puedes plegar y guardar en cualquier rincón.
-- ✅VOLANTE: La altura del sistema de dirección exterior del triciclo es regulable. La altura varia de 83-88cm. Incorpora una cesta de almacenamiento en la parte trasera y otra en la parte delantera. Las almohadillas del asiento y del manillar son desmontables y lavables. Incorpora reposapiés retráctil y plegable en la parte delantera.
 - ✅ESTRUCTURA: Estructura de marco de aleación de aluminio, muy resistente. El toldo es de tela Oxford 600D, previene de los rayos UV. Además, en la parte superior incorpora una malla para una mayor ventilación.
-- ✅ALTA SEGURIDAD: El respaldo alto, el arnés de seguridad de 2 puntos y la barandilla recubierta de espuma, hacen que sea un vehículo seguro. Al mismo tiempo que evitan que el niño se incline demasiado. La banda reflectante que rodea el dosel, garantiza la seguridad de usted y su bebé durante la noche.
+- ✅VOLANTE: La altura del sistema de dirección exterior del triciclo es regulable. La altura varia de 83-88cm. Incorpora una cesta de almacenamiento en la parte trasera y otra en la parte delantera. Las almohadillas del asiento y del manillar son desmontables y lavables. Incorpora reposapiés retráctil y plegable en la parte delantera.
 - ✅MULTIFUNCIONAL: Puedes usar lo como cochecito, como triciclo con sistema de dirección exterior, como triciclo de aprendizaje para los pequeños o como triciclo clásico. Apto a partir de 18 meses. Carga máxima 25kg.
+- ✅ALTA SEGURIDAD: El respaldo alto, el arnés de seguridad de 2 puntos y la barandilla recubierta de espuma, hacen que sea un vehículo seguro. Al mismo tiempo que evitan que el niño se incline demasiado. La banda reflectante que rodea el dosel, garantiza la seguridad de usted y su bebé durante la noche.
+- ✅GRAN REGALO: El regalo perfecto para el cumpleaños de los más pequeños o para Navidad. Montaje fácil. Cuando no lo uses lo puedes plegar y guardar en cualquier rincón.
 
 [Aquí!!!](https://www.amazon.es/dp/B07L8NZSSV/?tag=tolees-21)

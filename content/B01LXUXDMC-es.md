@@ -27,7 +27,7 @@ Está [Hero Muesly Energia Barritas de Chocolate Pack de 6 x 25 g](https://www.a
 
 - Muesly chocolate
 - Sin colorantes ni conservantes
-- Con cereales nutritivos
 - Contiene leche o derivados de la leche (lactosa)
+- Con cereales nutritivos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01LXUXDMC/?tag=tolees-21)

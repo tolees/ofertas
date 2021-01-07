@@ -25,8 +25,8 @@ Tienes [Ellesse Lombardy Abrigo  Hombre  Azul  Dress Blue   XS](https://www.amaz
 
 ℹ️:
 
-- Lombardy (Shs01115)
 - Ropa deportiva ellesse
+- Lombardy (Shs01115)
 - Abrigo Tiempo libre y sportwear Hombre
 - De alta calidad y con diseño deportivo
 

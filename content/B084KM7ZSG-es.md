@@ -25,10 +25,10 @@ Ahora mismo tienes [Pepe Jeans Eighties Bandolera Portatablet 9 7" Azul 23x27x6 
 
 🔎:
 
-- De joumma bags
+- Bandolera ajustable para mayor comodidad
 - Bandolera de 23 cm x 27 cm x 6 cm fabricada en piel sintética
 - Bolsillo frontal y bolsillo de cremallera en la parte de atrás para acceder fácilmente a los accesorios y los gadgets
 - Espacio acolchado para llevar la tablet protegida; bolsillo interno de cremallera y ranura para el móvil
-- Bandolera ajustable para mayor comodidad
+- De joumma bags
 
 [Visítala!!!](https://www.amazon.es/dp/B084KM7ZSG/?tag=tolees-21)

@@ -25,9 +25,9 @@ Tienes [Medina Mix De Pipas Y Frutos Seco Crudos 100 g  1 unidad](https://www.am
 
 🔎:
 
-- 1 unit
 - País de origen: Bulgaria, China, Turquía, EE.UU, Chile, España, Irán.
-- Ingredientes: pipas de girasol peladas crudas, pipas de calabaza peladas crudas, pasas deshidratadas, arándanos deshidratados, NUECES peladas, ALMENDRAS crudas con piel y PISTACHOS pelados crudos.
+- 1 unit
 - Alérgenos: ALMENDRAS, PISTACHOS, NUECES. Puede contener CACAHUETES Y/O FRUTOS DE CÁSCARA.
+- Ingredientes: pipas de girasol peladas crudas, pipas de calabaza peladas crudas, pasas deshidratadas, arándanos deshidratados, NUECES peladas, ALMENDRAS crudas con piel y PISTACHOS pelados crudos.
 
 [Comprar!!!](https://www.amazon.es/dp/B07VXWW5L4/?tag=tolees-21)

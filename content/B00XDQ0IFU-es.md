@@ -25,10 +25,10 @@ Tienes [Gullón - Galletas Chocolate Dibus Mini 250g](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- No contienen lactosa ni proteínas de leche, tampoco huevo ni frutos secos.
-- Sin aceite de palma. Producto elaborado con aceite de girasol alto oleico. Fabricado por Galletas Gullón.
 - Alto contenido en hierro y vitaminas B, D y E.
 - Las mini galletas Dibus de Gullón multicereales y sabor a chocolate.
+- Sin aceite de palma. Producto elaborado con aceite de girasol alto oleico. Fabricado por Galletas Gullón.
 - Estas deliciosas galletas son fuente calcio y Vitamina A, el mejor desayuno para los más pequeños.
+- No contienen lactosa ni proteínas de leche, tampoco huevo ni frutos secos.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00XDQ0IFU/?tag=tolees-21)
