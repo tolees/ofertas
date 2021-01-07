@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Levis 168sf Mid Cut 3p Calcetines al 20.02 % de descuento'
-date: 2021-01-06 00:28:30
+date: 2021-01-07 00:56:54
 image: 'https://m.media-amazon.com/images/I/412ib4EwZyL._SL200_.jpg'
 comments: true
 category: ofertas

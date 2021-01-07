@@ -25,8 +25,8 @@ Tienes [Joma Treviso Pantalones Cortos Equipamiento  Hombre  Rojo  L](https://ww
 
 🔎:
 
-- Short con cintura elástica
-- Tecnología DRY MX
 - Ajustable con cordón
+- Tecnología DRY MX
+- Short con cintura elástica
 
 [Comprar!!!](https://www.amazon.es/dp/B06Y69WPWP/?tag=tolees-21)

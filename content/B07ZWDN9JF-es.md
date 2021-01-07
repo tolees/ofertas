@@ -25,9 +25,9 @@ Tienes [Star Ibaby Silla de Coche con Reductor de Viscofoam  Grupos 1/2/3 -  9 a
 
 🔎:
 
-- ④ Se puede utilizar solo como elevador desmontando el respaldo y utilizando el cinturón de seguridad del coche.
 - ② Está diseñadas para llevar al niño con total seguridad en tus desplazamientos; cinturones de seguridad de 5 puntos de fijación con Protectores; homologada según la normativa europea ECE R44/04.
-- ① La silla de coche Grupo 1 2 3 Star Ibaby Urban crece con el niño gracias a sus multiples posiciones de reposacabezas; tiene un diseño ergonómico muy cómodo y confortable gracias a su excelente acolchado. Incluye comodo reductor de viscofoam para grupo 1.
+- ④ Se puede utilizar solo como elevador desmontando el respaldo y utilizando el cinturón de seguridad del coche.
 - ③ Silla de coche de calidad duradera y diseño muy comodo para niños desde los 9 hasta los 36 kg. Fácil de fijar al asiento del coche con el cinturón de seguridad, funda lavable a máquina (30°c).
+- ① La silla de coche Grupo 1 2 3 Star Ibaby Urban crece con el niño gracias a sus multiples posiciones de reposacabezas; tiene un diseño ergonómico muy cómodo y confortable gracias a su excelente acolchado. Incluye comodo reductor de viscofoam para grupo 1.
 
 [Comprar!!!](https://www.amazon.es/dp/B07ZWDN9JF/?tag=tolees-21)
