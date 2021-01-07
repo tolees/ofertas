@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Erase Una Vez el Cuerpo Humano - Maleta  al 40.00 % de descuento'
-date: 2021-01-06 02:18:21
+date: 2021-01-07 14:34:22
 image: 'https://m.media-amazon.com/images/I/51Xv8BVDfWL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00GGG8PS6/?tag=tolees-21'
 descuento: '40.00'
-average: '26.027411764705874'
+average: '26.00379310344827'
 ---
 
 Está [Erase Una Vez el Cuerpo Humano - Maleta 2012  5 DVDs ](https://www.amazon.es/dp/B00GGG8PS6/?tag=tolees-21) con 40.00 de descuento por 25.0 EUR (original: 41.67 EUR) en el siguiente enlace!

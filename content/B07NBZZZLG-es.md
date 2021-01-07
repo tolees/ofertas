@@ -25,10 +25,10 @@ Ahora mismo tienes [AXE Apollo - Desodorante Bodyspray para hombre  48 horas de 
 
 🔎:
 
-- Tiene una aplicación rápida que ayudará a mantenerte fresco y seco cualquier que sea la ocasión y para que siempre sigas fragante
+- El desodoratne bodyspray AXE Apollo proporciona protección ante el sudor con una fragancia clásica, masculina y sofisticada
 - AXE es una marca de cuidado personal masculino vendida en el mundo que ofrece óptima calidad
 - Aplica el desodorante rocíandolo sobre tus axilas y torso para que notes la diferencia y te olvides del sudor antes de que aparezca
-- El desodoratne bodyspray AXE Apollo proporciona protección ante el sudor con una fragancia clásica, masculina y sofisticada
+- Tiene una aplicación rápida que ayudará a mantenerte fresco y seco cualquier que sea la ocasión y para que siempre sigas fragante
 - Ofrece una protección duradera y eficaz contra los malos olores de hasta 48h de duración
 - Es una adictiva combinación de aromas de salvia, frutas verdes y madera de sándalo
 

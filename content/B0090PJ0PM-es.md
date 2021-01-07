@@ -25,10 +25,10 @@ Tienes [Curver 184274 - Cubo 2 en 1 con Pedal 25 L  Material Plastico  color Met
 
 ℹ️:
 
-- Espacio interior dividido en dos compartimentos para facilitar la separación de los desperdicios.
 - Cubo de basura con pedal apto para todo tipo de cocinas.
+- Elegante y moderno diseño con un acabado metal.
 - Funcional cubo decorado con pedal con capacidad para albergar hasta 25L. de basura.
 - Con tapa que se cierra automáticamente para una mayor higiene y comodidad.
-- Elegante y moderno diseño con un acabado metal.
+- Espacio interior dividido en dos compartimentos para facilitar la separación de los desperdicios.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0090PJ0PM/?tag=tolees-21)

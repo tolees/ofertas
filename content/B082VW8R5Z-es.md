@@ -25,10 +25,10 @@ Tienes [Is It Wrong to Try to Pick Up Girls in a Dungeon? Infinite Combate](http
 
 ℹ️:
 
-- Experience the anime - Follow the story from the beginning and discover exclusive new content in the game!
-- two perspectives - you can discover Bell cranels story, but also play as AIs wallenstein depending on the chapter, each with their own skill sets!
 - story mode - Enjoy an extensive story with unique content and side quests!
 - become friends with Gods - Be part of a familiar and serve a Resident deity who Protects you and helps you grow as an Adventurer..explore the Dungeon - As an adventure, its up to you to defeat monsters in the dangerous Labyrinth created by the Gods..level up - through an extensive skill tree and shops, customise your characters playstyle with weapons and crafted items in true RPG fashion!.extra dungeons - once the story mode is over, enjoy randomly-generated additional dungeons for extra replayability!.date events - deepen your relationships and raise your intimacy with your friends by going on dates as Bell or AIs!.create your team - As you meet new friends, bring them into the Dungeon to support you in combat
+- Experience the anime - Follow the story from the beginning and discover exclusive new content in the game!
 - Welcome to orario - Enter a city where the Gods have decided to come live on Earth and give challenges to its inhabitants.
+- two perspectives - you can discover Bell cranels story, but also play as AIs wallenstein depending on the chapter, each with their own skill sets!
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B082VW8R5Z/?tag=tolees-21)

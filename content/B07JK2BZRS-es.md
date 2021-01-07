@@ -1,28 +1,29 @@
 ---
 layout: post
-title: 'Descuento del 27.21 % en Trilogía El Señor De Los Anillos Extendi'
-date: 2020-10-31 12:24:12
+title: 'Trilogía El Señor De Los Anillos Extendi al 30.01 % de descuento'
+date: 2021-01-07 14:35:57
 image: 'https://m.media-amazon.com/images/I/51qKLXUTycL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07JK2BZRS-es'
-actualPrice: 36.39 EUR
+actualPrice: 35.85 EUR
 currency: EUR
-price: 36.39
-comparePrice: 49.99 EUR
+price: 35.85
+comparePrice: 51.22 EUR
 prodname: 'Trilogía El Señor De Los Anillos Extendida [DVD]'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JK2BZRS/?tag=tolees-21'
-descuento: '27.21'
+descuento: '30.01'
+average: '35.64235294117647'
 ---
 
-Tienes [Trilogía El Señor De Los Anillos Extendida [DVD]](https://www.amazon.es/dp/B07JK2BZRS/?tag=tolees-21) con un 27.21 % de descuento con precio de oferta de 36.39 EUR (original: 49.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Trilogía El Señor De Los Anillos Extendida [DVD]](https://www.amazon.es/dp/B07JK2BZRS/?tag=tolees-21) a 35.85 EUR (original: 51.22 EUR) (30.01 %  de descuento) en el siguiente enlace!
 
 [![Trilogía El Señor De Los Anillos Extendi](https://m.media-amazon.com/images/I/51qKLXUTycL._SL200_.jpg)](https://www.amazon.es/dp/B07JK2BZRS/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B07JK2BZRS/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07JK2BZRS/?tag=tolees-21)

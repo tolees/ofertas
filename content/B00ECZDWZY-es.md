@@ -25,7 +25,7 @@ Tienes [El Hobbit: Un Viaje Inesperado - Edición Extendida  BD  [Blu-ray]](http
 
 ℹ️:
 
-- Precio mínimo ofrecido por este vendedor en los 30 días anteriores a la oferta: 21.99€
 - Periodo de validez para la Copia Digital: 12 Noviembre 2013 - 12 Noviembre 2015.
+- Precio mínimo ofrecido por este vendedor en los 30 días anteriores a la oferta: 21.99€
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00ECZDWZY/?tag=tolees-21)

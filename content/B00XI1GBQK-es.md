@@ -25,8 +25,8 @@ Está [Oral-B Precision Clean - Cabezales para cepillos de dientes recargables  
 
 ℹ️:
 
+- Marca: Oral-b
 - Género: Unisex Adulto
 - Tipo de producto: Cabezal para cepillo
-- Marca: Oral-b
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00XI1GBQK/?tag=tolees-21)

@@ -1,34 +1,34 @@
 ---
 layout: post
-title: 'Kingdom Majestic - Limited Edition al 34.88 % de descuento'
-date: 2020-12-27 08:06:35
+title: 'Kingdom Majestic - Limited Edition al 55.94 % de descuento'
+date: 2021-01-07 13:25:38
 image: 'https://m.media-amazon.com/images/I/51bvozv6tZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B086NF2JGK-es'
-actualPrice: 26.04 EUR
+actualPrice: 17.62 EUR
 currency: EUR
-price: 26.04
+price: 17.62
 comparePrice: 39.99 EUR
 prodname: 'Kingdom Majestic - Limited Edition'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B086NF2JGK/?tag=tolees-21'
-descuento: '34.88'
-average: '26.04'
+descuento: '55.94'
+average: '21.830000000000002'
 ---
 
-Ahora mismo tienes [Kingdom Majestic - Limited Edition](https://www.amazon.es/dp/B086NF2JGK/?tag=tolees-21) a 26.04 EUR (original: 39.99 EUR) (34.88 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Kingdom Majestic - Limited Edition](https://www.amazon.es/dp/B086NF2JGK/?tag=tolees-21) a 17.62 EUR (original: 39.99 EUR) (55.94 %  de descuento) en el siguiente enlace!
 
 [![Kingdom Majestic - Limited Edition](https://m.media-amazon.com/images/I/51bvozv6tZL._SL200_.jpg)](https://www.amazon.es/dp/B086NF2JGK/?tag=tolees-21)
 
 🔎:
 
-- Imagen lenticular 3D
+- Banda Sonora Digital
+- Arte desplegable que forma un mapa
 - Carátula reversible
 - Funda especial para la caja
-- Arte desplegable que forma un mapa
-- Banda Sonora Digital
+- Imagen lenticular 3D
 
 [Visítala!!!](https://www.amazon.es/dp/B086NF2JGK/?tag=tolees-21)

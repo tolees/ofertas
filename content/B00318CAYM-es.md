@@ -25,7 +25,7 @@ En este momento está [pewag 58575 Brenta 9 XMB 73 - Cadenas de Nieve para turis
 
 🔎:
 
-- Este modelo se ajusta a los siguientes tamaños de neumáticos:<br/>195/65-16; 195/70-15; 195/80-14; 205/50-17<br/>205/55-16; 205/60-16; 205/65-15; 215/45-18<br/>215/50-16; 215/60-15; 225/40-18; 225/45-17<br/>225/50-16; 225/55-15
 - Precio mínimo ofrecido por este vendedor en los 30 días anteriores a la oferta: 55.95€
+- Este modelo se ajusta a los siguientes tamaños de neumáticos:<br/>195/65-16; 195/70-15; 195/80-14; 205/50-17<br/>205/55-16; 205/60-16; 205/65-15; 215/45-18<br/>215/50-16; 215/60-15; 225/40-18; 225/45-17<br/>225/50-16; 225/55-15
 
 [Aquí!!!](https://www.amazon.es/dp/B00318CAYM/?tag=tolees-21)
