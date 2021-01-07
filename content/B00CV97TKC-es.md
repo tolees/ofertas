@@ -25,10 +25,10 @@ Ahora mismo tienes [De Longhi Dolce Gusto Mini Me EDG305.WB - Cafetera de cápsu
 
 🔎:
 
-- Nueva interfaz flow stop con led para seleccionar la cantidad de café y elegir entre bebidas frías o calientes
-- Desconexión automática
 - 15 bares de presión de regulación automática
 - Sistema multibebida nescafè dolce gusto
+- Nueva interfaz flow stop con led para seleccionar la cantidad de café y elegir entre bebidas frías o calientes
 - Depósito de agua extraíble de 0.8 litros
+- Desconexión automática
 
 [Visítala!!!](https://www.amazon.es/dp/B00CV97TKC/?tag=tolees-21)

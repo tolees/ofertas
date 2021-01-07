@@ -25,9 +25,9 @@ Tienes [SanDisk Ultra Flair Memoria Flash USB 3.0 de 128 GB con hasta 150 MB/s 
 
 ℹ️:
 
-- Carcasa de metal elegante y duradera
 - Transfiere una película en menos de 30 segundos
-- Transfiere a la memoria hasta 15 veces más rápido que con las memorias USB 2.0 estándar
+- Carcasa de metal elegante y duradera
 - Rendimiento USB 3.0 y altas velocidades de hasta 150 MB/s
+- Transfiere a la memoria hasta 15 veces más rápido que con las memorias USB 2.0 estándar
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B075KPPTTW/?tag=tolees-21)

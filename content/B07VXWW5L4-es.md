@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Medina Mix De Pipas Y Frutos Seco Crudos al 36.31 % de descuento'
-date: 2020-11-13 09:10:16
+title: 'Medina Mix De Pipas Y Frutos Seco Crudos al 27.54 % de rebaja'
+date: 2021-01-07 16:40:18
 image: 'https://m.media-amazon.com/images/I/41YZMnJiC+L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -10,19 +10,24 @@ slug: 'B07VXWW5L4-es'
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0
-comparePrice: 1.57 EUR
+comparePrice: 1.38 EUR
 prodname: 'Medina Mix De Pipas Y Frutos Seco Crudos 100 g  1 unidad'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07VXWW5L4/?tag=tolees-21'
-descuento: '36.31'
+descuento: '27.54'
+average: '1.1628571428571428'
 ---
 
-Está [Medina Mix De Pipas Y Frutos Seco Crudos 100 g  1 unidad](https://www.amazon.es/dp/B07VXWW5L4/?tag=tolees-21) con 36.31 de descuento por 1.0 EUR (original: 1.57 EUR) en el siguiente enlace!
+Tienes [Medina Mix De Pipas Y Frutos Seco Crudos 100 g  1 unidad](https://www.amazon.es/dp/B07VXWW5L4/?tag=tolees-21) con precio final de  1.0 EUR (original: 1.38 EUR) (27.54 %  de rebaja) aqui!
 
 [![Medina Mix De Pipas Y Frutos Seco Crudos](https://m.media-amazon.com/images/I/41YZMnJiC+L._SL200_.jpg)](https://www.amazon.es/dp/B07VXWW5L4/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- 1 unit
+- País de origen: Bulgaria, China, Turquía, EE.UU, Chile, España, Irán.
+- Ingredientes: pipas de girasol peladas crudas, pipas de calabaza peladas crudas, pasas deshidratadas, arándanos deshidratados, NUECES peladas, ALMENDRAS crudas con piel y PISTACHOS pelados crudos.
+- Alérgenos: ALMENDRAS, PISTACHOS, NUECES. Puede contener CACAHUETES Y/O FRUTOS DE CÁSCARA.
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07VXWW5L4/?tag=tolees-21)
+[Comprar!!!](https://www.amazon.es/dp/B07VXWW5L4/?tag=tolees-21)

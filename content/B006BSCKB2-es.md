@@ -25,8 +25,8 @@ Ahora mismo tienes [Joseph Joseph Caddy Organizador verde](https://www.amazon.es
 
 🔎:
 
-- Lavar los platos nunca ha sido tan organizado, con este diseño muy práctico
 - Diseño exclusivo
+- Lavar los platos nunca ha sido tan organizado, con este diseño muy práctico
 - Ordena dignamente los utensilios de limpieza en la cocina
 - Artículo desmontable que facilita su limpieza
 

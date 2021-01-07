@@ -25,10 +25,10 @@ Ahora mismo tienes [TP-Link TL-WN823N - Mini Adaptador USB Inalámbrico N de 300
 
 🔎:
 
-- 300 Mbps wireless High-Speed Performance - ideal Wi-Fi dongle for smooth HD video, voice streaming and online gaming
+- Supports Windows XP 32/64 bit, Windows 7 32/64 bit, Windows 8/8.1 32/64 bit, Windows 10 32/64 bit, Mac OS X 10.9-10.13 and Linux
 - Mini-sized USB wireless adapter and easy unplugged design for convenient portability with a reliable high performance
 - Soft AP mode - turns a wired internet connection to a PC or Laptop into a Wi-Fi hotspot
-- Supports Windows XP 32/64 bit, Windows 7 32/64 bit, Windows 8/8.1 32/64 bit, Windows 10 32/64 bit, Mac OS X 10.9-10.13 and Linux
+- 300 Mbps wireless High-Speed Performance - ideal Wi-Fi dongle for smooth HD video, voice streaming and online gaming
 - One button security setup - Easily setup a secure wireless connection with one-touch WPS button
 
 [Visítala!!!](https://www.amazon.es/dp/B0088TKTY2/?tag=tolees-21)

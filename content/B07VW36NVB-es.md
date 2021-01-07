@@ -25,10 +25,10 @@ Está [The Noble Collection Set ajedrez El Señor de los Anillos  Multicolor  NO
 
 ℹ️:
 
-- Set ajedrez
-- Tematizado el señor de los anillos
-- Dimensión piezas 5-11cm y tablero 47x47cm
 - Colección el señor de los anillos
 - Licencia oficial
+- Dimensión piezas 5-11cm y tablero 47x47cm
+- Tematizado el señor de los anillos
+- Set ajedrez
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07VW36NVB/?tag=tolees-21)

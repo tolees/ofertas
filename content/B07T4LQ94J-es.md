@@ -25,8 +25,8 @@ Tienes [Targus TSB97203GL Mochila SolLite para portátiles de 14" - Morado](http
 
 🔎:
 
-- El panel posterior de tejido de malla perforada facilita la ventilación
 - Correas para el hombro ergonómicas, ajustables y acolchadas
+- El panel posterior de tejido de malla perforada facilita la ventilación
 - Correas para el esternón ajustables que ofrecen un mejor apoyo durante los viajes
 - Las asas acolchadas superiores y laterales permiten transportar la mochila como un maletín
 

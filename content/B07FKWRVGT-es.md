@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Joma Academy Chandal Caballero  Hombre   al 25.40 % de descuento'
-date: 2020-12-28 18:36:23
+date: 2021-01-07 16:26:39
 image: 'https://m.media-amazon.com/images/I/31KLdRKkBrL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Ahora mismo tienes [Joma Academy Chandal Caballero  Hombre  Rojo/Marino  M](http
 
 🔎:
 
-- Academy rojo-marino
-- Resto textil
 - Chándales
+- Resto textil
+- Academy rojo-marino
 
 [Visítala!!!](https://www.amazon.es/dp/B07FKWRVGT/?tag=tolees-21)

@@ -25,8 +25,8 @@ En este momento está [Knorr - Ravioli de carne  250 g](https://www.amazon.es/dp
 
 🔎:
 
-- Ingredientes: pasta alimenticia, relleno, pan de trigo rallado, carne de vacuno cocida, aroma, aromas naturales, suero l?cteo
 - Peso neto de 250 gr para 3 raciones
 - Los raviolis se cuecen durante 10 - 12 minutos en abundante agua hirviendo, ligeramente salada
+- Ingredientes: pasta alimenticia, relleno, pan de trigo rallado, carne de vacuno cocida, aroma, aromas naturales, suero l?cteo
 
 [Aquí!!!](https://www.amazon.es/dp/B00XA8CRYG/?tag=tolees-21)

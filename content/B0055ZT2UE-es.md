@@ -26,8 +26,8 @@ Ahora mismo tienes [Orbegozo PZ 6636 - Sartén eléctrica para pizza con Tapa de
 🔎:
 
 - Tiene superficie con revestimiento antiadherente
-- La marca del producto es Orbegozo
-- Es adecuado para freír, guisar, asar, cocinar paellas, tortillas y pizzas
 - Tapa de cristal con asa y válvula de seguridad
+- Es adecuado para freír, guisar, asar, cocinar paellas, tortillas y pizzas
+- La marca del producto es Orbegozo
 
 [Visítala!!!](https://www.amazon.es/dp/B0055ZT2UE/?tag=tolees-21)

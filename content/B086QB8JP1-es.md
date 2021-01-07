@@ -26,9 +26,9 @@ Está [Chicco Rc Vespa - Vehículos](https://www.amazon.es/dp/B086QB8JP1/?tag=to
 ℹ️:
 
 - Diseño inspirado en la verdadera Vespa Primavera
-- Moto De Control Remoto
-- Permite que el niño sienta la emoción de conducir como si fuera adulto
 - Manillar intuitivo
+- Moto De Control Remoto
 - Sonidos verdaderos del motor Vespa y la bocina
+- Permite que el niño sienta la emoción de conducir como si fuera adulto
 
 [Ver la oferta!!](https://www.amazon.es/dp/B086QB8JP1/?tag=tolees-21)

@@ -25,8 +25,8 @@ Está [Kenko PLC Slim - Filtro polarizador  77 mm](https://www.amazon.es/dp/B00G
 
 ℹ️:
 
+- Delgado
 - De 77 mm
 - Tipo: polarizador circular
-- Delgado
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00G6J1TKE/?tag=tolees-21)

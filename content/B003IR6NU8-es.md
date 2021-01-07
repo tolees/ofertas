@@ -25,10 +25,10 @@ En este momento está [Schneider Electric SMX750I Inteligente UPS de APCX 750VA 
 
 🔎:
 
+- Tipo de forma de onda: Onda senoidal
 - Color: Negro
 - Frecuencia de red: 50/60 Hz +/- 3 Hz auto-sensing
-- Equipo suministrado: CD con software
 - Número de unidad de rack: 2U
-- Tipo de forma de onda: Onda senoidal
+- Equipo suministrado: CD con software
 
 [Aquí!!!](https://www.amazon.es/dp/B003IR6NU8/?tag=tolees-21)
