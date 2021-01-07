@@ -25,9 +25,9 @@ Tienes [Medina Mix De Pipas Y Frutos Seco Crudos 100 g  1 unidad](https://www.am
 
 🔎:
 
-- País de origen: Bulgaria, China, Turquía, EE.UU, Chile, España, Irán.
 - 1 unit
-- Alérgenos: ALMENDRAS, PISTACHOS, NUECES. Puede contener CACAHUETES Y/O FRUTOS DE CÁSCARA.
 - Ingredientes: pipas de girasol peladas crudas, pipas de calabaza peladas crudas, pasas deshidratadas, arándanos deshidratados, NUECES peladas, ALMENDRAS crudas con piel y PISTACHOS pelados crudos.
+- País de origen: Bulgaria, China, Turquía, EE.UU, Chile, España, Irán.
+- Alérgenos: ALMENDRAS, PISTACHOS, NUECES. Puede contener CACAHUETES Y/O FRUTOS DE CÁSCARA.
 
 [Comprar!!!](https://www.amazon.es/dp/B07VXWW5L4/?tag=tolees-21)

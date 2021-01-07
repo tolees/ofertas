@@ -25,13 +25,13 @@ Tienes [Lékué Recipiente para cocinar Palomitas  Rojo  20 cm](https://www.amaz
 
 ℹ️:
 
-- Temperatura: -60ºC - +220ºC
 - Su diseño permite que se cocinen prácticamente todo el maíz
-- Capacidad: 2800 ml
-- Incluye recetas fáciles y originales
+- Temperatura: -60ºC - +220ºC
 - Medidas: 200mm (altura); 145/60 (anchura)
-- Apto para: Microondas, lavavajillas, nevera
+- Capacidad: 2800 ml
 - Color: Rojo
+- Incluye recetas fáciles y originales
+- Apto para: Microondas, lavavajillas, nevera
 - Fabricado en silicona platino 100%
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00NF9CT0C/?tag=tolees-21)

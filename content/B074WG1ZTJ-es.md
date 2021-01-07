@@ -25,10 +25,10 @@ Está [JOBY GorillaPod 3K - Stand de Trípode Flexible Ligero para Cámaras DSLR
 
 ℹ️:
 
-- Plástico ABS durable de grado médico y TPE para uniones seguras
-- Patas flexibles y rótula para montar tu cámara sin espejo en cualquier lugar
 - Resistente: para dispositivos con un peso de hasta 3 kg (6.6 lbs)
 - Pies y anillo de goma para estabilidad sobre el terreno
 - Preciso: zapata panorámica 360°, inclinación de 90° y nivel de burbuja
+- Patas flexibles y rótula para montar tu cámara sin espejo en cualquier lugar
+- Plástico ABS durable de grado médico y TPE para uniones seguras
 
 [Ver la oferta!!](https://www.amazon.es/dp/B074WG1ZTJ/?tag=tolees-21)

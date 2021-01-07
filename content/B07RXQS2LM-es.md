@@ -25,10 +25,10 @@ Ahora mismo tienes [morpilot Inflador Balones Electrico  Mini Bomba de Aire Port
 
 🔎:
 
-- 【Apto para Todos los Balones Deportivos】Fácil de preestablecer la presión deseada (4, 6, 7, 8, 9, 10, 11, 12 PSI) y el indicador LCD mostrará la presión actual. Puede inflar baloncesto, fútbol, fútbol, voleibol, rugby, waterpolo, balonmano. ※ No apto para bicicletas y otros inflables.
 - 【Inflado Rápido & Ahorre su Tiempo】La bomba baloncesto con 3 pilas AA (NO incluidas), tiene un flujo de aire de 3.5L / M, termina de inflarse rápidamente en 1 ~ 3min que ahorran tiempo y energía. Soporte para inflar 20 bolas una vez que la bomba de bolas esté completamente cargada.
-- 【Bomba Automática de Bola Inteligente】La inflador balones Morpilot con aguja cuenta con detección inteligente de presión y función de parada automática. Más conveniente que la mayoría de las bombas manuales tradicionales en el mercado y satisfacen bien las necesidades de la mayoría de los balones deportivos inflables.
 - 【Asequible & Kit Conveniente】Viene con 1x bomba de fútbol, 1x manguera de aire, 2x aguja de aire de bola, 1x bolsa impermeable, 1 x manul de usuario y 12 meses de garantía. ※ Póngase en contacto con nosotros con cualquier problema, le responderemos y resolveremos en 24 horas.
+- 【Bomba Automática de Bola Inteligente】La inflador balones Morpilot con aguja cuenta con detección inteligente de presión y función de parada automática. Más conveniente que la mayoría de las bombas manuales tradicionales en el mercado y satisfacen bien las necesidades de la mayoría de los balones deportivos inflables.
+- 【Apto para Todos los Balones Deportivos】Fácil de preestablecer la presión deseada (4, 6, 7, 8, 9, 10, 11, 12 PSI) y el indicador LCD mostrará la presión actual. Puede inflar baloncesto, fútbol, fútbol, voleibol, rugby, waterpolo, balonmano. ※ No apto para bicicletas y otros inflables.
 - 【Portátil & Linterna LED】La bomba de fútbol con un peso de 185 g y un tamaño de 6 * 4.2 cm, muy liviana y se puede llevar en su mochila o bolsillo. También la luz LED incorporada permite la iluminación o la iluminación de emergencia en la noche o en un lugar oscuro.
 
 [Visítala!!!](https://www.amazon.es/dp/B07RXQS2LM/?tag=tolees-21)
