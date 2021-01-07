@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Colección Kubrick Blu-Ray [Blu-ray] al 49.85 % de descuento'
-date: 2020-12-01 06:50:15
+title: 'Colección Kubrick Blu-Ray [Blu-ray] al 49.85 % de rebaja'
+date: 2021-01-07 08:00:06
 image: 'https://m.media-amazon.com/images/I/51-AQAtflrL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,13 +16,15 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KWA4HWO/?tag=tolees-21'
 descuento: '49.85'
+average: '19.0'
 ---
 
-Ahora mismo tienes [Colección Kubrick Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B01KWA4HWO/?tag=tolees-21) a 19.0 EUR (original: 37.89 EUR) (49.85 %  de descuento) en el siguiente enlace!
+Tienes [Colección Kubrick Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B01KWA4HWO/?tag=tolees-21) con precio final de  19.0 EUR (original: 37.89 EUR) (49.85 %  de rebaja) aqui!
 
 [![Colección Kubrick Blu-Ray [Blu-ray]](https://m.media-amazon.com/images/I/51-AQAtflrL._SL200_.jpg)](https://www.amazon.es/dp/B01KWA4HWO/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Precio mnimo ofrecido por este vendedor en los 30 das anteriores a la oferta: 25.89
 
-[Visítala!!!](https://www.amazon.es/dp/B01KWA4HWO/?tag=tolees-21)
+[Comprar!!!](https://www.amazon.es/dp/B01KWA4HWO/?tag=tolees-21)

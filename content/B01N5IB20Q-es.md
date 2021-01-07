@@ -25,8 +25,8 @@ Tienes [Kingston A400 SSD SA400S37/240G - Disco duro sólido interno 2.5" SATA 2
 
 ℹ️:
 
-- Rendimiento óptimo para la transferencia de archivos
 - Velocidad de grabación: 350 MB/s
+- Rendimiento óptimo para la transferencia de archivos
 - Capacidad de la memoria: 240 GB
 - Fiable y resistente
 

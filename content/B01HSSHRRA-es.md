@@ -26,7 +26,7 @@ Está [Asics H6k2n  Zapatillas Unisex Adulto  Negro  9090   41.5 EU](https://www
 ℹ️:
 
 - Tecnología GEL ASICS
-- Entresuela de EVA
 - Suela de goma sólida
+- Entresuela de EVA
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01HSSHRRA/?tag=tolees-21)
