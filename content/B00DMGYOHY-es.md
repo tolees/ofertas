@@ -25,9 +25,9 @@ Tienes [UDG 4500800 - Soporte de regazo para portátiles y netbooks  Aluminio  N
 
 ℹ️:
 
-- Sub plataforma extraíble
 - Altura y ángulo ajustables
 - Permite girar la plataforma principal
+- Sub plataforma extraíble
 - Construcción de alta calidad para soporte robusto y estable
 - Soporte para portatil y controlador
 
