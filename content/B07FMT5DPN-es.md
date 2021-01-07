@@ -25,10 +25,10 @@ Tienes [Jakks Pacific Harry potter-varita magica con hechizos-hermione  color gr
 
 ℹ️:
 
-- Derrota a todos tus enemigos con el poder de la varita de voldemort.
-- Podrás lanzar hasta 11 hechizos mágicos y luchar contra tu contrincante por ver quién es el mejor mago.
-- Empieza a entrenar y domina todos los hechizos para ser el mejor mago de todos y formar parte del ejercito de dumbledore. ¡expelliarmus.
 - Entra en el fantástico mundo de harry potter con la reproducción de las varitas mágicas con hechizos de harry potter.
+- Empieza a entrenar y domina todos los hechizos para ser el mejor mago de todos y formar parte del ejercito de dumbledore. ¡expelliarmus.
+- Derrota a todos tus enemigos con el poder de la varita de voldemort.
 - Mueve la varita y aprieta sus botones según un patrón adecuado para lanzar el hechizo que quieras, y alucina con sus efectos de sonido y luz.
+- Podrás lanzar hasta 11 hechizos mágicos y luchar contra tu contrincante por ver quién es el mejor mago.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FMT5DPN/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI B450M-A Pro MAX B450 con un 24.09 % de descuento'
-date: 2021-01-06 09:24:41
+date: 2021-01-07 11:58:59
 image: 'https://m.media-amazon.com/images/I/41lNzBndvtL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ En este momento está [MSI B450M-A Pro MAX B450](https://www.amazon.es/dp/B07WC8
 
 🔎:
 
+- Conexiones esata: 0
+- Conectores paralelo/serie: 0/ 0
+- Wifi: no
 - Conexiones sata: 0
 - Ps/2: conexiones: 0
-- Conexiones esata: 0
-- Wifi: no
-- Conectores paralelo/serie: 0/ 0
 
 [Aquí!!!](https://www.amazon.es/dp/B07WC8QVCB/?tag=tolees-21)

@@ -25,10 +25,10 @@ Ahora mismo tienes [Polti Forzaspira Slim Sr100 Escoba Eléctrica Recargable Sin
 
 🔎:
 
+- Autonomía hasta 50 minutos
 - Cepillo motorizado con luces LED
 - Sistema de aspiración ciclónico
 - Kit limpieza pequeñas superficies en dotación
 - Escoba eléctrica recargable sin cables 2 in 1
-- Autonomía hasta 50 minutos
 
 [Visítala!!!](https://www.amazon.es/dp/B07HZDRY47/?tag=tolees-21)

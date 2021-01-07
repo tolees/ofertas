@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Avengers - Martillo de Thor para disfraz al 27.75 % de descuento'
-date: 2020-12-29 18:14:57
+date: 2021-01-07 11:03:48
 image: 'https://m.media-amazon.com/images/I/31k+wZam+AL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00HA4X21I/?tag=tolees-21'
 descuento: '27.75'
-average: '11.745'
+average: '11.614285714285714'
 ---
 
 Está [Avengers - Martillo de Thor para disfraz de niño  Talla única infantil  Rubie s 35639 ](https://www.amazon.es/dp/B00HA4X21I/?tag=tolees-21) con 27.75 de descuento por 10.83 EUR (original: 14.99 EUR) en el siguiente enlace!
@@ -25,10 +25,10 @@ Está [Avengers - Martillo de Thor para disfraz de niño  Talla única infantil 
 
 ℹ️:
 
-- Ayuda a completar el disfraz de Thor
-- Tipo de producto: accesorio infantil
-- El producto representa al martillo de Thor
-- El paquete incluye 1 unidad
 - Es adecuado para niños a partir de 6 años
+- El producto representa al martillo de Thor
+- Tipo de producto: accesorio infantil
+- Ayuda a completar el disfraz de Thor
+- El paquete incluye 1 unidad
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00HA4X21I/?tag=tolees-21)

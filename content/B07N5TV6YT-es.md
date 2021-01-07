@@ -25,10 +25,10 @@ Está [Pop! Vinilo: SLOP 2: MAX in Cone](https://www.amazon.es/dp/B07N5TV6YT/?ta
 
 ℹ️:
 
-- Juguete del año 2018
-- Max in Cone
-- Movies: slop 2
 - Funko pop vinyl
+- Movies: slop 2
+- Max in Cone
+- Juguete del año 2018
 - De la colección slop 2, max in cone como figura de vinilo pop de funko
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07N5TV6YT/?tag=tolees-21)

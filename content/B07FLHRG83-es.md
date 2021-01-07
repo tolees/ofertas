@@ -26,7 +26,7 @@ En este momento está [adidas Run IT tee 3S M T-Shirt  Hombre  White/Black  S](h
 🔎:
 
 - Adidas logo
-- Regular fit
 - Soft fabric
+- Regular fit
 
 [Aquí!!!](https://www.amazon.es/dp/B07FLHRG83/?tag=tolees-21)

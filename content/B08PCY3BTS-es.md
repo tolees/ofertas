@@ -25,10 +25,10 @@ En este momento está [HOMCOM Baul Moto Universal 44L con LLaves y Soporte Caja 
 
 🔎:
 
+- ✅Peso: 4 kg
 - ✅Baul maleta de moto resistente al agua
+- ✅Dimensiones: 54 x 41 x 28 cm(L x An x Al)
 - ✅Llaves incluidas
 - ✅Sistema de liberacion rapida y bloqueo de seguridad
-- ✅Dimensiones: 54 x 41 x 28 cm(L x An x Al)
-- ✅Peso: 4 kg
 
 [Aquí!!!](https://www.amazon.es/dp/B08PCY3BTS/?tag=tolees-21)

@@ -25,8 +25,8 @@ Está [Trust GXT 830 - Teclado para Gaming Iluminado  con Efecto Anti-Ghosting  
 
 ℹ️:
 
-- Protección frente a duplicados: Hasta 10 pulsaciones de teclas simultáneas
-- 12 teclas multimedia de acceso directo
 - Iluminación LED de 3 colores con nivel de brillo ajustable
+- 12 teclas multimedia de acceso directo
+- Protección frente a duplicados: Hasta 10 pulsaciones de teclas simultáneas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01BNDZGRE/?tag=tolees-21)

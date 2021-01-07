@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Edge Entertainment- Quiz Chef - español. al 34.77 % de rebaja'
-date: 2021-01-05 13:41:26
+date: 2021-01-07 11:25:23
 image: 'https://m.media-amazon.com/images/I/41JRQsu9g3L._SL200_.jpg'
 comments: true
 category: ofertas

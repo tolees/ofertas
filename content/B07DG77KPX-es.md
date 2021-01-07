@@ -25,10 +25,10 @@ Ahora mismo tienes [Minecraft: Nintendo Switch  importación Inglesa ](https://w
 
 🔎:
 
-- Access new mini games and game modes through Servers.
 - Share the couch with four player split screen.
-- Play and share with friends on mobile, PC and console.
 - Discover community creations in the new in-game store.
 - Includes Super Mario Mash-Up, Natural Texture Pack, Biome Settlers Skin Pack, Battle & Beasts Skin Pack, Campfire Tales Skin Pack.
+- Play and share with friends on mobile, PC and console.
+- Access new mini games and game modes through Servers.
 
 [Visítala!!!](https://www.amazon.es/dp/B07DG77KPX/?tag=tolees-21)

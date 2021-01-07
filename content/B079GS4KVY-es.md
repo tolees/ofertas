@@ -25,8 +25,8 @@ Tienes [NIKE M NK Dry Acdmy18 Dril Top LS Long Sleeved t-Shirt  Hombre  Obsidian
 
 🔎:
 
-- 1/4 "long zip
 - Regular fit
 - Nike Dry fabric
+- 1/4 "long zip
 
 [Comprar!!!](https://www.amazon.es/dp/B079GS4KVY/?tag=tolees-21)

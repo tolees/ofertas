@@ -25,9 +25,9 @@ Ahora mismo tienes [So Magic DIY Jardín Mágico Kit Grande  color verde  Canal 
 
 🔎:
 
-- Mira como crece tu arbol magico
-- Añade la arena, las piedras y las decoraciones
-- Dimensiones: 16 x 13 x 22,5 cm
 - Fabrica tu propio terrario
+- Añade la arena, las piedras y las decoraciones
+- Mira como crece tu arbol magico
+- Dimensiones: 16 x 13 x 22,5 cm
 
 [Visítala!!!](https://www.amazon.es/dp/B07MMLSFXY/?tag=tolees-21)
