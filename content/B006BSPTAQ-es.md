@@ -26,8 +26,8 @@ Está [TP-Link TL-WN881ND - WIFI Adaptador PCI Express  Tarjeta de Red  300 Mbps
 ℹ️:
 
 - Apoyo a raspberry pi
-- La tecnología MIMO proporciona un mayor nivel de penetración, una cobertura inalámbrica más amplia, mejor rendimiento y más estabilidad
 - Configure fácilmente una conexión de alta seguridad gracias a la función WPS (Wi-Fi Protected Setup)
 - Velocidad inalámbrica N de hasta 300 Mbps, adecuada para la transmisión de vídeo, juegos online y llamadas a través de Internet
+- La tecnología MIMO proporciona un mayor nivel de penetración, una cobertura inalámbrica más amplia, mejor rendimiento y más estabilidad
 
 [Ver la oferta!!](https://www.amazon.es/dp/B006BSPTAQ/?tag=tolees-21)

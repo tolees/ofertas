@@ -25,8 +25,8 @@ En este momento está [Nike Court Vision LO  Zapatillas Hombre  Blanco  White/Wh
 
 🔎:
 
+- Material excelente.
 - Zapatillas clásicas.
 - Diseño moderno.
-- Material excelente.
 
 [Aquí!!!](https://www.amazon.es/dp/B07NN3HVKZ/?tag=tolees-21)

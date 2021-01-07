@@ -1,28 +1,34 @@
 ---
 layout: post
-title: 'Blacksad: Under The Skin - Collector s E al 45.95 % de descuento'
-date: 2020-11-21 14:35:34
+title: 'Blacksad: Under The Skin - Collector s E al 41.67 % de rebaja'
+date: 2021-01-07 15:11:27
 image: 'https://m.media-amazon.com/images/I/41aC0K50h0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07R189ZVY-es'
-actualPrice: 64.86 EUR
+actualPrice: 69.99 EUR
 currency: EUR
-price: 64.86
+price: 69.99
 comparePrice: 119.99 EUR
 prodname: 'Blacksad: Under The Skin - Collector s Edition'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07R189ZVY/?tag=tolees-21'
-descuento: '45.95'
+descuento: '41.67'
+average: '78.7975'
 ---
 
-Está [Blacksad: Under The Skin - Collector s Edition](https://www.amazon.es/dp/B07R189ZVY/?tag=tolees-21) con 45.95 de descuento por 64.86 EUR (original: 119.99 EUR) en el siguiente enlace!
+Tienes [Blacksad: Under The Skin - Collector s Edition](https://www.amazon.es/dp/B07R189ZVY/?tag=tolees-21) con precio final de  69.99 EUR (original: 119.99 EUR) (41.67 %  de rebaja) aqui!
 
 [![Blacksad: Under The Skin - Collector s E](https://m.media-amazon.com/images/I/41aC0K50h0L._SL200_.jpg)](https://www.amazon.es/dp/B07R189ZVY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Figura John Blacksad
+- Carátula lenticular
+- Caja Edición Coleccionista
+- Portfolio
+- 4 Postales con ilustraciones de los personajes principales
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07R189ZVY/?tag=tolees-21)
+[Comprar!!!](https://www.amazon.es/dp/B07R189ZVY/?tag=tolees-21)

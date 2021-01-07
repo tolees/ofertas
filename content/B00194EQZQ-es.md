@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Dr. Martens 1460 - Botas Militares de Mu al 21.79 % de descuento'
-date: 2020-12-20 16:51:59
-image: 'https://m.media-amazon.com/images/I/41qDpqPOqwL._SL200_.jpg'
+title: 'Dr. Martens 1460 - Botas Militares de Mu al 21.79 % de rebaja'
+date: 2021-01-07 15:13:06
+image: 'https://m.media-amazon.com/images/I/41ewZKLdicL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -16,19 +16,19 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00194EQZQ/?tag=tolees-21'
 descuento: '21.79'
-average: '136.36692307692311'
+average: '136.62571428571434'
 ---
 
-Ahora mismo tienes [Dr. Martens 1460 - Botas Militares de Mujer  Negro  Black Leather   49.5 EU](https://www.amazon.es/dp/B00194EQZQ/?tag=tolees-21) a 139.99 EUR (original: 179.0 EUR) (21.79 %  de descuento) en el siguiente enlace!
+Tienes [Dr. Martens 1460 - Botas Militares de Mujer  Negro  Black Leather   49.5 EU](https://www.amazon.es/dp/B00194EQZQ/?tag=tolees-21) con precio final de  139.99 EUR (original: 179.0 EUR) (21.79 %  de rebaja) aqui!
 
-[![Dr. Martens 1460 - Botas Militares de Mu](https://m.media-amazon.com/images/I/41qDpqPOqwL._SL200_.jpg)](https://www.amazon.es/dp/B00194EQZQ/?tag=tolees-21)
+[![Dr. Martens 1460 - Botas Militares de Mu](https://m.media-amazon.com/images/I/41ewZKLdicL._SL200_.jpg)](https://www.amazon.es/dp/B00194EQZQ/?tag=tolees-21)
 
 🔎:
 
-- Tipo de tacón: Plano
 - Material exterior: cuero
-- Material de la suela: goma
+- Tipo de tacón: Plano
 - Adecuado para: unisex
 - Cierre: cordones
+- Material de la suela: goma
 
-[Visítala!!!](https://www.amazon.es/dp/B00194EQZQ/?tag=tolees-21)
+[Comprar!!!](https://www.amazon.es/dp/B00194EQZQ/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trust - Lector de DNI  Negro al 21.68 % de rebaja'
-date: 2021-01-05 02:58:26
+date: 2021-01-07 15:58:20
 image: 'https://m.media-amazon.com/images/I/31nQwHeR7cL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01HQ9DSCO/?tag=tolees-21'
 descuento: '21.68'
-average: '10.55780487804878'
+average: '10.503488372093022'
 ---
 
 Tienes [Trust - Lector de DNI  Negro](https://www.amazon.es/dp/B01HQ9DSCO/?tag=tolees-21) con precio final de  9.39 EUR (original: 11.99 EUR) (21.68 %  de rebaja) aqui!
@@ -25,9 +25,9 @@ Tienes [Trust - Lector de DNI  Negro](https://www.amazon.es/dp/B01HQ9DSCO/?tag=t
 
 🔎:
 
-- Conexión USB 2.0 (bajo consumo)
 - Compatible con todas las tarjetas DNIe y SmartCards
-- Se conecta fácilmente al ordenador
+- Conexión USB 2.0 (bajo consumo)
 - Longitud del cable de 110 cm
+- Se conecta fácilmente al ordenador
 
 [Comprar!!!](https://www.amazon.es/dp/B01HQ9DSCO/?tag=tolees-21)

@@ -25,10 +25,10 @@ Ahora mismo tienes [Gullón - Barquillos sin azúcar vainilla Diet Nature Pack d
 
 🔎:
 
-- Los barquillos Diet Nature son perfectos para cualquier momento del día.
-- Sin aceite de palma. Producto elaborado con aceite de girasol alto oleico.
-- Fabricado por Galletas Gullón.
-- Su alto contenido en fibra convierte estos barquillos en un tentempié perfecto
 - Barquillos con varias capas rellenas de vainilla, sin azúcares ni grasas hidrógenas
+- Sin aceite de palma. Producto elaborado con aceite de girasol alto oleico.
+- Su alto contenido en fibra convierte estos barquillos en un tentempié perfecto
+- Los barquillos Diet Nature son perfectos para cualquier momento del día.
+- Fabricado por Galletas Gullón.
 
 [Visítala!!!](https://www.amazon.es/dp/B005SYQ2ZU/?tag=tolees-21)

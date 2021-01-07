@@ -25,10 +25,10 @@ Está [Blu Ray 3D Grabadora DVD Reproductor Externo Portatil USB 3.0 Grabadora d
 
 ℹ️:
 
-- 📀【Alta Velocidad USB 3.0】No necesita una unidad externa ni electricidad. Simplemente conecta la unidad externa Blu-Ray al ordenador y se detectará automáticamente. Conectar y usar, la tecnología USB 3.0 le brinda una transferencia de datos más rápida y más estable
+- 🎁【Soporte Garantía】Ofrecemos servicio al cliente las 24 horas y soporte técnico gratuito de por vida! Si tiene alguna pregunta, envíenos un correo electrónico a través de Amazon.es
 - ➡ 【Diseño Moda DVD Portátil】El cromo de metal pulido le da un aspecto de alta gama. El material de primera calidad es resistente a los arañazos y es duradero, lo que puede alargar la vida útil del disco. El diseño delgado y elegante y la forma suave y contorneada permiten que la unidad quepa cómodamente en la funda de cualquier bolso
 - 💻【Alta Compatibilidad】El reproductor de Blu-ray externo se puede utilizar en varios dispositivos. Es compatible con Mac 10 OS, windows7/8/10/Vista/2000. Recomendación del software Blu-ray Player: Wiondows (PowerDVD/AnyDVD), MAC OS(MAC Blu Ray Player)
 - 💿【Lectura y escritura BD/CD/DVD】El reproductor de DVD Blu-Ray te permite leer y grabar discos Blu-ray (BD), CDs, así como DVDs. Lee discos CD de hasta 24x, discos DVD de hasta 8x, y disco Blu-Ray de hasta 6x. El lector de Blu-ray externo admite capacidades de grabación de CD-DVD normales de 8.5G 4.7G 700M
-- 🎁【Soporte Garantía】Ofrecemos servicio al cliente las 24 horas y soporte técnico gratuito de por vida! Si tiene alguna pregunta, envíenos un correo electrónico a través de Amazon.es
+- 📀【Alta Velocidad USB 3.0】No necesita una unidad externa ni electricidad. Simplemente conecta la unidad externa Blu-Ray al ordenador y se detectará automáticamente. Conectar y usar, la tecnología USB 3.0 le brinda una transferencia de datos más rápida y más estable
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08G81SWC6/?tag=tolees-21)

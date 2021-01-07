@@ -25,10 +25,10 @@ Está [Furminator Undercoat deShedding - Cepillo para perros grandes de pelo lar
 
 ℹ️:
 
-- El borde de acero inoxidable deShedding penetra profundamente en la piel cobertora y elimina suavemente la lana sin dañar el pelo o la piel
 - Skin Guard se desliza suavemente sobre la piel y la protege gracias a las esquinas redondeadas
-- Con la ayuda del botón de presión FURejector, el pelo suelto se elimina cómodamente del borde
-- El borde de confort curvo y el contorno natural de la cabeza y del cuerpo de tu animal
 - Barra para proteger las púas cuando no está en uso
+- El borde de acero inoxidable deShedding penetra profundamente en la piel cobertora y elimina suavemente la lana sin dañar el pelo o la piel
+- El borde de confort curvo y el contorno natural de la cabeza y del cuerpo de tu animal
+- Con la ayuda del botón de presión FURejector, el pelo suelto se elimina cómodamente del borde
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07NSL5V36/?tag=tolees-21)

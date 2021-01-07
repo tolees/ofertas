@@ -25,11 +25,11 @@ Ahora mismo tienes [IMC Toys - Bebés Llorones Fantasy  Bruny  99197 ](https://w
 
 🔎:
 
-- Incluye chupete y pijama; funciona con 2 pilas aaa
-- Esta es bruny, un adorable bebé llorón con pijamita de dragón; los bebes llorónes son unas muñecas monísimas que lloran lágrimas de verdad
-- Al quitarle el chupete tu bebé llorón llora lágrimas de verdad; pónselo otra vez o no dejará de llorar y cada vez lo hará más fuerte; puedes acomodarla en tus brazos para calmarla
-- Los bebés llorónes ofrecen una divertida forma de inculcar valores de respeto, responsabilidad y afecto por los demás; tamaño aproximado: 30,5 cm; edad recomendada: a partir de 18 meses
-- Número de jugadores: 1
 - Los bebes llorónés visten divertidos pijamas con alegres colores y estampados basados en sus inseparables mascotas; los pijamas se pueden intercambiar entre las muñecas
+- Al quitarle el chupete tu bebé llorón llora lágrimas de verdad; pónselo otra vez o no dejará de llorar y cada vez lo hará más fuerte; puedes acomodarla en tus brazos para calmarla
+- Número de jugadores: 1
+- Esta es bruny, un adorable bebé llorón con pijamita de dragón; los bebes llorónes son unas muñecas monísimas que lloran lágrimas de verdad
+- Incluye chupete y pijama; funciona con 2 pilas aaa
+- Los bebés llorónes ofrecen una divertida forma de inculcar valores de respeto, responsabilidad y afecto por los demás; tamaño aproximado: 30,5 cm; edad recomendada: a partir de 18 meses
 
 [Visítala!!!](https://www.amazon.es/dp/B07MVTSYYS/?tag=tolees-21)
