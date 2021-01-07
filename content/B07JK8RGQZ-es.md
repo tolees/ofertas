@@ -25,9 +25,9 @@ En este momento está [Mochilas Escolares adaptables a Carro  Mochilas Grandes I
 
 🔎:
 
-- El modelo Acuareles es nuestra mochila que se adapta a carro pudiendo llevarla como mochila de espalda o con ruedas indistintamente
+- Información adicional: organizador con llavero extraíble, bolsillo para botella, distribución de peso, correas en forma de S, espaldar ergonómico, capacidad 20 Lts
 - Sistema en la parte posterior de la mochila con cinta para pasar el asa del carro y correas de velcro para sujetar una vez acoplado al mismo
 - Ahora llevarán todo el peso cómodamente hasta el colegio y podrán quitarla de carro y llevarla a la espalda para subir escaleras o entrar en clase.
-- Información adicional: organizador con llavero extraíble, bolsillo para botella, distribución de peso, correas en forma de S, espaldar ergonómico, capacidad 20 Lts
+- El modelo Acuareles es nuestra mochila que se adapta a carro pudiendo llevarla como mochila de espalda o con ruedas indistintamente
 
 [Aquí!!!](https://www.amazon.es/dp/B07JK8RGQZ/?tag=tolees-21)

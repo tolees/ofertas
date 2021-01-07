@@ -25,10 +25,10 @@ Ahora mismo tienes [Trust Verro Ratón Vertical Inalámbrico Ergonómico Bluetoo
 
 🔎:
 
-- Forma ligera y cómoda con cubierta de goma para un perfecto agarre. ángulo vertical de 60° para una perfecta posición de la muñeca
 - Microreceptor usb de fácil almacenamiento; rango inalámbrico de hasta 10 m
-- Interruptor de encendido-apagado
 - 2 botones para pulgar: hacia delante/atrás en el navegador; botón de selección de velocidad (800/1200/1600 ppp)
+- Interruptor de encendido-apagado
+- Forma ligera y cómoda con cubierta de goma para un perfecto agarre. ángulo vertical de 60° para una perfecta posición de la muñeca
 - Raton vertical inalámbrico ergonómico con trabaje cómodamente durante períodos prolongados evitando lesiones en brazos y muñecas; forma exclusiva, con un diseño para encajar en todas las formas y tamaños de manos
 
 [Visítala!!!](https://www.amazon.es/dp/B07YSRMGNZ/?tag=tolees-21)

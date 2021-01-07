@@ -25,10 +25,10 @@ En este momento está [Case Logic LAPS-113K - Funda para Ordenador portátil de 
 
 🔎:
 
-- Fácil de transportar con un peso ligero de 170 g y dimensiones pequeños de 35.6 x 2.8 x 25.4 cm
 - Protege su ordenador de arañazos accidentales
+- Fácil de transportar con un peso ligero de 170 g y dimensiones pequeños de 35.6 x 2.8 x 25.4 cm
 - La cremallera en la parte superior de la funda se desliza con suavidad y le permite el fácil acceso a su ordenador portátil
-- Compatible con Apple MacBook de 13.3"
 - Incluye una capa de relleno de espuma de poliéster y un forro de lana para una mejor absorción de impactos
+- Compatible con Apple MacBook de 13.3"
 
 [Aquí!!!](https://www.amazon.es/dp/B004NY9UW8/?tag=tolees-21)

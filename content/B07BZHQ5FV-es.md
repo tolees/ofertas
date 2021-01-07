@@ -25,8 +25,8 @@ Tienes [Joma Academy Set Equipacion M/Corta  Hombre  Royal/Marino  L](https://ww
 
 ℹ️:
 
-- Equipaciones
-- Accesorios para mochilas
 - Academy royal-marino m/c
+- Accesorios para mochilas
+- Equipaciones
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BZHQ5FV/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Black & Decker Aspiradora  Azul/Titanio  al 26.78 % de rebaja'
-date: 2021-01-06 16:11:24
+date: 2021-01-07 22:45:02
 image: 'https://m.media-amazon.com/images/I/41Lhm42b2dL._SL200_.jpg'
 comments: true
 category: ofertas

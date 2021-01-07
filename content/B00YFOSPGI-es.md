@@ -25,10 +25,10 @@ Tienes [Nike Tanjun Gs  Zapatillas de Running para Niños  Negro  Black/White/Wh
 
 ℹ️:
 
-- Material exterior: sintético
-- Material de la suela: goma
 - Cierre: cordones
 - Revestimiento: sintético
+- Material exterior: sintético
+- Material de la suela: goma
 - Tipo de tacón: plano
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00YFOSPGI/?tag=tolees-21)

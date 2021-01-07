@@ -25,10 +25,10 @@ En este momento está [Barra de Sonido SAMSUNG HW-T400/ZF - Sonido 2.0Ch  Subwoo
 
 🔎:
 
-- Dolby Digital 2.0: sistema de sonido que potencia el audio de cada escena gracias a sus 2.0 canales
-- Subwoofer Integrado: disfruta de graves potentes de calidad sin necesidad de tener un subwoofer externo
 - NFC: escucha tu música favorita a través de la barra de sonido colocando tu smartphone sobre el NFC
 - One Remote Control: un único mando para controlar todos tus dispositivos y acceder a tus contenidos
 - Sonido envolvente: la expansión del sonido envolvente amplía el área de audición tanto hacia los lados como hacia arriba para repartir mejor el sonido
+- Dolby Digital 2.0: sistema de sonido que potencia el audio de cada escena gracias a sus 2.0 canales
+- Subwoofer Integrado: disfruta de graves potentes de calidad sin necesidad de tener un subwoofer externo
 
 [Aquí!!!](https://www.amazon.es/dp/B087XNRY8H/?tag=tolees-21)

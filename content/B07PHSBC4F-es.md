@@ -26,9 +26,9 @@ Tienes [Samsung C27R500 - Monitor Curvo de 27" sin marcos  Full HD  4 ms  60 Hz 
 🔎:
 
 - La avanzada tecnología de confort ocular reduce la fatiga visual para que disfrutes al máximo de tu ordenador
-- FreeSync sincroniza la tasa de refresco del monitor y la tarjeta gráfica
 - La innovadora tecnología de panel VA de Samsung proporciona una impresionante relación de contraste 3000:1, con negros más profundos y blancos más brillantes
-- La pantalla curva 1800R te envuelve, te atrapa y mantiene tu concentración
+- FreeSync sincroniza la tasa de refresco del monitor y la tarjeta gráfica
 - Pantalla sin marcos en 3 lados, un toque moderno y elegante para tu mesa
+- La pantalla curva 1800R te envuelve, te atrapa y mantiene tu concentración
 
 [Comprar!!!](https://www.amazon.es/dp/B07PHSBC4F/?tag=tolees-21)

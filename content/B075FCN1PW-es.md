@@ -25,8 +25,8 @@ Está [Cecotec Batidora de Mano PowerGear 1500 Pro   Acero Inoxidable/Silicona S
 
 ℹ️:
 
-- Incluye iceblade, cuchilla especial para la picadora que permite picar hielo consiguiendo resultados perfectos con hielo seco; incluye accesorios: vaso con tapa y 800 ml capacidad de calibrado en ml y oz, picadora  de 600 ml de capacidad con cuchilla especial para picar hielo y varillas montaclaras.  libre de bpa
 - La batidora de mano más potente del mercado, con 1500 w de potencía y 21 velocidades + función turbo
+- Incluye iceblade, cuchilla especial para la picadora que permite picar hielo consiguiendo resultados perfectos con hielo seco; incluye accesorios: vaso con tapa y 800 ml capacidad de calibrado en ml y oz, picadora  de 600 ml de capacidad con cuchilla especial para picar hielo y varillas montaclaras.  libre de bpa
 - X-blades: cuchilla de 4 hojas con recubrimiento de titanio que mejora la dureza y el afilado
 - Sistema fix plus; fácil colocación y desmontaje del pie y de los accesorios; campana con diseño antisalpicaduras.  recubrimiento soft touch; mejora el agarre con un tacto suave.   indicador luminoso de funcionamiento
 - Engranaje de acero para una trasmisión más duradera sin pérdidas de potencía
