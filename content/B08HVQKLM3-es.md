@@ -27,8 +27,8 @@ En este momento está [AUKEY Auriculares Inalámbricos Bluetooth 5 Detección en
 
 - Estuche de carga potente: los auriculares funcionan durante más de 4 horas con una sola carga y si los guardas en el estuche de carga, hasta 28 horas. Puedes recargar el estuche con carga inalámbrica o carga rápida USB-C
 - Auténtico sonido inalámbrico: el diseño ergonómico optimizado combinado con características como latencia ultrabaja, resistencia al agua IPX5 y el uso de un solo auricular hacen que estos auriculares sean el compañero perfecto para viajes diarios, entrenamientos y para el día a día.
-- Contenido del paquete: Auténticos auriculares inalámbricos AUKEY EP-T31, estuche de carga, tres pares de almohadillas para los oídos (S / M / L), cable USB-A a C, manual de usuario
 - Control inteligente: los sensores de proximidad infrarrojos duales detectan el estado de uso para la reproducción y pausa automáticas. El control táctil multifuncional permite controlar la música de forma intuitiva y gestionar las llamadas
+- Contenido del paquete: Auténticos auriculares inalámbricos AUKEY EP-T31, estuche de carga, tres pares de almohadillas para los oídos (S / M / L), cable USB-A a C, manual de usuario
 - Modo de baja latencia: la tecnología de latencia ultrabaja acelera el procesamiento de audio para una sincronización de sonido fluida a la hora de mirar videos o jugar a juegos
 
 [Aquí!!!](https://www.amazon.es/dp/B08HVQKLM3/?tag=tolees-21)

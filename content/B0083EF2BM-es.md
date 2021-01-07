@@ -26,8 +26,8 @@ Ahora mismo tienes [NANOCABLE 10.01.0902-BK - Cable USB 3.0 Prolongador  Tipo A/
 🔎:
 
 - Múltiple apantallamiento formado por 128 hilos trenzados
-- Tasa de transferencia (máx.): 5000 Mbit/s
-- Lámina de aluminio para la máxima reducción de posibles interferencias
 - Cable USB 3.0 con conector tipo A (USB 3.0, 9 pines) macho en un extremo y tipo A (USB 3.0, 9 pines) hembra en el otro
+- Lámina de aluminio para la máxima reducción de posibles interferencias
+- Tasa de transferencia (máx.): 5000 Mbit/s
 
 [Visítala!!!](https://www.amazon.es/dp/B0083EF2BM/?tag=tolees-21)

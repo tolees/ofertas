@@ -25,8 +25,8 @@ Está [Roadstar CLR-2618 - Radio despertador MW/FM  color negro](https://www.ama
 
 ℹ️:
 
-- Radio Digital AM/FM
 - Despertador por radio o zumbador
+- Radio Digital AM/FM
 - Pantalla LED de 1.8"
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00436FIZY/?tag=tolees-21)

@@ -27,9 +27,9 @@ Tienes [Rowenta DW4205D1 Effective Antical - Plancha de vapor 2450 W  golpe vapo
 
 - El modo eco ahorra hasta un 20% de energía en comparación con el consumo al máximo nivel de salida de vapor; el vapor vertical facilita el planchado de prendas más delicadas o de gran tamaño
 - Plancha de vapor Effective Anticalc de 2450 W proporciona 140 g/min eliminando las arrugas más difíciles del tejido; para un planchado rápido y eficaz por su vapor continúo de hasta 35 g/min
+- Control antigoteo para mayor tranquilidad en el planchado dado que impide que el agua deje manchas en los tejidos, incluso planchando a bajas temperaturas
+- Depósito de cal removible que captura las partículas de cal para ofrecer la durabilidad de sus sistema de vapor, permitiendo además una limpieza y un mantenimiento sin esfuerzo
 - Las planchas Rowenta se someten de manera aleatoria a estrictos controles de calidad que incluyen el llenado de agua, por ello se pueden encontrar gotas de agua en el depósito o en la suela
 - Suela Microsteam 300 Láser: gran deslizamiento y antiadherencia por su innovadora tecnología que facilita la distribución del vapor por sus 300 microagujeros r sobre las prendas
-- Depósito de cal removible que captura las partículas de cal para ofrecer la durabilidad de sus sistema de vapor, permitiendo además una limpieza y un mantenimiento sin esfuerzo
-- Control antigoteo para mayor tranquilidad en el planchado dado que impide que el agua deje manchas en los tejidos, incluso planchando a bajas temperaturas
 
 [Comprar!!!](https://www.amazon.es/dp/B075KDS44T/?tag=tolees-21)

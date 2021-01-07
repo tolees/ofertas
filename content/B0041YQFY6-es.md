@@ -25,10 +25,10 @@ Está [Hultafors Talmeter 3M - Flexómetro clase II de 3 m x 16 mm para medició
 
 ℹ️:
 
-- Desplegar la extensión y tomar mediciones internas tan fácil y rápido como las mediciones externas
-- La cinta rígida y al mismo tiempo flexible facilita la medición exacta de circunferencias y diámetros utilizando la escala en el dorso de la misma
-- EU clase II, largo cinta 3 m, ancho cinta 16 mm, ancho de caja 100 mm
 - Con los extremos combinados de medición y marcaje, se puede tomar una medición y luego transferirla a la pieza de trabajo
 - Se puede utilizar como un compás para trazar arcos precisos con una mano
+- Desplegar la extensión y tomar mediciones internas tan fácil y rápido como las mediciones externas
+- EU clase II, largo cinta 3 m, ancho cinta 16 mm, ancho de caja 100 mm
+- La cinta rígida y al mismo tiempo flexible facilita la medición exacta de circunferencias y diámetros utilizando la escala en el dorso de la misma
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0041YQFY6/?tag=tolees-21)

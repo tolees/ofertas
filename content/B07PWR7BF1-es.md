@@ -25,10 +25,10 @@ Está [CHANSON D EAU EDT Amanecer para mujer - 200 ml](https://www.amazon.es/dp/
 
 ℹ️:
 
-- Corazón de azahar, gardenía y albaricoque
 - Fragancia floral suave con matices afrutados
-- Con notas de albaricoque, grosella negra y mandarina
 - Aroma envolvente y sensual
+- Corazón de azahar, gardenía y albaricoque
 - Eau de toilette para mujer - 200 ml
+- Con notas de albaricoque, grosella negra y mandarina
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07PWR7BF1/?tag=tolees-21)

@@ -25,10 +25,10 @@ Está [Dixan Detergente Líquido Total 30 Dosis - Paquete de 4  Total: 120 Lavad
 
 ℹ️:
 
-- Consigue luminosidad para toda la ropa con Dixan Detergente Líquido Total: colores blancos y colores
-- Desde 1959, Dixan Detergente Gel Total te ofrece la manera inteligente de lavar tu ropa
 - Perfume fresco y duradero: gracias a su tecnología mantiene la ropa fresca y un olor agradable durante 12 horas dentro de la lavadora
-- Toda la experiencia de Dixan en una fórmula renovada con la calidad y el ahorro de siempre
 - Gran poder de limpieza: su tecnología de detección de manchas actúa directamente sobre la suciedad incrustada; manchas de grasa, aceite, vino, huevo, ahora podrás despedirte de ellas
+- Toda la experiencia de Dixan en una fórmula renovada con la calidad y el ahorro de siempre
+- Desde 1959, Dixan Detergente Gel Total te ofrece la manera inteligente de lavar tu ropa
+- Consigue luminosidad para toda la ropa con Dixan Detergente Líquido Total: colores blancos y colores
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01LZHII1U/?tag=tolees-21)

@@ -25,8 +25,8 @@ Ahora mismo tienes [LG 27UL500-W - Monitor de 68 4 cm  27"  UHD  3840 x 2160  IP
 
 🔎:
 
-- Sistema operativo: Windows
-- ALA
 - Tamaño de pantalla: 27.0 inches
+- ALA
+- Sistema operativo: Windows
 
 [Visítala!!!](https://www.amazon.es/dp/B07PVW7BMQ/?tag=tolees-21)

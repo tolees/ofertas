@@ -25,10 +25,10 @@ Está [SANAT Alfombra  Polipropileno  60 x 110 cm  Color Gris Claro](https://www
 
 ℹ️:
 
-- Fabricado en Turquía: como uno de los fabricantes de alfombras más grandes de Turquía, Sanat Teppich combina el conocimiento centenario de Turquía con tecnología moderna para la máxima satisfacción del cliente y las alfombras de la mejor calidad.
-- Resistente y duradero: el polipropileno es conocido por ser uno de los plásticos más duraderos. La combinación con la artesanía de alta calidad hace que las alfombras Sanat sean una buena elección.
-- Adecuado para cualquier espacio: las alfombras Sanat añaden calidez, textura y comodidad a cualquier habitación de tu casa. Son ideales para salas de estar, pasillos, pasillos, comedores, dormitorios, cocinas, vestíbulos, habitaciones infantiles y oficinas en casa.
 - Súper suave: las alfombras Sanat Shaggy son increíblemente suaves y cuentan con una capa superior de material grueso y peludo, que es ultra suave. Su suavidad hace que sean las alfombras perfectas en las que puedes levantarte por la mañana.
+- Fabricado en Turquía: como uno de los fabricantes de alfombras más grandes de Turquía, Sanat Teppich combina el conocimiento centenario de Turquía con tecnología moderna para la máxima satisfacción del cliente y las alfombras de la mejor calidad.
+- Adecuado para cualquier espacio: las alfombras Sanat añaden calidez, textura y comodidad a cualquier habitación de tu casa. Son ideales para salas de estar, pasillos, pasillos, comedores, dormitorios, cocinas, vestíbulos, habitaciones infantiles y oficinas en casa.
 - Fácil de limpiar: los materiales utilizados en las alfombras Sanat son resistentes al agua y a la suciedad y hacen que nuestras alfombras sean fáciles de limpiar. Todo lo que tienes que hacer es ver y aspirar la suciedad. La alfombra Sanat Halı no contiene sustancias nocivas según el estándar Öko-Tex 100.
+- Resistente y duradero: el polipropileno es conocido por ser uno de los plásticos más duraderos. La combinación con la artesanía de alta calidad hace que las alfombras Sanat sean una buena elección.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07WVQH1JF/?tag=tolees-21)
