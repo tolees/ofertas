@@ -25,10 +25,10 @@ Tienes [Netgear Orbi Pro SRR60 - Router WiFi Mesh Profesional Que Cubre hasta 17
 
 🔎:
 
-- Orbi pro viene con 3 redes predefinidas con aislamiento de tráfico para propietario/administrador de red, empleados y clientes; incluye un portal de invitados personalizable
-- Fácil instalación de una sencilla y segura red wifi, lista para funcionar nada más salir de la caja
+- Alto rendimiento mesh wifi fiable ac3000, 175 metros cuadrados con conexiones simultáneas optimizadas para hasta 40 usuarios mu-mimo
 - Router wifi mesh orbi pro (srr60) cubre una zona de 175 metros cuadrados
 - Monitoreo y control remoto con netgear insight
-- Alto rendimiento mesh wifi fiable ac3000, 175 metros cuadrados con conexiones simultáneas optimizadas para hasta 40 usuarios mu-mimo
+- Orbi pro viene con 3 redes predefinidas con aislamiento de tráfico para propietario/administrador de red, empleados y clientes; incluye un portal de invitados personalizable
+- Fácil instalación de una sencilla y segura red wifi, lista para funcionar nada más salir de la caja
 
 [Comprar!!!](https://www.amazon.es/dp/B01N4ADCPY/?tag=tolees-21)

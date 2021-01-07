@@ -25,10 +25,10 @@ Tienes [Pranarôm - Aceite Esencial de Eucalipto Radiata - Hoja - 10 ml](https:/
 
 ℹ️:
 
-- Crece en los suelos drenados de las alturas subtropicales, el eucalipto radiata posee un tronco gris azulado, una corteza caduca, hojas jóvenes redondeadas y hojas adultas lanceoladas. Los aborígenes australianos utilizan las hojas frescas para vendar las llagas
-- Fórmula para aumentar las defensas naturales durante el invierno : En un frasco de 10 ml: 150 gotas AEQT Ravintsara + 70 gotas AEQT Eucalipto radiata + 35 gotas AEQT Laurel + 35 gotas AEQT Niaulí
-- En difusión : Unas gotas de la sinergia en cualquier tipo de difusor de aceites esenciales. En interno : Ingerir 2 gotas sobre un soporte neutro 3 veces al día - Dosis diaria máxima recomendada de aceite: 6 gotas
 - Aceite Esencial de Eucalipto Radiata - AEQT : Eucalyptus radiata ssp radiata - Parte destilada: Hoja
+- Fórmula para aumentar las defensas naturales durante el invierno : En un frasco de 10 ml: 150 gotas AEQT Ravintsara + 70 gotas AEQT Eucalipto radiata + 35 gotas AEQT Laurel + 35 gotas AEQT Niaulí
 - Refrescante, el aceite esencial de eucalipto radiata se utiliza tradicionalmente para tracto respiratorio. Purificante, te apoya en la lucha contra las molestias invernales. Favorece el buen funcionamiento del sistema inmunitario - Descongestionante nasal, destapa suavemente la nariz y facilita la respiración
+- En difusión : Unas gotas de la sinergia en cualquier tipo de difusor de aceites esenciales. En interno : Ingerir 2 gotas sobre un soporte neutro 3 veces al día - Dosis diaria máxima recomendada de aceite: 6 gotas
+- Crece en los suelos drenados de las alturas subtropicales, el eucalipto radiata posee un tronco gris azulado, una corteza caduca, hojas jóvenes redondeadas y hojas adultas lanceoladas. Los aborígenes australianos utilizan las hojas frescas para vendar las llagas
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B001NYQRO0/?tag=tolees-21)

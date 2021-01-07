@@ -25,9 +25,9 @@ Ahora mismo tienes [Juego de Tronos Réplica Figura Daenerys Targaryen 20cm  Mul
 
 🔎:
 
-- Replica del personaje Daenerys Targaryen
-- Incluye una base y tiene una altura de 19 cm
 - La figura esta hecha de plástico y pintado a mano
 - El producto viene en caja con ventana
+- Replica del personaje Daenerys Targaryen
+- Incluye una base y tiene una altura de 19 cm
 
 [Visítala!!!](https://www.amazon.es/dp/B06XXP4Y7X/?tag=tolees-21)

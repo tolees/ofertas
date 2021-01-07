@@ -25,11 +25,11 @@ Ahora mismo tienes [Fellowes 8036701 - Soporte de regazo para ordenador portáti
 
 🔎:
 
-- Regulable en altura
-- Rejillas de ventilación ayudan a evitar que el calor molestias forma portátil
-- Certificado por FIRA International Ltd para cumplir con los requisitos ergonómicos establecidos en la legislación europea de salud y seguridad: EN ISO 9241-5
-- FIRA acreditado
 - Dentro de la línea de lugares copyholder trabajan en una posición cómoda visualización
 - Incluye pies giratorios y acceso fácil espinal
+- Rejillas de ventilación ayudan a evitar que el calor molestias forma portátil
+- FIRA acreditado
+- Certificado por FIRA International Ltd para cumplir con los requisitos ergonómicos establecidos en la legislación europea de salud y seguridad: EN ISO 9241-5
+- Regulable en altura
 
 [Visítala!!!](https://www.amazon.es/dp/B000MK2MTK/?tag=tolees-21)

@@ -25,9 +25,9 @@ En este momento está [HP EliteDesk 800 G1 SFF Quad Core i5-4570 3.20GHz 8GB 256
 
 🔎:
 
-- Includes Internet Security
 - Office Package included: 30-day trial of Microsoft Office 365
 - Processor: Fast Intel Core i5 4th Gen. 3.20 GHz, Memory: 8 GB RAM Memory, Hard Drive: 256 GB Solid State Drive, USB 150Mbps WiFi/Wireless adapter included
 - Operating System: Genuine Windows 10 Professional 64-Bit preinstalled w/COA license
+- Includes Internet Security
 
 [Aquí!!!](https://www.amazon.es/dp/B0713SMTTM/?tag=tolees-21)

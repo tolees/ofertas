@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Descuento del 30.66 % en El Hobbit: Un Viaje Inesperado - Edición'
-date: 2021-01-06 06:42:27
+title: 'Descuento del 21.79 % en El Hobbit: Un Viaje Inesperado - Edición'
+date: 2021-01-07 12:40:11
 image: 'https://m.media-amazon.com/images/I/515OiMKARzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B00ECZDWZY-es'
-actualPrice: 10.63 EUR
+actualPrice: 11.99 EUR
 currency: EUR
-price: 10.63
+price: 11.99
 comparePrice: 15.33 EUR
 prodname: 'El Hobbit: Un Viaje Inesperado - Edición Extendida  BD  [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00ECZDWZY/?tag=tolees-21'
-descuento: '30.66'
-average: '12.246470588235294'
+descuento: '21.79'
+average: '12.219473684210525'
 ---
 
-Tienes [El Hobbit: Un Viaje Inesperado - Edición Extendida  BD  [Blu-ray]](https://www.amazon.es/dp/B00ECZDWZY/?tag=tolees-21) con un 30.66 % de descuento con precio de oferta de 10.63 EUR (original: 15.33 EUR) en el siguiente enlace!
+Tienes [El Hobbit: Un Viaje Inesperado - Edición Extendida  BD  [Blu-ray]](https://www.amazon.es/dp/B00ECZDWZY/?tag=tolees-21) con un 21.79 % de descuento con precio de oferta de 11.99 EUR (original: 15.33 EUR) en el siguiente enlace!
 
 [![El Hobbit: Un Viaje Inesperado - Edición](https://m.media-amazon.com/images/I/515OiMKARzL._SL200_.jpg)](https://www.amazon.es/dp/B00ECZDWZY/?tag=tolees-21)
 

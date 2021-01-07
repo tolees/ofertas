@@ -25,8 +25,8 @@ En este momento está [AXE Desodorante Bodyspray Dark Temptation 150 ml](https:/
 
 🔎:
 
-- AXE Edición Especial Sex Education Desodorante Dark Temptation 150 ml
 - Ofrece una protección duradera y eficaz contra el sudor y los malos olores
+- AXE Edición Especial Sex Education Desodorante Dark Temptation 150 ml
 - Tiene un aplicación rápida que ayudará a mantenerte fresco y seco
 
 [Aquí!!!](https://www.amazon.es/dp/B086WVSSP8/?tag=tolees-21)

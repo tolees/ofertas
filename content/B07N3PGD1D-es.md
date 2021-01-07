@@ -25,10 +25,10 @@ Está [Diadermine - Crema Hidratante y Nutritiva de Día para pieles secas y sen
 
 ℹ️:
 
-- Cutis suave, elástico y terso
 - Piel intensamente nutrida
 - Piel terso
-- Crema de día hidratante nutritiva para pieles secas y sensibles
+- Cutis suave, elástico y terso
 - Piel protegida
+- Crema de día hidratante nutritiva para pieles secas y sensibles
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07N3PGD1D/?tag=tolees-21)

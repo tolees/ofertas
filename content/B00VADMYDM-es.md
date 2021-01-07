@@ -25,15 +25,15 @@ Tienes [Garza 400604 Temporizador Analógico Mini  Blanco  Set De 2  ](https://w
 
 ℹ️:
 
-- Máximo: 3680w 16a/ 230v/ 50 Hz
+- Programación 24 horas
+- Garantía de 2 años
+- Conmutación cada 15 minutos
+- Pack económico: 2 unidades
 - Protección infantil
+- Temporizador analógico mini; blíster de 2 unidades
+- Máximo: 3680w 16a/ 230v/ 50 Hz
+- Interruptor: on / auto
 - Apto para uso interior
 - Con la garantía de calidad de Garza Power
-- Garantía de 2 años
-- Temporizador analógico mini; blíster de 2 unidades
-- Pack económico: 2 unidades
-- Interruptor: on / auto
-- Conmutación cada 15 minutos
-- Programación 24 horas
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00VADMYDM/?tag=tolees-21)

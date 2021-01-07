@@ -25,8 +25,8 @@ Está [Kipling SUPERWORKER S  Luggage Messenger-Bolso Bandolera para Mujer  Dyna
 
 ℹ️:
 
+- Bolsa para equipaje
 - CLASSICS
 - Para mujer
-- Bolsa para equipaje
 
 [Ver la oferta!!](https://www.amazon.es/dp/B083YF1PGM/?tag=tolees-21)

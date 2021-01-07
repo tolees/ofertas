@@ -25,8 +25,8 @@ Tienes [Star Trek: The Next Generation - Stagioni 1-7  41 Blu-Ray  [Italia] [Blu
 
 🔎:
 
+- Tutti gli episodi della Serie
 - Boxset 41 dischi
 - Serie Tv Cult
-- Tutti gli episodi della Serie
 
 [Comprar!!!](https://www.amazon.es/dp/B01HOIVQ4E/?tag=tolees-21)

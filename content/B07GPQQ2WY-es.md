@@ -25,8 +25,8 @@ Ahora mismo tienes [Skechers Moreno-Ederson  Zapatillas Hombre  Azul  NVY Black 
 
 🔎:
 
-- Horma ancha.
 - Amortiguación Goga Mat Arch.
+- Horma ancha.
 - Con plantilla de espuma viscoelástica con efecto memoria.
 
 [Visítala!!!](https://www.amazon.es/dp/B07GPQQ2WY/?tag=tolees-21)
