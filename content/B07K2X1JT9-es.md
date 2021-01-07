@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEVIS FOOTWEAR AND ACCESSORIES Free Cint al 30.14 % de rebaja'
-date: 2021-01-06 06:31:32
+date: 2021-01-07 07:04:42
 image: 'https://m.media-amazon.com/images/I/41QPwxpb4-L._SL200_.jpg'
 comments: true
 category: ofertas

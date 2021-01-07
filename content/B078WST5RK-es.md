@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.90 % en Samsung MZ-76E1T0B/EU 860 EVO - Disco in'
-date: 2021-01-06 00:34:45
+date: 2021-01-07 06:35:20
 image: 'https://m.media-amazon.com/images/I/41qn949SpcL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078WST5RK/?tag=tolees-21'
 descuento: '37.90'
-average: '121.20812499999998'
+average: '121.01882352941175'
 ---
 
 Tienes [Samsung MZ-76E1T0B/EU 860 EVO - Disco interno de estado solido SSD  1 TB  550 megabytes/s  Negro](https://www.amazon.es/dp/B078WST5RK/?tag=tolees-21) con un 37.90 % de descuento con precio de oferta de 117.99 EUR (original: 189.99 EUR) en el siguiente enlace!
@@ -25,11 +25,11 @@ Tienes [Samsung MZ-76E1T0B/EU 860 EVO - Disco interno de estado solido SSD  1 TB
 
 ℹ️:
 
-- Recorte compatible
-- Soporte de cifrado: Cifrado AES de 256 bits (Clase 0) TCG / Opal IEEE1667 (Unidad cifrada)
-- Escritura secuencial 520MB/s
-- Interfaz SATA de 6 Gb/s, compatible con interfaz SATA de 3 Gb/sy SATA de 1,5 Gb/s
 - Lectura secuencial 550MB/s
+- Interfaz SATA de 6 Gb/s, compatible con interfaz SATA de 3 Gb/sy SATA de 1,5 Gb/s
+- Recorte compatible
+- Escritura secuencial 520MB/s
+- Soporte de cifrado: Cifrado AES de 256 bits (Clase 0) TCG / Opal IEEE1667 (Unidad cifrada)
 - S.M.A.R.T Compatible
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B078WST5RK/?tag=tolees-21)

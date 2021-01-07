@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asics H6k2n  Zapatillas Unisex Adulto  N al 40.01 % de descuento'
-date: 2020-12-28 02:16:23
+date: 2021-01-07 07:24:25
 image: 'https://m.media-amazon.com/images/I/41jCYAWLTvL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Está [Asics H6k2n  Zapatillas Unisex Adulto  Negro  9090   41.5 EU](https://www
 
 ℹ️:
 
-- Entresuela de EVA
 - Tecnología GEL ASICS
+- Entresuela de EVA
 - Suela de goma sólida
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01HSSHRRA/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Robot de Cocina Multifunción Mam al 42.32 % de rebaja'
-date: 2021-01-05 18:39:41
+date: 2021-01-07 07:06:58
 image: 'https://m.media-amazon.com/images/I/41ciOGxAh6L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08GYCH9BP/?tag=tolees-21'
 descuento: '42.32'
-average: '292.4720987654321'
+average: '291.6655421686747'
 ---
 
 Tienes [Cecotec Robot de Cocina Multifunción Mambo 9590  Cuchara MamboMix  Jarra Habana  30 Funciones  Báscula incorporada  Jarra de Acero Inox de 3 3L  Apta para Lavavajillas  Cestillo de Hervir  Recetario](https://www.amazon.es/dp/B08GYCH9BP/?tag=tolees-21) con precio final de  259.0 EUR (original: 449.0 EUR) (42.32 %  de rebaja) aqui!
