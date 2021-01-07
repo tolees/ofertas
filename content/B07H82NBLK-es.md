@@ -26,8 +26,8 @@ Ahora mismo tienes [Orbegozo RF 1000 Radiador de aceite  1000W de potencia  cons
 🔎:
 
 - Termostato regulable de alta precisión
-- Termofusible de seguridad con limitador y piloto luminoso de encendido
 - Potencia de 1000W
+- Termofusible de seguridad con limitador y piloto luminoso de encendido
 - Radiador de aceite Orbegozo en color blanco, 4 ruedas pivotantes, asa para transporte y recoge cables
 
 [Visítala!!!](https://www.amazon.es/dp/B07H82NBLK/?tag=tolees-21)
