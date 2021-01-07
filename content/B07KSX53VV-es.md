@@ -25,10 +25,10 @@ En este momento está [Lékué Recipiente hermético para Transportar y conserva
 
 🔎:
 
-- Espacio para colocar los cubiertos de Lékué. + servilleta o lo que se desee
 - Válvula para el uso en el Microondas. Para calentar, se debe abrir la tapita de silicona.
-- Cubiertos no incluidos
+- Espacio para colocar los cubiertos de Lékué. + servilleta o lo que se desee
 - Incluye: dos recipientes con sus tapas, una tapa extra y una banda para unir los dos recipientes
+- Cubiertos no incluidos
 - BPA free
 - Ideas para un menú semanal, incluido en el pack.
 

@@ -26,8 +26,8 @@ Tienes [Seagate Backup Plus Slim  2TB  Disco duro externo portátil  HDD  Negro 
 🔎:
 
 - Tan solo conecte esta unidad de disco duro externa para Mac y Windows en un ordenador a través del cable USB 3.0 incluido para realizar la copia de seguridad de los archivos haciendo un solo clic o programe copias de seguridad automáticas
+- Esta unidad de disco duro externa portátil tiene una carcasa de metal pulido minimalista y es una unidad USB con estilo
 - Almacene y acceda a 2 TB de fotos y archivos allá donde vaya con Seagate Backup Plus Slim, una unidad de disco duro externa para Mac y Windows
 - Edite, gestione y comparta fotos con una suscripción gratuita de un año a Mylio Create y una suscripción de dos meses al plan Adobe Creative Cloud Photography
-- Esta unidad de disco duro externa portátil tiene una carcasa de metal pulido minimalista y es una unidad USB con estilo
 
 [Comprar!!!](https://www.amazon.es/dp/B07N8T4TBP/?tag=tolees-21)

@@ -25,8 +25,8 @@ En este momento está [Pepe Jeans Federico Suéter  Azul  597   Large para Hombr
 
 🔎:
 
-- Jersey de manga larga de color azul marino. Cuello redondo. Detalle bordado.
-- Modelo: PM702048
 - Marca: PEPE JEANS
+- Modelo: PM702048
+- Jersey de manga larga de color azul marino. Cuello redondo. Detalle bordado.
 
 [Aquí!!!](https://www.amazon.es/dp/B08483SHBS/?tag=tolees-21)

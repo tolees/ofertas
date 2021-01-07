@@ -25,9 +25,9 @@ Ahora mismo tienes [Wet n Wild - Color Icon Eyeshadow Single - Sombra de Ojos Pr
 
 🔎:
 
-- Alta pigmentación que proporciona colores con acabado satinado
 - Textura suave que permite una fácil de aplicación
-- Libre de crueldad animal (certificado PETA): la marca Wet n Wild no prueba sus productos de maquillaje sobre los animales
 - La solución perfecta para un maquillaje de ojos de larga duración
+- Libre de crueldad animal (certificado PETA): la marca Wet n Wild no prueba sus productos de maquillaje sobre los animales
+- Alta pigmentación que proporciona colores con acabado satinado
 
 [Visítala!!!](https://www.amazon.es/dp/B0797LTYQB/?tag=tolees-21)

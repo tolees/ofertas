@@ -1,33 +1,33 @@
 ---
 layout: post
-title: 'Sony SAL35F14G - Objetivo para Sony/Mino al 43.80 % de descuento'
-date: 2020-12-30 11:23:52
+title: 'Sony SAL35F14G - Objetivo para Sony/Mino al 44.87 % de descuento'
+date: 2021-01-07 20:54:47
 image: 'https://m.media-amazon.com/images/I/31Jv+yphifL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B000GSXW7O-es'
-actualPrice: 1011.57 EUR
+actualPrice: 992.34 EUR
 currency: EUR
-price: 1011.57
+price: 992.34
 comparePrice: 1800.0 EUR
 prodname: 'Sony SAL35F14G - Objetivo para Sony/Minolta  Distancia Focal Fija 35mm  Apertura f/1.4-22  Negro'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000GSXW7O/?tag=tolees-21'
-descuento: '43.80'
-average: '1123.19'
+descuento: '44.87'
+average: '1070.85'
 ---
 
-Ahora mismo tienes [Sony SAL35F14G - Objetivo para Sony/Minolta  Distancia Focal Fija 35mm  Apertura f/1.4-22  Negro](https://www.amazon.es/dp/B000GSXW7O/?tag=tolees-21) a 1011.57 EUR (original: 1800.0 EUR) (43.80 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Sony SAL35F14G - Objetivo para Sony/Minolta  Distancia Focal Fija 35mm  Apertura f/1.4-22  Negro](https://www.amazon.es/dp/B000GSXW7O/?tag=tolees-21) a 992.34 EUR (original: 1800.0 EUR) (44.87 %  de descuento) en el siguiente enlace!
 
 [![Sony SAL35F14G - Objetivo para Sony/Mino](https://m.media-amazon.com/images/I/31Jv+yphifL._SL200_.jpg)](https://www.amazon.es/dp/B000GSXW7O/?tag=tolees-21)
 
 🔎:
 
-- 35mm F1.4 G lens
-- A-mount, 35mm Full Frame
-- Aspherical lens
-- Wide-angle prime Sony G Lens
+- Lente G de 35 mm F1,4
+- Lente asférica
+- Lente G Sony prime gran angular
+- Montura tipo A, fotograma completo de 35 mm
 
 [Visítala!!!](https://www.amazon.es/dp/B000GSXW7O/?tag=tolees-21)
