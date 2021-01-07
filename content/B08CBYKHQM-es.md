@@ -25,10 +25,10 @@ En este momento está [adidas W U-4-U 7/8 TG Mallas  Mujer  Negro/Cobmet  M](htt
 
 🔎:
 
+- Cintura elástica
 - Corte ajustado
+- Interlock 70% poliéster reciclado / 19% poliéster / 11% elastán
 - Mallas con estampado metalizado
 - Largo por encima del tobillo
-- Cintura elástica
-- Interlock 70% poliéster reciclado / 19% poliéster / 11% elastán
 
 [Aquí!!!](https://www.amazon.es/dp/B08CBYKHQM/?tag=tolees-21)

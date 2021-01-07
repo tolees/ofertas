@@ -25,10 +25,10 @@ Tienes [Wolfcraft 5208000 - Escuadra  Regla  3D](https://www.amazon.es/dp/B07CS
 
 🔎:
 
+- También equ ipad o con un calibrador de diámetros, para saber rápidamente el diámetro de una broca
 - Para editar de de piezas de tridimensional es por ejemplo, vigas, kant maderas, tubos, etc
+- La escuadra 3D proporciona un indicador para líneas paralelas
 - Pulsaciones para ángulo de 45.° y 90.°
 - Esta herramienta de marcado, permite tomar medidas fácilmente y transferirlas a vigas
-- La escuadra 3D proporciona un indicador para líneas paralelas
-- También equ ipad o con un calibrador de diámetros, para saber rápidamente el diámetro de una broca
 
 [Comprar!!!](https://www.amazon.es/dp/B07CSZ489N/?tag=tolees-21)

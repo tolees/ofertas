@@ -27,8 +27,8 @@ Está [vidaXL 10x Vallas de Estacas Jardín Madera Pino Impregnada 140 cm Cerca 
 
 - Dimensiones listón: 9 x 140 cm (ancho x alto)
 - Material: Madera de pino impregnada
-- Grosor de los listones: 1,9 cm
-- Resistente a la putrefacción
 - La entrega incluye 10 vallas de listones
+- Resistente a la putrefacción
+- Grosor de los listones: 1,9 cm
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01MR1ZYBD/?tag=tolees-21)

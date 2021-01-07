@@ -25,10 +25,10 @@ Tienes [ROYAL SLEEP Colchón viscoelástico Carbono 150x190 firmeza Alta  Gama A
 
 🔎:
 
-- Su otra cara, ofrece una transpirabilidad superior por la porosidad de sus materiales, que permiten que el aire circule por dentro del colchón y aportan frescura adicional cuando se requiere (volteando el colchón).
-- La espuma técnica de Royal Sleep permite libertad de movimientos sin afectar el descanso de la otra persona. Todos los productos de Royal Sleep cuentan con tratamientos higiénicos para garantizar la no proliferación de ácaros. Colchón reversible cara invierno/verano
-- Colchón con visco carbono. Viscoelástica anti-stress. +/- 25 cms de altura. Producto fabricado al 100% en España
-- Cuenta con dos caras útiles, con tres capas de confort en sus tapas. Una de ellas contiene visco carbono, que elimina la electricidad estática y genera efecto antiestrés. Este material, además, reduce los movimientos durante la noche para favorecer un sueño reparador. Se mantiene firme cuando no detecta calor, pero se convierte en flexible y adaptable en contacto directo con el cuerpo. De esta forma se crea un suave molde de la persona que duerme sobre él para eliminar los puntos de presión.
 - Los laterales están fabricados con una tela stretch, que además de ser muy resistente, permite que el aire fluya y el colchón se ventile eficazmente.
+- Cuenta con dos caras útiles, con tres capas de confort en sus tapas. Una de ellas contiene visco carbono, que elimina la electricidad estática y genera efecto antiestrés. Este material, además, reduce los movimientos durante la noche para favorecer un sueño reparador. Se mantiene firme cuando no detecta calor, pero se convierte en flexible y adaptable en contacto directo con el cuerpo. De esta forma se crea un suave molde de la persona que duerme sobre él para eliminar los puntos de presión.
+- Colchón con visco carbono. Viscoelástica anti-stress. +/- 25 cms de altura. Producto fabricado al 100% en España
+- La espuma técnica de Royal Sleep permite libertad de movimientos sin afectar el descanso de la otra persona. Todos los productos de Royal Sleep cuentan con tratamientos higiénicos para garantizar la no proliferación de ácaros. Colchón reversible cara invierno/verano
+- Su otra cara, ofrece una transpirabilidad superior por la porosidad de sus materiales, que permiten que el aire circule por dentro del colchón y aportan frescura adicional cuando se requiere (volteando el colchón).
 
 [Comprar!!!](https://www.amazon.es/dp/B07L9CBQWG/?tag=tolees-21)

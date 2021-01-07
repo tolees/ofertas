@@ -26,7 +26,7 @@ En este momento está [adidas Tiro 19 Training Pnt Pantalones Deportivos  Hombre
 🔎:
 
 - Elastic waistband with lanyard
-- Tapered fit
 - Climacool technology
+- Tapered fit
 
 [Aquí!!!](https://www.amazon.es/dp/B07JYN3XNB/?tag=tolees-21)

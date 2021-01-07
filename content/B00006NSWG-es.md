@@ -28,7 +28,7 @@ Está [Zoch 601122900 - Juego de Mesa Villa Paletti  Instrucciones en alemán  f
 - Instrucciones de Idiomas : DE
 - Advertencia : ¡Precaución! No apto para niños menores de 36 meses
 - Autor Juegos: Payne, Bill
-- Tiempo de reproducción: Aprox 30min
 - Sexo: las niñas y los niños
+- Tiempo de reproducción: Aprox 30min
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00006NSWG/?tag=tolees-21)

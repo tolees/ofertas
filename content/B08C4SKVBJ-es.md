@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dragon Ball - Playset Dragon Ball Tenkai al 25.01 % de rebaja'
-date: 2021-01-03 14:26:49
+date: 2021-01-07 10:43:03
 image: 'https://m.media-amazon.com/images/I/41H1aMbM0sL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ Tienes [Dragon Ball - Playset Dragon Ball Tenkaichi Budokai](https://www.amazon.
 
 🔎:
 
-- Ideal para las figuras Deluxe de 17 cm
 - Increíble nivel de detalle
 - Playset de gran tamaño
 - El escenario puede romperse en 3 zonas para mayor realismo de combate
+- Ideal para las figuras Deluxe de 17 cm
 
 [Comprar!!!](https://www.amazon.es/dp/B08C4SKVBJ/?tag=tolees-21)

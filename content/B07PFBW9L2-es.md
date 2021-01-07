@@ -25,10 +25,10 @@ Ahora mismo tienes [BERING Reloj Analógico para Hombre de Cuarzo con Correa en 
 
 🔎:
 
-- Resistente al agua hasta 5 ATM / 50 metros / 168 pies , resistencia general a salpicaduras, duchas, períodos cortos de natación, pero no al esnórquel o buceo
 - Correa: titanio / azul / 176 mm de largo / 20 mm de ancho
-- Caja: titanio / azul / 39 mm de diámetro / 7 mm de espesor
+- Resistente al agua hasta 5 ATM / 50 metros / 168 pies , resistencia general a salpicaduras, duchas, períodos cortos de natación, pero no al esnórquel o buceo
 - Titanium Watch Collection , Titanio ultraligero y sumamente cómodo , Quartz
 - El cristal de zafiro es resistente a golpes y rayaduras
+- Caja: titanio / azul / 39 mm de diámetro / 7 mm de espesor
 
 [Visítala!!!](https://www.amazon.es/dp/B07PFBW9L2/?tag=tolees-21)

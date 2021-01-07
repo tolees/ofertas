@@ -25,10 +25,10 @@ Tienes [Dremel 3000 - Multiherramienta 130 W  kit con 15 accesorios y estuche  v
 
 🔎:
 
+- Esta multiherramienta universal con complementos y accesorios intercambiables te permitirá realizar tareas minuciosas con una sola herramienta
 - Incluye: multiherramienta Dremel 3000, 15 accesorios, estuche de neopreno
 - El diseño simétrico y la carcasa ligera te ofrecen una empuñadura fuerte y ajustada para un uso sencillo y sin fatiga, para tener el control total de tu proyecto
 - Tallado, grabado, fresado, corte, lijado, amolado, afilado, pulido y limpieza; montones de aplicaciones, miles de proyectos
-- Esta multiherramienta universal con complementos y accesorios intercambiables te permitirá realizar tareas minuciosas con una sola herramienta
 - Combinada con un ingenioso diseño de ventilador y conductos laterales, la construcción de motor de cojinete de bolas permite disfrutar de una herramienta que no se recalienta y de un bajo nivel de ruido y vibraciones, incluso en condiciones de alta carga
 
 [Comprar!!!](https://www.amazon.es/dp/B00AO2N9JI/?tag=tolees-21)

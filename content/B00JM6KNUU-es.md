@@ -26,9 +26,9 @@ Está [Luminarc HERMETICO CUAD 122CL Pure Box Active Lum  Transparente y Azul  1
 ℹ️:
 
 - Resistente choque térmico
+- Con válvula de vapor
+- Recipiente apilable
 - Recipiente para transportar alimentos
 - Recipiente hermético
-- Recipiente apilable
-- Con válvula de vapor
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00JM6KNUU/?tag=tolees-21)

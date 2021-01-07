@@ -25,11 +25,11 @@ Ahora mismo tienes [Bellota 2994 - Kit de jardinería y huerto que incluye: rast
 
 🔎:
 
-- Fabricadas en fibra de vidrio
-- Fáciles de limpiar
-- Con nuestras herramientas para la agricultura sacarás mayor partido a tu tierra. En Bellota te ofrecemos herramientas duraderas que nunca fallan.
 - Las medidas del producto son: 375 x 255 x 70 mm. Y el peso es de: 0,63 kg.
-- Ideal para realizar las tareas básicas: trabajos en terrazas, macizos, rocallas y balcón.
+- Fáciles de limpiar
+- Fabricadas en fibra de vidrio
 - Herramientas para jardin muy ligeras
+- Con nuestras herramientas para la agricultura sacarás mayor partido a tu tierra. En Bellota te ofrecemos herramientas duraderas que nunca fallan.
+- Ideal para realizar las tareas básicas: trabajos en terrazas, macizos, rocallas y balcón.
 
 [Visítala!!!](https://www.amazon.es/dp/B00F2NGYAU/?tag=tolees-21)

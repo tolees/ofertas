@@ -25,10 +25,10 @@ Ahora mismo tienes [GES-VL Piedra  38 EU](https://www.amazon.es/dp/B07XG52CMQ/?t
 
 🔎:
 
-- Botín Plano
+- Botín cordones
 - Hecho en España
 - Forro interior de Pelo
-- Botín cordones
+- Botín Plano
 - Botín serraje
 
 [Visítala!!!](https://www.amazon.es/dp/B07XG52CMQ/?tag=tolees-21)

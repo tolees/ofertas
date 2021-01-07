@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'So Magic DIY Jardín Mágico Kit Grande  c al 44.14 % de descuento'
-date: 2021-01-06 08:25:43
+date: 2021-01-07 10:36:56
 image: 'https://m.media-amazon.com/images/I/51BaRv9ra7L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ Ahora mismo tienes [So Magic DIY Jardín Mágico Kit Grande  color verde  Canal 
 
 🔎:
 
-- Fabrica tu propio terrario
 - Mira como crece tu arbol magico
 - Añade la arena, las piedras y las decoraciones
 - Dimensiones: 16 x 13 x 22,5 cm
+- Fabrica tu propio terrario
 
 [Visítala!!!](https://www.amazon.es/dp/B07MMLSFXY/?tag=tolees-21)
