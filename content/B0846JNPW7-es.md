@@ -26,9 +26,9 @@ Ahora mismo tienes [Samsonite Samsonite Dream Rider Disney - Equipaje Infantil  
 🔎:
 
 - Equipaje infantil, 2 días de viaje: 51 x 22 x 37 cm; 28 L; 1.90 Kg
-- Ligero y resistente: Asas tejidas, fáciles de agarrar
-- Gran volumen y correas tensoras en cruz.
-- Tamaño del equipaje de mano
 - Adecuado para niños de 3 a 8 años
+- Ligero y resistente: Asas tejidas, fáciles de agarrar
+- Tamaño del equipaje de mano
+- Gran volumen y correas tensoras en cruz.
 
 [Visítala!!!](https://www.amazon.es/dp/B0846JNPW7/?tag=tolees-21)

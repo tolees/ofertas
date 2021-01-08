@@ -25,11 +25,11 @@ Tienes [ASUS VivoBook 14 S433FL-EB072T - Ordenador portátil de 14" FullHD  Inte
 
 🔎:
 
-- Pantalla de 14" FullHD (1920x1080)
+- Tarjeta gráfica NVIDIA GeForce MX250 de 2 GB GDDR5 VRAM
 - Almacenamiento de 512GB SSD
 - Sistema operativo: Windows 10 home
 - Procesador Intel Core i7-10510U (4 núcleos, 9MB cache, 1.8GHz hasta 4.9GHz)
 - Memoria RAM de 8GB DDR4, 2666 MHz
-- Tarjeta gráfica NVIDIA GeForce MX250 de 2 GB GDDR5 VRAM
+- Pantalla de 14" FullHD (1920x1080)
 
 [Comprar!!!](https://www.amazon.es/dp/B084DS7K9N/?tag=tolees-21)

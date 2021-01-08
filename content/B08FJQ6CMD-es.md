@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ancestors Legacy - Day One Edition al 16.85 % de descuento'
-date: 2021-01-04 16:11:38
+date: 2021-01-08 00:28:25
 image: 'https://m.media-amazon.com/images/I/51puHSeDpBL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08FJQ6CMD/?tag=tolees-21'
 descuento: '16.85'
-average: '30.863333333333333'
+average: '31.297272727272727'
 ---
 
 Está [Ancestors Legacy - Day One Edition](https://www.amazon.es/dp/B08FJQ6CMD/?tag=tolees-21) con 16.85 de descuento por 33.25 EUR (original: 39.99 EUR) en el siguiente enlace!
@@ -25,7 +25,7 @@ Está [Ancestors Legacy - Day One Edition](https://www.amazon.es/dp/B08FJQ6CMD/?
 
 ℹ️:
 
-- Libro de arte
 - Banda Sonora Digital
+- Libro de arte
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08FJQ6CMD/?tag=tolees-21)

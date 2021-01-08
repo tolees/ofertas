@@ -25,7 +25,7 @@ Ahora mismo tienes [Jack & Jones JCOWAY PARKA Jacke  Antarctica  XL para Hombre]
 
 🔎:
 
-- Chaqueta de Jack & Jones
 - Chaqueta de entretiempo
+- Chaqueta de Jack & Jones
 
 [Visítala!!!](https://www.amazon.es/dp/B088X4MRF2/?tag=tolees-21)
