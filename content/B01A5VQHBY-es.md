@@ -25,10 +25,10 @@ Tienes [Worx WX373 - Taladro percutor con 2 baterías de 2.0 Ah y cargador  sin 
 
 ℹ️:
 
+- Porta brocas metálico 13 mm
 - Caja de engranajes metálica
 - Tecnología Brushless (sin escobillas): 50% más de autonomía, 25% más de potencia, 10 veces mayor vida del motor
 - Plataforma Powershare. Batería extraíble e intercambiable con todas las herramientas eléctricas y de jardín de la gama 20V de Worx
-- Porta brocas metálico 13 mm
 - Máximo par de apriete 60 Nm
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01A5VQHBY/?tag=tolees-21)

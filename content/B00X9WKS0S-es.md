@@ -26,7 +26,7 @@ Tienes [L Oreal Elnett Protector Calor Spray Fijador Cabello Liso - 170 ml](http
 ℹ️:
 
 - Suaviza el pelo
-- Fórmula ligera que cubre el cabello de la raíz a las puntas
 - Protege los daños del calor hasta 230 °c
+- Fórmula ligera que cubre el cabello de la raíz a las puntas
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00X9WKS0S/?tag=tolees-21)

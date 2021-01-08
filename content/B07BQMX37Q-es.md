@@ -25,10 +25,10 @@ Ahora mismo tienes [ABYstyle - HARRY POTTER - Taza 3D - Sombrero Seleccionador](
 
 🔎:
 
-- Las tazas son de cerámica y los vasos de cristal
-- Las tazas y los vasos Abystyle reproducen logotipos o personajes emblemáticos de películas, series de televisión, series de dibujos animados, cómics, videojuegos y mucho más
 - Producto con licencia oficial
+- Las tazas y los vasos Abystyle reproducen logotipos o personajes emblemáticos de películas, series de televisión, series de dibujos animados, cómics, videojuegos y mucho más
 - El producto se vende en su caja original
 - Tazas y vasos son aptos para el uso en microondas y lavavajillas
+- Las tazas son de cerámica y los vasos de cristal
 
 [Visítala!!!](https://www.amazon.es/dp/B07BQMX37Q/?tag=tolees-21)

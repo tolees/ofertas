@@ -25,10 +25,10 @@ Ahora mismo tienes [Taurus Tallin 900 - Emisor térmico  tecnología seca  progr
 
 🔎:
 
+- Programa la temperatura en la pantalla retroiluminada
 - Diseño moderno y elegante en color blanco
 - Emisor térmico de 900W: Selecciona la temperatura de 10 a 35 C y siente la calidez en tu hogar
-- Incluye interruptor de marcha/paro y bloqueo del selector
 - Elige entre los 2 modos de funcionamiento: modo confort y modo económico
-- Programa la temperatura en la pantalla retroiluminada
+- Incluye interruptor de marcha/paro y bloqueo del selector
 
 [Visítala!!!](https://www.amazon.es/dp/B077P8S2LJ/?tag=tolees-21)

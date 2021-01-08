@@ -25,7 +25,7 @@ Tienes [Mothergunship](https://www.amazon.es/dp/B07B4SHWDG/?tag=tolees-21) con p
 
 🔎:
 
-- 3 piezas de armas especiales
 - Campaña adicional
+- 3 piezas de armas especiales
 
 [Comprar!!!](https://www.amazon.es/dp/B07B4SHWDG/?tag=tolees-21)

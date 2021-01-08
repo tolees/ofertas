@@ -25,10 +25,10 @@ En este momento está [adidas Originals Stan Smith Zapatillas de Deporte Unisex 
 
 🔎:
 
-- Suela de goma tonal para un buen agarre
-- Entresuela de EVA entera para amortiguar
-- Parte superior de cuero liso de grano completo
 - Plantillas acolchadas, textiles
 - Revestimiento sintético sintético y textil transpirable
+- Parte superior de cuero liso de grano completo
+- Suela de goma tonal para un buen agarre
+- Entresuela de EVA entera para amortiguar
 
 [Aquí!!!](https://www.amazon.es/dp/B00MHPCTC8/?tag=tolees-21)

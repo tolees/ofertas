@@ -25,10 +25,10 @@ Está [Rimmel London Scandaleyes Reloaded Máscara de Pestañas Tono 001 Black -
 
 ℹ️:
 
-- Captura todas las pestañas para dar un volumen escandaloso
-- Nuevo cepillo cónico para dar máxima densidad a tus pestañas
-- Fácil de desmaquillar con agua templada
 - Volumen instantáneo y duración extrema
 - Hasta 24 horas de impacto
+- Captura todas las pestañas para dar un volumen escandaloso
+- Fácil de desmaquillar con agua templada
+- Nuevo cepillo cónico para dar máxima densidad a tus pestañas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01J1A1KNK/?tag=tolees-21)
