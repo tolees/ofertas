@@ -25,12 +25,12 @@ Ahora mismo tienes [New Balance 500 Core  Zapatillas Hombre  Gris  Grey   42 EU]
 
 🔎:
 
-- Tipo de tacón: Plano
-- Material exterior: Cuero sintético
-- Cierre: Cordones
-- Composición: Microfibra y malla
-- Material de la suela: Sintético
-- Revestimiento: Tela
 - Anchura del zapato: Normal
+- Material exterior: Cuero sintético
+- Revestimiento: Tela
+- Composición: Microfibra y malla
+- Cierre: Cordones
+- Tipo de tacón: Plano
+- Material de la suela: Sintético
 
 [Visítala!!!](https://www.amazon.es/dp/B01AZLJOD2/?tag=tolees-21)

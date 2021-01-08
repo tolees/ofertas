@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Los Sims 4 - Standard | Código Origin pa con un 75.02 % de descuento'
-date: 2021-01-07 18:20:29
+date: 2021-01-08 19:19:10
 image: 'https://m.media-amazon.com/images/I/517XhdfWw9L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NC78YHN/?tag=tolees-21'
 descuento: '75.02'
-average: '11.101111111111111'
+average: '11.024482758620689'
 ---
 
 En este momento está [Los Sims 4 - Standard | Código Origin para PC](https://www.amazon.es/dp/B07NC78YHN/?tag=tolees-21) a 9.99 EUR (original: 39.99 EUR) (75.02 %  de descuento) en el siguiente enlace!

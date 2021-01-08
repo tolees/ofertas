@@ -26,9 +26,9 @@ En este momento está [G-STAR RAW Roxic Tapered Cargo Pantalones  Gris  Asfalt 4
 🔎:
 
 - Cierre de botones y cremallera
-- Bajo ajustable con cinta
-- Talle medio
 - Cierre de botones y cremallera
 - Logotipo de G-Star RAW en el bolsillo para monedas y etiqueta tejida en el bajo
+- Talle medio
+- Bajo ajustable con cinta
 
 [Aquí!!!](https://www.amazon.es/dp/B07QFQW5J3/?tag=tolees-21)

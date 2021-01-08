@@ -25,10 +25,10 @@ Ahora mismo tienes [Suhctup Funda Compatible con Huawei Nova 5 Transparente Sili
 
 🔎:
 
-- ❥【Compatibilidad】Funda Silicona Transparente TPU Carcasa compatible con [Huawei Nova 5], no apto para otros modelos. La funda Huawei Nova 5 transparente dibujos proporciona un mejor agarre y muestra la bellaza original de su móvil sin agregar peso extra.
-- ❥【Esquejes Precisos】Funda antigolpes Huawei Nova 5 permite acceder por completo a los puertos, todos los botones y puertos son de acceso con respuesta sensible, como el puerto del cargador, conector para auriculares, botones de volumen, etc. La funda ultra delgada Huawei Nova 5 [admite carga inalámbrica].
-- ❥【Buen Servicio】Suhctup proporciona garantía de [reembolso completo y reemplazo nuevo] con 6 meses, si algún problema le preocupa, contáctenos, le responderemos la mejor solución dentro de las 24 horas.
 - ❥【Material Transparente】La funda Huawei Nova 5 ultra slim hecho de el material de TPU suave con animal artista dibujos, el material es durable, fácil de poner y quitar sin preocuparse por rayar su teléfono. El interior tiene partículas neta impide las burbujas y mejora la disipación del calor.
 - ❥【Protección Completa】El carcasa iPhone 11 ofrece una excelente protección para su precioso Huawei Nova 5, como anti shock, anti scratch, anti slip, anti yellow, anti fingerprint, anti dust, etc. Los bordes elevados ayudan a proteger la pantalla y la cámara de su teléfono contra rasguños contra superficies planas, mejorar la protección de caída accidental, es efectiva aliviar el daño del Huawei Nova 5.
+- ❥【Esquejes Precisos】Funda antigolpes Huawei Nova 5 permite acceder por completo a los puertos, todos los botones y puertos son de acceso con respuesta sensible, como el puerto del cargador, conector para auriculares, botones de volumen, etc. La funda ultra delgada Huawei Nova 5 [admite carga inalámbrica].
+- ❥【Compatibilidad】Funda Silicona Transparente TPU Carcasa compatible con [Huawei Nova 5], no apto para otros modelos. La funda Huawei Nova 5 transparente dibujos proporciona un mejor agarre y muestra la bellaza original de su móvil sin agregar peso extra.
+- ❥【Buen Servicio】Suhctup proporciona garantía de [reembolso completo y reemplazo nuevo] con 6 meses, si algún problema le preocupa, contáctenos, le responderemos la mejor solución dentro de las 24 horas.
 
 [Visítala!!!](https://www.amazon.es/dp/B088M2LCVC/?tag=tolees-21)

@@ -25,10 +25,10 @@ Tienes [PawHut Árbol para Gatos Rascador Grande con Plataformas Casetas Bolas d
 
 🔎:
 
-- ✅Centro de Juegos: Equipado con 1 caseta, 3 plataformas, 2 bolas de juego. Tu gato podrá realizar una amplia variedad de entrenamientos
-- ✅Fácil de Montar: Incluye instrucciones y todos los accesorios necesarios para su montaje. Dimensiones totales: 40x40x114cm (LxANxAL), diámetro del sisal natural: Φ4mm. Capacidad máx. de carga: 20 kg
-- ✅Estable y Confortable: Estructura hecha de tablero madera aglomerado. Los postes son muy gruesos, por lo que la estructura es estable y resistente. Está cubierto de terciopelo 400g/㎡ , con un tacto cómodo y suave para tu gato
 - ✅Práctico y Funcional: Fabricado con materiales ecológicos. El sisal es muy duradero y cuidará las uñas del gato, permitiendo de esta manera proteger los muebles de cualquier arañazo
+- ✅Estable y Confortable: Estructura hecha de tablero madera aglomerado. Los postes son muy gruesos, por lo que la estructura es estable y resistente. Está cubierto de terciopelo 400g/㎡ , con un tacto cómodo y suave para tu gato
 - ✅Diseño elegante: Fantástico árbol rascador para gatos con un bonito y elegante diseño. Perfecto para colocar en cualquier lugar de tu hogar ya que combinará perfectamente con el resto de muebles
+- ✅Fácil de Montar: Incluye instrucciones y todos los accesorios necesarios para su montaje. Dimensiones totales: 40x40x114cm (LxANxAL), diámetro del sisal natural: Φ4mm. Capacidad máx. de carga: 20 kg
+- ✅Centro de Juegos: Equipado con 1 caseta, 3 plataformas, 2 bolas de juego. Tu gato podrá realizar una amplia variedad de entrenamientos
 
 [Comprar!!!](https://www.amazon.es/dp/B07FY6ZY4W/?tag=tolees-21)
