@@ -25,10 +25,10 @@ En este momento está [Tigex Limpiador de biberones con escobilla](https://www.a
 
 🔎:
 
+- Sus fibras más suaves para limpiar con suavidad los biberones sin rayar
 - Escobilla para una completa limpieza del interior de los biberones
 - Su punta con fibras resistentes para limpiar de forma eficaz el fondo de los biberones
-- Sus fibras anti-bacterias higiénicas (eficacia probada en laboratorio)
-- Sus fibras más suaves para limpiar con suavidad los biberones sin rayar
 - El mango ergonómico agradable de agarrar que integra un enjuaga-tetina más ancho para limpiar mejor las tetinas
+- Sus fibras anti-bacterias higiénicas (eficacia probada en laboratorio)
 
 [Aquí!!!](https://www.amazon.es/dp/B00JYEAV8Y/?tag=tolees-21)

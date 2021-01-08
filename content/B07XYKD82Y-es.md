@@ -25,8 +25,8 @@ Ahora mismo tienes [Gang Beasts](https://www.amazon.es/dp/B07XYKD82Y/?tag=tolees
 
 🔎:
 
-- Adaptez votre personnage et combattez avec des ennemis en ligne en mode mêlée
 - Combattez avec vos amis contre les gangs de beef city en mode jeu de gang
 - Il regarda avec horreur et amusement des gangs de bêtes séduisantes arracher leurs ennemis de façon permanente
+- Adaptez votre personnage et combattez avec des ennemis en ligne en mode mêlée
 
 [Visítala!!!](https://www.amazon.es/dp/B07XYKD82Y/?tag=tolees-21)
