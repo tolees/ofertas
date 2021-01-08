@@ -25,10 +25,10 @@ Tienes [Western Digital Azul SN550 1 TB NVMe SSD  Gen3 x4 PCIe  M.2 2280  3D NAN
 
 ℹ️:
 
-- Disfruta de vertiginosas velocidades de lectura secuenciales de hasta 2400.mb/s para mejorar tu productividad sin importar lo que estés haciendo o creando
-- Hardware escalable nvme, arquitectura acelerada para alto rendimiento y bajo consumo de energía
-- Crea potentes pc de formato pequeño con una ssd nvme m.2 2280 pcie gen3 x4 fina y de un solo lado
-- Controlador y firmware diseñados por western digital emparejados con nuestra última 3d nand para un rendimiento optimizado y uniforme
 - La tecnología nvme se está generalizando como una solución de almacenamiento rentable y potente que se suma a la fiabilidad de una ssd
+- Controlador y firmware diseñados por western digital emparejados con nuestra última 3d nand para un rendimiento optimizado y uniforme
+- Disfruta de vertiginosas velocidades de lectura secuenciales de hasta 2400.mb/s para mejorar tu productividad sin importar lo que estés haciendo o creando
+- Crea potentes pc de formato pequeño con una ssd nvme m.2 2280 pcie gen3 x4 fina y de un solo lado
+- Hardware escalable nvme, arquitectura acelerada para alto rendimiento y bajo consumo de energía
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07YFFX5MD/?tag=tolees-21)

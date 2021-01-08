@@ -25,9 +25,9 @@ Está [Parodontax Complete Protection - Extra Fresh - Pasta de Dientes con Flúo
 
 ℹ️:
 
+- Tubo
 - Pasta dentífrica fresca con flúor para unas encías sanas y unos dientes fuertes
 - Frescor intenso
-- Tubo
 - Cepíllese dos veces al día para una protección duradera
 - Ayuda a detener y prevenir el sangrado de encías; x4 veces más eficaz
 

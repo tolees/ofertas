@@ -25,8 +25,8 @@ Está [Liposan Essential Nourishment Loción Corporal - 6 gr](https://www.amazon
 
 ℹ️:
 
+- Marca: Liposan
 - Formato: Stick
 - Género: Unisex Adulto
-- Marca: Liposan
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00JNX3A66/?tag=tolees-21)

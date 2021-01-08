@@ -25,10 +25,10 @@ Tienes [Neutrogena Protector Labial Fórmula Noruega SPF 5  4 8 gr](https://www.
 
 ℹ️:
 
+- Éste contiene Cinamato, el cual actúa como filtro solar, Bisabolol, conocido por sus propiedades calmantes, Parafina y Aceite de Ricino, agentes calmantes, y Cera de abeja, que tiene propiedades cicatrizantes
 - Este bálsamo en barra ofrece excelentes resultados contra la sequedad y la formación de grietas en los labios
 - Es fácil tenerlo a la mano siempre, especialmente durante el verano o el invierno, las cuales son épocas en las que el sol y el frío hacen que estas zonas más sensibles sufran más
-- Este protector labial, comprobado clínicamente, puede utilizarse cuantas veces sean necesarias durante el día
-- Éste contiene Cinamato, el cual actúa como filtro solar, Bisabolol, conocido por sus propiedades calmantes, Parafina y Aceite de Ricino, agentes calmantes, y Cera de abeja, que tiene propiedades cicatrizantes
 - El Protector Labial SPF 5 de Neutrogena protege los labios del sol y gracias a que es incoloro, lo puede utilizar toda la familia
+- Este protector labial, comprobado clínicamente, puede utilizarse cuantas veces sean necesarias durante el día
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000VJXIVI/?tag=tolees-21)

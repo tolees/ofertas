@@ -25,10 +25,10 @@ Ahora mismo tienes [Teclado Gaming Keep Out F89CH - Retroiluminado en Verde  12 
 
 🔎:
 
-- 🎮Teclas retro iluminadas en un sólo color regulables en iluminación. Una combinación de teclas para modificar el nivel de iluminación (Fn + Scroll lock). Personaliza tu LED con el color de la marca Keep Out Gaming.
-- 🎮El F89CH tiene la función Gaming Mode, que permite la activación/ desactivación de las teclas de Windows. Y por supuesto, no nos olvidemos las 12 teclas de control multimedia y 5 teclas programables para crear macros mediante combinación de teclas.
 - 🎮Este teclado es una de las mejores elecciones para derribar a tu enemigo. Compite y juega a tus videojuegos favoritos teniendo la seguridad de un periférico consistente y que te da la oportunidad de múltiples opciones.
-- 🎮TU TECLADO PROFESIONAL DE DISEÑO EXCLUSIVO REALIZADO EN ESPAÑA. El F89CH es un teclado gaming profesional que no dejará indiferente a nadie puesto que sus prestaciones y diseño han sido meticulosamente cuidados para los gamers más exigentes. Este modelo utiliza un tipo de membrana con un especial diseño exclusivo realizado en España que proporciona una mínima sensación de cansancio y a su vez una mínima capacidad de tiempo de respuesta.
+- 🎮El F89CH tiene la función Gaming Mode, que permite la activación/ desactivación de las teclas de Windows. Y por supuesto, no nos olvidemos las 12 teclas de control multimedia y 5 teclas programables para crear macros mediante combinación de teclas.
 - 🎮Dispone de multitud de teclas con funciones multimedia. Las teclas del F89CH incluyen retroiluminación LED en un sólo color verde. A todo esto hay que sumarle sus 5 teclas adicionales macro programables mediante combinación de teclas de forma manual.
+- 🎮TU TECLADO PROFESIONAL DE DISEÑO EXCLUSIVO REALIZADO EN ESPAÑA. El F89CH es un teclado gaming profesional que no dejará indiferente a nadie puesto que sus prestaciones y diseño han sido meticulosamente cuidados para los gamers más exigentes. Este modelo utiliza un tipo de membrana con un especial diseño exclusivo realizado en España que proporciona una mínima sensación de cansancio y a su vez una mínima capacidad de tiempo de respuesta.
+- 🎮Teclas retro iluminadas en un sólo color regulables en iluminación. Una combinación de teclas para modificar el nivel de iluminación (Fn + Scroll lock). Personaliza tu LED con el color de la marca Keep Out Gaming.
 
 [Visítala!!!](https://www.amazon.es/dp/B00ZZ7SUWI/?tag=tolees-21)

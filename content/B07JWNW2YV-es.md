@@ -26,9 +26,9 @@ Ahora mismo tienes [Pantene Pro-V Superalimento Fuerza&Cuerpo  Mascarilla Capila
 🔎:
 
 - Cura intensiva para un pelo más fuerte
-- Mascarilla capilar para pelo dañado y frágil
 - Testada por el Swiss Vitamin Institute
 - Pelo un 100 % más fuerte en un solo uso (fortaleza contra los daños causados por el peinado)
 - Fortalece el pelo con el complejo Pro-V, antioxidantes y lípidos
+- Mascarilla capilar para pelo dañado y frágil
 
 [Visítala!!!](https://www.amazon.es/dp/B07JWNW2YV/?tag=tolees-21)

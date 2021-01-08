@@ -25,8 +25,8 @@ En este momento está [Nemesis Now B3704J7 House Targaryen Tankard Game of Thron
 
 🔎:
 
-- Tamaño: 14 cm.
 - Pintado a mano.
+- Tamaño: 14 cm.
 - Producto oficial de Juego de Tronos.
 - Diseño esculpido de la casa de los tronos muy detallado.
 

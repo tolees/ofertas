@@ -25,10 +25,10 @@ Tienes [Relaxdays 10016335 - Soporte de Regazo para Ordenador portátil  Color A
 
 🔎:
 
+- Dimensiones: aprox. 46 x 34 x 8 cm
 - Estable base para trabajar/ Comodidad y confort/ Con agarradera para llevar
-- Color:azul
 - Marca: Relaxdays
 - Soporte para ordenador portátil/ Mesa para ordenador/ regazo
-- Dimensiones: aprox. 46 x 34 x 8 cm
+- Color:azul
 
 [Comprar!!!](https://www.amazon.es/dp/B00BU3L39S/?tag=tolees-21)

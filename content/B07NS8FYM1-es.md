@@ -26,10 +26,10 @@ Está [Finish Powerball Quantum Ultimate  pastillas para el lavavajillas - 84 un
 ℹ️:
 
 - Finish es la marca recomendada por los principales fabricantes de lavavajillas
-- Tecnología termofórmica; polvo con alto poder desincrustante, gel con poder antigrasa y powerball para secar y maximizar el brillo de la vajilla
-- Ahorra agua con Finish, gracias a su alto poder de limpieza no necesitas prelavar los platos
-- Pastillas para el lavavajillas con poder quitagrasas y brillo superior
 - Sin envoltorio, con plástico biodegradable y 100% soluble en agua para un óptimo disolución en el lavaplatos
+- Pastillas para el lavavajillas con poder quitagrasas y brillo superior
+- Ahorra agua con Finish, gracias a su alto poder de limpieza no necesitas prelavar los platos
+- Tecnología termofórmica; polvo con alto poder desincrustante, gel con poder antigrasa y powerball para secar y maximizar el brillo de la vajilla
 - Con 16 power actions para proporcionar limpieza y brillo en tu vajilla
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07NS8FYM1/?tag=tolees-21)

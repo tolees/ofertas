@@ -26,9 +26,9 @@ Ahora mismo tienes [Samsung - Unidad de Almacenamiento portátil Portable SSD Az
 🔎:
 
 - Seguridad para sus datos: resiste caídas de hasta dos metros de altura y se puede cifrar mediante contraseña
-- Con USB 3.2 Gen.2 hasta 9,5 veces más rápido que los discos duros externos con velocidades de lectura/escritura de hasta 1050 MB/s y 1000 MB/s
-- Delgado y elegante: carcasa de aluminio compacta y de alta calidad, disponible en los colores rojo metálico, azul índigo o gris titanio
 - Los dos cables USB tipo C a C y tipo C a A incluidos permiten la conexión a PC, Mac, dispositivos Android, Smart TV y consolas de juegos
+- Con USB 3.2 Gen.2 hasta 9,5 veces más rápido que los discos duros externos con velocidades de lectura/escritura de hasta 1050 MB/s y 1000 MB/s
 - Memoria externa de alta velocidad en formato compacto de bolsillo y capacidad de hasta 2 TB
+- Delgado y elegante: carcasa de aluminio compacta y de alta calidad, disponible en los colores rojo metálico, azul índigo o gris titanio
 
 [Visítala!!!](https://www.amazon.es/dp/B087DF1L2J/?tag=tolees-21)
