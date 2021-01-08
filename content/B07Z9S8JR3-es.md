@@ -25,8 +25,8 @@ En este momento está [NICI Glubschis Peluche  45570 ](https://www.amazon.es/dp/
 
 🔎:
 
-- De alta calidad
 - Me encantan las varitas de pescado y a ti
+- De alta calidad
 - Producto de la marca NICI
 
 [Aquí!!!](https://www.amazon.es/dp/B07Z9S8JR3/?tag=tolees-21)

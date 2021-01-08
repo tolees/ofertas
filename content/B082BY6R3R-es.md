@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'LEVIS FOOTWEAR AND ACCESORIAS Hodges 2.0 con un 20.40 % de descuento'
-date: 2021-01-06 21:53:23
+title: 'LEVIS FOOTWEAR AND ACCESORIAS Hodges 2.0 con un 21.27 % de descuento'
+date: 2021-01-08 02:09:13
 image: 'https://m.media-amazon.com/images/I/41Y1FHXQ01L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B082BY6R3R-es'
-actualPrice: 42.33 EUR
+actualPrice: 41.87 EUR
 currency: EUR
-price: 42.33
+price: 41.87
 comparePrice: 53.18 EUR
 prodname: 'LEVIS FOOTWEAR AND ACCESORIAS Hodges 2.0 - Zapatillas para hombre  amarillo  41'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B082BY6R3R/?tag=tolees-21'
-descuento: '20.40'
-average: '47.39'
+descuento: '21.27'
+average: '46.01'
 ---
 
-En este momento está [LEVIS FOOTWEAR AND ACCESORIAS Hodges 2.0 - Zapatillas para hombre  amarillo  41](https://www.amazon.es/dp/B082BY6R3R/?tag=tolees-21) a 42.33 EUR (original: 53.18 EUR) (20.40 %  de descuento) en el siguiente enlace!
+En este momento está [LEVIS FOOTWEAR AND ACCESORIAS Hodges 2.0 - Zapatillas para hombre  amarillo  41](https://www.amazon.es/dp/B082BY6R3R/?tag=tolees-21) a 41.87 EUR (original: 53.18 EUR) (21.27 %  de descuento) en el siguiente enlace!
 
 [![LEVIS FOOTWEAR AND ACCESORIAS Hodges 2.0](https://m.media-amazon.com/images/I/41Y1FHXQ01L._SL200_.jpg)](https://www.amazon.es/dp/B082BY6R3R/?tag=tolees-21)
 

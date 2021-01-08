@@ -26,7 +26,7 @@ Está [Bollé Synergy - Casco  Unisex Adulto  Negro y Azul   58-61CM](https://ww
 ℹ️:
 
 - Estructura: Hybrid
-- Certificación: EN1077B
 - Ventilación ajustables
+- Certificación: EN1077B
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07F6ZSKCK/?tag=tolees-21)
