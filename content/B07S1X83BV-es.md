@@ -26,9 +26,9 @@ En este momento está [Festina Reloj Cronógrafo para Unisex Adultos de Cuarzo c
 🔎:
 
 - Resistente al agua: 10 bares (apto para natación, baño, buceo)
-- Mecanismo de cuarzo Festina fabricado en Suiza
 - Esfera azul claro, índice de líneas, manecillas plateadas, segundero naranja, indicador de fecha, tres esferas separadas, logotipo Festina
-- Correa: silicona azul claro con hebilla
 - Caja: acero inoxidable plateado, 45 mm de diámetro, taquímetro
+- Correa: silicona azul claro con hebilla
+- Mecanismo de cuarzo Festina fabricado en Suiza
 
 [Aquí!!!](https://www.amazon.es/dp/B07S1X83BV/?tag=tolees-21)
