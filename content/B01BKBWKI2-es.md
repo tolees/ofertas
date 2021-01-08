@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mattel Games Pedorretas  juegos de mesa  al 21.75 % de descuento'
-date: 2021-01-07 06:28:57
+date: 2021-01-08 06:46:52
 image: 'https://m.media-amazon.com/images/I/51FbS4-8f2L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01BKBWKI2/?tag=tolees-21'
 descuento: '21.75'
-average: '17.837887323943658'
+average: '17.842054794520543'
 ---
 
 Ahora mismo tienes [Mattel Games Pedorretas  juegos de mesa para niños  Mattel DRY35 ](https://www.amazon.es/dp/B01BKBWKI2/?tag=tolees-21) a 17.99 EUR (original: 22.99 EUR) (21.75 %  de descuento) en el siguiente enlace!
