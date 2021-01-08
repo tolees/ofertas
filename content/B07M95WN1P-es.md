@@ -25,10 +25,10 @@ Está [The North Face Millerton Chubasquero  Hombre  Negro  TNF Black/High Rise 
 
 ℹ️:
 
-- Corte estándar
-- Cordón regulable en el bajo para mejorar el ajuste
 - Exterior DryVent de dos capas, impermeable, transpirable y cortavientos con costuras selladas y forro de tafetán para mayor confort
 - Capucha fija y ajustable para mayor protección
 - Bolsillos cubiertos para las manos con cremallera de seguridad y detalle de malla
+- Corte estándar
+- Cordón regulable en el bajo para mejorar el ajuste
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07M95WN1P/?tag=tolees-21)

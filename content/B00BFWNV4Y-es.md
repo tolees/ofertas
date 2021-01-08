@@ -1,32 +1,32 @@
 ---
 layout: post
-title: 'Repsol 543050 Aceite DE Motor Elite Long al 21.03 % de rebaja'
-date: 2021-01-07 12:35:46
+title: 'Repsol 543050 Aceite DE Motor Elite Long al 21.05 % de rebaja'
+date: 2021-01-08 12:39:38
 image: 'https://m.media-amazon.com/images/I/41yjOwFm0ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B00BFWNV4Y-es'
-actualPrice: 29.22 EUR
+actualPrice: 29.21 EUR
 currency: EUR
-price: 29.22
+price: 29.21
 comparePrice: 37.0 EUR
 prodname: 'Repsol 543050 Aceite DE Motor Elite Long Life 50700/50400 5W30 5 litros  Multicolor  5 L'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00BFWNV4Y/?tag=tolees-21'
-descuento: '21.03'
-average: '28.495931558935354'
+descuento: '21.05'
+average: '28.501320754716975'
 ---
 
-Tienes [Repsol 543050 Aceite DE Motor Elite Long Life 50700/50400 5W30 5 litros  Multicolor  5 L](https://www.amazon.es/dp/B00BFWNV4Y/?tag=tolees-21) con precio final de  29.22 EUR (original: 37.0 EUR) (21.03 %  de rebaja) aqui!
+Tienes [Repsol 543050 Aceite DE Motor Elite Long Life 50700/50400 5W30 5 litros  Multicolor  5 L](https://www.amazon.es/dp/B00BFWNV4Y/?tag=tolees-21) con precio final de  29.21 EUR (original: 37.0 EUR) (21.05 %  de rebaja) aqui!
 
 [![Repsol 543050 Aceite DE Motor Elite Long](https://m.media-amazon.com/images/I/41yjOwFm0ML._SL200_.jpg)](https://www.amazon.es/dp/B00BFWNV4Y/?tag=tolees-21)
 
 🔎:
 
-- 5l
 - Sus propiedades como lubricante de larga duración (Long Life) favorecen la reducción del consumo de combustible y de lubricante, y en consecuencia el de las emisiones contaminantes
 - Aceite lubricante sintético desarrollado para cumplir las exigencias de los más modernos motores de gasolina y diésel del grupo VW-Audi-Seat-Skoda
+- 5l
 
 [Comprar!!!](https://www.amazon.es/dp/B00BFWNV4Y/?tag=tolees-21)

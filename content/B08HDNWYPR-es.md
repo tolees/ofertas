@@ -25,10 +25,10 @@ En este momento está [Gigi-ST - Negro  41EU - Botín para Mujer Hecho en Serraj
 
 🔎:
 
+- Suela flexible
 - Botín deportivo
+- Hecho en España
 - Producto artesanal
 - Botín calcetín
-- Suela flexible
-- Hecho en España
 
 [Aquí!!!](https://www.amazon.es/dp/B08HDNWYPR/?tag=tolees-21)

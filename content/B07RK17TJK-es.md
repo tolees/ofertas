@@ -25,7 +25,7 @@ Ahora mismo tienes [Tamashii Nations Gundam Universe Xxxg-01D Gundam Deathscythe
 
 🔎:
 
-- Figura articulada de 16 cm
 - ¡celebra el 40 aniversario de la licencia más popular!
+- Figura articulada de 16 cm
 
 [Visítala!!!](https://www.amazon.es/dp/B07RK17TJK/?tag=tolees-21)

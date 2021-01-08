@@ -25,7 +25,7 @@ Tienes [Converse Chuck Taylor CTAS Lift Ox Canvas  Zapatillas Mujer  Blanco Whit
 
 ℹ️:
 
-- Suela de goma resistente
 - Típica puntera de goma
+- Suela de goma resistente
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B073C6G5QC/?tag=tolees-21)

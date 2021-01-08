@@ -25,8 +25,8 @@ Tienes [Puyo Puyo Tetris 2](https://www.amazon.es/dp/B08HZSQS25/?tag=tolees-21) 
 
 ℹ️:
 
-- La Batalla de Dotes presenta habilidades basadas en personajes que pueden cambiar rápidamente las tornas en una partida, más cartas de artículos para potenciar a tu equipo
 - Personajes vibrantes y una historia de aventuras añaden dimensión al adictivo juego de rompecabezas árcade
+- La Batalla de Dotes presenta habilidades basadas en personajes que pueden cambiar rápidamente las tornas en una partida, más cartas de artículos para potenciar a tu equipo
 - El modo en línea mejorado ofrece competición en ligas específicas del juego y modo libre para hasta 4 jugadores
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08HZSQS25/?tag=tolees-21)

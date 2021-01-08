@@ -25,9 +25,9 @@ Tienes [Lacoste L1212 Camiseta Polo  Azul  Ibiza   M para Hombre](https://www.am
 
 🔎:
 
+- Bajo recto con aberturas laterales
 - Cocodrilo bordado en el pecho
 - Cuello y bordes de las mangas acanalados
 - Botones de nácar
-- Bajo recto con aberturas laterales
 
 [Comprar!!!](https://www.amazon.es/dp/B077SVCZB4/?tag=tolees-21)

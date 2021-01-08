@@ -25,9 +25,9 @@ Tienes [HIPO y Astrid con Bebé Dragón](https://www.amazon.es/dp/B07JMD4H5R/?ta
 
 ℹ️:
 
-- Desarrolla la imaginación y la creatividad
-- Incluye bebé dragón, fogata, cubo, 2 jarras, peces y espina de pez
 - Contiene 21 piezas
 - Juego individual o en grupo
+- Incluye bebé dragón, fogata, cubo, 2 jarras, peces y espina de pez
+- Desarrolla la imaginación y la creatividad
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JMD4H5R/?tag=tolees-21)

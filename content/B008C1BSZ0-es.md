@@ -25,11 +25,11 @@ Tienes [Trust Tytan 2.1 GXT 38 - Altavoz PC Gaming 60W RMS  Rojo/Negro](https://
 
 ℹ️:
 
-- Juego de altavoces 2.1 con altavoz de subgraves en madera y una potencia total de salida RMS de 60 Vatios (máx. potencia: 120 vatios)
 - 4-en-1: Compatible con PC, Wii, Sony PlayStation 3 y Xbox 360
+- Juego de altavoces 2.1 con altavoz de subgraves en madera y una potencia total de salida RMS de 60 Vatios (máx. potencia: 120 vatios)
 - Botones para controlar el volumen y los sonidos graves en el lateral
 - Inteligente administración de la alimentación: se establece en reposo si no está en uso
-- Cómodo mando cableado para un fácil control del volumen con auriculares y conectores para iPod/mp3
 - Sonido de gran calidad con subgraves más profundos
+- Cómodo mando cableado para un fácil control del volumen con auriculares y conectores para iPod/mp3
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B008C1BSZ0/?tag=tolees-21)

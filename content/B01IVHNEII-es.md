@@ -26,8 +26,8 @@ Está [Lagarto Amoniaco  Compuesto  Multicolor  31x10x10 cm](https://www.amazon.
 ℹ️:
 
 - 33 cm alto
-- Dimensiones: 31x10x10 cm
-- Peso: 1.5 litros
 - Uso general
+- Peso: 1.5 litros
+- Dimensiones: 31x10x10 cm
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01IVHNEII/?tag=tolees-21)

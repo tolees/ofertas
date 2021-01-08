@@ -27,8 +27,8 @@ Ahora mismo tienes [Ferplast Caseta de Exterior  Caseta para Perros DOGVILLA 70 
 
 - Caseta de exterior realizada en robusta resina termoplástica, material resistente a los golpes y a los rayos UV; dotada de una pared lateral abatible que se convierte en una plataforma y asegura más espacio al animal
 - Fácil mantenimiento gracias al techo desmontable; accesorios aconsejados que se puede adquirir por separado: cojín Jolly, puerta de plástico atóxico, kit de paneles aislantes
-- Fondo con sistema de drenaje interno de líquidos; la caseta está dotada de rejilla para la ventilación interna que asegura la correcta ventilación y un ambiente siempre seco para el perro
 - Entrada revestida con un perfil de aluminio resistente a las mordeduras; gracias a su diseño constructivo, Dogvilla se monta rápidamente sin tener que usar herramientas especiales
+- Fondo con sistema de drenaje interno de líquidos; la caseta está dotada de rejilla para la ventilación interna que asegura la correcta ventilación y un ambiente siempre seco para el perro
 - Modelo aconsejado para un perro de talla pequeña, dimensiones totales: 73 x 59 x 53 cm, dimensiones internas: 62 x 43 x h 45 cm, dimensiones de la puerta: 20 x 30 cm, abertura lateral: 34 x 34 cm
 
 [Visítala!!!](https://www.amazon.es/dp/B007RXSMCQ/?tag=tolees-21)

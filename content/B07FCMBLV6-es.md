@@ -25,11 +25,11 @@ Está [SanDisk Extreme - Tarjeta de memoria microSDXC de 64 GB con adaptador SD
 
 ℹ️:
 
+- Categoría A2 para una carga y un rendimiento de la aplicación más rápidos
 - Compatibilidad: Compatible con dispositivos que admiten microSDHC, microSDXC, microSDHC UHS-I y microSDXC UHS-I
 - Ideal para smartphones y tabletas Android, cámaras de acción y drones
 - Compatibilidad 4K UHD con UHS Speed Class 3 (U3) y Video Speed Class 30 (V30)
 - Hasta 160 MB/s de velocidad de lectura y 60 MB/s de velocidad de escritura para disparar y transferir rápido
 - Fabricadas para ser usadas en condiciones difíciles y sometidas a ensayos en dichas condiciones, resistentes a temperatura, agua, golpes y rayos X
-- Categoría A2 para una carga y un rendimiento de la aplicación más rápidos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FCMBLV6/?tag=tolees-21)

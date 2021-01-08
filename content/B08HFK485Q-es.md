@@ -26,9 +26,9 @@ Tienes [Gigi-AX - Taupe  37EU - Botín para Mujer Hecho en Serraje y Tejido acr�
 ℹ️:
 
 - Botín calcetín
-- Suela flexible
-- Hecho en España
-- Botín deportivo
 - Producto artesanal
+- Hecho en España
+- Suela flexible
+- Botín deportivo
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08HFK485Q/?tag=tolees-21)

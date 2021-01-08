@@ -25,10 +25,10 @@ En este momento está [EBL Pilas Recargables AA Ni-MH Arco Iris Batería Recarga
 
 🔎:
 
+- Ciclos de carga y descarga de hasta 1200 veces, conserva la capacidad del 80% después de 3 años.
+- Las pilas son muy adecuado para los equipos domésticos como la cámara digital, el juguete, el control remoto, el juego de la máquina portátil, radios de 2 vías, PDAs, linternas, despertadores, Reloj, LCD-TV, cepillos de dientes, máquinas de afeitar y reproductores de audio portátiles.
 - Pilas: 10 piezas de pilas recargables AA, con una capacidad de 2500 mAh, tensión eléctrica de 1,2 V. También incluye una caja de la pila, protege tu pilas que evita daños.
 - Todas EBL pilas recargables son precargadas, puedes ser utilizado inmediatamente al recibir tu paquete. Las pilas recargables Ni-MH sin efecto memoria, puedes estar listas para usar.
-- Ciclos de carga y descarga de hasta 1200 veces, conserva la capacidad del 80% después de 3 años.
 - Embalaje exterior de diez colores diferentes, es un diseño único. Pila muestra la cáscara de colores para que tenga un estado de ánimo arco iris. Disfrutar de su vida colorida!
-- Las pilas son muy adecuado para los equipos domésticos como la cámara digital, el juguete, el control remoto, el juego de la máquina portátil, radios de 2 vías, PDAs, linternas, despertadores, Reloj, LCD-TV, cepillos de dientes, máquinas de afeitar y reproductores de audio portátiles.
 
 [Aquí!!!](https://www.amazon.es/dp/B088ZXMJCR/?tag=tolees-21)
