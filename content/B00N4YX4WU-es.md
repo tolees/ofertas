@@ -25,9 +25,9 @@ Tienes [Compactor Armario De Tela con Cremallera Chic](https://www.amazon.es/dp/
 
 🔎:
 
-- Funda lavable
-- Estructura metálica y funda exterior color beige
 - Diseño moderno
+- Estructura metálica y funda exterior color beige
+- Funda lavable
 - Fácil montaje
 
 [Comprar!!!](https://www.amazon.es/dp/B00N4YX4WU/?tag=tolees-21)

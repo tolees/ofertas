@@ -26,10 +26,10 @@ Tienes [Bosch Professional 2607017319 Set de 32 Unidades para atornillar  0 W  0
 ℹ️:
 
 - Con los accesorios más habituales para los trabajos de atornillado: puntas Philips (PH1; PH2; PH2; PH3); Pozidrive (PZ1; PZ2; PZ2; PZ3); Hexagonales (HEX 3; HEX 4; HEX 5; HEX 6); Torx (T10; T15; T20; T20; T25; T27; T30; T40)
-- Atractiva y compacta caja de almacenamiento que permite visualizar el contenido y proporciona un almacenamiento y transporte seguros
 - Completo set con 32 accesorios para atornillar, recomendado para trabajos universales de atornillado
-- Torx Tamper de seguridad para aparatos eléctricos o electrónicos (Th10, Th15, Th20, Th25, Th27, Th30, Th40) y portapuntas universal de cambio rápido
 - Práctico clip para ajustar el set al cinturón y tenerlo siempre a mano
+- Torx Tamper de seguridad para aparatos eléctricos o electrónicos (Th10, Th15, Th20, Th25, Th27, Th30, Th40) y portapuntas universal de cambio rápido
+- Atractiva y compacta caja de almacenamiento que permite visualizar el contenido y proporciona un almacenamiento y transporte seguros
 - Incluye puntas Torx Tamper de seguridad para aparatos eléctricos o electrónicos
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00IM7BIY0/?tag=tolees-21)
