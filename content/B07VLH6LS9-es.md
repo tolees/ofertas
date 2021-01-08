@@ -26,9 +26,9 @@ Tienes [Educa- Catarata en El Bosque Puzle  1 000 Piezas  Multicolor  18461 ](ht
 🔎:
 
 - Serie Genuine
-- Número de piezas: 1.000, medida aproximada una vez montado: 68 x 48
 - Edad recomendada: a partir de 12 años
-- Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
+- Número de piezas: 1.000, medida aproximada una vez montado: 68 x 48
 - Alta calidad de materiales y encaje óptimo de las piezas; producto respetuoso con el medioambiente
+- Incluye la cola especial FIX PUZZLE para poder colgar el puzzle una vez finalizado el montaje
 
 [Comprar!!!](https://www.amazon.es/dp/B07VLH6LS9/?tag=tolees-21)

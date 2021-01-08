@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Alpha 6400 - Cámara evil APS-C con  con un 21.18 % de descuento'
-date: 2021-01-02 16:00:27
+date: 2021-01-08 09:21:26
 image: 'https://m.media-amazon.com/images/I/41CcStyy0cL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07MW8GTYD/?tag=tolees-21'
 descuento: '21.18'
-average: '1213.1246666666666'
+average: '1204.87'
 ---
 
 En este momento está [Sony Alpha 6400 - Cámara evil APS-C con objetivo zoom Sony 18-135mm f/3.5-5.6  Enfoque automático rápido 0.02s  24.2 Megapíxeles  grabación de vídeos en 4K y pantalla inclinable para Vlogging ](https://www.amazon.es/dp/B07MW8GTYD/?tag=tolees-21) a 1142.96 EUR (original: 1450.0 EUR) (21.18 %  de descuento) en el siguiente enlace!
@@ -25,10 +25,10 @@ En este momento está [Sony Alpha 6400 - Cámara evil APS-C con objetivo zoom So
 
 🔎:
 
+- ÓPTIMO PARA: principiantes y usuarios que desean un objetivo compacto con más zoom para viajes
 - ENFOQUE AUTOMÁTICO RÁPIDO Y PRECISO: con AF de 0.02s, seguimiento en tiempo real y Eye AF (personas/animales) para mantener a tu sujeto nítido en cualquier situación
 - CAPTURA ÁNGULOS CREATIVOS: encuadra fácilmente tu sujeto al capturar desde ángulos elevados o bajos gracias al monitor táctil inclinable
-- ÓPTIMO PARA: principiantes y usuarios que desean un objetivo compacto con más zoom para viajes
-- NO TE PIERDAS EL MOMENTO: hasta 11 fps con AF
 - ADECUADA PARA VIDEÓGRAFOS: grabación de vídeos en alta resolución 4K HDR y función de cámara lenta Full HD (120p) con enfoque automático
+- NO TE PIERDAS EL MOMENTO: hasta 11 fps con AF
 
 [Aquí!!!](https://www.amazon.es/dp/B07MW8GTYD/?tag=tolees-21)

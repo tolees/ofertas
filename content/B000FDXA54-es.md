@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rubies ST-882848 M - Disfraz de Darth Va al 16.67 % de rebaja'
-date: 2021-01-05 16:50:10
+date: 2021-01-08 09:57:15
 image: 'https://m.media-amazon.com/images/I/41HPNDSh4lL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000FDXA54/?tag=tolees-21'
 descuento: '16.67'
-average: '24.884999999999998'
+average: '24.891999999999996'
 ---
 
 Tienes [Rubies ST-882848 M - Disfraz de Darth Vader para niños   M](https://www.amazon.es/dp/B000FDXA54/?tag=tolees-21) con precio final de  24.99 EUR (original: 29.99 EUR) (16.67 %  de rebaja) aqui!
@@ -26,7 +26,7 @@ Tienes [Rubies ST-882848 M - Disfraz de Darth Vader para niños   M](https://www
 🔎:
 
 - Producto con licencia oficial de Star Wars
-- Talla: M, 5-7 años, longitud 132 cm, cintura 72 cm
 - Incluye mono con cubrebotas, cinturón, capa y máscara
+- Talla: M, 5-7 años, longitud 132 cm, cintura 72 cm
 
 [Comprar!!!](https://www.amazon.es/dp/B000FDXA54/?tag=tolees-21)

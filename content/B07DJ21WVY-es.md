@@ -1,28 +1,37 @@
 ---
 layout: post
-title: 'New Balance 247v1  Zapatillas Hombre  Az al 36.25 % de descuento'
-date: 2020-11-28 21:48:44
+title: 'New Balance 247v1  Zapatillas Hombre  Az al 43.43 % de descuento'
+date: 2021-01-08 09:25:39
 image: 'https://m.media-amazon.com/images/I/41rBk6FvrzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ21WVY-es'
-actualPrice: 51.0 EUR
+actualPrice: 45.26 EUR
 currency: EUR
-price: 51.0
+price: 45.26
 comparePrice: 80.0 EUR
 prodname: 'New Balance 247v1  Zapatillas Hombre  Azul  Outerspace/Silver Oh   37 EU'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ21WVY/?tag=tolees-21'
-descuento: '36.25'
+descuento: '43.43'
+average: '45.021428571428565'
 ---
 
-Está [New Balance 247v1  Zapatillas Hombre  Azul  Outerspace/Silver Oh   37 EU](https://www.amazon.es/dp/B07DJ21WVY/?tag=tolees-21) con 36.25 de descuento por 51.0 EUR (original: 80.0 EUR) en el siguiente enlace!
+Está [New Balance 247v1  Zapatillas Hombre  Azul  Outerspace/Silver Oh   37 EU](https://www.amazon.es/dp/B07DJ21WVY/?tag=tolees-21) con 43.43 de descuento por 45.26 EUR (original: 80.0 EUR) en el siguiente enlace!
 
 [![New Balance 247v1  Zapatillas Hombre  Az](https://m.media-amazon.com/images/I/41rBk6FvrzL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ21WVY/?tag=tolees-21)
 
 ℹ️:
 
+- Material exterior: Cuero sintético
+- Cierre: Cordones
+- Composición: Pala técnica de punto / sintética
+- Altura del tacón: 3 centímetros
+- Anchura del zapato: Normal
+- Tipo de tacón: Plano
+- Material de la suela: Sintético
+- Revestimiento: Sintético
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJ21WVY/?tag=tolees-21)

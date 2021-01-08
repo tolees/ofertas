@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Diablo III - Eternal Collection al 33.49 % de descuento'
-date: 2021-01-05 11:21:30
+date: 2021-01-08 09:12:56
 image: 'https://m.media-amazon.com/images/I/51T8wJVoAYL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07GS1RYP6/?tag=tolees-21'
 descuento: '33.49'
-average: '36.112833333333334'
+average: '36.235'
 ---
 
 Está [Diablo III - Eternal Collection](https://www.amazon.es/dp/B07GS1RYP6/?tag=tolees-21) con 33.49 de descuento por 39.9 EUR (original: 59.99 EUR) en el siguiente enlace!
@@ -25,8 +25,8 @@ Está [Diablo III - Eternal Collection](https://www.amazon.es/dp/B07GS1RYP6/?tag
 
 ℹ️:
 
-- Puedes jugar con un máximo de 4 amigos en línea, en cooperativa local, sin conexión o en la misma consola en modo cooperativa sofá.
 - Incluye bonificaciones cosméticas exclusivas para switch, como el intimidante conjunto de armadura para transfigurar creado especialmente para el rey de la maldad, ganondorf.
 - Es compatible con todas las configuraciones del mando switch, y se puede jugar con un solo joy-con o con los dos.
+- Puedes jugar con un máximo de 4 amigos en línea, en cooperativa local, sin conexión o en la misma consola en modo cooperativa sofá.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07GS1RYP6/?tag=tolees-21)

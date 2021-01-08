@@ -25,10 +25,10 @@ En este momento está [Canon PowerShot G5 X - Cámara compacta de 20.2 MP  Panta
 
 🔎:
 
-- Herramientas profesionales para potenciar tu estilo creativo
 - Crea vídeos atractivos en calidad Full HD
-- Calidad de imagen premium con el manejo clásico de las cámaras réflex digitales
-- Expresa tu creatividad con velocidad y control de experto
 - Comparte tus imágenes con todo el mundo, instantáneamente
+- Expresa tu creatividad con velocidad y control de experto
+- Calidad de imagen premium con el manejo clásico de las cámaras réflex digitales
+- Herramientas profesionales para potenciar tu estilo creativo
 
 [Aquí!!!](https://www.amazon.es/dp/B016MN3HXA/?tag=tolees-21)

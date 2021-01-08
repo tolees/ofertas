@@ -27,8 +27,8 @@ Tienes [TP-Link TL-SG1005D - Gigabit Switch de Red con 5 Puertos  10/100/1000Mbp
 
 - La tecnología green ethernet ahorra energía hasta un 80 por ciento
 - Plug and play, no requiere configuración
-- Interruptor de red pequeño y silencioso con diseño sin ventilador para un funcionamiento silencioso
 - El control de flujo IEEE 8023 x proporciona una transferencia de datos confiable
 - Switch gigabit de 5 puertos, RJ45 de negociación automática gigabit de 10/100/1000 Mbps óptimamente expanden la capacidad de la red
+- Interruptor de red pequeño y silencioso con diseño sin ventilador para un funcionamiento silencioso
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00YMTNVEM/?tag=tolees-21)

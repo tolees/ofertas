@@ -25,9 +25,9 @@ Tienes [Philips HP8232/00 DryCare Advanced - Secador ThermoProtect Ionic con Ion
 
 🔎:
 
-- Cuenta con ajuste de temperatura ThermoProtect
-- Chorro de aire frío que fija el peinado
 - Cable de alimentación de 1.8 m
+- Cuenta con ajuste de temperatura ThermoProtect
 - Dimensiones del producto: 10 x 22 x 31 cm
+- Chorro de aire frío que fija el peinado
 
 [Comprar!!!](https://www.amazon.es/dp/B00BCQIK4O/?tag=tolees-21)
