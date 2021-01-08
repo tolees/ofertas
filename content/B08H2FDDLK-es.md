@@ -25,10 +25,10 @@ Ahora mismo tienes [Calendario de pared - 2021 sueños por cumplir y 365 días p
 
 🔎:
 
-- Cordón para colgar tipo PU
 - Un calendario diferente con colgador de madera
+- Cordón para colgar tipo PU
 - Incluye 6 hojas con pegatinas Mr. Wonderful
-- Con hojas troqueladas en forma de punta y con punteado para poder arrancar cada mes.
 - Papel offset 300 gr
+- Con hojas troqueladas en forma de punta y con punteado para poder arrancar cada mes.
 
 [Visítala!!!](https://www.amazon.es/dp/B08H2FDDLK/?tag=tolees-21)

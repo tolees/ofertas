@@ -25,9 +25,9 @@ Tienes [adidas CORE18 TR PNT Pantalones de Deporte  Hombre  Negro  M](https://ww
 
 🔎:
 
-- Cremalleras en el tobillo para mayor comodidad
-- La tecnología climacool te mantiene fresco y seco en climas cálidos
-- Cordón en cintura elástica
 - Bolsillos delanteros
+- La tecnología climacool te mantiene fresco y seco en climas cálidos
+- Cremalleras en el tobillo para mayor comodidad
+- Cordón en cintura elástica
 
 [Comprar!!!](https://www.amazon.es/dp/B076HQX9HD/?tag=tolees-21)

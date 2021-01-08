@@ -25,8 +25,8 @@ Ahora mismo tienes [BOSS Mix & Match Pants Pantalones  Gris  Medium Grey 033   4
 
 🔎:
 
-- Presentan cordón en la cintura
-- Pantalones con puños
 - Con bolsillos laterales
+- Pantalones con puños
+- Presentan cordón en la cintura
 
 [Visítala!!!](https://www.amazon.es/dp/B072N4ZV7Q/?tag=tolees-21)
