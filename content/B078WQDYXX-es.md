@@ -25,8 +25,8 @@ En este momento está [FILA Disruptor  Zapatillas Mujer  Blanco  White   41 EU](
 
 🔎:
 
-- White
 - imitation leather
 - adulto
+- White
 
 [Aquí!!!](https://www.amazon.es/dp/B078WQDYXX/?tag=tolees-21)

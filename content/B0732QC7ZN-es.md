@@ -25,10 +25,10 @@ Ahora mismo tienes [Juego de Cubiertos Acero Inoxidable para Trabajo Camping Aca
 
 🔎:
 
-- Estos cubiertos son de acero inoxidable, con estuche de neopreno. Es muy fácil de llevar. Ideal para la oficina, camping, escuela, picnic, festivales y viajes.
-- 【Nota】No compre el producto de este vendedor: Rogekkouk, no podemos garantizar la calidad de los productos que vende.
-- Son un poco más pequeños que los cubiertos normales, pero el propósito es para el diseño portátil.
-- A partir de 2019.1.13, nuestros cubiertos se han actualizado de 5 a 6 piezas. Este juego de cubiertos es la versión actualizada que es más grueso y más duro, y la cuchara grande no será plana.
 - Tamaño: Tenedor - 6.69 ", cuchara - 6.69" y 5.27 , cuchillo - 9.1 ", tenedor de frutas- 5.19 ",abridor - 0.47 .
+- Son un poco más pequeños que los cubiertos normales, pero el propósito es para el diseño portátil.
+- 【Nota】No compre el producto de este vendedor: Rogekkouk, no podemos garantizar la calidad de los productos que vende.
+- Estos cubiertos son de acero inoxidable, con estuche de neopreno. Es muy fácil de llevar. Ideal para la oficina, camping, escuela, picnic, festivales y viajes.
+- A partir de 2019.1.13, nuestros cubiertos se han actualizado de 5 a 6 piezas. Este juego de cubiertos es la versión actualizada que es más grueso y más duro, y la cuchara grande no será plana.
 
 [Visítala!!!](https://www.amazon.es/dp/B0732QC7ZN/?tag=tolees-21)

@@ -26,9 +26,9 @@ Está [Intel NUC BLKNUC7I3DNK2E- Ordenador Mini PC  Intel Core i3-7100U  Espacio
 ℹ️:
 
 - Memoria interna máxima de 32 GB
-- Tecnología de virtualización Intel para E / S dirigida (VT-d)
 - Procesador Intel Core i3
-- Tipos de memoria compatibles DDR4-SDRAM
 - Tipo de ranuras de memoria SO-DIMM
+- Tipos de memoria compatibles DDR4-SDRAM
+- Tecnología de virtualización Intel para E / S dirigida (VT-d)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0767CKXP6/?tag=tolees-21)

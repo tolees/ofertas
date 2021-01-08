@@ -26,9 +26,9 @@ Ahora mismo tienes [Lacoste Reloj Analógico para Mujer de Cuarzo con Correa en 
 🔎:
 
 - Grosor de la caja de 6,20mm
+- Esfera plateada con motivo \"clous de Paris\"
+- Dos manecillas
 - Correa de piel azul
 - 3 ATM de resistencia al agua
-- Dos manecillas
-- Esfera plateada con motivo \"clous de Paris\"
 
 [Visítala!!!](https://www.amazon.es/dp/B07ND99MK7/?tag=tolees-21)

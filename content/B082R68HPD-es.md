@@ -25,9 +25,9 @@ En este momento está [Nike Quest 3  Running Shoe Hombre  Black/University Gold-
 
 🔎:
 
-- Suave de Llevar
+- El material superior hecho de malla
 - Cordones de Zapatos
 - Diseño funcional
-- El material superior hecho de malla
+- Suave de Llevar
 
 [Aquí!!!](https://www.amazon.es/dp/B082R68HPD/?tag=tolees-21)

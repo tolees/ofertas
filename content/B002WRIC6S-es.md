@@ -25,9 +25,9 @@ Está [Bosch 2 609 256 746 - Juego de hojas de sierra de calar de 10 piezas vás
 
 ℹ️:
 
-- Corte rápido
-- Adecuado para sierras de calar
 - Duraderos y robustos
+- Corte rápido
 - De madera y metal
+- Adecuado para sierras de calar
 
 [Ver la oferta!!](https://www.amazon.es/dp/B002WRIC6S/?tag=tolees-21)

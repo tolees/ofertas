@@ -25,9 +25,9 @@ Ahora mismo tienes [Colgate Niños 3-5 años anticaries  Pasta de Dientes infant
 
 🔎:
 
-- Diseñada para dientes de leche y encías delicadas
-- Aliento más fresco entre los cepillados con sabor a fruta
 - No contiene ingredientes artificiales (no sabores, no edulcorantes, no colorantes)
 - Proporciona protección contra la caries y fortalece el esmalte más delicado de los dientes de los más pequeños
+- Aliento más fresco entre los cepillados con sabor a fruta
+- Diseñada para dientes de leche y encías delicadas
 
 [Visítala!!!](https://www.amazon.es/dp/B08FBT4G2T/?tag=tolees-21)

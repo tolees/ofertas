@@ -26,8 +26,8 @@ Está [Revlon Professional UniqOne Classic Tratamiento en Spray para Cabello 150
 ℹ️:
 
 - Efecto desenredante
-- Brillo y control del encrespado
-- Facilita el peinado y el uso de la plancha
 - Repara el cabello seco y dañado
+- Facilita el peinado y el uso de la plancha
+- Brillo y control del encrespado
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00M9B66BU/?tag=tolees-21)

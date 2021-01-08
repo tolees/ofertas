@@ -25,9 +25,9 @@ Tienes [Far Cry 3 - Classic Edition](https://www.amazon.es/dp/B07F3X4S4V/?tag=to
 
 🔎:
 
-- Combate en islas, ciudades, templos, playas de arena blanca, cadenas montañosas, etc
-- Gráficos y jugabilidad actualizados con un detalle impresionante
 - Elenco de personajes diverso y realista, incluido uno de los villanos más notorios: Vaas Montenegro
+- Combate en islas, ciudades, templos, playas de arena blanca, cadenas montañosas, etc
 - Un arsenal de armas / explosivos para derribar a los adversarios con tu espada o snipe
+- Gráficos y jugabilidad actualizados con un detalle impresionante
 
 [Comprar!!!](https://www.amazon.es/dp/B07F3X4S4V/?tag=tolees-21)

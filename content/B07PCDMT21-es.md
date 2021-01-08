@@ -25,10 +25,10 @@ Está [Funko- Pop Bobble: Marvel: Venom S2-Daredevil Figura coleccionable  Multi
 
 ℹ️:
 
-- Venom daredevil
 - De la colección venom, daredevil como figura de vinilo pop de funko
+- Venom daredevil
+- Funko pop! bobble
 - Descúbre otras figuras de la colección disney marvel y colecciónalas todas!
 - Disney marvel
-- Funko pop! bobble
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07PCDMT21/?tag=tolees-21)

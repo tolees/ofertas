@@ -26,9 +26,9 @@ En este momento está [KARACTERMANIA Dragon Ball Supersayan - Mochila 3D  Peque�
 🔎:
 
 - Forro interior
+- Dimensiones: 31 x 27 x 11cm
 - Mochila preescolar con relieve frontal
 - 2 bolsillos laterales de malla
 - Compartimento principal con cremallera
-- Dimensiones: 31 x 27 x 11cm
 
 [Aquí!!!](https://www.amazon.es/dp/B08LPTGX3B/?tag=tolees-21)

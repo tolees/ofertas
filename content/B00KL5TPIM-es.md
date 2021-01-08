@@ -25,7 +25,7 @@ Tienes [Far Cry 4](https://www.amazon.es/dp/B00KL5TPIM/?tag=tolees-21) con un 66
 
 ℹ️:
 
-- PEGI 18
 - Idioma: Español
+- PEGI 18
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00KL5TPIM/?tag=tolees-21)

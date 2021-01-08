@@ -25,8 +25,8 @@ Tienes [G-STAR RAW Roxic Tapered Cargo Pantalones  Azul  Mazarine Blue 4893-4213
 
 ℹ️:
 
-- Cierre de botones y cremallera
 - Logotipo de G-Star RAW en el bolsillo para monedas y etiqueta tejida en el bajo
+- Cierre de botones y cremallera
 - Talle medio
 - Bajo ajustable con cinta
 - Cierre de botones y cremallera
