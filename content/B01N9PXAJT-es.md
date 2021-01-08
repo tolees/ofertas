@@ -25,10 +25,10 @@ Tienes [Canon PowerShot SX430 IS - Cámara compacta de 20 MP  Pantalla de 3    Z
 
 🔎:
 
-- Capta todos los bellos detalles fácilmente con esta versátil cámara mini "bridge" fácil de llevar, con un zoom 45x
 - Fácil de llevar y cómoda de usar, es la compañera perfecta en ocasiones especiales
-- Compartir tus momentos con amigos o utilizar tu dispositivo inteligente como un mando es fácil con la aplicación Canon Connect
+- Capta todos los bellos detalles fácilmente con esta versátil cámara mini "bridge" fácil de llevar, con un zoom 45x
 - Ahora es fácil disparar y compartir excelentes fotos y vídeos con Smart Auto, conectividad sencilla con smartphones y divertidos modos creativos
+- Compartir tus momentos con amigos o utilizar tu dispositivo inteligente como un mando es fácil con la aplicación Canon Connect
 - GPS a través del móvil
 
 [Comprar!!!](https://www.amazon.es/dp/B01N9PXAJT/?tag=tolees-21)

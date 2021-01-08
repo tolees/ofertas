@@ -26,9 +26,9 @@ En este momento está [Sony Alpha 6400 - Cámara evil APS-C con objetivo zoom So
 🔎:
 
 - ÓPTIMO PARA: principiantes y usuarios que desean un objetivo compacto con más zoom para viajes
+- NO TE PIERDAS EL MOMENTO: hasta 11 fps con AF
+- ADECUADA PARA VIDEÓGRAFOS: grabación de vídeos en alta resolución 4K HDR y función de cámara lenta Full HD (120p) con enfoque automático
 - ENFOQUE AUTOMÁTICO RÁPIDO Y PRECISO: con AF de 0.02s, seguimiento en tiempo real y Eye AF (personas/animales) para mantener a tu sujeto nítido en cualquier situación
 - CAPTURA ÁNGULOS CREATIVOS: encuadra fácilmente tu sujeto al capturar desde ángulos elevados o bajos gracias al monitor táctil inclinable
-- ADECUADA PARA VIDEÓGRAFOS: grabación de vídeos en alta resolución 4K HDR y función de cámara lenta Full HD (120p) con enfoque automático
-- NO TE PIERDAS EL MOMENTO: hasta 11 fps con AF
 
 [Aquí!!!](https://www.amazon.es/dp/B07MW8GTYD/?tag=tolees-21)

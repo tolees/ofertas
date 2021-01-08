@@ -25,8 +25,8 @@ En este momento está [BLACK+DECKER - Taladro atornillador 18V](https://www.amaz
 
 🔎:
 
+- Drill and driver blackdecker aku bdcdd18n-xj
 - Color: Naranja
 - Resistente y con diseño funcional
-- Drill and driver blackdecker aku bdcdd18n-xj
 
 [Aquí!!!](https://www.amazon.es/dp/B0142TNEJ8/?tag=tolees-21)

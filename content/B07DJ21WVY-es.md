@@ -25,13 +25,13 @@ Está [New Balance 247v1  Zapatillas Hombre  Azul  Outerspace/Silver Oh   37 EU]
 
 ℹ️:
 
-- Material exterior: Cuero sintético
-- Cierre: Cordones
-- Composición: Pala técnica de punto / sintética
 - Altura del tacón: 3 centímetros
-- Anchura del zapato: Normal
+- Composición: Pala técnica de punto / sintética
 - Tipo de tacón: Plano
-- Material de la suela: Sintético
+- Cierre: Cordones
 - Revestimiento: Sintético
+- Material exterior: Cuero sintético
+- Anchura del zapato: Normal
+- Material de la suela: Sintético
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJ21WVY/?tag=tolees-21)

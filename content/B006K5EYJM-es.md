@@ -26,8 +26,8 @@ Tienes [Bulldog Ginebra  40° - 70 cl](https://www.amazon.es/dp/B006K5EYJM/?tag=
 ℹ️:
 
 - Aroma de enebro de pino con lavanda floral
+- Apariencia de cristal claro
 - Sabor agradablemente seco pero suave con enebro leñoso de pino justo al frente
 - El regusto de elementos botánicos bien equilibrados le da carácter
-- Apariencia de cristal claro
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B006K5EYJM/?tag=tolees-21)
