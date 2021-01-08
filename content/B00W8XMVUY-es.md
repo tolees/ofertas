@@ -26,7 +26,7 @@ En este momento está [Stanley Juego de llaves de vaso 75 piezas 1/4 y 1/2” ac
 🔎:
 
 - Estuche duradero con inserción de stanley amarilla - estuche rígido para contener y proteger
-- Acabado negro pulido con marcado láser para mayor visibilidad
 - Juego de llaves hexagonales
+- Acabado negro pulido con marcado láser para mayor visibilidad
 
 [Aquí!!!](https://www.amazon.es/dp/B00W8XMVUY/?tag=tolees-21)

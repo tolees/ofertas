@@ -26,8 +26,8 @@ Tienes [1971 Project Helios - Collector Edition](https://www.amazon.es/dp/B084TF
 ℹ️:
 
 - Caja de Cartón Premium
-- Pegatina Fulgor
 - 4 postales de personaje
 - Banda sonora digital
+- Pegatina Fulgor
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B084TF4X5M/?tag=tolees-21)

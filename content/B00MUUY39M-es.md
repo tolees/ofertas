@@ -25,8 +25,8 @@ Tienes [California Exotic Novelties - Dildos con arnés](https://www.amazon.es/d
 
 🔎:
 
+- Juguetes eróticos calexotics
+- Juguetes eróticos calexotics
 - Packing penis - pene realístico 14,5cm marrón (59142)
-- Juguetes eróticos calexotics
-- Juguetes eróticos calexotics
 
 [Comprar!!!](https://www.amazon.es/dp/B00MUUY39M/?tag=tolees-21)

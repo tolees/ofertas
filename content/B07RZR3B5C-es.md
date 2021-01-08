@@ -25,7 +25,7 @@ Tienes [Jack & Jones Jjesoft Sweat Hood Noos Capucha  Gris  Light Grey Melange F
 
 ℹ️:
 
-- Sweat hoodie
 - Hoodie made of soft cotton
+- Sweat hoodie
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07RZR3B5C/?tag=tolees-21)

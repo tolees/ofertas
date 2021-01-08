@@ -25,11 +25,11 @@ En este momento está [Pikolin Home - Edredón/Relleno nórdico hipoalergénico 
 
 🔎:
 
-- Para habitaciones con todo tipo de temperaturas - Cuatro estaciones, compuesto por dos rellenos unidos mediante botones
-- Hipoalergénico -la microfibra ayuda a disminuir los síntomas de alergia
-- Este relleno nórdico es totalmente transpirable
-- Con tratamiento Aloe Vera para que las personas de piel sensible puedan usarlo con y sin funda
 - Ecolofil Feather Touch; fibras que aportan un tacto semejante a la pluma, congran capacidad de recuperación y fácil mantenimiento
+- Hipoalergénico -la microfibra ayuda a disminuir los síntomas de alergia
 - Fácil mantenimiento: lavable en lavadora y secable en secadora a temperatura baja
+- Con tratamiento Aloe Vera para que las personas de piel sensible puedan usarlo con y sin funda
+- Este relleno nórdico es totalmente transpirable
+- Para habitaciones con todo tipo de temperaturas - Cuatro estaciones, compuesto por dos rellenos unidos mediante botones
 
 [Aquí!!!](https://www.amazon.es/dp/B00PY9CE88/?tag=tolees-21)

@@ -25,8 +25,8 @@ Está [Skechers Ultra Flex 2.0-Delightful SPO   Zapatillas Mujer  Bkpk Black Hea
 
 ℹ️:
 
+- Espuma viscoelástica refrigerada por aire
 - Bio-Dry
 - Lavable a máquina
-- Espuma viscoelástica refrigerada por aire
 
 [Ver la oferta!!](https://www.amazon.es/dp/B082N51DYV/?tag=tolees-21)
