@@ -25,8 +25,8 @@ En este momento está [Under Armour Rush Heatgear Compression SL Tanque  Hombre 
 
 🔎:
 
-- Con tecnología Celliant
 - Paneles de malla para ofrecer una ventilación estratégica
 - A medida que tu cuerpo desprende energía, el tejido con minerales incorporados la absorbe y la devuelve de nuevo para mejorar la resistencia
+- Con tecnología Celliant
 
 [Aquí!!!](https://www.amazon.es/dp/B07NTWP3JS/?tag=tolees-21)

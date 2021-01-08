@@ -25,10 +25,10 @@ Tienes [EBL iQuick Cargador para Pilas de Litio 18650 26650 14450 y Ni-MH Ni-CD 
 
 ℹ️:
 
+- El uso en todo el mundo. Inteligente LED para mostrar el progreso de carga, cuando 3 luz LED de iluminación en conjunto significa que la bateria esta completamente cargada.
+- Portátil y viajes permitido debido al apoyo del cargador DC cualquier ocasión permitido como el uso en el coche así sucesivamente
 - La tecnología de carga rápida de la inteligente, Mejorada la velocidad de carga de hasta 500mA, carga las baterías con eficacia, ahorra su tiempo.(SÓLO Cargador, NO batería incluida)
 - Ampliamente compatible para 1 o 2 pilas recargables: 18650, 26650, 22650, 17670, 17550, 16340 (RCR123), 18490, 18350, 14500, 10440 Li-ion cilíndrico y AA, AAA, C Ni-MH Ni-CD baterías.
-- Portátil y viajes permitido debido al apoyo del cargador DC cualquier ocasión permitido como el uso en el coche así sucesivamente
-- El uso en todo el mundo. Inteligente LED para mostrar el progreso de carga, cuando 3 luz LED de iluminación en conjunto significa que la bateria esta completamente cargada.
 - El cargador equipado con un avanzado extras función de seguridad, y controlada por la tecnología de MCU, auto-deja a la carga cuando la batería está completamente cargada, la doble protección.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01CZN5WFC/?tag=tolees-21)

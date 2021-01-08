@@ -25,10 +25,10 @@ En este momento está [TEXFIRE - Manta de soldadura ignífuga Weld S1  protecci�
 
 🔎:
 
-- Tiene que utilizarse por la cara recubierta con silicona para alta temperatura de color negra. Este recubrimiento especial evita que los pequeños impactos de partículas incandescentes derivados de la soldadura, penetren en la manta.
 - Incorpora un ojal metálico en cada esquina para que la manta se pueda colgar y su perímetro está rematado con un Bies de color negro.
+- Tiene que utilizarse por la cara recubierta con silicona para alta temperatura de color negra. Este recubrimiento especial evita que los pequeños impactos de partículas incandescentes derivados de la soldadura, penetren en la manta.
 - Esta manta ha sido testada para soportar impactos de elementos incandescentes de hasta 550ºC. Ideal para soldadura ligera y esmerilado.
-- Cumple con las siguientes normativas europeas EN ISO 9185: Resistencia de los materiales textiles a las salpicaduras de metal fundido. EN ISO 11611: Tejidos de protección para soldadura y técnicas conexas.
 - Es impermeable al agua y a los ácidos.
+- Cumple con las siguientes normativas europeas EN ISO 9185: Resistencia de los materiales textiles a las salpicaduras de metal fundido. EN ISO 11611: Tejidos de protección para soldadura y técnicas conexas.
 
 [Aquí!!!](https://www.amazon.es/dp/B07CN7CQT3/?tag=tolees-21)

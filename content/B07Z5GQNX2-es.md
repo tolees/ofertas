@@ -25,7 +25,7 @@ Ahora mismo tienes [Salomon XA COLLIDER GTX W  Zapatillas de Trail Running Mujer
 
 🔎:
 
-- Xa collider GTX W Lunar Rock/Brick Dust/Alloy
 - Número: 44
+- Xa collider GTX W Lunar Rock/Brick Dust/Alloy
 
 [Visítala!!!](https://www.amazon.es/dp/B07Z5GQNX2/?tag=tolees-21)

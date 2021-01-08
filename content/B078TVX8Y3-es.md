@@ -25,9 +25,9 @@ En este momento está [Thule EnRoute - Mochila de 14L  Color Negro](https://www.
 
 🔎:
 
-- Espacio para portátil y tablet
 - Alta resistencia al paso del tiempo
-- Cremalleras duraderas
 - Materiales de calidad
+- Espacio para portátil y tablet
+- Cremalleras duraderas
 
 [Aquí!!!](https://www.amazon.es/dp/B078TVX8Y3/?tag=tolees-21)
