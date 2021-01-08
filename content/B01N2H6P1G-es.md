@@ -25,9 +25,9 @@ Está [Hellmann s Salsa Brava Bocabajo - Pack de 8 x 250 ml  Total: 2000 ml ](ht
 
 ℹ️:
 
-- Su válvula limpia ha sido diseñada para conservar la textura y el sabor
-- La salsa es para las patatas
 - Formato fácil de usar
 - El paquete incluye 8 unidades
+- Su válvula limpia ha sido diseñada para conservar la textura y el sabor
+- La salsa es para las patatas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01N2H6P1G/?tag=tolees-21)

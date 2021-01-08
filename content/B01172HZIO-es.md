@@ -25,10 +25,10 @@ Ahora mismo tienes [De longhi RADIA S Radiador con Comfort-Temp  7 Elementos  Bl
 
 🔎:
 
-- Comfort Temp para un confort ideal simplemente apretando un botón
-- Tecnología Real Energy que aumenta la efectividad
-- Batería patentada 35% más grande que en modelos tradicionales que mejora la distribución del calor
 - Ruedas pre-ensambladas
+- Batería patentada 35% más grande que en modelos tradicionales que mejora la distribución del calor
+- Tecnología Real Energy que aumenta la efectividad
+- Comfort Temp para un confort ideal simplemente apretando un botón
 - Termostato de seguridad
 
 [Visítala!!!](https://www.amazon.es/dp/B01172HZIO/?tag=tolees-21)

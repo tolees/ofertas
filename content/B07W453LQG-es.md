@@ -25,11 +25,11 @@ En este momento está [Johnnie Walker Song of Ice Whisky Escocés  Edición limi
 
 🔎:
 
-- Una edición limitada para regalar y coleccionar
 - Los azules y grises del diseño de la botella evocan el Norte helado de la serie. Johnnie Walker Song of Ice se disfruta mejor combinado con limonada refrigerada
-- Esta mezcla tiene un sabor refrescante y limpio, inspirado en el implacable territorio de Invernalia y en el hielo que da forma a las montañas y detiene los ríos
-- Contenido del envío: 1x Johnnie Walker – Song of Ice – Whisky edición limitada Game of Thrones / Casa Stark / 40.2% Vol. / 700 ml
 - Johnnie Walker Song of Ice es uno de los dos innovadores whiskies inspirados en las Casas que se enfrentan a la última temporada de Juego de Tronos: la Casa Stark y la Casa Targaryen
+- Contenido del envío: 1x Johnnie Walker – Song of Ice – Whisky edición limitada Game of Thrones / Casa Stark / 40.2% Vol. / 700 ml
+- Esta mezcla tiene un sabor refrescante y limpio, inspirado en el implacable territorio de Invernalia y en el hielo que da forma a las montañas y detiene los ríos
 - La edición especial Johnny Walker Song of Ice y Song of Fire es perfecta para los amantes del whisky y fanáticos de la serie
+- Una edición limitada para regalar y coleccionar
 
 [Aquí!!!](https://www.amazon.es/dp/B07W453LQG/?tag=tolees-21)

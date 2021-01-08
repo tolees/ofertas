@@ -25,13 +25,13 @@ Tienes [Steiner Navigator Pro 7x50 prismáticos marinos con brújula - brújula 
 
 ℹ️:
 
-- ESPECIFICACIONES TÉCNICAS - Aumento 7x, diámetro objetivo de 50 mm, campo de visión a 1000 m: > 123 m
-- HIGH-CONTRAST-OPTICS - Las ópticas High-Contrast de STEINER proporcionan una imagen brillante y clara, con color exacto y una gran nitidez de contorno para un rendimiento excepcional.
-- BRÚJULA EXTREMADAMENTE PRECISA - La brújula más precisa de su clase, con amortiguación por fluidos y con absorción de impactos, iluminación y marca de rumbo. El campo de visión no se ve afectado por la marca integrada.
-- CLICLOC - El sistema con cinta de agarre ClicLoc se puede enganchar y desenganchar de la cinta para el cuello fácilmente y mantiene los prismáticos rectos y listos para la acción.
-- SPORTS-AUTO-FOCUS - Se adapta perfectamente para su uso en el agua mediante el sistema Sport-Auto-Focus que le permite enfocar cada lente de forma individual. Le ofrecerá una imagen nítida desde 20 m hasta el infinito, por lo que no tendrá que preocuparse más por enfocar objetivos en movimiento. Imágenes en 3D y aumento 7x con una imagen amplia y estable para realizar el seguimiento de barcos, boyas y números de puentes, incluso con fuerte oleaje.
-- ROBUSTEZ LEGENDARIA - Gracias a la carcasa duradera de Makrolon hecha de policarbonato que puede soportar golpes de hasta 11G, rodamiento de prisma flotante con silicona flexible para absorción de impactos, resistencia a la presión del agua de hasta 5 m, llenado de presión de nitrógeno para evitar el empañamiento en el interior, rango de temperatura de –20 °C a +60 °C.
 - SISTEMA LLENADO A PRESICIÓN DE NITRÓGENO - Gracias a esta solución patentada de alta tecnología, los prismáticos no se empañarán ni se formará condensación en su interior. Las variaciones de temperatura entre -40 °C y +80 °C tampoco afectan la funcionalidad de los prismáticos STEINER. Mediante la tecnología de válvulas de dos vías, podrá realizar el mantenimiento de los prismáticos en cualquier momento, incluso después de muchos años.
+- CLICLOC - El sistema con cinta de agarre ClicLoc se puede enganchar y desenganchar de la cinta para el cuello fácilmente y mantiene los prismáticos rectos y listos para la acción.
+- ESPECIFICACIONES TÉCNICAS - Aumento 7x, diámetro objetivo de 50 mm, campo de visión a 1000 m: > 123 m
+- ROBUSTEZ LEGENDARIA - Gracias a la carcasa duradera de Makrolon hecha de policarbonato que puede soportar golpes de hasta 11G, rodamiento de prisma flotante con silicona flexible para absorción de impactos, resistencia a la presión del agua de hasta 5 m, llenado de presión de nitrógeno para evitar el empañamiento en el interior, rango de temperatura de –20 °C a +60 °C.
+- HIGH-CONTRAST-OPTICS - Las ópticas High-Contrast de STEINER proporcionan una imagen brillante y clara, con color exacto y una gran nitidez de contorno para un rendimiento excepcional.
 - ACCESORIOS ADICIONALES - Con carcasa, cinta de transporte de neopreno ClicLoc para un uso de los botones más sencillo, funda de protección para la lluvia y protección para los objetivos.
+- SPORTS-AUTO-FOCUS - Se adapta perfectamente para su uso en el agua mediante el sistema Sport-Auto-Focus que le permite enfocar cada lente de forma individual. Le ofrecerá una imagen nítida desde 20 m hasta el infinito, por lo que no tendrá que preocuparse más por enfocar objetivos en movimiento. Imágenes en 3D y aumento 7x con una imagen amplia y estable para realizar el seguimiento de barcos, boyas y números de puentes, incluso con fuerte oleaje.
+- BRÚJULA EXTREMADAMENTE PRECISA - La brújula más precisa de su clase, con amortiguación por fluidos y con absorción de impactos, iluminación y marca de rumbo. El campo de visión no se ve afectado por la marca integrada.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00IWZK5XC/?tag=tolees-21)

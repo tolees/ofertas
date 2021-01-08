@@ -27,8 +27,8 @@ Tienes [Luminarc HERMETICO RECT 122CL Pure Box Active Lum  Transparente y Azul  
 
 - Con válvula de vapor
 - Recipiente hermético, apilable
-- Recipiente para transportar alimentos
-- Paquete: 1 Pieza
 - Resistente choque térmico
+- Paquete: 1 Pieza
+- Recipiente para transportar alimentos
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00JLRHNKS/?tag=tolees-21)
