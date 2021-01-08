@@ -25,9 +25,9 @@ Está [Einhell TC-TW 100 - Carro porta herramientas](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- Cuatro cajones con Interlock y un compartimento para máquinas.
+- Exactamente, allí donde se necesita: con cuatro ruedas giratorias, dos frenos y un manillar.
 - Una tirada Felpudo con rodadura para herramientas y delicados filigrana Material.
 - La Einhell carro de TC de TW 100 es un socio sólido, para mantener en el taller la revista y crear orden.
-- Exactamente, allí donde se necesita: con cuatro ruedas giratorias, dos frenos y un manillar.
+- Cuatro cajones con Interlock y un compartimento para máquinas.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01JGHLNKS/?tag=tolees-21)

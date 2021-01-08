@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BLACK+DECKER BDCD8-QW - Taladro atornill al 23.52 % de descuento'
-date: 2021-01-05 19:28:03
+date: 2021-01-08 20:53:19
 image: 'https://m.media-amazon.com/images/I/4149GLSGIkL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B016XLYKMS/?tag=tolees-21'
 descuento: '23.52'
-average: '37.13461538461539'
+average: '37.27666666666667'
 ---
 
 Está [BLACK+DECKER BDCD8-QW - Taladro atornillador sin cable 7.2V con batería de litio](https://www.amazon.es/dp/B016XLYKMS/?tag=tolees-21) con 23.52 de descuento por 38.2 EUR (original: 49.95 EUR) en el siguiente enlace!
@@ -25,8 +25,8 @@ Está [BLACK+DECKER BDCD8-QW - Taladro atornillador sin cable 7.2V con batería 
 
 ℹ️:
 
-- Se puede usar en áreas de difícil acceso gracias a su tamaño compacto
 - Es adecuado para perforar, atornillar, montar muebles, colgar cuadros, estanterías, cortinas
+- Se puede usar en áreas de difícil acceso gracias a su tamaño compacto
 - Dispone de cargador con adaptador micro USB y luz LED para indicar el estado de carga
 - Para las tareas de atornillado se puede usar la función reversible
 

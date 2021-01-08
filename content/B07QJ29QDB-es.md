@@ -25,9 +25,9 @@ Tienes [Funko Pop! Figura De Vinil Disney: Holiday - Minnie  Multicolor  Estánd
 
 🔎:
 
-- El producto se envía en una caja ilustrada con ventana
-- Recomendado para niños a partir de 3 años
 - Figura de colección de la marca Funko
 - El artículo es adecuado para todos los fanáticos de Minnie Mouse
+- El producto se envía en una caja ilustrada con ventana
+- Recomendado para niños a partir de 3 años
 
 [Comprar!!!](https://www.amazon.es/dp/B07QJ29QDB/?tag=tolees-21)
