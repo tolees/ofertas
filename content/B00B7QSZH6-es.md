@@ -25,9 +25,9 @@ Está [FIMO 8020-386 ST Pasta de modelar  Translúcidoperla Azul](https://www.am
 
 ℹ️:
 
-- Pasta de modelar de secado al horno
 - Fácil de mezclar
-- Cinco efectos diferentes para aplicaciones y técnicas especiales
 - Pastillas pre-divididas en 8 porciones para facilitar el corte
+- Pasta de modelar de secado al horno
+- Cinco efectos diferentes para aplicaciones y técnicas especiales
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00B7QSZH6/?tag=tolees-21)

@@ -26,8 +26,8 @@ Está [BLACK+DECKER BDCD8-QW - Taladro atornillador sin cable 7.2V con batería 
 ℹ️:
 
 - Para las tareas de atornillado se puede usar la función reversible
-- Dispone de cargador con adaptador micro USB y luz LED para indicar el estado de carga
-- Se puede usar en áreas de difícil acceso gracias a su tamaño compacto
 - Es adecuado para perforar, atornillar, montar muebles, colgar cuadros, estanterías, cortinas
+- Se puede usar en áreas de difícil acceso gracias a su tamaño compacto
+- Dispone de cargador con adaptador micro USB y luz LED para indicar el estado de carga
 
 [Ver la oferta!!](https://www.amazon.es/dp/B016XLYKMS/?tag=tolees-21)

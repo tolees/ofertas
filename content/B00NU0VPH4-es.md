@@ -25,10 +25,10 @@ Tienes [Lotus Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero 18155/
 
 🔎:
 
-- Cristal mineral endurecido y correa de piel con hebilla
-- Resistente al agua hasta 50 metros
-- Incluye una caja de regalo
-- Caja redonda chapada en acero inoxidable de color plateado
 - Visualización analógica, calendario con día y fecha
+- Incluye una caja de regalo
+- Resistente al agua hasta 50 metros
+- Caja redonda chapada en acero inoxidable de color plateado
+- Cristal mineral endurecido y correa de piel con hebilla
 
 [Comprar!!!](https://www.amazon.es/dp/B00NU0VPH4/?tag=tolees-21)

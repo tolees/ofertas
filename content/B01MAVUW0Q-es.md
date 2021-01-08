@@ -25,10 +25,10 @@ Tienes [One For All SV9495  Antena de TV para Interior Amplificada  Recibe TDT e
 
 ℹ️:
 
-- CONTROL DE GANANCIA AUTOMÁTICO-  Saca lo mejor de tu antena con el control de ganancia automático, que garantiza la señal correcta en todo momento.
-- RADIO DE RECEPCIÓN 0-25 KMS - Para un mejor funcionamiento, se recomienda usar esta antena One for All a un radio no superior a 25 Km del transmisor más cercano.
-- FÁCIL INSTALACIÓN- Gracias su Indicador de Nivel de Señal patentado, esta antena muestra la fuerza de la señal en cada momento.
-- FILTRO 4G- Disfruta de una recepción de la señal clara y sin interferencias con esta antena One for All, gracias a su único filtro 4G que protege de todas las señales de teléfono móvil 4G y asegura la mejor recepción posible.
 - RECIBE TDT - Con esta antena One for All tienes acceso a la TDT, por lo que puedes disfrutar de más de 32 canales de televisión digitales y hasta 9 canales en HD.
+- RADIO DE RECEPCIÓN 0-25 KMS - Para un mejor funcionamiento, se recomienda usar esta antena One for All a un radio no superior a 25 Km del transmisor más cercano.
+- FILTRO 4G- Disfruta de una recepción de la señal clara y sin interferencias con esta antena One for All, gracias a su único filtro 4G que protege de todas las señales de teléfono móvil 4G y asegura la mejor recepción posible.
+- FÁCIL INSTALACIÓN- Gracias su Indicador de Nivel de Señal patentado, esta antena muestra la fuerza de la señal en cada momento.
+- CONTROL DE GANANCIA AUTOMÁTICO-  Saca lo mejor de tu antena con el control de ganancia automático, que garantiza la señal correcta en todo momento.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01MAVUW0Q/?tag=tolees-21)

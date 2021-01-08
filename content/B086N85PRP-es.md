@@ -26,11 +26,11 @@ Tienes [Marca Amazon - Happy Belly - Surtido de regaliz inglés  3x500g](https:/
 ℹ️:
 
 - Un surtido de regaliz delicado y sutil, dulces de coco y caramelos de goma redondos decorados con cubiertas azucaradas
-- Una lujosa mezcla de dulces de anís, limón, frambuesa, vainilla y naranja hechos con delicioso coco
 - Este envase contiene 20 porciones
+- Fabricado en el Reino Unido
+- Con aromas naturales
+- Una lujosa mezcla de dulces de anís, limón, frambuesa, vainilla y naranja hechos con delicioso coco
 - Paquete de 3
 - No recomendado para niños menores de 36 meses
-- Con aromas naturales
-- Fabricado en el Reino Unido
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B086N85PRP/?tag=tolees-21)
