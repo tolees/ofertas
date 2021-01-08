@@ -25,9 +25,9 @@ Ahora mismo tienes [Versace 19v69 Sabana Ajustable y Funda Almohada Cama  Algod�
 
 🔎:
 
-- En color oro
-- Para cama de 90 cm
 - Sabana bajera ajustable, sabana, funda almohada
 - Marca del producto: Versace 19v69
+- Para cama de 90 cm
+- En color oro
 
 [Visítala!!!](https://www.amazon.es/dp/B0787LJCMQ/?tag=tolees-21)

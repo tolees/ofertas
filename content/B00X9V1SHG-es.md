@@ -25,9 +25,9 @@ Está [Somat Abrillantador Aditivo Lavavajillas - 0.5 L](https://www.amazon.es/d
 
 ℹ️:
 
-- Extra secado, especialmente en plásticos.
-- Previene marcas de agua.
 - Ayuda a un secado más rápido de tu vajilla y cristalería.
+- Previene marcas de agua.
+- Extra secado, especialmente en plásticos.
 - Garantiza un brillo radiante de la cristalería y vajilla.
 - Protege contra la cal.
 

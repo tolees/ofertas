@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko- Keychain Pocket Pop Fortnite Zoey al 73.48 % de descuento'
-date: 2021-01-06 20:12:46
+date: 2021-01-08 01:15:53
 image: 'https://m.media-amazon.com/images/I/51nwI-YGpUL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L74Y7VS/?tag=tolees-21'
 descuento: '73.48'
-average: '2.9933333333333336'
+average: '2.7920000000000003'
 ---
 
 Ahora mismo tienes [Funko- Keychain Pocket Pop Fortnite Zoey Figura  Multicolor  36973 ](https://www.amazon.es/dp/B07L74Y7VS/?tag=tolees-21) a 2.49 EUR (original: 9.39 EUR) (73.48 %  de descuento) en el siguiente enlace!

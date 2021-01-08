@@ -25,11 +25,11 @@ Tienes [Gafas de seguridad Bollé Safety SILPSI "Silium" con lentes transparente
 
 ℹ️:
 
-- Brazos altamente flexibles
 - Patillas antideslizantes para la punta de la punta
-- Cómodo de usar y diseño liviano
-- Almohadillas ajustables antideslizantes para la nariz
+- Brazos altamente flexibles
 - Resistencia mínima garantizada de las gafas protectoras contra los riesgos cotidianos, incluida la caída de las gafas protectoras en el suelo, el envejecimiento por exposición a la luz, la exposición al calor o la corrosión, etc.
+- Almohadillas ajustables antideslizantes para la nariz
+- Cómodo de usar y diseño liviano
 - Bollé Safety revoluciona la protección ocular con una innovación que cumple con todos los estándares internacionales
 - Marco sutil y liviano con naturaleza de metal de alta tecnología
 

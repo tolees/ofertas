@@ -25,10 +25,10 @@ Está [Lámpara Escritorio LED TaoTronics Flexo Escritorio 12W Regulable  Cuidad
 
 ℹ️:
 
-- 7 niveles y 5 modos: control táctil libre, 7 niveles de brillo con 5 modos de temperatura del color, de blanco frío/ natural/ cálido, en total le ofrece 35 opciones
-- Bajo consumo y servicio excelete: consume un 75% menos de energía que la iluminación incandescente para el mismo nivel de brillo; taotronics le ofrecemos un servicio post-venta de por vida
+- Función de carga: puerto de usb de 5v/ 1a para cargar sus móviles, tabletas, ect, siempre mantenga los dispositivos a su alcance
 - Ángulo ajustable y material resistente: brazo y cabeza giratorios verticalmente y horizontalmente, hecho de aluminio aleado y plástico resistente
 - Cuidado especial a los ojos: lámpara escritorio de led, con luz natural, silencioso y uniforme, sin parpadeo, sin radiación de rayo ultravioleta, perfecta para leer, estudiar y trabajar, agradable para los ojos
-- Función de carga: puerto de usb de 5v/ 1a para cargar sus móviles, tabletas, ect, siempre mantenga los dispositivos a su alcance
+- 7 niveles y 5 modos: control táctil libre, 7 niveles de brillo con 5 modos de temperatura del color, de blanco frío/ natural/ cálido, en total le ofrece 35 opciones
+- Bajo consumo y servicio excelete: consume un 75% menos de energía que la iluminación incandescente para el mismo nivel de brillo; taotronics le ofrecemos un servicio post-venta de por vida
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00VWLT1XI/?tag=tolees-21)

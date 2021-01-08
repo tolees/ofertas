@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Immortals Fenyx Rising SWITCH con un 46.09 % de descuento'
-date: 2021-01-07 00:46:52
+title: 'Immortals Fenyx Rising SWITCH con un 46.22 % de descuento'
+date: 2021-01-08 01:06:37
 image: 'https://m.media-amazon.com/images/I/51ytgAKP-qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07T4CTP3F-es'
-actualPrice: 34.99 EUR
+actualPrice: 34.9 EUR
 currency: EUR
-price: 34.99
+price: 34.9
 comparePrice: 64.9 EUR
 prodname: 'Immortals Fenyx Rising SWITCH'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07T4CTP3F/?tag=tolees-21'
-descuento: '46.09'
-average: '41.103703703703694'
+descuento: '46.22'
+average: '40.882142857142846'
 ---
 
-En este momento está [Immortals Fenyx Rising SWITCH](https://www.amazon.es/dp/B07T4CTP3F/?tag=tolees-21) a 34.99 EUR (original: 64.9 EUR) (46.09 %  de descuento) en el siguiente enlace!
+En este momento está [Immortals Fenyx Rising SWITCH](https://www.amazon.es/dp/B07T4CTP3F/?tag=tolees-21) a 34.9 EUR (original: 64.9 EUR) (46.22 %  de descuento) en el siguiente enlace!
 
 [![Immortals Fenyx Rising SWITCH](https://m.media-amazon.com/images/I/51ytgAKP-qL._SL200_.jpg)](https://www.amazon.es/dp/B07T4CTP3F/?tag=tolees-21)
 
