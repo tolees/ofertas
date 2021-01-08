@@ -25,9 +25,9 @@ En este momento está [Daniel Wellington Classic Cornwall  Reloj Negro/Oro Rosad
 
 🔎:
 
+- Longitud de la correa ajustable: (Min - Max) 150-200mm
+- Diseñadas Suecia, las piezas de Daniel Wellington presentan un estilo escandinavo minimalista y son el regalo o accesorio personal óptimo para cada ocasión
 - Tamaño de Esfera: 36 mm
 - Correa intercambiable
-- Diseñadas Suecia, las piezas de Daniel Wellington presentan un estilo escandinavo minimalista y son el regalo o accesorio personal óptimo para cada ocasión
-- Longitud de la correa ajustable: (Min - Max) 150-200mm
 
 [Aquí!!!](https://www.amazon.es/dp/B01LYFE93D/?tag=tolees-21)

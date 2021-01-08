@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Columbia Powder Lite Chaqueta para Hombr con un 31.43 % de descuento'
-date: 2020-12-27 13:51:31
+title: 'Columbia Powder Lite Chaqueta para Hombr con un 30.01 % de descuento'
+date: 2021-01-08 15:31:34
 image: 'https://m.media-amazon.com/images/I/41Wlgw5Aa9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B0814B8ZWF-es'
-actualPrice: 68.56 EUR
+actualPrice: 69.98 EUR
 currency: EUR
-price: 68.56
+price: 69.98
 comparePrice: 99.99 EUR
 prodname: 'Columbia Powder Lite Chaqueta para Hombre  Azul  Bright Indigo   S'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0814B8ZWF/?tag=tolees-21'
-descuento: '31.43'
-average: '68.56'
+descuento: '30.01'
+average: '69.27'
 ---
 
-En este momento está [Columbia Powder Lite Chaqueta para Hombre  Azul  Bright Indigo   S](https://www.amazon.es/dp/B0814B8ZWF/?tag=tolees-21) a 68.56 EUR (original: 99.99 EUR) (31.43 %  de descuento) en el siguiente enlace!
+En este momento está [Columbia Powder Lite Chaqueta para Hombre  Azul  Bright Indigo   S](https://www.amazon.es/dp/B0814B8ZWF/?tag=tolees-21) a 69.98 EUR (original: 99.99 EUR) (30.01 %  de descuento) en el siguiente enlace!
 
 [![Columbia Powder Lite Chaqueta para Hombr](https://m.media-amazon.com/images/I/41Wlgw5Aa9L._SL200_.jpg)](https://www.amazon.es/dp/B0814B8ZWF/?tag=tolees-21)
 

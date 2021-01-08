@@ -25,9 +25,9 @@ Está [Nestlé Naturnes Bio Nutri Puffs Snack De Cereales Con Frambuesa  A Parti
 
 ℹ️:
 
-- Comida para bebés
+- Naturnes Bio Nutri Puffs Snack de Cereales con Frambuesa
 - Nestlé es un nombre de marca reconocido
 - A partir de 8 meses
-- Naturnes Bio Nutri Puffs Snack de Cereales con Frambuesa
+- Comida para bebés
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08B6NMLMM/?tag=tolees-21)

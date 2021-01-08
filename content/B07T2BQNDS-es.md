@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amiibo - Solid Snake [Colección Super Sm al 16.76 % de descuento'
-date: 2021-01-06 23:26:29
+date: 2021-01-08 15:50:27
 image: 'https://m.media-amazon.com/images/I/41x9ZBcV5-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07T2BQNDS/?tag=tolees-21'
 descuento: '16.76'
-average: '14.866521739130436'
+average: '14.869200000000001'
 ---
 
 Ahora mismo tienes [Amiibo - Solid Snake [Colección Super Smash Bros]](https://www.amazon.es/dp/B07T2BQNDS/?tag=tolees-21) a 14.9 EUR (original: 17.9 EUR) (16.76 %  de descuento) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Heavy Rain con un 25.21 % de descuento'
-date: 2021-01-06 23:26:20
+date: 2021-01-08 15:50:06
 image: 'https://m.media-amazon.com/images/I/41uV6646ZrL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B082JQ8SMN/?tag=tolees-21'
 descuento: '25.21'
-average: '17.316'
+average: '17.10090909090909'
 ---
 
 En este momento está [Heavy Rain](https://www.amazon.es/dp/B082JQ8SMN/?tag=tolees-21) a 14.95 EUR (original: 19.99 EUR) (25.21 %  de descuento) en el siguiente enlace!

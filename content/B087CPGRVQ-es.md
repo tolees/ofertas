@@ -25,10 +25,10 @@ Ahora mismo tienes [K&F Concept Adaptador de Montaje de Lente  Lente M42 a Sony 
 
 🔎:
 
-- 【Aspecto de diseño exclusivo】Marca de K&F Concept, fabricado por un equipo profesional para los entusiastas de la fotografía, en la seguridad de la cámara / lente para formar una línea recta, poner estable, no es fácil de deslizar, más seguro.
 - 【ENFOQUE A INFINITO】No hay contactos eléctricos en el anillo del adaptador. La exposición y el enfoque tiene que ser ajustado manualmente. Y gracias al adaptador de ajuste preciso, el enfoque es posible hasta el infinito y le permite tomar imágenes nítidas de objetos distantes incluso al anochecer y de noche.
-- 【Compatible con la cámara SONY NEX】Este Convertidor Permite montar los Lentes M42 Series a la cámara SONY NEX cámara digital, por ejemplo: Sony Alpha NEX-7, NEX-6, NEX-5N, NEX-5, NEX-C3, NEX-3. Pero no compatible con la Sony A7S, a7II, A7S II y A7R II
-- 【Material actualizado】Transferencia perfecta con alta exactitud, y el cuerpo es consiste de la aleación de aluminio-cobre, el Objetivo con el material de cobre fino que no desgasta la lente, la mano de obra es muy refinada, muy durable.
 - 【Fácil instalación】Con el rojo punto, puedes alinear con precisión a la posición de cámara, desmontado y instalado son muy cómodos y suaves.
+- 【Material actualizado】Transferencia perfecta con alta exactitud, y el cuerpo es consiste de la aleación de aluminio-cobre, el Objetivo con el material de cobre fino que no desgasta la lente, la mano de obra es muy refinada, muy durable.
+- 【Aspecto de diseño exclusivo】Marca de K&F Concept, fabricado por un equipo profesional para los entusiastas de la fotografía, en la seguridad de la cámara / lente para formar una línea recta, poner estable, no es fácil de deslizar, más seguro.
+- 【Compatible con la cámara SONY NEX】Este Convertidor Permite montar los Lentes M42 Series a la cámara SONY NEX cámara digital, por ejemplo: Sony Alpha NEX-7, NEX-6, NEX-5N, NEX-5, NEX-C3, NEX-3. Pero no compatible con la Sony A7S, a7II, A7S II y A7R II
 
 [Visítala!!!](https://www.amazon.es/dp/B087CPGRVQ/?tag=tolees-21)

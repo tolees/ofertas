@@ -25,10 +25,10 @@ En este momento está [HOMCOM Puerta Corrediza de Vidrio Puerta Corredera Desliz
 
 🔎:
 
-- ✅Esta puerta de corredera cristal translúcido es ideal para su oficina o en casa y es muy practica - La puerta corredera permite que la luz entre en su habitación - Las ruedas con cojinetes de bolas recubiertas de goma garantizan el deslizamiento silencioso al abrir y cerrar la puerta
-- ✅Dimensiones totales: 200x213 cm (LxAl); Dimensiones de carril: 2000x105x44,8 mm (LxAlxAn); Dimensiones de puerta: 90x205 cm (LxAl);
 - ✅Las ruedas con cojinetes de bolas recubiertas de goma en el carro garantizan el deslizamiento silencioso al abrir y cerrar la puerta corrediza
-- ✅La puerta corredera permite que la luz entre en su habitacion y ahorra espacio -Vidrio de seguridad con fijacion de carril y con todas sus fijaciones
+- ✅Dimensiones totales: 200x213 cm (LxAl); Dimensiones de carril: 2000x105x44,8 mm (LxAlxAn); Dimensiones de puerta: 90x205 cm (LxAl);
 - ✅Incluye la guía, el tirador y los accesorios de montaje -Instrucciones de montaje -Consejos: Instale la puerta de vidrio para que el mango se fije bien.
+- ✅La puerta corredera permite que la luz entre en su habitacion y ahorra espacio -Vidrio de seguridad con fijacion de carril y con todas sus fijaciones
+- ✅Esta puerta de corredera cristal translúcido es ideal para su oficina o en casa y es muy practica - La puerta corredera permite que la luz entre en su habitación - Las ruedas con cojinetes de bolas recubiertas de goma garantizan el deslizamiento silencioso al abrir y cerrar la puerta
 
 [Aquí!!!](https://www.amazon.es/dp/B013PCBWI8/?tag=tolees-21)

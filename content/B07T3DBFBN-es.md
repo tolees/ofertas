@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amiibo - Ivysaur [Colección Super Smash  con un 16.76 % de descuento'
-date: 2021-01-06 23:25:51
+date: 2021-01-08 15:50:18
 image: 'https://m.media-amazon.com/images/I/41EQvaGaMqL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07T3DBFBN/?tag=tolees-21'
 descuento: '16.76'
-average: '14.457142857142857'
+average: '14.495652173913044'
 ---
 
 En este momento está [Amiibo - Ivysaur [Colección Super Smash Bros]](https://www.amazon.es/dp/B07T3DBFBN/?tag=tolees-21) a 14.9 EUR (original: 17.9 EUR) (16.76 %  de descuento) en el siguiente enlace!

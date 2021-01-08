@@ -25,10 +25,10 @@ Tienes [Grefusa - Snatt s | NatuChips Crema Fresca y Cebollino - 85 gr](https://
 
 🔎:
 
+- Patata chips tan sabrosas y crujientes como las patatas fritas de bolsa clásicas con un 50% menos de grasa | Sabor crema fresca y cebollino
+- Bolsa de chips envasada en atmósfera protectora de 85 gramos
 - Snack sin gluten
 - Aperitivo horneado con sabor a crema fresca y cebollino
 - Snacks no fritos | Fuente de fibra sin conservantes ni colorantes artificiales
-- Patata chips tan sabrosas y crujientes como las patatas fritas de bolsa clásicas con un 50% menos de grasa | Sabor crema fresca y cebollino
-- Bolsa de chips envasada en atmósfera protectora de 85 gramos
 
 [Comprar!!!](https://www.amazon.es/dp/B01IUYBL4Q/?tag=tolees-21)
