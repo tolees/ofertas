@@ -26,9 +26,9 @@ En este momento está [NANOCABLE 10.01.0302 - Cable USB 2.0  Tipo A/M-A/M  Macho
 🔎:
 
 - Incluye conector tipo A macho en los dos extremos
-- Conectores bañados en níquel.
-- Test de funcionamiento: 100% testado
-- Cable USB 2.0
 - Normativas: RoHS
+- Cable USB 2.0
+- Test de funcionamiento: 100% testado
+- Conectores bañados en níquel.
 
 [Aquí!!!](https://www.amazon.es/dp/B00CI3AEXA/?tag=tolees-21)

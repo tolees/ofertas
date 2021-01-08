@@ -25,8 +25,8 @@ Está [adidas Parma 16 SHO Pantalones Cortos de Deporte  Hombre  Collegiate Gree
 
 ℹ️:
 
-- Regular fit
-- Elastic waistband with lanyard
 - Climalite anti-humidity fabric
+- Elastic waistband with lanyard
+- Regular fit
 
 [Ver la oferta!!](https://www.amazon.es/dp/B077Y21PSD/?tag=tolees-21)

@@ -26,9 +26,9 @@ Ahora mismo tienes [Kingston A2000  SA2000M8/500G  SSD NVMe PCIe M.2 2280 500 GB
 🔎:
 
 - Compatible con un paquete de seguridad integral (TCG Opal, XTS-AES de 256 bits, eDrive)
-- Actualice su PC con capacidades de hasta 1 TB**
-- Óptimo para Ultrabooks y equipos PC de pequeño factor de forma (PC SFF)
 - Ideal para Ultrabooks y equipos PC de pequeño factor de forma (PC SFF)
+- Óptimo para Ultrabooks y equipos PC de pequeño factor de forma (PC SFF)
+- Actualice su PC con capacidades de hasta 1 TB**
 - Rendimiento PCIe NVMe a una fracción del coste normal
 
 [Visítala!!!](https://www.amazon.es/dp/B07VXCFNVS/?tag=tolees-21)

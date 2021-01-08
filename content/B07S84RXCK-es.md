@@ -26,8 +26,8 @@ Tienes [Control Nature - Caja de Condones gama natural  lubricados  ajuste perfe
 🔎:
 
 - Preservativo de máxima calidad, anatómico, con depósito y lubricado
+- Material: látex de caucho natural
 - Perfecta adaptabilidad
 - Caja ahorro 24 condones
-- Material: látex de caucho natural
 
 [Comprar!!!](https://www.amazon.es/dp/B07S84RXCK/?tag=tolees-21)

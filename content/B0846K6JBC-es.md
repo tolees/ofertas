@@ -25,12 +25,12 @@ Está [Enfamil Complete 2 - Leche Infantil de Continuación para Lactantes Bebé
 
 ℹ️:
 
-- Ayuda a su sistema inmunitario*: Gracias a su contenido en vitaminas A, C y D que favorecen el normal funcionamiento del sistema inmunitario
-- Crecimiento: contiene Calcio y Vitamina D, para el desarrollo de los huesos, así como Zinc, que ayuda al crecimiento normal
-- Líder en innovación científica en DHA y desarrollo visual
-- Contribuye al desarrollo visual normal de tu bebé hasta los 12 meses de edad; con una ingesta diaria de 100 mg DHA
-- Enfamil Complete 2 fue la primera leche de continuación en aportar un nivel de 0.3% de DHA (Omega 3)
 - Desarollo cognitivo: contiene Hierro y ALA, un ácido graso esencial que contribuye al desarrollo cognitivo normal
+- Contribuye al desarrollo visual normal de tu bebé hasta los 12 meses de edad; con una ingesta diaria de 100 mg DHA
+- Ayuda a su sistema inmunitario*: Gracias a su contenido en vitaminas A, C y D que favorecen el normal funcionamiento del sistema inmunitario
 - Evidencia científica líder en innovación científica, así lo demuestran los resultados de 14 publicaciones que apoyan la presencia del DHA en Enfamil
+- Enfamil Complete 2 fue la primera leche de continuación en aportar un nivel de 0.3% de DHA (Omega 3)
+- Líder en innovación científica en DHA y desarrollo visual
+- Crecimiento: contiene Calcio y Vitamina D, para el desarrollo de los huesos, así como Zinc, que ayuda al crecimiento normal
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0846K6JBC/?tag=tolees-21)
