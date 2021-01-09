@@ -25,11 +25,11 @@ Tienes [Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Negro 996  40 EU](h
 
 ℹ️:
 
-- Material exterior: Lona
 - Tipo de tacón: Plano
-- Tipo de talla: talla estándar
-- Cierre: Cordones
 - Revestimiento: Sin forro
 - Material de la suela: Goma
+- Tipo de talla: talla estándar
+- Material exterior: Lona
+- Cierre: Cordones
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B002WGHYO0/?tag=tolees-21)
