@@ -25,8 +25,8 @@ Tienes [Milan 359801 - Kit de Trazado  Azul  Pequeño](https://www.amazon.es/dp/
 
 ℹ️:
 
+- Marca: Milan
 - Diseño y funcionalidad
 - Producto de alta calidad
-- Marca: Milan
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01LWLUT0A/?tag=tolees-21)

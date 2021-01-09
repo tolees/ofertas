@@ -25,9 +25,9 @@ Ahora mismo tienes [Fellowes 99715 - Dispensador 100 toallitas limpiadoras super
 
 🔎:
 
-- Contenido mínimo de alcohol, menos del 1%
 - Propiedades anti-estáticas que ayudan a eliminar el polvo
 - Contiene 100 toallitas pre-humedecidas para limpieza de superficies
+- Contenido mínimo de alcohol, menos del 1%
 - Limpian cualquier tipo de superficie metal, plástico, incluyendo teclados, impresoras, mesas de trabajo (no apto para superficies de cristal y LCD/TFT)
 - Toallitas biodegradables. Respetuoso con el medio ambiente
 

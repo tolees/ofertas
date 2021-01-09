@@ -25,10 +25,10 @@ Tienes [NAVANINO Cortapelos Hombre Profesional  Recortadora de barba  Maquina Co
 
 ℹ️:
 
-- SERVICIO DE UN AÑO: NAVANINO Cortapelos hombre profesional tienen un año de servicio postventa. Si no está satisfecho, contáctenos. Se satisfaceremos al 100%.
-- Juego de cortapelos hombre profesional: accesorios 5 en 1 para todas las necesidades de peinado, incluido peine para cabello / barba / oreja / precisión y recortador corporal con 1 peine de barba ajustable (2/4/6/8mm), 4 peines de peine guía (3/6/9/12mm) y 1 peineta ajustable (13/15/17/19/21mm) otros. Conoce la longitud y el peinado que necesita.
+- Diseño impermeable de cuerpo completo: Maquina de afeitar, lavable de cuerpo completo, resistente al agua, se puede usar en seco / húmedo, se puede usar libremente y es fácil de limpiar.
 - Hoja de acero afilada: Maquina cortar pelo, cabezal de corte de alta calidad. Alta efectividad y precisión, no irrita la piel, muy duradera y fácil de usar.
 - Funcionamiento con batería y CA: Recortadora de barba, batería de litio de larga duración, una vez cargada se puede usar durante 60 minutos. Puede cargar la recortadora en cualquier momento y en cualquier lugar y usarla mientras se carga.
-- Diseño impermeable de cuerpo completo: Maquina de afeitar, lavable de cuerpo completo, resistente al agua, se puede usar en seco / húmedo, se puede usar libremente y es fácil de limpiar.
+- SERVICIO DE UN AÑO: NAVANINO Cortapelos hombre profesional tienen un año de servicio postventa. Si no está satisfecho, contáctenos. Se satisfaceremos al 100%.
+- Juego de cortapelos hombre profesional: accesorios 5 en 1 para todas las necesidades de peinado, incluido peine para cabello / barba / oreja / precisión y recortador corporal con 1 peine de barba ajustable (2/4/6/8mm), 4 peines de peine guía (3/6/9/12mm) y 1 peineta ajustable (13/15/17/19/21mm) otros. Conoce la longitud y el peinado que necesita.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07TB5NHFR/?tag=tolees-21)

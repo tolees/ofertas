@@ -25,8 +25,8 @@ Ahora mismo tienes [NIKE Venture Runner  Sneaker Hombre  Midnight Navy White Mid
 
 🔎:
 
-- Cordones de Zapatos
 - Suave de Llevar
 - Importado
+- Cordones de Zapatos
 
 [Visítala!!!](https://www.amazon.es/dp/B082PH7ZGF/?tag=tolees-21)

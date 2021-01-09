@@ -25,10 +25,10 @@ En este momento está [iCOO Pace - Silla de paseo de alta calidad iCOO Pace sopo
 
 🔎:
 
-- DISEÑO ALEMAN: Elegante Silla de paseo con marco de aluminio dorado puede usarse durante mucho tiempo, ya que es apta desde el nacimiento (en posición acostada) hasta 25 kg (carro 22 kg + cesta 3 kg)
-- RESPALDO RECLINABLE: Silla de paseo comoda y practica para el bebe gracias al respaldo y al reposapiés multiposicional, la superficie extra grande de descanso , el cubrepies y la amplia capota
-- SEGURO: La silla de paseo tiene un arnés de 5 puntos y una barra frontal protectora; la silla está probada y cumple la normativa de seguridad europea EN 1889
-- PRÁCTICO: La silla deportiva tiene empuñaduras ergonómicas, un práctico portavasos, una gran cesta para la compra, utensilios y juguetes del bebé
 - SILLA PARA VIAJES: La silla Pace se pliega rápidamente quedando compacta ahorrando espacio; menos de 10 kg de peso, amortiguación, así como ruedas delanteras giratorias y bloqueables
+- SEGURO: La silla de paseo tiene un arnés de 5 puntos y una barra frontal protectora; la silla está probada y cumple la normativa de seguridad europea EN 1889
+- DISEÑO ALEMAN: Elegante Silla de paseo con marco de aluminio dorado puede usarse durante mucho tiempo, ya que es apta desde el nacimiento (en posición acostada) hasta 25 kg (carro 22 kg + cesta 3 kg)
+- PRÁCTICO: La silla deportiva tiene empuñaduras ergonómicas, un práctico portavasos, una gran cesta para la compra, utensilios y juguetes del bebé
+- RESPALDO RECLINABLE: Silla de paseo comoda y practica para el bebe gracias al respaldo y al reposapiés multiposicional, la superficie extra grande de descanso , el cubrepies y la amplia capota
 
 [Aquí!!!](https://www.amazon.es/dp/B01MYXOHZ3/?tag=tolees-21)

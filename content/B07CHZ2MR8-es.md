@@ -26,10 +26,10 @@ En este momento está [Mentos Mix Frutas  Caramelo Masticable con Zumo de Frutas
 🔎:
 
 - Caramelo masticable Mentos Mix Frutas. Delicioso mix de sabores frutales: fresa, limón, naranja, manzana verde y grosella. El producto contiene 7 bolsas de 160 gr. de caramelos masticables en una bolsa con cierre fácil.
-- Los caramelos redondos masticables están formados por una crujiente capa exterior y un núcleo interior blando que hace ese típico crujido al morderlo y está buenísimo.
-- La bolsa es muy práctica para llevar y para compartir. Tiene un cierre fácil que te permitirá cerrar la bolsa para poder continuar en otro momento y mantener los Mentos frescos y deliciosos como siempre.
 - Ideal para llevar siempre contigo y para cualquier ocasión: en casa, momento peli, en la calle, en la oficina, en fiestas y entre horas como snack. Perfectos para compartir.
-- Descubre más sobre este y otros productos de Mentos más abajo.
+- Los caramelos redondos masticables están formados por una crujiente capa exterior y un núcleo interior blando que hace ese típico crujido al morderlo y está buenísimo.
 - Caramelos masticables hechos con ingredientes naturales, zumo de frutas y colorantes naturales.
+- Descubre más sobre este y otros productos de Mentos más abajo.
+- La bolsa es muy práctica para llevar y para compartir. Tiene un cierre fácil que te permitirá cerrar la bolsa para poder continuar en otro momento y mantener los Mentos frescos y deliciosos como siempre.
 
 [Aquí!!!](https://www.amazon.es/dp/B07CHZ2MR8/?tag=tolees-21)

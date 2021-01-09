@@ -25,10 +25,10 @@ Está [Panama Jack Amur GTX  Botas Militar Hombre  Negro  Negro C18   41 EU](htt
 
 ℹ️:
 
-- Resistente al agua
 - Material principal: napa, material del forro: Gore-Tex. Material de la suela: caucho natural. Suela interior: extraíble. Inserción: sí
-- Altura del tacón: 3,00 cm
-- Fabricado en España
+- Resistente al agua
 - Panama Jack Men - Botas para hombre, color negro
+- Fabricado en España
+- Altura del tacón: 3,00 cm
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07B971XKH/?tag=tolees-21)

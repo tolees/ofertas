@@ -25,15 +25,15 @@ Ahora mismo tienes [Fantasy Flight Games Star Wars-Imperial Assault: el corazón
 
 🔎:
 
-- Amplía tus partidas de escaramuza con el enorme at-dp, los soldados antidisturbios equipados con porras y los droides centinela con cañones dobles
-- 0
-- Mientras que las nuevas fichas de poder te dan más control que nunca sobre tu destino
 - Las nuevas fichas de escudo de energía y de escombros arruinarán los planes de tu oponente
 - 0
 - 0
 - 0
-- Requiere el juego básico imperial assault
-- Así como con las nuevas cartas de mando y tableros de escaramuza incluidos en el corazón del imperio
+- Amplía tus partidas de escaramuza con el enorme at-dp, los soldados antidisturbios equipados con porras y los droides centinela con cañones dobles
 - 0
+- Requiere el juego básico imperial assault
+- Mientras que las nuevas fichas de poder te dan más control que nunca sobre tu destino
+- 0
+- Así como con las nuevas cartas de mando y tableros de escaramuza incluidos en el corazón del imperio
 
 [Visítala!!!](https://www.amazon.es/dp/B076KQ2HYR/?tag=tolees-21)

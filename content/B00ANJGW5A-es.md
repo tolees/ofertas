@@ -26,7 +26,7 @@ Tienes [Stanley 460180 Inverter - Equipo de soldadura  160 A ](https://www.amazo
 ℹ️:
 
 - Ideal para soldadura de acero/hierro fundido/acero inoxidable, ferronería, serrurería, carpintería, carpintería metálica, reparación de piezas metálicas.
-- Para soldar baquetas de acero, acero inoxidable o hierro fundido máximo 4 mm de diámetro.
 - Soldador de arco Inverter compacto y ligero. A la vez compacto y ligero, facilita la soldadura gracias a su tecnología inverter IGBT que permite un arranque fácil, mes de pegado y una soldadura más fácil y uniforme.
+- Para soldar baquetas de acero, acero inoxidable o hierro fundido máximo 4 mm de diámetro.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00ANJGW5A/?tag=tolees-21)

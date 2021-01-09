@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'bollé Freeze Máscaras  Unisex Adulto  Bl al 36.14 % de descuento'
-date: 2021-01-08 07:05:00
+date: 2021-01-09 13:04:35
 image: 'https://m.media-amazon.com/images/I/318Di460e-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FJ66HXZ/?tag=tolees-21'
 descuento: '36.14'
-average: '19.41428571428571'
+average: '19.365945945945942'
 ---
 
 Está [bollé Freeze Máscaras  Unisex Adulto  Black Matte/Vermillon Cat.2  Mediano](https://www.amazon.es/dp/B07FJ66HXZ/?tag=tolees-21) con 36.14 de descuento por 18.52 EUR (original: 29.0 EUR) en el siguiente enlace!

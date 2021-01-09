@@ -25,8 +25,8 @@ Ahora mismo tienes [Kingston Canvas Select Plus Tarjeta microSD  SDCS2/32GB Clas
 
 🔎:
 
-- Tipo de tarjeta flash: MicroSDHC
 - Optimizadas para uso con dispositivos Android
+- Tipo de tarjeta flash: MicroSDHC
 - Funciones de protección: resistente a golpes, resistente a las vibraciones, a prueba de rayos X
 - Velocidades de UHS-I Clase 10 de hasta 100 MB/s
 

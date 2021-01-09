@@ -25,10 +25,10 @@ Ahora mismo tienes [Desatascador extreme 1 L – Para los atascos difíciles del
 
 🔎:
 
-- Para los atascos más difíciles
-- Extremadamente potente gracias a su tecnología exclusiva de 2 componentes
 - Apto para todos los desagües*
 - Listo para usar
+- Extremadamente potente gracias a su tecnología exclusiva de 2 componentes
+- Para los atascos más difíciles
 - No salpica ni genera espuma
 
 [Visítala!!!](https://www.amazon.es/dp/B00FOVXL2O/?tag=tolees-21)

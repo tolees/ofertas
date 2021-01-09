@@ -25,12 +25,12 @@ En este momento está [Einhell TC-CD 12 Li - Taladro atornillador 12 V sin Cable
 
 🔎:
 
-- Mandril portabrocas de sujeción rápida de carcasa única
-- Engranaje de 2 velocidades para la perforación y atornillado potente
 - Cargador rápido de 1 hora
-- Mandril portabrocas desmontable y de este modo forma constructiva más corta y ligera
-- Bloqueo de husillo automático
+- Engranaje de 2 velocidades para la perforación y atornillado potente
 - Unidad electrónica de precisión para regular el número de revoluciones
+- Mandril portabrocas de sujeción rápida de carcasa única
 - Forma constructiva esbelta con empuñadura antideslizante
+- Bloqueo de husillo automático
+- Mandril portabrocas desmontable y de este modo forma constructiva más corta y ligera
 
 [Aquí!!!](https://www.amazon.es/dp/B00M3U23GO/?tag=tolees-21)
