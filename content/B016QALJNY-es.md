@@ -1,32 +1,32 @@
 ---
 layout: post
-title: 'Adidas Parma 16 Intenso Pantalones Corto al 37.74 % de descuento'
-date: 2021-01-05 02:38:57
+title: 'Adidas Parma 16 Intenso Pantalones Corto al 25.15 % de descuento'
+date: 2021-01-09 03:07:47
 image: 'https://m.media-amazon.com/images/I/41diYD0f3VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B016QALJNY-es'
-actualPrice: 11.2 EUR
+actualPrice: 11.19 EUR
 currency: EUR
-price: 11.2
-comparePrice: 17.99 EUR
+price: 11.19
+comparePrice: 14.95 EUR
 prodname: 'Adidas Parma 16 Intenso Pantalones Cortos para Fútbol  Hombre  Azul  Azul/Blanco   L'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B016QALJNY/?tag=tolees-21'
-descuento: '37.74'
-average: '12.460251256281412'
+descuento: '25.15'
+average: '12.447611940298511'
 ---
 
-Está [Adidas Parma 16 Intenso Pantalones Cortos para Fútbol  Hombre  Azul  Azul/Blanco   L](https://www.amazon.es/dp/B016QALJNY/?tag=tolees-21) con 37.74 de descuento por 11.2 EUR (original: 17.99 EUR) en el siguiente enlace!
+Está [Adidas Parma 16 Intenso Pantalones Cortos para Fútbol  Hombre  Azul  Azul/Blanco   L](https://www.amazon.es/dp/B016QALJNY/?tag=tolees-21) con 25.15 de descuento por 11.19 EUR (original: 14.95 EUR) en el siguiente enlace!
 
 [![Adidas Parma 16 Intenso Pantalones Corto](https://m.media-amazon.com/images/I/41diYD0f3VL._SL200_.jpg)](https://www.amazon.es/dp/B016QALJNY/?tag=tolees-21)
 
 ℹ️:
 
 - 100% Pes-pique-hydrophilic Finish, 100% Pes-pique-hydrophilic Finish
-- Ajustable
 - Pantalones cortos - hombre
+- Ajustable
 
 [Ver la oferta!!](https://www.amazon.es/dp/B016QALJNY/?tag=tolees-21)
