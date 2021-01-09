@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Orbegozo RH Radiador de Aceite  1500W de al 32.19 % de rebaja'
-date: 2021-01-08 06:36:55
+date: 2021-01-09 07:15:43
 image: 'https://m.media-amazon.com/images/I/314AZMO4nnL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,9 +26,9 @@ Tienes [Orbegozo RH Radiador de Aceite  1500W de Potencia  7 Elementos y diseño
 🔎:
 
 - Radiador de aceite Orbegozo en color blanco, 4 ruedas pivotantes, asa para transporte y recoge cables
-- Diseño compacto
-- Termostato regulable de alta precisión
 - Potencia de 1500W
+- Termostato regulable de alta precisión
+- Diseño compacto
 - Termofusible de seguridad con limitador y piloto luminoso de encendido
 
 [Comprar!!!](https://www.amazon.es/dp/B078Q6M9GD/?tag=tolees-21)

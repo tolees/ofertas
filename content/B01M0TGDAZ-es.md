@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 17.56 % en La Masia Oliva Intenso Aceite - 5 l'
-date: 2021-01-08 00:48:32
+date: 2021-01-09 06:52:08
 image: 'https://m.media-amazon.com/images/I/415YxCgmaWL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01M0TGDAZ/?tag=tolees-21'
 descuento: '17.56'
-average: '12.865238095238096'
+average: '12.76909090909091'
 ---
 
 Tienes [La Masia Oliva Intenso Aceite - 5 l](https://www.amazon.es/dp/B01M0TGDAZ/?tag=tolees-21) con un 17.56 % de descuento con precio de oferta de 10.75 EUR (original: 13.04 EUR) en el siguiente enlace!
