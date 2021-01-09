@@ -25,8 +25,8 @@ Está [Jack & Jones JJEJEANS tee SS Crew Neck Noos 20/21 Camiseta  Port Royale  
 
 ℹ️:
 
-- Corte ajustado
-- Camiseta básica con logotipo impreso
 - Algodón suave
+- Camiseta básica con logotipo impreso
+- Corte ajustado
 
 [Ver la oferta!!](https://www.amazon.es/dp/B089N6RFFR/?tag=tolees-21)

@@ -26,7 +26,7 @@ Tienes [Adidas Grand Court K  Zapatos de Tenis Unisex Niños  FTWR White/Core Bl
 🔎:
 
 - 3 stripes on the sides
-- Sports shoes
 - Faux leather upper
+- Sports shoes
 
 [Comprar!!!](https://www.amazon.es/dp/B07QD9YPRW/?tag=tolees-21)

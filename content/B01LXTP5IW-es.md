@@ -25,9 +25,9 @@ Tienes [ADIDAS Gazelle J  Zapatillas Unisex Adulto  Negro  Core Black/Footwear W
 
 ℹ️:
 
+- OrthoLite - Feuchtigkeitsabsorbierende, antibakterielle und gepolsterte Einlegesohle
 - Warnhinweis: Keine / nicht relevant
 - Wildleder ist strapazierfähig und langlebig
-- OrthoLite - Feuchtigkeitsabsorbierende, antibakterielle und gepolsterte Einlegesohle
 - Der Gazelle J ist ein Sneaker für Kinder und Damen von Adidas für Alltag und Freizeit.
 - Klassisches 3-Streifen Design
 

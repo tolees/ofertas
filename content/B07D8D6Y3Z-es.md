@@ -25,10 +25,10 @@ En este momento está [Ubisoft - Figurina Six Collection Series 2 Hibana](https:
 
 🔎:
 
-- Material: vinilo
-- Incluye un código único que desbloquea un amuleto de arma dentro del juego
 - Altura: 10 cm
-- Figuras de gran detalle, inspiradas en los agentes de Rainbow Six Siege
+- Incluye un código único que desbloquea un amuleto de arma dentro del juego
+- Material: vinilo
 - Continuación de la popular Six Collection
+- Figuras de gran detalle, inspiradas en los agentes de Rainbow Six Siege
 
 [Aquí!!!](https://www.amazon.es/dp/B07D8D6Y3Z/?tag=tolees-21)

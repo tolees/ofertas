@@ -25,9 +25,9 @@ Está [Funko - Figurine Star Trek Beyond - Chekov In Survival Suit Exclu Pop 10c
 
 ℹ️:
 
-- Fácil de usar
-- Muy conveniente
 - Figurine Star Trek Beyond - Chekov In Survival Suit Exclu Pop- Matière vinyl- Vendu sous window
+- Muy conveniente
+- Fácil de usar
 - Paqueteage Dimensiones: 16.51 L x 8.89 H x 11.684 W (centimeters)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01KSFYOOY/?tag=tolees-21)

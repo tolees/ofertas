@@ -25,9 +25,9 @@ En este momento está [Alvarez Gómez Spray higienizante 30ml](https://www.amazo
 
 🔎:
 
+- Peróxido de hidrógeno: en una pequeña proporción para desactivar las esporas bacterianas contaminantes de la disolución
 - Contiene Glicerina: para hidratar y minimizar la sequedad en la piel
 - Gel higienizante para el uso y cuidado personal
-- Peróxido de hidrógeno: en una pequeña proporción para desactivar las esporas bacterianas contaminantes de la disolución
 - Perfecto para llevar en el bolso o coche, 80º Alcohol
 - Olor: Alcohólico y neutro
 

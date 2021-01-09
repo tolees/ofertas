@@ -25,10 +25,10 @@ En este momento está [Adidas Real Madrid Temporada 2020/21 Polo Oficial  Unisex
 
 🔎:
 
-- Polo para practicar Tiempo libre y sportwear de Hombre
-- Los productos deportivos de la marca Adidas están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo.
-- Polo REAL POLO GRICIN
 - Ropa deportiva Multicolor de la marca Adidas
+- Los productos deportivos de la marca Adidas están diseñados para que disfrutes de tu deporte favorito sin preocuparte de nada más que rendir al máximo.
 - Ropa deportiva fabricada con materiales de primera calidad que se adaptan a cualquier actividad deportiva
+- Polo para practicar Tiempo libre y sportwear de Hombre
+- Polo REAL POLO GRICIN
 
 [Aquí!!!](https://www.amazon.es/dp/B08CJQZJWK/?tag=tolees-21)

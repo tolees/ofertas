@@ -25,8 +25,8 @@ Está [Mattel Games - Pictionary  Juegos de Mesa  Mattel DKD51 ](https://www.ama
 
 ℹ️:
 
-- El juego de mesa en el que los jugadores tienen que adivinar palabras y frases a través de dibujos
 - Incluye una pizarra borrable, rotuladores, dos fichas, un dado, un mini reloj y 720 pistas, para llevarse Pictionary a cualquier sitio y jugar en familia y con los amigos
+- El juego de mesa en el que los jugadores tienen que adivinar palabras y frases a través de dibujos
 - Gracias a las tarjetas para mayores y pequeños, es más fácil jugar en familia
 - Adecuado para 2-4 jugadores, no menores de 8 años
 
