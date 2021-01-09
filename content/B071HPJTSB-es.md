@@ -25,10 +25,10 @@ Está [Tommy Hilfiger Core Stretch Slim Vneck tee Camiseta  Azul  Navy Blazer 41
 
 ℹ️:
 
-- Logo de Tommy Hilfiger bordado en el pecho
-- Cinta distintiva en el interior del cuello
 - Algodón elástico
-- Cuello de pico
+- Cinta distintiva en el interior del cuello
+- Logo de Tommy Hilfiger bordado en el pecho
 - Corte slim
+- Cuello de pico
 
 [Ver la oferta!!](https://www.amazon.es/dp/B071HPJTSB/?tag=tolees-21)

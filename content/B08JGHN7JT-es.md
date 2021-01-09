@@ -25,8 +25,8 @@ Ahora mismo tienes [#NA Mini Ventilador USB de refrigeración portátil Ventilad
 
 🔎:
 
-- Diseño: tamaño compacto y portátil, ligero y bonito
-- Uso: Dispositivo de enfriamiento de verano ideal para actividades al aire libre como juegos de pelota, caminatas, correr, trotar, viajar, acampar y pescar o para usar en el hogar, la oficina, el aula, etc.
 - Material: cuchillas de material de PC suave, no se lastiman las manos cuando se toca inesperadamente.
+- Uso: Dispositivo de enfriamiento de verano ideal para actividades al aire libre como juegos de pelota, caminatas, correr, trotar, viajar, acampar y pescar o para usar en el hogar, la oficina, el aula, etc.
+- Diseño: tamaño compacto y portátil, ligero y bonito
 
 [Visítala!!!](https://www.amazon.es/dp/B08JGHN7JT/?tag=tolees-21)

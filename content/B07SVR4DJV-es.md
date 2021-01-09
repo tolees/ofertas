@@ -25,7 +25,7 @@ Tienes [Vero Moda Vmexcursion Expedition Aw193/4parka Noos Abrigo  Gris  Medium 
 
 🔎:
 
-- Warm parka
 - Parka with fake FUR hood
+- Warm parka
 
 [Comprar!!!](https://www.amazon.es/dp/B07SVR4DJV/?tag=tolees-21)

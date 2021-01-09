@@ -26,9 +26,9 @@ Está [Persona 5 Royal Estándar Edición](https://www.amazon.es/dp/B08DD5KNN1/?
 ℹ️:
 
 - Descubre un arco en la historia nunca visto
-- Nuevo semestre escolar
 - Escenas nuevas y finales alternativos
-- Explora Tokio y las nuevas zonas
+- Nuevo semestre escolar
 - Nuevos Persona desbloqueables
+- Explora Tokio y las nuevas zonas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08DD5KNN1/?tag=tolees-21)

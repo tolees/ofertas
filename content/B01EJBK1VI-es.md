@@ -25,9 +25,9 @@ Está [MasterPro Q1492 28 cm SARTEN Grill  Aluminio  Silicona  Acero Inoxidable 
 
 ℹ️:
 
-- Mango con revestimiento de silicona
 - Material: aluminio fundido, con mango de acero inoxidable
-- Apto para inducción
 - Dimensiones: 28x28x4.5 cm
+- Apto para inducción
+- Mango con revestimiento de silicona
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01EJBK1VI/?tag=tolees-21)

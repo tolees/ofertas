@@ -25,8 +25,8 @@ En este momento está [ASICS Upcourt 4  Zapatillas de vóleibol Mujer  White Bla
 
 🔎:
 
-- Zapatillas de voleibol.
 - Diseño contemporáneo
+- Zapatillas de voleibol.
 - Entresuela de EVA para mayor estabilidad.
 
 [Aquí!!!](https://www.amazon.es/dp/B088K1G3CJ/?tag=tolees-21)

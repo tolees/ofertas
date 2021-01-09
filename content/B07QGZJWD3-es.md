@@ -25,10 +25,10 @@ En este momento está [3INA | Maquillaje sin crueldad | Vegano | 3 piezas Blende
 
 🔎:
 
-- Para todo tipo de cosméticos, esponjas de maquillaje para todo tipo de cosméticos, como base, crema, polvo, corrector, aislante, líquido, etc.
-- Base de maquillaje y corrector – Utiliza estos minimezcladores con tu base o corrector para un acabado suave y natural, luego mezcla con precisión tus colores crema para un máximo impacto.
-- Uso húmedo y seco: uso húmedo y seco, la esponja se vuelve más grande cuando se moja, tampón uniforme para formar un bonito maquillaje.
 - Siempre perfecta: Llévate las mini batidoras 3ina a cualquier lugar para que el maquillaje sea siempre perfecto.
+- Uso húmedo y seco: uso húmedo y seco, la esponja se vuelve más grande cuando se moja, tampón uniforme para formar un bonito maquillaje.
 - Evita desperdicios: la esponja de maquillaje te da una aplicación perfecta del maquillaje, evita el desperdicio de cosméticos.
+- Base de maquillaje y corrector – Utiliza estos minimezcladores con tu base o corrector para un acabado suave y natural, luego mezcla con precisión tus colores crema para un máximo impacto.
+- Para todo tipo de cosméticos, esponjas de maquillaje para todo tipo de cosméticos, como base, crema, polvo, corrector, aislante, líquido, etc.
 
 [Aquí!!!](https://www.amazon.es/dp/B07QGZJWD3/?tag=tolees-21)

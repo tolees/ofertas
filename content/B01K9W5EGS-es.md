@@ -25,12 +25,12 @@ Tienes [Garmin Forerunner 35- Reloj GPS con monitor de frecuencia cardiaca en la
 
 ℹ️:
 
-- Tracks heart rate at the wrist day or night, to provide more accurate calories burned information. Waterproof to 5 ATM
-- Meet your fitness goals with activity profiles, run/walk mode, intervals and vibration alerts to keep you motivated
 - Display type is sunlight-visible, transflective memory-in-pixel (MIP)
-- All-day activity tracking counts steps and intensity minutes and reminds you when to move. Compatibility - Android: 4.4 OS or Later & Bluetooth 4.0 or Later. Apple: iOS 9.0 or Later. Display Size: 23.5 x 23.4 mm
-- Battery life - Smartwatch Mode: Up to 9 days GPS mode: Up to 13 hours. Display resolution: 128 x 128 pixels
-- Connected features include smart notifications, music control, automatic uploads to Garmin Connect and the ability to track your runs with LiveTrack software
 - Strap material: Silicone. Lightweight and easy-to-use running watch with high-resolution display and built-in GPS that tracks how far, how fast and where you run
+- Battery life - Smartwatch Mode: Up to 9 days GPS mode: Up to 13 hours. Display resolution: 128 x 128 pixels
+- Tracks heart rate at the wrist day or night, to provide more accurate calories burned information. Waterproof to 5 ATM
+- Connected features include smart notifications, music control, automatic uploads to Garmin Connect and the ability to track your runs with LiveTrack software
+- Meet your fitness goals with activity profiles, run/walk mode, intervals and vibration alerts to keep you motivated
+- All-day activity tracking counts steps and intensity minutes and reminds you when to move. Compatibility - Android: 4.4 OS or Later & Bluetooth 4.0 or Later. Apple: iOS 9.0 or Later. Display Size: 23.5 x 23.4 mm
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01K9W5EGS/?tag=tolees-21)

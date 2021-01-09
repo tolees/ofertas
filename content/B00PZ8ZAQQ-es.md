@@ -25,7 +25,7 @@ En este momento está [Nike MD Runner 2  Zapatillas de Running Mujer  Negro  Bla
 
 🔎:
 
-- El MD Runner 2 está hecho de malla, entresuela de espuma, suela de goma y refuerzos de gamuza. Este zapato garantiza una mayor comodidad y apoyo.
 - LOCU{visjames}
+- El MD Runner 2 está hecho de malla, entresuela de espuma, suela de goma y refuerzos de gamuza. Este zapato garantiza una mayor comodidad y apoyo.
 
 [Aquí!!!](https://www.amazon.es/dp/B00PZ8ZAQQ/?tag=tolees-21)

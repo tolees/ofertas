@@ -26,8 +26,8 @@ En este momento está [Instituto Español Loción After Sun Piel Atópica 300 ml
 🔎:
 
 - Calma la irritación, evita la descamación e hidrata en profundidad.
-- Prolonga el bronceado.
 - Combate los efectos de los rayos UV, el aire seco y el sobrecalentamiento de la piel.
+- Prolonga el bronceado.
 - Para pieles atópica y sensibles.
 
 [Aquí!!!](https://www.amazon.es/dp/B088HTQ8QM/?tag=tolees-21)

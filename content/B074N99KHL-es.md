@@ -25,8 +25,8 @@ Tienes [Panama Jack Glasgow Igloo  Botas Clasicas Hombre  Marrón  Cuero C4   46
 
 🔎:
 
-- Panama Jack - Botas de piel para hombre
 - Altura del tacón: 2 cm
+- Panama Jack - Botas de piel para hombre
 - Principal Material: napa, material del forro: madera natural / material de la suela: TR interior desmontable. Inserto: no
 - Fabricado en España
 

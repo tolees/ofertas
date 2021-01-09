@@ -25,10 +25,10 @@ Tienes [ViewSonic M1 WVGA Proyector LED ultraportátil con altavoces duales Harm
 
 🔎:
 
-- Plug and play: USB tipo A y tarjeta SD (para documentos y videos), USB tipo C (para pantalla y alimentación móvil) y HDMI
-- Altavoces 3W Duales Harman Kardon
-- Proyección de 360 grados con diseño de soporte inteligente y función de encendido/ apagado automático
 - Ultraportátil y ligero de solo 1.7 kg y 14.5 x 12.3 x 4 cm
 - Batería incorporada al menos 2.5 horas y 12GB de memoria incorporada
+- Proyección de 360 grados con diseño de soporte inteligente y función de encendido/ apagado automático
+- Altavoces 3W Duales Harman Kardon
+- Plug and play: USB tipo A y tarjeta SD (para documentos y videos), USB tipo C (para pantalla y alimentación móvil) y HDMI
 
 [Comprar!!!](https://www.amazon.es/dp/B078WG5P4W/?tag=tolees-21)

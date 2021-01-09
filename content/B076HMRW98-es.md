@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas CORE18 Hoody Sudadera con Capucha con un 27.53 % de descuento'
-date: 2021-01-08 09:27:53
+date: 2021-01-09 19:35:30
 image: 'https://m.media-amazon.com/images/I/41FpqFQ7NDL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ En este momento está [adidas CORE18 Hoody Sudadera con Capucha  Hombre  Negro  
 
 🔎:
 
-- Sudadera adecuada para hombres
-- Es adecuada para el futbol
-- Cuenta con un bolsillo de tipo canguro
 - Tiene una capucha ajustable con cordón
+- Sudadera adecuada para hombres
+- Cuenta con un bolsillo de tipo canguro
+- Es adecuada para el futbol
 
 [Aquí!!!](https://www.amazon.es/dp/B076HMRW98/?tag=tolees-21)

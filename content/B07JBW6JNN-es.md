@@ -26,9 +26,9 @@ Está [The Color Workshop TCW - Estuche de viaje para maquillaje  43 piezas  via
 ℹ️:
 
 - Aplicadores incluidos.
-- Productos cosméticos para labios, ojos y cara.
-- Múltiples tonos – Crea un perfecto día o noche para adaptarse a cualquier gusto.
 - Perfecto para viajar y regalar.
 - Carcasa de aluminio reutilizable.
+- Múltiples tonos – Crea un perfecto día o noche para adaptarse a cualquier gusto.
+- Productos cosméticos para labios, ojos y cara.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07JBW6JNN/?tag=tolees-21)

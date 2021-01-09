@@ -27,8 +27,8 @@ Tienes [Orbegozo TO 1010 - Tostador horizontal  calienta repostería  tipo multi
 
 - Bandeja recogemigas
 - Temporizador con señal acústica
-- Permite tostar cualquier tipo de pan
-- Seis niveles de tostado
 - Botón encendido/apagado
+- Seis niveles de tostado
+- Permite tostar cualquier tipo de pan
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0055ZMCGA/?tag=tolees-21)
