@@ -27,8 +27,8 @@ Ahora mismo tienes [Johnson’s Baby Set de Regalo Mi Primera Mochila  champú C
 
 - Debido a la frecuente necesidad de cambios y limpieza, la zona del pañal requiere una protección especial; nuestra Baby Crema Protectora de Pañal está clínicamente probada y proporciona protección contra las causas de las irritaciones desde el primer uso
 - La piel de tu bebé es hasta un 30 % más fina que la tuya: necesita un cuidado ultrasuave; la línea Cottontouch contiene algodón puro y ha sido especialmente diseñada para la delicada piel del recién nacido
-- 100% delicado; sin colorantes, sulfatos ni ftalatos; fórmulas libres de alérgenos de fragancia
-- Set de regalo con mochila de Johnsons Baby que incluye champú, aceite corporal, crema protectora de pañal, gel de baño y loción para bebé
 - Johnsons Baby Champú ha sido especialmente diseñado para limpiar suavemente el fino cabello y el delicado cuero cabelludo del bebé.El aceite corporal es un hidratante que proporciona a su piel una película protectora
+- Set de regalo con mochila de Johnsons Baby que incluye champú, aceite corporal, crema protectora de pañal, gel de baño y loción para bebé
+- 100% delicado; sin colorantes, sulfatos ni ftalatos; fórmulas libres de alérgenos de fragancia
 
 [Visítala!!!](https://www.amazon.es/dp/B0896NKCS2/?tag=tolees-21)

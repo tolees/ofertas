@@ -25,10 +25,10 @@ Está [HOMCOM Triciclo para Niños más de 18 Meses con Timbre Guardabarros Rued
 
 ℹ️:
 
-- ✅DIVERTIDO Y EDUCATIVO: Los niños mejorarán su coordinación aprendiendo a pedalear y se divertirán con el timbre. Es muy ligero, ideal para jugar en el jardín e ir de paseo.
-- ✅ASIENTO AJUSTABLE: El asiento se puede ajustable adelante y hacia atrás en 2 niveles, por lo que satisface las necesidades diferentes de los niños, y les ayuda a buscar una postura cómoda.
 - ✅DISEÑO MODERNO Y SEGURO: Diseño de las ruedas pensado para evitar daños en los pies de los niños. Ofrece máxima seguridad para el niño. Tiene timbre y un guardabarros muy útil y práctico. Dimensión: 74x49x55cm. Peso: 5,3kg. Fácil de manejar para niños y padres.
 - ✅CAPACIDAD: Soporta un peso máximo de 25 kg; MÁXIMA SEGURIDAD: Certificados EN71-1-2-3, ASTM F963 y CPSIA. Adecuado para niños mayores de 18 meses
+- ✅ASIENTO AJUSTABLE: El asiento se puede ajustable adelante y hacia atrás en 2 niveles, por lo que satisface las necesidades diferentes de los niños, y les ayuda a buscar una postura cómoda.
+- ✅DIVERTIDO Y EDUCATIVO: Los niños mejorarán su coordinación aprendiendo a pedalear y se divertirán con el timbre. Es muy ligero, ideal para jugar en el jardín e ir de paseo.
 - ✅ALTA CALIDAD: Estructura de metal estable y sólida. Es un triciclo muy robusto con buenos acabados de plástico resistente. Fácil de montar y ajustar.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06Y5Z6SJT/?tag=tolees-21)

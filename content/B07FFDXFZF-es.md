@@ -25,10 +25,10 @@ Ahora mismo tienes [Doctor Who 6794 - Destornillador sónico para decimotercer J
 
 🔎:
 
-- Con luces y nuevos diagnósticos de sonido FX
-- Fomenta el juego imaginativo
 - Destornillador sónico réplica
-- Funciona con 3 pilas de botón LR44 (baterías de demostración incluidas)
 - A partir de 5 años
+- Fomenta el juego imaginativo
+- Con luces y nuevos diagnósticos de sonido FX
+- Funciona con 3 pilas de botón LR44 (baterías de demostración incluidas)
 
 [Visítala!!!](https://www.amazon.es/dp/B07FFDXFZF/?tag=tolees-21)

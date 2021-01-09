@@ -25,8 +25,8 @@ Está [Joma Nilo Pantalones Largos  Hombres  Negro  M](https://www.amazon.es/dp/
 
 ℹ️:
 
-- Pierna cremallera lateral para cerrar o abrir para ajustar el flujo de aire al cuerpo
 - Cintura elástica y bolsillos laterales
+- Pierna cremallera lateral para cerrar o abrir para ajustar el flujo de aire al cuerpo
 - Cintura elástica para mayor comodidad
 - Pantalón de puño
 

@@ -25,10 +25,10 @@ Tienes [Polti Forzaspira C115 Plus Aspirador cicónico sin bolsa  2 litros capac
 
 🔎:
 
-- Capacidad depósito de recogida: 2 litros
 - Recoge cables automático
-- Aspirador ciclónico sin bolsa
+- Capacidad depósito de recogida: 2 litros
 - 4 fases de filtrado con filtro hepa lavable
+- Aspirador ciclónico sin bolsa
 - Regulación de aspiración
 
 [Comprar!!!](https://www.amazon.es/dp/B074J9NRDW/?tag=tolees-21)
