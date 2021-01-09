@@ -26,12 +26,12 @@ Está [Hunter Original Tall Classic  Botas de Agua Unisex Adulto  Azul  Navy RMA
 ℹ️:
 
 - Heel type: tacón ancho
-- Shaft diameter: normal
-- Sole material: caucho
-- Lining: sin forro
-- Closure: sin cordones
-- Shoe width: normal
 - Heel height: 2 centimeters
+- Closure: sin cordones
+- Shaft diameter: normal
+- Lining: sin forro
+- Shoe width: normal
+- Sole material: caucho
 - Outer material: caucho
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00K1XAWXQ/?tag=tolees-21)

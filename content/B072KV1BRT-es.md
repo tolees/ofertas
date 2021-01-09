@@ -25,10 +25,10 @@ Está [Vans Ward Canvas  Zapatillas para Hombre Negro  Canvas/Black 186  46 EU](
 
 ℹ️:
 
-- Revestimiento: Tela
-- Tipo de tacón: Plano
-- Material de la suela: Goma
 - Material exterior: Cuero
+- Tipo de tacón: Plano
+- Revestimiento: Tela
+- Material de la suela: Goma
 - Cierre: Cordones
 
 [Ver la oferta!!](https://www.amazon.es/dp/B072KV1BRT/?tag=tolees-21)

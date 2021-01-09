@@ -25,10 +25,10 @@ En este momento está [Satisfyer Satisfyer Curvy 2+ Rosa Con App](https://www.am
 
 🔎:
 
-- App Control Remoto.
 - 15 Años De Garantía.
-- Video Chat.
+- App Control Remoto.
 - Impermeable Y Recargable.
 - Satisfyer Connect.
+- Video Chat.
 
 [Aquí!!!](https://www.amazon.es/dp/B08CC72R3H/?tag=tolees-21)

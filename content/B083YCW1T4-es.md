@@ -25,8 +25,8 @@ Tienes [Kipling ABANU Multi  Crossbody Unisex Adulto  Azul 2  8x19x13 cm](https:
 
 🔎:
 
-- Unisex
 - Crossbody
 - Classics
+- Unisex
 
 [Comprar!!!](https://www.amazon.es/dp/B083YCW1T4/?tag=tolees-21)

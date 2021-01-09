@@ -25,10 +25,10 @@ Ahora mismo tienes [Disney Princess Friend Belle Doll](https://www.amazon.es/dp/
 
 🔎:
 
-- Alucina con el brillo de sus ojos y su increíble melena
-- Incluye muñeca articulada son su vestido, sus zapatos y tiara
-- Añade a tu colección de Princesas Disney a Bella con su precioso vestido
 - Muñeca Bella grande (35 cm) con su precioso vestido con detalles en tul y purpurina
 - Vive e imagina las aventuras junto a la muñeca de tu personaje favorito de Disney
+- Añade a tu colección de Princesas Disney a Bella con su precioso vestido
+- Alucina con el brillo de sus ojos y su increíble melena
+- Incluye muñeca articulada son su vestido, sus zapatos y tiara
 
 [Visítala!!!](https://www.amazon.es/dp/B084YBZ2DD/?tag=tolees-21)
