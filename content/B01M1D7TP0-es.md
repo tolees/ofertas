@@ -25,9 +25,9 @@ Tienes [PLAYMOBIL 1.2.3- Quad con 2 Dinos  única  9120 ](https://www.amazon.es/
 
 ℹ️:
 
-- Desarrolla la imaginación y la creatividad
 - Incluye una figura y varios accesorios
 - En el quad cabe una figura
 - Incluye dos dinosaurios
+- Desarrolla la imaginación y la creatividad
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01M1D7TP0/?tag=tolees-21)

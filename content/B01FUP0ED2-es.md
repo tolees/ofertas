@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'INSTITUTO ESPAÑOL crema corporal reparad al 68.52 % de descuento'
-date: 2021-01-04 10:05:41
+date: 2021-01-09 16:23:23
 image: 'https://m.media-amazon.com/images/I/3197+pgSl8L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Ahora mismo tienes [INSTITUTO ESPAÑOL crema corporal reparadora urea formato vi
 
 🔎:
 
-- Género: Unisex Adulto
 - Marca: Instituto Español
+- Género: Unisex Adulto
 - Tipo de producto: Tratamiento corporal
 
 [Visítala!!!](https://www.amazon.es/dp/B01FUP0ED2/?tag=tolees-21)

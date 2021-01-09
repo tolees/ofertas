@@ -25,9 +25,9 @@ Ahora mismo tienes [Toshiba Canvio Advance - Disco Duro  4 TB  2 5"   Color Rojo
 
 🔎:
 
-- Peso del paquete: 260 g.
-- Disco duro externo con 4 TB de almacenamiento.
 - Dimensiones del paquete (largo x ancho x alto): 3,8 zm 11,2 zm 14,0 zm.
+- Peso del paquete: 260 g.
 - País de origen: Japón.
+- Disco duro externo con 4 TB de almacenamiento.
 
 [Visítala!!!](https://www.amazon.es/dp/B08L17KCDK/?tag=tolees-21)

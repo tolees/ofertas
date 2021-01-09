@@ -25,10 +25,10 @@ En este momento está [Energy Sistem Frame Speaker Altavoz con Bluetooth 5.0 y t
 
 🔎:
 
+- Con su batería de litio recargable de larga duración, disfrutarás de 20 horas de música sin interrupción
 - Sus 50 w de potencía y el sistema de realce acústico te harán vibrar al son de la música
 - Conectividad sin límites: transfiere tu música preferida gracias a la conexión bluetooth 5.0, reproductor mp3 usb y microsd o escucha tus emisoras de radio favoritas
-- Escucha tu música como nunca antes, una combinación perfecta entre arte y música para tu hogar
 - La tecnología true wireless stereo te permitirá sincronizar dos dispositivos para duplicar el sonido; además te permitirá configurar cada uno de ellos independientemente como canal derecho, izquierdo o estéreo
-- Con su batería de litio recargable de larga duración, disfrutarás de 20 horas de música sin interrupción
+- Escucha tu música como nunca antes, una combinación perfecta entre arte y música para tu hogar
 
 [Aquí!!!](https://www.amazon.es/dp/B07Q4B8FLT/?tag=tolees-21)

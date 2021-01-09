@@ -25,8 +25,8 @@ Tienes [WENJZJ Naruto Shippuden # 185 Naruto  Modo Sabio  Pop！](https://www.am
 
 🔎:
 
-- Mide 9cm de alto y viene en una caja de exhibición.
-- Tamaño: unos 10 cm (H).
 - Todas las reproducciones estilizadas de los personajes más icónicos de películas, series de televisión, series animadas, cómics, videojuegos y mucho más.
+- Tamaño: unos 10 cm (H).
+- Mide 9cm de alto y viene en una caja de exhibición.
 
 [Comprar!!!](https://www.amazon.es/dp/B08JGW24Q4/?tag=tolees-21)
