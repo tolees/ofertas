@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjialvin Jjjacket Sa 002 No al 36.01 % de descuento'
-date: 2021-01-08 11:19:57
+date: 2021-01-09 14:44:23
 image: 'https://m.media-amazon.com/images/I/41EMDcj3rML._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,7 +25,7 @@ Está [Jack & Jones Jjialvin Jjjacket Sa 002 Noos Chaqueta de jean  Azul  Denim 
 
 ℹ️:
 
-- elastic cotton quality
 - Denim Jacket
+- elastic cotton quality
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07N8GCJP6/?tag=tolees-21)

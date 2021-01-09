@@ -25,10 +25,10 @@ Tienes [Multímetro Digital Profesional  LOMVUM T28B Automático Polimetro Digit
 
 ℹ️:
 
-- 👍🏽 El paquete incluye: multímetro LOMVUM T28B, batería 4 * 1.5V AAA, cables de prueba, termopar tipo K, Manual de usuario en español,24 meses de garantía. Por favor, comprelo con total tranquilidad.
-- 👍🏽 Pantalla de 6000 Counts – medir el votaje y la corriente de corriente alterna (CA) y corriente continua (CC), el diodo, la resistencia, la capacidad eléctrica, la frecuencia, el ciclo de trabajo, la temperatura y mostrar automáticamente el símbolo de la unidad de acuerdo con la función de medición correspondiente.
 - 👍🏽 Rango automático: siempre que se seleccionen el voltaje, la corriente, la resistencia y otros elementos que quiere medir, el rango de medición se alterará según el valor específico medido durante la medición. Es conveniente de usar y no hace falta preocuparse por dañar el multímetro con el rango incorrecto.
-- 👍🏽 Medición de NCV - si se detecta un voltaje de CA, el multímetro LOMVUM encenderá el indicador de la intensidad correspondiente de acuerdo con la intensidad de la señal detectada y el zumbador emitirá una alarma de diferentes frecuencias.
 - 👍🏽 Seguridad de medición: cumpla con los requisitos de 600V CAT IV 1000V CAT III, brindándole una mayor seguridad en el trabajo.
+- 👍🏽 Pantalla de 6000 Counts – medir el votaje y la corriente de corriente alterna (CA) y corriente continua (CC), el diodo, la resistencia, la capacidad eléctrica, la frecuencia, el ciclo de trabajo, la temperatura y mostrar automáticamente el símbolo de la unidad de acuerdo con la función de medición correspondiente.
+- 👍🏽 Medición de NCV - si se detecta un voltaje de CA, el multímetro LOMVUM encenderá el indicador de la intensidad correspondiente de acuerdo con la intensidad de la señal detectada y el zumbador emitirá una alarma de diferentes frecuencias.
+- 👍🏽 El paquete incluye: multímetro LOMVUM T28B, batería 4 * 1.5V AAA, cables de prueba, termopar tipo K, Manual de usuario en español,24 meses de garantía. Por favor, comprelo con total tranquilidad.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FXH2R5M/?tag=tolees-21)

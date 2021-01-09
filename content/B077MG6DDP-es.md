@@ -25,11 +25,11 @@ Está [PUMA Smash V2 L  Zapatillas Unisex Adulto  Blanco White Black  44 EU](htt
 
 ℹ️:
 
-- Altura del tacón: 3 centímetros
-- Material exterior: Cuero
 - Tipo de tacón: Plano
-- Revestimiento: Malla
+- Material exterior: Cuero
+- Altura del tacón: 3 centímetros
 - Material de la suela: Goma
+- Revestimiento: Malla
 - Cierre: Cordones
 
 [Ver la oferta!!](https://www.amazon.es/dp/B077MG6DDP/?tag=tolees-21)

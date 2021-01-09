@@ -26,9 +26,9 @@ En este momento está [Figura de Jazmin y el tigre Raja de Aladín  Disney Tradi
 🔎:
 
 - Colores resistentes al agua
-- Figura de Jasmine
-- Dimensiones del producto: 15 x 9 x 19 cm
-- Material: resina
 - Producto adecuado para regalar, decorar o coleccionar
+- Dimensiones del producto: 15 x 9 x 19 cm
+- Figura de Jasmine
+- Material: resina
 
 [Aquí!!!](https://www.amazon.es/dp/B07MCPR8NH/?tag=tolees-21)

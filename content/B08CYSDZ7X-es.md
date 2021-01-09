@@ -25,10 +25,10 @@ Ahora mismo tienes [BaByliss ST259E Plancha de pelo profesional Platinum Diamond
 
 🔎:
 
+- Función memoria para guardar la temperatura seleccionada
 - Sistema de calentamiento Advanced Ceramics para un calentamiento y recuperación de la temperatura ultrarrápido
+- Plancha de pelo con placas de cerámica con infusión de diamantes para un mejor deslizamiento
 - 10 ajustes digitales de temperatura hasta 235 °C
 - Tecnología iónica anti encrespamiento
-- Plancha de pelo con placas de cerámica con infusión de diamantes para un mejor deslizamiento
-- Función memoria para guardar la temperatura seleccionada
 
 [Visítala!!!](https://www.amazon.es/dp/B08CYSDZ7X/?tag=tolees-21)

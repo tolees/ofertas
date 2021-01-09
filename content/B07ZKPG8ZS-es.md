@@ -25,8 +25,8 @@ En este momento está [El Noble Colección De Jumanji - Mini Prop Réplica De La
 
 🔎:
 
-- Creado por la colección Noble
 - Elaborado con exquisito detalle
+- Creado por la colección Noble
 - Producto oficial con licencia
 
 [Aquí!!!](https://www.amazon.es/dp/B07ZKPG8ZS/?tag=tolees-21)

@@ -25,10 +25,10 @@ Ahora mismo tienes [Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Ac
 
 🔎:
 
-- Japanese Quartz Movement
-- 50 Meters / 165 Feet / 5 ATM Water Resistant
-- 34mm Case Diameter
 - Tailor Collection
+- Japanese Quartz Movement
+- 34mm Case Diameter
+- 50 Meters / 165 Feet / 5 ATM Water Resistant
 - Mineral Crystal
 
 [Visítala!!!](https://www.amazon.es/dp/B00M7NEPDG/?tag=tolees-21)

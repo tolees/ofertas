@@ -25,9 +25,9 @@ Tienes [Personaliza tu Cuadro con la Imagen que más te guste! Lienzos Personali
 
 🔎:
 
-- Dale a personalizar y coloca la imagen que MÁS TE GUSTE! Personaliza como tu lo desees.
-- Lienzo de ALTA CALIDAD! Recomendado siempre por nuestros clientes. Tu pon tu foto y nosotros nos encargamos de dejarlo chulo!
 - Usamos una madera ideal para la fabricación de bastidores. Nuestros lienzos de 320gr son especialmente resistentes.
+- Lienzo de ALTA CALIDAD! Recomendado siempre por nuestros clientes. Tu pon tu foto y nosotros nos encargamos de dejarlo chulo!
+- Dale a personalizar y coloca la imagen que MÁS TE GUSTE! Personaliza como tu lo desees.
 - Todos nuestros lienzos son FABRICADOS ARTESANALMENTE. Ponemos el máximo empeño en lograr una calidad superior en nuestros productos para que lleguen a tus manos.
 
 [Comprar!!!](https://www.amazon.es/dp/B089FWJQ9Z/?tag=tolees-21)
