@@ -25,9 +25,9 @@ Está [Avengers - Martillo de Thor para disfraz de niño  Talla única infantil 
 
 ℹ️:
 
-- Es adecuado para niños a partir de 6 años
 - Tipo de producto: accesorio infantil
 - El producto representa al martillo de Thor
+- Es adecuado para niños a partir de 6 años
 - El paquete incluye 1 unidad
 - Ayuda a completar el disfraz de Thor
 

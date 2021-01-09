@@ -26,9 +26,9 @@ Tienes [Orbegozo TH 8000 - Toallero eléctrico  fácil instalación  seca y cali
 ℹ️:
 
 - Toallero eléctrico Orbegozo con acabado en color blanco
-- Seca y mantiene calientes las toallas
 - Fácil instalación para la que se incorporan accesorios para su colocación vertical en el cuarto de baño
-- Conexión 230 V ~ 50 Hz
 - Potencia de 95W con indicador luminoso de encendido
+- Seca y mantiene calientes las toallas
+- Conexión 230 V ~ 50 Hz
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0055ZNGWO/?tag=tolees-21)

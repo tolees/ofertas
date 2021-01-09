@@ -26,7 +26,7 @@ Tienes [NICI Glubschis Peluche  45565 ](https://www.amazon.es/dp/B07Z9R9ZLP/?tag
 🔎:
 
 - El agua es genial, especialmente engrandes toboganesde agua
-- Diseño moderno y funcional
 - De la marca NICI
+- Diseño moderno y funcional
 
 [Comprar!!!](https://www.amazon.es/dp/B07Z9R9ZLP/?tag=tolees-21)

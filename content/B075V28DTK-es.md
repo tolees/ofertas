@@ -26,9 +26,9 @@ En este momento está [Severin KA 4811 Cafetera Semi-Automática  820 W  Negro  
 🔎:
 
 - Selección de aroma ajustable a dos niveles, para tomar el café a su gusto
+- Nivel de molido y cantidad de café ajustables (2 / 4 / 6 tazas)
+- El molinillo se puede desactivar para usar café molido
 - Diseño compacto de alta calidad: solo 17 cm de ancho
 - Cafetera con unidad de molido integrada (mecanismo cónico de acero inoxidable), para un placer supremo del café a partir de granos sin moler
-- El molinillo se puede desactivar para usar café molido
-- Nivel de molido y cantidad de café ajustables (2 / 4 / 6 tazas)
 
 [Aquí!!!](https://www.amazon.es/dp/B075V28DTK/?tag=tolees-21)

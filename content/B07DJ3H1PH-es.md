@@ -25,10 +25,10 @@ Está [Geox U Calgary B  Zapatos Derby Hombre  Negro  Black C9999   47 EU](https
 
 ℹ️:
 
+- Perforierte Sohle mit einer inneren Membran – ist atmungsaktiv & wasserundurchlässig
 - Der U Calgary B für Herren von Geox ist ein eleganter Halbschuh für Beruf und Alltag.
+- Gepolsterte Innensohle für angenehmen Tragekomfort
 - Leichte, flexible EVA-Sohle sorgt für optimale Dämpfung
 - Hochwertiges Leder ist strapazierfähig und langlebig
-- Perforierte Sohle mit einer inneren Membran – ist atmungsaktiv & wasserundurchlässig
-- Gepolsterte Innensohle für angenehmen Tragekomfort
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJ3H1PH/?tag=tolees-21)

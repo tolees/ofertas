@@ -25,9 +25,9 @@ Tienes [NBA 2K20](https://www.amazon.es/dp/B07X8Y4FQX/?tag=tolees-21) con precio
 
 🔎:
 
+- El visionario prometedor Sheldon Candis dirige la experiencia cinematográfica MyCAREER más impresionante visualmente hasta la fecha
+- Tome decisiones sobre cada aspecto del potencial de su MyPLAYER, incluida la elección de su propia adquisición
 - Con más de 100 arquetipos y 50 insignias nuevas, las combinaciones son casi infinitas
 - Experimente un vecindario más vivo, respirador y activo
-- Tome decisiones sobre cada aspecto del potencial de su MyPLAYER, incluida la elección de su propia adquisición
-- El visionario prometedor Sheldon Candis dirige la experiencia cinematográfica MyCAREER más impresionante visualmente hasta la fecha
 
 [Comprar!!!](https://www.amazon.es/dp/B07X8Y4FQX/?tag=tolees-21)
