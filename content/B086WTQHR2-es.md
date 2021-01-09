@@ -25,8 +25,8 @@ Ahora mismo tienes [AXE Pack Ahorro Desodorante Dark Temptation 2 x 150 ml](http
 
 🔎:
 
-- Ofrece una protección duradera y eficaz contra el sudor y los malos olores
-- Tiene un aplicación rápida que ayudará a mantenerte fresco y seco
 - AXE Edición Especial Sex Education Pack Ahorro Desodorante Dark Temptation 2 X 150 ml
+- Tiene un aplicación rápida que ayudará a mantenerte fresco y seco
+- Ofrece una protección duradera y eficaz contra el sudor y los malos olores
 
 [Visítala!!!](https://www.amazon.es/dp/B086WTQHR2/?tag=tolees-21)
