@@ -25,10 +25,10 @@ Está [HOMCOM Trampolín Profesional Cama Elástica Multifuncional Hexagonal par
 
 ℹ️:
 
-- ✅TRAMPOLÍN PROFESIONAL FITNESS perfecto para completar tu gimnasio en casa.
-- ✅MEDIDAS: Φ122x 122/130/138 (Al) cm. Soporta 100 kg de peso.
-- ✅BASE CON 7 PATAS. Es adecuado para usuarios tanto infantiles como adultos.
 - ✅MANILLAR REGULABLE en 3 niveles distintos de altura.
 - ✅APTO PARA EXTERIORES. Sus materiales están pensados tanto para uso en interiores como en exteriores.
+- ✅BASE CON 7 PATAS. Es adecuado para usuarios tanto infantiles como adultos.
+- ✅MEDIDAS: Φ122x 122/130/138 (Al) cm. Soporta 100 kg de peso.
+- ✅TRAMPOLÍN PROFESIONAL FITNESS perfecto para completar tu gimnasio en casa.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08JGST1HV/?tag=tolees-21)

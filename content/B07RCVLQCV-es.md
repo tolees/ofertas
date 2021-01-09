@@ -26,7 +26,7 @@ Ahora mismo tienes [Columbia Zero Rules Camisa Técnica De Manga Corta con Estam
 🔎:
 
 - Talla: S
-- Columbia Zero Rules camisa técnica de manga corta con estampado
 - Color: White Csc topo lines
+- Columbia Zero Rules camisa técnica de manga corta con estampado
 
 [Visítala!!!](https://www.amazon.es/dp/B07RCVLQCV/?tag=tolees-21)

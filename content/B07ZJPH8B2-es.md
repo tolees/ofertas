@@ -25,10 +25,10 @@ Ahora mismo tienes [Nike Air Zoom Pegasus 37  Zapatillas para Correr Mujer  Negr
 
 🔎:
 
-- La banda del metatarso se adapta al tamaño del pie.
-- La espuma en la entresuela es ligera.
 - Marca: Nike.
-- Parte superior translúcida.
+- La banda del metatarso se adapta al tamaño del pie.
 - Amortiguador de gas Air Zoom en la parte delantera.
+- Parte superior translúcida.
+- La espuma en la entresuela es ligera.
 
 [Visítala!!!](https://www.amazon.es/dp/B07ZJPH8B2/?tag=tolees-21)

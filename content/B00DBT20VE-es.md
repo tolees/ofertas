@@ -25,10 +25,10 @@ Tienes [Zodiac W78055 - Juego de 6 Secciones de Mangueras Twist Lock  6 x 1 m  p
 
 ℹ️:
 
+- Sistema de conexión muy simple entre las mangueras, el limpiafondos y la toma del limpiafondos de la piscina gracias a la tecnología única Twist lock para un cierre rápido, seguro y estanco
 - Compatible con los modelos de limpiafondos hidráulicos Zodiac T3, T5 Duo y MX, Ideal como recambio de las mangueras originales de su limpiafondos o para alargar las mangueras en el caso de piscinas más grandes
 - Juego de 6 secciones de mangueras Twist Lock (1m cada unidad) para la conexión de su equipo hidráulico al skimmer o a la toma específica de limpiafondos de su piscina
-- Sistema de conexión muy simple entre las mangueras, el limpiafondos y la toma del limpiafondos de la piscina gracias a la tecnología única Twist lock para un cierre rápido, seguro y estanco
-- Material resistente a los tratamientos normales del agua para una larga vida de las mangueras, Garantía de 1 año
 - Contenido: 1 Zodiac juego de 6 secciones de mangueras Twist Lock patentadas (6x1m), Azul, AnxAlxPr: 100 x 17 x 12 cm, Material: plástico PVC, W78055
+- Material resistente a los tratamientos normales del agua para una larga vida de las mangueras, Garantía de 1 año
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00DBT20VE/?tag=tolees-21)

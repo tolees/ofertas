@@ -26,7 +26,7 @@ Está [Juego de Tronos SDTSDT27344 - Jarra para cerveza de cristal  diseño Targ
 ℹ️:
 
 - Jarras Juego de Tronos serie tv
-- Para los fans de Juego de Tronos
 - Merchandising oficial de Juego de Tronos
+- Para los fans de Juego de Tronos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B008D1FZ1C/?tag=tolees-21)
