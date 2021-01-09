@@ -27,8 +27,8 @@ En este momento está [Black+Decker KA161BC-QS - Lijadora de Detalles  55 W  230
 
 - Velocidad sin carga de 11.000 rpm y diámetro de órbita de 1.5mm
 - Lijadora eléctrica Mouse de 55W de potencia que integra una punta de detalles diseñada para trabajar en lugares de díficil acceso con facilidad y precisión
-- Adecuada para eliminar pintura o barniz, eliminar óxido y lijar en espacios de difícil acceso
 - Incluye: set accesorios con hojas para lijar y bolsa de transporte
+- Adecuada para eliminar pintura o barniz, eliminar óxido y lijar en espacios de difícil acceso
 - Fijación tipo velcro para un cambio fácil de los accesorios.
 
 [Aquí!!!](https://www.amazon.es/dp/B005S2X3MC/?tag=tolees-21)

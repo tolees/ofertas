@@ -25,8 +25,8 @@ Ahora mismo tienes [Levi s Global Vulca-Low  Zapatillas Hombre  Blanco  R White 
 
 🔎:
 
+- A estrenar y genuina. Somos un vendedor autorizado de Levis.
 - Ver descripción del producto para obtener más información.
 - Levis Blanco Zapatillas bajas de lona Sherwood
-- A estrenar y genuina. Somos un vendedor autorizado de Levis.
 
 [Visítala!!!](https://www.amazon.es/dp/B07SFJBC2N/?tag=tolees-21)

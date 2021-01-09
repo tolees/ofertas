@@ -25,10 +25,10 @@ En este momento está [Mimacup - Copa menstrual Lavanda Talla S](https://www.ama
 
 🔎:
 
-- Base lisa que facilita la introducción, con finos relieves para que se adhiera con facilidad a las paredes vaginales
 - Cuenta con un tirador pequeño y contiene líneas antideslizantes
-- Copa libre de látex, BPA, plastificantes, aditivos químicos, perfumentes y blanqueantes, con medidor para controlar el flujo
 - Tiene una base blandita y un punto de más dureza en la zona del borde que ayuda a la manipulación
+- Copa libre de látex, BPA, plastificantes, aditivos químicos, perfumentes y blanqueantes, con medidor para controlar el flujo
+- Base lisa que facilita la introducción, con finos relieves para que se adhiera con facilidad a las paredes vaginales
 - Fabricada con una silicona médica 100% hipoalergénica
 
 [Aquí!!!](https://www.amazon.es/dp/B01HZZ3UDG/?tag=tolees-21)

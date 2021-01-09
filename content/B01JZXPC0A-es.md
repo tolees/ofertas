@@ -25,8 +25,8 @@ Tienes [Pocket POP! Keychain - Naruto Shippuden: Naruto](https://www.amazon.es/d
 
 ℹ️:
 
-- Cada personaje mide alrededor de 5 cm de altura
 - Viene embalado en una caja con ventanas ilustrada
+- Cada personaje mide alrededor de 5 cm de altura
 - Material 100% vinilo
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01JZXPC0A/?tag=tolees-21)

@@ -25,10 +25,10 @@ Está [ISONA-SY - Taupe  37EU - Botín para Mujer Hecho en Serraje.](https://www
 
 ℹ️:
 
-- Botín cordones
 - Botín Plano
-- Botín serraje
-- Forro interior de Piel
+- Botín cordones
 - Hecho en España
+- Forro interior de Piel
+- Botín serraje
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08HDNMHX6/?tag=tolees-21)

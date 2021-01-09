@@ -25,10 +25,10 @@ Está [Be Cool Seat Asiento para el Patín  Universal para Plataforma Skate Be C
 
 ℹ️:
 
-- Fácil instalación
-- Con manillar
-- Se necesita plataforma Skate Be Cool
 - Arneses incluídos para evitar caídas accidentales del pequeño
+- Fácil instalación
+- Se necesita plataforma Skate Be Cool
 - Adecuado para niños desde un año y medio hasta los 20 kg
+- Con manillar
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00ZI9Y7L6/?tag=tolees-21)
