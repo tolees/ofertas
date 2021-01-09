@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MSI Modern 14 A10RB-663XES - Ordenador p al 60.00 % de descuento'
-date: 2020-12-26 12:01:42
+date: 2021-01-09 00:54:14
 image: 'https://m.media-amazon.com/images/I/41QOitTFl3L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,11 +26,11 @@ Ahora mismo tienes [MSI Modern 14 A10RB-663XES - Ordenador portátil de 14" Full
 🔎:
 
 - Memoria RAM 16GB DDR IV (2666MHz)
-- Sin sistema operativo
-- Pantalla de 14" FHD (1920*1080), IPS-Level 60Hz 72%NTSC Thin Bezel, close to 100%sRGB
+- Procesador Intel Core Comet lake i7-10510u
 - Tarjeta gráfica Nvidia Geforce MX250-2GB GDDR5
 - Una batería de polímero de litio de 50 Wh proporciona hasta 10 horas de uso en movimiento.
-- Procesador Intel Core Comet lake i7-10510u
 - Almacenamiento 512GB SSD NVMe PCIe
+- Sin sistema operativo
+- Pantalla de 14" FHD (1920*1080), IPS-Level 60Hz 72%NTSC Thin Bezel, close to 100%sRGB
 
 [Visítala!!!](https://www.amazon.es/dp/B07YQGPBPB/?tag=tolees-21)

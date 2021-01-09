@@ -25,8 +25,8 @@ Tienes [adidas GSG-9.7  Zapatillas Hombre  Negro  Black1/black1/black1   42 2/3 
 
 🔎:
 
+- Black
 - adulto
 - Textile
-- Black
 
 [Comprar!!!](https://www.amazon.es/dp/B00AP9CRLQ/?tag=tolees-21)

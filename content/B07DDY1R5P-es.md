@@ -25,7 +25,7 @@ Tienes [Only Onlqueen L/s Long Cardigan Knt Noos Chaqueta Punto  Multicolor  Mis
 
 ℹ️:
 
-- Cárdigan
 - De punto
+- Cárdigan
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DDY1R5P/?tag=tolees-21)
