@@ -25,11 +25,11 @@ Tienes [Beurer TS15 Calientacamas individual con tiras de sujeción  transpirabl
 
 ℹ️:
 
-- 3 niveles de temperatura con indicador luminoso
-- Calientacamas hecho de tela no tejida en la cara superior e inferior
-- Lavable a máquina: la superficie se puede lavar en la lavadora a 30 grados, solo tiene que desmontar y desconectar el cable de la alimentación
-- Calientacamas con fijaciones en el colchón que evitan su desplazamiento
 - Vataje (W): 65.0
+- Lavable a máquina: la superficie se puede lavar en la lavadora a 30 grados, solo tiene que desmontar y desconectar el cable de la alimentación
+- Calientacamas hecho de tela no tejida en la cara superior e inferior
+- Calientacamas con fijaciones en el colchón que evitan su desplazamiento
+- 3 niveles de temperatura con indicador luminoso
 - Transpirable: permite utilizar la manta con la máxima comodidad e higiene
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B075LJLD5S/?tag=tolees-21)

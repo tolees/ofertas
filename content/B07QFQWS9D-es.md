@@ -25,10 +25,10 @@ Tienes [G-STAR RAW Roxic Tapered Cargo Pantalones  Negro  Raven 4893-976   30W /
 
 🔎:
 
-- Bajo ajustable con cinta
-- Logotipo de G-Star RAW en el bolsillo para monedas y etiqueta tejida en el bajo
-- Cierre de botones y cremallera
 - Talle medio
+- Logotipo de G-Star RAW en el bolsillo para monedas y etiqueta tejida en el bajo
+- Bajo ajustable con cinta
+- Cierre de botones y cremallera
 - Cierre de botones y cremallera
 
 [Comprar!!!](https://www.amazon.es/dp/B07QFQWS9D/?tag=tolees-21)

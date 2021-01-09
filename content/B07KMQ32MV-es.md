@@ -26,9 +26,9 @@ Ahora mismo tienes [Player Unknown s Battlegrounds](https://www.amazon.es/dp/B07
 🔎:
 
 - Incluye tres mapas principales en el lanzamiento y múltiples modos de juego, incluido el modo Guerra, la conquista y un campo de tiro para principiantes
-- Playerunknown’s Battlegrounds es un intenso battle royale donde 100 jugadores luchan entre ellos con la intención de sobrevivi
 - Sistema de progresión con misión diaria, semanal y avance de jugadores basado en XP
 - Función de Partida Personalizada
+- Playerunknown’s Battlegrounds es un intenso battle royale donde 100 jugadores luchan entre ellos con la intención de sobrevivi
 - Salta, reúne suministros y burla a tus oponentes en tres mapas únicos para ser el último en pie
 
 [Visítala!!!](https://www.amazon.es/dp/B07KMQ32MV/?tag=tolees-21)

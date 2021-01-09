@@ -25,14 +25,14 @@ Ahora mismo tienes [Einhell 4330992 MINI SIERRA CIRCULAR TC-CS 860 Kit  450 W  2
 
 🔎:
 
+- Protección de sobrecarga
+- Empuñadura antideslizante
+- Hoja de sierra HSS con 80 dientes para madera maciza
 - Disco de corte de diamante para azulejos
 - Placa base de aluminio
-- Dispositivo de aspiración
-- Protección de sobrecarga
+- Profundidad de corte regulable sin niveles
 - Hoja de sierra de metal duro con 20 dientes para contrachapado
 - Herramienta para el cambio de hoja de sierra
-- Hoja de sierra HSS con 80 dientes para madera maciza
-- Profundidad de corte regulable sin niveles
-- Empuñadura antideslizante
+- Dispositivo de aspiración
 
 [Visítala!!!](https://www.amazon.es/dp/B00ND7XXPQ/?tag=tolees-21)

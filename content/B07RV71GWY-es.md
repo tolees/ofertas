@@ -25,10 +25,10 @@ Está [ARCANITE - Tarjeta de memoria microSDXC de 256 GB con adaptador SD  A1  U
 
 ℹ️:
 
-- Velocidad de lectura de hasta 90 MB/s; velocidad de escritura de hasta 70 MB/s; la velocidad de transferencia dependerá del entorno operativo, del equipo y de otros factores
 - Tarjeta de memoria microSDXC de 256GB con adaptador SD; UHS-1 U3, A1, v30, 4K Ultra HD, Clase 10; para cámaras, tablets, smartphones y otros dispositivos
 - Fabricada en Taiwán; resistente al agua, a los golpes, a los rayos X y a los cambios de temperatura
 - Compatible con dispositivos que funcionan con tarjetas microSDXC
 - Perfecta para almacenar documentos, fotos y vídeos
+- Velocidad de lectura de hasta 90 MB/s; velocidad de escritura de hasta 70 MB/s; la velocidad de transferencia dependerá del entorno operativo, del equipo y de otros factores
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07RV71GWY/?tag=tolees-21)

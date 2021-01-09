@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Desigual Accessories PU Long Wallet  Lar al 28.61 % de descuento'
-date: 2021-01-06 16:16:47
+date: 2021-01-09 11:28:44
 image: 'https://m.media-amazon.com/images/I/51P9UQ9TeAL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,7 +25,7 @@ Está [Desigual Accessories PU Long Wallet  Largo Walet. para Mujer  Negro  U](h
 
 ℹ️:
 
-- negro
 - Diseño, accesorios, carteras, bolso largo, color negro
+- negro
 
 [Ver la oferta!!](https://www.amazon.es/dp/B083YHDHY6/?tag=tolees-21)

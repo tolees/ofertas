@@ -25,10 +25,10 @@ En este momento está [LUCK Extreme 3.0 MTB Zapatillas de Ciclismo  Adultos Unis
 
 🔎:
 
-- 3 velcros para una sujeción perfecta.
-- Construida en una sola pieza, sin costuras interiores.
-- Es recomendable pedir un número más, del número que usamos a diario en calzado de calle.
 - Suela de Carbono, muy rígida y ligera.
+- 3 velcros para una sujeción perfecta.
+- Es recomendable pedir un número más, del número que usamos a diario en calzado de calle.
+- Construida en una sola pieza, sin costuras interiores.
 - Puntera y trasera de refuerzo.
 
 [Aquí!!!](https://www.amazon.es/dp/B08HH8W98C/?tag=tolees-21)

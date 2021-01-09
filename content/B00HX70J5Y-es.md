@@ -25,10 +25,10 @@ Tienes [Bosch PFS 5000 E - Sistema de pulverización de pintura  1200 W  2 depó
 
 ℹ️:
 
-- Suministro constante de pintura incluso al realizar trabajos por encima de la cabeza o cerca del suelo, gracias al ConstantFeed
-- Incluye: PFS 5000 E, 2 depósitos para pintura de 1000 ml con tapa, boquillas para pintura de paredes, esmalte y barniz, filtro para pintura, cepillo de limpieza, caja de cartón
 - ¡Nota! El cepillo de limpieza está incluido en el compartimento superior del dispositivo
-- Posibilidad de regular la cantidad de pintura aplicada mediante el caudal de aire de regulación continúa
 - Adecuada para pinturas sin diluir para pared o madera, además de para barnices y esmaltes (tecnología ALL Paint)
+- Incluye: PFS 5000 E, 2 depósitos para pintura de 1000 ml con tapa, boquillas para pintura de paredes, esmalte y barniz, filtro para pintura, cepillo de limpieza, caja de cartón
+- Suministro constante de pintura incluso al realizar trabajos por encima de la cabeza o cerca del suelo, gracias al ConstantFeed
+- Posibilidad de regular la cantidad de pintura aplicada mediante el caudal de aire de regulación continúa
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00HX70J5Y/?tag=tolees-21)

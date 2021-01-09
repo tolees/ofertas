@@ -25,10 +25,10 @@ Tienes [CASIO SL-310UC-GN - Calculadora  0.8 x 7 x 11.8 cm  color Verde](https:/
 
 🔎:
 
-- Raíz Cuadrada y Cálculo de unidades de tiempo
 - 8 teclas memoria y Tecla de símbolo + / -
-- Subdivisión en miles y Tecla de corrección rápida
 - Pantalla LC extra grande de 10 dígitos
+- Raíz Cuadrada y Cálculo de unidades de tiempo
+- Subdivisión en miles y Tecla de corrección rápida
 - Calculación de impuestos y de porcentajes
 
 [Comprar!!!](https://www.amazon.es/dp/B076B4BCQ9/?tag=tolees-21)

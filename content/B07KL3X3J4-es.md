@@ -25,8 +25,8 @@ Tienes [adidas W E Lin Slim T T-Shirt  Mujer  Black/White  XS](https://www.amazo
 
 🔎:
 
-- Soft fabric
 - Adidas logo
+- Soft fabric
 - Regular fit
 
 [Comprar!!!](https://www.amazon.es/dp/B07KL3X3J4/?tag=tolees-21)

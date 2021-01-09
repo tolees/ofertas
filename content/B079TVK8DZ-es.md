@@ -25,10 +25,10 @@ En este momento está [Pillars of Eternity II: Deadfire - Ultimate Edition](http
 
 🔎:
 
-- Mejora tu nave y tu tripulación y elige qué habilidades desarrollar para sobrevivir a los peligrosos encuentros que te esperan por el camino
-- Construye y personaliza tu equipo: elige entre 7 compañeros diferentes para que te acompañen en tu búsqueda y asígnales diferentes clases y complejas habilidades a cada uno
-- Enriquecido con tecnología y características de vanguardia, Deadfire parte de la base del clásico juego D&D, con gráficos mejorados y mecánicas de juego más profundas, brindándote una aventura enteramente hecha a mano donde tus decisiones verdaderamente importan
-- Descubre la nueva región de Deadfire: planea el curso de tu navegación y explora las exóticas islas de la región del archipiélago
 - Lidera a tu nave a través de los mares: sirviéndote de refugio en el mar, tu nave es mucho más que un simple vehículo de exploración
+- Enriquecido con tecnología y características de vanguardia, Deadfire parte de la base del clásico juego D&D, con gráficos mejorados y mecánicas de juego más profundas, brindándote una aventura enteramente hecha a mano donde tus decisiones verdaderamente importan
+- Construye y personaliza tu equipo: elige entre 7 compañeros diferentes para que te acompañen en tu búsqueda y asígnales diferentes clases y complejas habilidades a cada uno
+- Descubre la nueva región de Deadfire: planea el curso de tu navegación y explora las exóticas islas de la región del archipiélago
+- Mejora tu nave y tu tripulación y elige qué habilidades desarrollar para sobrevivir a los peligrosos encuentros que te esperan por el camino
 
 [Aquí!!!](https://www.amazon.es/dp/B079TVK8DZ/?tag=tolees-21)

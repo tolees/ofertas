@@ -27,7 +27,7 @@ Tienes [Maxell 19040805 Pila Boton Litio CR-2032  Blister 5 Pilas ](https://www.
 
 - Model Number: MACR2032-5
 - Package Dimensions : 12.0L x 5.0W x 1.0H (centimeters)
-- Item Package Quantity: 1
 - Package Weight: 50 grams
+- Item Package Quantity: 1
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000ZLTYAG/?tag=tolees-21)

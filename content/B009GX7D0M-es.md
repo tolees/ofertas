@@ -25,10 +25,10 @@ Tienes [Verbatim 49071 - Memoria USB de 128 GB  10 MB/s   color negro](https://w
 
 ℹ️:
 
-- Conectividad USB 2.0
-- Retractable, por proteger la enchufe del producto
-- Capacidad de almacenamiento 128 GB
 - Velocidad de lectura mínima: 10 MB/s
+- Retractable, por proteger la enchufe del producto
 - Velocidad de escritura mínima: 4 MB/s
+- Capacidad de almacenamiento 128 GB
+- Conectividad USB 2.0
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B009GX7D0M/?tag=tolees-21)

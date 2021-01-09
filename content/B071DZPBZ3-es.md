@@ -25,10 +25,10 @@ En este momento está [Belkin batería externa Pocket Power 15K  power bank  iPh
 
 🔎:
 
-- Salida total de 3,4 A una para carga rápida de dispositivos; entrada total de corriente de 2 A que facilita una recarga de la batería muy veloz; 4 indicadores LED informan sobre el nivel de la batería
-- Portátil y elegante: el diseño compacto y fino es óptimo para la portabilidad y el elegante color negro de la resistente carcasa de plástico se fusiona con cualquier dispositivo
+- Nunca te quedes sin batería: batería externa portátil recargable de 15000 mAh compuesta de celdas de polímero que te ofrece corriente para cargar tu smartphone hasta 5 veces
 - Lista de verificación de seguridad de 6 puntos de Belkin: incluye sensores que monitorizan el calor, el voltaje y los circuitos para que la batería no se recaliente y dañe tus dispositivos
 - Si tu dispositivo sufre daños debido a una descarga eléctrica estando correctamente conectado al cargador, Belkin lo reparará o reemplazará
-- Nunca te quedes sin batería: batería externa portátil recargable de 15000 mAh compuesta de celdas de polímero que te ofrece corriente para cargar tu smartphone hasta 5 veces
+- Salida total de 3,4 A una para carga rápida de dispositivos; entrada total de corriente de 2 A que facilita una recarga de la batería muy veloz; 4 indicadores LED informan sobre el nivel de la batería
+- Portátil y elegante: el diseño compacto y fino es óptimo para la portabilidad y el elegante color negro de la resistente carcasa de plástico se fusiona con cualquier dispositivo
 
 [Aquí!!!](https://www.amazon.es/dp/B071DZPBZ3/?tag=tolees-21)

@@ -26,9 +26,9 @@ En este momento está [10 PCS Broca Diamante  6mm  8mm  10mm  14mm  16mm  18mm  
 🔎:
 
 - RECUBRIMIENTO DE DIAMANTE: Punta de broca toma revestimiento de diamante ( calibre 80) de manera uniforme, se puede aumentar velocidad de perforación, y es más afilado que brocas de diamante generales
-- ABERTURA LATERAL Y MARCADO CON LÁSER: Con el diseño de apertura lateral, puede eliminar los residuos fácilmente para mantener la broca limpia; utilizan láser para marcar diferente tamaño en cada broca, es más claro y duradero que otras brocas
-- 10 TAMAÑOS: 6 mm, 8 mm, 10 mm, 14 mm, 16 mm, 18 mm, 22 mm, 35 mm, 40 mm, 50 mm; es perfecto para taladrar vidrio, botellas, baldosas, tarros de bloques, cerámica, porcelana, piedra clara de granito
 - ALTA CALIDA Y FÁCIL DE INSTALAR EN TALADRO: Superficie de broca toma tratamiento de níquel, es favorable para prolongar vida útil y mejorar resistencia a corrosión superficial; cuerpo de broca es fabricado de acero al carbono; combinación de recubrimiento y acero al carbono, es favorable que instalen brocas en taladro fuertemente
+- ABERTURA LATERAL Y MARCADO CON LÁSER: Con el diseño de apertura lateral, puede eliminar los residuos fácilmente para mantener la broca limpia; utilizan láser para marcar diferente tamaño en cada broca, es más claro y duradero que otras brocas
 - PAQUETE: 10x Tacklife AHS02C Broca de diamante, 1x Caja de papel, 1x Manual de usuario
+- 10 TAMAÑOS: 6 mm, 8 mm, 10 mm, 14 mm, 16 mm, 18 mm, 22 mm, 35 mm, 40 mm, 50 mm; es perfecto para taladrar vidrio, botellas, baldosas, tarros de bloques, cerámica, porcelana, piedra clara de granito
 
 [Aquí!!!](https://www.amazon.es/dp/B074W8QXYV/?tag=tolees-21)

@@ -26,14 +26,14 @@ Tienes [The North Face Millerton Chubasquero  Hombre  Verde  New Taupe   S](http
 🔎:
 
 - Compuesto
-- Corte estándar
-- Capucha fija y ajustable para mayor protección
-- Impermeable
-- Bolsillos cubiertos para las manos con cremallera de seguridad y detalle de malla
-- Lavado a máquina
-- Cierre: Cremallera
 - Exterior DryVent de dos capas, impermeable, transpirable y cortavientos con costuras selladas y forro de tafetán para mayor confort
+- Corte estándar
 - Cordón regulable en el bajo para mejorar el ajuste
+- Impermeable
+- Capucha fija y ajustable para mayor protección
+- Lavado a máquina
+- Bolsillos cubiertos para las manos con cremallera de seguridad y detalle de malla
+- Cierre: Cremallera
 - Composición: 100% Poliéster
 
 [Comprar!!!](https://www.amazon.es/dp/B07M9CDDCJ/?tag=tolees-21)

@@ -25,10 +25,10 @@ Ahora mismo tienes [Madeira Hilos de Coser y Bordar  Exclusiva Caja de 30 Hilos 
 
 🔎:
 
-- ★ Elegante Cómoda Madeira con 30 carretes de hilo Polyneon de 1000 metros para bordado y costura
-- ★ Especial Idea Regalo para aficionados de Bordado y Costura
-- ★ Este hilo permite realizar bordados y costuras resistentes, brillantes y suaves sin complicaciones durante la producción
 - ★ Hilos de altísima calidad fabricados en Alemania, robustos y resistentes a la luz del sol, a la fricción y a los varios productos químicos. Aptos para fluir siempre y sin problemas también a alta velocidad en vuestras bordadoras o máquinas de coser
 - ★ Hilos hechos por distintas fibras largas que ofrecen mayor brillo, suavidad, resistencia y elevada fiabilidad. Aconsejado para todas las máquinas de coser y las bordadoras. Resultan perfectos también los proyectos de quilt/acolchado
+- ★ Especial Idea Regalo para aficionados de Bordado y Costura
+- ★ Este hilo permite realizar bordados y costuras resistentes, brillantes y suaves sin complicaciones durante la producción
+- ★ Elegante Cómoda Madeira con 30 carretes de hilo Polyneon de 1000 metros para bordado y costura
 
 [Visítala!!!](https://www.amazon.es/dp/B083DZWFH7/?tag=tolees-21)
