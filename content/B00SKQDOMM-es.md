@@ -25,10 +25,10 @@ Tienes [Midland G7 PRO - Walkie-Talkie  negro](https://www.amazon.es/dp/B00SKQDO
 
 ℹ️:
 
-- Numero de canales disponibles 8 pmr446/69 lpd
-- Dispositivos compatibles: Walkies PMR446
 - Permite transmitir en alta o baja potencía, con el fin de incrementar la autonomía de la batería
+- Numero de canales disponibles 8 pmr446/69 lpd
 - La función side tone elimina el molesto ruido al final de la transmisión
 - Potencía de salida de 500 mw
+- Dispositivos compatibles: Walkies PMR446
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00SKQDOMM/?tag=tolees-21)

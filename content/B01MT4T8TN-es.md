@@ -25,10 +25,10 @@ En este momento está [TP-Link EAP110-Outdoor - Punto de acceso  inalámbrico  p
 
 🔎:
 
-- Outdoor proporciona una cobertura inalámbrica estable a una distancia de hasta 200 metros en entornos al aire libre
-- Construido para aplicaciones de Wi-Fi al aire libre, ideal para jardín Wi-Fi
-- Velocidad inalámbrica de hasta 300 Mbps; el software de controlador EAP gratuito permite a los usuarios administrar un solo EAP a cientos de EAP
 - Recinto duradero y resistente a la intemperie para resistir el clima templado. Interfaz: 1 puerto Ethernet 10 / 100M (RJ45)Asegure los puntos de acceso a las paredes o postes con los kits de montaje provistos
+- Outdoor proporciona una cobertura inalámbrica estable a una distancia de hasta 200 metros en entornos al aire libre
 - Requisitos del sistema: Microsoft Windows XP, Vista, Windows 7, Windows 8, Windows10
+- Velocidad inalámbrica de hasta 300 Mbps; el software de controlador EAP gratuito permite a los usuarios administrar un solo EAP a cientos de EAP
+- Construido para aplicaciones de Wi-Fi al aire libre, ideal para jardín Wi-Fi
 
 [Aquí!!!](https://www.amazon.es/dp/B01MT4T8TN/?tag=tolees-21)

@@ -25,9 +25,9 @@ Tienes [FIMO 8020 - Pasta de modelar  color limón  56 g](https://www.amazon.es/
 
 🔎:
 
-- Pasta para modelar
 - Pastillas pre-divididas en 8 porciones para facilitar el corte
-- Colores brillantes para una mezcla perfecta
 - Color limón
+- Colores brillantes para una mezcla perfecta
+- Pasta para modelar
 
 [Comprar!!!](https://www.amazon.es/dp/B000N6M9EG/?tag=tolees-21)

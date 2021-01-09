@@ -25,11 +25,11 @@ Ahora mismo tienes [Sony Alpha 7 II - Cámara evil de fotograma completo con obj
 
 🔎:
 
+- Compatibilidad con lentes con montura tipo E de Sony
 - VIDEOS EXPRESIVOS: crea películas con una calidad visual y de sonido óptimo con un desenfoque de fondo exquisito y la sensibilidad para dar vida a las escenas oscuras
-- DETALLES PRECISOS: sensor de fotograma completo de 24 Mp para ofrecer imágenes óptimas
 - ÓPTIMO PARA: principiantes que quieren un objetivo compacto para tel día a día
 - IMÁGENES NÍTIDAS: estabilización de imagen óptica de 5 ejes para imágenes fijas y para compensar los movimientos de la cámara en vídeo
-- Compatibilidad con lentes con montura tipo E de Sony
+- DETALLES PRECISOS: sensor de fotograma completo de 24 Mp para ofrecer imágenes óptimas
 - RÁPIDA Y PRECISA: la A7 presenta AF híbrido rápido, para obtener un enfoque óptimo; el disparo en ráfaga de 5 fps te ayuda a capturar el momento
 
 [Visítala!!!](https://www.amazon.es/dp/B00Q2KEVA2/?tag=tolees-21)

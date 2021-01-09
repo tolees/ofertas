@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cif - Crema de limpieza - 750 ml al 20.80 % de descuento'
-date: 2021-01-08 01:18:21
+date: 2021-01-09 01:19:55
 image: 'https://m.media-amazon.com/images/I/41pjFnHzKyL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B082VTPHF6/?tag=tolees-21'
 descuento: '20.80'
-average: '2.099166666666667'
+average: '2.097534246575343'
 ---
 
 Está [Cif - Crema de limpieza - 750 ml](https://www.amazon.es/dp/B082VTPHF6/?tag=tolees-21) con 20.80 de descuento por 1.98 EUR (original: 2.5 EUR) en el siguiente enlace!

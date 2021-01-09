@@ -25,10 +25,10 @@ Está [Staedtler 8020-63. Pasta para modelar de color ciruela Fimo Soft. Caja co
 
 ℹ️:
 
-- Disponible en 30 colores intensos y variados, está lista para usar desde el primer momento y es muy fácil de manipular y mezclar.
+- Endurece en el horno un máximo de 30 minutos a una temperatura de 110°C y no se seca al aire ni se endurece en el microondas.
 - Masa suave y ligera de color ciruela para moldear y endurecer en el horno; versátil, perfecta para principiantes y expertos.
 - Arcilla polimérica ideal para elementos decorativos, accesorios y joyas; compatible con FIMO effect, FIMO professional y FIMO kids.
+- Disponible en 30 colores intensos y variados, está lista para usar desde el primer momento y es muy fácil de manipular y mezclar.
 - Pastilla estándar de 57 gramos pre dividida en 8 porciones para facilitar el corte.
-- Endurece en el horno un máximo de 30 minutos a una temperatura de 110°C y no se seca al aire ni se endurece en el microondas.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B000N6OFIY/?tag=tolees-21)
