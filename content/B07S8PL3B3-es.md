@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Zone XT Wns  Zapatillas Deportivas  con un 40.03 % de descuento'
-date: 2020-12-27 10:30:40
+date: 2021-01-09 04:22:08
 image: 'https://m.media-amazon.com/images/I/41BINPp380L._SL200_.jpg'
 comments: true
 category: ofertas

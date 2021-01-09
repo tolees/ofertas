@@ -25,10 +25,10 @@ Está [VISSQH 4 Set Antena WiFi 3dBi de Alta Ganancia Doble Banda 2.4/5.8GHz RP-
 
 ℹ️:
 
-- ★ Paquete: antena Wifi 4x SMA
-- ★ Datos técnicos Interfaz mecánica: conector SMA (pasador de tornillo interno), construcción basculante y giratoria.
 - ★ Aplicaciones: enrutador WiFi, módem de punto de acceso WiFi AP, adaptador USB WiFi, repetidor amplificador de señal WiFi, extensor de rango WiFi,
-- ★ Frecuencia: 2,4 GHz | Impedancia: 50 ohmios | Ganancia: 3dBi
+- ★ Paquete: antena Wifi 4x SMA
 - ★ Conexión: enchufe SMA | Emisión: omnidireccional
+- ★ Frecuencia: 2,4 GHz | Impedancia: 50 ohmios | Ganancia: 3dBi
+- ★ Datos técnicos Interfaz mecánica: conector SMA (pasador de tornillo interno), construcción basculante y giratoria.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08LYW3K6F/?tag=tolees-21)
