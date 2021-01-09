@@ -25,10 +25,10 @@ Está [MISAKO Maletín Portaordenador Mujer JEKA | Maletín para Portátil hasta
 
 ℹ️:
 
-- Maletín para portátil: Permite medidas de ordenador de hasta 15 pulgadas, con un tamaño de 29x39x9cm, ajustándose a la perfección al portátil. Consulta las medidas de tu laptop.
-- Portadocumentos organizador muy práctico: Gracias a su espacio y sus bolsillos organizadores, es perfecto también para llevar documentos y otros objetos complementarios.
-- Bandolera para portátil 15: Con tira bandolera ajustable y extraíble para poder llevarlo cómodamente al hombro o cruzado, o si lo prefieres, en la mano gracias a sus resistentes asas.
-- Maletín de moda para diario, oficina, viajes: Portaordenador y documentos con atractivo efecto desgastado, combinable con múltiples looks.
 - Maletín laptop resistente de piel sintética: Un maletín perfecto para el día a día gracias a lo robustez de sus materiales. Un todoterreno para cualquier ocasión.
+- Maletín para portátil: Permite medidas de ordenador de hasta 15 pulgadas, con un tamaño de 29x39x9cm, ajustándose a la perfección al portátil. Consulta las medidas de tu laptop.
+- Maletín de moda para diario, oficina, viajes: Portaordenador y documentos con atractivo efecto desgastado, combinable con múltiples looks.
+- Bandolera para portátil 15: Con tira bandolera ajustable y extraíble para poder llevarlo cómodamente al hombro o cruzado, o si lo prefieres, en la mano gracias a sus resistentes asas.
+- Portadocumentos organizador muy práctico: Gracias a su espacio y sus bolsillos organizadores, es perfecto también para llevar documentos y otros objetos complementarios.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B084P6PJHL/?tag=tolees-21)
