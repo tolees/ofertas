@@ -25,9 +25,9 @@ En este momento está [Pedigree Pack de Dentastix Fresh de uso Diario para la Li
 
 🔎:
 
-- Gracias a su mezcla de extracto de té verde y aceite de eucalipto se consigue un efecto refrescante demostrado en el aliento
 - Higiene Oral Diaria para Perros
-- La combinación de su textura especial con los ingredientes activos hace que las barritas masticables para perro Pedigree DentaStix FRESH sean tan eficaces para la limpieza dental de tu perro
 - Los snacks de premio para perros de Pedigree tienen bajo contenido en grasa, no llevan azúcar añadido, ni tampoco colorantes ni saborizantes artificiales
+- La combinación de su textura especial con los ingredientes activos hace que las barritas masticables para perro Pedigree DentaStix FRESH sean tan eficaces para la limpieza dental de tu perro
+- Gracias a su mezcla de extracto de té verde y aceite de eucalipto se consigue un efecto refrescante demostrado en el aliento
 
 [Aquí!!!](https://www.amazon.es/dp/B07HF6Z68M/?tag=tolees-21)
