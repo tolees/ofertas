@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Motorola C1001LB+ - Teléfono fijo  color con un 20.01 % de descuento'
-date: 2021-01-09 00:57:02
+date: 2021-01-10 02:10:14
 image: 'https://m.media-amazon.com/images/I/31JuOOQPR5L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00KRE2N8G/?tag=tolees-21'
 descuento: '20.01'
-average: '15.916315789473684'
+average: '15.919999999999998'
 ---
 
 En este momento está [Motorola C1001LB+ - Teléfono fijo  color negro](https://www.amazon.es/dp/B00KRE2N8G/?tag=tolees-21) a 15.99 EUR (original: 19.99 EUR) (20.01 %  de descuento) en el siguiente enlace!
@@ -25,11 +25,11 @@ En este momento está [Motorola C1001LB+ - Teléfono fijo  color negro](https://
 
 🔎:
 
-- Control de volumen del timbre del auricular - 5 niveles y apagado
-- Estación base / dispositivo de seguridad
+- 1 base, expandible hasta 4 auriculares
 - Habilidad para nombrar terminales
 - Modo de marcación - tono / pulso
+- Control de volumen del timbre del auricular - 5 niveles y apagado
 - Habilidad para nombrar terminales
-- 1 base, expandible hasta 4 auriculares
+- Estación base / dispositivo de seguridad
 
 [Aquí!!!](https://www.amazon.es/dp/B00KRE2N8G/?tag=tolees-21)

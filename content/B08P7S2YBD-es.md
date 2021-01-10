@@ -25,10 +25,10 @@ Ahora mismo tienes [LEICKE Twin Mini Pro SoundPod True - Auriculares Inalámbric
 
 🔎:
 
-- Base de carga para hasta 4 cargas, se puede cargar a través de USB-C
 - El diseño dosificador es un verdadero punto de atracción
-- Emparejamiento automático, emparejamiento automático de los auriculares
-- Los auriculares ofrecen un sonido vivo y un diseño elegante
 - Los auriculares se encienden automáticamente, 100 horas en espera
+- Los auriculares ofrecen un sonido vivo y un diseño elegante
+- Emparejamiento automático, emparejamiento automático de los auriculares
+- Base de carga para hasta 4 cargas, se puede cargar a través de USB-C
 
 [Visítala!!!](https://www.amazon.es/dp/B08P7S2YBD/?tag=tolees-21)

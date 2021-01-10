@@ -25,13 +25,13 @@ Tienes [Xiaomi Mi 10T Smartphone 6GB 128GB  Snapdragon 865 con 5G  64MP+20MP Cá
 
 🔎:
 
+- Procesador: snapdragon 865 con 5g, cpu de ocho núcleos con velocidad hasta, 2.84 ghz
+- Tamaño de pantalla: 6.67 inches
+- Carga y batería: 5000 mah (typ)/4920mah (min) batería de alta capacidad, 33 w de carga rápida por cable
+- Pantalla: pantalla dotdisplay de 144hz y 6.67", 2400 x 1080 fhd+
+- Tipo de pantalla: oled
 - Sistema operativo: android
 - Cámaras: 64 mp+13 mp+5 mp triple cámara trasera, cámara frontal ultra clara de 20 mp
-- Carga y batería: 5000 mah (typ)/4920mah (min) batería de alta capacidad, 33 w de carga rápida por cable
 - Nfc: soporta nfc, es compatible con google pay
-- Tipo de pantalla: oled
-- Pantalla: pantalla dotdisplay de 144hz y 6.67", 2400 x 1080 fhd+
-- Tamaño de pantalla: 6.67 inches
-- Procesador: snapdragon 865 con 5g, cpu de ocho núcleos con velocidad hasta, 2.84 ghz
 
 [Comprar!!!](https://www.amazon.es/dp/B08KTD4JDC/?tag=tolees-21)
