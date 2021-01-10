@@ -25,10 +25,10 @@ Está [Motast Altavoz Bluetooth  20W Altavoz Inalámbrico con Mic  Altavoces Blu
 
 ℹ️:
 
-- IP56 impermeable: IP56 a prueba de agua y polvo, lo que significa protección contra chorros de agua pesados. Perfecto para el hogar, cocina, ducha, camping, viajes, senderismo o junto a la piscina y la playa!
-- Ligero y portátil: su exterior está cubierto por una malla tejida suave que aporta elegancia, robustez y durabilidad. El tamaño compacto le permite controlarlo con una sola mano. Se puede colocar fácilmente en una mochila o en un portavasos de bicicleta.
 - Sonido nítido de alta calidad: altavoz adopte los controladores 2x10w de alta potencia, para proporcionar la máxima eficiencia y un mejor sonido y con tecnología de reducción de ruido y una estructura de altavoz única.
 - Amplia compatibilidad: la tecnología bluetooth 4.0 presenta una transmisión de señal más rápida y estable, una calidad de sonido más clara y un menor consumo de energía. Este altavoces potentes compatible con cualquier dispositivo bluetooth.
+- IP56 impermeable: IP56 a prueba de agua y polvo, lo que significa protección contra chorros de agua pesados. Perfecto para el hogar, cocina, ducha, camping, viajes, senderismo o junto a la piscina y la playa!
 - 24 horas de reproducción continua: altavoz portatil con usb, doble controlador, con 5200mah pilla de litio incorporada, 24 horas reproducción sonido superior, reproducir hasta 300 canciones con una sola carga.
+- Ligero y portátil: su exterior está cubierto por una malla tejida suave que aporta elegancia, robustez y durabilidad. El tamaño compacto le permite controlarlo con una sola mano. Se puede colocar fácilmente en una mochila o en un portavasos de bicicleta.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08HJ7J4Y6/?tag=tolees-21)

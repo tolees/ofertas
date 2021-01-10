@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beyond Two Souls al 50.03 % de descuento'
-date: 2021-01-08 15:50:15
+date: 2021-01-10 11:41:50
 image: 'https://m.media-amazon.com/images/I/51Rww76zyoL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B082JNSTWT/?tag=tolees-21'
 descuento: '50.03'
-average: '13.338999999999999'
+average: '12.780833333333332'
 ---
 
 Ahora mismo tienes [Beyond Two Souls](https://www.amazon.es/dp/B082JNSTWT/?tag=tolees-21) a 9.99 EUR (original: 19.99 EUR) (50.03 %  de descuento) en el siguiente enlace!

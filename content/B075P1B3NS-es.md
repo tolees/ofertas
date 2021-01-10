@@ -26,9 +26,9 @@ En este momento está [Marqués de Griñón El Rincón D.O. Vinos de Madrid - 3 
 🔎:
 
 - Maridaje: Es una gran elección para acompañar quesos, foie, aves y risottos
-- Capacidad: 750ml
-- Temperatura de servicio: 18ºC
-- Origen: D. O. Vinos de Madrid
 - Tipo de Uva: Syrah y Garnacha
+- Temperatura de servicio: 18ºC
+- Capacidad: 750ml
+- Origen: D. O. Vinos de Madrid
 
 [Aquí!!!](https://www.amazon.es/dp/B075P1B3NS/?tag=tolees-21)

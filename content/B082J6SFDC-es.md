@@ -25,9 +25,9 @@ Está [mCover - Carcasa rígida para portátiles HP Pavilion X360 14-CDxxxx / 14
 
 ℹ️:
 
-- No es compatible con otros ordenadores portátiles HP, incluidos los de 11,6" HP Pavilion X360 11-nXXX y el portátil HP ENVY X2.
 - Hecho de policarbonato translúcido de alta calidad fabricado en Estados Unidos que es resistente a los golpes. Protegerá tu portátil HP Pavilion X360 14-CDxxxx de 14 pulgadas (14 -CD1053CL, etc.) o 14-DDxxxx series por todas partes.
 - ! Nota: Antes de realizar el pedido, asegúrese de verificar el número de modelo de su portátil ya que esta funda es específica del modelo y no intercambiable.
+- No es compatible con otros ordenadores portátiles HP, incluidos los de 11,6" HP Pavilion X360 11-nXXX y el portátil HP ENVY X2.
 - No es compatible con portátiles HP Pavilion x360 13-axxx / 13-Sxxx de 13,3" como 13-a001/13-a113cl / 13-a155cl / 13-S120 de la serie antes de 2016.
 - Carcasa ligera de 2 piezas (30 oz o 303 g) que se coloca y quita fácilmente. Diseñado para adaptarse perfectamente a los modelos de portátiles convertibles HP Pavilion X360 14-CDxxxx de 14 pulgadas (14-CD1051CL, etc.) 2 en 1 con dimensiones de 32,4 x 22,4 x 2,1 cm o 325,5 x 224,2 x 20,5 mm.
 
