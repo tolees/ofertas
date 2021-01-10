@@ -25,9 +25,9 @@ Está [Lcn - Multinutriente Completo CN BASE  120 Cápsulas](https://www.amazon.
 
 ℹ️:
 
-- Complemento alimenticio de 100 gr
-- Número de modelo del producto: 8437011281029
-- Dimensiones del producto: 10 x 6 x 6 cm
 - 120 Cápsulas
+- Complemento alimenticio de 100 gr
+- Dimensiones del producto: 10 x 6 x 6 cm
+- Número de modelo del producto: 8437011281029
 
 [Ver la oferta!!](https://www.amazon.es/dp/B015KGX1NQ/?tag=tolees-21)

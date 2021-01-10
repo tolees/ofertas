@@ -25,9 +25,9 @@ Tienes [PJ Masks MD-18475 Set Patines y Protecciones  Multicolor  Talla Ajustabl
 
 🔎:
 
-- Producto oficial Pj Masks
-- Set Patines y Protecciones
-- Tipología Juegos de aire libre
 - Licencia 100% original
+- Producto oficial Pj Masks
+- Tipología Juegos de aire libre
+- Set Patines y Protecciones
 
 [Comprar!!!](https://www.amazon.es/dp/B079MJRCLT/?tag=tolees-21)

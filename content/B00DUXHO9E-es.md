@@ -25,8 +25,8 @@ Tienes [Kraken Black Spiced Rum - 700 ml](https://www.amazon.es/dp/B00DUXHO9E/?t
 
 🔎:
 
-- Kraken Rum cuenta con 13 especias exóticas entre las que encontramos la canela, el jengibre y el clavo
-- Llamado así en honor a la bestia del mar, sus mitos e increíbles leyendas. Kraken Rum es intenso, oscuro, misterioso y salvaje
 - Importado desde el Caribe y envejecido en barricas de roble entre 12 a 14 meses
+- Llamado así en honor a la bestia del mar, sus mitos e increíbles leyendas. Kraken Rum es intenso, oscuro, misterioso y salvaje
+- Kraken Rum cuenta con 13 especias exóticas entre las que encontramos la canela, el jengibre y el clavo
 
 [Comprar!!!](https://www.amazon.es/dp/B00DUXHO9E/?tag=tolees-21)

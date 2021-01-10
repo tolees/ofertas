@@ -25,10 +25,10 @@ En este momento está [Taste Of The Wild pienso para gatos con Venado asado y Sa
 
 🔎:
 
-- Ingredientes: Carne de pollo deshidratada, guisantes, boniatos, grasa de pollo, proteína de patata, ciervo asado, salmón ahumado, extracto de pollo, harina de pescado oceánico, metionina, taurina, extracto de raíz de achicoria, tomates, arándanos, frambuesas, extracto de yuca, solubles de fermentación deEnterococcus faecium, Lactobacillus casei, Lactobacillus acidophilus y Saccharomyces cerevesiae, extracto seco de Aspergillus oryzae, cloruro potásico, cloruro sódico, cloruro de colina, vitamina E, proteinato de hierro, proteinato de zinc, proteinato de cobre, yoduro potásico, monohidrato de tiamina (vitamina B1), óxido de manganeso, vitamina C, vitamina A, vitamina H, pantotenato cálcico, sulfato de manganeso, selenito de sodio, vitamina B6, vitamina B12, suplemento de vitamina D, vitamina B2, ácido fólico.
-- Mantener en un lugar fresco y seco
-- Fórmula Rocky Mountain Feline con Venado Asado y Salmón Ahumado
-- United Estates
 - Para todo tipo de razas y edades
+- Fórmula Rocky Mountain Feline con Venado Asado y Salmón Ahumado
+- Mantener en un lugar fresco y seco
+- United Estates
+- Ingredientes: Carne de pollo deshidratada, guisantes, boniatos, grasa de pollo, proteína de patata, ciervo asado, salmón ahumado, extracto de pollo, harina de pescado oceánico, metionina, taurina, extracto de raíz de achicoria, tomates, arándanos, frambuesas, extracto de yuca, solubles de fermentación deEnterococcus faecium, Lactobacillus casei, Lactobacillus acidophilus y Saccharomyces cerevesiae, extracto seco de Aspergillus oryzae, cloruro potásico, cloruro sódico, cloruro de colina, vitamina E, proteinato de hierro, proteinato de zinc, proteinato de cobre, yoduro potásico, monohidrato de tiamina (vitamina B1), óxido de manganeso, vitamina C, vitamina A, vitamina H, pantotenato cálcico, sulfato de manganeso, selenito de sodio, vitamina B6, vitamina B12, suplemento de vitamina D, vitamina B2, ácido fólico.
 
 [Aquí!!!](https://www.amazon.es/dp/B019RIYXP8/?tag=tolees-21)

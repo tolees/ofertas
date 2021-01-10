@@ -25,9 +25,9 @@ Ahora mismo tienes [Orbegozo MS4200 MS 4200-Cortadora  3 velocidades  Color Blan
 
 🔎:
 
-- Botón con 3 velocidades
 - Cuchilla de acero inoxidable
 - Potencia: 150 W
 - Deslizador seguro y extraíble
+- Botón con 3 velocidades
 
 [Visítala!!!](https://www.amazon.es/dp/B007EMFM2I/?tag=tolees-21)

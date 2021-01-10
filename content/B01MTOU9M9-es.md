@@ -25,9 +25,9 @@ Tienes [Nuggela & Sulé Martinn Complemento Alimenticio Para El Cabello - 65 gr.
 
 🔎:
 
-- Martinn 30 + 30 Comprimidos Nuggela & Sulé
 - Ingredientes: quinoa, MSM, levadura de cerveza, extracto de mijo, extracto de cebolla, quercetina, zinc, L-cristina, hierro, selenio, biotinza, vitamina B12, vitaminas del grupo B (B1, B2, B3, B5, B6), cardo mariano, frángula, cola de caballo
-- Nuggela & Sulé Complemento Alimenticio para el Cabello - 65 gr
 - Disfruta de una vida más saludable.
+- Martinn 30 + 30 Comprimidos Nuggela & Sulé
+- Nuggela & Sulé Complemento Alimenticio para el Cabello - 65 gr
 
 [Comprar!!!](https://www.amazon.es/dp/B01MTOU9M9/?tag=tolees-21)

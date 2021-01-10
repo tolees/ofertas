@@ -26,8 +26,8 @@ Está [Casio Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidab
 ℹ️:
 
 - Material de la caja: Acero inoxidable
-- Pulsera: Acero inoxidable
 - Cierre: Cierre plegado de seguridad
+- Pulsera: Acero inoxidable
 - Color de la esfera: Negro
 - Material de la esfera: Mineral
 

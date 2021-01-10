@@ -25,11 +25,11 @@ Está [Plusvive - 365 cápsulas de omega 3 con recubrimiento de gelatina de pesc
 
 ℹ️:
 
+- Respetuoso con el medio ambiente: nuestro aceite de pescado se extrae de anchoas recolectadas de forma sostenible
 - Máxima calidad: este producto es sometido a frecuentes pruebas y cumple con los más altos estándares internacionales, incluidos los de HACCP y GMP
 - Altamente dosificado: cada cápsula contiene 1000 mg de aceite de pescado puro
+- Con cápsulas de gelatina de pescado: a diferencia de la mayoría de los productos de la competencia, que utilizan gelatina de cerdo o de vaca, nuestras cápsulas están hechas exclusivamente de gelatina de pescado
 - 365 cápsulas de omega 3
 - Fabricado en Alemania en una fábrica acreditada
-- Con cápsulas de gelatina de pescado: a diferencia de la mayoría de los productos de la competencia, que utilizan gelatina de cerdo o de vaca, nuestras cápsulas están hechas exclusivamente de gelatina de pescado
-- Respetuoso con el medio ambiente: nuestro aceite de pescado se extrae de anchoas recolectadas de forma sostenible
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07X8VGYF6/?tag=tolees-21)

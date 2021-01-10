@@ -25,10 +25,10 @@ Está [PUMA Liga Baselayer Short Tight Pantalones Cortos  Hombre  Azul  Silver L
 
 ℹ️:
 
-- Diseño ligero
-- DryCELL: material altamente funcional que evacúa el sudor
 - Corte ajustado
-- Material de compresión para mejorar el rendimiento
+- Diseño ligero
 - Tejido de elastano para una elasticidad duradera
+- DryCELL: material altamente funcional que evacúa el sudor
+- Material de compresión para mejorar el rendimiento
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0781VNDXH/?tag=tolees-21)
