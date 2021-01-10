@@ -25,8 +25,8 @@ Tienes [Ana Maria Lajusticia - Cloruro de magnesio – 147 comp. Disminuye el ca
 
 🔎:
 
-- El magnesio contribuye al funcionamiento normal del sistema nervioso y de los músculos.
 - El magnesio contribuye a disminuir el cansancio y la fatiga
+- El magnesio contribuye al funcionamiento normal del sistema nervioso y de los músculos.
 - Las características que diferencian al cloruro de otras fuentes de magnesio son su PH ácido y el efecto laxante alto.
 
 [Comprar!!!](https://www.amazon.es/dp/B00DN9NWQY/?tag=tolees-21)

@@ -25,10 +25,10 @@ Tienes [Tommy Hilfiger Heritage V-Neck Sweater suéter  Azul  Midnight 403   Lar
 
 🔎:
 
+- Logo de Tommy Hilfiger bordado en el pecho
+- Cuello de pico
 - Cinta distintiva en el interior del cuello
 - Corte regular
-- Cuello de pico
-- Logo de Tommy Hilfiger bordado en el pecho
 - Mezcla de nailon y algodón
 
 [Comprar!!!](https://www.amazon.es/dp/B07P8N39NW/?tag=tolees-21)

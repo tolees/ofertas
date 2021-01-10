@@ -26,9 +26,9 @@ Ahora mismo tienes [Tenda ac10 router wifi inalámbrico gigabit ac1200  doble ba
 🔎:
 
 - Puerto internet gigabit y 3 puertos gibabit ethernet
-- Comunica con varios dispositivos a la vez y mejora su comunicación a través de la tecnología mu-mimo
 - 4 antenas omnidireccionales de 5 dbi que ofrecen una señal wifi más fuerte, cubriendo cada rincón donde antes no tenías cobertura
-- Velocidad hasta 1200 mbps para una trasferencia de datos más rápida
+- Comunica con varios dispositivos a la vez y mejora su comunicación a través de la tecnología mu-mimo
 - Administración inteligente de la programación wifi, indicadores led y función de ahorro de energía con la app de tenda
+- Velocidad hasta 1200 mbps para una trasferencia de datos más rápida
 
 [Visítala!!!](https://www.amazon.es/dp/B07DGPYKLP/?tag=tolees-21)

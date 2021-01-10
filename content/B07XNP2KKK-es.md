@@ -25,10 +25,10 @@ Ahora mismo tienes [ivoler Soporte Portátil Mesa 6 Ángulos Ajustables  Aleaci�
 
 🔎:
 
-- ► 6 ángulos ajustables: El soporte portatil mesa de ivoler está diseñado ergonómicamente, con 6 ángulos ajustables (15°/ 20°/ 25°/ 30°/ 35°/ 40°).Le proporcionará la visión perfecta y una posición fija para aliviar el dolor de espalda, la rigidez en el cuello y la muñeca.
 - ► Amplia compatibilidad: Soporte portátil ajustable de ivoler es adecuado para las computadoras portátiles de 10-15.6 pulgadas (menos de 17 pulgadas), compatible para MacBook Air / Pro, Google Pixelbook, Dell XPS, ASUS, Lenovo ThinkPad, HP, HUAWEI, Acer , Samsung Chromebook, Kindle, Tableta, iPad y más. (Si tiene alguna pregunta, contáctenos para que podamos resolver el problema lo antes posible).
+- ► Ligero: Este soporte portátil pesa solo 0.6 libras y se puede plegar rápidamente. Ahorra tiempo y espacio. Cada pedido incluye una pequeña bolsa con cordón que puede llevarlo.
 - ► Disipación de calor: El material de aleación de aluminio se puede absorber y disipar fácilmente. El diseño abierto del soporte para ordenador portátil proporciona una mejor ventilación y enfría la computadora durante el funcionamiento.
 - ► Protector: Hecho de una resistente aleación de aluminio, la parte superior puede soportar un peso máximo de 20 kg; 2 almohadillas de goma en el gancho, 4 almohadillas de silicona antideslizantes en la parte superior e inferior, bordes lisos para evitar que el portátil se deslice y se rasque.
-- ► Ligero: Este soporte portátil pesa solo 0.6 libras y se puede plegar rápidamente. Ahorra tiempo y espacio. Cada pedido incluye una pequeña bolsa con cordón que puede llevarlo.
+- ► 6 ángulos ajustables: El soporte portatil mesa de ivoler está diseñado ergonómicamente, con 6 ángulos ajustables (15°/ 20°/ 25°/ 30°/ 35°/ 40°).Le proporcionará la visión perfecta y una posición fija para aliviar el dolor de espalda, la rigidez en el cuello y la muñeca.
 
 [Visítala!!!](https://www.amazon.es/dp/B07XNP2KKK/?tag=tolees-21)

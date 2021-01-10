@@ -25,8 +25,8 @@ En este momento está [Belkin F8V366bt - Adaptador de casete para reproductores 
 
 🔎:
 
-- Diseñado específicamente para iPhone 8/8+ y iPhone X
 - Se conecta en tu reproductor de MP3 o CD, PDA o en tu ordenador portátil
+- Diseñado específicamente para iPhone 8/8+ y iPhone X
 - Adecuado para reproductores de casete de carga frontal o lateral
 
 [Aquí!!!](https://www.amazon.es/dp/B00XJVBO8O/?tag=tolees-21)
