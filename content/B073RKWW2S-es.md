@@ -25,8 +25,8 @@ Ahora mismo tienes [Reebok Club C 85  Zapatillas  Blanco  White/Light Grey/Gum 0
 
 🔎:
 
-- Textíl, Textíl, Piel , cuero, caucho, Cordones, Zapatillas bajas
-- 1
 - Shoe Width : medium
+- 1
+- Textíl, Textíl, Piel , cuero, caucho, Cordones, Zapatillas bajas
 
 [Visítala!!!](https://www.amazon.es/dp/B073RKWW2S/?tag=tolees-21)
