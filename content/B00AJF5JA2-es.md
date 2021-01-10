@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ybarra Salsa Alioli - 225 ml al 17.65 % de descuento'
-date: 2021-01-02 16:01:50
+date: 2021-01-10 16:57:33
 image: 'https://m.media-amazon.com/images/I/41Ja4G0onML._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00AJF5JA2/?tag=tolees-21'
 descuento: '17.65'
-average: '0.9283999999999999'
+average: '0.9322222222222221'
 ---
 
 Ahora mismo tienes [Ybarra Salsa Alioli - 225 ml](https://www.amazon.es/dp/B00AJF5JA2/?tag=tolees-21) a 0.98 EUR (original: 1.19 EUR) (17.65 %  de descuento) en el siguiente enlace!
@@ -26,8 +26,8 @@ Ahora mismo tienes [Ybarra Salsa Alioli - 225 ml](https://www.amazon.es/dp/B00AJ
 🔎:
 
 - Salsa realizada con el auténtico ajo morado de Las Pedroñeras (Cuenca)
-- Perfecta para disfrutar en arroces, ensaladas, verduras y carnes
 - Cómodo almacenamiento
 - Peso: 222 g
+- Perfecta para disfrutar en arroces, ensaladas, verduras y carnes
 
 [Visítala!!!](https://www.amazon.es/dp/B00AJF5JA2/?tag=tolees-21)

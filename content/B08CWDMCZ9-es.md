@@ -26,9 +26,9 @@ Tienes [Panasonic KX-TGB612 - Teléfono Fijo inalámbrico dúo  Bloqueo de Llama
 🔎:
 
 - Diseño moderno y funcional, con detalles minimalista que se adaptan a los hogares de S XXI
+- Resistencia a golpes: aguanta caídas de hasta 1.2 m de altura
 - Volumen mejorado: sonido claro y audible incluso con ruido de fondo. El volumen máximo duplica a otros teléfonos estándar de Panasonic
 - Conferencia interna: llama del teléfono principal al supletorio o viceversa totalmente sin coste
-- Resistencia a golpes: aguanta caídas de hasta 1.2 m de altura
 - Bloqueo de llamadas: olvida de las llamadas no deseadas con pulsar un solo botón. Permite registrar dicho número con todas sus extensiones para un bloqueo efectivo
 
 [Comprar!!!](https://www.amazon.es/dp/B08CWDMCZ9/?tag=tolees-21)

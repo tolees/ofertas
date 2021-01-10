@@ -25,10 +25,10 @@ Tienes [Puma Essentials+ Fitted tee Camiseta de Manga Corta  Mujer  Negro Black 
 
 🔎:
 
-- Cuello redondo
-- Logotipo de PUMA n.º 1 en el pecho
 - Corte ajustado con largo recortado
-- Algodón y elastano
+- Cuello redondo
 - BCI: PUMA colabora con Better Cotton Initiative para mejorar el cultivo de algodón en todo el mundo
+- Algodón y elastano
+- Logotipo de PUMA n.º 1 en el pecho
 
 [Comprar!!!](https://www.amazon.es/dp/B07XCWV9JG/?tag=tolees-21)
