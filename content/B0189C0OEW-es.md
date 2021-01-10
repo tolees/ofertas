@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 16.67 % en Cheetos - Pelotazos 130 g'
-date: 2021-01-07 16:39:58
+date: 2021-01-10 07:12:42
 image: 'https://m.media-amazon.com/images/I/51L0nBPtFIL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,7 +26,7 @@ Tienes [Cheetos - Pelotazos 130 g](https://www.amazon.es/dp/B0189C0OEW/?tag=tole
 ℹ️:
 
 - Producto sin gluten
-- Contiene lactosa
 - Conservar en lugar fresco y seco
+- Contiene lactosa
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0189C0OEW/?tag=tolees-21)

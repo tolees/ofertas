@@ -25,8 +25,8 @@ Ahora mismo tienes [Element Howland Classic WK Walkshort  Hombre  Eclipse Navy  
 
 🔎:
 
-- Corte chino clasico
 - Tejido elastico
 - Pantalon corto
+- Corte chino clasico
 
 [Visítala!!!](https://www.amazon.es/dp/B07KRMBSBM/?tag=tolees-21)
