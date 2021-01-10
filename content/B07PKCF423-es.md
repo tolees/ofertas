@@ -25,9 +25,9 @@ En este momento está [Clementoni - Frozen 2 Diario Frozen 2  18518 ](https://ww
 
 🔎:
 
-- Juguete en Español
-- El kit incluye páginas de colores y una gran colección de accesorios para que puedas sumergirte en el mundo encantado de Frozen
-- Un diario Frozen personalizado para montar, decorar y confiarle tus secretos a Elsa y Anna
 - Un diario distinto para decorar y personalizar gracias a los adhesivos Frozen y a muchos marcadores de colores
+- El kit incluye páginas de colores y una gran colección de accesorios para que puedas sumergirte en el mundo encantado de Frozen
+- Juguete en Español
+- Un diario Frozen personalizado para montar, decorar y confiarle tus secretos a Elsa y Anna
 
 [Aquí!!!](https://www.amazon.es/dp/B07PKCF423/?tag=tolees-21)

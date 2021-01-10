@@ -25,9 +25,9 @@ Ahora mismo tienes [Kipling BTS Carlow Robot Camo - Bolsos escolares](https://ww
 
 🔎:
 
-- KI620857E
 - Bolsas escolares.
 - Robot Camo Azul
 - Carlow
+- KI620857E
 
 [Visítala!!!](https://www.amazon.es/dp/B07YQDTCZH/?tag=tolees-21)

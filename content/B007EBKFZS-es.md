@@ -25,8 +25,8 @@ Ahora mismo tienes [Montagne Jeunesse Mascarilla Dead Sea Face Spa Mar Muerto Te
 
 🔎:
 
+- Modo de empleo: Lavar el rostro con agua y dejarlo húmedo. Aplica la mascarilla en el rostro y cuello evitando los ojos y labios. Dejar durante 10 - 20 minutos Retirar con una esponjita o algodón impregnado con un poco de agua tibia (si es agua fría mejor)
 - Indicado para: todo tipo de pieles
 - La mascarilla Mar Muerto Spa de tipo tela te relajará y ¡cuidará tu piel como ninguna en menos tiempo! Es la mascarilla EXPRESS
-- Modo de empleo: Lavar el rostro con agua y dejarlo húmedo. Aplica la mascarilla en el rostro y cuello evitando los ojos y labios. Dejar durante 10 - 20 minutos Retirar con una esponjita o algodón impregnado con un poco de agua tibia (si es agua fría mejor)
 
 [Visítala!!!](https://www.amazon.es/dp/B007EBKFZS/?tag=tolees-21)

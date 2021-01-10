@@ -25,8 +25,8 @@ En este momento está [Moroccanoil Mascarilla Hidratante Intensa  75 ml](https:/
 
 🔎:
 
-- Tipo de producto: Mascarilla
 - Género: Mujer
 - Marca: Moroccanoil
+- Tipo de producto: Mascarilla
 
 [Aquí!!!](https://www.amazon.es/dp/B0094JGXV8/?tag=tolees-21)

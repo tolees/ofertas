@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIVEA Creme Care Jabón en pastilla en pa al 22.03 % de descuento'
-date: 2021-01-09 12:54:34
+date: 2021-01-10 14:12:13
 image: 'https://m.media-amazon.com/images/I/418huO+7VPL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01AI26DRS/?tag=tolees-21'
 descuento: '22.03'
-average: '2.301768707482995'
+average: '2.3017449664429543'
 ---
 
 Está [NIVEA Creme Care Jabón en pastilla en pack de 3  3 x 100 g   jabón de manos con la fragancia de NIVEA Creme  jabón perfumado para una piel suave e hidratada](https://www.amazon.es/dp/B01AI26DRS/?tag=tolees-21) con 22.03 de descuento por 2.3 EUR (original: 2.95 EUR) en el siguiente enlace!

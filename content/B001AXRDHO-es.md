@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tayg 58 Trailbox - Caja de Herramientas  al 19.55 % de descuento'
-date: 2021-01-09 06:48:20
+date: 2021-01-10 14:23:36
 image: 'https://m.media-amazon.com/images/I/41gTxu8SjeL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B001AXRDHO/?tag=tolees-21'
 descuento: '19.55'
-average: '43.82486486486486'
+average: '43.81210526315788'
 ---
 
 Está [Tayg 58 Trailbox - Caja de Herramientas  Multicolor  Tamaño único](https://www.amazon.es/dp/B001AXRDHO/?tag=tolees-21) con 19.55 de descuento por 43.34 EUR (original: 53.87 EUR) en el siguiente enlace!
@@ -25,9 +25,9 @@ Está [Tayg 58 Trailbox - Caja de Herramientas  Multicolor  Tamaño único](http
 
 ℹ️:
 
+- Dos asas, en primer lugar para tirar y asa de transporte por separado cuando el producto se separa
 - Dimensiones del producto: 470 x 290 x 630 mm
 - La sección superior dispone caso compartimento transparente y bandeja extraíble de color rojo
-- Dos asas, en primer lugar para tirar y asa de transporte por separado cuando el producto se separa
 - Dos secciones principales de almacenamiento
 - Ruedas de goma con eje de metal
 

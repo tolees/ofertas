@@ -25,9 +25,9 @@ Tienes [Lavazza Cápsulas de café Deciso compatibles con Nespresso - 10 cápsul
 
 ℹ️:
 
-- Le asegura una extracción perfecta para una calidad de café Lavazza incomparable y una espuma cremosa y dorada
-- Notas amaderadas
-- Envasadas en atmósfera protegida
 - Café Lavazza en cápsulas compatibles con máquinas Nespresso
+- Envasadas en atmósfera protegida
+- Notas amaderadas
+- Le asegura una extracción perfecta para una calidad de café Lavazza incomparable y una espuma cremosa y dorada
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07C8J8QC5/?tag=tolees-21)

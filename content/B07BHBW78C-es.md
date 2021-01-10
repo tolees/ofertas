@@ -26,8 +26,8 @@ En este momento está [Kipling Gabbie S  Bolsos Bandolera para Mujer  Negro  Liv
 🔎:
 
 - Composición: 100% Poliamida
-- Cierre: Cremallera
 - Revestimiento: Sintético
 - Material exterior: Sintético
+- Cierre: Cremallera
 
 [Aquí!!!](https://www.amazon.es/dp/B07BHBW78C/?tag=tolees-21)

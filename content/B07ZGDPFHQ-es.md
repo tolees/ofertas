@@ -25,9 +25,9 @@ Ahora mismo tienes [Tommy Hilfiger TJM Essential Padded Jacket Chaqueta  Negro  
 
 🔎:
 
-- Este producto se ha producido de forma sostenible
-- Producto original y auténtico de Tommy Hilfiger/Tommy Jeans
 - Tommy Jeans ropa exterior para hombre
+- Producto original y auténtico de Tommy Hilfiger/Tommy Jeans
+- Este producto se ha producido de forma sostenible
 - Más información sobre Tommy Hilfiger / Tommy Jeans se puede encontrar en la descripción del producto
 
 [Visítala!!!](https://www.amazon.es/dp/B07ZGDPFHQ/?tag=tolees-21)

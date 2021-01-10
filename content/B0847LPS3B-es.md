@@ -25,10 +25,10 @@ En este momento está [HAVERLAND CASAP | Climatizador Evaporativo Portátil Calo
 
 🔎:
 
-- DISEÑO MINIMALISTA Y ALTO RENDIMIENTO: Además de su gran capacidad de enfriamiento, con un flujo de aire de 1.300 m³/h y alcance de hasta 25m², así como de depósito de agua y hielo de hasta 5,5L, CASAP le ofrece también un diseño moderno y discreto pensado para cualquier estancia de su casa.
-- CONFORT ÓPTIMO: Este climatizador evaporativo incluye un mando a distancia, 3 velocidades, 3 modos de funcionamiento (Normal, Natural y Noche) asi como una función "antimosquitos", todo para el confort máximo en casa.
 - FÁCIL TRANSPORTE: Gracias a sus ruedas rotativas de 360º y asas de transporte, podrá desplazar con facilidad su climatizador evaporativo por toda la casa, en cualquier estancia.
 - CLIMATIZADOR EVAPORATIVO FRIO/CALOR: dotado de un sistema de enfriamiento por evaporación, este aparato ofrece una alternativa a los aires acondicionados, y sobre todo una solución más económica y respetuosa del medioambiente. Se puede utilizar también como calefactor, haciendo de él un aparato perfecto para acompañarle todo el año.
+- CONFORT ÓPTIMO: Este climatizador evaporativo incluye un mando a distancia, 3 velocidades, 3 modos de funcionamiento (Normal, Natural y Noche) asi como una función "antimosquitos", todo para el confort máximo en casa.
+- DISEÑO MINIMALISTA Y ALTO RENDIMIENTO: Además de su gran capacidad de enfriamiento, con un flujo de aire de 1.300 m³/h y alcance de hasta 25m², así como de depósito de agua y hielo de hasta 5,5L, CASAP le ofrece también un diseño moderno y discreto pensado para cualquier estancia de su casa.
 - SEGURIDAD Y GARANTÍA: Con aprobación CE, RoHS. Haverland es una empresa española con más de 40 años de experiencia como fabricante y distribuidor de electrodomésticos, especializada en calefacción y climatización, posicionándose como una empresa europea líder en R+D+I.
 
 [Aquí!!!](https://www.amazon.es/dp/B0847LPS3B/?tag=tolees-21)
