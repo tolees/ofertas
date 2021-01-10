@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asics Gel-Fujitrabuco 8 G-TX  Sneaker Me al 30.00 % de descuento'
-date: 2020-12-31 04:28:25
+date: 2021-01-10 04:17:14
 image: 'https://m.media-amazon.com/images/I/412+8vR2NoL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0812GYM6L/?tag=tolees-21'
 descuento: '30.00'
-average: '103.82'
+average: '104.115'
 ---
 
 Está [Asics Gel-Fujitrabuco 8 G-TX  Sneaker Mens  Black  41.5 EU](https://www.amazon.es/dp/B0812GYM6L/?tag=tolees-21) con 30.00 de descuento por 105.0 EUR (original: 150.0 EUR) en el siguiente enlace!
