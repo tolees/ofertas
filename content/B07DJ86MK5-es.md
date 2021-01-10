@@ -1,37 +1,37 @@
 ---
 layout: post
-title: 'Descuento del 24.76 % en New Balance 500 Core  Zapatillas Hombre '
-date: 2021-01-09 03:22:32
+title: 'Descuento del 15.64 % en New Balance 500 Core  Zapatillas Hombre '
+date: 2021-01-10 17:22:56
 image: 'https://m.media-amazon.com/images/I/41CmVAjwdRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ86MK5-es'
-actualPrice: 56.43 EUR
+actualPrice: 63.27 EUR
 currency: EUR
-price: 56.43
+price: 63.27
 comparePrice: 75.0 EUR
 prodname: 'New Balance 500 Core  Zapatillas Hombre  Blanco  Munsell White/Eclipse/Tempo Red Swb   40 EU'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DJ86MK5/?tag=tolees-21'
-descuento: '24.76'
-average: '57.07'
+descuento: '15.64'
+average: '59.13666666666667'
 ---
 
-Tienes [New Balance 500 Core  Zapatillas Hombre  Blanco  Munsell White/Eclipse/Tempo Red Swb   40 EU](https://www.amazon.es/dp/B07DJ86MK5/?tag=tolees-21) con un 24.76 % de descuento con precio de oferta de 56.43 EUR (original: 75.0 EUR) en el siguiente enlace!
+Tienes [New Balance 500 Core  Zapatillas Hombre  Blanco  Munsell White/Eclipse/Tempo Red Swb   40 EU](https://www.amazon.es/dp/B07DJ86MK5/?tag=tolees-21) con un 15.64 % de descuento con precio de oferta de 63.27 EUR (original: 75.0 EUR) en el siguiente enlace!
 
 [![New Balance 500 Core  Zapatillas Hombre ](https://m.media-amazon.com/images/I/41CmVAjwdRL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ86MK5/?tag=tolees-21)
 
 ℹ️:
 
-- Material de la suela: EVA
 - Material exterior: Cuero sintético
-- Altura del tacón: 2 centímetros
 - Cierre: Cordones
-- Composición: Cuero sintético / Textil
+- Altura del tacón: 2 centímetros
+- Material de la suela: EVA
 - Tipo de tacón: Plano
 - Revestimiento: Tela
+- Composición: Cuero sintético / Textil
 - Anchura del zapato: Normal
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DJ86MK5/?tag=tolees-21)

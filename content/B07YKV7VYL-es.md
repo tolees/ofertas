@@ -25,7 +25,7 @@ Ahora mismo tienes [Esprit 990ee1b302 Pantalones  Verde  Khaki Green 350   34/L3
 
 🔎:
 
-- Con algodón de alta calidad procedente de cultivo ecológico
 - Pantalón chino clásico elástico
+- Con algodón de alta calidad procedente de cultivo ecológico
 
 [Visítala!!!](https://www.amazon.es/dp/B07YKV7VYL/?tag=tolees-21)

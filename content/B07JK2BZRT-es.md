@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trilogía El Señor De Los Anillos Cinemat al 16.29 % de descuento'
-date: 2021-01-07 14:36:45
+date: 2021-01-10 17:33:39
 image: 'https://m.media-amazon.com/images/I/51XiPsbLM2L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JK2BZRT/?tag=tolees-21'
 descuento: '16.29'
-average: '24.35'
+average: '24.88809523809524'
 ---
 
 Ahora mismo tienes [Trilogía El Señor De Los Anillos Cinematográfica Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07JK2BZRT/?tag=tolees-21) a 30.0 EUR (original: 35.84 EUR) (16.29 %  de descuento) en el siguiente enlace!

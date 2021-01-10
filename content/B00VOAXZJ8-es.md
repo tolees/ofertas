@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Arppe CL12C5.120.SP DSNIBL Flexi Design  con un 29.20 % de descuento'
-date: 2021-01-08 13:23:43
+title: 'Arppe CL12C5.120.SP DSNIBL Flexi Design  con un 29.45 % de descuento'
+date: 2021-01-10 17:02:59
 image: 'https://m.media-amazon.com/images/I/413baQSIudL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B00VOAXZJ8-es'
-actualPrice: 11.25 EUR
+actualPrice: 11.21 EUR
 currency: EUR
-price: 11.25
+price: 11.21
 comparePrice: 15.89 EUR
 prodname: 'Arppe CL12C5.120.SP DSNIBL Flexi Design Cordon  5 m  S  Azul'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00VOAXZJ8/?tag=tolees-21'
-descuento: '29.20'
-average: '9.816666666666666'
+descuento: '29.45'
+average: '10.373999999999999'
 ---
 
-En este momento está [Arppe CL12C5.120.SP DSNIBL Flexi Design Cordon  5 m  S  Azul](https://www.amazon.es/dp/B00VOAXZJ8/?tag=tolees-21) a 11.25 EUR (original: 15.89 EUR) (29.20 %  de descuento) en el siguiente enlace!
+En este momento está [Arppe CL12C5.120.SP DSNIBL Flexi Design Cordon  5 m  S  Azul](https://www.amazon.es/dp/B00VOAXZJ8/?tag=tolees-21) a 11.21 EUR (original: 15.89 EUR) (29.45 %  de descuento) en el siguiente enlace!
 
 [![Arppe CL12C5.120.SP DSNIBL Flexi Design ](https://m.media-amazon.com/images/I/413baQSIudL._SL200_.jpg)](https://www.amazon.es/dp/B00VOAXZJ8/?tag=tolees-21)
 

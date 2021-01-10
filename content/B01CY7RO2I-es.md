@@ -25,9 +25,9 @@ Ahora mismo tienes [Blopens - Purpurina  Lansay 23539 ](https://www.amazon.es/dp
 
 🔎:
 
-- Incluye distintas plantillas
 - Mediante el aplicador, podrás añadir purpurina a tus diseños
-- Podrás crear flores y mariposas para decorar tu habitación
 - Sopla con el rotulador Blopens y podrás colorear
+- Incluye distintas plantillas
+- Podrás crear flores y mariposas para decorar tu habitación
 
 [Visítala!!!](https://www.amazon.es/dp/B01CY7RO2I/?tag=tolees-21)

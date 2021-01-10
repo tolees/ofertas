@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AKAI Professional MPX16 - Controlador US al 20.50 % de rebaja'
-date: 2021-01-08 06:15:54
+date: 2021-01-10 17:00:25
 image: 'https://m.media-amazon.com/images/I/41pg+V8W-OL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00J4JPUFS/?tag=tolees-21'
 descuento: '20.50'
-average: '160.0'
+average: '159.85714285714286'
 ---
 
 Tienes [AKAI Professional MPX16 - Controlador USB MIDI y sampler portátil con 16 pads retro-iluminados y ranura para tarjeta SD](https://www.amazon.es/dp/B00J4JPUFS/?tag=tolees-21) con precio final de  159.0 EUR (original: 199.99 EUR) (20.50 %  de rebaja) aqui!
@@ -25,10 +25,10 @@ Tienes [AKAI Professional MPX16 - Controlador USB MIDI y sampler portátil con 1
 
 🔎:
 
-- Incluye una entrada de auriculares con jack para escuchar en privado
-- 16 pads estilo MPC retro-iluminados y sensibles a la velocidad
-- Con el software incluido Akai Pro MPX File Conversion Utility, gestionar tus propios samples almacenados en tu ordenador o exportarlos a una tarjeta SD
-- Controlador USB MIDI y sampler portátil marca AKAI Pro
 - Conexión USB plug-and-play para Mac y PC
+- Con el software incluido Akai Pro MPX File Conversion Utility, gestionar tus propios samples almacenados en tu ordenador o exportarlos a una tarjeta SD
+- Incluye una entrada de auriculares con jack para escuchar en privado
+- Controlador USB MIDI y sampler portátil marca AKAI Pro
+- 16 pads estilo MPC retro-iluminados y sensibles a la velocidad
 
 [Comprar!!!](https://www.amazon.es/dp/B00J4JPUFS/?tag=tolees-21)

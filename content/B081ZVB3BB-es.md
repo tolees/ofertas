@@ -27,8 +27,8 @@ En este momento está [Control Preservativos Nature XL - Caja de condones tamañ
 
 - Óptima Lubricación
 - Anchura nominal 57 mm
-- Tamaño XL: más ancho, más largo, mayor comodidad
 - Perfecta adaptabilidad
 - Material: látex de caucho natural
+- Tamaño XL: más ancho, más largo, mayor comodidad
 
 [Aquí!!!](https://www.amazon.es/dp/B081ZVB3BB/?tag=tolees-21)
