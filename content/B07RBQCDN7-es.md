@@ -25,8 +25,8 @@ Ahora mismo tienes [L Oréal Professionnel - Acondicionador Silver para Cabello 
 
 🔎:
 
-- Lavar el cabello, retirar el exceso de humedad con una toalla y aplicar una pequeña cantidad de acondicionador de medios a puntas; dejar actuar y enjuagar
-- Formulado con Ceramida y Aceite de Babassu, que aportan suavidad y brillo a la melena; con pigmentos azul y violeta, que neutralizan los subtonos amarillos
 - Acondicionador neutralizador de color, especialmente recomendado para cabello blanco y gris
+- Formulado con Ceramida y Aceite de Babassu, que aportan suavidad y brillo a la melena; con pigmentos azul y violeta, que neutralizan los subtonos amarillos
+- Lavar el cabello, retirar el exceso de humedad con una toalla y aplicar una pequeña cantidad de acondicionador de medios a puntas; dejar actuar y enjuagar
 
 [Visítala!!!](https://www.amazon.es/dp/B07RBQCDN7/?tag=tolees-21)

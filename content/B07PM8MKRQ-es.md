@@ -26,7 +26,7 @@ En este momento está [PUMA Wording Sock 2p Calcetines  Negro  Black/White 213  
 🔎:
 
 - Puntera terminada a mano para evitar molestias.
-- Refuerzo en el tobillo.
 - Algodón peinado para proporcionar una sensación de suavidad.
+- Refuerzo en el tobillo.
 
 [Aquí!!!](https://www.amazon.es/dp/B07PM8MKRQ/?tag=tolees-21)

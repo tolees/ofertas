@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AmazonBasics - Comba cilíndrica  gris al 32.69 % de descuento'
-date: 2021-01-06 22:01:13
+date: 2021-01-10 10:19:47
 image: 'https://m.media-amazon.com/images/I/41geaan97iL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07T9L7MCX/?tag=tolees-21'
 descuento: '32.69'
-average: '8.245'
+average: '8.171666666666667'
 ---
 
 Ahora mismo tienes [AmazonBasics - Comba cilíndrica  gris](https://www.amazon.es/dp/B07T9L7MCX/?tag=tolees-21) a 7.66 EUR (original: 11.38 EUR) (32.69 %  de descuento) en el siguiente enlace!
@@ -25,10 +25,10 @@ Ahora mismo tienes [AmazonBasics - Comba cilíndrica  gris](https://www.amazon.e
 
 🔎:
 
+- Mide 2.74 m de largo y 5 cm de diámetro
 - Con esta comba cilíndrica podrás integrar rápidamente un ejercicio cardiovascular de alta intensidad en cualquier entrenamiento
 - La longitud se puede ajustar fácilmente para adaptarse a los diferentes usuarios
 - Mangos con pesas para que ganes músculo mientras saltes a la comba, lo que te hará quemar calorías, mejorar la coordinación y tonificar las piernas, los glúteos, los hombros, los brazos y los abdominales.
 - Cuerda de plástico (PP). Mangos de PVC y espuma de NBR para un agarre cómodo. Elegante color gris
-- Mide 2.74 m de largo y 5 cm de diámetro
 
 [Visítala!!!](https://www.amazon.es/dp/B07T9L7MCX/?tag=tolees-21)

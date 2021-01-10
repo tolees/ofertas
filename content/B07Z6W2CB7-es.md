@@ -26,8 +26,8 @@ Ahora mismo tienes [OPPO A5 2020 – Smartphone de 6.5" HD+  4G Dual SIM  3 GB/ 
 🔎:
 
 - Pantalla waterdrop 6 5" hd+
-- Batería 5000mah + carga flash vooc
 - Modo gaming (game boost 2 0) + dolby atmos + sonido estéreo
+- Batería 5000mah + carga flash vooc
 - 3gb ram + 64gb rom
 - Cámara cuádruple (12mp + 8mp + 2mp + 2mp)
 

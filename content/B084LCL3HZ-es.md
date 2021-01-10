@@ -25,8 +25,8 @@ En este momento está [Ruffles Jamon  Patatas fritas - 295 gr](https://www.amazo
 
 🔎:
 
+- Patatas fritas
 - Sabor Jamon
 - Bolsa de 295gr
-- Patatas fritas
 
 [Aquí!!!](https://www.amazon.es/dp/B084LCL3HZ/?tag=tolees-21)

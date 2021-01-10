@@ -25,10 +25,10 @@ Está [Pienso para Gatos Esterilizados Adulto con Salmón - 3kg](https://www.ama
 
 ℹ️:
 
-- Control del Peso: Nivel moderado de grasas y calorías, con fibra y L-carnitina
-- Pienso para Gatos Adultos Esterilizados: Contiene salmón y otros componentes necesarios para una alimentación completa
 - Sabor Excelente: Selección de ingredientes de alta palatabilidad
 - Efecto Saciante: Mezcla de fibras vegetales
+- Pienso para Gatos Adultos Esterilizados: Contiene salmón y otros componentes necesarios para una alimentación completa
+- Control del Peso: Nivel moderado de grasas y calorías, con fibra y L-carnitina
 - Pelo Brillante y Piel Cuidada: Ácidos grasos omega-3 y omega-6, biotina y zinc
 - Cuida su Tracto Urinario (control del pH urinario): Gracias a una composición equilibrada de minerales que ayuda a mantener un pH urinario óptimo
 

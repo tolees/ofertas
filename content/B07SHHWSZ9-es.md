@@ -25,8 +25,8 @@ Tienes [Bollé Backline Visor Casco de Ski Black Adultos Unisex 59-61 cm](https:
 
 🔎:
 
-- Ventilación ajustable
 - Abs inyectado
+- Ventilación ajustable
 - Sistema click-to-fit tm
 - Almohadillas removibles
 

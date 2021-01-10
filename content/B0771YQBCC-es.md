@@ -26,7 +26,7 @@ Está [Mr. Wonderful Lluvia 17 WOA08600UN Paraguas clásico  18 cm  Multicolor](
 ℹ️:
 
 - Material del paraguas: Poliéster y 8 varillas reforzadas
-- Windproof reforzado antiviento
 - Apertura manual
+- Windproof reforzado antiviento
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0771YQBCC/?tag=tolees-21)

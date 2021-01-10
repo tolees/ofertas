@@ -25,8 +25,8 @@ Ahora mismo tienes [Denon D-T1 - Microcadena con Lector CD y Bluetooth  Color Gr
 
 🔎:
 
+- Compatible CD-R/CD-RW ( WMA o MP3)
 - Potencia de 15 W x 2
 - Entrada digital Optica para mejorar la calidad de sonido del TV, consola de juegos u otros dispositivos digitales externos
-- Compatible CD-R/CD-RW ( WMA o MP3)
 
 [Visítala!!!](https://www.amazon.es/dp/B07HHCRPTM/?tag=tolees-21)

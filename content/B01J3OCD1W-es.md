@@ -25,10 +25,10 @@ Está [4 Gods- Juego](https://www.amazon.es/dp/B01J3OCD1W/?tag=tolees-21) con 45
 
 ℹ️:
 
-- Hace unos meses estalló una epidemia Zombi
-- Papá nos metió en un coche y abandonamos nuestra casa en Chicago. ¡Era L.A. o muerte
 - Fue un viaje inolvidable de verdad, con peligros acechando en cada esquina. He creado un juego para recordar la experiencia, utilizando las piezas que he podido encontrar
+- Papá nos metió en un coche y abandonamos nuestra casa en Chicago. ¡Era L.A. o muerte
 - Suerte en tu viaje, hasta la costa
 - Producto en castellano
+- Hace unos meses estalló una epidemia Zombi
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01J3OCD1W/?tag=tolees-21)

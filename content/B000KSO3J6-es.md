@@ -26,8 +26,8 @@ Está [eitech 00005 - Juego de construcción con piezas de metal y 3 modelos  he
 ℹ️:
 
 - Dim: 35x29x5 cm Más de 270 piezas para hacer un montón de diferentes modelos con funciones mecánicas, incluyendo una herramientas manuales y de montaje.
+- Descripción del producto: Sol: 35x29x5 cm Más de 270 piezas para hacer un montón de diferentes modelos con funciones mecánicas, incluye manual y montaje de herramientas
 - Requiere baterías: No
 - Dimensiones: 29,2 x 35,1 x 4,7 cm
-- Descripción del producto: Sol: 35x29x5 cm Más de 270 piezas para hacer un montón de diferentes modelos con funciones mecánicas, incluye manual y montaje de herramientas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B000KSO3J6/?tag=tolees-21)

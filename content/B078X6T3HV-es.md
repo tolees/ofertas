@@ -25,12 +25,12 @@ En este momento está [Sony HTSF200  Barra de Sonido Compacta con Subwoofer Inte
 
 🔎:
 
-- S-Force PRO Front Surround crea un sonido cinematográfico
-- Configuración fácil con el televisor
-- Graves profundos con el subwoofer integrado
-- Bluetooth: RX (receptor)
 - Barra de sonido compacta de 2.1 canales que ahorra espacio
 - Versión de Bluetooth: versión 4.2
+- Graves profundos con el subwoofer integrado
+- S-Force PRO Front Surround crea un sonido cinematográfico
+- Configuración fácil con el televisor
+- Bluetooth: RX (receptor)
 - Conexiones USB y Bluetooth para reproducción de música
 
 [Aquí!!!](https://www.amazon.es/dp/B078X6T3HV/?tag=tolees-21)
