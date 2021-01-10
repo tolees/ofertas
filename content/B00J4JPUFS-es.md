@@ -25,10 +25,10 @@ Tienes [AKAI Professional MPX16 - Controlador USB MIDI y sampler portátil con 1
 
 🔎:
 
-- Conexión USB plug-and-play para Mac y PC
-- Con el software incluido Akai Pro MPX File Conversion Utility, gestionar tus propios samples almacenados en tu ordenador o exportarlos a una tarjeta SD
-- Incluye una entrada de auriculares con jack para escuchar en privado
-- Controlador USB MIDI y sampler portátil marca AKAI Pro
 - 16 pads estilo MPC retro-iluminados y sensibles a la velocidad
+- Controlador USB MIDI y sampler portátil marca AKAI Pro
+- Con el software incluido Akai Pro MPX File Conversion Utility, gestionar tus propios samples almacenados en tu ordenador o exportarlos a una tarjeta SD
+- Conexión USB plug-and-play para Mac y PC
+- Incluye una entrada de auriculares con jack para escuchar en privado
 
 [Comprar!!!](https://www.amazon.es/dp/B00J4JPUFS/?tag=tolees-21)

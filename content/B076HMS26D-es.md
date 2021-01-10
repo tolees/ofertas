@@ -26,8 +26,8 @@ Está [Adidas CORE18 Hoody Sudadera con Capucha  Hombre  Rojo  Rojo/Blanco   XL]
 ℹ️:
 
 - Ventilación Climacool.
-- Escote redondo.
-- Sin mangas.
 - Tiene una capucha ajustable con cordón
+- Sin mangas.
+- Escote redondo.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B076HMS26D/?tag=tolees-21)

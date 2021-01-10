@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Black+Decker A7188 - Set de 50 piezas co al 16.71 % de descuento'
-date: 2021-01-03 14:34:23
+date: 2021-01-10 18:07:19
 image: 'https://m.media-amazon.com/images/I/51aGGV8ldYL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0076VLVXG/?tag=tolees-21'
 descuento: '16.71'
-average: '15.924999999999997'
+average: '15.843749999999998'
 ---
 
 Está [Black+Decker A7188 - Set de 50 piezas con brocas y puntas para atornillar y taladrar](https://www.amazon.es/dp/B0076VLVXG/?tag=tolees-21) con 16.71 de descuento por 14.95 EUR (original: 17.95 EUR) en el siguiente enlace!
@@ -25,9 +25,9 @@ Está [Black+Decker A7188 - Set de 50 piezas con brocas y puntas para atornillar
 
 ℹ️:
 
-- Los accesorios vienen almacenados en un maletín de color negro y naranja
-- Incluye llaves de vaso hexagonales y adaptador
 - Dispone de soporte magnético, avellanado
 - Las brocas para metal tienen revestimiento de titanio
+- Incluye llaves de vaso hexagonales y adaptador
+- Los accesorios vienen almacenados en un maletín de color negro y naranja
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0076VLVXG/?tag=tolees-21)

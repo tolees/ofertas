@@ -25,10 +25,10 @@ Ahora mismo tienes [PIKOLIN Colchón viscoelástico Espuma HR 150x190 firmeza Me
 
 🔎:
 
-- Soporte exacto para el descanso perfecto de la columna y plena independencia de lechos
-- Sigeo cuenta en su núcleo con otro material exclusivo de Pikolin, Confortcel. Fue desarrollado como alternativa de máxima calidad para los núcleos de colchones de espuma y es un material celular de espumación de alta resiliencia (HR), que garantiza una firmeza óptima y una buena adaptabilidad del colchón. Este material también garantiza una independencia de descanso entre lechos.
-- Su capa de Viscofoam reduce los puntos de presión al dormir. Este material exclusivo de Pikolin, es una espuma viscoelástica de alta densidad, que permite una mejor circulación de la sangre. También reduce los cambios de posición para mejorar la calidad del descanso y dotarle de un alto nivel de ergonomía. Se combina con una capa de fibra atérmica, que permite que el aire circule de manera continua y aporta frescura al colchón.
 - Este producto cuenta con la tecnología de Triple Barrera, un tratamiento que previene la aparición de ácaros, bacterias y hongos en el colchón.  Su firmeza, adaptabilidad e higiene lo convierten en una buena opción para colchones juveniles
 - Tecnología celular HR Confortcel de altas prestaciones, proporciona una firmeza óptima y una buena adaptabilidad.
+- Sigeo cuenta en su núcleo con otro material exclusivo de Pikolin, Confortcel. Fue desarrollado como alternativa de máxima calidad para los núcleos de colchones de espuma y es un material celular de espumación de alta resiliencia (HR), que garantiza una firmeza óptima y una buena adaptabilidad del colchón. Este material también garantiza una independencia de descanso entre lechos.
+- Su capa de Viscofoam reduce los puntos de presión al dormir. Este material exclusivo de Pikolin, es una espuma viscoelástica de alta densidad, que permite una mejor circulación de la sangre. También reduce los cambios de posición para mejorar la calidad del descanso y dotarle de un alto nivel de ergonomía. Se combina con una capa de fibra atérmica, que permite que el aire circule de manera continua y aporta frescura al colchón.
+- Soporte exacto para el descanso perfecto de la columna y plena independencia de lechos
 
 [Visítala!!!](https://www.amazon.es/dp/B07LBN2GQP/?tag=tolees-21)

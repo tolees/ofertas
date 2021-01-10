@@ -25,10 +25,10 @@ En este momento está [Tommy Hilfiger New Danny Belt Cinturón  Azul  NIGHT SKY 
 
 🔎:
 
-- Belt Width: 3.5 cm
 - Serie: Danny
-- Belt Width: 3.5cm
 - Belt closure: Frame Buckle with Prong
+- Belt Width: 3.5cm
+- Belt Width: 3.5 cm
 - Material: Leather
 
 [Aquí!!!](https://www.amazon.es/dp/B01CUF8OFA/?tag=tolees-21)

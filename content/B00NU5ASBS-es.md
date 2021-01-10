@@ -25,9 +25,9 @@ Tienes [Funda con tapa para HTC Desire 816  piel sintética   color rosa](https:
 
 ℹ️:
 
-- Modelo compatible: HTC Desire 816.
-- La funda Folio HTC Desire 816 de color rosa fucsia es sin duda una de las mejores protecciones al mejor precio. Su interior de TPU (también llamado Tpu Gel) permite envolver tu smartphone hasta los bordes de
-- Esta funda de silicona de poliuretano termoplástico está hecha a medida para tu HTC Desire 816. Combina simplicidad y protección.
 - La compañía 1001funda de alta calidad ofrece un estilo único y una protección total y duradera.
+- Esta funda de silicona de poliuretano termoplástico está hecha a medida para tu HTC Desire 816. Combina simplicidad y protección.
+- La funda Folio HTC Desire 816 de color rosa fucsia es sin duda una de las mejores protecciones al mejor precio. Su interior de TPU (también llamado Tpu Gel) permite envolver tu smartphone hasta los bordes de
+- Modelo compatible: HTC Desire 816.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00NU5ASBS/?tag=tolees-21)

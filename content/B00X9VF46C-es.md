@@ -25,9 +25,9 @@ Está [Bref Poder Activo Limón Cesta Higiénica WC - 2 x 50 gr](https://www.ama
 
 ℹ️:
 
+- Bref es un limpiador WC que combina diseño con una limpieza eficaz y un aroma fresco a limón.
 - Con cuatro funciones: Espuma limpiadora, Fórmula antical, Protector contra la suciedad y Frescor extra garantizando la limpieza de tu hogar.
 - Bref Poder Activo Limón ofrece frescor, limpieza y desinfección continua en tu WC.
-- Bref es un limpiador WC que combina diseño con una limpieza eficaz y un aroma fresco a limón.
 - La fórmula especial de Bref te ayudará a mantener el WC siempre limpio y fresco, incluso entre descargas.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00X9VF46C/?tag=tolees-21)

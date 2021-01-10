@@ -25,9 +25,9 @@ En este momento está [Arppe CL12C5.120.SP DSNIBL Flexi Design Cordon  5 m  S  A
 
 🔎:
 
-- Suelte el botón de freno cuando el perro regrese a ustEducativo, de modo que la correa esté siempre bajo tensión
-- Si no presiona el botón de freno, el cordón o la cinta entrarán y saldrán con suavidad Parada: pulse hacia abajo el botón de freno con el pulgar
 - Fabricado en Alemania Producto de gran calidad Correa extensible Práctico sistema de frenado Cómoda y de tacto agradable
 - Introduzca el gancho de su correa flexi por los tres anillos metálicos (cinta collar cinta) Desplazamiento libre: sujete la correa flexi siempre por el asa
+- Si no presiona el botón de freno, el cordón o la cinta entrarán y saldrán con suavidad Parada: pulse hacia abajo el botón de freno con el pulgar
+- Suelte el botón de freno cuando el perro regrese a ustEducativo, de modo que la correa esté siempre bajo tensión
 
 [Aquí!!!](https://www.amazon.es/dp/B00VOAXZJ8/?tag=tolees-21)

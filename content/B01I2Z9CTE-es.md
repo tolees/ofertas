@@ -25,9 +25,9 @@ Tienes [Arganour Rosehip Oil 100% Pure Tratamiento Corporal - 50 ml](https://www
 
 🔎:
 
-- Aceite de rosa mosqueta 100% puro, ecológico, primera presión en frío y desodorizado
 - Formato: Dosificador
-- Para pieles secas o castigadas, por cambios hormonales, de alimentación o por la edad, nuestro cuerpo sufre cambios de peso y tonificación de la piel, que se reflejan con síntomas como arrugas o estrías
 - El aceite de rosa mosqueta presenta cualidades para la piel que lo hacen imprescindible
+- Aceite de rosa mosqueta 100% puro, ecológico, primera presión en frío y desodorizado
+- Para pieles secas o castigadas, por cambios hormonales, de alimentación o por la edad, nuestro cuerpo sufre cambios de peso y tonificación de la piel, que se reflejan con síntomas como arrugas o estrías
 
 [Comprar!!!](https://www.amazon.es/dp/B01I2Z9CTE/?tag=tolees-21)

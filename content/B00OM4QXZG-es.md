@@ -25,9 +25,9 @@ Tienes [Bolsa de Transporte Perros Gatos Mascotas Viaje Tubo de Acero 4 Entradas
 
 🔎:
 
-- ✅Acolchado lavable y desmontable
 - ✅Estructura en tubo de acero, plegable y resistente, con 3 entradas
 - ✅Medidas: 60 x 42 x 42 cm
+- ✅Acolchado lavable y desmontable
 - ✅Materiales: 600D Oxford y nylon de malla de red para una mejor circulación del aire
 - ✅Bolsa de transporte de viaje para mascotas. El peso aplicable de la mascota es alrededor de 4.5kg.
 

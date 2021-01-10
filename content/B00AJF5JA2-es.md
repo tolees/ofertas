@@ -26,8 +26,8 @@ Ahora mismo tienes [Ybarra Salsa Alioli - 225 ml](https://www.amazon.es/dp/B00AJ
 🔎:
 
 - Peso: 222 g
-- Salsa realizada con el auténtico ajo morado de Las Pedroñeras (Cuenca)
-- Perfecta para disfrutar en arroces, ensaladas, verduras y carnes
 - Cómodo almacenamiento
+- Perfecta para disfrutar en arroces, ensaladas, verduras y carnes
+- Salsa realizada con el auténtico ajo morado de Las Pedroñeras (Cuenca)
 
 [Visítala!!!](https://www.amazon.es/dp/B00AJF5JA2/?tag=tolees-21)
