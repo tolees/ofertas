@@ -25,9 +25,9 @@ Tienes [Pepe Jeans Art T-Shirt  Gris  Grey Marl 933   9-10 Anos para Niños](htt
 
 🔎:
 
-- Camiseta manga corta tejido suave
-- Fit regular
-- Cuello redondo
 - Logo estampado con purpurina
+- Camiseta manga corta tejido suave
+- Cuello redondo
+- Fit regular
 
 [Comprar!!!](https://www.amazon.es/dp/B07GGJLJV4/?tag=tolees-21)

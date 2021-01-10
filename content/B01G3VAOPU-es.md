@@ -25,9 +25,9 @@ En este momento está [NATURALS Saco Nórdico Sin Relleno CAMPUS MULTICOLOR Cama
 
 🔎:
 
-- Dimensiones de saco nórdico sin relleno: 90 x 190/200 cm
 - Dimensiones de almohada: 45x110 cm
 - Material: 100% Algodón
+- Dimensiones de saco nórdico sin relleno: 90 x 190/200 cm
 - Temperatura máxima de planchado: 150º
 
 [Aquí!!!](https://www.amazon.es/dp/B01G3VAOPU/?tag=tolees-21)

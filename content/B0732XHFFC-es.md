@@ -25,10 +25,10 @@ Ahora mismo tienes [Sunstech FRDP3 - Radio despertador con proyector horario  US
 
 🔎:
 
-- Pantalla led de intensidad ajustable de 1,2" (3,05 cm) y control de volumen digital
 - Radio despertador digital fm con pll, 10 presintonías, proyección horaria, altavoz integrado y usb de carga (5v, 1.5a)
-- Alarma dual (modo radio o buzzer) con modos de alarma (semana / entre semana / fin de semana)
+- Pantalla led de intensidad ajustable de 1,2" (3,05 cm) y control de volumen digital
 - Back-up (salvaguarda de hora, fecha y alarmas), alimentación ac 100-240 v, 50/60 hz, cable
+- Alarma dual (modo radio o buzzer) con modos de alarma (semana / entre semana / fin de semana)
 - Funciones sleep (10 - 90 min. ) y snooze (9 min. )
 
 [Visítala!!!](https://www.amazon.es/dp/B0732XHFFC/?tag=tolees-21)

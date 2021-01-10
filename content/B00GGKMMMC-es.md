@@ -25,12 +25,12 @@ Tienes [Bosch V-Line Titanio - Maletín de 48 unidades para taladrar y atornilla
 
 ℹ️:
 
-- Veintitrés puntas de atornillar con cabeza Phillips, Pozidriv, Torx, hexagonal y de ranura longitudinal
-- Perforación de hasta 40 %
+- Perforar de forma rápida y limpia en los metales más diversos, plexiglás y plásticos duros (no utilizar para aluminio)
 - Seis brocas, con recubrimiento de nitruro de titanio para madera duray blanda
 - Brocas con punta de metal duro resistente pare mampostería, piedra caliza, piedra natural y piedra sintética
-- Perforar de forma rápida y limpia en los metales más diversos, plexiglás y plásticos duros (no utilizar para aluminio)
-- Soporte universal magnético para un cambio rápido de las puntas de atornillar
 - Utilizar la protección necesaria según la aplicación: gafas protectoras y máscara contra el polvo
+- Soporte universal magnético para un cambio rápido de las puntas de atornillar
+- Veintitrés puntas de atornillar con cabeza Phillips, Pozidriv, Torx, hexagonal y de ranura longitudinal
+- Perforación de hasta 40 %
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00GGKMMMC/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi POWERBANK 18W  Power Bank 3 10000 al 25.01 % de descuento'
-date: 2021-01-08 11:23:39
+date: 2021-01-10 12:18:01
 image: 'https://m.media-amazon.com/images/I/31AV8oVjI9L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0821YJ6ST/?tag=tolees-21'
 descuento: '25.01'
-average: '15.49'
+average: '15.323333333333334'
 ---
 
 Está [Xiaomi POWERBANK 18W  Power Bank 3 10000MAH  Silver](https://www.amazon.es/dp/B0821YJ6ST/?tag=tolees-21) con 25.01 de descuento por 14.99 EUR (original: 19.99 EUR) en el siguiente enlace!
@@ -27,7 +27,7 @@ Está [Xiaomi POWERBANK 18W  Power Bank 3 10000MAH  Silver](https://www.amazon.e
 
 - 14 x 7 x 1.5 cm; 200 gramos
 - 3.7 Voltios
-- Compatible con Portátil, Tablet, Smartphone
 - 200 g
+- Compatible con Portátil, Tablet, Smartphone
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0821YJ6ST/?tag=tolees-21)

@@ -25,10 +25,10 @@ En este momento está [Intex 58053NP - Pelota hinchable Cars diámetro 61 cm  +3
 
 🔎:
 
-- La pelota hinchable está fabricada de vinilo resistente
-- Pelota hinchable Intex de licencia CARS
 - Diámetro: 61 cm
 - Óptima para piscinas o playa, la pelota es de color roja y blanca con ilustraciones del protagonista de la película infantil, Rayo McQueen
 - Uso recomendado a partir de los 3 años
+- La pelota hinchable está fabricada de vinilo resistente
+- Pelota hinchable Intex de licencia CARS
 
 [Aquí!!!](https://www.amazon.es/dp/B00HVS2E58/?tag=tolees-21)

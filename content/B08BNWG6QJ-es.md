@@ -25,10 +25,10 @@ Está [MARTISAN Guitarra Clásica 4/4 de madera  Guitarra Española con 6 Cuerda
 
 ℹ️:
 
-- Tu próxima guitarra: MARTISAN crea una nueva definición para guitarra clásica. Adopte el abeto sólido de la parte superior calificado para la parte superior, el sapeli para la parte posterior y lateral y la caoba para el mástil que aseguran el sonido más puro y la melodía más rica.
-- Diseñado para usted: 4/4 guitarra clásica de 39 pulgadas de tamaño completo es para que todos puedan aprender y tocar. Si eres un jugador principiante o profesional, encontrarás lo que necesitas de esta guitarra. El cuerpo de gran tamaño hace que el sonido sea más brillante y cálido.
-- Cuerdas de guitarra de lujo: equipadas con 3 cuerdas de acero y 3 cuerdas de nylon para que pueda disfrutar del sonido original de una guitarra clásica. Practica tus dedos con las cuerdas correctas te ayudará a mejorar más rápido. Diga adiós a las cuerdas inferiores.
 - Consejos cálidos: cada cuerda es nueva y con tensión, así que afina tu guitarra cada vez que la levantes. Permanecerá sintonizado más tiempo después de algunas veces de sintonización. Cualquier problema, no dude en contactarnos, estamos aquí para usted todo el tiempo.
+- Cuerdas de guitarra de lujo: equipadas con 3 cuerdas de acero y 3 cuerdas de nylon para que pueda disfrutar del sonido original de una guitarra clásica. Practica tus dedos con las cuerdas correctas te ayudará a mejorar más rápido. Diga adiós a las cuerdas inferiores.
+- Tu próxima guitarra: MARTISAN crea una nueva definición para guitarra clásica. Adopte el abeto sólido de la parte superior calificado para la parte superior, el sapeli para la parte posterior y lateral y la caoba para el mástil que aseguran el sonido más puro y la melodía más rica.
 - Hecho con corazón: Cada guitarra está hecha a mano y producida por un trabajador experimentado para que pueda tocar y sentir la diferencia entre cada una de estas artesanías.
+- Diseñado para usted: 4/4 guitarra clásica de 39 pulgadas de tamaño completo es para que todos puedan aprender y tocar. Si eres un jugador principiante o profesional, encontrarás lo que necesitas de esta guitarra. El cuerpo de gran tamaño hace que el sonido sea más brillante y cálido.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08BNWG6QJ/?tag=tolees-21)

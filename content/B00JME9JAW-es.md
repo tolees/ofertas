@@ -25,10 +25,10 @@ Tienes [Faber-Castell 120112 - Estuche cartón con 12 lápices hexagonales multi
 
 🔎:
 
-- Fabricados a partir de madera 100% reforestada gestionada de forma sostenible a nivel medioambiental, económico y social
-- Colores intensos y brillantes de aplicación extra suave
-- Mina protegida contra la rotura gracias al proceso especial de encolado SV
 - Fáciles de afilar, incluyen afilalápices
 - Ecolápiz de color con forma hexagonal. Fáciles de afilar, incluyen afilalápices de regalo. Estuche de cartón
+- Fabricados a partir de madera 100% reforestada gestionada de forma sostenible a nivel medioambiental, económico y social
+- Mina protegida contra la rotura gracias al proceso especial de encolado SV
+- Colores intensos y brillantes de aplicación extra suave
 
 [Comprar!!!](https://www.amazon.es/dp/B00JME9JAW/?tag=tolees-21)

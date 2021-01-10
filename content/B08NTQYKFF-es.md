@@ -26,10 +26,10 @@ En este momento está [ASUS ROG Strix G15 G512LV-HN221 - Portátil Gaming de 15.
 🔎:
 
 - Memoria RAM de 16GB, DDR 4
-- Pantalla de 15.6" FullHD (1920 x 1080)
-- Sin Sistema operativo
-- Tarjeta grafica GeForce RTX 2060 de 6GB GDDR6
-- Almacenamiento de 1TB M.2 NVMe PCIe
 - Procesador Intel i7-10870H ( 8 núcleos, 16MB cache, 2.2 GHz hasta 5.0 GHz)
+- Tarjeta grafica GeForce RTX 2060 de 6GB GDDR6
+- Pantalla de 15.6" FullHD (1920 x 1080)
+- Almacenamiento de 1TB M.2 NVMe PCIe
+- Sin Sistema operativo
 
 [Aquí!!!](https://www.amazon.es/dp/B08NTQYKFF/?tag=tolees-21)

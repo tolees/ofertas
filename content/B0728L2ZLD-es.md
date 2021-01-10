@@ -25,9 +25,9 @@ Ahora mismo tienes [Piny Fashion Doll- Piny KT Fashion Tester con muñeca Michel
 
 🔎:
 
-- Crea los diseños más chulosy prueba todas las combinaciones posibles en el armario vestidor de Michelle
 - Escanea los diseños con el K.T Fashion Tester
-- El K.T será capaz de valorar si el look de Michelle es el adecuado para la ocasión, KT puede decir más de 50 frases en 5 idiomas distintos
+- Crea los diseños más chulosy prueba todas las combinaciones posibles en el armario vestidor de Michelle
 - Podrás escanear también tu ropa y la de tus amigas
+- El K.T será capaz de valorar si el look de Michelle es el adecuado para la ocasión, KT puede decir más de 50 frases en 5 idiomas distintos
 
 [Visítala!!!](https://www.amazon.es/dp/B0728L2ZLD/?tag=tolees-21)

@@ -25,9 +25,9 @@ Ahora mismo tienes [ASUS TUF Gaming A15 FA506II-BQ029 - Portátil de 15.6" FullH
 
 🔎:
 
-- Consigue el mejor rendimiento en tareas exigentes gracias al procesador AMD Ryzen 7 4800H, 16 GB de memoria RAM DDR4 y 1TB de almacenamiento SSD
-- Acabado rugoso y certificación militar MIL-STD-810G para una máxima resistencia
-- Pantalla de 15.6" FullHD (1920x1080)
 - Disfruta de tus juegos favoritos con la gráfica NVIDIA GeForce GTX1650Ti
+- Pantalla de 15.6" FullHD (1920x1080)
+- Acabado rugoso y certificación militar MIL-STD-810G para una máxima resistencia
+- Consigue el mejor rendimiento en tareas exigentes gracias al procesador AMD Ryzen 7 4800H, 16 GB de memoria RAM DDR4 y 1TB de almacenamiento SSD
 
 [Visítala!!!](https://www.amazon.es/dp/B08DNJMJ77/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Salomon Pulse Belt Cinturón de Running   con un 50.00 % de descuento'
-date: 2021-01-09 11:30:38
+date: 2021-01-10 12:46:10
 image: 'https://m.media-amazon.com/images/I/41TaBp7mLRL._SL200_.jpg'
 comments: true
 category: ofertas

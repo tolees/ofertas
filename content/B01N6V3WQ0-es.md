@@ -25,10 +25,10 @@ Tienes [Campingaz Xpert 100 L Plus Rocky Barbacoa Gas para Piedra Volcanica  BBQ
 
 ℹ️:
 
-- Opciones de cocina:gran parrilla de reiilla de acero cromado (45 x 35 cm), parrilla de calentamiento esmaltada
-- Alta calidad y potencia: 2 quemadores de acero aluminizado de altas prestaciones (7.1 kw), parilla con encendido piezo para una fácil puesta en marcha
 - Almacenamiento y transporte: 2 prácticas mesas laterales plegable y 2 ruedas resistentes para guardar la barbacoa cuando no se uso; generoso espacio de almacenamiento en la parte inferior
 - Distribución de calor: la barbacoa es compatible con piedra lava campingaz lo que asegura una distribución uniforme del calor en toda la superficie de la parrilla
 - Especificaciones: tapa de acero con termometro (ideal para cocción indirecta/hornear); altura de cocina: 85 cm; consumo de gas 515g/h; peso 17 kg; goma y regulador de gas 30mbar no incluido
+- Alta calidad y potencia: 2 quemadores de acero aluminizado de altas prestaciones (7.1 kw), parilla con encendido piezo para una fácil puesta en marcha
+- Opciones de cocina:gran parrilla de reiilla de acero cromado (45 x 35 cm), parrilla de calentamiento esmaltada
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N6V3WQ0/?tag=tolees-21)
