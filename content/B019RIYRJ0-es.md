@@ -26,9 +26,9 @@ Tienes [Taste Of The Wild pienso para cachorros con Bisonte y Venado asados 2kg 
 ℹ️:
 
 - Fórmula High Prairie Puppy con carne de bisonte y venado asados
+- United Estates
+- Mantener en un lugar fresco y seco
 - Ingredientes: Bisonte, carne de cordero deshidratada, boniatos, huevos, proteína de guisante, guisantes, patatas, aceite de canola, pulpa de tomate, ciervo asado, bisonte asado, linaza, fibra de patata, sabor natural, harina de pescado, aceite de salmón (fuente de DHA), sal, cloruro de colina, raíz de achicoria, extracto de yucca schidigera, tomates, arándanos, frambuesas, productos de fermentación secos de Enterococcus faecium, Lactobacillus casei, Lactobacillus acidophilus, lactobacillus plantarum, Trichoderma longibrachiatum, suplemento de vitamina E, proteinato de hierro, proteinato de zinc, proteinato de cobre, sulfato ferroso, sulfato de zinc, sulfato de cobre, yoduro de potasio, vitamina B1, proteinato de manganeso, óxido de manganeso, ácido ascórbico, vitamina A, biotina, niacina, sulfato de pantotenato de calcio, manganeso, selenita de sodio, vitamina B6, suplemento de vitamina B12, vitamina B2, suplemento de vitamina D, ácido fólico.
 - Para cachorros de todas las razas
-- Mantener en un lugar fresco y seco
-- United Estates
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B019RIYRJ0/?tag=tolees-21)

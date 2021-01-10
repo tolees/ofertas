@@ -25,8 +25,8 @@ Ahora mismo tienes [Nike Tanjun  Zapatillas Unisex niño  Blanco Black White Whi
 
 🔎:
 
-- Ideal para Atletismo y running
-- Zapatillas de última generación
 - Fácil de usar
+- Zapatillas de última generación
+- Ideal para Atletismo y running
 
 [Visítala!!!](https://www.amazon.es/dp/B00YFS6VE2/?tag=tolees-21)

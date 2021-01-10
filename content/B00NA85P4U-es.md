@@ -25,8 +25,8 @@ Tienes [Tatay cestillo Metal Cromado  con 3 cestas  Colgar en la mampara de Duch
 
 🔎:
 
-- No precisa instalación. Fácil mantenimiento
 - Gran capacidad, 3 amplias cestas.
 - Cestillo métalico con 3 niveles, para colgar en mampara, cromado, 100% inoxidable, práctico y perfecto para optimizar espacio en la ducha.
+- No precisa instalación. Fácil mantenimiento
 
 [Comprar!!!](https://www.amazon.es/dp/B00NA85P4U/?tag=tolees-21)

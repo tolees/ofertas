@@ -25,10 +25,10 @@ Tienes [Osram LEDSL302 Iluminación Led  Naranja  Blanco](https://www.amazon.es/
 
 🔎:
 
-- En situaciones de peligro, estará bien equipado con el LEDguardian Road Flare de OSRAM
-- Luz de emergencia resistente con un acabado repelente de la suciedad
-- Se fija mediante imán posterior y mosquetón
-- Visible hasta un alcance de 240 m
 - Resistente a atropellos: no se rompe ni aunque le pase por encima un automóvil
+- Luz de emergencia resistente con un acabado repelente de la suciedad
+- Visible hasta un alcance de 240 m
+- Se fija mediante imán posterior y mosquetón
+- En situaciones de peligro, estará bien equipado con el LEDguardian Road Flare de OSRAM
 
 [Comprar!!!](https://www.amazon.es/dp/B00QI74LJA/?tag=tolees-21)

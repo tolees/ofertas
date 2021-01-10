@@ -25,10 +25,10 @@ Está [Tommy Hilfiger Johnson Mini CC Flap Coin Pocket  Cartera Unisex-Adult  Ne
 
 ℹ️:
 
-- Color negro
 - Adecuado para hombre y mujer
 - Material exterior cuero
 - Tamaño S
 - Material interior poliéster
+- Color negro
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00X0W9O1Q/?tag=tolees-21)

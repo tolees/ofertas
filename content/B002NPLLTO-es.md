@@ -26,9 +26,9 @@ Ahora mismo tienes [DIGIFLEX Cable de Audio/Vídeo para Sony PS2 Playstation 2](
 🔎:
 
 - Incluye tomas RCA para señales de audio y vídeo
-- Conecta su consola playstation a un televisor
-- Totalmente compatible con Sony PS2 PS3
 - Longitud del cable: aproximadamente 1,8 metros
+- Totalmente compatible con Sony PS2 PS3
+- Conecta su consola playstation a un televisor
 - Se conecta a la parte trasera de la consola
 
 [Visítala!!!](https://www.amazon.es/dp/B002NPLLTO/?tag=tolees-21)

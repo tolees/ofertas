@@ -25,10 +25,10 @@ Está [SALOMON Stormrace Jkt M Chaquetón con Capucha para Esquí  Hombre  Azul 
 
 ℹ️:
 
-- Chaqueta cálida y resistente al agua de estilo contemporáneo para esquí y otras actividades de invierno
+- Tratamiento DWR para ser resistente al agua, diseño MotionFit y elasticidad mecánica para una mayor libertad de movimiento
+- Contenido: 1x Salomon Chaquetón con capucha para esquí de hombre, Stormrace Jkt M, Material: Mezcla de sintéticos, Color: Azul (Night Sky), Talla: XL, LC1192900
 - Cremallera completa hidrófuga, capucha desmontable de ajuste 3D, paño para máscara de esquí, bolsillos laterales, interiores y en el pecho, gancho para llaves, puños ajustables, faldón antinieve
 - Tejido AdvancedSkin Dry 10K y costuras selladas para una óptima protección climática y AdvancedSkin Warm de 100 g para la mayor calidez
-- Contenido: 1x Salomon Chaquetón con capucha para esquí de hombre, Stormrace Jkt M, Material: Mezcla de sintéticos, Color: Azul (Night Sky), Talla: XL, LC1192900
-- Tratamiento DWR para ser resistente al agua, diseño MotionFit y elasticidad mecánica para una mayor libertad de movimiento
+- Chaqueta cálida y resistente al agua de estilo contemporáneo para esquí y otras actividades de invierno
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KQYCTJ6/?tag=tolees-21)

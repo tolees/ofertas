@@ -27,8 +27,8 @@ Ahora mismo tienes [CoolBELL Mochila convertible para computadora portátil y mu
 
 - Spacious laptop compartment and accessory compartment. The laptop compartment’s special design featuring a flexible strap provides more protection for your laptop. Store 3 days worth of clothes for travel. Spacious enough for your needs.
 - Bag dimensions: approximately 47 x 36 x 12 cm; laptop compartment dimensions: approximately 44 cm x 30 cm. Fits laptops up to 17.3 inches.
-- Four external pockets, convenient to organize your items you want to carry such as pens, power bank, smartphone, pencil case, power supply and charging cable, etc.
 - Lightweight design is easy to carry. The top grab handle offers a fast grab-and-go style. Ergonomic design.
+- Four external pockets, convenient to organize your items you want to carry such as pens, power bank, smartphone, pencil case, power supply and charging cable, etc.
 - Three wearing styles. You could use it as a backpack. The shoulder straps can also be hidden when used as a briefcase or shoulder bag.
 
 [Visítala!!!](https://www.amazon.es/dp/B07DVH5C42/?tag=tolees-21)

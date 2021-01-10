@@ -25,7 +25,7 @@ Está [Skechers Bobs Squad-Glitz Maker  Zapatillas Mujer  Marr Oacute N Taupe Sp
 
 ℹ️:
 
-- Plantilla viscoelástica
 - Suela flexible
+- Plantilla viscoelástica
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TS981FF/?tag=tolees-21)

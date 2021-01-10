@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Note20 Ultra - Funda de silicona al 42.99 % de descuento'
-date: 2021-01-08 19:45:37
+date: 2021-01-10 19:37:14
 image: 'https://m.media-amazon.com/images/I/21XKmpGuaEL._SL200_.jpg'
 comments: true
 category: ofertas

@@ -25,10 +25,10 @@ En este momento está [Guess Reloj Analógico para Mujer de Cuarzo con Correa en
 
 🔎:
 
-- Tamaño: 37MM
-- GUESS WATCHES LADIES TRI GLITZ
-- Material Caja: Acero, Color: Plateado
-- Material Correa: Acero, Color: Plateado
 - Movimiento: Cuarzo, Display: Analógico
+- Material Correa: Acero, Color: Plateado
+- Material Caja: Acero, Color: Plateado
+- GUESS WATCHES LADIES TRI GLITZ
+- Tamaño: 37MM
 
 [Aquí!!!](https://www.amazon.es/dp/B07F3FHZQC/?tag=tolees-21)

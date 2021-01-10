@@ -25,8 +25,8 @@ Está [Banpresto Naruto Shippuden Vibration Stars - Estatua Uzumaki Naruto II  1
 
 ℹ️:
 
-- Colecciona todas las figuras.
 - Buen agarre.
 - Figura coleccionable de la serie.
+- Colecciona todas las figuras.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B085LPHB36/?tag=tolees-21)

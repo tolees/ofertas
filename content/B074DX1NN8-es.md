@@ -25,10 +25,10 @@ En este momento está [TOPLANET 50w Focos Led Exterior Floodlight LED Impermeabl
 
 🔎:
 
-- ◾Seguridad: Adopte el material del PWB de la resistencia del alto voltaje, buen aislamiento del funcionamiento, vida de servicio del reflector es hasta 50.000 horas, su calidad y seguridad del producto se garantiza.
-- ◾Alto brillo: El actualizado de 2019 Led Foco, ¡Tamaño más pequeño y mayor brillo! la luz de inundación del poder más elevado, utiliza la viruta de la marca de fábrica 144pc SMD LED y aumenta el área que emite luz del LED
 - ◾Impermeable: Este proyector iluminación jardin tiene función impermeable (IP66), incluso en el día de la lluvia también puede ser utilizado.
+- ◾Alto brillo: El actualizado de 2019 Led Foco, ¡Tamaño más pequeño y mayor brillo! la luz de inundación del poder más elevado, utiliza la viruta de la marca de fábrica 144pc SMD LED y aumenta el área que emite luz del LED
 - ◾Buen funcionamiento: utilice el diseño inteligente del IC de la alta calidad, comparado con el reflector tradicional, nuestro LED trabaja el servicio más estable y más largo de la vida.
 - ◾Gran ángulo de emisión de luz: 144pc SMD LED lámpara de cuentas + diseño reflectante taza, ángulo de 120° de luz, área de irradiación, proporcionando fuente de luz de alto brillo.
+- ◾Seguridad: Adopte el material del PWB de la resistencia del alto voltaje, buen aislamiento del funcionamiento, vida de servicio del reflector es hasta 50.000 horas, su calidad y seguridad del producto se garantiza.
 
 [Aquí!!!](https://www.amazon.es/dp/B074DX1NN8/?tag=tolees-21)

@@ -25,10 +25,10 @@ Tienes [SUMEX Husa110 - Cadenas De Nieve Husky Advance 9 mm  Kn110  O - Normal](
 
 🔎:
 
-- 9 mm
+- incluye instrucciones de instalación
 - fácil de instalar
 - cadenas de nieve tipo Premium - Premium Alloy Steel
-- incluye instrucciones de instalación
 - cadenas de nieve muy robustas
+- 9 mm
 
 [Comprar!!!](https://www.amazon.es/dp/B009XRNETU/?tag=tolees-21)

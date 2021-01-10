@@ -25,10 +25,10 @@ En este momento está [I-18SW Marrón  43 EU](https://www.amazon.es/dp/B07XH3BDJ
 
 🔎:
 
-- Botín cordones
-- Hecho en España
 - Botín serraje
-- Forro interior de Piel
+- Botín cordones
 - Botín Plano
+- Forro interior de Piel
+- Hecho en España
 
 [Aquí!!!](https://www.amazon.es/dp/B07XH3BDJ8/?tag=tolees-21)

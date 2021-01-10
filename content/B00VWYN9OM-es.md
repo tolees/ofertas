@@ -26,8 +26,8 @@ Tienes [Joma Nilo Pantalones Largos  Hombres  Negro  L](https://www.amazon.es/dp
 🔎:
 
 - Cintura elástica y bolsillos laterales
+- Cintura elástica para mayor comodidad
 - Pierna cremallera lateral para cerrar o abrir para ajustar el flujo de aire al cuerpo
 - Pantalón de puño
-- Cintura elástica para mayor comodidad
 
 [Comprar!!!](https://www.amazon.es/dp/B00VWYN9OM/?tag=tolees-21)
