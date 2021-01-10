@@ -25,8 +25,8 @@ Tienes [MINILAND BABY - Juguete](https://www.amazon.es/dp/B016NCD4V0/?tag=tolees
 
 ℹ️:
 
-- Bath kit (89159)
 - Higiene y cuidado MINILAND BABY
 - Juguetes de baño higiene y cuidado unisex infantil
+- Bath kit (89159)
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B016NCD4V0/?tag=tolees-21)

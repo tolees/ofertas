@@ -25,10 +25,10 @@ Ahora mismo tienes [moses- Kleine Diashow Sternbilder und Planeten Juguete  Colo
 
 🔎:
 
-- Fácil de usar: retira la tapa protectora y coloca la pantalla. Enciende el proyector y aplícalo en la pared o techo. Al girar el disco de la imagen aparecen 8 imágenes poco a poco.
+- Multiusos: la lámpara también se puede utilizar como linterna. Se necesitan 3 pilas de botón (AG13) que están incluidas en el envío.
 - Tamaño de la linterna de diapositivas: 11,7 x 3 cm.
 - No se aburrirá: además de la linterna hay 3 paneles de imágenes con 8 imágenes cada una, que proporcionan variedad. Gracias a la sencilla tecnología, los niños también pueden ir solos a viajar espacial.
 - Para astrónomos pequeños y grandes: la linterna con proyector lleva los 8 planetas de nuestro sistema solar y 16 conocidas imágenes de estrellas en la habitación infantil.
-- Multiusos: la lámpara también se puede utilizar como linterna. Se necesitan 3 pilas de botón (AG13) que están incluidas en el envío.
+- Fácil de usar: retira la tapa protectora y coloca la pantalla. Enciende el proyector y aplícalo en la pared o techo. Al girar el disco de la imagen aparecen 8 imágenes poco a poco.
 
 [Visítala!!!](https://www.amazon.es/dp/B07FQRCHHZ/?tag=tolees-21)

@@ -25,9 +25,9 @@ Está [Trolls](https://www.amazon.es/dp/B01FND51HK/?tag=tolees-21) con 29.94 de 
 
 ℹ️:
 
-- MÚSICA
+- VARIOS INTERPRETES
 - DUENDES
 - INTERNACIONAL
-- VARIOS INTERPRETES
+- MÚSICA
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01FND51HK/?tag=tolees-21)

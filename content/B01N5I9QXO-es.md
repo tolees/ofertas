@@ -25,9 +25,9 @@ Tienes [Yooka-Laylee](https://www.amazon.es/dp/B01N5I9QXO/?tag=tolees-21) con pr
 
 🔎:
 
-- More than 8 additional unique multiplayer games.
 - Expand your favourite worlds into even larger playgrounds.
-- Discover unique boss fights, mine cart challenges, quiz shows and a co-op mode.
 - Yooka and Laylee boast an awesome arsenal of abilities.
+- More than 8 additional unique multiplayer games.
+- Discover unique boss fights, mine cart challenges, quiz shows and a co-op mode.
 
 [Comprar!!!](https://www.amazon.es/dp/B01N5I9QXO/?tag=tolees-21)

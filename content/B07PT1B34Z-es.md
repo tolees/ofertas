@@ -25,10 +25,10 @@ Tienes [Harry Potter - Calendario de Adviento Funko Harry Potter](https://www.am
 
 🔎:
 
-- Colección harry potter
-- Calendario de adviento
 - Licencia oficial
 - Incluye 24 figuras
 - Caja Ilustrada
+- Colección harry potter
+- Calendario de adviento
 
 [Comprar!!!](https://www.amazon.es/dp/B07PT1B34Z/?tag=tolees-21)

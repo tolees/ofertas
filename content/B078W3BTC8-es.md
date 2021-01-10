@@ -25,12 +25,12 @@ En este momento está [Vans Filmore Suede Canvas   Zapatillas Hombre  Black/Whit
 
 🔎:
 
-- Tipo de tacón: Plano
-- Cierre: Cordones
 - Composición: textil
-- Anchura del zapato: Regular
+- Tipo de tacón: Plano
 - Material exterior: Cuero
 - Revestimiento: Tela
+- Anchura del zapato: Regular
 - Material de la suela: Goma
+- Cierre: Cordones
 
 [Aquí!!!](https://www.amazon.es/dp/B078W3BTC8/?tag=tolees-21)
