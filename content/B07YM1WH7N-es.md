@@ -25,10 +25,10 @@ Ahora mismo tienes [Anguila Max 7.3300.012 Guía pasacables Especial Tubos Poli�
 
 🔎:
 
-- FUERZA DE TORSIÓN: gira muy poco sobre sí mismo por lo que transmite muy bien la fuerza de torsión
 - ROZAMIENTO: el material trenzado reduce a la mitad el rozamiento y apenas tiene efecto memoria
-- FUERZA DE EMPUJE: El poliéster monofilamento trenzado es más rígido y permite una mayor fuerza de empuje. Al doblarse no se rompe y recupera fácilmente su forma original sin dañarse
-- DIÁMETRO de 3mm, gracias a su pequeño diámetro le permite entrar en tubos estrechos o ya con cables
 - El trenzado monofilamento tiene la RIGIDEZ de la guía naranja y la FLEXIBILIDAD de la guía azul
+- FUERZA DE EMPUJE: El poliéster monofilamento trenzado es más rígido y permite una mayor fuerza de empuje. Al doblarse no se rompe y recupera fácilmente su forma original sin dañarse
+- FUERZA DE TORSIÓN: gira muy poco sobre sí mismo por lo que transmite muy bien la fuerza de torsión
+- DIÁMETRO de 3mm, gracias a su pequeño diámetro le permite entrar en tubos estrechos o ya con cables
 
 [Visítala!!!](https://www.amazon.es/dp/B07YM1WH7N/?tag=tolees-21)

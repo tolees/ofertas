@@ -27,8 +27,8 @@ En este momento está [riemot Plantillas de Piel de Oveja para Hombre y Mujer Ni
 
 - plantillas oveja
 - plantillas invierno
-- plantillas lana oveja
-- plantillas lana
 - plantillas piel oveja
+- plantillas lana
+- plantillas lana oveja
 
 [Aquí!!!](https://www.amazon.es/dp/B07XXXWW8D/?tag=tolees-21)

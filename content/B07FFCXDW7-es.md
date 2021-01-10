@@ -25,10 +25,10 @@ Ahora mismo tienes [Plantation Ron Plantation Xaymaca - 700 ml](https://www.amaz
 
 🔎:
 
-- Perfecto para disfrutar con tus compañeros favoritos
-- Muy complejo, ligeramente ahumado y carnoso con notas afrutadas, herbáceas y amargas
 - Sabor suave y refrescante
-- De 1 a 3 años en barrica de Bourbon y 1 año en barricas de Ferrand
 - Un ron de excelente degustación para disfrutar como un gran whisky seco o con un gran cubo de hielo
+- Perfecto para disfrutar con tus compañeros favoritos
+- De 1 a 3 años en barrica de Bourbon y 1 año en barricas de Ferrand
+- Muy complejo, ligeramente ahumado y carnoso con notas afrutadas, herbáceas y amargas
 
 [Visítala!!!](https://www.amazon.es/dp/B07FFCXDW7/?tag=tolees-21)

@@ -25,10 +25,10 @@ Está [Beats EP - Auriculares supraaurales con cable - Sin batería para escuch
 
 ℹ️:
 
-- Sin batería, para escuchar tanto como quieras
-- Responde llamadas y controla la música desde tus dispositivos iOS y Android con el micrófono del cable RemoteTalk
-- Diseño resistente y ligero reforzado con acero inoxidable
 - Los auriculares supraaurales con cable Beats EP ofrecen un sonido magistral.
+- Diseño resistente y ligero reforzado con acero inoxidable
+- Sin batería, para escuchar tanto como quieras
 - Reguladores verticales ajustables para que los uses a tu gusto
+- Responde llamadas y controla la música desde tus dispositivos iOS y Android con el micrófono del cable RemoteTalk
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01LW6ZPIM/?tag=tolees-21)
