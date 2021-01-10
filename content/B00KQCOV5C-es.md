@@ -26,7 +26,7 @@ Tienes [HyperX Impact HX316LS9IBK2/16 Memoria RAM 1600 MHz DDR3L CL9 SODIMM 1.35
 ℹ️:
 
 - Probada al 100 % en fábrica a elevadas velocidades
-- Automático overclocking para alcanzar la velocidad más alta permitida por la BIOS del sistema
 - Funcionalidad Plug N Play
+- Automático overclocking para alcanzar la velocidad más alta permitida por la BIOS del sistema
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00KQCOV5C/?tag=tolees-21)

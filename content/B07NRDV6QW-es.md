@@ -25,9 +25,9 @@ Está [Magno - Gel de Ducha Classic - Fuerte personalidad en su fragancia - 2 ud
 
 ℹ️:
 
-- Viene con una base de ámbar, notas florales y cítricas
+- Deja la piel tersa y suave
 - Es adecuado para cuidado diario
 - Tiene una formula cremosa y suave
-- Deja la piel tersa y suave
+- Viene con una base de ámbar, notas florales y cítricas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07NRDV6QW/?tag=tolees-21)
