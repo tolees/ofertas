@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Taylor Shine  Botas Chelsea para  al 46.37 % de descuento'
-date: 2020-12-28 17:14:06
+date: 2021-01-10 06:18:48
 image: 'https://m.media-amazon.com/images/I/41tHCF2X9rL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01D1XDXDI/?tag=tolees-21'
 descuento: '46.37'
-average: '47.33'
+average: '48.897499999999994'
 ---
 
 Está [Clarks Taylor Shine  Botas Chelsea para Mujer  Marrón  Tan Leather   39 EU](https://www.amazon.es/dp/B01D1XDXDI/?tag=tolees-21) con 46.37 de descuento por 53.6 EUR (original: 99.95 EUR) en el siguiente enlace!

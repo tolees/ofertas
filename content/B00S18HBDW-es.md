@@ -25,12 +25,12 @@ En este momento está [PUMA Suede Classic+  Zapatillas Bajas Unisex Adulto  Negr
 
 🔎:
 
-- Revestimiento: Tela
-- Anchura del zapato: Normal
-- Material exterior: Cuero
-- Cierre: Cordones
-- Material de la suela: Goma
-- Tipo de tacón: Plano
 - Composición: Cuero
+- Tipo de tacón: Plano
+- Revestimiento: Tela
+- Material exterior: Cuero
+- Material de la suela: Goma
+- Anchura del zapato: Normal
+- Cierre: Cordones
 
 [Aquí!!!](https://www.amazon.es/dp/B00S18HBDW/?tag=tolees-21)
