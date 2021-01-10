@@ -25,7 +25,7 @@ Está [Diesel S-astico Low Lace  Zapatillas para Hombre  Blanco  Star White T101
 
 ℹ️:
 
-- Muy cómodo de llevar.
 - De la marca Diesel.
+- Muy cómodo de llevar.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07D2ZF7S1/?tag=tolees-21)

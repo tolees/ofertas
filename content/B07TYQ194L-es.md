@@ -25,9 +25,9 @@ Tienes [Funko- Pop Marvel: Endgame-Casual Thanos w/Gauntlet Collectible Toy  Mul
 
 🔎:
 
+- Funko pop is the 2018 toy of the year and peoples choice award winner
 - From endgame, casual thanos, as a stylized pop vinyl from funko
 - Check out the other disney marvel figures from funko collect them all
 - Figure stands 9cm and comes in a window display box
-- Funko pop is the 2018 toy of the year and peoples choice award winner
 
 [Comprar!!!](https://www.amazon.es/dp/B07TYQ194L/?tag=tolees-21)

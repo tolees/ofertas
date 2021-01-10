@@ -25,10 +25,10 @@ Está [HOMCOM Mini Frigorífico Mini Bar Volumen 50 L Mini Nevera con Estante Ex
 
 ℹ️:
 
-- ✅ESTANTE EXTRAÍBLE: Puedes separar fácilmente el espacio interior ajustando la altura del estante extraíble en 3 niveles distintos. Esto permitirá optimizar el espacio según los tamaños y formas de los alimentos. También tiene 2 compartimentos extras en la puerta.
 - ✅BAJO CONSUMO CON LUZ LED: Gracias a su eficiencia energética de clase A este mini refrigerador es un electrodoméstico de bajo consumo. Posee también con una luz LED interior, que se encenderá automáticamente al abrir la puerta y se apagará cuando se cierre, eficiente y de larga duración.
 - ✅GRAN CAPACIDAD: Con un volumen de 50L, cuenta con mucho sitio de almacenaje. El rango de temperatura de 5-20 °C mantiene las bebidas y comida en óptimo estado para servir.
 - ✅MEDIDAS: 43x48x51 cm (LxANxAL); Capacidad máxima de carga: 11 kg.
 - ✅USO INTERIOR: El refrigerador independiente en el que puedes poner bebidas, frutas y comida, es ideal para las actividades en sala de estar, dormitorio, sala de espera, oficina, etc.
+- ✅ESTANTE EXTRAÍBLE: Puedes separar fácilmente el espacio interior ajustando la altura del estante extraíble en 3 niveles distintos. Esto permitirá optimizar el espacio según los tamaños y formas de los alimentos. También tiene 2 compartimentos extras en la puerta.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08G1GQTPZ/?tag=tolees-21)

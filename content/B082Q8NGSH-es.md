@@ -25,8 +25,8 @@ En este momento está [Play Fun- Speedy Dice  IMC 93577IM ](https://www.amazon.e
 
 🔎:
 
+- Juego de cartas y dados que te puedes llevar a todos lados
 - Incluye 6 juegos súper rápidos y dinámicos
 - Lanza los dados y sé el primero en formar la figura que indica la carta
-- Juego de cartas y dados que te puedes llevar a todos lados
 
 [Aquí!!!](https://www.amazon.es/dp/B082Q8NGSH/?tag=tolees-21)

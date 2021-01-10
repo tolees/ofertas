@@ -25,10 +25,10 @@ Está [Hoonyer Lector de Tarjetas Memoria SD/Micro SD Lector Tarjetas SD USB 3.0
 
 ℹ️:
 
-- 【Plug and Play】 El lector de tarjetas de memoria se puede conectar y usar en Windows, Mac OS, Linux y Android mientras se accede a una variedad de diferentes tipos de tarjetas sin reposicionarlas.
-- 【Recibirás】 Recibirás el lector de tarjetas de memoria SD/TF de Hoonyer y el soporte de mantenimiento después de la compra. Si el producto tiene algún defecto después de su uso, no dude en contactarnos.
 - 【Ahorro de energía】 El lector de tarjetas de memoria se alimenta mediante la conexión USB, no se necesita energía adicional.
 - 【Rápido y conveniente】 Lector de tarjetas USB 3.0 Compatible con el estándar USB 3.0, velocidad de transmisión de hasta 5 Gbit/s (500 MB/s) y compatible con USB 2.0/USB 1.1.
+- 【Recibirás】 Recibirás el lector de tarjetas de memoria SD/TF de Hoonyer y el soporte de mantenimiento después de la compra. Si el producto tiene algún defecto después de su uso, no dude en contactarnos.
 - 【Amplia gama de aplicaciones】 El lector de tarjetas de memoria se puede usar en PS3/4, Xbox One, Smart TV, teléfono móvil, tableta, computadora portátil y PC para expansión de memoria, importación de imágenes y respaldo datos.
+- 【Plug and Play】 El lector de tarjetas de memoria se puede conectar y usar en Windows, Mac OS, Linux y Android mientras se accede a una variedad de diferentes tipos de tarjetas sin reposicionarlas.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07Y1SFRZB/?tag=tolees-21)

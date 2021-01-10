@@ -25,8 +25,8 @@ Tienes [Huggies - Bañadores desechables  talla 3-4   20 unidades](https://www.a
 
 🔎:
 
-- Apertura y cierre Facil
 - Para el mar o la piscina
+- Apertura y cierre Facil
 - No se hinchan con el agua
 - Diseños Disney
 

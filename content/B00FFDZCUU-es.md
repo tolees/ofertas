@@ -25,9 +25,9 @@ Tienes [Metabo - Juego puntas 25mm 32u ](https://www.amazon.es/dp/B00FFDZCUU/?ta
 
 ℹ️:
 
-- Se suministra en una caja de almacenamiento sólida
-- Set de brocas de 32 piezas
 - Tienen codificación de anillo de color
+- Set de brocas de 32 piezas
 - Están hechas de acero al cromo-vanadio
+- Se suministra en una caja de almacenamiento sólida
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00FFDZCUU/?tag=tolees-21)

@@ -25,11 +25,11 @@ Está [AEG RX7-1-TM Robot Aspiradora  sensor de infrarrojos  barrera virtual  ma
 
 ℹ️:
 
-- Filtro pureflow que retiene todo tipo de micropartículas de polvo, ácaros y alérgenos
 - Incluye: una barrera virtual y un mando a distancia
-- La tecnología de adaptación motionsense ofrece una navegación personalizada debajo y alrededor de objetos para fácil itar una limpieza óptima en el hogar
-- Cepillo motorizado principal powerbrush de 22 centímetros de longitud
-- Los sensores infrarrojos de obstáculos detectan y conservan los muebles, mientras que el sistema de detección de alturas o pendientes evita que el robot caiga sobre por ejemplo escalones
 - Con su exclusivo diseño triangular trinityshape y el cepillo motorizado principal powerbrush, de 22 centímetros de ancho, rx7 aspira paredes y esquinas, un 80% más en profundidad que los aspiradores robot convencionales
+- Filtro pureflow que retiene todo tipo de micropartículas de polvo, ácaros y alérgenos
+- Los sensores infrarrojos de obstáculos detectan y conservan los muebles, mientras que el sistema de detección de alturas o pendientes evita que el robot caiga sobre por ejemplo escalones
+- Cepillo motorizado principal powerbrush de 22 centímetros de longitud
+- La tecnología de adaptación motionsense ofrece una navegación personalizada debajo y alrededor de objetos para fácil itar una limpieza óptima en el hogar
 
 [Ver la oferta!!](https://www.amazon.es/dp/B076CTL11Q/?tag=tolees-21)
