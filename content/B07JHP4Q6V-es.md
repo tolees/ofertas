@@ -25,10 +25,10 @@ Está [Max Factor Miracle Touch  Base de maquillaje  Tono: 75 Golden  Pieles Med
 
 ℹ️:
 
-- Proporciona un suave acabado mate
-- Utiliza el Mastertouch concealer para conseguir una piel sin imperfecciones
-- Fórmula con ácido hialurónico y SPF 30
 - Piel perfecta durante todo el día
 - Pasa de sólida a líquida al contacto con la piel
+- Utiliza el Mastertouch concealer para conseguir una piel sin imperfecciones
+- Proporciona un suave acabado mate
+- Fórmula con ácido hialurónico y SPF 30
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07JHP4Q6V/?tag=tolees-21)

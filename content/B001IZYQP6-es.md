@@ -25,10 +25,10 @@ Está [Max Factor False Lash Effect Máscara de Pestañas Tono Black/Brown - 13.
 
 ℹ️:
 
-- Máscara de pestañas
 - Cepillo grande con tecnología patentada: elastómero termoplástico
-- Adecuada para ojos sensibles y para los usuarios de lentes de contacto
 - La fórmula líquida envuelve las pestañas desde la raíz hasta las puntas
+- Máscara de pestañas
+- Adecuada para ojos sensibles y para los usuarios de lentes de contacto
 - Dobla el tamaño de las pestañas y les da una mirada más completa
 
 [Ver la oferta!!](https://www.amazon.es/dp/B001IZYQP6/?tag=tolees-21)

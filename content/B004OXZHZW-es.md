@@ -26,10 +26,10 @@ Tienes [Trust MaxTrack - Ratón inalámbrico con tecnología BlueSpot](https://w
 🔎:
 
 - Cómodo ratón inalámbrico de 6 botones y tamaño normal, con tecnología Bluespot de 1600 dpi de alta precisión
-- Diseño con incrustaciones de caucho para un agarre más firme
 - Tecnología de 2,4 GHz para mayor suavidad de los movimientos y rango de alcance de 6 metros
+- Diseño con incrustaciones de caucho para un agarre más firme
 - Botón especial para cambiar la sensibilidad de movimiento normal (800 dpi), rápido (1200 dpi) y a alta velocidad (1600 dpi)
-- Micro receptor USB: Conéctelo una vez y no vuelva a desconectarlo nunca más
 - Sensor Bluespot de alta precisión y fidelidad, que funciona prácticamente sobre cualquier superficie
+- Micro receptor USB: Conéctelo una vez y no vuelva a desconectarlo nunca más
 
 [Comprar!!!](https://www.amazon.es/dp/B004OXZHZW/?tag=tolees-21)

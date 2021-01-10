@@ -26,9 +26,9 @@ Ahora mismo tienes [Cola Cao 0% Azúcares Añadidos - 500 g](https://www.amazon.
 🔎:
 
 - Con cacao certificado UTZ. ColaCao apoya el cultivo sostenible de cacao. Los agricultores certificados implementan mejores prácticas agrícolas, con respeto a la gente y al planeta.
-- Con cacao natural recolectado a mano; secado al sol; tostado y prensado; mezclado con el resto de ingredientes.
-- Alérgenos: contiene trigo, cebada y soja. Mantener en lugar fresco y seco.
 - 66 raciones en su formato de 500 gramos refill, que cuenta con un 85% menos de plástico que un bote.
+- Con cacao natural recolectado a mano; secado al sol; tostado y prensado; mezclado con el resto de ingredientes.
 - Disfruta de todo el sabor y sin azúcares añadidos en cualquier momento: desayuno, merienda, cena o como snack.
+- Alérgenos: contiene trigo, cebada y soja. Mantener en lugar fresco y seco.
 
 [Visítala!!!](https://www.amazon.es/dp/B08C8G17SC/?tag=tolees-21)

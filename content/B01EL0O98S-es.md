@@ -25,10 +25,10 @@ En este momento está [HP OfficeJet 200 Mobile - Impresora portátil  tinta  col
 
 🔎:
 
-- Conectividad fiable gracias a la conexión Wi-Fi Direct, USB
-- Imprime con velocidades de 10/7 ppm (negro/color)
-- Bandeja de entrada principal de 50 hojas
 - Esta impresora es compatible con los cartuchos de tinta originales HP 62
 - Ponte en marcha rápidamente con una configuración sencilla que te guía paso a paso desde la aplicación HP Smart, además, gestiona tareas fácilmente, comparte tus documentos y realiza copias con facilidad: todo desde tu teléfono móvil
+- Imprime con velocidades de 10/7 ppm (negro/color)
+- Bandeja de entrada principal de 50 hojas
+- Conectividad fiable gracias a la conexión Wi-Fi Direct, USB
 
 [Aquí!!!](https://www.amazon.es/dp/B01EL0O98S/?tag=tolees-21)

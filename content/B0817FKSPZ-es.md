@@ -25,10 +25,10 @@ Ahora mismo tienes [Columbia Zero Rules Polo Técnico  Hombre  Thyme Green  XS](
 
 🔎:
 
-- 1x Columbia Zero Rules, Polo técnico, Hombre, Fibra sintética, Verde (Thyme Green), XS, Art. 1533303
 - Protección solar Omni-Shade UPF 30, opción de girar el cuello para una mayor cobertura
+- 1x Columbia Zero Rules, Polo técnico, Hombre, Fibra sintética, Verde (Thyme Green), XS, Art. 1533303
+- El sistema de refrigeración activado por el sudor Omni-Freeze Zero, una sinergia en tándem con el sistema de transpiración Omni-Wick
 - Tratamiento antimicrobiano para asegurar la protección contra el crecimiento bacteriano
 - Un gran polo, técnica y estilísticamente, combina un look casual y elegante junto con las últimas innovaciones de Omni
-- El sistema de refrigeración activado por el sudor Omni-Freeze Zero, una sinergia en tándem con el sistema de transpiración Omni-Wick
 
 [Visítala!!!](https://www.amazon.es/dp/B0817FKSPZ/?tag=tolees-21)

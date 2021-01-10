@@ -25,8 +25,8 @@ Está [Mery Fregona microfibras  Compuesto  Lila  26 cm](https://www.amazon.es/d
 
 ℹ️:
 
+- Microfibra de gran calidad. Absorbe 10 veces su propio peso en agua
 - Su cabezal extra grande permite obtener un escurrido perfecto. Se adapta a los palos estándar del mercado
 - La única fabricada en cruz. No deja rastro
-- Microfibra de gran calidad. Absorbe 10 veces su propio peso en agua
 
 [Ver la oferta!!](https://www.amazon.es/dp/B006WNCQ1U/?tag=tolees-21)

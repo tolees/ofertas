@@ -27,8 +27,8 @@ Tienes [Maybelline New York  Corrector de Ojeras e Imperfecciones Fit Me  Todo T
 
 - Envase con aplicador integrado, Disponible en una gama de 8 tonos para un resultado que se adapta a tu tono de piel
 - Aplicador práctico para una aplicación precisa, Fórmula sin aceites, No comedogénica, No grasa, Testado dermatológicamente
-- Contenido: 1 x Corrector antiojeras Maybelline New York Fit Me, Tono: 55 Hazelnut, Cantidad: 6,8 ml
 - Aplícalo con toquecitos en las imperfecciones u ojeras y difumínalo con el dedo para completar tu rutina de maquillaje con la base Fit Me Mate y Afinaporos
+- Contenido: 1 x Corrector antiojeras Maybelline New York Fit Me, Tono: 55 Hazelnut, Cantidad: 6,8 ml
 - Corrector que se adapta al tono de tu piel y proporciona una cobertura uniforme de acabado natural para una mirada descansada, Disimula rojeces, manchas y otras imperfecciones
 
 [Comprar!!!](https://www.amazon.es/dp/B07JZ89TZY/?tag=tolees-21)

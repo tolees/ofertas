@@ -25,9 +25,9 @@ Ahora mismo tienes [Braun Recambio de la afeitadora eléctrica 51S  compatible c
 
 🔎:
 
-- Vuelve a disfrutar de tu afeitadora Braun como el primer día, por un pequeño coste; sustituye el cabezal para obtener el máximo rendimiento
-- Sustituye el cabezal de tu afeitadora cada 18 meses para mantener un rendimiento óptimo
-- Compatible con la Serie 5 de la generación anterior, Contour Pro (590cc, 570cc, 550cc, 570, 560, 550r, 550b, 530r, 530b, 510) y 360 ° Complete, Activador (8995, 8990, 8985, 8975, 8970, 8595, 8590, 8588, 8585, 8583)
 - Consigue de nuevo el 100% del rendimiento de tu afeitadora con el recambio Braun
+- Sustituye el cabezal de tu afeitadora cada 18 meses para mantener un rendimiento óptimo
+- Vuelve a disfrutar de tu afeitadora Braun como el primer día, por un pequeño coste; sustituye el cabezal para obtener el máximo rendimiento
+- Compatible con la Serie 5 de la generación anterior, Contour Pro (590cc, 570cc, 550cc, 570, 560, 550r, 550b, 530r, 530b, 510) y 360 ° Complete, Activador (8995, 8990, 8985, 8975, 8970, 8595, 8590, 8588, 8585, 8583)
 
 [Visítala!!!](https://www.amazon.es/dp/B008LQZP7I/?tag=tolees-21)

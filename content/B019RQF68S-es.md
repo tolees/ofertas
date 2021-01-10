@@ -25,10 +25,10 @@ En este momento está [Carro Plataforma de Transporte Carretilla Plegable Carret
 
 🔎:
 
-- ✅Carro de transporte de aluminio
 - ✅Mangos ajustables de 3 etapas
 - ✅Dimensiones abiertas: 41x38.5x100cm
-- ✅Peso: 3kg,Capacidad de carga: 70kg maximo
+- ✅Carro de transporte de aluminio
 - ✅Es Plegable
+- ✅Peso: 3kg,Capacidad de carga: 70kg maximo
 
 [Aquí!!!](https://www.amazon.es/dp/B019RQF68S/?tag=tolees-21)

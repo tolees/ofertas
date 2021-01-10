@@ -25,8 +25,8 @@ En este momento está [Project Highrise - Architect s Edition](https://www.amazo
 
 🔎:
 
+- Inoltre troverai i contenuti speciali Miami Malls, Tokyo Towers, London Life e Brilliant Berlin
 - Contiene il gioco base insieme ai DLC Las Vegas
 - Oltre 29 scenari avvincenti
-- Inoltre troverai i contenuti speciali Miami Malls, Tokyo Towers, London Life e Brilliant Berlin
 
 [Aquí!!!](https://www.amazon.es/dp/B07HG8JYMM/?tag=tolees-21)

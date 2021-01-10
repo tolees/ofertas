@@ -25,8 +25,8 @@ Tienes [Nike Tanjun  PS  - Zapatillas para niño  color negro / blanco  talla 35
 
 ℹ️:
 
-- Ranuras flexibles profundas en la suela exterior para una mayor flexibilidad
 - Mediasuela/suela exterior de espuma que ofrece sensación de ligereza y una amortiguación duradera
+- Ranuras flexibles profundas en la suela exterior para una mayor flexibilidad
 - Parte superior de malla con revestimientos de sujeción para mejorar la transpirabilidad y aumentar la estabilidad
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00YFS0JFE/?tag=tolees-21)

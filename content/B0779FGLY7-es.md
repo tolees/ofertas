@@ -25,8 +25,8 @@ Ahora mismo tienes [Pepe Jeans Thor JR PB540349 Chemise  Azul  Ocean 588   10 An
 
 🔎:
 
-- Fit regular
-- Detalle raya en cuello y mangas
 - Polo básico en piqué
+- Detalle raya en cuello y mangas
+- Fit regular
 
 [Visítala!!!](https://www.amazon.es/dp/B0779FGLY7/?tag=tolees-21)

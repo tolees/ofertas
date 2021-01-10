@@ -25,10 +25,10 @@ Tienes [Neositrin Protect Spray Acondicionador sin aclarado que repele los piojo
 
 ℹ️:
 
-- Acondiciona el pelo en profundidad, aportando suavidad y permitiendo un desenredado fácil
-- Spray acondicionador Neositrín Protect que desenreda el cabello y repele los piojos de forma eficaz sin necesidad de aclarado
 - Recomendado para niños a partir de 12 meses de edad y adultos
 - Su fórmula con Activdiol deshidrata y elimina el piojo que pueda entrar en contacto con el cuero cabelludo, previniendo la aparición de liendres y la proliferación de la plaga
 - Aplicación fácil y rápida, tanto en pelo seco como en pelo mojado, con aroma frutal a naranja y mango
+- Spray acondicionador Neositrín Protect que desenreda el cabello y repele los piojos de forma eficaz sin necesidad de aclarado
+- Acondiciona el pelo en profundidad, aportando suavidad y permitiendo un desenredado fácil
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01BN0QUUE/?tag=tolees-21)

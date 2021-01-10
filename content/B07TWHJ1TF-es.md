@@ -25,9 +25,9 @@ Está [Funko- Pop Rocks Duran-Andy Taylor Collectible Toy  Multicolor  41230 ](h
 
 ℹ️:
 
-- Check out the other duran duran figures from funko collect them all
 - Funko pop is the 2018 toy of the year and peoples choice award winner
 - Figure stands 9cm and comes in a window display box
+- Check out the other duran duran figures from funko collect them all
 - From duran duran, andy taylor, as a stylized pop vinyl from funko
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TWHJ1TF/?tag=tolees-21)

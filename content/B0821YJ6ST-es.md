@@ -27,7 +27,7 @@ Está [Xiaomi POWERBANK 18W  Power Bank 3 10000MAH  Silver](https://www.amazon.e
 
 - 14 x 7 x 1.5 cm; 200 gramos
 - 3.7 Voltios
-- 200 g
 - Compatible con Portátil, Tablet, Smartphone
+- 200 g
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0821YJ6ST/?tag=tolees-21)

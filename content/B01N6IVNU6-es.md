@@ -25,10 +25,10 @@ Está [The Last of Us Parte II](https://www.amazon.es/dp/B01N6IVNU6/?tag=tolees-
 
 ℹ️:
 
-- Tipo de producto: videojuego
-- Es un juego para un solo jugador
 - Los jugadores asumirán el control de Ellie
 - Plataforma del juego: PlayStation 4
+- Es un juego para un solo jugador
 - Es un videojuego de acción y aventura
+- Tipo de producto: videojuego
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01N6IVNU6/?tag=tolees-21)

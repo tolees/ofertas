@@ -28,7 +28,7 @@ Tienes [Durex Preservativos Placer Prolongado con Efecto Retardante - Total 12 C
 - EASY-ON
 - PERÍMETRO ESTÁNDAR
 - PLACER DURADERO
-- PRESERVATIVOS DE GROSOR MEDIO
 - CONDONES LUBRICADOS
+- PRESERVATIVOS DE GROSOR MEDIO
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00XAER5QU/?tag=tolees-21)
