@@ -25,8 +25,8 @@ Ahora mismo tienes [BOSS Mix & Match Pants Pantalones  Negro  Black 001   44  Ta
 
 🔎:
 
+- Con bolsillos laterales
 - Pantalones con puños
 - Presentan cordón en la cintura
-- Con bolsillos laterales
 
 [Visítala!!!](https://www.amazon.es/dp/B071GQNZ2M/?tag=tolees-21)

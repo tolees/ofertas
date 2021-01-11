@@ -25,10 +25,10 @@ Tienes [NeroGiardini A908902D Sneaker Mujer De Piel  Ante Y Tela - Bosque 35 EU]
 
 ℹ️:
 
-- Material Externo: Piel
 - Ajuste: Cómodo
 - Material Interno: Piel
-- Tacón: 3.5 cm
+- Material Externo: Piel
 - Calidad: Made in Italy
+- Tacón: 3.5 cm
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08NTQ5GKJ/?tag=tolees-21)

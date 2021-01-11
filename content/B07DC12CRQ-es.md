@@ -25,7 +25,7 @@ Ahora mismo tienes [PUMA Vikky Stacked L  Zapatillas Mujer  Blanco White White  
 
 🔎:
 
-- Blanco
 - adulto
+- Blanco
 
 [Visítala!!!](https://www.amazon.es/dp/B07DC12CRQ/?tag=tolees-21)

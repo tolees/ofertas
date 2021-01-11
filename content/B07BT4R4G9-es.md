@@ -25,8 +25,8 @@ Tienes [Mr. Wonderful Portadocumentos de Viaje Camino a mi próximo Destino  Pie
 
 🔎:
 
-- Medidas: 18.8 x 11 x 3 cm
 - Peso: 277 gramos
+- Medidas: 18.8 x 11 x 3 cm
 - Diseñado en Barcelona con mucho amor
 
 [Comprar!!!](https://www.amazon.es/dp/B07BT4R4G9/?tag=tolees-21)

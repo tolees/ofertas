@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Vinilo Pop 36356: Televisión El Ch al 16.46 % de descuento'
-date: 2021-01-10 09:10:17
+date: 2021-01-11 14:42:25
 image: 'https://m.media-amazon.com/images/I/51L3CkjwqAL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07HB4J1K1/?tag=tolees-21'
 descuento: '16.46'
-average: '13.984583333333333'
+average: '14.287307692307692'
 ---
 
 Está [Funko Vinilo Pop 36356: Televisión El Chavo  Multi](https://www.amazon.es/dp/B07HB4J1K1/?tag=tolees-21) con 16.46 de descuento por 17.92 EUR (original: 21.45 EUR) en el siguiente enlace!
@@ -25,8 +25,8 @@ Está [Funko Vinilo Pop 36356: Televisión El Chavo  Multi](https://www.amazon.e
 
 ℹ️:
 
-- El Chavo
 - Televisión: El Chavo
+- El Chavo
 - Pop! Vinilo
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07HB4J1K1/?tag=tolees-21)

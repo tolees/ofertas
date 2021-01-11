@@ -25,10 +25,10 @@ En este momento está [Depesche- Libro para Colorear con Lentejuelas  Fantasy Mo
 
 🔎:
 
-- Práctica encuadernación de anillas para facilitar las hojas
-- Libro para colorear con cola de sirena para niñas
-- Con muchas pegatinas y plantillas
 - Diseño: Fantasy Model Mermaid
+- Libro para colorear con cola de sirena para niñas
 - Tamaño: aprox. 20,5 x 24 x 1,5 cm
+- Práctica encuadernación de anillas para facilitar las hojas
+- Con muchas pegatinas y plantillas
 
 [Aquí!!!](https://www.amazon.es/dp/B08BFV93QX/?tag=tolees-21)

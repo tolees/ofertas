@@ -25,10 +25,10 @@ Está [BRITA Aluna blanca - Jarra de Agua Filtrada con 1 cartucho MAXTRA+  Fil
 
 ℹ️:
 
+- Práctico indicador: en la tapa de la jarra de agua BRITA se encuentra el indicador que parpadea después de 4 semanas para reemplazar el cartucho MAXTRA+
 - Jarra de agua filtrada cómoda y sencilla: la tapa de la jarra se retira fácilmente para un rellenado rápido / A excepción de la tapa, la jarra es apta para el lavavajillas
 - Sostenible: Reduce el plástico de un solo uso bebiendo agua filtrada BRITA y ayúdanos a cuidar del medio ambiente.
 - Incluye un filtro MAXTRA+: prepara el té y el café con un aroma completo y un sabor intenso; además ofrece una protección óptima a tu cafetera o tetera.
-- Práctico indicador: en la tapa de la jarra de agua BRITA se encuentra el indicador que parpadea después de 4 semanas para reemplazar el cartucho MAXTRA+
 - El filtro de agua BRITA ofrece un agua de mejor sabor: reduce las sustancias que alteran el sabor y el olor del agua como el cloro y la cal, para que disfrutes de un vaso de agua fresca
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01N6B2LP1/?tag=tolees-21)

@@ -25,10 +25,10 @@ Ahora mismo tienes [Philips Afeitadora - 800 gr](https://www.amazon.es/dp/B01F7S
 
 🔎:
 
-- Afeitado sencillo y cómodo.
-- Cuchillas autoafilables y duraderas.
 - Sistema de cuchillas CloseCut.
-- Funcionamiento con cable para una potencia constante.
+- Cuchillas autoafilables y duraderas.
 - Se abre al tocar un botón y tiene un cepillo de limpieza.
+- Afeitado sencillo y cómodo.
+- Funcionamiento con cable para una potencia constante.
 
 [Visítala!!!](https://www.amazon.es/dp/B01F7SANTM/?tag=tolees-21)
