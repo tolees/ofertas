@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Descuento del 49.30 % en El Libro De La Selva  2014  [DVD]'
-date: 2020-12-31 18:52:28
+title: 'Descuento del 36.61 % en El Libro De La Selva  2014  [DVD]'
+date: 2021-01-11 04:26:30
 image: 'https://m.media-amazon.com/images/I/51NGyKL9+aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B00JVQUZZO-es'
-actualPrice: 7.99 EUR
+actualPrice: 9.99 EUR
 currency: EUR
-price: 7.99
+price: 9.99
 comparePrice: 15.76 EUR
 prodname: 'El Libro De La Selva  2014  [DVD]'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00JVQUZZO/?tag=tolees-21'
-descuento: '49.30'
-average: '9.448064516129035'
+descuento: '36.61'
+average: '9.45947368421053'
 ---
 
-Tienes [El Libro De La Selva  2014  [DVD]](https://www.amazon.es/dp/B00JVQUZZO/?tag=tolees-21) con un 49.30 % de descuento con precio de oferta de 7.99 EUR (original: 15.76 EUR) en el siguiente enlace!
+Tienes [El Libro De La Selva  2014  [DVD]](https://www.amazon.es/dp/B00JVQUZZO/?tag=tolees-21) con un 36.61 % de descuento con precio de oferta de 9.99 EUR (original: 15.76 EUR) en el siguiente enlace!
 
 [![El Libro De La Selva  2014  [DVD]](https://m.media-amazon.com/images/I/51NGyKL9+aL._SL200_.jpg)](https://www.amazon.es/dp/B00JVQUZZO/?tag=tolees-21)
 

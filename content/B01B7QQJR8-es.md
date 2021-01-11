@@ -25,10 +25,10 @@ En este momento está [Urban Classics Cargo Jogging Pants Pantalones  Black  M p
 
 🔎:
 
-- 100% algodón para máxima comodidad. Cierre: botón y cremallera.
-- Pantalones largos con bolsillos laterales cargos y corte estrecho (slim fit).
-- Puños en el dobladillo, bolsillo delantero, bolsillo con solapa trasera y cordón en la cintura.
-- Atención: el color puede diferir del de la imagen debido al efecto de luz.
 - Contenido del envío: 1 pantalón largo para hombre Cargo Jogging – en la mejor calidad de Urban Classics.
+- Atención: el color puede diferir del de la imagen debido al efecto de luz.
+- Puños en el dobladillo, bolsillo delantero, bolsillo con solapa trasera y cordón en la cintura.
+- Pantalones largos con bolsillos laterales cargos y corte estrecho (slim fit).
+- 100% algodón para máxima comodidad. Cierre: botón y cremallera.
 
 [Aquí!!!](https://www.amazon.es/dp/B01B7QQJR8/?tag=tolees-21)

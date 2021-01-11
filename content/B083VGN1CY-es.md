@@ -25,10 +25,10 @@ Está [Samsung HW-T450 - Barra de Sonido  Sonido 200W  2.1Ch  Subwoofer Inalámb
 
 ℹ️:
 
+- Smart Sound: analiza automáticamente las fuentes de sonido originales para optimizar la pista de audio de cada contenido específico
 - Bluetooth 4.2 Power On: la barra se encenderá y apagará automáticamente al encender y apagar el televisor
 - Subwoofer inalámbrico: potencia los graves y olvídate de los cables colocando el subwoofer donde quieras
 - Game Mode: disfruta de una experiencia única de juego con la configuración automática de audio y cancelación de ruido
-- Smart Sound: analiza automáticamente las fuentes de sonido originales para optimizar la pista de audio de cada contenido específico
 - Dolby Digital 2.1: innovador sistema de sonido que potencia el audio de cada escena gracias a sus 2.1 canales
 
 [Ver la oferta!!](https://www.amazon.es/dp/B083VGN1CY/?tag=tolees-21)

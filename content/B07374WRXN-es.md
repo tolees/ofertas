@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NANOCABLE 10.01.2302 - Cable 3A USB-C a  al 47.72 % de rebaja'
-date: 2021-01-04 02:31:32
+date: 2021-01-11 04:00:59
 image: 'https://m.media-amazon.com/images/I/41itkuZaUjL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,9 +26,9 @@ Tienes [NANOCABLE 10.01.2302 - Cable 3A USB-C a USB-C  Uso Principal para movile
 🔎:
 
 - Velocidad de transferencia de datos de hasta 480 Mbps
+- El conector USB Type-C es más fácil de usar que los conectores USB de generación anterior. Su diseño reversible le permite conectar dispositivos con cualquiera de sus caras hacia arriba.
 - Longitud: 2 m
 - Tipo de cable: C/M-C/M
-- El conector USB Type-C es más fácil de usar que los conectores USB de generación anterior. Su diseño reversible le permite conectar dispositivos con cualquiera de sus caras hacia arriba.
 - El cable ofrece hasta 3 amperios de carga, con lo cual se puede usar para cargar su dispositivo móvil, tablet, portátil etc.
 
 [Comprar!!!](https://www.amazon.es/dp/B07374WRXN/?tag=tolees-21)

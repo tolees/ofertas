@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Descuento del 45.29 % en Bond Pack 24 Dvd Col.Completa  Incluye S'
-date: 2020-12-27 11:21:22
+title: 'Descuento del 30.00 % en Bond Pack 24 Dvd Col.Completa  Incluye S'
+date: 2021-01-11 04:24:26
 image: 'https://m.media-amazon.com/images/I/41Hhj+HYoyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B019G9DR5A-es'
-actualPrice: 53.27 EUR
+actualPrice: 68.15 EUR
 currency: EUR
-price: 53.27
+price: 68.15
 comparePrice: 97.36 EUR
 prodname: 'Bond Pack 24 Dvd Col.Completa  Incluye Spectre '
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B019G9DR5A/?tag=tolees-21'
-descuento: '45.29'
-average: '52.00823529411765'
+descuento: '30.00'
+average: '53.707368421052635'
 ---
 
-Tienes [Bond Pack 24 Dvd Col.Completa  Incluye Spectre ](https://www.amazon.es/dp/B019G9DR5A/?tag=tolees-21) con un 45.29 % de descuento con precio de oferta de 53.27 EUR (original: 97.36 EUR) en el siguiente enlace!
+Tienes [Bond Pack 24 Dvd Col.Completa  Incluye Spectre ](https://www.amazon.es/dp/B019G9DR5A/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 68.15 EUR (original: 97.36 EUR) en el siguiente enlace!
 
 [![Bond Pack 24 Dvd Col.Completa  Incluye S](https://m.media-amazon.com/images/I/41Hhj+HYoyL._SL200_.jpg)](https://www.amazon.es/dp/B019G9DR5A/?tag=tolees-21)
 
