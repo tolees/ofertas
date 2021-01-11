@@ -25,8 +25,8 @@ Ahora mismo tienes [ASTIGARRAGA KIT LINE Tablero Pino 140x70x3 5](https://www.am
 
 🔎:
 
-- Medidas: 140x70x3,5cm (alto/ancho/fondo) y 35 mm de grosor.
-- Tablero de madera maciza de pino Certificado PEFC y acabado sin barnizar.
 - Madera certificada PEFC. Producto procedente de bosques sostenibles.
+- Tablero de madera maciza de pino Certificado PEFC y acabado sin barnizar.
+- Medidas: 140x70x3,5cm (alto/ancho/fondo) y 35 mm de grosor.
 
 [Visítala!!!](https://www.amazon.es/dp/B01G79SUM2/?tag=tolees-21)

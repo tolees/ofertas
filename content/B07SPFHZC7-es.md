@@ -25,8 +25,8 @@ Ahora mismo tienes [Pop TV: Stranger Things - 6" Monster](https://www.amazon.es/
 
 🔎:
 
-- Figure stands 15cm and comes in a window display box
 - Funko pop is the 2018 toy of the year and peoples choice award winner
+- Figure stands 15cm and comes in a window display box
 - From stranger things, monster, as a stylized 6" pop vinyl from funko
 - Check out the other stranger things figures from funko collect them all
 

@@ -25,8 +25,8 @@ Tienes [adidas Fest Bag Tref Mochilla de Deporte  Unisex Adulto  Black  NS](http
 
 🔎:
 
-- Durable fabric
 - Adjustable Padded shoulder straps
 - Large main Compartiment
+- Durable fabric
 
 [Comprar!!!](https://www.amazon.es/dp/B07S7CKS9P/?tag=tolees-21)

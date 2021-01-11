@@ -25,8 +25,8 @@ Está [CooLife Café Macchiato - Pack 10u x 230ml](https://www.amazon.es/dp/B07F
 
 ℹ️:
 
+- Alérgenos: leche entera
 - Ingredientes: café, leche entera, azucar
 - País de origen: Austria
-- Alérgenos: leche entera
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FDD1FTZ/?tag=tolees-21)

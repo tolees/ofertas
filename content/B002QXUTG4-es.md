@@ -25,9 +25,9 @@ Tienes [Michael Kors Reloj con Correa de Acero MK5165](https://www.amazon.es/dp/
 
 🔎:
 
-- Reloj de mujer MICHAEL KORS - Caja redonda de acero inoxidable (diám. 39 mm) con acabado pulido - 2 pulsadores cromados - 10 ATM de resistencia a la presión del agua - Bisel con glitz
 - Brazalete de acero inoxidable con acabado pulido brillante y mate - Cierre desplegable
 - Presentado en estuche MICHAEL KORS
+- Reloj de mujer MICHAEL KORS - Caja redonda de acero inoxidable (diám. 39 mm) con acabado pulido - 2 pulsadores cromados - 10 ATM de resistencia a la presión del agua - Bisel con glitz
 - Esfera plateada con estampado, índices cromados y números árabes plateados a las 2/4/8/10/12 - Cronógrafo con fecha y modo 24h - Agujas plateadas - Cristal mineral
 
 [Comprar!!!](https://www.amazon.es/dp/B002QXUTG4/?tag=tolees-21)

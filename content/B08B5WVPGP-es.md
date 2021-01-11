@@ -25,10 +25,10 @@ Tienes [LABISTS Kit de Módulos de Sensores con 15 Proyectos  8 Sensores para Pr
 
 ℹ️:
 
-- Este kit de modules de sensores es diseñado para Raspberry Pi, compatible con todos los modelos de Raspberry Pi (Raspberry pi 4, pi 3B , pi 3B, pi 3A, pi 2B, pi zero) y Arduino
 - Todos los artículos se almacenan en una bonita caja de plástico para mantener todo organizado. Dado que los sensores están diseñados con una forma única, hermosos embalajes para darle un disfrute visual, es el mejor regalo creativo para los niños
-- Entorno de programación simple y claro: compatibilidad con el lenguaje PYTHON y C, el entorno de programación es fácil de usar para principiantes, pero lo suficientemente flexible como para que los usuarios avanzados también lo aprovechen
 - Es un kit ideal para tener disponible una gran cantidad de sensores diferentes, incluyendo sensores para detectar temperatura, humedad, sonido, luz, infrarrojos, movimiento y así sucesivamente. los pincipantes pueden usar este kit de módulos sensores para hacer muchos proyectos interesantes
 - El kit de modulos de sensores se le proporciona una guía de usuario y de video en línea gratuitas para ayudarlo a saber claramente cómo operar los proyectos. En comparación con el kit de desarrollo tradicional, el LABISTS kit de inicio es bastante fácil de usar. Ideal para niños y principiantes
+- Este kit de modules de sensores es diseñado para Raspberry Pi, compatible con todos los modelos de Raspberry Pi (Raspberry pi 4, pi 3B , pi 3B, pi 3A, pi 2B, pi zero) y Arduino
+- Entorno de programación simple y claro: compatibilidad con el lenguaje PYTHON y C, el entorno de programación es fácil de usar para principiantes, pero lo suficientemente flexible como para que los usuarios avanzados también lo aprovechen
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08B5WVPGP/?tag=tolees-21)
