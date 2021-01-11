@@ -25,10 +25,10 @@ En este momento está [Fiskars Perforadora de figuras complicadas XL - Lotus  Ø
 
 🔎:
 
-- Requiere poco esfuerzo teniendo simplemente que presionar la superficie naranja, Perforación de papel de lija fino para afilar la perforadora
-- Contenido: 1x Fiskars Perforadora de figuras, XL, Flores lotus, Dimensiones (AxLxA): 8,8 x 6 x 14,3 cm, Peso: 550 g, Material: Acero inoxidable/Plástico, Color: Blanco/Naranja, 1015773
-- Perforadora de figuras para perforar flores lotus (Ø 5 cm) en diversos materiales, como papel, cartón o papel fotográfico
 - Ideal para manualidades con diversos materiales con un grosor de hasta 210 g, Para la producción de decoraciones individuales
+- Contenido: 1x Fiskars Perforadora de figuras, XL, Flores lotus, Dimensiones (AxLxA): 8,8 x 6 x 14,3 cm, Peso: 550 g, Material: Acero inoxidable/Plástico, Color: Blanco/Naranja, 1015773
+- Requiere poco esfuerzo teniendo simplemente que presionar la superficie naranja, Perforación de papel de lija fino para afilar la perforadora
 - Larga durabilidad
+- Perforadora de figuras para perforar flores lotus (Ø 5 cm) en diversos materiales, como papel, cartón o papel fotográfico
 
 [Aquí!!!](https://www.amazon.es/dp/B00IN358YE/?tag=tolees-21)

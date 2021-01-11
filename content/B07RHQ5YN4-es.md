@@ -25,8 +25,8 @@ Tienes [Salomon X Reveal GTX W  Zapatillas de Senderismo Mujer  Morado  Flint/Bl
 
 🔎:
 
-- Calzado salomon
-- Shoes x reveal gtx (l40971400)
 - Zapatillas de hiking montañismo, alpinismo y trekking mujer
+- Shoes x reveal gtx (l40971400)
+- Calzado salomon
 
 [Comprar!!!](https://www.amazon.es/dp/B07RHQ5YN4/?tag=tolees-21)

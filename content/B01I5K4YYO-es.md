@@ -26,9 +26,9 @@ Tienes [La Colección Noble Criaturas Mágicas - Nagini](https://www.amazon.es/d
 🔎:
 
 - Es una pieza de colección para los amantes de las películas y libros de Harry Potter
-- Viene en una pantalla de exposición
 - Reproducción del serpiente de Lord Voldemort
 - Miniatura de resina que es detallada y pintada con cuidado
+- Viene en una pantalla de exposición
 - Las dimensiones del producto son 11.5 x 11.5 x 18 cm
 
 [Comprar!!!](https://www.amazon.es/dp/B01I5K4YYO/?tag=tolees-21)
