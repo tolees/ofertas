@@ -25,10 +25,10 @@ Tienes [Columbia Woodburn II  Zapatillas Hombre  Negro  Black Caramel   42.5 EU]
 
 ℹ️:
 
-- Material exterior: Cuero
 - Cierre: Cordones
-- Revestimiento: Sintético
 - Tipo de tacón: Plano
+- Material exterior: Cuero
 - Material de la suela: Goma
+- Revestimiento: Sintético
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00KWFH0AG/?tag=tolees-21)

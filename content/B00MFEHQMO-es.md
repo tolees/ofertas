@@ -25,11 +25,11 @@ Tienes [Rowenta SO2320 Comfort Compact Calefactor 2000 W  función Silence  2 ve
 
 ℹ️:
 
-- Medidas compactas de 21 x 17,5 x 27,5 cm
-- Termostato con dispositivo mecánico anti-heladas para los periodos más fríos del invierno
 - Función ventilador de aire frío ya que está diseñado para su uso durante todo el año
-- Calefactor de aire caliente con dos posiciones y potencia regulable: 1.000 W silence y 2.000 W potencia máxima
 - Función silence: reducción del nivel de ruido (sólo 44 dba en la posición silenciosa a 1.000 w)
 - Asa para facilitar el transporte y cable largo de 1.4 metros
+- Calefactor de aire caliente con dos posiciones y potencia regulable: 1.000 W silence y 2.000 W potencia máxima
+- Medidas compactas de 21 x 17,5 x 27,5 cm
+- Termostato con dispositivo mecánico anti-heladas para los periodos más fríos del invierno
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00MFEHQMO/?tag=tolees-21)

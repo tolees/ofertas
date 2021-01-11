@@ -27,8 +27,8 @@ Está [Luminarc 9207679 Pure Box Active - Recipiente Hermetico Rectangular  Vidr
 
 - Con válvula de vapor
 - 1 Pieza
+- Recipiente apilable
 - Recipiente hermético
 - Resistente choque térmico
-- Recipiente apilable
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00KHTESQ6/?tag=tolees-21)

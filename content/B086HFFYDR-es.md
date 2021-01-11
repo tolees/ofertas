@@ -25,11 +25,11 @@ Está [ASUS ROG Zephyrus G GA502DU-AL064 - Portátil Gaming de 15.6" FullHD 120H
 
 ℹ️:
 
-- Pantalla de 15.6" FullHD (1920x1080) 120Hz
-- Almacenamiento de 512GB SSD
-- Procesador AMD Ryzen 7 3750h apu (4 núcleos, 8 subprocesos, caché 6MB level 2 3, 2. 3GHz hasta 4. 0GHz, 64-bit)
 - Tarjeta gráfica NVIDIA geforce GTX 1660Ti 6GB GDDR6 VRAM
-- Memoria RAM de 16GB (8GB + 8GB en placa ) DDR4 2400MHz
+- Procesador AMD Ryzen 7 3750h apu (4 núcleos, 8 subprocesos, caché 6MB level 2 3, 2. 3GHz hasta 4. 0GHz, 64-bit)
 - Sin sistema operativo
+- Memoria RAM de 16GB (8GB + 8GB en placa ) DDR4 2400MHz
+- Almacenamiento de 512GB SSD
+- Pantalla de 15.6" FullHD (1920x1080) 120Hz
 
 [Ver la oferta!!](https://www.amazon.es/dp/B086HFFYDR/?tag=tolees-21)

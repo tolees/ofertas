@@ -26,9 +26,9 @@ Tienes [Orbegozo RH Radiador de Aceite  1500W de Potencia  7 Elementos y diseño
 🔎:
 
 - Termofusible de seguridad con limitador y piloto luminoso de encendido
-- Termostato regulable de alta precisión
-- Potencia de 1500W
 - Radiador de aceite Orbegozo en color blanco, 4 ruedas pivotantes, asa para transporte y recoge cables
+- Potencia de 1500W
+- Termostato regulable de alta precisión
 - Diseño compacto
 
 [Comprar!!!](https://www.amazon.es/dp/B078Q6M9GD/?tag=tolees-21)
