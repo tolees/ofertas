@@ -25,10 +25,10 @@ En este momento está [Vans Nuevo SKOOL MOCHICO Victoria Azul  Talla única](htt
 
 🔎:
 
+- Correas acolchadas para el hombro
+- Un compartimento principal grande
 - Género objetivo: unisexNombre del departamento: niños
 - Bolsillo frontal con organizador
 - Cremalleras YKK
-- Correas acolchadas para el hombro
-- Un compartimento principal grande
 
 [Aquí!!!](https://www.amazon.es/dp/B089YVHR3Q/?tag=tolees-21)

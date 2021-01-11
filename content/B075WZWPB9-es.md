@@ -26,9 +26,9 @@ Tienes [Pro Breeze Mini Calefactor Cerámico 2000W. Oscilación Automática y 2 
 🔎:
 
 - termostato ajustable y oscilación: El termostato ajustable controla la temperatura a su alrededor para un calentamiento óptimo. Además, la oscilación de 60° proporciona una distribución uniforme del calor en espacios pequeños, medianos y grandes.
-- dispositivo de seguridad: En su interior tiene un dispositivo de seguridad que garantiza la protección contra el sobrecalentamiento del aparato y también tiene un interruptor antivuelco que garantiza que el dispositivo se apague cuando las condiciones de uso no sean óptimas.
-- dimensiones: 18.5 x 15.5 x 26 cm. 1200W (Bajo) 2000W (Alto). 220-240V ~ 50Hz.
 - tecnología en cerámica: Esta nueva tecnología especial de cerámica es capaz de proporcionar un calentamiento más rápido y más eficiente en comparación con los calentadores de ventilador tradicionales.
 - ligero y portátil: Pequeño pero muy potente, este mini calentador es adecuado para calentar pequeños ambientes como habitaciones pequeñas, casas y oficinas. Su diseño compacto lo hace fácil de usar y liviano para moverse.
+- dimensiones: 18.5 x 15.5 x 26 cm. 1200W (Bajo) 2000W (Alto). 220-240V ~ 50Hz.
+- dispositivo de seguridad: En su interior tiene un dispositivo de seguridad que garantiza la protección contra el sobrecalentamiento del aparato y también tiene un interruptor antivuelco que garantiza que el dispositivo se apague cuando las condiciones de uso no sean óptimas.
 
 [Comprar!!!](https://www.amazon.es/dp/B075WZWPB9/?tag=tolees-21)

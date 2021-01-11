@@ -25,10 +25,10 @@ Tienes [Harry Potter LAMPARA 3D Potion Bottle  Verde](https://www.amazon.es/dp/B
 
 🔎:
 
-- PUNTOS DE GLOWING MAGICAL: Con forma para parecerse a una botella de veneno con una etiqueta en la parte delantera completa con advertencias, esta gran pequeña luz es preciosa para los fans de Harry Potter.
 - Detalles de unión: «Extremadamente venenoso», «Potion No.86» y «Contiene piedra lunar en polvo y jarabe de hellebore». Ignite la imaginación con esta adorable luz para establecer el estado de ánimo.
+- PUNTOS DE GLOWING MAGICAL: Con forma para parecerse a una botella de veneno con una etiqueta en la parte delantera completa con advertencias, esta gran pequeña luz es preciosa para los fans de Harry Potter.
+- La LEGEND: Primera edición en 1997, J.K. Rowlings más vendida serie de novelas después de las aventuras mágicas de Harry Potter, Ron Weasley y Hermione Granger se ha convertido en un fenómeno cultural
 - Producto oficial de licencia: no hay golpes baratos aquí. Sólo la oferta real. Licencia oficial es tu garantía de calidad y artesanía en nuestro producto.
 - Entrepierna o brillo: la luz de botella Potion tiene 2 modos de luz, puedes ajustar la luz a estática o cambiarla a un toque mágico. La luz de 20 cm de alto es alimentada por USB y viene con un cable USB.
-- La LEGEND: Primera edición en 1997, J.K. Rowlings más vendida serie de novelas después de las aventuras mágicas de Harry Potter, Ron Weasley y Hermione Granger se ha convertido en un fenómeno cultural
 
 [Comprar!!!](https://www.amazon.es/dp/B07BKZBXP4/?tag=tolees-21)

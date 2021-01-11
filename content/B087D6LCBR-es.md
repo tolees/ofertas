@@ -25,10 +25,10 @@ Está [Amazfit T-Rex Reloj Smartwatch Deportivo - 20 Días Batería  12 Certific
 
 ℹ️:
 
-- 12 certificaciones de categoría militar.
 - Resistente a ambientes adversos.
-- Pantalla de colores AMOLED de 1,3 pulgadas siempre activa.
-- Batería con una vida útil ultra larga de 20 días.
 - Sumergible hasta 50 metros y 14 modos de deporte.
+- 12 certificaciones de categoría militar.
+- Batería con una vida útil ultra larga de 20 días.
+- Pantalla de colores AMOLED de 1,3 pulgadas siempre activa.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B087D6LCBR/?tag=tolees-21)

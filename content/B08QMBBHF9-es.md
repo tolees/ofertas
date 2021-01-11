@@ -25,7 +25,7 @@ Tienes [Geographical Norway Chaqueta VERVEINE de hombre NEGRO talla M](https://w
 
 🔎:
 
-- Chaqueta de hombre
 - Capucha
+- Chaqueta de hombre
 
 [Comprar!!!](https://www.amazon.es/dp/B08QMBBHF9/?tag=tolees-21)

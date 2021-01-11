@@ -25,10 +25,10 @@ Ahora mismo tienes [POWERADD EnergyCell Power Bank 5000mAh Cargador Portátil co
 
 🔎:
 
-- 【Ultra Compacta】Sólo 99g peso, es más ligero de las baterías de 5000mAh, 11 x 2,7 x 2,7 cm tamaño, fácil de llevar, se adapta a cualquier lugar: mano, pantalón y mochilla.
-- 【2.4A Salida Más Rápida】!Es la más rápida de las pilas de 5000mAh! iPhone X y Huawei Mate 20 están completamente cargados en 1.5 horas y 2 horas.
 - 【Regalo Único】Se parece el tamaño de un lápiz labial, es un valor excepcional y un excelente regalo para cualquier ocasión, como Navidad, Acción de Gracias, Cumpleaños, Viaje y Vida Diaria.
 - 【Batería de Alta Calidad】Con batería avanzada que la misma batería de Tesla S, ofrece múltiples protecciones para garantizar la seguridad de los dispositivos.
+- 【Ultra Compacta】Sólo 99g peso, es más ligero de las baterías de 5000mAh, 11 x 2,7 x 2,7 cm tamaño, fácil de llevar, se adapta a cualquier lugar: mano, pantalón y mochilla.
 - 【Amplia Compatibilidad】Carga 2 veces para iPhone 8 y 7, 1 vez para iPhone XS Max, además casi compatible con todos los teléfonos móviles, Samsung, Xiaomi, Nokia, etc.
+- 【2.4A Salida Más Rápida】!Es la más rápida de las pilas de 5000mAh! iPhone X y Huawei Mate 20 están completamente cargados en 1.5 horas y 2 horas.
 
 [Visítala!!!](https://www.amazon.es/dp/B07MD6Y2XB/?tag=tolees-21)

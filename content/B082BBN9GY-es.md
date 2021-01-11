@@ -25,8 +25,8 @@ Tienes [Geographical Norway Parka DE Hombre BECO rol 7 001](https://www.amazon.e
 
 🔎:
 
-- Zip closure center part
 - PVC badge on sleeve
+- Zip closure center part
 - Hood
 
 [Comprar!!!](https://www.amazon.es/dp/B082BBN9GY/?tag=tolees-21)

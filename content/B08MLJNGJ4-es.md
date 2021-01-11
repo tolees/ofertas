@@ -25,8 +25,8 @@ Tienes [Geographical Norway Parka BOOMERANG hombre CAQUI talla M](https://www.am
 
 🔎:
 
-- Chaqueta de hombre
 - pelo destomtable
+- Chaqueta de hombre
 - Capucha
 
 [Comprar!!!](https://www.amazon.es/dp/B08MLJNGJ4/?tag=tolees-21)

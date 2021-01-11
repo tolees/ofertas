@@ -25,15 +25,15 @@ Ahora mismo tienes [Sunstech DVPMH225 | Reproductor DVD Compacto  Color Negro](h
 
 🔎:
 
+- Accesorios: cable AV y mando a distancia.
+- Reproducción automática.
+- Puerto USB y HDMI.
+- Imagen: JPEG.
+- Vídeo: MPEG4, VCD y SVCD. Audio: MP3 y WMA.
 - OSD - idiomas, zoom, búsqueda rápida y cámara lenta.
 - Reproductor DVD compacto. Soporta: DVD/±R/+RW y CD/-R/-RW.
 - Formato: 16:9 / 4:3 y compatible PAL / NTSC.
-- Vídeo: MPEG4, VCD y SVCD. Audio: MP3 y WMA.
-- Puerto USB y HDMI.
 - Euroc.: RGB, salida audio 2 canales - 192kHz/24 bit DAC.
 - Control parental.
-- Accesorios: cable AV y mando a distancia.
-- Imagen: JPEG.
-- Reproducción automática.
 
 [Visítala!!!](https://www.amazon.es/dp/B07JVNTBBK/?tag=tolees-21)

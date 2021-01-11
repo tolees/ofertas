@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nike Revolution 5  Running Shoe Mujer  B al 37.84 % de descuento'
-date: 2021-01-08 21:17:04
+date: 2021-01-11 19:08:44
 image: 'https://m.media-amazon.com/images/I/3184Lf90BgL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07NLY7NGG/?tag=tolees-21'
 descuento: '37.84'
-average: '41.20809523809523'
+average: '40.8890909090909'
 ---
 
 Ahora mismo tienes [Nike Revolution 5  Running Shoe Mujer  Black/White-Anthracite  35.5 EU](https://www.amazon.es/dp/B07NLY7NGG/?tag=tolees-21) a 34.19 EUR (original: 55.0 EUR) (37.84 %  de descuento) en el siguiente enlace!

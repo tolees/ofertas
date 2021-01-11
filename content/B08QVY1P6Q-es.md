@@ -25,7 +25,7 @@ Está [Geographical Norway Parka de Mujer DIONYSOS Burdeos L](https://www.amazon
 
 ℹ️:
 
-- Capucha
 - Bolsillos
+- Capucha
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08QVY1P6Q/?tag=tolees-21)

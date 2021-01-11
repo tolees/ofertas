@@ -25,12 +25,12 @@ Tienes [Orbegozo H 55 – Estufa de gas butano catalítica  3000 W y tres nivele
 
 ℹ️:
 
+- Triple sistema de seguridad
 - Estufa de butano catalítica Orbegozo en color negro mate y ruedas pivotantes para facilitar su desplazamiento
-- Sistema termopar por fallo en la llama desconectándose automáticamente
 - Analizador atmosférico que corta el gas cuando en caso de alta concentración de CO2
-- Panel catalítico de doble capa con encendido mediante pulsador
 - 3000 W distribuidos en tres niveles de potencia
 - Encendido piezoeléctrico
-- Triple sistema de seguridad
+- Panel catalítico de doble capa con encendido mediante pulsador
+- Sistema termopar por fallo en la llama desconectándose automáticamente
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00B5TEAME/?tag=tolees-21)

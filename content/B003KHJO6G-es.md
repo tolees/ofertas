@@ -25,9 +25,9 @@ Está [Honeywell HT900E4 - Ventilador Turbo potente para Mesa y Suelo  regulable
 
 ℹ️:
 
+- Su cabezal de ventilador ajustable hasta 90 grados
 - Tiene tres velocidades de enfriamiento potentes
 - 350 cfm para una comodidad óptima
 - Rejilla extraíble para fácil itar la limpieza
-- Su cabezal de ventilador ajustable hasta 90 grados
 
 [Ver la oferta!!](https://www.amazon.es/dp/B003KHJO6G/?tag=tolees-21)

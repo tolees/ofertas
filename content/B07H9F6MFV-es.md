@@ -25,10 +25,10 @@ Está [Orbegozo FH 7001 – Calefactor baño con movimiento oscilante  2 niveles
 
 ℹ️:
 
-- Diseño compacto y liguero con asa de transporte posterior que te permitirá llevarlo cómodamente donde sea necesario.
-- Potencia de 2000 W distribuida en 2 niveles de calefacción más función ventilador de aire frío, lo que lo convierten en un aparato 100% funcional durante todo el año.
-- Calefactor Orbegozo especial para baño con movimiento oscilante que mejora la distribución del calor por toda la estancia. Sistema de calor instantáneo e índice de protección IP-21 que certifica su uso en baño.
 - Temperatura regulable mediante termostato: sistema que detiene el calefactor una vez alcanzada la temperatura fijada, al igual que lo enciende en caso de que esta descienda, teniendo como objetivo reducir su consumo eléctrico.
 - Incorpora sistema de seguridad contra sobrecalentamiento.
+- Calefactor Orbegozo especial para baño con movimiento oscilante que mejora la distribución del calor por toda la estancia. Sistema de calor instantáneo e índice de protección IP-21 que certifica su uso en baño.
+- Potencia de 2000 W distribuida en 2 niveles de calefacción más función ventilador de aire frío, lo que lo convierten en un aparato 100% funcional durante todo el año.
+- Diseño compacto y liguero con asa de transporte posterior que te permitirá llevarlo cómodamente donde sea necesario.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07H9F6MFV/?tag=tolees-21)

@@ -25,8 +25,8 @@ Ahora mismo tienes [Geographical Norway Chaqueta Softshell Hombre TYKOON rol 7 0
 
 🔎:
 
-- Bolsillos
 - Cierre cremallera parte central
 - Capucha
+- Bolsillos
 
 [Visítala!!!](https://www.amazon.es/dp/B07Y58DS7P/?tag=tolees-21)

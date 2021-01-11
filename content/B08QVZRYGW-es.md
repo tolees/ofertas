@@ -25,7 +25,7 @@ En este momento está [Geographical Norway Parka de Mujer DIONYSOS Azul Marino L
 
 🔎:
 
-- Bolsillos
 - Capucha
+- Bolsillos
 
 [Aquí!!!](https://www.amazon.es/dp/B08QVZRYGW/?tag=tolees-21)

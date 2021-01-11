@@ -25,11 +25,11 @@ Tienes [Sony ICF-C1 - Radio despertador con pantalla LED  negro](https://www.ama
 
 ℹ️:
 
-- Power Battery type is 220 to 240 Volts Alternating Current, 50 by 60 Hertz and CR2032 back up battery
-- Product Type:Clock radio
 - Height:10.2 cm
-- Depth:10.1 cm
-- Enclosure Colour:Black
 - Weight:520 g
+- Power Battery type is 220 to 240 Volts Alternating Current, 50 by 60 Hertz and CR2032 back up battery
+- Depth:10.1 cm
+- Product Type:Clock radio
+- Enclosure Colour:Black
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00I0D0WCK/?tag=tolees-21)

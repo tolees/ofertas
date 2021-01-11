@@ -25,9 +25,9 @@ Ahora mismo tienes [Bonsenkitchen Cafetera con molinillo cónico  Cafetera Goteo
 
 🔎:
 
-- ☕ Cafetera Totalmente Automática: combina las funciones de una cafetera de filtro y un molinillo de café en grano. El polvo de café recién molido conserva su sabor original, que es la base de una deliciosa taza de café.
-- ☕ Temporizador Programable: despiértese con una taza de café caliente con funcionalidad totalmente programable. Puede configurar el tiempo de preparación hasta con 24 horas de anticipación, ahorrar tiempo y simplificar su rutina matutina.
 - ☕ Operación Simple: 1. Ponga agua en el tanque de agua. Coloque 2 granos de café en el recipiente para granos de café. 3. Seleccione el grado de pulido. 4 Elija el número de tazas y la concentración. 5. Luego presione el botón de inicio.
+- ☕ Temporizador Programable: despiértese con una taza de café caliente con funcionalidad totalmente programable. Puede configurar el tiempo de preparación hasta con 24 horas de anticipación, ahorrar tiempo y simplificar su rutina matutina.
+- ☕ Cafetera Totalmente Automática: combina las funciones de una cafetera de filtro y un molinillo de café en grano. El polvo de café recién molido conserva su sabor original, que es la base de una deliciosa taza de café.
 - ☕ Concentración Ajustable: el número de tazas y la intensidad del café se pueden seleccionar mediante botones, y la pantalla LCD de alta resolución puede ayudarlo a seleccionar funciones.
 
 [Visítala!!!](https://www.amazon.es/dp/B08BWT81V2/?tag=tolees-21)

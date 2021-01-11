@@ -25,10 +25,10 @@ Está [Kingston SUV500MS/240G - Disco Duro sólido de 240 GB  mSATA ](https://w
 
 ℹ️:
 
-- Varias capacidades hasta 960 GB
-- Unidad de autocifrado (SED) AES de 256 bits basado en hardware (SED) y TCG Opal 2.0
+- Disponibles en varios tamaños (2.5”/M.2/mSATA)
 - 10 veces más rápidas que los discos duros de 7200 RPM
 - Velocidad de lectura: 520 MB/s
-- Disponibles en varios tamaños (2.5”/M.2/mSATA)
+- Varias capacidades hasta 960 GB
+- Unidad de autocifrado (SED) AES de 256 bits basado en hardware (SED) y TCG Opal 2.0
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07C3LRW1N/?tag=tolees-21)

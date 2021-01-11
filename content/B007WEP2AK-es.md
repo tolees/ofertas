@@ -25,9 +25,9 @@ Ahora mismo tienes [Einhell 1544132 - Accesorios TIG para soldador inverter 150]
 
 🔎:
 
-- Para el soldado por TIG
 - El electrodo de tungsteno es adecuado para la soldadura de aceros aleados DC
-- Soldadura de acero inoxidable
 - Para soldadoras inverter BTIW 150 IW y BT160
+- Para el soldado por TIG
+- Soldadura de acero inoxidable
 
 [Visítala!!!](https://www.amazon.es/dp/B007WEP2AK/?tag=tolees-21)

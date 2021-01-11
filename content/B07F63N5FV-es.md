@@ -25,10 +25,10 @@ Tienes [Incase Icon Sleeve - Funda Protectora para Apple MacBook Gris Oscuro](ht
 
 ℹ️:
 
-- STREAMLINED DESIGN: The Incase ICON Sleeve with Woolenex provides streamlined surface and side protection for 15-inch MacBook Pro.
 - DIMENSIONS/WEIGHT: 15.5 x 11x 0.5 inches / 0.5 lbs.123
-- MACBOOK COMPATIBILITY: Fits up to a 15-inch MacBook Pro – Thunderbolt (USB-C).
+- STREAMLINED DESIGN: The Incase ICON Sleeve with Woolenex provides streamlined surface and side protection for 15-inch MacBook Pro.
 - REFINED, DURABLE EXTERIOR: Woven from both 300D and 600D polyester, Woolenex retains a slim form with the high-tensile strength of ballistic nylon. The unique weave results in a lightweight, durable textile with beautiful color depth. And its resilient composition takes on any environment with excellent resistance to abrasions and shrinking while repelling the elements and resisting wear, tear and fade over extended periods of use.
+- MACBOOK COMPATIBILITY: Fits up to a 15-inch MacBook Pro – Thunderbolt (USB-C).
 - PREMIUM MACBOOK PROTECTION: The lightweight, shock-absorbing TENSAERLITE bumper is sewn to each side and provides maximum impact protection with minimal weight. Additionally, the ICON Sleeve is crafted with a refined, long-lasting Woolenex exterior and soft, faux-fur-lined interior to carefully protect MacBook against bumps and scratches during transport. The secure magnetic closure prevents unwanted slips and keeps out dust and debris while still allowing easy access to MacBook.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07F63N5FV/?tag=tolees-21)

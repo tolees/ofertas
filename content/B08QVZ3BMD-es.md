@@ -25,7 +25,7 @@ En este momento está [Geographical Norway Parka de Mujer DIONYSOS Negro XL](htt
 
 🔎:
 
-- Bolsillos
 - Capucha
+- Bolsillos
 
 [Aquí!!!](https://www.amazon.es/dp/B08QVZ3BMD/?tag=tolees-21)
