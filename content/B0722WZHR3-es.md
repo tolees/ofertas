@@ -25,10 +25,10 @@ En este momento está [Asmodee  Jungle Speed Beach  JSBEAC01ES](https://www.amaz
 
 🔎:
 
-- y después la tapan en el turno siguiente con otra carta, formando así su mazo de descartes.
 - Dimensiones del producto: 13 x 6 x 14 cm
-- Cuando 2 jugadores han descubierto una carta con símbolos idénticos (el color no importa), tendrá lugar un duelo. El primero de los dos que consiga atrapar el Tótem ganará el duelo.
-- Edad mínima recomendada: 6 años
 - El objetivo del juego es conseguir deshacerte lo más rápido posible de todas tus cartas. Para ello, los jugadores revelan una carta de su reserva y la colocan delante de ellos, por turnos
+- Edad mínima recomendada: 6 años
+- y después la tapan en el turno siguiente con otra carta, formando así su mazo de descartes.
+- Cuando 2 jugadores han descubierto una carta con símbolos idénticos (el color no importa), tendrá lugar un duelo. El primero de los dos que consiga atrapar el Tótem ganará el duelo.
 
 [Aquí!!!](https://www.amazon.es/dp/B0722WZHR3/?tag=tolees-21)
