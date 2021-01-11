@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NACON PCCH-300 Silla Gaming en negro y v al 28.53 % de descuento'
-date: 2021-01-10 17:59:14
+date: 2021-01-11 18:37:51
 image: 'https://m.media-amazon.com/images/I/41RmurCAc6L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Ahora mismo tienes [NACON PCCH-300 Silla Gaming en negro y verde con cojines lum
 
 🔎:
 
-- Materiales de alta calidad – Tapizado de PU fácil de limpiar; asiento relleno de espuma de poliuretano elástica, ignifuga y cómoda;,ruedas de nylon giratorias a 360º
-- Silla gamer con un diseño ergonómico que favorece largas partidas de videojuegos
-- Silla gaming con respaldo reclinable (hasta 40º), altura regulable, apoyabrazos fijos, con cojines lumbares y cervicales regulables (incluidos) con medidas de 73,6 x 55,1 x 31,6 cm
 - Silla pc gaming que soporta un peso máximo de 160 kg
 - Idónea para disfrutar de todas tus partidas de PC gaming, PS3, PS4 o Xbox - Conviértete en un gamer profesional
+- Silla gamer con un diseño ergonómico que favorece largas partidas de videojuegos
+- Materiales de alta calidad – Tapizado de PU fácil de limpiar; asiento relleno de espuma de poliuretano elástica, ignifuga y cómoda;,ruedas de nylon giratorias a 360º
+- Silla gaming con respaldo reclinable (hasta 40º), altura regulable, apoyabrazos fijos, con cojines lumbares y cervicales regulables (incluidos) con medidas de 73,6 x 55,1 x 31,6 cm
 
 [Visítala!!!](https://www.amazon.es/dp/B01M2YVWAV/?tag=tolees-21)

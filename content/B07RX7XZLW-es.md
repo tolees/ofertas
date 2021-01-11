@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Juego De Tronos Temporada 8 Premium [DVD al 30.00 % de descuento'
-date: 2021-01-10 17:43:50
+date: 2021-01-11 18:25:52
 image: 'https://m.media-amazon.com/images/I/51p8h0Ak9LL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RX7XZLW/?tag=tolees-21'
 descuento: '30.00'
-average: '26.796491228070177'
+average: '26.860338983050852'
 ---
 
 Ahora mismo tienes [Juego De Tronos Temporada 8 Premium [DVD]](https://www.amazon.es/dp/B07RX7XZLW/?tag=tolees-21) a 28.68 EUR (original: 40.97 EUR) (30.00 %  de descuento) en el siguiente enlace!

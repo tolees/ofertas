@@ -25,8 +25,8 @@ Está [Disney Frozen  Disney  Bolsa Unisex niños  Multicolor](https://www.amazo
 
 ℹ️:
 
-- Incluye pulsera de abalorios que interactúa con la bolsa.
-- Lleva esta elegante mochila hacia fuera y alrededor de
 - El juego incluye: espejo iluminado, aux para música, cuaderno y bolígrafo con dije.
+- Lleva esta elegante mochila hacia fuera y alrededor de
+- Incluye pulsera de abalorios que interactúa con la bolsa.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TPPLH1Z/?tag=tolees-21)

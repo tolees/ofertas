@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Orbegozo HBF 90 Estufa de Butano  Triple al 22.54 % de descuento'
-date: 2021-01-06 19:37:35
+date: 2021-01-11 18:40:20
 image: 'https://m.media-amazon.com/images/I/41+4633PVxL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00FGX1BUY/?tag=tolees-21'
 descuento: '22.54'
-average: '76.74307692307691'
+average: '76.82666666666665'
 ---
 
 Está [Orbegozo HBF 90 Estufa de Butano  Triple Sistema de Seguridad  Llama Azul  4200 W  Metal  Negro/Gris](https://www.amazon.es/dp/B00FGX1BUY/?tag=tolees-21) con 22.54 de descuento por 79.0 EUR (original: 101.99 EUR) en el siguiente enlace!
@@ -26,12 +26,12 @@ Está [Orbegozo HBF 90 Estufa de Butano  Triple Sistema de Seguridad  Llama Azul
 ℹ️:
 
 - Asas para transporte y ruedas pivotantes
-- Consumo max. 305 gr/h
-- Potencia 4200 W
-- Encendido mediante pulsador
 - Tecnologia "Llama Azul"
+- Encendido mediante pulsador
 - Estufa de gas butano
 - Medidas: ancho x alto x fondo: 400 x 700 x 320 mm
 - Triple sistema de seguridad
+- Consumo max. 305 gr/h
+- Potencia 4200 W
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00FGX1BUY/?tag=tolees-21)
