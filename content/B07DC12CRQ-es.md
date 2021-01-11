@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Vikky Stacked L  Zapatillas Mujer   al 32.39 % de descuento'
-date: 2021-01-07 21:55:29
+date: 2021-01-11 13:36:48
 image: 'https://m.media-amazon.com/images/I/315O3B6jTjL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,7 +25,7 @@ Ahora mismo tienes [PUMA Vikky Stacked L  Zapatillas Mujer  Blanco White White  
 
 🔎:
 
-- adulto
 - Blanco
+- adulto
 
 [Visítala!!!](https://www.amazon.es/dp/B07DC12CRQ/?tag=tolees-21)

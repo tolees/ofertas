@@ -25,10 +25,10 @@ Tienes [Ufesa RD2500D - Radiador de Aceite Portátil 2500W  con Pantalla Digital
 
 🔎:
 
-- Adecuado para espacios bien aislados o para uso ocasional
 - 2500w de potencía
-- Temporizador de 24 horas
 - Temperatura regulable de 5 a 35 grados
+- Adecuado para espacios bien aislados o para uso ocasional
+- Temporizador de 24 horas
 - Pantalla táctil con pantalla
 
 [Comprar!!!](https://www.amazon.es/dp/B07XSBP7F9/?tag=tolees-21)

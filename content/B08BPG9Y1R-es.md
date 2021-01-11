@@ -25,9 +25,9 @@ Está [Giochi Preziosi L.O.L Surprise OMG Serie 3 Da Boss Fashion doll  LLUE0210
 
 ℹ️:
 
+- DA BOSS - la OMG más cool y decidida. Con su look atigrado no pasará desapercibida!
 - Abre el pack y descubre más de 20 sorpresas diferentes. El mismo pack se convierte en un armario para jugar y crear tus propios diseños de moda
 - L.O.L SURPRISE SERIE 3, las nuevas OMG para la navidad 2020!
-- DA BOSS - la OMG más cool y decidida. Con su look atigrado no pasará desapercibida!
 - Su pelazo, rizado y con mucho volumen te permitirá peinarla y dejarla como una auténtica reina de la fiesta.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08BPG9Y1R/?tag=tolees-21)

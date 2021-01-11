@@ -25,10 +25,10 @@ Ahora mismo tienes [Cereales Nestlé Golden Grahams - Cereales de maíz y trigo 
 
 🔎:
 
-- Cereales Nestlé con vitaminas del grupo B, calcio y hierro
-- Cereales integrales como ingrediente número 1
 - Deliciosos cereales dorados GOLDEN GRAHAMS
+- Cereales integrales como ingrediente número 1
 - Cereales sin colorantes ni aromas artificiales y sin edulcorantes artificiales
 - Cereales sin aceite de palma
+- Cereales Nestlé con vitaminas del grupo B, calcio y hierro
 
 [Visítala!!!](https://www.amazon.es/dp/B07B17NWQM/?tag=tolees-21)

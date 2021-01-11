@@ -25,8 +25,8 @@ Ahora mismo tienes [Caso 3304 Ice Master EcoStyle Diseño Cubitos de Hielo eléc
 
 🔎:
 
-- Cubitos de hielo rápidas en 6.–.13.minutos para cócteles o long drinks
 - Apagado automático, gran volumen de reservorio de agua con 1,7litros
+- Cubitos de hielo rápidas en 6.–.13.minutos para cócteles o long drinks
 - Diseño máquina de cubitos de hielo en el chasis de acero inoxidable de alta calidad, produce hasta 12.kg de cubitos de hielo en 24.horas
 - Muy buen aislamiento, tapa con prácticas ventana
 

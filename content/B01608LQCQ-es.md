@@ -25,9 +25,9 @@ En este momento está [PLAYMOBIL Policía- Policewoman Playset  Multicolor  6877
 
 🔎:
 
-- Juego educativo para los niños
 - Desarrolla la imaginación y la creatividad
-- Incluye pistola y bolso
 - Policía con Blace Racer
+- Incluye pistola y bolso
+- Juego educativo para los niños
 
 [Aquí!!!](https://www.amazon.es/dp/B01608LQCQ/?tag=tolees-21)

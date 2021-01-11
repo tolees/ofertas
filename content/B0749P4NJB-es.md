@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Canal Toys SSC 002 Slime Factory - Juego al 22.21 % de rebaja'
-date: 2020-12-28 19:11:10
+date: 2021-01-11 13:46:53
 image: 'https://m.media-amazon.com/images/I/51vW50jzDhL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0749P4NJB/?tag=tolees-21'
 descuento: '22.21'
-average: '26.727777777777778'
+average: '26.777'
 ---
 
 Tienes [Canal Toys SSC 002 Slime Factory - Juego creativo  color morado  34 x 31 x 8 cm   color/modelo surtido](https://www.amazon.es/dp/B0749P4NJB/?tag=tolees-21) con precio final de  27.22 EUR (original: 34.99 EUR) (22.21 %  de rebaja) aqui!

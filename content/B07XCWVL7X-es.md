@@ -25,10 +25,10 @@ Ahora mismo tienes [PUMA Metal Splash Deep V tee Camiseta  Mujer  White  L](http
 
 🔎:
 
-- Gráfico estilo “salpicaduras” en colores metalizados
-- Inserciones de malla
 - dryCELL: tecnología de PUMA con propiedades que alejan la humedad de la piel y te ayudan a mantenerte seco y cómodo
+- Gráfico estilo “salpicaduras” en colores metalizados
 - Cuello redondo
+- Inserciones de malla
 - Manga corta
 
 [Visítala!!!](https://www.amazon.es/dp/B07XCWVL7X/?tag=tolees-21)

@@ -25,10 +25,10 @@ Tienes [Jose Cuervo - Tequila Especial 700 ml 38º](https://www.amazon.es/dp/B00
 
 🔎:
 
-- En Jalisco, el mejor agave azul es recogido a mano, podado, cocido lentamente, prensado y destilado. A continuación, se envejece en barricas de roble.
 - No es un proceso rápido, pero eso es lo que hace de Jose Cuervo Especial Reposado un tequila único en el mundo.
-- Ideal para coctelería
+- En Jalisco, el mejor agave azul es recogido a mano, podado, cocido lentamente, prensado y destilado. A continuación, se envejece en barricas de roble.
 - Tequila joven de estilo dorado hecho de una mezcla de tequilas reposados ​​(añejos) y más jóvenes.
 - Capacidad: 70 CL
+- Ideal para coctelería
 
 [Comprar!!!](https://www.amazon.es/dp/B004EAIWHA/?tag=tolees-21)
