@@ -25,8 +25,8 @@ Ahora mismo tienes [Tommy Hilfiger Cazadora Chaqueta Bomber Essential con Parche
 
 🔎:
 
+- A estrenar y genuina. Somos un vendedor autorizado de Tommy Jeans.
 - Ver descripción del producto para obtener más información.
 - Tommy Jeans Azul Chaqueta de bombardero esencial
-- A estrenar y genuina. Somos un vendedor autorizado de Tommy Jeans.
 
 [Visítala!!!](https://www.amazon.es/dp/B07RDQMSVC/?tag=tolees-21)

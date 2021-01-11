@@ -25,10 +25,10 @@ En este momento está [Remington B4 Style Series - Barbero  17 Ajustes  Inalámb
 
 🔎:
 
-- 17 ajustes de longitud para todo tipo de barbas
 - Incluye peine ajustable con longitudes de 0,4 a 18 mm; hasta la longitud de 5 mm los incrementos de los ajustes son cada 0,5 mm. Para longitudes de 6 a 18 mm, los incrementos son de 2 mm
-- Recargable e inalámbrico, hasta 40 minutos de uso
 - Recortadora de barbacon cuchillas lavables y autoafilables que ofrecen un 55% más control a la hora de recortar
+- 17 ajustes de longitud para todo tipo de barbas
 - Incluye neceser para guardar
+- Recargable e inalámbrico, hasta 40 minutos de uso
 
 [Aquí!!!](https://www.amazon.es/dp/B084DPVM18/?tag=tolees-21)

@@ -25,10 +25,10 @@ Está [NeroGiardini A901301U Sneaker Altas Hombre De Piel - Petróleo 42 EU](htt
 
 ℹ️:
 
-- Material Interno: Piel
-- Calidad: Made in Italy
-- Material Externo: Piel
 - Tacón: 3.5 cm
+- Calidad: Made in Italy
+- Material Interno: Piel
 - Ajuste: Cómodo
+- Material Externo: Piel
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07YHL3JR1/?tag=tolees-21)

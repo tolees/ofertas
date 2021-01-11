@@ -26,9 +26,9 @@ Ahora mismo tienes [Memoria flash SanDisk Cruzer Spark USB 2.0 de 64 GB  Negro](
 🔎:
 
 - Ligera y fácil de usar
-- Capacidades de 16 GB a 128 GB
-- El aro de llavero incorporado te permite llevar tus contenidos a todas partes
 - Mantén tus contenidos junto con tus llaves
+- El aro de llavero incorporado te permite llevar tus contenidos a todas partes
+- Capacidades de 16 GB a 128 GB
 - El diseño sin tapa significa que no hay piezas que perder
 
 [Visítala!!!](https://www.amazon.es/dp/B07GMRTLXD/?tag=tolees-21)

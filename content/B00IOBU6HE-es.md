@@ -25,10 +25,10 @@ Está [Auchentoshan American Oak Single Malt Whisky Escoces  40% - 700 ml](https
 
 ℹ️:
 
-- Whisky servido como copa, cóctel o saboreándolo solo
-- Doce años representa el sabor y la calidad de un single malt de las Tierras Bajas y es el más galardonado de la gama Auchentoshan
-- El final de Auchentoshan American Oak es fresco y azucucarado
 - Sus estimulantes notas cítricas y de bourbon a vainilla le convierten en el inicio perfecto en la categoría single malt whisky
+- Doce años representa el sabor y la calidad de un single malt de las Tierras Bajas y es el más galardonado de la gama Auchentoshan
+- Whisky servido como copa, cóctel o saboreándolo solo
+- El final de Auchentoshan American Oak es fresco y azucucarado
 - Whisky agradablemente suave y ligero al paladar, con toques a crema de vainilla, coco y melocotón blanco
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00IOBU6HE/?tag=tolees-21)
