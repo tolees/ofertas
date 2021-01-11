@@ -26,8 +26,8 @@ Tienes [Creative Sound BlasterX G1 - Tarjeta de Sonido portátil de Audio 7.1 co
 ℹ️:
 
 - Actualice al instante cascos con micrófono o altavoces de cualquier tipo - PC, Mac o PS4 y después
-- Scout Mode - Active el Scout Mode para lograr una ventaja táctica mayor con la capacidad de percibir señales claras y altas
 - Amplificador de cascos para jugadores
+- Scout Mode - Active el Scout Mode para lograr una ventaja táctica mayor con la capacidad de percibir señales claras y altas
 - BlasterX Acoustic Engine, potente y completamente personalizable
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01EOPT0VG/?tag=tolees-21)

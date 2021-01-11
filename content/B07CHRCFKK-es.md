@@ -25,9 +25,9 @@ Ahora mismo tienes [Grip: Combat Racing](https://www.amazon.es/dp/B07CHRCFKK/?ta
 
 🔎:
 
+- Badass Rides: Elige entre una lista de coches blindados, fabricados por diferentes compañías de toda la galaxia. Cada automóvil tiene diferentes especificaciones, algunas veloces y ágiles, otras brutales y muy blindadas. Hay un coche asesino para todos los gustos
+- Planetas exóticos: compite en una variedad de planetas, desde mundos helados hostiles hasta junglas alienígenas y ciudades extensas no terrestres. Usa la destrucción como una herramienta para ganar, derribando el entorno sobre tus oponentes, o sube en posición al dirigirte a una ruta alternativa
 - Intense Racing: velocidades de hasta 1000 km / h, conducción en suelo, techos y paredes. Los diseños de los coches de GRIP permiten conducir por ambos lados, por lo que voltear el automóvil ya no significa que se acabe el juego
 - Pick-ups increíbles: utiliza variedad de potenciadores y armas para obtener ventaja sobre tus oponentes. Desde misiles y pistolas hasta escudos y turbos, planeamos tener una amplia variedad de emocionantes pick-ups para usar
-- Planetas exóticos: compite en una variedad de planetas, desde mundos helados hostiles hasta junglas alienígenas y ciudades extensas no terrestres. Usa la destrucción como una herramienta para ganar, derribando el entorno sobre tus oponentes, o sube en posición al dirigirte a una ruta alternativa
-- Badass Rides: Elige entre una lista de coches blindados, fabricados por diferentes compañías de toda la galaxia. Cada automóvil tiene diferentes especificaciones, algunas veloces y ágiles, otras brutales y muy blindadas. Hay un coche asesino para todos los gustos
 
 [Visítala!!!](https://www.amazon.es/dp/B07CHRCFKK/?tag=tolees-21)

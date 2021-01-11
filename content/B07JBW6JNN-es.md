@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Color Workshop TCW - Estuche de viaj al 50.93 % de descuento'
-date: 2021-01-09 18:36:21
+date: 2021-01-11 10:37:33
 image: 'https://m.media-amazon.com/images/I/51+YJvFjr8L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07JBW6JNN/?tag=tolees-21'
 descuento: '50.93'
-average: '18.4447619047619'
+average: '18.392924528301883'
 ---
 
 Está [The Color Workshop TCW - Estuche de viaje para maquillaje  43 piezas  viajes de Bon](https://www.amazon.es/dp/B07JBW6JNN/?tag=tolees-21) con 50.93 de descuento por 12.95 EUR (original: 26.39 EUR) en el siguiente enlace!
@@ -25,10 +25,10 @@ Está [The Color Workshop TCW - Estuche de viaje para maquillaje  43 piezas  via
 
 ℹ️:
 
-- Carcasa de aluminio reutilizable.
-- Productos cosméticos para labios, ojos y cara.
-- Múltiples tonos – Crea un perfecto día o noche para adaptarse a cualquier gusto.
-- Aplicadores incluidos.
-- Perfecto para viajar y regalar.
+- Reusable aluminum case
+- Perfect for travelling and gifting
+- Applicators included
+- Multiple Shades - Create a perfect day or night look to suit anyones taste
+- Cosmetics products for lips, eyes and face
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07JBW6JNN/?tag=tolees-21)

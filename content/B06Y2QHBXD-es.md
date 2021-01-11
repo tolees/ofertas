@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance 574 Core Zapatillas Hombre   al 61.22 % de descuento'
-date: 2021-01-02 19:29:25
+date: 2021-01-11 10:57:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41fzbDkTKwL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,7 +26,7 @@ Ahora mismo tienes [New Balance 574 Core Zapatillas Hombre  Rojo  Burgundy   36 
 🔎:
 
 - Closing: briefly
-- Outer material: Leather
 - Lining: knit
+- Outer material: Leather
 
 [Visítala!!!](https://www.amazon.es/dp/B06Y2QHBXD/?tag=tolees-21)

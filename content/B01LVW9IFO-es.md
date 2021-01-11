@@ -26,9 +26,9 @@ Tienes [Maquina Cortapelo Cortapelos Electrónico Pantalla LED Cuchilla de Titan
 🔎:
 
 - Diseño Muy Silencioso:Cuando esta en funcionamiento el volumen de la máquina está muy por debajo de las máquinas estándar,no molesta,puede usarlo en casa o barbería,sus familias o clientes se sentirán a gusto,también les va a gustar los bebés.Con un voltaje global de 100V-240V,adecuado para la persona que viajan frecuentemente
-- Cuchilla de Cerámica y Titanio:Cuchillas de cerámica de titanio muy resistente y fuerte,fácil de limpiar.Admite la función de ajuste fino de la hoja,4 modos de longitud ajustables de 1mm a 2.5 mm
 - Distintos Niveles:Un conjunto de 6 boquillas con longitudes diferentes,28-30 mm,22-24 mm,16-18 mm,10-12 mm,7-9 mm,4-6 mm. Si necesita el vídeo de la instalación del cabezal,contacte con nosotros por favor
 - 2 Métodos de Carga:Equipado con pilias de litio de alto rendimiento. Carga rápida,solo por 1 hora,puede conectarla directamente al cargador o a la base de carga (siempre que el cargador este enchufado a ésta)
+- Cuchilla de Cerámica y Titanio:Cuchillas de cerámica de titanio muy resistente y fuerte,fácil de limpiar.Admite la función de ajuste fino de la hoja,4 modos de longitud ajustables de 1mm a 2.5 mm
 - Pantalla LED:Pantalla inteligente LED,una vez se enciende la máquina, esta le mostrará la batería restante y el tipo de boquilla,además,tiene incorpora una función de recordatorio de limpiado
 
 [Comprar!!!](https://www.amazon.es/dp/B01LVW9IFO/?tag=tolees-21)

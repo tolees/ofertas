@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nike MD Runner 2  Zapatillas de Running  con un 31.06 % de descuento'
-date: 2021-01-09 18:55:28
+date: 2021-01-11 10:40:41
 image: 'https://m.media-amazon.com/images/I/417erVMQQ8L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00PZ8ZAQQ/?tag=tolees-21'
 descuento: '31.06'
-average: '47.50217391304347'
+average: '47.342'
 ---
 
 En este momento está [Nike MD Runner 2  Zapatillas de Running Mujer  Negro  Black / Black-White   36](https://www.amazon.es/dp/B00PZ8ZAQQ/?tag=tolees-21) a 45.5 EUR (original: 66.0 EUR) (31.06 %  de descuento) en el siguiente enlace!
@@ -25,7 +25,7 @@ En este momento está [Nike MD Runner 2  Zapatillas de Running Mujer  Negro  Bla
 
 🔎:
 
-- El MD Runner 2 está hecho de malla, entresuela de espuma, suela de goma y refuerzos de gamuza. Este zapato garantiza una mayor comodidad y apoyo.
 - LOCU{visjames}
+- El MD Runner 2 está hecho de malla, entresuela de espuma, suela de goma y refuerzos de gamuza. Este zapato garantiza una mayor comodidad y apoyo.
 
 [Aquí!!!](https://www.amazon.es/dp/B00PZ8ZAQQ/?tag=tolees-21)

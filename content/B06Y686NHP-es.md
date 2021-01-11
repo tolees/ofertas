@@ -25,8 +25,8 @@ Está [Joma 100761.306 Pantalones  Hombre  Azul Marino/Rojo  XL](https://www.ama
 
 ℹ️:
 
-- Pantalón pitillo con bolsillos y aberturas laterales en el bajo con cremalleras
 - Logos serigrafiados en laterales
 - Cintura elástica ajustable con cordón
+- Pantalón pitillo con bolsillos y aberturas laterales en el bajo con cremalleras
 
 [Ver la oferta!!](https://www.amazon.es/dp/B06Y686NHP/?tag=tolees-21)

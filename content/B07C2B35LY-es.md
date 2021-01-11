@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.02 % en Jack & Jones Jjebasic Knit V-Neck Noos s'
-date: 2021-01-08 23:05:44
+date: 2021-01-11 10:37:19
 image: 'https://m.media-amazon.com/images/I/41IY6BxtZmL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Tienes [Jack & Jones Jjebasic Knit V-Neck Noos suéter  Gris  Dark Grey Melange 
 
 ℹ️:
 
-- Marca: Jack&Jones
 - Jersey de manga larga de color gris oscuro. Cuello en pico. Detalle bordado.
 - Modelo: 12137194 JJEBASIC KNIT V-NECK NOOS DARK GREY MELANGE
+- Marca: Jack&Jones
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07C2B35LY/?tag=tolees-21)

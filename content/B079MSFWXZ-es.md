@@ -25,9 +25,9 @@ Tienes [Kärcher SC1 - Limpiadora de Vapor Manual con depósito de 0 2 litros  c
 
 🔎:
 
-- La limpiadora de vapor manual SC 1 está indicada para la limpieza de mantenimiento rápida sin productos químicos gracias a su tamaño compacto y poco peso; rendimiento 20 m²
 - Rellenar con agua del grifo junto con el descalcificadora según dureza del agua, no usar nunca con agua destilada
 - Limpieza profunda sin químicos, puede eliminar hasta el 99,99% de las bacterias
+- La limpiadora de vapor manual SC 1 está indicada para la limpieza de mantenimiento rápida sin productos químicos gracias a su tamaño compacto y poco peso; rendimiento 20 m²
 - Con múltiples accesorios para la limpieza de toda la casa y kit de suelos Easyfix que evita el contacto con la suciedad
 
 [Comprar!!!](https://www.amazon.es/dp/B079MSFWXZ/?tag=tolees-21)

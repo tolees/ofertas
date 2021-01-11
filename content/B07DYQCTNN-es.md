@@ -25,9 +25,9 @@ Ahora mismo tienes [Nike Dry Acdmy Pant Kpz - Pantalones  Niños  Negro  Black/W
 
 🔎:
 
-- ¡Atención! Estos pantalones son para niños
-- Slim fit
-- Elastic Waistband with lanyard
 - Dri-fit Technology
+- Slim fit
+- ¡Atención! Estos pantalones son para niños
+- Elastic Waistband with lanyard
 
 [Visítala!!!](https://www.amazon.es/dp/B07DYQCTNN/?tag=tolees-21)
