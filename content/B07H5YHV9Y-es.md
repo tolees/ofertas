@@ -25,9 +25,9 @@ Tienes [Maison Lejaby Nufit Sujetador con Aros  Beige  Power Skin 389   80G para
 
 🔎:
 
-- Treat yourself today and pair with the coordinating briefs.
 - Adjustable shoulder straps and knit back with hook fastenings ensure a comfortable fit.
 - Essential underwired full cup bra with transparent 3-part cups for optimum support.
+- Treat yourself today and pair with the coordinating briefs.
 - Opaque knit fabric centre, lined for support, with tri-band elastic sides for a sporty-chic look.
 
 [Comprar!!!](https://www.amazon.es/dp/B07H5YHV9Y/?tag=tolees-21)

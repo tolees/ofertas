@@ -25,9 +25,9 @@ Tienes [Lacoste Sport Sh1505 Suéter  Bitume Chine/Graphite SOM  6 para Hombre](
 
 🔎:
 
-- Felpa de algodón cepillado
-- Cuello acanalado reforzado
 - Acabados acanalados en los puños y en el bajo de la prenda y media luna de tafetán diamantado (tejido suave y muy ligero con un acabado delicadamente brillante)
+- Cuello acanalado reforzado
 - Cocodrilo verde bordado en el pecho
+- Felpa de algodón cepillado
 
 [Comprar!!!](https://www.amazon.es/dp/B083FH4QBS/?tag=tolees-21)

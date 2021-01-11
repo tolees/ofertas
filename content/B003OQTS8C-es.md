@@ -25,7 +25,7 @@ En este momento está [Carhartt Midweight Mock Neck Zip Front Sweatshirt  Black 
 
 🔎:
 
-- Color: negro.
 - Talla XXL
+- Color: negro.
 
 [Aquí!!!](https://www.amazon.es/dp/B003OQTS8C/?tag=tolees-21)

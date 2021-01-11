@@ -25,14 +25,14 @@ Está [Bosch Professional 2 608 226 0  Azul  Gris  Fino](https://www.amazon.es/d
 
 ℹ️:
 
+- Sin disolventes, lo que evita ensuciar la superficie
+- Color amarillo en la espuma para identificar más fácilmente la aplicación preparar
 - La estructura abierta impide el embotamiento
-- Para preparar la superficie tras remover los restos de material, antes de dar el acabado final
-- Lavable y reutilizable repetidamente
 - Taco de lija de grano fino para lijar superficies diversas, planas o en bordes, a mano
 - Dimensiones: 69 x 97 x 26 mm
-- Adecuado para preparar madera, plástico o metal antes de pintar y para el lijado intermedio de barnices y pinturas también para lijar rebajes y curvas ligeras, así como para realizar un lijado fino de tapaporos
-- Color amarillo en la espuma para identificar más fácilmente la aplicación preparar
-- Sin disolventes, lo que evita ensuciar la superficie
 - Taco cubierto por cuatro caras con grano abrasivo resistente a la rotura
+- Para preparar la superficie tras remover los restos de material, antes de dar el acabado final
+- Adecuado para preparar madera, plástico o metal antes de pintar y para el lijado intermedio de barnices y pinturas también para lijar rebajes y curvas ligeras, así como para realizar un lijado fino de tapaporos
+- Lavable y reutilizable repetidamente
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0053PVDC6/?tag=tolees-21)

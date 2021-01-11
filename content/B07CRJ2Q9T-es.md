@@ -25,8 +25,8 @@ Tienes [Pepe Jeans PIXLETTE Jeans  Azul  Light Used Denim Mj7   6 años  Talla d
 
 🔎:
 
+- Vaqueros para niñas
 - Cierre con cremallera
 - Tienen un parche de piel en la parte trasera con la marca Pepe Jeans
-- Vaqueros para niñas
 
 [Comprar!!!](https://www.amazon.es/dp/B07CRJ2Q9T/?tag=tolees-21)
