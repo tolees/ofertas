@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XIII - Limited Edition al 44.31 % de descuento'
-date: 2021-01-08 10:41:35
+date: 2021-01-11 09:39:32
 image: 'https://m.media-amazon.com/images/I/51ez1Zusi1L._SL200_.jpg'
 comments: true
 category: ofertas

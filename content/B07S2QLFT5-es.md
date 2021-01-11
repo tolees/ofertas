@@ -26,8 +26,8 @@ Tienes [New Balance Fresh Foam Tempo m  Zapatillas de Running Mujer  Azul  Navy 
 ℹ️:
 
 - La amortiguación de la entresuela Fresh Foam está diseñada con precisión para ofrecer un paseo ultra acolchado y ligero.
-- Parte superior de malla/sintético.
 - 6 mm de caída; debido a las variaciones creadas durante los procesos de desarrollo y fabricación, todas las referencias a caída de 6 mm son aproximadas.
 - Parte superior Hypoknit diseñada para proporcionar áreas estratégicas de estiramiento y apoyo.
+- Parte superior de malla/sintético.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07S2QLFT5/?tag=tolees-21)
