@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tenet [Blu-ray] al 25.24 % de rebaja'
-date: 2021-01-03 23:20:48
+date: 2021-01-11 15:04:42
 image: 'https://m.media-amazon.com/images/I/51sutselsOL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08N5NR5J9/?tag=tolees-21'
 descuento: '25.24'
-average: '18.986666666666665'
+average: '18.986799999999995'
 ---
 
 Tienes [Tenet [Blu-ray]](https://www.amazon.es/dp/B08N5NR5J9/?tag=tolees-21) con precio final de  18.99 EUR (original: 25.4 EUR) (25.24 %  de rebaja) aqui!

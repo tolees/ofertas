@@ -25,10 +25,10 @@ Tienes [Tristar AC-5529 – Aire acondicionado portátil  capacidad de enfriamie
 
 ℹ️:
 
-- Aire acondicionado portátil y fácil de desplazar gracias A las ruedas giratorias
+- Con Control remoto y temporizador digital
 - Provisto de dos velocidades de ventilador y función de deshumidificador
 - Capacidad de enfriamiento de 2500 frigorías y 2,63 kW para enfriar una habitación de hasta 80m3
 - Bajo consumo de energía: clase de eficiencia energética A
-- Con Control remoto y temporizador digital
+- Aire acondicionado portátil y fácil de desplazar gracias A las ruedas giratorias
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N5CNSSC/?tag=tolees-21)

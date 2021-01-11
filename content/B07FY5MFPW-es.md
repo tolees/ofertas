@@ -25,7 +25,7 @@ Tienes [Vans Filmore Decon  Sneaker Mujer  Negro  Black/True White 1wx   36 EU](
 
 ℹ️:
 
-- Tipo de tacón: Plano
 - Cierre: Cordones
+- Tipo de tacón: Plano
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FY5MFPW/?tag=tolees-21)

@@ -25,10 +25,10 @@ Ahora mismo tienes [Quid Gastro Fun - Sartén doble para tortilla  28 cm  alumin
 
 🔎:
 
-- Sartén doble para tortilla
 - Especial vitrocerámica, pero apta para todos los fuegos , incluida inducción.
 - Con cierre de seguridad
 - Fabricada en aluminio
+- Sartén doble para tortilla
 - Revestimiento antiadherente
 
 [Visítala!!!](https://www.amazon.es/dp/B076QG7ZLH/?tag=tolees-21)

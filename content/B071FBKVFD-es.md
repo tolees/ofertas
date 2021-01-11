@@ -25,11 +25,11 @@ Está [Crocs Classic Clog  Zuecos Unisex Adulto  Rosa  Ballerina Pink 6GD   42/4
 
 ℹ️:
 
-- Cierre: Tira de tobillo
-- Revestimiento: Sin forro
-- Material de la suela: Sintético
-- Tipo de tacón: Plano
-- Material exterior: Espuma
 - Composición: Sintético
+- Tipo de tacón: Plano
+- Material de la suela: Sintético
+- Revestimiento: Sin forro
+- Material exterior: Espuma
+- Cierre: Tira de tobillo
 
 [Ver la oferta!!](https://www.amazon.es/dp/B071FBKVFD/?tag=tolees-21)

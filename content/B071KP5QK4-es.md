@@ -26,8 +26,8 @@ Tienes [Calvin Klein Lift Sujetador Estilo Bralette  Negro  Black 001   M para M
 🔎:
 
 - Banda inferior de sujeción elástica en contraste
-- Punto de algodón modal
 - Copas con relleno Sin costuras
 - Tiras cruzadas en la espalda
+- Punto de algodón modal
 
 [Comprar!!!](https://www.amazon.es/dp/B071KP5QK4/?tag=tolees-21)

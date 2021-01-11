@@ -25,10 +25,10 @@ Tienes [Sanytol Toallitas Desinfectantes Multiusos - 1 unidad x 30 toallitas](ht
 
 ℹ️:
 
-- Las toallitas desinfectantes multisuperficies que eliminan el 99,9% de los gérmenes de forma rápida y cómoda
-- Para llevar en el bolso o en el coche y tener a mano un aliado para la higiene fuera de casa
+- 1 unidad de toallitas con 30 unidades
 - Eficaz contra bacterias y hongos, ideal para baños, cocinas, objetos relativos al bebé, mascotas y zonas de alto contacto como teléfonos, teclados, pomos, etc
 - Elimina fácilmente la suciedad y desinfecta en profundidad dejando un agradable aroma a eucaliptus
-- 1 unidad de toallitas con 30 unidades
+- Para llevar en el bolso o en el coche y tener a mano un aliado para la higiene fuera de casa
+- Las toallitas desinfectantes multisuperficies que eliminan el 99,9% de los gérmenes de forma rápida y cómoda
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01J92HC5U/?tag=tolees-21)

@@ -25,7 +25,7 @@ Tienes [Converse Chuck Taylor CTAS Lift Ox Canvas  Zapatillas Mujer  Negro  Blac
 
 🔎:
 
-- Típica puntera de goma
 - Suela de goma resistente
+- Típica puntera de goma
 
 [Comprar!!!](https://www.amazon.es/dp/B073C4YTMK/?tag=tolees-21)

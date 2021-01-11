@@ -25,7 +25,7 @@ Tienes [Canal Toys SSC 002 Slime Factory - Juego creativo  color morado  34 x 31
 
 🔎:
 
-- So slime slime factory (ssc002)
 - Arcilla y plastilina arcilla y plastilina actividades creativas canal toys
+- So slime slime factory (ssc002)
 
 [Comprar!!!](https://www.amazon.es/dp/B0749P4NJB/?tag=tolees-21)

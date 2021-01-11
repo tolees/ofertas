@@ -25,10 +25,10 @@ Ahora mismo tienes [Logitech M170 Ratón Inalámbrico  2 4 GHz con Nano Receptor
 
 🔎:
 
-- Cómodo y Portátil : la forma ambidiestra del ratón ofrece un cómodo soporte para la mano durante horas y horas de uso
+- Conexión Plug and Play : el mouse inalámbrico M170 es realmente Plug and Play. Inserta el receptor en un puerto USB de la computadora y ya puedes empezar a usarlo
 - Prueba el Ratón Silencioso Logitech M220, para Buena Comodidad : forma contorneada, clics silenciosos y duración de pilas prolongada 18 meses
+- Cómodo y Portátil : la forma ambidiestra del ratón ofrece un cómodo soporte para la mano durante horas y horas de uso
 - Tecnología Inalámbrica de 2,4 GHz : sólida conexión inalámbrica estable a distancias de hasta 10 metros 33 ft,sin apenas retrasos ni interferencias, el juego y el trabajo serán más previsibles
 - Duración de Baterías de Hasta 12 Meses : funciona hasta un año sin tener que cambiar las baterías,usa el conmutador de encendido para apagar el mouse cuando no lo estés usando
-- Conexión Plug and Play : el mouse inalámbrico M170 es realmente Plug and Play. Inserta el receptor en un puerto USB de la computadora y ya puedes empezar a usarlo
 
 [Visítala!!!](https://www.amazon.es/dp/B01A9GXMW2/?tag=tolees-21)

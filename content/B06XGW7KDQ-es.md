@@ -25,8 +25,8 @@ Ahora mismo tienes [Funko Vinyl: Mr. Robot: White Rose  9881 ](https://www.amazo
 
 🔎:
 
-- White Rose
 - Funko POP
 - Mr; robot
+- White Rose
 
 [Visítala!!!](https://www.amazon.es/dp/B06XGW7KDQ/?tag=tolees-21)

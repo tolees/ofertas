@@ -25,8 +25,8 @@ Está [Funko Vinilo Pop 36356: Televisión El Chavo  Multi](https://www.amazon.e
 
 ℹ️:
 
-- Televisión: El Chavo
 - El Chavo
 - Pop! Vinilo
+- Televisión: El Chavo
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07HB4J1K1/?tag=tolees-21)

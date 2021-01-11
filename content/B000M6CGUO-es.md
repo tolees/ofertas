@@ -26,7 +26,7 @@ Está [Sigma 09160 Cuenta Kilómetros  Deportes y Aire Libre  Negro  Talla Únic
 ℹ️:
 
 - Funciones velocidad actual, velocidad media, hora, calorías y calorías totales
-- Tiempo del recorrido, tiempo total y recorrido hora
 - Calcula las calorías consumidas en base a la velocidad así podrá ver cuántas calorías ha consumido en su recorrido
+- Tiempo del recorrido, tiempo total y recorrido hora
 
 [Ver la oferta!!](https://www.amazon.es/dp/B000M6CGUO/?tag=tolees-21)

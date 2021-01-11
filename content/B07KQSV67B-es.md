@@ -25,7 +25,7 @@ Ahora mismo tienes [adidas Essentials Linear Tk Camiseta de Tirantes  Mujer  Neg
 
 🔎:
 
-- Corte clásico que se ajusta al cuerpo cómodamente
 - Diseño sin mangas y con sisas anchas; tirante central en la espalda
+- Corte clásico que se ajusta al cuerpo cómodamente
 
 [Visítala!!!](https://www.amazon.es/dp/B07KQSV67B/?tag=tolees-21)

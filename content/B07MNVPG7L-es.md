@@ -27,8 +27,8 @@ Ahora mismo tienes [Outsunny Caseta de Jardín Tipo Cobertizo Metálico para Alm
 
 - ✅CASA JARDÍN: Caseta de jardín con gran espacio de almacenamiento, ideal para guardar herramientas, utensilios de jardinería y otros objetos de jardín. Es un espacio seguro y privado en el exterior.
 - ✅CON CORREDERA: Puerta doble corredera para un acceso fácil además de ahorrar espacio para almacenaje. Permite colocar un candado para cerrarla con mayor seguridad.
-- ✅Cubierto con un protector plástico para un mejor mantenimiento (excepto los laterales). Dimensiones totales: 277x130x173cm (LxANxAL), dimensiones del interior: 267x117x173cm (LxANxAL), dimensiones de la puerta corrediza: 96x151cm (ANxAL). Dimensiones de la ventana: 21.8x9.8cm (LxAN).
 - ✅2 VENTANAS: Cuenta con 2 ventanas de ventilación en la parte superior para una mejor circulación del aire.
+- ✅Cubierto con un protector plástico para un mejor mantenimiento (excepto los laterales). Dimensiones totales: 277x130x173cm (LxANxAL), dimensiones del interior: 267x117x173cm (LxANxAL), dimensiones de la puerta corrediza: 96x151cm (ANxAL). Dimensiones de la ventana: 21.8x9.8cm (LxAN).
 - ✅ALTA CALIDAD: Fabricado con chapa lacada de acero, muy duradera y sólida, protege del viento, las inclemencias del tiempo, la humedad y el polvo. Hecha de acero galvanizado que garantiza su durabilidad.
 
 [Visítala!!!](https://www.amazon.es/dp/B07MNVPG7L/?tag=tolees-21)

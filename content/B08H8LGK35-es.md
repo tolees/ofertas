@@ -25,10 +25,10 @@ Tienes [MOLBRA Gamuza Premium Microfibra Anti-Vaho - 12 Horas de Efecto y 300 Us
 
 ℹ️:
 
-- For optimal effect, clean the lens with soap and water and dry thoroughly before using the cloth. Do not wash the cloth, or it will lose the anti-fog effect.
 - Packed in PEFC certified cardboard, made from raw materials from sustainably managed forests and controlled sources.
-- No extra liquids
-- Free from PFOA (EU-banned chemical generally used as an adhesive)
 - 12 Hours of Effect and 300 Uses - Suitable for glasses with hydrophobic lenses!
+- No extra liquids
+- For optimal effect, clean the lens with soap and water and dry thoroughly before using the cloth. Do not wash the cloth, or it will lose the anti-fog effect.
+- Free from PFOA (EU-banned chemical generally used as an adhesive)
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08H8LGK35/?tag=tolees-21)
