@@ -26,8 +26,8 @@ Tienes [Joma Combi Camiseta Manga Corta  Hombre  Rosa  Fucsia   L](https://www.a
 ℹ️:
 
 - Realizada en poliéster, para una mayor resistencia
-- El tejido Interlock es muy elástico, dirigido a ropa deportiva
 - Esta camiseta destaca por un tacto muy suave, por su secado rápido y sin arrugas
 - Camiseta de manga corta indicada para deportistas que buscan la máxima comodidad y transpirabilidad
+- El tejido Interlock es muy elástico, dirigido a ropa deportiva
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00KMXHEFO/?tag=tolees-21)

@@ -25,8 +25,8 @@ En este momento está [Lotus Reloj para de Cuarzo con Correa en Acero Inoxidable
 
 🔎:
 
+- Caja: 24 mm
 - Reloj comunión
 - Pulsera lotus de regalo
-- Caja: 24 mm
 
 [Aquí!!!](https://www.amazon.es/dp/B07N43XLWL/?tag=tolees-21)

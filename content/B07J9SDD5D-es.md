@@ -25,10 +25,10 @@ Tienes [HOMESTEC Cuaderno Inteligente Reutilizable | Tamaño A4 | Hojas borrable
 
 ℹ️:
 
-- 📝[TAMAÑO A4]: Hojas de tamaño estandar cuadriculadas, comodo de trabajar. 210 mm x 297 mm con 40 páginas.
 - ♻[INFINITAMENTE REUTILIZABLE]: Nunca tendras que comprar otro cuaderno,papel de alta calidad irrompible con 40 paginas borrables cuando se ultiliza el boli que viene incluido.Se puede borrar con el borrador del boli, un paño, mediante calor o con agua
-- ✅[GARANTÍA DE CALIDAD]: HOMSTEC garantiza la calidad de sus productos ofreciendo 14 días la devolución si no está satisfecho con el producto y 2 años de garantía.
 - ☁📲[ALMACENAMIENTO EN LA NUBE]: Escanea cualquier página mediante la APP y guardalo en la nube o cualquier dispositivo (Google Drive, Dropbox, Evernote, Box, OneNote, Slack, iCloud ).
+- ✅[GARANTÍA DE CALIDAD]: HOMSTEC garantiza la calidad de sus productos ofreciendo 14 días la devolución si no está satisfecho con el producto y 2 años de garantía.
 - 💾[GUARDAR EN PDF] Las hojas del cuaderno estan adaptadas para ser escaneadas, podrás guardarlo en formato PDF o instertar lo escaneado en cualquier documento. Una forma rápida y eficiente de organizar tus documentos.
+- 📝[TAMAÑO A4]: Hojas de tamaño estandar cuadriculadas, comodo de trabajar. 210 mm x 297 mm con 40 páginas.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07J9SDD5D/?tag=tolees-21)

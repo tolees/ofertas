@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beurer EM49 - Electroestimulador digital al 30.84 % de descuento'
-date: 2021-01-10 10:30:25
+date: 2021-01-11 11:12:49
 image: 'https://m.media-amazon.com/images/I/41F2qEt6phL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01KUJ1VMG/?tag=tolees-21'
 descuento: '30.84'
-average: '46.00423357664236'
+average: '46.02115942028988'
 ---
 
 Está [Beurer EM49 - Electroestimulador digital  para aliviar el dolor muscular y el fortalecimiento muscular  masaje  EMS  TENS  pantalla LCD azul  2 Canales  4 electrodos autoadhesivos  color blanco](https://www.amazon.es/dp/B01KUJ1VMG/?tag=tolees-21) con 30.84 de descuento por 48.34 EUR (original: 69.9 EUR) en el siguiente enlace!
@@ -25,15 +25,15 @@ Está [Beurer EM49 - Electroestimulador digital  para aliviar el dolor muscular 
 
 ℹ️:
 
-- Tratamiento del dolor (TENS); Estimulación muscular (EMS)
-- Desconexión de seguridad
-- 2 canales regulables por separado
-- 64 aplicaciones preprogramadas
-- 4 electrodos de gel autoadhesivos incluidos (45 x 45 mm)
-- Indicación de posicionamiento de los electrodos
-- 6 programas individualizables: frecuencia, ancho del pulso, tiempo de encendido/apagado programables
-- Pantalla LCD inversa con retroiluminación azul
-- Doctors-Function para conseguir la adaptación ideal a su programa de tratamiento personalizado
 - Intensidad ajustable
+- Doctors-Function para conseguir la adaptación ideal a su programa de tratamiento personalizado
+- Tratamiento del dolor (TENS); Estimulación muscular (EMS)
+- 6 programas individualizables: frecuencia, ancho del pulso, tiempo de encendido/apagado programables
+- 64 aplicaciones preprogramadas
+- 2 canales regulables por separado
+- Indicación de posicionamiento de los electrodos
+- Desconexión de seguridad
+- 4 electrodos de gel autoadhesivos incluidos (45 x 45 mm)
+- Pantalla LCD inversa con retroiluminación azul
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01KUJ1VMG/?tag=tolees-21)

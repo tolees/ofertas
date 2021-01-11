@@ -25,10 +25,10 @@ Está [The Color Workshop TCW - Estuche de viaje para maquillaje  43 piezas  via
 
 ℹ️:
 
-- Reusable aluminum case
-- Perfect for travelling and gifting
 - Applicators included
-- Multiple Shades - Create a perfect day or night look to suit anyones taste
 - Cosmetics products for lips, eyes and face
+- Perfect for travelling and gifting
+- Reusable aluminum case
+- Multiple Shades - Create a perfect day or night look to suit anyones taste
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07JBW6JNN/?tag=tolees-21)
