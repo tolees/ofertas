@@ -25,10 +25,10 @@ Ahora mismo tienes [Fantasy Flight - Arkham Horror 3ª Edición - Español  AHB0
 
 🔎:
 
-- Con suerte, a lo largo de este periplo los investigadores reunirán las pistas y recursos necesarios para enfrentarse a los Primigenios y, en última instancia, frustrar sus malvados designios.
-- Los investigadores deben explorar la ciudad para descubrir lugares, personas y criaturas de naturaleza tanto ordinaria como sobrenatural.
-- Arkham Horror es un juego cooperativo. Todos los jugadores colaboran entre sí y ganan o pierden la partida como equipo. Cada jugador controla a un intrépido investigador, uno de los pocos individuos excepcionales que están al tanto del peligro que se cierne sobre nuestro mundo.
 - Terribles criaturas procedentes de más allá del tiempo y el espacio amenazan la ciudad de Arkham.
 - Los jugadores deben unir fuerzas para evitar su inminente descenso a la locura y destrucción. Si no se toman medidas, estos antiguos y malignos seres despertarán, arrasando no sólo Arkham, sino también el resto de nuestro mundo.
+- Con suerte, a lo largo de este periplo los investigadores reunirán las pistas y recursos necesarios para enfrentarse a los Primigenios y, en última instancia, frustrar sus malvados designios.
+- Arkham Horror es un juego cooperativo. Todos los jugadores colaboran entre sí y ganan o pierden la partida como equipo. Cada jugador controla a un intrépido investigador, uno de los pocos individuos excepcionales que están al tanto del peligro que se cierne sobre nuestro mundo.
+- Los investigadores deben explorar la ciudad para descubrir lugares, personas y criaturas de naturaleza tanto ordinaria como sobrenatural.
 
 [Visítala!!!](https://www.amazon.es/dp/B07MXS7DVL/?tag=tolees-21)
