@@ -25,10 +25,10 @@ En este momento está [Bizak- Juegos Tricky Ardilla Listilla Juguete  35001921 ]
 
 🔎:
 
-- Tienes que intentar recordar el color del fruto del interior de la nuez
 - La nuez con el fruto “blanco” es “comodín”
-- Consigue 3 nueces con el fruto del mismo color que tu hoja para ganar
 - Es un emocionante juego de acción para toda la familia
 - Elige una nuez y colócala en la boca de la ardilla; la ardilla la muerde y la escupe
+- Tienes que intentar recordar el color del fruto del interior de la nuez
+- Consigue 3 nueces con el fruto del mismo color que tu hoja para ganar
 
 [Aquí!!!](https://www.amazon.es/dp/B08B3YRDTL/?tag=tolees-21)

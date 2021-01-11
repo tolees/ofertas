@@ -25,10 +25,10 @@ Ahora mismo tienes [Cool Maker Estudio de Alfarería  BIZAK 61920700 ](https://w
 
 🔎:
 
-- Arcilla de secado al aire
 - Diseña, crea y decora
 - Con un motor fuerte para un modelado fácil
 - Puedes crear hasta 3 proyectos
 - Seguro y limpio
+- Arcilla de secado al aire
 
 [Visítala!!!](https://www.amazon.es/dp/B01FQZH2MC/?tag=tolees-21)

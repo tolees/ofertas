@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'El Hobbit 2: La Desolación De Smaug Edic al 21.79 % de descuento'
-date: 2021-01-10 08:21:54
+date: 2021-01-11 08:37:57
 image: 'https://m.media-amazon.com/images/I/51B5foo5P4L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00NAZ2HL2/?tag=tolees-21'
 descuento: '21.79'
-average: '11.844545454545457'
+average: '11.85666666666667'
 ---
 
 Ahora mismo tienes [El Hobbit 2: La Desolación De Smaug Edición Extendida Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B00NAZ2HL2/?tag=tolees-21) a 11.99 EUR (original: 15.33 EUR) (21.79 %  de descuento) en el siguiente enlace!

@@ -25,10 +25,10 @@ Ahora mismo tienes [LENCENT Ladron Enchufes  Cargador USB de Pared con 1 Toma de
 
 🔎:
 
-- 【Certificación de seguridad extendida】Las certificaciones CE / ROHS / ICE y de seguridad infantil. Este enchufe múltiple fue revisado por nuestros colegas profesionales de control de calidad antes de la entrega y recibió las certificaciones CE, ROHS, ICE. Evite el riesgo de chispas o deflagración debido a adaptadores inferiores.
 - 【Pantalla LED】En el centro debajo de usted encontrará una pequeña luz LED, que indica que está llevando corriente. Durable: Hecho de material de PC (policarbonato) duradero que brinda flexibilidad, dura mucho tiempo y resiste el calor. Placas de plástico cierran los contactos del zócalo. El tamaño de 7.65 * 6 * 3.39cm es portátil y compacto para viajes de negocios o en casa.
 - 【Adecuado para tomas de tierra alemanas o en tomas de corriente en los países】 España, Francia, Austria, Rusia, Turquía, Países Bajos, Bélgica, Polonia, Hungría, Suecia, Noruega, República Checa. Con este adaptador de enchufe, puede usarlo en cualquier lugar y en cualquier momento o en cualquier área interior, como la cocina, el baño, las habitaciones, las salas de estar, etc.
-- 【Volumen de suministro】 1 * Enchufe múltiple de la UE y un manual de instrucciones, vieni con un viaggio meraviglioso per il servizio ai dettagli.
 - 【Diseño 5 en 1】1 toma de CA + 3 puertos USB + puerto tipo C. Toma de CA: salida máxima de hasta 4000 vatios (máx. 250 V, 16 A). Voltaje de entrada de las conexiones USB: 100 V - 250 V AC, 50/60 Hz, salida USB: 5V DC / 3.4A (total), 5V DC / 2.4A (conexión única). Puerto tipo C: 5V DC / 3 A, adecuado para cargar los últimos dispositivos móviles como Apple Iphone, iPad, HUAWEI, Samsung, Xiaomi, etc.
+- 【Volumen de suministro】 1 * Enchufe múltiple de la UE y un manual de instrucciones, vieni con un viaggio meraviglioso per il servizio ai dettagli.
+- 【Certificación de seguridad extendida】Las certificaciones CE / ROHS / ICE y de seguridad infantil. Este enchufe múltiple fue revisado por nuestros colegas profesionales de control de calidad antes de la entrega y recibió las certificaciones CE, ROHS, ICE. Evite el riesgo de chispas o deflagración debido a adaptadores inferiores.
 
 [Visítala!!!](https://www.amazon.es/dp/B08CRGCKJ2/?tag=tolees-21)

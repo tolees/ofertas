@@ -25,10 +25,10 @@ Está [Juegos Bizak Manolete Cuidado con el Solete  BIZAK 35001920 ](https://www
 
 ℹ️:
 
-- Tienes que evitar presionar el botón del vaso de la limonada demasiadas veces y correr a protegerse con el protector solar antes de que Manolete se ponga demasiado rojo
 - El jugador que hace saltar a manolete la tumbona pierde la ronda
-- Muy fácil de jugar
-- Un juego muy divertido y gracioso para toda la familia
+- Tienes que evitar presionar el botón del vaso de la limonada demasiadas veces y correr a protegerse con el protector solar antes de que Manolete se ponga demasiado rojo
 - No le dejes demasiado tiempo bajo el sol sin crema solar o se pondrá muy rojo y saltará de la tumbona si no se le caerá el bañador
+- Un juego muy divertido y gracioso para toda la familia
+- Muy fácil de jugar
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07SGFD1ST/?tag=tolees-21)

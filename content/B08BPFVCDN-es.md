@@ -26,8 +26,8 @@ En este momento está [Giochi Preziosi - NA! NA! NA! Surprise Serie 2](https://w
 🔎:
 
 - El producto se servirá según existencias; 6 modelos para coleccionar
-- La experiencia de unboxing es muy divertida; primero tendrás que hacer explotar un globo, descubrir los confeti de colores y formas y muchísimas sorpresas más
-- Incluye la muñeca, un vestido y un par de capatos, así como 1 cepillo y el peluche original en forma de animal con un clip para que te lo puedas llevar a todos lados
 - Na! Na! Na! Surprise! Serie 2, es una muñeca suave y articulada, con más de 6 personajes diferentes para coleccionar, cada una tiene su personalidad y su propio estilo
+- Incluye la muñeca, un vestido y un par de capatos, así como 1 cepillo y el peluche original en forma de animal con un clip para que te lo puedas llevar a todos lados
+- La experiencia de unboxing es muy divertida; primero tendrás que hacer explotar un globo, descubrir los confeti de colores y formas y muchísimas sorpresas más
 
 [Aquí!!!](https://www.amazon.es/dp/B08BPFVCDN/?tag=tolees-21)

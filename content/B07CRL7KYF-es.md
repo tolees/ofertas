@@ -25,9 +25,9 @@ Ahora mismo tienes [Juegos Bizak No Asustes a la Abuela  BIZAK 30692465 ](https:
 
 🔎:
 
-- El que coja el mayor número de galletas gana el juego
-- Divertido y emocionante juego de habilidad
 - Para jugar en familia
 - Cuando la abuela se duerme es el momento de atacar
+- El que coja el mayor número de galletas gana el juego
+- Divertido y emocionante juego de habilidad
 
 [Visítala!!!](https://www.amazon.es/dp/B07CRL7KYF/?tag=tolees-21)

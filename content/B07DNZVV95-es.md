@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.00 % en Eastpak Crew Single Monedero  13 Cm  Azu'
-date: 2021-01-10 08:20:28
+date: 2021-01-11 08:38:52
 image: 'https://m.media-amazon.com/images/I/41JXJip6HuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DNZVV95/?tag=tolees-21'
 descuento: '25.00'
-average: '14.394'
+average: '14.465294117647058'
 ---
 
 Tienes [Eastpak Crew Single Monedero  13 Cm  Azul  Triple Denim ](https://www.amazon.es/dp/B07DNZVV95/?tag=tolees-21) con un 25.00 % de descuento con precio de oferta de 15.0 EUR (original: 20.0 EUR) en el siguiente enlace!
