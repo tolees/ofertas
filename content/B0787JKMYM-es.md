@@ -28,7 +28,7 @@ Ahora mismo tienes [Crocs Classic Slipper K  Zapatillas de estar por casa  Unise
 - Tipo de tacón: Plano
 - Cierre: Sin cordones
 - Material de la suela: Sintético
-- Revestimiento: Sintético
 - Material exterior: Sintético
+- Revestimiento: Sintético
 
 [Visítala!!!](https://www.amazon.es/dp/B0787JKMYM/?tag=tolees-21)
