@@ -25,10 +25,10 @@ Tienes [1mii B04 Bluetooth USB PC  Adaptador Bluetooth para PC  USB Dongle con B
 
 🔎:
 
-- 【Streaming Audio】Con 1Mii B04 Adaptador Bluetooth su portátil u ordenador fijo sin Bluetooth se puede realizar una reproducción de música inalámbrica de su PC a sus auriculares Bluetooth o altavoces Bluetooth. Soporta música de calidad de 16 bits / 44,1 khz a través de Bluetooth. Experimentará un sonido estéreo de mejor calidad.
+- 【Paquete& Servicios】En el paquete incluyen un 1Mii B04 adaptador Bluetooth USB, un CD driver y un manual. 1Mii B04 tiene 12 meses de garantía(reembolso). Puede descargar el driver: Google Drive: drive.google.com/drive/folders/1uxWjNFPAK9l0_AHNT_E2ZcpD7uIJqK9P?usp=sharing
 - 【Transferencia Inalámbrica】 Se realizará una transferencia de datos o audios desde su PC/ portátil a su tablet o móvil sin necesidad de cables gracias a este Bluetooth USB dongle fino y ligero.
 - 【USB Bluetooth para PC】Introduzca este USB Bluetooth a su PC que no tiene Bluetooth, ya su PC puede conectar con teclado& ratón Bluetooth (NO dispositivos 2.4G), impresoras BT, altavoces/ auriculares Bluetooth y otros BLE (Bluetooth de bajo consumo). NO es compatible con mando Xbox One S, Nintendo, TV, Mac ni sistema estéreo del auto.
-- 【Paquete& Servicios】En el paquete incluyen un 1Mii B04 adaptador Bluetooth USB, un CD driver y un manual. 1Mii B04 tiene 12 meses de garantía(reembolso). Puede descargar el driver: Google Drive: drive.google.com/drive/folders/1uxWjNFPAK9l0_AHNT_E2ZcpD7uIJqK9P?usp=sharing
+- 【Streaming Audio】Con 1Mii B04 Adaptador Bluetooth su portátil u ordenador fijo sin Bluetooth se puede realizar una reproducción de música inalámbrica de su PC a sus auriculares Bluetooth o altavoces Bluetooth. Soporta música de calidad de 16 bits / 44,1 khz a través de Bluetooth. Experimentará un sonido estéreo de mejor calidad.
 - 【Sistema Operativo Compatible】Para PC de Win 8/8.1/10 con solo enchufar, funciona directamente(Plug & Play). Para PC de Win7 / Vista / XP se requiere un driver (instalar con el CD incluido o descargar gratis por el siguiente enlace:OneDrive: 1drv.ms/u/s!AoSqK62Dy8EFgZQ1mlhh0Ne1QeK2_w?e=abOXsj),Comptible con Popular Linux como Ubuntu, Mint, Fedora.
 
 [Comprar!!!](https://www.amazon.es/dp/B07YV4WR74/?tag=tolees-21)
