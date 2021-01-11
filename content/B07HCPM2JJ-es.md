@@ -25,9 +25,9 @@ Ahora mismo tienes [HyperX SAVAGE EXO SHSX100/480G - Unidad de estado sólido po
 
 🔎:
 
+- Velocidades de transferencia superrápidas
 - Conectividad sencilla para Windows y Mac
 - Ligera, portátil y compacta
-- Velocidades de transferencia superrápidas
 - Compatible con XBOX One y PS4 con el USB 3.1 de 2ª generación
 
 [Visítala!!!](https://www.amazon.es/dp/B07HCPM2JJ/?tag=tolees-21)

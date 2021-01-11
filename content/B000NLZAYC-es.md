@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.06 % en Rapesco Documentos - Carpeta portafolios'
-date: 2021-01-09 20:05:44
+date: 2021-01-11 02:16:52
 image: 'https://m.media-amazon.com/images/I/41zRRUuBz8L._SL200_.jpg'
 comments: true
 category: ofertas

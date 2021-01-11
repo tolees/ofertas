@@ -25,10 +25,10 @@ Está [Camper Pelotas XL 18304 - Zapatillas de deporte de cuero para hombre  col
 
 ℹ️:
 
-- Color: Marrón oscuro
 - Suela/Características: EVA para mayor ligereza
 - Forro:
-- Plantilla: Plantilla extraíble de EVA con sistema amortiguador
 - Empeine: Piel (Piel vacuna)
+- Color: Marrón oscuro
+- Plantilla: Plantilla extraíble de EVA con sistema amortiguador
 
 [Ver la oferta!!](https://www.amazon.es/dp/B003LBSEM6/?tag=tolees-21)

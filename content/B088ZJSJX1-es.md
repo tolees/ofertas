@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Yakuza Like a Dragon Day Ichi Edition -  al 43.49 % de descuento'
-date: 2021-01-08 19:11:54
+date: 2021-01-11 02:50:59
 image: 'https://m.media-amazon.com/images/I/51FN+IsfXXL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B088ZJSJX1/?tag=tolees-21'
 descuento: '43.49'
-average: '47.036341463414644'
+average: '46.42534883720931'
 ---
 
 Está [Yakuza Like a Dragon Day Ichi Edition - Xbox One](https://www.amazon.es/dp/B088ZJSJX1/?tag=tolees-21) con 43.49 de descuento por 33.9 EUR (original: 59.99 EUR) en el siguiente enlace!
@@ -27,7 +27,7 @@ Está [Yakuza Like a Dragon Day Ichi Edition - Xbox One](https://www.amazon.es/d
 
 - El campo de batalla es tu arma: usa murciélagos, sombrillas, bicicletas, letreros de la calle y todo lo demás a tu disposición para derrotar a tus enemigos
 - Encuentra, forja y mejora el equipo para enfrentarte a los enemigos más fuertes
-- Recluta hasta 7 miembros del partido de las afueras de la sociedad y pasa tiempo con los miembros del grupo para desarrollar sus habilidades y desbloquear poderosas habilidades combinadas
 - Conviértete en Ichiban Kasuga, un gruñido yakuza traicionado por el hombre en quien más confiaba y destroza cráneos en combate dinámico RPG
+- Recluta hasta 7 miembros del partido de las afueras de la sociedad y pasa tiempo con los miembros del grupo para desarrollar sus habilidades y desbloquear poderosas habilidades combinadas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B088ZJSJX1/?tag=tolees-21)

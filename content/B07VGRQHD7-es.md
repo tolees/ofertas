@@ -25,9 +25,9 @@ Ahora mismo tienes [Michael Kors Reloj de Pulsera para Mujer](https://www.amazon
 
 🔎:
 
-- Material de la correa: acero inoxidable de tono Oro, circunferencia interior de la correa: 175 +/- 5MM
 - Resistente al agua: 5 ATM
-- Grosor de la caja: 7 mm, Tamaño de la caja: 38 mm, Ancho de correa: 18 mm
 - Tipo de vidrio: cristal mineral con esfera Blanca
+- Material de la correa: acero inoxidable de tono Oro, circunferencia interior de la correa: 175 +/- 5MM
+- Grosor de la caja: 7 mm, Tamaño de la caja: 38 mm, Ancho de correa: 18 mm
 
 [Visítala!!!](https://www.amazon.es/dp/B07VGRQHD7/?tag=tolees-21)

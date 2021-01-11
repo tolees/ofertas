@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Midsommar - Director s Cut [Blu-ray] al 44.84 % de descuento'
-date: 2021-01-09 20:41:08
+title: 'Midsommar - Director s Cut [Blu-ray] al 53.28 % de descuento'
+date: 2021-01-11 02:52:19
 image: 'https://m.media-amazon.com/images/I/51kYqXtmMrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07WDDMBW6-es'
-actualPrice: 9.08 EUR
+actualPrice: 7.69 EUR
 currency: EUR
-price: 9.08
+price: 7.69
 comparePrice: 16.46 EUR
 prodname: 'Midsommar - Director s Cut [Blu-ray]'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07WDDMBW6/?tag=tolees-21'
-descuento: '44.84'
-average: '9.08'
+descuento: '53.28'
+average: '8.385'
 ---
 
-Está [Midsommar - Director s Cut [Blu-ray]](https://www.amazon.es/dp/B07WDDMBW6/?tag=tolees-21) con 44.84 de descuento por 9.08 EUR (original: 16.46 EUR) en el siguiente enlace!
+Está [Midsommar - Director s Cut [Blu-ray]](https://www.amazon.es/dp/B07WDDMBW6/?tag=tolees-21) con 53.28 de descuento por 7.69 EUR (original: 16.46 EUR) en el siguiente enlace!
 
 [![Midsommar - Director s Cut [Blu-ray]](https://m.media-amazon.com/images/I/51kYqXtmMrL._SL200_.jpg)](https://www.amazon.es/dp/B07WDDMBW6/?tag=tolees-21)
 
