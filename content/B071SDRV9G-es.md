@@ -25,11 +25,11 @@ Tienes [Panasonic KX-TGK210  Teléfono Fijo Inalámbrico de Diseño  LCD  Identi
 
 🔎:
 
-- Identificador de llamadas e identificador de llamadas en espera, modo no molestar y restricción de llamadas
+- Teléfono inalámbrico digital de diseño con memoria con agenda para 50 elementos (nombre número)
 - Sistema de sonido personalizado agudo / alto / bajo, reloj y alarma despertador
-- Pantalla LCD retroiluminada en blanco de 1.5"
+- Identificador de llamadas e identificador de llamadas en espera, modo no molestar y restricción de llamadas
 - Teléfono doble/duo
 - Duración batería en reposo 200hs
-- Teléfono inalámbrico digital de diseño con memoria con agenda para 50 elementos (nombre número)
+- Pantalla LCD retroiluminada en blanco de 1.5"
 
 [Comprar!!!](https://www.amazon.es/dp/B071SDRV9G/?tag=tolees-21)

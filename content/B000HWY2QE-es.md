@@ -1,38 +1,38 @@
 ---
 layout: post
-title: 'Alessi 9090/6 - Cafetera italiana de ace al 32.12 % de descuento'
-date: 2021-01-01 19:20:21
+title: 'Alessi 9090/6 - Cafetera italiana de ace al 30.78 % de descuento'
+date: 2021-01-11 16:49:01
 image: 'https://m.media-amazon.com/images/I/41+n+hsfX5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B000HWY2QE-es'
-actualPrice: 108.6 EUR
+actualPrice: 110.75 EUR
 currency: EUR
-price: 108.6
+price: 110.75
 comparePrice: 160.0 EUR
 prodname: 'Alessi 9090/6 - Cafetera italiana de acero inoxidable brillo 18/10 con base magnética'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000HWY2QE/?tag=tolees-21'
-descuento: '32.12'
-average: '110.94'
+descuento: '30.78'
+average: '110.87666666666667'
 ---
 
-Ahora mismo tienes [Alessi 9090/6 - Cafetera italiana de acero inoxidable brillo 18/10 con base magnética](https://www.amazon.es/dp/B000HWY2QE/?tag=tolees-21) a 108.6 EUR (original: 160.0 EUR) (32.12 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Alessi 9090/6 - Cafetera italiana de acero inoxidable brillo 18/10 con base magnética](https://www.amazon.es/dp/B000HWY2QE/?tag=tolees-21) a 110.75 EUR (original: 160.0 EUR) (30.78 %  de descuento) en el siguiente enlace!
 
 [![Alessi 9090/6 - Cafetera italiana de ace](https://m.media-amazon.com/images/I/41+n+hsfX5L._SL200_.jpg)](https://www.amazon.es/dp/B000HWY2QE/?tag=tolees-21)
 
 🔎:
 
-- Diseño de caso: Autónoma
-- Color: Acero inoxidable
-- Descripción del producto: Alessi 9090/6
 - Tipo de entrada de café: Café molido
-- Profundidad: 125 mm
 - Tipos de bebidas : café espresso
-- Material de la carcasa / cuerpo: Acero inoxidable
+- Profundidad: 125 mm
+- Color: Acero inoxidable
 - Tipo de café : Manuel
+- Descripción del producto: Alessi 9090/6
 - Altura: 205 mm
+- Diseño de caso: Autónoma
+- Material de la carcasa / cuerpo: Acero inoxidable
 
 [Visítala!!!](https://www.amazon.es/dp/B000HWY2QE/?tag=tolees-21)

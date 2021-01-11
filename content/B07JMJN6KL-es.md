@@ -26,7 +26,7 @@ Está [Adidas Falcon  Zapatillas de Trail Running Hombre  Negro/Blanco  Core Bla
 ℹ️:
 
 - Amortiguación
-- Empeine de malla y ante suave.
 - Zapatillas de running
+- Empeine de malla y ante suave.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07JMJN6KL/?tag=tolees-21)

@@ -25,10 +25,10 @@ En este momento está [Maybelline New York - Superstay 7 Días  Esmalte de Uñas
 
 🔎:
 
-- Su fórmula de gel flexible hacen que el color del esmalte de uñas sea súper resistente
+- Emalte de uñas efecto gel de larga duración
 - Contiene hierro, calcio, silicio y Vitamina B5 que refuerza tus uñas frente a las agresiones externas
 - Fórmula de acabado profesional
-- Emalte de uñas efecto gel de larga duración
 - El pincel recoge la dosis exacta, para una aplicación perfecta en una pasada
+- Su fórmula de gel flexible hacen que el color del esmalte de uñas sea súper resistente
 
 [Aquí!!!](https://www.amazon.es/dp/B008DSKWBS/?tag=tolees-21)
