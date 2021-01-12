@@ -25,9 +25,9 @@ Está [Funko - Pop! Vinyl: Games: Fallout S2: T-51 Power Armor Figura Colecciona
 
 ℹ️:
 
-- Licencia oficial
-- Figura pop fallout t-51 power armor
 - Para los Fans de Funko
+- Figura pop fallout t-51 power armor
+- Licencia oficial
 - Funko es un nombre de marca reconocido
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07HB8C1XQ/?tag=tolees-21)

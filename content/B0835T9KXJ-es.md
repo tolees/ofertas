@@ -25,9 +25,9 @@ Tienes [Quiksilver Freshness  Monederos. para Hombre  Calamata  Large](https://w
 
 🔎:
 
-- Con solapa interior
 - Tamaño: Mediano 4. 1 pulgada [w] x 3. 3" [h] / 10. 5 [w] x 8. 5 [h] cm
 - Impresión artística / insignia de metal / logotipo bordado interno
+- Con solapa interior
 - Bolsillos y ventanas: bolsillo interno para monedas y tarjeta de identificación
 - Ranuras para tarjetas
 

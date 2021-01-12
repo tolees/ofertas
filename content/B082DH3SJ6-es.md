@@ -26,9 +26,9 @@ Está [Edifier Studio R1280T 2.0 - Caja Activa  Color Negro](https://www.amazon.
 ℹ️:
 
 - Juego de altavoces 2.0 de alta calidad con sonido impresionante, incluye mando a distancia por infrarrojos.
-- Incluye todos los cables necesarios.
-- Posibilidades de conexión: RCA (RCA), jack de 3,5 mm (AUX).
 - Potencia de salida (RMS): 2 x 21 W; canal de reflejo de graves frontal para una reproducción de graves intensa.
+- Posibilidades de conexión: RCA (RCA), jack de 3,5 mm (AUX).
+- Incluye todos los cables necesarios.
 - Altavoces activos con 2 entradas de audio independientes (RCA) y controles de volumen, potencia de graves y agudos.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B082DH3SJ6/?tag=tolees-21)

@@ -25,8 +25,8 @@ Tienes [Nike Court Vision LO  Zapatillas para Hombre  Negro  Black/White/Photon 
 
 🔎:
 
-- Material excelente.
 - Diseño moderno.
+- Material excelente.
 - Zapatillas clásicas.
 
 [Comprar!!!](https://www.amazon.es/dp/B07NMZ8Q9M/?tag=tolees-21)

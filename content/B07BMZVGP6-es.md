@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gigaset AL117 A- Teléfono inalámbrico co al 31.32 % de descuento'
-date: 2021-01-11 13:03:23
+date: 2021-01-12 14:14:22
 image: 'https://m.media-amazon.com/images/I/41H6RNAyCjL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,8 +27,8 @@ Está [Gigaset AL117 A- Teléfono inalámbrico con contestador digital](https://
 
 - Agenda de 50 contactos
 - Contestador digital te permite grabar hasta 25 minutos y acceder a los mensajes guardados en modo remoto
-- Indicación de llamadas pedidas en pantalla lo que fácilitará saber quién te ha llamado para poder devolver las llamadas
 - Compatible con audífonos
+- Indicación de llamadas pedidas en pantalla lo que fácilitará saber quién te ha llamado para poder devolver las llamadas
 - Aviso de nuevos mensajes en el terminal
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07BMZVGP6/?tag=tolees-21)

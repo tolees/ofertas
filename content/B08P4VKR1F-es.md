@@ -25,7 +25,7 @@ Está [LIANQI Cámara USB Multifuncional de Alta definición 1080P Cable USB Ind
 
 ℹ️:
 
-- 2. Micrófono de alta fidelidad integrado: función de reducción de ruido a través del chip, elimina cierto ruido, cumple con los requisitos de transmisión en vivo, video de voz, llamada de clase, etc.
 - 1. Admite videollamadas y videollamadas de alta definición de 1080p: y la velocidad es de hasta 30 fps, buena calidad de video.
+- 2. Micrófono de alta fidelidad integrado: función de reducción de ruido a través del chip, elimina cierto ruido, cumple con los requisitos de transmisión en vivo, video de voz, llamada de clase, etc.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08P4VKR1F/?tag=tolees-21)

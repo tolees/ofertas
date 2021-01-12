@@ -25,10 +25,10 @@ Tienes [Taurus MITHOS AVANT - Maquina Cortapelo hombre  Motor AC 3000 Rpm  Cuchi
 
 ℹ️:
 
+- Cortapelos profesional; La máquina de cortar el pelo mithos avant cuenta con un motor profesional ac que mueve las cuchillas 3000 veces por minuto
 - Uso con cable; Máxima potencia siempre; Córtate el pelo cuando quieras, sin esperar a que se carguen las baterías y obteniendo siempre el máximo rendimiento
+- 4 peines guía y 10 alturas de corte: incluye 4 peines guía de 3, 6, 9 y 12 mm, cada uno de ellos regulable en dos alturas distintas activando o desactivando la palanca lateral
 - Cuchillas de titanio ultra afiladas; Las cuchillas titanium del cortapelos mithos avant están ultra afiladas, y ofrecen un corte totalmente homogéneo
 - Accesorios: Incluye un peine, un cepillo de limpieza, un botellín de aceite lubricante y un protector para tapar las cuchillas cuando termines de usarlo
-- 4 peines guía y 10 alturas de corte: incluye 4 peines guía de 3, 6, 9 y 12 mm, cada uno de ellos regulable en dos alturas distintas activando o desactivando la palanca lateral
-- Cortapelos profesional; La máquina de cortar el pelo mithos avant cuenta con un motor profesional ac que mueve las cuchillas 3000 veces por minuto
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B085PSTZVK/?tag=tolees-21)

@@ -26,8 +26,8 @@ Está [Lacoste L1212 Camiseta Polo  Azul  Electrique   XS para Hombre](https://w
 ℹ️:
 
 - Botones de nácar
-- Bajo recto con aberturas laterales
 - Cocodrilo bordado en el pecho
+- Bajo recto con aberturas laterales
 - Cuello y bordes de las mangas acanalados
 
 [Ver la oferta!!](https://www.amazon.es/dp/B077SH1XHB/?tag=tolees-21)

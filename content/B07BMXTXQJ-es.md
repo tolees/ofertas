@@ -25,10 +25,10 @@ Ahora mismo tienes [Pikolin Home - Pack de 2 fundas de almohada cutí  100% algo
 
 🔎:
 
-- Protege la almohada conservándola en mejores condiciones durante más tiempo
 - Tratamiento de antiencogimiento
+- Funda de almohada - 100% algodón satén listado sanforizado de alta transpirabilidad y suavidad
+- Protege la almohada conservándola en mejores condiciones durante más tiempo
 - Cierre con cremallera; funda lavable a máquina
 - Totalmente transpirable; reduce el calor durante el descanso
-- Funda de almohada - 100% algodón satén listado sanforizado de alta transpirabilidad y suavidad
 
 [Visítala!!!](https://www.amazon.es/dp/B07BMXTXQJ/?tag=tolees-21)
