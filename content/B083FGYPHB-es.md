@@ -25,9 +25,9 @@ En este momento está [Lacoste Sport Sh1505 Suéter  Bitume Chine/Graphite Som  
 
 🔎:
 
-- Cocodrilo verde bordado en el pecho
-- Felpa de algodón cepillado
-- Cuello acanalado reforzado
 - Acabados acanalados en los puños y en el bajo de la prenda y media luna de tafetán diamantado (tejido suave y muy ligero con un acabado delicadamente brillante)
+- Cocodrilo verde bordado en el pecho
+- Cuello acanalado reforzado
+- Felpa de algodón cepillado
 
 [Aquí!!!](https://www.amazon.es/dp/B083FGYPHB/?tag=tolees-21)

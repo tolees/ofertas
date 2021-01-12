@@ -25,10 +25,10 @@ En este momento está [Casio G-SHOCK Reloj Analógico-Digital  20 BAR  Rojo  par
 
 🔎:
 
-- Pantalla del reloj con luz LED automática
-- Carcasa resistente a golpes que protege contra los impactos y vibraciones
-- Resistente al agua hasta 20 bar / 200 metros
 - Tiene indicador de velocidad, calendario automático, función de despertador
+- Carcasa resistente a golpes que protege contra los impactos y vibraciones
+- Pantalla del reloj con luz LED automática
+- Resistente al agua hasta 20 bar / 200 metros
 - Incluye función de hora universal, cronómetro, temporizadores, 5 alarmas diarias
 
 [Aquí!!!](https://www.amazon.es/dp/B005FEY8YK/?tag=tolees-21)
