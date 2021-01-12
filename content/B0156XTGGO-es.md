@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dremel 4000 - Multiherramienta  175 W  k al 20.98 % de descuento'
-date: 2021-01-11 14:56:40
+date: 2021-01-12 15:08:04
 image: 'https://m.media-amazon.com/images/I/51aaRKtOnqL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0156XTGGO/?tag=tolees-21'
 descuento: '20.98'
-average: '121.0240404040404'
+average: '121.16217821782179'
 ---
 
 Está [Dremel 4000 - Multiherramienta  175 W  kit con eje flexible  65 accesorios y 4 complementos  velocidad variable 5.000 - 35.000 rpm para tallar  grabar  fresar  amolar  limpiar  pulir  cortar y lijar](https://www.amazon.es/dp/B0156XTGGO/?tag=tolees-21) con 20.98 de descuento por 128.0 EUR (original: 161.99 EUR) en el siguiente enlace!

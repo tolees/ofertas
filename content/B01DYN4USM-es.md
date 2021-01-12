@@ -25,9 +25,9 @@ Tienes [SanDisk Extreme SDSQXVF-128G-GN6AA - Tarjeta de Memoria microSDXC para c
 
 🔎:
 
-- El estándar UHS Video Speed Class 30 (V30) signfica que su tarjeta está lista para los avances en materia de realidad virtual y grabación de vídeo en 360°
 - Transfiere archivos grandes con rapidez
 - Memoria extrema que optimiza el rendimiento de tu cámara de acción
+- El estándar UHS Video Speed Class 30 (V30) signfica que su tarjeta está lista para los avances en materia de realidad virtual y grabación de vídeo en 360°
 - Dispone del estándar UHS Speed Class 3 (U3), que le permitirá grabar vídeo Full HD y 4K UHD
 - Hasta 90/60 MB/s de velocidades de lectura/escritura para disparar y transferir rápido
 - Fabricada para ser usada en condiciones difíciles y sometida a ensayos en dichas condiciones: resistente a temperatura, al agua, a golpes y a rayos X

@@ -25,9 +25,9 @@ En este momento está [Edge Entertainment- Colonias en Guerra Juego de Tablero  
 
 🔎:
 
-- Hace tiempo que dejamos de ser humanos
-- Number of players: 2-5
-- Los humanos son muertos vivientes andantes; nosotros somos supervivientes
 - Dead of Winter: Colonias en Guerra amplía tanto Dead of Winter como Dead of Winter: La Larga Noche
+- Number of players: 2-5
+- Hace tiempo que dejamos de ser humanos
+- Los humanos son muertos vivientes andantes; nosotros somos supervivientes
 
 [Aquí!!!](https://www.amazon.es/dp/B079P8ZVXL/?tag=tolees-21)

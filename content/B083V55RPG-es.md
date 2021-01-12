@@ -26,9 +26,9 @@ Tienes [safta 642017819 Mochila Grande con Funda Ordenador Benetton  Stars](http
 ℹ️:
 
 - Cuenta con un compartimento principal y un bolsillo frontal
-- Producto con licencia oficial
 - Espalda y hombreras acolchadas, ergonómicas, cómodas y ajustables; rejilla acolchada anti-sudor
 - Mochila grande para ordenador
+- Producto con licencia oficial
 - Bolsillo interior par ipad; bolsillo interior para móvil; bolsillo interior para ordenador portátil de 10,6 y 14,1 pulgadas
 - Medidas: 31 cm x 16 cm x 41 cm
 

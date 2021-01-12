@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Patria - Serie completa [Blu-ray] con un 16.64 % de descuento'
-date: 2021-01-09 06:57:08
+date: 2021-01-12 15:29:41
 image: 'https://m.media-amazon.com/images/I/41iA7wfhDmL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08L8KDGNR/?tag=tolees-21'
 descuento: '16.64'
-average: '40.146721311475396'
+average: '40.141746031746024'
 ---
 
 En este momento está [Patria - Serie completa [Blu-ray]](https://www.amazon.es/dp/B08L8KDGNR/?tag=tolees-21) a 39.99 EUR (original: 47.97 EUR) (16.64 %  de descuento) en el siguiente enlace!

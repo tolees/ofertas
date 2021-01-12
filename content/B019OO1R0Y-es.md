@@ -25,10 +25,10 @@ Tienes [Ziaja Leche De Cabra Mascarilla Para El Cabello 200Ml 236 gr](https://ww
 
 ℹ️:
 
-- Ingredientes activos: complejo de proteínas de leche de cabra, keratina
-- Proporciona brillo y facilita el peinado
 - Restaura la suavidad e hidratación
-- Reconstruye la estructura del cabello afectado mejorando su flexibilidad
 - Mascarilla fortalecedora para cabello opaco y seco; contiene keratina y complejo de proteínas de leche de cabra
+- Proporciona brillo y facilita el peinado
+- Ingredientes activos: complejo de proteínas de leche de cabra, keratina
+- Reconstruye la estructura del cabello afectado mejorando su flexibilidad
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B019OO1R0Y/?tag=tolees-21)

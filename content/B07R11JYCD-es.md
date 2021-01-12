@@ -25,10 +25,10 @@ Está [Fantasy Flight Games- Viajes por la Tierra Media  Color  JME01ES ](https:
 
 ℹ️:
 
-- Necesitas una aplicación digital gratuita para jugar a Viajes por la Tierra Media
 - Viajes por la Tierra Media es un juego de mesa totalmente cooperativo de fantasía y aventura para 1 a 5 jugadores.
-- A partir de 14 años de Edad
 - Tus amigos y tú encarnaréis a los heroicos personajes de la obra cumbre de J.R.R. Tolkien, El Señor de los Anillos
+- A partir de 14 años de Edad
+- Necesitas una aplicación digital gratuita para jugar a Viajes por la Tierra Media
 - Gracias a una campaña inmersiva que se ramifica, múltiples misiones secundarias y un sistema de generación de mapas procedimental, Viajes por la Tierra Media no dejará de sorprenderte y podrás volver a jugar una y otra vez.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07R11JYCD/?tag=tolees-21)
