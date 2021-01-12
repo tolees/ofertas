@@ -25,9 +25,9 @@ Está [Black+Decker BXSH1500E Calefactor cerámico  1500 W  Negro](https://www.a
 
 ℹ️:
 
+- Total seguridad: incluye una función de apagado automático por sobrecalentamiento y un interruptor de seguridad en su base que desconectará el calefactor en caso de vuelco
 - Sistema de calentamiento ptc: calentamiento ultrarrápido gracias a sus placas cerámicas; calor al momento, sin esperas y totalmente uniforme
 - Dos potencía s y función ventilador: el calefactor de black + decker cuenta con dos potencía s de calefacción, una de 750w y otra de 1500w para que puedas escoger la que mejor se adapte a las necesidades de cada momento; además también podrás activar la función ventilación, que hará circular el aire sin calentarlo, para que puedas usarlo también en verano o cuando necesites ventilar una habitación
-- Total seguridad: incluye una función de apagado automático por sobrecalentamiento y un interruptor de seguridad en su base que desconectará el calefactor en caso de vuelco
 - Compacto: sus dimensiones de 21cm de alto, 21 cm de ancho y 10cm de fondo te permitirán colocarlo en cualquier rincón sin entorpecer el paso; además su diseño discreto y elegante en negro mate combinará con cualquier tipo de decoración
 - Termostato regulable: selecciona una temperatura de referencia y el calefactor se activará hasta alcanzarla; después se activará y desactivará de manera automática para mantener la temperatura seleccionada de manera estable
 

@@ -25,8 +25,8 @@ Está [Lee Scarlett Jeans  Azul  High Blue Yon   24W / 33L para Mujer](https://w
 
 ℹ️:
 
+- Presentan 5 bolsillos
 - Tienen bordado una etiqueta con la marca Lee
 - Vaqueros para mujer
-- Presentan 5 bolsillos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07CQ1YVYV/?tag=tolees-21)
