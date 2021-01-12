@@ -26,9 +26,9 @@ Ahora mismo tienes [2 cables de carga Samsung  pieza del fabricante original  de
 🔎:
 
 - Número de pieza original del fabricante Samsung: ECBDU4EWE.
+- Juego de 2 cables micro USB originales para Samsung, ECBDU4EWE.
 - Compatible con Samsung Galaxy S6 Edge + S7 Edge Note 4 5 Edge.
 - Compatible con la carga rápida adaptativa si tienes el adaptador necesario.
 - La lista es solo para los cables. Adaptador no incluido.
-- Juego de 2 cables micro USB originales para Samsung, ECBDU4EWE.
 
 [Visítala!!!](https://www.amazon.es/dp/B01DKTH2ZS/?tag=tolees-21)

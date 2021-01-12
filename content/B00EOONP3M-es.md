@@ -25,17 +25,17 @@ En este momento está [Sanicat clumping + marseille soup 10L  azul](https://www.
 
 🔎:
 
-- Como no contiene bactericidas químicos y elimina las bacterias de forma natural, es ideal para dueños preocupados por la seguridad de su gato
-- Como no contiene bactericidas químicos y elimina las bacterias de forma natural, es ideal para dueños preocupados por la seguridad de su gato
 - Arena Aglomerante con oxígeno activo para una total desinfección con aroma a jabón de Marsella
-- Arena Aglomerante con oxígeno activo para una total desinfección con aroma a jabón de Marsella
-- Además, por sus gránulos más gruesos, evita que el gato arrastre la arena fuera de la bandeja
 - Rango de edad: All Life Stages
 - Composición: Bentonita gruesa con oxígeno activo y aroma a jabón de Marsella
-- Rango de edad: All Life Stages
+- Arena Aglomerante con oxígeno activo para una total desinfección con aroma a jabón de Marsella
 - Formato: Disponible en 10L
+- Además, por sus gránulos más gruesos, evita que el gato arrastre la arena fuera de la bandeja
 - Composición: Bentonita gruesa con oxígeno activo y aroma a jabón de Marsella
 - Además, por sus gránulos más gruesos, evita que el gato arrastre la arena fuera de la bandeja
+- Rango de edad: All Life Stages
+- Como no contiene bactericidas químicos y elimina las bacterias de forma natural, es ideal para dueños preocupados por la seguridad de su gato
 - Formato: Disponible en 10L
+- Como no contiene bactericidas químicos y elimina las bacterias de forma natural, es ideal para dueños preocupados por la seguridad de su gato
 
 [Aquí!!!](https://www.amazon.es/dp/B00EOONP3M/?tag=tolees-21)

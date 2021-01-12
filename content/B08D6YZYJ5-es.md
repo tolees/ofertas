@@ -25,10 +25,10 @@ Tienes [Aro de luz VicTsing  Anillo de Luz Trípode LED 10"  3 Modos Luz + 10 Ni
 
 ℹ️:
 
-- 【Ángulo de rotación de 360°】 El trípode resistente y antideslizante se estabilizará bien en su escritorio sin ningún bamboleo, y la junta universal permitirá que este anillo LED gire desde 360 °.
-- 【Sujete su teléfono firmemente】 El cuello de cisne flexible y una abrazadera antideslizante ajustable de 360° sujetarán su teléfono de forma segura y lo mantendrán en su posición después de cualquier ajuste de ángulo. Apto para todos los teléfonos con un ancho de 8 cm (compatible con cámara web).
-- 【Anillo de luz LED de 10 pulgadas & con Control Remoto Bluetooth】Este 10 " anillo de luz y aro de luz para maquillaje grande con 120 cuentas de lámpara es lo suficientemente brillante para transmisión en vivo, selfies, maquillaje, etc.Aro luz de móvil se puede utilizar para disparos remotos a través de Bluetooth y es adecuada para Android e iOS.
-- 【3 Modos Luz + 10 Niveles Brillo】Con 3 configuraciones de temperatura de color (blanco frío/blanco cálido/amarillo cálido) y 10 niveles de brillo, Aro de luz para movil se puede ajustar a cualquier efecto de iluminación que desee para sus videos o imágenes.
 - 【Toma fotos con mayor facilidad】 El obturador te ofrece una gran comodidad para tomar fotos con un grupo de amigos o familiars.
+- 【3 Modos Luz + 10 Niveles Brillo】Con 3 configuraciones de temperatura de color (blanco frío/blanco cálido/amarillo cálido) y 10 niveles de brillo, Aro de luz para movil se puede ajustar a cualquier efecto de iluminación que desee para sus videos o imágenes.
+- 【Sujete su teléfono firmemente】 El cuello de cisne flexible y una abrazadera antideslizante ajustable de 360° sujetarán su teléfono de forma segura y lo mantendrán en su posición después de cualquier ajuste de ángulo. Apto para todos los teléfonos con un ancho de 8 cm (compatible con cámara web).
+- 【Ángulo de rotación de 360°】 El trípode resistente y antideslizante se estabilizará bien en su escritorio sin ningún bamboleo, y la junta universal permitirá que este anillo LED gire desde 360 °.
+- 【Anillo de luz LED de 10 pulgadas & con Control Remoto Bluetooth】Este 10 " anillo de luz y aro de luz para maquillaje grande con 120 cuentas de lámpara es lo suficientemente brillante para transmisión en vivo, selfies, maquillaje, etc.Aro luz de móvil se puede utilizar para disparos remotos a través de Bluetooth y es adecuada para Android e iOS.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08D6YZYJ5/?tag=tolees-21)

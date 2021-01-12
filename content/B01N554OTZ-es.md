@@ -26,7 +26,7 @@ Tienes [IDC COLOR maletin maquillaje completo 30332](https://www.amazon.es/dp/B0
 🔎:
 
 - 26 x 34 x 7.5
-- Contiene 2 coloretes, 4 pintalabios, 26 sombras de ojos, 3 esmaltes de uñas, 1 mascara de pestañas, 2 lapices de ojos, 2 perfiladores de labios, 3 brillos labiales y maquillaje liquido
 - Maletín muy completo, marca IDC Color con todo lo que necesitas
+- Contiene 2 coloretes, 4 pintalabios, 26 sombras de ojos, 3 esmaltes de uñas, 1 mascara de pestañas, 2 lapices de ojos, 2 perfiladores de labios, 3 brillos labiales y maquillaje liquido
 
 [Comprar!!!](https://www.amazon.es/dp/B01N554OTZ/?tag=tolees-21)

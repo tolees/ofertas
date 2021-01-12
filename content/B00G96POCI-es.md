@@ -25,8 +25,8 @@ Está [KWB 49041006 Broca pasamuros de 200 x 6 mm](https://www.amazon.es/dp/B00G
 
 ℹ️:
 
-- Ideal para uso intensivo
 - Herramienta de calidad profesional
+- Ideal para uso intensivo
 - Peso del producto: 43 gramos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00G96POCI/?tag=tolees-21)

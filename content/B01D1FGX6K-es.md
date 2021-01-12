@@ -26,9 +26,9 @@ Está [Wow Wee Coche y Drone  0442 ](https://www.amazon.es/dp/B01D1FGX6K/?tag=to
 ℹ️:
 
 - Con la App gratuita podrás dirigir tanto el drone, como el coche desde tu Smartphone o Tablet a través de Bluetooth (incluye coche y drone)
-- Es como un videojuego en la vida real
 - REV Air aporta una nueva dimensión al campo de batalla. Batallas entre drone y coche (ambos incluidos)
 - Puedes añadir pilotos de Inteligencia Artificial a tus oponentes o si lo prefieres jugar contra tus amigos
 - Una vez descargada la App, no consumirás datos en tu dispositivo porque funciona a través de Bluetooth
+- Es como un videojuego en la vida real
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01D1FGX6K/?tag=tolees-21)
