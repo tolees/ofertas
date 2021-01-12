@@ -26,9 +26,9 @@ Ahora mismo tienes [L Oréal Paris Make-up designer 24H Fresh Wear Base de Maqui
 🔎:
 
 - Fórmula con pigmentos finos ultra-concentrados que se adaptan óptimamente al tono de tu piel
-- Permite conseguir una cobertura impecable que dura 24 H, como recién aplicado
+- Disponible en 24 tonos
 - Base de maquillaje de larga duración y cobertura modulable
 - Truco experto: aplicar después de la prebase alisadora de Infalible para prolongar el resultado del maquillaje
-- Disponible en 24 tonos
+- Permite conseguir una cobertura impecable que dura 24 H, como recién aplicado
 
 [Visítala!!!](https://www.amazon.es/dp/B07DSHXRQM/?tag=tolees-21)
