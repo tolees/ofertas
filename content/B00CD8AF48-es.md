@@ -25,12 +25,12 @@ En este momento está [AmazonBasics NC1303152 - Funda para ordenadores portátil
 
 🔎:
 
-- Funda protectora compatible con ordenadores portátiles de hasta 13.3"
-- Comprueba las medidas del ordenador portátil para asegurarte de que cabe en la funda
 - Cierre con cremallera en la parte superior
-- Dimensiones internas : 30.7*22.8*1.8 cm
+- El diseño delgado le permite llevar el caso por sí mismo o en una bolsa
 - Dimensiones externas: 33.5*24.9*2 cm
 - Construcción de neopreno que se ajusta al dispositivo para protegerlo
-- El diseño delgado le permite llevar el caso por sí mismo o en una bolsa
+- Dimensiones internas : 30.7*22.8*1.8 cm
+- Funda protectora compatible con ordenadores portátiles de hasta 13.3"
+- Comprueba las medidas del ordenador portátil para asegurarte de que cabe en la funda
 
 [Aquí!!!](https://www.amazon.es/dp/B00CD8AF48/?tag=tolees-21)
