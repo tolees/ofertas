@@ -26,9 +26,9 @@ En este momento está [Pegaso 103.02 Gafas de Protección  Rojo y Negro  L](http
 🔎:
 
 - Filtro solar 3.1, apto para la conducción vial
-- Lentes con tecnología Spartan (antirraya)
 - Lentes con tecnología Nebulus (antivaho)
-- Lente de visión panorámica 180°
 - Varilla ergonómica y puente de goma
+- Lentes con tecnología Spartan (antirraya)
+- Lente de visión panorámica 180°
 
 [Aquí!!!](https://www.amazon.es/dp/B073QWFQ53/?tag=tolees-21)

@@ -25,9 +25,9 @@ Ahora mismo tienes [Fossil Reloj Analógico para Hombre de Cuarzo con Correa en 
 
 🔎:
 
-- Esfera negra con índices en color gris y números árabes a las 3/6/9/12 - Función de cronógrafo con fecha y modo 24h - Agujas negras y grises - Cristal Mineral
-- Correa de piel en color negro con pespuntes en color negro - Hebilla
 - Reloj de hombre FOSSIL - Caja redonda de acero inoxidable en color negro (diám. 50 mm) con acabado pulido mate - 2 pulsadores negros - 5 ATM de resistencia a la presión del agua - Bisel coronado
 - Presentado en lata ilustrada de coleccionista (diferentes diseños)
+- Esfera negra con índices en color gris y números árabes a las 3/6/9/12 - Función de cronógrafo con fecha y modo 24h - Agujas negras y grises - Cristal Mineral
+- Correa de piel en color negro con pespuntes en color negro - Hebilla
 
 [Visítala!!!](https://www.amazon.es/dp/B0066T2GAQ/?tag=tolees-21)

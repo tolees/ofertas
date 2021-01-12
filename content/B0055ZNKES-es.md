@@ -25,10 +25,10 @@ Tienes [Orbegozo FH 5031 - Calefactor  termostato regulable  2 niveles de potenc
 
 ℹ️:
 
-- Ideal para espacios de hasta 90 m³, tensión 230 V~, 50 Hz
-- Luz indicadora de encendido y agarradera posterior para fácil transporte
-- Función ventilador
-- Apagado automático de seguridad y protección contra calentamiento
 - Dos posiciones de calor, 1250 W y alta potencia de 2500 W, con temperatura ajustable mediante termostato
+- Luz indicadora de encendido y agarradera posterior para fácil transporte
+- Apagado automático de seguridad y protección contra calentamiento
+- Función ventilador
+- Ideal para espacios de hasta 90 m³, tensión 230 V~, 50 Hz
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0055ZNKES/?tag=tolees-21)

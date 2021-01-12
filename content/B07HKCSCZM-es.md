@@ -25,10 +25,10 @@ Ahora mismo tienes [GreenSun LED Lighting Cable textil vintage 5m 2 hilos eléct
 
 🔎:
 
+- La herramienta indispensable para la iluminación de bricolaje. Instalación muy práctica y fácil.
+- Número de núcleos: dos núcleos, sección transversal: 0,75 mm², longitud total: 5 metros.
+- Material: tela exterior y cobre interior, alambre de cobre puro de alta calidad, el cable trenzado es muy flexible.
 - Tensión nominal: máximo 250V, temperatura de trabajo: máximo 60 ° C.
 - Amplio uso: Especialmente para colgar lámparas, lámparas colgantes, luces de cristal, lámparas de pie y de mesa, araña vintage.
-- Material: tela exterior y cobre interior, alambre de cobre puro de alta calidad, el cable trenzado es muy flexible.
-- Número de núcleos: dos núcleos, sección transversal: 0,75 mm², longitud total: 5 metros.
-- La herramienta indispensable para la iluminación de bricolaje. Instalación muy práctica y fácil.
 
 [Visítala!!!](https://www.amazon.es/dp/B07HKCSCZM/?tag=tolees-21)

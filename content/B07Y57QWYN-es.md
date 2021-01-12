@@ -25,10 +25,10 @@ Ahora mismo tienes [Kansoom Chubasquero de Mujer  Verde del ejército  L ](https
 
 🔎:
 
-- FUNCIONAL & ELEGANTE: Doble cremallera impermeable para tirar en cualquier dirección, hebilla ajustable para capucha y puños con gancho&lazo.
+- "100% Nylón IMPERMEABLE: Está hecho de tela de nylón resistente al desgaste e impermeable, bastante suave, ligero y de secado rápido."
 - RESPIRABLE: Diseñado con agujeros de aire debajo de la axila, malla en el hombro delantero y la espalda, más respirable y cómodo en días lluviosos.
 - AJUSTABLE: Cordón incorporado para ajustar la tensión de la cintura a tu ajuste personalizado, adecuado para todo tipo de forma del cuerpo.
-- "100% Nylón IMPERMEABLE: Está hecho de tela de nylón resistente al desgaste e impermeable, bastante suave, ligero y de secado rápido."
+- FUNCIONAL & ELEGANTE: Doble cremallera impermeable para tirar en cualquier dirección, hebilla ajustable para capucha y puños con gancho&lazo.
 - ESPACIOSO: Grandes bolsillos impermeables en ambos lados, fácil de poner el teléfono móvil, llaves, billetera y tarjetero, con cremallera y botón para mayor seguridad.
 
 [Visítala!!!](https://www.amazon.es/dp/B07Y57QWYN/?tag=tolees-21)

@@ -25,8 +25,8 @@ Tienes [Vans Old Skool  Zapatillas Unisex Adulto  Negro  Black/White   38.5](htt
 
 🔎:
 
+- Forro textil
 - Suela sintética
 - Parte superior de ante
-- Forro textil
 
 [Comprar!!!](https://www.amazon.es/dp/B000R3WC9W/?tag=tolees-21)

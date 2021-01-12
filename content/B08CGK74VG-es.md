@@ -27,8 +27,8 @@ Tienes [N/ Colecciónde Japonesa Samurai Warrior Figura en Fondo Sunburst Ronin 
 
 - Fabricación de material de tela turca turca 100% poliéster de alta calidad. Sin vinilo, sin PEVA.
 - Gráficos sobresalientes en negrita impresos con la tecnología de impresión digital más avanzada.
-- Fácil de usar, resistente al agua y lavable a máquina. Con colores vivos e imágenes nítidas. No te desvanezcas.
-- Incluye 12 ganchos gratis. No se requiere forro.
 - Designer Works: no se puede encontrar una cortina de baño común en ningún lado. único. real. Divertido
+- Incluye 12 ganchos gratis. No se requiere forro.
+- Fácil de usar, resistente al agua y lavable a máquina. Con colores vivos e imágenes nítidas. No te desvanezcas.
 
 [Comprar!!!](https://www.amazon.es/dp/B08CGK74VG/?tag=tolees-21)
