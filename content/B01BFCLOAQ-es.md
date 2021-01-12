@@ -25,14 +25,14 @@ Está [Reloj para mujer Tommy Hilfiger 1781642  mecanismo de cuarzo  diseño con
 
 ℹ️:
 
-- Forma del producto: redondo
-- Pulsadores decorativos
-- Visualización multiesfera
-- Alternancia de indicadores de la hora tipo bastón y números arábigos en oro rosa y color blanco
-- Cristal mineral duradero contra arañazos
-- Cierre: por presion
-- Caja y correa de acero inoxidable chapado en oro rosa
-- Esfera de oro rosa tipo rayos de sol con zona exterior en blanco y movimiento multifunción
 - Sumergible hasta 3 atmósferas, 30 metros
+- Pulsadores decorativos
+- Cristal mineral duradero contra arañazos
+- Alternancia de indicadores de la hora tipo bastón y números arábigos en oro rosa y color blanco
+- Caja y correa de acero inoxidable chapado en oro rosa
+- Cierre: por presion
+- Esfera de oro rosa tipo rayos de sol con zona exterior en blanco y movimiento multifunción
+- Forma del producto: redondo
+- Visualización multiesfera
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01BFCLOAQ/?tag=tolees-21)

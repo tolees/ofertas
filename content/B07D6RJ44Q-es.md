@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Abalorio de plata de ley 925 con piña am al 52.33 % de rebaja'
-date: 2021-01-10 13:14:13
+date: 2021-01-12 08:18:47
 image: 'https://m.media-amazon.com/images/I/41cYhTF2ZfL._SL200_.jpg'
 comments: true
 category: ofertas

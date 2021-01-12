@@ -25,10 +25,10 @@ Está [Pro Breeze Mini Deshumidificador de Aire Compacto  Silencioso y Portátil
 
 ℹ️:
 
-- PEQUEÑO Y COMPACTO: Ligero, portátil y compacto, capaz de eliminar 250 ml de humedad por día, con una capacidad de hasta 500 ml. Con un peso de 1 kg y un tamaño de 18 x 28 x 16 cm, no tendrá que preocuparse por el espacio y de no poderlo llevarlo de una habitación a un otra.
-- ELIMINA LA HUMEDAD: Perfecto para eliminar el vapor, moho y humedad de su hogar, cocina, baño, dormitorio, caravana, garaje o sótano
 - ULTRASILENCIOSO & EFICIENTE: La Tecnología Termoeléctrica Peltier (sin necesidad de compresor) permite un funcionamiento silencioso y respetuoso con el medio ambiente, haciéndolo ideal para uso en dormitorios y oficinas
 - APAGADO AUTOMÁTICO: Diseñado con una función de apagado automático que se activará cuando el depósito esté lleno y que le permite saber cuándo necesita drenarse. Simplemente vacíe el depósito de agua mediante la salida de drenaje fácil de usar e insértelo de nuevo en el deshumidificador
+- PEQUEÑO Y COMPACTO: Ligero, portátil y compacto, capaz de eliminar 250 ml de humedad por día, con una capacidad de hasta 500 ml. Con un peso de 1 kg y un tamaño de 18 x 28 x 16 cm, no tendrá que preocuparse por el espacio y de no poderlo llevarlo de una habitación a un otra.
+- ELIMINA LA HUMEDAD: Perfecto para eliminar el vapor, moho y humedad de su hogar, cocina, baño, dormitorio, caravana, garaje o sótano
 - ALIVIO PARA LA ALERGIA: Ayuda a mejorar la calidad del aire gracias a la eliminación de las esporas del moho y los ácaros del polvo, que son desencadenantes comunes para las personas alérgicas y con problemas respiratorios
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00R4JI1U6/?tag=tolees-21)
