@@ -25,10 +25,10 @@ Está [Amazfit GTR RELOJ SMARTWATCH 47.2MM ALUMINUM ALLOY](https://www.amazon.es
 
 ℹ️:
 
+- 12 modos de deportes
+- Elegante diseño de cerámica y metal
+- Sumergible a 50 metros
 - Pantalla AMOLED 326 ppi
 - Batería de larga duración
-- Elegante diseño de cerámica y metal
-- 12 modos de deportes
-- Sumergible a 50 metros
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07WFW1YGR/?tag=tolees-21)

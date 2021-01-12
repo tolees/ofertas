@@ -25,9 +25,9 @@ Tienes [Tenda N301 - Router WiFi  300 Mbps  Color Blanco](https://www.amazon.es/
 
 🔎:
 
-- 64/128 bit WEP,WPA-PSK,WPA2-PSK,WPS support
 - VpN PPTP, L2PT
 - WISP , WPS, Band with control, Mac Add . Clone, gestión remota
+- 64/128 bit WEP,WPA-PSK,WPA2-PSK,WPS support
 - AP, WISP, WDS Bridge
 - 1 Puerto Wan
 

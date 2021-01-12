@@ -25,8 +25,8 @@ Tienes [Dewalt DCD791P2-QW DCD791P2-QW-Taladro Atornillador sin escobillas XR 18
 
 🔎:
 
-- DEWALT DCD791P2-QW - Taladro Atornillador sin escobillas XR 18V 13mm 70Nm con 2 baterías Li-Ion 5,0Ah con maletín TSTAK
 - Duraderos y robustos
+- DEWALT DCD791P2-QW - Taladro Atornillador sin escobillas XR 18V 13mm 70Nm con 2 baterías Li-Ion 5,0Ah con maletín TSTAK
 - Diseñados para los profesionales y las altas demandas
 
 [Comprar!!!](https://www.amazon.es/dp/B01BU0GPN4/?tag=tolees-21)

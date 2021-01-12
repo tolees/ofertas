@@ -25,10 +25,10 @@ Ahora mismo tienes [BANDAI- BWFC Dragon Ball Estatua Colosseum Freezer  Multicol
 
 🔎:
 
-- Banpresto world figure colosseum
 - Dragon ball z
-- Caja ilustrada
-- Licencia oficial
+- Banpresto world figure colosseum
 - Figura de coleccionista
+- Licencia oficial
+- Caja ilustrada
 
 [Visítala!!!](https://www.amazon.es/dp/B07KPXRWSL/?tag=tolees-21)

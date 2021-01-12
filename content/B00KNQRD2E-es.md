@@ -25,9 +25,9 @@ Ahora mismo tienes [KabelDirekt 3m Cable Mini TOSLINK a Cable Óptico TOSLINK  D
 
 🔎:
 
-- Total resistencia a interferencias gracias a la fibra óptica
-- Aviso importante: Los cables Mini Toslink no pueden transformar señales digitales en señales analógicas (o viceversa). El conector óptico de 3,5 mm (Mini Toslink) ha sido diseñado para equipos especiales como televisiones y portátiles que dispongan de una entrada Mini Toslink (entrada óptica de 3,5 mm). Smartphones no cuentan con entradas ópticas de 3,5 mm (Mini Toslink)
 - Fibra óptica - completamente inmunes a las interferencias
 - 36 meses de garantía del fabricante
+- Total resistencia a interferencias gracias a la fibra óptica
+- Aviso importante: Los cables Mini Toslink no pueden transformar señales digitales en señales analógicas (o viceversa). El conector óptico de 3,5 mm (Mini Toslink) ha sido diseñado para equipos especiales como televisiones y portátiles que dispongan de una entrada Mini Toslink (entrada óptica de 3,5 mm). Smartphones no cuentan con entradas ópticas de 3,5 mm (Mini Toslink)
 
 [Visítala!!!](https://www.amazon.es/dp/B00KNQRD2E/?tag=tolees-21)

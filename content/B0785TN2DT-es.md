@@ -25,9 +25,9 @@ Ahora mismo tienes [Edge Entertainment- Rail Raiders Infinite  EENDRR01 ](https:
 
 🔎:
 
-- En las botas de uno de seis pistoleros siderales, saltarás de vagón en vagón en busca del preciado botín
+- Producto en castellano
 - En Rail Raiders Infinite, los jugadores asaltan el Expreso Interestelar en una batalla a todo o nada por el mayor alijo de dobledólares nunca visto
 - ¡Asalta trenes, dispara láseres y roba el botín!
-- Producto en castellano
+- En las botas de uno de seis pistoleros siderales, saltarás de vagón en vagón en busca del preciado botín
 
 [Visítala!!!](https://www.amazon.es/dp/B0785TN2DT/?tag=tolees-21)

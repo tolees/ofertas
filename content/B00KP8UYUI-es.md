@@ -25,8 +25,8 @@ En este momento está [XLS Medical - Cápsulas reductoras del apetito. Tratamien
 
 🔎:
 
-- Ayuda a controlar el apetito, las ansias de comer y el hábito de comer de forma compulsiva.
 - Producto sanitario; cumple con la normativa de productos sanitarios; debe utilizarse con una dieta hipocalórica adecuada, actividad física y estilo de vida saludable; Producto sanitario. Cumple con la normativa de productos sanitarios. Debe utilizarse con una dieta hipocalórica adecuada, actividad física y estilo de vida saludable. CPSP19162CAT
+- Ayuda a controlar el apetito, las ansias de comer y el hábito de comer de forma compulsiva.
 - Formulado con una mezcla patentada de fibras dietéticas que pueden hincharse hasta 200 veces su tamaño original, formando un gel espeso e indigerible que produce una agradable sensación de saciedad.
 - El gel se expulsa de forma natural.
 - 60 cápsulas = 10 días de tratamiento

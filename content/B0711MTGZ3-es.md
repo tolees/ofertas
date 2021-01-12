@@ -25,8 +25,8 @@ En este momento está [Midland BT Next Pro Single con altavoces HI FI - Intercom
 
 🔎:
 
-- Alcance de hasta 1.6 km
-- Batería de litio con autonomía de 35 horas de conversación. Tiempo de recarga: 2 horas aprox.﻿ Función VOX (manos libres)
 - Versión Exclusiva, incluye altavoces HIFI SPEAKERS
+- Batería de litio con autonomía de 35 horas de conversación. Tiempo de recarga: 2 horas aprox.﻿ Función VOX (manos libres)
+- Alcance de hasta 1.6 km
 
 [Aquí!!!](https://www.amazon.es/dp/B0711MTGZ3/?tag=tolees-21)
