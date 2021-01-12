@@ -25,10 +25,10 @@ Tienes [Cecotec Centro de Planchado SmoothForce. Potencia 1200 W  Vapor Continuo
 
 🔎:
 
-- PowerSteam: tecnología que genera una óptima y eficaz presión de vapor continuo de 20-25 g/min. Cuenta con dos modos de vapor: gatillo y modo continuo. EasyPosition: la plancha emite vapor continuamente.
-- Power Tecnology: gran potencia de 1200 W para un planchado rápido. Smart AutoOFF: sistema de seguridad que apaga la plancha automáticamente. Autonomía de hasta 19 minutos. Incluye un accesorio 2 en 1 para que puedas usar la plancha sobre prendas gruesas y delicadas.
-- Plancha vertical compacta y potente. Diseñada para prendas delicadas y arrugas difíciles. Gran depósito de 280 ml desmontable. 2Modes Pro: cuenta con dos modos de funcionamiento: normal y eco. EasyUse: tiene un peso de 1 kg que facilita la manejabilidad.
 - Anti-Calc System: sistema de filtrado que evita la acumulaación de la cal. TouchControl: pantalla táctil de tecnología LED para un control fácil e intuitivo desde la que podrás seleccionar el modo normal o eco, apagarla y encenderla.
+- Power Tecnology: gran potencia de 1200 W para un planchado rápido. Smart AutoOFF: sistema de seguridad que apaga la plancha automáticamente. Autonomía de hasta 19 minutos. Incluye un accesorio 2 en 1 para que puedas usar la plancha sobre prendas gruesas y delicadas.
 - Fast Steam: tecnología que reduce al mínimo (35 segundos) el tiempo de calentamiento. Diseño moderno y ligero. Cable multidireccional de 1,90 metros para que puedas planchar cómodamente.
+- Plancha vertical compacta y potente. Diseñada para prendas delicadas y arrugas difíciles. Gran depósito de 280 ml desmontable. 2Modes Pro: cuenta con dos modos de funcionamiento: normal y eco. EasyUse: tiene un peso de 1 kg que facilita la manejabilidad.
+- PowerSteam: tecnología que genera una óptima y eficaz presión de vapor continuo de 20-25 g/min. Cuenta con dos modos de vapor: gatillo y modo continuo. EasyPosition: la plancha emite vapor continuamente.
 
 [Comprar!!!](https://www.amazon.es/dp/B07MQ564SL/?tag=tolees-21)

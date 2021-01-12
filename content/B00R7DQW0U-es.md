@@ -25,7 +25,7 @@ Tienes [Final Fantasy X/X-2: HD Remaster](https://www.amazon.es/dp/B00R7DQW0U/?t
 
 ℹ️:
 
-- Dos juegos de rol clásicos ahora en alta definición – Descubre dos de los títulos más celebrados de esta legendaria serie de juegos de rol, ahora con un aspecto todavía mejor de lo que recordabas
 - Ediciones internacionales de ambos juegos – La versión internacional de Final Fantasy X-2 llega a PS4 y llega cargada de contenidos adicionales que no se incluyeron en la versión original
+- Dos juegos de rol clásicos ahora en alta definición – Descubre dos de los títulos más celebrados de esta legendaria serie de juegos de rol, ahora con un aspecto todavía mejor de lo que recordabas
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00R7DQW0U/?tag=tolees-21)

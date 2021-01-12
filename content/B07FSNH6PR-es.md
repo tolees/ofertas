@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarks Un Adorn Zip  Mocasines para Muje al 81.31 % de descuento'
-date: 2021-01-10 13:13:50
+date: 2021-01-12 13:20:32
 image: 'https://m.media-amazon.com/images/I/31+cXjLEbGL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07FSNH6PR/?tag=tolees-21'
 descuento: '81.31'
-average: '32.120000000000005'
+average: '30.675000000000004'
 ---
 
 Está [Clarks Un Adorn Zip  Mocasines para Mujer  Negro  Black Combi-   35.5 EU](https://www.amazon.es/dp/B07FSNH6PR/?tag=tolees-21) con 81.31 de descuento por 20.56 EUR (original: 110.0 EUR) en el siguiente enlace!

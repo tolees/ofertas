@@ -25,8 +25,8 @@ Tienes [New Balance Gw500v1  Zapatillas de Deporte para Mujer  Gris  Grey/Pink G
 
 ℹ️:
 
-- Material: piel sintética.
 - Diseñador: New Balance
+- Material: piel sintética.
 - Artículo: GW500BR
 - Temporada: Otoño/Invierno
 

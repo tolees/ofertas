@@ -25,8 +25,8 @@ Tienes [ONLY Onlcaviar L/s Pullover Knt Noos  Suéter para Mujer  Negro  Black B
 
 🔎:
 
-- De punto
 - Cárdigan
+- De punto
 - Suéter
 
 [Comprar!!!](https://www.amazon.es/dp/B072PPL9D9/?tag=tolees-21)

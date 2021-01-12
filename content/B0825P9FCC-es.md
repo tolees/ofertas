@@ -25,9 +25,9 @@ Tienes [Geox B TROTTOLA Boy D  Sneaker Bebé-Niños   Navy/Red   20 EU](https://
 
 🔎:
 
-- Cierre: Strap + Elastic Lace
-- Material exterior: Sintético
 - Material de la suela: Caucho
 - Revestimiento: Cuero
+- Cierre: Strap + Elastic Lace
+- Material exterior: Sintético
 
 [Comprar!!!](https://www.amazon.es/dp/B0825P9FCC/?tag=tolees-21)

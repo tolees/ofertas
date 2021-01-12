@@ -25,8 +25,8 @@ En este momento está [NIKE Inter M NK tee TR Ground T-Shirt  Hombre  Black  S](
 
 🔎:
 
-- Short sleeves
 - Durable fabric
 - Excellent fit
+- Short sleeves
 
 [Aquí!!!](https://www.amazon.es/dp/B082R4SW8T/?tag=tolees-21)

@@ -25,10 +25,10 @@ En este momento está [Brother PJ-773 - Impresora térmica portátil A4  8ppm y 
 
 🔎:
 
-- Interfaz USB y WiFi
-- Impresión hoja a hoja, rollo de papel o rollo precortado
 - Tamaño A4
-- Resolución de 300 ppp
+- Impresión hoja a hoja, rollo de papel o rollo precortado
+- Interfaz USB y WiFi
 - Velocidad de impresión de 8 páginas por minuto
+- Resolución de 300 ppp
 
 [Aquí!!!](https://www.amazon.es/dp/B018EMWWVK/?tag=tolees-21)

@@ -25,8 +25,8 @@ Ahora mismo tienes [adidas Adilette Aqua  Slide Sandal Unisex Adulto  Team Royal
 
 🔎:
 
-- Cómodo forro textil
 - Cinturón sintético de una sola pieza, de secado rápido y duradero
 - Plantilla preformada para una comodidad duradera
+- Cómodo forro textil
 
 [Visítala!!!](https://www.amazon.es/dp/B07SGVQCJR/?tag=tolees-21)

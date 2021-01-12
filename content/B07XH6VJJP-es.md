@@ -28,7 +28,7 @@ Está [PUMA Sole Waist Bag Riñonera  Unisex-Adult  Black  OSFA](https://www.ama
 - Abertura del compartimento principal con cremallera
 - Tirador de cremallera con el logotipo de PUMA n.º 1
 - Correa de cincha ajustable en la cintura con la identidad gráfica de PUMA
-- Bolsillo frontal con cremallera
 - Bolsillo interior con cremallera
+- Bolsillo frontal con cremallera
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07XH6VJJP/?tag=tolees-21)

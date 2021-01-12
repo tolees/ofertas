@@ -25,9 +25,9 @@ Tienes [Orbegozo KT 4500 4500-Hervidor de Agua  0 5 l  700 W  0.5 litros  Plást
 
 🔎:
 
+- La marca del producto es Orbegozo
+- Tapa abatible de seguridad
 - 2 tazas incluidas
 - Potencia de 700 W
-- Tapa abatible de seguridad
-- La marca del producto es Orbegozo
 
 [Comprar!!!](https://www.amazon.es/dp/B00N9PWZ4W/?tag=tolees-21)

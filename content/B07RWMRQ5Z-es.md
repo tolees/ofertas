@@ -25,9 +25,9 @@ Tienes [MySwing Columpio niños 11 Individual para jardín](https://www.amazon.e
 
 ℹ️:
 
+- Capacidad para 1 niño de hasta 45kg
 - Máxima seguridad para tus hijos: Certificados: CE, GS, TUV, BSCI, e ISO9000
 - Fácil montaje y limpieza
-- Capacidad para 1 niño de hasta 45kg
 - Estructura en acero zincado con tratamiento anticorrosión
 - Asiento resistente de PVC con tratamiento anti rayos UV
 
