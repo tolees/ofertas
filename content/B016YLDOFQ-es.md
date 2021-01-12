@@ -25,9 +25,9 @@ Está [Sakura SS5303 Manta de Viaje](https://www.amazon.es/dp/B016YLDOFQ/?tag=to
 
 ℹ️:
 
-- Ancho del paquete: 18 cm.
-- Altura del paquete: 31 cm.
 - Longitud del paquete: 13 cm.
+- Ancho del paquete: 18 cm.
 - Forro polar suave y cálido.
+- Altura del paquete: 31 cm.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B016YLDOFQ/?tag=tolees-21)

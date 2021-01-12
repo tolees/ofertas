@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas CORE18 PRE JKT Chaqueta de Deport al 49.46 % de descuento'
-date: 2020-12-28 08:36:06
+date: 2021-01-12 09:35:54
 image: 'https://m.media-amazon.com/images/I/412PQugRxCL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ Está [Adidas CORE18 PRE JKT Chaqueta de Deporte  Hombre  Rojo  Rojo/Blanco   2X
 
 ℹ️:
 
-- Chaqueta y pantalón con bolsillos laterales.
-- Cuello alzado.
 - Cuenta con bolsillos frontales e un cuello alto
+- Chaqueta y pantalón con bolsillos laterales.
 - Puños de canalé.
+- Cuello alzado.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B076HQ1VHB/?tag=tolees-21)

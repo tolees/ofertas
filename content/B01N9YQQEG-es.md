@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Makita Juego de herramientas 227 piezas  al 24.66 % de rebaja'
-date: 2021-01-11 09:04:16
+date: 2021-01-12 09:31:59
 image: 'https://m.media-amazon.com/images/I/51si7fR5LdL._SL200_.jpg'
 comments: true
 category: ofertas

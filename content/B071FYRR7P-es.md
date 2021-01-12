@@ -25,9 +25,9 @@ Ahora mismo tienes [LEXIBOOK Bola Gigante Hinchable  Juego Exterior  soporta has
 
 🔎:
 
+- Una vez inflada y colocada en una zona espaciosa, podrás disfrutar revolviéndote en su interior
 - Soporta un peso máximo de 68kg
 - Una pelota gigante de 1.30m de diámetro que hará las maravillas de todos los miembros de la familia
-- Una vez inflada y colocada en una zona espaciosa, podrás disfrutar revolviéndote en su interior
 - Su estructura altamente resistente y bien protegida te permite jugar con toda seguridad
 
 [Visítala!!!](https://www.amazon.es/dp/B071FYRR7P/?tag=tolees-21)

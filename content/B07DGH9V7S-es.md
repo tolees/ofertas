@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B Vitality 100 Cepillo Eléctrico Re al 30.05 % de descuento'
-date: 2021-01-07 12:08:10
+date: 2021-01-12 09:35:25
 image: 'https://m.media-amazon.com/images/I/41GPWE63lLL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DGH9V7S/?tag=tolees-21'
 descuento: '30.05'
-average: '20.63304347826087'
+average: '20.6584'
 ---
 
 Ahora mismo tienes [Oral-B Vitality 100 Cepillo Eléctrico Recargable Con Tecnología De Braun  1 Mango Blanco  1 Cabezal De Recambio CrossAction](https://www.amazon.es/dp/B07DGH9V7S/?tag=tolees-21) a 20.95 EUR (original: 29.95 EUR) (30.05 %  de descuento) en el siguiente enlace!

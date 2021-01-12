@@ -25,11 +25,11 @@ En este momento está [Bastilipo BBQ-2000P BBQ-2000P-Barbacoa electrica de Exter
 
 🔎:
 
-- Piezas desmontables para una fácil limpieza y bandeja recoge-grasas
 - Soporte inferior para aumentar el area de trabajo
-- Barbacoa eléctrica de exterior de 2000w, con patas y parrilla anti-oxidación
+- Piezas desmontables para una fácil limpieza y bandeja recoge-grasas
 - Barbacoa electrica con una parrilla de 47 x 35cm, barbacoa sin humos compatible con piedra volcánica
-- Patas desmontables para su comodidad
 - 2 alturas regulables para cocinar los alimentos en el punto de deseado
+- Patas desmontables para su comodidad
+- Barbacoa eléctrica de exterior de 2000w, con patas y parrilla anti-oxidación
 
 [Aquí!!!](https://www.amazon.es/dp/B07STX1P3V/?tag=tolees-21)

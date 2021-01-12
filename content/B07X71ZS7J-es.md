@@ -25,8 +25,8 @@ Ahora mismo tienes [Mi Wireless Switch](https://www.amazon.es/dp/B07X71ZS7J/?tag
 
 🔎:
 
+- Activa todos los dispositivos inteligentes con un solo botón sin usar el smartphone
 - Función totalmente personalizable: después de emparejar el concentrador de control, este interruptor de un solo botón controla los dispositivos inteligentes como luces, aire acondicionado, tomas inteligentes y purificadores de aire
 - Listo para usar; no necesita instalación
-- Activa todos los dispositivos inteligentes con un solo botón sin usar el smartphone
 
 [Visítala!!!](https://www.amazon.es/dp/B07X71ZS7J/?tag=tolees-21)

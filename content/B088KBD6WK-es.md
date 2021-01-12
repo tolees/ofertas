@@ -25,8 +25,8 @@ Está [ASICS Gel-Noosa Tri 12  Zapatillas para Correr Hombre  Sunrise Red Black 
 
 ℹ️:
 
-- Zapatillas de running
 - Parte superior de malla transpirable.
+- Zapatillas de running
 - Tecnología Light Ahar Sponge, resistencia a la abrasión para una mayor duración.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B088KBD6WK/?tag=tolees-21)

@@ -25,9 +25,9 @@ Tienes [Oppo A53 – Smartphone de 6.5"  4GB + 64 GB  Neo-Display de 90Hz  Tripl
 
 ℹ️:
 
+- Procesador Qualcomm Snapdragon Octa-core, 64 GB ampliable hasta 256GB.
 - Neo-Display de 90HZ. Pantalla ultrafluida.
 - Batería de alta capacidad de 5000 mAh, combinada con carga rápida de 18W.
-- Procesador Qualcomm Snapdragon Octa-core, 64 GB ampliable hasta 256GB.
 - Triple Cámara, siendo la principal de 13MP, una cámara de profundidad de 2MP, y una lente macro de 2MP. Efecto Bokeh natural. Modo Dazzle Color.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08JQNTD5Z/?tag=tolees-21)
