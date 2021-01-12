@@ -25,10 +25,10 @@ Ahora mismo tienes [Funko Pop! Movies: 007 - LeChiffre from Casino Royale #692 V
 
 🔎:
 
+- Le Chiffre
 - Licencia Oficial
 - Funko POP Vinilo
-- Figura de vinilo
-- Le Chiffre
 - Películas: James Bond
+- Figura de vinilo
 
 [Visítala!!!](https://www.amazon.es/dp/B07HJ88F7J/?tag=tolees-21)

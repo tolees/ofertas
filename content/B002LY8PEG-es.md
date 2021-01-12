@@ -26,7 +26,7 @@ En este momento está [Kinder - Happy Hippo - Barritas de Chocolate - 5 unidades
 🔎:
 
 - Se debe conservar en un lugar fresco y seco
-- Con relleno cremoso de leche y avellanas
 - Una mezcla armoniosa sabores texturas contrastantes
+- Con relleno cremoso de leche y avellanas
 
 [Aquí!!!](https://www.amazon.es/dp/B002LY8PEG/?tag=tolees-21)

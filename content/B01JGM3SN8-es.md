@@ -25,12 +25,12 @@ En este momento está [Rowenta SO9265F0 Mini Excel Eco - Calefactor cerámico de
 
 🔎:
 
-- Diseño elegante con pantalla intuitiva y asa para facilitar el transporte
-- Función Silence: reducción del nivel de ruido (sólo 49 dBA en la posición silenciosa a 1.000 W)
-- Dos posiciones con potencia regulable: 1.000 W en modo Silence o 1.800 W en el modo de potencia máxima
-- Sus medidas son 20.5 x 16 x 30.5 cm
-- Filtro posterior lavable con agua, evita la propagación del polvo
-- Termostato con dispositivo electrónico anti-heladas
 - Con la función Eco Energy podrás ahorrar hasta un 50% de energía manteniendo una temperatura confortable, y con la función silence reducirás el nivel de ruido a sólo 49 dBA
+- Dos posiciones con potencia regulable: 1.000 W en modo Silence o 1.800 W en el modo de potencia máxima
+- Filtro posterior lavable con agua, evita la propagación del polvo
+- Función Silence: reducción del nivel de ruido (sólo 49 dBA en la posición silenciosa a 1.000 W)
+- Sus medidas son 20.5 x 16 x 30.5 cm
+- Termostato con dispositivo electrónico anti-heladas
+- Diseño elegante con pantalla intuitiva y asa para facilitar el transporte
 
 [Aquí!!!](https://www.amazon.es/dp/B01JGM3SN8/?tag=tolees-21)

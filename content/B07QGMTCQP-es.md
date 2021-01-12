@@ -25,10 +25,10 @@ Ahora mismo tienes [Fossil Reloj Analogico para Hombre de Cuarzo con Correa en P
 
 🔎:
 
-- Ancho de la correa: 22mm; Circunferencia de la correa: 200 +/- 5mm
 - Grosor de la caja: 8mm; Tamaño de la caja: 44mm
-- Resistente al agua: 5 ATM
-- Se presenta en lata Fossil ilustrada de coleccionista (varios diseños)
+- Ancho de la correa: 22mm; Circunferencia de la correa: 200 +/- 5mm
 - Material de la correa: Piel
+- Se presenta en lata Fossil ilustrada de coleccionista (varios diseños)
+- Resistente al agua: 5 ATM
 
 [Visítala!!!](https://www.amazon.es/dp/B07QGMTCQP/?tag=tolees-21)

@@ -25,10 +25,10 @@ En este momento está [JAROLIFT Motor tubular electronico - TDEF 30/13  D 60mm /
 
 🔎:
 
-- Motor tubular con protección de sobrecarga por disyuntor térmico
-- De alto rendimiento
 - Apagado y frenado de seguridad con un disco de freno electromagnético
 - Suministro de adaptador y cojinetes estándar a juego
 - Probado en más de 15.000 ciclos de movimiento
+- De alto rendimiento
+- Motor tubular con protección de sobrecarga por disyuntor térmico
 
 [Aquí!!!](https://www.amazon.es/dp/B00BPVY3NS/?tag=tolees-21)
