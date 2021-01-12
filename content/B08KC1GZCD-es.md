@@ -25,9 +25,9 @@ Está [Windows 10 Professional Retail 1PC | Entrega electrónica de software Des
 
 ℹ️:
 
-- Clave de licencia de Windows 10 Pro Retail de 32/64 bits
-- Licencia en Español | Descarga oficial desde https://www.microsoft.com/software-download
 - Reciba su Licencia en : 📥 www.amazon.es/gp/message 📥
+- Licencia en Español | Descarga oficial desde https://www.microsoft.com/software-download
+- Clave de licencia de Windows 10 Pro Retail de 32/64 bits
 - Las licencias se le enviarán por correo electrónico en 1-3 horas.
 - Factura y garantía en España
 

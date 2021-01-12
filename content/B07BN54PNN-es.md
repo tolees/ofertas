@@ -1,37 +1,37 @@
 ---
 layout: post
-title: 'Vans Ward Platform Canvas Zapatillas Muj al 25.89 % de rebaja'
-date: 2021-01-01 19:20:22
+title: 'Vans Ward Platform Canvas Zapatillas Muj al 26.25 % de rebaja'
+date: 2021-01-12 19:16:27
 image: 'https://m.media-amazon.com/images/I/417lQMBt12L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07BN54PNN-es'
-actualPrice: 55.58 EUR
+actualPrice: 55.31 EUR
 currency: EUR
-price: 55.58
+price: 55.31
 comparePrice: 75.0 EUR
 prodname: 'Vans Ward Platform Canvas Zapatillas Mujer  Negro  Canvas  Black/White 187   42 EU  8 UK '
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07BN54PNN/?tag=tolees-21'
-descuento: '25.89'
-average: '56.557500000000005'
+descuento: '26.25'
+average: '56.30800000000001'
 ---
 
-Tienes [Vans Ward Platform Canvas Zapatillas Mujer  Negro  Canvas  Black/White 187   42 EU  8 UK ](https://www.amazon.es/dp/B07BN54PNN/?tag=tolees-21) con precio final de  55.58 EUR (original: 75.0 EUR) (25.89 %  de rebaja) aqui!
+Tienes [Vans Ward Platform Canvas Zapatillas Mujer  Negro  Canvas  Black/White 187   42 EU  8 UK ](https://www.amazon.es/dp/B07BN54PNN/?tag=tolees-21) con precio final de  55.31 EUR (original: 75.0 EUR) (26.25 %  de rebaja) aqui!
 
 [![Vans Ward Platform Canvas Zapatillas Muj](https://m.media-amazon.com/images/I/417lQMBt12L._SL200_.jpg)](https://www.amazon.es/dp/B07BN54PNN/?tag=tolees-21)
 
 🔎:
 
-- Tipo de tacón: Tacón ancho
-- Composición: Textile
-- Anchura del zapato: Normal
-- Cierre: Cordones
-- Revestimiento: Tela
-- Material exterior: Lona
 - Altura del tacón: 3 centímetros
+- Cierre: Cordones
+- Composición: Textile
+- Tipo de tacón: Tacón ancho
+- Material exterior: Lona
 - Material de la suela: Goma
+- Revestimiento: Tela
+- Anchura del zapato: Normal
 
 [Comprar!!!](https://www.amazon.es/dp/B07BN54PNN/?tag=tolees-21)

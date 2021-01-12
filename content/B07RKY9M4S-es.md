@@ -25,8 +25,8 @@ Tienes [Salomon X Reveal GTX  Zapatillas de Senderismo Hombre  Azul  Navy Blazer
 
 🔎:
 
-- Calzado salomon
-- Zapatillas de hiking montañismo, alpinismo y trekking hombre
 - Shoes x reveal gtx (l40969200)
+- Zapatillas de hiking montañismo, alpinismo y trekking hombre
+- Calzado salomon
 
 [Comprar!!!](https://www.amazon.es/dp/B07RKY9M4S/?tag=tolees-21)

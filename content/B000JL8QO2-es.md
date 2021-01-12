@@ -25,10 +25,10 @@ Ahora mismo tienes [Rochas Eau De Rochas Eau de Toilette Vaporizador 100 ml](htt
 
 🔎:
 
-- Contiene 100 ml.
 - De la marca Rochas.
+- Las notas olfativas principales de este producto son fresco naturaleza, cítrico y floral.
+- Contiene 100 ml.
 - El ambalaje puede variar
 - Este producto está indicado para mujeres.
-- Las notas olfativas principales de este producto son fresco naturaleza, cítrico y floral.
 
 [Visítala!!!](https://www.amazon.es/dp/B000JL8QO2/?tag=tolees-21)

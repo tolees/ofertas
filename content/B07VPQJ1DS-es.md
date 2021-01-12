@@ -25,7 +25,7 @@ Está [Only Onlfiona L/s Pullover Knt Noos suéter  Gris  Medium Grey Melange De
 
 ℹ️:
 
-- knit pullover
 - oversize
+- knit pullover
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07VPQJ1DS/?tag=tolees-21)

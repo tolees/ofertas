@@ -26,9 +26,9 @@ Ahora mismo tienes [ARCTIC - 120 mm Ventilador de Caja para CPU](https://www.ama
 🔎:
 
 - El consumo de energía 3 W
-- 120 mm/300-1350 rpm
 - Nivel de ruido: 31. dB(A)
 - DATOS TÉCNICOS: Velocidad del ventilador: 1350 RPM, Flujo de aire: 53 CFM / 90.1 m³ / h (@ 1350 RPM), Nivel de ruido: 0.3 Sone (@ 1350 RPM), Pin: 3 pines
 - Flujo de aire 74 CFM /125.7 m3/h
+- 120 mm/300-1350 rpm
 
 [Visítala!!!](https://www.amazon.es/dp/B002KTVFTE/?tag=tolees-21)

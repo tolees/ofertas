@@ -25,8 +25,8 @@ En este momento está [ONLY Onlcaviar L/s Pullover Knt Noos  Suéter para Mujer 
 
 🔎:
 
-- Cárdigan
 - Suéter.
+- Cárdigan
 - De punto.
 
 [Aquí!!!](https://www.amazon.es/dp/B072FKMQQ3/?tag=tolees-21)
