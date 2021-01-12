@@ -25,10 +25,10 @@ Ahora mismo tienes [TAMPAX Compak Pearl Super  36 tampones](https://www.amazon.e
 
 🔎:
 
-- El tampón tampax con tecnología myfit protection se adapta suavemente a la forma de tu cuerpo
 - Diseño de envoltorio colorido que se abre fácil y silenciosamente
-- Los tampones Tampax te ofrecen hasta 8 horas de protección
-- Aplicador suave con agarre antideslizante y punta redondeada para una fácil inserción del tampón
 - Trenza antifugas para evitar fugas y aportar protección adicional
+- Los tampones Tampax te ofrecen hasta 8 horas de protección
+- El tampón tampax con tecnología myfit protection se adapta suavemente a la forma de tu cuerpo
+- Aplicador suave con agarre antideslizante y punta redondeada para una fácil inserción del tampón
 
 [Visítala!!!](https://www.amazon.es/dp/B00XJSZE7Y/?tag=tolees-21)

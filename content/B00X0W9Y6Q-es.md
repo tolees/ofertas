@@ -27,7 +27,7 @@ Está [Tommy Hilfiger Eton CC Flap and Coin Pocket  Cartera Hombre^Mujer  Black 
 
 - Color: BLACK
 - Estación: Otoño/Invierno
-- Artículo: AM0AM00652 ETON
 - Designer: TOMMY HILFIGER
+- Artículo: AM0AM00652 ETON
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00X0W9Y6Q/?tag=tolees-21)

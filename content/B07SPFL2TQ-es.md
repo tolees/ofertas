@@ -25,9 +25,9 @@ Ahora mismo tienes [Funko- Pop Games: Fortnite-Giddy Up Collectible Figure  Mult
 
 🔎:
 
-- Funko pop is the 2018 toy of the year and peoples choice award winner
-- Figure stands 9cm and comes in a window display box
-- From fortnite, giddy up, as a stylized pop vinyl from funko
 - Check out the other fortnite figures from funko collect them all
+- Figure stands 9cm and comes in a window display box
+- Funko pop is the 2018 toy of the year and peoples choice award winner
+- From fortnite, giddy up, as a stylized pop vinyl from funko
 
 [Visítala!!!](https://www.amazon.es/dp/B07SPFL2TQ/?tag=tolees-21)

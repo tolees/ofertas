@@ -25,10 +25,10 @@ Tienes [SunSun CTM-5000 SuperECO Bomba Agua Estanque Arroyo Pescado Filtro 5000l
 
 ℹ️:
 
-- Conexión de manguera con 25 / 33 / 38mm (~1-1 1/2") diámetros.
-- La altitud máx. de presión son 3,3m, el cable de alimentación tiene 10m.
 - Partículas hasta un máximo de 6mm pasan por la carcasa.
-- Exclusivo de Wiltec con un cable de 10m.
 - El caudal máx. de esta bomba es de 5000 l/h a una potencia absorbida de solo 30W.
+- La altitud máx. de presión son 3,3m, el cable de alimentación tiene 10m.
+- Conexión de manguera con 25 / 33 / 38mm (~1-1 1/2") diámetros.
+- Exclusivo de Wiltec con un cable de 10m.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00KDGDJEU/?tag=tolees-21)

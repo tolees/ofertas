@@ -25,10 +25,10 @@ Ahora mismo tienes [Black+Decker BXSH2002E Calefactor cerámico  2000 W  Plastic
 
 🔎:
 
-- Filtro anti-polvo: incluye un filtro anti-polvo en la parte trasera que evita que accedan al sistema calefactor las motas de polvo de mayor tamaño, evitando olores generados por la combustión del polvo y alargando la vida útil del calefactor
-- 2 posiciones de calefacción y función ventilación: el calefactor cerámico de black + decker incluye 2 posiciones de calefacción, la primera de 1000w y la segunda de 2000w para que puedas seleccionar una u otra según la temperatura de la sala; incluye también función ventilación que generará movimiento de aire sin calentarlo
 - Termostato regulable: gracias al termostato regulable el calefactor cerámico portátil se conectará y se desconectará automáticamente para llegar a la temperatura seleccionada y mantenerla estable mientras esté encendido
-- Oscilante: este calefactor cerámico portátil incluye un sistema de oscilación que reparte el calor por toda la estancia de manera homogénea; calor que llega a todos los rincones
+- Filtro anti-polvo: incluye un filtro anti-polvo en la parte trasera que evita que accedan al sistema calefactor las motas de polvo de mayor tamaño, evitando olores generados por la combustión del polvo y alargando la vida útil del calefactor
 - Sistema de calentamiento ptc y máxima seguridad: calentamiento mucho más rápido y uniforme; sus pequeñas placas cerámicas interiores se calientan muy rápido y mantienen la temperatura estable durante más tiempo; calor rápido, sin esperas; además, podrás usarlo con total seguridad gracias a su sistema de apagado automático en caso de sobrecalentamiento y su interruptor de desconexión automática en caso de caída
+- 2 posiciones de calefacción y función ventilación: el calefactor cerámico de black + decker incluye 2 posiciones de calefacción, la primera de 1000w y la segunda de 2000w para que puedas seleccionar una u otra según la temperatura de la sala; incluye también función ventilación que generará movimiento de aire sin calentarlo
+- Oscilante: este calefactor cerámico portátil incluye un sistema de oscilación que reparte el calor por toda la estancia de manera homogénea; calor que llega a todos los rincones
 
 [Visítala!!!](https://www.amazon.es/dp/B07XC6G27D/?tag=tolees-21)

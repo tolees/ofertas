@@ -25,8 +25,8 @@ Tienes [O NEILL PM Cali Bañador  Hombre  Negro  Black out   L](https://www.amaz
 
 🔎:
 
-- Logo lateral
 - Regular fit
 - Boardshorts Elasticated
+- Logo lateral
 
 [Comprar!!!](https://www.amazon.es/dp/B07Z9PWKGP/?tag=tolees-21)

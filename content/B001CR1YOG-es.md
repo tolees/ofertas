@@ -25,8 +25,8 @@ Está [Reebok F/S Hi  Zapatillas de Deporte Mujer  Negro Black  37 EU](https://w
 
 ℹ️:
 
+- Talla: 37.
 - Marca: Reebok.
 - Referencia: 2240.
-- Talla: 37.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B001CR1YOG/?tag=tolees-21)

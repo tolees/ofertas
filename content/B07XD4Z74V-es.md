@@ -25,9 +25,9 @@ Tienes [Funko - Pop! Deluxe: Star Wars - Darth Vader in Meditation Chamber Figur
 
 🔎:
 
-- La figura mide 15 cm y se envía en una caja ilustrada con ventana
-- De la colección star wars, darth vader in meditation chamber como figura exclusiva de vinilo pop deluxe de funko
-- Descúbre otras figuras de la colección star wars y colecciónalas todas
 - Funko pop. El juguete del año 2018
+- La figura mide 15 cm y se envía en una caja ilustrada con ventana
+- Descúbre otras figuras de la colección star wars y colecciónalas todas
+- De la colección star wars, darth vader in meditation chamber como figura exclusiva de vinilo pop deluxe de funko
 
 [Comprar!!!](https://www.amazon.es/dp/B07XD4Z74V/?tag=tolees-21)

@@ -25,12 +25,12 @@ Ahora mismo tienes [Logitech MX Anywhere 2S Ratón Inalámbrico  Multi-Ordenador
 
 🔎:
 
-- Prueba MX Master 3 para Adecuada Productividad: Desplazamiento de 1.000 líneas en un segundo, perfiles specíficos por aplicación, recargable por USB-C, controles accionados con el pulgar optimizados
-- Seguimiento de Adecuada Precisión Darkfield: El ratón inalámbrico de Logitech MX Anywhere 2S funciona en cualquier superficie
-- Compatibilidad: Compatible con Windows 7, Windows 8, Windows 10 o posteriores, macOS 10.13 o posteriores, iPad OS, Linux
 - Forma Contorneada Compacta: El ratón inalámbrico de Logitech diseñado para adaptarse a la mano
+- Compatibilidad: Compatible con Windows 7, Windows 8, Windows 10 o posteriores, macOS 10.13 o posteriores, iPad OS, Linux
 - Uso Multi-Ordenadores: Logitech Flow de este ratón con Bluetooth hace posible el control de varios dispositivos y copiar-pegar contenido y documentos entre ordenadores
+- Prueba MX Master 3 para Adecuada Productividad: Desplazamiento de 1.000 líneas en un segundo, perfiles specíficos por aplicación, recargable por USB-C, controles accionados con el pulgar optimizados
 - Batería Recargable: Conecta el ratón por Bluetooth al ordenador o portátil mediante el cable de carga micro USB
+- Seguimiento de Adecuada Precisión Darkfield: El ratón inalámbrico de Logitech MX Anywhere 2S funciona en cualquier superficie
 - Desplazamiento rápido: Este ratón inalámbrico tiene Bluetooth y el botón rueda de precisión cambia de desplazamiento clic a clic a rápido
 
 [Visítala!!!](https://www.amazon.es/dp/B072HMJBVM/?tag=tolees-21)

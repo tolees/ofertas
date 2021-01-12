@@ -25,10 +25,10 @@ En este momento está [PrimeMatik - Tejadillo de protección 120x90cm Marquesina
 
 🔎:
 
-- Se fija a la pared mediantes soportes de resistente y duro plástico ABS de color negro (polipropileno). Incluye 2 soportes.
-- Placas de cubierta traslúcidas, fabricadas en resistente y ligero policarbonato. Con protección ultravioleta (UV).
-- Tamaño total (ancho x profundidad x altura): 120 x 90 x 26 cm.
-- Tejado adecuado para instalar en puertas, ventanas, escaparates, y para protección de la lluvia en general.
 - Perfiles de aluminio (frontal y trasero) que confieren mayor resistencia al tejado, así como un acabado óptimo.
+- Placas de cubierta traslúcidas, fabricadas en resistente y ligero policarbonato. Con protección ultravioleta (UV).
+- Tejado adecuado para instalar en puertas, ventanas, escaparates, y para protección de la lluvia en general.
+- Tamaño total (ancho x profundidad x altura): 120 x 90 x 26 cm.
+- Se fija a la pared mediantes soportes de resistente y duro plástico ABS de color negro (polipropileno). Incluye 2 soportes.
 
 [Aquí!!!](https://www.amazon.es/dp/B076RJQ3K3/?tag=tolees-21)

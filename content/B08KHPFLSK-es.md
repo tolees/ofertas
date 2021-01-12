@@ -25,8 +25,8 @@ En este momento está [Pokémon Escudo + Pase de Expansión](https://www.amazon.
 
 🔎:
 
-- Uniforme Eevee
 - 100 PokéBalls
 - Uniforme Pikachu
+- Uniforme Eevee
 
 [Aquí!!!](https://www.amazon.es/dp/B08KHPFLSK/?tag=tolees-21)
