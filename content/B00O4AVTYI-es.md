@@ -25,8 +25,8 @@ Tienes [DIVASA Tabernil Muda Complemento Vitamínico - 20 ml](https://www.amazon
 
 🔎:
 
+- Indicado para cuando se produce la caída de la pluma en épocas de muda fisiológica o por perdida de plumas fuera del periodo de muda debido a mala alimentación enfermedades o parásitos
 - Se administra en el agua (bebedero) en forma de gotas
 - Complemento vitamínico
-- Indicado para cuando se produce la caída de la pluma en épocas de muda fisiológica o por perdida de plumas fuera del periodo de muda debido a mala alimentación enfermedades o parásitos
 
 [Comprar!!!](https://www.amazon.es/dp/B00O4AVTYI/?tag=tolees-21)

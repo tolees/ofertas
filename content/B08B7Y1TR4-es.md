@@ -25,10 +25,10 @@ Tienes [HOMCOM Juego de Barbacoa para Niños Mayores de 3 Años Juguete de Simul
 
 🔎:
 
-- ✅EDUCATIVO: los juguetes de imitación fomentan el desarrollo de las habilidades sociales de los niños, al poder representar distintos roles. También favorece su capacidad creativa, la coordinación mano-ojo y el conteo.
-- ✅SONIDO Y LUCES: para que la experiencia de juego sea más realista, la barbacoa emite sonidos y luz. El sistema funciona con 3 pilas AA que no están incluidas en el paquete.
-- ✅MEDIDAS: 34,5x37x56 cm (LxAnxAl). Para mayores de 3 años.
-- ✅ACCESORIOS: 39 piezas incluidas para que tus hijos se diviertan cocinando y sirviendo sus alimentos de juguete.
 - ✅BARBACOA DE JUGUETE: ideal para que tus hijos pasen ratos muy divertidos con este juguete de imitación, podrán tomar diferentes roles para desarrollar sus habilidades cognitivas y sociales.
+- ✅MEDIDAS: 34,5x37x56 cm (LxAnxAl). Para mayores de 3 años.
+- ✅EDUCATIVO: los juguetes de imitación fomentan el desarrollo de las habilidades sociales de los niños, al poder representar distintos roles. También favorece su capacidad creativa, la coordinación mano-ojo y el conteo.
+- ✅ACCESORIOS: 39 piezas incluidas para que tus hijos se diviertan cocinando y sirviendo sus alimentos de juguete.
+- ✅SONIDO Y LUCES: para que la experiencia de juego sea más realista, la barbacoa emite sonidos y luz. El sistema funciona con 3 pilas AA que no están incluidas en el paquete.
 
 [Comprar!!!](https://www.amazon.es/dp/B08B7Y1TR4/?tag=tolees-21)

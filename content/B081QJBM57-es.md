@@ -26,8 +26,8 @@ Ahora mismo tienes [Charles Wilson Paquete 5 Camisetas Cuello Redondo Lisas  X-S
 🔎:
 
 - Contraste en el Interior del Cuello
-- Camiseta de Cuello Redondo Lisa
 - Cuello Redondo Acanalado
+- Camiseta de Cuello Redondo Lisa
 - Paquete de 5
 
 [Visítala!!!](https://www.amazon.es/dp/B081QJBM57/?tag=tolees-21)

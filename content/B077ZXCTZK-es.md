@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 711 Skinny Jeans Modello Aderente al 36.15 % de descuento'
-date: 2021-01-10 17:35:40
+date: 2021-01-12 05:02:18
 image: 'https://m.media-amazon.com/images/I/31YG6aZnSvL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077ZXCTZK/?tag=tolees-21'
 descuento: '36.15'
-average: '67.15957446808511'
+average: '67.090625'
 ---
 
 Ahora mismo tienes [Levi s 711 Skinny Jeans Modello Aderente a Gamba Stretta  Effetto Modellante e Push Up su Fianchi  Cosce e Glutei  Black Sheep  23W / 28L Donna](https://www.amazon.es/dp/B077ZXCTZK/?tag=tolees-21) a 63.85 EUR (original: 100.0 EUR) (36.15 %  de descuento) en el siguiente enlace!
