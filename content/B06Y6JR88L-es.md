@@ -25,10 +25,10 @@ En este momento está [Einhell 4257890 TC-EN 20 E - Grapadora Electrica Potencia
 
 🔎:
 
+- Regulación electrónica de la potencia de impacto
 - Golpes por minuto: 30
+- Longitud de la grapa 14 mm
 - Anchura de la grapa de 11.4 mm
 - Longitud de grapa de 6 - 14 mm
-- Regulación electrónica de la potencia de impacto
-- Longitud de la grapa 14 mm
 
 [Aquí!!!](https://www.amazon.es/dp/B06Y6JR88L/?tag=tolees-21)

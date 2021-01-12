@@ -25,10 +25,10 @@ Ahora mismo tienes [Corsair Hydro X NVIDIA GeForce RTX  2080](https://www.amazon
 
 🔎:
 
-- Placa trasera de aluminio de longitud completa: cubre completamente el PCB de tu tarjeta gráfica y protege los componentes sensibles
 - Diseño de conversión total premium: enfría no solo la GPU, sino también la memoria de tu tarjeta gráfica y VRM, todo revestido en una carcasa de aluminio limpia y elegante
 - Construcción de cobre niquelado de corte CNC de precisión: más de 50 aletas de refrigeración de alta densidad colocadas sobre la GPU maximizan la transferencia térmica y la superficie para temperaturas más bajas
-- Iluminación RGB integrada: 16 LED RGB integrados directamente en el bloque GPU proporcionan una iluminación RGB vibrante cuando se combina con un nodo de iluminación CORSAIR PRO o Commander Pro
+- Placa trasera de aluminio de longitud completa: cubre completamente el PCB de tu tarjeta gráfica y protege los componentes sensibles
 - Desbloquea el verdadero potencial de tu RTX 2080: desbloquea el verdadero potencial de tu GPU con refrigeración personalizada para tu tarjeta gráfica
+- Iluminación RGB integrada: 16 LED RGB integrados directamente en el bloque GPU proporcionan una iluminación RGB vibrante cuando se combina con un nodo de iluminación CORSAIR PRO o Commander Pro
 
 [Visítala!!!](https://www.amazon.es/dp/B07SCGTMGD/?tag=tolees-21)

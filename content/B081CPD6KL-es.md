@@ -25,8 +25,8 @@ Está [Geographical Norway Parka Hombre Boomerang Ass B 068 rol 7](https://www.a
 
 ℹ️:
 
-- Bolsillos
 - Cierre cremallera parte central
+- Bolsillos
 - Capucha
 
 [Ver la oferta!!](https://www.amazon.es/dp/B081CPD6KL/?tag=tolees-21)

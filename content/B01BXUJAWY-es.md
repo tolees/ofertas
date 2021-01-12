@@ -26,13 +26,13 @@ Está [SIGMA ZA955 - Objetivo SIGMA 150-600mm F5-6.3 Sport +TELE CONVER.TC-1401 
 ℹ️:
 
 - interruptor de enfoque M/A y enfoque automático optimizado
-- estabilizador óptico con sensor de aceleración
+- Teleconvertidor 1,4x para las nuevas líneas de producto
 - Gracias a sus características sin concesiones, este resistente y manejable objetivo de alta gama es el ultra-telezoom definitivo .
+- A prueba de polvo, resistente a salpicaduras
+- Cuando se utiliza con una cámara con F8 autofocus, el objetivo junto con el teleconvertidor TC-1401 SIGMA ofrecen toda la funcionalidad AF. Los disparos pueden estar fuera de foco cuando el contraste del sujeto o de luminancia es baja.
+- minima aberración cromática
+- estabilizador óptico con sensor de aceleración
 - Al acoplar el teleconvertidor entre el teleobjetivo y la cámara, la ampliación ofrecida con el TC-1401 es 1.4 veces la longitud focal.
 - bloqueo de zoom
-- Teleconvertidor 1,4x para las nuevas líneas de producto
-- A prueba de polvo, resistente a salpicaduras
-- minima aberración cromática
-- Cuando se utiliza con una cámara con F8 autofocus, el objetivo junto con el teleconvertidor TC-1401 SIGMA ofrecen toda la funcionalidad AF. Los disparos pueden estar fuera de foco cuando el contraste del sujeto o de luminancia es baja.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01BXUJAWY/?tag=tolees-21)

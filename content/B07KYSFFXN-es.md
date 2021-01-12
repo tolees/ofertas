@@ -27,7 +27,7 @@ Ahora mismo tienes [Zapatillas NIKE  NIKE Star Runner 2 38  Negro  Black/White/B
 
 - Material exterior: sintético
 - Material de la suela: goma
-- Revestimiento: sintético
 - Material de la suela: goma
+- Revestimiento: sintético
 
 [Visítala!!!](https://www.amazon.es/dp/B07KYSFFXN/?tag=tolees-21)

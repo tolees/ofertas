@@ -25,10 +25,10 @@ Tienes [Banpresto My Hero Academia Estatua Grandista Izuku Midoriya  Multicolor 
 
 🔎:
 
-- My hero academia
 - Licencia oficial
-- Estatua de colección
 - Grandista
+- My hero academia
+- Estatua de colección
 - Incluye base
 
 [Comprar!!!](https://www.amazon.es/dp/B07NS1LF69/?tag=tolees-21)
