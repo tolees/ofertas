@@ -25,9 +25,9 @@ Ahora mismo tienes [ORAL B enjuague bucal 3D white lux perfection botella 500 ml
 
 🔎:
 
-- Protección frente a futuras manchas
 - Enjuague bucal sin alcohol para no producir sensación de ardor
-- Sabor menta limpia
 - Dientes más blancos tras 7 días de cepillado, al eliminar las manchas superficiales
+- Sabor menta limpia
+- Protección frente a futuras manchas
 
 [Visítala!!!](https://www.amazon.es/dp/B07HFKDPZW/?tag=tolees-21)

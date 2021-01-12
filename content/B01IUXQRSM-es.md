@@ -26,7 +26,7 @@ Está [Huesitos Origin 6X20g](https://www.amazon.es/dp/B01IUXQRSM/?tag=tolees-21
 ℹ️:
 
 - Contiene leche, frutos secos y glúten
-- País de origen: España
 - Mantener en un lugar fresco y seco a temperatura controlada entre 16ºC y 18ºC
+- País de origen: España
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01IUXQRSM/?tag=tolees-21)

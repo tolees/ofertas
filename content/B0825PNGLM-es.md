@@ -27,7 +27,7 @@ Tienes [Geox B TROTTOLA Boy D  Sneaker   Navy/Red   23 EU](https://www.amazon.es
 
 - Material de la suela: Caucho
 - Cierre: Strap + Elastic Lace
-- Revestimiento: Cuero
 - Material exterior: Sintético
+- Revestimiento: Cuero
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0825PNGLM/?tag=tolees-21)

@@ -25,8 +25,8 @@ En este momento está [Kensington K64684EU - Candado de combinación para portá
 
 🔎:
 
-- Fácil uso
-- Gran calidad
 - Rapida instalación
+- Gran calidad
+- Fácil uso
 
 [Aquí!!!](https://www.amazon.es/dp/B008EQGRV8/?tag=tolees-21)

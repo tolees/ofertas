@@ -26,9 +26,9 @@ En este momento está [Under Armour 1329297-112 Parte Superior del Calentamiento
 🔎:
 
 - Bolsillos laterales con cremallera
-- Tejido antidesgarro ligero, resistente y cómodo
 - Capucha amplia con diseño de 3 paneles y cordón ajustable
 - Materiales y diseño resistentes al viento para ofrecer protección contra los elementos
 - Forro de malla para una transpirabilidad superior
+- Tejido antidesgarro ligero, resistente y cómodo
 
 [Aquí!!!](https://www.amazon.es/dp/B07CZHVMD8/?tag=tolees-21)

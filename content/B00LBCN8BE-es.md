@@ -26,8 +26,8 @@ En este momento está [Hager M144697 - Magnetotermico 1 polo + neutro naranja 16
 🔎:
 
 - Certificados por aenor según la norma une-en 60898-1
+- Tensión de empleo 230 v
 - Mando naranja
 - Poder de corte 6000 a
-- Tensión de empleo 230 v
 
 [Aquí!!!](https://www.amazon.es/dp/B00LBCN8BE/?tag=tolees-21)

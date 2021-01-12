@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oculus Rift S PC-Powered VR Gaming Heads al 22.05 % de descuento'
-date: 2021-01-11 11:37:28
+date: 2021-01-12 12:23:49
 image: 'https://m.media-amazon.com/images/I/31i3tpuXxxL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07PTMKYS7/?tag=tolees-21'
 descuento: '22.05'
-average: '358.99090909090904'
+average: '358.4765714285714'
 ---
 
 Ahora mismo tienes [Oculus Rift S PC-Powered VR Gaming Headset](https://www.amazon.es/dp/B07PTMKYS7/?tag=tolees-21) a 349.99 EUR (original: 449.0 EUR) (22.05 %  de descuento) en el siguiente enlace!

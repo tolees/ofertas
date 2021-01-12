@@ -25,13 +25,13 @@ En este momento está [Panasonic KX-TGE310SPB- Teléfono Fijo Inalámbrico  LCD 
 
 🔎:
 
-- Teléfono Single: para utilizarlo como supletorio de tus otros teléfonos fijos
-- DECT con pantalla: LCD 1.8"
-- Bloqueo de llamadas no deseadas: para dejar de recibir llamadas indeseadas
-- Batería de 10h uso continuo y en espera de 200h
-- Diseño compacto y elegante: el teléfono es compacto como para ajustarse a espacios estrechos; su aspecto elegante queda bien con los interiores
 - Fácil uso: Conéctalo a la corriente y listo
-- Modo ECO con un toque: ahorra de la batería y del consumo de luz
+- Diseño compacto y elegante: el teléfono es compacto como para ajustarse a espacios estrechos; su aspecto elegante queda bien con los interiores
+- Teléfono Single: para utilizarlo como supletorio de tus otros teléfonos fijos
+- Bloqueo de llamadas no deseadas: para dejar de recibir llamadas indeseadas
 - Agenda de 50 nombres y números y rellamada de 10 números de memoria
+- Modo ECO con un toque: ahorra de la batería y del consumo de luz
+- Batería de 10h uso continuo y en espera de 200h
+- DECT con pantalla: LCD 1.8"
 
 [Aquí!!!](https://www.amazon.es/dp/B01MAX41B8/?tag=tolees-21)

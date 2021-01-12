@@ -25,10 +25,10 @@ Tienes [Arcos Universal - Cuchillo de cocinero con alveolos  200 mm  estuche ](h
 
 🔎:
 
-- Hoja: Acero Inoxidable NITRUM
 - Medidas hoja: 150 mm
-- Mango: Polioximetileno (POM)
-- Presentación: Estuche
 - Uso: Cocina
+- Mango: Polioximetileno (POM)
+- Hoja: Acero Inoxidable NITRUM
+- Presentación: Estuche
 
 [Comprar!!!](https://www.amazon.es/dp/B00J64GMWQ/?tag=tolees-21)

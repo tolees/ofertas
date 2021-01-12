@@ -25,9 +25,9 @@ Tienes [Huggies Little Swimmers Pañal Bañador Desechable Talla 3-4  7-15 Kg  -
 
 ℹ️:
 
-- Diseños Disney
-- Cintura elástica ajustable
 - No se hinchan con el agua
+- Cintura elástica ajustable
+- Diseños Disney
 - Fácil apertura y cierre lateral
 - Para el mar o la piscina
 

@@ -26,9 +26,9 @@ En este momento está [ESR Protector de Pantalla TPU Compatible con Samsung S20 
 🔎:
 
 - ★★MATERIAL INNOVADOR LIQUID SKIN: Su material, que es muy resistente， pero al mismo tiempo flexible, hace que los arañazos menores desaparezcan con el tiempo.
-- ★★COMPATIBILIDAD: Diseñado específicamente para el Samsung Galaxy S20 (2020).
-- ★★MÁXIMA COBERTURA: Su TPU flexible se adhiere a los bordes curvos de la pantalla, lo que garantiza una protección hasta las esquinas. NOTA: Este NO es un protector de pantalla de cristal templado.
 - ★★ALTA SENSIBILIDAD TÁCTIL: Tu pantalla seguirá tan suave y sensible como si no llevase protector.
 - ★★PROTECTOR EXTRA DE REGALO: Este pack incluye 1 protector de pantalla adicional para practicar. Antes de la instalación mira el vídeo que hemos preparado y utiliza el protector de práctica.
+- ★★MÁXIMA COBERTURA: Su TPU flexible se adhiere a los bordes curvos de la pantalla, lo que garantiza una protección hasta las esquinas. NOTA: Este NO es un protector de pantalla de cristal templado.
+- ★★COMPATIBILIDAD: Diseñado específicamente para el Samsung Galaxy S20 (2020).
 
 [Aquí!!!](https://www.amazon.es/dp/B083BWVTB8/?tag=tolees-21)

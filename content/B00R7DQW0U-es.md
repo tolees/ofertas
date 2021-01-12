@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.47 % en Final Fantasy X/X-2: HD Remaster'
-date: 2021-01-02 14:45:10
+date: 2021-01-12 12:06:19
 image: 'https://m.media-amazon.com/images/I/51nwO-c5npL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00R7DQW0U/?tag=tolees-21'
 descuento: '35.47'
-average: '14.903448275862068'
+average: '14.774193548387096'
 ---
 
 Tienes [Final Fantasy X/X-2: HD Remaster](https://www.amazon.es/dp/B00R7DQW0U/?tag=tolees-21) con un 35.47 % de descuento con precio de oferta de 12.9 EUR (original: 19.99 EUR) en el siguiente enlace!

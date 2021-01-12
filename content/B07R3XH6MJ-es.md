@@ -25,10 +25,10 @@ Está [Blacksad: Under The Skin - Collector s Edition](https://www.amazon.es/dp/
 
 ℹ️:
 
-- Carátula lenticular
-- Portfolio
-- 4 Postales con ilustraciones de los personajes principales
-- Caja Edición Coleccionista
 - Figura John Blacksad
+- Caja Edición Coleccionista
+- Carátula lenticular
+- 4 Postales con ilustraciones de los personajes principales
+- Portfolio
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07R3XH6MJ/?tag=tolees-21)

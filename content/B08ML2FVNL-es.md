@@ -25,7 +25,7 @@ Ahora mismo tienes [Geographical Norway Parka BOOMERA Mujer Azul Marino Talla S]
 
 🔎:
 
-- Capucha
 - pelo destomtable
+- Capucha
 
 [Visítala!!!](https://www.amazon.es/dp/B08ML2FVNL/?tag=tolees-21)

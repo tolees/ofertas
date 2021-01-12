@@ -25,8 +25,8 @@ Ahora mismo tienes [adidas TABELA 18 JSY T-Shirt  Hombre  White/Power Red  L](ht
 
 🔎:
 
-- Alta comodidad.
 - Gestión efectiva de la humedad.
 - Absoluta libertad de movimiento
+- Alta comodidad.
 
 [Visítala!!!](https://www.amazon.es/dp/B0779DQMC7/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lico Lionel V  Zapatillas de Deporte Uni al 24.37 % de descuento'
-date: 2021-01-05 20:07:46
+date: 2021-01-12 12:14:27
 image: 'https://m.media-amazon.com/images/I/41V0cfRFmyL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,7 +26,7 @@ Está [Lico Lionel V  Zapatillas de Deporte Unisex Adulto  Azul  Marine/Gr Marin
 ℹ️:
 
 - Suela flexible
-- Suela ligera
 - Cierre de velcro
+- Suela ligera
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07DK1BGRZ/?tag=tolees-21)
