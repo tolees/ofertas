@@ -26,7 +26,7 @@ Tienes [Casio Reloj Analogico para Hombre de Cuarzo con Correa en Acero Inoxidab
 🔎:
 
 - Indicador de fecha
-- Cristal de zafiro
 - Pantalla de neón
+- Cristal de zafiro
 
 [Comprar!!!](https://www.amazon.es/dp/B0788MHG4C/?tag=tolees-21)

@@ -26,9 +26,9 @@ En este momento está [Maybelline New York - Eyeliner Curvitude Liner  Tono 01 N
 🔎:
 
 - Crearás una mirada súper definida, más grande y atractiva, con un tono ultraintenso y preciso que abraza tus pestañas y rellena todos los huecos
-- Delínea a ras toda la línea de la pestaña creando una línea fina que agrandará excepcionalmente tu mirada y traza un rabillo para levantar la mirada
 - Aumenta paulatinamente el grosor del trazo si quieres conseguir un resultado más intenso, efecto "cat-eye"
-- Diseñado para conseguir unos mejores resultados, su aplicador curvo es tan preciso que consigue pegarse a la línea de la pestañas para agrandar tu mirada
+- Delínea a ras toda la línea de la pestaña creando una línea fina que agrandará excepcionalmente tu mirada y traza un rabillo para levantar la mirada
 - El primer eyeliner curvo de tono negro intenso, de punta súper precisa y fácil de aplicar para una mirada más definida e intensa en pocos minutos
+- Diseñado para conseguir unos mejores resultados, su aplicador curvo es tan preciso que consigue pegarse a la línea de la pestañas para agrandar tu mirada
 
 [Aquí!!!](https://www.amazon.es/dp/B0743T3WGJ/?tag=tolees-21)

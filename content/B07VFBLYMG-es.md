@@ -25,10 +25,10 @@ Ahora mismo tienes [Rimmel Lasting Matte Concealer  Corrector  Tono 25  21.5 g](
 
 🔎:
 
-- Corrector matificante ideal que complementa la base de maquillaje
+- Fórmula confortable
 - Alta cobertura
 - Acabado suave
+- Corrector matificante ideal que complementa la base de maquillaje
 - Fórmula ligera con alta cobertura que elimina las ojeras y rojeces al instante
-- Fórmula confortable
 
 [Visítala!!!](https://www.amazon.es/dp/B07VFBLYMG/?tag=tolees-21)

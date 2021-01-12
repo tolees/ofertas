@@ -26,9 +26,9 @@ Ahora mismo tienes [Rimmel Lasting Matte Primer  Tono 01  30 ml](https://www.ama
 🔎:
 
 - Reduce el exceso de grasa
-- Ayuda a minimizar la apariencia de los poros
 - Primer Pre base de maquillaje ligera que ayuda preparar la piel, difuminar los poros y aportar durabilidad al maquillaje
-- Controla el brillo
 - Extiende el uso del maquillaje 9 horas
+- Ayuda a minimizar la apariencia de los poros
+- Controla el brillo
 
 [Visítala!!!](https://www.amazon.es/dp/B07VFBLHPG/?tag=tolees-21)

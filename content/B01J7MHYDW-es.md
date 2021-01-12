@@ -26,7 +26,7 @@ Ahora mismo tienes [SD toys Stark Game of Thrones Molde Horno  Silicona  Gris  2
 🔎:
 
 - Molde horno silicona
-- Stark juego de tronos
 - molde para pasteles
+- Stark juego de tronos
 
 [Visítala!!!](https://www.amazon.es/dp/B01J7MHYDW/?tag=tolees-21)

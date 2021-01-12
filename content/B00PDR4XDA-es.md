@@ -25,9 +25,9 @@ Tienes [Liderpapel Atril Metálico Rojo](https://www.amazon.es/dp/B00PDR4XDA/?ta
 
 🔎:
 
-- Atril metálico
 - Medidas: 175 x 100 x 235 mm
-- Color Rojo
 - Con 3 posiciones
+- Atril metálico
+- Color Rojo
 
 [Comprar!!!](https://www.amazon.es/dp/B00PDR4XDA/?tag=tolees-21)

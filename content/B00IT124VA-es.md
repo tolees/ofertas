@@ -25,10 +25,10 @@ Tienes [Clarins Multi-Intensive Crema Haute Exigence Jour Ps 50 ml](https://www.
 
 🔎:
 
-- Nourishes and moisturises
 - Lifts and combats slackening
+- Replenishes the skin at all levels
 - Reduces the appearance of deep wrinkles
 - Instantly brightens and smoothes
-- Replenishes the skin at all levels
+- Nourishes and moisturises
 
 [Comprar!!!](https://www.amazon.es/dp/B00IT124VA/?tag=tolees-21)

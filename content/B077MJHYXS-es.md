@@ -25,11 +25,11 @@ Ahora mismo tienes [PUMA Smash V2 L  Zapatillas Unisex Adulto  Negro Black Black
 
 🔎:
 
-- Material de la suela: Goma
-- Material exterior: Cuero
-- Altura del tacón: 3 centímetros
 - Tipo de tacón: Plano
+- Altura del tacón: 3 centímetros
 - Cierre: Cordones
 - Revestimiento: Malla
+- Material exterior: Cuero
+- Material de la suela: Goma
 
 [Visítala!!!](https://www.amazon.es/dp/B077MJHYXS/?tag=tolees-21)

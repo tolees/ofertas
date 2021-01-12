@@ -25,10 +25,10 @@ En este momento está [Tumi Alpha Monedero  10 cm  Negro  Black Ballistic ](http
 
 🔎:
 
-- 6 compartimentos para tarjetas
-- monedero
-- Compartimento doble para billetes
-- 1 bolsillo de red
 - 2 bolsillos para recibos
+- 1 bolsillo de red
+- monedero
+- 6 compartimentos para tarjetas
+- Compartimento doble para billetes
 
 [Aquí!!!](https://www.amazon.es/dp/B0756X8FWQ/?tag=tolees-21)

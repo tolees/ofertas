@@ -25,8 +25,8 @@ Ahora mismo tienes [Kokido K236CBX - Kit Aqua Fitness](https://www.amazon.es/dp/
 
 🔎:
 
-- Dos pesas de foam
 - Un cinturón de foam
+- Dos pesas de foam
 - Dos guantes
 
 [Visítala!!!](https://www.amazon.es/dp/B00IT7LCYE/?tag=tolees-21)
