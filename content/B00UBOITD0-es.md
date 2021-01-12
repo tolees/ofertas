@@ -25,8 +25,8 @@ Tienes [Tommy Hilfiger 3p Trunk Bóxer  Negro  Black/Grey Heather/White 004   Sm
 
 ℹ️:
 
-- Mezcla de algodón elástico
 - Cinta distintiva en la cintura
+- Mezcla de algodón elástico
 - Pack de tres
 - Cintura con la inscripción de Tommy Hilfiger
 
