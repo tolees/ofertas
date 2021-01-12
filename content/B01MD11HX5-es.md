@@ -25,10 +25,10 @@ Tienes [G-STAR RAW Duko Belt Cinturón  Marrón  Dk Brown/Black Metal 8127   75 
 
 ℹ️:
 
-- Hebilla con el grabado de G-Star RAW
-- Hebilla cuadrada
 - Correa de piel pesada de 3,5 cm
+- Hebilla con el grabado de G-Star RAW
 - Trabilla doble
+- Hebilla cuadrada
 - Logotipo en bajorrelieve (estampado)
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01MD11HX5/?tag=tolees-21)

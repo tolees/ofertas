@@ -25,10 +25,10 @@ Tienes [YOSICIL Vestido Elsa con Capa Disfraz de Princesa de Invierno Niñas Man
 
 ℹ️:
 
+- ❄NOTA:Por favor verifique cuidadosamente la TABLA DE TAMAÑOS antes de comprar.Si la talla no le queda bien, infórmenos en el primer momento por favor.(Lavado a mano)
 - ❄Caracteristicas:Acabado suave con detalles de perlas rojas en el cuello,Pretina elástica para mayor comodidad.
 - ❄Lo que incluye: Vestido Frozen con Capas eatamado Lentejuelas.infantil 3-10 años
-- ❄NOTA:Por favor verifique cuidadosamente la TABLA DE TAMAÑOS antes de comprar.Si la talla no le queda bien, infórmenos en el primer momento por favor.(Lavado a mano)
-- ❄SERVICIO POSTVENTA:Si hay alguna insatisfacción, envíenos un correo electrónico antes de dejar cualquier calificación negativa，podemos darte una solucion satisfactoria.
 - ❄Ocasión: Regalo de cumpleaños fiesta, graduación, jardín, ceremonia,bautizo,ocasiones especiales,presentación teatral,isfraces para Halloween,Boda,Partido,graduación
+- ❄SERVICIO POSTVENTA:Si hay alguna insatisfacción, envíenos un correo electrónico antes de dejar cualquier calificación negativa，podemos darte una solucion satisfactoria.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07WW5QFBL/?tag=tolees-21)

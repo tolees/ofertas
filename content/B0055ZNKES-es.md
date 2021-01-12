@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 19.67 % en Orbegozo FH 5031 - Calefactor  termostat'
-date: 2021-01-11 20:50:18
+date: 2021-01-12 20:58:21
 image: 'https://m.media-amazon.com/images/I/416bTuTiY9L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0055ZNKES/?tag=tolees-21'
 descuento: '19.67'
-average: '26.33'
+average: '26.398'
 ---
 
 Tienes [Orbegozo FH 5031 - Calefactor  termostato regulable  2 niveles de potencia  función ventilador aire frío  calor instantáneo  indicador luminoso  asa de transporte  2500 W  gris](https://www.amazon.es/dp/B0055ZNKES/?tag=tolees-21) con un 19.67 % de descuento con precio de oferta de 26.5 EUR (original: 32.99 EUR) en el siguiente enlace!
@@ -26,9 +26,9 @@ Tienes [Orbegozo FH 5031 - Calefactor  termostato regulable  2 niveles de potenc
 ℹ️:
 
 - Ideal para espacios de hasta 90 m³, tensión 230 V~, 50 Hz
-- Función ventilador
-- Dos posiciones de calor, 1250 W y alta potencia de 2500 W, con temperatura ajustable mediante termostato
 - Luz indicadora de encendido y agarradera posterior para fácil transporte
+- Función ventilador
 - Apagado automático de seguridad y protección contra calentamiento
+- Dos posiciones de calor, 1250 W y alta potencia de 2500 W, con temperatura ajustable mediante termostato
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0055ZNKES/?tag=tolees-21)

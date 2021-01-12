@@ -25,9 +25,9 @@ En este momento está [Brother MFC L 8900 CDW - Impresora Multifunción Color](h
 
 🔎:
 
-- Resolución máxima: 2400 x 600 DPI
 - Tecnología de impresión: laser
-- Tamaño máximo de papel ISO A-series: A4
 - Cantidad de puertos USB 2.0: 1
+- Tamaño máximo de papel ISO A-series: A4
+- Resolución máxima: 2400 x 600 DPI
 
 [Aquí!!!](https://www.amazon.es/dp/B071VMNYP8/?tag=tolees-21)

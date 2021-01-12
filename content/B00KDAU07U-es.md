@@ -25,12 +25,12 @@ Ahora mismo tienes [Orbegozo HBF 95 Estufa de Butano Catalítica  Triple Sistema
 
 🔎:
 
-- Triple sistema de seguridad
 - Tecnologia "Llama Azul", con cerámico imitación leña, efecto fuego real
-- Potencia: 3500 W
-- Asas para tranporte y ruedas pivotantes
 - Dimensiones: ancho: 400 mm, alto: 700 mm, fondo, 290 mm
+- Asas para tranporte y ruedas pivotantes
 - Estufa gas butano
+- Triple sistema de seguridad
+- Potencia: 3500 W
 - Encendido mediante pulsador
 
 [Visítala!!!](https://www.amazon.es/dp/B00KDAU07U/?tag=tolees-21)

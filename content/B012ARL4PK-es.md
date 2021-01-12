@@ -25,10 +25,10 @@ Tienes [Blaupunkt Security IPC-S1 - Cámara IP compatible con los sistemas de al
 
 🔎:
 
-- Compresión de vídeo H.264 y MJPEG con una velocidad de cuadro de hasta 30 f/s
-- Grabación automática cuando salta la alarma con almacenamiento posible en la nube
-- Lente de enfoque: foco fijo de 4.2 mm F1.6
 - Sensor CMOS de 1.3 Mp, grabación a 1280 x 720 pixeles
+- Grabación automática cuando salta la alarma con almacenamiento posible en la nube
+- Compresión de vídeo H.264 y MJPEG con una velocidad de cuadro de hasta 30 f/s
 - Permite a los usuarios ver imágenes y vídeos en tiempo real de forma remota desde móviles
+- Lente de enfoque: foco fijo de 4.2 mm F1.6
 
 [Comprar!!!](https://www.amazon.es/dp/B012ARL4PK/?tag=tolees-21)

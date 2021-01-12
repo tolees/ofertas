@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 31.70 % en Eastpak The One Bolso Bandolera  21 Cm  '
-date: 2021-01-11 20:33:39
+date: 2021-01-12 20:57:11
 image: 'https://m.media-amazon.com/images/I/41BiWgbb6ZL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000KKLXDS/?tag=tolees-21'
 descuento: '31.70'
-average: '19.25021276595745'
+average: '19.30081632653061'
 ---
 
 Tienes [Eastpak The One Bolso Bandolera  21 Cm  2.5 L  Negro  Black ](https://www.amazon.es/dp/B000KKLXDS/?tag=tolees-21) con un 31.70 % de descuento con precio de oferta de 20.49 EUR (original: 30.0 EUR) en el siguiente enlace!

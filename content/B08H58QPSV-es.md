@@ -25,10 +25,10 @@ En este momento está [Naroote 【𝐇𝐚𝐩𝐩𝒚 𝐍𝐞𝒘 𝐘𝐞𝐚
 
 🔎:
 
-- Material ABS, ligero y práctico, fácil de transportar.
-- Cuerpo pequeño y función grande, puede transferir fácilmente la interfaz del teléfono móvil tipo C para usar equipos de audio de 3,5 mm.
-- Cable adaptador de audio de tipo C a 3,5 mm.
-- Modelos aplicables: Para Xiaomi 6/Xiaomi note 3/Xiaomi MIX 2/Xiaomi MIX 2S/Mate10Pro/P20/P20PRO/Nut PRO/Nut Pro2/Nubian Z17 teléfono móvil.
 - Mini adaptador de auricular portátil, sin necesidad de configurarlo, enchufarlo y usarlo.
+- Material ABS, ligero y práctico, fácil de transportar.
+- Modelos aplicables: Para Xiaomi 6/Xiaomi note 3/Xiaomi MIX 2/Xiaomi MIX 2S/Mate10Pro/P20/P20PRO/Nut PRO/Nut Pro2/Nubian Z17 teléfono móvil.
+- Cable adaptador de audio de tipo C a 3,5 mm.
+- Cuerpo pequeño y función grande, puede transferir fácilmente la interfaz del teléfono móvil tipo C para usar equipos de audio de 3,5 mm.
 
 [Aquí!!!](https://www.amazon.es/dp/B08H58QPSV/?tag=tolees-21)

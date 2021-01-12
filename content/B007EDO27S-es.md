@@ -25,10 +25,10 @@ Ahora mismo tienes [Levi s Otis Beanie  Gorro de punto Unisex adulto  Gris  Dark
 
 🔎:
 
+- Información sobre las tallas y medidas del gorro: S/M se ajusta de los 55 cm a los 58 cm. L/XL se ajusta de los 59 cm a los 62 cm.
+- Etiqueta de Levis cosida en la parte inferior
+- Doble capa
 - Hecho en Italia
 - Mide aproximadamente 21 cm
-- Doble capa
-- Etiqueta de Levis cosida en la parte inferior
-- Información sobre las tallas y medidas del gorro: S/M se ajusta de los 55 cm a los 58 cm. L/XL se ajusta de los 59 cm a los 62 cm.
 
 [Visítala!!!](https://www.amazon.es/dp/B007EDO27S/?tag=tolees-21)

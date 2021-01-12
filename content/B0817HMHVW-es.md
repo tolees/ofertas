@@ -25,10 +25,10 @@ Ahora mismo tienes [Columbia Silver Ridge II Short Cargo  Hombre  Gris  City Gre
 
 🔎:
 
-- 1x Columbia Silver Ridge II, Pantalones cortos cargo para hombre, Fibra sintética, Gris (City Grey), W40/L10, Art. 1794921
-- Bolsillos cargo, Bolsillo de seguridad con cierre de cremallera y bolsillos detrás, Buen diseño para llevar objetos esenciales y de valor
-- Durabilidad y confort gracias al material de nylon Ripstop transpirable y al tejido elástico, Capacidad de secado rápido gracias a la tecnología Omni-Wick
 - Construcción parcialmente elástica en la cintura para una gran movilidad, Tecnología Omni-Shade con protección solar UPF 50
+- Durabilidad y confort gracias al material de nylon Ripstop transpirable y al tejido elástico, Capacidad de secado rápido gracias a la tecnología Omni-Wick
+- 1x Columbia Silver Ridge II, Pantalones cortos cargo para hombre, Fibra sintética, Gris (City Grey), W40/L10, Art. 1794921
 - Pantalones cortos para hombres con óptima transpiración, elasticidad y espacio de almacenamiento
+- Bolsillos cargo, Bolsillo de seguridad con cierre de cremallera y bolsillos detrás, Buen diseño para llevar objetos esenciales y de valor
 
 [Visítala!!!](https://www.amazon.es/dp/B0817HMHVW/?tag=tolees-21)
