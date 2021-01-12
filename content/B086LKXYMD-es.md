@@ -25,10 +25,10 @@ Está [Sony WFXB700B True Wireless - Auriculares  Totalmente inalámbrico  Bluet
 
 ℹ️:
 
-- Totalmente inalámbrico
-- Llamadas manos libres
 - Resistencia IPX4
+- Llamadas manos libres
 - Hasta 18h de batería con caja (9 h de uso sin caja)
 - Conexión Bluetooth simultánea en ambos auriculares
+- Totalmente inalámbrico
 
 [Ver la oferta!!](https://www.amazon.es/dp/B086LKXYMD/?tag=tolees-21)
