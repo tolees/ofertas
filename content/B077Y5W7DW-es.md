@@ -25,10 +25,10 @@ Ahora mismo tienes [Nest Learning - Termostato Inteligente de 3 A Generación  N
 
 🔎:
 
-- Programación inteligente para ayudarle a ahorrar energía
+- Pantalla en color de alta resolución
 - Posibilidad de cambiar la temperatura mediante un smartphone (iOS y Android)
 - Compatibilidad con la mayoría de los sistemas de calefacción
-- Pantalla en color de alta resolución
 - Acabado metálico pulido
+- Programación inteligente para ayudarle a ahorrar energía
 
 [Visítala!!!](https://www.amazon.es/dp/B077Y5W7DW/?tag=tolees-21)

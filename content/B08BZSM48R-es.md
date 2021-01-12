@@ -25,9 +25,9 @@ En este momento está [NASA Galaxy-Riñonera TPU](https://www.amazon.es/dp/B08BZ
 
 🔎:
 
-- Correa ajustable a la cintura de 120 cm
-- Dimensiones: 20,5 x 36 x 7,5 cm
 - Bolsa riñonera con cierre de cremallera
+- Correa ajustable a la cintura de 120 cm
 - Forro interior
+- Dimensiones: 20,5 x 36 x 7,5 cm
 
 [Aquí!!!](https://www.amazon.es/dp/B08BZSM48R/?tag=tolees-21)

@@ -26,7 +26,7 @@ Ahora mismo tienes [Joma Pantalon Largo Deportivo  Hombre  Elba Melange  L](http
 🔎:
 
 - Pantalon largo deportivo
-- Training
 - Elba Melange
+- Training
 
 [Visítala!!!](https://www.amazon.es/dp/B07P9V7BZQ/?tag=tolees-21)

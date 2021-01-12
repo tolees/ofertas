@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PANDORA Damen-Joyero Blanco - P4026-P402 con un 30.04 % de descuento'
-date: 2021-01-11 10:53:43
+date: 2021-01-12 10:56:26
 image: 'https://m.media-amazon.com/images/I/31zaqTYyDZL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00TQRD3IY/?tag=tolees-21'
 descuento: '30.04'
-average: '7.837464788732393'
+average: '7.836438356164382'
 ---
 
 En este momento está [PANDORA Damen-Joyero Blanco - P4026-P4027](https://www.amazon.es/dp/B00TQRD3IY/?tag=tolees-21) a 7.8 EUR (original: 11.15 EUR) (30.04 %  de descuento) en el siguiente enlace!
