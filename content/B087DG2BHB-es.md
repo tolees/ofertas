@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Samsung - Unidad de Almacenamiento portá al 17.99 % de descuento'
-date: 2021-01-11 06:00:16
+title: 'Samsung Disco Duro Externo PSSD T7 500GB al 17.99 % de descuento'
+date: 2021-01-12 17:22:14
 image: 'https://m.media-amazon.com/images/I/31ht1eviRrL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -11,24 +11,24 @@ actualPrice: 113.98 EUR
 currency: EUR
 price: 113.98
 comparePrice: 138.99 EUR
-prodname: 'Samsung - Unidad de Almacenamiento portátil Portable SSD Azul índigo 500 GB'
+prodname: 'Samsung Disco Duro Externo PSSD T7 500GB'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B087DG2BHB/?tag=tolees-21'
 descuento: '17.99'
-average: '112.50999999999999'
+average: '112.69375'
 ---
 
-Ahora mismo tienes [Samsung - Unidad de Almacenamiento portátil Portable SSD Azul índigo 500 GB](https://www.amazon.es/dp/B087DG2BHB/?tag=tolees-21) a 113.98 EUR (original: 138.99 EUR) (17.99 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Samsung Disco Duro Externo PSSD T7 500GB](https://www.amazon.es/dp/B087DG2BHB/?tag=tolees-21) a 113.98 EUR (original: 138.99 EUR) (17.99 %  de descuento) en el siguiente enlace!
 
-[![Samsung - Unidad de Almacenamiento portá](https://m.media-amazon.com/images/I/31ht1eviRrL._SL200_.jpg)](https://www.amazon.es/dp/B087DG2BHB/?tag=tolees-21)
+[![Samsung Disco Duro Externo PSSD T7 500GB](https://m.media-amazon.com/images/I/31ht1eviRrL._SL200_.jpg)](https://www.amazon.es/dp/B087DG2BHB/?tag=tolees-21)
 
 🔎:
 
-- Con USB 3.2 Gen.2 hasta 9,5 veces más rápido que los discos duros externos con velocidades de lectura/escritura de hasta 1050 MB/s y 1000 MB/s
-- Delgado y elegante: carcasa de aluminio compacta y de alta calidad, disponible en los colores rojo metálico, azul índigo o gris titanio
-- Memoria externa de alta velocidad en formato compacto de bolsillo y capacidad de hasta 2 TB
-- Seguridad para sus datos: resiste caídas de hasta dos metros de altura y se puede cifrar mediante contraseña
-- Los dos cables USB tipo C a C y tipo C a A incluidos permiten la conexión a PC, Mac, dispositivos Android, Smart TV y consolas de juegos
+- Velocidad secuencial de escritura: 1,000MB/s
+- El nuevo PSSD T7 te brinda velocidad y seguridad en un dispositivo del tamaño de la palma de tu mano. Experimenta el siguiente nivel de almacenamiento externo.
+- Estilo elegante y compacto
+- Thermal Management Technology, encriptación AES 256-bit
+- Velocidad secuencial de lectura: 1,050MB/s
 
 [Visítala!!!](https://www.amazon.es/dp/B087DG2BHB/?tag=tolees-21)

@@ -25,10 +25,10 @@ Ahora mismo tienes [Ninja Air Fryer  Freidora sin Aceite [AF100EU] 4 funciones d
 
 🔎:
 
-- Incluye una cesta antiadherente de 3.8 l con rejilla para hornear
 - Comida frita sin remordimientos usando poco o nada de aceite
-- Alternativa baja en grasa a métodos de fritura tradicionales
 - 4 funciones de cocción: freír con aire, asar, recalentar y deshidratar
 - Piezas aptas para el lavavajillas
+- Incluye una cesta antiadherente de 3.8 l con rejilla para hornear
+- Alternativa baja en grasa a métodos de fritura tradicionales
 
 [Visítala!!!](https://www.amazon.es/dp/B07VWRDQKD/?tag=tolees-21)

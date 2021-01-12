@@ -25,10 +25,10 @@ En este momento está [Detox Adelganzante - Detox Aloe Vera | Regulix Aloe -Aqui
 
 🔎:
 
-- REGULA NUESTRO SISTEMA DIGESTIVO– Las capsulas de Aloe Vera Detox ayudan a mantener un sistema digestivo saludable, ya que dispone de unos excelentes aminoácidos curativos que regula funciones del de nuestro estomágo e intestino. Ayuda a evitar problemas digestivos derivados del estreñimiento.
 - DETOX – Las cápsulas de Detox de Aquisana contienen Aloe Vera que ayuda en la pérdida de peso y aligera la carga tóxica en nuestro cuerpo dándonos más energía .
-- GARANTIA DE SATISFACCIÓN – Los productos Aquisana son de fabricación en España con estricto control de calidad y todos los permisos sanitarios de Ley. Garantía y máxima calidad para nuestros clientes
 - EFECTO LIMPIEZA Y DESINTOXICACIÓN DEL CUERPO – Desintoxicar el cuerpo es fácil con el aloe vera de Aquisana. Gracias a este compuesto podrás mantener un correcto equilibrio del cuerpo y de nuestro tránsito intestinal, eliminando las toxinas acumuladas en el sistema. Este détox calma, limpia y lubrica el intestino.
+- REGULA NUESTRO SISTEMA DIGESTIVO– Las capsulas de Aloe Vera Detox ayudan a mantener un sistema digestivo saludable, ya que dispone de unos excelentes aminoácidos curativos que regula funciones del de nuestro estomágo e intestino. Ayuda a evitar problemas digestivos derivados del estreñimiento.
 - DEPURATIVO: El aloe vera es ideal para eliminar la acumulación fecal acumulada en el colon durante mucho tiempo. Ayuda a reconstruir las células en el colon a la vez que limpia el intestino y facilita absorber mejor los nutrientes de los alimentos.
+- GARANTIA DE SATISFACCIÓN – Los productos Aquisana son de fabricación en España con estricto control de calidad y todos los permisos sanitarios de Ley. Garantía y máxima calidad para nuestros clientes
 
 [Aquí!!!](https://www.amazon.es/dp/B01H73Q8FI/?tag=tolees-21)

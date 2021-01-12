@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.65 % en Dorbz - Daredevil: Wilson Fisk'
-date: 2021-01-10 09:54:50
+date: 2021-01-12 17:32:39
 image: 'https://m.media-amazon.com/images/I/41kSF6BaEVL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01B5TU5PY/?tag=tolees-21'
 descuento: '28.65'
-average: '14.616190476190473'
+average: '14.709565217391301'
 ---
 
 Tienes [Dorbz - Daredevil: Wilson Fisk](https://www.amazon.es/dp/B01B5TU5PY/?tag=tolees-21) con un 28.65 % de descuento con precio de oferta de 15.69 EUR (original: 21.99 EUR) en el siguiente enlace!

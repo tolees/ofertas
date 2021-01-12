@@ -26,10 +26,10 @@ En este momento está [Nicky - Ultrasoft Extra Suave - Papel higiénico - 12 rol
 🔎:
 
 - Extrasuave
-- 2 capas
 - 12 rollos
-- 140 servicios
-- Perfumado
+- 2 capas
 - Decorado
+- Perfumado
+- 140 servicios
 
 [Aquí!!!](https://www.amazon.es/dp/B00XA18ANA/?tag=tolees-21)
