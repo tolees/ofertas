@@ -25,9 +25,9 @@ Tienes [Monstrum](https://www.amazon.es/dp/B07GDMYLZ9/?tag=tolees-21) con precio
 
 🔎:
 
-- Mantente vivo o tendrás que empezar de nuevo desde el principio: buena suerte
 - Oculta, distrae y huye, pero ten cuidado de no caer en una de las muchas trampas
-- Cualquier cosa que encuentres puede ser útil para engañar a los monstruos y escapar del barco
+- Mantente vivo o tendrás que empezar de nuevo desde el principio: buena suerte
 - Sobrevive a un ambiente y monstruo diferente en cada visita
+- Cualquier cosa que encuentres puede ser útil para engañar a los monstruos y escapar del barco
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07GDMYLZ9/?tag=tolees-21)

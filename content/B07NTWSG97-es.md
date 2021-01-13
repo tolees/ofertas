@@ -26,8 +26,8 @@ Ahora mismo tienes [Under Armour Rush Heatgear Long Corto  Hombre  Negro  MD](ht
 🔎:
 
 - A medida que tu cuerpo desprende energía, el tejido con minerales incorporados la absorbe y la devuelve de nuevo para mejorar la resistencia
-- Cintura elástica con revestimiento y una textura de jacquard en relieve
 - Con tecnología Celliant
+- Cintura elástica con revestimiento y una textura de jacquard en relieve
 - Entrepierna: 28 cm
 - Paneles de malla para ofrecer una ventilación estratégica
 

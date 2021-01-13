@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Interstellar  Edición dos discos  [Blu-r al 34.47 % de descuento'
-date: 2021-01-05 18:36:20
+date: 2021-01-13 16:06:14
 image: 'https://m.media-amazon.com/images/I/51sQO2eNf6L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08KJ2WLWX/?tag=tolees-21'
 descuento: '34.47'
-average: '10.643333333333333'
+average: '10.73'
 ---
 
 Ahora mismo tienes [Interstellar  Edición dos discos  [Blu-ray]](https://www.amazon.es/dp/B08KJ2WLWX/?tag=tolees-21) a 10.99 EUR (original: 16.77 EUR) (34.47 %  de descuento) en el siguiente enlace!
@@ -26,4 +26,4 @@ Ahora mismo tienes [Interstellar  Edición dos discos  [Blu-ray]](https://www.am
 🔎:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B08KJ2WLWX/?tag=tolees-21)
+[🛒 Visítala!!!](https://www.amazon.es/dp/B08KJ2WLWX/?tag=tolees-21)

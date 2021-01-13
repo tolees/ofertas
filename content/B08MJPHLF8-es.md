@@ -25,10 +25,10 @@ En este momento está [LIANQI 1pcs Super High Speed RJ45 CAT6 8P8C Flat Ethernet
 
 🔎:
 
-- 5.Este cable de red cat 6 de perfil bajo de alta calidad es ideal para conexiones gigabit.
-- 2.Cable plano ultrafino con un grosor de 1,4 mm.
 - 1. El cable estándar proporciona un alto rendimiento.
+- 2.Cable plano ultrafino con un grosor de 1,4 mm.
 - 4. Ideal para redes de alta velocidad.
+- 5.Este cable de red cat 6 de perfil bajo de alta calidad es ideal para conexiones gigabit.
 - 3.Flexible, duradero, resistente a las llamas.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MJPHLF8/?tag=tolees-21)
