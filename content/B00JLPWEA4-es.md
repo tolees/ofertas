@@ -26,9 +26,9 @@ Tienes [Luminarc Pure Box Active - Recipiente hermético de vidrio  redondo  tam
 🔎:
 
 - Resistente choque térmico
+- Recipiente apilable
+- Recipiente para transportar alimentos
 - Recipiente hermético
 - Con válvula de vapor
-- Recipiente para transportar alimentos
-- Recipiente apilable
 
 [Comprar!!!](https://www.amazon.es/dp/B00JLPWEA4/?tag=tolees-21)

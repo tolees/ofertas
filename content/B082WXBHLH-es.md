@@ -25,10 +25,10 @@ Ahora mismo tienes [Lecone Triple cargador inalámbrico de tela Qi con dos puert
 
 🔎:
 
-- Carga rápida certificada: 7,5 W para iPhone 8 / iPhone 8 Plus / iPhone X / iPhone XS / iPhone XR hasta ahora; 10 W para dispositivos Samsung Galaxy S10 / S9 / S9 Plus / S8 / S8 Plus / S7 / S7 Edge / S6 Edge Plus / Note 5 hasta ahora; 5 W para todos los dispositivos habilitados para Qi. i. (Adaptador de 15 V/3 A incluido)
 - Pad de carga total 5 en 1: la almohadilla de carga inalámbrica Lecone admite 3 teléfonos habilitados para Qi que pueden cargarse hasta 10 W simultáneamente. Construido en dos puertos USB-A en el lateral le permite cargar dos dispositivos adicionales con cable, lo que hace que su habitación o escritorio sea más fácil y limpio.
-- Protección de seguridad: la tecnología de protección multifuncional proporciona control de temperatura, protección contra sobretensiones, prevención de cortocircuitos y mucho más. La bobina de cobre premium y el diseño del tejido hacen que la carga sea más segura y tienen una mejor disipación del calor que otros cargadores inalámbricos de plástico.
+- Carga rápida certificada: 7,5 W para iPhone 8 / iPhone 8 Plus / iPhone X / iPhone XS / iPhone XR hasta ahora; 10 W para dispositivos Samsung Galaxy S10 / S9 / S9 Plus / S8 / S8 Plus / S7 / S7 Edge / S6 Edge Plus / Note 5 hasta ahora; 5 W para todos los dispositivos habilitados para Qi. i. (Adaptador de 15 V/3 A incluido)
 - Diseño elegante: diseñado con una superficie de tela antideslizante, no solo ofrece un estilo elegante y moderno, sino que también evita que el teléfono se resbale. Para lograr un buen efecto de disipación de calor y evitar la carga intermitente, también hemos diseñado 6 agujeros de disipación de calor en la parte inferior para mantener el teléfono fresco mientras se carga.
 - Lo que obtienes: 1 almohadilla de carga inalámbrica rápida, 1 adaptador de carga rápida de 15 V/3 A, manual del usuario (idioma español no garantizado).
+- Protección de seguridad: la tecnología de protección multifuncional proporciona control de temperatura, protección contra sobretensiones, prevención de cortocircuitos y mucho más. La bobina de cobre premium y el diseño del tejido hacen que la carga sea más segura y tienen una mejor disipación del calor que otros cargadores inalámbricos de plástico.
 
 [Visítala!!!](https://www.amazon.es/dp/B082WXBHLH/?tag=tolees-21)

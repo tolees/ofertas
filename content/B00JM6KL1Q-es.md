@@ -25,10 +25,10 @@ Está [Luminarc HERMETICO CUAD 76CL Pure Box Active Lum  Transparente y Azul  0.
 
 ℹ️:
 
-- Recipiente apilable
-- Con válvula de vapor
 - Recipiente para transportar alimentos
+- Con válvula de vapor
 - Recipiente hermético
+- Recipiente apilable
 - Resistente choque térmico
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00JM6KL1Q/?tag=tolees-21)
