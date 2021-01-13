@@ -25,10 +25,10 @@ Tienes [Mantona 18864 - Trípode de Titanio y Carbono con rótula  Incluye Bolsa
 
 ℹ️:
 
-- Con cabezal cilíndrico de alta calidad; dimensiones mínimas del paquete
-- Incluye soporte monopie integrado con rosca de 3/8" y 1/4"
-- Con patas reversibles para las tomas cerca del suelo por su rotación de 180°
-- Mezcla de materiales de alta calidad de carbono y titanio
 - Especialmente ligero y resistente al rayazos; a elegir entre puntas o patas de goma
+- Incluye soporte monopie integrado con rosca de 3/8" y 1/4"
+- Con cabezal cilíndrico de alta calidad; dimensiones mínimas del paquete
+- Mezcla de materiales de alta calidad de carbono y titanio
+- Con patas reversibles para las tomas cerca del suelo por su rotación de 180°
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00AMI8E0I/?tag=tolees-21)

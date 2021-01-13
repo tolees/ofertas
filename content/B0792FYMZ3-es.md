@@ -27,8 +27,8 @@ En este momento está [Hombre Gorro de Punto Slouch Beanie Knit Invierno Verano 
 
 - MATERIAL: material de alta calidad, acrílico y poliéster. La elasticidad cómoda, transpirable y excelente se estirará para adaptarse a la mayoría de los tamaños de cabeza.
 - SERVICIO METICULOSO: VECRY se compromete a brindar el mejor servicio y producto a cada cliente. Cualquier problema, simplemente no dude en ponerse en contacto con nuestro servicio al cliente. Le responderemos dentro de las 24 horas y le brindaremos una solución satisfactoria.
+- TAMAÑO: talla única. Tamaño de ajuste: (22.05 pulgadas ~ 23.6 pulgadas) la circunferencia de la cabeza y combina un montón de estiramiento con un ajuste. Tamaño plano: longitud: 12 pulgadas, ancho: 10 pulgadas.
 - LIMPIEZA Y ENFERMERÍA: Los gorros se pueden lavar a mano cuando sea necesario. ¡Mojar los gorros en agua tibia con jabón suave lo hace tan limpio como nuevo! Obtenga su gorro favorito y el más duradero ahora!
 - DISEÑO CLÁSICO: Elegante y Slouch, tiene un forro suave y cómodo. Sencillo Pero intemporal para hombres y mujeres, adecuado diariamente para invierno y verano.
-- TAMAÑO: talla única. Tamaño de ajuste: (22.05 pulgadas ~ 23.6 pulgadas) la circunferencia de la cabeza y combina un montón de estiramiento con un ajuste. Tamaño plano: longitud: 12 pulgadas, ancho: 10 pulgadas.
 
 [Aquí!!!](https://www.amazon.es/dp/B0792FYMZ3/?tag=tolees-21)

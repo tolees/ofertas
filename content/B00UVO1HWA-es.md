@@ -25,12 +25,12 @@ Está [Despicable Me Bt900Des Torre De Sonido Con Bluetooth  Azul](https://www.a
 
 ℹ️:
 
-- Dimensiones de producto con base, 18x18x101.25cm
-- Dock para tablets y smartphones.
-- Conexión bluetooth.
-- Entrada aux in.
 - Potencia rms de 14w.
+- Dimensiones de producto con base, 18x18x101.25cm
+- Conexión bluetooth.
 - Diseño de los minions, de la película gru: mi villano favorito.
 - Torre de sonido.
+- Dock para tablets y smartphones.
+- Entrada aux in.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00UVO1HWA/?tag=tolees-21)

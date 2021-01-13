@@ -25,8 +25,8 @@ Tienes [Simba Dickie- Glibbi Einhorn Glitzer Bad  105953271 ](https://www.amazon
 
 ℹ️:
 
+- El polvo transforma el agua en una arcilla de purpurina púrpura, después diluir con agua y drenar
 - A partir de 3 años
 - Slime con purpurina morada
-- El polvo transforma el agua en una arcilla de purpurina púrpura, después diluir con agua y drenar
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07B42MFB5/?tag=tolees-21)
