@@ -25,9 +25,9 @@ En este momento está [Ghost of a Tale](https://www.amazon.es/dp/B08DLGZJVS/?tag
 
 🔎:
 
-- Altos Derruina es un lugar peligroso para un ratoncillo, y Tilo no es un guerrero; te enfrentarás a enormes y letales enemigos, tan solo con tu astucia y tu agilidad
-- Ambientada en un mundo medieval en el que reinan las ratas, la historia narra aventuras a la vez épicas e íntimas, combinando elementos de juegos de aventura gráfica, acción RPG y exploración con un estilo visual muy inmersivo
 - Ghost of a Tale sigue a Tilo, un valeroso bardo ratón, en su arriesgada misión para escapar de las mazmorras de la Fortaleza de los Altos Derruina y descubrir qué ha sido de su amada, Merra
+- Ambientada en un mundo medieval en el que reinan las ratas, la historia narra aventuras a la vez épicas e íntimas, combinando elementos de juegos de aventura gráfica, acción RPG y exploración con un estilo visual muy inmersivo
+- Altos Derruina es un lugar peligroso para un ratoncillo, y Tilo no es un guerrero; te enfrentarás a enormes y letales enemigos, tan solo con tu astucia y tu agilidad
 - Con sigilo ratonil, agilidad, disfraces y talento de bardo para la música, explorarás la fortaleza en ruinas, desde sus amplios bosques y lago hasta sus catacumbas infestadas de arañas, evadiendo sus muchos peligros y descubriendo antiguos secretos
 - Habla con los moradores de Altos Derruina, convierte a tus enemigos en aliados, y no dejes ningún recoveco inexplorado en tu misión para encontrar a Merra
 
