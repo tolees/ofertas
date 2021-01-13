@@ -25,8 +25,8 @@ En este momento está [adidas Superstar  Zapatillas Hombre  FTWR White/Core Blac
 
 🔎:
 
-- Estilo vintage
 - Zapatillas deportivas
+- Estilo vintage
 - Empeine de piel
 
 [Aquí!!!](https://www.amazon.es/dp/B0813YTVSN/?tag=tolees-21)
