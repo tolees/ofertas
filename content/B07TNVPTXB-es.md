@@ -25,9 +25,9 @@ Ahora mismo tienes [Clarks Hamble Loafer  Mocasines  Marrón  Tan Leather Tan Le
 
 🔎:
 
+- Altura Del Talón: 3cm
 - Fijación: Resbalón En
 - Superiores: Cuero
-- Altura Del Talón: 3cm
 - Suela: Tpr
 - Forro: Textil
 

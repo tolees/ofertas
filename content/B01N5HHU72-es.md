@@ -25,10 +25,10 @@ Ahora mismo tienes [Vans Torrey Chaqueta  Negro  Black/white   Small para Hombre
 
 🔎:
 
-- vans
 - V002MUY28
 - Torrey
-- 2017
 - Hombre
+- 2017
+- vans
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01N5HHU72/?tag=tolees-21)

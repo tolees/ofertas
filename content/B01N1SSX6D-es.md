@@ -25,10 +25,10 @@ Está [Columbia Fairbanks Omni-Heat Botas de invierno para hombre  Negro Black R
 
 ℹ️:
 
-- Revestimiento: Sintético
-- Material exterior: Sintético
-- Cierre: Cordones
 - Tipo de tacón: Plano
+- Revestimiento: Sintético
+- Cierre: Cordones
 - Material de la suela: Caucho
+- Material exterior: Sintético
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01N1SSX6D/?tag=tolees-21)

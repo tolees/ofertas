@@ -27,7 +27,7 @@ Tienes [Orbegozo SW 4950 Tostador Para Sandwiches  700 W  Color Blanco](https://
 
 - Viene en color blanco
 - Tostador para sandwiches
-- La marca del producto es Orbegozo
 - Protección contra sobrecalentamiento
+- La marca del producto es Orbegozo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01AXWMW50/?tag=tolees-21)

@@ -25,9 +25,9 @@ Tienes [PME Velas de Trenes  Juego de 4](https://www.amazon.es/dp/B00SV6HAD0/?ta
 
 ℹ️:
 
+- Fabricado con cera de alta calidad
 - Tamaño aproximado: 35 mm (1,3 pulgadas)
 - Velas autoportantes con temática de trenes
-- Fabricado con cera de alta calidad
 - El conjunto incluye: una locomotora y 3 vagones.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00SV6HAD0/?tag=tolees-21)

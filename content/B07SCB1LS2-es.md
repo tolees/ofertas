@@ -25,9 +25,9 @@ Ahora mismo tienes [Levi s Woodward L  Zapatillas Hombre  Negro  R Black 59   40
 
 🔎:
 
-- Color: BLACK
+- Estación: Primavera/Verano
 - Artículo: 230667 01733 WOODWAR CANVAS
 - Designer: LEVIS
-- Estación: Primavera/Verano
+- Color: BLACK
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SCB1LS2/?tag=tolees-21)

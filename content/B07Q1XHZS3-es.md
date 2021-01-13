@@ -26,9 +26,9 @@ En este momento está [Regla métrica autoadhesiva  herramienta para tallar made
 🔎:
 
 - Utilizado para bancos de trabajo, mesas de sierra, maquinaria, escritorios, encimeras, postes, paredes, columnas, tronzadoras, tronzadoras, sierra circular, tabla de router, sierra de cinta, herramientas de carpintería, etc.
-- Material duradero con buena dureza y resistente a la corrosión.
 - Material: aluminio / acero inoxidable (opcional)
 - Color: plateado
 - Material: aluminio
+- Material duradero con buena dureza y resistente a la corrosión.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Q1XHZS3/?tag=tolees-21)
