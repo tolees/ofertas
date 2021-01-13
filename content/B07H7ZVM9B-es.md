@@ -25,10 +25,10 @@ Tienes [Orbegozo SP 6500 Calefactor de pared  2000 W  mando a distancia  program
 
 🔎:
 
+- Calefactor de pared Orbegozo con mando a distancia y diseño en color plata
+- Mando a distancia programable (diario y semanal)
 - Protección contra sobrecalentamiento y función ventilador de aire frío
 - Potencia de 2000w con 2 niveles de funcionamiento: 1000w y 2000w con elementos cerámicos ptc
 - Panel LED con indicador de temperatura
-- Calefactor de pared Orbegozo con mando a distancia y diseño en color plata
-- Mando a distancia programable (diario y semanal)
 
 [Comprar!!!](https://www.amazon.es/dp/B07H7ZVM9B/?tag=tolees-21)

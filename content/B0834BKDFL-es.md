@@ -25,10 +25,10 @@ Tienes [adidas Duramo SL  Zapatillas de Running Mujer  Sky Tint/Ash Grey S18/FTW
 
 🔎:
 
-- Cierre de cordones
-- Parte superior de malla
 - Zapatilla de running versátil
-- Horma clásica
 - Diseño ligero
+- Horma clásica
+- Parte superior de malla
+- Cierre de cordones
 
 [Comprar!!!](https://www.amazon.es/dp/B0834BKDFL/?tag=tolees-21)

@@ -25,8 +25,8 @@ Tienes [BOSS Mix & Match Pants Pantalones  Gris  Medium Grey 033   46  Talla del
 
 ℹ️:
 
-- Con bolsillos laterales
-- Presentan cordón en la cintura
 - Pantalones con puños
+- Presentan cordón en la cintura
+- Con bolsillos laterales
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B071KBPGB5/?tag=tolees-21)

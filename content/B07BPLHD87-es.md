@@ -25,10 +25,10 @@ Ahora mismo tienes [Camper Helena Bajo  Mary Jane Mujer  Negro  Black 1   42 EU]
 
 🔎:
 
-- Color: negro
 - Material principal: Piel lisa
+- Altura: 4 cm
+- Color: negro
 - Forro: 83% textil (60% PU - 40% polyester) 17% textil (60% nailon - 40% PU)
 - Forro: 83 % Textil (60% PU - 40% Poliéster) 17 % Textil (60% Nailon - 40% PU)
-- Altura: 4 cm
 
 [Visítala!!!](https://www.amazon.es/dp/B07BPLHD87/?tag=tolees-21)

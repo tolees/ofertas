@@ -25,10 +25,10 @@ En este momento está [AXE Pack Dark Temptation Tripode - 2 x 150 ml y Mini 35 m
 
 🔎:
 
+- Aplica el desodorante rociándolo sobre tus axilas y torso para que notes la diferencia y te olvides del sudor antes de que aparezca
+- El trípode que incluye el pack es ideal para vídeo chat, ver películas, jugar a vídeo juegos y hacerte las mejores fotos y vídeos; incluye mando, compatible con iOS y Android, Smartphone no incluido
+- Disfruta de la fragancia Dark Temptation, una sensual explosión de dulzura con notas de chocolate, ámbar y pimienta roja que te ayudará a volverte tan irresistible como el chocolate
 - Descubre este increíble y exclusivo pack de AXE: contiene 2 Bodysprays, 1 Mini Bodyspray y 1 trípode
 - El Bodyspray de AXE ofrece una aplicación rápida que ayudará a mantenerte fresco y seco durante todo el día, sea cual sea la ocasión
-- Disfruta de la fragancia Dark Temptation, una sensual explosión de dulzura con notas de chocolate, ámbar y pimienta roja que te ayudará a volverte tan irresistible como el chocolate
-- El trípode que incluye el pack es ideal para vídeo chat, ver películas, jugar a vídeo juegos y hacerte las mejores fotos y vídeos; incluye mando, compatible con iOS y Android, Smartphone no incluido
-- Aplica el desodorante rociándolo sobre tus axilas y torso para que notes la diferencia y te olvides del sudor antes de que aparezca
 
 [Aquí!!!](https://www.amazon.es/dp/B08CHPWGRL/?tag=tolees-21)

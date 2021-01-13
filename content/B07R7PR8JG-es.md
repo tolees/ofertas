@@ -25,10 +25,10 @@ En este momento está [Cigarrillos Electronicos con Manuales y Automáticas Func
 
 🔎:
 
-- ▶▶ Fácil de rellenar y ricos sabores. ---- Es un tipo de atomizador recargable que puede rellenarse con una variedad de sabores nuevos y frescos. Líquido adecuado: aceite de CBD, sal de nicotina, líquido general. etc. Mantiene la bobina más duradera y no se quema fácilmente.
-- ▶▶ Magnético. ---- Hay 2 conectores magnéticos en el POD que funcionan de una manera para mantener el cartucho firmemente en su lugar. Este artículo no contiene nicotina, compatible con TPD, CE, certificado RoHS.
 - ▶▶ El paquete contiene. ----! 1 * 650 mAh Batería e cig 13W, 2 * 2 ml POD Vape Tank, 1 * Botella de llenado (sin líquido), 1 * Cable de carga USB, 1 * Manual del usuario, 1 * Caja del paquete. Producto sin nicotina y sin liquido.
-- ▶▶ Sistema inteligente. ---- La tecnología CSA (espiral celular de flujo de aire). Hay un chip inteligente en la cápsula de vape para mayor protección. Tales como: protección contra sobrecalentamiento y seguridad, 10 segundos de protección contra la inhalación, protección contra sobrecalentamiento del circuito, protección contra cortocircuitos, voltaje variable ajustable (2 modos).
+- ▶▶ Fácil de rellenar y ricos sabores. ---- Es un tipo de atomizador recargable que puede rellenarse con una variedad de sabores nuevos y frescos. Líquido adecuado: aceite de CBD, sal de nicotina, líquido general. etc. Mantiene la bobina más duradera y no se quema fácilmente.
 - ▶▶ Fácil de usar. ---- Todo en un kit de vape. Tiene la capacidad de cambiar el poder entre 2 configuraciones, y puede auto vape o puede presionar el botón.
+- ▶▶ Sistema inteligente. ---- La tecnología CSA (espiral celular de flujo de aire). Hay un chip inteligente en la cápsula de vape para mayor protección. Tales como: protección contra sobrecalentamiento y seguridad, 10 segundos de protección contra la inhalación, protección contra sobrecalentamiento del circuito, protección contra cortocircuitos, voltaje variable ajustable (2 modos).
+- ▶▶ Magnético. ---- Hay 2 conectores magnéticos en el POD que funcionan de una manera para mantener el cartucho firmemente en su lugar. Este artículo no contiene nicotina, compatible con TPD, CE, certificado RoHS.
 
 [Aquí!!!](https://www.amazon.es/dp/B07R7PR8JG/?tag=tolees-21)

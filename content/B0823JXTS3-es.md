@@ -25,8 +25,8 @@ En este momento está [Asics Patriot 12  Sneaker Womens  Black/White  39.5 EU](h
 
 🔎:
 
-- Suela de goma sólida
 - Entresuela de EVA
 - Tapa interior del talón
+- Suela de goma sólida
 
 [Aquí!!!](https://www.amazon.es/dp/B0823JXTS3/?tag=tolees-21)

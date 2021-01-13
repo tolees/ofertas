@@ -25,10 +25,10 @@ Está [Orbegozo FH 5040 Calefactor eléctrico 2 en 1  vertical y horizontal  con
 
 ℹ️:
 
-- Selector rotativo 3 posiciones: 1000W y 2000W, además de incorpora función ventilador
 - Dos posiciones Horizontal & Vertical
 - Calefactor Orbegozo 2 en 1 color blanco
-- Apagado automático de seguridad y protección contra sobrecalentamiento
 - Control ajustable de temperatura mediante termostato
+- Apagado automático de seguridad y protección contra sobrecalentamiento
+- Selector rotativo 3 posiciones: 1000W y 2000W, además de incorpora función ventilador
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07H81DJXM/?tag=tolees-21)

@@ -27,7 +27,7 @@ Tienes [Alcatel 2053D - Teléfono Móvil Dual SIM de 2.4"  2G  RAM de 4 MB  Cám
 
 - Autonomía de hasta 8 días.
 - Diseño elegante y agradable en formato concha con gran teclado y pantalla de 2.4” qvga, cámara de hasta 1.3MP
-- Dual SIM, con la posibilidad de ampliar memoria hasta 32 gb
 - Incluye RadioFM, reproductor de música, linterna, filtros de llamada, alarma y calendario.
+- Dual SIM, con la posibilidad de ampliar memoria hasta 32 gb
 
 [Comprar!!!](https://www.amazon.es/dp/B07L6ZHH69/?tag=tolees-21)
