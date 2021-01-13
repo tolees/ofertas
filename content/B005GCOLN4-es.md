@@ -27,8 +27,8 @@ Tienes [Guess Reloj analogico para Hombre de Cuarzo con Correa en cerámica X760
 
 - Calendario y cronómetro
 - Caja y cadena cerámica color negro
-- Reloj GUESS X76011G2S
-- Cristal de zafiro
 - Analógico
+- Cristal de zafiro
+- Reloj GUESS X76011G2S
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B005GCOLN4/?tag=tolees-21)

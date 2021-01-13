@@ -25,10 +25,10 @@ Ahora mismo tienes [Jalea real con propóleo para mayor energía y vitalidad –
 
 🔎:
 
-- CUIDA TÚ PIEL: Ayuda a cuidar la salud de nuestra piel, contiene vitamina C y vitaminas del tipo B
-- COMPLEMENTO VITAMÍNICO – La jalea real contiene nutrientes, aminoácidos y vitaminas, entre las que se encuentran la vitamina C y vitaminas del tipo B, que nos ayuda a cuidar la salud de nuestra piel.
+- AUMENTA LAS DEFENSAS – El complemento alimenticio de jalea real de Aquisana ayuda a reforzar nuestro sistema para darnos un extra de protección.
 - MÁXIMA CALIDAD Y GARANTÍA - Todos los productos de Aquisana están hechos con productos de alta calidad y bajo la supervisión de las normas europeas de fabricación.
 - EXTRA DE ENERGÍA – La jalea real con propóleo es ideal para aportarnos un extra de energía y vitalidad en nuestro día a día.
-- AUMENTA LAS DEFENSAS – El complemento alimenticio de jalea real de Aquisana ayuda a reforzar nuestro sistema para darnos un extra de protección.
+- COMPLEMENTO VITAMÍNICO – La jalea real contiene nutrientes, aminoácidos y vitaminas, entre las que se encuentran la vitamina C y vitaminas del tipo B, que nos ayuda a cuidar la salud de nuestra piel.
+- CUIDA TÚ PIEL: Ayuda a cuidar la salud de nuestra piel, contiene vitamina C y vitaminas del tipo B
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01LXR2JKD/?tag=tolees-21)

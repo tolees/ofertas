@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pack Smallville Temporada 1-10 [DVD] con un 34.03 % de descuento'
-date: 2021-01-04 14:35:54
+date: 2021-01-13 18:03:40
 image: 'https://m.media-amazon.com/images/I/313lP4JgxUL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00FF9HJ3M/?tag=tolees-21'
 descuento: '34.03'
-average: '67.32333333333332'
+average: '66.90249999999999'
 ---
 
 En este momento está [Pack Smallville Temporada 1-10 [DVD]](https://www.amazon.es/dp/B00FF9HJ3M/?tag=tolees-21) a 65.64 EUR (original: 99.5 EUR) (34.03 %  de descuento) en el siguiente enlace!
@@ -27,4 +27,4 @@ En este momento está [Pack Smallville Temporada 1-10 [DVD]](https://www.amazon.
 
 - Precio mínimo ofrecido por este vendedor en los 30 días anteriores a la oferta: 65.79€
 
-[Aquí!!!](https://www.amazon.es/dp/B00FF9HJ3M/?tag=tolees-21)
+[🛒 Aquí!!!](https://www.amazon.es/dp/B00FF9HJ3M/?tag=tolees-21)

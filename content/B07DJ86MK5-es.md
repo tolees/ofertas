@@ -25,13 +25,13 @@ Tienes [New Balance 500 Core  Zapatillas Hombre  Blanco  Munsell White/Eclipse/T
 
 ℹ️:
 
-- Material de la suela: EVA
+- Revestimiento: Tela
 - Altura del tacón: 2 centímetros
+- Material exterior: Cuero sintético
 - Anchura del zapato: Normal
+- Composición: Cuero sintético / Textil
 - Tipo de tacón: Plano
 - Cierre: Cordones
-- Revestimiento: Tela
-- Material exterior: Cuero sintético
-- Composición: Cuero sintético / Textil
+- Material de la suela: EVA
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07DJ86MK5/?tag=tolees-21)

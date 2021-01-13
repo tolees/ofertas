@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Pop! - Daniels Figura de Vinilo  s al 68.84 % de descuento'
-date: 2021-01-10 21:46:37
+date: 2021-01-13 18:06:30
 image: 'https://m.media-amazon.com/images/I/413v9ls2veL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B071RNKJPP/?tag=tolees-21'
 descuento: '68.84'
-average: '5.634285714285715'
+average: '5.5512500000000005'
 ---
 
 Está [Funko Pop! - Daniels Figura de Vinilo  seria Alien Covenant  13096 ](https://www.amazon.es/dp/B071RNKJPP/?tag=tolees-21) con 68.84 de descuento por 4.97 EUR (original: 15.95 EUR) en el siguiente enlace!
@@ -25,8 +25,8 @@ Está [Funko Pop! - Daniels Figura de Vinilo  seria Alien Covenant  13096 ](http
 
 ℹ️:
 
-- Alien Covenant
 - Daniels
 - Funko POP
+- Alien Covenant
 
-[Ver la oferta!!](https://www.amazon.es/dp/B071RNKJPP/?tag=tolees-21)
+[🛒 Ver la oferta!!](https://www.amazon.es/dp/B071RNKJPP/?tag=tolees-21)

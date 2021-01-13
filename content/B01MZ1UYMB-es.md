@@ -26,9 +26,9 @@ Está [Vans Torrey Chaqueta  Negro  Black/White   Large para Hombre](https://www
 ℹ️:
 
 - Hombre
-- Torrey
 - vans
 - V002MUY28
 - Chaqueta
+- Torrey
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MZ1UYMB/?tag=tolees-21)
