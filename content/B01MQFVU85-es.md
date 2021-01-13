@@ -25,8 +25,8 @@ Tienes [Huerto Urbano - Huerto vintage - Batlle](https://www.amazon.es/dp/B01MQF
 
 ℹ️:
 
-- Kit completo de imagen rustica y alta calidad
-- Contiene el contenedor, sustrato, semilla y fertilizante
 - Contiene semillas de albahaca, perejil, tomate, calabacín y baby leaves
+- Contiene el contenedor, sustrato, semilla y fertilizante
+- Kit completo de imagen rustica y alta calidad
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01MQFVU85/?tag=tolees-21)

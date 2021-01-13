@@ -25,8 +25,8 @@ En este momento está [Intel NUC BOXNUC6CAYH - Kit ordenador Mini PC  Intel Cele
 
 🔎:
 
-- 1 slot para memoria RAM DDR3L-1600/1866 hasta 8 GB SO-DIMM
 - Procesador Intel Celeron J3455 (Hasta 2.3 GHz, 2 MB cache)
+- 1 slot para memoria RAM DDR3L-1600/1866 hasta 8 GB SO-DIMM
 - Conexión de disco duro M.2 (PCIe x1) y slot 2.5" adicional para HDD/SSD
 - WiFi AC + Bluetooth 4.2, ranura para tarjeta microSD
 

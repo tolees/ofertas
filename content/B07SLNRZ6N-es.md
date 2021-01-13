@@ -25,10 +25,10 @@ Está [Bollé Mute Casco de Ski Black Adultos Unisex 59-62 cm](https://www.amazo
 
 ℹ️:
 
-- Sistema de ventilación integrado
-- Revestimiento desmontable y lavable
-- Construcción: HARDSHELL-ABS
-- Sistema Click-To-Fit para ajustar el ajuste de su casco de manera fácil y rápida
 - Orgullosos de tener algunos de los mejores atletas de estilo libre en nuestro equipo, hemos desarrollado un casco que cumple todos los requisitos de tu "wish list". Diseño audaz, características simples pero progresivas como almohadillas extraíbles y clip para máscara, y un montón de colores que combinarán con cualquiera de tu atuendo, incluido el Signature Series Edición del medallista de oro olímpico David Wise.
+- Construcción: HARDSHELL-ABS
+- Revestimiento desmontable y lavable
+- Sistema Click-To-Fit para ajustar el ajuste de su casco de manera fácil y rápida
+- Sistema de ventilación integrado
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07SLNRZ6N/?tag=tolees-21)
