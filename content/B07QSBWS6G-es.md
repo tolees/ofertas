@@ -25,10 +25,10 @@ Está [Funko - Pop! Disney: Frozen 2 - Anna Figurina  Multicolor  40886 ](https:
 
 ℹ️:
 
-- Disney frozen 2
-- De la colección frozen 2, anna como figura de vinilo pop de funko
-- Descúbre otras figuras de la colección disney y colecciónalas todas
-- La figura mide 9 cm y se envía en una caja ilustrada con ventana
 - Anna
+- De la colección frozen 2, anna como figura de vinilo pop de funko
+- Disney frozen 2
+- La figura mide 9 cm y se envía en una caja ilustrada con ventana
+- Descúbre otras figuras de la colección disney y colecciónalas todas
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07QSBWS6G/?tag=tolees-21)

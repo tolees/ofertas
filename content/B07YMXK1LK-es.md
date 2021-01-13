@@ -25,8 +25,8 @@ Está [Hurley M One&Only Solid tee Camiseta  Hombre  Camelia  S](https://www.ama
 
 ℹ️:
 
-- Tejido premium
 - Lisos: 100 % algodón; jaspeados: 52 % algodón/48 % poliéster
+- Tejido premium
 - Estampado de tacto suave
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07YMXK1LK/?tag=tolees-21)

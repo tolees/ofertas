@@ -25,10 +25,10 @@ Tienes [Orbegozo FH 5033 - Calefactor  termostato regulable  2 niveles de potenc
 
 🔎:
 
-- Luz indicadora de encendido y agarre posterior para facilitar su transporte
 - Calefactor Orbegozo de diseño compacto en color rojo
+- Luz indicadora de encendido y agarre posterior para facilitar su transporte
 - Apagado automático de seguridad y protección contra sobrecalentamiento
-- Control ajustable de temperatura mediante termostato
 - Dos posiciones de calor: 1250 W y 2500 W, además de incorporar función ventilador
+- Control ajustable de temperatura mediante termostato
 
 [Comprar!!!](https://www.amazon.es/dp/B007PRW89M/?tag=tolees-21)

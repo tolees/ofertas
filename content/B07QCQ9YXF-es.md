@@ -25,9 +25,9 @@ Tienes [Funko Pop! Bobble Vinyle Marvel: 80th - First Appearance - Cyclops](http
 
 🔎:
 
+- Figura de colección de la marca Funko
 - El producto se envía en una caja ilustrada con ventana
 - El artículo es adecuado para todos los fanáticos de Marvel Cyclops
-- Figura de colección de la marca Funko
 - Recomendado para niños a partir de 3 años
 
 [Comprar!!!](https://www.amazon.es/dp/B07QCQ9YXF/?tag=tolees-21)

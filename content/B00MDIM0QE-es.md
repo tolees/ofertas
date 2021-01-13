@@ -25,10 +25,10 @@ Tienes [ORYX 23010003 Escalera Aluminio 5 Peldaños Plegable  Uso doméstico  An
 
 ℹ️:
 
-- Ligera de transportar: la altura de la base es de 100 cm. Esta escalera de aluminio pesa tan solo 4,5 kg. Es muy ligera de transportar y la puede almacenar fácilmente en su domicilio.
 - Nuestras escaleras Oryx son la mejor opción para su hogar ya que puede elegir la que mejor se adapte a sus necesidades.
-- La plataforma de aluminio con estructura interna reforzada y con peldaños multiperfil con nervios de refuerzo.
-- Además de la alta calidad, es una escalera muy ligera de transportar y la puede almacenar fácilmente en su domicilio.
 - Alcanza las zonas más altas: el chasis trasero está remachado directamente a la estructura principal, además cuenta con la plataforma de aluminio con estructura interna reforzada y con peldaños multiperfil con nervios de refuerzo
+- Además de la alta calidad, es una escalera muy ligera de transportar y la puede almacenar fácilmente en su domicilio.
+- La plataforma de aluminio con estructura interna reforzada y con peldaños multiperfil con nervios de refuerzo.
+- Ligera de transportar: la altura de la base es de 100 cm. Esta escalera de aluminio pesa tan solo 4,5 kg. Es muy ligera de transportar y la puede almacenar fácilmente en su domicilio.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00MDIM0QE/?tag=tolees-21)

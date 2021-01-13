@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Botanical Origin Detergente para lavador al 18.36 % de descuento'
-date: 2021-01-13 10:00:02
+date: 2021-01-13 10:00:04
 image: 'https://m.media-amazon.com/images/I/51W-WZ4IQQL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Está [Botanical Origin Detergente para lavadora ecológico apto para pieles sen
 
 ℹ️:
 
+- Fragancia con aceites esenciales con aroma a jazmín fresco y lavanda silvestre
+- Envases respetuosos con el medio ambiente; pack 100 % reciclable y fabricado con hasta un 50 % de material reciclado
 - Formulado con ingredientes de origen natural, 0 % colorantes o abrillantadores artificiales; con certificado Ecolabel
 - Apto para pieles sensibles; no deja químicos abrasivos en la ropa que puedan causar una reacción adversa en pieles sensibles; dermatológicamente testado
 - Detergente para la lavadora ecológico líquido con ingredientes de origen botánico tan efectivo como los productos convencionales
-- Fragancia con aceites esenciales con aroma a jazmín fresco y lavanda silvestre
-- Envases respetuosos con el medio ambiente; pack 100 % reciclable y fabricado con hasta un 50 % de material reciclado
 
 [Ver la oferta!!](https://www.amazon.es/dp/B081CVWMDX/?tag=tolees-21)

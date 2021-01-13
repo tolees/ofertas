@@ -26,7 +26,7 @@ Está [New Balance 520v6  Zapatos para Correr para Hombre  Negro  Black Lk6   40
 ℹ️:
 
 - Suela exterior de goma.
-- Material exterior sintético y malla.
 - Plantilla NB.
+- Material exterior sintético y malla.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07S1MLBMN/?tag=tolees-21)

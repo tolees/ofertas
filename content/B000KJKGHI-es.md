@@ -26,7 +26,7 @@ Tienes [Apli 01285  Etiquetas  100 hojas](https://www.amazon.es/dp/B000KJKGHI/?t
 ℹ️:
 
 - 100 hojas
-- Dimensiones (Ancho x Profundidad x Altura): 48.5 x 25.4
 - Etiquetas Apli. A4
+- Dimensiones (Ancho x Profundidad x Altura): 48.5 x 25.4
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000KJKGHI/?tag=tolees-21)

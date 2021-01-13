@@ -25,9 +25,9 @@ Tienes [Samsung Galaxy Tab A7 WiFi - Tablet 32GB  3GB RAM  Dark Gray](https://ww
 
 ℹ️:
 
-- Samsung Knox
-- Pantalla dinámica de 10,4"
-- Batería de 7,040mAh
 - Hasta 1TB con tarjeta MicroSD
+- Pantalla dinámica de 10,4"
+- Samsung Knox
+- Batería de 7,040mAh
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08DRVHP65/?tag=tolees-21)

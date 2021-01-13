@@ -26,9 +26,9 @@ En este momento está [Auriculares inalámbricos HiFi SmartEra® para Radio FM  
 🔎:
 
 - Radio FM: el auricular se puede utilizar como radio FM por separado, busca y sintoniza canales automáticamente.
-- Monitor inalámbrico: coloca el emisor cerca del bebé, personas mayores y personas enfermas que necesitan cuidado, y el sonido de la gente cuidada se puede oír desde el receptor.
-- Auriculares inalámbricos: recepción inalámbrica desde cualquier dispositivo eléctrico con salida de audio como el TV, PC, videoconsola, reproductor de DVD, VCD, dispositivo de audio, reproductor de MP3 y reproductor de CD. Herramienta de chat de audio: es una herramienta perfecta de audio-chat, proporciona el disfrute infinito.
 - Auriculares con cables: equipado con cable de audio, el receptor se puede utilizar como auriculares con cable.
+- Auriculares inalámbricos: recepción inalámbrica desde cualquier dispositivo eléctrico con salida de audio como el TV, PC, videoconsola, reproductor de DVD, VCD, dispositivo de audio, reproductor de MP3 y reproductor de CD. Herramienta de chat de audio: es una herramienta perfecta de audio-chat, proporciona el disfrute infinito.
+- Monitor inalámbrico: coloca el emisor cerca del bebé, personas mayores y personas enfermas que necesitan cuidado, y el sonido de la gente cuidada se puede oír desde el receptor.
 - TV sonido: para que veas tu programa de televisión favorito sin preocuparte de molestar a los demás. Los auriculares inalámbricos te permiten ver tus programa de TV con función de silencio.
 
 [Aquí!!!](https://www.amazon.es/dp/B018VH2O8Y/?tag=tolees-21)
