@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 16.69 % en Puma Quarter 3P - Calcetines de deporte '
-date: 2021-01-11 08:36:45
+date: 2021-01-13 09:19:32
 image: 'https://m.media-amazon.com/images/I/41VqwdhsTbL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B000GGNCGW/?tag=tolees-21'
 descuento: '16.69'
-average: '6.453026315789473'
+average: '6.428333333333333'
 ---
 
 Tienes [Puma Quarter 3P - Calcetines de deporte para hombre  color negro  talla 43-46  3 pares ](https://www.amazon.es/dp/B000GGNCGW/?tag=tolees-21) con un 16.69 % de descuento con precio de oferta de 4.99 EUR (original: 5.99 EUR) en el siguiente enlace!

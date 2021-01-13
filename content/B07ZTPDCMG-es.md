@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Karactermania Mickey Mouse Shy - Billete al 30.00 % de descuento'
-date: 2021-01-12 09:13:52
+date: 2021-01-13 09:23:41
 image: 'https://m.media-amazon.com/images/I/51suPuPmfmL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07ZTPDCMG/?tag=tolees-21'
 descuento: '30.00'
-average: '18.642857142857146'
+average: '18.515333333333334'
 ---
 
 Ahora mismo tienes [Karactermania Mickey Mouse Shy - Billetero  Multicolor](https://www.amazon.es/dp/B07ZTPDCMG/?tag=tolees-21) a 16.73 EUR (original: 23.9 EUR) (30.00 %  de descuento) en el siguiente enlace!
@@ -25,8 +25,8 @@ Ahora mismo tienes [Karactermania Mickey Mouse Shy - Billetero  Multicolor](http
 
 🔎:
 
-- Departamento trasero para billetes.
 - Dimensiones: 10 x 15,5 x 2,5 cm.
+- Departamento trasero para billetes.
 - Billetero con múltiples departamentos para tarjetas de crédito o documentos de identidad.
 - Compartimento interior cerrado con cremallera.
 

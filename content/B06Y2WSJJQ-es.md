@@ -25,7 +25,7 @@ Ahora mismo tienes [New Balance Hombre 574v2-core Trainers Zapatillas  Rojo  Bur
 
 🔎:
 
-- Material exterior: Cuero
 - Revestimiento: Tela
+- Material exterior: Cuero
 
 [Visítala!!!](https://www.amazon.es/dp/B06Y2WSJJQ/?tag=tolees-21)

@@ -25,9 +25,9 @@ Tienes [Mentolín Miel & Mentol Caramelo Balsámico sin Azúcar - 1000 gr](https
 
 ℹ️:
 
-- Suave efecto balsámico
-- 1 kg
-- Caramelo duro sin azúcar de miel y mentol
 - Perfecto para inspirar y respirar
+- 1 kg
+- Suave efecto balsámico
+- Caramelo duro sin azúcar de miel y mentol
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00XAPUIJK/?tag=tolees-21)

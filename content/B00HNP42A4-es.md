@@ -25,10 +25,10 @@ Tienes [Le Creuset Molinillo de Sal Plástico ABS  6.2 x 6.2 x 20.8 cm  Mecanism
 
 🔎:
 
-- Elegante molinillo de resistente plástico ABS con mecanismo de cerámica resistente a la corrosión para sazonar y especiar tus platos, práctica "S" de Sal en el pomo de metal
-- Mecanismo de cerámica endurecida ajustable mediante para obtener distintos grados de molienda, funcionamiento suave
 - Contenido: 1x Le Creuset Molinillo de sal, material: plástico ABS/mecanismo de cerámica, dimensiones: 6.2 x 6.2 x 20.8 cm, capacidad: aprox. 100 g, peso: 280 g, color: Negro
-- Atractivo diseño clásico de Le Creuset, bonito diseño de plástico ABS, óptimo como regalo
 - capacidad de cada molinillo: aprox. 100 g de sal gruesa, fácil de rellenar
+- Atractivo diseño clásico de Le Creuset, bonito diseño de plástico ABS, óptimo como regalo
+- Mecanismo de cerámica endurecida ajustable mediante para obtener distintos grados de molienda, funcionamiento suave
+- Elegante molinillo de resistente plástico ABS con mecanismo de cerámica resistente a la corrosión para sazonar y especiar tus platos, práctica "S" de Sal en el pomo de metal
 
 [Comprar!!!](https://www.amazon.es/dp/B00HNP42A4/?tag=tolees-21)

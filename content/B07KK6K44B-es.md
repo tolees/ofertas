@@ -25,8 +25,8 @@ Tienes [Saucony Jazz Original Vitnage  Zapatillas para Hombre  Verde  Verde Oliv
 
 🔎:
 
-- Saucony Verde Zapatillas vintage Jazz Original
-- Ver descripción del producto para obtener más información.
 - A estrenar y genuina. Somos un vendedor autorizado de Saucony.
+- Ver descripción del producto para obtener más información.
+- Saucony Verde Zapatillas vintage Jazz Original
 
 [Comprar!!!](https://www.amazon.es/dp/B07KK6K44B/?tag=tolees-21)

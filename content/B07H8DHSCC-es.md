@@ -26,7 +26,7 @@ En este momento está [Lee Malone Pants Jeans  Blue Drop Em  28W / 34L para Homb
 🔎:
 
 - Presentan 5 bolsillos
-- Vaqueros para hombre
 - Tienen un parche de piel en la parte trasera con la marca Lee
+- Vaqueros para hombre
 
 [Aquí!!!](https://www.amazon.es/dp/B07H8DHSCC/?tag=tolees-21)
