@@ -25,10 +25,10 @@ En este momento está [Braun Series 6 60-B4500cs Afeitadora Eléctrica  máquina
 
 🔎:
 
-- Afeitadora eléctrica hombre con SensoFlex: cabezal pivotante testado dermatológicamente para pieles sensibles que se adapta para minimizar la presión cutánea
-- Incluye: Base de carga y accesorio de recortadora de barba
 - Batería de iones de litio con hasta 3 semanas de autonomía (50 min); Carga rápida en 5 min suficiente para un afeitado
-- Afeitadoras para barba 100 % resistentes al agua para usarlas en seco y mojado
+- Afeitadora eléctrica hombre con SensoFlex: cabezal pivotante testado dermatológicamente para pieles sensibles que se adapta para minimizar la presión cutánea
 - Láminas SensoFoil diseñadas específicamente para ofrecer un afeitado apurado y bienestar en la piel
+- Afeitadoras para barba 100 % resistentes al agua para usarlas en seco y mojado
+- Incluye: Base de carga y accesorio de recortadora de barba
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B085CXTV68/?tag=tolees-21)
