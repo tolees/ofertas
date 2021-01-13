@@ -25,10 +25,10 @@ Tienes [Sony BDPS1700B  Reproductor de Blu-ray Disc  Negro  Tamaño Único](http
 
 ℹ️:
 
-- Disfruta de todas tus películas en calidad Full HD
 - Interfaz de salida de video: HDMI
-- Transmite el contenido desde una gran variedad de proveedores de entretenimiento online
+- Disfruta de todas tus películas en calidad Full HD
 - Disfruta de colores vivos con Triluminos Colour
 - Consumo de energía: 8.5 W
+- Transmite el contenido desde una gran variedad de proveedores de entretenimiento online
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01B7ABF00/?tag=tolees-21)

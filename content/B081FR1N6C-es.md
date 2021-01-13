@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Frozen 2 [Blu-ray] al 30.33 % de descuento'
-date: 2021-01-11 18:24:20
+date: 2021-01-13 04:54:01
 image: 'https://m.media-amazon.com/images/I/5167OdE4+eL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B081FR1N6C/?tag=tolees-21'
 descuento: '30.33'
-average: '16.9395041322314'
+average: '16.9240650406504'
 ---
 
 Está [Frozen 2 [Blu-ray]](https://www.amazon.es/dp/B081FR1N6C/?tag=tolees-21) con 30.33 de descuento por 15.99 EUR (original: 22.95 EUR) en el siguiente enlace!

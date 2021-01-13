@@ -25,11 +25,11 @@ En este momento está [MSI Modern 14 B10RBSW-064XES - Ordenador portátil Ultraf
 
 🔎:
 
-- Tarjeta gráfica NVIDIA GeForce MX350, 2 GB GDDR5
+- Sin sistema operativo
 - Pantalla de 14" FHD (1920*1080), IPS-Level 60Hz 72%NTSC Thin Bezel, close to 100%sRGB
 - Memoria RAM de 16GB DDR IV (2666 MHz)
-- Almacenamiento de 512GB NVMe PCIe SSD
-- Sin sistema operativo
 - Procesador Intel Core i7-10510U (4 núcleos, 8 MB Cache, 1.8 GHz hasta 4.90 GHz)
+- Tarjeta gráfica NVIDIA GeForce MX350, 2 GB GDDR5
+- Almacenamiento de 512GB NVMe PCIe SSD
 
 [Aquí!!!](https://www.amazon.es/dp/B08DRKH8KY/?tag=tolees-21)

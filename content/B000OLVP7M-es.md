@@ -25,7 +25,7 @@ Ahora mismo tienes [Converse Chuck Taylor Hi - Zapatillas para mujer  color blan
 
 🔎:
 
-- La parte superior de cuero
 - La tapa de goma del dedo del pie
+- La parte superior de cuero
 
 [Visítala!!!](https://www.amazon.es/dp/B000OLVP7M/?tag=tolees-21)

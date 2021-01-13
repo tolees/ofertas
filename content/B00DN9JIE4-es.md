@@ -25,8 +25,8 @@ Tienes [Fostprint Complemento Energético con Jalea Real - 300 ml](https://www.a
 
 🔎:
 
+- Fostprint Complemento EnergÃtico con Jalea Real - 300 ml
 - Alimento enriquecido con calcio y vitamina D3 y con las excepcionales propiedades de la jalea real.
 - Producto nuevo. Disfruta de una vida más saludable.
-- Fostprint Complemento EnergÃtico con Jalea Real - 300 ml
 
 [Comprar!!!](https://www.amazon.es/dp/B00DN9JIE4/?tag=tolees-21)

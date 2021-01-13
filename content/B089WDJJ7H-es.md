@@ -25,10 +25,10 @@ Ahora mismo tienes [Xiaomi Mi Electric Scooter PRO 2  Black ](https://www.amazon
 
 🔎:
 
+- Se han seguido los más altos estándares durante el proceso de producción, con el fin de garantizar una excelente experiencia al cliente
 - Diseño minimalista, aluminio de grado
+- Elegante y elegante, portátil y seguro
 - Diseño funcional
 - [Potencia nominal <350V, velocidad max <25km/h, autonomía >20Km, sistema de luces completo alimentado por batería, carga máxima superior a 60Kg]
-- Elegante y elegante, portátil y seguro
-- Se han seguido los más altos estándares durante el proceso de producción, con el fin de garantizar una excelente experiencia al cliente
 
 [Visítala!!!](https://www.amazon.es/dp/B089WDJJ7H/?tag=tolees-21)

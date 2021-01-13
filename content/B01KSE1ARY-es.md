@@ -25,9 +25,9 @@ Está [Engino- Juego de construcción  Multicolor  STEM30 ](https://www.amazon.e
 
 ℹ️:
 
-- Instrucciones paso a paso
 - Juego de construcción
-- Plástico de gran calidad
 - Desarrolla tu imaginación
+- Instrucciones paso a paso
+- Plástico de gran calidad
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01KSE1ARY/?tag=tolees-21)
