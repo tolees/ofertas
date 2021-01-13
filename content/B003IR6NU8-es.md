@@ -26,9 +26,9 @@ En este momento está [Schneider Electric SMX750I Inteligente UPS de APCX 750VA 
 🔎:
 
 - Color: Negro
-- Equipo suministrado: CD con software
 - Número de unidad de rack: 2U
-- Frecuencia de red: 50/60 Hz +/- 3 Hz auto-sensing
 - Tipo de forma de onda: Onda senoidal
+- Equipo suministrado: CD con software
+- Frecuencia de red: 50/60 Hz +/- 3 Hz auto-sensing
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B003IR6NU8/?tag=tolees-21)

@@ -26,8 +26,8 @@ Tienes [Thames & Kosmos Kahuna](https://www.amazon.es/dp/B00T0GY9GG/?tag=tolees-
 🔎:
 
 - Practico y util
-- Fácil de usar
 - Kahuna board game (2-player)
+- Fácil de usar
 - Hecho en España
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00T0GY9GG/?tag=tolees-21)
