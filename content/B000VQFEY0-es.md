@@ -25,11 +25,11 @@ Tienes [Timberland Chocorua Trail Mid Gore-Tex  Botas Mujer  Marrón Dark Brown 
 
 ℹ️:
 
-- Cierre: Cordones
-- Composición: Cuero
 - Material de la suela: Goma
-- Material exterior: Cuero, Nobuck
-- Revestimiento: A rete
 - Altura del tacón: 1 centímetros
+- Material exterior: Cuero, Nobuck
+- Composición: Cuero
+- Revestimiento: A rete
+- Cierre: Cordones
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000VQFEY0/?tag=tolees-21)

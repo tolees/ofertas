@@ -25,10 +25,10 @@ En este momento está [Justdodo Taza Plegable portátil Té de Agua 130 ml Paja 
 
 🔎:
 
-- Diseño original único, muy atractivo y hermoso.
-- Taza plegable multifuncional, puede disfrutar de su café y té.
-- Ligero y portátil, fácil de transportar al exterior.
 - Diseño plegable, adecuado para viajes, oficinas en el hogar y otros lugares.
 - Hecho de material de paja de trigo no tóxico, es ecológico y saludable.
+- Diseño original único, muy atractivo y hermoso.
+- Ligero y portátil, fácil de transportar al exterior.
+- Taza plegable multifuncional, puede disfrutar de su café y té.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B081JZ8JNN/?tag=tolees-21)

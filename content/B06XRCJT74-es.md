@@ -25,10 +25,10 @@ Tienes [Famosa Softies - Osito Boutique  50 cm 700014899](https://www.amazon.es/
 
 🔎:
 
-- Oso de peluche de Famosa Softies
 - Tamaño aproximado: 50 cm
-- Para decorar o regalar
 - Blanco, con las patitas beige y hocico marrón
+- Para decorar o regalar
+- Oso de peluche de Famosa Softies
 - Muy suave y achuchable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06XRCJT74/?tag=tolees-21)

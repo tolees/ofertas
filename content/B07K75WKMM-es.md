@@ -26,7 +26,7 @@ Tienes [Levi s Graphic B Sudadera  Add Crew T2 Hm Midtone Heather Grey  S para H
 ℹ️:
 
 - Modelo casual
-- Tiene estampado la marca Levis
 - Con tacto suave de forro polar
+- Tiene estampado la marca Levis
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07K75WKMM/?tag=tolees-21)

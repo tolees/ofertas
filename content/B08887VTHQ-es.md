@@ -26,9 +26,9 @@ Ahora mismo tienes [Crystals&Stones Mujer plata de ley 925 plata talla pera](htt
 🔎:
 
 - Se envía en caja de regalo con holograma de Swarovski Elements
-- Metal de plata de ley 925 bañada en oro de 24 quilates. Cierre de pinza
 - Compatible con todos los estilos de moda clásicos
-- Diámetro aprox. 22 mm. Longitud de los pendientes: 39 mm
+- Metal de plata de ley 925 bañada en oro de 24 quilates. Cierre de pinza
 - Color: azul bermuda
+- Diámetro aprox. 22 mm. Longitud de los pendientes: 39 mm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08887VTHQ/?tag=tolees-21)
