@@ -25,10 +25,10 @@ En este momento está [AmazonBasics - Pilas alcalinas AAA de 1 5 voltios  gama P
 
 🔎:
 
-- Vida útil de 10 años sin fugas. Su sello hermético contra aire y líquidos conserva la energía hasta que se necesite. Su diseño incluye doble engarce, una nueva composición de zinc y componentes anticorrosivos
 - Para saber más sobre el reciclaje de baterías de un solo uso, copia y pega este enlace en tu navegador: call2recycle.org/what-can-i-recycle
-- Ten en cuenta que estas pilas no son recargables Si deseas comprar una opción recargable, echa un vistazo a las pilas recargables de AmazonBasics
 - Con garantía limitada de 1 año de AmazonBasics y en paquete fácil de abrir
+- Vida útil de 10 años sin fugas. Su sello hermético contra aire y líquidos conserva la energía hasta que se necesite. Su diseño incluye doble engarce, una nueva composición de zinc y componentes anticorrosivos
+- Ten en cuenta que estas pilas no son recargables Si deseas comprar una opción recargable, echa un vistazo a las pilas recargables de AmazonBasics
 - Un paquete de 36 pilas alcalinas AAA de 1,5 voltios de alto rendimiento ideal para una variedad de dispositivos: mandos de videoconsolas, juguetes, linternas, cámaras digitales y relojes.
 - Proporciona la cantidad de energía necesaria para un dispositivo específico. Ideal para mandos de consolas, juguetes, linternas, cámaras digitales, relojes y mucho más
 

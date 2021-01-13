@@ -25,9 +25,9 @@ En este momento está [Lactase Enzyme 100 caps.](https://www.amazon.es/dp/B005QJ
 
 🔎:
 
-- No exceder la dosis diaria recomendada
 - Mantener fuera del alcance de los niños
-- Instrucciones para su uso adecuado: Tomar 1 dosis (1 cápsula) junto con cada comida que contenga lactosa, incluida las bebidas de proteína (suero, caseína, caseinato o leche). (1 cápsula normalmente es suficiente para la digestión de 20-26 g de lactosa. Aproximadamente 400 ml de leche entera contiene esta cantidad de lactosa.)
+- No exceder la dosis diaria recomendada
 - Es un suplemento dietético y debería combinarse con alimentos, no como sustituto de estos
+- Instrucciones para su uso adecuado: Tomar 1 dosis (1 cápsula) junto con cada comida que contenga lactosa, incluida las bebidas de proteína (suero, caseína, caseinato o leche). (1 cápsula normalmente es suficiente para la digestión de 20-26 g de lactosa. Aproximadamente 400 ml de leche entera contiene esta cantidad de lactosa.)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B005QJW4Q8/?tag=tolees-21)

@@ -25,10 +25,10 @@ En este momento está [SANON - SANON Omega 3 6 9 110 cápsulas blandas de 720 mg
 
 🔎:
 
-- Protege el corazón
-- Reducen la formación de trombos.
 - Reducen los niveles de triglicéridos y aumentan el nivel de colesterol bueno.
 - Regulan s la frecuencia cardíaca y la presión sanguínea.
+- Protege el corazón
+- Reducen la formación de trombos.
 - De la marca Sanon
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01M68ZVIT/?tag=tolees-21)

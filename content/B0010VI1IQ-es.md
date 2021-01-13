@@ -25,8 +25,8 @@ Está [Bel Premium Bastoncillos 300 uds.](https://www.amazon.es/dp/B0010VI1IQ/?t
 
 ℹ️:
 
-- Pensar en ti es importante, por eso te ofrecemos los mejores productos.
 - Bel Premium Bastoncillos 300 Pz
 - Para que te sientas bien contigo misma.
+- Pensar en ti es importante, por eso te ofrecemos los mejores productos.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0010VI1IQ/?tag=tolees-21)

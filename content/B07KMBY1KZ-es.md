@@ -25,7 +25,7 @@ Está [Merrell Nova  Zapatillas de Running para Asfalto Hombre  Azul  Sailor   4
 
 ℹ️:
 
-- Cierre de encaje tradicional.
 - Tejido resistente a la abrasión y parte superior de TPU
+- Cierre de encaje tradicional.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KMBY1KZ/?tag=tolees-21)

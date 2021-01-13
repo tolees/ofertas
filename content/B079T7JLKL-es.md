@@ -25,10 +25,10 @@ Ahora mismo tienes [Timex Reloj Cronógrafo para Hombre de Cuarzo con Correa en 
 
 🔎:
 
-- The watch is delivered in an original gift box and has a warranty of 2 years
-- Water resistant: 5 bars -weight: 76 g
 - High quality 21 cm length and 22 mm width green leather strap with a buckle
-- Case diameter: 42 mm, case thickness: 13 mm, case color: silver and dial color: beige
 - Fashionable sporty design, perfect for all kind of sports, indoor and outdoor activities or daily use -the watch has a calendar function: date, luminous hand, 24 hour display, stopwatch
+- Water resistant: 5 bars -weight: 76 g
+- The watch is delivered in an original gift box and has a warranty of 2 years
+- Case diameter: 42 mm, case thickness: 13 mm, case color: silver and dial color: beige
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B079T7JLKL/?tag=tolees-21)

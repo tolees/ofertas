@@ -25,10 +25,10 @@ Ahora mismo tienes [Control Geisha Balls Nivel I - Incluye 2 bolas chinas desenc
 
 🔎:
 
-- Sumergible
 - Ayuda a la mujer a fortalecer los músculos pélvicos
-- Para la practica de ejercicios Kegel
 - Utilizar con lubricante de base acuosa
+- Sumergible
+- Para la practica de ejercicios Kegel
 - No contiene ftalatos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B077KKCNHR/?tag=tolees-21)

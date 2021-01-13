@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Juego de Tronos: La colección completa 4 al 42.27 % de rebaja'
-date: 2021-01-12 15:29:40
+date: 2021-01-13 15:44:06
 image: 'https://m.media-amazon.com/images/I/51O00gsdNCL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08KF6DK4Q/?tag=tolees-21'
 descuento: '42.27'
-average: '179.82812500000003'
+average: '177.8523529411765'
 ---
 
 Tienes [Juego de Tronos: La colección completa 4k UHD [Blu-ray]](https://www.amazon.es/dp/B08KF6DK4Q/?tag=tolees-21) con precio final de  146.24 EUR (original: 253.31 EUR) (42.27 %  de rebaja) aqui!
@@ -26,4 +26,4 @@ Tienes [Juego de Tronos: La colección completa 4k UHD [Blu-ray]](https://www.am
 🔎:
 
 
-[Comprar!!!](https://www.amazon.es/dp/B08KF6DK4Q/?tag=tolees-21)
+[🛒 Comprar!!!](https://www.amazon.es/dp/B08KF6DK4Q/?tag=tolees-21)

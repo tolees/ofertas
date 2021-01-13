@@ -25,10 +25,10 @@ Tienes [IMC Toys 96042 - Eye Attack Innovación](https://www.amazon.es/dp/B06XY9
 
 🔎:
 
-- Es recomendado a mayores de 6 años
 - Es un juego de acción electrónico
+- El modo de juego de uno o dos jugadores
 - Incluye dos pistolas con indicadores led de munición y función de recarga
 - Está hecho de 95% plástico y 5% metal
-- El modo de juego de uno o dos jugadores
+- Es recomendado a mayores de 6 años
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B06XY9SPPK/?tag=tolees-21)

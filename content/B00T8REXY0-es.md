@@ -25,10 +25,10 @@ Tienes [Manfrotto Rótula de 3 Ejes XPRO  Cabezal para Trípode con 3 Ejes de Mo
 
 ℹ️:
 
-- PORTÁTIL: una vez plegada, la cabeza X-PRO 3-Way sólo mide 13 x 13.5 x 13.5cm. El cuerpo de magnesio pesa 750g, lo que lo hace increíblemente ligero y fácil de almacenar o transportar
-- COMPATIBLE: esta cabeza monta la popular placa de 200 PL de Manfrotto, que puede ser usada con una amplia gama de accesorios
-- MÁXIMA PRECISIÓN: gracias a los controles micrométricos en todos los ejes de inclinación puedes ajustar con precisión tus disparos con exactitud ajustando el ángulo
-- RESISTENTE: gracias a su cuerpo de magnesio, este producto es extraordinariamente robusto y capaz de soportar hasta 8 kg
 - MÁXIMA ESTABILIDAD: mantén la cámara en una posición perfectamente estable gracias a las palancas de bloqueo de este cabezal de trípode
+- MÁXIMA PRECISIÓN: gracias a los controles micrométricos en todos los ejes de inclinación puedes ajustar con precisión tus disparos con exactitud ajustando el ángulo
+- COMPATIBLE: esta cabeza monta la popular placa de 200 PL de Manfrotto, que puede ser usada con una amplia gama de accesorios
+- PORTÁTIL: una vez plegada, la cabeza X-PRO 3-Way sólo mide 13 x 13.5 x 13.5cm. El cuerpo de magnesio pesa 750g, lo que lo hace increíblemente ligero y fácil de almacenar o transportar
+- RESISTENTE: gracias a su cuerpo de magnesio, este producto es extraordinariamente robusto y capaz de soportar hasta 8 kg
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00T8REXY0/?tag=tolees-21)

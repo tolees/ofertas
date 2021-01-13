@@ -26,8 +26,8 @@ Ahora mismo tienes [ASUS VZ249HE-W - Monitor fino de 23.8" Full HD  1920x1080  I
 🔎:
 
 - Monitor de 23.8 FullHD (1920x1080) con tecnología IPS y diseño fino para configuraciones de varias pantallas
-- Monitor con Luz azul de baja intensidad y tecnología antiparpadeo para reducir el cansancio ocular
 - Conectividad HDMI, VGA, DVI, D-SUB
+- Monitor con Luz azul de baja intensidad y tecnología antiparpadeo para reducir el cansancio ocular
 - Inclinación adaptable para poder ajustar la posición del monitor
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0777WPMPH/?tag=tolees-21)

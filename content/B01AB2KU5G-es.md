@@ -25,13 +25,13 @@ Tienes [Einhell Expert Martillo perforador y cincelador Power X-Change  TE-HD 18
 
 ℹ️:
 
-- Batería de iones de litio: sin autodescarga, pequeña, ligera, de fácil manejo
-- Incluye luz LED para la iluminación de la zona de trabajo
-- Recepción de herramienta SDS-plus universal con cierre automático
-- 3 funciones: Atornillador, taladro, percutor en hormigón
-- Batería del sistema Power X-Change - también utilizable en otros equipos
-- Motor de gran potencia y engranaje metálico para par de giro elevado
 - Mecanismo percutor neumático para perforación sencilla en el hormigón
+- Batería de iones de litio: sin autodescarga, pequeña, ligera, de fácil manejo
+- Recepción de herramienta SDS-plus universal con cierre automático
+- Incluye luz LED para la iluminación de la zona de trabajo
 - Unidad electrónica de precisión para regular el número de revoluciones para trabajos delicados
+- 3 funciones: Atornillador, taladro, percutor en hormigón
+- Motor de gran potencia y engranaje metálico para par de giro elevado
+- Batería del sistema Power X-Change - también utilizable en otros equipos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01AB2KU5G/?tag=tolees-21)

@@ -25,8 +25,8 @@ Está [Cofan 90014031 Lanza riego 10 Posiciones  77.5x12x8 cm](https://www.amazo
 
 ℹ️:
 
-- Medidas: 77 x 12 x 8 cm
 - Alta calidad
 - Durabilidad
+- Medidas: 77 x 12 x 8 cm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00L1ANEFQ/?tag=tolees-21)

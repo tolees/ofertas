@@ -25,10 +25,10 @@ Tienes [XLS Medical Mantenimiento despues de perder peso - 180 comprimidos](http
 
 ℹ️:
 
-- Reducción de calorías procedentes de las grasas. Acción captagrasas
-- Puede tomarse a largo plazo
-- Producto sanitario. Cumple con la normativa de productos sanitarios. Debe utilizarse con una dieta hipocalórica adecuada, actividad física y estilo de vida saludable. CPSP19162CAT
 - Ayuda a evitar el efecto yo-yo
+- Puede tomarse a largo plazo
 - Ingredientes activos de origen natural.
+- Reducción de calorías procedentes de las grasas. Acción captagrasas
+- Producto sanitario. Cumple con la normativa de productos sanitarios. Debe utilizarse con una dieta hipocalórica adecuada, actividad física y estilo de vida saludable. CPSP19162CAT
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07BB5GGGJ/?tag=tolees-21)

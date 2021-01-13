@@ -27,7 +27,7 @@ Tienes [Brennenstuhl 1508530- Adaptador de viaje inglés](https://www.amazon.es/
 
 - Toma de corriente con seguridad para niños
 - Para enchufar un producto inglés en España
-- Este adaptador de viaje no es un transformador eléctrico ni un convertidor de frecuencia
 - Embalado en Blister
+- Este adaptador de viaje no es un transformador eléctrico ni un convertidor de frecuencia
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000WH0ODY/?tag=tolees-21)

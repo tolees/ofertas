@@ -25,8 +25,8 @@ Ahora mismo tienes [Helly Hansen W Daybreaker 1/2 Zip Fleece  Mujer  Black  M](h
 
 🔎:
 
-- YKK coil 1/2 zip front opening
 - Flatlock seams for low bulk
 - Polartec 100g
+- YKK coil 1/2 zip front opening
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B005KQ3T7A/?tag=tolees-21)
