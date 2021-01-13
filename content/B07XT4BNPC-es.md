@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Yacel For Men Cera Disciplinadora  Fija  al 48.78 % de rebaja'
+date: 2020-08-02 15:15:40
+image: 'https://m.media-amazon.com/images/I/41g277kFyrL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07XT4BNPC-es'
+actualPrice: 5.89 EUR
+currency: EUR
+price: 5.89
+comparePrice: 11.5 EUR
+prodname: 'Yacel For Men Cera Disciplinadora  Fija  Protege e Hidrata Cabello 100ml'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B07XT4BNPC/?tag=tolees-21'
+descuento: '48.78'
+average: '5.89'
+---
+
+Tienes [Yacel For Men Cera Disciplinadora  Fija  Protege e Hidrata Cabello 100ml](https://www.amazon.es/dp/B07XT4BNPC/?tag=tolees-21) con precio final de  5.89 EUR (original: 11.5 EUR) (48.78 %  de rebaja) aqui!
+
+[![Yacel For Men Cera Disciplinadora  Fija ](https://m.media-amazon.com/images/I/41g277kFyrL._SL200_.jpg)](https://www.amazon.es/dp/B07XT4BNPC/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Comprar!!!](https://www.amazon.es/dp/B07XT4BNPC/?tag=tolees-21)

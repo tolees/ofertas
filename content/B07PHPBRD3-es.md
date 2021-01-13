@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Herbalgem - 22450010 - Balsamo consuelda con un 51.29 % de descuento'
+date: 2020-03-13 09:04:45
+image: 'https://m.media-amazon.com/images/I/31bQaU07jUL._SL500_._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07PHPBRD3-es'
+actualPrice: 9.81 EUR
+currency: EUR
+price: 9.81
+comparePrice: 20.14 EUR
+prodname: 'Herbalgem - 22450010 - Balsamo consuelda Bio - 100 ml'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B07PHPBRD3/?tag=tolees-21'
+descuento: '51.29'
+average: '11.9'
+---
+
+En este momento está [Herbalgem - 22450010 - Balsamo consuelda Bio - 100 ml](https://www.amazon.es/dp/B07PHPBRD3/?tag=tolees-21) a 9.81 EUR (original: 20.14 EUR) (51.29 %  de descuento) en el siguiente enlace!
+
+[![Herbalgem - 22450010 - Balsamo consuelda](https://m.media-amazon.com/images/I/31bQaU07jUL._SL500_._SL200_.jpg)](https://www.amazon.es/dp/B07PHPBRD3/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Aquí!!!](https://www.amazon.es/dp/B07PHPBRD3/?tag=tolees-21)

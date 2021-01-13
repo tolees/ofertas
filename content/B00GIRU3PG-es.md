@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'B+W Vario XS-Pro - Filtro ND de 58 mm MR con un 40.37 % de descuento'
+date: 2020-02-15 04:57:05
+image: 'https://m.media-amazon.com/images/I/41tCHxOI3lL._AC_._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B00GIRU3PG-es'
+actualPrice: 156.14 EUR
+currency: EUR
+price: 156.14
+comparePrice: 261.84 EUR
+prodname: 'B+W Vario XS-Pro - Filtro ND de 58 mm MRC Nano'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B00GIRU3PG/?tag=tolees-21'
+descuento: '40.37'
+average: '156.14'
+---
+
+En este momento está [B+W Vario XS-Pro - Filtro ND de 58 mm MRC Nano](https://www.amazon.es/dp/B00GIRU3PG/?tag=tolees-21) a 156.14 EUR (original: 261.84 EUR) (40.37 %  de descuento) en el siguiente enlace!
+
+[![B+W Vario XS-Pro - Filtro ND de 58 mm MR](https://m.media-amazon.com/images/I/41tCHxOI3lL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00GIRU3PG/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Aquí!!!](https://www.amazon.es/dp/B00GIRU3PG/?tag=tolees-21)

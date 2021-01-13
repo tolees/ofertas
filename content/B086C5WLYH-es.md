@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 55.10 % en Funda para Samsung Galaxy Note 10 Lite 3'
+date: 2020-05-28 19:04:06
+image: 'https://m.media-amazon.com/images/I/41hS-GCAmvL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B086C5WLYH-es'
+actualPrice: 4.89 EUR
+currency: EUR
+price: 4.89
+comparePrice: 10.89 EUR
+prodname: 'Funda para Samsung Galaxy Note 10 Lite 360°Full Body Protección [Suave TPU Silicona Delantero] [PC dura Atrás] Transparente Flip Protectora Carcasa para Samsung Galaxy Note 10 Lite  6.7 Pulgadas '
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B086C5WLYH/?tag=tolees-21'
+descuento: '55.10'
+average: '4.89'
+---
+
+Tienes [Funda para Samsung Galaxy Note 10 Lite 360°Full Body Protección [Suave TPU Silicona Delantero] [PC dura Atrás] Transparente Flip Protectora Carcasa para Samsung Galaxy Note 10 Lite  6.7 Pulgadas ](https://www.amazon.es/dp/B086C5WLYH/?tag=tolees-21) con un 55.10 % de descuento con precio de oferta de 4.89 EUR (original: 10.89 EUR) en el siguiente enlace!
+
+[![Funda para Samsung Galaxy Note 10 Lite 3](https://m.media-amazon.com/images/I/41hS-GCAmvL._SL200_.jpg)](https://www.amazon.es/dp/B086C5WLYH/?tag=tolees-21)
+
+ℹ️:
+
+
+[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B086C5WLYH/?tag=tolees-21)

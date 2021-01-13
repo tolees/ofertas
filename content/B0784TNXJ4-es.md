@@ -25,9 +25,9 @@ Tienes [Lacoste PJ2909 Polo  Gris  Argent Chine   1 años para Niños](https://w
 
 🔎:
 
-- Acabados acanalados en el cuello y las mangas
-- Aberturas en el bajo de la prenda con detalles en contraste
-- Camiseta para niños, marca Lacoste
 - Cuello polo con 2 botones
+- Camiseta para niños, marca Lacoste
+- Aberturas en el bajo de la prenda con detalles en contraste
+- Acabados acanalados en el cuello y las mangas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0784TNXJ4/?tag=tolees-21)

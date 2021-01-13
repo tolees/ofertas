@@ -25,10 +25,10 @@ Tienes [Anguila 46015000 Duplogel introducir  Azul 500cc](https://www.amazon.es/
 
 ℹ️:
 
+- No produce efecto cola. No apelmaza los cables
 - Gel lubricantepara guía pasacabels, espeso, casi gelatinoso, con base al agua
-- Elimina hasta el 80% del rozamiento de los cables con las paredes del tubo y otros cables ya instalados
 - No daña la piel. No irritante
 - Evapora sin dejar residuos
-- No produce efecto cola. No apelmaza los cables
+- Elimina hasta el 80% del rozamiento de los cables con las paredes del tubo y otros cables ya instalados
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01G3M0IYQ/?tag=tolees-21)

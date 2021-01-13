@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'New Balance 373v2  Zapatillas para Mujer al 45.07 % de rebaja'
+date: 2020-06-29 09:46:47
+image: 'https://m.media-amazon.com/images/I/41CoW6dKd5L._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07S1PK8R4-es'
+actualPrice: 43.94 EUR
+currency: EUR
+price: 43.94
+comparePrice: 80.0 EUR
+prodname: 'New Balance 373v2  Zapatillas para Mujer  Azul  Navy Be2   36.5 EU'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B07S1PK8R4/?tag=tolees-21'
+descuento: '45.07'
+average: '43.94'
+---
+
+Tienes [New Balance 373v2  Zapatillas para Mujer  Azul  Navy Be2   36.5 EU](https://www.amazon.es/dp/B07S1PK8R4/?tag=tolees-21) con precio final de  43.94 EUR (original: 80.0 EUR) (45.07 %  de rebaja) aqui!
+
+[![New Balance 373v2  Zapatillas para Mujer](https://m.media-amazon.com/images/I/41CoW6dKd5L._SL200_.jpg)](https://www.amazon.es/dp/B07S1PK8R4/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Comprar!!!](https://www.amazon.es/dp/B07S1PK8R4/?tag=tolees-21)

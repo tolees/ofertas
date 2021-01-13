@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'HP CE251A - Cartucho de tóner al 62.89 % de rebaja'
+date: 2020-03-08 05:50:45
+image: 'https://m.media-amazon.com/images/I/41tXS8ZFG2L._AC_._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B001F4UBUE-es'
+actualPrice: 129.82 EUR
+currency: EUR
+price: 129.82
+comparePrice: 349.8 EUR
+prodname: 'HP CE251A - Cartucho de tóner'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B001F4UBUE/?tag=tolees-21'
+descuento: '62.89'
+average: '159.91'
+---
+
+Tienes [HP CE251A - Cartucho de tóner](https://www.amazon.es/dp/B001F4UBUE/?tag=tolees-21) con precio final de  129.82 EUR (original: 349.8 EUR) (62.89 %  de rebaja) aqui!
+
+[![HP CE251A - Cartucho de tóner](https://m.media-amazon.com/images/I/41tXS8ZFG2L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B001F4UBUE/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Comprar!!!](https://www.amazon.es/dp/B001F4UBUE/?tag=tolees-21)

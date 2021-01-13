@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Makita D-41517 - Estuche de llaves de va con un 41.54 % de descuento'
+date: 2020-06-11 06:10:06
+image: 'https://m.media-amazon.com/images/I/41+Xq7sVyeL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B00HG2O8QW-es'
+actualPrice: 37.09 EUR
+currency: EUR
+price: 37.09
+comparePrice: 63.44 EUR
+prodname: 'Makita D-41517 - Estuche de llaves de vaso 9 piezas'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B00HG2O8QW/?tag=tolees-21'
+descuento: '41.54'
+average: '37.09'
+---
+
+En este momento está [Makita D-41517 - Estuche de llaves de vaso 9 piezas](https://www.amazon.es/dp/B00HG2O8QW/?tag=tolees-21) a 37.09 EUR (original: 63.44 EUR) (41.54 %  de descuento) en el siguiente enlace!
+
+[![Makita D-41517 - Estuche de llaves de va](https://m.media-amazon.com/images/I/41+Xq7sVyeL._SL200_.jpg)](https://www.amazon.es/dp/B00HG2O8QW/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Aquí!!!](https://www.amazon.es/dp/B00HG2O8QW/?tag=tolees-21)

@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'New Balance 574v2 Zapatillas Hombre  Gri con un 50.00 % de descuento'
+date: 2020-02-09 16:15:37
+image: 'https://m.media-amazon.com/images/I/41yoHyCBQeL._AC_._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07KG93DZQ-es'
+actualPrice: 45.0 EUR
+currency: EUR
+price: 45.0
+comparePrice: 90.0 EUR
+prodname: 'New Balance 574v2 Zapatillas Hombre  Gris  Grey/Blue Grey/Blue   38 EU'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B07KG93DZQ/?tag=tolees-21'
+descuento: '50.00'
+average: '45.0'
+---
+
+En este momento está [New Balance 574v2 Zapatillas Hombre  Gris  Grey/Blue Grey/Blue   38 EU](https://www.amazon.es/dp/B07KG93DZQ/?tag=tolees-21) a 45.0 EUR (original: 90.0 EUR) (50.00 %  de descuento) en el siguiente enlace!
+
+[![New Balance 574v2 Zapatillas Hombre  Gri](https://m.media-amazon.com/images/I/41yoHyCBQeL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KG93DZQ/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Aquí!!!](https://www.amazon.es/dp/B07KG93DZQ/?tag=tolees-21)

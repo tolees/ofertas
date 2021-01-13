@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'New Balance 997H m  Zapatillas para Muje al 63.20 % de rebaja'
+date: 2020-06-24 19:47:01
+image: 'https://m.media-amazon.com/images/I/41dxLOiCL+L._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07S2YZ4XM-es'
+actualPrice: 33.12 EUR
+currency: EUR
+price: 33.12
+comparePrice: 90.0 EUR
+prodname: 'New Balance 997H m  Zapatillas para Mujer  Azul  Navy/Pink HAO   37.5 EU'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B07S2YZ4XM/?tag=tolees-21'
+descuento: '63.20'
+average: '41.08'
+---
+
+Tienes [New Balance 997H m  Zapatillas para Mujer  Azul  Navy/Pink HAO   37.5 EU](https://www.amazon.es/dp/B07S2YZ4XM/?tag=tolees-21) con precio final de  33.12 EUR (original: 90.0 EUR) (63.20 %  de rebaja) aqui!
+
+[![New Balance 997H m  Zapatillas para Muje](https://m.media-amazon.com/images/I/41dxLOiCL+L._SL200_.jpg)](https://www.amazon.es/dp/B07S2YZ4XM/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Comprar!!!](https://www.amazon.es/dp/B07S2YZ4XM/?tag=tolees-21)

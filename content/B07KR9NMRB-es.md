@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'New Balance 624v5  Zapatillas Deportivas al 63.79 % de rebaja'
+date: 2020-04-03 17:08:33
+image: 'https://m.media-amazon.com/images/I/31VR0523LSL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07KR9NMRB-es'
+actualPrice: 25.35 EUR
+currency: EUR
+price: 25.35
+comparePrice: 70.0 EUR
+prodname: 'New Balance 624v5  Zapatillas Deportivas para Interior para Hombre  Negro  Black/Black Black/Black   45.5 EU'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B07KR9NMRB/?tag=tolees-21'
+descuento: '63.79'
+average: '25.795'
+---
+
+Tienes [New Balance 624v5  Zapatillas Deportivas para Interior para Hombre  Negro  Black/Black Black/Black   45.5 EU](https://www.amazon.es/dp/B07KR9NMRB/?tag=tolees-21) con precio final de  25.35 EUR (original: 70.0 EUR) (63.79 %  de rebaja) aqui!
+
+[![New Balance 624v5  Zapatillas Deportivas](https://m.media-amazon.com/images/I/31VR0523LSL._SL200_.jpg)](https://www.amazon.es/dp/B07KR9NMRB/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Comprar!!!](https://www.amazon.es/dp/B07KR9NMRB/?tag=tolees-21)

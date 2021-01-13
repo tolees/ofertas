@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Tommy Hilfiger X Sujetador estilo bralet al 42.38 % de rebaja'
+date: 2020-10-09 18:37:07
+image: 'https://m.media-amazon.com/images/I/41RkE-1zS9L._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07B6JMXB4-es'
+actualPrice: 22.99 EUR
+currency: EUR
+price: 22.99
+comparePrice: 39.9 EUR
+prodname: 'Tommy Hilfiger X Sujetador estilo bralette  Negro  Black 990   XS para Mujer'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B07B6JMXB4/?tag=tolees-21'
+descuento: '42.38'
+average: '22.99'
+---
+
+Tienes [Tommy Hilfiger X Sujetador estilo bralette  Negro  Black 990   XS para Mujer](https://www.amazon.es/dp/B07B6JMXB4/?tag=tolees-21) con precio final de  22.99 EUR (original: 39.9 EUR) (42.38 %  de rebaja) aqui!
+
+[![Tommy Hilfiger X Sujetador estilo bralet](https://m.media-amazon.com/images/I/41RkE-1zS9L._SL200_.jpg)](https://www.amazon.es/dp/B07B6JMXB4/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Comprar!!!](https://www.amazon.es/dp/B07B6JMXB4/?tag=tolees-21)

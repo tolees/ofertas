@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Prozis Instant Oats  Vainilla - 1250 gr al 39.73 % de descuento'
+date: 2020-03-06 07:20:44
+image: 'https://m.media-amazon.com/images/I/411cz5Dlp4L._AC_._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B071WCQBGS-es'
+actualPrice: 3.99 EUR
+currency: EUR
+price: 3.99
+comparePrice: 6.62 EUR
+prodname: 'Prozis Instant Oats  Vainilla - 1250 gr'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B071WCQBGS/?tag=tolees-21'
+descuento: '39.73'
+average: '3.74'
+---
+
+Está [Prozis Instant Oats  Vainilla - 1250 gr](https://www.amazon.es/dp/B071WCQBGS/?tag=tolees-21) con 39.73 de descuento por 3.99 EUR (original: 6.62 EUR) en el siguiente enlace!
+
+[![Prozis Instant Oats  Vainilla - 1250 gr](https://m.media-amazon.com/images/I/411cz5Dlp4L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B071WCQBGS/?tag=tolees-21)
+
+ℹ️:
+
+
+[🛒 Ver la oferta!!](https://www.amazon.es/dp/B071WCQBGS/?tag=tolees-21)

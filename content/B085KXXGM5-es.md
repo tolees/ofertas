@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 40.55 % en Aire Acondicionado Portatil  Aire Acondi'
+date: 2020-08-04 05:05:49
+image: 'https://m.media-amazon.com/images/I/41ith+9KMSL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B085KXXGM5-es'
+actualPrice: 219.89 EUR
+currency: EUR
+price: 219.89
+comparePrice: 369.89 EUR
+prodname: 'Aire Acondicionado Portatil  Aire Acondicionado Móvil con Cristal de Hielo y Control Remoto  Climatizador Evaporativo Silencioso de Bajo Consumo de Energía con Humidificación para Hogar y Oficina'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B085KXXGM5/?tag=tolees-21'
+descuento: '40.55'
+average: '219.89'
+---
+
+Tienes [Aire Acondicionado Portatil  Aire Acondicionado Móvil con Cristal de Hielo y Control Remoto  Climatizador Evaporativo Silencioso de Bajo Consumo de Energía con Humidificación para Hogar y Oficina](https://www.amazon.es/dp/B085KXXGM5/?tag=tolees-21) con un 40.55 % de descuento con precio de oferta de 219.89 EUR (original: 369.89 EUR) en el siguiente enlace!
+
+[![Aire Acondicionado Portatil  Aire Acondi](https://m.media-amazon.com/images/I/41ith+9KMSL._SL200_.jpg)](https://www.amazon.es/dp/B085KXXGM5/?tag=tolees-21)
+
+ℹ️:
+
+
+[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B085KXXGM5/?tag=tolees-21)

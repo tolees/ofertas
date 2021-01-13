@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Hummel - Short CHEVRON Blanc / Noir Tail al 55.41 % de rebaja'
+date: 2020-09-23 15:01:29
+image: 'https://m.media-amazon.com/images/I/41Ko90EvwBL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B01EX6NX4Q-es'
+actualPrice: 8.69 EUR
+currency: EUR
+price: 8.69
+comparePrice: 19.49 EUR
+prodname: 'Hummel - Short CHEVRON Blanc / Noir Taille - S'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B01EX6NX4Q/?tag=tolees-21'
+descuento: '55.41'
+average: '8.69'
+---
+
+Tienes [Hummel - Short CHEVRON Blanc / Noir Taille - S](https://www.amazon.es/dp/B01EX6NX4Q/?tag=tolees-21) con precio final de  8.69 EUR (original: 19.49 EUR) (55.41 %  de rebaja) aqui!
+
+[![Hummel - Short CHEVRON Blanc / Noir Tail](https://m.media-amazon.com/images/I/41Ko90EvwBL._SL200_.jpg)](https://www.amazon.es/dp/B01EX6NX4Q/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Comprar!!!](https://www.amazon.es/dp/B01EX6NX4Q/?tag=tolees-21)

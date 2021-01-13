@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Lee Extreme Motion Short Pantalones Cort al 58.98 % de descuento'
+date: 2020-08-01 16:55:03
+image: 'https://m.media-amazon.com/images/I/418H+g+RcqL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07VFQ1QRK-es'
+actualPrice: 20.49 EUR
+currency: EUR
+price: 20.49
+comparePrice: 49.95 EUR
+prodname: 'Lee Extreme Motion Short Pantalones Cortos  Verde  Khaki 08   50  Talla del Fabricante: 29  para Hombre'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B07VFQ1QRK/?tag=tolees-21'
+descuento: '58.98'
+average: '20.6825'
+---
+
+Está [Lee Extreme Motion Short Pantalones Cortos  Verde  Khaki 08   50  Talla del Fabricante: 29  para Hombre](https://www.amazon.es/dp/B07VFQ1QRK/?tag=tolees-21) con 58.98 de descuento por 20.49 EUR (original: 49.95 EUR) en el siguiente enlace!
+
+[![Lee Extreme Motion Short Pantalones Cort](https://m.media-amazon.com/images/I/418H+g+RcqL._SL200_.jpg)](https://www.amazon.es/dp/B07VFQ1QRK/?tag=tolees-21)
+
+ℹ️:
+
+
+[🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VFQ1QRK/?tag=tolees-21)

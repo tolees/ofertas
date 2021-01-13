@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Orbegozo TB2203 TB 2203-Tabla de asado   al 35.40 % de descuento'
+date: 2020-09-23 08:50:31
+image: 'https://m.media-amazon.com/images/I/31Xc38zzxlL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B0055ZT1YQ-es'
+actualPrice: 21.9 EUR
+currency: EUR
+price: 21.9
+comparePrice: 33.9 EUR
+prodname: 'Orbegozo TB2203 TB 2203-Tabla de asado  220 x 430 mm  2000 W  Negro'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B0055ZT1YQ/?tag=tolees-21'
+descuento: '35.40'
+average: '22.499999999999996'
+---
+
+Está [Orbegozo TB2203 TB 2203-Tabla de asado  220 x 430 mm  2000 W  Negro](https://www.amazon.es/dp/B0055ZT1YQ/?tag=tolees-21) con 35.40 de descuento por 21.9 EUR (original: 33.9 EUR) en el siguiente enlace!
+
+[![Orbegozo TB2203 TB 2203-Tabla de asado  ](https://m.media-amazon.com/images/I/31Xc38zzxlL._SL200_.jpg)](https://www.amazon.es/dp/B0055ZT1YQ/?tag=tolees-21)
+
+ℹ️:
+
+
+[🛒 Ver la oferta!!](https://www.amazon.es/dp/B0055ZT1YQ/?tag=tolees-21)

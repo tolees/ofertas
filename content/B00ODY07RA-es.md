@@ -25,8 +25,8 @@ Ahora mismo tienes [DeWalt DT70512T-QZ Juego de 14 Piezas para Atornillar con 2 
 
 🔎:
 
-- Duraderos y robustos
 - Diseñados para los profesionales y las altas demandas
 - Accesorio de dewalt
+- Duraderos y robustos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00ODY07RA/?tag=tolees-21)

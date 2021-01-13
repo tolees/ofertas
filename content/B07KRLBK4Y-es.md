@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'New Balance Cm997hv1  Zapatillas para Ho al 52.44 % de rebaja'
+date: 2020-01-30 09:46:19
+image: 'https://m.media-amazon.com/images/I/41HplG-8fAL._AC_._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07KRLBK4Y-es'
+actualPrice: 42.8 EUR
+currency: EUR
+price: 42.8
+comparePrice: 90.0 EUR
+prodname: 'New Balance Cm997hv1  Zapatillas para Hombre  Blanco  White/Blue White/Blue   45 EU'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B07KRLBK4Y/?tag=tolees-21'
+descuento: '52.44'
+average: '42.8'
+---
+
+Tienes [New Balance Cm997hv1  Zapatillas para Hombre  Blanco  White/Blue White/Blue   45 EU](https://www.amazon.es/dp/B07KRLBK4Y/?tag=tolees-21) con precio final de  42.8 EUR (original: 90.0 EUR) (52.44 %  de rebaja) aqui!
+
+[![New Balance Cm997hv1  Zapatillas para Ho](https://m.media-amazon.com/images/I/41HplG-8fAL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KRLBK4Y/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Comprar!!!](https://www.amazon.es/dp/B07KRLBK4Y/?tag=tolees-21)

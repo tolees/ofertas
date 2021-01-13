@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Rollei C6i Trípode Carbono al 51.34 % de descuento'
+date: 2020-10-07 09:37:27
+image: 'https://m.media-amazon.com/images/I/41Tvcz1003L._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B01LW19QX2-es'
+actualPrice: 145.97 EUR
+currency: EUR
+price: 145.97
+comparePrice: 299.99 EUR
+prodname: 'Rollei C6i Trípode Carbono'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B01LW19QX2/?tag=tolees-21'
+descuento: '51.34'
+average: '145.97'
+---
+
+Ahora mismo tienes [Rollei C6i Trípode Carbono](https://www.amazon.es/dp/B01LW19QX2/?tag=tolees-21) a 145.97 EUR (original: 299.99 EUR) (51.34 %  de descuento) en el siguiente enlace!
+
+[![Rollei C6i Trípode Carbono](https://m.media-amazon.com/images/I/41Tvcz1003L._SL200_.jpg)](https://www.amazon.es/dp/B01LW19QX2/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Visítala!!!](https://www.amazon.es/dp/B01LW19QX2/?tag=tolees-21)

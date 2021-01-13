@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'SALOMON Speed Pro 1 Par de Calcetines To al 56.57 % de descuento'
+date: 2020-03-11 08:28:57
+image: 'https://m.media-amazon.com/images/I/21ZmgdgxrTL._AC_._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B01MCZAQC2-es'
+actualPrice: 6.08 EUR
+currency: EUR
+price: 6.08
+comparePrice: 14.0 EUR
+prodname: 'SALOMON Speed Pro 1 Par de Calcetines Tobilleros  Unisex Adulto  Negro/Blanco  S  36-38 '
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B01MCZAQC2/?tag=tolees-21'
+descuento: '56.57'
+average: '5.6'
+---
+
+Ahora mismo tienes [SALOMON Speed Pro 1 Par de Calcetines Tobilleros  Unisex Adulto  Negro/Blanco  S  36-38 ](https://www.amazon.es/dp/B01MCZAQC2/?tag=tolees-21) a 6.08 EUR (original: 14.0 EUR) (56.57 %  de descuento) en el siguiente enlace!
+
+[![SALOMON Speed Pro 1 Par de Calcetines To](https://m.media-amazon.com/images/I/21ZmgdgxrTL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01MCZAQC2/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Visítala!!!](https://www.amazon.es/dp/B01MCZAQC2/?tag=tolees-21)

@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'DOHUI Funda LG Q61  2 en 1 Robusta Carca al 57.14 % de rebaja'
+date: 2020-06-10 15:50:25
+image: 'https://m.media-amazon.com/images/I/41NBVERHe4L._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B089NYRDDP-es'
+actualPrice: 4.5 EUR
+currency: EUR
+price: 4.5
+comparePrice: 10.5 EUR
+prodname: 'DOHUI Funda LG Q61  2 en 1 Robusta Carcasa Híbrida TPU + PC de Doble Capa Anti-arañazos Caso con Soporte para LG Q61  Azul '
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B089NYRDDP/?tag=tolees-21'
+descuento: '57.14'
+average: '4.5'
+---
+
+Tienes [DOHUI Funda LG Q61  2 en 1 Robusta Carcasa Híbrida TPU + PC de Doble Capa Anti-arañazos Caso con Soporte para LG Q61  Azul ](https://www.amazon.es/dp/B089NYRDDP/?tag=tolees-21) con precio final de  4.5 EUR (original: 10.5 EUR) (57.14 %  de rebaja) aqui!
+
+[![DOHUI Funda LG Q61  2 en 1 Robusta Carca](https://m.media-amazon.com/images/I/41NBVERHe4L._SL200_.jpg)](https://www.amazon.es/dp/B089NYRDDP/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Comprar!!!](https://www.amazon.es/dp/B089NYRDDP/?tag=tolees-21)

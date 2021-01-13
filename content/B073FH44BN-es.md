@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'KLIM™ Breeze - Ventilador USB de Escrito al 67.55 % de rebaja'
+date: 2020-08-25 18:12:03
+image: 'https://m.media-amazon.com/images/I/51FbilWSTCL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B073FH44BN-es'
+actualPrice: 12.97 EUR
+currency: EUR
+price: 12.97
+comparePrice: 39.97 EUR
+prodname: 'KLIM™ Breeze - Ventilador USB de Escritorio de Alto Desempeño – Ventilador de Mesa – Silencioso y Ajustable - Blanco [Nueva Versión 2020 ]'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B073FH44BN/?tag=tolees-21'
+descuento: '67.55'
+average: '17.163'
+---
+
+Tienes [KLIM™ Breeze - Ventilador USB de Escritorio de Alto Desempeño – Ventilador de Mesa – Silencioso y Ajustable - Blanco [Nueva Versión 2020 ]](https://www.amazon.es/dp/B073FH44BN/?tag=tolees-21) con precio final de  12.97 EUR (original: 39.97 EUR) (67.55 %  de rebaja) aqui!
+
+[![KLIM™ Breeze - Ventilador USB de Escrito](https://m.media-amazon.com/images/I/51FbilWSTCL._SL200_.jpg)](https://www.amazon.es/dp/B073FH44BN/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Comprar!!!](https://www.amazon.es/dp/B073FH44BN/?tag=tolees-21)

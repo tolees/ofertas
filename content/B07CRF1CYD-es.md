@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Pepe Jeans Aitana Pantalones Cortos   Mu al 63.79 % de descuento'
+date: 2020-06-22 19:25:51
+image: 'https://m.media-amazon.com/images/I/41KzIO74wlL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07CRF1CYD-es'
+actualPrice: 11.85 EUR
+currency: EUR
+price: 11.85
+comparePrice: 32.73 EUR
+prodname: 'Pepe Jeans Aitana Pantalones Cortos   Multi Bleu 0aa   6 años para Niñas'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B07CRF1CYD/?tag=tolees-21'
+descuento: '63.79'
+average: '11.85'
+---
+
+Está [Pepe Jeans Aitana Pantalones Cortos   Multi Bleu 0aa   6 años para Niñas](https://www.amazon.es/dp/B07CRF1CYD/?tag=tolees-21) con 63.79 de descuento por 11.85 EUR (original: 32.73 EUR) en el siguiente enlace!
+
+[![Pepe Jeans Aitana Pantalones Cortos   Mu](https://m.media-amazon.com/images/I/41KzIO74wlL._SL200_.jpg)](https://www.amazon.es/dp/B07CRF1CYD/?tag=tolees-21)
+
+ℹ️:
+
+
+[🛒 Ver la oferta!!](https://www.amazon.es/dp/B07CRF1CYD/?tag=tolees-21)

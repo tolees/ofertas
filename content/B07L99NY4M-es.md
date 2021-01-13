@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Nike Legend React 2  Zapatillas de Trail al 35.51 % de rebaja'
+date: 2020-05-28 10:53:43
+image: 'https://m.media-amazon.com/images/I/31VOyuRO9CL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07L99NY4M-es'
+actualPrice: 64.49 EUR
+currency: EUR
+price: 64.49
+comparePrice: 100.0 EUR
+prodname: 'Nike Legend React 2  Zapatillas de Trail Running para Hombre  Blanco  White/Pure Platinum 100   46 EU'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B07L99NY4M/?tag=tolees-21'
+descuento: '35.51'
+average: '64.49'
+---
+
+Tienes [Nike Legend React 2  Zapatillas de Trail Running para Hombre  Blanco  White/Pure Platinum 100   46 EU](https://www.amazon.es/dp/B07L99NY4M/?tag=tolees-21) con precio final de  64.49 EUR (original: 100.0 EUR) (35.51 %  de rebaja) aqui!
+
+[![Nike Legend React 2  Zapatillas de Trail](https://m.media-amazon.com/images/I/31VOyuRO9CL._SL200_.jpg)](https://www.amazon.es/dp/B07L99NY4M/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Comprar!!!](https://www.amazon.es/dp/B07L99NY4M/?tag=tolees-21)

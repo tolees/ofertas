@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Skechers Men s ULTRA FLEX 2.0 KELMER Tra con un 36.54 % de descuento'
+date: 2020-08-07 19:11:37
+image: 'https://m.media-amazon.com/images/I/31hEG722-fL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07NTXVTY8-es'
+actualPrice: 41.22 EUR
+currency: EUR
+price: 41.22
+comparePrice: 64.95 EUR
+prodname: 'Skechers Men s ULTRA FLEX 2.0 KELMER Trainers  Blue  Black Engineered Mesh/Synthetic/Gray Trim Bkgy   7  41 EU '
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B07NTXVTY8/?tag=tolees-21'
+descuento: '36.54'
+average: '38.0875'
+---
+
+En este momento está [Skechers Men s ULTRA FLEX 2.0 KELMER Trainers  Blue  Black Engineered Mesh/Synthetic/Gray Trim Bkgy   7  41 EU ](https://www.amazon.es/dp/B07NTXVTY8/?tag=tolees-21) a 41.22 EUR (original: 64.95 EUR) (36.54 %  de descuento) en el siguiente enlace!
+
+[![Skechers Men s ULTRA FLEX 2.0 KELMER Tra](https://m.media-amazon.com/images/I/31hEG722-fL._SL200_.jpg)](https://www.amazon.es/dp/B07NTXVTY8/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Aquí!!!](https://www.amazon.es/dp/B07NTXVTY8/?tag=tolees-21)

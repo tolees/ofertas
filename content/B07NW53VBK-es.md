@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Skechers Street Cleats 2  Zapatillas par con un 62.33 % de descuento'
+date: 2020-02-11 13:19:42
+image: 'https://m.media-amazon.com/images/I/41Eq93A-ZQL._AC_._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07NW53VBK-es'
+actualPrice: 26.35 EUR
+currency: EUR
+price: 26.35
+comparePrice: 69.95 EUR
+prodname: 'Skechers Street Cleats 2  Zapatillas para Mujer  Olive Suede/Duraleather Trim #Flash Old  5 EU'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B07NW53VBK/?tag=tolees-21'
+descuento: '62.33'
+average: '26.35'
+---
+
+En este momento está [Skechers Street Cleats 2  Zapatillas para Mujer  Olive Suede/Duraleather Trim #Flash Old  5 EU](https://www.amazon.es/dp/B07NW53VBK/?tag=tolees-21) a 26.35 EUR (original: 69.95 EUR) (62.33 %  de descuento) en el siguiente enlace!
+
+[![Skechers Street Cleats 2  Zapatillas par](https://m.media-amazon.com/images/I/41Eq93A-ZQL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07NW53VBK/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Aquí!!!](https://www.amazon.es/dp/B07NW53VBK/?tag=tolees-21)

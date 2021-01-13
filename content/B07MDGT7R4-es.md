@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Skechers Girls  OMNE SCHOLASTIC STYLE Tr al 49.86 % de rebaja'
+date: 2020-02-12 03:07:56
+image: 'https://m.media-amazon.com/images/I/31yi2n+uwnL._AC_._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07MDGT7R4-es'
+actualPrice: 22.54 EUR
+currency: EUR
+price: 22.54
+comparePrice: 44.95 EUR
+prodname: 'Skechers Girls  OMNE SCHOLASTIC STYLE Trainers  Black  Black Dura Leather Bbk   5  38 EU '
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B07MDGT7R4/?tag=tolees-21'
+descuento: '49.86'
+average: '22.54'
+---
+
+Tienes [Skechers Girls  OMNE SCHOLASTIC STYLE Trainers  Black  Black Dura Leather Bbk   5  38 EU ](https://www.amazon.es/dp/B07MDGT7R4/?tag=tolees-21) con precio final de  22.54 EUR (original: 44.95 EUR) (49.86 %  de rebaja) aqui!
+
+[![Skechers Girls  OMNE SCHOLASTIC STYLE Tr](https://m.media-amazon.com/images/I/31yi2n+uwnL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07MDGT7R4/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Comprar!!!](https://www.amazon.es/dp/B07MDGT7R4/?tag=tolees-21)

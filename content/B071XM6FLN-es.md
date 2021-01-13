@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Tommy Hilfiger Demi Lift Sujetador  Negr al 52.28 % de descuento'
+date: 2020-09-28 08:52:00
+image: 'https://m.media-amazon.com/images/I/417kWVW3MyL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B071XM6FLN-es'
+actualPrice: 21.95 EUR
+currency: EUR
+price: 21.95
+comparePrice: 46.0 EUR
+prodname: 'Tommy Hilfiger Demi Lift Sujetador  Negro  Black 001   80DD  Talla del Fabricante: DD36  para Mujer'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B071XM6FLN/?tag=tolees-21'
+descuento: '52.28'
+average: '21.95'
+---
+
+Está [Tommy Hilfiger Demi Lift Sujetador  Negro  Black 001   80DD  Talla del Fabricante: DD36  para Mujer](https://www.amazon.es/dp/B071XM6FLN/?tag=tolees-21) con 52.28 de descuento por 21.95 EUR (original: 46.0 EUR) en el siguiente enlace!
+
+[![Tommy Hilfiger Demi Lift Sujetador  Negr](https://m.media-amazon.com/images/I/417kWVW3MyL._SL200_.jpg)](https://www.amazon.es/dp/B071XM6FLN/?tag=tolees-21)
+
+ℹ️:
+
+
+[🛒 Ver la oferta!!](https://www.amazon.es/dp/B071XM6FLN/?tag=tolees-21)

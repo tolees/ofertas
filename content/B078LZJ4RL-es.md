@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Tonerahorro CF279A XL - Toner laser  col al 41.76 % de rebaja'
+date: 2020-04-03 03:22:20
+image: 'https://m.media-amazon.com/images/I/51e8TG15ZmL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B078LZJ4RL-es'
+actualPrice: 6.96 EUR
+currency: EUR
+price: 6.96
+comparePrice: 11.95 EUR
+prodname: 'Tonerahorro CF279A XL - Toner laser  color negro 2500 paginas. GARANTIA DE POR VIDA'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B078LZJ4RL/?tag=tolees-21'
+descuento: '41.76'
+average: '6.96'
+---
+
+Tienes [Tonerahorro CF279A XL - Toner laser  color negro 2500 paginas. GARANTIA DE POR VIDA](https://www.amazon.es/dp/B078LZJ4RL/?tag=tolees-21) con precio final de  6.96 EUR (original: 11.95 EUR) (41.76 %  de rebaja) aqui!
+
+[![Tonerahorro CF279A XL - Toner laser  col](https://m.media-amazon.com/images/I/51e8TG15ZmL._SL200_.jpg)](https://www.amazon.es/dp/B078LZJ4RL/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Comprar!!!](https://www.amazon.es/dp/B078LZJ4RL/?tag=tolees-21)

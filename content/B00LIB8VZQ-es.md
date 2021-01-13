@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Fantasy Flight Games- Tie Fantasma  Mult con un 46.56 % de descuento'
+date: 2020-10-05 11:40:31
+image: 'https://m.media-amazon.com/images/I/41+BqVOGXFL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B00LIB8VZQ-es'
+actualPrice: 7.99 EUR
+currency: EUR
+price: 7.99
+comparePrice: 14.95 EUR
+prodname: 'Fantasy Flight Games- Tie Fantasma  Multicolor  FFSWX19 '
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B00LIB8VZQ/?tag=tolees-21'
+descuento: '46.56'
+average: '7.99'
+---
+
+En este momento está [Fantasy Flight Games- Tie Fantasma  Multicolor  FFSWX19 ](https://www.amazon.es/dp/B00LIB8VZQ/?tag=tolees-21) a 7.99 EUR (original: 14.95 EUR) (46.56 %  de descuento) en el siguiente enlace!
+
+[![Fantasy Flight Games- Tie Fantasma  Mult](https://m.media-amazon.com/images/I/41+BqVOGXFL._SL200_.jpg)](https://www.amazon.es/dp/B00LIB8VZQ/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Aquí!!!](https://www.amazon.es/dp/B00LIB8VZQ/?tag=tolees-21)

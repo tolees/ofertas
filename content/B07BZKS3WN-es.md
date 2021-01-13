@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Kelme - Zapatillas K-goleiro 17 con un 50.00 % de descuento'
+date: 2020-04-21 19:05:09
+image: 'https://m.media-amazon.com/images/I/31bUpjB92qL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07BZKS3WN-es'
+actualPrice: 21.0 EUR
+currency: EUR
+price: 21.0
+comparePrice: 42.0 EUR
+prodname: 'Kelme - Zapatillas K-goleiro 17'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B07BZKS3WN/?tag=tolees-21'
+descuento: '50.00'
+average: '21.0'
+---
+
+En este momento está [Kelme - Zapatillas K-goleiro 17](https://www.amazon.es/dp/B07BZKS3WN/?tag=tolees-21) a 21.0 EUR (original: 42.0 EUR) (50.00 %  de descuento) en el siguiente enlace!
+
+[![Kelme - Zapatillas K-goleiro 17](https://m.media-amazon.com/images/I/31bUpjB92qL._SL200_.jpg)](https://www.amazon.es/dp/B07BZKS3WN/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Aquí!!!](https://www.amazon.es/dp/B07BZKS3WN/?tag=tolees-21)

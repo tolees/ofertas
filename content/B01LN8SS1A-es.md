@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Britax Römer Evolva 123 SL SICT - Silla  al 42.24 % de descuento'
+date: 2020-05-28 14:27:46
+image: 'https://m.media-amazon.com/images/I/51kYxRZ7pbL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B01LN8SS1A-es'
+actualPrice: 199.9 EUR
+currency: EUR
+price: 199.9
+comparePrice: 346.06 EUR
+prodname: 'Britax Römer Evolva 123 SL SICT - Silla de coche  grupo 1/2/3  9-36 kg   color Black Marble'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B01LN8SS1A/?tag=tolees-21'
+descuento: '42.24'
+average: '195.23285714285714'
+---
+
+Está [Britax Römer Evolva 123 SL SICT - Silla de coche  grupo 1/2/3  9-36 kg   color Black Marble](https://www.amazon.es/dp/B01LN8SS1A/?tag=tolees-21) con 42.24 de descuento por 199.9 EUR (original: 346.06 EUR) en el siguiente enlace!
+
+[![Britax Römer Evolva 123 SL SICT - Silla ](https://m.media-amazon.com/images/I/51kYxRZ7pbL._SL200_.jpg)](https://www.amazon.es/dp/B01LN8SS1A/?tag=tolees-21)
+
+ℹ️:
+
+
+[🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LN8SS1A/?tag=tolees-21)

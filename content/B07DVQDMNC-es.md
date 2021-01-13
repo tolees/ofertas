@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'New Balance Rubix  Zapatillas de Running al 81.02 % de descuento'
+date: 2020-03-15 09:48:22
+image: 'https://m.media-amazon.com/images/I/41JfqUDh59L._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07DVQDMNC-es'
+actualPrice: 34.16 EUR
+currency: EUR
+price: 34.16
+comparePrice: 180.0 EUR
+prodname: 'New Balance Rubix  Zapatillas de Running para Mujer  Blanc  40.5 EU'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B07DVQDMNC/?tag=tolees-21'
+descuento: '81.02'
+average: '34.42333333333333'
+---
+
+Ahora mismo tienes [New Balance Rubix  Zapatillas de Running para Mujer  Blanc  40.5 EU](https://www.amazon.es/dp/B07DVQDMNC/?tag=tolees-21) a 34.16 EUR (original: 180.0 EUR) (81.02 %  de descuento) en el siguiente enlace!
+
+[![New Balance Rubix  Zapatillas de Running](https://m.media-amazon.com/images/I/41JfqUDh59L._SL200_.jpg)](https://www.amazon.es/dp/B07DVQDMNC/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Visítala!!!](https://www.amazon.es/dp/B07DVQDMNC/?tag=tolees-21)

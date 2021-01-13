@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Under Armour UA Charged Impulse  Zapatil al 40.26 % de rebaja'
+date: 2020-06-25 04:48:24
+image: 'https://m.media-amazon.com/images/I/41-I13ru0OL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07NNV7GX9-es'
+actualPrice: 41.79 EUR
+currency: EUR
+price: 41.79
+comparePrice: 69.95 EUR
+prodname: 'Under Armour UA Charged Impulse  Zapatillas de Running para Hombre  Blanco  White/Halo Gray/Academy   42.5 EU'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B07NNV7GX9/?tag=tolees-21'
+descuento: '40.26'
+average: '41.79'
+---
+
+Tienes [Under Armour UA Charged Impulse  Zapatillas de Running para Hombre  Blanco  White/Halo Gray/Academy   42.5 EU](https://www.amazon.es/dp/B07NNV7GX9/?tag=tolees-21) con precio final de  41.79 EUR (original: 69.95 EUR) (40.26 %  de rebaja) aqui!
+
+[![Under Armour UA Charged Impulse  Zapatil](https://m.media-amazon.com/images/I/41-I13ru0OL._SL200_.jpg)](https://www.amazon.es/dp/B07NNV7GX9/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Comprar!!!](https://www.amazon.es/dp/B07NNV7GX9/?tag=tolees-21)

@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'RUNCCI-YUN 8dBi 2 4 GHz 5 GHz Dual Band  al 41.20 % de rebaja'
+date: 2020-08-29 18:12:27
+image: 'https://m.media-amazon.com/images/I/41mam864uLL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B089DYLZGY-es'
+actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
+comparePrice: 16.99 EUR
+prodname: 'RUNCCI-YUN 8dBi 2 4 GHz 5 GHz Dual Band WiFi RP-SMA Antena + 2 x 20cm IPEX a RP-SMA Hembra Cable Pigtail l para NGFF/M.2 WiFi'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B089DYLZGY/?tag=tolees-21'
+descuento: '41.20'
+average: '9.99'
+---
+
+Tienes [RUNCCI-YUN 8dBi 2 4 GHz 5 GHz Dual Band WiFi RP-SMA Antena + 2 x 20cm IPEX a RP-SMA Hembra Cable Pigtail l para NGFF/M.2 WiFi](https://www.amazon.es/dp/B089DYLZGY/?tag=tolees-21) con precio final de  9.99 EUR (original: 16.99 EUR) (41.20 %  de rebaja) aqui!
+
+[![RUNCCI-YUN 8dBi 2 4 GHz 5 GHz Dual Band ](https://m.media-amazon.com/images/I/41mam864uLL._SL200_.jpg)](https://www.amazon.es/dp/B089DYLZGY/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Comprar!!!](https://www.amazon.es/dp/B089DYLZGY/?tag=tolees-21)

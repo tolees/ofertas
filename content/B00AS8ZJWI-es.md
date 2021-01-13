@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Cata M98536 - Extractor helicoidal lhv-2 con un 38.84 % de descuento'
+date: 2020-08-09 19:07:36
+image: 'https://m.media-amazon.com/images/I/31FnaBgu4AL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B00AS8ZJWI-es'
+actualPrice: 37.0 EUR
+currency: EUR
+price: 37.0
+comparePrice: 60.5 EUR
+prodname: 'Cata M98536 - Extractor helicoidal lhv-225'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B00AS8ZJWI/?tag=tolees-21'
+descuento: '38.84'
+average: '37.0'
+---
+
+En este momento está [Cata M98536 - Extractor helicoidal lhv-225](https://www.amazon.es/dp/B00AS8ZJWI/?tag=tolees-21) a 37.0 EUR (original: 60.5 EUR) (38.84 %  de descuento) en el siguiente enlace!
+
+[![Cata M98536 - Extractor helicoidal lhv-2](https://m.media-amazon.com/images/I/31FnaBgu4AL._SL200_.jpg)](https://www.amazon.es/dp/B00AS8ZJWI/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Aquí!!!](https://www.amazon.es/dp/B00AS8ZJWI/?tag=tolees-21)

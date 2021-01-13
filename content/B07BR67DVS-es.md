@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Maisto- Jeep Grand Cherokee Laredo  Colo al 37.51 % de descuento'
+date: 2020-01-26 07:02:50
+image: 'https://m.media-amazon.com/images/I/41+Uif7TmXL._AC_._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07BR67DVS-es'
+actualPrice: 5.38 EUR
+currency: EUR
+price: 5.38
+comparePrice: 8.61 EUR
+prodname: 'Maisto- Jeep Grand Cherokee Laredo  Color Dorado  31205GD '
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B07BR67DVS/?tag=tolees-21'
+descuento: '37.51'
+average: '5.38'
+---
+
+Ahora mismo tienes [Maisto- Jeep Grand Cherokee Laredo  Color Dorado  31205GD ](https://www.amazon.es/dp/B07BR67DVS/?tag=tolees-21) a 5.38 EUR (original: 8.61 EUR) (37.51 %  de descuento) en el siguiente enlace!
+
+[![Maisto- Jeep Grand Cherokee Laredo  Colo](https://m.media-amazon.com/images/I/41+Uif7TmXL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07BR67DVS/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Visítala!!!](https://www.amazon.es/dp/B07BR67DVS/?tag=tolees-21)

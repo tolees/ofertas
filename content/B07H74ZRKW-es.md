@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'DEK - Zapatillas Deportivas de Memory Fo al 40.45 % de rebaja'
+date: 2020-05-20 08:34:59
+image: 'https://m.media-amazon.com/images/I/41XkxNcAW-L._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07H74ZRKW-es'
+actualPrice: 18.7 EUR
+currency: EUR
+price: 18.7
+comparePrice: 31.4 EUR
+prodname: 'DEK - Zapatillas Deportivas de Memory Foam para Chico Hombre  45 EU   Gris Oscuro '
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B07H74ZRKW/?tag=tolees-21'
+descuento: '40.45'
+average: '18.7'
+---
+
+Tienes [DEK - Zapatillas Deportivas de Memory Foam para Chico Hombre  45 EU   Gris Oscuro ](https://www.amazon.es/dp/B07H74ZRKW/?tag=tolees-21) con precio final de  18.7 EUR (original: 31.4 EUR) (40.45 %  de rebaja) aqui!
+
+[![DEK - Zapatillas Deportivas de Memory Fo](https://m.media-amazon.com/images/I/41XkxNcAW-L._SL200_.jpg)](https://www.amazon.es/dp/B07H74ZRKW/?tag=tolees-21)
+
+🔎:
+
+
+[🛒 Comprar!!!](https://www.amazon.es/dp/B07H74ZRKW/?tag=tolees-21)

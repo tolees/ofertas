@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Schwarzkopf Professional Osis Mighty Ult al 62.85 % de descuento'
+date: 2020-05-27 20:52:01
+image: 'https://m.media-amazon.com/images/I/41gjRBSkiAL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B01CWXHAZK-es'
+actualPrice: 5.87 EUR
+currency: EUR
+price: 5.87
+comparePrice: 15.8 EUR
+prodname: 'Schwarzkopf Professional Osis Mighty Ultra Strong Matte Tratamiento Capilar - 85 ml'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B01CWXHAZK/?tag=tolees-21'
+descuento: '62.85'
+average: '5.87'
+---
+
+Está [Schwarzkopf Professional Osis Mighty Ultra Strong Matte Tratamiento Capilar - 85 ml](https://www.amazon.es/dp/B01CWXHAZK/?tag=tolees-21) con 62.85 de descuento por 5.87 EUR (original: 15.8 EUR) en el siguiente enlace!
+
+[![Schwarzkopf Professional Osis Mighty Ult](https://m.media-amazon.com/images/I/41gjRBSkiAL._SL200_.jpg)](https://www.amazon.es/dp/B01CWXHAZK/?tag=tolees-21)
+
+ℹ️:
+
+
+[🛒 Ver la oferta!!](https://www.amazon.es/dp/B01CWXHAZK/?tag=tolees-21)
