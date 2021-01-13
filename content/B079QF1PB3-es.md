@@ -25,10 +25,10 @@ En este momento está [KidKraft- Cocina de juguete de madera Countryside  para n
 
 🔎:
 
-- Pensada para largas horas de juego
-- Ayuda a los niños a desarrollar sus habilidades motrices
-- Construcción resistente, accesorios de plástico seguros
 - Fácil de limpiar
 - Hecha de madera resistente de alta calidad
+- Construcción resistente, accesorios de plástico seguros
+- Ayuda a los niños a desarrollar sus habilidades motrices
+- Pensada para largas horas de juego
 
 [Aquí!!!](https://www.amazon.es/dp/B079QF1PB3/?tag=tolees-21)

@@ -25,12 +25,12 @@ Ahora mismo tienes [Geox D Kaula B ABX B  Botines Mujer  Marrón  Tobacco C6777 
 
 🔎:
 
-- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
+- Material exterior: Ante
 - Tipo de tacón: Plano
+- Revestimiento: Sintético
+- Material de la suela: Caucho
+- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
 - Altura del tacón: 4.5 centímetros
 - Cierre: Cordones
-- Material de la suela: Caucho
-- Revestimiento: Sintético
-- Material exterior: Ante
 
 [Visítala!!!](https://www.amazon.es/dp/B07MSK847P/?tag=tolees-21)

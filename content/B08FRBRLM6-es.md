@@ -25,10 +25,10 @@ Está [WONNIE - Reproductor de DVD para coche portátil de 10 5 pulgadas  reprod
 
 ℹ️:
 
-- ※ Soporta múltiples medios: el reproductor de DVD de WONNI puede soportar la compatibilidad sin regiones con DVD/SVCD, VCD, CD, MP3, JPG, AVI, MPEG, DIVX. Ranura para tarjeta USB, MMC y SD integrada (hasta 32 GB, FAT32).
 - ※ Chip decodificación HD: WONNIE Reproductor de DVD portátil de 10,5 pulgadas con pantalla LCD compatible con reproducción de vídeo HD. Sin batería, se carga con el cargador de coche incluido.
-- ※ Entrada HDMI: con la función de entrada HDMI, puede Snyc hasta 1080p vídeo desde su ordenador, teléfono inteligente, Kindle Fire, etc. (El cable HDMI necesario no está incluido en el paquete y cada usuario de teléfono Android puede tener una forma diferente de conectarse).
+- ※ Soporta múltiples medios: el reproductor de DVD de WONNI puede soportar la compatibilidad sin regiones con DVD/SVCD, VCD, CD, MP3, JPG, AVI, MPEG, DIVX. Ranura para tarjeta USB, MMC y SD integrada (hasta 32 GB, FAT32).
 - ※ Fácil de instalar: el reproductor de DVD de coche se puede instalar muy fácilmente en los reposacabezas del coche a través del soporte y el ángulo de inclinación es ajustable. Burbuja de coche equipada con un reposacabezas dentado. Con una garra dentada puede mantener el reposacabezas firme y firme, fácil de instalar y quitar, no tendrás que preocuparte por problemas de vídeo temblor o caída.
+- ※ Entrada HDMI: con la función de entrada HDMI, puede Snyc hasta 1080p vídeo desde su ordenador, teléfono inteligente, Kindle Fire, etc. (El cable HDMI necesario no está incluido en el paquete y cada usuario de teléfono Android puede tener una forma diferente de conectarse).
 - ※ Garantía: Si tienes preguntas sobre el reproductor de DVD del coche con reposacabezas ultrafino, no dude en ponerse en contacto con nosotros directamente a través de Amazon Mensaje Center. Nuestro equipo profesional de postventa te ofrecerá una solución satisfactoria y un servicio de atención al cliente amigable que hará que tu compra sea absolutamente segura.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08FRBRLM6/?tag=tolees-21)
