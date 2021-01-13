@@ -25,11 +25,11 @@ Ahora mismo tienes [Palette Intense Cream Coloration Intensive Coloración del C
 
 🔎:
 
-- Para un color vivo, duradero y con un brillo intenso
+- Perfecta cobertura de canas
+- Para el cabello: natural
 - Coloración permanente enriquecida con aceites naturales
 - Penetra profundamente en el núcleo del cabello sellando los altamente eficaces pigmentos de color
-- Para el cabello: natural
 - Tono: 7.5 rubio dorado caramelo
-- Perfecta cobertura de canas
+- Para un color vivo, duradero y con un brillo intenso
 
 [Visítala!!!](https://www.amazon.es/dp/B072KKWB7G/?tag=tolees-21)

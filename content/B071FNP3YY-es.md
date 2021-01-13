@@ -25,9 +25,9 @@ En este momento está [Fluchos Heracles  Zapatos de Cordones Derby para Hombre  
 
 🔎:
 
-- Shoe Width : medium
-- País de fabricación : Ceuta y Melilla
-- Textíl, Textíl, Piel , cuero, caucho, 3.0, Cordones, Derbie
 - Dimensiones : Altura del tacón : 3.0 cm
+- País de fabricación : Ceuta y Melilla
+- Shoe Width : medium
+- Textíl, Textíl, Piel , cuero, caucho, 3.0, Cordones, Derbie
 
 [Aquí!!!](https://www.amazon.es/dp/B071FNP3YY/?tag=tolees-21)
