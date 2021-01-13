@@ -25,10 +25,10 @@ En este momento está [Regatta Mono Puddle Iv Rosa  48-60 meses 110 EU ](https:/
 
 🔎:
 
-- Tejido en poliamida muy ligero, impermeable y transpirable Isolite
-- Capucha de una pieza
-- Indice de transpirabilidad 5.000g/m2/24 hr
-- Acabado hidrófugo duradero
 - Costuras selladas
+- Indice de transpirabilidad 5.000g/m2/24 hr
+- Capucha de una pieza
+- Tejido en poliamida muy ligero, impermeable y transpirable Isolite
+- Acabado hidrófugo duradero
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B013K1WHX8/?tag=tolees-21)
