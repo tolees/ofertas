@@ -25,10 +25,10 @@ Ahora mismo tienes [Battle Chasers: Nightwar](https://www.amazon.es/dp/B0732TJNS
 
 🔎:
 
-- Mazmorras aleatorias llenas de trampas, rompecabezas y secretos. Usa las habilidades exclusivas de cada héroe para sobrevivir
-- Explora un mundo repleto de mazmorras, jefes, y amigos y enemigos que aparecerán al azar
 - Combate por turnos con un sistema exclusivo de sobrecarga de maná e increíbles estallidos de batalla
-- Descubre el complejo sistema de creación y usa el exclusivo sistema de sobrecarga de ingredientes para crear objetos épicos
+- Explora un mundo repleto de mazmorras, jefes, y amigos y enemigos que aparecerán al azar
 - Crea tu equipo con tres de los seis héroes disponibles de los famosos cómics Battle Chasers, cada uno con sus propias características, ventajas, objetos y habilidades
+- Descubre el complejo sistema de creación y usa el exclusivo sistema de sobrecarga de ingredientes para crear objetos épicos
+- Mazmorras aleatorias llenas de trampas, rompecabezas y secretos. Usa las habilidades exclusivas de cada héroe para sobrevivir
 
-[Visítala!!!](https://www.amazon.es/dp/B0732TJNSG/?tag=tolees-21)
+[🛒 Visítala!!!](https://www.amazon.es/dp/B0732TJNSG/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hori - Real Arcade Pro 4 Kai  PS4  PS3   al 26.15 % de descuento'
-date: 2021-01-03 21:33:35
+date: 2021-01-13 12:16:46
 image: 'https://m.media-amazon.com/images/I/41Iz8gPUuoL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00RZ7T8N6/?tag=tolees-21'
 descuento: '26.15'
-average: '102.254'
+average: '106.79571428571428'
 ---
 
 Está [Hori - Real Arcade Pro 4 Kai  PS4  PS3  PC ](https://www.amazon.es/dp/B00RZ7T8N6/?tag=tolees-21) con 26.15 de descuento por 118.15 EUR (original: 159.99 EUR) en el siguiente enlace!
@@ -26,9 +26,9 @@ Está [Hori - Real Arcade Pro 4 Kai  PS4  PS3  PC ](https://www.amazon.es/dp/B00
 ℹ️:
 
 - Licencia oficial de Sony
+- Joystick y botones exclusivos Hayabusa
 - Compatible con PS4/PS3/PC
 - Sin lag: conexión con cable de 3 m
-- Joystick y botones exclusivos Hayabusa
 - Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00RZ7T8N6/?tag=tolees-21)
+[🛒 Ver la oferta!!](https://www.amazon.es/dp/B00RZ7T8N6/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Denon D-T1 - Microcadena con Lector CD y al 33.44 % de descuento'
-date: 2021-01-10 09:25:08
+date: 2021-01-13 11:26:48
 image: 'https://m.media-amazon.com/images/I/41KsVUEsfxL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Ahora mismo tienes [Denon D-T1 - Microcadena con Lector CD y Bluetooth  Color Gr
 
 🔎:
 
-- Potencia de 15 W x 2
 - Entrada digital Optica para mejorar la calidad de sonido del TV, consola de juegos u otros dispositivos digitales externos
 - Compatible CD-R/CD-RW ( WMA o MP3)
+- Potencia de 15 W x 2
 
-[Visítala!!!](https://www.amazon.es/dp/B07HHCRPTM/?tag=tolees-21)
+[🛒 Visítala!!!](https://www.amazon.es/dp/B07HHCRPTM/?tag=tolees-21)

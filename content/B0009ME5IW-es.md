@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 48.56 % en BRAUN ST310 PLANCHA PELO PLANCHAPELO ST-'
-date: 2021-01-07 20:47:29
+date: 2021-01-13 12:41:05
 image: 'https://m.media-amazon.com/images/I/31Ox5gsBXzL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,4 +27,4 @@ Tienes [BRAUN ST310 PLANCHA PELO PLANCHAPELO ST-310](https://www.amazon.es/dp/B0
 
 - BRAUN ST310 PLANCHA PELO PLANCHAPELO ST-310
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B0009ME5IW/?tag=tolees-21)
+[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0009ME5IW/?tag=tolees-21)
