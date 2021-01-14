@@ -25,8 +25,8 @@ Está [SD toys Hear ME Roar Lannister Jarra Ceramica Game of Thrones  Centimeter
 
 ℹ️:
 
+- Merchandising oficial de juego de Tronos
 - Para los seguidores de de juego de tronos
 - Jarra cristal en caja con ventana
-- Merchandising oficial de juego de Tronos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B008D1FTS6/?tag=tolees-21)

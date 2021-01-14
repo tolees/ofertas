@@ -25,8 +25,8 @@ Ahora mismo tienes [Clarks Step Isle Base  Zapatillas Hombre  Beige  Sand Canvas
 
 🔎:
 
-- Material exterior: sintético
 - Suela: EVA
+- Material exterior: sintético
 - Interior: textil
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TMRPPJ2/?tag=tolees-21)

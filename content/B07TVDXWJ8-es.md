@@ -25,7 +25,7 @@ En este momento está [Superga 2750 Cotu Classic  Zapatillas Unisex Adulto  Nara
 
 🔎:
 
-- Con cordones.
 - Zapatillas Superga Fashion.
+- Con cordones.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TVDXWJ8/?tag=tolees-21)
