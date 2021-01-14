@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'adidas Stan Smith J  Zapatillas de Depor al 44.12 % de rebaja'
-date: 2020-06-28 09:33:48
-image: 'https://m.media-amazon.com/images/I/31sofGkdZDL._SL200_.jpg'
+date: 2021-01-14 06:37:44
+image: 'https://m.media-amazon.com/images/I/41+4DDGEUVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -16,14 +16,19 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01C4CC4CI/?tag=tolees-21'
 descuento: '44.12'
-average: '40.81333333333333'
+average: '40.076'
 ---
 
 Tienes [adidas Stan Smith J  Zapatillas de Deporte Unisex Niños  Blanco  Ftwbla/Ftwbla/Ftwbla   36 2/3 EU  4 UK ](https://www.amazon.es/dp/B01C4CC4CI/?tag=tolees-21) con precio final de  38.97 EUR (original: 69.74 EUR) (44.12 %  de rebaja) aqui!
 
-[![adidas Stan Smith J  Zapatillas de Depor](https://m.media-amazon.com/images/I/31sofGkdZDL._SL200_.jpg)](https://www.amazon.es/dp/B01C4CC4CI/?tag=tolees-21)
+[![adidas Stan Smith J  Zapatillas de Depor](https://m.media-amazon.com/images/I/41+4DDGEUVL._SL200_.jpg)](https://www.amazon.es/dp/B01C4CC4CI/?tag=tolees-21)
 
 🔎:
 
+- Ziernähte runden den Schuh perfekt ab
+- Warnhinweis: Keine / nicht relevant
+- Laufsohle mit Fischgrätenmuster für optimale Griffigkeit
+- Der Stan Smith J ist ein Sneaker für und Kinder von Adidas Originals.
+- OrthoLite - Feuchtigkeitsabsorbierende, antibakterielle und gepolsterte Einlegesohle
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01C4CC4CI/?tag=tolees-21)
