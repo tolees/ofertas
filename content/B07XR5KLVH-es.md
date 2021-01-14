@@ -25,11 +25,11 @@ Tienes [Apple Funda de cuero  para iPhone 11 Pro  - Marrón  Saddle Brown ](http
 
 ℹ️:
 
-- Para que protejas tu iPhone de arañazos y caídas sin renunciar al estilo.
-- Estas fundas diseñadas por Apple se adaptan perfectamente a las curvas del iPhone sin abultar nada.
-- Para el iPhone 11 Pro
-- Como todas las fundas de Apple, se ha sometido a miles de horas de pruebas a lo largo de todo el proceso de diseño y fabricación.
 - Los botones de aluminio combinan a la perfección con el acabado de la piel, y el forro de microfibra protege el iPhone.
+- Como todas las fundas de Apple, se ha sometido a miles de horas de pruebas a lo largo de todo el proceso de diseño y fabricación.
+- Para que protejas tu iPhone de arañazos y caídas sin renunciar al estilo.
+- Para el iPhone 11 Pro
+- Estas fundas diseñadas por Apple se adaptan perfectamente a las curvas del iPhone sin abultar nada.
 - Están fabricadas en piel europea curtida y teñida con un proceso especial, son suaves al tacto y adquieren un tono natural con el tiempo.
 - Además, puedes dejar la funda siempre puesta, incluso durante la carga inalámbrica.
 

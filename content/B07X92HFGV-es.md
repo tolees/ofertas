@@ -25,8 +25,8 @@ Ahora mismo tienes [Vero Moda Vmkerriultra Short Coated Jacket Noos Chaqueta  Ne
 
 🔎:
 
-- Vmkerriultra Short Coated Jacket Noos Chaqueta
-- Negro (Black Black)
 - M para Mujer
+- Negro (Black Black)
+- Vmkerriultra Short Coated Jacket Noos Chaqueta
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07X92HFGV/?tag=tolees-21)

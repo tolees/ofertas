@@ -25,7 +25,7 @@ Está [G-STAR RAW Revend Skinny Vaqueros  Rinsed 8970-082  40W / 40L para Hombre
 
 ℹ️:
 
-- Arco 3d Slim
 - Tipo de corte: Slim
+- Arco 3d Slim
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07BJH1YJF/?tag=tolees-21)

@@ -25,8 +25,8 @@ Está [Wahl Prolithium Series - Maquina cortapelos  cuchillas cromadas  diseño 
 
 ℹ️:
 
-- Hasta 90 minutos de corte continuo sin cordón cuando está totalmente cargado
-- Corte uniforme y profesional sin cambio de cuchillas
 - Diseño sin cable y liviano para una manipulación más fácil con la excelente calidad de corte de cabello de una recortada con cable Wahl
+- Corte uniforme y profesional sin cambio de cuchillas
+- Hasta 90 minutos de corte continuo sin cordón cuando está totalmente cargado
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00NSJ0N66/?tag=tolees-21)

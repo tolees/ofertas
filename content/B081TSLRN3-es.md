@@ -25,8 +25,8 @@ En este momento está [adidas Trefoil Tee  T-shirt para Mujer  Multicolor  Futhy
 
 🔎:
 
-- Regular fit
 - Oversized logo
+- Regular fit
 - Crew-neck design
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B081TSLRN3/?tag=tolees-21)

@@ -25,13 +25,13 @@ Tienes [Pato - Discos Activos Wc Aroma Floral Fantasy  Aplicador Y Recambio Con 
 
 ℹ️:
 
+- Combate los gérmenes que dejan manchas
+- Limpia higiénicamente el inodoro con cada descarga de cisterna, dejando una agradable fragancia
+- Edicion limitada: fragancia Floral Fantasy. Contiene 1 aplicador y 1 recambio
 - Pato Discos Activos, limpieza de tu inodoro sin colgador ni sus gérmenes.
 - Hasta 700 descargas con cada recambio
-- Limpia higiénicamente el inodoro con cada descarga de cisterna, dejando una agradable fragancia
-- Combate los gérmenes que dejan manchas
-- Previene la creación de cal y manchas que puedan albergar gérmenes
 - Cólocalo en la taza; limpieza y frescor en cada descarga
-- Edicion limitada: fragancia Floral Fantasy. Contiene 1 aplicador y 1 recambio
+- Previene la creación de cal y manchas que puedan albergar gérmenes
 - Mantiene tu inodoro limpio y fresco hasta 6 semanas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0851T5PSG/?tag=tolees-21)
