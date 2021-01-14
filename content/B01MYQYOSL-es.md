@@ -25,9 +25,9 @@ Está [Rotulador puntafina STABILO point 88 - Estuche con 8 colores pastel](http
 
 ℹ️:
 
-- Tipo : de fibra
+- De alta calidad
 - Marca : stabilo
 - Trazo : 0,4 mm
-- De alta calidad
+- Tipo : de fibra
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MYQYOSL/?tag=tolees-21)

@@ -25,8 +25,8 @@ En este momento está [Drasanvi Collmar Colageno Magnesio + Acido Hialuronico Sa
 
 🔎:
 
-- Contribuye al funcionamiento normal del sistema nervioso y al funcionamiento normal de los músculos
 - Ayuda a disminuir el cansancio y la fatiga
+- Contribuye al funcionamiento normal del sistema nervioso y al funcionamiento normal de los músculos
 - Contribuye al equilibrio electrolítico y contribuye al metabolismo energético normal
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00TFA6RU8/?tag=tolees-21)
