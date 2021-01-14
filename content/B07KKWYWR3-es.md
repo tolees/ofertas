@@ -26,7 +26,7 @@ En este momento está [NIKE B NK Dry Acdmy TRK Suit K2 Chándal  Niños  Black/W
 🔎:
 
 - Zippered side pockets
-- Dri-Fit Technology
 - Slim fit
+- Dri-Fit Technology
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KKWYWR3/?tag=tolees-21)

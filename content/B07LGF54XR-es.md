@@ -25,10 +25,10 @@ Tienes [Sabrent 1TB Rocket NVMe PCIe M.2 2280 SSD Interno Unidad de Estado sóli
 
 🔎:
 
-- M.2 PCIe Gen3 x 4 Interface.
-- PCIe 3.1 Compliant / NVMe 1.3 Compliant.
-- All Sabrent SSDs come with FREE Sabrent Acronis True Image for Sabrent Software for easy Cloning. For those who require a specific sector size to clone their existing SSDs: A newly released Sabrent utility enables users to re-format the Rocket drive and choose the sector size of their liking, either 512-bytes or 4K bytes.
 - Supports SMART and TRIM commands. Supports ONFi 2.3, ONFi 3.0, ONFi 3.2 and ONFi 4.0 interface.
+- All Sabrent SSDs come with FREE Sabrent Acronis True Image for Sabrent Software for easy Cloning. For those who require a specific sector size to clone their existing SSDs: A newly released Sabrent utility enables users to re-format the Rocket drive and choose the sector size of their liking, either 512-bytes or 4K bytes.
 - Power Management Support for APST / ASPM / L1.2.
+- PCIe 3.1 Compliant / NVMe 1.3 Compliant.
+- M.2 PCIe Gen3 x 4 Interface.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07LGF54XR/?tag=tolees-21)

@@ -26,9 +26,9 @@ Tienes [#N/A/a 2 Paquetes de Soporte de Muñeca Ajustable de 9.84-14.96 Pulgadas
 🔎:
 
 - Soporte de exhibición de muñeca desmontable ajustable Figuras de acción Soporte Soporte.
-- Apto para 1/3 y 1/4 Scale Doll, para BJD / SD / Night Lolita Dolls u otras muñecas del mismo tamaño.
-- Material: acero inoxidable + plástico
-- Es adecuado para escaparates, decoración, colección, etc.
 - La base es estable y no es fácil de deformar. Ajustable según la altura de la muñeca.
+- Es adecuado para escaparates, decoración, colección, etc.
+- Material: acero inoxidable + plástico
+- Apto para 1/3 y 1/4 Scale Doll, para BJD / SD / Night Lolita Dolls u otras muñecas del mismo tamaño.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08MDGND4P/?tag=tolees-21)

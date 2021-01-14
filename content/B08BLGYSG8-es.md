@@ -26,10 +26,10 @@ En este momento está [Burton Day Hiker  Adultos Unisex  Classic Blue Ripstop](h
 🔎:
 
 - La construcción exterior de tela duradera repele el agua en condiciones de nieve e invierno.
-- Tipo de deporte: snowboarding
 - Correas ergonómicas para los hombros con una correa ajustable para el esternón; panel posterior ergonómico con canales de flujo de aire.
-- Ripstop de poliéster 75d x 150d aprobado por bluesign con respaldo de pu / balístico de nylon jr. 840d aprobado por bluesign
+- Tipo de deporte: snowboarding
 - Dimensiones: 19in x 12in x 7in / 49cm x 31cm x 19cm; peso: 1.6 libras; volumen: 28l
 - Cinturón de cadera; tablero de correas con alas moldeadas
+- Ripstop de poliéster 75d x 150d aprobado por bluesign con respaldo de pu / balístico de nylon jr. 840d aprobado por bluesign
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BLGYSG8/?tag=tolees-21)
