@@ -27,7 +27,7 @@ Tienes [Eastpak Crew Single Monedero  13 Cm  Azul  Triple Denim ](https://www.am
 
 - Altura: 9.5 cm, Ancho: 13.5 cm
 - Altura: 9.5 cm, Ancho: 13.5 cm
-- Varios compartimentos interiores y traseros para guardar dinero y tarjetas
 - Fabricada 100 % en poliéster y con un tacto vaquero
+- Varios compartimentos interiores y traseros para guardar dinero y tarjetas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07DNZVV95/?tag=tolees-21)
