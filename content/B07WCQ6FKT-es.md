@@ -25,8 +25,8 @@ Está [Salomon XA Pro 3D V8 W  Zapatillas De Trail Running Y Sanderismo Impermea
 
 ℹ️:
 
-- Salomon
 - Color: Navy Blazer/Wine Tasting/Patina Green
+- Salomon
 - Xa PRO 3D V8 GTX W
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07WCQ6FKT/?tag=tolees-21)
