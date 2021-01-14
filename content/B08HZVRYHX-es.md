@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Puyo Puyo Tetris 2 con un 37.51 % de descuento'
-date: 2021-01-10 12:45:19
+date: 2021-01-14 20:39:46
 image: 'https://m.media-amazon.com/images/I/51I01Cmt8FL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ En este momento está [Puyo Puyo Tetris 2](https://www.amazon.es/dp/B08HZVRYHX/?
 
 🔎:
 
-- El modo en línea mejorado ofrece competición en ligas específicas del juego y modo libre para hasta 4 jugadores
 - Personajes vibrantes y una historia de aventuras añaden dimensión al adictivo juego de rompecabezas árcade
+- El modo en línea mejorado ofrece competición en ligas específicas del juego y modo libre para hasta 4 jugadores
 - La Batalla de Dotes presenta habilidades basadas en personajes que pueden cambiar rápidamente las tornas en una partida, más cartas de artículos para potenciar a tu equipo
 
-[Aquí!!!](https://www.amazon.es/dp/B08HZVRYHX/?tag=tolees-21)
+[🛒 Aquí!!!](https://www.amazon.es/dp/B08HZVRYHX/?tag=tolees-21)

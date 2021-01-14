@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HORI - Mando inalámbrico Onyx Plus  PS4/ al 40.09 % de rebaja'
-date: 2021-01-08 21:16:49
+date: 2021-01-14 20:28:57
 image: 'https://m.media-amazon.com/images/I/41S7hNfrvYL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07YZRG4PR/?tag=tolees-21'
 descuento: '40.09'
-average: '36.11114285714286'
+average: '35.940000000000005'
 ---
 
 Tienes [HORI - Mando inalámbrico Onyx Plus  PS4/PC ](https://www.amazon.es/dp/B07YZRG4PR/?tag=tolees-21) con precio final de  29.95 EUR (original: 49.99 EUR) (40.09 %  de rebaja) aqui!
@@ -25,10 +25,15 @@ Tienes [HORI - Mando inalámbrico Onyx Plus  PS4/PC ](https://www.amazon.es/dp/B
 
 🔎:
 
-- Licencia oficial de Sony
-- Compatible también con PC
-- Inmersión total con la función de vibración
-- Dos opciones de uso: con o sin cable
-- Toma de auriculares
+- system and connectivity toggle Switch
+- Officially licensed by Sony
+- textured back surface
+- battery duration: 6 H
+- offset analogue stick layout
+- wide-grip Ergonomic body
+- 3.5 mm headset jack
+- touchpad functionality
+- wireless connectivity (2.4 GHz) - adapter included
+- connectivity range: 10 M
 
-[Comprar!!!](https://www.amazon.es/dp/B07YZRG4PR/?tag=tolees-21)
+[🛒 Comprar!!!](https://www.amazon.es/dp/B07YZRG4PR/?tag=tolees-21)
