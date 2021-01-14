@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nike Star Runner 2  TDV   Zapatillas de  al 25.03 % de descuento'
-date: 2021-01-07 12:46:12
+date: 2021-01-14 04:17:40
 image: 'https://m.media-amazon.com/images/I/41e3NdkVszL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,4 +27,4 @@ Está [Nike Star Runner 2  TDV   Zapatillas de Gimnasia Unisex niños  Negro  Bl
 
 - Nike, air, swoosh
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07KYSLR11/?tag=tolees-21)
+[🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KYSLR11/?tag=tolees-21)

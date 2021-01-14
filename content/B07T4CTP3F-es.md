@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Immortals Fenyx Rising SWITCH con un 46.22 % de descuento'
-date: 2021-01-12 15:38:13
+date: 2021-01-14 03:28:03
 image: 'https://m.media-amazon.com/images/I/51ytgAKP-qL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07T4CTP3F/?tag=tolees-21'
 descuento: '46.22'
-average: '40.13437499999999'
+average: '39.97575757575757'
 ---
 
 En este momento está [Immortals Fenyx Rising SWITCH](https://www.amazon.es/dp/B07T4CTP3F/?tag=tolees-21) a 34.9 EUR (original: 64.9 EUR) (46.22 %  de descuento) en el siguiente enlace!
@@ -27,4 +27,4 @@ En este momento está [Immortals Fenyx Rising SWITCH](https://www.amazon.es/dp/B
 
 - Reserva y consigue una misión extra: Un Cuento de Fuego y Luz, en la que descubrirás la historia de Helios y el Faetón
 
-[Aquí!!!](https://www.amazon.es/dp/B07T4CTP3F/?tag=tolees-21)
+[🛒 Aquí!!!](https://www.amazon.es/dp/B07T4CTP3F/?tag=tolees-21)
