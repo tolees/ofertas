@@ -25,10 +25,10 @@ Está [WD-40 Specialist - Lubricante seco con PTFE-Spray 400ml](https://www.amaz
 
 ℹ️:
 
-- Ideal para engranajes, cadenas, carriles de puertas y ventanas.
-- Puede ser utilizado en un amplio rango de temperaturas (-20ºC a +250ºC)
 - Lubrica y protege dejando una película resistente a la suciedad
+- Ideal para engranajes, cadenas, carriles de puertas y ventanas.
 - Gracias a su avanzada formulación funciona como desmoldeante
+- Puede ser utilizado en un amplio rango de temperaturas (-20ºC a +250ºC)
 - No atrae suciedad, polvo ni aceite
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01N56KYXE/?tag=tolees-21)

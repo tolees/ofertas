@@ -25,10 +25,10 @@ Tienes [Banpresto One Piece Estatua Portgas D. Ace  Multicolor  BANP85106 ](http
 
 ℹ️:
 
-- Estatua de colección
-- Gran detalle
-- Licencia oficial
 - Incluye base
+- Estatua de colección
+- Licencia oficial
 - One piece
+- Gran detalle
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07MGV145J/?tag=tolees-21)

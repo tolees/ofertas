@@ -25,8 +25,8 @@ Ahora mismo tienes [adidas W BB T Camiseta de Manga Corta  Mujer  Green Tint  M]
 
 🔎:
 
-- Regular fit
-- Soft fabric
 - adidas logo
+- Soft fabric
+- Regular fit
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B081TTQN2Q/?tag=tolees-21)

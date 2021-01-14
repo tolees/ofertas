@@ -25,8 +25,8 @@ Ahora mismo tienes [Amiibo - Link / Link s Awakening [Colección Zelda]](https:/
 
 🔎:
 
-- Amiibo - Link / Links Awakening
 - Brand: Nintendo Ibérica SL
 - Colección Zelda
+- Amiibo - Link / Links Awakening
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TB1KW7S/?tag=tolees-21)

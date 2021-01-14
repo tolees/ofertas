@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Watchmen - Temporada 1 [Blu-ray] al 27.66 % de descuento'
-date: 2021-01-13 21:29:29
+date: 2021-01-14 22:31:09
 image: 'https://m.media-amazon.com/images/I/51OqUJnws8L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08H6M8R1N/?tag=tolees-21'
 descuento: '27.66'
-average: '26.89375'
+average: '26.235555555555557'
 ---
 
 Está [Watchmen - Temporada 1 [Blu-ray]](https://www.amazon.es/dp/B08H6M8R1N/?tag=tolees-21) con 27.66 de descuento por 20.97 EUR (original: 28.99 EUR) en el siguiente enlace!

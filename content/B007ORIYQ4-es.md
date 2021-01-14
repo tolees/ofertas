@@ -25,8 +25,8 @@ Tienes [APLI 11912 - Índices adhesivos  12 x 45   film colores flúor](https://
 
 🔎:
 
-- Pack de 5 colores de índices film
 - Tamaño: 45 x 12 mm
+- Pack de 5 colores de índices film
 - Colores: Azul flúor, verde flúor, amarillo flúor, naranja flúor y rosa flúor
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B007ORIYQ4/?tag=tolees-21)

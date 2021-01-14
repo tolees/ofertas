@@ -26,10 +26,10 @@ Ahora mismo tienes [LG CM2460 - Microcadena  2 x 50 W  2 Vías  80 Hz-20 kHz  US
 🔎:
 
 - Microcadena con una potencia total de 100 W
-- Dimensiones de la unidad principal: 230 x 126 x 260 (WHD) mm
-- Función TV Sound Sync hace la sincronización inalámbrica con el TV
 - Diseñado con Flac, un formato audio sin pérdidas de calidad
 - Tiene una conexión Bluetooth y un puerto USB 2.0
+- Dimensiones de la unidad principal: 230 x 126 x 260 (WHD) mm
 - Dimensiones del embalaje: 373 x 359 x 307 (WHD) mm
+- Función TV Sound Sync hace la sincronización inalámbrica con el TV
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01B97RUGE/?tag=tolees-21)

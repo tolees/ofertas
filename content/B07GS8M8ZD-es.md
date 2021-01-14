@@ -25,10 +25,10 @@ En este momento está [Bourjois Velvet The Lipstick Barra De Labios Tono 020  Pl
 
 🔎:
 
-- Acabado suave y voluminoso sin sensación de sequedad
-- Barra de labios de larga duración con un intenso acabado mate
-- Enriquecido con suaves aceites hidrantes y pigmentos ricos en color que proporcionan un acabado aterciopelado
 - La punta en forma de lágrima permite una fácil aplicación
+- Acabado suave y voluminoso sin sensación de sequedad
+- Enriquecido con suaves aceites hidrantes y pigmentos ricos en color que proporcionan un acabado aterciopelado
 - Hasta 24 horas de duración, sin sensación de sequedad
+- Barra de labios de larga duración con un intenso acabado mate
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07GS8M8ZD/?tag=tolees-21)

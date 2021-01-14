@@ -26,9 +26,9 @@ Está [Rimmel London Sculpting Pakette Paleta de Maquillaje en polvo  Not So Shy
 ℹ️:
 
 - Paleta con 3 pasos para contouring diseñada por Kate Moss
-- Colorete en Polvo para dar color y definicióon
 - Sombreador para contornerar la nariz y la mandíbula
-- Fácil de desmaquillar
 - Polvo iluminador para resaltar mejillas, cejas, frente, barbilla y nariz
+- Colorete en Polvo para dar color y definicióon
+- Fácil de desmaquillar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01D1HFFDK/?tag=tolees-21)

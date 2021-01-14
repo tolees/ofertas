@@ -25,15 +25,15 @@ Tienes [HORI - Mando inalámbrico Onyx Plus  PS4/PC ](https://www.amazon.es/dp/B
 
 🔎:
 
-- battery duration: 6 H
-- wireless connectivity (2.4 GHz) - adapter included
-- 3.5 mm headset jack
-- connectivity range: 10 M
-- Officially licensed by Sony
 - touchpad functionality
+- system and connectivity toggle Switch
+- Officially licensed by Sony
+- connectivity range: 10 M
 - textured back surface
 - offset analogue stick layout
+- wireless connectivity (2.4 GHz) - adapter included
+- 3.5 mm headset jack
 - wide-grip Ergonomic body
-- system and connectivity toggle Switch
+- battery duration: 6 H
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07YZRG4PR/?tag=tolees-21)
