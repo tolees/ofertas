@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Coco [DVD] al 57.31 % de descuento'
-date: 2021-01-13 05:01:04
+date: 2021-01-14 05:19:50
 image: 'https://m.media-amazon.com/images/I/61DXC22DHuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B077VL2YY6/?tag=tolees-21'
 descuento: '57.31'
-average: '10.075199999999999'
+average: '10.05392156862745'
 ---
 
 Está [Coco [DVD]](https://www.amazon.es/dp/B077VL2YY6/?tag=tolees-21) con 57.31 de descuento por 8.99 EUR (original: 21.06 EUR) en el siguiente enlace!
@@ -27,4 +27,4 @@ Está [Coco [DVD]](https://www.amazon.es/dp/B077VL2YY6/?tag=tolees-21) con 57.31
 
 - Precio mínimo ofrecido por este vendedor en los 30 días anteriores a la oferta: 9.95€
 
-[Ver la oferta!!](https://www.amazon.es/dp/B077VL2YY6/?tag=tolees-21)
+[🛒 Ver la oferta!!](https://www.amazon.es/dp/B077VL2YY6/?tag=tolees-21)

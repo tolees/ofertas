@@ -25,8 +25,8 @@ Ahora mismo tienes [Levi s Batwing Hoodie  cappuccio Donna  Avorio  Sportswear H
 
 🔎:
 
-- Estilo deportivo y comodidad informal
 - Bolsillo tipo canguro
 - Puños acanalados
+- Estilo deportivo y comodidad informal
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B071ZSRG7C/?tag=tolees-21)

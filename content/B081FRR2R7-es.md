@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Frozen 2 [DVD] al 35.14 % de descuento'
-date: 2021-01-13 04:57:29
+date: 2021-01-14 05:23:11
 image: 'https://m.media-amazon.com/images/I/51P+cvwAyQL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B081FRR2R7/?tag=tolees-21'
 descuento: '35.14'
-average: '13.838333333333336'
+average: '13.817441860465118'
 ---
 
 Ahora mismo tienes [Frozen 2 [DVD]](https://www.amazon.es/dp/B081FRR2R7/?tag=tolees-21) a 12.94 EUR (original: 19.95 EUR) (35.14 %  de descuento) en el siguiente enlace!
@@ -26,4 +26,4 @@ Ahora mismo tienes [Frozen 2 [DVD]](https://www.amazon.es/dp/B081FRR2R7/?tag=tol
 🔎:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B081FRR2R7/?tag=tolees-21)
+[🛒 Visítala!!!](https://www.amazon.es/dp/B081FRR2R7/?tag=tolees-21)

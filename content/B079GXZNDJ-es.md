@@ -26,9 +26,9 @@ Tienes [Soria Natural - VERDE DE ALFALFA - Complemento alimenticio - Aporta nutr
 🔎:
 
 - VERDE ALFALFA SORIA NATURAL: Es un extracto liofilizado de jugo de alfalfa, uno de los alimentos más nutritivos de la naturaleza con propiedades depurativas para limpiar el organismo. Sus vitaminas y nutrientes ayudan a mantener un correcto nivel de ciertos factores en la sangre, al tiempo que actúa favorablemente sobre uñas y pelo.
-- DOSIS RECOMENDADA: 3 cápsulas diarias antes de las comidas (1 antes del desayuno, comida y cena). Para niños la mitad de la dosis.
-- FUENTE DE PROTEÍNA VEGETAL: contiene todos los aminoácidos esenciales y algunos no esenciales. Máxima concentración posible de vitaminas, minerales, oliogelementos, enzimas y moléculas bioactivas para dosis más eficientes.
 - PODER ALCALINIZANTE con ácidos grasos insaturados y fibra que contribuyen a REDUCIR EL COLESTEROL
 - VEGANO y ORGÁNICO: Composición basada 100% en plantas procedentes de cultivos ecológicos certificados por el CAECYL sin fertilizantes ni plaguicidas químicos.
+- DOSIS RECOMENDADA: 3 cápsulas diarias antes de las comidas (1 antes del desayuno, comida y cena). Para niños la mitad de la dosis.
+- FUENTE DE PROTEÍNA VEGETAL: contiene todos los aminoácidos esenciales y algunos no esenciales. Máxima concentración posible de vitaminas, minerales, oliogelementos, enzimas y moléculas bioactivas para dosis más eficientes.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079GXZNDJ/?tag=tolees-21)
