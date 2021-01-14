@@ -25,9 +25,9 @@ Está [Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Negro  41 EU](https:
 
 ℹ️:
 
-- De cuña delgada y de punta redonda
-- Lavado recomendado: 30 ° C
 - Planta normal y cierre con cordones
+- De cuña delgada y de punta redonda
 - Lona impermeable con suela de goma
+- Lavado recomendado: 30 ° C
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B002WQ01CC/?tag=tolees-21)

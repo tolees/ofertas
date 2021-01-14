@@ -26,7 +26,7 @@ Ahora mismo tienes [Asics Patriot 12  Sneaker Mens  Blue/Midnight  42 EU](https:
 🔎:
 
 - Tapa interior del talón
-- Suela de goma sólida
 - Entresuela de EVA
+- Suela de goma sólida
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B088XXP2TM/?tag=tolees-21)

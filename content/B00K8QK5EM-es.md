@@ -25,10 +25,10 @@ Tienes [Panama Jack Tuscani  Botas Militar Mujer  Marrón  Cuero B1   37 EU](htt
 
 ℹ️:
 
+- Resistente al agua
+- Altura del tacón: 2,50 cm
 - Fabricado en España
 - Panama Jack - Botas de piel para mujer
-- Altura del tacón: 2,50 cm
-- Resistente al agua
 - Material principal: napa, material del revestimiento: piel de oveja sintética. Material de la suela: caucho natural. Interior: sí
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00K8QK5EM/?tag=tolees-21)

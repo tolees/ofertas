@@ -25,11 +25,11 @@ Tienes [Traba 101L Cerrojo 101-l pintado  0](https://www.amazon.es/dp/B00L2IL4UY
 
 🔎:
 
-- Accionado interior y exteriormente por llave quedando siempre la barra fija
-- Cerradero acero 3 mm
-- Tres llaves dentadas
-- Placa acero 2 mm
 - Barra de acero calibrado 18 mm
 - Bombín redondo
+- Tres llaves dentadas
+- Accionado interior y exteriormente por llave quedando siempre la barra fija
+- Cerradero acero 3 mm
+- Placa acero 2 mm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00L2IL4UY/?tag=tolees-21)

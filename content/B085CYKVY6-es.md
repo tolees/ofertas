@@ -26,9 +26,9 @@ Está [Braun Series 6 60-N4820cs Afeitadora Eléctrica  máquina de afeitar barb
 ℹ️:
 
 - Batería de iones de litio con hasta 3 semanas de autonomía (50 min); Carga rápida en 5 min suficiente para un afeitado
-- Incluye: Base de carga, accesorio de recortadora de precisión, accesorio de recortadora de barba de 3 días
-- Afeitadora eléctrica para hombre con SensoFlex: cabezal pivotante testado dermatológicamente para pieles sensibles que se adapta para minimizar la presión cutánea
-- Láminas SensoFoil diseñadas específicamente para ofrecer un afeitado apurado y bienestar en la piel
 - Afeitadoras para barba 100 % resistentes al agua para usarlas en seco y mojado
+- Láminas SensoFoil diseñadas específicamente para ofrecer un afeitado apurado y bienestar en la piel
+- Afeitadora eléctrica para hombre con SensoFlex: cabezal pivotante testado dermatológicamente para pieles sensibles que se adapta para minimizar la presión cutánea
+- Incluye: Base de carga, accesorio de recortadora de precisión, accesorio de recortadora de barba de 3 días
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B085CYKVY6/?tag=tolees-21)

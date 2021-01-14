@@ -25,8 +25,8 @@ Está [Pioneer SE-CH9T - Auriculares Tipo botón Hi-Res  Airflow Control Flow  R
 
 ℹ️:
 
-- Rango de frecuencias 5 Hz - 50 KHz
-- Auricular HiRes cerrado tipo clip
 - Driver totalmente cerrado de 9,7 mm
+- Auricular HiRes cerrado tipo clip
+- Rango de frecuencias 5 Hz - 50 KHz
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XGRVNKB/?tag=tolees-21)

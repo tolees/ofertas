@@ -25,8 +25,8 @@ En este momento está [Lume Cube LC0064 - Kit de 4 filtros magnéticos de correc
 
 🔎:
 
-- Incluye 4 filtros magnéticos de diferentes temperaturas de color
 - Los filtros son de LED Zircon que duran 200 veces más que los filtros de iluminación estándar
+- Incluye 4 filtros magnéticos de diferentes temperaturas de color
 - Kit de 4 filtros magnéticos para instalar en carcasa de aluminio Lume Cube Light House
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06XDK8FB3/?tag=tolees-21)
