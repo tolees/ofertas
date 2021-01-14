@@ -27,8 +27,8 @@ Está [Nacon - PCGC-400ES Mando Gaming E-Sports Con Cable Con Modo Pro Gamer Que
 
 - Software dedicado que permitirá crear y modificar hasta 4 perfiles y haver un mando a medida
 - 4 botones de acción adicionales en el dorso del mando
+- Modo Pro-Gamer: para todos los juegos, el mando emula teclado y ratón
 - Amplitud de movimiento del joystick derecho mejorada (46º)
 - Peso de mando ajustable, pesas incluidas (2x10 / 2x14 / 2x17g)
-- Modo Pro-Gamer: para todos los juegos, el mando emula teclado y ratón
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01KHBSMA6/?tag=tolees-21)

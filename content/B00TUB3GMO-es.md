@@ -25,9 +25,9 @@ En este momento está [Flower 10839 10839-Abono Clavos  5 Unidades  No Aplica  1
 
 🔎:
 
-- Fácil aplicación
 - Potencia la coloración
 - 5 clavos
+- Fácil aplicación
 - Especial para ponsetias
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00TUB3GMO/?tag=tolees-21)

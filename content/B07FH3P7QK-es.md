@@ -26,9 +26,9 @@ Ahora mismo tienes [Rimmel London Magnifeyes Palette Paleta de Sombras Electric 
 🔎:
 
 - Todo en uno, sombra de ojos, delineador y iluminador
-- Perfecto para esculpir, sombrear y definir
-- Aplicador duo para crear múltiples looks para un acabado preciso
-- Fórmula ultra suave; color intenso para todos los tonos de piel
 - 12 sombras complementarias perfectas para hacer contouring
+- Fórmula ultra suave; color intenso para todos los tonos de piel
+- Aplicador duo para crear múltiples looks para un acabado preciso
+- Perfecto para esculpir, sombrear y definir
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FH3P7QK/?tag=tolees-21)

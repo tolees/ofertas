@@ -26,9 +26,9 @@ En este momento está [Pop! Figura de Vinilo: Animación: Rick & Morty S6 - Mort
 🔎:
 
 - Rick & morty morty in mech suit
-- Funko pop! vinyl
-- Descúbre otras figuras de la colección rick & morty y colecciónalas todas!
 - De la colección rick & morty, morty in mech suit como figura de vinilo pop de funko
+- Descúbre otras figuras de la colección rick & morty y colecciónalas todas!
+- Funko pop! vinyl
 - Rick & morty
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NSPT8PB/?tag=tolees-21)

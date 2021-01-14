@@ -25,8 +25,8 @@ Tienes [Procos-85967 Accesorio  multicolor  Ciao Srl 85967 ](https://www.amazon.
 
 🔎:
 
-- Marca: Procos
 - De alta calidad
+- Marca: Procos
 - Fabricado en China
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00XUKNJ14/?tag=tolees-21)
