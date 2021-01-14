@@ -25,7 +25,7 @@ En este momento está [Tommy Hilfiger Baron 1a2  Zapatillas Hombre  Blanco  42 E
 
 🔎:
 
-- Genuine Product
 - Authorised Stockist
+- Genuine Product
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0846KGH3Q/?tag=tolees-21)

@@ -25,10 +25,10 @@ En este momento está [Babymoov YOO Feel Vigilabebé con Cámara - Pantalla LCD 
 
 🔎:
 
-- Con su pantalla de 3, 5 De calidad digital, el YOO Feel posee una interfaz muy intuitiva; de forma ultrasencilla, podrás navegar por el menú utilizando la pantalla táctil
-- El YOO Feel es muy completo, ya que dispone de una lamparita y de tres nanas para tranquilizar al bebé; escucha bebe gracias a la función talk Back y podrás, incluso, hablarle a distancia; el sonido es nítido y no tiene interferencias; función walkie talkie
-- Además, el Yoo Feel integra una doble alarma visual y sonora, un zoom x2 y un alcance de 250M. ¡Todo para vigilar a tu bebé con total sencillez!
-- Cámara vigilancia bebe - gama YOO: vosotros los padres tenéis cada uno necesidades, usos, costumbres y vidas distintas; tanto si estáis buscando un vigilabebés de vídeo intuitivo, transportable, inteligente, autónomo. ¡Seguro que hay un YOO para vosotros!
 - El vigila bebe con cámara YOO Feel resulta práctico al disponer de un sistema Plug & play que facilita su instalación
+- El YOO Feel es muy completo, ya que dispone de una lamparita y de tres nanas para tranquilizar al bebé; escucha bebe gracias a la función talk Back y podrás, incluso, hablarle a distancia; el sonido es nítido y no tiene interferencias; función walkie talkie
+- Cámara vigilancia bebe - gama YOO: vosotros los padres tenéis cada uno necesidades, usos, costumbres y vidas distintas; tanto si estáis buscando un vigilabebés de vídeo intuitivo, transportable, inteligente, autónomo. ¡Seguro que hay un YOO para vosotros!
+- Con su pantalla de 3, 5 De calidad digital, el YOO Feel posee una interfaz muy intuitiva; de forma ultrasencilla, podrás navegar por el menú utilizando la pantalla táctil
+- Además, el Yoo Feel integra una doble alarma visual y sonora, un zoom x2 y un alcance de 250M. ¡Todo para vigilar a tu bebé con total sencillez!
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078XLX3JY/?tag=tolees-21)
