@@ -25,10 +25,10 @@ Tienes [Holiday [Reino Unido] [DVD]](https://www.amazon.es/dp/B000N6SRG0/?tag=to
 
 ℹ️:
 
-- Year 2006
 - Actors Cameron Diaz, Kate Winslet, Jude Law, Jack Black, Eli Wallach, Edward Burns, Rufus Sewell, Miffy Englefield, Emma Pritchard, Sarah Parish, Shannyn Sossamon & Shelley Berman
 - Director Nancy Meyers
 - Screen Widescreen 1.85:1
 - Certificate 12 years and over
+- Year 2006
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000N6SRG0/?tag=tolees-21)

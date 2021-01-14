@@ -25,10 +25,10 @@ En este momento está [WONNIE 10.1" Reproductor de DVD Portátil con 2 Pantallas
 
 🔎:
 
+- 【La Función de Memoria】 Admite memoria de punto de interrupción, puede comenzar el punto desde el que partió la última vez, sin necesidad de comenzar desde el principio.
+- 【Batería Durable】 La batería incorporada con larga vida, se puede permite el uso del reproductor principal hasta de 4-5 horas, se permite el uso con las dos pantallas hasta 2-3 horas（usa el auricular puede prolongar el tiempo del uso）. También puede usar el AC cargador y cargador de coche, no se preocupe por la batería se apaga cuando sales.
 - 【Multiregión & Múltiples Formatos】 Compatible con CD, DVD, -R / RW, VCD, MP3, WMA, VOB, AVI, MPEG1, XVID, JPEG. También soporta los archivos multimedios a través de tarjeta USB (hasta 32GB), tarjeta SD (hasta 32 GB) y tarjeta MMC (hasta 32GB).
 - 【2 TFT & LCD Pantallas】Las dos pantallas en color HD proporciona imágenes claras, la resolución puede ser de hasta 1024 * 600, visibilidad más clara y protectora para los ojos de usted y de sus hijos. Estos dos reproductores de DVD están conectados por cable AV, un es de reproductor principal, y otro es de monitor, así podrás ver la misma película o video.
-- 【Batería Durable】 La batería incorporada con larga vida, se puede permite el uso del reproductor principal hasta de 4-5 horas, se permite el uso con las dos pantallas hasta 2-3 horas（usa el auricular puede prolongar el tiempo del uso）. También puede usar el AC cargador y cargador de coche, no se preocupe por la batería se apaga cuando sales.
 - 【Información de Garantía】Le ofrecemos 30 días de garantía de reembolso incondicional y 365 días de garantía de servicio de postventa por Amazon. Su satisfacción es nuestra promera prioridad!
-- 【La Función de Memoria】 Admite memoria de punto de interrupción, puede comenzar el punto desde el que partió la última vez, sin necesidad de comenzar desde el principio.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08JPD8FVP/?tag=tolees-21)
