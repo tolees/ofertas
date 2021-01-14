@@ -25,10 +25,10 @@ Está [MSI Creator 15 A10SET-082ES - Ordenador portátil de 15.6" FullHD Táctil
 
 ℹ️:
 
+- Tarjeta grafica GeForce RTX 2060, GDDR6 6 GB
 - Memoria RAM de 16 GB x 2 (2666 MHz)
 - Sistema operativo Windows 10 Home
 - Disco de 1 TB NVMe PCIe Gen3x4 SSD
 - Procesador Comet lake i7-10750H+HM470 (6 núcleos, 12 MB Cache, 2.6 GHz hasta 5 GHz)
-- Tarjeta grafica GeForce RTX 2060, GDDR6 6 GB
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08BJT1YGM/?tag=tolees-21)

@@ -25,10 +25,10 @@ Tienes [8100 SB 6 Juego de carraca Zyklop Speed cuadradillo de 3/8"  métrico  2
 
 🔎:
 
-- Cabeza de carraca libremente giratoria con 5 posiciones definidas
 - Ángulo de retorno de tan sólo 5º
-- Con sistema de búsqueda de herramienta "Take it easy": marca los tamaños con ayuda de colores
 - Casquillo de giro libre para altas velocidades de trabajo
 - Dentado fino de 72 dientes
+- Con sistema de búsqueda de herramienta "Take it easy": marca los tamaños con ayuda de colores
+- Cabeza de carraca libremente giratoria con 5 posiciones definidas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00IS0W9VW/?tag=tolees-21)

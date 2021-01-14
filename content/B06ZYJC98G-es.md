@@ -25,9 +25,9 @@ En este momento está [Funko- Joey Ramone Figura de Vinilo  seria Rocks  Color S
 
 🔎:
 
-- El producto se envía en una caja ilustrada con ventana
+- El artículo es adecuado para todos los fanáticos de Joey Ramone
 - Recomendado para niños a partir de 3 años
 - Figura de colección de la marca Funko
-- El artículo es adecuado para todos los fanáticos de Joey Ramone
+- El producto se envía en una caja ilustrada con ventana
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06ZYJC98G/?tag=tolees-21)
