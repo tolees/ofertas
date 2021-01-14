@@ -26,8 +26,8 @@ Está [Motorola Moto E7 Plus - 6.5" Max Vision HD+  Qualcomm Snapdragon 460  48M
 ℹ️:
 
 - Cámara: Dual, 48MP+2MP
-- Procesador: Snapdragon 460 1.8GHz
 - Pantalla: 6.5", 720 x 1600 pixels
 - Batería: 5000 mAh
+- Procesador: Snapdragon 460 1.8GHz
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08HM3Z56H/?tag=tolees-21)

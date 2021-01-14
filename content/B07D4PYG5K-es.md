@@ -26,7 +26,7 @@ Tienes [Fjällräven 23510 2018 Mochila tipo casual  16 litros  Deep Forest](htt
 ℹ️:
 
 - Simple shoulder straps and Handle AT the top
-- Classic backpack.
 - Small frontal pocket
+- Classic backpack.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07D4PYG5K/?tag=tolees-21)

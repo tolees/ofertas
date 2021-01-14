@@ -25,9 +25,9 @@ Tienes [Funko- Pop Deluxe: Game of Thrones-Hodor Holding The Door Juguete Colecc
 
 ℹ️:
 
-- De "Juego de tronos", hodor sosteniendo la puerta, como un estilizado vinilo pop de lujo de funko
 - Funko pop es el juguete del año 2018 y el ganador del premio People Choice
 - Echa un vistazo a las otras figuras de juego de tronos de funko; Colecciónalos todos
 - La figura mide 15 cm y viene en una caja de exhibición de ventana
+- De "Juego de tronos", hodor sosteniendo la puerta, como un estilizado vinilo pop de lujo de funko
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07TZMZK5M/?tag=tolees-21)

@@ -25,9 +25,9 @@ En este momento está [Samsonite Base Boost Upright S Equipaje de mano  55 cm  4
 
 🔎:
 
-- Atención al detalle: elegante logo metálico, tiradores y tapas en el bolsillo frontal
 - Ligera: desde 2.00 Kg para tamaños de cabina
 - Cerradura TSA en todos los tamaños para viajar de forma segura y sin estrés
+- Atención al detalle: elegante logo metálico, tiradores y tapas en el bolsillo frontal
 - Óptima capacidad en el bolsillo frontal
 - Upright 55 Equipaje de mano, viaje de dos días, 40 x 20 x 55 cm, 41 L, 2.00 Kg
 
