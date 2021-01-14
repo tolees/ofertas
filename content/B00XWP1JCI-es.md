@@ -25,12 +25,12 @@ Está [Nike MD Runner 2  Zapatillas para Hombre  Wolf Grey/Black/White  44 EU](h
 
 ℹ️:
 
-- Diseño de malla para una comodidad con ventilación
 - Suela exterior de goma con diseño tipo gofre para la máxima tracción y durabilidad
-- Revestimientos de ante para mejorar la sujeción y la durabilidad
-- Material interior: sintético
-- Zapatillas deportivas
 - Mediasuela de espuma que aporta una amortiguación ligera
+- Revestimientos de ante para mejorar la sujeción y la durabilidad
+- Zapatillas deportivas
 - Adecuado para: hombre
+- Material interior: sintético
+- Diseño de malla para una comodidad con ventilación
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00XWP1JCI/?tag=tolees-21)

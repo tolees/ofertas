@@ -25,9 +25,9 @@ Ahora mismo tienes [Calvin Klein J30J307855 Camisa  402  M para Hombre](https://
 
 🔎:
 
-- Algodón orgánico
-- Mangas cortas
 - Cuello redondo
+- Mangas cortas
 - Ajuste slim
+- Algodón orgánico
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DJBXDRN/?tag=tolees-21)
