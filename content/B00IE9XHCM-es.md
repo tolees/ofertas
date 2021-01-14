@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony A6000 - Cuerpo de cámara EVIL de 24 al 42.52 % de rebaja'
-date: 2021-01-05 16:16:42
+date: 2021-01-14 10:28:14
 image: 'https://m.media-amazon.com/images/I/4188p41RgiL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00IE9XHCM/?tag=tolees-21'
 descuento: '42.52'
-average: '426.49047619047616'
+average: '426.89130434782606'
 ---
 
 Tienes [Sony A6000 - Cuerpo de cámara EVIL de 24 Mp  enfoque automático híbrido rápidovídeo Full HD  WiFi   negro](https://www.amazon.es/dp/B00IE9XHCM/?tag=tolees-21) con precio final de  431.1 EUR (original: 750.0 EUR) (42.52 %  de rebaja) aqui!
@@ -25,10 +25,10 @@ Tienes [Sony A6000 - Cuerpo de cámara EVIL de 24 Mp  enfoque automático híbri
 
 🔎:
 
-- Sensor de 24 MP con tamaño 23.5 x 16.5 mm
-- Estabilizador de imagen óptico
-- Pantalla LCD de 3 pulgadas
 - Grabación de vídeo 1080p Full HD
+- Pantalla LCD de 3 pulgadas
+- Estabilizador de imagen óptico
 - Cuenta con la tecnología CMOS
+- Sensor de 24 MP con tamaño 23.5 x 16.5 mm
 
-[Comprar!!!](https://www.amazon.es/dp/B00IE9XHCM/?tag=tolees-21)
+[🛒 Comprar!!!](https://www.amazon.es/dp/B00IE9XHCM/?tag=tolees-21)
