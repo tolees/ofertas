@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony DSC-HX400V - Cámara compacta de 20. al 30.59 % de descuento'
-date: 2021-01-14 16:18:58
+date: 2021-01-15 16:51:51
 image: 'https://m.media-amazon.com/images/I/519vhRU+hOL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00I9X2KGM/?tag=tolees-21'
 descuento: '30.59'
-average: '353.32514285714285'
+average: '352.9859459459459'
 ---
 
 Ahora mismo tienes [Sony DSC-HX400V - Cámara compacta de 20.4 MP  pantalla de 3"  zoom óptico 50x  estabilizador óptico  vídeo Full HD   Color Negro](https://www.amazon.es/dp/B00I9X2KGM/?tag=tolees-21) a 347.05 EUR (original: 500.0 EUR) (30.59 %  de descuento) en el siguiente enlace!
@@ -25,13 +25,13 @@ Ahora mismo tienes [Sony DSC-HX400V - Cámara compacta de 20.4 MP  pantalla de 3
 
 🔎:
 
-- NFC, Wi-Fi
-- Zoom óptico 50x (24 -1200 mm)
-- Color negro
-- Peso del producto: 635 g
-- Pantalla de 3 pulgadas
 - Estabilizador de imagen optical
-- Grabación de vídeo 1080p Full HD
+- NFC, Wi-Fi
+- Peso del producto: 635 g
 - Sensor de 21.1 Mp
+- Color negro
+- Grabación de vídeo 1080p Full HD
+- Zoom óptico 50x (24 -1200 mm)
+- Pantalla de 3 pulgadas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00I9X2KGM/?tag=tolees-21)

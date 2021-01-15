@@ -25,10 +25,10 @@ Está [Pranarôm - Aceite Esencial de Menta Piperita - Partes Aéreas - 10 ml](h
 
 ℹ️:
 
-- Interno - Mejora la digestión : 2 gotas 3 a 4 veces al día, en miel, aceite de oliva o azúcar de caña, debajo de la lengua, para problemas digestivos y urinarios. Externo - Dolores de cualquier origen : 3 a 4 gotas en aplicaciones locales, 3 veces al día
-- Aceite Esencial de Menta piperita - AEQT : Mentha x piperita - Parte destilada: partes aéreas
-- Este aceite esencial, con su olor fresco y agradable, es excelente para aliviar los trastornos digestivos (náuseas, vómitos, indigestión) y los dolores de cabeza. Refrigerante, también se usa para aliviar la picazón
 - Producto híbrido de Mentha aquatica y de Hierbabuena - Aceite esencial 100% puro y natural
+- Este aceite esencial, con su olor fresco y agradable, es excelente para aliviar los trastornos digestivos (náuseas, vómitos, indigestión) y los dolores de cabeza. Refrigerante, también se usa para aliviar la picazón
+- Interno - Mejora la digestión : 2 gotas 3 a 4 veces al día, en miel, aceite de oliva o azúcar de caña, debajo de la lengua, para problemas digestivos y urinarios. Externo - Dolores de cualquier origen : 3 a 4 gotas en aplicaciones locales, 3 veces al día
 - Consejos & trucos: 1 gota AEQT Menta piperita en 1/4 de terrón de azúcar de caña para chupar antes de una cita proporcionará al aliento todo el frescor de la menta. Disminución de la concentración y dolores de cabeza : aplique una gota de aceite esencial en la frente
+- Aceite Esencial de Menta piperita - AEQT : Mentha x piperita - Parte destilada: partes aéreas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B001NYXR1Q/?tag=tolees-21)

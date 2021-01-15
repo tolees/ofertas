@@ -25,8 +25,8 @@ En este momento está [Tommy Hilfiger TJM Straight Logo tee Camisa  Blanco  X-S 
 
 🔎:
 
+- Tommy Jeans Blanco Camiseta recta con logo
 - A estrenar y genuina. Somos un vendedor autorizado de Tommy Jeans.
 - Ver descripción del producto para obtener más información.
-- Tommy Jeans Blanco Camiseta recta con logo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0841F3LTX/?tag=tolees-21)
