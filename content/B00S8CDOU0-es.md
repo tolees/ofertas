@@ -25,8 +25,8 @@ Tienes [Energy Sistem Earphones Urban 3 Coral Mic  In-Ear  Mic  Control Talk  Li
 
 ℹ️:
 
-- - 36 MESES DE GARANTÍA: Disfruta del producto con una garantía especial de 36 meses y realiza cualquier tipo de consulta de forma gratuita e ilimitada a lo largo de este tiempo.
 - - CONTROL DE LLAMADAS: Micrófono integrado para responder las llamadas desde el auricular y botones para controlar la lista de reproducción desde el auricular.
+- - 36 MESES DE GARANTÍA: Disfruta del producto con una garantía especial de 36 meses y realiza cualquier tipo de consulta de forma gratuita e ilimitada a lo largo de este tiempo.
 - - DISEÑO: Auricular ligero y cómodo, con un acabado de aleación de aluminio que combina diseño y funcionalidad.
 - - INTRAUDITIVO: Auriculares intrauditivos que se ajustan cómodamente al canal auditivo otorgándote el aislamiento acústico necesario.
 - - CABLE: Cable de 120 cm para moverte con libertad y concetarlo a tu smartphone con el conector jack 3,5 mm.

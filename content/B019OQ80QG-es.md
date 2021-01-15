@@ -25,10 +25,10 @@ Tienes [Stabilo 1924/77-11 Lápices - Estuche con 24 coloresy  Multicolor](https
 
 ℹ️:
 
+- Ideal para el colegio
 - Cuerpo de madera
-- Gama de 24 colores
 - Calidad alemana
 - punta de 2,5mm
-- Ideal para el colegio
+- Gama de 24 colores
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B019OQ80QG/?tag=tolees-21)

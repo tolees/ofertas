@@ -25,10 +25,10 @@ Ahora mismo tienes [Levi s Otis Beanie  Gorro de punto Unisex adulto  Negro  Bla
 
 🔎:
 
-- gorro cálido
-- elegante sombrero
-- Sombrero de invierno hecho de géneros de punto
 - unisexo
+- Sombrero de invierno hecho de géneros de punto
+- elegante sombrero
 - Gorro Levis Otis
+- gorro cálido
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00D2LRHFA/?tag=tolees-21)

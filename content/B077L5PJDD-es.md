@@ -25,10 +25,10 @@ Tienes [Bourjois Fard Joues Colorete Tono 48 Cendre de rose brune - 2.5 g](https
 
 ℹ️:
 
+- Con un sensual aroma a rosas
+- Colorete en polvo con una textura ultrafina que se funde con la piel
 - Su fórmula de secado al horno en su elaboración permite una calidad de difuminado y adherencia único
 - Viene con una brocha y un espejo incorporado
 - Resistente a romperse gracias al proceso de fabricación
-- Colorete en polvo con una textura ultrafina que se funde con la piel
-- Con un sensual aroma a rosas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B077L5PJDD/?tag=tolees-21)

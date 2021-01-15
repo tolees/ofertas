@@ -1,29 +1,33 @@
 ---
 layout: post
-title: 'Funko- Pop Movies Wick-John in Black Sui al 49.32 % de descuento'
-date: 2020-04-28 15:22:07
+title: 'Pop! Movies: John Wick - John in Black S al 25.34 % de descuento'
+date: 2021-01-15 17:25:23
 image: 'https://m.media-amazon.com/images/I/41ul-qaRF3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07WTQH232-es'
-actualPrice: 13.85 EUR
+actualPrice: 18.8 EUR
 currency: EUR
-price: 13.85
-comparePrice: 27.33 EUR
-prodname: 'Funko- Pop Movies Wick-John in Black Suit w/Dog Figura Coleccionable  Multicolor  Talla Única  47238 '
+price: 18.8
+comparePrice: 25.18 EUR
+prodname: 'Pop! Movies: John Wick - John in Black Suit w/ Dog'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07WTQH232/?tag=tolees-21'
-descuento: '49.32'
-average: '17.6856'
+descuento: '25.34'
+average: '17.728461538461538'
 ---
 
-Ahora mismo tienes [Funko- Pop Movies Wick-John in Black Suit w/Dog Figura Coleccionable  Multicolor  Talla Única  47238 ](https://www.amazon.es/dp/B07WTQH232/?tag=tolees-21) a 13.85 EUR (original: 27.33 EUR) (49.32 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Pop! Movies: John Wick - John in Black Suit w/ Dog](https://www.amazon.es/dp/B07WTQH232/?tag=tolees-21) a 18.8 EUR (original: 25.18 EUR) (25.34 %  de descuento) en el siguiente enlace!
 
-[![Funko- Pop Movies Wick-John in Black Sui](https://m.media-amazon.com/images/I/41ul-qaRF3L._SL200_.jpg)](https://www.amazon.es/dp/B07WTQH232/?tag=tolees-21)
+[![Pop! Movies: John Wick - John in Black S](https://m.media-amazon.com/images/I/41ul-qaRF3L._SL200_.jpg)](https://www.amazon.es/dp/B07WTQH232/?tag=tolees-21)
 
 🔎:
 
+- La figura mide 9 cm y se envía en una caja ilustrada con ventana
+- De la colección john wick, john in black suit w/ dog como figura de vinilo pop de funko
+- Funko pop. El juguete del año 2018
+- Descúbre otras figuras de la colección john wick y colecciónalas todas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WTQH232/?tag=tolees-21)
