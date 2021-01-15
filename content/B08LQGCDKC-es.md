@@ -25,10 +25,10 @@ En este momento está [Cecotec Calefactor Eléctrico de Baño Bajo Consumo Ready
 
 🔎:
 
-- Termoventilador con 2000 W de potencia para conseguir un ambiente más cálido en la estancia en la cual sea ubicado.
-- Posee un termostato regulable, gracias al cual se puede seleccionar entre 2 niveles de potencia con 1000 W o 2000 W. Cuenta con 3 modos de funcionamiento: modo Ventilador, modo Eco (1000 W) y modo Turbo (2000 W) que se adaptan a tus necesidades.
-- Su área de cobertura es de hasta 15 m2, equivalentes a un volumen de entre 35 y 40 m3. Uso idóneo para salas de estar, habitaciones, baños…
 - Su funcionamiento silencioso con tan solo 30 dB a máxima potencia permite utilizar el termoventilador en momentos de tranquilidad como leer o ver la televisión. Cuenta con un asa en su parte superior, que unido a su ligereza, permite trasladar el termoventilador de manera cómoda por el hogar. Además, tiene una gran estabilidad, evitando así que pueda volcarse o caerse.
 - Su uso sencillo con 2 ruedecillas permite al usuario seleccionar de manera intuitiva la potencia y el modo de funcionamiento. Posee un triple sistema de seguridad: autoapagado, en el caso improbable de una caída o de un sobrecalentamiento y rejilla que impide introducir los dedos dentro del mismo.
+- Su área de cobertura es de hasta 15 m2, equivalentes a un volumen de entre 35 y 40 m3. Uso idóneo para salas de estar, habitaciones, baños…
+- Termoventilador con 2000 W de potencia para conseguir un ambiente más cálido en la estancia en la cual sea ubicado.
+- Posee un termostato regulable, gracias al cual se puede seleccionar entre 2 niveles de potencia con 1000 W o 2000 W. Cuenta con 3 modos de funcionamiento: modo Ventilador, modo Eco (1000 W) y modo Turbo (2000 W) que se adaptan a tus necesidades.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08LQGCDKC/?tag=tolees-21)

@@ -25,8 +25,8 @@ En este momento está [Charrier Parfums de joy Division de 5 agua de Printemps 
 
 🔎:
 
-- Caja regalo que contiene 5 aguas de fragancias en miniatura
-- Una gama de fragancias diferentes y raffinés, modernas o tradicionales
 - 100% hecho en Francia por charrier fragancias, parfumeur desde 1888
+- Una gama de fragancias diferentes y raffinés, modernas o tradicionales
+- Caja regalo que contiene 5 aguas de fragancias en miniatura
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B008KNBV8Y/?tag=tolees-21)

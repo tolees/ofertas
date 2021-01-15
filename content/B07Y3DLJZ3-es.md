@@ -25,10 +25,10 @@ En este momento está [Orbegozo RJ 1000 – Radiador de aceite  5 elementos  100
 
 🔎:
 
-- Incorpora sistema de protección contra sobrecalentamiento con apagado automático y un termostato regulable para establecer la temperatura deseada
 - Dos potencias de calor: 500 W / 1000 W
 - Incluye asa de transporte y ruedas pivotantes para ubicar y desplazar el aparato con mayor facilidad
 - Controles de manejo con iluminación led de funcionamiento para un control fácil y sencillo
 - Radiador de aceite con 5 elementos caloríficos de gran inercia térmica
+- Incorpora sistema de protección contra sobrecalentamiento con apagado automático y un termostato regulable para establecer la temperatura deseada
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Y3DLJZ3/?tag=tolees-21)

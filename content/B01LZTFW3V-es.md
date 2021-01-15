@@ -25,8 +25,8 @@ En este momento está [Aceite de Almendras Dulces 100% Puro. PRIMERA PRESIÓN EN
 
 🔎:
 
+- ACITE DE ALMENDRAS DULCES PRIMERA PRESIÓN ENFRIO
 - Ideal para masajes
 - Suaviza y tonifica la piel seca
-- ACITE DE ALMENDRAS DULCES PRIMERA PRESIÓN ENFRIO
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01LZTFW3V/?tag=tolees-21)
