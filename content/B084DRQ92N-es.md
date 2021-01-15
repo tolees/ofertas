@@ -25,10 +25,10 @@ Ahora mismo tienes [Diadermine Lift + Botology Crema De Noche Anti-edad  50ml  1
 
 🔎:
 
-- Hidrata, suaviza y reafirma la piel
-- Reduce arrugas visibles en 4 semanas
-- 92% de ingredientes naturales
-- Minimiza la aparición de las líneas de expresión para alisar tu piel ayudando a la prevención de arrugas permanentes
 - Aplica diariamente por la noche sobre la piel de la cara y cuello previamente limpios con productos de limpieza DIADERMINE.
+- 92% de ingredientes naturales
+- Reduce arrugas visibles en 4 semanas
+- Minimiza la aparición de las líneas de expresión para alisar tu piel ayudando a la prevención de arrugas permanentes
+- Hidrata, suaviza y reafirma la piel
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B084DRQ92N/?tag=tolees-21)

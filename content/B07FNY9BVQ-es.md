@@ -26,8 +26,8 @@ Tienes [National Geographic 4-fach Thermo-/Hygrometer NATGEO ESTACIÓN Meteo TER
 🔎:
 
 - Contenido del envío: térmica de/higrómetro, 3 x sensor remoto, instrucciones de uso
-- Dimensiones y peso estación base: 10,4 x 11,9 x 2,5 cm, 152 g
 - El termómetro e higrómetro ofrece la posibilidad de medir la temperatura y la humedad en 4 puntos distintos tanto dentro como fuera de casa.
+- Dimensiones y peso estación base: 10,4 x 11,9 x 2,5 cm, 152 g
 - Thermo/Hygro sensor (3 unidades incluye) para colgar o colocar. 433 MHz Frecuencia de transmisión
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07FNY9BVQ/?tag=tolees-21)

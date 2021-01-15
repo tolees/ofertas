@@ -25,10 +25,10 @@ Tienes [Lotus 18108/2 - Reloj de Pulsera analógico para Hombre  Mecanismo de Cu
 
 🔎:
 
-- Indicación de la fecha.
-- Resistente al agua hasta 50 metros.
-- Pulsera de acero inoxidable con cierre de botón.
 - Cristal mineral endurecido-
 - Caja de acero inoxidable.
+- Resistente al agua hasta 50 metros.
+- Indicación de la fecha.
+- Pulsera de acero inoxidable con cierre de botón.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00RBTYN4W/?tag=tolees-21)

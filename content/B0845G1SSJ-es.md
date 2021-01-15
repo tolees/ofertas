@@ -25,8 +25,8 @@ Está [Skechers ON-The-GO Joy  Botas Cortas al Tobillo Mujer  Ante marrón Oscur
 
 ℹ️:
 
+- Forro de invierno
 - 3M Scotchgard
 - Alfombrilla de GOGA refrigerada por aire
-- Forro de invierno
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0845G1SSJ/?tag=tolees-21)

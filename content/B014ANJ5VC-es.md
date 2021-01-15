@@ -25,10 +25,10 @@ Tienes [Lelo - Estimulador prostatico  color negro  1 unidad](https://www.amazon
 
 ℹ️:
 
+- Acabado en silicona biocompatible con un adorno en plástico ABS
+- 100% sumergible, perfecto para usar en el baño o en la ducha
 - El más elegante masajeador que estimula simultáneamente la próstata y el perineo y, gracias al mando a distancia, te permite alcanzar orgasmos "sin manos"
 - Con dos motores, uno en la base y otro en la punta, permite estimular la próstata y el perineo simultáneamente
-- 100% sumergible, perfecto para usar en el baño o en la ducha
-- Acabado en silicona biocompatible con un adorno en plástico ABS
 - 6 modos de vibración ajustables
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B014ANJ5VC/?tag=tolees-21)
