@@ -25,7 +25,7 @@ En este momento está [Canadian Peak Sudadera GALÁPAGOS de Hombre Azul Marino T
 
 🔎:
 
-- con capucha
 - Bolsillos
+- con capucha
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08PPN4WF3/?tag=tolees-21)

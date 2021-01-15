@@ -25,10 +25,10 @@ Tienes [ISDIN Nutraisdin Zn40 Pomada Reparadora - 100 ml.](https://www.amazon.es
 
 ℹ️:
 
+- Su cantenido en Óxido de Zinc neutraliza las enzimas responsables de la irritación de la epidermis
+- Pomada reparadora para la zona del pañal, protege y respara escoceduras, irritaciones y rojeces
+- Crea una capa protectora de larga duración que no se disuelve con la orina gracias a su fórmula anhídrica.
 - Pomada que regenera e hidrata, reduciendo las rojeces en glúteo y zona perianal.
 - Aísla la zona creando una barrera infranqueable con activos que ayudan a evitar el crecimiento de microorganismos.
-- Crea una capa protectora de larga duración que no se disuelve con la orina gracias a su fórmula anhídrica.
-- Pomada reparadora para la zona del pañal, protege y respara escoceduras, irritaciones y rojeces
-- Su cantenido en Óxido de Zinc neutraliza las enzimas responsables de la irritación de la epidermis
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00ITJHIO0/?tag=tolees-21)

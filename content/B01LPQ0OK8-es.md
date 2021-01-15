@@ -25,10 +25,10 @@ En este momento está [L Oreal Paris Dermo Expertise - Arcillas puras mascarilla
 
 🔎:
 
+- Exfolia, minimiza poros; piel más suave y más lisa, las irregularidades se atenúan
 - Piel más suave y más lisa, las irregularidades se atenúan
-- Sobre la piel limpia: 3 veces por semana, aplicar una fina capa sobre todo el rostro evitando el contorno de los ojos y los labios; 10-15 minutos y aclarar abundantemente con agua tibia
 - En 7 días, los poros se minimizan; día tras día, piel más uniforme y radiante
 - Mascarilla facial purificante con arcillas puras
-- Exfolia, minimiza poros; piel más suave y más lisa, las irregularidades se atenúan
+- Sobre la piel limpia: 3 veces por semana, aplicar una fina capa sobre todo el rostro evitando el contorno de los ojos y los labios; 10-15 minutos y aclarar abundantemente con agua tibia
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01LPQ0OK8/?tag=tolees-21)

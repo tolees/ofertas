@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crucial CT2000X8SSD9 X8 2 TB SSD portáti al 39.01 % de descuento'
-date: 2021-01-14 12:24:31
+date: 2021-01-15 12:40:39
 image: 'https://m.media-amazon.com/images/I/31K8xuqk-fL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Ahora mismo tienes [Crucial CT2000X8SSD9 X8 2 TB SSD portátil – de hasta 1050
 
 🔎:
 
-- Increíble rendimiento con velocidades de lectura de hasta 1050 MB/s
-- Respaldado por Micron, uno de los mayores fabricantes de almacenamiento flash del mundo
-- Prueba de caída hasta 2 m. Temperatura extrema, a prueba de golpes y vibraciones
-- Funciona con Windows, Mac, iPad Pro, Chromebook, Android, Linux, PS4 y Xbox One con conectores USB-C 3.2 Gen2 y USB-A
-- Diseño hermoso y duradero, con un núcleo unibody de aluminio anodizado
+- Drop proof up to 2 m. Extreme-temperature, shock, and vibration proof
+- Beautiful and durable design, featuring an anodized aluminum unibody core
+- Backed by Micron, one of the largest manufacturers of flash storage in the world
+- Incredible performance with read speeds up to 1050 MB/s
+- Works with Windows, Mac, iPad Pro, Chromebook, Android, Linux, PS4, and Xbox One with USB-C 3.2 Gen2 and USB-A connectors
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08C3XVP2P/?tag=tolees-21)

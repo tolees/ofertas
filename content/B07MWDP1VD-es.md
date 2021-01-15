@@ -25,10 +25,10 @@ Está [Sony Alpha 6400 - Cámara evil APS-C con objetivo zoom potente Sony 16-50
 
 ℹ️:
 
-- ENFOQUE AUTOMÁTICO RÁPIDO Y PRECISO: con AF de 0.02s, seguimiento en tiempo real y Eye AF (personas/animales) para mantener a tu sujeto nítido en cualquier situación
 - ÓPTIMO PARA: principiantes y usuarios que desean un objetivo compacto para el día a día (Sony 16-50 mm) y un zoom adicional (Sony 55-210 mm) para capturar deportes y naturaleza
+- ENFOQUE AUTOMÁTICO RÁPIDO Y PRECISO: con AF de 0.02s, seguimiento en tiempo real y Eye AF (personas/animales) para mantener a tu sujeto nítido en cualquier situación
 - CAPTURA ÁNGULOS CREATIVOS: encuadra fácilmente tu sujeto al capturar desde ángulos elevados o bajos gracias al monitor táctil inclinable
-- ADECUADA PARA VIDEÓGRAFOS: grabación de vídeos en alta resolución 4K HDR y función de cámara lenta Full HD (120p) con enfoque automático
 - NO TE PIERDAS EL MOMENTO: hasta 11 fps con AF
+- ADECUADA PARA VIDEÓGRAFOS: grabación de vídeos en alta resolución 4K HDR y función de cámara lenta Full HD (120p) con enfoque automático
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07MWDP1VD/?tag=tolees-21)

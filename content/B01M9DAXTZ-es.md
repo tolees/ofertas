@@ -25,10 +25,10 @@ Tienes [Rimmel London Magnifeyes Mono Sombra de Ojos Tono 3 All About The Base -
 
 🔎:
 
+- Aplícala en seco para un look sutil y luminoso o con un pincel mojado para un look más impactante
+- Larga duracción, a prueba de agua
 - Pigmentos sedosos para para un acabado impactante
 - Sombra de ojos de máxima pigmentación
 - Aplica en seco o en mojado según la cobertura o intensidad que deseas
-- Aplícala en seco para un look sutil y luminoso o con un pincel mojado para un look más impactante
-- Larga duracción, a prueba de agua
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01M9DAXTZ/?tag=tolees-21)

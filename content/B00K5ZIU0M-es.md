@@ -25,8 +25,8 @@ Tienes [NIKE Spark Cushioning Crew Calcetines  Unisex Adulto  Blanco  White/Refl
 
 ℹ️:
 
-- Reflective details
-- Micro CUSHIONING
 - Dri-fit Technology
+- Micro CUSHIONING
+- Reflective details
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00K5ZIU0M/?tag=tolees-21)
