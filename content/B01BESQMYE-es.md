@@ -25,8 +25,8 @@ Está [Michael Kors Reloj Analogico para Mujer de Cuarzo con Correa en Acero Ino
 
 ℹ️:
 
-- Ancho de la correa: 18 mm; circunferencia de la correa: 175 +/- 5 mm
-- Material de la correa: acero inoxidable; movimiento de cuarzo
 - Diámetro de la caja: 33 mm; grosor de la caja: 8 mm
+- Material de la correa: acero inoxidable; movimiento de cuarzo
+- Ancho de la correa: 18 mm; circunferencia de la correa: 175 +/- 5 mm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01BESQMYE/?tag=tolees-21)

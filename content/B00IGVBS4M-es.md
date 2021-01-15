@@ -25,10 +25,10 @@ Tienes [Fa - Gel de Ducha Yoghurt Miel - Suavidad y Protección - 550ml](https:/
 
 🔎:
 
+- Mantiene la hidratación natural de la piel
+- Protege la piel contra la sequedad
 - Aporta suavidad y protección
 - Aroma a miel y vainilla
 - Aporta una sensación de frescor
-- Protege la piel contra la sequedad
-- Mantiene la hidratación natural de la piel
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00IGVBS4M/?tag=tolees-21)

@@ -26,7 +26,7 @@ En este momento está [Bel Bel Baby Gasas No Tejidas - 100 Unidades](https://www
 🔎:
 
 - Marca: Bel
-- Género: Unisex Adulto
 - Tipo de producto: Gasas
+- Género: Unisex Adulto
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01A7PL3FS/?tag=tolees-21)
