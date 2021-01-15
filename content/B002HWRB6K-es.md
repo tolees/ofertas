@@ -25,8 +25,8 @@ Está [Rotulador escolar STABILO Trio AZ - Estuche de 24 colores](https://www.am
 
 ℹ️:
 
-- Tapón ventilado
 - Zona de sujeción triangular ergonómica
+- Tapón ventilado
 - Punta de 0,7mm
 - Tinta lavable
 - Calidad Alemana

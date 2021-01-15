@@ -25,8 +25,8 @@ Ahora mismo tienes [Lee Breese Pantalones para Mujer  Azul  Lt Finish Lt   31W /
 
 🔎:
 
-- Con un diseño de cinco bolsillos
-- Vaqueros evasé para mujer
 - Tienen un parche de piel con el logo de la marca en la parte trasera
+- Vaqueros evasé para mujer
+- Con un diseño de cinco bolsillos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JLFDMST/?tag=tolees-21)

@@ -25,9 +25,9 @@ Ahora mismo tienes [Pop! Shazam! - Figura de Vinilo Freddy](https://www.amazon.e
 
 🔎:
 
-- Presentada en una caja con ventana
-- Figura Freddy de Shazam (NYTF)
 - Con una medida de 9.5 cm
+- Figura Freddy de Shazam (NYTF)
 - Fabricada en vinilo
+- Presentada en una caja con ventana
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KPTBPWS/?tag=tolees-21)

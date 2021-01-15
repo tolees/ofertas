@@ -26,7 +26,7 @@ Ahora mismo tienes [Samsung A51 - Carcasa de silicona  color Azul](https://www.a
 🔎:
 
 - Funda para móvil
-- Es resistente
 - Es de la marca Samsung
+- Es resistente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082PZGBSG/?tag=tolees-21)

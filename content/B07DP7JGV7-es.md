@@ -25,8 +25,8 @@ Ahora mismo tienes [adidas Falcon W  Running Shoe Womens  Core Black/Core Black/
 
 🔎:
 
+- malla y parte superior de cuero sintético
 - Corte regular
 - Cordones de zapatos
-- malla y parte superior de cuero sintético
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DP7JGV7/?tag=tolees-21)

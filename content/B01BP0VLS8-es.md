@@ -25,10 +25,10 @@ En este momento está [L Oréal Paris Máscara de Pestañas Megavolumen Miss Man
 
 🔎:
 
-- Tus pestañas tupidas y ligeras como plumas
-- Pestañas megavoluminosas, megatupidas, megaligeras
-- Consigue el look hippie chic en tu mirada
 - Máscara de pestañas negra mega volumen
 - Nuestro cepillo mega ondulado permite dar volumen y longitud incluso a las pestañas más pequeñas
+- Consigue el look hippie chic en tu mirada
+- Tus pestañas tupidas y ligeras como plumas
+- Pestañas megavoluminosas, megatupidas, megaligeras
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01BP0VLS8/?tag=tolees-21)

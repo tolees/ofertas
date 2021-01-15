@@ -25,10 +25,10 @@ Está [Rouge Signature Metallics](https://www.amazon.es/dp/B07V1BXVKZ/?tag=tolee
 
 ℹ️:
 
-- Tan ligero que no notarás que lo llevas puesto 
-- Disponible en 4 tonos metálicos de larga duración
-- Colores metálico de impacto
 - Pintalabios líquido metálico permanente
+- Colores metálico de impacto
+- Disponible en 4 tonos metálicos de larga duración
+- Tan ligero que no notarás que lo llevas puesto 
 - Labios mate durante todo el día pero con la sensación de no llevar nada puesto
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07V1BXVKZ/?tag=tolees-21)

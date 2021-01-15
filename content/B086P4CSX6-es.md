@@ -27,8 +27,8 @@ Está [PUMA Manchester City Temporada 2020/21-HOME Shirt Replica SS Kids with SP
 
 - Corte normal
 - Construcción combinada con Formstrip PUMA en los hombros y el panel trasero
-- Logotipo del PUMA en la parte derecha del pecho y en las mangas
-- Medio cuello redondo acanalado
 - Escudo oficial del Manchester City tejido en relieve en la parte izquierda del pecho
+- Medio cuello redondo acanalado
+- Logotipo del PUMA en la parte derecha del pecho y en las mangas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B086P4CSX6/?tag=tolees-21)

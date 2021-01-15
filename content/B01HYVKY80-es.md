@@ -25,8 +25,8 @@ Tienes [Bloodborne  El Juego de Cartas por CoolMiniOrNot ](https://www.amazon.e
 
 ℹ️:
 
-- Adecuado para niños de 14 años y más
 - Numero de jugadores: 3 -5 jugadores
+- Adecuado para niños de 14 años y más
 - Idioma del juego: Inglés
 - Tiempo de juego: 30 a 50 minutos
 

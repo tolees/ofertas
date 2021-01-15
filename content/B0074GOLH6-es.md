@@ -25,9 +25,9 @@ Está [Papel espejo 29-5X21 C](https://www.amazon.es/dp/B0074GOLH6/?tag=tolees-2
 
 ℹ️:
 
-- Calidad reconocida de Creativ Company
 - Contenido: 1 hoja
 - Espejo de plástico que se puede pre cortar con un cutter y después acabarlo de romper para conseguir el tamaño deseado
+- Calidad reconocida de Creativ Company
 - Medidas del paquete (LxAxAlt): 30 x 21 x 0,1 cm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0074GOLH6/?tag=tolees-21)

@@ -25,8 +25,8 @@ Ahora mismo tienes [HARIBO Rellenissimo  1 x 150 g](https://www.amazon.es/dp/B08
 
 🔎:
 
-- Bolsa de 150g.
 - Caramelos de goma rellenos con textura suave.
+- Bolsa de 150g.
 - Sabores: Fresa, Frutas del bosque y Mousse de limón.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08M18M7NP/?tag=tolees-21)

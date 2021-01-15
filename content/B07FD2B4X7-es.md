@@ -25,10 +25,10 @@ Ahora mismo tienes [MVMT Reloj Analógico para Hombre de Cuarzo con Correa en Ac
 
 🔎:
 
-- Caja plateada en acero inoxidable cepillado y esfera Blanca
-- 3 ATM de resistencia al agua
-- Grosor de la caja de 9 mm / Diámetro de la caja: 45 mm
-- Movimiento de cuarzo Miyota
 - Ancho de la correa: 24 mm
+- Movimiento de cuarzo Miyota
+- Grosor de la caja de 9 mm / Diámetro de la caja: 45 mm
+- 3 ATM de resistencia al agua
+- Caja plateada en acero inoxidable cepillado y esfera Blanca
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FD2B4X7/?tag=tolees-21)

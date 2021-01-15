@@ -26,8 +26,8 @@ Ahora mismo tienes [Lovecraft s Untold Stories - Collector s Edition](https://ww
 🔎:
 
 - 5 litografias
-- Chapa
 - Banda sonora original
+- Chapa
 - Libro de arte
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TSDLJ2C/?tag=tolees-21)

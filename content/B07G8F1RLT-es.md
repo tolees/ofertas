@@ -26,8 +26,8 @@ Está [Denon Ceol/N10 - Microcadena con conexión en Red  Color Blanco](https://
 ℹ️:
 
 - Conexión Bluetooth
+- entrada USB
 - AirPlay 2, radio por Internet, Spotify, Deezer, Tidal, Amazon Music
 - Potencia: 65 Wx2 canales (4 Ohms)
-- entrada USB
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07G8F1RLT/?tag=tolees-21)
