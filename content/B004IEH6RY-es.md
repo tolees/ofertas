@@ -26,9 +26,9 @@ Está [JULIUS-K9 Arnés JULIUS-K9 IDC  2/L–XL  71–96 cm/50 mm  Rojo  Perro](
 ℹ️:
 
 - Forma ergonómica. Ajuste óptimo de las tiras del pecho que distribuyen la presión uniformemente sobre el pecho.
-- Señal de color y bandas reflectantes para mayor seguridad.
 - Más espacio para moverse gracias al diseño delgado y a que la tira para el abdomen se ha llevado más atrás.
-- Extra resistente. Forro interior con piel de alta calidad.
+- Señal de color y bandas reflectantes para mayor seguridad.
 - Previene la presión en la zona de la garganta, por lo que no limita la respiración.
+- Extra resistente. Forro interior con piel de alta calidad.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B004IEH6RY/?tag=tolees-21)
