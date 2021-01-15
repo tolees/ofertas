@@ -25,7 +25,7 @@ En este momento está [UGG Female Bailey Bow II Classic Boot  Black  6  UK ](htt
 
 🔎:
 
-- Leather
 - Cuero natural
+- Leather
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01AIIO9H8/?tag=tolees-21)

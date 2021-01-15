@@ -26,10 +26,10 @@ En este momento está [Multidermol Gel - Higiene Protectora y Aséptica de la Pi
 🔎:
 
 - Contiene: 1 Gel de 750 ml
-- Tolerancia testada bajo control dermatológico
-- Multidermol Gel activa y regenera en cada lavado el equilibrio fisiológico de la piel combinando una eficaz limpieza con una potente protección
-- Protege contra el resecamiento cutáneo
-- Sus ingredientes actúan dejando la piel fresca y agradablemente perfumada
 - Su pH 5,5 ayuda a mantener el grado de acidez de la capa hidrolipídica de la piel
+- Sus ingredientes actúan dejando la piel fresca y agradablemente perfumada
+- Protege contra el resecamiento cutáneo
+- Multidermol Gel activa y regenera en cada lavado el equilibrio fisiológico de la piel combinando una eficaz limpieza con una potente protección
+- Tolerancia testada bajo control dermatológico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00KP7WD08/?tag=tolees-21)

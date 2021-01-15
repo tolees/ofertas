@@ -25,9 +25,9 @@ Tienes [Logitech G203 LIGHTSYNC Ratón con iluminación RGB personalizable para 
 
 ℹ️:
 
-- Sistema mecánico de tensión de botones con resortes; los botones principales son mecánicos y se tensan con resortes metálicos duraderos para ofrecer fiabilidad, rendimiento - los clics nítidos y la respuesta precisa ofrecen una sensación de gran precisión para llevar tu diversión al máximo
 - Sensor de 8.000 dpi: el sensor para gaming responde con precisión a tus movimientos; personaliza la configuración para usar la sensibilidad a tu gusto con el software para gaming Logitech G HUB y recorre fácilmente hasta cinco opciones de dpi
 - Diseño clásico probado por jugadores: juega cómodamente y con control total; la sencilla distribución de seis botones y la forma clásica para gaming conforman un diseño cómodo, apreciado y de eficacia probada - cada botón se puede personalizar con el software Logitech G HUB para simplificar las tareas
+- Sistema mecánico de tensión de botones con resortes; los botones principales son mecánicos y se tensan con resortes metálicos duraderos para ofrecer fiabilidad, rendimiento - los clics nítidos y la respuesta precisa ofrecen una sensación de gran precisión para llevar tu diversión al máximo
 - Colorido RGB LIGHTSYNC: juega en color con nuestro más vibrante RGB LIGHTSYNC con efectos de ondas de color que puedes personalizar con unos 16,8 millones de colores; instala el software Logitech G HUB para elegir entre preajustes de colores y animaciones o crear tus propias combinaciones
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07W5JKFQC/?tag=tolees-21)
