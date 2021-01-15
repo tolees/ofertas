@@ -25,8 +25,8 @@ Tienes [Einhell 4321135 Sierra de Calar Electronica TC-JS 60/1 Potencia 400 w  2
 
 🔎:
 
-- Corte diagonal máxima de 45 grados
 - Potencia 400 w, acción pendular, velocidad: 500-3.000 min-1
+- Corte diagonal máxima de 45 grados
 - Profundidad de corte madera 60 mm, hierro 6 mm, plástico 10 mm
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B073HFT4BD/?tag=tolees-21)

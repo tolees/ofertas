@@ -25,10 +25,10 @@ Tienes [Einhell TC-AG 125 Kit 4430624 - Amoladora en Angulo  Potencia: 850 W  Ro
 
 ℹ️:
 
-- Velocidad de ralentí: 12000 rpm, Diámetro de disco: 125 mm
-- Con disco de protección, Cierre de seguridad
-- Color: Rojo, Material: Plástico y metal
 - Cabezal de engranaje de metal, Mango adicional que se puede ajustar en 2 posiciones
+- Velocidad de ralentí: 12000 rpm, Diámetro de disco: 125 mm
+- Color: Rojo, Material: Plástico y metal
+- Con disco de protección, Cierre de seguridad
 - Alimentación: 230 V/50 Hz, Potencia: 850 W
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B016KLJ5DU/?tag=tolees-21)

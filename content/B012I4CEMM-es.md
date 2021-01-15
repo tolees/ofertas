@@ -25,10 +25,10 @@ Tienes [Polti Vaporetto Lecoaspira FAV30 - Generador de vapor y aspiración con 
 
 🔎:
 
+- Higieniza con vapor a alta presión de hasta 4 bar; con tapón de seguridad
 - Aspira suciedad seca y húmeda
 - 13 accesorios en dotación
-- Higieniza con vapor a alta presión de hasta 4 bar; con tapón de seguridad
-- El vapor de polti vaporetto lecoaspira mata y elimina el 99,99% de virus, gérmenes y bacterias
 - Sistema de limpieza integrado: limpiador a vapor y aspirador con filtro de agua
+- El vapor de polti vaporetto lecoaspira mata y elimina el 99,99% de virus, gérmenes y bacterias
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B012I4CEMM/?tag=tolees-21)

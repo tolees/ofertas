@@ -26,9 +26,9 @@ En este momento está [TTYAOVO Vestidos de Noche de Encaje con Bordado de Flores
 🔎:
 
 - Cuidado de la ropa: Lavar a mano con agua fría. No usar lejía, colgar ni secar en seco. Secado rápido.
+- Ocasión: Adecuado para bodas, fiestas, primera comunión, ceremonias, bautizos, cumpleaños, reproducciones de arte fotográfico, etc.
 - Material: material de mezcla de poliéster de encaje, diseño de moda para niñas.
 - Tabla de tallas: consulte nuestra información de tallas en la foto a la izquierda de la tabla de tallas antes de realizar el pedido. La tabla de tallas indica rangos de edad para el niño, pero son solo para fines informativos.
 - Característica: esta falda tiene un diseño de tutú y encaje multicapa transpirable, sin mangas, elegante, vintage, con cremallera oculta en la parte posterior para que puedas ponerte / quitar el vestido fácilmente, a tu niña le encantará.
-- Ocasión: Adecuado para bodas, fiestas, primera comunión, ceremonias, bautizos, cumpleaños, reproducciones de arte fotográfico, etc.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07X3KXT8F/?tag=tolees-21)

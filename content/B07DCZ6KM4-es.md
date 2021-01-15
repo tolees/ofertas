@@ -25,10 +25,10 @@ Tienes [Garnier Skin Active Mascarilla de Tela Contorno de Ojos Anti-Fatiga y An
 
 🔎:
 
-- Para un mayor efecto refrescante, ¡métela en la nevera!
 - Descubre el Efecto Hielo combinado con el poder Energizante de la Vitamina C y la Hidratación que aporta el Ácido Hialurónico
-- Reduce las bolsas, Anti-Ojeras y Efecto Hielo 4ºC
-- Mantiene la piel hidratada y revitalizada, y una intensa sensación de frescor.
 - Consigue un contorno de ojos visiblemente desfatigado, luminoso y fresco
+- Mantiene la piel hidratada y revitalizada, y una intensa sensación de frescor.
+- Reduce las bolsas, Anti-Ojeras y Efecto Hielo 4ºC
+- Para un mayor efecto refrescante, ¡métela en la nevera!
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07DCZ6KM4/?tag=tolees-21)

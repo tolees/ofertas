@@ -25,10 +25,10 @@ Tienes [Garnier Original Remedies Oliva Mítica mascarilla capilar pelo seco - 3
 
 🔎:
 
-- Envase 100% reciclable
-- La Mascarilla Capilar de Oliva Mítica nutre intensamente sin apelmazar tu pelo dejándolo intensamente nutrido, ligero y suave
-- Aplicar sobre cabello mojado después del champú, masajeando de largos a puntas. Dejar actuar de 2 a 3 minutos y luego aclarar
 - 300 ml
+- Aplicar sobre cabello mojado después del champú, masajeando de largos a puntas. Dejar actuar de 2 a 3 minutos y luego aclarar
+- Envase 100% reciclable
 - Formulado con Aceite de Oliva rico en ácidos grasos y Vitamina E, se usa desde la antigüedad por sus propiedades altamente nutritivas, suavizantes y reparadoras
+- La Mascarilla Capilar de Oliva Mítica nutre intensamente sin apelmazar tu pelo dejándolo intensamente nutrido, ligero y suave
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00X9UBKAW/?tag=tolees-21)

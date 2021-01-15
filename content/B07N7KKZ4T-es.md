@@ -26,7 +26,7 @@ Tienes [Kodak Pilas Litio Cr2025 Ultra MAX Lithium 3V  2 Uds ](https://www.amazo
 🔎:
 
 - voltaje: 3v
-- De alta calidad
 - Tipo: cr2025
+- De alta calidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07N7KKZ4T/?tag=tolees-21)

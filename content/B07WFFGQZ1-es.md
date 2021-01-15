@@ -26,7 +26,7 @@ Está [Lee Marion Straight Jeans  Enjuague  26W / 31L para Mujer](https://www.am
 ℹ️:
 
 - Vaqueros para mujer
-- Presentan 5 bolsillos
 - Tienen un parche de piel en la parte trasera con la marca Lee
+- Presentan 5 bolsillos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07WFFGQZ1/?tag=tolees-21)

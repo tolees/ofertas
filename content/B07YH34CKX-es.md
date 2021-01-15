@@ -26,8 +26,8 @@ Tienes [Amazfit GTS-Rose Pink](https://www.amazon.es/dp/B07YH34CKX/?tag=tolees-2
 🔎:
 
 - Experiencia HD sin precedentes. Pantalla AMOLED de 341 PPI.
-- Cuerpo de Metal Colorido y Fino.
 - 12 Modos De Ejercicio Convencionales.
+- Cuerpo de Metal Colorido y Fino.
 - Resistencia al Agua De 5 ATM y Seguimiento para Natación Profesional.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07YH34CKX/?tag=tolees-21)

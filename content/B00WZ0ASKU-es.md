@@ -25,10 +25,10 @@ Tienes [San Ignacio Galaxy - Sartén  diámetro de 20 cm](https://www.amazon.es/
 
 ℹ️:
 
-- Apta para todo tipo de fuegos, incluida la de inducción. Medidas: Ø20 x 4,2 cm
+- Compatible con todo tipo de cocina, incluyendo inducción. Distribución uniforme del calor.
 - Antiadherente. Mango ergonómico de toque frío
 - Pensada para un uso intensivo
-- Compatible con todo tipo de cocina, incluyendo inducción. Distribución uniforme del calor.
+- Apta para todo tipo de fuegos, incluida la de inducción. Medidas: Ø20 x 4,2 cm
 - Aluminio forjado: conduce el calor de forma rápida y uniforme. Ahorro de energía
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00WZ0ASKU/?tag=tolees-21)

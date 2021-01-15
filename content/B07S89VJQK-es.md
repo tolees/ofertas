@@ -25,8 +25,8 @@ Tienes [Lee Jumpsuit pantalones de peto  Azul  Washed Blue Lr   Medium para Muje
 
 🔎:
 
-- Mono a rayas para mujer
 - Con cordón de ajuste de color en la cintura
+- Mono a rayas para mujer
 - Tiene el logo de la marca en el bolsillo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07S89VJQK/?tag=tolees-21)

@@ -25,10 +25,10 @@ En este momento está [Michael Kors Reloj Analogico para Mujer de Cuarzo con Cor
 
 🔎:
 
-- Case Thickness: 8 mm; Case Size: 38 mm
-- Band Width: 18 mm; Inner Circumference: 190 +/-5 mm
 - Band Material: Steel
 - Water Resistance: 5 ATM
+- Case Thickness: 8 mm; Case Size: 38 mm
+- Band Width: 18 mm; Inner Circumference: 190 +/-5 mm
 - Packed in a Michael Kors Gift Box
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CTRHDT3/?tag=tolees-21)

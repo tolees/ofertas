@@ -25,7 +25,7 @@ Tienes [Helly Hansen Crew Chaqueta  Hombre  Azul  Azul Navy   L](https://www.ama
 
 🔎:
 
-- Bajos ajustables con una sola mano; Puños ajustables
 - Forro de malla
+- Bajos ajustables con una sola mano; Puños ajustables
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B006SWDP24/?tag=tolees-21)

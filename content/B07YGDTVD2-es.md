@@ -26,9 +26,9 @@ Ahora mismo tienes [MTNG 69277 Deportivas de Mujer Blanco](https://www.amazon.es
 🔎:
 
 - Tipo de cierre Cordones
-- Material principal Sintetico
 - Tipo de tacón Cuña
-- Material de la suela Interna
+- Material principal Sintetico
 - Altura Tacón Medio (de 3 A 5 cm)
+- Material de la suela Interna
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YGDTVD2/?tag=tolees-21)
