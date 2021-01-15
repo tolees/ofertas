@@ -25,10 +25,10 @@ Está [Scuderia Ferrari Reloj Analógico para Hombre de Cuarzo con Correa en Sil
 
 ℹ️:
 
-- Correa de silicona negra
+- Grosor de la caja de 11,9mm, Diámetro de la caja: 44 mm
 - Tres manecillas
+- Correa de silicona negra
 - 3 ATM de resistencia al agua
 - Esfera negra de diseño apanalado con detalles en rojo
-- Grosor de la caja de 11,9mm, Diámetro de la caja: 44 mm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07V6CQ6TF/?tag=tolees-21)

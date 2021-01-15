@@ -25,10 +25,10 @@ En este momento está [GM Games Sherlock: Muerte el 4 de Julio  GDM Games GDM125
 
 🔎:
 
-- Legacy
 - Resolución de misterio
-- Incluye modo solitario
+- Legacy
 - Juego de deducción
+- Incluye modo solitario
 - Casos de asesinato
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07C34M8JP/?tag=tolees-21)
