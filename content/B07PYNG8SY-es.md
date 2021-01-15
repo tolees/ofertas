@@ -25,10 +25,10 @@ En este momento está [Anpro Luz Cadena Luz de Cortina USB  con 300 Bombillas LE
 
 🔎:
 
-- Más práctico: La luz cortina tiene ganchos, es más práctico para usar.
-- Buen rendimiento: Lámpara impermeable de alta calidad con baja generación de calor, alto brillo y larga vida útil.
-- Fácil de usar: Fuente de alimentación USB, solo conecte el dispositivo de interfaz USB, como el cargador USB, la energía móvil, la interfaz de la computadora, etc, puede usarlo en cualquier momento y lugar.
-- Uso amplio: 3M × 3M, 300 luces LED en blancas cálidas, es perfecta para la decoración interior y exterior,boda,fiesta,ventana,pared,jardin,habitacion,Navidad,año Nuevo, etc.
 - 8 modos y control remoto: La luz cadena tiene 8 modos,se elige con un control remoto,puede encender / apagar la luz y cambiar el modo de iluminación. También hay una función de temporizador que se mantendrá durante 6 horas, despues se apagará durante 18 horas y se reiniciará automáticamente.
+- Más práctico: La luz cortina tiene ganchos, es más práctico para usar.
+- Uso amplio: 3M × 3M, 300 luces LED en blancas cálidas, es perfecta para la decoración interior y exterior,boda,fiesta,ventana,pared,jardin,habitacion,Navidad,año Nuevo, etc.
+- Fácil de usar: Fuente de alimentación USB, solo conecte el dispositivo de interfaz USB, como el cargador USB, la energía móvil, la interfaz de la computadora, etc, puede usarlo en cualquier momento y lugar.
+- Buen rendimiento: Lámpara impermeable de alta calidad con baja generación de calor, alto brillo y larga vida útil.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07PYNG8SY/?tag=tolees-21)
