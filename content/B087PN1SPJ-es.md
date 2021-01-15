@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Babify Lagoon Bañera Plegable de Bebe co al 25.27 % de descuento'
-date: 2021-01-14 03:31:29
+date: 2021-01-15 04:39:49
 image: 'https://m.media-amazon.com/images/I/312DlZD4xJL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B087PN1SPJ/?tag=tolees-21'
 descuento: '25.27'
-average: '41.30647058823531'
+average: '41.08555555555557'
 ---
 
 Está [Babify Lagoon Bañera Plegable de Bebe con Cojín. Plegado ultra compacto - Cojin Reductor Incluido.](https://www.amazon.es/dp/B087PN1SPJ/?tag=tolees-21) con 25.27 de descuento por 37.33 EUR (original: 49.95 EUR) en el siguiente enlace!
