@@ -25,9 +25,9 @@ Tienes [Motorola Baby MBP11  Vigilabebés Audio Con Modo Eco  Blanco  Tamaño Ú
 
 ℹ️:
 
-- La tecnología DECT permite la no interferencia de audio y la conexión es totalmente segura y privada
-- El modo de eco es una nueva tecnología que reduce el consumo de energía y la potencia de transmisión
 - La intensidad del ruido proveniente de la habitación de los niños se indica mediante luces
+- El modo de eco es una nueva tecnología que reduce el consumo de energía y la potencia de transmisión
+- La tecnología DECT permite la no interferencia de audio y la conexión es totalmente segura y privada
 - Los datos se cifran respetando la privacidad
 - El monitor del bebé tiene un excelente micrófono incorporado
 

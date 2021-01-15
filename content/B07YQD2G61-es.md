@@ -25,10 +25,10 @@ Está [L Oréal Paris Elvive Dream Long Rapid Reviver  Mascarilla Instantánea R
 
 ℹ️:
 
-- Pack de 180 ml
-- Enriquecido con aminoácido y aceite de ricino
 - Especial cabellos largos
+- Pack de 180 ml
 - Mascarillas instantáneas que reviven tu pelo en 1 segundo
+- Enriquecido con aminoácido y aceite de ricino
 - Aplicar en pelo húmedo de medios a puntas después del champú, luego aclarar inmediatamente
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07YQD2G61/?tag=tolees-21)

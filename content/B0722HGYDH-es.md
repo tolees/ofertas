@@ -25,10 +25,10 @@ Ahora mismo tienes [Rimmel London Stay Matte Liquid Lip Colour Labial Líquido T
 
 🔎:
 
+- Color intenso, mate, y semipermanente
 - Contiene polímeros seleccionado para la adherencia óptima de la piel
 - A prueba de besos y roces
-- Color intenso, mate, y semipermanente
-- Fórmula con aceite de coco y vitamina E para proteger los labios
 - Alto contenido en pigmentos para un mayor acabado mate aterciopelado
+- Fórmula con aceite de coco y vitamina E para proteger los labios
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0722HGYDH/?tag=tolees-21)

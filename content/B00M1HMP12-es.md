@@ -25,10 +25,10 @@ Ahora mismo tienes [L Oréal Paris Pintalabios 24H Permanente  Color Rojo 700 Bo
 
 🔎:
 
-- Resistencia absoluta para unos labios hidratados y confortables, sin retoques
-- Color permanente hasta 24 horas disponible en 22 tonos
 - Su textura líquida enriquecida con ácido hialurónico se fija en tus labios sin manchar o agrietarse
-- Primero aplica el color con pigmentos mate y cuando se seque, aplica el hidratante potenciador del color
 - Pintalabios de larga duración para un resultado mate intacto 24 horas
+- Color permanente hasta 24 horas disponible en 22 tonos
+- Resistencia absoluta para unos labios hidratados y confortables, sin retoques
+- Primero aplica el color con pigmentos mate y cuando se seque, aplica el hidratante potenciador del color
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00M1HMP12/?tag=tolees-21)

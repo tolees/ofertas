@@ -26,9 +26,9 @@ En este momento está [Quimicamp 209080 - Kit Analisis Oto Y Ph 209080](https://
 🔎:
 
 - Con caja de plástico, fácil de guardar
-- Kit análisis reactivos para uso en piscina
-- Kit de prueba de calidad del agua
 - Líquidos para cloro y ph
 - Para prueba de cloro (cl) y prueba de hidrógeno (ph)
+- Kit análisis reactivos para uso en piscina
+- Kit de prueba de calidad del agua
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00J4JLOF8/?tag=tolees-21)

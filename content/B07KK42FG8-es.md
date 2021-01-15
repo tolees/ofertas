@@ -25,7 +25,7 @@ En este momento está [Columbia Peakfreak X2 Outdry  Zapatos de Senderismo  para
 
 🔎:
 
-- Tipo de tela: 100% poliéster
 - Goma de tracción Omni-Grip que no deja marcas
+- Tipo de tela: 100% poliéster
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KK42FG8/?tag=tolees-21)

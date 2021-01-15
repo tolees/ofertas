@@ -26,9 +26,9 @@ Está [adidas Falcon W  Running Shoe Womens  Core Black/Core Black/Footwear Whit
 ℹ️:
 
 - Rubber outsole
-- Mesh and suede upper
-- Light EVA midsole
 - Torsion system enables optimized freedom of movement
+- Light EVA midsole
+- Mesh and suede upper
 - Breathable mesh lining
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DP7W6LC/?tag=tolees-21)

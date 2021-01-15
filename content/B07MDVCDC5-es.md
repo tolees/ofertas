@@ -26,8 +26,8 @@ Tienes [Black Diamond Storm 375 Lampara de Cabeza  Unisex Adulto  Gris  Graphite
 ℹ️:
 
 - Funciones: potencia completa para alto haz y rango cerrado, función de atenuación, modo intermitente, modo de visión nocturna (rojo, verde y azul) y modo de bloqueo.
-- Resistente al agua: la tormenta 375 es impermeable, lo que permite que el agua entre en el compartimento de la batería sin afectar la función de la lámpara. La lámpara debe entonces secarse.
 - Tiempo de funcionamiento: al máximo ajuste, el tiempo de funcionamiento es de 5 horas, resistencia media (160 lúmenes) 10 horas con 4 pilas aaa.
+- Resistente al agua: la tormenta 375 es impermeable, lo que permite que el agua entre en el compartimento de la batería sin afectar la función de la lámpara. La lámpara debe entonces secarse.
 - Rendimiento: hasta 375 lúmenes de luz blanca cálida.
 - Estado: La Tecnología Powertap Permite Regular El Brillo Tocando La Funda. Además, El Nuevo Modelo Tiene Dos Interruptores Para Facilitar La Facilidad De Uso.
 

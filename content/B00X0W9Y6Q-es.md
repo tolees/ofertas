@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Eton CC Flap and Coin Poc al 39.52 % de descuento'
-date: 2021-01-12 12:31:00
+date: 2021-01-15 14:08:09
 image: 'https://m.media-amazon.com/images/I/41uJ+lr7BuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00X0W9Y6Q/?tag=tolees-21'
 descuento: '39.52'
-average: '50.82'
+average: '48.611999999999995'
 ---
 
 Está [Tommy Hilfiger Eton CC Flap and Coin Pocket  Cartera Hombre^Mujer  Black  OS](https://www.amazon.es/dp/B00X0W9Y6Q/?tag=tolees-21) con 39.52 de descuento por 45.3 EUR (original: 74.9 EUR) en el siguiente enlace!
@@ -25,9 +25,9 @@ Está [Tommy Hilfiger Eton CC Flap and Coin Pocket  Cartera Hombre^Mujer  Black 
 
 ℹ️:
 
-- Estación: Otoño/Invierno
 - Color: BLACK
 - Designer: TOMMY HILFIGER
 - Artículo: AM0AM00652 ETON
+- Estación: Otoño/Invierno
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00X0W9Y6Q/?tag=tolees-21)
+[🛒 Ver la oferta!!](https://www.amazon.es/dp/B00X0W9Y6Q/?tag=tolees-21)
