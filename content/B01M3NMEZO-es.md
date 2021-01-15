@@ -26,9 +26,9 @@ En este momento está [HP  X7W50AA  USB-C Travel Power Adapter 65W Interior 65W 
 🔎:
 
 - Compatibilidad: portátiles o tabletas HP con conector USB-C
-- El protector de sobretensión integrado mantiene tu portátil seguro frente a los cambios de la alimentación repentinos
-- Funciones: mantén tu cable ordenado y organizado con el gancho incorporado y el cierre de bucle
-- Diseño ligero con solo 60 libras (27 kg) que se adapta a tu bolsa
 - Tensión adaptable dependiendo de lo que necesites tu dispositivo, ofrece 5 V, 9 V, 10 V, 12 V, 15 V o 20 V de alimentación
+- Diseño ligero con solo 60 libras (27 kg) que se adapta a tu bolsa
+- Funciones: mantén tu cable ordenado y organizado con el gancho incorporado y el cierre de bucle
+- El protector de sobretensión integrado mantiene tu portátil seguro frente a los cambios de la alimentación repentinos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01M3NMEZO/?tag=tolees-21)
