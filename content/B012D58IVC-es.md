@@ -26,9 +26,9 @@ En este momento está [NITROPC - PC Gamer VX *REBAJAS*  CPU Intel 10100  4/8N x 
 🔎:
 
 - HDD: 2 TB SATA 6 GB/S
-- * Producto 100% Español* Windows 10 de 64 bits versión preliminar, 100% testeado, 2 años de garantía Premium incluida.
-- RAM: 16 Gb 2400 MHZ DDR4
-- (PRECIO *REBAJAS*) Antes 979€ ahora 676,21€
 - CPU: INTEL 10100 4,30 GHZ x 4/8 núcleos (turbo) / GRÁFICA: NVIDIA GTX 1050Ti 4GB
+- * Producto 100% Español* Windows 10 de 64 bits versión preliminar, 100% testeado, 2 años de garantía Premium incluida.
+- (PRECIO *REBAJAS*) Antes 979€ ahora 676,21€
+- RAM: 16 Gb 2400 MHZ DDR4
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B012D58IVC/?tag=tolees-21)

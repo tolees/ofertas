@@ -25,9 +25,9 @@ Ahora mismo tienes [Arcos Durapro Cacerola Antiadherente  Acero Inoxidable  Negr
 
 🔎:
 
-- Aluminio
 - Medida: 28 mm
 - Presentación en caja
 - Acero inoxidable
+- Aluminio
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B017DLN2TO/?tag=tolees-21)

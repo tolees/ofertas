@@ -25,9 +25,9 @@ Ahora mismo tienes [Sony MDRAS210B.Ae - Auriculares Deportivos de Botón con Aga
 
 🔎:
 
-- Auriculares ligeros, 12 g de peso
-- Cable con longitud de 1,2 m
 - Auriculares deportivos resistentes a salpicaduras
 - Agarre alrededor del oído para una sujeción cómoda y sin molestias
+- Cable con longitud de 1,2 m
+- Auriculares ligeros, 12 g de peso
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01LDKH2PG/?tag=tolees-21)

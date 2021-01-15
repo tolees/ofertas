@@ -25,10 +25,10 @@ Ahora mismo tienes [Crucial CT2000X8SSD9 X8 2 TB SSD portátil – de hasta 1050
 
 🔎:
 
-- Drop proof up to 2 m. Extreme-temperature, shock, and vibration proof
-- Beautiful and durable design, featuring an anodized aluminum unibody core
 - Backed by Micron, one of the largest manufacturers of flash storage in the world
-- Incredible performance with read speeds up to 1050 MB/s
+- Beautiful and durable design, featuring an anodized aluminum unibody core
 - Works with Windows, Mac, iPad Pro, Chromebook, Android, Linux, PS4, and Xbox One with USB-C 3.2 Gen2 and USB-A connectors
+- Incredible performance with read speeds up to 1050 MB/s
+- Drop proof up to 2 m. Extreme-temperature, shock, and vibration proof
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08C3XVP2P/?tag=tolees-21)
