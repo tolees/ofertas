@@ -25,8 +25,8 @@ Tienes [Seiko Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxid
 
 🔎:
 
-- Wr 100mt
 - Cronógrafo en acero inoxidable para hombre
+- Wr 100mt
 - Casual
 - Negro y metálico
 - Cuarzo
