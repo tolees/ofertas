@@ -25,13 +25,13 @@ En este momento está [Hugo BOSS Reloj con mecanismo de cuarzo para hombre 15132
 
 🔎:
 
+- Correa de piel
 - Color de la correa: negro
 - Cierre de hebilla
 - Movimiento de cronógrafo de cuarzo de 2 esferas (minutos y 24 horas)
-- Caja de acero inoxidable
-- Esfera plateada
-- Correa de piel
-- Sumergible hasta 5 atmósferas o 50 metros
 - Forma del producto: redondo
+- Sumergible hasta 5 atmósferas o 50 metros
+- Esfera plateada
+- Caja de acero inoxidable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B013PIDCU8/?tag=tolees-21)

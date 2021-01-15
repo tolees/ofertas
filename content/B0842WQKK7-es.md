@@ -25,10 +25,10 @@ Ahora mismo tienes [Amazfit T-Rex Reloj Inteligente Caqui AMOLED 3 3 cm  1.3"  G
 
 🔎:
 
-- Batería con una vida útil ultra larga de 20 días
-- Pantalla de colores AMOLED de 1,3 pulgadas siempre activa
-- 12 certificaciones de categoría militar
-- Resistente a ambientes adversos
 - Sumergible hasta 50 metros y 14 modos de deporte
+- Pantalla de colores AMOLED de 1,3 pulgadas siempre activa
+- Resistente a ambientes adversos
+- Batería con una vida útil ultra larga de 20 días
+- 12 certificaciones de categoría militar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0842WQKK7/?tag=tolees-21)

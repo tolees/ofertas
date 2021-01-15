@@ -25,8 +25,8 @@ Tienes [ROBOT LIMPIACRISTALES SMARTBOT HOBOT-288 con App](https://www.amazon.es/
 
 ℹ️:
 
+- Ideal para limpiar los cristales de tu casa
 - Ideal para limpiar los espejos
 - Ideal para limpiar las mamparas de baño
-- Ideal para limpiar los cristales de tu casa
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01MSDEBP0/?tag=tolees-21)

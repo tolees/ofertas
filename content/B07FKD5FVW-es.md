@@ -25,8 +25,8 @@ Tienes [Buff Solid Tubular Original  Unisex Adulto  Black  Talla única](https:/
 
 ℹ️:
 
-- Diseñado para mejorar la sostenibilidad, usando microfibras de poliéster obtenidas de botellas de plástico recicladas.
 - Protección contra la radiación UV del Sol. Los resultados de las muestras probadas en los laboratorios otorgan un 98% de protección.
 - Productos creados usando tela estirable en todas las direcciones para una mejor comodidad y ajuste.
+- Diseñado para mejorar la sostenibilidad, usando microfibras de poliéster obtenidas de botellas de plástico recicladas.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07FKD5FVW/?tag=tolees-21)

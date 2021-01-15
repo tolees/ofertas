@@ -25,9 +25,9 @@ Ahora mismo tienes [Edge Entertainment Kharnage - Juego de Mesa EDGKH01](https:/
 
 🔎:
 
-- La temporada perfecta para conquistar esa agradable colina sin ningún valor estratégico
-- Ya sabes, la que tiene una mesa de picnic en la cima
 - Number of players: de 2 a 4
+- Ya sabes, la que tiene una mesa de picnic en la cima
 - ¡Llega la primavera! La estación de las batallas y las masacres
+- La temporada perfecta para conquistar esa agradable colina sin ningún valor estratégico
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06XMRRS32/?tag=tolees-21)

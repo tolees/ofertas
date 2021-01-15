@@ -28,7 +28,7 @@ Está [Philips Barbero MG7720/15 Recortador de barba y pelo  óptima precisión 
 - Impermeable para una limpieza y un uso en la ducha cómodos
 - Tecnología DualCut para óptima precisión con el doble de cuchillas
 - Set de afeitado multifunción con 14 accesorios para cara, cabello y cuerpo
-- El recortador metálico recorta con precisión la barba, el cabello y el vello del cuerpo
 - Autonomía: hasta 120 minutos de uso sin cable por carga
+- El recortador metálico recorta con precisión la barba, el cabello y el vello del cuerpo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B074WDYBS6/?tag=tolees-21)

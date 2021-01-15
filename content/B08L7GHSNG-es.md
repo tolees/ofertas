@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vengadores Steelbook 1-4 + Disco bonus [ al 45.82 % de descuento'
-date: 2021-01-14 03:45:03
+date: 2021-01-15 10:53:19
 image: 'https://m.media-amazon.com/images/I/510-hYVQyKL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08L7GHSNG/?tag=tolees-21'
 descuento: '45.82'
-average: '36.98830985915494'
+average: '36.68698630136987'
 ---
 
 Ahora mismo tienes [Vengadores Steelbook 1-4 + Disco bonus [Blu-ray]](https://www.amazon.es/dp/B08L7GHSNG/?tag=tolees-21) a 25.99 EUR (original: 47.97 EUR) (45.82 %  de descuento) en el siguiente enlace!

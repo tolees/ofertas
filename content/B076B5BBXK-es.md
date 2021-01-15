@@ -25,10 +25,10 @@ Tienes [CASIO SL-310UC-BU - Calculadora  0.8 x 7 x 11.8 cm  color azul](https://
 
 ℹ️:
 
-- Pantalla LC extra grande de 10 dígitos
-- Subdivisión en miles y Tecla de corrección rápida
+- Raíz Cuadrada y Cálculo de unidades de tiempo
 - 8 teclas memoria y Tecla de símbolo + / -
 - Calculación de impuestos y de porcentajes
-- Raíz Cuadrada y Cálculo de unidades de tiempo
+- Pantalla LC extra grande de 10 dígitos
+- Subdivisión en miles y Tecla de corrección rápida
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B076B5BBXK/?tag=tolees-21)

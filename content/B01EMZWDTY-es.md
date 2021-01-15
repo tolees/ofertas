@@ -25,9 +25,9 @@ Está [Fleck Duo 5 - Termo Eléctrico Ultra Compacto  Eficiencia B B M  50 l](ht
 
 ℹ️:
 
-- Doble acumulador
-- Recubrimiento vitrificado al titanio
 - Resistencia blindada sumergida antical
+- Recubrimiento vitrificado al titanio
 - Multiposición: vertical u horizontal
+- Doble acumulador
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01EMZWDTY/?tag=tolees-21)
