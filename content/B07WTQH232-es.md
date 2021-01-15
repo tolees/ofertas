@@ -25,9 +25,9 @@ Ahora mismo tienes [Pop! Movies: John Wick - John in Black Suit w/ Dog](https://
 
 🔎:
 
+- Descúbre otras figuras de la colección john wick y colecciónalas todas
 - La figura mide 9 cm y se envía en una caja ilustrada con ventana
 - De la colección john wick, john in black suit w/ dog como figura de vinilo pop de funko
 - Funko pop. El juguete del año 2018
-- Descúbre otras figuras de la colección john wick y colecciónalas todas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WTQH232/?tag=tolees-21)

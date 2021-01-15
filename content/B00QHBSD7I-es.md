@@ -25,10 +25,10 @@ Ahora mismo tienes [Levi s Otis Beanie Gorro de Punto  Gris  R Grey 55   X-Large
 
 🔎:
 
-- Información sobre las tallas y medidas del gorro: S/M se ajusta de los 55 cm a los 58 cm. L/XL se ajusta de los 59 cm a los 62 cm.
 - Mide aproximadamente 21 cm
-- Hecho en Italia
 - Etiqueta de Levis cosida en la parte inferior
+- Información sobre las tallas y medidas del gorro: S/M se ajusta de los 55 cm a los 58 cm. L/XL se ajusta de los 59 cm a los 62 cm.
 - Doble capa
+- Hecho en Italia
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00QHBSD7I/?tag=tolees-21)

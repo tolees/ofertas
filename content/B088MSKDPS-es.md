@@ -25,10 +25,10 @@ En este momento está [Alvarez Gómez Spray higienizante 30ml](https://www.amazo
 
 🔎:
 
-- Gel higienizante para el uso y cuidado personal
-- Perfecto para llevar en el bolso o coche, 80º Alcohol
-- Olor: Alcohólico y neutro
 - Contiene Glicerina: para hidratar y minimizar la sequedad en la piel
+- Perfecto para llevar en el bolso o coche, 80º Alcohol
+- Gel higienizante para el uso y cuidado personal
+- Olor: Alcohólico y neutro
 - Peróxido de hidrógeno: en una pequeña proporción para desactivar las esporas bacterianas contaminantes de la disolución
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088MSKDPS/?tag=tolees-21)
