@@ -25,7 +25,7 @@ Tienes [Diesel S-astico Low Lace  Zapatillas para Hombre  Negro  Black T8013/Pr0
 
 🔎:
 
-- Muy cómodo de llevar.
 - De la marca Diesel.
+- Muy cómodo de llevar.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07D2WVFN9/?tag=tolees-21)

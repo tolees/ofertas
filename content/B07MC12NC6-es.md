@@ -25,8 +25,8 @@ Está [Clarks Grandin Top  Botas clásicas. Hombre  Marrón Oscuro  44 EU](https
 
 ℹ️:
 
-- Interior: textil
-- Exterior: piel
 - Suela: goma
+- Exterior: piel
+- Interior: textil
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07MC12NC6/?tag=tolees-21)
