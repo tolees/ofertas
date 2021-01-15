@@ -25,10 +25,10 @@ Ahora mismo tienes [VITANATUR EQUILIBRIUM 60 Comprimidos - Complemento alimentic
 
 🔎:
 
-- Ingredientes: Vitaminas B3, B5, B6, B8, B9 y B12, Magnesio, Extracto de Azafrán y Rodiola, Triptófano
-- Empleo: Tomar 2 comprimidos/día durante 2 meses, descansar un mes y repetir si es necesario
 - Indicaciones: Útil en caso de alteraciones de estado de ánimo, tristeza, ansiedad, estrés, irritabilidad
-- Formato: Caja/Estuche 100g con 60 comprimidos
+- Empleo: Tomar 2 comprimidos/día durante 2 meses, descansar un mes y repetir si es necesario
+- Ingredientes: Vitaminas B3, B5, B6, B8, B9 y B12, Magnesio, Extracto de Azafrán y Rodiola, Triptófano
 - Complemento alimenticio Vitanatur Equilibrium
+- Formato: Caja/Estuche 100g con 60 comprimidos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0799LYC2S/?tag=tolees-21)
