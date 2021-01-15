@@ -25,9 +25,9 @@ Está [Rotulador STABILO Pen 68 - Estuche con 8 colores](https://www.amazon.es/d
 
 ℹ️:
 
-- Marca : stabilo
-- Tipo : de fibra
-- Trazo : 1 mm
 - De alta calidad
+- Tipo : de fibra
+- Marca : stabilo
+- Trazo : 1 mm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MZZOISO/?tag=tolees-21)

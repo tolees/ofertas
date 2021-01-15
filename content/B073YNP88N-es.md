@@ -25,10 +25,10 @@ En este momento está [TACKLIFE Juego de Puntas PSDB1A 61 en 1  Equipo de Accion
 
 🔎:
 
-- ▲【60 Brocas con estándar ansi】: Juego de destornilladores de precisión, incluye 60 piezas, con inserción pozis, phillips, ranurados, torxs, cuadrados, hexágonos, torx de seguridad. Ideal para casi todas las aplicaciones de conducción y fijación
-- ▲【Estuche compacto】: Portátil estuche te ayuda a llevar tus herramientas de un trabajo a otro y mantenerlas protegidas. Las etiquetas adhesivas ayudan a mantener sus herramientas organizadas
-- ▲【Material de acero al cromo-vanadio】: El proceso de tratamiento térmico avanzado incluye una calidad superior. La dureza puede alcanzar 56 HRC para mayor durabilidad y confiabilidad
 - ▲【1/4" Soporte de broca de extensión magnética】: Muy adecuado para todos los taladros de marca, destornilladores eléctricos y otras herramientas eléctricas; El controlador multitomagnético facilita la fijación de la broca y la extracción de los tornillos
 - ▲【Contenido del paquete】: 1×Tacklife PSDB1A Juego de brocas de destornillador (incluidas las piezas de destornillador de 60 piezas), 1×Portabrocas magnético de mango hexagonal universal de 1/4 ", 1×Estuche de transporte
+- ▲【Material de acero al cromo-vanadio】: El proceso de tratamiento térmico avanzado incluye una calidad superior. La dureza puede alcanzar 56 HRC para mayor durabilidad y confiabilidad
+- ▲【60 Brocas con estándar ansi】: Juego de destornilladores de precisión, incluye 60 piezas, con inserción pozis, phillips, ranurados, torxs, cuadrados, hexágonos, torx de seguridad. Ideal para casi todas las aplicaciones de conducción y fijación
+- ▲【Estuche compacto】: Portátil estuche te ayuda a llevar tus herramientas de un trabajo a otro y mantenerlas protegidas. Las etiquetas adhesivas ayudan a mantener sus herramientas organizadas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B073YNP88N/?tag=tolees-21)

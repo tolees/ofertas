@@ -25,10 +25,10 @@ Tienes [ESR Funda Compatible con iPhone XS MAX 2018  Funda de Vidrio Templado 9H
 
 🔎:
 
-- [Garantía de por Vida]: reemplazo o reembolso en caso de daños a nuestros productos durante el período de garantía.
-- [Resistente a los Arañazos]: La parte posterior en vidrio templado 9H es lo suficientemente fuerte como para resistir los astillamientos y arañazos de la vida cotidiana.
-- [Conserva la Belleza Original del iPhone XS Max]: Imita la parte posterior lisa de cristal del iPhone XS Max y le ofrece un agarre excepcional.
-- [Parte Posterior en Vidrio Templado 9H]: Hecho de vidrio templado 9H + Borde de TPU suave para ofrecer una protección integral.
 - [Resistente a los Golpes]: El material de esquina suave es más capaz de absorber los golpes; protegiendo el vidrio de tu iPhone XS Max.
+- [Garantía de por Vida]: reemplazo o reembolso en caso de daños a nuestros productos durante el período de garantía.
+- [Parte Posterior en Vidrio Templado 9H]: Hecho de vidrio templado 9H + Borde de TPU suave para ofrecer una protección integral.
+- [Conserva la Belleza Original del iPhone XS Max]: Imita la parte posterior lisa de cristal del iPhone XS Max y le ofrece un agarre excepcional.
+- [Resistente a los Arañazos]: La parte posterior en vidrio templado 9H es lo suficientemente fuerte como para resistir los astillamientos y arañazos de la vida cotidiana.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07FLTCS9D/?tag=tolees-21)

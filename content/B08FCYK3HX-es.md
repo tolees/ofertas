@@ -25,12 +25,12 @@ En este momento está [Asterix & Obelix Xxl - Romastered](https://www.amazon.es/
 
 🔎:
 
-- two new game Modes
-- fans will be delighted to know that the original voices have been kept!
+- up to date graphics
+- new camera and some animations reworked from the ground up!
+- new gameplay
 - an option to switch between the original game and the remastered visuals
 - The gauls are back!
-- new gameplay
-- new camera and some animations reworked from the ground up!
-- up to date graphics
+- fans will be delighted to know that the original voices have been kept!
+- two new game Modes
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FCYK3HX/?tag=tolees-21)

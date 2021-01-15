@@ -25,9 +25,9 @@ Ahora mismo tienes [Natural Honey Figura Perfecta Loción Anticelulítica - 400 
 
 🔎:
 
-- Envase de 400 ml
+- Loción reafirmante anticelulítica - Mujer
 - Texturas: Loción
 - Loción reafirmante anticelulítica
-- Loción reafirmante anticelulítica - Mujer
+- Envase de 400 ml
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01HS1D7JE/?tag=tolees-21)
