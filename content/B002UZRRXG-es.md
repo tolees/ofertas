@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DIGIFLEX Carcasa para Disco Duro IDE 2 5 al 33.37 % de descuento'
-date: 2021-01-01 14:00:46
+date: 2021-01-15 03:53:05
 image: 'https://m.media-amazon.com/images/I/41T951quZAL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,4 +26,4 @@ Ahora mismo tienes [DIGIFLEX Carcasa para Disco Duro IDE 2 5" a USB HDD para Ord
 🔎:
 
 
-[Visítala!!!](https://www.amazon.es/dp/B002UZRRXG/?tag=tolees-21)
+[🛒 Visítala!!!](https://www.amazon.es/dp/B002UZRRXG/?tag=tolees-21)
