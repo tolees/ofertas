@@ -25,7 +25,7 @@ Tienes [Geographical Norway Parka BOOMERA de Mujer Azul Marino Talla L](https://
 
 🔎:
 
-- Bolsillos
 - Capucha
+- Bolsillos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07XRK4RQV/?tag=tolees-21)

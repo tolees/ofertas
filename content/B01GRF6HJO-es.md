@@ -25,10 +25,10 @@ Está [Bourjois Contour Clubbing Waterproof  Delineador de Ojos  Tono 62 Kaki sm
 
 ℹ️:
 
-- Puede utilizarse como liner o sombra de ojos
-- Disponible en 3 acabados: semi mate, brillante y metalizado
 - Lápiz de ojos resistente al agua de color vibrante
 - Fórmula resistene al agua a prueba de roces
 - Textura ultra suave enriquecida con vitamina E y con aceite de joboba
+- Disponible en 3 acabados: semi mate, brillante y metalizado
+- Puede utilizarse como liner o sombra de ojos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01GRF6HJO/?tag=tolees-21)

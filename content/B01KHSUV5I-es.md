@@ -25,10 +25,10 @@ Tienes [Revlon Ultra HD Gel Pintalabios  Desert ](https://www.amazon.es/dp/B01KH
 
 ℹ️:
 
+- Gel Ultra hidratante con pigmentos de color de alta definición.
+- Tiene tecnología HD alta definición con fórmula base gel ultra hidratante
 - Punta de precisión para una aplicación precisa en los labios
 - Sensación sedosa y ligera
-- Tiene tecnología HD alta definición con fórmula base gel ultra hidratante
-- Gel Ultra hidratante con pigmentos de color de alta definición.
 - Pigmentos de color de alta definición
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01KHSUV5I/?tag=tolees-21)
