@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PROTELLA Charly 230gr  BOLLICAO  5 Rings al 50.92 % de descuento'
-date: 2021-01-15 04:39:44
+date: 2021-01-16 05:30:29
 image: 'https://m.media-amazon.com/images/I/41X3P3UZ8gL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07TFW2GMH/?tag=tolees-21'
 descuento: '50.92'
-average: '7.43468085106383'
+average: '7.294489795918367'
 ---
 
 Ahora mismo tienes [PROTELLA Charly 230gr  BOLLICAO  5 Rings  Estándar  Único](https://www.amazon.es/dp/B07TFW2GMH/?tag=tolees-21) a 4.0 EUR (original: 8.15 EUR) (50.92 %  de descuento) en el siguiente enlace!
