@@ -25,10 +25,10 @@ En este momento está [REVLON Super Lustrous Pintalabios  Cherries in Snow ](htt
 
 🔎:
 
-- Enriquecido con Aloe, Vitaminas A, C y E
-- Acabado satinado
 - Sin fragancia
-- La barra de labios icono de Revlon. Tiene complejo de silicona de seda y su fórmula LiquidSilk sella el color y suaviza los labios aportando hidratación
+- Acabado satinado
+- Enriquecido con Aloe, Vitaminas A, C y E
 - Extra sedoso e hidratante
+- La barra de labios icono de Revlon. Tiene complejo de silicona de seda y su fórmula LiquidSilk sella el color y suaviza los labios aportando hidratación
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B074J2DLC3/?tag=tolees-21)

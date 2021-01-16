@@ -25,10 +25,10 @@ Está [Funko - Pop! Disney: Frozen 2 - Mattias Figurina  Multicolor  40894 ](htt
 
 ℹ️:
 
-- Disney frozen 2
+- Descúbre otras figuras de la colección disney y colecciónalas todas
+- De la colección frozen 2, mattias como figura de vinilo pop de funko
 - Mattias
 - La figura mide 9 cm y se envía en una caja ilustrada con ventana
-- De la colección frozen 2, mattias como figura de vinilo pop de funko
-- Descúbre otras figuras de la colección disney y colecciónalas todas
+- Disney frozen 2
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07QSBWS6V/?tag=tolees-21)

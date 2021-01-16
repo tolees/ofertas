@@ -25,9 +25,9 @@ Tienes [Intex 55000 - Pack de 2 cartuchos SPA tipo S1  altura de 7.5 cm y diáme
 
 ℹ️:
 
-- Medidas: altura de 7.5 cm, diámetro exterior de 10.8 cm, diámetro interior de 4 cm
 - Pack de dos cartuchos de filtración para spa Intex tipo S1
-- Es aconsejable cambiar el cartucho cada 2 semanas para un mejor funcionamiento y limpieza
 - Durante el uso diario del spa, el cartucho tiene que limpiarse de forma frecuente
+- Es aconsejable cambiar el cartucho cada 2 semanas para un mejor funcionamiento y limpieza
+- Medidas: altura de 7.5 cm, diámetro exterior de 10.8 cm, diámetro interior de 4 cm
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00FS5FQSI/?tag=tolees-21)

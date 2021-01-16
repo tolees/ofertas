@@ -25,9 +25,9 @@ Tienes [Philips myGarden Robin Pedestal LED  IP44  iluminación exterior  resist
 
 ℹ️:
 
-- IP44: resistente al agua
-- Diseñado para tu jardín
 - Estilo elegante
+- Diseñado para tu jardín
+- IP44: resistente al agua
 - Bombilla incluida
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00UEMFAY0/?tag=tolees-21)

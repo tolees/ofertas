@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Selene Sujetador Deportivo Confort Negro al 36.91 % de descuento'
-date: 2021-01-15 16:25:47
+date: 2021-01-16 16:32:40
 image: 'https://m.media-amazon.com/images/I/41TtPx6d2FL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B008X1TFLS/?tag=tolees-21'
 descuento: '36.91'
-average: '9.596057142857138'
+average: '9.586723163841803'
 ---
 
 Está [Selene Sujetador Deportivo Confort Negro 95B](https://www.amazon.es/dp/B008X1TFLS/?tag=tolees-21) con 36.91 de descuento por 8.77 EUR (original: 13.9 EUR) en el siguiente enlace!

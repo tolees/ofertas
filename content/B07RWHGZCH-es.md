@@ -25,7 +25,7 @@ Ahora mismo tienes [Only Konpoptrash Easy Pant Pantalones  Negro  Black Detail: 
 
 🔎:
 
-- Pants with stripe
 - Trousers with elastic band
+- Pants with stripe
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RWHGZCH/?tag=tolees-21)

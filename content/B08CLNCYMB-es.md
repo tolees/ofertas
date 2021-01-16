@@ -25,10 +25,10 @@ En este momento está [Reebok Te M Grip Bolsa de Deporte  Unisex Adulto  clapnk 
 
 🔎:
 
-- Correa ajustable para el hombro
-- Compartimento principal con cremallera
-- 100 % poliéster
-- Bolsillos laterales
 - Dimensiones: 27 cm x 55 cm x 27 cm; volumen: 35,75 litros
+- 100 % poliéster
+- Compartimento principal con cremallera
+- Bolsillos laterales
+- Correa ajustable para el hombro
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CLNCYMB/?tag=tolees-21)

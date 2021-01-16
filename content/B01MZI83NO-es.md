@@ -25,13 +25,13 @@ En este momento está [Tamron SP 70-200 mm F/2.8 Di VC USD G2 - Objetivo para Ni
 
 🔎:
 
-- ajustes Full-time Manual Focus override
-- Estabilizador VC (Vibration Compensation) de tres modos - VC1-estandar, VC2-barrido de cámara, VC3-prioriza la estabilidad de captura
-- enfoque AF USD (Ultrasonic Silent Drive) de alta velocidad preciso y seguro
-- Revestimiento de flúor y sellado robusto contra el polvo y humedad
 - Óptica digital con distancia focal variable para cámaras DSLR con Sensor Full Frame 24 x 37
-- XLD (eXtra Low Dispersion) y la LD (Low Dispersion)
+- ajustes Full-time Manual Focus override
 - Revestimiento eBAND
+- enfoque AF USD (Ultrasonic Silent Drive) de alta velocidad preciso y seguro
 - Compatible con la Tamron TAP-in-Console y con los tele convertidores exclusivos para objetivos Tamron
+- Revestimiento de flúor y sellado robusto contra el polvo y humedad
+- XLD (eXtra Low Dispersion) y la LD (Low Dispersion)
+- Estabilizador VC (Vibration Compensation) de tres modos - VC1-estandar, VC2-barrido de cámara, VC3-prioriza la estabilidad de captura
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01MZI83NO/?tag=tolees-21)

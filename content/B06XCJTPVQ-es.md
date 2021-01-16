@@ -25,8 +25,8 @@ Está [Mickey Mouse- Preescolar Mickey Taller  Propio 182493 ](https://www.amazo
 
 ℹ️:
 
+- Figura Mickey articulada exclusiva
 - Incluye 2 vehículos con piezas intercambiables de Mickey y Donal
 - La figura mágicamente activa luces y sonidos
-- Figura Mickey articulada exclusiva
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XCJTPVQ/?tag=tolees-21)
