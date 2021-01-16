@@ -25,7 +25,7 @@ Ahora mismo tienes [Superga 2750 COTU Classic Sneakers  Zapatillas Unisex Adulto
 
 🔎:
 
-- Elegante y cómodo
 - Disponible en varios colores
+- Elegante y cómodo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002WGHYKO/?tag=tolees-21)

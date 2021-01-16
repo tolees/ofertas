@@ -25,8 +25,8 @@ Tienes [YoPRO Pack 8 unidades batido 25G de Proteína sabor chocolate de 330 ml 
 
 🔎:
 
-- Con 25 g de proteína
-- Con 9 aminoácidos esenciales
 - Sin azúcares añadidos y grasas
+- Con 9 aminoácidos esenciales
+- Con 25 g de proteína
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0854XWJZN/?tag=tolees-21)

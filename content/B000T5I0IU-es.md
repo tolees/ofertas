@@ -25,7 +25,7 @@ Tienes [Lacor - 62448 - Termo Para Alimentos Inox. 0 7 Litros](https://www.amazo
 
 ℹ️:
 
-- Doble pared
 - Acero inoxidable
+- Doble pared
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000T5I0IU/?tag=tolees-21)

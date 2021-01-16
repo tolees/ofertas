@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Case Logic DCB302K - Bolsa para cámaras  con un 58.38 % de descuento'
-date: 2021-01-11 11:41:39
+date: 2021-01-16 14:37:53
 image: 'https://m.media-amazon.com/images/I/51-hzOf0QmL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ En este momento está [Case Logic DCB302K - Bolsa para cámaras Digitales compac
 
 🔎:
 
+- Tiene una correa de hombro desmontable
 - Cierre con cremallera
+- Con compartimentos para accesorios
 - Compatible con cámaras digitales compactas, 7,1 x 7,9 x 12,4 cm
 - Producto está hecho de poliéster
-- Tiene una correa de hombro desmontable
-- Con compartimentos para accesorios
 
-[Aquí!!!](https://www.amazon.es/dp/B003F7DWH8/?tag=tolees-21)
+[🛒 Aquí!!!](https://www.amazon.es/dp/B003F7DWH8/?tag=tolees-21)
