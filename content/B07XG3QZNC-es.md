@@ -25,10 +25,10 @@ En este momento está [eXtremeRate 30 unidades/juego de pegatinas para barra de 
 
 🔎:
 
-- Superficie de acabado mate. Se adhiere bien y nunca deja residuos pegajosos cuando se retira.
 - Reutilizable. Cambiarlos en cualquier momento a otra. Se los quitan y luego los pongas de nuevo si quieres
+- Reduce el brillo cuando juegas en la oscuridad, puede ocultar parcialmente la luz ciega. Tienen formas por lo que parte de la luz pasa a través, revelando la forma de la imagen en la pegatina.
 - El tamaño exacto del área de luz. Dale a tus controladores algo de personalidad. Las partes negras de la barra de luz pueden cubrir completamente la luz y la luz brillará a través de la parte transparente.
 - Diseñado para cubrir la barra de luz LED en tu PS4, PS4 Slim o PS4 Pro.
-- Reduce el brillo cuando juegas en la oscuridad, puede ocultar parcialmente la luz ciega. Tienen formas por lo que parte de la luz pasa a través, revelando la forma de la imagen en la pegatina.
+- Superficie de acabado mate. Se adhiere bien y nunca deja residuos pegajosos cuando se retira.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07XG3QZNC/?tag=tolees-21)

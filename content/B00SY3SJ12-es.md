@@ -25,12 +25,12 @@ Ahora mismo tienes [Einhell 4513660 Taladro atornillador sin cable TH-CD 12-2 Li
 
 🔎:
 
-- Bloqueo automático del husillo para cambio sencillo de herramientas
 - Acoplamiento a fricción de par contra el paso de rosca de tornillos; empuñadura antideslizante ergonómica
-- Batería de iones de litio: sin autodescarga, pequeña, ligera, de fácil manejo; batería de recambio integrada en el asa
-- Batería adecuada para varios equipos 12 V
 - Engranaje de 2 velocidades para el atornillado potente y perforación rápida
-- Motor de gran potencia y engranaje metálico para par de giro elevado
+- Batería adecuada para varios equipos 12 V
 - Mandril portabrocas de sujeción rápida de carcasa única con parada rápida
+- Motor de gran potencia y engranaje metálico para par de giro elevado
+- Bloqueo automático del husillo para cambio sencillo de herramientas
+- Batería de iones de litio: sin autodescarga, pequeña, ligera, de fácil manejo; batería de recambio integrada en el asa
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00SY3SJ12/?tag=tolees-21)
