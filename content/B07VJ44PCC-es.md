@@ -25,10 +25,10 @@ Tienes [Bee Simulator XB1 [Versión Española]](https://www.amazon.es/dp/B07VJ44
 
 🔎:
 
+- Temas de actualidad (protección de las abejas y del medio ambiente)
+- Una relajante experiencia para un jugador en el modo Libre (Free Flight)
 - Un juego educativo sin violencia; un juego diseñado para niños y toda la familia, único en el mercado
 - Con la opción de jugar en pantalla dividida y en modo cooperativo; un mundo abierto lleno de variedad y vida (zoo, parque de atracciones, etc.)
 - Horas y horas de juego en el modo Historia ¡Vive la gran aventura de una pequeña abeja y explora el mundo para salvar tu colmena
-- Temas de actualidad (protección de las abejas y del medio ambiente)
-- Una relajante experiencia para un jugador en el modo Libre (Free Flight)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VJ44PCC/?tag=tolees-21)

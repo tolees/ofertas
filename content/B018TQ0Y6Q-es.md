@@ -26,9 +26,9 @@ Está [Zyxel GS1100-10HP Conmutador de 10 puertos  130 vatios  sin ventilador  N
 ℹ️:
 
 - Te ayuda a ahorrar energía con la función green ethernet
+- Dos puertos sfp compatibles con despliegues sencillos a larga distancia
+- Transmisión a velocidad de cable sin bloqueo
 - Diseño sin ventilador. Apto para entornos de oficina pequeños o silenciosos.
 - Compatible con auto mdi/mdi-x
-- Transmisión a velocidad de cable sin bloqueo
-- Dos puertos sfp compatibles con despliegues sencillos a larga distancia
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B018TQ0Y6Q/?tag=tolees-21)

@@ -25,9 +25,9 @@ En este momento está [Hitman 2 - Standard Edition](https://www.amazon.es/dp/B07
 
 🔎:
 
-- El mundo es tu arma. Solo en HITMAN puedes usar cualquier objeto de tu entor no para planificar y ejecutar el asesinato perfecto: usa el sigilo, sabotaje y todo lo demás para convertir tu creatividad en un arma letal.
 - La mejor experiencia HITMAN hasta la fecha. HITMAN depura la experiencia asesina, incluyendo las mejoras del juego anterior. Hitman añade una progresión del jugador mejorada y varias optimizaciones de la interfaz para convertirte en un asesino aún más letal.
-- Un mundo de asesinato. HITMAN no solo incluye una nueva campaña sino también nuevas misiones, objetivos escurridizos y más contenido actualizado gratuito, que te ofrece nuevas formas de poner a prueba tu creatividad asesina.
 - Nuevas formas de matar. Presentando nuevos modos y nuevas formas de jugar a HITMAN con tus amigos: coopera con un amigo en el modo Asesino francotirador o compite por la máxima puntuación.
+- Un mundo de asesinato. HITMAN no solo incluye una nueva campaña sino también nuevas misiones, objetivos escurridizos y más contenido actualizado gratuito, que te ofrece nuevas formas de poner a prueba tu creatividad asesina.
+- El mundo es tu arma. Solo en HITMAN puedes usar cualquier objeto de tu entor no para planificar y ejecutar el asesinato perfecto: usa el sigilo, sabotaje y todo lo demás para convertir tu creatividad en un arma letal.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07GG6Z8TS/?tag=tolees-21)
