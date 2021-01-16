@@ -25,8 +25,8 @@ En este momento está [Geographical Norway Parka BOOMERA niña BLANCO talla 16](
 
 🔎:
 
-- Capucha
 - pelo destomtable
+- Capucha
 - Chaqueta de niña
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08QCCHRSJ/?tag=tolees-21)

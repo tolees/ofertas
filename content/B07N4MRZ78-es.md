@@ -26,7 +26,7 @@ En este momento está [Levi s Woodward L  Zapatillas Hombre  Azul  Sneakers 17  
 🔎:
 
 - Textíl, Textíl, sintética, caucho, Cordones, Zapatillas bajas
-- 1
 - Shoe Width : medium
+- 1
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07N4MRZ78/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.11 % en Oxford - Pack 4+1 Cuadernos Folio A4  Ta'
-date: 2021-01-10 12:19:56
+date: 2021-01-16 12:11:17
 image: 'https://m.media-amazon.com/images/I/51vmfNgJT2L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,7 +26,7 @@ Tienes [Oxford - Pack 4+1 Cuadernos Folio A4  Tapa Extradura Write&Erase  80 Hoj
 ℹ️:
 
 - Son de tamaño folio y cuentan con 80 hojas de 90 g - cuadriculadas
-- Tienen tapa forrada extradura
 - Pack 4+1 cuadernos Oxford espiralados
+- Tienen tapa forrada extradura
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B00PDRBCRK/?tag=tolees-21)
+[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00PDRBCRK/?tag=tolees-21)

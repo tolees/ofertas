@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GM Games Sherlock: Muerte el 4 de Julio  con un 45.54 % de descuento'
-date: 2021-01-15 08:13:56
+date: 2021-01-16 12:07:58
 image: 'https://m.media-amazon.com/images/I/51uKV0rd2nL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,8 +27,8 @@ En este momento está [GM Games Sherlock: Muerte el 4 de Julio  GDM Games GDM125
 
 - Resolución de misterio
 - Legacy
-- Juego de deducción
-- Incluye modo solitario
 - Casos de asesinato
+- Incluye modo solitario
+- Juego de deducción
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07C34M8JP/?tag=tolees-21)
