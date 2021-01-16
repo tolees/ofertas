@@ -25,13 +25,13 @@ Tienes [edding 3000/01-001 - Blíster con marcador permanente  color negro](http
 
 🔎:
 
+- Rellenable
+- Marcar y rotular metal, vidrio y plástico incluidos
+- Sin adición de tolueno/xileno
+- Tinta permanente casi sin olor
+- Marcador permanente de calidad con punta redonda
+- Cuerpo de aluminio
 - Grosor de trazo: 1,5-3 mm
 - Resistente al agua, al roce y a la acción de la luz
-- Tinta permanente casi sin olor
-- Rellenable
-- Sin adición de tolueno/xileno
-- Cuerpo de aluminio
-- Marcar y rotular metal, vidrio y plástico incluidos
-- Marcador permanente de calidad con punta redonda
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B007JTG9AK/?tag=tolees-21)
