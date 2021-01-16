@@ -25,9 +25,9 @@ Tienes [Phone2Frame - Marco de fotos digital de 25 4 cm con memoria USB universa
 
 ℹ️:
 
-- Añade fácilmente nuevas fotos haciendo copias de seguridad de tu teléfono o computadora de nuevo. Solo se copian las fotos nuevas
-- Convierte fotos HEIC de iPhone a JPG e incluye editor de fotos para adaptarse a todo el marco, rotar, borrar o recortar
 - Reproduce fotos como una presentación de diapositivas, reproduce vídeos, reproduce música, tiene un calendario con pantalla de fotos, tiene un reloj despertador y se puede programar para encender y apagar automáticamente
+- Convierte fotos HEIC de iPhone a JPG e incluye editor de fotos para adaptarse a todo el marco, rotar, borrar o recortar
+- Añade fácilmente nuevas fotos haciendo copias de seguridad de tu teléfono o computadora de nuevo. Solo se copian las fotos nuevas
 - Obtén tus fotos desde tu teléfono o computadora al marco digital sin WiFi, Bluetooth, correo electrónico o cuentas
 - Incluye una memoria USB universal para recoger fotos de casi cualquier dispositivo y editarlas para adaptarse a tu marco
 

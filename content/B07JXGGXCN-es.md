@@ -25,8 +25,8 @@ Ahora mismo tienes [Lee Scarlett Vaqueros  Clean Wheaton In  26W / 31L para Muje
 
 🔎:
 
+- Presentan 5 bolsillos
 - Tienen un parche de piel en la parte trasera con la marca Lee
 - Vaqueros para mujer
-- Presentan 5 bolsillos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JXGGXCN/?tag=tolees-21)

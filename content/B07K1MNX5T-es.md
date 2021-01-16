@@ -25,8 +25,8 @@ Tienes [Adidas Continental 80  Zapatillas de Gimnasia Hombre  Blanco  FTWR White
 
 ℹ️:
 
+- Zapatillas deportivas
 - Estilo vintage
 - Empeine de piel lisa
-- Zapatillas deportivas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07K1MNX5T/?tag=tolees-21)

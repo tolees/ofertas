@@ -25,10 +25,10 @@ Tienes [Desigual TS Tropic Thoughts Camiseta  Amarillo  Blazing 8035   Small par
 
 🔎:
 
-- Modello: 20SWTK15
-- Brand: DESIGUAL
-- Colore: Giallo
 - Tipologia: Donna
+- Colore: Giallo
+- Brand: DESIGUAL
 - Articolo: T-shirt
+- Modello: 20SWTK15
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VGN8Q9R/?tag=tolees-21)

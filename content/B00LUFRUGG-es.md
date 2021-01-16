@@ -25,10 +25,10 @@ Tienes [Revlon ColorStay Gel Envy Esmalte de Uñas de Larga Duración 11 7ml  Po
 
 ℹ️:
 
-- Color duradero en una fórmula que puede ser aplicada a casa
-- Disponible en una variedad de tonos
-- El esmalte de uñas ColorStay Gel Envy tiene una capa base incorporada
 - Ofrece un acabado brillante y tonos que duran
+- Color duradero en una fórmula que puede ser aplicada a casa
+- El esmalte de uñas ColorStay Gel Envy tiene una capa base incorporada
+- Disponible en una variedad de tonos
 - Cantidad por paquete: 1 pieza
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00LUFRUGG/?tag=tolees-21)
