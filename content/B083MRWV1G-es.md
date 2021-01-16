@@ -25,10 +25,10 @@ Está [BIC Highlighter Grip Marcadores de Punta Biselada Regulable - Colores en 
 
 ℹ️:
 
-- Su tinta a base de agua no tiñe el papel, por lo que es perfecto para las fotocopias
 - Disfruta de estos 11.colores intensos (x5) y pastel (x6) para destacar palabras y crear un trazo luminoso nítido
+- Su tinta a base de agua no tiñe el papel, por lo que es perfecto para las fotocopias
 - Su punta biselada modular permite marcar con líneas gruesas y subrayar con un trazo más fino
-- Los marcadores intensos cuentan con la tecnología antisecado: pueden permanecer destapados hasta 8.horas y los pastel hasta 24.horas
 - Pack de 12.marcadores bic highlighter grip: 6.colores intensos y 6.colores pastel con un grip de goma que ofrece mayor comodidad
+- Los marcadores intensos cuentan con la tecnología antisecado: pueden permanecer destapados hasta 8.horas y los pastel hasta 24.horas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B083MRWV1G/?tag=tolees-21)

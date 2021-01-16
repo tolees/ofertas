@@ -25,9 +25,9 @@ Está [Ultimate Guard UGD020002 - Bolsas de Cómic Resellables   versión en ing
 
 ℹ️:
 
-- Juegos
-- A partir de 3 años.
 - Número de modelo: UGD020002.
+- Juegos
 - Tarjetas comerciales y accesorios.
+- A partir de 3 años.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B009VEI1RU/?tag=tolees-21)

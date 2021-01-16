@@ -25,10 +25,10 @@ En este momento está [La Provençale Bio  Aceite de Belleza Multiusos con Aceit
 
 🔎:
 
-- Aceite de belleza multiusos para la piel, Ritual de belleza para rostro, cuerpo y cabello
-- Aplicar una vez al día sobre el rostro y el cuerpo después de la ducha, Aplicar sobre las puntas del cabello si fuera necesario
-- Contenido: 1 x Aceite de Belleza Multiusos con Aceite de Oliva BIO La Provençale Bio, 100 ml
 - Fórmula enriquecida con aceite de oliva BIO y aceite de girasol, Textura en aceite seco de rápida absorción, Acabado no graso, Aroma floral, No comedogénico
+- Aplicar una vez al día sobre el rostro y el cuerpo después de la ducha, Aplicar sobre las puntas del cabello si fuera necesario
 - Nutre y repara intensamente la piel del rostro, cuerpo y cabello, Piel más confortable y cabello más suave
+- Aceite de belleza multiusos para la piel, Ritual de belleza para rostro, cuerpo y cabello
+- Contenido: 1 x Aceite de Belleza Multiusos con Aceite de Oliva BIO La Provençale Bio, 100 ml
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08G98FGTG/?tag=tolees-21)

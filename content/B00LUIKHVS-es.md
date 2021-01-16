@@ -26,8 +26,8 @@ Tienes [Adidas Stan Smith  Zapatillas de Deporte Unisex Adulto  Blanco  Running 
 ℹ️:
 
 - Logotipo de adidas en la lengüeta y el talón.
-- Suela de goma tonal para un buen agarre
 - Panel de malla alrededor del tobillo.
+- Suela de goma tonal para un buen agarre
 - Cómodo forro textil.
 - Revestimiento sintético sintético y textil transpirable
 
