@@ -26,8 +26,8 @@ Ahora mismo tienes [Oxímetro de Pulso  CocoBear Pulsioxímetro con Pantalla OLE
 🔎:
 
 - Modo silencioso - Oxiometros de dedo suena como "tic" cuando lo usa. Si se siente ruidoso, puede presionar el botón durante 2 segundos para pasar al modo silencioso
-- Amplia aplicación - Oxímetro es adecuado para entusiastas de los deportes como escaladores de montañas, esquiadores, ciclistas, niños mayores de 3 años y mujeres embarazadas. o cualquier persona interesada en medir su SpO2 y pulso, también se puede usar en el campo médico para monitorear la salud de pacientes con hipertensión
 - Diseño ergonómico - Pulsioximetro es fácil de usar, tiene un solo botón y tiene una película de silicona incorporada que es más cómoda de usar. Se apaga automáticamente si no hay más mediciones en 8 segundos, lo que reduce el consumo de energía y el medio ambiente. Puedes usarlo tanto en días soleados fuertes como en noches oscuras
+- Amplia aplicación - Oxímetro es adecuado para entusiastas de los deportes como escaladores de montañas, esquiadores, ciclistas, niños mayores de 3 años y mujeres embarazadas. o cualquier persona interesada en medir su SpO2 y pulso, también se puede usar en el campo médico para monitorear la salud de pacientes con hipertensión
 - Tamaño mini - El volumen del oxímetro de pulso es muy bajo y el peso es liviano, por lo que es muy conveniente llevarlo a donde quiera que vaya
 - Preciso y rápido - Microchip de alta tecnología y sensor inteligente que puede mostrar lecturas en 6 segundos. La precisión de SpO2: ± 2 ％ y la precisión de la frecuencia del pulso: ± 3 lpm
 

@@ -25,8 +25,8 @@ En este momento está [Pioneer DEH-4800FD DEH-4800FD-Autorradio  Multicolor](htt
 
 🔎:
 
-- USB frontal
 - CD compatible MP3 y WAV
 - 100w x4 High Power
+- USB frontal
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B017C48RAQ/?tag=tolees-21)

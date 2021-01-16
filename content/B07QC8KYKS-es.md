@@ -26,9 +26,9 @@ En este momento está [PUMA Ftblnxt Pro tee Camiseta de Manga Corta  Hombre  Gri
 🔎:
 
 - Estampado por sublimación en la parte delantera
-- Logotipo del PUMA por transferencia de calor en la parte derecha del pecho
 - Corte entallado
 - Cuello en color de contraste
+- Logotipo del PUMA por transferencia de calor en la parte derecha del pecho
 - Gráfico cortado a láser en el centro de la espalda
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QC8KYKS/?tag=tolees-21)
