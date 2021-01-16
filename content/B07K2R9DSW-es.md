@@ -25,8 +25,8 @@ Tienes [Adidas Continental 80  Zapatillas de Gimnasia para Hombre  Negro  Core B
 
 🔎:
 
-- Suela de goma preformada dividida con inserto de EVA.
-- Empeine de piel suave.
 - Forro interior de tela.
+- Empeine de piel suave.
+- Suela de goma preformada dividida con inserto de EVA.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07K2R9DSW/?tag=tolees-21)

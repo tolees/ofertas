@@ -25,10 +25,10 @@ En este momento está [Grohe 27296001 Euphoria 180 - Sistema de ducha con termos
 
 🔎:
 
+- Chorro Rain: la sensación de una suave lluvia de verano sobre tu piel.
+- Chorro SmartRain para una ducha lujosa pero respetuosa con el medioambiente.
 - DreamSpray: caudal de agua equilibrado con distintos chorros.
 - SpeedClean: para que te olvides de la acumulación de residuos de cal en el cabezal de ducha.
-- Chorro SmartRain para una ducha lujosa pero respetuosa con el medioambiente.
 - Chorro Massage para disfrutar de una ducha revitalizante.
-- Chorro Rain: la sensación de una suave lluvia de verano sobre tu piel.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B005GCM8PC/?tag=tolees-21)

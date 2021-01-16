@@ -25,10 +25,10 @@ Ahora mismo tienes [SLIMELICIOUS Mega MALETIN](https://www.amazon.es/dp/B07S4ST2
 
 🔎:
 
-- La edad mínima recomendada es 6 años
 - La marca del producto es Canal Toys
+- La edad mínima recomendada es 6 años
 - Es adecuado para actividades creativas
-- No necesita pegamento
 - Se prepara fácilmente con agua
+- No necesita pegamento
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07S4ST2L7/?tag=tolees-21)
