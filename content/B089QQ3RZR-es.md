@@ -25,10 +25,10 @@ En este momento está [adidas Puremotion Men  Zapatillas Hombre  FTWBLA/FTWBLA/G
 
 🔎:
 
-- Zapatilla inspirada en el estilo del tenis
-- Cierre de cordones
-- Horma clásica
 - Parte superior textil
+- Zapatilla inspirada en el estilo del tenis
+- Horma clásica
+- Cierre de cordones
 - Diseño ligero y transpirable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B089QQ3RZR/?tag=tolees-21)

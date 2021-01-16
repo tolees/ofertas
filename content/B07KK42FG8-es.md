@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Peakfreak X2 Outdry  Zapatos de con un 35.84 % de descuento'
-date: 2021-01-15 13:36:34
+date: 2021-01-16 19:44:31
 image: 'https://m.media-amazon.com/images/I/41vqHU6RLuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,7 +25,7 @@ En este momento está [Columbia Peakfreak X2 Outdry  Zapatos de Senderismo  para
 
 🔎:
 
-- Tipo de tela: 100% poliéster
 - Goma de tracción Omni-Grip que no deja marcas
+- Tipo de tela: 100% poliéster
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KK42FG8/?tag=tolees-21)
