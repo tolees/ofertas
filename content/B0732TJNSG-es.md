@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Battle Chasers: Nightwar al 50.01 % de descuento'
-date: 2021-01-13 10:17:08
+date: 2021-01-16 22:11:53
 image: 'https://m.media-amazon.com/images/I/51X5hG0xXsL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0732TJNSG/?tag=tolees-21'
 descuento: '50.01'
-average: '23.439'
+average: '22.864166666666666'
 ---
 
 Ahora mismo tienes [Battle Chasers: Nightwar](https://www.amazon.es/dp/B0732TJNSG/?tag=tolees-21) a 19.99 EUR (original: 39.99 EUR) (50.01 %  de descuento) en el siguiente enlace!
@@ -25,10 +25,10 @@ Ahora mismo tienes [Battle Chasers: Nightwar](https://www.amazon.es/dp/B0732TJNS
 
 🔎:
 
-- Combate por turnos con un sistema exclusivo de sobrecarga de maná e increíbles estallidos de batalla
-- Explora un mundo repleto de mazmorras, jefes, y amigos y enemigos que aparecerán al azar
 - Crea tu equipo con tres de los seis héroes disponibles de los famosos cómics Battle Chasers, cada uno con sus propias características, ventajas, objetos y habilidades
+- Explora un mundo repleto de mazmorras, jefes, y amigos y enemigos que aparecerán al azar
 - Descubre el complejo sistema de creación y usa el exclusivo sistema de sobrecarga de ingredientes para crear objetos épicos
+- Combate por turnos con un sistema exclusivo de sobrecarga de maná e increíbles estallidos de batalla
 - Mazmorras aleatorias llenas de trampas, rompecabezas y secretos. Usa las habilidades exclusivas de cada héroe para sobrevivir
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0732TJNSG/?tag=tolees-21)

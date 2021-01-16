@@ -25,10 +25,10 @@ Está [Super Mario MS65081 - Juego de 23 imanes  Reino Seta  Multicolor  18 x 24
 
 ℹ️:
 
-- Ideal como regalo
-- Imán de calidad
 - Artículo fabricado bajo licencia oficial
 - Ideal para decorar tu frigorífico
+- Imán de calidad
+- Ideal como regalo
 - Se puede utilizar en cualquier otra superficie metálica
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07X2QX76D/?tag=tolees-21)
