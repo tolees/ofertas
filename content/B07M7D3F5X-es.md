@@ -25,7 +25,7 @@ Tienes [Marca Amazon - find. Blazer para Hombre  Azul  marineblau   52  Label: 4
 
 ℹ️:
 
-- Jersey suave
 - Botonadura individual
+- Jersey suave
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07M7D3F5X/?tag=tolees-21)
