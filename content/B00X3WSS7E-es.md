@@ -25,10 +25,10 @@ Ahora mismo tienes [LEXIBOOK DJ136DES Despicable Minions-Cámara de Fotos Digita
 
 🔎:
 
+- Dimensiones: 10 x 7.5 x 3.2 cm
+- Software de edición de fotos magix incluido para retocar tus fotos
+- Pantalla lcd de 1.4" (3.6cm)
 - Cámara digital 1.2 mp y 5mp por interpolación
 - Funciones vídeo y webcam
-- Pantalla lcd de 1.4" (3.6cm)
-- Software de edición de fotos magix incluido para retocar tus fotos
-- Dimensiones: 10 x 7.5 x 3.2 cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00X3WSS7E/?tag=tolees-21)
