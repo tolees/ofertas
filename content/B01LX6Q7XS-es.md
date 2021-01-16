@@ -26,7 +26,7 @@ Ahora mismo tienes [Póster mapa España - Grupo Erik Editores](https://www.amaz
 🔎:
 
 - Diseño con licencia 100% oficial 
-- Se envía enrollado
 - Impreso en papel cauché de 150 gr 
+- Se envía enrollado
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01LX6Q7XS/?tag=tolees-21)

@@ -25,7 +25,7 @@ Está [Repsol RP141N55 Elite Multiválvulas 10W-40 Aceite de Motor para Coche  M
 
 ℹ️:
 
-- Facilita el arranque en frío, protegiendo los sistemas de taqués hidráulicos, asegurando una perfecta lubricación a cualquier temperatura
 - 5l
+- Facilita el arranque en frío, protegiendo los sistemas de taqués hidráulicos, asegurando una perfecta lubricación a cualquier temperatura
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00BFWLQ96/?tag=tolees-21)

@@ -26,7 +26,7 @@ Ahora mismo tienes [PALMOLIVE NATURALS DELICATE CARE WITH ALMOND MILK LOTE 3 pie
 🔎:
 
 - Pack de 3uds
-- Enriquecido con leche de almendras
 - Jabón blanco enriquecido con leche de almendras
+- Enriquecido con leche de almendras
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B007JC7VAY/?tag=tolees-21)

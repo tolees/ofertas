@@ -25,9 +25,9 @@ Tienes [Wolfcraft 6177000 - Banco de trabajo master 200 con chasis reforzado de 
 
 ℹ️:
 
-- Incluye 4 mordazas de plástico para asegurar la pieza horizontalmente
-- Dispone de una capacidad de carga máxima de 180 kg
 - Con 2 mordazas de mdf, la mandíbula delantera se ajusta mediante 2 asas
+- Dispone de una capacidad de carga máxima de 180 kg
 - Tren de rodaje estable con sistema de liberación rápida para un ahorro de espacio de almacenamiento
+- Incluye 4 mordazas de plástico para asegurar la pieza horizontalmente
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0001GRVK0/?tag=tolees-21)

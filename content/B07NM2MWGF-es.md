@@ -25,8 +25,8 @@ Ahora mismo tienes [NIKE Nk Brsla Shoe-9.0  11l  Bolsa Lona de Deporte  Hombre  
 
 🔎:
 
-- Resistant material
 - Shoe Bag
 - Dimensions: 33 cm L x 15 cm La X 18 cm a
+- Resistant material
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NM2MWGF/?tag=tolees-21)

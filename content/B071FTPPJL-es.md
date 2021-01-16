@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Batwing Hoodie  cappuccio Donna   al 27.71 % de descuento'
-date: 2021-01-13 03:02:32
+date: 2021-01-15 23:36:10
 image: 'https://m.media-amazon.com/images/I/4109KA344QL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Está [Levi s Batwing Hoodie  cappuccio Donna  Avorio  Sportswear Hoodiee White 
 
 ℹ️:
 
-- Puños acanalados
 - Estilo deportivo y comodidad informal
 - Bolsillo tipo canguro
+- Puños acanalados
 
-[Ver la oferta!!](https://www.amazon.es/dp/B071FTPPJL/?tag=tolees-21)
+[🛒 Ver la oferta!!](https://www.amazon.es/dp/B071FTPPJL/?tag=tolees-21)
