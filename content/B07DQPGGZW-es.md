@@ -25,10 +25,10 @@ Ahora mismo tienes [Seiko Reloj Analógico para Hombre de Kinetico con Correa en
 
 🔎:
 
-- Kinetic
-- Analógico en Acero inoxidable para Hombre
-- Casual
 - WR 100mt
 - Azul y Metálico
+- Casual
+- Analógico en Acero inoxidable para Hombre
+- Kinetic
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DQPGGZW/?tag=tolees-21)
