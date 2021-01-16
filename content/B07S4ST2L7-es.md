@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SLIMELICIOUS Mega MALETIN al 59.98 % de descuento'
-date: 2021-01-15 16:03:50
+date: 2021-01-16 17:21:25
 image: 'https://m.media-amazon.com/images/I/51u-H-peuwL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,8 +26,8 @@ Ahora mismo tienes [SLIMELICIOUS Mega MALETIN](https://www.amazon.es/dp/B07S4ST2
 🔎:
 
 - La edad mínima recomendada es 6 años
-- Es adecuado para actividades creativas
 - La marca del producto es Canal Toys
+- Es adecuado para actividades creativas
 - No necesita pegamento
 - Se prepara fácilmente con agua
 

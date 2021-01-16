@@ -25,11 +25,11 @@ Ahora mismo tienes [Targus ACH114EU USB Hub con 4 Puertos](https://www.amazon.es
 
 🔎:
 
-- Altas prestaciones: altas velocidades de transferencia de hasta 480 Mbps
-- Alimentacion: el hub se alimenta a través del portátil y no necesita adaptador de CA
-- Plug and Play: de instalación sencilla, basta con enchufarlo en el puerto USB del ordenador
-- Compacto: cable fijo imperdible
 - Compatibilidad: Windows XP/Vista/7, Mac OS 10 posterior; puerto USB 2.0
+- Altas prestaciones: altas velocidades de transferencia de hasta 480 Mbps
 - Funcionalidad: conecte instantáneamente hasta 4 dispositivos USB, entre ellos: ratón, pen drive, iPod/reproductor MP3 y otros
+- Alimentacion: el hub se alimenta a través del portátil y no necesita adaptador de CA
+- Compacto: cable fijo imperdible
+- Plug and Play: de instalación sencilla, basta con enchufarlo en el puerto USB del ordenador
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0047RYXBE/?tag=tolees-21)
