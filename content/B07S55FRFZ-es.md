@@ -25,9 +25,9 @@ Tienes [New Balance 373 Core  Zapatillas Bajas Hombre  Negro  Black/White Ca2   
 
 ℹ️:
 
-- Suela de goma
-- Sujeción suave bajo los pies
-- Entresuela de espuma EVA y talón para amortiguación
 - Parte superior de gamuza
+- Entresuela de espuma EVA y talón para amortiguación
+- Sujeción suave bajo los pies
+- Suela de goma
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07S55FRFZ/?tag=tolees-21)

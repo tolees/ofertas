@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.60 % en Salomon XA COLLIDER GTX W  Zapatillas de'
-date: 2021-01-13 19:36:10
+date: 2021-01-16 09:27:32
 image: 'https://m.media-amazon.com/images/I/41yixWC26WL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07Z5HBMZR/?tag=tolees-21'
 descuento: '30.60'
-average: '78.145'
+average: '77.53'
 ---
 
 Tienes [Salomon XA COLLIDER GTX W  Zapatillas de Trail Running Mujer  Azul  Icy Morn/Lunar Rock/North Atlantic   36 EU](https://www.amazon.es/dp/B07Z5HBMZR/?tag=tolees-21) con un 30.60 % de descuento con precio de oferta de 76.3 EUR (original: 109.95 EUR) en el siguiente enlace!

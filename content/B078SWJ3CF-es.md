@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Extreme SSD portátil 500GB - has con un 40.19 % de descuento'
-date: 2021-01-15 04:30:52
+date: 2021-01-16 10:27:44
 image: 'https://m.media-amazon.com/images/I/51ce7LVtXnL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B078SWJ3CF/?tag=tolees-21'
 descuento: '40.19'
-average: '95.60594982078848'
+average: '95.57252669039141'
 ---
 
 En este momento está [SanDisk Extreme SSD portátil 500GB - hasta 550MB/s Velocidad de Lectura](https://www.amazon.es/dp/B078SWJ3CF/?tag=tolees-21) a 90.91 EUR (original: 151.99 EUR) (40.19 %  de descuento) en el siguiente enlace!
@@ -26,8 +26,8 @@ En este momento está [SanDisk Extreme SSD portátil 500GB - hasta 550MB/s Veloc
 🔎:
 
 - Para usuarios de PC y Mac
-- Robusta, resistente al agua y al polvo, certificación IP-55
 - Núcleo de estado sólido resistente a golpes para una optima durabilidad
+- Robusta, resistente al agua y al polvo, certificación IP-55
 - Compacta y de bolsillo
 - Las transferencias de gran velocidad de hasta 550MB/s te permiten mover rápidamente vídeos y fotografías de gran resolución
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.06 % en Rapesco Documentos - Carpeta portafolios'
-date: 2021-01-15 03:44:53
+date: 2021-01-16 10:17:13
 image: 'https://m.media-amazon.com/images/I/41zRRUuBz8L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ Tienes [Rapesco Documentos - Carpeta portafolios A4+ horizontal  en varios color
 
 ℹ️:
 
-- Colores Surtidos
-- Soporte para bolígrafo bajo solapa
 - Pack: 5 unidades con tamaño A4+
 - Solapa con broche de color para mantener el contenido seguro
+- Soporte para bolígrafo bajo solapa
+- Colores Surtidos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000NLZAYC/?tag=tolees-21)

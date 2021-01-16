@@ -27,8 +27,8 @@ Está [Simba- Steffi Love Swap Mermaid Muñeca 29cm con lentejuelas  Color 1.  1
 
 - Si acaricias las lentejuelas con la mano, cambian de color de azul turquesa a púrpura
 - Incluye dos extensiones de pelo de colores para el pelo de Steffi o para el de las niña
+- Bajo la cola tiene piernas de verdad
 - La muñeca Steffi como una hermosa sirena con brillante cola de lentejuelas
 - Steffi Sirena cola lentejuelas es apta para niños a partir de 3 años
-- Bajo la cola tiene piernas de verdad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07L1DWQ6X/?tag=tolees-21)
