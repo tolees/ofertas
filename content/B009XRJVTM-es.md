@@ -25,7 +25,7 @@ Tienes [Cinta adhesiva resistente a altas temperaturas  aluminio](https://www.am
 
 🔎:
 
-- Altape
 - Accesorios para herramientas oscilantes
+- Altape
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B009XRJVTM/?tag=tolees-21)
