@@ -25,10 +25,10 @@ Está [Under Armour Mujer UA Heatgear Ankle Crop  Leggings Capri](https://www.am
 
 ℹ️:
 
-- Comodidad – Las mallas de entrenamiento son transpirables y ofrecen una mayor libertad de movimiento gracias a su tejido elástico multidireccional
-- Material y forma – Mallas transpirables de mujer Under Armour HeatGear Armour, forma – de compresión, material – 87% de poliéster/13% de elastano
 - Innovadores – Los pantalones para correr son del innovador tejido HeatGear, así que son ultraligeros, se secan rápido y ofrecen una mayor cobertura
-- De calidad – Gracias a su innovador material, los pantalones de yoga son ultraligeros, de secado rápido y muy cómodos a pesar de ser tan ajustados
 - Sensación natural – Al ser de compresión, las mallas de yoga se pegan como una segunda piel y las costuras planas garantizan un ajuste sin roces
+- Material y forma – Mallas transpirables de mujer Under Armour HeatGear Armour, forma – de compresión, material – 87% de poliéster/13% de elastano
+- Comodidad – Las mallas de entrenamiento son transpirables y ofrecen una mayor libertad de movimiento gracias a su tejido elástico multidireccional
+- De calidad – Gracias a su innovador material, los pantalones de yoga son ultraligeros, de secado rápido y muy cómodos a pesar de ser tan ajustados
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B072FBL96J/?tag=tolees-21)
