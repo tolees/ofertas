@@ -26,8 +26,8 @@ Ahora mismo tienes [ASUS RT-AC66U - Router inalámbrico AC1750 Dual-band Gigabit
 🔎:
 
 - Puerto USB 3.0 para compartir archivos, funciones de impresión y la conexión 3G con una velocidad de transferencia 10 veces superior a USB 2.0
-- Controles parentales para monitorizar y restringir la actividad de cualquier usuario; ASUS AiProtection con Trend Micro ofrece 3 niveles de seguridad de red
 - Conectividad inalámbrica de alta velocidad: dos bandas concurrentes con hasta 450 Mbps de velocidad en la banda de 2,4 GHz y hasta 1300 Mbps en la de 5 GHz
+- Controles parentales para monitorizar y restringir la actividad de cualquier usuario; ASUS AiProtection con Trend Micro ofrece 3 niveles de seguridad de red
 - Cobertura inalámbrica optimizada con tecnología AiRadar y antenas de alta potencia
 - ASUS Router App permite configurar la red en cualquier momento, desde cualquier lugar y sin emplear un PC
 

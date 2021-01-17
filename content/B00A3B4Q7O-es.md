@@ -25,9 +25,9 @@ Ahora mismo tienes [Essie Esmalte de Uñas  Tono: 077 Chinchilly Essie](https://
 
 🔎:
 
+- Cobertura impecable
 - Cepillo especial para fácil aplicación
 - Duración resistente entre 7 y 1 días
-- Cobertura impecable
 - Fórmula con textura gel sin acetona
 - Colores vibrantes
 

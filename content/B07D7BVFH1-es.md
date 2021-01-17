@@ -25,10 +25,10 @@ Está [Rimmel London Maxi Blush Colorete Tono 5 Rende-vouz - 9 g](https://www.am
 
 ℹ️:
 
+- Colorete pigmentado para marcar el pómulo
+- Efecto recién aplicado durante todo el día
 - Larga duración
 - Fórmula ligera
 - Textura suave que se funde fácilmente con la piel
-- Efecto recién aplicado durante todo el día
-- Colorete pigmentado para marcar el pómulo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07D7BVFH1/?tag=tolees-21)

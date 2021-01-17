@@ -25,8 +25,8 @@ Ahora mismo tienes [Maybelline May.color show smalto n.21  6.7 ml](https://www.a
 
 🔎:
 
-- resistenza
 - manicure
+- resistenza
 - bellezza
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01BBV2IMO/?tag=tolees-21)

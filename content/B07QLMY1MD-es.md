@@ -26,7 +26,7 @@ Está [Nike Air MAX Tailwind IV  Zapatillas de Atletismo para Hombre  Multicolor
 ℹ️:
 
 - Estilo vintage.
-- Amortiguación
 - Ligero y cómodo.
+- Amortiguación
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07QLMY1MD/?tag=tolees-21)

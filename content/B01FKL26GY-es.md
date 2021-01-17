@@ -25,10 +25,10 @@ Está [Revlon Ultra HD Pintalabios Mate  Forever ](https://www.amazon.es/dp/B01F
 
 ℹ️:
 
-- 100% libre de cera
 - Color puro de alta definición con acabado mate y libre de ceras y Tecnología HD alta definición
 - Agradable fragancia a vainilla
 - Con aplicador profesional
+- 100% libre de cera
 - Sensación hidratante y sedosa
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01FKL26GY/?tag=tolees-21)

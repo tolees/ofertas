@@ -25,10 +25,10 @@ Está [Maybelline New York - Superstay 24H  Bálsamo Hidratante Labial  Top Coat
 
 ℹ️:
 
-- Bálsamo hidratante labial complementario a la gama SuperStay 24H
-- Óptimo para conseguir un efecto brillante y jugoso después de fijar el color con el aplicador
 - Tiene 2 usos posibles, únicamente como hidratante o bien como recambio de tu color SuperStay 24H
 - Ideal para utilizarlo cuando tus labios están muy agrietados y con sensación de tirantez
+- Óptimo para conseguir un efecto brillante y jugoso después de fijar el color con el aplicador
+- Bálsamo hidratante labial complementario a la gama SuperStay 24H
 - Su fórmula nutre los labios en profundidad a la vez que aporta jugosidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00R6JJQVM/?tag=tolees-21)

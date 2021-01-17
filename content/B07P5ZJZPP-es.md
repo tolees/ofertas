@@ -25,10 +25,10 @@ Tienes [Falomir- Atalaya Juego de Mesa  Multicolor  1 ](https://www.amazon.es/dp
 
 ℹ️:
 
-- Tira el dado para saber cuantas piezas tienes que coger
+- Número de jugadores: 2+
 - Fijate bien en las piezas que coges o la torre caerá
+- Tira el dado para saber cuantas piezas tienes que coger
 - Controla bien tu pulso si no quieres tirar la torre
 - Un juego ideal para trabajar la psicomotricidad fina
-- Número de jugadores: 2+
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07P5ZJZPP/?tag=tolees-21)

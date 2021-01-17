@@ -25,10 +25,10 @@ En este momento está [SODIAL R  Caja Bolsa de Almacenamiento Coleccion para Aur
 
 🔎:
 
-- Diseno de forma bola que encajar los pequenos dispositivos electronicos
+- Diametro: 60 mm (interior) * 65mm (exterior) * 35mm (alto)
 - 1 x caja de auriculares
+- Diseno de forma bola que encajar los pequenos dispositivos electronicos
 - Nuevo y de alta calidad
 - Basta con cremallera para tirar en tu bolso, maletin o equipaje para el viaje facil
-- Diametro: 60 mm (interior) * 65mm (exterior) * 35mm (alto)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00H8KTD3K/?tag=tolees-21)

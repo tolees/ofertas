@@ -26,8 +26,8 @@ Está [bollé 21479 Màscaras  Mujer  Brillante Negro Noche/Vermillon Gris Bronc
 ℹ️:
 
 - Ventilación Flow-Tech
-- Tratamiento anti-arañazos CARBO-GLASS
 - Lente: Vermillon Gun (Cat.2)
 - Espuma doble densidades, cinturino in silicone
+- Tratamiento anti-arañazos CARBO-GLASS
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01D4VBYP6/?tag=tolees-21)

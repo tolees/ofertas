@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ecovacs DEEBOT 950 Robot con Tecnología  al 38.40 % de descuento'
-date: 2021-01-15 09:16:43
+date: 2021-01-17 10:31:34
 image: 'https://m.media-amazon.com/images/I/41Cd9T1YKoL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07WC1MXN7/?tag=tolees-21'
 descuento: '38.40'
-average: '426.5566666666666'
+average: '420.80099999999993'
 ---
 
 Ahora mismo tienes [Ecovacs DEEBOT 950 Robot con Tecnología Ozmo y Smart Navi 3.0  200 min + Turbo  66 Decibeles  Negro](https://www.amazon.es/dp/B07WC1MXN7/?tag=tolees-21) a 369.0 EUR (original: 599.0 EUR) (38.40 %  de descuento) en el siguiente enlace!

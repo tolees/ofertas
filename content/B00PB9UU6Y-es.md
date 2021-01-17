@@ -25,10 +25,10 @@ Está [Rimmel London Exaggerate Waterproof Liners - Delineador de Ojos Retrácti
 
 ℹ️:
 
-- Testado dermatológica y oftalmológicamente
-- Con mina retráctil y difuminador
-- Dibuja una línea fina sobre el ojo para una mirada más intensa
-- Delineador de ojos automático de alta precisión
 - Fórmula cremosa, waterproof
+- Delineador de ojos automático de alta precisión
+- Testado dermatológica y oftalmológicamente
+- Dibuja una línea fina sobre el ojo para una mirada más intensa
+- Con mina retráctil y difuminador
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00PB9UU6Y/?tag=tolees-21)
