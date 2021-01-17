@@ -27,8 +27,8 @@ Tienes [Bosch 2 608 628 377 - Fresas de ranurar - 8 mm  D1 4 mm  L 8 mm  G 51 mm
 
 - Guía auxiliar: -
 - Longitud de trabajo (L) mm: 8
-- Vástago mm: 8
-- Diámetro (D) mm: 4
 - Longitud total (G) mm: 51
+- Diámetro (D) mm: 4
+- Vástago mm: 8
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000XIZKYK/?tag=tolees-21)
