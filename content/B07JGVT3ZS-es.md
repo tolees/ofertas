@@ -25,12 +25,12 @@ En este momento está [D-Link DCS-P6000LH - Cámara IP WiFi de Vigilancia con Ac
 
 🔎:
 
-- Tamaño compacto: cámara de vigilancia pequeña y discreta, 9 cm de alto por 3 cm de ancho, capaz de mostrar imágenes incluso en completa oscuridad gracias a sus infrarrojos con un alcance de hasta 5 m
-- Graba en la nube: gratuitamente hasta 3 cámaras y hasta 24h, estando disponibles planes de pago con opciones adicionales, para más cámaras o para mantener las grabaciones durante más tiempo
 - Grabación en el móvil: pulsa el botón de grabación en la app y empieza a grabar vídeos o fotos directamente en tu móvil
-- Vigila y supervisa: puedes ver y oír en directo lo que ocurre en tu hogar, desde tu móvil o tableta con la app mydlink para iOS o Android
 - Funciona en pocos segundos: se instala desde la app mediante WiFi y no necesita ordenador para instalarla o para funcionar; es autónoma, conectada por WiFi N 300 Mbps a cualquier router
+- Graba en la nube: gratuitamente hasta 3 cámaras y hasta 24h, estando disponibles planes de pago con opciones adicionales, para más cámaras o para mantener las grabaciones durante más tiempo
+- Vigila y supervisa: puedes ver y oír en directo lo que ocurre en tu hogar, desde tu móvil o tableta con la app mydlink para iOS o Android
 - Alta resolución y gran ángulo de visión: ofrece imágenes HD 720p para una calidad de imagen optima y zoom digital táctil desde la app, un ángulo de visión de 120°, para ver más con una sola cámara
 - Notificaciones push: recibe notificaciones emergentes si la cámara detecta movimiento o sonido, con parámetros de detección personalizables
+- Tamaño compacto: cámara de vigilancia pequeña y discreta, 9 cm de alto por 3 cm de ancho, capaz de mostrar imágenes incluso en completa oscuridad gracias a sus infrarrojos con un alcance de hasta 5 m
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JGVT3ZS/?tag=tolees-21)

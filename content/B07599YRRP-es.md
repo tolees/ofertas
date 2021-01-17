@@ -25,8 +25,8 @@ Tienes [Funko Pop!- James Bond Jill Masterson Figura de Vinilo  24703 ](https://
 
 🔎:
 
-- El artículo es adecuado para todos los fanáticos de James Bond
 - El producto se envía en una caja ilustrada con ventana
+- El artículo es adecuado para todos los fanáticos de James Bond
 - Figura de colección de la marca Funko
 - Recomendado para niños a partir de 3 años
 

@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Jack & Jones Jjebasic Knit V-Neck Noos s al 40.02 % de descuento'
-date: 2021-01-16 06:42:53
+title: 'Jack & Jones Jjebasic Knit V-Neck Noos s al 38.02 % de descuento'
+date: 2021-01-17 13:05:46
 image: 'https://m.media-amazon.com/images/I/41IY6BxtZmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07C27SZCM-es'
-actualPrice: 14.99 EUR
+actualPrice: 15.49 EUR
 currency: EUR
-price: 14.99
+price: 15.49
 comparePrice: 24.99 EUR
 prodname: 'Jack & Jones Jjebasic Knit V-Neck Noos suéter  Gris  Dark Grey Melange Dark Grey Melange   X-Small para Hombre'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07C27SZCM/?tag=tolees-21'
-descuento: '40.02'
-average: '14.745706214689267'
+descuento: '38.02'
+average: '14.754022346368718'
 ---
 
-Ahora mismo tienes [Jack & Jones Jjebasic Knit V-Neck Noos suéter  Gris  Dark Grey Melange Dark Grey Melange   X-Small para Hombre](https://www.amazon.es/dp/B07C27SZCM/?tag=tolees-21) a 14.99 EUR (original: 24.99 EUR) (40.02 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Jack & Jones Jjebasic Knit V-Neck Noos suéter  Gris  Dark Grey Melange Dark Grey Melange   X-Small para Hombre](https://www.amazon.es/dp/B07C27SZCM/?tag=tolees-21) a 15.49 EUR (original: 24.99 EUR) (38.02 %  de descuento) en el siguiente enlace!
 
 [![Jack & Jones Jjebasic Knit V-Neck Noos s](https://m.media-amazon.com/images/I/41IY6BxtZmL._SL200_.jpg)](https://www.amazon.es/dp/B07C27SZCM/?tag=tolees-21)
 

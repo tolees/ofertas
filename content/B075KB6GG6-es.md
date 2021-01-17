@@ -25,7 +25,7 @@ Está [New Balance Hombre 574v2-core Trainers Zapatillas  Negro  Triple Black   
 
 ℹ️:
 
-- Forro: de punto.
 - Material exterior: piel.
+- Forro: de punto.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B075KB6GG6/?tag=tolees-21)
