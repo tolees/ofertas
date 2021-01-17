@@ -25,10 +25,10 @@ Tienes [Sisley Cellulinov Cuidado de Anti-Cellulite Intensif 200 ml](https://www
 
 🔎:
 
-- Este producto está indicado para todo tipo de pieles.
 - Este producto está indicado para mujeres.
-- De la marca Sisley.
-- La textura que ofrece es del tipo crema.
 - Contiene 200 ml.
+- La textura que ofrece es del tipo crema.
+- Este producto está indicado para todo tipo de pieles.
+- De la marca Sisley.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00IPK8DW4/?tag=tolees-21)

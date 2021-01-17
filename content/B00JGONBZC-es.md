@@ -25,9 +25,9 @@ Tienes [Philips Lighting Virga Aplique  7.5 W  Gris  12 cm](https://www.amazon.e
 
 ℹ️:
 
-- Clase de eficiencia energética A++
-- Diseñado para el jardín
 - IP44: resistente al agua
+- Clase de eficiencia energética A++
 - Temperatura de color: 2700 Kelvin
+- Diseñado para el jardín
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00JGONBZC/?tag=tolees-21)

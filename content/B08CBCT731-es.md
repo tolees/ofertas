@@ -25,10 +25,10 @@ Está [PIKOLIN Colchón de muelles ignífugo Normactive con viscoelástica  Conf
 
 ℹ️:
 
-- Colchón firme de núcleo Normactive compuesto por muelles de hilo continuo que le aporta una gran estabilidad y durabilidad.
-- Colchón ignífugo según las normas UNE-EN 597-1 y UNE-EN 597-2. Diseñado especialmente para hoteles y alojamientos turísticos. +/- 26,5 cm.
-- Líderes en colchones para hoteles, garantía de un fabricante con más de 70 años de experiencia.
 - Sus tres capas de acolchado, Viscofoam, Óptima y fibra de poliéster, generan una sensación de gran confort y suave acogida al tumbarse.
+- Colchón ignífugo según las normas UNE-EN 597-1 y UNE-EN 597-2. Diseñado especialmente para hoteles y alojamientos turísticos. +/- 26,5 cm.
+- Colchón firme de núcleo Normactive compuesto por muelles de hilo continuo que le aporta una gran estabilidad y durabilidad.
+- Líderes en colchones para hoteles, garantía de un fabricante con más de 70 años de experiencia.
 - Colchón con tratamiento higiénico Triple Barrera contra ácaros, bacterias y hongos y el tratamiento Bed Bug Barrier contra chinches e insectos.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CBCT731/?tag=tolees-21)

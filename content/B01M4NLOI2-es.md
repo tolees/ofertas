@@ -26,7 +26,7 @@ Ahora mismo tienes [Clar Systems T6100PB Dispensador de Papel Toalla  600 Toalla
 🔎:
 
 - Capacidad para toalla interdoblada de 120 x 260 mm
-- Color del producto es blanco
 - Capacidad para 600 servicios de toalla
+- Color del producto es blanco
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01M4NLOI2/?tag=tolees-21)

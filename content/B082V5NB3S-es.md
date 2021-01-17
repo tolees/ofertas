@@ -25,8 +25,8 @@ En este momento está [Canadian Peak Parka](https://www.amazon.es/dp/B082V5NB3S/
 
 🔎:
 
-- Temperatura máxima 30º. Lavado y aclarado con acción mecánica y centrifugado corto.
 - 100% Poliéster
 - Otoño - Invierno Temporada 2019
+- Temperatura máxima 30º. Lavado y aclarado con acción mecánica y centrifugado corto.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082V5NB3S/?tag=tolees-21)
