@@ -25,10 +25,10 @@ Está [Disney Gran Problema - La Declaración de Stitch - Figurina  Resina  Mult
 
 ℹ️:
 
-- Altura: 36.0 cm
+- Está destinada para adultos, no es un juguete
+- Figurilla decorativa de la colección Disney Traditions
 - Diseñada por Jim Shore
 - Arte popular inspirado con colores vivos
-- Figurilla decorativa de la colección Disney Traditions
-- Está destinada para adultos, no es un juguete
+- Altura: 36.0 cm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B078WV1RFT/?tag=tolees-21)

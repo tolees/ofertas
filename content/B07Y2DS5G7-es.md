@@ -26,9 +26,9 @@ Ahora mismo tienes [Llave USB 16 GB Rey - Memoria Flash Drive 2.0 Original Star 
 🔎:
 
 - Perfecta para la colección: empieza tu colección tribe ahora mismo
-- Llave de memoria sistema operativo soportado: linux, mac, windows; transferencia de datos rápida
-- Esta llave usb es una idea regalo perfecta; producto con licencia oficial, no confíes en las falsificaciones y compra sólo productos de calidad
 - Llave usb 2.0 inspirada en el famoso personaje de star wars, en 3d y acabada a mano
+- Esta llave usb es una idea regalo perfecta; producto con licencia oficial, no confíes en las falsificaciones y compra sólo productos de calidad
 - Forma rápida y cómoda de crear copias de seguridad, compartir, transportar y transferir tus archivos; déjate acompañar en el trabajo y el tiempo libre con esta memoria usb
+- Llave de memoria sistema operativo soportado: linux, mac, windows; transferencia de datos rápida
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07Y2DS5G7/?tag=tolees-21)

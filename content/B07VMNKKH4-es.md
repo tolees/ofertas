@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Tjw Tommy Classics tee Ro al 51.72 % de rebaja'
-date: 2021-01-16 14:33:24
+date: 2021-01-17 17:59:23
 image: 'https://m.media-amazon.com/images/I/41+hnBZpieL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Tienes [Tommy Hilfiger Tjw Tommy Classics tee Ropa Deportiva de Punto  Naranja  
 
 🔎:
 
-- Detalles distintivos de Tommy Jeans
 - Cuello redondo
-- Corte regular
 - Parche con el logo de Tommy Jeans en el pecho
+- Detalles distintivos de Tommy Jeans
+- Corte regular
 - Punto de puro algodón orgánico
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VMNKKH4/?tag=tolees-21)
