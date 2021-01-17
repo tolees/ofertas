@@ -25,8 +25,8 @@ Tienes [Kipling Money Love  Wallets para Mujer  Marfil dinámico  2.5x9.5x12.5 c
 
 🔎:
 
-- femenino.
 - Wallets.
 - Classics.
+- femenino.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B083YD79MH/?tag=tolees-21)

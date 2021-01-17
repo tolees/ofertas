@@ -25,8 +25,8 @@ En este momento está [M MAGEFESA 01OPDINAM06 MAGEFESA 01OPDINAM06-Olla a presi�
 
 🔎:
 
+- Mas ecológica: puede ahorrar hasta 70% de energía
 - Mas rápida: puede cocinar hasta 3 veces mas rápido
 - Mas sana: cocina preservando mas vitaminas, minerales y sabores
-- Mas ecológica: puede ahorrar hasta 70% de energía
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00KBOJ8AI/?tag=tolees-21)
