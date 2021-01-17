@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'National Geographic 4-fach Thermo-/Hygro al 30.17 % de rebaja'
-date: 2021-01-15 20:35:58
+date: 2021-01-17 12:39:57
 image: 'https://m.media-amazon.com/images/I/41jeieHLZJL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ Tienes [National Geographic 4-fach Thermo-/Hygrometer NATGEO ESTACIÓN Meteo TER
 
 🔎:
 
+- Thermo/Hygro sensor (3 unidades incluye) para colgar o colocar. 433 MHz Frecuencia de transmisión
+- Dimensiones y peso estación base: 10,4 x 11,9 x 2,5 cm, 152 g
 - Contenido del envío: térmica de/higrómetro, 3 x sensor remoto, instrucciones de uso
 - El termómetro e higrómetro ofrece la posibilidad de medir la temperatura y la humedad en 4 puntos distintos tanto dentro como fuera de casa.
-- Dimensiones y peso estación base: 10,4 x 11,9 x 2,5 cm, 152 g
-- Thermo/Hygro sensor (3 unidades incluye) para colgar o colocar. 433 MHz Frecuencia de transmisión
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07FNY9BVQ/?tag=tolees-21)

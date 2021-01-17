@@ -25,10 +25,10 @@ Está [[3 unidades]eufy Lumi luz de noche  luz nocturna LED blanco con sensor de
 
 ℹ️:
 
-- NAVEGACIÓN NOCTURNA: Elimina la necesidad de encender las luces cegadoras en el medio de la noche.
-- ILUMINACIÓN IDEAL: Proporciona la cantidad correcta de iluminación sin deslumbramiento para guiarlo en la oscuridad.
 - ILUMINACIÓN AUTOMÁTICA: Cuando el sensor de luz percibe la oscuridad, el sensor de movimiento activa la iluminación cuando se detecta movimiento.
-- LO QUE OBTIENES: 3 luces de noche Lumi Stick-On, 1x tornillo, 6x tapones de pared, manual de usuario, tarjeta Happy
 - EFICIENTE ENERGÉTICA: Tres baterías AAA (no incluidas) proporcionan una iluminación suave durante un año.
+- ILUMINACIÓN IDEAL: Proporciona la cantidad correcta de iluminación sin deslumbramiento para guiarlo en la oscuridad.
+- LO QUE OBTIENES: 3 luces de noche Lumi Stick-On, 1x tornillo, 6x tapones de pared, manual de usuario, tarjeta Happy
+- NAVEGACIÓN NOCTURNA: Elimina la necesidad de encender las luces cegadoras en el medio de la noche.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071CFBXXZ/?tag=tolees-21)

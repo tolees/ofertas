@@ -28,7 +28,7 @@ En este momento está [CK ONE Body Wash 250ml Calvin Klein](https://www.amazon.e
 - Baño e higiene personal
 - Gel ducha de marca Calvin Klein
 - Gel de ducha de la línea One de Calvin Klein
-- Disfrute de la ducha con la fragancia unisex más famosa y utilizada de la década de los 9
 - Contenido 250 ml
+- Disfrute de la ducha con la fragancia unisex más famosa y utilizada de la década de los 9
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B000Q3BLOK/?tag=tolees-21)

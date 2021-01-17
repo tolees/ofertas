@@ -25,8 +25,8 @@ Tienes [Apli 1264 - Etiquetas  100 hojas](https://www.amazon.es/dp/B000KJO5JS/?t
 
 ℹ️:
 
-- Formato de las etiquetas predefinido en la mayoría de softwares
 - Etiquetas blancas autoadhesivas especiales para una excelente impresión en impresoras inkjet, láser y fotocopiadoras
+- Formato de las etiquetas predefinido en la mayoría de softwares
 - 210 x 148 mm
 - Etiquetas Apli. A4
 

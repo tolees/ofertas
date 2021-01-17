@@ -25,10 +25,10 @@ Tienes [Mengonee Women Tight Integrated Lingerie Hollow Underwear Conjunto de Tr
 
 🔎:
 
-- Por goteo seco, no planchar
 - Por favor tibia para lavarse las manos, no utilizar lejía.
-- Transpirable y cómodo de llevar
+- Por goteo seco, no planchar
 - Buena tela y tela cómoda
+- Transpirable y cómodo de llevar
 - Tamaño: tamaño libre, material: poliester
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B078NN9D9R/?tag=tolees-21)
