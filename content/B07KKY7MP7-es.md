@@ -25,9 +25,9 @@ Ahora mismo tienes [Giochi Preziosi LLU63000 L.O.L Surprise Hairgoals  Modelos s
 
 🔎:
 
-- No adecuado para niños menores de 5 años
-- Y además vienen en un nuevo envase con forma de botella espray de laca
 - La muñeca tiene pelo real, se puede peinar
+- Y además vienen en un nuevo envase con forma de botella espray de laca
+- No adecuado para niños menores de 5 años
 - Las muñecas tienen características sorprendentes y maravillosas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KKY7MP7/?tag=tolees-21)

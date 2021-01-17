@@ -25,10 +25,10 @@ En este momento está [Superga 2750 UKFGLU  Zapatillas Unisex adulto  Blanco  Wh
 
 🔎:
 
-- Rubber outer-sole
-- Canvas linings
 - Cushioned inner-sock
 - 5 eyelet lace
 - Leather uppers
+- Canvas linings
+- Rubber outer-sole
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01EY9D3LA/?tag=tolees-21)

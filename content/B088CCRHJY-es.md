@@ -26,11 +26,11 @@ En este momento está [Dove Gel de Ducha Cacao y Hibiscus - Pack de 12x500 ml](h
 🔎:
 
 - Botella 100% plástico reciclado
-- Suave con el microbioma
 - Cacao y Hibiscus
-- Con hidratantes naturales de la piel
-- Piel suave y cuidada después de una sola ducha
 - Dove Gel de ducha Ritual Nutritivo
+- Piel suave y cuidada después de una sola ducha
+- Con hidratantes naturales de la piel
+- Suave con el microbioma
 - Sin sulfatos SLES
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B088CCRHJY/?tag=tolees-21)
