@@ -26,7 +26,7 @@ Está [Nike Tanjun  Zapatillas de Running para Hombre  Blanco  White/Black 101  
 ℹ️:
 
 - synthetic
-- adulto
 - White
+- adulto
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00KNUL41Q/?tag=tolees-21)

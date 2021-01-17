@@ -25,8 +25,8 @@ Tienes [Ewent Eminent EW1241 Cable Seguridad combinacion](https://www.amazon.es/
 
 ℹ️:
 
-- Producto Mercado España
-- Producto Nuevo
 - Envío Urgente
+- Producto Nuevo
+- Producto Mercado España
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00TTM85CU/?tag=tolees-21)
