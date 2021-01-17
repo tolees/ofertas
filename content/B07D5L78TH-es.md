@@ -26,8 +26,8 @@ En este momento está [HP 22f - Monitor de 22"  FHD  1920 x 1080 pixeles  Tiempo
 🔎:
 
 - El modo Low Blue Light cambia sutilmente los colores de la pantalla a una gama más cálida
-- Pantalla Full HD de 1080p con micro-borde
 - Tecnología AMD FreeSync
+- Pantalla Full HD de 1080p con micro-borde
 - Panel antirreflectante
 - Diseño compacto y elegante
 

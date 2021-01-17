@@ -25,8 +25,8 @@ Ahora mismo tienes [The Indian Face Free Soul White and Blue](https://www.amazon
 
 🔎:
 
-- Gorras
 - Free Soul White and blue
+- Gorras
 - Gorra Trucker Free Soul Blanca The Indian Face para hombre y mujer
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SRWPFQX/?tag=tolees-21)

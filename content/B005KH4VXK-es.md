@@ -25,11 +25,11 @@ Tienes [Makita KP0800 240V 82mm Cepilladora](https://www.amazon.es/dp/B005KH4VXK
 
 🔎:
 
-- Ajuste fino de profundidad
-- Aplicación: Aspiradora, extracción de polvo.
 - Aislamiento doble
-- 34000 cortes por minuto
-- Fácil ajuste para un acabado preciso y uniforme.
 - Profundidad de planificación de 2,0 mm.
+- Aplicación: Aspiradora, extracción de polvo.
+- Fácil ajuste para un acabado preciso y uniforme.
+- Ajuste fino de profundidad
+- 34000 cortes por minuto
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B005KH4VXK/?tag=tolees-21)

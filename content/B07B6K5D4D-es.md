@@ -26,8 +26,8 @@ Tienes [Rowenta - Secador de pelo Elite CV4752F0  2200 W rojo y negro  para homb
 🔎:
 
 - Flujo de aire de 100 km / h para un secado ultrarrápido. Cable extralargo para un alcance óptimo y mayor comodidad de uso
-- Bolsa de viaje: incluye un neceser para almacenar tu secador de pelo y transportarlo fácilmente
 - Compacto: su tamaño compacto y su asa plegable son ideales para espacios reducidos o para llevarlo de viaje
+- Bolsa de viaje: incluye un neceser para almacenar tu secador de pelo y transportarlo fácilmente
 - Secador de pelo compacto y potente para hombres con motor de 2200 W de alta potencia para resultados perfectos
 - 6 ajustes de velocidad / temperatura para resultados personalizados y golpe de aire frío para fijar el peinado
 

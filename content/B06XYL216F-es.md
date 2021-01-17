@@ -25,8 +25,8 @@ Está [IMC Toys - Club Petz  Perrita Lucy  canta y baila  95854    color/modelo 
 
 ℹ️:
 
-- Canta y baila diferentes estilos
 - Responde a 20 comandos de voz
 - Más estilos de baile y diversión en la APP
+- Canta y baila diferentes estilos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XYL216F/?tag=tolees-21)

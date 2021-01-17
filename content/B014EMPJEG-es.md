@@ -25,10 +25,10 @@ Tienes [Macally HRMOUNTPRO - Soporte ajustable para reposacabezas de coche para 
 
 🔎:
 
-- Permite montar el iPad/tableta con seguridad al reposacabezas del coche
-- La base se ajusta al iPad/tableta (Compatible con iPad Pro, 12.9 pulgadas) y a cualquier otro dispositivo móvil de entre 12.7 cm a 25.5 cm de anchura
 - Su sólida estructura de aluminio se puede extender para colocar la base entre los dos asientos frontales
 - Admite barras de reposacabezas de entre 5.1 cm y 18.4 cm de anchura
+- Permite montar el iPad/tableta con seguridad al reposacabezas del coche
 - El cabezal giratorio de bola permite ajustar los ángulos de visión óptimos
+- La base se ajusta al iPad/tableta (Compatible con iPad Pro, 12.9 pulgadas) y a cualquier otro dispositivo móvil de entre 12.7 cm a 25.5 cm de anchura
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B014EMPJEG/?tag=tolees-21)

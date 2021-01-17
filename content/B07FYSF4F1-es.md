@@ -27,8 +27,8 @@ Está [tado° Cabezales Termostáticos Inteligentes Kit de Inicio V3+ - Control 
 
 - Auto-Assist: Para una mayor comodidad puedes automatizar la Geolocalización y la Detección de Ventanas Abiertas - también tendrás acceso a Cuidado y Protección (en la app, 2,99€/mes; 24,99€/año)
 - Óptimo para calefacción comunitaria (calefacción central o de distrito); funciona con la mayoría de las válvulas termostáticas de radiador
+- Integración de Smart Home y control de voz para tu calefacción con Amazon Alexa, Apple HomeKit e Asistente de Google
 - Controla tu calefacción desde donde estés con la app de tadoº en tu teléfono, con acceso a tu historial climático y ahorros
 - Reduce tu consumo de energía, ahorra dinero y disfruta de la temperatura óptima en cualquier momento con la ayuda de nuestras skills inteligentes: Geolocalización, Detección de Ventanas Abiertas, Adaptación Meteorológica y Programación Inteligente.
-- Integración de Smart Home y control de voz para tu calefacción con Amazon Alexa, Apple HomeKit e Asistente de Google
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07FYSF4F1/?tag=tolees-21)

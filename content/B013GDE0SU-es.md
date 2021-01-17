@@ -25,10 +25,10 @@ Tienes [De longhi - Cafetera de Bomba Tradicional para Espresso y Cappuccino  Ad
 
 ℹ️:
 
-- DOBLE USO: Incluye 3 filtros profesionales de aluminio para una taza, dos tazas y monodosis "Easy Serving Espresso"
-- SISTEMA CAPPUCCINO: Sistema de Cappuccino ajustable: dos niveles de espuma (cremosa o leche caliente), la boquilla se puede mover 360º
-- THERMOBLOCK: La tecnología Thermoblock calienta el agua en 35 segundos a la temperatura exacta, solo calienta el agua necesaria para cada bebida
 - DEPÓSITO EXTRAIBLE: Depósito transparente de 1.1 litros extraíble para facilitar su limpieza
 - VASOS ALTOS: La bandeja de goteo extraíble permite usar tazas y vasos de hasta 12 cm de altura
+- SISTEMA CAPPUCCINO: Sistema de Cappuccino ajustable: dos niveles de espuma (cremosa o leche caliente), la boquilla se puede mover 360º
+- THERMOBLOCK: La tecnología Thermoblock calienta el agua en 35 segundos a la temperatura exacta, solo calienta el agua necesaria para cada bebida
+- DOBLE USO: Incluye 3 filtros profesionales de aluminio para una taza, dos tazas y monodosis "Easy Serving Espresso"
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B013GDE0SU/?tag=tolees-21)

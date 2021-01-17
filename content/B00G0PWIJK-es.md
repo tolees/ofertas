@@ -25,8 +25,8 @@ Tienes [That Company Called If V&A Design For Textile - Funda para libro  20 cm 
 
 ℹ️:
 
-- 4 diseños diferentes
 - Con diseños del museo Victoria & Albert de Londres
 - Para libros de bolsillo
+- 4 diseños diferentes
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00G0PWIJK/?tag=tolees-21)

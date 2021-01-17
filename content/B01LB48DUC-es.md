@@ -25,12 +25,12 @@ En este momento está [Taurus Dakar - Radiador de aceite de 9 elementos. 1500W. 
 
 🔎:
 
-- Termostato; ajusta el nivel de calor deseado; el radiador se conectará y desconectará automáticamente según la temperatura ambiente
-- 3 niveles de potencía; elige la potencía deseada según cada situación, 3 posiciones distintas de 750w, 1200w y 1500w
 - Diseño moderno
-- Protección; cuenta con sistema de protección contra el sobrecalentamiento; si supera una determinada temperatura elevada el radiador se desconecta automáticamente
-- 1500w; radiador de aceite con una potencía máxima de 1500w; obtén un ambiente cálido en tu hogar. 9 elementos de 14 cm de ancho
 - Piloto de funcionamiento; durante el uso del aparato el piloto luminoso se conectará y desconectará de forma automática, lo que indica el funcionamiento de los elementos calefactores para mantener la temperatura deseada; máximo control
+- 1500w; radiador de aceite con una potencía máxima de 1500w; obtén un ambiente cálido en tu hogar. 9 elementos de 14 cm de ancho
+- 3 niveles de potencía; elige la potencía deseada según cada situación, 3 posiciones distintas de 750w, 1200w y 1500w
+- Protección; cuenta con sistema de protección contra el sobrecalentamiento; si supera una determinada temperatura elevada el radiador se desconecta automáticamente
+- Termostato; ajusta el nivel de calor deseado; el radiador se conectará y desconectará automáticamente según la temperatura ambiente
 - Práctico; con asa de transporte, ruedas y alojamiento para el cable; cómodo y práctico transporte; fácil almacenaje
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01LB48DUC/?tag=tolees-21)
