@@ -25,11 +25,11 @@ Ahora mismo tienes [Bosch AFS 23-37 - Desbrozadora  cuchilla de 3 hojas  bobina 
 
 🔎:
 
-- Incluye: AFS 23-37, cuchilla de 3 hojas, bobina para hilos de corte, 3 hilos de corte, empuñadura adicional, caperuza, caja de cartón
-- ¡Atención! Este desbrozadora es eléctrico
-- Desbrozadora AFS 23-37: para obtener cortes
 - Cambio sencillo entre cuchilla e hilo de corte para superficies grandes o maleza resistente
-- Para cualquier usuario gracias a la correa y la empuñadura ajustables
 - Resultados de corte impresionantes gracias al potente motor de 950 W
+- ¡Atención! Este desbrozadora es eléctrico
+- Incluye: AFS 23-37, cuchilla de 3 hojas, bobina para hilos de corte, 3 hilos de corte, empuñadura adicional, caperuza, caja de cartón
+- Desbrozadora AFS 23-37: para obtener cortes
+- Para cualquier usuario gracias a la correa y la empuñadura ajustables
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01AI2PJQY/?tag=tolees-21)

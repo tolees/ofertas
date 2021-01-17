@@ -26,8 +26,8 @@ Tienes [Tayg Caja herramientas plástico n. 25  negro  400 X 206 X 188 mm](https
 🔎:
 
 - Material: pp
-- Color:caja-azul
 - Bandeja-rojo
+- Color:caja-azul
 - Estuche-transparente
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B008ETGY4A/?tag=tolees-21)

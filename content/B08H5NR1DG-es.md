@@ -25,9 +25,9 @@ Está [NeroGiardini A901212U Sneaker Hombre De Piel Y Tejido Técnico - Negro 45
 
 ℹ️:
 
-- Season: Autumn/Winter
-- Designer: Nero giardini
 - Material: Leather
+- Season: Autumn/Winter
 - Item: A901212U
+- Designer: Nero giardini
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08H5NR1DG/?tag=tolees-21)

@@ -28,7 +28,7 @@ Tienes [WD-40 Specialist - Desengrasante-Spray 500ml](https://www.amazon.es/dp/B
 - Limpia aceite, grasa, polvo y mugre
 - Recomendado para maquinaria, engranajes y cadenas
 - Actúa inmediatamente al contacto con la zona a limpiar
-- Reduce el desgaste de los componentes
 - Se evapora rápidamente sin dejar residuos
+- Reduce el desgaste de los componentes
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07R4PJC5X/?tag=tolees-21)

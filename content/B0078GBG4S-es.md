@@ -25,13 +25,13 @@ Tienes [Bosch PTK 14 EDT - Grapadora eléctrica válida para grapas y clavos  24
 
 🔎:
 
-- Ajuste electrónico de la fuerza de impacto para un resultado de trabajo óptimo al utilizar distintas longitudes de grapas y tipos de materiales
-- DuoTac: posibilidad de disparar dos grapas para una mayor resistencia
 - Funciona con: Grapas tipo 53 (6-14mm longitud, 13,4mm ancho); Clavos tipo 48 (15mm)
-- Extremadamente versátil, puede usarse con grapas y clavos, para fijar materiales finos en madera
-- PTK 14 EDT: la grapadora universal versátil con la máxima comodidad de manejo
 - Incluye: Grapadora eléctrica PTK 14 EDT, 1000 grapas
-- Sistema «Push + Release» fácil de manejar para una activación controlada de los disparos: presionar el saliente de la grapadora en la pieza y accionar el interruptor
 - Empuñadura antivibraciones Softgrip para un manejo seguro y cómodo
+- Ajuste electrónico de la fuerza de impacto para un resultado de trabajo óptimo al utilizar distintas longitudes de grapas y tipos de materiales
+- PTK 14 EDT: la grapadora universal versátil con la máxima comodidad de manejo
+- Sistema «Push + Release» fácil de manejar para una activación controlada de los disparos: presionar el saliente de la grapadora en la pieza y accionar el interruptor
+- Extremadamente versátil, puede usarse con grapas y clavos, para fijar materiales finos en madera
+- DuoTac: posibilidad de disparar dos grapas para una mayor resistencia
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0078GBG4S/?tag=tolees-21)
