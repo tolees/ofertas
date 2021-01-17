@@ -25,12 +25,12 @@ Tienes [NZXT Kraken M22 120 mm - Refrigerador líquido de CPU RGB - Con tecnolog
 
 ℹ️:
 
-- CPU y zócalo: Intel Socket 1200, 1151, 1150, 1155, 1156, 2011, 2011-3, 2066, Core i5 / Core i3 / Pentium / Celeron; AMD AM4, FM2 +, FM2, FM1, AM3 +, AM3, AM2 +, AM2 Ryzen / FX / Athlon X4 / Athlon X2 / APU serie A / Phenom / Phenom II / Athlon / Athlon II / Sempron
-- Diseñado para el rendimiento: Diseñado para mejorar la refrigeración con los mínimos niveles de ruido
-- Dimensiones del radiador: 152 x 120 x 32 mm/ Bloque de agua de la CPU: 65 x 65 x 48 mm
+- Nuevos ventiladores de radiador: Los ventiladores de radiador Aer P incluidos están diseñados para alcanzar la perfección en la refrigeración líquida, con un funcionamiento silencioso, gran durabilidad y potente rendimiento de refrigeración
 - Modos de iluminación de demostración: Añade increíbles colores e iluminación al refrigerador de la CPU con un diseño de espejo infinito para una experiencia de iluminación totalmente dinámica
+- Dimensiones del radiador: 152 x 120 x 32 mm/ Bloque de agua de la CPU: 65 x 65 x 48 mm
+- Diseñado para el rendimiento: Diseñado para mejorar la refrigeración con los mínimos niveles de ruido
+- CPU y zócalo: Intel Socket 1200, 1151, 1150, 1155, 1156, 2011, 2011-3, 2066, Core i5 / Core i3 / Pentium / Celeron; AMD AM4, FM2 +, FM2, FM1, AM3 +, AM3, AM2 +, AM2 Ryzen / FX / Athlon X4 / Athlon X2 / APU serie A / Phenom / Phenom II / Athlon / Athlon II / Sempron
 - Tubos extendidos reforzados: Se han añadido cubiertas de nylon fino para reforzar los tubos de caucho y como capa protectora adicional, protegen los tubos de refrigeración del Kraken de posibles daños durante su manejo
 - Toma el control: con CAM puedes gestionar el rendimiento con precisión y realizar cambios con rapidez, mediante aplicación móvil o de sobremesa, podrás incluso monitorizar la velocidad de la bomba y la temperatura del líquido
-- Nuevos ventiladores de radiador: Los ventiladores de radiador Aer P incluidos están diseñados para alcanzar la perfección en la refrigeración líquida, con un funcionamiento silencioso, gran durabilidad y potente rendimiento de refrigeración
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07B9L5DYD/?tag=tolees-21)

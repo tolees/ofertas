@@ -25,10 +25,10 @@ Tienes [FILA Disruptor  Zapatillas para Hombre  White  44 EU](https://www.amazon
 
 🔎:
 
-- Color: blanco
-- Estación: Primavera verano
 - Designer: Fila
-- Material: Sintético
+- Color: blanco
 - Artículo: MAN DISRUPTOR LOW
+- Material: Sintético
+- Estación: Primavera verano
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07B3Z29JC/?tag=tolees-21)

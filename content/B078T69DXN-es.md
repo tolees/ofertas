@@ -25,10 +25,10 @@ Tienes [PUMA Liga Shorts W Pants  Mujer  Electric Blue Lemonade-White  M](https:
 
 🔎:
 
+- Paneles de canesú y refuerzos de malla en la parte posterior
+- Felino PUMA
+- Transferencia térmica
 - Aplicación en pernera izquierda como desgastada
 - Aplicación de color en contraste en panel lateral
-- Paneles de canesú y refuerzos de malla en la parte posterior
-- Transferencia térmica
-- Felino PUMA
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B078T69DXN/?tag=tolees-21)
