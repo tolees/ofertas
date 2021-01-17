@@ -25,10 +25,10 @@ Ahora mismo tienes [Rotho Bailey  Caja de arena con capucha y solapa  Plástico 
 
 🔎:
 
-- Detalles técnicos: tamaño lxaxa 56 x 40x39 cm, peso 1.3 kg, color blanco/negro, material plástico pp
-- Alcance del suministro: 1 caja de basura incluye cubierta/capucha con filtro de carbón activado integrado y un soporte para la cuchara en la parte posterior
-- Aleta de gato: a través de la aleta de balanceo el gato puede hacer su negocio sin ser molestado; cuando instale la solapa, asegúrese de que está correctamente posicionada para que el mecanismo de giro funcione
 - Tazón: el tazón de la bandeja sanitaria es y profundo, para que los gatos más grandes puedan encontrar su lugar sin problemas; la tapa se puede quitar del tazón para facilitar la limpieza
+- Detalles técnicos: tamaño lxaxa 56 x 40x39 cm, peso 1.3 kg, color blanco/negro, material plástico pp
+- Aleta de gato: a través de la aleta de balanceo el gato puede hacer su negocio sin ser molestado; cuando instale la solapa, asegúrese de que está correctamente posicionada para que el mecanismo de giro funcione
 - Tapa: una puerta y un filtro de carbón activado están integrados en la tapa del baño del gato; en la parte superior hay un asa para el transporte antes del transporte la bandeja sanitaria debe ser vaciada
+- Alcance del suministro: 1 caja de basura incluye cubierta/capucha con filtro de carbón activado integrado y un soporte para la cuchara en la parte posterior
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00MYWFJ7G/?tag=tolees-21)

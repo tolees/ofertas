@@ -26,11 +26,11 @@ Tienes [Bosch PSM 80 A - Multilijadora  3 hojas de lija RedWood  con maletín  8
 ℹ️:
 
 - Conexión para aspiración de polvo
+- Cierre de cardillo para el cambio rápido y cómodo de la hoja lijadora
+- La potente herramienta de 80 W que lija y pule incluso en zonas de difícil acceso y en superficies pequeñas
+- Incluye: Multilijadora PSM 80 A, 3 hojas de lija RedWood, maletín
 - Trabajo limpio gracias al sistema microfiltro de Bosch: el elemento de aspiración integrado aspira el polvo directamente al interior del depósito del sistema microfiltro suministrado
 - La lijadora "multitalento" de fácil manejo
 - Placa lijadora dividida en dos: para el aprovechamiento óptimo de la hoja de lija, la punta delta de la hoja y de la placa pueden soltarse y girarse sin esfuerzos
-- La potente herramienta de 80 W que lija y pule incluso en zonas de difícil acceso y en superficies pequeñas
-- Incluye: Multilijadora PSM 80 A, 3 hojas de lija RedWood, maletín
-- Cierre de cardillo para el cambio rápido y cómodo de la hoja lijadora
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000PXHIFM/?tag=tolees-21)
