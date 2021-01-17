@@ -25,10 +25,10 @@ Tienes [WD My Passport Ultra - Disco Duro Externo para Mac de 4 TB  Preparado pa
 
 🔎:
 
-- Protección mediante contraseña con cifrado de hardware AES de 256 bits
 - WD Discovery le permite importar contenido desde redes sociales y almacenamiento en la nube
-- Estilo innovador con una elegante carcasa metálica
-- Preparado para USB-C y compatible con USB 3.0
+- Protección mediante contraseña con cifrado de hardware AES de 256 bits
 - Hasta 4 TB de capacidad
+- Preparado para USB-C y compatible con USB 3.0
+- Estilo innovador con una elegante carcasa metálica
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07GKBT14V/?tag=tolees-21)
