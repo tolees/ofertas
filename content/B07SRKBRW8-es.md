@@ -25,13 +25,13 @@ En este momento está [Geox D LEELU  E  Zapatillas Mujer  Blanco  White/Off Whit
 
 🔎:
 
-- Material exterior: Cuero
-- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
 - Anchura del zapato: Normal
+- Material exterior: Cuero
+- Altura del tacón: 2.5 centímetros
 - Revestimiento: Malla
+- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
+- Tipo de tacón: Plano
 - Material de la suela: Sintético
 - Cierre: Cordones
-- Tipo de tacón: Plano
-- Altura del tacón: 2.5 centímetros
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SRKBRW8/?tag=tolees-21)

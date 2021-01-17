@@ -25,12 +25,12 @@ Tienes [Superga 2750-Lamew S001820 - Zapatos de lona para mujer  Black 999  39](
 
 ℹ️:
 
+- Material de la suela: goma.
 - Diámetro de la pantorrilla: normal.
-- Forro: tela.
+- Material exterior: sintético.
 - Ancho del zapato: normal.
 - Tipo de tacón: sin tacón.
 - Cierre: cordón.
-- Material exterior: sintético.
-- Material de la suela: goma.
+- Forro: tela.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00BWL93J0/?tag=tolees-21)
