@@ -25,11 +25,11 @@ Está [TP-LINK Archer T2U Nano Adaptador inalámbrico Nano USB de doble banda AC
 
 ℹ️:
 
-- Nano diseño – diseño pequeño y discreto le permite conectar y olvidarse de que esta conectado el dispositivo
-- Compatible con la tecnología 256QAM aumenta 2,4 GHz velocidad de datos de 150Mbps a 200Mbps de 33% de rendimiento más rápido
-- Alta velocidad Wi-Fi – hasta velocidades de 600Mbps con 200Mbps en 2.4GHz y 433 Mbps a 5GHz, actualiza tus dispositivos a velocidades más altas de AC WiFi.
-- Sistema operativo: soporta Windows 10/8.1/8/7/XP, Mac OS X
-- Seguridad avanzada, soporta 64/128-bit WEP, WPA/WPA2 y WPA-PSK/WPA2-PSK estándares de cifrado
 - Doble banda Inalámbrica– 2,4 GHz y 5GHz banda de conectividad flexibles, actualiza tus dispositivos para trabajar con el último router de WiFi de doble banda para mayor velocidad y rango extendido
+- Seguridad avanzada, soporta 64/128-bit WEP, WPA/WPA2 y WPA-PSK/WPA2-PSK estándares de cifrado
+- Alta velocidad Wi-Fi – hasta velocidades de 600Mbps con 200Mbps en 2.4GHz y 433 Mbps a 5GHz, actualiza tus dispositivos a velocidades más altas de AC WiFi.
+- Compatible con la tecnología 256QAM aumenta 2,4 GHz velocidad de datos de 150Mbps a 200Mbps de 33% de rendimiento más rápido
+- Sistema operativo: soporta Windows 10/8.1/8/7/XP, Mac OS X
+- Nano diseño – diseño pequeño y discreto le permite conectar y olvidarse de que esta conectado el dispositivo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KRCW6LZ/?tag=tolees-21)

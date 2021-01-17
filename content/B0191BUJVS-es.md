@@ -25,9 +25,9 @@ Está [Kremlin Vodka Magnum - Botella de 1 5L](https://www.amazon.es/dp/B0191BUJ
 
 ℹ️:
 
-- Las variedades especiales de trigo para el Premio del Kremlin se filtran sobre mármol después del proceso de destilación.
 - Sólo se utilizan los ingredientes de mejor calidad en la producción del Vodka Gran Premio del Kremlin.
 - ideal para disfrutar por ti mismo
+- Las variedades especiales de trigo para el Premio del Kremlin se filtran sobre mármol después del proceso de destilación.
 - perfecto como un regalo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0191BUJVS/?tag=tolees-21)

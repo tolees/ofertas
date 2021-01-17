@@ -25,10 +25,10 @@ Tienes [ECCO FLEXURERUNNERW  Zapatillas Mujer  Gris  Grey Rose 1386   38 EU](htt
 
 🔎:
 
-- Material exterior: Cuero
+- Revestimiento: Tela
 - Cierre: Cordones
 - Tipo de tacón: Plano
 - Material de la suela: Caucho
-- Revestimiento: Tela
+- Material exterior: Cuero
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VCB19WK/?tag=tolees-21)

@@ -27,7 +27,7 @@ Tienes [Funko Pop! - Marvel Black Panther: Killmonger Figura de Vinilo  23350   
 
 - Please note chase Variant cannot be ordered as an individual line
 - Chase variants are dispatched at random
-- POP! Vinyl
 - Marvel: Black Panther
+- POP! Vinyl
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0779C5VSV/?tag=tolees-21)

@@ -26,9 +26,9 @@ Está [TACKLIFE 1/2" Llave Dinamométrica Profesional  42-210NM  Llave de Torque
 ℹ️:
 
 - ▲【Contenido del paquete】- 1 ▪ Tacklife HTW2B 1/2" Llave Dinamométrica, 1 ▪ ⅜” Reductor, 1 ▪ ½” Barra de Extensión, 1 ▪ Caja de Almacenamiento, 1 ▪ Certificado de Calibración, 1 ▪ Manual Usuario.
-- ▲【Material de alta calidad】- El cabezal de trinquete forjado de CR-V de acero al cromo vanadio, tratamiento térmico general de alta dureza, eje de tubo plano de acero, construcción completamente de aleación moleteada, estética, duradera, antideslizante. Superficie galvanizada y de acabado mate, no le deslumbra trabajando en ambiente de deslumbramiento
-- ▲【Cabezal de trinquete & llave de clic】- Cabezal de trinquete reversible de 24T, ambas direcciones para apretar y aflojar, fácil de configurar su par y bloquearlo accionando el mango y la tuerca. "Click" emite cuando la llave alcanza el torque preestablecido, evitando la sobrecarga
 - ▲【±4% Precisión & doble gamas(ft-lb/Nm)】- Cada llave dinamométrica pasó la calibración según DIN-ISO-6789 dentro de ± 4%, certificada una por una con datos de prueba individuales y número de serie, confiable y precisa. Diseño de escala de doble rango (ft-lb/Nm), alto contraste, fácil de leer incluso en condiciones de poca luz
+- ▲【Cabezal de trinquete & llave de clic】- Cabezal de trinquete reversible de 24T, ambas direcciones para apretar y aflojar, fácil de configurar su par y bloquearlo accionando el mango y la tuerca. "Click" emite cuando la llave alcanza el torque preestablecido, evitando la sobrecarga
 - ▲【Juego de llaves de torque completo】- Adquiere un ⅜” reductor, una ½” barra de extensión. Sólo con un juego puede adaptarse a todos sus tipos y tamaños de las tomas incluidas ½” & ⅜”
+- ▲【Material de alta calidad】- El cabezal de trinquete forjado de CR-V de acero al cromo vanadio, tratamiento térmico general de alta dureza, eje de tubo plano de acero, construcción completamente de aleación moleteada, estética, duradera, antideslizante. Superficie galvanizada y de acabado mate, no le deslumbra trabajando en ambiente de deslumbramiento
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JB51YHJ/?tag=tolees-21)
