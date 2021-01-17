@@ -26,9 +26,9 @@ Está [Columbia Woodburn II  Zapatillas Hombre  Black  Black Goldenrod   40.5 EU
 ℹ️:
 
 - Material exterior: Cuero
-- Revestimiento: Sintético
-- Tipo de tacón: Plano
-- Material de la suela: Goma
 - Cierre: Cordones
+- Revestimiento: Sintético
+- Material de la suela: Goma
+- Tipo de tacón: Plano
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00J61COSU/?tag=tolees-21)

@@ -25,9 +25,9 @@ Ahora mismo tienes [Lee Daren Zip Fly Jeans  Espuma Media  32W x 36L para Hombre
 
 🔎:
 
-- Regular Straight
-- DENIM STRETCH
 - Tejido vaquero
+- Regular Straight
 - INDIGOOD
+- DENIM STRETCH
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B081G2GGR2/?tag=tolees-21)
