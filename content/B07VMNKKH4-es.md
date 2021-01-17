@@ -25,10 +25,10 @@ Tienes [Tommy Hilfiger Tjw Tommy Classics tee Ropa Deportiva de Punto  Naranja  
 
 🔎:
 
-- Detalles distintivos de Tommy Jeans
-- Cuello redondo
-- Corte regular
-- Parche con el logo de Tommy Jeans en el pecho
 - Punto de puro algodón orgánico
+- Cuello redondo
+- Parche con el logo de Tommy Jeans en el pecho
+- Detalles distintivos de Tommy Jeans
+- Corte regular
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VMNKKH4/?tag=tolees-21)

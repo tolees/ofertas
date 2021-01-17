@@ -26,9 +26,9 @@ Tienes [GREAT ART Set de tarjetas motivacionales – 12 Tarjetas formato Din A5 
 🔎:
 
 - Diseña cada habitación con leyendas. Enmárcalas o fíjalas a la pared. Adecuadas para decorar para cualquier habitación, ya sea gimnasio, sala de estar, oficina, taller o estudio.
-- Impresión de calidad hecha en Alemania: en cartón resistente de alta calidad que permite colores brillantes y una experiencia espacial perfecta. ¡Hacemos que ames tus paredes!
 - Sorprende a tus amigos, colegas o compañeros de gimnasio con el set de tarjetas, ya sea como regalo de cumpleaños, regalo de despedida de colegas o para tu equipo de gimnasia
 - Tu éxito es importante; por eso la parte posterior contiene un gráfico con consejos y trucos para las áreas de la vida relacionadas con la salud, el cuerpo, el trabajo y más.
+- Impresión de calidad hecha en Alemania: en cartón resistente de alta calidad que permite colores brillantes y una experiencia espacial perfecta. ¡Hacemos que ames tus paredes!
 - Tamaño: A5 (14,8 x 21 cm): tarjetas deportivas para entrenar, ya sea para ejercitarse o entrenar diariamente: las leyendas sobre fitness en inglés, relacionadas al deporte, te motivarán.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07XDWFR9T/?tag=tolees-21)
