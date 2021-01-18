@@ -26,8 +26,8 @@ En este momento está [Vans Atwood  Sneaker Unisex Adulto  Negro  Canvas Black/W
 🔎:
 
 - Composición: Canvas
-- Cierre: Cordones
 - Tipo de tacón: Plano
+- Cierre: Cordones
 - Anchura del zapato: Normal
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00BIJ0O8A/?tag=tolees-21)

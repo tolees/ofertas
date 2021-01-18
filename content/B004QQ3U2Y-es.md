@@ -26,10 +26,10 @@ Ahora mismo tienes [Bosch Keo 0600861900 - Sierra de jardín a batería  Tiempo 
 🔎:
 
 - ¡Nota! Con estribo de sujeción "A-Grip", la capacidad máxima de corte es Ø 60 mm. Sin estribo de sujeción "A-Grip", la capacidad máxima de corte es Ø 80 mm
-- Siempre lista para el uso: sin efecto memoria ni autodescarga gracias a la tecnología de batería de litio
-- Sin problemas: el estribo de sujeción desmontable "A-Grip" sujeta las ramas mientras las corta – no necesitará la otra mano
-- Sierra de poda a batería Keo - sierra sin esfuerzo las ramas más gruesas
-- Empuñaduras Softgrip y forma ergonómica para un mejor manejo
 - Batería de litio de 10,8 V integrada para un rendimiento potente; sin autodescarga ni efecto memoria; siempre lista para utilizar
+- Sin problemas: el estribo de sujeción desmontable "A-Grip" sujeta las ramas mientras las corta – no necesitará la otra mano
+- Siempre lista para el uso: sin efecto memoria ni autodescarga gracias a la tecnología de batería de litio
+- Empuñaduras Softgrip y forma ergonómica para un mejor manejo
+- Sierra de poda a batería Keo - sierra sin esfuerzo las ramas más gruesas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B004QQ3U2Y/?tag=tolees-21)

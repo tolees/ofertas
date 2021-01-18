@@ -26,9 +26,9 @@ Tienes [DXP Shisha Hookah 55cm 2 Manguera Cachimba Narguile agua tubo vidrio fum
 ℹ️:
 
 - It looks beautiful and practical, is a new generation of fashion and leisure smoking
+- This glass hookahs are very durable and do not break easy. They are long lasting and smoke great.
 - Material: glsss bottle + iron stems; Color: black
 - You can get the same enjoyment of smoking without nicotine
 - Size: Hookah bottom diameter: 12.5cm, hose length: 55cm
-- This glass hookahs are very durable and do not break easy. They are long lasting and smoke great.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00ZZZZL0E/?tag=tolees-21)

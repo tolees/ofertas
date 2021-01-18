@@ -25,10 +25,10 @@ Ahora mismo tienes [Sotya Maca  100 Comprimidos  500 mg](https://www.amazon.es/d
 
 🔎:
 
-- De la marca Sotya
-- Aumento de la libido.
-- Efecto analgésico
 - Aumento de la energía mental.
 - Aumenta la resistencia física,
+- Aumento de la libido.
+- Efecto analgésico
+- De la marca Sotya
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00PYAB992/?tag=tolees-21)

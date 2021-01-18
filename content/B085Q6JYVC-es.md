@@ -26,9 +26,9 @@ Está [ORICO Extreme SSD portátil 128GB  550MB/s Velocidad de Lectura Unidad de
 ℹ️:
 
 - GARANTÍA Y COMPATIBILIDAD: ORICO proporciona garantía técnica de 3 años y soporte técnico de por vida. Esta unidad de estado sólido externa es compatible con Windows 7/8/10, Mac OS, Linux, sistema Android.
-- EXCELENTE AYUDANTE AL AIRE LIBRE: la carcasa externa de aleación de aluminio con marco de silicona mantendrá el nvme protable ssd lejos de peligro. A prueba de salpicaduras, a prueba de polvo y a prueba de golpes, puede proteger los datos más preciados.
 - HARDWARE DE MEMORIA PROFESIONAL: Compatible con las partículas incorporadas 3D NAND Flash TLC y la interfaz USB 3.1 Gen 2 Type-C, junto con el conjunto de chips JMS583 para velocidad de 10 Gbps, TRIM y UASP, 128 GB de gran capacidad, idea para garantizar un gran almacenamiento y transferencia de datos Seguridad y estabilidad.
-- Velocidad de transmisión extremadamente rápida: el control maestro USB3.1 Gen2 y un puerto tipo C equipado con el SSD externo ORICO NVME pueden admitir varios equipos digitales para la copia de seguridad de datos más rápida y la velocidad de lectura y escritura puede alcanzar hasta 940 MB / s.
+- EXCELENTE AYUDANTE AL AIRE LIBRE: la carcasa externa de aleación de aluminio con marco de silicona mantendrá el nvme protable ssd lejos de peligro. A prueba de salpicaduras, a prueba de polvo y a prueba de golpes, puede proteger los datos más preciados.
 - RANURA DE CABLE CONVENIENTE: fácil y simple de transportar el SSD M.2 NVME, un cable de datos con el equipo, plug and play, difícil de perder.
+- Velocidad de transmisión extremadamente rápida: el control maestro USB3.1 Gen2 y un puerto tipo C equipado con el SSD externo ORICO NVME pueden admitir varios equipos digitales para la copia de seguridad de datos más rápida y la velocidad de lectura y escritura puede alcanzar hasta 940 MB / s.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B085Q6JYVC/?tag=tolees-21)

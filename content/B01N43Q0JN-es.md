@@ -26,7 +26,7 @@ Tienes [adidas Assita 17 Gk Camiseta  Hombre  Naranja  128](https://www.amazon.e
 ℹ️:
 
 - El tejido Climalite elimina el sudor de la piel
-- Camiseta de portero
 - Camiseta de portero fabricada con material ecológico
+- Camiseta de portero
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01N43Q0JN/?tag=tolees-21)
