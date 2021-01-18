@@ -25,10 +25,10 @@ Tienes [Amazfit T-Rex Reloj Inteligente Verde  Gris  Blanco AMOLED 3 3 cm  1.3" 
 
 🔎:
 
+- 12 military grade certifications. Resistant to harsh environments.
 - Tough from the inside out. Sturdy appearance, solid craftsmanship.
 - The 1.3-inch AMOLED color screen and the always-on screen.
-- 12 military grade certifications. Resistant to harsh environments.
-- Ultra long battery life of 20 days.
 - Dual satellite positioning with high precision GPS.
+- Ultra long battery life of 20 days.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0842XXZ9G/?tag=tolees-21)

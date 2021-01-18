@@ -25,7 +25,7 @@ Tienes [Tommy Hilfiger Tjw Logo Bomber Chaqueta  Negro  Black Bds   36  Talla de
 
 ℹ️:
 
-- Tommy Jeans - Chaquetas para mujer
 - Más información sobre Tommy Hilfiger / Tommy Jeans se puede encontrar en la descripción del producto
+- Tommy Jeans - Chaquetas para mujer
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07VXRPBY5/?tag=tolees-21)

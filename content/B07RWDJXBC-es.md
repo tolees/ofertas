@@ -25,8 +25,8 @@ Ahora mismo tienes [Mr. Wonderful Set of Two A4 notebooks-Contains Friday Feelin
 
 🔎:
 
-- Diseñado con amor en barcelona
 - Peso: 420 gr
+- Diseñado con amor en barcelona
 - Medidas con pack: 21 x 29, 7 x 0, 4 cm
 - Materiales: offset blanco de 80 gr/ portada de cartulina estucada de 350 gr
 

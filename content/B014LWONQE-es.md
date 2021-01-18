@@ -25,10 +25,10 @@ Tienes [BOSCH 2607010901 - Hoja para sierra de sable: Set ToughBox: BasicWood+Me
 
 🔎:
 
-- El juego de cuchillas de sierra de sable de 15 piezas de Bosch Professional en una caja robusta y resistente para un almacenamiento práctico
 - Las hojas de sierra de sable Basic para metal S 918 AF y S 918 BF con una longitud de hoja de 150 mm son adecuadas para el corte óptimo de metal, p. de tuberías o perfiles
-- Volumen de suministro: 5 x hojas de sierra de sable Basic para metal S 918 AF, 5 x hojas de sierra de sable Basic para metal S 918 BF, 5 x hojas de sierra de sable Basic para madera S 617 K, caja resistente
-- Las hojas de sierra de sable Basic for Wood S 617 K permiten cortes de curva y de inmersión en madera, p. para cortar leña
+- El juego de cuchillas de sierra de sable de 15 piezas de Bosch Professional en una caja robusta y resistente para un almacenamiento práctico
 - Fácil transporte y almacenamiento seguro de accesorios gracias al estuche rígido compacto y estable
+- Las hojas de sierra de sable Basic for Wood S 617 K permiten cortes de curva y de inmersión en madera, p. para cortar leña
+- Volumen de suministro: 5 x hojas de sierra de sable Basic para metal S 918 AF, 5 x hojas de sierra de sable Basic para metal S 918 BF, 5 x hojas de sierra de sable Basic para madera S 617 K, caja resistente
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B014LWONQE/?tag=tolees-21)

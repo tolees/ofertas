@@ -26,7 +26,7 @@ Tienes [Osram Smart Bombilla Inteligente y Reflectora Casquillo con Cambio de Co
 🔎:
 
 - Luz multicolor regulable
-- El control de accesorios a través de la aplicación requiere un sistema LIGHTIFY (aplicación y pasarela) u otro sistema de casa inteligente compatible
 - Consumo energético muy bajo; ahorra al menos el 80%
+- El control de accesorios a través de la aplicación requiere un sistema LIGHTIFY (aplicación y pasarela) u otro sistema de casa inteligente compatible
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B074PZKX4C/?tag=tolees-21)

@@ -26,9 +26,9 @@ Ahora mismo tienes [Geox D Myria C  Zapatillas para Mujer  Negro  Black C9999   
 🔎:
 
 - Tipo de tacón: Plano
-- Revestimiento: Malla
-- Material de la suela: Goma
-- Cierre: Cremallera
 - Material exterior: Cuero
+- Material de la suela: Goma
+- Revestimiento: Malla
+- Cierre: Cremallera
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SVPTRGG/?tag=tolees-21)

@@ -25,10 +25,10 @@ Está [eufy Security by Anker  Sensor de puerta  Detecta apertura/cierre de puer
 
 ℹ️:
 
+- PARA PUERTAS Y VENTANAS: El diseño pequeño y compacto se adapta a cualquier marco de puerta o ventana.
 - FÁCIL INSTALACIÓN: simplemente retire la cinta de montaje y pegue el sensor en la puerta o ventana que desea monitorear.
 - QUÉ INCLUYE: Sensor de entrada, base magnética, tornillos de montaje, manual de instrucciones, tarjeta feliz.
-- VIDA ÚTIL DE LA BATERÍA DE 2 AÑOS: una batería CR-123A proporciona monitoreo durante 730 días.
 - SIRENA DE 100 DECIBELOS: si se detecta una entrada forzada, se activará una sirena tan fuerte como un martillo neumático en HomeBase, y se le notificará instantáneamente en su teléfono inteligente.
-- PARA PUERTAS Y VENTANAS: El diseño pequeño y compacto se adapta a cualquier marco de puerta o ventana.
+- VIDA ÚTIL DE LA BATERÍA DE 2 AÑOS: una batería CR-123A proporciona monitoreo durante 730 días.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JJD6CFV/?tag=tolees-21)
