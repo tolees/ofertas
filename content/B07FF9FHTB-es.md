@@ -25,8 +25,8 @@ Tienes [bollé Freeze Máscaras  Unisex Adulto  Navy Matte/Vermillon Cat.2  Medi
 
 🔎:
 
+- Lente cilíndrica
 - Categoría: 2
 - Lente: Vermillon
-- Lente cilíndrica
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07FF9FHTB/?tag=tolees-21)

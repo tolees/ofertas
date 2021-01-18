@@ -25,8 +25,8 @@ Tienes [Tommy Hilfiger TJM Classics Tipped Stretch Polo  Blanco  White   Large p
 
 ℹ️:
 
-- Producto original y auténtico Tommy Hilfiger/Tommy Jeans
 - Puedes encontrar más información sobre Tommy Hilfiger / Tommy Jeans en la descripción del producto.
 - Tommy Jeans Hombre S/S Polos
+- Producto original y auténtico Tommy Hilfiger/Tommy Jeans
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07VXKV75W/?tag=tolees-21)
