@@ -25,9 +25,9 @@ Ahora mismo tienes [D-Link DGS-105 - Switch de red  5 puertos Gigabit RJ-45  10/
 
 🔎:
 
+- Incorpora la tecnología D-Link Green, hasta un 80% menos de consumo de energía
 - Jumbo frames: Soporta tramas de datos de 9000 bytes
 - IGMP Snooping: si tienes servicio de TV por Internet, el tráfico de datos por tu red estará bajo control, sin bajadas de rendimiento para el resto de dispositivos
-- Incorpora la tecnología D-Link Green, hasta un 80% menos de consumo de energía
 - Enchufar y listo, no necesita configuración alguna
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B000BC7QMM/?tag=tolees-21)
