@@ -25,10 +25,10 @@ Está [Rimmel London Stay Matte Powder Polvos de maquillaje Tono 5 - 14 gr](http
 
 ℹ️:
 
-- Smooths over imperfection for flawless look
-- Clear complexion with matte formula
 - Long-lasting wear; up to 6 hours of shine control
 - Feel safe and clear with dermatologically tested powder
 - Indulge in product enriched with natural minerals and powders to enhance your natural glow
+- Smooths over imperfection for flawless look
+- Clear complexion with matte formula
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B006EHWDEE/?tag=tolees-21)

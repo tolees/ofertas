@@ -25,10 +25,10 @@ Está [Hugo BOSS Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 1513
 
 ℹ️:
 
-- Correa de piel tostato claro
 - 5 ATM de resistencia al agua
-- Movimiento cronógrafo
 - Grosor de la caja de 10,7mm, Diámetro de la caja: 44 mm
+- Correa de piel tostato claro
+- Movimiento cronógrafo
 - Esfera con chapado iónico gris
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VHW6SFX/?tag=tolees-21)
