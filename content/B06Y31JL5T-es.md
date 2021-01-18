@@ -25,9 +25,9 @@ Tienes [Joma Miami Bermuda Deporte de Tenis  Hombres  Blanco  M](https://www.ama
 
 ℹ️:
 
-- Tiene un ajuste óptimo
 - Hecho 100 % de poliéster
-- Pantalón corto con bolsillos
 - Cintura elástica con cordón
+- Pantalón corto con bolsillos
+- Tiene un ajuste óptimo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B06Y31JL5T/?tag=tolees-21)

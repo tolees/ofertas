@@ -25,10 +25,10 @@ Tienes [Munchkin - Pack de 4 cucharas](https://www.amazon.es/dp/B00IFWP9BK/?tag=
 
 🔎:
 
+- Asa de diseño ergonómico que es cómoda al sujetarla
 - El mango largo permite llegar fácilmente hasta el fondo de los frascos
+- Libre de BPA, apto para el lavavajillas, para más de 4 meses
 - El cuenco de la cuchara, redondeado y blando, es suave para las encías
 - Sistema patentado White Hot - la punta de la cuchara se convierte blanca cuando la comida del bebé está demasiado caliente
-- Asa de diseño ergonómico que es cómoda al sujetarla
-- Libre de BPA, apto para el lavavajillas, para más de 4 meses
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00IFWP9BK/?tag=tolees-21)

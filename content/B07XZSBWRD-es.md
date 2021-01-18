@@ -25,11 +25,11 @@ Ahora mismo tienes [Lenovo Legion Y540 - Portátil gaming 15.6" FullHD 144Hz  In
 
 🔎:
 
-- Memoria RAM de 16GB (2x 8GB SO-DIMM DDR4-2666)
-- Pantalla de 15.6" FullHD 1920 x 1080 pixeles, 144Hz
 - Procesador Intel Core i7-9750HF (6C/12T, 2.6/4.5GHz, 12MB)
-- Tarjeta gráfica NVIDIA GeForce GTX 1660 Ti 6GB GDDR6
 - Almacenamiento de 512GB SSD M.2 2242 PCIe 3.0x2 NVMe + 1TB HDD 7200rpm 2.5"
 - Sin sistema operativo
+- Pantalla de 15.6" FullHD 1920 x 1080 pixeles, 144Hz
+- Tarjeta gráfica NVIDIA GeForce GTX 1660 Ti 6GB GDDR6
+- Memoria RAM de 16GB (2x 8GB SO-DIMM DDR4-2666)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XZSBWRD/?tag=tolees-21)

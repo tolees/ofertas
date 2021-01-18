@@ -25,9 +25,9 @@ En este momento está [Oral-B TriZone - Cabezal de recambio  para cepillo de die
 
 🔎:
 
-- Fácil agarre para que te cepilles como si lo hicieras con un cepillo de dientes manual normal
-- Cuenta con una zona de limpieza triple con tres áreas de filamentos, para limpiar en profundidad las zonas de difícil acceso
 - Oral-B, La marca usada por dentistas en todo el mundo
+- Cuenta con una zona de limpieza triple con tres áreas de filamentos, para limpiar en profundidad las zonas de difícil acceso
+- Fácil agarre para que te cepilles como si lo hicieras con un cepillo de dientes manual normal
 - Este cabezal de recambio favorece unos dientes más limpios y unas encías más sanas, comparado con un cepillo de dientes manual normal
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B008BON38S/?tag=tolees-21)

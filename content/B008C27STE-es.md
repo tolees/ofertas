@@ -25,10 +25,10 @@ Ahora mismo tienes [Muñequera/NIKE:WRISTBAND MISC MARINO](https://www.amazon.es
 
 🔎:
 
-- Material: 72% algodón, 12% nailon, 11% poliéster, 4% goma, 1% elastano.
 - Lleva sudor en y son fáciles de lavar
+- Se puede lavar en la lavadora.
 - Discreto pero funcional. Alta resistencia y durabilidad. Longitud: 7,62 cm
 - Set de 2 muñequeras Nike Wristband
-- Se puede lavar en la lavadora.
+- Material: 72% algodón, 12% nailon, 11% poliéster, 4% goma, 1% elastano.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B008C27STE/?tag=tolees-21)

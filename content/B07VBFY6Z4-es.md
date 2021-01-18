@@ -25,9 +25,9 @@ Tienes [Vans Ward Platform Canvas  Sneaker Mujer  Color Blanco  36.5 EU](https:/
 
 🔎:
 
-- Tela superior
 - Ward Platform
-- Vans Active
+- Tela superior
 - Entrenadores Zapatos
+- Vans Active
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VBFY6Z4/?tag=tolees-21)

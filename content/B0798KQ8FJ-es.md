@@ -25,10 +25,10 @@ En este momento está [Vans Ward  Sneaker Mujer  Rojo  Canvas/Burgundy Olq   36 
 
 🔎:
 
-- Revestimiento: Tela
 - Material exterior: Lona
-- Tipo de tacón: Plano
 - Cierre: Cordones
+- Tipo de tacón: Plano
 - Material de la suela: Goma
+- Revestimiento: Tela
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0798KQ8FJ/?tag=tolees-21)

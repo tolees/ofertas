@@ -25,9 +25,9 @@ Tienes [Funko Pop! Rocks: Rob Zombie – Rob Zombie](https://www.amazon.es/dp/B0
 
 🔎:
 
-- Figura de colección de la marca Funko
-- El artículo es adecuado para todos los fanáticos de Rob Zombie
 - Recomendado para niños a partir de 3 años
 - El producto se envía en una caja ilustrada con ventana
+- Figura de colección de la marca Funko
+- El artículo es adecuado para todos los fanáticos de Rob Zombie
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07RVMBS9T/?tag=tolees-21)
