@@ -25,8 +25,8 @@ Tienes [Tannymaxx Fruity Intansity  Acelerador y optimizador del bronceado - 125
 
 ℹ️:
 
+- Calma la piel gracias a la acción del aloe vera y el complejo de vitaminas A, C y E
 - La melanina promueve un bronceado más rápido y profundo
 - La entrega incluye 1 x 125 ml Tannymaxx Brown Fruity Intansity Tanning Lotion
-- Calma la piel gracias a la acción del aloe vera y el complejo de vitaminas A, C y E
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00IJLZJYY/?tag=tolees-21)

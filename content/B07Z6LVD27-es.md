@@ -25,8 +25,8 @@ Ahora mismo tienes [Cepillo antiestático 5pcs Cepillo de Placa de Circuito de P
 
 🔎:
 
-- ★ Tamaño: aproximadamente 18 * 1 * 1 cm / 7 * 0.39 * 0.39 pulgadas (L * W * H).
 - ★ Color: negro. Material: alambre de cobre, alambre de acero inoxidable, nylon.
+- ★ Tamaño: aproximadamente 18 * 1 * 1 cm / 7 * 0.39 * 0.39 pulgadas (L * W * H).
 - ★ Bueno para limpiar la máquina, la maquinilla de afeitar, la pecera, el teléfono celular, las computadoras, el teclado, etc., espacios de difícil acceso.
 - ★ Paquete que incluye: 5 piezas Cepillo estático Mango de plástico Placa de circuito PCB Cepillo 7 pulgadas 3 filas
 - ★ El cepillo antiestático elimina la suciedad de la PCB u otros componentes sensibles y descarga la electricidad estática al suelo.

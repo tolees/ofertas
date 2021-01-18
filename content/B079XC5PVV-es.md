@@ -25,9 +25,9 @@ Tienes [Kingston A400 SSD SA400S37/960G - Disco duro sólido interno 2.5" SATA 9
 
 ℹ️:
 
-- Velocidad de grabación: 450 MB/s
-- Fiable y resistente
-- Rendimiento óptimo para la transferencia de archivos
 - Capacidad del disco duro: 960 GB
+- Fiable y resistente
+- Velocidad de grabación: 450 MB/s
+- Rendimiento óptimo para la transferencia de archivos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B079XC5PVV/?tag=tolees-21)

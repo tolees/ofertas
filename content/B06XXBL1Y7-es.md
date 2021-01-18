@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance Hombre 574v2-core Trainers Z al 40.23 % de descuento'
-date: 2021-01-17 05:22:14
+date: 2021-01-18 17:35:18
 image: 'https://m.media-amazon.com/images/I/41hH41avSxL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XXBL1Y7/?tag=tolees-21'
 descuento: '40.23'
-average: '61.08434782608696'
+average: '60.500800000000005'
 ---
 
 Ahora mismo tienes [New Balance Hombre 574v2-core Trainers Zapatillas  Verde  Olive Night   40.5 EU](https://www.amazon.es/dp/B06XXBL1Y7/?tag=tolees-21) a 53.79 EUR (original: 90.0 EUR) (40.23 %  de descuento) en el siguiente enlace!

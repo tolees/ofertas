@@ -25,8 +25,8 @@ Tienes [EGLO Lámpara de Pie Maronda E14  120 W  Negro  27.5 x 35 x 10 cm](https
 
 🔎:
 
+- De alta calidad
 - Acero-negro
 - Bombilla: no incluida
-- De alta calidad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01J97I9OI/?tag=tolees-21)
