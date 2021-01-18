@@ -25,11 +25,11 @@ Tienes [Makita KP0800 240V 82mm Cepilladora](https://www.amazon.es/dp/B005KH4VXK
 
 🔎:
 
+- 2.0 mm planning depth
+- Easy adjustment for an accurate and even finish
 - Double insulation
 - Fine depth adjustment
 - Application: Vacuum cleaner, dust extraction
 - 34000 cuts per minute
-- 2.0 mm planning depth
-- Easy adjustment for an accurate and even finish
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B005KH4VXK/?tag=tolees-21)

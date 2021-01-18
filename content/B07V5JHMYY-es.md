@@ -25,10 +25,10 @@ Tienes [Yulu-#Snapstar Izzy  407251    color/modelo surtido](https://www.amazon.
 
 ℹ️:
 
-- Edad: +5 años
 - Izzy ama el medioambiente y es una apasionada del reciclaje; no deja que nada se desperdicie y es capaz de convertir cualquier cosa desechable en algo increíble; le encanta organizar fiestas de artesanía y manualidades; las chicas se vuelven locas con sus creaciones
+- Características muñeca: tamaño: 25 cm 15 articulaciones pelo intercambiable los ojos son muy reales; parecen de cristal
 - Snapstar son 6 muñecas influencers; cada una de ellas tiene un estilo, carácter y aficiones distintas; las muñecas tienen asociada una aplicación gratuita para dispositivos móviles; la aplicación permite maquillar a la muñeca, ponerle distintos accesorios de moda, cambiar el fondo, editar el entorno y guardarlo como fotos para poder compartirlo en redes sociales fácilmente
 - Contenido: 1 peluca intercambiable 1 conjunto con 2 accesorios a juego pie ajustable escenario verde app 100% gratuita
-- Características muñeca: tamaño: 25 cm 15 articulaciones pelo intercambiable los ojos son muy reales; parecen de cristal
+- Edad: +5 años
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07V5JHMYY/?tag=tolees-21)

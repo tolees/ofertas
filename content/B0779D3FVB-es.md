@@ -26,8 +26,8 @@ En este momento está [adidas Entrada 22 Camiseta de Fútbol para Hombre de Cuel
 🔎:
 
 - El ajuste apretado garantiza un ajuste óptimo y un alto confort de uso
+- Sutiles rayas diagonales en la parte delantera
 - Tres rayas en contraste en el hombro
 - Con cuello en V acanalado
-- Sutiles rayas diagonales en la parte delantera
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0779D3FVB/?tag=tolees-21)

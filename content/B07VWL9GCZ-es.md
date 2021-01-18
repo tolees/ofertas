@@ -25,7 +25,7 @@ Tienes [Tommy Hilfiger TJM Classics Tipped Stretch Polo  Blanco  White   X-Small
 
 🔎:
 
-- Tommy Jeans Hombre S/S Polos
 - Puedes encontrar más información sobre Tommy Hilfiger / Tommy Jeans en la descripción del producto.
+- Tommy Jeans Hombre S/S Polos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VWL9GCZ/?tag=tolees-21)

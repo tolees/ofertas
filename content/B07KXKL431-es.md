@@ -25,12 +25,12 @@ Está [Olay Regenerist Whip Light As Air Hidratante con SPF30  Crema facial con 
 
 ℹ️:
 
-- Apta para piel normal, seca y grasa
 - Protección ligera SPF30 con un acabado mate no pegajoso
-- El resultado es una piel lisa y jugosa, protegida y sin brillos
-- Fórmula enriquecida con péptidos y vitamina B3
+- Apta para piel normal, seca y grasa
 - Los productos Olay se crean en colaboración con más de 8000 mujeres al año
 - Hidrata y redensifica la piel para darle un aspecto más firme y luminoso
+- El resultado es una piel lisa y jugosa, protegida y sin brillos
+- Fórmula enriquecida con péptidos y vitamina B3
 - Prueba Olay a diario durante 28 días; experimenta una transformación real de la piel
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07KXKL431/?tag=tolees-21)

@@ -25,9 +25,9 @@ Está [adidas CORE18 PES JKT Sport jacket  Hombre  Power Red/ White  M](https://
 
 ℹ️:
 
-- Chaqueta con bolsillos con cremallera
-- Cuello altamente cerrable
-- Puños con puños elásticos
 - Material 100% poliéster
+- Cuello altamente cerrable
+- Chaqueta con bolsillos con cremallera
+- Puños con puños elásticos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076HQSWJ1/?tag=tolees-21)

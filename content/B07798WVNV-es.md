@@ -25,10 +25,10 @@ En este momento está [adidas Entrada 18 JSY T-Shirt  Hombre  Maroon/White  S](h
 
 🔎:
 
-- Esta hecha de 100% poliéster
-- Con el cuello redondeado
 - Camiseta de futbol para hombres
+- Con el cuello redondeado
 - Tiene un pequeño logotipo de Adidas impreso en el pecho
+- Esta hecha de 100% poliéster
 - Cuenta con mangas cortas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07798WVNV/?tag=tolees-21)

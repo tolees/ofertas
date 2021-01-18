@@ -26,9 +26,9 @@ Tienes [Remo Rhythm Club - Panderetas RH-2106-00](https://www.amazon.es/dp/B0002
 🔎:
 
 - Tamaño 6,5" x 1,75", sonido profesional, tamaño ideal para manos pequeñas
-- Preafinado, para niños de 3 años
-- Parche Renaissance
-- 4 pares de pinzas
 - Casco Acousticon
+- Parche Renaissance
+- Preafinado, para niños de 3 años
+- 4 pares de pinzas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0002NP4OW/?tag=tolees-21)

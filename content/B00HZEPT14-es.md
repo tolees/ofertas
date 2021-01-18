@@ -25,10 +25,10 @@ Tienes [Chicco- Baby Senses Line Big & Small Sonajero Llaves Fáciles de Agarrar
 
 🔎:
 
+- Estimula la coordinación manual
+- Diferentes texturas
 - Números para aprender a contar
 - 3 llaves colgantes
-- Diferentes texturas
-- Estimula la coordinación manual
 - Libre de tinta
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00HZEPT14/?tag=tolees-21)
