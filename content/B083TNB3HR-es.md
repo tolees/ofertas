@@ -26,9 +26,9 @@ En este momento está [Oihxse Case Transparente Suave TPU Compatible con Huawei 
 🔎:
 
 - 🎃 Serie de alta transparencia silicona Huawei honor 8S/Y5 2019 carcasa diseñado específicamente. No aplicable a otros modelos.
-- 🎃 Diseño de patrón único. Hace el dispositivo más atractivo y la fantasía, no decolora o desenfoque con arañazos. Ultra delgado, peso ligero, larga vida de servicio.
-- 🎃 El material de TPU suave de primera calidad proporciona una mejor sensación de sujeción y es fácil de poner y quitar sin preocuparse por rayar su Huawei honor 8S/Y5 2019.
-- 🎃 De diseño super elegante que hará de tu nuevo Huawei honor 8S/Y5 2019 un compañero inseparable y ademas le dará un toque de glamour.
 - 🎃 El acceso a todos los controles y características. recortes perfectos para los altavoces, cámara y Huawei honor 8S/Y5 2019 otros puertos.
+- 🎃 Diseño de patrón único. Hace el dispositivo más atractivo y la fantasía, no decolora o desenfoque con arañazos. Ultra delgado, peso ligero, larga vida de servicio.
+- 🎃 De diseño super elegante que hará de tu nuevo Huawei honor 8S/Y5 2019 un compañero inseparable y ademas le dará un toque de glamour.
+- 🎃 El material de TPU suave de primera calidad proporciona una mejor sensación de sujeción y es fácil de poner y quitar sin preocuparse por rayar su Huawei honor 8S/Y5 2019.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B083TNB3HR/?tag=tolees-21)

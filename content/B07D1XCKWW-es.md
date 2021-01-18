@@ -26,10 +26,10 @@ Está [Corsair Vengeance RGB PRO 16 GB  2 x 8 GB  DDR4 3200 MHz C16 XMP 2.0 RGB 
 ℹ️:
 
 - Ancho de banda máximo y tiempo de respuesta ajustado: optimizado para proporcionar el rendimiento más exigente de las placas base Intel y AMD DDR4 más recientes
-- Compatibilidad: Intel 100 Series, Intel 200 Series, Intel 300 Series, Intel X299, AMD 300 Series, AMD 400 Series, AMD X570
 - Iluminación RGB dinámica multizona: 10 LED RGB ultra brillantes programables individualmente en cada módulo
 - Placa impresa personalizada para el máximo rendimiento: proporciona la mejor calidad de señal para conseguir el máximo nivel de rendimiento y estabilidad
-- Tome el control del software Corsair iCUE y sincronice la iluminación con otros productos Corsair RGB, como sistemas de refrigeración de CPU, teclados y ventiladores; Vengeance RGB PRO es compatible con Gigabyte RGB Fusion y MSI Mystic Light
 - RAM rigurosamente seleccionada: circuitos impresos cuidadosamente seleccionados para un mayor potencial de overclocking
+- Compatibilidad: Intel 100 Series, Intel 200 Series, Intel 300 Series, Intel X299, AMD 300 Series, AMD 400 Series, AMD X570
+- Tome el control del software Corsair iCUE y sincronice la iluminación con otros productos Corsair RGB, como sistemas de refrigeración de CPU, teclados y ventiladores; Vengeance RGB PRO es compatible con Gigabyte RGB Fusion y MSI Mystic Light
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07D1XCKWW/?tag=tolees-21)

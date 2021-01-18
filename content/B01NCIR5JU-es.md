@@ -25,9 +25,9 @@ Tienes [Lip Smacker Caja de metal de Coca Cola con 6 bálsamos labiales de aroma
 
 ℹ️:
 
-- Fragancias: Coca-Cola Classic, vainilla, limón, cereza, limón verde
-- Incluye seis pintalabios con fragancias
 - Se suministra en caja de metal en forma de lata Coca-Cola
+- Incluye seis pintalabios con fragancias
 - Una lata reutilizable para coleccionar y ordenar sus pintalabios labios y otros accesorios
+- Fragancias: Coca-Cola Classic, vainilla, limón, cereza, limón verde
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01NCIR5JU/?tag=tolees-21)
