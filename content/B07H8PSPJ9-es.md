@@ -25,7 +25,7 @@ Tienes [Xiaomi Mi Air - Filtro purificador Antibacteriano  Color Morado](https:/
 
 🔎:
 
-- Versión antibacteriana
 - Filtro purifier de alta eficiencia de 3 capas
+- Versión antibacteriana
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07H8PSPJ9/?tag=tolees-21)

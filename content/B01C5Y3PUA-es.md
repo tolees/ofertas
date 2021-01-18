@@ -25,10 +25,10 @@ En este momento está [Speedlink - Scelus Gaming Mouse SL680004BKRD  PC ](https:
 
 🔎:
 
-- Sensor óptico de alta precisión (3200dpi) y memoria interna para perfiles y macros
-- Incluye App para mejorar la fiabilidad. Cable USB flexible de 1.8 m
-- Iluminación atmosférica (64 colores ajustables para scroll), selector de perfil y configurable
-- Botones de respuesta inmediata: sin interferencias
 - Ratón gaming profesional ergonómico con 2 ruedas scroll de libre asignación y 8 botones programables
+- Botones de respuesta inmediata: sin interferencias
+- Sensor óptico de alta precisión (3200dpi) y memoria interna para perfiles y macros
+- Iluminación atmosférica (64 colores ajustables para scroll), selector de perfil y configurable
+- Incluye App para mejorar la fiabilidad. Cable USB flexible de 1.8 m
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01C5Y3PUA/?tag=tolees-21)
