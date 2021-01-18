@@ -25,8 +25,8 @@ Está [DryNites - Calzoncillos absorbentes para niño - 3 - 5 años  16-23 kg   
 
 ℹ️:
 
-- Divertidos diseños Disney
 - Discretos, son como ropa interior
+- Divertidos diseños Disney
 - Contiene 4 packs de 16 unidades cada uno
 - Específicos para niño y para niña
 
