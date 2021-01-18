@@ -26,11 +26,11 @@ Tienes [Smartwares Extintor de Polvo Seco  2 KG  Resistencia al Fuego ABC](https
 🔎:
 
 - Certificado BSI
-- Adecuado para usarlo tanto en casa como fuera
+- Extintor en idiomas Italiano, Portugués y Español
+- Incluye soporte para pared
+- El extintor tiene una capacidad de 2 kg con resistencia al fuego 13A, 70B, C; Resistencia al fuego ABC
 - El extintor de polvo seco tiene una fuerte capacidad de extinción e incluye materiales de montaje
 - Uso apto en oficinas, hogar, barcos, caravanas o coches
-- Extintor en idiomas Italiano, Portugués y Español
-- El extintor tiene una capacidad de 2 kg con resistencia al fuego 13A, 70B, C; Resistencia al fuego ABC
-- Incluye soporte para pared
+- Adecuado para usarlo tanto en casa como fuera
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07BBZTH9F/?tag=tolees-21)

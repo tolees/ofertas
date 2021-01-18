@@ -25,12 +25,12 @@ Tienes [GEOX D FELICITY G BROWN Women s Boots Chelsea size 36 EU ](https://www.a
 
 ℹ️:
 
-- Material exterior: Cuero
-- Cierre: Cremallera
-- Revestimiento: Lona
-- Material de la suela: Sintético
-- Altura del tacón: 3.5 centímetros
 - Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
+- Cierre: Cremallera
 - Tipo de tacón: Tacón ancho
+- Material de la suela: Sintético
+- Revestimiento: Lona
+- Material exterior: Cuero
+- Altura del tacón: 3.5 centímetros
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0825RPJVC/?tag=tolees-21)

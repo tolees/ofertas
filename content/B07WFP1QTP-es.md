@@ -25,8 +25,8 @@ Está [Reloj Seiko para Hombre  Negro  Specialist  5K2](https://www.amazon.es/dp
 
 ℹ️:
 
+- 44.5 mm
 - Seiko srpd55k2
 - Cuarzo hebilla día
-- 44.5 mm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07WFP1QTP/?tag=tolees-21)

@@ -25,9 +25,9 @@ Tienes [Cuncial TZ-S-4 - Tendedero de ropa automático  4 hilos](https://www.ama
 
 ℹ️:
 
+- Dimensiones del producto de 42 x 11 x 6.2 cm
 - Tendedero de ropa automático de 4 cuerdas independientes con blocaje individual para cada cuerda
 - Utilizable a cualquier distancia hasta 5 metros por cuerda
-- Dimensiones del producto de 42 x 11 x 6.2 cm
 - De fácil instalación, una solución sencilla para el tendido de su ropa
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00CIZXAJS/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Polti Forzaspira Lecologico Aqua Allergy al 49.80 % de rebaja'
-date: 2021-01-14 07:27:24
+date: 2021-01-18 16:43:22
 image: 'https://m.media-amazon.com/images/I/41Mb0CaD6aL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B079NSGYFM/?tag=tolees-21'
 descuento: '49.80'
-average: '106.4242857142857'
+average: '104.97444444444443'
 ---
 
 Tienes [Polti Forzaspira Lecologico Aqua Allergy Natural Care Aspirador sin Bolsa con Filtro de Agua  6 accesorios  1 L  Azul](https://www.amazon.es/dp/B079NSGYFM/?tag=tolees-21) con precio final de  99.9 EUR (original: 199.0 EUR) (49.80 %  de rebaja) aqui!

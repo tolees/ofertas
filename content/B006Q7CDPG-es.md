@@ -25,9 +25,9 @@ Ahora mismo tienes [Speedo Solid Leisure - Bañador de natación para hombre  co
 
 🔎:
 
-- Tejido suave y ligero para un ajuste cómodo
-- Acabado hidrófugo para reducir al mínimo la absorción de agua
 - Cintura con cordón para un ajuste seguro y regulable
+- Tejido suave y ligero para un ajuste cómodo
 - Traje de baño con malla interior
+- Acabado hidrófugo para reducir al mínimo la absorción de agua
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B006Q7CDPG/?tag=tolees-21)

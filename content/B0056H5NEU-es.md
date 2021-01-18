@@ -26,9 +26,9 @@ Tienes [Medisana MTS Tensiómetro para el brazo  pantalla de arritmia  escala de
 ℹ️:
 
 - Para el brazo: El manguito se ajusta a circunferencias de brazo de 22 a 30 cm. Una gran pantalla presenta los valores de sístole, diástole y pulso, así como la fecha y la hora
-- Función de memoria: El tensiómetro para el brazo cuenta con una memoria interna que permite almacenar 60 resultados de mediciones para 2 usuarios.
+- Producto médico: Control de la presión arterial con escala de colores tipo semáforo de la OMS para clasificar los resultados de la medición. También mide el pulso
 - En casa o de viaje: El tensiómetro se suministra con una práctica bolsa de almacenamiento para su transporte fácil y seguro.
 - Indicador de arritmia: El MTS puede indicar posibles arritmias cardíacas. Solo su médico puede evaluar el tipo y la gravedad de una arritmia
-- Producto médico: Control de la presión arterial con escala de colores tipo semáforo de la OMS para clasificar los resultados de la medición. También mide el pulso
+- Función de memoria: El tensiómetro para el brazo cuenta con una memoria interna que permite almacenar 60 resultados de mediciones para 2 usuarios.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0056H5NEU/?tag=tolees-21)
