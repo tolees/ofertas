@@ -25,10 +25,10 @@ Está [Rimmel London Wonderfull Argan Oil Máscara de Pestañas Tono Waterproof 
 
 ℹ️:
 
-- Fórmula con aceite de argán que fortalece y nutre las pestañas una a una
-- Cepillo flexible de silicona que abraza las pestañas definiendolas desde la raíz a las puntas
-- Captura y envuelve cada pestaña para hacerlas más gruesas sin dejar grumos
 - Mirada natural y ligera
+- Captura y envuelve cada pestaña para hacerlas más gruesas sin dejar grumos
+- Cepillo flexible de silicona que abraza las pestañas definiendolas desde la raíz a las puntas
+- Fórmula con aceite de argán que fortalece y nutre las pestañas una a una
 - Definidas y acondicionadas.Waterpoof
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00UYJDAN6/?tag=tolees-21)

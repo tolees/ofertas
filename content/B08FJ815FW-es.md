@@ -25,10 +25,10 @@ Tienes [BedStory - Protector de colchón antiácaros  180 x 200 x 5 cm  3D  micr
 
 ℹ️:
 
-- 【Antideslizante y lavable a máquina】Protector de colchón con elástico en las 4 esquinas, lavable a máquina, realmente práctico.
 - Relleno con microfibra de alta densidad: el cubrecolchón BedStory está hecho de microfibra 3D de alta densidad de 1000 g/m², lo suficientemente inflable y cómodo.
-- 【Mejora la comodidad de los colchones】Da un acabado suave a los colchones demasiado duros, te ayuda a recuperar el sueño de calidad sin cambiar el colchón.
-- 【Diseño de malla transpirable】2020 versión de bedstory cubrecolchón con diseño de malla en los lados y el reverso, garantiza una buena ventilación.
 - 【Sobrecolchón plegable】 Fácil de almacenar, puede enrollarlo cuando sea necesario, demasiado práctico.
+- 【Antideslizante y lavable a máquina】Protector de colchón con elástico en las 4 esquinas, lavable a máquina, realmente práctico.
+- 【Diseño de malla transpirable】2020 versión de bedstory cubrecolchón con diseño de malla en los lados y el reverso, garantiza una buena ventilación.
+- 【Mejora la comodidad de los colchones】Da un acabado suave a los colchones demasiado duros, te ayuda a recuperar el sueño de calidad sin cambiar el colchón.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08FJ815FW/?tag=tolees-21)

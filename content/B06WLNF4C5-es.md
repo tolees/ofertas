@@ -26,7 +26,7 @@ Tienes [Texturas Basics - Colcha Multiusos Lisa Cama Y SOFÁ Económica  125 x 1
 ℹ️:
 
 - Colcha MULTIUSOS para Sofá o Cama color AZULINA ( AZUL ELÉCTRICO ) LISO
-- 3 Tamaños disponibles: 1 Plaza ( 125x180cm ) 2 Plazas ( 180x260cm ) 3 Plazas ( 230x260cm )
 - Fabricado en España para TEXTURAS HOME
+- 3 Tamaños disponibles: 1 Plaza ( 125x180cm ) 2 Plazas ( 180x260cm ) 3 Plazas ( 230x260cm )
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B06WLNF4C5/?tag=tolees-21)

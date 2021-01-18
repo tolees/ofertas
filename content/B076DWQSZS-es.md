@@ -26,9 +26,9 @@ Está [Safety 1st 3202001100 - Vigilabebés](https://www.amazon.es/dp/B076DWQSZS
 ℹ️:
 
 - Fácil uso gracias a su función automática: cuando está conectada, se enciende al hacerse oscuro y se apaga cuando vuelve la luz
-- Diseño moderno: para adaptarse a interiores contemporáneos
-- Dura hasta 50.000 horas
 - Consumo energético muy bajo: 0,4 W; sin bombilla, ya que tiene un diodo de larga duración
+- Dura hasta 50.000 horas
+- Diseño moderno: para adaptarse a interiores contemporáneos
 - Potencia eléctrica: 220-240 V, 50 Hz
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B076DWQSZS/?tag=tolees-21)

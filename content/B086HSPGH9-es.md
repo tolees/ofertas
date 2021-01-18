@@ -25,11 +25,11 @@ Tienes [Champú Herbal Essences Bio: Renew sin Sulfatos con Aloe Intenso Y Bamb�
 
 🔎:
 
-- Champú sin sulfatos
-- 93 % De Origen Natural (Agua Purificada E Ingredientes De Origen Natural Poco Procesados)
-- En asociación con el Royal Botanic Gardens de KEW, autoridad mundial líder en botánica
-- Con pH equilibrado y seguro para pelo teñido
-- Para el cabello: Tratado de color
 - Champú con aloe intenso y mango que ayuda a hidratar el cabello
+- Champú sin sulfatos
+- En asociación con el Royal Botanic Gardens de KEW, autoridad mundial líder en botánica
+- 93 % De Origen Natural (Agua Purificada E Ingredientes De Origen Natural Poco Procesados)
+- Para el cabello: Tratado de color
+- Con pH equilibrado y seguro para pelo teñido
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B086HSPGH9/?tag=tolees-21)
