@@ -26,9 +26,9 @@ Ahora mismo tienes [Seiko Reloj Cronógrafo para Unisex Adultos de Cuarzo con Co
 🔎:
 
 - El reloj viene en una caja de regalo con una garantía de 2 años
+- Resistente al agua: 10 bar-Peso:75 g
 - Diámetro de la caja: 43 mm, Grueso: 12 mm,Color de la caja: Plata y Color del Dial : Plata
 - Correa de alta calidad de Acero inoxidable Multicolor 21 cm de longitud y 18 mm de ancho con un Dobla con pulsador hebilla
-- Resistente al agua: 10 bar-Peso:75 g
 - Reloj SEIKO para los Hombres con un movimiento del Quartz -El reloj tiene una función del calendario: Fecha, Cronómetro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01LZDV7SQ/?tag=tolees-21)

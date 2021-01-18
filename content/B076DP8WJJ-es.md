@@ -26,8 +26,8 @@ En este momento está [Safety 1st Manga Safe Elevador  Silla de coche grupo 3  A
 🔎:
 
 - Fácil de limpiar con funda extraíble lavable a 30º
-- Se puede almacenar en el maletero del vehículo
 - Fácil de instalar con el arnés de 3 puntos del vehículo, adecuado para viajes
 - Cómodo con asiento acolchado
+- Se puede almacenar en el maletero del vehículo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B076DP8WJJ/?tag=tolees-21)

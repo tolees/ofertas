@@ -25,9 +25,9 @@ Está [Funko- Rick & Morty 22958 Portal Gun Figura Coleccionable  Multicolor](ht
 
 ℹ️:
 
-- La pistola tiene una cámara iluminada y efectos de sonido
-- Juguete de colección de la marca Funko
 - El artículo es adecuado para todos los fanáticos de Rick & Morty
+- Juguete de colección de la marca Funko
 - Recomendado para niños a partir de 3 años
+- La pistola tiene una cámara iluminada y efectos de sonido
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071GVGFQF/?tag=tolees-21)

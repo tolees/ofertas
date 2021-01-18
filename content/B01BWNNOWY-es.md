@@ -25,8 +25,8 @@ Está [Dominó Express- Amazing Looping  Multicolor  Goliath 81007    color/mode
 
 ℹ️:
 
-- Con muchos accesorios
 - Contenido: 1 looping, 1 doble puente, 1 hoja de adhesivos, 3 rieles express y 88 fichas de dominó
+- Con muchos accesorios
 - Con la calidad de dominó; un montaje espectacular para garantizar diversión una y otra vez
 - Gracias al súper looping, un dominó se impulsa por el aire para llegar a la siguiente fila de dominó y crear un circuito a alta velocidad
 - Un juego clásico y conocido por todos

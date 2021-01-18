@@ -1,29 +1,33 @@
 ---
 layout: post
-title: 'Vans Atwood  Zapatillas Unisex Niños  Ne con un 27.38 % de descuento'
-date: 2020-08-23 14:35:05
+title: 'Vans Atwood  Sneaker Unisex Adulto  Negr con un 42.23 % de descuento'
+date: 2021-01-18 19:22:19
 image: 'https://m.media-amazon.com/images/I/41WSGVBeq1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B00BIJ0O8A-es'
-actualPrice: 32.67 EUR
+actualPrice: 25.99 EUR
 currency: EUR
-price: 32.67
+price: 25.99
 comparePrice: 44.99 EUR
-prodname: 'Vans Atwood  Zapatillas Unisex Niños  Negro  Canvas Black/White 187   37 EU'
+prodname: 'Vans Atwood  Sneaker Unisex Adulto  Negro  Canvas Black/White 187   37 EU'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00BIJ0O8A/?tag=tolees-21'
-descuento: '27.38'
-average: '26.85153846153846'
+descuento: '42.23'
+average: '26.736666666666665'
 ---
 
-En este momento está [Vans Atwood  Zapatillas Unisex Niños  Negro  Canvas Black/White 187   37 EU](https://www.amazon.es/dp/B00BIJ0O8A/?tag=tolees-21) a 32.67 EUR (original: 44.99 EUR) (27.38 %  de descuento) en el siguiente enlace!
+En este momento está [Vans Atwood  Sneaker Unisex Adulto  Negro  Canvas Black/White 187   37 EU](https://www.amazon.es/dp/B00BIJ0O8A/?tag=tolees-21) a 25.99 EUR (original: 44.99 EUR) (42.23 %  de descuento) en el siguiente enlace!
 
-[![Vans Atwood  Zapatillas Unisex Niños  Ne](https://m.media-amazon.com/images/I/41WSGVBeq1L._SL200_.jpg)](https://www.amazon.es/dp/B00BIJ0O8A/?tag=tolees-21)
+[![Vans Atwood  Sneaker Unisex Adulto  Negr](https://m.media-amazon.com/images/I/41WSGVBeq1L._SL200_.jpg)](https://www.amazon.es/dp/B00BIJ0O8A/?tag=tolees-21)
 
 🔎:
 
+- Composición: Canvas
+- Cierre: Cordones
+- Tipo de tacón: Plano
+- Anchura del zapato: Normal
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00BIJ0O8A/?tag=tolees-21)

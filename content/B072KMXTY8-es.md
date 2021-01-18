@@ -26,8 +26,8 @@ En este momento está [adidas Parma 16 SHO W Pantalones Cortos de Deporte  Mujer
 🔎:
 
 - Cómodo forro textil.
-- Con cordones.
 - Suela de goma vulcanizada.
+- Con cordones.
 - Pantalón corto Fútbol Mujer
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B072KMXTY8/?tag=tolees-21)
