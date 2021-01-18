@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vans Ward Canvas  Zapatillas Hombre  Neg al 29.10 % de descuento'
-date: 2021-01-17 08:13:04
+date: 2021-01-18 08:32:28
 image: 'https://m.media-amazon.com/images/I/41kSsy3uzUL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B06XHNV236/?tag=tolees-21'
 descuento: '29.10'
-average: '51.53173913043479'
+average: '51.3796'
 ---
 
 Está [Vans Ward Canvas  Zapatillas Hombre  Negro   Suede/Canvas  Black/White C4R   42 EU](https://www.amazon.es/dp/B06XHNV236/?tag=tolees-21) con 29.10 de descuento por 49.63 EUR (original: 70.0 EUR) en el siguiente enlace!

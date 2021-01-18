@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.58 % en Timberland Chocorua Trail Mid Gore-Tex  '
-date: 2021-01-16 08:08:38
+date: 2021-01-18 08:15:39
 image: 'https://m.media-amazon.com/images/I/516SzffHtfL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,11 +25,11 @@ Tienes [Timberland Chocorua Trail Mid Gore-Tex  Botas Mujer  Marrón Dark Brown 
 
 ℹ️:
 
+- Material exterior: Cuero, Nobuck
+- Material de la suela: Goma
 - Revestimiento: A rete
 - Composición: Cuero
 - Altura del tacón: 1 centímetros
 - Cierre: Cordones
-- Material exterior: Cuero, Nobuck
-- Material de la suela: Goma
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B000VQHFLK/?tag=tolees-21)

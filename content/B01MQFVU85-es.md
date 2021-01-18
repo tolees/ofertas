@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Descuento del 35.19 % en Huerto Urbano - Huerto vintage - Batlle'
-date: 2021-01-14 05:19:29
+title: 'Descuento del 35.16 % en Huerto Urbano - Huerto vintage - Batlle'
+date: 2021-01-18 08:06:35
 image: 'https://m.media-amazon.com/images/I/41d92vZKAdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B01MQFVU85-es'
-actualPrice: 19.41 EUR
+actualPrice: 19.42 EUR
 currency: EUR
-price: 19.41
+price: 19.42
 comparePrice: 29.95 EUR
 prodname: 'Huerto Urbano - Huerto vintage - Batlle'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01MQFVU85/?tag=tolees-21'
-descuento: '35.19'
-average: '22.863018867924527'
+descuento: '35.16'
+average: '22.73781818181818'
 ---
 
-Tienes [Huerto Urbano - Huerto vintage - Batlle](https://www.amazon.es/dp/B01MQFVU85/?tag=tolees-21) con un 35.19 % de descuento con precio de oferta de 19.41 EUR (original: 29.95 EUR) en el siguiente enlace!
+Tienes [Huerto Urbano - Huerto vintage - Batlle](https://www.amazon.es/dp/B01MQFVU85/?tag=tolees-21) con un 35.16 % de descuento con precio de oferta de 19.42 EUR (original: 29.95 EUR) en el siguiente enlace!
 
 [![Huerto Urbano - Huerto vintage - Batlle](https://m.media-amazon.com/images/I/41d92vZKAdL._SL200_.jpg)](https://www.amazon.es/dp/B01MQFVU85/?tag=tolees-21)
 

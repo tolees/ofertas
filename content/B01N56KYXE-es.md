@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WD-40 Specialist - Lubricante seco con P al 29.75 % de descuento'
-date: 2021-01-14 21:08:55
+date: 2021-01-18 08:45:53
 image: 'https://m.media-amazon.com/images/I/41-b7LsNqxL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N56KYXE/?tag=tolees-21'
 descuento: '29.75'
-average: '7.17'
+average: '7.118571428571428'
 ---
 
 Está [WD-40 Specialist - Lubricante seco con PTFE-Spray 400ml](https://www.amazon.es/dp/B01N56KYXE/?tag=tolees-21) con 29.75 de descuento por 6.99 EUR (original: 9.95 EUR) en el siguiente enlace!
@@ -27,8 +27,8 @@ Está [WD-40 Specialist - Lubricante seco con PTFE-Spray 400ml](https://www.amaz
 
 - Lubrica y protege dejando una película resistente a la suciedad
 - Ideal para engranajes, cadenas, carriles de puertas y ventanas.
-- Gracias a su avanzada formulación funciona como desmoldeante
-- Puede ser utilizado en un amplio rango de temperaturas (-20ºC a +250ºC)
 - No atrae suciedad, polvo ni aceite
+- Puede ser utilizado en un amplio rango de temperaturas (-20ºC a +250ºC)
+- Gracias a su avanzada formulación funciona como desmoldeante
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01N56KYXE/?tag=tolees-21)

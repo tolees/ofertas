@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Makita KP0800 240V 82mm Cepilladora al 31.22 % de rebaja'
-date: 2021-01-17 08:13:13
+date: 2021-01-18 08:31:14
 image: 'https://m.media-amazon.com/images/I/419+U++N3cL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,11 +25,11 @@ Tienes [Makita KP0800 240V 82mm Cepilladora](https://www.amazon.es/dp/B005KH4VXK
 
 🔎:
 
-- Aislamiento doble
-- Profundidad de planificación de 2,0 mm.
-- Aplicación: Aspiradora, extracción de polvo.
-- Fácil ajuste para un acabado preciso y uniforme.
-- Ajuste fino de profundidad
-- 34000 cortes por minuto
+- Double insulation
+- Fine depth adjustment
+- 34000 cuts per minute
+- Easy adjustment for an accurate and even finish
+- Application: Vacuum cleaner, dust extraction
+- 2.0 mm planning depth
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B005KH4VXK/?tag=tolees-21)

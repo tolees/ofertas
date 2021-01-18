@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fallen al 59.55 % de descuento'
-date: 2021-01-16 15:49:08
+date: 2021-01-18 08:31:24
 image: 'https://m.media-amazon.com/images/I/41GYb-90WeL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ Ahora mismo tienes [Fallen](https://www.amazon.es/dp/B002LFIZEU/?tag=tolees-21) 
 
 🔎:
 
-- Record Label: windup
-- Catalog #: 6870432
-- Country of Release: NLD
-- Year of Release: 2009
+- INTERNATIONAL
+- MUSIC
+- R&P INTERNATIONAL
+- EVANESCENSE
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002LFIZEU/?tag=tolees-21)

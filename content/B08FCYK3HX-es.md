@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asterix & Obelix Xxl - Romastered con un 44.09 % de descuento'
-date: 2021-01-16 20:12:01
+date: 2021-01-18 08:31:08
 image: 'https://m.media-amazon.com/images/I/51BH2rHljpL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08FCYK3HX/?tag=tolees-21'
 descuento: '44.09'
-average: '33.347272727272724'
+average: '32.897499999999994'
 ---
 
 En este momento está [Asterix & Obelix Xxl - Romastered](https://www.amazon.es/dp/B08FCYK3HX/?tag=tolees-21) a 27.95 EUR (original: 49.99 EUR) (44.09 %  de descuento) en el siguiente enlace!
