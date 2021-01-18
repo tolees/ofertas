@@ -25,7 +25,7 @@ En este momento está [Diesel BMBX-Sandy Bañador  Azul  Dresden Blue 8he/0taxq 
 
 🔎:
 
-- Cordón elástico en la cintura.
 - Logotipo de Diesel Denim Division.
+- Cordón elástico en la cintura.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07S3XFQBD/?tag=tolees-21)
