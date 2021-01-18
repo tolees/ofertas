@@ -26,9 +26,9 @@ Ahora mismo tienes [XILOSIN 1PCS Burbuja Corindón escofina punción Buffer Bola
 🔎:
 
 - Moler Diámetro de la cabeza: aprox. 40mm
-- Alcance: neumáticos, madera, goma y superficie suave.
-- Longitud: aprox. 80mm
-- Diámetro de vástago: aprox. 6mm
 - Con una cabeza de bola de la burbuja mango, fácil de usar, con buena resistencia al desgaste, la fuerza de molienda.
+- Diámetro de vástago: aprox. 6mm
+- Longitud: aprox. 80mm
+- Alcance: neumáticos, madera, goma y superficie suave.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08BL64Z7F/?tag=tolees-21)

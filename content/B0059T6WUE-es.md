@@ -25,10 +25,10 @@ Está [Fred Perry M3600  Polo Para Hombre  Negro  Black/White   Small](https://w
 
 ℹ️:
 
-- Twin tipped collar
-- Fred Perry polo shirt
-- Pique
 - White embroidered branding
+- Fred Perry polo shirt
+- Twin tipped collar
 - Short sleeves
+- Pique
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0059T6WUE/?tag=tolees-21)

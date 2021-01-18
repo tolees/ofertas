@@ -25,10 +25,10 @@ Tienes [Vans Atwood  Sneaker Hombre  Negro  Black/White Canvas 187   44 EU](http
 
 ℹ️:
 
+- Tipo de tacón: Plano
+- Cierre: Cordones
 - Composición: Textil
 - Anchura del zapato: Normal
-- Cierre: Cordones
-- Tipo de tacón: Plano
 - Tipo de talla: Talla estándar
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00AVZMYFS/?tag=tolees-21)

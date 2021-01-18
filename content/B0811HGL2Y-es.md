@@ -25,10 +25,10 @@ Ahora mismo tienes [Bestgle 8 Unids Cruzada Destornillador Bits Set 75mm Acero d
 
 🔎:
 
-- Cada borde puede ser tornillos bloqueados con precisión, sin dañar el tornillo y la cabeza del destornillador.
-- 1.Hecho de acero duradero S2,muy resistente al desgaste,perfecto para montaje de muebles y proyectos de mejoras para el hogar.
 - Cabeza de broca magnética, las brocas tienen un fuerte magnetismo que puede atraer y sujetar tornillos firmemente.
-- Especificaciones del producto:S1/4*75*2.5*PH0,S1/4*75*2.5*PH1,S1/4*75*4*PH2,S1/4*75*4*PH1,S1/4*75*4.5*PH1,S1/4*75*4.5*PH2,S1/4*75*5*PH2,S1/4*75*6*PH2.
 - Con eje hexagonal de 1/4 de pulgada, apto para destornilladores eléctricos, destornilladores manuales, taladros eléctricos, taladros neumáticos, etc. Perfecto para electricistas, trabajos de reparación mecánica e instalación.
+- 1.Hecho de acero duradero S2,muy resistente al desgaste,perfecto para montaje de muebles y proyectos de mejoras para el hogar.
+- Especificaciones del producto:S1/4*75*2.5*PH0,S1/4*75*2.5*PH1,S1/4*75*4*PH2,S1/4*75*4*PH1,S1/4*75*4.5*PH1,S1/4*75*4.5*PH2,S1/4*75*5*PH2,S1/4*75*6*PH2.
+- Cada borde puede ser tornillos bloqueados con precisión, sin dañar el tornillo y la cabeza del destornillador.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0811HGL2Y/?tag=tolees-21)
