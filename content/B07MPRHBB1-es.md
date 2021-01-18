@@ -25,9 +25,9 @@ Está [Funko POP Vinilo Games Figura de Fortnite  P.A.N.D.A Team Leader  Multico
 
 ℹ️:
 
-- El producto se envía en una caja ilustrada con ventana
+- Figura de colección de la marca Funko
 - Recomendado para niños a partir de 3 años
 - El artículo es adecuado para todos los fanáticos de Fortnite
-- Figura de colección de la marca Funko
+- El producto se envía en una caja ilustrada con ventana
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07MPRHBB1/?tag=tolees-21)

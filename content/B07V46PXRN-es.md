@@ -25,10 +25,10 @@ Está [Monix Solid + Batería 3 Piezas de Aluminio Fundido con Antiadherente  Ap
 
 ℹ️:
 
-- Composición: cacerola 20 cm con tapa -3 litros (diámetro base 16.1 cm)/ cacerola baja 28 cm con tapa -3.1 litros (diámetro base 21 cm)/ cazo 16 cm (diámetro base 11.8 cm)
-- Fabricada en aluminio fundido de máxima calidad que asegura un reparto del calor excelente, así como una resistencia a la deformación altísisma
-- Su antiadherente sin pfoa de alta calidad hace que la cocción sea extremadamente fácil y que no se peguen los alimentos, haciendo incluso de su limpieza a mano un proceso casi sin esfuerzo
-- El fondo de las piezas posee un grosor de 5.5 mm; incluye un disco ferrítico de acero inoxidable (aisi 430) en el fondo exterior de la pieza que la hace totalmente compatible con inducción
 - Apta para todo tipo de cocinas incluida inducción
+- Fabricada en aluminio fundido de máxima calidad que asegura un reparto del calor excelente, así como una resistencia a la deformación altísisma
+- Composición: cacerola 20 cm con tapa -3 litros (diámetro base 16.1 cm)/ cacerola baja 28 cm con tapa -3.1 litros (diámetro base 21 cm)/ cazo 16 cm (diámetro base 11.8 cm)
+- El fondo de las piezas posee un grosor de 5.5 mm; incluye un disco ferrítico de acero inoxidable (aisi 430) en el fondo exterior de la pieza que la hace totalmente compatible con inducción
+- Su antiadherente sin pfoa de alta calidad hace que la cocción sea extremadamente fácil y que no se peguen los alimentos, haciendo incluso de su limpieza a mano un proceso casi sin esfuerzo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07V46PXRN/?tag=tolees-21)

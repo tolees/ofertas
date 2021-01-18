@@ -25,13 +25,13 @@ Tienes [Vans Era  Zapatillas de Skateboarding Unisex  Negro Black Black  36 EU](
 
 ℹ️:
 
-- Talla: 36
-- Adecuado para: unisex (adultos)
-- Cierre: cordones
-- La estación ideal: para todas las estaciones
-- Material exterior: lona
 - Tacón 1 centímetro
+- Adecuado para: unisex (adultos)
 - Precio mínimo en los 30 días previos a la oferta: 42€
+- Cierre: cordones
+- Talla: 36
 - Material de la suela: goma
+- Material exterior: lona
+- La estación ideal: para todas las estaciones
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00AZQGDOG/?tag=tolees-21)

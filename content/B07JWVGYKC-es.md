@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Redmond V2  Zapatillas de Sende al 34.45 % de descuento'
-date: 2021-01-14 21:00:45
+date: 2021-01-18 11:09:06
 image: 'https://m.media-amazon.com/images/I/419S0sdYWAL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,7 +25,7 @@ Ahora mismo tienes [Columbia Redmond V2  Zapatillas de Senderismo Impermeables M
 
 🔎:
 
-- Goma de tracción que no marca Omni-grip
 - Tipo de tela: 80% poliéster, 20% nailon.
+- Goma de tracción que no marca Omni-grip
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JWVGYKC/?tag=tolees-21)

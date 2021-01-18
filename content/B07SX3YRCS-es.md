@@ -25,12 +25,12 @@ En este momento está [Cyberpunk 2077 - Edición Coleccionista](https://www.amaz
 
 🔎:
 
-- Caja de Edición de Coleccionista, estuche con discos de juego y portada reversible.
-- Estatua de 25 cm de V, protagonista del juego, en acción.
-- Una copia comentada de la Guía de visita a Night City sellada en una bolsa de pruebas de la Policía de Night City.
 - Artículos digitales incluyen: música original, folleto de arte que incluye una selección de diseños del juego, cómic digital "Cyberpunk 2077: Tu voz", manual de Cyberpunk 2020 y fondos de pantalla para escritorio y teléfono móvil
+- Una copia comentada de la Guía de visita a Night City sellada en una bolsa de pruebas de la Policía de Night City.
 - Parches bordados, antología del mundo que detalla el escenario y la historia del juego, postales y mapa de Night City y set de pegatinas
+- Estatua de 25 cm de V, protagonista del juego, en acción.
 - Libro de arte en tapa dura, juego de pines y llavero de metal del Quadra V-Tech.
 - SteelBook coleccionable.
+- Caja de Edición de Coleccionista, estuche con discos de juego y portada reversible.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SX3YRCS/?tag=tolees-21)

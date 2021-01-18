@@ -25,9 +25,9 @@ Está [Rimmel London Stay Matte Base de Maquillaje Tono 006 Warm Beige  14 gr](h
 
 ℹ️:
 
-- Ofrece una resistencia de hasta 6 horas
-- Es testado dermatológicamente
-- Absorbe el aceite y ayuda a minimizar la apariencia de poros
 - Tiene una textura ligera
+- Es testado dermatológicamente
+- Ofrece una resistencia de hasta 6 horas
+- Absorbe el aceite y ayuda a minimizar la apariencia de poros
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0046U6RKC/?tag=tolees-21)

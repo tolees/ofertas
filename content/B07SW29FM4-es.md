@@ -25,15 +25,15 @@ Tienes [Colnatur Complex - Colágeno Natural para Músculos y Articulaciones  Vi
 
 🔎:
 
-- PIEL: La vitamina C contribuye a la formación normal de colágeno para el funcionamiento normal de la piel. La vitamina C contribuye a la protección de las células frente al daño oxidativo
-- Envase para 30 días
 - Se requiere un mínimo de tres meses para apreciar resultados
-- Complemento alimenticio a base de proteína de colágeno hidrolizada (natural, muy asimilable y pura) enriquecida con magnesio, vitamina C y ácido hialurónico
-- CARTÍLAGOS: La vitamina C contribuye a la formación normal de colágeno para el funcionamiento normal de los cartílagos
-- Sin grasas, azúcares, edulcorantes artificiales, colorantes, conservantes, gluten ni otros alérgenos
-- Sabor vainilla, formato en polvo
-- DISMINUIR EL CANSANCIO Y LA FATIGA: EL magnesio y la vitamina C ayudan a disminuir el cansancio y la fatiga
 - HUESOS: Las proteínas contribuyen al mantenimiento de huesos en condiciones normales. La vitamina C contribuye a la formación normal de colágeno para el funcionamiento normal de los huesos
+- Complemento alimenticio a base de proteína de colágeno hidrolizada (natural, muy asimilable y pura) enriquecida con magnesio, vitamina C y ácido hialurónico
+- Envase para 30 días
+- PIEL: La vitamina C contribuye a la formación normal de colágeno para el funcionamiento normal de la piel. La vitamina C contribuye a la protección de las células frente al daño oxidativo
+- Sin grasas, azúcares, edulcorantes artificiales, colorantes, conservantes, gluten ni otros alérgenos
+- DISMINUIR EL CANSANCIO Y LA FATIGA: EL magnesio y la vitamina C ayudan a disminuir el cansancio y la fatiga
+- Sabor vainilla, formato en polvo
 - MÚSCULOS: Las proteínas contribuyen a conservar la masa muscular
+- CARTÍLAGOS: La vitamina C contribuye a la formación normal de colágeno para el funcionamiento normal de los cartílagos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SW29FM4/?tag=tolees-21)
