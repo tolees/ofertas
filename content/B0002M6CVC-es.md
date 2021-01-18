@@ -25,8 +25,8 @@ Está [Ernie Ball Slinky 2221 - Juego de cuerdas para guitarra eléctrica  .010 
 
 ℹ️:
 
-- Música
-- Cultura y Ocio
 - Entretenimiento
+- Cultura y Ocio
+- Música
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0002M6CVC/?tag=tolees-21)

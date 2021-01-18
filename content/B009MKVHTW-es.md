@@ -25,8 +25,8 @@ Tienes [Eyenimal Dog VIDEOCAM](https://www.amazon.es/dp/B009MKVHTW/?tag=tolees-2
 
 🔎:
 
-- 3 modos de grabación de vídeo (continuo, mover o Pointing)
-- VideoCam para perros y uso al aire libre
 - Transferencia de vídeo y recarga de la batería a través de una conexión USB
+- VideoCam para perros y uso al aire libre
+- 3 modos de grabación de vídeo (continuo, mover o Pointing)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B009MKVHTW/?tag=tolees-21)

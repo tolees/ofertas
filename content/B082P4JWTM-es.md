@@ -25,10 +25,10 @@ Tienes [August Audar KERi-Pulsera Inteligente de Salud con Función de Tension A
 
 🔎:
 
-- PANTALLA DE COLOR - Navegue fácilmente por el reloj con la pantalla táctil y la pantalla a color. El brillo es ajustable para ver incluso al sol. Encuentre su teléfono o tome una foto de forma remota con este reloj inteligente
-- PULSERA DE ACTIVIDADES - Tracker de actividad para hombres y mujeres, calcula la distancia recorrida, las calorías gastadas, la cantidad de pasos dados y rastrea su ruta en una mapa a través de GPS - Compatible con Android e iPhone
 - NOTIFICACIONES DE WHATSAPP & LLAMADAS - Reciba la notificación cuando reciba un SMS, un mensaje en WhatsApp, Messenger u otras aplicaciones de teléfonos. Las llamadas se muestran en la pulsera inteligente para ser notificadas discretamente
-- ANÁLISIS DEL SUEÑO - El reloj evalúa la calidad del sueño y lo ayuda a dormir mejor. Encuentre toda la información en la aplicación del teléfono - Despierte en silencio con el despertador vibratorio integrado - Pulsera impermeable IP67 para duchar o nadar
 - TENSIOMETRO - Analiza el ritmo cardíaco después de la carrera o cuando lo desee - Control de la presión arterial y el índice de oxígeno sanguíneo - El brazalete conectado le brinda indicadores útiles de salud en la vida cotidiana y después del deporte (correr, andar, en bicicleta, nadar ... )
+- PULSERA DE ACTIVIDADES - Tracker de actividad para hombres y mujeres, calcula la distancia recorrida, las calorías gastadas, la cantidad de pasos dados y rastrea su ruta en una mapa a través de GPS - Compatible con Android e iPhone
+- ANÁLISIS DEL SUEÑO - El reloj evalúa la calidad del sueño y lo ayuda a dormir mejor. Encuentre toda la información en la aplicación del teléfono - Despierte en silencio con el despertador vibratorio integrado - Pulsera impermeable IP67 para duchar o nadar
+- PANTALLA DE COLOR - Navegue fácilmente por el reloj con la pantalla táctil y la pantalla a color. El brillo es ajustable para ver incluso al sol. Encuentre su teléfono o tome una foto de forma remota con este reloj inteligente
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B082P4JWTM/?tag=tolees-21)

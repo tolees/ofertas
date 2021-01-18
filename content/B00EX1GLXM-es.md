@@ -25,9 +25,9 @@ Está [Daniel Wellington Classic Bristol  Reloj Marrón/Oro Rosado  36mm  Cuero 
 
 ℹ️:
 
+- Longitud de la correa ajustable: (Min - Max) 160-200mm
 - Diseñadas Suecia, las piezas de Daniel Wellington presentan un estilo escandinavo minimalista y son el regalo o accesorio personal óptimo para cada ocasión
 - Tamaño de Esfera: 36 mm
 - Correa intercambiable
-- Longitud de la correa ajustable: (Min - Max) 160-200mm
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00EX1GLXM/?tag=tolees-21)
