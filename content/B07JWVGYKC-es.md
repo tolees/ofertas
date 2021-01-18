@@ -25,7 +25,7 @@ Ahora mismo tienes [Columbia Redmond V2  Zapatillas de Senderismo Impermeables M
 
 🔎:
 
-- Tipo de tela: 80% poliéster, 20% nailon.
 - Goma de tracción que no marca Omni-grip
+- Tipo de tela: 80% poliéster, 20% nailon.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07JWVGYKC/?tag=tolees-21)

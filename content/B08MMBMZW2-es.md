@@ -25,13 +25,13 @@ Ahora mismo tienes [King C. Gillette Máquina de Afeitar para Cuello  Hojas de A
 
 🔎:
 
-- Para darle forma a la barba, incluye un gel de afeitar transparente, una máquina de afeitar para el cuello y 3 recambios
-- El soporte mantiene la máquina de afeitar en posición vertical en el lavabo
-- Para el cuidado de la barba, incluye un gel limpiador para barba y rostro, aceite para barba y un peine para barba
-- Te ayudamos a sentir y mostrar la mejor versión de ti mismo cada día
 - Gel de afeitar para barba con té blanco y aceite de argán de 150 ml
-- Aceite para barba que suaviza el pelo de la barba e hidrata la piel seca de 30 ml
+- Para el cuidado de la barba, incluye un gel limpiador para barba y rostro, aceite para barba y un peine para barba
 - Gel refrescante limpiador para barba y rostro con agua de coco, aceite de argán y aceite de aguacate de 350 ml
+- Para darle forma a la barba, incluye un gel de afeitar transparente, una máquina de afeitar para el cuello y 3 recambios
+- Aceite para barba que suaviza el pelo de la barba e hidrata la piel seca de 30 ml
+- Te ayudamos a sentir y mostrar la mejor versión de ti mismo cada día
+- El soporte mantiene la máquina de afeitar en posición vertical en el lavabo
 - Regala un tratamiento premium para barba de King C. Gillette
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08MMBMZW2/?tag=tolees-21)

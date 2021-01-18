@@ -25,8 +25,8 @@ Ahora mismo tienes [adidas Fit 2pc 3s Traje de Baño  Mujer  Negro  32](https://
 
 🔎:
 
+- Stretch fabric
 - Great freedom of movement
 - Bikini
-- Stretch fabric
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KMPGCHS/?tag=tolees-21)
