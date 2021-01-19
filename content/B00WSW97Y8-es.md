@@ -25,10 +25,10 @@ En este momento está [PEGASO 1095D5 Gafas para Soldadura a Gas  Negro y Rojo  L
 
 🔎:
 
+- Varillas ergonómicas en convección
+- Contra impacto alta velocidad baja energía
 - Normativa EN175 filtro soldadura DIN 5
 - Filtro de soldadura a gas DIN5
 - Suplemento abatible para soldadura
-- Contra impacto alta velocidad baja energía
-- Varillas ergonómicas en convección
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00WSW97Y8/?tag=tolees-21)

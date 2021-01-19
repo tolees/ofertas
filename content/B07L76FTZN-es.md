@@ -25,8 +25,8 @@ Está [Funko- Keychain Pocket Pop Fortnite Ragnarok Figura Coleccionable  Multic
 
 ℹ️:
 
-- Licencia oficial
-- Para los Fans de Funko
 - Llavero Pop Fortnite: Ragnarok
+- Para los Fans de Funko
+- Licencia oficial
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07L76FTZN/?tag=tolees-21)

@@ -25,8 +25,8 @@ Ahora mismo tienes [JACK & JONES JFWALBANY Leather STS  Biker Boots Hombre  Marr
 
 🔎:
 
+- De fácil lavado.
 - Suave.
 - Suela resistente a la abrasión.
-- De fácil lavado.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07CTHKBCP/?tag=tolees-21)
