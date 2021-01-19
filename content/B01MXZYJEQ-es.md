@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MXZYJEQ-es Pepaloves Rackets Skirt Cream Falda Casual para Mujer...'
-tags: 
+tags: tole.es
 actualPrice: 11.59 EUR
 currency: EUR
 price: 11.59

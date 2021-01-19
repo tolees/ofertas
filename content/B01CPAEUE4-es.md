@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CPAEUE4-es Juan Lopez Dulce de caramelo - 150 unidades'
-tags: 
+tags: tole.es
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

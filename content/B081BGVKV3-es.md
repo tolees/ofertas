@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081BGVKV3-es Asics Gel-Sonoma 5 Running Shoe Mens Graphite Grey/Black...'
-tags: 
+tags: tole.es
 actualPrice: 59.5 EUR
 currency: EUR
 price: 59.5

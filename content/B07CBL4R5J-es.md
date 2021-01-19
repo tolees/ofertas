@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CBL4R5J-es Bella Aurora Crema Facial Protector Solar Pre-Base...'
-tags: 
+tags: tole.es
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01B0YRRLY-es Russell Hobbs Textures Plus - Tostadora 2 Ranuras Anchas...'
-tags: 
+tags: tole.es
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

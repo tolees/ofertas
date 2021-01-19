@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004HBASLO-es Kensington Anclaje de Seguridad ClickSafe Bloqueo T:Bar...'
-tags: 
+tags: tole.es
 actualPrice: 14.12 EUR
 currency: EUR
 price: 14.12

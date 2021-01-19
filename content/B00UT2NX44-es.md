@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UT2NX44-es Tommy Hilfiger Bralette Corsetto Gris GREY HEATHER 004 36...'
-tags: 
+tags: tole.es
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

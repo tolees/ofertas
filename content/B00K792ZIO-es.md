@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K792ZIO-es Philips SHK2000 - Auriculares de diadema cerrados control...'
-tags: 
+tags: tole.es
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

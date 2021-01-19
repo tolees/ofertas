@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0893TFYL4-es TianTa Funda para Galaxy Tab A 8.0 2019 SM-T290/T295...'
-tags: 
+tags: tole.es
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

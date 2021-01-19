@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0881LTC4R-es Jeteven Dispensador de desinfección automático dispensador...'
-tags: 
+tags: tole.es
 actualPrice: 37.59 EUR
 currency: EUR
 price: 37.59

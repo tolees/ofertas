@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LWQBX0W-es Tefal C620SET3 - Juego de 3 Sartenes Aluminio de 21 24 y...'
-tags: 
+tags: tole.es
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

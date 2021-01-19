@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW75QWW-es Skechers Women s Stamina Trainers Grey Gray Suede/Orange &...'
-tags: 
+tags: tole.es
 actualPrice: 48.9 EUR
 currency: EUR
 price: 48.9

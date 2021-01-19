@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CLBZNCX-es Babymoov Kozii - Calienta leches'
-tags: 
+tags: tole.es
 actualPrice: 35.34 EUR
 currency: EUR
 price: 35.34

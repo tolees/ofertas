@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083YV4VC1-es Sujeciones de cable de nylon autoblocantes Manejo de...'
-tags: 
+tags: tole.es
 actualPrice: 3.37 EUR
 currency: EUR
 price: 3.37

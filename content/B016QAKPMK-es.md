@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016QAKPMK-es adidas Parma 16 SHO Shorts Hombre Black/White XS'
-tags: 
+tags: tole.es
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QTYHN25-es TATAFUN Máscaras de Superhéroe Suministros de Fiesta de...'
-tags: 
+tags: tole.es
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

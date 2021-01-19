@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9HXCGP-es Under Armour Rival Parte Superior del Calentamiento Mujer...'
-tags: 
+tags: tole.es
 actualPrice: 34.97 EUR
 currency: EUR
 price: 34.97

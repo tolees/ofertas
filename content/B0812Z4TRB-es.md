@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0812Z4TRB-es Gancho de jardín de infantes Fibra de bambú Cuadrado...'
-tags: 
+tags: tole.es
 actualPrice: 3.36 EUR
 currency: EUR
 price: 3.36

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00G3XR8OE-es Baby Jogger City Mini Gemelar - Silla de paseo color...'
-tags: 
+tags: tole.es
 actualPrice: 319.99 EUR
 currency: EUR
 price: 319.99

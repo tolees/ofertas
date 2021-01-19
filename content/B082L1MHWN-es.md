@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082L1MHWN-es Calcetines de Running para Largas Distancias para Hombre y...'
-tags: 
+tags: tole.es
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NXZYPXR-es Ferilinso Cristal Templado para Samsung Galaxy M20 A10S...'
-tags: 
+tags: tole.es
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

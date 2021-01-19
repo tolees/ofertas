@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083GQCYG5-es TEENO 10 Pulgadas 4G Tablet con Ranuras para Tarjetas SIM...'
-tags: 
+tags: tole.es
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

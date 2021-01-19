@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01G3KXVQK-es Philips Lumea Essential BRI862/00 - Depiladora IPL por luz...'
-tags: 
+tags: tole.es
 actualPrice: 150.0 EUR
 currency: EUR
 price: 150.0

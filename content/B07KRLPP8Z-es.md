@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRLPP8Z-es New Balance 500 Zapatillas para Mujer Plateado Metallic...'
-tags: 
+tags: tole.es
 actualPrice: 29.81 EUR
 currency: EUR
 price: 29.81

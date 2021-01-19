@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6BPM5Y-es Bensimon Tennis Lacet Femme Zapatillas Mujer Beige Beige...'
-tags: 
+tags: tole.es
 actualPrice: 17.39 EUR
 currency: EUR
 price: 17.39

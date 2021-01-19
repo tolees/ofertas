@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QD3KDC3-es WisFox Ratón inalámbrico 2.4G Óptico Ratón Ratón de...'
-tags: 
+tags: tole.es
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

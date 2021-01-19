@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00H8TBB6I-es FLEXI Vario S Cordón 8 m marrón'
-tags: 
+tags: tole.es
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

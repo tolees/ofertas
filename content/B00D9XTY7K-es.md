@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00D9XTY7K-es Rhino- Falda pantalón de deporte para mujer'
-tags: 
+tags: tole.es
 actualPrice: 22.2 EUR
 currency: EUR
 price: 22.2

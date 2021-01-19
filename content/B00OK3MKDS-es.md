@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OK3MKDS-es Termix Slim- Plancha de pelo con Nano Titanio que ayuda a...'
-tags: 
+tags: tole.es
 actualPrice: 25.46 EUR
 currency: EUR
 price: 25.46

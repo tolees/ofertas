@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000XVLZNC-es HP CB436A 36A Cartucho de Tóner Original 1 unidad negro'
-tags: 
+tags: tole.es
 actualPrice: 28.4 EUR
 currency: EUR
 price: 28.4

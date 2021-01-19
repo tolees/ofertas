@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087R2MCYW-es Aokey - Repelente ultrasónico de plagas repelente de...'
-tags: 
+tags: tole.es
 actualPrice: 12.48 EUR
 currency: EUR
 price: 12.48

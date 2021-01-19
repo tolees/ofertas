@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QJGYT1H-es MTNG Attitude 84086 Zapatillas para Hombre Azul /Mesh 10...'
-tags: 
+tags: tole.es
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

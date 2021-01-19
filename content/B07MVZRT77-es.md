@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVZRT77-es RATEL Funda Protectora de Sombrilla Impermeable Resistente...'
-tags: 
+tags: tole.es
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

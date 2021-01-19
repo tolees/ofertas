@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWKQ22K-es Skechers Skech-Air Element 2.0 Zapatillas para Mujer Negro...'
-tags: 
+tags: tole.es
 actualPrice: 50.57 EUR
 currency: EUR
 price: 50.57

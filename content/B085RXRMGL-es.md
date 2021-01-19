@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085RXRMGL-es Dunlop Fusion Elite Amarilla 2019'
-tags: 
+tags: tole.es
 actualPrice: 64.95 EUR
 currency: EUR
 price: 64.95

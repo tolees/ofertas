@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L8TL39B-es RUNCCI-YUN potenciómetro 10k kit de potenciómetro rotativo...'
-tags: 
+tags: tole.es
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

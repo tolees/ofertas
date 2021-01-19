@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JMD00PG-es Canson Iris - Cartulina 50 Unidades Color Gris Perla'
-tags: 
+tags: tole.es
 actualPrice: 5.65 EUR
 currency: EUR
 price: 5.65

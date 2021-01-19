@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089ZPBW4J-es ASICS Training Club Pantalones - L'
-tags: 
+tags: tole.es
 actualPrice: 22.39 EUR
 currency: EUR
 price: 22.39

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015QDUEV0-es L Oréal Steampod Styler Plancha de Pelo - 1810 gr'
-tags: 
+tags: tole.es
 actualPrice: 150 EUR
 currency: EUR
 price: 150

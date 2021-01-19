@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N2W95BE-es Signal Frescor Explosivo Blanqueador -75 ml'
-tags: 
+tags: tole.es
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

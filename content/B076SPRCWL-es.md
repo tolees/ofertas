@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076SPRCWL-es Pendientes de color Naranja de Calabaza para Su Estilo'
-tags: 
+tags: tole.es
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

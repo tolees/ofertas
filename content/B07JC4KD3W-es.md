@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JC4KD3W-es Pioneer DJ HDJ-X5BT-R Auriculares Bluetooth para DJ Rojo'
-tags: 
+tags: tole.es
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

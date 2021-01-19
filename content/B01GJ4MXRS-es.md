@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GJ4MXRS-es Essie Gel Couture Laca de Uñas Tono: 410 Hung Up the Heels'
-tags: 
+tags: tole.es
 actualPrice: 4.16 EUR
 currency: EUR
 price: 4.16

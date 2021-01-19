@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CQ5Z2P0-es Revlon Super Lustrous Pintalabios Tono 25 Lovers Coral -...'
-tags: 
+tags: tole.es
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00N6NF1FW-es Philips BT 2000 - Altavoz portátil Bluetooth negro'
-tags: 
+tags: tole.es
 actualPrice: 20.1 EUR
 currency: EUR
 price: 20.1

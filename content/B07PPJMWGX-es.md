@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PPJMWGX-es El Ganso Casual 1 Polo Rojo Rojo 0005 Small para Hombre'
-tags: 
+tags: tole.es
 actualPrice: 19.78 EUR
 currency: EUR
 price: 19.78

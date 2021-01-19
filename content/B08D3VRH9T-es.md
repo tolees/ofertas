@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D3VRH9T-es AA59-00638A Mando a distancia para Samsung Smart 3D LCD...'
-tags: 
+tags: tole.es
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

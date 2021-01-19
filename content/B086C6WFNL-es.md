@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086C6WFNL-es Caja de almacenamiento universal para asiento de coche...'
-tags: 
+tags: tole.es
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

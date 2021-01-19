@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5DGVDT-es Lee 5 POCKET WIDE LEG Vaqueros straight Mujer Azul MYSTIC...'
-tags: 
+tags: tole.es
 actualPrice: 15.97 EUR
 currency: EUR
 price: 15.97

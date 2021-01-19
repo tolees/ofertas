@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EVPRQGQ-es Calvin Klein Bottoms UP-Hipster Ropa interior Negro 001...'
-tags: 
+tags: tole.es
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

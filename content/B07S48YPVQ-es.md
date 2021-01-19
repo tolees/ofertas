@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S48YPVQ-es Love MoschinoJc4002pp1aMujerBolsos bandoleraNegro Negro...'
-tags: 
+tags: tole.es
 actualPrice: 109.43 EUR
 currency: EUR
 price: 109.43

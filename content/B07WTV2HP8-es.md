@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WTV2HP8-es J.Endéar Letra Inicial A-Z Alfabeto Pulsera de Piedras...'
-tags: 
+tags: tole.es
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NWUVL5S-es Medisana PM 100 Oxímetro de pulso medición de la...'
-tags: 
+tags: tole.es
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

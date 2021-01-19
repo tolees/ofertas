@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GCSG69B-es Bluelucon 1 Unidad de paños faciales de protección Facial...'
-tags: 
+tags: tole.es
 actualPrice: 1.89 EUR
 currency: EUR
 price: 1.89

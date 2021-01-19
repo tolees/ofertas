@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00A1YG6HG-es Wrangler Texas Contrast Jeans Azul Night Break 37W 36W /...'
-tags: 
+tags: tole.es
 actualPrice: 52.18 EUR
 currency: EUR
 price: 52.18

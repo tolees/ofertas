@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PMJ74P5-es The Nisha 24 PC pegatinas para pared Adhesivo de Pared...'
-tags: 
+tags: tole.es
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

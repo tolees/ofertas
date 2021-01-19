@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082XFBKLJ-es Doble verde esmeralda rodillo elíptico masajeador ojo...'
-tags: 
+tags: tole.es
 actualPrice: 4.31 EUR
 currency: EUR
 price: 4.31

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HT7RS1G-es VGROUND LED Linterna XML T6 Portátil e Impermeable...'
-tags: 
+tags: tole.es
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

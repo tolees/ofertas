@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S8BPSWW-es Justdodo Bolsa de cosméticos de Gran Capacidad Las Mujeres...'
-tags: 
+tags: tole.es
 actualPrice: 2.8 EUR
 currency: EUR
 price: 2.8

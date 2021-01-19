@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073FV78PK-es Max Factor Healthy Skin Harmony Base de Maquillaje Tono 77...'
-tags: 
+tags: tole.es
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

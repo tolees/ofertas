@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F5N1N8C-es Unidad Flash USB 2.0 Memoria USB Stick USB Pen Memory...'
-tags: 
+tags: tole.es
 actualPrice: 2.04 EUR
 currency: EUR
 price: 2.04

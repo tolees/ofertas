@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014SV3LB6-es Super Design Comedero Lento en Melamina Comedero...'
-tags: 
+tags: tole.es
 actualPrice: 25.94 EUR
 currency: EUR
 price: 25.94

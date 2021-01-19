@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077V17MVK-es Kipling Creativity S Cartera para Mujer Marrón True Beige...'
-tags: 
+tags: tole.es
 actualPrice: 16.87 EUR
 currency: EUR
 price: 16.87

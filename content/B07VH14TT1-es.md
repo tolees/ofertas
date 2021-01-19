@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VH14TT1-es Pepe Jeans Klein Archive Summer M Zapatillas para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 34.66 EUR
 currency: EUR
 price: 34.66

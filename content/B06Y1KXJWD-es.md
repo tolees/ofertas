@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y1KXJWD-es Versa 18790696 Perchero de pie negro - Metal y madera...'
-tags: 
+tags: tole.es
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

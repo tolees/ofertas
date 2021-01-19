@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1GKNX6-es Clarks Sillian2.0pace Zapatillas para Mujer Negro Black...'
-tags: 
+tags: tole.es
 actualPrice: 51.07 EUR
 currency: EUR
 price: 51.07

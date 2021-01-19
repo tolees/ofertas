@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M6ZDX9C-es Rapesco Alu 40 - Perforadora de gruesos de 4 agujeros y 40...'
-tags: 
+tags: tole.es
 actualPrice: 40.79 EUR
 currency: EUR
 price: 40.79

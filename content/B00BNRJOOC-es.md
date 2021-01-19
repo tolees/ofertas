@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BNRJOOC-es Superga Classic Zapatillas Unisex Adulto gris gris claro...'
-tags: 
+tags: tole.es
 actualPrice: 33.2 EUR
 currency: EUR
 price: 33.2

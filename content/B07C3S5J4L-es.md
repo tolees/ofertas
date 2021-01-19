@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C3S5J4L-es AmazonBasics - Maleta de mano rígida de alta calidad con...'
-tags: 
+tags: tole.es
 actualPrice: 46.9 EUR
 currency: EUR
 price: 46.9

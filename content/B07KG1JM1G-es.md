@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG1JM1G-es PUMA Carina Lux SD Zapatillas Mujer Rosa Bridal Rose-Puma...'
-tags: 
+tags: tole.es
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

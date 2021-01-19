@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CLJGDTN-es Miracle Baby Mantas Muselina Bebe Algodon，Manta Dos Capas...'
-tags: 
+tags: tole.es
 actualPrice: 16.87 EUR
 currency: EUR
 price: 16.87

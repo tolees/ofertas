@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S6GWV26-es Under Armour UA Mojo Zapatillas de Running para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 38.46 EUR
 currency: EUR
 price: 38.46

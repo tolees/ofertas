@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083SDRVHK-es Aparato de masaje Icetek para hombros espalda cuello...'
-tags: 
+tags: tole.es
 actualPrice: 29.5 EUR
 currency: EUR
 price: 29.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082M3YSZT-es NWOUIIAY Cargador de coche de carga 6 A/12 V Multi...'
-tags: 
+tags: tole.es
 actualPrice: 23.8 EUR
 currency: EUR
 price: 23.8

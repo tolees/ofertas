@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CHXZ8F2-es ECCO Soft 7 Zapatillas para Hombre Azul Navy/Night Sky...'
-tags: 
+tags: tole.es
 actualPrice: 63.62 EUR
 currency: EUR
 price: 63.62

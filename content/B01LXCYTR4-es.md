@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXCYTR4-es Brabantia Cubo de Basura con Pedal Inoxidable Acero...'
-tags: 
+tags: tole.es
 actualPrice: 49.4 EUR
 currency: EUR
 price: 49.4

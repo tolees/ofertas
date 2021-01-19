@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073V3S7BC-es Croft Twist Vino Fino D.O. Jerez – 3 botellas de 750 ml –...'
-tags: 
+tags: tole.es
 actualPrice: 16.75 EUR
 currency: EUR
 price: 16.75

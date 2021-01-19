@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S1PJGWV-es New Balance 373v2 Zapatillas para Hombre Rojo Red/White...'
-tags: 
+tags: tole.es
 actualPrice: 44.14 EUR
 currency: EUR
 price: 44.14

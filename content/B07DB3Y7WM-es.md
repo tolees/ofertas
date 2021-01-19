@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DB3Y7WM-es Motorkit MOT1000 Kit Restaurador De Faros'
-tags: 
+tags: tole.es
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

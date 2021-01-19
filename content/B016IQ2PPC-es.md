@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016IQ2PPC-es Tienda de campaña Vinson Altus'
-tags: 
+tags: tole.es
 actualPrice: 229.99 EUR
 currency: EUR
 price: 229.99

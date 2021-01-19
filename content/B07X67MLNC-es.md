@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X67MLNC-es Chupa Chups Sin Azúcar Caramelo con Palo de Sabores...'
-tags: 
+tags: tole.es
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

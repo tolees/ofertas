@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0861Y3CNS-es AGAKY Mini Ventilador de Mano Ventiladores USB Recargable...'
-tags: 
+tags: tole.es
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

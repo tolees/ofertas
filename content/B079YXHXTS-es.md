@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079YXHXTS-es Hugo BOSS Reloj Cronógrafo para Hombre de Cuarzo con...'
-tags: 
+tags: tole.es
 actualPrice: 199.95 EUR
 currency: EUR
 price: 199.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HTNW4I6-es adidas Cosmic W Zapatillas de Running para Mujer Morado...'
-tags: 
+tags: tole.es
 actualPrice: 24.84 EUR
 currency: EUR
 price: 24.84

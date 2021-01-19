@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L3BNZQD-es Tommy Hilfiger Tommy Jeans Casual Sneaker Zapatillas para...'
-tags: 
+tags: tole.es
 actualPrice: 35.2 EUR
 currency: EUR
 price: 35.2

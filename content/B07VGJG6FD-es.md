@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGJG6FD-es Qkiss Cepillo Redondo Cepillo Redondo Cerámico Profesional...'
-tags: 
+tags: tole.es
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

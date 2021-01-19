@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VTWTKXJ-es G-STAR RAW Rackam Core Low Zapatillas para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 46.86 EUR
 currency: EUR
 price: 46.86

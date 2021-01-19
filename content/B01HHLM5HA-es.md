@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HHLM5HA-es Puzle coloreable 20 piezas. Frozen Puzle coloreable frozen'
-tags: 
+tags: tole.es
 actualPrice: 2.12 EUR
 currency: EUR
 price: 2.12

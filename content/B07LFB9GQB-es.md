@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFB9GQB-es 15 unids/rollo bolsas de pañales para bebés desechables...'
-tags: 
+tags: tole.es
 actualPrice: 2.85 EUR
 currency: EUR
 price: 2.85

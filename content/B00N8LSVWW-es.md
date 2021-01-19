@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00N8LSVWW-es StarTech.com PXTNB3SUK1M - Cable de de alimentación para...'
-tags: 
+tags: tole.es
 actualPrice: 3.89 EUR
 currency: EUR
 price: 3.89

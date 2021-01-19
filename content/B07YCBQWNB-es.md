@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YCBQWNB-es ZREE Grifo Lavabo Cascada Alto Grifo de Baño Acero...'
-tags: 
+tags: tole.es
 actualPrice: 52.89 EUR
 currency: EUR
 price: 52.89

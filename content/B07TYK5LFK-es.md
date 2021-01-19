@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYK5LFK-es Qings Aros Pendientes Plata de Ley 925 Mujer Pendientes...'
-tags: 
+tags: tole.es
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

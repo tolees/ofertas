@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H8LRC27-es Reloj para Hombre Colección Traguardo con Movimiento de...'
-tags: 
+tags: tole.es
 actualPrice: 177.3 EUR
 currency: EUR
 price: 177.3

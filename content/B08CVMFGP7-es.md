@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CVMFGP7-es Reloj Deportivo Inteligente Edición para jóvenes...'
-tags: 
+tags: tole.es
 actualPrice: 74.62 EUR
 currency: EUR
 price: 74.62

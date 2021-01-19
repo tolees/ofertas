@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R2X8T8Y-es Under Armour Rival Fleece Graphic Novelty Sudadera con...'
-tags: 
+tags: tole.es
 actualPrice: 34.21 EUR
 currency: EUR
 price: 34.21

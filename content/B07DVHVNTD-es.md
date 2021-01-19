@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DVHVNTD-es New Balance 247v2 Entrenadores para Mujer Rosa Birch Birch...'
-tags: 
+tags: tole.es
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

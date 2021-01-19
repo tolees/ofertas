@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S9DW78T-es Asics Gel-Contend 6 Sneaker Mens Negro 42 EU'
-tags: 
+tags: tole.es
 actualPrice: 47.32 EUR
 currency: EUR
 price: 47.32

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AS12ZZI-es The North Face Exploration Pantalones Cortos para Mujer...'
-tags: 
+tags: tole.es
 actualPrice: 12.98 EUR
 currency: EUR
 price: 12.98

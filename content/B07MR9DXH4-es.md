@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MR9DXH4-es Lee Rider Contrast Jeans Dark Pool 28W / 34L para Hombre'
-tags: 
+tags: tole.es
 actualPrice: 35.66 EUR
 currency: EUR
 price: 35.66

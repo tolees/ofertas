@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UT2O3A2-es Tommy Hilfiger Bralette Sujetador Deportivo Gris GREY...'
-tags: 
+tags: tole.es
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086SY3BBK-es 10 unidades de protección contra 4 capas de protección facial'
-tags: 
+tags: tole.es
 actualPrice: 3.88 EUR
 currency: EUR
 price: 3.88

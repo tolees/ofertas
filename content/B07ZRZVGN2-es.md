@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZRZVGN2-es DLOPK Adaptador de Viaje Universal con 4 Puertos USB MAX...'
-tags: 
+tags: tole.es
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

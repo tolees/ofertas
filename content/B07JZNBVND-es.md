@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JZNBVND-es 28 Palms Tropical Hawaiian Print Halter Shift Dress...'
-tags: 
+tags: tole.es
 actualPrice: 4.4 EUR
 currency: EUR
 price: 4.4

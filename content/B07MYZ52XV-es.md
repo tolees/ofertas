@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MYZ52XV-es Skechers Solar Fuse Zapatillas para Mujer Black Mesh/White...'
-tags: 
+tags: tole.es
 actualPrice: 31.86 EUR
 currency: EUR
 price: 31.86

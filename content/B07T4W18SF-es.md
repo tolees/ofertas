@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T4W18SF-es SYOSIN Corrección de Postura Entrenador de Postura...'
-tags: 
+tags: tole.es
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

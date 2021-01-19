@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074D7JFDG-es Matrix Mousse y espuma - 1 unidad'
-tags: 
+tags: tole.es
 actualPrice: 8.04 EUR
 currency: EUR
 price: 8.04

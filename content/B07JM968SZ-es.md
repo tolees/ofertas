@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JM968SZ-es Lee Breese Pantalones para Mujer Negro Black Rinse 47 24W...'
-tags: 
+tags: tole.es
 actualPrice: 34.82 EUR
 currency: EUR
 price: 34.82

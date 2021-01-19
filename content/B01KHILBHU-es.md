@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KHILBHU-es Philips - bombilla E27 rosca Edison LED 230 V – blanco...'
-tags: 
+tags: tole.es
 actualPrice: 14.62 EUR
 currency: EUR
 price: 14.62

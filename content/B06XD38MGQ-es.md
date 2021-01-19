@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XD38MGQ-es Maybelline New York Colossal Kajal Lápiz de Ojos Ultra...'
-tags: 
+tags: tole.es
 actualPrice: 3.7 EUR
 currency: EUR
 price: 3.7

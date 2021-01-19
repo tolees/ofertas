@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BFB8Y8W-es LoveOlvidoF Carga portátil Carga USB Cable de alimentación...'
-tags: 
+tags: tole.es
 actualPrice: 1.15 EUR
 currency: EUR
 price: 1.15

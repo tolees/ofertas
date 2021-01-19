@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NE3T4XE-es Floïd Floïd After Shave Loción 150 ml'
-tags: 
+tags: tole.es
 actualPrice: 5.25 EUR
 currency: EUR
 price: 5.25

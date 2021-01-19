@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GL7WYNW-es Fossil Smartwatch FTW4018'
-tags: 
+tags: tole.es
 actualPrice: 167.4 EUR
 currency: EUR
 price: 167.4

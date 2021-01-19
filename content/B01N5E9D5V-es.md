@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5E9D5V-es adidas Gazelle Zapatillas Unisex Niños Negro Core...'
-tags: 
+tags: tole.es
 actualPrice: 35.7 EUR
 currency: EUR
 price: 35.7

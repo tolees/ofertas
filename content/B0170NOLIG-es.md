@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0170NOLIG-es Tommy Hilfiger HERITAGE SINGLE BREASTED TRENCH Abrigo...'
-tags: 
+tags: tole.es
 actualPrice: 195.95 EUR
 currency: EUR
 price: 195.95

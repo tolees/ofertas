@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006IM0FXG-es Tamron B011S AF 18-200 mm F/3 5-6.3 - Objetivo para...'
-tags: 
+tags: tole.es
 actualPrice: 521.5 EUR
 currency: EUR
 price: 521.5

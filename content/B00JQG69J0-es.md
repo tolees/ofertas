@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JQG69J0-es VALUELINE Cable EUROCONECTOR con IN'
-tags: 
+tags: tole.es
 actualPrice: 4.87 EUR
 currency: EUR
 price: 4.87

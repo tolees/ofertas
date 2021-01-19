@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R4XQ34S-es Blacksad: Under The Skin - Limited Edition'
-tags: 
+tags: tole.es
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

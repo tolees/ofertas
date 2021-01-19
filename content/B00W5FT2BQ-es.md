@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00W5FT2BQ-es New Era Fashion ESS 940 Gorra Mujer Rosa/Blanco Talla Única'
-tags: 
+tags: tole.es
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

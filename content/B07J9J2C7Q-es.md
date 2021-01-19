@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J9J2C7Q-es MSI GeForce RTX 2080 SEA HAWK EK X - Tarjeta gráfica...'
-tags: 
+tags: tole.es
 actualPrice: 414.0 EUR
 currency: EUR
 price: 414.0

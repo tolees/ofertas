@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X95QGZJ-es DOBEN - Barra de dominadas Profesional telescópica para...'
-tags: 
+tags: tole.es
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

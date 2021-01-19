@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFZCGC2-es PUMA King Pro IT Zapatillas de fútbol Unisex Adulto Negro...'
-tags: 
+tags: tole.es
 actualPrice: 56.34 EUR
 currency: EUR
 price: 56.34

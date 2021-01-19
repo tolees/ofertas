@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C3LVDRB-es Yuanguo Pulsera de Actividad Inteligente Reloj Deportivo...'
-tags: 
+tags: tole.es
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

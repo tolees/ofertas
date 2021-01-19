@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FXDL9AS-es Pro Mountain - Calcetines deportivos unisex de algodón -...'
-tags: 
+tags: tole.es
 actualPrice: 21.36 EUR
 currency: EUR
 price: 21.36

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076JGQNS3-es adidas Trefoil T-Shirt T-Shirt Hombre White M'
-tags: 
+tags: tole.es
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

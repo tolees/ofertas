@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TNJL21G-es Amzdeal Lijadora Orbital Excéntrica Neumática Dual-acción...'
-tags: 
+tags: tole.es
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

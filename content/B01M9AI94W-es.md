@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M9AI94W-es HBF 8 Piezas Cinta Para El Pelo Bebe Algodón Mariposa...'
-tags: 
+tags: tole.es
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

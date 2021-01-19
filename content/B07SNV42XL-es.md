@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SNV42XL-es adidas Forest Grove W Zapatillas de Gimnasia para Mujer...'
-tags: 
+tags: tole.es
 actualPrice: 47.18 EUR
 currency: EUR
 price: 47.18

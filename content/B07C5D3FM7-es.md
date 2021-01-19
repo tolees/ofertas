@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C5D3FM7-es Kelme - Zapatillas Triton'
-tags: 
+tags: tole.es
 actualPrice: 41.93 EUR
 currency: EUR
 price: 41.93

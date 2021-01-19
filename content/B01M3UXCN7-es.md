@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M3UXCN7-es LG VR9624PR Hombot Turbo Serie 11 - Robot aspirador...'
-tags: 
+tags: tole.es
 actualPrice: 580.77 EUR
 currency: EUR
 price: 580.77

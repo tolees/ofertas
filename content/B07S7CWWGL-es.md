@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7CWWGL-es Aluminio Pequeños joyeros Hobby Abrazadera en la mesa...'
-tags: 
+tags: tole.es
 actualPrice: 3.32 EUR
 currency: EUR
 price: 3.32

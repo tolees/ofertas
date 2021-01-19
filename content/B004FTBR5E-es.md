@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004FTBR5E-es BIC Round Stic - Paquete de 60 bolígrafos reciclado color...'
-tags: 
+tags: tole.es
 actualPrice: 10.81 EUR
 currency: EUR
 price: 10.81

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBFARIJ-es Ukelele Redondo de 21” Construido con Funda Bolsa de...'
-tags: 
+tags: tole.es
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

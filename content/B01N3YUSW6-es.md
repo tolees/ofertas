@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N3YUSW6-es NEW C 2 Unidades Protector de Pantalla para Samsung Galaxy...'
-tags: 
+tags: tole.es
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

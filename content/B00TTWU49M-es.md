@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TTWU49M-es Farmatint Gel 4N Castaño | Color natural y duradero |...'
-tags: 
+tags: tole.es
 actualPrice: 4.48 EUR
 currency: EUR
 price: 4.48

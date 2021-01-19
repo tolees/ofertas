@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089LM1XHH-es Firoya 50pcs Lila Triple Capa Transpirable Cómodo para la...'
-tags: 
+tags: tole.es
 actualPrice: 2.98 EUR
 currency: EUR
 price: 2.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083TXDXF7-es memumi Funda para Samsung Galaxy S20 5G Case 0.3mm Ultra...'
-tags: 
+tags: tole.es
 actualPrice: 12.77 EUR
 currency: EUR
 price: 12.77

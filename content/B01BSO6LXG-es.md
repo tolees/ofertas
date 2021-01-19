@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BSO6LXG-es Philips Serie 3000 S3510/06 - Afeitadora Eléctrica para...'
-tags: 
+tags: tole.es
 actualPrice: 46.43 EUR
 currency: EUR
 price: 46.43

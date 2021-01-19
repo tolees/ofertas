@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G5PHNWH-es Max Factor Base de maquillaje Tono: 80 Deep Bronze Pieles...'
-tags: 
+tags: tole.es
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KR7KD48-es Under Armour UA Qualifier Heatgear Tight Leggings Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 36.91 EUR
 currency: EUR
 price: 36.91

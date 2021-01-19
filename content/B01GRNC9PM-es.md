@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GRNC9PM-es MOMO Design Reloj Informal MD6002SS-12'
-tags: 
+tags: tole.es
 actualPrice: 72.5 EUR
 currency: EUR
 price: 72.5

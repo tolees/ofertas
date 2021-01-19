@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BY0D2QE-es L Oreal Majirel 6.1 Color Rubio Oscuro Ceniza - 50 ml'
-tags: 
+tags: tole.es
 actualPrice: 11.2 EUR
 currency: EUR
 price: 11.2

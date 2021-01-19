@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MDTR6QT-es G-STAR RAW Duko Belt Cinturón Marrón Dk Brown/black Metal...'
-tags: 
+tags: tole.es
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

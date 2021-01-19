@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HPZQ8SP-es Funko- Pocket Pop Keychain: Fortnite: Cuddle Team Leader...'
-tags: 
+tags: tole.es
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

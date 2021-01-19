@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGJ51HR-es Funda iPhone X Funda iPhone XS Libro Carcasa iPhone X con...'
-tags: 
+tags: tole.es
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

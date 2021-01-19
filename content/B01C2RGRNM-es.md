@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C2RGRNM-es Habitdesign 007833BO - Comoda Estilo nórdico sinfonier...'
-tags: 
+tags: tole.es
 actualPrice: 76.0 EUR
 currency: EUR
 price: 76.0

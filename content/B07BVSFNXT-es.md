@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BVSFNXT-es seQoya · Volcano | Reloj de Piedra Hecho con mármol Negro...'
-tags: 
+tags: tole.es
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

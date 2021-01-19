@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002ZHEL2Y-es Zeller 13130 Reposapiés Madera Marrón 39x19x21 cm'
-tags: 
+tags: tole.es
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

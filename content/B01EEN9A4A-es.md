@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EEN9A4A-es Miniland Baby - Vigilabebé'
-tags: 
+tags: tole.es
 actualPrice: 168.75 EUR
 currency: EUR
 price: 168.75

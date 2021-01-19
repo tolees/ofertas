@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078W4L1PP-es Mini bicicleta estática pedales para entrenamiento de...'
-tags: 
+tags: tole.es
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W7J9MSP-es Qiwode Escurreplatos extensible para escurreplatos cestas...'
-tags: 
+tags: tole.es
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

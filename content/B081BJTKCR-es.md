@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081BJTKCR-es Columbia Challenger Chaqueta Cortavientos Hombre Blanco...'
-tags: 
+tags: tole.es
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

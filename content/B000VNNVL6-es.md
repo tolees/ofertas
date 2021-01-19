@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VNNVL6-es Clatronic Secador de Pelo HTD 3055 Secador - 350 gr'
-tags: 
+tags: tole.es
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

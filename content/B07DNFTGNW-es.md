@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DNFTGNW-es Limpiador de Cepillo de Acero Inoxidable con Mango Usar...'
-tags: 
+tags: tole.es
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

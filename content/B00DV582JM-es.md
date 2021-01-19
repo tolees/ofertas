@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DV582JM-es Superga 2750 COTU Classic Zapatillas Unisex Azul Blue...'
-tags: 
+tags: tole.es
 actualPrice: 33.82 EUR
 currency: EUR
 price: 33.82

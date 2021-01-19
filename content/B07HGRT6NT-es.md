@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HGRT6NT-es UMI. Essentials Marco de Fotos 13 x 18 cm Set de 12 Negro'
-tags: 
+tags: tole.es
 actualPrice: 26.39 EUR
 currency: EUR
 price: 26.39

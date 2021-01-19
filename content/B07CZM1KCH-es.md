@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZM1KCH-es Under Armour Performance Polo 2.0 Niños Negro Black/Mod...'
-tags: 
+tags: tole.es
 actualPrice: 10.66 EUR
 currency: EUR
 price: 10.66

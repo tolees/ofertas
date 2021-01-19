@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HGPHFJP-es Adidas Continental 80 J Zapatillas de Deporte Unisex...'
-tags: 
+tags: tole.es
 actualPrice: 40.45 EUR
 currency: EUR
 price: 40.45

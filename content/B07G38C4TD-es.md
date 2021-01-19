@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G38C4TD-es Chicco Liteway 3 Silla de paseo plegable y multifuncional...'
-tags: 
+tags: tole.es
 actualPrice: 149.95 EUR
 currency: EUR
 price: 149.95

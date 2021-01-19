@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071GKYYKW-es adidas X_PLR Zapatillas para Hombre Negro Core Black/Trace...'
-tags: 
+tags: tole.es
 actualPrice: 46.02 EUR
 currency: EUR
 price: 46.02

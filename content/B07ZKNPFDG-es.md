@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZKNPFDG-es Giow Lupa de Lectura LED de Escritorio Lupa Grande 5X con...'
-tags: 
+tags: tole.es
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

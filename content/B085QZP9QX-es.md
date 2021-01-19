@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085QZP9QX-es Finocam - Agenda Curso 2020-2021 Octavo-120x164 1 Día...'
-tags: 
+tags: tole.es
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

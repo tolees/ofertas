@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B1RG19A-es Fellowes 99106 - Kit limpiador para Smartphone'
-tags: 
+tags: tole.es
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

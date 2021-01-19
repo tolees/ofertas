@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L2B6ZGD-es Celio Jopry Pantalones Azul Navy Océano Navy Océano W32...'
-tags: 
+tags: tole.es
 actualPrice: 27.92 EUR
 currency: EUR
 price: 27.92

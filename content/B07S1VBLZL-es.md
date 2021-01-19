@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S1VBLZL-es Wangel Toallero Barra Fijar Sin Taladro Porta Toallas Baño...'
-tags: 
+tags: tole.es
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

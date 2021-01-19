@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077Y7T7KH-es HP Pavilion Monitor 1 Plata Mineral'
-tags: 
+tags: tole.es
 actualPrice: 255.0 EUR
 currency: EUR
 price: 255.0

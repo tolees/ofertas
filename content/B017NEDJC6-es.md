@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017NEDJC6-es WOLTU Persiana Enrollable Sin Perforación Persiana...'
-tags: 
+tags: tole.es
 actualPrice: 25.59 EUR
 currency: EUR
 price: 25.59

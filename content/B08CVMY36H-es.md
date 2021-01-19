@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CVMY36H-es Panamar Damas / Tejidos no Tejidos Tablero de ajedrez...'
-tags: 
+tags: tole.es
 actualPrice: 2.34 EUR
 currency: EUR
 price: 2.34

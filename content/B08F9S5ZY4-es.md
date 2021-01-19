@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F9S5ZY4-es Funda para Xiaomi Redmi 9A con [2 Pack] Cristal Templado...'
-tags: 
+tags: tole.es
 actualPrice: 6.19 EUR
 currency: EUR
 price: 6.19

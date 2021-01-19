@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002VSS5QA-es Converse Chuck Taylor All Star Zapatillas Unisex Negro...'
-tags: 
+tags: tole.es
 actualPrice: 50.05 EUR
 currency: EUR
 price: 50.05

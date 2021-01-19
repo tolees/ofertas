@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZPBYXNR-es Safety 1st Road Fix Silla Coche Grupo 2 3 Isofix crece con...'
-tags: 
+tags: tole.es
 actualPrice: 63.75 EUR
 currency: EUR
 price: 63.75

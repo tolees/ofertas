@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PQQP89M-es Msi Infinite s 8rb-015xes - Ordenador de sobremesa Intel...'
-tags: 
+tags: tole.es
 actualPrice: 599.99 EUR
 currency: EUR
 price: 599.99

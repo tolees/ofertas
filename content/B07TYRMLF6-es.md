@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYRMLF6-es Relojes Hombre Cuero Marrón Impermeable Cuarzo Analógico...'
-tags: 
+tags: tole.es
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

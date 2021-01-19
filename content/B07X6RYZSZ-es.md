@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X6RYZSZ-es VEOMED® Dispositivo Anti Ronquidos eficaz | Stop Ronquidos...'
-tags: 
+tags: tole.es
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

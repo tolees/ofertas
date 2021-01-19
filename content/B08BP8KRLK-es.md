@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BP8KRLK-es Wuyee Naranja de Halloween Que cuelga del Fantasma de...'
-tags: 
+tags: tole.es
 actualPrice: 5.5 EUR
 currency: EUR
 price: 5.5

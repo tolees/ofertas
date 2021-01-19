@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MK9YSSW-es Skechers GO Walk 5 APPRIZE Zapatillas sin Cordones para...'
-tags: 
+tags: tole.es
 actualPrice: 22.11 EUR
 currency: EUR
 price: 22.11

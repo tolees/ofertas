@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GSCPY6P-es Yayuu Compatible con Forerunner 235 Correa de Reloj Banda...'
-tags: 
+tags: tole.es
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083TW5CJC-es Percha Curva Perla Pajarita Decoración Ropa para niños...'
-tags: 
+tags: tole.es
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

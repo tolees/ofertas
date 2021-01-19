@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088JPW2L1-es Wodgreat Repetidor WiFi 300Mbps Amplificador Señal WiFi 2...'
-tags: 
+tags: tole.es
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

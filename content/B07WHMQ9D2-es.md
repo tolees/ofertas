@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WHMQ9D2-es Tubbz - Destiny Sweeperbot'
-tags: 
+tags: tole.es
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

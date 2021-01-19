@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H3PFN3B-es DINOKA Corrección de Postura Ajustable Corrector de...'
-tags: 
+tags: tole.es
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00N8PBMK6-es Nintendo - Figura Amiibo Smash Yoshi'
-tags: 
+tags: tole.es
 actualPrice: 12.34 EUR
 currency: EUR
 price: 12.34

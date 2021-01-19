@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JC7WCGR-es Hackett London Archive Colour Block Polo Multicolor...'
-tags: 
+tags: tole.es
 actualPrice: 26.88 EUR
 currency: EUR
 price: 26.88

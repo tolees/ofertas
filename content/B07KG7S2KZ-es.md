@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG7S2KZ-es PUMA NRGY Neko Retro Zapatillas de Running para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 29.69 EUR
 currency: EUR
 price: 29.69

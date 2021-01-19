@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HPZVBR8-es Pack Conan 1+2¿ Black Metal Edition Blu-Ray [Blu-ray]'
-tags: 
+tags: tole.es
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

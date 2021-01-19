@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086C5WLYH-es Funda para Samsung Galaxy Note 10 Lite 360°Full Body...'
-tags: 
+tags: tole.es
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082NLNSRN-es BACKTURE Lámpara Antimosquitos Electrico 18W UV Lámpara...'
-tags: 
+tags: tole.es
 actualPrice: 26.32 EUR
 currency: EUR
 price: 26.32

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0039UT5KE-es Casio Reloj de Pulsera AE-1000W-1BVEF'
-tags: 
+tags: tole.es
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

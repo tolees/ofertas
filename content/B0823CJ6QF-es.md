@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0823CJ6QF-es Tokyo Mirage'
-tags: 
+tags: tole.es
 actualPrice: 39.66 EUR
 currency: EUR
 price: 39.66

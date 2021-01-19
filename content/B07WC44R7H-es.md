@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WC44R7H-es Tommy Hilfiger Block Stripe Hilfiger tee Camiseta Deporte...'
-tags: 
+tags: tole.es
 actualPrice: 25.55 EUR
 currency: EUR
 price: 25.55

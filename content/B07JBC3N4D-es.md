@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JBC3N4D-es Columbia Titan Ultra II Pantalón Corto Poliéster Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 30.49 EUR
 currency: EUR
 price: 30.49

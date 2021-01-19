@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CV5P18V-es JACK & JONES Jfwolly Nubuck Noos Zapatillas para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

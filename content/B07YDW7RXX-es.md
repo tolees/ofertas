@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YDW7RXX-es Pikolin Veza colchón de muelles ensacados y viscoelástica...'
-tags: 
+tags: tole.es
 actualPrice: 501.49 EUR
 currency: EUR
 price: 501.49

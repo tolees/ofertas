@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WH158VW-es Mishansha Mujer Botas de Nieve Mujer Botines Zapatos...'
-tags: 
+tags: tole.es
 actualPrice: 28.79 EUR
 currency: EUR
 price: 28.79

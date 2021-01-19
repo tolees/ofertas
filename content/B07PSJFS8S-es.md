@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PSJFS8S-es Kipling Amiel Bolso de Mano para Mujer Verde Seagrass...'
-tags: 
+tags: tole.es
 actualPrice: 37.5 EUR
 currency: EUR
 price: 37.5

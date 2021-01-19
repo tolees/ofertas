@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MUB7E92-es Camper Beetle Zapatillas Altas para Hombre Gris Dark Gray...'
-tags: 
+tags: tole.es
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

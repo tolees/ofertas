@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HMBNWWV-es Dardaruga - Estufa de seta calefactora calefacción para...'
-tags: 
+tags: tole.es
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

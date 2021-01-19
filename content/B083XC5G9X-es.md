@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083XC5G9X-es Manfrotto Befree Advanced Camo Trípode de Viaje con Cabeza...'
-tags: 
+tags: tole.es
 actualPrice: 135.0 EUR
 currency: EUR
 price: 135.0

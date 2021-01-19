@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07733LLNF-es Columbia Peakfreak XCRSN II XCEL Low Outdry Mujer...'
-tags: 
+tags: tole.es
 actualPrice: 44.66 EUR
 currency: EUR
 price: 44.66

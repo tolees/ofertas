@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TV19MGQ-es Shuliancable Cable HDMI Compatible con Ethernet Retorno de...'
-tags: 
+tags: tole.es
 actualPrice: 6.89 EUR
 currency: EUR
 price: 6.89

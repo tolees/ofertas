@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CGJ197K-es Mini Moka Minimoka CM-1622 Cafetera Espreso 15 Bar / 1050...'
-tags: 
+tags: tole.es
 actualPrice: 75.1 EUR
 currency: EUR
 price: 75.1

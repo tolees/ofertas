@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NXV8SSL-es San Ignacio Navy Black Set de 3 sartenes + 4 recipientes...'
-tags: 
+tags: tole.es
 actualPrice: 42.61 EUR
 currency: EUR
 price: 42.61

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0143RAOF6-es Matrix Total Results High Amplify Wonder Boost - Cuidado...'
-tags: 
+tags: tole.es
 actualPrice: 7.28 EUR
 currency: EUR
 price: 7.28

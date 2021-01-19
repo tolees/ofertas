@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RT6CXQQ-es Mr. Wonderful Carpeta archivadora-Apunta Alto y llegarás...'
-tags: 
+tags: tole.es
 actualPrice: 3.98 EUR
 currency: EUR
 price: 3.98

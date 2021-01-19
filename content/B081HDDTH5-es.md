@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081HDDTH5-es XJ03 Cámaras portátiles portátiles domésticas compactas...'
-tags: 
+tags: tole.es
 actualPrice: 12.37 EUR
 currency: EUR
 price: 12.37

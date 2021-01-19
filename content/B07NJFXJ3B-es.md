@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJFXJ3B-es Naruto Ultimate Ninja Storm Trilogy'
-tags: 
+tags: tole.es
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

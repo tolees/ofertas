@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015GMWQSK-es ETEKCITY EHS-18 Báscula de Equipaje Digital con Gancho...'
-tags: 
+tags: tole.es
 actualPrice: 10.96 EUR
 currency: EUR
 price: 10.96

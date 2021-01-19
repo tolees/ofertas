@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GT88N9T-es Desigual - Bag Clio London Women Shoppers y bolsos de...'
-tags: 
+tags: tole.es
 actualPrice: 39.07 EUR
 currency: EUR
 price: 39.07

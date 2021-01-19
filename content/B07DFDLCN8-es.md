@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFDLCN8-es Funko Pop! Game of Thrones - Keychain Night King'
-tags: 
+tags: tole.es
 actualPrice: 3.92 EUR
 currency: EUR
 price: 3.92

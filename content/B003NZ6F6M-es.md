@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003NZ6F6M-es DiMarzio EP1104 - Selector de pastilla para guitarra 5...'
-tags: 
+tags: tole.es
 actualPrice: 20.97 EUR
 currency: EUR
 price: 20.97

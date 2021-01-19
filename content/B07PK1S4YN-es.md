@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PK1S4YN-es G-STAR RAW Tach Trunk 3-Pack Bañador Multicolor Hudson...'
-tags: 
+tags: tole.es
 actualPrice: 24.05 EUR
 currency: EUR
 price: 24.05

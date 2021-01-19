@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078ZYXHHC-es TRESemmé Champú Liso y Sedoso - Paquete de 4 x 900 ml -...'
-tags: 
+tags: tole.es
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

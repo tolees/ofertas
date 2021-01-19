@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VRC1RDV-es Tommy Hilfiger Organic Cotton Silk Crew Neck Pantalones...'
-tags: 
+tags: tole.es
 actualPrice: 21.73 EUR
 currency: EUR
 price: 21.73

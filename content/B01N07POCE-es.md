@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N07POCE-es HBF Vigilabebes Con Camara Pantalla LCD A Color 2 Sensor...'
-tags: 
+tags: tole.es
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NXV1N8M-es Dickies Manitou Chaqueta Verde X-Small Talla del...'
-tags: 
+tags: tole.es
 actualPrice: 51.67 EUR
 currency: EUR
 price: 51.67

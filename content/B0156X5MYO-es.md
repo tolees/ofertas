@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0156X5MYO-es Panasonic DMC-GH4RE-K-Cámara Digita de 16 MP Pantalla de 3...'
-tags: 
+tags: tole.es
 actualPrice: 857.25 EUR
 currency: EUR
 price: 857.25

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UWVIXSI-es Rowenta Intense Pure Air PU6020 Purificador de Aire XL...'
-tags: 
+tags: tole.es
 actualPrice: 239.0 EUR
 currency: EUR
 price: 239.0

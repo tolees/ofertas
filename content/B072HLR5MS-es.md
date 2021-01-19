@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072HLR5MS-es CINTA ANTIDESLIZANTE - LUMINOSO FLUORESCENTE - 50 mm x 5 M...'
-tags: 
+tags: tole.es
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

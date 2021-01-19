@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B39LKDW-es Falomir Alfarería Piratas Mesa. Juego Artístico. 28438'
-tags: 
+tags: tole.es
 actualPrice: 5.34 EUR
 currency: EUR
 price: 5.34

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNNRH65-es Calvin Klein Medium Drawstring Bañador Rojo High Risk XBG...'
-tags: 
+tags: tole.es
 actualPrice: 36.6 EUR
 currency: EUR
 price: 36.6

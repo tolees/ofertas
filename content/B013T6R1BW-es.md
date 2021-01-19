@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013T6R1BW-es PenDrive 8 GB 10 Piezas USB Flash Drives - Portátil Azul...'
-tags: 
+tags: tole.es
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

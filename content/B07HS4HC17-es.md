@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HS4HC17-es MSI MPG Z390 GAMING PRO CARBON AC - Placa base Performance...'
-tags: 
+tags: tole.es
 actualPrice: 133.23 EUR
 currency: EUR
 price: 133.23

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XO22BOY-es Zentrum Gastrocap con Aloe Vera Propóleo y Papaina - 30...'
-tags: 
+tags: tole.es
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

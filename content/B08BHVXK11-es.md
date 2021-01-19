@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BHVXK11-es Kits Traviesos: No Tengas Miedo De Tomar Tu Tra/In...'
-tags: 
+tags: tole.es
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

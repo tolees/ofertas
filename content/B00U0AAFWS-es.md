@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U0AAFWS-es Panasonic DMC-TZ70 Cámara Compacta de 12.1 MP Super Zoom...'
-tags: 
+tags: tole.es
 actualPrice: 199.95 EUR
 currency: EUR
 price: 199.95

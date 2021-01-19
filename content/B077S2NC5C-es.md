@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077S2NC5C-es Amzdeal Soporte de Fondo 2 * 3m con 3 Fondos Fotográficos...'
-tags: 
+tags: tole.es
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

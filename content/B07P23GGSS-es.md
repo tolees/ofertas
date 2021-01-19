@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P23GGSS-es Skechers Oak Canyon-Redwick Zapatillas para Hombre Blanco...'
-tags: 
+tags: tole.es
 actualPrice: 41.9 EUR
 currency: EUR
 price: 41.9

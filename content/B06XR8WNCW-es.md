@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XR8WNCW-es Precision'
-tags: 
+tags: tole.es
 actualPrice: 30.54 EUR
 currency: EUR
 price: 30.54

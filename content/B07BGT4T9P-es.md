@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BGT4T9P-es BGT Navaja de Bolsillo con Hoja de Acero Herramientas...'
-tags: 
+tags: tole.es
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

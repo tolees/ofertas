@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZRDAMXK-es Purina Pro Plan Small & Mini Puppy Salmón para cachorros...'
-tags: 
+tags: tole.es
 actualPrice: 29.16 EUR
 currency: EUR
 price: 29.16

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBT54BI-es Guess Reloj Analógico para Mujer de Cuarzo con Correa en...'
-tags: 
+tags: tole.es
 actualPrice: 122.06 EUR
 currency: EUR
 price: 122.06

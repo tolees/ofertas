@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OBBUBSU-es Bosch Professional BT 150 - Trípode de construcción 55 –...'
-tags: 
+tags: tole.es
 actualPrice: 36.33 EUR
 currency: EUR
 price: 36.33

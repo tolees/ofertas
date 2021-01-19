@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WP3PCHM-es LYCAON AB Wheel Roller con Barra de Empuje Cuerda de...'
-tags: 
+tags: tole.es
 actualPrice: 14.82 EUR
 currency: EUR
 price: 14.82

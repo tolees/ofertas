@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GRJZVZD-es Khanomak de las Mujeres de Manga Corta Cuello Redondo de...'
-tags: 
+tags: tole.es
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

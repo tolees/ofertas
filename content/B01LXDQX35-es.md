@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXDQX35-es WD Blue disco de estado sólido SSD interno de 250 GB -...'
-tags: 
+tags: tole.es
 actualPrice: 41.29 EUR
 currency: EUR
 price: 41.29

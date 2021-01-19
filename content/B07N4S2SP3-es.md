@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N4S2SP3-es Motorola Moto G7 Power – Smartphone Android 9 pantalla 6.2...'
-tags: 
+tags: tole.es
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

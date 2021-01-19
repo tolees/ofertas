@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VGML6LL-es Love Moschino T-Shirt Iridescent Logo Box Print Camiseta...'
-tags: 
+tags: tole.es
 actualPrice: 49.29 EUR
 currency: EUR
 price: 49.29

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1H36FK-es Superga 2730-cotu Zapatillas de Gimnasia para Mujer Azul...'
-tags: 
+tags: tole.es
 actualPrice: 15.76 EUR
 currency: EUR
 price: 15.76

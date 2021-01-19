@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LCGM2CP-es Tolyneil 36 piezas de acero Punch Alphabet Letter Number...'
-tags: 
+tags: tole.es
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

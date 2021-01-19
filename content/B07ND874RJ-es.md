@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ND874RJ-es Desigual 19WAYPX0 - Cartera para mujer de Sintético Mujer...'
-tags: 
+tags: tole.es
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089YGGM8K-es BAÑADOR DE Hombre QUORIMINEL ASSOR B Blanco XXL'
-tags: 
+tags: tole.es
 actualPrice: 20.3 EUR
 currency: EUR
 price: 20.3

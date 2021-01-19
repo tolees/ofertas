@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0014E7RPC-es Dunlop Protective Footwear DUO18 380VP.43 Zapatillas de...'
-tags: 
+tags: tole.es
 actualPrice: 9.3 EUR
 currency: EUR
 price: 9.3

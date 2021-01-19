@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DVG6QSJ-es New Balance W890V7 m Zapatillas de Running para Mujer...'
-tags: 
+tags: tole.es
 actualPrice: 44.68 EUR
 currency: EUR
 price: 44.68

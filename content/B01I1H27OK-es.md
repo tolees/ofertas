@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01I1H27OK-es Targus THZ66103GL Fit N Grip - Funda Universal para...'
-tags: 
+tags: tole.es
 actualPrice: 11.6 EUR
 currency: EUR
 price: 11.6

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZYB7VZ5-es Scimitar - Deportivas Casuales de Cierre Adhesivo para...'
-tags: 
+tags: tole.es
 actualPrice: 28.7 EUR
 currency: EUR
 price: 28.7

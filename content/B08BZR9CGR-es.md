@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BZR9CGR-es Summer Baby Kids Cómodo y suave mono corto de manga corta...'
-tags: 
+tags: tole.es
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

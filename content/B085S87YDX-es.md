@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085S87YDX-es Synology DiskStation DS220j - Servidor NAS 4 TB 2 bahías y...'
-tags: 
+tags: tole.es
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

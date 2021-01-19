@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T14BWXZ-es Charles Wilson Lote 12 Pares Calcetines Básicos 9-11 Navy...'
-tags: 
+tags: tole.es
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

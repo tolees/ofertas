@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RFZ13N9-es Under Armour Pennant Jacket 2.0 Parte Superior del...'
-tags: 
+tags: tole.es
 actualPrice: 27.86 EUR
 currency: EUR
 price: 27.86

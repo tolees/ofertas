@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VUKLYPY-es Netgear EX3800 Repetidor WiFi AC750 amplificador WiFi...'
-tags: 
+tags: tole.es
 actualPrice: 35.9 EUR
 currency: EUR
 price: 35.9

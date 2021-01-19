@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMWS1MY-es Clarks Hamble Loafer Mocasines Marrón Tan Leather Tan...'
-tags: 
+tags: tole.es
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

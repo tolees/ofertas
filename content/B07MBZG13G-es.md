@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MBZG13G-es LEVIS FOOTWEAR AND ACCESSORIES - The Levi s® L Pack...'
-tags: 
+tags: tole.es
 actualPrice: 20.81 EUR
 currency: EUR
 price: 20.81

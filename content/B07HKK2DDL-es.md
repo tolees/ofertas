@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HKK2DDL-es Under Armour UA W Charged Bandit 5 Zapatillas de Running...'
-tags: 
+tags: tole.es
 actualPrice: 37.55 EUR
 currency: EUR
 price: 37.55

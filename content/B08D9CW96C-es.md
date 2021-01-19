@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D9CW96C-es MrTom Niños 𝐌𝐚𝐬𝐜𝐚𝐫𝐢𝐥𝐥𝐚𝐬 Desechables de Filtro de 3 Capas...'
-tags: 
+tags: tole.es
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

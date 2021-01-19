@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YXPKQGK-es Under Armour Men s Golf Headline Cap 3.0 Visera Clásica...'
-tags: 
+tags: tole.es
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

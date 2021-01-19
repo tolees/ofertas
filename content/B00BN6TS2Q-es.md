@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BN6TS2Q-es Blow 750M Antena emisora CB 300W base magnética...'
-tags: 
+tags: tole.es
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

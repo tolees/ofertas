@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076VXMT2G-es G-STAR RAW Tendric 3D Mid Waist Boyfriend Pantalones Verde...'
-tags: 
+tags: tole.es
 actualPrice: 27.08 EUR
 currency: EUR
 price: 27.08

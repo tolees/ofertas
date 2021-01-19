@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B8YLW5Z-es DOWE 137 cm x 38 cm Resistencia al Calor Cubierta metálica...'
-tags: 
+tags: tole.es
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0793HNV7R-es adidas VL Court 2.0 CMF C Zapatillas de Tenis para Unisex...'
-tags: 
+tags: tole.es
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

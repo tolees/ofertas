@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VB24MWC-es LUDOS Comfy Almohadillas de Espuma Viscoelástica para...'
-tags: 
+tags: tole.es
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

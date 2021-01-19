@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLBGKFC-es Skechers Bobs Squad Zapatillas para Niñas Gris Gray/Hot...'
-tags: 
+tags: tole.es
 actualPrice: 21.78 EUR
 currency: EUR
 price: 21.78

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J3QZ20U-es H2D Professional - Cepillo desenredante para desenredar el...'
-tags: 
+tags: tole.es
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

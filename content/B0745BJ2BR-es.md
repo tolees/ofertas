@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0745BJ2BR-es Brabantia Código Y Bolsas de Basura Formato Rollo Blanco...'
-tags: 
+tags: tole.es
 actualPrice: 1.75 EUR
 currency: EUR
 price: 1.75

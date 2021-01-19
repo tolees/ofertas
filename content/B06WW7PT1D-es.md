@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WW7PT1D-es Goonies / Gremlins / Gremlins 2 [Edizione: Stati Uniti]...'
-tags: 
+tags: tole.es
 actualPrice: 22.48 EUR
 currency: EUR
 price: 22.48

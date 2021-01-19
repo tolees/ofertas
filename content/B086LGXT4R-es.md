@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086LGXT4R-es Burger de Wagyu con verduras y setas 2 x 125gr'
-tags: 
+tags: tole.es
 actualPrice: 3.35 EUR
 currency: EUR
 price: 3.35

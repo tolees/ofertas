@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRFTG43-es adidas Essential Linear Medias Mujer Negro/Blanco L'
-tags: 
+tags: tole.es
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

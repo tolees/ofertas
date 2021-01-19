@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XQM4B9-es Under Armour Recovery Travel Track Jacket Parte Superior...'
-tags: 
+tags: tole.es
 actualPrice: 18.8 EUR
 currency: EUR
 price: 18.8

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089PR5VWT-es Pendientes Mujer con piedra de nacimiento Plata de Ley 925...'
-tags: 
+tags: tole.es
 actualPrice: 22.34 EUR
 currency: EUR
 price: 22.34

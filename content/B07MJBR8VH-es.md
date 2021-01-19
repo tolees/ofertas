@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MJBR8VH-es Hackett Lambswool V suéter Navy 595 Small para Hombre'
-tags: 
+tags: tole.es
 actualPrice: 24.78 EUR
 currency: EUR
 price: 24.78

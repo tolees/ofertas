@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C9K8DJK-es Homfa Mesa Ordenador Mesa Escritorio de Estilo Industrial...'
-tags: 
+tags: tole.es
 actualPrice: 95.99 EUR
 currency: EUR
 price: 95.99

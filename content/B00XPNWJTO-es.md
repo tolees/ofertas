@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XPNWJTO-es GoldNutrition Tribulus 550 mg - 60 Cápsulas'
-tags: 
+tags: tole.es
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

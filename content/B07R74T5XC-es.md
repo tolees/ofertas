@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R74T5XC-es JACK & JONES Jfwduston PU Combo Anthracite Botas Chukka...'
-tags: 
+tags: tole.es
 actualPrice: 22.56 EUR
 currency: EUR
 price: 22.56

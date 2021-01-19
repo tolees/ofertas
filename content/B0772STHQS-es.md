@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0772STHQS-es Call Of Duty: World War II'
-tags: 
+tags: tole.es
 actualPrice: 15.77 EUR
 currency: EUR
 price: 15.77

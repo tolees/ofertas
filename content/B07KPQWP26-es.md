@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPQWP26-es Mr. Wonderful MRPWB038 Batería Externa de 10.000 Mah con...'
-tags: 
+tags: tole.es
 actualPrice: 23.06 EUR
 currency: EUR
 price: 23.06

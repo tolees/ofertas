@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJ5YC52-es Casio Reloj Digital para Hombre de Cuarzo con Correa en...'
-tags: 
+tags: tole.es
 actualPrice: 22.43 EUR
 currency: EUR
 price: 22.43

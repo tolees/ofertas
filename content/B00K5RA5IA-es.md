@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K5RA5IA-es Tommy Hilfiger 3p Trunk Bóxers Blanco White 100 Small Pack...'
-tags: 
+tags: tole.es
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

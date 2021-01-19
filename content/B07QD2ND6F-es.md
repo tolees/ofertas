@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QD2ND6F-es MTNG Attitude 84361 Zapatillas para Hombre Verde Pila Kaky...'
-tags: 
+tags: tole.es
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

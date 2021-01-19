@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PCZZCB9-es Hoover SGE1000 Limpiador seco para tejidos Vapor húmedo...'
-tags: 
+tags: tole.es
 actualPrice: 34.81 EUR
 currency: EUR
 price: 34.81

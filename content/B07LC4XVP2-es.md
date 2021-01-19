@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LC4XVP2-es Adidas VS Set Zapatillas de Tenis para Hombre Multicolor...'
-tags: 
+tags: tole.es
 actualPrice: 27.17 EUR
 currency: EUR
 price: 27.17

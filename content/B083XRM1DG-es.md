@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083XRM1DG-es Enchufe de sincronización wifi Enchufe inalámbrico Puertos...'
-tags: 
+tags: tole.es
 actualPrice: 15.91 EUR
 currency: EUR
 price: 15.91

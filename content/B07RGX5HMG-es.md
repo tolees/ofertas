@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RGX5HMG-es Kit de Punto de Cruz Estampado Tela Impresa con Kit de...'
-tags: 
+tags: tole.es
 actualPrice: 14.01 EUR
 currency: EUR
 price: 14.01

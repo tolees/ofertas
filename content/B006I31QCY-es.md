@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006I31QCY-es Pez Payaso Hinchable Bestway'
-tags: 
+tags: tole.es
 actualPrice: 5.59 EUR
 currency: EUR
 price: 5.59

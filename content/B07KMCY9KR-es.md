@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KMCY9KR-es MOISO SEBS Plantillas Alivio de Pies Dolorosos Soles de...'
-tags: 
+tags: tole.es
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

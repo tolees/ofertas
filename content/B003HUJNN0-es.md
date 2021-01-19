@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003HUJNN0-es Carolina Herrera 212 Vip Men Agua de Tocador Vaporizador -...'
-tags: 
+tags: tole.es
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

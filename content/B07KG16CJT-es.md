@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG16CJT-es PUMA King Hero FG Zapatillas de fútbol Unisex Adulto Negro...'
-tags: 
+tags: tole.es
 actualPrice: 25.68 EUR
 currency: EUR
 price: 25.68

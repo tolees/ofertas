@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K6XSGVX-es Levi s Original Hm tee Camiseta Azul LS Cotton + Patch...'
-tags: 
+tags: tole.es
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

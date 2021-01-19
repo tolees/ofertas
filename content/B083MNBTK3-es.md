@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083MNBTK3-es Moving Out PS4'
-tags: 
+tags: tole.es
 actualPrice: 19.17 EUR
 currency: EUR
 price: 19.17

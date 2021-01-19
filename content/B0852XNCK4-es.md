@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0852XNCK4-es LAQI Funda para Apple iPad Pro 10.5 2017 iPad Air 3 2019...'
-tags: 
+tags: tole.es
 actualPrice: 4.57 EUR
 currency: EUR
 price: 4.57

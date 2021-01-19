@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XMNDSHK-es TEEHON Cartera Hombre Cartera RFID Cartera Cuero Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 13.08 EUR
 currency: EUR
 price: 13.08

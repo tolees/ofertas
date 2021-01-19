@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072K56HWZ-es Braun Series 5 Waterflex Wf2S Afeitadora Eléctrica de...'
-tags: 
+tags: tole.es
 actualPrice: 103.39 EUR
 currency: EUR
 price: 103.39

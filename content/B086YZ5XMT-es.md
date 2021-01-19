@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086YZ5XMT-es DeoMeat Cadenas Chupete Clips de Chupete de bebé para...'
-tags: 
+tags: tole.es
 actualPrice: 6.22 EUR
 currency: EUR
 price: 6.22

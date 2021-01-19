@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RPY4N9N-es XJD Patinete Tres 3 Ruedas para Niños de 2 a 10 Años...'
-tags: 
+tags: tole.es
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

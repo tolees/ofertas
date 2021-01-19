@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0872TKP2X-es Rolimate Rompecabezas de Madera para niños Rompecabezas de...'
-tags: 
+tags: tole.es
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

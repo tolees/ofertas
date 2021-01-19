@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YBDRLKB-es Cartera Pepe Jeans Fair Horizontal con Cierre de Clic Negra'
-tags: 
+tags: tole.es
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMLB9QY-es Hode Papel Adhesivo para Muebles Puerta Pared Cocina Papel...'
-tags: 
+tags: tole.es
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

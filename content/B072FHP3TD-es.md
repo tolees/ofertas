@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072FHP3TD-es IBRA - 2m Cable de Antena HDTV Premium | Cable coaxial...'
-tags: 
+tags: tole.es
 actualPrice: 7.73 EUR
 currency: EUR
 price: 7.73

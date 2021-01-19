@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006M6AYXO-es Converse Chuck Taylor Core Lea Ox Zapatillas De Cuero...'
-tags: 
+tags: tole.es
 actualPrice: 48.08 EUR
 currency: EUR
 price: 48.08

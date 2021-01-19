@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0MQIYE-es Waldhausen Fliegenmaske Premium ohne Ohren- mit Nasenschutz'
-tags: 
+tags: tole.es
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

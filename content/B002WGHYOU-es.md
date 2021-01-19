@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002WGHYOU-es Superga 2750 COTU Classic Zapatillas Unisex Beige Ecru 912...'
-tags: 
+tags: tole.es
 actualPrice: 37.8 EUR
 currency: EUR
 price: 37.8

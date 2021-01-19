@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075GDMXP8-es Pioneer SE-E7BT-Y - Auricular Deportivo con Bluetooth...'
-tags: 
+tags: tole.es
 actualPrice: 53.14 EUR
 currency: EUR
 price: 53.14

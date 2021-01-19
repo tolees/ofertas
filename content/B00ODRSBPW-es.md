@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ODRSBPW-es Jabra Evolve 20 UC - Auriculares Estéreo de Comunicaciones...'
-tags: 
+tags: tole.es
 actualPrice: 39.1 EUR
 currency: EUR
 price: 39.1

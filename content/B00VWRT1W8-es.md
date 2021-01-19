@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VWRT1W8-es Ecus Kids colchón cuna para bebé anti-plagiocefalia - Pigü...'
-tags: 
+tags: tole.es
 actualPrice: 110.62 EUR
 currency: EUR
 price: 110.62

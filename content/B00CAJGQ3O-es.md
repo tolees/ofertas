@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CAJGQ3O-es Beckham David Beckham Classic Agua de toilette con...'
-tags: 
+tags: tole.es
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000WFFXXC-es 1x2 AgfaPhoto Akku NiMh Micro AAA 900 mAh'
-tags: 
+tags: tole.es
 actualPrice: 1.87 EUR
 currency: EUR
 price: 1.87

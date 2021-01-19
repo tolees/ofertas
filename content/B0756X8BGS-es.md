@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0756X8BGS-es Razer Atheris Ratón Ergonómico para Juegos Gaming con una...'
-tags: 
+tags: tole.es
 actualPrice: 39.7 EUR
 currency: EUR
 price: 39.7

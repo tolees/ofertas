@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004FVA5ZA-es Emsa Clip & Close Conservador Hermético de Plástico...'
-tags: 
+tags: tole.es
 actualPrice: 5.55 EUR
 currency: EUR
 price: 5.55

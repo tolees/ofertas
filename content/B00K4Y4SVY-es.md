@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K4Y4SVY-es Inazuma Eleven Go: Luz'
-tags: 
+tags: tole.es
 actualPrice: 13.8 EUR
 currency: EUR
 price: 13.8

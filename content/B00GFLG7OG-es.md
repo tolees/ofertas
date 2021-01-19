@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GFLG7OG-es Kärcher WD2 - Aspirador seco y húmedo 1000 W depósito...'
-tags: 
+tags: tole.es
 actualPrice: 44.85 EUR
 currency: EUR
 price: 44.85

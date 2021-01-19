@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002KD0WGC-es Paco Rabanne Ultraviolet Agua de perfume Vaporizador 50 ml'
-tags: 
+tags: tole.es
 actualPrice: 43.97 EUR
 currency: EUR
 price: 43.97

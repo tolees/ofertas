@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B7GOI9K-es Eukanuba Adulto Raza pequeña y mediana Rico en cordero y...'
-tags: 
+tags: tole.es
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

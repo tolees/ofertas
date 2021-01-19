@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RP87XZP-es Calvin Klein CK Rev.Adj. New Mono Belt 3.5cm Cinturón...'
-tags: 
+tags: tole.es
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

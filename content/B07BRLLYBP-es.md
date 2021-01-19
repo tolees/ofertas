@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BRLLYBP-es Berglander - Juego de cubiertos 30 piezas plateado negro...'
-tags: 
+tags: tole.es
 actualPrice: 35.09 EUR
 currency: EUR
 price: 35.09

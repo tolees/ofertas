@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HM8QM7S-es CHS Caja de Almacenamiento de máscara portátil Caja de...'
-tags: 
+tags: tole.es
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

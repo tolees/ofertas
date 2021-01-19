@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R49VF6K-es LOL Surprise Pijamas de Manga Corta para niñas Dolls...'
-tags: 
+tags: tole.es
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

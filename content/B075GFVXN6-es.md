@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075GFVXN6-es Triumph True Shape Sensation W01 Sujetador Beige Smooth...'
-tags: 
+tags: tole.es
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PWMD8M1-es Kelme - Zapatillas Precision Elite 2.0'
-tags: 
+tags: tole.es
 actualPrice: 23.96 EUR
 currency: EUR
 price: 23.96

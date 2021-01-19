@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072BNX9T8-es Gigandet Chrono King Reloj Hombres Cronógrafo Analógico...'
-tags: 
+tags: tole.es
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

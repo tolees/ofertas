@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MS9WJB1-es TWBB Sudadera para Hombre Abrigo de la Chaqueta de la...'
-tags: 
+tags: tole.es
 actualPrice: 1.78 EUR
 currency: EUR
 price: 1.78

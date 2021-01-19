@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J5ILLRY-es adidas Originals Stan Smith Zapatillas de Deporte Unisex...'
-tags: 
+tags: tole.es
 actualPrice: 50.68 EUR
 currency: EUR
 price: 50.68

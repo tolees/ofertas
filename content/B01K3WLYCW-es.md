@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K3WLYCW-es Fullmark Model B Correction Tape Gift Box 50-pack'
-tags: 
+tags: tole.es
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V3GNXPH-es PUMA by Scarpe&Scarpe - Scarpe sportive Sport - 9 0 Nero'
-tags: 
+tags: tole.es
 actualPrice: 42.0 EUR
 currency: EUR
 price: 42.0

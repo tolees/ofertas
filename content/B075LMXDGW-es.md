@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075LMXDGW-es adidas CE8097 Balón Hombre Negro S'
-tags: 
+tags: tole.es
 actualPrice: 14.26 EUR
 currency: EUR
 price: 14.26

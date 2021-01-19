@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H56W2ZP-es TOUMEI Mini Proyector Proyector Portátil Android 7.1 DLP...'
-tags: 
+tags: tole.es
 actualPrice: 209.0 EUR
 currency: EUR
 price: 209.0

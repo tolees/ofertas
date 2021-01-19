@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9KWH1B-es Adidas Yatra Zapatillas de Deporte para Mujer Multicolor...'
-tags: 
+tags: tole.es
 actualPrice: 27.48 EUR
 currency: EUR
 price: 27.48

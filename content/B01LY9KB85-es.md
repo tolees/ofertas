@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LY9KB85-es Amzdeal Incubadora Digital 9/12 de Polluelo Huevos...'
-tags: 
+tags: tole.es
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRJGW3K-es Geox J Alben Boy B Zapatillas para Niños Azul Avio/Beige...'
-tags: 
+tags: tole.es
 actualPrice: 27.77 EUR
 currency: EUR
 price: 27.77

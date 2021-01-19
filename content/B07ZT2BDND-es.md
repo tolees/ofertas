@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZT2BDND-es Solar Power Bank 26800mAh Cargador Solar Batería Externa...'
-tags: 
+tags: tole.es
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DN9R7OW-es HiPP Biológico Tarrito Manzana y Plátano con Galletas -...'
-tags: 
+tags: tole.es
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

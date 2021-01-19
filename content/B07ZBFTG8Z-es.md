@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZBFTG8Z-es Hztyyier Pistola de Calor 1800W Pistola de Aire Caliente...'
-tags: 
+tags: tole.es
 actualPrice: 18.39 EUR
 currency: EUR
 price: 18.39

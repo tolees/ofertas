@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0895PFFCL-es Molyflower Caja de conservación Blanca Fresca Caja de...'
-tags: 
+tags: tole.es
 actualPrice: 6.74 EUR
 currency: EUR
 price: 6.74

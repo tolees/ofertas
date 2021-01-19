@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074L4KBXJ-es Skechers Women 12615 Low-Top Trainers Blue Navy Mesh/Hot...'
-tags: 
+tags: tole.es
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

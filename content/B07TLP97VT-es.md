@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLP97VT-es Clarks Paulson Plain Zapatos de Cordones Derby para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 23.37 EUR
 currency: EUR
 price: 23.37

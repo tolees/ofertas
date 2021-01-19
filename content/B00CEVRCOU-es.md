@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CEVRCOU-es Vanguard Endeavor XF 80A - Catalejo en ángulo Zoom de...'
-tags: 
+tags: tole.es
 actualPrice: 296.65 EUR
 currency: EUR
 price: 296.65

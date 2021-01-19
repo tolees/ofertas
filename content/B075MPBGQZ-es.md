@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075MPBGQZ-es MERAKI Vestido Camiseta Slim Fit Mujer Rojo Racing Red Medium'
-tags: 
+tags: tole.es
 actualPrice: 6.3 EUR
 currency: EUR
 price: 6.3

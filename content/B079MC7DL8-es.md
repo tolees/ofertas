@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079MC7DL8-es 24pcs Purpurina Etiquetas Engomadas de Papel Flameco para...'
-tags: 
+tags: tole.es
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

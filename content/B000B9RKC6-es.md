@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000B9RKC6-es Brüder Mannesmann M12588 SDS-Plus - Juego de cinceles y...'
-tags: 
+tags: tole.es
 actualPrice: 25.33 EUR
 currency: EUR
 price: 25.33

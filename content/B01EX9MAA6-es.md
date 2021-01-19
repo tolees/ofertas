@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EX9MAA6-es LEDKIA LIGHTING Lámpara Colgante Jagger Negro'
-tags: 
+tags: tole.es
 actualPrice: 35.83 EUR
 currency: EUR
 price: 35.83

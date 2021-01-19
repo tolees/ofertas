@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083Q32HRR-es Desodorante desodorante natural Perfume sólido...'
-tags: 
+tags: tole.es
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

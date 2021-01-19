@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q2SM2F1-es 15M LED Luz de tira flexible LED Neon Flex Tube 120led...'
-tags: 
+tags: tole.es
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

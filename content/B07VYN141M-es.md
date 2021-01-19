@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VYN141M-es Skechers Ultra Groove Pure Vision Zapatillas para Mujer...'
-tags: 
+tags: tole.es
 actualPrice: 43.3 EUR
 currency: EUR
 price: 43.3

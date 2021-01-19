@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBKH7QN-es Luces Solares 【1200lm 5200mAh Potente Versión 2 Piezas】...'
-tags: 
+tags: tole.es
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

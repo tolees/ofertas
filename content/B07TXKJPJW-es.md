@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXKJPJW-es Kit de cuidado de la barba para hombres kit de cuidado de...'
-tags: 
+tags: tole.es
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

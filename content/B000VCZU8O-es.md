@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VCZU8O-es Stanley 1-51-937 Martillo de carpintero'
-tags: 
+tags: tole.es
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

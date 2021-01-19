@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y8DHKDF-es Konesky Portátil Podómetro Digital para Caminar 3D...'
-tags: 
+tags: tole.es
 actualPrice: 9.29 EUR
 currency: EUR
 price: 9.29

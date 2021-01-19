@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T4VDNHV-es Nike Barcelona Camiseta Hombre Amarillo 2ª Equipación M'
-tags: 
+tags: tole.es
 actualPrice: 32.1 EUR
 currency: EUR
 price: 32.1

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HQ1KD4D-es Barra De Labios Mate Permanente De Pintalabios Impermeable...'
-tags: 
+tags: tole.es
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

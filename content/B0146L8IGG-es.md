@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0146L8IGG-es Dolce & Gabbana The One Essence De Parfum 65ml'
-tags: 
+tags: tole.es
 actualPrice: 65.1 EUR
 currency: EUR
 price: 65.1

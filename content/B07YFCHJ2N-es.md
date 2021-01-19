@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YFCHJ2N-es incarpo Zapatillas Casa Mujer Lana de Coral Zapatillas de...'
-tags: 
+tags: tole.es
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

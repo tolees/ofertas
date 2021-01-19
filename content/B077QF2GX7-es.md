@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077QF2GX7-es Aigostar Fighter 32JVT – 2400W Secador de pelo profesional...'
-tags: 
+tags: tole.es
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

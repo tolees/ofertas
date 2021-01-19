@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DSYT86B-es ISDIN FOTOPROTECTOR PEDIATRICS EXTREM SPF50+ LOCION SPRAY...'
-tags: 
+tags: tole.es
 actualPrice: 17.05 EUR
 currency: EUR
 price: 17.05

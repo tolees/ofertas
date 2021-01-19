@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KTAP6K-es Edding 212342 - Marcador con punta cónica color azul'
-tags: 
+tags: tole.es
 actualPrice: 2.9 EUR
 currency: EUR
 price: 2.9

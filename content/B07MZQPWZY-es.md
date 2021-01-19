@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQPWZY-es Pepe Jeans London Porter Boot Botas Desert para Hombre Tan...'
-tags: 
+tags: tole.es
 actualPrice: 38.09 EUR
 currency: EUR
 price: 38.09

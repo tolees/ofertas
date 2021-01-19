@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0812GBGGH-es Asics Gel-Cumulus 21 Running Shoe Mens - Midnight/Midnight...'
-tags: 
+tags: tole.es
 actualPrice: 97.65 EUR
 currency: EUR
 price: 97.65

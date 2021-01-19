@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074WM3N4T-es find. Pantalón de Traje Ajustado Hombre Verde Teal W32/L31'
-tags: 
+tags: tole.es
 actualPrice: 8.4 EUR
 currency: EUR
 price: 8.4

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RJKWBCG-es Tommy Hilfiger Basic Hilfiger Hoody Sudadera Azul Blue Dw5...'
-tags: 
+tags: tole.es
 actualPrice: 72.21 EUR
 currency: EUR
 price: 72.21

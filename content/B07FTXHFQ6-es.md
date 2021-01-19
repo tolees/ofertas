@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FTXHFQ6-es Pour Moi? Ditto Underwired Bra Sujetador con Aros Blanco...'
-tags: 
+tags: tole.es
 actualPrice: 16.04 EUR
 currency: EUR
 price: 16.04

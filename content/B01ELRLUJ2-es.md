@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ELRLUJ2-es Suecos Alma Zapatillas de Deporte Unisex Adulto Blanco...'
-tags: 
+tags: tole.es
 actualPrice: 46.07 EUR
 currency: EUR
 price: 46.07

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001U3ZOVG-es Cables To Go Mini Gender Changer - Cambiador hembra...'
-tags: 
+tags: tole.es
 actualPrice: 5.31 EUR
 currency: EUR
 price: 5.31

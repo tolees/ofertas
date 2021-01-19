@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YWBHTDW-es PHYLES Tablero de Dibujo Mágico Pizarra 3D Mágico con...'
-tags: 
+tags: tole.es
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

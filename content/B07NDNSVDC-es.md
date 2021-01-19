@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDNSVDC-es G-STAR RAW Graphic 15 Core Round Neck Sudadera Azul...'
-tags: 
+tags: tole.es
 actualPrice: 14.8 EUR
 currency: EUR
 price: 14.8

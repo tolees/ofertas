@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D8ZZVKC-es Asmuse Multi Efecto Pedal Guitarra Eléctrica MG100...'
-tags: 
+tags: tole.es
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

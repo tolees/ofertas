@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SR7ZX99-es Cadena Chupetes Personalizado con Nombre Koala Mordedor...'
-tags: 
+tags: tole.es
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

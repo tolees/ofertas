@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0GMFIO-es Marcador STABILO BOSS Original Pastel - Caja con 10...'
-tags: 
+tags: tole.es
 actualPrice: 7.69 EUR
 currency: EUR
 price: 7.69

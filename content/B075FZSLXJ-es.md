@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075FZSLXJ-es Salomon Wings Flyte 2 GTX Zapatillas de Running para...'
-tags: 
+tags: tole.es
 actualPrice: 87.99 EUR
 currency: EUR
 price: 87.99

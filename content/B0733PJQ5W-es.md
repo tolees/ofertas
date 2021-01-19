@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0733PJQ5W-es 4X PS4 analógico controlador de joystick tapa tapa palanca...'
-tags: 
+tags: tole.es
 actualPrice: 1.53 EUR
 currency: EUR
 price: 1.53

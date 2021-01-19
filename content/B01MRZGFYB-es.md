@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRZGFYB-es L Oreal Paris Dermo Expertise Revitalift Láser x3 Crema de...'
-tags: 
+tags: tole.es
 actualPrice: 13.93 EUR
 currency: EUR
 price: 13.93

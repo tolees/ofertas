@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0058NVXGO-es Veet Tarro Cera Depilatoria Tibia de Resultados...'
-tags: 
+tags: tole.es
 actualPrice: 9.25 EUR
 currency: EUR
 price: 9.25

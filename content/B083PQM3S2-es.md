@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083PQM3S2-es Muebles Marieta Old Style now Silla Bunny Terracota'
-tags: 
+tags: tole.es
 actualPrice: 56.1 EUR
 currency: EUR
 price: 56.1

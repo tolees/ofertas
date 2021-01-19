@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CBPKW6S-es Victoria Basket Lona Plataforma Autoclave Zapatillas para...'
-tags: 
+tags: tole.es
 actualPrice: 30.3 EUR
 currency: EUR
 price: 30.3

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089DB26QZ-es Ponacat Cámara Web Usb Cámara Web con Micrófono Monitoreo...'
-tags: 
+tags: tole.es
 actualPrice: 14.38 EUR
 currency: EUR
 price: 14.38

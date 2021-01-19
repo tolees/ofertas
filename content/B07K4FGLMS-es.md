@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K4FGLMS-es Cabin Max Manhattan Stowaway XL – Maleta de Cabina para...'
-tags: 
+tags: tole.es
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

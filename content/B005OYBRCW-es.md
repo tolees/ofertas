@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005OYBRCW-es Roncato Maleta Pequeña XS Rigida Light - Cabina cm. 55 x...'
-tags: 
+tags: tole.es
 actualPrice: 90.3 EUR
 currency: EUR
 price: 90.3

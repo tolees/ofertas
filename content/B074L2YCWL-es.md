@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074L2YCWL-es SELECTED HOMME Shhoneluca St Pants Noos Pantalones Azul...'
-tags: 
+tags: tole.es
 actualPrice: 5.85 EUR
 currency: EUR
 price: 5.85

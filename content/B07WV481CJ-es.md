@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WV481CJ-es Aigostar BlueFire 30PKZ- Placa de inducción portátil 2000...'
-tags: 
+tags: tole.es
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

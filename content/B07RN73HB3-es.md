@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RN73HB3-es Oral-B Junior - Cepillo Eléctrico Recargable con...'
-tags: 
+tags: tole.es
 actualPrice: 35.09 EUR
 currency: EUR
 price: 35.09

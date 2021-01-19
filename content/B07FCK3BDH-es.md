@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FCK3BDH-es OurLeeme Cepillos para uñas Nail Art Esponja Cepillo...'
-tags: 
+tags: tole.es
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

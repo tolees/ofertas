@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017RQ7OUS-es Babolat Custom Damp X2 Amortiguador de vibración de Tenis...'
-tags: 
+tags: tole.es
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010LSZUIM-es Brabantia 105340 Cepillo para la Ropa Gris'
-tags: 
+tags: tole.es
 actualPrice: 4.04 EUR
 currency: EUR
 price: 4.04

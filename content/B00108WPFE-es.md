@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00108WPFE-es Nixon A045511-00 - Reloj analógico de cuarzo para hombre...'
-tags: 
+tags: tole.es
 actualPrice: 66.12 EUR
 currency: EUR
 price: 66.12

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089LNM5FC-es Auriculares inalámbricos TW12 Bluetooth 5.0 True negro'
-tags: 
+tags: tole.es
 actualPrice: 14.3 EUR
 currency: EUR
 price: 14.3

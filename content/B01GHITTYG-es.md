@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GHITTYG-es Plantronics Voyager 5200 Monoaural gancho de oreja Negro...'
-tags: 
+tags: tole.es
 actualPrice: 78.09 EUR
 currency: EUR
 price: 78.09

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078YG66SG-es Lorus Reloj Digital para Unisex de Cuarzo con Correa en...'
-tags: 
+tags: tole.es
 actualPrice: 18.38 EUR
 currency: EUR
 price: 18.38

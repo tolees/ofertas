@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PFJ1L2W-es EACLL Bombillas LED GU10 2700K Blanco Cálido 5W 450...'
-tags: 
+tags: tole.es
 actualPrice: 14.96 EUR
 currency: EUR
 price: 14.96

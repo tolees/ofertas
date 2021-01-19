@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000QJF2Z8-es Merrell Waterpro Maipo 2 Zapatillas Impermeables para...'
-tags: 
+tags: tole.es
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

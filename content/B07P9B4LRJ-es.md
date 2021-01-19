@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P9B4LRJ-es ziitop Aqua Shoes Escarpines Hombres Mujer Niños Zapatos...'
-tags: 
+tags: tole.es
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

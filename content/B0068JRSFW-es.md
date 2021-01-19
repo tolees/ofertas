@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0068JRSFW-es Ravensburger- Dinosaurier Memory diseño Dinosaurios...'
-tags: 
+tags: tole.es
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

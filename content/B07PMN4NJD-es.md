@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PMN4NJD-es Giochi Preziosi LLU93000 LOL Surprise - Sorpresa...'
-tags: 
+tags: tole.es
 actualPrice: 122.03 EUR
 currency: EUR
 price: 122.03

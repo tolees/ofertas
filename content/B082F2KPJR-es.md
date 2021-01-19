@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082F2KPJR-es Martin cocoa Hombre Impermeable Chaqueta Al Aire Libre...'
-tags: 
+tags: tole.es
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079DRQ3FZ-es DYNASONIC - Altavoz Bluetooth con Karaoke 10W |...'
-tags: 
+tags: tole.es
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

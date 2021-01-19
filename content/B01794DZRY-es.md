@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01794DZRY-es Jata CA290 Cafetera de Goteo Filtro permanente Antigoteo...'
-tags: 
+tags: tole.es
 actualPrice: 21.2 EUR
 currency: EUR
 price: 21.2

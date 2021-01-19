@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H74ZRKW-es DEK - Zapatillas Deportivas de Memory Foam para Chico...'
-tags: 
+tags: tole.es
 actualPrice: 18.7 EUR
 currency: EUR
 price: 18.7

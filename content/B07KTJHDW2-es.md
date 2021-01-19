@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTJHDW2-es Scuderia Ferrari Reloj de pulsera Analógico Para Unisex...'
-tags: 
+tags: tole.es
 actualPrice: 48.3 EUR
 currency: EUR
 price: 48.3

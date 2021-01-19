@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KJZJHSX-es Safety 1st Rainbow Silla de Paseo ultraligera pesa solo 6...'
-tags: 
+tags: tole.es
 actualPrice: 46.75 EUR
 currency: EUR
 price: 46.75

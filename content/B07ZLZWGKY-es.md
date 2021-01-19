@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZLZWGKY-es NMDD Ornament Modernen Minimalistischen Mode Mädchen Band...'
-tags: 
+tags: tole.es
 actualPrice: 77.99 EUR
 currency: EUR
 price: 77.99

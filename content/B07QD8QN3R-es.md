@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QD8QN3R-es Dickie Toys- Toy Story 4 Buggy Crash Buzz radiocontrol...'
-tags: 
+tags: tole.es
 actualPrice: 36.07 EUR
 currency: EUR
 price: 36.07

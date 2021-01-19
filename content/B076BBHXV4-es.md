@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076BBHXV4-es Verdulero Metal 4 Pisos Bianca 81x37x26cm'
-tags: 
+tags: tole.es
 actualPrice: 14.15 EUR
 currency: EUR
 price: 14.15

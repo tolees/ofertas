@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FP4SB89-es PUMA Carson 2 Knit NM Zapatillas de Running para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 19.82 EUR
 currency: EUR
 price: 19.82

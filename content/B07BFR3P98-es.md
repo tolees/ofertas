@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BFR3P98-es Microsoft Surface Book 2 - Ordenador portátil convertible...'
-tags: 
+tags: tole.es
 actualPrice: 1566.55 EUR
 currency: EUR
 price: 1566.55

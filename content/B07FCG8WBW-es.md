@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FCG8WBW-es Uverbon Manguera de Jardín Extensible 50FT/ 15M Manguera...'
-tags: 
+tags: tole.es
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

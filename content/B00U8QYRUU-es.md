@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U8QYRUU-es Beter - Pinzas con punta roma recta - 10.4 cm - 1 unidad'
-tags: 
+tags: tole.es
 actualPrice: 4.72 EUR
 currency: EUR
 price: 4.72

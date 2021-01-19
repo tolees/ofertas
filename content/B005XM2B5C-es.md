@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005XM2B5C-es Instant 2610731 - Paquete de 12 temperas sólidas de...'
-tags: 
+tags: tole.es
 actualPrice: 3.95 EUR
 currency: EUR
 price: 3.95

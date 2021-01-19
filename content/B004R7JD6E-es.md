@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004R7JD6E-es Australian Gold Intensifier Aceite - 237 ml'
-tags: 
+tags: tole.es
 actualPrice: 8.36 EUR
 currency: EUR
 price: 8.36

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GF95ZFB-es Festina Reloj Analógico para Mujer de Cuarzo con Correa en...'
-tags: 
+tags: tole.es
 actualPrice: 85.4 EUR
 currency: EUR
 price: 85.4

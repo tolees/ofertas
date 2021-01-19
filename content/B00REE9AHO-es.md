@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00REE9AHO-es Piquadro BV3148OS/G Trolley para portátiles 38 x 21 x 53...'
-tags: 
+tags: tole.es
 actualPrice: 214.82 EUR
 currency: EUR
 price: 214.82

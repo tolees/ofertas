@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073SCTYYY-es Ardistel - N-Switch Game Traveler Deluxe Travel Case NNS51...'
-tags: 
+tags: tole.es
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

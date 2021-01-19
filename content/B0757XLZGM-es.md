@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0757XLZGM-es Edge Entertainment-51st State Set Completo EEPG5101'
-tags: 
+tags: tole.es
 actualPrice: 28.49 EUR
 currency: EUR
 price: 28.49

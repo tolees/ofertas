@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TCP7TVH-es Finocam Espiral Design Collection Elegant Agenda 2020 155...'
-tags: 
+tags: tole.es
 actualPrice: 11.75 EUR
 currency: EUR
 price: 11.75

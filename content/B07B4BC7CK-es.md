@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B4BC7CK-es Paranix Loción. Tratamiento para Piojos y Liendres -...'
-tags: 
+tags: tole.es
 actualPrice: 8.73 EUR
 currency: EUR
 price: 8.73

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S196TRJ-es chaqlin - Juego de 3 bolsas de escuela para niños mochila...'
-tags: 
+tags: tole.es
 actualPrice: 22.65 EUR
 currency: EUR
 price: 22.65

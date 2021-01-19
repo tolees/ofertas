@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BHD5CJP-es Ringke Funda Xiaomi REDMI 5 Plus [Fusion] Claro PC TPU...'
-tags: 
+tags: tole.es
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

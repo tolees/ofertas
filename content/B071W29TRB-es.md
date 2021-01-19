@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071W29TRB-es Ty Beanie Boos Twiggy-Búho Rosa 15 cm 37158TY Color United...'
-tags: 
+tags: tole.es
 actualPrice: 5.6 EUR
 currency: EUR
 price: 5.6

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087FWTF2Q-es TOUS Pulsera Good Vibes Mama de Plata Vermeil y rubí'
-tags: 
+tags: tole.es
 actualPrice: 112.0 EUR
 currency: EUR
 price: 112.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DF8NK5X-es Jabra Talk 15 – Auricular Monoaural In-Ear Llamadas...'
-tags: 
+tags: tole.es
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

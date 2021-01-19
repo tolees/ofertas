@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FTXTMMN-es Adidas 3MC Zapatillas de Skateboarding para Hombre Azul...'
-tags: 
+tags: tole.es
 actualPrice: 40.51 EUR
 currency: EUR
 price: 40.51

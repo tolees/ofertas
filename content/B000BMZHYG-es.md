@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000BMZHYG-es HP 503A Cartucho de tóner original LaserJet para...'
-tags: 
+tags: tole.es
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

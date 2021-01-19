@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RMG5ZV-es Ecovacs Deebot Slim2 Robot Aspirador 3 en 1: barre aspira...'
-tags: 
+tags: tole.es
 actualPrice: 168.6 EUR
 currency: EUR
 price: 168.6

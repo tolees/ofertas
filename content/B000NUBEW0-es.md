@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000NUBEW0-es XLC 2501810002 Pedal para BTT PD-M01'
-tags: 
+tags: tole.es
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

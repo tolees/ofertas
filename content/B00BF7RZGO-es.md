@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BF7RZGO-es Piz Buin - Protección Solar After Sun Loción Hidratante...'
-tags: 
+tags: tole.es
 actualPrice: 9.6 EUR
 currency: EUR
 price: 9.6

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078NJRJQL-es Asics Gel-Mission 3 Zapatillas de Marcha Nórdica para...'
-tags: 
+tags: tole.es
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

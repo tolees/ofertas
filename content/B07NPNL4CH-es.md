@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPNL4CH-es Besrey Mochilas Senderismo Mochilas Portabebés Portador de...'
-tags: 
+tags: tole.es
 actualPrice: 80.99 EUR
 currency: EUR
 price: 80.99

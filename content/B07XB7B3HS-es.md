@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XB7B3HS-es ERIK - Calendario de pared 2020 La Casa de Papel 30 x 30 cm'
-tags: 
+tags: tole.es
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

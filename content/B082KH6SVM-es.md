@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082KH6SVM-es Funda para teléfono Impermeable al Aire Libre con Correa...'
-tags: 
+tags: tole.es
 actualPrice: 1.62 EUR
 currency: EUR
 price: 1.62

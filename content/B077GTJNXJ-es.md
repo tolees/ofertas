@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077GTJNXJ-es FR- TEC - Protector Silicona + Grips Camo Navy para mando...'
-tags: 
+tags: tole.es
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000NG7YKU-es Casio Reloj Analógico-Digital para Hombre de Cuarzo con...'
-tags: 
+tags: tole.es
 actualPrice: 96.0 EUR
 currency: EUR
 price: 96.0

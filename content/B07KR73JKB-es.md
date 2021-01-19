@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KR73JKB-es Under Armour Unstoppable Move Lightjogger Pantalones...'
-tags: 
+tags: tole.es
 actualPrice: 28.42 EUR
 currency: EUR
 price: 28.42

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083LJ8MN3-es K9CK Luces LED para Lego Technic Mack Anthem 42078 Kit de...'
-tags: 
+tags: tole.es
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

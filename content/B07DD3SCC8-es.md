@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DD3SCC8-es L.O.L Surprise Bling - Modelo surtido sorpresa Giochi...'
-tags: 
+tags: tole.es
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PVQKTDZ-es Under Armour UA HOVR Sonic 3 Zapatillas Ligeras para...'
-tags: 
+tags: tole.es
 actualPrice: 54.39 EUR
 currency: EUR
 price: 54.39

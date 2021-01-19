@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R3L8GGN-es Banpresto - The Grandline Men Vol.4 Bandai 85626'
-tags: 
+tags: tole.es
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

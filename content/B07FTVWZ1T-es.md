@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FTVWZ1T-es Lee Scarlett Cropped Jeans Azul High Blue Yon 29W / 31L...'
-tags: 
+tags: tole.es
 actualPrice: 46.49 EUR
 currency: EUR
 price: 46.49

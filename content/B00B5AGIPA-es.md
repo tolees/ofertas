@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B5AGIPA-es Cressi Tauchmaske Erwachsen F1 Clear Frameless Gafas de...'
-tags: 
+tags: tole.es
 actualPrice: 20 EUR
 currency: EUR
 price: 20

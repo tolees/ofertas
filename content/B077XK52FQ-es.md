@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XK52FQ-es Under Armour Sportstyle Pique Track Jacket Chaqueta Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

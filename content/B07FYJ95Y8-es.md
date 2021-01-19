@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FYJ95Y8-es YACUN Vestido Lactancia Maternidad de Noche Camisón Verano...'
-tags: 
+tags: tole.es
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

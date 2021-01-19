@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078THK9WD-es Edge Entertainment- Arcadia Quest: Infierno - Español Edge...'
-tags: 
+tags: tole.es
 actualPrice: 74.96 EUR
 currency: EUR
 price: 74.96

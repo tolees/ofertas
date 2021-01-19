@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF4QV73-es Levi s 501 High Rise Short Pantalones Cortos Blanco In The...'
-tags: 
+tags: tole.es
 actualPrice: 41.25 EUR
 currency: EUR
 price: 41.25

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GWVF3LM-es FitFlop Allegro Bailarinas con Punta Cerrada para Mujer...'
-tags: 
+tags: tole.es
 actualPrice: 18.5 EUR
 currency: EUR
 price: 18.5

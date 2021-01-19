@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GEEB1VS-es Columbia Tech Shade Hat Gorra Unisex Adulto Beige Fossil...'
-tags: 
+tags: tole.es
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

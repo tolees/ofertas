@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009HNKP9M-es Rayen 6061 - Funda para aire acondicionado con doble...'
-tags: 
+tags: tole.es
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75

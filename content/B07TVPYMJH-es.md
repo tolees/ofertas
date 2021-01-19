@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVPYMJH-es Kipling Arto S Bolso bandolera para Mujer Azul Wave Blue...'
-tags: 
+tags: tole.es
 actualPrice: 37.03 EUR
 currency: EUR
 price: 37.03

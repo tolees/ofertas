@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CRJXCX9-es American Tourister Holiday Heat - Upright Equipaje de Mano...'
-tags: 
+tags: tole.es
 actualPrice: 48.84 EUR
 currency: EUR
 price: 48.84

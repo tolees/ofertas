@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LPQ2DBG-es Babaria Vinagre Champú Protección Natural Cabello 600 ml 1...'
-tags: 
+tags: tole.es
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

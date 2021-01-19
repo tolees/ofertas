@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HVN65LF-es MSI Optix MAG341CQ - Monitor Gaming Curvo de 34" UWQHD LED...'
-tags: 
+tags: tole.es
 actualPrice: 389.74 EUR
 currency: EUR
 price: 389.74

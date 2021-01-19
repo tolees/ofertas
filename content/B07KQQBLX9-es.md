@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQQBLX9-es Diesel F-DISCOVER CROSS Mochila para Hombre Negro Black...'
-tags: 
+tags: tole.es
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

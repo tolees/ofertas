@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FMRHY7M-es Smartwatch Reloj Inteligente Mujer Hombre Niños Fitness...'
-tags: 
+tags: tole.es
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

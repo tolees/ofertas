@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078HXSXFH-es Pokémon Crystal - Edición Limitada Código Digital'
-tags: 
+tags: tole.es
 actualPrice: 7.18 EUR
 currency: EUR
 price: 7.18

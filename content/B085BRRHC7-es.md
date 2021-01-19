@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085BRRHC7-es Luz Solar Exterior 210LED AOPAWA [Actualizada 2000...'
-tags: 
+tags: tole.es
 actualPrice: 25.94 EUR
 currency: EUR
 price: 25.94

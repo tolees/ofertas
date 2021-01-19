@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000Y8XCA8-es Bahco SL25 JGO.Llaves DE Vaso 1/4 0 W 0 V multicolor 10.2...'
-tags: 
+tags: tole.es
 actualPrice: 22.84 EUR
 currency: EUR
 price: 22.84

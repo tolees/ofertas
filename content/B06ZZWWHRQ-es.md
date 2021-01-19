@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06ZZWWHRQ-es YAZILIND 18 k chapado en oro mujer joyer¨ªa exquisita...'
-tags: 
+tags: tole.es
 actualPrice: 1.08 EUR
 currency: EUR
 price: 1.08

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JYVJY3Q-es Fintie SlimShell Funda para Kindle Paperwhite 10.ª...'
-tags: 
+tags: tole.es
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

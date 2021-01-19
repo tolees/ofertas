@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BYR8TWH-es Chicco - Barra de alivio post picaduras mosquito para...'
-tags: 
+tags: tole.es
 actualPrice: 4.4 EUR
 currency: EUR
 price: 4.4

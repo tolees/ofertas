@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BRH2VFR-es TACKLIFE Pistola de Riego Pistola de Agua para Manguera de...'
-tags: 
+tags: tole.es
 actualPrice: 8.76 EUR
 currency: EUR
 price: 8.76

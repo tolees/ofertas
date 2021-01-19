@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B4GB3KU-es Vans Atwood Canvas Zapatillas para Hombre Negro Black 186...'
-tags: 
+tags: tole.es
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079ZBLNH6-es BRA Efficient Iron - Parrilla redonda lisa 32 cm fabricada...'
-tags: 
+tags: tole.es
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

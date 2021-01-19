@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z7NJQ8Y-es ZHENROG EMS Masajeador de Pie Estimulador de Pie...'
-tags: 
+tags: tole.es
 actualPrice: 28.9 EUR
 currency: EUR
 price: 28.9

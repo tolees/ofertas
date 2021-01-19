@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KTCEW8-es Duracell 2450 - Pila especial de botón de litio de 3 V...'
-tags: 
+tags: tole.es
 actualPrice: 2.24 EUR
 currency: EUR
 price: 2.24

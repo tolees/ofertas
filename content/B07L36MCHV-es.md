@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L36MCHV-es AmazonBasics - Perchero de pared 8 ganchos modernos Nogal...'
-tags: 
+tags: tole.es
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

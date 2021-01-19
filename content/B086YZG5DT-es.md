@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086YZG5DT-es Fifet Chupete Chupete Clips Cadenas x 4 para Bebés y Niños'
-tags: 
+tags: tole.es
 actualPrice: 6.22 EUR
 currency: EUR
 price: 6.22

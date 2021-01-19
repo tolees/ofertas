@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NAACDFC-es DKN Colchoneta Tri-Fold Negro'
-tags: 
+tags: tole.es
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DVMQNXW-es Soporte Monitor de Ordenador Madera Elevador Monitor...'
-tags: 
+tags: tole.es
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

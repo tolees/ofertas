@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0747LQF4T-es Antorcha de hormigón con “mecha permanente” Tamaño...'
-tags: 
+tags: tole.es
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

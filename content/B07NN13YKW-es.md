@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NN13YKW-es Nike Court Vision LO Zapatillas para Hombre Negro...'
-tags: 
+tags: tole.es
 actualPrice: 48.25 EUR
 currency: EUR
 price: 48.25

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078HDHNXT-es Smile 111720640199 - Bolsa para ordenadores portátiles de...'
-tags: 
+tags: tole.es
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

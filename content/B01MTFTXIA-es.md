@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MTFTXIA-es Brother QL-800 - Impresora de Etiquetas USB 2.0 Cortador...'
-tags: 
+tags: tole.es
 actualPrice: 66.0 EUR
 currency: EUR
 price: 66.0

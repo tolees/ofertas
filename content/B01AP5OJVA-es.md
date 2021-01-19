@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AP5OJVA-es Wilson W Team RD Falda de Tenis Mujer Rojo L'
-tags: 
+tags: tole.es
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004EXON0W-es Fifty Pounds Ginebra - 700 ml'
-tags: 
+tags: tole.es
 actualPrice: 13.84 EUR
 currency: EUR
 price: 13.84

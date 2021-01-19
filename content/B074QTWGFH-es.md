@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074QTWGFH-es Vans Ultrarange Rapidweld Zapatillas Unisex Adulto Negro...'
-tags: 
+tags: tole.es
 actualPrice: 72.98 EUR
 currency: EUR
 price: 72.98

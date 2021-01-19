@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083QXPS3C-es Funda Universal para Tableta portátil Funda Ultra Suave...'
-tags: 
+tags: tole.es
 actualPrice: 1.58 EUR
 currency: EUR
 price: 1.58

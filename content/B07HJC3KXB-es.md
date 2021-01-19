@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HJC3KXB-es Funko- Pop Movie Daniel Craig 007-James Bond Figura...'
-tags: 
+tags: tole.es
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

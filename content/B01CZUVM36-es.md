@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CZUVM36-es American Tourister- Funshine spinner 4 ruedas 55/20...'
-tags: 
+tags: tole.es
 actualPrice: 59.12 EUR
 currency: EUR
 price: 59.12

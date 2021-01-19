@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DCHG6MS-es Maserati Reloj Cronógrafo de Cuarzo para Hombre con Correa...'
-tags: 
+tags: tole.es
 actualPrice: 137.75 EUR
 currency: EUR
 price: 137.75

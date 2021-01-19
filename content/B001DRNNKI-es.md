@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001DRNNKI-es MANN-FILTER CUK 2939 Habitáculo Filtro antipolen con...'
-tags: 
+tags: tole.es
 actualPrice: 11.12 EUR
 currency: EUR
 price: 11.12

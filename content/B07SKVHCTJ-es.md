@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SKVHCTJ-es TINYAT Riñonera Mujer Cinturón Riñonera Sling - Bolsillo...'
-tags: 
+tags: tole.es
 actualPrice: 9.43 EUR
 currency: EUR
 price: 9.43

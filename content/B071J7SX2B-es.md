@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071J7SX2B-es Vampyr'
-tags: 
+tags: tole.es
 actualPrice: 20.42 EUR
 currency: EUR
 price: 20.42

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009S1YVIO-es Vans Atwood Canvas Sneaker para Hombre Azul Navy/White 4k1...'
-tags: 
+tags: tole.es
 actualPrice: 40.41 EUR
 currency: EUR
 price: 40.41

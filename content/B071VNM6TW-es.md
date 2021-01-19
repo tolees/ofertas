@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071VNM6TW-es Asics Gel-Pulse 9 G-TX T7d9n-3390 Zapatillas de...'
-tags: 
+tags: tole.es
 actualPrice: 61.91 EUR
 currency: EUR
 price: 61.91

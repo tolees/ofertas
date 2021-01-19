@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IN42K7Q-es Kärcher 1.673-228.0 Limpiador de alta presión 1400 W...'
-tags: 
+tags: tole.es
 actualPrice: 86.63 EUR
 currency: EUR
 price: 86.63

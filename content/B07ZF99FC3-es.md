@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZF99FC3-es RioRiva En calcetines para hombre de envoltura de regalos...'
-tags: 
+tags: tole.es
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

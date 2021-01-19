@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DPNNDF4-es Clarks Un Cosmo Step Zapatos de Tacón para Mujer Negro...'
-tags: 
+tags: tole.es
 actualPrice: 40.49 EUR
 currency: EUR
 price: 40.49

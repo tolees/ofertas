@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNN7TSH-es Tommy Hilfiger Tommy Regular Polo Azul Sail Blue Small...'
-tags: 
+tags: tole.es
 actualPrice: 33.35 EUR
 currency: EUR
 price: 33.35

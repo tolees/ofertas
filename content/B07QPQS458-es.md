@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QPQS458-es Pistola de Silicona G★LAXIA Pistola de Pegar 100 W Con...'
-tags: 
+tags: tole.es
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

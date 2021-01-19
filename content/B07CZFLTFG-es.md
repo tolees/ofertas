@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZFLTFG-es Asics Gel-Lyte Zapatillas para Mujer Blanco White/White...'
-tags: 
+tags: tole.es
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

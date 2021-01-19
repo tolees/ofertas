@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0764MPWZT-es Kipling SILEN Bolso bandolera para Mujer Negro True Black...'
-tags: 
+tags: tole.es
 actualPrice: 37.4 EUR
 currency: EUR
 price: 37.4

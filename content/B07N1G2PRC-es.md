@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1G2PRC-es Kipling HONEST PACK - Bolsa de viaje 1 liters Morado DARK...'
-tags: 
+tags: tole.es
 actualPrice: 26.07 EUR
 currency: EUR
 price: 26.07

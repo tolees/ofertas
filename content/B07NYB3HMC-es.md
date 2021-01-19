@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NYB3HMC-es Satechi Ratón Bluetooth M1 Inalámbrico de Aluminio -...'
-tags: 
+tags: tole.es
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

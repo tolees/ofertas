@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RFR783D-es Tommy Hilfiger Longline Bra Sujetador con Push-up Azul...'
-tags: 
+tags: tole.es
 actualPrice: 28.49 EUR
 currency: EUR
 price: 28.49

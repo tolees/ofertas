@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RFMIFLC-es 111D12-27 - Escuadra Angulo Bicr 40Mm 4 Uds E'
-tags: 
+tags: tole.es
 actualPrice: 1.56 EUR
 currency: EUR
 price: 1.56

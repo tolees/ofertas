@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076DFY62W-es Metronic 477144 - Radio CD-mp3 y Reproductor de CD...'
-tags: 
+tags: tole.es
 actualPrice: 29.69 EUR
 currency: EUR
 price: 29.69

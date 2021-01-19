@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076MTNJCR-es Bella Aurora Splendor 10 Crema Facial Hidratante Anti-Edad...'
-tags: 
+tags: tole.es
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

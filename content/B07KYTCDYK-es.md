@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KYTCDYK-es iTieTie 2-Unidades Protector de Pantalla para Pixel 3 XL...'
-tags: 
+tags: tole.es
 actualPrice: 6.05 EUR
 currency: EUR
 price: 6.05

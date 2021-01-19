@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012FU5IUO-es PANOZON Nuevo Corpiño de Encaje para Mujer de Corsés de...'
-tags: 
+tags: tole.es
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

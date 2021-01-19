@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XJ62R9N-es Skechers Uno Zapatillas para Hombre Negro Black...'
-tags: 
+tags: tole.es
 actualPrice: 25.96 EUR
 currency: EUR
 price: 25.96

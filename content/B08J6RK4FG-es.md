@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08J6RK4FG-es Panamar Bolsa para portátil de 13 Pulgadas Bolsa Repelente...'
-tags: 
+tags: tole.es
 actualPrice: 3.39 EUR
 currency: EUR
 price: 3.39

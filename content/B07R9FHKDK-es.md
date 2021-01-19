@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R9FHKDK-es JACK & JONES Jfwduston PU Combo Botas Chukka para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 14.94 EUR
 currency: EUR
 price: 14.94

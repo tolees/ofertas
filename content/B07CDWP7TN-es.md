@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CDWP7TN-es Sotech Herramienta Multifunción de Jardinería 5 en 1...'
-tags: 
+tags: tole.es
 actualPrice: 194.89 EUR
 currency: EUR
 price: 194.89

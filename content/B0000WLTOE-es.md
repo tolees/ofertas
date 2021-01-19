@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0000WLTOE-es Dickies Original 874 Work Pants Pantalones Para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073ZDGXJB-es Remington Keratin Protect CI83V6 Rizador Barril de 19 - 28...'
-tags: 
+tags: tole.es
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

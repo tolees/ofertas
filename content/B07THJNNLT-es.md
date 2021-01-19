@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07THJNNLT-es 2 toallas blancas suaves de Elli y Raff Baby con capucha...'
-tags: 
+tags: tole.es
 actualPrice: 11.13 EUR
 currency: EUR
 price: 11.13

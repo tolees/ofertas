@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RE6K7TW-es Dockers Bic Alpha Original Skinny-Stretch Twill Pantalones...'
-tags: 
+tags: tole.es
 actualPrice: 41.83 EUR
 currency: EUR
 price: 41.83

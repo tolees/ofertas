@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0851HX7NS-es Atashi Fresh & Pure - Bruma Oxigenante Matificante |...'
-tags: 
+tags: tole.es
 actualPrice: 14.96 EUR
 currency: EUR
 price: 14.96

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FFMKZS7-es Pulsera de mujer pulsera con cuentas en plata de ley 925...'
-tags: 
+tags: tole.es
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

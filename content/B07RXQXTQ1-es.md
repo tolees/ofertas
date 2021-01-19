@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXQXTQ1-es Atornillador de impacto TECCPO 18V 180 Nm 4.0Ah Baterías...'
-tags: 
+tags: tole.es
 actualPrice: 86.87 EUR
 currency: EUR
 price: 86.87

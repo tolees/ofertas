@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8PHQ57-es Lacoste Riberac 119 Jr Zapatillas Unisex Niños Blanco...'
-tags: 
+tags: tole.es
 actualPrice: 36.94 EUR
 currency: EUR
 price: 36.94

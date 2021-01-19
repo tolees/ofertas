@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BSU7C70-es Superga Classic Zapatillas Unisex Adulto Dark Chocolate 44 EU'
-tags: 
+tags: tole.es
 actualPrice: 36.76 EUR
 currency: EUR
 price: 36.76

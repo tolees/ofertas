@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HJC7X3C-es Suavizante supreme glamour vernel 600ml.'
-tags: 
+tags: tole.es
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

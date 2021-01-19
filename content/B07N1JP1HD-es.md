@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1JP1HD-es Clarks Kaylin Cara Zapatos de Tacón para Mujer Negro Black...'
-tags: 
+tags: tole.es
 actualPrice: 25.67 EUR
 currency: EUR
 price: 25.67

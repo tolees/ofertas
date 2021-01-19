@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PWG4PZH-es Aceite de Ricino Orgánico Presionado en Frío Eclat -...'
-tags: 
+tags: tole.es
 actualPrice: 7.48 EUR
 currency: EUR
 price: 7.48

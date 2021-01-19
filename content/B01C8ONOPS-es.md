@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C8ONOPS-es Pikolin Home - Edredón/Relleno nórdico de fibra antiácaros...'
-tags: 
+tags: tole.es
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

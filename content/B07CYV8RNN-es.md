@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CYV8RNN-es Skechers Flex Appeal 3.0-Endless Glamo Zapatillas para...'
-tags: 
+tags: tole.es
 actualPrice: 28.3 EUR
 currency: EUR
 price: 28.3

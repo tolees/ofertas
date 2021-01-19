@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FO7E07I-es Bestway 52190 - Canasta Hinchable Baloncesto Game Center...'
-tags: 
+tags: tole.es
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

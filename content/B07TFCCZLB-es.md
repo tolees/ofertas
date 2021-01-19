@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TFCCZLB-es JIMIGO 16XL Alta Capacidad Cartuchos de Tinta para Epson...'
-tags: 
+tags: tole.es
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

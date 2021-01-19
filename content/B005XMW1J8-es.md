@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005XMW1J8-es DIM Generous Sujetador Negro 100C para Mujer'
-tags: 
+tags: tole.es
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

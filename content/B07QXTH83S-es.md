@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QXTH83S-es Lotus Reloj Analógico para Mujer de Cuarzo con Correa en...'
-tags: 
+tags: tole.es
 actualPrice: 45.46 EUR
 currency: EUR
 price: 45.46

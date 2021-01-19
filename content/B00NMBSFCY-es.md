@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NMBSFCY-es Leathlux Funda Xiaomi Redmi 7 + Cristal Templado Xiaomi...'
-tags: 
+tags: tole.es
 actualPrice: 7.01 EUR
 currency: EUR
 price: 7.01

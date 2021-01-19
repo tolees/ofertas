@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GPRVDNK-es Skechers Men s STATUS 2.0- LORANO Moccasins Beige Taupe...'
-tags: 
+tags: tole.es
 actualPrice: 38.58 EUR
 currency: EUR
 price: 38.58

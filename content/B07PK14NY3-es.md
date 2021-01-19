@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PK14NY3-es WOSTOO Luces Bicicleta Luces De Bicicleta Faro y Luz...'
-tags: 
+tags: tole.es
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7TFJKJ-es HXDZFX Barra de cristal transparente con revestimiento de...'
-tags: 
+tags: tole.es
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

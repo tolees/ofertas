@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0759PCYDX-es Biomutant - PS4'
-tags: 
+tags: tole.es
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

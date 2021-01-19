@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W4RCMXQ-es SimpleLife Maleta Estuche para Equipaje Manija Correa de...'
-tags: 
+tags: tole.es
 actualPrice: 4.65 EUR
 currency: EUR
 price: 4.65

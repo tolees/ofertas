@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RMB6D4X-es Nike Air MAX Axis PS Zapatillas de Running para Niños...'
-tags: 
+tags: tole.es
 actualPrice: 26.04 EUR
 currency: EUR
 price: 26.04

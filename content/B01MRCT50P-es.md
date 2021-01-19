@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRCT50P-es Samsung Dream Silicone Cover Funda para smartphone Samsung...'
-tags: 
+tags: tole.es
 actualPrice: 10.34 EUR
 currency: EUR
 price: 10.34

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVJMWGZ-es Kipling Creativity S Cartera para Mujer Multicolor Tile...'
-tags: 
+tags: tole.es
 actualPrice: 16.8 EUR
 currency: EUR
 price: 16.8

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079C63HGQ-es SALOMON Festival 2-Pack 2 Pares de Calcetines Cortos...'
-tags: 
+tags: tole.es
 actualPrice: 4.8 EUR
 currency: EUR
 price: 4.8

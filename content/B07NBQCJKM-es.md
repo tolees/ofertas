@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NBQCJKM-es Seiko Reloj Analógico para Hombre de Cuarzo con Correa en...'
-tags: 
+tags: tole.es
 actualPrice: 52.19 EUR
 currency: EUR
 price: 52.19

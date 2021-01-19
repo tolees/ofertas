@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HYYMS1K-es Lunasol Home Funda de Silicona con Cremallera para...'
-tags: 
+tags: tole.es
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

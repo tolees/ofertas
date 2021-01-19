@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CP9DN99-es HP 24f - Monitor de 24" FHD 1920 x 1080 pixeles Tiempo de...'
-tags: 
+tags: tole.es
 actualPrice: 126.65 EUR
 currency: EUR
 price: 126.65

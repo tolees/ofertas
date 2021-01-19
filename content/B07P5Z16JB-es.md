@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P5Z16JB-es Wehouseware Ventilador de sobremesa con Reloj y...'
-tags: 
+tags: tole.es
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

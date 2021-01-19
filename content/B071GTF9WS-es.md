@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071GTF9WS-es adidas Real H Baby Set Blanco/Azuint 68'
-tags: 
+tags: tole.es
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

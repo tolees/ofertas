@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MLSSWY1-es Clarks Un Tread UpGTX Botas clásicas. para Hombre Piel...'
-tags: 
+tags: tole.es
 actualPrice: 41.64 EUR
 currency: EUR
 price: 41.64

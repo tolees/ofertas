@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B15C4BQ-es Monix Optima 2 Batería de 5 piezas Acero Inox Apta para...'
-tags: 
+tags: tole.es
 actualPrice: 72.94 EUR
 currency: EUR
 price: 72.94

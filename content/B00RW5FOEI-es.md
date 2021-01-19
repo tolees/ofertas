@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RW5FOEI-es Reef Twinpin Sandalias con Correa de Tobillo para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 9.22 EUR
 currency: EUR
 price: 9.22

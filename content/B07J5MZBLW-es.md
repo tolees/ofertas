@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J5MZBLW-es American Tourister - Modern Dream - Spinner Equipaje de...'
-tags: 
+tags: tole.es
 actualPrice: 92.08 EUR
 currency: EUR
 price: 92.08

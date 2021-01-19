@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005LRSI88-es Arcos 692500 - Soporte magnético 300 x 45 mm blister'
-tags: 
+tags: tole.es
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

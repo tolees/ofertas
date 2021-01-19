@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AAW1Z7A-es Toyota ECO15CB - Máquina de Coser 65 W 15 programas Color...'
-tags: 
+tags: tole.es
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

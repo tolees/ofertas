@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K8XVC1M-es Crocs Classic Slipper Zapatillas Bajas Unisex Adulto Azul...'
-tags: 
+tags: tole.es
 actualPrice: 15.37 EUR
 currency: EUR
 price: 15.37

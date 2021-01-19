@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0173HJRKG-es Fresh N Rebel Rockbox Cube - Altavoz portátil con...'
-tags: 
+tags: tole.es
 actualPrice: 14.52 EUR
 currency: EUR
 price: 14.52

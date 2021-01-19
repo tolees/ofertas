@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002VVX29W-es Bourjois Contour Clubbing Delineador de Ojos Tono 45 Blue...'
-tags: 
+tags: tole.es
 actualPrice: 3.6 EUR
 currency: EUR
 price: 3.6

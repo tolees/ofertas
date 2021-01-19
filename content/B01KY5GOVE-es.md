@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KY5GOVE-es Fantasy Flight Games- Star Wars Imperial Assault Princesa...'
-tags: 
+tags: tole.es
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

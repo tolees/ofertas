@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0733GGR3T-es find. Sudadera con Capucha Hombre Gris Charcoal Marl Small'
-tags: 
+tags: tole.es
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

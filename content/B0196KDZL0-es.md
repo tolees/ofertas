@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0196KDZL0-es New Balance 577 Training h Zapatillas Deportivas para...'
-tags: 
+tags: tole.es
 actualPrice: 31.34 EUR
 currency: EUR
 price: 31.34

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0797Q8ZNT-es PUMA LIGA Shorts Pants Hombre White Black M'
-tags: 
+tags: tole.es
 actualPrice: 12.23 EUR
 currency: EUR
 price: 12.23

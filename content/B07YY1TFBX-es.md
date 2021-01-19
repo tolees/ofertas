@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YY1TFBX-es BRIKSMAX Kit de Iluminación Led para Lego Technic...'
-tags: 
+tags: tole.es
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

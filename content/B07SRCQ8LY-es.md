@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRCQ8LY-es adidas Deerupt Runner Zapatillas de Gimnasia para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 59.94 EUR
 currency: EUR
 price: 59.94

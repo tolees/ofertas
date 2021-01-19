@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HPYQNCF-es DlandHome Mueble de Consola 120 * 23 * 75cm Mesa Auxiliar...'
-tags: 
+tags: tole.es
 actualPrice: 80.14 EUR
 currency: EUR
 price: 80.14

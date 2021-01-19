@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000E2CRUA-es K&N AL-1004 Filtro de Aire para Aprilia RSV MILLE 2004 RSV...'
-tags: 
+tags: tole.es
 actualPrice: 63.93 EUR
 currency: EUR
 price: 63.93

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WRT14S5-es Top Trumps Match Harry Potter Juego de mesa-versión en...'
-tags: 
+tags: tole.es
 actualPrice: 15.86 EUR
 currency: EUR
 price: 15.86

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2LN25W-es adidas Vl Court 2.0 Zapatillas de Skateboard para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 26.61 EUR
 currency: EUR
 price: 26.61

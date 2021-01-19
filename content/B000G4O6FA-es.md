@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000G4O6FA-es Adidas Kaiser 5 Team Botas de fútbol hombre Multicolor...'
-tags: 
+tags: tole.es
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PYDWBXC-es Nike MD Runner 2 Zapatillas de Running Hombre Azul...'
-tags: 
+tags: tole.es
 actualPrice: 38.95 EUR
 currency: EUR
 price: 38.95

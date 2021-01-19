@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MHRT0PK-es SYLVANIAN FAMILIES- School Friends Mini muñecas y...'
-tags: 
+tags: tole.es
 actualPrice: 12.16 EUR
 currency: EUR
 price: 12.16

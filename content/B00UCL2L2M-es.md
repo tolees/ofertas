@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UCL2L2M-es Aqua Control Riego por Goteo para Balcones-Programador...'
-tags: 
+tags: tole.es
 actualPrice: 26.9 EUR
 currency: EUR
 price: 26.9

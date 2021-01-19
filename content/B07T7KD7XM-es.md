@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T7KD7XM-es Arena Cruiser EVO Goggles Adultos Unisex Clear-Blue TU'
-tags: 
+tags: tole.es
 actualPrice: 7.66 EUR
 currency: EUR
 price: 7.66

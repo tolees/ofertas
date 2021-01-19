@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089SZ1LHJ-es Melchioni - Mini Nevera de Bar silencioso 50 L Nevera...'
-tags: 
+tags: tole.es
 actualPrice: 96.74 EUR
 currency: EUR
 price: 96.74

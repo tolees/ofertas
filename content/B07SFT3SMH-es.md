@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SFT3SMH-es adidas Adilette Aqua Slide Sandal Womens Dust...'
-tags: 
+tags: tole.es
 actualPrice: 17.96 EUR
 currency: EUR
 price: 17.96

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBVNV4M-es PUMA Flyer Runner Zapatillas para Correr de Carretera...'
-tags: 
+tags: tole.es
 actualPrice: 25.01 EUR
 currency: EUR
 price: 25.01

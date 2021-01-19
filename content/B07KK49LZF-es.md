@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KK49LZF-es Columbia Fire Venture L Mid II WP Botas de Senderismo para...'
-tags: 
+tags: tole.es
 actualPrice: 40.16 EUR
 currency: EUR
 price: 40.16

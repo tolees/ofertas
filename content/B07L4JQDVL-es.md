@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L4JQDVL-es Philips Batidora de mano ProMix HR2657/90 varilla 800 W...'
-tags: 
+tags: tole.es
 actualPrice: 65.95 EUR
 currency: EUR
 price: 65.95

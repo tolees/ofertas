@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HMCPG62-es Boucheron 54030 - Agua de perfume'
-tags: 
+tags: tole.es
 actualPrice: 43.98 EUR
 currency: EUR
 price: 43.98

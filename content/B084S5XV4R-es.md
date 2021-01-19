@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084S5XV4R-es Lam Hub Fong Pulsera Mujer Pulsera con Nombre...'
-tags: 
+tags: tole.es
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072BXH9T6-es Under Armour Men s Webbing 2.0 Belt Cinturón Hombre Blanco...'
-tags: 
+tags: tole.es
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

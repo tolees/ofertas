@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IUD4CIY-es Conservas Dantza Esparrago - 345 gr'
-tags: 
+tags: tole.es
 actualPrice: 5.14 EUR
 currency: EUR
 price: 5.14

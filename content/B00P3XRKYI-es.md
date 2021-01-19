@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00P3XRKYI-es K&N HD-1614 Filtro de Aire Moto'
-tags: 
+tags: tole.es
 actualPrice: 72.66 EUR
 currency: EUR
 price: 72.66

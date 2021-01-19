@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8NRDZT-es NUK 10177124 Genius Color - Chupete de silicona forma...'
-tags: 
+tags: tole.es
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

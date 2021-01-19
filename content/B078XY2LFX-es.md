@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078XY2LFX-es BRA Advanced Sartén 26 cm aluminio fundido con...'
-tags: 
+tags: tole.es
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

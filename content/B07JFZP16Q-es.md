@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JFZP16Q-es Bolsa de Mochila Bolsa de Destino para Bolsa de...'
-tags: 
+tags: tole.es
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

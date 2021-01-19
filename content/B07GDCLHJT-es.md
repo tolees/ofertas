@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GDCLHJT-es Autopmall GPS Tracker Bicicleta Tiempo de Espera 300 Horas...'
-tags: 
+tags: tole.es
 actualPrice: 55.87 EUR
 currency: EUR
 price: 55.87

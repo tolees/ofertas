@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L1N3KND-es LIGHTAILING Conjunto de Luces Creator Expert Volkswagen...'
-tags: 
+tags: tole.es
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q35NPG5-es MicarBa cámara de Seguridad HD visión Nocturna 170 Grados...'
-tags: 
+tags: tole.es
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

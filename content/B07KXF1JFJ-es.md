@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KXF1JFJ-es Lékué Juego de cubiertos para llevar Acero Inoxidable'
-tags: 
+tags: tole.es
 actualPrice: 6.55 EUR
 currency: EUR
 price: 6.55

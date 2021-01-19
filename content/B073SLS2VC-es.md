@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073SLS2VC-es Emporio Armani Reloj Analógico para Mujer de Cuarzo con...'
-tags: 
+tags: tole.es
 actualPrice: 141.72 EUR
 currency: EUR
 price: 141.72

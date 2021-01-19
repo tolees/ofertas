@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086VCGKCH-es Enjoyee - Visera protectora para la cara de plástico...'
-tags: 
+tags: tole.es
 actualPrice: 19.89 EUR
 currency: EUR
 price: 19.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D61SM1I-es Trangoworld Ghawdex Sn Pantalones Largos Hombre Azul...'
-tags: 
+tags: tole.es
 actualPrice: 70.99 EUR
 currency: EUR
 price: 70.99

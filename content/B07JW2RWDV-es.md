@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JW2RWDV-es Timberland Perkins Row 2-Strap Toddler Sandalias de Punta...'
-tags: 
+tags: tole.es
 actualPrice: 11.7 EUR
 currency: EUR
 price: 11.7

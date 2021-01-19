@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CBW9RK4-es LJP Funda Huawei Honor 8X Suave PU Cuero Carcasa y TPU...'
-tags: 
+tags: tole.es
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

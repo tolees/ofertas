@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF5BJ5M-es Levi s unbasic Hoodie Capucha Blanco White + 0006 X-Small...'
-tags: 
+tags: tole.es
 actualPrice: 41.4 EUR
 currency: EUR
 price: 41.4

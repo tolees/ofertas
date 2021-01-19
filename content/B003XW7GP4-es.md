@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003XW7GP4-es HP CE320A 128A Cartucho de Tóner Original 1 unidad negro'
-tags: 
+tags: tole.es
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

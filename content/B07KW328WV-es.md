@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KW328WV-es RFIVER 2 Taburetes Altos de Bar Cafe en Cuero para Comedor...'
-tags: 
+tags: tole.es
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01F3PZVHI-es Ice-Watch - ICE duo Ombre orange - Reloj blu para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 60.67 EUR
 currency: EUR
 price: 60.67

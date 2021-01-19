@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AW9F88W-es Balvi Felpudo Welcome Goma/Nylon 34 x 75 cm'
-tags: 
+tags: tole.es
 actualPrice: 16.85 EUR
 currency: EUR
 price: 16.85

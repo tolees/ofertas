@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083HZ79BW-es J35038-Tm Anti-Fall Creative Simple Marble Pattern...'
-tags: 
+tags: tole.es
 actualPrice: 1.33 EUR
 currency: EUR
 price: 1.33

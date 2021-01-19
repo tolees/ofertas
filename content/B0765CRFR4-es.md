@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0765CRFR4-es LEGO City - Ártico: Transporte Aéreo Juguete de...'
-tags: 
+tags: tole.es
 actualPrice: 18.74 EUR
 currency: EUR
 price: 18.74

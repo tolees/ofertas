@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079HTHFFR-es 5W Gu10 Rgbw Led Colores Cambiantes Bombilla 6000K Blanco...'
-tags: 
+tags: tole.es
 actualPrice: 25.13 EUR
 currency: EUR
 price: 25.13

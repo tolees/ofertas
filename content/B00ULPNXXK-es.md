@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ULPNXXK-es The North Face Hedgehog Fastpack GTX Botas para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 76.99 EUR
 currency: EUR
 price: 76.99

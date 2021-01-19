@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N61JRS3-es DC Shoes DCSHI Heathrow-Low-Top Shoes for Men Zapatillas...'
-tags: 
+tags: tole.es
 actualPrice: 59.07 EUR
 currency: EUR
 price: 59.07

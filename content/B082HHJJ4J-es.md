@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082HHJJ4J-es YINGJEE Martillo de Seguridad para Coche Martillo de...'
-tags: 
+tags: tole.es
 actualPrice: 8.69 EUR
 currency: EUR
 price: 8.69

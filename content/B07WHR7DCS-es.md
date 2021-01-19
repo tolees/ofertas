@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WHR7DCS-es SELECTED FEMME Slfanna LS X-mas Knit O-Neck B suéter...'
-tags: 
+tags: tole.es
 actualPrice: 11.58 EUR
 currency: EUR
 price: 11.58

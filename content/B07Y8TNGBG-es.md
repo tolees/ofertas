@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y8TNGBG-es Bruni Película Protectora Compatible con Huawei Watch GT 2...'
-tags: 
+tags: tole.es
 actualPrice: 3.69 EUR
 currency: EUR
 price: 3.69

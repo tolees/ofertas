@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZZ8J1B7-es Boxer Calzoncillos Hombre Algodón Orgánico Pack de 3 Negro...'
-tags: 
+tags: tole.es
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

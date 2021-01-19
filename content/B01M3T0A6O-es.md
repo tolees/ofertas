@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M3T0A6O-es Penisso Delay • Retardante sexual • Sex Spray 50 ml •...'
-tags: 
+tags: tole.es
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

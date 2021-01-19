@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG15Z8L-es PUMA Nova Hypertech Wn s Zapatillas para Mujer White 37 EU'
-tags: 
+tags: tole.es
 actualPrice: 21.22 EUR
 currency: EUR
 price: 21.22

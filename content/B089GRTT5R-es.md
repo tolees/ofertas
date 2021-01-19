@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089GRTT5R-es KLAS REMO Bandejas para Hielo Set de 3 Moldes para Hielo...'
-tags: 
+tags: tole.es
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

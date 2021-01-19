@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GJZC89P-es Ecovacs OZMO Slim10 - Robot Aspirador 4 en 1: barre aspira...'
-tags: 
+tags: tole.es
 actualPrice: 168.99 EUR
 currency: EUR
 price: 168.99

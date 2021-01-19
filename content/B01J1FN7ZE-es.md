@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01J1FN7ZE-es Bosch Truvo - Detector digital 3 pilas AAA profundidad de...'
-tags: 
+tags: tole.es
 actualPrice: 37.15 EUR
 currency: EUR
 price: 37.15

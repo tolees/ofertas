@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DSCJKR6-es LUCK Zapatillas de Ciclismo Extreme 3.0 MTB con Suela de...'
-tags: 
+tags: tole.es
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

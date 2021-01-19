@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PVQKWC9-es Under Armour Women s Tribase Edge Trainer Hallenschuhe...'
-tags: 
+tags: tole.es
 actualPrice: 52.97 EUR
 currency: EUR
 price: 52.97

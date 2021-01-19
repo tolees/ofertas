@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072N5MQNP-es Magno - Desodorante Classic - 150ml pack de 6 Total: 900ml'
-tags: 
+tags: tole.es
 actualPrice: 10.44 EUR
 currency: EUR
 price: 10.44

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077ZC9TDB-es Pioneer TS-WX300A Subwoofer Negro'
-tags: 
+tags: tole.es
 actualPrice: 143.95 EUR
 currency: EUR
 price: 143.95

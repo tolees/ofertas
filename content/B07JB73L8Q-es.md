@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JB73L8Q-es Lee Extreme Motion Straight Jeans Trip 40W / 32L para Hombre'
-tags: 
+tags: tole.es
 actualPrice: 31.98 EUR
 currency: EUR
 price: 31.98
@@ -26,8 +26,8 @@ En este momento está [Lee Extreme Motion Straight Jeans  Trip  40W / 32L para H
 
 🔎:
 
-- Tejido elástico
-- Clasico botón tipo “donut”
 - Cintura flexible
+- Clasico botón tipo “donut”
+- Tejido elástico
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07JB73L8Q/?tag=tolees-21)

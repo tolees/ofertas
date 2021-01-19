@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0055EGCJE-es Calvin Klein Cotton Stretch-3er Tanga de hilo Multicolor...'
-tags: 
+tags: tole.es
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078HPGBDL-es HANSAPLAST FROZEN NIÑA 20 APOSITOS'
-tags: 
+tags: tole.es
 actualPrice: 3.3 EUR
 currency: EUR
 price: 3.3

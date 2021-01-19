@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FTR18J4-es Buff R-Luminance Cinta De Pelo Ancha Mujer Pink Talla única'
-tags: 
+tags: tole.es
 actualPrice: 9.73 EUR
 currency: EUR
 price: 9.73

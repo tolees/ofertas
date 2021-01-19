@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01APX1TKQ-es NYX Professional Makeup Pintalabios Lip Lingerie Liquid...'
-tags: 
+tags: tole.es
 actualPrice: 5.53 EUR
 currency: EUR
 price: 5.53

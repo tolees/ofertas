@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPP9Z5Y-es Ban presto- The Battle Dragon Ball Estatua Androide 18...'
-tags: 
+tags: tole.es
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

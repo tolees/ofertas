@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XDDH6DL-es Jimmy Choo Eau de Courreges Loción - 500 ml'
-tags: 
+tags: tole.es
 actualPrice: 6.21 EUR
 currency: EUR
 price: 6.21

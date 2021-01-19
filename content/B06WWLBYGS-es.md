@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WWLBYGS-es HAORUI Spandex Lycra Elástica Cubierta de Mesa Paño de 6...'
-tags: 
+tags: tole.es
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NSW394Q-es Pro Garden 07972-Baliza de luz solar acero inoxidable 36...'
-tags: 
+tags: tole.es
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0758BL4TY-es NUEVO Dermaroller Kit 3 en 1 Para la Cara y el Cuerpo -...'
-tags: 
+tags: tole.es
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

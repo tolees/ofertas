@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFZRYX7-es Geox D BIBBIANA A Zapatos de Tacón para Mujer Negro Black...'
-tags: 
+tags: tole.es
 actualPrice: 56.55 EUR
 currency: EUR
 price: 56.55

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086X97HKL-es Mini 8 + 2 Puertos 100M Switch SPOE Fast Power Over...'
-tags: 
+tags: tole.es
 actualPrice: 46.41 EUR
 currency: EUR
 price: 46.41

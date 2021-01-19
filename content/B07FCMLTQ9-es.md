@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FCMLTQ9-es ETNAB|#Etnies Marana Vulc Zapatillas de Skateboard para...'
-tags: 
+tags: tole.es
 actualPrice: 35.11 EUR
 currency: EUR
 price: 35.11

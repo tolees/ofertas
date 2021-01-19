@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F31RL6N-es Helly Hansen W Kirkwall II Raincoat Jacket Mujer Essential...'
-tags: 
+tags: tole.es
 actualPrice: 51.08 EUR
 currency: EUR
 price: 51.08

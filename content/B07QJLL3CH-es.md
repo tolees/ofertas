@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QJLL3CH-es WMF 545304021 Permadur Element Paellera Aluminio...'
-tags: 
+tags: tole.es
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

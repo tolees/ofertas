@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VMG277D-es DOOGEE N20 2019 Dual SIM Telefonos Moviles Libres 4g Octa-...'
-tags: 
+tags: tole.es
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

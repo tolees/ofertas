@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BC58WIE-es Philips GC160/02 - Plancha en seco con suela DynaGlide...'
-tags: 
+tags: tole.es
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

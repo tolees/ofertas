@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H8RZNCP-es Spalding ACB-L.Endesa Tf500 Sz. 7 76-287Z Balón de...'
-tags: 
+tags: tole.es
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

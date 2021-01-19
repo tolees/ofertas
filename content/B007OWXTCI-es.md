@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007OWXTCI-es Garnier Skin Active - BB Cream Clásica Crema Hidratante...'
-tags: 
+tags: tole.es
 actualPrice: 6.15 EUR
 currency: EUR
 price: 6.15

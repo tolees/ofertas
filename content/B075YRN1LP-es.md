@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075YRN1LP-es BRTLX 5W G45 Bombilla LED Mini Globo Blanco Frio 6000K E14...'
-tags: 
+tags: tole.es
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

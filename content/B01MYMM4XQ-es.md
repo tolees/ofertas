@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MYMM4XQ-es L Oreal Paris Brow Artist Xpert Liner de Cejas Automático...'
-tags: 
+tags: tole.es
 actualPrice: 5.86 EUR
 currency: EUR
 price: 5.86

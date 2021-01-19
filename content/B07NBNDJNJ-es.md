@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NBNDJNJ-es National Geographic - Telescopio y microscopio para...'
-tags: 
+tags: tole.es
 actualPrice: 69.2 EUR
 currency: EUR
 price: 69.2

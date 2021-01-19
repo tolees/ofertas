@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GIRU3PG-es B+W Vario XS-Pro - Filtro ND de 58 mm MRC Nano'
-tags: 
+tags: tole.es
 actualPrice: 156.14 EUR
 currency: EUR
 price: 156.14

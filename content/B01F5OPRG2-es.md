@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01F5OPRG2-es Muévete | Potente antiinflamatorio con acción analgésica |...'
-tags: 
+tags: tole.es
 actualPrice: 12.7 EUR
 currency: EUR
 price: 12.7

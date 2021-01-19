@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082FCYN3H-es Tableta de Escritura LCD Almohadilla 8 5 Pulgadas Tablero...'
-tags: 
+tags: tole.es
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

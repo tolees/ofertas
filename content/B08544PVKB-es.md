@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08544PVKB-es Fuentes de Alimentación Regulables HANMATEK HM305 Fuentes...'
-tags: 
+tags: tole.es
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

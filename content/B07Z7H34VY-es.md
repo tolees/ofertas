@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z7H34VY-es Doosl Tableta de Escritura LCD Tableta para Escribir y...'
-tags: 
+tags: tole.es
 actualPrice: 13.88 EUR
 currency: EUR
 price: 13.88

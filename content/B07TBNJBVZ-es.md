@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TBNJBVZ-es Luces LED de techo para música 60W Houkiper Bluetooth...'
-tags: 
+tags: tole.es
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

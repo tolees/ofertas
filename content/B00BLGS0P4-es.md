@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BLGS0P4-es Beurer BC31 Tensiómetro muñeca para la medición de la...'
-tags: 
+tags: tole.es
 actualPrice: 21.04 EUR
 currency: EUR
 price: 21.04

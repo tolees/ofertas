@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0817JLC9B-es Columbia Tech Shade Hat Gorra Unisex Adulto Gris City Grey...'
-tags: 
+tags: tole.es
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

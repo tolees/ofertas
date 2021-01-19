@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KK3Z7PR-es Columbia Backpedal Clime Outdry Zapatillas de Cross para...'
-tags: 
+tags: tole.es
 actualPrice: 71.89 EUR
 currency: EUR
 price: 71.89

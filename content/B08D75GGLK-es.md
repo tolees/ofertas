@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D75GGLK-es N-a Amplificador Señal WiFi 300Mbps/2.4 GHz Repetidores...'
-tags: 
+tags: tole.es
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

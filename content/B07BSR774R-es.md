@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BSR774R-es Corsair HS70 Auriculares Inalámbricos para Juegos Sonido...'
-tags: 
+tags: tole.es
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

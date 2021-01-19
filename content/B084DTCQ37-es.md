@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084DTCQ37-es Cartera Caballero en Piel napa'
-tags: 
+tags: tole.es
 actualPrice: 17.4 EUR
 currency: EUR
 price: 17.4

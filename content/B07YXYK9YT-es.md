@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YXYK9YT-es GEARGO Corrector de Postura Ajustar el Peso de la Espalda...'
-tags: 
+tags: tole.es
 actualPrice: 6.07 EUR
 currency: EUR
 price: 6.07

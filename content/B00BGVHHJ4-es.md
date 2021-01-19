@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BGVHHJ4-es Fruit of the Loom- Polo de Manga Corta Premium Entallado...'
-tags: 
+tags: tole.es
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

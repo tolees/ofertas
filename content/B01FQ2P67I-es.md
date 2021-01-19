@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FQ2P67I-es Bulgari Bvlgari Man Black Cologne Edt Vapo 100 Ml 1 Unidad...'
-tags: 
+tags: tole.es
 actualPrice: 45.95 EUR
 currency: EUR
 price: 45.95

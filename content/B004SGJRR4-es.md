@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004SGJRR4-es PUMA Suede Classic+ Zapatilla para Hombre Negro...'
-tags: 
+tags: tole.es
 actualPrice: 50.32 EUR
 currency: EUR
 price: 50.32

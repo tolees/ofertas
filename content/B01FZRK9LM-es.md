@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FZRK9LM-es Nike Air MAX 90 Leather Zapatillas para Niños Negro Black...'
-tags: 
+tags: tole.es
 actualPrice: 40 EUR
 currency: EUR
 price: 40

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XAIR2SM-es Aire De Sevilla Primavera Set de Regalo - 3 Piezas'
-tags: 
+tags: tole.es
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XD12SXN-es BLAVOR - Cargador Solar inalámbrico batería Externa de...'
-tags: 
+tags: tole.es
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

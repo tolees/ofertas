@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TNKYZKH-es Kickers Holster Zapatos de Cordones Derby para Mujer Beige...'
-tags: 
+tags: tole.es
 actualPrice: 38.89 EUR
 currency: EUR
 price: 38.89

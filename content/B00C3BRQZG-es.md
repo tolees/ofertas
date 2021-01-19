@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00C3BRQZG-es Biotherm Homme Aquafitness Eau de Toilette Vaporizador 100 ml'
-tags: 
+tags: tole.es
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

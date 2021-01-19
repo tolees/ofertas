@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DOHEAK6-es Trango SHANGU IP Zapatillas de Deporte Exterior Unisex...'
-tags: 
+tags: tole.es
 actualPrice: 57.23 EUR
 currency: EUR
 price: 57.23

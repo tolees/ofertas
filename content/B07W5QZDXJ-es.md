@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5QZDXJ-es POP THE OFFICE DWIGHT AS ELF V'
-tags: 
+tags: tole.es
 actualPrice: 5.27 EUR
 currency: EUR
 price: 5.27

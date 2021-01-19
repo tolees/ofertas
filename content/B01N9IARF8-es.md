@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N9IARF8-es Kappa Kickoff Zapatillas de Deporte Interior Unisex Niños...'
-tags: 
+tags: tole.es
 actualPrice: 14.2 EUR
 currency: EUR
 price: 14.2

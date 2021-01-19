@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VDFYRDD-es Desigual CAM Matera Blusa Blanco Blanco 1000 XX-Large para...'
-tags: 
+tags: tole.es
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0
@@ -26,10 +26,10 @@ Ahora mismo tienes [Desigual CAM Matera Blusa  Blanco  Blanco 1000   XX-Large pa
 
 🔎:
 
-- Brand: DESIGUAL
-- Colore: Fantasia
-- Articolo: Camicia
-- Modello: 20SWCW22
 - Tipologia: Donna
+- Modello: 20SWCW22
+- Brand: DESIGUAL
+- Articolo: Camicia
+- Colore: Fantasia
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VDFYRDD/?tag=tolees-21)

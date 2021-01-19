@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08J8LZYNH-es Morbid: The Seven Acolytes - Signature Edition'
-tags: 
+tags: tole.es
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

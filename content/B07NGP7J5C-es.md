@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGP7J5C-es Silla de paseo Rapid Unique azul 2019'
-tags: 
+tags: tole.es
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

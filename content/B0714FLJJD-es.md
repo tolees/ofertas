@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0714FLJJD-es adidas Zx Flux J Zapatillas de Deporte Unisex Niños Rosa...'
-tags: 
+tags: tole.es
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

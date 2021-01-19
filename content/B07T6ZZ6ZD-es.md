@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T6ZZ6ZD-es Foco LED Proyector 50W Super Brillante Luz de Trabajo...'
-tags: 
+tags: tole.es
 actualPrice: 39.69 EUR
 currency: EUR
 price: 39.69

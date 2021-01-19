@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0748FMJVX-es Emma & Giovanni - Pullover- Mujer S/M Burdeos'
-tags: 
+tags: tole.es
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

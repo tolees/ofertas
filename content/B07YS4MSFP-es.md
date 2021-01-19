@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YS4MSFP-es ZoneYan Gorras Bebé Recién Nacido Sombreros Bebé Invierno...'
-tags: 
+tags: tole.es
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

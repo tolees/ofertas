@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GKFLMNC-es Krups Dolce Gusto Infinissima KP1708 - Cafetera de...'
-tags: 
+tags: tole.es
 actualPrice: 64.8 EUR
 currency: EUR
 price: 64.8

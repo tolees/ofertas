@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000CNKJSI-es Jaguar Blue - Agua de toilette 100 ml'
-tags: 
+tags: tole.es
 actualPrice: 16.1 EUR
 currency: EUR
 price: 16.1

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JKX5DZN-es Columbia Caldorado III Outdry Zapatillas de Running para...'
-tags: 
+tags: tole.es
 actualPrice: 50.06 EUR
 currency: EUR
 price: 50.06

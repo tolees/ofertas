@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079YMNPD7-es Funko Pop!- Pop Marvel: Spider-Man Miles Morales Figura de...'
-tags: 
+tags: tole.es
 actualPrice: 10.28 EUR
 currency: EUR
 price: 10.28

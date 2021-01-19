@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082KPXBY9-es Perfume Elegante Original De 100 Ml Para Hombres Incienso...'
-tags: 
+tags: tole.es
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

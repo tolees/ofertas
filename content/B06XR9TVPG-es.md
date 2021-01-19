@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XR9TVPG-es Valeton Dapper Mini Stage Session Gigging Gear Overdrive...'
-tags: 
+tags: tole.es
 actualPrice: 45.52 EUR
 currency: EUR
 price: 45.52

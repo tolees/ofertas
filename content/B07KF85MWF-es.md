@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF85MWF-es Levi s 510 Skinny Fit Vaqueros para Hombre Azul Norse Warp...'
-tags: 
+tags: tole.es
 actualPrice: 57.49 EUR
 currency: EUR
 price: 57.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZC83NMD-es Scholl Plantilla In-Balance para el alivio del dolor en la...'
-tags: 
+tags: tole.es
 actualPrice: 14.47 EUR
 currency: EUR
 price: 14.47

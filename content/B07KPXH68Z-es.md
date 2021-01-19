@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPXH68Z-es Fantasyworld SJ60 Impermeable 2.0" LCD 4K Ultra HD 1080P...'
-tags: 
+tags: tole.es
 actualPrice: 17.23 EUR
 currency: EUR
 price: 17.23

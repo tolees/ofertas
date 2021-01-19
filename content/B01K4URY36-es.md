@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K4URY36-es Rotho Berty caja de arena alta con entrada superior...'
-tags: 
+tags: tole.es
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

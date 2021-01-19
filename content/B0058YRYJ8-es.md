@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0058YRYJ8-es Columbia Schooner Bank Gorra Cachalot Unisex Adulto Beige...'
-tags: 
+tags: tole.es
 actualPrice: 16.35 EUR
 currency: EUR
 price: 16.35

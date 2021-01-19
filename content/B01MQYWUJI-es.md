@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQYWUJI-es DAONLY Levadura Cerveza fortalece el Cabello y Evita la...'
-tags: 
+tags: tole.es
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

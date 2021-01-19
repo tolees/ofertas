@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084P7TNT3-es Brewsly Termo Cafe 600ml 12 h Caliente y 24 h Frío Botella...'
-tags: 
+tags: tole.es
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

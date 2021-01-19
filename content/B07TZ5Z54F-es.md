@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZ5Z54F-es Skechers D lux Walker Zapatillas para Hombre Azul Black...'
-tags: 
+tags: tole.es
 actualPrice: 34.09 EUR
 currency: EUR
 price: 34.09

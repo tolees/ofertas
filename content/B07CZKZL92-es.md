@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZKZL92-es FOREO UFO mini - Tratamiento de Mascarilla Inteligente...'
-tags: 
+tags: tole.es
 actualPrice: 72.27 EUR
 currency: EUR
 price: 72.27

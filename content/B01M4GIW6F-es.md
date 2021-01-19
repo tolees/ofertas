@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M4GIW6F-es New Balance ML373 Zapatillas para Hombre Verde Olive OLV...'
-tags: 
+tags: tole.es
 actualPrice: 46.86 EUR
 currency: EUR
 price: 46.86

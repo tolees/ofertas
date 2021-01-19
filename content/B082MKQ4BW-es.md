@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082MKQ4BW-es Cecotec 04225 Secador de pelo Bamba IoniCare 6000 RockStar...'
-tags: 
+tags: tole.es
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

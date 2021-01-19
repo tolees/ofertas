@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PT99H9H-es Traje de baño de Manga Larga para Mujer Traje de Surf con...'
-tags: 
+tags: tole.es
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

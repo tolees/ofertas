@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N34S5GF-es Emporio Armani Reloj Analógico para Hombre de Cuarzo con...'
-tags: 
+tags: tole.es
 actualPrice: 79.6 EUR
 currency: EUR
 price: 79.6

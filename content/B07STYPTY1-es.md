@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STYPTY1-es NWOUIIAY Compresor de Aire Portátil 150PSI 35L/Min Bomba...'
-tags: 
+tags: tole.es
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

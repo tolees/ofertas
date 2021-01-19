@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FPKWLDM-es PUMA Cilia Zapatillas para Mujer Negro Black White/Gray...'
-tags: 
+tags: tole.es
 actualPrice: 23.72 EUR
 currency: EUR
 price: 23.72

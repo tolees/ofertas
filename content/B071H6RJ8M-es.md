@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071H6RJ8M-es Antena GSM 3G de alta ganancia de pared interior antena...'
-tags: 
+tags: tole.es
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

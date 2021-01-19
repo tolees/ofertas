@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FF9GVNG-es Pack Friends Temporada 1-10 Colección Completa Blu-Ray...'
-tags: 
+tags: tole.es
 actualPrice: 59.79 EUR
 currency: EUR
 price: 59.79

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H9XM9BS-es Lampara Luna 3D LED Moon Lamp AUELEK 15cm Lámpara magica...'
-tags: 
+tags: tole.es
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

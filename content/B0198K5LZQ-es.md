@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0198K5LZQ-es Dickies Pensacola Short Pantalones Cortos Deportivos para...'
-tags: 
+tags: tole.es
 actualPrice: 11.4 EUR
 currency: EUR
 price: 11.4

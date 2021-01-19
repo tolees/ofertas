@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000IWXVU6-es Energizer 626177 - Pilas Recargables NiMh 9 V 175 mAh'
-tags: 
+tags: tole.es
 actualPrice: 8.2 EUR
 currency: EUR
 price: 8.2

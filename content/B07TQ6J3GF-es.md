@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TQ6J3GF-es Cocoty-store Pantalones 2019 Pantalones Hombre Verano...'
-tags: 
+tags: tole.es
 actualPrice: 3.35 EUR
 currency: EUR
 price: 3.35

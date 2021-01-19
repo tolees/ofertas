@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002RL8FBQ-es Kirkland Signature Calcium 600 mg+D3 500-Count Tablets'
-tags: 
+tags: tole.es
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

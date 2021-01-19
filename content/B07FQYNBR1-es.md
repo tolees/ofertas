@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQYNBR1-es Clarks Maritsa Lara Sandalia con Pulsera Tira de Tobillo...'
-tags: 
+tags: tole.es
 actualPrice: 48.93 EUR
 currency: EUR
 price: 48.93

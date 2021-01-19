@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JHCNT58-es Columbia WHEATLEIGH Botas de Nieve de caña Baja para Mujer...'
-tags: 
+tags: tole.es
 actualPrice: 36.82 EUR
 currency: EUR
 price: 36.82

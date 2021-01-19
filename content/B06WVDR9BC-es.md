@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WVDR9BC-es HEY JOE - Genuine Hair Pomade MATT 100 ml | Pomada para el...'
-tags: 
+tags: tole.es
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

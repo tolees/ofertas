@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5VQB9K-es Adaptador HD Hdmi 90 grados 270 grados Ángulo recto Lado...'
-tags: 
+tags: tole.es
 actualPrice: 3.54 EUR
 currency: EUR
 price: 3.54

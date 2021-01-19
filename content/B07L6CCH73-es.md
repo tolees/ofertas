@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L6CCH73-es DELIMIRA Mujer Sujetador Deportivo Talla Grande de Alto...'
-tags: 
+tags: tole.es
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

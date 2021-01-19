@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SLP8WWK-es Burton Elite Camiseta Hombre Martini Olive XXL'
-tags: 
+tags: tole.es
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

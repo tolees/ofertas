@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071DV7NLV-es Glighone Apliques de Pared LED 6W Lámpara de Pared...'
-tags: 
+tags: tole.es
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

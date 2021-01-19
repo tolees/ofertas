@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SPYZZ4D-es AIMOS Conmutador KVM HDMI USB KVM Switch 2 Puertos...'
-tags: 
+tags: tole.es
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

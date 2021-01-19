@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001FFL3Y6-es Victory Endurance All Day Energy. Con 12 vitaminas 9...'
-tags: 
+tags: tole.es
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

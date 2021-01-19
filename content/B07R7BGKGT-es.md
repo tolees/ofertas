@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R7BGKGT-es CARE OF by PUMA Zapatillas para mujer Blanco White 42 EU'
-tags: 
+tags: tole.es
 actualPrice: 26.49 EUR
 currency: EUR
 price: 26.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4M3WX8-es Love MoschinoJc4247pp0aMujerCarteras de manoPlateado...'
-tags: 
+tags: tole.es
 actualPrice: 58.58 EUR
 currency: EUR
 price: 58.58

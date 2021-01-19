@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STFQ6GM-es adidas NMD_r1 Zapatillas de Gimnasia para Hombre Blanco...'
-tags: 
+tags: tole.es
 actualPrice: 69.97 EUR
 currency: EUR
 price: 69.97

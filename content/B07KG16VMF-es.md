@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG16VMF-es PUMA LQDCELL Shatter XT Shift Wn s Zapatillas Deportivas...'
-tags: 
+tags: tole.es
 actualPrice: 27.72 EUR
 currency: EUR
 price: 27.72

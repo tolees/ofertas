@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0741CQJ6W-es Haribo Ladrillo Classic - 2000 gr'
-tags: 
+tags: tole.es
 actualPrice: 6.81 EUR
 currency: EUR
 price: 6.81

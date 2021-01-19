@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C51X7NH-es Mini Mango clásico de Cuerda con Inserto de Lona Bolsa...'
-tags: 
+tags: tole.es
 actualPrice: 6.8 EUR
 currency: EUR
 price: 6.8

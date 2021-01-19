@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S5CDJKM-es Love MoschinoJc4054pp1aMujerBolsos bandoleraRosa5x13x20...'
-tags: 
+tags: tole.es
 actualPrice: 68.45 EUR
 currency: EUR
 price: 68.45

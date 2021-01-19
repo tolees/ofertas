@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S9RRC38-es PUMA RS-X Reinvent WN S Zapatillas para Mujer Rosa...'
-tags: 
+tags: tole.es
 actualPrice: 81.71 EUR
 currency: EUR
 price: 81.71

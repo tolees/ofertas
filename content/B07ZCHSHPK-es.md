@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZCHSHPK-es CD16 Smart Fashion Pantalla en Color Monitorización del...'
-tags: 
+tags: tole.es
 actualPrice: 17.39 EUR
 currency: EUR
 price: 17.39

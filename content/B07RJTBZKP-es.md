@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RJTBZKP-es adidas Predator 19.3 FG Zapatillas de Fútbol para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

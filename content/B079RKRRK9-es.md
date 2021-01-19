@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079RKRRK9-es Sorel Explorer Joan Botas para Mujer Gris Quarry/Black 052...'
-tags: 
+tags: tole.es
 actualPrice: 105 EUR
 currency: EUR
 price: 105

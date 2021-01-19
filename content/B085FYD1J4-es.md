@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085FYD1J4-es Bandas de Resistencia Gluteos Set -Conjunto de Bandas de...'
-tags: 
+tags: tole.es
 actualPrice: 16.98 EUR
 currency: EUR
 price: 16.98

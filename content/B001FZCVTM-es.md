@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001FZCVTM-es Wilson Champ Extra Duty Pelotas de tenis tubo con 3...'
-tags: 
+tags: tole.es
 actualPrice: 3.15 EUR
 currency: EUR
 price: 3.15

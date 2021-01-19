@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N6XDL5K-es Tommy Hilfiger Cosy Rainboot Botines para Mujer Midnight...'
-tags: 
+tags: tole.es
 actualPrice: 39.59 EUR
 currency: EUR
 price: 39.59

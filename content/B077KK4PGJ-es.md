@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077KK4PGJ-es Zapatillas/Botas de Estar por casa Suaves con Detalle de...'
-tags: 
+tags: tole.es
 actualPrice: 3.45 EUR
 currency: EUR
 price: 3.45

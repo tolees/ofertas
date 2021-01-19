@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LB772XR-es Bowflex PR1000 Gimnasio casero Adultos Unisex Rojo Negro...'
-tags: 
+tags: tole.es
 actualPrice: 311.09 EUR
 currency: EUR
 price: 311.09

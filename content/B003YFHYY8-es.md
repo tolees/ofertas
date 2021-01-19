@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003YFHYY8-es Bosch TKA8653 - Máquina de café 1100 W capacidad para 8/12...'
-tags: 
+tags: tole.es
 actualPrice: 32.88 EUR
 currency: EUR
 price: 32.88

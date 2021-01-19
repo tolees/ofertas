@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RLYLMYR-es Columbia IVO TRAIL BREEZE Zapatillas deportivas para...'
-tags: 
+tags: tole.es
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

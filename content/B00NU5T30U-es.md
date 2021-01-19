@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NU5T30U-es Polly Super Conjunto para el supermercado Infantil Espana...'
-tags: 
+tags: tole.es
 actualPrice: 6.95 EUR
 currency: EUR
 price: 6.95

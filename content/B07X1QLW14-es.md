@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X1QLW14-es Orimade Adhesivo Estantes Cesta para Ducha Estanteria con...'
-tags: 
+tags: tole.es
 actualPrice: 23.75 EUR
 currency: EUR
 price: 23.75

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SB1BDN7-es GREAT ART Foto Mural Infantil Animales de la Selva...'
-tags: 
+tags: tole.es
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

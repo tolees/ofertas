@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PJL9VHR-es Jarabe de arce Grado A Very Dark Strong taste - 189ml 250g...'
-tags: 
+tags: tole.es
 actualPrice: 8.6 EUR
 currency: EUR
 price: 8.6

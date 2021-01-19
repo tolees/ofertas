@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KLY1BZR-es Brrnoo Rodillera Deportiva Ajustable Rodillera de...'
-tags: 
+tags: tole.es
 actualPrice: 5.59 EUR
 currency: EUR
 price: 5.59

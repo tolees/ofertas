@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N6TWSRS-es Tommy Hilfiger Premium Suede Runner Zapatillas para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 33.52 EUR
 currency: EUR
 price: 33.52

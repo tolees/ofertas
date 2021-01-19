@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EAKB3L0-es Toshiba Exceria M302-EA - Tarjeta de memoria MicroSDHC 32...'
-tags: 
+tags: tole.es
 actualPrice: 10.27 EUR
 currency: EUR
 price: 10.27

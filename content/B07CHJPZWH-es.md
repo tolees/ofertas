@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CHJPZWH-es JACK & JONES Jfwstoke Nubuck Botas Clasicas para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 34.01 EUR
 currency: EUR
 price: 34.01

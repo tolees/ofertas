@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0776XXPW8-es Tommy Hilfiger Piqué P Camiseta Polo con Cierre de 3...'
-tags: 
+tags: tole.es
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

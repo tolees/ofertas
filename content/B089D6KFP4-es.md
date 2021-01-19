@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089D6KFP4-es Niños Unisex analógico Digital Resistente al Agua Reloj...'
-tags: 
+tags: tole.es
 actualPrice: 2.28 EUR
 currency: EUR
 price: 2.28

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVGZWLH-es Black Tornado Tools Bobina de Hilo para desbrozadora -...'
-tags: 
+tags: tole.es
 actualPrice: 51.1 EUR
 currency: EUR
 price: 51.1

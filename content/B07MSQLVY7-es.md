@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MSQLVY7-es Scotch & Soda Stuart-Classic Garment-dyed Twill Chino...'
-tags: 
+tags: tole.es
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBL19O0-es Merrell Moab Adventure Lace Zapatillas de Senderismo para...'
-tags: 
+tags: tole.es
 actualPrice: 90.99 EUR
 currency: EUR
 price: 90.99

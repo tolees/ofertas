@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNMN576-es G-STAR RAW Carnic Pantalones Cortos Rosa Langoustino Pink...'
-tags: 
+tags: tole.es
 actualPrice: 16.16 EUR
 currency: EUR
 price: 16.16

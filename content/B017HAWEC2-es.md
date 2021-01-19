@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017HAWEC2-es Fiskars Cortador de queso curado Acero inoxidable/Plástico...'
-tags: 
+tags: tole.es
 actualPrice: 8.73 EUR
 currency: EUR
 price: 8.73

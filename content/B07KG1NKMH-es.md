@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG1NKMH-es PUMA Hybrid Astro Zapatillas de Running para Hombre -...'
-tags: 
+tags: tole.es
 actualPrice: 45.03 EUR
 currency: EUR
 price: 45.03

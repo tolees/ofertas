@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CWP94BP-es Rizador de Pestañas Eléctrico TOUCHBeauty Recargable...'
-tags: 
+tags: tole.es
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

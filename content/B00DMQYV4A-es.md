@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DMQYV4A-es Yosoo C Forma Decoración Levitación Magnética Flotante...'
-tags: 
+tags: tole.es
 actualPrice: 20.69 EUR
 currency: EUR
 price: 20.69

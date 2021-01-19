@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HZ2MC6J-es Disco Duro Externo 2 TB Disco Duro Externo para PC Mac...'
-tags: 
+tags: tole.es
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

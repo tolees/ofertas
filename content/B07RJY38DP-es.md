@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RJY38DP-es KooPower - Guirnalda de luces cable de cobre funciona con...'
-tags: 
+tags: tole.es
 actualPrice: 4.51 EUR
 currency: EUR
 price: 4.51

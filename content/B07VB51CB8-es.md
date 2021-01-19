@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VB51CB8-es Pepe Jeans Bandolera con Solapa 28 cm 6.01 Liters Negro'
-tags: 
+tags: tole.es
 actualPrice: 51.33 EUR
 currency: EUR
 price: 51.33

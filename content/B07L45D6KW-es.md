@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L45D6KW-es Adidas Terrex Skychaser LT Zapatillas de Deporte para...'
-tags: 
+tags: tole.es
 actualPrice: 64.37 EUR
 currency: EUR
 price: 64.37

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JYCH5HS-es Bolsas de Aseo RUISIKIOU 3 Sets Bolsa de Viaje de PVC...'
-tags: 
+tags: tole.es
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

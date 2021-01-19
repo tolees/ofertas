@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071RN9HBN-es Garnier Skin Active Gel Limpiador con Hoja de Té Verde -...'
-tags: 
+tags: tole.es
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

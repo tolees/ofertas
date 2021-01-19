@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S8XNJ9K-es GREAT ART Foto Mural New York Skyline al Atardecer Ciudad...'
-tags: 
+tags: tole.es
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

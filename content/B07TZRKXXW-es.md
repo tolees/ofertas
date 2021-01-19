@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZRKXXW-es BRIKSMAX Kit de Iluminación Led para Ego Star Wars Kylo...'
-tags: 
+tags: tole.es
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

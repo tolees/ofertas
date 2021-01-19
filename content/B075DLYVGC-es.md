@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075DLYVGC-es Clarks Brixby Cove Sandalia con Pulsera para Hombre Marrón...'
-tags: 
+tags: tole.es
 actualPrice: 44.68 EUR
 currency: EUR
 price: 44.68

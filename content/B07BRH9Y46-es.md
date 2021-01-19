@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BRH9Y46-es Adidas Nemeziz Messi Tango 17.4 In J Zapatillas de fútbol...'
-tags: 
+tags: tole.es
 actualPrice: 10.8 EUR
 currency: EUR
 price: 10.8

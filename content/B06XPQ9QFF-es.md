@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XPQ9QFF-es Pasito a pasito 73757 - Maleta acolchada Inés color rosa'
-tags: 
+tags: tole.es
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

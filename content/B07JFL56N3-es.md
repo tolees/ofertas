@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JFL56N3-es PUMA Carina L Zapatillas para Mujer Blanco White White...'
-tags: 
+tags: tole.es
 actualPrice: 43.5 EUR
 currency: EUR
 price: 43.5

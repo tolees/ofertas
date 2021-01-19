@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086QFXNN4-es Suhctup Funda Compatible con Huawei P20 Lite 2019 Carcasa...'
-tags: 
+tags: tole.es
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

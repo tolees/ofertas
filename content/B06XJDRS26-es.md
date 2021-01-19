@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XJDRS26-es AiSi - Cartera de mano para mujer rojo rosso Talla única'
-tags: 
+tags: tole.es
 actualPrice: 23.87 EUR
 currency: EUR
 price: 23.87

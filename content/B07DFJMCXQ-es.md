@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFJMCXQ-es Crocs LiteRide Clog - Zuecosnisex Adulto Negro Black/Smoke...'
-tags: 
+tags: tole.es
 actualPrice: 35.65 EUR
 currency: EUR
 price: 35.65

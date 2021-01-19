@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WVYCRD7-es Hombres Sandalias Senderismo Verano Zapatillas Trekking...'
-tags: 
+tags: tole.es
 actualPrice: 20.34 EUR
 currency: EUR
 price: 20.34

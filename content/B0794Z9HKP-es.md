@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0794Z9HKP-es Orient FAC08004D0 - Reloj de Pulsera para Hombre Azul/Negro'
-tags: 
+tags: tole.es
 actualPrice: 130.33 EUR
 currency: EUR
 price: 130.33

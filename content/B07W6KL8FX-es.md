@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W6KL8FX-es Fivejoy Coche Teledirigido 1:28 RC Coche 15km/h Stunt...'
-tags: 
+tags: tole.es
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RGNW679-es New Balance Draft Zapatillas de Running para Hombre Gris...'
-tags: 
+tags: tole.es
 actualPrice: 34.22 EUR
 currency: EUR
 price: 34.22

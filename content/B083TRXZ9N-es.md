@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083TRXZ9N-es Crucial Ballistix BL2K16G36C16U4R 3600 MHz DDR4 DRAM...'
-tags: 
+tags: tole.es
 actualPrice: 153.66 EUR
 currency: EUR
 price: 153.66

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YCY8GG3-es LIGE Relojes para Hombre Acero Inoxidable Impermeable...'
-tags: 
+tags: tole.es
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

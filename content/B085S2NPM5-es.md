@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085S2NPM5-es Famus Mesa para computadora portátil de Madera...'
-tags: 
+tags: tole.es
 actualPrice: 16.09 EUR
 currency: EUR
 price: 16.09

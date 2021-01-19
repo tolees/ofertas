@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VBZL81C-es BOSS Plisy 1 Polo Azul Navy 410 Medium para Hombre'
-tags: 
+tags: tole.es
 actualPrice: 29.88 EUR
 currency: EUR
 price: 29.88

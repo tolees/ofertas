@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003VTVRVS-es Madal Bal Gel Aloe Árbol Te - 200 gr'
-tags: 
+tags: tole.es
 actualPrice: 7.51 EUR
 currency: EUR
 price: 7.51

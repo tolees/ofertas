@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005X5IKN6-es Ted Lapidus Black Soul Imperial - Agua de toilette 50 ml'
-tags: 
+tags: tole.es
 actualPrice: 20.58 EUR
 currency: EUR
 price: 20.58

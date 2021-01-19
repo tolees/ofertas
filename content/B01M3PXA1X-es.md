@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M3PXA1X-es Sigma 01417 Ciclocomputador Negro'
-tags: 
+tags: tole.es
 actualPrice: 51.67 EUR
 currency: EUR
 price: 51.67

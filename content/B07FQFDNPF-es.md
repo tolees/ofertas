@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQFDNPF-es Buff Adventure Junior Frozen Tubular Polar Unisex Adulto...'
-tags: 
+tags: tole.es
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SH2TMZ3-es Kappa Maglia Replica Home 2019/2020 Unisex Adulto Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 22.96 EUR
 currency: EUR
 price: 22.96

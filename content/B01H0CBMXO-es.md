@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H0CBMXO-es Electronic Arts - Titanfall 2'
-tags: 
+tags: tole.es
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

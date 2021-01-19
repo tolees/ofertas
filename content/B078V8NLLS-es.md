@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078V8NLLS-es 100 Papeles Multicolores de Origami Ideal para Hacer...'
-tags: 
+tags: tole.es
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

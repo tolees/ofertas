@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087P5STKN-es LQHZWY Cortina de Puerta Pantalla de la Puerta Puerta de...'
-tags: 
+tags: tole.es
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

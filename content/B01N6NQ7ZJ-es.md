@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6NQ7ZJ-es Magno - Gel de Ducha Black - Energizante con toque...'
-tags: 
+tags: tole.es
 actualPrice: 1.6 EUR
 currency: EUR
 price: 1.6

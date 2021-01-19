@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071VSVV6R-es Under Armour UA Launch AV Cap Gorras de béisbol Gorrapara...'
-tags: 
+tags: tole.es
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

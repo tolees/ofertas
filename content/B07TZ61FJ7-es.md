@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZ61FJ7-es Skechers Arch Fit Zapatillas sin Cordones para Hombre Azul...'
-tags: 
+tags: tole.es
 actualPrice: 47.28 EUR
 currency: EUR
 price: 47.28

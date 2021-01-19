@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCK2Q7B-es Levi s Two Horse Embossed Belt Cinturón Marrón Brown 28 90...'
-tags: 
+tags: tole.es
 actualPrice: 11.08 EUR
 currency: EUR
 price: 11.08

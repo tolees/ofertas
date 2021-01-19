@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KDHFPTY-es Pepe Jeans Stanley Pantalones Verde Dark Khaki Green 785...'
-tags: 
+tags: tole.es
 actualPrice: 53.49 EUR
 currency: EUR
 price: 53.49

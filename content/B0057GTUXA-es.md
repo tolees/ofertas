@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0057GTUXA-es Epson Multipack T0807 6 colores etiqueta RF - Cartucho de...'
-tags: 
+tags: tole.es
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

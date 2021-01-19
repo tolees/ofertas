@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBTHZ2T-es Vans MN Full Patch Snapback Gorra de béisbol Verde Sharp...'
-tags: 
+tags: tole.es
 actualPrice: 15.97 EUR
 currency: EUR
 price: 15.97

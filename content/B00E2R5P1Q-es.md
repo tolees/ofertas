@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00E2R5P1Q-es Hugo Boss 53968 - Agua de perfume'
-tags: 
+tags: tole.es
 actualPrice: 50.1 EUR
 currency: EUR
 price: 50.1

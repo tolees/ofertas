@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SN95JKR-es adidas Real PES Suit Y Chándal Unisex niños Negro/Orfúos 152'
-tags: 
+tags: tole.es
 actualPrice: 53.97 EUR
 currency: EUR
 price: 53.97

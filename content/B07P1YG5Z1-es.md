@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P1YG5Z1-es Himylife HQKJ 160 Bar 2300 PSI 10 Metros Manguera de...'
-tags: 
+tags: tole.es
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

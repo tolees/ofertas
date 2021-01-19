@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NX4T6HB-es Igi&Co Uomo Gore-tex-41367 Zapatillas de Gimnasia para...'
-tags: 
+tags: tole.es
 actualPrice: 38.83 EUR
 currency: EUR
 price: 38.83

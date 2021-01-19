@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CIEBXZG-es SanDisk iXpand - Memoria Flash USB de 128 GB para iPhone y...'
-tags: 
+tags: tole.es
 actualPrice: 60.99 EUR
 currency: EUR
 price: 60.99

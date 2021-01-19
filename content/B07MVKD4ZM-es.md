@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVKD4ZM-es Napapijri Soves Camiseta Negro Black 041 X-Large para Hombre'
-tags: 
+tags: tole.es
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

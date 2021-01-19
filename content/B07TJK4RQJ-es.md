@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJK4RQJ-es Clarks Un Rio Lace Zapatillas Gris Stone Leather Stone...'
-tags: 
+tags: tole.es
 actualPrice: 43.54 EUR
 currency: EUR
 price: 43.54

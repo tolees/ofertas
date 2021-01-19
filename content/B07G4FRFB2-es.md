@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G4FRFB2-es Tommy Hilfiger Reloj Multiesfera para Hombre de Cuarzo con...'
-tags: 
+tags: tole.es
 actualPrice: 108.01 EUR
 currency: EUR
 price: 108.01

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081FRS88N-es Frozen 2 Steelbook [Blu-ray]'
-tags: 
+tags: tole.es
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

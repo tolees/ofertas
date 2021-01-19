@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QL9RZ9M-es Targus Click-In 20 1 cm 7.9" Folio Negro - Fundas para...'
-tags: 
+tags: tole.es
 actualPrice: 11.59 EUR
 currency: EUR
 price: 11.59

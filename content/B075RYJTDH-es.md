@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075RYJTDH-es Ferplast - Comedero con balanza integrada para Perros y...'
-tags: 
+tags: tole.es
 actualPrice: 24.79 EUR
 currency: EUR
 price: 24.79

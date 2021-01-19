@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YWTM28P-es NUK Chupete espacial de silicona forma adaptada a la...'
-tags: 
+tags: tole.es
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

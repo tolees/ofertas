@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JUIPL88-es Aingoo Silla de Escritorio para niños Silla para niños...'
-tags: 
+tags: tole.es
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

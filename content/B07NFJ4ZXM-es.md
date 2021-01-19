@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NFJ4ZXM-es U.S. Polo Assn. Wilde2 Zapatillas de Gimnasia para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 53.96 EUR
 currency: EUR
 price: 53.96

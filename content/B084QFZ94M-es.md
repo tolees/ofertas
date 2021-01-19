@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084QFZ94M-es Maksexy Masajeador para Mujer 12 Modos para Relajación de...'
-tags: 
+tags: tole.es
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

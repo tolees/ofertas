@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRVVXFN-es G-STAR RAW Lynn Mid Waist Skinny Jeans Ajustados Azul lt...'
-tags: 
+tags: tole.es
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

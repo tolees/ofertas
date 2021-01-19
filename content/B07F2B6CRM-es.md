@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2B6CRM-es OurLeeme Cubierta Impermeable Barbacoa Grande Protector...'
-tags: 
+tags: tole.es
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

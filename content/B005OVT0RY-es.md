@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005OVT0RY-es BERING Reloj Analógico para Hombre de Cuarzo con Correa en...'
-tags: 
+tags: tole.es
 actualPrice: 127.91 EUR
 currency: EUR
 price: 127.91

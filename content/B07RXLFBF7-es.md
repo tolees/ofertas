@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXLFBF7-es New Balance 997H h Zapatillas para Hombre Azul Navy Hex 42 EU'
-tags: 
+tags: tole.es
 actualPrice: 41.0 EUR
 currency: EUR
 price: 41.0

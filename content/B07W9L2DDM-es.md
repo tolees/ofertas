@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W9L2DDM-es Sntieecr - Hojas de piel sintética con purpurina para...'
-tags: 
+tags: tole.es
 actualPrice: 16.07 EUR
 currency: EUR
 price: 16.07

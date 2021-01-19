@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079XD1G5R-es Taurus Geyser Eco 3000 Plancha Vapor W Suela anodizada...'
-tags: 
+tags: tole.es
 actualPrice: 50.13 EUR
 currency: EUR
 price: 50.13

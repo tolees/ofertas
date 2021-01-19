@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKH6ZXP-es Kipling - New Hiphurray Bolsos totes Mujer Multicolor...'
-tags: 
+tags: tole.es
 actualPrice: 21.75 EUR
 currency: EUR
 price: 21.75

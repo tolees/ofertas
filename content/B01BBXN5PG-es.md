@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BBXN5PG-es Samsonite 73349/1549 Cosmolite Spinner - Equipaje de Mano...'
-tags: 
+tags: tole.es
 actualPrice: 315.0 EUR
 currency: EUR
 price: 315.0

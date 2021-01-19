@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GDAJ0SO-es YAZILIND Joyería Hecha a Mano con Encanto étnica de Plata...'
-tags: 
+tags: tole.es
 actualPrice: 0.48 EUR
 currency: EUR
 price: 0.48

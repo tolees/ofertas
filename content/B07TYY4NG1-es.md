@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYY4NG1-es Merrell Moab 2 Mid GTX Botas de Senderismo para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 98.49 EUR
 currency: EUR
 price: 98.49

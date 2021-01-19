@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MV7ZPZM-es perfk Soporte de Carga Inalámbrica Qi Herramientas Moviles...'
-tags: 
+tags: tole.es
 actualPrice: 18.76 EUR
 currency: EUR
 price: 18.76

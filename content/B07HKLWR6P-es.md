@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HKLWR6P-es Vitamina E Natural 400 UI | 200 perlas Más de 6 meses de...'
-tags: 
+tags: tole.es
 actualPrice: 13.01 EUR
 currency: EUR
 price: 13.01

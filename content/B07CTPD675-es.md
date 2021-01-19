@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CTPD675-es Vieta Pro Power Pro - Altavoz inalámbrico portátil...'
-tags: 
+tags: tole.es
 actualPrice: 64.54 EUR
 currency: EUR
 price: 64.54

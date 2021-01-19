@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NC1TKYV-es Samsung Silicone Cover funda oficial para Samsung Galaxy...'
-tags: 
+tags: tole.es
 actualPrice: 12.29 EUR
 currency: EUR
 price: 12.29

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZRR42F4-es Suhctup Espejo Funda Reemplazo para Huawei Mate 10 Caso PC...'
-tags: 
+tags: tole.es
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

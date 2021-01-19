@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NH12RWL-es Finether-Lámpara de Pie Plegable Táctil de Alumnio con...'
-tags: 
+tags: tole.es
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

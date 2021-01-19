@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MHMTTNR-es ANLAN Electroestimulador Muscular Abdominales EMS...'
-tags: 
+tags: tole.es
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

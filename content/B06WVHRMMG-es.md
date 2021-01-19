@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WVHRMMG-es adidas Crazymove Studio Zapatillas de Deporte Interior...'
-tags: 
+tags: tole.es
 actualPrice: 7.01 EUR
 currency: EUR
 price: 7.01

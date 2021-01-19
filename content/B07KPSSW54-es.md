@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPSSW54-es Pop! Vinyl: Spider Man Far from Home: MJ'
-tags: 
+tags: tole.es
 actualPrice: 9.83 EUR
 currency: EUR
 price: 9.83

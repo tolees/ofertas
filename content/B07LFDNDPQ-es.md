@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFDNDPQ-es Levi s Slim 2pk Crewneck 1 Camiseta Multicolor 2 Pack...'
-tags: 
+tags: tole.es
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

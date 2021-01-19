@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084Z3SSKQ-es 1 pieza caliente completo al aire libre bebé infantil...'
-tags: 
+tags: tole.es
 actualPrice: 1.54 EUR
 currency: EUR
 price: 1.54

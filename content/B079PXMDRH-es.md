@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079PXMDRH-es Ravensburger Mask PJ Masks-Rompecabezas para niños de 3...'
-tags: 
+tags: tole.es
 actualPrice: 8.45 EUR
 currency: EUR
 price: 8.45

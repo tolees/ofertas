@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JB2GJMR-es Mondial A12 Calentador Calefactor Portátil 350 W Negro'
-tags: 
+tags: tole.es
 actualPrice: 20.45 EUR
 currency: EUR
 price: 20.45

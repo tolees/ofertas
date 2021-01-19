@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P61CRPT-es Wond3rland Póster para Rascar Prémium con Lista de 100...'
-tags: 
+tags: tole.es
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

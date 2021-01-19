@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N1F57QL-es L Oréal Paris Colorista Coloración Temporal Colorista...'
-tags: 
+tags: tole.es
 actualPrice: 2.39 EUR
 currency: EUR
 price: 2.39

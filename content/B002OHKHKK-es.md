@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002OHKHKK-es Wolfcraft 2459000 2459000-1 Llave de Brida Universal para...'
-tags: 
+tags: tole.es
 actualPrice: 3.4 EUR
 currency: EUR
 price: 3.4

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076QKKG2T-es Razer Electra V2 - Auriculares analógicos para juegos y...'
-tags: 
+tags: tole.es
 actualPrice: 35 EUR
 currency: EUR
 price: 35

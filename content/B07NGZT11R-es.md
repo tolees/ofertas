@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGZT11R-es Kappa 2019/20 Real Betis Primera equipación niño'
-tags: 
+tags: tole.es
 actualPrice: 41.65 EUR
 currency: EUR
 price: 41.65

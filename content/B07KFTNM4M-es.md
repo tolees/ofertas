@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFTNM4M-es Helly Hansen Hp Atlantic Fz Hoodie Sudadera para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

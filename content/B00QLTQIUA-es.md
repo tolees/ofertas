@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QLTQIUA-es Rayen Barra Extra de Armario Acero Gris 77 x 85 x 2'
-tags: 
+tags: tole.es
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

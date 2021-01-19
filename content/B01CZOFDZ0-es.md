@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CZOFDZ0-es American Tourister 75506/1099 - Funshine upright 2 ruedas...'
-tags: 
+tags: tole.es
 actualPrice: 47.2 EUR
 currency: EUR
 price: 47.2

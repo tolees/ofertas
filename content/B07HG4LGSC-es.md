@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HG4LGSC-es New Balance Ypariv2 n Zapatillas Deportivas para Interior...'
-tags: 
+tags: tole.es
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

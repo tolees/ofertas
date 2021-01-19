@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWX8ZDM-es GFF Adornos Modernes Cerámica Escultura Einfaches...'
-tags: 
+tags: tole.es
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

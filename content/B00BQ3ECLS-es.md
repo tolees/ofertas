@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BQ3ECLS-es Easy-Macro - Macro + 4 - Objetivo Macro + 4 montado sobre...'
-tags: 
+tags: tole.es
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

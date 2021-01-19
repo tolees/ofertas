@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083HQGBSV-es Vestigia® - Monorim V1 & V2 Soporte Guardabarros Frontal...'
-tags: 
+tags: tole.es
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

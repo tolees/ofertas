@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003S2KJ6C-es Vans Herren Classic Vggg T-Shirt Schwarz BLACK-WHITE Y28 L'
-tags: 
+tags: tole.es
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

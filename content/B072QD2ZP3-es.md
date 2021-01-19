@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072QD2ZP3-es New Balance Fresh Foam Cruz Sport Pack Reflective m...'
-tags: 
+tags: tole.es
 actualPrice: 29.49 EUR
 currency: EUR
 price: 29.49

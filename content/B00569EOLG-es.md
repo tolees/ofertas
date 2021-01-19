@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00569EOLG-es Nick and Ben - Aspersor loco de flores aspersor de césped...'
-tags: 
+tags: tole.es
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

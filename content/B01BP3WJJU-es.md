@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BP3WJJU-es HP PageWide Pro 477dw MFP Impresora inyección de tinta...'
-tags: 
+tags: tole.es
 actualPrice: 399.0 EUR
 currency: EUR
 price: 399.0

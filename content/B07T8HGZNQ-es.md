@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T8HGZNQ-es Finocam - Agenda 2020 semana vista vertical Dynamic Mara...'
-tags: 
+tags: tole.es
 actualPrice: 5.6 EUR
 currency: EUR
 price: 5.6

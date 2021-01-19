@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HLDBTQH-es READ Reloj para Hombre Reloj de Cuarzo Marca de fábrica...'
-tags: 
+tags: tole.es
 actualPrice: 11.88 EUR
 currency: EUR
 price: 11.88

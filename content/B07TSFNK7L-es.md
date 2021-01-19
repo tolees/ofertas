@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSFNK7L-es Lacoste Rc2012 Cinturón Beige Fog D47 90 para Hombre'
-tags: 
+tags: tole.es
 actualPrice: 31.37 EUR
 currency: EUR
 price: 31.37

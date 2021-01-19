@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MR2X4DG-es Fashion·LIFE Plancha De Vapor de Mano para Ropa Plancha...'
-tags: 
+tags: tole.es
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081QGSVGT-es Neutrogena Cellular Boost Anti-Edad Contorno De Ojos Anti-...'
-tags: 
+tags: tole.es
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

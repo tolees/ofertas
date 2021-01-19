@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KSKGMR8-es The Raven Remastered'
-tags: 
+tags: tole.es
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

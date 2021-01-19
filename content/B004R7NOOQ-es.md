@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004R7NOOQ-es Funko - POP! Bobble Colección Marvel - Figura Capitán...'
-tags: 
+tags: tole.es
 actualPrice: 10.71 EUR
 currency: EUR
 price: 10.71

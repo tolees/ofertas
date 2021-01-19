@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKMPGGV-es The Gourmet Collection - Mezcla de especias - Orégano...'
-tags: 
+tags: tole.es
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

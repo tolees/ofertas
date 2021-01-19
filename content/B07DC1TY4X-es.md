@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DC1TY4X-es Puma Nova 90 s Bloc Wn s Zapatillas para Mujer Negro Black...'
-tags: 
+tags: tole.es
 actualPrice: 37.49 EUR
 currency: EUR
 price: 37.49

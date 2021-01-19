@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0765BD1WX-es LEGO Juniors 4+ City - Gran Aeropuerto de la Ciudad...'
-tags: 
+tags: tole.es
 actualPrice: 39.2 EUR
 currency: EUR
 price: 39.2

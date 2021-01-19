@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q1DHFS8-es Lav ADR15 Coloure - Vasos de whisky 290 ml 6 unidades Vidrio'
-tags: 
+tags: tole.es
 actualPrice: 14.45 EUR
 currency: EUR
 price: 14.45

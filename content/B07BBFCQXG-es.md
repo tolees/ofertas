@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BBFCQXG-es Versus by Versace Reloj Analogico para Hombre de Cuarzo...'
-tags: 
+tags: tole.es
 actualPrice: 187.87 EUR
 currency: EUR
 price: 187.87

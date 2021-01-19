@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X9TFG24-es AEG WX7-90A2B Limpiador de Ventanas Batería hasta 90min 3...'
-tags: 
+tags: tole.es
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

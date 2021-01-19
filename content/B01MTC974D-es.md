@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MTC974D-es George Foreman - Grill Barbacoa Parrilla Eléctrica 2400 W...'
-tags: 
+tags: tole.es
 actualPrice: 90.58 EUR
 currency: EUR
 price: 90.58

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0117DMNTE-es Citizen Reloj Analógico para Hombre de Cuarzo con Correa...'
-tags: 
+tags: tole.es
 actualPrice: 44.4 EUR
 currency: EUR
 price: 44.4

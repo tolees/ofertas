@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VZF1RSN-es Lurrose 80 pañuelos pañuelos pañuelos toallas limpias para...'
-tags: 
+tags: tole.es
 actualPrice: 2.43 EUR
 currency: EUR
 price: 2.43

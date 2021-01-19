@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D87W2GD-es Munich Massana Zapatillas de Deporte para Hombre Azul...'
-tags: 
+tags: tole.es
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

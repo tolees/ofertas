@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7GALHG-es Ruavieja Licor de Té con Jengibre - 700 ml'
-tags: 
+tags: tole.es
 actualPrice: 6.25 EUR
 currency: EUR
 price: 6.25

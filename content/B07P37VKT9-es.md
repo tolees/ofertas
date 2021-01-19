@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P37VKT9-es ANGEL NINA Regalos Navidad Mujer pendientes mujer plata...'
-tags: 
+tags: tole.es
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQXVWDR-es Under Armour SweaterFleece 1/2 Zip Parte Superior del...'
-tags: 
+tags: tole.es
 actualPrice: 18.79 EUR
 currency: EUR
 price: 18.79

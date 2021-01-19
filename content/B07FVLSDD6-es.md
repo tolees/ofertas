@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FVLSDD6-es Destornillador Eléctrico TECCPO 4Nm Atornillador...'
-tags: 
+tags: tole.es
 actualPrice: 25.58 EUR
 currency: EUR
 price: 25.58

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FVSVBDW-es Beautural Secador de Pelo Secador 2200W con Selector de...'
-tags: 
+tags: tole.es
 actualPrice: 23.19 EUR
 currency: EUR
 price: 23.19

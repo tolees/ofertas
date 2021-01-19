@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVGYL91-es Fairy Taill & Glitter Fee 100 Unidades Mezcla Cristal...'
-tags: 
+tags: tole.es
 actualPrice: 9.45 EUR
 currency: EUR
 price: 9.45

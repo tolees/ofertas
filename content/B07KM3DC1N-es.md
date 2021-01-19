@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KM3DC1N-es Merrell Trail Glove 5 Zapatillas Deportivas para Interior...'
-tags: 
+tags: tole.es
 actualPrice: 83.95 EUR
 currency: EUR
 price: 83.95

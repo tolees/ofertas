@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000V3NBIO-es Emsa Basic Tapa Blanco 33 cm'
-tags: 
+tags: tole.es
 actualPrice: 11.15 EUR
 currency: EUR
 price: 11.15

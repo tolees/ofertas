@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXXC5VZ-es Wrangler Texas Contrast Hombre Jeans Azul Mistral Green...'
-tags: 
+tags: tole.es
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

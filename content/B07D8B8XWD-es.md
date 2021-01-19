@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D8B8XWD-es New Balance Fresh Foam Cruz Sockfit Zapatillas para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 45.84 EUR
 currency: EUR
 price: 45.84

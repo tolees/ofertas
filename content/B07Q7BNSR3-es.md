@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q7BNSR3-es Pediatopic Sun Facial 50ml Protector solar para pieles...'
-tags: 
+tags: tole.es
 actualPrice: 10.73 EUR
 currency: EUR
 price: 10.73

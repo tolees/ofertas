@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3XJ6G4-es Diadermine - Hydralist Crema Hidratante de Día - Textura...'
-tags: 
+tags: tole.es
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

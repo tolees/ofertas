@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RPDGWX4-es Dihope zapatillas deportivas para mujer de malla...'
-tags: 
+tags: tole.es
 actualPrice: 7.4 EUR
 currency: EUR
 price: 7.4

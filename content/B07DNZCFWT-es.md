@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DNZCFWT-es Termómetro Digital Frente y Oído 4 in 1 Termómetro...'
-tags: 
+tags: tole.es
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

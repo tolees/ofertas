@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MD5BLVP-es L Oreal Paris Infalible More Than Concealer Corrector...'
-tags: 
+tags: tole.es
 actualPrice: 6.85 EUR
 currency: EUR
 price: 6.85

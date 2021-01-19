@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072J8ZX2B-es Remescar - Crema de ojos para patas de gallo - Crema de...'
-tags: 
+tags: tole.es
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

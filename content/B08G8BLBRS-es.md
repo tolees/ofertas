@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08G8BLBRS-es Lechnical Termómetros infrarrojos'
-tags: 
+tags: tole.es
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XYGDR1W-es S&R Pistola de silicona profesional para cartuchos de...'
-tags: 
+tags: tole.es
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

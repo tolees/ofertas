@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017Y3GKTK-es Dewalt DWE492S-QS Amoladora 230 mm 2.200W 6.500 rpm...'
-tags: 
+tags: tole.es
 actualPrice: 107.61 EUR
 currency: EUR
 price: 107.61

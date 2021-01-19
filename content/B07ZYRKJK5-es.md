@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZYRKJK5-es Queta 3Pcs Pulsera de Plata Pulsera para niña Kit de...'
-tags: 
+tags: tole.es
 actualPrice: 12.89 EUR
 currency: EUR
 price: 12.89

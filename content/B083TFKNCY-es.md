@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083TFKNCY-es NETVIP Repetidor WiFi AC1200 Extensor WiFi Amplificador...'
-tags: 
+tags: tole.es
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079P8NWVX-es Brabantia Organizador de Fregadero Gris Oscuro 8 5 x 19 x...'
-tags: 
+tags: tole.es
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

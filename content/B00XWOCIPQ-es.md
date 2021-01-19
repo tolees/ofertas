@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XWOCIPQ-es Nike Court Royale Zapatillas de Gimnasia para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

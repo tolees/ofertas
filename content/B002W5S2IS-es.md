@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002W5S2IS-es Converse M9166C - Zapatillas de lona /canvas para mujer...'
-tags: 
+tags: tole.es
 actualPrice: 32.01 EUR
 currency: EUR
 price: 32.01

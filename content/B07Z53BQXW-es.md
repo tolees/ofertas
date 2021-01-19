@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z53BQXW-es Ropa de cama impresa microfibra suave y transpirable Ropa...'
-tags: 
+tags: tole.es
 actualPrice: 15.79 EUR
 currency: EUR
 price: 15.79

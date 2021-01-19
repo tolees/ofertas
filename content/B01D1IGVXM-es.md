@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D1IGVXM-es REPEL BITE NATURAL ADULTO pulsera citronela. Pulsera...'
-tags: 
+tags: tole.es
 actualPrice: 4.2 EUR
 currency: EUR
 price: 4.2

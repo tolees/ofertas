@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YLLLTY1-es ngzhongtu 4 Puertos HUB de Alta Velocidad Hi-Speed 4...'
-tags: 
+tags: tole.es
 actualPrice: 1.38 EUR
 currency: EUR
 price: 1.38

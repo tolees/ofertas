@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RY8VPM2-es JACK & JONES NOS Jjesoft Sweat Crew Neck Noos Sudadera...'
-tags: 
+tags: tole.es
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

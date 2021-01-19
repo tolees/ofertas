@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001P2PPBQ-es Revlon ColorStay Overtime Pintalabios Larga Duración #005...'
-tags: 
+tags: tole.es
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

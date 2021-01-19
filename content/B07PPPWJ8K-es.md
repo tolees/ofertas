@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PPPWJ8K-es New Balance 373 Zapatillas para Hombre Amarillo Yellow...'
-tags: 
+tags: tole.es
 actualPrice: 56 EUR
 currency: EUR
 price: 56

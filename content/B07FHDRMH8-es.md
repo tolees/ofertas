@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FHDRMH8-es Salomon XA Cap Gorra de Malla Impermeable Unisex Adulto...'
-tags: 
+tags: tole.es
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

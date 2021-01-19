@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00D76RNLS-es Manfrotto MTPIXI-B - Minitrípode Pixi para Cámaras CSC...'
-tags: 
+tags: tole.es
 actualPrice: 13.76 EUR
 currency: EUR
 price: 13.76

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BJ1PMJQ-es Set M Playlife de caza AMG 500 con figura y accesorios...'
-tags: 
+tags: tole.es
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

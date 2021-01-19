@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PGQ5F1Q-es Scarpa Fila Venom Low Bianca Fuxia nera'
-tags: 
+tags: tole.es
 actualPrice: 85.29 EUR
 currency: EUR
 price: 85.29

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008OI0Z7I-es Atosa-10420 Disfraz Policía color negro M-L 10420'
-tags: 
+tags: tole.es
 actualPrice: 14.46 EUR
 currency: EUR
 price: 14.46

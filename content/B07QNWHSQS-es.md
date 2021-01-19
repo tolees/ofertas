@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QNWHSQS-es Dellemade Sputnik - Lámpara de araña de 6 luces vintage...'
-tags: 
+tags: tole.es
 actualPrice: 13.73 EUR
 currency: EUR
 price: 13.73

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084ZWR4HC-es Juego de 3 pizarras magnéticas Adhesivas 40 x 5 5 cm con 9...'
-tags: 
+tags: tole.es
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

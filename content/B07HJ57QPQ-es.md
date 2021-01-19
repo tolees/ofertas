@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HJ57QPQ-es Funko- Pop Vinyl: Rocks: Queen: Brian May Figura De Vinilo...'
-tags: 
+tags: tole.es
 actualPrice: 9.38 EUR
 currency: EUR
 price: 9.38

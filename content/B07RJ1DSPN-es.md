@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RJ1DSPN-es Levi s 502 Taper Shorts 10" Pantalones Cortos Azul...'
-tags: 
+tags: tole.es
 actualPrice: 33.24 EUR
 currency: EUR
 price: 33.24

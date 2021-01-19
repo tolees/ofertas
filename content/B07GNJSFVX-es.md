@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GNJSFVX-es HyperX Predator - Memoria RAM de 32 GB DDR4 Kit 2 x 16 GB...'
-tags: 
+tags: tole.es
 actualPrice: 199.65 EUR
 currency: EUR
 price: 199.65

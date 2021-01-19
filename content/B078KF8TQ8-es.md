@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078KF8TQ8-es Suavinex Esterilizador de Chupetes Portátil de Luz Uv Azul...'
-tags: 
+tags: tole.es
 actualPrice: 17.19 EUR
 currency: EUR
 price: 17.19

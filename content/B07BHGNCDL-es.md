@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BHGNCDL-es ghd mini - Plancha de pelo profesional con placas finas de...'
-tags: 
+tags: tole.es
 actualPrice: 134.99 EUR
 currency: EUR
 price: 134.99

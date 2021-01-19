@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083DRPFTR-es estante Gourmet Kitchen Rail con ganchos Montado en la...'
-tags: 
+tags: tole.es
 actualPrice: 53.99 EUR
 currency: EUR
 price: 53.99

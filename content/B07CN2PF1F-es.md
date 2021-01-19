@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CN2PF1F-es Auriculares Bluetooth Syllable D900P Auriculares...'
-tags: 
+tags: tole.es
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

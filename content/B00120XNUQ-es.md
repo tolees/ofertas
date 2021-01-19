@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00120XNUQ-es Converse Chuck Taylor All Star Zapatillas de Tela Unisex...'
-tags: 
+tags: tole.es
 actualPrice: 48.94 EUR
 currency: EUR
 price: 48.94

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WLR891P-es Jack & Jones Jorfame Crew Neck Suéter Azul Sea Moss Fit:...'
-tags: 
+tags: tole.es
 actualPrice: 10.82 EUR
 currency: EUR
 price: 10.82

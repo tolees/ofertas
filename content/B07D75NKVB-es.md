@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D75NKVB-es Lenovo Yoga 910-13IKB - Portátil táctil Convertible de...'
-tags: 
+tags: tole.es
 actualPrice: 1066.61 EUR
 currency: EUR
 price: 1066.61

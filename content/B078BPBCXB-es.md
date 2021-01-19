@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078BPBCXB-es Emporio Armani Reloj Analógico para Hombre de Cuarzo con...'
-tags: 
+tags: tole.es
 actualPrice: 138.78 EUR
 currency: EUR
 price: 138.78

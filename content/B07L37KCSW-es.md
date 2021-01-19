@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L37KCSW-es Aceite de Krill | Krill puro + EPA + DHA + astaxantina |...'
-tags: 
+tags: tole.es
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077RZRDRS-es Heavy Duty alfabeto letra número juego de herramienta de...'
-tags: 
+tags: tole.es
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079TKRZNV-es Yoku’s Island Express'
-tags: 
+tags: tole.es
 actualPrice: 26.64 EUR
 currency: EUR
 price: 26.64

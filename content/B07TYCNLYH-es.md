@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYCNLYH-es Lee Plain Crew Suéter Azul Midnight Navy Ma Medium para...'
-tags: 
+tags: tole.es
 actualPrice: 26.5 EUR
 currency: EUR
 price: 26.5

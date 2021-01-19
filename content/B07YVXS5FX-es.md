@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YVXS5FX-es Beats Solo3 Wireless - Auriculares supraaurales - Chip...'
-tags: 
+tags: tole.es
 actualPrice: 146.4 EUR
 currency: EUR
 price: 146.4

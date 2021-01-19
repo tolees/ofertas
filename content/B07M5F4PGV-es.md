@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5F4PGV-es Wrangler LS Refined Polo Camisa Manga Larga Negro Black...'
-tags: 
+tags: tole.es
 actualPrice: 22.48 EUR
 currency: EUR
 price: 22.48

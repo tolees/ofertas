@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MC15SHH-es Cecotec Rock n Grill 1500 Take&Clean - Parrilla Eléctrica...'
-tags: 
+tags: tole.es
 actualPrice: 31.92 EUR
 currency: EUR
 price: 31.92

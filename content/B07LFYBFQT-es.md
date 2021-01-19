@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFYBFQT-es Geox U Mattias B ABX C Botas Chukka para Hombre Negro...'
-tags: 
+tags: tole.es
 actualPrice: 40.83 EUR
 currency: EUR
 price: 40.83

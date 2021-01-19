@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TS9FW7F-es Gant Prepville Zapatillas para Hombre Blanco Off White G20...'
-tags: 
+tags: tole.es
 actualPrice: 35.92 EUR
 currency: EUR
 price: 35.92

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083M97NBG-es PAYMA - Zapatillas Botas de Lona para Mujer. Bambas...'
-tags: 
+tags: tole.es
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

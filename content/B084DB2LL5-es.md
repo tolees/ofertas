@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084DB2LL5-es Sierras sable 18V brushless POPOMAN Sierra Sable sin...'
-tags: 
+tags: tole.es
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

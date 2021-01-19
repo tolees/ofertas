@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LGSLAW6-es Maurer 15013410 Botas Seguridad 40'
-tags: 
+tags: tole.es
 actualPrice: 15.92 EUR
 currency: EUR
 price: 15.92

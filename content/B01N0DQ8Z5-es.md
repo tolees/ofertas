@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N0DQ8Z5-es Ariete 155/15 - Tostador 2 ranuras anchas vintage 6...'
-tags: 
+tags: tole.es
 actualPrice: 44.0 EUR
 currency: EUR
 price: 44.0

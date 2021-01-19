@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RGM1YZP-es Columbia Ivo Trail Zapatillas para Hombre Marrón Oatmeal...'
-tags: 
+tags: tole.es
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

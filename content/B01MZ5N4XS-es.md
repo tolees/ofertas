@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZ5N4XS-es Cuna de Viaje Plegable Star Ibaby Sleep & Play. Doble...'
-tags: 
+tags: tole.es
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

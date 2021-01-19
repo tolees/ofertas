@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BGTOK1S-es G-Star Raw Bronson Pantalones Para Hombre Negro D00523...'
-tags: 
+tags: tole.es
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

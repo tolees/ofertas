@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078ZYQY33-es TRESemmé Champú Color Keratina - Paquete de 3 x 700 ml -...'
-tags: 
+tags: tole.es
 actualPrice: 12.25 EUR
 currency: EUR
 price: 12.25

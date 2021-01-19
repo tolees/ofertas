@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBN15ND-es Kappa Cammy Kids Botas Unisex Niños Grey/Pink 1622 30 EU'
-tags: 
+tags: tole.es
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

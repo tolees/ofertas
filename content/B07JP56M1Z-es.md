@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JP56M1Z-es adidas Tiro 19 Training Pnt Pantalones Deportivos Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

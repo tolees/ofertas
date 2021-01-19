@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SBDTZNG-es L Oréal Paris Barra de Labios Color Riche 132'
-tags: 
+tags: tole.es
 actualPrice: 7.53 EUR
 currency: EUR
 price: 7.53

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XFTMFRY-es Marca Amazon - find. Camisa Hombre Azul Blue Palm L Label: L'
-tags: 
+tags: tole.es
 actualPrice: 5.36 EUR
 currency: EUR
 price: 5.36

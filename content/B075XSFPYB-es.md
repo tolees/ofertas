@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075XSFPYB-es Sensilis Origin Pro EGF-5 - Crema Antiedad Rejuvenecedora...'
-tags: 
+tags: tole.es
 actualPrice: 58.93 EUR
 currency: EUR
 price: 58.93

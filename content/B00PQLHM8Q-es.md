@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PQLHM8Q-es Pentrilo - Cubeta plástico economica + rejilla plástico 16...'
-tags: 
+tags: tole.es
 actualPrice: 9.35 EUR
 currency: EUR
 price: 9.35

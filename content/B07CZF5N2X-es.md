@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZF5N2X-es Salomon RX Break 4.0 Calzado de recuperación para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

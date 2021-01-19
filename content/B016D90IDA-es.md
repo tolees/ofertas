@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016D90IDA-es Jamara- Flyscout AHP+ Quadrocopter Brújula LED Camara...'
-tags: 
+tags: tole.es
 actualPrice: 52.33 EUR
 currency: EUR
 price: 52.33

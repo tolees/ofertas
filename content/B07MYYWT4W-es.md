@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MYYWT4W-es Skechers Solar Fuse Zapatillas Deportivas para Mujer Negro...'
-tags: 
+tags: tole.es
 actualPrice: 44.26 EUR
 currency: EUR
 price: 44.26

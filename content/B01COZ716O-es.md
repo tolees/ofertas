@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01COZ716O-es Clarks Originals Boot Botas Desert para Mujer Azul Dark...'
-tags: 
+tags: tole.es
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

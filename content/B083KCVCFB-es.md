@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083KCVCFB-es LuckyGirls Chic Sandalias Mujer Plataforma Cuña Verano...'
-tags: 
+tags: tole.es
 actualPrice: 18.34 EUR
 currency: EUR
 price: 18.34

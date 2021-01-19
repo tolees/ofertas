@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ULI8CRO-es Samsonite Neopulse - Spinner S Ancho: 20 cm Equipaje de...'
-tags: 
+tags: tole.es
 actualPrice: 169.55 EUR
 currency: EUR
 price: 169.55

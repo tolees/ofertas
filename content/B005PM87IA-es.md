@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005PM87IA-es GUESS X69004L2S - Reloj de pulsera'
-tags: 
+tags: tole.es
 actualPrice: 292.27 EUR
 currency: EUR
 price: 292.27

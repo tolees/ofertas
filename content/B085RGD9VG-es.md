@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085RGD9VG-es Agatha Ruiz de la Prada Bufanda Fular Pashmina Pareo Verde...'
-tags: 
+tags: tole.es
 actualPrice: 11.48 EUR
 currency: EUR
 price: 11.48

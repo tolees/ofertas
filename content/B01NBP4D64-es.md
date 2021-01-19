@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBP4D64-es Aquabeads- Disney Princess playset Epoch para Imaginar 30228'
-tags: 
+tags: tole.es
 actualPrice: 15.2 EUR
 currency: EUR
 price: 15.2

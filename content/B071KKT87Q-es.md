@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071KKT87Q-es YAZILIND Elegante Joyas de Estilo Floral con Encanto...'
-tags: 
+tags: tole.es
 actualPrice: 2.61 EUR
 currency: EUR
 price: 2.61

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G86SPJC-es TRESemmé Champú Botanique Coco Negro -700 ml'
-tags: 
+tags: tole.es
 actualPrice: 2.85 EUR
 currency: EUR
 price: 2.85

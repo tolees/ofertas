@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TS8MZYX-es Funko- Pop Games: Rage 2-Immortal Shroud Collectible Toy...'
-tags: 
+tags: tole.es
 actualPrice: 6.93 EUR
 currency: EUR
 price: 6.93

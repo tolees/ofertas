@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082HBLRS4-es ART VVIES Für Hauptdekorationen Schlafzimmer Leinwand...'
-tags: 
+tags: tole.es
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088FMVT31-es Nuevo 1 par 1 Canal transceptor de Video pasivo para...'
-tags: 
+tags: tole.es
 actualPrice: 2.34 EUR
 currency: EUR
 price: 2.34

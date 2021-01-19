@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06ZZXWKQR-es Botellas de Agua de Cristal - Set de 6 Botellas...'
-tags: 
+tags: tole.es
 actualPrice: 34.97 EUR
 currency: EUR
 price: 34.97

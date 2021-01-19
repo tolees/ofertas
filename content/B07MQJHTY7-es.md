@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQJHTY7-es Rowenta - Aspirador escoba inalámbrica RH8773WU autonomía...'
-tags: 
+tags: tole.es
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

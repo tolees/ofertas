@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SPW3C59-es Funko- Pop Books: Where s Waldo Collectible Figure...'
-tags: 
+tags: tole.es
 actualPrice: 8.09 EUR
 currency: EUR
 price: 8.09

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Q06L5CA-es iB-iP Mujer Leopardo Estampados a Casuales Super Suave...'
-tags: 
+tags: tole.es
 actualPrice: 13.77 EUR
 currency: EUR
 price: 13.77

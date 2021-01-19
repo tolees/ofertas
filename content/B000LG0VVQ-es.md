@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000LG0VVQ-es Silverline 633524 - Grapadora/clavadora neumática 50 mm...'
-tags: 
+tags: tole.es
 actualPrice: 38.15 EUR
 currency: EUR
 price: 38.15

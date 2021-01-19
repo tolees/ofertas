@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FPELW1G-es Idea de regalo"especialidades de cerveza de Alemania" para...'
-tags: 
+tags: tole.es
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

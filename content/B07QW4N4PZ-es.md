@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QW4N4PZ-es G★LAXIA Sierra Sable 1050W 3000SPM 4 Hojas Botón de...'
-tags: 
+tags: tole.es
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

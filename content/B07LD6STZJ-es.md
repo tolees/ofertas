@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LD6STZJ-es New Balance Q Speed Crew Running Short Bañador Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 19.24 EUR
 currency: EUR
 price: 19.24

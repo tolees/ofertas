@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCDHTB5-es EVERSEE Bluetooth Beanie Hat 5.0 Bluetooth Hat Inalámbrico...'
-tags: 
+tags: tole.es
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

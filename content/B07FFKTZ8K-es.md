@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FFKTZ8K-es Fossil Smartwatch para Hombre con Correa en Cuero FTW4016'
-tags: 
+tags: tole.es
 actualPrice: 179.0 EUR
 currency: EUR
 price: 179.0

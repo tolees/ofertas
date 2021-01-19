@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DJZT3FZ-es MaNMaNing Protección 3 Capas Transpirables con Elástico...'
-tags: 
+tags: tole.es
 actualPrice: 5.34 EUR
 currency: EUR
 price: 5.34

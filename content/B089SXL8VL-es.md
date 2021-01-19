@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089SXL8VL-es Longspeed Nuevo Fashion 1.54 3.0 Smart Wrist Watch Phone...'
-tags: 
+tags: tole.es
 actualPrice: 18.22 EUR
 currency: EUR
 price: 18.22

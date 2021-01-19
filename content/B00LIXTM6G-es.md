@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LIXTM6G-es Smokies Hombres Zapato de Novia Charlie sintético 41 EU Negro'
-tags: 
+tags: tole.es
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

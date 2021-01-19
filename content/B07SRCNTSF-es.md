@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRCNTSF-es adidas EQT Gazelle Zapatillas de Gimnasia para Hombre Gris...'
-tags: 
+tags: tole.es
 actualPrice: 31.29 EUR
 currency: EUR
 price: 31.29

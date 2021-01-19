@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCSPMVH-es Napapijri EILS Polo Rojo Red Scarlet R01 XXXL para Hombre'
-tags: 
+tags: tole.es
 actualPrice: 27.6 EUR
 currency: EUR
 price: 27.6

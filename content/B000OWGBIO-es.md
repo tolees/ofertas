@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000OWGBIO-es adidas Copa Mundial Zapatillas de Fútbol para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 95.99 EUR
 currency: EUR
 price: 95.99

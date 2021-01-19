@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W6T1GWC-es YOZATIA - Guirnalda de luces de corcho de 2 m 3 modos de...'
-tags: 
+tags: tole.es
 actualPrice: 11.86 EUR
 currency: EUR
 price: 11.86

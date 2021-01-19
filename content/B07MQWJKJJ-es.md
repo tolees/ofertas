@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQWJKJJ-es VGBEY 5 Unids Señuelo de Pesca Calamar Jig Hooks Silicona...'
-tags: 
+tags: tole.es
 actualPrice: 7.39 EUR
 currency: EUR
 price: 7.39

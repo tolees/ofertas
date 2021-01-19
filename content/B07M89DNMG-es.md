@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M89DNMG-es Lee Luke Corduroy Pantalones Gris Lead Grey 30 31W / 32L...'
-tags: 
+tags: tole.es
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

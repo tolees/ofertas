@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T4TTS99-es NIKE BA5819 Mochilla de Deporte Unisex Adulto Deep Royal...'
-tags: 
+tags: tole.es
 actualPrice: 17.45 EUR
 currency: EUR
 price: 17.45

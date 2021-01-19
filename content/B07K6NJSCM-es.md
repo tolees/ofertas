@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K6NJSCM-es FR·TEC - Auriculares Gaming Headset Genbu - PS4 Xbox One...'
-tags: 
+tags: tole.es
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

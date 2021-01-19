@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VYJHHB7-es Bolso Bowling Pepe Jeans ANN Azul'
-tags: 
+tags: tole.es
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

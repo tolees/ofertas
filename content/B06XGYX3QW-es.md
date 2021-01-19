@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XGYX3QW-es Funko Vinyl: Valerian: Doghan Daguis 10 cm 14336'
-tags: 
+tags: tole.es
 actualPrice: 6.12 EUR
 currency: EUR
 price: 6.12

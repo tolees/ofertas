@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019ZN60QK-es Rimmel London Pintalabios - 18 gr. 420 Berry Seductive...'
-tags: 
+tags: tole.es
 actualPrice: 4.73 EUR
 currency: EUR
 price: 4.73

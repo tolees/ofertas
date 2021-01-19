@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRYDQ97-es ETNAB|#Etnies Jameson 2 Eco Zapatillas de Skateboard para...'
-tags: 
+tags: tole.es
 actualPrice: 34.49 EUR
 currency: EUR
 price: 34.49

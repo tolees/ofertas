@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083QDB6X1-es EZON Reloj Deportivo Digital con Monitor de frecuencia...'
-tags: 
+tags: tole.es
 actualPrice: 36.52 EUR
 currency: EUR
 price: 36.52

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000WFBNB8-es Trixie Accesorio para Mascotas Un tamaño 112 g'
-tags: 
+tags: tole.es
 actualPrice: 3.49 EUR
 currency: EUR
 price: 3.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D44HP5B-es FIND Botín Liso con Cordones Hombre Marrón Brown Brown 43 EU'
-tags: 
+tags: tole.es
 actualPrice: 49 EUR
 currency: EUR
 price: 49

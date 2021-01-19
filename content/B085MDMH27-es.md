@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085MDMH27-es Agger Bicicletas Pequeña Moto Motocicleta reparación...'
-tags: 
+tags: tole.es
 actualPrice: 5.11 EUR
 currency: EUR
 price: 5.11

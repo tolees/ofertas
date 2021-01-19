@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081Q3VSGV-es Ideapark Sombrero de Invierno para Hombre Mujeres Sombrero...'
-tags: 
+tags: tole.es
 actualPrice: 3.26 EUR
 currency: EUR
 price: 3.26

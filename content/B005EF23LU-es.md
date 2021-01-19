@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005EF23LU-es Bolsius – Vela perfumada 103630519700 Velas Cera de...'
-tags: 
+tags: tole.es
 actualPrice: 11.25 EUR
 currency: EUR
 price: 11.25

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DY37LLG-es PUMA Suede Classic+ Zapatillas para Hombre Rojo...'
-tags: 
+tags: tole.es
 actualPrice: 48.33 EUR
 currency: EUR
 price: 48.33

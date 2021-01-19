@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZFLFK8-es Mustang Ben H Logo Capucha Gris Mid Grey Melange 4140...'
-tags: 
+tags: tole.es
 actualPrice: 9.77 EUR
 currency: EUR
 price: 9.77

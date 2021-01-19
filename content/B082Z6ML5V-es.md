@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082Z6ML5V-es Wanxian Lámpara de Ventilador de Escritorio 2600mAh...'
-tags: 
+tags: tole.es
 actualPrice: 16.63 EUR
 currency: EUR
 price: 16.63

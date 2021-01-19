@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D5N16JV-es Cipriata Valentina - Deportivas con Cordones y Cremallera...'
-tags: 
+tags: tole.es
 actualPrice: 17.7 EUR
 currency: EUR
 price: 17.7

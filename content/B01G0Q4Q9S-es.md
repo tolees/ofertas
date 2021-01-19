@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01G0Q4Q9S-es DISFRAZ HIPPIE CHICA TALLA S'
-tags: 
+tags: tole.es
 actualPrice: 14.07 EUR
 currency: EUR
 price: 14.07

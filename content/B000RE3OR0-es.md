@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000RE3OR0-es Brabantia 365164 - Prensapurés Nylon Color Negro'
-tags: 
+tags: tole.es
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

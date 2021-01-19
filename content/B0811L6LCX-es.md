@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0811L6LCX-es Vicloon Princesa Vestir Accesorios 8 Pcs Amarillo Elsa...'
-tags: 
+tags: tole.es
 actualPrice: 8.63 EUR
 currency: EUR
 price: 8.63

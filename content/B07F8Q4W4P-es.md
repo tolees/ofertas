@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F8Q4W4P-es Donna Karan Stories EAU De Parfum Mujeres 100 ml - Eau de...'
-tags: 
+tags: tole.es
 actualPrice: 51.83 EUR
 currency: EUR
 price: 51.83

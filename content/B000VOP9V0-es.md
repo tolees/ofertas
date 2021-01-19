@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VOP9V0-es Charlie Bleu Agua Fresca para Mujer con vaporizador 100 ml'
-tags: 
+tags: tole.es
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

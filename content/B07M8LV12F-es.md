@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8LV12F-es Wrangler Arizona Pantalones BLU Navy 11 40W / 30L para Hombre'
-tags: 
+tags: tole.es
 actualPrice: 55.97 EUR
 currency: EUR
 price: 55.97

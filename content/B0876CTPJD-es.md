@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0876CTPJD-es Aigostar Emery 33QRT - Ventilador de pie oscilante 80º 60W...'
-tags: 
+tags: tole.es
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

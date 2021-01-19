@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076D7F4DS-es iWALK 20000mAh Alta Capacidad Móvil Batería Externa Power...'
-tags: 
+tags: tole.es
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

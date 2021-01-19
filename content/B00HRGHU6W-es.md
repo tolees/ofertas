@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HRGHU6W-es Vans Atwood Zapatillas Unisex Niños Negro Black/Black 186...'
-tags: 
+tags: tole.es
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

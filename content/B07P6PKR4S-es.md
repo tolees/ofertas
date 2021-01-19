@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P6PKR4S-es Bosch Professional 35 unidades para taladrar y atornillar...'
-tags: 
+tags: tole.es
 actualPrice: 27.59 EUR
 currency: EUR
 price: 27.59

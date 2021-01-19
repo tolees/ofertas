@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M4PVU3Z-es Justfwater Deporte Botella de Agua de Cristal con Funda de...'
-tags: 
+tags: tole.es
 actualPrice: 15.89 EUR
 currency: EUR
 price: 15.89

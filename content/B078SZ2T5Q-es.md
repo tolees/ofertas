@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SZ2T5Q-es Salomon Ellipse Freeze CS WP Calzado de Invierno para...'
-tags: 
+tags: tole.es
 actualPrice: 36.31 EUR
 currency: EUR
 price: 36.31

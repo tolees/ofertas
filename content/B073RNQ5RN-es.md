@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RNQ5RN-es Columbia Drainmaker IV Zapatillas Hombres Black Black Lux...'
-tags: 
+tags: tole.es
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

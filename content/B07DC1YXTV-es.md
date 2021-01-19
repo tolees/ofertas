@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DC1YXTV-es Puma Turin Ii Zapatillas Unisex adulto Azul Peacoat-Puma...'
-tags: 
+tags: tole.es
 actualPrice: 27.5 EUR
 currency: EUR
 price: 27.5

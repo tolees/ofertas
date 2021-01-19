@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000C1UDXQ-es Davidoff - After Shave Cool Water Man'
-tags: 
+tags: tole.es
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

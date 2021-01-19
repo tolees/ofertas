@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BHZ21GY-es BULL DOG champú para barba 2 en 1 dosificador 200 ml'
-tags: 
+tags: tole.es
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

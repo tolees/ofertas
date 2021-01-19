@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0ADW4J-es Brabantia Newicon Cubo de Basura con Pedal Acero...'
-tags: 
+tags: tole.es
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

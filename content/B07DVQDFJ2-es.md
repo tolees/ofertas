@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DVQDFJ2-es New Balance 574v2 entrenadores Hombre Negro Black Black 42 EU'
-tags: 
+tags: tole.es
 actualPrice: 56.73 EUR
 currency: EUR
 price: 56.73

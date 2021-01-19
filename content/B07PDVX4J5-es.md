@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PDVX4J5-es Swatch Reloj Analógico para Unisex Adultos de Cuarzo con...'
-tags: 
+tags: tole.es
 actualPrice: 62.05 EUR
 currency: EUR
 price: 62.05

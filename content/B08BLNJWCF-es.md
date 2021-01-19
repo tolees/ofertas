@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BLNJWCF-es XILOSIN El Papel de arroz Blanco de la caligrafía China de...'
-tags: 
+tags: tole.es
 actualPrice: 4.63 EUR
 currency: EUR
 price: 4.63

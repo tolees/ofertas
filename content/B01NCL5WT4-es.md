@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCL5WT4-es Helly Hansen W Pier 2 Pant Bib Mujer Navy XS'
-tags: 
+tags: tole.es
 actualPrice: 83.5 EUR
 currency: EUR
 price: 83.5

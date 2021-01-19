@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BGZEWO2-es Corsair Dominator Platinum - Módulo de Memoria XMP 2.0 de...'
-tags: 
+tags: tole.es
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

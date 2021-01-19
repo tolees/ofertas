@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WVLHJ65-es Braun Hogar SI 7066 Vi Plancha de vapor 2600 W 0.3 litros...'
-tags: 
+tags: tole.es
 actualPrice: 59.89 EUR
 currency: EUR
 price: 59.89

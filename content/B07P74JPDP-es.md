@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P74JPDP-es Seiko Reloj Analógico para Hombre de Energía Solar con...'
-tags: 
+tags: tole.es
 actualPrice: 98.48 EUR
 currency: EUR
 price: 98.48

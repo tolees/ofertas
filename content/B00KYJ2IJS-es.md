@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KYJ2IJS-es K&N YA-9514 Filtro de Aire para Yamaha XVS950 BOLT 950...'
-tags: 
+tags: tole.es
 actualPrice: 51.92 EUR
 currency: EUR
 price: 51.92

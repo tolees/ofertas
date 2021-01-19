@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NTN8KYI-es Diesel Reloj Analógico para Hombre de Cuarzo con Correa en...'
-tags: 
+tags: tole.es
 actualPrice: 158.56 EUR
 currency: EUR
 price: 158.56

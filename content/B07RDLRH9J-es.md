@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RDLRH9J-es Salomon RX Slide 4.0 W Zapatillas de Trail Running para...'
-tags: 
+tags: tole.es
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

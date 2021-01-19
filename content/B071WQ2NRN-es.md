@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071WQ2NRN-es Pokémon Ultrasol'
-tags: 
+tags: tole.es
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

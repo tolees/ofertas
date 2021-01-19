@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DL47XPK-es SHENKEY Sofa Hinchable 2019 Upgrade Anti-Air Leaking Air...'
-tags: 
+tags: tole.es
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

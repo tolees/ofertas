@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y9R2PRL-es Junfire 2019 - Funda para iPad de 10 2 Pulgadas función...'
-tags: 
+tags: tole.es
 actualPrice: 28.24 EUR
 currency: EUR
 price: 28.24

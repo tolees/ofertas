@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHDHMCC-es Qkiss Caja de Almacenamiento de joyería de 12 Ranuras Caja...'
-tags: 
+tags: tole.es
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JLFKRTK-es PLAYMOBIL- Maricela con Bicicleta Juguete Multicolor...'
-tags: 
+tags: tole.es
 actualPrice: 6.3 EUR
 currency: EUR
 price: 6.3

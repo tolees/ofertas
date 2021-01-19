@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085G5JKN7-es Radio Meteorológica de 5 Vías para Emergencias Domésticas...'
-tags: 
+tags: tole.es
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

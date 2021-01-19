@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N2PKDM5-es HOMCOM Mesilla de Centro Mesita de Noche Mesa de Café Té...'
-tags: 
+tags: tole.es
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9T7N5R-es Lacoste Straightset 319 2 Cfa Zapatillas para Mujer Blanco...'
-tags: 
+tags: tole.es
 actualPrice: 28.03 EUR
 currency: EUR
 price: 28.03

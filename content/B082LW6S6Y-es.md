@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082LW6S6Y-es Aigostar Benno 30QUJ - Cafetera de goteo filtro...'
-tags: 
+tags: tole.es
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

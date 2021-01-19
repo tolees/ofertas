@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071NVSJTZ-es Izas Nasser Chaqueta Fibra Hombre Agua Maria / Lima 2XL'
-tags: 
+tags: tole.es
 actualPrice: 24.45 EUR
 currency: EUR
 price: 24.45

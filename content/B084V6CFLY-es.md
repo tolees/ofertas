@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084V6CFLY-es Auriculares Inalámbricos Bluetooth 5.0 Deportivos...'
-tags: 
+tags: tole.es
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

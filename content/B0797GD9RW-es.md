@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0797GD9RW-es Marca Amazon - Iris & Lilly Sujetador sin Aros con Relleno...'
-tags: 
+tags: tole.es
 actualPrice: 5.92 EUR
 currency: EUR
 price: 5.92

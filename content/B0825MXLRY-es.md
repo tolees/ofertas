@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0825MXLRY-es Quiksilver Dredge 17"-Short De Natación para Hombre Traje...'
-tags: 
+tags: tole.es
 actualPrice: 24.94 EUR
 currency: EUR
 price: 24.94

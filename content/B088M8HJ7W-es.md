@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088M8HJ7W-es Amiiaz 2 Pcs Colchoneta para Tumbona Jardín Cojines para...'
-tags: 
+tags: tole.es
 actualPrice: 60.99 EUR
 currency: EUR
 price: 60.99

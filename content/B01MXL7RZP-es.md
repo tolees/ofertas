@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MXL7RZP-es Starcraft II Battlechest 2.0'
-tags: 
+tags: tole.es
 actualPrice: 14.79 EUR
 currency: EUR
 price: 14.79

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y5W43ZM-es BaronHong Sport Bra Chest Binder Transpirable Mesh Corset...'
-tags: 
+tags: tole.es
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

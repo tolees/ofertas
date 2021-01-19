@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVJBV7W-es Kipling - Imagine Pack Bolsos totes Mujer Multicolor Tile...'
-tags: 
+tags: tole.es
 actualPrice: 34.11 EUR
 currency: EUR
 price: 34.11

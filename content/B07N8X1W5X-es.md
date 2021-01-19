@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8X1W5X-es Calcetines de Algodón 6 Pares Multicolor: 4 x negro 2 x...'
-tags: 
+tags: tole.es
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

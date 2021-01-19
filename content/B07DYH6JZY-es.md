@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DYH6JZY-es Merrell Nova GTX Zapatillas de Running para Asfalto para...'
-tags: 
+tags: tole.es
 actualPrice: 88.0 EUR
 currency: EUR
 price: 88.0

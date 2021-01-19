@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FZ3TSJ1-es MEDION AKOYA PCC722 - Ordenador de sobremesa Intel Core...'
-tags: 
+tags: tole.es
 actualPrice: 279.99 EUR
 currency: EUR
 price: 279.99

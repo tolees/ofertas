@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G8L7ZCQ-es adidas Real 3 Y Kit Conjunto Unisex niños Multicolor...'
-tags: 
+tags: tole.es
 actualPrice: 44.85 EUR
 currency: EUR
 price: 44.85

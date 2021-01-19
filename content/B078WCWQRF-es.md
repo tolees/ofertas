@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WCWQRF-es Palladium Pampa Hi Mono U Zapatillas Altas para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 37.43 EUR
 currency: EUR
 price: 37.43

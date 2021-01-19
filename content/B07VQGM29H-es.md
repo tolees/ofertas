@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VQGM29H-es Nike Pico 5 TDV Zapatillas Unisex Niños Gris Smoke...'
-tags: 
+tags: tole.es
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

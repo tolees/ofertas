@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087N3SQ8G-es Dasket Ingenieros de Metal ángulo Recto 90 Try Escuadra...'
-tags: 
+tags: tole.es
 actualPrice: 3.56 EUR
 currency: EUR
 price: 3.56

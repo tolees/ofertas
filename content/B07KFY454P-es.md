@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFY454P-es PUMA Cell Plasmic WN S Zapatillas Deportivas para Interior...'
-tags: 
+tags: tole.es
 actualPrice: 23.77 EUR
 currency: EUR
 price: 23.77

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009SM7P5Y-es ISDIN Nutraisdin Crema Protectora Facial Diaria Para Bebé...'
-tags: 
+tags: tole.es
 actualPrice: 9.3 EUR
 currency: EUR
 price: 9.3

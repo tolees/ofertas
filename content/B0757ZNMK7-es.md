@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0757ZNMK7-es find. Skinny Jeans Azul Indigo Raw W30/L32'
-tags: 
+tags: tole.es
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

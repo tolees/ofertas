@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071Z23TTN-es Scholl Plantillas Gel Activ Sport Mujer para Zapatillas...'
-tags: 
+tags: tole.es
 actualPrice: 1.09 EUR
 currency: EUR
 price: 1.09

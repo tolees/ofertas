@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071FWHSRQ-es adidas Campus Zapatillas de Deporte para Hombre Azul...'
-tags: 
+tags: tole.es
 actualPrice: 67.46 EUR
 currency: EUR
 price: 67.46

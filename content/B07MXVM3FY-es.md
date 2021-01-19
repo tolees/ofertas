@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXVM3FY-es Maybelline New York - Superstay Matte Ink Tono 15 Lover +...'
-tags: 
+tags: tole.es
 actualPrice: 9.05 EUR
 currency: EUR
 price: 9.05

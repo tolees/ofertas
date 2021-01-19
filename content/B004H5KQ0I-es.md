@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004H5KQ0I-es Clinique 35522 - Barra de labios'
-tags: 
+tags: tole.es
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

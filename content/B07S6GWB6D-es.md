@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S6GWB6D-es Amerigo Whisky Stones Gift Set - ¿Aguar tu Whisky? Nunca...'
-tags: 
+tags: tole.es
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

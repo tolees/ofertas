@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F28TLC3-es #N/A Anillos de nataciÃ Brazo Inflable de 1 par Anillos...'
-tags: 
+tags: tole.es
 actualPrice: 1.66 EUR
 currency: EUR
 price: 1.66

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076KRB2S9-es VAUDE Classic Back Alforja Unisex Adulto Negro Phantom...'
-tags: 
+tags: tole.es
 actualPrice: 62.11 EUR
 currency: EUR
 price: 62.11

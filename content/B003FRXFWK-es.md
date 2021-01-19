@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003FRXFWK-es Logitech® Speakers Z130 - Black - Analog - PLUGC - EMEA - EU'
-tags: 
+tags: tole.es
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

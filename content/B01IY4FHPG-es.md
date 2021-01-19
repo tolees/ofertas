@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IY4FHPG-es Reebok Ex-o-Fit Clean Logo Int Zapatillas para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 39.49 EUR
 currency: EUR
 price: 39.49

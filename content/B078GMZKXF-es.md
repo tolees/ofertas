@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078GMZKXF-es Asalvo Silla de coche grupo 1/2/3 Isofix rojo'
-tags: 
+tags: tole.es
 actualPrice: 113.62 EUR
 currency: EUR
 price: 113.62

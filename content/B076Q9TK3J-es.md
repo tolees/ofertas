@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076Q9TK3J-es Olympus Objetivo - M.Zuiko Digital ED 45 mm F1.2 Pro...'
-tags: 
+tags: tole.es
 actualPrice: 879.99 EUR
 currency: EUR
 price: 879.99

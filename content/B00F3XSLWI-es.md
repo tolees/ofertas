@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00F3XSLWI-es Netgear JGS516PE-100EUS - Smart Switch gestionable 16...'
-tags: 
+tags: tole.es
 actualPrice: 158.0 EUR
 currency: EUR
 price: 158.0

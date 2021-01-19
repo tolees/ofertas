@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T8HHM23-es Finocam Chic Morado Calendario de Pared 2020 Escribir Español'
-tags: 
+tags: tole.es
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075R7RBRF-es New Balance 247v1 Zapatillas para Mujer Morado...'
-tags: 
+tags: tole.es
 actualPrice: 54.98 EUR
 currency: EUR
 price: 54.98

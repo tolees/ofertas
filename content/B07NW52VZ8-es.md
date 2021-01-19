@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW52VZ8-es Skechers Women s Flex Appeal 3.0-Satellites Trainers Grey...'
-tags: 
+tags: tole.es
 actualPrice: 23.21 EUR
 currency: EUR
 price: 23.21

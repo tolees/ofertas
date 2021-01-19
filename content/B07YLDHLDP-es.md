@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YLDHLDP-es Philips D4702B/34 - Pack de 2 Teléfonos Fijos Inalámbricos...'
-tags: 
+tags: tole.es
 actualPrice: 48.36 EUR
 currency: EUR
 price: 48.36

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NAAGJIV-es Asics Gel-Lyte V Zapatillas de Entrenamiento Unisex Adulto...'
-tags: 
+tags: tole.es
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

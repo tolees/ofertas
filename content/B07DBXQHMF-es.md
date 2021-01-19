@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DBXQHMF-es PUMA Vikky Stacked SD Zapatillas para Mujer Negro Black...'
-tags: 
+tags: tole.es
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

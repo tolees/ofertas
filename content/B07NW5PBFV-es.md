@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW5PBFV-es Skechers Women s SOLAR FUSE-BRISK ESCAPE Trainers Black...'
-tags: 
+tags: tole.es
 actualPrice: 48.95 EUR
 currency: EUR
 price: 48.95

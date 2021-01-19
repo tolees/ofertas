@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IIOHWI8-es Muvit MUGOO0008 Riñonera Cinturón Elástico Impermeable...'
-tags: 
+tags: tole.es
 actualPrice: 9.05 EUR
 currency: EUR
 price: 9.05

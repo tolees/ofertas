@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CN92SSC-es Huj DIY gato forma especial pintura diamante mujer cadena...'
-tags: 
+tags: tole.es
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

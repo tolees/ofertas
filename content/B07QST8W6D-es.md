@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QST8W6D-es Huevos Vibradores FIDECH pro 2 - Balas para Mujer 12 Modos...'
-tags: 
+tags: tole.es
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

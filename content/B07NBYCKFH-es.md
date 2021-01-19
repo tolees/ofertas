@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NBYCKFH-es Tous Billetera M. Carlata Plata-Rosa Monedero para Mujer...'
-tags: 
+tags: tole.es
 actualPrice: 45.25 EUR
 currency: EUR
 price: 45.25

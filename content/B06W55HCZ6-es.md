@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06W55HCZ6-es Osprey Fairview 55 Women s Travel Pack with 13L Detachable...'
-tags: 
+tags: tole.es
 actualPrice: 115.97 EUR
 currency: EUR
 price: 115.97

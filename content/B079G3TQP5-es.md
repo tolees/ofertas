@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079G3TQP5-es Timberland SS Dunstan River Pocket Slim tee Camiseta...'
-tags: 
+tags: tole.es
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

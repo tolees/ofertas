@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTPF46T-es KiplingGleam SMujerMonederosNegro Charcoal 14x9.5x5.5...'
-tags: 
+tags: tole.es
 actualPrice: 8.54 EUR
 currency: EUR
 price: 8.54

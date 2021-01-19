@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJ9S3K9-es Levi s 501 Original Shorts Pantalones Cortos Negro...'
-tags: 
+tags: tole.es
 actualPrice: 28.94 EUR
 currency: EUR
 price: 28.94

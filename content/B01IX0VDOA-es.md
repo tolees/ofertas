@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IX0VDOA-es Triumph Amourette 300 W X Sujetador Mujer Beige SKIN 75B'
-tags: 
+tags: tole.es
 actualPrice: 25.24 EUR
 currency: EUR
 price: 25.24

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0747MF4SY-es Tomshine Clip Cadena de Luces LED 40LEDs 5m Fotoclips...'
-tags: 
+tags: tole.es
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

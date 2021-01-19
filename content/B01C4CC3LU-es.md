@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C4CC3LU-es adidas Stan Smith J Zapatillas de Deporte Unisex Niños...'
-tags: 
+tags: tole.es
 actualPrice: 45.45 EUR
 currency: EUR
 price: 45.45

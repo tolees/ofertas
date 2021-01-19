@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073WYCH2G-es Rimmel London WonderWing Eyeliner Delineador de Ojos Tono...'
-tags: 
+tags: tole.es
 actualPrice: 3.94 EUR
 currency: EUR
 price: 3.94

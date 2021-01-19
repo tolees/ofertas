@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MS07VQX-es SAMSUNG EF-CA520PPEGWW - Funda para Galaxy A5 2017 Color Rosa'
-tags: 
+tags: tole.es
 actualPrice: 12.14 EUR
 currency: EUR
 price: 12.14

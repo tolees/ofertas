@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B5Y5CF5-es Zerodis Plasma Ball Light USB Globe Night Touch Sensible...'
-tags: 
+tags: tole.es
 actualPrice: 4.59 EUR
 currency: EUR
 price: 4.59

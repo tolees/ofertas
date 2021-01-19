@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071RD67SB-es Princess 182021 - Aerofryer XL Freidora Panel de Control...'
-tags: 
+tags: tole.es
 actualPrice: 84.8 EUR
 currency: EUR
 price: 84.8

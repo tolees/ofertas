@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086QNLB47-es Promini - Body para bebé con texto en inglés "Everyday I m...'
-tags: 
+tags: tole.es
 actualPrice: 14.76 EUR
 currency: EUR
 price: 14.76

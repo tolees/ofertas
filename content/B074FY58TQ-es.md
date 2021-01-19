@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074FY58TQ-es Rieker - Cerrado Hombre Color Azul Talla 40'
-tags: 
+tags: tole.es
 actualPrice: 24.49 EUR
 currency: EUR
 price: 24.49

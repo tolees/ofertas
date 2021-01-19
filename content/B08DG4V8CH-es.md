@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DG4V8CH-es SUNNSEAN Banda para la Cabeza Diadema con Botones Color...'
-tags: 
+tags: tole.es
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0818MD2QZ-es BEE’S TREND Bee Wrap Envoltorio Cera Abejas Reutilizable -...'
-tags: 
+tags: tole.es
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

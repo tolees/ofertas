@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNGNPHF-es Fossil Collar para Hombre JF03175040'
-tags: 
+tags: tole.es
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

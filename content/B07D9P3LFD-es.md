@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D9P3LFD-es Lámpara de Lupa LED Plegable 5X Luz lupa para Escritorio...'
-tags: 
+tags: tole.es
 actualPrice: 4.59 EUR
 currency: EUR
 price: 4.59

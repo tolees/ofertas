@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079KZLC76-es Veatree Bloques Magnéticos de Construcción para Niños...'
-tags: 
+tags: tole.es
 actualPrice: 25.5 EUR
 currency: EUR
 price: 25.5

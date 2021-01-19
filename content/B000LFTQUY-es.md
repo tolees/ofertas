@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000LFTQUY-es Silverline WR40 Llave Inglesa Ajustable Longitud 300 mm...'
-tags: 
+tags: tole.es
 actualPrice: 9.08 EUR
 currency: EUR
 price: 9.08

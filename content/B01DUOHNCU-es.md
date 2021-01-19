@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DUOHNCU-es NK NK-AC3061 - Cámara Deportiva Subacuática 4K Ultra-Alta...'
-tags: 
+tags: tole.es
 actualPrice: 37.0 EUR
 currency: EUR
 price: 37.0

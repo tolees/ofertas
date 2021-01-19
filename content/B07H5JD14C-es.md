@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H5JD14C-es Weta Collectibles- Mini Epics Figura Coleccionable Balrog...'
-tags: 
+tags: tole.es
 actualPrice: 95.79 EUR
 currency: EUR
 price: 95.79

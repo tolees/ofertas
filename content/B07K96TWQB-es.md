@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K96TWQB-es Crocs Crocband Zuecos Unisex Adulto Rosa Pink...'
-tags: 
+tags: tole.es
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

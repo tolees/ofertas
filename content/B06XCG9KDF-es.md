@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XCG9KDF-es G-STAR RAW Classic Trunk Clr 3 Pack Pantalones Cortos...'
-tags: 
+tags: tole.es
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082XD29BN-es Uso duradero Accesorios de piezas de repuesto para...'
-tags: 
+tags: tole.es
 actualPrice: 1.57 EUR
 currency: EUR
 price: 1.57

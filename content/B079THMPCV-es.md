@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079THMPCV-es Multipower 50g Protein Shake Sabor Strawberry - 12 Unidades'
-tags: 
+tags: tole.es
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

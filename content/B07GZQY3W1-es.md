@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZQY3W1-es Refrigerador de aire acondicionado manómetro de presión...'
-tags: 
+tags: tole.es
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

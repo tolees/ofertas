@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FLZGFTT-es Buff Tiger Hombre Grey Talla única'
-tags: 
+tags: tole.es
 actualPrice: 7.48 EUR
 currency: EUR
 price: 7.48

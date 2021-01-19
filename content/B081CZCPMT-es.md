@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081CZCPMT-es SaponinTree Microfono Inalámbrico Karaoke Micrófono...'
-tags: 
+tags: tole.es
 actualPrice: 12.35 EUR
 currency: EUR
 price: 12.35

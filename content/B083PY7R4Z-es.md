@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083PY7R4Z-es Espejo de coche para bebé Espejo automático Espejo...'
-tags: 
+tags: tole.es
 actualPrice: 10.59 EUR
 currency: EUR
 price: 10.59

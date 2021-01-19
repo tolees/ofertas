@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QKVVKRK-es Darling In The Franxx Serie Completa 24 Episodios Bd...'
-tags: 
+tags: tole.es
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

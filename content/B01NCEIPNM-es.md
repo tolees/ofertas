@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCEIPNM-es BRITA Marella blanca – Jarra de Agua Filtrada con 1...'
-tags: 
+tags: tole.es
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

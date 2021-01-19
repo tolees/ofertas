@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AYAIQ38-es Pyrex Classic Vidrio Fuente para Horno 4.69 cm'
-tags: 
+tags: tole.es
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

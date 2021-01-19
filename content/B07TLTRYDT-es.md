@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLTRYDT-es Clarks Sift Lace Zapatillas para Mujer Negro Black Combi...'
-tags: 
+tags: tole.es
 actualPrice: 26.38 EUR
 currency: EUR
 price: 26.38

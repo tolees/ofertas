@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HDUAHQG-es South Park: Retaguardia En Peligro - Collector s Edition'
-tags: 
+tags: tole.es
 actualPrice: 71.9 EUR
 currency: EUR
 price: 71.9

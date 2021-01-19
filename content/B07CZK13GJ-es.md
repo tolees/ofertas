@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZK13GJ-es Under Armour Boxerjocks 15 cm Ropa Interior Elástica 3...'
-tags: 
+tags: tole.es
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

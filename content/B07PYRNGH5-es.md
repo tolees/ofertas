@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PYRNGH5-es Funda para Xiaomi Mi 9/Mi 9 SE Teléfono Móvil Silicona...'
-tags: 
+tags: tole.es
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

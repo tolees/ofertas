@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QG8CXKP-es minzoier Tarjeta de Memoria Flash SDXC Micro SD de 128GB /...'
-tags: 
+tags: tole.es
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

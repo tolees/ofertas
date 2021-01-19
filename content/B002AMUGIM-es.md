@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002AMUGIM-es Sisley Phyto Jour&Nuit Crema Hidratantee ConcSombra Pot 50 ml'
-tags: 
+tags: tole.es
 actualPrice: 81.2 EUR
 currency: EUR
 price: 81.2

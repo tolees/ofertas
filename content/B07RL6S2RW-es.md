@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RL6S2RW-es Fornite - Quadcrasher 28 cm Windows'
-tags: 
+tags: tole.es
 actualPrice: 20.75 EUR
 currency: EUR
 price: 20.75

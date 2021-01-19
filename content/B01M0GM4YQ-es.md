@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0GM4YQ-es Weider Whey Protein White Spread 250 g. Crema de chocolate...'
-tags: 
+tags: tole.es
 actualPrice: 5.49 EUR
 currency: EUR
 price: 5.49

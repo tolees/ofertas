@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077MFP9NV-es AEG LX7-2-EB-P Aspiradora de Trineo Sin Bolsa Gran...'
-tags: 
+tags: tole.es
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

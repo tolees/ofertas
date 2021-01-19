@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MCSVYAS-es Remington HC5880 - Máquina de Cortar Pelo Prácticamente...'
-tags: 
+tags: tole.es
 actualPrice: 50.57 EUR
 currency: EUR
 price: 50.57

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYW76B8-es Lacoste Rc2012 Cinturón Azul Legion Blue 725 85 tamaño del...'
-tags: 
+tags: tole.es
 actualPrice: 23.77 EUR
 currency: EUR
 price: 23.77

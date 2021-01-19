@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MH4H4N3-es UniqueMe [3 Pack] Protector de Pantalla para Huawei Honor...'
-tags: 
+tags: tole.es
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

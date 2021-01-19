@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HD26KQK-es Apple Watch Correa rosa peonía con hebilla moderna 40mm -...'
-tags: 
+tags: tole.es
 actualPrice: 33.93 EUR
 currency: EUR
 price: 33.93

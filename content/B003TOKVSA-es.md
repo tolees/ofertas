@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003TOKVSA-es BRA Efficient - Cacerola baja con tapa de cristal y asas...'
-tags: 
+tags: tole.es
 actualPrice: 53.08 EUR
 currency: EUR
 price: 53.08

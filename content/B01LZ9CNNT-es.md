@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZ9CNNT-es Taurus Phoenix Sandwichera 800 W 2 Indicadores Luminosos...'
-tags: 
+tags: tole.es
 actualPrice: 17.75 EUR
 currency: EUR
 price: 17.75

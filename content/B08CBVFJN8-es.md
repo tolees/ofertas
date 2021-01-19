@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CBVFJN8-es LJP Funda Huawei Honor 20 Suave PU Cuero Carcasa y TPU...'
-tags: 
+tags: tole.es
 actualPrice: 7.92 EUR
 currency: EUR
 price: 7.92

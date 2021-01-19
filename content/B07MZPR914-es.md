@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZPR914-es Vans Filmore Decon Zapatillas para Mujer Verde Suede Grape...'
-tags: 
+tags: tole.es
 actualPrice: 33.04 EUR
 currency: EUR
 price: 33.04

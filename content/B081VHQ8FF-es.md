@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081VHQ8FF-es Folconauto Simulation Penis Plush Toy-Soft Stuffed...'
-tags: 
+tags: tole.es
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

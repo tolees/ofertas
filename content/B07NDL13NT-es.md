@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDL13NT-es HUAWEI 55030361 - Impresora portatil'
-tags: 
+tags: tole.es
 actualPrice: 96.01 EUR
 currency: EUR
 price: 96.01

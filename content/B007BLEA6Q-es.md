@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007BLEA6Q-es Bellelli TGTR00020 - Portabebé de ciclismo color blanco/ rojo'
-tags: 
+tags: tole.es
 actualPrice: 25.89 EUR
 currency: EUR
 price: 25.89

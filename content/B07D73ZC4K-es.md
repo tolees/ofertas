@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D73ZC4K-es adidas Gazelle Zapatillas para Hombre Rojo Collegiate...'
-tags: 
+tags: tole.es
 actualPrice: 59.58 EUR
 currency: EUR
 price: 59.58

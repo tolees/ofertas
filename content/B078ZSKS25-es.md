@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078ZSKS25-es Epson Workforce Pro WF-C5710DWF - Impresora multifunción...'
-tags: 
+tags: tole.es
 actualPrice: 209.0 EUR
 currency: EUR
 price: 209.0

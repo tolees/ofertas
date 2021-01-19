@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0783Q3YVG-es PUMA ST RUNNER V2 NL Zapatillas Unisex adulto Negro Black...'
-tags: 
+tags: tole.es
 actualPrice: 33.76 EUR
 currency: EUR
 price: 33.76

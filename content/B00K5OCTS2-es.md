@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K5OCTS2-es Vans Y Atwood Palms C Zapatillas Unisex Niños Rojo Canvas...'
-tags: 
+tags: tole.es
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

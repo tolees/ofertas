@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076QBNNWB-es G-Star Raw 3301 Straight Jeans Dritto Uomo Blu medium aged...'
-tags: 
+tags: tole.es
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DD75PYZ-es Gormiti - Brazalete Role Play Con 4 Medallones Luz y...'
-tags: 
+tags: tole.es
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

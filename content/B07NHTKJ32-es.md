@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NHTKJ32-es MILAN Mochila Escolar Capacidad 28l Moon Mochila Tipo...'
-tags: 
+tags: tole.es
 actualPrice: 12.78 EUR
 currency: EUR
 price: 12.78

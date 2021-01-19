@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K7WOXWW-es Maybelline Color Sensational Vivids - 902 Fuchsia Flash -...'
-tags: 
+tags: tole.es
 actualPrice: 5.19 EUR
 currency: EUR
 price: 5.19

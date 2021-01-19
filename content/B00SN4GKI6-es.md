@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SN4GKI6-es Chicco - Esterilizador microondas de hasta 5 biberones en...'
-tags: 
+tags: tole.es
 actualPrice: 16.76 EUR
 currency: EUR
 price: 16.76

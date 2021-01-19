@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075RFR1R7-es Pioneer SX-10AE-B - Receptor de Audio Color Negro'
-tags: 
+tags: tole.es
 actualPrice: 176.99 EUR
 currency: EUR
 price: 176.99

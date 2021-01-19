@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PBVBG1K-es UglyDolls: Una Aventura Imperfecta'
-tags: 
+tags: tole.es
 actualPrice: 17.5 EUR
 currency: EUR
 price: 17.5

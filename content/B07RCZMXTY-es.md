@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCZMXTY-es Under Armour Heatgear Armour Sujetador Deportivo Mujer...'
-tags: 
+tags: tole.es
 actualPrice: 38.97 EUR
 currency: EUR
 price: 38.97

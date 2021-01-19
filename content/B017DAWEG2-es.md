@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017DAWEG2-es BERING Reloj Analógico para Unisex Adultos de Cuarzo con...'
-tags: 
+tags: tole.es
 actualPrice: 113.58 EUR
 currency: EUR
 price: 113.58

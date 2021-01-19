@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018UFUOO8-es Quid Temis - Sartén De Aluminio 18 Cm Antiadherente'
-tags: 
+tags: tole.es
 actualPrice: 3.9 EUR
 currency: EUR
 price: 3.9

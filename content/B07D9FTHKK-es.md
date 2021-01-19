@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D9FTHKK-es NOPNOG Cuidado de la Pintura del Coche rasguños reparación...'
-tags: 
+tags: tole.es
 actualPrice: 3.29 EUR
 currency: EUR
 price: 3.29

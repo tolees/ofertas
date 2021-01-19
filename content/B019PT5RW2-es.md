@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019PT5RW2-es Mobicool 9103501263 V26 AC/DC Nevera Termoeléctrica...'
-tags: 
+tags: tole.es
 actualPrice: 62.96 EUR
 currency: EUR
 price: 62.96

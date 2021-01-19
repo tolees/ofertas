@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SC3RH9W-es GREAT ART Foto Mural Imagen Panoramica de los Alpes Diseno...'
-tags: 
+tags: tole.es
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

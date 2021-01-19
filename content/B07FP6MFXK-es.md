@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FP6MFXK-es LED Luz Colgante Solar del Jardín GolWof Farol Solar...'
-tags: 
+tags: tole.es
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

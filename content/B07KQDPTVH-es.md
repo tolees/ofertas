@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQDPTVH-es FIT-FORCE Cinta de Correr Plegable 1600W Velocidad hasta...'
-tags: 
+tags: tole.es
 actualPrice: 269.99 EUR
 currency: EUR
 price: 269.99

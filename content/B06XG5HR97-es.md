@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XG5HR97-es Amazfit Pace Black Pulsera Inteligente con Ritmo Cardíaco...'
-tags: 
+tags: tole.es
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

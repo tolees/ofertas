@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L13ERLC-es CRAPHY Kit de Iluminación para Fotografía: 3X Ventana de...'
-tags: 
+tags: tole.es
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

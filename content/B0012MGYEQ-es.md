@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0012MGYEQ-es Einhell - Juego de hojas de sierra circular 210 x 30 x 2 5...'
-tags: 
+tags: tole.es
 actualPrice: 36.63 EUR
 currency: EUR
 price: 36.63

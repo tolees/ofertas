@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VCZXPO-es Wera 05057122001 Surtido de puntas'
-tags: 
+tags: tole.es
 actualPrice: 37.45 EUR
 currency: EUR
 price: 37.45

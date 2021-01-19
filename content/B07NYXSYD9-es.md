@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NYXSYD9-es Cecotec EnergySilence 790 FreshEssence Ionic Nebulizador...'
-tags: 
+tags: tole.es
 actualPrice: 114.0 EUR
 currency: EUR
 price: 114.0

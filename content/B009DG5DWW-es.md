@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009DG5DWW-es Esi Crema diurna facial - 50 ml.'
-tags: 
+tags: tole.es
 actualPrice: 7.68 EUR
 currency: EUR
 price: 7.68

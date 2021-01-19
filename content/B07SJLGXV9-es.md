@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SJLGXV9-es La crema blanqueadora para las axilas nutre repara y...'
-tags: 
+tags: tole.es
 actualPrice: 5.59 EUR
 currency: EUR
 price: 5.59

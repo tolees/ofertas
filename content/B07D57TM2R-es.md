@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D57TM2R-es COMVIP Mujer metal común'
-tags: 
+tags: tole.es
 actualPrice: 3.29 EUR
 currency: EUR
 price: 3.29

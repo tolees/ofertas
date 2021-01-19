@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087WSDVJW-es Toalla mágica de Alta Elasticidad Multifuncional Ac247 -...'
-tags: 
+tags: tole.es
 actualPrice: 4.77 EUR
 currency: EUR
 price: 4.77

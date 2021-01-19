@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086MLY4HZ-es YO-HAPPY Albornoces recién Nacidas Cuidado del bebé Suave'
-tags: 
+tags: tole.es
 actualPrice: 11.68 EUR
 currency: EUR
 price: 11.68

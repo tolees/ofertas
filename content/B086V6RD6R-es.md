@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086V6RD6R-es Círculo Duradero: Tengo Todo Este Anhelo En Mi Oído Déjame...'
-tags: 
+tags: tole.es
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

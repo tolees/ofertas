@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PTN3C1Y-es iDesign Organizador de baño portacepillos de dientes de...'
-tags: 
+tags: tole.es
 actualPrice: 20.93 EUR
 currency: EUR
 price: 20.93

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0836HH6SV-es OFFICE HELPER Reemplazo de Cartucho de Tinta Compatible...'
-tags: 
+tags: tole.es
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

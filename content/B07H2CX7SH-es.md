@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H2CX7SH-es TiaoBug 4Pcs Disfraz de Anime Mujer Cosplay de Marinero...'
-tags: 
+tags: tole.es
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXTLPVR-es SALOMON Explore Graphic SS tee T-Shirt Hombre Azul...'
-tags: 
+tags: tole.es
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

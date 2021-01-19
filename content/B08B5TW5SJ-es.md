@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B5TW5SJ-es LCTXDY El diseño ergonómico le Brinda la sensación más...'
-tags: 
+tags: tole.es
 actualPrice: 26.43 EUR
 currency: EUR
 price: 26.43

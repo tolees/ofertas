@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VSMSXR6-es IPL Depiladora de Luz Pulsada Láser de Depilación...'
-tags: 
+tags: tole.es
 actualPrice: 48.59 EUR
 currency: EUR
 price: 48.59

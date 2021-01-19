@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZ382CG-es PUMA Leadcat NSK Zapatos de Playa y Piscina Unisex-Adulto...'
-tags: 
+tags: tole.es
 actualPrice: 16.71 EUR
 currency: EUR
 price: 16.71

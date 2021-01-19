@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H6NYZSG-es Crocs Swiftwater River Sandals 203965-06 Sandalias para...'
-tags: 
+tags: tole.es
 actualPrice: 25.3 EUR
 currency: EUR
 price: 25.3

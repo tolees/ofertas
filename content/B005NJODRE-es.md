@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005NJODRE-es Waterman Expert pluma estilográfica acero inoxidable con...'
-tags: 
+tags: tole.es
 actualPrice: 100.15 EUR
 currency: EUR
 price: 100.15

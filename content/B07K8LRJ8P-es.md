@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K8LRJ8P-es FeliSun Impermeable Memorias USB 3.0 Metal USB Stick USB...'
-tags: 
+tags: tole.es
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

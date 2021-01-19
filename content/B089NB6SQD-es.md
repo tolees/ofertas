@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089NB6SQD-es FirstE Altavoz Portátil Inalámbrico Bluetooth con Luz...'
-tags: 
+tags: tole.es
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

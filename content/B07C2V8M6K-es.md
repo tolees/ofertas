@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C2V8M6K-es Brica by Munchkin Espejo de coche Baby In-Sight...'
-tags: 
+tags: tole.es
 actualPrice: 43.19 EUR
 currency: EUR
 price: 43.19

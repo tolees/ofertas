@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K1L48VR-es adidas Tiro19 3/4 Pnt Pantalones de Deporte Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

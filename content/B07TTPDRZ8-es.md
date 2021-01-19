@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTPDRZ8-es KiplingAbanu MultiMujerBolsos bandoleraMulticolor Speckled...'
-tags: 
+tags: tole.es
 actualPrice: 28.25 EUR
 currency: EUR
 price: 28.25

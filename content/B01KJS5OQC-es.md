@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KJS5OQC-es World Rally Championship WRC 6'
-tags: 
+tags: tole.es
 actualPrice: 44.4 EUR
 currency: EUR
 price: 44.4

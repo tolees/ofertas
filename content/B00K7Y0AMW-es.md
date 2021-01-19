@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K7Y0AMW-es Ceys M128784 - Cola de contacto - 500 ml'
-tags: 
+tags: tole.es
 actualPrice: 2.98 EUR
 currency: EUR
 price: 2.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XZWSPDY-es Mercedes-Benz Sonnenbrille M7004 Gafas de sol Azul Blau...'
-tags: 
+tags: tole.es
 actualPrice: 30.66 EUR
 currency: EUR
 price: 30.66

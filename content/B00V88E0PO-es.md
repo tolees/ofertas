@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00V88E0PO-es Clarins - Gel contorno de ojos - Antiojeras Antibolsas -...'
-tags: 
+tags: tole.es
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

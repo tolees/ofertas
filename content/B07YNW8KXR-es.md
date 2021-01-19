@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YNW8KXR-es Varlion LW Carbon Ti roja Palas Adultos Unisex Rojo...'
-tags: 
+tags: tole.es
 actualPrice: 99.95 EUR
 currency: EUR
 price: 99.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001GNBVU8-es Max Factor Lasting Performance Base de Maquillaje Líquida...'
-tags: 
+tags: tole.es
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

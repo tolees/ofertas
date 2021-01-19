@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRIM579-es Playmobil-9101 Maletín Grande Exploración Espacial...'
-tags: 
+tags: tole.es
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

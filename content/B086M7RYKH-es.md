@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086M7RYKH-es Oihxse Funda para Realme 5 Transparente Estuche con Realme...'
-tags: 
+tags: tole.es
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

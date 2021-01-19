@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7RDTKR-es PUMA Smash V2 L Zapatillas Unisex Adulto Weiß White High...'
-tags: 
+tags: tole.es
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCMUBBB-es HP 803181-071 - Teclado Estándar Alámbrico USB Interruptor...'
-tags: 
+tags: tole.es
 actualPrice: 28.23 EUR
 currency: EUR
 price: 28.23

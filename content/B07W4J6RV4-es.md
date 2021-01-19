@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W4J6RV4-es Amazon Essentials Long-Sleeve Lightweight French Terry...'
-tags: 
+tags: tole.es
 actualPrice: 13.33 EUR
 currency: EUR
 price: 13.33

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077QNF4X3-es Zapatillas de Taekwondo Cómodos Antideslizantes Zapatillas...'
-tags: 
+tags: tole.es
 actualPrice: 11.29 EUR
 currency: EUR
 price: 11.29

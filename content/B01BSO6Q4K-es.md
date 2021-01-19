@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BSO6Q4K-es Philips Pro HPS930/40 - Plancha de Pelo Profesional Placas...'
-tags: 
+tags: tole.es
 actualPrice: 55.25 EUR
 currency: EUR
 price: 55.25

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T26JYYM-es Air Wick Freshmatic Max Ambientador de Recambio Flor - 250 ml'
-tags: 
+tags: tole.es
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

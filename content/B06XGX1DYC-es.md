@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XGX1DYC-es Figura Pop! Vinyl Trollhunters Blinkous'
-tags: 
+tags: tole.es
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99
@@ -26,8 +26,8 @@ Está [Figura Pop! Vinyl Trollhunters Blinkous](https://www.amazon.es/dp/B06XGX1
 
 ℹ️:
 
-- Vinilo
-- Jimi Hendrix Figura de colección Figura Vinilo Jimi Hendrix Rocks (Monterey) 53 para Sin clasificar
 - Standard
+- Jimi Hendrix Figura de colección Figura Vinilo Jimi Hendrix Rocks (Monterey) 53 para Sin clasificar
+- Vinilo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XGX1DYC/?tag=tolees-21)

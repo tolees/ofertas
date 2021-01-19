@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VYZVVZB-es Skechers Solar Fuse-Lite Joy Zapatillas para Mujer Negro...'
-tags: 
+tags: tole.es
 actualPrice: 23.85 EUR
 currency: EUR
 price: 23.85

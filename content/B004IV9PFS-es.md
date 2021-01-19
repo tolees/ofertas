@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004IV9PFS-es Haflinger Paul Zapatillas de Casa Infantil Azul Blau/Jeans...'
-tags: 
+tags: tole.es
 actualPrice: 15.12 EUR
 currency: EUR
 price: 15.12

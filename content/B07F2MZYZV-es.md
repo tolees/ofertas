@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2MZYZV-es PUMA Axis Zapatillas Unisex Adulto Negro Black/Asphalt 36 EU'
-tags: 
+tags: tole.es
 actualPrice: 27.45 EUR
 currency: EUR
 price: 27.45

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XQYSMN2-es Espirógrafo multifuncional Gobernante geométrico Niños...'
-tags: 
+tags: tole.es
 actualPrice: 3.19 EUR
 currency: EUR
 price: 3.19

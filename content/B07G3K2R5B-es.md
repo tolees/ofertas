@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G3K2R5B-es XPLORA 3S - Smartwatch Resistente al Agua para tu hijo SIM...'
-tags: 
+tags: tole.es
 actualPrice: 149.9 EUR
 currency: EUR
 price: 149.9

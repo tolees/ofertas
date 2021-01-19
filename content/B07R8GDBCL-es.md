@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R8GDBCL-es CARE OF by PUMA Zapatillas bajas en cuero y con plataforma...'
-tags: 
+tags: tole.es
 actualPrice: 48.3 EUR
 currency: EUR
 price: 48.3

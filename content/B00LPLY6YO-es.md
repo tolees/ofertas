@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LPLY6YO-es Compartimento de verduras para el frigorífico original de...'
-tags: 
+tags: tole.es
 actualPrice: 23.0 EUR
 currency: EUR
 price: 23.0

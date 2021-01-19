@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NVBRJ8Y-es Skechers SELMEN WALDER Botas Clasicas para Hombre Negro...'
-tags: 
+tags: tole.es
 actualPrice: 35.19 EUR
 currency: EUR
 price: 35.19

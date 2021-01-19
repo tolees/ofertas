@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DBXNRVR-es PUMA Vikky v2 Ribbon Core Zapatillas para Mujer Black...'
-tags: 
+tags: tole.es
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

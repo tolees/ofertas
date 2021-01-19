@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CLXGQW3-es Adidas Gazelle C Zapatillas de Deporte Unisex niño Verde...'
-tags: 
+tags: tole.es
 actualPrice: 36.41 EUR
 currency: EUR
 price: 36.41

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MYWKHL7-es GOZAR Carcasa De Aluminio Duro De Metal Multicolor Carcasa...'
-tags: 
+tags: tole.es
 actualPrice: 7.69 EUR
 currency: EUR
 price: 7.69

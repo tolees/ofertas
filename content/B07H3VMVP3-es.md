@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H3VMVP3-es Coolbell Bolsa de mensajero convertible multifuncional...'
-tags: 
+tags: tole.es
 actualPrice: 37.91 EUR
 currency: EUR
 price: 37.91

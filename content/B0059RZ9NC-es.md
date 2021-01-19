@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0059RZ9NC-es Columbia Altitude Aspect Forro Polar Hombre Negro Black...'
-tags: 
+tags: tole.es
 actualPrice: 43.24 EUR
 currency: EUR
 price: 43.24

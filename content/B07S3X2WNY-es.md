@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S3X2WNY-es New Balance 373 h Zapatillas para Hombre Azul Navy/Yellow...'
-tags: 
+tags: tole.es
 actualPrice: 47.17 EUR
 currency: EUR
 price: 47.17

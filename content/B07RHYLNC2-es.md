@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RHYLNC2-es Festina Reloj Multiesfera para Hombre de Cuarzo con Correa...'
-tags: 
+tags: tole.es
 actualPrice: 66.84 EUR
 currency: EUR
 price: 66.84

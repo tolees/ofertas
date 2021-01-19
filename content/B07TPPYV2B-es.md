@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TPPYV2B-es Levi s XX Std II Pantalones Beige True Chino Shady GD Ccu...'
-tags: 
+tags: tole.es
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

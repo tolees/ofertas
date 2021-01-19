@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LD5M3QS-es Code: Realize Wintertide Miracles'
-tags: 
+tags: tole.es
 actualPrice: 16.45 EUR
 currency: EUR
 price: 16.45

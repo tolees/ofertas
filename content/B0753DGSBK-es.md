@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0753DGSBK-es T-shirt Kappa Lucera'
-tags: 
+tags: tole.es
 actualPrice: 11.29 EUR
 currency: EUR
 price: 11.29

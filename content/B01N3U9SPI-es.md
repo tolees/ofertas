@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N3U9SPI-es KLIM™ Fusion - Auriculares con micrófono para móvil +...'
-tags: 
+tags: tole.es
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F45HRDR-es XINFULUK Baño a Prueba de Agua Juguetes de luz LED Niños...'
-tags: 
+tags: tole.es
 actualPrice: 2.94 EUR
 currency: EUR
 price: 2.94

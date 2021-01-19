@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000OLYGN2-es Denta Fun Pelota Béisbol Menta Caucho ø7 cm'
-tags: 
+tags: tole.es
 actualPrice: 3.47 EUR
 currency: EUR
 price: 3.47

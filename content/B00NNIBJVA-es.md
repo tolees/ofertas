@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NNIBJVA-es OFERTAS DEL DÍA - 180 Cosmetics - El paquete "potenciador...'
-tags: 
+tags: tole.es
 actualPrice: 29.29 EUR
 currency: EUR
 price: 29.29

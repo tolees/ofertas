@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06VT2DCJ9-es Gorjuss Ladybird Santoro Set de Regalo - 2 Piezas'
-tags: 
+tags: tole.es
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8VTY2P-es Morph Adulto Iluminarse Screaming Payaso del Demonio...'
-tags: 
+tags: tole.es
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

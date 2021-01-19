@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000H8IKUM-es GORE WEAR C5 Maillot de manga corta para hombre L...'
-tags: 
+tags: tole.es
 actualPrice: 60.26 EUR
 currency: EUR
 price: 60.26

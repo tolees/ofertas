@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GO6XX34-es Energy Tablet Skin Case 7" Neo 3 Funda exclusiva Energy...'
-tags: 
+tags: tole.es
 actualPrice: 4.66 EUR
 currency: EUR
 price: 4.66

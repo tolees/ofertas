@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JZT1FTX-es Cable de Cargador Micro USB Trenzado Duradero Cable de...'
-tags: 
+tags: tole.es
 actualPrice: 3.18 EUR
 currency: EUR
 price: 3.18

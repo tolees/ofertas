@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G1CDKHF-es ghd curve classic curl - Tenacilla profesional con barril...'
-tags: 
+tags: tole.es
 actualPrice: 130.99 EUR
 currency: EUR
 price: 130.99

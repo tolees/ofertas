@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LD94ZBG-es Perla de agua dulce genuina 925 hecho a mano de plata...'
-tags: 
+tags: tole.es
 actualPrice: 18 EUR
 currency: EUR
 price: 18

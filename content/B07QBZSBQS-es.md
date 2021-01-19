@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QBZSBQS-es BICASLOVE de Botella de Agua de Acero Inoxidable Diseño de...'
-tags: 
+tags: tole.es
 actualPrice: 12.89 EUR
 currency: EUR
 price: 12.89

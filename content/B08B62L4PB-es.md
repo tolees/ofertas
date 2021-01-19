@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B62L4PB-es Pulsera de joyería Inteligente Multifuncional 18K Gold...'
-tags: 
+tags: tole.es
 actualPrice: 8.32 EUR
 currency: EUR
 price: 8.32

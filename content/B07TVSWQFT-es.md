@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVSWQFT-es Valentino by Mario - Summer Memento Bolsos bandolera Mujer...'
-tags: 
+tags: tole.es
 actualPrice: 79.05 EUR
 currency: EUR
 price: 79.05

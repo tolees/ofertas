@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0722XYX6C-es Cable iPhone [Apple Certificado] IQIYI 1M Cable de Carga y...'
-tags: 
+tags: tole.es
 actualPrice: 6.88 EUR
 currency: EUR
 price: 6.88

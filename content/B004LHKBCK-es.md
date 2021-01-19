@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004LHKBCK-es BAUSCH + LOMB - SofLens® 59 - Lentes de contacto de...'
-tags: 
+tags: tole.es
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

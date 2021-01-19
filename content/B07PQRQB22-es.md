@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PQRQB22-es Transportín plegable de tela para gatos y perros pequeños...'
-tags: 
+tags: tole.es
 actualPrice: 10.48 EUR
 currency: EUR
 price: 10.48

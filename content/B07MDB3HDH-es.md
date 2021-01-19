@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MDB3HDH-es KINGSLONG Mochila Portatil Mujer &Hombre Mochila Pare...'
-tags: 
+tags: tole.es
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G1CJC3T-es ghd curve creative curl - Rizador con barril cónico para...'
-tags: 
+tags: tole.es
 actualPrice: 130.99 EUR
 currency: EUR
 price: 130.99

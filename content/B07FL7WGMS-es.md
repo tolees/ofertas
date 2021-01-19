@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FL7WGMS-es Pekitas - Colchón minicuna 50 x 75 cm Funda 3D Erogonómico...'
-tags: 
+tags: tole.es
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

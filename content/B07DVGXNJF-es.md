@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DVGXNJF-es David Walliams Memory Game'
-tags: 
+tags: tole.es
 actualPrice: 8.62 EUR
 currency: EUR
 price: 8.62

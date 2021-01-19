@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001MZV1V4-es Eukanuba Daily Care Adulto Piel sensible [2 3 Kg]'
-tags: 
+tags: tole.es
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

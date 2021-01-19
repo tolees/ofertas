@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CP1QDN4-es Sierra de Mano Plegable TIBURÓN GRÜNTEK. Serrucho de poda...'
-tags: 
+tags: tole.es
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

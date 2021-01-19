@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YMZ71ZX-es Leabags Pocket Notes Plain Edition - Cuaderno 68 páginas 9...'
-tags: 
+tags: tole.es
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

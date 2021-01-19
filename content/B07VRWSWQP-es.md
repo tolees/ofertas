@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VRWSWQP-es Trona Evolutiva con bandeja Babify Evo/Nuevo Cojín +...'
-tags: 
+tags: tole.es
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

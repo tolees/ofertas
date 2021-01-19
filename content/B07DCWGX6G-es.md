@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DCWGX6G-es WMF 778046380 Vario Cuisine-Batería de Cocina de 4 Piezas...'
-tags: 
+tags: tole.es
 actualPrice: 224.5 EUR
 currency: EUR
 price: 224.5

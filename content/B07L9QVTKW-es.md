@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9QVTKW-es Napapijri Erzin Polo Verde New Olive Green Gd6 X-Large...'
-tags: 
+tags: tole.es
 actualPrice: 20.33 EUR
 currency: EUR
 price: 20.33

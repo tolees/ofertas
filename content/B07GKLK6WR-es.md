@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GKLK6WR-es Olymbros Cámara de Caza 16MP 1080P IP66 Impermeable 24 LED...'
-tags: 
+tags: tole.es
 actualPrice: 59.48 EUR
 currency: EUR
 price: 59.48

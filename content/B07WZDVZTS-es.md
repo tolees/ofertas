@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WZDVZTS-es Kafuty 4G Lector de Libros Electrónicos Portátil Tinta...'
-tags: 
+tags: tole.es
 actualPrice: 65.79 EUR
 currency: EUR
 price: 65.79

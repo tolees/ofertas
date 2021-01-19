@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088LWQ9BB-es KRY Ear Wax Remover Limpiadores de oídos Soft Tips...'
-tags: 
+tags: tole.es
 actualPrice: 18.33 EUR
 currency: EUR
 price: 18.33

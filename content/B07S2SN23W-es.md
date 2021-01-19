@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S2SN23W-es New Balance 500 Zapatillas para Mujer Rosa Pink Rk 39 EU'
-tags: 
+tags: tole.es
 actualPrice: 23.41 EUR
 currency: EUR
 price: 23.41

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082SLX2TY-es OfficeWorld 502 XL Reemplazo para Epson 502 502XL...'
-tags: 
+tags: tole.es
 actualPrice: 17.84 EUR
 currency: EUR
 price: 17.84

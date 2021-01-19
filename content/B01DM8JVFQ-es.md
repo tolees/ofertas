@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DM8JVFQ-es Close Parent Bambú Pañales De Tela Tamaño Único Pack de 10'
-tags: 
+tags: tole.es
 actualPrice: 136.8 EUR
 currency: EUR
 price: 136.8

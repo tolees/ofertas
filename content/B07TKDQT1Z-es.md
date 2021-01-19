@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKDQT1Z-es Max Power Digital Funda para Samsung Galaxy A50 Antigolpes...'
-tags: 
+tags: tole.es
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CBQ43PW-es Nike Internationalist Zapatillas para Mujer Blanco...'
-tags: 
+tags: tole.es
 actualPrice: 50.36 EUR
 currency: EUR
 price: 50.36

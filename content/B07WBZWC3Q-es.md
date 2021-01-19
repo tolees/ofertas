@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WBZWC3Q-es Jack & Jones JCOMOON Knit Crew Neck Jersey Negro Black...'
-tags: 
+tags: tole.es
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

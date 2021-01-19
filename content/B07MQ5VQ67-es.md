@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQ5VQ67-es Scotch & Soda Nos Mott-Classic Slim Fit Chino Pantalones...'
-tags: 
+tags: tole.es
 actualPrice: 60.17 EUR
 currency: EUR
 price: 60.17

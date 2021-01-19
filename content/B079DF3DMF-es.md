@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079DF3DMF-es Campingaz 2 Series Classic LX Vario Barbacoa a Gas BBQ con...'
-tags: 
+tags: tole.es
 actualPrice: 185.25 EUR
 currency: EUR
 price: 185.25

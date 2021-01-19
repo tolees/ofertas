@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCSPMCW-es Napapijri Avio Chaqueta Azul BLU Marine 176 S para Hombre'
-tags: 
+tags: tole.es
 actualPrice: 130.09 EUR
 currency: EUR
 price: 130.09

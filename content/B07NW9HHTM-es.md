@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW9HHTM-es Skechers Women s D LITES 3.0-PROVEN FORCE Trainers White...'
-tags: 
+tags: tole.es
 actualPrice: 50.9 EUR
 currency: EUR
 price: 50.9

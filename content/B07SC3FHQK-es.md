@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SC3FHQK-es Ferilinso Funda para Xiaomi Mi 9T Pro/Mi 9T Funda...'
-tags: 
+tags: tole.es
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

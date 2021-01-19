@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBVQFG2-es PUMA Flyer Runner Zapatillas de Running Unisex Adulto...'
-tags: 
+tags: tole.es
 actualPrice: 33.78 EUR
 currency: EUR
 price: 33.78

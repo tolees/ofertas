@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HGXF74F-es Tiny Dreamer de Tiny Love proyector musical de luz...'
-tags: 
+tags: tole.es
 actualPrice: 41.4 EUR
 currency: EUR
 price: 41.4

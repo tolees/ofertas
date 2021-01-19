@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0015XHOKA-es DeBuyer Comprador De Mini automático del pistón Embudo 0 8...'
-tags: 
+tags: tole.es
 actualPrice: 38.08 EUR
 currency: EUR
 price: 38.08

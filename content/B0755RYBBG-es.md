@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0755RYBBG-es Gebildet® Universal 5 Piezas Herramientas de Desmontaje...'
-tags: 
+tags: tole.es
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

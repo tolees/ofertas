@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YBG4KBZ-es Vans Classic Camiseta Morado Heliotrope/White Ymm Large...'
-tags: 
+tags: tole.es
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

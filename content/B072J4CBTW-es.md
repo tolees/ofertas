@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072J4CBTW-es Under Armour Challenger II Knit Warm-Up Ropa de Deporte de...'
-tags: 
+tags: tole.es
 actualPrice: 38.49 EUR
 currency: EUR
 price: 38.49

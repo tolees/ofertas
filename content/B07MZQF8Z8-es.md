@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQF8Z8-es Pepe Jeans Josephs Camiseta Grey Marl 933 Medium para Hombre'
-tags: 
+tags: tole.es
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

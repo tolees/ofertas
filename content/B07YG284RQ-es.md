@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YG284RQ-es SONARIN Silla Asiento de mesa para bebé trona de mesa...'
-tags: 
+tags: tole.es
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

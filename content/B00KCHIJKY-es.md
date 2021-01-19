@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KCHIJKY-es BLEND Jeans-Noos Cirrus Parte de Arriba Blau Fane...'
-tags: 
+tags: tole.es
 actualPrice: 33.82 EUR
 currency: EUR
 price: 33.82

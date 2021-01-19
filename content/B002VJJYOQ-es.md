@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002VJJYOQ-es Tuscany Silver Pendientes de mujer con plata de ley 925/1000'
-tags: 
+tags: tole.es
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008ZEKQWA-es ABUS 55971 Antirrobo Disco Moto Rojo Medium'
-tags: 
+tags: tole.es
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

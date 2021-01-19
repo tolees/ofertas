@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FG49YXE-es BC Lithium Batteries BCTZ14S-FP-S Batería Litio para Moto...'
-tags: 
+tags: tole.es
 actualPrice: 126.86 EUR
 currency: EUR
 price: 126.86

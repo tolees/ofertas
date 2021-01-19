@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RQTD12-es Jack & Jones Jcopinn Sweat Hood Noos Capucha Negro Black...'
-tags: 
+tags: tole.es
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

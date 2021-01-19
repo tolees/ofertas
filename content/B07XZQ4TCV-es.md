@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XZQ4TCV-es Hauck carro Shopper SLX trioset coche de bebes 3 piezas de...'
-tags: 
+tags: tole.es
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

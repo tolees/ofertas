@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N2QLPQW-es B+W XS-Pro - Filtro densidad neutra ND 3.0 810 NANO 62 mm'
-tags: 
+tags: tole.es
 actualPrice: 68.53 EUR
 currency: EUR
 price: 68.53

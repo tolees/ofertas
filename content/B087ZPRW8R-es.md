@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087ZPRW8R-es Monix Tempo Duo - Set de ollas a presión 4+7 L incluye...'
-tags: 
+tags: tole.es
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

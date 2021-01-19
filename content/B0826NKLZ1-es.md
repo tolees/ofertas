@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0826NKLZ1-es ysister Album de Fotos Our Adventure Book Álbum de Fotos...'
-tags: 
+tags: tole.es
 actualPrice: 9.94 EUR
 currency: EUR
 price: 9.94

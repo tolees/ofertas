@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S534YKT-es EraSpooky Disfraz de Payaso para Hombre Carnaval Circo...'
-tags: 
+tags: tole.es
 actualPrice: 30.95 EUR
 currency: EUR
 price: 30.95

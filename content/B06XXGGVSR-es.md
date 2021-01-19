@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XXGGVSR-es New Balance 574v2-core Trainers Zapatillas para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 54.0 EUR
 currency: EUR
 price: 54.0

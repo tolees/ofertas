@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079W3VTF9-es Lisciani- LED Space Vehicle 65868'
-tags: 
+tags: tole.es
 actualPrice: 8.0 EUR
 currency: EUR
 price: 8.0

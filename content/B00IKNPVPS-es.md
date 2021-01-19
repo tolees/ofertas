@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IKNPVPS-es SportPlus Cinta de Correr 16 km/h con Ajuste de...'
-tags: 
+tags: tole.es
 actualPrice: 487.7 EUR
 currency: EUR
 price: 487.7

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X4PG5F7-es Eastpak Springer Riñonera 23 cm 2 L Gris Melange Print V'
-tags: 
+tags: tole.es
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

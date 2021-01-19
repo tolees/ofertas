@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VBXBV3J-es Cepillo alisador eléctrico para barba/pelo 2.0 peine para...'
-tags: 
+tags: tole.es
 actualPrice: 19.88 EUR
 currency: EUR
 price: 19.88

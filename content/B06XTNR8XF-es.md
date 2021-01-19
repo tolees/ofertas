@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XTNR8XF-es Pepe Jeans Zip Thru Sudadera con Capucha para Hombre Gris...'
-tags: 
+tags: tole.es
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

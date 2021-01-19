@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NYTJCK8-es Skechers Uno- Stacre Zapatillas para Hombre Rojo Red...'
-tags: 
+tags: tole.es
 actualPrice: 28.44 EUR
 currency: EUR
 price: 28.44

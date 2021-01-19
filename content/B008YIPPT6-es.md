@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008YIPPT6-es L Oreal Paris Color Riche 376 Cassis Passion Barra de...'
-tags: 
+tags: tole.es
 actualPrice: 7.71 EUR
 currency: EUR
 price: 7.71

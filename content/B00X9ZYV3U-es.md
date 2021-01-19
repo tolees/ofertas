@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X9ZYV3U-es Bosch Professional GIC 120 Professional - Cámara de...'
-tags: 
+tags: tole.es
 actualPrice: 153.99 EUR
 currency: EUR
 price: 153.99

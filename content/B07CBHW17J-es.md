@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CBHW17J-es Yves Saint Laurent DESSIN DES SOURCILS eyebrow pencil...'
-tags: 
+tags: tole.es
 actualPrice: 6.68 EUR
 currency: EUR
 price: 6.68

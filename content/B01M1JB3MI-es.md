@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M1JB3MI-es Foonii Pack de 4 Luces LED Sensores de Movimiento Sensor...'
-tags: 
+tags: tole.es
 actualPrice: 15.26 EUR
 currency: EUR
 price: 15.26

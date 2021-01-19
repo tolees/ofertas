@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072BJB89P-es American Crew Espuma de Afeitar 300 ml'
-tags: 
+tags: tole.es
 actualPrice: 6.91 EUR
 currency: EUR
 price: 6.91

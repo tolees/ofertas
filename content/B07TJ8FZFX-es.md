@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJ8FZFX-es Only & Sons NOS Onswinston Sweat Hoodie Noos Sudadera con...'
-tags: 
+tags: tole.es
 actualPrice: 6.88 EUR
 currency: EUR
 price: 6.88

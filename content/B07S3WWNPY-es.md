@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S3WWNPY-es New Balance 574v2 Zapatillas para Mujer Rojo Red Sob 35 EU'
-tags: 
+tags: tole.es
 actualPrice: 31.85 EUR
 currency: EUR
 price: 31.85

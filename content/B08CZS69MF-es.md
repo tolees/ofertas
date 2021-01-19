@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CZS69MF-es Depilación sin dolor en forma de corazón Depilación...'
-tags: 
+tags: tole.es
 actualPrice: 1.36 EUR
 currency: EUR
 price: 1.36

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQR9PJY-es Tommy Hilfiger Essential Craft Vulc Zapatillas para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 31.45 EUR
 currency: EUR
 price: 31.45

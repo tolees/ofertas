@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0843ZYHWQ-es Skip Liquido Ultimate Triple Poder Fragancia Mimosin 50...'
-tags: 
+tags: tole.es
 actualPrice: 6.05 EUR
 currency: EUR
 price: 6.05

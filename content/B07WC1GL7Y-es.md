@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WC1GL7Y-es adidas Tiro 19 Cotton Pant Pantalones Hombre Tech...'
-tags: 
+tags: tole.es
 actualPrice: 28.95 EUR
 currency: EUR
 price: 28.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FZJYGFN-es RIIQIICHY Cachemira Invierno Bufanda Pashmina Chal Mantón...'
-tags: 
+tags: tole.es
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

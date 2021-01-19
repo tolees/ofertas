@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GWYMKNC-es Under Armour Sportstyle Graphic Muscle SL Tanque Mujer...'
-tags: 
+tags: tole.es
 actualPrice: 15.97 EUR
 currency: EUR
 price: 15.97

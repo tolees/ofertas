@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0895ZFVQX-es NHOUYAO 2pcs Hueso de Papel Manualidades Carpeta para la...'
-tags: 
+tags: tole.es
 actualPrice: 3.88 EUR
 currency: EUR
 price: 3.88

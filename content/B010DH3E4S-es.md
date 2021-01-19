@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010DH3E4S-es Zwilling Motion - Cuchillo jamonero 26 cm de hoja acero...'
-tags: 
+tags: tole.es
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

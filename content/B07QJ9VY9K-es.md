@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QJ9VY9K-es Tatuer Pegatinas Album Fotos Bricolaje Esquinas Adhesivas...'
-tags: 
+tags: tole.es
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

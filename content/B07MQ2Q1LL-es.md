@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQ2Q1LL-es HKT by Hackett Hkt LS Str Rby Polo Red/White 2ah Small...'
-tags: 
+tags: tole.es
 actualPrice: 19.55 EUR
 currency: EUR
 price: 19.55

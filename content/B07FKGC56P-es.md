@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKGC56P-es Bestway 54189 - Spa Hinchable Lay- Z-Spa Helsinki Para 5-7...'
-tags: 
+tags: tole.es
 actualPrice: 493.29 EUR
 currency: EUR
 price: 493.29

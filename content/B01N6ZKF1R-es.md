@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6ZKF1R-es LG 32UD99-W - Monitor 4K UHD de 80 cm 31 5" con Panel IPS...'
-tags: 
+tags: tole.es
 actualPrice: 261.04 EUR
 currency: EUR
 price: 261.04

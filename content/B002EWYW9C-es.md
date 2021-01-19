@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002EWYW9C-es Bosch Home and Garden 0.603.502.002 Sierra circular...'
-tags: 
+tags: tole.es
 actualPrice: 109 EUR
 currency: EUR
 price: 109

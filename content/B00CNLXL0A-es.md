@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CNLXL0A-es Maxxis Minion Dhr II Neumático Unisex Negro 29x2 30 58-622'
-tags: 
+tags: tole.es
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

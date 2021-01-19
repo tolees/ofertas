@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T1F49NZ-es Nike Club Hoodie Ft Sudadera con Capucha y Cremallera...'
-tags: 
+tags: tole.es
 actualPrice: 35.59 EUR
 currency: EUR
 price: 35.59

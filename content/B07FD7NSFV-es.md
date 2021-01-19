@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FD7NSFV-es Starlink Co-Op Pack'
-tags: 
+tags: tole.es
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

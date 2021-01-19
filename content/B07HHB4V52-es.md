@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HHB4V52-es HP 27fh - Monitor de 27" FullHD 1920x1080 panel IPS 16:9...'
-tags: 
+tags: tole.es
 actualPrice: 154.74 EUR
 currency: EUR
 price: 154.74

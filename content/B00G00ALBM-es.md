@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00G00ALBM-es Komono Reloj Analógico de Cuarzo Unisex con Correa de...'
-tags: 
+tags: tole.es
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

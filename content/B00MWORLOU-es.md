@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MWORLOU-es Orient Reloj Analógico para Hombre de Automático con...'
-tags: 
+tags: tole.es
 actualPrice: 123.47 EUR
 currency: EUR
 price: 123.47

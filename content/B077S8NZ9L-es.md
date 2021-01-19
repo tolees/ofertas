@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077S8NZ9L-es Kit Protector para Esquinas y Bordes de Muebles de Bébé...'
-tags: 
+tags: tole.es
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

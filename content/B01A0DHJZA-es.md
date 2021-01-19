@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01A0DHJZA-es Albainox 9244 Insignias Unisex Adulto Multicolor Talla Única'
-tags: 
+tags: tole.es
 actualPrice: 9.8 EUR
 currency: EUR
 price: 9.8

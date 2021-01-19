@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SHVDCXG-es Under Armour Play Up Solid Corto Niñas Rosa YXL'
-tags: 
+tags: tole.es
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

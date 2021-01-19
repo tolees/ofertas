@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0899TKGPV-es PISEN PowerCube 20000 mAh negro cargador portátil portátil...'
-tags: 
+tags: tole.es
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

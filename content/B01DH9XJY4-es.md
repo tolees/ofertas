@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DH9XJY4-es Victoria Mercedes Terciopelo Bailarinas con Punta Cerrada...'
-tags: 
+tags: tole.es
 actualPrice: 16.87 EUR
 currency: EUR
 price: 16.87

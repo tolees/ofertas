@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001TPH6QG-es Tojiro Cuchillo Deba Japones - Cuchillos de Cocina...'
-tags: 
+tags: tole.es
 actualPrice: 103.87 EUR
 currency: EUR
 price: 103.87

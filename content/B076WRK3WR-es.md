@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076WRK3WR-es Gardena NatureUp Clip de conexión para macetas de esquina...'
-tags: 
+tags: tole.es
 actualPrice: 2.98 EUR
 currency: EUR
 price: 2.98

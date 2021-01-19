@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H5VDZ5V-es Skechers Flex Appeal 3.0 Zapatillas para Mujer Negro Black...'
-tags: 
+tags: tole.es
 actualPrice: 45 EUR
 currency: EUR
 price: 45

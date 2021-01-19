@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0841TSP3P-es Panamami Gel de sílice Galactorrhea Colección Tapa...'
-tags: 
+tags: tole.es
 actualPrice: 5.19 EUR
 currency: EUR
 price: 5.19

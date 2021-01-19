@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B5XSR7L-es AONESY Dispensador de jabón automático Touchless...'
-tags: 
+tags: tole.es
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QT6PM1T-es Asics Gel-Pulse 11 Zapatillas de Running para Hombre Azul...'
-tags: 
+tags: tole.es
 actualPrice: 64.86 EUR
 currency: EUR
 price: 64.86

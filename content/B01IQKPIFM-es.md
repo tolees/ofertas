@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IQKPIFM-es Revlon Ultra HD Pintalabios Matte #675 Infatuation'
-tags: 
+tags: tole.es
 actualPrice: 4.36 EUR
 currency: EUR
 price: 4.36

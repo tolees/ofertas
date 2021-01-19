@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X9WY5B6-es L Oreal Paris Dermo Expertise - Revitalift Filler Sérum...'
-tags: 
+tags: tole.es
 actualPrice: 11.17 EUR
 currency: EUR
 price: 11.17

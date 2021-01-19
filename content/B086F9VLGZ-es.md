@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086F9VLGZ-es Marvel LOKI-Carpeta Anillas'
-tags: 
+tags: tole.es
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

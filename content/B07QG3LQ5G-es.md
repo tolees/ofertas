@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QG3LQ5G-es Lékué - Kit Estuche de vapor 1 2 personas + libro de...'
-tags: 
+tags: tole.es
 actualPrice: 21.04 EUR
 currency: EUR
 price: 21.04

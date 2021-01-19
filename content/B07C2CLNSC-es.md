@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C2CLNSC-es Jack & Jones Jjipaul Jjflake AKM 542 Noos Pantalones Verde...'
-tags: 
+tags: tole.es
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

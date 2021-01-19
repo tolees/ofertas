@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLQJLRC-es Edge Entertainment - Kick-Ass El juego de Tablero -...'
-tags: 
+tags: tole.es
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

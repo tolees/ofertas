@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BZ8M2MY-es Sloggi S Symmetry N Sujetador sin aros Black 004 90C Talla...'
-tags: 
+tags: tole.es
 actualPrice: 16.71 EUR
 currency: EUR
 price: 16.71

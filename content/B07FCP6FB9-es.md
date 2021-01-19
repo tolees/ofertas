@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FCP6FB9-es Baoblaze Premium Monitor de Presión de Aire para...'
-tags: 
+tags: tole.es
 actualPrice: 9.01 EUR
 currency: EUR
 price: 9.01

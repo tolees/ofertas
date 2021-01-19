@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CP1B3KV-es PRIXTON Smartwatch SWB31 - Reloj Inteligente Sumergible...'
-tags: 
+tags: tole.es
 actualPrice: 42.95 EUR
 currency: EUR
 price: 42.95

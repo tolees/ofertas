@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LY6GUPR-es Petdentist polvo probiótico para perros y gatos con 17...'
-tags: 
+tags: tole.es
 actualPrice: 36.36 EUR
 currency: EUR
 price: 36.36

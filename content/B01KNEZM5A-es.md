@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KNEZM5A-es Finether-Joyero Bloqueable（Caja para joyas Estuche...'
-tags: 
+tags: tole.es
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

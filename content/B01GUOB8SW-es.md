@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GUOB8SW-es Divaz - Zapatillas Deportivas Ellie de Estampado Floral...'
-tags: 
+tags: tole.es
 actualPrice: 14.2 EUR
 currency: EUR
 price: 14.2

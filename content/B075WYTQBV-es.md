@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075WYTQBV-es Maclaren Triumph all star Silla de paseo - ligera de los 6...'
-tags: 
+tags: tole.es
 actualPrice: 148.4 EUR
 currency: EUR
 price: 148.4

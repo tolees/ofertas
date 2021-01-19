@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012GR9HS0-es Buff Solid Gorro Lana Merino Lightweight Unisex Adulto...'
-tags: 
+tags: tole.es
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

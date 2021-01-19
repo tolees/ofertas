@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076VSLB42-es Sigma Sport Aura 25 Set Luces Ciclismo Unisex Negro Talla...'
-tags: 
+tags: tole.es
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

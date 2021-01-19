@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9WJDGJ-es Lacoste Carnaby EVO 319 3 SMA Zapatillas para Hombre Negro...'
-tags: 
+tags: tole.es
 actualPrice: 45.95 EUR
 currency: EUR
 price: 45.95

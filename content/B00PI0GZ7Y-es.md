@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PI0GZ7Y-es Fisher-Price - Duermebebés sueños Felices Mattel CHG19'
-tags: 
+tags: tole.es
 actualPrice: 25.5 EUR
 currency: EUR
 price: 25.5

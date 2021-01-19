@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086ZMZK2W-es B Blesiya Caja De Almacenamiento/Organizador/Soporte De...'
-tags: 
+tags: tole.es
 actualPrice: 9.25 EUR
 currency: EUR
 price: 9.25

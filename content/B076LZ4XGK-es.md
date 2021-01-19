@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076LZ4XGK-es Diyife Clicker para Adiestramiento Perro 4 Piezas...'
-tags: 
+tags: tole.es
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WZL1NT9-es H+Y Mini Grabadora de Voz Grabadora Espia Portátil de 16...'
-tags: 
+tags: tole.es
 actualPrice: 37.39 EUR
 currency: EUR
 price: 37.39

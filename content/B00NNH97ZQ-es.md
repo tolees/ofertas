@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NNH97ZQ-es Leathlux Funda Xiaomi Redmi 7A + 2 x Protector de Pantalla...'
-tags: 
+tags: tole.es
 actualPrice: 7.01 EUR
 currency: EUR
 price: 7.01

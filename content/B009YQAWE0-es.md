@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009YQAWE0-es Belkin F5U404CW - Hub USB 2.0 de 4 Puertos con Fuente de...'
-tags: 
+tags: tole.es
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

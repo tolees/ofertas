@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DNT5KJ5-es [Paquete de 2] Surface Laptop 3/ Laptop 2 Protector de...'
-tags: 
+tags: tole.es
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

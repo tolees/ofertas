@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FY53T1Z-es Vans Palomar Zapatillas para Niños Negro Suede/Canvas...'
-tags: 
+tags: tole.es
 actualPrice: 34.02 EUR
 currency: EUR
 price: 34.02

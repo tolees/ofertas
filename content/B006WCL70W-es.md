@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006WCL70W-es Grohe Eurocube - Parte exterior llave de paso Color cromo...'
-tags: 
+tags: tole.es
 actualPrice: 43.75 EUR
 currency: EUR
 price: 43.75

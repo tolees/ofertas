@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSQ72D2-es Lee Austin Vaqueros Tapered Azul Dk Clean Foam EK 32W /...'
-tags: 
+tags: tole.es
 actualPrice: 52.94 EUR
 currency: EUR
 price: 52.94

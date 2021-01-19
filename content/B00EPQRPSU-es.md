@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EPQRPSU-es Nixon Reloj Analógico de Cuarzo para Hombre con Correa de...'
-tags: 
+tags: tole.es
 actualPrice: 159.95 EUR
 currency: EUR
 price: 159.95

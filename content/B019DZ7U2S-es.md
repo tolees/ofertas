@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019DZ7U2S-es Sabrent Cable de extensión 22AWG USB 3.0 - A-Macho a...'
-tags: 
+tags: tole.es
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FGKDLQL-es find. Leather Cleated Brogue Botas Estilo Motero Marrón...'
-tags: 
+tags: tole.es
 actualPrice: 16.56 EUR
 currency: EUR
 price: 16.56

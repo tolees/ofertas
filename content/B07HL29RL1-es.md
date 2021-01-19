@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HL29RL1-es Amazon Essentials - Pack de 3 sacos de dormir de bebé para...'
-tags: 
+tags: tole.es
 actualPrice: 12.25 EUR
 currency: EUR
 price: 12.25

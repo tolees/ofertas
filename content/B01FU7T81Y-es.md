@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FU7T81Y-es DARDARUGA Pabellon de Jardin cenador Capri Beige 3x3 m...'
-tags: 
+tags: tole.es
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

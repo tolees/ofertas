@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019O9BAGU-es Under Armour UA TAC Performance Polo Hombre Negro...'
-tags: 
+tags: tole.es
 actualPrice: 25.27 EUR
 currency: EUR
 price: 25.27

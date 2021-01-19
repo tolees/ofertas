@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00455IKWQ-es HP CF031A - Cartucho de tóner'
-tags: 
+tags: tole.es
 actualPrice: 110.0 EUR
 currency: EUR
 price: 110.0

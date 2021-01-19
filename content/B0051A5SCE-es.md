@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0051A5SCE-es Philips - MASTER TL-E Circular 32W/865 1CT/12'
-tags: 
+tags: tole.es
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

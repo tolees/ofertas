@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001BMVV9K-es Kickers Kick Hi Core Botas para Hombre Negro 46 EU'
-tags: 
+tags: tole.es
 actualPrice: 72.0 EUR
 currency: EUR
 price: 72.0

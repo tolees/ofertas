@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NX1NN8K-es Igi&Co Uomo-41145 Zapatillas de Gimnasia para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 23.09 EUR
 currency: EUR
 price: 23.09

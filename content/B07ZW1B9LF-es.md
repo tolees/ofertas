@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZW1B9LF-es Tommee Tippee Cuna Moisés para bebé Sleepee y base verde'
-tags: 
+tags: tole.es
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

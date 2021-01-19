@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRLSNLR-es New Balance 574v2 Zapatillas para Mujer Morado Purple...'
-tags: 
+tags: tole.es
 actualPrice: 22.59 EUR
 currency: EUR
 price: 22.59

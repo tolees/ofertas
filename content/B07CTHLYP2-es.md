@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CTHLYP2-es JACK & JONES Jfwstoke Nubuck Boot Mono Noos Botas Clasicas...'
-tags: 
+tags: tole.es
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HS41QBK-es ASUS ROG STRIX Z390-H Gaming - Placa base Gaming ATX Intel...'
-tags: 
+tags: tole.es
 actualPrice: 120.81 EUR
 currency: EUR
 price: 120.81

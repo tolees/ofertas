@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SJHHMP6-es Pala de Pádel Masai | Black Crown | Nivel: Avanzado...'
-tags: 
+tags: tole.es
 actualPrice: 114.95 EUR
 currency: EUR
 price: 114.95

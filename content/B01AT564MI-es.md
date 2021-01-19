@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AT564MI-es CrossBoule Heroes Batman vs. Superman'
-tags: 
+tags: tole.es
 actualPrice: 8.52 EUR
 currency: EUR
 price: 8.52

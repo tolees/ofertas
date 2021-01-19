@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079XVRXS6-es Lúdilo SOS Dino multicolor 51474 color/modelo surtido'
-tags: 
+tags: tole.es
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

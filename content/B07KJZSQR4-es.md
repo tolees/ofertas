@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KJZSQR4-es Sorel Winter Carnival Botas de Invierno para Mujer Negro...'
-tags: 
+tags: tole.es
 actualPrice: 19.77 EUR
 currency: EUR
 price: 19.77

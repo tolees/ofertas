@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KW99JY5-es Salomon Trailster Zapatillas de trail running Hombre Gris...'
-tags: 
+tags: tole.es
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

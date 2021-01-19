@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KGCO1M-es Pyrex Classic Vidrio - Cazuela redonda con tapa 2.1 l 25 x...'
-tags: 
+tags: tole.es
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

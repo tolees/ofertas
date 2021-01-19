@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WF77MX2-es CIRAGO Licuadora Prensado en Frio Fruta y verdura...'
-tags: 
+tags: tole.es
 actualPrice: 77.59 EUR
 currency: EUR
 price: 77.59

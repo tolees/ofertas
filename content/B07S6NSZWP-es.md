@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S6NSZWP-es PUMA ANZARUN Lite Zapatillas Unisex Adulto Negro Black...'
-tags: 
+tags: tole.es
 actualPrice: 32.85 EUR
 currency: EUR
 price: 32.85

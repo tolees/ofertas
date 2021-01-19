@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TJIPRCU-es Nike Revolution 4 GS Zapatillas de Running para Niños Azul...'
-tags: 
+tags: tole.es
 actualPrice: 31.0 EUR
 currency: EUR
 price: 31.0

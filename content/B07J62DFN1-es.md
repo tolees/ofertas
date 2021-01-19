@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J62DFN1-es Pop! Star Vs. The Forces of Evil - Figura de Vinilo Marco...'
-tags: 
+tags: tole.es
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

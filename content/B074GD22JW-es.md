@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074GD22JW-es Fossil Reloj Analogico para Hombre de Cuarzo con Correa en...'
-tags: 
+tags: tole.es
 actualPrice: 132.25 EUR
 currency: EUR
 price: 132.25

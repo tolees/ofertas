@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GSLL456-es KollyKolla Botella de Agua Acero Inoxidable Termo Sin BPA...'
-tags: 
+tags: tole.es
 actualPrice: 19.59 EUR
 currency: EUR
 price: 19.59

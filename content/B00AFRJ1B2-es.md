@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AFRJ1B2-es K&N RG-1002RD filtro cromado universal Coche y Moto'
-tags: 
+tags: tole.es
 actualPrice: 47.83 EUR
 currency: EUR
 price: 47.83

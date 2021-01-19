@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVKNXBQ-es Fanilife - Mesa de comedor rectangular de 110 cm diseño...'
-tags: 
+tags: tole.es
 actualPrice: 72.99 EUR
 currency: EUR
 price: 72.99

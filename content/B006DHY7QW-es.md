@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006DHY7QW-es febi bilstein 31974 Culatas'
-tags: 
+tags: tole.es
 actualPrice: 14.64 EUR
 currency: EUR
 price: 14.64

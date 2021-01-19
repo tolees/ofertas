@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MDOUIER-es Isabel + La corona partida + Carlos Rey Emperador [Blu-ray]'
-tags: 
+tags: tole.es
 actualPrice: 45.65 EUR
 currency: EUR
 price: 45.65

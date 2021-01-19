@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08425JCNB-es Cámara Domo de Seguridad CCTV de vigilancia de imitación...'
-tags: 
+tags: tole.es
 actualPrice: 0.01 EUR
 currency: EUR
 price: 0.01

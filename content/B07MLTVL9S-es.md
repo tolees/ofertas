@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MLTVL9S-es Geox D Kaula B ABX C Botas de Nieve para Mujer Gris Lt...'
-tags: 
+tags: tole.es
 actualPrice: 30.93 EUR
 currency: EUR
 price: 30.93

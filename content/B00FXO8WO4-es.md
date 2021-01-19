@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FXO8WO4-es BLACK+DECKER GWC3600L20-QW - Soplador aspirador triturador...'
-tags: 
+tags: tole.es
 actualPrice: 159.29 EUR
 currency: EUR
 price: 159.29

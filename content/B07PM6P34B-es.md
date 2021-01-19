@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PM6P34B-es Inulina BIO en Polvo Vegavero® | Prebiótico Orgánico Sin...'
-tags: 
+tags: tole.es
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

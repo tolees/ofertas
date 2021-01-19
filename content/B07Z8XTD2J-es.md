@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z8XTD2J-es Reshias Funda LG K30 2019 Modelo Clear Cárcasa Silicona...'
-tags: 
+tags: tole.es
 actualPrice: 1.08 EUR
 currency: EUR
 price: 1.08

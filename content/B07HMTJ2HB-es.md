@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HMTJ2HB-es AmazonBasics – Balancín plegable con toldo Negro'
-tags: 
+tags: tole.es
 actualPrice: 58.21 EUR
 currency: EUR
 price: 58.21

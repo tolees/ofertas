@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EJIMZZ2-es 3M xA004837747 Respirador Antipartículas de Plegado Plano...'
-tags: 
+tags: tole.es
 actualPrice: 8.16 EUR
 currency: EUR
 price: 8.16

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075VBNB4B-es Filomatic Filo2 Maquinilla de Afeitar - 30 Unidades'
-tags: 
+tags: tole.es
 actualPrice: 11.58 EUR
 currency: EUR
 price: 11.58

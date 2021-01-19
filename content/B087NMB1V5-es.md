@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087NMB1V5-es Grborn Termómetro electrónico Termómetro de Mano de Mano...'
-tags: 
+tags: tole.es
 actualPrice: 6.74 EUR
 currency: EUR
 price: 6.74

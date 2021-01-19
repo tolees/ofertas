@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083KFLNLQ-es Voodoo Vixen Nicole Grey 40s Style Mujer Abrigos Negro-...'
-tags: 
+tags: tole.es
 actualPrice: 96.99 EUR
 currency: EUR
 price: 96.99

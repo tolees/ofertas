@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XP737QP-es Naipo Silla de Masaje Plegable Ligera y Portátil para...'
-tags: 
+tags: tole.es
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

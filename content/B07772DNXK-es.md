@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07772DNXK-es Tommy Jeans Hombre Original Ryan-DM0DM03947 Jeans Azul...'
-tags: 
+tags: tole.es
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

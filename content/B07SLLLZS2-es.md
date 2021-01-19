@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SLLLZS2-es Asics Patriot 11 Running Shoe para Mujer Menta Tinte/Sheet...'
-tags: 
+tags: tole.es
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

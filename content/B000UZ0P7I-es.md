@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000UZ0P7I-es Olympia herramientas 85 – 010 Grand pack-n-roll portátil...'
-tags: 
+tags: tole.es
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

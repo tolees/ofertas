@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SDEXHPK-es K&N 33-3025 Filtro de Aire Coche Lavable y Reutilizable'
-tags: 
+tags: tole.es
 actualPrice: 54.93 EUR
 currency: EUR
 price: 54.93

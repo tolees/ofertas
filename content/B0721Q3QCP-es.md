@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0721Q3QCP-es Vibram Fivefingers Vi-b Zapatillas de Deporte para Mujer...'
-tags: 
+tags: tole.es
 actualPrice: 55.95 EUR
 currency: EUR
 price: 55.95

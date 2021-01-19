@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z9Z6XQF-es TKL Teclado mecánico para juegos interruptor azul Clicky...'
-tags: 
+tags: tole.es
 actualPrice: 35.34 EUR
 currency: EUR
 price: 35.34

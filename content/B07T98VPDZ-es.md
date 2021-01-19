@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T98VPDZ-es Helly Hansen Scurry V3 Zapatillas para Hombre Turquesa...'
-tags: 
+tags: tole.es
 actualPrice: 38.31 EUR
 currency: EUR
 price: 38.31

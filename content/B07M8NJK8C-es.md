@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8NJK8C-es Braun 9 En 1 Recortadora todo en uno MGK5080 Máquina...'
-tags: 
+tags: tole.es
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

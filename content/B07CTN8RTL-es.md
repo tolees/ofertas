@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CTN8RTL-es FIND - Effortless Look Perfilador de labios n.1 + Líquido...'
-tags: 
+tags: tole.es
 actualPrice: 2.78 EUR
 currency: EUR
 price: 2.78

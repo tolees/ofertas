@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HP6GS8B-es Skechers'
-tags: 
+tags: tole.es
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

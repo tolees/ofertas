@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DC7J2FJ-es Revlon Kiss Tinte para Labios #250 High End Coral'
-tags: 
+tags: tole.es
 actualPrice: 6.29 EUR
 currency: EUR
 price: 6.29

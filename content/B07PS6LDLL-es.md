@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PS6LDLL-es CARE OF by PUMA Sudadera de manga larga con cuello redondo...'
-tags: 
+tags: tole.es
 actualPrice: 24.5 EUR
 currency: EUR
 price: 24.5

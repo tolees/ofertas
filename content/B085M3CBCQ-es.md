@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085M3CBCQ-es Suhctup Funda Compatible con Huawei P10 Plus Carcasa...'
-tags: 
+tags: tole.es
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TCP8B4X-es Finocam - Recambio Anual 2020 semana vista vertical Open...'
-tags: 
+tags: tole.es
 actualPrice: 5.85 EUR
 currency: EUR
 price: 5.85

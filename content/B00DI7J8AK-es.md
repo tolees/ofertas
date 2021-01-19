@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DI7J8AK-es Ecozone - Nueces de jabon para lavar la ropa bolsa de 1 kg...'
-tags: 
+tags: tole.es
 actualPrice: 10.2 EUR
 currency: EUR
 price: 10.2

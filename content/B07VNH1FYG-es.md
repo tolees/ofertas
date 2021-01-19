@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNH1FYG-es Fossil Mujer acero inoxidable Pulsera esclava JF03235710'
-tags: 
+tags: tole.es
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0845WDXYC-es CHIKA10 Tonia 04 Cuero/Tan Talla 40'
-tags: 
+tags: tole.es
 actualPrice: 30.09 EUR
 currency: EUR
 price: 30.09

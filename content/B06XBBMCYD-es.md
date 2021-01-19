@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XBBMCYD-es NEW C Funda para iPhone 7 iPhone 8 Anti- Choques y Anti-...'
-tags: 
+tags: tole.es
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

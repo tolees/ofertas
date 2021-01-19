@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RJKPCPM-es Tommy Hilfiger Cozy 3D Zapatillas Bajas para Mujer Azul...'
-tags: 
+tags: tole.es
 actualPrice: 27.24 EUR
 currency: EUR
 price: 27.24

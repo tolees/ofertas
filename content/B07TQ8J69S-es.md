@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TQ8J69S-es IPOTCH Toy Magic Iron Memory Memory Shaped Memory Wire...'
-tags: 
+tags: tole.es
 actualPrice: 9.25 EUR
 currency: EUR
 price: 9.25

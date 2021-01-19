@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H5HFONS-es WOXTER i-Headphone PC 780 Auriculares Diadema con...'
-tags: 
+tags: tole.es
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

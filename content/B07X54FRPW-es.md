@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X54FRPW-es Lomogo Funda Huawei Y6 2018 Cartera Funda de Cuero Ranuras...'
-tags: 
+tags: tole.es
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SN2TSPY-es Disney Elsa Travel Frozen2 Classic - Disfraz de Elsa...'
-tags: 
+tags: tole.es
 actualPrice: 17.65 EUR
 currency: EUR
 price: 17.65

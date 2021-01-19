@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083KLYM61-es Scholl Plantillas GelActiv para Zapato Abierto + Crema de...'
-tags: 
+tags: tole.es
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

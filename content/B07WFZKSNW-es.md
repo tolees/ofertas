@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WFZKSNW-es SPTwj - Mecha para desoldar 3 mm de ancho 1 5 m de largo...'
-tags: 
+tags: tole.es
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

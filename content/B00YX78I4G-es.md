@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YX78I4G-es Ravensburger Disney Princess Mini Memoria'
-tags: 
+tags: tole.es
 actualPrice: 8.47 EUR
 currency: EUR
 price: 8.47

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PWVFPTJ-es Batería de Repuesto ENEGON Paquete de 2 y Smart LED...'
-tags: 
+tags: tole.es
 actualPrice: 49.59 EUR
 currency: EUR
 price: 49.59

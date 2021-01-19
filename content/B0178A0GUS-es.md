@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0178A0GUS-es Microsoft – Wireless Desktop 3050 Ratón y teclado QWERTY...'
-tags: 
+tags: tole.es
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S3X2F2C-es New Balance 500 h Zapatillas para Hombre Rojo Red Tsc 40 EU'
-tags: 
+tags: tole.es
 actualPrice: 39.06 EUR
 currency: EUR
 price: 39.06

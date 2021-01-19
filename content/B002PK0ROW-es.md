@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002PK0ROW-es Crema Cutículas - Aceite de Limón'
-tags: 
+tags: tole.es
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

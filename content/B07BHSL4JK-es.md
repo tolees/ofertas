@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BHSL4JK-es HAIROXOL-Cápsulas tratamiento anti-caída de cabello |...'
-tags: 
+tags: tole.es
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

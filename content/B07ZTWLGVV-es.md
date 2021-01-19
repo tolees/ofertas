@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZTWLGVV-es Nike Jordan Jumpman 2020 Zapatillas de básquetbol para...'
-tags: 
+tags: tole.es
 actualPrice: 77.7 EUR
 currency: EUR
 price: 77.7

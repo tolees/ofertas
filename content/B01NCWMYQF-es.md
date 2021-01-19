@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCWMYQF-es Luz trasera impermeable para bicicleta ajuste constante...'
-tags: 
+tags: tole.es
 actualPrice: 1.14 EUR
 currency: EUR
 price: 1.14

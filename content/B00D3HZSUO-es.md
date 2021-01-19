@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00D3HZSUO-es Lutsine Xeramance Emulsión Reestructurante para Piel Muy...'
-tags: 
+tags: tole.es
 actualPrice: 21.95 EUR
 currency: EUR
 price: 21.95

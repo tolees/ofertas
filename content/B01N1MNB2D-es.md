@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N1MNB2D-es Twozies - Pack Siempre Uni-Dos con 6 Babies y 6 Mascotas...'
-tags: 
+tags: tole.es
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

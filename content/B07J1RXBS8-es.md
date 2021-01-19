@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J1RXBS8-es FitFitaly Rodillera Protectora Ortopédica para Ligamentos...'
-tags: 
+tags: tole.es
 actualPrice: 18.25 EUR
 currency: EUR
 price: 18.25

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BZXLS2G-es Melchioni ARTIC47LT - Mini nevera bar con congelador A+...'
-tags: 
+tags: tole.es
 actualPrice: 97.48 EUR
 currency: EUR
 price: 97.48

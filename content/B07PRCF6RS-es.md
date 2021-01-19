@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRCF6RS-es Kipling - Creativity S Monederos Mujer Multicolor Camo...'
-tags: 
+tags: tole.es
 actualPrice: 11.67 EUR
 currency: EUR
 price: 11.67

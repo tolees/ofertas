@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076DJRBFP-es Mavala Científico K+ Endurecedor de Uñas Tratamiento para...'
-tags: 
+tags: tole.es
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0079FCBBK-es Natural History Museum The Linterna con proyector de...'
-tags: 
+tags: tole.es
 actualPrice: 10.67 EUR
 currency: EUR
 price: 10.67

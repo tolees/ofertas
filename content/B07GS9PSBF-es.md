@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GS9PSBF-es Vibram Fivefingers V 2.0 Zapatillas de Trail Running para...'
-tags: 
+tags: tole.es
 actualPrice: 44.39 EUR
 currency: EUR
 price: 44.39

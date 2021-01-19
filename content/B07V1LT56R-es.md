@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V1LT56R-es BRA Advanced - Batería de 3 piezas de aluminio fundido con...'
-tags: 
+tags: tole.es
 actualPrice: 83.99 EUR
 currency: EUR
 price: 83.99

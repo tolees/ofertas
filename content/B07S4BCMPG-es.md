@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S4BCMPG-es New Balance 574 Nms Deportes De Los Zapatos De La...'
-tags: 
+tags: tole.es
 actualPrice: 51.5 EUR
 currency: EUR
 price: 51.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4RSLL6-es Tommy Hilfiger - Poppy Tote Bolsos totes Mujer Amarillo...'
-tags: 
+tags: tole.es
 actualPrice: 45.49 EUR
 currency: EUR
 price: 45.49

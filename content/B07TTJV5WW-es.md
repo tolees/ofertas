@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTJV5WW-es Wrangler ICONS Vaqueros Slim Azul 3 Years 10k W33/L30...'
-tags: 
+tags: tole.es
 actualPrice: 47.45 EUR
 currency: EUR
 price: 47.45

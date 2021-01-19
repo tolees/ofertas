@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYL56KQ-es New Balance 373v2 Zapatillas para Mujer Gris Grey/White...'
-tags: 
+tags: tole.es
 actualPrice: 51.18 EUR
 currency: EUR
 price: 51.18

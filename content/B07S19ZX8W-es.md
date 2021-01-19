@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S19ZX8W-es PUMA Cali Mujer Blanco 369155 12'
-tags: 
+tags: tole.es
 actualPrice: 57.04 EUR
 currency: EUR
 price: 57.04

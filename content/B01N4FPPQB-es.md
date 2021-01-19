@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4FPPQB-es Lacoste Marice Bl 2 CAM Blk Zapatillas para Hombre Blanco...'
-tags: 
+tags: tole.es
 actualPrice: 29.49 EUR
 currency: EUR
 price: 29.49

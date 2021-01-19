@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JYQXZGX-es Tommy Hilfiger TJM Tommy Classics Solid Polo Rojo Flame...'
-tags: 
+tags: tole.es
 actualPrice: 27 EUR
 currency: EUR
 price: 27

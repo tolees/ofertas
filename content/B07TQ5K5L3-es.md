@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TQ5K5L3-es Cocoty-store Pantalones 2019 Pantalones de Hombre Casuales...'
-tags: 
+tags: tole.es
 actualPrice: 3.84 EUR
 currency: EUR
 price: 3.84

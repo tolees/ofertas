@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VKXH4KC-es Hackett London Coral Swim Trim Polo Amarillo 022fresh...'
-tags: 
+tags: tole.es
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

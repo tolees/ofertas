@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CTL7HHV-es Under Armour Charged Europa 2 Zapatillas de Running para...'
-tags: 
+tags: tole.es
 actualPrice: 48.64 EUR
 currency: EUR
 price: 48.64

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SQ3DRQG-es UC28B Mini Proyector LED portátil 1080P Cine en casa Cine...'
-tags: 
+tags: tole.es
 actualPrice: 16.96 EUR
 currency: EUR
 price: 16.96

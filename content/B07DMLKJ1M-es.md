@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DMLKJ1M-es LEDMOMO 2Pcs Full LED Protectores de pantalla para Amazon...'
-tags: 
+tags: tole.es
 actualPrice: 0.6 EUR
 currency: EUR
 price: 0.6

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018XNGO5A-es Aftershokz Trekz Titanium Auriculares deportivas con...'
-tags: 
+tags: tole.es
 actualPrice: 58.39 EUR
 currency: EUR
 price: 58.39

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTD9VCN-es Superga 2750-cotcontrastu Zapatillas de Gimnasia Unisex...'
-tags: 
+tags: tole.es
 actualPrice: 30.2 EUR
 currency: EUR
 price: 30.2

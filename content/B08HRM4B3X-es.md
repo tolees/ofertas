@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HRM4B3X-es Lepeuxi Detector de pulso Pulso de la yema del dedo...'
-tags: 
+tags: tole.es
 actualPrice: 6.32 EUR
 currency: EUR
 price: 6.32

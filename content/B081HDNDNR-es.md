@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081HDNDNR-es Ibergrif M11050 Roma Grifo Baño Clásico Mezclador...'
-tags: 
+tags: tole.es
 actualPrice: 21.66 EUR
 currency: EUR
 price: 21.66

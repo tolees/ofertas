@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001IVX4OY-es Rotring S0194640 - Cartucho de tinta'
-tags: 
+tags: tole.es
 actualPrice: 5.81 EUR
 currency: EUR
 price: 5.81

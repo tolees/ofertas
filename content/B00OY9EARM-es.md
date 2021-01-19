@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OY9EARM-es VAUDE Jacke Girls Centipede Jacket - Soft Shell para niña...'
-tags: 
+tags: tole.es
 actualPrice: 11.64 EUR
 currency: EUR
 price: 11.64

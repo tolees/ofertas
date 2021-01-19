@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQMM737-es Clarks Landry Edge Mocasines para Hombre Negro Black...'
-tags: 
+tags: tole.es
 actualPrice: 38.57 EUR
 currency: EUR
 price: 38.57

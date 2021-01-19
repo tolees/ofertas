@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TTX237W-es Farmalas Tobilleras rodilleras férulas y cabestrillos 1...'
-tags: 
+tags: tole.es
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

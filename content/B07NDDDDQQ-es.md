@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDDDDQQ-es Samsung Galaxy S10+ - Smartphone de 6.4" QHD+ Curved...'
-tags: 
+tags: tole.es
 actualPrice: 899.0 EUR
 currency: EUR
 price: 899.0

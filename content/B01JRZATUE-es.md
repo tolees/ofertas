@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JRZATUE-es Tristar PZ-2881 Pizzera Máquina para hacer pizzas 30 cm...'
-tags: 
+tags: tole.es
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BL2S76P-es New Balance 411 h Zapatillas de Running para Hombre Negro...'
-tags: 
+tags: tole.es
 actualPrice: 27.97 EUR
 currency: EUR
 price: 27.97

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0159AYF1U-es Teka 42080015 Termo Eléctrico Blanco 15 l'
-tags: 
+tags: tole.es
 actualPrice: 87.88 EUR
 currency: EUR
 price: 87.88

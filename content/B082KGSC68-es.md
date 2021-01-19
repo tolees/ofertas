@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082KGSC68-es Micrófono Inalámbrico Recargable Sistema de UHF Dual...'
-tags: 
+tags: tole.es
 actualPrice: 54.79 EUR
 currency: EUR
 price: 54.79

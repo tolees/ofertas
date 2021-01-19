@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B1VGY9T-es Roberta Rossi Hobo artesanía mujer genuina piel de lavado...'
-tags: 
+tags: tole.es
 actualPrice: 182.99 EUR
 currency: EUR
 price: 182.99

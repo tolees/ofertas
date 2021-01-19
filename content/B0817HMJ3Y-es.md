@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0817HMJ3Y-es Columbia Triple Canyon Pantalón Corto De Senderismo Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

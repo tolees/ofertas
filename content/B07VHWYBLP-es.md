@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHWYBLP-es Vans Doheny Zapatillas para Hombre Negro Lona Negro Negro...'
-tags: 
+tags: tole.es
 actualPrice: 34.83 EUR
 currency: EUR
 price: 34.83

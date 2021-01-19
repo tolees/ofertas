@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V3ZMWR4-es SRJ2018 Playa Palmeras en Ocean Heaven Tumbonas Balcón...'
-tags: 
+tags: tole.es
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

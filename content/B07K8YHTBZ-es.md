@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K8YHTBZ-es G-STAR RAW 3301 Slim Fit Jeans Vaqueros Ultra Dk Aged Blue...'
-tags: 
+tags: tole.es
 actualPrice: 70.49 EUR
 currency: EUR
 price: 70.49

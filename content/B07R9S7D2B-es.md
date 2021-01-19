@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R9S7D2B-es Transmisor FM Bluetooth para Coche Manoslibres y Asistente...'
-tags: 
+tags: tole.es
 actualPrice: 22.51 EUR
 currency: EUR
 price: 22.51

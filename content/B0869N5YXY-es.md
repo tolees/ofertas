@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0869N5YXY-es JK-2 Relleno de Dibujos Animados Animales león de la Felpa...'
-tags: 
+tags: tole.es
 actualPrice: 9.8 EUR
 currency: EUR
 price: 9.8

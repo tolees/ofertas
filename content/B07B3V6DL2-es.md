@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B3V6DL2-es Dreamzie Protector de Colchón Impermeable 80 x 200 cm -...'
-tags: 
+tags: tole.es
 actualPrice: 14.55 EUR
 currency: EUR
 price: 14.55

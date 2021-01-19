@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KH2Y82W-es Under Armour EU Cotton Fleece Jogger Pantalones Niños...'
-tags: 
+tags: tole.es
 actualPrice: 22.17 EUR
 currency: EUR
 price: 22.17

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WMGBLXN-es inhzoy Mameluco de Princess Encaje para Bebé Niña Body...'
-tags: 
+tags: tole.es
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

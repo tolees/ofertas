@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079FYVXXZ-es Samsung Protective Standing Cover - Funda para Galaxy S9+...'
-tags: 
+tags: tole.es
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

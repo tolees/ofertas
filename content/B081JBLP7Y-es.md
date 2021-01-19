@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081JBLP7Y-es SYROKAN - Sujetador Deportivo Máximo Soporte Sin Relleno...'
-tags: 
+tags: tole.es
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

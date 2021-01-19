@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKGD4NF-es Kipling IAKA L Wristlet Bolsos para Mujer Morado Active...'
-tags: 
+tags: tole.es
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

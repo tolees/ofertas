@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQ4ZSZT-es BaiYou Atrapa Moscas Adhesivo Trampa Moscas Fruta 16...'
-tags: 
+tags: tole.es
 actualPrice: 4.28 EUR
 currency: EUR
 price: 4.28

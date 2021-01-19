@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002EGZF8A-es Escalerita de Ikea de madera color beis modelo Bekvam...'
-tags: 
+tags: tole.es
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

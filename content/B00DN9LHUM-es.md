@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DN9LHUM-es Solaray Vitamin C 1000mg | con Escaramujo y Acerola |...'
-tags: 
+tags: tole.es
 actualPrice: 15.25 EUR
 currency: EUR
 price: 15.25

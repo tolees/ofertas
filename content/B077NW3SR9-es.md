@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077NW3SR9-es AUSTOR 16 Piezas Ganchos de Pared Adhesivo Ganchos de...'
-tags: 
+tags: tole.es
 actualPrice: 10.09 EUR
 currency: EUR
 price: 10.09

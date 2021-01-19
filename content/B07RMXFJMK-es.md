@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RMXFJMK-es SimpleLife Bolso Bandolera de Las Mujeres holográfica...'
-tags: 
+tags: tole.es
 actualPrice: 17.25 EUR
 currency: EUR
 price: 17.25

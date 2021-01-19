@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BDGCBR1-es i-baby Protector Cuna Chichonera de Cuna y Cama para Bebé...'
-tags: 
+tags: tole.es
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

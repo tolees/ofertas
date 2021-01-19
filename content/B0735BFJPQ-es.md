@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0735BFJPQ-es Napapijri Rainforest Pocket Chaqueta para Hombre Negro...'
-tags: 
+tags: tole.es
 actualPrice: 115.95 EUR
 currency: EUR
 price: 115.95

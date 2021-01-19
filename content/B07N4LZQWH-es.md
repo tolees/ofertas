@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N4LZQWH-es Levi s Alpine Botas Desert para Hombre Marrón Light Brown...'
-tags: 
+tags: tole.es
 actualPrice: 61.12 EUR
 currency: EUR
 price: 61.12

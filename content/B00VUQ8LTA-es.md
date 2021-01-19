@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VUQ8LTA-es Kappa Trust 241981-1110 Zapatillas Unisex Adulto Negro-...'
-tags: 
+tags: tole.es
 actualPrice: 21.96 EUR
 currency: EUR
 price: 21.96

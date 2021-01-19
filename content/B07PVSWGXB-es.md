@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PVSWGXB-es SoftSocks SNEAKER LOW CUT Calcetines para mujeres hombres...'
-tags: 
+tags: tole.es
 actualPrice: 9.33 EUR
 currency: EUR
 price: 9.33

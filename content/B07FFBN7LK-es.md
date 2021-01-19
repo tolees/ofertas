@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FFBN7LK-es Wrangler Greensboro Regular Jeans Azul Darkstone 090 30W /...'
-tags: 
+tags: tole.es
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

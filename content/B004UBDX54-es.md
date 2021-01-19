@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004UBDX54-es Lico Bernie V Zapatillas Deportivas para Interior Unisex...'
-tags: 
+tags: tole.es
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

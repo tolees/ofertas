@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0039NZSWU-es Anita Active Momentum - Sujetador deportivo para mujer...'
-tags: 
+tags: tole.es
 actualPrice: 31.45 EUR
 currency: EUR
 price: 31.45

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZKJRB5-es Destornillador Eléctrico Inalámbrico LOMVUM LV401 4V...'
-tags: 
+tags: tole.es
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TGX39F8-es Finocam - Agenda 2020 1 día página Espiral Futura Gris...'
-tags: 
+tags: tole.es
 actualPrice: 11.75 EUR
 currency: EUR
 price: 11.75

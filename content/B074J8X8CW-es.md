@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074J8X8CW-es Alienwork Navy Blue Reloj Unisex Relojes Hombre Mujer...'
-tags: 
+tags: tole.es
 actualPrice: 24.62 EUR
 currency: EUR
 price: 24.62

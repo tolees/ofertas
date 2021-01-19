@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FC61SYY-es Salomon Speedcross CSWP K Zapatillas de Trail Running...'
-tags: 
+tags: tole.es
 actualPrice: 24.68 EUR
 currency: EUR
 price: 24.68

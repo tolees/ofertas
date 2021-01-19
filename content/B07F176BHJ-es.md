@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F176BHJ-es LEVIS FOOTWEAR AND ACCESSORIES Webb Zapatillas para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 43.71 EUR
 currency: EUR
 price: 43.71

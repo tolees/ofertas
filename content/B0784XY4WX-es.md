@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0784XY4WX-es Skechers Women s BOBS Squad-Tough Talk Sneakers Green...'
-tags: 
+tags: tole.es
 actualPrice: 36.35 EUR
 currency: EUR
 price: 36.35

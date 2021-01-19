@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071L4HGYD-es Utawarerumono: Mask Of Truth'
-tags: 
+tags: tole.es
 actualPrice: 25.35 EUR
 currency: EUR
 price: 25.35

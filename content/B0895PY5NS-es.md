@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0895PY5NS-es TianTa Funda iPad Mini 5/4 Heavy Duty Triple Capa a Prueba...'
-tags: 
+tags: tole.es
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079FWGHXQ-es Trust Gaming GXT 707R Resto - Silla para Gaming Color Rojo'
-tags: 
+tags: tole.es
 actualPrice: 157.25 EUR
 currency: EUR
 price: 157.25

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKFFZLH-es Kipling - Multiple Shoppers y bolsos de hombro Mujer Gris...'
-tags: 
+tags: tole.es
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

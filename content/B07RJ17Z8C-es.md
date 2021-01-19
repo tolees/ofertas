@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RJ17Z8C-es Nike Renew Lucent PS Zapatillas Unisex Niños Negro...'
-tags: 
+tags: tole.es
 actualPrice: 23.31 EUR
 currency: EUR
 price: 23.31

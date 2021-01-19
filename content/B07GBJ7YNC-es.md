@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GBJ7YNC-es Pulsar Reloj analogico para Hombre de Cuarzo con Correa en...'
-tags: 
+tags: tole.es
 actualPrice: 83.42 EUR
 currency: EUR
 price: 83.42

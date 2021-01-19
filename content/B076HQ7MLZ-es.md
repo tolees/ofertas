@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HQ7MLZ-es adidas CORE18 SW Top Sudadera Hombre Azul Azul/Blanco M'
-tags: 
+tags: tole.es
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBM263Y-es Kappa Modus II Zapatillas Unisex Adulto Black 1111 37 EU'
-tags: 
+tags: tole.es
 actualPrice: 14.71 EUR
 currency: EUR
 price: 14.71

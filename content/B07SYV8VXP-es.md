@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SYV8VXP-es Duérmete Online Duérmete Gran Confort-Colchón Muelles...'
-tags: 
+tags: tole.es
 actualPrice: 253.16 EUR
 currency: EUR
 price: 253.16

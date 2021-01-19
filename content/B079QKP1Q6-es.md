@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079QKP1Q6-es Levi s 502 Regular Taper Vaqueros Azul Prewash 95977 0181...'
-tags: 
+tags: tole.es
 actualPrice: 34.91 EUR
 currency: EUR
 price: 34.91

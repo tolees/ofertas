@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GSNZFB8-es Guess - Uptown Chic Barcelona Tote Mujer Negro Nero...'
-tags: 
+tags: tole.es
 actualPrice: 97.4 EUR
 currency: EUR
 price: 97.4

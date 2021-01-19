@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005DKKA7K-es Constantin Durmont Calendar - Reloj analógico de caballero...'
-tags: 
+tags: tole.es
 actualPrice: 167.14 EUR
 currency: EUR
 price: 167.14

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0056BPQ7U-es Velleman WIK01N - Cable 715 m Cobre'
-tags: 
+tags: tole.es
 actualPrice: 7.35 EUR
 currency: EUR
 price: 7.35

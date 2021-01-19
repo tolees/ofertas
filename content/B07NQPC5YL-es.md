@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQPC5YL-es Springfield 7Ba C/Red G7 Block Torzal Jersey Azul Blue 11...'
-tags: 
+tags: tole.es
 actualPrice: 13.74 EUR
 currency: EUR
 price: 13.74

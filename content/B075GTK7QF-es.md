@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075GTK7QF-es Adidas VL Court 2.0 K Zapatillas de Deporte Unisex niño...'
-tags: 
+tags: tole.es
 actualPrice: 26.73 EUR
 currency: EUR
 price: 26.73

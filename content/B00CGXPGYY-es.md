@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CGXPGYY-es Samsung MLT-D204L/ELS - Tóner 5000 páginas negro'
-tags: 
+tags: tole.es
 actualPrice: 107.82 EUR
 currency: EUR
 price: 107.82

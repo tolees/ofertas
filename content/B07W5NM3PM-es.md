@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5NM3PM-es Lomogo Funda Galaxy 10 5G Cartera Funda de Cuero Ranuras...'
-tags: 
+tags: tole.es
 actualPrice: 7.97 EUR
 currency: EUR
 price: 7.97

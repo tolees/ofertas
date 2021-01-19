@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8WRTRJ-es MSI Vigor GK60 CR - Teclado Español N-Key Windows Key...'
-tags: 
+tags: tole.es
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9

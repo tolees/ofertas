@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFZFNS5-es Clip de retención de banda elástica 4 x 20 cm Sujetadores...'
-tags: 
+tags: tole.es
 actualPrice: 3.21 EUR
 currency: EUR
 price: 3.21

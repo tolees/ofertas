@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PIYM4GG-es Victoria S Secret Spray corporal con fragancia para...'
-tags: 
+tags: tole.es
 actualPrice: 13.1 EUR
 currency: EUR
 price: 13.1

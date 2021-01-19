@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DDXM75Q-es Star Wars - Taza de cerámica diseño R2-D2 3D sin Tapa'
-tags: 
+tags: tole.es
 actualPrice: 13.57 EUR
 currency: EUR
 price: 13.57

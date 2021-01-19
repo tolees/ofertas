@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SJL31N7-es Oonies Squeeze Center para Niños y Niñas a Partir de 5...'
-tags: 
+tags: tole.es
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XA6G9D8-es Flota - Jabón de Marsella - Detergente líquido para lavado...'
-tags: 
+tags: tole.es
 actualPrice: 2.83 EUR
 currency: EUR
 price: 2.83

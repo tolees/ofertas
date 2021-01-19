@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GDMYPDF-es DOC ECO 2 BLACK'
-tags: 
+tags: tole.es
 actualPrice: 173.34 EUR
 currency: EUR
 price: 173.34

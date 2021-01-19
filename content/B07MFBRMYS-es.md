@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MFBRMYS-es Kickers Oxfork Zapatos de Cordones Derby para Mujer Negro...'
-tags: 
+tags: tole.es
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

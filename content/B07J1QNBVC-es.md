@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J1QNBVC-es Petusco -Bolso piel para mujer. Bolso de mano. Elegante y...'
-tags: 
+tags: tole.es
 actualPrice: 80.0 EUR
 currency: EUR
 price: 80.0

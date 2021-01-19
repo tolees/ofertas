@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BGA3HEO-es Coleman 48 Qt Nevera Rígida Unisex Azul M'
-tags: 
+tags: tole.es
 actualPrice: 52.45 EUR
 currency: EUR
 price: 52.45

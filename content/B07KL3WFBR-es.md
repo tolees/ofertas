@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KL3WFBR-es adidas W E PLN Pant Sport Trousers Mujer Medium Grey...'
-tags: 
+tags: tole.es
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

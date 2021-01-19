@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077SWWTRG-es Nike U Nk H86 Cap Metal Swoosh Hat Unisex Adulto Negro...'
-tags: 
+tags: tole.es
 actualPrice: 7.45 EUR
 currency: EUR
 price: 7.45

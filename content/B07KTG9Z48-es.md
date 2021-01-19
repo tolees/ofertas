@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTG9Z48-es Element N1WKA2 Pantalones Cortos Hombre marrón Bronco...'
-tags: 
+tags: tole.es
 actualPrice: 8.16 EUR
 currency: EUR
 price: 8.16

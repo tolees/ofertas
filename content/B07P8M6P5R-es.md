@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P8M6P5R-es SDBAUX 3 in 1 Cable de Carga 2Pack Múltiples USB Cargador...'
-tags: 
+tags: tole.es
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BKA9F4U-es Festina Reloj Analógico para Unisex de Cuarzo con Correa...'
-tags: 
+tags: tole.es
 actualPrice: 34.63 EUR
 currency: EUR
 price: 34.63

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JK81PTK-es Pepe Jeans Hailey Crop Pl203424 Vaqueros evasé Archive...'
-tags: 
+tags: tole.es
 actualPrice: 6.52 EUR
 currency: EUR
 price: 6.52

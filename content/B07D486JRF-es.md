@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D486JRF-es KUNGYO Decoraciones de Fiesta de Cumpleaños para Adultos y...'
-tags: 
+tags: tole.es
 actualPrice: 9.49 EUR
 currency: EUR
 price: 9.49

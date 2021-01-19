@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XDC1R4Z-es Epson WF4720 Impresora multifunción c11cf74402 Ya...'
-tags: 
+tags: tole.es
 actualPrice: 132.44 EUR
 currency: EUR
 price: 132.44

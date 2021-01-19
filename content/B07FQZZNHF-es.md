@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQZZNHF-es Clarks Step Beat Dune Zapatos de Cordones Derby para...'
-tags: 
+tags: tole.es
 actualPrice: 23.21 EUR
 currency: EUR
 price: 23.21

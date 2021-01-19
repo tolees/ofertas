@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CHQH57J-es Valkyria Chronicles 4 - PS4'
-tags: 
+tags: tole.es
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

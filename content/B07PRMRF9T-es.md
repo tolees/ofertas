@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRMRF9T-es Head Ski V-shape Kneehigh 2p deporte Amarillo Neon Yellow...'
-tags: 
+tags: tole.es
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

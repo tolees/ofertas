@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HS3GQAU-es Hama 00101219 maletines para portátil 43 9 cm 17.3"...'
-tags: 
+tags: tole.es
 actualPrice: 36.69 EUR
 currency: EUR
 price: 36.69

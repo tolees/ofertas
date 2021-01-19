@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PDMJHXG-es JACK & JONES PREMIUM Jprpaulos Play Stripe Blu. Ss Polo...'
-tags: 
+tags: tole.es
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

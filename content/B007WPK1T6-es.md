@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007WPK1T6-es Vans Herren T Shirt Classic white black XS VGGGYB2'
-tags: 
+tags: tole.es
 actualPrice: 20.87 EUR
 currency: EUR
 price: 20.87

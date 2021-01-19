@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VSGCW2H-es Akokie Dinosaurios Juguetes Puzzle Juegos de Construccion...'
-tags: 
+tags: tole.es
 actualPrice: 14.86 EUR
 currency: EUR
 price: 14.86

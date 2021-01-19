@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N0F8UM7-es MONTEMAGGI - Mueble de planchado con tabla y 3 cestas de...'
-tags: 
+tags: tole.es
 actualPrice: 115.0 EUR
 currency: EUR
 price: 115.0

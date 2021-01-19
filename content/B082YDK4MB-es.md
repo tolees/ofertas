@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082YDK4MB-es Vidal & Vidal Brazalete Rosado Original'
-tags: 
+tags: tole.es
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0002SMO5Y-es Dremel 628 Juego de Brocas de Precisión - Kit de 7...'
-tags: 
+tags: tole.es
 actualPrice: 5.75 EUR
 currency: EUR
 price: 5.75

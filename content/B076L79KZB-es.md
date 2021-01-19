@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076L79KZB-es Plantronics RIG 100HX Monoaural Diadema Negro Gris...'
-tags: 
+tags: tole.es
 actualPrice: 25.15 EUR
 currency: EUR
 price: 25.15

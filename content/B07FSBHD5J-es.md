@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FSBHD5J-es Philips Serie 9000 Prestige SP9863/14 - Afeitadora...'
-tags: 
+tags: tole.es
 actualPrice: 359.99 EUR
 currency: EUR
 price: 359.99

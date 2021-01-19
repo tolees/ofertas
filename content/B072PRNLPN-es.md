@@ -6,8 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41ko1J%2Bkj1L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B072PRNLPN-es Grohe Lineare - Grifo de bidé 1/2" Tamaño S color cromo...'
-tags: 
+slug: 'B072PRNLPN-es Grohe Lineare - Grifo de bidé 1/2"Tamaño S color cromo...'
+tags: tole.es
 actualPrice: 150.99 EUR
 currency: EUR
 price: 150.99

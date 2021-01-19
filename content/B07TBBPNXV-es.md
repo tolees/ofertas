@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TBBPNXV-es Brockman s - Ginebra con Copa de Regalo 700 ml'
-tags: 
+tags: tole.es
 actualPrice: 25.6 EUR
 currency: EUR
 price: 25.6

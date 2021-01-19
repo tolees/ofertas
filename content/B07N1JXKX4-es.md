@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1JXKX4-es Clarks Verona Rock Botas Plisadas para Mujer Marrón Oscuro...'
-tags: 
+tags: tole.es
 actualPrice: 47.04 EUR
 currency: EUR
 price: 47.04

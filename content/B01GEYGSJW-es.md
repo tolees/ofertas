@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GEYGSJW-es Brooks Defyance 9 Zapatillas de Gimnasia para Hombre Gris...'
-tags: 
+tags: tole.es
 actualPrice: 36.91 EUR
 currency: EUR
 price: 36.91

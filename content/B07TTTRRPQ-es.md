@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTTRRPQ-es Skechers Skech-Air Dynamight Zapatillas para Hombre Azul...'
-tags: 
+tags: tole.es
 actualPrice: 34.92 EUR
 currency: EUR
 price: 34.92

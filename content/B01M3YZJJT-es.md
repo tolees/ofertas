@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M3YZJJT-es Kombat UK niños Kit del ejército DPM Camuflaje Explorer...'
-tags: 
+tags: tole.es
 actualPrice: 27.96 EUR
 currency: EUR
 price: 27.96

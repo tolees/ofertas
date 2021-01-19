@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XPBPW1-es Under Armour Enduro Pant Pantalones Hombre Negro...'
-tags: 
+tags: tole.es
 actualPrice: 52.06 EUR
 currency: EUR
 price: 52.06

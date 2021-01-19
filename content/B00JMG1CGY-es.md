@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JMG1CGY-es Faibo - Hojas lavables de recambio para borrador 15 M/ 15...'
-tags: 
+tags: tole.es
 actualPrice: 2.83 EUR
 currency: EUR
 price: 2.83

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQ1ZP9F-es Cámara Digital réflex Digital de Alta...'
-tags: 
+tags: tole.es
 actualPrice: 18.06 EUR
 currency: EUR
 price: 18.06

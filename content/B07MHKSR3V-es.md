@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MHKSR3V-es RECCI - Topper Colchón de Espuma 135x190cm Topper...'
-tags: 
+tags: tole.es
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

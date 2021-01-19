@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081L7KGQD-es Camara Espia -Mini Camara -de Llave de Coche Cámara...'
-tags: 
+tags: tole.es
 actualPrice: 56.78 EUR
 currency: EUR
 price: 56.78

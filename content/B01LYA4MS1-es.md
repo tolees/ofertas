@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYA4MS1-es Bosch Professional GBH 2-28 F - Martillo perforador 3 2 J...'
-tags: 
+tags: tole.es
 actualPrice: 226.82 EUR
 currency: EUR
 price: 226.82

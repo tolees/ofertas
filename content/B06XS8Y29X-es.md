@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XS8Y29X-es Daniel Wellington Classic Petite Melrose DW00100161 -...'
-tags: 
+tags: tole.es
 actualPrice: 73.0 EUR
 currency: EUR
 price: 73.0

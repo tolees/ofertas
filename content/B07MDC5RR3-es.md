@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MDC5RR3-es E-MANIS Caja Joyero Caja de Joyas Estuche Rectangular para...'
-tags: 
+tags: tole.es
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

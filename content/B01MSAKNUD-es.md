@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MSAKNUD-es Head Hombres Club Short M'
-tags: 
+tags: tole.es
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

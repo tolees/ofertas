@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MNVRYBG-es Vicloon 9Pcs Princesa Vestir Accesorios Regalo Conjunto de...'
-tags: 
+tags: tole.es
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

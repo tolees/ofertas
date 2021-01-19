@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077NJJJ3R-es Marca Amazon - find. Camiseta con Cuello Redondo Mujer...'
-tags: 
+tags: tole.es
 actualPrice: 4.11 EUR
 currency: EUR
 price: 4.11

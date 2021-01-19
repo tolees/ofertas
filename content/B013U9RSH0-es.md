@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013U9RSH0-es Remington PG6130 Groomkit - Recortador multifunción...'
-tags: 
+tags: tole.es
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

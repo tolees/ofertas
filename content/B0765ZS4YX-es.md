@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0765ZS4YX-es Fjällräven 23510-31 Kånken - Mochilla Unisex 16 L Gris...'
-tags: 
+tags: tole.es
 actualPrice: 62.06 EUR
 currency: EUR
 price: 62.06

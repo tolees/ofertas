@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014MI5AH8-es S R Sunrise - Manguera de ducha flexible 1 52 m acero...'
-tags: 
+tags: tole.es
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

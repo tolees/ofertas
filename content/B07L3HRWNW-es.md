@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L3HRWNW-es adidas Advantage Zapatillas de Gimnasia para Hombre Blanco...'
-tags: 
+tags: tole.es
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

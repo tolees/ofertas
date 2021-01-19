@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K8XNT59-es Crocs Classic Convertible Slipper Zapatillas Altas Unisex...'
-tags: 
+tags: tole.es
 actualPrice: 22.11 EUR
 currency: EUR
 price: 22.11

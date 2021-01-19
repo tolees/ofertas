@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FZ41M4L-es Plancha de pelo herramientas de estilo eléctrico de...'
-tags: 
+tags: tole.es
 actualPrice: 12.39 EUR
 currency: EUR
 price: 12.39

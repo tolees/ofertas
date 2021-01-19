@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073RP6PXL-es Helly Hansen Logo Visera Unisex Adulto Blanco Única'
-tags: 
+tags: tole.es
 actualPrice: 12.38 EUR
 currency: EUR
 price: 12.38

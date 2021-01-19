@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKD1FT1-es Energy Music Box 5+ Yall Edition Bluetooth 4.1 10 W...'
-tags: 
+tags: tole.es
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K8SK8II-es plata Yazilind elegante plateado alrojoedor Pear cortada...'
-tags: 
+tags: tole.es
 actualPrice: 4.54 EUR
 currency: EUR
 price: 4.54

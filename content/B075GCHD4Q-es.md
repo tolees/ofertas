@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075GCHD4Q-es Triumph Sexy Angel Spotlight WHP Sujetador Azul Deep Water...'
-tags: 
+tags: tole.es
 actualPrice: 22.39 EUR
 currency: EUR
 price: 22.39

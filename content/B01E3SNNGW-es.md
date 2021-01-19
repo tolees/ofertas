@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01E3SNNGW-es Bose SoundSport - Auriculares inalámbricos Bluetooth NFC...'
-tags: 
+tags: tole.es
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

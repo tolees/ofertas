@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NX68PPT-es Krom KAISER - NXKROMKSR - Gamepad PC PS3 PS4'
-tags: 
+tags: tole.es
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

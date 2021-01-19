@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VLY2D93-es JACK & JONES Jorflash suéter Azul Navy Blazer XX-Large...'
-tags: 
+tags: tole.es
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

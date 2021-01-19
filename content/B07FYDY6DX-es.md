@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FYDY6DX-es Naipo Masajeador de Piernas Compression para Pierna...'
-tags: 
+tags: tole.es
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

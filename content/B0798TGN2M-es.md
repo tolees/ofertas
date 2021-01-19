@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0798TGN2M-es LG 34WK95U-W - Monitor Profesional UltraWide 5K WUHD de...'
-tags: 
+tags: tole.es
 actualPrice: 908.26 EUR
 currency: EUR
 price: 908.26

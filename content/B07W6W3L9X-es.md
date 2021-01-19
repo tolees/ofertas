@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W6W3L9X-es JACK & JONES Jorpannel Knit Crew Neck. Jersey Azul Navy...'
-tags: 
+tags: tole.es
 actualPrice: 10.1 EUR
 currency: EUR
 price: 10.1

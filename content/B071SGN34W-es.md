@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071SGN34W-es ⭐️KLIM Lightning AZERTY - Nueva Versión - Teclado Híbrido...'
-tags: 
+tags: tole.es
 actualPrice: 39.97 EUR
 currency: EUR
 price: 39.97

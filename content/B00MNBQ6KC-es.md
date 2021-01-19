@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MNBQ6KC-es Moulinex Fresh Express DJ753500 Rallador Eléctrico Con 3...'
-tags: 
+tags: tole.es
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

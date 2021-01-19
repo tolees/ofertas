@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017EXUUJQ-es STANLEY FATMAX FME190-QS - Mezclador de pintura 1.600W 80Nm'
-tags: 
+tags: tole.es
 actualPrice: 102.05 EUR
 currency: EUR
 price: 102.05

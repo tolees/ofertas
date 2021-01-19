@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073ZHCZG3-es Brabantia Bo Touch Bin Cubo de Basura 11 + 23 litros Rojo...'
-tags: 
+tags: tole.es
 actualPrice: 93.05 EUR
 currency: EUR
 price: 93.05

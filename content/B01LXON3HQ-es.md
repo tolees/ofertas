@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXON3HQ-es Brabantia Bin newIcon Cubo de Basura con Pedal Acero...'
-tags: 
+tags: tole.es
 actualPrice: 21.42 EUR
 currency: EUR
 price: 21.42

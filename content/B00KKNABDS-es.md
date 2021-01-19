@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KKNABDS-es Habitdesign 007820BO - Mesita de noche dos cajones Ward.E...'
-tags: 
+tags: tole.es
 actualPrice: 37.21 EUR
 currency: EUR
 price: 37.21

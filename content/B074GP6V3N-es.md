@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074GP6V3N-es LEMON CLOUD 3D Vinilo Ventanas Pegatina Translúcida...'
-tags: 
+tags: tole.es
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

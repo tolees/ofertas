@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DHZ5XY8-es Geox U Kaven A Zapatillas para Hombre Azul Navy C4002 42 EU'
-tags: 
+tags: tole.es
 actualPrice: 68.46 EUR
 currency: EUR
 price: 68.46

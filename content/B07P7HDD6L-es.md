@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P7HDD6L-es Aigle Alten Leather Zapatillas para Hombre Marrón Brown...'
-tags: 
+tags: tole.es
 actualPrice: 18.91 EUR
 currency: EUR
 price: 18.91

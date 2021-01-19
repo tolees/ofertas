@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000JTMOVA-es Kensington 56146 Reposapiés Ergonómico Ajustable SoleMate...'
-tags: 
+tags: tole.es
 actualPrice: 36.97 EUR
 currency: EUR
 price: 36.97

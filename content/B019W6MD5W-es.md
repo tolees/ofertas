@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019W6MD5W-es Maybelline New York Color Sensational Blushed Nudes Barra...'
-tags: 
+tags: tole.es
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

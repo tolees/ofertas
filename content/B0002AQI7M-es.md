@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0002AQI7M-es Marina 11061 Limpiador de Grava Easy Clean S'
-tags: 
+tags: tole.es
 actualPrice: 11.59 EUR
 currency: EUR
 price: 11.59

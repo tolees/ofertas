@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W93M1TN-es Jack & Jones Jorpannel Crew Neck. Suéter Azul Navy Blazer...'
-tags: 
+tags: tole.es
 actualPrice: 8.24 EUR
 currency: EUR
 price: 8.24

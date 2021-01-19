@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M1SNH4B-es Trust GXT 570 - Volante Gaming de Competición con...'
-tags: 
+tags: tole.es
 actualPrice: 26.98 EUR
 currency: EUR
 price: 26.98

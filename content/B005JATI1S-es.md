@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005JATI1S-es L Oreal Paris - Cil Architecte 4D Máscara de Pestañas...'
-tags: 
+tags: tole.es
 actualPrice: 6.49 EUR
 currency: EUR
 price: 6.49

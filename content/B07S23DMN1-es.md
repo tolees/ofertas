@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S23DMN1-es Y.A.S YAS Yaschadro Wool Coat Abrigo Verde Beech Beech 40...'
-tags: 
+tags: tole.es
 actualPrice: 52.19 EUR
 currency: EUR
 price: 52.19

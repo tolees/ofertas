@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089DDZMNL-es Fristone - Colchón de espuma viscoelástica para perro con...'
-tags: 
+tags: tole.es
 actualPrice: 31.97 EUR
 currency: EUR
 price: 31.97

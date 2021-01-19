@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00061RWQS-es HP Q5949A 49A Cartucho de Tóner Original 1 unidad negro'
-tags: 
+tags: tole.es
 actualPrice: 82.8 EUR
 currency: EUR
 price: 82.8

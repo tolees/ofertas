@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0824TQ3RM-es Pllieay - 30 piezas de tela de malla de plástico de 7...'
-tags: 
+tags: tole.es
 actualPrice: 15.6 EUR
 currency: EUR
 price: 15.6

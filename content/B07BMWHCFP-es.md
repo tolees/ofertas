@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BMWHCFP-es Skechers Flex Play-Early Start Zapatillas para Niñas Azul...'
-tags: 
+tags: tole.es
 actualPrice: 20.57 EUR
 currency: EUR
 price: 20.57

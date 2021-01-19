@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XHPS4QQ-es SALAKA 1pc 30cm × 5m Portátil PCB Película Seca...'
-tags: 
+tags: tole.es
 actualPrice: 12.1 EUR
 currency: EUR
 price: 12.1

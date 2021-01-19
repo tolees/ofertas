@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DNBLLRB-es DB15 Adaptador de conector de 15 pines adaptador de puerto...'
-tags: 
+tags: tole.es
 actualPrice: 6.37 EUR
 currency: EUR
 price: 6.37

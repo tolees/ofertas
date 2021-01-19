@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HH3WK88-es Amazon Essentials - Camisetas de manga corta y corte...'
-tags: 
+tags: tole.es
 actualPrice: 7.83 EUR
 currency: EUR
 price: 7.83

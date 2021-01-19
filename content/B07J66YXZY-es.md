@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J66YXZY-es Adidas Terrex EASTRAIL Mid GTX Zapatillas de Deporte para...'
-tags: 
+tags: tole.es
 actualPrice: 85.9 EUR
 currency: EUR
 price: 85.9

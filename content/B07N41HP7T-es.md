@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N41HP7T-es Desigual Coat Land Abrigo Amarillo Solar Power 8067 44...'
-tags: 
+tags: tole.es
 actualPrice: 59.93 EUR
 currency: EUR
 price: 59.93

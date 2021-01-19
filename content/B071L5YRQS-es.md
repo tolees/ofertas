@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071L5YRQS-es ASUS VA326H 31.5" Full HD Mate Negro Pantalla para PC -...'
-tags: 
+tags: tole.es
 actualPrice: 284 EUR
 currency: EUR
 price: 284

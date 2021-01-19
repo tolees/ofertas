@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HZCYVL7-es Timex Reloj de Pulsera TW2R85500'
-tags: 
+tags: tole.es
 actualPrice: 39.06 EUR
 currency: EUR
 price: 39.06

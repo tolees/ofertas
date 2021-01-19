@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PJ2BMN2-es Bolsa de pañales de tela la bolsa de pañales de doble...'
-tags: 
+tags: tole.es
 actualPrice: 16.76 EUR
 currency: EUR
 price: 16.76

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075R8J5DV-es Pack: Pop! Marvel Vs. Capcom Infinite 2 - Rocket Vs. Mega...'
-tags: 
+tags: tole.es
 actualPrice: 9.67 EUR
 currency: EUR
 price: 9.67

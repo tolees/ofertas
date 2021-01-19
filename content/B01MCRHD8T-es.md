@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MCRHD8T-es Air Wick Ambientador Freshmatic Max Recambio Nenuco - 250 ml'
-tags: 
+tags: tole.es
 actualPrice: 2.68 EUR
 currency: EUR
 price: 2.68

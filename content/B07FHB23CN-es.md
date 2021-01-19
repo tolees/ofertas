@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FHB23CN-es Levi s Graphic Po Hoodie-B suéter Grigio Hm Pop Co Midtone...'
-tags: 
+tags: tole.es
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075NPQ76X-es SunRace Csmz90 12s-11-50T Cassete 12 velocidades Deportes...'
-tags: 
+tags: tole.es
 actualPrice: 90.45 EUR
 currency: EUR
 price: 90.45

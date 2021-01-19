@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01G8HN44C-es Superga2754 Lamew - Zapatillas de Deporte Mujer Gris Gris...'
-tags: 
+tags: tole.es
 actualPrice: 34.86 EUR
 currency: EUR
 price: 34.86

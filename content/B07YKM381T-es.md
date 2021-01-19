@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YKM381T-es Precision Kids Lace'
-tags: 
+tags: tole.es
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

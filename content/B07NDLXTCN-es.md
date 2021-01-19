@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDLXTCN-es Nixon Reloj Hombre de Digital con Correa en Acero...'
-tags: 
+tags: tole.es
 actualPrice: 112.53 EUR
 currency: EUR
 price: 112.53

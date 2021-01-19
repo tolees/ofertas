@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FB389TX-es Weideworld [3 Pack] Funda para Xiaomi Redmi 9A Patrón...'
-tags: 
+tags: tole.es
 actualPrice: 8.69 EUR
 currency: EUR
 price: 8.69

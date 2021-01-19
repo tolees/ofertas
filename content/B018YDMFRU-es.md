@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018YDMFRU-es CORDAYS - Organizador de Mandos a Distancia y Material de...'
-tags: 
+tags: tole.es
 actualPrice: 26.9 EUR
 currency: EUR
 price: 26.9

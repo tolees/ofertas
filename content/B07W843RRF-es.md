@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W843RRF-es Gradiente de barro cristalino limo nube algodón barro -...'
-tags: 
+tags: tole.es
 actualPrice: 2.15 EUR
 currency: EUR
 price: 2.15

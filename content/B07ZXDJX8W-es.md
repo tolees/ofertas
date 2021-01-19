@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZXDJX8W-es ViVidLife Bolsa de Pañales 2 PCS Bolsa Pañales Impermeable...'
-tags: 
+tags: tole.es
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000BPLGZC-es HP 643A - Cartucho de tóner original LaserJet para...'
-tags: 
+tags: tole.es
 actualPrice: 50.11 EUR
 currency: EUR
 price: 50.11

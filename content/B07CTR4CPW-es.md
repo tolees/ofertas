@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CTR4CPW-es Michael Kors Reloj Analogico para Mujer de Cuarzo con...'
-tags: 
+tags: tole.es
 actualPrice: 135.0 EUR
 currency: EUR
 price: 135.0

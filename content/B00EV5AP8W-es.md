@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EV5AP8W-es Seiko Reloj Cronógrafo para Hombre de Energía Solar con...'
-tags: 
+tags: tole.es
 actualPrice: 220.0 EUR
 currency: EUR
 price: 220.0

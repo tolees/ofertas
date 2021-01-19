@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079NXS1GZ-es Zapatos para Correr En Montaña Asfalto Aire Libre Deportes...'
-tags: 
+tags: tole.es
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

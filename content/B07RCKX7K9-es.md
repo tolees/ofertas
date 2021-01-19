@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCKX7K9-es LIFECORP Corrector de Postura Espalda – Rectificador de...'
-tags: 
+tags: tole.es
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

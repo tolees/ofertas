@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0819VRT3N-es Guess jeans HWSM74 76180 logo city'
-tags: 
+tags: tole.es
 actualPrice: 81.65 EUR
 currency: EUR
 price: 81.65

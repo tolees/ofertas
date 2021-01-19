@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0819TXT7S-es Young & Min Funda para Xiaomi Mi Note 10 / Note 10 Pro 3...'
-tags: 
+tags: tole.es
 actualPrice: 8.29 EUR
 currency: EUR
 price: 8.29

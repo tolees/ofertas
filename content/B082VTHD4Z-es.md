@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082VTHD4Z-es Axe Antitranspirante Ice Chill 150ml'
-tags: 
+tags: tole.es
 actualPrice: 2.5 EUR
 currency: EUR
 price: 2.5

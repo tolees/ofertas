@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083MXB2QM-es Mardozon Pulseras para Xiaomi Mi Band 3/4 Impermeable...'
-tags: 
+tags: tole.es
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

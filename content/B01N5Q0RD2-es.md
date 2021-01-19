@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5Q0RD2-es Tommy Hilfiger H2285arlow 1d Zapatillas para Hombre Gris...'
-tags: 
+tags: tole.es
 actualPrice: 32.2 EUR
 currency: EUR
 price: 32.2

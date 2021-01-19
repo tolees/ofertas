@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MF9CEAT-es Skechers Work Relaxed Fit: Hobbes-Frat SR Zapatos de...'
-tags: 
+tags: tole.es
 actualPrice: 64.29 EUR
 currency: EUR
 price: 64.29

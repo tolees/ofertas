@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0027UY3IG-es St.Tropez Mousse De Bronceado - 120 ml.'
-tags: 
+tags: tole.es
 actualPrice: 10.55 EUR
 currency: EUR
 price: 10.55

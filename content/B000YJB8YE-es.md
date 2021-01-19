@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000YJB8YE-es Kitchen Craft Mini Salad Spinner Centrifuga de Esaladas...'
-tags: 
+tags: tole.es
 actualPrice: 14.33 EUR
 currency: EUR
 price: 14.33

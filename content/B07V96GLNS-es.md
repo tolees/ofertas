@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V96GLNS-es Gaoyong Bolsas Vacio Ropa Aspiradora Bolsas Almacenaje...'
-tags: 
+tags: tole.es
 actualPrice: 14.12 EUR
 currency: EUR
 price: 14.12

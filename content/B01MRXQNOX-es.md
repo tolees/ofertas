@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRXQNOX-es Maybelline Pintalabios Larga Duración Superstay 24H Tono...'
-tags: 
+tags: tole.es
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BLJCCGW-es Smartphone Oferta del día Ofertas móviles 3 GB RAM 32 GB...'
-tags: 
+tags: tole.es
 actualPrice: 83.15 EUR
 currency: EUR
 price: 83.15

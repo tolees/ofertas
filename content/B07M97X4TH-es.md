@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M97X4TH-es Braun BT3041 - Recortadora de barba y cortapelos eléctrico...'
-tags: 
+tags: tole.es
 actualPrice: 34.07 EUR
 currency: EUR
 price: 34.07

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KZN6G1S-es Yuntab BL20 proyector multimedia portátil HD 1080P USB AV...'
-tags: 
+tags: tole.es
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

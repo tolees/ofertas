@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086BVDLXT-es Oihxse Funda Compatible con LG V40 Carcasa Transparente...'
-tags: 
+tags: tole.es
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

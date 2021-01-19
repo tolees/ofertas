@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XDRK2W8-es L Oréal Paris Botanicals Champú para Cabellos Frágiles...'
-tags: 
+tags: tole.es
 actualPrice: 5.42 EUR
 currency: EUR
 price: 5.42

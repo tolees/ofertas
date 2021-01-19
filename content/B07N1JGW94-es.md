@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1JGW94-es Clarks Un Elda Hi Botas Slouch para Mujer Negro Black...'
-tags: 
+tags: tole.es
 actualPrice: 71.95 EUR
 currency: EUR
 price: 71.95

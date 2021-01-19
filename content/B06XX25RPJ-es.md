@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XX25RPJ-es Ecran Aftersun Mousse Efecto Hielo - 200 ml'
-tags: 
+tags: tole.es
 actualPrice: 3.69 EUR
 currency: EUR
 price: 3.69

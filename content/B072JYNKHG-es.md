@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072JYNKHG-es Marca Amazon - find. Camisa Hombre Rosa L Label: L'
-tags: 
+tags: tole.es
 actualPrice: 6.22 EUR
 currency: EUR
 price: 6.22

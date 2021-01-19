@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GWRF7YL-es Suunto 9 Reloj con GPS para Multideporte Unisex Blanco...'
-tags: 
+tags: tole.es
 actualPrice: 286.98 EUR
 currency: EUR
 price: 286.98

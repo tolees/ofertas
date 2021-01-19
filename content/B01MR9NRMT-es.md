@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MR9NRMT-es Té verde menta Té verde marroquí con menta nana Mezcla de...'
-tags: 
+tags: tole.es
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

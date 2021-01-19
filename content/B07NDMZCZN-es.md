@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDMZCZN-es G-STAR RAW Vehem Pocket Round Neck Camiseta Verde Sage 724...'
-tags: 
+tags: tole.es
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0024FFSB0-es Nuk Thermo Rapid - Calientabiberón'
-tags: 
+tags: tole.es
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

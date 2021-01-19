@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077F6TFNV-es Aigostar Koud 33JTL - Climatizador evaporativo con mando a...'
-tags: 
+tags: tole.es
 actualPrice: 124.99 EUR
 currency: EUR
 price: 124.99

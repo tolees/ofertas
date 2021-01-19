@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D17K6RU-es Samsonite Paradiver Light - Bolsa de viaje con ruedas L 79...'
-tags: 
+tags: tole.es
 actualPrice: 109.5 EUR
 currency: EUR
 price: 109.5

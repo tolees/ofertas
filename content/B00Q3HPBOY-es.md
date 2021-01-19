@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Q3HPBOY-es Bella Aurora Hydra Rich Solution SPF 15 Crema Facial 24H...'
-tags: 
+tags: tole.es
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004EPYBSY-es Scitec Nutrition Suplemento Dietético de Creatina - 1000 gr'
-tags: 
+tags: tole.es
 actualPrice: 15.13 EUR
 currency: EUR
 price: 15.13

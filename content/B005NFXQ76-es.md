@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005NFXQ76-es MANN-FILTER HU 718/1 N Original Filtro de Aceite para...'
-tags: 
+tags: tole.es
 actualPrice: 4.2 EUR
 currency: EUR
 price: 4.2

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0749MTRG9-es BERING Reloj Analógico para Unisex Adultos de Cuarzo con...'
-tags: 
+tags: tole.es
 actualPrice: 111.43 EUR
 currency: EUR
 price: 111.43

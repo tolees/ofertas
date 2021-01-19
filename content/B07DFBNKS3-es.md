@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFBNKS3-es Funko- Pop Movies: The Lost Boys-Sam Emerson Multicolor...'
-tags: 
+tags: tole.es
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

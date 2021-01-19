@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RJTDRYY-es adidas Hoops 2.0 Mid Zapatos de Baloncesto para Mujer...'
-tags: 
+tags: tole.es
 actualPrice: 32.48 EUR
 currency: EUR
 price: 32.48

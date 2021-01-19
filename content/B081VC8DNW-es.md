@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081VC8DNW-es Frozen Pijamas de Manga Larga para niños El Reino del...'
-tags: 
+tags: tole.es
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

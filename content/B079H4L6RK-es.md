@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079H4L6RK-es Optimum Nutrition Protein Whipped Bites barrita proteica...'
-tags: 
+tags: tole.es
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

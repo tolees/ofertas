@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YGNQ251-es Controlador Cepillo 24V 350W Controlador para Bicicletas...'
-tags: 
+tags: tole.es
 actualPrice: 14.69 EUR
 currency: EUR
 price: 14.69

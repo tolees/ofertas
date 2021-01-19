@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NGYYA0R-es Dragon Quest Heroes II Explorer s Edition'
-tags: 
+tags: tole.es
 actualPrice: 36.5 EUR
 currency: EUR
 price: 36.5

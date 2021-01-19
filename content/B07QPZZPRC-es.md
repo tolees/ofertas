@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QPZZPRC-es Asics Gel-Rocket 9 Zapatillas de Deporte Interior para...'
-tags: 
+tags: tole.es
 actualPrice: 36.4 EUR
 currency: EUR
 price: 36.4

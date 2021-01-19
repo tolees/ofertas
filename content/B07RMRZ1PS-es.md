@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RMRZ1PS-es Rimmel London Lip Art gaphic barra de labios Tono 550 8 g'
-tags: 
+tags: tole.es
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

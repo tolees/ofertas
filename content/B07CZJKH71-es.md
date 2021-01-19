@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZJKH71-es Under Armour UA Qualifier Half Zip Parte Superior del...'
-tags: 
+tags: tole.es
 actualPrice: 22.28 EUR
 currency: EUR
 price: 22.28

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000I9RZOW-es Intex 58924NP - Piscina 3 aros bebé Sunset 86 x 25cm 68L'
-tags: 
+tags: tole.es
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

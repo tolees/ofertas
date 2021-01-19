@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019CVMIN4-es New Balance Vazee Coast Zapatillas de Running para Mujer...'
-tags: 
+tags: tole.es
 actualPrice: 26.52 EUR
 currency: EUR
 price: 26.52

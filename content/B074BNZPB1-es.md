@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074BNZPB1-es The Big Bang Theory Temporada 1-10 Blu-Ray [Blu-ray]'
-tags: 
+tags: tole.es
 actualPrice: 69.43 EUR
 currency: EUR
 price: 69.43

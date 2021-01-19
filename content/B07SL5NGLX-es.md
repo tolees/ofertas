@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SL5NGLX-es LATEC Pulsera Actividad Reloj Inteligente Impermeable IP68...'
-tags: 
+tags: tole.es
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

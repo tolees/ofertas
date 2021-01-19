@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V59SY2L-es Tommy Hilfiger Reloj Analógico para Mujer de Cuarzo con...'
-tags: 
+tags: tole.es
 actualPrice: 69.3 EUR
 currency: EUR
 price: 69.3

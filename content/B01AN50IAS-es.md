@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AN50IAS-es Dek Kids - Zapatillas Unisex de tela blanca con cordones...'
-tags: 
+tags: tole.es
 actualPrice: 7.7 EUR
 currency: EUR
 price: 7.7

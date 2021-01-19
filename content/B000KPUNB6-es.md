@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KPUNB6-es Braun Clean&Renew Cartuchos de recarga para afeitadora...'
-tags: 
+tags: tole.es
 actualPrice: 11.69 EUR
 currency: EUR
 price: 11.69

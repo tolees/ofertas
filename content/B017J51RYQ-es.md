@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017J51RYQ-es Nobleza - 50 x Empapadores Perros Alfombrilla higiénica de...'
-tags: 
+tags: tole.es
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

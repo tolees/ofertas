@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DX4DJRB-es Caterpillar Prepense Botas Chukka para Hombre Marrón Sand...'
-tags: 
+tags: tole.es
 actualPrice: 23.73 EUR
 currency: EUR
 price: 23.73

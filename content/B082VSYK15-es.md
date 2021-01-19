@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082VSYK15-es Haribo Favoritos Pica Caramelos de Goma - 275 gr'
-tags: 
+tags: tole.es
 actualPrice: 1.65 EUR
 currency: EUR
 price: 1.65

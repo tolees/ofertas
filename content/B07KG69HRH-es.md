@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG69HRH-es PUMA Cell Venom Lux Zapatillas Unisex Adulto Black-Jaffa...'
-tags: 
+tags: tole.es
 actualPrice: 84 EUR
 currency: EUR
 price: 84

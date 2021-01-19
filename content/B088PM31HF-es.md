@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088PM31HF-es Vans Realm Mochila para mujer diseño floral color negro'
-tags: 
+tags: tole.es
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

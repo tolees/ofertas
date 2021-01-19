@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KMGNROC-es Gennadi Hoppe Pantalones cortos hasta la rodilla traje de...'
-tags: 
+tags: tole.es
 actualPrice: 23.05 EUR
 currency: EUR
 price: 23.05

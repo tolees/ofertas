@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083FW2PSF-es Durex Naturals Hidratante Lubricante Ácido Hialurónico...'
-tags: 
+tags: tole.es
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

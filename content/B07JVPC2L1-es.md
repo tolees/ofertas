@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JVPC2L1-es Crystal Baby Smile - Difusor de aceite perfumado -...'
-tags: 
+tags: tole.es
 actualPrice: 27.88 EUR
 currency: EUR
 price: 27.88

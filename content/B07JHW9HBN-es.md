@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JHW9HBN-es Columbia Five Forks Mid Botas de Senderismo Impermeables...'
-tags: 
+tags: tole.es
 actualPrice: 36.39 EUR
 currency: EUR
 price: 36.39

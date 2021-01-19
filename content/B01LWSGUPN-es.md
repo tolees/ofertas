@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LWSGUPN-es Lutsine Xeramance Crema Reestructurante Intensiva Piel Muy...'
-tags: 
+tags: tole.es
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

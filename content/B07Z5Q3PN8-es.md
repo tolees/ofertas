@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z5Q3PN8-es Jack & Jones Jcowiseman Sweat High Neck Ka Sudadera...'
-tags: 
+tags: tole.es
 actualPrice: 12.62 EUR
 currency: EUR
 price: 12.62

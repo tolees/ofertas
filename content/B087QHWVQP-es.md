@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087QHWVQP-es Swonuk Cámara Web 1080P con Micrófono Computadora Portátil...'
-tags: 
+tags: tole.es
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004U7EHCQ-es Kärcher Tubo de chorro telescópico 2.642-347.0'
-tags: 
+tags: tole.es
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

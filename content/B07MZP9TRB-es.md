@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZP9TRB-es Pepe Jeans Kim suéter Black 999 Large para Mujer'
-tags: 
+tags: tole.es
 actualPrice: 22.23 EUR
 currency: EUR
 price: 22.23

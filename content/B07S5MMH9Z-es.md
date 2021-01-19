@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S5MMH9Z-es BOSS Starfish Bañador para Hombre Azul Blue Medium'
-tags: 
+tags: tole.es
 actualPrice: 31.15 EUR
 currency: EUR
 price: 31.15

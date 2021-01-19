@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MKR7GFD-es Lacoste HH9553 Pantalones Beige Viennois 36 Talla del...'
-tags: 
+tags: tole.es
 actualPrice: 46.14 EUR
 currency: EUR
 price: 46.14

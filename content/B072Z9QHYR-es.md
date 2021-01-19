@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072Z9QHYR-es Micro USB Splitter Cable Cable de potencia OTG Power...'
-tags: 
+tags: tole.es
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

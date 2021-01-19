@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZ2WHMN-es Suvorna Professional 7 Pieces Manicure Stainless Steel Kit...'
-tags: 
+tags: tole.es
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95

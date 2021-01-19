@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MDUN3F5-es Coffret EMC Legacy'
-tags: 
+tags: tole.es
 actualPrice: 81.54 EUR
 currency: EUR
 price: 81.54

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFL491H-es HUGO Astian/hets184 Traje Beige Medium Beige 266 102 para...'
-tags: 
+tags: tole.es
 actualPrice: 224.95 EUR
 currency: EUR
 price: 224.95

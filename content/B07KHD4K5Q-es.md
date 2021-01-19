@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KHD4K5Q-es Under Armour Blitzing II - Gorra Hombre Rojo Red/White 610...'
-tags: 
+tags: tole.es
 actualPrice: 10.07 EUR
 currency: EUR
 price: 10.07

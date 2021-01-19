@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D1VVJC2-es SELECTED HOMME Slhskinny-Luca T Pants W Pantalones Marrón...'
-tags: 
+tags: tole.es
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0

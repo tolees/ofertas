@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HM5W4WJ-es LS LOVELY STORY REGALA HISTORIAS BONITAS LD0629 PACK 2...'
-tags: 
+tags: tole.es
 actualPrice: 8.55 EUR
 currency: EUR
 price: 8.55

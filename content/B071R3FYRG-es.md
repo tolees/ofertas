@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071R3FYRG-es Fast & Furious 8 [Blu-ray]'
-tags: 
+tags: tole.es
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

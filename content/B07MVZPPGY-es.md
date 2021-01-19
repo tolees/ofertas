@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVZPPGY-es Reebok Forever FLOATRIDE Energy Zapatillas de Trail...'
-tags: 
+tags: tole.es
 actualPrice: 54.97 EUR
 currency: EUR
 price: 54.97

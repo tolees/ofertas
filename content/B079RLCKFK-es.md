@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079RLCKFK-es Sorel out N About Plus Botas para Mujer Marrón Elk 286...'
-tags: 
+tags: tole.es
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

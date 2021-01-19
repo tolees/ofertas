@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XL2GWSV-es FIND Tie Up Flat Espadrille Alpargata Azul Denim 39 EU'
-tags: 
+tags: tole.es
 actualPrice: 14.46 EUR
 currency: EUR
 price: 14.46

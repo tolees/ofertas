@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0029EPWQW-es TRIXIE Set Comed.Cerám+Pie 2x1.6 l ø20 cm Blco/Ng'
-tags: 
+tags: tole.es
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

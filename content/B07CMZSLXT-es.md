@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CMZSLXT-es Crocs Classic Clog Zuecos Unisex Adulto Rosa Melon 737...'
-tags: 
+tags: tole.es
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

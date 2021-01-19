@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004VENISC-es L Oréal Paris Barra de Labios Color Riche Accords Naturels...'
-tags: 
+tags: tole.es
 actualPrice: 8.38 EUR
 currency: EUR
 price: 8.38

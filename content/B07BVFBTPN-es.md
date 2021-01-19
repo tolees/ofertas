@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BVFBTPN-es Mochila Hombre para Portátil Mochila Antirrobo Impermeable...'
-tags: 
+tags: tole.es
 actualPrice: 30.96 EUR
 currency: EUR
 price: 30.96

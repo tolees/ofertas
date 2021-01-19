@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDPNSGB-es G-STAR RAW Fascia Polo Multicolor Milk/Imperial Blue...'
-tags: 
+tags: tole.es
 actualPrice: 17.56 EUR
 currency: EUR
 price: 17.56

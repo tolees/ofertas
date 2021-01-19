@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074PJJQ3Q-es Osram Smart + Apple homekit Classic A RGBW LED Bombilla En...'
-tags: 
+tags: tole.es
 actualPrice: 33.69 EUR
 currency: EUR
 price: 33.69

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XRHXQ5R-es Vicloon Cepillo de Botellas 8 Pcs Cepillo de Limpieza...'
-tags: 
+tags: tole.es
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

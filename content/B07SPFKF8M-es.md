@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SPFKF8M-es Funko Fortnite Peely Collectible Figure Multicolor...'
-tags: 
+tags: tole.es
 actualPrice: 11.11 EUR
 currency: EUR
 price: 11.11

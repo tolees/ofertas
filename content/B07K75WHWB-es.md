@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K75WHWB-es Levi s Button Thru Mom Skirt Falda Azul Mid Race 0002...'
-tags: 
+tags: tole.es
 actualPrice: 30.7 EUR
 currency: EUR
 price: 30.7

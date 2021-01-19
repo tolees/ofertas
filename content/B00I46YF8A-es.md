@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00I46YF8A-es Deltadore 217 Termostato'
-tags: 
+tags: tole.es
 actualPrice: 90.45 EUR
 currency: EUR
 price: 90.45

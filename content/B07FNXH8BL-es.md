@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNXH8BL-es Pack de 2 x Bloc de Dibujo Profesional A4 9”x12” con...'
-tags: 
+tags: tole.es
 actualPrice: 18.97 EUR
 currency: EUR
 price: 18.97

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7PMVQJ-es Call of Cthulhu - Nintendo Switch'
-tags: 
+tags: tole.es
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

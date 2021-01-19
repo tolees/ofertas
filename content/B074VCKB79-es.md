@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074VCKB79-es Skagen Pendiente para Mujer SKJ1057040'
-tags: 
+tags: tole.es
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

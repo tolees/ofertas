@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMVVHVZ-es Biotina 10.000 mcg Vitamina B7 | 365 comprimidos...'
-tags: 
+tags: tole.es
 actualPrice: 13.02 EUR
 currency: EUR
 price: 13.02

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072T2TQ7Y-es Skechers On The Go 600-Brilliancy Sandalia con Pulsera...'
-tags: 
+tags: tole.es
 actualPrice: 44.59 EUR
 currency: EUR
 price: 44.59

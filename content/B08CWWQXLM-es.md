@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CWWQXLM-es Paoseven Us - Camiseta de manga corta unisex color negro...'
-tags: 
+tags: tole.es
 actualPrice: 14.38 EUR
 currency: EUR
 price: 14.38

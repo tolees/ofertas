@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5QS1PM-es Tommy Hilfiger Flatform Runner Colour Sneaker Zapatillas...'
-tags: 
+tags: tole.es
 actualPrice: 39.4 EUR
 currency: EUR
 price: 39.4

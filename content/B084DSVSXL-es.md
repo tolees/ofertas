@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084DSVSXL-es Suavinex - Chupete para bebés 0-6 meses. Chupete con...'
-tags: 
+tags: tole.es
 actualPrice: 3.85 EUR
 currency: EUR
 price: 3.85

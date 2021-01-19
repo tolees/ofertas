@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DC1L1XT-es Puma Cali-0 Summer Zapatillas Unisex Adulto Azul Fair Aqua...'
-tags: 
+tags: tole.es
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

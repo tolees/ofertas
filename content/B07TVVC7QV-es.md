@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVVC7QV-es Skechers Moreno Zapatillas para Hombre Negro Black Natural...'
-tags: 
+tags: tole.es
 actualPrice: 44.97 EUR
 currency: EUR
 price: 44.97

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083SMHSW8-es Cinta Métrica Láser 2 En 1 Meterk Telémetro láser...'
-tags: 
+tags: tole.es
 actualPrice: 32.97 EUR
 currency: EUR
 price: 32.97

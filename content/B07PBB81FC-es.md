@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PBB81FC-es AmazonBasics Cargador para pared USB de tipo C 3.0 65 W 1...'
-tags: 
+tags: tole.es
 actualPrice: 20.94 EUR
 currency: EUR
 price: 20.94

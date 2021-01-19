@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0893CHDSH-es LG SN9YG - Barra de Sonido Hi-Res con Dolby Atmos 24...'
-tags: 
+tags: tole.es
 actualPrice: 616.25 EUR
 currency: EUR
 price: 616.25

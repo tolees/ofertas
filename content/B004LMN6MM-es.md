@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004LMN6MM-es Munchkin Juego de baño de baloncesto'
-tags: 
+tags: tole.es
 actualPrice: 12.19 EUR
 currency: EUR
 price: 12.19

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G1H6VYF-es Fitbit Charge 3 Pulsera Avanzada de Salud y Actividad...'
-tags: 
+tags: tole.es
 actualPrice: 119.96 EUR
 currency: EUR
 price: 119.96

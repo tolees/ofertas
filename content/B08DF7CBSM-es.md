@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DF7CBSM-es ADJU Muñeca Flip Octopus de Doble Cara Lindo Pulpo...'
-tags: 
+tags: tole.es
 actualPrice: 5.88 EUR
 currency: EUR
 price: 5.88

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZNTLHTT-es Suhctup Funda Compatible para Huawei P20 Pro Carcasa con...'
-tags: 
+tags: tole.es
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

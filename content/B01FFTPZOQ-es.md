@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FFTPZOQ-es Philips SCF753/02 - Taza con caño decorado colores surtios'
-tags: 
+tags: tole.es
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

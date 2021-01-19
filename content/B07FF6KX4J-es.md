@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FF6KX4J-es DESCHE para Funda Xiaomi Redmi Note 5 Hard PC Soft TPU 2...'
-tags: 
+tags: tole.es
 actualPrice: 4.72 EUR
 currency: EUR
 price: 4.72

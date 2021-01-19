@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CP8WFQR-es Habitdesign 0M7448Y - Armario Juvenil Infantil Acabado en...'
-tags: 
+tags: tole.es
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

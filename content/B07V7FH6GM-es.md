@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7FH6GM-es WMF Profi Set de 3 sartenes de Acero Inoxidable de 20 24 y...'
-tags: 
+tags: tole.es
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

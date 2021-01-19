@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J5FZLAK-es Atopic Piel Crema Corporal Extreme para el tratamiento de...'
-tags: 
+tags: tole.es
 actualPrice: 10.4 EUR
 currency: EUR
 price: 10.4

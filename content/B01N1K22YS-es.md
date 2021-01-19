@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N1K22YS-es New Balance ML373 Zapatillas para Hombre Rojo...'
-tags: 
+tags: tole.es
 actualPrice: 47.04 EUR
 currency: EUR
 price: 47.04

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GLG56Z7-es 100g 0.22LB China Yunnan conservas de té Puerh Chen Xiang...'
-tags: 
+tags: tole.es
 actualPrice: 6.25 EUR
 currency: EUR
 price: 6.25

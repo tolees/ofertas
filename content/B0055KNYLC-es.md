@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0055KNYLC-es Caja Stargate Atlantis Temporadas 1-4 [DVD]'
-tags: 
+tags: tole.es
 actualPrice: 51.83 EUR
 currency: EUR
 price: 51.83

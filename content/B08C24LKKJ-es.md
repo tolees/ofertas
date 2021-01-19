@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C24LKKJ-es Panamar Bolsas de Compras de Lona de Gran Capacidad Bolsas...'
-tags: 
+tags: tole.es
 actualPrice: 6.77 EUR
 currency: EUR
 price: 6.77

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PLQS5XW-es SFR Raptor Patines Unisex Adulto Rojo Red 39.5'
-tags: 
+tags: tole.es
 actualPrice: 80.71 EUR
 currency: EUR
 price: 80.71

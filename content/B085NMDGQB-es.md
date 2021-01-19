@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085NMDGQB-es CRAPHY Trípode de Fotografía Soporte de luz 51-200cm con...'
-tags: 
+tags: tole.es
 actualPrice: 12.91 EUR
 currency: EUR
 price: 12.91

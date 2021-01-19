@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08723GLWR-es Mono de bebé Promini para bebé con texto en inglés «Future...'
-tags: 
+tags: tole.es
 actualPrice: 13.62 EUR
 currency: EUR
 price: 13.62

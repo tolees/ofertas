@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DU3IKL4-es Balanza de cocina digital Laica KS1029W con diseño de...'
-tags: 
+tags: tole.es
 actualPrice: 17.48 EUR
 currency: EUR
 price: 17.48

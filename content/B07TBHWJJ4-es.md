@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TBHWJJ4-es Topsale-ycld 4.3"1080P Dual Lens Car Auto DVR Mirror Dash...'
-tags: 
+tags: tole.es
 actualPrice: 25.98 EUR
 currency: EUR
 price: 25.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GFN6CVF-es AMD 2950X Ryzen ThreadRipper - Procesador 4.4 GHz y Cache...'
-tags: 
+tags: tole.es
 actualPrice: 599.95 EUR
 currency: EUR
 price: 599.95

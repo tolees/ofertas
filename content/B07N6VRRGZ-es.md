@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N6VRRGZ-es Tommy Hilfiger Core Leather Lace Up Shoe Mocasines para...'
-tags: 
+tags: tole.es
 actualPrice: 75.53 EUR
 currency: EUR
 price: 75.53

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2NCG19-es PUMA Cilia Zapatillas para Mujer Black Silver-Peach Bud 36 EU'
-tags: 
+tags: tole.es
 actualPrice: 37.82 EUR
 currency: EUR
 price: 37.82

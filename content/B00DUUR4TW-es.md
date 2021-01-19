@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DUUR4TW-es SBS TEPOCHEXLR - Funda universal para móvil talla XL hasta...'
-tags: 
+tags: tole.es
 actualPrice: 4.81 EUR
 currency: EUR
 price: 4.81

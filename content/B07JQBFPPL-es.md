@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQBFPPL-es Jack & Jones Jjitom Jjoriginal Am 815 STS Vaqueros Skinny...'
-tags: 
+tags: tole.es
 actualPrice: 19.59 EUR
 currency: EUR
 price: 19.59

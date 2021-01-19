@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015WSEBTA-es Bourjois Velvet Barra de Labios Líquida Tono 13 Fu n chsia...'
-tags: 
+tags: tole.es
 actualPrice: 4.55 EUR
 currency: EUR
 price: 4.55

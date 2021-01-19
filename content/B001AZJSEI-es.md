@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001AZJSEI-es Crocs Cleo Sandalias de Punta Descubierta para Mujer Negro...'
-tags: 
+tags: tole.es
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PNUGV4Q-es Adidas Zx Flux - Zapatillas para Bebés Color Negro...'
-tags: 
+tags: tole.es
 actualPrice: 44.54 EUR
 currency: EUR
 price: 44.54

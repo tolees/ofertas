@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01B5EGOZ4-es Wilson Baseball Hat Co - Gorra Unisex Color Negro Talla OSFA'
-tags: 
+tags: tole.es
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

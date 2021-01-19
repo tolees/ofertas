@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L3BLSXP-es G-STAR RAW 3301 Slim 1/2 Pantalones cortos Mehrfarbig...'
-tags: 
+tags: tole.es
 actualPrice: 27.01 EUR
 currency: EUR
 price: 27.01

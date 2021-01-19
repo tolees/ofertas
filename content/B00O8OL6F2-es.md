@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00O8OL6F2-es Manguitos Hinchables Bestway Minnie Mouse'
-tags: 
+tags: tole.es
 actualPrice: 3.79 EUR
 currency: EUR
 price: 3.79

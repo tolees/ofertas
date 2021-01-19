@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PWCJHLY-es Casio Reloj Hombre de Digital con Correa en Resina...'
-tags: 
+tags: tole.es
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

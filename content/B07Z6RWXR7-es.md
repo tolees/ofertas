@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z6RWXR7-es B6 Dotted Journal de Scribbles That Matter - Crea tu Bujo...'
-tags: 
+tags: tole.es
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

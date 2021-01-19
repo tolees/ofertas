@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IRPOKSW-es Funko- Gears of War JD Fenix Armored Figura de Vinilo...'
-tags: 
+tags: tole.es
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

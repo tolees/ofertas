@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0039YOHG2-es Casio Reloj de Pulsera MTP-1303PD-7BVEF'
-tags: 
+tags: tole.es
 actualPrice: 31.5 EUR
 currency: EUR
 price: 31.5

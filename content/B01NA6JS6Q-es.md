@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NA6JS6Q-es Yimidear Al Aire Libre Respirable Plegable Bolsa para...'
-tags: 
+tags: tole.es
 actualPrice: 17.89 EUR
 currency: EUR
 price: 17.89

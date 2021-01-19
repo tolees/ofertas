@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078PHMRYD-es Insta360 Nano S - Videocámara 3D VR Compacta Cámara HD 4K...'
-tags: 
+tags: tole.es
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

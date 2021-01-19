@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0781VC2KV-es adidas Gazelle Zapatillas de deporte Unisex niños Rojo...'
-tags: 
+tags: tole.es
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0812FYHVT-es Asics Gel-Cumulus 21 Running Shoe Mens - Black/Black -...'
-tags: 
+tags: tole.es
 actualPrice: 92.34 EUR
 currency: EUR
 price: 92.34

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B9SS3VP-es Tous K Mini Cartera para Mujer Beige 695790024 19.5x11x2...'
-tags: 
+tags: tole.es
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001D18HGO-es Vans U Old Skool - Zapatillas Unisex Adulto Negro Nero...'
-tags: 
+tags: tole.es
 actualPrice: 55.2 EUR
 currency: EUR
 price: 55.2

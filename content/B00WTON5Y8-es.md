@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WTON5Y8-es FLOSO - Chanclas/Sandalias Diseño Bandera de Reino Unido -...'
-tags: 
+tags: tole.es
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

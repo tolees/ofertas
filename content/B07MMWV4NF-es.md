@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMWV4NF-es KangaROOS Kanga X 5000 Zapatillas Unisex Niños Jet...'
-tags: 
+tags: tole.es
 actualPrice: 16.52 EUR
 currency: EUR
 price: 16.52

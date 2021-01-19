@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083HYW9ZY-es K9CK Luces LED para Technic Todoterreno Radical 4 x 4...'
-tags: 
+tags: tole.es
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

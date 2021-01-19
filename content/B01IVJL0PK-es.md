@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IVJL0PK-es Pack Quitamanchas Sinmanchas 750Ml + Sinmanchas Coloreadas...'
-tags: 
+tags: tole.es
 actualPrice: 9.14 EUR
 currency: EUR
 price: 9.14

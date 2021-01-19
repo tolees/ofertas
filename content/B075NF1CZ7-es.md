@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075NF1CZ7-es VEENAX HS3 Auriculares Inalámbricos Over-Ear Altavoz...'
-tags: 
+tags: tole.es
 actualPrice: 28.11 EUR
 currency: EUR
 price: 28.11

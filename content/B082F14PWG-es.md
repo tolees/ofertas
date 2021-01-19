@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082F14PWG-es ODLICNO Mini cámara de Seguridad WiFi Inalámbrica Cámara...'
-tags: 
+tags: tole.es
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

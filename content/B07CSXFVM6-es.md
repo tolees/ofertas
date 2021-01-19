@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CSXFVM6-es JBL Go Plus Altavoz Inalámbrico Portátil con Bluetooth...'
-tags: 
+tags: tole.es
 actualPrice: 24.17 EUR
 currency: EUR
 price: 24.17

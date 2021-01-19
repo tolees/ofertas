@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JWVGTTN-es Columbia Nikiski Botas Bajas para Mujer Beige Elk Lagoon...'
-tags: 
+tags: tole.es
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

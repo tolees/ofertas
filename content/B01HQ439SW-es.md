@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HQ439SW-es Bolero Bebida Instantánea sin Azúcar Sabor Frambuesa -...'
-tags: 
+tags: tole.es
 actualPrice: 6.85 EUR
 currency: EUR
 price: 6.85

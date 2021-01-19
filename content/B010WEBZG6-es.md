@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010WEBZG6-es Crocs Isabella T Strap Sandalias para Mujer Negro Black...'
-tags: 
+tags: tole.es
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

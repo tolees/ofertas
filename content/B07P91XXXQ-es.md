@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P91XXXQ-es Milán - Expositor 20 bolígrafos Compact verde'
-tags: 
+tags: tole.es
 actualPrice: 6.94 EUR
 currency: EUR
 price: 6.94

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BL2TK3S-es New Balance 997H Zapatillas para Mujer Negro Black/Air 37 EU'
-tags: 
+tags: tole.es
 actualPrice: 30.84 EUR
 currency: EUR
 price: 30.84

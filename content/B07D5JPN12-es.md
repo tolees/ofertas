@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D5JPN12-es Revlon Professional Style Masters Fanaticurls Activador de...'
-tags: 
+tags: tole.es
 actualPrice: 5.86 EUR
 currency: EUR
 price: 5.86

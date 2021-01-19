@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01B84LGR2-es Sweat Corporate Polyester junior'
-tags: 
+tags: tole.es
 actualPrice: 16.19 EUR
 currency: EUR
 price: 16.19

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG23BPD-es PUMJV|#Puma Vista Zapatillas Unisex adulto Gris Gray...'
-tags: 
+tags: tole.es
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

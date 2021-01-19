@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IKCY9RK-es MOTUL 7100 10W40 4T 4L'
-tags: 
+tags: tole.es
 actualPrice: 12.24 EUR
 currency: EUR
 price: 12.24

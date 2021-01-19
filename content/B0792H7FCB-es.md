@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792H7FCB-es FITFLOP Gogh Moc Slide in Leather Zapatos de Playa y...'
-tags: 
+tags: tole.es
 actualPrice: 55.96 EUR
 currency: EUR
 price: 55.96

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HKRBK1S-es Tefal Daily Cook - Juego de Sartenes y Cazos Acero...'
-tags: 
+tags: tole.es
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

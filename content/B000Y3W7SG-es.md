@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000Y3W7SG-es Wrangler Texas Darkstone Vaqueros para Hombre Vint...'
-tags: 
+tags: tole.es
 actualPrice: 29.29 EUR
 currency: EUR
 price: 29.29

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVGZ9WH-es Nosotros 4K UHD + BD [Blu-ray]'
-tags: 
+tags: tole.es
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFV9MTM-es Geox U HALLSON A Botas Chukka para Hombre Amarillo Curry...'
-tags: 
+tags: tole.es
 actualPrice: 54.65 EUR
 currency: EUR
 price: 54.65

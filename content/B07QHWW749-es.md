@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QHWW749-es Juego de Tronos Toalla Targaryen'
-tags: 
+tags: tole.es
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

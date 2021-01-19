@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076CDZCPQ-es ENKEEO - 23x103.5cm Longboard Monopatín con Rodamiento de...'
-tags: 
+tags: tole.es
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

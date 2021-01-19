@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076V4DQMB-es Kayond Forest Series Funda para portátil de 11" a 17"...'
-tags: 
+tags: tole.es
 actualPrice: 18.08 EUR
 currency: EUR
 price: 18.08

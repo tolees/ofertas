@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0093ZOYOG-es A.S. Création cenefa autoadhesivo Stick Ups lila 5 00 m x...'
-tags: 
+tags: tole.es
 actualPrice: 10.18 EUR
 currency: EUR
 price: 10.18

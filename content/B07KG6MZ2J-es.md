@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG6MZ2J-es PUMA Ralph Sampson LO Zapatillas Deportivas para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 42.7 EUR
 currency: EUR
 price: 42.7

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q2MSJFC-es Pop! Figura De Vinil: Harry Potter: Harry Potter - George...'
-tags: 
+tags: tole.es
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

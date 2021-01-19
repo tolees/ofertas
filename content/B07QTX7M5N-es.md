@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QTX7M5N-es JUNGEN 3pcs Kit de decoracion de uñas Cepillo de detalle...'
-tags: 
+tags: tole.es
 actualPrice: 0.25 EUR
 currency: EUR
 price: 0.25

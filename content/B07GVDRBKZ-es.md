@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GVDRBKZ-es TACKLIFE Bandas de Lija 10PCS 75x457mm Papeles de Lija...'
-tags: 
+tags: tole.es
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

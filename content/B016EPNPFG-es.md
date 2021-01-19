@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016EPNPFG-es Nike MD Runner 2 Zapatillas de Deporte para Mujer...'
-tags: 
+tags: tole.es
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

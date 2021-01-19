@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KKNJ56Z-es Nike M NSW tee Swoosh BB Core T-Shirt Hombre Black XL'
-tags: 
+tags: tole.es
 actualPrice: 9.01 EUR
 currency: EUR
 price: 9.01

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MT1QHSI-es Reebok Royal Glide Rplclp Zapatillas de Trail Running para...'
-tags: 
+tags: tole.es
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

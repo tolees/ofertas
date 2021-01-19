@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V8JMB5F-es BOSS Serge-va sz40 Cinturón Marrón Medium Brown 212 95...'
-tags: 
+tags: tole.es
 actualPrice: 40.65 EUR
 currency: EUR
 price: 40.65

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071KWLF2G-es KROM Khuno USB Óptico 5000DPI Mano Derecha Negro - Ratón...'
-tags: 
+tags: tole.es
 actualPrice: 23.96 EUR
 currency: EUR
 price: 23.96

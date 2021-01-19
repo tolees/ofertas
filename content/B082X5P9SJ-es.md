@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082X5P9SJ-es 2 piezas Protecciones para bordes y esquinas Protecciones...'
-tags: 
+tags: tole.es
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

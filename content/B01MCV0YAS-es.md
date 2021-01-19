@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MCV0YAS-es Haikyu!! Los Ases Del Voley -Blu-Ray Edición...'
-tags: 
+tags: tole.es
 actualPrice: 14.91 EUR
 currency: EUR
 price: 14.91

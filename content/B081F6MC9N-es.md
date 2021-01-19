@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081F6MC9N-es Taurus R850 Ventilador humidificador 3 velocidades y modos...'
-tags: 
+tags: tole.es
 actualPrice: 104.9 EUR
 currency: EUR
 price: 104.9

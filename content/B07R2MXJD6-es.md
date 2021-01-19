@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R2MXJD6-es Amazon Essentials Plus Size Sherpa-Lined Full-Zip Hoodie...'
-tags: 
+tags: tole.es
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

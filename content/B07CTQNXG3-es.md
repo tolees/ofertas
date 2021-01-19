@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CTQNXG3-es FIND - Cat Lady Máscara efecto alargador marrón +...'
-tags: 
+tags: tole.es
 actualPrice: 2.86 EUR
 currency: EUR
 price: 2.86

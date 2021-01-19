@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01G8X7VM2-es BBC micro: bit go'
-tags: 
+tags: tole.es
 actualPrice: 15.67 EUR
 currency: EUR
 price: 15.67

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00I6E4WIS-es L Oreal Paris Make-up Designer Polvo Bronceador Glam...'
-tags: 
+tags: tole.es
 actualPrice: 10.47 EUR
 currency: EUR
 price: 10.47

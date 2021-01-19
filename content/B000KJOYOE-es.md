@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KJOYOE-es Edding 950 - Marcador permanente de pasta opaca trazo de...'
-tags: 
+tags: tole.es
 actualPrice: 4.7 EUR
 currency: EUR
 price: 4.7

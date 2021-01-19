@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075QCC3XZ-es Hewlett Packard CF543X - Tóner color Magenta'
-tags: 
+tags: tole.es
 actualPrice: 85.99 EUR
 currency: EUR
 price: 85.99

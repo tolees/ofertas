@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00W79X2IY-es iap PHARMA PARFUMS nº 51 - Perfume Floral con vaporizador...'
-tags: 
+tags: tole.es
 actualPrice: 5.24 EUR
 currency: EUR
 price: 5.24

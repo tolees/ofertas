@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005I4P2CY-es Mannesmann - M29057 - Juego de herramientas 57 piezas'
-tags: 
+tags: tole.es
 actualPrice: 38.36 EUR
 currency: EUR
 price: 38.36

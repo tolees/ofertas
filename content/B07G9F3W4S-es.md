@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G9F3W4S-es Cepillo Alisador de Pelo 3 en 1 3 cabezales Cepillo...'
-tags: 
+tags: tole.es
 actualPrice: 8.69 EUR
 currency: EUR
 price: 8.69

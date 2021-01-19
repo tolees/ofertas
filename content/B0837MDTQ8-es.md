@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0837MDTQ8-es GPS coches 7 Pulgadas Navegadores GPS para Coche Navegador...'
-tags: 
+tags: tole.es
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

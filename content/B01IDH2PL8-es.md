@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IDH2PL8-es WandSticker4U - Adhesivo decorativo para pared o ventana...'
-tags: 
+tags: tole.es
 actualPrice: 3.09 EUR
 currency: EUR
 price: 3.09

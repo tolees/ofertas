@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005SZLO3O-es Armand Basi L Eau Pour Homme Eau de Toilette Vaporizador...'
-tags: 
+tags: tole.es
 actualPrice: 22.28 EUR
 currency: EUR
 price: 22.28

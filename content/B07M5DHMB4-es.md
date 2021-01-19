@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M5DHMB4-es Lee Luke Corduroy Pantalones Naranja POTTER S Clay 93 31W...'
-tags: 
+tags: tole.es
 actualPrice: 18.03 EUR
 currency: EUR
 price: 18.03

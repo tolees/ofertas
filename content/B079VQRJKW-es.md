@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079VQRJKW-es Meccano Ducati Moto GP - Juegos de construcción Juego de...'
-tags: 
+tags: tole.es
 actualPrice: 24.62 EUR
 currency: EUR
 price: 24.62

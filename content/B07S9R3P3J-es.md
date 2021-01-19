@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S9R3P3J-es WHRZ Huohou - Abrebotellas eléctrico abridor de botellas...'
-tags: 
+tags: tole.es
 actualPrice: 15.89 EUR
 currency: EUR
 price: 15.89

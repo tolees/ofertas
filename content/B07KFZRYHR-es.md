@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFZRYHR-es PUMA Cali PS Zapatillas para Niñas Black-Milky Blue 30 EU'
-tags: 
+tags: tole.es
 actualPrice: 48.47 EUR
 currency: EUR
 price: 48.47

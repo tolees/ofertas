@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00191RXUY-es Herlitz 10801710 - Tijeras escolar con punta redonda...'
-tags: 
+tags: tole.es
 actualPrice: 1.35 EUR
 currency: EUR
 price: 1.35

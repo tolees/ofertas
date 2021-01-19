@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CCTLIQW-es Vaso medidor Kitchen Craft de cristal 50 ml'
-tags: 
+tags: tole.es
 actualPrice: 5.44 EUR
 currency: EUR
 price: 5.44

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006MQJUP2-es Carissima Gold Pendientes de mujer con oro bicolor de 9...'
-tags: 
+tags: tole.es
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086TVXGLD-es AIORNIY - 1/5/10 mascarillas para polvo resistentes al...'
-tags: 
+tags: tole.es
 actualPrice: 4.56 EUR
 currency: EUR
 price: 4.56

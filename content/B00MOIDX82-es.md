@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MOIDX82-es AEG WZD 5648 - Manta eléctrica 130 x 180 cm apagado...'
-tags: 
+tags: tole.es
 actualPrice: 60.58 EUR
 currency: EUR
 price: 60.58

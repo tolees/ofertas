@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M660ITM-es Wrangler SLIM Jeans Azul Authentic Blue 85U 26W / 32L para...'
-tags: 
+tags: tole.es
 actualPrice: 54.59 EUR
 currency: EUR
 price: 54.59

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CK3JZC6-es EGV [2 Pack Protector de Pantalla para Xiaomi Redmi Note 9...'
-tags: 
+tags: tole.es
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

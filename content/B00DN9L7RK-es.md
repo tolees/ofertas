@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DN9L7RK-es SALVADO AVENA 500 gr'
-tags: 
+tags: tole.es
 actualPrice: 1.45 EUR
 currency: EUR
 price: 1.45

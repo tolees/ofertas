@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075B2LFJF-es Altavoz Bluetooth10W Altavoz de Bicicleta Bluetooth 5.0...'
-tags: 
+tags: tole.es
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

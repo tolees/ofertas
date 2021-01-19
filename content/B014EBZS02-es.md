@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014EBZS02-es Salomon Trail Gaiters Low Polainas Bajas para Senderismo y...'
-tags: 
+tags: tole.es
 actualPrice: 23.23 EUR
 currency: EUR
 price: 23.23

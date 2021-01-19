@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HZUQL8C-es G-STAR RAW Bronson Low Waist Boyfriend Chino Pantalones...'
-tags: 
+tags: tole.es
 actualPrice: 11.14 EUR
 currency: EUR
 price: 11.14

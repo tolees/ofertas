@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0847MLZQQ-es Cerdá Pijama Niña de Disney Frozen 2-Camiseta + Pantalon...'
-tags: 
+tags: tole.es
 actualPrice: 8.88 EUR
 currency: EUR
 price: 8.88

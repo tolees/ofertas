@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0755ZTBH1-es Skechers Classic Fit-Delson-Camden Men’s Sneakers Taupe 8...'
-tags: 
+tags: tole.es
 actualPrice: 29.3 EUR
 currency: EUR
 price: 29.3

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D9C2JQH-es NNJXD Unicornio Arco Iris Tutú Primer Cumpleaños Trajes de...'
-tags: 
+tags: tole.es
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

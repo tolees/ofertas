@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7C4TFY-es Intex 64446 - Colchón hinchable fibertech doble capa...'
-tags: 
+tags: tole.es
 actualPrice: 66.9 EUR
 currency: EUR
 price: 66.9

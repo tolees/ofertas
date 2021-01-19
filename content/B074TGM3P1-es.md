@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074TGM3P1-es Resistente al agua riñonera bolsa de cintura 3 bolsillos...'
-tags: 
+tags: tole.es
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

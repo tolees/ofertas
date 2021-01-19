@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00D8CRSP2-es Picadora de Hielo A Mano O X Mojito Granizados Made In...'
-tags: 
+tags: tole.es
 actualPrice: 18.25 EUR
 currency: EUR
 price: 18.25

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GGXZ55C-es Amplificador de Señal Celular Teléfonos Móviles 4G LTE...'
-tags: 
+tags: tole.es
 actualPrice: 189.89 EUR
 currency: EUR
 price: 189.89

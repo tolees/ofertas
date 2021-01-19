@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BL2PZH4-es New Balance 997H Core Zapatillas para Hombre Negro...'
-tags: 
+tags: tole.es
 actualPrice: 53.95 EUR
 currency: EUR
 price: 53.95

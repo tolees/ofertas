@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0876SRCJS-es AYUN 1PC del arnés de Clip Asiento Seguro Hebilla Negro...'
-tags: 
+tags: tole.es
 actualPrice: 4.56 EUR
 currency: EUR
 price: 4.56

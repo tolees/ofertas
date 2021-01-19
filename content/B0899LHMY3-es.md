@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0899LHMY3-es TrekPow Piscina Hinchable Rectangular Piscina Inflable...'
-tags: 
+tags: tole.es
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

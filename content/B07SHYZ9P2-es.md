@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SHYZ9P2-es Levi s Pillsbury Zapatillas para Hombre Blanco R White 51...'
-tags: 
+tags: tole.es
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

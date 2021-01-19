@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MY7PU3V-es find. Camisa Casual de Algodón con Corte Estándar para...'
-tags: 
+tags: tole.es
 actualPrice: 9 EUR
 currency: EUR
 price: 9

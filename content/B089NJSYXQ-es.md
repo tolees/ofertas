@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089NJSYXQ-es Cuerda de saltar Focuses sin enredos de velocidad rápida...'
-tags: 
+tags: tole.es
 actualPrice: 7.18 EUR
 currency: EUR
 price: 7.18

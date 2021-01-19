@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S2YP9M5-es BESCHOI Plancha de Pelo Profesional Revestimiento de...'
-tags: 
+tags: tole.es
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FSNFSTP-es Clarks Un Adorn Strap Mocasines para Mujer Negro Black...'
-tags: 
+tags: tole.es
 actualPrice: 54.42 EUR
 currency: EUR
 price: 54.42

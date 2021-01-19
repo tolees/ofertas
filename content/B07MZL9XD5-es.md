@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZL9XD5-es Beslands Esterilla de calefacción Perros y Gatos 15 W...'
-tags: 
+tags: tole.es
 actualPrice: 5.2 EUR
 currency: EUR
 price: 5.2

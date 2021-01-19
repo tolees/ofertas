@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GBLWS23-es Pulsar Reloj cronografo para Hombre de Cuarzo con Correa...'
-tags: 
+tags: tole.es
 actualPrice: 67.32 EUR
 currency: EUR
 price: 67.32

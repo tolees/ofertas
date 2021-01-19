@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082KRSQ9K-es Parches Faciales Parches Antiarrugas Anti-Arrugas Parches...'
-tags: 
+tags: tole.es
 actualPrice: 11.24 EUR
 currency: EUR
 price: 11.24

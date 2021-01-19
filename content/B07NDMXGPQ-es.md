@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDMXGPQ-es G-STAR RAW Lanc Slim Tapered Pantalones de Deporte Negro...'
-tags: 
+tags: tole.es
 actualPrice: 48.58 EUR
 currency: EUR
 price: 48.58

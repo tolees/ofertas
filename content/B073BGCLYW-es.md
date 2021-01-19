@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073BGCLYW-es BaronHong Gynecomastia Compression Shirt Chaleco para...'
-tags: 
+tags: tole.es
 actualPrice: 12 EUR
 currency: EUR
 price: 12

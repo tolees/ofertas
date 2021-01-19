@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079VM5JCK-es Thomas Sabo - Colgante de Mujer "Cráneo de Toro Étnico...'
-tags: 
+tags: tole.es
 actualPrice: 73.0 EUR
 currency: EUR
 price: 73.0

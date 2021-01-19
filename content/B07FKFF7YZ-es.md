@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKFF7YZ-es Clarks Step Urban Mix Zapatillas para Hombre Verde Khaki...'
-tags: 
+tags: tole.es
 actualPrice: 45.48 EUR
 currency: EUR
 price: 45.48

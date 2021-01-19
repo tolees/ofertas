@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQMRGN-es Pepe Jeans Kim suéter Black 999 X-Small para Mujer'
-tags: 
+tags: tole.es
 actualPrice: 38.61 EUR
 currency: EUR
 price: 38.61

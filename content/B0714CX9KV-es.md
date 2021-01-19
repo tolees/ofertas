@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0714CX9KV-es Targus DOCK160USZ USB 3.0 3.1 Gen 1 Type-A Negro Gris -...'
-tags: 
+tags: tole.es
 actualPrice: 244.1 EUR
 currency: EUR
 price: 244.1

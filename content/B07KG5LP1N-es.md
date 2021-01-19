@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG5LP1N-es PUMA ST Runner V2 Mesh Zapatillas para Hombre BLU 37.5 EU'
-tags: 
+tags: tole.es
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

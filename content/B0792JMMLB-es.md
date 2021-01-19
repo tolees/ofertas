@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792JMMLB-es Geox U NORWOLK B Botas Chukka para Hombre Negro Black...'
-tags: 
+tags: tole.es
 actualPrice: 64.95 EUR
 currency: EUR
 price: 64.95

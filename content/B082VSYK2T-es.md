@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082VSYK2T-es Schwarzkopf Palette Intense Coloración Permanente Tono 3...'
-tags: 
+tags: tole.es
 actualPrice: 2.75 EUR
 currency: EUR
 price: 2.75

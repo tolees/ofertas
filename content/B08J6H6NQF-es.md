@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08J6H6NQF-es Panamar Funda Protectora de Fieltro Suave y Liviana para...'
-tags: 
+tags: tole.es
 actualPrice: 3.13 EUR
 currency: EUR
 price: 3.13

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DBSDD5S-es Glucosamina Complex con Condroitina MSM Boswellia y...'
-tags: 
+tags: tole.es
 actualPrice: 20.97 EUR
 currency: EUR
 price: 20.97

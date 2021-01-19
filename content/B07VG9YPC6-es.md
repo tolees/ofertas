@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VG9YPC6-es Sethexy Bling 3D Uñas falsas Cristal Boda Diamante de...'
-tags: 
+tags: tole.es
 actualPrice: 13.66 EUR
 currency: EUR
 price: 13.66

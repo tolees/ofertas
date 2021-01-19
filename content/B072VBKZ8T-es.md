@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072VBKZ8T-es Oral-B Sensi Ultrathin head - Cabezales de Recambio Blanco...'
-tags: 
+tags: tole.es
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

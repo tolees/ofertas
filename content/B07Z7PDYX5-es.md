@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z7PDYX5-es loonBonnie Cómodo Absorción de Sudor Deporte Gimnasio...'
-tags: 
+tags: tole.es
 actualPrice: 1.04 EUR
 currency: EUR
 price: 1.04

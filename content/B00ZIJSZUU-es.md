@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZIJSZUU-es Trust GXT 363 - Auriculares Gaming USB con vibración y...'
-tags: 
+tags: tole.es
 actualPrice: 38.07 EUR
 currency: EUR
 price: 38.07

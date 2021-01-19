@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFWTZNK-es PUMA AURIZ JR Zapatillas de Balonmano Unisex niños Blanco...'
-tags: 
+tags: tole.es
 actualPrice: 23.73 EUR
 currency: EUR
 price: 23.73

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088CQSCW1-es Gebildet DC 12V 200mA Interruptor de Tipo de Pasta de...'
-tags: 
+tags: tole.es
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

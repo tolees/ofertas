@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PZZ2Y5Q-es Epson EcoTank ET-2726 - Impresora de inyección de tinta 3...'
-tags: 
+tags: tole.es
 actualPrice: 205.99 EUR
 currency: EUR
 price: 205.99

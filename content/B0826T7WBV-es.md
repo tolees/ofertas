@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0826T7WBV-es HP ProDesk 600 G2 i5 6500 3.60GHz 8GB 256gb ssd + 500GB...'
-tags: 
+tags: tole.es
 actualPrice: 306.84 EUR
 currency: EUR
 price: 306.84

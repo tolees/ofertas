@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0864KF6GR-es Jack & Jones Jjiaruba Jjswimshorts AKM Animal STS Bañador...'
-tags: 
+tags: tole.es
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

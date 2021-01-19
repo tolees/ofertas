@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P37M3QW-es Moon and Back de Hanna Andersson - Pack de 5 camisetas de...'
-tags: 
+tags: tole.es
 actualPrice: 25.89 EUR
 currency: EUR
 price: 25.89

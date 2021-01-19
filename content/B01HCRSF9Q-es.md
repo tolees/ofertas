@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HCRSF9Q-es adidas Originals Superstar Zapatillas Unisex Niños Blanco...'
-tags: 
+tags: tole.es
 actualPrice: 44.96 EUR
 currency: EUR
 price: 44.96

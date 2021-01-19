@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JWTZFGC-es JACK & JONES Jfwtrent PU 19 Noos Zapatillas para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 34.49 EUR
 currency: EUR
 price: 34.49

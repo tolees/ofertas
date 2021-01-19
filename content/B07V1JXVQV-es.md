@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V1JXVQV-es Marca Amazon - Iris & Lilly Sujetador Estilo Camiseta...'
-tags: 
+tags: tole.es
 actualPrice: 7.2 EUR
 currency: EUR
 price: 7.2

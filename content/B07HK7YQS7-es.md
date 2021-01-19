@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HK7YQS7-es Amazon Essentials - Cazadora ligera para hombre Azul...'
-tags: 
+tags: tole.es
 actualPrice: 17.25 EUR
 currency: EUR
 price: 17.25

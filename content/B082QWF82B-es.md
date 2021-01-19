@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082QWF82B-es Sombra de Ojos Eyeshadow Eyeshadow Glitter Eyeshadow...'
-tags: 
+tags: tole.es
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

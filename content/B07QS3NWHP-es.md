@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QS3NWHP-es Swiss Home Set Black 16/20/24 y Batería Cocina Acero...'
-tags: 
+tags: tole.es
 actualPrice: 58.83 EUR
 currency: EUR
 price: 58.83

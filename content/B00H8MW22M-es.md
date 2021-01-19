@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00H8MW22M-es Disney Baby 80800726 - Taza antifugas punta suave diseño...'
-tags: 
+tags: tole.es
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

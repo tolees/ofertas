@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XD2NDI8-es Pepe Jeans Spike Vaqueros Azul 11oz Streaky Stretch Med...'
-tags: 
+tags: tole.es
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

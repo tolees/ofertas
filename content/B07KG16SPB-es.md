@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG16SPB-es PUMA Insurge Mesh 2.0 Zapatillas Unisex Adulto Rhubarb...'
-tags: 
+tags: tole.es
 actualPrice: 20.45 EUR
 currency: EUR
 price: 20.45

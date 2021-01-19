@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KU69HRQ-es Prices Citronella Tealight Candles Mosquito Fly Insect...'
-tags: 
+tags: tole.es
 actualPrice: 5.37 EUR
 currency: EUR
 price: 5.37

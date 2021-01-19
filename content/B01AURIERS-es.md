@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AURIERS-es Olympus Pen-F Kit Cámara de Sistema Micro Cuatro Tercios...'
-tags: 
+tags: tole.es
 actualPrice: 470.0 EUR
 currency: EUR
 price: 470.0

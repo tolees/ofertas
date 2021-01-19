@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N3CCXZR-es Tamron SP 70-200 mm F/2.8 Di VC USD G2 - Objetivo para...'
-tags: 
+tags: tole.es
 actualPrice: 1091.62 EUR
 currency: EUR
 price: 1091.62

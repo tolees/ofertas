@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079TGLPQF-es Rowenta Skin Spirit EP2910 - Depiladora de 2 velocidades...'
-tags: 
+tags: tole.es
 actualPrice: 32.98 EUR
 currency: EUR
 price: 32.98

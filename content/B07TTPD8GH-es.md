@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTPD8GH-es Kipling Firefly Up Mochilas para Mujer Negro Carbon...'
-tags: 
+tags: tole.es
 actualPrice: 36.46 EUR
 currency: EUR
 price: 36.46

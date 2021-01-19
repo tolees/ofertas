@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RZYSW44-es Love MoschinoJc4009pp1aMujerBolsos mochilaRojo Rosso...'
-tags: 
+tags: tole.es
 actualPrice: 117.3 EUR
 currency: EUR
 price: 117.3

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010UQIPQY-es Philips Bombilla LED Vela E14 4 W equivalentes a 25 W luz...'
-tags: 
+tags: tole.es
 actualPrice: 5.2 EUR
 currency: EUR
 price: 5.2

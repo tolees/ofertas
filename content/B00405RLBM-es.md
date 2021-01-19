@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00405RLBM-es Kenwood CH580 Picadora 4 cuchillas con accesorio mayonnesa...'
-tags: 
+tags: tole.es
 actualPrice: 33.54 EUR
 currency: EUR
 price: 33.54

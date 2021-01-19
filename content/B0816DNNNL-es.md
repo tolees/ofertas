@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0816DNNNL-es Cepillo para Perros y Gatos Secador para Perros Pienes...'
-tags: 
+tags: tole.es
 actualPrice: 28.69 EUR
 currency: EUR
 price: 28.69

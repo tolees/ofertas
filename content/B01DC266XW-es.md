@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DC266XW-es Diset Luna Todo lo necesario para crear tu diario...'
-tags: 
+tags: tole.es
 actualPrice: 3.7 EUR
 currency: EUR
 price: 3.7

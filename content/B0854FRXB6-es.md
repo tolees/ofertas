@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0854FRXB6-es AirSMall Ganchos de Extensiones Herramientas para...'
-tags: 
+tags: tole.es
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SK12NTW-es Adidas TENSAUR C Zapatillas de Running Unisex niño Blanco...'
-tags: 
+tags: tole.es
 actualPrice: 11.91 EUR
 currency: EUR
 price: 11.91

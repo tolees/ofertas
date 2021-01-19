@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0776ZRL1P-es Tommy Hilfiger Original Rib Camisa Blanco Classic White...'
-tags: 
+tags: tole.es
 actualPrice: 16.8 EUR
 currency: EUR
 price: 16.8

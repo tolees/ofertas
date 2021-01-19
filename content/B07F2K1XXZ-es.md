@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2K1XXZ-es PUMA Axis Zapatillas Unisex Adulto Blanco White/Peacoat 45 EU'
-tags: 
+tags: tole.es
 actualPrice: 32.45 EUR
 currency: EUR
 price: 32.45

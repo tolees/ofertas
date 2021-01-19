@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EY9UPI0-es Rimmel London Stay Matte Base de Maquillaje Tono 200 Soft...'
-tags: 
+tags: tole.es
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

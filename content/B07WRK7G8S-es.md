@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WRK7G8S-es Black Shark 2 8GB+128GB Negro con Switch Kit Black Shark...'
-tags: 
+tags: tole.es
 actualPrice: 459.0 EUR
 currency: EUR
 price: 459.0

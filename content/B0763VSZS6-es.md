@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0763VSZS6-es Funko Pop!- Sonic: Shadow Figura de Vinilo 20148'
-tags: 
+tags: tole.es
 actualPrice: 9.38 EUR
 currency: EUR
 price: 9.38

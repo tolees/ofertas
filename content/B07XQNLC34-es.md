@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XQNLC34-es Fossil Smartwatch Pantalla táctil para Mujer de Connected...'
-tags: 
+tags: tole.es
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

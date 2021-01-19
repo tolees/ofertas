@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003JM4OCG-es Max Factor Pan Stick Base de maquillaje Tono 12 True Beige...'
-tags: 
+tags: tole.es
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

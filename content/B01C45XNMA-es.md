@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C45XNMA-es DIM Generous Sujetador Beige New Skin 95B para Mujer'
-tags: 
+tags: tole.es
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

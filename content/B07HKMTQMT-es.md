@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HKMTQMT-es Skagen Smartwatch SKT5102'
-tags: 
+tags: tole.es
 actualPrice: 179.4 EUR
 currency: EUR
 price: 179.4

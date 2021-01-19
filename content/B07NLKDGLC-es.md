@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLKDGLC-es Versace Jeans CoutureBorsaMujerBolso de manoRojo Rosso 5...'
-tags: 
+tags: tole.es
 actualPrice: 93.39 EUR
 currency: EUR
 price: 93.39

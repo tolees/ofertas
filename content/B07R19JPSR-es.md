@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R19JPSR-es Provide the best 4pcs / Set Universal de reemplazo...'
-tags: 
+tags: tole.es
 actualPrice: 1.7 EUR
 currency: EUR
 price: 1.7

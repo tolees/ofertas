@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N15XHB3-es Lee Scarlett Corduroy Pantalones Rosa Cameo Pink 94 30W /...'
-tags: 
+tags: tole.es
 actualPrice: 13.01 EUR
 currency: EUR
 price: 13.01

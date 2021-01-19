@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N6Y6XQ6-es Tommy Hilfiger Casual Leather Boot Botas Clasicas para...'
-tags: 
+tags: tole.es
 actualPrice: 37.2 EUR
 currency: EUR
 price: 37.2

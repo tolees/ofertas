@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PDFF5VZ-es PRIXTON - Reloj Inteligente Hombre/Mujer-Reloj Smartwatch...'
-tags: 
+tags: tole.es
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

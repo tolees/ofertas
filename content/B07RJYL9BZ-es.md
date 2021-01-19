@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RJYL9BZ-es Columbia Rainy Creek Gabardina Impermeable con Capucha...'
-tags: 
+tags: tole.es
 actualPrice: 56.09 EUR
 currency: EUR
 price: 56.09

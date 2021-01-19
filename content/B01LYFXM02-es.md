@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYFXM02-es Babyline Toile - Saco de silla de paseo color azul'
-tags: 
+tags: tole.es
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

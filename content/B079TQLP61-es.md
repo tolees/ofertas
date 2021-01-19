@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079TQLP61-es Montichelvo 55785 Bolsa Deporte Infantil Multicolour 50 cm'
-tags: 
+tags: tole.es
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

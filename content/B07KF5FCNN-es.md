@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF5FCNN-es Levi s 502 Regular Taper Vaqueros Azul Baltic Adapt 0472...'
-tags: 
+tags: tole.es
 actualPrice: 25.21 EUR
 currency: EUR
 price: 25.21

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085WKCM2V-es IDEASY Actualice la Tableta de Escritura LCD de Borrado...'
-tags: 
+tags: tole.es
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

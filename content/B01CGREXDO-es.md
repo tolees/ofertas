@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CGREXDO-es STANLEY FATMAX FMC694M1-QW - Pack Cargador de 2Ah con 1...'
-tags: 
+tags: tole.es
 actualPrice: 88.59 EUR
 currency: EUR
 price: 88.59

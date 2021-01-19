@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S2QL31N-es New Balance Fresh Foam Tempo h Zapatillas de Running para...'
-tags: 
+tags: tole.es
 actualPrice: 70.47 EUR
 currency: EUR
 price: 70.47

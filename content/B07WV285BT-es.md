@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WV285BT-es Gricol Portarrollos para Papel Higiénico Porta Rollos con...'
-tags: 
+tags: tole.es
 actualPrice: 12.88 EUR
 currency: EUR
 price: 12.88

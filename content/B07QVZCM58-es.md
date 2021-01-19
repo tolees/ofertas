@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QVZCM58-es TAZEMAT Toss Game 2pcs Juguete Inflable de Reno Marrón con...'
-tags: 
+tags: tole.es
 actualPrice: 11.77 EUR
 currency: EUR
 price: 11.77

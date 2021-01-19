@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PYYWP2V-es Under Armour UA TriBase Thrive Zapatillas Deportivas para...'
-tags: 
+tags: tole.es
 actualPrice: 35.75 EUR
 currency: EUR
 price: 35.75

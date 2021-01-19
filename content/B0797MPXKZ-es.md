@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0797MPXKZ-es Huawei E5885 - Wi-Fi Móvil 300Mbps de conexión inalámbrica...'
-tags: 
+tags: tole.es
 actualPrice: 121.4 EUR
 currency: EUR
 price: 121.4

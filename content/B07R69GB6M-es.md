@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R69GB6M-es Pendrive 32GB 3 Piezas Memorias USB 2.0 - Metal Aluminio...'
-tags: 
+tags: tole.es
 actualPrice: 20.96 EUR
 currency: EUR
 price: 20.96

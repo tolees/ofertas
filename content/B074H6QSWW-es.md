@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074H6QSWW-es Russell Hobbs Supreme Steam Pro - Plancha de Ropa de Vapor...'
-tags: 
+tags: tole.es
 actualPrice: 34.44 EUR
 currency: EUR
 price: 34.44

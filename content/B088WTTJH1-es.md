@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088WTTJH1-es Oihxse Cristal Funda Compatible con Samsung Galaxy M30s...'
-tags: 
+tags: tole.es
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

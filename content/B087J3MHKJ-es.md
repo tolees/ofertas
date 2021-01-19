@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087J3MHKJ-es ZoneYan Mini Ventilador USB Portatil Ventilador de Mano...'
-tags: 
+tags: tole.es
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

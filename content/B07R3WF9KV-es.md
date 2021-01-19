@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R3WF9KV-es JACK & JONES Jfwwalcot Synthetic Suede Navy Blazer...'
-tags: 
+tags: tole.es
 actualPrice: 18.29 EUR
 currency: EUR
 price: 18.29

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K74GDK4-es Asics Patriot 10 Zapatillas de Running para Mujer Rosa...'
-tags: 
+tags: tole.es
 actualPrice: 31.49 EUR
 currency: EUR
 price: 31.49

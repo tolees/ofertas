@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00H8NMYH4-es ELITE BAGS DIA´S Bolsillo de los diabéticos negro'
-tags: 
+tags: tole.es
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

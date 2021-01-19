@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083KZCXMN-es Riñonera Pepe Jeans Sail Pequeña Negro'
-tags: 
+tags: tole.es
 actualPrice: 17.45 EUR
 currency: EUR
 price: 17.45

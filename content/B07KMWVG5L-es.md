@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KMWVG5L-es Pour Moi? Illicit Underwired Bra Sujetador con Aros Negro...'
-tags: 
+tags: tole.es
 actualPrice: 8.85 EUR
 currency: EUR
 price: 8.85

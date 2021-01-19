@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001CBVORE-es Singer Tradition 2263 Máquina de Coser Blanco'
-tags: 
+tags: tole.es
 actualPrice: 121.66 EUR
 currency: EUR
 price: 121.66

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FY1PWLP-es Philips Hue Play Barra de luz regulable compatible con...'
-tags: 
+tags: tole.es
 actualPrice: 93.89 EUR
 currency: EUR
 price: 93.89

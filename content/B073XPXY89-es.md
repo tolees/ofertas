@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073XPXY89-es Cébé CBH256 Cascos de Esquí Unisex Adulto Gris Matt Ciment...'
-tags: 
+tags: tole.es
 actualPrice: 35.03 EUR
 currency: EUR
 price: 35.03

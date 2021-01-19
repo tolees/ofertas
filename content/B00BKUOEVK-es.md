@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BKUOEVK-es Astor Big & Beautiful Boom Máscara de Pestañas Tono 800...'
-tags: 
+tags: tole.es
 actualPrice: 5.2 EUR
 currency: EUR
 price: 5.2

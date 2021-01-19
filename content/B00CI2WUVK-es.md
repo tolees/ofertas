@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CI2WUVK-es NANOCABLE 10.20.0103-BL - Cable de Red Ethernet RJ45...'
-tags: 
+tags: tole.es
 actualPrice: 1.27 EUR
 currency: EUR
 price: 1.27

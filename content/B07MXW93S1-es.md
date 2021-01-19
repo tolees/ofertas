@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXW93S1-es SALOMON Wayfarer Lt Pantalones Cortos Hombre Azul Night...'
-tags: 
+tags: tole.es
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074M7HRSJ-es Bandeja de Hielo Diamante Moldes para Cubitos de Hielo...'
-tags: 
+tags: tole.es
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

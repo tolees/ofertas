@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RFNGZ3T-es Columbia Vitesse Outdry Zapatillas de Deporte para Mujer...'
-tags: 
+tags: tole.es
 actualPrice: 71.95 EUR
 currency: EUR
 price: 71.95

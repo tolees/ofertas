@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WTHJ1XO-es AmazonBasics - Riñonera de viaje con tecnología RFID Negro'
-tags: 
+tags: tole.es
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

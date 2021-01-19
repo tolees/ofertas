@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VX4XGI-es Timberland 6-Inch Premium Boot Botas para Hombre Negro...'
-tags: 
+tags: tole.es
 actualPrice: 137.49 EUR
 currency: EUR
 price: 137.49

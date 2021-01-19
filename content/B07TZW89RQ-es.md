@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZW89RQ-es Kipling Abanu Bolsos con Bandolera para Mujer Amarillo...'
-tags: 
+tags: tole.es
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

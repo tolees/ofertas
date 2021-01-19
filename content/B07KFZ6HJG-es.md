@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFZ6HJG-es PUMA Vista Mid WTR Zapatillas Altas Unisex Adulto Taffy-...'
-tags: 
+tags: tole.es
 actualPrice: 25.54 EUR
 currency: EUR
 price: 25.54

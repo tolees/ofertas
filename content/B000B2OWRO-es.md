@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000B2OWRO-es Reebok 6394 Zapatillas de Trail Running para Mujer Blanco...'
-tags: 
+tags: tole.es
 actualPrice: 36.26 EUR
 currency: EUR
 price: 36.26

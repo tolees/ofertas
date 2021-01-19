@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HGPSNXJ-es UMI. Essentials Marco de Fotos 20 x 25 cm Set de 8 Negro'
-tags: 
+tags: tole.es
 actualPrice: 24.79 EUR
 currency: EUR
 price: 24.79

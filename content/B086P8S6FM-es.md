@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086P8S6FM-es POMILE HD cámara web computadora portátil USB PC cámara...'
-tags: 
+tags: tole.es
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

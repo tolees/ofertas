@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089DGWLZ7-es luosh Kraft Paper Roll 10m Rollo de Papel de Dibujo Blanco...'
-tags: 
+tags: tole.es
 actualPrice: 16.04 EUR
 currency: EUR
 price: 16.04

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGYWND3-es El Naturalista N5311 Iris Coral Botines para Mujer Negro...'
-tags: 
+tags: tole.es
 actualPrice: 74.95 EUR
 currency: EUR
 price: 74.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XWY7CVR-es New Balance WL574EB Zapatillas Mujer Negro Black 41 EU'
-tags: 
+tags: tole.es
 actualPrice: 65.95 EUR
 currency: EUR
 price: 65.95

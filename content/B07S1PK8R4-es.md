@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S1PK8R4-es New Balance 373v2 Zapatillas para Mujer Azul Navy Be2 36.5 EU'
-tags: 
+tags: tole.es
 actualPrice: 43.94 EUR
 currency: EUR
 price: 43.94

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HP732FC-es Skechers Men s Status 2.0 PEXTON Boat Shoes Grey Taupe...'
-tags: 
+tags: tole.es
 actualPrice: 48.47 EUR
 currency: EUR
 price: 48.47

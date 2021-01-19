@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AA22ICK-es Pawhut Escalera de Mascotas Escalera para Gatos Perros...'
-tags: 
+tags: tole.es
 actualPrice: 20.79 EUR
 currency: EUR
 price: 20.79

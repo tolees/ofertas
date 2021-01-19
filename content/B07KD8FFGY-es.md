@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KD8FFGY-es Nike M NSW Club Hoodie FZ BB Sweatshirt Hombre Midnight...'
-tags: 
+tags: tole.es
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

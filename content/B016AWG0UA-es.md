@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016AWG0UA-es ASUS BE249QLB 23.8" Full HD IPS Mate Negro Pantalla para...'
-tags: 
+tags: tole.es
 actualPrice: 129.93 EUR
 currency: EUR
 price: 129.93

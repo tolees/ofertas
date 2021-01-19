@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005HF4GKS-es Han Rondo - Organizador de escritorio 9 compartimentos...'
-tags: 
+tags: tole.es
 actualPrice: 8.47 EUR
 currency: EUR
 price: 8.47

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0771GLCZL-es Eastpak Tranverz S Maleta 51 cm 42 L Gris Black Denim'
-tags: 
+tags: tole.es
 actualPrice: 70.2 EUR
 currency: EUR
 price: 70.2

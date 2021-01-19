@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074MKCXLH-es Havaianas Brasil Logo Zehentrenner Unisex-Erwachsene Negro...'
-tags: 
+tags: tole.es
 actualPrice: 6.01 EUR
 currency: EUR
 price: 6.01

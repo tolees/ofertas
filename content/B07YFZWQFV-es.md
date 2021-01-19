@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YFZWQFV-es Marca Amazon - find. High Heel Point Court Zapatos de...'
-tags: 
+tags: tole.es
 actualPrice: 9.92 EUR
 currency: EUR
 price: 9.92

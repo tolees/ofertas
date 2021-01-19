@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2SLYF5-es Armani Exchange - Embossed Logo Crossbody Bag Bolsos...'
-tags: 
+tags: tole.es
 actualPrice: 58.31 EUR
 currency: EUR
 price: 58.31

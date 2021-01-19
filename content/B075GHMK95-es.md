@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075GHMK95-es fanola Violet bleac de conmutación Powder – blondier polvo...'
-tags: 
+tags: tole.es
 actualPrice: 15.86 EUR
 currency: EUR
 price: 15.86

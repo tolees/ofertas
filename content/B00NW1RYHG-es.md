@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NW1RYHG-es Kenwood KAH647PL Accesorio procesador de alimentos...'
-tags: 
+tags: tole.es
 actualPrice: 107.06 EUR
 currency: EUR
 price: 107.06

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZMDDLN-es Gant Pinestreet Zapatillas para Mujer Rosa Silver Pink...'
-tags: 
+tags: tole.es
 actualPrice: 24.91 EUR
 currency: EUR
 price: 24.91

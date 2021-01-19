@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GLGXBN6-es Timex Reloj de Pulsera TW2R70200'
-tags: 
+tags: tole.es
 actualPrice: 74.25 EUR
 currency: EUR
 price: 74.25

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076KNGGCN-es MSI WS63VR 7RL-072ES - Ordenador portátil de 15.6" UHD...'
-tags: 
+tags: tole.es
 actualPrice: 1957.65 EUR
 currency: EUR
 price: 1957.65

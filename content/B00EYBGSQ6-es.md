@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EYBGSQ6-es Invicta'
-tags: 
+tags: tole.es
 actualPrice: 31.25 EUR
 currency: EUR
 price: 31.25

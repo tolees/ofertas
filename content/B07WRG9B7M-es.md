@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WRG9B7M-es 6amLifestyle Alfombrilla para Raton Grande 800 * 300 * 4mm...'
-tags: 
+tags: tole.es
 actualPrice: 14.88 EUR
 currency: EUR
 price: 14.88

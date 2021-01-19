@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGRGS98-es Zippy ZY Retro Zapatillas de Estar por casa para Bebés...'
-tags: 
+tags: tole.es
 actualPrice: 6.02 EUR
 currency: EUR
 price: 6.02

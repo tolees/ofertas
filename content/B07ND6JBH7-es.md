@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ND6JBH7-es Dockers Laundered Poplin Shirt Camisa Azul Prater Light...'
-tags: 
+tags: tole.es
 actualPrice: 11.8 EUR
 currency: EUR
 price: 11.8

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H9QRXDX-es RGBW LED Strip Super Night [Only LED Strip Lights] SMD...'
-tags: 
+tags: tole.es
 actualPrice: 11.48 EUR
 currency: EUR
 price: 11.48

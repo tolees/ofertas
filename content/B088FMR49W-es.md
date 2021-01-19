@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088FMR49W-es Hd101 2.5"USB 3.0 Disco Duro Externo Caja de extracción de...'
-tags: 
+tags: tole.es
 actualPrice: 5.61 EUR
 currency: EUR
 price: 5.61

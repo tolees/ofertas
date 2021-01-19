@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SGCNRKC-es Asics Lyte Classic Zapatillas para Correr para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 34.86 EUR
 currency: EUR
 price: 34.86

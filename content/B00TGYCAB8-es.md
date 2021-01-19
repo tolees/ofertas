@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TGYCAB8-es Charging Station Para Mandos PS4'
-tags: 
+tags: tole.es
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

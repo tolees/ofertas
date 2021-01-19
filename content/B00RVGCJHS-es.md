@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RVGCJHS-es TenGO RT3067BT - Mando de juegos Bluetooth'
-tags: 
+tags: tole.es
 actualPrice: 25.17 EUR
 currency: EUR
 price: 25.17

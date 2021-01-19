@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K4R7WYU-es LEABAGS Havana Bolso Bandolera de Cuero auténtico de...'
-tags: 
+tags: tole.es
 actualPrice: 98.98 EUR
 currency: EUR
 price: 98.98

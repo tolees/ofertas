@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GBDXGKN-es Pulsar Reloj cronografo para Hombre de Energía Solar con...'
-tags: 
+tags: tole.es
 actualPrice: 123.48 EUR
 currency: EUR
 price: 123.48

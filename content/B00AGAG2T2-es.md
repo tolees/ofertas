@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AGAG2T2-es Campingaz Coolbag Nevera Flexible 13 l KÃ¼hltasche Carry...'
-tags: 
+tags: tole.es
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

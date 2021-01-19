@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D8Z3UGY-es Pierre Cardin Reloj Analogico para Mujer de Cuarzo con...'
-tags: 
+tags: tole.es
 actualPrice: 38.86 EUR
 currency: EUR
 price: 38.86

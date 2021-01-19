@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06ZYRFH3D-es Beko BWH50EUC - Termo eléctrico / calentador 50 litros...'
-tags: 
+tags: tole.es
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

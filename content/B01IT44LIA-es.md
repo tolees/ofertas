@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IT44LIA-es LaCasa - Turron Praline De Trufa 225 g'
-tags: 
+tags: tole.es
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

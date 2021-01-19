@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QFLYVJV-es Victorem NBA Michael Jordan #23 Camiseta de Baloncesto...'
-tags: 
+tags: tole.es
 actualPrice: 10.06 EUR
 currency: EUR
 price: 10.06

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H5VLQ9A-es Cosmoplast Apósitos Impermeables - 20 Unidades'
-tags: 
+tags: tole.es
 actualPrice: 1.8 EUR
 currency: EUR
 price: 1.8

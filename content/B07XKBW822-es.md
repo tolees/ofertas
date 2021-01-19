@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XKBW822-es Skechers Solar Fuse KRYZIK Zapatillas para Hombre Negro...'
-tags: 
+tags: tole.es
 actualPrice: 48.95 EUR
 currency: EUR
 price: 48.95

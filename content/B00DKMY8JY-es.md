@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DKMY8JY-es Burberry London Men Perfume - 50 ml'
-tags: 
+tags: tole.es
 actualPrice: 17.24 EUR
 currency: EUR
 price: 17.24

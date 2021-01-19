@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SMQT867-es ASICS Gel-Lyte Runner 2 Zapatillas para Correr para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 42.26 EUR
 currency: EUR
 price: 42.26

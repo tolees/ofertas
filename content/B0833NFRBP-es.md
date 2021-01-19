@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0833NFRBP-es Thicken The Body ḔxtêṈṧióṈ Dêl ḔxtêṈṧôr Dêl PêṈê PêṈê...'
-tags: 
+tags: tole.es
 actualPrice: 14.19 EUR
 currency: EUR
 price: 14.19

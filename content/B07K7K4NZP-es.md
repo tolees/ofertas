@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K7K4NZP-es Asics Gel-Fujitrabuco 7 G-TX Zapatillas de Entrenamiento...'
-tags: 
+tags: tole.es
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

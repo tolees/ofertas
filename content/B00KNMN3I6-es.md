@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KNMN3I6-es Onitsuka Tiger Mexico 66 Zapatillas Unisex Blanco...'
-tags: 
+tags: tole.es
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

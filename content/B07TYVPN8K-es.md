@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYVPN8K-es Skechers Arya-Airy Days Bailarinas con Punta Cerrada para...'
-tags: 
+tags: tole.es
 actualPrice: 44.47 EUR
 currency: EUR
 price: 44.47

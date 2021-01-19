@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CK5RV59-es Calvin Klein Strapless Lift Multiway Sujetador de...'
-tags: 
+tags: tole.es
 actualPrice: 15.01 EUR
 currency: EUR
 price: 15.01

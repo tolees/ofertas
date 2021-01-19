@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0872TGHHV-es Filtros reemplazables unisex de 5 capas antipolvo y niebla...'
-tags: 
+tags: tole.es
 actualPrice: 8.43 EUR
 currency: EUR
 price: 8.43

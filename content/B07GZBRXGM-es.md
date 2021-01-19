@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZBRXGM-es XCYYOO [1-Pack]para Samsung Galaxy S8 Plus Protector de...'
-tags: 
+tags: tole.es
 actualPrice: 1.03 EUR
 currency: EUR
 price: 1.03

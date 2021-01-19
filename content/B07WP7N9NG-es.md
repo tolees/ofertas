@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WP7N9NG-es Cepillo Dientes Bambu Cepillo de Dientes Bambu Sostenibles...'
-tags: 
+tags: tole.es
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

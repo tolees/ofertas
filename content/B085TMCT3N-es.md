@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085TMCT3N-es Mandarina Duck MD20 Bandolera Coral'
-tags: 
+tags: tole.es
 actualPrice: 68.75 EUR
 currency: EUR
 price: 68.75

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P6XMMWT-es Pop! Bobble: Marvel: Venom S2 - Storm'
-tags: 
+tags: tole.es
 actualPrice: 8.22 EUR
 currency: EUR
 price: 8.22

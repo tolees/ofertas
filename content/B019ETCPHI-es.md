@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019ETCPHI-es Under Armour 1268951-001 Zapatillas de Senderismo Negro...'
-tags: 
+tags: tole.es
 actualPrice: 67.4 EUR
 currency: EUR
 price: 67.4

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077FY85FT-es New Balance MA33 Zapatillas Deportivas para Interior para...'
-tags: 
+tags: tole.es
 actualPrice: 42.62 EUR
 currency: EUR
 price: 42.62

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BI9IGGQ-es Somatoline Use & Go Spray Reductor - 200 ml'
-tags: 
+tags: tole.es
 actualPrice: 24.85 EUR
 currency: EUR
 price: 24.85

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TQT4DVJ-es Cadmus Pantalones Cortos de compresión para Mujer de...'
-tags: 
+tags: tole.es
 actualPrice: 16.09 EUR
 currency: EUR
 price: 16.09

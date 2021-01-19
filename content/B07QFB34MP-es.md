@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QFB34MP-es Pablosky 334320 Merceditas para Niñas Azul Azul Azul 24 EU'
-tags: 
+tags: tole.es
 actualPrice: 17.2 EUR
 currency: EUR
 price: 17.2

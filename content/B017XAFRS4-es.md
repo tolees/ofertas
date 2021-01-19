@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017XAFRS4-es Kärcher Pistola pulverizadora 2.645-265.0'
-tags: 
+tags: tole.es
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

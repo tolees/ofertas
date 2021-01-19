@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7CKS95-es adidas Light ANK 3pp Socks Unisex Adulto Medium Grey...'
-tags: 
+tags: tole.es
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SXT47V4-es adidas Ultraboost 19 W Zapatillas de Running para Mujer...'
-tags: 
+tags: tole.es
 actualPrice: 112 EUR
 currency: EUR
 price: 112

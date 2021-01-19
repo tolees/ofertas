@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086KXZ6W2-es Arthome 43.5 × 305cm Muebles De Ladrillo Blanco Pegatinas...'
-tags: 
+tags: tole.es
 actualPrice: 13.98 EUR
 currency: EUR
 price: 13.98

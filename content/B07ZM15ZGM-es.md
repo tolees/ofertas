@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZM15ZGM-es NMDD Ornament Skulptur Handwerk Abstrakte Kunst Dekoration...'
-tags: 
+tags: tole.es
 actualPrice: 80.99 EUR
 currency: EUR
 price: 80.99

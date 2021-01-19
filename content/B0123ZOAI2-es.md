@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0123ZOAI2-es Yamaha WX- 030 - Altavoz de streaming con conexión...'
-tags: 
+tags: tole.es
 actualPrice: 182.78 EUR
 currency: EUR
 price: 182.78

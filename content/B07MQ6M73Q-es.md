@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQ6M73Q-es Scotch & Soda Mott-Classic Garment-dyed Twill Chino...'
-tags: 
+tags: tole.es
 actualPrice: 22.34 EUR
 currency: EUR
 price: 22.34

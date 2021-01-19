@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VR3BFR9-es SDBAUX Multi 4 en 1 Cable de carga 1.2m cable de cargador...'
-tags: 
+tags: tole.es
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

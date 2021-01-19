@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG1NG41-es PUMA LQDCELL Tension Zapatillas Deportivas para Interior...'
-tags: 
+tags: tole.es
 actualPrice: 53.71 EUR
 currency: EUR
 price: 53.71

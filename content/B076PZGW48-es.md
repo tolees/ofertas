@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076PZGW48-es EatekPower Tijeras Cocina Heavy Duty Scissors Tijeras de...'
-tags: 
+tags: tole.es
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

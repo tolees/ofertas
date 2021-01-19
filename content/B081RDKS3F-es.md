@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081RDKS3F-es BRIKSMAX Kit de Iluminación Led para Lego Technic Camión...'
-tags: 
+tags: tole.es
 actualPrice: 76.99 EUR
 currency: EUR
 price: 76.99

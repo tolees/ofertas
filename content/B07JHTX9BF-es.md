@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JHTX9BF-es Liebeskind Berlin - Dive Bag Beltbag Bolsos bandolera...'
-tags: 
+tags: tole.es
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

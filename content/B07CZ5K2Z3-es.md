@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZ5K2Z3-es Salomon RX Moc 4.0 Calzado de recuperación para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

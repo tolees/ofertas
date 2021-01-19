@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKTR9DB-es UNO de 50 Ahora o Nunca'
-tags: 
+tags: tole.es
 actualPrice: 139.3 EUR
 currency: EUR
 price: 139.3

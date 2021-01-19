@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RJYLBJH-es ARTESANIA CERDA MOCHILA CASUAL MODA MICKEY'
-tags: 
+tags: tole.es
 actualPrice: 13.6 EUR
 currency: EUR
 price: 13.6

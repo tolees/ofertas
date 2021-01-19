@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CDCKXLQ-es qingqingR Condones más vendidos Condón lubricado de látex...'
-tags: 
+tags: tole.es
 actualPrice: 5.34 EUR
 currency: EUR
 price: 5.34

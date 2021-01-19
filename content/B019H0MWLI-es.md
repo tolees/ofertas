@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019H0MWLI-es Calzoncillo de carreras para hombre traje de baño HEAD...'
-tags: 
+tags: tole.es
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

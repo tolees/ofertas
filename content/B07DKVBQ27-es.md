@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKVBQ27-es Lacoste Sport Th3377 Camiseta Plateado Argent Chiné/Noir...'
-tags: 
+tags: tole.es
 actualPrice: 30.79 EUR
 currency: EUR
 price: 30.79

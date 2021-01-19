@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J6QX5V8-es Hackett Aston Martin Racing Polo Blanco White/Multi 8aj...'
-tags: 
+tags: tole.es
 actualPrice: 60.5 EUR
 currency: EUR
 price: 60.5

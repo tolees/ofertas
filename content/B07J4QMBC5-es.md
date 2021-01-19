@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J4QMBC5-es Pop! Stranger Things - Figura de Vinilo Movie Moment...'
-tags: 
+tags: tole.es
 actualPrice: 21.33 EUR
 currency: EUR
 price: 21.33

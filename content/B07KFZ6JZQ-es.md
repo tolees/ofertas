@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFZ6JZQ-es PUMA Carina Lux L Zapatillas para Mujer White White 41 EU'
-tags: 
+tags: tole.es
 actualPrice: 31.92 EUR
 currency: EUR
 price: 31.92

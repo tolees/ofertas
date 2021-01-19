@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01I7V2KYW-es Imac 5-96696 Bebedero Pájaros Tweety - 100 ml'
-tags: 
+tags: tole.es
 actualPrice: 0.49 EUR
 currency: EUR
 price: 0.49

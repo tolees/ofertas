@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DZMCX28-es Leotec Hardy Life VERDE'
-tags: 
+tags: tole.es
 actualPrice: 27.32 EUR
 currency: EUR
 price: 27.32

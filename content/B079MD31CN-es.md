@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079MD31CN-es Salomon XA Pro 3D CSWP J Zapatillas de Deporte Unisex...'
-tags: 
+tags: tole.es
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081GSRDS5-es VaKo Hub USB C a HDMI 12 En 1 Pantalla Triple Adaptador...'
-tags: 
+tags: tole.es
 actualPrice: 63.34 EUR
 currency: EUR
 price: 63.34

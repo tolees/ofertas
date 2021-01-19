@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NXVN39N-es Skechers Elite Flex Zapatillas para Hombre Negro Black...'
-tags: 
+tags: tole.es
 actualPrice: 43.09 EUR
 currency: EUR
 price: 43.09

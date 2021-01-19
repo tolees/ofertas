@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M5AH7UG-es New Balance ML373 Zapatillas para Hombre Azul Navy 42.5 EU'
-tags: 
+tags: tole.es
 actualPrice: 43.35 EUR
 currency: EUR
 price: 43.35

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083FSWYB1-es MOBIUSPHY Pantalon Corto Hombre Deporte Pantalones Cortos...'
-tags: 
+tags: tole.es
 actualPrice: 13.97 EUR
 currency: EUR
 price: 13.97

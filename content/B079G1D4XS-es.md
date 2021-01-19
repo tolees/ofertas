@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079G1D4XS-es find. Botín de Ante con Tacón Mujer Beige Taupe Taupe 39 EU'
-tags: 
+tags: tole.es
 actualPrice: 18 EUR
 currency: EUR
 price: 18

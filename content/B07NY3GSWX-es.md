@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NY3GSWX-es IKOHS PRO WELLNESS - Báscula de Baño Blanco'
-tags: 
+tags: tole.es
 actualPrice: 22.46 EUR
 currency: EUR
 price: 22.46

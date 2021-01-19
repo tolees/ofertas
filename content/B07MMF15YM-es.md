@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMF15YM-es Cerdá 2200004037 Toalla Polyester Mickey Negro 70x140cm'
-tags: 
+tags: tole.es
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001J4ILAC-es Casio Reloj de Pulsera LW-200D-4AVEF'
-tags: 
+tags: tole.es
 actualPrice: 27.03 EUR
 currency: EUR
 price: 27.03

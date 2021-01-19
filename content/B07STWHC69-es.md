@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STWHC69-es Peppa Pig- Casa Gigante De Madera Multicolor Bandai CO07004'
-tags: 
+tags: tole.es
 actualPrice: 91.27 EUR
 currency: EUR
 price: 91.27

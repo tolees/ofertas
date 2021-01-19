@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFNRZ1V-es Levi s Essential Polo Azul Sea Captain Blue 0005 Medium...'
-tags: 
+tags: tole.es
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

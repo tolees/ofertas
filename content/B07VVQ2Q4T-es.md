@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VVQ2Q4T-es Depiladora de Luz Pulsada 2NLF Depilación Definitiva...'
-tags: 
+tags: tole.es
 actualPrice: 66.99 EUR
 currency: EUR
 price: 66.99

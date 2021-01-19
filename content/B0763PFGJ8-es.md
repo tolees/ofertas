@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0763PFGJ8-es Police Reloj Analógico para Hombre de Cuarzo con Correa en...'
-tags: 
+tags: tole.es
 actualPrice: 104.06 EUR
 currency: EUR
 price: 104.06

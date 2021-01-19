@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TTBLRZL-es Colágeno Marino con Ácido Hialurónico Coenzima Q10...'
-tags: 
+tags: tole.es
 actualPrice: 13.42 EUR
 currency: EUR
 price: 13.42

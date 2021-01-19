@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LIT3LT8-es Bosch BHN09070 Sin bolsa Azul Plata - Aspiradora Secar Sin...'
-tags: 
+tags: tole.es
 actualPrice: 16.26 EUR
 currency: EUR
 price: 16.26

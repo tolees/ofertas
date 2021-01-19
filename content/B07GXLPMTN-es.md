@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GXLPMTN-es Adidas Falcon W Sneaker Womens Footwear White/Footwear...'
-tags: 
+tags: tole.es
 actualPrice: 69.55 EUR
 currency: EUR
 price: 69.55

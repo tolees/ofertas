@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZ54SPQ-es Women s Secret Black & White Multilicense Mbw MF Igloo PJ...'
-tags: 
+tags: tole.es
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

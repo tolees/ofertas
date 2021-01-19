@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087WHRRW7-es Dustgo Tiras de Prueba de Piscina- Medidor ph 7 en 1 con...'
-tags: 
+tags: tole.es
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

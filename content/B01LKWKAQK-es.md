@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LKWKAQK-es Epson WFDS570W - Escáner de Documentos en Color A4...'
-tags: 
+tags: tole.es
 actualPrice: 329.64 EUR
 currency: EUR
 price: 329.64

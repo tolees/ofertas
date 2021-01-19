@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RC6GVV2-es Puma Laliga 1 Hybrid Balón de Fútbol Unisex Adulto Gris...'
-tags: 
+tags: tole.es
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

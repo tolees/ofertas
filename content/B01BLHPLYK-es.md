@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BLHPLYK-es Clarins Crema diurna facial - 50 gr.'
-tags: 
+tags: tole.es
 actualPrice: 36.95 EUR
 currency: EUR
 price: 36.95

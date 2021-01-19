@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075R7RBZ9-es Zapatillas New Balance – Lifestyle Retro 90s...'
-tags: 
+tags: tole.es
 actualPrice: 66.0 EUR
 currency: EUR
 price: 66.0

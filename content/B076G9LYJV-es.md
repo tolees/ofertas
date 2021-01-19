@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076G9LYJV-es Pepe Jeans Sloane PM210564 Pantalones Marrón Stone 836 33W...'
-tags: 
+tags: tole.es
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

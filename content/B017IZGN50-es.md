@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017IZGN50-es Elizabeth Arden Ceramide Time Complex Desmaquillante...'
-tags: 
+tags: tole.es
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

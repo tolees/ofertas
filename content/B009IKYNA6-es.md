@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009IKYNA6-es Wikango 97-W600 Avisador de Radares Europa'
-tags: 
+tags: tole.es
 actualPrice: 57.0 EUR
 currency: EUR
 price: 57.0

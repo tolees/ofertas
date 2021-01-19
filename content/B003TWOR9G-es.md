@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003TWOR9G-es Bosch Professional - Broca de diamante para perforación en...'
-tags: 
+tags: tole.es
 actualPrice: 25.84 EUR
 currency: EUR
 price: 25.84

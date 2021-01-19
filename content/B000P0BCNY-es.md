@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000P0BCNY-es Grohe - Cartucho 46mm con discos cerámicos y limitador eco...'
-tags: 
+tags: tole.es
 actualPrice: 24.77 EUR
 currency: EUR
 price: 24.77

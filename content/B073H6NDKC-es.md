@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073H6NDKC-es adidas Core18 Sweat Top Sweatshirts Hombre Black/White M'
-tags: 
+tags: tole.es
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

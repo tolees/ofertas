@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01E0BCRXW-es Superga 2750 COTU Classic Zapatillas Unisex Gris Grau 908...'
-tags: 
+tags: tole.es
 actualPrice: 41.73 EUR
 currency: EUR
 price: 41.73

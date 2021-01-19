@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SOX5JUQ-es Guess W0289L2 - Reloj de Pulsera para Mujer Color...'
-tags: 
+tags: tole.es
 actualPrice: 135.95 EUR
 currency: EUR
 price: 135.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZWX9UM-es Polti Unico MCV80 Total Clean & Turbo Aspirador...'
-tags: 
+tags: tole.es
 actualPrice: 419.0 EUR
 currency: EUR
 price: 419.0

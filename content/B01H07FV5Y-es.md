@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H07FV5Y-es BenQ ZOWIE RL2755 - Monitor de 27" para consola e-Sports...'
-tags: 
+tags: tole.es
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

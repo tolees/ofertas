@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CDDYBZK-es AYIYO - Pantalones cortos de algodón y lino para bebés de...'
-tags: 
+tags: tole.es
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

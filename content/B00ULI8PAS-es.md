@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ULI8PAS-es Samsonite Neopulse - Spinner L Maleta 75 cm 94 L Marrón...'
-tags: 
+tags: tole.es
 actualPrice: 252.42 EUR
 currency: EUR
 price: 252.42

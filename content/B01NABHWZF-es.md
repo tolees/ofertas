@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NABHWZF-es Lacoste PJ2909 Polo Negro Noir 14 años para Niños'
-tags: 
+tags: tole.es
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

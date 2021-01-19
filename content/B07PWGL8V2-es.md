@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PWGL8V2-es Fossil Reloj Analogico para Mujer de Cuarzo con Correa en...'
-tags: 
+tags: tole.es
 actualPrice: 57.0 EUR
 currency: EUR
 price: 57.0

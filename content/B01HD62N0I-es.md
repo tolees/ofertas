@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HD62N0I-es Salomon Speedcross 4 Zapatillas de Trail Running para...'
-tags: 
+tags: tole.es
 actualPrice: 74.92 EUR
 currency: EUR
 price: 74.92

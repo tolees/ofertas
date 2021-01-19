@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071WCWTRF-es Crocs Classic Clog Zuecos Unisex Adulto Verde Grass Green...'
-tags: 
+tags: tole.es
 actualPrice: 25.5 EUR
 currency: EUR
 price: 25.5

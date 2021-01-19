@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BPCFYZR-es Cabello fuerte uñas y piel con BIOTIN + ZINC ortiga...'
-tags: 
+tags: tole.es
 actualPrice: 24.77 EUR
 currency: EUR
 price: 24.77

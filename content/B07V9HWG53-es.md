@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V9HWG53-es BOSS Schino-Slim D Pantalones Plateado Silver 43 W36/L36...'
-tags: 
+tags: tole.es
 actualPrice: 59.91 EUR
 currency: EUR
 price: 59.91

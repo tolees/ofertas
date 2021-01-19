@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J37RVPQ-es Under Armour Playoff 2.0 Polo Hombre Morado Optic...'
-tags: 
+tags: tole.es
 actualPrice: 18.59 EUR
 currency: EUR
 price: 18.59

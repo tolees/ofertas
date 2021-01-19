@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MHBFFSL-es Star vie Aquila Pro'
-tags: 
+tags: tole.es
 actualPrice: 102.5 EUR
 currency: EUR
 price: 102.5

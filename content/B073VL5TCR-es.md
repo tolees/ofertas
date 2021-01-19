@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073VL5TCR-es Avaspot Difusor de Aceites Esenciales 250ml humidificador...'
-tags: 
+tags: tole.es
 actualPrice: 15.19 EUR
 currency: EUR
 price: 15.19

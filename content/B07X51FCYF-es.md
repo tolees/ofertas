@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X51FCYF-es Eastpak Traf ik Light L Maleta 85 cm 101 L Negro Blackout...'
-tags: 
+tags: tole.es
 actualPrice: 60.8 EUR
 currency: EUR
 price: 60.8

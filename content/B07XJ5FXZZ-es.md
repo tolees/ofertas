@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XJ5FXZZ-es Luz Solar Exterior QTshine Foco Solar Exterior 118...'
-tags: 
+tags: tole.es
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

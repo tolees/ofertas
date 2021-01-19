@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSQ8TR3-es Skechers Delson 2.0 Larwin Zapatillas sin Cordones para...'
-tags: 
+tags: tole.es
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVV94P8-es TOUS BRIGHT - Pendientes amatista hidrotermal con base de...'
-tags: 
+tags: tole.es
 actualPrice: 69 EUR
 currency: EUR
 price: 69

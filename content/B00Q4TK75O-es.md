@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Q4TK75O-es AmazonBasics FTD Sábanas Ajustables 90 x 190 x 30 cm Azul'
-tags: 
+tags: tole.es
 actualPrice: 2.85 EUR
 currency: EUR
 price: 2.85

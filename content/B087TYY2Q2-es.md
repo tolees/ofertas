@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087TYY2Q2-es JOEAIS Tableta Escritura LCD 8 5 Pulgadas Anti-caída...'
-tags: 
+tags: tole.es
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

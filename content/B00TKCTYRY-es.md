@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TKCTYRY-es Cashmere Dreams - Pañuelo de seda en un diseño único -...'
-tags: 
+tags: tole.es
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JLYEMN6-es Wooden Magic Única Cereza 30 cm Sistema de ajedrez de...'
-tags: 
+tags: tole.es
 actualPrice: 30.79 EUR
 currency: EUR
 price: 30.79

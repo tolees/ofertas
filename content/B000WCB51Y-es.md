@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000WCB51Y-es STANLEY 1-93-329 - Cinturón portaherramientas de Nylon'
-tags: 
+tags: tole.es
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

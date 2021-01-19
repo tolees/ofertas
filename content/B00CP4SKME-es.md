@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CP4SKME-es Portobello 2.5267 Gin No. 171 70cl'
-tags: 
+tags: tole.es
 actualPrice: 23.88 EUR
 currency: EUR
 price: 23.88

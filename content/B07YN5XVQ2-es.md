@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YN5XVQ2-es Blindecor Estor enrollable translúcido digital Zen...'
-tags: 
+tags: tole.es
 actualPrice: 72.1 EUR
 currency: EUR
 price: 72.1

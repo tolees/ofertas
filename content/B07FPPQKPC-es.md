@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FPPQKPC-es Zafferano Poldina Lámpara de Mesa LED Recargable Regulable...'
-tags: 
+tags: tole.es
 actualPrice: 88.0 EUR
 currency: EUR
 price: 88.0

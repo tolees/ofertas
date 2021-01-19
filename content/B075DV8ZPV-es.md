@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075DV8ZPV-es GOXAWEE Mini Disco Corte Diamante & Mini Hoja de Sierra...'
-tags: 
+tags: tole.es
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

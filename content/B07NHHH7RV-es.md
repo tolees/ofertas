@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NHHH7RV-es Kipling - Creativity L Monederos Mujer Verde Seagrass...'
-tags: 
+tags: tole.es
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

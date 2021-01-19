@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NY3PY3Y-es Superdry Core Utility Pant Pantalones Negro Black 02a 50...'
-tags: 
+tags: tole.es
 actualPrice: 21.39 EUR
 currency: EUR
 price: 21.39

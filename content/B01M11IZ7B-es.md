@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M11IZ7B-es Scottex Sensitive Papel Higiénico - 18 Rollos'
-tags: 
+tags: tole.es
 actualPrice: 6.83 EUR
 currency: EUR
 price: 6.83

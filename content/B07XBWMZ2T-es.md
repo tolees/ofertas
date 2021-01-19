@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XBWMZ2T-es Manija de puerta Star Design Crash Pad Perilla de puerta...'
-tags: 
+tags: tole.es
 actualPrice: 3.79 EUR
 currency: EUR
 price: 3.79

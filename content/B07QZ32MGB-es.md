@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QZ32MGB-es Aceites Esenciales 100% Puros y Naturales Aromaterapia...'
-tags: 
+tags: tole.es
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

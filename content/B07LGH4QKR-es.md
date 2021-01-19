@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGH4QKR-es Dodot Sensitive - Pañales Talla 5 42 Pañales 11 a 16 kg'
-tags: 
+tags: tole.es
 actualPrice: 14.04 EUR
 currency: EUR
 price: 14.04

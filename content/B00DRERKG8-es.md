@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DRERKG8-es BRA Plancha Asar Negro 35 cm'
-tags: 
+tags: tole.es
 actualPrice: 39.33 EUR
 currency: EUR
 price: 39.33

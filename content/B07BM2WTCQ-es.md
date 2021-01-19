@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BM2WTCQ-es Calcifort-D niños | Calcio puro microencapsulado con...'
-tags: 
+tags: tole.es
 actualPrice: 7.45 EUR
 currency: EUR
 price: 7.45

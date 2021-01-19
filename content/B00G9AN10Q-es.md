@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00G9AN10Q-es Continental Grand Sport Race Cubierta Unisex Negro 700 x 25'
-tags: 
+tags: tole.es
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

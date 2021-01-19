@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q4TMWMJ-es White Patchwork Quilt King Size quilts for sale Patchwork...'
-tags: 
+tags: tole.es
 actualPrice: 237.0 EUR
 currency: EUR
 price: 237.0

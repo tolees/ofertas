@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006OZW4WM-es Speedo Solid Leisure - Bañador de natación para hombre...'
-tags: 
+tags: tole.es
 actualPrice: 13.47 EUR
 currency: EUR
 price: 13.47

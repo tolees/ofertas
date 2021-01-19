@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CRPYW1L-es Panamar 360 Grados de rotación de 9.7/10.1 Pulgadas Tablet...'
-tags: 
+tags: tole.es
 actualPrice: 6.94 EUR
 currency: EUR
 price: 6.94

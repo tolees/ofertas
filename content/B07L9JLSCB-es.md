@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9JLSCB-es Under Armour Coldgear Reactor Performance 3g Hybrid...'
-tags: 
+tags: tole.es
 actualPrice: 70.5 EUR
 currency: EUR
 price: 70.5

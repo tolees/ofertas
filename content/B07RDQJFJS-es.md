@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RDQJFJS-es Slendertone Brazaletes de bíceps y tríceps H / F...'
-tags: 
+tags: tole.es
 actualPrice: 90.3 EUR
 currency: EUR
 price: 90.3

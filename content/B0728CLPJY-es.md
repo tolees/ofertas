@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0728CLPJY-es BB-9E App-Enabled Droid con Droid Trainer de Sphero'
-tags: 
+tags: tole.es
 actualPrice: 74.98 EUR
 currency: EUR
 price: 74.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JBQJ1D9-es AMD Ryzen Threadripper 2970WX - Procesador 24 cores/48...'
-tags: 
+tags: tole.es
 actualPrice: 936.45 EUR
 currency: EUR
 price: 936.45

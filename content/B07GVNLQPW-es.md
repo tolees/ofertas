@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GVNLQPW-es GHYUGR Abrigos con Horn Botones Mujer Invierno Elegantes...'
-tags: 
+tags: tole.es
 actualPrice: 27.98 EUR
 currency: EUR
 price: 27.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ID6EMJ8-es Pentel PHN-12 - Caja de 12 pasteles de aceite colores...'
-tags: 
+tags: tole.es
 actualPrice: 2.2 EUR
 currency: EUR
 price: 2.2

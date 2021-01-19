@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017SL6ECQ-es Tommy Hilfiger Core Hilfiger Regular Polo Negro Flag Black...'
-tags: 
+tags: tole.es
 actualPrice: 45.46 EUR
 currency: EUR
 price: 45.46

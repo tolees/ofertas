@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075T9LL3N-es Proyector LED de proyector detector de movimiento...'
-tags: 
+tags: tole.es
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

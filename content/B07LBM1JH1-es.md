@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBM1JH1-es Napapijri Goderich Camisa Multicolor Check C18 46 Talla...'
-tags: 
+tags: tole.es
 actualPrice: 39.5 EUR
 currency: EUR
 price: 39.5

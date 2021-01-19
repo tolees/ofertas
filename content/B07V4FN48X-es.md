@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4FN48X-es Autel MaxiCOM MK908 OBD2 Coche Herramienta de Escáner con...'
-tags: 
+tags: tole.es
 actualPrice: 1879.0 EUR
 currency: EUR
 price: 1879.0

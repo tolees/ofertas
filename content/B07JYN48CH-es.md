@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JYN48CH-es adidas Tiro19 Co Polo Camiseta Hombre Black/White XL'
-tags: 
+tags: tole.es
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

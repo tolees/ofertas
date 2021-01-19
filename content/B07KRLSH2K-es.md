@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRLSH2K-es New Balance - 574v2 Zapatillas Mujer Rojo Red/Black...'
-tags: 
+tags: tole.es
 actualPrice: 64.61 EUR
 currency: EUR
 price: 64.61

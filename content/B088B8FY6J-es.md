@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088B8FY6J-es Carrito de almacenamiento carrito de almacenamiento de 3...'
-tags: 
+tags: tole.es
 actualPrice: 25.48 EUR
 currency: EUR
 price: 25.48

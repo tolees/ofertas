@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVZ4D67-es Fenteer Papel Garland Colgando Banner Boda Cumpleaños Prom...'
-tags: 
+tags: tole.es
 actualPrice: 3.82 EUR
 currency: EUR
 price: 3.82

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N16ZSQM-es G-STAR RAW 3301 Slim Fit Jeans Negro Antic Charcoal 31W /...'
-tags: 
+tags: tole.es
 actualPrice: 47.95 EUR
 currency: EUR
 price: 47.95

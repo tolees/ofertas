@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005J8V2RS-es Levi s Free Cinturón Unisex adulto Negro Black 110 cm...'
-tags: 
+tags: tole.es
 actualPrice: 23.8 EUR
 currency: EUR
 price: 23.8

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SCM4DY9-es Lee Scarlett High Vaqueros Azul Light Florin HR 24W/31L...'
-tags: 
+tags: tole.es
 actualPrice: 73.71 EUR
 currency: EUR
 price: 73.71

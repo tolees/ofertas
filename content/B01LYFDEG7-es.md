@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYFDEG7-es Relaxdays Organizador para Escritorio Hecho de Bambú...'
-tags: 
+tags: tole.es
 actualPrice: 16.34 EUR
 currency: EUR
 price: 16.34

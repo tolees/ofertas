@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086MD22RJ-es 20 máscara de uso civil desechable 3 capas de máscara...'
-tags: 
+tags: tole.es
 actualPrice: 14.42 EUR
 currency: EUR
 price: 14.42

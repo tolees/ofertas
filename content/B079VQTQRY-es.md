@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079VQTQRY-es L Oreal Paris Age Perfect Renacimiento Celular Contorno de...'
-tags: 
+tags: tole.es
 actualPrice: 11.25 EUR
 currency: EUR
 price: 11.25

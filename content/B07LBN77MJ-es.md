@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBN77MJ-es Helly Hansen HH Logo Crew Sudadera Deportiva Mujer...'
-tags: 
+tags: tole.es
 actualPrice: 28.45 EUR
 currency: EUR
 price: 28.45

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BDQA65Y-es Artémio-Perforadora de esquinas-Croissant-25 mm'
-tags: 
+tags: tole.es
 actualPrice: 6.05 EUR
 currency: EUR
 price: 6.05

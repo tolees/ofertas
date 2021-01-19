@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074HMVTC9-es Blade Runner 2049-Funko Pop Blade Runner 2049 Figura de...'
-tags: 
+tags: tole.es
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

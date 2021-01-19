@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01E5UETEI-es Lacoste Sport Carnaby EVO BL 1 SPW Zapatillas para Mujer...'
-tags: 
+tags: tole.es
 actualPrice: 59.85 EUR
 currency: EUR
 price: 59.85

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZNQ75J-es Funko- Pop Disney: Onward-Barley Collectible Toy...'
-tags: 
+tags: tole.es
 actualPrice: 10.67 EUR
 currency: EUR
 price: 10.67

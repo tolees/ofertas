@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NRFGFTY-es Fa - Desodorante Roll-On Sport - Anti Transpirable y...'
-tags: 
+tags: tole.es
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

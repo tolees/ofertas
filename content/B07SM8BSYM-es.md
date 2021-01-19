@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SM8BSYM-es Funko Pop Heroes: Birds of Prey - Black Canary Boobytrap...'
-tags: 
+tags: tole.es
 actualPrice: 8.76 EUR
 currency: EUR
 price: 8.76

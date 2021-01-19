@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085BLXRV8-es YIMINYUER Colchonetas de Espuma para Yoga Gimnasio -...'
-tags: 
+tags: tole.es
 actualPrice: 34.43 EUR
 currency: EUR
 price: 34.43

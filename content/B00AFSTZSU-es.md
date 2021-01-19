@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AFSTZSU-es Keter - Caseta de jardín exterior Factor 6x6 con escuadra...'
-tags: 
+tags: tole.es
 actualPrice: 360.0 EUR
 currency: EUR
 price: 360.0

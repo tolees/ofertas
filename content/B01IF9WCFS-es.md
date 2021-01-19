@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IF9WCFS-es The North Face S/S Simple Dome H Camiseta de Manga Corta...'
-tags: 
+tags: tole.es
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

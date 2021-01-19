@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VP174DY-es GRULLIN Outdoor Survival Kit 13 in 1 Multi-Purpose...'
-tags: 
+tags: tole.es
 actualPrice: 16.91 EUR
 currency: EUR
 price: 16.91

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JMFZR02-es Petrus Grapas 10 hojas Largo 4 mm 1000 grapas Modelo 10 55706'
-tags: 
+tags: tole.es
 actualPrice: 0.81 EUR
 currency: EUR
 price: 0.81

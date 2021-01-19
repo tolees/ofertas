@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079VS25PG-es Casio Reloj Digital para Hombre de Cuarzo con Correa en...'
-tags: 
+tags: tole.es
 actualPrice: 94.94 EUR
 currency: EUR
 price: 94.94

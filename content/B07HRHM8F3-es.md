@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HRHM8F3-es Sennheiser MOMENTUM True Wireless - Auriculares...'
-tags: 
+tags: tole.es
 actualPrice: 174.99 EUR
 currency: EUR
 price: 174.99

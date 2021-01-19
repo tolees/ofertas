@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RSJKRQ1-es Kegel Kit de ejercicio de peso – 5 bolas de kegel para...'
-tags: 
+tags: tole.es
 actualPrice: 18.25 EUR
 currency: EUR
 price: 18.25

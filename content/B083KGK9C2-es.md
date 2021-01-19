@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083KGK9C2-es Silla de Cocina/Comedor de diseño nórdico-Scandi...'
-tags: 
+tags: tole.es
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

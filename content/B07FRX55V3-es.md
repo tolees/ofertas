@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FRX55V3-es Shadows Awakening'
-tags: 
+tags: tole.es
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D9GCJX8-es Protector WC Desechable Impermeable HTBAKOI Protector...'
-tags: 
+tags: tole.es
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

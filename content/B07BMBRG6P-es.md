@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BMBRG6P-es Wrangler Larston Jeans Indigo Wit 36W / 32L para Hombre'
-tags: 
+tags: tole.es
 actualPrice: 41.59 EUR
 currency: EUR
 price: 41.59

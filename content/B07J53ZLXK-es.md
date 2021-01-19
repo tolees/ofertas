@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J53ZLXK-es Triumph Amourette Charm W Sujetador con Aros Multicolor...'
-tags: 
+tags: tole.es
 actualPrice: 26.95 EUR
 currency: EUR
 price: 26.95

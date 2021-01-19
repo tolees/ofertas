@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VG2JLCK-es Tommy Hilfiger Corporate Belt 2.5 Cinturón Marrón Cognac...'
-tags: 
+tags: tole.es
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

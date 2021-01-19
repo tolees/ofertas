@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N1UO5KL-es Car&Gus Disfraz de Mariquita Reina para Mujer'
-tags: 
+tags: tole.es
 actualPrice: 14.28 EUR
 currency: EUR
 price: 14.28

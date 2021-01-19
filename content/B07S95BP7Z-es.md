@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S95BP7Z-es LuckyGirls • • Fashion Men s Lace Up Sports Running Casual...'
-tags: 
+tags: tole.es
 actualPrice: 10.84 EUR
 currency: EUR
 price: 10.84

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CTRNLWV-es FIND - Tender Hues - Trío de sombras de ojos n.4 n.5 n.6'
-tags: 
+tags: tole.es
 actualPrice: 2.62 EUR
 currency: EUR
 price: 2.62

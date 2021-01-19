@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076TZBWKX-es Philips Secador BHD170/40 - Secador de pelo CC Negro Rosa...'
-tags: 
+tags: tole.es
 actualPrice: 20 EUR
 currency: EUR
 price: 20

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VKLXQ5Z-es Festnight Mesa para TV Mueble TV Salón Mesa Televisión con...'
-tags: 
+tags: tole.es
 actualPrice: 175.99 EUR
 currency: EUR
 price: 175.99

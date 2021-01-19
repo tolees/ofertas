@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RZPCLIC-es Swarovski Pendientes Solitaire de Mujer chapado en tono...'
-tags: 
+tags: tole.es
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

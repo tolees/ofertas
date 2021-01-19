@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018XP9SQK-es Quamtrax Nutrition Avena Instantánea Sabor Galleta...'
-tags: 
+tags: tole.es
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

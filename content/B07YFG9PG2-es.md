@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YFG9PG2-es WD Black P50 Game Drive NVMe SSD de 2TB Velocidad de hasta...'
-tags: 
+tags: tole.es
 actualPrice: 384.0 EUR
 currency: EUR
 price: 384.0

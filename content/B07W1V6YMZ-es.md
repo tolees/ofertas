@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W1V6YMZ-es Skechers Skech-Air Stratus Super Galaxy Zapatillas para...'
-tags: 
+tags: tole.es
 actualPrice: 37.41 EUR
 currency: EUR
 price: 37.41

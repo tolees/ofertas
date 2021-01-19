@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PQ837DC-es Kipling Cindy Cartera para Mujer Plateado Steel Grey...'
-tags: 
+tags: tole.es
 actualPrice: 9.91 EUR
 currency: EUR
 price: 9.91

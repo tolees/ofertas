@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VC2MBNQ-es JACK & JONES Jcovally tee SS Crew Neck Camiseta Blanco...'
-tags: 
+tags: tole.es
 actualPrice: 5.77 EUR
 currency: EUR
 price: 5.77

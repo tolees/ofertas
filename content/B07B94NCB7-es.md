@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B94NCB7-es Clarks Ashcombemidgtx Botas Chelsea para Hombre Marrón...'
-tags: 
+tags: tole.es
 actualPrice: 74.63 EUR
 currency: EUR
 price: 74.63

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000WIGQL2-es Estee Lauder 18305 - Base de maquillaje 4N1 Shell Beige'
-tags: 
+tags: tole.es
 actualPrice: 23.5 EUR
 currency: EUR
 price: 23.5

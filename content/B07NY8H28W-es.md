@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NY8H28W-es Art Harlem Botines para Mujer Marrón Brown/Brown...'
-tags: 
+tags: tole.es
 actualPrice: 29.71 EUR
 currency: EUR
 price: 29.71

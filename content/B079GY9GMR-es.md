@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079GY9GMR-es PUMA NRGY Neko Knit Zapatillas de Running para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 28.19 EUR
 currency: EUR
 price: 28.19

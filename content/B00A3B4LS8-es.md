@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00A3B4LS8-es Essie Esmalte de Uñas 076 Merino Cool'
-tags: 
+tags: tole.es
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

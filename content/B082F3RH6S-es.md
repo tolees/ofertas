@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082F3RH6S-es Luces LED de cortina Carpa brillante 300 LED 3mx3m 4 modos...'
-tags: 
+tags: tole.es
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

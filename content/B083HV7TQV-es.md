@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083HV7TQV-es Aiglam Sistema de Enfriamiento por Nebulización Kit...'
-tags: 
+tags: tole.es
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

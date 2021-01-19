@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYN57V5-es New Balance 411 Zapatillas de Running para Mujer Rosa Pink...'
-tags: 
+tags: tole.es
 actualPrice: 27.86 EUR
 currency: EUR
 price: 27.86

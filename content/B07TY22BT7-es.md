@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TY22BT7-es Skechers Bounder Verkona Zapatillas para Hombre Rojo...'
-tags: 
+tags: tole.es
 actualPrice: 29.36 EUR
 currency: EUR
 price: 29.36

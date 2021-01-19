@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J5DT7XR-es SUPERMOM Pants Utb Tropical Pantalones premamá Multicolor...'
-tags: 
+tags: tole.es
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

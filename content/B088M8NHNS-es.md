@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088M8NHNS-es Amiiaz Cojín de Repuesto para Tumbona Silla Portátil...'
-tags: 
+tags: tole.es
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

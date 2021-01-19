@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S3V98ZX-es Muñequera Tunel Carpiano Férula Muñequera con Correa...'
-tags: 
+tags: tole.es
 actualPrice: 14.59 EUR
 currency: EUR
 price: 14.59

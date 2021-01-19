@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GJ1FV6C-es Amazon - Funda Origami para Kindle Voyage Negro'
-tags: 
+tags: tole.es
 actualPrice: 28.13 EUR
 currency: EUR
 price: 28.13

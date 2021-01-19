@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CTRNLVX-es FIND - Sunrise dance - Paleta de sombras de ojos de 10...'
-tags: 
+tags: tole.es
 actualPrice: 3.81 EUR
 currency: EUR
 price: 3.81

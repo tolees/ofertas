@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZW25D2-es Merrell Terran Lattice II Sandalia con Pulsera para Mujer...'
-tags: 
+tags: tole.es
 actualPrice: 44.79 EUR
 currency: EUR
 price: 44.79

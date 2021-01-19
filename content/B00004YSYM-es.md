@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00004YSYM-es Intex 29000 - Cartucho tipo A altura 20 2 cm & diámetros...'
-tags: 
+tags: tole.es
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

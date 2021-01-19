@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCG3HWG-es Desigual Chaq Cerezas Abrigo Azul Jeans Vaquero 5053 128...'
-tags: 
+tags: tole.es
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

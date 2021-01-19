@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WY3WHX1-es Pantalla HD Mini cámara Digital Recargable Niños Dibujos...'
-tags: 
+tags: tole.es
 actualPrice: 6.12 EUR
 currency: EUR
 price: 6.12

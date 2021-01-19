@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KPCB3K8-es Timberland Killington Chukka Zapatillas Altas para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 66.95 EUR
 currency: EUR
 price: 66.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG51X1G-es PUMA Speed Orbiter Zapatillas de Running para Hombre Black...'
-tags: 
+tags: tole.es
 actualPrice: 48.68 EUR
 currency: EUR
 price: 48.68

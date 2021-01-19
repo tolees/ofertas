@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0851FQR4N-es 40G Tamaño pequeño Hogar Hotel Baño Baño Bola de sal Bomba...'
-tags: 
+tags: tole.es
 actualPrice: 2.5 EUR
 currency: EUR
 price: 2.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071SHLT36-es DC Shoes Heathrow Zapatillas para Mujer Rojo Burgundy 36 EU'
-tags: 
+tags: tole.es
 actualPrice: 15.27 EUR
 currency: EUR
 price: 15.27

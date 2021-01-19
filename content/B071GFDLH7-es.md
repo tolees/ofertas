@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071GFDLH7-es find. Zapatillas Deportivas con Textura para Hombre Azul...'
-tags: 
+tags: tole.es
 actualPrice: 11.4 EUR
 currency: EUR
 price: 11.4

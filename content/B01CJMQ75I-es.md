@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CJMQ75I-es BH Fitness Optima Flex Banco musculación Unisex Plata/Rojo...'
-tags: 
+tags: tole.es
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

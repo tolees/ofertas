@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MPZV80Z-es Purina Dentalife golosina dental para Perro Grande Pack de...'
-tags: 
+tags: tole.es
 actualPrice: 4.38 EUR
 currency: EUR
 price: 4.38

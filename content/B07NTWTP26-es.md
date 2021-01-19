@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NTWTP26-es Skechers Men s Ultra Flex 2.0 KELMER Trainers Blue Black...'
-tags: 
+tags: tole.es
 actualPrice: 38.44 EUR
 currency: EUR
 price: 38.44

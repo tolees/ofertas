@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075GPGYFM-es Adidas VL Court 2.0 CMF I Zapatillas de Gimnasia Unisex...'
-tags: 
+tags: tole.es
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

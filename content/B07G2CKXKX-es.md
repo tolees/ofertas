@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G2CKXKX-es Mandarina Duck - Mellow Leather Tracolla Bolsos de mano...'
-tags: 
+tags: tole.es
 actualPrice: 55.94 EUR
 currency: EUR
 price: 55.94

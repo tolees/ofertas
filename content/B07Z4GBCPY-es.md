@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z4GBCPY-es MaiJin Funda para OPPO Realme 5 Pro 6 3 Pulgadas 2 en 1...'
-tags: 
+tags: tole.es
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

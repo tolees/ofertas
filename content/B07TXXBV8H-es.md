@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXXBV8H-es Wrangler High Rise Skinny Jeans Negro Black Sea 45a 28W /...'
-tags: 
+tags: tole.es
 actualPrice: 53.95 EUR
 currency: EUR
 price: 53.95

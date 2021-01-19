@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0828RJQMS-es Adaptador WiFi de Largo Alcance USB 17500Mbps Dongle...'
-tags: 
+tags: tole.es
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

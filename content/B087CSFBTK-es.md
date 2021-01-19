@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087CSFBTK-es Protector facial de 3 capas con cubierta elástica para el...'
-tags: 
+tags: tole.es
 actualPrice: 1.39 EUR
 currency: EUR
 price: 1.39

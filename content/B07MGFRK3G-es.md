@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MGFRK3G-es Napapijri TALY 2 LS Polo Gris Med Grey Mel 160 L para Hombre'
-tags: 
+tags: tole.es
 actualPrice: 39.5 EUR
 currency: EUR
 price: 39.5

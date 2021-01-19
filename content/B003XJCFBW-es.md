@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003XJCFBW-es Texet - Plastificadora tamaño A4'
-tags: 
+tags: tole.es
 actualPrice: 10.04 EUR
 currency: EUR
 price: 10.04

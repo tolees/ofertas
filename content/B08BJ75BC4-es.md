@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BJ75BC4-es BOWFU Funda para LG K51 Case 【Silicona Suave TPU...'
-tags: 
+tags: tole.es
 actualPrice: 4.58 EUR
 currency: EUR
 price: 4.58

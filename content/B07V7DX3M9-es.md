@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7DX3M9-es JACK & JONES Jcobooster Sweat Hood Aug 19 Capucha Gris...'
-tags: 
+tags: tole.es
 actualPrice: 14.59 EUR
 currency: EUR
 price: 14.59

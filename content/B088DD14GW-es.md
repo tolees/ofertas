@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088DD14GW-es Juguetes Regalos para Niños Niña Edad 3 4 5 Flores...'
-tags: 
+tags: tole.es
 actualPrice: 17.44 EUR
 currency: EUR
 price: 17.44

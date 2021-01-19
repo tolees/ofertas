@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SDC5LU6-es Fujifilm Fujinon XF 16 - 55 mm f/2.8 R LM WR - Objetivo...'
-tags: 
+tags: tole.es
 actualPrice: 826.1 EUR
 currency: EUR
 price: 826.1

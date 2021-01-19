@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7JH8TM-es Otterbox Symmetry Clear - Funda Anti-Caídas Fina y...'
-tags: 
+tags: tole.es
 actualPrice: 22.93 EUR
 currency: EUR
 price: 22.93

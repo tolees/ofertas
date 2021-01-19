@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003N9CM8I-es Curver Touch 240269 - Cubo de basura mecanismo de apertura...'
-tags: 
+tags: tole.es
 actualPrice: 33.85 EUR
 currency: EUR
 price: 33.85

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VF8KFFW-es PremiumTech - HUB USB C HDMI 7 en 1 con Cable USB 3.1 y...'
-tags: 
+tags: tole.es
 actualPrice: 64.9 EUR
 currency: EUR
 price: 64.9

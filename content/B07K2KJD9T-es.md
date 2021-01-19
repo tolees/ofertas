@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K2KJD9T-es Adidas RUNFALCON K Zapatillas Deportivas Unisex niño Negro...'
-tags: 
+tags: tole.es
 actualPrice: 27.49 EUR
 currency: EUR
 price: 27.49

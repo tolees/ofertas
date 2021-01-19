@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KZNTNSS-es Magic Memory Iron Wire Card Magic Trick Permitir Que El...'
-tags: 
+tags: tole.es
 actualPrice: 10.3 EUR
 currency: EUR
 price: 10.3

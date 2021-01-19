@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BNK0VIQ-es Rimmel Supercurler Mascara Extra Black Podkręcający Tusz...'
-tags: 
+tags: tole.es
 actualPrice: 3.4 EUR
 currency: EUR
 price: 3.4

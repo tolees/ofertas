@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTPDLMD-es Hugo BOSS Reloj de pulsera 1513679'
-tags: 
+tags: tole.es
 actualPrice: 249.71 EUR
 currency: EUR
 price: 249.71

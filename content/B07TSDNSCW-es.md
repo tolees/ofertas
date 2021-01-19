@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TSDNSCW-es Rivenbert Flotadores para Nadar Manguitos inflables para...'
-tags: 
+tags: tole.es
 actualPrice: 7.3 EUR
 currency: EUR
 price: 7.3

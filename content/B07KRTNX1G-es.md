@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRTNX1G-es Columbia Sun Ridge Polo Hombre Azul Mountain M'
-tags: 
+tags: tole.es
 actualPrice: 15.92 EUR
 currency: EUR
 price: 15.92

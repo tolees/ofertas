@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074QN82WH-es ICZI Adaptador USB Tipo C a HDMI de Aluminio Hub USB C...'
-tags: 
+tags: tole.es
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

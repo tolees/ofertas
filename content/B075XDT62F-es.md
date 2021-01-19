@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075XDT62F-es NORSENS – Mochila Ordenador portátil 17/15.6 Pulgadas...'
-tags: 
+tags: tole.es
 actualPrice: 15.51 EUR
 currency: EUR
 price: 15.51

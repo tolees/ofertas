@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SPVSJFZ-es Pop Animation: Rick & Moty - Kirkland Meeseeks'
-tags: 
+tags: tole.es
 actualPrice: 6.91 EUR
 currency: EUR
 price: 6.91

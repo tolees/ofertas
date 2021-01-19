@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083J49VHC-es CRZ YOGA Mujer Deportivos Leggings Mallas Fitness...'
-tags: 
+tags: tole.es
 actualPrice: 25 EUR
 currency: EUR
 price: 25

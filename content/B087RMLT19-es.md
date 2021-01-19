@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087RMLT19-es RLTech Funda Carcasa para iPad Pro 11 2020 Silicona TPU...'
-tags: 
+tags: tole.es
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

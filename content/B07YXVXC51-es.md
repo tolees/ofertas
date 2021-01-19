@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YXVXC51-es Ballery Toalla Facial Infantil 10 Piezas Toallas de...'
-tags: 
+tags: tole.es
 actualPrice: 14.89 EUR
 currency: EUR
 price: 14.89

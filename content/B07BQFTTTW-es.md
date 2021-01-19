@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BQFTTTW-es Yesterday Origins'
-tags: 
+tags: tole.es
 actualPrice: 18.38 EUR
 currency: EUR
 price: 18.38

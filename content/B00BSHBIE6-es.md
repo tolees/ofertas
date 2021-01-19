@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BSHBIE6-es UNYQUE Compresas Maternidad de Algodon Puro 100%...'
-tags: 
+tags: tole.es
 actualPrice: 8.32 EUR
 currency: EUR
 price: 8.32

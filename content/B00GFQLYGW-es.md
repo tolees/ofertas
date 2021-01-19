@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GFQLYGW-es Bosch Home and Garden 0600833101 Bosch Tijera Jardín ISIO...'
-tags: 
+tags: tole.es
 actualPrice: 56.9 EUR
 currency: EUR
 price: 56.9

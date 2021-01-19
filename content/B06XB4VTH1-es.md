@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XB4VTH1-es Skechers Men Elite Flex-Hartnell Trainers Blue Navy/Blue...'
-tags: 
+tags: tole.es
 actualPrice: 50.48 EUR
 currency: EUR
 price: 50.48

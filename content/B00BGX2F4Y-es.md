@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BGX2F4Y-es Thai Green curry paste 400g by Mae Ploy'
-tags: 
+tags: tole.es
 actualPrice: 5.93 EUR
 currency: EUR
 price: 5.93

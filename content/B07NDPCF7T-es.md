@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDPCF7T-es TBS Tansley Zapatos de Cordones Oxford para Hombre Marrón...'
-tags: 
+tags: tole.es
 actualPrice: 23.58 EUR
 currency: EUR
 price: 23.58

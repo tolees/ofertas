@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088ZH5PST-es LAITER 4000 pcs Papel Cuadrado de Origami Papel Cuadrado...'
-tags: 
+tags: tole.es
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

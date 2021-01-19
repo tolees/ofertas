@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001NJ9O5Y-es Fischer 70005 Taco Nylon Expansión SX 5 x 25 Gris 0 W 0 V...'
-tags: 
+tags: tole.es
 actualPrice: 2.85 EUR
 currency: EUR
 price: 2.85

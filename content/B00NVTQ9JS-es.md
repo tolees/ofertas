@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NVTQ9JS-es Zortrax M200 3D-impresora single extrudir negro'
-tags: 
+tags: tole.es
 actualPrice: 490.0 EUR
 currency: EUR
 price: 490.0

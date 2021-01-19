@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076D8H5GD-es Masajeador AREALER Spa Pies con 3 Velocidades de Masaje...'
-tags: 
+tags: tole.es
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XSDVXXS-es New Balance Wxnrgv1 Zapatillas Deportivas para Interior...'
-tags: 
+tags: tole.es
 actualPrice: 25.45 EUR
 currency: EUR
 price: 25.45

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5JKMNR-es Ultimate Ears Wonderbooms 2 Altavoz Inalámbrico Graves...'
-tags: 
+tags: tole.es
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

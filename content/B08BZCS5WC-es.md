@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BZCS5WC-es Poyet 21XL Remanufacturado Cartucho de tinta Reemplazo...'
-tags: 
+tags: tole.es
 actualPrice: 23.59 EUR
 currency: EUR
 price: 23.59

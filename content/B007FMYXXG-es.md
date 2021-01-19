@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007FMYXXG-es BK-5 - Teclado inteligente Roland BK-5 -'
-tags: 
+tags: tole.es
 actualPrice: 405.0 EUR
 currency: EUR
 price: 405.0

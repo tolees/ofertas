@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0083XFHIG-es Timex Expedition Rugged - Reloj análogico de cuarzo con...'
-tags: 
+tags: tole.es
 actualPrice: 71.15 EUR
 currency: EUR
 price: 71.15

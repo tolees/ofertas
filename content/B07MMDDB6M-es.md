@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMDDB6M-es upHere Alto Rendemento LED Blanco Ventilador de PC 120mm -...'
-tags: 
+tags: tole.es
 actualPrice: 9.16 EUR
 currency: EUR
 price: 9.16

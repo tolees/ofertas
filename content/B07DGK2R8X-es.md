@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DGK2R8X-es Zzkko Animal Licorne Sacs à Dos College School Book Sac de...'
-tags: 
+tags: tole.es
 actualPrice: 30.18 EUR
 currency: EUR
 price: 30.18

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VMNWJS4-es Calvin Klein Medium Double WB Bañador Negro PVH Black BEH...'
-tags: 
+tags: tole.es
 actualPrice: 42.0 EUR
 currency: EUR
 price: 42.0

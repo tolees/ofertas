@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086R5GYSD-es Nautico J.Bradford Cuero Marino JB-CORVETTES - Color -...'
-tags: 
+tags: tole.es
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

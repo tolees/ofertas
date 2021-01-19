@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWRVNTZ-es Roxy Sugar Baby-Mochila Mediana para Mujer Heritage...'
-tags: 
+tags: tole.es
 actualPrice: 23.77 EUR
 currency: EUR
 price: 23.77

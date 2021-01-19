@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VRLDWBY-es Fossil Pulsera para Mujer JF03237710'
-tags: 
+tags: tole.es
 actualPrice: 25.65 EUR
 currency: EUR
 price: 25.65

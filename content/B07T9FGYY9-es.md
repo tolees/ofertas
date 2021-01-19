@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T9FGYY9-es Buff Breaker Tubular Original Hombre Multi Talla única'
-tags: 
+tags: tole.es
 actualPrice: 12.26 EUR
 currency: EUR
 price: 12.26

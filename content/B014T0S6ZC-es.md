@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014T0S6ZC-es Pritt Cola blanca universal de secado transparente y...'
-tags: 
+tags: tole.es
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

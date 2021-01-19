@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G8BJ3L1-es INTEY Silla Gaming Silla de Oficina Ergonómica PU y...'
-tags: 
+tags: tole.es
 actualPrice: 137.99 EUR
 currency: EUR
 price: 137.99

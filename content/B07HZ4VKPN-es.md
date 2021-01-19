@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HZ4VKPN-es Petusco - Eddie Beige Lona tipo Canvas combinada con Vaqueta'
-tags: 
+tags: tole.es
 actualPrice: 100.0 EUR
 currency: EUR
 price: 100.0

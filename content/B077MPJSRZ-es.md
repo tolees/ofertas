@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077MPJSRZ-es PUMA Smash V2 Zapatillas Unisex Adulto Azul Peacoat White...'
-tags: 
+tags: tole.es
 actualPrice: 39.27 EUR
 currency: EUR
 price: 39.27

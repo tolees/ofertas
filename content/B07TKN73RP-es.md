@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKN73RP-es Clarks Maritsa95 Glad Sandalias de Talón Abierto para...'
-tags: 
+tags: tole.es
 actualPrice: 32.82 EUR
 currency: EUR
 price: 32.82

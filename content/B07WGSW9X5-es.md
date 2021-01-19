@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WGSW9X5-es Yageshark - Pantalones de deporte para hombre de algodón...'
-tags: 
+tags: tole.es
 actualPrice: 25.71 EUR
 currency: EUR
 price: 25.71

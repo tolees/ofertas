@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072R65SDR-es Pioneer X-SMC02-W - Microcadena slim CD Bluetooth color negro'
-tags: 
+tags: tole.es
 actualPrice: 132.0 EUR
 currency: EUR
 price: 132.0

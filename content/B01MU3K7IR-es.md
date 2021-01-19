@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MU3K7IR-es San Ignacio Juego de Sartenes y Batería de Cocina Aluminio...'
-tags: 
+tags: tole.es
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

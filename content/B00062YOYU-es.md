@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00062YOYU-es K&N RC-2580 filtro cromado universal Coche y Moto'
-tags: 
+tags: tole.es
 actualPrice: 44.59 EUR
 currency: EUR
 price: 44.59

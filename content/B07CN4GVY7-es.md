@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CN4GVY7-es Crocs Baya Clog Zuecos Unisex Niños Azul Ice Blue 4o9...'
-tags: 
+tags: tole.es
 actualPrice: 20.23 EUR
 currency: EUR
 price: 20.23

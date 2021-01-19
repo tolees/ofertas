@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RFNGH3B-es Salomon Sense Feel GTX Zapatillas para Correr para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 54.61 EUR
 currency: EUR
 price: 54.61

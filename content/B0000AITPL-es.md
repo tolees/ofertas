@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0000AITPL-es Kärcher Filtro de agua 4.730-059.0'
-tags: 
+tags: tole.es
 actualPrice: 16.94 EUR
 currency: EUR
 price: 16.94

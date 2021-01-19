@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NAHHJZ2-es find. 17AMZ025 camisetas mujer fiesta Rosa Old Rose 42...'
-tags: 
+tags: tole.es
 actualPrice: 6.6 EUR
 currency: EUR
 price: 6.6

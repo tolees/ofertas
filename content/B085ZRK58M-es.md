@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085ZRK58M-es MarinoBIRD T10 3PCS Rectangle Plastic Webcam Cover Ultra-...'
-tags: 
+tags: tole.es
 actualPrice: 1.4 EUR
 currency: EUR
 price: 1.4

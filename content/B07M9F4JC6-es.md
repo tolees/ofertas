@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M9F4JC6-es Cojín Almohada LED Estrella laamei Felpa Juguetes Muñecas...'
-tags: 
+tags: tole.es
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

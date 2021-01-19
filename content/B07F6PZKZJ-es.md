@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F6PZKZJ-es Sorel Glacy Short Botas para Mujer Marrón Delta/Autumn...'
-tags: 
+tags: tole.es
 actualPrice: 25.88 EUR
 currency: EUR
 price: 25.88

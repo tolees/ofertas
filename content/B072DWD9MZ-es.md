@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072DWD9MZ-es JACK & JONES Jfworca Leather Botas Clasicas para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

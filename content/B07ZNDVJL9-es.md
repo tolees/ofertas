@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZNDVJL9-es Wuyee 1Pcs Interruptor de Bloqueo para la máquina de...'
-tags: 
+tags: tole.es
 actualPrice: 2.8 EUR
 currency: EUR
 price: 2.8

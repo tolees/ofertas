@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVJBV65-es Kipling - Arto S Bolsos bandolera Mujer Gris Night Grey...'
-tags: 
+tags: tole.es
 actualPrice: 41.3 EUR
 currency: EUR
 price: 41.3

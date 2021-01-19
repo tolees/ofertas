@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0736L7SRJ-es 3 en 1 Faja Postparto Reductora Mujer Recuperación después...'
-tags: 
+tags: tole.es
 actualPrice: 17.09 EUR
 currency: EUR
 price: 17.09

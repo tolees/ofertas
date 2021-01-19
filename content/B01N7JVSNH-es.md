@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7JVSNH-es Jack & Jones Jjimarco Jjenzo WW 420 Noos Pantalones Azul...'
-tags: 
+tags: tole.es
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

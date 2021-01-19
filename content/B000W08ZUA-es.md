@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000W08ZUA-es Bormioli Bote con Tapa 1.5l'
-tags: 
+tags: tole.es
 actualPrice: 3.5 EUR
 currency: EUR
 price: 3.5

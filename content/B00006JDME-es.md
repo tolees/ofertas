@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00006JDME-es Hama 070055 - Filtro ultravioleta color neutro 55 mm'
-tags: 
+tags: tole.es
 actualPrice: 6.39 EUR
 currency: EUR
 price: 6.39

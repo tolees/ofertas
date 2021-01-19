@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083X5ZXZF-es YISSVIC Raqueta Mosquitos Eléctrico Raqueta Matamoscas...'
-tags: 
+tags: tole.es
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

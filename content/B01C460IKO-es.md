@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C460IKO-es DIM SG Foulard Sujetador Para Mujer Negro Black 95B'
-tags: 
+tags: tole.es
 actualPrice: 22.06 EUR
 currency: EUR
 price: 22.06

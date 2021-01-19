@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYNHPL8-es AKYGA AK-CA-26 - Rejilla Protectora para Ventilador 120 mm...'
-tags: 
+tags: tole.es
 actualPrice: 1.48 EUR
 currency: EUR
 price: 1.48

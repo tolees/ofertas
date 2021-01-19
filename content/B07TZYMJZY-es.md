@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZYMJZY-es KiplingDelia CompactMujerMochilasNegro Charcoal 18x23.5x13...'
-tags: 
+tags: tole.es
 actualPrice: 24.6 EUR
 currency: EUR
 price: 24.6

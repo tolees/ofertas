@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SZBHXCQ-es Afinador de Guitarra Sintonizador Digital Cromático con...'
-tags: 
+tags: tole.es
 actualPrice: 8.69 EUR
 currency: EUR
 price: 8.69

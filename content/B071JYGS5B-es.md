@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071JYGS5B-es Apple MacBook de 12 pulgadas: Intel Core m3 de doble...'
-tags: 
+tags: tole.es
 actualPrice: 999.0 EUR
 currency: EUR
 price: 999.0

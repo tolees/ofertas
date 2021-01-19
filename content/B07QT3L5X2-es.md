@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QT3L5X2-es Panasonic SC-AKX320 - Equipo de Sonido de Alta Potencia...'
-tags: 
+tags: tole.es
 actualPrice: 184.99 EUR
 currency: EUR
 price: 184.99

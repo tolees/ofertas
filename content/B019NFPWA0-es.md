@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019NFPWA0-es HP USB-C to VGA Adapter - Adaptador para cable USB-C VGA...'
-tags: 
+tags: tole.es
 actualPrice: 20.88 EUR
 currency: EUR
 price: 20.88

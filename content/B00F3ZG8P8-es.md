@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00F3ZG8P8-es HELLA 9XW 178 878-191 Limpiaparabrisas'
-tags: 
+tags: tole.es
 actualPrice: 1.3 EUR
 currency: EUR
 price: 1.3

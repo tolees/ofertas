@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079XVWNR5-es Mr. Tronic 15m Cable de Red Ethernet Latiguillo | CAT5e...'
-tags: 
+tags: tole.es
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

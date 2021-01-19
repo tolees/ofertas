@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HUVK2F4-es Crocs Handle It Rain Boot K Botas de Agua Unisex Niños...'
-tags: 
+tags: tole.es
 actualPrice: 21.44 EUR
 currency: EUR
 price: 21.44

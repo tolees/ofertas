@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0794XGHSM-es PUMA Liga Sideline Polo T-Shirt Hombre Pepper Green White S'
-tags: 
+tags: tole.es
 actualPrice: 17.74 EUR
 currency: EUR
 price: 17.74

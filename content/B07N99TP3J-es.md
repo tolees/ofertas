@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N99TP3J-es THE NORTH FACE M Storm Strike 2 WP Botas de Senderismo...'
-tags: 
+tags: tole.es
 actualPrice: 39.66 EUR
 currency: EUR
 price: 39.66

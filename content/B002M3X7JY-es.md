@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002M3X7JY-es Crazy Color Sky Blue Nº 59 Crema Colorante del Cabello...'
-tags: 
+tags: tole.es
 actualPrice: 4.58 EUR
 currency: EUR
 price: 4.58

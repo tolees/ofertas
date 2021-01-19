@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CRCFWXK-es Pepe Jeans Finly Jeans Negro Black Denim Wl0 8 años Talla...'
-tags: 
+tags: tole.es
 actualPrice: 31.23 EUR
 currency: EUR
 price: 31.23

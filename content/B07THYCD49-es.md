@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07THYCD49-es 1L Botella de Agua con Filtro Infusor de Fruta Swonuk...'
-tags: 
+tags: tole.es
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y32WNT3-es PVC Inflable Serpiente Inflable Promocional Animal...'
-tags: 
+tags: tole.es
 actualPrice: 2.05 EUR
 currency: EUR
 price: 2.05

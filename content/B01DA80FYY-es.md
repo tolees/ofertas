@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DA80FYY-es HP L0S07AE 973X Cartucho de Tinta Original de alto...'
-tags: 
+tags: tole.es
 actualPrice: 102.82 EUR
 currency: EUR
 price: 102.82

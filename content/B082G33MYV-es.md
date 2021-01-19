@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082G33MYV-es LOZAYI Pulsera de Actividad Pulsera Actividad Inteligente...'
-tags: 
+tags: tole.es
 actualPrice: 22.98 EUR
 currency: EUR
 price: 22.98

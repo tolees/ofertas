@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCNHR13-es Nike W Nk Dry Get Fit FLC HD FZ JDI Long Sleeved T-Shirt...'
-tags: 
+tags: tole.es
 actualPrice: 25.82 EUR
 currency: EUR
 price: 25.82

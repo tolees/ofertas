@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFY9WRJ-es Geox D BETTANIE E Botas para Mujer Negro Black C9999 38 EU'
-tags: 
+tags: tole.es
 actualPrice: 125.93 EUR
 currency: EUR
 price: 125.93

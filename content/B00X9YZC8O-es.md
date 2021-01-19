@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X9YZC8O-es Le Petit Marsellais - Gel Mandarina & Lima - 400 ml'
-tags: 
+tags: tole.es
 actualPrice: 2.7 EUR
 currency: EUR
 price: 2.7

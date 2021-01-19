@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LG2HDMD-es Geox D Hiver D Zapatillas sin Cordones para Mujer Azul DK...'
-tags: 
+tags: tole.es
 actualPrice: 31.46 EUR
 currency: EUR
 price: 31.46

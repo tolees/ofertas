@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V6SW9PB-es Kipling Travel Doc Wrist Cartera para Pasaporte 23 cm 1...'
-tags: 
+tags: tole.es
 actualPrice: 27.3 EUR
 currency: EUR
 price: 27.3

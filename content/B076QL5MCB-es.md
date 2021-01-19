@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076QL5MCB-es Dewar s 15 Años Whisky Escocés - 700 ml'
-tags: 
+tags: tole.es
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

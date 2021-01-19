@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ6J34T-es New Balance Fresh Faom Cruz v2 Hygge Pack Zapatillas para...'
-tags: 
+tags: tole.es
 actualPrice: 29.16 EUR
 currency: EUR
 price: 29.16

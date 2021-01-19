@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZVHSHX7-es Weideworld [2 Pack Protector de Pantalla para Realme X2...'
-tags: 
+tags: tole.es
 actualPrice: 7.22 EUR
 currency: EUR
 price: 7.22

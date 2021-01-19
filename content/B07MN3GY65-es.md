@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MN3GY65-es Lee Chunky Knit Sudadera Rosa Frost Pink MC Large para Mujer'
-tags: 
+tags: tole.es
 actualPrice: 31.8 EUR
 currency: EUR
 price: 31.8

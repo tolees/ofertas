@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L32WY5Q-es Asics Gel-Kayano 26 LS Zapatillas de Running para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 98.99 EUR
 currency: EUR
 price: 98.99

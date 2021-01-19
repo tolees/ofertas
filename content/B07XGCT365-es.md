@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XGCT365-es DCL Drone Championship League'
-tags: 
+tags: tole.es
 actualPrice: 17.18 EUR
 currency: EUR
 price: 17.18

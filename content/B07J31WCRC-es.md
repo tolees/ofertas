@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J31WCRC-es Under Armour Undeniable Duffel 4.0 LG Bolsa De Deportes...'
-tags: 
+tags: tole.es
 actualPrice: 27.71 EUR
 currency: EUR
 price: 27.71

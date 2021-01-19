@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TH1LGII-es Vileda 949860 Robot aspirador inteligente con programador...'
-tags: 
+tags: tole.es
 actualPrice: 199.39 EUR
 currency: EUR
 price: 199.39

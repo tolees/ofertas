@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DCK2M1B-es PUMA Vikky Stacked L Zapatillas para Mujer Black Black 39 EU'
-tags: 
+tags: tole.es
 actualPrice: 39.82 EUR
 currency: EUR
 price: 39.82

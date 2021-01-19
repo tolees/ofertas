@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HD6RJ48-es Salomon Evasion 2 Aero Zapatillas de Senderismo para...'
-tags: 
+tags: tole.es
 actualPrice: 60.98 EUR
 currency: EUR
 price: 60.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089D27BNH-es TACKLIFE Juego de Llaves Combinadas - 16 Piezas 7-22mm...'
-tags: 
+tags: tole.es
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NZY7XC8-es Skechers Zinger Zapatillas para Hombre Negro Black...'
-tags: 
+tags: tole.es
 actualPrice: 45.45 EUR
 currency: EUR
 price: 45.45

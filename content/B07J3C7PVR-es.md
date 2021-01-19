@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J3C7PVR-es Under Armour Coldgear Armour Legging Mujer Negro XS'
-tags: 
+tags: tole.es
 actualPrice: 27.38 EUR
 currency: EUR
 price: 27.38

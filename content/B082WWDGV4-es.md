@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082WWDGV4-es Cartridgeify 603XL Compatible con Epson 603 603XL Cartucho...'
-tags: 
+tags: tole.es
 actualPrice: 18.68 EUR
 currency: EUR
 price: 18.68

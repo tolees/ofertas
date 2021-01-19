@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087JSTNB4-es Saco Silla Universal Rosy Fuentes en blanco gris'
-tags: 
+tags: tole.es
 actualPrice: 69.9 EUR
 currency: EUR
 price: 69.9

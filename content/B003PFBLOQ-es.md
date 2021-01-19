@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003PFBLOQ-es Hama pp-245 - Reloj de pared digital color negro plástico'
-tags: 
+tags: tole.es
 actualPrice: 25.68 EUR
 currency: EUR
 price: 25.68

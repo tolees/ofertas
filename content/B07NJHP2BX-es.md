@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJHP2BX-es Tamaris 1-1-25242-23 Botas Militar para Mujer Marrón Rust...'
-tags: 
+tags: tole.es
 actualPrice: 18.66 EUR
 currency: EUR
 price: 18.66

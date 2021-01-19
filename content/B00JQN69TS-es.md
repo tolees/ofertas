@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JQN69TS-es Etnies Scout Zapatillas de Skateboard para Hombre Azul...'
-tags: 
+tags: tole.es
 actualPrice: 24.75 EUR
 currency: EUR
 price: 24.75

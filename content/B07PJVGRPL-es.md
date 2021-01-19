@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PJVGRPL-es LAST LEVEL- Keychain Llavero Pop Toy Story 4 BO Beep Color...'
-tags: 
+tags: tole.es
 actualPrice: 3.94 EUR
 currency: EUR
 price: 3.94

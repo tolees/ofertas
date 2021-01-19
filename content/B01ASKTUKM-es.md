@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ASKTUKM-es Vichy - Protector anti-manchas 3 en 1 spf 50+'
-tags: 
+tags: tole.es
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004WQP0NK-es Grohe 46374000 46374000-Cartucho Grifo de Recambio 46mm'
-tags: 
+tags: tole.es
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

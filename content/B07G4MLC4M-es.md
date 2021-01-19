@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G4MLC4M-es Pop! Avengers Infinity War - Figura de Vinilo Groot with...'
-tags: 
+tags: tole.es
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

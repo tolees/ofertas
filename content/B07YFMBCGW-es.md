@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YFMBCGW-es Lámparas Solares para Jardín Golwof 6 Piezas Luz Solar...'
-tags: 
+tags: tole.es
 actualPrice: 26.95 EUR
 currency: EUR
 price: 26.95

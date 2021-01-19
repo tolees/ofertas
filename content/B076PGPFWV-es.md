@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076PGPFWV-es Cooler Master MasterWatt 650 EU - Fuentes de alimentación...'
-tags: 
+tags: tole.es
 actualPrice: 60 EUR
 currency: EUR
 price: 60

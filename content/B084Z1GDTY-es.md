@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084Z1GDTY-es Creative Fruit Design Baby Teether Teeth Nursing Toy BPA...'
-tags: 
+tags: tole.es
 actualPrice: 1.55 EUR
 currency: EUR
 price: 1.55

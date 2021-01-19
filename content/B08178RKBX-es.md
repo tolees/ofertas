@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08178RKBX-es Columbia Baker Valley Forro Polar con Cremallera Mujer...'
-tags: 
+tags: tole.es
 actualPrice: 25.07 EUR
 currency: EUR
 price: 25.07

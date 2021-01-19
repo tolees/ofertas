@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MN47D9S-es Wrangler Straight Vaqueros para Mujer Azul Mid Indigo X8E...'
-tags: 
+tags: tole.es
 actualPrice: 21.65 EUR
 currency: EUR
 price: 21.65

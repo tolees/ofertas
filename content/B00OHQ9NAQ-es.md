@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OHQ9NAQ-es SPARES2GO Perillas de control universales negras para...'
-tags: 
+tags: tole.es
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

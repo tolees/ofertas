@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MS9NRLN-es Kickers Tyl Botas Slouch para Mujer Marrón Camel 114 36 EU'
-tags: 
+tags: tole.es
 actualPrice: 25.7 EUR
 currency: EUR
 price: 25.7

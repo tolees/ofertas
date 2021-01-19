@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TRBTYGH-es Max Factor Facefinity 3 en 1 All Day Flawless Base de...'
-tags: 
+tags: tole.es
 actualPrice: 3.9 EUR
 currency: EUR
 price: 3.9

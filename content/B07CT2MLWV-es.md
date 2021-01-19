@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CT2MLWV-es ZD Paños de Cocina RIZO 100% Algodón Con Dibujo Bordado...'
-tags: 
+tags: tole.es
 actualPrice: 13.5 EUR
 currency: EUR
 price: 13.5

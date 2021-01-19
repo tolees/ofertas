@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078NW9J2K-es Safta Bolsa De Deporte Levante U.D. Oficial 550x270x260mm'
-tags: 
+tags: tole.es
 actualPrice: 23.44 EUR
 currency: EUR
 price: 23.44

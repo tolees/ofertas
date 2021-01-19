@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086HS3F9L-es Olay Gel Limpiador En Espuma Piel Normal 150 ml'
-tags: 
+tags: tole.es
 actualPrice: 3.24 EUR
 currency: EUR
 price: 3.24

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084Z2JRDL-es Popular Baby Kids Bath LED Dolphin Light Lámpara Lovely...'
-tags: 
+tags: tole.es
 actualPrice: 1.21 EUR
 currency: EUR
 price: 1.21

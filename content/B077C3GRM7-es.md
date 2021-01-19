@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077C3GRM7-es Air Wick Spray V.I. Poo Perfume Anti Olor Fragrancia Lemon...'
-tags: 
+tags: tole.es
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

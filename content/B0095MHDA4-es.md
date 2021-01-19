@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0095MHDA4-es Epson Workforce WF-2010W - Impresora Color inyección de...'
-tags: 
+tags: tole.es
 actualPrice: 50.59 EUR
 currency: EUR
 price: 50.59

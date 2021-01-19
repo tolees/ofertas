@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5YY39D-es 500x Negro Sujetacables profesional Cable Sujetacables...'
-tags: 
+tags: tole.es
 actualPrice: 10.8 EUR
 currency: EUR
 price: 10.8

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019FKF6NG-es Béaba 913400 - Cuchara y tenedor ergonómicos de...'
-tags: 
+tags: tole.es
 actualPrice: 3.98 EUR
 currency: EUR
 price: 3.98

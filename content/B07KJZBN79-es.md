@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KJZBN79-es Toyvian Scratch Draw 10 unids Papel de rascar Arte Scratch...'
-tags: 
+tags: tole.es
 actualPrice: 8.26 EUR
 currency: EUR
 price: 8.26

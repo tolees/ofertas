@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WP76T2V-es Playmobil - Llavero Policia - Plateado - Hombres - Talla...'
-tags: 
+tags: tole.es
 actualPrice: 55.5 EUR
 currency: EUR
 price: 55.5

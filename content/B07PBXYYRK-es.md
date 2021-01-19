@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PBXYYRK-es Nacon Asymmetric - Mando inalámbrico [Versión Española] PS4'
-tags: 
+tags: tole.es
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9

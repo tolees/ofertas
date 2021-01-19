@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H4XHPUS-es Manfrotto MB PL-CC-192N - Bolsa para vídeocámara Color Negro'
-tags: 
+tags: tole.es
 actualPrice: 145.22 EUR
 currency: EUR
 price: 145.22

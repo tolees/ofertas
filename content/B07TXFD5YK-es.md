@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXFD5YK-es Levi s Graphic tee bañadores Blanco Feminine Logo Bodysuit...'
-tags: 
+tags: tole.es
 actualPrice: 15.63 EUR
 currency: EUR
 price: 15.63

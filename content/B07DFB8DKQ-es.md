@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFB8DKQ-es Funko Pop Power Rangers Figura de Vinilo Zack sin Casco...'
-tags: 
+tags: tole.es
 actualPrice: 6.05 EUR
 currency: EUR
 price: 6.05

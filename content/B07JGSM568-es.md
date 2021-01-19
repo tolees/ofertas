@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JGSM568-es Pepe Jeans Jess Pl401684 Chaqueta 11oz Check Mix Denim 000...'
-tags: 
+tags: tole.es
 actualPrice: 51.95 EUR
 currency: EUR
 price: 51.95

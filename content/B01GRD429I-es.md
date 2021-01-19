@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GRD429I-es Columbia Childrens Newton Ridge Botas de Senderismo...'
-tags: 
+tags: tole.es
 actualPrice: 20.3 EUR
 currency: EUR
 price: 20.3

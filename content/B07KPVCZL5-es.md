@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPVCZL5-es Columbia Minx Slip III Botas para Niños Gris Ti Grey Steel...'
-tags: 
+tags: tole.es
 actualPrice: 24.55 EUR
 currency: EUR
 price: 24.55

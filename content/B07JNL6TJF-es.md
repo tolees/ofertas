@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JNL6TJF-es Habitdesign 0M2314M - Mesa de Ordenador con Bandeja...'
-tags: 
+tags: tole.es
 actualPrice: 37.83 EUR
 currency: EUR
 price: 37.83

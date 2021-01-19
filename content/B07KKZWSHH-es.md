@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KKZWSHH-es adidas Gymsack SP Bolsa de Deporte Unisex Adulto...'
-tags: 
+tags: tole.es
 actualPrice: 8.7 EUR
 currency: EUR
 price: 8.7

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082V9Q8VZ-es ventilador silencioso USB RATEL ventilador de Escritorio...'
-tags: 
+tags: tole.es
 actualPrice: 7.47 EUR
 currency: EUR
 price: 7.47

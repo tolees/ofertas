@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N6VCNZ6-es Tommy Hilfiger Mono Color Longboot Botas Altas para Mujer...'
-tags: 
+tags: tole.es
 actualPrice: 54.48 EUR
 currency: EUR
 price: 54.48

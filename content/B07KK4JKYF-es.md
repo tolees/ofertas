@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KK4JKYF-es Columbia Peakfreak X2 Mid Outdry Botas de Senderismo para...'
-tags: 
+tags: tole.es
 actualPrice: 43.17 EUR
 currency: EUR
 price: 43.17

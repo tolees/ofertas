@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MLSVK17-es Clarks Tunsil Lane Zapatos de Cordones Derby para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 23.29 EUR
 currency: EUR
 price: 23.29

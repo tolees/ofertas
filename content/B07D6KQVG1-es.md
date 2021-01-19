@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D6KQVG1-es Ronamick Sandalen - Sandalias de Vestir de Poliuretano...'
-tags: 
+tags: tole.es
 actualPrice: 1.49 EUR
 currency: EUR
 price: 1.49

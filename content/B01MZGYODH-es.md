@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZGYODH-es Tommy Hilfiger Thong String Tanga Negro Black 001 38 Talla...'
-tags: 
+tags: tole.es
 actualPrice: 16.05 EUR
 currency: EUR
 price: 16.05

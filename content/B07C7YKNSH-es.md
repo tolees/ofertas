@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C7YKNSH-es Ao International Tennis'
-tags: 
+tags: tole.es
 actualPrice: 18 EUR
 currency: EUR
 price: 18

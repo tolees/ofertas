@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WVGZMC-es Quiksilver Molokai Abyss Zapatos de Playa y Piscina para...'
-tags: 
+tags: tole.es
 actualPrice: 13.45 EUR
 currency: EUR
 price: 13.45

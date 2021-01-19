@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S26V4VV-es KangaROOS Raceyard Ev Zapatillas Unisex Adulto Negro Jet...'
-tags: 
+tags: tole.es
 actualPrice: 11.87 EUR
 currency: EUR
 price: 11.87

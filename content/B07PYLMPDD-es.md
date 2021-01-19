@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PYLMPDD-es Apple MVFU2ZM/A Funda para teléfono móvil Folio - Fundas...'
-tags: 
+tags: tole.es
 actualPrice: 89.16 EUR
 currency: EUR
 price: 89.16

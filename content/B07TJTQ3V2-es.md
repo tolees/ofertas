@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJTQ3V2-es Superdry Swim Short Pantalones Cortos Gris Edit Palm Grey...'
-tags: 
+tags: tole.es
 actualPrice: 20.53 EUR
 currency: EUR
 price: 20.53

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FFWMP5P-es Tropicaleu Grifo de Cocina 360° Tire Moderno Fregadero...'
-tags: 
+tags: tole.es
 actualPrice: 35.98 EUR
 currency: EUR
 price: 35.98

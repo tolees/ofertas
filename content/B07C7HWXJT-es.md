@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C7HWXJT-es oodji Ultra Mujer Calcetines con Elástico Doble Pack de 6...'
-tags: 
+tags: tole.es
 actualPrice: 4.6 EUR
 currency: EUR
 price: 4.6

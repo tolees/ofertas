@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HHHLJ4R-es SYOSS Coloración permanente - 6 unidades Sin Amoníaco Tono...'
-tags: 
+tags: tole.es
 actualPrice: 14.15 EUR
 currency: EUR
 price: 14.15

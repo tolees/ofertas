@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TT59W1G-es Shuliancable Cable HDMI Compatible con Ethernet Retorno de...'
-tags: 
+tags: tole.es
 actualPrice: 13.19 EUR
 currency: EUR
 price: 13.19

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00F3B2TVO-es LEGO DUPLO - My First Caja de Diversión Juguete de...'
-tags: 
+tags: tole.es
 actualPrice: 11.73 EUR
 currency: EUR
 price: 11.73

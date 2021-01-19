@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R4RVDTS-es 10 unidades de esponja resistente al polvo lavable...'
-tags: 
+tags: tole.es
 actualPrice: 0.29 EUR
 currency: EUR
 price: 0.29

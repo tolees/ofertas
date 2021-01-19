@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V6BWR6C-es BOSS Schino-Slim D Pantalones Verde Medium Green 311...'
-tags: 
+tags: tole.es
 actualPrice: 16.51 EUR
 currency: EUR
 price: 16.51

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004D3UPB4-es Creation Station - Lote de limpiapipas tamaño Jumbo...'
-tags: 
+tags: tole.es
 actualPrice: 4.19 EUR
 currency: EUR
 price: 4.19

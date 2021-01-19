@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D5NF3WS-es Puma Phase Wallet Cartera Puma Black OSFA'
-tags: 
+tags: tole.es
 actualPrice: 5.96 EUR
 currency: EUR
 price: 5.96

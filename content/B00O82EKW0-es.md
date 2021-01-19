@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00O82EKW0-es Reloj Komono Moneypenny Royale para Mujer KOM-W1240'
-tags: 
+tags: tole.es
 actualPrice: 48.95 EUR
 currency: EUR
 price: 48.95

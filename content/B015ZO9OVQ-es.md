@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015ZO9OVQ-es Pioneer Se-MJ771BT-W - Auriculares microfono Bluetooth...'
-tags: 
+tags: tole.es
 actualPrice: 54.8 EUR
 currency: EUR
 price: 54.8

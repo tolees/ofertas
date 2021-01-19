@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S3WJ7KY-es New Balance 500 Zapatillas para Hombre Gris Grey TRS 42 EU'
-tags: 
+tags: tole.es
 actualPrice: 46.93 EUR
 currency: EUR
 price: 46.93

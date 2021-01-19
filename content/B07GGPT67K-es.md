@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GGPT67K-es The Kinks Are The Village Green Preservation Society'
-tags: 
+tags: tole.es
 actualPrice: 10.73 EUR
 currency: EUR
 price: 10.73

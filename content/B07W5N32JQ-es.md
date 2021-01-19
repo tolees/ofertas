@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5N32JQ-es Tommy Hilfiger Buoy Print Regular Polo Azul Small Talla...'
-tags: 
+tags: tole.es
 actualPrice: 32.86 EUR
 currency: EUR
 price: 32.86

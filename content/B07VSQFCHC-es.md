@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VSQFCHC-es LUDOS Clamor Auriculares con Micrófono y Cable Espuma de...'
-tags: 
+tags: tole.es
 actualPrice: 16.97 EUR
 currency: EUR
 price: 16.97

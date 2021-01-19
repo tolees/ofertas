@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BB52H2R-es Kodak Printomatic - Cámara de impresión instantánea...'
-tags: 
+tags: tole.es
 actualPrice: 66.93 EUR
 currency: EUR
 price: 66.93

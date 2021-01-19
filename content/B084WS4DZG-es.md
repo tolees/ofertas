@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084WS4DZG-es LxTek Reemplazo Compatible para Epson 29 29XL Multipack...'
-tags: 
+tags: tole.es
 actualPrice: 14.16 EUR
 currency: EUR
 price: 14.16

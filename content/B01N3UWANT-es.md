@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N3UWANT-es BabyVip - Body Polo Cuello Alto para niño y niña Estilo...'
-tags: 
+tags: tole.es
 actualPrice: 13.3 EUR
 currency: EUR
 price: 13.3

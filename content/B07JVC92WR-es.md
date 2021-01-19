@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JVC92WR-es Under Armour UNDKU Armour Heatgear Sujetador Deportivo...'
-tags: 
+tags: tole.es
 actualPrice: 16.94 EUR
 currency: EUR
 price: 16.94

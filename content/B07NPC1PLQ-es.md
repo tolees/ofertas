@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPC1PLQ-es NIKE W Nk PWR Studio Smlss Vnr Mallas Mujer Black/Thunder...'
-tags: 
+tags: tole.es
 actualPrice: 20.75 EUR
 currency: EUR
 price: 20.75

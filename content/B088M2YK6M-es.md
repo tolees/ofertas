@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088M2YK6M-es Suhctup Funda Compatible con UMIDIGI F2 Transparente...'
-tags: 
+tags: tole.es
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

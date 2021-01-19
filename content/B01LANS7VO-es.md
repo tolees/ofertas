@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LANS7VO-es AUKEY Ratón Vertical 2 DPI ajustable Diseño ergonómico...'
-tags: 
+tags: tole.es
 actualPrice: 17.02 EUR
 currency: EUR
 price: 17.02

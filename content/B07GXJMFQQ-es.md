@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GXJMFQQ-es Comfysail 2Pcs Dispensador de Leche en Polvo para...'
-tags: 
+tags: tole.es
 actualPrice: 10.78 EUR
 currency: EUR
 price: 10.78

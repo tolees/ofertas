@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J1ZL3JX-es JACK & JONES Jcochallenge Polo SS Noos Gris Light Grey...'
-tags: 
+tags: tole.es
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

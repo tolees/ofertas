@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XWOZLAA-es Nike Air MAX Invigor Zapatillas para Hombre Blanco...'
-tags: 
+tags: tole.es
 actualPrice: 72.0 EUR
 currency: EUR
 price: 72.0

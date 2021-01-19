@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0711CWFD8-es SELECTED HOMME Shnstraight-Scott 1002 Rinse St JNS Noos...'
-tags: 
+tags: tole.es
 actualPrice: 28.76 EUR
 currency: EUR
 price: 28.76

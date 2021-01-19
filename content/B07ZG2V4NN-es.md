@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZG2V4NN-es Oliceydress DS0010 Vestidos de Noche Negro Black XXS'
-tags: 
+tags: tole.es
 actualPrice: 5.97 EUR
 currency: EUR
 price: 5.97

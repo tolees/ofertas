@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S5CJ7SK-es Love MoschinoJc4043pp1aMujerBolso de manoBeige Naturale...'
-tags: 
+tags: tole.es
 actualPrice: 84.5 EUR
 currency: EUR
 price: 84.5

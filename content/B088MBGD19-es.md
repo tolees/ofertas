@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088MBGD19-es KN95 FFP2 Certificado CE Mascarilla Unica Blanco Talla'
-tags: 
+tags: tole.es
 actualPrice: 3.59 EUR
 currency: EUR
 price: 3.59

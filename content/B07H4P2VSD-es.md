@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H4P2VSD-es Mallalah Blanqueamiento Dental Polvo de Blanqueamiento de...'
-tags: 
+tags: tole.es
 actualPrice: 6.46 EUR
 currency: EUR
 price: 6.46

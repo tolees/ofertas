@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0788BWQFL-es Tommy Hilfiger Legging Mallas Azul Navy Blazer 416 Medium...'
-tags: 
+tags: tole.es
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

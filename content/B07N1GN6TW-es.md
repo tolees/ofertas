@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1GN6TW-es Clarks Un Rio Lace Zapatillas para Mujer Gris Dark Grey...'
-tags: 
+tags: tole.es
 actualPrice: 52.97 EUR
 currency: EUR
 price: 52.97

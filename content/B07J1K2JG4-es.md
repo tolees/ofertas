@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J1K2JG4-es Macrimo - Lámpara de altavoz Bluetooth luz nocturna...'
-tags: 
+tags: tole.es
 actualPrice: 34.03 EUR
 currency: EUR
 price: 34.03

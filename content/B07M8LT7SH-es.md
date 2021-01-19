@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8LT7SH-es adidas Ultraboost 19 M Zapatillas de Running para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 89.98 EUR
 currency: EUR
 price: 89.98

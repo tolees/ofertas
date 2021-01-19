@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTQSKMH-es Tommy Hilfiger Reloj de Pulsera 1782024'
-tags: 
+tags: tole.es
 actualPrice: 100.98 EUR
 currency: EUR
 price: 100.98

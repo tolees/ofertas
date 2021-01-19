@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XQ2KPY5-es Young & Ming 2 Unidades Cristal Templado para Xiaomi Redmi...'
-tags: 
+tags: tole.es
 actualPrice: 7.01 EUR
 currency: EUR
 price: 7.01

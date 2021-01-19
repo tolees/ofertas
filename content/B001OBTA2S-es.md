@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001OBTA2S-es HP 940 - Cabezal de impresión Original HP 940 Magenta y...'
-tags: 
+tags: tole.es
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

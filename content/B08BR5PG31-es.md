@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BR5PG31-es ZNE 14ct 3 Colores oro'
-tags: 
+tags: tole.es
 actualPrice: 18.77 EUR
 currency: EUR
 price: 18.77

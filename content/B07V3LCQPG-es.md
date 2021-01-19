@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V3LCQPG-es Nike Air Heights Zapatillas para Hombre Negro Black White...'
-tags: 
+tags: tole.es
 actualPrice: 34.7 EUR
 currency: EUR
 price: 34.7

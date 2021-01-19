@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072VJF13Q-es Buff Neper Gorro Tricot Y Polar Unisex Adulto Violet Talla...'
-tags: 
+tags: tole.es
 actualPrice: 18.76 EUR
 currency: EUR
 price: 18.76

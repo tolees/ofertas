@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Z9UY65G-es Anker PowerCore 13000 Batería externa Universal Micro-USB...'
-tags: 
+tags: tole.es
 actualPrice: 21.39 EUR
 currency: EUR
 price: 21.39

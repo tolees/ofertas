@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XDLR8WJ-es Pez de Piedra Hecho a Mano - Símbolo de Determinación...'
-tags: 
+tags: tole.es
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

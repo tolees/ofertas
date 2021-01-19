@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NRC23YH-es Dunlop Stage 2 Orange - Pelota de Tenis para Adulto Unisex...'
-tags: 
+tags: tole.es
 actualPrice: 6.04 EUR
 currency: EUR
 price: 6.04

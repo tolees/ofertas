@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CN7S3NP-es BIC 950615 Velleda – Lote de 2 Surface borrado en seco...'
-tags: 
+tags: tole.es
 actualPrice: 13.01 EUR
 currency: EUR
 price: 13.01

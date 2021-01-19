@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KJB7RZG-es Asmodee- Snow Time ADE0LMSNO01'
-tags: 
+tags: tole.es
 actualPrice: 14.92 EUR
 currency: EUR
 price: 14.92

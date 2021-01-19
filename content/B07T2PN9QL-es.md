@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T2PN9QL-es Filtro De Café Permanente Para Cafetera De Sifón...'
-tags: 
+tags: tole.es
 actualPrice: 14.27 EUR
 currency: EUR
 price: 14.27

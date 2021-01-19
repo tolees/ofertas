@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XDROZL2-es Scottex Gigante Papel de Cocina - 1 Rollo'
-tags: 
+tags: tole.es
 actualPrice: 1.35 EUR
 currency: EUR
 price: 1.35

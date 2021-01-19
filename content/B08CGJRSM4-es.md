@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CGJRSM4-es Feleph Kit de peinture animalière Enfants artisanat et...'
-tags: 
+tags: tole.es
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

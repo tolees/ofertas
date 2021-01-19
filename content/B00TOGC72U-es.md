@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TOGC72U-es RSPCA fleaaway Spot On solución para gatos 50 mg'
-tags: 
+tags: tole.es
 actualPrice: 14.76 EUR
 currency: EUR
 price: 14.76

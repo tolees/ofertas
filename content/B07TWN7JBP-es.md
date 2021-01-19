@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWN7JBP-es Wrangler Bryson Vaqueros Skinny Azul Light Glory 030 34W /...'
-tags: 
+tags: tole.es
 actualPrice: 30.7 EUR
 currency: EUR
 price: 30.7

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0872QXRD8-es fgdjfhsdfgsdfh SQ11 Mini Micro HD Cámara Dice Video Night...'
-tags: 
+tags: tole.es
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

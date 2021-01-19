@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000JVXUF2-es Nuby ID91164 Set De Recipientes Herméticos Multicolor 300...'
-tags: 
+tags: tole.es
 actualPrice: 6.74 EUR
 currency: EUR
 price: 6.74

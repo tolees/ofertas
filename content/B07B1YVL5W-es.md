@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B1YVL5W-es LA Lakers - Bandera oficial Talla Única Azul/Naranja'
-tags: 
+tags: tole.es
 actualPrice: 7.7 EUR
 currency: EUR
 price: 7.7

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082BDVC3P-es Icons Corner Pack de 2 sillones IMS con Patas de Madera y...'
-tags: 
+tags: tole.es
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

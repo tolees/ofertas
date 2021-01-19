@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JYNZ4H3-es Tommy Hilfiger Core Corporate High Vulc Sneaker Zapatillas...'
-tags: 
+tags: tole.es
 actualPrice: 62 EUR
 currency: EUR
 price: 62

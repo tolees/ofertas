@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077M96SRD-es PUMA SMASH V2 L Zapatillas Unisex-Adulto Blanco White...'
-tags: 
+tags: tole.es
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

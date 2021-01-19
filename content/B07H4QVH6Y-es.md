@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H4QVH6Y-es Skechers Status 2.0 Lorano Náuticos para Hombre Azul Navy...'
-tags: 
+tags: tole.es
 actualPrice: 44.5 EUR
 currency: EUR
 price: 44.5

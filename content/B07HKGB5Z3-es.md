@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HKGB5Z3-es Under Armour UA W Breathe Trainer x NM Zapatillas de...'
-tags: 
+tags: tole.es
 actualPrice: 56 EUR
 currency: EUR
 price: 56

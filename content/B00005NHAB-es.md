@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00005NHAB-es HP C7115X - Tóner color negro'
-tags: 
+tags: tole.es
 actualPrice: 57.46 EUR
 currency: EUR
 price: 57.46

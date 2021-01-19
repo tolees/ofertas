@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005XMW8M8-es DIM Generous Sujetador Negro 90B para Mujer'
-tags: 
+tags: tole.es
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLK7P2D-es Versace Jeans CouturePortafoglioMujerCarterasMorado...'
-tags: 
+tags: tole.es
 actualPrice: 66.36 EUR
 currency: EUR
 price: 66.36

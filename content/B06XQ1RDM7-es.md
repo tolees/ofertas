@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XQ1RDM7-es Moza Mini C - Estabilizador portátil para Smartphones...'
-tags: 
+tags: tole.es
 actualPrice: 89.05 EUR
 currency: EUR
 price: 89.05

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0789FRLZH-es Reebok Dmxride Comfort 4.0 Zapatillas de Deporte para...'
-tags: 
+tags: tole.es
 actualPrice: 29 EUR
 currency: EUR
 price: 29

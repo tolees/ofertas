@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005FP2YSG-es TFA 38.1028.10 Avisador de Cocina de Metal Negro Gris'
-tags: 
+tags: tole.es
 actualPrice: 6.37 EUR
 currency: EUR
 price: 6.37

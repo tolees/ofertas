@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CLK73XE-es Head Promotion - Gorra Unisex Color Azul Marino Talla única'
-tags: 
+tags: tole.es
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

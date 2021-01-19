@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FY1PV8K-es Philips Hue White bombilla LED inteligente GU10 luz blanca...'
-tags: 
+tags: tole.es
 actualPrice: 12.9 EUR
 currency: EUR
 price: 12.9

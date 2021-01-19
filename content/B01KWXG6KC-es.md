@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KWXG6KC-es Curver 227328 Cubo De Basura Essentials Con Separador...'
-tags: 
+tags: tole.es
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

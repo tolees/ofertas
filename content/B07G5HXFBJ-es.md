@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G5HXFBJ-es Impresora Multifuncional Canon PIXMA TS6251 Blanca Wifi de...'
-tags: 
+tags: tole.es
 actualPrice: 64.49 EUR
 currency: EUR
 price: 64.49

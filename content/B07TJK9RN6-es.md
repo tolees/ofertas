@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJK9RN6-es Clarks Stanford Top Botas Chelsea para Hombre Negro Black...'
-tags: 
+tags: tole.es
 actualPrice: 33.04 EUR
 currency: EUR
 price: 33.04

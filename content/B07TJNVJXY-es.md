@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJNVJXY-es Clarks Maritsa Mule Sandalias Punta Cerrada para Mujer...'
-tags: 
+tags: tole.es
 actualPrice: 44.33 EUR
 currency: EUR
 price: 44.33

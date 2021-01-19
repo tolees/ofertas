@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MCQQ5VV-es mengjay 1er Pack 6 W E27 filamento LED Lámpara Bombilla de...'
-tags: 
+tags: tole.es
 actualPrice: 2.53 EUR
 currency: EUR
 price: 2.53

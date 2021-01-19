@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012GQVTIC-es Capital Sports Adjustar Banco de entrenamiento adaptable...'
-tags: 
+tags: tole.es
 actualPrice: 124.99 EUR
 currency: EUR
 price: 124.99

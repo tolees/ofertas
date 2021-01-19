@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BSTQUDI-es Lotus Reloj Analógico para Nios de Cuarzo con Correa en...'
-tags: 
+tags: tole.es
 actualPrice: 43.95 EUR
 currency: EUR
 price: 43.95

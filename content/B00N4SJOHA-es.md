@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00N4SJOHA-es Sensai Cellular Performance Cream Tratamiento Facial - 40 ml'
-tags: 
+tags: tole.es
 actualPrice: 84.95 EUR
 currency: EUR
 price: 84.95

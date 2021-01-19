@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004NRO2XC-es NIKE Men s Cortez Basic Leather Shoe Zapatillas para...'
-tags: 
+tags: tole.es
 actualPrice: 59.5 EUR
 currency: EUR
 price: 59.5

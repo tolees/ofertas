@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F7PVRGH-es Thomas Sabo Colgante Charm con Cierre para Mujer " Vintage...'
-tags: 
+tags: tole.es
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

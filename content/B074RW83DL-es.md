@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074RW83DL-es Lee Scarlett High Jeans Negro Black Rinse Ae47 31W / 31L...'
-tags: 
+tags: tole.es
 actualPrice: 62.95 EUR
 currency: EUR
 price: 62.95

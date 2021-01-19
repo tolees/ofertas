@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P5N9JLB-es Cacerola con 2 asas 16-30 cm de diámetro Inoxidable...'
-tags: 
+tags: tole.es
 actualPrice: 19.03 EUR
 currency: EUR
 price: 19.03

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0788BQZGB-es Tommy Hilfiger Sujetador Estilo Bralette Gris Grey Heather...'
-tags: 
+tags: tole.es
 actualPrice: 27.49 EUR
 currency: EUR
 price: 27.49

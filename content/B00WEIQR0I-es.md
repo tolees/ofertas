@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WEIQR0I-es Sony Handycam FDR-AX33 4KUHD - Videocámara pantalla de 3"...'
-tags: 
+tags: tole.es
 actualPrice: 424.15 EUR
 currency: EUR
 price: 424.15

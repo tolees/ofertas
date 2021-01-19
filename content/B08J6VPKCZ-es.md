@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08J6VPKCZ-es DEtasyXworld Funda para portátil de 15 Pulgadas Funda...'
-tags: 
+tags: tole.es
 actualPrice: 4.01 EUR
 currency: EUR
 price: 4.01

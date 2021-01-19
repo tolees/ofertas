@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XYP5NNQ-es Olympus OM-D E-M5 Mark III MFT Sensor de 20 MPX...'
-tags: 
+tags: tole.es
 actualPrice: 889.99 EUR
 currency: EUR
 price: 889.99

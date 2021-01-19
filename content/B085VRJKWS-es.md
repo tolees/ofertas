@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085VRJKWS-es Oacvien 7 Puertos Hub USB 3.0 Interruptor de Encendido...'
-tags: 
+tags: tole.es
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

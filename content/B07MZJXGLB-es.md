@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZJXGLB-es Reloj Inteligente Ninos con Musica MP3 - Smartwatch Niños...'
-tags: 
+tags: tole.es
 actualPrice: 39.49 EUR
 currency: EUR
 price: 39.49

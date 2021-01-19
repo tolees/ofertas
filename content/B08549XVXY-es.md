@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08549XVXY-es Baoblaze 20 Piezas/Set Ganchos De Encaje De Bota Chapados...'
-tags: 
+tags: tole.es
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

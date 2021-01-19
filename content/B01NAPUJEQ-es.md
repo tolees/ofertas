@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NAPUJEQ-es Reloj para hombre Tommy Hilfiger 1791346.'
-tags: 
+tags: tole.es
 actualPrice: 112.0 EUR
 currency: EUR
 price: 112.0

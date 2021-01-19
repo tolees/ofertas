@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0GKF6Y-es Manfrotto MB MA-SB-C1 - Funda Avanzada para cámara'
-tags: 
+tags: tole.es
 actualPrice: 44.66 EUR
 currency: EUR
 price: 44.66

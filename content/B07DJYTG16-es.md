@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJYTG16-es Adidas Trefoil Crew – Sudadera Hombre Marrón cargo noche L'
-tags: 
+tags: tole.es
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

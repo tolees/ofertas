@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ7HM9Y-es New Balance 574S v2 Zapatillas para Mujer Negro...'
-tags: 
+tags: tole.es
 actualPrice: 58.4 EUR
 currency: EUR
 price: 58.4

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RK2NBGD-es UPF50+ Sombrero de Sol con Cubrenuca para Bebé Niños Niñas...'
-tags: 
+tags: tole.es
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

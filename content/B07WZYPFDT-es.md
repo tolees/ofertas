@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WZYPFDT-es Tacklife RTD37AC - Herramienta multifunción 200 W...'
-tags: 
+tags: tole.es
 actualPrice: 35.44 EUR
 currency: EUR
 price: 35.44

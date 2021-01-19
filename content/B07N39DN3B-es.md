@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N39DN3B-es AINOYA Funda Carcasa Gel para Huawei P30 Lite Ultra Fina...'
-tags: 
+tags: tole.es
 actualPrice: 10.55 EUR
 currency: EUR
 price: 10.55

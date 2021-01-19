@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J3QVWC8-es Dim Soutien-Gorge Sans Armature Invisififree Sujetador sin...'
-tags: 
+tags: tole.es
 actualPrice: 12 EUR
 currency: EUR
 price: 12

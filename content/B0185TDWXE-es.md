@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0185TDWXE-es Tuc Tuc 03591 - Bolsa colgadores y bandolera color gris'
-tags: 
+tags: tole.es
 actualPrice: 22.63 EUR
 currency: EUR
 price: 22.63

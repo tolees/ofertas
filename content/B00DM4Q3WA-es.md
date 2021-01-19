@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DM4Q3WA-es Redskins Toniko - Zapatillas de Deporte de Cuero para...'
-tags: 
+tags: tole.es
 actualPrice: 15.56 EUR
 currency: EUR
 price: 15.56

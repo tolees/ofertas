@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079CCMFS7-es ITALY MORN Hombre Jogger Pantalones Khaki para el Trabajo...'
-tags: 
+tags: tole.es
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

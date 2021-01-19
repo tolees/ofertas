@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0755PDKCN-es GoPro The Handler - Empuñadura flotante Negro'
-tags: 
+tags: tole.es
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

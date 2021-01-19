@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P15RRGV-es Carol-JA Gris 39 EU'
-tags: 
+tags: tole.es
 actualPrice: 45.5 EUR
 currency: EUR
 price: 45.5

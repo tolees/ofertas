@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078HTLKKS-es reer 83221 protector para plantas Negro Nylon -...'
-tags: 
+tags: tole.es
 actualPrice: 9.68 EUR
 currency: EUR
 price: 9.68

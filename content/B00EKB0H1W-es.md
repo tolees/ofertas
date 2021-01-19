@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EKB0H1W-es Canon NB-6LH - Batería para cámara de Fotos 3.7 V 1060 mAh...'
-tags: 
+tags: tole.es
 actualPrice: 29.06 EUR
 currency: EUR
 price: 29.06

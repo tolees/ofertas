@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0711RY4JJ-es Under Armour Men s Blitzing 3.0 Cap Gorra Hombre Rojo...'
-tags: 
+tags: tole.es
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

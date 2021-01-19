@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MCQP1Q2-es Tesa 77767-00001-00 77767-00001-00-Smart Mounting System...'
-tags: 
+tags: tole.es
 actualPrice: 4.6 EUR
 currency: EUR
 price: 4.6

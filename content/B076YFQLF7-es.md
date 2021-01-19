@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076YFQLF7-es Nilian chapado en plata'
-tags: 
+tags: tole.es
 actualPrice: 14.11 EUR
 currency: EUR
 price: 14.11

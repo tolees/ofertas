@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0822KCRYN-es HOLULO 3X 10X Lámpara Lupa Lámpara de Aumento con Luz y...'
-tags: 
+tags: tole.es
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

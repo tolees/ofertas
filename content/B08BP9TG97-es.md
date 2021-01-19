@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BP9TG97-es Fesjoy Mini ventilador portátil de aire acondicionado...'
-tags: 
+tags: tole.es
 actualPrice: 17.98 EUR
 currency: EUR
 price: 17.98

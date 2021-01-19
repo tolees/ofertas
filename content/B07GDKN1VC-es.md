@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GDKN1VC-es Eyoyo Cámara Monitor E5 5 Pulgadas 4K HDMI 1920x1080 Mini...'
-tags: 
+tags: tole.es
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

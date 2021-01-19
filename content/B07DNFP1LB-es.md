@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DNFP1LB-es Weider Peanut Butter - 1000 gr. 100% cacahuete triturado....'
-tags: 
+tags: tole.es
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DA80FA8-es HP F6T81AE 973X Cartucho de Tinta Original de alto...'
-tags: 
+tags: tole.es
 actualPrice: 97.15 EUR
 currency: EUR
 price: 97.15

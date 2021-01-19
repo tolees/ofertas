@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081Q93TWG-es WANSENDA Memoria USB Tipo C 512GB Unidad Flash USB 3.0 de...'
-tags: 
+tags: tole.es
 actualPrice: 73.09 EUR
 currency: EUR
 price: 73.09

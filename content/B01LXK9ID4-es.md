@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXK9ID4-es Durex Natural Comfort Preservativos - 24 Unidades'
-tags: 
+tags: tole.es
 actualPrice: 8.3 EUR
 currency: EUR
 price: 8.3

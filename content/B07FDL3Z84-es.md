@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FDL3Z84-es Polaroid Snap Touch 2.0 - Cámara digital portátil...'
-tags: 
+tags: tole.es
 actualPrice: 134.09 EUR
 currency: EUR
 price: 134.09

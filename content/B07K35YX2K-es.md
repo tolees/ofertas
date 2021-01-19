@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K35YX2K-es Adidas Continental 80 Zapatillas de Gimnasia para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 69.9 EUR
 currency: EUR
 price: 69.9

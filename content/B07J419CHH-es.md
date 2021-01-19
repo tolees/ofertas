@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J419CHH-es Diesel Reloj Cronógrafo para Hombre de Cuarzo con Correa...'
-tags: 
+tags: tole.es
 actualPrice: 180.0 EUR
 currency: EUR
 price: 180.0

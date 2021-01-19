@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y8R7F7Y-es Jack & Jones Jorbrandon Sweat Hood Capucha Azul Navy...'
-tags: 
+tags: tole.es
 actualPrice: 13.43 EUR
 currency: EUR
 price: 13.43

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074GJNBFC-es My Little Pony-21642 MLP Movie Figura de Vinilo Pinkie Pie...'
-tags: 
+tags: tole.es
 actualPrice: 8.38 EUR
 currency: EUR
 price: 8.38

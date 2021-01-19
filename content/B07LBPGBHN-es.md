@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBPGBHN-es Helly Hansen Killarney II Aislado Parka Chaqueta De...'
-tags: 
+tags: tole.es
 actualPrice: 105.98 EUR
 currency: EUR
 price: 105.98

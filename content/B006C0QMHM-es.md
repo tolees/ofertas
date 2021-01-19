@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006C0QMHM-es Spidi Z140-016 Warrior EVO Protección de Espalda para Moto...'
-tags: 
+tags: tole.es
 actualPrice: 74.9 EUR
 currency: EUR
 price: 74.9

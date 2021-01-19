@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V9NNPY7-es Hackett London Parachute Belt Cinturón Azul 513sky 513 115...'
-tags: 
+tags: tole.es
 actualPrice: 40.5 EUR
 currency: EUR
 price: 40.5

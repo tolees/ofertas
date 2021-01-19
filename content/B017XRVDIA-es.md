@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017XRVDIA-es Compa G-250 - Ingletadora'
-tags: 
+tags: tole.es
 actualPrice: 216.59 EUR
 currency: EUR
 price: 216.59

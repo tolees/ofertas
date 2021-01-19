@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0872MNRD9-es NMBC Almohadilla de Asiento de Coche Cool Pad 1 Universal...'
-tags: 
+tags: tole.es
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

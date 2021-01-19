@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089R6QKXG-es LJP Funda LG Stylo 6 Diamante Cristal Brillante Antigolpes...'
-tags: 
+tags: tole.es
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

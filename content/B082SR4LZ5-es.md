@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082SR4LZ5-es NHUAIYINSHUGUOGUANGGAOJINGY Tarjeta elevadora de Adaptador...'
-tags: 
+tags: tole.es
 actualPrice: 5.59 EUR
 currency: EUR
 price: 5.59

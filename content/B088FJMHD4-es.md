@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088FJMHD4-es StillCool Aire Acondicionado Portátil 3 en 1 Ventilador...'
-tags: 
+tags: tole.es
 actualPrice: 21.65 EUR
 currency: EUR
 price: 21.65

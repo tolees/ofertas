@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QHKBC4N-es PUMA Campus Grip Bag Retro Bolsa Deporte Adultos Unisex...'
-tags: 
+tags: tole.es
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

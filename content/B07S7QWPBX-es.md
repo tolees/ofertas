@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7QWPBX-es PUMA Carina L JR Zapatillas para Niñas Blanco White/Gulf...'
-tags: 
+tags: tole.es
 actualPrice: 31.12 EUR
 currency: EUR
 price: 31.12

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZXP237-es Fresadora 2 Pinzas 1/4" 1/8" Compatible Fresa de 6mm 6...'
-tags: 
+tags: tole.es
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

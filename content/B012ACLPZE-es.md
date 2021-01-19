@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012ACLPZE-es Swimovate Poolmate 2 - Reloj cuenta vueltas color azul'
-tags: 
+tags: tole.es
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

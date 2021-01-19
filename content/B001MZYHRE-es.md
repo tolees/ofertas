@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001MZYHRE-es Hill`s Science Plan Alimento con Sabor a Pollo para Perros...'
-tags: 
+tags: tole.es
 actualPrice: 3.0 EUR
 currency: EUR
 price: 3.0

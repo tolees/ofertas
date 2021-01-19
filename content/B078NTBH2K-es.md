@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078NTBH2K-es IPOTCH SFR1M44-U100K USB Floppy Drive para Equipos de...'
-tags: 
+tags: tole.es
 actualPrice: 22.66 EUR
 currency: EUR
 price: 22.66

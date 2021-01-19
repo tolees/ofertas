@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYMX1S1-es Mandolina ajustable por Chef s INSPIRATIONS. Ideal para...'
-tags: 
+tags: tole.es
 actualPrice: 27.97 EUR
 currency: EUR
 price: 27.97

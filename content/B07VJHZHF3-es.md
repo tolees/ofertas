@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VJHZHF3-es Hackett London Amr Wings tee Camiseta Naranja 158flame...'
-tags: 
+tags: tole.es
 actualPrice: 22.26 EUR
 currency: EUR
 price: 22.26

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012KTJQNK-es Technaxx BT-X15 - Auriculares Gris TXX4545 Circumaural...'
-tags: 
+tags: tole.es
 actualPrice: 34.92 EUR
 currency: EUR
 price: 34.92

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQKFWT-es Pepe Jeans London Harlow Up Run Zapatillas Altas para...'
-tags: 
+tags: tole.es
 actualPrice: 33.54 EUR
 currency: EUR
 price: 33.54

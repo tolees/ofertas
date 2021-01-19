@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S5SGXGN-es Love MoschinoJc4000pp1aMujerBolsos bandoleraRojo Rosso...'
-tags: 
+tags: tole.es
 actualPrice: 131.53 EUR
 currency: EUR
 price: 131.53

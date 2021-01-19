@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LWA8N1A-es Lee Daren - Strong Hand para hombre Azul W33 / L30 ES 44'
-tags: 
+tags: tole.es
 actualPrice: 50.4 EUR
 currency: EUR
 price: 50.4

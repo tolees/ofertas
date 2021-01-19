@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075S3CK1S-es Reebok Ovett Ropa Interior Hombre Negro/Gris S'
-tags: 
+tags: tole.es
 actualPrice: 21.6 EUR
 currency: EUR
 price: 21.6

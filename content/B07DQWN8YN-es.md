@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DQWN8YN-es SWITCH SNK Heroines: Tag Team Frenzy'
-tags: 
+tags: tole.es
 actualPrice: 20.82 EUR
 currency: EUR
 price: 20.82

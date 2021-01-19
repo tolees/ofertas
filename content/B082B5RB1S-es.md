@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082B5RB1S-es 2 Piezas De Perfume Original Para Mujer Perfume De Encaje...'
-tags: 
+tags: tole.es
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

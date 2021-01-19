@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RBZY9JV-es Edge Entertainment- Narcos el Juego de Mesa Color EECMNA01'
-tags: 
+tags: tole.es
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

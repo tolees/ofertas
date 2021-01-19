@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVN4TVF-es SHAN ZU Cuchillo de Cocina Nakiri 16.5cm Cuchillo Japones...'
-tags: 
+tags: tole.es
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

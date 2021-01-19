@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FWKMKK1-es Mattel Disney Toy Story 4 Figura Duke Caboom acrobacias y...'
-tags: 
+tags: tole.es
 actualPrice: 13.21 EUR
 currency: EUR
 price: 13.21

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXWLGD9-es Kipling KiplingKiryasMujerMochilasGris Dark Carbon Y...'
-tags: 
+tags: tole.es
 actualPrice: 21.65 EUR
 currency: EUR
 price: 21.65

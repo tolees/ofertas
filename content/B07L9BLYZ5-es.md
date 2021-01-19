@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9BLYZ5-es Under Armour UA Qualifier Tank Camiseta sin Mangas Mujer...'
-tags: 
+tags: tole.es
 actualPrice: 18.88 EUR
 currency: EUR
 price: 18.88

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JHL9LF5-es Columbia Nikiski 503 Botas Bajas para Mujer Rojo Rich Wine...'
-tags: 
+tags: tole.es
 actualPrice: 34.16 EUR
 currency: EUR
 price: 34.16

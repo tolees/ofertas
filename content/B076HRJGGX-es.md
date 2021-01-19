@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HRJGGX-es Adidas Regista 18 - Pantalónes de fútbol para Hombre Negro L'
-tags: 
+tags: tole.es
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

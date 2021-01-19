@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000E7SSCQ-es Moschino Cheap & Chic Agua de tocador para hombres - 100 ml.'
-tags: 
+tags: tole.es
 actualPrice: 32 EUR
 currency: EUR
 price: 32

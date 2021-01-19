@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BZFY3RP-es Unidad Flash USB portátil Unidad de Memoria USB 2.0 de...'
-tags: 
+tags: tole.es
 actualPrice: 7.75 EUR
 currency: EUR
 price: 7.75

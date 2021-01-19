@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RMLGGCQ-es Calvin Klein - Worked Shopper Bolsos totes Mujer Negro...'
-tags: 
+tags: tole.es
 actualPrice: 89.94 EUR
 currency: EUR
 price: 89.94

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DY3TSBT-es Unknow 16 sq ft rojoParque Juegos Bebe con Malla...'
-tags: 
+tags: tole.es
 actualPrice: 87.39 EUR
 currency: EUR
 price: 87.39

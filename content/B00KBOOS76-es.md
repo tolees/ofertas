@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KBOOS76-es BRA Efficient - Asas de Silicona 2 Unidades Medida...'
-tags: 
+tags: tole.es
 actualPrice: 3.46 EUR
 currency: EUR
 price: 3.46

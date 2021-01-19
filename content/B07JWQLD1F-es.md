@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JWQLD1F-es Pepe Jeans Celia Pl701500 suéter Dulwich 594 Small para Mujer'
-tags: 
+tags: tole.es
 actualPrice: 23.04 EUR
 currency: EUR
 price: 23.04

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LB42SJ9-es Calvin Klein Plunge Sujetador con Push-up Rosa Nymph s...'
-tags: 
+tags: tole.es
 actualPrice: 17.93 EUR
 currency: EUR
 price: 17.93

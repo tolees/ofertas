@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00062YINW-es K&N 33-2059 Filtro de Aire Coche Lavable y Reutilizable'
-tags: 
+tags: tole.es
 actualPrice: 56.43 EUR
 currency: EUR
 price: 56.43

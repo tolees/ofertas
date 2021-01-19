@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00L3F0NWG-es Habitdesign 001638G - Mesa de Centro elevable Modelo Zenit...'
-tags: 
+tags: tole.es
 actualPrice: 60.49 EUR
 currency: EUR
 price: 60.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EB7Q9YS-es Suunto SS022154000 Monitores de Actividad Unisex Adulto...'
-tags: 
+tags: tole.es
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

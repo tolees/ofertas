@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DRXG21F-es Just Dance 2019'
-tags: 
+tags: tole.es
 actualPrice: 28.91 EUR
 currency: EUR
 price: 28.91

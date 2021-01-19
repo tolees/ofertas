@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007IUEFRE-es Stendhal Recette Merveilleuse Crema Revitalisante Nuit...'
-tags: 
+tags: tole.es
 actualPrice: 40.56 EUR
 currency: EUR
 price: 40.56

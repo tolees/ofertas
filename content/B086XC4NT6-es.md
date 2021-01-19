@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086XC4NT6-es ZHBRE Humidificador USB Mini humidificador silencioso...'
-tags: 
+tags: tole.es
 actualPrice: 30.36 EUR
 currency: EUR
 price: 30.36

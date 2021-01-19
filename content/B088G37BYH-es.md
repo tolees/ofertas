@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088G37BYH-es HAPPY - 5 productos el efecto alcanza el 95% CE'
-tags: 
+tags: tole.es
 actualPrice: 4.96 EUR
 currency: EUR
 price: 4.96

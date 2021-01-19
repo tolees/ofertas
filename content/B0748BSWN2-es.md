@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0748BSWN2-es Suministros para mascotas suave y acogedor algodón...'
-tags: 
+tags: tole.es
 actualPrice: 28.98 EUR
 currency: EUR
 price: 28.98

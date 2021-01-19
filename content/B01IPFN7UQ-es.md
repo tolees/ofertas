@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IPFN7UQ-es ASUS DUAL-GTX1060-O6G - Tarjeta gráfica Dual NVIDIA...'
-tags: 
+tags: tole.es
 actualPrice: 199.01 EUR
 currency: EUR
 price: 199.01

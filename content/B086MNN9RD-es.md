@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086MNN9RD-es Taylor Swoden Elizabeth - Humidificador ultrasónico 5 L...'
-tags: 
+tags: tole.es
 actualPrice: 67.19 EUR
 currency: EUR
 price: 67.19

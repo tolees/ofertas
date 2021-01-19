@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0825NZQWG-es Quiksilver On Tour-Licra De Manga Corta con Protección...'
-tags: 
+tags: tole.es
 actualPrice: 23.89 EUR
 currency: EUR
 price: 23.89

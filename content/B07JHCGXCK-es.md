@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JHCGXCK-es Columbia Nikiski 503 Botas Bajas para Mujer Negro Black...'
-tags: 
+tags: tole.es
 actualPrice: 30.73 EUR
 currency: EUR
 price: 30.73

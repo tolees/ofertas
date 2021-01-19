@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B8LBLRB-es FOREO UFO - Tratamiento de Mascarilla Inteligente Color...'
-tags: 
+tags: tole.es
 actualPrice: 84.15 EUR
 currency: EUR
 price: 84.15

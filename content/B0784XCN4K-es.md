@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0784XCN4K-es adidas Duramo 8 M Zapatillas de Running para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 33.48 EUR
 currency: EUR
 price: 33.48

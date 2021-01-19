@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0054QE6FU-es Mister Vac A307 - Filtro HEPA H 12 para aspiradoras...'
-tags: 
+tags: tole.es
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

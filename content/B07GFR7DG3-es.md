@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GFR7DG3-es Pioneer TS-A1370-F - Altavoz coaxial de 3 vías Color Negro'
-tags: 
+tags: tole.es
 actualPrice: 61.52 EUR
 currency: EUR
 price: 61.52

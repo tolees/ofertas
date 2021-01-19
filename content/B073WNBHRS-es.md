@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073WNBHRS-es Sennheiser Momentum Free - Auriculares inalámbricos Negro'
-tags: 
+tags: tole.es
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

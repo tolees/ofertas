@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N22BN3K-es Sennheiser HD 300 Auriculares Circumaurales Ligeros y...'
-tags: 
+tags: tole.es
 actualPrice: 27.19 EUR
 currency: EUR
 price: 27.19

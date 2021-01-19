@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FPP7GXJ-es Relaxdays 10022959 Cubo de Basura Empotrable con Tapa...'
-tags: 
+tags: tole.es
 actualPrice: 36.12 EUR
 currency: EUR
 price: 36.12

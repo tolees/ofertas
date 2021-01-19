@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083Z65VYF-es Panamami Magic Drawing Light Effect Board Sketch Board...'
-tags: 
+tags: tole.es
 actualPrice: 4.37 EUR
 currency: EUR
 price: 4.37

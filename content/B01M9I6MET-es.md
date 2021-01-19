@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M9I6MET-es Nox Modus - NXMODUSB - Caja PC USB 3.0 Color Negro LED Azul'
-tags: 
+tags: tole.es
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

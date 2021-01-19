@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B4XNPXF-es Clip de cinturón de diseño liviano para un Uso fácil Mini...'
-tags: 
+tags: tole.es
 actualPrice: 1.44 EUR
 currency: EUR
 price: 1.44

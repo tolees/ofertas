@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJGVYBJ-es Brabantia Tasty + Pincel repostería de silicona color fir...'
-tags: 
+tags: tole.es
 actualPrice: 4.55 EUR
 currency: EUR
 price: 4.55

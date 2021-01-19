@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CTKSCPQ-es BONAI Pila Recargable 9V Bateria Lithium 600mAh 7.4V 1200...'
-tags: 
+tags: tole.es
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

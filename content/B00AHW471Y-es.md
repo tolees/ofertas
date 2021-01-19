@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00AHW471Y-es GBC Fusion 3000L - Plastificadora para oficina y hogar A3...'
-tags: 
+tags: tole.es
 actualPrice: 101.72 EUR
 currency: EUR
 price: 101.72

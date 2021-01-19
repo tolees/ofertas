@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BM1JBN8-es BaByliss Multigroom 8 en 1 E835E - Cortapelos multifunción...'
-tags: 
+tags: tole.es
 actualPrice: 34.6 EUR
 currency: EUR
 price: 34.6

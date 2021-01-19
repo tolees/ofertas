@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZ5R47V-es Skechers Flex Advantage 3.0 Zapatillas para Hombre Azul...'
-tags: 
+tags: tole.es
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007IYDCV0-es Essie Tono Chloting Opt Hero 497 Colección de Otoño...'
-tags: 
+tags: tole.es
 actualPrice: 3.2 EUR
 currency: EUR
 price: 3.2

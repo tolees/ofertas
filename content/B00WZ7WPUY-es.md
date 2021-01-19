@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WZ7WPUY-es MIAO Soporte portátil Plegable para computadora portátil...'
-tags: 
+tags: tole.es
 actualPrice: 56.78 EUR
 currency: EUR
 price: 56.78

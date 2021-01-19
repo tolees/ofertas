@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QVLBM1Q-es J&C 18W Plafón LED Techo Blanco Natural - IP44 Ultra-fino...'
-tags: 
+tags: tole.es
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

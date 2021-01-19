@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFYM9R9-es PUMA Cilia SD Zapatillas para Mujer Black-Calypso Coral...'
-tags: 
+tags: tole.es
 actualPrice: 25.85 EUR
 currency: EUR
 price: 25.85

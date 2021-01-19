@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FYG8FC5-es Smart MAX My First Farm Animals Multicolor 25cm x 25cm x...'
-tags: 
+tags: tole.es
 actualPrice: 19.34 EUR
 currency: EUR
 price: 19.34

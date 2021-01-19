@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZS5K9B-es Under Armour Sportstyle Terry Pantalones Hombre Negro...'
-tags: 
+tags: tole.es
 actualPrice: 35.5 EUR
 currency: EUR
 price: 35.5

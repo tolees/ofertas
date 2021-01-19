@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JYLGH7J-es Adidas Swift Run J Zapatillas de Gimnasia Unisex Niños...'
-tags: 
+tags: tole.es
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

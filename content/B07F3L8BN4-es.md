@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F3L8BN4-es Garmin Fenix 5S Plus Sapphire Rose Gold Unisex 1'
-tags: 
+tags: tole.es
 actualPrice: 489.0 EUR
 currency: EUR
 price: 489.0

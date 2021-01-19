@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076SDS8KV-es find. Camisa con Cuello Alado Mujer Negro Black/ivory 40...'
-tags: 
+tags: tole.es
 actualPrice: 10.5 EUR
 currency: EUR
 price: 10.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SYZ2Q98-es IPOTCH Juego de Viaje de Madera Plegable 3 en 1 con Damas...'
-tags: 
+tags: tole.es
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

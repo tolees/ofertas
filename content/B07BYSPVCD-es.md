@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BYSPVCD-es GRÜNTEK Tijera Cortasetos de dos manos LEOPARD 540 mm....'
-tags: 
+tags: tole.es
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

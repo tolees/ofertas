@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQ1JLH5-es Ever-Pretty A-línea Vestido de Noche Cuello en V Manga...'
-tags: 
+tags: tole.es
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

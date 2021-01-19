@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U2NSU1G-es Bruguer - Esmalte Acrlico Satinado Laca Acrylic Blanco...'
-tags: 
+tags: tole.es
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

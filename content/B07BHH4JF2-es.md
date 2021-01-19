@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BHH4JF2-es Superga 2730-COTU Zapatillas para Mujer Grigio Grey...'
-tags: 
+tags: tole.es
 actualPrice: 47.82 EUR
 currency: EUR
 price: 47.82

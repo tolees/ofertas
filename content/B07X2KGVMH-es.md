@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X2KGVMH-es Zapatos Invierno Mujer Botas de Nieve Forradas Calientes...'
-tags: 
+tags: tole.es
 actualPrice: 24.25 EUR
 currency: EUR
 price: 24.25

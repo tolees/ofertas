@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071HXB8HG-es Crocs Classic Clog Zuecos Unisex Adulto Ballerina Pink...'
-tags: 
+tags: tole.es
 actualPrice: 25.23 EUR
 currency: EUR
 price: 25.23

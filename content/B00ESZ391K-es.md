@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ESZ391K-es Rayen 6151.01 Funda para Tabla de Planchar Tejido de...'
-tags: 
+tags: tole.es
 actualPrice: 6.58 EUR
 currency: EUR
 price: 6.58

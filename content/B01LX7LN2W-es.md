@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LX7LN2W-es Lindt Excellence Tableta de Chocolate Suave 70% - 100 g'
-tags: 
+tags: tole.es
 actualPrice: 1.2 EUR
 currency: EUR
 price: 1.2

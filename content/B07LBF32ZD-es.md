@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBF32ZD-es Calvin Klein Plunge Sujetador con Push-up Negro Black 001...'
-tags: 
+tags: tole.es
 actualPrice: 21.6 EUR
 currency: EUR
 price: 21.6

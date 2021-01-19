@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075ZZWYHG-es Elite Bags EMS Riñonera botiquín de primeros auxilios...'
-tags: 
+tags: tole.es
 actualPrice: 12.51 EUR
 currency: EUR
 price: 12.51

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R57QKJ3-es STOBOK - Adhesivos de papel de colores para manualidades...'
-tags: 
+tags: tole.es
 actualPrice: 20.86 EUR
 currency: EUR
 price: 20.86

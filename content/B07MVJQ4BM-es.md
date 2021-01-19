@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVJQ4BM-es Kipling - Arto Bolsos bandolera Mujer Morado Dark Plum...'
-tags: 
+tags: tole.es
 actualPrice: 34.5 EUR
 currency: EUR
 price: 34.5

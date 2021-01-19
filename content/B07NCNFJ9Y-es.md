@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NCNFJ9Y-es Riñonera plana Pepe Jeans Raw'
-tags: 
+tags: tole.es
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

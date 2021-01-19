@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VOPG0E-es Dolce & Gabbana 18358 - Agua de colonia'
-tags: 
+tags: tole.es
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

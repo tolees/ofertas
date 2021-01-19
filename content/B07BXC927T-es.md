@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BXC927T-es Plumas de Ganso 250 pcs Blanco Natural Plumas de Gallo...'
-tags: 
+tags: tole.es
 actualPrice: 10.59 EUR
 currency: EUR
 price: 10.59

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075LTTYCN-es Mac Audio MPS - Minicadena Dab+ Dab+ Bluetooth USB CD AUX...'
-tags: 
+tags: tole.es
 actualPrice: 158.3 EUR
 currency: EUR
 price: 158.3

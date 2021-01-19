@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077YCC7WY-es Pikmi Pops Serie 2 - Piruleta 2 Peluches Perfumados...'
-tags: 
+tags: tole.es
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

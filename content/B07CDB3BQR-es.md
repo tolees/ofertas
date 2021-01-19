@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CDB3BQR-es Corsair HS70 Wireless - Auriculares inalámbricos para...'
-tags: 
+tags: tole.es
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

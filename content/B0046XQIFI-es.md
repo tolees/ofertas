@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0046XQIFI-es GLOBE Sabre Zapatillas de Skateboarding para Hombre Negro...'
-tags: 
+tags: tole.es
 actualPrice: 79.34 EUR
 currency: EUR
 price: 79.34

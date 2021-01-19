@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CXM5OJ0-es Saica Piscina Hinchable para niños Multicolor 17118'
-tags: 
+tags: tole.es
 actualPrice: 16.3 EUR
 currency: EUR
 price: 16.3

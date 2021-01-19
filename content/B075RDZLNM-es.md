@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075RDZLNM-es Marca Amazon - IRIS & LILLY Kimono Pijama Mujer Azul Blue...'
-tags: 
+tags: tole.es
 actualPrice: 6.48 EUR
 currency: EUR
 price: 6.48

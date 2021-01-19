@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007CLEU10-es Reebok Workout Plus Zapatillas de Deporte para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 60.9 EUR
 currency: EUR
 price: 60.9

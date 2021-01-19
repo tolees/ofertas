@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFW8DYQ-es Geox J DISCOMIX Girl A Botines para Niñas Beige Dk Beige...'
-tags: 
+tags: tole.es
 actualPrice: 23.72 EUR
 currency: EUR
 price: 23.72

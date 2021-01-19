@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XLCK5G3-es ecomed HP-46E Almohada eléctrica para el cuello almohada...'
-tags: 
+tags: tole.es
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

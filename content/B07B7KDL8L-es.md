@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B7KDL8L-es touchbeauty Cejas automática retráctil Pinzas con luz LED...'
-tags: 
+tags: tole.es
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

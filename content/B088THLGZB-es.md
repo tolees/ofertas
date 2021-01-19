@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088THLGZB-es LNIEGE Forma del Contorno de la duplicadora Perfil de...'
-tags: 
+tags: tole.es
 actualPrice: 7.24 EUR
 currency: EUR
 price: 7.24

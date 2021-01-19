@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q4F8ZMH-es Dockers by Gerli 45ca101 Botas Militar para Hombre Negro...'
-tags: 
+tags: tole.es
 actualPrice: 21.38 EUR
 currency: EUR
 price: 21.38

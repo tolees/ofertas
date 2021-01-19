@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TVVF7FJ-es Skechers Arch Fit Zapatillas para Hombre Azul Navy...'
-tags: 
+tags: tole.es
 actualPrice: 55.46 EUR
 currency: EUR
 price: 55.46

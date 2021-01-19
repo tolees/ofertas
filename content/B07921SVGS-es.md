@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07921SVGS-es Nike Park18 Knit Pantalónes de Entrenamiento Hombre Negro...'
-tags: 
+tags: tole.es
 actualPrice: 22.7 EUR
 currency: EUR
 price: 22.7

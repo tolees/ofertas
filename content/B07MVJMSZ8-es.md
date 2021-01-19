@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVJMSZ8-es Napapijri Semiury 2 Gorro de Punto Gris Dark Grey Mel 197...'
-tags: 
+tags: tole.es
 actualPrice: 29.4 EUR
 currency: EUR
 price: 29.4

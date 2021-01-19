@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007E9VJGO-es Smiffy S 37809 Spray Sangre Con Atomizador De Bombeo Rojo'
-tags: 
+tags: tole.es
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

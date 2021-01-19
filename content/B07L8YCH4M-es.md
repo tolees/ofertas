@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L8YCH4M-es Adidas Adipower Light 1.9 Palas Mujer Rosa 360'
-tags: 
+tags: tole.es
 actualPrice: 119.95 EUR
 currency: EUR
 price: 119.95

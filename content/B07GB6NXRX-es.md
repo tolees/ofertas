@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GB6NXRX-es Funda Xiaomi Mi A2 Lite Eouine Cárcasa Silicona 3D...'
-tags: 
+tags: tole.es
 actualPrice: 5.5 EUR
 currency: EUR
 price: 5.5

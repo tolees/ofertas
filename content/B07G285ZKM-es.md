@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G285ZKM-es 10 Dry Erase Pocket | Fundas Reutilizables Fichas Papel A4...'
-tags: 
+tags: tole.es
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

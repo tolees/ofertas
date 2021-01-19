@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XRJQDSC-es ESDDI CPL 58mm Filtro Cicular Polarizador Filtro CPL para...'
-tags: 
+tags: tole.es
 actualPrice: 5.87 EUR
 currency: EUR
 price: 5.87

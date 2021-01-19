@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S4XZPJP-es New Balance 997H h Zapatillas para Hombre Rojo Red Hbs 45 EU'
-tags: 
+tags: tole.es
 actualPrice: 40.04 EUR
 currency: EUR
 price: 40.04

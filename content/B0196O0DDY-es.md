@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0196O0DDY-es VAUDE Hogan UL 2P Tienda Unisex Adulto Verde Talla única'
-tags: 
+tags: tole.es
 actualPrice: 266.17 EUR
 currency: EUR
 price: 266.17

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0091R9QSK-es Pilot G-Tec C4 - Bolígrafo roller 0 4 mm color negro'
-tags: 
+tags: tole.es
 actualPrice: 2.4 EUR
 currency: EUR
 price: 2.4

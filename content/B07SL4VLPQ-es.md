@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SL4VLPQ-es Smarten Zapatillas de Running Hombre Mujer Air Correr...'
-tags: 
+tags: tole.es
 actualPrice: 33.88 EUR
 currency: EUR
 price: 33.88

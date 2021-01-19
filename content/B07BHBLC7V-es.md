@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BHBLC7V-es Kipling - New Hiphurray Bolsos totes Mujer Rojo Lively Red...'
-tags: 
+tags: tole.es
 actualPrice: 12.64 EUR
 currency: EUR
 price: 12.64

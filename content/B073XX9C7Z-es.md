@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073XX9C7Z-es Scuderia Ferrari Reloj Cronógrafo para Hombre de Cuarzo...'
-tags: 
+tags: tole.es
 actualPrice: 122.46 EUR
 currency: EUR
 price: 122.46

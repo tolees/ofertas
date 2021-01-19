@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L3YH6V3-es IPOTCH Calcomanías de Soplador Protector Pegatinas...'
-tags: 
+tags: tole.es
 actualPrice: 5.48 EUR
 currency: EUR
 price: 5.48

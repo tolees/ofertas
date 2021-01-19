@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKN3RG5-es Joma Cannes II Pantalon Largo Deportivo Hombre Marino S'
-tags: 
+tags: tole.es
 actualPrice: 10.14 EUR
 currency: EUR
 price: 10.14

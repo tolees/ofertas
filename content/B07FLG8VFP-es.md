@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FLG8VFP-es Philips Avent Biberón Natural SCF035/17 - Biberón de 260...'
-tags: 
+tags: tole.es
 actualPrice: 6.59 EUR
 currency: EUR
 price: 6.59

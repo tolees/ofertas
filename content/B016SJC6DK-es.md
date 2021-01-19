@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016SJC6DK-es BeMaxx Juego de Bandas de Resistencia elásticas + guía de...'
-tags: 
+tags: tole.es
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

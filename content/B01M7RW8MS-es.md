@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M7RW8MS-es Jata TT610 Tostador Acero Inoxidable Tostador De Cuerpo De...'
-tags: 
+tags: tole.es
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

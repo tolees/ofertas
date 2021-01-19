@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZSNCVJ-es Under Armour Sportstyle Logo LS Camiseta Hombre Azul...'
-tags: 
+tags: tole.es
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49

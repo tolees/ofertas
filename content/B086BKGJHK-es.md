@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086BKGJHK-es Oihxse Funda Compatible con Huawei Y5 2018/honor 7s...'
-tags: 
+tags: tole.es
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

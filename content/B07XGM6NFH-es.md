@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XGM6NFH-es Inventor EVA II PRO 20 litros/día con R290...'
-tags: 
+tags: tole.es
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

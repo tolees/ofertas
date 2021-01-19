@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014YUE3F4-es Pepe Jeans Soho Vaqueros Azul 10Oz Rinse Plus M15 26W /...'
-tags: 
+tags: tole.es
 actualPrice: 21.91 EUR
 currency: EUR
 price: 21.91

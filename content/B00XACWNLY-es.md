@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XACWNLY-es Durex Preservativos Saboreame con Sabores Afrutados - 12...'
-tags: 
+tags: tole.es
 actualPrice: 9.2 EUR
 currency: EUR
 price: 9.2

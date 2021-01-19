@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BK2HKV6-es New Balance 373 Core Zapatillas para Hombre Gris Grey 38.5 EU'
-tags: 
+tags: tole.es
 actualPrice: 37.75 EUR
 currency: EUR
 price: 37.75

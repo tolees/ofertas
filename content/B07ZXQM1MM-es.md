@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZXQM1MM-es Uposao Compatible con Funda Samsung Galaxy A20/A30 360...'
-tags: 
+tags: tole.es
 actualPrice: 2.97 EUR
 currency: EUR
 price: 2.97

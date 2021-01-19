@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y9XXLVK-es María Barceló Sneaker Alta Piel Rosa Mujer María Barceló'
-tags: 
+tags: tole.es
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019OFMKDG-es Lacoste PH4012 Polo Para Hombre Blanco Blanc X-Small Talla...'
-tags: 
+tags: tole.es
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

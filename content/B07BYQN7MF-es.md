@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BYQN7MF-es H&S Citrus Fresh Anticaspa Champú 90 ml Para El Cabello Graso'
-tags: 
+tags: tole.es
 actualPrice: 1.0 EUR
 currency: EUR
 price: 1.0

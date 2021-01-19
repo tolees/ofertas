@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D2PIGQY-es LG CineBeam PH550G - Proyector con batería integrada hasta...'
-tags: 
+tags: tole.es
 actualPrice: 259.26 EUR
 currency: EUR
 price: 259.26

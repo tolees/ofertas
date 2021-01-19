@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015GYRQCO-es L Oréal Paris Accord Parfait Base de maquillaje acabado...'
-tags: 
+tags: tole.es
 actualPrice: 8.22 EUR
 currency: EUR
 price: 8.22

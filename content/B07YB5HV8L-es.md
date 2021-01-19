@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YB5HV8L-es Taurus Vac600 Envasadora al vacío Acero Inoxidable'
-tags: 
+tags: tole.es
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

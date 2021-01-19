@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SBVS27C-es PUMA Ignite Flash Evoknit Zapatillas de Running para...'
-tags: 
+tags: tole.es
 actualPrice: 26.68 EUR
 currency: EUR
 price: 26.68

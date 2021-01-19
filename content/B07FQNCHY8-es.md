@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQNCHY8-es Adidas V Racer 2.0 Zapatillas de Deporte para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 37.66 EUR
 currency: EUR
 price: 37.66

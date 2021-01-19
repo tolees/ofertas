@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QQDW9XF-es Bourjois Velvet The Pencil - Pintalabios Tono 13 Framboise...'
-tags: 
+tags: tole.es
 actualPrice: 3.91 EUR
 currency: EUR
 price: 3.91

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZPBKLJQ-es San Ignacio Set 5pc 16 20 24 28cm sartenes + espátula...'
-tags: 
+tags: tole.es
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

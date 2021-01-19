@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P4JCSXJ-es Superdry Jacob Henley suéter Gris Concrete Twist THU XS...'
-tags: 
+tags: tole.es
 actualPrice: 44.49 EUR
 currency: EUR
 price: 44.49

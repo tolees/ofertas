@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBHSK1P-es Tristar VE-5999 Ventilador de torre 75 centímetros 45 W...'
-tags: 
+tags: tole.es
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

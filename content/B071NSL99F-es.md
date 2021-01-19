@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071NSL99F-es TomTom VIA 53 GPS Navegación con pantalla táctil de 5...'
-tags: 
+tags: tole.es
 actualPrice: 109.95 EUR
 currency: EUR
 price: 109.95

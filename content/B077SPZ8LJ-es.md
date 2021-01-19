@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077SPZ8LJ-es PUMA 655307 03 Capucha Hombre Negro Puma Black/Puma White M'
-tags: 
+tags: tole.es
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

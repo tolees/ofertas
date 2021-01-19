@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013ICNEWC-es KabelDirekt 5m Cable de Extensión HDMI compatible con HDMI...'
-tags: 
+tags: tole.es
 actualPrice: 10.16 EUR
 currency: EUR
 price: 10.16

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HY171SF-es Fisher-Price Wonder Makers Centro de reciclaje juguetes...'
-tags: 
+tags: tole.es
 actualPrice: 17.38 EUR
 currency: EUR
 price: 17.38

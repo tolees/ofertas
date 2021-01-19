@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072PZBSYJ-es Finether 4 1M Escalera Telescópica de Aluminio Escalera...'
-tags: 
+tags: tole.es
 actualPrice: 91.99 EUR
 currency: EUR
 price: 91.99

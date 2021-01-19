@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DLSMK38-es American Tourister Urban Groove - 15.6 pulgadas Mochila...'
-tags: 
+tags: tole.es
 actualPrice: 31.77 EUR
 currency: EUR
 price: 31.77

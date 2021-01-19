@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N19PJ9K-es Lee Trend Fit Tee Camiseta para Hombre Azul Midnight Navy...'
-tags: 
+tags: tole.es
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

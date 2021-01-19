@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YYJL21Z-es SanDisk Ultra Dual Drive Go para Dispositivos con USB...'
-tags: 
+tags: tole.es
 actualPrice: 42.39 EUR
 currency: EUR
 price: 42.39

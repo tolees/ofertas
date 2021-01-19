@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017ENMZRQ-es Omega PCS71906OG05G - Altavoces color verde'
-tags: 
+tags: tole.es
 actualPrice: 7.43 EUR
 currency: EUR
 price: 7.43

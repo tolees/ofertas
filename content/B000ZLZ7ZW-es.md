@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000ZLZ7ZW-es Nesti Dante Dei Colli Fiorentini Lavanda Soap Mydlo...'
-tags: 
+tags: tole.es
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

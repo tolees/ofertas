@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XTJSX62-es Dolphin Carrera 30 - Robot limpiafondos para piscinas...'
-tags: 
+tags: tole.es
 actualPrice: 450.0 EUR
 currency: EUR
 price: 450.0

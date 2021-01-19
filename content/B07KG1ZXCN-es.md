@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG1ZXCN-es PUMA St Runner V2 Mesh Zapatillas Unisex Adulto - Azul...'
-tags: 
+tags: tole.es
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

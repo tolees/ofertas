@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HB3HXJM-es Funko- Pop Vinyl: The Lion King-Luau Timon Disney Figura...'
-tags: 
+tags: tole.es
 actualPrice: 10.77 EUR
 currency: EUR
 price: 10.77

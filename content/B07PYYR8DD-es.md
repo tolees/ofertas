@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PYYR8DD-es Under Armour UA W HOVR Sonic 3 Zapatillas de Running para...'
-tags: 
+tags: tole.es
 actualPrice: 48.45 EUR
 currency: EUR
 price: 48.45

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZNHUQ5-es Victoria Sierra Deportivo Piel Zapatillas Unisex Adulto...'
-tags: 
+tags: tole.es
 actualPrice: 51.13 EUR
 currency: EUR
 price: 51.13

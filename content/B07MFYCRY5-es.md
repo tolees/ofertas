@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MFYCRY5-es Atletico Madrid FC - Figura SoccerStarz de Lemar 5cm...'
-tags: 
+tags: tole.es
 actualPrice: 4.2 EUR
 currency: EUR
 price: 4.2

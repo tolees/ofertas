@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GCNQ2KA-es Reemplazo Accesorios Kit de Botones Enchapados para Sony...'
-tags: 
+tags: tole.es
 actualPrice: 4.25 EUR
 currency: EUR
 price: 4.25

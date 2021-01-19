@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074DVZ2T9-es Reposacabezas para coche apto para tablets de 7 pulgadas...'
-tags: 
+tags: tole.es
 actualPrice: 16.3 EUR
 currency: EUR
 price: 16.3

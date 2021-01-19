@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XJ5SMR6-es Dewalt DCH133NT-XJ Martillo electroneumático sin...'
-tags: 
+tags: tole.es
 actualPrice: 137.99 EUR
 currency: EUR
 price: 137.99

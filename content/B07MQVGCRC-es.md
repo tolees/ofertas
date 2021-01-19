@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQVGCRC-es Napapijri Berber H Sudadera con Capucha Azul BLU Marine...'
-tags: 
+tags: tole.es
 actualPrice: 44.55 EUR
 currency: EUR
 price: 44.55

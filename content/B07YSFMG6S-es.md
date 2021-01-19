@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YSFMG6S-es NEXCURIO Funda Silicona Galaxy Note 10 Carcasa...'
-tags: 
+tags: tole.es
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003WUGR6G-es Munchkin - Cubierto'
-tags: 
+tags: tole.es
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

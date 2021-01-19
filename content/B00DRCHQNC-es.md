@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DRCHQNC-es KENSINGTON K67822WW - Estación de bloqueo SafeStand para...'
-tags: 
+tags: tole.es
 actualPrice: 106.99 EUR
 currency: EUR
 price: 106.99

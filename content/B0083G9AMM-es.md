@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0083G9AMM-es MOTOGP MESSENGER BOLSA CASCO: MOTOGP'
-tags: 
+tags: tole.es
 actualPrice: 16.69 EUR
 currency: EUR
 price: 16.69

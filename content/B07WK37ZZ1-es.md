@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WK37ZZ1-es BANLVS Smartwatch Niños 2019 Nuevo Reloj Inteligente Niños...'
-tags: 
+tags: tole.es
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

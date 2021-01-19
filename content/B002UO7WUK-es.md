@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002UO7WUK-es Playgro Set de Animales Rociadores Azul/Verde 8 figuras...'
-tags: 
+tags: tole.es
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

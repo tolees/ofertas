@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHDKQH4-es Hackett London Slim Fit Logo Polo Azul 5dinavy/Blue 5di...'
-tags: 
+tags: tole.es
 actualPrice: 37.73 EUR
 currency: EUR
 price: 37.73

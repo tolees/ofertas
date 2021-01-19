@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4M5F8L-es Love Moschino Jc4270pp0a Bolsa de mensajero para Mujer...'
-tags: 
+tags: tole.es
 actualPrice: 78.0 EUR
 currency: EUR
 price: 78.0

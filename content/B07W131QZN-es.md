@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W131QZN-es Call of Duty: Modern Warfare - Steelbook [enthält kein...'
-tags: 
+tags: tole.es
 actualPrice: 9.06 EUR
 currency: EUR
 price: 9.06

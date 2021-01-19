@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071CM9PTT-es eXtremeRate Compatible con Nintendo Switch Pegatina...'
-tags: 
+tags: tole.es
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

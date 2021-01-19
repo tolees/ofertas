@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016D31EWA-es De Longhi DEX16F - Deshumidificador silencioso función...'
-tags: 
+tags: tole.es
 actualPrice: 244.99 EUR
 currency: EUR
 price: 244.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075GQBMMV-es LEGO DUPLO - Gran Zona de Juegos 10864'
-tags: 
+tags: tole.es
 actualPrice: 36.4 EUR
 currency: EUR
 price: 36.4

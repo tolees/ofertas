@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086X8QSX9-es Batería Recargable LCD Multifuncional Adaptador de Carga...'
-tags: 
+tags: tole.es
 actualPrice: 30.79 EUR
 currency: EUR
 price: 30.79

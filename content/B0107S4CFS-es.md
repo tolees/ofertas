@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0107S4CFS-es Joma - Sudadera faraon marino media cremallera para hombre L'
-tags: 
+tags: tole.es
 actualPrice: 15.24 EUR
 currency: EUR
 price: 15.24

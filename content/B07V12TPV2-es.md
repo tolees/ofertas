@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V12TPV2-es K-WAY Claudette Abrigo Gris Grey Lt Lead 343 128 Talla del...'
-tags: 
+tags: tole.es
 actualPrice: 43.8 EUR
 currency: EUR
 price: 43.8

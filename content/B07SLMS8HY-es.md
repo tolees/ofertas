@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SLMS8HY-es Qkiss Rejuvenecimiento Facial Máquina Cuidado Facial de la...'
-tags: 
+tags: tole.es
 actualPrice: 17.29 EUR
 currency: EUR
 price: 17.29

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CWXHAZK-es Schwarzkopf Professional Osis Mighty Ultra Strong Matte...'
-tags: 
+tags: tole.es
 actualPrice: 5.87 EUR
 currency: EUR
 price: 5.87

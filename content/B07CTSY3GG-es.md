@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CTSY3GG-es Skechers Flex Advantage 3.0-Jection Zapatillas Deportivas...'
-tags: 
+tags: tole.es
 actualPrice: 41.95 EUR
 currency: EUR
 price: 41.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Z7SZI5C-es LifeProof Fre - Funda estanca y Anti caídas para Apple...'
-tags: 
+tags: tole.es
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

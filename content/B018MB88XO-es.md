@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018MB88XO-es HP Essential Top Load - Funda bandolera para portátil de...'
-tags: 
+tags: tole.es
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

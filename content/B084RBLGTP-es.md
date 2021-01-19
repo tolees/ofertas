@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084RBLGTP-es 100pcs / Set Hoja conductora Profesional 2.5x0.5CM Pestaña...'
-tags: 
+tags: tole.es
 actualPrice: 4.24 EUR
 currency: EUR
 price: 4.24

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WGZPG2Q-es Philips S5630/45 - Afeitadora electrica uso en seco y en...'
-tags: 
+tags: tole.es
 actualPrice: 98.0 EUR
 currency: EUR
 price: 98.0

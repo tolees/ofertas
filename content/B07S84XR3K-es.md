@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S84XR3K-es adidas Real Madrid Mini Home Kids Equipamiento de Fútbol...'
-tags: 
+tags: tole.es
 actualPrice: 29.75 EUR
 currency: EUR
 price: 29.75

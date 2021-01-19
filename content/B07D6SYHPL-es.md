@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D6SYHPL-es MODAUTO Estructura para Videojuego Estructura Simulador de...'
-tags: 
+tags: tole.es
 actualPrice: 270.0 EUR
 currency: EUR
 price: 270.0

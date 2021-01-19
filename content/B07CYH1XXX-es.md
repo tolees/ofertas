@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CYH1XXX-es Drift DR150B - Silla Gaming Profesional Poilipiel Alta...'
-tags: 
+tags: tole.es
 actualPrice: 148.76 EUR
 currency: EUR
 price: 148.76

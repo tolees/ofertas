@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XAP1QK0-es Haribo - Cartucheras - Dulces de regaliz - 1.5 kg'
-tags: 
+tags: tole.es
 actualPrice: 7.84 EUR
 currency: EUR
 price: 7.84

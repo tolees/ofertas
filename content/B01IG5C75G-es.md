@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IG5C75G-es Camper Herren Beetle Sneaker Braun Medium Brown 210 39 EU'
-tags: 
+tags: tole.es
 actualPrice: 56.31 EUR
 currency: EUR
 price: 56.31

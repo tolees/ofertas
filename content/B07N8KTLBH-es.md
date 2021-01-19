@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8KTLBH-es BOSS Tylir-Stripe_sz35 Cinturón Azul Navy 410 120 para Hombre'
-tags: 
+tags: tole.es
 actualPrice: 23.47 EUR
 currency: EUR
 price: 23.47

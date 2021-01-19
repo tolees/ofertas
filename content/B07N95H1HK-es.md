@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N95H1HK-es BOSS Schino-Slim D Pantalones Marrón Dark Brown 201...'
-tags: 
+tags: tole.es
 actualPrice: 35.45 EUR
 currency: EUR
 price: 35.45

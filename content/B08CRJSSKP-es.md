@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CRJSSKP-es 10A Control remoto inalámbrico inteligente para el hogar...'
-tags: 
+tags: tole.es
 actualPrice: 21.08 EUR
 currency: EUR
 price: 21.08

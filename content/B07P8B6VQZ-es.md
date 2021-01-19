@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P8B6VQZ-es Pala de Pádel Piton Attack | Black Crown | Nivel: Avanzado...'
-tags: 
+tags: tole.es
 actualPrice: 119.95 EUR
 currency: EUR
 price: 119.95

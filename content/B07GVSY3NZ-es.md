@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GVSY3NZ-es edc by Esprit 118cc1b003 Pantalones Azul Navy 400 W34/L30...'
-tags: 
+tags: tole.es
 actualPrice: 23.06 EUR
 currency: EUR
 price: 23.06

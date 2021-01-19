@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XHGWWX2-es Helly Hansen HH LIFA 1/2 Zip Camiseta Técnica Lana Merino...'
-tags: 
+tags: tole.es
 actualPrice: 43.96 EUR
 currency: EUR
 price: 43.96

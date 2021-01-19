@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KB9XT4Q-es Nyx Professional Makeup Corrector No Comedogénico...'
-tags: 
+tags: tole.es
 actualPrice: 6.23 EUR
 currency: EUR
 price: 6.23

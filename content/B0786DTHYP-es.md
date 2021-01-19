@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0786DTHYP-es New Balance Fresh Foam Gobi v3 Zapatillas de Running para...'
-tags: 
+tags: tole.es
 actualPrice: 52.76 EUR
 currency: EUR
 price: 52.76

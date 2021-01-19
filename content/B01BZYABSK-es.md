@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BZYABSK-es Reebok Classic Leather Zapatillas de Deporte para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 56.02 EUR
 currency: EUR
 price: 56.02

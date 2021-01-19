@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084T76ZBW-es kesoto M10 Timbres Inalambricos para Exterior Conectar...'
-tags: 
+tags: tole.es
 actualPrice: 35.19 EUR
 currency: EUR
 price: 35.19

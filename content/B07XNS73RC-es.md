@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XNS73RC-es Goldyqin Pantalla monocromática Professional HD 1536kbps...'
-tags: 
+tags: tole.es
 actualPrice: 18.41 EUR
 currency: EUR
 price: 18.41

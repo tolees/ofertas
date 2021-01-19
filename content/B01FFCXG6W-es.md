@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FFCXG6W-es Dino Dini s Kick Off Revival - Day One Edition'
-tags: 
+tags: tole.es
 actualPrice: 13.6 EUR
 currency: EUR
 price: 13.6

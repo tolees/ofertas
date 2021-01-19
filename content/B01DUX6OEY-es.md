@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DUX6OEY-es Knorr - Ligeresa - Crema de Verduras de la Huerta - 500 ml'
-tags: 
+tags: tole.es
 actualPrice: 1.3 EUR
 currency: EUR
 price: 1.3

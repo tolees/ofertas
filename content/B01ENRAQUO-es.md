@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ENRAQUO-es Safta Maletín Minions Oficial Para Ordenador 380x60x280mm'
-tags: 
+tags: tole.es
 actualPrice: 13.95 EUR
 currency: EUR
 price: 13.95

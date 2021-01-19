@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKVJTFF-es Sebago Schooner Náuticos para Hombre Azul Blue Navy/Gum...'
-tags: 
+tags: tole.es
 actualPrice: 82.18 EUR
 currency: EUR
 price: 82.18

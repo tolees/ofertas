@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V5HMVZS-es HUGO 2p Stripe Cc Calcetines Azul Dark Blue 401 35/38...'
-tags: 
+tags: tole.es
 actualPrice: 7.63 EUR
 currency: EUR
 price: 7.63

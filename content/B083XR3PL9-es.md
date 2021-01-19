@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083XR3PL9-es DEATTI HD Cámara de vigilancia 1080P IR visión nocturna...'
-tags: 
+tags: tole.es
 actualPrice: 13.38 EUR
 currency: EUR
 price: 13.38

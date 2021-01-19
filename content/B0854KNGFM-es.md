@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0854KNGFM-es Tamaño portátil Fragancia fresca Perfume original Perfume...'
-tags: 
+tags: tole.es
 actualPrice: 5.82 EUR
 currency: EUR
 price: 5.82

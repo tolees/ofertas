@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0168IAEN0-es Beurer FC 76 - Exfoliador profesional de...'
-tags: 
+tags: tole.es
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

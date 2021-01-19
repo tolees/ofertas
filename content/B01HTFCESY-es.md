@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HTFCESY-es Reebok Classic Leather Zapatillas Mujer Negro Int / Black...'
-tags: 
+tags: tole.es
 actualPrice: 46.07 EUR
 currency: EUR
 price: 46.07

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B4ZRJJY-es JACK & JONES Jjeunion Knit Crew Neck Noos suéter Gris Dark...'
-tags: 
+tags: tole.es
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

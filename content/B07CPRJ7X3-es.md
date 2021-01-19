@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CPRJ7X3-es Outsunny Columpio Balancín Jardín 3 Plazas Convertible en...'
-tags: 
+tags: tole.es
 actualPrice: 188.99 EUR
 currency: EUR
 price: 188.99

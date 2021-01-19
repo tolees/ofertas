@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075C9LWXZ-es Seiko Reloj Cronógrafo para Hombre de Cuarzo con Correa en...'
-tags: 
+tags: tole.es
 actualPrice: 177.95 EUR
 currency: EUR
 price: 177.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082V9WPKF-es LTPAG Luz de Video LED Luz de Panel de Cámara Regulable...'
-tags: 
+tags: tole.es
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

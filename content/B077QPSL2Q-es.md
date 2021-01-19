@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077QPSL2Q-es Superga 2750-cotbumpj Zapatillas de Gimnasia Unisex Niños...'
-tags: 
+tags: tole.es
 actualPrice: 19.62 EUR
 currency: EUR
 price: 19.62

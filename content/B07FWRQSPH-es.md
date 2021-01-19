@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FWRQSPH-es DaoRier - Cadena Tobillera para Mujer diseño de pie...'
-tags: 
+tags: tole.es
 actualPrice: 1.11 EUR
 currency: EUR
 price: 1.11

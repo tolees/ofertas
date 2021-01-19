@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DZLC2KG-es Tom Ford Ombre Leather Agua Fresca - 50 ml'
-tags: 
+tags: tole.es
 actualPrice: 63.6 EUR
 currency: EUR
 price: 63.6

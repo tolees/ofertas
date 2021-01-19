@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087V58KHV-es Inibsa Alcogel 100 ml - Gel hidroalcóholico manos 70%. Sin...'
-tags: 
+tags: tole.es
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

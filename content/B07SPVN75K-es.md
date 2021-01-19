@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SPVN75K-es Funko- Pop TV: La Casa de Papel-Helsinki Collectible...'
-tags: 
+tags: tole.es
 actualPrice: 7.78 EUR
 currency: EUR
 price: 7.78

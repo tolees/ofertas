@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TQOLNXO-es Nuby ID5397AQUA - Alimentador antiahogo con redecilla...'
-tags: 
+tags: tole.es
 actualPrice: 4.02 EUR
 currency: EUR
 price: 4.02

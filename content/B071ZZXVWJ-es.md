@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071ZZXVWJ-es Tasty Bites Cheesy carne y queso de 140g para educar |...'
-tags: 
+tags: tole.es
 actualPrice: 6 EUR
 currency: EUR
 price: 6

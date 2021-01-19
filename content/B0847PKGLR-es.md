@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0847PKGLR-es FactorLED ¡NOVEDAD! Downlight Panel Superficie LED...'
-tags: 
+tags: tole.es
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088TPPF79-es Traje de Gasa de Tres Capas de Espesamiento a Pprueba de...'
-tags: 
+tags: tole.es
 actualPrice: 9.32 EUR
 currency: EUR
 price: 9.32

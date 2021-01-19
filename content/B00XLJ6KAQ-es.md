@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XLJ6KAQ-es Playtex APP01P4 Sujetador Blanco 95D para Mujer'
-tags: 
+tags: tole.es
 actualPrice: 16.13 EUR
 currency: EUR
 price: 16.13

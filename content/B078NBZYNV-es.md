@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078NBZYNV-es Catherine Lansfield - Juego de Funda de edredón de fácil...'
-tags: 
+tags: tole.es
 actualPrice: 21.78 EUR
 currency: EUR
 price: 21.78

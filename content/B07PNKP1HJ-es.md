@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PNKP1HJ-es L.O.L Surprise'
-tags: 
+tags: tole.es
 actualPrice: 44.97 EUR
 currency: EUR
 price: 44.97

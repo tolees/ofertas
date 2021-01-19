@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001BBHG1I-es Seiko Reloj Analógico Automático para Hombre con Correa de...'
-tags: 
+tags: tole.es
 actualPrice: 103.55 EUR
 currency: EUR
 price: 103.55

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FUX6WBW-es Kenwood Triblade System Pro HDM804SI Batidora de mano...'
-tags: 
+tags: tole.es
 actualPrice: 91.74 EUR
 currency: EUR
 price: 91.74

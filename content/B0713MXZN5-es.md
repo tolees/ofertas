@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0713MXZN5-es Tommy Hilfiger HMT-W PNTSLD99002 Pantalones Beige 203...'
-tags: 
+tags: tole.es
 actualPrice: 41.54 EUR
 currency: EUR
 price: 41.54

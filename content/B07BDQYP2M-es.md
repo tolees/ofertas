@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BDQYP2M-es American Tourister Disney Wavebreaker - Maleta Infantil...'
-tags: 
+tags: tole.es
 actualPrice: 82.71 EUR
 currency: EUR
 price: 82.71

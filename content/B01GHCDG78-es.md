@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GHCDG78-es Mengshen Mini DLP Proyector Portátil Recargable...'
-tags: 
+tags: tole.es
 actualPrice: 189.99 EUR
 currency: EUR
 price: 189.99

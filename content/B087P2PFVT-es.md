@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087P2PFVT-es Kaizi Karzi Mujer Moda Puntiagudo Zapatos de la Corte...'
-tags: 
+tags: tole.es
 actualPrice: 25.86 EUR
 currency: EUR
 price: 25.86

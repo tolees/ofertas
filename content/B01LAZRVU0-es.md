@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LAZRVU0-es BigBen RR15METRO - Radio despertador pantalla LED de 2"...'
-tags: 
+tags: tole.es
 actualPrice: 11.0 EUR
 currency: EUR
 price: 11.0

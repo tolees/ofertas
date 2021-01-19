@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075XLQVRM-es New Balance 247v2 Zapatillas para Mujer Morado Deep Cosmic...'
-tags: 
+tags: tole.es
 actualPrice: 46.95 EUR
 currency: EUR
 price: 46.95

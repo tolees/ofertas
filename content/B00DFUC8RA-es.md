@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DFUC8RA-es Kappa Bright Mid Kids Botas Clasicas Unisex Niños Beige...'
-tags: 
+tags: tole.es
 actualPrice: 19.45 EUR
 currency: EUR
 price: 19.45

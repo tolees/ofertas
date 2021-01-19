@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076KD27ZQ-es ORICO Funda Disco Duro Externo 3.5 para Western Digital WD...'
-tags: 
+tags: tole.es
 actualPrice: 9.47 EUR
 currency: EUR
 price: 9.47

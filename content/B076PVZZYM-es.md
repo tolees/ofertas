@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076PVZZYM-es Skechers Women s Ultra Flex-First Take Slip On Trainers...'
-tags: 
+tags: tole.es
 actualPrice: 44.0 EUR
 currency: EUR
 price: 44.0

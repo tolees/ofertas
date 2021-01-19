@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RFWT7H6-es Marca Amazon - find. Zip Front Leather Botines Negro Black...'
-tags: 
+tags: tole.es
 actualPrice: 13.52 EUR
 currency: EUR
 price: 13.52

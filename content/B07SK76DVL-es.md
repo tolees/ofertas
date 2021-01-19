@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SK76DVL-es Consola de juegos portátil JXD de 4.3 pulgadas y doble...'
-tags: 
+tags: tole.es
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

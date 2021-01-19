@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IQZ1Y6Y-es Star Wars Rogue One - Disfraz de Death Trooper para niños...'
-tags: 
+tags: tole.es
 actualPrice: 10.08 EUR
 currency: EUR
 price: 10.08

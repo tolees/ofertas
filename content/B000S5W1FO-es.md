@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000S5W1FO-es pjur AQUA - Lubricante Premium acuoso - Excelentes...'
-tags: 
+tags: tole.es
 actualPrice: 1.9 EUR
 currency: EUR
 price: 1.9

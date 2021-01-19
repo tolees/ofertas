@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003KNJBWM-es JVL - Felpudo Fibra de Coco y PVC 40 x 70 cm Color marrón'
-tags: 
+tags: tole.es
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

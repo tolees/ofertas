@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WFRRW1Q-es JOOMFEEN Quick Charge 3.0 Cargador USB de Pared 30W QC 3.0...'
-tags: 
+tags: tole.es
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59

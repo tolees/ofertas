@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NV86WDH-es YuhooTech Cámara Trasera Lente Pantalla para Huawei P20...'
-tags: 
+tags: tole.es
 actualPrice: 1.22 EUR
 currency: EUR
 price: 1.22

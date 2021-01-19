@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JG46XN5-es Crocs 205827 Botas de Agua Unisex Niños Azul Navy/Bright...'
-tags: 
+tags: tole.es
 actualPrice: 13.89 EUR
 currency: EUR
 price: 13.89

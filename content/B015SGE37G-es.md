@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015SGE37G-es Havaianas Brasil Logo Zehentrenner Unisex-Erwachsene...'
-tags: 
+tags: tole.es
 actualPrice: 16.49 EUR
 currency: EUR
 price: 16.49

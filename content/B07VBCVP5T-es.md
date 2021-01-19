@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VBCVP5T-es Esprit 099ee2i023 suéter Azul Navy 400 Large para Hombre'
-tags: 
+tags: tole.es
 actualPrice: 15.92 EUR
 currency: EUR
 price: 15.92

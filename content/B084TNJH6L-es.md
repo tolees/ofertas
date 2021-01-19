@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084TNJH6L-es Triamisu Vaporizador de Ropa portátil de Viaje...'
-tags: 
+tags: tole.es
 actualPrice: 20.1 EUR
 currency: EUR
 price: 20.1

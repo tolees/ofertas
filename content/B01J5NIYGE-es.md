@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01J5NIYGE-es Educa Borrás- Juego de Mesa Color Variado 16988'
-tags: 
+tags: tole.es
 actualPrice: 13.79 EUR
 currency: EUR
 price: 13.79

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006EJ2OO6-es Foppapedretti Asso - Tabla de planchar plegable de madera...'
-tags: 
+tags: tole.es
 actualPrice: 235.06 EUR
 currency: EUR
 price: 235.06

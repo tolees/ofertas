@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00V6AM70E-es Elifexir Minucell - Crema Anticelulítica Reductora...'
-tags: 
+tags: tole.es
 actualPrice: 6.65 EUR
 currency: EUR
 price: 6.65

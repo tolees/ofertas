@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075FL7FVS-es Imanes Neodimio FEYG Imanes Nevera Extrem Imán Fuerte 2 2...'
-tags: 
+tags: tole.es
 actualPrice: 7.29 EUR
 currency: EUR
 price: 7.29

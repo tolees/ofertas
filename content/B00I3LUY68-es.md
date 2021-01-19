@@ -1,30 +1,38 @@
 ---
 layout: post
-title: 'Sony MDR-ZX310R - Auriculares de diadema con un 35.24 % de descuento'
-date: 2020-09-01 16:15:00
-image: 'https://m.media-amazon.com/images/I/21mIMvS0WpL._SL500_._SL200_.jpg'
+title: 'Sony MDR-ZX310R - Auriculares de diadema con un 36.84 % de descuento'
+date: 2021-01-19 14:23:51
+image: 'https://m.media-amazon.com/images/I/41jp25Mb2mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B00I3LUY68-es Sony MDR-ZX310R - Auriculares de diadema cerrados sin...'
-tags: 
-actualPrice: 16.19 EUR
+tags: tole.es
+actualPrice: 15.79 EUR
 currency: EUR
-price: 16.19
+price: 15.79
 comparePrice: 25.0 EUR
 prodname: 'Sony MDR-ZX310R - Auriculares de diadema cerrados  sin micrófono   rojo'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00I3LUY68/?tag=tolees-21'
-descuento: '35.24'
-average: '15.647272727272727'
+descuento: '36.84'
+average: '15.669230769230769'
 ---
 
-En este momento está [Sony MDR-ZX310R - Auriculares de diadema cerrados  sin micrófono   rojo](https://www.amazon.es/dp/B00I3LUY68/?tag=tolees-21) a 16.19 EUR (original: 25.0 EUR) (35.24 %  de descuento) en el siguiente enlace!
+En este momento está [Sony MDR-ZX310R - Auriculares de diadema cerrados  sin micrófono   rojo](https://www.amazon.es/dp/B00I3LUY68/?tag=tolees-21) a 15.79 EUR (original: 25.0 EUR) (36.84 %  de descuento) en el siguiente enlace!
 
-[![Sony MDR-ZX310R - Auriculares de diadema](https://m.media-amazon.com/images/I/21mIMvS0WpL._SL500_._SL200_.jpg)](https://www.amazon.es/dp/B00I3LUY68/?tag=tolees-21)
+[![Sony MDR-ZX310R - Auriculares de diadema](https://m.media-amazon.com/images/I/41jp25Mb2mL._SL200_.jpg)](https://www.amazon.es/dp/B00I3LUY68/?tag=tolees-21)
 
 🔎:
 
+- Diafragmas de neodimio de 30 mm
+- Cascos acolchados para una escucha cómoda
+- display_size: 1.0 inches
+- connectivity_technology: Alámbrico
+- output_wattage: 1015.0 watts
+- Auriculares tipo diadema con sensibilidad de 98 dB/mW
+- Rango de frecuencia 10-24.000 Hz
+- Diseño plegable compacto
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00I3LUY68/?tag=tolees-21)

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CJDL27X-es ORICO 60W 13 Puertos Aluminio Hub USB 3.0 de alimentación...'
-tags: 
+tags: tole.es
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

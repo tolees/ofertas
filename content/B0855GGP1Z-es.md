@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0855GGP1Z-es Office Ink Toner Reemplazo de cartuchos de tóner...'
-tags: 
+tags: tole.es
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

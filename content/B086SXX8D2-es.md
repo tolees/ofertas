@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086SXX8D2-es ZHBRE Humidificador de 400 ml de Gran Capacidad Apagado...'
-tags: 
+tags: tole.es
 actualPrice: 39.52 EUR
 currency: EUR
 price: 39.52

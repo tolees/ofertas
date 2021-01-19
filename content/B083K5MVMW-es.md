@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083K5MVMW-es Anpro Luz Cadena Colorida Luz de Cortina USB 7 Colores con...'
-tags: 
+tags: tole.es
 actualPrice: 7.78 EUR
 currency: EUR
 price: 7.78

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087QMT1T3-es Dani - Cebolla escamas - Pack 12 x 40 gr.'
-tags: 
+tags: tole.es
 actualPrice: 6.69 EUR
 currency: EUR
 price: 6.69

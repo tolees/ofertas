@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0851BWX6Q-es HERSITY Camión de Basura Montar y Desmontar Coches con...'
-tags: 
+tags: tole.es
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

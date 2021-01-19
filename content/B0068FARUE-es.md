@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0068FARUE-es Continental Schlauch MTB 29 AV 42 Cámara Unisex a40 40 mm'
-tags: 
+tags: tole.es
 actualPrice: 2.99 EUR
 currency: EUR
 price: 2.99

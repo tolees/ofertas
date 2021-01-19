@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYXYJKQ-es BRIKSMAX Kit de Iluminación Led para Lego City Comisaría...'
-tags: 
+tags: tole.es
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

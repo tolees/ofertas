@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P82NPN7-es Pop! Figura de Vinilo: Disney: Hocus Pocus - Winifred w/Magic'
-tags: 
+tags: tole.es
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

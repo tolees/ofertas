@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9KYWLX-es Caja de Paternina Banda Azul Crianza D.O. Rioja Vino tinto...'
-tags: 
+tags: tole.es
 actualPrice: 23.13 EUR
 currency: EUR
 price: 23.13

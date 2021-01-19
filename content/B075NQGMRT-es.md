@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075NQGMRT-es Rotary Reloj de Pulsera GS08303/02'
-tags: 
+tags: tole.es
 actualPrice: 114.54 EUR
 currency: EUR
 price: 114.54

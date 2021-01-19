@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RRRYBWS-es Sandalias para Mujer Verano 2019 Plataforma Cuña...'
-tags: 
+tags: tole.es
 actualPrice: 6.69 EUR
 currency: EUR
 price: 6.69

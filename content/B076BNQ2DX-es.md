@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076BNQ2DX-es Protector de pantalla de vidrio templado para iPhone 7 y 8...'
-tags: 
+tags: tole.es
 actualPrice: 3.82 EUR
 currency: EUR
 price: 3.82

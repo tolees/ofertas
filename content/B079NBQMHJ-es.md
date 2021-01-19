@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079NBQMHJ-es Béaba 913426 - Cuchara de aprendizaje segunda edad'
-tags: 
+tags: tole.es
 actualPrice: 3.25 EUR
 currency: EUR
 price: 3.25

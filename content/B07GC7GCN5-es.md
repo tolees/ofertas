@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GC7GCN5-es Optimum Nutrition ON Gold Standard 100% whey proteína en...'
-tags: 
+tags: tole.es
 actualPrice: 56.87 EUR
 currency: EUR
 price: 56.87

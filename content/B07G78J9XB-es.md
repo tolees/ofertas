@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G78J9XB-es Dilwe Reloj Analógico Casual Esfera Redonda Patrón de...'
-tags: 
+tags: tole.es
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H2W4N7N-es Camión de Bomberos Eléctrico Juguete Coche Vehiculo con...'
-tags: 
+tags: tole.es
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CC8QWL1-es XINFULUK Portátil Plegable Bolsillo magnético plástico...'
-tags: 
+tags: tole.es
 actualPrice: 2.69 EUR
 currency: EUR
 price: 2.69

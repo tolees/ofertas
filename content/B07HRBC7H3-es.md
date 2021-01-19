@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HRBC7H3-es Chicco Boppy- Cojín de lactancia algodón ergonómico...'
-tags: 
+tags: tole.es
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1B3N2F-es superfit Husky Botas de Nieve para Niñas Schwarz Rot 05 26 EU'
-tags: 
+tags: tole.es
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

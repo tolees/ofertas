@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XYNDCVQ-es FMPC Funda Compatible con Xiaomi Mi 8 SE Caso Carcasa...'
-tags: 
+tags: tole.es
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

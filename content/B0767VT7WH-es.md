@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0767VT7WH-es Jamo - Altavoces Estéreo S-801 60 W 85 Db Negro'
-tags: 
+tags: tole.es
 actualPrice: 102.85 EUR
 currency: EUR
 price: 102.85

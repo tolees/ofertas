@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MC7FZC4-es Puma St Runner V2 Mesh Zapatillas para Hombre Black White...'
-tags: 
+tags: tole.es
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

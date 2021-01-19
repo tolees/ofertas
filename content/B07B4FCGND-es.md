@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B4FCGND-es Maleta de cabina Pepe Jeans Bristol Verde rígida 55cm'
-tags: 
+tags: tole.es
 actualPrice: 80.5 EUR
 currency: EUR
 price: 80.5

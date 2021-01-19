@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KBZUFO-es Shimano PD-M424 - Pedales M-424 Spd'
-tags: 
+tags: tole.es
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

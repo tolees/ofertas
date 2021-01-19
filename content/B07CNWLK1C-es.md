@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CNWLK1C-es Gorra de béisbol para niños Gorra de béisbol Gorra de...'
-tags: 
+tags: tole.es
 actualPrice: 1.89 EUR
 currency: EUR
 price: 1.89

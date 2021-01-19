@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0861YXPCM-es KOKO Zhu Plata coaxial Adaptador de Conector de Cable...'
-tags: 
+tags: tole.es
 actualPrice: 3.83 EUR
 currency: EUR
 price: 3.83

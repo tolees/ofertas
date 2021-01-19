@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZVFSJ7-es Merrell Vapor Glove 3 Luna Leather Zapatillas Deportivas...'
-tags: 
+tags: tole.es
 actualPrice: 78.99 EUR
 currency: EUR
 price: 78.99

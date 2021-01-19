@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KCWLSML-es CYBEX Gold - Silla de Paseo Eezy S Twist Asiento Giratorio...'
-tags: 
+tags: tole.es
 actualPrice: 191.95 EUR
 currency: EUR
 price: 191.95

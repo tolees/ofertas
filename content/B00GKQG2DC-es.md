@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GKQG2DC-es Wilson Pro Feel Antivibrador Raqueta-Unisex...'
-tags: 
+tags: tole.es
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00020IAPA-es Solgar Comprimidos Masticables Sublinguales Vitamina B 12...'
-tags: 
+tags: tole.es
 actualPrice: 21.5 EUR
 currency: EUR
 price: 21.5

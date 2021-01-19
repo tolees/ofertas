@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PWDTBJ6-es TerraMaster F2-210 NAS 2 bahías Quad Core Multimedia de...'
-tags: 
+tags: tole.es
 actualPrice: 159.99 EUR
 currency: EUR
 price: 159.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C7YWPDR-es Mr. Wonderful WOA09056ES - Organizador semanal en formato...'
-tags: 
+tags: tole.es
 actualPrice: 10.45 EUR
 currency: EUR
 price: 10.45

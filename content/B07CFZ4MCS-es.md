@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CFZ4MCS-es JACK & JONES Jjeholmen Sweat Pants Noos Pantalones Azul...'
-tags: 
+tags: tole.es
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

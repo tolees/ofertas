@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GSOYW3I-es Versa 19500285 Taburete pie de cama con Apoyabrazos Pink...'
-tags: 
+tags: tole.es
 actualPrice: 65.24 EUR
 currency: EUR
 price: 65.24

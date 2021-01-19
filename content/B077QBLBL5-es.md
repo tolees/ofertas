@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077QBLBL5-es cuzit fútbol árbitro temporizador deportes Match Juego...'
-tags: 
+tags: tole.es
 actualPrice: 14.66 EUR
 currency: EUR
 price: 14.66

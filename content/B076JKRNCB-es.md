@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076JKRNCB-es Nixon Reloj Analogico para Hombre de Cuarzo con Correa en...'
-tags: 
+tags: tole.es
 actualPrice: 107.18 EUR
 currency: EUR
 price: 107.18

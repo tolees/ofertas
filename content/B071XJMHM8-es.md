@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071XJMHM8-es Aquabot Bravo Limpiafondo Automático de Piscina Amarillo...'
-tags: 
+tags: tole.es
 actualPrice: 431.0 EUR
 currency: EUR
 price: 431.0

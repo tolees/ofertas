@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2ZZ8J2-es adidas Falcon W - Zapatillas para Mujer Blanco 38 EU'
-tags: 
+tags: tole.es
 actualPrice: 72.0 EUR
 currency: EUR
 price: 72.0

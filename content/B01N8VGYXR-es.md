@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N8VGYXR-es Elli Pendientes para dama forma geométrica con cristales...'
-tags: 
+tags: tole.es
 actualPrice: 26.06 EUR
 currency: EUR
 price: 26.06

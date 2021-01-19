@@ -6,8 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411qGDLDJ3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DHGW1EC-es Grohe Eurostyle Cosmopolitan - Grifo de lavabo mural 1/2"...'
-tags: 
+slug: 'B00DHGW1EC-es Grohe Eurostyle Cosmopolitan - Grifo de lavabo mural...'
+tags: tole.es
 actualPrice: 145.83 EUR
 currency: EUR
 price: 145.83

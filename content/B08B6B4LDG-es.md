@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B6B4LDG-es Uso duradero 100 mm Disco de pulido de diamante de 4...'
-tags: 
+tags: tole.es
 actualPrice: 9.35 EUR
 currency: EUR
 price: 9.35

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NCC2QH8-es Pepe Jeans Saturn Crop Bañador Blanco Optic White Denim...'
-tags: 
+tags: tole.es
 actualPrice: 4.87 EUR
 currency: EUR
 price: 4.87

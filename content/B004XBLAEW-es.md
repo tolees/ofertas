@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004XBLAEW-es Maped 197512 - Pack de compás abrazadera y estuche de minas'
-tags: 
+tags: tole.es
 actualPrice: 2.09 EUR
 currency: EUR
 price: 2.09

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TXSA6R2-es Boucheron Quatre Agua de Perfume - 100 ml'
-tags: 
+tags: tole.es
 actualPrice: 36.5 EUR
 currency: EUR
 price: 36.5

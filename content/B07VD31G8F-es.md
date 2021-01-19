@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VD31G8F-es BOSS Schino-Slim Shorts Pantalones Cortos Beige Open Beige...'
-tags: 
+tags: tole.es
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

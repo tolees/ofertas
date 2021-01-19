@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003NE8UNO-es HELLA 6PT 009 107-141 Sensor temperatura del refrigerante...'
-tags: 
+tags: tole.es
 actualPrice: 11.66 EUR
 currency: EUR
 price: 11.66

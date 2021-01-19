@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRLPWBT-es New Balance 373 Zapatillas para Mujer Azul Blue Blue 36.5 EU'
-tags: 
+tags: tole.es
 actualPrice: 27.03 EUR
 currency: EUR
 price: 27.03

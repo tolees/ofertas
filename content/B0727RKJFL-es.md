@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0727RKJFL-es KEEPOW Paños de limpieza de microfibra para aspiradora...'
-tags: 
+tags: tole.es
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

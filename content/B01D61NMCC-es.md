@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D61NMCC-es Trangoworld Manaslu Pantalón Largo Hombre Antracita/Rojo...'
-tags: 
+tags: tole.es
 actualPrice: 56.49 EUR
 currency: EUR
 price: 56.49

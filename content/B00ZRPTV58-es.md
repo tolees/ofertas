@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZRPTV58-es Astor Perfect Stay 16H Barra de Labios de Larga Duración...'
-tags: 
+tags: tole.es
 actualPrice: 6.1 EUR
 currency: EUR
 price: 6.1

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0882PNJMJ-es Syxinn Compatible con Correa de Reloj Gear S3...'
-tags: 
+tags: tole.es
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

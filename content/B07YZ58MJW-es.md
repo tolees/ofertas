@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YZ58MJW-es BOSNAS Proyector 6000 Lúmenes Proyector Full HD Soporta...'
-tags: 
+tags: tole.es
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

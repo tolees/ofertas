@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GFACVWO-es K2 de Alta Temperatura de Silicona Masilla dichtsi LIKON...'
-tags: 
+tags: tole.es
 actualPrice: 5.43 EUR
 currency: EUR
 price: 5.43

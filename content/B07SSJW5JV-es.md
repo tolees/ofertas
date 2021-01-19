@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSJW5JV-es Geox U Wells C Zapatillas para Hombre Azul Lt Avio C4348...'
-tags: 
+tags: tole.es
 actualPrice: 49.61 EUR
 currency: EUR
 price: 49.61

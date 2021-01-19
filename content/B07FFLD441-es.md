@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FFLD441-es Emporio Armani Smartwatch ART3030'
-tags: 
+tags: tole.es
 actualPrice: 231.2 EUR
 currency: EUR
 price: 231.2

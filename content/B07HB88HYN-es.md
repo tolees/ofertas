@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HB88HYN-es LAST LEVEL- Funko Figura Pop Zoolander: Hansel Multicolor...'
-tags: 
+tags: tole.es
 actualPrice: 9.87 EUR
 currency: EUR
 price: 9.87

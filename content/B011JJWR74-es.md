@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B011JJWR74-es Supra Zapatillas abotinadas Negro 45 EU'
-tags: 
+tags: tole.es
 actualPrice: 53.15 EUR
 currency: EUR
 price: 53.15

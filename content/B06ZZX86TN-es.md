@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06ZZX86TN-es Samsung S27E330H Monitor para Gaming de 27" LCD Full HD...'
-tags: 
+tags: tole.es
 actualPrice: 142.15 EUR
 currency: EUR
 price: 142.15

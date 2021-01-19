@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BGTOGEE-es G-Star Raw Bronson Pantalones Para Hombre Beige Dune 1794...'
-tags: 
+tags: tole.es
 actualPrice: 45.06 EUR
 currency: EUR
 price: 45.06

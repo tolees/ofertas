@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0033RK0PM-es Wrangler Stitched Belt Brown Cinturón para Hombre Marrón...'
-tags: 
+tags: tole.es
 actualPrice: 17.53 EUR
 currency: EUR
 price: 17.53

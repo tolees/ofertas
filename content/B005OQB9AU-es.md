@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005OQB9AU-es IMC Toys - Pilla Ratón 43-7413'
-tags: 
+tags: tole.es
 actualPrice: 21.15 EUR
 currency: EUR
 price: 21.15

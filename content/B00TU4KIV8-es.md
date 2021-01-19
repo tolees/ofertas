@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TU4KIV8-es Ecogarden Irisana 72.EG11.B Mesa de Cultivo Vertical...'
-tags: 
+tags: tole.es
 actualPrice: 38.96 EUR
 currency: EUR
 price: 38.96

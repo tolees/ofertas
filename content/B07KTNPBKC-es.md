@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTNPBKC-es Helly Hansen 3 Pares de Calcetines Invisibles para...'
-tags: 
+tags: tole.es
 actualPrice: 7.27 EUR
 currency: EUR
 price: 7.27

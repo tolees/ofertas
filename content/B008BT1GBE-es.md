@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008BT1GBE-es Philips 12258LLECOS2 LongLife EcoVision - Bombillas para...'
-tags: 
+tags: tole.es
 actualPrice: 11.16 EUR
 currency: EUR
 price: 11.16

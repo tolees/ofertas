@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4RB5CG-es Panasonic SCUX100EK Home Audio Mini System Microcadena...'
-tags: 
+tags: tole.es
 actualPrice: 119.95 EUR
 currency: EUR
 price: 119.95

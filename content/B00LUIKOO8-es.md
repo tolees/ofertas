@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LUIKOO8-es Adidas Stan Smith M20324 Zapatillas de Deporte Unisex...'
-tags: 
+tags: tole.es
 actualPrice: 66.9 EUR
 currency: EUR
 price: 66.9

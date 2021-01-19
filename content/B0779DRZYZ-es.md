@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0779DRZYZ-es adidas Entrada 18 JSY T-Shirt Hombre Black/White 2XL'
-tags: 
+tags: tole.es
 actualPrice: 11.13 EUR
 currency: EUR
 price: 11.13

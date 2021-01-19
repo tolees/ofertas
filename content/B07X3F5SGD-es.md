@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X3F5SGD-es Hiboy Silla Self Balancing Compatible con Todos los...'
-tags: 
+tags: tole.es
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

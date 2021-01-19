@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JF5XP9B-es Férula del Pulgar Muñequera de Neopreno Ajustable Pulgar...'
-tags: 
+tags: tole.es
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

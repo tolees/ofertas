@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012ZDUJJG-es LEADSTAR Kinds Funda para Samsung Galaxy Tab A 9.7 caso...'
-tags: 
+tags: tole.es
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

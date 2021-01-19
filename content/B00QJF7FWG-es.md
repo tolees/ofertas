@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QJF7FWG-es Sorel Newbie Botas para Mujer Marrón Silver Sage 103 37.5 EU'
-tags: 
+tags: tole.es
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

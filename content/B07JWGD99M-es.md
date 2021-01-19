@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JWGD99M-es auna RCD-70 Radio Dab con CD - Radio Dab Radio Retro...'
-tags: 
+tags: tole.es
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

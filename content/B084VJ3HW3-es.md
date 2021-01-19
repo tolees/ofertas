@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084VJ3HW3-es Portátil al aire libre de gran capacidad para bebés leche...'
-tags: 
+tags: tole.es
 actualPrice: 3.24 EUR
 currency: EUR
 price: 3.24

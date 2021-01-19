@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081S2CL9W-es Moliies Animal Toys Skeleton Simulation Model Set Mini...'
-tags: 
+tags: tole.es
 actualPrice: 13.55 EUR
 currency: EUR
 price: 13.55

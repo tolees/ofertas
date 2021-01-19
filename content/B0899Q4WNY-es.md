@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0899Q4WNY-es Tira LED Bluetooth 10M VITCOCO Luces de Tiras LED WiFi RGB...'
-tags: 
+tags: tole.es
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

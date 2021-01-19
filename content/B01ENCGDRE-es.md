@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ENCGDRE-es Andis Lithium - Maquinilla afeitar sólo recargable'
-tags: 
+tags: tole.es
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

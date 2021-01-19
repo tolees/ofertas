@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MBQWY27-es Kickers Mistic Botas Clasicas para Hombre Marrón Camel...'
-tags: 
+tags: tole.es
 actualPrice: 47.25 EUR
 currency: EUR
 price: 47.25

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VMQF6P7-es Traje de la Casa de Papel con Mascara Mono Cosplay Trajes...'
-tags: 
+tags: tole.es
 actualPrice: 13.89 EUR
 currency: EUR
 price: 13.89

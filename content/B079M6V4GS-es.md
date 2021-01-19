@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079M6V4GS-es Dunlop - Botas Estilo Wellington Unisex Modelo Pricemastor...'
-tags: 
+tags: tole.es
 actualPrice: 18.7 EUR
 currency: EUR
 price: 18.7

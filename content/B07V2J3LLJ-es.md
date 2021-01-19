@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V2J3LLJ-es Tommy Hilfiger Technical Flexi Runner Zapatillas para...'
-tags: 
+tags: tole.es
 actualPrice: 46.29 EUR
 currency: EUR
 price: 46.29

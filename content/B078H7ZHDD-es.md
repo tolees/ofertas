@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078H7ZHDD-es Tommy Hilfiger Bikini Culotte Gris Grey Heather 004...'
-tags: 
+tags: tole.es
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

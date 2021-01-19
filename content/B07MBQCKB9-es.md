@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MBQCKB9-es Pop Vinilo: Games: Fortnite: Loot Llama 10"'
-tags: 
+tags: tole.es
 actualPrice: 23.6 EUR
 currency: EUR
 price: 23.6

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IH1Q2KA-es BATMAN ANIMATED SERIES'
-tags: 
+tags: tole.es
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

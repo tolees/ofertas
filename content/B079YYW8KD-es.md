@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079YYW8KD-es Flipping Death - Edición Estándar'
-tags: 
+tags: tole.es
 actualPrice: 17.79 EUR
 currency: EUR
 price: 17.79

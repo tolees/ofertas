@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071WBSR9T-es Under Armour UA Raid TR Zapatillas de Deporte para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 50.79 EUR
 currency: EUR
 price: 50.79

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLQ4P8W-es Panasonic RP-HTX90NE-K - Auriculares Inalámbricos Noise...'
-tags: 
+tags: tole.es
 actualPrice: 77.68 EUR
 currency: EUR
 price: 77.68

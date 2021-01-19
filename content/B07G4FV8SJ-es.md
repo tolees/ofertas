@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G4FV8SJ-es Hugo Boss Reloj Multiesfera para Hombre de Cuarzo con...'
-tags: 
+tags: tole.es
 actualPrice: 178.81 EUR
 currency: EUR
 price: 178.81

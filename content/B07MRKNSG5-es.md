@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MRKNSG5-es Seagate Backup Plus Slim STHN2000401 Unidad de disco duro...'
-tags: 
+tags: tole.es
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MQVFTJL-es Napapijri Rainforest Pocket Chaqueta Amarillo Yellow Lime...'
-tags: 
+tags: tole.es
 actualPrice: 119.74 EUR
 currency: EUR
 price: 119.74

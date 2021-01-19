@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F6L38TP-es Spin Master Dragons Deluxe Dragon Toothless - Figuras de...'
-tags: 
+tags: tole.es
 actualPrice: 15.49 EUR
 currency: EUR
 price: 15.49

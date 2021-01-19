@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WCWHRP-es Palladium Pampa Hi Mono U Zapatillas Altas Unisex Adulto...'
-tags: 
+tags: tole.es
 actualPrice: 46.69 EUR
 currency: EUR
 price: 46.69

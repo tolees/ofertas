@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L337BBC-es Asics Patriot 11 Zapatillas de Running para Hombre Negro...'
-tags: 
+tags: tole.es
 actualPrice: 44.52 EUR
 currency: EUR
 price: 44.52

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TQVSVX9-es Clarks Un Balsa Go Mocasines para Mujer Azul Navy Navy 39 EU'
-tags: 
+tags: tole.es
 actualPrice: 16.25 EUR
 currency: EUR
 price: 16.25

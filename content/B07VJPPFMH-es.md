@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VJPPFMH-es HUGO Elisha02 Camisa Negro Black 1 38 para Hombre'
-tags: 
+tags: tole.es
 actualPrice: 35.17 EUR
 currency: EUR
 price: 35.17

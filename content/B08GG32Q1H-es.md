@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GG32Q1H-es FERYES - Exprimidor de pasta de dientes de 2 piezas...'
-tags: 
+tags: tole.es
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VG79X4B-es JACK & JONES Jcostanford Crew Neck Noos suéter Azul Black...'
-tags: 
+tags: tole.es
 actualPrice: 12.35 EUR
 currency: EUR
 price: 12.35

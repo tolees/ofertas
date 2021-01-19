@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFXK4VM-es PUMA Storm Adrenaline Zapatillas Unisex Adulto Black-Gray...'
-tags: 
+tags: tole.es
 actualPrice: 40.07 EUR
 currency: EUR
 price: 40.07

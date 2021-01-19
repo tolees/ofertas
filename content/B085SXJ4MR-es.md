@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085SXJ4MR-es yidenguk Objetivo Digital Electrónico para Nerf Objetivos...'
-tags: 
+tags: tole.es
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

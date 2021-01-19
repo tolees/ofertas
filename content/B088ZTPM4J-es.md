@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088ZTPM4J-es P Prettyia Película Protectora De Pantalla Templada Anti-...'
-tags: 
+tags: tole.es
 actualPrice: 16.48 EUR
 currency: EUR
 price: 16.48

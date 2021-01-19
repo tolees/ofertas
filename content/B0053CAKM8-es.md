@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0053CAKM8-es X-Men Orígenes: Lobezno [DVD]'
-tags: 
+tags: tole.es
 actualPrice: 4.55 EUR
 currency: EUR
 price: 4.55

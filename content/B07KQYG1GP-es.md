@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQYG1GP-es SALOMON Drifter Mid Jkt M Chaqueta Reversible Hombre Negro...'
-tags: 
+tags: tole.es
 actualPrice: 48.36 EUR
 currency: EUR
 price: 48.36

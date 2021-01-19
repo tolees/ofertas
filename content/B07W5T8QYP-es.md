@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5T8QYP-es GLOBE Sabre Zapatillas de Skateboard para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 72.0 EUR
 currency: EUR
 price: 72.0

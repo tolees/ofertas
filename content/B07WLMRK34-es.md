@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WLMRK34-es ISOPHO Colchoneta Inflable colchón de Camping Ultraligero...'
-tags: 
+tags: tole.es
 actualPrice: 34.07 EUR
 currency: EUR
 price: 34.07

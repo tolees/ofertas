@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089FY3XNW-es morpilot Correa de Perro Correa de Nylon Resistente para...'
-tags: 
+tags: tole.es
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

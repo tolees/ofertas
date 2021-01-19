@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073K2YZKK-es Casio Reloj Analogico para Unisex de Cuarzo con Correa en...'
-tags: 
+tags: tole.es
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074NTQFCF-es SALCAR Caja con USB 3.0 para Disco Duro Externo HDD de 2.5...'
-tags: 
+tags: tole.es
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

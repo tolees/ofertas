@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0738JWBWW-es Pinza gancho broche de cochecito para sostener sabanas...'
-tags: 
+tags: tole.es
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

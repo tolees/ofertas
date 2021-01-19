@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SY8N5P-es Timberland Bayham Canvas Mocasines Mocasines Hombre Azul...'
-tags: 
+tags: tole.es
 actualPrice: 28.77 EUR
 currency: EUR
 price: 28.77

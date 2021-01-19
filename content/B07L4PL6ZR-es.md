@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L4PL6ZR-es Adidas Terrex AX3 Mid GTX Zapatillas de Deporte para...'
-tags: 
+tags: tole.es
 actualPrice: 100.76 EUR
 currency: EUR
 price: 100.76

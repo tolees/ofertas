@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVNXJB1-es Panasonic Lumix G90H - Cámara Evil de 20.3 MP Pantalla de...'
-tags: 
+tags: tole.es
 actualPrice: 1041.67 EUR
 currency: EUR
 price: 1041.67

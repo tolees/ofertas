@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018URIN76-es Shiseido Bio-Performance Glow Revival Crema - 50 ml...'
-tags: 
+tags: tole.es
 actualPrice: 72.48 EUR
 currency: EUR
 price: 72.48

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077RTPRBV-es Nike Air MAX 270 Zapatillas de Gimnasia para Hombre Negro...'
-tags: 
+tags: tole.es
 actualPrice: 89.95 EUR
 currency: EUR
 price: 89.95

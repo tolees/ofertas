@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MHY7GW4-es Funko-Pocket Keychain: Toy Story: Alien Pop Llavero for...'
-tags: 
+tags: tole.es
 actualPrice: 4.3 EUR
 currency: EUR
 price: 4.3

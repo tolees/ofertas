@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0716YX1DP-es Under Armour Woven Graphic Wordmark Shorts Pantalón Corto...'
-tags: 
+tags: tole.es
 actualPrice: 12.08 EUR
 currency: EUR
 price: 12.08

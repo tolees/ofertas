@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YGY22F9-es Miquelrius - Agenda 2020'
-tags: 
+tags: tole.es
 actualPrice: 4.35 EUR
 currency: EUR
 price: 4.35

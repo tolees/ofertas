@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077HWRCLR-es find. MDR 40621 vestidos mujer Azul Blue 42 Talla del...'
-tags: 
+tags: tole.es
 actualPrice: 11.4 EUR
 currency: EUR
 price: 11.4

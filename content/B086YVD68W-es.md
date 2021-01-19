@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086YVD68W-es Mono de bebé Promini para bebé superhéroe futuro justo...'
-tags: 
+tags: tole.es
 actualPrice: 13.66 EUR
 currency: EUR
 price: 13.66

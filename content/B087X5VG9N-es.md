@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087X5VG9N-es Suhctup Funda Transparent Compatible para Huawei P Smart...'
-tags: 
+tags: tole.es
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

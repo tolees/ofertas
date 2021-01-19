@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00T7ZR6K6-es Shock Absorber Active Shaped Support Sujetador Deportivo...'
-tags: 
+tags: tole.es
 actualPrice: 25.42 EUR
 currency: EUR
 price: 25.42

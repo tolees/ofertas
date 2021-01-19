@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002FU56TI-es Rubies - Disfraz infantil de bruja color púrpura 1-2 años...'
-tags: 
+tags: tole.es
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

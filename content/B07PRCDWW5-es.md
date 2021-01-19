@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRCDWW5-es Kipling - City Pack Mini Mochilas Mujer Dorado Cloud Metal...'
-tags: 
+tags: tole.es
 actualPrice: 30.42 EUR
 currency: EUR
 price: 30.42

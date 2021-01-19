@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CAXC6KW-es Campingaz Kühltasche Flaschen Kühler für 1 5 Liter Nevera...'
-tags: 
+tags: tole.es
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

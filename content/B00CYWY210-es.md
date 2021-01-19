@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CYWY210-es Fellowes I-Spire - Alfombrilla con reposamuñecas Flexible...'
-tags: 
+tags: tole.es
 actualPrice: 13.9 EUR
 currency: EUR
 price: 13.9

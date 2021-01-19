@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010D0AL6E-es Bosch PCM 8 - Ingletadora en caja de cartón Pinza disco de...'
-tags: 
+tags: tole.es
 actualPrice: 133.45 EUR
 currency: EUR
 price: 133.45

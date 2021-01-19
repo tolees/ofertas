@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ382LJ-es Geox D Myria B Zapatillas para Mujer Black C9999 41 EU'
-tags: 
+tags: tole.es
 actualPrice: 46.94 EUR
 currency: EUR
 price: 46.94

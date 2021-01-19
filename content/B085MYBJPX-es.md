@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085MYBJPX-es CT Aspersor Trampolín Set Cama elástica de Jardín Water...'
-tags: 
+tags: tole.es
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

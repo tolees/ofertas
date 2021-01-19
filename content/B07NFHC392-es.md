@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NFHC392-es Tommy Hilfiger Long Sleeve Slim Polo Rojo Haute Red Xbe XL...'
-tags: 
+tags: tole.es
 actualPrice: 34 EUR
 currency: EUR
 price: 34

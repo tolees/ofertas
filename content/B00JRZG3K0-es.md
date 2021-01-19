@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JRZG3K0-es Pioneer TS-SW2002D2 Subwoofer de Poca Profundidad Negro'
-tags: 
+tags: tole.es
 actualPrice: 68.68 EUR
 currency: EUR
 price: 68.68

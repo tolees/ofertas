@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0123ZQ0RG-es Bra Paellera Negro 36 cm'
-tags: 
+tags: tole.es
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

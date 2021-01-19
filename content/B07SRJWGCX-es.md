@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRJWGCX-es adidas Forest Grove Zapatillas de Gimnasia para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 45.8 EUR
 currency: EUR
 price: 45.8

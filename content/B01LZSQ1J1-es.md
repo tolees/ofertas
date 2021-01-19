@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZSQ1J1-es INDASEC Discreet - Compresa para Pérdidas Leves Maxi 15...'
-tags: 
+tags: tole.es
 actualPrice: 3.48 EUR
 currency: EUR
 price: 3.48

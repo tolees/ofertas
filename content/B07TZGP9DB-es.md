@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZGP9DB-es BlueXP100 Pieza Clips de Cable Nylon Pinzas para Cables...'
-tags: 
+tags: tole.es
 actualPrice: 10.69 EUR
 currency: EUR
 price: 10.69

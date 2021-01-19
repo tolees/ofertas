@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7V7HD3-es Tamaño 3 puertos HDMI Adaptador divisor Cable HDMI...'
-tags: 
+tags: tole.es
 actualPrice: 7.73 EUR
 currency: EUR
 price: 7.73

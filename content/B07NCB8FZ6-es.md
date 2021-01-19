@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NCB8FZ6-es Pepe Jeans Drifter Pantalones Verde Dark Olive 768 W33/L30...'
-tags: 
+tags: tole.es
 actualPrice: 40.68 EUR
 currency: EUR
 price: 40.68

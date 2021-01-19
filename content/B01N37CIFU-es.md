@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N37CIFU-es Redken Extreme Mask 200 Ml 1 Unidad 200 g'
-tags: 
+tags: tole.es
 actualPrice: 11.57 EUR
 currency: EUR
 price: 11.57

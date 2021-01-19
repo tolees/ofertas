@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004SMB5LE-es Tetera de acero inoxidable Belmont acero inoxidable...'
-tags: 
+tags: tole.es
 actualPrice: 16.82 EUR
 currency: EUR
 price: 16.82

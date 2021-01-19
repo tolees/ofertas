@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KG1GN7Y-es PUMA Ralph Sampson Mid Zapatillas Unisex Adulto Blanco...'
-tags: 
+tags: tole.es
 actualPrice: 49.02 EUR
 currency: EUR
 price: 49.02

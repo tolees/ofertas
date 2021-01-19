@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082XQP83N-es Auriculares Bluetooth Mpow Auriculares Inalámbrico 5.0...'
-tags: 
+tags: tole.es
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

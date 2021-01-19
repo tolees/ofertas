@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYN12HY-es Asics Gel-Bondi Zapatillas de Running para Mujer...'
-tags: 
+tags: tole.es
 actualPrice: 38.57 EUR
 currency: EUR
 price: 38.57

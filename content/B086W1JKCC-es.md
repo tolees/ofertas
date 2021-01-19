@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086W1JKCC-es Cubitera Hielo Silicona Moldes Para Hielo 2 En 1 Ice Cube...'
-tags: 
+tags: tole.es
 actualPrice: 12.94 EUR
 currency: EUR
 price: 12.94

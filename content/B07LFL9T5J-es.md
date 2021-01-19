@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFL9T5J-es Levi s Essential Polo Rojo Brilliant Red 0009 Medium para...'
-tags: 
+tags: tole.es
 actualPrice: 22.15 EUR
 currency: EUR
 price: 22.15

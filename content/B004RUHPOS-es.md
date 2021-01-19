@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004RUHPOS-es HP CE390X - Cartucho de tóner'
-tags: 
+tags: tole.es
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

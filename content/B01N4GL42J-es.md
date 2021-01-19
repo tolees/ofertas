@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4GL42J-es Finish Ambientador para lavavajillas fragancia limón - 2...'
-tags: 
+tags: tole.es
 actualPrice: 2.75 EUR
 currency: EUR
 price: 2.75

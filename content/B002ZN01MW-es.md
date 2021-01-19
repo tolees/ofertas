@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002ZN01MW-es My Day Protector Incontinencia Ultra Mini Compresas - 28...'
-tags: 
+tags: tole.es
 actualPrice: 1.15 EUR
 currency: EUR
 price: 1.15

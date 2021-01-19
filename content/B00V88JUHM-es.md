@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00V88JUHM-es PARFUMS SAPHIR Agua de Mayo - Eau de Parfum con...'
-tags: 
+tags: tole.es
 actualPrice: 10.6 EUR
 currency: EUR
 price: 10.6

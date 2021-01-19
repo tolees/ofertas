@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TY9DWHR-es INNObeta KlyN 7 litros Neceser Mujer Hombre de Viaje para...'
-tags: 
+tags: tole.es
 actualPrice: 11.78 EUR
 currency: EUR
 price: 11.78

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QD29NH7-es MTNG Attitude 69643 Zapatillas para Mujer Multicolor Soft...'
-tags: 
+tags: tole.es
 actualPrice: 14.92 EUR
 currency: EUR
 price: 14.92

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RYXV8L7-es Only Frsfalcon Sweat Pants-Unit Pantalones de Deporte Azul...'
-tags: 
+tags: tole.es
 actualPrice: 16.59 EUR
 currency: EUR
 price: 16.59

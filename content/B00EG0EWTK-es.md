@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EG0EWTK-es Bosch MFQ40303 Styline Batidora y Amasadora 500 W color rojo'
-tags: 
+tags: tole.es
 actualPrice: 54.0 EUR
 currency: EUR
 price: 54.0

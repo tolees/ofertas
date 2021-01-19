@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VLJV9MD-es SINOES Mujer 720 Caña Baja Gimnasia Ligero Transpirable...'
-tags: 
+tags: tole.es
 actualPrice: 25.88 EUR
 currency: EUR
 price: 25.88

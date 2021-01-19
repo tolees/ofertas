@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WMFWXXR-es CAFELE Funda Protectora para teléfono de Silicona Suave...'
-tags: 
+tags: tole.es
 actualPrice: 1.43 EUR
 currency: EUR
 price: 1.43

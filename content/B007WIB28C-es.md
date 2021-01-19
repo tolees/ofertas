@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007WIB28C-es Elli Collares de Tanque con Colgante Tortuga en plata de...'
-tags: 
+tags: tole.es
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

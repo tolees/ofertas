@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EUN9XD2-es Ingenuity Jungle Journey - Columpio portátil unisex'
-tags: 
+tags: tole.es
 actualPrice: 82.8 EUR
 currency: EUR
 price: 82.8

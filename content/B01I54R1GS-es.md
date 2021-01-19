@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01I54R1GS-es DIGITNOW! 22MP Escáner de negativos y diapositivas...'
-tags: 
+tags: tole.es
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

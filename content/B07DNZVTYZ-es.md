@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DNZVTYZ-es Eastpak STATION + Bolsa de viaje 62 cm 58 liters Negro Black'
-tags: 
+tags: tole.es
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

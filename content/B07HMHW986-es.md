@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HMHW986-es Panama Jack Bill C2 Botin para Hombre 46 Marron'
-tags: 
+tags: tole.es
 actualPrice: 115.0 EUR
 currency: EUR
 price: 115.0

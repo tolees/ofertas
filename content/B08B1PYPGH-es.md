@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B1PYPGH-es Cámara de Conferencia USB sin Disco con micrófono HD...'
-tags: 
+tags: tole.es
 actualPrice: 17.81 EUR
 currency: EUR
 price: 17.81

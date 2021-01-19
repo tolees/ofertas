@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B2JJJAU-es Brandit US Hemd Kurzarm Camisa Schwarz XXL para Hombre'
-tags: 
+tags: tole.es
 actualPrice: 22.57 EUR
 currency: EUR
 price: 22.57

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XPPDZ3X-es ACANA Wild Prairie Comida para Gatos'
-tags: 
+tags: tole.es
 actualPrice: 4.59 EUR
 currency: EUR
 price: 4.59

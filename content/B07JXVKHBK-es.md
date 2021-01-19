@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JXVKHBK-es DAM. DMX195BKCorrea Cerámica Iwatch 38Mm / 40Mm. Cierre De...'
-tags: 
+tags: tole.es
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

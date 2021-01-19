@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N52JQL8-es Polar M200 Pulsómetro GPS Unisex Rojo M/L'
-tags: 
+tags: tole.es
 actualPrice: 64.13 EUR
 currency: EUR
 price: 64.13

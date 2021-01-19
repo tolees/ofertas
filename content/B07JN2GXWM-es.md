@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JN2GXWM-es Buffalo Corin Zapatillas Altas para Mujer Blanco White 000...'
-tags: 
+tags: tole.es
 actualPrice: 70.0 EUR
 currency: EUR
 price: 70.0

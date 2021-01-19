@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RQDN5KH-es Jiali Trigo plegable taza de viaje plegable creativo...'
-tags: 
+tags: tole.es
 actualPrice: 2.63 EUR
 currency: EUR
 price: 2.63

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LPLBMNW-es L Oréal Paris Infalible Gel Laca de Uñas Tono 001 Stay Nue'
-tags: 
+tags: tole.es
 actualPrice: 5.78 EUR
 currency: EUR
 price: 5.78

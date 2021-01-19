@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LVTHBN0-es Borrador Mágnetico para Pizarra Blanca - Conjunto Premium...'
-tags: 
+tags: tole.es
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

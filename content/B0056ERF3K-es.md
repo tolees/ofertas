@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0056ERF3K-es Nike M Nk Dry Acdmy Top SS T-Shirt Hombre Black/White/ White'
-tags: 
+tags: tole.es
 actualPrice: 13.45 EUR
 currency: EUR
 price: 13.45

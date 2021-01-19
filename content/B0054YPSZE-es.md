@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0054YPSZE-es VITALmaxx Trainer a vibrazione con 99 livelli di...'
-tags: 
+tags: tole.es
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

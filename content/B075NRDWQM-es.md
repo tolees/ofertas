@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075NRDWQM-es Trangoworld Trx2 PES Stretch WM Pro Pant. Largo Mujer...'
-tags: 
+tags: tole.es
 actualPrice: 96.99 EUR
 currency: EUR
 price: 96.99

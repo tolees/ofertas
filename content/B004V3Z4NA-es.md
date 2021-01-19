@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004V3Z4NA-es Shimano PDM530W - Pedales M-530 Enduro Spd color blanco'
-tags: 
+tags: tole.es
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

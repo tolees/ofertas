@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JG158KQ-es DragonSwordlinsu COOSUN - Panel de cortina transparente...'
-tags: 
+tags: tole.es
 actualPrice: 37.89 EUR
 currency: EUR
 price: 37.89

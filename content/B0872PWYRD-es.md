@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0872PWYRD-es Funda Transparente Compatible para Mi 9 Pro/Mi 9 Pro 5G...'
-tags: 
+tags: tole.es
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

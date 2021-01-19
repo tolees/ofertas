@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVBT7KG-es Napapijri Eisberg SS Polo Azul BLU Marine 176 Medium para...'
-tags: 
+tags: tole.es
 actualPrice: 29.5 EUR
 currency: EUR
 price: 29.5

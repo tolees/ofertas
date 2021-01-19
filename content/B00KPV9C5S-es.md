@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KPV9C5S-es Jovi 8412027028851 - Estuche de 20 ceras diseño oso mágico'
-tags: 
+tags: tole.es
 actualPrice: 6.46 EUR
 currency: EUR
 price: 6.46

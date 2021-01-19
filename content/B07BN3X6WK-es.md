@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BN3X6WK-es Brazalete de cuero italiano curtido vegetal marrón tamañao...'
-tags: 
+tags: tole.es
 actualPrice: 3.89 EUR
 currency: EUR
 price: 3.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01C8WZSWM-es Seiko Reloj Analogico para Hombre de Automático con Correa...'
-tags: 
+tags: tole.es
 actualPrice: 178.06 EUR
 currency: EUR
 price: 178.06

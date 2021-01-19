@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SFY13M4-es RS-05 CLASSIC - JET VESPA MOTO SCOOTER RETRO VINTAGE MOPED...'
-tags: 
+tags: tole.es
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

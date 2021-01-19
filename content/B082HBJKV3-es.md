@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082HBJKV3-es ART VVIES Wandbild mit Haken Sonnenwende Sommer Sonne Rot...'
-tags: 
+tags: tole.es
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

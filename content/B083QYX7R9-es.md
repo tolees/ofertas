@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083QYX7R9-es 1 conector coaxial SMA macho RF para cable RG402.141"...'
-tags: 
+tags: tole.es
 actualPrice: 1.02 EUR
 currency: EUR
 price: 1.02

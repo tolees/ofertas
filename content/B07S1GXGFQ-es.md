@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S1GXGFQ-es adidas Cpt Soccer Ball Hombres White/Rainbow Reflective 4'
-tags: 
+tags: tole.es
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

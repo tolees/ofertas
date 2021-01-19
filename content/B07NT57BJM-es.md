@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NT57BJM-es De Longhi Pac AN98 Aire Acondicionado portátil capacidad...'
-tags: 
+tags: tole.es
 actualPrice: 490.0 EUR
 currency: EUR
 price: 490.0

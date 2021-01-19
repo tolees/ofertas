@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S63ZGPB-es Crocs Crocband Flip Women Chanclas para Mujer Verde Neo...'
-tags: 
+tags: tole.es
 actualPrice: 11.25 EUR
 currency: EUR
 price: 11.25

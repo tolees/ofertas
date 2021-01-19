@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NAJRQ6E-es Compex Fit 3.0 Electroestimulador Unisex Azul'
-tags: 
+tags: tole.es
 actualPrice: 299.0 EUR
 currency: EUR
 price: 299.0

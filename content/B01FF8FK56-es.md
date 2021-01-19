@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FF8FK56-es JACK & JONES Jjiliam Jjoriginal Am 014 Lid Noos Jeans...'
-tags: 
+tags: tole.es
 actualPrice: 31.19 EUR
 currency: EUR
 price: 31.19

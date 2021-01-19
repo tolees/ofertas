@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L3NXKM2-es SHOBDW Mujer Moda Entrenamiento Capri Leggings Pantalones...'
-tags: 
+tags: tole.es
 actualPrice: 3.69 EUR
 currency: EUR
 price: 3.69

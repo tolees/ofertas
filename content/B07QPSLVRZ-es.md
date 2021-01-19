@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QPSLVRZ-es Vieta Pro Way – Auriculares inalámbricos Bluetooth radio...'
-tags: 
+tags: tole.es
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

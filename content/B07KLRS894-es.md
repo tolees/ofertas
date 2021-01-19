@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KLRS894-es Predator Colección 4 Películas [Blu-ray]'
-tags: 
+tags: tole.es
 actualPrice: 25.89 EUR
 currency: EUR
 price: 25.89

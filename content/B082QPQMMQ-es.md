@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082QPQMMQ-es SEELOK Lentejuelas Redondas Planas 24 bolsas Lentejuelas...'
-tags: 
+tags: tole.es
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

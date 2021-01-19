@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z3JX7J4-es K-GOLEIRO Kids'
-tags: 
+tags: tole.es
 actualPrice: 26.94 EUR
 currency: EUR
 price: 26.94

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HG4CGWG-es New Balance 247v2 Zapatillas para Hombre Negro Black Black...'
-tags: 
+tags: tole.es
 actualPrice: 40.64 EUR
 currency: EUR
 price: 40.64

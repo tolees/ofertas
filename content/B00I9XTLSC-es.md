@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00I9XTLSC-es Arcos 610600 - Afilador con mango'
-tags: 
+tags: tole.es
 actualPrice: 8.5 EUR
 currency: EUR
 price: 8.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KL7J3A-es Hoya Pro 1 Digital - Filtro polarizador para Objetivos de...'
-tags: 
+tags: tole.es
 actualPrice: 24.46 EUR
 currency: EUR
 price: 24.46

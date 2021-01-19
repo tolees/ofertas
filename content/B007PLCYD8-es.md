@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007PLCYD8-es Port Designs Colorado - Funda para disco duro de 2.5"...'
-tags: 
+tags: tole.es
 actualPrice: 4.08 EUR
 currency: EUR
 price: 4.08

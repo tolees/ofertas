@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XG8W7ZY-es Ferilinso Funda para Xiaomi Redmi Note 8 Pro Elegante...'
-tags: 
+tags: tole.es
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

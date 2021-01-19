@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N7JKNQD-es V7 SB2526-USB-6E Altavoz soundbar Negro - Barra de Sonido...'
-tags: 
+tags: tole.es
 actualPrice: 6.91 EUR
 currency: EUR
 price: 6.91

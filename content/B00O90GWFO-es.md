@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00O90GWFO-es Teslagrad'
-tags: 
+tags: tole.es
 actualPrice: 17.03 EUR
 currency: EUR
 price: 17.03

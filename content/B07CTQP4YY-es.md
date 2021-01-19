@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CTQP4YY-es FIND - Midnight Queen - Paleta de sombras de ojos de 10...'
-tags: 
+tags: tole.es
 actualPrice: 3.64 EUR
 currency: EUR
 price: 3.64

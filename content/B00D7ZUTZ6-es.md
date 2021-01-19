@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00D7ZUTZ6-es Canon EF-M 11-22mm f/4-5.6 IS STM - Objetivo para Canon...'
-tags: 
+tags: tole.es
 actualPrice: 289.0 EUR
 currency: EUR
 price: 289.0

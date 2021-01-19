@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PMD3H2T-es casa pura Alfombras Fibras Naturales - Alfombras Sisal...'
-tags: 
+tags: tole.es
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RK4FR48-es Nike Pico 5 PSV Zapatillas de Tenis Unisex Niños Blanco...'
-tags: 
+tags: tole.es
 actualPrice: 11.01 EUR
 currency: EUR
 price: 11.01

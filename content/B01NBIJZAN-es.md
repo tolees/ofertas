@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBIJZAN-es Karciane Podziemia'
-tags: 
+tags: tole.es
 actualPrice: 16.66 EUR
 currency: EUR
 price: 16.66

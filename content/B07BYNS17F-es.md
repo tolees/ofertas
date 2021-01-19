@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BYNS17F-es Schwarzkopf Gliss Ultimate Repair - Champú para cabello...'
-tags: 
+tags: tole.es
 actualPrice: 1.74 EUR
 currency: EUR
 price: 1.74

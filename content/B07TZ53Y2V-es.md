@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZ53Y2V-es Women s Secret Bralettes 2 Sbhtop Sujetador de triángulo...'
-tags: 
+tags: tole.es
 actualPrice: 14.42 EUR
 currency: EUR
 price: 14.42

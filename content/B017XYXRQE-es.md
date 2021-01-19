@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017XYXRQE-es 2 rollos de 28x600 cm en plástico gofrado especial para el...'
-tags: 
+tags: tole.es
 actualPrice: 6.6 EUR
 currency: EUR
 price: 6.6

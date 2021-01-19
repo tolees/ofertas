@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFXGDT9-es PUMA ST Activate Mid WTR Zapatillas Altas Unisex Adulto...'
-tags: 
+tags: tole.es
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IITQ8IS-es Nilfisk - 107407940 - 4 bolsas de aspiradora + prefiltro'
-tags: 
+tags: tole.es
 actualPrice: 8.26 EUR
 currency: EUR
 price: 8.26

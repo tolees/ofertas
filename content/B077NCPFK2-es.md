@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077NCPFK2-es modamoda de - pequeño de cuero embrague ital metálico...'
-tags: 
+tags: tole.es
 actualPrice: 31.0 EUR
 currency: EUR
 price: 31.0

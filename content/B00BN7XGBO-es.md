@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BN7XGBO-es Lactacyd Gel de Higiene Íntima Diario Ph Equilibrado sin...'
-tags: 
+tags: tole.es
 actualPrice: 8.75 EUR
 currency: EUR
 price: 8.75

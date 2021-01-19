@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008XFDXM6-es Lonsdale - Pantalones de correr con dos rayas con cordón y...'
-tags: 
+tags: tole.es
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

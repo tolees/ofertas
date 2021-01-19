@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003TWOQ56-es Bosch 2 608 690 124 - Cincel plano RTec Sharp SDS-max -...'
-tags: 
+tags: tole.es
 actualPrice: 17.15 EUR
 currency: EUR
 price: 17.15

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z76MXFD-es Pantalla de Proyector de 100 Pulgadas Portátil para...'
-tags: 
+tags: tole.es
 actualPrice: 16.88 EUR
 currency: EUR
 price: 16.88

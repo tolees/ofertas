@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J6QX2W9-es Hackett London Archive Ujk Clr Polo Gris Grey Marl 933...'
-tags: 
+tags: tole.es
 actualPrice: 32.13 EUR
 currency: EUR
 price: 32.13

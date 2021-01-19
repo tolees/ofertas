@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HWBXP5T-es Set 5 Transpirable En Verano Bandas Boca Nariz Protección...'
-tags: 
+tags: tole.es
 actualPrice: 2.63 EUR
 currency: EUR
 price: 2.63

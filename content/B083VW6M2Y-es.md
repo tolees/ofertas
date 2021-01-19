@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083VW6M2Y-es Panamami Interfaz NGFF M2 Unidad de Estado sólido a USB3.0...'
-tags: 
+tags: tole.es
 actualPrice: 11.87 EUR
 currency: EUR
 price: 11.87

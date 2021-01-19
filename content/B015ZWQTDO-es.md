@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015ZWQTDO-es Inglesina Twin Swift - Sillita de paseo doble unisex color...'
-tags: 
+tags: tole.es
 actualPrice: 142.28 EUR
 currency: EUR
 price: 142.28

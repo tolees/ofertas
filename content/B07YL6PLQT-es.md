@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YL6PLQT-es Alpina 240271000/A18 Motosierra de gasolina AC 27 T 26.9...'
-tags: 
+tags: tole.es
 actualPrice: 127.74 EUR
 currency: EUR
 price: 127.74

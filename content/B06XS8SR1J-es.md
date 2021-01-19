@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XS8SR1J-es Versa 18790697 Perchero pie blanco - Metal y madera...'
-tags: 
+tags: tole.es
 actualPrice: 24.86 EUR
 currency: EUR
 price: 24.86

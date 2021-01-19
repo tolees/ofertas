@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BOWHB2M-es Lotus Reloj de Pulsera 18287/2'
-tags: 
+tags: tole.es
 actualPrice: 86.88 EUR
 currency: EUR
 price: 86.88

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZHDZFHC-es IKOHS Panificadora DEPAN 710-IK - Panificadora Automática...'
-tags: 
+tags: tole.es
 actualPrice: 119.95 EUR
 currency: EUR
 price: 119.95

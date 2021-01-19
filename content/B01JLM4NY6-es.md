@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JLM4NY6-es L Oréal Paris Make-up designer Millón de Pestañas Fatale...'
-tags: 
+tags: tole.es
 actualPrice: 4.92 EUR
 currency: EUR
 price: 4.92

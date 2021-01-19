@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07THRJX26-es Relojes Infantiles para niños Reloj Deportivo Digital al...'
-tags: 
+tags: tole.es
 actualPrice: 13.29 EUR
 currency: EUR
 price: 13.29

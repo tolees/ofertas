@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N7F5YQW-es EMPIRE GAMING – Nuevo – Ratón Gamer por Cable Hellhounds –...'
-tags: 
+tags: tole.es
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

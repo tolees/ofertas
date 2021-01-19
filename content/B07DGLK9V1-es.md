@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DGLK9V1-es Oral-B Genius 10000N Sensi Ultrathin - Cepillo Eléctrico 1...'
-tags: 
+tags: tole.es
 actualPrice: 157.46 EUR
 currency: EUR
 price: 157.46

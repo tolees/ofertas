@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085CGNPQK-es Tamaño A4 Niños Dibujo Molde de papel de placa de copia 3D...'
-tags: 
+tags: tole.es
 actualPrice: 3.06 EUR
 currency: EUR
 price: 3.06

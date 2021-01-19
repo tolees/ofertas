@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QJBBVNZ-es ROYAL SLEEP Canapé Abatible 105x190 de Gran Capacidad Tapa...'
-tags: 
+tags: tole.es
 actualPrice: 279.99 EUR
 currency: EUR
 price: 279.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0892J2MXB-es WesKimed DAC Convertidor Digital a Analógico Adaptador...'
-tags: 
+tags: tole.es
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

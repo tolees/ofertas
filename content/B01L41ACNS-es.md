@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L41ACNS-es Havaianas Origine Slim Alpargatas para Mujer Negro Black...'
-tags: 
+tags: tole.es
 actualPrice: 6.89 EUR
 currency: EUR
 price: 6.89

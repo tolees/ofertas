@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077QLQZ2S-es Reebok Princess Zapatillas para Mujer Negro Black 001 37.5 EU'
-tags: 
+tags: tole.es
 actualPrice: 32.21 EUR
 currency: EUR
 price: 32.21

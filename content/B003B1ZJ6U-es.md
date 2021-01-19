@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003B1ZJ6U-es Lacor 61940 - Botella biberón 400 ml color blanco'
-tags: 
+tags: tole.es
 actualPrice: 4.8 EUR
 currency: EUR
 price: 4.8

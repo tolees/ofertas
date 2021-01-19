@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NL9LYQH-es Skechers Girls Bobs Squad Trainers Grey Gray/Hot Pink...'
-tags: 
+tags: tole.es
 actualPrice: 28.47 EUR
 currency: EUR
 price: 28.47

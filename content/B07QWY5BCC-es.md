@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QWY5BCC-es Vovees Crema facial antiarrugas hidratante orgánica con...'
-tags: 
+tags: tole.es
 actualPrice: 29.93 EUR
 currency: EUR
 price: 29.93

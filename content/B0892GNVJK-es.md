@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0892GNVJK-es EKKONG Flotador Bebé Flotador Inflable para Bebé Anillo de...'
-tags: 
+tags: tole.es
 actualPrice: 15.35 EUR
 currency: EUR
 price: 15.35

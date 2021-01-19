@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000FIZNC2-es Shimano Fx Spinning 66Mhb2 195Mh'
-tags: 
+tags: tole.es
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

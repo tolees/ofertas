@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019JIAB1G-es Funko-6560 Triwizard Tournament Figura de Vinilo colección...'
-tags: 
+tags: tole.es
 actualPrice: 9.39 EUR
 currency: EUR
 price: 9.39

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TWXD92F-es Women s Secret Packs 1 Maternity Braguita Gris Marengo 90...'
-tags: 
+tags: tole.es
 actualPrice: 8.63 EUR
 currency: EUR
 price: 8.63

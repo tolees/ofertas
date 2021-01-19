@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VJB88HW-es Max Power Digital Funda para Xiaomi Mi 9 6.39" con Soporte...'
-tags: 
+tags: tole.es
 actualPrice: 7.25 EUR
 currency: EUR
 price: 7.25

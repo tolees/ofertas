@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H3SY2GN-es Lékué - Recipiente Hermético para Transportar Alimentos...'
-tags: 
+tags: tole.es
 actualPrice: 8.87 EUR
 currency: EUR
 price: 8.87

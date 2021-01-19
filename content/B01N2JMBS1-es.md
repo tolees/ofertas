@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N2JMBS1-es Lee Elly Jeans Azul One Wash Ha45 W29/L33 para Mujer'
-tags: 
+tags: tole.es
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

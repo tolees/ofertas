@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009R5GNNW-es DIM Generous Minimizer Sujetador Reductor Blanco White...'
-tags: 
+tags: tole.es
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

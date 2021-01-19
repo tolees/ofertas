@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y5YD5M5-es Moleskine - Agenda Semanal de 18 Meses Agenda Semanal...'
-tags: 
+tags: tole.es
 actualPrice: 16.19 EUR
 currency: EUR
 price: 16.19

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z3LSVBN-es Young & Ming 3 Unidades Cristal Templado para Huawei Watch...'
-tags: 
+tags: tole.es
 actualPrice: 7.85 EUR
 currency: EUR
 price: 7.85

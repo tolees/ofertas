@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1GL8P8-es Clarks Un Darcey Ease Mocasines para Mujer Multicolor...'
-tags: 
+tags: tole.es
 actualPrice: 16.02 EUR
 currency: EUR
 price: 16.02

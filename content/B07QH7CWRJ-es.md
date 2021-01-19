@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QH7CWRJ-es PRIMENATURE Energy Shot. Energía y vitaminas. Suplemento...'
-tags: 
+tags: tole.es
 actualPrice: 16.85 EUR
 currency: EUR
 price: 16.85

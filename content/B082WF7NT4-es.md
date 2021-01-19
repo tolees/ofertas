@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082WF7NT4-es 40g Bola de baño Tamaño pequeño Hogar Hotel Baño SPA...'
-tags: 
+tags: tole.es
 actualPrice: 1.17 EUR
 currency: EUR
 price: 1.17

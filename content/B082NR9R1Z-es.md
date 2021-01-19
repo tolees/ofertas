@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082NR9R1Z-es UniqueMe [3 Pack] Cristal Templado para Xiaommi Redmi Note...'
-tags: 
+tags: tole.es
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

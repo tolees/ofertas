@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072V1R9BM-es CtopoGo Pantalones Cortos de Deporte 2 en 1 para Mujer...'
-tags: 
+tags: tole.es
 actualPrice: 18.9 EUR
 currency: EUR
 price: 18.9

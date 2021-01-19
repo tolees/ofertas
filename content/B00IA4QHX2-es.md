@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IA4QHX2-es Gimi Lift 100 Tendedero de pared y techo de acero 6 m de...'
-tags: 
+tags: tole.es
 actualPrice: 23.82 EUR
 currency: EUR
 price: 23.82

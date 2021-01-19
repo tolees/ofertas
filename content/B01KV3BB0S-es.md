@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KV3BB0S-es Sennheiser GSP 300 - Microauricular Cerrado para Gaming...'
-tags: 
+tags: tole.es
 actualPrice: 71.0 EUR
 currency: EUR
 price: 71.0

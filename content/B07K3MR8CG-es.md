@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K3MR8CG-es L Oréal Paris Unlimited Máscara de Pestañas Waterproof...'
-tags: 
+tags: tole.es
 actualPrice: 10.58 EUR
 currency: EUR
 price: 10.58

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XKBPKJS-es Skechers Go Run Fast Valor Zapatillas para Niños Rojo Red...'
-tags: 
+tags: tole.es
 actualPrice: 26.22 EUR
 currency: EUR
 price: 26.22

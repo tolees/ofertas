@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DTMVKYJ-es Geox J Sandal FLEXYPER Boy A Sandalias con Punta Abierta...'
-tags: 
+tags: tole.es
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

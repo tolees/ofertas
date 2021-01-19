@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CT4QHCM-es Severin HV 7165 Aspiradora Manual y de Mango con Cepillo...'
-tags: 
+tags: tole.es
 actualPrice: 198.75 EUR
 currency: EUR
 price: 198.75

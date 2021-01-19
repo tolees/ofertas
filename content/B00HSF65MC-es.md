@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HSF65MC-es LE Tira LED Cadena de Luces 5m 300 LED SMD 2835 Blanco...'
-tags: 
+tags: tole.es
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

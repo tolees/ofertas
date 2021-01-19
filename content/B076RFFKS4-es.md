@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076RFFKS4-es Terapia plana bandas de resistencia Set látex libre...'
-tags: 
+tags: tole.es
 actualPrice: 7.88 EUR
 currency: EUR
 price: 7.88

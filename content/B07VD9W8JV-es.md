@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VD9W8JV-es YAMAMAY® Bañador brasileño – Essentials'
-tags: 
+tags: tole.es
 actualPrice: 6.48 EUR
 currency: EUR
 price: 6.48

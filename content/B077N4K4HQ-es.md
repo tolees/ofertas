@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077N4K4HQ-es L Oréal Paris False Lash Xfiber Xtreme Máscara de Pestañas...'
-tags: 
+tags: tole.es
 actualPrice: 9.32 EUR
 currency: EUR
 price: 9.32

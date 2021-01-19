@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QT61W4Y-es ASUS DUAL-GTX1650-4G - Tarjeta gráfica 4 GB GDDR5 OC 1695...'
-tags: 
+tags: tole.es
 actualPrice: 156.74 EUR
 currency: EUR
 price: 156.74

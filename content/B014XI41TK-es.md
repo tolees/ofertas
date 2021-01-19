@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014XI41TK-es Silky - Leggings de uso diario para mujer Mediana M /Negro'
-tags: 
+tags: tole.es
 actualPrice: 6.2 EUR
 currency: EUR
 price: 6.2

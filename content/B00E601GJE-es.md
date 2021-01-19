@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00E601GJE-es Oral - B pro - expert premium hilo dental - 40 m'
-tags: 
+tags: tole.es
 actualPrice: 4.35 EUR
 currency: EUR
 price: 4.35

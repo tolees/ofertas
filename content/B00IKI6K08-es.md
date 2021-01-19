@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IKI6K08-es Bosch Professional GBH 18 V-EC - Martillo perforador...'
-tags: 
+tags: tole.es
 actualPrice: 425.0 EUR
 currency: EUR
 price: 425.0

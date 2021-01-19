@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CSPSL46-es para Hombre de Piel de Botas de Seguridad para Hombre...'
-tags: 
+tags: tole.es
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

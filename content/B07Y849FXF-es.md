@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y849FXF-es HUYIYI Bolsas para Guardar Ropa Bolsas Vacio Ropa 2Pequeño...'
-tags: 
+tags: tole.es
 actualPrice: 13.88 EUR
 currency: EUR
 price: 13.88

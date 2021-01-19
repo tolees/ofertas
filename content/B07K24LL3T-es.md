@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K24LL3T-es Doact Corrector de Postura Corrector de Postura Espalda...'
-tags: 
+tags: tole.es
 actualPrice: 8.79 EUR
 currency: EUR
 price: 8.79

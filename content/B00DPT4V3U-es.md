@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DPT4V3U-es Belkin MixIt - Cable Micro-USB de Carga y sincronización...'
-tags: 
+tags: tole.es
 actualPrice: 2.19 EUR
 currency: EUR
 price: 2.19

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CMOG91G-es Bvlgari Aqua Eau de Toilette Para Hombre con Vaporizador...'
-tags: 
+tags: tole.es
 actualPrice: 71.43 EUR
 currency: EUR
 price: 71.43

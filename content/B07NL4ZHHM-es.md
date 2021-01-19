@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NL4ZHHM-es Lenovo ideapad 530S-15IKB Ordenador Portátil 15.6" FullHD...'
-tags: 
+tags: tole.es
 actualPrice: 799.99 EUR
 currency: EUR
 price: 799.99

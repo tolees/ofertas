@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L32FVW5-es ASICS Chaussures Roadhawk FF 2'
-tags: 
+tags: tole.es
 actualPrice: 90.99 EUR
 currency: EUR
 price: 90.99

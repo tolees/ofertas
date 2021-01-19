@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072BH4DR8-es Saco Nórdico Colores Para Cama de 90x190/200'
-tags: 
+tags: tole.es
 actualPrice: 33.95 EUR
 currency: EUR
 price: 33.95

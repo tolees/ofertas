@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0001Y8YKI-es Converse Chuck C Taylor A/S Hi Zapatillas Unisex Negro 53 EU'
-tags: 
+tags: tole.es
 actualPrice: 52.49 EUR
 currency: EUR
 price: 52.49

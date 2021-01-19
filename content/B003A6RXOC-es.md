@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003A6RXOC-es Moulinex A327R1 - Picadora 700 W de fácil sistema con tapa...'
-tags: 
+tags: tole.es
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

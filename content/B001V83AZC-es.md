@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001V83AZC-es crocs Baya Zuecos Unisex Adulto Negro Black 42/43 EU'
-tags: 
+tags: tole.es
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

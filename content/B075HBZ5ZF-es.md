@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075HBZ5ZF-es TACKLIFE T6 Arrancador de Coche 800A Pico 18000mAh Jump...'
-tags: 
+tags: tole.es
 actualPrice: 67.49 EUR
 currency: EUR
 price: 67.49

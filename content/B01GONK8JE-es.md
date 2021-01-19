@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GONK8JE-es Hollister Wave D Edp 100 Vapo Multicolor'
-tags: 
+tags: tole.es
 actualPrice: 16.75 EUR
 currency: EUR
 price: 16.75

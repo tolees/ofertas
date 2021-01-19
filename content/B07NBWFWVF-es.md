@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NBWFWVF-es BOSS Trunk 3p One Design Bóxer Open Miscellaneous 960...'
-tags: 
+tags: tole.es
 actualPrice: 16.17 EUR
 currency: EUR
 price: 16.17

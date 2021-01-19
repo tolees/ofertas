@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XK8DNLF-es find. Alpargata Destalonada de Ante Mujer Amarillo Yellow...'
-tags: 
+tags: tole.es
 actualPrice: 10.8 EUR
 currency: EUR
 price: 10.8

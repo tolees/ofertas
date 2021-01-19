@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MY9KD1O-es Vanguard Alta Fly 62T - Maleta trolley de transporte...'
-tags: 
+tags: tole.es
 actualPrice: 219.97 EUR
 currency: EUR
 price: 219.97

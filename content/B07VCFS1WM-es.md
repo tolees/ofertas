@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCFS1WM-es Logitech M350 PEBBLE Ratón Inalámbrico Bluetooth o 2.4 GHz...'
-tags: 
+tags: tole.es
 actualPrice: 19.09 EUR
 currency: EUR
 price: 19.09

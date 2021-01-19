@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000MX1YPU-es Casio A178WEA-1AES Reloj Unisex'
-tags: 
+tags: tole.es
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

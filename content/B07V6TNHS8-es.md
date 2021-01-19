@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V6TNHS8-es Tommy Hilfiger Classic Low Tommy Jeans Sneaker Zapatillas...'
-tags: 
+tags: tole.es
 actualPrice: 28.69 EUR
 currency: EUR
 price: 28.69

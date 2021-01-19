@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0083WWRIK-es Dior Eau Sauvage Agua de perfume Vaporizador 100 ml'
-tags: 
+tags: tole.es
 actualPrice: 56.95 EUR
 currency: EUR
 price: 56.95

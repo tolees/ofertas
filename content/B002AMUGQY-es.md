@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002AMUGQY-es Sisley Loción Tónica Floral sin alcohol piel seca /...'
-tags: 
+tags: tole.es
 actualPrice: 48.6 EUR
 currency: EUR
 price: 48.6

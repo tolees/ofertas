@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TXWN4H2-es KiplingBaroeMujerMonederosPlateado Metallic Glow...'
-tags: 
+tags: tole.es
 actualPrice: 14.1 EUR
 currency: EUR
 price: 14.1

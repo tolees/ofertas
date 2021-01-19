@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HGD5TJJ-es New Balance 373 Zapatillas Hombre Gris Grey Grey 47 EU 12 UK'
-tags: 
+tags: tole.es
 actualPrice: 59.5 EUR
 currency: EUR
 price: 59.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075D6FNTC-es EIS Lubricante Deluxe Aqua sandía efecto de larga duración...'
-tags: 
+tags: tole.es
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

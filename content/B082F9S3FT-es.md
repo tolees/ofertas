@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082F9S3FT-es 2020 Neuf Appareil Photo pour Enfants Appareil Photo/Vidéo...'
-tags: 
+tags: tole.es
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

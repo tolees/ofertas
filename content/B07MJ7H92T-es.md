@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MJ7H92T-es Clarks Cotrell Easy Mocasines para Hombre Azul Navy Combi...'
-tags: 
+tags: tole.es
 actualPrice: 56.24 EUR
 currency: EUR
 price: 56.24

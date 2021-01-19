@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TRMSYM4-es Levi s Plus Size Pl 501 Original Short Pantalones Cortos...'
-tags: 
+tags: tole.es
 actualPrice: 27.5 EUR
 currency: EUR
 price: 27.5

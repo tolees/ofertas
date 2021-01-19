@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003KYMU6K-es Kyocera 1T02LZ0NL0 - Tóner TK 170/FS1320/1370 color negro'
-tags: 
+tags: tole.es
 actualPrice: 72.5 EUR
 currency: EUR
 price: 72.5

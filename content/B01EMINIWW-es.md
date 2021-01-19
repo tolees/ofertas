@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EMINIWW-es Anker Powerline USB-C auf USB C 2.0 Kabel 1.8 m für USB...'
-tags: 
+tags: tole.es
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

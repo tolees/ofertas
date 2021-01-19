@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077DX5N2H-es Rieker B8762 Zapatillas sin Cordones para Hombre Azul...'
-tags: 
+tags: tole.es
 actualPrice: 13.2 EUR
 currency: EUR
 price: 13.2

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VDT3DLQ-es Pepe Jeans Verona W Set Zapatillas para Mujer Blanco White...'
-tags: 
+tags: tole.es
 actualPrice: 30.24 EUR
 currency: EUR
 price: 30.24

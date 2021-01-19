@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086ZHMHGN-es Microondas Cocina rápida Tejido de poliéster Lavable Bolsa...'
-tags: 
+tags: tole.es
 actualPrice: 4.41 EUR
 currency: EUR
 price: 4.41

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HQ3GKR-es Vogel s WALL 3345 Blanco Soporte de pared para TV 40 - 65...'
-tags: 
+tags: tole.es
 actualPrice: 115.0 EUR
 currency: EUR
 price: 115.0

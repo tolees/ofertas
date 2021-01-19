@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083L5GLJY-es Funda De Silicona Masculino Extendido Juguetes ḔxtêṈṧióṈ...'
-tags: 
+tags: tole.es
 actualPrice: 14.19 EUR
 currency: EUR
 price: 14.19

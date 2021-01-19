@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H3R3M0C-es Speedo Teamster 35L Mochilas y Bolsas Unisex Adulto Black M'
-tags: 
+tags: tole.es
 actualPrice: 53.82 EUR
 currency: EUR
 price: 53.82

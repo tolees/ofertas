@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XCWYCQK-es PUMA Ftblnxt Pant Sr Pantalones de Chándal de Fútbol...'
-tags: 
+tags: tole.es
 actualPrice: 19.89 EUR
 currency: EUR
 price: 19.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086BZ97QZ-es Oihxse Funda Compatible con iPhone 7 Plus/iPhone 8 Plus...'
-tags: 
+tags: tole.es
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

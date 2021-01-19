@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZRZH88-es Funko- Pop Figura de Vinilo: Música Morrissey...'
-tags: 
+tags: tole.es
 actualPrice: 8.27 EUR
 currency: EUR
 price: 8.27

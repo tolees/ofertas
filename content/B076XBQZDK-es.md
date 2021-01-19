@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076XBQZDK-es Geox Jr Piuma Ballerine A Bailarinas para Niñas Plateado...'
-tags: 
+tags: tole.es
 actualPrice: 28.95 EUR
 currency: EUR
 price: 28.95

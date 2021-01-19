@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DOZ5UJS-es Burberry Agua de colonia para hombres - 150 gr.'
-tags: 
+tags: tole.es
 actualPrice: 55.04 EUR
 currency: EUR
 price: 55.04

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJ6ZKWC-es Vila Clothes 14053555 Chaqueta Punto Turquesa Oil Blue Oil...'
-tags: 
+tags: tole.es
 actualPrice: 7.88 EUR
 currency: EUR
 price: 7.88

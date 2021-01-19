@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FRBAW0E-es Bella Aurora Solar Anti-Manchas Para Piel Sensible SPF 50+'
-tags: 
+tags: tole.es
 actualPrice: 14.1 EUR
 currency: EUR
 price: 14.1

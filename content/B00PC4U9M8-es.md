@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PC4U9M8-es Trust Yvi - Ratón óptico inalámbrico Flower Power'
-tags: 
+tags: tole.es
 actualPrice: 5.92 EUR
 currency: EUR
 price: 5.92

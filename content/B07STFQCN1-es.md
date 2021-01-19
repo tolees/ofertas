@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STFQCN1-es adidas Coast Star W Zapatillas de Gimnasia para Mujer...'
-tags: 
+tags: tole.es
 actualPrice: 35.19 EUR
 currency: EUR
 price: 35.19

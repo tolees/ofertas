@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JHWDJG9-es Columbia Ivo Trail Zapatillas para Hombre Gris Graphite...'
-tags: 
+tags: tole.es
 actualPrice: 70.0 EUR
 currency: EUR
 price: 70.0

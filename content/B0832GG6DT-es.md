@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0832GG6DT-es Yoowei Funda para Xiaomi Air 2 3in1 Silicona Funda + Cable...'
-tags: 
+tags: tole.es
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

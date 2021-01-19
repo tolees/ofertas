@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G6CRZ2Q-es Ultimate Ears Boom 3 Altavoz portátil Bluetooth Magic...'
-tags: 
+tags: tole.es
 actualPrice: 89.91 EUR
 currency: EUR
 price: 89.91

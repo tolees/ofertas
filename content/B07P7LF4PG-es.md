@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P7LF4PG-es Cómo Entrenar A Tu Dragón 3 4K UHD + BD [Blu-ray]'
-tags: 
+tags: tole.es
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

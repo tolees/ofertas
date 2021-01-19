@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D5SVYH3-es Under Armour Tech 9in 2 Pack Ropa Interior Hombre Gris Mod...'
-tags: 
+tags: tole.es
 actualPrice: 16.46 EUR
 currency: EUR
 price: 16.46

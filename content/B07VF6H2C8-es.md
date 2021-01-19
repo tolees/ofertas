@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VF6H2C8-es Hackett London Sanderson Chino Pantalones Azul Navy 595...'
-tags: 
+tags: tole.es
 actualPrice: 81.09 EUR
 currency: EUR
 price: 81.09

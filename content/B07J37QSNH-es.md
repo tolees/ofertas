@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J37QSNH-es Under Armour Mid Keyhole Sujetador Deportivo Mujer Gris...'
-tags: 
+tags: tole.es
 actualPrice: 13.67 EUR
 currency: EUR
 price: 13.67

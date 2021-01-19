@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BNLLBKW-es 20x Clips de Cierre de Plástico 11cm Pinzas de Cierre en...'
-tags: 
+tags: tole.es
 actualPrice: 4.47 EUR
 currency: EUR
 price: 4.47

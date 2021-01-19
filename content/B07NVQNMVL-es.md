@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NVQNMVL-es H.Koenig MSX250 Cortafiambre 25 cm profesional precisión...'
-tags: 
+tags: tole.es
 actualPrice: 349.0 EUR
 currency: EUR
 price: 349.0

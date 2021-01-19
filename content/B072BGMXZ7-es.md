@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072BGMXZ7-es Saucony Jazz Original Vintage Zapatillas de Cross para...'
-tags: 
+tags: tole.es
 actualPrice: 60.29 EUR
 currency: EUR
 price: 60.29

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y4YF7TK-es HP M01-F0026ns - Ordenador de sobremesa AMD Athlon SDRAM...'
-tags: 
+tags: tole.es
 actualPrice: 299.99 EUR
 currency: EUR
 price: 299.99

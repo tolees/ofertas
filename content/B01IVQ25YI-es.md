@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IVQ25YI-es Joe Weider Victory Multivit Up 80 gummies Sabor naranja y...'
-tags: 
+tags: tole.es
 actualPrice: 7.19 EUR
 currency: EUR
 price: 7.19

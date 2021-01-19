@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015CMHBOS-es Rimmel London Match Perfection Foundation Base de...'
-tags: 
+tags: tole.es
 actualPrice: 4.76 EUR
 currency: EUR
 price: 4.76

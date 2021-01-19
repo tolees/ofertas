@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L8SMTSY-es Medisana FM 883 Masajeador de pies Shiatsu masajeador...'
-tags: 
+tags: tole.es
 actualPrice: 77.99 EUR
 currency: EUR
 price: 77.99

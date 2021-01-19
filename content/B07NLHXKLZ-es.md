@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLHXKLZ-es Versace Jeans CouturePortafoglioMujerCarterasRojo Rosso 0...'
-tags: 
+tags: tole.es
 actualPrice: 84.72 EUR
 currency: EUR
 price: 84.72

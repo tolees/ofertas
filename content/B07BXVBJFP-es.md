@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BXVBJFP-es Carrera RC - Watergun 2.0 Coche Multicolor 370142033'
-tags: 
+tags: tole.es
 actualPrice: 32.22 EUR
 currency: EUR
 price: 32.22

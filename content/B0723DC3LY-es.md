@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0723DC3LY-es AmazonBasics - Kit de empuñaduras para mandos Joy-Con de...'
-tags: 
+tags: tole.es
 actualPrice: 7.32 EUR
 currency: EUR
 price: 7.32

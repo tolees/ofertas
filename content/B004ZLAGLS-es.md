@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004ZLAGLS-es OXO Good Grips 1312480V1MLNYK Cepillo Eléctrico para...'
-tags: 
+tags: tole.es
 actualPrice: 12.85 EUR
 currency: EUR
 price: 12.85

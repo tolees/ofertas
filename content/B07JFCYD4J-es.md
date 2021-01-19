@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JFCYD4J-es towinle 3 m 20 leds luz cadena marroquí LED Luz Blanco...'
-tags: 
+tags: tole.es
 actualPrice: 14.17 EUR
 currency: EUR
 price: 14.17

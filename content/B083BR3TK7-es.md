@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083BR3TK7-es MENGH Küchen teppiche 140x220cm Dekoration Teppich...'
-tags: 
+tags: tole.es
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

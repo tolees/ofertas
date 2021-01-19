@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y1LLTTF-es Cámara Bebé 1080P Cámara IP JUMPER Cámara de Seguridad...'
-tags: 
+tags: tole.es
 actualPrice: 29.69 EUR
 currency: EUR
 price: 29.69

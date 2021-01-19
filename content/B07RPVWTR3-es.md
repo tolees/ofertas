@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RPVWTR3-es Wahl Detailer Afro - Cortapelos Negro'
-tags: 
+tags: tole.es
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

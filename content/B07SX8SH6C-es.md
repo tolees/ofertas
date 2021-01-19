@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SX8SH6C-es Nike Free RN 5.0 Zapatillas de Running para Mujer Morado...'
-tags: 
+tags: tole.es
 actualPrice: 82.49 EUR
 currency: EUR
 price: 82.49

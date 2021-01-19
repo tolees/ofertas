@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073YPCH6C-es Lámpara de noche decorativa Crescent Neon Moon-Nursery...'
-tags: 
+tags: tole.es
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

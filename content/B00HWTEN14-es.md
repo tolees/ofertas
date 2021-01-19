@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HWTEN14-es NATURALIA - Colchón Cuna Baby Memory visco Talla 117x57cm...'
-tags: 
+tags: tole.es
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

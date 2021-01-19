@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMWP7TQ-es Wrangler Graphic Logo tee Camiseta Blanco Antique White...'
-tags: 
+tags: tole.es
 actualPrice: 8.8 EUR
 currency: EUR
 price: 8.8

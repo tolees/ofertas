@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S5LQQBX-es New Balance 574v2 Zapatillas para Hombre Gris Grey Spu 42 EU'
-tags: 
+tags: tole.es
 actualPrice: 53.72 EUR
 currency: EUR
 price: 53.72

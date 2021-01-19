@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JNDLCDF-es DAM TEKKIWEAR. DMX222BK. Pulsera Inteligente Ak-Q8S...'
-tags: 
+tags: tole.es
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

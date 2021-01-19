@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCX832H-es Columbia Challenger Chaqueta Sudadera Hombre Rojo Mountain...'
-tags: 
+tags: tole.es
 actualPrice: 74.95 EUR
 currency: EUR
 price: 74.95

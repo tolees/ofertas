@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7DKPM3-es Spiuk Culote Corto C/T BIOMECHANIC Hombre Petroleo/Fluor...'
-tags: 
+tags: tole.es
 actualPrice: 71.6 EUR
 currency: EUR
 price: 71.6

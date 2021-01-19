@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q4PSDJC-es Caja de luz iluminadora de película de rayos X LED Panel...'
-tags: 
+tags: tole.es
 actualPrice: 21.09 EUR
 currency: EUR
 price: 21.09

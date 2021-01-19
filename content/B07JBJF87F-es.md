@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JBJF87F-es Maleta de cabina Mickey Colored rígida 55cm blanca'
-tags: 
+tags: tole.es
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

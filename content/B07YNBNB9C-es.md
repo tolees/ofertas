@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YNBNB9C-es Braun Hogar Multi Quick 7 Batidora de Mano 1000 W plástico...'
-tags: 
+tags: tole.es
 actualPrice: 109.0 EUR
 currency: EUR
 price: 109.0

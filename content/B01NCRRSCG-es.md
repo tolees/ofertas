@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCRRSCG-es Dreimaster 36036408 Chaqueta para Mujer Azul Marine 12 L'
-tags: 
+tags: tole.es
 actualPrice: 24.42 EUR
 currency: EUR
 price: 24.42

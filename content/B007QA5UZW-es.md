@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007QA5UZW-es Soother Cadena Rosa'
-tags: 
+tags: tole.es
 actualPrice: 3.45 EUR
 currency: EUR
 price: 3.45

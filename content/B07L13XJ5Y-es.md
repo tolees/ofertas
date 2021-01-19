@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L13XJ5Y-es Under Armour Rival Fleece Sportstyle LC Sleeve Graphic...'
-tags: 
+tags: tole.es
 actualPrice: 17.24 EUR
 currency: EUR
 price: 17.24

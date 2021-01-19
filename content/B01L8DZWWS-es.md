@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L8DZWWS-es Coche Electrico de Bateria 12V para Niños Infantil...'
-tags: 
+tags: tole.es
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MBGL8Z6-es PowerBar PowerGel Hydro Cola 24x67ml - Gel Energético de...'
-tags: 
+tags: tole.es
 actualPrice: 32.97 EUR
 currency: EUR
 price: 32.97

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086VJKJ7N-es POLPqeD Cámara Web HD Mini Computadora USB Cámara...'
-tags: 
+tags: tole.es
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

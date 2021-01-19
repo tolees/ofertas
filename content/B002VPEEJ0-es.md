@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002VPEEJ0-es Makita FS4200 atornillador 500 W 120 V L X A X mm'
-tags: 
+tags: tole.es
 actualPrice: 125.35 EUR
 currency: EUR
 price: 125.35

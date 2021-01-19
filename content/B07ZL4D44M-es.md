@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZL4D44M-es Maxi-Cosi Lara Silla de paseo ligera y reclinable...'
-tags: 
+tags: tole.es
 actualPrice: 133.9 EUR
 currency: EUR
 price: 133.9

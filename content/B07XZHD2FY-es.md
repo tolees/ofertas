@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XZHD2FY-es Bamibi® Almohada Cervical Ergonómica y Ortopédica con...'
-tags: 
+tags: tole.es
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59

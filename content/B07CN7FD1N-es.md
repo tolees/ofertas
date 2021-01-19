@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CN7FD1N-es ibohr Mini Ventilador silencioso Ventilador eléctrico de...'
-tags: 
+tags: tole.es
 actualPrice: 15.4 EUR
 currency: EUR
 price: 15.4

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085CDHN4T-es FMPC Carcasa con Cuerda Samsung Galaxy A7 2018 Cristal TPU...'
-tags: 
+tags: tole.es
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9

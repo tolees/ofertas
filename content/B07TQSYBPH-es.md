@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TQSYBPH-es Unidad de Estado Sólido Lexar NS100 2 5" 512GB SATA III 6Gb/s'
-tags: 
+tags: tole.es
 actualPrice: 52.59 EUR
 currency: EUR
 price: 52.59

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007F6G3YE-es Lékué Decorador pastelería Silicona Rojo'
-tags: 
+tags: tole.es
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SSS6M3Q-es Simply Natural Cortaúñas para Mascotas Cortaúñas para...'
-tags: 
+tags: tole.es
 actualPrice: 7.88 EUR
 currency: EUR
 price: 7.88

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FTF61V7-es Fantasyworld FT245 + CPLD Programador de Alta Velocidad...'
-tags: 
+tags: tole.es
 actualPrice: 12.8 EUR
 currency: EUR
 price: 12.8

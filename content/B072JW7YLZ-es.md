@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072JW7YLZ-es White Day: A Labyrinth Named School'
-tags: 
+tags: tole.es
 actualPrice: 16.07 EUR
 currency: EUR
 price: 16.07

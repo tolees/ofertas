@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MLSSRQL-es Clarks Ronnie Top Botas Chelsea para Hombre Negro Black...'
-tags: 
+tags: tole.es
 actualPrice: 37.76 EUR
 currency: EUR
 price: 37.76

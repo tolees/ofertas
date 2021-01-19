@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QGD5BRC-es Roc Soleil - Pack Ahorro con Neceser de Regalo Incluye...'
-tags: 
+tags: tole.es
 actualPrice: 14 EUR
 currency: EUR
 price: 14

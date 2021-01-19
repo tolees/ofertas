@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZRK69MY-es Distribuidor Divisor de TV vía satélite/Antena/Cable de 4...'
-tags: 
+tags: tole.es
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

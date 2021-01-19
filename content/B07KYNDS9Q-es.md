@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KYNDS9Q-es DIY hecho a mano de costura de costura de alta calidad...'
-tags: 
+tags: tole.es
 actualPrice: 3.79 EUR
 currency: EUR
 price: 3.79

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RR5DNTG-es American Tourister Flylife Equipaje de Mano 67 Centimeters...'
-tags: 
+tags: tole.es
 actualPrice: 77.5 EUR
 currency: EUR
 price: 77.5

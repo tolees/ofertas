@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KL3LH5Y-es adidas D2m tee 3s T-Shirt Hombre White L'
-tags: 
+tags: tole.es
 actualPrice: 13.77 EUR
 currency: EUR
 price: 13.77

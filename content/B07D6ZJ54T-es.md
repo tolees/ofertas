@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D6ZJ54T-es adidas ARKYN Zapatillas de Deporte para Mujer Negro Core...'
-tags: 
+tags: tole.es
 actualPrice: 42.59 EUR
 currency: EUR
 price: 42.59

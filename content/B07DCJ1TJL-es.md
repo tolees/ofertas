@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DCJ1TJL-es Agatha Ruiz De La Prada Happy Agatha Juego de Maletas 66...'
-tags: 
+tags: tole.es
 actualPrice: 113.28 EUR
 currency: EUR
 price: 113.28

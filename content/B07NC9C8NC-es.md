@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NC9C8NC-es Pepe Jeans Axel Chaqueta Verde Bright Green 633 11-12 años...'
-tags: 
+tags: tole.es
 actualPrice: 50.66 EUR
 currency: EUR
 price: 50.66
