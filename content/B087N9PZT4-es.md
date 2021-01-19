@@ -26,9 +26,9 @@ Tienes [Funko- Pop Keychain: South Park-Cartman w/Clyde Figura Coleccionable  Mu
 
 🔎:
 
-- Funko POP! El juguete del año 2018
 - La figura mide 5 cm y se envía en una caja ilustrada con ventana
-- De la colección South Park, Cartman w/Clyde como llavero POP de Funko
+- Funko POP! El juguete del año 2018
 - ¡Descúbre otras figuras de la colección South Park y colecciónalas todas!
+- De la colección South Park, Cartman w/Clyde como llavero POP de Funko
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B087N9PZT4/?tag=tolees-21)
